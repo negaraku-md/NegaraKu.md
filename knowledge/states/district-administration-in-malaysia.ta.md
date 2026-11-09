@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "local-government-in-malaysia" }
 related: []
 keywords: ["pentadbiran daerah", "pejabat daerah", "pegawai daerah", "mukim", "pentadbir tanah", "daerah pentadbiran", "Kanun Tanah Negara"]
+framework: explainer
 ---
 
 நீங்கள் வாக்களிக்கும் மாநிலத்திற்கும் நீங்கள் வசிக்கும் கிராமத்திற்கும் இடையில், அரிதாகவே பேசப்படும், ஆனால் நிலம், வளர்ச்சித் திட்டங்கள் அல்லது அவசர உதவி தொடர்பாக நீங்கள் அடிக்கடி சந்திக்கும் ஒரு அரசு அடுக்கு உள்ளது: மாவட்டம் (daerah). மாநிலக் கொள்கை உண்மையான சேவைகளாக மாறும் இடம் இதுவே; அதன் மையம் மாவட்ட அலுவலகம் (Pejabat Daerah / District Office).

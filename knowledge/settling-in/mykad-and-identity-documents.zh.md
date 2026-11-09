@@ -80,6 +80,7 @@ keywords:
   - "kad pengenalan JPN warna"
   - "MyKid kanak-kanak"
   - "kad pengenalan warga asing Malaysia"
+framework: explainer
 ---
 
 许多已在大马生活多年的外籍人士——与本地人结婚、在这里养育孩子、持有一再更新多年的就业准证——仍然在纳闷自己何时会「拿到MyKad」。答案是：永远不会，不是因为居留时间长短，而是因为MyKad本来就不是为他们而设的。JPN 根据一个人的**身份**发出多种不同的卡，大马大部分外籍人士在身份改变之前，都不持有其中任何一种。

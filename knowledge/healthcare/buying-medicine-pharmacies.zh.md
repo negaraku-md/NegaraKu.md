@@ -53,6 +53,7 @@ relations:
   - { rel: "related-to", to: "healthcare-for-seniors" }
 related: ["medical-insurance", "healthcare-for-seniors"]
 keywords: ["beli ubat Malaysia", "farmasi Malaysia", "Akta Racun 1952", "ubat preskripsi", "ubat bebas", "Poisons Act 1952", "ahli farmasi berdaftar", "racun Kumpulan B", "Quest3+", "NPRA"]
+framework: explainer
 ---
 
 一位顾客在药剂柜台要买咳嗽药，立刻就获得配药。另一位顾客要买治喉咙痛的抗生素，却被要求先出示医生处方。这两笔交易发生在同一间药剂行、同一天——差别不在于药剂师的个人判断，而在于法律如何为该药物分类。

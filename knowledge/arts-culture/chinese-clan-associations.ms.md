@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-education-in-malaysia", "chinese-dialects", "chinese-new-villages", "population-composition"]
 keywords: ["华人会馆", "宗亲会", "会馆", "公司", "地缘性", "血缘性", "业缘性", "福建会馆", "客家公会", "邱公司", "龙山堂", "华总", "中华总商会", "姓氏桥", "新客", "义山", "Chinese clan associations Malaysia", "huiguan", "kongsi"]
+framework: history-culture
 ---
 
 Melangkah masuk ke kawasan sekitar Kota Cornwallis di George Town, Pulau Pinang, di antara deretan rumah kedai tiba-tiba muncul sebuah tokong marga dengan bumbung melentik berukir halus dan rasuk berwarna — itulah Leong San Tong Khoo Kongsi. Berjalan lebih jauh ke arah laut, terdapat deretan rumah kayu bertiang yang menjulur ke atas air, setiap perkampungan dinamakan sempena satu nama keluarga: Jeti Chew, Jeti Lim, Jeti Tan. Bangunan-bangunan ini bukan tokong, bukan juga sekadar kediaman, tetapi tinggalan fizikal salah satu bentuk organisasi tertua dalam masyarakat pendatang Cina — persatuan marga dan kampung halaman.

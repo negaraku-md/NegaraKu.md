@@ -84,6 +84,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["foreign-exchange-policy-malaysia", "resident-director-malaysia", "registered-office-malaysia"]
 keywords: ["corporate bank account malaysia", "open company bank account malaysia", "foreign owned company bank account rejected", "bank account KYC malaysia", "enhanced due diligence malaysia"]
+framework: explainer
 ---
 
 Mọi trang của đối thủ cạnh tranh về chủ đề này là một danh mục kiểm tra năm bước kết thúc

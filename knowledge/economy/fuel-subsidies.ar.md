@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["program-rahmah-cost-of-living", "cost-of-living-overview", "inflation-cpi", "ringgit", "gdp-overview"]
 keywords: ["دعم الوقود في ماليزيا", "آلية التسعير التلقائي", "APM", "سعر النفط", "BUDI95", "BUDI Diesel", "الدعم الموجَّه", "سعر RON95", "SKDS SKPS"]
+framework: explainer
 ---
 
 في أسبوع 23 إلى 29 يوليو 2026، كان بإمكان سائقَين أن يقفا عند المضخة نفسها، ويملآ خزانيهما بالوقود نفسه، ويدفعا سعرين يكاد أحدهما يبلغ ضعف الآخر. دفع أحدهما RM1.99 لكل لتر. ودفع الآخر RM3.62.

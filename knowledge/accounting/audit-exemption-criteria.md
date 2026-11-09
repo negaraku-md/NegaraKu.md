@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "unaudited-financial-statements" }
 related: ["companies-act-2016"]
 keywords: ["pengecualian audit", "audit exemption", "PD 10/2024", "Arahan Amalan 10/2024", "Sdn Bhd", "syarikat persendirian", "SSM", "seksyen 267", "penyata kewangan tidak diaudit"]
+framework: rules
 ---
 
 Selama bertahun-tahun, hampir setiap Sdn Bhd di Malaysia terpaksa melantik juruaudit — tidak kira sama ada ia sebuah kedai runcit satu-orang atau sebuah kilang. Pada penghujung 2023, terdapat 666,767 syarikat aktif tetapi hanya 1,919 juruaudit yang diluluskan untuk menandatangani akaun mereka. Arahan Amalan SSM 10/2024 mengubah keadaan itu: mulai tahun kewangan 2025, ratusan ribu syarikat kecil boleh melangkau audit statutori sepenuhnya — jika mereka memenuhi kriterianya.

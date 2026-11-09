@@ -90,6 +90,7 @@ relations:
   - { rel: "compares-with", to: "akpk-debt-management-programme" }
 related: []
 keywords: ["kebankrapan", "bankrap", "insolvensi", "Akta Insolvensi 1967", "MDI", "Ketua Pengarah Insolvensi", "pelepasan bankrap", "seksyen 33C", "AKPK", "DMP"]
+framework: explainer
 ---
 
 Satu invois yang tidak dijelaskan boleh berakhir sebagai satu perintah mahkamah yang mengubah hampir setiap urusan kewangan seseorang — daripada akaun bank sehinggalah kebenaran untuk keluar negara. Di Malaysia, garis pemisah itu ditakrifkan oleh satu undang-undang tunggal: Akta Insolvensi 1967 (Akta 360). Artikel ini menghuraikan proses tersebut secara deskriptif, tanpa memihak kepada mana-mana pandangan.

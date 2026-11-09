@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "equity-crowdfunding-p2p-malaysia" }
 related: ["kl20-startup-ecosystem", "securities-commission-malaysia"]
 keywords: ["venture capital malaysia", "private equity malaysia", "VCC VCMC malaysia", "SC registration venture capital", "raise funding startup malaysia", "MAVCAP", "Penjana Kapital", "VC tax incentive malaysia"]
+framework: explainer
 ---
 
 マレーシアの企業の多くは、内部留保、銀行の当座貸越、あるいは中小企業向け融資によって成長する。しかし、少数ながら重要な一群の企業は、それとは異なり、他者の資本によって成長する——事業の一部を買い取り、それを拡大させ、数年後に何倍もの価格でその持分を売却するファンドである。これがベンチャーキャピタル（VC）とプライベートエクイティ（PE）の役割であり、マレーシアがこの活動を規制し、資金を供給し、課税する方法は、それが米国と同じように機能すると思い込んでいる人々を驚かせるものである。

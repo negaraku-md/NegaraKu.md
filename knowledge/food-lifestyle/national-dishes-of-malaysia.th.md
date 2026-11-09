@@ -87,6 +87,7 @@ relations:
   - { rel: "explained-in", to: "national-heritage-act-2005" }
 related: ["teh-tarik"]
 keywords: ["nasi lemak", "roti canai", "char kuey teow", "laksa", "asam laksa", "hidangan kebangsaan Malaysia", "makanan warisan", "UNESCO warisan tidak ketara", "makanan Malaysia"]
+framework: explainer
 ---
 
 ขอให้ชาวมาเลเซียสิบคนบอกชื่อ "อาหารประจำชาติ" ของประเทศ แล้วเก้าในนั้นจะพูดว่านาซีเลอมัก (nasi lemak) ก่อนที่คุณจะถามจบด้วยซ้ำ แต่คำตอบที่แท้จริงน่าสนใจกว่านั้น คือ มาเลเซียไม่เคยประกาศอาหารจานเดียวอย่างถูกต้องตามกฎหมาย แต่ประเทศนี้กลับมีอาหารจำนวนหนึ่งที่โดยรวมนำอัตลักษณ์ของมันสู่เวทีโลก

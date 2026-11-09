@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["batik", "wayang-kulit"]
 keywords: ["songket", "tenunan songket", "kek tenun", "benang emas", "songket Terengganu", "songket Kelantan"]
+framework: history-culture
 ---
 
 เสียงที่ได้ยินมากที่สุดในโรงทอซงเกตไม่ใช่เสียงเครื่องจักร มันคือเสียงไม้ถูกกด เส้นด้ายถูกดึง และไม้ไผ่ซี่เล็กถูกสอดเข้าแล้วดึงออก — ซ้ำแล้วซ้ำเล่า ทีละแถวลวดลาย ตลอดทั้งวัน

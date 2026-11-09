@@ -96,6 +96,7 @@ social:
     - "#MalaysianFood"
     - "#HariRaya"
     - "#Minangkabau"
+framework: explainer
 ---
 
 하리 라야를 앞둔 며칠 동안 말레이인의 부엌 앞을 지나가면, 른당을 눈으로 보기

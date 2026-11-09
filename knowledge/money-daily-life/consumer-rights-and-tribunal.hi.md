@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["consumer-protection-act", "duitnow-qr-payments", "opening-bank-account"]
 keywords: ["उपभोक्ता अधिकार मलेशिया", "consumer rights Malaysia", "उपभोक्ता दावा न्यायाधिकरण", "Tribunal for Consumer Claims", "TTPM", "KPDN शिकायत", "KPDN complaint", "मलेशिया धन-वापसी", "consumer protection act 1999", "RM50000 का दावा कैसे करें", "ttpm.kpdn.gov.my"]
+framework: how-to
 ---
 
 एक फ़ोन दूसरे ही सप्ताह में बंद पड़ जाता है। एक ठेकेदार अग्रिम राशि जेब में रखकर फ़ोन उठाना

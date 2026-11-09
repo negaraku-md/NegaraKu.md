@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "import-duty" }
 related: ["sales-and-service-tax"]
 keywords: ["duti eksais", "excise duty", "Akta Eksais 1976", "cukai kereta", "duti eksais rokok", "cukai gula", "minuman bergula", "JKDM", "kastam"]
+framework: explainer
 ---
 
 ซื้อรถยนต์สักคันในมาเลเซียแล้วคุณอาจจ่ายภาษีที่เกือบเท่ากับราคารถเอง สาเหตุหลักคือภาษีอย่างหนึ่งที่ไม่ค่อย

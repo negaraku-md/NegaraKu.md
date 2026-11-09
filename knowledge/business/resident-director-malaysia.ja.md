@@ -111,6 +111,7 @@ keywords:
   - "ordinarily resident director"
   - "foreign owned Sdn Bhd director"
   - "pengarah pemastautin Malaysia"
+framework: explainer
 ---
 
 外国人としてマレーシア企業をどう設立するか検索すれば、三回クリックする間にノミニー取締役

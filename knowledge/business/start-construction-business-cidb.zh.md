@@ -82,6 +82,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaConstruction
     - ContractorMalaysia
+framework: how-to
 ---
 
 你可以在一个下午注册一家公司，但那家公司在取得第二张独立执照之前，仍不能合法地浇筑楼板、为建筑布线或投标道路合同。在马来西亚，建筑是一项受监管的行业：*公司*向 SSM 注册，而*承包商*向 CIDB 注册。跳过第二步，你承接的第一份工程就是刑事犯罪，而非合同。

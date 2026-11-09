@@ -129,6 +129,7 @@ keywords:
   - "DBKK business licence"
   - "SSM Sabah sole proprietorship"
   - "business registration Kota Kinabalu"
+framework: how-to
 ---
 
 மலேசியாவில் வணிகத்தைப் பதிவு செய்வதற்கான ஒவ்வொரு தேசிய வழிகாட்டியும் EzBiz-ஐத் திறந்து RM60

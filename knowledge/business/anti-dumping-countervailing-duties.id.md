@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "sector-licence-directory" }
 related: ["sector-licence-directory", "manufacturing-licence-malaysia"]
 keywords: ["duti anti-lambakan malaysia", "duti timbal balas malaysia", "akta 504", "pemulihan perdagangan miti", "anti lambakan keluli malaysia", "kod hs duti import malaysia", "petisyen pemulihan perdagangan malaysia"]
+framework: how-to
 ---
 
 Seorang importir mengeluarkan konsainan gulungan baja tergalvanisasi dari

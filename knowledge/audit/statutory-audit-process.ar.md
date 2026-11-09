@@ -109,6 +109,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.259"
     consequence: "Fine up to RM50,000, plus RM1,000 a day for a continuing offence"
+framework: explainer
 ---
 
 تنشر كل شركة تدقيق في ماليزيا تقريبًا صفحةً عن سبب حاجتك إلى تدقيق. ولا تكاد أيٌّ منها تنشر ما يحدث أثناءه. وليس ذلك سهوًا. فمدير المالية الذي يفهم التسلسل يستطيع أن يخطّط في ضوئه، وأن يردّ على قائمة المطالب، وأن يكفّ عن دفع ثمن فوضاه الخاصة.

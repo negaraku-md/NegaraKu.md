@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "sdn-bhd-financial-statements-filing" }
 related: []
 keywords: ["audit statutori", "pengecualian audit", "Akta Syarikat 2016", "seksyen 267", "PD 10/2024", "juruaudit Sdn Bhd", "SSM audit exemption"]
+framework: rules
 ---
 
 ท่านเพิ่งจดทะเบียน Sdn Bhd ธุรกิจยังเล็ก และเลขานุการบริษัทเพิ่งส่งใบแจ้งหนี้ค่าธรรมเนียมการ

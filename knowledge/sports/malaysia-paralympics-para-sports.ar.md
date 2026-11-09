@@ -94,6 +94,7 @@ relations:
   - { rel: "governs", to: "malaysia-para-athletics" }
 related: []
 keywords: ["Majlis Paralimpik Malaysia", "Paralympic Council Malaysia", "الرياضة البارالمبية", "الألعاب البارالمبية", "Bonnie Bunyau Gustin", "Cheah Liek Hou", "Abdul Latif Romly"]
+framework: explainer
 ---
 
 حين دافع تشيا ليك هو عن ذهبيته في تنس الريشة فئة SU5 في باريس 2024، أكّد ذلك الانتصار أن الرياضة البارالمبية الماليزية صار لها الآن صفّ أمتن من الأبطال، لا مجرد إنجاز عابر. وخلف تلك اللحظة بنية حوكمة متمايزة، منفصلة عن العالم الأولمبي الأشهر.

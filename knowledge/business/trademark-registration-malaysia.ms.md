@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["trademark-classes-fees-malaysia", "ip-ownership-malaysia", "company-name-search-ssm"]
 keywords: ["pendaftaran cap dagangan malaysia", "cap dagangan myipo", "fi cap dagangan malaysia", "akta cap dagangan 2019", "protokol madrid malaysia", "daftar cap dagangan malaysia"]
+framework: explainer
 ---
 
 Menempah nama syarikat di SSM tidak melindungi apa-apa. Ia menghalang syarikat

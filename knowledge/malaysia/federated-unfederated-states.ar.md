@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "nine-royal-houses" }
 related: ["straits-settlements", "malayan-union", "nine-royal-houses", "malay-sultanate-system"]
 keywords: ["الولايات الملايوية المتّحدة", "الولايات الملايوية غير المتّحدة", "نظام المقيم البريطاني", "نظام المستشار البريطاني", "معاهدة بانكور 1874", "المقيم العام كوالالمبور", "المعاهدة الإنجليزية-السيامية 1909", "المستشار العام جوهور", "Federated Malay States", "Unfederated Malay States", "Pangkor Treaty 1874", "Anglo-Siamese Treaty 1909"]
+framework: explainer
 ---
 
 تسع ولايات ملايوية، وقوّة إمبراطورية واحدة — ومع ذلك لم يكن الترتيب واحداً بل اثنين. وذلك الانقسام هو ما تتجاوزه أكثر ملخّصات مالايا الاستعمارية، وهو لبّ هذا المقال كلّه.

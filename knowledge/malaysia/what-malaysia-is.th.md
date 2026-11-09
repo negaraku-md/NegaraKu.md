@@ -54,6 +54,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["what is Malaysia", "federation of Malaysia", "13 states 3 federal territories", "elective monarchy Malaysia", "federal structure Malaysia", "Yang di-Pertuan Agong", "Federal Constitution"]
+framework: explainer
 ---
 
 มาเลเซียไม่ใช่ที่แห่งเดียวที่มีรัฐบาลเดียว มันเป็นสหพันธรัฐ คือ ประเทศเดียวที่ถูกเย็บรวมจากสิบสามรัฐและสามดินแดนสหพันธ์ ตั้งอยู่บนผืนแผ่นดินสองส่วนที่ถูกคั่นด้วยทะเลจีนใต้หลายร้อยกิโลเมตร การเข้าใจโครงสร้างนั้นก่อนทำให้เกือบทุกสิ่งอื่นเกี่ยวกับประเทศนี้ตามได้ง่ายขึ้น

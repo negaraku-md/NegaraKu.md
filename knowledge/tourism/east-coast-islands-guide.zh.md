@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "northeast-monsoon" }
 related: []
 keywords: ["Perhentian", "Redang", "Tioman", "Kapas", "marine park", "conservation fee", "northeast monsoon", "Malaysia islands", "snorkelling", "diving"]
+framework: explainer
 ---
 
 十二月来到热浪岛的沙滩度假村，你多半会发现船只不见了、码头一片寂静、潜水店也关门大吉。东海岸岛屿依循的是一份由海洋书写的日历，而不是旅游手册——它们也依循一套多数初次到访者要到售票柜台才发现的海洋公园规则。

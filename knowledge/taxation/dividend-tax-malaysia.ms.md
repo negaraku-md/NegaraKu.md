@@ -69,6 +69,7 @@ social:
     - LHDN
     - YA2025
     - InvestingMalaysia
+framework: rules
 ---
 
 Selama bertahun-tahun, jawapan kepada "adakah dividen Malaysia saya dicukai?" ialah tidak yang jelas — sistem satu peringkat mencukai keuntungan sekali sahaja, di peringkat syarikat, dan membayar dividen tanpa cukai. Mulai tahun taksiran 2025, itu bukan lagi keseluruhan ceritanya bagi pemegang saham besar: seseorang individu yang dividen Malaysianya melebihi RM100,000 dalam setahun kini membayar cukai 2% ke atas lebihan tersebut.

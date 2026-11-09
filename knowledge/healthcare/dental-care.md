@@ -75,6 +75,7 @@ keywords:
   - "klinik pergigian pakar hospital"
   - "Akta Pergigian 2018"
   - "carian klinik pergigian kerajaan"
+framework: explainer
 ---
 
 Ramai orang menganggap "klinik gigi" itu satu benda sahaja — tempat untuk

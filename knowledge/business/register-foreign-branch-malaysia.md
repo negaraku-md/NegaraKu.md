@@ -121,6 +121,7 @@ keywords:
   - "foreign company local agent Malaysia"
   - "branch registration fee SSM"
   - "foreign company annual return Malaysia"
+framework: how-to
 ---
 
 The registration fee is the part everyone budgets for. It is not the part that hurts.

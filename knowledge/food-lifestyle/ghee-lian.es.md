@@ -72,6 +72,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#GheeLian", "#Penang", "#BibGourmand", "#StreetFood", "#Malaysia"]
+framework: profile
 ---
 
 El tom yum es tailandés de nacimiento, pero en un puesto de comida cerca de la

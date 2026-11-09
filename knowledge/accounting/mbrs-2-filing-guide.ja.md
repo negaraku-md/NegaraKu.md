@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "extension-of-time-ssm" }
 related: ["mbrs-2", "mbrs-tagging-errors", "financial-statement-pack", "financial-statements-lodgement", "unaudited-financial-statements", "extension-of-time-ssm", "mfrs-vs-mpers"]
 keywords: ["MBRS 2.0 filing guide", "mTool 2.2", "SSMxT taxonomy", "XBRL tagging Malaysia", "MBRS entry point", "mPortal maker lodger", "MBRS rejection", "prepare financial statements XBRL SSM"]
+framework: how-to
 ---
 
 「MBRS 2.0」を検索した結果は、そのほとんどが「自分でやらずに済ませる方法」を売り込む人たちで埋め尽くされている。変換ベンダー、外部委託のタグ付けサービス、そして「お問い合わせください」で終わる Big Four の準備状況アピール。署名済みの決算書と SSM からの受領通知のあいだで実際に何が起きるのかを、公開している者は誰もいない。

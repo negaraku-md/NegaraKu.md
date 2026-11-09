@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "mbrs-xbrl-filing" }
 related: ["companies-act-2016"]
 keywords: ["MFRS 10", "consolidated financial statements", "control", "subsidiary", "holding company", "Companies Act 2016", "MBRS", "group accounts", "Malaysia"]
+framework: explainer
 ---
 
 他社の支配株式を取得すれば、貸借対照表に一項目を追加しただけでは済まない——マレーシアの会計ルールが単一の実体として扱うことを譲らないグループを作り出したことになる。これこそがMFRS 10『連結財務諸表』の背後にある静かな力である。ある会社が別の会社を支配した瞬間から、両者は外部に対して一体として報告しなければならない。

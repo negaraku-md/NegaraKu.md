@@ -62,6 +62,7 @@ relations:
   - { rel: "part-of", to: "education" }
 related: []
 keywords: ["special education Malaysia", "PPKI programme", "PPI inclusive education", "OKU card children", "sekolah pendidikan khas", "learning disability support Malaysia", "special education curriculum Malaysia", "TASKA OKU"]
+framework: explainer
 ---
 
 நோயறிதல் என்பது முதல் உரையாடல் மட்டுமே. இரண்டாவது உரையாடல் — பெரும்பாலும் அதிக குழப்பமானது — உங்கள் குழந்தை உண்மையில் எந்தப் பள்ளி வழியில் செல்கிறது, மேலும் பள்ளிக்கு முன்பே OKU அட்டை ஏன் முக்கியமானதாகத் தோன்றுகிறது என்பதுதான். மலேசியாவின் அமைப்பில் மூன்று அரசு வழிகள், அவை அனைத்திற்கும் வழங்கும் ஒரு தனித்த இயலாமைப் பதிவு செயல்முறை, மேலும் பெரும்பாலான பெற்றோர்கள் எந்த ஒரு அதிகாரப்பூர்வப் பக்கத்தின் மூலமாகவும் அல்லாமல் வாய்மொழியாகக் கண்டறியும் தனியார் மற்றும் NGO சிகிச்சையின் ஒரு இணையான உலகம் உள்ளன.

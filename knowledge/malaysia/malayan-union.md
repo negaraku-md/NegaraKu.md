@@ -80,6 +80,7 @@ keywords:
   - "kedudukan Raja-Raja Melayu"
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
+framework: history-culture
 ---
 
 Selama satu tahun sepuluh bulan, Tanah Melayu diperintah di bawah sebuah perlembagaan yang hari ini hampir tidak dikenali sesiapa selain namanya. Malayan Union bermula pada 1 April 1946 dan berakhir pada 31 Januari 1948 — cukup singkat untuk tidak sempat meninggalkan bangunan, mata wang atau generasi pentadbir sendiri.

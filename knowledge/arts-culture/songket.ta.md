@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["batik", "wayang-kulit"]
 keywords: ["songket", "tenunan songket", "kek tenun", "benang emas", "songket Terengganu", "songket Kelantan"]
+framework: history-culture
 ---
 
 ஒரு சொங்கெட் பட்டறையில் அதிகம் கேட்கும் ஒலி இயந்திரத்தின் ஒலி அல்ல. அது மரம் அழுத்தப்படும், இழை இழுக்கப்படும், ஒரு மூங்கில் ஊசி உள்ளே செருகப்பட்டு வெளியே இழுக்கப்படும் ஒலி — மீண்டும் மீண்டும், ஒரு நேரத்தில் ஒரு வரிசை வடிவம், நாள் முழுவதும்.

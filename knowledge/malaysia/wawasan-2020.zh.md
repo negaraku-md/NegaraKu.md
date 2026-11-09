@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "new-economic-policy" }
 related: ["new-economic-policy"]
 keywords: ["Wawasan 2020", "Vision 2020", "Mahathir Mohamad", "Bangsa Malaysia", "negara maju", "sembilan cabaran", "Wawasan Kemakmuran Bersama 2030"]
+framework: explainer
 ---
 
 1991年2月的一个早晨，一位首相站在国内知名商界人士面前，为未来30年立下一个目标：到2020年，马来西亚应成为一个完全发达的国家——不仅在经济层面，也包括团结、社会公正与公民成熟等方面。这个构想后来便被称为2020年宏愿。

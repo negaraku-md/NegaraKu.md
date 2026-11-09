@@ -113,6 +113,7 @@ relations:
   - { rel: "affects", to: "permanent-establishment" }
 related: ["transfer-pricing-documentation", "cbcr-and-master-file", "dta-network", "permanent-establishment"]
 keywords: ["ترتيب التسعير المسبق ماليزيا", "advance pricing arrangement malaysia", "apa malaysia lhdn", "APA ثنائي ماليزيا", "رسم طلب APA ماليزيا", "pu a 166 2023", "rollback APA ماليزيا"]
+framework: how-to
 ---
 
 يصف معظم المستشارين ترتيب التسعير المُسبَق كأنه قائمة خيارات — أحادي إن أردته رخيصاً وسريعاً، ثنائي إن أردت حماية المعاهدة. لكن في ماليزيا لا توجد قائمة خيارات. فالقاعدة 2(2) من Income Tax (Advance Pricing Arrangement) Rules 2023، أي P.U.(A) 166/2023، تقرّر نيابةً عنك، وتقرّر بناءً على حقيقة واحدة: هل للدولة التي يوجد فيها طرفك ذو العلاقة ترتيب مع ماليزيا بموجب المادة 132 من Income Tax Act 1967.

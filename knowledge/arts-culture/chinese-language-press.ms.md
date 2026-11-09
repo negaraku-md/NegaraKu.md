@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "tamil-language-press" }
 related: ["chinese-education-in-malaysia", "chinese-clan-associations", "tamil-language-press", "languages-spoken"]
 keywords: ["华文报", "华文报业", "星洲日报", "中国报", "南洋商报", "光明日报", "东方日报", "世华媒体", "明报", "华教", "印刷机与出版物法令", "数码转型", "Chinese-language press Malaysia", "Sin Chew Daily", "Media Chinese International"]
+framework: history-culture
 ---
 
 Di kedai kopi pada waktu pagi, sebuah akhbar Cina yang terbuka lebar sering diletakkan bersebelahan dengan secawan kopi. Pembaca membelek berita besar dalam dan luar negara di muka hadapan, lalu selalunya terus menuju ke halaman yang paling mereka kenali — ada yang dahulu melihat berita tempatan tentang sekolah Cina mana yang mengadakan jualan amal, ada yang membelek ruangan sastera dan pandangan, dan ada pula yang hanya mahu ruangan obituari, iklan kecil dan nombor ekor. Bagi ramai orang Cina Malaysia, akhbar Cina bukan sekadar berita, tetapi satu tabiat membaca bahasa Cina yang berlangsung setiap hari.

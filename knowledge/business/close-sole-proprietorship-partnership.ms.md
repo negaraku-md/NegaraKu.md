@@ -76,6 +76,7 @@ social:
     - SoleProprietor
     - DoingBusinessInMalaysia
     - MalaysiaTax
+framework: how-to
 ---
 
 Mendaftarkan perniagaan milikan tunggal atau perkongsian mengambil masa sepuluh minit di portal ezBiz, jadi kebanyakan orang menganggap menutupnya juga sama tidak formalnya — anda berhenti berniaga dan ia luput dengan senyap. Ia tidak begitu. Perniagaan yang berdaftar di bawah **Akta Pendaftaran Perniagaan 1956** kekal dalam daftar SSM sehingga anda menamatkannya secara aktif, dan selagi ia berada di situ ia terus memerlukan pembaharuan, mendedahkan anda kepada penalti, dan boleh dibatalkan oleh Pendaftar. Ada cara yang betul untuk menutupnya, ia percuma, dan ada jam yang berdetik ke atasnya.

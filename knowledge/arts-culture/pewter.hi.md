@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
+framework: history-culture
 ---
 
 टिन पर बसे एक शहर ने अंततः दुनिया को एक धातु-शिल्प दे दिया। Kuala Lumpur इसलिए अस्तित्व में है क्योंकि खोजकर्ताओं को वहाँ टिन का अयस्क मिला जहाँ Klang और Gombak नदियाँ मिलती हैं। दशकों बाद, उसी टिन-अर्थव्यवस्था में काम करने आया एक किशोर टिन-कारीगर मंदिर की वेदियों के लिए धूपदान गढ़ने लगा — और उसने जो कार्यशाला खोली वह अब धरती पर pewter का सबसे बड़ा निर्माता है।

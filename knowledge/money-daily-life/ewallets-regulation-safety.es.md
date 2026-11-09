@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "duitnow-qr" }
 related: ["pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["billetera electrónica Malasia", "dinero electrónico", "e-wallet Malaysia", "e-money", "Touch n Go eWallet", "Boost", "GrabPay", "ShopeePay", "BNM", "PIDM", "cuenta fiduciaria", "salvaguarda safeguarding"]
+framework: explainer
 ---
 
 Tocas «pagar» en el mostrador, el saldo de tu billetera electrónica baja unos ringgit y la transacción se completa en un segundo. Pero ¿dónde se guardan en realidad los RM200 que «recargaste» esta mañana —y qué pasa con ellos si la empresa detrás de la aplicación quiebra de repente? La respuesta es distinta de lo que ocurre con el dinero de tu cuenta bancaria, y la diferencia importa.

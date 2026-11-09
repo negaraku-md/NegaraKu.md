@@ -145,6 +145,7 @@ relations:
   - { rel: "compares-with", to: "employment-pass-malaysia" }
 related: ["labour-law-map-malaysia", "worker-accommodation-act-446", "employment-pass-malaysia"]
 keywords: ["hiring foreign workers malaysia", "section 60k", "plks", "eppax", "fwcms", "fomema", "visa dengan rujukan", "foreign worker quota malaysia"]
+framework: how-to
 ---
 
 ほとんどのマレーシア外国人労働者採用ガイドは、クオータの説明から始まる。だがクオータはステップ3にすぎない。

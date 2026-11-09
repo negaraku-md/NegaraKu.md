@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "score-sarawak" }
 related: ["tenaga-nasional"]
 keywords: ["hidrokuasa", "empangan Bakun", "Murum", "Baleh", "Kenyir", "Temengor", "Sarawak Energy", "tenaga boleh baharu", "hydropower Malaysia"]
+framework: explainer
 ---
 
 น้ำที่ไหลลงจากเทือกเขาฝนของบอร์เนียวในปัจจุบันหมุนกังหันที่จ่ายไฟให้โรงงานอะลูมิเนียม และนั่นคือแก่นของยุทธศาสตร์พลังงานหมุนเวียนของมาเลเซีย อย่างไรก็ตาม เส้นทางสู่จุดนั้นถูกทำเครื่องหมายด้วยเขื่อนขนาดใหญ่ ทะเลสาบกว้างหลายร้อยตารางกิโลเมตร และครอบครัวพื้นเมืองหลายพันครอบครัวที่ถูกบังคับให้ย้ายถิ่นฐาน

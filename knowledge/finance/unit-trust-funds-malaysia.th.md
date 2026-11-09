@@ -79,6 +79,7 @@ relations:
   - { rel: "compares-with", to: "amanah-saham-bumiputera" }
 related: ["securities-commission-malaysia"]
 keywords: ["unit trust malaysia", "unit trust funds", "net asset value", "sales charge", "management fee", "securities commission", "FIMM", "equity fund", "money market fund", "EPF i-invest"]
+framework: explainer
 ---
 
 มอบเงินของคุณให้คนแปลกหน้านำไปลงทุน แล้วคุณจะต้องการสามสิ่ง: กฎ ผู้บันทึกคะแนน และคนอื่นถือเงินไว้ กองทุนรวมของมาเลเซียให้ครบทั้งสามอย่าง เงินริงกิตของคุณถูกรวมกับนักลงทุนอีกหลายพันคน บริษัทจัดการที่ได้รับใบอนุญาตตัดสินใจว่าจะซื้ออะไร และผู้ดูแลผลประโยชน์ (trustee) ที่เป็นอิสระถือครองสินทรัพย์เพื่อไม่ให้ผู้จัดการหอบเงินหนีไปได้ง่าย ๆ การจัดการทั้งหมดอยู่ภายใต้คณะกรรมการกำกับหลักทรัพย์มาเลเซีย (Securities Commission Malaysia, SC)

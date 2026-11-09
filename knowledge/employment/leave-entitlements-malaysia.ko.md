@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage", "maternity-leave-malaysia", "paternity-leave-malaysia", "public-holidays-malaysia", "working-hours-overtime-malaysia"]
 keywords: ["annual leave malaysia", "sick leave malaysia", "hospitalisation leave malaysia", "leave entitlement malaysia 2026", "60 days hospitalisation leave"]
+framework: rules
 ---
 
 말레이시아 급여에서 가장 값비싼 휴가 오류는 법이 바뀐 지 3년이 지난 지금도 여전히

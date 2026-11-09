@@ -116,6 +116,7 @@ keywords:
   - "PLT Perkongsian Liabiliti Terhad"
   - "LLP registration fee RM500"
   - "LLP annual declaration"
+framework: how-to
 ---
 
 コンプライアンス責任者こそ、誰もが誤解する部分である。

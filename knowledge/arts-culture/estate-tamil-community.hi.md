@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "tamil-vernacular-schools", "mariamman-worship", "hinduism-in-malaysia", "population-composition"]
 keywords: ["தோட்டத் தமிழர் சமூகம்", "மலேசிய இந்தியர் தோட்ட வரலாறு", "கங்காணி முறை", "ரப்பர்த் தோட்டம்", "தோட்டத் தொழிலாளர்", "மலேசிய இந்தியர்கள்", "estate Tamil community", "Malaysian Indians"]
+framework: history-culture
 ---
 
 मलेशिया के अनेक पुराने शहरों की सरहद पर, कभी हरा-भरा फैला हुआ एक रबर बागान अब घरों और दुकान-बाज़ारों से भरे एक रिहायशी इलाक़े में बदल चुका है। उन नई इमारतों के बीच, कभी-कभी एक पुराना अम्मन मंदिर या एक छोटा-सा तमिल विद्यालय आज भी खड़ा मिल जाता है — एक विस्थापित समुदाय की न मिटने वाली पहचान के रूप में।

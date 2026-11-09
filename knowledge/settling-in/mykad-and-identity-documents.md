@@ -81,6 +81,7 @@ keywords:
   - "kad pengenalan JPN warna"
   - "MyKid kanak-kanak"
   - "kad pengenalan warga asing Malaysia"
+framework: explainer
 ---
 
 Ramai warga asing yang sudah bertahun-tahun di Malaysia — berkahwin dengan

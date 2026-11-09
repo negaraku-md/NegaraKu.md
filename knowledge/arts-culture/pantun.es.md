@@ -74,6 +74,7 @@ social:
 verificationNeeded:
   - "La fecha exacta del origen del arte del pantun no puede determinarse; la opinión académica más sólida lo vincula a alrededor del siglo XV, es decir, antes de la Sejarah Melayu (~1612). Esta cifra sigue siendo objeto de debate y no es una fecha definitiva."
   - "El límite máximo de longitud del pantun de estrofa larga varía según las fuentes (algunas mencionan hasta 16 versos, otras hasta unos 22 versos); la cantidad exacta no es uniforme."
+framework: history-culture
 ---
 
 > Pisang emas dibawa belayar,

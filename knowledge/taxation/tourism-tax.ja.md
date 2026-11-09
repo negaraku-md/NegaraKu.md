@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["sst-explained", "sst-registration"]
 keywords: ["tourism tax", "TTx", "Tourism Tax Act 2017", "RM10 per room", "MyTTx", "RMCD", "Agoda tax", "hotel tax Malaysia"]
+framework: explainer
 ---
 
 マレーシアのホテルでチェックアウトするとき、請求書に室料とは無関係の小さな定額項目が記載されていることに気づくかもしれない——1泊、1室につきRM10。それが観光税である。そしてそれを支払う義務があるかどうかは、フロントデスクが免除することのできないただ一つの問いにかかっている。あなたが持っているのはどの国のパスポートか、というものだ。

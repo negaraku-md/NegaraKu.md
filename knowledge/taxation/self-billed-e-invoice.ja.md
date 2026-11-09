@@ -85,6 +85,7 @@ relations:
   - { rel: "requires", to: "e-invoice-data-fields" }
 related: ["e-invoicing", "myinvois-phases", "consolidated-e-invoice", "e-invoice-data-fields", "e-invoice-vs-tax-invoice"]
 keywords: ["self-billed e-Invoice", "self billed invoice Malaysia", "foreign supplier e-Invoice", "general TIN EI00000000030", "e-invois belian sendiri", "agent commission e-Invoice"]
+framework: rules
 ---
 
 電子インボイスに最も足をすくわれやすい会社は、分厚い売上元帳を持つ会社ではない。買う側の会社である——代理店への手数料、個人の家主、シンガポールのSaaSサブスクリプション、持株会社への利息支払い。そのいずれにおいても、**発行するのは買い手であり**、供給者は何もしない。

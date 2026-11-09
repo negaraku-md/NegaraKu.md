@@ -63,6 +63,7 @@ relations:
   - { rel: "administered-by", to: "ssm" }
 related: ["beneficial-ownership", "bo-register", "who-is-a-beneficial-owner", "ebos-filing"]
 keywords: ["المساهِم يرفض إشعار المالك المنتفِع", "shareholder refuses beneficial ownership notice", "إشعار المادة 60C لا ردّ", "section 60C notice no reply", "الإدارة العليا بدل المالك المنتفِع", "عدم الامتثال للمالك المنتفِع ماليزيا"]
+framework: how-to
 ---
 
 يتجاهل مساهِمٌ الإشعار. وعدّاد الـ14 يومًا للتسجيل يدور، والإقرار السنوي مستحقّ،

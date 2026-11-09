@@ -63,6 +63,7 @@ keywords:
   - "monsoon Malaysia"
   - "MetMalaysia"
   - "MyBIS"
+framework: explainer
 ---
 
 # மலேசியா ஏன் உலகின் மாபெரும் பல்லுயிர்த்தன்மை (megadiverse) கொண்ட நாடுகளில் ஒன்றாக உள்ளது

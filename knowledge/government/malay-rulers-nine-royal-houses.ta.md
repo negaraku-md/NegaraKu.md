@@ -85,6 +85,7 @@ relations:
   - { rel: "explained-in", to: "federal-constitution-malaysia" }
 related: ["yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["raja melayu", "sultan", "yang di-pertuan besar", "raja perlis", "pewarisan takhta", "raja berperlembagaan", "adat perpatih", "perlembagaan negeri", "majlis raja-raja"]
+framework: explainer
 ---
 
 ஒரே கூட்டரசுக்குப் பின்னால், மலேசியா அந்த நாட்டையே விடப் பழமையான ஒன்பது அரியணைகளைக் கொண்டுள்ளது. ஒவ்வொன்றுக்கும் அதற்கே உரிய அரண்மனை, வாரிசு மரபு மற்றும் மாநில அரசியலமைப்பு உண்டு; ஒவ்வொரு அரசரும் தமது மாநிலத்தை ஒரு தனி முழுமுதல் ஆட்சியாளராக அல்ல, மாறாக அரசியலமைப்பு அரசராக ஆட்சி செய்கிறார்.

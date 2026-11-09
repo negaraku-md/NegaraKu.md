@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
 related: ["formation-of-malaysia-1963", "ma63", "independence-1957"]
 keywords: ["Singapore separation 1965", "Independence of Singapore Agreement", "Singapore Day", "Constitution and Malaysia (Singapore Amendment) Act 1965", "Malaysian Malaysia", "Tunku Abdul Rahman", "Lee Kuan Yew"]
+framework: history-culture
 ---
 
 Một đất nước đã mất một bang sáng lập chỉ trong một cuối tuần. Thỏa thuận được ký vào một ngày thứ Bảy, tu chính hiến pháp được thông qua vào ngày thứ Hai, và đến 10 giờ sáng cùng ngày thứ Hai đó một tuyên cáo độc lập đang được đọc trên đài Radio Singapura. Phần lớn các liên bang tan vỡ thì làm điều đó một cách chậm rãi và ồn ào. Liên bang này bị giải thể — theo nghĩa pháp lý — trong khoảng bốn mươi tám giờ, bởi các văn kiện được soạn thảo trong bí mật và được ký bởi mười lăm bộ trưởng.

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["income-tax-act-1967", "lhdn"]
 keywords: ["REIT tax Malaysia", "property trust fund", "section 61A", "withholding tax REIT", "YA 2026 REIT tax", "unit holder distribution"]
+framework: explainer
 ---
 
 Compre una participación en un REIT de Malasia y será, en efecto, un casero que nunca recibe una factura fiscal del edificio, porque el fondo que lo posee le entrega casi todo antes de que el fisco pueda tocarlo. Esa única decisión de diseño, plasmada en la sección 61A de la Income Tax Act 1967, es lo que hace funcionar a los fondos de inversión inmobiliaria (REIT) y a los fondos de inversión inmobiliaria (PTF). Pero en el año de liquidación (YA) 2026 la otra mitad del acuerdo — cómo tributa *usted*, el partícipe — cambió por primera vez en años.

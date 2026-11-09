@@ -87,6 +87,7 @@ relations:
   - { rel: "compares-with", to: "malaysia-indonesia-relations" }
 related: []
 keywords: ["relaciones Malasia Singapur", "acuerdo del agua 1962", "RTS Link", "Causeway de Johor", "Pulau Batu Puteh", "JS-SEZ", "separación de 1965", "comercio bilateral"]
+framework: explainer
 ---
 
 Dos países comparten un solo paso elevado, un solo suministro de agua, cientos de miles de personas que cruzan cada día para ir al trabajo, y una historia de separación emocionalmente cargada. Ninguna relación bilateral de Malasia es más estrecha, más complicada ni más importante de entender que la que mantiene con Singapur.

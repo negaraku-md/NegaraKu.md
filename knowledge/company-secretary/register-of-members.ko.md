@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "registered-office" }
 related: ["statutory-registers", "registered-office", "register-of-directors", "annual-return"]
 keywords: ["register of members Malaysia", "section 50 Companies Act 2016", "section 51 notification SSM", "daftar ahli syarikat", "share transfer register Sdn Bhd", "ROM lodgement 14 days"]
+framework: rules
 ---
 
 한 주주가 변호사 앞에서 주권을 흔들며 자신이 회사의 30%를 소유한다고 말합니다.

@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
 related: []
 keywords: ["solar Malaysia", "NEM 3.0", "Net Energy Metering", "Large Scale Solar", "LSS5", "CGPP", "CRESS", "CREAM", "tenaga boleh baharu", "solar bumbung"]
+framework: explainer
 ---
 
 住宅の屋根に設置する太陽光パネルは、今やマレーシア政府の政策によって緻密に結び付けられた財務上の決定となっている。しかし「太陽光に切り替える」ことが意味するものは、イポーの住宅所有者にとってと、パシルグダンの工場にとって、あるいは100％グリーンエネルギーを求めるデータセンターにとってでは、まったく異なる。利用者グループごとに、それぞれ専用の制度がある。

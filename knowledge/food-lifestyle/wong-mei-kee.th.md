@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#WongMeiKee", "#SiewYok", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 แผงหัวมุมแห่งหนึ่งใน Pudu เปิดเพียงไม่กี่ชั่วโมงในช่วงกลางวัน และคิวก็เริ่มขึ้นก่อนหน้า

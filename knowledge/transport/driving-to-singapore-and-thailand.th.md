@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "touch-n-go" }
 related: ["motor-insurance", "driving-licence-malaysians", "road-tax-renewal", "touch-n-go"]
 keywords: ["VEP Singapore Malaysia", "Vehicle Entry Permit Singapore", "driving to Thailand from Malaysia", "Causeway Second Link congestion", "cross-border motor insurance Malaysia", "Bukit Kayu Hitam border", "Autopass card Singapore", "PIAM Endorsement 101", "Thailand temporary vehicle import"]
+framework: how-to
 ---
 
 สองประเทศเพื่อนบ้าน สองพรมแดนทางบก สองระบบที่แตกต่างกันโดยสิ้นเชิงสำหรับรถคันเดียวกัน

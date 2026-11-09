@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "directors-duties" }
 related: ["accounting-records-section-245", "directors-duties"]
 keywords: ["حق المدير في الاطلاع على السجلات المحاسبية ماليزيا", "المادة 245(4) قانون الشركات 2016 Companies Act 2016", "اطلاع المدير على سجلات الشركة التابعة", "منازعة المساهمين سجلات الشركة ماليزيا", "director right to inspect accounting records Malaysia", "section 245(4) Companies Act 2016"]
+framework: explainer
 ---
 
 في أي منازعة بين المساهمين، نادراً ما تكون الطلقة الأولى عريضة دعوى. بل هي رسالة

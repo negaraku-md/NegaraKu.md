@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "maintenance fee Malaysia", "sinking fund Malaysia", "JMB Malaysia", "Management Corporation Malaysia", "MC strata", "share units", "condo maintenance Malaysia", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
+framework: explainer
 ---
 
 நீங்கள் யூனிட்டை வாங்கினீர்கள். மின்தூக்கியையோ, காவல் அறையையோ, நீச்சல் குளத்தையோ, அல்லது உங்கள் அண்டை வீட்டாருடன் நீங்கள் பகிர்ந்துகொள்ளும் சுவரின் வழியாக ஓடும் குழாயையோ நீங்கள் வாங்கவில்லை. இவை அனைத்திற்கும் யாராவது பணம் செலுத்த வேண்டும் — மேலும் சட்டம் அந்த பில்லை, நீங்கள் சட்டப்படி தனித்தனியாக வைத்திருக்க வேண்டிய இரண்டு கணக்குகளாகப் பிரிக்கிறது.

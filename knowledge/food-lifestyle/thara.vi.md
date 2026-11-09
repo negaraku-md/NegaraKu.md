@@ -77,6 +77,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["Thara", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 Nhà hàng Thái không phải là điều đầu tiên hiện lên trong tâm trí ở George Town,

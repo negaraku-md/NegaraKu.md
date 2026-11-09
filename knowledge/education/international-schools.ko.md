@@ -90,6 +90,7 @@ keywords:
   - "Malaysian students international school quota"
   - "Education Act 1996 international school"
   - "service tax international school Malaysia"
+framework: explainer
 ---
 
 같은 도시의 양쪽 끝에 있는 영국식 교육과정 학교와 미국식 교육과정 학교는 서류상 푸트라자야의 완전히 동일한 부서로부터 인가를 받습니다. 어느 쪽도 학부모에게 「건축 기금」을 청구하는 것이 법적으로 허용되지 않습니다. 어느 쪽도 한 번에 학비를 30% 넘게 올릴 수 없습니다. 그리고 어느 쪽도 교육부가 직접 정하는 단 하나의 금액도 공표할 필요가 없습니다. 교육부가 정하는 온갖 규칙에도 불구하고, 자리 하나의 실제 가격은 그중에 없기 때문입니다.

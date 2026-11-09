@@ -78,6 +78,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-registration", "imported-taxable-services", "sales-tax-explained"]
 keywords: ["SST-02", "SST filing deadline Malaysia", "SST late payment penalty", "taxable period SST", "MySST return"]
+framework: rules
 ---
 
 罚款阶梯爬到九十天就停了。过了那一点它固定在 40%，所以提早缴付关乎的是被起诉的

@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "e-invoice" }
 related: ["mbrs-2-filing-guide", "mbrs-tagging-errors", "form-c-and-cp204", "financial-year-end", "e-invoice", "mfrs-vs-mpers", "corporate-tax-rates"]
 keywords: ["مسك دفاتر Sdn Bhd", "دليل الحسابات ماليزيا", "الإقفال الشهري ماليزيا", "السجلات المحاسبية المادة 245", "إعادة الإضافة في احتساب الضريبة", "سجل بدل رأس المال", "ربط SSMxT بدليل الحسابات", "Sdn Bhd bookkeeping", "chart of accounts Malaysia"]
+framework: how-to
 ---
 
 يقف معظم نصائح مسك الدفاتر لشركة Sdn Bhd عند المدين والدائن. وتلك مشكلة حُلّت في القرن الخامس

@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["selangor", "penang", "religion-statistics", "article-3-religion"]
 keywords: ["Thaipusam Malaysia", "Batu Caves Thaipusam", "kavadi", "silver chariot procession", "Lord Murugan", "272 steps", "paal kudam", "Waterfall Hilltop Temple Penang", "Thaipusam public holiday"]
+framework: history-culture
 ---
 
 夜明け前、クアラルンプール北端の石灰岩の丘は音であふれる——太鼓の音、詠唱、そして数十万もの裸足が石の上を擦る音。272段の階段の麓には、14階建てのビルよりも高い黄金の像が立っている。登拝はすでに始まっており、丸1日近く止まることはない。

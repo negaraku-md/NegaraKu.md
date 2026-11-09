@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "auditor-report" }
 related: []
 keywords: ["surat perwakilan pengurusan", "management representation letter", "ISA 580", "perwakilan bertulis", "written representations", "bukti audit", "juruaudit"]
+framework: explainer
 ---
 
 すべての監査の終盤において、取締役は見落とされがちだが実質的な重みを持つ一通の文書に署名するよう求められる——それは、監査人にすべてを伝えたことを自らの署名によって証する書簡である。それが経営者確認書である。

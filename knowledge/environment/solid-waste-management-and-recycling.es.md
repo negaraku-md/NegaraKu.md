@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "circular-economy-blueprint" }
 related: []
 keywords: ["Ley 672", "SWCorp", "reciclaje", "residuos sólidos", "vertedero", "separación de residuos en origen", "economía circular", "Act 672", "recycling"]
+framework: explainer
 ---
 
 Tire la basura en Johor y se convierte en un asunto del gobierno federal; tire la misma basura en Penang y sigue siendo competencia del consejo local. Esa es la peculiaridad central de cómo gestiona Malasia sus residuos sólidos — una gran ley federal, pero una que solo entra en vigor en los lugares que han accedido a adoptarla.

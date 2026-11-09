@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "royal-malaysia-police" }
 related: []
 keywords: ["agensi keselamatan swasta", "lesen agensi persendirian", "polis bantuan", "Akta Agensi Persendirian 1971", "pengawal keselamatan Malaysia", "KDN eSIMS", "kawasan berpagar"]
+framework: profile
 ---
 
 マレーシアの多くのゲート付き住宅地、工場、ショッピングセンターでは、最初に出会う人物は警察官ではなく——民間の警備員である。この業界は公的な法執行と密接に連携して運営されているが、まったく異なる法的枠組みの上で動いており、「誰が何をできるのか」についての混乱は、彼らを雇う企業に法的リスクをもたらしかねない。

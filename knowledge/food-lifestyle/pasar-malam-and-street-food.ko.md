@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "malaysian-street-food" }
 related: []
 keywords: ["pasar malam", "pasar tani", "pasar basah", "street food", "FAMA", "gred kebersihan premis makanan", "penjaja"]
+framework: explainer
 ---
 
 해 질 무렵, 한산하던 거리가 갑자기 사테 연기, 쌓아 올린 과일, 줄지어 늘어선 형광등의 골목으로 변합니다 — 이것이 파사르 말람, 말레이시아에서 가장 서민적인 제도 중 하나입니다. 파사르 타니, 파사르 바사와 함께 이는 말레이시아인이 매일 장을 보고 먹는 민중 시장의 그물망을 이룹니다.

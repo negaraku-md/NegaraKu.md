@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "getting-around-malaysia-public-transport" }
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["Melaka heritage", "Melaka UNESCO World Heritage", "Jonker Street", "Baba Nyonya Peranakan Melaka", "A Famosa Porta de Santiago", "Stadthuys Dutch Square", "St Paul's Hill Melaka", "Melaka travel guide"]
+framework: explainer
 ---
 
 해 질 녘 더치 스퀘어(Dutch Square)에 서면 한눈에 다섯 세기를 읽을 수 있습니다. 한쪽에는 연어빛 붉은 네덜란드 시청, 위쪽 언덕에는 포르투갈 시대 교회의 폐허, 영국이 허물려 했던 요새를 한때 지탱했던 돌문, 그리고 — 2분 거리에 — 금요일 밤 시장을 위해 불을 밝힌 중국-말레이 타운하우스 골목이 있습니다. 믈라카는 역사를 큰 도시에 펼쳐 놓지 않습니다. 오후 한나절이면 걸을 수 있는 약 1제곱마일에 켜켜이 쌓아 둡니다. 이를 어떻게 읽고, 그 주변으로 방문을 어떻게 계획하는지 소개합니다.

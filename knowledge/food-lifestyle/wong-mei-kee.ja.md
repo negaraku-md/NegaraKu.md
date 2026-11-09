@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#WongMeiKee", "#SiewYok", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Pudu の角の屋台は昼どきに数時間だけ開き、行列はそれよりずっと前から始まる。人々が

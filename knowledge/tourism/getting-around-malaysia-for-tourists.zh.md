@@ -118,6 +118,7 @@ relations:
   - { rel: "related-to", to: "visiting-sabah-and-sarawak" }
 related: []
 keywords: ["getting around Malaysia", "KLIA Ekspres", "KTM ETS train", "domestic flights Malaysia", "AirBorneo", "Grab Malaysia", "Malaysia ferry", "driving in Malaysia", "Touch n Go"]
+framework: explainer
 ---
 
 你在午夜时分抵达吉隆坡国际机场，饱受时差之苦，而拉客的德士司机已经围了上来。好消息是：马来西亚拥有东南亚最适合游客的交通系统之一，你完全可以省去这些麻烦——一列快捷、定价固定的机场火车，一个能召来计费轿车的手机应用，以及让婆罗洲变成周末即可往返的廉价国内航班。诀窍在于知道该选哪种方式，以及何时选它。

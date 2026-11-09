@@ -124,6 +124,7 @@ entity: "Employment Pass (Malaysia)"
 relations: []
 related: ["labour-law-map-malaysia", ]
 keywords: ["employment pass malaysia", "ep category 1 salary", "employment pass salary 2026", "esd registration", "myxpats", "expatriate malaysia", "employment pass renewal"]
+framework: rules
 ---
 
 Pada 1 Juni 2026, harga seorang ekspatriat di Malaysia berlipat dua di ambang teratas.

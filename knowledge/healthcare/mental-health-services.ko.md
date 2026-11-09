@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "emergencies-999" }
 related: ["klinik-kesihatan", "how-malaysian-healthcare-works", "private-hospitals-and-costs", "emergencies-999"]
 keywords: ["mental health services Malaysia", "Talian HEAL 15555", "Talian Kasih 15999", "Befrienders Malaysia", "MENTARI clinic Malaysia", "psychiatric hospital Malaysia", "MMHA Malaysian Mental Health Association", "counselling Malaysia", "where to get mental health help Malaysia", "Mental Health Act 2001 Malaysia"]
+framework: explainer
 ---
 
 도움을 청하기로 결심하는 것이 흔히 가장 어려운 부분입니다. *어디에* 청할지를 알아내는 것은 거의 아무도 설명해 주지 않는 부분이며 — 바로 그 공백이 사람들이 결코 전화를 걸지 못하게 막습니다.

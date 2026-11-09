@@ -60,6 +60,7 @@ social:
   hashtags: ["PahangSultanate", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded:
   - "Niên đại chính xác của việc Wan Ahmad được tuyên xưng là sultan được đưa ra không nhất quán giữa các nguồn — tước hiệu được nhận vào năm 1881, với một lễ tuyên xưng chính thức được ghi nhận vào ngày 8 tháng 9 năm 1881 và một lễ đăng quang chính thức về sau được định niên đại là năm 1884; trình tự chính xác cần được xác nhận với một nguồn học thuật như A History of Pahang của Linehan."
+framework: history-culture
 ---
 
 Dọc sông Pahang, nơi thị trấn hoàng gia cổ Pekan vẫn tọa lạc gần cửa sông, một ngai vàng đã im lặng suốt hai thế kỷ được dựng lên trở lại. Năm 1881, các tù trưởng Pahang tụ họp không phải để tấn phong một người lạ mà để khôi phục một tước hiệu mà vùng đất của họ từng nắm giữ — và người họ tuyên xưng làm sultan đã giành quyền đó một cách gian khó, bằng cách đánh bại chính người anh cùng cha khác mẹ của mình trong một cuộc chiến dài và cay đắng. Đây là câu chuyện về cách vương miện Pahang bị mất bên trong một đế quốc lớn hơn, và cách con trai của một tể tướng đã mang nó trở lại.

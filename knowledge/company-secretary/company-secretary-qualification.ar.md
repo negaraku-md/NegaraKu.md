@@ -111,6 +111,7 @@ relations:
   - { rel: "explained-in", to: "practising-certificate" }
 related: ["appoint-company-secretary", "maicsa", "changing-company-secretary", "secretary-resignation"]
 keywords: ["من يكون أمين الشركة في ماليزيا", "مؤهلات أمين الشركة", "company secretary qualification Malaysia", "المادة 235 قانون الشركات 2016", "section 235 Companies Act 2016", "شهادة الممارسة", "practising certificate SSM", "المادة 241", "MAICSA MIA", "CSID SSM"]
+framework: rules
 ---
 
 اسأل معظم الناس عمّا يلزم لتكون أميناً لشركة في ماليزيا فتحصل على خمس كلمات: «MAICSA أو MIA أو مرخَّص من SSM». وهذا الجواب ليس خاطئاً، لكنه يُغفل الخطوة التي تحسم فعلاً ما إذا كان الشخص الجالس أمامك يستطيع أن يوقّع قراراتك بصورة مشروعة. فالتأهّل بموجب م.235 و*الحق في التصرّف* بموجب م.241 أمران مختلفان، وقد يستوفي الأمين الأول ويخفق في الثاني.

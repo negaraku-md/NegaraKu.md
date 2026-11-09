@@ -79,6 +79,7 @@ related:
   - "malaysian-noodles"
 social:
   hashtags: ["PrawnMee", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 prawn mee là một trong những tô ăn định hình của Penang, và trên Lebuh Pantai một

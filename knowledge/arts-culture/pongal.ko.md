@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "deepavali" }
 related: ["hinduism-in-malaysia", "tamil-in-malaysia", "deepavali", "thaipusam", "estate-tamil-community"]
 keywords: ["தைப்பொங்கல்", "பொங்கல்", "மலேசியா பொங்கல்", "மாட்டுப் பொங்கல்", "போகிப் பண்டிகை", "அறுவடைப் பண்டிகை", "Pongal", "Thai Pongal"]
+framework: history-culture
 ---
 
 타이 월이 밝아오는 이른 새벽, 말레이시아 타밀 가정의 뜰과 문 앞은 분주함으로

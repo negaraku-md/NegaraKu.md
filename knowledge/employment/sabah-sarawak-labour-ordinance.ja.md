@@ -78,6 +78,7 @@ relations:
   - { rel: "administered-by", to: "employment" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage"]
 keywords: ["sabah labour ordinance", "sarawak labour ordinance", "cap 67", "cap 76", "east malaysia employment law", "jtk sabah", "jtk sarawak"]
+framework: explainer
 ---
 
 「マレーシア雇用法」を検索すると、得られる結果はどれもマレー半島について説明しており、

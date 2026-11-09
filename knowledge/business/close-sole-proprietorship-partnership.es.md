@@ -76,6 +76,7 @@ social:
     - SoleProprietor
     - DoingBusinessInMalaysia
     - MalaysiaTax
+framework: how-to
 ---
 
 Registrar un negocio unipersonal o una sociedad de personas lleva diez minutos en el portal ezBiz, así que la mayoría asume que cerrarlo es igual de informal: deja de operar y expira en silencio. No es así. Un negocio registrado bajo la **Ley de Registro de Negocios de 1956** permanece en el registro de SSM hasta que usted lo termine activamente, y mientras sigue ahí continúa necesitando renovación, lo expone a sanciones y puede ser revocado por el Registrador. Hay una forma adecuada de cerrarlo, es gratuita, y tiene un reloj en marcha.

@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "iskandar-malaysia-economic-corridor" }
 related: []
 keywords: ["foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "education hub", "transnational education"]
+framework: explainer
 ---
 
 1998-ஆம் ஆண்டில், கோலாலம்பூரில் இருந்த ஒரு மாணவர் நாட்டைவிட்டு வெளியேறாமலேயே ஆஸ்திரேலிய மொனாஷ் (Monash) பட்டத்தைப் பெற முடிந்தது — அதற்கு மலேசிய விலையையே செலுத்தினார். அந்த ஒரே ஏற்பாடு, நாடு அன்று முதல் கட்டியெழுப்பி வரும் ஒரு மாதிரியைத் தொடங்கி வைத்தது: மாணவரை அல்ல, பல்கலைக்கழகத்தையே இறக்குமதி செய்.

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "hari-raya-aidilfitri" }
 related: ["songket", "batik", "hari-raya-aidilfitri"]
 keywords: ["باجو ملايو", "baju Melayu", "باجو كورونغ", "baju kurung", "الكِبايا", "kebaya", "samping", "songkok", "cekak musang", "Teluk Belanga", "الزي الملايوي التقليدي", "pakaian tradisional Melayu"]
+framework: history-culture
 ---
 
 راقب رجلًا يتهيّأ لعيد الفطر أو لحفل زفاف. فقد ارتدى القميص الفضفاض، وأدخل السروال — لكنه لم ينتهِ بعد. والمتبقّي أمران يقرّران ما إذا كان يبدو كامل الهندام أم في منتصف الطريق فحسب: قطعة من قماش السامبينغ تُلفّ عند الخصر، وسونغكوك على الرأس. فمن دون هذين الأمرين، لا يكون باجو ملايو باجو ملايو حقًّا بعد.

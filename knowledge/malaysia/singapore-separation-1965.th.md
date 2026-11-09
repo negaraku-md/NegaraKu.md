@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
 related: ["formation-of-malaysia-1963", "ma63", "independence-1957"]
 keywords: ["Singapore separation 1965", "Independence of Singapore Agreement", "Singapore Day", "Constitution and Malaysia (Singapore Amendment) Act 1965", "Malaysian Malaysia", "Tunku Abdul Rahman", "Lee Kuan Yew"]
+framework: history-culture
 ---
 
 ประเทศหนึ่งสูญเสียรัฐผู้ก่อตั้งในสุดสัปดาห์เดียว ข้อตกลงถูกลงนามในวันเสาร์ การแก้ไขรัฐธรรมนูญผ่านในวันจันทร์ และภายในเวลา 10.00 น. ของวันจันทร์เดียวกันนั้น ประกาศเอกราชกำลังถูกอ่านทางวิทยุสิงคโปร์ (Radio Singapura) สหพันธ์ส่วนใหญ่ที่แตกสลายทำเช่นนั้นอย่างช้าและเสียงดัง อันนี้ถูกยุบ ในความหมายทางกฎหมาย ในเวลาราวสี่สิบแปดชั่วโมง ด้วยเอกสารที่ร่างในความลับและลงนามโดยรัฐมนตรีสิบห้าคน

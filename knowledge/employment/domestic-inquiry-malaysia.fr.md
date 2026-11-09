@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "unfair-dismissal-malaysia" }
 related: ["termination-of-employment-malaysia", "unfair-dismissal-malaysia", "termination-benefits-malaysia"]
 keywords: ["enquête interne malaisie", "domestic inquiry malaysia", "procédure DI malaisie", "lettre de demande d'explications malaisie", "show cause letter malaysia", "suspension en attendant l'enquête", "section 14 employment act", "licenciement pour faute malaisie"]
+framework: how-to
 ---
 
 La plupart des guides RH malaisiens consacrent à l'enquête interne une seule phrase : « menez une DI avant de licencier pour faute ». C'est dans cette phrase que les employeurs perdent des affaires. L'enquête n'est pas une case à cocher avant une décision déjà prise — c'est la base probatoire sur laquelle l'employeur s'appuiera des mois plus tard devant l'Industrial Court, et elle échoue sur la procédure bien plus souvent que sur les faits.

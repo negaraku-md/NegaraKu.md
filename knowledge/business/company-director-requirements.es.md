@@ -108,6 +108,7 @@ keywords:
   - "deberes del administrador Malasia"
   - "nominee director Malaysia"
   - "inhabilitación de administrador Malasia"
+framework: rules
 ---
 
 Algún día alguien le pedirá que «solo sea administrador, es solo una firma».

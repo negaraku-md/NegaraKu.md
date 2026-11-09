@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "financial-statement-pack" }
 related: ["accounting-standards-index", "financial-statement-pack", "financial-reporting-deadlines"]
 keywords: ["functional currency", "presentation currency", "MFRS 121", "IAS 21", "foreign currency translation", "MYR reporting", "MBRS", "foreign exchange"]
+framework: explainer
 ---
 
 A Malaysian company incorporated in Kuala Lumpur can still keep its books in US dollars — and be entirely correct to do so. That surprises people who assume a Malaysian entity reports in Ringgit because it is Malaysian. Under MFRS 121, the currency you measure in is a question of economic fact, not geography, while the currency you present in is a separate question with its own answer.

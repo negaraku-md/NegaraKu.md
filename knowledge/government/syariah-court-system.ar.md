@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "federal-state-division" }
 related: ["civil-and-syariah-courts", "kehakiman-mahkamah", "federal-constitution"]
 keywords: ["المحاكم الشرعية", "mahkamah syariah", "نظام المحاكم في ماليزيا", "sistem mahkamah Malaysia", "المادة 121(1A)", "Perkara 121(1A)", "اختصاص المحاكم الشرعية", "المحكمة الشرعية العليا", "Mahkamah Tinggi Syariah", "القانون 355", "Akta 355", "القانون 505", "Akta 505", "قانون الأسرة الإسلامي"]
+framework: explainer
 ---
 
 زوجة تقدّم طلب فسخ، وتاجر يطالب بدَين قدره RM60,000 — كلاهما يبدأ قضيته باستمارة واحدة عند منضدة محكمة. ومع ذلك لا يقصدان المنضدة نفسها، ولا ينظر في قضيتيهما القاضي من النوع نفسه، والقانون الذي يحدد نتيجتهما يأتي من جهتين مختلفتين لسنّ القوانين.

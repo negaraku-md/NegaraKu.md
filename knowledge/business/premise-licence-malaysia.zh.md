@@ -107,6 +107,7 @@ keywords:
   - "MBPJ lesen komposit"
   - "MBSA lesen komposit"
   - "DBKK lesen berniaga"
+framework: rules
 ---
 
 你的场所执照明天就可能被注销，无须任何理由，地方议会也不欠你一个解释。这并不是一则

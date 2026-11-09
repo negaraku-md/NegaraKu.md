@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "credit-reporting-agencies-act-2010" }
 related: []
 keywords: ["CCRIS", "CTOS", "laporan kredit", "skor kredit", "eCCRIS", "Bank Negara Malaysia", "Akta Agensi Pelaporan Kredit 2010"]
+framework: explainer
 ---
 
 여러분이 주택 대출을 신청하고 모든 것이 깔끔해 보이지만, 은행은 별다른 설명 없이 그 신청을 거절합니다. 그 결정 뒤에는 흔히 여러분에게 명확히 언급되지 않는 두 개의 이름이 있습니다: CCRIS와 CTOS. 이 둘은 여러분이 돈을 관리하는 방식에 대한 그림을 담고 있으며, 여러분은 그 안에 무엇이 적혀 있는지 볼 권리가 있습니다.

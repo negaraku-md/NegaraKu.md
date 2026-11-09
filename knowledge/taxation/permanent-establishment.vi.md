@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "dta-network" }
 related: ["dta-network", "company-tax-residence", "transfer-pricing-documentation", "withholding-tax-rates"]
 keywords: ["permanent establishment Malaysia", "section 12(3) Income Tax Act", "place of business Malaysia tax", "remote employee permanent establishment Malaysia", "dependent agent PE Malaysia"]
+framework: explainer
 ---
 
 Malaysia viết quy tắc cơ sở thường trú của mình hai lần, và hai phiên bản không

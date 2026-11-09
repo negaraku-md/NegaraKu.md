@@ -79,6 +79,7 @@ relations:
   - { rel: "compares-with", to: "amanah-saham-bumiputera" }
 related: ["securities-commission-malaysia"]
 keywords: ["unit trust malaysia", "unit trust funds", "net asset value", "sales charge", "management fee", "securities commission", "FIMM", "equity fund", "money market fund", "EPF i-invest"]
+framework: explainer
 ---
 
 見知らぬ他人にお金を預けて運用してもらうなら、あなたは三つのものを求めるはずだ——ルール、成績を記録する者、そして現金を代わりに保管してくれる誰かである。マレーシアのユニットトラスト（ファンド）は、その三つすべてを備えている。あなたのリンギットは他の何千人もの投資家の資金とともにプールされ、免許を持つ運用会社がどこに投資するかを決め、独立した受託者が資産を保有することで、運用会社がそのまま持ち逃げすることができないようになっている。この仕組み全体は、マレーシア証券委員会（Securities Commission Malaysia、SC）の監督下にある。

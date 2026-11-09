@@ -76,6 +76,7 @@ social:
     - SoleProprietor
     - DoingBusinessInMalaysia
     - MalaysiaTax
+framework: how-to
 ---
 
 Enregistrer une entreprise individuelle ou une société de personnes prend dix minutes sur le portail ezBiz, aussi la plupart des gens supposent-ils que la fermer est tout aussi informel : vous cessez d'exploiter et elle expire en silence. Il n'en est rien. Une entreprise enregistrée sous la **loi de 1956 sur l'enregistrement des entreprises** reste au registre de SSM jusqu'à ce que vous y mettiez activement fin, et tant qu'elle y figure, elle continue d'exiger un renouvellement, vous expose à des pénalités et peut être révoquée par le Registraire. Il existe une bonne manière de la fermer, elle est gratuite, et une horloge tourne.

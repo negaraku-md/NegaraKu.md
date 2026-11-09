@@ -124,6 +124,7 @@ keywords:
   - "DBKK trading licence fee"
   - "SEDIA Sabah Development Corridor"
   - "Sabah state sales tax"
+framework: profile
 ---
 
 Casi todas las guías nacionales para hacer negocios en Malasia se equivocan sobre Sabah, y

@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["selangor", "penang", "religion-statistics", "article-3-religion"]
 keywords: ["Thaipusam Malaysia", "Batu Caves Thaipusam", "kavadi", "silver chariot procession", "Lord Murugan", "272 steps", "paal kudam", "Waterfall Hilltop Temple Penang", "Thaipusam public holiday"]
+framework: history-culture
 ---
 
 Before dawn, a limestone hill on the northern edge of Kuala Lumpur fills with sound — drums, chanting, the shuffle of hundreds of thousands of bare feet on stone. At the base of a 272-step staircase stands a golden figure taller than a fourteen-storey building. The climb has begun, and it will not stop for the better part of a day.

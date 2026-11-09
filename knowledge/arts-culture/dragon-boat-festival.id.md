@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "winter-solstice-festival"]
 keywords: ["端午节", "端阳节", "五月节", "粽子", "bak chang", "娘惹粽", "咸肉粽", "碱水粽", "龙舟", "赛龙舟", "屈原", "艾草", "菖蒲", "立蛋", "直落巴巷水坝", "马来西亚华人", "Dragon Boat Festival Malaysia", "Duanwu"]
+framework: history-culture
 ---
 
 Menjelang hari kelima bulan kelima kalender lunar, aroma daun pembungkus dan ketan mulai menyebar di dapur keluarga Tionghoa. Para ibu rumah tangga menyusun ketan yang telah direndam dan isian yang ditumis harum lapis demi lapis ke dalam daun yang dilipat berbentuk corong, lalu mengikatnya kencang dengan tali rumput, dan menurunkan untaian demi untaian ke dalam panci untuk direbus lama. Pada saat yang sama, di Bendungan Teluk Bahang di ujung barat laut Pulau Penang, perahu-perahu naga yang ramping membelah permukaan air; seorang penabuh gendang berdiri di haluan menabuh irama, dan puluhan pendayung mendayung serentak mengikuti irama — inilah dua wajah Festival Perahu Naga di Malaysia: di satu sisi harumnya bakcang di dapur, di sisi lain lomba di atas air.

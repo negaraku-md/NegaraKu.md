@@ -93,6 +93,7 @@ verificationNeeded:
   - "Liệu nasi kerabu được mô tả chính xác nhất là món ăn riêng của Kelantan hay là món ăn chung của Kelantan–Terengganu (vùng duyên hải phía đông) — các nguồn quy thuộc nó khác nhau. Hãy xác minh bằng một nguồn ẩm thực hoặc di sản vùng miền."
   - "Thành phần ulam chuẩn mực (loại rau thơm sống nào là thiết yếu so với loại mang tính vùng miền hoặc tùy chọn) — các công thức và nguồn liệt kê những tổ hợp khác nhau. Hãy xác minh với một nguồn Kelantan."
   - "Ranh giới chính xác giữa nasi kerabu và nasi ulam — thường được mô tả là những món tương đồng phân biệt chủ yếu bởi phần cơm có màu. Hãy xác minh bằng một nguồn tham khảo ẩm thực."
+framework: explainer
 ---
 
 Ít món ăn Malaysia nào tự tuyên bố về mình lớn tiếng như nasi kerabu. Cơm đến

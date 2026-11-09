@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "renewable-energy-malaysia" }
 related: ["tenaga-nasional"]
 keywords: ["tarif elektrik", "RP4", "AFA", "NETR", "Suruhanjaya Tenaga", "TNB", "tenaga boleh diperbaharui", "peralihan tenaga", "subsidi elektrik"]
+framework: explainer
 ---
 
 あなたの電気料金の明細は、今や違って見える——これは印刷ミスではない。2025年7月1日以降、マレーシアの家庭と工場に流れるすべてのキロワット時は、電力セクターの大規模な改革の結果として、はるかに詳細な計算式に基づいて算出されている。この変化は単なる料金コストの問題にとどまらず、国の再生可能エネルギーへの方向性と密接に結びついている。

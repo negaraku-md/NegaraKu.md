@@ -72,6 +72,7 @@ social:
     - MalaysiaSME
     - CommercialProperty
     - DoingBusinessInMalaysia
+framework: rules
 ---
 
 If you rent a shop lot, an office, a warehouse or a piece of equipment for your business, your tenancy quietly changed on 1 July 2025. On that date Malaysia's **expanded SST** brought the rental or leasing of commercial property and other tangible assets into the scope of **service tax** — so a landlord above a certain size now has to add **8%** to the rent. The same reform, though, was built with a deliberate escape hatch for small businesses: a raised registration threshold and a specific exemption a small tenant can claim. Here is who has to charge the tax, who is protected from it, and the dates that decide.

@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "auditor-report" }
 related: []
 keywords: ["surat perwakilan pengurusan", "management representation letter", "ISA 580", "perwakilan bertulis", "written representations", "bukti audit", "juruaudit"]
+framework: explainer
 ---
 
 Vào cuối mỗi cuộc kiểm toán, các giám đốc được yêu cầu ký một tài liệu dễ bị bỏ qua nhưng mang trọng lượng: một lá thư thừa nhận, bằng chính chữ ký của họ, rằng họ đã nói với kiểm toán viên mọi thứ. Đó là thư giải trình của ban quản lý.

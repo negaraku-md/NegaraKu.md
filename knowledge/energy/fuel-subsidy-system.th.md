@@ -132,6 +132,7 @@ relations:
   - { rel: "related-to", to: "cost-of-living-malaysia" }
 related: ["padu-central-database", "petronas"]
 keywords: ["subsidi bahan api", "BUDI95", "RON95", "subsidi diesel", "PADU", "subsidi bersasar", "BUDI MADANI", "RM1.99", "rasionalisasi subsidi"]
+framework: explainer
 ---
 
 เป็นเวลาหลายทศวรรษ ทุกคนในมาเลเซีย ทั้งเศรษฐีและคนกรีดยาง จ่ายราคาน้ำมันเบนซินเดียวกันที่ปั๊ม เมื่อ 30 กันยายน 2025 การจัดการนั้นสิ้นสุดลง ในปัจจุบัน RON95 หนึ่งลิตรอาจมีราคา RM1.99 สำหรับท่านแต่เกือบสองเท่าสำหรับเพื่อนบ้านของท่าน และสิ่งที่กำหนดมันไม่ใช่ราคาน้ำมันโลก แต่เป็นบัตรประจำตัวที่ท่านสอดเข้าเทอร์มินัล

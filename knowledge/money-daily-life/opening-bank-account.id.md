@@ -76,6 +76,7 @@ faq:
     a: Untuk sebagian besar rekening tabungan atau rekening giro yang sederhana, satu-satunya dokumen wajib bagi warga negara atau penduduk tetap adalah MyKad asli. Menurut persyaratan yang dipublikasikan CIMB, bukti tambahan seperti surat keterangan kerja, laporan EPF, slip gaji, atau rekening koran terbaru hanya diminta dalam situasi tertentu, seperti rekening berjenjang lebih tinggi atau ketika alamat yang ingin Anda catatkan berbeda dari yang tercetak pada MyKad Anda. Anak di bawah umur memerlukan akta kelahiran beserta MyKad orang tua atau wali.
   - q: Mengapa bank meminta dokumen yang berbeda tergantung pada jenis visa saya?
     a: Karena bank mengaitkan dokumen pendukung dengan alasan spesifik keberadaan Anda di Malaysia, yang justru dinyatakan oleh pas Anda. Berdasarkan persyaratan yang dipublikasikan CIMB, warga asing yang bekerja dengan Pas Kerja (Employment Pass) biasanya diminta surat keterangan kerja dan bukti gaji bulanan di atas ambang batas bank (CIMB menyatakan RM10.000); pemegang Pas Pelajar (Student Pass) diminta kartu pelajar dan surat pendaftaran; dan pemegang Pas Tanggungan (Dependant Pass) diminta akta nikah jika berlaku. Semuanya memerlukan paspor dan pas yang berlaku setidaknya enam bulan.
+framework: how-to
 ---
 
 Seorang warga negara Malaysia melangkah masuk ke sebuah cabang dengan MyKad,

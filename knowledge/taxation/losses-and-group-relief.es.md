@@ -86,6 +86,7 @@ relations:
   - { rel: "affects", to: "capital-allowances" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "company-tax-residence", "income-tax-act-1967", "dormant-company-audit-exemption"]
 keywords: ["business loss carry forward Malaysia", "section 44A group relief", "unabsorbed capital allowances", "10 year loss limit", "substantial change in shareholding"]
+framework: explainer
 ---
 
 Dos empresas del mismo grupo, ambas con pérdidas, ambas con directores que dan por hecho que las pérdidas estarán ahí cuando lleguen los beneficios. Una todavía las tendrá en 2035. La otra no, y nada en su actividad comercial explica la diferencia.

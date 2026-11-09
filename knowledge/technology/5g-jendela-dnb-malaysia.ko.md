@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "internet-and-fibre" }
 related: ["malaysias-telcos-and-5g", "internet-and-fibre"]
 keywords: ["JENDELA", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "second 5G network", "U Mobile", "MCMC", "national broadband plan", "spectrum allocation", "700MHz", "3.5GHz"]
+framework: explainer
 ---
 
 말레이시아 사람 두 명에게 이 나라의 이동통신 네트워크가 어떻게 운영되는지 물어보면, 흔히 서로 다르면서도 절반씩만 맞는 두 가지 답을 듣게 됩니다 — 사실은 서로 얽힌 두 개의 별개 이야기가 있기 때문입니다. 하나는 대부분의 사람이 정부 현수막에서 본 적이 있는 이름을 가진 광대역 커버리지 계획입니다. 다른 하나는 누가 5G 회선을 소유할지를 둘러싼 빠르게 전개되는 싸움입니다. 오늘날의 말레이시아 통신을 이해하려면 이 두 이야기를 분명히 구분해야 합니다.

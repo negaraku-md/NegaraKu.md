@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "epf-members-investment-scheme" }
 related: ["i-saraan-epf-voluntary-contribution", "epf", "epf-socso-employees", "epf-members-investment-scheme"]
 keywords: ["akaun fleksibel", "EPF account 3", "KWSP akaun 3", "akaun persaraan sejahtera fleksibel", "EPF account restructuring", "akaun fleksibel withdrawal", "KWSP three accounts"]
+framework: explainer
 ---
 
 近四十年来，你的 EPF 储蓄一直放在两个"盒子"里：账户一，退休前不能动用；账户二，可以用来买房、看病或支付子女教育。**2024 年 5 月 11 日**，这一切发生了改变。雇员公积金局（[EPF](/zh/glossary/epf)，或称 KWSP）把每位 55 岁以下的会员拆分为**三个**账户，更重要的是，从今往后的每笔缴款中划出一块，供你随时提取。

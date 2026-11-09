@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "financial-statement-pack" }
 related: ["audit-exemption", "audit-exemption-thresholds", "basis-period-and-accounting-date", "myinvois-phases", "financial-statement-pack", "financial-statements-lodgement", "sdn-bhd-first-year-compliance", "form-c-and-cp204"]
 keywords: ["financial year end Malaysia", "change financial year end Sdn Bhd", "FYE Malaysia", "basis period change accounting date", "audit exemption three years", "18 month first financial statements", "section 247 holding company financial year"]
+framework: decision
 ---
 
 选一个财政年结感觉像是行政决定。它通常在公司生命的第一个星期里，由一个没有理由去

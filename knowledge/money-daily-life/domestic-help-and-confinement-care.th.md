@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["imigresen", "employment-act-1955", "opening-bank-account"]
 keywords: ["hiring a maid in Malaysia", "foreign domestic helper Malaysia", "confinement nanny Malaysia", "confinement centre Malaysia", "pembantu rumah asing", "domestic worker rules Malaysia", "part time maid Malaysia", "postnatal care Malaysia"]
+framework: explainer
 ---
 
 ครัวเรือนที่จ้างผู้ช่วยงานแบบอยู่ประจำ กับครัวเรือนที่จองศูนย์อยู่ไฟเป็นเวลาหนึ่งเดือนหลังคลอด กำลังทำสองสิ่งที่รู้สึกคล้ายกัน คือการนำผู้ช่วยงานที่มีค่าจ้างเข้ามาในบ้าน แต่ทั้งสองอย่างอยู่ภายใต้การกำกับดูแลของรัฐบาลในปริมาณที่แทบจะตรงกันข้าม อย่างหนึ่งดำเนินผ่านกระบวนการตรวจคนเข้าเมืองระดับชาติพร้อมเกณฑ์รายได้และการจำกัดที่เข้มงวดหนึ่งคนต่อหนึ่งครัวเรือน อีกอย่างหนึ่งในพื้นที่ส่วนใหญ่ของประเทศ ได้รับใบอนุญาตในลักษณะเดียวกับร้านทำผม

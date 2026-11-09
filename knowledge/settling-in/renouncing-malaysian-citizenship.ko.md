@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "dual-citizenship-malaysia" }
 related: []
 keywords: ["melepaskan kewarganegaraan", "dwikewarganegaraan Malaysia", "Perkara 23", "Perkara 24", "Perlembagaan Persekutuan", "Borang K", "pelucutan kewarganegaraan", "JPN"]
+framework: explainer
 ---
 
 다른 국가의 시민이 되기 위해 선서를 한 말레이시아인은 자신의 파란 여권과 MyKad가 더 이상 유효하지 않음을 알게 되면 흔히 놀랍니다 — 숨겨진 어떤 행정 행위 때문이 아니라, 연방헌법 자체가 이중국적을 인정되지 않는 것으로 간주하기 때문입니다. 이 문제는 서로 밀접하게 연관된 두 규정에 집중됩니다. 제23조(자발적 포기)와 제24조(외국 시민권 취득에 따른 박탈)입니다.

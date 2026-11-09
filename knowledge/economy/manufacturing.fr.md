@@ -82,6 +82,7 @@ faq:
     a: Non — c'est une citation erronée courante. L'Enquête trimestrielle sur l'emploi du DOSM ne recense que les établissements enregistrés du secteur privé, soit 9.21 millions d'emplois au 4e trimestre 2025, et les 2.54 millions de la manufacture représentent 27.5% de ce sous-ensemble. L'enquête exclut le secteur public, les indépendants et le travail informel, de sorte que la part de la manufacture dans l'ensemble des personnes en emploi est sensiblement plus faible. Pour cette question, utilisez l'Enquête sur la population active (Labour Force Survey).
   - q: Si la part dans le PIB stagne, l'industrie manufacturière n'est-elle pas simplement cantonnée à des travaux d'assemblage à faible valeur ?
     a: 'Les données de productivité disent le contraire. La valeur ajoutée manufacturière a atteint RM59.0 par heure travaillée en 2025 contre RM42.0 dans les services — environ 40% de plus par heure, et à peu près un tiers au-dessus de la moyenne nationale de RM44.5. Une part stable relève en partie de l''arithmétique : les services ont crû plus vite (5.4% contre 4.5% pour la manufacture), de sorte que la part du secteur plus petit baisse même quand sa production augmente. La composition interne de la manufacture évolue, ce que la part dans le PIB ne peut pas montrer.'
+framework: explainer
 ---
 
 ## En un coup d'œil

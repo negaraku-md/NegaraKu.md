@@ -92,6 +92,7 @@ relations:
   - { rel: "affects", to: "global-minimum-tax-pillar-two" }
 related: ["corporate-tax-rates", "global-minimum-tax-pillar-two", "reinvestment-allowance"]
 keywords: ["Nuevo Marco de Incentivos Malasia", "incentivo fiscal NIF Malasia", "Pioneer Status Malasia 2026", "Tasa Impositiva Especial Malasia", "Cuadro de Mando NIA", "plazo PIA 1986", "New Incentive Framework Malaysia", "NIA Scorecard"]
+framework: explainer
 ---
 
 El Pioneer Status no se extinguió gradualmente. Cerró, en una tarde concreta, con

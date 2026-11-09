@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "score-sarawak" }
 related: ["tenaga-nasional"]
 keywords: ["hidrokuasa", "empangan Bakun", "Murum", "Baleh", "Kenyir", "Temengor", "Sarawak Energy", "tenaga boleh baharu", "hydropower Malaysia"]
+framework: explainer
 ---
 
 从婆罗洲雨林山脉倾泻而下的流水，如今转动着为铝厂供电的涡轮机——而这正是马来西亚可再生能源战略的核心。然而通往这一步的道路，是由巨型水坝、面积达数百平方公里的湖泊，以及被迫迁移的数千个原住民家庭所标记的。

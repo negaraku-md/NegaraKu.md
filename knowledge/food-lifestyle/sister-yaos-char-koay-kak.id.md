@@ -78,6 +78,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["CharKoayKak", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 char koay kak adalah hidangan para orang dalam dunia kaki lima — potongan kue

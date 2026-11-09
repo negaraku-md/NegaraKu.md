@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "score-sarawak" }
 related: ["tenaga-nasional"]
 keywords: ["hidrokuasa", "empangan Bakun", "Murum", "Baleh", "Kenyir", "Temengor", "Sarawak Energy", "tenaga boleh baharu", "hydropower Malaysia"]
+framework: explainer
 ---
 
 ボルネオの多雨山脈から流れ下る水は、いまやアルミニウム精錬所に電力を供給するタービンを回している——それこそがマレーシアの再生可能エネルギー戦略の核心である。しかしそこに至る道のりには、巨大ダム、数百平方キロメートルに及ぶ湖、そして移住を強いられた数千の先住民家族の跡が刻まれている。

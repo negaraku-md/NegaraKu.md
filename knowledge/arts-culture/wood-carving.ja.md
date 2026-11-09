@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "pewter" }
 related: ["songket", "jawi-script", "pewter", "terengganu", "kelantan"]
 keywords: ["ukiran kayu", "ukiran kayu Melayu", "awan larat", "Desa Ukiran Kayu Besut", "motif ukiran kayu", "kraf kayu Terengganu"]
+framework: history-culture
 ---
 
 古いマレー家屋の窓にある木製パネルをよく見て、文様がどこから始まっているのか探してみてほしい。見つからないはずだ。それはあなたの目のせいではない——もとよりそう設計されているのである。

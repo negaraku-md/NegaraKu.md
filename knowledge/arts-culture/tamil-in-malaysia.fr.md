@@ -88,6 +88,7 @@ relations:
   - { rel: "compares-with", to: "bahasa-melayu" }
 related: ["population-composition", "article-152-language", "bahasa-melayu", "languages-spoken", "federal-constitution"]
 keywords: ["tamoul en Malaisie", "Tamil in Malaysia", "SJKT", "Sekolah Jenis Kebangsaan Tamil", "écoles de tamoul Malaisie", "Indiens malaisiens", "Article 152", "instruction en tamoul", "écoles vernaculaires"]
+framework: explainer
 ---
 
 Dans les anciennes plantations d'hévéas de Malaya, certaines des premières salles de classe furent des hangars et des cabanes, et les leçons se donnaient en tamoul. Selon une étude historique publiée dans la revue de l'Association historique de Malaisie, dès le début du XXe siècle une éducation primaire de base en tamoul était offerte dans les plantations, prévue par les codes du travail de l'époque et, pendant longtemps, dispensée par des commis et des travailleurs à temps partiel plutôt que par des enseignants formés.

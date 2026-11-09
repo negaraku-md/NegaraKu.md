@@ -91,6 +91,7 @@ relations:
   - { rel: "part-of", to: "mydigital-blueprint" }
 related: ["malaysia-startup-ecosystem", "cradle-cip-grant", "malaysia-digital-economy-in-numbers", "mydigital-blueprint"]
 keywords: ["KL20", "KL20 Summit 2024", "KL20 Action Paper", "Malaysia startup ecosystem", "top 20 global startup hub", "Golden Pass", "pelan tindakan KL20", "Cradle Fund startup"]
+framework: explainer
 ---
 
 अप्रैल 2024 में, मलेशिया ने अपने स्टार्टअप्स के बारे में उम्मीद की भाषा में बात करना बंद किया और रैंकिंग की भाषा में बात करना शुरू किया। बात सीधी थी: कुआलालंपुर को 2030 तक दुनिया के शीर्ष 20 स्टार्टअप तंत्रों में पहुँचाओ, या मान लो कि देश यूँ ही चलता रहा है।

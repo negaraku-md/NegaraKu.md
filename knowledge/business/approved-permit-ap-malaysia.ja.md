@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "miti" }
 related: ["import-export-licence-malaysia", "automotive-industry-malaysia", "miti"]
 keywords: ["approved permit", "AP Malaysia", "open AP", "franchise AP", "car import permit", "permit import kenderaan", "MITI AP", "parallel import car Malaysia"]
+framework: explainer
 ---
 
 マレーシアの自動車市場において、「AP」ほど重みを持つ三文字の略語はほとんどない。輸入車が国外よりもはるかに高くなる理由であり、数十年にわたる政治論争の的であり、そして多くの購入者が目にすることはないが常に代金を負担している許可証でもある。

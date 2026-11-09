@@ -99,6 +99,7 @@ verificationNeeded:
   - "Etimologi dan asal usul kari kapitan (kaitan dengan ketua masyarakat Kapitan Cina era kolonial, dan legenda 'Curry, Kapitan!' yang kerap diulang) — kesarjanaan menganggap ini sebagai cerita rakyat yang dipertikaikan dan bukan fakta yang didokumenkan. Sahkan dengan sumber akademik atau warisan."
   - "Sama ada rendang patut dikelaskan sebagai kari langsung — sesetengah penulis menegaskan hidangan yang sudah siap dan pekat sepenuhnya itu kering dan bukan kari, manakala yang lain menganggapnya sebagai penghujung kesinambungan gulai–kalio–rendang — serta asal usul Minangkabau/Sumatera Baratnya berbanding tuntutan warisan Malaysia. Sahkan dengan sumber sejarah masakan."
   - "Sempadan tepat antara gulai, masak lemak, asam pedas dan gulai tumis — nama-nama ini bertindih, berubah mengikut wilayah (cth. asam pedas dipanggil gulai di sesetengah bahagian Johor), dan digunakan secara tidak konsisten. Sahkan penamaan serantau ini dengan sumber masakan Malaysia."
+framework: explainer
 ---
 
 Minta "kari" di dapur kampung Melayu, di kedai nasi daun pisang India-Malaysia

@@ -91,6 +91,7 @@ relations:
   - { rel: "compares-with", to: "akpk-debt-management-programme" }
 related: []
 keywords: ["faillite", "kebankrapan", "bankrap", "insolvabilité", "insolvensi", "Loi sur l'insolvabilité 1967", "Insolvency Act 1967", "MDI", "Directeur général de l'insolvabilité", "réhabilitation de la faillite", "section 33C", "AKPK", "DMP"]
+framework: explainer
 ---
 
 Une seule facture impayée peut finir en une décision de justice qui change presque toutes les opérations financières de la vie d'une personne — de son compte bancaire à son autorisation de quitter le pays. En Malaisie, cette ligne de partage est définie par une seule loi : l'Insolvency Act 1967 (Act 360). Cet article décrit la procédure de manière descriptive, sans prendre parti.

@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "wau" }
 related: ["wau", "kelantan", "terengganu"]
 keywords: ["gasing", "gasing uri", "gasing pangkah", "permainan tradisional Melayu", "warisan kebangsaan", "Kuala Nerus", "gasing Kelantan", "gasing Terengganu"]
+framework: history-culture
 ---
 
 Âm thanh đến trước — tiếng va nặng của gỗ đập vào gỗ, nối theo là tiếng reo hò. Trên một sân làng quanh Kuala Nerus, Terengganu, hai nhóm đứng đối mặt nhau. Một người ném con quay của mình bằng dây; một con quay khác đã quay sẵn chờ trên mặt đất. Người thắng không phải người nhanh nhất — mà là người có con quay vẫn còn quay sau khi bị va.

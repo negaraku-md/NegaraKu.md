@@ -107,6 +107,7 @@ keywords:
   - "règle du malais pour les enseignes"
   - "frais de licence d'enseigne DBKL"
   - "signboard licence Malaysia"
+framework: rules
 ---
 
 La plupart des guides vous disent que Kuala Lumpur est la ville où le [Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka) doit

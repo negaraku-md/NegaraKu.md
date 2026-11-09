@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "how-malaysian-healthcare-works" }
 related: ["how-malaysian-healthcare-works", "government-hospitals"]
 keywords: ["pendermaan organ", "derma organ", "transplan", "NTRC", "ikrar penderma", "fatwa organ", "kematian otak", "MySejahtera"]
+framework: explainer
 ---
 
 ทุกปี ผู้ป่วยหลายพันคนในมาเลเซียรอสายโทรศัพท์ที่อาจไม่มีวันมาถึง — สายที่บอกว่าในที่สุดก็มีอวัยวะเพื่อช่วยชีวิตพวกเขาแล้ว เบื้องหลังรายการรอที่ยาวนานนั้นมีความย้อนแย้งอยู่หนึ่งอย่าง คือ ประชาชนหลายแสนคนได้ให้คำมั่นบริจาคอวัยวะ แต่มีเพียงส่วนน้อยที่คำมั่นนั้นเกิดขึ้นจริง

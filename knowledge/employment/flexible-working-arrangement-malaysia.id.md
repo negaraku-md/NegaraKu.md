@@ -73,6 +73,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-act-1955-guide", "working-hours-overtime-malaysia", "employment-contract-malaysia"]
 keywords: ["aturan kerja fleksibel malaysia", "fwa akta kerja malaysia", "seksyen 60p 60q", "permohonan bekerja dari rumah malaysia", "permohonan kerja fleksibel malaysia"]
+framework: rules
 ---
 
 Sebagian besar liputan Malaysia mengenai kerja fleksibel menggambarkannya sebagai suatu tunjangan

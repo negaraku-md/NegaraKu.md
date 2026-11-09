@@ -108,6 +108,7 @@ keywords:
   - "Kuala Lumpur premise licence fee"
   - "Federal Territory Planning Act 1982"
   - "TRX Marquee status incentives"
+framework: profile
 ---
 
 Kuala Lumpur là nơi duy nhất ở Malaysia mà bạn có thể đọc phí giấy phép của mình từ công báo

@@ -90,6 +90,7 @@ verificationNeeded:
   - "Sama ada mee Jawa Pulau Pinang benar-benar hidangan berbeza daripada mee rebus atau sekadar nama wilayah bagi perkara yang sama, serta kuahnya yang lebih manis dan berwarna tomato — sahkan dengan sumber warisan atau sejarah makanan Pulau Pinang."
   - "Peranan dan kehadiran relatif taucheo (pes kacang soya ditapai) berbanding asas udang kering dalam kuah, yang berbeza mengikut wilayah dan tukang masak (sesetengah versi dilaporkan meninggalkan taucheo) — sahkan dengan pelbagai sumber resipi atau masakan."
   - "Dakwaan bahawa Johor Bahru ialah 'ibu kota mee rebus' dan penggunaan sup daging lembu dalam kuah Johor, yang datang daripada laporan lama 2006 — sahkan dengan sumber makanan atau warisan Johor semasa."
+framework: explainer
 ---
 
 Pesan mee rebus di Malaysia, anda menerima sepinggan, bukan semangkuk sup: mi

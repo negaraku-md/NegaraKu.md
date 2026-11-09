@@ -91,6 +91,7 @@ verificationNeeded:
   - "Nasi goreng pattaya がタイ風の名前にもかかわらずマレーシア発祥か（一般に言われるように）——listicle ではなく、記録のある食の歴史資料で確認すること。"
   - "名付けられた各バリエーション（USA、paprik、ikan masin、hailam、kerabu、dabai）の正確で標準化された具材リスト——これらは主にフードメディアやコミュニティ編集の情報源から引かれ、屋台ごとに異なる；地域ごとの詳細は地元の料理文献で確認すること。"
   - "Nasi goreng が正式にマレーシアの国家料理遺産として官報告示されているか、どの指定の下か——二次的なフードメディアではなく、Jabatan Warisan Negara または公式の情報源で確認すること。"
+framework: explainer
 ---
 
 午前一時に mamak 屋台で nasi goreng を頼むと、あなたは一つの料理を注文するというより、

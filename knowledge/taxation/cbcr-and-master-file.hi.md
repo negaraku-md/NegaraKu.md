@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "transfer-pricing-documentation" }
 related: ["transfer-pricing-documentation", "global-minimum-tax-pillar-two", "permanent-establishment"]
 keywords: ["CbCR मलेशिया", "देश-दर-देश रिपोर्टिंग मलेशिया", "CbCR सीमा RM3 बिलियन", "मास्टर फ़ाइल अंतरण मूल्य-निर्धारण", "CbCR Malaysia", "country by country reporting Malaysia", "master file Malaysia transfer pricing", "P.U.(A) 357/2016"]
+framework: rules
 ---
 
 जो समय-सीमा समूहों को पकड़ती है, वह फाइलिंग की समय-सीमा नहीं है। वह अधिसूचना है,

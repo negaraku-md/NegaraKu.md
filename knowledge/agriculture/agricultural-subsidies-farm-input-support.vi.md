@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
 related: []
 keywords: ["subsidi baja padi", "SBPKP", "SIPP", "insentif pengeluaran padi", "subsidi pertanian", "bantuan input pesawah"]
+framework: explainer
 ---
 
 Bao phân mà người nông dân vác ra ruộng sáng hôm đó không được mua bằng tiền của chính họ — nó đến mà không phải trả tiền, do Chính phủ Liên bang gánh chịu suốt nhiều thập kỷ. Đây là gương mặt thật của trợ cấp nông nghiệp Malaysia cho lúa: không phải séc hay tiền vào tài khoản, mà là phân bón, thuốc trừ sâu và các khoản khuyến khích gánh phần lớn chi phí tại đồng ruộng.

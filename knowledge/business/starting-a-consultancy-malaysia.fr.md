@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "freelancer-and-gig-tax" }
 related: ["sole-prop-vs-sdn-bhd"]
 keywords: ["lancer une société de conseil malaisie", "activité de conseil malaisie", "cabinet de services professionnels malaisie", "enregistrer consultant freelance malaisie", "taxe sur les services conseil malaisie", "LLP vs sdn bhd conseil", "licence profession réglementée malaisie"]
+framework: how-to
 ---
 
 Le conseil semble l'entreprise la plus facile à lancer — pas de locaux, pas de stock, juste votre expertise et un ordinateur portable. Et pour un consultant en gestion générale, c'est presque le cas : enregistrez-vous auprès de la SSM et vous êtes en activité. Mais deux choses font trébucher les gens. Premièrement, si votre « conseil » est en réalité une *profession réglementée*, un enregistrement d'entreprise ne suffit pas — vous avez besoin d'une licence pour exercer. Deuxièmement, l'entité que vous choisissez et l'impôt dont vous relevez comptent davantage pour un cabinet de services que pour presque toute autre entreprise, car vos revenus *sont* l'entreprise.

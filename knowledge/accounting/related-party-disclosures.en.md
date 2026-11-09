@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016"]
 keywords: ["MFRS 124", "pihak berkaitan", "akaun semasa pengarah", "pinjaman pengarah", "MBRS", "IAS 24", "penyata kewangan"]
+framework: explainer
 ---
 
 In most family-owned Sdn Bhd companies in Malaysia, money moves in and out without much paperwork: the father injects cash when cash flow is tight, a child takes an advance for a personal matter, and a related company settles a bill for another. All of it collects in a single quiet line on the balance sheet — the "director's current account" — and it is this line that most often trips things up when the auditor arrives and when the financial statements are tagged for SSM.

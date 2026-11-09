@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "str-cash-aid" }
 related: ["i-saraan-epf-voluntary-contribution", "epf-socso-employees", "income-tax-individuals", "str-cash-aid"]
 keywords: ["i-Saraan", "i-Saraan Plus", "KWSP", "PERKESO", "Lindung Kendiri", "pekerja gig", "bekerja sendiri", "Akta Pekerja Gig 2025", "Akta 872", "SKSPS", "freelancer"]
+framework: explainer
 ---
 
 Spend your life driving for e-hailing platforms or taking on freelance jobs, and one thing never happens automatically: nobody deducts from your pay for EPF or SOCSO. For salaried employees, those contributions happen behind the scenes every month. For you as a self-employed person, that safety net does not exist until you build it yourself — and in 2026, part of it has just shifted from optional to mandatory.

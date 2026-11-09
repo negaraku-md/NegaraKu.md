@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["federal-constitution", "independence-1957", "formation-of-malaysia-1963", "parliament"]
 keywords: ["Rukun Negara", "lima prinsip Rukun Negara", "ikrar Rukun Negara", "Majlis Perundingan Negara", "MAGERAN", "Pengisytiharan Diraja 1970"]
+framework: history-culture
 ---
 
 Trong Hồ sơ Ủy ban Rukun Negara tại Cục Lưu trữ Quốc gia Malaysia có một lá thư đề ngày 19 tháng 3 năm 1970. Nó thông báo rằng cuộc họp đầu tiên của Ủy ban Rukun Negara sẽ được tổ chức vào ngày 31 tháng 3 năm 1970, lúc 10 giờ sáng, tại Phòng Điều hành, Kho bạc Malaysia. Mười ba cái tên trong danh sách gửi, thêm bốn người nữa nhận bản sao.

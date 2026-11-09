@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "financial-statement-pack" }
 related: ["audit-exemption", "audit-exemption-thresholds", "basis-period-and-accounting-date", "myinvois-phases", "financial-statement-pack", "financial-statements-lodgement", "sdn-bhd-first-year-compliance", "form-c-and-cp204"]
 keywords: ["वित्तीय वर्ष की समाप्ति मलेशिया", "वित्तीय वर्ष-समाप्ति बदलना Sdn Bhd", "FYE Malaysia", "आधार अवधि लेखांकन तिथि परिवर्तन", "लेखा परीक्षा छूट तीन वर्ष", "18 महीने पहले वित्तीय विवरण", "धारा 247 होल्डिंग कंपनी वित्तीय वर्ष"]
+framework: decision
 ---
 
 वित्तीय वर्ष की समाप्ति चुनना एक प्रशासनिक निर्णय जैसा लगता है। यह आमतौर पर कंपनी के

@@ -80,6 +80,7 @@ relations:
   - { rel: "part-of", to: "financial-year-end" }
 related: ["financial-year-end", "financial-reporting-deadlines", "audit-exemption-thresholds", "audit-exemption", "sdn-bhd-first-year-compliance", "basis-period-and-accounting-date", "sdn-bhd-bookkeeping"]
 keywords: ["first financial year Sdn Bhd", "18 months first financial statements Malaysia", "section 248 Companies Act 2016", "new company financial year end Malaysia", "first audit Sdn Bhd", "audit exemption first year"]
+framework: explainer
 ---
 
 新設のすべての Sdn Bhd は、最初の決算が必要になるまで18か月あると告げられ、それは

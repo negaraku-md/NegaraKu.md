@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "manufacturing" }
 related: ["johor", "external-trade", "manufacturing"]
 keywords: ["JS-SEZ", "Johor Singapore Special Economic Zone", "JS-SEZ incentives", "JS-SEZ flagship zones", "Malaysia Singapore economic zone", "IMFC-J"]
+framework: explainer
 ---
 
 दो देश सीमा-पार एक कर-संहिता साझा करने पर सहमत हुए। यही जोहोर-सिंगापुर विशेष आर्थिक क्षेत्र की शांत नवीनता है — कोई नया औद्योगिक पार्क नहीं, बल्कि एक द्विपक्षीय सौदा जो दक्षिणी जोहोर और सिंगापुर को वैश्विक निवेशकों के सामने एक ही व्यावसायिक पते के रूप में खुद को प्रस्तुत करने देता है।

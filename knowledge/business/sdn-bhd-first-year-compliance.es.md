@@ -207,6 +207,7 @@ keywords:
   - "secretario de empresa 30 días"
   - "lista de verificación cumplimiento empresa nueva"
   - "post constitución Malasia"
+framework: journey-hub
 ---
 
 La constitución es una transacción. El cumplimiento es una suscripción.

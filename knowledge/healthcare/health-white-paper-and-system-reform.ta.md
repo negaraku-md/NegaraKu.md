@@ -74,6 +74,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
 related: []
 keywords: ["kertas putih kesihatan", "reformasi kesihatan", "pembiayaan kesihatan", "KKM", "insurans kesihatan nasional", "Rakan KKM"]
+framework: explainer
 ---
 
 அரசாங்க கிளினிக்குகள் நாட்டின் வெளிநோயாளர் வருகைகளில் கிட்டத்தட்ட மூன்றில் இரண்டு பங்கைச் சமாளிக்கின்றன — ஆனால் அவை முதன்மைப் பராமரிப்பு வசதிகளில் சுமார் நான்கில் ஒரு பங்கை மட்டுமே பிரதிநிதித்துவப்படுத்துகின்றன. இந்தச் சமநிலையின்மையே, மற்றவற்றுடன், ஒரு தலைமுறையில் மிக முக்கியமான கொள்கை ஆவணத்தை — சுகாதார வெள்ளை அறிக்கையை (Health White Paper) — எழுத மலேசிய சுகாதார அமைச்சை (Ministry of Health, KKM) தூண்டியது.

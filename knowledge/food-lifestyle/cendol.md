@@ -92,6 +92,7 @@ social:
     - "gulamelaka"
     - "penangfood"
     - "malaysianfood"
+framework: explainer
 ---
 
 On a hot Malaysian afternoon, few things are as reliable as a bowl of cendol: a

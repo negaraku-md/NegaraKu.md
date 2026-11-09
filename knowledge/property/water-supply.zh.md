@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "moving-to-malaysia-first-steps" }
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka akaun air", "syarikat air negeri", "bil air Malaysia", "SPAN", "sambungan air baharu"]
+framework: explainer
 ---
 
 你从雪兰莪搬到柔佛。银行账户不变，电话号码可以直接携带过去。但你的水表账户呢？它不会跟着走——因为为你新家供水的公司，根本就是完全不同的一家公司。

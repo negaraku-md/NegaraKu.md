@@ -73,6 +73,7 @@ keywords:
   - "cabutan sijil kelahiran"
   - "JPN.LM01"
   - "JPN.LM12"
+framework: how-to
 ---
 
 يعامل كثير من الآباء الجدد تسجيل ميلاد طفلهم بوصفه معاملة ورقية مجانية

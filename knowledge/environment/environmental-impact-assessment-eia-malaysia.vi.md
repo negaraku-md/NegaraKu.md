@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "prescribed-activities-eia-order-2015" }
 related: ["environmental-quality-act-1974"]
 keywords: ["EIA Malaysia", "environmental impact assessment", "prescribed activities", "Section 34A", "Order 2015", "Department of Environment", "First Schedule", "Second Schedule", "public display"]
+framework: rules
 ---
 
 Khởi công đúng loại dự án sai mà không có đèn xanh, và bạn không chỉ đối mặt với một khoản phạt — bạn có thể bị buộc phải dừng lại trong khi vốn của bạn nằm im không hoạt động. Ở Malaysia, một danh sách xác định các "hoạt động được quy định" không thể hợp pháp bắt đầu cho đến khi một báo cáo Đánh giá Tác động Môi trường (EIA) đã được nộp cho, và được, Tổng Giám đốc Môi trường phê duyệt. Đối với nhà phát triển và nhà đầu tư, EIA không phải là giấy tờ ở cuối quá trình quy hoạch; nó là một cánh cổng ở điểm khởi đầu.

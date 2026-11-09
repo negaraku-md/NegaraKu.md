@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "hinduism-in-malaysia" }
 related: ["hinduism-in-malaysia", "deepavali", "thaipusam", "pongal", "mariamman-worship", "hindu-temple-architecture"]
 keywords: ["நவராத்திரி", "Navaratri", "Navratri", "கொலு", "Golu", "விஜயதசமி", "சரஸ்வதி பூஜை", "ஆயுத பூஜை", "வித்யாரம்பம்", "மலேசியா நவராத்திரி", "கர்பா தாண்டியா"]
+framework: history-culture
 ---
 
 九夜节期间，在马来西亚一户泰米尔印度教家庭的客厅里，会沿着一面侧墙搭起单数层的阶台。在那铺着布的阶台上，神像与讲述神话场景的娃娃一排排摆放其上。到了傍晚，亲友与左邻右舍前来观赏这座 **Golu**；歌声响起；离去的宾客会获赠 thamboolam 与甜点。这不是一日之事——而是一个绵延九夜的节庆的标志。

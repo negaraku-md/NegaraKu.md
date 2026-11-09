@@ -59,6 +59,7 @@ relations:
   - { rel: "governs", to: "employment-contract-malaysia" }
 related: ["unfair-dismissal-malaysia", "employment-contract-malaysia", "termination-of-employment-malaysia"]
 keywords: ["probation malaysia", "terminate probationer malaysia", "confirmation of employment malaysia", "probation period malaysia law", "extend probation malaysia"]
+framework: explainer
 ---
 
 "그 사람은 아직 수습 중이니, 그냥 내보내면 됩니다." 이 문장은 다른 거의 어떤 사유보다도

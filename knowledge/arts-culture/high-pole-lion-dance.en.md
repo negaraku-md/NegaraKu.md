@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "chinese-clan-associations", "chinese-dialects", "population-composition"]
 keywords: ["高桩舞狮", "梅花桩舞狮", "南狮", "醒狮", "采青", "锣鼓钹", "关圣宫", "麻坡", "云顶世界狮王争霸赛", "舞狮", "High Pole Lion Dance", "Kun Seng Keng"]
+framework: history-culture
 ---
 
 As the drumbeat tightens, the lion springs into the air, its front paws landing firmly on a steel pole no thicker than the rim of a bowl, the tail following at once — two performers leaping and posing among a row of poles set at varying heights, two or three metres off the ground, the crowd holding its breath, until the lion, now seemingly "alive", steadies itself on the highest pole of all and the applause breaks out. This is not the festive lion dance on the ground, but a sport with scores, champions and world rankings — high pole lion dance.

@@ -61,6 +61,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["religion-statistics", "article-3-religion", "kuala-lumpur"]
 keywords: ["Wesak Day Malaysia", "Vesak Day Malaysia", "Hari Wesak 2026", "Wesak Day date Malaysia", "Buddhist public holiday Malaysia", "Wesak procession Kuala Lumpur", "Buddha's birthday Malaysia"]
+framework: history-culture
 ---
 
 ウェサック・デー（Wesak Day、Vesakとも表記）がいつなのかを尋ねても、決まった答えはない——毎年変わるのだ。2026年は5月31日、2027年は5月20日、2028年は5月9日にあたる。理由は単純である。ウェサックは暦の特定の日付ではなく月の満ち欠けによって定まり、陰暦と西暦は毎年互いにずれていくからである。

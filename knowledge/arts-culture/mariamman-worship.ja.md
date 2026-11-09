@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["hinduism-in-malaysia", "thaipusam", "deepavali", "estate-tamil-community", "pongal", "tamil-in-malaysia"]
 keywords: ["மாரியம்மன் வழிபாடு", "மாரியம்மன்", "அம்மன் வழிபாடு", "Mariamman worship", "Mariamman Malaysia", "ஸ்ரீ மகாமாரியம்மன் கோயில்", "தீமிதி"]
+framework: history-culture
 ---
 
 マレーシアの古いゴム農園のほとんどすぐそば、そして町の中心部の年季の入った通り沿いには、マーリアンマン寺院を見つけることができます。黄土色の顔をしたアンマンの像、そして雨季の前に行われる祭り——それらは偶然ではなく、一世紀半を超えるタミル社会の歴史と信仰の伝統を担っています。

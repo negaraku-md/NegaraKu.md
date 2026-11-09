@@ -116,6 +116,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["share-transfer", "register-of-members", "share-capital-malaysia", "capital-reduction", "beneficial-ownership"]
 keywords: ["share allotment Malaysia", "return of allotment 14 days", "section 75 Companies Act 2016", "pre-emptive rights section 85", "issue new shares Sdn Bhd"]
+framework: how-to
 ---
 
 Sdn Bhdでの新株発行は、取締役会の決定であるように見える。だがそうではない。2016年会社法のもとでは、社員の事前の承認を得ずに行われた割当は**無効**である——取消可能でも、不備があるのでもなく、無効である——そして、それを承認した取締役は、個人としてその損失の責任を負う。

@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "hire-purchase-act-1967-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["SBR Malaysia", "Standardised Base Rate", "debt service ratio", "DSR", "housing loan Malaysia", "Hire Purchase Act 1967", "BLR", "responsible financing", "OPR"]
+framework: explainer
 ---
 
 两位购房者拿着同一份薪资单走进两家不同的银行，却带着两个不同的答案走了出来。两家银行都不是自己发明了利率，也都不是在任意行事。马来西亚的零售放贷体系运行在一小套共享规则之上——一套将每一笔浮动利率贷款与吉隆坡的一个政策旋钮挂钩，一套决定你能承担多少债务，而对于你的汽车，则是一部完全独立的、来自 1967 年的法律。

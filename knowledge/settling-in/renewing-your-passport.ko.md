@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "registering-a-birth" }
 related: ["imigresen", "mykad", "registering-a-birth"]
 keywords: ["pasport Malaysia", "renew pasport online", "MyOnline Passport", "pembaharuan pasport antarabangsa", "gantian pasport hilang", "kaunter UTC pasport", "Jabatan Imigresen Malaysia pasport", "yuran pasport Malaysia", "pasport 10 tahun Malaysia"]
+framework: how-to
 ---
 
 여권이 한 달 안에 만료되고, 항공권은 이미 샀으며, 이민국에서 줄을 서려고 연차를 내야 할지 확신이 서지 않습니다. 대부분의 말레이시아인에게 답은: 그럴 필요 없습니다. 그러나 일부 사례 — 분실, 손상, 또는 최초 신청 — 에서는 그 간편한 온라인 경로가 사실 완전히 닫혀 있습니다.

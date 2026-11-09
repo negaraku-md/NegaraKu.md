@@ -93,6 +93,7 @@ verificationNeeded:
   - "Sama ada nasi kerabu paling tepat digambarkan sebagai hidangan Kelantan secara khusus atau hidangan bersama Kelantan–Terengganu (pantai timur) — sumber berbeza dalam cara mengaitkannya. Sahkan dengan sumber kulinari atau warisan serantau."
   - "Susunan ulam yang kanonik (ulam mentah mana yang penting berbanding yang bersifat serantau atau pilihan) — resipi dan sumber menyenaraikan gabungan yang berbeza. Sahkan dengan sumber Kelantan."
   - "Garis pemisah tepat antara nasi kerabu dan nasi ulam — lazimnya digambarkan sebagai hidangan serupa yang dipisahkan terutamanya oleh nasi berwarna. Sahkan dengan sumber rujukan kulinari."
+framework: explainer
 ---
 
 Sedikit sahaja hidangan Malaysia yang mengisytiharkan dirinya sekuat nasi

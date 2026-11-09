@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "hire-purchase-act-1967-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["SBR Malaysia", "Standardised Base Rate", "debt service ratio", "DSR", "housing loan Malaysia", "Hire Purchase Act 1967", "BLR", "responsible financing", "OPR"]
+framework: explainer
 ---
 
 Two homebuyers walk into two different banks with the same payslip and walk out with two different answers. Neither bank invented its own interest rate, and neither is being arbitrary. Malaysia's retail lending system runs on a small set of shared rules — one that ties every floating-rate loan to a single policy dial in Kuala Lumpur, one that decides how much debt you can carry, and, for your car, an entirely separate law from 1967.

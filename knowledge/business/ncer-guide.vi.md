@@ -100,6 +100,7 @@ keywords:
   - "NTAX NCER closed"
   - "Kulim Hi-Tech Park incentives"
   - "koridor utara NCER"
+framework: explainer
 ---
 
 Hỏi Hành lang phía Bắc cho một nhà đầu tư những gì và bạn sẽ được đưa một danh sách các miễn trừ thuế.

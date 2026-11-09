@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["silat", "silat melayu", "seni silat", "silat pulut", "silat gayung", "PESAKA", "warisan budaya tidak ketara", "UNESCO Malaysia", "seni bela diri", "silat harimau"]
+framework: history-culture
 ---
 
 腕の立つシラットの達人は、相手の骨を折ることもできれば——花嫁の前で誰にも触れずに舞うこともできる。どちらもシラットである。これこそが、この武芸についてもっとも理解しがたい点である。それは単なる格闘の技法ではなく、単なる祝宴の舞でもない。その両方が、同じ身体の中に、同じ歩法によって動かされているのである。

@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "northeast-monsoon" }
 related: []
 keywords: ["Perhentian", "Redang", "Tioman", "Kapas", "marine park", "conservation fee", "northeast monsoon", "Malaysia islands", "snorkelling", "diving"]
+framework: explainer
 ---
 
 12월에 르당(Redang) 해변 리조트에 도착하면 보트는 사라지고, 부두는 조용하며, 다이빙숍은 닫혀 있는 광경을 마주할 가능성이 큽니다. 동해안 섬들은 관광 안내책자가 아니라 바다가 쓴 달력에 따라 돌아가며 — 대부분의 초행자가 매표소에서야 비로소 알게 되는 일련의 해양공원 규정에 따라 움직입니다.

@@ -78,6 +78,7 @@ relations:
   - { rel: "located-in", to: "taman-negara" }
 related: []
 keywords: ["Malayan tiger", "Harimau Malaya", "Panthera tigris jacksoni", "Critically Endangered", "National Tiger Survey", "Perhilitan", "MYCAT", "tigre malayo", "conservación del tigre", "Reserva Real del Tigre Al-Sultan Abdullah", "biodiversidad de Malasia"]
+framework: explainer
 ---
 
 El tigre aparece en el escudo de armas de Malasia, pero el animal en sí es ahora uno de los grandes felinos más raros del mundo. Cuando Malasia completó su primer censo nacional de tigres silvestres, el resultado fue menor de lo que muchos esperaban: menos de 150.

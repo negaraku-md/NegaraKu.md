@@ -65,6 +65,7 @@ sources:
 
 related: ["muhyiddin-yassin", "mahathir-mohamad", "anwar-ibrahim", "2018-change-of-government", "2022-general-election"]
 keywords: ["Sheraton Move", "Langkah Sheraton", "2020 political crisis Malaysia", "Perikatan Nasional", "change of government 2020"]
+framework: history-culture
 ---
 
 > **Bản nháp — nhạy cảm.** Bài viết này là một bản tóm tắt trung lập, đang trong quá

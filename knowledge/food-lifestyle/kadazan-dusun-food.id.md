@@ -91,6 +91,7 @@ verificationNeeded:
   - "Klaim bahwa Kadazan-Dusun adalah kelompok pribumi tunggal terbesar di Sabah, dan hubungan persis antara label Kadazan dan Dusun (kadang dianggap satu bangsa, kadang terpisah) — konfirmasikan dengan sensus (DOSM) atau sumber etnografi."
   - "Tanggal persis dan status hari libur umum pesta Kaamatan (Tadau Kaamatan) (umumnya disebut sepanjang bulan Mei, dengan hari libur negara bagian Sabah pada 30–31 Mei) — konfirmasikan dengan sumber resmi pemerintah negara bagian Sabah."
   - "Apakah tradisi sagu/ambuyat yang sesungguhnya merupakan bagian dari masakan Kadazan-Dusun secara khusus, mengingat ambuyat lebih kuat dikaitkan dengan Brunei dan komunitas Borneo lainnya — konfirmasikan sejauh mana penggunaan pati sagu dalam pola makan Kadazan-Dusun."
+framework: history-culture
 ---
 
 Pesanlah sepiring *hinava* di Kota Kinabalu, maka Anda akan mendapat sesuatu yang

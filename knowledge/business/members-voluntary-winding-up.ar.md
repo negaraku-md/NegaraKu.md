@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "creditors-voluntary-winding-up" }
 related: ["close-a-company", "strike-off-company-malaysia", "creditors-voluntary-winding-up", "corporate-rescue-malaysia", "company-director-requirements"]
 keywords: ["التصفية الطوعية بقرار الأعضاء في ماليزيا", "members voluntary winding up malaysia", "إقرار الملاءة Section 443", "declaration of solvency section 443", "مصفٍّ Sdn Bhd", "التصفية الطوعية section 439 Companies Act 2016"]
+framework: how-to
 ---
 
 الوثيقة التي تحدِّد التصفية الطوعية بقرار الأعضاء ليست القرار. إنها إقرار من صفحة

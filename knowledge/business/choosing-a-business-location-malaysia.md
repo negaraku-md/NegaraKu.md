@@ -137,6 +137,7 @@ keywords:
   - "Kuala Lumpur vs Penang vs Johor business"
   - "Sabah Sarawak business setup difference"
   - "Malaysia economic corridor incentives location"
+framework: decision
 ---
 
 The question always arrives fully formed. *Kuala Lumpur, Penang or Johor?* Sometimes with

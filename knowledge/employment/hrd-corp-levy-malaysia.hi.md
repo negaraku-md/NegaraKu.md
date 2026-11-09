@@ -108,6 +108,7 @@ relations:
   - { rel: "related-to", to: "payroll-rates-deadlines-malaysia" }
 related: ["payroll-rates-deadlines-malaysia", "payroll-compliance-malaysia", "epf-employer-guide"]
 keywords: ["HRD Corp levy rate", "HRDF registration threshold", "1% levy Malaysia", "PSMB Act First Schedule", "HRD Corp claimable courses", "levy forfeiture"]
+framework: rules
 ---
 
 दो प्रश्न आपकी HRD Corp स्थिति तय करते हैं, और ऑनलाइन लगभग हर मार्गदर्शिका केवल दूसरे का उत्तर देती है। पहला है *क्या हम दायरे में हैं भी* — और मार्च 2021 से अधिकांश निजी नियोक्ताओं के लिए ईमानदार उत्तर हाँ है, चाहे किसी ने आपको बताया हो या नहीं। दूसरा है कि आप क्या चुकाते हैं। जो प्रश्न कोई नहीं पूछता वह यह है कि उसके बाद उस पैसे का क्या होता है, और यहीं अधिकांश SME इसे चुपचाप खो देते हैं।

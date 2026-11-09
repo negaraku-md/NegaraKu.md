@@ -84,6 +84,7 @@ relations:
   - { rel: "compares-with", to: "double-deduction-list" }
 related: ["double-deduction-list", "corporate-tax-rates", "losses-and-group-relief"]
 keywords: ["reinvestment allowance Malaysia", "Schedule 7A qualifying project", "RA 60% capital expenditure", "reinvestment allowance 15 years", "RA claim rejected audit"]
+framework: rules
 ---
 
 La bonificación por reinversión fracasa en auditoría mucho más a menudo de lo que se rechaza de entrada, y casi nunca porque el dinero no se haya gastado. Fracasa porque la empresa compró el activo correcto para el proyecto equivocado. Una máquina que empaqueta cajas acabadas en cartones es una máquina real, realmente instalada en una fábrica real, y no cumple los requisitos, porque la fabricación ya había concluido cuando los lápices se metieron en las cajas.

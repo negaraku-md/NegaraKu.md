@@ -71,6 +71,7 @@ relations:
   - { rel: "administered-by", to: "malaysian-institute-of-accountants" }
 related: ["malaysian-institute-of-accountants"]
 keywords: ["الأهمية النسبية", "المعاينة في التدقيق", "ISA 320", "ISA 530", "ISA 450", "الأهمية النسبية للأداء", "التحريف المقبول", "التدقيق القانوني ماليزيا", "materiality", "audit sampling"]
+framework: explainer
 ---
 
 المدقّق الذي يوقّع على مجموعة حسابات لم ينظر في كل معاملة وراءها تقريباً أبداً — والمعايير تقول إن هذه هي الطريقة الصحيحة في العمل.

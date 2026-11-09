@@ -56,6 +56,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["langkasuka", "srivijaya"]
 keywords: ["Gangga Negara", "Beruas", "kerajaan Melayu awal", "sejarah Perak", "Chola", "Rajendra Chola I", "Hikayat Merong Mahawangsa", "Muzium Beruas"]
+framework: explainer
 ---
 
 「ガンガ・ヌガラ（Gangga Negara）」をインターネットで検索すると、明快な一つの構図に行き当たる——西暦2世紀に建国され、1025年にインドのチョーラ軍によって滅ぼされた、Sungai Perak岸辺の黄金の王国、というものだ。これほど正確な年代が示されているのなら、どこかに同時代の文書記録——一つの碑文、一片の宮廷文書——が存在するはずだと思わせる。しかし問題がある。その滅亡と常に結び付けられてきた碑文——ラージェーンドラ・チョーラ1世（Rajendra Chola I）自身によるタンジャーヴール碑文——を一行ずつ確認しても、「ガンガ・ヌガラ」という名前はそこにまったく登場しないのである。

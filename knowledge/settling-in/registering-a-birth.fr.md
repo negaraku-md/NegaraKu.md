@@ -74,6 +74,7 @@ keywords:
   - "cabutan sijil kelahiran"
   - "JPN.LM01"
   - "JPN.LM12"
+framework: how-to
 ---
 
 Beaucoup de jeunes parents traitent l'enregistrement de la naissance de leur

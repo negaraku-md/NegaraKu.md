@@ -121,6 +121,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: []
 keywords: ["अधिनियम 446", "आवास के लिए प्रमाणपत्र", "मलेशिया श्रमिक आवास", "कर्मचारियों के न्यूनतम मानक आवास", "केंद्रीकृत आवास", "act 446", "certificate for accommodation", "worker accommodation malaysia"]
+framework: rules
 ---
 
 नाम से शुरुआत करें, क्योंकि इस विषय पर लगभग हर लेख इसे गलत समझता है। यह क़ानून है **कर्मचारियों के आवास, निवास और सुविधाओं के न्यूनतम मानक अधिनियम 1990 (Employees' Minimum Standards of Housing, Accommodations and Amenities Act 1990)** (अधिनियम 446)। यह पहले *Workers'* Minimum Standards of Housing and Amenities Act हुआ करता था, और अधिनियम A1604 के अनुच्छेद 4(a) ने 1 जून 2020 से संक्षिप्त शीर्षक बदल दिया।

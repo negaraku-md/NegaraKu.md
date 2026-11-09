@@ -115,6 +115,7 @@ keywords:
   - "pemilikan asing Malaysia"
   - "foreign ownership restrictions Malaysia"
   - "WRT foreign equity"
+framework: rules
 ---
 
 Mọi hướng dẫn về chủ đề này đều nói cùng một điều: *hầu hết các lĩnh vực cho phép sở hữu nước ngoài

@@ -105,6 +105,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.245"
     consequence: "Fine up to RM500,000 or imprisonment up to three years or both"
+framework: rules
 ---
 
 Practice Directive 10/2024についての投稿の二つに一つは、同じ話を売り込んでいる——監査を省いて、費用を節約せよ、と。その費用が本物であるのは事実だ。びくとも動かない義務のリストが本物であることも、そして資格を有する多くの会社がそれでも監査人を留任させている理由が本物であることも、同様に事実である。

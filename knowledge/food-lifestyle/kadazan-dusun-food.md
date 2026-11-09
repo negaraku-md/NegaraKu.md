@@ -90,6 +90,7 @@ verificationNeeded:
   - "The claim that the Kadazan-Dusun are Sabah's single largest indigenous group, and the precise relationship between the Kadazan and Dusun labels (sometimes treated as one people, sometimes as distinct) — confirm with a census (DOSM) or ethnographic source."
   - "The exact dates and public-holiday status of the Kaamatan (Tadau Kaamatan) festival (widely given as throughout May, with a Sabah state holiday on 30–31 May) — confirm against an official Sabah state government source."
   - "Whether a true sago/ambuyat tradition is part of Kadazan-Dusun cooking specifically, as ambuyat is more strongly associated with Brunei and other Borneo communities — confirm the extent of sago starch use in the Kadazan-Dusun diet."
+framework: history-culture
 ---
 
 Order a plate of *hinava* in Kota Kinabalu and you get something that startles

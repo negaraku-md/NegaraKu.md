@@ -69,6 +69,7 @@ faq:
     a: Tidak. Artikel ini secara tegas menyatakan bahwa reformasi SST yang luas dan langkah e-invoicing baru merupakan prakiraan pra-anggaran oleh para analis, bukan pengumuman dalam pidato 9 Oktober 2026. Hal itu harus diperlakukan sebagai ekspektasi, bukan kebijakan, sampai pemerintah menyatakan sebaliknya. Perubahan pajak yang sebenarnya dalam anggaran ini berpusat pada pemotongan satu poin persentase tarif pajak penghasilan penduduk dan UKM (SME), serta kenaikan keringanan umum dari RM9.000 menjadi RM12.000.
   - q: Mulai kapan pembukaan rekening tabungan atau rekening giro dibebaskan dari bea meterai menurut Anggaran 2027?
     a: Mulai 1 Januari 2027, pembukaan rekening tabungan atau rekening giro sepenuhnya dibebaskan dari bea meterai. Tanggal yang sama juga membawa pemotongan pajak jasa untuk layanan perawatan lansia dari 8% menjadi 6%, serta mulai berlakunya hak kerja bagi pasangan ekspatriat yang memegang pas tanggungan (dependant pass). Tanggal-tanggal ini sesuai dengan yang diumumkan pada 9 Oktober 2026 dan baru berlaku setelah undang-undang serta perintah lembaran negara yang memberlakukannya disahkan.
+framework: explainer
 ---
 
 Pada 9 Oktober 2026, Perdana Menteri sekaligus Menteri Keuangan Anwar Ibrahim

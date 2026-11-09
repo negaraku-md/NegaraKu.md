@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "public-vs-private-universities" }
 related: ["public-vs-private-universities", "warta-kerajaan", "akta"]
 keywords: ["homeschooling Malaysia", "Education Act 1996", "Section 29A", "Section 32A", "compulsory education Malaysia", "homeschool exemption", "pendidikan di rumah", "MOE exemption letter"]
+framework: explainer
 ---
 
 Cada enero, decenas de miles de niños malasios de seis años empiezan el Año 1

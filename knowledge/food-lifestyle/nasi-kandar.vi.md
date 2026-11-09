@@ -95,6 +95,7 @@ keywords:
   - "Malaysian rice dish"
 social:
   hashtags: ["#NasiKandar", "#Penang", "#Mamak", "#MalaysianFood", "#Banjir", "#GeorgeTown"]
+framework: explainer
 ---
 
 Hỏi bất kỳ ai ở Penang nơi nào để ăn khuya, câu trả lời thường trở lại chỉ trong

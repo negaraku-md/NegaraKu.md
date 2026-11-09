@@ -108,6 +108,7 @@ keywords:
   - "insentif cukai MD Malaysia"
   - "bill of guarantee Malaysia Digital"
   - "taraf Malaysia Digital MDEC"
+framework: explainer
 ---
 
 Perkara paling penting untuk difahami tentang Malaysia Digital ialah apa yang ia *bukan*.

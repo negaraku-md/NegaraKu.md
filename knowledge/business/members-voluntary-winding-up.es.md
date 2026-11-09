@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "creditors-voluntary-winding-up" }
 related: ["close-a-company", "strike-off-company-malaysia", "creditors-voluntary-winding-up", "corporate-rescue-malaysia", "company-director-requirements"]
 keywords: ["members voluntary winding up malaysia", "declaration of solvency section 443", "liquidator sdn bhd", "voluntary liquidation malaysia", "penggulungan sukarela ahli", "section 439 companies act 2016"]
+framework: how-to
 ---
 
 El documento que define una liquidación voluntaria por los socios no es la resolución. Es

@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "mdec-digital-status" }
 related: ["sme-financing-malaysia"]
 keywords: ["government grants malaysia", "SME grant malaysia", "startup grant malaysia", "cradle CIP grant", "MDEC digital grant", "MSME digital grant madani", "matching grant malaysia", "business funding malaysia"]
+framework: data-reference
 ---
 
 Cari "hibah pemerintah Malaysia" dan Anda akan mendapat puluhan daftar yang menjanjikan uang gratis untuk bisnis Anda. Realitanya lebih berguna dan lebih rumit: uang itu ada, tetapi separuh dari apa yang disebut "hibah" sebenarnya adalah pinjaman, investasi ekuitas, atau penggantian uang yang perlu Anda belanjakan dahulu. Hal paling berharga yang dapat Anda pelajari sebelum memohon adalah cara membedakannya.

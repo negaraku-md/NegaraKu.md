@@ -99,6 +99,7 @@ relations:
   - { rel: "explained-in", to: "accounting-standards-index" }
 related: ["mfrs-vs-mpers"]
 keywords: ["MPERS 2025", "مراجعة MPERS ماليزيا", "تاريخ سريان MPERS 2027", "القسم 34 تطوير العقارات MPERS", "الإصدار الثالث IFRS for SMEs ماليزيا", "القسم 23 الإيراد MPERS", "MPERS revision Malaysia", "MPERS Section 34 property development"]
+framework: explainer
 ---
 
 إذا كنت مطوّر عقارات ماليزيًّا يُعدّ تقاريره بموجب MPERS، فإن أهم حقيقة محاسبية منفردة على

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "work-passes-malaysia", "dependant-social-visit-passes", "imigresen"]
 keywords: ["professional visit pass malaysia", "pvp malaysia", "pvp vs employment pass", "esd professional visit pass", "myxpats pvp", "foreign expert pass malaysia", "expert transfer pass malaysia", "short term work pass malaysia"]
+framework: explainer
 ---
 
 இரு வெளிநாட்டவர்கள் ஒரே மலேசிய அலுவலகத்தில் ஒரே மேசையில் அமர்ந்து, ஒரே வேலையைச் செய்துகொண்டு, முற்றிலும் வேறுபட்ட சட்ட நிலைப்பாட்டில் இருக்கலாம். ஒருவர் வேலைவாய்ப்பு அனுமதிச் சீட்டில் (Employment Pass) இருக்கிறார், மலேசியக் கம்பெனியால் சம்பளம் பெறுகிறார், ஆண்டுதோறும் புதுப்பிக்கக்கூடியவர். மற்றவர் தொழில்முறை வருகை அனுமதிச் சீட்டில் (Professional Visit Pass) இருக்கிறார் — அவரை அனுப்பிய கம்பெனியே இன்னும் சம்பளம் கொடுக்கிறது, கடிகாரத்தில் பன்னிரண்டு மாதங்கள், அதற்கு அப்பால் புதுப்பித்தல் இல்லை. குடிவரவுத் துறை (Immigration) இரு ஊழியர்களைப் பார்ப்பதில்லை. அது ஒரு முதலாளியையும் ஒரு விருந்தினரையும் பார்க்கிறது.

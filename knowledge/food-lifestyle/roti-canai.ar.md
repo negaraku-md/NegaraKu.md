@@ -99,6 +99,7 @@ social:
     - "Mamak"
     - "MalaysianFood"
     - "NegaraKuMD"
+framework: explainer
 ---
 
 قليلة هي الأصوات التي تنتمي إلى صباح ماليزي كما ينتمي صوت صفع العجين ورفرفته على صاج فولاذي ساخن.

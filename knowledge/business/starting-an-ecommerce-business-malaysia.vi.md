@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-vs-tax-invoice" }
 related: ["online-business-licence-malaysia"]
 keywords: ["start online business malaysia", "e-commerce business malaysia", "sell online malaysia registration", "SSM online business", "low value goods tax malaysia", "electronic trade transactions regulations", "e-invoice small business malaysia"]
+framework: how-to
 ---
 
 Thương mại điện tử có cảm giác không chính thức — bạn có thể đang bán trên một sàn giao dịch trước giờ ăn tối — điều này đánh lừa nhiều người nghĩ rằng các quy tắc không áp dụng. Chúng có áp dụng. Malaysia đối xử với một người bán trực tuyến như bất kỳ doanh nghiệp nào khác: bạn phải đăng ký, công bố bạn là ai, bảo vệ dữ liệu khách hàng, và trả đúng thuế. Các quy tắc cũng đã thay đổi gần đây, nên ngay cả những người bán đã thiết lập vài năm trước cũng có thể đang chạy trên thông tin lỗi thời.

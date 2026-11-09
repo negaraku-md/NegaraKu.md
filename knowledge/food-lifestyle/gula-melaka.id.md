@@ -90,6 +90,7 @@ verificationNeeded:
   - "Apakah gula melaka memegang indikasi geografis (GI) terdaftar apa pun di bawah Geographical Indications Act 2022 Malaysia — tidak ditemukan pendaftaran GI untuk gula melaka; konfirmasikan langsung terhadap daftar resmi MyIPO sebelum menegaskan status GI apa pun."
   - "Kekuatan kaitan nama itu dengan negara bagian Melaka (diulang luas di media kuliner tetapi tidak terdokumentasi dengan kuat) dan apakah Negeri Sembilan serta negara bagian lain merupakan wilayah produksi penting — konfirmasikan dengan sumber warisan, pertanian, atau negara bagian Malaysia."
   - "Deskripsi cita rasa tertentu seperti nada 'butterscotch' dan waktu penyadapan/perebusan yang terperinci — ini berasal dari media kuliner dan mungkin subjektif; konfirmasikan detail produksi dengan produsen atau sumber pertanian."
+framework: explainer
 ---
 
 Iris sebongkah silinder gula melaka yang gelap dan padat, maka dapur pun dipenuhi aroma yang berada di antara karamel, tofi, dan asap kayu. Inilah gula palma tradisional Malaysia — pemanis yang memberi jiwa pada cendol dan mewarnai tak terhitung kuih dengan warna amber pekat. Ia terlihat sederhana dan berasa kompleks, dan terlepas dari kehadirannya sehari-hari dalam masakan Malaysia, cara ia sebenarnya dibuat mengejutkan banyak orang: ia bukan berasal dari kelapa, melainkan dari *bunga* pohon kelapa.

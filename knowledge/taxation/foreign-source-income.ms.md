@@ -124,6 +124,7 @@ entity: "Foreign-source income received in Malaysia"
 relations: []
 related: ["income-tax-in-malaysia"]
 keywords: ["foreign source income Malaysia", "FSI exemption Malaysia", "foreign dividend exemption Malaysia", "P.U.(A) 235/2022", "economic substance Malaysia FSI", "remittance tax Malaysia"]
+framework: rules
 ---
 
 Baca tarikh tamat daripada Warta, bukan daripada blog. Setakat 14 Ogos 2026,

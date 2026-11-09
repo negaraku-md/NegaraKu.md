@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "dta-network" }
 related: ["company-tax-residence", "dta-network", "withholding-tax-rates"]
 keywords: ["निवास प्रमाणपत्र मलेशिया", "e-Residence LHDN", "certificate of residence Malaysia", "COR मलेशिया कर", "Form STM1"]
+framework: how-to
 ---
 
 यह प्रमाणपत्र इसका प्रमाण नहीं है कि आप मलेशियाई हैं। यह इसका प्रमाण है कि एक

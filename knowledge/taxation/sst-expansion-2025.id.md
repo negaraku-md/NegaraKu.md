@@ -137,6 +137,7 @@ entity: "Service tax expansion 2025"
 relations: []
 related: []
 keywords: ["SST expansion 2025", "service tax expansion Malaysia", "Group K rental leasing service tax", "construction service tax 6%", "non-reviewable contract exemption", "private healthcare service tax"]
+framework: rules
 ---
 
 Kesalahan paling umum yang beredar tentang perluasan 2025 adalah anggapan bahwa

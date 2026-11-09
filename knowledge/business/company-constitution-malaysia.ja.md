@@ -104,6 +104,7 @@ keywords:
   - "section 31 Companies Act 2016"
   - "do I need a constitution Sdn Bhd"
   - "M&A replaced by constitution"
+framework: explainer
 ---
 
 2016年会社法（Companies Act 2016、Act 777）は会社定款を任意にし、業界全体はそれを

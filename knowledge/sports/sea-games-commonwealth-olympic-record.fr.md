@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "negaraku-anthem" }
 related: ["negaraku-anthem"]
 keywords: ["Malaysia Olympic medals", "SEA Games", "Commonwealth Games 1998", "Lee Chong Wei", "Malaysia gold medal", "medal tally"]
+framework: data-reference
 ---
 
 La Malaisie est montée sur un podium olympique quinze fois — et a entendu retentir l'hymne national d'une autre nation à chacune de ces fois.

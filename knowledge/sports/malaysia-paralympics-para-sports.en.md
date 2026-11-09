@@ -94,6 +94,7 @@ relations:
   - { rel: "governs", to: "malaysia-para-athletics" }
 related: []
 keywords: ["Majlis Paralimpik Malaysia", "Paralympic Council Malaysia", "para sukan", "Sukan Paralimpik", "Bonnie Bunyau Gustin", "Cheah Liek Hou", "Abdul Latif Romly"]
+framework: explainer
 ---
 
 When Cheah Liek Hou defended his SU5 badminton gold at Paris 2024, the triumph confirmed that Malaysian para sport now has a more solid line-up of champions, no longer just an occasional achievement. Behind that moment lies a distinct governance structure, separate from the more famous Olympic world.

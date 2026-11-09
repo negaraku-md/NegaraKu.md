@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "pdpa-2010" }
 related: ["mykad", "jpn", "pdpa-2010"]
 keywords: ["mydigital id", "identiti digital nasional malaysia", "myniise", "myjpj mydigital id", "daftar mydigital id"]
+framework: explainer
 ---
 
 Bạn có thể đã gặp nó mà không hay biết: một màn hình đăng nhập mới xuất hiện khi bạn mở MyJPJ hoặc cố gắng gia hạn thuế đường bộ. Đó là MyDigital ID, và trong suốt năm 2026 nó chuyển từ một thứ tùy chọn sang cánh cửa vào duy nhất cho ngày càng nhiều dịch vụ của chính phủ.

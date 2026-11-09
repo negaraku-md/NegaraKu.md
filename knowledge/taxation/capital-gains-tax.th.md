@@ -89,6 +89,7 @@ relations:
   - { rel: "explained-in", to: "capital-or-revenue" }
 related: ["capital-or-revenue", "rpgt-rates", "corporate-tax-rates", "income-tax-act-1967"]
 keywords: ["capital gains tax Malaysia", "CGT unlisted shares", "cukai keuntungan modal", "e-CKM", "section 15C", "2% gross disposal price"]
+framework: explainer
 ---
 
 เป็นเวลาห้าสิบเจ็ดปีที่มาเลเซียเก็บภาษีจากเงินได้และปล่อยให้ทุนอยู่นอกการเก็บภาษี

@@ -87,6 +87,7 @@ relations:
   - { rel: "compares-with", to: "malaysia-indonesia-relations" }
 related: []
 keywords: ["hubungan Malaysia Singapura", "perjanjian air 1962", "RTS Link", "Tambak Johor", "Pulau Batu Puteh", "JS-SEZ", "perpisahan 1965", "dagangan dua hala"]
+framework: explainer
 ---
 
 二つの国が一本のコーズウェイ、一つの水供給、そして毎日数十万人にのぼる通勤者を分かち合っている——そして、感情に満ちた分離の歴史も。マレーシアのどの二国間関係も、シンガポールとの関係ほど緊密で、複雑で、理解する価値のあるものはない。

@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "losses-and-group-relief" }
 related: ["income-tax-in-malaysia", "form-c-and-cp204", "company-tax-residence", "losses-and-group-relief"]
 keywords: ["Malaysia corporate tax rate", "SME tax rate Malaysia", "kadar cukai syarikat", "corporate tax 2026", "cukai pendapatan syarikat"]
+framework: rules
 ---
 
 Hầu hết các hướng dẫn cho bạn biết mức thuế SME bắt đầu ở 15% và dừng lại ở đó. Câu hỏi

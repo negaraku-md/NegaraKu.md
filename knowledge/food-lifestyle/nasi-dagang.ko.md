@@ -94,6 +94,7 @@ verificationNeeded:
   - "Kelantan 카레가 Terengganu의 gulai ikan tongkol과 실질적으로 다른지, 그리고 표준 생선——대부분의 자료는 참치(ikan tongkol／aya)를 들고, mackerel과 tenggiri도 인용된다. 현지 자료로 확인할 것."
   - "'상인의 밥' 어원과 기원 전설(Bugis 상인, 혹은 바다로 가지고 나간 어부)——널리 퍼져 있으나 기록이 느슨하다. 역사 혹은 사전학 자료로 확인할 것."
   - "2009년 국가 유산 음식 등재——연도와 등재 기관을 Jabatan Warisan Negara 또는 JKKN의 일차 기록과 대조해 확인할 것."
+framework: explainer
 ---
 
 말레이시아 동해안에서 아침 식사를 주문하면, 옅고 윤기 나는 밥이 담긴 작은 바나나 잎

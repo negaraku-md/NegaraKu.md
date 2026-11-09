@@ -79,6 +79,7 @@ relations:
   - { rel: "affects", to: "personal-tax-reliefs" }
 related: ["income-tax-in-malaysia", "pcb-mtd-malaysia", "personal-tax-reliefs", "personal-tax-rates", "which-tax-form"]
 keywords: ["PCB impôt définitif", "retenue mensuelle d'impôt Malaisie", "potongan cukai bulanan", "section 77C Income Tax Act", "dois-je déclarer si le PCB est retenu", "remboursement PCB Malaisie"]
+framework: explainer
 ---
 
 Chaque année, un grand nombre de salariés malaisiens choisissent en silence de

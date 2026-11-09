@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "contract-law" }
 related: []
 keywords: ["arbitration", "AIAC", "Arbitration Act 2005", "mediation", "dispute resolution", "New York Convention", "third-party funding", "UNCITRAL"]
+framework: explainer
 ---
 
 Hai công ty ký một hợp đồng cung ứng, một bên giao trễ, và bên kia muốn hàng triệu tiền bồi thường — nhưng không bên nào muốn hồ sơ, dòng thời gian, hay các bí mật thương mại bị phơi bày trong một phòng xử mở. Ở Malaysia, đó là nơi trọng tài và hòa giải tiếp quản từ tòa án.

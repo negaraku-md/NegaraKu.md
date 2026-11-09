@@ -78,6 +78,7 @@ faq:
     a: Ya, begitu penghasilan Anda melampaui ambang pendaftaran. Pemotongan bulanan (PCB/MTD) hanyalah estimasi yang dipotong di muka. Surat pemberitahuan tahunan adalah rekonsiliasinya — di situlah keringanan diklaim, penghasilan lain dilaporkan, dan posisi yang sebenarnya diselesaikan, entah itu berarti pengembalian atau pembayaran tambahan. Memiliki berkas pajak dan menyampaikan surat pemberitahuan diwajibkan terlepas dari apakah majikan Anda sudah memotong pajak setiap bulan.
   - q: Saya sudah memiliki Nomor Identifikasi Pajak (Tax Identification Number) — bisakah saya langsung masuk ke MyTax dan menyampaikan laporan?
     a: Belum bisa. Pelapor pertama kali memerlukan dua kredensial secara berurutan. TIN, yang diperoleh melalui e-Daftar (banyak warga negara dan penduduk tetap sudah memilikinya secara otomatis), dengan sendirinya tidak membuka e-Filing. LHDN (Lembaga Hasil Dalam Negeri) mensyaratkan PIN terpisah untuk mengaktifkan akun e-Filing yang terkait dengan TIN tersebut — dulu melalui cabang, belakangan dapat diminta melalui portal. Hanya setelah kedua langkah itu Anda dapat membuka dan menyampaikan formulir laporan yang benar.
+framework: rules
 ---
 
 Seorang pekerja baru pindah ke Kuala Lumpur dengan Pas Pekerjaan dua

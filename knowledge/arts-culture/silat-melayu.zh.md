@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["silat", "silat melayu", "seni silat", "silat pulut", "silat gayung", "PESAKA", "warisan budaya tidak ketara", "UNESCO Malaysia", "seni bela diri", "silat harimau"]
+framework: history-culture
 ---
 
 一名优秀的西拉武者能够折断对手的骨头——也能在新人面前起舞而不触碰任何人。两者都是西拉。这正是这门艺术最难以理解之处：它不只是一套格斗方法，也不只是一种庆典舞蹈。它两者兼具，存在于同一具身体中，由同样的步法所驱动。

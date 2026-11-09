@@ -93,6 +93,7 @@ relations:
   - { rel: "administered-by", to: "nadma-malaysia" }
 related: []
 keywords: ["persediaan banjir", "beg kecemasan", "banjir monsun", "PPS", "Bantuan Wang Ihsan", "NADMA", "amaran cuaca MetMalaysia", "tanah runtuh", "gempa bumi Sabah", "bencana"]
+framework: how-to
 ---
 
 凌晨两点河水漫上路面时，不是开始翻找出生证明、灌满水瓶的时候——而是撤离的时候。在马来西亚，最可能迫使你一家离开家园的灾害，不是大地震或台风，而是几乎年年到来的季候风水灾。本指南梳理了水灾前、中、后你该做的事，以及山泥倾泻、烟霾和沙巴地震等其他风险，让重要决定在水到门前之前早已做好。

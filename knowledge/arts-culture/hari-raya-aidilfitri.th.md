@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-malaysia" }
 related: ["balik-kampung", "kampung", "public-holidays-malaysia", "religion-statistics"]
 keywords: ["Hari Raya Aidilfitri", "1 Syawal", "balik kampung", "duit raya", "rumah terbuka", "ziarah kubur", "zakat fitrah", "cuti umum Aidilfitri"]
+framework: history-culture
 ---
 
 ในคืนสุดท้ายของรอมฎอน ทั้งประเทศเหมือนเคลื่อนไหวพร้อมกัน ทางด่วนเหนือ–ใต้แน่นขนัดหลายชั่วโมง สถานีรถโดยสารเต็มไปด้วยกระเป๋าและกล่องขนม แสงจากโคมไฟเปอลิตาส่องสว่างที่ระเบียงบ้านตั้งแต่ในเมืองจนถึงหมู่บ้านห่างไกล วันรุ่งขึ้น 1 เชาวาล การถือศีลอดหนึ่งเดือนสิ้นสุด — และมาเลเซียเฉลิมฉลองฮารีรายาอีดิลฟิตรี

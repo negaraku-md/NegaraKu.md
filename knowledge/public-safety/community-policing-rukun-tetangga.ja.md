@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "jkkk-village-safety-committee" }
 related: ["pdrm"]
 keywords: ["rukun tetangga", "skim rondaan sukarela", "SRS", "KRT", "kepolisan komuniti", "JPNIN", "Akta 751", "keselamatan kejiranan"]
+framework: explainer
 ---
 
 住宅地の夜の街灯は、しばしば自転車に乗ったり懐中電灯を手に歩いたりする二、三人の人影に部分的にさえぎられている——自分たちの地域を巡回する隣人たちだ。彼らは警察ではない。彼らはボランティア巡回制度の隊員であり、マレーシアの多くの近隣社会における犯罪予防の第一層を体現している。すなわち、マレーシア王立警察（PDRM）と絶えず連携しながら、コミュニティが自らのコミュニティを守るという姿だ。

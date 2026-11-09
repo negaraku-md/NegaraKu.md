@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "malaysia-sales-and-service-tax" }
 related: ["sales-and-service-tax"]
 keywords: ["tourism tax", "TTx", "Malaysia", "MyTTx", "RM10 per room", "DPSP", "hotel tax", "RMCD"]
+framework: rules
 ---
 
 持外国护照入住吉隆坡几乎任何一家酒店时，账单上都会出现一行耐人寻味的项目：每住一晚，统一收取RM10。这就是马来西亚的旅游税（TTx）——一项金额固定的小额征费，其运作方式与旅客在别处遇到的按百分比计算的酒店税大不相同。

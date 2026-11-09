@@ -119,6 +119,7 @@ keywords:
   - "halal certification Malaysia"
   - "food handler certificate Malaysia"
   - "liquor licence Malaysia"
+framework: rules
 ---
 
 "식당 라이선스"라는 것은 존재하지 않습니다. 존재하는 것은 네다섯 개의 서로 다른 당국이 발급하는 다섯 개나 여섯 개의 별개

@@ -85,6 +85,7 @@ relations:
   - { rel: "explained-in", to: "myinvois-phases" }
 related: ["e-invoicing", "myinvois-phases", "self-billed-e-invoice", "e-invoice-data-fields", "myinvois-integration"]
 keywords: ["consolidated e-Invoice", "e-invois disatukan", "RM10000 e-Invoice rule", "consolidated e-Invoice deadline", "General Public EI00000000010", "industries cannot consolidate e-Invoice"]
+framework: explainer
 ---
 
 การรวมเป็นข้อผ่อนปรนที่ทำให้ e-Invoicing อยู่รอดได้สำหรับร้านมามะ ร้านมินิมาร์ท หรือคลินิก มันยังเป็น

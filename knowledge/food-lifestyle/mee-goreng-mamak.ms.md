@@ -90,6 +90,7 @@ verificationNeeded:
   - "Sama ada daging kambing merupakan tambahan standard dan bukan sesekali — sumber mengesahkan udang tetapi kurang khusus tentang daging kambing untuk hidangan ini; sahkan dengan sumber kulinari Malaysia."
   - "Penamaan dan takrif tepat variasi gerai 'mee goreng basah' dan 'mee goreng kering': 'basah' disahkan, tetapi takrif yang boleh dipercayai bagi gaya 'kering' yang tersendiri tidak ditemui. Sahkan dengan rujukan makanan Malaysia."
   - "Dakwaan bahawa versi mamak Singapura biasanya lebih merah (ditambah pewarna) daripada versi Malaysia — dilaporkan oleh media makanan; sahkan dengan sumber yang lebih kukuh."
+framework: explainer
 ---
 
 Datang sahaja ke hampir mana-mana gerai mamak di Malaysia selepas gelap dan anda

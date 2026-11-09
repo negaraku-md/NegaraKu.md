@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "malaysias-telcos-and-5g" }
 related: ["digital-free-trade-zone", "cyberjaya-tech-hub", "malaysias-telcos-and-5g"]
 keywords: ["MyDIGITAL", "Blueprint Ekonomi Digital Malaysia", "Malaysia Digital Economy Blueprint", "ekonomi digital Malaysia", "Malaysia Digital", "MDEC", "Status Malaysia Digital", "MD2030"]
+framework: explainer
 ---
 
 In February 2021, in the midst of the COVID-19 pandemic that forced millions of Malaysians online, the government set an ambitious target on paper: to make the digital economy contribute 22.6% to Gross Domestic Product (GDP) by 2025. The document carrying that target was the Malaysia Digital Economy Blueprint — the backbone of the initiative better known as MyDIGITAL.

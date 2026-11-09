@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "terengganu-turtle-enactment" }
 related: []
 keywords: ["penyu", "penyu belimbing", "Rantau Abang", "taman laut", "Akta Perikanan 1985", "Enakmen Penyu Terengganu", "pemuliharaan marin", "telur penyu"]
+framework: explainer
 ---
 
 Pada akhir 1960-an, kira-kira 2,000 penyu belimbing betina mendarat setiap tahun di sebatang pantai di Rantau Abang, Terengganu, meninggalkan hampir 10,000 sarang telur di atas pasir. Hari ini, tiada seekor pun. Kisah kemerosotan itu adalah salah satu kegagalan pemuliharaan hidupan liar yang paling ketara di rantau ini — dan ia membentuk cara Malaysia melindungi penyu sehingga kini.

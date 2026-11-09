@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: []
 keywords: ["franchise registration malaysia", "franchise act 1998", "MyFEX 2.0", "franchisor registration", "franchisee registration", "franchise disclosure document", "section 6 franchise act", "section 54 approval"]
+framework: how-to
 ---
 
 Anda tidak boleh menawarkan francais secara sah di Malaysia dengan cara yang biasa dilakukan di kebanyakan tempat di dunia — mula-mula mendaftar beberapa cawangan secara senyap, kemudian merasmikan segala-galanya kemudian. Undang-undang membalikkan susunan itu. Pendaftaran datang sebelum tawaran pertama, dan sejak 2022 ia turut terpakai kepada penerima francais.

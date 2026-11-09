@@ -81,6 +81,7 @@ relations:
   - { rel: "explained-in", to: "bo-register" }
 related: ["beneficial-ownership", "bo-register", "ebos-filing", "bo-non-cooperation"]
 keywords: ["من هو المالك المنفعي", "who is a beneficial owner Malaysia", "معايير المالك المنفعي SSM", "beneficial owner criteria SSM", "ملكية 20% مالك منفعي", "السيطرة الفعلية النهائية", "المساهم الوكيل الاسمي nominee"]
+framework: explainer
 ---
 
 الجزء الصعب في الإبلاغ عن الملكية المنفعية ليس عملية الإيداع. بل هو الوقوف أمام

@@ -98,6 +98,7 @@ relations:
   - { rel: "explained-in", to: "epf-foreign-workers-malaysia" }
 related: ["payroll-compliance-malaysia", "epf-foreign-workers-malaysia", "socso-eis-employer-guide"]
 keywords: ["EPF अंशदान दर मलेशिया", "EPF Third Schedule", "KWSP नियोक्ता अंशदान", "EPF 13 प्रतिशत 12 प्रतिशत", "caruman KWSP majikan"]
+framework: rules
 ---
 
 किसी मलेशियाई वेतन-प्रबंधक से पूछिए कि EPF नियोक्ता दर क्या है और आपको बताया जाएगा 13 प्रतिशत।

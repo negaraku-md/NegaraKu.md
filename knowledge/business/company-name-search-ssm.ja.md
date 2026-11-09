@@ -85,6 +85,7 @@ keywords:
   - "section 26 Companies Act 2016 name"
   - "SSM controlled words company name"
   - "company name rejected SSM"
+framework: rules
 ---
 
 商号が拒絶される最も多い理由は、すでに誰かがその名前を使っているからではない。

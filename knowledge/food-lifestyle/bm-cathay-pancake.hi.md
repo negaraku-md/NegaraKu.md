@@ -76,6 +76,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["ApamBalik", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 पेनांग में MICHELIN मान्यता जॉर्ज टाउन में सिमटने की प्रवृत्ति रखती है, पर राज्य

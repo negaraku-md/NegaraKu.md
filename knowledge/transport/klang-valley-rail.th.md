@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["kuala-lumpur", "selangor"]
 keywords: ["Klang Valley rail", "Rapid KL", "MRT Kajang Line", "MRT Putrajaya Line", "LRT Kelana Jaya Line", "KL Monorail", "KTM Komuter", "Shah Alam Line", "LRT3", "KL Sentral", "getting around Kuala Lumpur without a car"]
+framework: explainer
 ---
 
 มองแผนที่รถไฟหุบเขากลังเป็นครั้งแรกแล้วมันดูเหมือนซุปตัวอักษร — MRT, LRT, KTM, ERL, สายโมโนเรลสีชมพู และตั้งแต่กลางปี 2026 สาย Shah Alam ใหม่เอี่ยมที่ร้อยผ่านทั้งหมด สัญชาตญาณคือการมองว่าเป็นระบบรถไฟหนึ่งระบบที่มีจำนวนสีที่ชวนสับสน แต่ไม่ใช่ มันคือเครือข่ายสามเครือข่ายที่แยกกัน ดำเนินการโดยบริษัทสามแห่งที่แตกต่างกัน ซึ่งบังเอิญตัดผ่านกันที่สถานีร่วมไม่กี่แห่ง เมื่อคุณรู้ว่าบริษัทใดให้บริการอะไร — และจุดเปลี่ยนถ่ายที่เดินได้ฟรีอยู่ที่ไหนจริง ๆ — การเดินทางในกัวลาลัมเปอร์โดยไม่ใช้รถก็เลิกน่ากลัวและกลายเป็นเรื่องปกติ

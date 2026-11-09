@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "chinese-religion-in-malaysia" }
 related: ["chinese-religion-in-malaysia", "tua-pek-kong", "chinese-clan-associations", "nine-emperor-gods-festival", "buddhism-in-malaysia"]
 keywords: ["妈祖", "天后", "天上圣母", "天后宫", "乐圣岭天后宫", "海南会馆", "妈祖诞", "林默娘", "海神", "马来西亚妈祖信仰", "Mazu", "Tian Hou", "Thean Hou Temple"]
+framework: history-culture
 ---
 
 クアラルンプールの楽聖嶺（Robson Heights）の小高い丘の上に、赤い柱と瑠璃瓦の六階建ての廟が街を見下ろして建っている——これが楽聖嶺天后宮であり、華人世界で最も名高い海の女神・媽祖を祀っている。かつて海路で南来した華人は、海を渡る前後に無事を祈って彼女に祈願した。今日ここは、参拝者が線香を供える廟であると同時に、海南の同郷人が集う場であり、観光客が写真を撮る名所でもある。

@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "domestic-inquiry-malaysia" }
 related: ["labour-law-map-malaysia", "termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
 keywords: ["unfair dismissal malaysia", "section 20 industrial relations act", "60 days filing dismissal", "industrial court malaysia", "backwages cap 24 months", "compensation in lieu of reinstatement"]
+framework: how-to
 ---
 
 六十天。整场游戏就是这个，而马来西亚多数不当解雇索偿正是死在这里——不是死在案情上，而是因为雇员花了七个星期跟人力资源谈判，再花两个星期等一个永远不会来的回复，然后在第六十三天才提出。

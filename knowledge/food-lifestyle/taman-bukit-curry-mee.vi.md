@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#CurryMee", "#Penang", "#SeberangPerai", "#BibGourmand", "#Malaysia"]
+framework: profile
 ---
 
 Phần lớn danh tiếng MICHELIN của Penang tụ lại trên những con phố của đảo George

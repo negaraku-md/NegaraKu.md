@@ -120,6 +120,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: []
 keywords: ["act 446", "certificate for accommodation", "worker accommodation malaysia", "workers minimum standards housing", "centralised accommodation", "pekerja penginapan akta 446"]
+framework: rules
 ---
 
 Hãy bắt đầu với cái tên, vì gần như mọi bài viết về chủ đề này đều hiểu sai. Đạo luật là **Employees' Minimum Standards of Housing, Accommodations and Amenities Act 1990** (Act 446). Trước đây nó là *Workers'* Minimum Standards of Housing and Amenities Act, và đoạn 4(a) của Act A1604 đã thay đổi tên gọi tắt có hiệu lực từ ngày 1 tháng 6 năm 2020.

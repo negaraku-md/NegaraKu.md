@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "hire-purchase-act-1967-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["SBR Malaysia", "Standardised Base Rate", "debt service ratio", "DSR", "housing loan Malaysia", "Hire Purchase Act 1967", "BLR", "responsible financing", "OPR"]
+framework: explainer
 ---
 
 Hai người mua nhà bước vào hai ngân hàng khác nhau với cùng một phiếu lương và bước ra với hai câu trả lời khác nhau. Không ngân hàng nào tự nghĩ ra lãi suất của riêng mình, và không ngân hàng nào tùy tiện. Hệ thống cho vay bán lẻ của Malaysia chạy trên một tập hợp nhỏ các quy tắc chung — một quy tắc gắn mọi khoản vay lãi suất thả nổi với một núm chính sách duy nhất ở Kuala Lumpur, một quy tắc quyết định bạn có thể mang bao nhiêu nợ, và, đối với chiếc xe của bạn, một luật hoàn toàn riêng biệt từ năm 1967.

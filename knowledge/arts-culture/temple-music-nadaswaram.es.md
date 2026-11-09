@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["thaipusam", "hinduism-in-malaysia", "indian-classical-arts-in-malaysia", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community"]
 keywords: ["கோயில் இசை", "நாதஸ்வரம்", "தவில்", "மங்கள வாத்தியம்", "உறுமி மேளம்", "காவடி", "மலேசியா கோயில் இசை", "Nadaswaram", "Thavil", "Urumi Melam"]
+framework: history-culture
 ---
 
 Al frente de una procesión de Thaipusam, en el momento en que una carroza del templo se pone en marcha, o a la entrada de un salón de bodas — en cualquier celebración hindú tamil de Malasia, lo primero que llena el aire es siempre un sonido concreto: la larga melodía del nadaswaram y el retumbar del thavil. Ese sonido no es casual: es la marca de la tradición del **mangala vadyam** (instrumentos auspiciosos), que ha acompañado a esta comunidad durante más de un siglo.

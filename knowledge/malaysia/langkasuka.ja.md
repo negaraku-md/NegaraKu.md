@@ -40,6 +40,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "melaka-sultanate" }
 keywords: ["Langkasuka", "early Malay kingdoms", "Kedah ancient history", "Lang-ya-xiu", "pre-Islamic Malaysia"]
+framework: history-culture
 ---
 
 7世紀、『梁書』を編纂した中国宮廷の史官は、それ以前の使節が報告していた南方はるか遠くの王国について書き記した——城壁に囲まれた都市、象に乗る王、家臣たちが両手を合わせて君主の前で礼をする宮廷。史官はその地を「Lang-ya-xiu」と呼んだ。彼が描いていたのはほぼ間違いなくランカスカ王国（Langkasuka）である——そしてその一節は、まったく別の目的で編纂された王朝史の中に埋もれながらも、この地について今なお世界のどこかに残る、数少ない詳細な記述の一つとなっている。

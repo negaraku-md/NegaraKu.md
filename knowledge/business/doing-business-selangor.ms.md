@@ -115,6 +115,7 @@ keywords:
   - "Selangor home business licence fee"
   - "Selangor council licensing"
   - "Port Klang TEU"
+framework: profile
 ---
 
 Kuala Lumpur mempunyai satu pihak berkuasa pelesenan. Selangor, yang mengelilinginya,

@@ -71,6 +71,7 @@ keywords:
   - "CDL lesen memandu kompeten"
   - "ujian JPJ KPP"
   - "sistem KEJARA mata demerit"
+framework: explainer
 ---
 
 多くの人は「運転免許」を一つの単一の書類だと考えている。実際にはそれは三つの

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "thaipusam", "hinduism-in-malaysia", "estate-tamil-community"]
 keywords: ["செட்டியார் சமூகம்", "நாட்டுக்கோட்டை நகரத்தார்", "நகரத்தார் மலேசியா", "செட்டிநாடு", "கிட்டங்கி", "பினாங்கு செட்டியார் கோயில்", "Chettiar community Malaysia", "Nattukottai Chettiar", "Nagarathar"]
+framework: history-culture
 ---
 
 ペナンのタイプーサムの日、銀で作られた壮麗な山車がルブ・ペナン通りを出発し、丘の上のムルガン寺院へと向かいます。その山車も、一世紀以上にわたってそれを執り行ってきた社会も、偶然の産物ではありません――いずれも、チェッティナードゥからマラヤへと旅した商業・金融の伝統の物語を語っています。

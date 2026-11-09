@@ -79,6 +79,7 @@ related:
   - "malaysian-noodles"
 social:
   hashtags: ["PrawnMee", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 prawn mee पेनांग के परिभाषित कटोरों में से एक है, और Lebuh Pantai पर एक पुराने

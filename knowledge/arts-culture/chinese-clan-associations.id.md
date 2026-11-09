@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-education-in-malaysia", "chinese-dialects", "chinese-new-villages", "population-composition"]
 keywords: ["华人会馆", "宗亲会", "会馆", "公司", "地缘性", "血缘性", "业缘性", "福建会馆", "客家公会", "邱公司", "龙山堂", "华总", "中华总商会", "姓氏桥", "新客", "义山", "Chinese clan associations Malaysia", "huiguan", "kongsi"]
+framework: history-culture
 ---
 
 Melangkah masuk ke kawasan sekitar Benteng Cornwallis di George Town, Penang, di antara deretan rumah toko tiba-tiba muncul sebuah kelenteng marga dengan atap melengkung berukir halus dan balok berwarna — itulah Leong San Tong Khoo Kongsi. Berjalan lebih jauh ke arah laut, terdapat deretan rumah kayu berpanggung yang menjorok ke atas air, setiap perkampungan dinamai menurut satu marga: Jembatan Chew, Jembatan Lim, Jembatan Tan. Bangunan-bangunan ini bukan kelenteng, bukan pula sekadar tempat tinggal, melainkan peninggalan fisik salah satu bentuk organisasi tertua dalam masyarakat pendatang Tionghoa — perkumpulan marga dan kampung halaman.

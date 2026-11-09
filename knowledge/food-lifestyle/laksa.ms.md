@@ -93,6 +93,7 @@ verificationNeeded:
   - "Legenda asal usul laksa Johor (Sultan Abu Bakar menggunakan spageti selepas lawatan ke Eropah), tarikh pemerintahan sultan yang tepat (sumber memberikan 1862–1895 dan juga 1886–1895), serta tahun laksa Johor diwartakan sebagai warisan (sumber menyebut 2009, 2013 dan 2023) — sahkan dengan sumber sejarah primer atau sumber Jabatan Warisan Negara."
   - "Etimologi perkataan 'laksa' (teori Parsi, Sanskrit dan Hokkien semuanya beredar) — sahkan dengan sumber linguistik atau leksikografi dan bukan media makanan."
   - "Atribusi serantau laksam kepada Kelantan dan Terengganu serta huraian tepat mi/kuahnya — sahkan dengan sumber tempatan."
+framework: explainer
 ---
 
 Pesan "laksa" di Pulau Pinang dan anda akan dihidangkan sup ikan yang tajam

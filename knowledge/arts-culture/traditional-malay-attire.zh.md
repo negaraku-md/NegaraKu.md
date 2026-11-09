@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "hari-raya-aidilfitri" }
 related: ["songket", "batik", "hari-raya-aidilfitri"]
 keywords: ["baju Melayu", "baju kurung", "kebaya", "samping", "songkok", "cekak musang", "Teluk Belanga", "pakaian tradisional Melayu"]
+framework: history-culture
 ---
 
 留意一位正准备参加开斋节或婚礼的男子。宽松的上衣已经穿上，长裤也已套好——但他还没准备好。剩下的是两样决定他看起来穿戴齐全还是只穿了一半的东西：一块缠在腰间的三邦布，以及头上的一顶宋谷帽。少了这两样，巴汝马来还不算真正的巴汝马来。

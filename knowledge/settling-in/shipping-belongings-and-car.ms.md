@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
 keywords: ["shipping belongings to Malaysia", "import household goods Malaysia customs", "Customs Form K1 Malaysia", "import car to Malaysia", "Approved Permit AP Malaysia", "MITI AP vehicle import", "JPJ import vehicle registration", "PUSPAKOM imported car", "expatriate moving to Malaysia car"]
+framework: explainer
 ---
 
 Setiap senarai semak berpindah ke Malaysia mengatakan perkara yang sama sebaik sahaja anda menatal cukup jauh: hantar perabot anda, jual kereta anda. Tiada siapa menerangkan sebab kedua-dua arahan itu begitu berbeza — satu ialah kerja kertas, satu lagi ialah tembok.

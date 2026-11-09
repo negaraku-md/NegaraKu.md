@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malasia ONU", "United Nations Malaysia", "Consejo de Seguridad de la ONU", "cascos azules", "UNIFIL", "membresía de la ONU", "diplomacia de Malasia"]
+framework: explainer
 ---
 
 Apenas 17 días después de que Tunku Abdul Rahman proclamara «Merdeka» en el Estadio Merdeka, la bandera de la Federación de Malaya se izó en la sede de la ONU en Nueva York. El 17 de septiembre de 1957, la joven nación fue admitida formalmente como miembro de las Naciones Unidas: un paso que confirmó su soberanía en el escenario mundial casi en el mismo momento de su nacimiento.

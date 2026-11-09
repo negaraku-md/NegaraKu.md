@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "energy-commission-malaysia" }
 related: ["petronas"]
 keywords: ["natural gas Malaysia", "LNG Malaysia", "Bintulu LNG", "Peninsular Gas Utilisation", "PGU pipeline", "regasification terminal", "Third Party Access", "Malaysia Reference Price"]
+framework: explainer
 ---
 
 每当雪兰莪的一座发电厂启动，或槟城的一家手套工厂点燃烤炉时，所用的天然气很可能是从数百公里之外——登嘉楼近海，或跨越南中国海的砂拉越——开始它的旅程的。马来西亚既是举足轻重的天然气出口国，又日益成为天然气进口国，而调和这两个事实的管道和终端，正是这个国家最有价值的能源资产之一。

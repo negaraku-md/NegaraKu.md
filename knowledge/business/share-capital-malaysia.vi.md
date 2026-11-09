@@ -114,6 +114,7 @@ keywords:
   - "allotment of shares Malaysia"
   - "increase paid up capital Malaysia"
   - "section 75 Companies Act 2016"
+framework: explainer
 ---
 
 RM1 vốn góp là hợp pháp, phổ biến, và lặng lẽ là một trong những quyết định đắt đỏ nhất

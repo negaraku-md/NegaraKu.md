@@ -79,6 +79,7 @@ related:
   - "malaysian-noodles"
 social:
   hashtags: ["PrawnMee", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 prawn mee는 페낭을 상징하는 한 그릇 가운데 하나이며, Lebuh Pantai에서는 오래 운영된

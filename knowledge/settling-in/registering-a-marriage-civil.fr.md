@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "mykad" }
 related: ["jpn", "mykad"]
 keywords: ["mariage civil Malaisie", "civil marriage Malaysia", "enregistrement du mariage JPN", "JPN marriage registration", "Act 164", "Law Reform Marriage and Divorce Act 1976", "mariage non musulman Malaisie", "JPN.KC02", "notification de mariage 21 jours", "licence spéciale de mariage Malaisie"]
+framework: how-to
 ---
 
 Deux personnes peuvent organiser un banquet de mariage, échanger des alliances, signer un livre d'or — et ne toujours pas être légalement mariées en Malaisie. Pour les non-musulmans, le mariage qui compte aux yeux de la loi est celui qui est enregistré auprès du Jabatan Pendaftaran Negara (JPN) sous un texte de loi précis, sur une horloge qui démarre le jour où la notification est déposée.

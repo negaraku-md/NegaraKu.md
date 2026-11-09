@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-digital-services", "cp37-forms"]
 keywords: ["failure to withhold tax Malaysia", "section 39(1)(j)", "withholding tax penalty Malaysia", "10 percent increase withholding tax", "section 113(2) penalty"]
+framework: explainer
 ---
 
 RM5,000 thuế khấu trừ bị bỏ lỡ không tốn RM5,000. Nó tốn RM5,500 tiền thuế,

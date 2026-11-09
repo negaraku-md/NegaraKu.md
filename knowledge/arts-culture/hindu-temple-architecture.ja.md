@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "hinduism-in-malaysia" }
 related: ["hinduism-in-malaysia", "thaipusam", "mariamman-worship", "temple-music-nadaswaram", "indian-classical-arts-in-malaysia"]
 keywords: ["இந்துக் கோயில் கட்டடக்கலை", "கோபுரம்", "விமானம்", "கர்ப்பக்கிரகம்", "மண்டபம்", "திராவிடக் கட்டடக்கலை", "கும்பாபிஷேகம்", "மலேசியா கோயில்கள்", "Hindu temple architecture", "gopuram", "Dravidian architecture Malaysia"]
+framework: history-culture
 ---
 
 マレーシアのどの町でも、タミル系の共同体が根を下ろした一角に近づくと、天に向かってそびえる彫像だらけの塔が、遠くからでも目に飛び込んできます。色とりどりの神像が幾重にも連なるその門塔は、偶然の産物ではありません——千年の歴史をもつ建築の伝統の継承であり、南インドのタミル系の人々がマレーシアへともに携えてきた文化的遺産の目印なのです。

@@ -120,6 +120,7 @@ keywords:
   - "expatriate pass Malaysia director"
   - "employment pass category I II III"
   - "pas penggajian Malaysia"
+framework: how-to
 ---
 
 El orden de las operaciones derrota a más fundadores extranjeros que cualquier regla

@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#MingQin", "#CharKoayTeow", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 पेनांग की मुख्य भूमि पर Bukit Mertajam में, एक सादा शाम का नूडल स्टॉल एक काम को

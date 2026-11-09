@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "moving-to-malaysia-first-steps" }
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka akaun air", "syarikat air negeri", "bil air Malaysia", "SPAN", "sambungan air baharu"]
+framework: explainer
 ---
 
 Anda pindah dari Selangor ke Johor. Akun bank sama. Saluran telepon bisa dibawa serta. Tapi akun air Anda? Ia tidak ikut — karena perusahaan yang memasok air ke rumah baru Anda sama sekali bukan perusahaan yang sama.

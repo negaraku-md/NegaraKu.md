@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: []
 keywords: ["بحر الصين الجنوبي", "Batu Puteh", "Pedra Branca", "Sabah", "UNCLOS", "السيادة", "النزاع البحري", "Spratly"]
+framework: explainer
 ---
 
 خريطة ماليزيا المعلّقة على جدار المدرسة تبدو هادئة ومستقرة — لكن عند حدودها

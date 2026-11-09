@@ -71,6 +71,7 @@ relations:
   - { rel: "affects", to: "audit-opinion-types" }
 related: ["statutory-audit-process", "audit-opinion-types", "emphasis-of-matter-kam", "audit-preparation-checklist"]
 keywords: ["going concern Malaysia audit", "material uncertainty related to going concern", "ISA 570 Malaysia", "management representation letter Malaysia", "ISA 580 written representations"]
+framework: explainer
 ---
 
 Hai tài liệu được ký vào cuối một cuộc kiểm toán tại Malaysia mà không được đọc: đánh giá hoạt động liên tục và thư giải trình. Cả hai đều là tuyên bố của chính hội đồng quản trị, cả hai đều là bằng chứng, và cả hai đều là những thứ đầu tiên mà bất kỳ ai nhìn vào khi công ty sau này thất bại.

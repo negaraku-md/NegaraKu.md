@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "pewter" }
 related: ["songket", "jawi-script", "pewter", "terengganu", "kelantan"]
 keywords: ["ukiran kayu", "ukiran kayu Melayu", "awan larat", "Desa Ukiran Kayu Besut", "motif ukiran kayu", "kraf kayu Terengganu"]
+framework: history-culture
 ---
 
 มองให้ดีที่แผงไม้ที่หน้าต่างของบ้านมลายูเก่าหลังหนึ่ง แล้วลองหาว่าลวดลายเริ่มต้นที่ใด คุณจะไม่พบ นั่นไม่ใช่ความผิดพลาดของตาคุณ — มันถูกออกแบบมาเช่นนั้นจริง

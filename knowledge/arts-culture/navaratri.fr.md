@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "hinduism-in-malaysia" }
 related: ["hinduism-in-malaysia", "deepavali", "thaipusam", "pongal", "mariamman-worship", "hindu-temple-architecture"]
 keywords: ["நவராத்திரி", "Navaratri", "Navratri", "கொலு", "Golu", "விஜயதசமி", "சரஸ்வதி பூஜை", "ஆயுத பூஜை", "வித்யாரம்பம்", "மலேசியா நவராத்திரி", "கர்பா தாண்டியா"]
+framework: history-culture
 ---
 
 Pendant la Navaratri, le long de l'un des murs latéraux du salon d'une maison hindoue tamoule de Malaisie, on dresse des gradins en nombre impair. Sur ces gradins recouverts de tissu, des figurines de divinités et des poupées qui racontent des scènes des mythes sont disposées en rangées. Au soir, parents et voisins viennent contempler le **Golu** ; les chants résonnent ; et aux invités qui s'en vont l'on offre le thamboolam et des douceurs. Ce n'est pas un événement d'un seul jour : c'est la marque d'une fête qui s'étend sur neuf nuits.

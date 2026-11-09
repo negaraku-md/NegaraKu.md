@@ -90,6 +90,7 @@ verificationNeeded:
   - "Whether nasi goreng pattaya originated in Malaysia (as commonly stated) despite its Thai-sounding name — confirm with a documented food-history source rather than listicles."
   - "The precise, standardised ingredient lists for named variants (USA, paprik, ikan masin, hailam, kerabu, dabai) — these are largely drawn from food media and community-edited sources and vary stall to stall; confirm regional specifics with local culinary references."
   - "Whether nasi goreng is formally gazetted as Malaysian national culinary heritage, and under which listing — confirm with a Jabatan Warisan Negara or official source rather than secondary food media."
+framework: explainer
 ---
 
 Ask for nasi goreng at a mamak stall at one in the morning and you are not

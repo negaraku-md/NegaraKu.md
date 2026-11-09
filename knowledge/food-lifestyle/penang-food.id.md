@@ -98,6 +98,7 @@ verificationNeeded:
   - "Penempatan asam laksa Penang oleh CNN (dilaporkan ke-7) telah muncul dalam beberapa rangkuman makanan CNN pada tahun yang berbeda (semula sekitar 2011, dipromosikan ulang kemudian); konfirmasikan daftar, peringkat, dan tahun yang tepat langsung terhadap sumber CNN."
   - "White curry mee umumnya dikaitkan dengan Penang dan Ipoh tetapi tidak didokumentasikan dalam ikhtisar kuliner Penang di Wikipedia; konfirmasikan pengaitannya dengan Penang dan deskripsinya terhadap sumber lokal."
   - "Pengaitan gerai tertentu serta klaim 'terbaik' atau 'tertua' untuk lokasi penjaja (Gurney Drive, Lorong Selamat, New Lane, Air Itam, Chulia Street) diperdebatkan dan berubah seiring waktu; verifikasi gerai dan jam buka terkini sebelum mengutip salah satunya sebagai hal yang pasti."
+framework: explainer
 ---
 
 Sedikit tempat yang menjejalkan begitu banyak santapan ke lahan sekecil Penang. Di George

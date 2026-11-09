@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "getting-married-in-malaysia" }
 related: ["getting-divorced-in-malaysia", "getting-married-in-malaysia"]
 keywords: ["civil divorce Malaysia", "الطلاق المدني ماليزيا", "Law Reform Marriage and Divorce Act 1976", "Act 164", "القانون رقم 164", "marriage tribunal JPN", "هيئة الصلح الزوجي JPN", "decree nisi", "decree absolute", "الحكم المبدئي والنهائي", "joint petition divorce", "Section 106 conciliatory body", "non-Muslim divorce Malaysia", "طلاق غير المسلمين ماليزيا"]
+framework: explainer
 ---
 
 كثيرًا ما يفترض الزوجان غير المسلمين اللذان يسجّلان زواجهما لدى JPN أن المكتب نفسه يستطيع إنهاءه. وهو لا يستطيع. ففي ماليزيا، يُسجَّل الزواج المدني إداريًا، لكنه لا يُفسَخ إلا بأمر محكمة — والمسار من زواج متصدّع إلى حكم مختوم يمرّ عبر هيئة صلح، وعريضة أمام المحكمة العليا، وفترة توقف إلزامية مدتها ثلاثة أشهر قبل أن يصبح الطلاق نهائيًا.

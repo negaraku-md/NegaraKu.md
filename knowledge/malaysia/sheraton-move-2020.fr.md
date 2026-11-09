@@ -65,6 +65,7 @@ sources:
 
 related: ["muhyiddin-yassin", "mahathir-mohamad", "anwar-ibrahim", "2018-change-of-government", "2022-general-election"]
 keywords: ["Mouvement Sheraton", "Langkah Sheraton", "crise politique de 2020 en Malaisie", "Perikatan Nasional", "changement de gouvernement 2020"]
+framework: history-culture
 ---
 
 > **Brouillon — sensible.** Cet article est un résumé neutre et en cours d'élaboration

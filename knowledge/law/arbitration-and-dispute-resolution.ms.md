@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "contract-law" }
 related: []
 keywords: ["arbitration", "AIAC", "Arbitration Act 2005", "mediation", "dispute resolution", "New York Convention", "third-party funding", "UNCITRAL"]
+framework: explainer
 ---
 
 Dua syarikat menandatangani kontrak bekalan, satu menghantar lewat, dan yang satu lagi mahukan ganti rugi berjuta-juta — tetapi tiada yang mahu fail, garis masa, atau rahsia perdagangan didedahkan di dalam bilik mahkamah yang terbuka. Di Malaysia, di situlah timbang tara dan pengantaraan mengambil alih daripada mahkamah.

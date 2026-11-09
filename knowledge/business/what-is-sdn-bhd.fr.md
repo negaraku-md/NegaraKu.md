@@ -61,6 +61,7 @@ relations:
   - { rel: "explained-in", to: "register-sdn-bhd" }
 related: ["business-structures-malaysia", "sole-prop-vs-sdn-bhd", "sdn-bhd-vs-berhad", "register-sdn-bhd", "share-capital-malaysia", "company-constitution-malaysia"]
 keywords: ["qu'est-ce qu'une sdn bhd", "signification sdn bhd", "sendirian berhad", "societe privee limitee Malaisie", "apa itu sdn bhd"]
+framework: explainer
 ---
 
 «Sdn Bhd» est l'abréviation de **Sendirian Berhad**, qui en malais signifie

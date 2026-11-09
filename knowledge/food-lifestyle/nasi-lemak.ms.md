@@ -97,6 +97,7 @@ verificationNeeded:
   - "Rujukan bertulis terawal tentang hidangan ini — kamus Perancis–Melayu Pierre-Étienne-Lazare Favre pada 1875 dan The Circumstances of Malay Life karya Richard Olaf Winstedt (1909, p. 62). Ini dipetik melalui Wikipedia; susunan kata asal yang tepat (dan sama ada istilah 'nasi lemak' itu sendiri muncul, berbanding perihalan nasi yang direbus dalam santan) wajar disahkan terhadap teks primer."
   - "Dakwaan khusus bahawa nasi lemak, roti canai dan teh tarik telah diwartakan sebagai warisan kebangsaan di bawah National Heritage Act 2005 pada 2022 — sahkan warta dan tahun yang tepat dengan Jabatan Warisan Negara Malaysia."
   - "Cerita asal usul gadis Melaka 'Seri' / 'Nasi le, mak' ialah cerita rakyat, bukan sejarah yang terdokumentasi, dan wajar dipersembahkan hanya sebagai legenda."
+framework: explainer
 ---
 
 Sebelum matahari terbit sepenuhnya, baunya sampai ke jalan dahulu: nasi yang pekat

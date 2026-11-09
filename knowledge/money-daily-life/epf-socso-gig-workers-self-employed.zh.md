@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "str-cash-aid" }
 related: ["i-saraan-epf-voluntary-contribution", "epf-socso-employees", "income-tax-individuals", "str-cash-aid"]
 keywords: ["i-Saraan", "i-Saraan Plus", "KWSP", "PERKESO", "Lindung Kendiri", "pekerja gig", "bekerja sendiri", "Akta Pekerja Gig 2025", "Akta 872", "SKSPS", "freelancer"]
+framework: explainer
 ---
 
 一辈子靠开电召车或接自由职业的活儿过日子，有一件事不会自动发生：没有人会从你的收入里扣钱去缴 KWSP 或 PERKESO。对有固定职位的员工来说，那笔缴款每个月都在幕后进行。对你这样自行工作的人来说，那张安全网并不存在，除非你自己去搭建它——而在 2026 年，其中一部分刚刚从"可选"变成了"义务"。

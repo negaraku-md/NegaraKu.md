@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "malaysias-telcos-and-5g" }
 related: ["digital-free-trade-zone", "cyberjaya-tech-hub", "malaysias-telcos-and-5g"]
 keywords: ["MyDIGITAL", "Blueprint Ekonomi Digital Malaysia", "Malaysia Digital Economy Blueprint", "ekonomi digital Malaysia", "Malaysia Digital", "MDEC", "Status Malaysia Digital", "MD2030"]
+framework: explainer
 ---
 
 2021年2月、COVID-19のパンデミックが数百万のマレーシア国民をオンラインへと押しやるなか、政府は紙の上に大胆な目標を掲げた——2025年までにデジタル経済が国内総生産（GDP）の22.6%を占めるようにすることである。その目標を担った文書が、マレーシア・デジタル経済ブループリントであり——より広くMyDIGITALとして知られるイニシアチブの背骨である。

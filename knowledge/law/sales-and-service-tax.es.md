@@ -113,6 +113,7 @@ relations:
   - { rel: "related-to", to: "income-tax-act-1967" }
 related: ["income-tax-act-1967", "companies-act-2016"]
 keywords: ["SST", "sales tax", "service tax", "RMCD", "MySST", "SST registration", "Sales Tax Act 2018", "Service Tax Act 2018", "SST rates", "SST threshold"]
+framework: rules
 ---
 
 Si alguna vez te has preguntado por qué la cuenta de tu restaurante lleva una línea de «SST» pero el recibo del supermercado por lo general no, te has topado con las dos mitades muy diferentes del mismo impuesto. Malasia no aplica un único impuesto al consumo de base amplia como el GST o el IVA. En cambio, aplica dos impuestos más estrechos —un Impuesto sobre Ventas sobre los bienes y un Impuesto sobre Servicios sobre los servicios— agrupados bajo la etiqueta **SST** y administrados por el Departamento Real de Aduanas de Malasia (RMCD).

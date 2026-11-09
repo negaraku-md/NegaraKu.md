@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
 related: []
 keywords: ["keterjaminan makanan", "tahap sara diri", "SSL", "SSR", "Dasar Agromakanan Negara", "DAN 2.0", "food security Malaysia", "beras"]
+framework: explainer
 ---
 
 2024년 농업 센서스에 따르면, 말레이시아에서 소비되는 쌀 1킬로그램당 약 400그램이 수입 쌀입니다. 그 수치가 국가의 식량 안보 과제를 요약합니다: 여전히 주식의 상당 부분을 수입하는 농업 국가입니다.

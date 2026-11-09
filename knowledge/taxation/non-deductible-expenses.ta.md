@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "entertainment-expenses" }
 related: ["section-33-deductibility", "labuan-tax-regime", "withholding-tax-non-compliance", "withholding-tax-rates"]
 keywords: ["section 39 income tax act 1967", "non deductible expenses malaysia", "disallowed expenses tax computation", "39(1)(j) withholding tax", "39(1)(r) labuan", "add back tax computation malaysia"]
+framework: rules
 ---
 
 பெரும்பாலான சேர்ப்பு (add-back) அட்டவணைகள் பழக்கத்தால் கட்டமைக்கப்படுகின்றன. தேய்மானம், விருந்தோம்பல், அபராதங்கள், நன்கொடைகள் — ஒவ்வொரு ஆண்டும் அதே ஆறு வரிகள், முன்னோக்கிப் படியெடுக்கப்படுகின்றன. Section 39(1) உண்மையில் பதினெட்டு நடைமுறையிலுள்ள தடைகளைக் கொண்டுள்ளது, மேலும் அதிக பணத்தைச் செலவழிக்கச் செய்பவை யாருடைய பழக்கமான பட்டியலிலும் இல்லை.

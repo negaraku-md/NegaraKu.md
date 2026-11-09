@@ -118,6 +118,7 @@ relations:
   - { rel: "related-to", to: "statutory-registers" }
 related: ["directors-duties", "statutory-registers", "register-of-members", "directors-report", "disclosure-of-interest"]
 keywords: ["section 219 Companies Act 2016", "director shareholding notification Malaysia", "register of directors shareholdings", "section 59 register Malaysia", "notis kepentingan saham pengarah", "director interest in shares 14 days"]
+framework: rules
 ---
 
 Pregunte a un director malasio cuándo fue la última vez que dio a su empresa aviso por escrito de su propia participación accionarial y lo habitual será una mirada en blanco. Las acciones se le emitieron en la constitución. El secretario las tiene en el registro. ¿Qué queda por notificar?

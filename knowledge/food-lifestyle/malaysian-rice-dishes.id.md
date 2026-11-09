@@ -96,6 +96,7 @@ verificationNeeded:
   - "Asal usul dan etimologi nasi kandar (umumnya dikaitkan dengan penjaja keliling yang memikul periuk pada kayu pikul bahu, 'kandar') — konfirmasikan narasi itu dengan sumber warisan atau sejarah kuliner Penang, bukan sekadar media kuliner."
   - "Atribusi kewilayahan nasi dagang (dikaitkan dengan Terengganu dan Kelantan, dengan versi lokal yang berbeda) dan warna biru nasi kerabu dari bunga telang — konfirmasikan dengan sumber lokal atau negeri."
   - "Klaim bahwa tradisi nasi beriani/nasi minyak masuk ke Malaysia terutama melalui dapur India-Muslim dan istana kerajaan Melayu — konfirmasikan dengan sumber sejarah kuliner, karena narasi populer bervariasi."
+framework: explainer
 ---
 
 Tanyakan apa yang dimakan orang Malaysia, dan jawaban jujurnya biasanya *nasi* —

@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["opening-bank-account"]
 keywords: ["PTPTN", "pinjaman pendidikan", "kelayakan PTPTN", "bayaran balik PTPTN", "Akta 566", "pembiayaan pengajian tinggi Malaysia", "SSPN"]
+framework: explainer
 ---
 
 许多学生在签署 PTPTN 献议文件时，都抱持同一个假设：「这不就像奖学金吗？」

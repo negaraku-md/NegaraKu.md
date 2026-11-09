@@ -71,6 +71,7 @@ relations:
   - { rel: "governs", to: "financial-services-act-2013" }
 related: ["foreign-exchange-policy-malaysia", "online-business-licence-malaysia"]
 keywords: ["payment licence malaysia", "e-money licence malaysia", "BNM approval payment", "merchant acquiring malaysia", "limited purpose e-money", "FSA 2013 schedule 1"]
+framework: rules
 ---
 
 வாடிக்கையாளர்கள் டாப்-அப் செய்து விரைவாகக் கட்டணம் செலுத்த ஒரு நிறுவனர் ஒரு வாலட்டைச்

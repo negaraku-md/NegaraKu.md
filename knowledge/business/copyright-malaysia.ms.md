@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["ip-ownership-malaysia", "industrial-design-malaysia", "patent-malaysia"]
 keywords: ["hak cipta malaysia", "pendaftaran hak cipta malaysia", "notifikasi sukarela hak cipta", "akta hak cipta 1987", "borang cr-1 myipo"]
+framework: explainer
 ---
 
 Tiada apa-apa yang perlu didaftarkan. Hak cipta di Malaysia bukan diberikan oleh

@@ -76,6 +76,7 @@ social:
     - CP204
     - CP500
     - ByrHASiL
+framework: how-to
 ---
 
 Si un avis d'imposition arrive et que vous ne pouvez pas le régler en un seul paiement, l'administration fiscale malaisienne ne vous oblige plus à faire la queue dans une agence pour organiser des versements. Depuis mars 2025, vous pouvez en faire la demande en ligne, en quelques clics, via **e-Ansuran** sur le portail MyTax — et obtenir l'approbation automatiquement. Mais « payer l'impôt par versements » en Malaisie recouvre en réalité trois choses distinctes, et c'est en les confondant que l'on se trompe. Voici comment fonctionne e-Ansuran, et en quoi il diffère des dispositifs de versements CP500 et CP204.

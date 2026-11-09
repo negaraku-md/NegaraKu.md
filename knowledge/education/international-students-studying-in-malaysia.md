@@ -83,6 +83,7 @@ keywords:
   - "Malaysia student pass application"
   - "public vs private university Malaysia"
   - "MOHE approved institution Malaysia"
+framework: explainer
 ---
 
 An offer letter from the wrong kind of institution is worthless for a visa, even if the programme itself is perfectly accredited. That distinction — accredited programme versus approved-for-international-students institution — is where most confusion starts, well before anyone fills in an EMGS form.

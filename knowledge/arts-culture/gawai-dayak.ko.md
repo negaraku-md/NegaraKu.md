@@ -77,6 +77,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["kaamatan", "sarawak"]
 keywords: ["Gawai Dayak", "Hari Gawai", "harvest festival Sarawak", "Dayak", "Iban", "Bidayuh", "Orang Ulu", "miring", "ngajat", "tuak", "Tuai Rumah", "Gayu Guru Gerai Nyamai"]
+framework: history-culture
 ---
 
 5월의 마지막 날, 시계는 아직 자정을 치지 않았고, 사라왁의 어느 강가 롱하우스에서는 공(gong)이 기다리고 있습니다. 벼는 거두어졌습니다. 회랑은 쓸리고 새 돗자리가 걸렸습니다. 투악 항아리 하나가 준비되어 있습니다. 마침내 공이 울리면 롱하우스 촌장이 잔을 들고, 긴 공용 툇마루에 늘어선 모두가 같은 세 마디를 위해 마십니다. 장수, 건강, 번영.

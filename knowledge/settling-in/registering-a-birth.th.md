@@ -70,6 +70,7 @@ keywords:
   - "cabutan sijil kelahiran"
   - "JPN.LM01"
   - "JPN.LM12"
+framework: how-to
 ---
 
 บิดามารดามือใหม่จำนวนมากคิดว่าการจดทะเบียนการเกิดของบุตรเป็นงานเอกสารที่ไม่มี

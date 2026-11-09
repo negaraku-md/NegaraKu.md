@@ -93,6 +93,7 @@ relations:
   - { rel: "part-of", to: "malaysia-agreement-1963" }
 related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
 keywords: ["Sabah travel guide", "Kota Kinabalu", "Mount Kinabalu climb permit", "Kinabalu Park UNESCO", "Sipadan diving permit", "Sepilok orangutan", "Sabah immigration checkpoint", "Sabah entry requirements"]
+framework: explainer
 ---
 
 你可以从吉隆坡飞到亚庇（Kota Kinabalu）而不必离开国境，落地时却仍要在移民柜台前排队。这个意外令许多初次到访者措手不及——而这正是你在规划沙巴之行前最需要理解的一件事。本指南将带你了解入境门户、招牌景点，以及那些让沙巴感觉像是一个自成一体之地的入境规定，因为从某种非常真实的意义上说，它确实如此。

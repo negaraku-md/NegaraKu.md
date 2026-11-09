@@ -81,6 +81,7 @@ keywords:
   - "kedudukan Raja-Raja Melayu"
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
+framework: history-culture
 ---
 
 整整一年十个月间，马来亚在一部如今除了名称之外几乎无人知晓的宪法下受统治。马来亚联邦（Malayan Union）始于1946年4月1日，终于1948年1月31日——短暂到来不及留下自己的建筑物、货币，或一代自己的行政官员。

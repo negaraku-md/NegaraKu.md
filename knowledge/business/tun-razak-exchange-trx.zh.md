@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "investment-agency-directory" }
 related: ["doing-business-kuala-lumpur", "principal-hub-malaysia", "labuan-company-vs-sdn-bhd", "investment-agency-directory"]
 keywords: ["Tun Razak Exchange", "TRX Kuala Lumpur", "Exchange 106", "Malaysia international financial centre", "TRX Marquee incentives", "The Exchange TRX", "pusat kewangan antarabangsa TRX", "TRX City Sdn Bhd"]
+framework: profile
 ---
 
 从敦拉萨国际贸易中心MRT站走出地面，天际线便告诉你：这是规划出来的，而非自然生长的。一簇塔楼矗立在吉隆坡市中心东缘的70英亩土地上，其中一座冲破450米，环绕着一座坐落在商场屋顶上的公园。这是马来西亚从零建起一个金融区的尝试。

@@ -74,6 +74,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#SerabaiIstimewa", "#Serabai", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 Terselip dalam irama pagi George Town, Serabai Istimewa melakukan satu hal dan

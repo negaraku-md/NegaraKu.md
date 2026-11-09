@@ -74,6 +74,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["tol lebuh raya Malaysia", "SmartTAG", "RFID Touch n Go", "JustGO PLUS", "ANPR tol", "MLFF tol tanpa palang", "lorong tol Malaysia"]
+framework: explainer
 ---
 
 RFID レーンであなたの前の車が急停止するのは、ヘッドライトに貼られたステッカーが感知されなかったからだ——多くの人が RFID は「まったく何もしなくてよい」という意味だと思い込んでいるにもかかわらず。実際には、マレーシアは今、異なる高速道路で少なくとも4世代の通行料技術を同時に運用しており、そのうちの一つを別のものと取り違えることが、車両が料金所で立ち往生する典型的な原因である。

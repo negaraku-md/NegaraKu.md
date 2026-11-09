@@ -114,6 +114,7 @@ relations:
   - { rel: "affects", to: "permanent-establishment" }
 related: ["transfer-pricing-documentation", "cbcr-and-master-file", "dta-network", "permanent-establishment"]
 keywords: ["advance pricing arrangement malaysia", "apa malaysia lhdn", "bilateral apa malaysia", "apa application fee malaysia", "pu a 166 2023", "apa rollback malaysia"]
+framework: how-to
 ---
 
 多数顾问把预先定价安排（APA）说成一份菜单——想便宜又快就单边，想要协定保护就双边。在马来西亚没有菜单。Income Tax (Advance Pricing Arrangement) Rules 2023（P.U.(A) 166/2023）的 rule 2(2) 替你决定，而且只凭一项事实来决定：你的关联方所在的国家，是否与马来西亚订有 Income Tax Act 1967 s.132 下的安排。

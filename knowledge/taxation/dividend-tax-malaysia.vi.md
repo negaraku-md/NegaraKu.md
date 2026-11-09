@@ -69,6 +69,7 @@ social:
     - LHDN
     - YA2025
     - InvestingMalaysia
+framework: rules
 ---
 
 Trong nhiều năm, câu trả lời cho «cổ tức Malaysia của tôi có bị đánh thuế không?» là một chữ không rõ ràng — hệ thống một tầng đánh thuế lợi nhuận một lần, tại công ty, và trả cổ tức miễn thuế. Từ năm tính thuế 2025, đó không còn là toàn bộ câu chuyện đối với các cổ đông lớn: một cá nhân có cổ tức Malaysia vượt RM100,000 trong một năm nay trả một khoản thuế 2% trên phần vượt.

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "investing-in-bursa" }
 related: ["securities-commission-malaysia"]
 keywords: ["IPO malaysia", "list on bursa malaysia", "bursa listing requirements", "main market ace market leap market", "how to go public malaysia", "listing criteria bursa", "bumiputera equity requirement IPO"]
+framework: explainer
 ---
 
 让公司公开上市是其股东将做出的最重大的融资决定之一——它筹集永久性资本，为业务定出市场价格，并为股东提供退出途径。它也让公司接受一种令许多创办人措手不及的审查与成本。在马来西亚，首次公开募股（IPO）意味着在 Bursa Malaysia 上市，而你所走的路径完全取决于公司有多大、经过多少验证。

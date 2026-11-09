@@ -91,6 +91,7 @@ verificationNeeded:
   - "Si le nasi goreng pattaya est né en Malaisie (comme on l'affirme couramment) malgré son nom à consonance thaïlandaise — à confirmer auprès d'une source documentée d'histoire alimentaire plutôt que d'articles de type listicle."
   - "Les listes d'ingrédients précises et normalisées des variantes nommées (USA, paprik, ikan masin, hailam, kerabu, dabai) — elles proviennent surtout de médias culinaires et de sources éditées par la communauté et varient d'une échoppe à l'autre ; confirmer les spécificités régionales auprès de références culinaires locales."
   - "Si le nasi goreng est officiellement inscrit au journal officiel comme patrimoine culinaire national de la Malaisie, et sous quelle inscription — à confirmer auprès du Jabatan Warisan Negara ou d'une source officielle plutôt que de médias culinaires secondaires."
+framework: explainer
 ---
 
 Commandez un nasi goreng à une échoppe mamak à une heure du matin et vous ne

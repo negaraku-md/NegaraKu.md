@@ -80,6 +80,7 @@ relations:
   - { rel: "explained-in", to: "bo-register" }
 related: ["beneficial-ownership", "bo-register", "ebos-filing", "bo-non-cooperation"]
 keywords: ["who is a beneficial owner Malaysia", "beneficial owner criteria SSM", "20% shareholding beneficial owner", "ultimate effective control Malaysia", "nominee shareholder beneficial owner"]
+framework: explainer
 ---
 
 ส่วนที่ยากของการรายงานเจ้าของผู้รับผลประโยชน์ไม่ใช่การยื่น แต่คือการยืนอยู่หน้าโครงสร้างการถือหุ้นแล้วตัดสินใจว่าชื่อของใครจะลงในช่อง

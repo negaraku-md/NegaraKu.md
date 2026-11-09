@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: ["bahasa-melayu", "melaka-sultanate", "article-3-religion"]
 keywords: ["tulisan Jawi", "aksara Arab Melayu", "Batu Bersurat Terengganu", "sejarah tulisan Jawi", "seni khat", "ejaan Jawi", "Seksyen 9 Akta Bahasa Kebangsaan"]
+framework: history-culture
 ---
 
 On a stone inscription found in Terengganu, Malay words are carved — not in the letters we use today, but in an Arabic script adapted for Malay sounds. The inscription, the Terengganu Inscribed Stone (Batu Bersurat Terengganu), bears the date 702 Hijrah, commonly equated with the year 1303 CE.

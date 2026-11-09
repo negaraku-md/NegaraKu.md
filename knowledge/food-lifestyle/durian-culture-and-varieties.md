@@ -92,6 +92,7 @@ keywords:
   - "varieti durian"
   - "musim durian"
   - "eksport durian China"
+framework: explainer
 ---
 
 Di Malaysia, durian bukan sekadar buah — ia dipanggil raja buah, dan pada musim

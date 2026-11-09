@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "hs-code-classification-malaysia" }
 related: ["sales-and-service-tax"]
 keywords: ["import licence Malaysia", "export permit Malaysia", "Approved Permit AP", "SIRIM import permit", "MAQIS permit", "customs registration Malaysia", "ePermit", "uCustoms", "MyTRADELINK"]
+framework: rules
 ---
 
 Votre conteneur est immobilisé à Port Klang et il ne bougera pas — parce que quelque part entre la facture et le manifeste, il manque un permis. En Malaisie, il n'existe pas de «licence d'import-export» unique que vous pourriez encadrer au mur. Ce qui libère les marchandises, c'est une *pile* d'enregistrements et d'approbations, chacun appartenant à une agence différente et chacun lié à ce que vous expédiez réellement.

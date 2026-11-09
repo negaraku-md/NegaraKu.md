@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "negaraku-anthem" }
 related: ["negaraku-anthem"]
 keywords: ["मलेशिया ओलंपिक पदक", "Malaysia Olympic medals", "SEA Games", "राष्ट्रमंडल खेल 1998", "Commonwealth Games 1998", "ली चोंग वेई", "Lee Chong Wei", "मलेशिया स्वर्ण पदक", "पदक तालिका"]
+framework: data-reference
 ---
 
 मलेशिया पंद्रह बार ओलंपिक पोडियम पर चढ़ा है — और हर एक बार उसने किसी और का राष्ट्रगान बजते सुना है।

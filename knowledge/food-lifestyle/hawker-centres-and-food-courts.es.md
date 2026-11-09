@@ -102,6 +102,7 @@ verificationNeeded:
   - "Si la práctica de reservar una mesa compartida con un paquete de pañuelos o un pequeño objeto personal (choping) es tan común y reconocida en los patios de comidas y kopitiam malasios como está documentada en Singapur: la costumbre está bien descrita para Singapur, pero hay poca documentación formal de su prevalencia en Malasia. Confírmese con una fuente malasia."
   - "La regla de selección de puestos del Lot 10 Hutong: Free Malaysia Today informa de que los puestos necesitan una trayectoria de al menos 40 años, mientras que otros relatos promocionales citan unos 50 años; la cifra procede de descripciones de medios y del operador, no de una fuente oficial. Confírmese el criterio exacto."
   - "Los tramos de puntuación de los grados de higiene A/B/C citados provienen de consejos locales concretos (p. ej. Majlis Bandaraya Kuantan) y no son uniformes a nivel nacional; los rangos exactos y el umbral de cierre difieren entre autoridades locales. Confírmese la escala con el consejo concreto de cualquier local dado."
+framework: explainer
 ---
 
 Entre en casi cualquier barrio malasio a la hora del almuerzo y no encontrará una

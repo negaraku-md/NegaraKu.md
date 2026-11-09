@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "qingming-festival" }
 related: ["qingming-festival", "chinese-clan-associations", "tua-pek-kong", "chinese-religion-in-malaysia"]
 keywords: ["义山", "华人义山", "坟山", "华人墓园", "三宝山", "Bukit Cina", "广东义山", "Kwong Tong Cemetery", "后土", "大伯公", "福德正神", "风水", "灵骨塔", "骨灰龛", "纪念花园", "清明", "拜山", "起骨", "马来西亚华人", "Chinese cemeteries Malaysia"]
+framework: history-culture
 ---
 
 청명 무렵, 하늘이 완전히 밝기도 전에 말라카 부킷치나 기슭에는 이미 차들이 빼곡히 세워져 있습니다. 가족들이 생화·향·초·제물을 들고 기복 있는 비탈을 따라 자기 집안의 조상 묘로 올라갑니다. 어떤 이는 먼저 묘 옆의 '후토(后土)'라 새겨진 작은 돌 감실 앞에서 향을 올리고, 이어 조상의 비석을 손질합니다——풀을 뽑고, 희미해진 새김 글자를 다시 칠하고, 제물을 차립니다. 비탈을 따라 빽빽이 들어서고 좌향이 가지런한 묘들은, 대를 이어 남쪽으로 건너온 화인들의 안식의 땅입니다.

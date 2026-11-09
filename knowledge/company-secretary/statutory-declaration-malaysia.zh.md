@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "members-voluntary-winding-up-malaysia" }
 related: []
 keywords: ["statutory declaration malaysia", "akuan berkanun", "commissioner for oaths malaysia", "statutory declarations act 1960", "false statutory declaration penalty", "declaration of solvency section 443"]
+framework: explainer
 ---
 
 企业主迟早会被递上一份文件，并被告知："这需要做成一份法定声明。"它是那种听起来比实际更沉重的法律手续之一——一份你在获授权人面前宣誓属实的书面陈述——但其分量是真实的：签署一份虚假的，你就犯下了刑事罪。以下是法定声明是什么、谁可以接受它，以及它在公司生活中出现在何处。

@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["employment-act-1955", "socso-perkeso"]
 keywords: ["OKU", "orang kurang upaya", "الأشخاص ذوو الإعاقة", "Akta 685", "Seksyen 29", "المادة 29", "حصة 1%", "Kad OKU", "بطاقة OKU", "الخصم الضريبي المزدوج", "التوظيف الشامل"]
+framework: explainer
 ---
 
 يواجه كثير من ذوي الإعاقة (OKU) المؤهلين في ماليزيا فجوة حقيقية في الحصول على فرص

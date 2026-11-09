@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "hydrogen-ccus-malaysia" }
 related: ["energy-commission-suruhanjaya-tenaga", "tenaga-nasional", "seda-malaysia", "sarawak-energy-berhad", "hydrogen-ccus-malaysia"]
 keywords: ["sektor tenaga Malaysia", "NETR", "Peta Jalan Peralihan Tenaga Negara", "PETRA", "Suruhanjaya Tenaga", "Petronas", "tarif elektrik RP4", "BUDI95", "tenaga boleh baharu Malaysia", "grid elektrik Malaysia"]
+framework: explainer
 ---
 
 Pulse un interruptor de la luz en Kuala Lumpur, llene el depósito de RON95 en Ipoh o instale paneles solares en un tejado de Johor: detrás de cada uno de esos actos hay una red de instituciones, leyes y políticas que los consumidores rara vez ven. El sector energético de Malasia no es una sola cosa; son cuatro mundos que se solapan: electricidad, petróleo y gas, combustibles y energía renovable. Esta guía traza quién controla qué y cómo encaja todo.

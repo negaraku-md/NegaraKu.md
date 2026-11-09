@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "financial-statement-pack" }
 related: ["audit-exemption", "audit-exemption-thresholds", "basis-period-and-accounting-date", "myinvois-phases", "financial-statement-pack", "financial-statements-lodgement", "sdn-bhd-first-year-compliance", "form-c-and-cp204"]
 keywords: ["penghujung tahun kewangan Malaysia", "tukar penghujung tahun kewangan Sdn Bhd", "FYE Malaysia", "tempoh asas tukar tarikh perakaunan", "pengecualian audit tiga tahun", "penyata kewangan pertama 18 bulan", "seksyen 247 tahun kewangan syarikat induk"]
+framework: decision
 ---
 
 Memilih penghujung tahun kewangan terasa seperti satu keputusan pentadbiran. Ia

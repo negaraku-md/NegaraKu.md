@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "sales-and-service-tax-sst-explained" }
 related: []
 keywords: ["tipping malaysia", "service charge malaysia", "service tax restaurant", "dining etiquette malaysia", "SST food and beverage"]
+framework: explainer
 ---
 
 クアラルンプールで美味しい食事を終え、テーブルに請求書が届くと、合計金額の下に見慣れない二つの項目が並んでいる。いいえ、何か余分に注文したわけではない——そして、その上にチップを加える必要もない。マレーシアで外食をする際の実際の仕組みを見ていこう。

@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "straits-settlements" }
 related: ["melaka-sultanate", "portuguese-melaka-1511", "straits-settlements", "singapore-separation-1965"]
 keywords: ["Kesultanan Johor-Riau", "Kesultanan Johor", "Sultan Alauddin Riayat Shah II", "Sultan Mahmud Shah", "waris Kesultanan Melaka", "Johor Lama", "Dinasti Bendahara", "Riau-Lingga", "institusi diraja Melayu"]
+framework: history-culture
 ---
 
 1511இல், போர்த்துகீசியரின் பீரங்கிகள் ஒரு நகரத்தைத் தகர்த்தன — ஆனால் ஓர் அரியணையை அல்ல. மலாக்கா நகரம் வீழ்ந்தபோது, கடைசி மலாக்கா சுல்தானான Sultan Mahmud Shah சரணடையவில்லை. அவர் அரச குடும்பத்துடனும், பிரபுக்களுடனும், எல்லாவற்றையும்விட முக்கியமாக மலாக்காவை ஒரு சுல்தானகமாக்கிய முழு நிறுவன அமைப்புடனும் தெற்கே பின்வாங்கினார். நகரம் இழக்கப்பட்டது; சுல்தானகம் நகர்ந்தது.

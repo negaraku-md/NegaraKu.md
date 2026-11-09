@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "non-compete-clause-malaysia" }
 related: ["employment-act-coverage", "termination-of-employment-malaysia", "stamp-duty-employment-contracts"]
 keywords: ["kontrak pekerjaan malaysia", "kontrak perkhidmatan malaysia", "seksyen 10 akta kerja", "klausa tempoh notis malaysia", "klausa tidak boleh dikuatkuasakan kontrak pekerjaan"]
+framework: rules
 ---
 
 Kontrak bukanlah undang-undang. Ia adalah dokumen yang beroperasi di dalam undang-undang,

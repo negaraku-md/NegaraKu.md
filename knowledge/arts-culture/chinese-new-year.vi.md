@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["population-composition", "religion-statistics", "languages-spoken", "batik"]
 keywords: ["农历新年", "华人新年", "春节", "团圆饭", "红包", "压岁钱", "舞狮", "捞生", "鱼生", "十五暝", "Chap Goh Meh", "开放门户", "马来西亚华人", "公共假期", "Chinese New Year Malaysia"]
+framework: history-culture
 ---
 
 Vào ngày giao thừa, nhiều cửa hiệu đóng cửa sớm, các đường cao tốc chật kín xe hướng về quê nhà. Đến tối, cả nhà quây quần bên một chiếc bàn — trên bàn có cá (niên niên hữu dư), có nguyên một con gà, có những viên tròn mang ngụ ý đoàn viên, và một món gỏi cá phải dùng đũa hất thật cao. Bữa cơm đoàn viên đêm giao thừa này được không ít gia đình người Hoa Malaysia coi trọng hơn cả bản thân ngày mùng một Tết.

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "perquisites-and-benefits-in-kind-tax" }
 related: ["companies-act-2016"]
 keywords: ["ESOS malaysia", "employee share option scheme malaysia", "ESOP malaysia tax", "share option perquisite malaysia", "section 75 companies act 2016", "bursa 15% share scheme", "how ESOS is taxed malaysia"]
+framework: explainer
 ---
 
 Startups short on cash and mature companies chasing retention reach for the same tool: give employees a slice of the equity. An Employee Share Option Scheme (ESOS) lets staff buy shares later at a price fixed today, so they share in the upside they help create. It is powerful — and it is also a place where founders quietly get the law and the tax wrong, usually the tax.

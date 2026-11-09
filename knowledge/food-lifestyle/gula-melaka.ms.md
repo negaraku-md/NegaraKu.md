@@ -90,6 +90,7 @@ verificationNeeded:
   - "Sama ada gula melaka memegang sebarang petunjuk geografi (GI) berdaftar di bawah Akta Petunjuk Geografi 2022 Malaysia — tiada pendaftaran GI untuk gula melaka ditemui; sahkan secara langsung terhadap daftar rasmi MyIPO sebelum menegaskan sebarang status GI."
   - "Kekuatan kaitan nama itu dengan negeri Melaka (yang kerap diulang dalam media makanan tetapi tidak didokumentasikan dengan kukuh) dan sama ada Negeri Sembilan dan negeri lain merupakan kawasan pengeluaran yang penting — sahkan dengan sumber warisan, pertanian atau negeri Malaysia."
   - "Penghurai perisa tertentu seperti nota 'butterscotch' dan tempoh menoreh/mendidih yang terperinci — ini datang daripada media makanan dan mungkin subjektif; sahkan butiran pengeluaran dengan pengeluar atau sumber pertanian."
+framework: explainer
 ---
 
 Hiris sebuku gula melaka yang gelap dan padat, maka dapur pun dipenuhi bau yang

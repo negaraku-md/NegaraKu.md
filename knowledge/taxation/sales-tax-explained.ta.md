@@ -105,6 +105,7 @@ relations:
   - { rel: "compares-with", to: "sst-expansion-2025" }
 related: ["sst-explained", "sst-registration", "sst-02-filing", "sst-rate-table"]
 keywords: ["sales tax Malaysia", "sales tax rate 2025", "Schedule C exemption", "CJ5 CJ5A", "sales tax deduction facility", "manufacturer sales tax"]
+framework: explainer
 ---
 
 மூலப்பொருட்களை வரியின்றி வாங்க CJ5 ஒன்றைத் தாக்கல் செய்யுமாறு உங்கள்

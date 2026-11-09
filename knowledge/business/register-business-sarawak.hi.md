@@ -140,6 +140,7 @@ keywords:
   - "trade licence Sarawak"
   - "LHDN business registration Kuching"
   - "lesen perniagaan Sarawak"
+framework: how-to
 ---
 
 सारावाक में आप कोई एक व्यवसाय पंजीकृत नहीं करते। आप तीन चीज़ें पंजीकृत करते हैं, अधिकतम

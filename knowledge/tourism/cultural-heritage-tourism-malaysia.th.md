@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "malaysia-homestay-programme" }
 related: []
 keywords: ["Malaysia UNESCO World Heritage", "heritage tourism Malaysia", "homestay programme Malaysia", "George Town Melaka", "mosque etiquette Malaysia", "cultural tourism"]
+framework: explainer
 ---
 
 หกแห่งในประเทศเดียวได้รับตราประทับจาก UNESCO แล้ว และคุณสามารถเดินชมจัตุรัสสไตล์อาณานิคมดัตช์เก่าแก่หลายศตวรรษในตอนเช้า แล้วยืนอยู่ในห้องถ้ำอันกว้างใหญ่ของเกาะบอร์เนียวหลังบินไปเพียงเที่ยวเดียว มรดกของมาเลเซียไม่ใช่พิพิธภัณฑ์ที่คุณเพียงมองดู หากเป็นถนนที่มีชีวิตซึ่งคุณสามารถกิน นอน และสวดภาวนาผ่านไปได้

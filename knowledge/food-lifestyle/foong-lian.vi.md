@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#FoongLian", "#ClaypotRice", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Trên Jalan Yew ở Pudu, một dãy niêu đất đặt trên than hồng rực, mỗi niêu tạo một lớp

@@ -90,6 +90,7 @@ relations:
   - { rel: "part-of", to: "stamp-duty-rates" }
 related: ["stamp-duty-rates", "capital-gains-tax", "stamp-duty-self-assessment", "share-capital-malaysia"]
 keywords: ["stamp duty share transfer Malaysia", "Form 32A", "Form of Transfer of Securities section 105", "NTA valuation stamp duty", "0.3% share transfer duty"]
+framework: rules
 ---
 
 Deux choses concernant le timbrage des transferts d'actions restent fausses dans la plupart des notes pratiques malaisiennes : le formulaire qu'on vous dit d'utiliser a été aboli avec la Companies Act 1965, et le droit n'est pas perçu sur ce que l'acheteur a réellement payé.

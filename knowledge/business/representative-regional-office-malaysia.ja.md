@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "foreign-company-branch-malaysia" }
 related: ["mida"]
 keywords: ["representative office malaysia", "regional office malaysia", "MIDA RE RO", "foreign company presence malaysia", "market entry malaysia", "non-trading office"]
+framework: explainer
 ---
 
 マレーシアに人員を配置したい外国会社——市場を見極め、製品調査を行い、又は地域の関連会社を調整するために——は、そのために課税対象となる貿易会社を法人設立する必要はない。マレーシアは、まさにこのために設計された非貿易的な資格を提供している：マレーシア投資開発庁（MIDA）により承認される、駐在員事務所（Representative Office、RE）又は地域事務所（Regional Office、RO）である。

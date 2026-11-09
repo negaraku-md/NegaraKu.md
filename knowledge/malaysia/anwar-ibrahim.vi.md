@@ -71,6 +71,7 @@ sources:
 
 related: ["1998-reformasi", "2018-change-of-government", "prime-ministers-of-malaysia", "mahathir-mohamad"]
 keywords: ["Anwar Ibrahim", "tenth prime minister Malaysia", "Reformasi", "MADANI government", "Pakatan Harapan"]
+framework: profile
 ---
 
 Anwar Ibrahim (sinh ngày 10 tháng 8 năm 1947) là **Thủ tướng thứ mười** của Malaysia,

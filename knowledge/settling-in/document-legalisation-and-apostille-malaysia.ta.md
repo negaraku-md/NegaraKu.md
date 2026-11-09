@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "recognition-of-foreign-qualifications-malaysia" }
 related: []
 keywords: ["legalisasi dokumen", "apostille Malaysia", "pengesahan konsular", "Wisma Putra", "sijil kelahiran asing", "sijil perkahwinan luar negara", "pengesahan ijazah", "JPN dokumen asing"]
+framework: how-to
 ---
 
 வெளிநாட்டில் வழங்கப்பட்ட திருமணச் சான்றிதழுடன் நீங்கள் JPN கவுண்டருக்கு வருகிறீர்கள், அதிகாரி அதை நிராகரிக்கிறார் — அது போலியானது என்பதால் அல்ல, மாறாக அது இன்னும் "சட்டப்பூர்வமாக்கப்படவில்லை" (dilegalisasi) என்பதால். பலர் இங்குதான் தடுமாறுகிறார்கள்: ஒரு ஆவணம் அதன் சொந்த நாட்டில் செல்லுபடியாகும் என்பது அது மலேசியாவில் நேரடியாக ஏற்கப்படும் என்று அர்த்தம் அல்ல. முதலில் கடந்து செல்ல வேண்டிய ஒரு அங்கீகார சங்கிலி உள்ளது.

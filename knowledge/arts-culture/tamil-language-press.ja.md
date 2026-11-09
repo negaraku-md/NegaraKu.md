@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "estate-tamil-community", "tamil-vernacular-schools", "chinese-language-press", "languages-spoken"]
 keywords: ["மலேசியத் தமிழ்ப் பத்திரிகைகள்", "தமிழ் நாளிதழ்கள் மலேசியா", "மலேசிய நண்பன்", "மக்கள் ஓசை", "தமிழ் நேசன்", "மின்னல் FM", "Tamil-language press in Malaysia", "Tamil newspapers Malaysia"]
+framework: history-culture
 ---
 
 街角の店で朝のコーヒーや紅茶とともに一部のタミル語新聞を——マレーシアのタミル社会の一世代にとって、これは見慣れた光景だった。その紙面にはその日のニュースだけでなく、寺院の祭りの告知、タミル学校の便り、結婚のお祝い、訃報、タミル映画の評まで載っていた。ひとつの社会の日常そのものが、活字になって届けられていたのである。

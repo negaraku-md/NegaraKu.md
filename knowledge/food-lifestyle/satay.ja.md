@@ -90,6 +90,7 @@ keywords:
   - "charcoal grilled skewers"
 social:
   hashtags: ["#Satay", "#SatayKajang", "#SatayCelup", "#MalaysianFood", "#Malaysia"]
+framework: explainer
 ---
 
 まず音がやってくる。赤く熾った炭の溝の上で団扇があおがれ、滴る脂がじゅっと音を立て、

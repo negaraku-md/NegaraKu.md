@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution", "companies-act-2016", "employment-act-1955"]
 keywords: ["Malaysia court hierarchy", "Sessions Court jurisdiction RM1 million", "Magistrates Court limit RM100,000", "Courts of Judicature Act 1964", "Subordinate Courts Act 1948", "hierarki mahkamah Malaysia"]
+framework: data-reference
 ---
 
 ยื่นฟ้องคดีผิดสัญญามูลค่า RM1.2 ล้าน ที่ศาลชั้นต้น (Sessions Court) แล้วไม่สำคัญว่าคดีของคุณจะแข็งแค่ไหน ศาลไม่มีอำนาจพิจารณามัน ยื่นฟ้องคดีเดียวกันมูลค่า RM80,000 ที่ศาลสูง (High Court) แล้วคุณน่าจะถูกบอกว่ามาผิดอาคาร — และต้องจ่ายค่าอ้อมทางนั้น

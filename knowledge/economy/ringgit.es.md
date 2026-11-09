@@ -66,6 +66,7 @@ faq:
     a: No. Malasia ancló el ringgit a 3.80 por dólar estadounidense en septiembre de 1998 durante la Crisis Financiera Asiática, junto con controles de capital, y el anclaje se mantuvo durante casi siete años. Se eliminó en 2005, y el ringgit volvió a una flotación administrada — determinada por el mercado, con el Banco Negara Malaysia (BNM) presente solo para suavizar movimientos desordenados y no para defender un nivel determinado. Hoy no existe un nivel "correcto" oficial.
   - q: ¿Por qué la tasa que me da mi banco o mi casa de cambio es peor que la tasa publicada por el BNM?
     a: Porque la tasa de referencia USD/MYR de KL del BNM es un punto de referencia de mercado calculado a partir del mercado interbancario, usado para contratos y valoración — no es un precio minorista. Los bancos y las casas de cambio añaden su propio diferencial (spread) por encima, de modo que siempre operarás a una tasa peor que la de referencia. La tasa de referencia era 4.0841 al 23 de octubre de 2026, pero eso es el punto de referencia, no lo que un cliente paga realmente en el mostrador.
+framework: explainer
 ---
 
 ## De un vistazo

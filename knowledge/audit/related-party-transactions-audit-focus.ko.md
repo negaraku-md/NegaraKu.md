@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "going-concern-audit" }
 related: ["statutory-audit-process", "audit-opinion-types", "going-concern-audit"]
 keywords: ["related party transactions", "ISA 550", "MFRS 124", "arm's length", "Bursa Chapter 10", "recurrent related party transactions", "audit risk"]
+framework: explainer
 ---
 
 어떤 회사가 자사의 대주주가 소유한 다른 회사에 원유 팜유를 판매합니다. 송장의

@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["unesco-world-heritage", "batik"]
 keywords: ["Peranakan", "Baba-Nyonya", "Straits Chinese", "Nyonya cuisine", "Nyonya kebaya", "Melaka George Town heritage"]
+framework: history-culture
 ---
 
 Walk into an old townhouse on Melaka's Heeren Street and the story is told in objects before anyone says a word. A tightly fitted lace blouse pinned at the front with a three-piece gold brooch. A pair of slippers whose toes are covered in thousands of tiny glass beads, each stitched by hand. A long marble-topped table set for a meal that is neither quite Chinese nor quite Malay. These belong to the Peranakans — the Baba-Nyonya — a community that made a culture out of living between two worlds.

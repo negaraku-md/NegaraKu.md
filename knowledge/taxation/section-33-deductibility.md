@@ -118,6 +118,7 @@ relations:
   - { rel: "related-to", to: "entertainment-expenses" }
 related: ["losses-and-group-relief", "form-c-and-cp204", "withholding-tax-non-compliance"]
 keywords: ["section 33 income tax act", "wholly and exclusively malaysia", "allowable business expenses malaysia", "tax deductible expenses sdn bhd", "section 33(1) deduction", "lhdn disallowed expenses"]
+framework: explainer
 ---
 
 Every guide to Malaysian business deductions publishes a list. Rent, yes. Salaries, yes. Entertainment, half. The list is fine until the day an expense arrives that is not on it — a payment to a state government to be released from an obligation, a feasibility study for a project that never happened, service tax the company absorbed rather than passed on — and then the list is worth nothing, because the list was never the law.

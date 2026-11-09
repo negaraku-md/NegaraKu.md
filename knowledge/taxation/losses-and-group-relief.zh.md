@@ -86,6 +86,7 @@ relations:
   - { rel: "affects", to: "capital-allowances" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "company-tax-residence", "income-tax-act-1967", "dormant-company-audit-exemption"]
 keywords: ["business loss carry forward Malaysia", "section 44A group relief", "unabsorbed capital allowances", "10 year loss limit", "substantial change in shareholding"]
+framework: explainer
 ---
 
 同一集团内的两家公司，都在亏损，董事们都以为等盈利来了亏损还会在。其中一家到 2035

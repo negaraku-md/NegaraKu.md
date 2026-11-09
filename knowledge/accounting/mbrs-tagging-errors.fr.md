@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "sdn-bhd-bookkeeping" }
 related: ["mbrs-2-filing-guide", "mbrs-2", "financial-statement-pack", "sdn-bhd-bookkeeping", "mfrs-vs-mpers"]
 keywords: ["erreur de balisage MBRS", "validation SSMxT", "échec de validation XBRL Malaisie", "erreur mTool", "MBRS rejeté", "balisage en bloc de texte SSM", "échelle decimals MBRS"]
+framework: explainer
 ---
 
 L'échec qui coûte de l'argent n'est pas celui qui empêche le fichier de se générer. C'est celui qui se génère proprement, se dépose proprement, et porte un chiffre faux d'un facteur mille.

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "estate-tamil-community", "tamil-vernacular-schools", "chinese-language-press", "languages-spoken"]
 keywords: ["மலேசியத் தமிழ்ப் பத்திரிகைகள்", "தமிழ் நாளிதழ்கள் மலேசியா", "மலேசிய நண்பன்", "மக்கள் ஓசை", "தமிழ் நேசன்", "மின்னல் FM", "Tamil-language press in Malaysia", "Tamil newspapers Malaysia"]
+framework: history-culture
 ---
 
 காலைக் கடைக்குக் கோப்பித் தேநீருடன் சேர்ந்து ஒரு தமிழ் நாளிதழ் — மலேசியத்

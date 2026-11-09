@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["federal-constitution", "independence-1957", "formation-of-malaysia-1963", "parliament"]
 keywords: ["ركن نيغارا", "Rukun Negara", "المبادئ الخمسة لركن نيغارا", "تعهُّد ركن نيغارا", "المجلس الاستشاري الوطني", "Majlis Perundingan Negara", "MAGERAN", "الإعلان الملكي 1970", "Pengisytiharan Diraja 1970"]
+framework: history-culture
 ---
 
 في ملف لجنة ركن نيغارا (Rukun Negara) لدى الأرشيف الوطني الماليزي، توجد رسالة مؤرخة في 19 مارس 1970. تُخطر بأن الاجتماع الأول للجنة ركن نيغارا سيُعقد في 31 مارس 1970، في تمام العاشرة صباحًا، في غرفة العمليات بوزارة الخزانة الماليزية. وترِد ثلاثة عشر اسمًا في قائمة التعميم؛ وتلقَّى أربعة آخرون نسخًا.

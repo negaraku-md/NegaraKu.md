@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "mfrs-vs-mpers" }
 related: ["financial-statement-pack", "financial-year-end", "mfrs-vs-mpers", "mbrs-2-filing-guide"]
 keywords: ["NSRF Malaysia", "IFRS S1 S2 Malaysia", "sustainability reporting Malaysia", "large non-listed company RM2 billion", "Scope 1 Scope 2 assurance Malaysia", "ACSR", "sustainability reporting timeline"]
+framework: rules
 ---
 
 Báo cáo bền vững đến Malaysia như một chủ đề truyền thông và đang trở thành một chủ đề

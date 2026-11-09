@@ -100,6 +100,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["labuan-company-vs-sdn-bhd", "foreign-ownership-malaysia"]
 keywords: ["foreign exchange policy malaysia", "FEP notices", "BNM exchange control", "domestic ringgit borrowing", "foreign currency account malaysia", "investment abroad malaysia", "resident non-resident BNM"]
+framework: explainer
 ---
 
 ถามผู้ก่อตั้งมาเลเซียเรื่องการควบคุมการแลกเปลี่ยนแล้วคุณมักได้คำตอบหนึ่งในสองอย่าง ทั้งคู่ผิด อันแรกคือมาเลเซียยกเลิกการควบคุมการแลกเปลี่ยนในปี 1998 และไม่มีอะไรต้องคิด อันที่สองคือมีดงของการอนุมัติและคุณต้องมีแผนกกำกับของธนาคารเพื่อแตะสิ่งใด

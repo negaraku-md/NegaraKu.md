@@ -83,6 +83,7 @@ relations:
   - { rel: "compares-with", to: "labuan-company-formation" }
 related: []
 keywords: ["redomiciliation", "re-domiciliation", "continuance", "Labuan", "Labuan Companies Act 1990", "section 16", "foreign company", "domicile", "Companies Act 2016", "Labuan FSA"]
+framework: explainer
 ---
 
 해외에서 해산하고 처음부터 다시 시작하지 않으면서 말레이시아 회사가 되고자 하는

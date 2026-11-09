@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "kaamatan" }
 related: ["languages-spoken", "sabah", "sarawak", "gawai-dayak", "kaamatan", "orang-asli"]
 keywords: ["indigenous languages Sabah Sarawak", "Borneo languages", "Kadazandusun language", "Dusunic", "Murutic", "Paitanic", "Iban language", "Bidayuh", "Melanau", "Orang Ulu", "Austronesian", "North Bornean languages", "Sama-Bajau"]
+framework: explainer
 ---
 
 บินเหนือพื้นที่ตอนในของบอร์เนียว แล้วคุณจะข้ามภาษามากกว่าที่หลายประเทศมีทั้งหมดในเวลาชั่วโมงเดียว หุบเขาแม่น้ำในที่สูงของซาบาห์ บ้านยาวบนแม่น้ำบารัม (Baram) ตอนบนในซาราวัก หมู่บ้านประมงชายฝั่ง — แต่ละแห่งอาจทักทายคุณด้วยภาษาที่หุบเขาถัดไปแทบไม่เข้าใจ

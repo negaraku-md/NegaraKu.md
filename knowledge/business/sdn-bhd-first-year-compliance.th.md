@@ -207,6 +207,7 @@ keywords:
   - "company secretary 30 days"
   - "senarai semak pematuhan syarikat baharu"
   - "post incorporation Malaysia"
+framework: journey-hub
 ---
 
 การจดทะเบียนจัดตั้งเป็นธุรกรรม การปฏิบัติตามกฎหมายเป็นการสมัครสมาชิก

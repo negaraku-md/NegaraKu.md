@@ -78,6 +78,7 @@ social:
     - SdnBhd
     - VentureCapital
     - MalaysiaCompanyLaw
+framework: explainer
 ---
 
 Dua orang mendirikan Sdn Bhd, membagi saham 50/50, dan mulai membangun. Enam bulan kemudian, salah satu dari mereka kehilangan minat dan pergi — sambil mempertahankan separuh perusahaan. Pendiri yang tinggal kini memikul semua pekerjaan sementara mantan rekan yang pasif duduk atas 50% ekuitas, menyumbat cap table yang ingin dilihat bersih oleh investor masa depan mana pun. Masalah "ekuitas mati" ini adalah bencana pendiri yang paling umum, dan solusinya adalah vesting: menjadikan ekuitas pendiri sesuatu yang mereka pertahankan dengan terus tinggal, bukan sesuatu yang mereka miliki secara mutlak sejak hari pertama.

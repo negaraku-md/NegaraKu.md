@@ -119,6 +119,7 @@ keywords:
   - "Penang signboard Bahasa Malaysia rule"
   - "PDC industrial land Penang"
   - "Bayan Lepas free industrial zone"
+framework: profile
 ---
 
 关于在槟城经商的第一个问题不是要注册什么,而是你身处海峡的哪一侧。

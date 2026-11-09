@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "register-sdn-bhd" }
 related: ["strike-off-company-malaysia", "members-voluntary-winding-up", "creditors-voluntary-winding-up", "corporate-rescue-malaysia", "sell-business-malaysia", "register-sdn-bhd", "annual-return", "statutory-registers"]
 keywords: ["cerrar sdn bhd", "close sdn bhd", "baja registral de empresa Malasia", "strike off company Malaysia", "liquidación de empresa", "tutup syarikat sdn bhd", "dar de baja empresa SSM", "close company malaysia"]
+framework: decision
 ---
 
 Dejar de operar no es cerrar una empresa. Una Sdn Bhd en silencio sigue

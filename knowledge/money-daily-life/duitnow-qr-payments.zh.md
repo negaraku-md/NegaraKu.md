@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "payment-regulation-malaysia" }
 related: ["bank-negara-malaysia", "payment-regulation-malaysia"]
 keywords: ["DuitNow", "DuitNow QR", "PayNet", "pembayaran segera Malaysia", "kod QR Malaysia", "pindahan wang guna nombor telefon", "Bank Negara Malaysia pembayaran digital"]
+framework: explainer
 ---
 
 一位夜市摊贩只展示一个二维码。使用 Maybank 应用程式的顾客扫描了它。下一位顾客使用

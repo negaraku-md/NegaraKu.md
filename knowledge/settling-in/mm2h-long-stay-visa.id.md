@@ -85,6 +85,7 @@ faq:
     a: 'Tidak. MOTAC mengizinkan penarikan maksimum 50% dari pokok deposito berjangka setelah persetujuan, dan hanya untuk tujuan tertentu: membeli tempat tinggal yang diwajibkan, atau untuk pendidikan, pengobatan, atau kegiatan pariwisata di Malaysia. Ini adalah pelepasan bersyarat, bukan rekening untuk penggunaan umum. Sisa saldo harus tetap berada di bank Malaysia; dana asing dan keuntungan yang diperoleh dari deposito selama mengendap di sana memiliki pembebasan pajak sebagaimana dinyatakan.'
   - q: Siapa yang sebenarnya menyetujui permohonan MM2H — MOTAC atau Imigrasi?
     a: Keduanya, dengan peran yang berbeda. MOTAC menjalankan program dan menetapkan persyaratan setiap tingkat, tetapi persetujuan imigrasi akhir, pengesahan pas, dan setiap banding berada di tangan Kementerian Dalam Negeri melalui Departemen Imigrasi (Jabatan Imigresen Malaysia). Permohonan diajukan oleh agen MM2H berlisensi melalui One Stop Centre. Jadi hubungi MOTAC untuk pertanyaan persyaratan tingkat dan Imigrasi untuk urusan persetujuan atau pengesahan — dua otoritas, dua yurisdiksi.
+framework: explainer
 ---
 
 Cari "berapa lama pas MM2H Silver berlaku" dan Anda akan menemukan panduan yang dengan

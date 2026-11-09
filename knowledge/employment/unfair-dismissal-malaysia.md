@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "domestic-inquiry-malaysia" }
 related: ["labour-law-map-malaysia", "termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
 keywords: ["unfair dismissal malaysia", "section 20 industrial relations act", "60 days filing dismissal", "industrial court malaysia", "backwages cap 24 months", "compensation in lieu of reinstatement"]
+framework: how-to
 ---
 
 Sixty days. That is the whole game, and it is where most Malaysian unfair dismissal claims die — not on the merits, but because the employee spent seven weeks negotiating with HR, another two waiting for a reply that never came, and filed on day sixty-three.

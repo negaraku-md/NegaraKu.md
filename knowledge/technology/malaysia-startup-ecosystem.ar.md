@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "digital-economy-overview" }
 related: ["mdec-digital-status", "sme-financing-malaysia", "equity-crowdfunding-p2p-malaysia", "cyberjaya-tech-hub", "digital-economy-overview"]
 keywords: ["منظومة الشركات الناشئة في ماليزيا", "Malaysia startup ecosystem", "Cradle Fund CIP Spark", "MRANTI", "النافذة الموحَّدة MYStartup", "MAVCAP", "Jelawang Capital", "رأس المال الجريء في ماليزيا", "KL20"]
+framework: explainer
 ---
 
 اسأل عشرة من مؤسِّسي الشركات الماليزيين من أين يأتي مال الشركات الناشئة الحكومي وستحصل على عشرة اختصارات مختلفة. الجهاز حقيقي وسخيّ، لكنه منتشر عبر وكالات يملك كل منها شريحةً — مِنَح هنا، ومساحة مختبر هناك، ورأس مال جريء في مكان آخر مجددًا — ومعرفة أي باب تطرق توفّر شهورًا.

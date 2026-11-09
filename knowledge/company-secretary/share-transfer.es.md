@@ -137,6 +137,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["stamp-duty-share-transfer", "register-of-members", "share-allotment", "share-transmission", "capital-gains-tax", "beneficial-ownership"]
 keywords: ["transferencia de acciones Malasia", "share transfer Malaysia", "transferir acciones Sdn Bhd", "transfer shares Sdn Bhd", "Form 32A transferencia de acciones", "Form 32A share transfer", "sección 106 Companies Act 2016", "section 106 Companies Act 2016", "impuesto de timbre transferencia de acciones 30 días"]
+framework: how-to
 ---
 
 Una transferencia de acciones en una Sdn Bhd falla de una de dos maneras. O alguien

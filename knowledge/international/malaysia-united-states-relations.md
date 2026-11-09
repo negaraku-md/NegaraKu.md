@@ -108,6 +108,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-china-relations", "malaysia-asean-membership"]
 keywords: ["Malaysia US relations", "Comprehensive Strategic Partnership", "reciprocal trade agreement", "US tariff Malaysia", "semiconductors", "defence cooperation"]
+framework: explainer
 ---
 
 Barack Obama toured Masjid Negara, Kuala Lumpur's National Mosque, in 2014; Anwar Ibrahim shook hands with Donald Trump over a signed trade pact in 2025. Two very different American presidents, one durable relationship — and a Malaysian habit of getting close to Washington without ever standing under its security umbrella.

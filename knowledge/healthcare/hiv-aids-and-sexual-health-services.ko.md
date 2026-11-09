@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "klinik-kesihatan-services" }
 related: []
 keywords: ["HIV", "AIDS", "ujian HIV", "PrEP", "PEP", "ART", "kesihatan seksual", "Majlis AIDS Malaysia", "Kementerian Kesihatan"]
+framework: explainer
 ---
 
 위험한 하룻밤 뒤 불안해진 사람은 말레이시아의 정부 클리닉 크시하탄에 걸어 들어가, 무료이고 비밀이 보장되는 HIV 검사를 받고 — 필요하다면 — 몇 시간 안에 예방약을 가지고 돌아갈 수 있습니다. 그러나 그 같은 길은 HIV를 이 나라에서 가장 민감한 건강 주제 중 하나로 만드는 기밀 유지, 법률, 종교, 낙인의 문제와도 교차합니다.

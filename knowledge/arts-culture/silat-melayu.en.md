@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["silat", "silat melayu", "seni silat", "silat pulut", "silat gayung", "PESAKA", "warisan budaya tidak ketara", "UNESCO Malaysia", "seni bela diri", "silat harimau"]
+framework: history-culture
 ---
 
 A good pesilat can break an opponent's bones — or dance before a bride without touching anyone. Both are silat. That is what is hardest to grasp about this art: it is not merely a method of fighting, and not merely a ceremonial dance. It is both, in the same body, moved by the same steps.

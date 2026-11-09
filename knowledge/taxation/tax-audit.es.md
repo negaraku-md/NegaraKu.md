@@ -104,6 +104,7 @@ relations:
   - { rel: "affects", to: "transfer-pricing-documentation" }
 related: ["transfer-pricing-documentation", "form-c-and-cp204", "withholding-tax-non-compliance"]
 keywords: ["auditoría fiscal LHDN", "audit cukai LHDN", "marco de auditoría fiscal Malasia", "divulgación voluntaria LHDN", "penalti audit cukai", "rangka kerja audit cukai"]
+framework: explainer
 ---
 
 La mayoría de las orientaciones sobre auditorías fiscales malasias describen una

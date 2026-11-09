@@ -63,6 +63,7 @@ keywords:
   - "monsoon Malaysia"
   - "MetMalaysia"
   - "MyBIS"
+framework: explainer
 ---
 
 # เหตุใดมาเลเซียจึงเป็นหนึ่งในประเทศที่มีความหลากหลายทางชีวภาพสูงยิ่งของโลก

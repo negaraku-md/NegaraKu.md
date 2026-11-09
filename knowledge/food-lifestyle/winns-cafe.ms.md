@@ -74,6 +74,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#WinnsCafe", "#Peranakan", "#Nyonya", "#Penang", "#BibGourmand"]
+framework: profile
 ---
 
 Pulau Pinang ialah jantung lama masakan keturunan Cina Selat, dan Winn's Cafe

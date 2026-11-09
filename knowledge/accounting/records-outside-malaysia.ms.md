@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-accounting-records" }
 related: ["accounting-records-section-245"]
 keywords: ["rekod perakaunan luar Malaysia", "seksyen 245(5) Akta Syarikat", "rekod perakaunan awan Malaysia", "rekod pusat khidmat kongsi Malaysia", "simpan rekod di Malaysia LHDN"]
+framework: rules
 ---
 
 Anak syarikat Malaysia yang menjalankan SAP daripada pusat data Singapura, dengan

@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "malaysian-institute-of-accountants" }
 related: ["malaysian-institute-of-accountants"]
 keywords: ["ISA 600", "group audit", "component auditor", "group engagement partner", "Malaysia subsidiary audit", "MIA", "auditoría de grupo", "auditor de componente", "riesgo de agregación"]
+framework: explainer
 ---
 
 Una matriz alemana consolida su filial comercial de Kuala Lumpur, pero el socio de auditoría del grupo en Fráncfort nunca ha pisado Malasia y no lee los libros contables locales. Alguien en Malasia hace el trabajo de campo; sin embargo, la firma en la opinión del grupo sigue siendo solo del socio del grupo. Esa división es exactamente lo que la norma de auditoría de grupo está construida para regir.

@@ -92,6 +92,7 @@ keywords:
   - "Sukan Untuk Semua"
   - "pembiayaan atlet elit"
   - "Institut Sukan Negara Podium"
+framework: explainer
 ---
 
 每当一名马来西亚运动员踏上奥运颁奖台，其背后其实有两套截然不同的系统在运作——一套试图带动全体国民动起来，另一套则把庞大资源集中投向少数有能力夺胜的人。两者都活在同一份政策文件之下，但资助与衡量的方式却大相径庭。

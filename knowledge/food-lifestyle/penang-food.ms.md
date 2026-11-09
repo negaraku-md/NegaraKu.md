@@ -98,6 +98,7 @@ verificationNeeded:
   - "Kedudukan CNN bagi asam laksa Pulau Pinang (dilaporkan ke-7) telah muncul dalam beberapa senarai makanan CNN pada tahun yang berbeza (asalnya sekitar 2011, dipromosi semula kemudian); sahkan senarai, kedudukan dan tahun yang tepat berdasarkan sumber CNN secara langsung."
   - "White curry mee lazimnya dikaitkan dengan Pulau Pinang dan Ipoh tetapi tidak didokumentasikan dalam gambaran umum masakan Pulau Pinang di Wikipedia; sahkan pengaitannya dengan Pulau Pinang dan penerangannya berdasarkan sumber tempatan."
   - "Pengaitan gerai tertentu serta dakwaan 'terbaik' atau 'tertua' bagi lokasi penjaja (Gurney Drive, Lorong Selamat, New Lane, Air Itam, Chulia Street) adalah dipertikaikan dan berubah dari semasa ke semasa; sahkan gerai dan waktu operasi semasa sebelum memetiknya sebagai muktamad."
+framework: explainer
 ---
 
 Sedikit sahaja tempat yang memadatkan begitu banyak makanan dalam ruang yang begitu

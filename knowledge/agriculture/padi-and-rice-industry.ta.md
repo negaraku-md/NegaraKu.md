@@ -100,6 +100,7 @@ entity: "Padi and rice industry in Malaysia"
 relations: []
 related: []
 keywords: ["padi", "rice industry Malaysia", "rice self-sufficiency level Malaysia", "SSL rice", "BERNAS", "Padiberas Nasional", "guaranteed minimum price padi", "Harga Minimum Terjamin", "MADA", "kawasan jelapang padi", "subsidi harga padi", "SSHP", "Dasar Agromakanan Negara 2.0", "National Agrofood Policy", "rice import Malaysia", "padi farmers Malaysia"]
+framework: profile
 ---
 
 மலேசியா தடையற்ற சந்தைக்கு விட்டுவைக்க மறுக்கும் ஒரே உணவு அரிசிதான். அது எங்கு விளைவிக்கப்படுகிறது என்பதை அரசு குவிக்கிறது, அதை விளைவிக்கும் விவசாயிகளைத் தாங்குகிறது, பற்றாக்குறையை இறக்குமதி செய்ய ஒரே நிறுவனத்திற்கு உரிமம் வழங்குகிறது, மேலும் வழங்கல் அதிர்ச்சிகளுக்கு எதிராக அவசரக் கையிருப்பை வைத்திருக்கிறது. ஆயினும் இந்த ஏற்பாடு பல பத்தாண்டுகளாக இருந்தும், நாடு இன்னும் தான் உண்ணும் அரிசியில் சுமார் பாதியை மட்டுமே விளைவிக்கிறது.

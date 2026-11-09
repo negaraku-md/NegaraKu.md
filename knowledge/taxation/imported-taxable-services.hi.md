@@ -74,6 +74,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-registration", "sst-02-filing", "sst-rate-table"]
 keywords: ["imported taxable services", "SST-02A", "section 26A service tax", "service tax on foreign services Malaysia", "self-accounting service tax"]
+framework: rules
 ---
 
 यह पूरी SST व्यवस्था में सबसे अधिक छूटने वाली देयता है, और कारण संरचनात्मक है: यह

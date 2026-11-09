@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "sale-and-purchase-agreement-property" }
 related: []
 keywords: ["HDA", "Akta 118", "APDL", "lesen pemaju", "Tribunal Tuntutan Pembeli Rumah", "projek terbengkalai", "SPNB", "KPKT", "perlindungan pembeli rumah"]
+framework: explainer
 ---
 
 คุณจ่ายเงินมัดจำแล้ว ลงนามในสัญญาซื้อขาย และรอกุญแจบ้าน จากนั้นไซต์ก่อสร้างก็เงียบสงัดไปหลายเดือน สำหรับผู้ซื้อบ้านที่อยู่อาศัยใหม่ในคาบสมุทรมาเลเซีย กฎหมายจัดให้มีการคุ้มครองหลายชั้นทั้งก่อน ระหว่าง และหลังจากสถานการณ์เช่นนี้เกิดขึ้น กุญแจสำคัญคือการรู้ว่าอะไรได้รับการคุ้มครองและจะไปที่ไหนเมื่อมีบางอย่างผิดพลาด

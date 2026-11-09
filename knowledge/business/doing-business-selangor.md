@@ -114,6 +114,7 @@ keywords:
   - "Selangor home business licence fee"
   - "Selangor council licensing"
   - "Port Klang TEU"
+framework: profile
 ---
 
 Kuala Lumpur has one licensing authority. Selangor, which surrounds it, has twelve —

@@ -122,6 +122,7 @@ relations:
   - { rel: "related-to", to: "communications-and-multimedia-act-1998" }
 related: []
 keywords: ["online safety act 2025", "act 866 malaysia", "online safety plan malaysia", "harmful content malaysia", "mcmc online safety"]
+framework: rules
 ---
 
 马来西亚的 Online Safety Act 2025 常被形容为一部社交媒体法。其实不太是。它是一部

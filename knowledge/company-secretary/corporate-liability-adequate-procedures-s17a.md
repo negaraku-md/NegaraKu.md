@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016"]
 keywords: ["Section 17A", "MACC Act", "corporate liability", "adequate procedures", "T.R.U.S.T.", "anti-corruption Malaysia", "corporate bribery", "GIACC"]
+framework: rules
 ---
 
 A junior sales agent pays a kickback to win a contract, and never tells the board. Under Malaysian law since 2020, that act can expose the company itself to prosecution — and the directors alongside it. That is the reach of Section 17A of the Malaysian Anti-Corruption Commission Act 2009.

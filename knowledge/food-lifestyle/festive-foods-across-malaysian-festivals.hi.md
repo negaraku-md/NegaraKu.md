@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "kaamatan" }
 related: ["hari-raya-aidilfitri", "chinese-new-year", "deepavali", "christmas-malaysia", "gawai-dayak", "kaamatan"]
 keywords: ["त्योहारी व्यंजन", "रया का भोजन", "ketupat", "rendang", "lemang", "yee sang", "lou sang", "murukku", "manok pansuh", "hinava", "tuak", "tumpung", "खुला घर", "kuih raya"]
+framework: history-culture
 ---
 
 मलेशियाई कैलेंडर को साल के एक छोर से दूसरे छोर तक निहारें, तो आप केवल तारीख़ें नहीं बदल रहे — आप रसोइयाँ बदल रहे हैं। इस महीने rendang की महक और lemang के नारियल दूध की गंध है; कुछ महीने बाद मेज़ कच्ची मछली के सलाद से भरी है जिसे लोगों के जयकारों के बीच ऊँचा उठाया जाता है; फिर बारी आती है कुरकुरे murukku के छल्लों की, और अंत में एक चीरी हुई बाँस की गाँठ टूटकर भाप उड़ाता मुर्गा छोड़ती है।

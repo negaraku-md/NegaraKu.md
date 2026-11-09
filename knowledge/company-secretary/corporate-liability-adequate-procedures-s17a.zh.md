@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016"]
 keywords: ["Section 17A", "MACC Act", "corporate liability", "adequate procedures", "T.R.U.S.T.", "anti-corruption Malaysia", "corporate bribery", "GIACC"]
+framework: rules
 ---
 
 一名初级销售代理为赢得一份合约而支付回扣，却从未告知董事会。根据2020年以来的马来西亚法律，这一行为可能使公司本身面临起诉——连同其董事一并被追究。这正是《2009年马来西亚反贪污委员会法令》第17A条的适用范围。

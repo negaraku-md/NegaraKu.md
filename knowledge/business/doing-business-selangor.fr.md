@@ -115,6 +115,7 @@ keywords:
   - "Selangor home business licence fee"
   - "Selangor council licensing"
   - "Port Klang TEU"
+framework: profile
 ---
 
 Kuala Lumpur a une autorité de licences. Selangor, qui l'entoure, en a douze — et une usine à

@@ -88,6 +88,7 @@ verificationNeeded:
   - "アパム・バリとインドネシアの martabak manis / terang bulan との正確な関係（厳密に同じ料理なのか、別々の地域的発展なのか）——信頼できる料理の文献で確認すること。"
   - "地域名（ban jian kueh、min chiang kueh、hok lo pan、kuih haji、apom balek など）の広がりと、特定の共同体や方言への正確な対応——言語学的または文化遺産の資料で確認すること。食メディアでの名前の帰属は一貫していない。"
   - "薄くてパリッとした版が普遍的に ban jian kueh / min chiang kueh と同一のものなのか、それとも関連するが別個の軽食なのか——資料は重なり合うが一貫していない。地元の文化遺産の資料で確認すること。"
+framework: explainer
 ---
 
 夕暮れどきにマレーシアのほとんどどの[ナイトマーケット](/ja/food-lifestyle/pasar-malam-and-street-food)

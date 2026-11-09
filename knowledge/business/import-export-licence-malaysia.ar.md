@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "hs-code-classification-malaysia" }
 related: ["sales-and-service-tax"]
 keywords: ["رخصة استيراد ماليزيا", "تصريح تصدير ماليزيا", "التصريح المعتمَد AP", "تصريح استيراد SIRIM", "تصريح MAQIS", "تسجيل الجمارك ماليزيا", "import licence Malaysia", "export permit Malaysia", "ePermit", "uCustoms", "MyTRADELINK"]
+framework: rules
 ---
 
 حاويتك واقفة في ميناء كلانغ (Port Klang) ولن تتحرك — لأن في مكان ما بين الفاتورة وبيان الشحن تصريحًا واحدًا مفقودًا. في ماليزيا لا توجد «رخصة استيراد وتصدير» واحدة تعلّقها على الجدار. فما يُفرِج عن السلع هو *حزمة* من التسجيلات والموافقات، كلٌّ منها تملكه جهة مختلفة، وكلٌّ منها مرتبط بما تشحنه فعليًا.

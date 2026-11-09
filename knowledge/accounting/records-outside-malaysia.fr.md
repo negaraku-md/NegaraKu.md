@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-accounting-records" }
 related: ["accounting-records-section-245"]
 keywords: ["registres comptables hors de Malaisie", "section 245(5) Companies Act", "registres comptables en nuage Malaisie", "registres centre de services partagés Malaisie", "conserver les registres en Malaisie LHDN"]
+framework: rules
 ---
 
 Une filiale malaisienne qui fait tourner SAP depuis un centre de données de Singapour,

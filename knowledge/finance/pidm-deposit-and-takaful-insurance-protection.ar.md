@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "fixed-deposit-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["PIDM", "التأمين على الودائع", "RM250000", "حماية التكافل", "TIPS", "Perbadanan Insurans Deposit Malaysia", "Malaysia Deposit Insurance Corporation Act 2011", "حماية منافع التأمين"]
+framework: explainer
 ---
 
 إذا انهار بنك ماليزي غدًا، فإن الأموال في حساب توفيرك لن تزول معه. فحتى RM250,000 منها مدعومة بنظام حماية تديره الحكومة اسمه PIDM — ولم تسجّل له قط، ولم تدفع مقابله قط، وربما لم تلاحظه قط.

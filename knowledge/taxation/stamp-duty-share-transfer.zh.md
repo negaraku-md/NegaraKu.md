@@ -91,6 +91,7 @@ relations:
   - { rel: "part-of", to: "stamp-duty-rates" }
 related: ["stamp-duty-rates", "capital-gains-tax", "stamp-duty-self-assessment", "share-capital-malaysia"]
 keywords: ["stamp duty share transfer Malaysia", "Form 32A", "Form of Transfer of Securities section 105", "NTA valuation stamp duty", "0.3% share transfer duty"]
+framework: rules
 ---
 
 关于股份转让盖印花，多数马来西亚实务笔记里仍有两件事是错的：它们叫你用的那份表格

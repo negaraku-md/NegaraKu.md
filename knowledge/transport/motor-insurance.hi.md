@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "road-tax-renewal" }
 related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["मलेशिया में मोटर बीमा", "तृतीय-पक्ष बीमा", "सड़क परिवहन अधिनियम 1987", "व्यापक बीमा", "सड़क कर", "धारा 90", "PIAM", "मोटरसाइकिल बीमा", "Road Transport Act 1987", "insurans kenderaan Malaysia"]
+framework: explainer
 ---
 
 आप क़ानूनी रूप से एक ऐसी कार चला सकते हैं जो कभी धुली ही न हो, जिसके टायर घिसे हुए हों और एयर कंडीशनर टूटा हो। लेकिन एक अकेले काग़ज़ के बिना गाड़ी चलाना — एक तृतीय-पक्ष बीमा पॉलिसी — एक आपराधिक अपराध है।

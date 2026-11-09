@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["ماليزيا الأمم المتحدة", "United Nations Malaysia", "مجلس الأمن الدولي", "قوات حفظ السلام", "UNIFIL", "عضوية الأمم المتحدة", "الدبلوماسية الماليزية"]
+framework: explainer
 ---
 
 بعد 17 يوماً فقط من إعلان تونكو عبد الرحمن «مرديكا» (الاستقلال) في استاد مرديكا،

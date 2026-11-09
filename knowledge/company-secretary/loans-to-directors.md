@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "disclosure-of-interest" }
 related: ["directors-duties", "disclosure-of-interest", "directors-fees-approval"]
 keywords: ["loan to director Malaysia", "section 224 Companies Act 2016", "director current account Sdn Bhd", "exempt private company loan director", "pinjaman kepada pengarah syarikat", "section 225 connected person loan"]
+framework: rules
 ---
 
 The company account pays the director's car instalment. It is coded to "director's

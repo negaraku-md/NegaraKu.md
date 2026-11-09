@@ -103,6 +103,7 @@ relations:
   - { rel: "administered-by", to: "lembaga-pembangunan-langkawi" }
 related: ["kedah"]
 keywords: ["Langkawi", "isla libre de impuestos", "Geoparque Mundial de la UNESCO", "SkyCab", "SkyBridge", "salto entre islas", "Kilim", "Dayang Bunting", "mar de Andamán", "Kedah"]
+framework: profile
 ---
 
 Noventa y nueve islas, rocas más antiguas que los peces, whisky barato y un teleférico que cuelga de la ladera de una montaña formada por roca estimada en más de 550 millones de años — Langkawi concentra una cantidad inusual de cosas en un solo archipiélago frente a la punta noroeste de Malasia. Es la isla vacacional emblemática de la costa oeste del país, y funciona con una lógica casi opuesta a la de las islas de buceo bordeadas de palmeras del otro lado de la península. Esta guía cubre lo que de verdad importa antes de ir: las normas de zona franca que hacen tropezar a la gente, el geoparque de la UNESCO que da trasfondo al paisaje, el SkyCab y el SkyBridge, las excursiones en barco que vale la pena hacer, y cómo decidir entre Langkawi y la costa este.

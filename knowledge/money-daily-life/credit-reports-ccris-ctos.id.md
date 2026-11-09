@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "credit-reporting-agencies-act-2010" }
 related: []
 keywords: ["CCRIS", "CTOS", "laporan kredit", "skor kredit", "eCCRIS", "Bank Negara Malaysia", "Akta Agensi Pelaporan Kredit 2010"]
+framework: explainer
 ---
 
 Anda mengajukan pinjaman perumahan, semuanya tampak rapi, tetapi bank menolak pengajuan itu tanpa banyak penjelasan. Di balik keputusan itu seringkali ada dua nama yang jarang disebut kepada Anda secara terang: CCRIS dan CTOS. Keduanya menyimpan gambaran tentang cara Anda mengelola uang, dan Anda berhak melihat apa yang tertulis di dalamnya.

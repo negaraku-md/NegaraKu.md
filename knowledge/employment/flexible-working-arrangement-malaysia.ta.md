@@ -72,6 +72,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-act-1955-guide", "working-hours-overtime-malaysia", "employment-contract-malaysia"]
 keywords: ["flexible working arrangement malaysia", "fwa malaysia employment act", "section 60p 60q", "work from home request malaysia", "flexible work application malaysia"]
+framework: rules
 ---
 
 நெகிழ்வான பணி குறித்த மலேசிய செய்தி வெளியீடுகளில் பெரும்பாலானவை, முதலாளி வழங்கத்

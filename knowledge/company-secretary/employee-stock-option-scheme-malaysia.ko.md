@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "perquisites-and-benefits-in-kind-tax" }
 related: ["companies-act-2016"]
 keywords: ["ESOS malaysia", "employee share option scheme malaysia", "ESOP malaysia tax", "share option perquisite malaysia", "section 75 companies act 2016", "bursa 15% share scheme", "how ESOS is taxed malaysia"]
+framework: explainer
 ---
 
 현금이 부족한 스타트업과 인재 유지를 좇는 성숙한 회사는 같은 도구에 손을 뻗습니다.

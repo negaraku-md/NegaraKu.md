@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-jakim" }
 related: ["hari-raya-aidilfitri"]
 keywords: ["bazar ramadan", "ramadan bazaar malaysia", "juadah berbuka puasa", "etika bulan puasa", "lesen penjaja bazar"]
+framework: explainer
 ---
 
 每逢斋月傍晚亚萨（Asar）祷告时分临近，一排排白色帐篷便骤然在路旁竖起，香烤鸡的蒸气在炭火上翻腾升起，roti john 的香味混着玫瑰奶（air bandung）把人们从家里吸引出来。这就是斋月市集——一个一年只出现一个月的季节性市集，却早已成为马来西亚社会生活节奏的一部分。

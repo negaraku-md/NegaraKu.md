@@ -98,6 +98,7 @@ verificationNeeded:
   - "La posición de CNN para el asam laksa de Penang (reportada como la 7.ª) ha aparecido en varias recopilaciones gastronómicas de CNN en distintos años (originalmente hacia 2011, repromocionada después); confírmense la lista, el puesto y el año exactos directamente con la fuente de CNN."
   - "El white curry mee suele asociarse con Penang e Ipoh, pero no está documentado en la reseña general de la cocina de Penang de Wikipedia; confírmense su atribución a Penang y su descripción frente a una fuente local."
   - "La atribución de puestos concretos y las afirmaciones de 'el mejor' o 'el más antiguo' para ubicaciones de puestos ambulantes (Gurney Drive, Lorong Selamat, New Lane, Air Itam, Chulia Street) son objeto de disputa y cambian con el tiempo; verifíquense los puestos y horarios actuales antes de citar alguno como definitivo."
+framework: explainer
 ---
 
 Pocos lugares concentran tanto para comer en tan poco terreno como Penang. En George Town,

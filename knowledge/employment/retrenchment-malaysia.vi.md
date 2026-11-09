@@ -121,6 +121,7 @@ relations:
   - { rel: "requires", to: "termination-benefits-malaysia" }
 related: ["termination-of-employment-malaysia", "termination-benefits-malaysia", "unfair-dismissal-malaysia", "offboarding-statutory-checklist"]
 keywords: ["retrenchment malaysia", "form pk malaysia", "borang pk", "redundancy malaysia procedure", "retrenchment notification 30 days", "VSS malaysia", "LIFO retrenchment malaysia"]
+framework: rules
 ---
 
 Hãy tìm kiếm thời hạn Mẫu PK và bạn sẽ thấy "30 ngày" được lặp lại trên hàng chục trang nhân sự của Malaysia như thể đó là toàn bộ câu trả lời. Nó chỉ là khoảng một phần ba của câu trả lời. Bản thân mẫu — tệp PDF thực tế mà JTKSM công bố — đặt ra **ba thời hạn riêng biệt**, và hai trong số đó rơi vào *sau* khi việc cắt giảm lao động đã xảy ra.

@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "sabah-visitor-guide" }
 related: ["sabah-visitor-guide"]
 keywords: ["Sarawak travel", "Sarawak immigration", "Kuching guide", "Gunung Mulu National Park", "Iban longhouse", "Bidayuh longhouse", "Sarawak entry pass", "Borneo travel"]
+framework: explainer
 ---
 
 Puedes volar de Kuala Lumpur a Kuching en menos de dos horas, no salir nunca de tu propio país y aun así recibir un sello de inmigración al otro extremo. Esa sorpresa en la sala de llegadas es lo más importante que hay que entender sobre Sarawak: es un estado malasio que gestiona su propia frontera.

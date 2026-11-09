@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "pdpa-2010" }
 related: ["mykad", "jpn", "pdpa-2010"]
 keywords: ["mydigital id", "मलेशिया राष्ट्रीय डिजिटल पहचान", "identiti digital nasional malaysia", "myniise", "myjpj mydigital id", "mydigital id पंजीकरण"]
+framework: explainer
 ---
 
 हो सकता है आप इससे पहले ही बिना जाने टकरा चुके हों: एक नई लॉगिन स्क्रीन जो तब प्रकट होती है जब आप MyJPJ खोलते हैं या अपना रोड टैक्स नवीनीकृत करने की कोशिश करते हैं। वह MyDigital ID है, और पूरे 2026 में यह कुछ वैकल्पिक से बढ़ते हुए सरकारी सेवाओं की संख्या में एकमात्र प्रवेश-द्वार बनता जा रहा है।

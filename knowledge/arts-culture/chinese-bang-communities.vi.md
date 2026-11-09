@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-dialects", "chinese-clan-associations", "chinese-cemeteries", "chinese-new-villages", "population-composition"]
 keywords: ["帮群", "方言群", "籍贯", "福建帮", "广府帮", "客家帮", "潮州帮", "海南帮", "会馆", "义山", "马来西亚华人", "海南咖啡", "锡矿", "Chinese bang communities Malaysia"]
+framework: history-culture
 ---
 
 Trên những con phố cổ của Penang, các cửa hiệu nâng đỡ cả một dãy mặt tiền phần nhiều là cơ sở buôn bán của người Phúc Kiến; ở những đô thị hưng thịnh nhờ thiếc như Kuala Lumpur và Ipoh, hầm mỏ và phường hội chật ních người Quảng Phủ và Khách Gia; và bước vào bất cứ thị trấn nào, quán cà phê cũ bán cà phê Hải Nam cùng bánh mì nướng phết bơ và kaya ấy, phía sau quầy thường là một người Hải Nam.

@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "statutory-registers" }
 related: ["beneficial-ownership", "ebos-filing", "who-is-a-beneficial-owner", "bo-non-cooperation", "statutory-registers"]
 keywords: ["daftar pemilik benefisial Malaysia", "seksyen 60B Akta Syarikat", "daftar BO pejabat berdaftar", "penyimpanan pemilikan benefisial 7 tahun", "daftar berkanun pemilik benefisial"]
+framework: rules
 ---
 
 Minta seorang sekretaris perusahaan Malaysia mengeluarkan daftar pemilik

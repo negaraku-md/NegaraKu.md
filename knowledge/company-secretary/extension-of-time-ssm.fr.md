@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "ssm-late-lodgement-fees" }
 related: ["financial-statements-lodgement", "mbrs-2", "ssm-late-lodgement-fees", "sdn-bhd-filing-calendar", "annual-return"]
 keywords: ["prorogation de délai SSM", "extension of time SSM", "EOT SSM Malaisie", "Practice Note 3/2018", "article 259(2) Companies Act 2016", "prorogation délai états financiers Malaisie", "demande EOT secrétaire de société"]
+framework: how-to
 ---
 
 La plupart des demandes de prorogation rejetées ne le sont pas sur le fond. Elles

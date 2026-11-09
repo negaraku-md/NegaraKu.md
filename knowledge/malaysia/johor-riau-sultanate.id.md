@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "straits-settlements" }
 related: ["melaka-sultanate", "portuguese-melaka-1511", "straits-settlements", "singapore-separation-1965"]
 keywords: ["Kesultanan Johor-Riau", "Kesultanan Johor", "Sultan Alauddin Riayat Shah II", "Sultan Mahmud Shah", "waris Kesultanan Melaka", "Johor Lama", "Dinasti Bendahara", "Riau-Lingga", "institusi diraja Melayu"]
+framework: history-culture
 ---
 
 Pada 1511, meriam Portugis meruntuhkan sebuah kota — tetapi bukan sebuah takhta. Ketika Kota Melaka tumbang, Sultan Mahmud Shah, sultan Melaka terakhir, tidak menyerah. Baginda mundur ke selatan bersama keluarga kerajaan, para pembesar, dan yang paling penting, keseluruhan susunan institusi yang menjadikan Melaka sebuah kesultanan. Kota itu hilang; kesultanan itu bergerak.

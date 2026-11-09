@@ -97,6 +97,7 @@ keywords:
   - "study visa Malaysia international student"
   - "i-Kad Malaysia"
   - "Malaysia student visa process"
+framework: explainer
 ---
 
 你不能自行申请马来西亚学生签证。即使手上已经拿到录取信、也缴清了费用，申请仍须经由你的院校办理——因为负责审核的机构根本不是移民局，至少一开始不是。它是一家公司。

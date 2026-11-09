@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "myinvois-phases" }
 related: ["e-invoicing", "myinvois-phases", "e-invoice-data-fields", "consolidated-e-invoice", "self-billed-e-invoice"]
 keywords: ["MyInvois एकीकरण", "MyInvois API", "MyInvois पोर्टल", "Peppol मलेशिया", "ई-चालान मिडलवेयर", "ई-चालान मार्ग चयन", "MyInvois integration", "MyInvois API"]
+framework: decision
 ---
 
 इस निर्णय के बारे में जो कुछ भी लिखा गया है, वह लगभग पूरा का पूरा किसी ऐसे व्यक्ति ने

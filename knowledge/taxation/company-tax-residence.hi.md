@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "permanent-establishment" }
 related: ["corporate-tax-rates", "income-tax-act-1967", "lhdn", "sdn-bhd"]
 keywords: ["कंपनी कर-निवास मलेशिया", "प्रबंधन और नियंत्रण", "धारा 8 आय कर अधिनियम", "taraf mastautin syarikat", "resident company Malaysia"]
+framework: explainer
 ---
 
 एक मलेशियाई Sdn Bhd जिसके तीनों निदेशक सिंगापुर में रहते हैं, वीडियो कॉल से मिलते

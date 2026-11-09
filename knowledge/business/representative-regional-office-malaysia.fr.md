@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "foreign-company-branch-malaysia" }
 related: ["mida"]
 keywords: ["bureau de représentation Malaisie", "bureau régional Malaisie", "representative office malaysia", "regional office malaysia", "MIDA RE RO", "entrée sur le marché Malaisie", "bureau non commercial"]
+framework: explainer
 ---
 
 Une compagnie étrangère qui veut des gens sur le terrain en Malaisie — pour dimensionner le marché, mener de la recherche produit ou coordonner ses filiales régionales — n'a pas à constituer une compagnie commerciale imposable pour le faire. La Malaisie offre un statut non commercial conçu spécifiquement pour cela : le bureau de représentation (RE) ou le bureau régional (RO), approuvé par l'Autorité de développement des investissements de Malaisie (MIDA).

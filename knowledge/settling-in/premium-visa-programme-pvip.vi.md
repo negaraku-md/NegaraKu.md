@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["mm2h-long-stay-visa", "employment-pass", "dependant-social-visit-passes", "moving-to-malaysia-first-steps"]
 keywords: ["PVIP", "Premium Visa Programme", "Program Visa Premium", "Malaysia residency visa", "residency by investment", "20-year visa Malaysia", "PVIP fixed deposit", "PVIP requirements"]
+framework: explainer
 ---
 
 Mua một căn nhà, thuê nhân viên, ghi danh con vào trường, và không bao giờ theo dõi bạn dành bao nhiêu ngày một năm trong nước: đó là những quyền cốt lõi mà Malaysia trao cho người nước ngoài giàu có qua Chương trình Visa Cao cấp. Được Bộ Nội vụ công bố vào tháng 9 năm 2022 và mở cho người nộp đơn từ ngày 1 tháng 10 năm 2022, PVIP (Program Visa Premium) là một visa cư trú theo đầu tư trao cho người nộp đơn đủ điều kiện lên đến hai thập kỷ cư trú ổn định tại Malaysia. Rất dễ nhầm nó với chương trình Malaysia My Second Home (MM2H) cũ hơn, nhưng hai cái do các bộ khác nhau vận hành và nhắm đến những người nộp đơn khác nhau.

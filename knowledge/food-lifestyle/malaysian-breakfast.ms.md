@@ -93,6 +93,7 @@ verificationNeeded:
   - "Etimologi 'roti canai' diperdebatkan (satu riwayat menjejakinya ke Chennai/Madras, satu lagi ke perkataan Melayu 'canai' yang bermaksud meleperkan atau menggulung doh); sahkan dengan sumber linguistik atau leksikografi dan bukannya media makanan."
   - "Riwayat popular bahawa teh tarik muncul daripada budaya gerai Muslim-India pada zaman selepas perang tidak didokumentasikan dengan kukuh; sahkan asal usul dan garis masa minuman ini dengan sumber sejarah."
   - "Pengaitan tradisi kopitiam dengan tukang masak Cina Hainan dan dakwaan bahawa kaya toast dengan telur separuh masak ialah sarapan tandanya perlu disahkan dengan sumber kulinari atau warisan Malaysia, kerana sebahagian daripada sejarah ini dikongsi dan diperdebatkan dengan Singapura."
+framework: history-culture
 ---
 
 Tanya apa yang orang Malaysia makan untuk sarapan dan jawapan yang jujur ialah:

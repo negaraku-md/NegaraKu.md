@@ -108,6 +108,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.259"
     consequence: "Fine up to RM50,000, plus RM1,000 a day for a continuing offence"
+framework: explainer
 ---
 
 மலேசியாவில் உள்ள ஒவ்வொரு தணிக்கை நிறுவனமும் உங்களுக்கு ஏன் ஒரு தணிக்கை தேவை

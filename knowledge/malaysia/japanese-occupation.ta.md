@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["independence-1957", "formation-of-malaysia-1963", "melaka-sultanate"]
 keywords: ["pendudukan Jepun", "Tanah Melayu 1941-1945", "duit pisang", "Kota Bharu 1941", "pentadbiran tentera Jepun", "Perang Dunia Kedua Malaysia"]
+framework: history-culture
 ---
 
 எட்டு வாரங்கள். கிளந்தான் கடற்கரையில் ஜப்பானியப் படைகள் முதன்முதலில் இறங்கிய நாளுக்கும் மலாயா முழுவதும் ஜப்பானியர் கையில் வந்த நாளுக்கும் இடையிலான இடைவெளி அதுதான் — ஒன்றரை நூற்றாண்டுக்கும் மேலாக பல்வேறு வடிவங்களில் பிரித்தானியரால் ஆளப்பட்ட ஒரு பிரதேசம்.

@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "registered-office" }
 related: ["statutory-registers", "registered-office", "register-of-directors", "annual-return"]
 keywords: ["سجل الأعضاء ماليزيا", "register of members Malaysia", "المادة 50 قانون الشركات 2016", "section 50 Companies Act 2016", "إخطار المادة 51 SSM", "section 51 notification SSM", "daftar ahli syarikat", "سجل نقل الأسهم Sdn Bhd", "تقديم ROM خلال 14 يومًا"]
+framework: rules
 ---
 
 يلوّح مساهم بشهادة سهم أمام محامٍ ويقول إنه يملك 30% من الشركة. فيطلب المحامي سجل الأعضاء. فيُظهر 10%. وتخسر الشهادة.

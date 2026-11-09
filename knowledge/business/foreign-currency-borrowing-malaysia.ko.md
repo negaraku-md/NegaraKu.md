@@ -64,6 +64,7 @@ relations:
   - { rel: "part-of", to: "foreign-exchange-policy-malaysia" }
 related: ["foreign-exchange-policy-malaysia", "share-capital-malaysia"]
 keywords: ["foreign currency borrowing malaysia", "shareholder loan malaysia BNM", "offshore loan malaysia limit", "RM1억 borrowing limit", "FEP notice 2"]
+framework: rules
 ---
 
 외국 모회사가 자기 말레이시아 자회사를 자본금 대신 USD 주주 대여금으로 자금 조달하려 합니다.

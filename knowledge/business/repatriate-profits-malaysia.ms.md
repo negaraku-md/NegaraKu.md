@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "foreign-exchange-policy-malaysia" }
 related: ["foreign-exchange-policy-malaysia", "foreign-ownership-malaysia"]
 keywords: ["pulangkan untung malaysia", "cukai pegangan dividen malaysia", "sistem tier tunggal malaysia", "cukai dividen 2% malaysia", "pulangkan untung kepada syarikat induk"]
+framework: explainer
 ---
 
 Pengasas asing tiba dengan jangkaan wujudnya cukai pegangan dividen, kerana hampir setiap

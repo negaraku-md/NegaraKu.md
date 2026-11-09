@@ -70,6 +70,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["AnakBaba", "Peranakan", "BibGourmand", "MichelinGuideMalaysia", "Brickfields"]
+framework: profile
 ---
 
 Anak Baba, Brickfields — कुआलालंपुर के Little India — में स्थित एक पेरानाकन (Peranakan) भोजनालय है, जो [MICHELIN Guide Malaysia](/hi/food-lifestyle/michelin-guide-malaysia) में Bib Gourmand के साथ दिखाई देता है। MICHELIN Guide इसे "एक आरामदेह छोटा रत्न" कहता है।

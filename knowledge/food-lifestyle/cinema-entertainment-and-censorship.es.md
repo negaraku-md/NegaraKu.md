@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "consumer-protection-act" }
 related: ["sedition-act", "consumer-protection-act"]
 keywords: ["censura cinematográfica", "Junta de Censura Cinematográfica", "LPF", "clasificación de películas", "P12", "P13", "Film Censorship Act 2002", "licencia de entretenimiento", "karaoke", "cine", "DBKL", "autoridad local", "film classification Malaysia"]
+framework: explainer
 ---
 
 Una película que se vuelve viral en YouTube puede que nunca pase por la Junta de Censura Cinematográfica — pero la misma película, si va a proyectarse en un cine, debe obtener primero su sello de aprobación. Esa diferencia no es un resquicio accidental; está incorporada en la forma en que la ley malasia controla lo que el público puede ver.

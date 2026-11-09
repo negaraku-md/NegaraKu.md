@@ -77,6 +77,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["Thara", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 Restoran Thai bukanlah hal pertama yang terlintas di pikiran di George Town,

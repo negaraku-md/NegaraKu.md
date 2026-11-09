@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["hinduism-in-malaysia", "thaipusam", "deepavali", "estate-tamil-community", "pongal", "tamil-in-malaysia"]
 keywords: ["மாரியம்மன் வழிபாடு", "மாரியம்மன்", "அம்மன் வழிபாடு", "Mariamman worship", "Mariamman Malaysia", "ஸ்ரீ மகாமாரியம்மன் கோயில்", "தீமிதி"]
+framework: history-culture
 ---
 
 मलेशिया में लगभग किसी भी पुराने रबर बागान के पास, और शहरी केंद्रों की समय-बीती पुरानी सड़कों पर, एक मारीअम्मन मंदिर मिल ही जाता है। गेरुए-पीले रंग के मुख वाली अम्मन की मूर्ति, और वर्षा ऋतु से पहले होने वाले उत्सव, संयोग नहीं हैं — वे डेढ़ सदी से अधिक के एक तमिल समुदाय के इतिहास और आस्था की परंपरा को अपने भीतर समेटे हुए हैं।

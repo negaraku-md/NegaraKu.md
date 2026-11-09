@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["dewan-bahasa-dan-pustaka", "bahasa-melayu"]
 keywords: ["sastera Malaysia", "Sasterawan Negara", "Anugerah Sastera Negara", "sastera kebangsaan", "Dewan Bahasa dan Pustaka", "Sejarah Melayu", "hikayat", "syair"]
+framework: history-culture
 ---
 
 早在小说出现之前，也早在语文局成立之前，一位说书人（penglipur lara）就已在马六甲宫廷的庭院里传颂马来英雄。正是从那口头传统中，孕育出这一地区最丰厚的文学遗产之一——一个如今以国家封号、数十万令吉奖金以及在民族文明中的尊荣席位来礼赞的传统。

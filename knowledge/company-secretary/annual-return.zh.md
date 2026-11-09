@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "mbrs-2" }
 related: ["sdn-bhd-filing-calendar", "financial-statements-lodgement", "ssm-late-lodgement-fees", "mbrs-2", "statutory-registers", "appoint-company-secretary", "close-a-company"]
 keywords: ["annual return Malaysia", "section 68 Companies Act 2016", "SSM annual return deadline", "annual return year of incorporation", "annual return vs financial statements"]
+framework: rules
 ---
 
 有两件事把这项呈报搞错的次数超过其他任何事。第一是拿财政年结束日来定时间。第二是在公司

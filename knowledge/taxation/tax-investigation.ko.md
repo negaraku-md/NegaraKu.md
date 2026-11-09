@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "income-tax" }
 related: ["tax-audit"]
 keywords: ["siasatan cukai", "tax investigation", "LHDN", "Seksyen 114", "pengelakan cukai", "rangka kerja siasatan cukai", "audit cukai"]
+framework: explainer
 ---
 
 도착한 LHDN의 서신이 더 이상 증빙 서류를 요청하는 것이 아니라 귀하의 사업장이 검사될 것이라고 알리는 내용이라면, 귀하는 이미 감사와 조사 사이의 경계를 넘었을 수 있습니다. 두 가지 모두 말레이시아 국세청(LHDN, Lembaga Hasil Dalam Negeri)이 관여하지만, 그중 하나만이 형사 법원에서의 기소로 이어질 수 있습니다.

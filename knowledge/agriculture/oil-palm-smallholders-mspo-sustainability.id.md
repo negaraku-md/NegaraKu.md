@@ -81,6 +81,7 @@ relations:
   - { rel: "affects", to: "deforestation-and-forest-loss-in-malaysia" }
 related: ["palm-oil-sustainability-mspo-and-deforestation", "palm-oil-industry", "palm-oil-sustainability-certification", "deforestation-and-forest-loss-in-malaysia"]
 keywords: ["oil palm smallholders", "MSPO certification", "independent smallholders", "MS 2530:2022", "EUDR palm oil", "sustainable palm oil Malaysia"]
+framework: explainer
 ---
 
 Seorang petani di Bintulu yang bisa menelusuri setiap batas lot kelapa sawitnya dari ingatan kini terpaksa mengubah "peta mental" itu menjadi poligon GPS sebelum pembeli di Eropa mau menyentuh buahnya. Kesenjangan itu — antara mengenali tanah Anda dan mendokumentasikannya hingga memuaskan auditor — adalah kisah tersembunyi di balik ekonomi minyak sawit pekebun kecil Malaysia.

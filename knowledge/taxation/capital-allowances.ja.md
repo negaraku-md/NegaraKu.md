@@ -136,6 +136,7 @@ relations:
   - { rel: "related-to", to: "non-deductible-expenses" }
 related: ["losses-and-group-relief", "form-c-and-cp204", "basis-period-and-accounting-date"]
 keywords: ["capital allowance malaysia", "schedule 3 income tax act 1967", "initial allowance annual allowance", "balancing charge malaysia", "small value asset RM2000", "qualifying plant expenditure"]
+framework: explainer
 ---
 
 あなたの会計帳簿にある減価償却の行は、LHDNにとって何の価値もない。1967年所得税法（Income Tax Act 1967、Act 53）のs.39(1)(e)は、Schedule 3（所得税法第3附則）の目的上適格支出となるあらゆる支出について、その控除を認めない——そのため会計上の費用は全額加算して戻され、その資産が実際にどれだけの、そしていつ控除を得るかは、Schedule 3が独自の規定に基づいて決定する。

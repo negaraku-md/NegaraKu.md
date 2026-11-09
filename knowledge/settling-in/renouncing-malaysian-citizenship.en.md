@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "dual-citizenship-malaysia" }
 related: []
 keywords: ["melepaskan kewarganegaraan", "dwikewarganegaraan Malaysia", "Perkara 23", "Perkara 24", "Perlembagaan Persekutuan", "Borang K", "pelucutan kewarganegaraan", "JPN"]
+framework: explainer
 ---
 
 A Malaysian who takes an oath to become a citizen of another country is often shocked to find that their blue passport and MyKad are no longer valid — not because of some hidden administrative act, but because the Federal Constitution itself treats dual citizenship as something that is not recognised. The matter centres on two closely related provisions: Article 23 (voluntary renunciation) and Article 24 (deprivation upon the acquisition of foreign citizenship).

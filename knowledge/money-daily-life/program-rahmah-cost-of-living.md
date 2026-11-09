@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "inflation-cpi" }
 related: ["str-cash-aid", "fuel-subsidies", "subsidy-rationalisation-padu", "inflation-cpi"]
 keywords: ["Payung Rahmah", "Menu Rahmah", "Jualan Rahmah Madani", "PJRM", "Bakul Rahmah", "KPDN", "program kos sara hidup Malaysia", "makanan RM5", "jualan barangan keperluan murah"]
+framework: explainer
 ---
 
 Ramai orang pernah nampak logo payung "RAHMAH" di tingkap kedai makan atau di

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "parliament", "dewan-rakyat", "dewan-negara", "yang-di-pertuan-agong"]
 keywords: ["Jemaah Menteri", "Kabinet Malaysia", "Perdana Menteri Malaysia", "Perkara 43 Perlembagaan Persekutuan", "kepercayaan majoriti Dewan Rakyat", "tanggungjawab bersama", "Yang di-Pertuan Agong", "Perkara 40(2)"]
+framework: explainer
 ---
 
 Tiada seorang pun pengundi di Malaysia menandakan kertas undi bertulis "Perdana Menteri".

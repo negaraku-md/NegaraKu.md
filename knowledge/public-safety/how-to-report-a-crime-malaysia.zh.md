@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "data-breach-notification-malaysia" }
 related: ["online-safety-act-malaysia", "debt-recovery-malaysia", "data-breach-notification-malaysia"]
 keywords: ["laporan polis", "cara buat laporan polis", "e-reporting PDRM", "997 NSRC", "999 kecemasan", "Seksyen 107 Kanun Tatacara Jenayah"]
+framework: how-to
 ---
 
 你的车被撬开、钱包被抢，或款项未经授权从账户被转走——这三种情况下，接下来每一方（无论是保险公司、银行还是法庭）向你索取的第一份文件，都是你的报案编号。懂得正确地、并以正确的次序取得它，能省下数小时，有时还能保住你的钱。

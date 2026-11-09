@@ -89,6 +89,7 @@ verificationNeeded:
   - "Sama ada chilli pan mee kering 'dicipta' khusus di Restoran Kin Kin atau, lebih luas, di kawasan Chow Kit Kuala Lumpur — Wikipedia meletakkan asalnya di Chow Kit, manakala kaitan dengan Kin Kin tersebar luas dalam media makanan dan blog resipi tetapi tidak didokumenkan dengan kukuh."
   - "Tambahan standard, khususnya sama ada cendawan telinga kayu (dan bukan cendawan shiitake kering atau cendawan lain) adalah tradisional — resipi dan gerai yang berwibawa berbeza-beza; sahkan dengan sumber kulinari Malaysia."
   - "Hubungan dan penamaan antara pan mee dan mee hoon kueh, serta dakwaan bahawa kawasan berbahasa Hokkien (termasuk Singapura) lebih suka nama mee hoon kueh — sumber menggambarkannya sebagai rapat kaitannya atau hidangan sama di bawah label dialek berbeza; sahkan dengan sumber wilayah."
+framework: explainer
 ---
 
 Masuklah ke sebuah kedai kopi di Kuala Lumpur, Seremban atau Ipoh dan anda akan

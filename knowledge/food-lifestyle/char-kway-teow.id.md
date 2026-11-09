@@ -97,6 +97,7 @@ social:
     - "#PenangFood"
     - "#MalaysianFood"
     - "#StreetFood"
+framework: explainer
 ---
 
 Sedikit hidangan yang menangkap jajanan kaki lima Malaysia selengkap char kway

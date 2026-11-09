@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "members-voluntary-winding-up-malaysia" }
 related: []
 keywords: ["statutory declaration malaysia", "akuan berkanun", "commissioner for oaths malaysia", "statutory declarations act 1960", "false statutory declaration penalty", "declaration of solvency section 443"]
+framework: explainer
 ---
 
 Lambat-laun seorang pemilik perniagaan akan diserahkan satu dokumen dan diberitahu, "ini perlu menjadi akuan berkanun." Ia adalah salah satu formaliti undang-undang yang kedengaran lebih berat daripada yang sebenarnya — kenyataan bertulis yang anda sumpah adalah benar di hadapan seorang yang diberi kuasa — tetapi bebannya nyata: tandatangan satu yang palsu dan anda telah melakukan kesalahan jenayah. Berikut ialah apa itu akuan berkanun, siapa yang boleh mengambilnya, dan di mana ia muncul dalam kehidupan syarikat.

@@ -72,6 +72,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#GheeLian", "#Penang", "#BibGourmand", "#StreetFood", "#Malaysia"]
+framework: profile
 ---
 
 ‏tom yum تايلندي المولد، لكنه عند كشك طعام قرب Esplanade القديمة في جورج تاون يتّخذ

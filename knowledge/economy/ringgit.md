@@ -69,6 +69,7 @@ faq:
     a: No. Malaysia pegged the ringgit at 3.80 to the US dollar in September 1998 during the Asian Financial Crisis, alongside capital controls, and the peg held for nearly seven years. It was removed in 2005, and the ringgit returned to a managed float — market-determined, with Bank Negara Malaysia present only to smooth disorderly movement rather than to defend a particular level. There is no official "correct" level today.
   - q: Why is the rate my bank or money changer gives me worse than BNM's published rate?
     a: Because BNM's KL USD/MYR reference rate is a market benchmark computed from the interbank market, used for contracts and valuation — not a retail price. Banks and money changers add their own spread on top, so you will always transact at a worse rate than the reference. The reference rate was 4.0841 as at 23 October 2026, but that is the benchmark, not what a customer actually pays at the counter.
+framework: explainer
 ---
 
 ## At a glance

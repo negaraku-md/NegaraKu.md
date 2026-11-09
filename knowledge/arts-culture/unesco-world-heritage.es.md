@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "George Town Melaka inscription criteria", "Gunung Mulu World Heritage", "Lenggong Valley Perak Man", "Niah Caves UNESCO 2024", "Patrimonio Mundial UNESCO Malasia"]
+framework: data-reference
 ---
 
 Pregunta cuántos sitios del Patrimonio Mundial tiene Malasia y la mayoría de las fuentes te dirán cuatro. Eso fue cierto hasta 2024. El Complejo de Cuevas de Niah se inscribió aquel julio, y el Parque Forestal del Instituto de Investigación Forestal de Malasia en Selangor le siguió en 2025, con lo que el total asciende a seis.

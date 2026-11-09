@@ -79,6 +79,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: explainer
 ---
 
 Every year, around the time the rest of the world is heading into winter, Malaysia's east coast braces itself. Boats are pulled up, island resorts shut their doors, flood-relief centres are readied, and families in low-lying towns watch the rivers. This is the **northeast monsoon** — the single biggest influence on Malaysia's weather, and the reason the country effectively has a distinct wet season rather than year-round uniform tropical rain.

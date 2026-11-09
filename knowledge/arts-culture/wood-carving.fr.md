@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "pewter" }
 related: ["songket", "jawi-script", "pewter", "terengganu", "kelantan"]
 keywords: ["ukiran kayu", "ukiran kayu Melayu", "awan larat", "Desa Ukiran Kayu Besut", "motif ukiran kayu", "kraf kayu Terengganu"]
+framework: history-culture
 ---
 
 Regardez de près le panneau de bois dans la fenêtre d'une ancienne maison malaise et essayez de trouver où commence le motif. Vous ne le trouverez pas. Ce n'est pas la faute de vos yeux — il a été conçu ainsi.

@@ -116,6 +116,7 @@ keywords:
   - "pemilikan asing Malaysia"
   - "sekatan pemilikan asing Malaysia"
   - "ekuiti asing WRT"
+framework: rules
 ---
 
 Setiap panduan mengenai hal ini menyatakan hal yang sama: *kebanyakan

@@ -59,6 +59,7 @@ relations:
   - { rel: "governs", to: "employment-contract-malaysia" }
 related: ["unfair-dismissal-malaysia", "employment-contract-malaysia", "termination-of-employment-malaysia"]
 keywords: ["probation malaysia", "terminate probationer malaysia", "confirmation of employment malaysia", "probation period malaysia law", "extend probation malaysia"]
+framework: explainer
 ---
 
 「彼はまだ試用期間中だから、辞めさせればいいだけだ」——この一言は、マレーシアの使用者に対する労使裁判所（Industrial Court）の裁定を、他のどの言葉よりも多く生んできた。そして成文法は、これと真っ向から矛盾する。

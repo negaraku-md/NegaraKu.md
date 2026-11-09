@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-special-rights-ma63" }
 related: []
 keywords: ["hasil negeri", "geran perkapita", "geran jalan raya negeri", "Jadual Kesepuluh", "Perkara 109", "Perkara 110", "kewangan persekutuan-negeri", "royalti", "cukai jualan negeri"]
+framework: explainer
 ---
 
 マレーシアの州政府が予算を編成する際、ほとんど語られない一つの現実から出発することになる。最も大きな税収を生む税——所得税、売上・サービス税（SST）、関税——は、州が徴収できるものではないという現実である。これらの財源は連邦の管轄に属する。州に残されるものは何か、そしてその差をどう埋めるかは、連邦憲法に白黒はっきりと定められている。

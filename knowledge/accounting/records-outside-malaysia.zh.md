@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-accounting-records" }
 related: ["accounting-records-section-245"]
 keywords: ["accounting records outside Malaysia", "section 245(5) Companies Act", "cloud accounting records Malaysia", "shared service centre records Malaysia", "keep records in Malaysia LHDN"]
+framework: rules
 ---
 
 一家马来西亚子公司，在新加坡数据中心跑 SAP，财务职能由一个吉隆坡到马尼拉的共享

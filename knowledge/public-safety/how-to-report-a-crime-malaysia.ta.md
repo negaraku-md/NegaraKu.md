@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "data-breach-notification-malaysia" }
 related: ["online-safety-act-malaysia", "debt-recovery-malaysia", "data-breach-notification-malaysia"]
 keywords: ["laporan polis", "cara buat laporan polis", "e-reporting PDRM", "997 NSRC", "999 kecemasan", "Seksyen 107 Kanun Tatacara Jenayah"]
+framework: how-to
 ---
 
 உங்கள் காரில் திருடர்கள் புகுந்திருக்கலாம், உங்கள் பணப்பை பறிக்கப்பட்டிருக்கலாம், அல்லது அனுமதியின்றி உங்கள் கணக்கிலிருந்து பணம் வெளியேறியிருக்கலாம் — இந்த மூன்று சூழ்நிலைகளிலும், அடுத்து வரும் ஒவ்வொரு தரப்பும் — காப்பீடு, வங்கி அல்லது நீதிமன்றம் — முதலில் கேட்கும் ஆவணம் உங்கள் காவல் அறிக்கை எண்தான். அதைச் சரியாக, சரியான வரிசையில் எப்படிப் பெறுவது என்பதை அறிந்திருப்பது பல மணி நேரங்களை மிச்சப்படுத்தும், சில நேரங்களில் உங்கள் பணத்தையும் காப்பாற்றும்.

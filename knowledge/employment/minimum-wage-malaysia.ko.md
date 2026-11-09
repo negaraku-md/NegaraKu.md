@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "payroll-rates-deadlines-malaysia" }
 related: ["labour-law-map-malaysia", "employment-act-1955", "payroll-rates-deadlines-malaysia", "payroll-compliance-malaysia"]
 keywords: ["minimum wage Malaysia 2026", "RM1700 gaji minimum", "hourly minimum wage Malaysia", "Employment Act section 19", "lawful deductions section 24", "Minimum Wages Order 2024"]
+framework: rules
 ---
 
 임금률을 아는 것은 쉬운 부분입니다. 파손된 노트북에 대해 1주일치 급여를 공제한 뒤 다음 달

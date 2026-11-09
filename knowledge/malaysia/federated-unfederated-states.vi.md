@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "nine-royal-houses" }
 related: ["straits-settlements", "malayan-union", "nine-royal-houses", "malay-sultanate-system"]
 keywords: ["Federated Malay States", "Unfederated Malay States", "British Resident system", "British Adviser system", "Pangkor Treaty 1874", "Resident-General Kuala Lumpur", "Anglo-Siamese Treaty 1909", "Johor General Adviser", "Malay Rulers British protection", "colonial Malaya"]
+framework: explainer
 ---
 
 Chín bang Mã Lai, một cường quốc đế quốc — thế mà không phải một sự sắp đặt mà là hai. Sự phân chia đó là điều mà hầu hết các bản tóm tắt về Malaya thuộc địa bỏ qua, và nó là toàn bộ chủ đề của bài viết này.

@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "mdec-digital-status" }
 related: ["sme-financing-malaysia"]
 keywords: ["government grants malaysia", "SME grant malaysia", "startup grant malaysia", "cradle CIP grant", "MDEC digital grant", "MSME digital grant madani", "matching grant malaysia", "business funding malaysia"]
+framework: data-reference
 ---
 
 "말레이시아 정부 보조금(government grant Malaysia)"을 검색하면 당신의 사업에 공짜 돈을 약속하는 수십 개의 목록형 글을 보게 될 것입니다. 현실은 더 유용하면서도 더 복잡합니다: 돈은 존재하지만, "보조금"이라 불리는 것의 절반은 실제로는 대출, 지분 투자, 또는 먼저 지출해야 하는 현금에 대한 환급입니다. 신청 전에 배울 수 있는 가장 가치 있는 한 가지는 이들을 어떻게 구분하는지입니다.

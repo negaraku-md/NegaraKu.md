@@ -102,6 +102,7 @@ keywords:
   - "MIDA manufacturing licence"
   - "shareholders funds RM2.5 million"
   - "exempted from manufacturing licence"
+framework: rules
 ---
 
 Most Malaysian SME manufacturers do not need a manufacturing licence. Almost every guide

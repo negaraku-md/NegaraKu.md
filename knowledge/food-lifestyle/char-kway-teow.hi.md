@@ -97,6 +97,7 @@ social:
     - "#PenangFood"
     - "#MalaysianFood"
     - "#StreetFood"
+framework: explainer
 ---
 
 बहुत कम व्यंजन मलेशियाई स्ट्रीट फ़ूड को char kway teow जितनी पूर्णता से समेटते

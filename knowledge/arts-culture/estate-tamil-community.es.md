@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "tamil-vernacular-schools", "mariamman-worship", "hinduism-in-malaysia", "population-composition"]
 keywords: ["தோட்டத் தமிழர் சமூகம்", "மலேசிய இந்தியர் தோட்ட வரலாறு", "கங்காணி முறை", "ரப்பர்த் தோட்டம்", "தோட்டத் தொழிலாளர்", "மலேசிய இந்தியர்கள்", "estate Tamil community", "Malaysian Indians"]
+framework: history-culture
 ---
 
 En las afueras de muchas de las ciudades antiguas de Malasia, una plantación de caucho que en otro tiempo se extendía verde se ha convertido hoy en una zona residencial repleta de casas e hileras de comercios. Entre esos edificios nuevos, a veces aún se mantiene en pie un viejo templo de Amman o una pequeña escuela tamil: la marca imborrable de una comunidad que ha sido desplazada.

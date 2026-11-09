@@ -56,6 +56,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["consumer-protection-act", "duitnow-qr-payments", "opening-bank-account"]
 keywords: ["consumer rights Malaysia", "Tribunal for Consumer Claims", "TTPM", "KPDN complaint", "refund Malaysia", "consumer protection act 1999", "how to claim RM50000", "ttpm.kpdn.gov.my"]
+framework: how-to
 ---
 
 一部手机用到第二周就死机了。一名承包商收了订金后就不再接电话。一张「结业大减价」的

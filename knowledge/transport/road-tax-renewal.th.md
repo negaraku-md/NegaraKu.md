@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "traffic-summons-saman" }
 related: ["road-transport-act-1987", "traffic-summons-saman"]
 keywords: ["cukai jalan", "LKM", "Lesen Kenderaan Motor", "renew roadtax", "MyJPJ", "e-LKM", "Pos Malaysia JPJ", "MyEG roadtax", "Puspakom B2"]
+framework: explainer
 ---
 
 หลายคนเรียกมันว่า "ภาษีถนน" และมองว่าเหมือนกับภาษีเงินได้หรือภาษีขาย — จ่ายแล้ว จบ ไม่ต้องคิดถึงอีกจนกว่าปีหน้า แต่ชื่อทางการที่ JPJ คือใบอนุญาตยานยนต์ (LKM): เป็น **ใบอนุญาต** ไม่ใช่ภาษี ความแตกต่างนี้ไม่ใช่เพียงเรื่องคำศัพท์ มันอธิบายว่าเหตุใดจึงมีหน้าต่างเวลาที่เข้มงวดในการต่ออายุ และเหตุใดยานพาหนะที่อยู่โดยไม่มี LKM นานเกินไปจึงไม่สามารถเพียง "จ่ายแล้วจบ" ได้

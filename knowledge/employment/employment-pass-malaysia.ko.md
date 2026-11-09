@@ -128,6 +128,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: ["labour-law-map-malaysia", "employment-pass-founder-malaysia"]
 keywords: ["employment pass malaysia", "ep category 1 salary", "employment pass salary 2026", "esd registration", "myxpats", "expatriate malaysia", "employment pass renewal"]
+framework: rules
 ---
 
 2026년 6월 1일, 말레이시아에서 외국인 전문가의 가격이 상단에서 두 배로 올랐습니다.

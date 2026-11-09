@@ -95,6 +95,7 @@ relations:
   - { rel: "governs", to: "personal-data-protection-act-2010" }
 related: ["pdpa-compliance-malaysia", "online-business-licence-malaysia"]
 keywords: ["data protection officer malaysia", "dpo malaysia", "section 12a pdpa", "pdpa dpo threshold", "appoint dpo malaysia"]
+framework: rules
 ---
 
 பெரும்பாலான மலேசிய வணிகங்கள் DPO வரம்பைப் படிக்கின்றன, “20,000 தரவு நபர்கள்” என்பதைக் கண்டு, தாங்கள் அதற்கு எங்கும் அருகில் இல்லை என முடிவுசெய்து, படிப்பதை நிறுத்திவிடுகின்றன. மூன்றாவது கிளை ஒரு வரி கீழே உள்ளது, அதில் எந்த எண்ணும் இல்லவே இல்லை, அதற்கான ஆணையரின் சொந்த விரிவான உதாரணமே தயாரிப்புகளைப் பரிந்துரைக்கும் ஒரு ஆன்லைன் கடை.

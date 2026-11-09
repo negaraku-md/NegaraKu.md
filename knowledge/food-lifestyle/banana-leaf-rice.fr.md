@@ -91,6 +91,7 @@ verificationNeeded:
   - "La question de savoir si le riz (et les légumes) resservis sont réellement « illimités » dans les restaurants malaisiens de feuille de bananier — les médias gastronomiques l'affirment largement, mais la description sud-indienne traditionnelle évoque deux services de riz. La politique varie selon le restaurant ; confirmer auprès de la pratique du restaurant ou d'une source gastronomique fiable."
   - "L'importance de Penang (par rapport à Brickfields, à Kuala Lumpur) comme centre du riz sur feuille de bananier — non confirmée directement dans les sources consultées ; à vérifier auprès d'une source gastronomique ou touristique propre à Penang."
   - "L'attribution communautaire précise (« tamoul » par rapport au plus large « sud-indien ») de l'origine du plat et de son arrivée en Malaisie — à confirmer auprès d'une source d'histoire des migrations ou de patrimoine culinaire."
+framework: explainer
 ---
 
 Asseyez-vous dans un restaurant de feuille de bananier en Malaisie et aucune

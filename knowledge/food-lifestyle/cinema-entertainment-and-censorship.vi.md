@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "consumer-protection-act" }
 related: ["sedition-act", "consumer-protection-act"]
 keywords: ["penapisan filem", "Lembaga Penapisan Filem", "LPF", "klasifikasi filem", "P12", "P13", "Akta Penapisan Filem 2002", "lesen hiburan", "karaoke", "pawagam", "DBKL", "pihak berkuasa tempatan"]
+framework: explainer
 ---
 
 Một bộ phim lan truyền trên YouTube có thể chưa bao giờ đi qua Hội đồng Kiểm duyệt Phim — nhưng chính bộ phim đó, nếu muốn chiếu ở rạp, bắt buộc phải có con dấu phê duyệt của nó trước. Sự khác biệt đó không phải là một sự nới lỏng ngẫu nhiên; nó được xây dựng vào cách luật pháp Malaysia kiểm soát những gì công chúng có thể xem.

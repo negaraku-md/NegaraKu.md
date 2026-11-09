@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
 related: []
 keywords: ["subsidio de fertilizante para arroz", "SBPKP", "SIPP", "incentivo a la producción de arroz", "subsidios agrícolas", "ayuda a insumos para agricultores"]
+framework: explainer
 ---
 
 El saco de fertilizante que un arrocero carga al hombro hacia el campo aquella

@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#WongMeiKee", "#SiewYok", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Un puesto en una esquina de Pudu abre solo unas horas al mediodía, y la cola empieza

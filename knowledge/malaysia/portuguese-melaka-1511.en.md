@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["fall of Melaka 1511", "Afonso de Albuquerque", "Portuguese Melaka", "A Famosa", "European colonisation Southeast Asia", "Johor Sultanate 1528"]
+framework: history-culture
 ---
 
 Ten days. That's the gap between the Portuguese fleet's arrival in Melaka waters on 10 August 1511 and the moment the city changed hands on 24 August.

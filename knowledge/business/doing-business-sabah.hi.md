@@ -126,6 +126,7 @@ keywords:
   - "सबाह राज्य सेल्स टैक्स"
   - "doing business in Sabah"
   - "Trades Licensing Ordinance Sabah Cap 144"
+framework: profile
 ---
 
 मलेशिया में व्यापार करने के लगभग हर राष्ट्रीय गाइड सबाह के बारे में गलत हैं, और हर बार

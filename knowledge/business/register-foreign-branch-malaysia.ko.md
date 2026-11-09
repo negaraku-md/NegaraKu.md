@@ -122,6 +122,7 @@ keywords:
   - "foreign company local agent Malaysia"
   - "branch registration fee SSM"
   - "foreign company annual return Malaysia"
+framework: how-to
 ---
 
 등록 수수료는 모두가 예산으로 잡는 부분입니다. 정작 아픈 부분은 그것이 아닙니다.

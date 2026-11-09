@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "directors-report" }
 related: ["directors-duties", "directors-report", "loans-to-directors", "disclosure-of-interest"]
 keywords: ["directors fees Malaysia", "section 230 Companies Act 2016", "compensation for loss of office Malaysia", "yuran pengarah syarikat", "director remuneration approval Sdn Bhd", "section 227 payment loss of office"]
+framework: rules
 ---
 
 Dans une Sdn Bhd familiale, les honoraires se décident généralement au cours d'une conversation et se rédigent après coup, quand ils le sont. Cela se rapproche de ce que permet la s.230(2) de la loi de 2016 sur les sociétés, mais seulement se rapproche. Le paragraphe qui suit impose un devoir de **quatorze jours** d'informer les actionnaires, sous peine de RM250,000, et celui d'après confère à une minorité de dix pour cent le pouvoir de transformer l'honoraire en une **dette due en retour à la société**.

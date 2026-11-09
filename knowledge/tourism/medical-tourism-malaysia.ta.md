@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "tourism-malaysia" }
 related: ["tourism"]
 keywords: ["medical tourism Malaysia", "healthcare travel", "MHTC", "Malaysia Healthcare Travel Council", "JCI hospitals Malaysia", "IVF Malaysia", "cardiac care Malaysia"]
+framework: profile
 ---
 
 ஒரு இந்தோனேசியக் குடும்பம் இதய பைபாஸுக்காக பினாங்குக்கு பறந்து வருகிறது, வளைகுடாப் பகுதியிலிருந்து ஒரு தம்பதி IVF-க்காக வருகிறார்கள், மேலும் ஆஸ்திரேலியாவைச் சேர்ந்த ஓய்வுபெற்ற ஒருவர் தனது சொந்த நாட்டில் மூன்று மடங்கு அதிகச் செலவாகும் ஒரு முழு-உடல் பரிசோதனையை முன்பதிவு செய்கிறார். இவர்கள் அனைவரும் சேர்ந்து, ஒரே ஆண்டில் 1.6 மில்லியனுக்கும் அதிகமான மக்களை மலேசியாவுக்குக் கொண்டுவந்த ஒரு அமைதியான தொழில்துறையின் ஒரு பகுதியாவர் — சுற்றுலாவுக்காக அல்ல, குணமடைவதற்காக.

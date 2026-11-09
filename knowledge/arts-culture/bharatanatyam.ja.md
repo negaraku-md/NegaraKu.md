@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["tamil-in-malaysia", "deepavali", "thaipusam"]
 keywords: ["Bharatanatyam", "Indian classical dance Malaysia", "Temple of Fine Arts", "Sutra Dance Theatre", "Ramli Ibrahim", "Malaysian Indian dance", "nritta nritya", "Carnatic music", "Malaysia Barathanatyam Dance Association"]
+framework: history-culture
 ---
 
 舞踊家の両足が、速く正確なリズムで床を打つ。ムリダンガム太鼓の拍に合わせて鈴が鳴り響く。彼女の両手が形をつくる——鹿、蓮の花、問いかけ——彼女の眼差しがその形を追い、続いて彼女の表情が、観客がただ見るのではなく感じ取るべき感情で応える。やがてリズムが収束し、彼女は彫像のような姿勢で静止し、音楽は静寂へと落ちていく。

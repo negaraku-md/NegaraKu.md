@@ -70,6 +70,7 @@ relations:
   - { rel: "affects", to: "audit-opinion-types" }
 related: ["statutory-audit-process", "audit-opinion-types", "emphasis-of-matter-kam", "audit-preparation-checklist"]
 keywords: ["going concern Malaysia audit", "material uncertainty related to going concern", "ISA 570 Malaysia", "management representation letter Malaysia", "ISA 580 written representations"]
+framework: explainer
 ---
 
 Two documents get signed at the end of a Malaysian audit without being read: the

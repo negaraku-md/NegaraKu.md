@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "mm2h-long-stay-visa" }
 related: ["mm2h-long-stay-visa"]
 keywords: ["elderly care Malaysia", "nursing home Malaysia", "Rumah Seri Kenangan", "Rumah Ehsan", "geriatric care Malaysia", "PeKa B40", "aged care Malaysia", "Care Centres Act 1993", "warga emas", "long-term care Malaysia"]
+framework: explainer
 ---
 
 ช่วงเวลานั้นมักมาถึงอย่างเงียบ ๆ พ่อแม่ที่เคยจัดการได้ดีเพียงลำพังเริ่มลืมว่าเตายังเปิดอยู่ หรือหกล้มบ่อยเกินไป และครอบครัวที่ไม่เคยวางแผนสำหรับเรื่องนี้ต้องตัดสินใจอย่างเร่งรีบว่าจะทำอย่างไรต่อไป มาเลเซียมีระบบสำหรับเรื่องนี้อยู่จริง — เพียงแต่มันแยกอยู่ระหว่างคลินิกสุขภาพที่ดูแลผู้สูงอายุอยู่แล้วและระบบสวัสดิการที่ครอบครัวส่วนใหญ่เพิ่งค้นพบเมื่อไปหา

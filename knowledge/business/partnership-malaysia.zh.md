@@ -70,6 +70,7 @@ keywords:
   - "partner liability Malaysia"
   - "joint and several liability partnership"
   - "register partnership SSM"
+framework: explainer
 ---
 
 两个朋友注册了一个合伙，因为它一年只花 RM60，而且没有人提过还有别的选择。三年后，

@@ -70,6 +70,7 @@ relations:
   - { rel: "administered-by", to: "malaysian-institute-of-accountants" }
 related: ["malaysian-institute-of-accountants"]
 keywords: ["materiality", "audit sampling", "ISA 320", "ISA 530", "ISA 450", "performance materiality", "tolerable misstatement", "statutory audit Malaysia"]
+framework: explainer
 ---
 
 An auditor who signs a set of accounts has almost never looked at every transaction behind them — and the standards say that is exactly the right way to work.

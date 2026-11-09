@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "directors-duties" }
 related: ["accounting-records-section-245", "directors-duties"]
 keywords: ["droit de l'administrateur de consulter les registres comptables Malaisie", "section 245(4) loi sur les sociétés 2016", "consultation par l'administrateur des registres des filiales", "différend entre actionnaires registres de la société Malaisie", "director right to inspect accounting records Malaysia", "section 245(4) Companies Act 2016"]
+framework: explainer
 ---
 
 Dans un différend entre actionnaires, le premier coup de feu est rarement une requête

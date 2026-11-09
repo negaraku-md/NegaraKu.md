@@ -95,6 +95,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "paternity-leave-malaysia", "employment-act-coverage", "termination-of-employment-malaysia"]
 keywords: ["إجازة الأمومة في ماليزيا maternity leave", "إجازة أمومة 98 يوماً", "بدل الأمومة في ماليزيا maternity allowance", "إنهاء خدمة الموظفة الحامل في ماليزيا", "المادة 41A من قانون العمل"]
+framework: rules
 ---
 
 معظم المحتوى الماليزي عن إجازة الأمومة ليس إلا رقماً. ثمانية وتسعون يوماً، مرفوعةً من

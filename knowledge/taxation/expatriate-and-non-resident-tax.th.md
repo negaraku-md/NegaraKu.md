@@ -84,6 +84,7 @@ relations:
   - { rel: "requires", to: "individual-tax-residence" }
 related: ["income-tax-in-malaysia", "individual-tax-residence", "personal-tax-rates", "which-tax-form", "epf-foreign-workers-malaysia"]
 keywords: ["expatriate tax Malaysia", "non-resident tax rate Malaysia 30", "60 day exemption Malaysia tax", "knowledge worker tax rate 15", "Returning Expert Programme tax", "Employment Pass tax residence"]
+framework: rules
 ---
 
 เดือนที่แพงที่สุดในการทำงานของชาวต่างชาติมักเป็นเดือนที่มาถึง และมันไม่มีค่าใช้จ่ายในตอนนั้น ลงจอดวันที่

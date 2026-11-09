@@ -120,6 +120,7 @@ relations:
   - { rel: "related-to", to: "beneficial-ownership" }
 related: ["statutory-registers", "registered-office", "register-of-members", "annual-return"]
 keywords: ["minute book Malaysia", "section 341 Companies Act 2016", "section 245 accounting records seven years", "document retention Malaysia company", "buku minit syarikat", "board minutes Malaysia Third Schedule"]
+framework: rules
 ---
 
 ถามเลขานุการบริษัทมาเลเซียว่าสมุดรายงานการประชุมต้องเก็บนานเท่าใด แล้วคุณจะได้คำตอบ "เจ็ดปี" โดยไม่ลังเล ถามว่ากำหนดเวลาในการจัดทำรายงานการประชุมตั้งแต่แรกคืออะไร แล้วคำตอบมักเป็นตัวเลขที่มั่นใจซึ่งไม่มีอยู่ในพระราชบัญญัติ

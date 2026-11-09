@@ -73,6 +73,7 @@ faq:
     a: 'Perlindungan Hospitalisasi dan Pembedahan Berkumpulan (GHS) terikat dengan pekerjaan. Jika anda meletak jawatan, diberhentikan, atau bersara, polisi tersebut berhenti pada hari pekerjaan berakhir — tiada sambungan peribadi secara automatik. Kad perubatan peribadi yang berdiri sendiri pula boleh dibawa ke mana sahaja (mudah alih): ia kekal milik anda tanpa mengira majikan selagi premium dibayar dan polisi diperbaharui, dan inilah sebabnya ramai orang menganggapnya sebagai sandaran.'
   - q: Adakah polisi perubatan 'tanpa bayaran bersama' secara automatik lebih baik daripada yang mempunyai bayaran bersama?
     a: Tidak semestinya — artikel ini menyenaraikannya sebagai satu kesilapan biasa. Pelan tanpa bayaran bersama mengenakan premium yang lebih tinggi untuk had faedah yang sama. Di bawah bayaran bersama (co-payment), anda bersetuju dari awal untuk menanggung bahagian tertentu bagi setiap bil hospital yang layak sebagai pertukaran untuk premium yang lebih rendah. Sama ada pertukaran itu berbaloi bergantung pada berapa banyak daripada bil yang mampu anda tanggung sendiri; semak helaian pendedahan produk untuk peratusannya, sebarang had, dan rawatan yang dikecualikan.
+framework: explainer
 ---
 
 Dua orang pekerja masuk ke hospital swasta yang sama dengan lengan patah yang sama. Seorang menyerahkan kad dan keluar tanpa membayar sesen pun semasa discaj. Seorang lagi membayar sebahagian daripada bil itu sendiri, kerana polisi yang dibelinya enam bulan lalu lebih murah atas sebab itu tepat.

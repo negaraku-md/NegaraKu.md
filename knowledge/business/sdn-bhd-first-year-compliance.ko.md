@@ -207,6 +207,7 @@ keywords:
   - "company secretary 30 days"
   - "senarai semak pematuhan syarikat baharu"
   - "post incorporation Malaysia"
+framework: journey-hub
 ---
 
 법인 설립은 하나의 거래입니다. 준법은 하나의 구독입니다.

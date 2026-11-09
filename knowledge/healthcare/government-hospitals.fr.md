@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "emergencies-999" }
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "peka-b40-and-health-schemes", "healthcare-for-seniors", "emergencies-999"]
 keywords: ["hôpital public Malaisie", "frais hôpital public", "système d'orientation hospitalière", "frais salle Classe 3", "frais non-citoyens hôpital", "Akta Fee 1951", "hôpital spécialisé d'orientation", "délais d'attente hôpital public"]
+framework: explainer
 ---
 
 Ticket de file d'attente en main, le numéro déjà à plus de 80 personnes devant

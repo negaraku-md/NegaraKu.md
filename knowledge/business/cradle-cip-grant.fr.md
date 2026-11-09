@@ -76,6 +76,7 @@ social:
     - MalaysiaStartup
     - TechStartup
     - MOSTI
+framework: profile
 ---
 
 La plupart des fondateurs qui en sont à leur première entreprise se heurtent au même mur : l'idée est bonne, mais il n'y a pas encore de revenus, pas d'historique pour une banque, et céder du capital aussi tôt semble prématuré. La réponse de la Malaisie à cet écart est Cradle Fund — l'agence gouvernementale dont la seule mission est de mettre de l'argent dans des startups technologiques avant quiconque. Ses subventions du Cradle Investment Programme (CIP) sont, pour de nombreux fondateurs malaisiens, le premier financement externe qu'ils lèvent.

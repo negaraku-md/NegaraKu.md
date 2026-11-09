@@ -87,6 +87,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage", "minimum-wage-malaysia"]
 keywords: ["overtime pay malaysia", "overtime rate malaysia", "45 hour week malaysia", "rest day pay malaysia", "public holiday pay malaysia", "104 hours overtime"]
+framework: rules
 ---
 
 Most overtime guides stop at "1.5× normal, 2× rest day, 3× public holiday". That

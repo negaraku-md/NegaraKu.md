@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "circular-economy-blueprint" }
 related: []
 keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusan", "pengasingan sisa di punca", "ekonomi kitaran"]
+framework: explainer
 ---
 
 Buang sampah di Johor dan ia menjadi urusan pemerintah federal; buang sampah yang sama di Pulau Pinang dan ia masih urusan pemerintah daerah. Itulah keanehan inti cara Malaysia mengelola sampah padatnya — sebuah undang-undang federal yang megah, tetapi hanya berlaku di tempat yang setuju mengadopsinya.

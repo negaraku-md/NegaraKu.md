@@ -74,6 +74,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-health" }
 related: []
 keywords: ["diabetes", "obesiti", "NCD", "penyakit tidak berjangkit", "NHMS 2023", "cukai gula", "PeKa B40", "Logo Pilihan Sihat", "saringan kesihatan"]
+framework: explainer
 ---
 
 More than half of Malaysia's adults today carry a weight that could shorten their lives — and one in six is already living with diabetes, many without realising it. This is the silent epidemic that burdens hospitals, families and the national economy far more than any infectious disease.

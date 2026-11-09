@@ -99,6 +99,7 @@ social:
     - "Mamak"
     - "MalaysianFood"
     - "NegaraKuMD"
+framework: explainer
 ---
 
 Sedikit bunyi yang begitu khas dengan pagi di Malaysia seperti bunyi tampar dan

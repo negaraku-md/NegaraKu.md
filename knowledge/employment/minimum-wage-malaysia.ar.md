@@ -108,6 +108,7 @@ relations:
   - { rel: "related-to", to: "payroll-rates-deadlines-malaysia" }
 related: ["labour-law-map-malaysia", "employment-act-1955", "payroll-rates-deadlines-malaysia", "payroll-compliance-malaysia"]
 keywords: ["الحد الأدنى للأجور في ماليزيا 2026", "RM1700 الحد الأدنى للأجور", "الحد الأدنى للأجر بالساعة في ماليزيا", "قانون العمل المادة 19 section 19", "الاقتطاعات المشروعة المادة 24 section 24", "Minimum Wages Order 2024"]
+framework: rules
 ---
 
 معرفة المعدل هي الجزء السهل. فصاحب العمل الذي يدفع RM1,700 في العشرين من الشهر التالي،

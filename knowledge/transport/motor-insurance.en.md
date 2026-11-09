@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "road-tax-renewal" }
 related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengangkutan Jalan 1987", "insurans komprehensif", "cukai jalan", "Seksyen 90", "PIAM", "insurans motosikal"]
+framework: explainer
 ---
 
 You can legally drive a car that has never been washed, has worn-out tyres and a broken air conditioner. But driving without a single piece of paper — a third-party insurance policy — is a criminal offence.

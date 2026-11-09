@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["trademark-classes-fees-malaysia", "ip-ownership-malaysia", "company-name-search-ssm"]
 keywords: ["trademark registration malaysia", "myipo trademark", "trademark fee malaysia", "trademarks act 2019", "madrid protocol malaysia", "register trademark malaysia"]
+framework: explainer
 ---
 
 SSMで会社名を予約しても、何も保護されない。それは、紛らわしいほど類似した名称で

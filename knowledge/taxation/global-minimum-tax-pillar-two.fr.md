@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "cbcr-and-master-file" }
 related: ["corporate-tax-rates"]
 keywords: ["global minimum tax Malaysia", "domestic top-up tax", "multinational top-up tax", "Pillar Two Malaysia", "QDMTT Malaysia", "GloBE Malaysia", "cukai minimum global"]
+framework: rules
 ---
 
 Presque tout ce qui est écrit sur le Pilier Deux est écrit pour la société mère ultime.

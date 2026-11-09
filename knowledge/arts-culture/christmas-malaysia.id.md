@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "sabah" }
 related: ["religion-statistics", "article-3-religion", "sarawak", "sabah"]
 keywords: ["Christmas in Malaysia", "Christmas Day public holiday Malaysia", "Christmas Eve Sabah holiday", "Malaysian open house Christmas", "Christians in Malaysia", "Midnight Mass Malaysia", "Holidays Act 1951 Christmas"]
+framework: history-culture
 ---
 
 Pada malam 24 Desember, sebuah gereja di Kota Kinabalu atau Kuching penuh sesak untuk sebuah ibadah larut malam, sementara beberapa ratus kilometer jauhnya di Semenanjung, tanggal yang sama merupakan hari Kamis kerja biasa. Pada pagi harinya, 25 Desember, seluruh negara libur. Perbedaan itu — satu tanggal, dua status yang sangat berbeda — adalah cara paling jelas untuk memahami kedudukan Natal di Malaysia: sebuah perayaan keagamaan bagi satu komunitas, hari libur umum bagi semua orang, dan satu musim pintu terbuka yang diikuti banyak orang tanpa memandang agama.

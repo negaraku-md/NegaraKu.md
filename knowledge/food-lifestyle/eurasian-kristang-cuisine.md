@@ -85,6 +85,7 @@ verificationNeeded:
   - "The origin story and composition of feng/fongh (offal curry, Portuguese seafaring/off-cuts heritage, Christmas association) — reputable cooks caution the history is murky and versions differ; confirm with a Kristang culinary or heritage source."
   - "The etymology and classification of sugee cake (a semolina-and-butter celebration cake; the name is commonly traced to the South Asian word for semolina and the recipe compared to British Madeira cake) — confirm with a culinary-history source."
   - "The founding year of the Portuguese Settlement (commonly given as 1933) and the claim that several home dishes such as pang susi and offal dishes are becoming rare — confirm with a primary or heritage source."
+framework: history-culture
 ---
 
 Order a curry in a Melaka Malay kitchen and you taste coconut and lemongrass.

@@ -100,6 +100,7 @@ entity: "Padi and rice industry in Malaysia"
 relations: []
 related: []
 keywords: ["padi", "rice industry Malaysia", "rice self-sufficiency level Malaysia", "SSL rice", "BERNAS", "Padiberas Nasional", "guaranteed minimum price padi", "Harga Minimum Terjamin", "MADA", "kawasan jelapang padi", "subsidi harga padi", "SSHP", "Dasar Agromakanan Negara 2.0", "National Agrofood Policy", "rice import Malaysia", "padi farmers Malaysia"]
+framework: profile
 ---
 
 ข้าวคืออาหารชนิดเดียวที่มาเลเซียปฏิเสธที่จะปล่อยให้เป็นไปตามกลไกตลาดเสรี รัฐกระจุกจุดที่ปลูก หนุนชาวนาที่ปลูก อนุญาตให้บริษัทเดียวนำเข้าส่วนที่ขาด และถือครองข้าวสำรองฉุกเฉินเพื่อรับมือแรงกระแทกด้านอุปทาน แต่หลังจากการจัดการเช่นนี้มาหลายทศวรรษ ประเทศก็ยังคงปลูกข้าวได้เพียงราวครึ่งหนึ่งของที่บริโภค

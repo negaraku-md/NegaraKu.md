@@ -96,6 +96,7 @@ verificationNeeded:
   - "The community attribution of pan mee to Hakka cooks and of loh shi fun/lai fun to specific dialect groups — generally repeated in food writing but not consistently documented; confirm with a local culinary or heritage source."
   - "Whether 'mee hoon'/'mihun' and 'bihun' are used interchangeably everywhere in Malaysia, or whether regional usage distinguishes them — confirm against a Malaysian dictionary or food-studies source."
   - "The claim that most Malaysian noodle strands are of southern-Chinese (Hokkien, Teochew, Cantonese, Hakka) origin adapted locally — broadly accepted but confirm specific attributions with a food-history reference rather than food media."
+framework: explainer
 ---
 
 Ask for "noodles" at a Malaysian coffee shop and the next question is almost

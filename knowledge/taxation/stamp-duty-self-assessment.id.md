@@ -98,6 +98,7 @@ relations:
   - { rel: "affects", to: "stamp-duty-employment-contracts" }
 related: ["stamp-duty-rates", "stamp-duty-employment-contracts", "stamp-duty-share-transfer"]
 keywords: ["STSDS", "taksir sendiri duti setem Malaysia", "sistem taksir sendiri duti setem", "STAMPS", "BNDS", "fasa duti setem 2026"]
+framework: explainer
 ---
 
 Kebanyakan panduan bea meterai yang masih beredar menggambarkan sebuah sistem di

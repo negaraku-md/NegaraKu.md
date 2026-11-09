@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "register-of-directors" }
 related: ["register-of-directors", "directors-duties", "remove-a-director", "director-shareholding-notification", "statutory-registers"]
 keywords: ["تعيين مدير ماليزيا", "appoint director Malaysia", "الاستقالة كمدير Sdn Bhd", "resign as director", "المادة 196 قانون الشركات 2016", "section 196 Companies Act 2016", "المادة 208 إخلاء المنصب", "section 208 vacation of office", "الموافقة على العمل كمدير", "consent to act as director", "الحد الأدنى لعدد المديرين ماليزيا"]
+framework: rules
 ---
 
 مدير في شركة Sdn Bhd مكوَّنة من شخصين يختلف مع شريكه المساهم، فيوقّع خطاب

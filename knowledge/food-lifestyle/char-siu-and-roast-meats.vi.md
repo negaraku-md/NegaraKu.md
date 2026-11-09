@@ -95,6 +95,7 @@ verificationNeeded:
   - "Nguồn gốc sắc đỏ của char siu——các lý giải khác nhau quy cho nước ướp và sự caramel hóa, chao đỏ lên men, hoặc phẩm màu thực phẩm được thêm vào——xin xác minh với một nguồn khoa học thực phẩm hoặc ẩm thực đáng tin cậy."
   - "Cách truyền thông ẩm thực mô tả một kiểu char siu 'phong cách KL' riêng biệt (nhiều mỡ hơn, cháy xém hơn, đôi khi làm từ ba chỉ) so với các phong cách vùng khác——xin xác minh với một nguồn ẩm thực chuyên sâu, vì điều này rút ra từ các bài đánh giá nhà hàng."
   - "Cách phiên âm La-tinh và chữ Hán chính xác của các loại thịt quay như được dùng ở Malaysia (siu ngap 燒鴨 vịt quay, siu ngo 燒鵝 ngỗng quay, và các cách viết địa phương như 'siew yoke')——xin xác minh với một nguồn từ vựng tiếng Quảng Đông hoặc nguồn ngôn ngữ địa phương."
+framework: explainer
 ---
 
 Đẩy mở tấm kính của một tiệm thịt quay người Hoa, và tủ trưng bày sẽ nói cho bạn

@@ -72,6 +72,7 @@ social:
     - MSME
     - GoDigital
     - MalaysiaMADANI
+framework: explainer
 ---
 
 كثير من المنشآت الصغيرة تعرف أنها *ينبغي* أن تنتقل إلى نظام نقاط بيع لائق، أو أن

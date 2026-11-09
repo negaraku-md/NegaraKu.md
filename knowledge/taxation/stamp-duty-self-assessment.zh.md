@@ -98,6 +98,7 @@ relations:
   - { rel: "affects", to: "stamp-duty-employment-contracts" }
 related: ["stamp-duty-rates", "stamp-duty-employment-contracts", "stamp-duty-share-transfer"]
 keywords: ["STSDS", "stamp duty self assessment Malaysia", "sistem taksir sendiri duti setem", "STAMPS", "BNDS", "stamp duty phases 2026"]
+framework: explainer
 ---
 
 市面上仍在流传的多数印花税指引，描述的是这样一套制度：你把文件寄给 LHDN，征收官

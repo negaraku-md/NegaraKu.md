@@ -98,6 +98,7 @@ verificationNeeded:
   - "The attribution of wonton mee's arrival in Malaya specifically to 19th-century Cantonese and Hakka migrants; confirm against a migration or heritage source beyond the JKKN cultural entry."
   - "Sarawak's wonton mee variants and how they relate to (or differ from) the state's kolo mee — sources are thin and the two dishes are easily conflated; confirm with a Sarawak culinary or heritage source."
   - "The regional claim that Penang-style dry wantan mee leans on a darker/sweeter sauce (and sometimes sambal) versus the lighter KL style — verify against a local source, as descriptions vary across food blogs."
+framework: explainer
 ---
 
 Order wonton mee in Kuala Lumpur and you get a small mound of glossy egg noodles

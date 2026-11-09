@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["mm2h-long-stay-visa", "employment-pass", "dependant-social-visit-passes", "moving-to-malaysia-first-steps"]
 keywords: ["PVIP", "Premium Visa Programme", "Program Visa Premium", "Malaysia residency visa", "residency by investment", "20-year visa Malaysia", "PVIP fixed deposit", "PVIP requirements"]
+framework: explainer
 ---
 
 买一套房子、聘请员工、让孩子入学，而且永远不必计算你一年在这个国家待了多少天：这些正是马来西亚通过高级签证计划向富裕外国人提供的核心权利。PVIP（Program Visa Premium）由内政部于2022年9月宣布，自2022年10月1日起开放申请，是一种投资移民居留签证，让符合条件的申请人在马来西亚获得长达二十年的稳定居留。它很容易与较早的"马来西亚我的第二家园"（MM2H）计划混淆，但这两者由不同的部门管理，面向不同的申请人。

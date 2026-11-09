@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["tax-incentives-directory", "personal-tax-reliefs", "new-incentive-framework"]
 keywords: ["incitation fiscale investisseur providentiel malaisie", "exonération fiscale investisseur providentiel", "angel tax incentive malaysia", "pu a 167 2014", "accréditation MBAN", "allègement fiscal investisseur startup malaisie"]
+framework: rules
 ---
 
 Chaque présentation de startup qui mentionne l'incitation fiscale pour les investisseurs providentiels affirme qu'elle court jusqu'en 2026. Le journal officiel dit le contraire. L'instrument en vigueur est l'Income Tax (Exemption) (No. 3) Order 2014, P.U.(A) 167/2014, prise au titre de l'art. 127(3)(b) de l'Income Tax Act 1967 et réputée en vigueur depuis le 1er janvier 2013. Son paragraphe 5(a)(ii) exige que l'investisseur ait présenté la demande au Ministre **au plus tard à une date fixe**, et cette date a bougé exactement deux fois.

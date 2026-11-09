@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["non-deductible-expenses", "section-33-deductibility"]
 keywords: ["entertainment expense malaysia tax", "39(1)(l) entertainment", "50% entertainment deduction", "public ruling 4/2015", "promotional gift tax deduction malaysia"]
+framework: rules
 ---
 
 Casi todos los cómputos tributarios malasios reducen a la mitad la línea de representación y siguen adelante. Eso es un error en ambas direcciones. Parte de lo que se reduce a la mitad debería denegarse por completo, y buena parte no debería reducirse a la mitad en absoluto.

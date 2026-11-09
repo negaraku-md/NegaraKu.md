@@ -132,6 +132,7 @@ entity: The Progressive Wage Policy (Dasar Gaji Progresif)
 related:
   - minimum-wage-malaysia
 sourceContentHash: "ccffdcacb9538b8a"
+framework: explainer
 ---
 
 ## นโยบายค่าจ้างก้าวหน้าคืออะไร — และไม่ใช่อะไร

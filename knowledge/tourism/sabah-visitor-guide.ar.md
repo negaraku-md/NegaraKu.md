@@ -93,6 +93,7 @@ relations:
   - { rel: "part-of", to: "malaysia-agreement-1963" }
 related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
 keywords: ["دليل سفر صباح", "Sabah travel guide", "كوتا كينابالو", "Kota Kinabalu", "تصريح تسلّق جبل كينابالو", "Mount Kinabalu climb permit", "متنزّه كينابالو اليونسكو", "Kinabalu Park UNESCO", "تصريح الغوص سيبادان", "Sipadan diving permit", "إنسان الغاب Sepilok", "نقطة تفتيش هجرة صباح", "شروط دخول صباح"]
+framework: explainer
 ---
 
 بإمكانك أن تطير من كوالالمبور إلى كوتا كينابالو دون مغادرة البلد ومع ذلك تقف في طابور عند منضدة الهجرة حين تهبط. تلك المفاجأة تباغت كثيرًا من الزوّار لأول مرة — وهي أهمّ أمر مفرد ينبغي فهمه قبل أن تخطّط لرحلة إلى صباح. ويمرّ هذا الدليل بالبوّابة، والمعالم البارزة، وقواعد الدخول التي تجعل صباح تبدو كأنها مكان قائم بذاته، لأنها كذلك بمعنى واقعي جدًّا.

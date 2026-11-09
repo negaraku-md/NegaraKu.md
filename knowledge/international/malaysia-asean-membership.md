@@ -128,6 +128,7 @@ relations:
   - { rel: "related-to", to: "rcep-malaysia" }
 related: []
 keywords: ["ASEAN", "Malaysia ASEAN", "Deklarasi Bangkok", "Piagam ASEAN", "Komuniti ASEAN", "pengerusi ASEAN 2025", "Tun Abdul Razak", "Timor-Leste ASEAN"]
+framework: explainer
 ---
 
 Pada 8 Ogos 1967, lima lelaki berkumpul di dewan utama bangunan Kementerian

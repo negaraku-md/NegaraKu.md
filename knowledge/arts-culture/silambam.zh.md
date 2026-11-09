@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "indian-classical-arts-in-malaysia", "thaipusam", "estate-tamil-community", "temple-music-nadaswaram"]
 keywords: ["சிலம்பம்", "Silambam", "மலேசியா சிலம்பம்", "தமிழ் தற்காப்புக் கலை", "நீண்ட தடி", "அடவுகள்", "குத்து வரிசை", "Silambam Malaysia"]
+framework: history-culture
 ---
 
 在马来西亚的庙会或泰米尔新年活动上，你或许会看到一名青年随着鼓乐的节拍，以迅雷般的速度将一根长竹棍在头顶上方与身体四周旋转。那旋转并非徒为美观——它是锡拉邦的标志，一门已有一千五百余年历史的泰米尔武术。

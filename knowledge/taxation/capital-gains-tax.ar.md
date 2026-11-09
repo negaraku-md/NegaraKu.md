@@ -90,6 +90,7 @@ relations:
   - { rel: "explained-in", to: "capital-or-revenue" }
 related: ["capital-or-revenue", "rpgt-rates", "corporate-tax-rates", "income-tax-act-1967"]
 keywords: ["ضريبة الأرباح الرأسمالية ماليزيا", "CGT أسهم غير مدرجة", "ضريبة كسب رأس المال", "capital gains tax Malaysia", "CGT unlisted shares", "e-CKM", "section 15C", "2% gross disposal price"]
+framework: explainer
 ---
 
 على مدى سبع وخمسين سنة فرضت ماليزيا الضريبة على الدخل وتركت رأس المال دون مساس. وانتهى ذلك في 1 يناير 2024، ولا تزال الضريبة التي حلّت محل اليقين القديم أقلّ الضرائب توثيقاً في النظام — بما في ذلك في السؤال الأول الذي يطرحه كل بائع، وهو ما إذا كان سيدفع 10% أم 2%.

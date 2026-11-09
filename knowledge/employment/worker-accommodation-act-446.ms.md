@@ -121,6 +121,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: []
 keywords: ["akta 446", "perakuan penginapan", "penginapan pekerja malaysia", "piawaian minimum perumahan pekerja", "penginapan berpusat", "pekerja penginapan akta 446"]
+framework: rules
 ---
 
 Mulakan dengan namanya, kerana hampir setiap artikel mengenai subjek ini tersilap menyebutnya. Statut ini ialah **Employees' Minimum Standards of Housing, Accommodations and Amenities Act 1990** (Akta 446). Dahulu ia dikenali sebagai *Workers'* Minimum Standards of Housing and Amenities Act, dan perenggan 4(a) Akta A1604 menukar tajuk pendeknya berkuat kuasa 1 Jun 2020.

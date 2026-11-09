@@ -101,6 +101,7 @@ relations:
   - { rel: "located-in", to: "johor" }
 related: ["tenaga-nasional", "johor"]
 keywords: ["data centre Malaysia", "Johor data centre", "TNB data centre", "non-AI data centre restriction", "data sovereignty Malaysia", "National Cloud Computing Policy", "Green Lane TNB", "Johor water data centre"]
+framework: explainer
 ---
 
 Dalam masa kurang tiga tahun, sebidang tanah di selatan Johor merentangi tambak dari Singapura telah menjadi salah satu tempat paling dicari di dunia untuk memasang pelayan. Gergasi awan, pengendali kolokasi dan syarikat pemula AI telah membanjiri kawasan itu — dan kini Malaysia mendapati bahawa talian kuasa dan paip air di bawah ledakan itu mempunyai had.

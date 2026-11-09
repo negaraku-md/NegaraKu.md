@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "wau" }
 related: ["kelantan", "mak-yong", "wayang-kulit", "wau"]
 keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", "pantun berbalas", "seni persembahan", "warisan kebangsaan"]
+framework: history-culture
 ---
 
 두 무리가 무대 위에서 책상다리로 마주 앉습니다. 대본은 없습니다. 첫 번째 무리가 물가 상승을 풍자하는 판툰을 주고받기를 마치면, 두 번째 무리에게는 응수를 지어낼 몇 초의 시간밖에 없습니다 — 그것은 운(韻)이 맞아야 하고, 박자가 맞아야 하며, 가능하다면 원래 판툰보다 더 날카로워야 합니다.

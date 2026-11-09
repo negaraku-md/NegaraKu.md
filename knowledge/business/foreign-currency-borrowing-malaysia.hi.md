@@ -65,6 +65,7 @@ relations:
   - { rel: "part-of", to: "foreign-exchange-policy-malaysia" }
 related: ["foreign-exchange-policy-malaysia", "share-capital-malaysia"]
 keywords: ["विदेशी मुद्रा उधार मलेशिया", "foreign currency borrowing malaysia", "शेयरधारक ऋण मलेशिया BNM", "shareholder loan malaysia BNM", "अपतटीय ऋण मलेशिया सीमा", "offshore loan malaysia limit", "RM100 मिलियन उधार सीमा", "FEP नोटिस 2"]
+framework: rules
 ---
 
 एक विदेशी मूल कंपनी अपनी मलेशियाई सहायक कंपनी को इक्विटी के बजाय एक USD शेयरधारक ऋण से

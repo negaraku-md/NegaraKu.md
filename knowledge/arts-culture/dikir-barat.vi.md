@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "wau" }
 related: ["kelantan", "mak-yong", "wayang-kulit", "wau"]
 keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", "pantun berbalas", "seni persembahan", "warisan kebangsaan"]
+framework: history-culture
 ---
 
 Hai nhóm ngồi xếp bằng đối diện nhau trên sân khấu. Không có kịch bản. Khi nhóm thứ nhất vừa đối đáp xong câu pantun châm biếm về chuyện giá cả leo thang, nhóm thứ hai chỉ có vài giây để soạn câu đáp — và câu ấy phải có vần, phải đúng nhịp, và nếu có thể, phải sắc bén hơn câu pantun gốc.

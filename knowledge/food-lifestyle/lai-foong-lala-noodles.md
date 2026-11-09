@@ -68,6 +68,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["LaiFoongLalaNoodles", "BibGourmand", "MichelinGuideMalaysia", "KualaLumpur", "MalaysianFood"]
+framework: profile
 ---
 
 Lai Foong Lala Noodles is a Chinese noodle specialist on Jalan Sultan, in the

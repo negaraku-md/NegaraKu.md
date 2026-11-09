@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "getting-married-in-malaysia" }
 related: ["getting-divorced-in-malaysia", "getting-married-in-malaysia"]
 keywords: ["civil divorce Malaysia", "मलेशिया नागरिक तलाक", "Law Reform Marriage and Divorce Act 1976", "Act 164", "अधिनियम 164", "marriage tribunal JPN", "विवाह न्यायाधिकरण JPN", "decree nisi", "decree absolute", "डिक्री निसी और एब्सोल्यूट", "joint petition divorce", "Section 106 conciliatory body", "non-Muslim divorce Malaysia", "मलेशिया गैर-मुस्लिम तलाक"]
+framework: explainer
 ---
 
 एक गैर-मुस्लिम दंपति जो अपना विवाह JPN में पंजीकृत कराते हैं, अक्सर यह मान लेते हैं कि वही कार्यालय इसे समाप्त भी कर सकता है। वह नहीं कर सकता। मलेशिया में, एक नागरिक विवाह प्रशासनिक रूप से पंजीकृत होता है, लेकिन इसे केवल एक अदालती आदेश द्वारा भंग किया जाता है — और एक विच्छिन्न विवाह से एक मुहरबंद डिक्री तक का मार्ग एक सुलह न्यायाधिकरण, एक उच्च न्यायालय याचिका, और तलाक के अंतिम होने से पहले एक अंतर्निहित तीन-महीने के ठहराव से होकर गुज़रता है।

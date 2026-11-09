@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "creditors-voluntary-winding-up" }
 related: ["close-a-company", "strike-off-company-malaysia", "creditors-voluntary-winding-up", "corporate-rescue-malaysia", "company-director-requirements"]
 keywords: ["members voluntary winding up malaysia", "declaration of solvency section 443", "liquidator sdn bhd", "voluntary liquidation malaysia", "penggulungan sukarela ahli", "section 439 companies act 2016"]
+framework: how-to
 ---
 
 사원 임의 청산을 정의하는 문서는 결의가 아닙니다. 그것은 이사들이 서명하는 한 페이지짜리 선언입니다 — 그리고 충분한 근거 없이 그것에 서명하면 최대 5년의 징역 또는 RM3백만의 벌금이 부과됩니다. 그 비대칭이 전체 이야기입니다: 서명하기는 값싸고, 틀리면 값비쌉니다.

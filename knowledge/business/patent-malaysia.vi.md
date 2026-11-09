@@ -100,6 +100,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["industrial-design-malaysia", "ip-ownership-malaysia", "trademark-registration-malaysia"]
 keywords: ["patent malaysia", "utility innovation malaysia", "myipo patent fee", "patents act 1983", "utility innovation vs patent"]
+framework: decision
 ---
 
 Hầu hết các doanh nghiệp vừa và nhỏ Malaysia hỏi về một bằng sáng chế không có một sáng chế có thể cấp

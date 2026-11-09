@@ -73,6 +73,7 @@ social:
     - MalaysiaSME
     - CommercialProperty
     - DoingBusinessInMalaysia
+framework: rules
 ---
 
 Nếu bạn thuê một gian cửa hàng, một văn phòng, một nhà kho hay một thiết bị cho

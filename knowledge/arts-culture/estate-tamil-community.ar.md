@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "tamil-vernacular-schools", "mariamman-worship", "hinduism-in-malaysia", "population-composition"]
 keywords: ["தோட்டத் தமிழர் சமூகம்", "மலேசிய இந்தியர் தோட்ட வரலாறு", "கங்காணி முறை", "ரப்பர்த் தோட்டம்", "தோட்டத் தொழிலாளர்", "மலேசிய இந்தியர்கள்", "estate Tamil community", "Malaysian Indians"]
+framework: history-culture
 ---
 
 على أطراف كثير من مدن ماليزيا القديمة، تحوّلت مزرعة مطاط كانت يومًا ما تمتدّ خضراء إلى منطقة سكنية تغصّ بالبيوت وصفوف المتاجر. وبين تلك المباني الجديدة، يبقى أحيانًا معبد أمّان قديم أو مدرسة تاميلية صغيرة قائمًا — أثرًا لا يبهت لمجتمع نزح عن مكانه.

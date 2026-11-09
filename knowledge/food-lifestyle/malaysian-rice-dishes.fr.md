@@ -96,6 +96,7 @@ verificationNeeded:
   - "L'origine et l'étymologie du nasi kandar (couramment liées à des marchands ambulants qui portaient les marmites sur une perche d'épaule, « kandar ») — à confirmer auprès d'une source patrimoniale ou d'histoire culinaire de Penang, et non des seuls médias gastronomiques."
   - "L'attribution régionale du nasi dagang (associé au Terengganu et au Kelantan, avec des versions locales différentes) et la couleur bleue du nasi kerabu issue de la fleur de pois papillon (butterfly-pea) — à confirmer auprès de sources locales ou étatiques."
   - "L'affirmation selon laquelle les traditions du nasi beriani/nasi minyak seraient entrées en Malaisie principalement par les cuisines indo-musulmanes et de la cour royale malaise — à confirmer auprès d'une source d'histoire culinaire, car les récits populaires varient."
+framework: explainer
 ---
 
 Demandez ce que mangent les Malaisiens, et la réponse honnête est le plus souvent

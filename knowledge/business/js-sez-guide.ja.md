@@ -101,6 +101,7 @@ keywords:
   - "JS-SEZ flagship zones"
   - "MIDA JS-SEZ application"
   - "zon ekonomi khas Johor Singapura"
+framework: rules
 ---
 
 ジョホール・シンガポール経済特区についてのあらゆる要約は、同じ一つの数字——15年間の5%——から

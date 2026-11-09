@@ -88,6 +88,7 @@ keywords:
   - "कंपनी नाम अस्वीकृत SSM"
   - "SSM name search"
   - "company name reservation Malaysia"
+framework: rules
 ---
 
 किसी नाम के अस्वीकार होने का सबसे आम कारण यह नहीं है कि वह पहले से किसी के पास है। कारण यह है

@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "sabah" }
 related: ["religion-statistics", "article-3-religion", "sarawak", "sabah"]
 keywords: ["Christmas in Malaysia", "Christmas Day public holiday Malaysia", "Christmas Eve Sabah holiday", "Malaysian open house Christmas", "Christians in Malaysia", "Midnight Mass Malaysia", "Holidays Act 1951 Christmas"]
+framework: history-culture
 ---
 
 Vào tối ngày 24 tháng 12, một nhà thờ ở Kota Kinabalu hay Kuching chật kín người dự buổi lễ khuya, trong khi cách đó vài trăm cây số trên bán đảo thì cùng ngày ấy lại là một thứ Năm làm việc bình thường. Sáng hôm sau, 25 tháng 12, cả nước được nghỉ. Sự phân đôi ấy — một ngày, hai địa vị rất khác nhau — là cách gọn gàng nhất để hiểu Giáng sinh đứng ở đâu tại Malaysia: một lễ hội tôn giáo với một cộng đồng, một ngày nghỉ lễ công cộng cho mọi người, và một mùa của những cánh cửa mở mà nhiều người cùng tham gia bất kể tín ngưỡng.

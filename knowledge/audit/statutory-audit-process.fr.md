@@ -109,6 +109,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.259"
     consequence: "Fine up to RM50,000, plus RM1,000 a day for a continuing offence"
+framework: explainer
 ---
 
 Presque tous les cabinets d'audit de Malaisie publient une page sur les raisons pour

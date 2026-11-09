@@ -60,6 +60,7 @@ social:
   hashtags: ["KelantanSultanate", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded:
   - "Tahun tepat Long Yunus menaiki takhta Kelantan diberikan secara berbeza merentasi sumber (c. 1760, 1763, 1764, dan c. 1774 kesemuanya muncul); rencana ini menggunakan '1760-an' dan harus diselaraskan dengan satu kajian sejarah khusus sebelum mana-mana tahun tunggal ditegaskan."
+framework: history-culture
 ---
 
 Di bahu timur laut Semenanjung Tanah Melayu, di mana sungai-sungai mengalir turun ke Laut China Selatan dan pantai itu dahulu melihat sebanyak ke arah kerajaan lama Patani seperti ke arah tanah air Melayu, satu takhta ditempa daripada perang saudara. Pengasasnya tidak dilahirkan sebagai raja. Dia seorang panglima perang berketurunan Patani yang mengatasi saingan-saingannya, dan dinasti yang dimulakannya — Wangsa Long Yunus — masih memerintah di Kelantan hari ini, lebih dua setengah abad kemudian.

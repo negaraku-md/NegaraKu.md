@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "pcb-mtd-malaysia" }
 related: ["payroll-rates-deadlines-malaysia", "payroll-compliance-malaysia", "epf-socso-guide"]
 keywords: ["Form E deadline Malaysia", "Form EA 28 February", "CP8D submission", "e-Data Praisi cut off", "Borang E LHDN majikan", "e-CP8D"]
+framework: how-to
 ---
 
 Mỗi tháng 2, một hộp thư bảng lương nào đó ở Malaysia lại đầy ắp cùng một câu hỏi: *chúng tôi đã trao cho nhân viên các biểu mẫu EA của họ rồi, vậy là xong phải không?* Không. Bạn đã đáp ứng một trong ba nghĩa vụ, nghĩa vụ hoàn toàn không có việc nộp nào, và bạn vẫn còn hai thời hạn đang chờ phía trước.

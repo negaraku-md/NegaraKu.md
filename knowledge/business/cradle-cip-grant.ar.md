@@ -76,6 +76,7 @@ social:
     - MalaysiaStartup
     - TechStartup
     - MOSTI
+framework: profile
 ---
 
 يصطدم معظم المؤسِّسين لأول مرة بالجدار نفسه: الفكرة جيدة، لكن لا إيراد بعد، ولا سجلّ أداء

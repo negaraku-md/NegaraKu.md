@@ -80,6 +80,7 @@ relations:
   - { rel: "affects", to: "bumiputera-equity-requirements" }
 related: ["external-trade", "matrade", "anti-dumping-countervailing-duties", "bumiputera-equity-requirements"]
 keywords: ["CPTPP Malaysia", "Trans-Pacific Partnership Malaysia", "CPTPP ratification", "CPTPP certificate of origin", "CPTPP tariff elimination", "CPTPP members", "Malaysia free trade agreement"]
+framework: explainer
 ---
 
 一家向温哥华发货的马来西亚糖果出口商，在 CPTPP 生效的当天就停止缴纳 15% 的进口关税——而这单一的税目正是一扇小小的窗口，让人得以窥见马来西亚有史以来签署的范围最广的贸易协定之一。全面与进步跨太平洋伙伴关系协定重新构建了马来西亚货物、服务和投资在太平洋两岸十几个经济体之间的流动方式。它还使马来西亚承诺遵守一系列远远超出海关柜台的规则——涉及国有企业如何竞争、知识产权如何执法，以及与外国投资者的争端如何解决。

@@ -78,6 +78,7 @@ keywords:
   - "London constitutional conference 1956"
   - "Alliance memorandum Reid Commission"
   - "Tunku Abdul Rahman"
+framework: profile
 ---
 
 Khi nước Anh ngồi xuống để quyết định liệu Malaya đã sẵn sàng tự quản trị hay chưa, một trong những điều họ nói họ muốn thấy là bằng chứng rằng các cộng đồng khác nhau của lãnh thổ có thể cùng vận hành một chính quyền. Liên minh là phương tiện đã đến bàn thương lượng tuyên bố cho thấy chính xác điều đó — ba đảng, mỗi đảng được tổ chức quanh một cộng đồng, tranh cử như một khối duy nhất và cùng nhau yêu cầu độc lập.

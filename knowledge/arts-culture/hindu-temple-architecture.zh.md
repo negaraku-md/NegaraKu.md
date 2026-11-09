@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "hinduism-in-malaysia" }
 related: ["hinduism-in-malaysia", "thaipusam", "mariamman-worship", "temple-music-nadaswaram", "indian-classical-arts-in-malaysia"]
 keywords: ["இந்துக் கோயில் கட்டடக்கலை", "கோபுரம்", "விமானம்", "கர்ப்பக்கிரகம்", "மண்டபம்", "திராவிடக் கட்டடக்கலை", "கும்பாபிஷேகம்", "மலேசியா கோயில்கள்", "Hindu temple architecture", "gopuram", "Dravidian architecture Malaysia"]
+framework: history-culture
 ---
 
 当你走近马来西亚任何一座泰米尔社群扎根的城镇街区，一座朝天耸立、布满雕像的塔楼远远便映入眼帘。那座层层叠叠、缀满彩色神像的门楼并非偶然——它是一门有千年历史的建筑传统的延续；是南印度泰米尔裔随身带到马来西亚的文化传承的标志。

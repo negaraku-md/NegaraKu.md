@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "prescribed-activities-eia-order-2015" }
 related: ["environmental-quality-act-1974"]
 keywords: ["EIA Malaysia", "environmental impact assessment", "prescribed activities", "Section 34A", "Order 2015", "Department of Environment", "First Schedule", "Second Schedule", "public display"]
+framework: rules
 ---
 
 Memulai konstruksi untuk jenis proyek yang salah tanpa lampu hijau, dan Anda bukan sekadar menghadapi denda — Anda mungkin dipaksa berhenti sementara modal Anda terbengkalai. Di Malaysia, daftar "aktivitas yang ditetapkan" yang terperinci tidak dapat dimulai secara sah sampai laporan Penilaian Dampak Lingkungan (EIA) telah diajukan kepada, dan disetujui oleh, Direktur Jenderal Alam Sekitar. Bagi pengembang dan investor, EIA bukanlah pekerjaan administratif di akhir perencanaan; ini merupakan pintu di permulaan.

@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "energy-commission-malaysia" }
 related: ["petronas"]
 keywords: ["natural gas Malaysia", "LNG Malaysia", "Bintulu LNG", "Peninsular Gas Utilisation", "PGU pipeline", "regasification terminal", "Third Party Access", "Malaysia Reference Price"]
+framework: explainer
 ---
 
 Mỗi lần một nhà máy điện ở Selangor khởi động hoặc một nhà máy găng tay ở Penang đốt nóng các lò của mình, lượng khí đốt đó rất có thể đã bắt đầu hành trình của nó cách xa hàng trăm kilômét, ngoài khơi Terengganu hoặc bên kia Biển Đông ở Sarawak. Malaysia vừa là một nhà xuất khẩu khí đốt hạng nặng vừa, ngày càng nhiều, là một nhà nhập khẩu khí đốt, và các đường ống cùng terminal dung hòa hai sự thật đó nằm trong số các tài sản năng lượng giá trị nhất của đất nước.

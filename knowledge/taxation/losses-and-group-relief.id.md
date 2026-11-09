@@ -86,6 +86,7 @@ relations:
   - { rel: "affects", to: "capital-allowances" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "company-tax-residence", "income-tax-act-1967", "dormant-company-audit-exemption"]
 keywords: ["kerugian perniagaan dibawa ke hadapan Malaysia", "pelepasan kumpulan seksyen 44A", "elaun modal belum diserap", "had kerugian 10 tahun", "perubahan besar pemegangan saham"]
+framework: explainer
 ---
 
 Dua perusahaan dalam kelompok yang sama, keduanya mengalami kerugian, keduanya

@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["kejatuhan Melaka 1511", "Afonso de Albuquerque", "Melaka Portugis", "A Famosa", "penjajahan Eropah Nusantara", "Kesultanan Johor 1528"]
+framework: history-culture
 ---
 
 Mười ngày. Đó là khoảng cách giữa việc đạo quân Bồ Đào Nha đến vùng biển Melaka vào ngày 10 tháng 8 năm 1511 và thời khắc thành đó đổi chủ vào ngày 24 tháng 8.

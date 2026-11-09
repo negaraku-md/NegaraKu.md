@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["kuala-lumpur", "selangor"]
 keywords: ["Klang Valley rail", "Rapid KL", "MRT Kajang Line", "MRT Putrajaya Line", "LRT Kelana Jaya Line", "KL Monorail", "KTM Komuter", "Shah Alam Line", "LRT3", "KL Sentral", "getting around Kuala Lumpur without a car"]
+framework: explainer
 ---
 
 クランバレーの鉄道路線図を初めて見ると、それは文字の羅列のように読める——MRT、

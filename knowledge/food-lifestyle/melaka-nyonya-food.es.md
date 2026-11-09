@@ -96,6 +96,7 @@ verificationNeeded:
   - "La historia del origen de los chicken rice balls (que jornaleros o marineros daban forma de bola al arroz para transportarlo) y si el plato realmente se originó en Melaka y no en otra parte — son leyendas populares, no algo firmemente documentado; confírmese con una fuente de historia de la gastronomía."
   - "Si el cendol y la gula Melaka realmente se originaron en Melaka — el bautizo del azúcar de palma en honor a Melaka es la afirmación mejor respaldada, pero el propio origen del cendol sigue sin resolverse (se proponen tanto Java como los peranakan de Melaka/Penang); confírmese con una fuente de historia culinaria."
   - "El origen preciso y el primer elaborador de la tarta de piña (comúnmente atribuida a cocineras nyonya peranakan con influencia de la repostería portuguesa) y el juego de palabras hokkien 'ong lai'/prosperidad tras su papel en el Año Nuevo chino — confírmese con una fuente culinaria o lingüística."
+framework: history-culture
 ---
 
 Pocas localidades de Malasia ponen su historia en un plato de forma tan nítida

@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "sabah-travel-guide" }
 related: []
 keywords: ["permis de plongée Sipadan", "droits des parcs marins Malaisie", "Sabah Parks", "parc marin Département des pêches", "plongée sous-marine Malaisie", "écotourisme marin"]
+framework: rules
 ---
 
 L'eau la plus claire de la Malaisie est aussi la plus difficile à atteindre : pour vous laisser glisser le long du tombant de Sipadan, il vous faut un permis gouvernemental qu'aucune somme d'argent ne vous permettra d'acheter directement. Ce seul fait résume la façon dont le pays gère son tourisme de plongée — l'accès est rationné, tarifé et réparti entre deux autorités très différentes selon la mer dans laquelle vous souhaitez descendre.

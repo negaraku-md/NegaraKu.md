@@ -112,6 +112,7 @@ keywords:
   - "Sarawak Land Code Cap 81"
   - "Samalaju Industrial Park"
   - "perniagaan di Sarawak"
+framework: explainer
 ---
 
 先从一个能说明这是个什么地方的数字讲起。砂拉越同时运行着**两套并行的章次编号系列**，而且两套都在生效。1958 年版的第 64 章是《商业名称条例》。现行系列的第 64 章则是 **2006 年《区域走廊发展局条例》**——即 SCORE 背后的法规。

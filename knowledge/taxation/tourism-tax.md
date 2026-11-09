@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["sst-explained", "sst-registration"]
 keywords: ["tourism tax", "TTx", "Tourism Tax Act 2017", "RM10 per room", "MyTTx", "RMCD", "Agoda tax", "hotel tax Malaysia"]
+framework: explainer
 ---
 
 Check out of a Malaysian hotel and you may notice a small, flat line on the bill that has nothing to do with the room rate: RM10, once per night, per room. That is Tourism Tax — and whether you owe it comes down to a single question the front desk cannot waive: which passport are you holding?

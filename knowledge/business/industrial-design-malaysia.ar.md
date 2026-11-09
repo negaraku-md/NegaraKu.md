@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["patent-malaysia", "trademark-registration-malaysia", "ip-ownership-malaysia"]
 keywords: ["تسجيل التصاميم الصناعية ماليزيا", "التصميم الصناعي MyIPO", "قانون التصاميم الصناعية 1996", "حماية التصميم ماليزيا", "industrial design registration malaysia", "myipo industrial design", "industrial designs act 1996", "design protection malaysia"]
+framework: explainer
 ---
 
 أغلى خطأ منفرد في الملكية الفكرية للمنتجات في ماليزيا هو الإطلاق أولًا. فمقدّم طلب براءة اختراع عرض اختراعه الشهر الماضي لا يزال بخير — إذ تمنح المادة 14(3) من قانون براءات الاختراع لسنة 1983 (Patents Act 1983) مهلة سماح مدتها اثنا عشر شهرًا. أما مقدّم طلب التصميم في الموقف نفسه فيكون عادةً قد خسر الحق بالفعل، لأن قانون التصاميم الصناعية لسنة 1996 لا يمنح ما يعادلها.

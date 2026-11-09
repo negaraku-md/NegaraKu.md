@@ -80,6 +80,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: explainer
 ---
 
 Setiap tahun, sekitar waktu seluruh dunia menuju musim sejuk, pantai timur Malaysia bersiap sedia. Bot ditarik ke darat, resort pulau menutup pintu, pusat bantuan banjir disediakan, dan keluarga di pekan kawasan rendah memerhatikan sungai. Inilah **monsun timur laut** — pengaruh tunggal terbesar ke atas cuaca Malaysia, dan sebab negara ini sebenarnya mempunyai musim lembap yang tersendiri dan bukannya hujan tropika yang seragam sepanjang tahun.

@@ -100,6 +100,7 @@ verificationNeeded:
   - "The reported 2025 proposal to seek UNESCO recognition for Malaysia's open house tradition — confirm the current status and whether any nomination has been made."
   - "Reports that, as a cost-saving measure, federal ministries, agencies and government-linked companies would not hold official Hari Raya open houses in 2026 — this came from a single outlet; confirm against an official government statement before relying on it."
   - "The exact public-holiday dates for Kaamatan (commonly 30-31 May in Sabah) and Gawai Dayak (commonly 1-2 June in Sarawak), and the attribution of specific dishes across the many Dayak and Kadazan-Dusun sub-groups; confirm with Sabah/Sarawak state or cultural-body sources."
+framework: history-culture
 ---
 
 In many countries a festival belongs to the people who celebrate it. In Malaysia

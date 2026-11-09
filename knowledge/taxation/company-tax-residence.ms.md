@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "permanent-establishment" }
 related: ["corporate-tax-rates", "income-tax-act-1967", "lhdn", "sdn-bhd"]
 keywords: ["taraf mastautin cukai syarikat Malaysia", "pengurusan dan kawalan", "seksyen 8 Akta Cukai Pendapatan", "taraf mastautin syarikat", "syarikat pemastautin Malaysia"]
+framework: explainer
 ---
 
 Sebuah Sdn Bhd Malaysia yang ketiga-tiga pengarahnya tinggal di Singapura,

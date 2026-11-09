@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "unaudited-financial-statements" }
 related: ["companies-act-2016"]
 keywords: ["pengecualian audit", "audit exemption", "PD 10/2024", "Arahan Amalan 10/2024", "Sdn Bhd", "syarikat persendirian", "SSM", "seksyen 267", "penyata kewangan tidak diaudit"]
+framework: rules
 ---
 
 Trong nhiều năm, hầu như mọi Sdn Bhd tại Malaysia đều buộc phải bổ nhiệm một kiểm toán viên — dù đó là một cửa hàng tạp hóa một người hay một nhà máy. Vào cuối năm 2023, có 666,767 công ty đang hoạt động nhưng chỉ 1,919 kiểm toán viên được phê duyệt để ký tài khoản của họ. Practice Directive 10/2024 của SSM thay đổi điều đó: bắt đầu từ năm tài chính 2025, hàng trăm nghìn công ty nhỏ có thể bỏ qua kiểm toán theo luật định hoàn toàn — nếu họ đáp ứng các tiêu chí của nó.

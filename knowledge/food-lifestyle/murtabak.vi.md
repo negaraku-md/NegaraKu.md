@@ -92,6 +92,7 @@ verificationNeeded:
   - "Nguồn gốc chính xác của món ăn, vốn còn tranh cãi: các nguồn truy nguyên murtabak khác nhau về Yemen (với tuyến đường tiếp nối qua Ấn Độ), về các thương nhân Ấn Độ và Hồi giáo Tamil, và về một món ăn Ả Rập thời trung cổ ('mutabbaq'/'mutbaq') được ghi chép trong một cuốn sách nấu ăn thời Abbasid thế kỷ 13. Xác nhận với một nguồn lịch sử ẩm thực thay vì truyền thông ẩm thực hay các bản sao bách khoa toàn thư."
   - "Nhãn gọi và bản chất của biến thể ngọt. Ở Indonesia và Malaysia, 'martabak Mesir' thường chỉ phiên bản mặn có trứng và thịt, trong khi bánh kếp gấp ngọt thường được gọi là martabak manis (và ở Malaysia là apam balik). Liệu một 'murtabak Mesir' ngọt riêng biệt hay một murtabak chuối (pisang) có phải là một món Malaysia chính hiệu và được bán rộng rãi — trái với một sự mới lạ riêng của người bán hoặc một sự trùng lặp tên gọi — cần một nguồn ẩm thực địa phương."
   - "Tuyên bố rằng murtabak Malaysia có nhiều trứng hơn và ít thịt băm hơn về tỷ lệ so với các phiên bản Singapore hoặc Johor — xác nhận với một nguồn ẩm thực so sánh."
+framework: explainer
 ---
 
 Hãy xem một chiếc murtabak được làm ở chợ Ramadan và một nửa sức hấp dẫn nằm ở màn trình diễn: một

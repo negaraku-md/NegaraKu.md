@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "malaysian-street-food" }
 related: []
 keywords: ["pasar malam", "pasar tani", "pasar basah", "street food", "FAMA", "gred kebersihan premis makanan", "penjaja"]
+framework: explainer
 ---
 
 जैसे ही शाम ढलती है, एक शांत सड़क अचानक सते के धुएँ, फलों के ढेर और फ़्लोरोसेंट बत्तियों की कतारों वाली एक गली में बदल जाती है — यही है पासार मलाम, मलेशिया की सबसे ज़मीनी संस्थाओं में से एक। पासार तानी और गीले बाज़ार के साथ मिलकर यह जन-बाज़ारों का एक जाल बनाता है जहाँ मलेशियाई लोग हर दिन खरीदारी करते और खाते हैं।

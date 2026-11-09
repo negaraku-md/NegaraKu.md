@@ -95,6 +95,7 @@ verificationNeeded:
   - "Si el masak lemak cili api contiene alguna vez leche de coco en cantidad significativa frente a que «cili api» signifique simplemente muy picante: las fuentes coinciden en que la leche de coco (lemak) es central, pero el equilibrio exacto y si se sofríe (tumis) primero una pasta de especias varía según la familia y el cocinero; confírmese con una fuente culinaria de Negeri Sembilan."
   - "En qué se diferencia el rendang de Negeri Sembilan del rendang malayo/minangkabau más amplio (algunas fuentes dicen que se apoya más en el jengibre, la galanga, el citronela y la leche de coco que en una mezcla pesada de especias secas): confírmese con una fuente culinaria local o académica."
   - "La atribución regional precisa del daging salai a pueblos concretos como Pedas y Rembau, y si el ahumado emplea tradicionalmente una madera en particular: confírmese con una fuente local."
+framework: explainer
 ---
 
 Pide comida en Seremban o en Rembau y un color vuelve una y otra vez a la mesa: una

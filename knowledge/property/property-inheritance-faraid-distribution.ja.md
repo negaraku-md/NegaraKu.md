@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "property-real-property-gains-tax-rpgt" }
 related: []
 keywords: ["faraid", "harta pusaka", "Akta Pembahagian 1958", "Amanah Raya", "sijil faraid", "pewarisan hartanah", "harta pusaka kecil", "Pejabat Tanah"]
+framework: explainer
 ---
 
 マレーシアで誰かが亡くなったとき、誰がその家を相続するかは、まず一つの根本的な事柄にかかっている。すなわち、死者がムスリムか非ムスリムかである。その答えは二つの異なる法体系によって規律され、いずれも土地地権が名義変更される前に、それぞれ別の主管機関を経由する。

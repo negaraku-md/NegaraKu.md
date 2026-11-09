@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#FoongLian", "#ClaypotRice", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 En Jalan Yew, en Pudu, una hilera de ollas de barro reposa sobre brasas de carbón

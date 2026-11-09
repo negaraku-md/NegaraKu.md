@@ -128,6 +128,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: ["labour-law-map-malaysia", "employment-pass-founder-malaysia"]
 keywords: ["employment pass malaysia", "ep category 1 salary", "employment pass salary 2026", "esd registration", "myxpats", "expatriate malaysia", "employment pass renewal"]
+framework: rules
 ---
 
 2026年6月1日、マレーシアにおける駐在員の「価格」は、上限で倍増した。

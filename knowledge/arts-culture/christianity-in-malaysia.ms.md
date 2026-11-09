@@ -71,6 +71,7 @@ faq:
     a: 'Tidak. Kedua-duanya berbeza dari segi liputan: Krismas ialah cuti umum di seluruh negara, manakala Good Friday ialah cuti umum hanya di Sabah dan Sarawak. Ini mencerminkan geografi agama tersebut, kerana lebih daripada dua pertiga orang Kristian Malaysia — dan Sarawak, tempat agama Kristian merupakan agama tunggal terbesar — berada di Malaysia Timur dan bukannya di semenanjung.'
   - q: Apakah Christian Federation of Malaysia, dan badan-badan manakah yang disatukannya?
     a: 'Persekutuan Kristian Malaysia (Christian Federation of Malaysia, CFM), yang ditubuhkan pada 1985, ialah badan payung utama. Ia menyatukan tiga aliran agama Kristian Malaysia: Persidangan Para Uskup Katolik (Catholic Bishops'' Conference), Majlis Gereja-Gereja Malaysia (Council of Churches of Malaysia, Protestan arus perdana) dan Persekutuan Kristian Evangelikal Kebangsaan (National Evangelical Christian Fellowship). CFM menyatakan bahawa ia mewakili lebih daripada 95% gereja di negara ini, kebanyakannya jemaah berbahasa Malaysia di Sabah dan Sarawak.'
+framework: history-culture
 ---
 
 Kisah agama Kristian di Malaysia mempunyai dua pusat graviti, dan kedua-duanya

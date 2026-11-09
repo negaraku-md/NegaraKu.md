@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["EPF", "KWSP", "SOCSO", "PERKESO", "SIP", "EIS", "caruman", "Akta KWSP 1991", "Akta Keselamatan Sosial Pekerja 1969", "persaraan", "insurans pekerjaan"]
+framework: rules
 ---
 
 Buka slip gaji Anda dan tiga potongan muncul sebelum sen pertama masuk ke rekening bank: EPF, SOCSO dan SIP. Ketiganya bukan pilihan — ia ditegakkan oleh tiga undang-undang Parlemen yang terpisah, dan pemberi kerja yang tidak membayarnya dapat dipenjara. Inilah jaring pengaman sosial Malaysia untuk pekerja, dan setiap Ringgit yang dipotong membeli perlindungan yang berbeda.

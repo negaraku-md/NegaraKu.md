@@ -61,6 +61,7 @@ relations:
   - { rel: "explained-in", to: "registering-a-birth" }
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "registering-a-birth"]
 keywords: ["having a baby in Malaysia", "pregnancy Malaysia", "antenatal care Malaysia", "Pink Book pregnancy", "Rekod Kesihatan Ibu", "klinik kesihatan pregnant", "public vs private delivery Malaysia", "birth registration JPN", "maternity Malaysia", "government hospital delivery Malaysia"]
+framework: explainer
 ---
 
 A positive pregnancy test starts two clocks at once, and almost nobody explains that up front. One clock is about the pregnancy itself — when to register, where, what happens at each visit. The other only starts after the baby arrives, and it has nothing to do with hospitals: it's a legal registration with a completely different department.

@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "remove-a-director" }
 related: ["remove-a-director", "agm-requirements", "resolution-notice-periods", "written-resolutions"]
 keywords: ["EGM requisition Malaysia", "section 311 Companies Act 2016", "shareholders call meeting", "10 per cent requisition", "minority shareholder meeting"]
+framework: how-to
 ---
 
 马来西亚每一家秘书事务所写会议，都是从董事局那一边写起，因为董事局才是客户。结果

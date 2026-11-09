@@ -118,6 +118,7 @@ relations:
   - { rel: "related-to", to: "visiting-sabah-and-sarawak" }
 related: []
 keywords: ["getting around Malaysia", "KLIA Ekspres", "KTM ETS train", "domestic flights Malaysia", "AirBorneo", "Grab Malaysia", "Malaysia ferry", "driving in Malaysia", "Touch n Go"]
+framework: explainer
 ---
 
 시차에 지친 채 자정에 쿠알라룸푸르 국제공항에 내리면, 택시 호객꾼들이 이미 주위를 맴돌고 있습니다. 좋은 소식은 말레이시아가 동남아시아에서 가장 관광객 친화적인 교통 체계 중 하나를 갖추고 있어 이 번거로움을 완전히 건너뛸 수 있다는 것입니다 — 빠르고 정액인 공항 기차, 미터제 차량을 불러주는 휴대전화 앱, 그리고 보르네오를 주말 나들이로 만드는 저렴한 국내선입니다. 요령은 어떤 수단을 언제 택할지 아는 것입니다.

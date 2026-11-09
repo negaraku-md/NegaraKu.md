@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "industrial-relations-act-malaysia" }
 related: []
 keywords: ["kesatuan sekerja", "trade union", "Akta Kesatuan Sekerja 1959", "Akta 262", "JHEKS", "e-TUIS", "pindaan 2024", "perundingan kolektif", "Ketua Pengarah Kesatuan Sekerja"]
+framework: explainer
 ---
 
 For decades, a factory worker in Malaysia could only join the one "valid" union for their workplace — and if that union already existed, no other group of workers could establish a new one. The legal reform that took effect on 15 September 2024 changed that fundamental premise.

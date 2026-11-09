@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "work-passes-malaysia", "dependant-social-visit-passes", "imigresen"]
 keywords: ["professional visit pass malaysia", "تصريح الزيارة المهنية ماليزيا", "pvp malaysia", "pvp vs employment pass", "esd professional visit pass", "myxpats pvp", "foreign expert pass malaysia", "تصريح الخبير الأجنبي ماليزيا", "expert transfer pass malaysia", "short term work pass malaysia", "تصريح عمل قصير الأمد ماليزيا"]
+framework: explainer
 ---
 
 يمكن لأجنبيّين أن يجلسا إلى المكتب نفسه في المكتب الماليزي نفسه، يؤديان العمل نفسه، لكنهما على وضع قانوني مختلف تمامًا. أحدهما يحمل تصريح عمل (Employment Pass)، تدفع له الشركة الماليزية راتبه، وقابل للتجديد عامًا بعد عام. والآخر يحمل تصريح زيارة مهنية — لا تزال الشركة التي أرسلته هي من تدفع له، واثنا عشر شهرًا على العدّاد ولا تمديد بعدها. فالهجرة لا ترى موظفَّين. إنها ترى صاحب عمل وضيفًا.

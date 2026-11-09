@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "sabah" }
 related: ["religion-statistics", "article-3-religion", "sarawak", "sabah"]
 keywords: ["Christmas in Malaysia", "Christmas Day public holiday Malaysia", "Christmas Eve Sabah holiday", "Malaysian open house Christmas", "Christians in Malaysia", "Midnight Mass Malaysia", "Holidays Act 1951 Christmas"]
+framework: history-culture
 ---
 
 12월 24일 저녁, 코타키나발루(Kota Kinabalu)나 쿠칭(Kuching)의 한 교회가 늦은 예배로 가득 차는 동안, 수백 킬로미터 떨어진 반도에서는 같은 날짜가 평범한 근무일인 목요일입니다. 이튿날 아침인 12월 25일에는 온 나라가 일을 쉽니다. 그 갈림 — 하나의 날짜, 매우 다른 두 지위 — 이 크리스마스가 말레이시아에 자리하는 방식을 이해하는 가장 깔끔한 방법입니다. 한 공동체에게는 종교 축제이고, 모두에게는 공휴일이며, 신앙과 무관하게 많은 이가 참여하는 열린 문의 철입니다.

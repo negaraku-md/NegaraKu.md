@@ -80,6 +80,7 @@ social:
     - TourOperator
     - DoingBusinessInMalaysia
     - MalaysiaLicensing
+framework: how-to
 ---
 
 Vous avez trouvé des fournisseurs, construit un itinéraire et vous êtes prêt à commencer à vendre des vacances — mais en Malaisie, la vente est la partie que la loi atteint en premier. Avant qu'un seul circuit ne soit annoncé ou qu'un billet ne soit vendu, l'entreprise qui le porte doit être licenciée par le ministère du Tourisme, des Arts et de la Culture (MOTAC). Ce n'est pas une formalité ajoutée après coup ; c'est la porte que vous franchissez pour pouvoir commercer tout court, et exploiter des circuits sans elle est une infraction pénale.

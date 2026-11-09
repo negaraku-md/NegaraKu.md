@@ -81,6 +81,7 @@ relations:
   - { rel: "explained-in", to: "bo-register" }
 related: ["beneficial-ownership", "bo-register", "ebos-filing", "bo-non-cooperation"]
 keywords: ["who is a beneficial owner Malaysia", "beneficial owner criteria SSM", "20% shareholding beneficial owner", "ultimate effective control Malaysia", "nominee shareholder beneficial owner"]
+framework: explainer
 ---
 
 实益拥有权申报的难处不在于呈报。难处在于站在一个股权结构面前，决定谁的名字

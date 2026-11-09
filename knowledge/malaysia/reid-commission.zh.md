@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "nine-royal-houses" }
 related: ["independence-1957", "malayan-union", "formation-of-malaysia-1963"]
 keywords: ["Reid Commission", "Federation of Malaya Constitution", "Lord Reid", "Ivor Jennings", "1957 constitution", "Malayan independence"]
+framework: profile
 ---
 
 1956年初，当马来亚的领导人与英国政府达成共识，认为独立应于1957年8月前实现时，他们面对一个单靠期限本身无法解决的问题：这个新国家还没有一部宪法。他们没有自己动笔，而是把这项任务交给五位法学家——当中没有一人是马来亚人——请他们从外部，为一个他们自己不会居住其中的国家设计法律架构。

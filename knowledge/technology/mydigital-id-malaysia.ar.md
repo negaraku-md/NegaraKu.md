@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "pdpa-2010" }
 related: ["mykad", "jpn", "pdpa-2010"]
 keywords: ["mydigital id", "الهوية الرقمية الوطنية الماليزية", "identiti digital nasional malaysia", "myniise", "myjpj mydigital id", "التسجيل في mydigital id"]
+framework: explainer
 ---
 
 ربما تكون قد صادفتها بالفعل دون أن تدري: شاشة تسجيل دخول جديدة تظهر عند فتحك تطبيق MyJPJ أو محاولتك تجديد ضريبة الطريق. تلك هي MyDigital ID، وطوال 2026 تتحول من شيء اختياري إلى البوابة الوحيدة إلى عدد متزايد من الخدمات الحكومية.

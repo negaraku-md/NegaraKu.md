@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution", "companies-act-2016", "employment-act-1955"]
 keywords: ["Malaysia court hierarchy", "Sessions Court jurisdiction RM1 million", "Magistrates Court limit RM100,000", "Courts of Judicature Act 1964", "Subordinate Courts Act 1948", "hierarki mahkamah Malaysia"]
+framework: data-reference
 ---
 
 Presente una reclamación por incumplimiento de contrato de RM1.2 millones en el Tribunal de Sesiones y no importará lo sólido que sea su caso. El tribunal no tiene potestad para conocerlo. Presente esa misma reclamación por RM80,000 en el Tribunal Superior y lo más probable es que le digan que está en el edificio equivocado, y que pague por el rodeo.

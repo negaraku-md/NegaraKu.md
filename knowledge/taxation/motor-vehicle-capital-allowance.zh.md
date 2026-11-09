@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "benefits-in-kind" }
 related: ["benefits-in-kind", "corporate-tax-rates"]
 keywords: ["motor vehicle capital allowance Malaysia", "RM50000 RM100000 car capital allowance", "Schedule 3 paragraph 2(2)", "company car tax deduction Malaysia", "EV lease tax deduction Malaysia"]
+framework: rules
 ---
 
 一家公司买了一辆 RM320,000 的行政房车，入账为机器设备，指望就 RM320,000 拿资本

@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["independence-1957", "formation-of-malaysia-1963", "melaka-sultanate"]
 keywords: ["occupation japonaise", "pendudukan Jepun", "Malaya 1941-1945", "argent banane", "duit pisang", "Kota Bharu 1941", "administration militaire japonaise", "Seconde Guerre mondiale Malaisie"]
+framework: history-culture
 ---
 
 Huit semaines. C'est le laps de temps entre le premier débarquement des forces japonaises sur la côte de Kelantan et le jour où toute la Malaya fut entre les mains japonaises — un territoire que les Britanniques avaient gouverné, sous diverses formes, pendant plus d'un siècle et demi.

@@ -62,6 +62,7 @@ relations:
   - { rel: "part-of", to: "education" }
 related: []
 keywords: ["special education Malaysia", "PPKI programme", "PPI inclusive education", "OKU card children", "sekolah pendidikan khas", "learning disability support Malaysia", "special education curriculum Malaysia", "TASKA OKU"]
+framework: explainer
 ---
 
 Diagnosis hanyalah perbualan pertama. Perbualan kedua — selalunya lebih mengelirukan — ialah laluan sekolah mana yang anak anda sebenarnya masuki, dan mengapa kad OKU nampaknya penting sebelum sekolah itu sendiri. Sistem Malaysia mempunyai tiga laluan awam, satu proses pendaftaran kurang upaya yang berasingan yang menyalurkan kepada ketiga-tiganya, dan satu dunia selari terapi swasta dan NGO yang kebanyakan ibu bapa temui dari mulut ke mulut dan bukan daripada mana-mana satu laman rasmi tunggal.

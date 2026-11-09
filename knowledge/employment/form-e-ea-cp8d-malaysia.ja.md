@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "pcb-mtd-malaysia" }
 related: ["payroll-rates-deadlines-malaysia", "payroll-compliance-malaysia", "epf-socso-guide"]
 keywords: ["Form E deadline Malaysia", "Form EA 28 February", "CP8D submission", "e-Data Praisi cut off", "Borang E LHDN majikan", "e-CP8D"]
+framework: how-to
 ---
 
 毎年2月になると、マレーシアのどこかの給与担当者の受信箱は、決まって同じ疑問で埋まる。

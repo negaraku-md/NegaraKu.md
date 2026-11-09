@@ -71,6 +71,7 @@ social:
     - LHDN
     - PersonalTax
     - VSS
+framework: explainer
 ---
 
 Kehilangan pekerjaan biasanya datang dengan pembayaran, dan pertanyaan pertama sering kali pertanyaan yang salah: "berapa banyak pajak yang harus saya bayar atasnya?" Pertanyaan yang benar adalah "berapa banyak dari ini yang sebenarnya *kompensasi karena kehilangan pekerjaan saya* — dan berapa banyak yang hanya gaji biasa saya dalam samaran?" Undang-undang pajak Malaysia menarik garis yang tegas antara keduanya, dan hanya satu sisi garis itu yang mendapat pengecualian yang murah hati. Salah membuat pembagian dan Anda entah terlebih bayar pajak atau menerima taksiran yang menyakitkan kemudian.

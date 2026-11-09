@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "data-breach-notification-malaysia" }
 related: ["online-safety-act-malaysia", "debt-recovery-malaysia", "data-breach-notification-malaysia"]
 keywords: ["laporan polis", "cara buat laporan polis", "e-reporting PDRM", "997 NSRC", "999 kecemasan", "Seksyen 107 Kanun Tatacara Jenayah"]
+framework: how-to
 ---
 
 車がこじ開けられた、財布を強奪された、または資金が無断で口座から移された——この三つのいずれの状況でも、次に関わる各当事者（保険会社であれ、銀行であれ、裁判所であれ）が最初に求めてくる文書は、あなたの警察通報番号である。それを正しく、かつ正しい順序で取得する方法を知っていれば、何時間も節約でき、ときにはあなたのお金を救うことにもなる。

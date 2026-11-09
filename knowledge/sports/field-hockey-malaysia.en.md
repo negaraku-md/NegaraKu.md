@@ -86,6 +86,7 @@ keywords:
   - "Konfederasi Hoki Malaysia"
   - "kedudukan hoki dunia FIH Malaysia"
   - "Piala Dunia hoki 1975 Kuala Lumpur"
+framework: history-culture
 ---
 
 On 15 March 1975, a stadium in Kuala Lumpur watched India lift the men's hockey World Cup for the only time in their history — and the host was not India, but Malaysia. Half a century later, the same country still invites the world's hockey powers to Ipoh every year. Field hockey may not be Malaysia's most popular sport today, but it may well be the nation's most internationally respected sporting legacy.

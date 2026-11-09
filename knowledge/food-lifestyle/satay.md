@@ -89,6 +89,7 @@ keywords:
   - "charcoal grilled skewers"
 social:
   hashtags: ["#Satay", "#SatayKajang", "#SatayCelup", "#MalaysianFood", "#Malaysia"]
+framework: explainer
 ---
 
 The sound comes first: a hand-fan beating over a trench of glowing charcoal, a hiss

@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["thaipusam", "hinduism-in-malaysia", "mariamman-worship", "ayyappan-pilgrimage", "deepavali", "navaratri", "tamil-in-malaysia"]
 keywords: ["பங்குனி உத்திரம்", "Panguni Uthiram", "பங்குனி உத்திரம் மலேசியா", "முருகன் தெய்வானை", "காவடி", "மாறான் மாரத்தாண்டவர் கோயில்", "இரண்டாம் தைப்பூசம்"]
+framework: history-culture
 ---
 
 பங்குனி மாதம் வானில் முழு நிலவு நிறையும் ஓர் இரவு. தமிழ் மரபில் இந்த

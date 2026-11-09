@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "myinvois-phases" }
 related: ["e-invoicing", "myinvois-phases", "e-invoice-data-fields", "consolidated-e-invoice", "self-billed-e-invoice"]
 keywords: ["MyInvois integration", "MyInvois API", "MyInvois Portal", "Peppol Malaysia", "e-Invoice middleware", "e-invois integrasi sistem"]
+framework: decision
 ---
 
 Gần như mọi thứ được viết về quyết định này đều được viết bởi một người đang bán

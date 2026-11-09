@@ -78,6 +78,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["CharKoayKak", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 char koay kak เป็นเมนูของคนในวงการอาหารหาบเร่ — เค้กข้าวหั่นเต๋าที่ไหม้เกรียมใน

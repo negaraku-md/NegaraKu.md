@@ -70,6 +70,7 @@ keywords:
   - "cabutan sijil kelahiran"
   - "JPN.LM01"
   - "JPN.LM12"
+framework: how-to
 ---
 
 Banyak orang tua baru menganggap mendaftarkan kelahiran anak sebagai dokumen

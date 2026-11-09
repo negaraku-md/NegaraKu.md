@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik"]
 keywords: ["Wayang Kulit", "shadow puppet Malaysia", "Tok Dalang", "Hikayat Seri Rama", "Kelantan traditional arts"]
+framework: history-culture
 ---
 
 먼저 등불이 켜집니다. 나무 틀에 팽팽하게 걸린 흰 무명천 뒤에 한 남자가 책상다리로 앉아 있고, 그의 양옆 손 닿는 곳에는 납작한 가죽 인형이 쌓여 있으며, 등 뒤에서는 북과 공(gong), 그리고 날카로운 겹서(reed) 악기인 스루나이(serunai)로 이루어진 작은 악단이 기다립니다. 그는 남은 밤 내내 그 자리를 떠나지 않습니다. 여러 시간 뒤 마지막 그림자가 막을 가로지를 무렵이면, 그는 왕과 악마, 어릿광대와 공주의 목소리를 연기하고, 장면 사이의 전환을 서술하며, 모든 악사에게 신호를 주었을 것입니다 — 홀로.

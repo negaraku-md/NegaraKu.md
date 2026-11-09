@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "going-concern-audit" }
 related: ["statutory-audit-process", "audit-opinion-types", "going-concern-audit"]
 keywords: ["transactions avec les parties liées", "related party transactions", "ISA 550", "MFRS 124", "arm's length", "Chapitre 10 de Bursa", "Bursa Chapter 10", "transactions récurrentes avec les parties liées", "risque d'audit"]
+framework: explainer
 ---
 
 Une entreprise vend de l'huile de palme brute à une autre entreprise détenue par son propre actionnaire principal. Rien sur la facture n'indique s'il s'agit d'un accord de fourniture ordinaire ou de la première étape pour drainer de la valeur au détriment des actionnaires minoritaires. Le travail de l'auditeur est de découvrir laquelle des deux choses c'est, et c'est exactement pour cela qu'est écrite la Norme internationale d'audit 550, *Parties liées*.

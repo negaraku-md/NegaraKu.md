@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["sales-tax-explained", "customs-import-duty", "sst-registration"]
 keywords: ["low value goods", "LVG sales tax", "online shopping tax Malaysia", "10% sales tax imported goods", "MyLVG", "cukai jualan barang bernilai rendah", "RMCD low value goods"]
+framework: explainer
 ---
 
 เป็นเวลาหลายปีที่แกดเจ็ตราคาต่ำกว่า RM500 ที่สั่งจากร้านค้าออนไลน์ต่างประเทศมาถึงหน้าประตูบ้านของคุณโดยปลอดภาษี ตั้งแต่วันที่ 1 มกราคม 2024 ไม่เป็นเช่นนั้นอีกต่อไป

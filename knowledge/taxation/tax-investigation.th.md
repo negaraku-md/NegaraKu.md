@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "income-tax" }
 related: ["tax-audit"]
 keywords: ["siasatan cukai", "tax investigation", "LHDN", "Seksyen 114", "pengelakan cukai", "rangka kerja siasatan cukai", "audit cukai"]
+framework: explainer
 ---
 
 เมื่อจดหมายของ LHDN ที่มาถึงไม่ใช่การขอเอกสารประกอบอีกต่อไปแต่แจ้งว่าอาคารสถานที่ของคุณจะถูกตรวจ คุณอาจข้ามเส้นระหว่างการตรวจสอบและการสอบสวนไปแล้ว ทั้งสองเกี่ยวข้องกับกรมสรรพากรมาเลเซีย (LHDN) แต่มีเพียงหนึ่งที่สามารถนำไปสู่การฟ้องร้องในศาลอาญาได้

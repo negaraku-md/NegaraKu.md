@@ -40,6 +40,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "melaka-sultanate" }
 keywords: ["Langkasuka", "kerajaan Melayu awal", "sejarah purba Kedah", "Lang-ya-xiu", "Malaysia pra-Islam"]
+framework: history-culture
 ---
 
 Pada abad ketujuh, seorang ahli sejarah istana China yang menyusun Kitab Liang mencatatkan apa yang telah dilaporkan oleh utusan terdahulu tentang sebuah kerajaan jauh di selatan: sebuah kota berdinding, seorang raja yang menunggang gajah, sebuah istana tempat para pegawai tunduk dengan tangan bertangkup di hadapan rajanya. Ahli sejarah itu menamakan tempat itu "Lang-ya-xiu." Hampir pasti dia sedang menggambarkan Langkasuka — dan ayat itu, terkubur dalam sebuah sejarah dinasti yang disusun untuk tujuan yang sama sekali berbeza, ialah salah satu daripada segelintir gambaran terperinci tentang tempat ini yang masih terselamat di mana-mana jua.

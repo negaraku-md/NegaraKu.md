@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["patent-malaysia", "trademark-registration-malaysia", "ip-ownership-malaysia"]
 keywords: ["pendaftaran reka bentuk perindustrian malaysia", "reka bentuk perindustrian myipo", "akta reka bentuk perindustrian 1996", "perlindungan reka bentuk malaysia", "harta intelek reka bentuk produk malaysia"]
+framework: explainer
 ---
 
 Kesilapan paling mahal dalam harta intelek produk di Malaysia ialah melancarkan

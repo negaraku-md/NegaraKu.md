@@ -93,6 +93,7 @@ keywords:
   - "section 46 Companies Act 2016"
   - "व्यवसाय पता बनाम पंजीकृत कार्यालय"
   - "business address vs registered office"
+framework: explainer
 ---
 
 तीन पते, और वे एक ही चीज़ नहीं हैं।

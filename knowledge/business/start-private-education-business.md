@@ -79,6 +79,7 @@ social:
     - PrivateSchool
     - EducationMalaysia
     - MalaysiaLicensing
+framework: how-to
 ---
 
 Opening a tuition centre or a private school looks, from the outside, like renting a shoplot, hiring good teachers and printing a banner. In Malaysia it is not. Education is a regulated activity, and registering a company with SSM — the step most first-time operators think of as "starting the business" — only gets you a legal entity. It does not give you the right to teach a single paying student.

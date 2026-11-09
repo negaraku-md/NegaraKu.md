@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
 related: ["spr-election-commission", "dewan-rakyat", "how-elections-work", "federal-constitution", "independence-1957"]
 keywords: ["14th general election", "GE14", "PRU14", "2018 Malaysian general election", "change of government Malaysia", "Pakatan Harapan", "Barisan Nasional", "Dewan Rakyat 222 seats", "Article 43 Federal Constitution", "Mahathir seventh Prime Minister"]
+framework: history-culture
 ---
 
 Suốt 61 năm, từ cuộc bầu cử liên bang đầu tiên sau khi độc lập năm 1957 cho đến năm 2018, mọi chính phủ liên bang của Malaysia đều do một liên minh duy nhất lập nên — [Liên minh Alliance](/malaysia/the-alliance), và từ thập niên 1970 là người kế tục của nó, [Barisan Nasional](/malaysia/barisan-nasional). Tại cuộc tổng tuyển cử lần thứ 14, sự liên tục đó kết thúc: một liên minh khác giành được đa số ghế trong Dewan Rakyat.

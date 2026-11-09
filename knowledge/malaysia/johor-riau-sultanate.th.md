@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "straits-settlements" }
 related: ["melaka-sultanate", "portuguese-melaka-1511", "straits-settlements", "singapore-separation-1965"]
 keywords: ["Kesultanan Johor-Riau", "Kesultanan Johor", "Sultan Alauddin Riayat Shah II", "Sultan Mahmud Shah", "waris Kesultanan Melaka", "Johor Lama", "Dinasti Bendahara", "Riau-Lingga", "institusi diraja Melayu"]
+framework: history-culture
 ---
 
 ในปี 1511 ปืนใหญ่ของโปรตุเกสได้ทำลายเมือง แต่ไม่ใช่ราชบัลลังก์ เมื่อเมืองมะละกาล่มลง สุลต่านมะฮ์มุด ชาห์ (Sultan Mahmud Shah) สุลต่านมะละกาองค์สุดท้าย ไม่ได้ยอมจำนน พระองค์ล่าถอยไปทางใต้พร้อมกับราชวงศ์ บรรดาขุนนาง และที่สำคัญที่สุด ลำดับสถาบันทั้งหมดที่ทำให้มะละกาเป็นรัฐสุลต่าน เมืองนั้นสูญไป รัฐสุลต่านนั้นเคลื่อนที่

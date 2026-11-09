@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "public-vs-private-universities" }
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["UPSR dimansuhkan", "PT3 dimansuhkan", "Pentaksiran Bilik Darjah", "PBD Malaysia", "SPM Malaysia", "Matriks Pembelajaran Malaysia", "Lembaga Peperiksaan", "peperiksaan sekolah Malaysia", "PBS Malaysia"]
+framework: explainer
 ---
 
 如果你的孩子现在读六年级，他们不会应考UPSR。如果孩子读中三，也没有PT3在等着。那些曾经决定整个求学历程的大型考试——你自己的父母当年可能就是在巨大压力下经历过的那种——已经消失好几年了。但许多家长仍然感到困惑：取而代之的是什么、这些考试会不会恢复、以及孩子现在的学校里每天到底发生什么事。

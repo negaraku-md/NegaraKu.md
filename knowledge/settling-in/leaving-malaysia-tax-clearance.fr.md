@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "epf-socso-employees" }
 related: ["lhdn", "tax-clearance", "offboarding-statutory-checklist", "employment-pass-malaysia", "moving-to-malaysia-first-steps", "epf-socso-employees"]
 keywords: ["tax clearance Malaysia", "Surat Penyelesaian Cukai", "SPC LHDN", "CP21 form Malaysia", "leaving Malaysia tax clearance", "expatriate tax clearance Malaysia", "e-SPC MyTax", "EPF leaving country withdrawal"]
+framework: rules
 ---
 
 Vous avez remis votre démission, réservé votre vol et commencé à donner vos meubles. Puis les RH vous demandent une chose dont vous n'avez jamais entendu parler : une Lettre de quitus fiscal. Sans elle, une partie de votre dernière paie ne bouge pas — et ce n'est même pas à vous de la demander.

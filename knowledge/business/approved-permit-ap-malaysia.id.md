@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "miti" }
 related: ["import-export-licence-malaysia", "automotive-industry-malaysia", "miti"]
 keywords: ["approved permit", "AP Malaysia", "open AP", "franchise AP", "car import permit", "permit import kenderaan", "MITI AP", "parallel import car Malaysia"]
+framework: explainer
 ---
 
 Sedikit singkatan tiga huruf yang membawa bobot sebesar "AP" di pasar mobil Malaysia. Ia adalah alasan mengapa sebuah mobil impor bisa jauh lebih mahal di sini dibandingkan di luar negeri, menjadi pokok perdebatan politik selama puluhan tahun, dan sebuah permit yang tak pernah dilihat kebanyakan pembeli tetapi selalu mereka bayar.

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "mbrs-xbrl-filing" }
 related: ["companies-act-2016"]
 keywords: ["MFRS 10", "consolidated financial statements", "control", "subsidiary", "holding company", "Companies Act 2016", "MBRS", "group accounts", "Malaysia"]
+framework: explainer
 ---
 
 收购另一家公司的控股权，你所做的不只是在资产负债表上添加一个项目——你缔造了一个马来西亚会计规则坚持要作为单一实体对待的集团。这正是 MFRS 10《合并财务报表》背后那股无声的力量：当一家公司控制另一家的那一刻起，两者必须作为一个整体向外界报告。

@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["bank-negara-malaysia", "bursa-malaysia", "federal-budget", "epf-as-investor"]
 keywords: ["MGS", "GII", "sukuk", "Malaysian government securities", "corporate bonds", "RENTAS", "Sukuk Simpanan Rakyat", "bond market Malaysia"]
+framework: explainer
 ---
 
 Ketika pemerintah Malaysia membangun jalan raya atau rumah sakit, ia jarang membayar tunai seketika. Ia meminjam — dan surat pengakuan utang yang dikeluarkannya adalah obligasi. Lipatgandakan itu lintas berdekade-dekade belanja pembangunan, tambahkan setiap perusahaan yang meminjam dengan cara yang sama, dan Anda memperoleh salah satu pasar obligasi mata uang lokal yang paling dalam di Asia, berjalan di atas dua jalur paralel: utang konvensional dan sukuk patuh Syariah.

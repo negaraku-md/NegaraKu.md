@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["batik", "wayang-kulit"]
 keywords: ["songket", "tissage songket", "kek tenun", "fil d'or", "songket Terengganu", "songket Kelantan"]
+framework: history-culture
 ---
 
 Le son que l'on entend le plus souvent dans un atelier de songket n'est pas celui d'une machine. C'est celui du bois que l'on presse, du fil que l'on tire et d'une pointe de bambou qui se glisse puis se retire, encore et encore, une rangée de motif à la fois, toute la journée.

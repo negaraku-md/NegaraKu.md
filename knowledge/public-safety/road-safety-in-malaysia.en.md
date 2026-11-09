@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "driving-licence-in-malaysia" }
 related: []
 keywords: ["keselamatan jalan raya", "kemalangan jalan raya Malaysia", "pemanduan mabuk", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
+framework: explainer
 ---
 
 Every day, roughly 18 lives are lost on Malaysia's roads. That figure makes the roads one of the country's most significant causes of unnatural death, and the main reason dedicated laws, cameras and agencies have been deployed to address it.

@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["formation-of-malaysia-1963", "singapore-separation-1965", "ma63"]
 keywords: ["Konfrontasi", "Konfrontasi Indonesia Malaysia", "Ganyang Malaysia", "Perjanjian Jakarta 1966", "pembentukan Malaysia 1963", "Sukarno Suharto"]
+framework: history-culture
 ---
 
 மலேசியா 16 செப்டம்பர் 1963 அன்று, அதை அமைதியுடன் வரவேற்காத ஒரு பிராந்தியத்தில் பிறந்தது. மிகவும் பெரிய ஓர் அண்டை நாடு ஏற்கெனவே தனது எதிர்ப்பை அறிவித்திருந்தது; சில மாதங்களுக்குள் அந்தப் புதிய போர்னியோ எல்லை, போர் என உத்தியோகபூர்வமாக ஒருபோதும் பிரகடனப்படுத்தப்படாத — ஆனால் கிட்டத்தட்ட நான்கு ஆண்டுகள் நீடித்த — ஒரு ஆயுத மோதலின் முன்னணிக் களமாக மாறியது. அந்த மோதல் Konfrontasi என அறியப்படுகிறது.

@@ -92,6 +92,7 @@ verificationNeeded:
   - "L'étiquette « vanille de l'Asie du Sud-Est » est un cadrage culinaire répandu, non une relation botanique (le pandan et la vanille sont des plantes sans lien) ; vérifier la formulation auprès d'une référence botanique ou culinaire si la précision importe."
   - "L'origine du gâteau au pandan / chiffon au pandan (attribuée diversement à la pâtisserie des Indes orientales néerlandaises et, via CNN, au gâteau chiffon américain du XXe siècle) — la vérifier auprès d'une source d'histoire culinaire, et non auprès des médias d'actualité ou de recettes."
   - "Les propriétés santé ou médicinales du pandan souvent citées — de nombreuses allégations populaires circulent et ne sont pas établies ici ; vérifier toute allégation de ce type auprès d'une source évaluée par les pairs ou clinique avant de l'énoncer."
+framework: explainer
 ---
 
 Soulevez le couvercle d'une marmite de riz au lait de coco dans une cuisine malaisienne et la

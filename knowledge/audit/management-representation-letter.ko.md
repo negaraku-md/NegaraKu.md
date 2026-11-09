@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "auditor-report" }
 related: []
 keywords: ["surat perwakilan pengurusan", "management representation letter", "ISA 580", "perwakilan bertulis", "written representations", "bukti audit", "juruaudit"]
+framework: explainer
 ---
 
 모든 감사가 끝나갈 무렵, 이사는 간과하기 쉬우나 무게를 지니는 하나의 서류에

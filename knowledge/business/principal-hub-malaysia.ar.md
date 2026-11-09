@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "representative-regional-office-malaysia" }
 related: ["mida"]
 keywords: ["المركز الرئيسي ماليزيا", "مركز الخدمات العالمية ماليزيا", "المقر الإقليمي ماليزيا", "حافز MIDA", "principal hub malaysia", "global services hub malaysia", "regional headquarters malaysia", "GSH tax incentive malaysia"]
+framework: explainer
 ---
 
 لا تضع الشركات متعددة الجنسيات مقارها الإقليمية في أي مكان اعتباطاً — بل تتبع الحوافز. ولسنوات، كان عرض ماليزيا للشركات التي تقرر أين تؤسس عمليات إدارتها الإقليمية ومواردها المالية وخدماتها المشتركة هو حافز **Principal Hub** (المركز الرئيسي). وقد أُغلق ذلك المخطط، ولم يواكب كثير من النصائح على الإنترنت هذا التطور بعد. وإذا كنت تدرس ماليزيا قاعدةً للعمليات اليوم، فإن المسار القائم فعلاً هو **Global Services Hub** (مركز الخدمات العالمية).

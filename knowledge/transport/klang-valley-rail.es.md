@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["kuala-lumpur", "selangor"]
 keywords: ["tren Valle de Klang", "Rapid KL", "Línea MRT Kajang", "Línea MRT Putrajaya", "Línea LRT Kelana Jaya", "Monorraíl KL", "KTM Komuter", "Línea Shah Alam", "LRT3", "KL Sentral", "moverse por Kuala Lumpur sin coche", "Klang Valley rail"]
+framework: explainer
 ---
 
 Mire por primera vez un mapa ferroviario del Valle de Klang y se lee como una

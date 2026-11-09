@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#Leens", "#BibGourmand", "#MichelinGuide", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Taman Tun Dr Ismail की एक दुकान में, ताज़ा सिकी ब्रेड की ख़ुशबू साइनबोर्ड से पहले

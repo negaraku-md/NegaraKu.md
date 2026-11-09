@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "unit-trust-funds-malaysia" }
 related: ["bursa-malaysia", "securities-commission-malaysia", "unit-trust-funds-malaysia"]
 keywords: ["CDS account", "Bursa Anywhere", "stockbroker Malaysia", "how to buy shares", "brokerage fees", "clearing fee", "stamp duty shares"]
+framework: how-to
 ---
 
 拥有马银行（Maybank）或国家能源（Tenaga）的一小部分股权，起步靠的是两个账户，而不是一个——而且两者都不是银行账户。在你能够在马交所（Bursa Malaysia）买入哪怕一股之前，你都需要一个*持有*股票的地方和一个*下单*的地方。以下是两者如何配合，以及每一笔交易实际的成本。

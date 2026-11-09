@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "chinese-religion-in-malaysia" }
 related: ["chinese-religion-in-malaysia", "buddhism-in-malaysia", "hungry-ghost-festival", "religion-statistics"]
 keywords: ["九皇爷诞", "九皇大帝", "九皇胜会", "斗母元君", "食斋", "斋戒", "请水", "送驾", "过火", "安邦南天宫", "香港巷斗母宫", "Nine Emperor Gods Festival", "Kaw Ong Ya"]
+framework: history-culture
 ---
 
 음력 9월 1일 전야, 흰옷을 입고 허리에 황색 띠를 두른 신도들의 행렬이 맑은 향을 손에 들고 사원에서 줄줄이 나와 가장 가까운 강가나 바닷가로 향한다. 앞에는 징과 북, 뒤에는 향 연기—그들은 '청수'와 '영가'를 위해, 구황대제를 사원으로 맞이하러 가는 것이다. 이어지는 아흐레 동안 사원 안에서는 향화가 끊이지 않고, 사원 밖에서는 채식의 향이 감돈다. 그리고 9일 밤이 되면 같은 행렬이 다시 물가에 늘어서 신을 배웅한다.

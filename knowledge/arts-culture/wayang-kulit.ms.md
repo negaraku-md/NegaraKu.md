@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik"]
 keywords: ["Wayang Kulit", "wayang kulit Malaysia", "Tok Dalang", "Hikayat Seri Rama", "seni tradisional Kelantan"]
+framework: history-culture
 ---
 
 Pelita dinyalakan dahulu. Di sebalik skrin kapas putih yang direntang ketat pada rangka kayu, seorang lelaki duduk bersila, setimbun patung kulit leper dalam capaian di kiri dan kanannya, sebuah orkestra kecil terdiri daripada gendang, gong dan serunai berlidah dua yang nyaring menanti di belakangnya. Dia tidak akan meninggalkan tempat itu sepanjang malam. Menjelang bayang terakhir merentasi skrin, beberapa jam dari sekarang, dia telah pun menyuarakan raja, raksasa, pelawak dan puteri, menceritakan peralihan antara babak, dan memberi isyarat kepada setiap pemuzik — seorang diri.

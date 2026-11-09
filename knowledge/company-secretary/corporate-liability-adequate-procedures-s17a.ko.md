@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016"]
 keywords: ["Section 17A", "MACC Act", "corporate liability", "adequate procedures", "T.R.U.S.T.", "anti-corruption Malaysia", "corporate bribery", "GIACC"]
+framework: rules
 ---
 
 하급 영업 대리인이 계약을 따내기 위해 리베이트를 지급하고, 이사회에는 전혀 알리지

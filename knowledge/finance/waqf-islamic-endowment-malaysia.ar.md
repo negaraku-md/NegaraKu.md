@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "donations-and-tax-deductions" }
 related: ["islamic-finance", "state-islamic-religious-councils", "zakat", "donations-and-tax-deductions"]
 keywords: ["waqf", "wakaf", "Islamic endowment Malaysia", "cash waqf", "corporate waqf", "JAWHAR", "Yayasan Waqaf Malaysia", "waqf land Malaysia"]
+framework: explainer
 ---
 
 أعطِ رجلاً سمكةً يأكل يوماً. واقفِ بركةَ سمكٍ لا يمكن أن تُباع أبداً، تأكل القريةُ كلّها إلى الأبد. ذلك، في جملة، هو الوقف.

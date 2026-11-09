@@ -96,6 +96,7 @@ relations:
   - { rel: "governs", to: "personal-data-protection-act-2010" }
 related: ["pdpa-compliance-malaysia", "online-business-licence-malaysia"]
 keywords: ["data protection officer malaysia", "dpo malaysia", "section 12a pdpa", "pdpa dpo threshold", "appoint dpo malaysia"]
+framework: rules
 ---
 
 多数马来西亚企业读到 DPO 门槛，看见「20,000 名资料当事人」，认定自己八竿子打不着，

@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "online-business-licence-malaysia" }
 related: ["online-safety-act-malaysia", "online-business-licence-malaysia"]
 keywords: ["licencia de redes sociales Malasia", "social media licence Malaysia", "licencia de clase ASP MCMC", "ASP class licence MCMC", "licencia 8 millones de usuarios Malasia", "8 million users Malaysia licence", "¿necesito una licencia de redes sociales Malasia?"]
+framework: explainer
 ---
 
 Cada pocos meses se le dice a un vendedor malasio que necesita una licencia de redes sociales. No la necesita.

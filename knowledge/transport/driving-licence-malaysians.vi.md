@@ -73,6 +73,7 @@ keywords:
   - "CDL lesen memandu kompeten"
   - "ujian JPJ KPP"
   - "sistem KEJARA mata demerit"
+framework: explainer
 ---
 
 Phần lớn mọi người coi "giấy phép lái xe" là một tài liệu duy nhất. Nó

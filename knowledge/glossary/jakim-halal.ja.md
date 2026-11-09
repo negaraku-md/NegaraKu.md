@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "kpdn" }
 related: ["jakim"]
 keywords: ["halal", "JAKIM", "sijil halal", "pensijilan halal", "MYeHALAL", "logo halal", "Akta Perihal Dagangan 2011", "MAIN", "JAIN"]
+framework: explainer
 ---
 
 書体で描かれた公式ハラルロゴは、食品パッケージの上では小さく見えるかもしれない——しかしその背後には、一つの連邦制度、数百万リンギットの罰金を科す法律、そしてマレーシアである製品がハラルを名乗れるかどうかを決定する唯一の機関が存在する。その機関がJAKIMである。

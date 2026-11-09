@@ -150,6 +150,7 @@ relations:
   - { rel: "related-to", to: "retrenchment-malaysia" }
 related: ["labour-law-map-malaysia", "domestic-inquiry-malaysia", "unfair-dismissal-malaysia", "retrenchment-malaysia", "termination-benefits-malaysia", "offboarding-statutory-checklist"]
 keywords: ["termination of employment malaysia", "notice period malaysia", "at will employment malaysia", "payment in lieu of notice", "just cause or excuse", "final salary after resignation malaysia", "section 12 employment act"]
+framework: rules
 ---
 
 கோலாலம்பூரில் உள்ள ஒரு முதலாளி, ஒரு மேலாளர் பொருந்தவில்லை என்று திங்கட்கிழமை முடிவு செய்கிறார். வேறு எங்காவது உள்ள சட்ட ஆலோசகர் அறிவிப்பு விதி பற்றிக் கேட்பார். மலேசியாவில் முதல் கேள்வி வேறுபட்டது, மேலும் அதுதான் வழக்கை முடிவு செய்யும் கேள்வி: **காரணம் என்ன, அதை உங்களால் நிரூபிக்க முடியுமா?**

@@ -109,6 +109,7 @@ relations:
   - { rel: "compares-with", to: "epf-employer-guide" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "pcb-mtd-malaysia"]
 keywords: ["SOCSO अंशदान दर मलेशिया", "EIS दर नियोक्ता", "PERKESO मज़दूरी सीमा RM6000", "SOCSO श्रेणी 1 श्रेणी 2", "LINDUNG 24 Jam SKBBK", "SOCSO contribution rate Malaysia", "EIS rate employer"]
+framework: rules
 ---
 
 किसी SOCSO दर को जाँचने से पहले, उस सीमा को जाँचें जिस पर वह लागू होती है। यहीं अधिकांश प्रकाशित मलेशियाई पेरोल-सामग्री विफल होती है, और यह चुपचाप विफल होती है — एक अधिक्रमित सीमा पर लागू की गई सही प्रतिशत एक ऐसा आँकड़ा देती है जो विश्वसनीय दिखता है पर जो बस बहुत छोटा है।

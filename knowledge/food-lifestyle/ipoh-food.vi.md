@@ -95,6 +95,7 @@ verificationNeeded:
   - "Nguồn gốc và niên đại của Ipoh white coffee, kể cả việc gán theo truyền miệng cho các chủ quán cà phê người Hải Nam và bất kỳ thập niên cụ thể nào (một số thuật lại nhắc đến thập niên 1950) — những điều này dựa vào truyền thông ẩm thực và nguồn truyền khẩu, cần được xác minh dựa trên một lịch sử có ghi chép."
   - "Liệu có tồn tại một món mì 'gà–cá cơm' riêng của Ipoh như một món có tên gọi riêng hay không, hay cụm từ này chỉ nước dùng gà và tôm của kai see hor fun (mà một số đầu bếp làm đậm thêm bằng cá cơm khô) — hãy xác minh dựa trên một nguồn ẩm thực địa phương trước khi nêu như một món riêng biệt."
   - "Các chi tiết về quán và địa điểm (việc gán cho Old Town hay New Town, những quầy có tên như Thean Chun, Aun Kheng Lim và những người làm heong peng ở Gunung Rapat) thay đổi theo thời gian; hãy xác minh người kinh doanh và địa điểm hiện tại trước khi dựa vào chúng."
+framework: history-culture
 ---
 
 Hỏi bất kỳ ai ở Malaysia nên ăn ở đâu, sớm muộn gì họ cũng sẽ chỉ bạn đến Ipoh.

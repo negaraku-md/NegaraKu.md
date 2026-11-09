@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "singapore-separation-1965" }
 related: ["sabah", "sarawak", "ma63", "formation-of-malaysia-1963", "singapore-separation-1965"]
 keywords: ["شبه جزيرة ماليزيا", "Peninsular Malaysia", "ماليزيا الشرقية", "East Malaysia", "حدود صباح ساراواك", "Sabah Sarawak border", "بحر الصين الجنوبي", "South China Sea Malaysia", "Immigration Act 1959/63 Section 66", "Sarawak Land Code", "Sabah Land Ordinance", "التوقيت الرسمي الماليزي 1982"]
+framework: explainer
 ---
 
 سافِر رحلةً داخلية من كوالالمبور إلى كوتا كينابالو وستهبط في البلد نفسه الذي غادرته. العملة نفسها، وجواز السفر نفسه، والعلم نفسه على ذيل الطائرة. ومع ذلك، في صالة الوصول، تصطفّ عند نقطة تفتيش على طراز الهجرة ويفحص أحدهم بطاقة هويتك أو جواز سفرك قبل أن يُسمح لك بالمرور. ولا توجد رحلة أخرى داخل ماليزيا تعمل بهذه الطريقة.

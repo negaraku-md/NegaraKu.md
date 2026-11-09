@@ -80,6 +80,7 @@ social:
     - TourOperator
     - DoingBusinessInMalaysia
     - MalaysiaLicensing
+framework: how-to
 ---
 
 Ha encontrado proveedores, ha armado un itinerario y está listo para empezar a vender vacaciones — pero en Malasia la venta es la parte que la ley alcanza primero. Antes de anunciar un solo tour o vender un billete, el negocio que lo respalda tiene que estar licenciado por el Ministerio de Turismo, Artes y Cultura (MOTAC). No es una formalidad añadida después; es la puerta que atraviesa para poder comerciar siquiera, y operar tours sin ella es un delito penal.

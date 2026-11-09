@@ -81,6 +81,7 @@ relations:
   - { rel: "requires", to: "special-resolution" }
 related: ["companies-act-2016", "company-limited-by-guarantee-malaysia"]
 keywords: ["कंपनी संविधान", "perlembagaan syarikat", "company constitution", "विशेष प्रस्ताव", "धारा 32", "धारा 36", "entrenchment", "Companies Act 2016", "Akta Syarikat 2016", "SSM"]
+framework: how-to
 ---
 
 एक Sdn Bhd «संविधान» शीर्षक वाले किसी एक भी दस्तावेज़ के बिना वर्षों तक काम कर सकती है — और मलेशियाई कानून के तहत यह पूरी तरह वैध है। Companies Act 2016 ने अधिकांश कंपनियों के लिए संविधान को वैकल्पिक बना दिया, जो अनिवार्य ज्ञापन और अनुच्छेद संघ (M&A) के युग से एक बड़ा बदलाव है। अब प्रश्न यह नहीं रह गया कि «हमारे संविधान में क्या होना चाहिए», बल्कि «क्या हमें इसकी ज़रूरत भी है, और यदि है, तो हम इसे कैसे अपनाएँ, संशोधित करें, या इसे बंद करें?»

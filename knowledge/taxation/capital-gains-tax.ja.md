@@ -89,6 +89,7 @@ relations:
   - { rel: "explained-in", to: "capital-or-revenue" }
 related: ["capital-or-revenue", "rpgt-rates", "corporate-tax-rates", "income-tax-act-1967"]
 keywords: ["capital gains tax Malaysia", "CGT unlisted shares", "cukai keuntungan modal", "e-CKM", "section 15C", "2% gross disposal price"]
+framework: explainer
 ---
 
 57年間、マレーシアは所得に課税し、資本には手を付けなかった。それは2024年1月1日に終わり、その旧来の確実性に取って代わった税は、今なお制度の中で最も文書化が薄い課税である——すべての売却者が真っ先に尋ねる、10%を払うべきか2%を払うべきかという一つの問いを含めて。

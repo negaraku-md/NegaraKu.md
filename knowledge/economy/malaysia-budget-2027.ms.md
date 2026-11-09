@@ -69,6 +69,7 @@ faq:
     a: Tidak. Artikel ini menjelaskan dengan tegas bahawa pembaharuan SST yang menyeluruh dan langkah e-invois baharu merupakan ramalan pra-belanjawan oleh para penganalisis, bukan pengumuman dalam ucapan 9 Oktober 2026. Ia patut dianggap sebagai jangkaan, bukan dasar, sehingga kerajaan menyatakan sebaliknya. Perubahan cukai sebenar dalam belanjawan tertumpu pada pemotongan satu mata peratusan bagi kadar cukai pendapatan pemastautin dan PKS, serta pelepasan am yang naik daripada RM9,000 kepada RM12,000.
   - q: Mulai bila pembukaan akaun simpanan atau akaun semasa dikecualikan daripada duti setem di bawah Belanjawan 2027?
     a: Mulai 1 Januari 2027, pembukaan akaun simpanan atau akaun semasa dikecualikan sepenuhnya daripada duti setem. Tarikh yang sama turut membawa pemotongan cukai perkhidmatan bagi perkhidmatan penjagaan warga tua daripada 8% kepada 6%, serta permulaan hak bekerja bagi pasangan ekspatriat yang memegang pas tanggungan. Tarikh-tarikh ini seperti yang diumumkan pada 9 Oktober 2026 dan hanya berkuat kuasa setelah undang-undang serta perintah warta yang membolehkannya diluluskan.
+framework: explainer
 ---
 
 Pada 9 Oktober 2026, Perdana Menteri dan Menteri Kewangan Anwar Ibrahim

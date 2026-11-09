@@ -63,6 +63,7 @@ relations:
   - { rel: "administered-by", to: "ssm" }
 related: ["beneficial-ownership", "bo-register", "who-is-a-beneficial-owner", "ebos-filing"]
 keywords: ["shareholder refuses beneficial ownership notice", "section 60C notice no reply", "senior management in place of beneficial owner", "BO non-compliance Malaysia"]
+framework: how-to
 ---
 
 股东不理会通知。14 天的记录时钟正在跑，常年申报表快到期，而公司秘书手上没有名字可填。

@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["waqf-islamic-endowment-malaysia", "income-tax-in-malaysia", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["تبرع قابل للخصم الضريبي ماليزيا", "مؤسسة معتمدة المادة 44(6)", "سقف التبرع 10% من الدخل الإجمالي", "tax deductible donation Malaysia", "section 44(6) approved institution", "check LHDN approved charity", "derma potongan cukai"]
+framework: rules
 ---
 
 يحمل الإيصال عبارة *معفى من الضريبة بموجب القسم الفرعي 44(6)*. تلك الجملة تطبعها الجمعية الخيرية، لا LHDN، وهي لا تصحّ إلا ما دام الاعتماد سارياً. والاعتمادات تنقضي. وتحمل أداة التحقق الخاصة بـ LHDN قيمة حالة لذلك — **TAMAT TEMPOH KELULUSAN**، أي انتهاء مدة الاعتماد — إلى جانب **KELULUSAN DITARIK BALIK**، أي سحب الاعتماد. فإن تبرعت في الفجوة ضاع الخصم، مهما كان التبرع صادقاً.

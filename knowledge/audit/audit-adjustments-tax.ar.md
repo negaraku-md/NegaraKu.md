@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "form-c-and-cp204" }
 related: ["statutory-audit-process", "audit-preparation-checklist", "form-c-and-cp204", "corporate-tax-rates", "company-tax-calendar"]
 keywords: ["تعديلات التدقيق الضريبة ماليزيا", "audit adjustments tax Malaysia", "أشهر تعديل CP204", "غرامة المادة 107C(10)", "section 107C(10) penalty", "غرامة التقدير الناقص للضريبة ماليزيا", "Form C حسابات مدققة", "حساب الضريبة من الربح المدقق"]
+framework: explainer
 ---
 
 لا أحد في اجتماع إنهاء التدقيق يفكّر في الضريبة. فالنقاش يدور حول مخصص مخزون، وخطأ

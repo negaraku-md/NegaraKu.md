@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "str-cash-aid" }
 related: ["epf", "epf-akaun-fleksibel", "epf-socso-gig-workers-self-employed", "str-cash-aid"]
 keywords: ["i-Saraan", "i-Saraan Plus", "KWSP i-Saraan", "EPF voluntary contribution", "self-employed EPF", "gig worker retirement savings", "EPF matching incentive", "caruman sukarela KWSP"]
+framework: explainer
 ---
 
 e-헤일링 앱으로 운전을 하든, 노점에서 음식을 팔든, 프리랜서 디자인 일을 받든,

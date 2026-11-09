@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "recognition-of-foreign-qualifications-malaysia" }
 related: []
 keywords: ["legalisasi dokumen", "apostille Malaysia", "pengesahan konsular", "Wisma Putra", "sijil kelahiran asing", "sijil perkahwinan luar negara", "pengesahan ijazah", "JPN dokumen asing"]
+framework: how-to
 ---
 
 You arrive at the JPN counter with a marriage certificate issued overseas, and the officer turns it away — not because it is fake, but because it has not been "legalised". Many people stumble here: a document being valid in its country of origin does not mean it is accepted directly in Malaysia. There is a chain of attestation that must be gone through first.

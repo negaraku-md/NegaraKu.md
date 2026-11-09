@@ -145,6 +145,7 @@ entity: "Termination of employment"
 relations: []
 related: ["labour-law-map-malaysia", ]
 keywords: ["termination of employment malaysia", "notice period malaysia", "at will employment malaysia", "payment in lieu of notice", "just cause or excuse", "final salary after resignation malaysia", "section 12 employment act"]
+framework: rules
 ---
 
 吉隆坡的一位雇主在星期一决定某位经理不合适。其他地方的法律顾问会先询问通知条款。在马来西亚，第一个问题不同，而它正是决定案件走向的问题：**理由是什么，你能否证明它？**

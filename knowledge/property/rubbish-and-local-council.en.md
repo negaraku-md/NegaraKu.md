@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
+framework: explainer
 ---
 
 Your rubbish bin is collected twice a week, but have you ever asked who actually collects it — the local council, or another company the council has appointed? And why can your neighbour in the next state be fined for not separating plastic bottles from food waste, while you are not?

@@ -91,6 +91,7 @@ relations:
   - { rel: "part-of", to: "stamp-duty-rates" }
 related: ["stamp-duty-rates", "capital-gains-tax", "stamp-duty-self-assessment", "share-capital-malaysia"]
 keywords: ["رسم دمغة نقل الأسهم ماليزيا", "Form 32A", "نموذج نقل الأوراق المالية المادة 105", "تقييم NTA رسم الدمغة", "رسم نقل الأسهم 0.3%", "stamp duty share transfer Malaysia"]
+framework: rules
 ---
 
 ما زال أمران بشأن دمغ نقل الأسهم خطأً في معظم مذكرات الممارسة الماليزية: النموذج

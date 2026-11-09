@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["employment-pass", "opening-bank-account"]
 keywords: ["rental Malaysia", "iProperty", "PropertyGuru", "Mudah", "REN Malaysia", "registered estate negotiator", "BOVAEP", "LPPEH", "estate agent Malaysia", "rental commission Malaysia", "REN Tag"]
+framework: explainer
 ---
 
 You find a listing you like on a portal, message the number on it, and someone shows up to unlock the unit. Nothing in that exchange tells you whether the person handing you the keys is legally allowed to be doing this for a fee at all — and almost no one asks.

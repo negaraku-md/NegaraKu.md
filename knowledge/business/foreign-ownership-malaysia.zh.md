@@ -116,6 +116,7 @@ keywords:
   - "pemilikan asing Malaysia"
   - "foreign ownership restrictions Malaysia"
   - "WRT foreign equity"
+framework: rules
 ---
 
 关于这个题目的每一份指南都说同一句话：*多数领域容许 100% 外资持股*。这句话是对的，却几乎

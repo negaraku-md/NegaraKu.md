@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["federal-constitution", "jpn", "constitutional-amendment", "imigresen"]
 keywords: ["kewarganegaraan Malaysia", "Malaysian citizenship", "Perkara 14 Perlembagaan", "Bahagian III Perlembagaan Persekutuan", "kewarganegaraan secara pendaftaran", "penaturalisasian Malaysia", "Perkara 19 naturalisation", "pasangan asing kewarganegaraan", "anak tanpa kewarganegaraan", "pindaan Perlembagaan 2024 kewarganegaraan"]
+framework: rules
 ---
 
 Un bébé né à Kuala Lumpur et un bébé né à Londres de parents malaisiens ne partent

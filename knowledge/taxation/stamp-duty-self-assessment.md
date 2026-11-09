@@ -96,6 +96,7 @@ relations:
   - { rel: "affects", to: "stamp-duty-employment-contracts" }
 related: ["stamp-duty-rates", "stamp-duty-employment-contracts", "stamp-duty-share-transfer"]
 keywords: ["STSDS", "stamp duty self assessment Malaysia", "sistem taksir sendiri duti setem", "STAMPS", "BNDS", "stamp duty phases 2026"]
+framework: explainer
 ---
 
 Most stamp duty guidance still in circulation describes a system where you send

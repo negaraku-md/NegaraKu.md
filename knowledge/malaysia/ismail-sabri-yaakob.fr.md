@@ -67,6 +67,7 @@ sources:
 
 related: ["muhyiddin-yassin", "2022-general-election", "prime-ministers-of-malaysia", "anwar-ibrahim", "najib-razak"]
 keywords: ["Ismail Sabri Yaakob", "neuvième Premier ministre de la Malaisie", "Keluarga Malaysia", "MOU de stabilité 2021", "UMNO"]
+framework: profile
 ---
 
 > **Brouillon — sensible.** Cet article est un résumé neutre et en cours

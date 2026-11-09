@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-state-division" }
 related: ["rulers-and-governors", "state-assemblies-dun", "kabinet-perdana-menteri", "three-tiers-of-government", "federal-state-division", "sabah-sarawak-safeguards"]
 keywords: ["gouvernement d'État Malaisie", "state government Malaysia", "Menteri Besar", "Chief Minister Malaisie", "Chief Minister Malaysia", "Conseil exécutif de l'État", "EXCO", "Dewan Undangan Negeri", "assemblée d'État Malaisie", "Yang di-Pertua Negeri", "Huitième Annexe", "Neuvième Annexe", "State List", "Federal Constitution Malaysia"]
+framework: explainer
 ---
 
 Retirez l'Istana Negara, renommez le Premier ministre et réduisez le Parlement à une seule chambre — et vous regardez un gouvernement d'État malaisien. Les 13 États fonctionnent sur une copie réduite du système fédéral : un chef de l'État qui règne sans gouverner, un chef de gouvernement choisi parce qu'il peut rallier une majorité, un conseil exécutif qui répond collectivement devant des membres élus, et un législatif qui peut être dissous et renvoyé aux électeurs. Les titres changent d'un État à l'autre. Le plan, lui, ne change pas.

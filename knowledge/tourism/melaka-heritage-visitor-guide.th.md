@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "getting-around-malaysia-public-transport" }
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["Melaka heritage", "Melaka UNESCO World Heritage", "Jonker Street", "Baba Nyonya Peranakan Melaka", "A Famosa Porta de Santiago", "Stadthuys Dutch Square", "St Paul's Hill Melaka", "Melaka travel guide"]
+framework: explainer
 ---
 
 ยืนอยู่ในจัตุรัสดัตช์ยามพลบค่ำ แล้วคุณจะอ่านห้าศตวรรษได้ในสายตาเดียว ศาลากลางเมืองดัตช์สีแดงแซลมอนด้านหนึ่ง ซากโบสถ์ยุคโปรตุเกสบนเนินเหนือขึ้นไป ประตูหินที่ครั้งหนึ่งเคยยึดโยงป้อมปราการที่อังกฤษพยายามรื้อถอน และในระยะเดินสองนาที ตรอกบ้านทาวน์เฮาส์จีน-มลายูที่ตอนนี้สว่างไสวสำหรับตลาดคืนวันศุกร์ มะละกาไม่ได้กระจายประวัติศาสตร์ไปทั่วเมืองใหญ่ หากอัดมันไว้ในพื้นที่ราวหนึ่งตารางไมล์ที่คุณเดินได้ในบ่ายเดียว ต่อไปนี้คือวิธีอ่านมัน และวิธีวางแผนการมาเยือนรอบ ๆ มัน

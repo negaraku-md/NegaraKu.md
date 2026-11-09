@@ -86,6 +86,7 @@ verificationNeeded:
   - "Câu chuyện nguồn gốc và thành phần của feng/fongh (cà ri nội tạng, di sản đi biển/phần thịt vụn của Bồ Đào Nha, mối liên hệ với Giáng sinh) — những đầu bếp uy tín lưu ý rằng lịch sử mơ hồ và các phiên bản khác nhau; hãy xác minh với nguồn ẩm thực hoặc di sản Kristang."
   - "Từ nguyên và phân loại của bánh sugee (một loại bánh lễ hội làm từ semolina và bơ; cái tên thường được truy về từ chỉ semolina trong tiếng Nam Á và công thức được so sánh với bánh Madeira của Anh) — hãy xác minh với nguồn lịch sử ẩm thực."
   - "Năm thành lập Portuguese Settlement (thường ghi là 1933) và nhận định rằng nhiều món ăn gia đình như pang susi và các món nội tạng đang trở nên hiếm — hãy xác minh với nguồn sơ cấp hoặc di sản."
+framework: history-culture
 ---
 
 Gọi một món cà ri trong một bếp Mã Lai ở Melaka, bạn nếm thấy nước cốt dừa và sả.

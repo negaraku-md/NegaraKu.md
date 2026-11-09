@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "national-energy-transition-roadmap" }
 related: []
 keywords: ["Malaysia carbon tax", "carbon pricing Malaysia", "iron steel energy carbon tax", "National Carbon Market Policy", "Climate Change Bill Malaysia", "cukai karbon"]
+framework: explainer
 ---
 
 말레이시아는 처음으로 탄소에 가격을 매길 준비를 하고 있으며, 가장 많이 배출하는 산업부터 시작합니다.

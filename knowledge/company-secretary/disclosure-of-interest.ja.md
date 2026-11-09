@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "minute-books-and-records" }
 related: ["directors-duties", "minute-books-and-records", "loans-to-directors", "directors-fees-approval"]
 keywords: ["disclosure of interest Malaysia", "section 221 Companies Act 2016", "section 222 interested director", "conflict of interest director Sdn Bhd", "pengisytiharan kepentingan pengarah", "director interested in contract Malaysia"]
+framework: rules
 ---
 
 開示は行われた。その場にいた全員がそれを聞いた。2年後、少数株主がその会議の取締役会

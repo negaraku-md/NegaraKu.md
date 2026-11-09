@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#MingQin", "#CharKoayTeow", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 บนฝั่งแผ่นดินใหญ่ของปีนังใน Bukit Mertajam ร้านก๋วยเตี๋ยวช่วงค่ำที่เรียบง่าย ได้รับ

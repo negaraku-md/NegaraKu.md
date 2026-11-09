@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "members-voluntary-winding-up" }
 related: ["companies-act-2016", "ssm"]
 keywords: ["amalgamation", "scheme of arrangement", "section 366", "section 370", "Companies Act 2016", "reconstruction", "merger Malaysia", "SSM", "75 percent threshold", "vesting order"]
+framework: explainer
 ---
 
 หากคุณคาดหวังให้บริษัทมาเลเซียสองแห่งควบรวมกันแบบที่ทำในสิงคโปร์หรือนิวซีแลนด์ — คณะกรรมการผ่านมติ นิติบุคคลหนึ่งดูดกลืนอีกนิติบุคคลในชั่วข้ามคืน — คุณจะกำลังมองหาบทบัญญัติที่ไม่มีอยู่ Companies Act 2016 ไม่มีการควบรวมตามกฎหมายแบบย่อ ในการรวมบริษัทตั้งแต่สองแห่งขึ้นไปที่นี่ คุณต้องผ่าน High Court

@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
 related: ["spr-election-commission", "dewan-rakyat", "how-elections-work", "federal-constitution", "independence-1957"]
 keywords: ["14th general election", "GE14", "PRU14", "2018 Malaysian general election", "change of government Malaysia", "Pakatan Harapan", "Barisan Nasional", "Dewan Rakyat 222 seats", "Article 43 Federal Constitution", "Mahathir seventh Prime Minister"]
+framework: history-culture
 ---
 
 Selama 61 tahun, sejak pemilihan federal pertama pasca-kemerdekaan pada 1957 hingga 2018, setiap pemerintah federal Malaysia dibentuk oleh satu koalisi saja — [Perikatan](/id/malaysia/the-alliance), dan sejak tahun 1970-an penggantinya, [Barisan Nasional](/id/malaysia/barisan-nasional). Pada pemilihan umum ke-14, kesinambungan itu berakhir: satu koalisi yang berbeda memenangi mayoritas kursi di Dewan Rakyat.

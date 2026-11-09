@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "zakat-pendapatan" }
 related: []
 keywords: ["zakat rebat cukai", "Seksyen 6A", "Akta Cukai Pendapatan 1967", "rebat cukai zakat LHDN", "zakat vs pelepasan cukai", "badan zakat negeri"]
+framework: explainer
 ---
 
 Trả zakat RM1,000, và thuế thu nhập của bạn giảm đúng RM1,000 — không chỉ một phần nhỏ của nó như hầu hết các khoản khấu trừ thuế khác. Chính sự khác biệt đó luôn khiến người nộp thuế Hồi giáo tại Malaysia bối rối, và nó nằm ở một từ: *giảm trừ* (rebate), không phải *miễn giảm* (relief).

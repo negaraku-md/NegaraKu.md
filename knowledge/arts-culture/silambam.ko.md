@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "indian-classical-arts-in-malaysia", "thaipusam", "estate-tamil-community", "temple-music-nadaswaram"]
 keywords: ["சிலம்பம்", "Silambam", "மலேசியா சிலம்பம்", "தமிழ் தற்காப்புக் கலை", "நீண்ட தடி", "அடவுகள்", "குத்து வரிசை", "Silambam Malaysia"]
+framework: history-culture
 ---
 
 말레이시아의 사원 축제나 타밀 설날 행사에서, 한 젊은이가 북 장단에 맞추어 긴 대나무 봉을 머리 위와 몸 둘레로 번개처럼 빠르게 돌리는 모습을 볼 수 있다. 그 회전은 단지 보기 좋으라고 하는 것이 아니다 — 그것은 천오백 년이 넘는 역사를 지닌 타밀 무술, 실람밤의 상징이다.

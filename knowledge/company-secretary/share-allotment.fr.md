@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["share-transfer", "register-of-members", "share-capital-malaysia", "capital-reduction", "beneficial-ownership"]
 keywords: ["attribution d'actions Malaisie", "déclaration d'attribution 14 jours", "section 75 Companies Act 2016", "droits de préemption section 85", "émettre de nouvelles actions Sdn Bhd"]
+framework: how-to
 ---
 
 Émettre de nouvelles actions dans une Sdn Bhd ressemble à une décision du conseil. Ce

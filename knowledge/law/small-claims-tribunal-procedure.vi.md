@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "consumer-protection-act-1999" }
 related: ["court-hierarchy"]
 keywords: ["tuntutan kecil", "small claims", "mahkamah majistret", "aturan 93", "borang 198", "saman hutang", "tanpa peguam"]
+framework: how-to
 ---
 
 Ai đó nợ bạn RM3,000, từ chối thanh toán, và phớt lờ mọi cuộc gọi. Thuê một luật sư có thể tốn kém hơn cả số nợ đó. Đây là nơi thủ tục **khiếu kiện nhỏ** tồn tại: một con đường được thiết kế riêng để người bình thường có thể đưa các tranh chấp nhỏ ra tòa — một mình, rẻ, và không cần áo choàng luật sư.

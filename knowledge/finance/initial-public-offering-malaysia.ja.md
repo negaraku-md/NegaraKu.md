@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "investing-in-bursa" }
 related: ["securities-commission-malaysia"]
 keywords: ["IPO malaysia", "list on bursa malaysia", "bursa listing requirements", "main market ace market leap market", "how to go public malaysia", "listing criteria bursa", "bumiputera equity requirement IPO"]
+framework: explainer
 ---
 
 企業を公開することは、その株主が下す中でも最大級の資金調達上の決断のひとつである——恒久的な資本を調達し、事業に市場価格を付け、株主に退出の手段を与える。同時に、それは多くの創業者を驚かせるほどの審査と費用を企業に課すことにもなる。マレーシアでは、新規株式公開（IPO）はBursa Malaysiaへの上場を意味し、どの道を歩むかは企業の規模と実績の証明度合いに完全に依存する。

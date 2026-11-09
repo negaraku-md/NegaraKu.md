@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "investment-agency-directory" }
 related: ["doing-business-kuala-lumpur", "principal-hub-malaysia", "labuan-company-vs-sdn-bhd", "investment-agency-directory"]
 keywords: ["Tun Razak Exchange", "TRX Kuala Lumpur", "Exchange 106", "Malaysia international financial centre", "TRX Marquee incentives", "The Exchange TRX", "pusat kewangan antarabangsa TRX", "TRX City Sdn Bhd"]
+framework: profile
 ---
 
 Bước ra khỏi ga MRT Tun Razak Exchange và đường chân trời cho bạn biết rằng nơi này được quy hoạch, chứ không phải mọc lên tự nhiên. Một cụm tháp trên 70 mẫu Anh ở rìa phía đông trung tâm Kuala Lumpur, một trong số đó vượt quá 450 mét, được bố trí quanh một công viên nằm trên mái của một trung tâm thương mại. Đây là nỗ lực của Malaysia nhằm xây dựng một khu tài chính từ con số không.

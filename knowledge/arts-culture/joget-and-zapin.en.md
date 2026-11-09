@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "songket" }
 related: ["mak-yong", "wayang-kulit", "songket"]
 keywords: ["Joget", "Zapin", "tarian tradisional Melayu", "Joget Melaka", "Zapin Johor", "gambus", "marwas", "branyo Portugis", "tarian rakyat Melayu"]
+framework: history-culture
 ---
 
 Two dancers move quickly to the beat of the gendang — feet stamping, hands dancing gently. Many who watch simply call it "Malay dance" without distinguishing which is Joget and which is Zapin. Ask where each one comes from, and the answer takes us to two corners of the world: one from the deck of a Portuguese trading ship in Melaka, the other from a caravan of Arab preachers out of Hadhramaut.

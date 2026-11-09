@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "malaysian-institute-of-accountants" }
 related: ["malaysian-institute-of-accountants"]
 keywords: ["ISA 600", "group audit", "component auditor", "group engagement partner", "Malaysia subsidiary audit", "MIA", "consolidated financial statements", "aggregation risk"]
+framework: explainer
 ---
 
 ஒரு ஜெர்மன் தாய் நிறுவனம் தனது கோலாலம்பூர் வர்த்தகப் பிரிவை ஒருங்கிணைக்கிறது, ஆனால் Frankfurt இல் உள்ள அந்தக் குழுவின் தணிக்கை பங்குதாரர் மலேசியாவில் ஒருபோதும் கால் வைத்ததில்லை, உள்ளூர் கணக்கேடுகளையும் வாசிப்பதில்லை. மலேசியாவில் யாரோ ஒருவர் கள வேலையைச் செய்கிறார் — ஆனாலும் குழு கருத்தின் மீதான கையொப்பம் இன்னும் குழு பங்குதாரரின் மட்டுமே. அந்தப் பிரிவினையையே குழு-தணிக்கைத் தரநிலை ஆளுவதற்காகக் கட்டமைக்கப்பட்டுள்ளது.

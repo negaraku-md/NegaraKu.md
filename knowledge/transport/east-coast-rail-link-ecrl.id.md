@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "logistics-ports-industry" }
 related: ["ecer-guide", "kl-singapore-high-speed-rail", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["East Coast Rail Link", "ECRL", "Laluan Rel Pantai Timur", "Malaysia Rail Link", "CCCC railway Malaysia", "ECRL cost completion", "Kota Bharu Port Klang rail", "ECER rail"]
+framework: profile
 ---
 
 Selama beberapa dekade, cara tercepat antara Kuala Lumpur dan negara bagian pesisir timur berarti perjalanan panjang melintasi pegunungan dengan jalan darat. East Coast Rail Link adalah taruhan Malaysia bahwa satu jalur rel dapat mengubah hal itu — dan, dalam prosesnya, menata ulang di mana pertumbuhan negeri ini terjadi.

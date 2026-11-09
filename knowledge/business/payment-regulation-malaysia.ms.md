@@ -72,6 +72,7 @@ relations:
   - { rel: "governs", to: "financial-services-act-2013" }
 related: ["foreign-exchange-policy-malaysia", "online-business-licence-malaysia"]
 keywords: ["lesen pembayaran malaysia", "lesen e-wang malaysia", "kelulusan BNM pembayaran", "pemerolehan peniaga malaysia", "e-wang tujuan terhad", "FSA 2013 jadual 1"]
+framework: rules
 ---
 
 Seorang pengasas menambah dompet supaya pelanggan boleh tambah nilai dan bayar dengan lebih

@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "capital-allowances" }
 related: ["motor-vehicle-capital-allowance", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["गैर-नकद लाभ मलेशिया", "benefits in kind Malaysia", "BIK निर्धारित मूल्य तालिका", "कंपनी कार कर मलेशिया कर्मचारी", "धारा 13(1)(b) 13(1)(c)", "आवासीय निवास लाभ मलेशिया"]
+framework: explainer
 ---
 
 गैर-नकद लाभ पर हर मार्गदर्शिका एक पक्ष चुन लेती है। वेतन-ब्लॉग बताते हैं कि

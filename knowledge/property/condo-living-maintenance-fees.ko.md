@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "maintenance fee Malaysia", "sinking fund Malaysia", "JMB Malaysia", "Management Corporation Malaysia", "MC strata", "share units", "condo maintenance Malaysia", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
+framework: explainer
 ---
 
 당신은 세대를 샀습니다. 엘리베이터, 경비실, 수영장, 이웃과 공유하는 벽 속을 지나는 배관을 산 것은 아닙니다. 그럼에도 누군가는 그 모든 것에 대한 비용을 내야 합니다 — 그리고 법은 그 청구서를 법적으로 분리해 두어야 하는 두 개의 계좌로 나눕니다.

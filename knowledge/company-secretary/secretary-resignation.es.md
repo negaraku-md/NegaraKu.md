@@ -113,6 +113,7 @@ relations:
   - { rel: "requires", to: "register-of-directors" }
 related: ["secretary-vacancy-30-days", "changing-company-secretary", "company-secretary-qualification", "appoint-company-secretary"]
 keywords: ["renunciar secretario de empresa Malasia", "sección 237 Companies Act 2016", "renuncia del secretario 30 días", "Practice Note 4/2018", "no se puede contactar a los directores renuncia secretario", "notice of intention to vacate office of secretary"]
+framework: how-to
 ---
 
 Toda guía sobre este tema está escrita desde el lado de la empresa: su

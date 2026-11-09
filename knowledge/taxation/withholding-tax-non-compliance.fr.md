@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-digital-services", "cp37-forms"]
 keywords: ["défaut de retenue à la source Malaisie", "failure to withhold tax Malaysia", "section 39(1)(j)", "pénalité retenue à la source Malaisie", "majoration 10 pour cent retenue à la source", "pénalité section 113(2)"]
+framework: explainer
 ---
 
 RM5,000 de retenue à la source omise ne coûte pas RM5,000. Cela coûte RM5,500 en

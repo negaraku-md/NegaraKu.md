@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "manufacturing" }
 related: ["johor", "external-trade", "manufacturing"]
 keywords: ["JS-SEZ", "Johor Singapore Special Economic Zone", "JS-SEZ incentives", "JS-SEZ flagship zones", "Malaysia Singapore economic zone", "IMFC-J"]
+framework: explainer
 ---
 
 二つの国が、国境を越えて一つの税制を共有することに合意した。それこそが、

@@ -60,6 +60,7 @@ relations:
   - { rel: "part-of", to: "education" }
 related: []
 keywords: ["special education Malaysia", "PPKI programme", "PPI inclusive education", "OKU card children", "sekolah pendidikan khas", "learning disability support Malaysia", "special education curriculum Malaysia", "TASKA OKU"]
+framework: explainer
 ---
 
 診断は最初の対話にすぎない。2つ目の対話——多くの場合、より混乱を招く——は、実際に子どもがどの学校トラックに入るのか、そしてなぜ学校そのものより先にOKUカードが重要になるように見えるのか、というものだ。マレーシアの制度には3つの公立トラックがあり、そのすべてに供給する独立した障害登録プロセスがあり、そして多くの保護者が単一の公式ページではなく口コミで知ることになる、民間・NGOによる療育の並行した世界が存在する。

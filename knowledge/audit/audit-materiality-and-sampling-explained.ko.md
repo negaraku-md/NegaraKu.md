@@ -71,6 +71,7 @@ relations:
   - { rel: "administered-by", to: "malaysian-institute-of-accountants" }
 related: ["malaysian-institute-of-accountants"]
 keywords: ["materiality", "audit sampling", "ISA 320", "ISA 530", "ISA 450", "performance materiality", "tolerable misstatement", "statutory audit Malaysia"]
+framework: explainer
 ---
 
 회계를 승인하며 서명하는 감사인은 그 배후의 모든 거래를 살펴본 적이 거의 없습니다

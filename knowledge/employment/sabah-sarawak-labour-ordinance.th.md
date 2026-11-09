@@ -78,6 +78,7 @@ relations:
   - { rel: "administered-by", to: "employment" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage"]
 keywords: ["sabah labour ordinance", "sarawak labour ordinance", "cap 67", "cap 76", "east malaysia employment law", "jtk sabah", "jtk sarawak"]
+framework: explainer
 ---
 
 ค้นหา "กฎหมายการจ้างงานมาเลเซีย" แล้วทุกผลลัพธ์ที่คุณได้อธิบายคาบสมุทรมาเลเซียและไม่ได้ระบุที่ไหนเลย ความเงียบนั้นมีต้นทุน: นโยบาย HR ระดับชาติที่เขียนเทียบกับพระราชบัญญัติการจ้างงาน 1955 เป็นเพียงกฎหมายที่ผิดสำหรับผู้ที่ถูกจ้างในโกตากีนาบาลู ซันดากัน (Sandakan) กูจิง หรือมีรี (Miri)

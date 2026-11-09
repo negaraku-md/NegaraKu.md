@@ -100,6 +100,7 @@ keywords:
   - "NTAX NCER cerrado"
   - "incentivos Kulim Hi-Tech Park"
   - "corredor norte NCER"
+framework: explainer
 ---
 
 Pregunte qué le da el Corredor Norte a un inversor y le entregarán una lista de exenciones fiscales.

@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "statutory-audit-process" }
 related: ["appointing-an-auditor", "changing-auditors", "statutory-audit-process", "audit-fees-malaysia"]
 keywords: ["auditor independence", "partner rotation", "cooling-off period", "public interest entity", "MIA By-Laws", "Section 540", "non-audit services", "self-review threat"]
+framework: rules
 ---
 
 同じ上場会社の決算書に十年にわたって署名してきた監査パートナーは、どこにどんな不都合な事実が埋まっているかを知り尽くしている——そして、それこそが問題である。関係が長くなればなるほど、合理的な第三者が、その意見が真に独立したものであると信じることは難しくなる。マレーシアは、この危険に対して、厳格な時計と強制的な休止をもって応えている。

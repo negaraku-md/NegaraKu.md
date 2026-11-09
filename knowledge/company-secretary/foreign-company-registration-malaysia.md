@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "incorporate-company-malaysia-sdn-bhd" }
 related: ["companies-act-2016"]
 keywords: ["foreign company registration Malaysia", "branch office Malaysia", "section 562 Companies Act 2016", "SSM foreign company", "local agent Malaysia", "branch vs Sdn Bhd"]
+framework: how-to
 ---
 
 An overseas company can sell into Malaysia from abroad for a long time — but the moment it opens an office, signs local leases, or sets up staff on the ground, it crosses a line. Once it is *carrying on business* in Malaysia, the Companies Act 2016 says it must register first, and doing that turns the same overseas company into a Malaysian-registered branch.

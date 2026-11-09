@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "contract-law" }
 related: []
 keywords: ["التحكيم", "AIAC", "قانون التحكيم 2005", "الوساطة", "تسوية المنازعات", "اتفاقية نيويورك", "تمويل الطرف الثالث", "الأونسيترال", "arbitration", "Arbitration Act 2005", "mediation", "dispute resolution", "New York Convention", "third-party funding", "UNCITRAL"]
+framework: explainer
 ---
 
 تُوقّع شركتان عقد توريد، فتتأخر إحداهما في التسليم، وتطالب الأخرى بتعويضات بالملايين — لكن لا تريد أيٌّ منهما أن يُطرَح الملف أو الجدول الزمني أو الأسرار التجارية في قاعة محكمة مفتوحة. وفي ماليزيا، هنا يتولى التحكيم والوساطة المهمة بدلاً من المحاكم.

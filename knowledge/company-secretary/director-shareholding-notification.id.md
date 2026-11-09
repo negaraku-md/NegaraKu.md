@@ -118,6 +118,7 @@ relations:
   - { rel: "related-to", to: "statutory-registers" }
 related: ["directors-duties", "statutory-registers", "register-of-members", "directors-report", "disclosure-of-interest"]
 keywords: ["seksyen 219 Akta Syarikat 2016", "notis pegangan saham pengarah Malaysia", "daftar pegangan saham pengarah", "daftar seksyen 59 Malaysia", "notis kepentingan saham pengarah", "kepentingan pengarah dalam saham 14 hari"]
+framework: rules
 ---
 
 Tanyakan kepada seorang direktur Malaysia kapan terakhir kali ia memberikan pemberitahuan

@@ -138,6 +138,7 @@ entity: The Progressive Wage Policy (Dasar Gaji Progresif)
 related:
   - minimum-wage-malaysia
 sourceContentHash: "ccffdcacb9538b8a"
+framework: explainer
 ---
 
 ## Apakah Dasar Gaji Progresif — dan apa yang ia bukan

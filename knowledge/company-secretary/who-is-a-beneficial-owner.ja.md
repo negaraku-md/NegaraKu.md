@@ -80,6 +80,7 @@ relations:
   - { rel: "explained-in", to: "bo-register" }
 related: ["beneficial-ownership", "bo-register", "ebos-filing", "bo-non-cooperation"]
 keywords: ["who is a beneficial owner Malaysia", "beneficial owner criteria SSM", "20% shareholding beneficial owner", "ultimate effective control Malaysia", "nominee shareholder beneficial owner"]
+framework: explainer
 ---
 
 実質的所有権申告の難しさは、届出そのものにあるのではない。株式保有構造を

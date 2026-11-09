@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "register-of-directors" }
 related: ["register-of-directors", "directors-duties", "remove-a-director", "director-shareholding-notification", "statutory-registers"]
 keywords: ["appoint director Malaysia", "resign as director Sdn Bhd", "section 196 Companies Act 2016", "section 208 vacation of office", "consent to act as director Malaysia", "letak jawatan pengarah syarikat", "minimum number of directors Malaysia"]
+framework: rules
 ---
 
 दो-व्यक्ति वाली Sdn Bhd का एक निदेशक अपने सह-शेयरधारक से झगड़ पड़ता है, एक त्यागपत्र-पत्र पर हस्ताक्षर करता है, उसे सौंपता है और चला जाता है। अठारह महीने बाद SSM के अभिलेख अब भी उसे निदेशक के रूप में दिखाते हैं, एक लेनदार एक माँग-पत्र में उसका नाम लेता है, और वह पाता है कि उसका त्यागपत्र कभी दाखिल ही नहीं हुआ — और तथ्यों पर, कंपनी अधिनियम 2016 (Companies Act 2016) की धारा 196(3) के तहत, वह शायद कभी प्रभावी हुआ ही नहीं।

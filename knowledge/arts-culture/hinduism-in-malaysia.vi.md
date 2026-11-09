@@ -71,6 +71,7 @@ faq:
     a: Không. Thaipusam không phải là ngày lễ ở cấp quốc gia; nó chỉ là ngày lễ công cộng ở những bang có công báo quy định — Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan và Johor. Một số năm, Kedah cho nghỉ dưới dạng tuyên bố đặc biệt mà không công báo cố định. Ngược lại, Deepavali là ngày lễ công cộng ở mọi bang và lãnh thổ liên bang, ngoại trừ Sarawak.
   - q: Vì sao người Hindu sống nhiều hơn ở các bang như Negeri Sembilan, Selangor và Perak?
     a: Các bang này trùng với những vùng đồn điền cao su và mỏ thiếc xưa — nơi công nhân Ấn Độ định cư với số lượng lớn trong thời kỳ thuộc Anh. Trong điều tra dân số năm 2020, Negeri Sembilan (~13,1%), Selangor (~10,3%) và Perak (~9,7%) có tỷ lệ cao hơn. Phần lớn họ là con cháu của những người từ Nam Ấn sang làm việc tại đồn điền theo chế độ kangani.
+framework: history-culture
 ---
 
 Ở bất kỳ thành phố nào của Malaysia, bên rìa một đồn điền cao su cũ hay trên một

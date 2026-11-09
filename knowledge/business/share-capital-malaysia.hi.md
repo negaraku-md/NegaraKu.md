@@ -117,6 +117,7 @@ keywords:
   - "धारा 75 Companies Act 2016"
   - "share capital Malaysia"
   - "paid-up capital Sdn Bhd"
+framework: explainer
 ---
 
 RM1 चुकता पूँजी कानूनी है, आम है, और चुपचाप निगमन के समय लिए गए सबसे महँगे निर्णयों में से एक है।

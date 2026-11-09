@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "applying-for-malaysian-citizenship-article-15" }
 related: []
 keywords: ["kewarganegaraan keturunan", "Perkara 14(1)(b)", "Borang D", "lahir luar negara", "JPN", "Jadual Kedua", "pindaan perlembagaan 2024", "Perkara 15(2)"]
+framework: explainer
 ---
 
 லண்டனில் பணிபுரியும் ஒரு மலேசியத் தம்பதிக்கு அங்குள்ள ஒரு மருத்துவமனையில் ஒரு குழந்தை பிறக்கிறது. உள்ளூர்ப் பிறப்புச் சான்றிதழ் அக்குழந்தை United Kingdom-இல் பிறந்ததாகக் குறிப்பிடுகிறது, ஆயினும் மலேசியச் சட்டத்தின் கீழ் அவர் ஏற்கனவே ஒரு குடிமகனாக இருக்கலாம் — அந்த நிலை சரியாகப் பதிவு செய்யப்பட்டால். அந்த நிலை எவ்வாறு உறுதிப்படுத்தப்படுகிறது, யார் தகுதியுடையவர் என்பது கூட்டரசு அரசியலமைப்பின் (Federal Constitution) அடிப்படை விதிகளைத் தொடும் கேள்விகள்.

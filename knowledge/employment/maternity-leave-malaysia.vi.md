@@ -94,6 +94,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "paternity-leave-malaysia", "employment-act-coverage", "termination-of-employment-malaysia"]
 keywords: ["maternity leave malaysia", "98 days maternity leave", "maternity allowance malaysia", "pregnant employee termination malaysia", "section 41a employment act"]
+framework: rules
 ---
 
 Hầu hết nội dung về thai sản của Malaysia là một con số. Chín mươi tám ngày, tăng từ sáu mươi, có hiệu lực từ

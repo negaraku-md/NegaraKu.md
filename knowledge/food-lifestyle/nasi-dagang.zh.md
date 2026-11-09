@@ -94,6 +94,7 @@ verificationNeeded:
   - "吉兰丹的咖喱是否与登嘉楼的 gulai ikan tongkol 有实质差异，以及标准用鱼——多数来源点名吞拿鱼（ikan tongkol／aya），也有提到马鲛鱼（mackerel）与 tenggiri。请向当地来源确认。"
   - "「商人的饭」的词源与起源传说（武吉斯商人，或把它带出海的渔民）——这些流传甚广，但记载松散；请向历史或词典学来源确认。"
   - "2009年国家遗产美食的列名——请对照国家文物局（Jabatan Warisan Negara）或 JKKN 的原始记录确认年份与列名机构。"
+framework: explainer
 ---
 
 在马来西亚东海岸点一份早餐，你可能会收到一小包香蕉叶，里头是色泽浅淡、油亮的米饭，

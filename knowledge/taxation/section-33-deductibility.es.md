@@ -119,6 +119,7 @@ relations:
   - { rel: "related-to", to: "entertainment-expenses" }
 related: ["losses-and-group-relief", "form-c-and-cp204", "withholding-tax-non-compliance"]
 keywords: ["section 33 income tax act", "wholly and exclusively malaysia", "allowable business expenses malaysia", "tax deductible expenses sdn bhd", "section 33(1) deduction", "lhdn disallowed expenses"]
+framework: explainer
 ---
 
 Toda guía sobre las deducciones empresariales malasias publica una lista. El alquiler, sí. Los salarios, sí. El entretenimiento, la mitad. La lista está bien hasta el día en que llega un gasto que no está en ella — un pago a un gobierno estatal para liberarse de una obligación, un estudio de viabilidad de un proyecto que nunca ocurrió, el impuesto sobre servicios que la empresa absorbió en lugar de trasladarlo — y entonces la lista no vale nada, porque la lista nunca fue la ley.

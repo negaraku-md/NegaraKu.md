@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "nine-royal-houses" }
 related: ["straits-settlements", "malayan-union", "nine-royal-houses", "malay-sultanate-system"]
 keywords: ["Federated Malay States", "Unfederated Malay States", "British Resident system", "British Adviser system", "Pangkor Treaty 1874", "Resident-General Kuala Lumpur", "Anglo-Siamese Treaty 1909", "Johor General Adviser", "Malay Rulers British protection", "colonial Malaya"]
+framework: explainer
 ---
 
 เก้ารัฐมลายู หนึ่งมหาอำนาจจักรวรรดิ ทว่าไม่ใช่ข้อตกลงเดียวแต่เป็นสอง การแบ่งนั้นคือสิ่งที่บทสรุปเกี่ยวกับมลายาอาณานิคมส่วนใหญ่ข้ามผ่าน และมันคือประเด็นทั้งหมดของบทความนี้

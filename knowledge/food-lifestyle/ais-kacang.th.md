@@ -96,6 +96,7 @@ social:
     - "#MalaysianDessert"
     - "#ShavedIce"
     - "#PasarMalam"
+framework: explainer
 ---
 
 ในยามบ่ายที่ร้อนระอุของมาเลเซีย มีไม่กี่สิ่งที่ดึงดูดฝูงชนได้เท่ากับเสียงหึ่ง ๆ

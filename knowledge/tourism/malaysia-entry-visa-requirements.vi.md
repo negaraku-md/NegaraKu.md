@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "malaysia-mm2h-program" }
 related: []
 keywords: ["Malaysia visa", "MDAC", "Malaysia Digital Arrival Card", "eVISA Malaysia", "MYVISA", "visa-free Malaysia", "Malaysia entry requirements", "autogate Malaysia", "passport validity Malaysia"]
+framework: rules
 ---
 
 Bạn đã đặt vé máy bay, gói hành lý, và chỉ tại cổng bay câu hỏi mới ập đến: Malaysia có muốn gì từ bạn trước khi bạn đến không? Đối với hầu hết du khách sự bất ngờ cắt cả hai chiều — bạn có lẽ không cần một visa, nhưng bạn gần như chắc chắn cần nộp một biểu mẫu trực tuyến nhỏ gọi là MDAC, và nhầm lẫn hai điều đó là cách nhanh nhất dẫn đến một sảnh nhập cảnh căng thẳng.

@@ -121,6 +121,7 @@ keywords:
   - "Johor Bahru premise licence fee"
   - "JS-SEZ Johor Bahru"
   - "foreign property purchase Johor"
+framework: profile
 ---
 
 Johor Bahru est la seule ville malaisienne dont le plancher salarial, le plan de personnel et la

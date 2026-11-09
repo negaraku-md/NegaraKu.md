@@ -87,6 +87,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaLicensing
     - SupplyChain
+framework: how-to
 ---
 
 Iniciar una empresa de logística en Malasia no es una sola decisión, sino un montón de ellas. La Sdn Bhd es la parte fácil; el valor —y la demora— está en las licencias. Un camión que transporta la carga de otro, una agencia de carga que presenta una declaración aduanera y un conductor al volante responden cada uno ante un regulador distinto, y el más grande —la licencia de operador— es también donde la propiedad extranjera se topa con un muro. Este es el itinerario de puesta en marcha del operador, en el orden en que realmente lo necesita.

@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "christmas-malaysia" }
 related: ["peranakan", "unesco-world-heritage", "christmas-malaysia"]
 keywords: ["Kristang", "Papia Kristang", "Perkampungan Portugis Melaka", "Eurasia Malaysia", "Intrudu", "branyo"]
+framework: history-culture
 ---
 
 マラッカのウジョン・パシールには、人々がマレー語でも英語でも、現代ポルトガル語でもない言葉で挨拶を交わす海辺の村がある——五世紀前に到来した征服者たちの言葉が、今なお生きて残る痕跡である。これがクリスタン人コミュニティの世界である。

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "stamp-duty" }
 related: []
 keywords: ["RPGT", "cukai keuntungan harta tanah", "CKHT", "LHDN", "pelupusan hartanah", "kadar RPGT", "pengecualian RPGT"]
+framework: rules
 ---
 
 你把房子卖出赚了一笔——但在钱进账之前，政府想要它的那一份。这就是 RPGT，一种卖方往往忽略、直到律师在成交桌上预扣了成千上万令吉才惊觉的税。

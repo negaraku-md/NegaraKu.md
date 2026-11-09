@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
 related: []
 keywords: ["solar Malaysia", "NEM 3.0", "Net Energy Metering", "Large Scale Solar", "LSS5", "CGPP", "CRESS", "CREAM", "tenaga boleh baharu", "solar bumbung"]
+framework: explainer
 ---
 
 Tấm pin mặt trời trên mái nhà giờ đây là một quyết định tài chính được ràng buộc chặt chẽ bởi chính sách của chính phủ Malaysia. Nhưng "chuyển sang điện mặt trời" mang ý nghĩa rất khác nhau đối với một chủ nhà ở Ipoh so với một nhà máy ở Pasir Gudang hay một trung tâm dữ liệu muốn 100% năng lượng xanh. Mỗi nhóm người dùng có chương trình riêng.

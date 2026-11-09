@@ -74,6 +74,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#AssamLaksa", "#Penang", "#BibGourmand", "#MalaysianFood", "#Malaysia"]
+framework: profile
 ---
 
 In a city that treats assam laksa as a point of pride, Wan Dao Tou has earned a

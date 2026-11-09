@@ -98,6 +98,7 @@ keywords:
   - "study visa Malaysia international student"
   - "i-Kad Malaysia"
   - "Malaysia student visa process"
+framework: explainer
 ---
 
 Bạn không thể tự nộp đơn xin thị thực sinh viên Malaysia của mình. Ngay cả khi đã có thư mời trong tay và đã đóng lệ phí, hồ sơ vẫn phải đi qua cơ sở của bạn — vì cơ quan sàng lọc nó hoàn toàn không phải là Nhập cư, ít nhất là không phải lúc đầu. Đó là một công ty.

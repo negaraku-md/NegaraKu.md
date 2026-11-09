@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
 keywords: ["shipping belongings to Malaysia", "import household goods Malaysia customs", "Customs Form K1 Malaysia", "import car to Malaysia", "Approved Permit AP Malaysia", "MITI AP vehicle import", "JPJ import vehicle registration", "PUSPAKOM imported car", "expatriate moving to Malaysia car"]
+framework: explainer
 ---
 
 Mọi danh mục kiểm tra tái định cư cho Malaysia đều nói cùng một điều một khi bạn cuộn xuống đủ xa: chuyển đồ nội thất của bạn, bán xe của bạn. Không ai giải thích vì sao hai chỉ dẫn đó lại khác nhau đến vậy — một cái là thủ tục giấy tờ, cái kia là một bức tường.

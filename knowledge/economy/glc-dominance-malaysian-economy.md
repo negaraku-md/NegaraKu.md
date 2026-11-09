@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "epf-kwsp-retirement-savings" }
 related: []
 keywords: ["GLC", "GLIC", "Khazanah", "government-linked companies", "Bursa Malaysia", "PERKUKUH", "state ownership", "Malaysian economy"]
+framework: explainer
 ---
 
 Buy almost any blue chip on Bursa Malaysia and you are, indirectly, doing business with the Malaysian government. The national power grid, the largest bank, the incumbent telco and one of the world's biggest palm-oil groups all share the same set of ultimate owners: a small cluster of state investment funds that between them steer roughly a quarter of the entire local stock market.

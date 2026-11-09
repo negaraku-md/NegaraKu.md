@@ -95,6 +95,7 @@ verificationNeeded:
   - "El origen de Oriente Medio (a menudo dicho egipcio, el ful medames) del kacang pool, y las raíces indonesias/Betawi y javanesas atribuidas al lontong, al lodeh, al soto y al nasi ambeng en Johor — son atribuciones anecdóticas de los medios de gastronomía y viajes, no historias documentadas."
   - "La solidez del marco de 'cocina real' y javanés/bugis para la comida de Johor en su conjunto — plausible y ampliamente afirmado, pero confírmense las afirmaciones demográficas y de historia culinaria con una fuente académica o patrimonial, no con artículos de lista."
   - "Las asociaciones con ciudades concretas (mee bandung y otak-otak con Muar; nasi beriani gam con Batu Pahat; durianes con Muar y Segamat) reflejan la reputación popular; confírmese cualquier afirmación de 'origen' con una fuente local u oficial antes de enunciarla como hecho."
+framework: history-culture
 ---
 
 Cruza la calzada desde Singapur y el primer estado malayo al que llegas es Johor

@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "credit-reporting-agencies-act-2010" }
 related: []
 keywords: ["CCRIS", "CTOS", "rapport de crédit", "credit report", "cote de crédit", "credit score", "eCCRIS", "Bank Negara Malaysia", "Loi sur les agences de renseignements de crédit 2010", "Credit Reporting Agencies Act 2010"]
+framework: explainer
 ---
 
 Vous demandez un prêt immobilier, tout semble en ordre, mais la banque rejette la demande sans grande explication. Derrière cette décision se cachent souvent deux noms que l'on vous mentionne rarement ouvertement : CCRIS et CTOS. Tous deux détiennent une image de la façon dont vous gérez votre argent, et vous avez le droit de voir ce qui y est inscrit.

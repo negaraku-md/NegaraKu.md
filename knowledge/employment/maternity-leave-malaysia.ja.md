@@ -94,6 +94,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "paternity-leave-malaysia", "employment-act-coverage", "termination-of-employment-malaysia"]
 keywords: ["maternity leave malaysia", "98 days maternity leave", "maternity allowance malaysia", "pregnant employee termination malaysia", "section 41a employment act"]
+framework: rules
 ---
 
 マレーシアの出産関連コンテンツのほとんどは、ひとつの数字に尽きる。98日、60日から引き上げられ、2023年1月1日に施行——それで終わり、というわけだ。しかしその数字は、Part IXの中でもっとも面白みのない部分にすぎない。事件の勝敗を分けるのは**s.41A**であり、これは妊娠中の従業員を解雇することを刑事犯罪と定め、さらにその解雇が妊娠を理由としたものでないことを使用者に証明させる。

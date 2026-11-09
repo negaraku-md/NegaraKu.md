@@ -91,6 +91,7 @@ keywords:
   - "Malaysian students international school quota"
   - "Education Act 1996 international school"
   - "service tax international school Malaysia"
+framework: explainer
 ---
 
 Sebuah sekolah berkurikulum Inggris dan sebuah sekolah berkurikulum Amerika yang terletak di ujung berlawanan kota yang sama, di atas kertas, dilisensikan oleh kantor yang sama persis di Putrajaya. Keduanya secara hukum tidak diperbolehkan mengenakan "dana pembangunan" kepada orang tua. Keduanya tidak boleh menaikkan biaya melebihi 30% pada satu waktu. Dan keduanya tidak diwajibkan menerbitkan satu angka pun yang ditetapkan oleh Kementerian sendiri — karena dari semua peraturan yang ditulis oleh Kementerian, harga sebenarnya untuk satu kursi bukanlah salah satunya.

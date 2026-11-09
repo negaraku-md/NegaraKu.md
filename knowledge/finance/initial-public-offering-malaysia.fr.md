@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "investing-in-bursa" }
 related: ["securities-commission-malaysia"]
 keywords: ["IPO malaysia", "list on bursa malaysia", "bursa listing requirements", "main market ace market leap market", "how to go public malaysia", "listing criteria bursa", "bumiputera equity requirement IPO"]
+framework: explainer
 ---
 
 Introduire une entreprise en bourse est l'une des plus grandes décisions de financement que ses propriétaires prendront jamais — elle lève du capital permanent, met un prix de marché sur l'activité et offre aux actionnaires une porte de sortie. Elle soumet aussi l'entreprise à un niveau de scrutin et de coût qui surprend bien des fondateurs. En Malaisie, une introduction en bourse (IPO) signifie se coter sur Bursa Malaysia, et la voie empruntée dépend entièrement de la taille et du degré d'établissement de votre entreprise.

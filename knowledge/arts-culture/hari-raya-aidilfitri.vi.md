@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-malaysia" }
 related: ["balik-kampung", "kampung", "public-holidays-malaysia", "religion-statistics"]
 keywords: ["Hari Raya Aidilfitri", "1 Syawal", "balik kampung", "duit raya", "rumah terbuka", "ziarah kubur", "zakat fitrah", "cuti umum Aidilfitri"]
+framework: history-culture
 ---
 
 Vào đêm cuối cùng của Ramadan, cả nước dường như chuyển động cùng một lúc. Đường cao tốc bắc–nam kẹt hàng giờ, các bến xe buýt chật kín túi xách và hộp bánh, và những ngọn đèn pelita sáng lên trên hiên nhà từ thành phố đến tận vùng quê hẻo lánh. Hôm sau, ngày 1 Syawal, một tháng chay tịnh kết thúc — và Malaysia đón mừng Hari Raya Aidilfitri.

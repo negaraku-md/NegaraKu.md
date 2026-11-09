@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "malaysia-sales-and-service-tax" }
 related: ["sales-and-service-tax"]
 keywords: ["tourism tax", "TTx", "Malaysia", "MyTTx", "RM10 per room", "DPSP", "hotel tax", "RMCD"]
+framework: rules
 ---
 
 Check into almost any hotel in Kuala Lumpur on a foreign passport and a curious line appears on the bill: RM10, flat, for every night you stayed. That is Malaysia's tourism tax (TTx) — a small, fixed levy that behaves very differently from the percentage-based hotel taxes travellers meet elsewhere.

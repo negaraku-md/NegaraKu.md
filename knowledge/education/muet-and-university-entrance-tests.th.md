@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "stpm" }
 related: []
 keywords: ["MUET", "Majlis Peperiksaan Malaysia", "MPM", "band MUET", "kemasukan universiti", "STPM", "kemahiran bahasa Inggeris", "ijazah sarjana muda"]
+framework: explainer
 ---
 
 คุณอาจทำได้ยอดเยี่ยมใน STPM หรือ matriculation แต่หากขาดผลอีกหนึ่งอย่าง ใบสมัครปริญญาของคุณก็ยังไม่สมบูรณ์ ผลนั้นคือ MUET — และนักเรียนหลายคนตระหนักถึงความสำคัญก็ต่อเมื่อวันปิดรับสมัครมหาวิทยาลัยใกล้เข้ามาแล้ว

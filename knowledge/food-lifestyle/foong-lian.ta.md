@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#FoongLian", "#ClaypotRice", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Pudu-வில் Jalan Yew-வில், ஒரு வரிசை மண்பானைகள் சிவந்து எரியும் கரிக்கு மேல் அமர்ந்து,

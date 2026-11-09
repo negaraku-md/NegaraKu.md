@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "employment-pass-malaysia" }
 related: ["moving-to-malaysia-first-steps", "imigresen", "employment-pass-malaysia", "work-passes-malaysia", "opening-bank-account"]
 keywords: ["Dependant Pass Malaysia", "Long-Term Social Visit Pass", "LTSVP Malaysia", "Employment Pass family", "sponsor spouse Malaysia visa", "parents visa Malaysia expatriate", "Malaysia family visa options"]
+framework: explainer
 ---
 
 Một người giữ Employment Pass chuyển đến Malaysia có thể đưa vợ/chồng và con nhỏ theo một giấy phép. Cha mẹ của họ, hoặc một đứa con vừa tròn 18 tuổi, cần một giấy phép hoàn toàn khác. Cùng một người chính, cùng một gia đình, hai hạng mục di trú riêng biệt — và nhầm lẫn giữa chúng là cách phổ biến nhất khiến một đơn bảo lãnh gia đình bị đình trệ.

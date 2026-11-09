@@ -108,6 +108,7 @@ relations:
   - { rel: "compares-with", to: "capital-allowances" }
 related: ["double-deduction-list", "capital-allowances", "section-33-deductibility", "tax-incentives-directory"]
 keywords: ["approved research allowance malaysia", "deducción doble I+D malasia", "sección 34A income tax act", "sección 34B deducción doble", "estatus I+D mida", "formulario 1 I+D lhdn"]
+framework: explainer
 ---
 
 Pregunte a tres asesores por la «approved research allowance» y obtendrá tres respuestas, porque ese beneficio no existe. Nada en la Income Tax Act 1967 usa esa expresión. Lo que existe son tres deducciones distintas con rutas de aprobación distintas y plazos distintos, más un cuarto régimen, por completo diferente, gestionado por MIDA. Confundirlos es la manera en que una empresa acaba con una deducción doble que no puede sustentar.

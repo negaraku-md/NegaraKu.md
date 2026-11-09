@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "mbrs-xbrl-filing" }
 related: ["companies-act-2016"]
 keywords: ["MFRS 10", "consolidated financial statements", "control", "subsidiary", "holding company", "Companies Act 2016", "MBRS", "group accounts", "Malaysia"]
+framework: explainer
 ---
 
 다른 회사의 지배 지분을 매입하면 재무상태표에 항목 하나를 추가한 것이 아니라 — 말레이시아

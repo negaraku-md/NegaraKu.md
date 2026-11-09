@@ -96,6 +96,7 @@ verificationNeeded:
   - "Câu chuyện nguồn gốc của chicken rice balls (rằng phu phen hoặc thủy thủ đã vo cơm thành viên để dễ mang theo) và liệu món này có thật sự khởi nguồn từ Malacca chứ không phải nơi khác — đây là những truyền thuyết phổ biến, không được ghi chép chắc chắn; hãy xác nhận với một nguồn lịch sử ẩm thực."
   - "Liệu cendol và gula Melaka có thật sự khởi nguồn từ Malacca — việc đặt tên đường thốt nốt theo Malacca là luận điểm được ủng hộ nhất, nhưng nguồn gốc của chính cendol thì chưa ngã ngũ (cả Java lẫn các cộng đồng Peranakan Malacca/Penang đều được đề xuất); hãy xác nhận với một nguồn lịch sử ẩm thực."
   - "Nguồn gốc chính xác và người làm ra tart dứa đầu tiên (thường được quy cho các đầu bếp Nyonya Peranakan với ảnh hưởng bánh ngọt Bồ Đào Nha) và lối chơi chữ Phúc Kiến 'ong lai'/thịnh vượng đằng sau vai trò của nó trong Tết Nguyên đán — hãy xác nhận với một nguồn ẩm thực hoặc ngôn ngữ học."
+framework: history-culture
 ---
 
 Hiếm có thị trấn nào ở Malaysia phô bày lịch sử của mình ra đĩa thức ăn mộc mạc

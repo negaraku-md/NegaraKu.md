@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "accounting-records-section-245" }
 related: ["llp-vs-sdn-bhd", "register-llp-malaysia", "accounting-records-section-245", "sdn-bhd-bookkeeping"]
 keywords: ["LLP लेखांकन अभिलेख", "धारा 69 LLP अधिनियम 2012", "LLP वार्षिक घोषणा", "solvency declaration LLP", "LLP बनाम Sdn Bhd", "Akta 743"]
+framework: rules
 ---
 
 एक LLP वर्षों तक SSM को एक भी वित्तीय विवरणी प्रस्तुत किए बिना संचालित हो सकती है — और यहीं इस संरचना के बारे में एक सामान्य भ्रांति छिपी है। दाखिली की आवश्यकता का अभाव जिम्मेदारी के अभाव का अर्थ नहीं है। सीमित देयता भागीदारी अधिनियम 2012 (Limited Liability Partnerships Act 2012) की धारा 69 फिर भी प्रत्येक सीमित देयता भागीदारी (LLP) को किसी कंपनी जितने कड़े अभिलेख-रखरखाव मानक से बाँधती है, और धारा 68 सार्वजनिक वित्तीय विवरणी को एक अन्य साधन से प्रतिस्थापित करती है जो भागीदारों पर व्यक्तिगत देयता वहन करता है: शोधनक्षमता घोषणा।

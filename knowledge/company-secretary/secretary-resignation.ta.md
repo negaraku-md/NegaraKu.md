@@ -112,6 +112,7 @@ relations:
   - { rel: "requires", to: "register-of-directors" }
 related: ["secretary-vacancy-30-days", "changing-company-secretary", "company-secretary-qualification", "appoint-company-secretary"]
 keywords: ["resign company secretary Malaysia", "section 237 Companies Act 2016", "secretary resignation 30 days", "Practice Note 4/2018", "directors cannot be contacted secretary resign", "notice of intention to vacate office of secretary"]
+framework: how-to
 ---
 
 இந்தத் தலைப்பு குறித்த ஒவ்வொரு வழிகாட்டியும் நிறுவனத்தின் பக்கத்திலிருந்தே

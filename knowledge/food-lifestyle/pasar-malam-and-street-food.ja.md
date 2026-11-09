@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "malaysian-street-food" }
 related: []
 keywords: ["pasar malam", "pasar tani", "pasar basah", "street food", "FAMA", "gred kebersihan premis makanan", "penjaja"]
+framework: explainer
 ---
 
 夕暮れが近づくと、人けのない一本の通りが突如として、サテーの煙と果物の山、そして蛍光灯の列が並ぶ路地へと姿を変える——これがパサ・マラム（夜市）、マレーシアで最も庶民的な機構の一つである。農民市場と生鮮市場とともに、それは庶民市場のネットワークを形づくり、マレーシア人が毎日買い物をし、食事をする場となっている。

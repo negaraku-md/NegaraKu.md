@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "nine-royal-houses" }
 related: ["independence-1957", "malayan-union", "formation-of-malaysia-1963"]
 keywords: ["Reid Commission", "Federation of Malaya Constitution", "Lord Reid", "Ivor Jennings", "1957 constitution", "Malayan independence"]
+framework: profile
 ---
 
 เมื่อผู้นำของมลายาและรัฐบาลอังกฤษเห็นพ้องกันในต้นปี 1956 ว่าเอกราชควรมาถึงภายในเดือนสิงหาคม 1957 พวกเขามีปัญหาที่เส้นตายเพียงอย่างเดียวแก้ไม่ได้ คือ ประเทศใหม่ไม่มีรัฐธรรมนูญ แทนที่จะเขียนเอง พวกเขามอบงานให้แก่นักกฎหมายห้าคน ไม่มีใครเป็นชาวมลายา และขอให้พวกเขาออกแบบกลไกทางกฎหมายของรัฐที่พวกเขาจะไม่ได้อยู่อาศัย จากภายนอก

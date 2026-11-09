@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "jkkk-village-safety-committee" }
 related: ["pdrm"]
 keywords: ["rukun tetangga", "skim rondaan sukarela", "SRS", "KRT", "kepolisan komuniti", "JPNIN", "Akta 751", "keselamatan kejiranan"]
+framework: explainer
 ---
 
 주택 단지의 야간 가로등 불빛은 흔히 자전거를 타거나 손전등을 들고 걷는 두세 사람에게 일부 가려집니다 — 자기 동네를 순찰하는 이웃들입니다. 그들은 경찰이 아닙니다. 그들은 자원순찰제도의 대원이며, 말레이시아 대부분의 이웃에서 범죄 예방의 첫 번째 층 — 즉 지역사회가 말레이시아 왕립경찰(PDRM)과 지속적으로 함께 자기 지역사회를 지키는 것 — 을 대표합니다.

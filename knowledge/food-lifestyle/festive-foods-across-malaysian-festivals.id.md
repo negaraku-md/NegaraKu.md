@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "kaamatan" }
 related: ["hari-raya-aidilfitri", "chinese-new-year", "deepavali", "christmas-malaysia", "gawai-dayak", "kaamatan"]
 keywords: ["juadah perayaan", "makanan raya", "ketupat", "rendang", "lemang", "yee sang", "lou sang", "murukku", "manok pansuh", "hinava", "tuak", "tumpung", "rumah terbuka", "kuih raya"]
+framework: history-culture
 ---
 
 Ikuti kalender Malaysia dari satu ujung tahun ke ujung lainnya, dan Anda tidak sekadar mengganti tanggal — Anda mengganti dapur. Bulan ini aroma rendang dan santan lemang; beberapa bulan kemudian, meja penuh salad ikan mentah yang diangkat tinggi-tinggi sambil orang bersorak; kemudian giliran spiral murukku yang renyah, dan akhirnya ruas bambu yang dibelah untuk mengeluarkan ayam panas.

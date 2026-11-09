@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "public-vs-private-universities" }
 related: ["public-vs-private-universities", "warta-kerajaan", "akta"]
 keywords: ["homeschooling Malaysia", "Education Act 1996", "Section 29A", "Section 32A", "compulsory education Malaysia", "homeschool exemption", "pendidikan di rumah", "MOE exemption letter"]
+framework: explainer
 ---
 
 毎年1月、数万人の6歳のマレーシア人の子どもたちが、法律がそう定めているという

@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-vs-tax-invoice" }
 related: ["online-business-licence-malaysia"]
 keywords: ["start online business malaysia", "e-commerce business malaysia", "sell online malaysia registration", "SSM online business", "low value goods tax malaysia", "electronic trade transactions regulations", "e-invoice small business malaysia"]
+framework: how-to
 ---
 
 電子商取引は非公式なものに感じられる——夕食の時間までにはマーケットプレイスで販売を始めていることもありうる——それが多くの人に、規則は適用されないと思い込ませる。規則は適用される。マレーシアはオンライン販売者を他のあらゆる事業と同じように扱う：あなたは登録し、自分が何者であるかを開示し、顧客データを保護し、正しい税を納めなければならない。これらの規則も最近変わったため、数年前に事業を立ち上げた販売者でさえ、古い情報のまま運用している可能性がある。

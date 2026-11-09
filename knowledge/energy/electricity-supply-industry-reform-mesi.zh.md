@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "seda-malaysia" }
 related: ["tenaga-nasional", "energy-commission-suruhanjaya-tenaga", "seda-malaysia"]
 keywords: ["MESI", "MESI 2.0", "electricity market reform Malaysia", "third-party access", "single buyer", "CRESS", "TNB unbundling", "retail competition electricity"]
+framework: explainer
 ---
 
 对大多数马来西亚人来说，买电就意味着一家公司、一张账单。在这份简单背后，隐藏着一场持续了十年、悄无声息的争论：这个国家的电力市场究竟该不该变成别的样子——而答案总是落在“暂时还不行，但每年多开放一点”。

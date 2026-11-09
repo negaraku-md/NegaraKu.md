@@ -73,6 +73,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-act-1955-guide", "working-hours-overtime-malaysia", "employment-contract-malaysia"]
 keywords: ["लचीली कार्य-व्यवस्था मलेशिया", "flexible working arrangement malaysia", "FWA रोज़गार अधिनियम", "धारा 60P 60Q", "घर से काम का अनुरोध मलेशिया", "work from home request malaysia"]
+framework: rules
 ---
 
 लचीले कार्य की अधिकांश मलेशियाई कवरेज इसे एक ऐसे लाभ के रूप में वर्णित करती है जिसे

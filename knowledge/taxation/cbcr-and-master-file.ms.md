@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "transfer-pricing-documentation" }
 related: ["transfer-pricing-documentation", "global-minimum-tax-pillar-two", "permanent-establishment"]
 keywords: ["CbCR Malaysia", "pelaporan negara demi negara Malaysia", "ambang CbCR RM3 bilion", "master file penentuan harga pindahan Malaysia", "P.U.(A) 357/2016"]
+framework: rules
 ---
 
 Tarikh akhir yang menyebabkan kumpulan tersasar bukanlah tarikh akhir pemfailan. Ia adalah

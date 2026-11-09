@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "qingming-festival" }
 related: ["qingming-festival", "chinese-religion-in-malaysia", "mid-autumn-festival", "chinese-new-year"]
 keywords: ["中元节", "鬼节", "盂兰胜会", "盂兰盆", "农历七月", "鬼门开", "好兄弟", "普度", "大士爷", "鬼王", "歌台", "喊标", "标福物", "烧街衣", "金银纸", "马来西亚华人", "槟城", "Hungry Ghost Festival"]
+framework: history-culture
 ---
 
 Cuando llega el séptimo mes lunar, la escena nocturna de muchas esquinas de Penang, Klang y Johor cambia en silencio: al borde de la calle se disponen mesitas con fruta, arroz, té y fajos de papel dorado y plateado, mientras el incienso y las velas titilan en la penumbra del atardecer. En un descampado del barrio se levanta una efigie de papel de un dios de varios metros de alto y rostro severo, y frente a ella se monta un escenario; al caer la noche las luces se encienden con fuerza y resuenan los cantos, pero toda la primera fila de sillas al pie del escenario permanece vacía de principio a fin.

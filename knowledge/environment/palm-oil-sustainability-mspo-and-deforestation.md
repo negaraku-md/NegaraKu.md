@@ -90,6 +90,7 @@ relations:
   - { rel: "affects", to: "eu-deforestation-regulation-eudr" }
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "palm oil sustainability", "deforestation", "EUDR", "RSPO", "certification", "smallholders", "MPOB", "Malaysia palm oil"]
+framework: explainer
 ---
 
 Malaysia grows roughly a fifth of the world's palm oil, and the industry has long drawn criticism from European and NGO campaigners over its links to deforestation. In response, the country now runs a mandatory, state-backed certification scheme, and on 5 September 2025 the European Union acknowledged that scheme in a joint statement. This is how MSPO works, what it does and does not prove, and where the hard problems still sit.

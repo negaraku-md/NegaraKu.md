@@ -62,6 +62,7 @@ relations:
   - { rel: "explained-in", to: "registering-a-birth" }
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "registering-a-birth"]
 keywords: ["having a baby in Malaysia", "pregnancy Malaysia", "antenatal care Malaysia", "Pink Book pregnancy", "Rekod Kesihatan Ibu", "klinik kesihatan pregnant", "public vs private delivery Malaysia", "birth registration JPN", "maternity Malaysia", "government hospital delivery Malaysia"]
+framework: explainer
 ---
 
 ผลการทดสอบการตั้งครรภ์ที่เป็นบวกเริ่มเดินนาฬิกาสองเรือนพร้อมกัน และแทบไม่มีใครอธิบายเรื่องนี้ตั้งแต่แรก นาฬิกาเรือนหนึ่งเกี่ยวกับการตั้งครรภ์เอง — เมื่อใดที่ต้องลงทะเบียน ที่ไหน เกิดอะไรขึ้นในการมาแต่ละครั้ง อีกเรือนหนึ่งเริ่มเดินหลังจากทารกมาถึงแล้ว และไม่เกี่ยวข้องกับโรงพยาบาลเลย คือ การจดทะเบียนทางกฎหมายกับหน่วยงานที่แตกต่างกันโดยสิ้นเชิง

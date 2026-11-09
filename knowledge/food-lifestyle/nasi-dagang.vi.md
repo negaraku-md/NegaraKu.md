@@ -94,6 +94,7 @@ verificationNeeded:
   - "Liệu món cà ri Kelantan có khác biệt đáng kể so với gulai ikan tongkol của Terengganu hay không, và loại cá tiêu chuẩn — phần lớn nguồn nêu tên cá ngừ (ikan tongkol / aya), với cá thu (mackerel) và tenggiri cũng được dẫn. Hãy xác nhận với một nguồn địa phương."
   - "Từ nguyên 'cơm của người buôn' và các truyền thuyết nguồn gốc (những người buôn Bugis, hoặc ngư dân mang nó ra biển) — những điều này lan truyền rộng rãi nhưng được ghi chép lỏng lẻo; hãy xác nhận với một nguồn lịch sử hoặc từ điển học."
   - "Việc liệt vào danh sách món ăn di sản quốc gia năm 2009 — hãy xác nhận năm và cơ quan liệt kê dựa trên một hồ sơ gốc của Jabatan Warisan Negara hoặc JKKN."
+framework: explainer
 ---
 
 Gọi bữa sáng ở bờ Đông Malaysia, và bạn có thể được trao một gói lá chuối nhỏ đựng cơm nhạt màu,

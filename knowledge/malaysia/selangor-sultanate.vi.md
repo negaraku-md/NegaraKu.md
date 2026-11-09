@@ -62,6 +62,7 @@ verificationNeeded:
   - "Niên đại chính thức Selangor gia nhập Liên bang các Bang Mã Lai: các nguồn khác nhau giữa hiệp định liên bang năm 1895 và việc FMS có hiệu lực vào ngày 1 tháng 7 năm 1896. Bài viết dùng năm 1896; xác nhận với văn bản hiệp ước Liên bang các Bang Mã Lai hoặc Arkib Negara Malaysia."
   - "Năm chính xác vị Công sứ Anh đầu tiên của Selangor (James Guthrie Davidson) nhậm chức: các nguồn đưa ra cả 1874 lẫn 1875. Xác nhận với một công trình lịch sử học thuật như công trình của J.M. Gullick về Selangor."
   - "Ngày mất của Sultan Salehuddin Shah (các nguồn đưa ra 1778 và 1782) và các chi tiết lễ đăng quang chính xác năm 1766 tại Kota Lumut; xác nhận với một công trình lịch sử học thuật về Selangor."
+framework: history-culture
 ---
 
 Trên bờ tây của Bán đảo Mã Lai, nơi các con sông Klang và Selangor đổ vào Eo biển Malacca, một dân tộc đi biển từ phía bên kia quần đảo đã dựng nên một trong những bang giàu có nhất của bán đảo. Vận may của họ không được dựng trên gia vị hay vàng mà trên thiếc — thứ quặng xám chôn trong các thung lũng mà, trong vòng một thế kỷ, sẽ kéo vương quốc Hồi giáo non trẻ vào một cuộc chiến giành chính sự giàu có của nó và, cuối cùng, vào dưới bóng một Công sứ Anh. Đây là câu chuyện về Vương quốc Hồi giáo Selangor, một vương triều Bugis mà dòng dõi vẫn còn ngồi trên ngai vàng ngày nay.

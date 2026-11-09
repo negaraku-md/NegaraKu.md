@@ -121,6 +121,7 @@ keywords:
   - "Medini incentives expired"
   - "Iskandar vs JS-SEZ"
   - "Wilayah Pembangunan Iskandar"
+framework: explainer
 ---
 
 ஜொகூரின் ஊக்கத்தொகை வரலாறு பற்றிய கிட்டத்தட்ட ஒவ்வொரு விவரணையும் ஒரே விஷயத்தைக் கூறுகிறது: JS-SEZ பழைய

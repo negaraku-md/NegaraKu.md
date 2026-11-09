@@ -99,6 +99,7 @@ keywords:
   - "MalaysiaBiz"
   - "who issues business licences Malaysia"
   - "premise licence federal state local"
+framework: explainer
 ---
 
 SSM 인증서가 도착하면 회사는 존재하게 되지만, 여러분에게 허용된 것은 정확히

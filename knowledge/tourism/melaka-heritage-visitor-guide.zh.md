@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "getting-around-malaysia-public-transport" }
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["Melaka heritage", "Melaka UNESCO World Heritage", "Jonker Street", "Baba Nyonya Peranakan Melaka", "A Famosa Porta de Santiago", "Stadthuys Dutch Square", "St Paul's Hill Melaka", "Melaka travel guide"]
+framework: explainer
 ---
 
 黄昏时分站在荷兰红屋广场，你可以在一瞥之间读到五个世纪的历史：一侧是三文鱼红的荷兰市政厅，山上是葡萄牙时期教堂的遗迹，一座曾是要塞支点、英国人试图拆除的石门，以及——步行两分钟外——一条如今为周五夜市点亮灯火的华人马来排屋小巷。马六甲不把它的历史铺展在一座大城市里。它把历史层层堆叠进约一平方英里、你一个下午就能走完的范围内。以下是如何解读它，以及如何据此规划一次游览。

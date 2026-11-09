@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "malaysia-homestay-programme" }
 related: []
 keywords: ["Malaysia UNESCO World Heritage", "heritage tourism Malaysia", "homestay programme Malaysia", "George Town Melaka", "mosque etiquette Malaysia", "cultural tourism"]
+framework: explainer
 ---
 
 Enam situs dalam satu negara kini menyandang cap UNESCO — dan Anda bisa menyusuri sebuah lapangan kolonial Belanda berusia berabad-abad pada pagi hari lalu berdiri di dalam sebuah ruang gua Borneo yang luas setelah satu penerbangan. Warisan Malaysia bukan museum yang hanya dipandang; ia jalan hidup yang bisa Anda santap, tiduri, dan jadikan tempat beribadah sepanjang perjalanan.

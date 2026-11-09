@@ -112,6 +112,7 @@ keywords:
   - "Sarawak Land Code Cap 81"
   - "Samalaju Industrial Park"
   - "perniagaan di Sarawak"
+framework: explainer
 ---
 
 Hãy bắt đầu với một con số cho bạn biết đây là loại nơi nào. Sarawak vận hành **hai loạt

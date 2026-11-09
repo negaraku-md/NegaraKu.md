@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["population-composition", "chinese-dialects", "chinese-clan-associations", "chinese-education-in-malaysia", "chinese-new-year"]
 keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划", "Briggs Plan", "马共", "重新安置", "临时地契", "TOL", "Chinese New Villages", "New Villages Malaysia"]
+framework: history-culture
 ---
 
 Si hoy entras en Semenyih, Kampar o Sekinchan, lo que ves en su mayor parte es la estampa corriente de un pueblo pequeño: hileras de casas-tienda, una escuela primaria china, templos y asociaciones de clan, cafeterías de carretera y tiendas de ultramarinos. Pero muchos de estos lugares comparten una identidad común: son "Nuevas Aldeas". Tras ese nombre en apariencia anodino se esconde una historia de la Emergencia Malaya, de la contrainsurgencia y de un traslado a gran escala.

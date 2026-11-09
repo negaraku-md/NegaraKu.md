@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "getting-married-in-malaysia" }
 related: ["getting-divorced-in-malaysia", "getting-married-in-malaysia"]
 keywords: ["civil divorce Malaysia", "Law Reform Marriage and Divorce Act 1976", "Act 164", "marriage tribunal JPN", "decree nisi", "decree absolute", "joint petition divorce", "Section 106 conciliatory body", "non-Muslim divorce Malaysia"]
+framework: explainer
 ---
 
 在JPN登记结婚的非穆斯林夫妻，往往以为同一个部门也能为他们办理离婚。事实并非如此。在马来西亚，民事婚姻是通过行政方式登记的，但只能凭法庭命令予以解除——而从貌合神离的婚姻到一纸盖章判令的路径，要经过一个调解仲裁庭、一份高等法院呈请，以及离婚正式生效前内建的三个月缓冲期。

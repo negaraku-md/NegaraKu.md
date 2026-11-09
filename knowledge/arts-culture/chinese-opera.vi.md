@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "unesco-world-heritage" }
 related: ["wayang-kulit", "mak-yong", "unesco-world-heritage"]
 keywords: ["华人大戏", "酬神戏", "粤剧 马来西亚", "潮剧 马来西亚", "闽剧", "歌仔戏", "布袋戏", "潮州铁枝木偶", "槟城 中元节", "Chinese opera Malaysia", "Wayang Cina"]
+framework: history-culture
 ---
 
 Chiêng trống vang lên, trên sân khấu tay áo nước bay lượn, nhưng hàng ghế khán giả bên dưới lại thường chỉ lác đác vài người — có khi thậm chí không một bóng người. Đây không phải là buổi diễn thất bại, bởi vở này vốn dĩ không phải diễn cho người xem.

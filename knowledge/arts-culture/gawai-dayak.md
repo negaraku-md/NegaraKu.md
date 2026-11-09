@@ -76,6 +76,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["kaamatan", "sarawak"]
 keywords: ["Gawai Dayak", "Hari Gawai", "harvest festival Sarawak", "Dayak", "Iban", "Bidayuh", "Orang Ulu", "miring", "ngajat", "tuak", "Tuai Rumah", "Gayu Guru Gerai Nyamai"]
+framework: history-culture
 ---
 
 The clock has not yet struck midnight on the last day of May, and in a longhouse somewhere along a Sarawak river the gong is waiting. The rice is in. The gallery has been swept and hung with fresh mats. A jar of tuak sits ready. When the gong finally sounds, the longhouse chief will raise a cup, and everyone down the long communal veranda will drink to the same three words: long life, health, prosperity.

@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "registering-a-birth" }
 related: ["imigresen", "mykad", "registering-a-birth"]
 keywords: ["pasport Malaysia", "renew pasport online", "MyOnline Passport", "pembaharuan pasport antarabangsa", "gantian pasport hilang", "kaunter UTC pasport", "Jabatan Imigresen Malaysia pasport", "yuran pasport Malaysia", "pasport 10 tahun Malaysia"]
+framework: how-to
 ---
 
 Your passport expires in a month, the flight ticket is already booked, and

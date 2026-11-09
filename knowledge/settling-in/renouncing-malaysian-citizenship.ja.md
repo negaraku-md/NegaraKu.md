@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "dual-citizenship-malaysia" }
 related: []
 keywords: ["melepaskan kewarganegaraan", "dwikewarganegaraan Malaysia", "Perkara 23", "Perkara 24", "Perlembagaan Persekutuan", "Borang K", "pelucutan kewarganegaraan", "JPN"]
+framework: explainer
 ---
 
 宣誓して他国の国民となったマレーシア人は、自分の青いパスポートとMyKadがもはや有効でないと知って驚くことが多い——それは何らかの隠れた行政行為によるのではなく、連邦憲法そのものが二重国籍を認められないものとみなしているからである。この事柄は、密接に関連する二つの規定に集約される。すなわち第23条（自発的な放棄）と第24条（外国の市民権取得に伴う剥奪）である。

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "winter-solstice-festival"]
 keywords: ["端午节", "端阳节", "五月节", "粽子", "bak chang", "娘惹粽", "咸肉粽", "碱水粽", "龙舟", "赛龙舟", "屈原", "艾草", "菖蒲", "立蛋", "直落巴巷水坝", "马来西亚华人", "Dragon Boat Festival Malaysia", "Duanwu"]
+framework: history-culture
 ---
 
 旧暦五月五日が近づくころ、華人家庭の台所には粽の葉ともち米の香りが漂います。主婦たちは水に浸したもち米と香ばしく炒めた具を、漏斗状に折った葉に一層また一層と詰め、イグサの紐でしっかりと縛り、ひと連なりまたひと連なりと鍋に下ろして長時間煮ます。同じころ、ペナン島北西端のテロッ・バハン・ダムでは、細長いドラゴンボートが水面を切り分けて進み、舳先に立つ太鼓手が拍を打ち、数十人の漕ぎ手がその拍に合わせて一斉に櫂を振るいます——これがマレーシアの端午節の二つの顔です。一方は台所の粽の香り、もう一方は水上の競漕です。

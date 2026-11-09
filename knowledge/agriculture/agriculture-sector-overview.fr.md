@@ -103,6 +103,7 @@ relations:
   - { rel: "part-of", to: "gdp-overview" }
 related: ["palm-oil-sector", "rubber", "gdp-overview"]
 keywords: ["secteur agricole de la Malaisie", "agroalimentaire Malaisie", "Politique nationale agroalimentaire", "taux d'autosuffisance alimentaire", "KPKM", "KPK", "huile de palme riz caoutchouc", "sécurité alimentaire Malaisie"]
+framework: profile
 ---
 
 En 2024, la Malaisie a produit plus de 100 millions de tonnes de régimes de fruits

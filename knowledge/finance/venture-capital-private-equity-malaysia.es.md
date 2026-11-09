@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "equity-crowdfunding-p2p-malaysia" }
 related: ["kl20-startup-ecosystem", "securities-commission-malaysia"]
 keywords: ["capital riesgo malasia", "venture capital malaysia", "capital privado malasia", "private equity malaysia", "VCC VCMC malaysia", "registro SC capital riesgo", "levantar financiación startup malasia", "MAVCAP", "Penjana Kapital", "incentivo fiscal VC malasia"]
+framework: explainer
 ---
 
 La mayoría de las empresas malasias crecen con beneficios retenidos, un descubierto bancario o un préstamo para pymes. Un grupo pequeño pero importante crece, en cambio, con el capital de otra persona — un fondo que compra una porción del negocio, lo impulsa a escala y vende esa porción años después por un múltiplo. Eso es lo que hacen el capital riesgo y el capital privado, y Malasia regula, financia y grava esta actividad de maneras que sorprenden a quienes suponen que funciona como en Estados Unidos.

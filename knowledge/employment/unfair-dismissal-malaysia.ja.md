@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "domestic-inquiry-malaysia" }
 related: ["labour-law-map-malaysia", "termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
 keywords: ["unfair dismissal malaysia", "section 20 industrial relations act", "60 days filing dismissal", "industrial court malaysia", "backwages cap 24 months", "compensation in lieu of reinstatement"]
+framework: how-to
 ---
 
 六十日。それがすべてであり、マレーシアの不当解雇の申立てのほとんどはここで潰える——事案の是非にではなく、雇用主の人事部と七週間交渉し、さらに二週間、来ない返事を待ち、六十三日目に申立てを行ったからである。

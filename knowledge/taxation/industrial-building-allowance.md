@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["capital-allowances", "losses-and-group-relief"]
 keywords: ["industrial building allowance malaysia", "IBA schedule 3", "paragraph 63 schedule 3", "qualifying building expenditure", "factory tax allowance malaysia", "IBA rate 10% 3%"]
+framework: explainer
 ---
 
 A company buys a factory for RM1.2 million and claims industrial building allowance on RM1.2 million. Two years later the audit adjusts the claim to a little over RM500,000, adds back the excess for every year since, and imposes a penalty. Nothing about the building changed. The company simply claimed on a number the statute never allowed it to use.

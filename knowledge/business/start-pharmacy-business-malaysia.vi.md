@@ -83,6 +83,7 @@ social:
     - CommunityPharmacy
     - DoingBusinessInMalaysia
     - PoisonsAct
+framework: how-to
 ---
 
 Mở một nhà thuốc ở Malaysia không giống như mở một cửa hàng bình thường, và lý do là một lựa chọn thiết kế duy nhất trong luật: giấy phép cho phép một nhà thuốc bán thuốc gắn với một *người* — một dược sĩ đã đăng ký — không phải với một công ty hoặc một mặt tiền cửa hàng. Bạn có thể có vốn, địa điểm và việc lắp đặt sẵn sàng, nhưng cho đến khi một dược sĩ đủ tiêu chuẩn đứng sau giấy phép, bạn có một cửa hàng sản phẩm sức khỏe, không phải một nhà thuốc.

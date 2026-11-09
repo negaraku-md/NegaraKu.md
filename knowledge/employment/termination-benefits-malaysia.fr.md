@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "retrenchment-malaysia" }
 related: ["termination-of-employment-malaysia", "retrenchment-malaysia", "offboarding-statutory-checklist"]
 keywords: ["indemnités de licenciement malaisie", "calcul de l'indemnité de licenciement collectif", "règlement TBLB 1980", "indemnité de départ malaisie", "indemnités de mise à pied malaisie", "10 15 20 jours de salaire", "termination benefits malaysia", "TBLB regulations 1980"]
+framework: rules
 ---
 
 Deux employeurs licencient le même salarié le même jour. L'un paie un mois de salaire et appelle cela généreux. L'autre paie 20 jours de salaire pour chacune de neuf années — environ six mois de rémunération — parce que c'est ce qu'exige la loi. La différence, c'est que le second a lu le Employment (Termination and Lay-Off Benefits) Regulations 1980.

@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "sumbangan-tunai-rahmah-str" }
 related: ["program-rahmah-cost-of-living"]
 keywords: ["PADU", "Pangkalan Data Utama", "rasionalisasi subsidi", "subsidi bersasar", "BUDI MADANI", "RON95", "subsidi diesel", "subsidi elektrik", "T15"]
+framework: explainer
 ---
 
 Pendant des années, le gouvernement malaisien a subventionné le carburant, l'électricité et l'alimentation pour tous, en masse — sans distinguer si le bénéficiaire était un saigneur de caoutchouc ou le propriétaire d'une voiture de luxe. La question qui a tout changé n'était pas *combien* de subvention était accordé, mais *à qui*. Et pour y répondre, l'État avait besoin de quelque chose qu'il n'avait jamais eu : une image précise de qui sont réellement les Malaisiens. C'est le rôle de PADU.

@@ -86,6 +86,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaLicensing
     - SupplyChain
+framework: how-to
 ---
 
 말레이시아에서 물류회사를 시작하는 것은 하나의 결정이 아니라 그것들의 더미입니다.

@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["malaysian-education-system", "enrolling-in-a-government-school", "private-and-chinese-independent-schools"]
 keywords: ["sekolah kebangsaan", "SJKC", "SJKT", "sekolah jenis kebangsaan", "bahasa pengantar", "KPM", "KSSR", "sekolah rendah Malaysia"]
+framework: explainer
 ---
 
 每年，当报名期开放时，全马来西亚的父母都会打开大马教育部（KPM）的 idMe 门户网站，为孩子报名就读一年级。其中一项必须最先做出的选择就是：SK、SJKC 还是 SJKT？

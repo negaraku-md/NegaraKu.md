@@ -80,6 +80,7 @@ social:
     - DoingBusinessInMalaysia
     - SupplyChain
     - MalaysiaTrade
+framework: explainer
 ---
 
 Ask "how do I get a warehouse licence in Malaysia?" and the honest first answer is a question back: what are you storing, and for whom? Because there is no single "warehouse licence." A plain stockroom for your own goods is licensed by the local council like any other business premises. A bonded warehouse that holds imported goods with the duty switched off is licensed by Customs under a specific section of the Customs Act. And a factory that both makes and stores goods for export is a third animal entirely. Pick the wrong one and you either over-comply — paying for a Customs bond you never needed — or under-comply and get caught holding dutiable goods without a licence.

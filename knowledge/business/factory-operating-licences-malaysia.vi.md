@@ -85,6 +85,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaCompliance
     - OSHA
+framework: rules
 ---
 
 Có được một giấy phép sản xuất tưởng như là vạch đích. Thực ra nó gần với vạch xuất phát hơn. Giấy phép trả lời một câu hỏi — *công ty này có được phép làm ra sản phẩm này ở quy mô này không?* — nhưng nó không nói gì về tòa nhà mà máy móc đặt trong đó, về chính máy móc, về rủi ro cháy nổ, về hội đồng quản lý địa chỉ đó, hay về nước thải chảy xuống cống. Đó là những sự phê duyệt cho phép bạn thực sự *vận hành mặt bằng*, và một nhà máy có thể nắm giữ một giấy phép sản xuất hoàn toàn hợp lệ trong khi vẫn bất hợp pháp để sử dụng hoặc vận hành.

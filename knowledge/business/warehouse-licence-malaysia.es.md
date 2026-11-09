@@ -81,6 +81,7 @@ social:
     - DoingBusinessInMalaysia
     - SupplyChain
     - MalaysiaTrade
+framework: explainer
 ---
 
 Pregunte «¿cómo obtengo una licencia de almacén en Malasia?» y la primera respuesta honesta es otra pregunta: ¿qué va a almacenar y para quién? Porque no existe una única «licencia de almacén». Un simple depósito para sus propias mercancías lo licencia el concejo local como cualquier otro local comercial. Un almacén afianzado que guarda mercancías importadas con el arancel suspendido lo licencia Aduanas según una sección específica de la Customs Act. Y una fábrica que a la vez produce y almacena mercancías para la exportación es un animal completamente distinto. Elija mal y, o bien cumple de más —pagando por una fianza de Aduanas que nunca necesitó— o cumple de menos y lo pillan con mercancías sujetas a aranceles sin licencia.

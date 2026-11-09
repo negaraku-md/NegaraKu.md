@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["income-tax-in-malaysia", "section-33-deductibility", "non-deductible-expenses", "personal-tax-rates", "which-tax-form"]
 keywords: ["cukai pendapatan sewa Malaysia", "perbelanjaan pra-penyewaan Malaysia", "bolehkah saya tolak komisen ejen sewa", "Ketetapan Umum 12/2018", "tolakan cukai tanah (quit rent)", "cukai sewa harta"]
+framework: explainer
 ---
 
 Kesalahan paling umum dalam penghitungan sewa di Malaysia adalah mengklaim biaya

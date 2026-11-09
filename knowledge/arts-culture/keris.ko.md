@@ -100,6 +100,7 @@ relations:
   - { rel: "governs", to: "akta-warisan-kebangsaan-2005" }
 related: ["batik", "songket", "wau"]
 keywords: ["keris", "empu", "pamor", "luk", "warisan Melayu", "Taming Sari", "keris Melayu", "Akta Warisan Kebangsaan 2005", "budaya Nusantara"]
+framework: history-culture
 ---
 
 불꽃의 혀처럼 물결진 한 자루의 칼날, 음푸의 손으로 수백 번 접어 철과 니켈로 단조한 것 — 크리스는 단순한 무기가 아니라 말레이 문명의 맥박입니다. 그것은 전사의 허리에 꽂히고, 왕실 의례에서 받들어지며, 집안의 가보로 대대로 전해집니다. 오늘날까지도 크리스는 주권과 용기, 민족 정체성의 상징으로 남아 있습니다.

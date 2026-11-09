@@ -112,6 +112,7 @@ keywords:
   - "pengarah bermastautin biasa"
   - "pengarah Sdn Bhd milik asing"
   - "resident director Malaysia"
+framework: explainer
 ---
 
 Coba cari cara mendirikan badan hukum perusahaan Malaysia sebagai warga asing dan Anda akan

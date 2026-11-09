@@ -131,6 +131,7 @@ relations:
   - { rel: "part-of", to: "payroll-compliance-malaysia" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide"]
 keywords: ["PCB Malaysia", "MTD monthly tax deduction", "CP38 CP39 CP22", "e-PCB LHDN employer", "potongan cukai bulanan"]
+framework: rules
 ---
 
 PCB는 말레이시아 급여명세서에서 고용주가 타인의 돈을 보유하며 그에 대해 개인적으로

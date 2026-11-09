@@ -81,6 +81,7 @@ social:
     - DoingBusinessInMalaysia
     - SupplyChain
     - MalaysiaTrade
+framework: explainer
 ---
 
 Hỏi «làm thế nào để tôi xin được một giấy phép kho hàng tại Malaysia?» và câu trả lời đầu tiên trung thực là một câu hỏi ngược lại: bạn lưu trữ những gì, và cho ai? Bởi vì không có một «giấy phép kho hàng» duy nhất. Một kho chứa thông thường cho hàng hóa của chính bạn được hội đồng địa phương cấp phép như bất kỳ cơ sở kinh doanh nào khác. Một kho ngoại quan chứa hàng nhập khẩu với thuế được tắt đi thì được Hải quan cấp phép theo một điều cụ thể của Luật Hải quan. Và một nhà máy vừa sản xuất vừa lưu trữ hàng để xuất khẩu lại là một loại hoàn toàn khác. Chọn sai loại thì bạn hoặc là tuân thủ quá mức — trả tiền cho một khoản bảo lãnh Hải quan mà bạn chưa từng cần — hoặc tuân thủ chưa đủ và bị phát hiện đang giữ hàng chịu thuế mà không có giấy phép.

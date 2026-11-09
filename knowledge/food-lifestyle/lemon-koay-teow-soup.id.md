@@ -73,6 +73,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#LemonKoayTeowSoup", "#KoayTeowSoup", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 Di seberang selat dari George Town, di daratan utama Penang, Lemon Koay Teow Soup

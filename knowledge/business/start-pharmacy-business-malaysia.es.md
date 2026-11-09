@@ -83,6 +83,7 @@ social:
     - CommunityPharmacy
     - DoingBusinessInMalaysia
     - PoisonsAct
+framework: how-to
 ---
 
 Abrir una farmacia en Malasia no es como abrir una tienda normal, y la razón es una única decisión de diseño en la ley: la licencia que permite a una farmacia vender medicamentos está ligada a una *persona* —un farmacéutico registrado—, no a una sociedad ni a un local. Puede tener listos el capital, la ubicación y el acondicionamiento, pero hasta que un farmacéutico cualificado respalde la licencia, tiene una tienda de productos de salud, no una farmacia.

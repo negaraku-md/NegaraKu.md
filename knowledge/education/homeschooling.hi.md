@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "public-vs-private-universities" }
 related: ["public-vs-private-universities", "warta-kerajaan", "akta"]
 keywords: ["मलेशिया होमस्कूलिंग", "homeschooling Malaysia", "Education Act 1996", "Section 29A", "Section 32A", "मलेशिया अनिवार्य शिक्षा", "compulsory education Malaysia", "homeschool exemption", "pendidikan di rumah", "MOE exemption letter"]
+framework: explainer
 ---
 
 हर जनवरी में, हज़ारों मलेशियाई छह-वर्षीय बच्चे वर्ष 1 शुरू करते हैं क्योंकि

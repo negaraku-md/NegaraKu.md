@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "non-compete-clause-malaysia" }
 related: ["employment-act-coverage", "termination-of-employment-malaysia", "stamp-duty-employment-contracts"]
 keywords: ["employment contract malaysia", "contract of service malaysia", "section 10 employment act", "notice period clause malaysia", "unenforceable clause employment contract"]
+framework: rules
 ---
 
 Hợp đồng không phải là luật. Nó là một tài liệu vận hành bên trong luật, và mục 7 của Employment Act 1955 nói điều đó trong một câu: bất kỳ điều khoản nào kém có lợi hơn cho người lao động so với Đạo luật là **vô hiệu trong phạm vi đó**, và điều khoản theo luật được **thay thế vào**. Không phải đàm phán lại. Không phải diễn giải hạn chế. Thay thế.

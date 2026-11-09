@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "iskandar-malaysia-economic-corridor" }
 related: []
 keywords: ["विदेशी विश्वविद्यालय शाखा-परिसर", "foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "शिक्षा-केंद्र", "education hub", "सीमा-पार शिक्षा", "transnational education"]
+framework: explainer
 ---
 
 1998 में, कुआलालंपुर (Kuala Lumpur) का एक छात्र देश छोड़े बिना एक ऑस्ट्रेलियाई Monash उपाधि अर्जित कर सकता था — और उसके लिए मलेशियाई कीमतें चुका सकता था। उस एकल व्यवस्था ने एक ऐसा मॉडल शुरू किया जिस पर देश तब से निर्माण करता आया है: छात्र को नहीं, विश्वविद्यालय को आयात करो।

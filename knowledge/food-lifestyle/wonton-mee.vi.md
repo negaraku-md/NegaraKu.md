@@ -99,6 +99,7 @@ verificationNeeded:
   - "Việc quy sự xuất hiện của wonton mee ở Malaya cụ thể cho những người di cư Quảng Đông và Khách Gia thế kỷ 19; hãy xác nhận đối chiếu với nguồn về di cư hoặc di sản ngoài mục văn hóa của JKKN."
   - "Các biến thể wonton mee của Sarawak và mối liên hệ (hay khác biệt) với kolo mee của bang này — nguồn tư liệu ít ỏi và hai món dễ bị lẫn lộn; hãy xác nhận bằng nguồn ẩm thực hoặc di sản Sarawak."
   - "Nhận định vùng miền rằng wantan mee khô kiểu Penang nghiêng về nước sốt sẫm/ngọt hơn (và đôi khi có sambal) so với kiểu KL nhẹ hơn — hãy kiểm chứng đối chiếu với nguồn địa phương, vì mô tả khác nhau giữa các blog ẩm thực."
+framework: explainer
 ---
 
 Gọi một tô wonton mee ở Kuala Lumpur, bạn sẽ nhận được một nhúm nhỏ mì trứng bóng

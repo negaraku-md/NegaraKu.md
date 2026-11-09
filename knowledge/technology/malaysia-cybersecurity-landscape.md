@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "pdpa-2010" }
 related: ["pdpa-2010"]
 keywords: ["Malaysia cybersecurity", "Cyber Security Act 2024", "Act 854", "NACSA", "National Critical Information Infrastructure", "Global Cybersecurity Index", "Malaysia Cyber Security Strategy"]
+framework: explainer
 ---
 
 For a decade, Malaysia asked its critical infrastructure to take cyber security

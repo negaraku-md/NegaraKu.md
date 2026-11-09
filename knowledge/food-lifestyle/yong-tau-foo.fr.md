@@ -89,6 +89,7 @@ verificationNeeded:
   - "Si l'Ampang qui donne son nom au style se trouve dans Kuala Lumpur ou dans le Selangor——les sources le décrivent tantôt comme un district de KL, tantôt comme une localité de la vallée du Klang juste à l'extérieur de KL, et le secteur urbanisé d'Ampang chevauche en fait la limite ; à confirmer quant au rattachement administratif."
   - "L'origine du style Ampang et quel stand l'a popularisé——certains récits créditent un stand des années 1960 nommé Chew Kuan, tandis que d'autres tiennent l'attribution à Foong Foong pour une légende urbaine ; à confirmer auprès d'une source historique primaire ou locale."
   - "La légende d'origine plus large——des migrants hakka substituant le tofu farci aux raviolis de farine de blé, et le récit rival du restaurant des « convives indécis »——toutes deux circulent et ne sont pas solidement documentées ; à confirmer auprès d'une source d'histoire culinaire."
+framework: history-culture
 ---
 
 En s'approchant d'un stand de yong tau foo, on vous tend moins un menu qu'un plateau. Des carrés de tofu, des triangles

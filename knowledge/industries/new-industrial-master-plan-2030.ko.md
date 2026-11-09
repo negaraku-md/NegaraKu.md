@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "madani-economy" }
 related: ["ekonomi-madani-framework"]
 keywords: ["NIMP 2030", "New Industrial Master Plan", "MITI", "Malaysia industrial policy", "mission-based approach", "manufacturing", "economic complexity", "Net Zero", "MADANI economy"]
+framework: explainer
 ---
 
 반세기 동안 대부분, 말레이시아는 선반을 계획하듯 공장을 계획했습니다 — 한 번에 한 부문씩, 각각 자체 목표를 지녔습니다. NIMP 2030은 그 선반을 내던집니다. "전자나 화학이 얼마나 커져야 하는가?"를 묻는 대신, 더 어려운 질문을 던집니다. 즉 경제 전체가 더 정교해지고, 더 친환경적이며, 더 디지털적이고, 더 안전해지려면 무엇이 필요한가 — 그런 다음 모든 산업을 그 답에 함께 겨눕니다.

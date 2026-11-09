@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "annual-return" }
 related: ["mbrs-2", "extension-of-time-ssm", "unaudited-financial-statements", "sdn-bhd-filing-calendar", "annual-return", "audit-exemption"]
 keywords: ["délai états financiers Malaisie", "financial statements deadline Malaysia", "article 258 Companies Act 2016", "article 259 déposer états financiers", "circuler états financiers membres", "6 mois clôture exercice SSM", "30 jours déposer états financiers"]
+framework: rules
 ---
 
 Demandez à un administrateur malaisien quand ses comptes sont dus à la SSM et vous

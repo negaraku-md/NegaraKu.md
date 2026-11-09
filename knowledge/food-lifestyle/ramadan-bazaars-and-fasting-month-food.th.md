@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-jakim" }
 related: ["hari-raya-aidilfitri"]
 keywords: ["bazar ramadan", "ramadan bazaar malaysia", "juadah berbuka puasa", "etika bulan puasa", "lesen penjaja bazar"]
+framework: explainer
 ---
 
 ทุกครั้งที่ใกล้เวลาละหมาดอัศริในเดือนรอมฎอน แถวเต็นท์สีขาวก็ผุดขึ้นข้างถนนในทันที ไอควันของอายัมเปอร์ชิก (ayam percik) ลอยขึ้นเหนือถ่านไฟ และกลิ่นของโรตีจอห์น (roti john) ที่ผสมกับอาเยอร์บันดุง (air bandung) ดึงดูดผู้คนออกจากบ้าน นี่คือตลาดนัดรอมฎอน ตลาดตามฤดูกาลที่มีอยู่เพียงหนึ่งเดือนต่อปี แต่ได้กลายเป็นส่วนหนึ่งของจังหวะชีวิตของสังคมมาเลเซียมานาน

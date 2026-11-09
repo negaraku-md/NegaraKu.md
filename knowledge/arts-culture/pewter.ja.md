@@ -56,6 +56,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
+framework: history-culture
 ---
 
 錫の上に築かれた都市が、やがて世界に金属工芸をもたらすことになった。クアラルンプールが存在するのは、クラン川とゴンバック川が合流する地点で探鉱者たちが錫鉱石を発見したからである。数十年後、その同じ錫経済に加わるためにやって来た十代の錫職人が、寺院の神台用の香炉を打ち始めた——そして彼が開いた工房は、今日、地球上最大のピューターメーカーとなっている。

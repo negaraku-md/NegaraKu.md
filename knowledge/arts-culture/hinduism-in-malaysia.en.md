@@ -71,6 +71,7 @@ faq:
     a: No. Thaipusam is not a holiday at the national level; it is a public holiday only in the states that gazette it — Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan and Johor. In some years Kedah grants it as a special declaration without a fixed gazette. By contrast, Deepavali is a public holiday in every state and federal territory except Sarawak.
   - q: Why do more Hindus live in states such as Negeri Sembilan, Selangor and Perak?
     a: These states coincide with the former rubber-plantation and tin-mining areas — where Indian labourers settled in large numbers during the British era. In the 2020 census, Negeri Sembilan (~13.1%), Selangor (~10.3%) and Perak (~9.7%) had the higher proportions. Most are descendants of those who came from South India for plantation work under the kangani system.
+framework: history-culture
 ---
 
 In almost any Malaysian town you can find a Mariamman temple — at the edge of an

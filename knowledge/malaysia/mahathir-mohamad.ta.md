@@ -72,6 +72,7 @@ sources:
 
 related: ["wawasan-2020", "ops-lalang-1987", "1998-reformasi", "new-economic-policy", "2018-change-of-government"]
 keywords: ["Mahathir Mohamad", "Tun Mahathir", "fourth prime minister Malaysia", "Vision 2020", "Wawasan 2020"]
+framework: profile
 ---
 
 Mahathir Mohamad (1925 ஜூலை 10 அன்று பிறந்தார்) மலேசியாவின் மிக நீண்ட காலம் பதவி

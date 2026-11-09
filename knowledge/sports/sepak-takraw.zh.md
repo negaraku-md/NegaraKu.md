@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "sukan-tradisional-malaysia" }
 related: []
 keywords: ["sepak takraw", "sepak raga", "sukan kebangsaan malaysia", "peraturan sepak takraw", "piala raja sepak takraw", "persekutuan sepaktakraw malaysia"]
+framework: history-culture
 ---
 
 想象一场排球赛，然后拿走每名球员的双手。剩下的——齐头高的倒挂金钩扣杀、

@@ -91,6 +91,7 @@ verificationNeeded:
   - "Liệu nasi goreng pattaya có bắt nguồn từ Malaysia hay không (như thường được nói) dù mang cái tên nghe như tiếng Thái — xác minh với một nguồn lịch sử ẩm thực có ghi chép chứ không phải các bài listicle."
   - "Danh sách nguyên liệu chính xác, chuẩn hóa cho các biến thể có tên (USA, paprik, ikan masin, hailam, kerabu, dabai) — phần lớn lấy từ truyền thông ẩm thực và các nguồn do cộng đồng biên tập, và thay đổi tùy từng quầy; hãy xác minh các đặc thù vùng miền bằng tài liệu ẩm thực địa phương."
   - "Liệu nasi goreng có được chính thức công bố trên công báo là di sản ẩm thực quốc gia của Malaysia hay không, và theo danh mục nào — xác minh với Jabatan Warisan Negara hoặc một nguồn chính thức chứ không phải truyền thông ẩm thực thứ cấp."
+framework: explainer
 ---
 
 Gọi nasi goreng ở một quầy mamak lúc một giờ sáng, bạn không hẳn đang gọi một món

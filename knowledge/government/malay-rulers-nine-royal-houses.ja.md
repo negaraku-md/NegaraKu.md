@@ -85,6 +85,7 @@ relations:
   - { rel: "explained-in", to: "federal-constitution-malaysia" }
 related: ["yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["raja melayu", "sultan", "yang di-pertuan besar", "raja perlis", "pewarisan takhta", "raja berperlembagaan", "adat perpatih", "perlembagaan negeri", "majlis raja-raja"]
+framework: explainer
 ---
 
 一つの連邦の内側に、マレーシアは国家そのものよりも古い九つの王位を抱えている。それぞれが独自の王宮、継承の慣習、そして州憲法を持ち、各統治者は絶対的な支配者としてではなく、立憲君主として自州を治めている。

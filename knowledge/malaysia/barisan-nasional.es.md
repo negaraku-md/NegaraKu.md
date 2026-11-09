@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "pakatan-harapan" }
 related: []
 keywords: ["Barisan Nasional", "Frente Nacional", "National Front", "BN", "Alianza", "Alliance Party", "UMNO", "MCA", "MIC", "GE14", "coalición malasia"]
+framework: profile
 ---
 
 Para la mayoría de los malasios vivos hoy, «el gobierno» y «Barisan Nasional» fueron, durante muchísimo tiempo, casi la misma expresión. Desde sus primeras elecciones en 1974 hasta su derrota en 2018, el Frente Nacional mantuvo el gobierno federal sin interrupción — una etapa continua de 44 años. Este artículo traza cómo se conformó, quién formaba parte de él y cómo terminó esa larga etapa, ateniéndose al registro documentado.

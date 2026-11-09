@@ -101,6 +101,7 @@ relations:
   - { rel: "located-in", to: "johor" }
 related: ["tenaga-nasional", "johor"]
 keywords: ["data centre Malaysia", "Johor data centre", "TNB data centre", "non-AI data centre restriction", "data sovereignty Malaysia", "National Cloud Computing Policy", "Green Lane TNB", "Johor water data centre"]
+framework: explainer
 ---
 
 மூன்று ஆண்டுகளுக்குள், Singapore-க்கு எதிரே காஸ்வேயைக் கடந்துள்ள தெற்கு ஜோகூரின் (Johor) ஒரு பகுதி, ஒரு சர்வரை இணைப்பதற்கு உலகிலேயே மிகவும் விரும்பப்படும் இடங்களில் ஒன்றாக மாறியுள்ளது. கிளவுட் நிறுவனங்கள், கோலொகேஷன் (colocation) இயக்குநர்கள் மற்றும் AI ஸ்டார்ட்-அப்புகள் இங்கு குவிந்துள்ளன — இப்போது இந்த ஏற்றத்திற்கு அடியில் உள்ள மின் கம்பிகள் மற்றும் நீர் குழாய்களுக்கு எல்லைகள் உள்ளன என்பதை மலேசியா உணர்ந்து வருகிறது.

@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "malaysian-street-food" }
 related: []
 keywords: ["pasar malam", "pasar tani", "pasar basah", "street food", "FAMA", "gred kebersihan premis makanan", "penjaja"]
+framework: explainer
 ---
 
 As dusk falls, a quiet street suddenly transforms into an alley of satay smoke, mounds of fruit, and rows of fluorescent lights — this is the pasar malam, one of Malaysia's most down-to-earth institutions. Together with the pasar tani and the wet market, it forms a network of people's markets where Malaysians shop and eat every day.

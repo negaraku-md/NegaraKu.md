@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "domestic-inquiry-malaysia" }
 related: ["labour-law-map-malaysia", "termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
 keywords: ["unfair dismissal malaysia", "section 20 industrial relations act", "60 days filing dismissal", "industrial court malaysia", "backwages cap 24 months", "compensation in lieu of reinstatement"]
+framework: how-to
 ---
 
 60일. 그것이 전부이며, 대부분의 말레이시아 부당해고 청구가 죽는 지점입니다 — 본안이 아니라, 근로자가 7주를 인사(HR)와 협상하고, 다시 2주를 오지 않을 답변을 기다리다가, 63일째에 제소했기 때문입니다.

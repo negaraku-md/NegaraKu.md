@@ -74,6 +74,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-health" }
 related: []
 keywords: ["diabetes", "obesiti", "NCD", "penyakit tidak berjangkit", "NHMS 2023", "cukai gula", "PeKa B40", "Logo Pilihan Sihat", "saringan kesihatan"]
+framework: explainer
 ---
 
 今日、マレーシアの成人の半数以上が、自らの寿命を縮めかねない体重を抱えている——そして6人に1人はすでに糖尿病を患っており、その多くは自覚がない。これは、病院、家庭、そして国の経済に対し、いかなる感染症よりもはるかに重い負担を課す、静かな流行病である。

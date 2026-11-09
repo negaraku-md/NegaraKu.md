@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "sukan-tradisional-malaysia" }
 related: []
 keywords: ["sepak takraw", "sepak raga", "sukan kebangsaan malaysia", "peraturan sepak takraw", "piala raja sepak takraw", "persekutuan sepaktakraw malaysia"]
+framework: history-culture
 ---
 
 கைப்பந்தை கற்பனை செய்துபாருங்கள், பிறகு ஒவ்வொரு வீரரின் கைகளையும் அகற்றிவிடுங்கள்.

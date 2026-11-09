@@ -120,6 +120,7 @@ relations:
   - { rel: "related-to", to: "communications-and-multimedia-act-1998" }
 related: []
 keywords: ["online safety act 2025", "act 866 malaysia", "online safety plan malaysia", "harmful content malaysia", "mcmc online safety"]
+framework: rules
 ---
 
 Malaysia's Online Safety Act 2025 is frequently described as a social media law. It is not, quite. It is a **licensee-conduct** law, and the difference decides whether it reaches you at all.

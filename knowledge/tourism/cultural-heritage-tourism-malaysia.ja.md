@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "malaysia-homestay-programme" }
 related: []
 keywords: ["Malaysia UNESCO World Heritage", "heritage tourism Malaysia", "homestay programme Malaysia", "George Town Melaka", "mosque etiquette Malaysia", "cultural tourism"]
+framework: explainer
 ---
 
 ひとつの国にある六つの遺産が、いまやユネスコの印を刻んでいる——朝には数百年の歴史をもつオランダ植民地時代の広場を歩き、飛行機で一っ飛びすれば、ボルネオの広大な洞窟ホールの中に立つこともできる。マレーシアの遺産は、眺めるための博物館ではない。それは、食べ、眠り、祈りながら通り抜けられる、生きた街路である。

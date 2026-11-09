@@ -71,6 +71,7 @@ faq:
     a: 'Non. Les deux diffèrent par leur portée : Noël est un jour férié national, tandis que le Vendredi saint n''est férié qu''à Sabah et au Sarawak. Cela reflète la géographie de cette foi, car plus des deux tiers des chrétiens de Malaisie — ainsi que le Sarawak, où le christianisme est la première religion à lui seul — se trouvent en Malaisie orientale plutôt que dans la péninsule.'
   - q: Qu'est-ce que la Fédération chrétienne de Malaisie et quels organismes rassemble-t-elle ?
     a: 'La Fédération chrétienne de Malaisie (Christian Federation of Malaysia, CFM), fondée en 1985, est le principal organisme fédérateur. Elle réunit les trois courants du christianisme malaisien : la Conférence des évêques catholiques (Catholic Bishops'' Conference), le Conseil des Églises de Malaisie (Council of Churches of Malaysia, protestantisme traditionnel) et la Communion chrétienne évangélique nationale (National Evangelical Christian Fellowship). La CFM déclare représenter plus de 95 % des églises du pays, dont beaucoup sont des congrégations malayophones à Sabah et au Sarawak.'
+framework: history-culture
 ---
 
 L'histoire chrétienne de la Malaisie a deux centres de gravité, et aucun ne se

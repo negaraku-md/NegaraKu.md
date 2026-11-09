@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#Leens", "#BibGourmand", "#MichelinGuide", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 In a shoplot in Taman Tun Dr Ismail, the smell of freshly baked bread gives

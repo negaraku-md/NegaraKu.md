@@ -122,6 +122,7 @@ relations:
   - { rel: "requires", to: "termination-benefits-malaysia" }
 related: ["termination-of-employment-malaysia", "termination-benefits-malaysia", "unfair-dismissal-malaysia", "offboarding-statutory-checklist"]
 keywords: ["छंटनी मलेशिया", "retrenchment malaysia", "Form PK", "borang pk", "अतिरिक्त कर्मचारी प्रक्रिया मलेशिया", "redundancy malaysia procedure", "VSS malaysia", "LIFO retrenchment malaysia"]
+framework: rules
 ---
 
 Form PK की समय-सीमा खोजिए और आपको दर्जनों मलेशियाई HR पृष्ठों पर "30 दिन" यूँ दोहराया मिलेगा मानो वही पूरा उत्तर हो। यह उत्तर का लगभग एक-तिहाई है। फ़ॉर्म स्वयं — वह वास्तविक PDF जो JTKSM प्रकाशित करता है — **तीन अलग-अलग समय-सीमाएँ** तय करता है, और उनमें से दो छंटनी के *पहले ही हो चुकने के बाद* आती हैं।

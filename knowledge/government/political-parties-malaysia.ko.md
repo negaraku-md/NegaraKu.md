@@ -85,6 +85,7 @@ relations:
   - { rel: "governs", to: "political-parties-malaysia" }
 related: ["how-elections-work", "spr-election-commission", "dewan-rakyat", "parliament", "yang-di-pertuan-agong"]
 keywords: ["parti politik Malaysia", "Akta Pertubuhan 1966", "Pendaftar Pertubuhan", "Registrar of Societies", "ROS", "Barisan Nasional", "Pakatan Harapan", "Perikatan Nasional", "GPS", "kerajaan perpaduan", "PRU15", "gabungan politik", "political parties Malaysia"]
+framework: explainer
 ---
 
 말레이시아에서 정당은 의회 안에서도, 선거 유세 무대 위에서도 시작되지 않습니다. 그것은 단체등록청 창구의 서식 한 장에서 시작됩니다 — 법적으로 정당은 클럽이나 협회와 마찬가지로 일종의 *단체*이기 때문입니다.

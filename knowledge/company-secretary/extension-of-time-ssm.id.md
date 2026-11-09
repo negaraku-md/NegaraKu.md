@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "ssm-late-lodgement-fees" }
 related: ["financial-statements-lodgement", "mbrs-2", "ssm-late-lodgement-fees", "sdn-bhd-filing-calendar", "annual-return"]
 keywords: ["lanjutan masa SSM", "EOT SSM Malaysia", "Practice Note 3/2018", "seksyen 259(2) Akta Syarikat 2016", "lanjutkan tarikh akhir penyata kewangan Malaysia", "permohonan EOT setiausaha syarikat"]
+framework: how-to
 ---
 
 Kebanyakan permohonan perpanjangan waktu yang ditolak bukan ditolak atas merit.

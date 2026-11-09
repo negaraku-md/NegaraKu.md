@@ -86,6 +86,7 @@ relations:
   - { rel: "requires", to: "e-invoice-data-fields" }
 related: ["e-invoicing", "myinvois-phases", "consolidated-e-invoice", "e-invoice-data-fields", "e-invoice-vs-tax-invoice"]
 keywords: ["self-billed e-Invoice", "self billed invoice Malaysia", "foreign supplier e-Invoice", "general TIN EI00000000030", "e-invois belian sendiri", "agent commission e-Invoice"]
+framework: rules
 ---
 
 La empresa con más probabilidades de quedar atrapada por la facturación

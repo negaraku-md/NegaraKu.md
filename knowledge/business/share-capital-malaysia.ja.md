@@ -114,6 +114,7 @@ keywords:
   - "allotment of shares Malaysia"
   - "increase paid up capital Malaysia"
   - "section 75 Companies Act 2016"
+framework: explainer
 ---
 
 RM1の実払込資本は合法であり、一般的であり、そして密かに、会社設立時になされる最も高くつく

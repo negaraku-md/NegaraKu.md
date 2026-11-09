@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["batik", "wayang-kulit"]
 keywords: ["songket", "tenunan songket", "kek tenun", "benang emas", "songket Terengganu", "songket Kelantan"]
+framework: history-culture
 ---
 
 宋吉（songket）作坊里最常听到的声音，不是机器的声音。而是木器被压下、丝线被拉紧,以及一支竹签滑进去又抽出来的声音——如此反复,一次一行图案,一整天都是如此。

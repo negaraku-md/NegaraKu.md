@@ -114,6 +114,7 @@ relations:
   - { rel: "affects", to: "permanent-establishment" }
 related: ["transfer-pricing-documentation", "cbcr-and-master-file", "dta-network", "permanent-establishment"]
 keywords: ["accord préalable en matière de prix malaisie", "advance pricing arrangement malaysia", "apa malaysia lhdn", "apa bilatéral malaisie", "frais de demande apa malaisie", "pu a 166 2023", "apa rollback malaisie"]
+framework: how-to
 ---
 
 La plupart des conseillers décrivent l'accord préalable en matière de prix comme un menu — unilatéral si vous le voulez bon marché et rapide, bilatéral si vous voulez la protection de la convention. En Malaisie, il n'y a pas de menu. La règle 2(2) des Income Tax (Advance Pricing Arrangement) Rules 2023, P.U.(A) 166/2023, décide à votre place, et elle décide sur un seul fait : le pays où se trouve votre partie liée a-t-il, oui ou non, un arrangement avec la Malaisie au titre de l'art. 132 de l'Income Tax Act 1967.

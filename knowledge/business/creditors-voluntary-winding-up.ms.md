@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "corporate-rescue-malaysia" }
 related: ["close-a-company", "members-voluntary-winding-up", "strike-off-company-malaysia", "corporate-rescue-malaysia", "company-director-requirements"]
 keywords: ["penggulungan sukarela pemiutang malaysia", "sdn bhd tidak solven", "seksyen 539 akta syarikat 2016", "perdagangan tak solven malaysia", "keutamaan tidak wajar seksyen 528", "liabiliti peribadi pengarah syarikat"]
+framework: how-to
 ---
 
 Saat sesebuah lembaga pengarah menyedari bahawa syarikat tidak mampu membayar

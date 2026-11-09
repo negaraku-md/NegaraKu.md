@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["opening-bank-account"]
 keywords: ["PTPTN", "pinjaman pendidikan", "kelayakan PTPTN", "bayaran balik PTPTN", "Akta 566", "pembiayaan pengajian tinggi Malaysia", "SSPN"]
+framework: explainer
 ---
 
 นักเรียนจำนวนมากลงนามในเอกสารข้อเสนอ PTPTN ด้วยสมมติฐานเดียวกัน: "นี่เหมือนทุนการศึกษาใช่ไหม?" มันไม่ใช่ และความเข้าใจผิดนี้เองที่มักนำมาซึ่งปัญหา — หลายปีต่อมา เมื่อหนังสือแจ้งการชำระคืนฉบับแรกมาถึงหลังจบการศึกษา

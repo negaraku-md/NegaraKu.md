@@ -89,6 +89,7 @@ verificationNeeded:
   - "Whether gula melaka holds any registered geographical indication (GI) under Malaysia's Geographical Indications Act 2022 — no GI registration for gula melaka was found; confirm directly against the official MyIPO register before asserting any GI status."
   - "The strength of the name's link to the state of Melaka (widely repeated in food media but not firmly documented) and whether Negeri Sembilan and other states are significant production regions — confirm with a Malaysian heritage, agricultural or state source."
   - "Specific flavour descriptors such as 'butterscotch' notes and the detailed tapping/boiling times — these come from food media and may be subjective; confirm production detail with a producer or agricultural source."
+framework: explainer
 ---
 
 Slice into a dark, dense cylinder of gula melaka and the kitchen fills with a

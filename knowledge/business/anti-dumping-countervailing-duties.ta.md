@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "sector-licence-directory" }
 related: ["sector-licence-directory", "manufacturing-licence-malaysia"]
 keywords: ["anti-dumping duty malaysia", "countervailing duty malaysia", "act 504", "miti trade remedies", "anti dumping steel malaysia", "import hs code duty malaysia", "trade remedies petition malaysia"]
+framework: how-to
 ---
 
 ஒரு இறக்குமதியாளர் வியட்நாமிலிருந்து வந்த கால்வனேற்றப்பட்ட எஃகுச் சுருளின் ஒரு

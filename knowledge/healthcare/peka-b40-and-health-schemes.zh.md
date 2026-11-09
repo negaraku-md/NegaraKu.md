@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "healthcare-for-seniors" }
 related: ["klinik-kesihatan", "healthcare-for-seniors"]
 keywords: ["PeKa B40", "skim kesihatan B40", "mySalam", "Sumbangan Tunai Rahmah kesihatan", "bantuan kesihatan B40 Malaysia", "ProtectHealth", "skim peduli kesihatan", "insentif rawatan kanser B40", "semakan kelayakan PeKa B40"]
+framework: explainer
 ---
 
 许多人都听过「PeKa B40」这个名字，但对它的理解却各不相同——有人以为它

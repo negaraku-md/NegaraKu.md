@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "christmas-malaysia" }
 related: ["peranakan", "unesco-world-heritage", "christmas-malaysia"]
 keywords: ["Kristang", "Papia Kristang", "Perkampungan Portugis Melaka", "Eurasia Malaysia", "Intrudu", "branyo"]
+framework: history-culture
 ---
 
 在马六甲的乌绒巴锡（Ujong Pasir），有一座海边村落，村民彼此打招呼时所用的语言既不是马来语，也不是英语，更不是现代葡萄牙语——而是五个世纪前抵达的征服者所留下的、依然存活的语言遗音。这就是克里斯坦社群的世界。

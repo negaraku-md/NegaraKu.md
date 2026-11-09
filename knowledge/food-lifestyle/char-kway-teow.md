@@ -96,6 +96,7 @@ social:
     - "#PenangFood"
     - "#MalaysianFood"
     - "#StreetFood"
+framework: explainer
 ---
 
 Few plates capture Malaysian street food as completely as char kway teow: a

@@ -103,6 +103,7 @@ relations:
   - { rel: "compares-with", to: "employment-act-1955-guide" }
 related: ["i-saraan-epf-voluntary-contribution", "employment-act-1955-guide", "socso-eis-employer-guide"]
 keywords: ["gig workers act 2025", "act 872", "gig workers tribunal", "gig worker socso", "platform provider malaysia", "gig economy malaysia law"]
+framework: explainer
 ---
 
 Act 872 đang được đưa tin như một câu chuyện an sinh xã hội: các nền tảng nay phải khấu trừ SOCSO. Đó là phần nhỏ nhất của nó. Tác động lớn hơn là Malaysia nay có một **loại thứ ba theo luật** nằm giữa người lao động và nhà thầu độc lập — và đạo luật định nghĩa loại đó bằng cách cho bạn biết nó *không phải* là gì.

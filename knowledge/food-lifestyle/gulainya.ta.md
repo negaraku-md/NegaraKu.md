@@ -66,6 +66,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["Gulainya", "Peranakan", "BibGourmand", "MichelinGuideMalaysia", "KualaLumpur"]
+framework: profile
 ---
 
 Gulainya என்பது கோலாலம்பூர், Bukit Damansara-வில் அமைந்துள்ள ஒரு Peranakan

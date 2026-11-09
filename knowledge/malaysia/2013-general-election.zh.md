@@ -65,6 +65,7 @@ sources:
 
 related: ["najib-razak", "anwar-ibrahim", "barisan-nasional", "2018-change-of-government", "how-elections-work"]
 keywords: ["GE13", "2013 年马来西亚大选", "Barisan Nasional", "Pakatan Rakyat", "普选票"]
+framework: history-culture
 ---
 
 > **草稿——敏感。** 本文为中立、仍在撰写中的摘要，尚未经审阅以供发布。它涉及一场

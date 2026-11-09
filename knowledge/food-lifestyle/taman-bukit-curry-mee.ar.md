@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#CurryMee", "#Penang", "#SeberangPerai", "#BibGourmand", "#Malaysia"]
+framework: profile
 ---
 
 يتجمّع معظم شهرة MICHELIN في بينانغ في شوارع جزيرة جورج تاون. و Taman Bukit Curry

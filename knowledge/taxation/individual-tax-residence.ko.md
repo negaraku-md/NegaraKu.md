@@ -79,6 +79,7 @@ relations:
   - { rel: "compares-with", to: "company-tax-residence" }
 related: ["personal-tax-rates", "company-tax-residence", "personal-tax-reliefs"]
 keywords: ["tax residence Malaysia individual", "182 days Malaysia tax", "section 7(1) Income Tax Act", "taraf mastautin individu", "am I tax resident Malaysia", "non-resident 30 percent Malaysia"]
+framework: explainer
 ---
 
 한 외국인 주재원이 10월 1일 쿠알라룸푸르(Kuala Lumpur)에 도착하여 연말까지 일하고, 그의 급여팀은 그가 그 나라에 92일 있었다는 이유로 일률 비거주 30%로 세금을 원천징수합니다. 그는 다음 해 6월까지 머무릅니다. 그는 두 해 모두 거주자였고 — 고용주는 결코 읽지 않은 규칙에 근거해 3개월간 과다 공제했습니다.

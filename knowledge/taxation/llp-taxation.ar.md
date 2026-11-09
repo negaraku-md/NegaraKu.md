@@ -95,6 +95,7 @@ relations:
   - { rel: "compares-with", to: "corporate-tax-rates" }
 related: ["corporate-tax-rates"]
 keywords: ["ضريبة LLP في ماليزيا", "LLP tax Malaysia", "ضريبة PLT", "PLT tax", "معدل ضريبة الشراكة ذات المسؤولية المحدودة", "LLP vs Sdn Bhd tax", "Form PT", "اختبار مساهمة رأس المال"]
+framework: explainer
 ---
 
 الشراكة ذات المسؤولية المحدودة هي أقل أشكال الأعمال شرحاً في ماليزيا، ويبدأ

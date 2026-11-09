@@ -93,6 +93,7 @@ verificationNeeded:
   - "Từ nguyên của tên gọi (薄餅 / 'poh piah'), được chú là 'bánh mỏng', 'bánh xốp mỏng' hoặc 'bánh dẹt mỏng' — hãy xác nhận bằng nguồn từ điển học hoặc ngôn ngữ học."
   - "Liệu popiah Nyonya (Peranakan) được mô tả tốt nhất là một truyền thống vùng miền riêng biệt hay là cùng một món Phúc Kiến được các gia đình người Hoa Eo biển tiếp nhận — các nguồn hiện tại gọi nó là 'di sản Peranakan' mà không giải quyết dứt điểm điểm này."
   - "Các khác biệt phong cách Penang so với Melaka được mô tả ở đây (cuốn Penang ướt hơn, được làm ẩm bằng nước sengkuang; cuốn Melaka hoàn thiện bằng sốt ngọt đường thốt nốt) chủ yếu dựa trên báo chí địa phương và blog ẩm thực — hãy xác nhận bằng nguồn ẩm thực di sản hoặc vùng miền."
+framework: explainer
 ---
 
 Gọi một món chả giò ở Malaysia và bạn có thể nhận được một trong hai thứ rất khác nhau.

@@ -97,6 +97,7 @@ verificationNeeded:
   - "L'attribution communautaire du pan mee aux cuisiniers hakka et du loh shi fun/lai fun à des groupes dialectaux précis — généralement répétée dans les écrits gastronomiques mais non documentée de façon cohérente ; confirmer auprès d'une source culinaire ou patrimoniale locale."
   - "Si « mee hoon »/« mihun » et « bihun » sont employés de façon interchangeable dans toute la Malaisie, ou si l'usage régional les distingue — vérifier auprès d'un dictionnaire malaisien ou d'une source d'études alimentaires."
   - "L'affirmation selon laquelle la plupart des brins de nouilles de Malaisie sont d'origine sud-chinoise (hokkien, teochew, cantonais, hakka) adaptés localement — largement admise, mais confirmer les attributions précises au moyen d'une référence d'histoire de l'alimentation plutôt que de médias gastronomiques."
+framework: explainer
 ---
 
 Demandez des « nouilles » dans un café de Malaisie et la question suivante en est presque toujours une autre :

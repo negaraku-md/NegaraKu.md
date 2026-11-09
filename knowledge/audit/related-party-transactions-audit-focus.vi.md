@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "going-concern-audit" }
 related: ["statutory-audit-process", "audit-opinion-types", "going-concern-audit"]
 keywords: ["related party transactions", "ISA 550", "MFRS 124", "arm's length", "Bursa Chapter 10", "recurrent related party transactions", "audit risk"]
+framework: explainer
 ---
 
 Một công ty bán dầu cọ thô cho một công ty khác do chính cổ đông lớn của mình sở hữu. Không có gì trên hóa đơn cho biết đó là một thỏa thuận cung cấp thông thường hay là bước đầu tiên trong việc rút giá trị ra khỏi các cổ đông thiểu số. Công việc của kiểm toán viên là tìm ra là cái nào — và đó chính xác là điều mà Chuẩn mực Kiểm toán Quốc tế 550, *Bên liên quan*, được viết ra.

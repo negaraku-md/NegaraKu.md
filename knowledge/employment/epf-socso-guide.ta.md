@@ -67,6 +67,7 @@ relations:
   - { rel: "administered-by", to: "perkeso" }
 related: ["labour-law-map-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "payroll-compliance-malaysia", "payroll-rates-deadlines-malaysia", "epf-foreign-workers-malaysia", "new-hire-statutory-checklist"]
 keywords: ["EPF SOCSO EIS Malaysia", "statutory contributions employer Malaysia", "KWSP PERKESO employer", "caruman KWSP majikan", "payroll statutory Malaysia"]
+framework: journey-hub
 ---
 
 முதலாளிகள் இதை ஒரே கடமையாகக் கருதி அழைத்துக்கொண்டே இருக்கிறார்கள். உண்மையில்

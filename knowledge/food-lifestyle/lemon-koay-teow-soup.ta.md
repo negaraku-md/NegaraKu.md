@@ -73,6 +73,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#LemonKoayTeowSoup", "#KoayTeowSoup", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 George Town-க்கு எதிர்க்கரையில், பினாங்கு நிலப்பகுதியில், Lemon Koay Teow Soup

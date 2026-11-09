@@ -71,6 +71,7 @@ social:
     - LHDN
     - PersonalTax
     - VSS
+framework: explainer
 ---
 
 Perder el empleo suele venir con un pago, y la primera pregunta a menudo es la

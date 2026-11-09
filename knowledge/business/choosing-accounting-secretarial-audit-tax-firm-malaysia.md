@@ -76,6 +76,7 @@ sources:
 relations: []
 related: ["company-secretary-malaysia", "audit-exemption-criteria"]
 keywords: ["choose company secretary Malaysia", "accounting firm Malaysia", "audit firm Malaysia", "tax agent Malaysia", "corporate services firm Malaysia", "Big Four Malaysia", "MIA licensed firm", "SSM company secretary licence", "how to choose accountant Malaysia", "company secretary firm vs individual"]
+framework: decision
 ---
 
 Every Malaysian company leans on a small circle of professionals it never sees on the org chart: the company secretary who keeps it legal, the accountant who keeps its books, the auditor who signs off its numbers, and the tax agent who files with LHDN. Choosing them well saves money and sleepless nights. Yet search for "best company secretary in Malaysia" and nearly every guide you find was written by a firm that sells the service. This one isn't.

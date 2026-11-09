@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "equity-crowdfunding-p2p-malaysia" }
 related: ["kl20-startup-ecosystem", "securities-commission-malaysia"]
 keywords: ["venture capital malaysia", "private equity malaysia", "VCC VCMC malaysia", "SC registration venture capital", "raise funding startup malaysia", "MAVCAP", "Penjana Kapital", "VC tax incentive malaysia"]
+framework: explainer
 ---
 
 大多数马来西亚企业依靠留存利润、银行透支或中小企业贷款成长。有一小群但重要的企业则依靠他人的股权成长——一只基金买下企业的一部分，推动其扩张，并在数年后以数倍价格卖出这一部分。这正是风险投资与私募股权的作用，而马来西亚监管、资助并征税于这项活动的方式，会让那些以为它像美国一样运作的人感到意外。

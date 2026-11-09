@@ -95,6 +95,7 @@ verificationNeeded:
   - "The origin of bak kut teh (Klang is the most-cited birthplace, with Hokkien and Teochew styles both claimed) and of Hainanese chicken rice (adapted from Hainan's Wenchang chicken, with competing Malaysian and Singaporean claims) — these are contested and should be confirmed with culinary-history or heritage sources."
   - "The precise dialect attribution of individual dishes (for example whether a given Hokkien mee style is the KL dark-sauce or Penang soup version, and which community first localised claypot and tai chow cooking) — regional naming overlaps, so confirm with local sources."
   - "Whether specific named eateries or dishes are pork-free or halal-certified — this varies by operator and changes over time; verify per outlet rather than generalising."
+framework: explainer
 ---
 
 Ask what "Chinese food" means in Malaysia and you will not get one answer. In

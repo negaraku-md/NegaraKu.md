@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "unit-trust-funds-malaysia" }
 related: ["bursa-malaysia", "securities-commission-malaysia", "unit-trust-funds-malaysia"]
 keywords: ["CDS खाता", "CDS account", "Bursa Anywhere", "मलेशिया में स्टॉक ब्रोकर", "शेयर कैसे खरीदें", "ब्रोकरेज शुल्क", "क्लियरिंग शुल्क", "शेयरों पर स्टाम्प ड्यूटी", "stamp duty shares"]
+framework: how-to
 ---
 
 Maybank या Tenaga का एक हिस्सा अपने नाम करना एक नहीं, बल्कि दो खातों से शुरू होता है — और इनमें से कोई भी बैंक खाता नहीं है। Bursa Malaysia पर एक भी शेयर खरीदने से पहले, आपको शेयरों को *रखने* की एक जगह और ऑर्डर *लगाने* की एक जगह चाहिए। यहाँ बताया गया है कि ये दोनों आपस में कैसे मिलकर काम करते हैं, और हर सौदे की वास्तव में क्या लागत आती है।

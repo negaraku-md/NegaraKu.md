@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["wayang-kulit", "batik"]
 keywords: ["Mak Yong", "teater tarian tradisional", "warisan budaya tidak ketara", "UNESCO Malaysia", "rebab", "Kelantan", "Pak Yong", "Mengadap Rebab"]
+framework: history-culture
 ---
 
 Bunyi pertama bukan datang daripada pelakon. Ia datang daripada sekeping kayu berbentuk buah pear dengan tiga utas tali — rebab — yang digesek perlahan di tepi pentas kayu terbuka. Penonton duduk di tiga sisi. Bumbungnya daun palma. Dan sebelum sepatah dialog dilafazkan, seorang puteri sudah membongkokkan badan ke arah alat muzik itu dalam satu tarian yang namanya sendiri sudah menjelaskan segalanya: **Mengadap Rebab**.

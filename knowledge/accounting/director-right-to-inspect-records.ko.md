@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "directors-duties" }
 related: ["accounting-records-section-245", "directors-duties"]
 keywords: ["director right to inspect accounting records Malaysia", "section 245(4) Companies Act 2016", "director inspection subsidiary records", "shareholder dispute company records Malaysia"]
+framework: explainer
 ---
 
 주주 분쟁에서 첫 번째 발포는 좀처럼 청원이 아닙니다. 그것은 회계기록 열람을 요청하는 소수

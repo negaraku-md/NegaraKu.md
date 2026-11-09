@@ -53,6 +53,7 @@ relations:
   - { rel: "part-of", to: "audit-exemption" }
 related: ["audit-exemption", "audit-exemption-thresholds", "after-audit-exemption"]
 keywords: ["who cannot claim audit exemption", "audit exemption exclusions Malaysia", "exempt private company section 260", "subsidiary of public company audit", "foreign company audit Malaysia"]
+framework: rules
 ---
 
 การผ่านเกณฑ์ไม่ใช่ด่านสุดท้าย ย่อหน้า 12 ของแนวปฏิบัติ 10/2024 (Practice Directive 10/2024) กันบริษัทสี่ประเภทออกจากการยกเว้นการตรวจสอบบัญชีโดยสิ้นเชิง — บริษัทที่ไม่มีการดำเนินงานและมีรายได้ศูนย์ในประเภทใดในนั้นก็ยังต้องแต่งตั้งผู้สอบบัญชี

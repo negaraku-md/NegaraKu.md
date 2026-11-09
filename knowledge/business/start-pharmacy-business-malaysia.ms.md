@@ -83,6 +83,7 @@ social:
     - CommunityPharmacy
     - DoingBusinessInMalaysia
     - PoisonsAct
+framework: how-to
 ---
 
 Membuka farmasi di Malaysia tidak sama seperti membuka kedai biasa, dan sebabnya ialah satu keputusan reka bentuk tunggal dalam undang-undang: lesen yang membolehkan farmasi menjual ubat terikat kepada seorang *individu* — seorang ahli farmasi berdaftar — bukan kepada syarikat atau kedai. Anda boleh mempunyai modal, lokasi dan ubah suai yang sedia, tetapi sehingga seorang ahli farmasi yang berkelayakan berdiri di sebalik lesen, anda hanya mempunyai kedai produk kesihatan, bukan farmasi.

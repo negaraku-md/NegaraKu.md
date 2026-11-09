@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "royal-malaysia-police" }
 related: []
 keywords: ["agensi keselamatan swasta", "lesen agensi persendirian", "polis bantuan", "Akta Agensi Persendirian 1971", "pengawal keselamatan Malaysia", "KDN eSIMS", "kawasan berpagar"]
+framework: profile
 ---
 
 말레이시아 대부분의 담장으로 둘러싼 주거 지역, 공장, 쇼핑몰에서 당신이 처음 만나는 사람은 경찰관이 아니라 — 민간 경비원입니다. 이 업계는 공공 집행과 밀접하게 함께 운영되지만 전혀 다른 법적 틀 위에서 움직이며, 누가 무엇을 할 수 있는지에 대한 혼란은 그들을 고용하는 사업체에 법적 위험을 초래할 수 있습니다.

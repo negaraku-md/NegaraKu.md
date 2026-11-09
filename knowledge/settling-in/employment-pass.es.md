@@ -80,6 +80,7 @@ faq:
     a: 'No. El Departamento de Inmigración (Immigration Department) señala que el Permiso de Empleo solo es válido en la Malasia Peninsular. Sabah y Sarawak gestionan su propio control de inmigración en virtud de la autonomía estatal, por lo que un destino allí requiere su propio permiso o endoso aparte. El Permiso de Empleo además lo vincula únicamente a la empresa patrocinadora: si cambia de trabajo, su nuevo empleador debe presentar una solicitud nueva desde cero.'
   - q: ¿Puede mi cónyuge trabajar en Malasia con un Permiso de Dependiente (Dependant Pass)?
     a: 'Sí, pero no de forma automática. El Permiso de Dependiente en sí no conlleva derechos de trabajo, y el titular principal debe poseer primero un Permiso de Empleo válido, ya que la solicitud del dependiente depende de él. Según las propias preguntas frecuentes del Departamento de Inmigración, el cónyuge puede entonces trabajar en virtud de un endoso para trabajar (endorsement for work) del Departamento de Inmigración, sin convertirlo en un Permiso de Empleo completo a su propio nombre: una vía considerablemente más rápida y económica que una nueva solicitud de Permiso de Empleo.'
+framework: explainer
 ---
 
 Tiene una oferta de empleo firmada en Malasia. Tiene pasaporte, un título, años de experiencia pertinente. Y aun así no hay nada que usted, personalmente, pueda ir a presentar.

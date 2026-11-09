@@ -60,6 +60,7 @@ relations:
   - { rel: "governs", to: "employment-contract-malaysia" }
 related: ["unfair-dismissal-malaysia", "employment-contract-malaysia", "termination-of-employment-malaysia"]
 keywords: ["probation malaysia", "terminate probationer malaysia", "confirmation of employment malaysia", "probation period malaysia law", "extend probation malaysia"]
+framework: explainer
 ---
 
 «वह अभी परिवीक्षा पर है, इसलिए हम उसे यूँ ही हटा सकते हैं।» इस वाक्य ने मलेशियाई

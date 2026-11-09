@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-malaysia" }
 related: ["balik-kampung", "kampung", "public-holidays-malaysia", "religion-statistics"]
 keywords: ["Hari Raya Aidilfitri", "1 Syawal", "balik kampung", "duit raya", "rumah terbuka", "ziarah kubur", "zakat fitrah", "cuti umum Aidilfitri"]
+framework: history-culture
 ---
 
 在斋戒月（Ramadan）的最后一夜，整个国家仿佛同时行动起来。南北大道塞车数小时，巴士站挤满行囊与饼干盒，从城市到偏远乡村（kampung）的屋前走廊都点起了油灯（pelita）。翌日，开斋月初一（1 Syawal），一个月的斋戒结束——马来西亚迎来开斋节（Hari Raya Aidilfitri）。

@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "mykad" }
 related: ["jpn", "mykad"]
 keywords: ["civil marriage Malaysia", "JPN marriage registration", "Act 164", "Law Reform Marriage and Divorce Act 1976", "non-Muslim marriage Malaysia", "JPN.KC02", "marriage notice 21 days", "special marriage licence Malaysia"]
+framework: how-to
 ---
 
 இரண்டு பேர் ஒரு திருமண விருந்து நடத்தலாம், மோதிரங்களைப் பரிமாறிக்கொள்ளலாம்,

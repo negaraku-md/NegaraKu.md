@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "logistics-ports-industry" }
 related: ["ecer-guide", "kl-singapore-high-speed-rail", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["ईस्ट कोस्ट रेल लिंक", "ECRL", "Laluan Rel Pantai Timur", "Malaysia Rail Link", "CCCC रेलवे मलेशिया", "ECRL लागत पूर्णता", "Kota Bharu Port Klang रेल", "ECER रेल"]
+framework: profile
 ---
 
 दशकों तक कुआलालंपुर और पूर्वी-तट राज्यों के बीच सबसे तेज़ रास्ते का मतलब पहाड़ों के ऊपर से सड़क द्वारा एक लंबी यात्रा था। ईस्ट कोस्ट रेल लिंक मलेशिया का यह दाँव है कि पटरी की एक अकेली लाइन इसे बदल सकती है — और इस प्रक्रिया में, यह भी पुनर्संतुलित कर सकती है कि देश की वृद्धि कहाँ होती है।

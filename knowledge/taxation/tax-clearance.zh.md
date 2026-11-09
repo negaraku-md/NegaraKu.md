@@ -111,6 +111,7 @@ relations:
   - { rel: "related-to", to: "tax-penalties" }
 related: ["offboarding-statutory-checklist", "pcb-monthly-tax-deduction", "expatriate-and-non-resident-tax", "tax-penalties", "tax-appeal"]
 keywords: ["tax clearance Malaysia", "SPC LHDN", "surat penyelesaian cukai", "CP21 form", "CP22A form", "e-SPC MyTax", "90 day withholding tax clearance", "section 83(5) Income Tax Act"]
+framework: rules
 ---
 
 薪资团队把税务清缴当成一份表格。它不是一份表格——它是**一项附带责任的扣起义务**，

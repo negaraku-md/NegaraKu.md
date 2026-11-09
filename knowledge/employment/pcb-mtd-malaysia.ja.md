@@ -131,6 +131,7 @@ relations:
   - { rel: "part-of", to: "payroll-compliance-malaysia" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide"]
 keywords: ["PCB Malaysia", "MTD monthly tax deduction", "CP38 CP39 CP22", "e-PCB LHDN employer", "potongan cukai bulanan"]
+framework: rules
 ---
 
 PCBは、マレーシアの給与明細の中で唯一、使用者が他人の金銭を預かり、最終的に個人と

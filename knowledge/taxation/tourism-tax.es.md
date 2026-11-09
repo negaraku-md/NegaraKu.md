@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["sst-explained", "sst-registration"]
 keywords: ["tourism tax", "TTx", "Tourism Tax Act 2017", "RM10 per room", "MyTTx", "RMCD", "Agoda tax", "hotel tax Malaysia"]
+framework: explainer
 ---
 
 Al hacer el check-out de un hotel malasio quizá notes en la factura una pequeña línea fija que no tiene nada que ver con la tarifa de la habitación: RM10, una vez por noche, por habitación. Eso es el Impuesto de Turismo, y si lo debes o no se reduce a una sola pregunta que la recepción no puede eximir: ¿qué pasaporte llevas?

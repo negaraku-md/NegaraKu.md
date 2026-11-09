@@ -74,6 +74,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
 related: []
 keywords: ["libro blanco de la salud", "reforma sanitaria", "financiación de la salud", "KKM", "seguro nacional de salud", "Rakan KKM"]
+framework: explainer
 ---
 
 Las clínicas públicas atienden casi dos tercios de las consultas externas del país, y sin embargo representan solo alrededor de una de cada cuatro instalaciones de atención primaria. Es este desequilibrio, entre otras cosas, lo que impulsó al Ministerio de Salud de Malasia (MOH) a redactar el documento de políticas más importante en una generación: el Libro Blanco de la Salud.

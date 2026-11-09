@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "road-tax-and-vehicle-registration" }
 related: []
 keywords: ["पार्किंग", "e-parking", "पार्किंग शमन-जुर्माना", "DBKL", "Smart Selangor Parking", "EZ Smart Park", "letak kereta"]
+framework: explainer
 ---
 
 आप टिकट मशीन के लिए सिक्कों की तलाश में कार में इधर-उधर खोजते हैं — लेकिन वे मशीनें 2020 से ग़ायब हैं। मलेशिया के बड़े शहरों में पार्किंग अब एक स्मार्टफ़ोन से शुरू होती है, न कि सड़क-किनारे सिक्कों से भरे मर्तबान से।

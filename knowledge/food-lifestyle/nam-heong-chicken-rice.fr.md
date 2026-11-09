@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#NamHeong", "#ChickenRice", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Sur Jalan Sultan, au cœur de la vieille ville de Kuala Lumpur, une assiette de poulet

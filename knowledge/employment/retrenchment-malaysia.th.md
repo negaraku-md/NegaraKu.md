@@ -121,6 +121,7 @@ relations:
   - { rel: "requires", to: "termination-benefits-malaysia" }
 related: ["termination-of-employment-malaysia", "termination-benefits-malaysia", "unfair-dismissal-malaysia", "offboarding-statutory-checklist"]
 keywords: ["retrenchment malaysia", "form pk malaysia", "borang pk", "redundancy malaysia procedure", "retrenchment notification 30 days", "VSS malaysia", "LIFO retrenchment malaysia"]
+framework: rules
 ---
 
 ค้นหากำหนดเวลา Form PK แล้วคุณจะพบ "30 วัน" กล่าวซ้ำในหน้า HR ของมาเลเซียหลายสิบหน้าราวกับว่าเป็นคำตอบทั้งหมด มันเป็นราวหนึ่งในสามของคำตอบ ฟอร์มเอง — PDF จริงที่ JTKSM เผยแพร่ — กำหนด **กำหนดเวลาสามช่วงแยกกัน** และสองในนั้นตก *หลัง* จากการเลิกจ้างเพราะเกินความต้องการได้เกิดขึ้นแล้ว

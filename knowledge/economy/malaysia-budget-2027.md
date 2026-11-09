@@ -73,6 +73,7 @@ faq:
     a: No. The article is explicit that a broad SST reform and new e-invoicing measures were pre-budget forecasts by analysts, not announcements in the 9 October 2026 speech. They should be treated as expectations, not policy, until the government says otherwise. The budget's actual tax changes centre on the one-percentage-point cut to resident and SME income-tax rates and the general relief rising from RM9,000 to RM12,000.
   - q: From when is opening a savings or current account stamp-duty exempt under Budget 2027?
     a: From 1 January 2027, opening a savings or current account becomes fully stamp-duty exempt. That same date also carries the service-tax cut on elderly-care services from 8% to 6% and the start of expatriate-spouse work rights on a dependant pass. These dates are as announced on 9 October 2026 and take effect only once the enabling law and gazette orders are passed.
+framework: explainer
 ---
 
 On 9 October 2026, Prime Minister and Finance Minister Anwar Ibrahim tabled

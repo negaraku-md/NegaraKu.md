@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "statutory-audit-requirement" }
 related: ["companies-act-2016", "malaysian-institute-of-accountants"]
 keywords: ["juruaudit syarikat diluluskan", "approved company auditor", "seksyen 263", "lesen audit Malaysia", "sijil amalan MIA", "Akauntan Negara"]
+framework: rules
 ---
 
 คุณอาจเป็นผู้สอบบัญชีรับอนุญาตที่มีตำแหน่งครบถ้วน มีปริญญาด้านการบัญชี และมีประสบการณ์หลายปี — แต่ยังคงไม่ได้รับอนุญาตให้ลงนามในรายงานการสอบบัญชีของบริษัทด้วยตนเอง ในมาเลเซีย สิทธิในการตรวจสอบบัญชีบริษัทเป็นใบอนุญาตแยกต่างหากที่ถูกควบคุมอย่างเข้มงวด ไม่ใช่สิ่งที่มาพร้อมกับการเป็นสมาชิกวิชาชีพโดยอัตโนมัติ

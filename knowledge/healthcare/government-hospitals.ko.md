@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "emergencies-999" }
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "peka-b40-and-health-schemes", "healthcare-for-seniors", "emergencies-999"]
 keywords: ["hospital kerajaan Malaysia", "caj hospital kerajaan", "sistem rujukan hospital", "caj wad kelas 3", "caj bukan warganegara hospital", "Akta Fee 1951", "hospital pakar rujukan", "masa menunggu hospital kerajaan"]
+framework: explainer
 ---
 
 번호표를 손에 들었는데 앞에 80명이 넘게 남아 있고, 벽의 전광판은 여전히 한참 다른 번호를 표시하고 있습니다 — 많은 사람이 정부 병원에서 이 순간을 겪어 보았습니다. 그러나 그 전광판 옆에는 사람들이 계속 다시 찾는 이유를 보여 주는 요금표도 붙어 있습니다. 민간 클리닉에서는 수십 링깃일 수 있는 진료가 여기서는 RM1에 불과합니다. 문제는 정부 병원이 그럴 만한 가치가 있느냐가 아니라 — 그 보조금 요금이 적용되도록 실제로 어떻게 이용하는가, 그리고 누군가가 얼마나 오래 기다려야 하는지를 무엇이 결정하는가입니다.

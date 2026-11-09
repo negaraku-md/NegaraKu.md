@@ -76,6 +76,7 @@ related:
   - "apam-balik"
 social:
   hashtags: ["#RavisApomManis", "#ApomManis", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 On Jalan Burma in George Town, a stall that has been griddling sweet pancakes for

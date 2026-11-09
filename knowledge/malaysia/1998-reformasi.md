@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["new-economic-policy", "13-may-1969", "independence-1957", "formation-of-malaysia-1963", "federal-constitution"]
 keywords: ["1998 Malaysia", "Asian Financial Crisis Malaysia", "capital controls", "ringgit peg RM3.80", "selective exchange controls", "Reformasi", "Anwar Ibrahim 1998", "National Economic Recovery Plan", "Danaharta", "Danamodal", "managed float 2005"]
+framework: history-culture
 ---
 
 Within a single week of September 1998, Malaysia did two things that would each be argued about for years. It closed the offshore market for its own currency and fixed the ringgit to the US dollar — a break with the orthodoxy that the International Monetary Fund was urging on the region. And it dismissed the man who was both Deputy Prime Minister and Finance Minister, setting off a protest movement that took the name Reformasi.

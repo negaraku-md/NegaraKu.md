@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "mdec-digital-status" }
 related: ["sme-financing-malaysia"]
 keywords: ["المنح الحكومية ماليزيا", "منحة المنشآت الصغيرة والمتوسطة ماليزيا", "منحة الشركات الناشئة ماليزيا", "cradle CIP grant", "MDEC digital grant", "MSME digital grant madani", "المنحة المطابِقة ماليزيا", "تمويل الأعمال ماليزيا"]
+framework: data-reference
 ---
 
 ابحث عن «منحة حكومية ماليزيا» وستحصل على عشرات القوائم التي تَعِد بنقد مجاني لعملك. والواقع أكثر

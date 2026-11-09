@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "mdec-digital-status" }
 related: ["sme-financing-malaysia"]
 keywords: ["subvenciones públicas Malasia", "subvención pyme Malasia", "subvención startup Malasia", "cradle CIP grant", "MDEC digital grant", "MSME digital grant madani", "subvención de contrapartida Malasia", "financiación empresarial Malasia"]
+framework: data-reference
 ---
 
 Busque «government grant Malaysia» y obtendrá docenas de listados que prometen dinero gratis

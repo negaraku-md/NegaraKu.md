@@ -94,6 +94,7 @@ verificationNeeded:
   - "The claim that rice only became the everyday Malay staple relatively late (with sago predominant before roughly the 15th century) rests on food-historian accounts; confirm against a primary historical or academic source."
   - "Whether 'Malaysian Breakfast Culture' — inscribed on UNESCO's Representative List in December 2024 — should be framed as recognition of Malay cuisine specifically rather than the multi-ethnic breakfast table; it is the country's first food-related UNESCO entry and is explicitly multicultural."
   - "The precise regional boundaries of flavour profiles (e.g. the east coast being 'sweeter', the south favouring coconut-rich gravies) are generalisations; confirm specific dish attributions against local sources."
+framework: history-culture
 ---
 
 Sit down to a Malay meal and the shape of it is clear before you taste a thing: a

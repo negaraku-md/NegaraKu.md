@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "public-healthcare-system" }
 related: []
 keywords: ["OKU", "kad OKU", "penjagaan kesihatan OKU", "PDK", "pemulihan dalam komuniti", "alat bantuan", "JKM", "KKM", "EPOKU", "BTB"]
+framework: explainer
 ---
 
 Sekeping kartu plastik menentukan apakah seorang anak autisme mendapat terapi dini, atau seorang dewasa yang kehilangan kaki mampu memiliki kaki palsu. Di Malaysia, kad OKU itulah pintu masuk kepada hampir setiap layanan dan bantuan yang dirancang untuk penyandang disabilitas — dan memahami cara ia bekerja menghemat waktu, uang, serta perawatan yang tertunda.

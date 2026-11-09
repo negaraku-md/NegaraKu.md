@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "hs-code-classification-malaysia" }
 related: ["sales-and-service-tax"]
 keywords: ["import licence Malaysia", "export permit Malaysia", "Approved Permit AP", "SIRIM import permit", "MAQIS permit", "customs registration Malaysia", "ePermit", "uCustoms", "MyTRADELINK"]
+framework: rules
 ---
 
 ตู้คอนเทนเนอร์ของท่านจอดอยู่ที่ท่าเรือกลัง (Port Klang) และมันจะไม่เคลื่อนไหว เพราะที่ใดที่หนึ่งระหว่างใบกำกับสินค้าและบัญชีสินค้า มีใบอนุญาตหนึ่งใบที่ขาดไป ในมาเลเซียไม่มี "ใบอนุญาตนำเข้า-ส่งออก" ใบเดียวที่ท่านจะกรอบไว้บนผนัง สิ่งที่ทำให้สินค้าผ่านพิธีการคือ*ชั้น*ของการลงทะเบียนและการอนุมัติ แต่ละอย่างเป็นของหน่วยงานที่ต่างกัน และแต่ละอย่างผูกกับสิ่งที่ท่านขนส่งจริง ๆ

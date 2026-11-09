@@ -95,6 +95,7 @@ social:
     - "#MalaysianDessert"
     - "#ShavedIce"
     - "#PasarMalam"
+framework: explainer
 ---
 
 On a hot Malaysian afternoon, few things pull a crowd like the whir of an

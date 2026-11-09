@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "mm2h-long-stay-visa" }
 related: ["mm2h-long-stay-visa"]
 keywords: ["prise en charge personnes âgées Malaisie", "maison de soins Malaisie", "Rumah Seri Kenangan", "Rumah Ehsan", "soins gériatriques Malaisie", "PeKa B40", "soins aux aînés Malaisie", "Care Centres Act 1993", "warga emas", "soins de longue durée Malaisie"]
+framework: explainer
 ---
 
 Le moment arrive généralement en silence. Un parent qui se débrouillait très bien

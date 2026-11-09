@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "indian-classical-arts-in-malaysia", "thaipusam", "estate-tamil-community", "temple-music-nadaswaram"]
 keywords: ["சிலம்பம்", "Silambam", "மலேசியா சிலம்பம்", "தமிழ் தற்காப்புக் கலை", "நீண்ட தடி", "அடவுகள்", "குத்து வரிசை", "Silambam Malaysia"]
+framework: history-culture
 ---
 
 Di sebuah perayaan kuil atau majlis Tahun Baharu Tamil di Malaysia, anda mungkin melihat seorang pemuda memutar tongkat buluh panjang di atas kepala dan mengelilingi tubuhnya dengan pantas sepantas kilat, mengikut rentak gendang. Pusingan itu bukan sekadar untuk tatapan — ia merupakan lambang silambam, seni mempertahankan diri Tamil yang berusia lebih seribu lima ratus tahun.

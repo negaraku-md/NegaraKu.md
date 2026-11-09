@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "George Town Melaka inscription criteria", "Gunung Mulu World Heritage", "Lenggong Valley Perak Man", "Niah Caves UNESCO 2024"]
+framework: data-reference
 ---
 
 Hỏi Malaysia có bao nhiêu Di sản Thế giới và phần lớn các nguồn sẽ bảo bạn là bốn. Điều đó đúng cho đến năm 2024. Quần thể Hang động Niah được ghi danh vào tháng 7 năm đó, và Công viên Rừng của Viện Nghiên cứu Lâm nghiệp Malaysia ở Selangor theo sau vào năm 2025 — nâng tổng số lên sáu.

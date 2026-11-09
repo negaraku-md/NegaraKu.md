@@ -93,6 +93,7 @@ verificationNeeded:
   - "La etimología de 'roti canai' es discutida (una versión la remonta a Chennai/Madrás, otra a la palabra malaya 'canai', que significa aplanar o estirar la masa); confírmese con una fuente lingüística o lexicográfica y no con medios gastronómicos."
   - "El relato popular de que el teh tarik surgió de la cultura de los puestos indomusulmanes en la posguerra no está documentado con firmeza; confírmese el origen y la cronología de la bebida con una fuente histórica."
   - "La atribución de la tradición del kopitiam a cocineros chinos de origen hainanés y la afirmación de que el kaya toast con huevos pasados por agua es su desayuno definitorio deberían confirmarse con una fuente culinaria o patrimonial malasia, ya que parte de esta historia es compartida y disputada con Singapur."
+framework: history-culture
 ---
 
 Pregunta qué desayunan los malasios y la respuesta honesta es: depende de quién y

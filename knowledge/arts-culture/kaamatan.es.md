@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "mak-yong" }
 related: ["sabah", "population-composition", "wau"]
 keywords: ["Pesta Kaamatan", "Tadau Kaamatan", "Kadazandusun harvest festival", "Unduk Ngadau", "Bambaazon", "Huminodun", "Magavau", "KDCA", "Sabah"]
+framework: history-culture
 ---
 
 La fiesta toma su nombre de una sola idea: la cosecha. *Kaamatan* significa exactamente eso en la lengua kadazandusun, y todo lo demás de la celebración — el ritual, el vino de arroz, el certamen coronado en la última velada — brota de ese único acto de recoger el arroz.

@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["employment-act-1955", "socso-perkeso"]
 keywords: ["OKU", "orang kurang upaya", "Akta 685", "Seksyen 29", "kuota 1%", "Kad OKU", "potongan cukai berganda", "pekerjaan inklusif"]
+framework: explainer
 ---
 
 マレーシアでは、資格を有する多くの障害者（OKU）が就業機会や面接の獲得において現実の格差に直面している——そして、これこそが法律が埋めようとしている格差である。マレーシアには2008年以降、障害者（OKU）の雇用権に関する枠組みが存在し、これに使用者向けの税制優遇が加わっているが、採用数はいまだ目標を下回っている。本ガイドでは、法律が実際に何を求めているか、そして使用者が何を申請できるかを解説する。

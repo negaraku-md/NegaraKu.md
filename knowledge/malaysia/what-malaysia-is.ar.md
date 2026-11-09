@@ -54,6 +54,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["ما هي ماليزيا", "what is Malaysia", "اتحاد ماليزيا الفيدرالي", "federation of Malaysia", "13 ولاية 3 أقاليم اتحادية", "الملكية الانتخابية", "elective monarchy Malaysia", "البنية الفيدرالية", "Yang di-Pertuan Agong", "الدستور الاتحادي", "Federal Constitution"]
+framework: explainer
 ---
 
 ماليزيا ليست مكانًا واحدًا بحكومة واحدة. إنها اتحاد فيدرالي — بلد واحد نُسِج من ثلاث عشرة ولاية وثلاثة أقاليم اتحادية، يقع على كتلتين بريّتين يفصل بينهما بضع مئات من الكيلومترات من بحر الصين الجنوبي. وفهم هذه البنية أولًا يجعل تتبّع كل شيء آخر تقريبًا عن البلد أيسر بكثير.

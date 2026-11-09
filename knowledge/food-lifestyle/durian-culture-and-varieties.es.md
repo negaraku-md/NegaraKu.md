@@ -94,6 +94,7 @@ keywords:
   - "variedades de durián"
   - "temporada del durián"
   - "exportación de durián a China"
+framework: explainer
 ---
 
 En Malasia, el durián no es solo una fruta — se le llama el rey de las frutas, y en plena temporada puede cortar carreteras, disparar los alquileres de los puestos y atraer turistas de ultramar por un solo gajo de densa pulpa amarilla.

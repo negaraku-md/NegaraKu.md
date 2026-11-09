@@ -86,6 +86,7 @@ keywords:
   - "Ipoh chicken rice"
 social:
   hashtags: ["#HainaneseChickenRice", "#NasiAyam", "#ChickenRiceBalls", "#Melaka", "#MalaysianFood"]
+framework: history-culture
 ---
 
 ஒரு மலேசிய kopitiam-ல் ஒரு தட்டு சிக்கன் ரைஸ் ஆர்டர் செய்யுங்கள்; கவலைப்படுவதற்கு

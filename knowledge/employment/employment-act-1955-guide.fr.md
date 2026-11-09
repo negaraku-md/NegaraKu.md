@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-labour-ordinance" }
 related: ["labour-law-map-malaysia", "employment-act-coverage", "working-hours-overtime-malaysia", "minimum-wage-malaysia"]
 keywords: ["loi sur l'emploi 1955", "loi sur l'emploi malaisie", "act 265", "loi modificative emploi 2022", "droit du travail malaisie", "semaine de 45 heures malaisie", "employment act 1955"]
+framework: data-reference
 ---
 
 Ouvrez n'importe quel blog RH malaisien et vous y trouverez encore la Loi sur l'emploi décrite comme une loi pour les travailleurs à faibles revenus, avec un seuil de couverture de RM2,000 et une semaine de 48 heures. Ces deux chiffres sont caducs. La Loi (modificative) de 2022 sur l'emploi (Loi A1651) a réécrit la Loi 265 avec effet au **1 janvier 2023**, et la réimpression que publie la Chambre du Procureur général s'intitule désormais *au 1 janvier 2023*. Pourtant, la majeure partie des commentaires les mieux référencés reste le cycle d'actualité « ce qui a changé en 2023 » — écrit une fois et jamais revu.

@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "unesco-world-heritage" }
 related: ["wayang-kulit", "mak-yong", "unesco-world-heritage"]
 keywords: ["华人大戏", "酬神戏", "粤剧 马来西亚", "潮剧 马来西亚", "闽剧", "歌仔戏", "布袋戏", "潮州铁枝木偶", "槟城 中元节", "Chinese opera Malaysia", "Wayang Cina"]
+framework: history-culture
 ---
 
 Gong dan gendang berbunyi, lengan baju panjang yang melambai-lambai di atas panggung — tetapi tempat duduk penonton di bawah biasanya hanya diisi oleh beberapa orang saja, kadang-kadang tidak seorang pun. Ini bukan pertunjukan yang gagal, karena wayang ini memang bukan dipentaskan untuk ditonton manusia.

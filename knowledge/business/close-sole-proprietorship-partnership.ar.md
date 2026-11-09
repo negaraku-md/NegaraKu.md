@@ -76,6 +76,7 @@ social:
     - SoleProprietor
     - DoingBusinessInMalaysia
     - MalaysiaTax
+framework: how-to
 ---
 
 يستغرق تسجيل منشأة فردية أو شراكة عشر دقائق على بوابة ezBiz، فيفترض معظم الناس أن إغلاقها

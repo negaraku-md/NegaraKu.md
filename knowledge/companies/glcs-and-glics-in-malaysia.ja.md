@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["ekonomi-madani-framework", "khazanah", "bursa-malaysia"]
 keywords: ["GLC", "GLIC", "Khazanah", "KWSP", "PNB", "KWAP", "LTAT", "Tabung Haji", "GEAR-uP", "PERKUKUH", "Program Transformasi GLC", "Bursa Malaysia"]
+framework: explainer
 ---
 
 Bursa Malaysiaのインデックスファンドのポートフォリオを開いてみれば、連邦政府の手がほぼ間違いなくそこに入っている。国内最大の銀行、公益事業会社、通信会社、航空会社、そしてプランテーション・コングロマリット——これらはすべて同一の最終所有者を共有している。すなわち、一握りの国家投資機関を通じたマレーシア国民である。この構造こそが、マレーシアを東南アジアで最も国家の影響力が強い経済の一つにしている。そしてそれは、しばしば混同される二つの略語に集約される。GLCとGLICである。

@@ -57,6 +57,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "maternity-leave-malaysia", "employment-act-coverage"]
 keywords: ["paternity leave malaysia", "section 60fa employment act", "7 days paternity leave", "paternity leave eligibility malaysia", "paternity leave five confinements"]
+framework: rules
 ---
 
 父親休暇（paternity leave）は、2023年1月1日に、1つの短い条文として1955年雇用法

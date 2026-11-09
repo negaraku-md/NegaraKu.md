@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "mobile-sim-plans" }
 related: ["moving-to-malaysia-first-steps", "mobile-sim-plans"]
 keywords: ["akaun elektrik TNB", "buka akaun TNB baru", "deposit elektrik TNB", "tukar nama akaun elektrik", "Change of Tenancy TNB", "SESB Sabah elektrik", "Sarawak Energy deposit", "myTNB Self Meter Reading", "bacaan meter elektrik", "Kedai Tenaga"]
+framework: how-to
 ---
 
 Anda mendapat kunci rumah baru, tapi sakelar lampu tidak berbuat apa-apa. Meter di luar masih berputar atas nama pemilik lama — dan sampai akun itu berganti nama, setiap kilowatt yang Anda pakai secara teknis masih tersangkut pada liabilitas orang lain. Banyak yang mengira "hubungi TNB" cukup untuk menyelesaikan masalah ini. Di Semenanjung, ya. Di Sabah dan Sarawak, itu nomor telepon yang sama sekali salah.

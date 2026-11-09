@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "worker-accommodation-act-446" }
 related: ["hiring-foreign-workers-malaysia", "worker-accommodation-act-446"]
 keywords: ["forced labour malaysia", "section 90b employment act", "passport retention malaysia", "withhold release order malaysia", "atipsom", "recruitment fees migrant workers"]
+framework: rules
 ---
 
 ระหว่างปี 2019 ถึง 2022 สำนักงานศุลกากรและป้องกันชายแดนสหรัฐฯ (US Customs and Border Protection) ระงับการนำเข้าจากผู้ผลิตถุงมือและน้ำมันปาล์มของมาเลเซียแปดราย บริษัทจ่ายค่าจ้างที่ถูกกักไว้คืนกว่า 85 ล้านดอลลาร์สหรัฐเพื่อให้ยกเลิกคำสั่ง นั่นคือความเป็นจริงเชิงพาณิชย์ของการปฏิบัติตามกฎแรงงานบังคับในมาเลเซีย และเป็นเหตุที่นี่เป็นคำถามด้านการค้าก่อนที่จะเป็นคำถามด้าน HR

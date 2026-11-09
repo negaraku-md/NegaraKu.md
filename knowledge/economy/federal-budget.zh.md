@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["parliament", "federal-constitution", "gdp-overview", "sst-explained"]
 keywords: ["belanjawan persekutuan", "Akta Perbekalan", "Rang Undang-Undang Perbekalan", "peringkat jawatankuasa belanjawan", "kitaran belanjawan Malaysia", "Akta 850"]
+framework: explainer
 ---
 
 2025年12月31日，《2026年拨款法令》颁布于宪报。该法令批准的金额是：

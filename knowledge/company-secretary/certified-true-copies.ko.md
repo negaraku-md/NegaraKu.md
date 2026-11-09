@@ -69,6 +69,7 @@ relations:
   - { rel: "part-of", to: "statutory-registers" }
 related: ["statutory-registers", "appoint-company-secretary", "register-of-members"]
 keywords: ["certified true copy Malaysia", "original sighted company secretary", "CTC company secretary Malaysia", "MAICSA best practice certification", "salinan diakui sah", "section 599 Companies Act 2016"]
+framework: explainer
 ---
 
 은행이 정관의 인증등본을 요청합니다. 사무실의 누군가가 스캔본에 도장을 찍고,

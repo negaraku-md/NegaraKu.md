@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-contract-malaysia", "unfair-dismissal-malaysia", "termination-benefits-malaysia", "employee-vs-contractor-malaysia"]
 keywords: ["contrato duración determinada malasia", "renovación contrato malasia empleo", "no renovación despido malasia", "empleado contrato proyecto malasia", "contrato temporal malasia ley"]
+framework: explainer
 ---
 
 El contrato de duración determinada se vende en el mercado malasio como un dispositivo de seguridad: contrate por un año, decida al final, márchese sin despido y sin prestaciones. Eso funciona exactamente una vez. El dispositivo falla con la repetición, y falla retroactivamente — el empleado que usted creía que iba por su duodécimo contrato anual resulta haber sido un empleado permanente desde el año dos.

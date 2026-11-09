@@ -88,6 +88,7 @@ relations:
   - { rel: "compares-with", to: "bahasa-melayu" }
 related: ["population-composition", "article-152-language", "bahasa-melayu", "languages-spoken", "federal-constitution"]
 keywords: ["मलेशिया में तमिल", "Tamil in Malaysia", "SJKT", "Sekolah Jenis Kebangsaan Tamil", "तमिल विद्यालय", "Tamil schools Malaysia", "मलेशियाई भारतीय", "Malaysian Indians", "अनुच्छेद 152", "Article 152", "तमिल माध्यम शिक्षण", "vernacular schools"]
+framework: explainer
 ---
 
 मलाया के पुराने रबड़ एस्टेटों में, कुछ सबसे आरंभिक कक्षाएँ छप्पर और झोपड़ियाँ थीं, और पाठ तमिल में होते थे। मलेशियाई ऐतिहासिक संघ की पत्रिका में प्रकाशित एक ऐतिहासिक अध्ययन के अनुसार, बीसवीं सदी के आरंभ से बागानों पर तमिल में एक बुनियादी प्राथमिक शिक्षा प्रदान की जाती थी, जो उस समय के श्रम-संहिताओं के अंतर्गत उपलब्ध कराई जाती थी और, एक लंबे समय तक, प्रशिक्षित शिक्षकों के बजाय लिपिकों और अंशकालिक कर्मियों द्वारा पढ़ाई जाती थी।

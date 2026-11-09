@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "free-trade-agreements" }
 related: ["sales-and-service-tax", "malaysia-free-trade-agreements"]
 keywords: ["droit d'importation", "import duty", "customs duty", "HS code", "AHTN", "classification tarifaire", "ATIGA", "Form D", "CIF", "taxe sur les ventes à l'importation", "Customs Act 1967"]
+framework: explainer
 ---
 
 Deux envois identiques peuvent arriver à Port Klang et payer des droits

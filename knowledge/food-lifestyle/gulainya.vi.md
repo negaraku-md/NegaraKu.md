@@ -66,6 +66,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["Gulainya", "Peranakan", "BibGourmand", "MichelinGuideMalaysia", "KualaLumpur"]
+framework: profile
 ---
 
 Gulainya là một nhà hàng Peranakan ở Bukit Damansara, Kuala Lumpur, xuất hiện

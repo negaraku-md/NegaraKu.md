@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "online-business-licence-malaysia" }
 related: ["online-safety-act-malaysia", "online-business-licence-malaysia"]
 keywords: ["social media licence Malaysia", "ASP class licence MCMC", "8 million users Malaysia licence", "MCMC licensing social media platform", "do I need a social media licence Malaysia"]
+framework: explainer
 ---
 
 சில மாதங்களுக்கு ஒரு முறை, தனக்கு சமூக ஊடக உரிமம் தேவை என்று ஒரு மலேசிய விற்பனையாளருக்குச் சொல்லப்படுகிறது. அவர்களுக்குத் தேவையில்லை.

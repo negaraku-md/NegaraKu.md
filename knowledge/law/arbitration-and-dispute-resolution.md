@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "contract-law" }
 related: []
 keywords: ["arbitration", "AIAC", "Arbitration Act 2005", "mediation", "dispute resolution", "New York Convention", "third-party funding", "UNCITRAL"]
+framework: explainer
 ---
 
 Two companies sign a supply contract, one delivers late, and the other wants millions in damages — but neither wants the file, the timeline, or the trade secrets aired in an open courtroom. In Malaysia, that is where arbitration and mediation take over from the courts.

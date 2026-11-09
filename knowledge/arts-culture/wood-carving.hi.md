@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "pewter" }
 related: ["songket", "jawi-script", "pewter", "terengganu", "kelantan"]
 keywords: ["ukiran kayu", "ukiran kayu Melayu", "awan larat", "Desa Ukiran Kayu Besut", "motif ukiran kayu", "kraf kayu Terengganu"]
+framework: history-culture
 ---
 
 किसी पुराने मलय घर की खिड़की के काठ-फलक को ध्यान से देखिए, और यह ढूँढने की कोशिश कीजिए कि पैटर्न कहाँ से शुरू होता है। आप इसे नहीं पाएँगे। यह आपकी आँखों का दोष नहीं है — इसे इसी तरह डिज़ाइन किया गया है।

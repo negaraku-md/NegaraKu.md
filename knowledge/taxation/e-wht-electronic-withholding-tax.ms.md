@@ -80,6 +80,7 @@ social:
     - MyTax
     - DoingBusinessInMalaysia
     - MalaysiaCompliance
+framework: how-to
 ---
 
 Selama bertahun-tahun, membayar cukai pegangan bermaksud sekeping borang CP37 kertas, sekeping cek atau slip bank, dan perjalanan ke kaunter LHDN — atau e-mel dokumen yang diimbas — dan kemudian menunggu untuk melihat bayaran diselaraskan terhadap akaun anda. Keseluruhan ritual itu telah berpindah ke dalam talian. **e-WHT** ialah saluran elektronik LHDN untuk melengkapkan borang cukai pegangan dan membayar cukai di dalam portal **MyTax**, dan bagi borang yang diliputinya ia kini merupakan laluan yang diwajibkan, bukan kemudahan pilihan.

@@ -122,6 +122,7 @@ relations:
   - { rel: "requires", to: "termination-benefits-malaysia" }
 related: ["termination-of-employment-malaysia", "termination-benefits-malaysia", "unfair-dismissal-malaysia", "offboarding-statutory-checklist"]
 keywords: ["retrenchment malaysia", "form pk malaysia", "borang pk", "redundancy malaysia procedure", "retrenchment notification 30 days", "VSS malaysia", "LIFO retrenchment malaysia"]
+framework: rules
 ---
 
 Cherchez le délai du Formulaire PK et vous trouverez « 30 jours » répété sur des dizaines de pages RH malaisiennes comme si c'était la réponse entière. C'est à peu près un tiers de la réponse. Le formulaire lui-même — le PDF réel que publie le JTKSM — fixe **trois délais distincts**, et deux d'entre eux tombent *après* que le licenciement économique a déjà eu lieu.

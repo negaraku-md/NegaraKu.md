@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "circular-economy-blueprint" }
 related: []
 keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusan", "pengasingan sisa di punca", "ekonomi kitaran"]
+framework: explainer
 ---
 
 ทิ้งขยะในยะโฮร์แล้วมันกลายเป็นเรื่องของรัฐบาลสหพันธ์ ทิ้งขยะเดียวกันในปีนังแล้วมันยังเป็นเรื่องของสภาท้องถิ่น นั่นคือความแปลกประหลาดหลักในวิธีที่มาเลเซียจัดการขยะมูลฝอย คือกฎหมายสหพันธ์ที่ยิ่งใหญ่ แต่ใช้บังคับเฉพาะในที่ที่เห็นพ้องนำมาใช้เท่านั้น

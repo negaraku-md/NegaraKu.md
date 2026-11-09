@@ -129,6 +129,7 @@ relations:
   - { rel: "compares-with", to: "capital-gains-tax" }
 related: ["income-tax-in-malaysia", "company-tax-residence", "capital-gains-tax", "labuan-tax-regime", "corporate-tax-rates"]
 keywords: ["foreign source income Malaysia", "FSI exemption Malaysia", "foreign dividend exemption Malaysia", "P.U.(A) 235/2022", "economic substance Malaysia FSI", "remittance tax Malaysia"]
+framework: rules
 ---
 
 காலாவதி தேதியை ஒரு வலைப்பதிவிலிருந்து அல்ல, வர்த்தமானியிலிருந்து (Gazette)

@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-dialects", "chinese-clan-associations", "chinese-cemeteries", "chinese-new-villages", "population-composition"]
 keywords: ["帮群", "方言群", "籍贯", "福建帮", "广府帮", "客家帮", "潮州帮", "海南帮", "会馆", "义山", "马来西亚华人", "海南咖啡", "锡矿", "Chinese bang communities Malaysia"]
+framework: history-culture
 ---
 
 在槟城的老街，撑起一整条街市面的，多是福建人开的商号；到了吉隆坡与怡保这些因锡矿而兴的城市，矿场与行会里挤满了广府与客家人；而无论走进哪一座城镇，那间卖海南咖啡、烤面包配牛油咖椰的老咖啡店，招牌后面站的，常常是海南人。

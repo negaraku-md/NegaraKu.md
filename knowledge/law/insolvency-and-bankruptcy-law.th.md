@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016", "contracts-act-1950", "court-hierarchy"]
 keywords: ["bankruptcy Malaysia", "insolvency act 1967", "winding up company Malaysia", "judicial management", "department of insolvency", "RM100000 bankruptcy threshold", "social guarantor", "discharge from bankruptcy"]
+framework: explainer
 ---
 
 การเป็นหนี้ในมาเลเซียโดยตัวมันเองไม่เพียงพอที่จะถูกทำให้เป็นบุคคลล้มละลาย หนี้ต้องมีจำนวนมาก เจ้าหนี้ต้องปฏิบัติตามกระบวนการศาลที่เจาะจง และ — หากคุณเพียงแค่ค้ำประกันเงินกู้เพื่อการศึกษาของเพื่อนหรือบ้านของครอบครัว — กฎหมายอาจปกป้องคุณอย่างสิ้นเชิง มาเลเซียดำเนินสองระบบล้มละลายที่แยกกัน: หนึ่งสำหรับบุคคล หนึ่งสำหรับบริษัท การรู้ว่าคุณอยู่ในระบบใด และแต่ละระบบอนุญาตอะไร เปลี่ยนทุกอย่าง

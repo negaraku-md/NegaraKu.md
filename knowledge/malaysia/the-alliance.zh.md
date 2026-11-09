@@ -77,6 +77,7 @@ keywords:
   - "London constitutional conference 1956"
   - "Alliance memorandum Reid Commission"
   - "Tunku Abdul Rahman"
+framework: profile
 ---
 
 当英国坐下来决定马来亚是否已准备好自治时，它表示希望看到的其中一项证据，是这片领土上不同的族群能够共同运作一个政府。联盟党正是那个走上谈判桌、声称能证明这一点的载体——三个政党，各自围绕一个族群组织起来，作为单一阵营参加选举，并共同要求独立。

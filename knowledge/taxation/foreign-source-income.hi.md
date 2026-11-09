@@ -129,6 +129,7 @@ relations:
   - { rel: "compares-with", to: "capital-gains-tax" }
 related: ["income-tax-in-malaysia", "company-tax-residence", "capital-gains-tax", "labuan-tax-regime", "corporate-tax-rates"]
 keywords: ["मलेशिया में विदेशी स्रोत आय", "foreign source income Malaysia", "FSI छूट मलेशिया", "FSI exemption Malaysia", "विदेशी लाभांश छूट", "foreign dividend exemption Malaysia", "P.U.(A) 235/2022", "आर्थिक सार FSI मलेशिया", "economic substance Malaysia FSI", "प्रेषण कर मलेशिया", "remittance tax Malaysia"]
+framework: rules
 ---
 
 समाप्ति तारीख़ राजपत्र से पढ़ें, किसी ब्लॉग से नहीं। 14 अगस्त 2026 तक जिस विदेशी-लाभांश छूट पर अधिकांश मलेशियाई होल्डिंग कंपनियाँ निर्भर करती हैं — P.U.(A) 235/2022 — वह अब भी, अपने ही पैराग्राफ़ 1(2) में, कहती है कि यह «1 जनवरी 2022 से 31 दिसंबर 2026 तक» प्रभावी है, और किसी राजपत्र संख्या से तय किसी संशोधन आदेश ने उस तारीख़ को अब तक नहीं हटाया है। जो संशोधन आदेश वास्तव में मौजूद था, P.U.(A) 157/2024, उसने योग्यता शर्तों को पुनर्लिखित किया और उन लाबुआन कंपनियों को जोड़ा जो Income Tax Act में चुनती हैं; उसने समाप्ति तारीख़ को नहीं छुआ।

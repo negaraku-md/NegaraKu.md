@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "mak-yong" }
 related: ["sabah", "population-composition", "wau"]
 keywords: ["Pesta Kaamatan", "Tadau Kaamatan", "Kadazandusun harvest festival", "Unduk Ngadau", "Bambaazon", "Huminodun", "Magavau", "KDCA", "Sabah"]
+framework: history-culture
 ---
 
 这个节庆的命名源自一个单一的概念：丰收。*Kaamatan*在卡达山杜顺语中的意思正是如此，而庆典中的一切——仪式、米酒、最后一晚加冕的选美——都是从收割稻米这一个行动中生长出来的。

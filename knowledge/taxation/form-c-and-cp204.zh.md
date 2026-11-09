@@ -122,6 +122,7 @@ relations:
   - { rel: "related-to", to: "company-tax-calendar" }
 related: ["corporate-tax-rates", "sdn-bhd-filing-calendar", "lhdn", "income-tax-act-1967"]
 keywords: ["CP204", "CP204A", "Form C Malaysia", "underestimation penalty", "section 107C", "anggaran cukai syarikat"]
+framework: how-to
 ---
 
 马来西亚公司税里花钱的部分不是税率。是你在知道答案的十一个月之前所作的那个猜测。

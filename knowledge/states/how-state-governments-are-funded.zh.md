@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-special-rights-ma63" }
 related: []
 keywords: ["hasil negeri", "geran perkapita", "geran jalan raya negeri", "Jadual Kesepuluh", "Perkara 109", "Perkara 110", "kewangan persekutuan-negeri", "royalti", "cukai jualan negeri"]
+framework: explainer
 ---
 
 当马来西亚的一个州政府编制预算时，它从一个鲜少被提及的现实出发：收益最大的税种——所得税、销售与服务税、关税——并不归它征收。这些来源属于联邦的权限范围。州所剩下的部分，以及这一缺口如何被填补，都白纸黑字地规定在《联邦宪法》中。

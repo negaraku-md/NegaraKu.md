@@ -93,6 +93,7 @@ verificationNeeded:
   - "Whether pinasakan is grilled or braised: sources describe both a braised basung (big-eye scad) preparation with takob-akob and turmeric and a grilled version — confirm the standard home-style method with a local source."
   - "The claim that sang nyuk mian originated on Sabah's east coast (Tawau) before spreading to Kota Kinabalu — widely repeated in food media but confirm against a local or historical source."
   - "The attribution of Sabah's noodle traditions specifically to Hakka settlers (versus Chinese settlers more broadly) — confirm the dominant dialect-group association with a migration-history source."
+framework: explainer
 ---
 
 Cross the South China Sea from the Malaysian peninsula and the table changes. In

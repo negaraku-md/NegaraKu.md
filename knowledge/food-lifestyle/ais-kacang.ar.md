@@ -96,6 +96,7 @@ social:
     - "#MalaysianDessert"
     - "#ShavedIce"
     - "#PasarMalam"
+framework: explainer
 ---
 
 في عصرٍ ماليزيٍّ حار، قليلة هي الأشياء التي تجذب الحشود مثل أزيز آلة بَرْش الثلج.

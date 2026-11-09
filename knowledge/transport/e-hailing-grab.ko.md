@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "jpj" }
 related: []
 keywords: ["e-hailing Malaysia", "Grab regulation Malaysia", "PSV licence e-hailing", "APAD e-hailing vehicle permit", "how does Grab work Malaysia", "e-hailing driver licence Malaysia"]
+framework: explainer
 ---
 
 쿠알라룸푸르에서 그랩(Grab)이나 볼트(Bolt), 또는 인드라이브(inDrive)를 열고

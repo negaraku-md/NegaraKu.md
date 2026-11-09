@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "directors-duties" }
 related: ["minute-books-and-records", "directors-duties", "disclosure-of-interest", "written-resolutions", "company-tax-residence"]
 keywords: ["اجتماع المجلس ماليزيا", "board meeting Malaysia", "الجدول الثالث قانون الشركات 2016", "Third Schedule Companies Act 2016", "القرار الدائري للمديرين", "نصاب المجلس Sdn Bhd", "المادة 212 إجراءات المجلس"]
+framework: rules
 ---
 
 معظم شركات Sdn Bhd الماليزية لا دستور لها. فهي بموجب قانون الشركات لسنة 2016

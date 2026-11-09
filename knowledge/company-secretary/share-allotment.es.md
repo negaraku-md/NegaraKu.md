@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["share-transfer", "register-of-members", "share-capital-malaysia", "capital-reduction", "beneficial-ownership"]
 keywords: ["adjudicación de acciones Malasia", "declaración de adjudicación 14 días", "sección 75 Companies Act 2016", "derechos de preferencia sección 85", "emitir nuevas acciones Sdn Bhd"]
+framework: how-to
 ---
 
 Emitir nuevas acciones en una Sdn Bhd parece una decisión del consejo. No lo es.

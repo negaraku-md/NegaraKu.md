@@ -54,6 +54,7 @@ relations:
   - { rel: "part-of", to: "audit-exemption" }
 related: ["audit-exemption", "audit-exemption-thresholds", "after-audit-exemption"]
 keywords: ["من لا يمكنه المطالبة بالإعفاء من التدقيق", "استبعادات الإعفاء من التدقيق Malaysia", "الشركة الخاصة المعفاة شهادة المادة 260", "exempt private company section 260", "تدقيق الشركة التابعة لشركة عامة", "تدقيق الشركة الأجنبية foreign company audit"]
+framework: rules
 ---
 
 اجتياز العتبات ليس البوابة الأخيرة. فالفقرة 12 من التوجيه العملي 10/2024 (Practice Directive 10/2024) تغلق الباب كليًا أمام أربع فئات من الشركات في وجه الإعفاء من التدقيق — فالشركة الخامدة عديمة الإيرادات الواقعة في أيٍّ منها تظل مُلزَمة بتعيين مدقّق.

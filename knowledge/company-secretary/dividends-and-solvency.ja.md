@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "directors-duties" }
 related: ["directors-duties", "capital-reduction", "share-capital-malaysia", "loans-to-directors", "corporate-tax-rates"]
 keywords: ["dividend Malaysia Sdn Bhd", "section 131 Companies Act 2016", "solvency test dividend", "unlawful dividend director liability", "distribution out of profits"]
+framework: rules
 ---
 
 利益剰余金RM800,000を有する黒字のSdn Bhdが、12月に2名の株主にRM600,000の配当を支払った。

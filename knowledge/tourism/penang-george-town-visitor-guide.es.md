@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["Penang travel guide", "George Town UNESCO", "Penang street art", "Penang Hill funicular", "Penang hawker food", "George Town heritage core", "Batu Ferringhi", "things to do in Penang"]
+framework: explainer
 ---
 
 Aterriza en la isla, sal del aire acondicionado y lo primero que te golpea es el olor: humo de wok, incienso de un templo chino, flor de frangipani y la sal del Estrecho de Malaca. George Town es un lugar que se lee con los pies: una trama compacta de shophouses centenarias donde una mezquita, una casa de clan y una iglesia colonial pueden compartir una sola manzana. Esta guía cubre qué ver, dónde comer, cómo llegar a las playas y a la colina, y cuánto tiempo dedicar a una ciudad que recompensa la lentitud.

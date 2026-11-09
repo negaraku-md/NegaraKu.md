@@ -75,6 +75,7 @@ relations:
   - { rel: "compares-with", to: "members-voluntary-winding-up" }
 related: ["companies-act-2016", "ssm", "members-voluntary-winding-up"]
 keywords: ["strike off syarikat", "seksyen 550 Akta Syarikat 2016", "potong nama syarikat SSM", "syarikat dorman", "pembubaran syarikat", "voluntary dissolution Malaysia"]
+framework: how-to
 ---
 
 Một công ty ngừng hoạt động đã dừng kinh doanh từ lâu vẫn tiếp tục "sống" trên phương

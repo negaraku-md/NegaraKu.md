@@ -74,6 +74,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-digital-services", "withholding-tax-non-compliance"]
 keywords: ["CP37", "CP37A", "CP37D", "CP37DS", "CP37S", "withholding tax form Malaysia", "LHDN withholding tax payment form"]
+framework: data-reference
 ---
 
 支払いの説明から源泉徴収税の様式を選ぶ者はいない。まず条文を確定し、様式はそこから自然に定まる。条文を誤れば様式も誤ることになり、それこそが正しく計算された納付が誤った債務に対して計上されてしまう原因である。

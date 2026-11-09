@@ -80,6 +80,7 @@ faq:
     a: Tidak. Departemen Imigrasi (Immigration Department) menyatakan bahwa Izin Kerja hanya berlaku di Semenanjung Malaysia. Sabah dan Sarawak menjalankan kontrol imigrasi mereka sendiri di bawah otonomi negara bagian, sehingga penempatan di sana memerlukan izin atau pengesahan tersendiri. Izin Kerja juga hanya mengikat Anda pada perusahaan pensponsor — jika berganti pekerjaan, pemberi kerja baru Anda harus mengajukan permohonan baru dari awal.
   - q: Bisakah pasangan saya bekerja di Malaysia dengan Izin Tanggungan (Dependant Pass)?
     a: Bisa, tetapi tidak secara otomatis. Izin Tanggungan itu sendiri tidak membawa hak bekerja, dan pemegang utama harus memiliki Izin Kerja yang sah terlebih dahulu karena permohonan tanggungan bergantung padanya. Menurut FAQ Departemen Imigrasi sendiri, pasangan kemudian dapat bekerja berdasarkan pengesahan untuk bekerja (endorsement for work) dari Departemen Imigrasi, tanpa harus beralih ke Izin Kerja penuh atas namanya sendiri — jalur yang jauh lebih cepat dan lebih murah daripada permohonan Izin Kerja baru.
+framework: explainer
 ---
 
 Anda memiliki tawaran kerja bertanda tangan di Malaysia. Anda memiliki paspor, ijazah, pengalaman relevan bertahun-tahun. Dan masih tidak ada apa pun yang dapat Anda ajukan secara pribadi.

@@ -80,6 +80,7 @@ relations:
   - { rel: "affects", to: "personal-tax-reliefs" }
 related: ["income-tax-in-malaysia", "pcb-mtd-malaysia", "personal-tax-reliefs", "personal-tax-rates", "which-tax-form"]
 keywords: ["PCB الضريبة النهائية", "الخصم الضريبي الشهري ماليزيا", "potongan cukai bulanan", "المادة 77C قانون ضريبة الدخل", "section 77C Income Tax Act", "هل عليّ تقديم الإقرار إذا خُصم الـPCB", "استرداد PCB ماليزيا"]
+framework: explainer
 ---
 
 في كل سنة يختار عدد كبير من الموظفين الماليزيين، في صمت، أن يدفعوا ضريبة دخلهم

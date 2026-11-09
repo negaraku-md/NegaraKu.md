@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "appoint-company-secretary" }
 related: ["secretary-resignation", "appoint-company-secretary", "changing-company-secretary"]
 keywords: ["vacante de secretario de empresa 30 días", "sección 240 Companies Act 2016", "cargo de secretario vacante Malasia", "sanción por no tener secretario de empresa Malasia", "section 235 Companies Act 2016"]
+framework: rules
 ---
 
 La mayoría de los directores de una Sdn Bhd descubren esta regla como se descubre

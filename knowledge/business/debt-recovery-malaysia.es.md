@@ -105,6 +105,7 @@ keywords:
   - "winding up petition unpaid debt Malaysia"
   - "limitation period debt Malaysia"
   - "tuntutan hutang syarikat"
+framework: how-to
 ---
 
 La mayoría de los consejos sobre cómo recuperar una deuda comercial malasia se reducen a una

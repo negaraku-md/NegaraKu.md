@@ -87,6 +87,7 @@ verificationNeeded:
   - "The claim that mee siam reached Singapore through the migration of Straits Chinese families from Penang in the early 1800s — confirm with a historical source."
   - "Whether tamarind is essential to every version: some cooks substitute or supplement it with lime or lemon juice, and the sour note's standard source varies by recipe. Confirm the typical gravy base across wet and dry styles."
   - "The standard garnish (hard-boiled egg, prawns, tofu puffs, chives, bean sprouts, calamansi versus lime) varies by cook and region — confirm the most typical Malaysian composition."
+framework: explainer
 ---
 
 Order "mee siam" and the result depends on the stall. At one you get a plate of

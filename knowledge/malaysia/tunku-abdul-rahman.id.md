@@ -66,6 +66,7 @@ social:
 verificationNeeded:
   - "SENSITIF: menyentuh kerusuhan rasial 13 Mei 1969 (ras) dan para Raja Melayu (royalti). Semua penggambaran dirangkum secara netral; periksa ulang terhadap sumber primer dan mintalah peninjau manusia yang kompeten menyetujui sebelum publikasi."
   - "Konfirmasikan tanggal-tanggal pasti (masa jabatan perdana menteri, kelahiran, kematian) terhadap Perdana Leadership Foundation dan Kantor Perdana Menteri."
+framework: profile
 ---
 
 Pada pagi 31 Agustus 1957, di hadapan Stadion Merdeka yang penuh sesak di Kuala

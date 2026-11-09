@@ -101,6 +101,7 @@ keywords:
   - "doing business in Ipoh"
   - "MBI business licence"
   - "Perak GDP"
+framework: profile
 ---
 
 यह जानबूझकर एक छोटा पृष्ठ है। पेराक की विधिक व्यवस्था सेलांगोर जैसी ही है, इसकी परिषदें

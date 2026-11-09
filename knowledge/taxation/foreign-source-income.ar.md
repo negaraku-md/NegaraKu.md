@@ -129,6 +129,7 @@ relations:
   - { rel: "compares-with", to: "capital-gains-tax" }
 related: ["income-tax-in-malaysia", "company-tax-residence", "capital-gains-tax", "labuan-tax-regime", "corporate-tax-rates"]
 keywords: ["الدخل ذو المصدر الأجنبي في ماليزيا", "foreign source income Malaysia", "إعفاء الدخل الأجنبي FSI", "FSI exemption Malaysia", "إعفاء الأرباح الأجنبية", "foreign dividend exemption Malaysia", "P.U.(A) 235/2022", "الجوهر الاقتصادي FSI ماليزيا", "economic substance Malaysia FSI", "ضريبة التحويل ماليزيا", "remittance tax Malaysia"]
+framework: rules
 ---
 
 اقرأ تاريخ الانتهاء من الجريدة الرسمية، لا من مدوَّنة. فحتى 14 أغسطس 2026 ما زال

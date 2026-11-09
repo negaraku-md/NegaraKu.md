@@ -120,6 +120,7 @@ keywords:
   - "Johor Bahru premise licence fee"
   - "JS-SEZ Johor Bahru"
   - "foreign property purchase Johor"
+framework: profile
 ---
 
 Johor Bahru là thành phố Malaysia duy nhất mà sàn lương, kế hoạch nhân sự và cửa sổ giao hàng

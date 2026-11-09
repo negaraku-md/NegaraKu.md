@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "circular-economy-blueprint" }
 related: []
 keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusan", "pengasingan sisa di punca", "ekonomi kitaran"]
+framework: explainer
 ---
 
 Throw away rubbish in Johor and it becomes a federal government matter; throw away the same rubbish in Penang and it remains the business of the local council. That is the core peculiarity of how Malaysia manages its solid waste — one grand federal law, but one that only takes effect in the places that have agreed to adopt it.

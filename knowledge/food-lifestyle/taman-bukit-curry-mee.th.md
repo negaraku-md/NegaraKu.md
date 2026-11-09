@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#CurryMee", "#Penang", "#SeberangPerai", "#BibGourmand", "#Malaysia"]
+framework: profile
 ---
 
 ชื่อเสียงด้าน MICHELIN ส่วนใหญ่ของปีนังกระจุกตัวอยู่ตามถนนบนเกาะจอร์จทาวน์ Taman

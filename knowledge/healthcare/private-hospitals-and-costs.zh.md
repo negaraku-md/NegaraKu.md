@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "sst-expansion-2025" }
 related: ["sst-expansion-2025"]
 keywords: ["private hospital Malaysia", "private hospital bill", "specialist consultation fee Malaysia", "guarantee letter hospital", "hospital deposit Malaysia", "itemised bill private hospital", "Act 586", "National Specialist Register", "private healthcare costs Malaysia"]
+framework: explainer
 ---
 
 你为了一项手术入院，出院时却好像拿到两份订在一起的账单。一份来自外科医生，一份来自医院。两者的金额几乎从不相符，而且几乎没有人一开始就解释清楚它们为何是分开的。

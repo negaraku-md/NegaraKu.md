@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "financial-statement-pack" }
 related: ["audit-exemption", "audit-exemption-thresholds", "basis-period-and-accounting-date", "myinvois-phases", "financial-statement-pack", "financial-statements-lodgement", "sdn-bhd-first-year-compliance", "form-c-and-cp204"]
 keywords: ["نهاية السنة المالية في ماليزيا", "تغيير نهاية السنة المالية Sdn Bhd", "FYE Malaysia", "فترة الأساس تغيير تاريخ المحاسبة", "الإعفاء من التدقيق ثلاث سنوات", "البيانات المالية الأولى 18 شهرًا", "المادة 247 السنة المالية للشركة القابضة"]
+framework: decision
 ---
 
 يبدو اختيار نهاية السنة المالية قرارًا إداريًا. فهو يُتَّخذ عادةً في الأسبوع الأول من

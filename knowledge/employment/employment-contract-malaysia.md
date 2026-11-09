@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "non-compete-clause-malaysia" }
 related: ["employment-act-coverage", "termination-of-employment-malaysia", "stamp-duty-employment-contracts"]
 keywords: ["employment contract malaysia", "contract of service malaysia", "section 10 employment act", "notice period clause malaysia", "unenforceable clause employment contract"]
+framework: rules
 ---
 
 The contract is not the law. It is a document that operates inside the law, and

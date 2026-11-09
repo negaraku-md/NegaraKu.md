@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-jakim" }
 related: ["hari-raya-aidilfitri"]
 keywords: ["bazar ramadan", "ramadan bazaar malaysia", "juadah berbuka puasa", "etika bulan puasa", "lesen penjaja bazar"]
+framework: explainer
 ---
 
 Mỗi khi gần giờ Asar trong tháng Ramadan, những dãy lều trắng bỗng mọc lên bên lề đường, hơi ayam percik cuộn lên trên than hồng, và mùi roti john hòa cùng air bandung kéo mọi người ra khỏi nhà. Đây là chợ Ramadan — một chợ theo mùa chỉ tồn tại một tháng mỗi năm, nhưng từ lâu đã trở thành một phần trong nhịp sống của xã hội Malaysia.

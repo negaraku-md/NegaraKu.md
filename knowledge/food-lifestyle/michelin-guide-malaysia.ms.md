@@ -100,6 +100,7 @@ social:
     - "#Dewakan"
     - "#KualaLumpurFood"
     - "#PenangFood"
+framework: explainer
 ---
 
 Tanya sedozen orang di mana hendak makan di Kuala Lumpur atau Pulau Pinang dan

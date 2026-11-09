@@ -88,6 +88,7 @@ relations:
   - { rel: "compares-with", to: "bahasa-melayu" }
 related: ["population-composition", "article-152-language", "bahasa-melayu", "languages-spoken", "federal-constitution"]
 keywords: ["tamil en Malasia", "Tamil in Malaysia", "SJKT", "Sekolah Jenis Kebangsaan Tamil", "escuelas de tamil Malasia", "indios malasios", "Artículo 152", "instrucción en tamil", "escuelas vernáculas"]
+framework: explainer
 ---
 
 En las viejas plantaciones de caucho de Malaya, algunas de las primeras aulas fueron cobertizos y chozas, y las lecciones se daban en tamil. Según un estudio histórico publicado en la revista de la Asociación Histórica de Malasia, desde principios del siglo XX se ofrecía en las plantaciones una educación primaria básica en tamil, prevista en los códigos laborales de la época y, durante mucho tiempo, impartida por oficinistas y trabajadores a tiempo parcial en lugar de por docentes formados.

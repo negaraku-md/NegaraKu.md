@@ -95,6 +95,7 @@ relations:
   - { rel: "compares-with", to: "corporate-tax-rates" }
 related: ["corporate-tax-rates"]
 keywords: ["cukai LLP Malaysia", "cukai PLT", "kadar cukai perkongsian liabiliti terhad", "cukai LLP berbanding Sdn Bhd", "Borang PT", "ujian sumbangan modal LLP"]
+framework: explainer
 ---
 
 LLP adalah bentuk usaha yang paling kurang dijelaskan di Malaysia, dan

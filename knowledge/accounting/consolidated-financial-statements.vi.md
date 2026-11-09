@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "mbrs-xbrl-filing" }
 related: ["companies-act-2016"]
 keywords: ["MFRS 10", "consolidated financial statements", "control", "subsidiary", "holding company", "Companies Act 2016", "MBRS", "group accounts", "Malaysia"]
+framework: explainer
 ---
 
 Mua một cổ phần chi phối trong một công ty khác và bạn không chỉ thêm một khoản mục vào bảng cân đối của mình — bạn đã tạo ra một tập đoàn mà các quy định kế toán Malaysia khăng khăng đối xử như một thực thể duy nhất. Đó là lực lượng thầm lặng đằng sau MFRS 10 *Báo cáo tài chính hợp nhất*: khoảnh khắc một công ty kiểm soát một công ty khác, cả hai phải báo cáo ra thế giới bên ngoài như một.

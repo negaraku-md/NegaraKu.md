@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "payroll-compliance-malaysia" }
 related: ["epf-employer-guide", "payroll-compliance-malaysia", "socso-eis-employer-guide"]
 keywords: ["EPF foreign worker Malaysia", "EPF non-citizen 2 percent", "KWSP pekerja asing caruman", "Third Schedule Part F", "EPF expatriate contribution"]
+framework: rules
 ---
 
 இருபத்தேழு ஆண்டுகளாக, ஒரு வெளிநாட்டுத் தொழிலாளருக்கான ஊழியர் சேமநல நிதி (Employees

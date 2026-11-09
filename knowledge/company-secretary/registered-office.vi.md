@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "appoint-company-secretary" }
 related: ["statutory-registers", "register-of-members", "minute-books-and-records", "appoint-company-secretary"]
 keywords: ["registered office Malaysia", "section 46 Companies Act 2016", "change registered office SSM 14 days", "alamat berdaftar syarikat", "registered office public access", "section 47 documents registered office"]
+framework: rules
 ---
 
 Mọi công ty thư ký ở Malaysia đều bán một dịch vụ văn phòng đăng ký. Rất ít trang web của họ đề cập đến s.46(2)

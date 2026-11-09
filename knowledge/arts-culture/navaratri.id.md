@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "hinduism-in-malaysia" }
 related: ["hinduism-in-malaysia", "deepavali", "thaipusam", "pongal", "mariamman-worship", "hindu-temple-architecture"]
 keywords: ["நவராத்திரி", "Navaratri", "Navratri", "கொலு", "Golu", "விஜயதசமி", "சரஸ்வதி பூஜை", "ஆயுத பூஜை", "வித்யாரம்பம்", "மலேசியா நவராத்திரி", "கர்பா தாண்டியா"]
+framework: history-culture
 ---
 
 Selama Navaratri, di sepanjang salah satu sisi dinding ruang tamu sebuah rumah Hindu Tamil di Malaysia, undakan bertingkat didirikan dalam jumlah ganjil. Pada undakan berlapis kain itu, arca dewa dan boneka yang menceritakan adegan dari mitologi disusun berjajar. Menjelang petang, sanak saudara dan tetangga datang melihat **Golu** itu; nyanyian berkumandang; dan tamu yang pulang diberi thamboolam serta manisan. Ini bukan acara satu hari — ia adalah penanda sebuah perayaan yang berlangsung sepanjang sembilan malam.

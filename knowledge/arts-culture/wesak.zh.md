@@ -62,6 +62,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["religion-statistics", "article-3-religion", "kuala-lumpur"]
 keywords: ["Wesak Day Malaysia", "Vesak Day Malaysia", "Hari Wesak 2026", "Wesak Day date Malaysia", "Buddhist public holiday Malaysia", "Wesak procession Kuala Lumpur", "Buddha's birthday Malaysia"]
+framework: history-culture
 ---
 
 问卫塞节落在哪一天，答案并不固定——它会变动。2026年落在5月31日，2027年落在5月20日，2028年落在5月9日。原因很简单：卫塞节是依月相而定，不是依固定的日历日期，而阴历与西历每年都会彼此产生偏移。

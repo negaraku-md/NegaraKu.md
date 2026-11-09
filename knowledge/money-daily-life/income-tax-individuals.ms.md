@@ -78,6 +78,7 @@ faq:
     a: Ya, sebaik sahaja pendapatan anda melepasi ambang pendaftaran. Potongan bulanan (PCB/MTD) hanyalah anggaran yang dipotong terlebih dahulu. Borang cukai tahunan ialah penyelarasannya — di mana pelepasan dituntut, pendapatan lain diisytiharkan, dan kedudukan sebenar diselesaikan, sama ada ia bermakna bayaran balik atau bayaran tambahan. Memiliki fail cukai dan mengemukakan borang cukai diwajibkan tanpa mengira sama ada majikan anda sudah pun memotong cukai setiap bulan.
   - q: Saya sudah mempunyai Nombor Pengenalan Cukai — bolehkah saya terus log masuk ke MyTax dan mengemukakan borang?
     a: Belum lagi. Pengemuka borang kali pertama memerlukan dua kelayakan secara berturutan. Nombor Pengenalan Cukai (TIN), yang diperoleh melalui e-Daftar (ramai warganegara dan pemastautin tetap sudah pun memilikinya secara automatik), tidak dengan sendirinya membuka e-Filing. LHDN memerlukan PIN berasingan untuk mengaktifkan akaun e-Filing yang terikat dengan TIN tersebut — dahulunya melalui cawangan, kini lebih mudah dimohon melalui portal. Hanya selepas kedua-dua langkah itu barulah anda boleh membuka dan mengemukakan borang cukai yang betul.
+framework: rules
 ---
 
 Seorang pekerja baharu berpindah ke Kuala Lumpur dengan Pas Pekerjaan dua

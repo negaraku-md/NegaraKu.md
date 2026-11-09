@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["kuala-lumpur", "selangor"]
 keywords: ["سكك وادي كلانغ", "Rapid KL", "خط MRT Kajang", "خط MRT Putrajaya", "خط LRT Kelana Jaya", "مونوريل KL", "KTM Komuter", "خط Shah Alam", "LRT3", "KL Sentral", "التنقّل في كوالالمبور دون سيارة", "Klang Valley rail"]
+framework: explainer
 ---
 
 انظر إلى خريطة سكك وادي كلانغ لأول مرة، فستبدو أشبه بحساء الحروف —

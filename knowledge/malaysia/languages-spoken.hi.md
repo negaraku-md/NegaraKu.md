@@ -86,6 +86,7 @@ relations:
 related: ["federal-constitution", "bahasa-melayu", "population-composition", "formation-of-malaysia-1963", "independence-1957", "ma63"]
 keywords: ["languages of Malaysia", "Bahasa Melayu", "national language Malaysia", "Article 152 Federal Constitution", "Chinese dialects Malaysia", "Tamil Malaysia", "Orang Asli languages", "Kadazan-Dusun", "Iban language", "vernacular schools Malaysia", "SJKC SJKT"]
 sponsor: "none"
+framework: explainer
 ---
 
 सबाह की राज्य सरकार अपनी ही जनसंख्या का सारांश इस प्रकार देती है: 33 स्वदेशी समूह, जो 50 से अधिक भाषाओं और लगभग 80 बोलियों में संवाद करते हैं। यह तेरह राज्यों में से एक राज्य है, साथ ही तीन संघीय क्षेत्र हैं। पूरे देश तक नज़र फैलाइए और तस्वीर केवल और अधिक परतदार होती जाती है — फिर भी संघीय संविधान ठीक एक ही राष्ट्रभाषा को नामित करता है।

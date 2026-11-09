@@ -73,6 +73,7 @@ social:
     - StartABusiness
     - DoingBusinessInMalaysia
     - JKM
+framework: how-to
 ---
 
 Abrir un centro de cuidado infantil parece un negocio cálido y de baja barrera de entrada: una casa, unas cunas, unas manos atentas. En Malasia, legalmente, no es nada de eso. En el momento en que admite a cuatro o más niños pequeños de familias distintas a cambio de un pago, usted está operando un **TASKA** (taman asuhan kanak-kanak), y un TASKA no puede abrir hasta estar registrado ante el gobierno. Sáltese ese paso y no será un pequeño empresario; estará cometiendo un delito penal.

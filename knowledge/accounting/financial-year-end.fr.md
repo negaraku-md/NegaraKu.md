@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "financial-statement-pack" }
 related: ["audit-exemption", "audit-exemption-thresholds", "basis-period-and-accounting-date", "myinvois-phases", "financial-statement-pack", "financial-statements-lodgement", "sdn-bhd-first-year-compliance", "form-c-and-cp204"]
 keywords: ["clôture d'exercice Malaisie", "changer clôture d'exercice Sdn Bhd", "FYE Malaisie", "changement période de base date comptable", "exemption d'audit trois ans", "18 mois premiers états financiers", "section 247 exercice société holding"]
+framework: decision
 ---
 
 Choisir une clôture d'exercice ressemble à une décision administrative. Elle est

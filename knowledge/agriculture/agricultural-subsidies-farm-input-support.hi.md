@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
 related: []
 keywords: ["धान उर्वरक सब्सिडी", "SBPKP", "SIPP", "धान उत्पादन प्रोत्साहन", "कृषि सब्सिडी", "किसान इनपुट सहायता"]
+framework: explainer
 ---
 
 उस सुबह धान किसान जो उर्वरक की बोरी कंधे पर खेत तक ले जाता है, वह उसके अपने पैसे से नहीं

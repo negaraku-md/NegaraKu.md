@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "data-breach-notification-malaysia" }
 related: ["online-safety-act-malaysia", "debt-recovery-malaysia", "data-breach-notification-malaysia"]
 keywords: ["laporan polis", "cara buat laporan polis", "e-reporting PDRM", "997 NSRC", "999 kecemasan", "Seksyen 107 Kanun Tatacara Jenayah"]
+framework: how-to
 ---
 
 차가 부서져 열리거나, 지갑을 강탈당하거나, 허가 없이 계좌에서 돈이 빠져나가는 — 이 세 경우 모두에서, 보험사든 은행이든 법원이든 그 다음 모든 상대가 가장 먼저 요구하는 문서는 당신의 경찰 신고 번호입니다. 그것을 올바른 방법으로, 올바른 순서로 얻는 법을 알면 여러 시간을 절약하고 때로는 돈까지 지킬 수 있습니다.

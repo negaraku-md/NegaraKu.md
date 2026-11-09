@@ -105,6 +105,7 @@ keywords:
   - "impuesto SFZ Forest City"
   - "Pulau 1 Forest City"
   - "Forest City Special Financial Zone"
+framework: explainer
 ---
 
 Dos esquemas se asientan sobre el mismo tramo de la costa de Johor, y casi todo resumen

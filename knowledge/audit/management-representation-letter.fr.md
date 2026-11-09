@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "auditor-report" }
 related: []
 keywords: ["surat perwakilan pengurusan", "lettre d'affirmation de la direction", "management representation letter", "ISA 580", "déclarations écrites", "written representations", "élément probant d'audit", "auditeur"]
+framework: explainer
 ---
 
 Vers la fin de chaque audit, les administrateurs sont invités à signer un document facile à négliger mais qui pèse réellement : une lettre attestant, de leur propre signature, qu'ils ont tout dit à l'auditeur. C'est la lettre d'affirmation de la direction.

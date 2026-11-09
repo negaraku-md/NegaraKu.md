@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "sst-expansion-2025" }
 related: ["sst-expansion-2025"]
 keywords: ["private hospital Malaysia", "private hospital bill", "specialist consultation fee Malaysia", "guarantee letter hospital", "hospital deposit Malaysia", "itemised bill private hospital", "Act 586", "National Specialist Register", "private healthcare costs Malaysia"]
+framework: explainer
 ---
 
 Anda masuk untuk satu prosedur dan keluar dengan apa yang terasa seperti dua bil yang disepitkan bersama. Satu daripada pakar bedah. Satu daripada hospital. Kedua-duanya jarang sepadan dari segi jumlah, dan hampir tiada siapa yang menerangkan sebabnya kedua-duanya berasingan sejak awal lagi.

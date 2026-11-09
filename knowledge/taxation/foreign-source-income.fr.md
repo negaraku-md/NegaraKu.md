@@ -129,6 +129,7 @@ relations:
   - { rel: "compares-with", to: "capital-gains-tax" }
 related: ["income-tax-in-malaysia", "company-tax-residence", "capital-gains-tax", "labuan-tax-regime", "corporate-tax-rates"]
 keywords: ["revenu de source étrangère Malaisie", "foreign source income Malaysia", "exonération FSI Malaisie", "FSI exemption Malaysia", "exonération dividendes étrangers", "foreign dividend exemption Malaysia", "P.U.(A) 235/2022", "substance économique FSI Malaisie", "economic substance Malaysia FSI", "impôt sur le rapatriement Malaisie", "remittance tax Malaysia"]
+framework: rules
 ---
 
 Lisez la date d'échéance au Journal officiel, non sur un blog. Au 14 août 2026,

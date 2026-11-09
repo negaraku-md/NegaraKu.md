@@ -113,6 +113,7 @@ relations:
   - { rel: "related-to", to: "cbcr-and-master-file" }
 related: ["cbcr-and-master-file", "permanent-establishment", "corporate-tax-rates", "losses-and-group-relief"]
 keywords: ["transfer pricing documentation Malaysia", "contemporaneous TPD Malaysia", "section 113B penalty", "section 140A(3C) surcharge", "P.U.(A) 165/2023", "transfer pricing threshold Malaysia"]
+framework: rules
 ---
 
 人を破滅させるのはその14日間である。LHDNは2023年所得税（移転価格）規則（Income Tax (Transfer Pricing) Rules 2023、P.U.(A) 165/2023）の rule 5(3) のもとで通知を送達し、14日後には文書が完全な形でLHDNの手元にあるか、そうでないかのいずれかとなる。Rulesには延長の規定は一切ない。2週間遅れれば、その賦課年度だけでRM60,000に直面することになり、しかもこの罰則は監査ごとではなく賦課年度ごとに科される。

@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#NamHeong", "#ChickenRice", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Jalan Sultan, 쿠알라룸푸르 구시가지 한복판에서, 향긋한 밥 위에 올린 백숙 닭 한 접시가

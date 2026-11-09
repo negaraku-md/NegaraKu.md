@@ -72,6 +72,7 @@ social:
     - MSME
     - GoDigital
     - MalaysiaMADANI
+framework: explainer
 ---
 
 Rất nhiều doanh nghiệp nhỏ biết rằng họ *nên* chuyển sang một hệ thống điểm bán hàng đúng đắn, chạy sổ sách của mình bằng phần mềm thay vì một cuốn sổ tay, hoặc bắt đầu bán hàng trực tuyến — nhưng chi phí ban đầu của các công cụ chính xác là điều cứ tiếp tục bị hoãn lại. MSME Digital Grant MADANI được xây dựng để loại bỏ một nửa chi phí đó. Đó là một **khoản trợ cấp đối ứng**: áp dụng một công cụ số được phê duyệt, và chính phủ trả một nửa hóa đơn tới một mức trần, trong khi bạn trả phần còn lại.

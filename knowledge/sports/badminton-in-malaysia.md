@@ -98,6 +98,7 @@ keywords:
   - "Lee Chong Wei"
   - "Lee Zii Jia"
   - "juara All England Malaysia"
+framework: history-culture
 ---
 
 Pada Mei 1992, seluruh negara berhenti seketika. Di Stadium Negara, Kuala Lumpur, sepasukan pemuda diketuai adik-beradik Sidek menewaskan Indonesia untuk mengangkat Piala Thomas — dan seperti kata Datuk Rashid Sidek, "seluruh Malaysia menjadi viral dan semua orang mahu bermain badminton". Tiga dekad kemudian, trofi itu masih belum kembali. Kisah badminton Malaysia ialah kisah kegemilangan awal, kemarau yang menyakitkan, dan seorang-dua juara yang membawa harapan sebuah negara di atas bahu mereka.

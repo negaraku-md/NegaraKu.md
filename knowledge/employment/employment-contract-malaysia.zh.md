@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "non-compete-clause-malaysia" }
 related: ["employment-act-coverage", "termination-of-employment-malaysia", "stamp-duty-employment-contracts"]
 keywords: ["employment contract malaysia", "contract of service malaysia", "section 10 employment act", "notice period clause malaysia", "unenforceable clause employment contract"]
+framework: rules
 ---
 
 合约不是法律。它是在法律之内运作的文件，而 Employment Act 1955 第 s.7 条用一句话

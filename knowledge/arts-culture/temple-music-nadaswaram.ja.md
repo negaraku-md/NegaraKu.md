@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["thaipusam", "hinduism-in-malaysia", "indian-classical-arts-in-malaysia", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community"]
 keywords: ["கோயில் இசை", "நாதஸ்வரம்", "தவில்", "மங்கள வாத்தியம்", "உறுமி மேளம்", "காவடி", "மலேசியா கோயில் இசை", "Nadaswaram", "Thavil", "Urumi Melam"]
+framework: history-culture
 ---
 
 タイプーサムの行列の先頭で、寺院の山車が出発するその瞬間に、あるいは結婚式場の入口で——マレーシアのどのタミル系ヒンドゥーの催しでも、まず空気に満ちるのは、ある特定の音である。ナーダスワラム（nadaswaram）の長い旋律と、タヴィル（thavil）の轟きである。その音は偶然ではない——それは、一世紀以上にわたってこの共同体とともに歩んできた **mangala vadyam**（吉祥楽器）の伝統の印である。

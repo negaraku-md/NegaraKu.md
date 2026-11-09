@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["thaipusam", "hinduism-in-malaysia", "indian-classical-arts-in-malaysia", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community"]
 keywords: ["கோயில் இசை", "நாதஸ்வரம்", "தவில்", "மங்கள வாத்தியம்", "உறுமி மேளம்", "காவடி", "மலேசியா கோயில் இசை", "Nadaswaram", "Thavil", "Urumi Melam"]
+framework: history-culture
 ---
 
 في مقدمة موكب ثايبوسام، في اللحظة التي تنطلق فيها عربة المعبد المقدسة، أو عند مدخل قاعة عُرس — في أيّ مناسبة هندوسية تاميلية في ماليزيا، أول ما يملأ الهواء دائمًا صوتٌ بعينه: لحن الناداسوارام (nadaswaram) الممتدّ ودويّ التاڤيل (thavil). وليس ذلك الصوت محض مصادفة — بل هو علامة تقليد **mangala vadyam** (آلات اليُمن) الذي رافق هذه الجماعة منذ أكثر من قرن.

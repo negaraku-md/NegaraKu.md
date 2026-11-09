@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "orang-asli" }
 related: ["unesco-world-heritage", "peranakan", "orang-asli"]
 keywords: ["Muzium Negara", "Islamic Arts Museum Malaysia", "IAMM", "Perak Museum Taiping", "Sarawak Museum", "Sabah Museum", "Malaysia state museums"]
+framework: history-culture
 ---
 
 ถามผู้มาเยือนส่วนใหญ่ว่าพิพิธภัณฑ์ใดเก่าแก่ที่สุดในมาเลเซีย พวกเขาจะเดาว่ามูเซียมเนอการา (Muzium Negara) — อาคารหลังคาทรงวังที่เป็นหลักยึดของแถวพิพิธภัณฑ์ในกัวลาลัมเปอร์ พวกเขาคลาดเคลื่อนไปแปดสิบปี เพราะตำแหน่งนั้นเป็นของห้องจัดแสดงเล็ก ๆ ในไทปิง (Taiping) ที่สร้างขึ้นขณะที่พื้นที่ของมูเซียมเนอการายังถูกครอบครองโดยพิพิธภัณฑ์รุ่นก่อนหน้า

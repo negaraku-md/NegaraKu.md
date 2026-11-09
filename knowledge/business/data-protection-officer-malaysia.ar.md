@@ -96,6 +96,7 @@ relations:
   - { rel: "governs", to: "personal-data-protection-act-2010" }
 related: ["pdpa-compliance-malaysia", "online-business-licence-malaysia"]
 keywords: ["مسؤول حماية البيانات في ماليزيا", "data protection officer malaysia", "DPO malaysia", "المادة 12A PDPA", "عتبة DPO في PDPA", "تعيين DPO في ماليزيا"]
+framework: rules
 ---
 
 تقرأ معظم الأعمال التجارية في ماليزيا عتبة مسؤول حماية البيانات، فترى «20,000 صاحب بيانات»، وتستنتج أنها بعيدة كل البعد عنها، فتتوقف عن القراءة. أما الركن الثالث فيقع سطرًا واحدًا أدناه، وليس فيه أي رقم على الإطلاق، والمثال المشروح الذي يسوقه المفوّض نفسه له هو متجر إلكتروني يوصي بالمنتجات.

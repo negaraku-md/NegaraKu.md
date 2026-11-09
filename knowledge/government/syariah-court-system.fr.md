@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "federal-state-division" }
 related: ["civil-and-syariah-courts", "kehakiman-mahkamah", "federal-constitution"]
 keywords: ["mahkamah syariah", "système des tribunaux de Malaisie", "Article 121(1A)", "compétence des tribunaux de la Syariah", "Tribunal supérieur de la Syariah", "Act 355", "Act 505", "droit islamique de la famille"]
+framework: explainer
 ---
 
 Une épouse qui demande un fasakh et un commerçant qui réclame une dette de RM60,000 engagent tous deux leur affaire avec un seul formulaire au guichet d'un tribunal. Pourtant, ils ne se rendent pas au même guichet, leurs affaires ne sont pas jugées par le même type de juge, et la loi qui détermine leur issue provient de deux organes législatifs distincts.

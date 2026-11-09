@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "mykad-guide" }
 related: ["immigration-act-1959-63"]
 keywords: ["entrer à Sabah", "entrer au Sarawak", "immigration Sabah Sarawak", "Restricted Travel Document", "laissez-passer de visite sociale", "MA63 immigration"]
+framework: rules
 ---
 
 Prenez un vol de Kuala Lumpur à Kuching et, à l'instant où vous atterrissez, un guichet d'immigration vous attend, à l'intérieur de votre propre pays. Pour beaucoup de Malaisiens péninsulaires, c'est la première fois qu'ils présentent leur carte d'identité à un agent de l'immigration sans jamais franchir de frontière internationale. Il ne s'agit pas d'une erreur administrative. Sabah et le Sarawak contrôlent leur propre immigration, et ces règles s'appliquent à tout le monde, y compris aux citoyens malaisiens.

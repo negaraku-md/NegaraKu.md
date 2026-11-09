@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-registration", "sst-02-filing", "sst-rate-table"]
 keywords: ["imported taxable services", "SST-02A", "section 26A service tax", "service tax on foreign services Malaysia", "self-accounting service tax"]
+framework: rules
 ---
 
 This is the most commonly missed liability in the whole SST regime, and the

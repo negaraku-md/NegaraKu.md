@@ -78,6 +78,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-contract-malaysia", "unfair-dismissal-malaysia", "termination-benefits-malaysia", "employee-vs-contractor-malaysia"]
 keywords: ["fixed term contract malaysia", "contract renewal malaysia employment", "non renewal dismissal malaysia", "project contract employee malaysia", "temporary contract malaysia law"]
+framework: explainer
 ---
 
 기간제 계약은 말레이시아 시장에서 안전장치로 팔립니다. 1년간 고용하고, 끝날 때 결정하며, 해고도

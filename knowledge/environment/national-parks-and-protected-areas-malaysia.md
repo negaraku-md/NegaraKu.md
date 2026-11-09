@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "unesco-world-heritage-sites-malaysia" }
 related: []
 keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Taman Kinabalu", "Gunung Mulu", "Sabah Parks", "Sarawak Forestry", "taman laut", "PERHILITAN", "Warisan Dunia UNESCO"]
+framework: explainer
 ---
 
 Tanya sesiapa di mana letaknya "taman negara Malaysia" dan mereka akan menunjuk ke satu tempat. Hakikatnya, Malaysia tidak mempunyai satu taman negara — ia mempunyai tiga sistem undang-undang yang berasingan sama sekali, dan salah satunya bahkan tidak merangkumi tempat yang paling terkenal dengan nama "Taman Negara". Memahami peta perundangan ini adalah kunci untuk merancang lawatan, menjalankan penyelidikan, atau sekadar memahami cara Malaysia melindungi hutan hujannya yang berusia 130 juta tahun.

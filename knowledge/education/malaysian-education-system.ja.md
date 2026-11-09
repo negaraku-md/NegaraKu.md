@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "public-universities-malaysia" }
 related: []
 keywords: ["Malaysian education system", "Ministry of Education Malaysia", "KPM", "SPM", "STPM", "matriculation Malaysia", "TVET Malaysia", "Malaysian Qualifications Framework"]
+framework: explainer
 ---
 
 マレーシア人を3人つかまえて「教育制度」について説明してもらうと、3通りの異なる地図が返ってくるだろう。ある人はSKとSJKCの違いについて語る。別の人はSTPMとマトリキュレーションの違いについて語る。3人目は、技術教育の世界の外では誰も聞いたことのないSKM証明書について触れる。3人とも同じ制度について語っているのだが、それぞれ異なる枝から見ているにすぎない。

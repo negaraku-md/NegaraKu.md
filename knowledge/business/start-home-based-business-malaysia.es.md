@@ -71,6 +71,7 @@ social:
     - OnlineSeller
     - SSM
     - MicroEntrepreneur
+framework: how-to
 ---
 
 Hornea galletas, revende productos para el cuidado de la piel o hace dropshipping de fundas de móvil desde su habitación libre, y las ventas son reales. En algún punto entre el primer pedido y el décimo surge una pregunta: ¿algo de esto es *legal*, o un negocio doméstico es el único tipo que simplemente se puede… gestionar? La respuesta honesta es que un negocio doméstico sigue siendo un negocio: el Estado espera el mismo registro que a una tienda, más un permiso adicional en el que casi nadie piensa: la autorización de su consejo local para gestionar un negocio desde una vivienda siquiera.

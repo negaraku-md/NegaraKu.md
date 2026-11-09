@@ -91,6 +91,7 @@ verificationNeeded:
   - "Truyền thuyết dân gian rằng nasi tumpang được tạo ra làm bữa ăn mang đi cho nông dân, ngư dân và lữ khách, cùng tuổi đời được tuyên bố của nó — Wikipedia đóng khung điều này như truyền thuyết dân gian; hãy xác nhận với một nguồn di sản Kelantan."
   - "Solok lada được nhồi bằng cá hay bằng dừa non nạo — các nguồn tham khảo (kể cả chính Wikipedia) không nhất quán; hãy xác nhận với một công thức địa phương hoặc nguồn về nấu nướng."
   - "Thời gian lên men chính xác của budu (các nguồn tham khảo nêu khoảng 140–200 ngày, một con số được đánh dấu là cần dẫn nguồn) và chi tiết rằng Pasar Besar Siti Khadijah ở Kota Bharu phần lớn do các tiểu thương nữ điều hành — hãy xác nhận lần lượt với một nguồn khoa học thực phẩm và một nguồn về chợ/di sản."
+framework: history-culture
 ---
 
 Băng qua sông Kelantan (Sungai Kelantan) vào Kota Bharu và món ăn đổi giọng. Cà ri

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "worker-accommodation-act-446" }
 related: ["hiring-foreign-workers-malaysia", "worker-accommodation-act-446"]
 keywords: ["forced labour malaysia", "section 90b employment act", "passport retention malaysia", "withhold release order malaysia", "atipsom", "recruitment fees migrant workers"]
+framework: rules
 ---
 
 2019 至 2022 年间，美国海关及边境保护局（CBP）封锁了八家马来西亚手套与棕油生产商的

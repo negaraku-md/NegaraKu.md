@@ -71,6 +71,7 @@ sources:
 
 related: ["1998-reformasi", "2018-change-of-government", "prime-ministers-of-malaysia", "mahathir-mohamad"]
 keywords: ["安华·依布拉欣", "马来西亚第十任首相", "烈火莫熄", "MADANI政府", "希望联盟"]
+framework: profile
 ---
 
 安华·依布拉欣（1947 年 8 月 10 日出生）是马来西亚**第十任首相**，自 2022 年

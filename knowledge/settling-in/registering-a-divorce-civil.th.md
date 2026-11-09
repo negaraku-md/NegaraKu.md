@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "getting-married-in-malaysia" }
 related: ["getting-divorced-in-malaysia", "getting-married-in-malaysia"]
 keywords: ["civil divorce Malaysia", "Law Reform Marriage and Divorce Act 1976", "Act 164", "marriage tribunal JPN", "decree nisi", "decree absolute", "joint petition divorce", "Section 106 conciliatory body", "non-Muslim divorce Malaysia"]
+framework: explainer
 ---
 
 คู่ที่ไม่ใช่มุสลิมที่จดทะเบียนการสมรสที่ JPN มักสันนิษฐานว่าสำนักงานเดียวกันสามารถยุติมันได้ ไม่สามารถ ในมาเลเซีย การสมรสทางแพ่งจดทะเบียนเชิงบริหาร แต่ยุติได้โดยคำสั่งศาลเท่านั้น — และเส้นทางจากการสมรสที่เหินห่างไปยังคำพิพากษาที่ประทับตราผ่านศาลไกล่เกลี่ยการปรองดอง คำร้องต่อศาลสูง และการหยุดชั่วคราวสามเดือนในตัวก่อนที่การหย่าจะเป็นที่สิ้นสุด

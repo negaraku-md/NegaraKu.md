@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-dialects", "chinese-clan-associations", "chinese-cemeteries", "chinese-new-villages", "population-composition"]
 keywords: ["帮群", "方言群", "籍贯", "福建帮", "广府帮", "客家帮", "潮州帮", "海南帮", "会馆", "义山", "马来西亚华人", "海南咖啡", "锡矿", "Chinese bang communities Malaysia"]
+framework: history-culture
 ---
 
 पीनांग की पुरानी गलियों में, दुकानों की पूरी एक क़तार को सँभालने वाले अधिकांशतः होक्कियेन लोगों के प्रतिष्ठान हैं; क्वालालंपुर और इपोह जैसे टिन से फले-फूले नगरों में खदानें और श्रेणियाँ कैंटोनी और हक्का लोगों से भरी रहती थीं; और आप किसी भी नगर में जाएँ, हाइनानी कॉफ़ी तथा मक्खन और कया लगी टोस्ट बेचने वाली पुरानी कॉफ़ी-दुकान के काउंटर के पीछे प्रायः एक हाइनानी ही खड़ा मिलता है।

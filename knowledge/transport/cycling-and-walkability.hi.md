@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "e-hailing-grab" }
 related: []
 keywords: ["मलेशिया में पैदल-चलने-योग्यता", "मलेशियाई शहरों में साइकिल चलाना", "मलेशिया में पैदल-यात्री बुनियादी ढाँचा", "KL पैदल-यात्री एवं साइकिल मास्टरप्लान", "मलेशिया में कार निर्भरता", "मलेशिया में सक्रिय गतिशीलता", "walkability Malaysia", "cycling Malaysia cities", "pedestrian infrastructure Malaysia", "KL Pedestrian and Cycling Masterplan", "car dependency Malaysia", "active mobility Malaysia"]
+framework: explainer
 ---
 
 क्लांग वैली की किसी LRT स्टेशन से दोपहर 1 बजे बाहर निकलिए और अपने दफ़्तर तक

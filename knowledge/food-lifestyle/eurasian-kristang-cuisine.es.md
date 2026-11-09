@@ -86,6 +86,7 @@ verificationNeeded:
   - "La historia de origen y la composición del feng/fongh (curry de vísceras, herencia marinera portuguesa y de recortes, asociación navideña) — cocineros de prestigio advierten que la historia es turbia y las versiones difieren; confírmese con una fuente culinaria o patrimonial Kristang."
   - "La etimología y la clasificación del pastel sugee (un pastel de celebración de sémola y mantequilla; el nombre se suele rastrear hasta la palabra surasiática para sémola y la receta se compara con el pastel Madeira británico) — confírmese con una fuente de historia culinaria."
   - "El año de fundación del Portuguese Settlement (indicado habitualmente como 1933) y la afirmación de que varios platos caseros como el pang susi y los de vísceras se están volviendo raros — confírmese con una fuente primaria o patrimonial."
+framework: history-culture
 ---
 
 Pide un curry en una cocina malaya de Melaka y saboreas coco y hierba de limón.

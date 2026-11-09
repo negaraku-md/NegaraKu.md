@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "asean-agreement-on-transboundary-haze-pollution" }
 related: []
 keywords: ["jerebu", "transboundary haze", "API", "Indeks Pencemar Udara", "Sumatera", "Kalimantan", "ASEAN", "Jabatan Alam Sekitar", "kualiti udara"]
+framework: explainer
 ---
 
 வறண்ட காலத்தில் பருவக்காற்று திசை மாறும் ஒவ்வொரு முறையும், க்லாங் பள்ளத்தாக்கு (Klang Valley), சரவாக் (Sarawak) மற்றும் தீபகற்பத்தின் பெரும்பகுதி மீதான வானம் சில நாட்களிலேயே சாம்பல் நிறமாக மாறிவிடும் — சூரியன் மங்கிப்போகிறது, புகையின் வாசனை வீடுகளுக்குள் நுழைகிறது, மேலும் தொலைபேசிகள் API எச்சரிக்கைகளுடன் ஒலிக்கின்றன. இதுவே எல்லை கடந்த புகைமூட்டம்: நாட்டுக்குள் முழுவதுமாக உற்பத்தி செய்யப்படாத, ஆனால் ஒவ்வொரு ஆண்டும் மில்லியன் கணக்கான மலேசியர்களால் சுவாசிக்கப்படும் மாசுபாடு.

@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "home-loan-financing" }
 related: []
 keywords: ["الإسكان الميسّر", "rumah mampu milik", "PR1MA", "Residensi Wilayah", "RUMAWIP", "Rumah Mesra Rakyat", "PPR", "Rumah Selangorku", "Residensi MADANI", "الإسكان الميسّر في ماليزيا"]
+framework: decision
 ---
 
 راتبك RM4,000 شهرياً، وسعر منزل مصفوف (terrace) في المدينة بلغ أصلاً نصف مليون رينغيت — فمن أين ينبغي أن تبدأ البحث أصلاً؟ الجواب ليس برنامجاً واحداً، بل قائمة من البرامج الحكومية يستهدف كلٌّ منها شريحة دخل مختلفة. واختيار البرنامج الخطأ يعني إهدار أشهر في انتظار قرعة على منزل لم تكن مؤهَّلاً له من الأساس.

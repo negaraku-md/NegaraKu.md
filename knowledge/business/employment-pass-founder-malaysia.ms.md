@@ -121,6 +121,7 @@ keywords:
   - "pas ekspatriat Malaysia pengarah"
   - "employment pass kategori I II III"
   - "pas penggajian Malaysia"
+framework: how-to
 ---
 
 Susunan operasi mengalahkan lebih ramai pengasas asing berbanding mana-mana satu peraturan tunggal.

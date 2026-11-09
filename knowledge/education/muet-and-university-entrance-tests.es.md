@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "stpm" }
 related: []
 keywords: ["MUET", "Majlis Peperiksaan Malaysia", "MPM", "band MUET", "kemasukan universiti", "STPM", "kemahiran bahasa Inggeris", "ijazah sarjana muda"]
+framework: explainer
 ---
 
 Puedes destacar en el STPM o en la matriculación, pero sin un resultado más tu formulario de solicitud de titulación sigue incompleto. Ese resultado es el MUET — y muchos estudiantes solo se dan cuenta de su importancia cuando la fecha límite de solicitud a la universidad ya está encima.

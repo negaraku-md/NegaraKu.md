@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "kaamatan" }
 related: ["languages-spoken", "sabah", "sarawak", "gawai-dayak", "kaamatan", "orang-asli"]
 keywords: ["اللغات الأصلية في صباح وساراواك", "indigenous languages Sabah Sarawak", "لغات بورنيو", "Kadazandusun language", "Dusunic", "Murutic", "Paitanic", "Iban language", "Bidayuh", "Melanau", "Orang Ulu", "Austronesian", "North Bornean languages", "Sama-Bajau"]
+framework: explainer
 ---
 
 حلّق فوق داخلية بورنيو تَعبُر في ساعة واحدة من اللغات أكثر مما تحويه معظم البلدان في مجموعها. فوادٍ نهري في مرتفعات صباح، وبيتٌ طويل على أعالي نهر بارام في ساراواك، وقريةُ صيدٍ ساحلية — قد يحيّيك كلٌّ منها بلسانٍ لا يكاد الوادي المجاور يفهمه.

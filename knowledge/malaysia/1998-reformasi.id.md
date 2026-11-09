@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["new-economic-policy", "13-may-1969", "independence-1957", "formation-of-malaysia-1963", "federal-constitution"]
 keywords: ["1998 Malaysia", "Asian Financial Crisis Malaysia", "capital controls", "ringgit peg RM3.80", "selective exchange controls", "Reformasi", "Anwar Ibrahim 1998", "National Economic Recovery Plan", "Danaharta", "Danamodal", "managed float 2005"]
+framework: history-culture
 ---
 
 Dalam kurun satu minggu saja pada bulan September 1998, Malaysia melakukan dua hal yang masing-masing akan diperdebatkan selama bertahun-tahun. Ia menutup pasar lepas pantai bagi mata uangnya sendiri dan mematok ringgit kepada dolar AS — satu langkah yang bertentangan dengan ortodoksi yang didesak oleh Dana Moneter Internasional atas kawasan ini. Dan ia memberhentikan seorang pria yang menyandang jabatan Wakil Perdana Menteri dan Menteri Keuangan sekaligus, memicu gerakan protes yang mengambil nama Reformasi.

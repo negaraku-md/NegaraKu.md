@@ -115,6 +115,7 @@ keywords:
   - "Selangor home business licence fee"
   - "Selangor council licensing"
   - "Port Klang TEU"
+framework: profile
 ---
 
 クアラルンプールには発行機関が一つしかない。それを取り囲むセランゴールには十二ある——シャアラムの工場、プタリンジャヤの店舗、アンパンジャヤの事務所は、それぞれ異なる三つの法規に管轄され、三つの異なる日に失効する。

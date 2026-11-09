@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "trade-descriptions-act-2011" }
 related: ["jakim"]
 keywords: ["pensijilan halal Malaysia", "SPHM", "JAKIM halal", "MYeHALAL", "MS 1500", "logo halal Malaysia", "sijil halal", "e-Cert halal", "Manual Prosedur Pensijilan Halal Malaysia", "skim pensijilan halal"]
+framework: how-to
 ---
 
 Logo halal berbentuk bintang bersudut delapan dengan tulisan Arab di tengahnya adalah salah satu tanda paling dikenal di rak pasar swalayan Malaysia — dan hanya satu pihak di seluruh negara yang berhak meletakkannya di situ. Bukan produsen produk, bukan penasihat swasta, dan bukan lembaga sertifikasi internasional mana pun, melainkan pemerintah sendiri, melalui JAKIM dan mitra sejawatnya di tingkat negara bagian.

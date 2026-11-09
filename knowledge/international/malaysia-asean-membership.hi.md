@@ -129,6 +129,7 @@ relations:
   - { rel: "related-to", to: "rcep-malaysia" }
 related: []
 keywords: ["ASEAN", "Malaysia ASEAN", "Deklarasi Bangkok", "Piagam ASEAN", "Komuniti ASEAN", "pengerusi ASEAN 2025", "Tun Abdul Razak", "Timor-Leste ASEAN"]
+framework: explainer
 ---
 
 8 अगस्त 1967 को, पाँच व्यक्ति बैंकॉक में विदेश मंत्रालय भवन के मुख्य हॉल में एकत्र हुए और एक दो-पृष्ठीय दस्तावेज़ पर हस्ताक्षर किए। उनमें से एक, मलेशिया के उप-प्रधानमंत्री तुन अब्दुल रज़ाक हुसैन, मलेशिया को एक ऐसे संगठन के भीतर रख रहे थे जो आगे चलकर लगभग छह दशकों तक देश की विदेश नीति का केंद्रीय ढाँचा बन गया — और एक ऐसा संगठन जिसकी अध्यक्षता मलेशिया ने स्वयं 2025 में की।

@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["majlis-raja-raja", "yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["الولايات الملكية في ماليزيا", "negeri beraja Malaysia", "الحكّام الملايو التسعة", "Majlis Raja-Raja", "مجلس الحكّام", "Sultan Raja Yang di-Pertuan Besar", "رئيس الدين الإسلامي في الولاية", "Yang di-Pertuan Agong", "Undang Yang Empat"]
+framework: explainer
 ---
 
 تضم ماليزيا ثلاث عشرة ولاية، لكن تسعاً منها فقط لها حاكم متوّج. أما الولايات الأربع الأخرى — ملقا (Melaka) وبينانغ (Penang) وصباح (Sabah) وساراواك (Sarawak) — فيرأسها حاكم ولاية مُعيَّن (Yang di-Pertua Negeri)، لا حاكم متوّج.

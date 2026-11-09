@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "energy-commission-malaysia" }
 related: ["petronas", "tenaga-nasional"]
 keywords: ["NETR", "National Energy Transition Roadmap", "Malaysia energy transition", "renewable energy Malaysia", "net zero 2050", "coal phase out Malaysia", "green hydrogen Malaysia", "CCUS Malaysia", "NETF seed fund", "ENEGEM"]
+framework: explainer
 ---
 
 For most of the last century, Malaysia's economic story ran on hydrocarbons — oil under the seabed, gas piped to power stations, and coal shipped in to keep the grid running cheaply. The National Energy Transition Roadmap (NETR) is the plan to rewrite that story before 2050, and it comes with hard numbers, named projects, and a trillion-ringgit price tag.

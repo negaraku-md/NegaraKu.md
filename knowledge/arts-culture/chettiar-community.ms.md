@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "thaipusam", "hinduism-in-malaysia", "estate-tamil-community"]
 keywords: ["செட்டியார் சமூகம்", "நாட்டுக்கோட்டை நகரத்தார்", "நகரத்தார் மலேசியா", "செட்டிநாடு", "கிட்டங்கி", "பினாங்கு செட்டியார் கோயில்", "Chettiar community Malaysia", "Nattukottai Chettiar", "Nagarathar"]
+framework: history-culture
 ---
 
 Pada hari Thaipusam di Pulau Pinang, sebuah rata yang megah diperbuat daripada perak akan bertolak dari Lebuh Penang menuju ke kuil Murugan di atas bukit. Rata itu, dan komuniti yang telah menjalankannya selama lebih seabad, bukanlah sesuatu yang kebetulan — kedua-duanya menceritakan kisah satu tradisi perniagaan-perbankan yang menempuh perjalanan dari Chettinad ke Tanah Melayu.

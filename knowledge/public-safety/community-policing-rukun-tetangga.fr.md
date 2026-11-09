@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "jkkk-village-safety-committee" }
 related: ["pdrm"]
 keywords: ["rukun tetangga", "dispositif de patrouilles volontaires", "skim rondaan sukarela", "SRS", "KRT", "police de proximité", "JPNIN", "Akta 751", "sécurité de quartier"]
+framework: explainer
 ---
 
 Les lampadaires nocturnes d'un lotissement sont souvent en partie masqués par les silhouettes de deux ou trois personnes à vélo ou à pied, lampes torches à la main — des voisins qui patrouillent dans leur propre quartier. Ce ne sont pas des policiers. Ce sont des membres du Dispositif de patrouilles volontaires, et ils représentent la première couche de prévention de la criminalité dans la plupart des quartiers malaisiens : une communauté qui veille sur sa propre communauté, en continu et aux côtés de la Police royale de Malaisie (PDRM).

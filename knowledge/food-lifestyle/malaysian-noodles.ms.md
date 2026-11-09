@@ -97,6 +97,7 @@ verificationNeeded:
   - "Atribusi komuniti pan mee kepada tukang masak Hakka dan loh shi fun/lai fun kepada kumpulan dialek tertentu — lazimnya diulang dalam penulisan makanan tetapi tidak didokumenkan secara konsisten; sahkan dengan sumber kulinari atau warisan tempatan."
   - "Sama ada 'mee hoon'/'mihun' dan 'bihun' digunakan secara bertukar ganti di seluruh Malaysia, atau sama ada penggunaan wilayah membezakannya — sahkan terhadap kamus Malaysia atau sumber kajian makanan."
   - "Dakwaan bahawa kebanyakan lembar mi Malaysia berasal daripada selatan China (Hokkien, Teochew, Kantonis, Hakka) yang disesuaikan secara tempatan — diterima secara meluas tetapi sahkan atribusi khusus dengan rujukan sejarah makanan dan bukan media makanan."
+framework: explainer
 ---
 
 Minta "mi" di kedai kopi Malaysia dan soalan seterusnya hampir selalu satu

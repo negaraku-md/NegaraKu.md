@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "having-a-baby-in-malaysia" }
 related: ["klinik-kesihatan", "having-a-baby-in-malaysia"]
 keywords: ["imunisasi kanak-kanak Malaysia", "Jadual Imunisasi Kebangsaan", "Program Imunisasi Kebangsaan KKM", "vaksin percuma klinik kesihatan", "buku rekod kesihatan bayi dan kanak-kanak", "vaksin kanak-kanak KKM", "Immunise4Life Malaysia", "imunisasi percuma Malaysia"]
+framework: explainer
 ---
 
 Setiap bayi yang lahir di klinik atau rumah sakit pemerintah Malaysia pulang dengan lebih dari sekadar akta kelahiran sementara — mereka pulang dengan sebuah buku kecil yang akan dibawa ke *setiap* kunjungan klinik untuk enam tahun ke depan. Buku itu, dan jadwal suntikan yang direkamnya, adalah bagian dari salah satu program kesehatan publik yang paling lama berjalan di negara ini.

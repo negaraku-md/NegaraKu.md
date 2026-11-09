@@ -95,6 +95,7 @@ keywords:
   - "Malaysian rice dish"
 social:
   hashtags: ["#NasiKandar", "#Penang", "#Mamak", "#MalaysianFood", "#Banjir", "#GeorgeTown"]
+framework: explainer
 ---
 
 페낭에서 누군가에게 밤늦게 어디서 먹을 수 있냐고 물으면, 답은 흔히 두 단어로 돌아

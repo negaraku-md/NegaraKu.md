@@ -107,6 +107,7 @@ relations:
   - { rel: "compares-with", to: "capital-allowances" }
 related: ["double-deduction-list", "capital-allowances", "section-33-deductibility", "tax-incentives-directory"]
 keywords: ["approved research allowance malaysia", "r&d double deduction malaysia", "section 34a income tax act", "section 34b double deduction", "r&d status mida", "borang 1 r&d lhdn"]
+framework: explainer
 ---
 
 ถามที่ปรึกษาสามคนเกี่ยวกับเงินหักลดหย่อนการวิจัยที่ได้รับอนุมัติ แล้วคุณจะได้คำตอบสามแบบ เพราะ

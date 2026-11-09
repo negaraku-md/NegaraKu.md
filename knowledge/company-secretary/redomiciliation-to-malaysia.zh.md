@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "labuan-company-formation" }
 related: []
 keywords: ["redomiciliation", "re-domiciliation", "continuance", "Labuan", "Labuan Companies Act 1990", "section 16", "foreign company", "domicile", "Companies Act 2016", "Labuan FSA"]
+framework: explainer
 ---
 
 一家想要成为马来西亚公司、却又不愿在海外解散并从头再来的公司，进入这个国家只有一扇门——而这扇门并不通向半岛。

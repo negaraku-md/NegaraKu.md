@@ -71,6 +71,7 @@ relations:
   - { rel: "administered-by", to: "malaysian-institute-of-accountants" }
 related: ["malaysian-institute-of-accountants"]
 keywords: ["materiality", "audit sampling", "ISA 320", "ISA 530", "ISA 450", "performance materiality", "tolerable misstatement", "statutory audit Malaysia"]
+framework: explainer
 ---
 
 一組の会計帳簿に署名する監査人は、その背後にあるすべての取引にほとんど目を通したことがない——そして基準は、それこそが正しい働き方だと述べている。

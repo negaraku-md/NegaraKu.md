@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["new-economic-policy", "13-may-1969", "independence-1957", "formation-of-malaysia-1963", "federal-constitution"]
 keywords: ["1998 Malaysia", "Asian Financial Crisis Malaysia", "capital controls", "ringgit peg RM3.80", "selective exchange controls", "Reformasi", "Anwar Ibrahim 1998", "National Economic Recovery Plan", "Danaharta", "Danamodal", "managed float 2005"]
+framework: history-culture
 ---
 
 ภายในสัปดาห์เดียวของเดือนกันยายน 1998 มาเลเซียได้ทำสองสิ่งซึ่งแต่ละอย่างจะถูกถกเถียงกันไปอีกหลายปี ประเทศได้ปิดตลาดนอกประเทศสำหรับสกุลเงินของตนเองและตรึงค่าเงินริงกิตกับดอลลาร์สหรัฐ อันเป็นการแหวกแนวจากแนวคิดกระแสหลักที่กองทุนการเงินระหว่างประเทศ (International Monetary Fund) กำลังกระตุ้นให้ภูมิภาคปฏิบัติตาม และประเทศได้ปลดชายผู้ดำรงตำแหน่งทั้งรองนายกรัฐมนตรีและรัฐมนตรีว่าการกระทรวงการคลัง อันเป็นชนวนของขบวนการประท้วงที่ใช้ชื่อว่าเรฟอร์มาซี (Reformasi)

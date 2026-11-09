@@ -74,6 +74,7 @@ keywords:
   - "cabutan sijil kelahiran"
   - "JPN.LM01"
   - "JPN.LM12"
+framework: how-to
 ---
 
 Muchos padres primerizos tratan el registro del nacimiento de su hijo como

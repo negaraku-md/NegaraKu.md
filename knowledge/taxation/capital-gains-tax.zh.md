@@ -90,6 +90,7 @@ relations:
   - { rel: "explained-in", to: "capital-or-revenue" }
 related: ["capital-or-revenue", "rpgt-rates", "corporate-tax-rates", "income-tax-act-1967"]
 keywords: ["capital gains tax Malaysia", "CGT unlisted shares", "cukai keuntungan modal", "e-CKM", "section 15C", "2% gross disposal price"]
+framework: explainer
 ---
 
 五十七年来，马来西亚对收入课税，放过资本。那件事在 2024 年 1 月 1 日结束，而取代旧有确定性的这项税，至今仍是整个税制中文件最单薄的一项课税——包括每个卖方最先问的那个问题，也就是该缴 10% 还是 2%。

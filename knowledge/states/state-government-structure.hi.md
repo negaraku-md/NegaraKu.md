@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-state-division" }
 related: ["rulers-and-governors", "state-assemblies-dun", "kabinet-perdana-menteri", "three-tiers-of-government", "federal-state-division", "sabah-sarawak-safeguards"]
 keywords: ["राज्य सरकार मलेशिया", "state government Malaysia", "Menteri Besar", "मुख्यमंत्री मलेशिया", "Chief Minister Malaysia", "राज्य कार्यकारी परिषद", "EXCO", "Dewan Undangan Negeri", "राज्य सभा मलेशिया", "Yang di-Pertua Negeri", "आठवीं अनुसूची", "नौवीं अनुसूची", "State List", "Federal Constitution Malaysia"]
+framework: explainer
 ---
 
 इस्ताना नेगारा को हटा दीजिए, प्रधानमंत्री का नाम बदल दीजिए, और संसद को सिकोड़कर एक ही सदन कर दीजिए — और आप एक मलेशियाई राज्य सरकार को देख रहे हैं। सभी 13 राज्य संघीय प्रणाली की एक लघुकृत प्रतिकृति पर चलते हैं: एक राज्य-प्रमुख जो शासन किए बिना राज करता है, एक सरकार-प्रमुख जो इसलिए चुना गया क्योंकि वह बहुमत का विश्वास प्राप्त कर सकता है, एक कार्यकारी परिषद जो निर्वाचित सदस्यों के प्रति सामूहिक रूप से जवाबदेह है, और एक विधानमंडल जिसे भंग करके मतदाताओं के पास वापस भेजा जा सकता है। पदनाम राज्य-दर-राज्य बदलते हैं। खाका नहीं बदलता।

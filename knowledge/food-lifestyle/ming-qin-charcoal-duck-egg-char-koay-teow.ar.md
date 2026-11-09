@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#MingQin", "#CharKoayTeow", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 على برّ بينانغ في Bukit Mertajam، نال كشك نودلز مسائي بسيط Bib Gourmand من

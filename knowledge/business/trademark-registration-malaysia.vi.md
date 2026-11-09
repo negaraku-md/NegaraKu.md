@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["trademark-classes-fees-malaysia", "ip-ownership-malaysia", "company-name-search-ssm"]
 keywords: ["trademark registration malaysia", "myipo trademark", "trademark fee malaysia", "trademarks act 2019", "madrid protocol malaysia", "register trademark malaysia"]
+framework: explainer
 ---
 
 Việc đặt trước một tên công ty tại SSM không bảo hộ điều gì cả. Nó ngăn một công ty khác

@@ -101,6 +101,7 @@ relations:
   - { rel: "requires", to: "annual-return" }
 related: ["close-a-company", "members-voluntary-winding-up", "creditors-voluntary-winding-up", "ssm-fees-malaysia", "annual-return"]
 keywords: ["شطب شركة ماليزيا", "المادة 550 قانون الشركات 2016", "إعادة القيد المادة 555", "إغلاق شركة SSM", "إلغاء تسجيل Sdn Bhd", "إرشادات الشطب SSM", "strike off company malaysia", "section 550 companies act 2016", "section 555 reinstatement"]
+framework: explainer
 ---
 
 معظم من يسألون كيف يشطبون شركة إنما يسألون في الحقيقة كيف يتوقفون عن الدفع مقابلها. وهذا هدف معقول، والشطب أرخص سبيل لبلوغه — RM100، بلا مصفٍّ، بلا حسابات ختامية. وهو أيضاً المسار الذي ترفضه SSM أكثر من غيره، لأن الشروط العشرة في إرشادات المسجّل أشد صرامةً من الاثنين أو الثلاثة التي تتداول على الإنترنت.

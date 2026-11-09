@@ -53,6 +53,7 @@ relations:
   - { rel: "related-to", to: "healthcare-for-seniors" }
 related: ["medical-insurance", "healthcare-for-seniors"]
 keywords: ["beli ubat Malaysia", "farmasi Malaysia", "Akta Racun 1952", "ubat preskripsi", "ubat bebas", "Poisons Act 1952", "ahli farmasi berdaftar", "racun Kumpulan B", "Quest3+", "NPRA"]
+framework: explainer
 ---
 
 ลูกค้าคนหนึ่งขอยาแก้ไอที่เคาน์เตอร์ร้านยาและได้รับบริการทันที อีกคนขอยาปฏิชีวนะสำหรับอาการเจ็บคอและถูกขอให้แสดงใบสั่งแพทย์ก่อน ทั้งสองธุรกรรมเกิดขึ้นที่ร้านยาเดียวกันในวันเดียวกัน — ความแตกต่างอยู่ที่กฎหมายที่จัดประเภทยานั้น ไม่ใช่ที่ดุลพินิจของเภสัชกร

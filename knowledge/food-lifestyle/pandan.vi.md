@@ -92,6 +92,7 @@ verificationNeeded:
   - "Danh xưng 'vani của Đông Nam Á' là một cách đóng khung ẩm thực phổ biến, không phải một mối quan hệ thực vật học (pandan và vani là những loài cây không liên quan); hãy xác nhận cách diễn đạt với tài liệu tham khảo về thực vật học hoặc ẩm thực nếu cần sự chính xác."
   - "Nguồn gốc của bánh pandan / chiffon pandan (được quy theo nhiều cách cho nghề làm bánh ở Đông Ấn Hà Lan và cho bánh chiffon Mỹ thế kỷ 20 qua CNN) — hãy xác nhận với một nguồn lịch sử ẩm thực chứ không phải truyền thông tin tức hay công thức nấu ăn."
   - "Những đặc tính sức khỏe hoặc dược tính thường được nêu của pandan — nhiều lời tuyên bố dân gian đang lưu truyền và chưa được xác lập ở đây; hãy xác nhận bất kỳ tuyên bố nào như vậy với nguồn được bình duyệt hoặc lâm sàng trước khi nêu ra."
+framework: explainer
 ---
 
 Nhấc nắp một nồi cơm nước cốt dừa trong căn bếp Malaysia, điều đầu tiên bạn nhận ra không

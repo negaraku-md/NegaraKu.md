@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "dta-network" }
 related: ["company-tax-residence", "dta-network", "withholding-tax-rates"]
 keywords: ["sijil taraf mastautin Malaysia", "e-Residence LHDN", "certificate of residence Malaysia", "COR cukai Malaysia", "Form STM1"]
+framework: how-to
 ---
 
 Sijil ini bukan bukti bahawa anda seorang warganegara Malaysia. Ia adalah bukti

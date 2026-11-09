@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["federal-constitution", "independence-1957", "formation-of-malaysia-1963", "parliament"]
 keywords: ["Rukun Negara", "lima prinsip Rukun Negara", "ikrar Rukun Negara", "Majlis Perundingan Negara", "MAGERAN", "Pengisytiharan Diraja 1970"]
+framework: history-culture
 ---
 
 マレーシア国家公文書館（Arkib Negara Malaysia）のルクンヌガラ委員会ファイル（Fail Jawatankuasa Rukun Negara）には、1970年3月19日付の一通の書簡が収められている。それは、ルクンヌガラ委員会の第1回会議が1970年3月31日午前10時、マレーシア財務省行動室（Bilik Gerakan）にて開催されることを知らせるものであった。配布名簿には13名の名前が記載されており、さらに4名が写しを受け取った。

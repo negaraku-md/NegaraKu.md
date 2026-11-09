@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "malaysian-street-food" }
 related: []
 keywords: ["pasar malam", "pasar tani", "pasar basah", "street food", "FAMA", "gred kebersihan premis makanan", "penjaja"]
+framework: explainer
 ---
 
 மாலை சாய்ந்ததும், அமைதியாக இருந்த ஒரு தெரு திடீரென சதே புகை, குவிந்த பழங்கள், மற்றும் வரிசையான ஒளிர் விளக்குகள் நிறைந்த ஒரு சந்தாக மாறிவிடுகிறது — இதுதான் pasar malam, மலேசியாவின் மிக மக்கள் சார்ந்த நிறுவனங்களில் ஒன்று. Pasar tani மற்றும் ஈரச் சந்தையுடன் (pasar basah) சேர்ந்து, இது மலேசியர்கள் தினமும் பொருள் வாங்கி உண்ணும் மக்கள் சந்தை வலையமைப்பை உருவாக்குகிறது.

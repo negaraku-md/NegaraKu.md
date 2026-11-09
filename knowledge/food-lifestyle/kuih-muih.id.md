@@ -91,6 +91,7 @@ verificationNeeded:
   - "Etimologi 'kuih' (umumnya ditelusuri ke koé, 粿, dalam bahasa Min Selatan / Hokkien) — konfirmasikan dengan sumber linguistik atau leksikografis, bukan media kuliner."
   - "Pengaitan regional kuih manis versus gurih ke negeri tertentu (mis. lebih manis di negeri utara, lebih banyak kuih gurih di semenanjung tengah dan selatan) — dilaporkan Wikipedia tetapi layak dikonfirmasi dengan sumber warisan kuliner Malaysia."
   - "Apakah 'onde-onde' dan 'buah melaka' menamai kuih yang persis sama atau varian regional — penggunaannya beragam dan sumber tidak sepenuhnya konsisten; konfirmasikan dengan sumber lokal."
+framework: history-culture
 ---
 
 Lewatlah di depan gerai kuih pada pagi hari dan pajangannya tampak seperti kotak

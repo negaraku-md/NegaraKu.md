@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "asean-agreement-on-transboundary-haze-pollution" }
 related: []
 keywords: ["brume", "transboundary haze", "API", "Indice des polluants atmosphériques", "Sumatra", "Kalimantan", "ASEAN", "Département de l'environnement", "qualité de l'air", "haze"]
+framework: explainer
 ---
 
 Chaque fois que les vents de mousson changent de direction pendant la saison sèche, les ciels au-dessus de la vallée de Klang, de Sarawak et d'une grande partie de la Péninsule peuvent virer au gris en quelques jours — le soleil s'estompe, l'odeur de fumée s'infiltre dans les foyers et les téléphones vibrent d'alertes API. C'est la brume transfrontalière : une pollution qui n'est pas entièrement produite à l'intérieur du pays, mais que respirent chaque année des millions de Malaisiens.

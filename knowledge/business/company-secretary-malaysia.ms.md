@@ -106,6 +106,7 @@ keywords:
   - "seksyen 236 Akta Syarikat 2016"
   - "adakah saya perlu setiausaha syarikat"
   - "keperluan setiausaha syarikat Malaysia"
+framework: explainer
 ---
 
 Hampir semua yang ditulis mengenai setiausaha syarikat di Malaysia ditulis oleh

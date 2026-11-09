@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "peka-b40" }
 related: ["dental-care"]
 keywords: ["Klinik Kesihatan Malaysia", "klinik kerajaan Malaysia", "MySejahtera temujanji klinik", "PeKa B40", "penjagaan kesihatan primer Malaysia", "KKM klinik kesihatan", "klinik komuniti vs klinik kesihatan", "cara daftar klinik kesihatan"]
+framework: explainer
 ---
 
 열이 내리지 않거나, 아이가 예방접종을 받아야 하거나, 혈압을 매달 관리해야 할 때 — 가장 먼저 떠오르는 질문은 대개 '무슨 치료를 받아야 하나'가 아니라 '어느 클리닉에 가야 하나'입니다. 민간 클리닉은 빠르지만 비쌉니다. 정부 병원은 사소한 문제로 가기에는 붐빕니다. 그리고 '정부 클리닉'이라는 것 자체가 실은 한 종류의 시설이 아닙니다 — 많은 사람이 클리닉 크시하탄, 클리닉 코무니티, 치과 클리닉이 같은 지붕 아래 있는 세 개의 별개 시설이라는 점을 알지 못합니다.

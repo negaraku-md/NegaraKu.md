@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "personal-income-tax" }
 related: ["real-property-gains-tax"]
 keywords: ["inheritance tax Malaysia", "estate duty Malaysia", "no inheritance tax", "deceased estate income tax", "RPGT inherited property", "stamp duty inheritance", "executor tax Malaysia", "death tax Malaysia"]
+framework: explainer
 ---
 
 부모가 쿠알라룸푸르(Kuala Lumpur)에서 사망하며 집과 약간의 저축을 남기면, 가족의 첫 걱정은 흔히 상속 자체에 대한 세금 고지서입니다. 말레이시아에서 그 특정한 고지서는 존재하지 않습니다. 상속세도, 상속재산세도, 누군가 남긴 재산에 대한 사망세도 없습니다.

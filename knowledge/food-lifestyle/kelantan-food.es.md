@@ -91,6 +91,7 @@ verificationNeeded:
   - "El folclore de que el nasi tumpang se creó como comida portátil para campesinos, pescadores y viajeros, y su supuesta antigüedad: Wikipedia lo enmarca como folclore; confírmese con una fuente patrimonial de Kelantan."
   - "Si el solok lada se rellena con pescado o con coco joven rallado: las fuentes de referencia (incluida la propia Wikipedia) no son coherentes; confírmese con una receta local o una fuente culinaria."
   - "El periodo exacto de fermentación del budu (las fuentes de referencia citan unos 140–200 días, una cifra marcada como necesitada de cita) y el detalle de que el Pasar Besar Siti Khadijah de Kota Bharu está regido en gran parte por comerciantes mujeres: confírmese con una fuente de ciencia de los alimentos y con una fuente de mercado/patrimonio, respectivamente."
+framework: history-culture
 ---
 
 Cruza el río Kelantan (Sungai Kelantan) hacia Kota Bharu y la comida cambia de

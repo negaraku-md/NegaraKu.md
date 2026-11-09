@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "unesco-world-heritage" }
 related: ["wayang-kulit", "mak-yong", "unesco-world-heritage"]
 keywords: ["华人大戏", "酬神戏", "粤剧 马来西亚", "潮剧 马来西亚", "闽剧", "歌仔戏", "布袋戏", "潮州铁枝木偶", "槟城 中元节", "Chinese opera Malaysia", "Wayang Cina"]
+framework: history-culture
 ---
 
 Les gongs et les tambours démarrent, les manches d'eau (水袖) ondoient sur scène, et les sièges du public, en contrebas, ne contiennent souvent qu'une poignée de personnes, parfois pas une seule. Ce n'est pas une représentation ratée, car le spectacle n'a jamais été conçu, au départ, pour des yeux humains.

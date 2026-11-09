@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "terengganu-turtle-enactment" }
 related: []
 keywords: ["penyu", "penyu belimbing", "Rantau Abang", "taman laut", "Akta Perikanan 1985", "Enakmen Penyu Terengganu", "pemuliharaan marin", "telur penyu"]
+framework: explainer
 ---
 
 ในช่วงปลายทศวรรษ 1960 เต่ามะเฟืองตัวเมียราว 2,000 ตัวขึ้นฝั่งทุกปีที่ชายหาดแห่งหนึ่งใน Rantau Abang ตรังกานู ทิ้งไข่ไว้เกือบ 10,000 รังบนทราย ในปัจจุบัน ไม่มีแม้แต่ตัวเดียว เรื่องราวการเสื่อมถอยนั้นเป็นหนึ่งในความล้มเหลวด้านการอนุรักษ์สัตว์ป่าที่ชัดเจนที่สุดในภูมิภาค และมันหล่อหลอมวิธีที่มาเลเซียคุ้มครองเต่าจนถึงปัจจุบัน

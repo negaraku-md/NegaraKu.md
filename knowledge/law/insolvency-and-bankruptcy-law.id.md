@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016", "contracts-act-1950", "court-hierarchy"]
 keywords: ["bankruptcy Malaysia", "insolvency act 1967", "winding up company Malaysia", "judicial management", "department of insolvency", "RM100000 bankruptcy threshold", "social guarantor", "discharge from bankruptcy"]
+framework: explainer
 ---
 
 Berutang di Malaysia, dengan sendirinya, tidak cukup untuk menyebabkan seseorang dipailitkan. Utang itu harus besar, kreditor harus mengikuti satu proses pengadilan yang khusus, dan — jika Anda hanya pernah menjamin pinjaman studi seorang teman atau rumah keluarga Anda — undang-undang mungkin melindungi Anda sepenuhnya. Malaysia menjalankan dua rezim insolvensi yang terpisah: satu untuk orang, satu untuk perusahaan. Mengetahui rezim mana Anda berada, dan apa yang diperbolehkan oleh masing-masing, mengubah segalanya.

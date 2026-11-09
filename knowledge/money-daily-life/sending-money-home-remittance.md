@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["bank-negara-malaysia", "payment-regulation-malaysia", "opening-bank-account"]
 keywords: ["send money home Malaysia", "remittance Malaysia", "licensed money services business Malaysia", "Bank Negara Malaysia remittance", "Money Services Business Act 2011", "MSB licence Malaysia", "foreign worker remittance Malaysia", "BNMTELELINK"]
+framework: explainer
 ---
 
 Walk down a row of shoplots in almost any Malaysian town with a large migrant

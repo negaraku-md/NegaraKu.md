@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["service-tax-act-2018", "withholding-tax-digital-services", "low-value-goods-sales-tax", "sst-registration"]
 keywords: ["service tax on digital services", "SToDS Malaysia", "digital service tax Malaysia 8%", "foreign registered person FRP", "MySToDS DST-01 DST-02", "cukai perkhidmatan digital", "foreign SaaS tax Malaysia", "online services service tax"]
+framework: explainer
 ---
 
 البند في إيصال Netflix، والضريبة على فاتورة AWS الخاصة بشركتك، والرينغيتات القليلة الزائدة على اشتراك Canva أو Adobe — كل ذلك ضريبة ماليزية واحدة بعينها وهي تعمل، ولها اسم لم يسمع به معظم الناس قط: SToDS.

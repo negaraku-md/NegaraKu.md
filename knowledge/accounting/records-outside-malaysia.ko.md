@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-accounting-records" }
 related: ["accounting-records-section-245"]
 keywords: ["accounting records outside Malaysia", "section 245(5) Companies Act", "cloud accounting records Malaysia", "shared service centre records Malaysia", "keep records in Malaysia LHDN"]
+framework: rules
 ---
 
 싱가포르 데이터 센터에서 SAP를 운영하고, 재무 기능이 쿠알라룸푸르-마닐라 공유 서비스 방식에

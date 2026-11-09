@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "unaudited-financial-statements" }
 related: ["companies-act-2016"]
 keywords: ["pengecualian audit", "audit exemption", "PD 10/2024", "Arahan Amalan 10/2024", "Sdn Bhd", "syarikat persendirian", "SSM", "seksyen 267", "penyata kewangan tidak diaudit"]
+framework: rules
 ---
 
 For years, nearly every Sdn Bhd in Malaysia was forced to appoint an auditor — regardless of whether it was a one-person retail shop or a factory. At the end of 2023, there were 666,767 active companies but only 1,919 approved auditors to sign off their accounts. SSM Practice Directive 10/2024 changes that: from financial year 2025, hundreds of thousands of small companies can skip the statutory audit entirely — if they meet the criteria.

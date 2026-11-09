@@ -72,6 +72,7 @@ social:
     - NGO
     - Persatuan
     - CivilSociety
+framework: how-to
 ---
 
 Sept amis qui veulent animer une association de résidents, un groupe d'anciens élèves, un club sportif, un organisme religieux ou une ONG de bienfaisance se tournent tous vers le même véhicule juridique en Malaisie : la **société**, ou *persatuan*. C'est la structure d'adhésion à but non lucratif par défaut du pays — peu coûteuse à constituer et faiblement capitalisée — mais elle relève de sa propre loi, la Societies Act 1966, et de son propre régulateur, et une erreur de paperasse peut vous laisser à la tête d'un organisme *illégal* sans que vous vous en rendiez compte.

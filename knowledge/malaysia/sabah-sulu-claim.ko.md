@@ -94,6 +94,7 @@ relations:
   - { rel: "located-in", to: "sabah" }
 related: ["sabah"]
 keywords: ["Sabah claim", "Sulu Sultanate", "Lahad Datu", "1878 agreement", "North Borneo", "Sulu arbitration", "Philippines Sabah"]
+framework: explainer
 ---
 
 1878년 식민 시대의 계약서에 적힌 말레이어 한 단어가, 지금도 살아 있는 외교 분쟁과 2013년의 치명적인 무장 침투, 그리고 마드리드·룩셈부르크·헤이그·파리의 법정에까지 이른 수십억 달러 규모의 중재를 여전히 좌우합니다. 그 단어는 *파자크(padjak)*이며, 그것이 어떻게 번역되는가가 사바(Sabah)가 임대된 것인가 양도된 것인가를 가르는 핵심에 놓여 있습니다.

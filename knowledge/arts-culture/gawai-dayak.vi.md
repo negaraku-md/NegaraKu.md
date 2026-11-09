@@ -77,6 +77,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["kaamatan", "sarawak"]
 keywords: ["Gawai Dayak", "Hari Gawai", "harvest festival Sarawak", "Dayak", "Iban", "Bidayuh", "Orang Ulu", "miring", "ngajat", "tuak", "Tuai Rumah", "Gayu Guru Gerai Nyamai"]
+framework: history-culture
 ---
 
 Đồng hồ chưa điểm nửa đêm của ngày cuối tháng 5, và trong một ngôi nhà dài đâu đó dọc một con sông ở Sarawak, chiếc cồng đang chờ. Lúa đã về. Hành lang đã được quét dọn và trải những tấm chiếu mới. Một hũ tuak đã sẵn sàng. Khi chiếc cồng cuối cùng vang lên, trưởng nhà dài sẽ nâng một chén rượu, và mọi người dọc theo hiên chung dài ấy sẽ cùng uống mừng ba điều: trường thọ, khỏe mạnh, thịnh vượng.

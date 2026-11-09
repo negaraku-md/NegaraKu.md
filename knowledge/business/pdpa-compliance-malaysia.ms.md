@@ -139,6 +139,7 @@ relations:
   - { rel: "explained-in", to: "pdpa-registration-classes" }
 related: ["online-business-licence-malaysia"]
 keywords: ["pdpa malaysia", "personal data protection act 2010", "act a1727", "data controller malaysia", "pdpa amendment 2024", "pdpa compliance"]
+framework: rules
 ---
 
 Jika notis privasi anda masih menyebut “pengguna data”, ia sedang menerangkan satu kategori orang yang telah berhenti wujud pada 1 April 2025.

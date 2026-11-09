@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
 related: ["spr-election-commission", "dewan-rakyat", "how-elections-work", "federal-constitution", "independence-1957"]
 keywords: ["14th general election", "GE14", "PRU14", "2018 Malaysian general election", "change of government Malaysia", "Pakatan Harapan", "Barisan Nasional", "Dewan Rakyat 222 seats", "Article 43 Federal Constitution", "Mahathir seventh Prime Minister"]
+framework: history-culture
 ---
 
 1957年の独立後最初の連邦選挙から2018年までの61年間、マレーシアの歴代連邦政府はすべて一つの連立——[アライアンス](/malaysia/the-alliance)、そして1970年代からはその後継である[バリサン・ナショナル](/malaysia/barisan-nasional)——によって組成されてきた。第14回総選挙において、この連続性は終わった：異なる連立が下院の議席の過半数を獲得したのである。

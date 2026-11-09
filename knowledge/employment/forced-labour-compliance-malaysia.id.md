@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "worker-accommodation-act-446" }
 related: ["hiring-foreign-workers-malaysia", "worker-accommodation-act-446"]
 keywords: ["buruh paksa malaysia", "seksyen 90b akta kerja", "penahanan pasport malaysia", "withhold release order malaysia", "atipsom", "yuran pengambilan pekerja migran"]
+framework: rules
 ---
 
 Antara 2019 dan 2022, US Customs and Border Protection (CBP) memblokir impor dari delapan produsen sarung tangan dan minyak sawit Malaysia. Perusahaan-perusahaan membayar kembali lebih dari USD85 juta dalam gaji yang ditahan untuk mendapatkan blokir itu dilepaskan. Itulah realitas komersial kepatuhan kerja paksa di Malaysia, dan itulah sebabnya ini adalah persoalan perdagangan sebelum ia menjadi persoalan HR.

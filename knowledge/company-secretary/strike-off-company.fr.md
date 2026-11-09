@@ -75,6 +75,7 @@ relations:
   - { rel: "compares-with", to: "members-voluntary-winding-up" }
 related: ["companies-act-2016", "ssm", "members-voluntary-winding-up"]
 keywords: ["strike off syarikat", "seksyen 550 Akta Syarikat 2016", "potong nama syarikat SSM", "syarikat dorman", "pembubaran syarikat", "voluntary dissolution Malaysia"]
+framework: how-to
 ---
 
 Une société dormante qui a cessé toute activité depuis longtemps reste juridiquement « vivante » : elle doit encore déposer des déclarations annuelles, reste exposée à des sanctions, et ses directeurs continuent de porter des responsabilités envers SSM. Radier le nom de la société du registre est la manière officielle de mettre fin à cette existence, mais elle n'est ouverte qu'aux sociétés véritablement nettes d'actifs, de dettes et de litiges.

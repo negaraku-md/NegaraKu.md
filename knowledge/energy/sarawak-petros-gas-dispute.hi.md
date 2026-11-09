@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "malaysia-agreement-1963" }
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["Petros", "Sarawak", "gas", "agregator gas", "Ordinan Pengagihan Gas 2016", "Ordinan Pengagihan Gas (Pindaan) 2023", "Petronas", "Akta Kemajuan Petroleum 1974", "MA63"]
+framework: explainer
 ---
 
 कुआलालंपुर में एक वार्ता की मेज़ पर, दो सरकारी-स्वामित्व वाली ऊर्जा इकाइयाँ — एक संघीय, एक राज्य — इस पर सहमत होने का प्रयास कर रही थीं कि सारावाक में गैस के प्रवाह को कौन नियंत्रित करता है। इसके पीछे एक बड़ा प्रश्न था: जब राज्य के अधिकार और संघीय शक्तियाँ टकराती हैं, तो कौन-सा कानून अभिभावी होता है?

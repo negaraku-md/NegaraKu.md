@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["formation-of-malaysia-1963", "singapore-separation-1965", "ma63"]
 keywords: ["Konfrontasi", "Konfrontasi Indonesia Malaysia", "Ganyang Malaysia", "Perjanjian Jakarta 1966", "pembentukan Malaysia 1963", "Sukarno Suharto"]
+framework: history-culture
 ---
 
 马来西亚于1963年9月16日诞生，来到的却是一个并不以和平相迎的区域。一个大得多的邻国早已宣布反对，短短数月之内，婆罗洲的新边界便成为一场从未被正式宣布为战争、却持续将近四年的武装冲突的前线。这场冲突被称为Konfrontasi。

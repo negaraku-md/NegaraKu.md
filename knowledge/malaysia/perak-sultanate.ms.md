@@ -62,6 +62,7 @@ social:
 verificationNeeded:
   - "Tarikh tepat sistem penggiliran gelaran-takhta mula ditubuhkan: sumber naratif menjejaki asal usulnya kepada abad ke-17 tetapi tidak memberikan satu tarikh pengasasan berwibawa tunggal; susunan moden bersandarkan satu ketetapan bertarikh 25 Februari 1953."
   - "Tahun pengasasan tepat lazimnya diberikan sebagai 1528 (tahun Mahmud Shah Melaka mangkat di Kampar), tetapi sesetengah salasilah meletakkan pertabalan Muzaffar Shah I beberapa tahun lebih awal atau lewat."
+framework: history-culture
 ---
 
 Apabila Melaka jatuh kepada meriam Portugis pada 1511, dinasti yang telah menjadikan Selat itu masyhur tidak mati bersama kota itu. Sultan terakhirnya, Mahmud Shah, berundur ke hulu kepulauan dan meninggalkan dua orang putera; seorang akan mengasaskan semula wangsa diraja di hilir di Johor, seorang lagi akan membawa mahkota Melaka lama ke utara, ke sebuah lembah sunyi yang dialiri sebatang sungai yang beting pasirnya berkilauan dengan bijih timah. Kerajaan utara itu menjadi Perak, dan hampir lima abad kemudian ia masih diperintah oleh keturunan darah yang sama, kini oleh seorang sultan yang takhtanya diwariskan bukan daripada bapa kepada anak tetapi di sepanjang satu tangga putera yang bergerak. Inilah kisah bagaimana sebuah dinasti yang kalah bertahan hidup, menjadi kaya dengan bijih timah, kehilangan kedaulatannya kepada Britain menerusi satu perjanjian, dan bertahan hingga ke hari ini.

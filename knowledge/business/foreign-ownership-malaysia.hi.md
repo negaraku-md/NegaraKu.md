@@ -115,6 +115,7 @@ keywords:
   - "foreign ownership Malaysia"
   - "मलेशिया में विदेशी स्वामित्व प्रतिबंध"
   - "WRT foreign equity"
+framework: rules
 ---
 
 इस विषय पर हर मार्गदर्शिका एक ही बात कहती है: *अधिकांश क्षेत्र 100 प्रतिशत विदेशी स्वामित्व की

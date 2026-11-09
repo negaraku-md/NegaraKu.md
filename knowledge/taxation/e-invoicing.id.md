@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-vs-tax-invoice" }
 related: ["myinvois-phases", "myinvois-integration", "e-invoice-data-fields", "consolidated-e-invoice", "self-billed-e-invoice", "e-invoice-vs-tax-invoice", "e-invoice-accounting-records"]
 keywords: ["e-Invois Malaysia", "MyInvois", "e-invois LHDN", "fasa e-invois Malaysia", "pengesahan MyInvois"]
+framework: journey-hub
 ---
 
 Dahulu, faktur sah karena Andalah yang menerbitkannya. Di bawah mandat e-Invois

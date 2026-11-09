@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "malaysia-agreement-1963" }
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["Petros", "Sarawak", "gas", "agregator gas", "Ordinan Pengagihan Gas 2016", "Ordinan Pengagihan Gas (Pindaan) 2023", "Petronas", "Akta Kemajuan Petroleum 1974", "MA63"]
+framework: explainer
 ---
 
 クアラルンプールのある交渉の場で、二つの政府系エネルギー企業——一方は連邦、一方は州——が、サラワクのガスの流れを誰が統制するかを調整しようとしていた。その背後には、より大きな問いが横たわっている。州の権利と連邦の権力が衝突するとき、いずれの法律が拘束力を持つのか。

@@ -114,6 +114,7 @@ keywords:
   - "allotment of shares Malaysia"
   - "increase paid up capital Malaysia"
   - "section 75 Companies Act 2016"
+framework: explainer
 ---
 
 ทุนชำระแล้ว RM1 ถูกกฎหมาย พบบ่อย และเงียบ ๆ เป็นหนึ่งในการตัดสินใจที่แพงที่สุดที่ทำตอนจดทะเบียน

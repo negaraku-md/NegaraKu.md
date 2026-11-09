@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
 keywords: ["shipping belongings to Malaysia", "import household goods Malaysia customs", "Customs Form K1 Malaysia", "import car to Malaysia", "Approved Permit AP Malaysia", "MITI AP vehicle import", "JPJ import vehicle registration", "PUSPAKOM imported car", "expatriate moving to Malaysia car"]
+framework: explainer
 ---
 
 மலேசியாவுக்கான ஒவ்வொரு இடமாற்ற பட்டியலும், நீங்கள் போதுமான அளவு கீழே உருட்டிச் சென்றால், அதே ஒன்றைத்தான் சொல்கிறது: உங்கள் தளபாடங்களை அனுப்புங்கள், உங்கள் காரை விற்றுவிடுங்கள். இந்த இரண்டு அறிவுறுத்தல்களும் ஏன் இவ்வளவு வேறுபட்டவை என்பதை யாரும் விளக்குவதில்லை — ஒன்று ஆவண வேலை, மற்றொன்று ஒரு சுவர்.

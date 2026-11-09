@@ -84,6 +84,7 @@ relations:
   - { rel: "explained-in", to: "akta" }
 related: ["federal-constitution", "parliament", "dewan-negara", "warta-kerajaan"]
 keywords: ["rang undang-undang menjadi akta", "proses penggubalan undang-undang Malaysia", "bacaan pertama kedua ketiga", "perkenan diraja Yang di-Pertuan Agong", "Perkara 66 Perlembagaan Persekutuan", "Dewan Negara rang undang-undang", "pewartaan akta", "Perkara 68 rang undang-undang wang"]
+framework: explainer
 ---
 
 Un proyecto de ley puede ser aprobado por el Dewan Rakyat, aceptado por el Dewan Negara y sellado con el Gran Sello, y aun así no obligar a nadie.

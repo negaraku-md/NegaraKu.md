@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["selangor", "penang", "religion-statistics", "article-3-religion"]
 keywords: ["Thaipusam Malaysia", "Batu Caves Thaipusam", "kavadi", "silver chariot procession", "Lord Murugan", "272 steps", "paal kudam", "Waterfall Hilltop Temple Penang", "Thaipusam public holiday"]
+framework: history-culture
 ---
 
 விடியலுக்கு முன்பே, கோலாலம்பூரின் (Kuala Lumpur) வடக்கு விளிம்பில் உள்ள ஒரு சுண்ணாம்புக்கல் மலை ஒலியால் நிறைகிறது — மேளங்கள், மந்திரங்கள், கல்லின் மீது நூறாயிரக்கணக்கான வெறுங்கால்களின் நகர்வு. 272 படிக்கட்டுகள் கொண்ட ஒரு படிக்கட்டின் அடிவாரத்தில் பதினான்கு மாடிக் கட்டிடத்தைவிட உயரமான ஒரு தங்க நிற உருவம் நிற்கிறது. ஏற்றம் தொடங்கிவிட்டது, அது ஒரு நாளின் பெரும்பகுதிக்கு நிற்காது.

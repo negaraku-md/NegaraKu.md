@@ -107,6 +107,7 @@ keywords:
   - "regla de bahasa malasio para rótulos"
   - "tasa de licencia de rótulo DBKL"
   - "signboard licence Malaysia"
+framework: rules
 ---
 
 La mayoría de las guías le dicen que Kuala Lumpur es la ciudad donde [Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka) tiene que

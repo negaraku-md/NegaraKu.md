@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "disclosure-of-interest" }
 related: ["directors-duties", "disclosure-of-interest", "directors-fees-approval"]
 keywords: ["loan to director Malaysia", "section 224 Companies Act 2016", "director current account Sdn Bhd", "exempt private company loan director", "pinjaman kepada pengarah syarikat", "section 225 connected person loan"]
+framework: rules
 ---
 
 会社の口座から取締役の車のローン分割払いが支払われる。それは「取締役勘定」として処理され、

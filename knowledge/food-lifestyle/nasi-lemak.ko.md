@@ -97,6 +97,7 @@ verificationNeeded:
   - "이 음식에 관한 가장 이른 문헌상 언급 — Pierre-Étienne-Lazare Favre의 1875년 프랑스어–말레이어 사전, 그리고 Richard Olaf Winstedt의 The Circumstances of Malay Life(1909, p. 62). 이들은 Wikipedia를 통해 인용되었다; 정확한 원문 표현(그리고 'nasi lemak'이라는 용어 자체가 나오는지, 아니면 코코넛 밀크로 끓인 밥에 대한 서술인지)은 일차 자료와 대조해 확인해야 한다."
   - "나시 르막, roti canai, 테 타릭이 2022년 National Heritage Act 2005에 따라 국가 유산으로 관보 고시되었다는 구체적 주장 — 정확한 관보와 연도를 말레이시아 국가유산국(Jabatan Warisan Negara)에 확인할 것."
   - "믈라카 소녀 'Seri' / 'Nasi le, mak' 기원 설화는 기록된 역사가 아니라 민간 전승이므로 전설로만 제시해야 한다."
+framework: explainer
 ---
 
 해가 완전히 뜨기 전에, 냄새가 먼저 거리에 닿는다: 코코넛이 진하게 밴 밥, 볶아진 땅콩,

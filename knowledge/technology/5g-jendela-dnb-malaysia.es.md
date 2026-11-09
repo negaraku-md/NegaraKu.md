@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "internet-and-fibre" }
 related: ["malaysias-telcos-and-5g", "internet-and-fibre"]
 keywords: ["JENDELA", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "second 5G network", "U Mobile", "MCMC", "national broadband plan", "spectrum allocation", "700MHz", "3.5GHz", "5G Malasia", "plan nacional de banda ancha", "modelo de red dual"]
+framework: explainer
 ---
 
 Pregunte a dos malasios cómo se gestionan las redes móviles del país y a menudo

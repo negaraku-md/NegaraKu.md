@@ -94,6 +94,7 @@ keywords:
   - "MalaysiaBiz"
   - "who issues business licences Malaysia"
   - "premise licence federal state local"
+framework: explainer
 ---
 
 你的 SSM 证书到手了,公司成立了,而你获得许可去做的,恰恰是无。

@@ -82,6 +82,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaConstruction
     - ContractorMalaysia
+framework: how-to
 ---
 
 Puede registrar una sociedad en una tarde, pero esa sociedad aún no puede legalmente verter una losa, cablear un edificio ni licitar por un contrato de carretera hasta que tenga una segunda licencia, independiente. En Malasia, la construcción es un oficio regulado: la *sociedad* se registra ante la SSM, y el *contratista* se registra ante la CIDB. Sáltese el segundo paso y la primera obra que acepte será un delito penal, no un contrato.

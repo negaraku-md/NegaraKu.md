@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: ["trademark-registration-malaysia"]
 keywords: ["intellectual property Malaysia", "trademark registration Malaysia", "patent Malaysia", "copyright Malaysia", "MyIPO", "Trademarks Act 2019", "Patents Act 1983", "Copyright Act 1987"]
+framework: explainer
 ---
 
 ஒரு லோகோ, ஒரு சூத்திரம், ஒரு துண்டு நிரல் (code), ஒரு வணிகப் பெயர் — இவற்றில் ஏதேனும் ஒன்று பணம் ஈட்டத் தொடங்கும் தருணத்தில், அதை நகலெடுக்க வேறு யாருக்கோ ஒரு காரணம் இருக்கிறது. "இது என்னுடையது, இதோ அதை நிரூபிக்கும் ஆவணம்" என்று சொல்ல மலேசியச் சட்டம் உங்களுக்கு ஒரு வழியை வழங்குகிறது. பிரச்சினை என்னவென்றால், அறிவுசார் சொத்தின் மூன்று முக்கிய வகைகள் முற்றிலும் வேறுபட்ட மூன்று விதங்களில் இயங்குகின்றன, மேலும் ஒன்றைத் தவறாகச் செய்வது ஒரு தொழில் நிறுவனத்திற்கு அதன் மிக மதிப்புமிக்க சொத்தை இழக்கச் செய்யலாம்.

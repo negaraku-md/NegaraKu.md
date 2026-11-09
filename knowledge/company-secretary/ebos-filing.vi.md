@@ -100,6 +100,7 @@ relations:
   - { rel: "explained-in", to: "ebos" }
 related: ["beneficial-ownership", "bo-register", "ebos", "who-is-a-beneficial-owner", "annual-return"]
 keywords: ["e-BOS filing Malaysia", "lodge beneficial ownership SSM", "Practice Directive 9/2024", "SSM4U e-BOS", "beneficial ownership 14 days"]
+framework: how-to
 ---
 
 Việc nộp là phần mà mọi người nhớ, vì nó tạo ra một biên nhận. Đó chính là lý do nó là phần che

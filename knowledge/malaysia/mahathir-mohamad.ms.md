@@ -71,6 +71,7 @@ sources:
 
 related: ["wawasan-2020", "ops-lalang-1987", "1998-reformasi", "new-economic-policy", "2018-change-of-government"]
 keywords: ["Mahathir Mohamad", "Tun Mahathir", "perdana menteri keempat Malaysia", "Wawasan 2020", "Vision 2020"]
+framework: profile
 ---
 
 Mahathir Mohamad (lahir 10 Julai 1925) ialah Perdana Menteri Malaysia yang paling

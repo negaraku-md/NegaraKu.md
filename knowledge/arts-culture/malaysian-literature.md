@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["dewan-bahasa-dan-pustaka", "bahasa-melayu"]
 keywords: ["sastera Malaysia", "Sasterawan Negara", "Anugerah Sastera Negara", "sastera kebangsaan", "Dewan Bahasa dan Pustaka", "Sejarah Melayu", "hikayat", "syair"]
+framework: history-culture
 ---
 
 Sebelum ada novel dan sebelum ada dewan bahasa, seorang penglipur lara sudah pun mengarang wira Melayu di halaman istana Melaka. Daripada tradisi lisan itulah tumbuh salah satu warisan sastera terkaya di rantau ini — satu tradisi yang hari ini diraikan dengan gelaran negara, wang ratusan ribu ringgit dan kerusi kehormat dalam tamadun bangsa.

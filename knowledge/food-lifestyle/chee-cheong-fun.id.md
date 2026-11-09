@@ -91,6 +91,7 @@ verificationNeeded:
   - "Klaim bahwa chee cheong fun dibawa ke Malaya oleh imigran Guangdong abad ke-19 —— media kuliner mengulanginya tetapi tidak memberi tanggal pasti atau catatan primer. Konfirmasikan dengan sumber sejarah migrasi atau sejarah kuliner."
   - "Pembagian wilayah antara versi 'kering' (saus merah manis) dan 'basah' (kuah kari atau jamur) Ipoh, dan apakah kuah jamur khusus menjadi ciri khas Ipoh atau dibagi dengan Kuala Lumpur. Konfirmasikan dengan sumber Perak atau lokal."
   - "Apakah paduan yong-tau-foo Kuala Lumpur memakai saus berbahan kacang manis sebagai bawaan, dibanding kari atau kecap —— sumber-sumber menggambarkan beragam bumbu dan praktik lokal berbeda antar-gerai."
+framework: explainer
 ---
 
 Pesan "chee cheong fun" di George Town dan Anda akan mendapat gulungan mi beras yang

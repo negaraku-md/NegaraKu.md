@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "maintenance fee Malaysia", "sinking fund Malaysia", "JMB Malaysia", "Management Corporation Malaysia", "MC strata", "share units", "condo maintenance Malaysia", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
+framework: explainer
 ---
 
 Compraste la unidad. No compraste el ascensor, la caseta de vigilancia, la piscina ni la tubería que atraviesa el muro que compartes con tu vecino. Alguien tiene que pagar todo eso — y la ley divide la factura en dos cuentas que estás legalmente obligado a mantener separadas.

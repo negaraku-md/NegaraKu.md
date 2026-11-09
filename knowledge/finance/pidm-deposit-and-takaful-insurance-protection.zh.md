@@ -90,6 +90,7 @@ wikidata: "Q97211646"
 relations: []
 related: []
 keywords: ["PIDM", "deposit insurance", "RM250000", "takaful protection", "TIPS", "Perbadanan Insurans Deposit Malaysia", "Malaysia Deposit Insurance Corporation Act 2011", "insurance benefits protection"]
+framework: explainer
 ---
 
 假如一家马来西亚银行明天倒闭，你储蓄账户里的钱不会随之消失。其中最高 RM250,000 由一个政府运营的保障计划——PIDM——所担保，而你从未为它注册、从未为它付费，甚至很可能从未察觉它的存在。

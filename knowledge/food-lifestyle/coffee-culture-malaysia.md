@@ -91,6 +91,7 @@ verificationNeeded:
   - "The precise traditional roasting recipe for dark kopi O — commonly described as beans roasted with sugar and margarine, and by some accounts also wheat/corn — is treated as a trade secret by major brands and varies by roaster; confirm specifics against a primary source."
   - "The timing, pioneers and current café/roaster details of Kuala Lumpur's third-wave movement rely partly on a 2014 Time Out account; named cafés and roasters may have changed. Confirm against current sources before relying on specifics."
   - "The extent and output of Malaysian-grown coffee (e.g. Liberica) and any 'Malaysian single-origin' claims should be confirmed with an agricultural or industry source rather than travel media."
+framework: history-culture
 ---
 
 Ask for "kopi" at an old coffee shop in Ipoh and you get a thick cup of strong,

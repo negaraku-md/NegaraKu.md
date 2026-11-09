@@ -67,6 +67,7 @@ relations:
   - { rel: "administered-by", to: "perkeso" }
 related: ["labour-law-map-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "payroll-compliance-malaysia", "payroll-rates-deadlines-malaysia", "epf-foreign-workers-malaysia", "new-hire-statutory-checklist"]
 keywords: ["EPF SOCSO EIS Malaysia", "statutory contributions employer Malaysia", "KWSP PERKESO employer", "caruman KWSP majikan", "payroll statutory Malaysia"]
+framework: journey-hub
 ---
 
 นายจ้างมักเรียกสิ่งนี้ว่าภาระผูกพันหนึ่งเดียว แต่มันมีสามอย่าง และไม่ได้ใช้กฎหมาย หน่วยงาน โครงสร้างอัตรา หรือกฎความคุ้มครองร่วมกัน สิ่งเดียวที่ทั้งสามมีร่วมกันคือวันนำส่ง

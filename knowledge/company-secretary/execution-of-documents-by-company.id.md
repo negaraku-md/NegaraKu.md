@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "company-contracts-section-64" }
 related: ["companies-act-2016"]
 keywords: ["penyempurnaan dokumen", "cop mohor", "common seal", "seksyen 66", "surat ikatan", "deed", "pegawai diberi kuasa", "Akta Syarikat 2016", "tandatangan syarikat"]
+framework: explainer
 ---
 
 Sebelum Companies Act 2016 mulai berlaku pada 31 Januari 2017, stempel resmi merupakan cara lazim sebuah perusahaan melaksanakan dokumen penting di Malaysia. Hari ini, stempel resmi itu dapat sama sekali tidak ada — dan perusahaan tetap dapat menandatangani kontrak, pinjaman, dan surat ikatan dengan sah. Perubahan ini datang dari Companies Act 2016, khususnya Pasal 61 dan Pasal 66, dan ia sering membingungkan penanda tangan yang masih mencari "cap perusahaan".

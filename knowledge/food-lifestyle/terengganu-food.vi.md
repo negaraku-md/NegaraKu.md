@@ -96,6 +96,7 @@ verificationNeeded:
   - "Công thức gạo chính xác cho nasi dagang Terengganu (gạo trắng thuần hay hỗn hợp gạo thường với gạo nếp hoặc gạo thơm) — truyền thông ẩm thực và các nguồn du lịch mô tả khác nhau. Hãy xác minh với một nguồn ẩm thực địa phương."
   - "Câu chuyện nguồn gốc phổ biến rằng keropok lekor do ngư dân bờ Đông tạo ra để bảo quản cá dư thừa trong mùa gió mùa — điều này được truyền thông ẩm thực lặp lại rộng rãi nhưng không được ghi chép tốt về mặt lịch sử. Hãy xác minh với một nguồn lịch sử ẩm thực hoặc di sản."
   - "Khái quát rằng khẩu vị Terengganu 'thiên về ngọt' (bao gồm việc làm ngọt gulai ikan tongkol bằng đường thốt nốt) — đây là một cách mô tả đặc điểm phổ biến hơn là một khẳng định đã được đo lường. Hãy xác minh với một tài liệu ẩm thực vùng miền."
+framework: explainer
 ---
 
 Hỏi bất kỳ người Malaysia nào nên đi đâu để ăn nasi dagang và keropok lekor ngon

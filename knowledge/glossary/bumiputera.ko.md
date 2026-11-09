@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["federal-constitution", "orang-asli", "population-composition", "bumiputera-equity-requirements"]
 keywords: ["Bumiputera", "definisi Bumiputera", "Perkara 153", "Perkara 160", "Perkara 161A", "orang Melayu", "anak negeri Sabah Sarawak", "kedudukan istimewa", "Perlembagaan Persekutuan"]
+framework: explainer
 ---
 
 연방헌법(Federal Constitution) 원문에서 「부미푸트라(Bumiputera)」라는 말을 찾아보면 발견하지 못할 것입니다. 일상 대화, 공식 서식, 정부 정책에서 그토록 자주 듣는 이 용어가 실제로는 국가 최고 법률 문서에서 사용되지 않습니다.

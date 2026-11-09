@@ -91,6 +91,7 @@ relations:
   - { rel: "part-of", to: "mydigital-blueprint" }
 related: ["malaysia-startup-ecosystem", "cradle-cip-grant", "malaysia-digital-economy-in-numbers", "mydigital-blueprint"]
 keywords: ["KL20", "KL20 Summit 2024", "KL20 Action Paper", "Malaysia startup ecosystem", "top 20 global startup hub", "Golden Pass", "pelan tindakan KL20", "Cradle Fund startup"]
+framework: explainer
 ---
 
 في أبريل 2024، كفّت ماليزيا عن الحديث عن شركاتها الناشئة بلغة الأمل وبدأت تتحدّث بلغة المراتب. وكان العرض صريحاً: أدخِلوا كوالالمبور إلى أفضل 20 منظومة شركات ناشئة في العالم بحلول 2030، أو اعترفوا بأن البلاد كانت تسير بلا جهد.

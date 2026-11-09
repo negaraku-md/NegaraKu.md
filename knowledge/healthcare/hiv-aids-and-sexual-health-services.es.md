@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "klinik-kesihatan-services" }
 related: []
 keywords: ["HIV", "AIDS", "ujian HIV", "PrEP", "PEP", "ART", "kesihatan seksual", "Majlis AIDS Malaysia", "Kementerian Kesihatan"]
+framework: explainer
 ---
 
 Una persona angustiada tras una noche de riesgo puede entrar en una Klinik Kesihatan gubernamental en Malasia, hacerse una prueba de VIH de forma gratuita y confidencial y — si hace falta — volver a casa con medicación preventiva en pocas horas. Sin embargo, ese mismo camino también se cruza con cuestiones de confidencialidad, ley, religión y estigma que hacen del VIH uno de los temas de salud más sensibles del país.

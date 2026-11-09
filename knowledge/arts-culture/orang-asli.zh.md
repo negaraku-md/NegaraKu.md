@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["population-composition", "languages-spoken", "federal-constitution"]
 keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Proto", "18 suku kaum", "JAKOA", "Akta Orang Asli 1954", "Akta 134"]
+framework: explainer
 ---
 
 早在「马来西亚」这个名字出现在地图上之前，就已经有族群居住在半岛的森林、高地与沿海地带。今天，他们统称为「原住民」（Orang Asli）——这个马来语词汇的意思是「最初的人」或「原始居民」。

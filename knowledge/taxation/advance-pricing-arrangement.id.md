@@ -113,6 +113,7 @@ relations:
   - { rel: "affects", to: "permanent-establishment" }
 related: ["transfer-pricing-documentation", "cbcr-and-master-file", "dta-network", "permanent-establishment"]
 keywords: ["perjanjian penetapan harga terlebih dahulu malaysia", "apa malaysia lhdn", "apa dua hala malaysia", "yuran permohonan apa malaysia", "pu a 166 2023", "rollback apa malaysia"]
+framework: how-to
 ---
 
 Kebanyakan penasihat menggambarkan advance pricing arrangement (perjanjian penetapan harga di muka) sebagai sebuah menu — unilateral jika Anda menginginkannya murah dan cepat, bilateral jika Anda menginginkan perlindungan perjanjian pajak. Di Malaysia tidak ada menu semacam itu. Kaidah 2(2) Income Tax (Advance Pricing Arrangement) Rules 2023, P.U.(A) 166/2023, membuat keputusan itu untuk Anda, dan ia diputuskan berdasarkan satu fakta saja: apakah negara tempat pihak berelasi Anda berada memiliki perjanjian dengan Malaysia di bawah s.132 Income Tax Act 1967.

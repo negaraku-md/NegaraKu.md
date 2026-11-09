@@ -142,6 +142,7 @@ relations:
   - { rel: "requires", to: "sst-registration" }
 related: ["sst-explained", "sst-registration", "sst-rate-table", "sst-b2b-exemption", "sst-02-filing"]
 keywords: ["توسعة SST 2025", "SST expansion 2025", "توسعة ضريبة الخدمات ماليزيا", "ضريبة خدمات المجموعة K التأجير", "ضريبة خدمات الإنشاء 6%", "إعفاء العقد غير القابل لإعادة النظر", "ضريبة خدمات الرعاية الصحية الخاصة"]
+framework: rules
 ---
 
 الخطأ الأكثر شيوعاً المتداوَل عن توسعة 2025 هو أن الإنشاء يقع في المجموعة K. وهو لا

@@ -85,6 +85,7 @@ relations:
   - { rel: "explained-in", to: "federal-constitution-malaysia" }
 related: ["yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["मलय शासक", "raja melayu", "सुल्तान", "sultan", "yang di-pertuan besar", "Perlis के राजा", "raja perlis", "राजगद्दी का उत्तराधिकार", "pewarisan takhta", "संवैधानिक राजा", "raja berperlembagaan", "आदत परपातिह", "adat perpatih", "राज्य संविधान", "perlembagaan negeri", "शासक सम्मेलन", "majlis raja-raja"]
+framework: explainer
 ---
 
 एक अकेले संघ के पीछे, मलेशिया नौ ऐसी राजगद्दियाँ रखता है जो स्वयं राष्ट्र से भी पुरानी हैं। प्रत्येक का अपना राजमहल, उत्तराधिकार के रीति-रिवाज़ और राज्य-संविधान है, और प्रत्येक शासक अपने राज्य पर एक संवैधानिक राजा के रूप में शासन करता है — किसी निरंकुश सम्राट के रूप में नहीं।

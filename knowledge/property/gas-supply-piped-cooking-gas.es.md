@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "electricity-supply-tnb" }
 related: []
 keywords: ["gas natural por tubería", "Gas Malaysia", "bombona de gas", "LPG", "gas doméstico", "subsidi gas", "gas para cocinar", "precio bombona gas 14kg"]
+framework: explainer
 ---
 
 Encienda el fogón en su nueva casa y se dará cuenta enseguida: la mayoría de los malasios cocinan con bombonas de gas entregadas a domicilio, no con gas que fluye por tuberías. El gas natural por tubería sí existe — pero solo en un pequeño número de zonas urbanas. Esta guía explica ambas opciones, sus precios, las reglas de la subvención y cómo manejar el gas de forma segura.

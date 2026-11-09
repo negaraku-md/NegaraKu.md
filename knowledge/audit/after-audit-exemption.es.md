@@ -106,6 +106,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.245"
     consequence: "Fine up to RM500,000 or imprisonment up to three years or both"
+framework: rules
 ---
 
 Cada segunda publicación sobre la Practice Directive 10/2024 vende la misma

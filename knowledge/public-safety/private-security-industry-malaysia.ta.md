@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "royal-malaysia-police" }
 related: []
 keywords: ["agensi keselamatan swasta", "lesen agensi persendirian", "polis bantuan", "Akta Agensi Persendirian 1971", "pengawal keselamatan Malaysia", "KDN eSIMS", "kawasan berpagar"]
+framework: profile
 ---
 
 மலேசியாவின் பெரும்பாலான வேலியிட்ட குடியிருப்புப் பகுதிகள், தொழிற்சாலைகள் மற்றும் ஷாப்பிங் மையங்களில், நீங்கள் முதலில் சந்திப்பது ஒரு காவல்துறை அதிகாரியை அல்ல — ஒரு தனியார் பாதுகாப்புக் காவலரையே. இந்தத் தொழில் பொது சட்ட அமலாக்கத்துடன் நெருக்கமாக இயங்குகிறது; ஆனால் அது முற்றிலும் வேறுபட்ட சட்ட கட்டமைப்பின் மீது இயங்குகிறது. யார் என்ன செய்யலாம் என்பது குறித்த குழப்பம், அவர்களைப் பணியமர்த்தும் வணிகங்களுக்குச் சட்ட அபாயத்தைக் கொண்டுவரக்கூடும்.

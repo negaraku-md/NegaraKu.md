@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "dependant-social-visit-passes", "student-pass"]
 keywords: ["overstay Malaysia", "immigration blacklist", "Special Pass", "Immigration Act 1959/63", "compound fine", "re-entry ban", "section 15", "Overstay Management Programme"]
+framework: rules
 ---
 
 Un pase que caducó por un solo día es, a ojos de la ley malasia, el mismo delito que uno que caducó por cien. Ese es el incómodo punto de partida para cualquiera que descubre que su pase de visita, empleo, dependiente, estudiante o profesional se ha agotado — y condiciona todo lo que sucede a continuación.

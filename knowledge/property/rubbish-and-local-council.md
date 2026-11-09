@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
+framework: explainer
 ---
 
 Tong sampah anda diambil dua kali seminggu, tapi bilkah anda pernah tanya siapa sebenarnya yang mengambilnya — majlis tempatan, atau syarikat lain yang majlis lantik? Dan kenapa jiran anda di negeri sebelah boleh kena denda kerana tidak mengasingkan botol plastik daripada sisa makanan, sedangkan anda tidak?

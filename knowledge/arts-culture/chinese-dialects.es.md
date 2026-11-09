@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "peranakan" }
 related: ["population-composition", "tamil-in-malaysia", "peranakan", "chinese-new-year", "article-152-language"]
 keywords: ["马来西亚华人方言", "福建话", "广东话", "客家话", "潮州话", "海南话", "福州话", "方言群", "槟城福建话", "诗巫福州", "沙巴客家"]
+framework: explainer
 ---
 
 En un café de Penang, pide un kopi en hokkien; en Kuala Lumpur e Ipoh, esa misma taza de café se pide en cantonés; vaya más lejos, hasta Sibu, en Sarawak, y quien le atienda probablemente hable foochow. Los tres son chinos malasios y, sin embargo, hablan tres lenguas mutuamente ininteligibles.

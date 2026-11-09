@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "register-of-directors" }
 related: ["register-of-directors", "directors-duties", "remove-a-director", "director-shareholding-notification", "statutory-registers"]
 keywords: ["lantik pengarah Malaysia", "letak jawatan pengarah Sdn Bhd", "seksyen 196 Akta Syarikat 2016", "seksyen 208 pengosongan jawatan", "persetujuan bertindak sebagai pengarah Malaysia", "letak jawatan pengarah syarikat", "bilangan minimum pengarah Malaysia"]
+framework: rules
 ---
 
 Seorang direktur dalam sebuah Sdn Bhd berdua berselisih dengan sesama pemegang

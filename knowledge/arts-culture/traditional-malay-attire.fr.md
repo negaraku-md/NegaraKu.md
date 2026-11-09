@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "hari-raya-aidilfitri" }
 related: ["songket", "batik", "hari-raya-aidilfitri"]
 keywords: ["baju Melayu", "baju kurung", "kebaya", "samping", "songkok", "cekak musang", "Teluk Belanga", "pakaian tradisional Melayu", "vêtements traditionnels malais"]
+framework: history-culture
 ---
 
 Observez un homme qui se prépare pour le Hari Raya ou pour un mariage. La chemise ample est déjà enfilée, le pantalon est ajusté, mais il n'a pas encore terminé. Il lui reste deux choses qui décident s'il a l'air entièrement habillé ou seulement à moitié : une pièce d'étoffe de samping nouée à la taille et un songkok sur la tête. Sans ces deux éléments, le baju Melayu n'est pas encore véritablement un baju Melayu.

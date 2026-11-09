@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["non-deductible-expenses", "section-33-deductibility"]
 keywords: ["entertainment expense malaysia tax", "39(1)(l) entertainment", "50% entertainment deduction", "public ruling 4/2015", "promotional gift tax deduction malaysia"]
+framework: rules
 ---
 
 거의 모든 말레이시아 세액 계산은 접대비 항목을 절반으로 줄이고 넘어갑니다. 그것은 양방향으로 틀렸습니다. 절반으로 줄이는 것 중 일부는 전액 부인되어야 하고, 상당수는 절반으로 줄이지 말아야 합니다.

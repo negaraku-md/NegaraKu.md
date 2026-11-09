@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "asean-agreement-on-transboundary-haze-pollution" }
 related: []
 keywords: ["jerebu", "transboundary haze", "API", "Indeks Pencemar Udara", "Sumatera", "Kalimantan", "ASEAN", "Jabatan Alam Sekitar", "kualiti udara"]
+framework: explainer
 ---
 
 Setiap kali angin monsun bertukar arah pada musim kering, langit di Lembah Klang, Sarawak dan sebahagian besar Semenanjung boleh bertukar kelabu dalam beberapa hari sahaja — matahari menjadi kabur, bau asap masuk ke dalam rumah, dan telefon berbunyi dengan makluman API. Inilah jerebu rentas sempadan: pencemaran yang tidak dihasilkan sepenuhnya di dalam negara, tetapi dihirup setiap tahun oleh jutaan rakyat Malaysia.

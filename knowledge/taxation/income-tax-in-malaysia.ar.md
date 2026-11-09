@@ -93,6 +93,7 @@ relations:
   - { rel: "explained-in", to: "corporate-tax-rates" }
 related: ["personal-tax-rates", "corporate-tax-rates", "personal-tax-reliefs", "pcb-monthly-tax-deduction"]
 keywords: ["income tax Malaysia", "cukai pendapatan Malaysia", "LHDN income tax", "182 day rule Malaysia", "self assessment system Malaysia", "chargeable income", "Malaysia tax residency", "year of assessment"]
+framework: explainer
 ---
 
 يلتقي معظم الناس بضريبة الدخل الماليزية بوصفها سطراً واحداً على قسيمة الراتب — "PCB" — وهرولةً سنوية في أبريل. وخلف ذلك السطر يقبع أحد أكثر الأنظمة أثراً في البلاد، وكل ما يُكتَب عنه تقريباً يبدأ من المكان الخطأ: جدول أسعار.

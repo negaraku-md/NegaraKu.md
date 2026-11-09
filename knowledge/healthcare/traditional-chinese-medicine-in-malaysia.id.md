@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "siddha-medicine" }
 related: ["siddha-medicine", "chinese-dialects", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["马来西亚中医", "中药行", "中药店", "针灸", "推拿", "拔罐", "余仁生", "传统与辅助医药法令", "第775号法令", "传统与辅助医药理事会", "中医注册", "中医教育", "Traditional Chinese Medicine Malaysia", "T&CM Act 2016"]
+framework: history-culture
 ---
 
 Di sudut jalan banyak kota tua, selalu ada sebuah toko obat Tionghoa: dinding lemari kayu dipenuhi laci-laci kecil yang padat, udaranya bercampur aroma angelika (当归), kulit jeruk kering (陈皮), dan akar manis (甘草); di balik meja, sang tabib tua mendengarkan pelanggan menceritakan di mana rasa tidak enak badannya sambil menimbang bahan obat satu per satu ke dalam kertas, lalu membungkusnya menjadi satu bungkus obat. Toko seperti ini telah ada di komunitas Tionghoa Malaysia selama lebih dari seratus tahun.

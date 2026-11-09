@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "statutory-audit-process" }
 related: ["appointing-an-auditor", "changing-auditors", "statutory-audit-process", "audit-fees-malaysia"]
 keywords: ["auditor independence", "partner rotation", "cooling-off period", "public interest entity", "MIA By-Laws", "Section 540", "non-audit services", "self-review threat"]
+framework: rules
 ---
 
 Seorang rakan kongsi audit yang telah menandatangani akaun syarikat tersenarai yang sama selama sedekad tahu di mana setiap rahsia disembunyikan — dan itulah tepatnya masalahnya. Semakin lama hubungan itu, semakin sukar bagi seorang pemerhati luar yang munasabah untuk mempercayai bahawa pendapat itu benar-benar bebas. Malaysia menjawab risiko itu dengan jam yang tegas dan rehat yang wajib.

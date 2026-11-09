@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "jpn" }
 related: ["jpn", "mykad"]
 keywords: ["daftar kematian Malaysia", "sijil kematian JPN", "borang JPN.LM02", "pendaftaran kematian JPN", "sijil kematian waris", "pusaka kecil JKPTG", "tempoh daftar kematian Malaysia"]
+framework: how-to
 ---
 
 வங்கி இறந்தவரின் கணக்கை முடக்கும் முன், KWSP அவரது சேமிப்பை விடுவிக்கும்

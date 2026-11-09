@@ -79,6 +79,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-registration", "imported-taxable-services", "sales-tax-explained"]
 keywords: ["SST-02", "plazo de presentación SST Malasia", "sanción por pago tardío SST", "periodo imponible SST", "declaración MySST", "SST filing deadline Malaysia"]
+framework: rules
 ---
 
 La escala de sanciones deja de subir a los noventa días. Pasado ese punto queda

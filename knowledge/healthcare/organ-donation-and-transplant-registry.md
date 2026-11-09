@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "how-malaysian-healthcare-works" }
 related: ["how-malaysian-healthcare-works", "government-hospitals"]
 keywords: ["pendermaan organ", "derma organ", "transplan", "NTRC", "ikrar penderma", "fatwa organ", "kematian otak", "MySejahtera"]
+framework: explainer
 ---
 
 Setiap tahun, ribuan pesakit di Malaysia menunggu satu panggilan telefon yang mungkin tidak pernah tiba — panggilan yang memberitahu bahawa sebuah organ untuk menyelamatkan nyawa mereka akhirnya tersedia. Di sebalik senarai menunggu yang panjang itu terletak satu paradoks: ratusan ribu rakyat telah berikrar menderma organ, tetapi hanya segelintir kecil ikrar itu benar-benar terlaksana.

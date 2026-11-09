@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["kejatuhan Melaka 1511", "Afonso de Albuquerque", "Melaka Portugis", "A Famosa", "penjajahan Eropah Nusantara", "Kesultanan Johor 1528"]
+framework: history-culture
 ---
 
 열흘. 그것이 1511년 8월 10일 포르투갈 함대가 말라카(Melaka) 앞바다에 도착한 순간과, 8월 24일 이 도시가 손이 바뀐 순간 사이의 간격입니다.

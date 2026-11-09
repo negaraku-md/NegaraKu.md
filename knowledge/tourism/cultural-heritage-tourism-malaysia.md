@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysia-homestay-programme" }
 related: []
 keywords: ["Malaysia UNESCO World Heritage", "heritage tourism Malaysia", "homestay programme Malaysia", "George Town Melaka", "mosque etiquette Malaysia", "cultural tourism"]
+framework: explainer
 ---
 
 Six sites in one country now carry UNESCO's stamp — and you can walk a centuries-old Dutch colonial square in the morning and stand inside a vast Bornean cave chamber a flight away. Malaysia's heritage is not a museum you look at; it is a living street you can eat, sleep and pray your way through.

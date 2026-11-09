@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["thaipusam", "hinduism-in-malaysia", "indian-classical-arts-in-malaysia", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community"]
 keywords: ["கோயில் இசை", "நாதஸ்வரம்", "தவில்", "மங்கள வாத்தியம்", "உறுமி மேளம்", "காவடி", "மலேசியா கோயில் இசை", "Nadaswaram", "Thavil", "Urumi Melam"]
+framework: history-culture
 ---
 
 Di barisan terdepan sebuah arak-arakan Thaipusam, pada saat sebuah kereta kencana kuil mulai bergerak, atau di pintu masuk sebuah aula pernikahan — pada peristiwa Hindu Tamil mana pun di Malaysia, yang pertama memenuhi udara selalu satu suara tertentu: melodi panjang nadaswaram dan dentuman thavil. Suara itu bukan kebetulan — ia adalah tanda tradisi **mangala vadyam** (alat musik pembawa berkah) yang telah menyertai komunitas ini selama lebih dari satu abad.

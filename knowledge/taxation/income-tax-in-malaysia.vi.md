@@ -93,6 +93,7 @@ relations:
   - { rel: "explained-in", to: "corporate-tax-rates" }
 related: ["personal-tax-rates", "corporate-tax-rates", "personal-tax-reliefs", "pcb-monthly-tax-deduction"]
 keywords: ["income tax Malaysia", "cukai pendapatan Malaysia", "LHDN income tax", "182 day rule Malaysia", "self assessment system Malaysia", "chargeable income", "Malaysia tax residency", "year of assessment"]
+framework: explainer
 ---
 
 Hầu hết mọi người gặp thuế thu nhập của Malaysia qua một dòng duy nhất trên phiếu lương — "PCB" — và một đợt chạy đôn chạy đáo mỗi năm một lần vào tháng Tư. Phía sau dòng đó là một trong những hệ thống hệ trọng nhất của đất nước, và gần như mọi thứ được viết về nó đều bắt đầu ở sai chỗ: một bảng mức thuế.

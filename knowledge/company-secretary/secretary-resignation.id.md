@@ -113,6 +113,7 @@ relations:
   - { rel: "requires", to: "register-of-directors" }
 related: ["secretary-vacancy-30-days", "changing-company-secretary", "company-secretary-qualification", "appoint-company-secretary"]
 keywords: ["letak jawatan setiausaha syarikat Malaysia", "seksyen 237 Akta Syarikat 2016", "peletakan jawatan setiausaha 30 hari", "Practice Note 4/2018", "pengarah tidak dapat dihubungi setiausaha letak jawatan", "notis niat meletak jawatan setiausaha"]
+framework: how-to
 ---
 
 Setiap panduan mengenai topik ini ditulis dari sudut pandang perusahaan: sekretaris Anda telah mengundurkan diri, inilah yang perlu disampaikan. Itu adalah khalayak yang salah. Orang yang sebenarnya mencari pada pukul 11 malam adalah sekretaris yang ingin keluar dari klien yang telah berhenti menjawab surel, berhenti membayar, dan pasti tidak akan menyampaikan apa pun kepada SSM atas nama mereka.

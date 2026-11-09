@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "statutory-registers" }
 related: ["beneficial-ownership", "ebos-filing", "who-is-a-beneficial-owner", "bo-non-cooperation", "statutory-registers"]
 keywords: ["سجلّ المالكين المنتفِعين ماليزيا", "register of beneficial owners Malaysia", "المادة 60B قانون الشركات", "section 60B Companies Act", "سجلّ المالك المنتفِع المكتب المُسجَّل", "حفظ المالك المنتفِع 7 سنوات", "السجلّ النظامي للمالك المنتفِع"]
+framework: rules
 ---
 
 اطلُب من أمين سر شركة ماليزية أن يُخرِج سجلّ المالكين المنتفِعين، فإن عددًا لا بأس به

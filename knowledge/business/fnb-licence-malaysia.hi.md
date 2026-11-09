@@ -126,6 +126,7 @@ keywords:
   - "food handler certificate Malaysia"
   - "शराब लाइसेंस मलेशिया"
   - "liquor licence Malaysia"
+framework: rules
 ---
 
 रेस्तरां लाइसेंस का अस्तित्व नहीं है। जो अस्तित्व में है वह चार या पाँच अलग-अलग

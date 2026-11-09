@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik", "borneo-indigenous-languages"]
 keywords: ["masakan Peranakan Nyonya", "masakan pantai timur Kelantan Terengganu", "masakan Sarawak Sabah", "masakan Mamak nasi kandar", "kari debal Kristang", "budaya sarapan Malaysia UNESCO"]
+framework: explainer
 ---
 
 Demandez à dix Malaisiens ce qu'est la « cuisine malaisienne » et vous obtiendrez peut-être dix cartes différentes. Quelqu'un de Kota Bharu commencera par le nasi kerabu bleu et le budu ; quelqu'un de Kuching évoquera le laksa de Sarawak et le kolo mee ; quelqu'un de Melaka parlera peut-être de l'ayam pongteh nyonya ou du kari debal [kristang](/arts-culture/kristang-eurasian-culture) ; et un autre encore pointera directement le stand mamak au bout de la rue. Aucun d'eux n'a tort. La Malaisie n'a pas de cuisine nationale unique — elle a une famille de cuisines qui ont grandi dans différentes régions et communautés, puis passé des siècles à s'emprunter les unes aux autres.

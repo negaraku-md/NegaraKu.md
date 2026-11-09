@@ -99,6 +99,7 @@ verificationNeeded:
   - "L'étymologie et l'origine du kari kapitan (les liens avec les chefs de communauté Kapitan Cina de l'époque coloniale et la légende souvent répétée « Curry, Kapitan ! ») — l'érudition traite cela comme un folklore contesté plutôt qu'un fait documenté. À confirmer auprès d'une source universitaire ou patrimoniale."
   - "La question de savoir si le rendang doit être classé comme curry — certains auteurs insistent sur le fait que le plat achevé et pleinement réduit est sec et non un curry, tandis que d'autres le traitent comme l'aboutissement d'un continuum gulai–kalio–rendang — ainsi que son origine minangkabau/de Sumatra occidental face aux revendications patrimoniales malaisiennes. À confirmer auprès d'une source d'histoire culinaire."
   - "Les frontières exactes entre gulai, masak lemak, asam pedas et gulai tumis — les noms se chevauchent, changent selon la région (p. ex. l'asam pedas est appelé gulai dans certaines parties de Johor) et sont appliqués de façon incohérente. À confirmer pour cette dénomination régionale auprès d'une source culinaire malaisienne."
+framework: explainer
 ---
 
 Demandez un « curry » dans la cuisine d'un kampung malais, dans une échoppe de riz en feuille de

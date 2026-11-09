@@ -92,6 +92,7 @@ verificationNeeded:
   - "Sama ada gelaran 'mamak' berasal khusus daripada perkataan Tamil untuk bapa saudara sebelah ibu (maa-ma), dan nota bahawa istilah itu boleh digunakan secara menghina — sahkan dengan sumber bahasa Tamil atau leksikografi."
   - "Tarikh Brickfields secara rasmi ditetapkan sebagai 'Little India' Kuala Lumpur (sumber memberikan kedua-dua 2009 dan 2010) dan penempatan awal Little India berhampiran Jalan Masjid India — sahkan dengan sumber Dewan Bandaraya Kuala Lumpur (DBKL) atau pihak berkuasa pelancongan."
   - "Penempatan perdagangan Chulia / Tamil-Muslim awal di pelabuhan Selat (Pulau Pinang, Melaka) sebagai komuniti yang berbeza daripada buruh ladang kemudian — sahkan dengan sumber sejarah Pulau Pinang atau Selat, kerana entri ensiklopedia umum menganggap kedua-duanya bersama."
+framework: history-culture
 ---
 
 Tanyakan apa maksud "makanan India" di Malaysia dan anda akan mendapat

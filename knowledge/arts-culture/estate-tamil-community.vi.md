@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "tamil-vernacular-schools", "mariamman-worship", "hinduism-in-malaysia", "population-composition"]
 keywords: ["தோட்டத் தமிழர் சமூகம்", "மலேசிய இந்தியர் தோட்ட வரலாறு", "கங்காணி முறை", "ரப்பர்த் தோட்டம்", "தோட்டத் தொழிலாளர்", "மலேசிய இந்தியர்கள்", "estate Tamil community", "Malaysian Indians"]
+framework: history-culture
 ---
 
 Ở ven rìa nhiều thị trấn cổ của Malaysia, một đồn điền cao su từng trải dài xanh ngát nay đã trở thành khu dân cư chật kín nhà cửa và những dãy phố buôn bán. Giữa những tòa nhà mới ấy, đôi khi vẫn còn một ngôi đền Amman cũ hay một trường Tamil nhỏ đứng sót lại — như dấu ấn không phai của một cộng đồng đã bị dời đi.

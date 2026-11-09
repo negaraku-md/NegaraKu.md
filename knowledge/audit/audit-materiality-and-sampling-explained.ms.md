@@ -71,6 +71,7 @@ relations:
   - { rel: "administered-by", to: "malaysian-institute-of-accountants" }
 related: ["malaysian-institute-of-accountants"]
 keywords: ["materiality", "audit sampling", "ISA 320", "ISA 530", "ISA 450", "performance materiality", "tolerable misstatement", "statutory audit Malaysia"]
+framework: explainer
 ---
 
 Seorang juruaudit yang menandatangani satu set akaun hampir tidak pernah melihat setiap transaksi di sebaliknya — dan piawaian menyatakan itulah cara yang betul untuk bekerja.

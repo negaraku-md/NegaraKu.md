@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "labuan-company-formation" }
 related: []
 keywords: ["redomiciliation", "re-domiciliation", "continuance", "Labuan", "Labuan Companies Act 1990", "section 16", "foreign company", "domicile", "Companies Act 2016", "Labuan FSA"]
+framework: explainer
 ---
 
 บริษัทที่ต้องการเป็นบริษัทมาเลเซียโดยไม่ต้องเลิกในต่างประเทศและเริ่มต้นใหม่มีประตูเข้าประเทศเพียงประตูเดียว — และไม่เปิดออกสู่คาบสมุทร

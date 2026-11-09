@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "electricity-supply-tnb" }
 related: []
 keywords: ["gas paip asli", "Gas Malaysia", "tong gas", "LPG", "gas domestik", "subsidi gas", "gas memasak", "harga tong gas 14kg"]
+framework: explainer
 ---
 
 新居のコンロに火を入れると、すぐに気づくだろう。大半のマレーシア人は、配管を流れてくるガスではなく、玄関先まで届けられるガスボンベで調理している。配管天然ガスは確かに存在する——ただし市街地のごく一部でだけだ。本稿は、この二つの選択肢、その価格、補助金のルール、そしてガスを安全に扱う方法を説明する。

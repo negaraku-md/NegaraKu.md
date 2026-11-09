@@ -106,6 +106,7 @@ keywords:
   - "DBP Sah Bahasa"
   - "Bahasa Malaysia signboard rule"
   - "signboard licence fee DBKL"
+framework: rules
 ---
 
 คู่มือส่วนใหญ่บอกคุณว่ากัวลาลัมเปอร์เป็นนครที่ [Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka) ต้องอนุมัติถ้อยคำบน

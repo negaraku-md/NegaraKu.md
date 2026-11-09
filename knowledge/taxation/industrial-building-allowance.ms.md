@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["capital-allowances", "losses-and-group-relief"]
 keywords: ["elaun bangunan industri malaysia", "IBA jadual 3", "perenggan 63 jadual 3", "perbelanjaan bangunan layak", "elaun cukai kilang malaysia", "kadar IBA 10% 3%"]
+framework: explainer
 ---
 
 Sebuah syarikat membeli sebuah kilang dengan harga RM1.2 juta dan menuntut elaun bangunan industri ke atas RM1.2 juta. Dua tahun kemudian, audit melaraskan tuntutan itu kepada sedikit lebih RM500,000, menambah semula lebihan tuntutan bagi setiap tahun sejak itu, dan mengenakan penalti. Tiada apa-apa berubah pada bangunan itu. Syarikat itu hanya menuntut ke atas satu angka yang tidak pernah dibenarkan oleh statut.

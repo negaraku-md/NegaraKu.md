@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["selangor", "penang", "religion-statistics", "article-3-religion"]
 keywords: ["Thaipusam Malaysia", "Batu Caves Thaipusam", "kavadi", "silver chariot procession", "Lord Murugan", "272 steps", "paal kudam", "Waterfall Hilltop Temple Penang", "Thaipusam public holiday"]
+framework: history-culture
 ---
 
 天未破晓，吉隆坡北缘一座石灰岩山丘便已充满声响——鼓声、诵经声，以及数十万赤足在石阶上摩擦的声音。272级台阶的底部，矗立着一尊比十四层楼建筑物还高的金色神像。攀登开始了，而且几乎要持续一整天才会停下。

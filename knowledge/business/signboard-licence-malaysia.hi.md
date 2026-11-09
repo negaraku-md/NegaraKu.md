@@ -107,6 +107,7 @@ keywords:
   - "बहासा मलेशिया साइनबोर्ड नियम"
   - "साइनबोर्ड लाइसेंस शुल्क DBKL"
   - "signboard licence Malaysia"
+framework: rules
 ---
 
 अधिकांश मार्गदर्शिकाएँ आपको बताती हैं कि कुआलालंपुर वह शहर है जहाँ [दीवान बहासा दान पुस्तका](/arts-culture/dewan-bahasa-dan-pustaka) को

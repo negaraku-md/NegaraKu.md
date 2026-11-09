@@ -63,6 +63,7 @@ relations:
   - { rel: "administered-by", to: "ssm" }
 related: ["beneficial-ownership", "bo-register", "who-is-a-beneficial-owner", "ebos-filing"]
 keywords: ["शेयरधारक लाभकारी स्वामित्व सूचना अस्वीकार करता है", "shareholder refuses beneficial ownership notice", "धारा 60C सूचना का जवाब नहीं", "section 60C notice no reply", "लाभकारी स्वामी के स्थान पर वरिष्ठ प्रबंधन", "senior management in place of beneficial owner", "BO गैर-अनुपालन मलेशिया", "BO non-compliance Malaysia"]
+framework: how-to
 ---
 
 कोई शेयरधारक सूचना की अनदेखी करता है। 14-दिन की रिकॉर्डिंग घड़ी चल रही है, वार्षिक

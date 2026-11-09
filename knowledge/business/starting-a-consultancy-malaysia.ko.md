@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "freelancer-and-gig-tax" }
 related: ["sole-prop-vs-sdn-bhd"]
 keywords: ["start a consultancy malaysia", "consulting business malaysia", "professional services firm malaysia", "freelance consultant register malaysia", "service tax consultancy malaysia", "LLP vs sdn bhd consulting", "regulated profession licence malaysia"]
+framework: how-to
 ---
 
 컨설팅은 시작하기 가장 쉬운 사업처럼 보입니다 — 시설도, 재고도 없고, 그저 당신의

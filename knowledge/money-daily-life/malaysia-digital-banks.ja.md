@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "pidm-deposit-insurance" }
 related: ["bank-negara-malaysia", "pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["bank digital", "digital bank Malaysia", "GXBank", "Boost Bank", "AEON Bank", "Ryt Bank", "KAF Digital Bank", "PIDM", "BNM"]
+framework: explainer
 ---
 
 今日、マレーシアで銀行口座を開設するのに、一度も支店に足を運ぶことなく、職員に会うことなく、紙の書類を一切書くことなく——すべてわずか数分でスマートフォンから完了できます。これがデジタル銀行の約束です。マレーシア国立銀行（Bank Negara Malaysia、BNM）が免許を付与した新しい種類の銀行であり、今や数百万人のマレーシア人にサービスを提供しています。

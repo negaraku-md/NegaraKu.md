@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["federal-budget", "gdp-overview", "sovereign-credit-rating-malaysia", "subsidy-rationalisation-padu"]
 keywords: ["hutang persekutuan", "Akta 850", "Akta Tanggungjawab Fiskal", "hutang berkanun", "60% KDNK", "defisit fiskal", "MGS", "JRFL"]
+framework: explainer
 ---
 
 Malaysia's Federal Government debt broke through RM1.3 trillion in 2025 — yet the frequently cited "64.7% of GDP" figure and the often-mentioned "60% limit" actually measure two different things. Understanding this distinction is key to reading the country's fiscal health accurately.

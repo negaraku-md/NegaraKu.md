@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "straits-settlements" }
 related: ["melaka-sultanate", "portuguese-melaka-1511", "straits-settlements", "singapore-separation-1965"]
 keywords: ["Kesultanan Johor-Riau", "Kesultanan Johor", "Sultan Alauddin Riayat Shah II", "Sultan Mahmud Shah", "waris Kesultanan Melaka", "Johor Lama", "Dinasti Bendahara", "Riau-Lingga", "institusi diraja Melayu"]
+framework: history-culture
 ---
 
 Năm 1511, đại bác Bồ Đào Nha san phẳng một thành phố — nhưng không phải một ngai vàng. Khi thành Melaka sụp đổ, Sultan Mahmud Shah, vị sultan Melaka cuối cùng, không đầu hàng. Ngài rút về phương nam cùng gia đình hoàng gia, các đại thần, và quan trọng nhất, toàn bộ hệ thống thiết chế đã làm nên một vương triều Melaka. Thành phố mất đi; vương triều di chuyển.

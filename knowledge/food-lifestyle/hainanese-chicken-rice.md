@@ -85,6 +85,7 @@ keywords:
   - "Ipoh chicken rice"
 social:
   hashtags: ["#HainaneseChickenRice", "#NasiAyam", "#ChickenRiceBalls", "#Melaka", "#MalaysianFood"]
+framework: history-culture
 ---
 
 Order a plate of chicken rice in a Malaysian kopitiam and three things arrive that

@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "singapore-separation-1965" }
 related: ["malayan-union", "melaka-sultanate", "singapore-separation-1965"]
 keywords: ["Straits Settlements", "Penang colonial history", "Melaka British rule", "Singapore crown colony", "Pangkor Treaty 1874", "British Resident system", "Federated Malay States", "Unfederated Malay States", "Resident-General Kuala Lumpur", "Johor General Adviser"]
+framework: history-culture
 ---
 
 Ba cảng, bốn lần thay đổi tình trạng hành chính, và bốn mươi mốt năm. Đó là các bang Eo biển trước khi nó chạm đến các bang Mã Lai.

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "public-vs-private-universities" }
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["UPSR dimansuhkan", "PT3 dimansuhkan", "Pentaksiran Bilik Darjah", "PBD Malaysia", "SPM Malaysia", "Matriks Pembelajaran Malaysia", "Lembaga Peperiksaan", "peperiksaan sekolah Malaysia", "PBS Malaysia"]
+framework: explainer
 ---
 
 Kalau anak anda sekarang di Tahun 6, ia tidak akan menduduki UPSR. Kalau anak itu di Tingkatan 3, tiada PT3 menanti. Peperiksaan besar yang dulu menentukan seluruh perjalanan persekolahan — yang ibu bapa anda sendiri mungkin lalui dengan penuh tekanan — sudah tiada sejak beberapa tahun lalu. Tetapi ramai ibu bapa masih keliru: apa yang menggantikannya, adakah ia akan dikembalikan, dan apa sebenarnya berlaku di sekolah anak mereka sekarang setiap hari.

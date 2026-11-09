@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "disclosure-of-interest" }
 related: ["directors-duties", "disclosure-of-interest", "directors-fees-approval"]
 keywords: ["prêt à un administrateur Malaisie", "article 224 Companies Act 2016", "loan to director Malaysia", "section 224 Companies Act 2016", "compte courant administrateur Sdn Bhd", "director current account Sdn Bhd", "société privée exemptée prêt administrateur", "exempt private company loan director", "article 225 prêt personne liée", "section 225 connected person loan"]
+framework: rules
 ---
 
 Le compte de la société paie la mensualité de la voiture de l'administrateur. C'est

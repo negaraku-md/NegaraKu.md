@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["imigresen", "employment-act-1955", "opening-bank-account"]
 keywords: ["توظيف خادمة في ماليزيا", "hiring a maid in Malaysia", "مساعِدة منزلية أجنبية ماليزيا", "foreign domestic helper Malaysia", "مربية النفاس ماليزيا", "confinement nanny Malaysia", "مركز النفاس ماليزيا", "confinement centre Malaysia", "pembantu rumah asing", "قواعد العمالة المنزلية ماليزيا", "part time maid Malaysia", "رعاية ما بعد الولادة ماليزيا"]
+framework: explainer
 ---
 
 الأسرة التي توظّف مساعِدة مقيمة، والأسرة التي تحجز مركز نفاس لمدة شهر بعد

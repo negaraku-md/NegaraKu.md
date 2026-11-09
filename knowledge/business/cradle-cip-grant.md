@@ -75,6 +75,7 @@ social:
     - MalaysiaStartup
     - TechStartup
     - MOSTI
+framework: profile
 ---
 
 Most first-time founders reach the same wall: the idea is good, but there is no revenue yet, no track record for a bank, and giving away equity this early feels premature. Malaysia's answer to that gap is Cradle Fund — the government agency whose entire job is to put money into technology startups before anyone else will. Its Cradle Investment Programme (CIP) grants are, for many Malaysian founders, the first external funding they ever raise.

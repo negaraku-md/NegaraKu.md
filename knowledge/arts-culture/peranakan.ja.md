@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["unesco-world-heritage", "batik"]
 keywords: ["Peranakan", "Baba-Nyonya", "Straits Chinese", "Nyonya cuisine", "Nyonya kebaya", "Melaka George Town heritage"]
+framework: history-culture
 ---
 
 マラッカのヒーレン・ストリート（Heeren Street）にある古い町屋に足を踏み入れると、誰かが言葉を発する前に、物がすでに物語を語り始めている。三連の金のブローチで前を留めた、体にぴったり沿うレースのブラウス。爪先を何千もの小さなガラスビーズで覆われ、一粒一粒が手縫いで留められた一足のスリッパ。中華とも言い切れず、マレーとも言い切れない食事のために整えられた、大理石天板の長いテーブル。これらはすべてプラナカン——ババ・ニョニャ——のものである。二つの世界のあいだで生きることから、ひとつの文化を作り上げたコミュニティだ。

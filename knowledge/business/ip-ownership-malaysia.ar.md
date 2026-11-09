@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "patent-malaysia" }
 related: ["copyright-malaysia", "patent-malaysia", "industrial-design-malaysia", "trademark-registration-malaysia"]
 keywords: ["ملكية الملكية الفكرية ماليزيا", "من يملك حق المؤلف للموظف في ماليزيا", "الملكية الفكرية للمتعاقد ماليزيا", "التنازل عن الملكية الفكرية ماليزيا", "ip ownership malaysia", "section 26 copyright act 1987"]
+framework: explainer
 ---
 
 مؤسِّس ماليزي على وشك توقيع ورقة شروط، يُطلب منه تنازلات الملكية الفكرية.

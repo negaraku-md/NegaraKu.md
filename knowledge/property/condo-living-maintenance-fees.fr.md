@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "charges d'entretien Malaisie", "fonds de réserve Malaisie", "JMB Malaisie", "Corporation de Gestion Malaisie", "MC strata", "share units", "entretien copropriété Malaisie", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
+framework: explainer
 ---
 
 Vous avez acheté l'unité. Vous n'avez pas acheté l'ascenseur, la guérite, la piscine, ni la canalisation qui traverse le mur que vous partagez avec votre voisin. Quelqu'un doit tout de même payer tout cela — et la loi scinde la facture en deux comptes que vous êtes légalement tenu de garder séparés.

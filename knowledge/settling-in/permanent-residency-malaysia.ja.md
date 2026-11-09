@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysian-citizenship" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["permanent residency Malaysia", "MyPR", "red IC Malaysia", "Entry Permit Malaysia", "PR spouse Malaysian", "Immigration Act 1959/63", "Regulation 4 Immigration Regulations 1963"]
+framework: explainer
 ---
 
 赤いMyKadは、マレーシアで長く暮らしてきた多くの人にとって、静かなゴールラインである——同じ訪問パスを十年にわたって更新し続けてきた外国人妻、二度と就労許可の延長を申請したくない技術者、どこかに永く帰属したいと願う退職者。そのカード、すなわちMyPRこそが、マレーシアの永住権が財布の中で実際にどう見えるかの姿である。

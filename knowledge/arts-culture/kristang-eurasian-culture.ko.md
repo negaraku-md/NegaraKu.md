@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "christmas-malaysia" }
 related: ["peranakan", "unesco-world-heritage", "christmas-malaysia"]
 keywords: ["Kristang", "Papia Kristang", "Perkampungan Portugis Melaka", "Eurasia Malaysia", "Intrudu", "branyo"]
+framework: history-culture
 ---
 
 믈라카 우종 파시르에는 사람들이 말레이어도, 영어도, 현대 포르투갈어도 아닌 언어로 인사를 주고받는 바닷가 마을이 있습니다 — 그것은 다섯 세기 전에 도래한 정복자들의 언어가 살아남은 자취입니다. 이곳이 크리스탕 공동체의 세계입니다.

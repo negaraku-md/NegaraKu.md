@@ -73,6 +73,7 @@ relations:
   - { rel: "governs", to: "real-property-gains-tax-act-1976" }
 related: ["rpgt-rates", "capital-gains-tax", "capital-or-revenue"]
 keywords: ["إعفاء RPGT", "إعفاء السكن الخاص ماليزيا", "RPGT exemption", "private residence exemption Malaysia", "CKHT 3", "CKHT 1A", "تحويل المحبّة والمودّة", "التحويل العائلي RPGT"]
+framework: rules
 ---
 
 أثمن إعفاء من RPGT في القانون يمكن استعماله مرة واحدة بالضبط، ومعظم الناس

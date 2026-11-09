@@ -97,6 +97,7 @@ keywords:
   - "study visa Malaysia international student"
   - "i-Kad Malaysia"
   - "Malaysia student visa process"
+framework: explainer
 ---
 
 You cannot apply for your own Malaysian student visa. Even with an offer letter in hand and the fees paid, the application has to go through your institution — because the body that screens it isn't Immigration at all, at least not at first. It's a company.

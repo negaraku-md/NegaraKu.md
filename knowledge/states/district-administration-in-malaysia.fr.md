@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "local-government-in-malaysia" }
 related: []
 keywords: ["pentadbiran daerah", "pejabat daerah", "pegawai daerah", "mukim", "pentadbir tanah", "daerah pentadbiran", "Kanun Tanah Negara"]
+framework: explainer
 ---
 
 Entre l'État pour lequel vous votez et le village où vous vivez, il existe une strate de gouvernement rarement mentionnée et pourtant celle que vous rencontrez le plus souvent lorsque vous traitez des affaires foncières, des projets de développement ou une aide d'urgence : le district. C'est là que la politique de l'État se transforme en services concrets, et son centre est le Bureau de district.

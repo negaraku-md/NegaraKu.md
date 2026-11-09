@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["EPF", "KWSP", "SOCSO", "PERKESO", "SIP", "EIS", "caruman", "Akta KWSP 1991", "Akta Keselamatan Sosial Pekerja 1969", "persaraan", "insurans pekerjaan"]
+framework: rules
 ---
 
 Open your payslip and three deductions appear before the first sen ever reaches your bank account: EPF, SOCSO and EIS. None of the three is optional — each is enforced by a separate Act of Parliament, and employers who fail to pay them can be imprisoned. This is Malaysia's social safety net for workers, and every Ringgit deducted buys a different kind of protection.

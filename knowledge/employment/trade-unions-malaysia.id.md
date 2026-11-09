@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "industrial-relations-act-malaysia" }
 related: []
 keywords: ["kesatuan sekerja", "trade union", "Akta Kesatuan Sekerja 1959", "Akta 262", "JHEKS", "e-TUIS", "pindaan 2024", "perundingan kolektif", "Ketua Pengarah Kesatuan Sekerja"]
+framework: explainer
 ---
 
 Selama berpuluh-puluh tahun, seorang pekerja pabrik di Malaysia hanya dapat bergabung dengan satu serikat yang "sah" bagi tempat kerjanya — dan jika serikat itu sudah ada, tidak ada kelompok pekerja lain yang dapat mendirikan yang baru. Reformasi undang-undang yang berlaku pada 15 September 2024 mengubah premis dasar itu.

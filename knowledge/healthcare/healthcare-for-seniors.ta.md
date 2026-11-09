@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "mm2h-long-stay-visa" }
 related: ["mm2h-long-stay-visa"]
 keywords: ["elderly care Malaysia", "nursing home Malaysia", "Rumah Seri Kenangan", "Rumah Ehsan", "geriatric care Malaysia", "PeKa B40", "aged care Malaysia", "Care Centres Act 1993", "warga emas", "long-term care Malaysia"]
+framework: explainer
 ---
 
 அந்த தருணம் பொதுவாக அமைதியாகவே வந்துவிடுகிறது. தனியாக நன்றாகச் சமாளித்து வந்த ஒரு பெற்றோர், அடுப்பு எரிந்துகொண்டிருப்பதை மறக்கத் தொடங்குகிறார், அல்லது அடிக்கடி விழத் தொடங்குகிறார்; இதற்கு ஒருபோதும் திட்டமிடாத ஒரு குடும்பம், அடுத்து என்ன செய்வது என்பதை அவசரமாக முடிவெடுக்க வேண்டியிருக்கிறது. மலேசியாவில் இதற்கான ஒரு அமைப்பு இருக்கிறது — ஆனால் அது ஏற்கனவே முதியோரைச் சந்திக்கும் ஒரு சுகாதார கிளினிக்கிற்கும், பெரும்பாலான குடும்பங்கள் தேடத் தொடங்கும்போது மட்டுமே கண்டறியும் ஒரு நல அமைப்பிற்கும் இடையே பிரிக்கப்பட்டுள்ளது.

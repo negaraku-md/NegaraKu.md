@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "epf-kwsp-retirement-savings" }
 related: []
 keywords: ["GLC", "GLIC", "Khazanah", "government-linked companies", "Bursa Malaysia", "PERKUKUH", "state ownership", "Malaysian economy"]
+framework: explainer
 ---
 
 Hãy mua gần như bất kỳ cổ phiếu blue chip nào trên Bursa Malaysia và bạn đang, một cách gián tiếp, làm ăn với chính phủ Malaysia. Lưới điện quốc gia, ngân hàng lớn nhất, hãng viễn thông chủ lực và một trong những tập đoàn dầu cọ lớn nhất thế giới đều chia sẻ cùng một nhóm chủ sở hữu tối hậu: một cụm nhỏ các quỹ đầu tư nhà nước mà giữa họ điều hướng khoảng một phần tư toàn bộ thị trường chứng khoán trong nước.

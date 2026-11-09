@@ -99,6 +99,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["labuan-company-vs-sdn-bhd", "foreign-ownership-malaysia"]
 keywords: ["foreign exchange policy malaysia", "FEP notices", "BNM exchange control", "domestic ringgit borrowing", "foreign currency account malaysia", "investment abroad malaysia", "resident non-resident BNM"]
+framework: explainer
 ---
 
 マレーシアの創業者に為替管理について尋ねると、たいてい二つの答えのどちらかが返ってくるが、どちらも誤りである。一つ目は、マレーシアは1998年に為替管理を廃止したので、何も考える必要はないというものである。二つ目は、無数の承認が絡み合っており、何をするにも銀行のコンプライアンス部門の手を借りる必要があるというものである。

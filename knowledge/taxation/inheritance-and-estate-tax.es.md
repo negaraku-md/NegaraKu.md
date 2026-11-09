@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "personal-income-tax" }
 related: ["real-property-gains-tax"]
 keywords: ["inheritance tax Malaysia", "estate duty Malaysia", "no inheritance tax", "deceased estate income tax", "RPGT inherited property", "stamp duty inheritance", "executor tax Malaysia", "death tax Malaysia"]
+framework: explainer
 ---
 
 Cuando un progenitor fallece en Kuala Lumpur y deja una casa y algunos ahorros, la primera preocupación de la familia suele ser una factura fiscal sobre la herencia misma. En Malasia, esa factura en concreto no existe. No hay impuesto sobre herencias, ni impuesto de sucesiones, ni impuesto sobre el fallecimiento sobre el patrimonio que alguien deja atrás.

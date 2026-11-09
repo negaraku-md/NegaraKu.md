@@ -96,6 +96,7 @@ relations:
   - { rel: "explained-in", to: "ebos" }
 related: ["beneficial-ownership", "bo-register", "ebos", "who-is-a-beneficial-owner", "annual-return"]
 keywords: ["e-BOS filing Malaysia", "lodge beneficial ownership SSM", "Practice Directive 9/2024", "SSM4U e-BOS", "beneficial ownership 14 days"]
+framework: how-to
 ---
 
 제출은 확인증을 만들어내기 때문에 모두가 기억하는 부분입니다. 바로 그 때문에 위반을

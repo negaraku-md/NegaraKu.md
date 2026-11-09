@@ -79,6 +79,7 @@ related:
   - "malaysian-noodles"
 social:
   hashtags: ["PrawnMee", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 prawn mee เป็นหนึ่งในชามที่เป็นเอกลักษณ์ของปีนัง และบน Lebuh Pantai แผงที่เปิดมา

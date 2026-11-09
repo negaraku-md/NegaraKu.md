@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "renewable-energy-malaysia" }
 related: ["tenaga-nasional"]
 keywords: ["tarif elektrik", "RP4", "AFA", "NETR", "Suruhanjaya Tenaga", "TNB", "tenaga boleh diperbaharui", "peralihan tenaga", "subsidi elektrik"]
+framework: explainer
 ---
 
 Bil elektrik anda kini kelihatan berbeza — dan itu bukan silap cetak. Sejak 1 Julai 2025, setiap kilowatt-jam yang mengalir ke rumah dan kilang Malaysia dikira mengikut satu formula yang jauh lebih terperinci, hasil pembaharuan besar sektor kuasa. Perubahan ini bukan sekadar isu kos bil, tetapi berkait rapat dengan hala tuju negara ke arah tenaga boleh diperbaharui.

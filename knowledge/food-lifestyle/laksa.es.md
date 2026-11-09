@@ -93,6 +93,7 @@ verificationNeeded:
   - "La leyenda del origen del laksa de Johor (el sultán Abu Bakar adoptando los espaguetis tras un viaje por Europa), las fechas exactas de reinado del sultán (las fuentes dan tanto 1862–1895 como 1886–1895) y el año en que el laksa de Johor fue declarado patrimonio en el boletín oficial (las fuentes citan 2009, 2013 y 2023): confírmese con una fuente histórica primaria o del Jabatan Warisan Negara."
   - "La etimología de la palabra 'laksa' (circulan teorías persa, sánscrita y hokkien): confírmese con una fuente lingüística o lexicográfica y no con medios gastronómicos."
   - "La atribución regional del laksam a Kelantan y Terengganu y la descripción exacta de su fideo/salsa: confírmese con una fuente local."
+framework: explainer
 ---
 
 Pide un "laksa" en Penang y te sirven un caldo de pescado ácido y punzante que

@@ -92,6 +92,7 @@ keywords:
   - "Contracts Act 1950 Malaysia"
   - "section 28 Contracts Act non-compete"
   - "liquidated damages Malaysia section 75"
+framework: explainer
 ---
 
 एक मलेशियाई कंपनी लंदन में बनाए गए एक वितरण-समझौते पर हस्ताक्षर करती है। उसमें एक बारह-माह का

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "sabah" }
 related: ["religion-statistics", "article-3-religion", "sarawak", "sabah"]
 keywords: ["Christmas in Malaysia", "Christmas Day public holiday Malaysia", "Christmas Eve Sabah holiday", "Malaysian open house Christmas", "Christians in Malaysia", "Midnight Mass Malaysia", "Holidays Act 1951 Christmas"]
+framework: history-culture
 ---
 
 12月24日傍晚，亚庇或古晋的一座教堂挤满了参加深夜仪式的信众，而在几百公里外的马来西亚半岛，同一天却只是普通的星期四工作日。到了隔天早上，也就是12月25日，全国都放假了。这种分野——同一个日期，两种截然不同的地位——是理解圣诞节在马来西亚所处位置最简明的方式：对某一个社群而言是宗教节日，对所有人而言是公共假期，也是一个不分信仰、许多人都参与其中的敞开门户的季节。

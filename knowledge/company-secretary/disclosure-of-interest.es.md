@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "minute-books-and-records" }
 related: ["directors-duties", "minute-books-and-records", "loans-to-directors", "directors-fees-approval"]
 keywords: ["disclosure of interest Malaysia", "section 221 Companies Act 2016", "section 222 interested director", "conflict of interest director Sdn Bhd", "pengisytiharan kepentingan pengarah", "director interested in contract Malaysia"]
+framework: rules
 ---
 
 La declaración se hizo. Todos en la sala la oyeron. Dos años más tarde, un accionista minoritario pide el acta del consejo de esa reunión, y el acta solo deja constancia de que se aprobó el contrato de suministro. Nada sobre el interés.

@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["staying-safe-scams-and-emergencies", "duitnow-qr-payments", "opening-bank-account", "consumer-rights-and-tribunal"]
 keywords: ["كيفية الإبلاغ عن الاحتيال في ماليزيا", "الخط الساخن 997 NSRC", "المركز الوطني للاستجابة للاحتيال", "SemakMule PDRM", "CCID Infoline 013-211 1222", "تجميد حساب المحتال", "scam call center Malaysia", "الإبلاغ عن الجرائم المالية"]
+framework: how-to
 ---
 
 ينخفض رصيد تطبيق البنك لديك فجأة، أو تكون قد ضغطت للتوّ «تأكيد» على تحويلٍ يبدو الآن خاطئًا تمامًا. يتسارع نبض قلبك. في تلك اللحظة، شيء واحد فقط يُغيّر النتيجة فعلًا: ليس الذعر، بل معرفة أي خط تتصل به — والاتصال به خلال الدقائق القادمة، لا غدًا.

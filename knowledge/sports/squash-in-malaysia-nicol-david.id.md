@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
 related: []
 keywords: ["squash", "Nicol David", "SRAM", "Malaysian squash", "Ng Eain Yow", "Sivasangari Subramaniam", "World Open"]
+framework: profile
 ---
 
 Selama sembilan tahun berturut-turut, pemain squash terbaik di dunia berasal dari Pulau Pinang. Nicol David bukan sekadar menang dalam olahraga individu paling sukses di Malaysia — ia menulis ulang wajah dominasi dalam olahraga tersebut, memegang posisi nomor satu dunia selama **108 bulan berturut-turut** hingga September 2015, dominasi tanpa putus terpanjang yang pernah disaksikan dalam olahraga ini.

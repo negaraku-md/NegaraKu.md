@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["kuala-lumpur", "selangor"]
 keywords: ["Klang Valley rail", "Rapid KL", "MRT Kajang Line", "MRT Putrajaya Line", "LRT Kelana Jaya Line", "KL Monorail", "KTM Komuter", "Shah Alam Line", "LRT3", "KL Sentral", "getting around Kuala Lumpur without a car"]
+framework: explainer
 ---
 
 第一次看巴生谷铁路地图，会觉得它像一堆乱码——MRT、LRT、KTM、ERL、一条粉红色的

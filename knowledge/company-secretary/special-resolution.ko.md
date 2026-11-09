@@ -72,6 +72,7 @@ entity: "Companies Act 2016 (Malaysia)"
 relations: []
 related: []
 keywords: ["special resolution", "ordinary resolution", "special resolution vs ordinary resolution", "Companies Act 2016", "special resolution 75%", "ordinary resolution simple majority", "section 292 Companies Act 2016", "section 291 Companies Act 2016", "written resolution private company Malaysia", "special resolution notice period", "members resolution Malaysia", "resolusi khas", "SSM resolution Malaysia"]
+framework: explainer
 ---
 
 일상적 주주 결정과 구조적 결정을 가르는 두 개의 숫자가 있습니다. 즉 50%와 75%입니다.

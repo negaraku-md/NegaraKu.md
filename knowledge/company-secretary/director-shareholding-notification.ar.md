@@ -118,6 +118,7 @@ relations:
   - { rel: "related-to", to: "statutory-registers" }
 related: ["directors-duties", "statutory-registers", "register-of-members", "directors-report", "disclosure-of-interest"]
 keywords: ["المادة 219 قانون الشركات", "section 219 Companies Act 2016", "إشعار حيازة أسهم المدير ماليزيا", "director shareholding notification Malaysia", "سجل حيازات أسهم المديرين", "register of directors shareholdings", "السجل بموجب المادة 59", "section 59 register Malaysia", "مصلحة المدير في الأسهم 14 يوماً"]
+framework: rules
 ---
 
 اسأل مديراً ماليزياً متى آخر مرة قدّم فيها إلى شركته إشعاراً خطياً بحيازته هو من

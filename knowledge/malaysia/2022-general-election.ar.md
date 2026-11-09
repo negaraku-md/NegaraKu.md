@@ -65,6 +65,7 @@ sources:
 
 related: ["anwar-ibrahim", "ismail-sabri-yaakob", "muhyiddin-yassin", "prime-ministers-of-malaysia", "how-elections-work"]
 keywords: ["GE15", "الانتخابات العامة 2022 ماليزيا", "2022 general election Malaysia", "برلمان معلّق", "hung parliament", "حكومة وحدة", "unity government", "Undi18"]
+framework: history-culture
 ---
 
 > **مسودة — حسّاسة.** هذا المقال ملخّص حيادي قيد الإعداد ولم يُراجَع للنشر.

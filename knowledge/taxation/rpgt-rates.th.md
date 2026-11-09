@@ -87,6 +87,7 @@ relations:
   - { rel: "explained-in", to: "rpgt-exemptions" }
 related: ["rpgt-exemptions", "capital-gains-tax", "capital-or-revenue", "lhdn"]
 keywords: ["RPGT rates Malaysia", "cukai keuntungan harta tanah", "RPGT computation", "RPGT 6th year", "Schedule 5 RPGTA", "CKHT"]
+framework: data-reference
 ---
 
 คู่มือ RPGT เกือบทุกฉบับที่หมุนเวียนอยู่พิมพ์ลำดับอัตราเดียว: 30, 30, 30, 20, 15, 0 ลำดับนั้นเป็นเรื่องจริง แต่ใช้กับผู้จำหน่ายเพียงหนึ่งในสามประเภทใน Schedule 5 เท่านั้น ใช้กับ Sdn Bhd แล้วคุณจะตั้งสำรองขาดไป 10% ของกำไรทั้งหมด ใช้กับผู้ซื้อต่างชาติที่ขายต่อในปีที่สี่แล้วคุณจะคลาดไปสิบห้าจุดร้อยละ

@@ -98,6 +98,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.267(4) and s.267(6)"
     consequence: "The company and every director commit an offence under s.267(7)"
+framework: rules
 ---
 
 A signed engagement letter is not an appointment. Neither is an email confirming

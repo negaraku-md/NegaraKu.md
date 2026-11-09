@@ -98,6 +98,7 @@ verificationNeeded:
   - "『kari kapitan』一名的由来（一个流行说法将其与一位 Kapitan China／一位问厨师晚餐吃什么的『船长』联系起来）——此词源属于轶闻且未经证实；请以烹饪史来源核实。"
   - "inchi kabin（Penang 香料炸鸡）究竟属于娘惹、海南还是殖民混合渊源——归属说法不一；请以 Penang 文化遗产或烹饪来源核实。"
   - "关于 Penang 娘惹烹饪之酸与辣源自泰式影响、而 Melaka／新加坡烹饪更受印尼影响这一具体论断——这一地方性框架在各来源中反复出现，但应对照所引 Journal of Ethnic Foods 等学术研究加以核实。"
+framework: history-culture
 ---
 
 舀起一碗娘惹菜，你会同时尝到两个世界：一个华人厨房里发酵、酱香与猪肉的深沉，被托举在一个马来厨房的香茅、belacan

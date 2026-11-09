@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["program-rahmah-cost-of-living", "cost-of-living-overview", "inflation-cpi", "ringgit", "gdp-overview"]
 keywords: ["subsidi bahan api Malaysia", "Mekanisme Harga Automatik", "APM harga minyak", "BUDI95", "BUDI Diesel", "subsidi bersasar", "harga RON95", "SKDS SKPS"]
+framework: explainer
 ---
 
 En la semana del 23 al 29 de julio de 2026, dos conductores podían estar junto al mismo surtidor, llenar el depósito con el mismo combustible y pagar precios que diferían casi al doble. Uno pagó RM1.99 por litro. El otro pagó RM3.62.

@@ -85,6 +85,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaLicensing
     - SupplyChain
+framework: how-to
 ---
 
 Starting a logistics company in Malaysia is not one decision but a stack of them. The Sdn Bhd is the easy part; the value — and the delay — is in the licences. A lorry that carries someone else's cargo, a forwarder that lodges a customs declaration, and a driver behind the wheel each answer to a different regulator, and the biggest one — the operator licence — is also where foreign ownership hits a wall. This is the operator's set-up path, in the order you actually need it.

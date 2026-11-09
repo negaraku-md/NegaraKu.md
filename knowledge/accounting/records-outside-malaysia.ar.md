@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-accounting-records" }
 related: ["accounting-records-section-245"]
 keywords: ["السجلات المحاسبية خارج ماليزيا", "المادة 245(5) قانون الشركات", "السجلات المحاسبية السحابية ماليزيا", "سجلات مركز الخدمات المشتركة ماليزيا", "حفظ السجلات في ماليزيا LHDN", "accounting records outside Malaysia", "section 245(5) Companies Act"]
+framework: rules
 ---
 
 إن شركة تابعة ماليزية تشغّل نظام SAP من مركز بيانات في سنغافورة، ووظيفتها المالية ضمن

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "perquisites-and-benefits-in-kind-tax" }
 related: ["companies-act-2016"]
 keywords: ["ESOS malaysia", "employee share option scheme malaysia", "ESOP malaysia tax", "share option perquisite malaysia", "section 75 companies act 2016", "bursa 15% share scheme", "how ESOS is taxed malaysia"]
+framework: explainer
 ---
 
 现金短缺的初创公司与追求人才留存的成熟公司都会借助同一个工具：给员工分一份股权。员工购股权计划（ESOS）让员工日后以今天定下的价格购买股份，从而分享他们协助创造的增值。它威力强大——但也是创办人常常在不知不觉间把法律和税务搞错的地方，通常是税务。

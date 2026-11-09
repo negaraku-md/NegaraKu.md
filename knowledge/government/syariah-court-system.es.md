@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "federal-state-division" }
 related: ["civil-and-syariah-courts", "kehakiman-mahkamah", "federal-constitution"]
 keywords: ["mahkamah syariah", "sistema de tribunales de Malasia", "Artículo 121(1A)", "jurisdicción de los tribunales de la Syariah", "Tribunal Superior de la Syariah", "Act 355", "Act 505", "derecho islámico de familia"]
+framework: explainer
 ---
 
 Una esposa que solicita un fasakh y un comerciante que reclama una deuda de RM60,000 inician ambos sus casos con un único formulario en el mostrador de un tribunal. Sin embargo, no acuden al mismo mostrador, sus casos no son juzgados por el mismo tipo de juez, y la ley que determina su desenlace proviene de dos órganos legisladores distintos.

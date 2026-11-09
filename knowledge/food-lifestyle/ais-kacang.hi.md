@@ -96,6 +96,7 @@ social:
     - "#MalaysianDessert"
     - "#ShavedIce"
     - "#PasarMalam"
+framework: explainer
 ---
 
 मलेशिया की किसी गर्म दोपहर में, बर्फ छीलने वाली मशीन की घरघराहट जितना भीड़ खींचने

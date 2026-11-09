@@ -88,6 +88,7 @@ relations:
   - { rel: "compares-with", to: "bahasa-melayu" }
 related: ["population-composition", "article-152-language", "bahasa-melayu", "languages-spoken", "federal-constitution"]
 keywords: ["Tamil in Malaysia", "SJKT", "Sekolah Jenis Kebangsaan Tamil", "Tamil schools Malaysia", "Malaysian Indians", "Article 152", "Tamil medium instruction", "vernacular schools"]
+framework: explainer
 ---
 
 Di perkebunan karet lama Malaya, sebagian dari ruang kelas paling awal adalah bangsal dan pondok, dengan pengajaran dalam bahasa Tamil. Menurut satu kajian sejarah yang diterbitkan dalam jurnal Persatuan Sejarah Malaysia, pendidikan dasar dalam bahasa Tamil ditawarkan di perkebunan sejak awal abad kedua puluh, diatur di bawah undang-undang perburuhan pada masa itu dan, untuk waktu yang lama, diajar oleh juru tulis dan pekerja paruh waktu, bukan guru terlatih.

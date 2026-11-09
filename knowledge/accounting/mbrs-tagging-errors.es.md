@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "sdn-bhd-bookkeeping" }
 related: ["mbrs-2-filing-guide", "mbrs-2", "financial-statement-pack", "sdn-bhd-bookkeeping", "mfrs-vs-mpers"]
 keywords: ["error de etiquetado MBRS", "validación SSMxT", "fallo de validación XBRL Malasia", "error mTool", "MBRS rechazado", "etiquetado en bloque de texto SSM", "escala decimals MBRS"]
+framework: explainer
 ---
 
 El fallo que cuesta dinero no es el que impide que el archivo se genere. Es el que se genera limpiamente, se presenta limpiamente, y lleva un número que está equivocado por un factor de mil.

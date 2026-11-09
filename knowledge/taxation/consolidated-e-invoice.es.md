@@ -86,6 +86,7 @@ relations:
   - { rel: "explained-in", to: "myinvois-phases" }
 related: ["e-invoicing", "myinvois-phases", "self-billed-e-invoice", "e-invoice-data-fields", "myinvois-integration"]
 keywords: ["consolidated e-Invoice", "e-invois disatukan", "RM10000 e-Invoice rule", "consolidated e-Invoice deadline", "General Public EI00000000010", "industries cannot consolidate e-Invoice"]
+framework: explainer
 ---
 
 La consolidación es la concesión que hace que la e-Invoicing sea soportable para

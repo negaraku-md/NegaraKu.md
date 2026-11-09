@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "kaamatan" }
 related: ["hari-raya-aidilfitri", "chinese-new-year", "deepavali", "christmas-malaysia", "gawai-dayak", "kaamatan"]
 keywords: ["أطعمة الأعياد", "طعام رايا", "ketupat", "rendang", "lemang", "yee sang", "lou sang", "murukku", "manok pansuh", "hinava", "tuak", "tumpung", "البيت المفتوح", "kuih raya"]
+framework: history-culture
 ---
 
 تابِع التقويم الماليزي من طرف السنة إلى طرفها الآخر، فلن تكون مجرد مبدِّل للتواريخ — بل مبدِّل للمطابخ. هذا الشهر رائحة rendang وحليب جوز هند lemang؛ وبعد أشهر قليلة، تمتلئ المائدة بسلطة سمك نيء تُرفع عاليًا بينما يهتف الناس؛ ثم يأتي دور لفائف murukku المقرمشة، وأخيرًا قطعة بامبو مشقوقة تُفتَح لتطلق دجاجًا يتصاعد منه البخار.

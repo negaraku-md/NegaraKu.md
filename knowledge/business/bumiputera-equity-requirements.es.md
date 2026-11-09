@@ -113,6 +113,7 @@ keywords:
   - "PK 1.5 Bumiputera procurement"
   - "BCPLC status"
   - "distributive trade Bumiputera equity"
+framework: data-reference
 ---
 
 Las condiciones de participación y capital bumiputera son una parte viva del cumplimiento

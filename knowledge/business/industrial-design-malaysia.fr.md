@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["patent-malaysia", "trademark-registration-malaysia", "ip-ownership-malaysia"]
 keywords: ["industrial design registration malaysia", "myipo industrial design", "industrial designs act 1996", "design protection malaysia", "product design ip malaysia"]
+framework: explainer
 ---
 
 L'erreur la plus coûteuse de toutes dans la PI des produits malaisiens est de lancer en premier. Un déposant de brevet qui a montré l'invention le mois dernier est toujours en règle — la s.14(3) de la Patents Act 1983 accorde un délai de grâce de douze mois. Un déposant de dessin dans la même situation a généralement déjà perdu le droit, parce que la Industrial Designs Act 1996 n'accorde rien d'équivalent.

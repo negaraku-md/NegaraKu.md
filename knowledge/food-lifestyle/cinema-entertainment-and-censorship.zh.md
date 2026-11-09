@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "consumer-protection-act" }
 related: ["sedition-act", "consumer-protection-act"]
 keywords: ["penapisan filem", "Lembaga Penapisan Filem", "LPF", "klasifikasi filem", "P12", "P13", "Akta Penapisan Filem 2002", "lesen hiburan", "karaoke", "pawagam", "DBKL", "pihak berkuasa tempatan"]
+framework: explainer
 ---
 
 一部在 YouTube 上疯传的电影，或许从未经过电影审查局——但同一部电影，若要在电影院放映，就必须先取得它的批准盖章。这种差异并非无意间的宽松；它内建于马来西亚法律如何管控公众可以看到什么的方式之中。

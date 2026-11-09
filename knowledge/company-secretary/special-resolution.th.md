@@ -72,6 +72,7 @@ entity: "Companies Act 2016 (Malaysia)"
 relations: []
 related: []
 keywords: ["special resolution", "ordinary resolution", "special resolution vs ordinary resolution", "Companies Act 2016", "special resolution 75%", "ordinary resolution simple majority", "section 292 Companies Act 2016", "section 291 Companies Act 2016", "written resolution private company Malaysia", "special resolution notice period", "members resolution Malaysia", "resolusi khas", "SSM resolution Malaysia"]
+framework: explainer
 ---
 
 สองตัวเลขแยกการตัดสินใจของผู้ถือหุ้นแบบประจำออกจากแบบเชิงโครงสร้าง: 50% และ 75% เลือกประเภทมติผิด แล้วคุณจะได้เสียงข้างมากไม่ถึงตามที่ Companies Act 2016 เรียกร้อง หรือให้หนังสือบอกกล่าวสามสัปดาห์สำหรับสิ่งที่ต้องการแค่สองสัปดาห์ คู่มือนี้ตอบคำถามที่แท้จริง — การกระทำเฉพาะ *ของคุณ* ต้องการมติแบบใด และคุณจะผ่านมันในฐานะบริษัทเอกชน Sdn Bhd อย่างไร

@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: []
 keywords: ["franchise registration malaysia", "franchise act 1998", "MyFEX 2.0", "franchisor registration", "franchisee registration", "franchise disclosure document", "section 6 franchise act", "section 54 approval"]
+framework: how-to
 ---
 
 คุณไม่อาจเสนอแฟรนไชส์ในมาเลเซียอย่างถูกกฎหมายในแบบที่คุณจะทำในส่วนใหญ่ของโลก — เซ็นสัญญาสาขาสองสามแห่งอย่างเงียบ ๆ ก่อน แล้วค่อยจัดการให้เป็นทางการภายหลัง กฎหมายพลิกลำดับนั้น การจดทะเบียนมาก่อนข้อเสนอแรก และตั้งแต่ปี 2022 มันใช้กับแฟรนไชส์ซีด้วย

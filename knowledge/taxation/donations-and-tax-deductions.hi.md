@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["waqf-islamic-endowment-malaysia", "income-tax-in-malaysia", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["मलेशिया कर-कटौती योग्य दान", "धारा 44(6) अनुमोदित संस्थान", "समग्र आय का 10% दान सीमा", "LHDN अनुमोदित धर्मार्थ संस्था जाँच", "tax deductible donation Malaysia", "section 44(6) approved institution"]
+framework: rules
 ---
 
 रसीद पर लिखा होता है *उपधारा 44(6) के तहत कर-मुक्त*। यह वाक्य धर्मार्थ संस्था

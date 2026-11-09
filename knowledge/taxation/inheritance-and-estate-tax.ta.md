@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "personal-income-tax" }
 related: ["real-property-gains-tax"]
 keywords: ["inheritance tax Malaysia", "estate duty Malaysia", "no inheritance tax", "deceased estate income tax", "RPGT inherited property", "stamp duty inheritance", "executor tax Malaysia", "death tax Malaysia"]
+framework: explainer
 ---
 
 கோலாலம்பூரில் ஒரு பெற்றோர் இறந்து, ஒரு வீட்டையும் சில சேமிப்புகளையும் விட்டுச் செல்லும்போது, குடும்பத்தின் முதல் கவலை பெரும்பாலும் வாரிசுச் சொத்தின் மீதே வரி விதிக்கப்படுமா என்பதுதான். மலேசியாவில், அந்தக் குறிப்பிட்ட வரி இல்லவே இல்லை. ஒருவர் விட்டுச்செல்லும் செல்வத்தின் மீது வாரிசு வரியோ, எஸ்டேட் வரியோ (estate duty), இறப்பு வரியோ இல்லை.

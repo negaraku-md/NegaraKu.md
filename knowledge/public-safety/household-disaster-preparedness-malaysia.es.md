@@ -93,6 +93,7 @@ relations:
   - { rel: "administered-by", to: "nadma-malaysia" }
 related: []
 keywords: ["preparación ante inundaciones", "kit de emergencia", "inundación monzónica", "PPS", "Bantuan Wang Ihsan", "NADMA", "advertencia meteorológica MetMalaysia", "deslizamiento de tierra", "terremoto de Sabah", "desastre"]
+framework: how-to
 ---
 
 Ver el agua del río subir hasta el nivel de la carretera a las dos de la

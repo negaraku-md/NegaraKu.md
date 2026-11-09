@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "terengganu-turtle-enactment" }
 related: []
 keywords: ["penyu", "penyu belimbing", "Rantau Abang", "taman laut", "Akta Perikanan 1985", "Enakmen Penyu Terengganu", "pemuliharaan marin", "telur penyu", "tortugas marinas", "tortuga laúd", "conservación marina", "huevos de tortuga"]
+framework: explainer
 ---
 
 A finales de la década de 1960, unas 2,000 tortugas laúd hembras salían cada año a la orilla en un único tramo de playa de Rantau Abang, Terengganu, y dejaban casi 10,000 nidos de huevos en la arena. Hoy no queda ni una sola. Esa historia de declive es uno de los fracasos de conservación de fauna silvestre más llamativos de la región — y ha moldeado cómo Malasia protege a las tortugas marinas hasta el día de hoy.

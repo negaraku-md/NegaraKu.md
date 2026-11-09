@@ -112,6 +112,7 @@ relations:
   - { rel: "related-to", to: "unaudited-financial-statements" }
 related: ["annual-return", "financial-statements-lodgement", "extension-of-time-ssm", "ssm-late-lodgement-fees", "unaudited-financial-statements", "audit-exemption"]
 keywords: ["MBRS 2.0", "MBRS Malaysia", "XBRL filing SSM", "mTool", "mPortal", "SSM taxonomy SSMxT", "lodge financial statements SSM", "annual return XBRL"]
+framework: explainer
 ---
 
 बीस वर्षों तक मलेशियाई वित्तीय विवरणों का एक सेट SSM के पास एक हस्ताक्षरित PDF

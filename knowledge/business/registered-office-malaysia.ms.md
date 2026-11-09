@@ -89,6 +89,7 @@ keywords:
   - "pejabat maya syarikat Malaysia"
   - "seksyen 46 Akta Syarikat 2016"
   - "alamat perniagaan berbanding pejabat berdaftar"
+framework: explainer
 ---
 
 Tiga alamat, dan ketiga-tiganya bukan perkara yang sama.

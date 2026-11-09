@@ -93,6 +93,7 @@ relations:
   - { rel: "part-of", to: "malaysia-agreement-1963" }
 related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
 keywords: ["Sabah travel guide", "Kota Kinabalu", "Mount Kinabalu climb permit", "Kinabalu Park UNESCO", "Sipadan diving permit", "Sepilok orangutan", "Sabah immigration checkpoint", "Sabah entry requirements"]
+framework: explainer
 ---
 
 쿠알라룸푸르에서 코타키나발루(Kota Kinabalu)까지 나라를 떠나지 않고 비행하고도 착륙하면 출입국 창구에 줄을 서게 됩니다. 이 의외의 사실은 많은 첫 방문객을 놀라게 하며 — 사바 여행을 계획하기 전에 이해해야 할 가장 중요한 한 가지입니다. 이 가이드는 관문, 주요 명소, 그리고 사바를 그 자체의 고유한 곳으로 느끼게 하는 입국 규정을 살펴봅니다. 어떤 매우 실질적인 의미에서 사바는 실제로 그러하기 때문입니다.

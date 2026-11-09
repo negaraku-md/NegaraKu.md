@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#SekYuen", "#BibGourmand", "#MichelinGuide", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 踏进 Jalan Pudu 上 Sek Yuen 的中间那间店，岁月一目了然——磨损的陈设、至今仍以猛火

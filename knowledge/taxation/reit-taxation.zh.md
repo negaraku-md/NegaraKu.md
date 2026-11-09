@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["income-tax-act-1967", "lhdn"]
 keywords: ["REIT tax Malaysia", "property trust fund", "section 61A", "withholding tax REIT", "YA 2026 REIT tax", "unit holder distribution"]
+framework: explainer
 ---
 
 买入马来西亚REIT的一个单位，你实际上就成了一名永远收不到大楼税单的房东——因为持有该大楼的信托，在税务机关能碰到之前，几乎把一切都交到了你手上。这一项写入《1967年所得税法令》第61A条的设计选择，正是让房地产投资信托（REIT）与产业信托基金（PTF）得以运作的关键。但在2026课税年（YA 2026），这场交易的另一半——也就是*你*，作为单位持有人如何被征税——多年来首次发生了变化。

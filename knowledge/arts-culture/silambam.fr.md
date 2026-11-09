@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "indian-classical-arts-in-malaysia", "thaipusam", "estate-tamil-community", "temple-music-nadaswaram"]
 keywords: ["சிலம்பம்", "Silambam", "மலேசியா சிலம்பம்", "தமிழ் தற்காப்புக் கலை", "நீண்ட தடி", "அடவுகள்", "குத்து வரிசை", "Silambam Malaysia"]
+framework: history-culture
 ---
 
 Lors d'une fête de temple ou d'une célébration du Nouvel An tamoul en Malaisie, vous pourrez voir un jeune homme faire tournoyer un long bâton de bambou au-dessus de sa tête et autour de son corps à une vitesse fulgurante, au rythme des tambours. Ce tournoiement n'est pas qu'une affaire d'esthétique — c'est l'emblème du silambam, un art martial tamoul vieux de plus de mille cinq cents ans.

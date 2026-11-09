@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-new-year", "population-composition", "religion-statistics", "hungry-ghost-festival"]
 keywords: ["中秋节", "月饼节", "灯笼节", "月饼", "冰皮月饼", "灯笼", "嫦娥奔月", "赏月", "柚子", "团圆", "农历八月十五", "马来西亚华人", "Mid-Autumn Festival Malaysia", "Mooncake Festival"]
+framework: history-culture
 ---
 
 음력 8월 15일 밤이 되면 쇼핑몰의 아트리움에는 붉게 빛나는 등롱이 가득 내걸리고, 주택가 공원에서는 아이들이 두셋씩 불을 밝힌 등롱을 들고 거닙니다. 집 식탁에는 작게 자른 월병 한 상자와 뜨거운 차 한 주전자, 그 옆에 껍질을 벗긴 포멜로 하나가 놓여 있습니다. 가족은 의자를 집 밖으로 옮겨 놓고 한 해 중 가장 둥근 달을 올려다봅니다 — 이것이 말레이시아 화인 가정의 전형적인 중추절 밤입니다.

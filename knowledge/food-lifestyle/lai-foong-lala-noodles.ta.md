@@ -69,6 +69,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["LaiFoongLalaNoodles", "BibGourmand", "MichelinGuideMalaysia", "KualaLumpur", "MalaysianFood"]
+framework: profile
 ---
 
 Lai Foong Lala Noodles என்பது பழைய கோலாலம்பூரின் மையத்தில், Jalan Sultan தெருவில்

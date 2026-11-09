@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: ["federal-constitution", "melaka-sultanate", "independence-1957"]
 keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Kebangsaan 1963/67", "tulisan Jawi Rumi", "Ejaan Rumi Baharu 1972"]
+framework: explainer
 ---
 
 Ở Kuala Berang, Terengganu, người ta tìm thấy một bia đá mà trên đó khắc những từ tiếng Mã Lai — không phải bằng các chữ cái mà chúng ta biết ngày nay, mà bằng chữ Ả Rập được điều chỉnh cho các âm tiếng Mã Lai. Theo Cục Lưu trữ Quốc gia Malaysia (Arkib Negara Malaysia), bia đá đó có niên đại năm 1303 sau Công nguyên.

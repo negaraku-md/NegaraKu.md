@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "epf-kwsp-retirement-savings" }
 related: []
 keywords: ["GLC", "GLIC", "Khazanah", "government-linked companies", "Bursa Malaysia", "PERKUKUH", "state ownership", "Malaysian economy"]
+framework: explainer
 ---
 
 ซื้อหุ้นบลูชิปแทบทุกตัวใน Bursa Malaysia แล้วคุณก็กำลังทำธุรกิจกับรัฐบาลมาเลเซียโดยอ้อม โครงข่าย

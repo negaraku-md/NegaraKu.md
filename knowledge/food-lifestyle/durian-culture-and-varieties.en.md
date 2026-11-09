@@ -93,6 +93,7 @@ keywords:
   - "varieti durian"
   - "musim durian"
   - "eksport durian China"
+framework: explainer
 ---
 
 In Malaysia, durian is not just a fruit — it is called the king of fruits, and at

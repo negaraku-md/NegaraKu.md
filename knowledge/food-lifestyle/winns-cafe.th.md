@@ -74,6 +74,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#WinnsCafe", "#Peranakan", "#Nyonya", "#Penang", "#BibGourmand"]
+framework: profile
 ---
 
 ปีนังคือใจกลางเก่าแก่ของอาหารชาวจีนช่องแคบ และ Winn's Cafe รักษาประเพณีนั้นไว้ด้วยวิธี

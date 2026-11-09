@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "hire-purchase-act-1967-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["SBR Malaysia", "Taux de base normalisé", "Standardised Base Rate", "ratio de service de la dette", "DSR", "prêt au logement", "housing loan Malaysia", "Hire Purchase Act 1967", "BLR", "financement responsable", "OPR"]
+framework: explainer
 ---
 
 Deux acheteurs de logement entrent dans deux banques différentes avec la même fiche de paie et ressortent avec deux réponses différentes. Aucune des banques n'a inventé son propre taux d'intérêt, et aucune n'agit de façon arbitraire. Le système de prêts aux particuliers de la Malaisie repose sur un petit ensemble de règles communes — l'une qui relie chaque prêt à taux variable à un unique cadran de politique à Kuala Lumpur, l'une qui décide du niveau de dette que vous pouvez supporter, et, pour votre voiture, une loi entièrement distincte datant de 1967.

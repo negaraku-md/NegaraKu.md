@@ -88,6 +88,7 @@ keywords:
   - "virtual office Malaysia company"
   - "section 46 Companies Act 2016"
   - "business address vs registered office"
+framework: explainer
 ---
 
 மூன்று முகவரிகள், அவை ஒன்றல்ல.

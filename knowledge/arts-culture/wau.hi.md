@@ -83,6 +83,7 @@ relations:
 related: ["batik", "wayang-kulit", "kelantan"]
 entity: "Wau"
 keywords: ["wau", "wau bulan", "वाउ", "वाउ बुलान", "पारंपरिक पतंग", "layang-layang tradisional", "केलंतान शिल्प", "Adiguru Kraf wau"]
+framework: history-culture
 ---
 
 वाउ को देखने से पहले आप उसे सुनते हैं। एक ठीक से बना पारंपरिक वाउ पूरे समय गुनगुनाता रहता है जब तक वह हवा में रहता है — हवा की आवाज़ नहीं, बल्कि जानबूझकर उसकी बनावट में गढ़ा गया एक स्वर।

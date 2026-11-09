@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["ekonomi-madani-framework", "malaysia-plans", "bumiputera-equity-requirements", "gdp-overview", "federal-budget"]
 keywords: ["política económica Bumiputera", "Dasar Ekonomi Baru", "DEB", "reestructuración de la sociedad", "PuTERA35", "Pelan Transformasi Ekonomi Bumiputera 2035", "Majlis Ekonomi Bumiputera", "Economía MADANI", "participación propiedad control"]
+framework: explainer
 ---
 
 El 19 August 2024, el gobierno lanzó el Plan de Transformación Económica

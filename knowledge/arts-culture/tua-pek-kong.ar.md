@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "chinese-religion-in-malaysia" }
 related: ["chinese-religion-in-malaysia", "mazu-worship", "chinese-clan-associations", "chinese-new-year", "nine-emperor-gods-festival"]
 keywords: ["大伯公", "福德正神", "土地公", "伯公", "福神", "海珠屿大伯公庙", "宝福社", "请火", "Chneah Hoay", "张理", "南洋华人", "马来西亚华人信仰", "Tua Pek Kong", "Tua Pek Kong Malaysia"]
+framework: history-culture
 ---
 
 على شاطئ تانجونغ توكونغ (丹絨道光) في بينانغ يقوم معبد ليس بالكبير، يظل هادئًا معظم العام. لكن في موسم عيد الفوانيس يتبدّل المشهد تمامًا: سلال حَمَلة البخور، والطبول والصنوج، وصفوف طويلة من الناس تأتي من جورج تاون؛ وفي الليل تُطفأ كل الأنوار والشموع في المعبد، ويحتشد الناس حول مجمرة، حابسين أنفاسهم وهم يروّحون النار — ويُعدّ ارتفاع اللهب 'تنبؤًا' للعام المقبل. هذا المعبد هو، في أذهان كثيرين، منبع عبادة توا بيك كونغ.

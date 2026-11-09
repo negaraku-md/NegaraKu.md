@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "getting-around-malaysia-public-transport" }
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["Melaka heritage", "Melaka UNESCO World Heritage", "Jonker Street", "Baba Nyonya Peranakan Melaka", "A Famosa Porta de Santiago", "Stadthuys Dutch Square", "St Paul's Hill Melaka", "Melaka travel guide"]
+framework: explainer
 ---
 
 Berdirilah di Dataran Belanda pada waktu senja dan anda boleh membaca lima abad dalam satu pandangan: sebuah dewan bandaraya Belanda berwarna merah salmon di satu sisi, runtuhan sebuah gereja zaman Portugis di bukit di atas, sebuah pintu gerbang batu yang pernah menjadi teras sebuah kubu yang cuba dirobohkan oleh British, dan — dua minit berjalan kaki dari situ — sebuah lorong rumah kedai Cina-Melayu yang kini bergemerlapan untuk bazar malam Jumaat. Melaka tidak menyebarkan sejarahnya merentasi sebuah bandar besar. Ia menyusunnya ke dalam kawasan lebih kurang satu batu persegi yang boleh anda jelajahi dalam satu petang. Inilah cara membacanya, dan cara merancang lawatan mengelilinginya.

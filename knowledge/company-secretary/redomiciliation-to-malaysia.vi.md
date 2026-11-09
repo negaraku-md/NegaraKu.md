@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "labuan-company-formation" }
 related: []
 keywords: ["redomiciliation", "re-domiciliation", "continuance", "Labuan", "Labuan Companies Act 1990", "section 16", "foreign company", "domicile", "Companies Act 2016", "Labuan FSA"]
+framework: explainer
 ---
 
 Một công ty muốn trở thành Malaysia mà không giải thể ở nước ngoài và bắt đầu lại có đúng một cánh cửa vào

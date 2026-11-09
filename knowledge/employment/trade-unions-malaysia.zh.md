@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "industrial-relations-act-malaysia" }
 related: []
 keywords: ["kesatuan sekerja", "trade union", "Akta Kesatuan Sekerja 1959", "Akta 262", "JHEKS", "e-TUIS", "pindaan 2024", "perundingan kolektif", "Ketua Pengarah Kesatuan Sekerja"]
+framework: explainer
 ---
 
 数十年来，马来西亚的工厂工人只能加入其工作场所唯一「合法」的职工会——而如果该职工会已经存在，其他工人团体便无法另设新会。自 2024 年 9 月 15 日生效的法律改革，改变了这一根本前提。

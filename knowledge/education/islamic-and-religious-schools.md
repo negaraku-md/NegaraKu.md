@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "national-education-system" }
 related: ["jakim"]
 keywords: ["SABK", "sekolah agama", "tahfiz", "KAFA", "JAKIM", "pendidikan Islam", "sekolah agama rakyat", "jabatan agama negeri"]
+framework: explainer
 ---
 
 Seorang kanak-kanak di Malaysia boleh menghabiskan pagi di sekolah kebangsaan, petang di kelas KAFA masjid, dan tahun-tahun remajanya di asrama tahfiz — tiga persekitaran pendidikan yang berlainan penyelia, kurikulum dan undang-undang. Aliran pendidikan agama Islam berjalan selari dengan sistem kebangsaan, tetapi ia bukan satu blok tunggal. Memahami siapa mendaftar apa, dan siapa bertanggungjawab atas apa, ialah kunci untuk membaca perbahasan awam tentang topik ini secara adil.

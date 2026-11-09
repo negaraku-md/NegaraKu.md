@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "incorporate-company-malaysia-sdn-bhd" }
 related: ["companies-act-2016"]
 keywords: ["foreign company registration Malaysia", "branch office Malaysia", "section 562 Companies Act 2016", "SSM foreign company", "local agent Malaysia", "branch vs Sdn Bhd"]
+framework: how-to
 ---
 
 해외 회사는 오랫동안 해외에서 말레이시아로 판매할 수 있습니다 — 그러나 사무실을 열고, 현지 임대차 계약을 체결하거나, 현장에 직원을 두는 순간 선을 넘게 됩니다. 일단 말레이시아에서 *영업을 하게 되면*, 회사법(Companies Act 2016)은 먼저 등록할 것을 요구하며, 그렇게 하면 그 동일한 해외 회사가 말레이시아에 등록된 지점으로 전환됩니다.

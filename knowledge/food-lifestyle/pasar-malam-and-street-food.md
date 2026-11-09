@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "malaysian-street-food" }
 related: []
 keywords: ["pasar malam", "pasar tani", "pasar basah", "street food", "FAMA", "gred kebersihan premis makanan", "penjaja"]
+framework: explainer
 ---
 
 Menjelang senja, sebatang jalan yang lengang tiba-tiba bertukar menjadi lorong asap satay, timbunan buah, dan deretan lampu kalimantang — inilah pasar malam, salah satu institusi paling merakyat di Malaysia. Bersama pasar tani dan pasar basah, ia membentuk jaringan pasar rakyat yang menjadi tempat orang Malaysia membeli-belah dan makan setiap hari.

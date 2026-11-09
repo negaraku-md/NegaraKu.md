@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "driving-licence-in-malaysia" }
 related: []
 keywords: ["keselamatan jalan raya", "kemalangan jalan raya Malaysia", "pemanduan mabuk", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
+framework: explainer
 ---
 
 매일 약 18명의 생명이 말레이시아 도로에서 사라집니다. 그 수치는 도로를 이 나라에서 가장 두드러진 비자연적 사망 원인 중 하나로 만들며, 이를 다루기 위해 법률, 카메라 및 전담 기관이 동원되는 주요 이유입니다.

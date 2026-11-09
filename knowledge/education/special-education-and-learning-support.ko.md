@@ -61,6 +61,7 @@ relations:
   - { rel: "part-of", to: "education" }
 related: []
 keywords: ["special education Malaysia", "PPKI programme", "PPI inclusive education", "OKU card children", "sekolah pendidikan khas", "learning disability support Malaysia", "special education curriculum Malaysia", "TASKA OKU"]
+framework: explainer
 ---
 
 진단은 첫 번째 대화일 뿐입니다. 두 번째 대화는 — 흔히 더 혼란스러운데 — 자녀가 실제로 어느 학교 트랙에 들어가는지, 그리고 왜 학교보다 OKU 카드가 먼저 중요해 보이는지입니다. 말레이시아의 제도에는 세 개의 공교육 트랙, 그 모두로 이어지는 별도의 장애 등록 절차, 그리고 대부분의 학부모가 단일 공식 페이지가 아니라 입소문으로 알게 되는 민간·NGO 치료의 병행 세계가 있습니다.

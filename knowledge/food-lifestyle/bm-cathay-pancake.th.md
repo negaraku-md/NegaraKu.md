@@ -76,6 +76,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["ApamBalik", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 การยอมรับจาก MICHELIN ในปีนังมักกระจุกตัวอยู่ในจอร์จทาวน์ แต่หนึ่งในผู้ถือ Bib

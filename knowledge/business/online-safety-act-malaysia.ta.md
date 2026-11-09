@@ -121,6 +121,7 @@ relations:
   - { rel: "related-to", to: "communications-and-multimedia-act-1998" }
 related: []
 keywords: ["online safety act 2025", "act 866 malaysia", "online safety plan malaysia", "harmful content malaysia", "mcmc online safety"]
+framework: rules
 ---
 
 மலேசியாவின் Online Safety Act 2025 அடிக்கடி ஒரு சமூக ஊடகச் சட்டமாக விவரிக்கப்படுகிறது. அது சரியாக அப்படி அல்ல. இது ஒரு **உரிமதாரர்-நடத்தை** சட்டம், அந்த வேறுபாடே இது உங்களை எட்டுகிறதா என்பதைத் தீர்மானிக்கிறது.

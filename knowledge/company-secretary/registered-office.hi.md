@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "appoint-company-secretary" }
 related: ["statutory-registers", "register-of-members", "minute-books-and-records", "appoint-company-secretary"]
 keywords: ["पंजीकृत कार्यालय मलेशिया", "धारा 46 कंपनी अधिनियम 2016", "पंजीकृत कार्यालय बदलना SSM 14 दिन", "registered office Malaysia", "section 46 Companies Act 2016", "पंजीकृत कार्यालय सार्वजनिक पहुँच", "section 47 documents registered office"]
+framework: rules
 ---
 
 मलेशिया की हर कंपनी-सचिवीय फ़र्म एक पंजीकृत कार्यालय सेवा बेचती है। उनके बहुत कम

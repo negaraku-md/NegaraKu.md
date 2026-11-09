@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "new-economic-policy" }
 related: ["new-economic-policy"]
 keywords: ["Wawasan 2020", "Vision 2020", "Mahathir Mohamad", "Bangsa Malaysia", "negara maju", "sembilan cabaran", "Wawasan Kemakmuran Bersama 2030"]
+framework: explainer
 ---
 
 ในเช้าวันหนึ่งของเดือนกุมภาพันธ์ 1991 นายกรัฐมนตรีคนหนึ่งยืนอยู่ต่อหน้านักธุรกิจชั้นนำของประเทศและวางเป้าหมายหนึ่งสำหรับ 30 ปีข้างหน้า คือ ภายในปี 2020 มาเลเซียพึงกลายเป็นประเทศที่พัฒนาแล้วอย่างสมบูรณ์ ไม่เพียงในแง่เศรษฐกิจ แต่ยังในแง่ความสามัคคี ความยุติธรรมทางสังคม และวุฒิภาวะของพลเมือง แนวคิดนั้นเองที่ต่อมาเป็นที่รู้จักในชื่อวิสัยทัศน์ 2020

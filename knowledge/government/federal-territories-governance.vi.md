@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "dewan-negara" }
 related: ["federal-state-division", "state-assemblies-dun", "three-tiers-of-government", "dewan-rakyat", "dewan-negara"]
 keywords: ["Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "tiada Dewan Undangan Negeri", "Datuk Bandar dilantik", "DBKL Perbadanan Putrajaya Perbadanan Labuan", "Jabatan Wilayah Persekutuan", "Perkara 1 Perlembagaan Persekutuan", "pentadbiran wilayah persekutuan", "Federal Territory Malaysia governance"]
+framework: explainer
 ---
 
 Ở một bang, có Sultan hoặc Thống đốc Bang, có Thủ hiến (Menteri Besar hoặc Ketua Menteri), và có Hội đồng Lập pháp Bang do dân bầu. Ở Kuala Lumpur, Putrajaya và Labuan, không có bất kỳ điều nào trong số đó. Cả ba nơi này không phải là bang — chúng là Lãnh thổ Liên bang, và được Chính phủ Liên bang quản lý trực tiếp.

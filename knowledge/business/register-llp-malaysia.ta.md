@@ -116,6 +116,7 @@ keywords:
   - "PLT Perkongsian Liabiliti Terhad"
   - "LLP registration fee RM500"
   - "LLP annual declaration"
+framework: how-to
 ---
 
 இணக்க அதிகாரிதான் அனைவரும் தவறாகப் புரிந்துகொள்ளும் பகுதி.

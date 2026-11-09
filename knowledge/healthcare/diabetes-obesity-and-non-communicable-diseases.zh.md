@@ -74,6 +74,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-health" }
 related: []
 keywords: ["diabetes", "obesiti", "NCD", "penyakit tidak berjangkit", "NHMS 2023", "cukai gula", "PeKa B40", "Logo Pilihan Sihat", "saringan kesihatan"]
+framework: explainer
 ---
 
 如今超过半数马来西亚成年人身上的体重足以缩短他们的寿命——而每六人中就有一人已患有糖尿病，其中许多人浑然不觉。这是一场无声的流行病，它对医院、家庭和国家经济的负担远远超过任何一种传染病。

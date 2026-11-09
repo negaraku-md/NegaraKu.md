@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "malaysia-agreement-1963" }
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["Petros", "Sarawak", "gas", "agregator gas", "Ordinan Pengagihan Gas 2016", "Ordinan Pengagihan Gas (Pindaan) 2023", "Petronas", "Akta Kemajuan Petroleum 1974", "MA63"]
+framework: explainer
 ---
 
 At a negotiating table in Kuala Lumpur, two government-owned energy entities — one Federal, one state — tried to align on who controls the flow of gas in Sarawak. Behind it lay a larger question: which law prevails when state rights and Federal powers collide?

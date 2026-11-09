@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["federal-constitution", "orang-asli", "population-composition", "bumiputera-equity-requirements"]
 keywords: ["Bumiputera", "definisi Bumiputera", "Perkara 153", "Perkara 160", "Perkara 161A", "orang Melayu", "anak negeri Sabah Sarawak", "kedudukan istimewa", "Perlembagaan Persekutuan"]
+framework: explainer
 ---
 
 Hãy tìm từ "Bumiputera" trong văn bản Hiến pháp Liên bang, và bạn sẽ không tìm thấy nó. Thuật ngữ được nghe thấy thường xuyên đến vậy trong trò chuyện hằng ngày, trên các mẫu đơn chính thức và trong chính sách của chính phủ đó thực ra không được dùng trong văn kiện pháp lý tối cao của quốc gia.

@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["employment-pass", "opening-bank-account"]
 keywords: ["rental Malaysia", "iProperty", "PropertyGuru", "Mudah", "REN Malaysia", "registered estate negotiator", "BOVAEP", "LPPEH", "estate agent Malaysia", "rental commission Malaysia", "REN Tag"]
+framework: explainer
 ---
 
 你在某个平台上看中一个房源，给上面留的号码发了消息，然后有人出现，替你打开单位的门锁。这整个过程完全没有告诉你，把钥匙交到你手上的这个人，是否依法有权就此收取费用——而几乎没有人会去问。

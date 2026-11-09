@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "orang-asli" }
 related: ["unesco-world-heritage", "peranakan", "orang-asli"]
 keywords: ["Muzium Negara", "Islamic Arts Museum Malaysia", "IAMM", "Perak Museum Taiping", "Sarawak Museum", "Sabah Museum", "Malaysia state museums"]
+framework: history-culture
 ---
 
 Tanya kebanyakan pengunjung museum mana yang tertua di Malaysia, dan mereka akan menebak Muzium Negara — bangunan beratap istana yang menjadi ikon barisan museum di Kuala Lumpur. Tebakan mereka meleset delapan puluh tahun. Gelar itu sebenarnya milik sebuah galeri sederhana di Taiping, yang dibangun ketika tapak Muzium Negara masih diduduki oleh pendahulunya.

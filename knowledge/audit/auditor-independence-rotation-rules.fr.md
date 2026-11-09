@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "statutory-audit-process" }
 related: ["appointing-an-auditor", "changing-auditors", "statutory-audit-process", "audit-fees-malaysia"]
 keywords: ["indépendance de l'auditeur", "rotation des associés", "période de viduité", "entité d'intérêt public", "By-Laws de la MIA", "Article 540", "services autres que d'audit", "menace d'autorévision", "auditor independence", "Section 540"]
+framework: rules
 ---
 
 Un associé d'audit qui signe depuis une décennie les comptes de la même société cotée sait où chaque squelette est enterré — et c'est précisément le problème. Plus la relation dure, plus il est difficile pour un observateur extérieur raisonnable de croire que l'opinion est véritablement indépendante. La Malaisie répond à ce risque par un délai rigide et une pause obligatoire.

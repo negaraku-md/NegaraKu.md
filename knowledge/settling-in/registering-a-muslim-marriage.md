@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "registering-a-civil-marriage" }
 related: ["registering-a-marriage-civil", "syariah-court-system"]
 keywords: ["muslim marriage malaysia", "nikah registration", "SPPIM", "wali hakim", "kursus pra perkahwinan", "akad nikah", "syariah court marriage", "islamic family law act 303"]
+framework: how-to
 ---
 
 Two people are ready to marry, the families have met, and the date is set — but in Malaysia a Muslim marriage does not become a registered marriage until it has passed through a defined administrative and religious process run by the state. Islam is a state matter under the Federal Constitution, so each state and the Federal Territories has its own Islamic family law enactment and its own State Islamic Religious Department (Jabatan Agama Islam Negeri). The steps below are broadly similar across the country; the Federal Territories law, the Islamic Family Law (Federal Territories) Act 1984 (Act 303), is used here for the exact statutory references.

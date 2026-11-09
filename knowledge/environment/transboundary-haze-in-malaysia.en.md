@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "asean-agreement-on-transboundary-haze-pollution" }
 related: []
 keywords: ["jerebu", "transboundary haze", "API", "Indeks Pencemar Udara", "Sumatera", "Kalimantan", "ASEAN", "Jabatan Alam Sekitar", "kualiti udara"]
+framework: explainer
 ---
 
 Every time the monsoon winds change direction during the dry season, the skies over the Klang Valley, Sarawak and much of the Peninsula can turn grey in a matter of days — the sun dims, the smell of smoke seeps into homes, and phones buzz with API alerts. This is transboundary haze: pollution not fully produced within the country, yet breathed in every year by millions of Malaysians.

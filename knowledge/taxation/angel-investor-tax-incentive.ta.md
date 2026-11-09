@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["tax-incentives-directory", "personal-tax-reliefs", "new-incentive-framework"]
 keywords: ["angel tax incentive malaysia", "angel investor tax exemption", "pu a 167 2014", "cradle angel tax incentive", "mban accreditation", "startup investor tax relief malaysia"]
+framework: rules
 ---
 
 ஏஞ்சல் வரிச் சலுகையைக் குறிப்பிடும் ஒவ்வொரு ஸ்டார்ட்அப் விளக்கக்காட்சியும் அது 2026 வரை இயங்குகிறது என்று கூறுகிறது. வர்த்தமானி வேறுவிதமாகச் சொல்கிறது. நடைமுறையில் உள்ள சட்ட ஆவணம் Income Tax (Exemption) (No. 3) Order 2014 (P.U.(A) 167/2014) ஆகும்; இது Income Tax Act 1967-இன் s.127(3)(b)-இன் கீழ் இயற்றப்பட்டு, 1 ஜனவரி 2013 முதல் நடைமுறையில் இருப்பதாகக் கருதப்படுகிறது. அதன் paragraph 5(a)(ii), முதலீட்டாளர் **ஒரு நிர்ணயிக்கப்பட்ட தேதிக்கு முன்னதாக** அமைச்சருக்கு விண்ணப்பித்திருக்க வேண்டும் என்று கோருகிறது; அந்த தேதி சரியாக இருமுறை நகர்ந்துள்ளது.

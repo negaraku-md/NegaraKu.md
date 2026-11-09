@@ -87,6 +87,7 @@ verificationNeeded:
   - "Câu chuyện nguồn gốc rằng Hokkien mee kiểu KL do người bán hàng rong Ong Kim Lian tạo ra tại phố Petaling vào năm 1927 — các tường thuật mâu thuẫn (một số báo ẩm thực quy công cho một 'ông Ong' đã thêm nước tương sẫm vào món mì xào, trong khi một phiên bản cạnh tranh được phổ biến bởi bản tin năm 1984 của Straits Times truy nguyên gốc rễ món ăn về thập niên 1880). Hãy xác minh tên người sáng lập và niên đại với một nguồn lịch sử hoặc di sản sơ cấp."
   - "Khẳng định rằng cả hai kiểu Hokkien mee đều bắt nguồn từ món Phúc Kiến lor mee và không được biết đến ngay tại Phúc Kiến — hãy xác minh dựa trên một nguồn lịch sử ẩm thực hoặc học thuật thay vì báo ẩm thực."
   - "Liệu món súp tôm cay kiểu Penang có được gọi một cách nhất quán và có thể thay thế cho nhau là 'prawn mee' và 'hae mee' trên mọi vùng miền hay không (cách dùng và cách viết khác nhau theo địa phương) — hãy xác minh việc đặt tên theo vùng với một nguồn ẩm thực Penang hoặc Hoa-Malaysia."
+framework: explainer
 ---
 
 Gọi "Hokkien mee" ở Kuala Lumpur và bạn nhận được một đĩa mì vàng dày bóng sẫm nước

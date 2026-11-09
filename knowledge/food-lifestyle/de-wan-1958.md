@@ -68,6 +68,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["DeWan1958", "ChefWan", "BibGourmand", "MichelinGuideMalaysia", "KualaLumpur"]
+framework: profile
 ---
 
 De. Wan 1958 is a Malaysian restaurant at The LINC KL in Taman U Thant, Kuala

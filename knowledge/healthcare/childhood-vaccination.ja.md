@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "having-a-baby-in-malaysia" }
 related: ["klinik-kesihatan", "having-a-baby-in-malaysia"]
 keywords: ["imunisasi kanak-kanak Malaysia", "Jadual Imunisasi Kebangsaan", "Program Imunisasi Kebangsaan KKM", "vaksin percuma klinik kesihatan", "buku rekod kesihatan bayi dan kanak-kanak", "vaksin kanak-kanak KKM", "Immunise4Life Malaysia", "imunisasi percuma Malaysia"]
+framework: explainer
 ---
 
 マレーシアの政府クリニックまたは病院で生まれた赤ちゃんは、仮出生証明書だけを持って帰るのではない——今後6年間、*あらゆる*クリニック受診のたびに携帯することになる一冊の小さな手帳も持ち帰るのである。その手帳と、そこに記録される接種スケジュールは、この国で最も長く続く公衆衛生プログラムの一つの一部である。

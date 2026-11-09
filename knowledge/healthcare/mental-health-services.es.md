@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "emergencies-999" }
 related: ["klinik-kesihatan", "how-malaysian-healthcare-works", "private-hospitals-and-costs", "emergencies-999"]
 keywords: ["mental health services Malaysia", "Talian HEAL 15555", "Talian Kasih 15999", "Befrienders Malaysia", "MENTARI clinic Malaysia", "psychiatric hospital Malaysia", "MMHA Malaysian Mental Health Association", "counselling Malaysia", "where to get mental health help Malaysia", "Mental Health Act 2001 Malaysia"]
+framework: explainer
 ---
 
 Decidir pedir ayuda suele ser la parte más difícil. Averiguar *dónde* pedirla es la parte que casi nadie explica — y esa laguna, por sí sola, impide que la gente llegue a hacer la llamada.

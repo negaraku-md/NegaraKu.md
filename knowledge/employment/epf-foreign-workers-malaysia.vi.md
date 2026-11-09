@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "payroll-compliance-malaysia" }
 related: ["epf-employer-guide", "payroll-compliance-malaysia", "socso-eis-employer-guide"]
 keywords: ["EPF foreign worker Malaysia", "EPF non-citizen 2 percent", "KWSP pekerja asing caruman", "Third Schedule Part F", "EPF expatriate contribution"]
+framework: rules
 ---
 
 Trong hai mươi bảy năm, EPF đối với một lao động nước ngoài là thứ mà một người sử dụng lao động phần lớn có thể phớt lờ: người lao động có thể chọn tham gia, và nếu họ chọn, phần của người sử dụng lao động là một khoản cố định RM5 một tháng bất kể lương. Cách sắp xếp đó không còn tồn tại. Nó không được sửa đổi — nó đã bị xóa.

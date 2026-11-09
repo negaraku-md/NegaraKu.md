@@ -119,6 +119,7 @@ keywords:
   - "PLT Perkongsian Liabiliti Terhad"
   - "رسم تسجيل LLP RM500"
   - "الإقرار السنوي LLP"
+framework: how-to
 ---
 
 مسؤول الامتثال هو الجزء الذي يخطئ فيه الجميع.

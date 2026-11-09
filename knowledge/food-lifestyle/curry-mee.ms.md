@@ -91,6 +91,7 @@ verificationNeeded:
   - "Dakwaan bahawa Pulau Pinang menggunakan 'curry mee' khususnya untuk mengelakkan kekeliruan dengan asam laksa — ini ialah penjelasan yang kerap diulang dalam media makanan dan bukan etimologi yang berdokumen; sahkan dengan sumber linguistik atau warisan."
   - "Hubungan antara 'curry mee' KL/tengah dengan 'curry Hokkien mee' / Hokkien mee Pulau Pinang — penamaan dan sama ada ini mangkuk yang sama berbeza mengikut lokaliti; sahkan dengan sumber tempatan."
   - "Sama ada santan penting kepada setiap curry mee — sesetengah versi Pulau Pinang digambarkan lebih cair dan kurang berkrim ('curry mee putih'); sahkan julatnya dengan sumber masakan Pulau Pinang."
+framework: explainer
 ---
 
 Pesan "curry mee" di George Town dan anda akan mendapat semangkuk mi santan

@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "malaysia-digital-arrival-card-mdac" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["malaysia visa", "visa-free countries malaysia", "malaysia evisa", "eNTRI", "malaysia digital arrival card", "social visit pass"]
+framework: rules
 ---
 
 Before you book a flight to Kuala Lumpur, the first question is not "which hotel" — it is "does my passport get me through the gate?" For most travellers the answer is a relief, but the rules split sharply by nationality, and one online form now applies to almost everyone.

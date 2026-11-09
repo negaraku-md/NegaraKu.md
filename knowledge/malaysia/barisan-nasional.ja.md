@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "pakatan-harapan" }
 related: []
 keywords: ["Barisan Nasional", "National Front", "BN", "Alliance Party", "UMNO", "MCA", "MIC", "GE14", "Malaysian coalition"]
+framework: profile
 ---
 
 今日を生きるほとんどのマレーシア人にとって、「政府」と「バリサン・ナショナル」は、非常に長い間、ほぼ同義の言葉であった。1974年の初参戦から2018年の敗北まで、バリサン・ナショナル（国民戦線）は連邦政府を途切れることなく掌握し続けた——44年間続く執政であった。本稿は、文書化された記録に基づき、それがどのように組成され、誰がそこに属し、そしてその長い執政がどのように終わったのかをたどる。

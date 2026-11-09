@@ -121,6 +121,7 @@ keywords:
   - "منطقة بايان ليباس الصناعية الحرة"
   - "doing business in Penang"
   - "MBPP business licence"
+framework: profile
 ---
 
 السؤال الأول عن ممارسة الأعمال في بينانغ ليس ماذا تسجّل. بل على أي جانب من المضيق أنت.

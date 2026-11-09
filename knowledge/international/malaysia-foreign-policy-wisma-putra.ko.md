@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "kabinet-perdana-menteri" }
 related: ["ekonomi-madani-framework", "konfrontasi", "miti", "matrade"]
 keywords: ["dasar luar Malaysia", "Wisma Putra", "Kementerian Luar Negeri", "ZOPFAN", "dasar berkecuali", "diplomasi Malaysia", "ASEAN", "Pelan Strategik 2026-2030", "non-alignment"]
+framework: explainer
 ---
 
 미국이 말레이시아 경제에서 가장 큰 외국인 투자자이지만 중국이 최대 교역 상대국일 때, 작고 개방된 국가는 편을 들 수 없습니다. 그것이 바로 말레이시아 외교 정책이 수십 년간 말하기는 쉽지만 지키기는 어려운 한 단어에 매달려 온 이유입니다: 중립. 그 균형을 매일 지키는 임무를 맡은 부처가 위스마 푸트라입니다.

@@ -136,6 +136,7 @@ keywords:
   - "trade licence Sarawak"
   - "LHDN business registration Kuching"
   - "lesen perniagaan Sarawak"
+framework: how-to
 ---
 
 サラワク州では、あなたは「事業を登録する」のではない。あなたは三つのものを、最大三つの異なる当局に対して登録するのであり、SSMはその中に含まれない。

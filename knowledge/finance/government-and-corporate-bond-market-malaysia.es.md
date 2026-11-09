@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["bank-negara-malaysia", "bursa-malaysia", "federal-budget", "epf-as-investor"]
 keywords: ["MGS", "GII", "sukuk", "valores del Gobierno de Malasia", "corporate bonds", "bonos corporativos", "RENTAS", "Sukuk Simpanan Rakyat", "mercado de bonos Malasia"]
+framework: explainer
 ---
 
 Cuando el Gobierno malasio construye una autopista o un hospital, rara vez paga en efectivo sobre la marcha. Se endeuda — y el pagaré que entrega es un bono. Multiplique eso a lo largo de décadas de gasto de desarrollo, sume a todas las empresas que se endeudan del mismo modo, y obtiene uno de los mercados de bonos en moneda local más profundos de Asia, que circula por dos vías paralelas: deuda convencional y sukuk conforme a la Sharia.

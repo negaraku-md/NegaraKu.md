@@ -86,6 +86,7 @@ relations:
   - { rel: "requires", to: "e-invoice-data-fields" }
 related: ["e-invoicing", "myinvois-phases", "consolidated-e-invoice", "e-invoice-data-fields", "e-invoice-vs-tax-invoice"]
 keywords: ["स्व-जारी ई-इनवॉइस", "self-billed e-Invoice", "स्व-जारी इनवॉइस मलेशिया", "विदेशी आपूर्तिकर्ता ई-इनवॉइस", "सामान्य TIN EI00000000030", "e-invois belian sendiri", "एजेंट कमीशन ई-इनवॉइस"]
+framework: rules
 ---
 
 ई-इनवॉइसिंग के जाल में फँसने की सबसे अधिक संभावना उस कंपनी की नहीं है जिसके पास

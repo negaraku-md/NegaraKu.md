@@ -76,6 +76,7 @@ social:
     - SoleProprietor
     - DoingBusinessInMalaysia
     - MalaysiaTax
+framework: how-to
 ---
 
 Mendaftarkan usaha kepemilikan tunggal atau kemitraan memakan waktu sepuluh menit di portal ezBiz, jadi sebagian besar orang menganggap menutupnya juga sama tidak formalnya — Anda berhenti berusaha dan ia kedaluwarsa dengan senyap. Tidak begitu. Usaha yang terdaftar di bawah **Akta Pendaftaran Perniagaan 1956** tetap dalam daftar SSM sampai Anda menamatkannya secara aktif, dan selama ia berada di sana ia terus memerlukan pembaruan, membuat Anda terpapar penalti, dan dapat dibatalkan oleh Pendaftar. Ada cara yang benar untuk menutupnya, ia gratis, dan ada jam yang berdetik atasnya.

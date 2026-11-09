@@ -105,6 +105,7 @@ keywords:
   - "Forest City SFZ tax"
   - "Pulau 1 Forest City"
   - "zon kewangan khas Forest City"
+framework: explainer
 ---
 
 두 개의 제도가 같은 조호르(Johor) 해안 구역에 자리 잡고 있으며, 그에 대해 쓰인 거의 모든 요약이 이 둘을

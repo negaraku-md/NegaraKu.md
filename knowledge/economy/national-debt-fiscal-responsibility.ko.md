@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["federal-budget", "gdp-overview", "sovereign-credit-rating-malaysia", "subsidy-rationalisation-padu"]
 keywords: ["hutang persekutuan", "Akta 850", "Akta Tanggungjawab Fiskal", "hutang berkanun", "60% KDNK", "defisit fiskal", "MGS", "JRFL"]
+framework: explainer
 ---
 
 말레이시아 연방정부 부채는 2025년 RM1.3조를 돌파했습니다 — 그러나 자주 인용되는 「GDP의

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "pakatan-harapan" }
 related: []
 keywords: ["Barisan Nasional", "National Front", "BN", "Alliance Party", "UMNO", "MCA", "MIC", "GE14", "Malaysian coalition"]
+framework: profile
 ---
 
 Đối với hầu hết người Malaysia còn sống ngày nay, "chính phủ" và "Barisan Nasional", trong một thời gian rất dài, gần như là cùng một cụm từ. Từ cuộc bầu cử đầu tiên của mình năm 1974 đến khi thất bại năm 2018, Mặt trận Quốc gia nắm giữ chính phủ liên bang không gián đoạn — một quãng thời gian liên tục 44 năm. Bài viết này lần theo cách nó được lắp ghép, ai thuộc về nó, và cách quãng thời gian dài đó kết thúc, bám sát hồ sơ được ghi chép.

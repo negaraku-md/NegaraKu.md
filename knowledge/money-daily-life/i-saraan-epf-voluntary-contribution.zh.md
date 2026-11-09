@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "str-cash-aid" }
 related: ["epf", "epf-akaun-fleksibel", "epf-socso-gig-workers-self-employed", "str-cash-aid"]
 keywords: ["i-Saraan", "i-Saraan Plus", "KWSP i-Saraan", "EPF 自愿缴款", "自雇人士 EPF", "零工 退休储蓄", "EPF 配对奖掖", "caruman sukarela KWSP"]
+framework: explainer
 ---
 
 如果你替电召车应用程序开车、在档口卖食物、接自由设计工作，或经营一人生意，有一件事在发薪日永远不会发生：没有雇主从你的收入中扣出一部分缴给 [EPF](/zh/glossary/epf)（Kumpulan Wang Simpanan Pekerja，即 KWSP）。对受薪员工而言，那笔退休缴款每个月自动发生。对正规薪资系统之外的每一个人来说，退休储备不会自己累积——除非你选择去累积它。那个选择，正是 **i-Saraan** 的用途所在。

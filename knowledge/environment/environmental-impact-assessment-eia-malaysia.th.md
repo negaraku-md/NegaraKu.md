@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "prescribed-activities-eia-order-2015" }
 related: ["environmental-quality-act-1974"]
 keywords: ["EIA Malaysia", "environmental impact assessment", "prescribed activities", "Section 34A", "Order 2015", "Department of Environment", "First Schedule", "Second Schedule", "public display"]
+framework: rules
 ---
 
 เริ่มก่อสร้างโครงการประเภทที่ไม่ถูกต้องโดยไม่ได้รับไฟเขียว แล้วท่านไม่ได้เพียงเผชิญค่าปรับ ท่านอาจถูกบังคับให้หยุดในขณะที่เงินทุนของท่านนอนนิ่งไม่ก่อประโยชน์ ในมาเลเซีย รายการ "กิจกรรมที่กำหนด" ที่ระบุไว้ไม่อาจเริ่มได้ตามกฎหมายจนกว่ารายงานการประเมินผลกระทบสิ่งแวดล้อม (EIA) จะยื่นต่อและได้รับอนุมัติจากอธิบดีกรมสิ่งแวดล้อม สำหรับผู้พัฒนาโครงการและนักลงทุน EIA ไม่ใช่งานเอกสารในตอนท้ายของการวางแผน แต่เป็นประตูที่จุดเริ่มต้น

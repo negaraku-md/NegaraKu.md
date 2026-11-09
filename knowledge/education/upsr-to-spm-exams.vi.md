@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "public-vs-private-universities" }
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["UPSR dimansuhkan", "PT3 dimansuhkan", "Pentaksiran Bilik Darjah", "PBD Malaysia", "SPM Malaysia", "Matriks Pembelajaran Malaysia", "Lembaga Peperiksaan", "peperiksaan sekolah Malaysia", "PBS Malaysia"]
+framework: explainer
 ---
 
 Nếu con bạn hiện đang học Năm 6, cháu sẽ không dự thi UPSR. Nếu cháu học Lớp 3, không có PT3 nào chờ đợi. Kỳ thi lớn từng quyết định cả hành trình học phổ thông — mà chính cha mẹ bạn có thể đã trải qua đầy căng thẳng — đã không còn từ vài năm trước. Nhưng nhiều phụ huynh vẫn bối rối: cái gì thay thế nó, liệu nó có được khôi phục không, và thực sự điều gì đang diễn ra ở trường của con họ mỗi ngày.

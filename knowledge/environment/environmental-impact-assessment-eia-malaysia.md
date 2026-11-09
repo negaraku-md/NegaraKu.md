@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "prescribed-activities-eia-order-2015" }
 related: ["environmental-quality-act-1974"]
 keywords: ["EIA Malaysia", "environmental impact assessment", "prescribed activities", "Section 34A", "Order 2015", "Department of Environment", "First Schedule", "Second Schedule", "public display"]
+framework: rules
 ---
 
 Break ground on the wrong kind of project without a green light, and you are not just facing a fine — you may be forced to stop while your capital sits idle. In Malaysia, a defined list of "prescribed activities" cannot legally begin until an Environmental Impact Assessment (EIA) report has been submitted to, and approved by, the Director General of Environment. For developers and investors, the EIA is not paperwork at the end of planning; it is a gate at the start.

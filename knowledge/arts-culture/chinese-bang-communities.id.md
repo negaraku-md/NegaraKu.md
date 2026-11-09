@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-dialects", "chinese-clan-associations", "chinese-cemeteries", "chinese-new-villages", "population-composition"]
 keywords: ["帮群", "方言群", "籍贯", "福建帮", "广府帮", "客家帮", "潮州帮", "海南帮", "会馆", "义山", "马来西亚华人", "海南咖啡", "锡矿", "Chinese bang communities Malaysia"]
+framework: history-culture
 ---
 
 Di jalan-jalan lama Penang, toko-toko yang menopang satu deretan muka kedai sepenuhnya kebanyakan adalah usaha milik orang Hokkien; di kota-kota yang bangkit karena timah seperti Kuala Lumpur dan Ipoh, tambang dan perkumpulan usaha dipadati orang Kanton dan Hakka; dan ke kota mana pun Anda masuki, kedai kopi lama yang menjual kopi Hainan serta roti bakar dengan mentega dan kaya itu, di balik mejanya sering berdiri seorang Hainan.

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "financial-statement-pack" }
 related: ["accounting-standards-index", "financial-statement-pack", "financial-reporting-deadlines"]
 keywords: ["functional currency", "presentation currency", "MFRS 121", "IAS 21", "foreign currency translation", "MYR reporting", "MBRS", "foreign exchange"]
+framework: explainer
 ---
 
 கோலாலம்பூரில் பதிவு செய்யப்பட்ட ஒரு மலேசிய நிறுவனம் இன்னும் தனது கணக்குகளை அமெரிக்க டாலரில் வைத்திருக்க முடியும் — மேலும் அவ்வாறு செய்வது முற்றிலும் சரியானதாகவும் இருக்கும். ஒரு மலேசிய நிறுவனம் மலேசியாவைச் சேர்ந்தது என்பதால் ரிங்கிட்டில் அறிக்கையிடுகிறது என்று கருதுபவர்களுக்கு இது ஆச்சரியத்தை அளிக்கிறது. MFRS 121-ன் கீழ், நீங்கள் அளவிடும் நாணயம் என்பது ஒரு பொருளாதார உண்மையின் கேள்வி, புவியியலின் அல்ல; அதேசமயம் நீங்கள் வழங்கும் நாணயம் என்பது தனது சொந்த பதிலைக் கொண்ட ஒரு தனிக் கேள்வி.

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "property-real-property-gains-tax-rpgt" }
 related: []
 keywords: ["faraid", "herencia de propiedad", "Ley de Distribución 1958", "Distribution Act 1958", "Amanah Raya", "certificado de faraid", "patrimonio pequeño", "Oficina de Tierras"]
+framework: explainer
 ---
 
 Cuando alguien fallece en Malasia, quién hereda su vivienda depende primero de una cuestión fundamental: si el fallecido era musulmán o no musulmán. Dos sistemas jurídicos distintos rigen la respuesta, y ambos pasan por autoridades diferentes antes de que cualquier título de terreno pueda cambiar de nombre.

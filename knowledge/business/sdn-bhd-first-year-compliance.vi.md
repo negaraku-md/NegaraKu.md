@@ -207,6 +207,7 @@ keywords:
   - "company secretary 30 days"
   - "senarai semak pematuhan syarikat baharu"
   - "post incorporation Malaysia"
+framework: journey-hub
 ---
 
 Thành lập là một giao dịch. Tuân thủ là một gói đăng ký định kỳ.

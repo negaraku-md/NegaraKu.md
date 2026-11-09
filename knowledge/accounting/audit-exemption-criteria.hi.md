@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "unaudited-financial-statements" }
 related: ["companies-act-2016"]
 keywords: ["pengecualian audit", "audit exemption", "PD 10/2024", "Arahan Amalan 10/2024", "Sdn Bhd", "syarikat persendirian", "SSM", "seksyen 267", "penyata kewangan tidak diaudit"]
+framework: rules
 ---
 
 वर्षों तक, मलेशिया में लगभग हर Sdn Bhd को एक अंकेक्षक नियुक्त करने के लिए बाध्य किया जाता था — चाहे वह एक व्यक्ति द्वारा चलाई जाने वाली खुदरा दुकान हो या कोई कारख़ाना। 2023 के अंत में, 666,767 सक्रिय कंपनियाँ थीं लेकिन उनके खातों पर हस्ताक्षर करने के लिए केवल 1,919 अनुमोदित अंकेक्षक थे। SSM का व्यवहार निर्देश 10/2024 इसे बदल देता है: वित्तीय वर्ष 2025 से, लाखों छोटी कंपनियाँ वैधानिक अंकेक्षण पूरी तरह छोड़ सकती हैं — यदि वे मानदंड पूरा करती हैं।

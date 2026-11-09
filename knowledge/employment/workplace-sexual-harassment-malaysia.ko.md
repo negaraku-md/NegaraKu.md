@@ -106,6 +106,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-act-1955-guide"]
 keywords: ["sexual harassment malaysia", "anti-sexual harassment act 2022", "section 81h notice", "part xva employment act", "tribunal anti sexual harassment", "workplace harassment employer duty"]
+framework: rules
 ---
 
 말레이시아 직장 내 괴롭힘에 관한 보도의 대부분은 입법적 사건으로서의 성희롱방지법 2022(Anti-Sexual

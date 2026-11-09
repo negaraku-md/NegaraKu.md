@@ -89,6 +89,7 @@ keywords:
   - "Malaysian students international school quota"
   - "Education Act 1996 international school"
   - "service tax international school Malaysia"
+framework: explainer
 ---
 
 イギリス式カリキュラムの学校とアメリカ式カリキュラムの学校が、同じ町の反対側に位置していたとしても、書類上はプトラジャヤにある同じ部局からライセンスを受けている。どちらの学校も法律上、保護者に「建築基金」を請求することは認められていない。どちらの学校も一度に30%を超える学費の値上げはできない。そして、どちらの学校も教育省自身が設定する数字を公表する義務を負ってはいない——教育省が定める数々の規則の中に、学籍の実際の価格そのものは含まれていないからである。

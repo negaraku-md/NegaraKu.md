@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "dewan-negara" }
 related: ["federal-state-division", "state-assemblies-dun", "three-tiers-of-government", "dewan-rakyat", "dewan-negara"]
 keywords: ["Territorio Federal", "Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "sin Asamblea Legislativa Estatal", "Alcalde nombrado", "DBKL Corporación de Putrajaya Corporación de Labuan", "Departamento de Territorios Federales", "Artículo 1 de la Constitución Federal", "administración de los territorios federales", "Federal Territory Malaysia governance"]
+framework: explainer
 ---
 
 En un estado hay un Sultán o Yang di-Pertua Negeri, hay un Menteri Besar o Ministro Principal, y hay una Asamblea Legislativa Estatal elegida por el pueblo. En Kuala Lumpur, Putrajaya y Labuan no existe nada de eso. Estos tres lugares no son estados — son Territorios Federales, y son administrados directamente por el Gobierno Federal.

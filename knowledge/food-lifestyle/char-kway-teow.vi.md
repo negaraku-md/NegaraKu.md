@@ -97,6 +97,7 @@ social:
     - "#PenangFood"
     - "#MalaysianFood"
     - "#StreetFood"
+framework: explainer
 ---
 
 Hiếm có đĩa nào nắm bắt ẩm thực đường phố Malaysia trọn vẹn như char kway teow:

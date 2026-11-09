@@ -92,6 +92,7 @@ relations:
   - { rel: "affects", to: "global-minimum-tax-pillar-two" }
 related: ["corporate-tax-rates", "global-minimum-tax-pillar-two", "reinvestment-allowance"]
 keywords: ["الإطار التحفيزي الجديد في ماليزيا", "حافز NIF الضريبي في ماليزيا", "وضع الرائد Pioneer Status ماليزيا 2026", "المعدّل الضريبي الخاص في ماليزيا", "بطاقة أداء NIA", "الموعد النهائي لـPIA 1986", "New Incentive Framework Malaysia", "NIA Scorecard"]
+framework: explainer
 ---
 
 لم يتلاشَ وضع الرائد (Pioneer Status) تدريجيًا. بل أُغلق، في عصر يوم محدَّد، بموعد

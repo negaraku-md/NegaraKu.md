@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "singapore-separation-1965" }
 related: ["sabah", "sarawak", "ma63", "formation-of-malaysia-1963", "singapore-separation-1965"]
 keywords: ["Peninsular Malaysia", "East Malaysia", "Sabah Sarawak border", "South China Sea Malaysia", "Immigration Act 1959/63 Section 66", "Sarawak Land Code", "Sabah Land Ordinance", "Malaysian Standard Time 1982"]
+framework: explainer
 ---
 
 บินภายในประเทศจากกัวลาลัมเปอร์ไปโกตากินาบาลูแล้วคุณลงจอดในประเทศเดียวกับที่คุณจากมา สกุลเงินเดียวกัน หนังสือเดินทางเดียวกัน ธงเดียวกันบนหางเครื่อง แต่ที่โถงผู้โดยสารขาเข้า คุณต่อคิวที่เคาน์เตอร์แบบตรวจคนเข้าเมืองและมีคนตรวจบัตรประจำตัวหรือหนังสือเดินทางของคุณก่อนที่คุณจะผ่านได้ ไม่มีเที่ยวบินอื่นภายในมาเลเซียที่ทำงานเช่นนั้น

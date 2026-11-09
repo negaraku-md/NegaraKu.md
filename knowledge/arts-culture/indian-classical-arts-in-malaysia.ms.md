@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "temple-music-nadaswaram" }
 related: ["tamil-in-malaysia", "temple-music-nadaswaram", "hinduism-in-malaysia", "deepavali", "estate-tamil-community", "silambam"]
 keywords: ["இந்திய செம்மொழிக் கலைகள்", "பரதநாட்டியம்", "கர்நாடக இசை", "அரங்கேற்றம்", "ஒடிசி", "Temple of Fine Arts", "Sutra Dance Theatre", "Indian classical arts Malaysia", "Bharatanatyam Malaysia", "Carnatic music Malaysia"]
+framework: history-culture
 ---
 
 Pada petang Deepavali atau hari perayaan kuil di mana-mana bandar besar Malaysia, kita boleh menyaksikan seorang penari Bharatanatyam naik ke pentas, gelang kaki berbunyi, bergerak mengikut rentak mridangam. Langkah dan isyarat tangan itu bukan sesuatu yang berlaku secara kebetulan — ia menuturkan sebuah tradisi seni India Selatan yang berusia lebih seribu tahun, dan cara komuniti Tamil Malaysia memikulnya selama lebih satu setengah abad.

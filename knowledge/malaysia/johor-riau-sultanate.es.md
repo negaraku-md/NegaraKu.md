@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "straits-settlements" }
 related: ["melaka-sultanate", "portuguese-melaka-1511", "straits-settlements", "singapore-separation-1965"]
 keywords: ["Kesultanan Johor-Riau", "Sultanato de Johor", "Sultan Alauddin Riayat Shah II", "Sultan Mahmud Shah", "heredero del Sultanato de Melaka", "Johor Lama", "Dinastía Bendahara", "Riau-Lingga", "institución real malaya"]
+framework: history-culture
 ---
 
 En 1511, los cañones portugueses derribaron una ciudad — pero no un trono. Cuando la fortaleza de Melaka cayó, el Sultán Mahmud Shah, el último sultán de Melaka, no se rindió. Se retiró hacia el sur junto con la familia real, los ministros principales y — lo más importante — todo el orden institucional que hacía de Melaka un sultanato. La ciudad se perdió; el sultanato se trasladó.

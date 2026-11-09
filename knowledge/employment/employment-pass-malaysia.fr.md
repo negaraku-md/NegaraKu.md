@@ -129,6 +129,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: ["labour-law-map-malaysia", "employment-pass-founder-malaysia"]
 keywords: ["employment pass malaisie", "EP catégorie 1 salaire", "Employment Pass salaire 2026", "enregistrement ESD", "myxpats", "expatrié malaisie", "renouvellement Employment Pass"]
+framework: rules
 ---
 
 Le 1 juin 2026, le prix d'un expatrié en Malaisie a doublé au sommet.

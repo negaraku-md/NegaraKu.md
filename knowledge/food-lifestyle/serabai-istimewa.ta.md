@@ -74,6 +74,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#SerabaiIstimewa", "#Serabai", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 George Town-இன் காலை ஓட்டத்துக்குள் பொதிந்திருக்கும் Serabai Istimewa ஒரே ஒரு

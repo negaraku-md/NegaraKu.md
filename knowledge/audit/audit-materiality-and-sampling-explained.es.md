@@ -71,6 +71,7 @@ relations:
   - { rel: "administered-by", to: "malaysian-institute-of-accountants" }
 related: ["malaysian-institute-of-accountants"]
 keywords: ["importancia relativa", "muestreo de auditoría", "ISA 320", "ISA 530", "ISA 450", "importancia relativa de ejecución", "error tolerable", "auditoría estatutaria Malasia", "materiality", "audit sampling"]
+framework: explainer
 ---
 
 Un auditor que firma un conjunto de cuentas casi nunca ha mirado cada transacción detrás de ellas — y las normas dicen que esa es exactamente la forma correcta de trabajar.

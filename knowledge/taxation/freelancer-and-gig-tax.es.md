@@ -84,6 +84,7 @@ relations:
   - { rel: "affects", to: "e-invoicing" }
 related: ["gig-workers-act-2025", "which-tax-form", "personal-tax-rates", "e-invoicing", "myinvois-phases", "section-33-deductibility"]
 keywords: ["impuesto freelancer Malasia", "freelancer tax Malaysia", "impuesto renta trabajador gig", "gig worker income tax", "section 4(a) vs 4(f)", "cukai pekerja gig", "deducción oficina en casa Malasia", "home office deduction Malaysia", "plazo CP500 freelancer", "CP500 instalment freelancer", "impuesto creador de contenido Malasia", "content creator tax Malaysia"]
+framework: explainer
 ---
 
 La pregunta que decide la factura fiscal de un freelancer no es cuánto ganó. Es en

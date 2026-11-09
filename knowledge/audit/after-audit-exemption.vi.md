@@ -105,6 +105,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.245"
     consequence: "Phạt đến RM500,000 hoặc phạt tù đến ba năm hoặc cả hai"
+framework: rules
 ---
 
 Cứ mỗi bài đăng thứ hai về Practice Directive 10/2024 đều bán cùng một câu: bỏ qua kiểm

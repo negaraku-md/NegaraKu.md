@@ -114,6 +114,7 @@ keywords:
   - "directeur résident habituel"
   - "directeur de Sdn Bhd à capitaux étrangers"
   - "pengarah pemastautin Malaysia"
+framework: explainer
 ---
 
 Cherchez comment constituer une compagnie malaisienne en tant qu'étranger et l'on vous vendra un directeur

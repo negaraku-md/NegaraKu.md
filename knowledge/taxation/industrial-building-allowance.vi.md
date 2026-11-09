@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["capital-allowances", "losses-and-group-relief"]
 keywords: ["industrial building allowance malaysia", "IBA schedule 3", "paragraph 63 schedule 3", "qualifying building expenditure", "factory tax allowance malaysia", "IBA rate 10% 3%"]
+framework: explainer
 ---
 
 Một công ty mua một nhà máy với giá RM1.2 triệu và yêu cầu khấu trừ nhà xưởng

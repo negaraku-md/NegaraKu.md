@@ -104,6 +104,7 @@ keywords:
   - "winding up petition unpaid debt Malaysia"
   - "limitation period debt Malaysia"
   - "tuntutan hutang syarikat"
+framework: how-to
 ---
 
 マレーシアの商業債務の回収に関する助言の多くは、結局「訴えよ」という一語に収斂する。それは梯子の中でもっとも高くつく段であり、たいていは最初に手を伸ばすべき段ではない。

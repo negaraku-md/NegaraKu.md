@@ -92,6 +92,7 @@ verificationNeeded:
   - "L'origine de l'otak-otak (généralement rattachée à Palembang, dans le sud de Sumatra, et décrite comme un mélange malais-peranakan) — l'affirmation est contestée entre l'Indonésie, la Malaisie et Singapour ; la confirmer auprès d'une source d'histoire de l'alimentation ou du patrimoine, et non de médias de restaurants ou de recettes."
   - "L'étymologie populaire d'« otak » (« cervelle », d'après l'aspect cérébral du mélange) — la confirmer auprès d'une source linguistique ou lexicographique, et non de médias culinaires."
   - "Si la noix de bancoul (buah keras) fait partie du rempah standard de l'otak-otak — certaines recettes l'incluent et d'autres (p. ex. la recette de Nyonya Cooking citée) non ; confirmer la composition habituelle de la pâte auprès d'une source culinaire peranakan."
+framework: explainer
 ---
 
 Déballez une papillote d'otak-otak et la première chose que vous rencontrez,

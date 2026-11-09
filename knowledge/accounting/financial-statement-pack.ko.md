@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "audit-exemption" }
 related: ["mbrs-2-filing-guide", "mbrs-tagging-errors", "unaudited-financial-statements", "financial-statements-lodgement", "audit-exemption", "mfrs-vs-mpers"]
 keywords: ["financial statements Malaysia", "statement by directors", "statutory declaration financial statements", "directors report section 252", "auditors report section 266", "statutory accounts Sdn Bhd", "Fifth Schedule directors report"]
+framework: explainer
 ---
 
 말레이시아 이사에게 매년 SSM에 무엇이 가는지 물으면 대개 답은 「회계」입니다. 그 회계에 있는

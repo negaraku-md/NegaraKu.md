@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["malaysian-education-system", "enrolling-in-a-government-school", "private-and-chinese-independent-schools"]
 keywords: ["المدرسة الوطنية", "SJKC", "SJKT", "sekolah jenis kebangsaan", "لغة التدريس", "KPM", "KSSR", "المدارس الابتدائية الماليزية"]
+framework: explainer
 ---
 
 في كل عام، حين تُفتح فترة التسجيل، يفتح أولياء الأمور في أنحاء ماليزيا بوابة idMe التابعة لوزارة التعليم الماليزية (KPM) لتسجيل أبنائهم في السنة الأولى. وأحد أول الخيارات التي عليهم اتخاذها: SK أم SJKC أم SJKT؟

@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "statutory-registers" }
 related: ["beneficial-ownership", "ebos-filing", "who-is-a-beneficial-owner", "bo-non-cooperation", "statutory-registers"]
 keywords: ["register of beneficial owners Malaysia", "section 60B Companies Act", "BO register registered office", "beneficial ownership retention 7 years", "statutory register beneficial owner"]
+framework: rules
 ---
 
 叫一位马来西亚公司秘书把实益拥有人登记册拿出来，相当多人会拿出一张 e-BOS 呈交回执。那不是

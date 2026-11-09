@@ -70,6 +70,7 @@ keywords:
   - "cabutan sijil kelahiran"
   - "JPN.LM01"
   - "JPN.LM12"
+framework: how-to
 ---
 
 Many new parents treat registering their child's birth as free paperwork

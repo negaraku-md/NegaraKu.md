@@ -114,6 +114,7 @@ relations:
   - { rel: "related-to", to: "cbcr-and-master-file" }
 related: ["cbcr-and-master-file", "permanent-establishment", "corporate-tax-rates", "losses-and-group-relief"]
 keywords: ["documentation prix de transfert Malaisie", "transfer pricing documentation Malaysia", "documentation TPD contemporaine Malaisie", "pénalité section 113B", "surtaxe section 140A(3C)", "P.U.(A) 165/2023", "seuil prix de transfert Malaisie"]
+framework: rules
 ---
 
 Les 14 jours sont la partie qui ruine les gens. Le LHDN notifie un avis en vertu de la règle 5(3) des Income Tax (Transfer Pricing) Rules 2023, et quatorze jours plus tard la documentation est soit complète et entre leurs mains, soit elle ne l'est pas. Les Règles ne prévoient aucune prorogation. Si elle arrive avec une quinzaine de retard, vous vous exposez à RM60,000 pour cette seule année d'imposition, et la sanction est par année, non par contrôle.

@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "retrenchment-malaysia" }
 related: ["termination-of-employment-malaysia", "retrenchment-malaysia", "offboarding-statutory-checklist"]
 keywords: ["faedah penamatan malaysia", "pengiraan faedah pemberhentian kerja", "peraturan tblb 1980", "bayaran pampasan malaysia", "faedah lay off malaysia", "gaji 10 15 20 hari"]
+framework: rules
 ---
 
 Dua pemberi kerja memberhentikan pekerja yang sama pada hari yang sama. Yang satu membayar gaji sebulan dan menganggapnya dermawan. Yang lain membayar gaji 20 hari untuk setiap dari sembilan tahun masa kerja — kira-kira enam bulan gaji — karena itulah yang dituntut oleh undang-undang. Bedanya, pemberi kerja kedua telah membaca Employment (Termination and Lay-Off Benefits) Regulations 1980.

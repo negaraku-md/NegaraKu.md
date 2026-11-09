@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "road-tax-and-vehicle-registration" }
 related: []
 keywords: ["ركن السيارات", "e-parking", "غرامة ركن السيارات التصالحية", "DBKL", "Smart Selangor Parking", "EZ Smart Park", "letak kereta"]
+framework: explainer
 ---
 
 تنقّب في سيارتك عن قطع نقدية لجهاز التذاكر — لكن تلك الأجهزة اختفت منذ عام 2020. فركن السيارات في المدن الكبرى بماليزيا يبدأ الآن بهاتف ذكي، لا بجرّة من القطع النقدية على جانب الطريق.

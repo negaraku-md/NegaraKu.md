@@ -102,6 +102,7 @@ verificationNeeded:
   - "Savoir si la pratique consistant à réserver une table partagée avec un paquet de mouchoirs ou un petit objet personnel (choping) est aussi courante et reconnue dans les aires de restauration et les kopitiam malaisiens qu'elle est documentée à Singapour — la coutume est bien décrite pour Singapour, mais il existe peu de documentation formelle sur sa prévalence en Malaisie. À confirmer auprès d'une source malaisienne."
   - "La règle de sélection des stands du Lot 10 Hutong — Free Malaysia Today rapporte que les stands doivent avoir un historique d'au moins 40 ans, tandis que d'autres récits promotionnels évoquent environ 50 ans ; le chiffre provient de descriptions des médias et de l'exploitant, et non d'une source officielle. À confirmer : le critère exact."
   - "Les fourchettes de notes des grades d'hygiène A/B/C citées proviennent de conseils locaux particuliers (p. ex. Majlis Bandaraya Kuantan) et ne sont pas uniformes à l'échelle nationale ; les plages exactes et le seuil de fermeture diffèrent d'une autorité locale à l'autre. À confirmer : l'échelle auprès du conseil concerné pour un lieu donné."
+framework: explainer
 ---
 
 Entrez dans presque n'importe quel quartier malaisien à l'heure du déjeuner et vous

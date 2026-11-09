@@ -207,6 +207,7 @@ keywords:
   - "سكرتير الشركة 30 يومًا"
   - "قائمة تحقق امتثال الشركة الجديدة"
   - "post incorporation Malaysia"
+framework: journey-hub
 ---
 
 التأسيس معاملة. الامتثال اشتراك.

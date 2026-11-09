@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["dewan-bahasa-dan-pustaka", "bahasa-melayu"]
 keywords: ["मलेशियाई साहित्य", "sastera Malaysia", "राष्ट्रीय साहित्यकार", "Sasterawan Negara", "राष्ट्रीय साहित्य पुरस्कार", "Anugerah Sastera Negara", "राष्ट्रीय साहित्य", "देवान बहासा दान पुस्तका", "Dewan Bahasa dan Pustaka", "Sejarah Melayu", "hikayat", "syair"]
+framework: history-culture
 ---
 
 इससे पहले कि उपन्यास होते और इससे पहले कि कोई भाषा-परिषद होती, एक कथावाचक मलक्का के महल के आँगन में पहले से ही मलय नायकों को गढ़ रहा था। उसी मौखिक परंपरा से इस क्षेत्र की सबसे समृद्ध साहित्यिक विरासतों में से एक पनपी — एक ऐसी परंपरा जिसे आज एक राष्ट्रीय उपाधि, लाखों रिंगिट और राष्ट्र की सभ्यता में एक सम्मानित आसन के साथ सराहा जाता है।

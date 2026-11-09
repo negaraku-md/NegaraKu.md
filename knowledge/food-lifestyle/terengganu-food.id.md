@@ -96,6 +96,7 @@ verificationNeeded:
   - "Formula beras yang tepat untuk nasi dagang Terengganu (beras putih biasa versus campuran beras biasa dengan beras ketan atau beras melati) — media makanan dan sumber pariwisata menggambarkannya beragam. Konfirmasikan dengan sumber kuliner lokal."
   - "Kisah asal usul yang umum bahwa keropok lekor diciptakan oleh nelayan pantai timur untuk mengawetkan ikan berlebih selama musim muson — ini banyak diulang di media makanan tetapi tidak terdokumentasi dengan baik secara historis. Konfirmasikan dengan sumber sejarah makanan atau warisan budaya."
   - "Generalisasi bahwa selera Terengganu 'condong ke manis' (termasuk pemanisan gulai ikan tongkol dengan gula aren) — ini adalah penggambaran yang umum, bukan klaim yang terukur. Konfirmasikan dengan rujukan kuliner daerah."
+framework: explainer
 ---
 
 Tanyakan kepada orang Malaysia mana pun di mana tempat menyantap nasi dagang dan

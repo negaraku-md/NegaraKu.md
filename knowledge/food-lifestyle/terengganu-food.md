@@ -95,6 +95,7 @@ verificationNeeded:
   - "The exact rice formula for Terengganu nasi dagang (plain white rice versus a mix of regular and glutinous or jasmine rice) — food media and tourism sources describe it variously. Confirm with a local culinary source."
   - "The common origin story that keropok lekor was created by east-coast fishermen to preserve surplus fish during the monsoon — this is widely repeated in food media but not well documented historically. Confirm with a food-history or heritage source."
   - "The generalisation that Terengganu's palate 'leans sweet' (including palm-sugar sweetening of gulai ikan tongkol) — this is a common characterisation rather than a measured claim. Confirm with a regional culinary reference."
+framework: explainer
 ---
 
 Ask a Malaysian where to eat the country's best nasi dagang and keropok lekor,

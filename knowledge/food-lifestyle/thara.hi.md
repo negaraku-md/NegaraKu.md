@@ -77,6 +77,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["Thara", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 जॉर्ज टाउन में थाई रेस्तरां सबसे पहले मन में नहीं आते — यह एक ऐसा शहर है जो अपने

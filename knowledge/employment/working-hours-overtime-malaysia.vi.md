@@ -88,6 +88,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage", "minimum-wage-malaysia"]
 keywords: ["overtime pay malaysia", "overtime rate malaysia", "45 hour week malaysia", "rest day pay malaysia", "public holiday pay malaysia", "104 hours overtime"]
+framework: rules
 ---
 
 Hầu hết các hướng dẫn về làm thêm giờ dừng ở "1,5× ngày thường, 2× ngày nghỉ, 3× ngày nghỉ lễ công". Cách

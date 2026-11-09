@@ -86,6 +86,7 @@ relations:
 related: ["federal-constitution", "bahasa-melayu", "population-composition", "formation-of-malaysia-1963", "independence-1957", "ma63"]
 keywords: ["languages of Malaysia", "Bahasa Melayu", "national language Malaysia", "Article 152 Federal Constitution", "Chinese dialects Malaysia", "Tamil Malaysia", "Orang Asli languages", "Kadazan-Dusun", "Iban language", "vernacular schools Malaysia", "SJKC SJKT"]
 sponsor: "none"
+framework: explainer
 ---
 
 사바(Sabah)주 정부는 자신의 인구를 이렇게 요약합니다. 33개 토착 집단이 50개가 넘는 언어와 대략 80개의 방언으로 소통한다고. 그것은 13개 주와 3개 연방 직할구 가운데 단 한 주의 이야기입니다. 시야를 나라 전체로 넓히면 그림은 더욱 겹겹이 쌓일 뿐입니다 — 그런데도 연방헌법은 정확히 하나의 국어를 명명합니다.

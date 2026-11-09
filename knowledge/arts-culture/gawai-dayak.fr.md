@@ -77,6 +77,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["kaamatan", "sarawak"]
 keywords: ["Gawai Dayak", "Hari Gawai", "fête des moissons Sarawak", "Dayak", "Iban", "Bidayuh", "Orang Ulu", "miring", "ngajat", "tuak", "Tuai Rumah", "Gayu Guru Gerai Nyamai"]
+framework: history-culture
 ---
 
 L'horloge n'a pas encore sonné minuit en ce dernier jour de mai, et dans une maison longue quelque part le long d'une rivière du Sarawak, le gong attend. Le riz est rentré. La galerie a été balayée et tendue de nattes neuves. Une jarre de tuak est prête. Lorsque le gong retentira enfin, le chef de la maison longue lèvera une coupe, et tous le long de la grande véranda communautaire boiront aux trois mêmes mots : longue vie, santé, prospérité.

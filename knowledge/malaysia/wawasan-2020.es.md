@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "new-economic-policy" }
 related: ["new-economic-policy"]
 keywords: ["Wawasan 2020", "Vision 2020", "Visión 2020", "Mahathir Mohamad", "Bangsa Malaysia", "nación desarrollada", "nueve retos", "Wawasan Kemakmuran Bersama 2030", "Visión de Prosperidad Compartida 2030"]
+framework: explainer
 ---
 
 Una mañana de febrero de 1991, un Primer Ministro se puso de pie ante las principales figuras empresariales del país y fijó una meta para los siguientes 30 años: para el año 2020, Malasia debía convertirse en una nación plenamente desarrollada — no solo en términos económicos, sino también en unidad, justicia social y madurez cívica. Esa visión acabó conociéndose como Wawasan 2020.

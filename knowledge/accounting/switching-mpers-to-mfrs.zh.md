@@ -82,6 +82,7 @@ relations:
   - { rel: "affects", to: "mpers-2025-revision" }
 related: ["mfrs-vs-mpers"]
 keywords: ["switch MPERS to MFRS", "MFRS 1 first-time adoption Malaysia", "private entity definition MASB", "change accounting framework Malaysia", "revert to MPERS"]
+framework: explainer
 ---
 
 每一家马来西亚会计行的部落格都在解释 MPERS 与 MFRS 之间的*差别*。几乎没有一家解释

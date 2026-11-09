@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "tamil-vernacular-schools", "mariamman-worship", "hinduism-in-malaysia", "population-composition"]
 keywords: ["தோட்டத் தமிழர் சமூகம்", "மலேசிய இந்தியர் தோட்ட வரலாறு", "கங்காணி முறை", "ரப்பர்த் தோட்டம்", "தோட்டத் தொழிலாளர்", "மலேசிய இந்தியர்கள்", "estate Tamil community", "Malaysian Indians"]
+framework: history-culture
 ---
 
 말레이시아의 많은 오래된 도시 변두리에는, 한때 푸르게 펼쳐져 있던 고무 농원이 이제는 집들과 상가 거리로 가득 찬 주택지로 바뀌어 있다. 그 새 건물들 사이에, 때때로 오래된 암만 사원이나 작은 타밀 학교가 아직 남아 서 있다 — 이주해 간 한 공동체의, 바래지 않은 흔적으로.

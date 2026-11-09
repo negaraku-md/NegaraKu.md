@@ -93,6 +93,7 @@ relations:
   - { rel: "explained-in", to: "corporate-tax-rates" }
 related: ["personal-tax-rates", "corporate-tax-rates", "personal-tax-reliefs", "pcb-monthly-tax-deduction"]
 keywords: ["income tax Malaysia", "cukai pendapatan Malaysia", "LHDN income tax", "182 day rule Malaysia", "self assessment system Malaysia", "chargeable income", "Malaysia tax residency", "year of assessment"]
+framework: explainer
 ---
 
 பெரும்பாலானோர் மலேசியாவின் வருமான வரியை ஒரு சம்பளச் சீட்டில் உள்ள ஒரே வரியாக — "PCB" — மற்றும் ஏப்ரலில் ஆண்டுக்கு ஒருமுறையான ஒரு பரபரப்பாகச் சந்திக்கிறார்கள். அந்த வரிக்குப் பின்னால் நாட்டின் மிக முக்கியமான அமைப்புகளில் ஒன்று அமர்ந்துள்ளது, மேலும் அதைப் பற்றி எழுதப்படும் கிட்டத்தட்ட அனைத்தும் தவறான இடத்தில் தொடங்குகின்றன: ஒரு விகித அட்டவணை.

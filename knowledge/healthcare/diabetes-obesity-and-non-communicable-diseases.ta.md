@@ -74,6 +74,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-health" }
 related: []
 keywords: ["diabetes", "obesiti", "NCD", "penyakit tidak berjangkit", "NHMS 2023", "cukai gula", "PeKa B40", "Logo Pilihan Sihat", "saringan kesihatan"]
+framework: explainer
 ---
 
 மலேசியாவின் வயது வந்தோரில் பாதிக்கும் மேற்பட்டோர் இன்று தமது ஆயுளைக் குறைக்கக்கூடிய எடையைச் சுமந்து செல்கின்றனர் — ஆறு பேரில் ஒருவர் ஏற்கனவே நீரிழிவு நோயுடன் வாழ்கிறார், பலர் அதை உணராமலேயே. இது மருத்துவமனைகள், குடும்பங்கள் மற்றும் தேசிய பொருளாதாரத்தை எந்தவொரு தொற்று நோயையும் விட மிக அதிகமாகச் சுமையேற்றும் அமைதியான தொற்றுநோயாகும்.

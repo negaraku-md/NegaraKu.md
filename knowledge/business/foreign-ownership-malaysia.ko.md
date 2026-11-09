@@ -115,6 +115,7 @@ keywords:
   - "pemilikan asing Malaysia"
   - "foreign ownership restrictions Malaysia"
   - "WRT foreign equity"
+framework: rules
 ---
 
 이 주제에 관한 모든 가이드는 같은 말을 합니다. *대부분의 업종은 100퍼센트 외국인 소유를 허용한다*고

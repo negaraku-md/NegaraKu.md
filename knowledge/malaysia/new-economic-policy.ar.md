@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["rukun-negara", "the-emergency", "independence-1957", "formation-of-malaysia-1963", "population-composition"]
 keywords: ["السياسة الاقتصادية الجديدة", "New Economic Policy", "NEP", "Dasar Ekonomi Baru", "DEB", "Second Malaysia Plan", "إعادة هيكلة المجتمع", "القضاء على الفقر", "الوحدة الوطنية", "حصة البوميبوترا 30%"]
+framework: explainer
 ---
 
 عادةً ما تُستذكر السياسة الاقتصادية الجديدة بكلمة واحدة — «إعادة الهيكلة» — وظلت موضع جدل منذ ذلك الحين. لكن السياسة ذكرت أهدافها كتابةً، في خطة حكومية عُرضت على البرلمان، وكانت تلك الأهداف اثنين لا واحداً، مع فكرة ثالثة تعلو كليهما. تبيّن هذه المقالة ما تقوله الوثائق، بالترتيب الذي تقوله به.

@@ -69,6 +69,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["DeWan1958", "ChefWan", "BibGourmand", "MichelinGuideMalaysia", "KualaLumpur"]
+framework: profile
 ---
 
 De. Wan 1958 是一家位于吉隆坡 Taman U Thant 的 The LINC KL 内的马来西亚餐厅，

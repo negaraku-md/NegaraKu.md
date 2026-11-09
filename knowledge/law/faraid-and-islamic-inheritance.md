@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "syariah-courts-malaysia" }
 related: []
 keywords: ["faraid", "harta pusaka", "pusaka islam", "waris", "mahkamah syariah", "baitulmal", "akta pembahagian 1958", "pusaka kecil"]
+framework: explainer
 ---
 
 Apabila seorang Muslim meninggal dunia di Malaysia, hartanya tidak semestinya jatuh kepada waris yang paling rapat atau paling memerlukan — ia dibahagikan mengikut kadar tetap yang telah ditentukan Syarak. Sistem inilah yang dikenali sebagai **faraid**, dan ia menjadi kaedah lalai bagi pusaka orang Islam kecuali semua waris bersetuju dengan kaedah lain.

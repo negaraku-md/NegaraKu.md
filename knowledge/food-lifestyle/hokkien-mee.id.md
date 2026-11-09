@@ -87,6 +87,7 @@ verificationNeeded:
   - "Kisah asal-usul bahwa Hokkien mee gaya KL diciptakan oleh pedagang kaki lima Ong Kim Lian di Jalan Petaling pada 1927 — berbagai keterangan bertentangan (sejumlah media kuliner mengaitkannya dengan seorang 'Pak Ong' yang menambahkan kecap asin gelap ke hidangan mi goreng, sementara versi pesaing yang dipopulerkan oleh laporan Straits Times 1984 menelusuri akar hidangan ini ke dasawarsa 1880-an). Verifikasi nama pendiri dan tanggalnya dengan sumber sejarah atau warisan primer."
   - "Klaim bahwa kedua gaya Hokkien mee berasal dari hidangan Fujian lor mee dan tidak dikenal di Fujian sendiri — verifikasi terhadap sumber sejarah kuliner atau akademik, bukan media kuliner."
   - "Apakah sup udang pedas gaya Penang secara konsisten dan dapat dipertukarkan disebut 'prawn mee' dan 'hae mee' di semua wilayah (penggunaan dan ejaan berbeda-beda secara lokal) — verifikasi penamaan wilayah dengan sumber kuliner Penang atau Tionghoa-Malaysia."
+framework: explainer
 ---
 
 Pesan "Hokkien mee" di Kuala Lumpur dan Anda mendapat sepiring mi kuning tebal yang

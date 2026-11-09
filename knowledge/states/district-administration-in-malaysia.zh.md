@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "local-government-in-malaysia" }
 related: []
 keywords: ["pentadbiran daerah", "pejabat daerah", "pegawai daerah", "mukim", "pentadbir tanah", "daerah pentadbiran", "Kanun Tanah Negara"]
+framework: explainer
 ---
 
 在你投票选出的州与你居住的村庄之间，有一层很少被提及、却是你办理土地、发展项目或紧急援助时最常打交道的政府层级：县。就是在这里，州的政策转化为实际的服务，而其核心就是县署。

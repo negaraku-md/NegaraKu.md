@@ -138,6 +138,7 @@ relations:
   - { rel: "explained-in", to: "pdpa-registration-classes" }
 related: ["online-business-licence-malaysia"]
 keywords: ["pdpa malaysia", "personal data protection act 2010", "act a1727", "data controller malaysia", "pdpa amendment 2024", "pdpa compliance"]
+framework: rules
 ---
 
 Nếu thông báo bảo mật của bạn vẫn ghi «người dùng dữ liệu» (data user), nó đang mô tả một loại người đã ngừng tồn tại vào ngày 1 tháng 4 năm 2025.

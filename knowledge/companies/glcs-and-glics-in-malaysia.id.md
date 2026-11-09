@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["ekonomi-madani-framework", "khazanah", "bursa-malaysia"]
 keywords: ["GLC", "GLIC", "Khazanah", "KWSP", "PNB", "KWAP", "LTAT", "Tabung Haji", "GEAR-uP", "PERKUKUH", "Program Transformasi GLC", "Bursa Malaysia"]
+framework: explainer
 ---
 
 Buka portofolio dana indeks Bursa Malaysia mana pun, dan tangan pemerintah federal hampir pasti ada di dalamnya. Bank terbesar negara, perusahaan utilitas, telekomunikasi, maskapai, dan konglomerat perkebunan — semuanya berbagi satu pemilik akhir yang sama: rakyat Malaysia, melalui segelintir institusi investasi negara. Struktur inilah yang menjadikan Malaysia salah satu ekonomi paling banyak dipengaruhi negara di Asia Tenggara, dan ia diringkas dalam dua singkatan yang sering dikacaukan: GLC dan GLIC.

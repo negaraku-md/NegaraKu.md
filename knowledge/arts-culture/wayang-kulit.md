@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik"]
 keywords: ["Wayang Kulit", "shadow puppet Malaysia", "Tok Dalang", "Hikayat Seri Rama", "Kelantan traditional arts"]
+framework: history-culture
 ---
 
 The lamp is lit first. Behind a white cotton screen stretched tight on a wooden frame, one man sits cross-legged, a stack of flat leather puppets within reach on either side of him, a small orchestra of drums, gongs and a piercing double-reed serunai waiting behind him. He will not leave that spot for the rest of the night. By the time the last shadow crosses the screen, hours from now, he will have voiced kings, demons, clowns and princesses, narrated the transitions between scenes, and cued every musician — alone.

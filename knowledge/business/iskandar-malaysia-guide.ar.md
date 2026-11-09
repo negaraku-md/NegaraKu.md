@@ -121,6 +121,7 @@ keywords:
   - "انقضاء حوافز ميديني"
   - "إسكندر مقابل JS-SEZ"
   - "Iskandar Malaysia incentives"
+framework: explainer
 ---
 
 يكاد كل سرد لتاريخ حوافز جوهور يقول الشيء نفسه: إن JS-SEZ قد حلّت محلّ حزمة إسكندر القديمة.

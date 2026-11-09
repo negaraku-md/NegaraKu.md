@@ -77,6 +77,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["Thara", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 ร้านอาหารไทยไม่ใช่สิ่งแรกที่นึกถึงในจอร์จทาวน์ เมืองที่เป็นคำพ้องกับตำรับอาหาร

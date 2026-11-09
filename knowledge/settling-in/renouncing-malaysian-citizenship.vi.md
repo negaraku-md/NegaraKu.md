@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "dual-citizenship-malaysia" }
 related: []
 keywords: ["melepaskan kewarganegaraan", "dwikewarganegaraan Malaysia", "Perkara 23", "Perkara 24", "Perlembagaan Persekutuan", "Borang K", "pelucutan kewarganegaraan", "JPN"]
+framework: explainer
 ---
 
 Một công dân Malaysia tuyên thệ trở thành công dân của một nước khác thường ngạc nhiên khi phát hiện hộ chiếu xanh và MyKad của mình không còn hiệu lực — không phải vì một hành vi hành chính ẩn giấu nào, mà vì chính Hiến pháp Liên bang coi hai quốc tịch là điều không được công nhận. Vấn đề này tập trung vào hai điều khoản gắn bó chặt chẽ với nhau: Điều 23 (từ bỏ tự nguyện) và Điều 24 (tước quốc tịch khi có được quốc tịch nước ngoài).

@@ -76,6 +76,7 @@ social:
     - MalaysiaStartup
     - TechStartup
     - MOSTI
+framework: profile
 ---
 
 Kebanyakan pengasas kali pertama sampai ke dinding yang sama: ideanya bagus, tetapi belum ada hasil, tiada rekod prestasi untuk bank, dan menyerahkan ekuiti seawal ini terasa terlalu awal. Jawapan Malaysia kepada jurang itu ialah Cradle Fund — agensi kerajaan yang seluruh tugasnya adalah menyalurkan wang ke dalam syarikat permulaan teknologi sebelum sesiapa pun sanggup. Geran Cradle Investment Programme (CIP)-nya, bagi ramai pengasas Malaysia, ialah pembiayaan luaran pertama yang pernah mereka kumpulkan.

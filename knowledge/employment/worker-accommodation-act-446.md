@@ -119,6 +119,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: []
 keywords: ["act 446", "certificate for accommodation", "worker accommodation malaysia", "workers minimum standards housing", "centralised accommodation", "pekerja penginapan akta 446"]
+framework: rules
 ---
 
 Start with the name, because almost every article on this subject gets it wrong. The statute is the **Employees' Minimum Standards of Housing, Accommodations and Amenities Act 1990** (Act 446). It used to be the *Workers'* Minimum Standards of Housing and Amenities Act, and paragraph 4(a) of Act A1604 changed the short title with effect from 1 June 2020.

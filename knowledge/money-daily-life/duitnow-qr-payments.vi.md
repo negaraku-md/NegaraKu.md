@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "payment-regulation-malaysia" }
 related: ["bank-negara-malaysia", "payment-regulation-malaysia"]
 keywords: ["DuitNow", "DuitNow QR", "PayNet", "pembayaran segera Malaysia", "kod QR Malaysia", "pindahan wang guna nombor telefon", "Bank Negara Malaysia pembayaran digital"]
+framework: explainer
 ---
 
 Một người bán ở gian hàng chợ đêm chỉ trưng bày một mã QR duy nhất. Khách hàng

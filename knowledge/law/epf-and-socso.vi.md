@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["EPF", "KWSP", "SOCSO", "PERKESO", "SIP", "EIS", "caruman", "Akta KWSP 1991", "Akta Keselamatan Sosial Pekerja 1969", "persaraan", "insurans pekerjaan"]
+framework: rules
 ---
 
 Mở phiếu lương của bạn và ba khoản khấu trừ xuất hiện trước khi đồng xu đầu tiên vào tài khoản ngân hàng: EPF, SOCSO và SIP. Cả ba đều không phải là tùy chọn — chúng được thực thi bởi ba đạo luật riêng biệt của Quốc hội, và người sử dụng lao động không nộp chúng có thể bị phạt tù. Đây là lưới an sinh xã hội của Malaysia dành cho người lao động, và mỗi Ringgit bị khấu trừ mua một sự bảo vệ khác nhau.

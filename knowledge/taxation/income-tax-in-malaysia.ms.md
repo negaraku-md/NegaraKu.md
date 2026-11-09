@@ -93,6 +93,7 @@ relations:
   - { rel: "explained-in", to: "corporate-tax-rates" }
 related: ["personal-tax-rates", "corporate-tax-rates", "personal-tax-reliefs", "pcb-monthly-tax-deduction"]
 keywords: ["income tax Malaysia", "cukai pendapatan Malaysia", "LHDN income tax", "182 day rule Malaysia", "self assessment system Malaysia", "chargeable income", "Malaysia tax residency", "year of assessment"]
+framework: explainer
 ---
 
 Kebanyakan orang bertemu cukai pendapatan Malaysia sebagai satu baris pada slip gaji — "PCB" — dan satu kelam-kabut sekali setahun pada bulan April. Di sebalik baris itu terletak salah satu sistem paling penting di negara ini, dan hampir segala yang ditulis tentangnya bermula di tempat yang salah: sebuah jadual kadar.

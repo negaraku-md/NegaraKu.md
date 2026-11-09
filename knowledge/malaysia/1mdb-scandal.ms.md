@@ -79,6 +79,7 @@ sources:
 
 related: ["2018-change-of-government", "barisan-nasional", "prime-ministers-of-malaysia"]
 keywords: ["1MDB", "1Malaysia Development Berhad", "Najib Razak", "Jho Low", "skandal kewangan Malaysia"]
+framework: history-culture
 ---
 
 **1Malaysia Development Berhad (1MDB)** ialah sebuah dana pelaburan milik kerajaan

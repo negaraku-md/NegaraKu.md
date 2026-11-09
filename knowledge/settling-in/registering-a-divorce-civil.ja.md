@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "getting-married-in-malaysia" }
 related: ["getting-divorced-in-malaysia", "getting-married-in-malaysia"]
 keywords: ["civil divorce Malaysia", "Law Reform Marriage and Divorce Act 1976", "Act 164", "marriage tribunal JPN", "decree nisi", "decree absolute", "joint petition divorce", "Section 106 conciliatory body", "non-Muslim divorce Malaysia"]
+framework: explainer
 ---
 
 JPNで婚姻を登記した非ムスリムの夫婦は、同じ役所で婚姻を終わらせることもできると考えがちである。だが、それはできない。マレーシアでは、民事婚は行政的に登記されるが、その解消は裁判所命令によってのみ行われる——そして、疎遠になった婚姻から一片の押印された判決に至る道のりは、和解のための審判所、高等法院への申立て、そして離婚が最終的に確定する前に組み込まれた3か月の猶予を経ることになる。

@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "peka-b40" }
 related: ["dental-care"]
 keywords: ["Klinik Kesihatan Malaysia", "klinik kerajaan Malaysia", "MySejahtera temujanji klinik", "PeKa B40", "penjagaan kesihatan primer Malaysia", "KKM klinik kesihatan", "klinik komuniti vs klinik kesihatan", "cara daftar klinik kesihatan"]
+framework: explainer
 ---
 
 குறையாத காய்ச்சல், தடுப்பூசி போட வேண்டிய குழந்தை, அல்லது மாதந்தோறும்

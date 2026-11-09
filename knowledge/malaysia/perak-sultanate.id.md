@@ -62,6 +62,7 @@ social:
 verificationNeeded:
   - "Tanggal pasti sistem suksesi-gelar rotasional pertama kali ditetapkan: sumber-sumber naratif menelusuri asal-usulnya ke abad ke-17 tetapi tidak memberikan satu tanggal pendirian otoritatif; tatanan modern bersandar pada sebuah ketetapan 25 Februari 1953."
   - "Tahun pendirian yang tepat secara konvensional diberikan sebagai 1528 (tahun Mahmud Shah dari Melaka wafat di Kampar), tetapi beberapa silsilah menempatkan pelantikan Muzaffar Shah I beberapa tahun lebih awal atau lebih lambat."
+framework: history-culture
 ---
 
 Ketika Melaka jatuh oleh meriam Portugis pada 1511, dinasti yang telah membuat Selat itu termasyhur tidak ikut mati bersama kota itu. Sultan terakhirnya, Mahmud Shah, mundur ke pedalaman kepulauan dan meninggalkan dua putra; yang seorang akan mendirikan kembali garis raja di hilir di Johor, yang seorang lagi akan membawa mahkota lama Melaka ke utara, ke sebuah lembah sunyi yang dialiri sebuah sungai yang gosong-gosong pasirnya berkilauan timah. Kerajaan utara itu menjadi Perak, dan hampir lima abad kemudian ia masih diperintah oleh garis darah yang sama, kini oleh seorang sultan yang takhtanya diwariskan bukan dari ayah ke anak melainkan menyusuri sebuah tangga pangeran yang bergerak. Inilah kisah bagaimana sebuah dinasti yang kalah bertahan hidup, menjadi kaya karena timah, kehilangan kedaulatannya kepada Inggris lewat satu perjanjian, dan bertahan hingga masa kini.

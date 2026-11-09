@@ -107,6 +107,7 @@ keywords:
   - "قاعدة اللغة الماليزية للوحات الإعلانية"
   - "رسم رخصة اللوحة الإعلانية DBKL"
   - "signboard licence Malaysia"
+framework: rules
 ---
 
 تخبرك معظم الأدلّة بأن كوالالمبور هي المدينة التي يتعيّن فيها على [ديوان اللغة والأدب](/arts-culture/dewan-bahasa-dan-pustaka) أن يوافق على

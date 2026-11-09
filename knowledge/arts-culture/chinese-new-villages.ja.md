@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["population-composition", "chinese-dialects", "chinese-clan-associations", "chinese-education-in-malaysia", "chinese-new-year"]
 keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划", "Briggs Plan", "马共", "重新安置", "临时地契", "TOL", "Chinese New Villages", "New Villages Malaysia"]
+framework: history-culture
 ---
 
 今日のスメニー、カンパー、あるいはスキンチャン（Sekinchan）に足を踏み入れると、目に入るのはたいてい、ごくふつうの小さな町の風景です。軒を連ねるショップハウス、華文の小学校、寺廟や会館、通り沿いのコーヒーショップや雑貨店。けれど、こうした町の多くはひとつの共通した出自を分かち合っています——それらは「新村」なのです。一見なんの変哲もないこの呼び名の背後には、マラヤ非常事態と対反乱、そして大規模な移住という歴史があります。

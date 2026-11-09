@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "directors-duties" }
 related: ["minute-books-and-records", "directors-duties", "disclosure-of-interest", "written-resolutions", "company-tax-residence"]
 keywords: ["board meeting Malaysia", "Third Schedule Companies Act 2016", "directors circular resolution", "board quorum Sdn Bhd", "section 212 proceedings of the Board"]
+framework: rules
 ---
 
 多数马来西亚 Sdn Bhd 没有公司章程。依 Companies Act 2016 它们不需要有，而 2017 年以来注册

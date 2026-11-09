@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "foreign-worker-levy-malaysia" }
 related: ["employment-act-1955", "foreign-worker-levy-malaysia", "minimum-wage-malaysia"]
 keywords: ["pembantu rumah asing", "foreign domestic helper", "FDH Malaysia", "maid Malaysia", "MoU Indonesia pembantu rumah", "bon keselamatan pekerja asing", "pengecualian KWSP pembantu rumah"]
+framework: rules
 ---
 
 외국인 가사도우미는 공장이나 농장 근로자와는 전혀 다른 문을 통해 말레이시아에 들어옵니다 —

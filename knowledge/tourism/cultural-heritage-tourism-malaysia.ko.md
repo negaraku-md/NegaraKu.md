@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "malaysia-homestay-programme" }
 related: []
 keywords: ["Malaysia UNESCO World Heritage", "heritage tourism Malaysia", "homestay programme Malaysia", "George Town Melaka", "mosque etiquette Malaysia", "cultural tourism"]
+framework: explainer
 ---
 
 한 나라 안의 여섯 곳이 이제 유네스코의 인증을 받고 있습니다 — 오전에는 수백 년 된 네덜란드 식민지 시대 광장을 걷고, 비행기로 잠깐 이동해 광대한 보르네오 동굴 방 안에 설 수 있습니다. 말레이시아의 유산은 바라보는 박물관이 아닙니다. 먹고, 자고, 기도하며 지나갈 수 있는 살아 있는 거리입니다.

@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
 related: ["federal-constitution"]
 keywords: ["native customary rights", "NCR", "Sarawak Land Code", "Sabah Land Ordinance", "native title", "temuda", "pemakai menoa", "East Malaysia land law"]
+framework: explainer
 ---
 
 Belilah sebuah rumah di Kuala Lumpur dan satu statut persekutuan mentadbir hak milik anda. Buat perkara yang sama di Kuching atau Kota Kinabalu dan anda melangkah masuk ke dalam dunia perundangan yang sama sekali berbeza — satu dunia dengan ordinannya sendiri, kategori tanahnya sendiri, dan satu bentuk pegangan yang tidak diwujudkan oleh mana-mana sekeping kertas: Hak Adat Bumiputera.

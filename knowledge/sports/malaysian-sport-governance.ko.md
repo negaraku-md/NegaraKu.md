@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "malaysia-olympic-history" }
 related: []
 keywords: ["tadbir urus sukan Malaysia", "Majlis Sukan Negara", "Pesuruhjaya Sukan", "Akta Pembangunan Sukan 1997", "Majlis Olimpik Malaysia", "Kementerian Belia dan Sukan", "Institut Sukan Negara"]
+framework: explainer
 ---
 
 조호르(Johor)의 신생 축구 클럽은 유니폼을 사고 경기장을 빌리고 선수를 등록할 수 있습니다 — 하지만 여전히 어떠한 대회에도 "말레이시아"를 대표해 누군가를 합법적으로 내보낼 수는 없습니다. 그 이유는 돈이나 재능이 아닙니다. 누가 허가를 주는가의 문제입니다. 말레이시아에서 스포츠 단체로 존립할 권리, 재정 지원을 받을 권리, 그리고 국가의 이름을 사용할 권리는 흔히 하나로 혼동되는 네 개의 서로 다른 기관에서 나옵니다.

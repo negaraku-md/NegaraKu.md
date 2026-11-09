@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "personal-income-tax" }
 related: ["real-property-gains-tax"]
 keywords: ["inheritance tax Malaysia", "estate duty Malaysia", "no inheritance tax", "deceased estate income tax", "RPGT inherited property", "stamp duty inheritance", "executor tax Malaysia", "death tax Malaysia"]
+framework: explainer
 ---
 
 Ketika seorang orang tua meninggal dunia di Kuala Lumpur dan meninggalkan sebuah rumah serta sedikit tabungan, kekhawatiran pertama keluarga biasanya adalah tagihan pajak atas warisan itu sendiri. Di Malaysia, tagihan tertentu itu tidak ada. Tidak ada pajak warisan, tidak ada bea harta peninggalan, dan tidak ada pajak kematian atas kekayaan yang ditinggalkan seseorang.

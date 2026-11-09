@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "hinduism-in-malaysia" }
 related: ["hinduism-in-malaysia", "thaipusam", "mariamman-worship", "temple-music-nadaswaram", "indian-classical-arts-in-malaysia"]
 keywords: ["இந்துக் கோயில் கட்டடக்கலை", "கோபுரம்", "விமானம்", "கர்ப்பக்கிரகம்", "மண்டபம்", "திராவிடக் கட்டடக்கலை", "கும்பாபிஷேகம்", "மலேசியா கோயில்கள்", "Hindu temple architecture", "gopuram", "Dravidian architecture Malaysia"]
+framework: history-culture
 ---
 
 Cuando uno se acerca a cualquier barrio de una ciudad malasia donde una comunidad tamil ha echado raíces, una torre cubierta de esculturas que se eleva hacia el cielo salta a la vista desde lejos. Esa torre-pórtico, con sus pisos de coloridas figuras de deidades, no es casualidad — es la continuación de una tradición arquitectónica milenaria; la marca de un legado cultural que las personas de ascendencia tamil del sur de la India trajeron consigo a Malasia.

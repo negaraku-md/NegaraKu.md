@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["service-tax-act-2018", "withholding-tax-digital-services", "low-value-goods-sales-tax", "sst-registration"]
 keywords: ["service tax on digital services", "SToDS Malaysia", "digital service tax Malaysia 8%", "foreign registered person FRP", "MySToDS DST-01 DST-02", "cukai perkhidmatan digital", "foreign SaaS tax Malaysia", "online services service tax"]
+framework: explainer
 ---
 
 Butiran baris pada resit Netflix anda, cukai pada invois AWS syarikat anda, beberapa ringgit tambahan pada langganan Canva atau Adobe — itulah satu cukai Malaysia tertentu yang sedang berfungsi, dan ia mempunyai nama yang kebanyakan orang tidak pernah dengar: SToDS.

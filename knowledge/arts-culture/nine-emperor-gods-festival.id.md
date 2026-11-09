@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "chinese-religion-in-malaysia" }
 related: ["chinese-religion-in-malaysia", "buddhism-in-malaysia", "hungry-ghost-festival", "religion-statistics"]
 keywords: ["九皇爷诞", "九皇大帝", "九皇胜会", "斗母元君", "食斋", "斋戒", "请水", "送驾", "过火", "安邦南天宫", "香港巷斗母宫", "Nine Emperor Gods Festival", "Kaw Ong Ya"]
+framework: history-culture
 ---
 
 Pada malam sebelum tanggal 1 bulan sembilan penanggalan lunar, sebaris penganut berbusana putih dengan selempang kuning di pinggang, memegang dupa harum, keluar beriringan dari kelenteng menuju tepi sungai atau pantai terdekat. Di depan ada gong dan tambur, di belakang asap dupa — mereka pergi untuk "menjemput air" dan "menyambut dewa", mengiringi Sembilan Dewa Kaisar pulang ke kelenteng. Selama sembilan hari berikutnya, di dalam kelenteng dupa tak putus-putus, di luar kelenteng semerbak aroma makanan vegetarian; dan pada malam tanggal 9, barisan yang sama akan kembali berbaris ke tepi air untuk mengantar dewa pulang.

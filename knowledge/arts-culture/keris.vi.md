@@ -100,6 +100,7 @@ relations:
   - { rel: "governs", to: "akta-warisan-kebangsaan-2005" }
 related: ["batik", "songket", "wau"]
 keywords: ["keris", "empu", "pamor", "luk", "warisan Melayu", "Taming Sari", "keris Melayu", "Akta Warisan Kebangsaan 2005", "budaya Nusantara"]
+framework: history-culture
 ---
 
 Một lưỡi dao răng cưa như lưỡi lửa, được rèn từ sắt và niken gấp lại hàng trăm lần bởi bàn tay một empu — keris không chỉ là vũ khí, mà là nhịp đập của nền văn minh Mã Lai. Nó được giắt bên hông chiến binh, được nâng cao trong nghi lễ hoàng gia, và được truyền lại đời này qua đời khác như báu vật gia đình. Đến tận ngày nay, keris vẫn là biểu tượng của chủ quyền, lòng dũng cảm và bản sắc dân tộc.

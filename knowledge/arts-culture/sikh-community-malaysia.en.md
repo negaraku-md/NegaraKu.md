@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["tamil-in-malaysia", "chinese-dialects", "population-composition", "deepavali"]
 keywords: ["Sikh Malaysia", "Punjabi Malaysia", "gurdwara", "Vaisakhi", "Khalsa", "langar", "Tatt Khalsa Diwan", "komuniti Sikh", "bahasa Punjabi"]
+framework: history-culture
 ---
 
 In the ranks of the police and the British forts of 19th-century Malaya, many of those officers with turbans and thick beards were not locals — they were Sikhs brought thousands of miles from Punjab in northwestern India. Out of that duty of maintaining security grew one of Malaysia's smallest yet most instantly recognisable minority communities.

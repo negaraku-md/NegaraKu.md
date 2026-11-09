@@ -54,6 +54,7 @@ relations:
   - { rel: "part-of", to: "audit-exemption" }
 related: ["audit-exemption", "audit-exemption-thresholds", "after-audit-exemption"]
 keywords: ["कौन ऑडिट छूट का दावा नहीं कर सकता", "audit exemption exclusions Malaysia", "छूट-प्राप्त निजी कंपनी धारा 260", "exempt private company section 260", "सार्वजनिक कंपनी की सहायक ऑडिट", "foreign company audit Malaysia"]
+framework: rules
 ---
 
 सीमाएँ पार कर लेना आख़िरी द्वार नहीं है। प्रैक्टिस डायरेक्टिव 10/2024 (Practice Directive 10/2024) का अनुच्छेद 12 चार श्रेणियों की कंपनियों के लिए ऑडिट छूट का दरवाज़ा पूरी तरह बंद कर देता है — इनमें से किसी में भी आने वाली एक निष्क्रिय, शून्य-राजस्व कंपनी फिर भी एक ऑडिटर नियुक्त करती है।

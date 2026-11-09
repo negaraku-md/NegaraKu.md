@@ -114,6 +114,7 @@ keywords:
   - "pemilikan asing Malaysia"
   - "foreign ownership restrictions Malaysia"
   - "WRT foreign equity"
+framework: rules
 ---
 
 Every guide to this subject says the same thing: *most sectors allow 100 percent foreign

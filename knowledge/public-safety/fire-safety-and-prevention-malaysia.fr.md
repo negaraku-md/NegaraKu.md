@@ -70,6 +70,7 @@ relations:
   - { rel: "governs", to: "akta-perkhidmatan-bomba-1988" }
 related: []
 keywords: ["sécurité incendie", "prévention des incendies", "certificat d'incendie", "perakuan bomba", "fire certificate", "JBPM", "Akta Perkhidmatan Bomba 1988"]
+framework: explainer
 ---
 
 Le feu ne prévient pas. En quelques minutes, une étincelle d'une prise

@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "straits-settlements" }
 related: ["melaka-sultanate", "portuguese-melaka-1511", "straits-settlements", "singapore-separation-1965"]
 keywords: ["Kesultanan Johor-Riau", "Kesultanan Johor", "Sultan Alauddin Riayat Shah II", "Sultan Mahmud Shah", "waris Kesultanan Melaka", "Johor Lama", "Dinasti Bendahara", "Riau-Lingga", "institusi diraja Melayu"]
+framework: history-culture
 ---
 
 In 1511, Portuguese cannon brought down a city — but not a throne. When the fortress of Melaka fell, Sultan Mahmud Shah, the last sultan of Melaka, did not surrender. He withdrew south together with the royal family, the chief ministers, and — most importantly — the entire institutional order that made Melaka a sultanate. The city was lost; the sultanate moved.

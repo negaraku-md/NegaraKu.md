@@ -66,6 +66,7 @@ social:
 verificationNeeded:
   - "SENSIBLE : touche aux troubles raciaux du 13 mai 1969 (race) et aux souverains malais (royauté). Toutes les caractérisations sont résumées de manière neutre ; à revérifier par rapport aux sources primaires et à faire valider par un relecteur humain qualifié avant publication."
   - "Confirmer les dates exactes (fonctions de Premier ministre, naissance, décès) auprès de la Perdana Leadership Foundation et du Cabinet du Premier ministre."
+framework: profile
 ---
 
 Au matin du 31 août 1957, devant un stade Merdeka comble à Kuala Lumpur, un prince de Kedah leva la main et entraîna la foule dans un septuple cri de **« Merdeka ! »** — liberté. L'homme était **Tunku Abdul Rahman Putra Al-Haj**, et ce moment, immortalisé dans la Déclaration d'indépendance de la Malaya, marqua la fin de la domination britannique sur la Fédération de Malaya et la naissance d'une nation indépendante qu'il allait gouverner comme son premier Premier ministre.

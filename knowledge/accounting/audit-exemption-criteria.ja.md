@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "unaudited-financial-statements" }
 related: ["companies-act-2016"]
 keywords: ["pengecualian audit", "audit exemption", "PD 10/2024", "Arahan Amalan 10/2024", "Sdn Bhd", "syarikat persendirian", "SSM", "seksyen 267", "penyata kewangan tidak diaudit"]
+framework: rules
 ---
 
 長年にわたり、マレーシアのほぼすべてのSdn Bhd（非公開有限会社）は、それが一人経営の雑貨店であろうと工場であろうと、監査人を委任することを義務づけられてきました。2023年末時点で、活動中の会社は666,767社に上る一方、その会計帳簿に署名できる公認監査人はわずか1,919名しかいませんでした。企業委員会（SSM）のPractice Directive 10/2024（PD 10/2024）はこの状況を変えました。2025財政年度以降、数十万社の中小企業は、基準を満たせば法定監査を完全に省略できるようになります。

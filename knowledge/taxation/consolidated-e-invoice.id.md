@@ -86,6 +86,7 @@ relations:
   - { rel: "explained-in", to: "myinvois-phases" }
 related: ["e-invoicing", "myinvois-phases", "self-billed-e-invoice", "e-invoice-data-fields", "myinvois-integration"]
 keywords: ["e-Invois disatukan", "peraturan RM10000 e-Invois", "tarikh akhir e-Invois disatukan", "General Public EI00000000010", "industri tidak boleh menyatukan e-Invois", "e-invois bulanan"]
+framework: explainer
 ---
 
 Konsolidasi adalah konsesi yang membuat e-Invois bisa ditanggung oleh sebuah

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "registering-a-marriage-civil" }
 related: ["getting-married-in-malaysia", "registering-a-marriage-civil"]
 keywords: ["divorce Malaysia", "civil divorce", "Syariah divorce", "talak", "fasakh", "khuluk", "Law Reform Marriage and Divorce Act 1976", "Section 51 conversion to Islam", "Syariah court"]
+framework: explainer
 ---
 
 คู่สมรสชาวมาเลเซียสองคู่ยื่นเรื่องยุติการสมรสในเช้าวันเดียวกัน คู่หนึ่งเดินเข้าไปที่สำนักงานทะเบียนศาลสูงแพ่ง; อีกคู่ไปรายงานตัวที่สำนักงานศาสนาอิสลามของรัฐ ไม่มีคู่ใดสามารถใช้ประตูของอีกคู่ได้ ในมาเลเซีย การยุติการสมรส — เช่นเดียวกับการเริ่มต้น — ดำเนินการผ่านสองระบบกฎหมายที่แยกจากกัน และศาสนาของคู่กรณี ไม่ใช่ความชอบของพวกเขา เป็นตัวตัดสินว่าระบบใดใช้บังคับ

@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malaysia FTA", "CPTPP Malaysia", "RCEP Malaysia", "free trade agreement", "MITI", "tariff elimination", "ASEAN Free Trade Area", "bilateral FTA"]
+framework: explainer
 ---
 
 Phần lớn hàng nhập khẩu và xuất khẩu của Malaysia di chuyển qua biên giới nơi thuế quan đã được đàm phán giảm xuống. Mạng lưới đó đã được lắp ghép từng thỏa thuận một kể từ đầu thập niên 1990 — từ Khu vực Thương mại Tự do ASEAN đến hai hiệp định lớn, RCEP và CPTPP, nay nằm ở trung tâm của nó.

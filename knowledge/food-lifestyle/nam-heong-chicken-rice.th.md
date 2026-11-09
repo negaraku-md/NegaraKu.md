@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#NamHeong", "#ChickenRice", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 บน Jalan Sultan ท่ามกลางย่านเมืองเก่าของกัวลาลัมเปอร์ จานข้าวมันไก่ต้มราดบนข้าวหอม

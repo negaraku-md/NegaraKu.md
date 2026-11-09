@@ -71,6 +71,7 @@ social:
     - OnlineSeller
     - SSM
     - MicroEntrepreneur
+framework: how-to
 ---
 
 Bạn làm bánh quy, bán lại sản phẩm chăm sóc da, hoặc dropship ốp điện thoại từ phòng trống của mình, và doanh số là có thật. Đâu đó giữa đơn hàng đầu tiên và đơn thứ mười, một câu hỏi nổi lên: có bất kỳ điều nào trong số này *hợp pháp* không, hay một doanh nghiệp tại nhà là loại duy nhất mà bạn có thể cứ… vận hành? Câu trả lời trung thực là một doanh nghiệp tại nhà vẫn là một doanh nghiệp — nhà nước kỳ vọng cùng sự đăng ký như một cửa hàng, cộng với một sự cho phép thêm mà hầu hết mọi người không bao giờ nghĩ đến: sự cho phép từ hội đồng địa phương của bạn để vận hành một doanh nghiệp ra khỏi một ngôi nhà.

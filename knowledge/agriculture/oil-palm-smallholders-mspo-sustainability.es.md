@@ -81,6 +81,7 @@ relations:
   - { rel: "affects", to: "deforestation-and-forest-loss-in-malaysia" }
 related: ["palm-oil-sustainability-mspo-and-deforestation", "palm-oil-industry", "palm-oil-sustainability-certification", "deforestation-and-forest-loss-in-malaysia"]
 keywords: ["oil palm smallholders", "pequeños productores de palma aceitera", "MSPO certification", "certificación MSPO", "independent smallholders", "MS 2530:2022", "EUDR palm oil", "aceite de palma sostenible Malasia"]
+framework: explainer
 ---
 
 Un agricultor de Bintulu que puede recorrer de memoria cada linde de su parcela de palma aceitera tiene ahora que convertir esos «mapas mentales» en polígonos GPS antes de que un comprador de Europa toque su fruto. Esa brecha — entre conocer tu tierra y documentarla a satisfacción de un auditor — es la historia silenciosa que hay detrás de la economía del aceite de palma de los pequeños productores de Malasia.

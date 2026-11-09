@@ -145,6 +145,7 @@ relations:
   - { rel: "compares-with", to: "employment-pass-malaysia" }
 related: ["labour-law-map-malaysia", "worker-accommodation-act-446", "employment-pass-malaysia"]
 keywords: ["hiring foreign workers malaysia", "section 60k", "plks", "eppax", "fwcms", "fomema", "visa dengan rujukan", "foreign worker quota malaysia"]
+framework: how-to
 ---
 
 几乎每一份关于马来西亚聘用外籍劳工的指南都从配额说起。配额是第三步。

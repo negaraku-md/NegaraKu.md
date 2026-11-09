@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "import-duty" }
 related: ["sales-and-service-tax"]
 keywords: ["duti eksais", "excise duty", "Akta Eksais 1976", "cukai kereta", "duti eksais rokok", "cukai gula", "minuman bergula", "JKDM", "kastam"]
+framework: explainer
 ---
 
 マレーシアで自動車を購入すると、車両本体の価格にほぼ匹敵する税金を支払うことになるかもしれない。その主な原因は、あまり議論されることのない、しかし極めて強力な税——**物品税**である。

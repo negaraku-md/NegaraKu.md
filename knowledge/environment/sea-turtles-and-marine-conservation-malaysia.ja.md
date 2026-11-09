@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "terengganu-turtle-enactment" }
 related: []
 keywords: ["penyu", "penyu belimbing", "Rantau Abang", "taman laut", "Akta Perikanan 1985", "Enakmen Penyu Terengganu", "pemuliharaan marin", "telur penyu"]
+framework: explainer
 ---
 
 1960年代末、トレンガヌ州ランタウ・アバンの一本の海岸には、毎年約2,000頭のメスのオサガメが上陸し、砂浜に約10,000個の卵の巣を残していた。今日、その姿はもはや一頭もない。この衰退の物語は、この地域における最も顕著な野生生物保全の失敗の一つであり——それが今日に至るまでマレーシアがウミガメを保護する方法を形づくってきた。

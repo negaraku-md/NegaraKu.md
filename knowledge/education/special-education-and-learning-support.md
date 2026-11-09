@@ -61,6 +61,7 @@ relations:
   - { rel: "part-of", to: "education" }
 related: []
 keywords: ["special education Malaysia", "PPKI programme", "PPI inclusive education", "OKU card children", "sekolah pendidikan khas", "learning disability support Malaysia", "special education curriculum Malaysia", "TASKA OKU"]
+framework: explainer
 ---
 
 A diagnosis is only the first conversation. The second one — often more confusing — is which school track your child actually goes into, and why the OKU card seems to matter before the school does. Malaysia's system has three public tracks, a separate disability-registration process feeding into all of them, and a parallel world of private and NGO therapy that most parents discover by word of mouth rather than by any single official page.

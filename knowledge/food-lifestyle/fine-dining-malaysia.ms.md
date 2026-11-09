@@ -96,6 +96,7 @@ verificationNeeded:
   - "Tahun tepat Dewakan dinaikkan kepada dua Star — laporan menyebutnya secara berbeza sebagai majlis 2023 / edisi panduan 2024; sahkan edisi tepatnya terhadap MICHELIN Guide."
   - "Angka bahawa Au Jardin menggunakan kira-kira 85% hasil Malaysia berasal daripada satu laporan akhbar sahaja; sahkan dengan pihak restoran."
   - "Nama cef, tahun pembukaan dan butiran premis bagi restoran individu (cth. Au Jardin, Gen, Terra Dining, Akar) patut disemak semula terhadap saluran rasmi setiap restoran sebelum dipetik, kerana ini berubah dari semasa ke semasa."
+framework: profile
 ---
 
 Malaysia telah makan dengan hebat selama bergenerasi — tetapi kebanyakannya di

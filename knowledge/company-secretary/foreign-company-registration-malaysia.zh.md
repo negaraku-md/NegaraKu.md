@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "incorporate-company-malaysia-sdn-bhd" }
 related: ["companies-act-2016"]
 keywords: ["foreign company registration Malaysia", "branch office Malaysia", "section 562 Companies Act 2016", "SSM foreign company", "local agent Malaysia", "branch vs Sdn Bhd"]
+framework: how-to
 ---
 
 一家海外公司可以在很长一段时间里从境外向马来西亚销售——但一旦它开设办事处、签订本地租约或在当地设置员工，就跨过了一条界线。当它在马来西亚*经营业务*时，《2016 年公司法》规定它必须先行注册，而这一举动会把同一家海外公司变成一家在马来西亚注册的分行。

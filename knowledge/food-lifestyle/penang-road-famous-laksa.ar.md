@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#PenangRoadFamousLaksa", "#AssamLaksa", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 قليلة هي أسماء طعام الشارع في George Town التي بلغت من الألفة ما بلغه Penang Road

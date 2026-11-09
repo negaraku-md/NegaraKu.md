@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "hire-purchase-act-1967-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["SBR Malaysia", "Standardised Base Rate", "debt service ratio", "DSR", "housing loan Malaysia", "Hire Purchase Act 1967", "BLR", "responsible financing", "OPR"]
+framework: explainer
 ---
 
 Dua pembeli rumah masuk ke dua bank berbeza dengan slip gaji yang sama dan keluar dengan dua jawapan berbeza. Tiada bank yang mencipta kadar faedahnya sendiri, dan tiada yang bertindak sewenang-wenangnya. Sistem pemberian pinjaman runcit Malaysia berjalan atas satu set kecil peraturan bersama — satu yang mengikat setiap pinjaman kadar terapung kepada satu dail dasar tunggal di Kuala Lumpur, satu yang menentukan berapa banyak hutang anda boleh tanggung, dan, untuk kereta anda, satu undang-undang yang sama sekali berasingan dari tahun 1967.

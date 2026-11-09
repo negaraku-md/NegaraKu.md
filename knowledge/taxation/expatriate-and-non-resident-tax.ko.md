@@ -84,6 +84,7 @@ relations:
   - { rel: "requires", to: "individual-tax-residence" }
 related: ["income-tax-in-malaysia", "individual-tax-residence", "personal-tax-rates", "which-tax-form", "epf-foreign-workers-malaysia"]
 keywords: ["expatriate tax Malaysia", "non-resident tax rate Malaysia 30", "60 day exemption Malaysia tax", "knowledge worker tax rate 15", "Returning Expert Programme tax", "Employment Pass tax residence"]
+framework: rules
 ---
 
 외국인 주재 근무에서 가장 비싼 달은 대개 도착한 달이며, 그 당시에는 아무 비용도 들지 않습니다. 7월 15일에 도착하면 거주에 필요한 182일에서 12일이 모자랍니다. 6월 15일에 도착하면 이를 넘깁니다. 같은 패키지, 같은 고용주인데, 그 해 세부담의 약 3분의 1의 차이가 납니다 — 비거주 개인은 공제 없이 **첫 링깃(RM)부터 일률 30%**를 내기 때문입니다.

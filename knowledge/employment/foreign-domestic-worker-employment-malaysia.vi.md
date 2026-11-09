@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "foreign-worker-levy-malaysia" }
 related: ["employment-act-1955", "foreign-worker-levy-malaysia", "minimum-wage-malaysia"]
 keywords: ["pembantu rumah asing", "foreign domestic helper", "FDH Malaysia", "maid Malaysia", "MoU Indonesia pembantu rumah", "bon keselamatan pekerja asing", "pengecualian KWSP pembantu rumah"]
+framework: rules
 ---
 
 Một người giúp việc gia đình nước ngoài vào Malaysia qua một cánh cửa hoàn toàn khác với công nhân nhà máy hay đồn điền — không qua hạn ngạch ngành, không qua Trung tâm Một cửa của lao động nước ngoài, và không dưới sự bảo vệ đầy đủ của luật lao động. Chế độ này riêng biệt, và người sử dụng lao động cho rằng quy trình giống như tuyển một lao động phổ thông thường bị chệch hướng.

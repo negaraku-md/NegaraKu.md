@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["industrial-design-malaysia", "ip-ownership-malaysia", "trademark-registration-malaysia"]
 keywords: ["patent malaysia", "utility innovation malaysia", "myipo patent fee", "patents act 1983", "utility innovation vs patent"]
+framework: decision
 ---
 
 大多数来问专利的马来西亚中小型企业，手上并没有可专利的发明。他们有的是一项改良

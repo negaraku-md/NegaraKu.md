@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#CurryMee", "#Penang", "#SeberangPerai", "#BibGourmand", "#Malaysia"]
+framework: profile
 ---
 
 槟城的 MICHELIN 声名大多聚集在乔治市的岛上街道。Taman Bukit Curry Mee 提醒着人们，

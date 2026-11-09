@@ -79,6 +79,7 @@ faq:
     a: No. Flooding on the west coast is not always caused by the Northeast Monsoon — according to the Director-General of MetMalaysia, it often stems from separate low-pressure systems, such as the one that affected Perak, Selangor and Perlis in November 2025. In addition, flash floods caused by inadequate urban drainage systems are a separate phenomenon and can occur at any time regardless of the monsoon.
   - q: Is the Northeast Monsoon equally severe throughout November to March?
     a: No. Official data from the National Security Council (MKN) for the 2024/2025 season shows that the highest-risk areas shift by phase. In the early phase (November–December) Kelantan, Terengganu, Pahang, Johor, Sarawak and Sabah were affected; in the late phase (January–February) the focus shifted to Pahang, Johor, Sarawak and Sabah — Kelantan and Terengganu were no longer listed as highest-risk. The whole season is expected to record 5 to 7 episodes of heavy rain.
+framework: explainer
 ---
 
 Every November, before checking the news, many residents of Kota Bharu, Kuala Terengganu and Kuantan start checking the water levels of rivers near their homes. This is not a habit born of unexpected disaster — it is a predictable schedule that repeats every year, and its cause is the same seasonal wind system that also determines when the west coast of the Peninsula turns dry.

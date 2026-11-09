@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "syariah-courts-malaysia" }
 related: []
 keywords: ["faraid", "harta pusaka", "pusaka islam", "waris", "mahkamah syariah", "baitulmal", "akta pembahagian 1958", "pusaka kecil"]
+framework: explainer
 ---
 
 மலேசியாவில் ஒரு முஸ்லிம் இறக்கும்போது, அவரது சொத்து மிக நெருங்கிய அல்லது மிகவும் தேவையுள்ள வாரிசுக்கு அவசியம் சேர்வதில்லை — அது ஷரக் (Syarak) நிர்ணயித்த நிலையான விகிதங்களின்படி பங்கிடப்படுகிறது. இந்த அமைப்புதான் **ஃபராயித் (faraid)** என்று அறியப்படுகிறது; அனைத்து வாரிசுகளும் வேறு முறைக்கு ஒப்புக்கொள்ளாத வரை, இது முஸ்லிம்களின் வாரிசுச் சொத்துக்கான இயல்புநிலை முறையாகும்.

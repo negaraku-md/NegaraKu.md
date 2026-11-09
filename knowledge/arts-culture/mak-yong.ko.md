@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["wayang-kulit", "batik"]
 keywords: ["Mak Yong", "teater tarian tradisional", "warisan budaya tidak ketara", "UNESCO Malaysia", "rebab", "Kelantan", "Pak Yong", "Mengadap Rebab"]
+framework: history-culture
 ---
 
 첫 소리는 배우에게서 나오지 않습니다. 그것은 세 줄이 달린 배(梨) 모양의 나무 한 조각 — 르밥 — 에서 나오는데, 열린 목조 무대 가장자리에서 천천히 켜집니다. 관객은 세 면에 둘러앉습니다. 지붕은 야자 잎입니다. 그리고 대사 한 마디가 나오기도 전에, 한 공주가 이미 그 악기를 향해 몸을 숙이는데, 그 춤의 이름 자체가 모든 것을 말해 줍니다. **믕아답 르밥(Mengadap Rebab, 르밥을 향해 절함)**입니다.

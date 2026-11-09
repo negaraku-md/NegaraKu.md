@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "driving-licence-in-malaysia" }
 related: []
 keywords: ["keselamatan jalan raya", "kemalangan jalan raya Malaysia", "pemanduan mabuk", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
+framework: explainer
 ---
 
 每一天，马来西亚的道路上约有 18 条生命消逝。这个数字使道路成为该国最显著的非自然死亡原因之一，也是当局动用法律、摄像头与专责机构加以应对的主要原因。

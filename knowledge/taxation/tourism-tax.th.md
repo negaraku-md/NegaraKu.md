@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["sst-explained", "sst-registration"]
 keywords: ["tourism tax", "TTx", "Tourism Tax Act 2017", "RM10 per room", "MyTTx", "RMCD", "Agoda tax", "hotel tax Malaysia"]
+framework: explainer
 ---
 
 เช็คเอาต์จากโรงแรมมาเลเซียแล้วคุณอาจสังเกตบรรทัดเล็ก ๆ ที่คงที่บนใบเรียกเก็บซึ่งไม่เกี่ยวกับอัตราห้อง: RM10 ครั้งเดียวต่อคืน ต่อห้อง นั่นคือภาษีการท่องเที่ยว — และคุณค้างชำระมันหรือไม่ขึ้นอยู่กับคำถามเดียวที่พนักงานต้อนรับไม่สามารถยกเว้นได้: คุณถือหนังสือเดินทางใด?

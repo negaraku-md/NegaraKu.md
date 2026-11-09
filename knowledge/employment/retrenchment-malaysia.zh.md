@@ -122,6 +122,7 @@ relations:
   - { rel: "requires", to: "termination-benefits-malaysia" }
 related: ["termination-of-employment-malaysia", "termination-benefits-malaysia", "unfair-dismissal-malaysia", "offboarding-statutory-checklist"]
 keywords: ["retrenchment malaysia", "form pk malaysia", "borang pk", "redundancy malaysia procedure", "retrenchment notification 30 days", "VSS malaysia", "LIFO retrenchment malaysia"]
+framework: rules
 ---
 
 搜寻 Form PK 的期限，你会在数十个马来西亚人力资源网页上看到「30 天」被反复引用，

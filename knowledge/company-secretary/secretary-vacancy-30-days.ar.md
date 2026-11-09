@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "appoint-company-secretary" }
 related: ["secretary-resignation", "appoint-company-secretary", "changing-company-secretary"]
 keywords: ["شغور سكرتير الشركة 30 يوماً", "company secretary vacancy 30 days", "القسم 240 قانون الشركات 2016", "section 240 Companies Act 2016", "منصب السكرتير شاغر ماليزيا", "عقوبة عدم وجود سكرتير شركة ماليزيا", "section 235 Companies Act 2016"]
+framework: rules
 ---
 
 يكتشف معظم مديري شركات Sdn Bhd هذه القاعدة بالطريقة نفسها التي تكتشف بها بطارية

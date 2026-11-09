@@ -100,6 +100,7 @@ verificationNeeded:
   - "Các phương pháp lên men kasam riêng của người Iban (thời gian lên men, việc dùng gạo và lá kepayang, và kasam khác với pekasam ở bán đảo hay balur ở Sarawak như thế nào)——các nguồn hiện có mô tả tập quán chung của Sarawak và người Mã Lai hơn là kỹ thuật Iban được ghi chép; hãy xác nhận bằng một nguồn di sản ẩm thực hoặc học thuật."
   - "Liệu dương xỉ midin (Stenochlaena palustris) có thực sự chỉ có ở Sarawak hay không. Tư liệu du lịch Sarawak gọi nó là độc nhất của bang, nhưng các nguồn nông sản và thực vật học mô tả loài dương xỉ này phân bố rộng hơn ở các vùng đầm lầy nhiệt đới——hãy xác nhận bằng một nguồn thực vật học."
   - "Vai trò nghi lễ và tôn giáo chính xác của tuak trong Gawai Dayak (lễ vật dâng thần lúa hay Petara, và việc theo tục lệ mời khách). Các mô tả đại chúng và báo chí khác nhau về chi tiết, và một số mô tả tập quán đang thay đổi hoặc bị thương mại hóa——hãy xác nhận bằng một nguồn nhân học hoặc cộng đồng."
+framework: history-culture
 ---
 
 Bước vào một gian bếp nhà dài của người Iban ở vùng nội địa Sarawak, và cái kho thực phẩm phần lớn

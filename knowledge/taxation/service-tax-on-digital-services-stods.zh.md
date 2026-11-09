@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["service-tax-act-2018", "withholding-tax-digital-services", "low-value-goods-sales-tax", "sst-registration"]
 keywords: ["service tax on digital services", "SToDS Malaysia", "digital service tax Malaysia 8%", "foreign registered person FRP", "MySToDS DST-01 DST-02", "cukai perkhidmatan digital", "foreign SaaS tax Malaysia", "online services service tax"]
+framework: explainer
 ---
 
 你Netflix收据上的那一行费用、你公司AWS发票上的那笔税、Canva或Adobe订阅上多出来的几令吉——那正是马来西亚一项特定税种在起作用，而它有一个大多数人从未听过的名字：SToDS。

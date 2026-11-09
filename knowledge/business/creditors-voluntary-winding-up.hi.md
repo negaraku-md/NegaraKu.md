@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "corporate-rescue-malaysia" }
 related: ["close-a-company", "members-voluntary-winding-up", "strike-off-company-malaysia", "corporate-rescue-malaysia", "company-director-requirements"]
 keywords: ["creditors voluntary winding up malaysia", "insolvent sdn bhd", "section 539 companies act 2016", "wrongful trading malaysia", "undue preference section 528", "penggulungan sukarela pemiutang"]
+framework: how-to
 ---
 
 जिस क्षण कोई बोर्ड यह समझता है कि कंपनी अपने ऋण नहीं चुका सकती, कानूनी प्रश्न «इसे बंद कैसे करें»

@@ -65,6 +65,7 @@ sources:
 
 related: ["anwar-ibrahim", "ismail-sabri-yaakob", "muhyiddin-yassin", "prime-ministers-of-malaysia", "how-elections-work"]
 keywords: ["GE15", "2022 马来西亚大选", "悬峙国会", "团结政府", "Undi18"]
+framework: history-culture
 ---
 
 > **草稿——敏感。** 本文为中立、仍在撰写中的摘要，尚未经审阅以供发布。它涉及一场

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
 related: []
 keywords: ["keterjaminan makanan", "tahap sara diri", "SSL", "SSR", "Dasar Agromakanan Negara", "DAN 2.0", "food security Malaysia", "beras"]
+framework: explainer
 ---
 
 2024 வேளாண்மை மக்கள்தொகைக் கணக்கெடுப்பின் (Banci Pertanian 2024) படி, மலேசியாவில் பயன்படுத்தப்படும் ஒவ்வொரு ஒரு கிலோகிராம் அரிசியிலும் சுமார் 400 கிராம் இறக்குமதி செய்யப்பட்ட அரிசியாகும். இந்த எண் நாட்டின் உணவுப் பாதுகாப்புச் சவாலைச் சுருக்கமாகக் கூறுகிறது: தனது முதன்மை உணவுப் பொருளின் பெரும் பகுதியை இன்னும் இறக்குமதி செய்யும் ஒரு வேளாண் நாடு.

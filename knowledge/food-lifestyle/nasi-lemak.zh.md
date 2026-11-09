@@ -97,6 +97,7 @@ verificationNeeded:
   - "关于这道菜最早的文字记载——Pierre-Étienne-Lazare Favre 于1875年的法语–马来语词典，以及 Richard Olaf Winstedt 的 The Circumstances of Malay Life（1909，p. 62）。这些是透过 Wikipedia 引用的；其确切的原始措辞（以及『nasi lemak』一词本身是否出现，抑或只是对以椰浆煮饭的描述）应对照一手文本加以确认。"
   - "关于椰浆饭、roti canai 和拉茶于2022年依据 National Heritage Act 2005 被宪报颁布为国家遗产的具体说法——请向马来西亚国家文物局（Jabatan Warisan Negara）确认确切的宪报与年份。"
   - "马六甲女孩『Seri』／『Nasi le, mak』的起源故事属民间传说，而非有记载的历史，应仅作为传说呈现。"
+framework: explainer
 ---
 
 太阳还未完全升起，香味就先一步飘到街上：椰浆香浓的米饭、烘香的花生、在油里煎得酥脆的

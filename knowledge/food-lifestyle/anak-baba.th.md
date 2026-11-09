@@ -70,6 +70,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["AnakBaba", "Peranakan", "BibGourmand", "MichelinGuideMalaysia", "Brickfields"]
+framework: profile
 ---
 
 Anak Baba เป็นร้านอาหารเปอรานากัน (Peranakan) ย่าน Brickfields — Little India ของกรุงกัวลาลัมเปอร์ — ที่ปรากฏใน [MICHELIN Guide Malaysia](/th/food-lifestyle/michelin-guide-malaysia) พร้อม Bib Gourmand MICHELIN Guide เรียกร้านนี้ว่า "อัญมณีชิ้นเล็กอันอบอุ่น"

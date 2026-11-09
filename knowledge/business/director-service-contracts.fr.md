@@ -76,6 +76,7 @@ keywords:
   - "is a director an employee Malaysia"
   - "directors fees approval Sdn Bhd"
   - "compensation for loss of office section 227"
+framework: explainer
 ---
 
 Demandez à une société malaisienne le contrat de travail de son administrateur exécutif et on

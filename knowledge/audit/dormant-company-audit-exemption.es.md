@@ -56,6 +56,7 @@ relations:
   - { rel: "part-of", to: "audit-exemption" }
 related: ["audit-exemption", "audit-exemption-thresholds", "after-audit-exemption"]
 keywords: ["exención de auditoría sociedad inactiva Malasia", "sociedad inactiva SSM", "qué rompe la inactividad", "dormant company audit exemption Malaysia", "what breaks dormancy", "dormant since incorporation"]
+framework: rules
 ---
 
 Una sociedad de estantería que posee un nombre y nada más no necesita superar la prueba

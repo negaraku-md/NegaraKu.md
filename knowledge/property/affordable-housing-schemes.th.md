@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "home-loan-financing" }
 related: []
 keywords: ["rumah mampu milik", "PR1MA", "Residensi Wilayah", "RUMAWIP", "Rumah Mesra Rakyat", "PPR", "Rumah Selangorku", "Residensi MADANI", "rumah mampu milik Malaysia"]
+framework: decision
 ---
 
 เงินเดือนของคุณ RM4,000 ต่อเดือน และราคาบ้านทาวน์เฮาส์ในเมืองก็พุ่งถึงครึ่งล้านริงกิตแล้ว คุณควรเริ่มมองหาที่ไหน? คำตอบไม่ใช่โครงการเดียว แต่เป็นเมนูของโครงการรัฐบาลที่แต่ละโครงการมุ่งเป้าไปที่ช่วงรายได้ที่แตกต่างกัน การเลือกผิดหมายถึงการเสียเวลาหลายเดือนรอการจับสลากสำหรับบ้านที่คุณไม่มีคุณสมบัติอยู่แล้ว

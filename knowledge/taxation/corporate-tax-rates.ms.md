@@ -111,6 +111,7 @@ relations:
   - { rel: "related-to", to: "losses-and-group-relief" }
 related: ["income-tax-in-malaysia", "form-c-and-cp204", "company-tax-residence", "losses-and-group-relief"]
 keywords: ["kadar cukai syarikat Malaysia", "kadar cukai SME Malaysia", "kadar cukai syarikat", "cukai syarikat 2026", "cukai pendapatan syarikat"]
+framework: rules
 ---
 
 Kebanyakan panduan memberitahu anda kadar SME bermula pada 15% dan berhenti di

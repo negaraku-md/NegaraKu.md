@@ -56,6 +56,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["langkasuka", "srivijaya"]
 keywords: ["Gangga Negara", "Beruas", "kerajaan Melayu awal", "sejarah Perak", "Chola", "Rajendra Chola I", "Hikayat Merong Mahawangsa", "Muzium Beruas"]
+framework: explainer
 ---
 
 நீங்கள் இணையத்தில் “Gangga Negara” என்று தேடினால், தெளிவான ஒரு சித்திரத்தைக் காண்பீர்கள்: Sungai Perak ஆற்றின் கரையில் அமைந்த ஒரு பொற்கால அரசு, கிபி இரண்டாம் நூற்றாண்டில் நிறுவப்பட்டு, 1025 ஆம் ஆண்டில் இந்தியாவிலிருந்து வந்த சோழர் (Chola) படையால் அழிக்கப்பட்டது. இத்தனை துல்லியமான தேதி என்பது, எங்காவது ஒரு சமகால எழுத்துப் பதிவு — ஒரு கல்வெட்டு, ஒரு அரச ஆவணத் துண்டு — இருக்க வேண்டும் என்பதைக் குறிக்க வேண்டும். சிக்கல் என்னவென்றால்: அந்த வீழ்ச்சியுடன் எப்போதும் தொடர்புபடுத்தப்படும் கல்வெட்டு — Rajendra Chola I-க்கு சொந்தமான Thanjavur கல்வெட்டு — வரிக்கு வரி சரிபார்க்கப்படும்போது, “Gangga Negara” என்ற பெயரே அதில் இல்லவே இல்லை.

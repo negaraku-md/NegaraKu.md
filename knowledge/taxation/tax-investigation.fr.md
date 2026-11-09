@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "income-tax" }
 related: ["tax-audit"]
 keywords: ["siasatan cukai", "tax investigation", "enquête fiscale Malaisie", "LHDN", "Seksyen 114", "Section 114", "pengelakan cukai", "évasion fiscale", "rangka kerja siasatan cukai", "audit cukai"]
+framework: explainer
 ---
 
 Lorsque la lettre du LHDN qui arrive ne demande plus de pièces justificatives mais vous informe au contraire que vos locaux seront examinés, vous avez peut-être déjà franchi la ligne entre un contrôle et une enquête. Les deux font intervenir la Direction générale des impôts (LHDN), mais une seule d'entre elles peut conduire à des poursuites devant une juridiction pénale.

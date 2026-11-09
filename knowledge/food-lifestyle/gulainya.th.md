@@ -66,6 +66,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["Gulainya", "Peranakan", "BibGourmand", "MichelinGuideMalaysia", "KualaLumpur"]
+framework: profile
 ---
 
 Gulainya เป็นร้านอาหาร Peranakan ใน Bukit Damansara กรุงกัวลาลัมเปอร์ ที่ปรากฏ

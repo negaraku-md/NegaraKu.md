@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "income-tax" }
 related: ["tax-audit"]
 keywords: ["siasatan cukai", "tax investigation", "LHDN", "Seksyen 114", "pengelakan cukai", "rangka kerja siasatan cukai", "audit cukai"]
+framework: explainer
 ---
 
 When the LHDN letter that arrives no longer asks for supporting documents but instead informs you that your premises will be examined, you may already have crossed the line between an audit and an investigation. Both involve the Inland Revenue Board (LHDN), but only one of them can lead to prosecution in a criminal court.

@@ -108,6 +108,7 @@ relations:
   - { rel: "compares-with", to: "epf-employer-guide" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "pcb-mtd-malaysia"]
 keywords: ["SOCSO contribution rate Malaysia", "EIS rate employer", "PERKESO wage ceiling RM6000", "SOCSO Category 1 Category 2", "LINDUNG 24 Jam SKBBK"]
+framework: rules
 ---
 
 SOCSO 요율을 확인하기 전에, 그 요율이 적용되는 상한부터 확인하십시오. 대부분의 말레이시아 급여(payroll) 관련 자료가 실패하는 지점이 바로 이곳이며, 그것도 소리 없이 실패합니다. 오래된 상한에 정확한 퍼센트를 적용하면 그럴듯해 보이지만 실제로는 너무 작은 금액이 나옵니다.

@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["ApamBalik", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 MICHELIN recognition in Penang tends to cluster in George Town, but one of the

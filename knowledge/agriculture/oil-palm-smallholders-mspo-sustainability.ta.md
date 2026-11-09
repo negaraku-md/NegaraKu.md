@@ -81,6 +81,7 @@ relations:
   - { rel: "affects", to: "deforestation-and-forest-loss-in-malaysia" }
 related: ["palm-oil-sustainability-mspo-and-deforestation", "palm-oil-industry", "palm-oil-sustainability-certification", "deforestation-and-forest-loss-in-malaysia"]
 keywords: ["oil palm smallholders", "MSPO certification", "independent smallholders", "MS 2530:2022", "EUDR palm oil", "sustainable palm oil Malaysia"]
+framework: explainer
 ---
 
 பிந்துலுவில் (Bintulu) ஒரு விவசாயி தனது எண்ணெய்ப் பனைத் தோட்டத்தின் ஒவ்வொரு எல்லையையும் நினைவிலிருந்தே நடந்து காட்ட முடியும்; ஆனால் இப்போது ஐரோப்பாவில் ஒரு வாங்குபவர் அவரது பழத்தைத் தொடுவதற்கு முன், அந்த "மனவரைபடங்களை" GPS பலகோணங்களாக (polygons) மாற்ற வேண்டியுள்ளது. உங்கள் நிலத்தை அறிந்திருப்பதற்கும், ஒரு தணிக்கையாளர் திருப்திப்படும் அளவுக்கு அதை ஆவணப்படுத்துவதற்கும் இடையிலான அந்த இடைவெளிதான் — மலேசியாவின் சிறுவிவசாயி பனையெண்ணெய் பொருளாதாரத்தின் பின்னணியில் உள்ள அமைதியான கதை.

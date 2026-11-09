@@ -118,6 +118,7 @@ relations:
   - { rel: "related-to", to: "visiting-sabah-and-sarawak" }
 related: []
 keywords: ["getting around Malaysia", "KLIA Ekspres", "KTM ETS train", "domestic flights Malaysia", "AirBorneo", "Grab Malaysia", "Malaysia ferry", "driving in Malaysia", "Touch n Go"]
+framework: explainer
 ---
 
 Anda mendarat di Lapangan Terbang Antarabangsa Kuala Lumpur pada tengah malam, keletihan akibat jet lag, dan calo teksi sudah mula berlegar. Berita baiknya: Malaysia mempunyai salah satu sistem pengangkutan paling mesra pelancong di Asia Tenggara, dan anda boleh mengelakkan kerumitan sepenuhnya — kereta api lapangan terbang yang pantas dan berharga tetap, aplikasi telefon yang memanggil kereta bermeter, dan penerbangan domestik murah yang menjadikan Borneo hanya lompatan hujung minggu. Rahsianya adalah mengetahui mod mana yang perlu dipilih, dan bila.

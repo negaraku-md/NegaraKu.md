@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "consumer-protection-act" }
 related: ["sedition-act", "consumer-protection-act"]
 keywords: ["penapisan filem", "Lembaga Penapisan Filem", "LPF", "klasifikasi filem", "P12", "P13", "Akta Penapisan Filem 2002", "lesen hiburan", "karaoke", "pawagam", "DBKL", "pihak berkuasa tempatan"]
+framework: explainer
 ---
 
 A film that goes viral on YouTube may never pass through the Film Censorship Board — but the same film, if it is to be screened in a cinema, must first obtain its stamp of approval. That difference is not an accidental loophole; it is built into the way Malaysian law controls what the public may see.

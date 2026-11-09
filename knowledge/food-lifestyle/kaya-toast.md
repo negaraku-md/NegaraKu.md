@@ -90,6 +90,7 @@ verificationNeeded:
   - "Whether Malaysian kopitiams typically season the half-boiled eggs with dark soy sauce or light soy sauce — reputable sources disagree (most describe dark soy with white pepper; some describe light soy), and practice may vary by shop and region."
   - "The precise origin of kaya — the Malay serikaya tradition, a Portuguese sericaia influence, and transmission to Hainanese cooks are all cited by different food historians; treat the origin as debated rather than settled."
   - "The exact period Hainanese coffeeshops became established in Malaya specifically — the commonly cited 1920s–1950s window and the Nanyang-breakfast account come largely from Singapore-centred heritage sources."
+framework: history-culture
 ---
 
 Across Malaysia, the day often starts the same way: a marble-topped table, a cup of

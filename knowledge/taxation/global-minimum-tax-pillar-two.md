@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "cbcr-and-master-file" }
 related: ["corporate-tax-rates"]
 keywords: ["global minimum tax Malaysia", "domestic top-up tax", "multinational top-up tax", "Pillar Two Malaysia", "QDMTT Malaysia", "GloBE Malaysia", "cukai minimum global"]
+framework: rules
 ---
 
 Almost everything written about Pillar Two is written for the ultimate parent

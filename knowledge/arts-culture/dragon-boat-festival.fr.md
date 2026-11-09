@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "winter-solstice-festival"]
 keywords: ["端午节", "端阳节", "五月节", "粽子", "bak chang", "娘惹粽", "咸肉粽", "碱水粽", "龙舟", "赛龙舟", "屈原", "艾草", "菖蒲", "立蛋", "直落巴巷水坝", "马来西亚华人", "Dragon Boat Festival Malaysia", "Duanwu"]
+framework: history-culture
 ---
 
 À l'approche du cinquième jour du cinquième mois lunaire, l'arôme des feuilles de bambou et du riz gluant s'élève des cuisines des familles chinoises. Les maîtresses de maison garnissent, couche après couche, des feuilles pliées en entonnoir de riz gluant trempé et de garniture sautée et parfumée, puis les ficellent bien serré avec de la cordelette de jonc et les descendent dans la marmite, chapelet après chapelet, pour une longue cuisson. Au même moment, au barrage de Teluk Bahang, à la pointe nord-ouest de l'île de Penang, de minces bateaux-dragons fendent la surface de l'eau ; un tambour, debout à la proue, bat la mesure, et des dizaines de rameurs rament à l'unisson au rythme du tambour — ce sont là les deux visages de la fête des bateaux-dragons en Malaisie : d'un côté le parfum des zongzi dans la cuisine, de l'autre la course sur l'eau.

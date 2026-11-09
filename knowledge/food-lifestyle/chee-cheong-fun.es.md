@@ -91,6 +91,7 @@ verificationNeeded:
   - "La afirmación de que el chee cheong fun fue llevado a Malaya por inmigrantes de Cantón del siglo XIX —— los medios gastronómicos la repiten pero no dan una fecha firme ni un registro primario. Confírmese con una fuente de historia de la migración o culinaria."
   - "La división regional entre las versiones 'seca' (salsa roja dulce) y 'húmeda' (salsa de curry o de champiñón) de Ipoh, y si la salsa de champiñón es una seña específica de Ipoh o compartida con Kuala Lumpur. Confírmese con una fuente de Perak o local."
   - "Si la combinación con yong tau foo de Kuala Lumpur usa por defecto una salsa a base de alubia dulce, frente al curry o la soja —— las fuentes describen varios aderezos y la práctica local varía según el puesto."
+framework: explainer
 ---
 
 Pide "chee cheong fun" en George Town y obtendrás rollos frescos y sedosos de fideo

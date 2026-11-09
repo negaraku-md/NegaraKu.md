@@ -99,6 +99,7 @@ social:
     - "Mamak"
     - "MalaysianFood"
     - "NegaraKuMD"
+framework: explainer
 ---
 
 熱い鋼鉄の鉄板に生地を打ちつけ、ひらひらと返す音ほど、マレーシアの朝にふさわしい音は少ない。料理

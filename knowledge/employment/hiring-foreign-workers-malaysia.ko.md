@@ -145,6 +145,7 @@ relations:
   - { rel: "compares-with", to: "employment-pass-malaysia" }
 related: ["labour-law-map-malaysia", "worker-accommodation-act-446", "employment-pass-malaysia"]
 keywords: ["hiring foreign workers malaysia", "section 60k", "plks", "eppax", "fwcms", "fomema", "visa dengan rujukan", "foreign worker quota malaysia"]
+framework: how-to
 ---
 
 말레이시아에서 외국인 근로자 채용에 관한 거의 모든 안내는 쿼터에서 시작합니다. 쿼터는 세 번째

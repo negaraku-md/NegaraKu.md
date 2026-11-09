@@ -87,6 +87,7 @@ keywords:
   - "take-over code Malaysia"
   - "merger dan akuisisi usaha"
   - "due diligence perusahaan"
+framework: decision
 ---
 
 Kebanyakan orang membayangkan merger atau akuisisi sebagai satu penandatanganan yang dramatis. Dalam praktiknya, transaksi di Malaysia adalah rangkaian keputusan-keputusan yang lebih kecil, dan keputusan pertama — *bagaimana* Anda membeli, bukan apakah Anda membeli — secara diam-diam membentuk segala sesuatu yang mengikutinya: tagihan pajak Anda, kewajiban yang Anda warisi, persetujuan yang Anda perlukan, dan berapa besar pada akhirnya para pengacara menagih. Dapatkan strukturnya dengan benar dan uji tuntas menjadi sekadar latihan penilaian harga; salah menetapkannya dan Anda bisa membeli sebuah gugatan, sebuah kewajiban pajak, atau sebuah lisensi yang sebenarnya tidak pernah berhak Anda pegang. Panduan ini menelusuri keseluruhan jalur, dari memilih antara penjualan saham dan penjualan aset hingga titik-titik sentuh regulasi yang menentukan apakah suatu transaksi dapat ditutup dengan bersih.

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "payment-regulation-malaysia" }
 related: ["bank-negara-malaysia", "payment-regulation-malaysia"]
 keywords: ["DuitNow", "DuitNow QR", "PayNet", "الدفع الفوري ماليزيا", "رمز QR ماليزيا", "kod QR Malaysia", "تحويل الأموال برقم الهاتف", "بنك نيغارا ماليزيا الدفع الرقمي", "Bank Negara Malaysia pembayaran digital"]
+framework: explainer
 ---
 
 يعرض صاحب كشك في سوق ليلي رمز استجابة سريعة واحدًا. يمسحه عميل يستخدم تطبيق

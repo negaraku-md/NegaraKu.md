@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "mfrs-vs-mpers" }
 related: ["mfrs-vs-mpers"]
 keywords: ["MFRS 18 Malasia", "MFRS 18 fecha de vigencia", "subtotal resultado de operación MFRS 18", "medidas de rendimiento definidas por la gerencia", "MFRS 18 cinco categorías", "MFRS 101 sustituida", "MFRS 18"]
+framework: explainer
 ---
 
 Cada alerta escrita sobre la MFRS 18 hasta ahora ha ido dirigida al director

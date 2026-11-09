@@ -80,6 +80,7 @@ faq:
     a: No — clearing the price floor only gets a buyer to the point of applying. A second, separate gate is written consent from the State Authority under section 433B of the National Land Code, required for every foreign acquisition regardless of price. Consent is discretionary, not automatic, and can be declined. Under section 433C, any dealing completed without that written approval is null and void.
   - q: Can a foreigner buy any property in Malaysia if the offer is high enough?
     a: 'No. Some property is excluded outright regardless of price: Malay Reserved Land (where a transfer to a non-Malay is void under the Malay Reservation Enactments), land categorised for agriculture, and Bumiputera-quota or low-cost and affordable housing units. These sit outside the price-and-consent framework entirely, so paying above a state''s minimum changes nothing. Sabah and Sarawak also run their own separate land laws outside the National Land Code.'
+framework: rules
 ---
 
 A buyer from Hong Kong agrees to pay RM1.8 million for a semi-detached house in Petaling Jaya. The financing is arranged, the seller is willing, the price clears every threshold anyone quoted online. The deal still cannot complete until a state government office in Shah Alam decides — at its own discretion — whether to let a foreigner hold that title at all.

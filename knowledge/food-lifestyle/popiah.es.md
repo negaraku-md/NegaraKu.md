@@ -93,6 +93,7 @@ verificationNeeded:
   - "La etimología del nombre (薄餅 / 'poh piah'), glosado como 'torta fina', 'oblea fina' o 'pan plano fino': verifícala con una fuente lexicográfica o lingüística."
   - "Si el popiah nyonya (peranakan) se describe mejor como una tradición regional singular o como el mismo plato hokkien adoptado por las familias chinas de los Estrechos: las fuentes actuales lo llaman 'herencia peranakan' sin zanjar el punto."
   - "Las diferencias estilísticas entre Penang y Melaka descritas aquí (un rollo de Penang más húmedo, humedecido con el líquido del sengkuang; un rollo de Melaka rematado con una salsa dulce con dejo de azúcar de palma) se apoyan en buena medida en la prensa local y los blogs gastronómicos: verifícalas con una fuente culinaria patrimonial o regional."
+framework: explainer
 ---
 
 Pide un rollito de primavera en Malasia y puede que te den una de dos cosas muy distintas.

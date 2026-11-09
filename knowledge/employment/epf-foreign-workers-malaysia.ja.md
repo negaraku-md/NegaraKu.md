@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "payroll-compliance-malaysia" }
 related: ["epf-employer-guide", "payroll-compliance-malaysia", "socso-eis-employer-guide"]
 keywords: ["EPF foreign worker Malaysia", "EPF non-citizen 2 percent", "KWSP pekerja asing caruman", "Third Schedule Part F", "EPF expatriate contribution"]
+framework: rules
 ---
 
 27年間、外国人労働者にとっての従業員積立基金（KWSP）は、使用者がおおむね無視して

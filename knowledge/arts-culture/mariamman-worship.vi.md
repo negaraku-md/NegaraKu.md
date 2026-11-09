@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["hinduism-in-malaysia", "thaipusam", "deepavali", "estate-tamil-community", "pongal", "tamil-in-malaysia"]
 keywords: ["மாரியம்மன் வழிபாடு", "மாரியம்மன்", "அம்மன் வழிபாடு", "Mariamman worship", "Mariamman Malaysia", "ஸ்ரீ மகாமாரியம்மன் கோயில்", "தீமிதி"]
+framework: history-culture
 ---
 
 Gần như bên cạnh bất kỳ đồn điền cao su cũ nào ở Malaysia, và dọc theo những con phố cổ kính ở trung tâm các thị trấn, bạn đều có thể tìm thấy một ngôi đền Mariamman. Tượng Amman với khuôn mặt màu vàng đất son, và các lễ hội được tổ chức trước mùa mưa, không phải là ngẫu nhiên — chúng mang theo hơn một thế kỷ rưỡi lịch sử và truyền thống tín ngưỡng của một cộng đồng Tamil.

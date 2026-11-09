@@ -96,6 +96,7 @@ verificationNeeded:
   - "L'attribution peranakan (nyonya) du bubur cha cha et le sens de son nom : souvent répétés dans les médias gastronomiques mais peu documentés ; à confirmer auprès d'une source culinaire ou patrimoniale peranakan."
   - "Si des desserts précis présentés ici (p. ex. cendol, pulut hitam) portent des désignations formelles d'aliment du Patrimoine national malaisien, et leurs dates : à confirmer auprès du Département du patrimoine national (Jabatan Warisan Negara) plutôt qu'auprès des médias gastronomiques."
   - "Les détails d'ingrédients et de préparation (p. ex. les amidons exacts utilisés dans la gelée du cendol, ou le fait que le tau fu fah soit pris au gypse ou à la glucono-delta-lactone) varient selon la recette et la région ; traiter les descriptions données ici comme typiques plutôt que définitives."
+framework: explainer
 ---
 
 La cuisine salée de la Malaisie retient presque toute l'attention, mais le pays a

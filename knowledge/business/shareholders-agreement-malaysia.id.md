@@ -89,6 +89,7 @@ keywords:
   - "hak pemegang saham minoriti Malaysia"
   - "drag along tag along Sdn Bhd"
   - "perjanjian pemegang saham"
+framework: explainer
 ---
 
 Dua pendiri menandatangani perjanjian pemegang saham setebal dua puluh halaman. Ia

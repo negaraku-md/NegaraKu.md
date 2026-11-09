@@ -108,6 +108,7 @@ relations:
   - { rel: "governs", to: "personal-data-protection-act-2010" }
 related: ["pdpa-compliance-malaysia", "data-protection-officer-malaysia"]
 keywords: ["الإخطار بخرق البيانات في ماليزيا", "data breach notification malaysia", "72 ساعة PDPA", "المادة 12B PDPA", "الضرر الجسيم PDPA", "الإبلاغ عن خرق البيانات في ماليزيا"]
+framework: rules
 ---
 
 الـ 72 ساعة ليست في القانون.

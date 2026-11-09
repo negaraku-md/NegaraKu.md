@@ -79,6 +79,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaTax
     - MalaysiaCompanyLaw
+framework: explainer
 ---
 
 Một khi một doanh nghiệp sở hữu nhiều hơn một công ty — một nhánh thương mại và một nhánh bất động sản, hai thương hiệu, một công ty vận hành và các khoản đầu tư của gia đình — câu hỏi không còn là «làm sao tôi điều hành công ty của mình?» mà trở thành «làm sao tôi cấu trúc tập đoàn?» Một công ty holding đứng trên đỉnh, sở hữu những công ty khác, và nó có thể mang lại quyền sở hữu rõ ràng hơn, bảo vệ tài sản và một lối thoái vốn trơn tru hơn. Nó cũng mang lại báo cáo hợp nhất, chế độ thuế riêng của nó, và những khoản thuế bạn có thể không ngờ tới khi bạn dịch chuyển các mảnh ghép.

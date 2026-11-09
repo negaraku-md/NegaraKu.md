@@ -77,6 +77,7 @@ sources:
 relations: []
 related: ["company-secretary-malaysia", "audit-exemption-criteria"]
 keywords: ["choose company secretary Malaysia", "accounting firm Malaysia", "audit firm Malaysia", "tax agent Malaysia", "corporate services firm Malaysia", "Big Four Malaysia", "MIA licensed firm", "SSM company secretary licence", "how to choose accountant Malaysia", "company secretary firm vs individual"]
+framework: decision
 ---
 
 모든 말레이시아 회사는 조직도에는 결코 등장하지 않는 소수의 전문가 집단에 기댑니다: 회사를 합법적으로 유지하는 회사 비서, 장부를 관리하는 회계사, 숫자를 승인하는 감사인, 그리고 LHDN에 신고하는 세무 대리인입니다. 이들을 잘 고르면 돈과 잠 못 이루는 밤을 아낄 수 있습니다. 그러나 "말레이시아 최고의 회사 비서"를 검색하면 당신이 찾는 거의 모든 안내는 그 서비스를 파는 법인이 작성한 것입니다. 이 글은 그렇지 않습니다.

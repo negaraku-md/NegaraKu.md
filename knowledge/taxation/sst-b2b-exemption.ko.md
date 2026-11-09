@@ -66,6 +66,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-expansion-2025", "sst-registration", "sst-02-filing"]
 keywords: ["SST B2B exemption", "service tax B2B Malaysia", "business to business exemption service tax", "same taxable service exemption"]
+framework: rules
 ---
 
 B2B 면제는 거의 매번 같은 조건에서 실패합니다. 취득한 서비스가 취득자가 이후

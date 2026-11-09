@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-contract-malaysia", "unfair-dismissal-malaysia", "termination-benefits-malaysia", "employee-vs-contractor-malaysia"]
 keywords: ["fixed term contract malaysia", "contract renewal malaysia employment", "non renewal dismissal malaysia", "project contract employee malaysia", "temporary contract malaysia law"]
+framework: explainer
 ---
 
 固定期限合约在马来西亚市场上被当作一件保险工具兜售：聘一年，年底再决定，走人时既

@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "e-hailing-grab" }
 related: []
 keywords: ["walkability Malaysia", "cycling Malaysia cities", "pedestrian infrastructure Malaysia", "KL Pedestrian and Cycling Masterplan", "car dependency Malaysia", "active mobility Malaysia"]
+framework: explainer
 ---
 
 Melangkah keluar dari sebuah stesen LRT Lembah Klang pada jam 1 tengah hari

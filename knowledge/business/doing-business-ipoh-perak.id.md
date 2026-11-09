@@ -98,6 +98,7 @@ keywords:
   - "harga tanah perindustrian Perak"
   - "KDNK Perak"
   - "kos berniaga di Ipoh"
+framework: profile
 ---
 
 Halaman ini sengaja dibuat pendek. Rezim hukum Perak sama seperti Selangor, dewan-dewannya menerbitkan sedikit informasi, dan cerita sebenarnya Perak muat dalam delapan ratus kata dibandingkan dua ribu. Apa yang benar-benar lokal adalah struktur biaya — dan berapa biaya itu bagi Anda.

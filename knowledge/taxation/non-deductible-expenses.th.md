@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "entertainment-expenses" }
 related: ["section-33-deductibility", "labuan-tax-regime", "withholding-tax-non-compliance", "withholding-tax-rates"]
 keywords: ["section 39 income tax act 1967", "non deductible expenses malaysia", "disallowed expenses tax computation", "39(1)(j) withholding tax", "39(1)(r) labuan", "add back tax computation malaysia"]
+framework: rules
 ---
 
 ตารางบวกกลับ (add-back schedule) ส่วนใหญ่สร้างขึ้นจากความเคยชิน ค่าเสื่อมราคา ค่ารับรอง ค่าปรับ เงินบริจาค — หกบรรทัดเดิมทุกปี คัดลอกต่อ ๆ กันมา แท้จริงแล้วมาตรา 39(1) มีข้อห้ามที่ยังมีผลอยู่สิบแปดข้อ และข้อที่ทำให้เสียเงินมากที่สุดกลับไม่อยู่ในรายการที่ใครเคยชิน

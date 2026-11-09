@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "dta-network" }
 related: ["company-tax-residence", "dta-network", "withholding-tax-rates"]
 keywords: ["certificate of residence Malaysia", "e-Residence LHDN", "sijil taraf mastautin", "COR Malaysia tax", "Form STM1"]
+framework: how-to
 ---
 
 இந்தச் சான்றிதழ், நீங்கள் மலேசியர் என்பதற்கான சான்று அல்ல. ஒரு குறிப்பிட்ட

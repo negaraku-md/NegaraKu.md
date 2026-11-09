@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#FoongLian", "#ClaypotRice", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Di Jalan Yew di Pudu, sebaris periuk tanah duduk di atas bara arang yang membara,

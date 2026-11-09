@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "dewan-negara" }
 related: ["federal-state-division", "state-assemblies-dun", "three-tiers-of-government", "dewan-rakyat", "dewan-negara"]
 keywords: ["Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "tiada Dewan Undangan Negeri", "Datuk Bandar dilantik", "DBKL Perbadanan Putrajaya Perbadanan Labuan", "Jabatan Wilayah Persekutuan", "Perkara 1 Perlembagaan Persekutuan", "pentadbiran wilayah persekutuan", "Federal Territory Malaysia governance"]
+framework: explainer
 ---
 
 Di sebuah negeri, ada Sultan atau Yang di-Pertua Negeri, ada Menteri Besar atau Ketua Menteri, dan ada Dewan Undangan Negeri yang dipilih rakyat. Di Kuala Lumpur, Putrajaya dan Labuan, tiada satu pun daripada itu. Ketiga-tiga tempat ini bukan negeri — ia Wilayah Persekutuan, dan ia ditadbir terus oleh Kerajaan Persekutuan.

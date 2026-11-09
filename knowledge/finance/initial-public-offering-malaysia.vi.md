@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "investing-in-bursa" }
 related: ["securities-commission-malaysia"]
 keywords: ["IPO malaysia", "list on bursa malaysia", "bursa listing requirements", "main market ace market leap market", "how to go public malaysia", "listing criteria bursa", "bumiputera equity requirement IPO"]
+framework: explainer
 ---
 
 Đưa một công ty ra công chúng là một trong những quyết định tài trợ lớn nhất mà các chủ sở hữu của nó từng đưa ra — nó huy động vốn vĩnh viễn, đặt một giá thị trường lên doanh nghiệp, và trao cho các cổ đông một lối ra. Nó cũng đặt công ty dưới một mức độ giám sát và chi phí khiến nhiều nhà sáng lập bất ngờ. Tại Malaysia, một đợt phát hành cổ phiếu lần đầu ra công chúng (IPO) nghĩa là niêm yết trên Bursa Malaysia, và con đường bạn đi phụ thuộc hoàn toàn vào việc công ty của bạn lớn thế nào và đã được kiểm chứng ra sao.

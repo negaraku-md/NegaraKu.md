@@ -95,6 +95,7 @@ verificationNeeded:
   - "El origen del tono rojizo del char siu——los relatos lo atribuyen diversamente al marinado y la caramelización, al tofu rojo fermentado, o a un colorante alimentario añadido——conviene confirmarlo con una fuente fiable de ciencia de los alimentos o de cocina."
   - "La caracterización en los medios gastronómicos de un char siu 'estilo KL' propio (más graso, más chamuscado, a veces hecho con panceta) frente a otros estilos regionales——conviene confirmarlo con una fuente culinaria especializada, pues procede de reseñas de restaurantes."
   - "Las romanizaciones y los caracteres cantoneses exactos de las carnes asadas tal como se usan en Malasia (siu ngap 燒鴨 pato asado, siu ngo 燒鵝 ganso asado, y grafías locales como 'siew yoke')——conviene confirmarlo con una fuente léxica cantonesa o en lengua local."
+framework: explainer
 ---
 
 Empuja el cristal de una tienda china de carnes asadas y su vitrina lo cuenta

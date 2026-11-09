@@ -145,6 +145,7 @@ entity: "Termination of employment"
 relations: []
 related: ["labour-law-map-malaysia", ]
 keywords: ["termination of employment malaysia", "notice period malaysia", "at will employment malaysia", "payment in lieu of notice", "just cause or excuse", "final salary after resignation malaysia", "section 12 employment act"]
+framework: rules
 ---
 
 Seorang majikan di Kuala Lumpur memutuskan pada hari Isnin bahawa seorang pengurus tidak sesuai untuk kekal. Peguam di tempat lain akan bertanya tentang klausa notis. Di Malaysia soalan pertama adalah berbeza, dan ia adalah soalan yang menentukan kes itu: **apakah sebabnya, dan bolehkah anda membuktikannya?**

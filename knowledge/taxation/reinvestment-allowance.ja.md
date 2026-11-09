@@ -84,6 +84,7 @@ relations:
   - { rel: "compares-with", to: "double-deduction-list" }
 related: ["double-deduction-list", "corporate-tax-rates", "losses-and-group-relief"]
 keywords: ["reinvestment allowance Malaysia", "Schedule 7A qualifying project", "RA 60% capital expenditure", "reinvestment allowance 15 years", "RA claim rejected audit"]
+framework: rules
 ---
 
 再投資控除（RA）が失敗するのは、最初から申請を拒否される場合よりも、監査の段階でつまずく場合の方がはるかに多く、しかもその理由がお金を使わなかったからであることはほとんどない。失敗するのは、会社が間違ったプロジェクトのために正しい資産を買ったからである。完成した箱をカートンに詰める機械は、実在する機械であり、実在する工場に実際に設置されている——それでも適格とはならない。鉛筆が箱に入った時点で、製造はすでに完了していたからである。

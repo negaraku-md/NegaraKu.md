@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "sector-licence-directory" }
 related: ["sector-licence-directory", "manufacturing-licence-malaysia"]
 keywords: ["رسوم مكافحة الإغراق ماليزيا", "الرسوم التعويضية ماليزيا", "Act 504", "العلاج التجاري MITI", "مكافحة إغراق الصلب ماليزيا", "رمز HS رسوم الاستيراد ماليزيا", "التماس العلاج التجاري ماليزيا", "anti-dumping duty malaysia", "countervailing duty malaysia", "miti trade remedies"]
+framework: how-to
 ---
 
 يُخلّص مستورد شحنة من لفائف الصلب المجلفن من فيتنام، ويدفع رسم الاستيراد العادي،

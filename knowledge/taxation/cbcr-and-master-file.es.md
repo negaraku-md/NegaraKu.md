@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "transfer-pricing-documentation" }
 related: ["transfer-pricing-documentation", "global-minimum-tax-pillar-two", "permanent-establishment"]
 keywords: ["CbCR Malasia", "informe país por país Malasia", "umbral CbCR RM3 mil millones", "archivo maestro Malasia precios de transferencia", "P.U.(A) 357/2016"]
+framework: rules
 ---
 
 El plazo que atrapa a los grupos no es el plazo de presentación. Es la

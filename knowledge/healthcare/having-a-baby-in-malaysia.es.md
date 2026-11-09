@@ -62,6 +62,7 @@ relations:
   - { rel: "explained-in", to: "registering-a-birth" }
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "registering-a-birth"]
 keywords: ["tener un bebé en Malasia", "embarazo Malasia", "atención prenatal Malasia", "Libro Rosa embarazo", "Rekod Kesihatan Ibu", "klinik kesihatan embarazada", "parto público vs privado Malasia", "registro de nacimiento JPN", "maternidad Malasia", "parto hospital público Malasia"]
+framework: explainer
 ---
 
 Una prueba de embarazo positiva pone en marcha dos relojes a la vez, y casi nadie lo explica de antemano. Un reloj tiene que ver con el embarazo en sí: cuándo registrarse, dónde, qué ocurre en cada visita. El otro solo arranca cuando llega el bebé, y no tiene nada que ver con los hospitales: es un registro legal ante un departamento completamente distinto.

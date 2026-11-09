@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-malaysia" }
 related: ["religion-statistics", "public-holidays-malaysia", "batik"]
 keywords: ["deepavali malaysia", "festival of lights malaysia", "hindu festival malaysia", "deepavali public holiday", "deepavali sarawak", "hari deepavali", "diwali malaysia"]
+framework: history-culture
 ---
 
 Untuk satu malam, pelitalah yang berbicara. Sederetan pelita tanah liat kecil disusun di sepanjang pintu masuk dan bibir tingkap, satu corak lantai daripada beras atau serbuk berwarna dilukis di ambang pintu, dan sebuah rumah yang gelap sejam sebelumnya kini bergaris cahaya api. Di situlah asal nama pesta ini: *Deepavali* berasal daripada perkataan Sanskrit bagi "sederetan atau rangkaian cahaya."

@@ -73,6 +73,7 @@ keywords:
   - "CDL lesen memandu kompeten"
   - "ujian JPJ KPP"
   - "sistem KEJARA mata demerit"
+framework: explainer
 ---
 
 பெரும்பாலான மக்கள் ‘ஓட்டுநர் உரிமம்’ என்பதை ஒரே ஆவணமாகக் கருதுகிறார்கள்.

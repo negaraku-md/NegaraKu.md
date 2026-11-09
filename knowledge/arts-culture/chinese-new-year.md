@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["population-composition", "religion-statistics", "languages-spoken", "batik"]
 keywords: ["农历新年", "华人新年", "春节", "团圆饭", "红包", "压岁钱", "舞狮", "捞生", "鱼生", "十五暝", "Chap Goh Meh", "开放门户", "马来西亚华人", "公共假期", "Chinese New Year Malaysia"]
+framework: history-culture
 ---
 
 除夕那一天，许多店铺提早打烊，高速公路挤满了往家乡方向的车。到了晚上，一家人围坐一桌——桌上有鱼（年年有余）、有一整只鸡、有寓意团圆的丸子，还有一道要用筷子高高捞起的凉拌鱼生。这顿除夕团圆饭，被不少马来西亚华人家庭看得比正月初一本身还重。

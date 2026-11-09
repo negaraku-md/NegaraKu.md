@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "labuan-company-formation" }
 related: []
 keywords: ["redomiciliation", "re-domiciliation", "continuance", "Labuan", "Labuan Companies Act 1990", "section 16", "foreign company", "domicile", "Companies Act 2016", "Labuan FSA"]
+framework: explainer
 ---
 
 வெளிநாட்டில் கலைக்கப்படாமல், மீண்டும் புதிதாகத் தொடங்காமல், மலேசிய நிறுவனமாக மாற விரும்பும் ஒரு நிறுவனத்துக்கு இந்த நாட்டுக்குள் நுழைய சரியாக ஒரே ஒரு கதவு மட்டுமே உள்ளது — அது தீபகற்பத்தை நோக்கித் திறக்கவில்லை.

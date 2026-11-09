@@ -65,6 +65,7 @@ sources:
 
 related: ["najib-razak", "anwar-ibrahim", "barisan-nasional", "2018-change-of-government", "how-elections-work"]
 keywords: ["GE13", "2013 general election Malaysia", "Barisan Nasional", "Pakatan Rakyat", "popular vote"]
+framework: history-culture
 ---
 
 > **வரைவு — உணர்திறன் வாய்ந்தது.** இக்கட்டுரை ஒரு நடுநிலையான, பணியில் உள்ள

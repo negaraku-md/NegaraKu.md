@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["pahang"]
 keywords: ["Cameron Highlands", "Tanah Rata", "Brinchang", "Ringlet", "BOH tea", "strawberry farm", "Orang Asli", "Semai", "hill station", "Pahang"]
+framework: profile
 ---
 
 タナ・ラタ（Tanah Rata）でバスを降りて真っ先に気づくのは、自分の吐く息だ——赤道直下でありながら、セーターを羽織っても場違いに感じないほど空気は涼しい。それこそがキャメロンハイランドの真髄である：熱帯マレーシアの上に積み重なった温帯の丘陵地帯で、茶が尾根に沿って整然とした緑のコーデュロイを描き、イチゴが道端のビニールハウスで実っていく。

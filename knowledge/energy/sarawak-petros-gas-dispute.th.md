@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "malaysia-agreement-1963" }
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["Petros", "Sarawak", "gas", "agregator gas", "Ordinan Pengagihan Gas 2016", "Ordinan Pengagihan Gas (Pindaan) 2023", "Petronas", "Akta Kemajuan Petroleum 1974", "MA63"]
+framework: explainer
 ---
 
 ที่โต๊ะเจรจาแห่งหนึ่งในกัวลาลัมเปอร์ นิติบุคคลพลังงานของรัฐสองแห่ง หนึ่งของสหพันธ์ หนึ่งของรัฐ พยายามปรับให้ตรงกันว่าใครควบคุมการไหลของก๊าซในซาราวัก เบื้องหลังมันมีคำถามที่ใหญ่กว่า คือกฎหมายใดผูกพันเมื่อสิทธิของรัฐและอำนาจของสหพันธ์ปะทะกัน?

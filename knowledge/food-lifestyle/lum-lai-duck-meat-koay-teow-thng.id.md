@@ -78,6 +78,7 @@ related:
   - "malaysian-noodles"
 social:
   hashtags: ["KoayTeowThng", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 Di antara gerai mi bebek George Town, satu telah menjadi magnet antrean: sebuah

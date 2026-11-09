@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["batik", "wayang-kulit"]
 keywords: ["songket", "tenunan songket", "kek tenun", "benang emas", "songket Terengganu", "songket Kelantan"]
+framework: history-culture
 ---
 
 송켓 작업장에서 가장 많이 들리는 소리는 기계 소리가 아닙니다. 그것은 나무를 누르고, 실을 당기고, 대나무 살대를 끼워 넣었다가 다시 빼내는 소리입니다 — 한 줄의 무늬를 한 번에, 하루 종일 되풀이합니다.

@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "registering-a-birth" }
 related: ["imigresen", "mykad", "registering-a-birth"]
 keywords: ["pasaporte Malasia", "renovar pasaporte en línea", "MyOnline Passport", "renovación pasaporte internacional", "sustitución pasaporte perdido", "mostrador UTC pasaporte", "Departamento de Inmigración de Malasia pasaporte", "tarifa pasaporte Malasia", "pasaporte 10 años Malasia"]
+framework: how-to
 ---
 
 Tu pasaporte caduca dentro de un mes, el billete de avión ya está reservado y

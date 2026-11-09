@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "sukan-tradisional-malaysia" }
 related: []
 keywords: ["sepak takraw", "sepak raga", "deporte nacional de malasia", "reglas del sepak takraw", "copa del rey sepak takraw", "persekutuan sepaktakraw malaysia"]
+framework: history-culture
 ---
 
 Imagina el voleibol y, a continuación, quítale las manos a cada jugador. Lo que

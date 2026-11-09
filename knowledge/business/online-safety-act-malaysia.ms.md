@@ -122,6 +122,7 @@ relations:
   - { rel: "related-to", to: "communications-and-multimedia-act-1998" }
 related: []
 keywords: ["akta keselamatan dalam talian 2025", "akta 866 malaysia", "pelan keselamatan dalam talian malaysia", "kandungan berbahaya malaysia", "mcmc keselamatan dalam talian"]
+framework: rules
 ---
 
 Akta Keselamatan Dalam Talian 2025 (Online Safety Act 2025) Malaysia sering digambarkan sebagai undang-undang media sosial. Sebenarnya bukan, tepatnya. Ia adalah undang-undang **kelakuan pemegang lesen**, dan perbezaan ini menentukan sama ada ia terpakai kepada anda langsung atau tidak.

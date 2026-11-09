@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-vs-tax-invoice" }
 related: ["online-business-licence-malaysia"]
 keywords: ["start online business malaysia", "e-commerce business malaysia", "sell online malaysia registration", "SSM online business", "low value goods tax malaysia", "electronic trade transactions regulations", "e-invoice small business malaysia"]
+framework: how-to
 ---
 
 电子商务给人一种非正式的感觉——你可以在晚饭时分就已经在电商平台上销售了——这让很多人误以为规则不适用。规则是适用的。马来西亚把网店卖家当作任何其他生意一样看待：你必须注册、披露你是谁、保护客户资料，并缴纳正确的税款。这些规则最近也有所改变，因此即使是几年前就设立生意的卖家，可能也在依据过时的信息运作。

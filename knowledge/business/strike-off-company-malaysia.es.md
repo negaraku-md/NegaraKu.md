@@ -101,6 +101,7 @@ relations:
   - { rel: "requires", to: "annual-return" }
 related: ["close-a-company", "members-voluntary-winding-up", "creditors-voluntary-winding-up", "ssm-fees-malaysia", "annual-return"]
 keywords: ["dar de baja empresa malasia", "artículo 550 companies act 2016", "artículo 555 reinscripción", "tutup syarikat ssm", "dar de baja sdn bhd", "directrices de baja SSM"]
+framework: explainer
 ---
 
 La mayoría de quienes preguntan cómo dar de baja una empresa en realidad preguntan cómo dejar de pagar por una. Es un objetivo razonable, y la baja es la forma más barata de alcanzarlo — RM100, sin liquidador, sin cuentas finales. También es la vía que SSM rechaza con más frecuencia, porque las diez condiciones de las directrices del Registrador son más estrictas que las dos o tres que circulan en línea.

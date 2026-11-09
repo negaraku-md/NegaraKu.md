@@ -84,6 +84,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["foreign-exchange-policy-malaysia", "resident-director-malaysia", "registered-office-malaysia"]
 keywords: ["corporate bank account malaysia", "open company bank account malaysia", "foreign owned company bank account rejected", "bank account KYC malaysia", "enhanced due diligence malaysia"]
+framework: explainer
 ---
 
 இந்தத் தலைப்பில் உள்ள ஒவ்வொரு போட்டியாளர் பக்கமும், "உங்கள் கணக்கு சில வேலை நாட்களில்

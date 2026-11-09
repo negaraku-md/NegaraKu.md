@@ -83,6 +83,7 @@ keywords:
   - "Malaysia student pass application"
   - "public vs private university Malaysia"
   - "MOHE approved institution Malaysia"
+framework: explainer
 ---
 
 잘못된 종류의 기관에서 받은 입학 허가서는, 프로그램 자체가 완벽하게 인증받았더라도 비자에는 쓸모가 없습니다. 그 구분 — 인증된 프로그램 대 국제 학생 등록 승인을 받은 기관 — 이 누군가 EMGS 양식을 채우기 훨씬 전에, 대부분의 혼란이 시작되는 지점입니다.

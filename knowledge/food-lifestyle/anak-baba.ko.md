@@ -70,6 +70,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["AnakBaba", "Peranakan", "BibGourmand", "MichelinGuideMalaysia", "Brickfields"]
+framework: profile
 ---
 
 Anak Baba는 Brickfields——쿠알라룸푸르의 Little India——에 있는 페라나칸(Peranakan) 식당으로, [MICHELIN Guide Malaysia](/ko/food-lifestyle/michelin-guide-malaysia)에 Bib Gourmand로 등장합니다. MICHELIN Guide는 이를 "아늑한 작은 보석"이라 부릅니다.

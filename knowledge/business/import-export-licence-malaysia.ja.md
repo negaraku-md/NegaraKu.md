@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "hs-code-classification-malaysia" }
 related: ["sales-and-service-tax"]
 keywords: ["import licence Malaysia", "export permit Malaysia", "Approved Permit AP", "SIRIM import permit", "MAQIS permit", "customs registration Malaysia", "ePermit", "uCustoms", "MyTRADELINK"]
+framework: rules
 ---
 
 あなたのコンテナはポートクラン（Port Klang）に留め置かれ、動かない——インボイスとマニフェストの間のどこかで、一枚の許可が欠けているからだ。マレーシアには、壁に額装して飾れるような単一の「輸入・輸出ライセンス」は存在しない。貨物を通関させるのは、登録と承認を積み重ねた*スタック*であり、その各層は異なる機関が所管し、それぞれが実際に出荷する貨物の内容に紐づいている。

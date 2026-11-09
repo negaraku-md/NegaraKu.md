@@ -70,6 +70,7 @@ keywords:
   - "responsabilidad del socio Malasia"
   - "responsabilidad conjunta y solidaria sociedad colectiva"
   - "registrar sociedad colectiva SSM"
+framework: explainer
 ---
 
 Dos amigos registran una sociedad colectiva porque cuesta RM60 al año y nadie

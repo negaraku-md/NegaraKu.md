@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "moving-to-malaysia-first-steps" }
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka akaun air", "syarikat air negeri", "bil air Malaysia", "SPAN", "sambungan air baharu"]
+framework: explainer
 ---
 
 நீங்கள் Selangor-இலிருந்து Johor-க்கு மாறுகிறீர்கள். வங்கிக் கணக்கு அப்படியே இருக்கிறது. உங்கள் தொலைபேசி இணைப்பை உங்களுடன் கொண்டு வர முடியும். ஆனால் உங்கள் நீர் கணக்கு? அது உங்களைப் பின்தொடராது — ஏனெனில் உங்கள் புதிய வீட்டிற்கு நீர் வழங்கும் நிறுவனம் முற்றிலும் வேறு ஒரு நிறுவனமே.

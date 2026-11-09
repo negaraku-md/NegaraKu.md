@@ -60,6 +60,7 @@ relations:
   - { rel: "administered-by", to: "ssm" }
 related: ["beneficial-ownership", "bo-register", "who-is-a-beneficial-owner", "ebos-filing"]
 keywords: ["shareholder refuses beneficial ownership notice", "section 60C notice no reply", "senior management in place of beneficial owner", "BO non-compliance Malaysia"]
+framework: how-to
 ---
 
 주주가 통지를 무시합니다. 14일의 기재 기한이 진행되고 있고, 연차보고서 제출

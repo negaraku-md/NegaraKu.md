@@ -106,6 +106,7 @@ keywords:
   - "DBP Sah Bahasa"
   - "Bahasa Malaysia signboard rule"
   - "signboard licence fee DBKL"
+framework: rules
 ---
 
 Hầu hết các hướng dẫn bảo bạn rằng Kuala Lumpur là thành phố nơi [Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka) phải

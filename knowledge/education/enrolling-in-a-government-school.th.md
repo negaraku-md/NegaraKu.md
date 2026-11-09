@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "sistem-pendidikan-malaysia" }
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["pendaftaran tahun 1", "idme moe gov my", "umur masuk sekolah rendah", "eDaftar Menengah APDM", "BPPS tingkatan 1", "sekolah kerajaan Malaysia", "akta pendidikan 1996", "penangguhan tahun 1"]
+framework: how-to
 ---
 
 ผู้ปกครองจำนวนมากประหลาดใจเมื่อพบว่าตนเอง "ลงทะเบียน" บุตรเข้าชั้นมัธยมปีที่ 1 แบบเดียวกับที่เคยลงทะเบียนชั้นปีที่ 1 ไม่ได้ ไม่มีแบบฟอร์มออนไลน์ให้กรอกเอง ไม่มีพอร์ทัลให้เข้าสู่ระบบ เหตุผลนั้นง่าย: การศึกษาสองระดับของโรงเรียนรัฐบาลนี้ใช้สองระบบที่แตกต่างกันโดยสิ้นเชิง และการสับสนระหว่างทั้งสองคือสาเหตุที่พบบ่อยที่สุดที่ทำให้ผู้ปกครองสงสัยว่าทำไม "หาการลงทะเบียนของลูกไม่เจอเลย"

@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-china-relations", "malaysia-asean-membership"]
 keywords: ["Malaysia US relations", "Comprehensive Strategic Partnership", "reciprocal trade agreement", "US tariff Malaysia", "semiconductors", "defence cooperation"]
+framework: explainer
 ---
 
 Barack Obama mengunjungi Masjid Negara, masjid nasional Kuala Lumpur, pada 2014; Anwar Ibrahim berjabat tangan dengan Donald Trump atas sebuah pakta perdagangan yang ditandatangani pada 2025. Dua presiden Amerika yang sangat berbeda, satu hubungan yang bertahan lama — dan satu kebiasaan Malaysia untuk merapatkan diri dengan Washington tanpa sekali pun berdiri di bawah payung keamanannya.

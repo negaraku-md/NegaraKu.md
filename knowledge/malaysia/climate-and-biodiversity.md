@@ -61,6 +61,7 @@ keywords:
   - "monsoon Malaysia"
   - "MetMalaysia"
   - "MyBIS"
+framework: explainer
 ---
 
 # Why Malaysia Is One of the World's Megadiverse Countries

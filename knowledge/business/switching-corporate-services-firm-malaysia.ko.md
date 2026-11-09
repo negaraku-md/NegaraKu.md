@@ -71,6 +71,7 @@ sources:
 relations: []
 related: ["choosing-accounting-secretarial-audit-tax-firm-malaysia", "company-secretary-malaysia", "audit-exemption-criteria", "accounting-records-section-245"]
 keywords: ["말레이시아 회사 비서 변경", "말레이시아 감사인 해임", "LHDN 세무대리인 변경", "말레이시아 회계법인 교체", "제237조 회사 비서 사임", "감사인 해임 특별통지", "말레이시아 기업 서비스 업체 변경", "SSM 회사 비서 변경 방법", "회사법 2016 감사인 교체", "말레이시아 부기 담당자 교체"]
+framework: how-to
 ---
 
 조만간 회사는 어떤 업체를 넘어서게 됩니다 — 수수료가 슬금슬금 오르거나, 서비스가 조용해지거나, 그저 더 잘 맞는 곳을 찾게 됩니다. 본능적으로는 이메일 한 통 보내고 옮기고 싶어집니다. 그러나 말레이시아는 이 네 전문직을 똑같이 다루지 않습니다. 부기 담당자를 바꾸는 것은 전화 한 통이지만, 감사인을 해임하는 것은 공식적이고 법적으로 보호되는 절차입니다. 다음은 각각이 실제로 어떻게 작동하는지, 그리고 규정 준수 공백을 남기지 않고 바꾸는 방법입니다.

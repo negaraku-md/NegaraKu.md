@@ -90,6 +90,7 @@ keywords:
   - "drag along tag along Sdn Bhd"
   - "shareholders agreement Malaysia"
   - "section 346 oppression"
+framework: explainer
 ---
 
 يوقّع مؤسِّسان اتفاقية مساهمين من عشرين صفحة. تمنح كلًّا منهما مقعدًا في المجلس، وحقّ

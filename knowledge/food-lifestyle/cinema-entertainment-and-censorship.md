@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "consumer-protection-act" }
 related: ["sedition-act", "consumer-protection-act"]
 keywords: ["penapisan filem", "Lembaga Penapisan Filem", "LPF", "klasifikasi filem", "P12", "P13", "Akta Penapisan Filem 2002", "lesen hiburan", "karaoke", "pawagam", "DBKL", "pihak berkuasa tempatan"]
+framework: explainer
 ---
 
 Sebuah filem yang tular di YouTube mungkin tidak pernah melalui Lembaga Penapisan Filem — tetapi filem yang sama, jika hendak ditayangkan di pawagam, wajib mendapat cop kelulusannya dahulu. Perbezaan itu bukan kelonggaran secara tidak sengaja; ia terbina dalam cara undang-undang Malaysia mengawal apa yang boleh dilihat orang ramai.

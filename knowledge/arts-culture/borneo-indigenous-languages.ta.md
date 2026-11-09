@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "kaamatan" }
 related: ["languages-spoken", "sabah", "sarawak", "gawai-dayak", "kaamatan", "orang-asli"]
 keywords: ["indigenous languages Sabah Sarawak", "Borneo languages", "Kadazandusun language", "Dusunic", "Murutic", "Paitanic", "Iban language", "Bidayuh", "Melanau", "Orang Ulu", "Austronesian", "North Bornean languages", "Sama-Bajau"]
+framework: explainer
 ---
 
 போர்னியோவின் உட்பகுதிக்கு மேலே பறந்து செல்லுங்கள், பெரும்பாலான நாடுகள் மொத்தமாகக் கொண்டுள்ளதைவிட அதிக மொழிகளை ஒரு மணி நேரத்தில் கடந்து செல்வீர்கள். சபாவின் மலைப்பகுதிகளில் உள்ள ஒரு நதிப் பள்ளத்தாக்கு, சரவாக்கில் மேல் Baram ஆற்றங்கரையில் உள்ள ஒரு நீள்வீடு (longhouse), ஒரு கடலோர மீன்பிடி கிராமம் — ஒவ்வொன்றும் அடுத்த பள்ளத்தாக்கு அரிதாகவே புரிந்துகொள்ளும் ஒரு மொழியில் உங்களை வரவேற்கக்கூடும்.

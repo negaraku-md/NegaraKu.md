@@ -68,6 +68,7 @@ verificationNeeded:
   - "Confirmer les dates exactes (fonctions de Premier ministre, naissance, décès) auprès de la Perdana Leadership Foundation et du PMO."
   - "La date et le lieu de décès diffèrent selon les sources : la Perdana Leadership Foundation et l'encadré de Wikipedia donnent le 29 mai 1990 (région de la baie de San Francisco, Californie), tandis que l'Encyclopædia Britannica consigne le 28 mai 1990 à Daly City, Californie, et le corps de l'article de Wikipedia cite le Seton Medical Center, comté de San Mateo — à harmoniser avant publication."
   - "Sur le choix de l'adjoint : Mahathir Mohamad fut nommé vice-Premier ministre en 1976, mais certains récits (par exemple Wikipedia) rapportent que Ghazali Shafie était le candidat personnellement préféré de Hussein Onn — vérifier comment la nomination est caractérisée."
+framework: profile
 ---
 
 Peu de dirigeants malaisiens ont porté un héritage plus lourd que Hussein Onn. Il était le fils d'Onn Jaafar — l'homme qui fonda l'UMNO, le parti qui allait dominer la politique de la nation pendant plus d'un demi-siècle — et il accéda au poste de Premier ministre non par ambition mais par une perte soudaine, prenant ses fonctions en janvier 1976 après la mort du Premier ministre à Londres. En cinq années discrètes et conséquentes, il mérita un titre qui survécut à son gouvernement : **Bapa Perpaduan**, le **Père de l'Unité**.

@@ -86,6 +86,7 @@ keywords:
   - "Ipoh chicken rice"
 social:
   hashtags: ["#HainaneseChickenRice", "#NasiAyam", "#ChickenRiceBalls", "#Melaka", "#MalaysianFood"]
+framework: history-culture
 ---
 
 말레이시아의 kopitiam(전통 커피숍)에서 치킨라이스 한 접시를 주문하면, 호들갑 떨기에는

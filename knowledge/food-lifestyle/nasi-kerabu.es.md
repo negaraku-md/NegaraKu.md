@@ -93,6 +93,7 @@ verificationNeeded:
   - "Si el nasi kerabu se describe mejor como un plato específicamente de Kelantan o como uno compartido de Kelantan–Terengganu (costa oriental): las fuentes varían en cómo lo atribuyen. Confirmar con una fuente culinaria o patrimonial regional."
   - "La lista canónica de ulam (qué hierbas crudas son esenciales frente a las regionales u opcionales): las recetas y las fuentes enumeran combinaciones distintas. Confirmar con una fuente de Kelantan."
   - "El límite preciso entre el nasi kerabu y el nasi ulam: suele describirse como platos similares separados sobre todo por el arroz coloreado. Confirmar con una fuente de referencia culinaria."
+framework: explainer
 ---
 
 Pocos platos malasios se anuncian con tanta fuerza como el nasi kerabu. El arroz

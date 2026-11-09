@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "appointing-an-auditor" }
 related: ["directors-duties", "appointing-an-auditor", "sdn-bhd-vs-berhad"]
 keywords: ["audit committee malaysia", "bursa listing requirements chapter 15", "audit committee composition malaysia", "independent director audit committee", "mccg practice 9", "internal audit function listed company"]
+framework: rules
 ---
 
 ถามกรรมการมาเลเซียส่วนใหญ่ว่าข้อกำหนดเรื่องคณะกรรมการตรวจสอบมาจากไหน แล้วคุณจะได้รับคำตอบว่ามาจาก Companies Act แต่ไม่ใช่ **วลี "คณะกรรมการตรวจสอบ" ไม่ปรากฏที่ใดใน Companies Act 2016 เลย** — ไม่แม้แต่ครั้งเดียวตลอด 620 มาตรา — และ Companies (Amendment) Act 2024 ก็ไม่ได้เพิ่มเข้ามา

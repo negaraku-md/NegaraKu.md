@@ -108,6 +108,7 @@ keywords:
   - "Kuala Lumpur premise licence fee"
   - "Federal Territory Planning Act 1982"
   - "TRX Marquee status incentives"
+framework: profile
 ---
 
 கூட்டரசு வர்த்தமானியிலிருந்து உங்கள் உரிமக் கட்டணத்தை நீங்கள் படிக்கக்கூடிய

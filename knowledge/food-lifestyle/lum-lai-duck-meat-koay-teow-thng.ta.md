@@ -78,6 +78,7 @@ related:
   - "malaysian-noodles"
 social:
   hashtags: ["KoayTeowThng", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 ஜார்ஜ் டவுனின் வாத்து-நூடுல்ஸ் அங்காடிகளுக்கு இடையே, ஒன்று வரிசைகளுக்கான

@@ -77,6 +77,7 @@ social:
     - MDEC
     - MalaysiaDigital
     - TechFunding
+framework: explainer
 ---
 
 Most founders looking for MDEC funding search for "the MDEC grant" and expect a single scheme. There are really two, they fund opposite ends of a company's journey, and both share one non-obvious gate: you have to already be inside Malaysia Digital to get in. Miss that, and the amount on the page is irrelevant.

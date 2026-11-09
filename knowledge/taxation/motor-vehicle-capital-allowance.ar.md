@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "benefits-in-kind" }
 related: ["benefits-in-kind", "corporate-tax-rates"]
 keywords: ["الإعفاء الرأسمالي للمركبات الآلية في ماليزيا", "سقف الإعفاء الرأسمالي للسيارة RM50000 RM100000", "الجدول 3 الفقرة 2(2)", "خصم ضريبة سيارة الشركة في ماليزيا", "خصم ضريبة إيجار المركبات الكهربائية في ماليزيا", "motor vehicle capital allowance Malaysia", "Schedule 3 paragraph 2(2)"]
+framework: rules
 ---
 
 تشتري شركة سيارة فخمة بقيمة RM320,000، وتُقيّدها بوصفها معدّات، وتتوقّع الحصول على

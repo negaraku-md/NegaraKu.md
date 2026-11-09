@@ -77,6 +77,7 @@ sources:
 relations: []
 related: ["company-secretary-malaysia", "audit-exemption-criteria"]
 keywords: ["choose company secretary Malaysia", "accounting firm Malaysia", "audit firm Malaysia", "tax agent Malaysia", "corporate services firm Malaysia", "Big Four Malaysia", "MIA licensed firm", "SSM company secretary licence", "how to choose accountant Malaysia", "company secretary firm vs individual"]
+framework: decision
 ---
 
 Toda empresa malasia se apoya en un pequeño círculo de profesionales que nunca aparece en el organigrama: el secretario de empresa que la mantiene en regla, el contable que lleva sus libros, el auditor que da fe de sus cifras y el agente fiscal que presenta ante LHDN. Elegirlos bien ahorra dinero y noches sin dormir. Sin embargo, busque «mejor secretario de empresa en Malasia» y casi todas las guías que encuentre las escribió una firma que vende el servicio. Esta no.

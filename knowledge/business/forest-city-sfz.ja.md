@@ -105,6 +105,7 @@ keywords:
   - "Forest City SFZ tax"
   - "Pulau 1 Forest City"
   - "zon kewangan khas Forest City"
+framework: explainer
 ---
 
 二つの制度が、ジョホール州の同じ海岸線上に存在しており、それらについて書かれたほぼすべての概要が両者を混同している。その結果、製造業者を証券委員会へ、ファミリーオフィスをMIDAへと送り込むような助言が生まれている。

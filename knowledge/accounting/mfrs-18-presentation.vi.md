@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "mfrs-vs-mpers" }
 related: ["mfrs-vs-mpers"]
 keywords: ["MFRS 18 Malaysia", "MFRS 18 effective date", "operating profit subtotal MFRS 18", "management-defined performance measures", "MFRS 18 five categories", "MFRS 101 replaced"]
+framework: explainer
 ---
 
 Mọi cảnh báo được viết về MFRS 18 cho đến nay đều nhắm vào một CFO của công ty niêm

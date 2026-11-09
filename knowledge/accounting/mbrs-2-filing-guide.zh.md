@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "extension-of-time-ssm" }
 related: ["mbrs-2", "mbrs-tagging-errors", "financial-statement-pack", "financial-statements-lodgement", "unaudited-financial-statements", "extension-of-time-ssm", "mfrs-vs-mpers"]
 keywords: ["MBRS 2.0 filing guide", "mTool 2.2", "SSMxT taxonomy", "XBRL tagging Malaysia", "MBRS entry point", "mPortal maker lodger", "MBRS rejection", "prepare financial statements XBRL SSM"]
+framework: how-to
 ---
 
 搜索「MBRS 2.0」得到的结果，几乎全是有人在向你兜售一种「不必自己动手」的办法。转换供应商、外包标签服务，还有四大会计师事务所那些以「联系我们」收尾的就绪度招揽。没有人公开讲清楚，在一套已签署的账目和 SSM 的一份确认回执之间，究竟发生了什么。

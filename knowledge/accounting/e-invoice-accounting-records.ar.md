@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-vs-tax-invoice" }
 related: ["e-invoicing", "e-invoice-vs-tax-invoice", "consolidated-e-invoice", "myinvois-phases", "accounting-records-section-245"]
 keywords: ["حفظ سجلات الفاتورة الإلكترونية ماليزيا", "مدة الاحتفاظ MyInvois", "المادة 245 الفاتورة الإلكترونية", "سجلات المادة 82 قانون ضريبة الدخل", "السجلات القانونية للفاتورة الإلكترونية ماليزيا", "e-invoice record keeping Malaysia", "MyInvois retention period", "section 82 Income Tax Act records"]
+framework: explainer
 ---
 
 أشيع تصوّر خاطئ في وظائف المالية الماليزية الآن هو أن MyInvois قد حلّت محل خزانة

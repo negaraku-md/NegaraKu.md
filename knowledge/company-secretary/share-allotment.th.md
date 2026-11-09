@@ -116,6 +116,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["share-transfer", "register-of-members", "share-capital-malaysia", "capital-reduction", "beneficial-ownership"]
 keywords: ["share allotment Malaysia", "return of allotment 14 days", "section 75 Companies Act 2016", "pre-emptive rights section 85", "issue new shares Sdn Bhd"]
+framework: how-to
 ---
 
 การออกหุ้นใหม่ในบริษัท Sdn Bhd ดูเหมือนการตัดสินใจของคณะกรรมการ แต่ไม่ใช่ ภายใต้ Companies Act 2016 การจัดสรรที่ทำโดยไม่มีการอนุมัติของสมาชิกก่อนเป็น **โมฆะ** — ไม่ใช่โมฆียะ ไม่ใช่ไม่ถูกต้อง แต่โมฆะ — และกรรมการที่อนุมัติต้องรับผิดชอบต่อความสูญเสียเป็นการส่วนตัว

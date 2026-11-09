@@ -73,6 +73,7 @@ relations:
   - { rel: "affects", to: "form-c-and-cp204" }
 related: ["form-c-and-cp204", "corporate-tax-rates", "income-tax-act-1967"]
 keywords: ["tempoh asas Malaysia", "seksyen 21A", "tahun kegagalan", "CP204B", "tukar tarikh perakaunan Malaysia", "tempoh asas"]
+framework: explainer
 ---
 
 Sebuah Sdn Bhd yang diinkorporasikan pada bulan Maret dan menutup akun pertamanya pada

@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "statutory-registers" }
 related: ["beneficial-ownership", "ebos-filing", "who-is-a-beneficial-owner", "bo-non-cooperation", "statutory-registers"]
 keywords: ["register of beneficial owners Malaysia", "section 60B Companies Act", "BO register registered office", "beneficial ownership retention 7 years", "statutory register beneficial owner"]
+framework: rules
 ---
 
 ขอให้เลขานุการบริษัทมาเลเซียนำทะเบียนเจ้าของผู้รับผลประโยชน์มาแสดง แล้วจำนวนไม่น้อยจะนำใบรับการยื่น e-BOS มาให้ นั่นไม่ใช่ทะเบียน แต่เป็นหลักฐานว่าได้ทำหน้าที่อีกอย่างหนึ่งแล้ว

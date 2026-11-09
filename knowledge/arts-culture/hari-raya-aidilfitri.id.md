@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-malaysia" }
 related: ["balik-kampung", "kampung", "public-holidays-malaysia", "religion-statistics"]
 keywords: ["Hari Raya Aidilfitri", "1 Syawal", "balik kampung", "duit raya", "rumah terbuka", "ziarah kubur", "zakat fitrah", "cuti umum Aidilfitri"]
+framework: history-culture
 ---
 
 Pada malam terakhir Ramadan, seluruh negara seolah-olah bergerak sekaligus. Jalan raya utara–selatan macet berjam-jam, stasiun bus penuh tas dan wadah kue, dan lampu pelita menyala di beranda rumah dari kota hingga ke pelosok kampung. Keesokannya, 1 Syawal, sebulan berpuasa berakhir — dan Malaysia merayakan Hari Raya Aidilfitri.

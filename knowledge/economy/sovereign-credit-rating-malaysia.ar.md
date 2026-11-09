@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-government-debt-malaysia" }
 related: []
 keywords: ["التصنيف الائتماني لماليزيا", "التصنيف السيادي", "درجة الاستثمار", "Malaysia credit rating", "sovereign rating", "S&P Malaysia", "Moody's Malaysia", "Fitch Malaysia", "A3", "BBB+", "investment grade"]
+framework: explainer
 ---
 
 حين يرحّب وزير المالية الماليزي علنًا برسالة من محلّل في نيويورك، تعلم أن ما على المحكّ أكثر من كونه رمزيًّا. فدرجة واحدة صعودًا أو هبوطًا في التصنيف الائتماني السيادي يمكن أن تغيّر ما تدفعه الحكومة للاقتراض، وأن تتردّد في تكاليف تمويل الشركات، وأن تجذب الرينغيت. وثلاث شركات — S&P Global وMoody's وFitch — تمسك ذلك القلم لماليزيا.

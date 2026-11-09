@@ -93,6 +93,7 @@ social:
     - "gulamelaka"
     - "penangfood"
     - "malaysianfood"
+framework: explainer
 ---
 
 En una tarde calurosa de Malasia, pocas cosas son tan fiables como un cuenco de cendol: un montón de hielo raspado vuelto lustroso bajo una capa de leche de coco, hilado con gelatina verde blanda y oscurecido por un lento chorro de jarabe de azúcar de palma. Es barato, está en todas partes y es dulce sin disculparse: el tipo de postre por el que haces cola al sol y terminas antes de que se derrita.

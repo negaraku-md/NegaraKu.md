@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "road-tax-and-vehicle-registration" }
 related: []
 keywords: ["letak kereta", "e-parking", "kompaun letak kereta", "DBKL", "Smart Selangor Parking", "EZ Smart Park"]
+framework: explainer
 ---
 
 நீங்கள் டிக்கெட் இயந்திரத்திற்காகக் காரில் நாணயங்களைத் தேடுகிறீர்கள் — ஆனால் அந்த இயந்திரங்கள் 2020 முதலே இல்லாமல் போய்விட்டன. மலேசியாவின் பெரிய நகரங்களில் வாகன நிறுத்தம் இப்போது சாலையோர நாணயக் குவளையிலிருந்து அல்ல, ஸ்மார்ட்போனிலிருந்தே தொடங்குகிறது.

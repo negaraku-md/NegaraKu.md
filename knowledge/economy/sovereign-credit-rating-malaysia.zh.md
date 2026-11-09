@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-government-debt-malaysia" }
 related: []
 keywords: ["Malaysia credit rating", "sovereign rating", "S&P Malaysia", "Moody's Malaysia", "Fitch Malaysia", "A3", "BBB+", "investment grade"]
+framework: explainer
 ---
 
 当马来西亚财政部长公开欢迎一封来自纽约分析师的信函时，你就知道这背后的利害远不止于象征意义。主权信用评级上调或下调哪怕一档，都可能改变政府的借贷成本、波及企业融资费用，并牵动令吉汇率。有三家机构——标普全球（S&P Global）、穆迪（Moody's）和惠誉（Fitch）——为马来西亚握着这支评级之笔。

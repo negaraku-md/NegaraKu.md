@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
+framework: history-culture
 ---
 
 Une ville bâtie sur l'étain a fini par donner au monde un métier métallurgique. Kuala Lumpur existe parce que des prospecteurs ont trouvé du minerai d'étain là où se rejoignent les rivières Klang et Gombak. Des décennies plus tard, un adolescent ferblantier venu travailler dans cette même économie de l'étain s'est mis à forger des brûle-encens pour les autels des temples, et l'atelier qu'il a ouvert est aujourd'hui le plus grand fabricant d'étain-pewter de la planète.

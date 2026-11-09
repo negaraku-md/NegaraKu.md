@@ -99,6 +99,7 @@ verificationNeeded:
   - "kari kapitan 的词源与起源（与殖民时期 Kapitan Cina 社群首领的关联，以及屡被转述的『Curry, Kapitan!』传说）——学界将这些视为有争议的民间传说，而非有记载的事实。请对照学术或文化遗产来源核实。"
   - "rendang 是否应归类为咖喱——有些作家坚持这道已完全收干的成品是干式、并非咖喱，另一些人则将它视为 gulai–kalio–rendang 连续谱的终点——以及它的米南加保／西苏门答腊起源相对于马来西亚的遗产主张。请对照饮食史来源核实。"
   - "gulai、masak lemak、asam pedas 与 gulai tumis 之间的确切界线——这些名称彼此交叠、因地区而变（例如在柔佛部分地区 asam pedas 被称为 gulai），且使用并不一致。请对照马来西亚饮食来源核实这一地区命名。"
+framework: explainer
 ---
 
 在马来甘榜的厨房、印裔马来西亚的香蕉叶饭店，以及娘惹人的餐桌上点一份"咖喱"，端上来的

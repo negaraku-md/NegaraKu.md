@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "unesco-world-heritage" }
 related: ["wayang-kulit", "mak-yong", "unesco-world-heritage"]
 keywords: ["华人大戏", "酬神戏", "粤剧 马来西亚", "潮剧 马来西亚", "闽剧", "歌仔戏", "布袋戏", "潮州铁枝木偶", "槟城 中元节", "Chinese opera Malaysia", "Wayang Cina"]
+framework: history-culture
 ---
 
 銅鑼と太鼓が鳴り響き、舞台の上では水袖（すいしゅう、長い袖の舞衣装）が翻る——それでも客席に座っているのはたいてい数人だけで、時には一人もいないこともある。これは公演の失敗ではない。なぜなら、この芝居はそもそも人に見せるために上演されているのではないからだ。

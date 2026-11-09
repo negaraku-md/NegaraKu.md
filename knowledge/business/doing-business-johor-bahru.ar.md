@@ -123,6 +123,7 @@ keywords:
   - "شراء الأجانب للعقار في جوهور"
   - "doing business in Johor Bahru"
   - "MBJB business licence"
+framework: profile
 ---
 
 جوهور بهرو هي المدينة الماليزية الوحيدة التي يحدّد كلًّا من حدّ أجورها وخطة توظيفها

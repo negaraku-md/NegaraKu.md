@@ -137,6 +137,7 @@ keywords:
   - "trade licence Sarawak"
   - "LHDN business registration Kuching"
   - "lesen perniagaan Sarawak"
+framework: how-to
 ---
 
 Di Sarawak Anda tidak mendaftarkan satu usaha. Anda mendaftarkan tiga hal, dengan

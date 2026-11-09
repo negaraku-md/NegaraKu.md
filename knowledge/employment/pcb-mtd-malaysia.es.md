@@ -132,6 +132,7 @@ relations:
   - { rel: "part-of", to: "payroll-compliance-malaysia" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide"]
 keywords: ["PCB Malasia", "MTD deducción fiscal mensual", "CP38 CP39 CP22", "e-PCB LHDN empleador", "potongan cukai bulanan"]
+framework: rules
 ---
 
 El PCB es la única línea de una nómina malasia en la que el empleador retiene el dinero de otra

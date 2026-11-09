@@ -119,6 +119,7 @@ keywords:
   - "lesen perniagaan online"
   - "e-commerce regulations Malaysia 2024"
   - "online seller legal requirements Malaysia"
+framework: rules
 ---
 
 Không có thứ gì gọi là giấy phép thương mại điện tử tại Malaysia. Không đạo luật nào tạo ra một giấy

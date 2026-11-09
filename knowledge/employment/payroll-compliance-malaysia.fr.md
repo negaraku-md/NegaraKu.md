@@ -195,6 +195,7 @@ relations:
   - { rel: "governs", to: "income-tax-act-1967" }
 related: ["labour-law-map-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "pcb-mtd-malaysia", "epf-foreign-workers-malaysia"]
 keywords: ["conformité de la paie Malaisie", "payroll compliance Malaysia", "délai cotisation légale Malaisie", "date limite EPF SOCSO EIS PCB", "obligations de paie de l'employeur Malaisie", "délai prélèvement HRD Corp"]
+framework: rules
 ---
 
 La raison pour laquelle la paie malaisienne tourne mal n'est presque jamais l'arithmétique. C'est que cinq agences différentes croient, chacune, être la seule à qui vous rendez des comptes, et aucune ne vous dira ce que veulent les quatre autres.

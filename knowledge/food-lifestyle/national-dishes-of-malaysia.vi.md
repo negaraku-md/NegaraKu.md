@@ -87,6 +87,7 @@ relations:
   - { rel: "explained-in", to: "national-heritage-act-2005" }
 related: ["teh-tarik"]
 keywords: ["nasi lemak", "roti canai", "char kuey teow", "laksa", "asam laksa", "hidangan kebangsaan Malaysia", "makanan warisan", "UNESCO warisan tidak ketara", "makanan Malaysia"]
+framework: explainer
 ---
 
 Hỏi mười người Malaysia gọi tên "món ăn quốc gia" của đất nước, và chín người sẽ nói nasi lemak trước khi bạn kịp hỏi hết câu. Nhưng câu trả lời thực sự thú vị hơn: Malaysia chưa bao giờ tuyên bố một món ăn đơn lẻ một cách hợp pháp — thay vào đó đất nước này có một số ít món ăn mà, một cách tập thể, mang bản sắc của nó ra sân khấu thế giới.

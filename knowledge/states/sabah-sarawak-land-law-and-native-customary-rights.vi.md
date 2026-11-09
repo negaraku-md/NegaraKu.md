@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
 related: ["federal-constitution"]
 keywords: ["native customary rights", "NCR", "Sarawak Land Code", "Sabah Land Ordinance", "native title", "temuda", "pemakai menoa", "East Malaysia land law"]
+framework: explainer
 ---
 
 Mua một căn nhà ở Kuala Lumpur và một đạo luật liên bang quản lý quyền sở hữu của bạn. Làm điều tương tự ở Kuching hay Kota Kinabalu và bạn bước vào một thế giới pháp lý hoàn toàn khác — một thế giới với các pháp lệnh riêng, các loại đất riêng, và một hình thức sở hữu mà không tờ giấy nào tạo ra: Quyền Tập tục Bản địa.

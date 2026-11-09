@@ -99,6 +99,7 @@ relations:
   - { rel: "explained-in", to: "accounting-standards-index" }
 related: ["mfrs-vs-mpers"]
 keywords: ["MPERS 2025", "MPERS संशोधन मलेशिया", "MPERS प्रभावी तिथि 2027", "MPERS अनुभाग 34 संपत्ति विकास", "IFRS for SMEs तीसरा संस्करण मलेशिया", "MPERS अनुभाग 23 राजस्व", "MPERS revision Malaysia", "MPERS Section 34 property development"]
+framework: explainer
 ---
 
 यदि आप MPERS के अंतर्गत रिपोर्ट करने वाले एक मलेशियाई संपत्ति विकासकर्ता हैं, तो अगले दो वर्षों का सबसे महत्वपूर्ण एकल लेखांकन तथ्य यह है कि जिस मार्गदर्शन का आप 2016 से उपयोग कर रहे हैं, उसे विलोपित किया जा रहा है।

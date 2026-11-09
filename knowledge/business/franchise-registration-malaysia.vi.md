@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: []
 keywords: ["franchise registration malaysia", "franchise act 1998", "MyFEX 2.0", "franchisor registration", "franchisee registration", "franchise disclosure document", "section 6 franchise act", "section 54 approval"]
+framework: how-to
 ---
 
 Bạn không thể hợp pháp chào bán một nhượng quyền tại Malaysia theo cách mà bạn sẽ làm ở hầu hết các nơi trên thế giới — trước tiên lặng lẽ ký kết một vài cửa hàng, rồi chính thức hóa mọi thứ sau đó. Luật đảo ngược trình tự đó. Đăng ký đến trước đề nghị đầu tiên, và kể từ năm 2022 nó áp dụng cho cả các bên nhận quyền.

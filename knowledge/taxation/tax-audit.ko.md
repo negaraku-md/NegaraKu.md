@@ -103,6 +103,7 @@ relations:
   - { rel: "affects", to: "transfer-pricing-documentation" }
 related: ["transfer-pricing-documentation", "form-c-and-cp204", "withholding-tax-non-compliance"]
 keywords: ["LHDN tax audit", "audit cukai LHDN", "tax audit framework Malaysia", "voluntary disclosure LHDN", "penalti audit cukai", "rangka kerja audit cukai"]
+framework: explainer
 ---
 
 말레이시아 세무조사에 관한 대부분의 안내는 **데스크 감사(desk audit)**와 **현장 감사(field

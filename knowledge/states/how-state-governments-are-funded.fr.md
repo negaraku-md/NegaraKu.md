@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-special-rights-ma63" }
 related: []
 keywords: ["hasil negeri", "revenus des États", "geran perkapita", "subvention par habitant", "geran jalan raya negeri", "Jadual Kesepuluh", "Dixième annexe", "Perkara 109", "Perkara 110", "kewangan persekutuan-negeri", "royalti", "redevances", "cukai jualan negeri"]
+framework: explainer
 ---
 
 Lorsqu'un gouvernement d'État de la Malaisie établit son budget, il part d'une réalité rarement évoquée : les impôts qui rapportent le plus — l'impôt sur le revenu, la taxe sur les ventes et services, les droits de douane — ne lui reviennent pas à percevoir. Ces sources relèvent de la compétence fédérale. Ce qui reste aux États, et la manière dont l'écart est comblé, est inscrit noir sur blanc dans la Constitution fédérale.

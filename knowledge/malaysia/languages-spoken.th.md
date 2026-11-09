@@ -86,6 +86,7 @@ relations:
 related: ["federal-constitution", "bahasa-melayu", "population-composition", "formation-of-malaysia-1963", "independence-1957", "ma63"]
 keywords: ["languages of Malaysia", "Bahasa Melayu", "national language Malaysia", "Article 152 Federal Constitution", "Chinese dialects Malaysia", "Tamil Malaysia", "Orang Asli languages", "Kadazan-Dusun", "Iban language", "vernacular schools Malaysia", "SJKC SJKT"]
 sponsor: "none"
+framework: explainer
 ---
 
 รัฐบาลรัฐซาบาห์สรุปประชากรของตนเองไว้เช่นนี้ กลุ่มพื้นเมือง 33 กลุ่ม สื่อสารด้วยภาษากว่า 50 ภาษาและภาษาถิ่นราว 80 ภาษา นั่นคือหนึ่งรัฐจากสิบสามรัฐ บวกกับสามดินแดนสหพันธ์ ซูมออกไปดูทั้งประเทศแล้วภาพยิ่งมีชั้นซ้อนมากขึ้น ทว่ารัฐธรรมนูญแห่งสหพันธ์ระบุภาษาประจำชาติเพียงหนึ่งเดียว

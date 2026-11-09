@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-contract-malaysia", "unfair-dismissal-malaysia", "termination-benefits-malaysia", "employee-vs-contractor-malaysia"]
 keywords: ["निश्चित-अवधि अनुबंध मलेशिया", "अनुबंध नवीनीकरण मलेशिया", "नवीनीकरण न करना बर्ख़ास्तगी मलेशिया", "fixed term contract malaysia", "contract renewal malaysia"]
+framework: explainer
 ---
 
 निश्चित-अवधि अनुबंध को मलेशियाई बाज़ार में एक सुरक्षा-उपकरण के रूप में बेचा जाता है:

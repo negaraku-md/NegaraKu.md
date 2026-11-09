@@ -96,6 +96,7 @@ relations:
   - { rel: "affects", to: "after-audit-exemption" }
 related: ["after-audit-exemption", "audit-exemption", "minute-books-and-records", "unaudited-financial-statements"]
 keywords: ["section 245 Companies Act 2016", "accounting records Malaysia", "keep accounting records 7 years", "60 days accounting entries Malaysia", "accounting records penalty Malaysia"]
+framework: rules
 ---
 
 말레이시아의 회계기록에 관한 거의 모든 안내는 같은 두 가지를 말합니다: 7년간 보관하고,

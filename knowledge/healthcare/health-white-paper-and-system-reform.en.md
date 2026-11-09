@@ -74,6 +74,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
 related: []
 keywords: ["kertas putih kesihatan", "reformasi kesihatan", "pembiayaan kesihatan", "KKM", "insurans kesihatan nasional", "Rakan KKM"]
+framework: explainer
 ---
 
 Government clinics handle nearly two-thirds of the country's outpatient visits — yet they represent only about one in four primary care facilities. It is this imbalance, among other things, that pushed Malaysia's Ministry of Health (MOH) to write the most important policy document in a generation: the Health White Paper.

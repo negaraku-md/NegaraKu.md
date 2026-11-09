@@ -90,6 +90,7 @@ keywords:
   - "charcoal grilled skewers"
 social:
   hashtags: ["#Satay", "#SatayKajang", "#SatayCelup", "#MalaysianFood", "#Malaysia"]
+framework: explainer
 ---
 
 पहले आवाज़ आती है: दहकते कोयले की एक खाई के ऊपर हिलता हुआ एक हाथ-पंखा, टपकती चर्बी की एक

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "foreign-company-branch-malaysia" }
 related: ["mida"]
 keywords: ["representative office malaysia", "regional office malaysia", "MIDA RE RO", "foreign company presence malaysia", "market entry malaysia", "non-trading office"]
+framework: explainer
 ---
 
 말레이시아에 사람을 배치하고자 하는 외국 기업 — 시장을 가늠하거나, 제품 연구를 수행하거나, 역내 계열사를 조율하기 위해 — 은 그렇게 하기 위해 과세 대상 영업 회사를 설립할 필요가 없습니다. 말레이시아는 바로 이를 위해 특별히 마련된 비영업 지위를 제공합니다: 말레이시아투자진흥청(MIDA)이 승인하는 대표사무소(RE) 또는 지역사무소(RO)입니다.

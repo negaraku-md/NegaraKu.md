@@ -132,6 +132,7 @@ relations:
   - { rel: "related-to", to: "cost-of-living-malaysia" }
 related: ["padu-central-database", "petronas"]
 keywords: ["subsidi bahan api", "BUDI95", "RON95", "subsidi diesel", "PADU", "subsidi bersasar", "BUDI MADANI", "RM1.99", "rasionalisasi subsidi"]
+framework: explainer
 ---
 
 Trong nhiều thập kỷ, mọi người ở Malaysia — dù là triệu phú hay người cạo mủ cao su — đều trả cùng một giá xăng tại vòi bơm. Vào ngày 30 tháng 9 năm 2025, sự sắp xếp đó kết thúc. Nay một lít RON95 có thể có giá RM1.99 với bạn nhưng gần gấp đôi với người hàng xóm của bạn, và điều quyết định nó không phải là giá dầu thế giới, mà là tấm căn cước bạn đưa vào terminal.

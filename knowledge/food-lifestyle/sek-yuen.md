@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#SekYuen", "#BibGourmand", "#MichelinGuide", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Step into the middle shop of Sek Yuen on Jalan Pudu and the decades show — worn

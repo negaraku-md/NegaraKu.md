@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "road-tax-renewal" }
 related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengangkutan Jalan 1987", "insurans komprehensif", "cukai jalan", "Seksyen 90", "PIAM", "insurans motosikal"]
+framework: explainer
 ---
 
 คุณสามารถขับรถที่ไม่เคยล้าง ยางสึกหรอ และเครื่องปรับอากาศเสียได้ — และทั้งหมดนั้นถูกกฎหมาย แต่การขับรถโดยไม่มีกระดาษแผ่นหนึ่ง นั่นคือกรมธรรม์ประกันภัยบุคคลที่สาม เป็นความผิดทางอาญา

@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "patent-malaysia" }
 related: ["copyright-malaysia", "patent-malaysia", "industrial-design-malaysia", "trademark-registration-malaysia"]
 keywords: ["pemilikan harta intelek malaysia", "siapa memiliki hak cipta pekerja malaysia", "harta intelek kontraktor malaysia", "penyerahan hak harta intelek malaysia", "seksyen 26 akta hak cipta 1987"]
+framework: explainer
 ---
 
 Seorang pengasas Malaysia yang bersedia menandatangani term sheet diminta

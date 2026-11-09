@@ -90,6 +90,7 @@ verificationNeeded:
   - "Liệu gula melaka có nắm giữ bất kỳ chỉ dẫn địa lý (GI) đã đăng ký nào theo Geographical Indications Act 2022 của Malaysia hay không — không tìm thấy đăng ký GI nào cho gula melaka; hãy xác nhận trực tiếp với sổ đăng ký chính thức của MyIPO trước khi khẳng định bất kỳ tình trạng GI nào."
   - "Mức độ chặt chẽ của mối liên hệ giữa cái tên với bang Melaka (được lặp lại rộng rãi trên truyền thông ẩm thực nhưng không được ghi chép chắc chắn) và liệu Negeri Sembilan cùng các bang khác có phải là vùng sản xuất quan trọng hay không — hãy xác nhận với một nguồn di sản, nông nghiệp hoặc cấp bang của Malaysia."
   - "Những mô tả hương vị cụ thể như nốt 'butterscotch' và thời gian lấy mật/đun cô chi tiết — những điều này đến từ truyền thông ẩm thực và có thể mang tính chủ quan; hãy xác nhận chi tiết sản xuất với một nhà sản xuất hoặc nguồn nông nghiệp."
+framework: explainer
 ---
 
 Cắt vào một khối trụ gula melaka sẫm màu và đặc, căn bếp liền ngập một mùi nằm đâu đó giữa caramel, kẹo bơ cứng và khói củi. Đây là đường cọ truyền thống của Malaysia — chất tạo ngọt đem lại linh hồn cho cendol và nhuộm vô số món kuih một màu hổ phách sẫm. Nó trông mộc mạc mà vị lại phức tạp, và dù hiện diện thường ngày trong ẩm thực Malaysia, cách nó thực sự được làm ra khiến nhiều người bất ngờ: nó không đến từ quả dừa, mà từ *hoa* của cây dừa.

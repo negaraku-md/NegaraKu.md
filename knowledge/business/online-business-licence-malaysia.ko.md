@@ -119,6 +119,7 @@ keywords:
   - "lesen perniagaan online"
   - "e-commerce regulations Malaysia 2024"
   - "online seller legal requirements Malaysia"
+framework: rules
 ---
 
 말레이시아(Malaysia)에는 전자상거래 라이선스라는 것이 존재하지 않습니다. 이를 창설하는 법령도 없고,

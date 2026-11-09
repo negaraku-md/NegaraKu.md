@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "corporate-rescue-malaysia" }
 related: ["close-a-company", "members-voluntary-winding-up", "strike-off-company-malaysia", "corporate-rescue-malaysia", "company-director-requirements"]
 keywords: ["creditors voluntary winding up malaysia", "insolvent sdn bhd", "section 539 companies act 2016", "wrongful trading malaysia", "undue preference section 528", "penggulungan sukarela pemiutang"]
+framework: how-to
 ---
 
 이사회가 회사가 채무를 변제할 수 없다는 것을 깨닫는 순간, 법적 질문은 "이것을 어떻게 닫을

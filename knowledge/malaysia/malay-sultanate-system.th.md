@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "srivijaya" }
 related: ["melaka-sultanate", "langkasuka", "srivijaya", "independence-1957"]
 keywords: ["kesultanan Melayu", "sistem pembesar", "daulat", "waadat", "adat perpatih", "adat temenggung", "Bendahara", "Majlis Raja-Raja", "Yang di-Pertuan Agong", "raja berperlembagaan"]
+framework: explainer
 ---
 
 ลองจินตนาการถึงรัฐที่ไม่มีแฟ้มเอกสาร ไม่มีแบบฟอร์ม ไม่มีหน่วยงานที่มีหมายเลข คำสั่งถูกส่งด้วยลิ้น ความยุติธรรมถูกตัดสินในท้องพระโรง และโครงสร้างทั้งหมดของสังคมขึ้นอยู่กับคำเดียวที่ไม่สามารถแปลได้อย่างแม่นยำเป็นภาษาสมัยใหม่ คือ *เดาลัต (daulat)* นั่นคือโลกของรัฐสุลต่านมลายู ระบบที่จัดชีวิตหลายพันชีวิตตลอดชายฝั่งและแม่น้ำเป็นเวลาหลายศตวรรษ และที่เงาของมันยังคงเห็นได้ในรัฐธรรมนูญของมาเลเซียในปัจจุบัน

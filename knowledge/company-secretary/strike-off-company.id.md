@@ -75,6 +75,7 @@ relations:
   - { rel: "compares-with", to: "members-voluntary-winding-up" }
 related: ["companies-act-2016", "ssm", "members-voluntary-winding-up"]
 keywords: ["strike off syarikat", "seksyen 550 Akta Syarikat 2016", "potong nama syarikat SSM", "syarikat dorman", "pembubaran syarikat", "voluntary dissolution Malaysia"]
+framework: how-to
 ---
 
 Sebuah perusahaan dorman yang sudah lama berhenti berusaha masih terus "hidup" menurut hukum — masih perlu menyampaikan laporan tahunan, masih terpapar penalti, dan direkturnya masih memikul tanggung jawab kepada SSM. Menghapus nama perusahaan dari daftar adalah cara resmi mengakhiri keberadaan itu, tetapi ia hanya terbuka bagi perusahaan yang benar-benar bersih dari aset, utang, dan sengketa.

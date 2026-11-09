@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "data-breach-notification-malaysia" }
 related: ["online-safety-act-malaysia", "debt-recovery-malaysia", "data-breach-notification-malaysia"]
 keywords: ["بلاغ الشرطة", "كيفية تقديم بلاغ للشرطة", "e-Reporting PDRM", "997 NSRC", "999 الطوارئ", "المادة 107 قانون الإجراءات الجنائية"]
+framework: how-to
 ---
 
 سيارتك يُقتحَم بابها، أو تُنتزَع محفظتك، أو ينتقل المال من حسابك دون إذن — في هذه الحالات الثلاث جميعها، فإن أول وثيقة سيطلبها منك كل طرف لاحق، سواء كان شركة تأمين أو بنكًا أو محكمة، هي رقم بلاغك للشرطة. ومعرفة كيفية الحصول عليه بطريقة صحيحة، وبالترتيب الصحيح، توفّر ساعات وتنقذ أحيانًا أموالك.

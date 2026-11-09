@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "transfer-pricing-documentation" }
 related: ["transfer-pricing-documentation", "global-minimum-tax-pillar-two", "permanent-establishment"]
 keywords: ["الإبلاغ القُطري ماليزيا", "التقرير حسب كل بلد", "عتبة CbCR RM3 مليار", "الملف الرئيسي تسعير التحويل", "CbCR Malaysia", "country by country reporting Malaysia", "master file Malaysia transfer pricing", "P.U.(A) 357/2016"]
+framework: rules
 ---
 
 الموعد النهائي الذي يُوقِع المجموعات ليس موعد التقديم. إنه الإخطار، وهو يحلّ في **اليوم الأخير من سنة الإبلاغ المالية** — قبل أن تُقفَل السنة أصلاً، وقبل اثني عشر شهراً كاملة من استحقاق التقرير نفسه.

@@ -101,6 +101,7 @@ relations:
   - { rel: "located-in", to: "johor" }
 related: ["tenaga-nasional", "johor"]
 keywords: ["data centre Malaysia", "Johor data centre", "TNB data centre", "non-AI data centre restriction", "data sovereignty Malaysia", "National Cloud Computing Policy", "Green Lane TNB", "Johor water data centre"]
+framework: explainer
 ---
 
 Trong chưa đầy ba năm, một dải phía nam Johor bên kia causeway đối diện với Singapore đã trở thành một trong những nơi được săn đón nhất trên trái đất để cắm một máy chủ. Các ông lớn đám mây, các nhà khai thác colocation và các công ty khởi nghiệp AI đã đổ vào — và giờ Malaysia đang phát hiện ra rằng các đường dây điện và ống nước bên dưới cuộc bùng nổ có giới hạn.

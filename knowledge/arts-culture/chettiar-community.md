@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "thaipusam", "hinduism-in-malaysia", "estate-tamil-community"]
 keywords: ["செட்டியார் சமூகம்", "நாட்டுக்கோட்டை நகரத்தார்", "நகரத்தார் மலேசியா", "செட்டிநாடு", "கிட்டங்கி", "பினாங்கு செட்டியார் கோயில்", "Chettiar community Malaysia", "Nattukottai Chettiar", "Nagarathar"]
+framework: history-culture
 ---
 
 பினாங்கின் தைப்பூச நாளில், வெள்ளியால் செய்த ஒரு பிரம்மாண்டத் தேர் லேபுவா பினாங்

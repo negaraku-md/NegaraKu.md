@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "pongal" }
 related: ["pongal", "deepavali", "thaipusam", "tamil-in-malaysia", "hinduism-in-malaysia"]
 keywords: ["தமிழ்ப் புத்தாண்டு", "சித்திரை புத்தாண்டு", "புத்தாண்டு", "மலேசியா தமிழ்ப் புத்தாண்டு", "கண்ணி", "மாங்காய் வேப்பம்பூ பச்சடி", "Tamil New Year", "Puthandu"]
+framework: history-culture
 ---
 
 சித்திரை மாதத்தின் முதல் விடியல். பல தமிழ் வீடுகளில் நேற்றிரவே ஒரு தட்டு

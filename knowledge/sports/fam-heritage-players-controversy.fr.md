@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "fifa-eligibility-rules" }
 related: []
 keywords: ["naturalisasi", "pemain warisan", "FAM", "FIFA", "CAS", "Harimau Malaya", "dokumen palsu", "Artikel 22", "Piala Asia 2027"]
+framework: explainer
 ---
 
 Sept joueurs nés à l'étranger ont revêtu le maillot des Harimau Malaya en juin 2025. Moins d'un an plus tard, la plus haute instance d'arbitrage sportif au monde a confirmé que les documents les rendant éligibles pour jouer avec la Malaisie avaient été falsifiés. L'affaire a déclenché une série de procédures disciplinaires de la FIFA, un appel devant le Tribunal arbitral du sport (TAS) et une plainte auprès de la police en Malaisie.

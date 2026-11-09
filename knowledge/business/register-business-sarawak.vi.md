@@ -137,6 +137,7 @@ keywords:
   - "trade licence Sarawak"
   - "LHDN business registration Kuching"
   - "lesen perniagaan Sarawak"
+framework: how-to
 ---
 
 Ở Sarawak bạn không đăng ký một doanh nghiệp. Bạn đăng ký ba thứ, với tối đa ba

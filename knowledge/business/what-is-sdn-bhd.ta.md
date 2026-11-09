@@ -60,6 +60,7 @@ relations:
   - { rel: "explained-in", to: "register-sdn-bhd" }
 related: ["business-structures-malaysia", "sole-prop-vs-sdn-bhd", "sdn-bhd-vs-berhad", "register-sdn-bhd", "share-capital-malaysia", "company-constitution-malaysia"]
 keywords: ["what is sdn bhd", "sdn bhd meaning", "sendirian berhad", "private limited company Malaysia", "apa itu sdn bhd"]
+framework: explainer
 ---
 
 "Sdn Bhd" என்பது **Sendirian Berhad** என்பதன் சுருக்கம்—மலாய் மொழியில் "தனியார், வரையறுக்கப்பட்ட" என்று பொருள். இரு சொற்களுமே முக்கியத்துவம் வாய்ந்தவை, ஒவ்வொன்றும் Companies Act 2016-இன் வெவ்வேறு விதிமுறையைச் சுட்டிக்காட்டுகிறது.

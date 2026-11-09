@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "fixed-deposit-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["PIDM", "deposit insurance", "RM250000", "takaful protection", "TIPS", "Perbadanan Insurans Deposit Malaysia", "Malaysia Deposit Insurance Corporation Act 2011", "insurance benefits protection"]
+framework: explainer
 ---
 
 நாளை ஒரு மலேசிய வங்கி வீழ்ச்சியடைந்தால், உங்கள் சேமிப்புக் கணக்கில் உள்ள பணம் அதனுடன் மறைந்துவிடாது. அதில் RM250,000 வரை PIDM என்று அழைக்கப்படும் அரசாங்கத்தால் இயக்கப்படும் ஒரு பாதுகாப்புத் திட்டத்தால் உத்தரவாதம் அளிக்கப்படுகிறது — இதற்கு நீங்கள் ஒருபோதும் பதிவு செய்யவில்லை, ஒருபோதும் கட்டணம் செலுத்தவில்லை, மேலும் மிகவும் சாத்தியமாக அதை ஒருபோதும் கவனிக்கவில்லை.

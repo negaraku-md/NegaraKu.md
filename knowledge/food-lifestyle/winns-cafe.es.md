@@ -74,6 +74,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#WinnsCafe", "#Peranakan", "#Nyonya", "#Penang", "#BibGourmand"]
+framework: profile
 ---
 
 Penang es el viejo corazón de la cocina de los chinos de los Estrechos, y Winn's

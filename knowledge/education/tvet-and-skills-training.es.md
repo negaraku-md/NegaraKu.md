@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "hrd-corp-levy-malaysia" }
 related: ["public-vs-private-universities", "hrd-corp-levy-malaysia"]
 keywords: ["TVET Malaysia", "Sijil Kemahiran Malaysia", "SKM", "JPK Jabatan Pembangunan Kemahiran", "ILP Institut Latihan Perindustrian", "kolej komuniti Malaysia", "kolej vokasional", "politeknik Malaysia", "Akta 652", "NOSS", "DKM DLKM", "ADTEC JMTI"]
+framework: explainer
 ---
 
 Muchos estudiantes de Form 3 y sus padres solo ven un camino después de la

@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "pcb-mtd-malaysia" }
 related: ["payroll-rates-deadlines-malaysia", "payroll-compliance-malaysia", "epf-socso-guide"]
 keywords: ["الموعد النهائي Form E ماليزيا", "Form E deadline Malaysia", "Form EA 28 فبراير", "تقديم CP8D", "الموعد النهائي e-Data Praisi", "Borang E LHDN majikan", "e-CP8D"]
+framework: how-to
 ---
 
 في كل فبراير، يمتلئ صندوق بريد رواتب في مكانٍ ما بماليزيا بالسؤال نفسه: *لقد سلّمنا

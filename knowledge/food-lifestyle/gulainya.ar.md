@@ -66,6 +66,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["Gulainya", "Peranakan", "BibGourmand", "MichelinGuideMalaysia", "KualaLumpur"]
+framework: profile
 ---
 
 Gulainya مطعم بيرانكان يقع في Bukit Damansara بكوالالمبور، ويظهر في

@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["federal-constitution", "independence-1957", "formation-of-malaysia-1963", "parliament"]
 keywords: ["Rukun Negara", "lima prinsip Rukun Negara", "ikrar Rukun Negara", "Majlis Perundingan Negara", "MAGERAN", "Pengisytiharan Diraja 1970"]
+framework: history-culture
 ---
 
 Di dalam Fail Jawatankuasa Rukun Negara di Arkib Negara Malaysia terdapat sepucuk surat bertarikh 19 Mac 1970. Ia memaklumkan bahawa mesyuarat pertama Jawatankuasa Rukun Negara akan diadakan pada 31 Mac 1970, jam 10.00 pagi, di Bilik Gerakan, Perbendaharaan Malaysia. Tiga belas nama dalam senarai edaran, empat lagi menerima salinan.

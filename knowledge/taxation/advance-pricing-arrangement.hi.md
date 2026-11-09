@@ -113,6 +113,7 @@ relations:
   - { rel: "affects", to: "permanent-establishment" }
 related: ["transfer-pricing-documentation", "cbcr-and-master-file", "dta-network", "permanent-establishment"]
 keywords: ["अग्रिम मूल्य-निर्धारण व्यवस्था मलेशिया", "advance pricing arrangement malaysia", "apa malaysia lhdn", "द्विपक्षीय APA मलेशिया", "APA आवेदन शुल्क मलेशिया", "pu a 166 2023", "APA रोलबैक मलेशिया"]
+framework: how-to
 ---
 
 अधिकांश सलाहकार अग्रिम मूल्य-निर्धारण व्यवस्था का वर्णन एक मेन्यू की तरह करते हैं — एकपक्षीय यदि आप इसे सस्ता और तेज़ चाहते हैं, द्विपक्षीय यदि आप संधि की सुरक्षा चाहते हैं। मलेशिया में कोई मेन्यू नहीं है। Income Tax (Advance Pricing Arrangement) Rules 2023, P.U.(A) 166/2023, का नियम 2(2) आपके लिए तय करता है, और यह एक ही तथ्य पर तय करता है: क्या जिस देश में आपका संबद्ध पक्ष बैठा है, उसका मलेशिया के साथ Income Tax Act 1967 की धारा 132 के तहत कोई व्यवस्था है।

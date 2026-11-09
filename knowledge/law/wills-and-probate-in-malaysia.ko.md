@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "estate-planning-in-malaysia" }
 related: []
 keywords: ["wasiat", "probet", "pusaka", "Akta Pembahagian 1958", "Akta Wasiat 1959", "surat kuasa mentadbir", "bukan Islam"]
+framework: explainer
 ---
 
 유언 없이 재산을 남긴다는 것이 여러분의 가족이 누가 무엇을 받을지를 자유롭게 결정할 수 있음을 뜻하지는 아니합니다. 말레이시아에서는 경직된 법적 산식이 대신 작동하며 — 그것이 여러분의 뜻과 맞지 아니할 수 있습니다. 비무슬림에게, 세 개의 법이 모든 것을 정합니다. 즉 유언법 1959(Wills Act 1959)(유언을 만드는 방법), 검인·유산관리법 1959(Probate and Administration Act 1959)(유산이 관리되는 방법), 그리고 분배법 1958(Distribution Act 1958)(유언이 없을 때 누가 상속하는지)입니다.

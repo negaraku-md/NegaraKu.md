@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-new-year", "population-composition", "religion-statistics", "hungry-ghost-festival"]
 keywords: ["中秋节", "月饼节", "灯笼节", "月饼", "冰皮月饼", "灯笼", "嫦娥奔月", "赏月", "柚子", "团圆", "农历八月十五", "马来西亚华人", "Mid-Autumn Festival Malaysia", "Mooncake Festival"]
+framework: history-culture
 ---
 
 Khi màn đêm buông xuống vào ngày rằm tháng Tám âm lịch, sảnh giữa của trung tâm thương mại treo đầy lồng đèn đỏ rực, còn ở công viên khu dân cư, từng tốp hai ba đứa trẻ rước những chiếc lồng đèn thắp sáng đi lại. Trên bàn ăn ở nhà, một hộp bánh trung thu cắt thành từng miếng nhỏ đặt cạnh một ấm trà nóng, bên cạnh là một quả bưởi đã bóc vỏ. Cả nhà khiêng ghế ra ngoài, ngẩng đầu ngắm vầng trăng tròn nhất trong năm — đó là một đêm Trung Thu điển hình của một gia đình người Hoa Malaysia.

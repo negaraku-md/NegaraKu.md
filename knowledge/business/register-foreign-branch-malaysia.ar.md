@@ -126,6 +126,7 @@ keywords:
   - "section 561 Companies Act 2016"
   - "foreign company local agent Malaysia"
   - "foreign company annual return Malaysia"
+framework: how-to
 ---
 
 رسم التسجيل هو الجزء الذي يحسبه الجميع في الميزانية. وليس هو الجزء الذي يؤلم.

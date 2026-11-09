@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "sst-expansion-2025" }
 related: ["sst-expansion-2025"]
 keywords: ["private hospital Malaysia", "private hospital bill", "specialist consultation fee Malaysia", "guarantee letter hospital", "hospital deposit Malaysia", "itemised bill private hospital", "Act 586", "National Specialist Register", "private healthcare costs Malaysia"]
+framework: explainer
 ---
 
 คุณเข้าไปเพื่อหัตถการหนึ่งอย่างและเดินออกมาพร้อมกับสิ่งที่รู้สึกเหมือนใบเรียกเก็บเงินสองใบที่เย็บติดกัน ใบหนึ่งจากศัลยแพทย์ ใบหนึ่งจากโรงพยาบาล ทั้งสองแทบไม่เท่ากันในขนาด และแทบไม่มีใครอธิบายว่าเหตุใดจึงแยกกันตั้งแต่แรก

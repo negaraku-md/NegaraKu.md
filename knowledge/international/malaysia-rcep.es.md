@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "asean-free-trade-area" }
 related: ["miti", "malaysia-cptpp"]
 keywords: ["RCEP", "acuerdo comercial de Malasia", "reglas de origen", "Form RCEP", "eliminación de aranceles", "ASEAN", "MITI", "acuerdo de libre comercio"]
+framework: explainer
 ---
 
 Firme un certificado de origen y una mercancía fabricada en Malasia podrá circular libre de aranceles por un mercado que se extiende desde Auckland hasta Pekín y Kuala Lumpur. Eso, en una sola línea, es lo que el RCEP cambió para los exportadores malasios.

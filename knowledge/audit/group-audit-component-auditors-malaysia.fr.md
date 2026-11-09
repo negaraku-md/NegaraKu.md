@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "malaysian-institute-of-accountants" }
 related: ["malaysian-institute-of-accountants"]
 keywords: ["ISA 600", "group audit", "component auditor", "group engagement partner", "Malaysia subsidiary audit", "MIA", "audit de groupe", "auditeur de composant", "risque d'agrégation"]
+framework: explainer
 ---
 
 Une société mère allemande consolide sa branche commerciale de Kuala Lumpur, mais l'associé d'audit du groupe à Francfort n'a jamais mis les pieds en Malaisie et ne lit pas les livres comptables locaux. Quelqu'un en Malaisie réalise les travaux de terrain ; pourtant, la signature apposée sur l'opinion du groupe reste celle du seul associé du groupe. Cette répartition est exactement ce que la norme d'audit de groupe est conçue pour régir.

@@ -76,6 +76,7 @@ social:
     - SoleProprietor
     - DoingBusinessInMalaysia
     - MalaysiaTax
+framework: how-to
 ---
 
 Đăng ký một doanh nghiệp cá thể hoặc hợp danh mất mười phút trên cổng ezBiz, nên hầu hết mọi người giả định rằng việc đóng một doanh nghiệp cũng không chính thức như vậy — bạn ngừng kinh doanh và nó lặng lẽ hết hiệu lực. Không phải vậy. Một doanh nghiệp đã đăng ký theo **Registration of Businesses Act 1956** vẫn ở trên sổ đăng ký của SSM cho đến khi bạn chủ động chấm dứt nó, và khi nó nằm đó nó vẫn cần gia hạn, phơi bày bạn trước các khoản phạt, và có thể bị Cơ quan Đăng ký thu hồi. Có một cách đúng đắn để đóng nó, nó miễn phí, và có một đồng hồ áp lên nó.

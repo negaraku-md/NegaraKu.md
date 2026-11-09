@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["tamil-in-malaysia", "deepavali", "thaipusam"]
 keywords: ["Bharatanatyam", "Indian classical dance Malaysia", "Temple of Fine Arts", "Sutra Dance Theatre", "Ramli Ibrahim", "Malaysian Indian dance", "nritta nritya", "Carnatic music", "Malaysia Barathanatyam Dance Association"]
+framework: history-culture
 ---
 
 ஒரு நடனக் கலைஞரின் பாதங்கள் விரைவான, துல்லியமான வடிவத்தில் தரையைத் தட்டுகின்றன. மிருதங்க மேளத்தின் தாளத்திற்கு ஏற்ப மணிகள் ஒலிக்கின்றன. அவரது கைகள் ஒரு வடிவத்தை உருவாக்குகின்றன — ஒரு மான், ஒரு தாமரை, ஒரு கேள்வி — அவரது கண்கள் அதைத் தொடர்கின்றன; பின்னர் பார்வையாளர்கள் வெறுமனே பார்ப்பதற்கு அல்ல, உணர்வதற்கே உரிய ஒரு உணர்ச்சியுடன் அவரது முகம் பதிலளிக்கிறது. பின்னர் தாளம் நிறைவடைகிறது, அவர் ஒரு சிற்பம் போன்ற தோற்றத்தில் நிலைபெறுகிறார், இசை மௌனத்தில் அடங்குகிறது.

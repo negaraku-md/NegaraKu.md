@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "foreign-worker-levy-malaysia" }
 related: ["employment-act-1955", "foreign-worker-levy-malaysia", "minimum-wage-malaysia"]
 keywords: ["pembantu rumah asing", "foreign domestic helper", "FDH Malaysia", "maid Malaysia", "MoU Indonesia pembantu rumah", "bon keselamatan pekerja asing", "pengecualian KWSP pembantu rumah"]
+framework: rules
 ---
 
 ஒரு வெளிநாட்டு வீட்டு உதவியாளர் மலேசியாவுக்குள் நுழைவது, தொழிற்சாலை அல்லது தோட்டத் தொழிலாளரிடமிருந்து முற்றிலும் வேறுபட்ட வாசல் வழியாகவே — துறை ஒதுக்கீடு (quota) வழியாக அல்ல, வெளிநாட்டுத் தொழிலாளர்களுக்கான ஒரே இடம் மையம் (One-Stop Centre) வழியாக அல்ல, தொழிலாளர் சட்டத்தின் முழுப் பாதுகாப்பின் கீழும் அல்ல. இந்த ஒழுங்குமுறை தனித்து நிற்கிறது; சாதாரணத் தொழிலாளரைப் பணியமர்த்துவதைப் போலவே இதன் செயல்முறையும் இருக்கும் என எண்ணும் முதலாளிகள் அடிக்கடி தவறிழைக்கிறார்கள்.

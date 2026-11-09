@@ -130,6 +130,7 @@ keywords:
   - "DBKK business licence"
   - "SSM Sabah sole proprietorship"
   - "business registration Kota Kinabalu"
+framework: how-to
 ---
 
 Setiap panduan kebangsaan untuk mendaftar perniagaan di Malaysia menyuruh anda membuka

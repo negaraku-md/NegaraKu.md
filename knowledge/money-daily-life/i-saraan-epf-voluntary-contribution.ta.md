@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "str-cash-aid" }
 related: ["epf", "epf-akaun-fleksibel", "epf-socso-gig-workers-self-employed", "str-cash-aid"]
 keywords: ["i-Saraan", "i-Saraan Plus", "KWSP i-Saraan", "EPF voluntary contribution", "self-employed EPF", "gig worker retirement savings", "EPF matching incentive", "caruman sukarela KWSP"]
+framework: explainer
 ---
 
 நீங்கள் ஒரு e-hailing செயலிக்காக ஓட்டுகிறீர்கள், ஒரு கடையில் உணவு விற்கிறீர்கள்,

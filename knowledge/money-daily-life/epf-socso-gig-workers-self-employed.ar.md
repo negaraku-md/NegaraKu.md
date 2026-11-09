@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "str-cash-aid" }
 related: ["i-saraan-epf-voluntary-contribution", "epf-socso-employees", "income-tax-individuals", "str-cash-aid"]
 keywords: ["i-Saraan", "i-Saraan Plus", "KWSP", "PERKESO", "Lindung Kendiri", "عامل العمل المؤقت", "pekerja gig", "العمل لحساب الخاص", "قانون عمال العمل المؤقت 2025", "Akta Pekerja Gig 2025", "Akta 872", "SKSPS", "freelancer", "مستقل"]
+framework: explainer
 ---
 
 أمضِ حياتك سائقًا لمنصّات التوصيل الذكي أو متلقيًا أعمالًا مستقلة، وثمة أمر لا يحدث تلقائيًا أبدًا: لا أحد يقتطع من أجرك لصالح EPF أو SOCSO. فبالنسبة إلى الموظفين براتب، تحدث تلك الاشتراكات خلف الكواليس كل شهر. أما بالنسبة إليك بوصفك عاملًا لحسابك الخاص، فتلك الشبكة الواقية لا توجد حتى تبنيها بنفسك — وفي 2026، تحوّل جزء منها لتوّه من اختياري إلى إلزامي.

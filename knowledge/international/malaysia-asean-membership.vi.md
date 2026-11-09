@@ -129,6 +129,7 @@ relations:
   - { rel: "related-to", to: "rcep-malaysia" }
 related: []
 keywords: ["ASEAN", "Malaysia ASEAN", "Deklarasi Bangkok", "Piagam ASEAN", "Komuniti ASEAN", "pengerusi ASEAN 2025", "Tun Abdul Razak", "Timor-Leste ASEAN"]
+framework: explainer
 ---
 
 Vào ngày 8 tháng 8 năm 1967, năm người đàn ông tụ họp tại đại sảnh của tòa nhà Bộ Ngoại giao ở Bangkok và ký một văn kiện dài hai trang. Một trong số họ, Phó Thủ tướng Malaysia Tun Abdul Razak Hussein, đang đặt Malaysia vào một tổ chức mà về sau trở thành khung xương chính của chính sách đối ngoại quốc gia này trong gần sáu thập kỷ — và là tổ chức mà chính Malaysia làm chủ tịch vào năm 2025.

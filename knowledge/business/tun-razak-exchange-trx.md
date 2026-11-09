@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "investment-agency-directory" }
 related: ["doing-business-kuala-lumpur", "principal-hub-malaysia", "labuan-company-vs-sdn-bhd", "investment-agency-directory"]
 keywords: ["Tun Razak Exchange", "TRX Kuala Lumpur", "Exchange 106", "Malaysia international financial centre", "TRX Marquee incentives", "The Exchange TRX", "pusat kewangan antarabangsa TRX", "TRX City Sdn Bhd"]
+framework: profile
 ---
 
 Rise out of the Tun Razak Exchange MRT station and the skyline tells you this was planned, not grown. A cluster of towers on 70 acres at the eastern edge of Kuala Lumpur's centre, one of them punching past 450 metres, laid out around a park that sits on the roof of a mall. This is Malaysia's attempt to build a financial district from scratch.

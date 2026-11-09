@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "directors-duties" }
 related: ["directors-duties", "capital-reduction", "share-capital-malaysia", "loans-to-directors", "corporate-tax-rates"]
 keywords: ["dividend Malaysia Sdn Bhd", "section 131 Companies Act 2016", "solvency test dividend", "unlawful dividend director liability", "distribution out of profits"]
+framework: rules
 ---
 
 一家盈利的 Sdn Bhd 拥有 RM800,000 保留盈利，在十二月向其两名股东派发了 RM600,000

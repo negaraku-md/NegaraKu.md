@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "employment-pass-malaysia" }
 related: ["moving-to-malaysia-first-steps", "imigresen", "employment-pass-malaysia", "work-passes-malaysia", "opening-bank-account"]
 keywords: ["Dependant Pass Malaysia", "Long-Term Social Visit Pass", "LTSVP Malaysia", "Employment Pass family", "sponsor spouse Malaysia visa", "parents visa Malaysia expatriate", "Malaysia family visa options"]
+framework: explainer
 ---
 
 ผู้ถือใบอนุญาตทำงาน (Employment Pass) ที่ย้ายมามาเลเซียสามารถนำคู่สมรสและบุตรเล็กมาด้วยใบอนุญาตเดียวได้ ส่วนบิดามารดาของพวกเขา หรือบุตรที่เพิ่งอายุครบ 18 ปี ต้องใช้ใบอนุญาตที่แตกต่างออกไปโดยสิ้นเชิง ผู้ถือหลักคนเดียวกัน ครัวเรือนเดียวกัน แต่เป็นสองหมวดหมู่ตรวจคนเข้าเมืองที่แยกกัน — และการสับสนระหว่างทั้งสองเป็นวิธีที่พบบ่อยที่สุดที่คำร้องอุปถัมภ์ครอบครัวหยุดชะงัก

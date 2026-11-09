@@ -91,6 +91,7 @@ verificationNeeded:
   - "L'étymologie de « kuih » (généralement rattachée au koé, 粿, du min méridional / hokkien) — à confirmer auprès d'une source linguistique ou lexicographique plutôt que des médias culinaires."
   - "L'attribution régionale des kuih sucrés par rapport aux salés à des États précis (p. ex. plus sucrés dans les États du nord, davantage de kuih salés au centre et au sud de la péninsule) — rapportée par Wikipédia mais qui mériterait d'être confirmée auprès d'une source du patrimoine culinaire malaisien."
   - "Si « onde-onde » et « buah melaka » désignent exactement le même kuih ou des variantes régionales — l'usage varie et les sources ne sont pas tout à fait cohérentes ; à confirmer auprès d'une source locale."
+framework: history-culture
 ---
 
 Passez devant un étal de kuih le matin et la vitrine ressemble à une boîte de

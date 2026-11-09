@@ -75,6 +75,7 @@ relations:
   - { rel: "compares-with", to: "members-voluntary-winding-up" }
 related: ["companies-act-2016", "ssm", "members-voluntary-winding-up"]
 keywords: ["شطب اسم الشركة", "strike off syarikat", "المادة 550 قانون الشركات 2016", "seksyen 550 Akta Syarikat 2016", "شطب الشركة من سجل SSM", "الشركة الخاملة", "syarikat dorman", "حَلّ الشركة", "voluntary dissolution Malaysia"]
+framework: how-to
 ---
 
 الشركة الخاملة التي توقفت عن التداول منذ زمن طويل تظل «حيّة» قانونًا — فهي لا تزال ملزَمة بتقديم الإقرارات السنوية، ولا تزال معرَّضة للغرامات، ولا يزال مديروها يتحملون مسؤوليات تجاه لجنة الشركات الماليزية (SSM). وشطب اسم الشركة من السجل هو الطريقة الرسمية لإنهاء ذلك الوجود، غير أنه متاح فقط للشركات الخالية فعليًا من الأصول والديون والنزاعات.

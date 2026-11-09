@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "sector-licence-directory" }
 related: ["sector-licence-directory", "manufacturing-licence-malaysia"]
 keywords: ["anti-dumping duty malaysia", "countervailing duty malaysia", "act 504", "miti trade remedies", "anti dumping steel malaysia", "import hs code duty malaysia", "trade remedies petition malaysia"]
+framework: how-to
 ---
 
 ある輸入者が、ベトナムから来た亜鉛メッキ鋼コイルの一船を通関し、通常の輸入税を支払った。

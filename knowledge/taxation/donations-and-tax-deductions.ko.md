@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["waqf-islamic-endowment-malaysia", "income-tax-in-malaysia", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["tax deductible donation Malaysia", "section 44(6) approved institution", "10% aggregate income donation cap", "check LHDN approved charity", "derma potongan cukai"]
+framework: rules
 ---
 
 영수증에는 *제44(6)항에 따라 면세*라고 쓰여 있습니다. 그 문장은 LHDN이 아니라 자선단체가 인쇄한 것이며, 승인이 유효한 동안에만 참입니다. 승인은 만료됩니다. LHDN 자체의 확인기에는 이에 대한 상태 값이 있습니다 — **TAMAT TEMPOH KELULUSAN**(승인 만료)과 함께 **KELULUSAN DITARIK BALIK**(승인 철회)입니다. 그 공백에 기부하면, 기부가 아무리 진정하더라도 공제는 사라집니다.

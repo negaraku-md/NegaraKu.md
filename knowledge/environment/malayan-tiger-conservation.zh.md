@@ -78,6 +78,7 @@ relations:
   - { rel: "located-in", to: "taman-negara" }
 related: []
 keywords: ["Malayan tiger", "Harimau Malaya", "Panthera tigris jacksoni", "Critically Endangered", "National Tiger Survey", "Perhilitan", "MYCAT", "tiger conservation", "Al-Sultan Abdullah Royal Tiger Reserve"]
+framework: explainer
 ---
 
 老虎出现在马来西亚的国徽上，但这种动物如今已跻身世界上最稀有的大型猫科动物之列。当马来西亚完成首次全国野生老虎普查时，结果比许多人预期的还要低：不到150只。

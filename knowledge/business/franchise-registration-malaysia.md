@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: []
 keywords: ["franchise registration malaysia", "franchise act 1998", "MyFEX 2.0", "franchisor registration", "franchisee registration", "franchise disclosure document", "section 6 franchise act", "section 54 approval"]
+framework: how-to
 ---
 
 You cannot legally offer a franchise in Malaysia the way you would in most of the world — first quietly signing up a few outlets, then formalising things later. The law flips that order. Registration comes before the first offer, and since 2022 it applies to franchisees too.

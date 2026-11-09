@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "corporate-rescue-malaysia" }
 related: ["close-a-company", "members-voluntary-winding-up", "strike-off-company-malaysia", "corporate-rescue-malaysia", "company-director-requirements"]
 keywords: ["creditors voluntary winding up malaysia", "insolvent sdn bhd", "section 539 companies act 2016", "wrongful trading malaysia", "undue preference section 528", "penggulungan sukarela pemiutang"]
+framework: how-to
 ---
 
 ขณะที่คณะกรรมการตระหนักว่าบริษัทไม่สามารถชำระหนี้ได้ คำถามทางกฎหมายหยุดเป็น "เราจะปิดสิ่งนี้อย่างไร" และกลายเป็น "เราจะหยุดทำอะไรวันนี้" ทุกคำสั่งซื้อเพิ่มเติมที่วางจากจุดนั้นเป็นหนี้ที่กรรมการอาจต้องรับผิดชอบส่วนบุคคล

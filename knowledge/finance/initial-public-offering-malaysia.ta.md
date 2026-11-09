@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "investing-in-bursa" }
 related: ["securities-commission-malaysia"]
 keywords: ["IPO malaysia", "list on bursa malaysia", "bursa listing requirements", "main market ace market leap market", "how to go public malaysia", "listing criteria bursa", "bumiputera equity requirement IPO"]
+framework: explainer
 ---
 
 ஒரு நிறுவனத்தைப் பொதுவெளிக்குக் கொண்டுவருவது, அதன் உரிமையாளர்கள் எடுக்கும் மிகப்பெரிய நிதி முடிவுகளில் ஒன்றாகும் — அது நிரந்தர மூலதனத்தைத் திரட்டுகிறது, வணிகத்திற்கு ஒரு சந்தை விலையை நிர்ணயிக்கிறது, மேலும் பங்குதாரர்களுக்கு வெளியேறும் வழியை வழங்குகிறது. அது அதே சமயம் நிறுவனத்தை, பல நிறுவனர்களை ஆச்சரியப்படுத்தும் அளவிலான ஆய்வுக்கும் செலவுக்கும் உட்படுத்துகிறது. மலேசியாவில், ஒரு பொதுப் பங்கு வெளியீடு (IPO) என்பது Bursa Malaysia-வில் பட்டியலிடுவதைக் குறிக்கிறது, மேலும் நீங்கள் எடுக்கும் வழி முழுக்க முழுக்க உங்கள் நிறுவனம் எவ்வளவு பெரியது மற்றும் எவ்வளவு நிரூபிக்கப்பட்டது என்பதைப் பொறுத்தது.

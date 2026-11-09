@@ -78,6 +78,7 @@ relations:
   - { rel: "administered-by", to: "employment" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage"]
 keywords: ["sabah labour ordinance", "sarawak labour ordinance", "cap 67", "cap 76", "east malaysia employment law", "jtk sabah", "jtk sarawak"]
+framework: explainer
 ---
 
 “Malaysia employment law” என்று தேடுங்கள் — நீங்கள் பெறும் ஒவ்வொரு முடிவும் தீபகற்ப

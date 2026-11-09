@@ -78,6 +78,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["CharKoayKak", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 char koay kak は屋台の通好みの料理です — 吼えるような中華鍋で焦がしたライスケーキの

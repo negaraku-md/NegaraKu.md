@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "prescribed-activities-eia-order-2015" }
 related: ["environmental-quality-act-1974"]
 keywords: ["EIA Malaysia", "environmental impact assessment", "prescribed activities", "Section 34A", "Order 2015", "Department of Environment", "First Schedule", "Second Schedule", "public display"]
+framework: rules
 ---
 
 在错误类型的项目上未取得批准就动工，你面临的不仅是罚款——你可能被迫停工，而资金却闲置不用。在马来西亚，一份界定明确的「订明活动」清单，在环境影响评估（EIA）报告提交给环境总监并获其批准之前，均不得合法开始。对开发商和投资者而言，EIA不是规划末期的文书工作，而是起点处的一道关卡。

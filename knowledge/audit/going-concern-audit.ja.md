@@ -71,6 +71,7 @@ relations:
   - { rel: "affects", to: "audit-opinion-types" }
 related: ["statutory-audit-process", "audit-opinion-types", "emphasis-of-matter-kam", "audit-preparation-checklist"]
 keywords: ["going concern Malaysia audit", "material uncertainty related to going concern", "ISA 570 Malaysia", "management representation letter Malaysia", "ISA 580 written representations"]
+framework: explainer
 ---
 
 マレーシアの監査の最後に、読まれないまま署名される文書が2つある。継続企業評価と

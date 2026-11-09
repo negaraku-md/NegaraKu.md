@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["selangor", "penang", "religion-statistics", "article-3-religion"]
 keywords: ["थाईपुसम मलेशिया", "Thaipusam Malaysia", "बाटू केव्स थाईपुसम", "Batu Caves Thaipusam", "कावड़ी", "kavadi", "रजत रथ जुलूस", "silver chariot procession", "भगवान मुरुगन", "Lord Murugan", "272 सीढ़ियाँ", "272 steps", "paal kudam", "वॉटरफ़ॉल हिलटॉप मंदिर पेनांग", "Thaipusam public holiday"]
+framework: history-culture
 ---
 
 भोर से पहले, कुआलालंपुर के उत्तरी छोर पर एक चूना-पत्थर की पहाड़ी ध्वनियों से भर जाती है — ढोल, मंत्रोच्चार, पत्थर पर लाखों नंगे पैरों की सरसराहट। 272 सीढ़ियों की सीढ़ी के आधार पर चौदह मंज़िला इमारत से भी ऊँची एक स्वर्ण आकृति खड़ी है। चढ़ाई शुरू हो चुकी है, और यह लगभग पूरे दिन नहीं रुकेगी।

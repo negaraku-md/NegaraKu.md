@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-dialects", "chinese-clan-associations", "chinese-cemeteries", "chinese-new-villages", "population-composition"]
 keywords: ["帮群", "方言群", "籍贯", "福建帮", "广府帮", "客家帮", "潮州帮", "海南帮", "会馆", "义山", "马来西亚华人", "海南咖啡", "锡矿", "Chinese bang communities Malaysia"]
+framework: history-culture
 ---
 
 บนถนนเก่าของปีนัง ร้านรวงที่ค้ำจุนหน้าร้านทั้งแถวส่วนใหญ่คือกิจการของชาวฮกเกี้ยน; ในเมืองที่รุ่งเรืองขึ้นเพราะดีบุกอย่างกัวลาลัมเปอร์และอีโปห์ เหมืองแร่และสมาคมช่างเต็มไปด้วยชาวกวางฟู่และชาวแคะ; และไม่ว่าคุณจะก้าวเข้าเมืองใด ร้านกาแฟเก่าที่ขายกาแฟไหหลำและขนมปังปิ้งทาเนยกับสังขยานั้น หลังเคาน์เตอร์มักยืนอยู่ด้วยชาวไหหลำ

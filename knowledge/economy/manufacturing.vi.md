@@ -82,6 +82,7 @@ faq:
     a: Không — đó là một trích dẫn sai phổ biến. Khảo sát Việc làm Hàng quý của DOSM chỉ tính các cơ sở khu vực tư nhân đã đăng ký, 9.21 triệu việc làm trong quý 4 năm 2025, và con số 2.54 triệu của ngành chế tạo chiếm 27.5% của tập con đó. Khảo sát này loại trừ khu vực công, người tự làm chủ và việc làm phi chính thức, nên tỷ trọng của ngành chế tạo trong toàn bộ người có việc làm thực tế thấp hơn đáng kể. Với câu hỏi đó hãy dùng Khảo sát Lực lượng Lao động (Labour Force Survey).
   - q: Nếu tỷ trọng GDP đi ngang, chẳng phải ngành chế tạo chỉ mắc kẹt làm công việc lắp ráp giá trị thấp sao?
     a: 'Dữ liệu năng suất cho thấy điều ngược lại. Giá trị gia tăng của ngành chế tạo đạt RM59.0 mỗi giờ làm việc trong năm 2025 so với RM42.0 ở dịch vụ — cao hơn khoảng 40% mỗi giờ, và cao hơn khoảng một phần ba so với mức trung bình quốc gia RM44.5. Tỷ trọng đi ngang một phần là do số học: dịch vụ tăng nhanh hơn (5.4% so với 4.5% của chế tạo), nên tỷ trọng của ngành nhỏ hơn giảm dù sản lượng của nó tăng. Cơ cấu bên trong ngành chế tạo đang dịch chuyển, điều mà tỷ trọng GDP không thể thể hiện.'
+framework: explainer
 ---
 
 ## Tổng quan nhanh

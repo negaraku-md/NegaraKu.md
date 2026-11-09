@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "equity-crowdfunding-p2p-malaysia" }
 related: ["kl20-startup-ecosystem", "securities-commission-malaysia"]
 keywords: ["venture capital malaysia", "private equity malaysia", "VCC VCMC malaysia", "SC registration venture capital", "raise funding startup malaysia", "MAVCAP", "Penjana Kapital", "VC tax incentive malaysia"]
+framework: explainer
 ---
 
 대부분의 말레이시아 기업은 유보 이익, 은행 당좌차월, 또는 중소기업 대출로 성장합니다. 작지만 중요한 한 그룹은 대신 다른 사람의 지분으로 성장합니다 — 사업의 한 조각을 사서, 규모로 밀어붙이고, 수년 뒤 배수로 그 조각을 파는 펀드입니다. 그것이 벤처캐피털과 사모펀드가 하는 일이며, 말레이시아는 이 활동을 미국처럼 작동한다고 가정하는 사람들을 놀라게 하는 방식으로 규제하고, 자금을 대고, 과세합니다.

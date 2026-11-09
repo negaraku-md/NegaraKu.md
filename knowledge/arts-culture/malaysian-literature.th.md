@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["dewan-bahasa-dan-pustaka", "bahasa-melayu"]
 keywords: ["sastera Malaysia", "Sasterawan Negara", "Anugerah Sastera Negara", "sastera kebangsaan", "Dewan Bahasa dan Pustaka", "Sejarah Melayu", "hikayat", "syair"]
+framework: history-culture
 ---
 
 ก่อนจะมีนวนิยายและก่อนจะมีสำนักงานภาษา นักเล่าเรื่องคนหนึ่งก็ได้ประพันธ์วีรบุรุษมลายูในลานราชสำนักมะละกาแล้ว จากประเพณีมุขปาฐะนั้นเองที่งอกเงยหนึ่งในมรดกวรรณกรรมที่มั่งคั่งที่สุดในภูมิภาคนี้ — ประเพณีที่ปัจจุบันเฉลิมฉลองด้วยตำแหน่งของชาติ เงินหลายแสนริงกิต และที่นั่งอันทรงเกียรติในอารยธรรมของชาติ

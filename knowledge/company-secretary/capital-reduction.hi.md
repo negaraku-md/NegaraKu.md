@@ -115,6 +115,7 @@ relations:
   - { rel: "related-to", to: "dividends-and-solvency" }
 related: ["dividends-and-solvency", "share-allotment", "share-capital-malaysia", "written-resolutions", "resolution-notice-periods"]
 keywords: ["पूँजी में कमी मलेशिया", "capital reduction Malaysia", "शोधक्षमता कथन धारा 117", "solvency statement section 117", "शेयर पूँजी कम करना Sdn Bhd", "धारा 116 न्यायालय पुष्टि", "लेनदार आपत्ति छह सप्ताह"]
+framework: decision
 ---
 
 मलेशियाई सचिवीय सामग्री प्रदत्त पूँजी को एक स्थिर संख्या की तरह मानती है — कोई चीज़ जिसे

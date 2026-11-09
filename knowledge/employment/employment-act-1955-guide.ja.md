@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-labour-ordinance" }
 related: ["labour-law-map-malaysia", "employment-act-coverage", "working-hours-overtime-malaysia", "minimum-wage-malaysia"]
 keywords: ["employment act 1955", "employment act malaysia", "act 265", "employment amendment act 2022", "malaysia labour law", "45 hour week malaysia"]
+framework: data-reference
 ---
 
 マレーシアの人事ブログをいくつ開いても、1955年雇用法（Employment Act 1955、Act 265）はいまだに、低賃金労働者向けの法令として、RM2,000の適用ラインと48時間労働週とともに説明されている。この二つの数字は、いずれもすでに失効している。2022年雇用（改正）法（Employment (Amendment) Act 2022、Act A1651）は、**2023年1月1日**をもってAct 265を書き改め、司法長官府（Attorney General's Chambers）が発行する再版は、いまや*2023年1月1日現在*と題されている。それでもなお、上位に並ぶ解説記事の大半は「2023年に何が変わったか」というニュースサイクルのままだ——一度書かれたきり、二度と見直されていない。

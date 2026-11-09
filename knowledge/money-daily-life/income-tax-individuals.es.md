@@ -78,6 +78,7 @@ faq:
     a: 'Sí, una vez que tus ingresos superan el umbral de registro. La retención mensual (PCB/MTD) es solo una estimación que se descuenta por adelantado. La declaración anual es la regularización: ahí se solicitan las desgravaciones, se declaran otros ingresos y se liquida la situación real, ya sea que eso signifique una devolución o un pago adicional. Tener un expediente fiscal y presentar la declaración es obligatorio con independencia de que tu empleador ya retenga impuestos cada mes.'
   - q: Ya tengo un Número de Identificación Fiscal (Tax Identification Number); ¿puedo simplemente iniciar sesión en MyTax y presentar la declaración?
     a: 'Todavía no. Quienes declaran por primera vez necesitan dos credenciales en secuencia. Un TIN, obtenido a través de e-Daftar (muchos ciudadanos y residentes permanentes ya tienen uno de forma automática), no abre por sí solo el e-Filing. La LHDN (Junta de Ingresos Internos) exige un PIN aparte para activar la cuenta de e-Filing vinculada a ese TIN: antes se obtenía en una sucursal y, más recientemente, puede solicitarse a través del portal. Solo después de ambos pasos puedes abrir y presentar el formulario de declaración correcto.'
+framework: rules
 ---
 
 Una nueva empleada se traslada a Kuala Lumpur con un Permiso de Empleo

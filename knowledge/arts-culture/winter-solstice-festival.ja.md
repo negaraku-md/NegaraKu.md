@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "chinese-dialects"]
 keywords: ["冬至", "汤圆", "汤丸", "咸汤圆", "冬大过年", "冬至大如年", "添岁", "搓汤圆", "Tang Chek", "Dongzhi", "马来西亚华人", "节气", "Winter Solstice Festival"]
+framework: history-culture
 ---
 
 12月下旬のある夕方、台所にはもち米粉の香りと生姜湯の甘い匂いが混じり合う。家族がテーブルを囲み、小さなもち米の塊を一つひとつ団子にこねていく——白いもの、淡いピンクや薄緑に色づけしたもの。子どもの手の中の団子は大きさがまちまちで、大人はこねながら言う。湯圓を食べれば、また一つ年をとるのだ、と。この日が冬至である。

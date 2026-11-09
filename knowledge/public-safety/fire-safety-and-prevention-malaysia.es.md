@@ -70,6 +70,7 @@ relations:
   - { rel: "governs", to: "akta-perkhidmatan-bomba-1988" }
 related: []
 keywords: ["seguridad contra incendios", "prevención de incendios", "certificado de incendio", "perakuan bomba", "fire certificate", "JBPM", "Akta Perkhidmatan Bomba 1988"]
+framework: explainer
 ---
 
 El fuego no avisa. En cuestión de minutos, una chispa de un enchufe

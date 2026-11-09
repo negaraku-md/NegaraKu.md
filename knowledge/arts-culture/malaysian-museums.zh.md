@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "orang-asli" }
 related: ["unesco-world-heritage", "peranakan", "orang-asli"]
 keywords: ["Muzium Negara", "Islamic Arts Museum Malaysia", "IAMM", "Perak Museum Taiping", "Sarawak Museum", "Sabah Museum", "Malaysia state museums"]
+framework: history-culture
 ---
 
 问大多数游客马来西亚哪座博物馆最古老，他们大概会猜是国家博物馆（Muzium Negara）——那座宫殿式屋顶、坐镇吉隆坡博物馆一带的建筑。他们的猜测会差了八十年。这个称号其实属于太平一座朴实的展馆，它落成之时，国家博物馆的现址仍由其前身所占据。

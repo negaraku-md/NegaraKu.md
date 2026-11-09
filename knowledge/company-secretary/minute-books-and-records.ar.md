@@ -121,6 +121,7 @@ relations:
   - { rel: "related-to", to: "beneficial-ownership" }
 related: ["statutory-registers", "registered-office", "register-of-members", "annual-return"]
 keywords: ["دفتر المحاضر ماليزيا", "minute book Malaysia", "المادة 341 قانون الشركات 2016", "section 341 Companies Act 2016", "المادة 245 السجلات المحاسبية سبع سنوات", "section 245 accounting records seven years", "الاحتفاظ بمستندات الشركة في ماليزيا", "document retention Malaysia company", "buku minit syarikat", "محاضر مجلس الإدارة الجدول الثالث", "board minutes Malaysia Third Schedule"]
+framework: rules
 ---
 
 اسأل أمين سر شركة ماليزية كم من الوقت يجب الاحتفاظ بدفتر المحاضر، وستحصل على

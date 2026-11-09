@@ -78,6 +78,7 @@ relations:
   - { rel: "located-in", to: "taman-negara" }
 related: []
 keywords: ["Malayan tiger", "Harimau Malaya", "Panthera tigris jacksoni", "Critically Endangered", "National Tiger Survey", "Perhilitan", "MYCAT", "tiger conservation", "Al-Sultan Abdullah Royal Tiger Reserve"]
+framework: explainer
 ---
 
 호랑이는 말레이시아의 국장(國章)에 등장하지만, 정작 그 동물 자체는 이제 세계에서 가장 희귀한 대형 고양잇과 동물에 속합니다. 말레이시아가 야생 호랑이에 대한 최초의 전국 조사를 마쳤을 때, 그 결과는 많은 이가 예상한 것보다 낮았습니다. 150마리 미만이었습니다.

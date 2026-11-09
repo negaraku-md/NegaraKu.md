@@ -111,6 +111,7 @@ relations:
   - { rel: "explained-in", to: "practising-certificate" }
 related: ["appoint-company-secretary", "maicsa", "changing-company-secretary", "secretary-resignation"]
 keywords: ["who can be a company secretary Malaysia", "company secretary qualification Malaysia", "section 235 Companies Act 2016", "practising certificate secretary SSM", "section 241 practising certificate", "MAICSA MIA company secretary", "CSID SSM"]
+framework: rules
 ---
 
 问多数人在马来西亚当公司秘书需要什么，你会得到五个字：「MAICSA、MIA，或 SSM 发照。」那个

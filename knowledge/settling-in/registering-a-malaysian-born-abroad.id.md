@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "applying-for-malaysian-citizenship-article-15" }
 related: []
 keywords: ["kewarganegaraan keturunan", "Perkara 14(1)(b)", "Borang D", "lahir luar negara", "JPN", "Jadual Kedua", "pindaan perlembagaan 2024", "Perkara 15(2)"]
+framework: explainer
 ---
 
 Seorang bayi dilahirkan di sebuah rumah sakit di London dari pasangan Malaysia yang bertugas di sana. Akta kelahiran setempat menyatakan bayi itu lahir di Inggris, namun di bawah hukum Malaysia dia mungkin sudah seorang warga negara — asalkan status itu direkam dengan benar. Bagaimana status tersebut disahkan, dan siapa yang memenuhi syarat, adalah pertanyaan yang menyentuh ketentuan dasar Konstitusi Federal.

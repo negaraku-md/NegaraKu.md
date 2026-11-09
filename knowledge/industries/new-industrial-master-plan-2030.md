@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "madani-economy" }
 related: ["ekonomi-madani-framework"]
 keywords: ["NIMP 2030", "New Industrial Master Plan", "MITI", "Malaysia industrial policy", "mission-based approach", "manufacturing", "economic complexity", "Net Zero", "MADANI economy"]
+framework: explainer
 ---
 
 For most of half a century, Malaysia planned its factories the way you'd plan a shelf — one sector at a time, each with its own targets. NIMP 2030 throws out the shelf. Instead of asking "how big should electronics or chemicals get?", it asks a harder question: what does the whole economy need to become more sophisticated, greener, more digital and more secure — and then it points every industry at that answer together.

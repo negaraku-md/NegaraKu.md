@@ -121,6 +121,7 @@ relations:
   - { rel: "related-to", to: "company-tax-calendar" }
 related: ["corporate-tax-rates", "sdn-bhd-filing-calendar", "lhdn", "income-tax-act-1967"]
 keywords: ["CP204", "CP204A", "Form C Malaysia", "underestimation penalty", "section 107C", "anggaran cukai syarikat"]
+framework: how-to
 ---
 
 말레이시아 법인세의 비싼 부분은 세율이 아닙니다. 답을 알기 11개월 전에 하는 추측입니다.

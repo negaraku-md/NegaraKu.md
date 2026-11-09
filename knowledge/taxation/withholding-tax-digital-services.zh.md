@@ -105,6 +105,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-non-compliance", "imported-taxable-services", "cp37-forms"]
 keywords: ["withholding tax SaaS Malaysia", "withholding tax on software", "digital advertising withholding tax", "Practice Note 1/2018", "cloud subscription royalty Malaysia", "imported taxable services vs withholding tax"]
+framework: rules
 ---
 
 一家马来西亚中小型企业每月支付一笔外国托管费、一份设计工具订阅、一个广告平台和一笔

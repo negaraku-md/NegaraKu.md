@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "corporate-rescue-malaysia" }
 related: ["close-a-company", "members-voluntary-winding-up", "strike-off-company-malaysia", "corporate-rescue-malaysia", "company-director-requirements"]
 keywords: ["creditors voluntary winding up malaysia", "insolvent sdn bhd", "section 539 companies act 2016", "wrongful trading malaysia", "undue preference section 528", "penggulungan sukarela pemiutang"]
+framework: how-to
 ---
 
 取締役会が、会社はもう債務を支払えないと気づいた瞬間、法律上の問いは「どうやって

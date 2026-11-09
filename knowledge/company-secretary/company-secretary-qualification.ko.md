@@ -106,6 +106,7 @@ relations:
   - { rel: "explained-in", to: "practising-certificate" }
 related: ["appoint-company-secretary", "maicsa", "changing-company-secretary", "secretary-resignation"]
 keywords: ["who can be a company secretary Malaysia", "company secretary qualification Malaysia", "section 235 Companies Act 2016", "practising certificate secretary SSM", "section 241 practising certificate", "MAICSA MIA company secretary", "CSID SSM"]
+framework: rules
 ---
 
 말레이시아에서 회사 비서가 되려면 무엇이 필요한지 대부분의 사람에게 물으면 다섯 단어로 답합니다: "MAICSA, MIA, 또는 SSM 면허." 그 답이 틀린 것은 아니지만, 맞은편에 앉은 사람이 귀사의 결의에 적법하게 서명할 수 있는지를 실제로 결정하는 단계를 빠뜨리고 있습니다. s.235에 따라 *자격을 갖추는 것*과 s.241에 따라 *업무를 수행할 자격이 있는 것*은 서로 다른 두 가지이며, 비서는 첫 번째를 충족하면서 두 번째를 충족하지 못할 수 있습니다.

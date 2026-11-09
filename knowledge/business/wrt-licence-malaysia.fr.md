@@ -100,6 +100,7 @@ keywords:
   - "licence societe capitaux etrangers Malaisie"
   - "capital libere WRT"
   - "WRT employment pass"
+framework: rules
 ---
 
 Cherchez la licence WRT et on vous dira, avec assurance et de façon répétée, qu'elle exige

@@ -89,6 +89,7 @@ verificationNeeded:
   - "Sama ada Ampang yang memberi nama kepada gaya ini terletak di dalam Kuala Lumpur atau di Selangor — sumber menggambarkannya kedua-duanya sebagai daerah KL dan sebagai pekan di Lembah Klang tepat di luar KL, dan kawasan Ampang yang padat itu merentasi sempadan; sahkan atribusi pentadbirannya."
   - "Asal usul gaya Ampang dan gerai mana yang mempopularkannya — ada catatan mengkreditkan sebuah gerai 1960-an bernama Chew Kuan, manakala yang lain menganggap atribusi Foong Foong sebagai legenda bandar; sahkan dengan sumber sejarah primer atau tempatan."
   - "Legenda asal usul yang lebih luas — pendatang Hakka menggantikan tauhu sumbat untuk ladu tepung gandum, dan kisah restoran 'pelanggan yang teragak-agak' yang menyaingi — kedua-duanya beredar dan tidak terdokumen dengan kukuh; sahkan dengan sumber sejarah kulinari."
+framework: history-culture
 ---
 
 Melangkah ke sebuah gerai yong tau foo, anda bukannya diberikan menu sebaliknya

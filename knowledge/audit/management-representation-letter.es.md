@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "auditor-report" }
 related: []
 keywords: ["surat perwakilan pengurusan", "carta de manifestaciones de la dirección", "management representation letter", "ISA 580", "manifestaciones escritas", "written representations", "evidencia de auditoría", "auditor"]
+framework: explainer
 ---
 
 Hacia el final de cada auditoría, se pide a los directores que firmen un documento fácil de pasar por alto pero que tiene un peso real: una carta que atestigua, con su propia firma, que le han contado todo al auditor. Esa es la carta de manifestaciones de la dirección.

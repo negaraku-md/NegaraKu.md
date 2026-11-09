@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "kinabatangan-floodplain" }
 related: ["sabah"]
 keywords: ["Bornean orangutan", "Sabah", "Wildlife Conservation Enactment 1997", "Sepilok", "Kinabatangan", "habitat protection", "totally protected species", "wildlife corridor"]
+framework: explainer
 ---
 
 Un orang-outan sauvage a besoin de beaucoup de forêt, et d'une forêt connectée. Dans les basses terres de l'est de Sabah, c'est devenu la chose la plus rare de toutes : les arbres qui permettaient autrefois à un grand singe de parcourir des kilomètres sans toucher le sol s'arrêtent désormais à la lisière d'une plantation de palmiers à huile. Que l'orang-outan de Bornéo survive ou non dans ce paysage est, en grande partie, une question de loi, de terre et de corridors.

@@ -55,6 +55,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["langkasuka", "srivijaya"]
 keywords: ["Gangga Negara", "Beruas", "kerajaan Melayu awal", "sejarah Perak", "Chola", "Rajendra Chola I", "Hikayat Merong Mahawangsa", "Muzium Beruas"]
+framework: explainer
 ---
 
 如果你在网上搜索「Gangga Negara」，会找到一幅清晰的图景：一个位于霹雳河（Sungai Perak）岸边的黄金王国，公元二世纪建立，1025年被来自印度的朱罗（Chola）军队所灭。如此精确的年份，理应意味着某处存在同时代的书面记录——一方碑铭，一份宫廷文书。问题是：当那方最常被认为与这场覆灭有关的碑铭——罗贞陀罗一世（Rajendra Chola I）本人的坦贾武尔碑铭（Thanjavur inscription）——被逐行核对时，「Gangga Negara」这个名字根本不在其中。

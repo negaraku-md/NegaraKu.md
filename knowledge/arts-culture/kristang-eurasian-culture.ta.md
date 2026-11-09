@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "christmas-malaysia" }
 related: ["peranakan", "unesco-world-heritage", "christmas-malaysia"]
 keywords: ["Kristang", "Papia Kristang", "Perkampungan Portugis Melaka", "Eurasia Malaysia", "Intrudu", "branyo"]
+framework: history-culture
 ---
 
 Melaka-வின் Ujong Pasir-இல், மக்கள் ஒருவரை ஒருவர் மலாய் அல்ல, ஆங்கிலம் அல்ல, நவீன போர்த்துகீசியமும் அல்ல — மாறாக ஐந்து நூற்றாண்டுகளுக்கு முன் வந்திறங்கிய வெற்றியாளர்களின் மொழியின் எஞ்சியிருக்கும் உயிர்த்துடிப்பான தடயமான ஒரு மொழியில் வரவேற்கும் ஒரு கடலோரக் குடியிருப்பு உள்ளது. இதுவே Kristang சமூகத்தின் உலகம்.

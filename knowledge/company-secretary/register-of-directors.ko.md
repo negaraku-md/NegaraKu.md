@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "appoint-company-secretary" }
 related: ["statutory-registers", "register-of-members", "appoint-company-secretary", "annual-return"]
 keywords: ["register of directors Malaysia", "section 57 Companies Act 2016", "section 58 notification SSM", "daftar pengarah syarikat", "change of director SSM 14 days", "service address director Malaysia"]
+framework: rules
 ---
 
 한 이사가 3월 3일에 사임합니다. 비서는 기한을 훨씬 앞선 3월 14일에 s.58 통지를

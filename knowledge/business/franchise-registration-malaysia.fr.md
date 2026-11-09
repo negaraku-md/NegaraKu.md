@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: []
 keywords: ["enregistrement de franchise Malaisie", "franchise act 1998", "MyFEX 2.0", "enregistrement du franchiseur", "enregistrement du franchisé", "document d'information de franchise", "article 6 franchise act", "approbation article 54"]
+framework: how-to
 ---
 
 Vous ne pouvez pas légalement offrir une franchise en Malaisie comme vous le feriez dans la

@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["employment-pass", "opening-bank-account"]
 keywords: ["मलेशिया किराया", "iProperty", "PropertyGuru", "Mudah", "REN Malaysia", "पंजीकृत संपत्ति निगोशिएटर", "registered estate negotiator", "BOVAEP", "LPPEH", "मलेशिया संपत्ति एजेंट", "मलेशिया किराया कमीशन", "REN Tag"]
+framework: explainer
 ---
 
 आपको किसी पोर्टल पर कोई लिस्टिंग पसंद आती है, उस पर दिए नंबर पर संदेश

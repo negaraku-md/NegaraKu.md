@@ -107,6 +107,7 @@ keywords:
   - "MBPJ lesen komposit"
   - "MBSA lesen komposit"
   - "DBKK lesen berniaga"
+framework: rules
 ---
 
 உங்கள் வளாக உரிமம் நாளை ரத்து செய்யப்படலாம், எந்தக் காரணமும் இன்றி, மேலும் மன்றம்

@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "members-voluntary-winding-up-malaysia" }
 related: []
 keywords: ["statutory declaration malaysia", "akuan berkanun", "commissioner for oaths malaysia", "statutory declarations act 1960", "false statutory declaration penalty", "declaration of solvency section 443"]
+framework: explainer
 ---
 
 Tarde o temprano a un propietario de negocio le entregan un documento y le dicen: «esto tiene que ser una declaración jurada». Es una de esas formalidades legales que suena más pesada de lo que es —una manifestación escrita que usted jura que es cierta ante una persona autorizada—, pero el peso es real: firme una falsa y habrá cometido un delito. Esto es lo que es una declaración jurada, quién puede tomarla y dónde aparece en la vida societaria.

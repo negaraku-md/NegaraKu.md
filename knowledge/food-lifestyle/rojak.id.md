@@ -90,6 +90,7 @@ verificationNeeded:
   - "Asal usul rojak. Karya rujukan menelusuri kata dan hidangan ini ke bahasa Jawa Kuno (Zoetmulder menurunkannya dari anrujak/rinujak, 'mencacah menjadi potongan kecil'), tetapi dalam bentuk yang ada di Malaysia, hidangan ini bersifat lintas budaya dan tidak ada pencipta tunggal atau tanggal pasti yang terdokumentasi — pastikan dengan sumber sejarah kuliner atau leksikografi, bukan media kuliner."
   - "Asal usul dan usia rojak India/mamak (pasembur) secara khusus. Para penulis kuliner mencatat tidak ada rujukan pasti mengenai kapan atau di mana versi mamak muncul — jangan menyatakan tanggal atau pencipta dengan yakin."
   - "Apakah pasta udang fermentasi (hae ko) bersifat universal pada rojak buah. Sebagian sumber menggambarkan sausnya sekadar pasta udang, gula, cabai, dan air jeruk nipis, dengan asam jawa atau tauco hitam ditambahkan oleh sebagian penjaja; penggunaan dan penamaan hae ko secara spesifik beragam — pastikan dengan sumber regional."
+framework: explainer
 ---
 
 Pesan "rojak" di satu gerai, Anda akan memperoleh tumpukan dingin buah dan cakwe yang

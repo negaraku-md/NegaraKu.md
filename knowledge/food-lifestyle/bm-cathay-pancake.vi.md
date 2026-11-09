@@ -76,6 +76,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["ApamBalik", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 Sự công nhận của MICHELIN ở Penang thường tụ về George Town, nhưng một trong

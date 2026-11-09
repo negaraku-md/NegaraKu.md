@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "stamp-duty" }
 related: []
 keywords: ["RPGT", "cukai keuntungan harta tanah", "CKHT", "LHDN", "pelupusan hartanah", "kadar RPGT", "pengecualian RPGT"]
+framework: rules
 ---
 
 คุณขายบ้านได้กำไร แต่ก่อนที่เงินจะเข้าบัญชี รัฐบาลต้องการส่วนแบ่งของตน นั่นคือ RPGT ภาษีที่ผู้ขายมักมองข้ามจนกระทั่งทนายหักเงินหลายพันริงกิตที่โต๊ะปิดการซื้อขาย

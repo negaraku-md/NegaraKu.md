@@ -106,6 +106,7 @@ keywords:
   - "DBP Sah Bahasa"
   - "Bahasa Malaysia signboard rule"
   - "signboard licence fee DBKL"
+framework: rules
 ---
 
 多数指南告诉您，吉隆坡是那座[国家语文局](/arts-culture/dewan-bahasa-dan-pustaka)必须批准招牌用字的城市，仿佛这是吉隆坡独有的

@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "unfair-dismissal-malaysia" }
 related: ["termination-of-employment-malaysia", "unfair-dismissal-malaysia", "termination-benefits-malaysia"]
 keywords: ["domestic inquiry malaysia", "DI procedure malaysia", "show cause letter malaysia", "suspension pending inquiry", "section 14 employment act", "misconduct dismissal malaysia"]
+framework: how-to
 ---
 
 マレーシアの人事ガイドの多くは、社内調査（domestic inquiry、DI）をわずか一文で片付けている——「非行を理由に解雇する前に、DI を行うこと」。使用者が案件を落とすのは、まさにこの一文のところである。調査は、すでに下された決定に付け足す確認欄ではない。それは、使用者が数か月後に労使裁判所で拠り所とする証拠の土台であり、事実よりも手続きの面で失敗することの方がはるかに多い。

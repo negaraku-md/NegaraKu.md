@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "statutory-registers" }
 related: ["statutory-registers", "appoint-company-secretary", "register-of-members"]
 keywords: ["certified true copy Malaysia", "original sighted company secretary", "CTC company secretary Malaysia", "MAICSA best practice certification", "salinan diakui sah", "section 599 Companies Act 2016"]
+framework: explainer
 ---
 
 銀行が定款の認証謄本を求めてくる。オフィスの誰かがスキャンした書類に印を押し、署名して送る。もう4年間、誰も原本を見ていない。

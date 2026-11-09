@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "ssm-late-lodgement-fees" }
 related: ["financial-statements-lodgement", "mbrs-2", "ssm-late-lodgement-fees", "sdn-bhd-filing-calendar", "annual-return"]
 keywords: ["تمديد المهلة SSM", "extension of time SSM", "EOT SSM Malaysia", "Practice Note 3/2018", "المادة 259(2) قانون الشركات 2016", "تمديد موعد إيداع القوائم المالية", "طلب EOT أمين سرّ الشركة"]
+framework: how-to
 ---
 
 معظم طلبات التمديد المرفوضة لا تُرفَض بناءً على موضوعها، بل تُرفَض لأنّها وصلت متأخّرةً أكثر من أن يُنظَر فيها أصلاً.

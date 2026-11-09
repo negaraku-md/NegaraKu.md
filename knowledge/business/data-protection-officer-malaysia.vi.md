@@ -95,6 +95,7 @@ relations:
   - { rel: "governs", to: "personal-data-protection-act-2010" }
 related: ["pdpa-compliance-malaysia", "online-business-licence-malaysia"]
 keywords: ["data protection officer malaysia", "dpo malaysia", "section 12a pdpa", "pdpa dpo threshold", "appoint dpo malaysia"]
+framework: rules
 ---
 
 Hầu hết các doanh nghiệp Malaysia đọc ngưỡng DPO, thấy « 20,000 chủ thể dữ liệu », quyết định họ còn xa nó, và ngừng đọc. Vế thứ ba nằm cách đó một dòng phía dưới, nó hoàn toàn không có con số nào trong đó, và ví dụ đã làm sẵn của chính Kiểm soát viên về nó là một cửa hàng trực tuyến đề xuất sản phẩm.

@@ -91,6 +91,7 @@ verificationNeeded:
   - "La etimología de 'kuih' (que suele remontarse al koé, 粿, del min meridional / hokkien): confírmese con una fuente lingüística o lexicográfica y no con medios gastronómicos."
   - "La atribución regional de los kuih dulces frente a los salados a estados concretos (p. ej. más dulces en los estados del norte, más kuih salados en el centro y el sur de la península): lo informa Wikipedia, pero conviene confirmarlo con una fuente del patrimonio culinario malasio."
   - "Si 'onde-onde' y 'buah melaka' nombran exactamente el mismo kuih o variantes regionales: el uso varía y las fuentes no son del todo coherentes; confírmese con una fuente local."
+framework: history-culture
 ---
 
 Pasa junto a un puesto de kuih por la mañana y el expositor parece una caja de

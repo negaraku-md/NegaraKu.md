@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "financial-year-end" }
 related: ["audit-exemption-thresholds", "who-cannot-claim-audit-exemption", "dormant-company-audit-exemption", "after-audit-exemption"]
 keywords: ["audit exemption Malaysia", "pengecualian audit syarikat", "Practice Directive 10/2024", "SSM audit exemption criteria", "small company audit Malaysia"]
+framework: rules
 ---
 
 ஒவ்வொரு Sdn Bhd க்கும் ஆண்டு தணிக்கை தேவையில்லை. இந்தச் சோதனை ஒரு அம்சத்தில்

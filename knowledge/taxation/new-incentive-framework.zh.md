@@ -86,6 +86,7 @@ entity: "New Incentive Framework"
 relations: []
 related: []
 keywords: ["New Incentive Framework Malaysia", "NIF Malaysia tax incentive", "Pioneer Status Malaysia 2026", "Special Tax Rate Malaysia", "NIA Scorecard", "PIA 1986 deadline"]
+framework: explainer
 ---
 
 先锋地位并非逐渐淡出。它在某个特定的下午、以一个公告的截止时刻关闭：**2026 年 2 月 28 日下午 3 时**。从次日早晨起，依《1986 年促进投资法》提交的制造业激励申请不再获受理，一切新的申请都要通过**新激励框架（NIF）**。

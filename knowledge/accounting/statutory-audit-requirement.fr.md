@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "sdn-bhd-financial-statements-filing" }
 related: []
 keywords: ["audit légal", "exemption d'audit", "Companies Act 2016", "section 267", "PD 10/2024", "auditeur Sdn Bhd", "SSM audit exemption"]
+framework: rules
 ---
 
 Vous venez d'enregistrer une Sdn Bhd, l'entreprise est encore petite, et le

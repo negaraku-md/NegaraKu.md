@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-jakim" }
 related: ["hari-raya-aidilfitri"]
 keywords: ["bazar ramadan", "ramadan bazaar malaysia", "juadah berbuka puasa", "etika bulan puasa", "lesen penjaja bazar"]
+framework: explainer
 ---
 
 ரமலான் மாதத்தில் அஸர் தொழுகை நேரம் நெருங்கும் ஒவ்வொரு முறையும், சாலையோரத்தில் வெண்ணிறக் கூடாரங்கள் வரிசையாகத் திடீரென முளைக்கின்றன, கரிநெருப்பின் மேல் ayam percik-கின் நீராவி சுருண்டு எழுகிறது, மேலும் air bandung-உடன் கலந்த roti john-இன் மணம் மக்களை வீட்டை விட்டு வெளியே இழுக்கிறது. இதுதான் ரமலான் பஜார் — ஆண்டுக்கு ஒரே ஒரு மாதம் மட்டுமே இருக்கும் ஒரு பருவகால சந்தை, ஆனால் நீண்ட காலமாக மலேசிய சமூக வாழ்க்கையின் தாளத்தின் ஒரு பகுதியாகிவிட்டது.

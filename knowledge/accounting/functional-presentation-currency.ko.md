@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "financial-statement-pack" }
 related: ["accounting-standards-index", "financial-statement-pack", "financial-reporting-deadlines"]
 keywords: ["functional currency", "presentation currency", "MFRS 121", "IAS 21", "foreign currency translation", "MYR reporting", "MBRS", "foreign exchange"]
+framework: explainer
 ---
 
 쿠알라룸푸르(Kuala Lumpur)에 설립된 말레이시아 회사도 여전히 장부를 미국 달러로 기장할 수

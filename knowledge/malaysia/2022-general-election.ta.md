@@ -65,6 +65,7 @@ sources:
 
 related: ["anwar-ibrahim", "ismail-sabri-yaakob", "muhyiddin-yassin", "prime-ministers-of-malaysia", "how-elections-work"]
 keywords: ["GE15", "2022 general election Malaysia", "hung parliament", "unity government", "Undi18"]
+framework: history-culture
 ---
 
 > **வரைவு — உணர்திறன் வாய்ந்தது.** இக்கட்டுரை ஒரு நடுநிலையான, பணி

@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "mykad" }
 related: ["program-rahmah-cost-of-living", "i-saraan-epf-voluntary-contribution", "lhdn", "income-tax-individuals", "mykad"]
 keywords: ["Sumbangan Tunai Rahmah", "STR", "मलेशिया सरकारी नकद सहायता", "MySTR", "bantuantunai.hasil.gov.my", "STR जाँच", "STR आवेदन", "मलेशिया जीवन-यापन लागत सहायता"]
+framework: how-to
 ---
 
 बहुत से लोग «STR» नाम समाचारों से जानते हैं, या किसी पड़ोसी से जो अपने बैंक खाते

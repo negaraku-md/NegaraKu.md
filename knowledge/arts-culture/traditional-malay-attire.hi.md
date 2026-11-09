@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "hari-raya-aidilfitri" }
 related: ["songket", "batik", "hari-raya-aidilfitri"]
 keywords: ["बाजू मलयू", "baju Melayu", "बाजू कुरुंग", "baju kurung", "कबाया", "kebaya", "samping", "songkok", "cekak musang", "Teluk Belanga", "पारंपरिक मलय पोशाक", "pakaian tradisional Melayu"]
+framework: history-culture
 ---
 
 किसी पुरुष को हरि राया या किसी विवाह के लिए तैयार होते हुए देखिए। ढीली कमीज पहनी जा चुकी है, पतलून खोंस ली गई है — लेकिन वह अभी तैयार नहीं हुआ है। बाकी दो चीज़ें रह गई हैं जो तय करती हैं कि वह पूरी तरह तैयार दिखता है या केवल आधा-अधूरा: कमर पर लपेटा हुआ सम्पिंग कपड़े का एक टुकड़ा, और सिर पर एक सोंगकोक। इन दो चीज़ों के बिना, बाजू मलयू वास्तव में अभी बाजू मलयू नहीं है।

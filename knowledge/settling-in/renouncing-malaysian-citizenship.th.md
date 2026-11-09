@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "dual-citizenship-malaysia" }
 related: []
 keywords: ["melepaskan kewarganegaraan", "dwikewarganegaraan Malaysia", "Perkara 23", "Perkara 24", "Perlembagaan Persekutuan", "Borang K", "pelucutan kewarganegaraan", "JPN"]
+framework: explainer
 ---
 
 พลเมืองมาเลเซียที่กล่าวคำสาบานเข้าเป็นพลเมืองของประเทศอื่นมักตกใจเมื่อพบว่าหนังสือเดินทางสีน้ำเงินและ MyKad ของตนไม่มีผลอีกต่อไป — ไม่ใช่เพราะการกระทำทางปกครองที่ซ่อนอยู่ แต่เพราะรัฐธรรมนูญสหพันธ์เองถือว่าการมีสองสัญชาติเป็นสิ่งที่ไม่ได้รับการยอมรับ เรื่องนี้อยู่ที่บทบัญญัติสองมาตราที่เกี่ยวข้องกันอย่างใกล้ชิด: มาตรา 23 (การสละโดยสมัครใจ) และมาตรา 24 (การถอนสัญชาติจากการได้สัญชาติต่างประเทศ)

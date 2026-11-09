@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["population-composition", "chinese-dialects", "chinese-clan-associations", "chinese-education-in-malaysia", "chinese-new-year"]
 keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划", "Briggs Plan", "马共", "重新安置", "临时地契", "TOL", "Chinese New Villages", "New Villages Malaysia"]
+framework: history-culture
 ---
 
 आज सेमेनयिह, कम्पार या सेकिनचान (Sekinchan) में क़दम रखिए तो अधिकतर आपको एक साधारण छोटे कस्बे का दृश्य ही दिखेगा: दुकान-मकानों की क़तारें, एक चीनी प्राथमिक विद्यालय, मंदिर और संघ, सड़क किनारे की कॉफ़ी-दुकानें और परचून की दुकानें। पर इनमें से कई जगहें एक साझा पहचान रखती हैं — वे "नव-ग्राम" हैं। इस प्रतीत होने में साधारण नाम के पीछे मलाया आपातकाल, विद्रोह-दमन और बड़े पैमाने के स्थानांतरण का एक इतिहास छिपा है।

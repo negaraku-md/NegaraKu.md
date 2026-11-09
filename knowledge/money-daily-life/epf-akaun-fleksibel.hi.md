@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "epf-members-investment-scheme" }
 related: ["i-saraan-epf-voluntary-contribution", "epf", "epf-socso-employees", "epf-members-investment-scheme"]
 keywords: ["akaun fleksibel", "EPF account 3", "KWSP akaun 3", "akaun persaraan sejahtera fleksibel", "EPF account restructuring", "akaun fleksibel withdrawal", "KWSP three accounts"]
+framework: explainer
 ---
 
 लगभग चालीस वर्षों तक, आपकी EPF बचत दो डिब्बों में रहती थी: Account 1, जिसे आप

@@ -56,6 +56,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["consumer-protection-act", "duitnow-qr-payments", "opening-bank-account"]
 keywords: ["consumer rights Malaysia", "Tribunal for Consumer Claims", "TTPM", "KPDN complaint", "refund Malaysia", "consumer protection act 1999", "how to claim RM50000", "ttpm.kpdn.gov.my"]
+framework: how-to
 ---
 
 휴대폰이 둘째 주에 죽습니다. 시공업자가 계약금을 챙기고는 전화를 받지 않습니다. "폐업 세일" 스티커가 실제로는 한 번도 할인된 적 없는 가격 위에 붙어 있습니다. 대부분의 나라에서 이런 일에 맞서려면 변호사, 법정 출석 날짜, 그리고 손실 자체보다 더 큰 청구서가 필요합니다. 말레이시아에는 이 세 가지를 모두 건너뛰기 위해 특별히 마련된 장(場)이 있습니다 — 그리고 이로부터 혜택을 받을 만한 대부분의 사람들은 그것에 대해 들어본 적이 없습니다.

@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "pdpa-2010" }
 related: ["mykad", "jpn", "pdpa-2010"]
 keywords: ["mydigital id", "identité numérique nationale malaisie", "identiti digital nasional malaysia", "myniise", "myjpj mydigital id", "enregistrement mydigital id"]
+framework: explainer
 ---
 
 Vous l'avez peut-être déjà croisée sans vous en rendre compte : un nouvel écran de connexion qui apparaît lorsque vous ouvrez MyJPJ ou que vous tentez de renouveler votre taxe de circulation. C'est MyDigital ID, et tout au long de 2026, elle passe du statut d'option facultative à celui de porte d'entrée unique vers un nombre croissant de services gouvernementaux.

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["population-composition", "chinese-dialects", "chinese-clan-associations", "chinese-education-in-malaysia", "chinese-new-year"]
 keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划", "Briggs Plan", "马共", "重新安置", "临时地契", "TOL", "Chinese New Villages", "New Villages Malaysia"]
+framework: history-culture
 ---
 
 走进今天的士毛月、金宝或士林河（Sekinchan），你看到的多半是寻常的小镇景象：一排排店屋、华文小学、庙宇与会馆、路边的茶室与杂货店。但这些名字里不少都带着一个共同的身份——它们是「新村」。这个看似平淡的称呼，背后是一段关于马来亚紧急状态、反叛乱与大规模迁徙的历史。

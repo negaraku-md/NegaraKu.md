@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "pcb-mtd-malaysia" }
 related: ["payroll-rates-deadlines-malaysia", "payroll-compliance-malaysia", "epf-socso-guide"]
 keywords: ["tarikh akhir Form E Malaysia", "Form EA 28 Februari", "penghantaran CP8D", "tarikh akhir e-Data Praisi", "Borang E LHDN majikan", "e-CP8D"]
+framework: how-to
 ---
 
 Setiap bulan Februari, kotak masuk penggajian di suatu tempat di Malaysia dipenuhi

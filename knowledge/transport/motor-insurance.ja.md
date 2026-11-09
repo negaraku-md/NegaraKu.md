@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "road-tax-renewal" }
 related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengangkutan Jalan 1987", "insurans komprehensif", "cukai jalan", "Seksyen 90", "PIAM", "insurans motosikal"]
+framework: explainer
 ---
 
 一度も洗ったことがなく、タイヤはすり減り、エアコンも壊れた車を運転することはできる——そしてそれはすべて法律上は合法である。しかし、一枚の書類、すなわち第三者保険証券を持たずに運転することは、刑事犯罪である。

@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "industrial-relations-act-malaysia" }
 related: []
 keywords: ["sindicatos en malasia", "sindicato", "Ley de Sindicatos de 1959", "Ley 262", "JHEKS", "e-TUIS", "enmienda de 2024", "negociación colectiva", "Director General de Sindicatos", "kesatuan sekerja", "trade union", "Akta 262"]
+framework: explainer
 ---
 
 Durante décadas, un trabajador de fábrica en Malasia solo podía afiliarse al único sindicato «válido» de su centro de trabajo — y si ese sindicato ya existía, ningún otro grupo de trabajadores podía establecer uno nuevo. La reforma legal que entró en vigor el 15 de septiembre de 2024 cambió esa premisa fundamental.

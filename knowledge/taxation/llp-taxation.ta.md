@@ -94,6 +94,7 @@ relations:
   - { rel: "compares-with", to: "corporate-tax-rates" }
 related: ["corporate-tax-rates"]
 keywords: ["LLP tax Malaysia", "PLT tax", "limited liability partnership tax rate", "cukai PLT", "LLP vs Sdn Bhd tax", "Form PT"]
+framework: explainer
 ---
 
 LLP என்பது மலேசியாவின் மிகக் குறைவாக விளக்கப்பட்ட வணிக வடிவமாகும்; அதன் குழப்பம்

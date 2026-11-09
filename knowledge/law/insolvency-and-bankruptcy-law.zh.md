@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016", "contracts-act-1950", "court-hierarchy"]
 keywords: ["bankruptcy Malaysia", "insolvency act 1967", "winding up company Malaysia", "judicial management", "department of insolvency", "RM100000 bankruptcy threshold", "social guarantor", "discharge from bankruptcy"]
+framework: explainer
 ---
 
 在马来西亚，仅仅欠钱本身还不足以让你破产。债务必须数额巨大，债权人必须遵循一套特定的法庭程序，而且——如果你只是为朋友的助学贷款或自己的自住房产作过担保——法律有可能完全保护你。马来西亚运行着两套独立的无力偿债制度：一套针对个人，一套针对公司。弄清楚自己身处哪一套制度、以及每套制度允许什么，会彻底改变结果。

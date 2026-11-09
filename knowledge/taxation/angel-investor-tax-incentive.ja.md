@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["tax-incentives-directory", "personal-tax-reliefs", "new-incentive-framework"]
 keywords: ["angel tax incentive malaysia", "angel investor tax exemption", "pu a 167 2014", "cradle angel tax incentive", "mban accreditation", "startup investor tax relief malaysia"]
+framework: rules
 ---
 
 エンジェル税制優遇に言及するスタートアップの資料はどれも、2026年まで続くとうたっている。官報はそう言っていない。現に効力を有する法律文書は2014年所得税（免除）（第3号）命令（Income Tax (Exemption) (No. 3) Order 2014、P.U.(A) 167/2014）であり、1967年所得税法（Income Tax Act 1967、Act 53）s.127(3)(b)に基づいて制定され、2013年1月1日から施行されているものとみなされる。その paragraph 5(a)(ii)は、投資家が**一定の期限までに**大臣へ申請していることを求めており、その期限はこれまでにちょうど2回動いている。

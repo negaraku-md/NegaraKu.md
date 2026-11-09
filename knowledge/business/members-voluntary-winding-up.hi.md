@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "creditors-voluntary-winding-up" }
 related: ["close-a-company", "strike-off-company-malaysia", "creditors-voluntary-winding-up", "corporate-rescue-malaysia", "company-director-requirements"]
 keywords: ["सदस्य स्वैच्छिक समापन मलेशिया", "members voluntary winding up malaysia", "शोधक्षमता घोषणा section 443", "declaration of solvency section 443", "परिसमापक Sdn Bhd", "section 439 Companies Act 2016"]
+framework: how-to
 ---
 
 वह दस्तावेज़ जो किसी सदस्य-स्वैच्छिक समापन को परिभाषित करता है, संकल्प नहीं है।

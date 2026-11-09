@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "subsidy-rationalisation-padu" }
 related: ["malaysia-plans", "new-industrial-master-plan-2030", "national-energy-transition-roadmap-netr", "subsidy-rationalisation-padu"]
 keywords: ["Ekonomi MADANI", "MADANI Economy framework", "Ekonomi MADANI Memperkasa Rakyat", "MADANI values acronym", "Malaysia economic framework Anwar", "MADANI economy seven targets", "Malaysia MADANI"]
+framework: explainer
 ---
 
 27 जुलाई 2023 को, अपने प्रधानमंत्रित्व के कुछ महीनों बाद, अनवर इब्राहिम कोई बजट या कोई एकल परियोजना घोषित करने नहीं, बल्कि मलेशिया की अर्थव्यवस्था को अपने बारे में कहने के लिए एक कहानी देने खड़े हुए।

@@ -83,6 +83,7 @@ relations:
   - { rel: "explained-in", to: "akta" }
 related: ["federal-constitution", "parliament", "dewan-negara", "warta-kerajaan"]
 keywords: ["rang undang-undang menjadi akta", "proses penggubalan undang-undang Malaysia", "bacaan pertama kedua ketiga", "perkenan diraja Yang di-Pertuan Agong", "Perkara 66 Perlembagaan Persekutuan", "Dewan Negara rang undang-undang", "pewartaan akta", "Perkara 68 rang undang-undang wang"]
+framework: explainer
 ---
 
 法案は下院（Dewan Rakyat）で可決され、上院（Dewan Negara）の同意を得て、国璽（Mohor Besar）が押印されることもある——それでもなお、誰も拘束しないことがある。

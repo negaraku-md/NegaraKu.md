@@ -77,6 +77,7 @@ social:
     - MalaysiaHealthcare
     - Act586
     - MedicalPractice
+framework: how-to
 ---
 
 Mở phòng khám của riêng bạn có cảm giác như bước tiếp theo tự nhiên sau nhiều năm đào tạo và hành nghề — nhưng một phòng khám không phải là một cửa hàng thông thường mà bạn có thể thành lập vào thứ Hai và mở vào thứ Sáu. Malaysia quản lý chăm sóc sức khỏe tư nhân chặt chẽ, và bản thân cơ sở phải được đăng ký với Bộ Y tế trước khi một bệnh nhân duy nhất được khám. Bỏ qua bước đó và bạn không chỉ đơn thuần chưa được cấp phép; bạn đang phạm một hành vi phạm tội.

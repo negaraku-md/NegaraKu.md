@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "winter-solstice-festival"]
 keywords: ["端午节", "端阳节", "五月节", "粽子", "bak chang", "娘惹粽", "咸肉粽", "碱水粽", "龙舟", "赛龙舟", "屈原", "艾草", "菖蒲", "立蛋", "直落巴巷水坝", "马来西亚华人", "Dragon Boat Festival Malaysia", "Duanwu"]
+framework: history-culture
 ---
 
 Khi mùng năm tháng Năm âm lịch gần kề, trong gian bếp của các gia đình người Hoa thoang thoảng mùi lá gói và gạo nếp. Các bà nội trợ xếp từng lớp gạo nếp đã ngâm và nhân xào thơm vào những chiếc lá gấp hình phễu, rồi buộc chặt bằng dây cói, thả từng xâu từng xâu vào nồi luộc thật lâu. Cùng lúc ấy, tại Đập Teluk Bahang ở mũi tây bắc đảo Penang, những chiếc thuyền rồng thon dài rẽ nước lướt đi; người đánh trống đứng ở mũi thuyền gõ nhịp, hàng chục tay chèo khua mái chèo nhịp nhàng theo tiếng trống — đó là hai diện mạo của Tết Đoan Ngọ ở Malaysia: một bên là hương bánh ú trong bếp, một bên là cuộc đua trên mặt nước.

@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["mm2h-long-stay-visa", "employment-pass", "dependant-social-visit-passes", "moving-to-malaysia-first-steps"]
 keywords: ["PVIP", "Premium Visa Programme", "Program Visa Premium", "Malaysia residency visa", "residency by investment", "20-year visa Malaysia", "PVIP fixed deposit", "PVIP requirements"]
+framework: explainer
 ---
 
 Comprar una casa, contratar personal, matricular a los hijos en el colegio y no llevar nunca la cuenta de cuántos días al año pasas en el país: esos son los derechos básicos que Malasia ofrece a los extranjeros adinerados a través del Programa de Visado Premium. Anunciado por el Ministerio del Interior en septiembre de 2022 y abierto a los solicitantes desde el 1 de octubre de 2022, el PVIP (Program Visa Premium) es un visado de residencia por inversión que otorga a los solicitantes que cumplen los requisitos hasta dos décadas de residencia asentada en Malasia. Es fácil confundirlo con el antiguo programa Malaysia My Second Home (MM2H), pero los dos los gestionan ministerios distintos y van dirigidos a solicitantes distintos.

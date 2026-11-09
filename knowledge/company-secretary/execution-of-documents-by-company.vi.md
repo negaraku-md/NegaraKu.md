@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "company-contracts-section-64" }
 related: ["companies-act-2016"]
 keywords: ["penyempurnaan dokumen", "cop mohor", "common seal", "seksyen 66", "surat ikatan", "deed", "pegawai diberi kuasa", "Akta Syarikat 2016", "tandatangan syarikat"]
+framework: explainer
 ---
 
 Trước khi Companies Act 2016 bắt đầu có hiệu lực vào ngày 31 tháng 1 năm 2017, con dấu chung là cách

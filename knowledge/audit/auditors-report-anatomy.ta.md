@@ -81,6 +81,7 @@ relations:
   - { rel: "part-of", to: "statutory-audit-process" }
 related: ["audit-opinion-types", "emphasis-of-matter-kam", "going-concern-audit", "statutory-audit-process", "appointing-an-auditor", "financial-statements-lodgement"]
 keywords: ["auditors report Malaysia", "independent auditors report sections", "AF number audit firm Malaysia", "audit partner approval number", "section 266 report to members", "how to read an audit report"]
+framework: explainer
 ---
 
 ஒரு மலேசிய தணிக்கையாளர் அறிக்கை ஒரு நிலையான வடிவமைப்பைக் கொண்ட ஆவணம். மலேசிய

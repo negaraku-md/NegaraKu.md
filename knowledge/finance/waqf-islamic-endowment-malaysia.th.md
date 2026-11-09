@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "donations-and-tax-deductions" }
 related: ["islamic-finance", "state-islamic-religious-councils", "zakat", "donations-and-tax-deductions"]
 keywords: ["waqf", "wakaf", "Islamic endowment Malaysia", "cash waqf", "corporate waqf", "JAWHAR", "Yayasan Waqaf Malaysia", "waqf land Malaysia"]
+framework: explainer
 ---
 
 ให้ปลาแก่คนหนึ่ง เขาก็อิ่มได้หนึ่งวัน แต่อุทิศบ่อปลาที่ไม่มีวันขายได้ แล้วทั้งหมู่บ้านก็อิ่มได้ตลอดไป นั่นคือวะกัฟในประโยคเดียว

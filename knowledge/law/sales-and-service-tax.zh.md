@@ -111,6 +111,7 @@ entity: "Sales and Service Tax (SST)"
 relations: []
 related: []
 keywords: ["SST", "sales tax", "service tax", "RMCD", "MySST", "SST registration", "Sales Tax Act 2018", "Service Tax Act 2018", "SST rates", "SST threshold"]
+framework: rules
 ---
 
 如果你曾疑惑为什么餐厅账单上有一行「SST」，而杂货收据上通常没有，那你就碰上了同一种税截然不同的两半。马来西亚并没有像 GST 或 VAT 那样运行一种广泛的单一消费税。取而代之的是两种较为狭窄的税——对货物征收的销售税和对服务征收的服务税——它们被打包在 **SST** 这一标签之下，由马来西亚皇家关税局（RMCD）管理。

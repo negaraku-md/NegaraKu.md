@@ -105,6 +105,7 @@ keywords:
   - "winding up petition unpaid debt Malaysia"
   - "limitation period debt Malaysia"
   - "tuntutan hutang syarikat"
+framework: how-to
 ---
 
 La plupart des conseils sur le recouvrement d'une créance commerciale malaisienne se résument à

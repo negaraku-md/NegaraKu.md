@@ -84,6 +84,7 @@ relations:
   - { rel: "affects", to: "e-invoicing" }
 related: ["gig-workers-act-2025", "which-tax-form", "personal-tax-rates", "e-invoicing", "myinvois-phases", "section-33-deductibility"]
 keywords: ["ضريبة العامل المستقل في ماليزيا", "freelancer tax Malaysia", "ضريبة دخل عامل المنصّات", "gig worker income tax", "المادة 4(a) مقابل 4(f)", "section 4(a) vs 4(f)", "cukai pekerja gig", "خصم المكتب المنزلي ماليزيا", "home office deduction Malaysia", "أقساط CP500 للعامل المستقل", "CP500 instalment freelancer", "ضريبة صانع المحتوى ماليزيا", "content creator tax Malaysia"]
+framework: explainer
 ---
 
 السؤال الذي يحسم فاتورة ضريبة العامل المستقل ليس كم كسب. بل هو أيَّ فقرة من

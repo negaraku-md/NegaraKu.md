@@ -119,6 +119,7 @@ keywords:
   - "lesen perniagaan online"
   - "e-commerce regulations Malaysia 2024"
   - "online seller legal requirements Malaysia"
+framework: rules
 ---
 
 மலேசியாவில் மின்வணிக (e-commerce) உரிமம் என்று ஒன்று கிடையவே கிடையாது. அதை எந்தச் சட்டமும்

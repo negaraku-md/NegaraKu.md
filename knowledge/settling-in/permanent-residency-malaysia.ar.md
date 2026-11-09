@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysian-citizenship" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["الإقامة الدائمة في ماليزيا", "permanent residency Malaysia", "MyPR", "بطاقة الهوية الحمراء", "تصريح الدخول", "Entry Permit Malaysia", "Immigration Act 1959/63", "Regulation 4 Immigration Regulations 1963"]
+framework: explainer
 ---
 
 بطاقة MyKad الحمراء هي خط النهاية الهادئ لكثير من المسيرات الطويلة في ماليزيا — الزوجة الأجنبية التي جدّدت تصريح الزيارة نفسه طوال عقد، والمهندس الذي لا يريد تقديم طلب تمديد تصريح عمل مرة أخرى أبدًا، والمتقاعد الذي يريد أن ينتمي إلى مكان نهائيًا. تلك البطاقة، MyPR، هي الشكل الفعلي للإقامة الدائمة الماليزية في محفظتك.

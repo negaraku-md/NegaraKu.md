@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "mfrs-vs-mpers" }
 related: ["mfrs-vs-mpers"]
 keywords: ["MFRS 18 Malaysia", "تاريخ نفاذ MFRS 18", "مجموع ربح التشغيل الجزئي MFRS 18", "مقاييس الأداء التي تحدّدها الإدارة", "الفئات الخمس في MFRS 18", "استبدال MFRS 101", "MFRS 18"]
+framework: explainer
 ---
 
 كل تنبيه كُتب عن MFRS 18 حتى الآن كان موجَّهًا إلى مدير مالي لشركة مُدرَجة يُعدّ خطة اتصال بالمستثمرين. وليس هذا هو من عليه إنجاز العمل.

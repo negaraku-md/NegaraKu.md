@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "asean-agreement-on-transboundary-haze-pollution" }
 related: []
 keywords: ["jerebu", "transboundary haze", "API", "Indeks Pencemar Udara", "Sumatera", "Kalimantan", "ASEAN", "Jabatan Alam Sekitar", "kualiti udara"]
+framework: explainer
 ---
 
 Setiap kali angin muson berubah arah pada musim kemarau, langit di Lembah Klang, Sarawak, dan sebagian besar Semenanjung bisa berubah kelabu hanya dalam beberapa hari — matahari menjadi kabur, bau asap masuk ke dalam rumah, dan telepon berbunyi dengan notifikasi API. Inilah kabut asap lintas batas: pencemaran yang tidak sepenuhnya dihasilkan di dalam negeri, tetapi dihirup setiap tahun oleh jutaan rakyat Malaysia.

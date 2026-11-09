@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "tamil-language-press" }
 related: ["chinese-education-in-malaysia", "chinese-clan-associations", "tamil-language-press", "languages-spoken"]
 keywords: ["华文报", "华文报业", "星洲日报", "中国报", "南洋商报", "光明日报", "东方日报", "世华媒体", "明报", "华教", "印刷机与出版物法令", "数码转型", "Chinese-language press Malaysia", "Sin Chew Daily", "Media Chinese International"]
+framework: history-culture
 ---
 
 In the morning kopitiam, an open Chinese-language newspaper often sits beside a cup of coffee. Readers flip past the front-page headlines from home and abroad and usually head straight for the pages they know best — some turn first to local news about which Chinese primary school has held a fundraising fair, some go to the literary supplement and opinion pages, and some are only after the obituaries, classified ads and the lottery results. For many Malaysian Chinese, the Chinese press is not just news but a daily habit of reading Chinese.

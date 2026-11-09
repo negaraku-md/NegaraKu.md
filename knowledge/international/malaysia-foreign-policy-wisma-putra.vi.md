@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "kabinet-perdana-menteri" }
 related: ["ekonomi-madani-framework", "konfrontasi", "miti", "matrade"]
 keywords: ["dasar luar Malaysia", "Wisma Putra", "Kementerian Luar Negeri", "ZOPFAN", "dasar berkecuali", "diplomasi Malaysia", "ASEAN", "Pelan Strategik 2026-2030", "non-alignment"]
+framework: explainer
 ---
 
 Khi Hoa Kỳ là nhà đầu tư nước ngoài lớn nhất trong nền kinh tế Malaysia, nhưng China lại là đối tác thương mại lớn nhất của nó, một quốc gia nhỏ và mở như thế không thể nghiêng về một bên. Đó chính là lý do chính sách đối ngoại của Malaysia trong nhiều thập kỷ đã bám vào một từ dễ nói nhưng khó giữ: trung lập. Bộ có nhiệm vụ giữ sự cân bằng đó mỗi ngày là Wisma Putra.

@@ -63,6 +63,7 @@ relations:
   - { rel: "part-of", to: "education" }
 related: []
 keywords: ["special education Malaysia", "PPKI programme", "PPI inclusive education", "OKU card children", "sekolah pendidikan khas", "learning disability support Malaysia", "special education curriculum Malaysia", "TASKA OKU"]
+framework: explainer
 ---
 
 การวินิจฉัยเป็นเพียงบทสนทนาแรก บทสนทนาที่สอง — ซึ่งมักน่าสับสนกว่า — คือสายโรงเรียนใดที่บุตรของคุณจะเข้าจริง ๆ และเหตุใดบัตร OKU จึงดูเหมือนสำคัญก่อนโรงเรียน ระบบของมาเลเซียมีสามสายในโรงเรียนรัฐบาล กระบวนการขึ้นทะเบียนความพิการที่แยกต่างหากซึ่งป้อนเข้าสู่ทั้งสามสาย และโลกคู่ขนานของการบำบัดของเอกชนและ NGO ที่ผู้ปกครองส่วนใหญ่ค้นพบด้วยการบอกต่อมากกว่าจากหน้าเว็บทางการหน้าใดหน้าหนึ่ง

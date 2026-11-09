@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "e-hailing-grab" }
 related: []
 keywords: ["walkability Malaysia", "cycling Malaysia cities", "pedestrian infrastructure Malaysia", "KL Pedestrian and Cycling Masterplan", "car dependency Malaysia", "active mobility Malaysia"]
+framework: explainer
 ---
 
 பிற்பகல் 1 மணிக்கு Klang Valley-இன் ஒரு LRT நிலையத்திலிருந்து வெளியே

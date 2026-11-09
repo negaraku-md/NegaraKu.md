@@ -115,6 +115,7 @@ keywords:
   - "foreign ownership Malaysia"
   - "restrictions à la propriété étrangère Malaisie"
   - "WRT foreign equity"
+framework: rules
 ---
 
 Tout guide sur ce sujet dit la même chose : *la plupart des secteurs autorisent 100 pour

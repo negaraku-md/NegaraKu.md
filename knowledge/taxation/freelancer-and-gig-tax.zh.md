@@ -84,6 +84,7 @@ relations:
   - { rel: "affects", to: "e-invoicing" }
 related: ["gig-workers-act-2025", "which-tax-form", "personal-tax-rates", "e-invoicing", "myinvois-phases", "section-33-deductibility"]
 keywords: ["freelancer tax Malaysia", "gig worker income tax", "section 4(a) vs 4(f)", "cukai pekerja gig", "home office deduction Malaysia", "CP500 instalment freelancer", "content creator tax Malaysia"]
+framework: explainer
 ---
 
 决定一名自由业者税单的问题，不是他赚了多少。而是这笔钱落在 s.4 的哪一段——因为

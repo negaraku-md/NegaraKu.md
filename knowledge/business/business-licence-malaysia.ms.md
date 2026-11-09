@@ -94,6 +94,7 @@ keywords:
   - "MalaysiaBiz"
   - "who issues business licences Malaysia"
   - "premise licence federal state local"
+framework: explainer
 ---
 
 Sijil SSM anda tiba, syarikat itu wujud, dan anda mempunyai kebenaran untuk melakukan

@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "srivijaya" }
 related: ["melaka-sultanate", "langkasuka", "srivijaya", "independence-1957"]
 keywords: ["kesultanan Melayu", "sistem pembesar", "daulat", "waadat", "adat perpatih", "adat temenggung", "Bendahara", "Majlis Raja-Raja", "Yang di-Pertuan Agong", "raja berperlembagaan"]
+framework: explainer
 ---
 
 கோப்புகள் இல்லாத, படிவங்கள் இல்லாத, எண் இடப்பட்ட துறைகள் இல்லாத ஒரு நாட்டைக் கற்பனை செய்து பாருங்கள். கட்டளைகள் வாய்மொழியாகக் கொண்டு செல்லப்பட்டன, நீதி balairung-இல் (அரச மண்டபம்) வழங்கப்பட்டது, மேலும் சமூகத்தின் முழு அமைப்பும் நவீன மொழியில் துல்லியமாக மொழிபெயர்க்க முடியாத ஒரே சொல்லைச் சார்ந்திருந்தது: *daulat*. அதுதான் மலாய் சுல்தானகத்தின் உலகம் — கடற்கரைகளிலும் ஆறுகளிலும் நூற்றாண்டுகளாக ஆயிரக்கணக்கான உயிர்களை ஒழுங்குபடுத்திய அமைப்பு; அதன் நிழல் இன்றும் மலேசியாவின் அரசியலமைப்பில் காணப்படுகிறது.

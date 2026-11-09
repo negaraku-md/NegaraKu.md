@@ -119,6 +119,7 @@ keywords:
   - "expatriate pass Malaysia director"
   - "employment pass category I II III"
   - "pas penggajian Malaysia"
+framework: how-to
 ---
 
 The order of operations defeats more foreign founders than any single rule.

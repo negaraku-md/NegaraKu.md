@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "credit-reporting-agencies-act-2010" }
 related: []
 keywords: ["CCRIS", "CTOS", "laporan kredit", "skor kredit", "eCCRIS", "Bank Negara Malaysia", "Akta Agensi Pelaporan Kredit 2010"]
+framework: explainer
 ---
 
 Bạn xin một khoản vay nhà ở, mọi thứ trông gọn gàng, nhưng ngân hàng từ chối đơn đó mà không giải thích nhiều. Đằng sau quyết định đó thường có hai cái tên hiếm khi được nhắc đến với bạn một cách rõ ràng: CCRIS và CTOS. Cả hai giữ một bức tranh về cách bạn quản lý tiền, và bạn có quyền xem những gì được viết trong đó.

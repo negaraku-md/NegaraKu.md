@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "kpdn" }
 related: ["jakim"]
 keywords: ["halal", "JAKIM", "sijil halal", "pensijilan halal", "MYeHALAL", "logo halal", "Akta Perihal Dagangan 2011", "MAIN", "JAIN"]
+framework: explainer
 ---
 
 食品包装上那个带有书法字体的官方清真标志或许看起来很小——但在它背后，站着一套联邦制度、一部罚款高达数百万令吉的法律，以及一个唯一决定某产品能否在马来西亚声称自己清真的机构。那个机构就是 JAKIM。

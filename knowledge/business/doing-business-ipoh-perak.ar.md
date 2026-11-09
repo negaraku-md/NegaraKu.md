@@ -101,6 +101,7 @@ keywords:
   - "doing business in Ipoh"
   - "MBI business licence"
   - "Perak GDP"
+framework: profile
 ---
 
 هذه صفحة قصيرة عن قصد. فالنظام القانوني في بيراق هو نفسه في سلانغور، ومجالسها تنشر

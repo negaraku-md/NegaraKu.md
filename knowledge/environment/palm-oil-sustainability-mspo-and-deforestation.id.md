@@ -91,6 +91,7 @@ relations:
   - { rel: "affects", to: "eu-deforestation-regulation-eudr" }
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "palm oil sustainability", "deforestation", "EUDR", "RSPO", "certification", "smallholders", "MPOB", "Malaysia palm oil"]
+framework: explainer
 ---
 
 Malaysia menghasilkan sekitar seperlima dari minyak sawit dunia, dan industri ini telah lama menerima kritik dari penggiat kampanye Eropa dan LSM terkait kaitannya dengan deforestasi. Sebagai respons, negara ini kini mengelola skema sertifikasi wajib yang didukung pemerintah, dan pada 5 September 2025 Uni Eropa mengakui skema tersebut dalam satu pernyataan bersama. Inilah cara MSPO berfungsi, apa yang dibuktikannya dan tidak dibuktikannya, serta di mana masalah rumit masih ada.

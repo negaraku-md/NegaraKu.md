@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: ["trademark-registration-malaysia"]
 keywords: ["intellectual property Malaysia", "trademark registration Malaysia", "patent Malaysia", "copyright Malaysia", "MyIPO", "Trademarks Act 2019", "Patents Act 1983", "Copyright Act 1987"]
+framework: explainer
 ---
 
 ロゴ、配合、コード、ブランド名——そのいずれであっても、お金を生み始めた瞬間、誰かがそれを模倣する理由を持つことになる。マレーシアの法律は「これは私のものであり、これがそれを証明する書類だ」と言う手段を与えてくれる。問題は、三つの主要な知的財産がそれぞれまったく異なる方法で機能することであり、一つを誤れば、企業は最も価値のある資産を失いかねない。

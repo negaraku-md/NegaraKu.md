@@ -93,6 +93,7 @@ relations:
   - { rel: "governs", to: "malaysia-para-athletics" }
 related: []
 keywords: ["Majlis Paralimpik Malaysia", "Paralympic Council Malaysia", "para sukan", "Sukan Paralimpik", "Bonnie Bunyau Gustin", "Cheah Liek Hou", "Abdul Latif Romly"]
+framework: explainer
 ---
 
 Cheah Liek Hou가 2024년 파리 대회에서 배드민턴 SU5 금메달을 방어했을 때, 그 성취는 말레이시아 장애인 스포츠가 이제 더 이상 이따금씩 나오는 성과가 아니라 한층 탄탄한 챔피언 진용을 갖추었음을 확인해 주었습니다. 그 순간 이면에는, 더 널리 알려진 올림픽 세계와 분리된 독자적인 거버넌스 구조가 있습니다.

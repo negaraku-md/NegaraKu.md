@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "malaysia-cup" }
 related: []
 keywords: ["bola sepak malaysia", "piala malaysia", "harimau malaya", "FAM", "liga super", "AFF", "football malaysia"]
+framework: history-culture
 ---
 
 ในปี 1921 สิงคโปร์เอาชนะสลังงอร์ 2-1 ในรอบชิงชนะเลิศของการแข่งขันฟุตบอลใหม่ในแหลมมลายู กว่าหนึ่งศตวรรษต่อมา การแข่งขันนั้น ปัจจุบันรู้จักในชื่อปิยาลามาเลเซีย ยังคงเป็นมงกุฎที่ทรงเกียรติที่สุดในกีฬาที่ได้รับความนิยมที่สุดของประเทศ

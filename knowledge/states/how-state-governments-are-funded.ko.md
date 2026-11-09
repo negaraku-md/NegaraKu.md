@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-special-rights-ma63" }
 related: []
 keywords: ["hasil negeri", "geran perkapita", "geran jalan raya negeri", "Jadual Kesepuluh", "Perkara 109", "Perkara 110", "kewangan persekutuan-negeri", "royalti", "cukai jualan negeri"]
+framework: explainer
 ---
 
 말레이시아의 어느 주(州) 정부가 예산을 편성할 때, 그 출발점은 좀처럼 언급되지 않는 하나의 현실입니다: 수입이 가장 큰 조세 — 소득세, 판매·서비스세, 관세 — 는 그 정부가 징수할 수 있는 것이 아닙니다. 그러한 세원은 연방의 관할에 속합니다. 주(州)에 남는 것이 무엇이며 그 격차를 어떻게 메우는지는 연방 헌법에 흑백으로 명시되어 있습니다.

@@ -99,6 +99,7 @@ social:
     - "Mamak"
     - "MalaysianFood"
     - "NegaraKuMD"
+framework: explainer
 ---
 
 很少有声音像面团拍打滚烫钢制铁板时的啪啪与翻飞那样，专属于马来西亚的清晨。厨师拿起一团泛白、

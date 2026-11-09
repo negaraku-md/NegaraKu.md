@@ -93,6 +93,7 @@ verificationNeeded:
   - "Từ nguyên của 'roti canai' còn gây tranh cãi (một cách giải thích truy về Chennai/Madras, một cách khác truy về từ Mã Lai 'canai' nghĩa là dàn mỏng hoặc cán bột); hãy xác nhận với một nguồn ngôn ngữ học hoặc từ điển học thay vì truyền thông ẩm thực."
   - "Lý giải phổ biến rằng teh tarik nổi lên từ văn hóa quán xá của người Hồi giáo gốc Ấn trong thời kỳ hậu chiến chưa được ghi chép chắc chắn; hãy xác nhận nguồn gốc và dòng thời gian của thức uống này với một nguồn lịch sử."
   - "Việc quy truyền thống kopitiam cho các đầu bếp người Hoa gốc Hải Nam và khẳng định rằng kaya toast với trứng lòng đào là bữa sáng đặc trưng của nó nên được xác nhận với một nguồn ẩm thực hoặc di sản của Malaysia, bởi một phần lịch sử này được chia sẻ và tranh cãi với Singapore."
+framework: history-culture
 ---
 
 Hỏi người Malaysia ăn gì cho bữa sáng và câu trả lời thành thật là: còn tùy ai,

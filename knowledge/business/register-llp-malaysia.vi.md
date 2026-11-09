@@ -116,6 +116,7 @@ keywords:
   - "PLT Perkongsian Liabiliti Terhad"
   - "LLP registration fee RM500"
   - "LLP annual declaration"
+framework: how-to
 ---
 
 Cán bộ tuân thủ là phần mà mọi người đều hiểu sai.

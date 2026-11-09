@@ -83,6 +83,7 @@ relations:
   - { rel: "affects", to: "e-invoicing" }
 related: ["gig-workers-act-2025", "which-tax-form", "personal-tax-rates", "e-invoicing", "myinvois-phases", "section-33-deductibility"]
 keywords: ["freelancer tax Malaysia", "gig worker income tax", "section 4(a) vs 4(f)", "cukai pekerja gig", "home office deduction Malaysia", "CP500 instalment freelancer", "content creator tax Malaysia"]
+framework: explainer
 ---
 
 프리랜서의 세부담을 결정하는 질문은 얼마를 벌었는지가 아닙니다. 그 돈이 제4조의 어느 항에 떨어졌는지입니다 — 제4(a)조는 전체 공제 장치를 함께 가져오고 제4(f)조는 거의 아무것도 가져오지 않기 때문입니다.

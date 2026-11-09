@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "fifa-eligibility-rules" }
 related: []
 keywords: ["naturalisasi", "pemain warisan", "FAM", "FIFA", "CAS", "Harimau Malaya", "dokumen palsu", "Artikel 22", "Piala Asia 2027"]
+framework: explainer
 ---
 
 2025年6月，七名海外出生的球员身披马来亚之虎（Harimau Malaya）的球衣上阵。不到一年后，世界最高体育仲裁机构确认，使他们得以代表马来西亚出赛的文件系伪造。此案引发了国际足联（FIFA）一系列纪律程序、一宗向体育仲裁法庭（CAS）提起的上诉，以及一份在马来西亚提交的警方报案。

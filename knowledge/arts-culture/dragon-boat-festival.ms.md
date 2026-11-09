@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "winter-solstice-festival"]
 keywords: ["端午节", "端阳节", "五月节", "粽子", "bak chang", "娘惹粽", "咸肉粽", "碱水粽", "龙舟", "赛龙舟", "屈原", "艾草", "菖蒲", "立蛋", "直落巴巷水坝", "马来西亚华人", "Dragon Boat Festival Malaysia", "Duanwu"]
+framework: history-culture
 ---
 
 Menjelang hari kelima bulan kelima kalendar lunar, bau daun buluh dan pulut mula berlegar di dapur keluarga Cina. Para suri rumah menyusun pulut yang telah direndam serta inti yang digoreng harum lapis demi lapis ke dalam daun yang dilipat berbentuk corong, kemudian mengikatnya ketat dengan tali rumput, dan menurunkan rangkaian demi rangkaian ke dalam periuk untuk direbus lama. Sementara itu, di Empangan Teluk Bahang di hujung barat laut Pulau Pinang, perahu naga yang langsing membelah permukaan air; seorang pemukul gendang berdiri di haluan menabuh irama, dan berpuluh pendayung mendayung serentak mengikut rentak — inilah dua wajah Pesta Perahu Naga di Malaysia: di satu pihak keharuman zongzi di dapur, di pihak lain perlumbaan di atas air.

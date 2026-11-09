@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-vs-tax-invoice" }
 related: ["e-invoicing", "e-invoice-vs-tax-invoice", "consolidated-e-invoice", "myinvois-phases", "accounting-records-section-245"]
 keywords: ["ई-इनवॉइस अभिलेख रखरखाव मलेशिया", "MyInvois प्रतिधारण अवधि", "धारा 245 ई-इनवॉइस", "धारा 82 आयकर अधिनियम अभिलेख", "ई-इनवॉइस वैधानिक अभिलेख मलेशिया", "e-invoice record keeping Malaysia", "MyInvois retention period", "section 82 Income Tax Act records"]
+framework: explainer
 ---
 
 इस समय मलेशियाई वित्त कार्यों में सबसे आम ग़लतफ़हमी यह है कि MyInvois ने फ़ाइलिंग

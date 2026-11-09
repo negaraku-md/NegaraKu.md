@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "epf-socso-employees" }
 related: ["lhdn", "tax-clearance", "offboarding-statutory-checklist", "employment-pass-malaysia", "moving-to-malaysia-first-steps", "epf-socso-employees"]
 keywords: ["tax clearance Malaysia", "Surat Penyelesaian Cukai", "SPC LHDN", "CP21 form Malaysia", "leaving Malaysia tax clearance", "expatriate tax clearance Malaysia", "e-SPC MyTax", "EPF leaving country withdrawal"]
+framework: rules
 ---
 
 Has entregado tu renuncia, reservado el vuelo y empezado a regalar muebles. Entonces RR. HH. te pide algo de lo que nunca habías oído hablar: una Carta de Finiquito Fiscal. Sin ella, parte de tu último sueldo no se mueve — y ni siquiera eres tú quien debe solicitarla.

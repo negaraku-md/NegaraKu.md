@@ -103,6 +103,7 @@ keywords:
   - "winding up petition unpaid debt Malaysia"
   - "limitation period debt Malaysia"
   - "tuntutan hutang syarikat"
+framework: how-to
 ---
 
 Most advice on recovering a Malaysian trade debt collapses into one word: sue. That is the

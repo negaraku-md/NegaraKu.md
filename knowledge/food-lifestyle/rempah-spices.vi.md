@@ -92,6 +92,7 @@ verificationNeeded:
   - "Cụm từ 'rempah empat beradik' ('bốn gia vị anh em') và thành phần chính xác của nó — nó được dùng theo lối nói thông tục để chỉ một nhóm gia vị khô cốt lõi, nhưng các danh sách khác nhau (hạt mùi, thì là Ai Cập và tiểu hồi lặp lại, còn thành phần thứ tư được nêu khác nhau là cỏ cà ri, tiêu trắng hay một gia vị khác). Hãy xác nhận thuật ngữ này và các thành phần chuẩn mực của nó với một nguồn ẩm thực hoặc từ điển học tiếng Mã Lai."
   - "Loại thơm nào được tính là 'cốt lõi' không thể giản lược của một rempah so với các thành phần thêm vào theo vùng miền hoặc theo món — các nguồn ẩm thực uy tín mô tả ớt, tỏi, hành tím và gừng là nền tảng, với riềng, nghệ, hạt đèn cầy, sả và belacan là những thành phần thêm phổ biến nhưng thay đổi. Hãy xác nhận với một thẩm quyền ẩm thực Malaysia."
   - "Mối liên hệ nhân quả giữa hoạt động buôn bán gia vị lịch sử qua Eo biển Melaka và sự phát triển của lối nấu rempah/sốt gia vị Malaysia là một suy luận hợp lý rút ra từ lịch sử thương mại và ẩm thực, chứ không phải một phát biểu có tài liệu ghi chép đơn lẻ — hãy xác nhận với một nguồn lịch sử ẩm thực chuyên biệt."
+framework: explainer
 ---
 
 Mở nắp gần như bất kỳ nồi cà ri, *gulai* hay *sambal* nào của Malaysia, bạn sẽ thấy

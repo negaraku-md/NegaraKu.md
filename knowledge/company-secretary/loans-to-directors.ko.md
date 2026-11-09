@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "disclosure-of-interest" }
 related: ["directors-duties", "disclosure-of-interest", "directors-fees-approval"]
 keywords: ["loan to director Malaysia", "section 224 Companies Act 2016", "director current account Sdn Bhd", "exempt private company loan director", "pinjaman kepada pengarah syarikat", "section 225 connected person loan"]
+framework: rules
 ---
 
 회사 계좌가 이사의 자동차 할부금을 냅니다. 그것은 "이사 계정"으로 코딩되고, 아무도 아무것도 서명하지 않으며, 연말에 그 잔액은 이사로부터 받을 채권입니다. 상당히 많은 말레이시아 Sdn Bhd에서 이는 적법합니다 — 그러나 그 이유는 관련된 대부분의 사람이 대지 못할 이유이며, 회사의 지분 구성이 바뀌는 순간 적용이 멈추는 이유입니다.

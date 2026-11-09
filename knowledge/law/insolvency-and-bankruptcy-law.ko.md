@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016", "contracts-act-1950", "court-hierarchy"]
 keywords: ["bankruptcy Malaysia", "insolvency act 1967", "winding up company Malaysia", "judicial management", "department of insolvency", "RM100000 bankruptcy threshold", "social guarantor", "discharge from bankruptcy"]
+framework: explainer
 ---
 
 말레이시아에서 돈을 빚지고 있다는 것만으로는 파산되기에 충분하지 아니합니다. 채무가 커야 하고, 채권자가 특정한 법원 절차를 따라야 하며 — 여러분이 친구의 학자금 대출이나 가족의 주거용 주택을 보증한 것뿐이라면, 법이 여러분을 전적으로 보호할 수도 있습니다. 말레이시아는 두 개의 별개의 도산 체제를 운영합니다. 하나는 사람을 위한 것, 하나는 회사를 위한 것입니다. 여러분이 어느 쪽에 있는지, 그리고 각각이 무엇을 허용하는지를 아는 것이 모든 것을 바꿉니다.

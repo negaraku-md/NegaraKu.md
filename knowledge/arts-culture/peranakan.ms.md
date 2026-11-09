@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["unesco-world-heritage", "batik"]
 keywords: ["Peranakan", "Baba-Nyonya", "Straits Chinese", "Nyonya cuisine", "Nyonya kebaya", "Melaka George Town heritage"]
+framework: history-culture
 ---
 
 Masuk ke sebuah rumah kedai lama di Heeren Street, Melaka, dan cerita itu disampaikan melalui objek sebelum sesiapa pun berkata sepatah. Sehelai blaus renda yang ketat, disemat di bahagian depan dengan kerongsang emas tiga keping. Sepasang kasut yang hujung jarinya diselaputi beribu-ribu manik kaca halus, dijahit satu demi satu dengan tangan. Sebuah meja panjang berpermukaan marmar tersedia untuk satu hidangan yang bukan sepenuhnya Cina mahupun sepenuhnya Melayu. Semua ini kepunyaan Peranakan — Baba-Nyonya — sebuah komuniti yang membina satu budaya daripada kehidupan di antara dua dunia.

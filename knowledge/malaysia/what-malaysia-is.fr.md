@@ -55,6 +55,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["qu'est-ce que la Malaisie", "what is Malaysia", "fédération de la Malaisie", "federation of Malaysia", "13 États 3 territoires fédéraux", "monarchie élective Malaisie", "elective monarchy Malaysia", "structure fédérale Malaisie", "Yang di-Pertuan Agong", "Constitution fédérale", "Federal Constitution"]
+framework: explainer
 ---
 
 La Malaisie n'est pas un lieu unique doté d'un seul gouvernement. C'est une fédération — un seul pays assemblé à partir de treize États et de trois territoires fédéraux, posé sur deux masses continentales séparées par plusieurs centaines de kilomètres de la mer de Chine méridionale. Comprendre d'abord cette structure rend presque tout le reste du pays plus facile à suivre.

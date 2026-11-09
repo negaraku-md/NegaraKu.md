@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "dta-network" }
 related: ["company-tax-residence", "dta-network", "withholding-tax-rates"]
 keywords: ["شهادة الإقامة الضريبية ماليزيا", "e-Residence LHDN", "certificate of residence Malaysia", "COR ضريبة ماليزيا", "Form STM1"]
+framework: how-to
 ---
 
 الشهادة ليست دليلًا على أنك ماليزي. هي دليل على أن شريك معاهدة بعينه ملزَم

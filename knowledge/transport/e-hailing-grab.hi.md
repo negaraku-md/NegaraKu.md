@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "jpj" }
 related: []
 keywords: ["ई-हेलिंग मलेशिया", "Grab विनियमन मलेशिया", "PSV लाइसेंस ई-हेलिंग", "e-hailing Malaysia", "Grab regulation Malaysia", "PSV licence e-hailing", "APAD ई-हेलिंग वाहन परमिट", "Grab मलेशिया में कैसे काम करता है", "ई-हेलिंग चालक लाइसेंस मलेशिया"]
+framework: explainer
 ---
 
 कुआलालंपुर में Grab, या Bolt, या inDrive खोलिए और «बुक» पर टैप कीजिए। उस पल में कुछ भी

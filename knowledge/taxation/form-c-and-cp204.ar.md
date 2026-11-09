@@ -122,6 +122,7 @@ relations:
   - { rel: "related-to", to: "company-tax-calendar" }
 related: ["corporate-tax-rates", "sdn-bhd-filing-calendar", "lhdn", "income-tax-act-1967"]
 keywords: ["CP204", "CP204A", "النموذج C ماليزيا", "Form C Malaysia", "غرامة التقدير المنخفض", "underestimation penalty", "المادة 107C", "section 107C", "تقدير ضريبة الشركات", "anggaran cukai syarikat"]
+framework: how-to
 ---
 
 الجزء المكلِّف من ضريبة الشركات الماليزية ليس المعدل. بل هو التخمين الذي تضعه

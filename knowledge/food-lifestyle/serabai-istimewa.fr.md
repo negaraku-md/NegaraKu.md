@@ -74,6 +74,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#SerabaiIstimewa", "#Serabai", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 Niché dans le rythme matinal de George Town, Serabai Istimewa fait une seule chose

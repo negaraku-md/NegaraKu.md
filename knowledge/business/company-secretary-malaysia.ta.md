@@ -105,6 +105,7 @@ keywords:
   - "section 236 Companies Act 2016"
   - "do I need a company secretary"
   - "company secretary requirements Malaysia"
+framework: explainer
 ---
 
 மலேசியாவில் நிறுவனச் செயலாளர்கள் பற்றி எழுதப்பட்ட கிட்டத்தட்ட அனைத்தும் நிறுவனச்

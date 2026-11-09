@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "pidm-deposit-insurance" }
 related: ["bank-negara-malaysia", "pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["bank digital", "digital bank Malaysia", "GXBank", "Boost Bank", "AEON Bank", "Ryt Bank", "KAF Digital Bank", "PIDM", "BNM"]
+framework: explainer
 ---
 
 今天您在马来西亚开设一个银行账户，可以完全不必踏进分行一步、不必见任何职员、也不必填写任何纸质表格——只需几分钟，通过智能手机即可完成。这正是数字银行的承诺，一类由马来西亚国家银行（BNM）发牌的新型银行，如今正服务着数百万名马来西亚人。

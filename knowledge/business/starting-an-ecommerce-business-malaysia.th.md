@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-vs-tax-invoice" }
 related: ["online-business-licence-malaysia"]
 keywords: ["start online business malaysia", "e-commerce business malaysia", "sell online malaysia registration", "SSM online business", "low value goods tax malaysia", "electronic trade transactions regulations", "e-invoice small business malaysia"]
+framework: how-to
 ---
 
 อีคอมเมิร์ซรู้สึกไม่เป็นทางการ — คุณขายบนตลาดกลางได้ภายในเวลาอาหารเย็น — ซึ่งหลอกให้คนจำนวนมากคิดว่ากฎไม่ใช้บังคับ มันใช้ มาเลเซียปฏิบัติต่อผู้ขายออนไลน์เหมือนธุรกิจอื่น: คุณต้องจดทะเบียน เปิดเผยว่าคุณเป็นใคร ปกป้องข้อมูลลูกค้า และจ่ายภาษีที่ถูกต้อง กฎยังเปลี่ยนไปเมื่อไม่นานนี้ ดังนั้นแม้ผู้ขายที่ตั้งขึ้นเมื่อไม่กี่ปีที่แล้วก็อาจดำเนินการบนข้อมูลที่ล้าสมัย

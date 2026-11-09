@@ -150,6 +150,7 @@ relations:
   - { rel: "related-to", to: "retrenchment-malaysia" }
 related: ["labour-law-map-malaysia", "domestic-inquiry-malaysia", "unfair-dismissal-malaysia", "retrenchment-malaysia", "termination-benefits-malaysia", "offboarding-statutory-checklist"]
 keywords: ["rupture du contrat de travail malaisie", "période de préavis malaisie", "emploi à discrétion malaisie", "paiement tenant lieu de préavis", "motif juste ou excuse valable", "salaire final après démission malaisie", "article 12 loi sur l'emploi", "termination of employment malaysia", "section 12 employment act"]
+framework: rules
 ---
 
 Un employeur à Kuala Lumpur décide un lundi qu'un gestionnaire ne fait pas l'affaire. Un conseil juridique ailleurs s'enquerrait de la clause de préavis. En Malaisie, la première question est différente, et c'est elle qui décide de l'affaire : **quel est le motif, et pouvez-vous le prouver ?**

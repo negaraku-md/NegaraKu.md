@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["sales-tax-explained", "customs-import-duty", "sst-registration"]
 keywords: ["low value goods", "LVG sales tax", "online shopping tax Malaysia", "10% sales tax imported goods", "MyLVG", "cukai jualan barang bernilai rendah", "RMCD low value goods"]
+framework: explainer
 ---
 
 Selama bertahun-tahun, gawai seharga di bawah RM500 yang dipesan dari toko web luar negeri mendarat di depan pintu Anda bebas pajak. Sejak 1 Januari 2024, tidak lagi.

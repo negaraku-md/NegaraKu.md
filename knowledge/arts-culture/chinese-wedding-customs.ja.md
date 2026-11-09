@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "chinese-dialects", "chinese-clan-associations", "chinese-religion-in-malaysia"]
 keywords: ["华人婚礼", "传统婚礼", "过大礼", "下聘", "聘金", "嫁妆", "安床", "上头", "迎亲", "接新娘", "姐妹玩新郎", "闯门", "奉茶", "敬酒", "喜酒", "回门", "囍", "双喜", "马来西亚华人", "Chinese wedding customs Malaysia"]
+framework: history-culture
 ---
 
 夜がまだ明けきらないうちに、一列の車がすでに新婦の家の前に停まっている。新郎は花束を抱え、後ろに数人の「兄弟」を従えているが、戸口から顔をのぞかせた数人の「姉妹」に阻まれる。まず質問に答え、次に一節歌い、極薄に切ったライムを数枚食べ、最後に扉の隙間からいくつかのアンパオを差し入れる——この「門越え」（闖門）の関門を通ってはじめて扉が開き、新郎は赤装束の新婦に会える。戯れとにぎわいに満ちたこうした朝が、マレーシアの多くの中国系婚礼の当日の幕開けである。

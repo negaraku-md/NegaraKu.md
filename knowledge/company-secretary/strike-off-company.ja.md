@@ -75,6 +75,7 @@ relations:
   - { rel: "compares-with", to: "members-voluntary-winding-up" }
 related: ["companies-act-2016", "ssm", "members-voluntary-winding-up"]
 keywords: ["strike off syarikat", "seksyen 550 Akta Syarikat 2016", "potong nama syarikat SSM", "syarikat dorman", "pembubaran syarikat", "voluntary dissolution Malaysia"]
+framework: how-to
 ---
 
 とうに事業をやめた休眠会社であっても、法律上はなお「生きて」いる——年次報告書（annual return）を提出しなければならず、罰則を受けるおそれがあり、その取締役はなおSSMに対して責任を負う。会社名を登録簿から抹消することは、その存続を正式に終わらせる方法であるが、これは資産、債務及び紛争から本当に無縁な会社にのみ開かれている。

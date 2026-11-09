@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["ip-ownership-malaysia", "industrial-design-malaysia", "patent-malaysia"]
 keywords: ["copyright malaysia", "copyright registration malaysia", "voluntary notification copyright", "copyright act 1987", "cr-1 form myipo"]
+framework: explainer
 ---
 
 ไม่มีอะไรให้จดทะเบียน ลิขสิทธิ์ในมาเลเซียไม่ได้ให้โดยสำนักงาน; มันมีอยู่ตั้งแต่ขณะที่งานที่มีความริเริ่มถูกทำให้อยู่ในรูปวัตถุ ซึ่งหมายความว่าคำถามที่สมเหตุสมผลเพียงข้อเดียวไม่ใช่ "ฉันจะจดทะเบียนมันอย่างไร" แต่เป็น "ฉันจะพิสูจน์ได้อย่างไรในอีกสองปีข้างหน้าว่ามันเป็นของฉันในวันนั้น"

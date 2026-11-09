@@ -84,6 +84,7 @@ relations:
   - { rel: "compares-with", to: "permanent-establishment" }
 related: ["corporate-tax-rates", "income-tax-act-1967", "lhdn", "sdn-bhd"]
 keywords: ["company tax residence Malaysia", "management and control", "section 8 Income Tax Act", "taraf mastautin syarikat", "resident company Malaysia"]
+framework: explainer
 ---
 
 Một Sdn Bhd của Malaysia mà cả ba giám đốc đều sống ở Singapore, họp qua cuộc gọi

@@ -103,6 +103,7 @@ keywords:
   - "MIDA manufacturing licence"
   - "shareholders funds RM2.5 million"
   - "exempted from manufacturing licence"
+framework: rules
 ---
 
 ผู้ผลิต SME ของมาเลเซียส่วนใหญ่ไม่ต้องมีใบอนุญาตการผลิต แนวทางแทบทุกฉบับหยุดอยู่ตรงนั้น ราวกับว่าการได้รับการยกเว้นเหมือนกับการไม่มีอะไรต้องทำ

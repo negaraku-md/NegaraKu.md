@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "investing-in-bursa" }
 related: ["securities-commission-malaysia"]
 keywords: ["IPO malaysia", "list on bursa malaysia", "bursa listing requirements", "main market ace market leap market", "how to go public malaysia", "listing criteria bursa", "bumiputera equity requirement IPO"]
+framework: explainer
 ---
 
 Sacar una empresa a bolsa es una de las mayores decisiones de financiación que sus propietarios tomarán jamás — capta capital permanente, pone un precio de mercado al negocio y ofrece a los accionistas una vía de salida. También somete a la empresa a un nivel de escrutinio y coste que sorprende a muchos fundadores. En Malasia, una oferta pública de venta (OPV) significa cotizar en Bursa Malaysia, y la ruta que se tome depende enteramente de lo grande y lo consolidada que sea la empresa.

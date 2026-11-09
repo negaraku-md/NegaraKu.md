@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "hinduism-in-malaysia" }
 related: ["hinduism-in-malaysia", "thaipusam", "mariamman-worship", "temple-music-nadaswaram", "indian-classical-arts-in-malaysia"]
 keywords: ["இந்துக் கோயில் கட்டடக்கலை", "கோபுரம்", "விமானம்", "கர்ப்பக்கிரகம்", "மண்டபம்", "திராவிடக் கட்டடக்கலை", "கும்பாபிஷேகம்", "மலேசியா கோயில்கள்", "Hindu temple architecture", "gopuram", "Dravidian architecture Malaysia"]
+framework: history-culture
 ---
 
 As you approach any part of a Malaysian town where a Tamil community has put down roots, a sculpture-covered tower reaching toward the sky catches the eye from a distance. That gateway tower, with its tiers of colourful deity figures, is no accident — it is the continuation of an architectural tradition a thousand years old; the mark of a cultural heritage that people of South Indian Tamil descent carried with them to Malaysia.

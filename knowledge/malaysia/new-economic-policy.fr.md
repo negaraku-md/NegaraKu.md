@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["rukun-negara", "the-emergency", "independence-1957", "formation-of-malaysia-1963", "population-composition"]
 keywords: ["New Economic Policy", "NEP", "Dasar Ekonomi Baru", "DEB", "Second Malaysia Plan", "restructuring society", "poverty eradication", "national unity", "Outline Perspective Plan", "30 per cent Bumiputera equity"]
+framework: explainer
 ---
 
 La Nouvelle Politique économique est habituellement retenue en un seul mot — « restructuration » — et débattue depuis lors. Mais la politique a déclaré ses propres fins par écrit, dans un plan gouvernemental déposé au Parlement, et ces fins étaient au nombre de deux, et non d'une, avec une troisième idée placée au-dessus des deux. Cet article expose ce que disent les documents, dans l'ordre où les documents le disent.

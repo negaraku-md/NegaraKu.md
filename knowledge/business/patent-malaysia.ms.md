@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["industrial-design-malaysia", "ip-ownership-malaysia", "trademark-registration-malaysia"]
 keywords: ["paten malaysia", "inovasi berfaedah malaysia", "yuran paten myipo", "akta paten 1983", "inovasi berfaedah vs paten"]
+framework: decision
 ---
 
 Kebanyakan PKS Malaysia yang bertanya tentang paten sebenarnya tidak

@@ -87,6 +87,7 @@ relations:
   - { rel: "explained-in", to: "national-heritage-act-2005" }
 related: ["teh-tarik"]
 keywords: ["nasi lemak", "roti canai", "char kuey teow", "laksa", "asam laksa", "hidangan kebangsaan Malaysia", "makanan warisan", "UNESCO warisan tidak ketara", "makanan Malaysia"]
+framework: explainer
 ---
 
 Ask ten Malaysians to name the country's "national dish", and nine of them will say nasi lemak before you finish the question. Yet the real answer is more interesting: Malaysia has never legally declared a single dish — instead, the country has a handful of dishes that, collectively, carry its identity onto the world stage.

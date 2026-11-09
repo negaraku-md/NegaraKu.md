@@ -70,6 +70,7 @@ verificationNeeded:
   - "SENSITIF: menyentuh dampak 13 Mei 1969 dan Dasar Ekonomi Baru / kebijakan Melayu-Bumiputera (ras). Dirangkum secara netral; periksa ulang terhadap sumber primer dan wajibkan persetujuan peninjau manusia sebelum publikasi."
   - "Konfirmasikan tanggal-tanggal pasti (masa jabatan perdana menteri, kelahiran, kematian) terhadap Perdana Leadership Foundation dan Kantor Perdana Menteri."
   - "Sumber-sumber berbeda mengenai tahun pendirian Barisan Nasional (koalisi itu terbentuk pada 1973 dan secara resmi didaftarkan pada 1974); konfirmasikan tanggal dan rumusan yang tepat sebelum mengandalkannya."
+framework: profile
 ---
 
 Dalam rentang beberapa tahun yang penuh gejolak, Tun Abdul Razak Hussein beralih dari penjaga sementara konstitusional sebuah bangsa di bawah pemerintahan darurat menjadi arsitek utama tatanan ekonomi modernnya. Perdana Menteri kedua Malaysia memerintah hanya nyaris lima tahun, namun kerangka yang ia bangun — ekonomi tindakan afirmatif, koalisi yang dominan, dan kebijakan luar negeri yang pragmatis — membentuk negara itu selama beberapa dekade setelah wafatnya yang mendadak dalam jabatan. Bagi banyak rakyat Malaysia ia tetaplah sekadar **Bapa Pembangunan**.

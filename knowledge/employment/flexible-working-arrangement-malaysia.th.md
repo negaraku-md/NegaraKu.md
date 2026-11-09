@@ -72,6 +72,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-act-1955-guide", "working-hours-overtime-malaysia", "employment-contract-malaysia"]
 keywords: ["flexible working arrangement malaysia", "fwa malaysia employment act", "section 60p 60q", "work from home request malaysia", "flexible work application malaysia"]
+framework: rules
 ---
 
 การรายงานเรื่องการทำงานที่ยืดหยุ่นในมาเลเซียส่วนใหญ่อธิบายว่ามันเป็นสวัสดิการที่นายจ้างอาจเลือกให้ การอ่านเช่นนั้นพลาดประเด็นของภาค XIIC โดยสิ้นเชิง พระราชบัญญัติไม่ได้สร้างสิทธิในการทำงานอย่างยืดหยุ่น แต่สร้าง **หน้าที่ในการตอบ** เป็นลายลักษณ์อักษร ภายในกำหนดเวลาที่แน่นอน — และหน้าที่นั้นบังคับใช้ได้ไม่ว่าคำตอบจะเป็นใช่หรือไม่

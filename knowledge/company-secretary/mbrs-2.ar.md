@@ -112,6 +112,7 @@ relations:
   - { rel: "related-to", to: "unaudited-financial-statements" }
 related: ["annual-return", "financial-statements-lodgement", "extension-of-time-ssm", "ssm-late-lodgement-fees", "unaudited-financial-statements", "audit-exemption"]
 keywords: ["MBRS 2.0", "MBRS ماليزيا", "MBRS Malaysia", "تقديم XBRL إلى SSM", "XBRL filing SSM", "mTool", "mPortal", "تصنيف SSM الضريبي SSMxT", "SSM taxonomy SSMxT", "تقديم البيانات المالية SSM", "lodge financial statements SSM", "الإقرار السنوي XBRL", "annual return XBRL"]
+framework: explainer
 ---
 
 على مدى عشرين عاماً كانت مجموعة البيانات المالية الماليزية تُرسَل إلى SSM

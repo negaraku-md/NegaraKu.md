@@ -81,6 +81,7 @@ relations:
   - { rel: "requires", to: "special-resolution" }
 related: ["companies-act-2016", "company-limited-by-guarantee-malaysia"]
 keywords: ["statut de l'entreprise", "perlembagaan syarikat", "company constitution", "résolution spéciale", "section 32", "section 36", "entrenchment", "Companies Act 2016", "Akta Syarikat 2016", "SSM"]
+framework: how-to
 ---
 
 Une Sdn Bhd peut fonctionner pendant des années sans un seul document intitulé « statut » — et c'est parfaitement licite en droit malaisien. La Companies Act 2016 a rendu le statut facultatif pour la plupart des entreprises, un changement majeur par rapport à l'ère du Mémorandum et des statuts de constitution (M&A) obligatoires. La question n'est plus « que doit contenir notre statut », mais « en avons-nous besoin, et si oui, comment l'adoptons-nous, le modifions-nous ou le verrouillons-nous ? ».

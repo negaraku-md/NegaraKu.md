@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "sabah-travel-guide" }
 related: []
 keywords: ["Sipadan diving permit", "Malaysia marine park fees", "Sabah Parks", "Department of Fisheries marine park", "scuba diving Malaysia", "marine ecotourism"]
+framework: rules
 ---
 
 น้ำที่ใสที่สุดในมาเลเซียก็เป็นน้ำที่เข้าถึงยากที่สุดด้วย การจะลงสู่ผนังใต้น้ำของสิปาดันได้ คุณต้องมีใบอนุญาตจากรัฐบาลที่ไม่ว่าจะมีเงินมากเพียงใดก็ซื้อโดยตรงไม่ได้ ข้อเท็จจริงเพียงข้อเดียวนี้สะท้อนวิธีที่ประเทศบริหารการท่องเที่ยวดำน้ำ นั่นคือการเข้าถึงถูกปันส่วน ตั้งราคา และแบ่งกันดูแลระหว่างสองหน่วยงานที่แตกต่างกันมาก ขึ้นอยู่กับว่าคุณต้องการดำลงไปในทะเลผืนใด

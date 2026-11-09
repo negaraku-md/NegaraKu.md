@@ -123,6 +123,7 @@ keywords:
   - "fi pendaftaran enterprise SSM"
   - "ROBA 1956 30 hari"
   - "nama perniagaan berbanding nama peribadi SSM"
+framework: how-to
 ---
 
 Tiga puluh hari itu biasanya sudah berlalu.

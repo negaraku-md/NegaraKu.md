@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "orang-asli" }
 related: ["unesco-world-heritage", "peranakan", "orang-asli"]
 keywords: ["Muzium Negara", "Islamic Arts Museum Malaysia", "IAMM", "Perak Museum Taiping", "Sarawak Museum", "Sabah Museum", "Malaysia state museums"]
+framework: history-culture
 ---
 
 Pregúntale a la mayoría de los visitantes cuál es el museo más antiguo de Malasia y adivinarán el Muzium Negara, el edificio de techo palaciego que ancla la hilera de museos de Kuala Lumpur. Se equivocarían por ochenta años. Ese título pertenece a una modesta galería en Taiping, construida mientras el emplazamiento del Muzium Negara aún estaba ocupado por su predecesor.

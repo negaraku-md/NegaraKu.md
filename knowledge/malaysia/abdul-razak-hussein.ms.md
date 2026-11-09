@@ -70,6 +70,7 @@ verificationNeeded:
   - "SENSITIF: menyentuh susulan 13 Mei 1969 dan Dasar Ekonomi Baru / dasar Melayu-Bumiputera (kaum). Diringkaskan secara neutral; semak semula dengan sumber primer dan wajibkan kelulusan penyemak manusia sebelum penerbitan."
   - "Sahkan tarikh tepat (keperdanaan, kelahiran, kematian) dengan Perdana Leadership Foundation dan Pejabat Perdana Menteri."
   - "Sumber berselisih tentang tahun pengasasan Barisan Nasional (gabungan itu mengambil bentuk pada 1973 dan didaftarkan secara rasmi pada 1974); sahkan tarikh dan perkataan tepat sebelum bergantung padanya."
+framework: profile
 ---
 
 Dalam ruang beberapa tahun yang bergelora, Tun Abdul Razak Hussein berpindah daripada penjaga perlembagaan sebuah negara di bawah pemerintahan darurat kepada perancang utama tatanan ekonomi modennya. Perdana Menteri kedua Malaysia memerintah hampir lima tahun sahaja, namun kerangka yang dibinanya — sebuah ekonomi tindakan afirmatif, sebuah gabungan yang dominan dan satu dasar luar yang pragmatik — membentuk negara selama beberapa dekad selepas kematiannya yang mengejut dalam jawatan. Bagi ramai rakyat Malaysia beliau kekal sekadar **Bapa Pembangunan**.

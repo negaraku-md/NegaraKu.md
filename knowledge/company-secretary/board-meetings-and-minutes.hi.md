@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "directors-duties" }
 related: ["minute-books-and-records", "directors-duties", "disclosure-of-interest", "written-resolutions", "company-tax-residence"]
 keywords: ["निदेशक मंडल की बैठक मलेशिया", "board meeting Malaysia", "तीसरी अनुसूची कंपनी अधिनियम 2016", "Third Schedule Companies Act 2016", "निदेशक परिपत्र संकल्प", "निदेशक मंडल कोरम Sdn Bhd", "धारा 212 निदेशक मंडल की कार्यवाहियाँ"]
+framework: rules
 ---
 
 अधिकांश मलेशियाई Sdn Bhd के पास कोई संविधान नहीं है। कंपनी अधिनियम 2016 के अंतर्गत उन्हें

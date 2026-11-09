@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "statutory-audit-process" }
 related: ["appointing-an-auditor", "changing-auditors", "statutory-audit-process", "audit-fees-malaysia"]
 keywords: ["auditor independence", "partner rotation", "cooling-off period", "public interest entity", "MIA By-Laws", "Section 540", "non-audit services", "self-review threat"]
+framework: rules
 ---
 
 동일 상장회사의 회계를 10년간 서명해 온 감사 파트너는 모든 해골이 어디에 묻혀

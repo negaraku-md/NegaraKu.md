@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "payment-regulation-malaysia" }
 related: ["bank-negara-malaysia", "payment-regulation-malaysia"]
 keywords: ["DuitNow", "DuitNow QR", "PayNet", "pembayaran segera Malaysia", "kod QR Malaysia", "pindahan wang guna nombor telefon", "Bank Negara Malaysia pembayaran digital"]
+framework: explainer
 ---
 
 ผู้ค้าแผงลอยตลาดกลางคืนแสดง QR โค้ดเพียงโค้ดเดียว ลูกค้าที่ใช้แอป Maybank สแกนมัน ลูกค้าคนถัดไปใช้ Touch 'n Go eWallet สแกน QR โค้ด**เดียวกัน** การชำระเงินทั้งสองรายการเข้าถึงบัญชีของผู้ค้าภายในไม่กี่วินาที ไม่มี QR โค้ดแยกสำหรับแต่ละธนาคารหรือ e-wallet นั่นคือ DuitNow QR ที่ทำงานอย่างเงียบ ๆ อยู่เบื้องหลัง

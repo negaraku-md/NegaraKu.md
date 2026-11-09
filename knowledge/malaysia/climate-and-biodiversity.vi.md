@@ -63,6 +63,7 @@ keywords:
   - "monsoon Malaysia"
   - "MetMalaysia"
   - "MyBIS"
+framework: explainer
 ---
 
 # Vì sao Malaysia là một trong những quốc gia đa dạng sinh học bậc nhất thế giới

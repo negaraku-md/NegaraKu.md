@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["employment-act-1955", "socso-perkeso"]
 keywords: ["OKU", "orang kurang upaya", "Akta 685", "Seksyen 29", "kuota 1%", "Kad OKU", "potongan cukai berganda", "pekerjaan inklusif"]
+framework: explainer
 ---
 
 马来西亚许多具备资格的残障人士（OKU）在获得就业机会与面试方面面对实实在在的差距——而这正是法律试图弥合的差距。自2008年起，马来西亚便设有针对残障人士（OKU）的就业权利框架，并附带雇主税务激励，然而聘用数字至今仍低于目标。本指南解释法律究竟要求什么，以及雇主可以申请什么。

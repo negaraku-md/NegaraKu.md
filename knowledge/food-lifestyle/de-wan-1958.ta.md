@@ -69,6 +69,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["DeWan1958", "ChefWan", "BibGourmand", "MichelinGuideMalaysia", "KualaLumpur"]
+framework: profile
 ---
 
 De. Wan 1958 என்பது கோலாலம்பூர், Taman U Thant-இல் உள்ள The LINC KL-இல்

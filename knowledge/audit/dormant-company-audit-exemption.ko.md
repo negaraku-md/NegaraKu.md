@@ -55,6 +55,7 @@ relations:
   - { rel: "part-of", to: "audit-exemption" }
 related: ["audit-exemption", "audit-exemption-thresholds", "after-audit-exemption"]
 keywords: ["dormant company audit exemption Malaysia", "dormant company SSM", "what breaks dormancy", "dormant since incorporation", "syarikat dorman audit"]
+framework: rules
 ---
 
 이름만 보유하고 그 밖에는 아무것도 없는 선반 회사(shelf company)는 매출 시험,

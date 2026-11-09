@@ -77,6 +77,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["Thara", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 独自の屋台料理の伝統で知られるジョージタウンで、まず思い浮かぶのはタイ料理では

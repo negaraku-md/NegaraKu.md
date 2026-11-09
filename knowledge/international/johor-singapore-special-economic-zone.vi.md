@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "manufacturing" }
 related: ["johor", "external-trade", "manufacturing"]
 keywords: ["JS-SEZ", "Johor Singapore Special Economic Zone", "JS-SEZ incentives", "JS-SEZ flagship zones", "Malaysia Singapore economic zone", "IMFC-J"]
+framework: explainer
 ---
 
 Hai quốc gia đã đồng ý chia sẻ một bộ luật thuế xuyên qua một đường biên giới. Đó là sự mới mẻ lặng lẽ của Đặc khu Kinh tế Johor-Singapore — không phải một khu công nghiệp mới, mà là một thỏa thuận song phương cho phép miền nam Johor và Singapore tự tiếp thị mình với các nhà đầu tư toàn cầu như một địa chỉ kinh doanh duy nhất.

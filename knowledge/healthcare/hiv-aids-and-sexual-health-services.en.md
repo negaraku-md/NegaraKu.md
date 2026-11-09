@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "klinik-kesihatan-services" }
 related: []
 keywords: ["HIV", "AIDS", "ujian HIV", "PrEP", "PEP", "ART", "kesihatan seksual", "Majlis AIDS Malaysia", "Kementerian Kesihatan"]
+framework: explainer
 ---
 
 A person anxious after a risky night can walk into a government Klinik Kesihatan in Malaysia, get an HIV test for free and confidentially, and — if needed — go home with preventive medication within a few hours. Yet that same path also intersects with questions of confidentiality, law, religion and stigma that make HIV one of the most sensitive health topics in the country.

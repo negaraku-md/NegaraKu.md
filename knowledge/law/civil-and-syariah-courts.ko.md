@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["court-hierarchy", "federal-constitution", "article-3-religion", "fundamental-liberties"]
 keywords: ["civil court vs Syariah court Malaysia", "Article 121(1A) Federal Constitution", "Mahkamah Tinggi Syariah jurisdiction", "Ninth Schedule State List item 1", "Syariah Courts Criminal Jurisdiction Act 1965", "Act 355", "mahkamah sivil dan mahkamah syariah"]
+framework: explainer
 ---
 
 그 사이에는 계단이 없습니다.

@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "pdpa-2010" }
 related: ["pdpa-2010"]
 keywords: ["Malaysia cybersecurity", "Cyber Security Act 2024", "Act 854", "NACSA", "National Critical Information Infrastructure", "Global Cybersecurity Index", "Malaysia Cyber Security Strategy"]
+framework: explainer
 ---
 
 Selama satu dekade, Malaysia meminta infrastruktur kritikalnya menganggap serius soal keamanan siber. Sejak 26 Agustus 2024, ia memerintahkan mereka berbuat demikian — dan menyertakan hukuman penjara jika salah.

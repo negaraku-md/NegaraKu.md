@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "financial-year-end" }
 related: ["audit-exemption-thresholds", "who-cannot-claim-audit-exemption", "dormant-company-audit-exemption", "after-audit-exemption"]
 keywords: ["audit exemption Malaysia", "pengecualian audit syarikat", "Practice Directive 10/2024", "SSM audit exemption criteria", "small company audit Malaysia"]
+framework: rules
 ---
 
 すべてのSdn Bhd（非公開有限会社）が年次監査を必要とするわけではない。この基準は、ある点では多くの人が思うより寛容であり、別の点ではより厳格である——そしてその両方が広く誤って伝えられている。

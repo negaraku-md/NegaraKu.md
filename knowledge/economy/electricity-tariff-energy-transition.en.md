@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "renewable-energy-malaysia" }
 related: ["tenaga-nasional"]
 keywords: ["tarif elektrik", "RP4", "AFA", "NETR", "Suruhanjaya Tenaga", "TNB", "tenaga boleh diperbaharui", "peralihan tenaga", "subsidi elektrik"]
+framework: explainer
 ---
 
 Your electricity bill now looks different — and it is not a printing error. Since 1 July 2025, every kilowatt-hour flowing into Malaysian homes and factories has been calculated using a far more detailed formula, the result of a major reform of the power sector. This change is not merely a matter of bill costs; it is closely tied to the country's direction toward renewable energy.

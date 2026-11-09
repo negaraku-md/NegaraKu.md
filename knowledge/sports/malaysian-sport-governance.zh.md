@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "malaysia-olympic-history" }
 related: []
 keywords: ["tadbir urus sukan Malaysia", "Majlis Sukan Negara", "Pesuruhjaya Sukan", "Akta Pembangunan Sukan 1997", "Majlis Olimpik Malaysia", "Kementerian Belia dan Sukan", "Institut Sukan Negara"]
+framework: explainer
 ---
 
 柔佛一家新成立的足球俱乐部可以购买球衣、租借球场、注册球员——但它仍然无法合法地派任何人代表"马来西亚"参加任何比赛。原因不在于金钱或天赋，而在于谁给予授权。在马来西亚，作为体育团体存在的权利、获得资助的权利，以及使用国家名号的权利，来自四个不同的机构，而这些机构常被误认为是同一个。

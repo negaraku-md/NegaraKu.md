@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "consumer-protection-act" }
 related: ["sedition-act", "consumer-protection-act"]
 keywords: ["penapisan filem", "Lembaga Penapisan Filem", "LPF", "klasifikasi filem", "P12", "P13", "Akta Penapisan Filem 2002", "lesen hiburan", "karaoke", "pawagam", "DBKL", "pihak berkuasa tempatan"]
+framework: explainer
 ---
 
 ภาพยนตร์ที่กลายเป็นไวรัลบน YouTube อาจไม่เคยผ่านคณะกรรมการเซนเซอร์ภาพยนตร์ แต่ภาพยนตร์เรื่องเดียวกันนั้น หากจะฉายในโรงภาพยนตร์ ต้องได้รับตราอนุมัติเสียก่อน ความแตกต่างนั้นไม่ใช่ความผ่อนปรนโดยบังเอิญ แต่ถูกสร้างขึ้นในวิธีที่กฎหมายมาเลเซียควบคุมสิ่งที่ประชาชนทั่วไปจะได้ดู

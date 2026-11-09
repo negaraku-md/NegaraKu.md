@@ -74,6 +74,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#CurryMee", "#Penang", "#SeberangPerai", "#BibGourmand", "#Malaysia"]
+framework: profile
 ---
 
 Most of Penang's MICHELIN fame clusters on George Town's island streets. Taman

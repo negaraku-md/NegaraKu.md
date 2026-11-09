@@ -69,6 +69,7 @@ keywords:
   - "partner liability Malaysia"
   - "joint and several liability partnership"
   - "register partnership SSM"
+framework: explainer
 ---
 
 เพื่อนสองคนจดทะเบียนห้างหุ้นส่วนเพราะมันเสียเงิน RM60 ต่อปีและไม่มีใครเอ่ยถึงทางเลือกอื่น สามปี

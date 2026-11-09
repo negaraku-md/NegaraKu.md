@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysian-citizenship" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["permanent residency Malaysia", "MyPR", "red IC Malaysia", "Entry Permit Malaysia", "PR spouse Malaysian", "Immigration Act 1959/63", "Regulation 4 Immigration Regulations 1963"]
+framework: explainer
 ---
 
 MyKad สีแดงเป็นเส้นชัยที่เงียบงันสำหรับชีวิตระยะยาวจำนวนมากในมาเลเซีย — ภรรยาชาวต่างชาติที่ต่ออายุใบอนุญาตเยือนเดิมมาหนึ่งทศวรรษ วิศวกรที่ไม่อยากยื่นการขยายใบอนุญาตทำงานอีก ผู้เกษียณที่ต้องการเป็นส่วนหนึ่งของที่ใดสักแห่งอย่างถาวร บัตรนั้น MyPR คือสิ่งที่ถิ่นที่อยู่ถาวรของมาเลเซียมีหน้าตาจริงในกระเป๋าสตางค์ของคุณ

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["tax-incentives-directory", "personal-tax-reliefs", "new-incentive-framework"]
 keywords: ["insentif cukai pelabur mangkin malaysia", "pengecualian cukai pelabur mangkin", "pu a 167 2014", "insentif cukai mangkin cradle", "akreditasi mban", "pelepasan cukai pelabur startup malaysia"]
+framework: rules
 ---
 
 Setiap dek startup yang menyebut insentif cukai mangkin mengatakan ia berjalan hingga 2026. Warta mengatakan sebaliknya. Instrumen yang berkuat kuasa ialah Perintah Cukai Pendapatan (Pengecualian) (No. 3) 2014, P.U.(A) 167/2014, dibuat di bawah s.127(3)(b) Akta Cukai Pendapatan 1967 dan disifatkan berkuat kuasa dari 1 Januari 2013. Perenggan 5(a)(ii)-nya menghendaki pelabur itu memohon kepada Menteri **tidak lewat daripada tarikh tetap**, dan tarikh itu telah bergerak tepat dua kali.

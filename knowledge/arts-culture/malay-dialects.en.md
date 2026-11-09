@@ -76,6 +76,7 @@ social:
   hashtags: ["#DialekMelayu", "#LoghatMelayu", "#BahasaMelayu", "#Malaysia", "#Bahasa"]
 verificationNeeded:
   - "The number and boundaries of the dialect groups differ according to the schemes of dialectologists (Ismail Hussein's four clusters, 1973; Asmah Haji Omar's seven groups; more detailed lists) and are not fully agreed upon. The status of standard Malay as 'based on Johor-Riau' as well as the history of standard-pronunciation policy versus Johor-Riau pronunciation should be checked against official DBP publications. The relationship of the Negeri Sembilan dialect to the Minangkabau language (migrant ancestry versus linguistic proximity to standard Malay) and the status of Baba Malay as a creole remain debated among scholars."
+framework: explainer
 ---
 
 A speaker from Kota Bharu, one from Alor Setar and one from Kuching might all say they speak Malay — but when they chat casually in their respective villages, the sound can be so different that it takes a little adjustment to understand one another. It is this difference that is called a dialect, or in everyday language, loghat.

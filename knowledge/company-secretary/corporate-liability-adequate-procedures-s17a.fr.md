@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016"]
 keywords: ["Section 17A", "MACC Act", "corporate liability", "adequate procedures", "T.R.U.S.T.", "anti-corruption Malaysia", "corporate bribery", "GIACC"]
+framework: rules
 ---
 
 Un commercial subalterne verse une commission occulte pour remporter un contrat et n'en dit jamais rien au conseil. Selon le droit malaisien en vigueur depuis 2020, cet acte peut exposer l'entreprise elle-même à des poursuites pénales, et les administrateurs avec elle. Telle est la portée de la Section 17A de la loi de 2009 sur la Commission malaisienne de lutte contre la corruption.

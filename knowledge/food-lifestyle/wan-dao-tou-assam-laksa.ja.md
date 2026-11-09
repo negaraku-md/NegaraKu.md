@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#AssamLaksa", "#Penang", "#BibGourmand", "#MalaysianFood", "#Malaysia"]
+framework: profile
 ---
 
 assam laksa を誇りとする街で、Wan Dao Tou は MICHELIN Guide のジョージタウンの地

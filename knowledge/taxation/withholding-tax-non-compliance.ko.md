@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-digital-services", "cp37-forms"]
 keywords: ["failure to withhold tax Malaysia", "section 39(1)(j)", "withholding tax penalty Malaysia", "10 percent increase withholding tax", "section 113(2) penalty"]
+framework: explainer
 ---
 
 놓친 원천징수세 RM5,000은 RM5,000의 비용이 아닙니다. 세금으로 RM5,500, 잃은 공제로

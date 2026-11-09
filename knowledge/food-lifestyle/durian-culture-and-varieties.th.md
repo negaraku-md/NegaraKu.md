@@ -93,6 +93,7 @@ keywords:
   - "varieti durian"
   - "musim durian"
   - "eksport durian China"
+framework: explainer
 ---
 
 ในมาเลเซีย ทุเรียนไม่ใช่เพียงผลไม้ มันถูกเรียกว่าราชาแห่งผลไม้ และในช่วงฤดูกาลสูงสุด

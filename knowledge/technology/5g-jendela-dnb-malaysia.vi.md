@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "internet-and-fibre" }
 related: ["malaysias-telcos-and-5g", "internet-and-fibre"]
 keywords: ["JENDELA", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "second 5G network", "U Mobile", "MCMC", "national broadband plan", "spectrum allocation", "700MHz", "3.5GHz"]
+framework: explainer
 ---
 
 Hỏi hai người Malaysia về cách các mạng di động của đất nước được vận hành và bạn sẽ thường nhận được hai câu trả lời khác nhau, đúng một nửa — bởi vì thực ra có hai câu chuyện riêng biệt bị đan xen vào nhau. Một là kế hoạch phủ sóng băng thông rộng với một cái tên mà hầu hết mọi người đã thấy trên một tấm băng rôn của chính phủ. Câu chuyện kia là một cuộc chiến diễn biến nhanh về việc ai được sở hữu đường ống 5G. Hiểu về kết nối hiện đại của Malaysia có nghĩa là giữ hai câu chuyện này tách bạch.

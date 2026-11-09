@@ -41,6 +41,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "melaka-sultanate" }
 keywords: ["Langkasuka", "kerajaan Melayu awal", "sejarah purba Kedah", "Lang-ya-xiu", "Malaysia pra-Islam"]
+framework: history-culture
 ---
 
 Vào thế kỷ thứ bảy, một sử gia triều đình Trung Quốc biên soạn Kitab Liang (Sách Lương) đã ghi lại những gì các sứ giả trước đó đã báo cáo về một vương quốc xa xôi ở phương nam: một thành phố có tường thành, một vị vua cưỡi voi, một cung điện nơi các quan lại cúi mình chắp tay trước nhà vua của họ. Sử gia đó đặt tên nơi ấy là "Lang-ya-xiu." Gần như chắc chắn ông đang mô tả Langkasuka — và câu đó, bị chôn vùi trong một bộ sử triều đại được biên soạn cho một mục đích hoàn toàn khác, là một trong số ít những mô tả chi tiết về nơi này còn sống sót ở bất cứ đâu.

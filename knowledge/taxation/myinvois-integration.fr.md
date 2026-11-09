@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "myinvois-phases" }
 related: ["e-invoicing", "myinvois-phases", "e-invoice-data-fields", "consolidated-e-invoice", "self-billed-e-invoice"]
 keywords: ["intégration MyInvois", "MyInvois API", "portail MyInvois", "Peppol Malaisie", "middleware facture électronique", "e-invois integrasi sistem"]
+framework: decision
 ---
 
 Presque tout ce qui a été écrit sur cette décision l'a été par quelqu'un qui vendait l'une des réponses. Partez donc des deux seuls mécanismes que LHDN reconnaît réellement, dans la Table 2.1 du Guide de la facture électronique : **le portail MyInvois** et **l'API**. Les fournisseurs Peppol, les fournisseurs technologiques non Peppol et le middleware ne sont pas une troisième option — ce sont trois façons d'atteindre l'API.

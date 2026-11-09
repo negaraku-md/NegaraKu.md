@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "department-of-industrial-relations-malaysia" }
 related: ["trade-unions-malaysia", "employment-act-1955"]
 keywords: ["rundingan kolektif", "perjanjian kolektif", "pertikaian perusahaan", "hak rundingan tunggal", "pengiktirafan kesatuan", "mogok", "sekat masuk", "piket", "Akta Perhubungan Perusahaan 1967", "Mahkamah Perusahaan"]
+framework: rules
 ---
 
 고용주가 급여 협상을 위해 한 자리에 앉기를 바라는 근로자는 단지 요청만 할 수는 없습니다.

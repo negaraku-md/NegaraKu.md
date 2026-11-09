@@ -97,6 +97,7 @@ social:
     - "#PenangFood"
     - "#MalaysianFood"
     - "#StreetFood"
+framework: explainer
 ---
 
 char kway teow ほどマレーシアのストリートフードを完全に捉える一皿は少ない。幅広の

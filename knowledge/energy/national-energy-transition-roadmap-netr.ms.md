@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "energy-commission-malaysia" }
 related: ["petronas", "tenaga-nasional"]
 keywords: ["NETR", "National Energy Transition Roadmap", "Malaysia energy transition", "renewable energy Malaysia", "net zero 2050", "coal phase out Malaysia", "green hydrogen Malaysia", "CCUS Malaysia", "NETF seed fund", "ENEGEM"]
+framework: explainer
 ---
 
 Untuk sebahagian besar abad yang lalu, kisah ekonomi Malaysia bergantung pada hidrokarbon — minyak di dasar laut, gas yang disalurkan ke stesen janakuasa, dan arang batu yang diimport untuk memastikan grid berjalan dengan murah. Peta Jalan Peralihan Tenaga Negara (NETR) ialah pelan untuk menulis semula kisah itu sebelum 2050, dan ia disertai angka-angka yang tegas, projek-projek yang dinamakan, dan harga bernilai trilion ringgit.

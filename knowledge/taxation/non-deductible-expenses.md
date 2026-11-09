@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "entertainment-expenses" }
 related: ["section-33-deductibility", "labuan-tax-regime", "withholding-tax-non-compliance", "withholding-tax-rates"]
 keywords: ["section 39 income tax act 1967", "non deductible expenses malaysia", "disallowed expenses tax computation", "39(1)(j) withholding tax", "39(1)(r) labuan", "add back tax computation malaysia"]
+framework: rules
 ---
 
 Most add-back schedules are built from habit. Depreciation, entertainment, fines, donations — the same six lines every year, copied forward. Section 39(1) actually contains eighteen live prohibitions, and the ones that cost the most money are not on anybody's habitual list.

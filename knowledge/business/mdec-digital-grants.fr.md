@@ -78,6 +78,7 @@ social:
     - MDEC
     - MalaysiaDigital
     - TechFunding
+framework: explainer
 ---
 
 La plupart des fondateurs en quête d'un financement de MDEC cherchent « la subvention de MDEC » et s'attendent à un dispositif unique. Il y en a en réalité deux, elles financent les extrémités opposées du parcours d'une entreprise, et toutes deux partagent une porte peu évidente : il faut déjà être à l'intérieur de Malaysia Digital pour entrer. Passez à côté, et le montant affiché sur la page n'a aucune importance.

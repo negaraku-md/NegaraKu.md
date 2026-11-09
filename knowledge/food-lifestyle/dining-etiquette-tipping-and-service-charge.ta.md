@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "sales-and-service-tax-sst-explained" }
 related: []
 keywords: ["tipping malaysia", "service charge malaysia", "service tax restaurant", "dining etiquette malaysia", "SST food and beverage"]
+framework: explainer
 ---
 
 கோலாலம்பூரில் ஒரு நல்ல உணவை முடித்துவிட்டீர்கள், பில் மேசைக்கு வருகிறது, உங்கள் மொத்தத்திற்குக் கீழே இரண்டு அறிமுகமில்லாத வரிகள் அமர்ந்திருக்கின்றன. இல்லை, நீங்கள் கூடுதலாக எதையும் ஆர்டர் செய்யவில்லை — இல்லை, அதன் மேல் நீங்கள் டிப்ஸ் சேர்க்க வேண்டியதில்லை. மலேசியாவில் வெளியே உணவருந்துவது உண்மையில் எப்படி இயங்குகிறது என்பது இங்கே.

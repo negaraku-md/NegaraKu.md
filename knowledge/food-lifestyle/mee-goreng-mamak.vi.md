@@ -90,6 +90,7 @@ verificationNeeded:
   - "Liệu thịt cừu là thành phần tiêu chuẩn hay chỉ thỉnh thoảng được thêm vào — các nguồn xác nhận tôm nhưng ít cụ thể về thịt cừu cho món này; hãy xác minh với một nguồn ẩm thực Malaysia."
   - "Tên gọi và định nghĩa chính xác của các biến thể theo quầy 'mee goreng basah' (ướt) và 'mee goreng kering' (khô): 'basah/ướt' có chứng cứ, nhưng không tìm thấy định nghĩa đáng tin cậy về một kiểu 'kering/khô' riêng biệt. Hãy xác minh với một tài liệu tham khảo về ẩm thực Malaysia."
   - "Tuyên bố rằng các phiên bản mamak ở Singapore thường đỏ hơn (có thêm phẩm màu) so với phiên bản Malaysia — được truyền thông ẩm thực đưa tin; hãy xác minh với một nguồn mạnh hơn."
+framework: explainer
 ---
 
 Bước đến gần như bất kỳ quầy mamak nào ở Malaysia sau khi trời tối, bạn sẽ nghe

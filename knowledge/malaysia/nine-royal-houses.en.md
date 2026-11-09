@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["majlis-raja-raja", "yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["negeri beraja Malaysia", "sembilan Raja Melayu", "Sultan Raja Yang di-Pertuan Besar", "Majlis Raja-Raja", "Ketua agama Islam negeri", "Undang Yang Empat Negeri Sembilan"]
+framework: explainer
 ---
 
 Malaysia has thirteen states, but only nine of them have a reigning Ruler. The other four states — Melaka, Penang, Sabah and Sarawak — are headed by an appointed Yang di-Pertua Negeri, not by a Ruler.

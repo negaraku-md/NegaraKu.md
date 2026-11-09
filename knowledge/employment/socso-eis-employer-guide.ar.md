@@ -109,6 +109,7 @@ relations:
   - { rel: "compares-with", to: "epf-employer-guide" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "pcb-mtd-malaysia"]
 keywords: ["نسبة اشتراك SOCSO في ماليزيا", "نسبة EIS لصاحب العمل", "سقف أجر PERKESO RM6000", "SOCSO الفئة الأولى الفئة الثانية", "LINDUNG 24 Jam SKBBK", "SOCSO contribution rate Malaysia", "EIS rate employer"]
+framework: rules
 ---
 
 قبل أن تتحقق من نسبة SOCSO، تحقق من السقف الذي تُطبَّق عليه. فهنا يخفق معظم

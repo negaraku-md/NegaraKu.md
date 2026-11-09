@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016", "contracts-act-1950", "court-hierarchy"]
 keywords: ["bankruptcy Malaysia", "insolvency act 1967", "winding up company Malaysia", "judicial management", "department of insolvency", "RM100000 bankruptcy threshold", "social guarantor", "discharge from bankruptcy"]
+framework: explainer
 ---
 
 Nợ tiền tại Malaysia, tự nó, không đủ để bị tuyên phá sản. Khoản nợ phải lớn, chủ nợ phải theo một quy trình tòa án cụ thể, và — nếu bạn chỉ từng bảo lãnh khoản vay học của một người bạn hoặc căn nhà của gia đình mình — luật có thể che chắn cho bạn hoàn toàn. Malaysia vận hành hai chế độ mất khả năng thanh toán riêng biệt: một cho người, một cho công ty. Biết mình đang ở chế độ nào, và mỗi chế độ cho phép điều gì, thay đổi mọi thứ.

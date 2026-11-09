@@ -121,6 +121,7 @@ keywords:
   - "Medini incentives expired"
   - "Iskandar vs JS-SEZ"
   - "Wilayah Pembangunan Iskandar"
+framework: explainer
 ---
 
 เรื่องเล่าเกี่ยวกับประวัติสิ่งจูงใจของยะโฮร์แทบทุกฉบับกล่าวสิ่งเดียวกัน: JS-SEZ เข้าแทนที่ชุดอิสกันดาร์เดิม มันอ่านดูดีและมันผิด และการแก้ไขก็แม่นยำพอที่จะตรวจสอบได้

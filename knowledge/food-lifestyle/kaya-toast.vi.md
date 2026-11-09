@@ -91,6 +91,7 @@ verificationNeeded:
   - "Liệu các kopitiam Malaysia thường nêm trứng lòng đào bằng nước tương đen hay nước tương nhạt — các nguồn uy tín không thống nhất (phần lớn mô tả nước tương đen với tiêu trắng; một số mô tả nước tương nhạt), và cách làm có thể khác nhau tùy quán và vùng miền."
   - "Nguồn gốc chính xác của kaya — truyền thống serikaya của người Mã Lai, ảnh hưởng của món sericaia Bồ Đào Nha, và việc truyền sang các đầu bếp Hải Nam đều được các nhà sử học ẩm thực khác nhau trích dẫn; hãy xem nguồn gốc này là còn tranh luận chứ không phải đã ngã ngũ."
   - "Khoảng thời gian chính xác mà các quán cà phê Hải Nam bén rễ cụ thể ở Malaya — khoảng thập niên 1920–1950 thường được trích dẫn và câu chuyện bữa sáng Nam Dương phần lớn đến từ các nguồn di sản lấy Singapore làm trung tâm."
+framework: history-culture
 ---
 
 Khắp Malaysia, một ngày thường bắt đầu giống nhau: một chiếc bàn mặt đá cẩm thạch, một tách cà phê đậm

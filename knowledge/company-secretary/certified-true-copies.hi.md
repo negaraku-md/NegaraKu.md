@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "statutory-registers" }
 related: ["statutory-registers", "appoint-company-secretary", "register-of-members"]
 keywords: ["प्रमाणित सत्य प्रति मलेशिया", "certified true copy Malaysia", "मूल-अवलोकित कंपनी सचिव", "original sighted company secretary", "CTC company secretary Malaysia", "MAICSA सर्वोत्तम प्रथा प्रमाणन", "salinan diakui sah", "धारा 599 कंपनी अधिनियम 2016"]
+framework: explainer
 ---
 
 कोई बैंक संविधान की प्रमाणित सत्य प्रति माँगता है। कार्यालय में कोई व्यक्ति किसी स्कैन पर

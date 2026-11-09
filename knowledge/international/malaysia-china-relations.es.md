@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "wisma-putra" }
 related: []
 keywords: ["Malaysia China relations", "largest trading partner", "South China Sea", "comprehensive strategic partnership", "1974 diplomatic relations", "Wisma Putra", "nine-dash line"]
+framework: explainer
 ---
 
 En 1974, cuando buena parte del Sudeste Asiático aún miraba a Pekín con el recelo de la Guerra Fría, el Primer Ministro de Malasia Tun Abdul Razak voló a China y estrechó la mano de Mao Zedong. Aquel viaje convirtió a Malasia en el primer país de la ASEAN en abrir relaciones diplomáticas con la República Popular China, y fijó el molde de una relación que hoy es la de mayores consecuencias económicas para Malasia y, en sus márgenes, la más delicada de gestionar.

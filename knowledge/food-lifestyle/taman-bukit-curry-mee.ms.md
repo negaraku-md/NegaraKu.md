@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#CurryMee", "#Penang", "#SeberangPerai", "#BibGourmand", "#Malaysia"]
+framework: profile
 ---
 
 Kebanyakan kemasyhuran MICHELIN Pulau Pinang berkelompok di jalan-jalan pulau

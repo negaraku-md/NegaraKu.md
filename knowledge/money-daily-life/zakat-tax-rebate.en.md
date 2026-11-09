@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "zakat-pendapatan" }
 related: []
 keywords: ["zakat rebat cukai", "Seksyen 6A", "Akta Cukai Pendapatan 1967", "rebat cukai zakat LHDN", "zakat vs pelepasan cukai", "badan zakat negeri"]
+framework: explainer
 ---
 
 Pay RM1,000 in zakat, and your income tax drops by exactly RM1,000 — not just a small fraction of it as with most other tax deductions. That difference is what so often confuses Muslim taxpayers in Malaysia, and it hinges on a single word: *rebate*, not *relief*.

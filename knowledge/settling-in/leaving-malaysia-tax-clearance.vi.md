@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "epf-socso-employees" }
 related: ["lhdn", "tax-clearance", "offboarding-statutory-checklist", "employment-pass-malaysia", "moving-to-malaysia-first-steps", "epf-socso-employees"]
 keywords: ["tax clearance Malaysia", "Surat Penyelesaian Cukai", "SPC LHDN", "CP21 form Malaysia", "leaving Malaysia tax clearance", "expatriate tax clearance Malaysia", "e-SPC MyTax", "EPF leaving country withdrawal"]
+framework: rules
 ---
 
 Bạn đã nộp đơn từ chức, đặt vé máy bay, và bắt đầu cho đi đồ nội thất. Rồi HR yêu cầu một thứ bạn chưa từng nghe: một Thư Xác nhận Hoàn tất Thuế. Không có nó, một phần của phiếu lương cuối cùng của bạn không được giải ngân — và thậm chí không phải bạn là người được cho là yêu cầu nó.

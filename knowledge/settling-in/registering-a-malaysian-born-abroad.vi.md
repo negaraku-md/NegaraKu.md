@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "applying-for-malaysian-citizenship-article-15" }
 related: []
 keywords: ["kewarganegaraan keturunan", "Perkara 14(1)(b)", "Borang D", "lahir luar negara", "JPN", "Jadual Kedua", "pindaan perlembagaan 2024", "Perkara 15(2)"]
+framework: explainer
 ---
 
 Một em bé chào đời tại một bệnh viện ở London từ một cặp vợ chồng Malaysia đang công tác tại đó. Giấy khai sinh địa phương ghi em bé sinh ra tại Vương quốc Anh, nhưng theo luật Malaysia em có thể đã là một công dân — miễn là tư cách đó được ghi nhận đúng cách. Tư cách ấy được xác nhận ra sao, và ai đủ điều kiện, là những câu hỏi chạm đến các điều khoản nền tảng của Hiến pháp Liên bang.

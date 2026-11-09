@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-education-in-malaysia", "chinese-dialects", "chinese-new-villages", "population-composition"]
 keywords: ["华人会馆", "宗亲会", "会馆", "公司", "地缘性", "血缘性", "业缘性", "福建会馆", "客家公会", "邱公司", "龙山堂", "华总", "中华总商会", "姓氏桥", "新客", "义山", "Chinese clan associations Malaysia", "huiguan", "kongsi"]
+framework: history-culture
 ---
 
 走进槟城乔治市的康华丽堡一带，在一片店屋之间会突然出现一座飞檐翘角、雕梁画栋的宗祠——那是龙山堂邱公司。再往海边走，木桩撑起一排排伸入水面的木屋村落，各以一个姓氏命名：姓周桥、姓林桥、姓陈桥。这些建筑不是庙，也不只是住宅，而是华人移民社会最古老的一种组织留下的实体——会馆与宗亲会。

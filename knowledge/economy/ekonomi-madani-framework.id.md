@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "subsidy-rationalisation-padu" }
 related: ["malaysia-plans", "new-industrial-master-plan-2030", "national-energy-transition-roadmap-netr", "subsidy-rationalisation-padu"]
 keywords: ["Ekonomi MADANI", "MADANI Economy framework", "Ekonomi MADANI Memperkasa Rakyat", "MADANI values acronym", "Malaysia economic framework Anwar", "MADANI economy seven targets", "Malaysia MADANI"]
+framework: explainer
 ---
 
 Pada 27 Juli 2023, beberapa bulan setelah menjabat perdana menteri, Anwar Ibrahim berdiri bukan untuk mengumumkan anggaran atau satu proyek, melainkan untuk memberi ekonomi Malaysia sebuah kisah untuk diceritakan tentang dirinya sendiri.

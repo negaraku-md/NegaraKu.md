@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "tamil-vernacular-schools" }
 related: ["tamil-vernacular-schools", "chinese-clan-associations", "chinese-language-press", "languages-spoken", "population-composition"]
 keywords: ["马来西亚华文教育", "华小", "SJKC", "国民型华文小学", "华文独立中学", "独中", "统考", "UEC", "董教总", "董总", "教总", "新纪元大学学院", "南方大学学院", "韩江", "Chinese education in Malaysia"]
+framework: explainer
 ---
 
 이른 아침, 한 화문소학의 운동장에는 중국어·말레이어·영어가 뒤섞인 소리가 울려 퍼진다. 몇 개 주 떨어진 곳, 한 화문 독립중학(독중)의 강당에서는 학생들이 연말 통일시험(통고／UEC)을 준비하고 있다. 그리고 조호르와 페낭에서는 화문교육 체계에서 발전해 온 대학학원이 신입생을 맞이한다. 이 장면들은 모두 하나의 흐름 — 말레이시아의 화문교육 — 에 속하지만, 서로 다른 단계에서, 서로 다른 재정 방식과 법적 장치 아래 놓여 있다.

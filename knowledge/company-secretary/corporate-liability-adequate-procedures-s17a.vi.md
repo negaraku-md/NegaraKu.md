@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016"]
 keywords: ["Section 17A", "MACC Act", "corporate liability", "adequate procedures", "T.R.U.S.T.", "anti-corruption Malaysia", "corporate bribery", "GIACC"]
+framework: rules
 ---
 
 Một nhân viên bán hàng cấp dưới chi một khoản lại quả để giành được một hợp đồng, và không bao giờ báo cho hội đồng quản trị. Theo luật Malaysia kể từ năm 2020, hành vi đó có thể khiến chính công ty đối mặt với việc truy tố — và các giám đốc cùng với nó. Đó là tầm với của Mục 17A trong Luật Ủy ban Chống tham nhũng Malaysia (Malaysian Anti-Corruption Commission Act 2009).

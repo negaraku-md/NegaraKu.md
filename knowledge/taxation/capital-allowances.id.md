@@ -131,6 +131,7 @@ entity: "Capital allowances under Schedule 3 of the Income Tax Act 1967"
 relations: []
 related: []
 keywords: ["capital allowance malaysia", "schedule 3 income tax act 1967", "initial allowance annual allowance", "balancing charge malaysia", "small value asset RM2000", "qualifying plant expenditure"]
+framework: explainer
 ---
 
 Baris penyusutan dalam akun Anda tidak bernilai apa pun bagi LHDN. Paragraf 39(1)(e) Income Tax Act 1967 tidak membolehkan pengeluaran apa pun yang merupakan pengeluaran layak bagi maksud Jadwal 3 — jadi caj akuntansi itu ditambahkan kembali sepenuhnya, dan Jadwal 3 menentukan, menurut ketentuannya sendiri, berapa banyak keringanan yang sebenarnya diperoleh aset itu dan kapan.

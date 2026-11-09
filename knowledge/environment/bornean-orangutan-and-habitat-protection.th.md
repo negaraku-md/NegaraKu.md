@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "kinabatangan-floodplain" }
 related: ["sabah"]
 keywords: ["Bornean orangutan", "Sabah", "Wildlife Conservation Enactment 1997", "Sepilok", "Kinabatangan", "habitat protection", "totally protected species", "wildlife corridor"]
+framework: explainer
 ---
 
 อุรังอุตังในป่าต้องการผืนป่าจำนวนมาก และเป็นป่าที่เชื่อมต่อกัน ในที่ราบลุ่มทางตะวันออกของซาบาห์ สิ่งนี้กลับกลายเป็นสิ่งที่หายากที่สุด ต้นไม้ที่เคยทำให้ลิงเดินทางได้เป็นกิโลเมตรโดยไม่ต้องแตะพื้นดินในปัจจุบันสิ้นสุดลงที่ขอบสวนปาล์มน้ำมัน อุรังอุตังบอร์เนียวจะอยู่รอดในภูมิทัศน์นี้หรือไม่ ส่วนใหญ่แล้วเป็นคำถามเรื่องกฎหมาย ที่ดิน และทางเชื่อม

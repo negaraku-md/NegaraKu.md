@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "members-voluntary-winding-up-malaysia" }
 related: []
 keywords: ["statutory declaration malaysia", "akuan berkanun", "commissioner for oaths malaysia", "statutory declarations act 1960", "false statutory declaration penalty", "declaration of solvency section 443"]
+framework: explainer
 ---
 
 விரைவிலோ தாமதமாகவோ ஒரு தொழில் உரிமையாளரிடம் ஒரு ஆவணம் கொடுக்கப்பட்டு, "இது ஒரு சட்டப்பூர்வ பிரகடனமாக இருக்க வேண்டும்" என்று சொல்லப்படும். இது உண்மையில் இருப்பதை விடக் கனமானதாக ஒலிக்கும் சட்ட முறைமைகளில் ஒன்று — அங்கீகரிக்கப்பட்ட ஒருவர் முன்னிலையில் நீங்கள் உண்மை என்று சத்தியம் செய்யும் ஒரு எழுத்துப்பூர்வ அறிக்கை — ஆனால் அதன் கனம் உண்மையானது: ஒரு பொய்யானதில் கையெழுத்திட்டால் நீங்கள் ஒரு குற்றவியல் குற்றத்தைச் செய்துவிட்டீர்கள். சட்டப்பூர்வ பிரகடனம் என்பது என்ன, யார் அதை ஏற்கலாம், நிறுவன வாழ்க்கையில் அது எங்கு தோன்றுகிறது என்பது இங்கே.

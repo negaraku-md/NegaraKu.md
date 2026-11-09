@@ -76,6 +76,7 @@ keywords:
   - "klinik pergigian pakar hospital"
   - "Akta Pergigian 2018"
   - "carian klinik pergigian kerajaan"
+framework: explainer
 ---
 
 பலரும் “பல் கிளினிக்” என்பது ஒரே ஒரு விஷயம் தான் என்று நினைக்கிறார்கள் —

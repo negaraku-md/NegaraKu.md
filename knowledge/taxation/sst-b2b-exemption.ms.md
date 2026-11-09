@@ -68,6 +68,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-expansion-2025", "sst-registration", "sst-02-filing"]
 keywords: ["pengecualian SST B2B", "cukai perkhidmatan B2B Malaysia", "pengecualian perniagaan ke perniagaan cukai perkhidmatan", "pengecualian perkhidmatan bercukai yang sama"]
+framework: rules
 ---
 
 Pengecualian B2B hampir selalu gagal atas syarat yang sama: perkhidmatan

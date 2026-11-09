@@ -100,6 +100,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["labuan-company-vs-sdn-bhd", "foreign-ownership-malaysia"]
 keywords: ["política de divisas Malasia", "foreign exchange policy malaysia", "Avisos FEP", "FEP notices", "control de cambios BNM", "BNM exchange control", "endeudamiento nacional en ringgit", "domestic ringgit borrowing", "cuenta en moneda extranjera Malasia", "foreign currency account malaysia", "inversión en el exterior Malasia", "residente no residente BNM"]
+framework: explainer
 ---
 
 Pregunta a un fundador malasio sobre el control de cambios y por lo general obtendrás una de

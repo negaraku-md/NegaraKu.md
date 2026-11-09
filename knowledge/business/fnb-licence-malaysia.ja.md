@@ -119,6 +119,7 @@ keywords:
   - "halal certification Malaysia"
   - "food handler certificate Malaysia"
   - "liquor licence Malaysia"
+framework: rules
 ---
 
 「レストラン・ライセンス」というものは存在しない。存在するのは、四つないし五つの異なる当局による五つないし六つの個別の承認からなる積み重ねであり、それらは特定の順序で組み立てられる。そして、開業を最も頻繁に頓挫させるのは食品ライセンスではまったくなく——看板である。

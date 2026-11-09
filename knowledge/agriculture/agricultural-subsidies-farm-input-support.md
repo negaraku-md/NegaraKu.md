@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
 related: []
 keywords: ["subsidi baja padi", "SBPKP", "SIPP", "insentif pengeluaran padi", "subsidi pertanian", "bantuan input pesawah"]
+framework: explainer
 ---
 
 Seguni baja yang dijunjung pesawah ke sawahnya pagi itu tidak dibeli dengan wangnya sendiri — ia datang tanpa bayaran, ditanggung Kerajaan Persekutuan selama berdekad-dekad. Inilah wajah sebenar subsidi pertanian Malaysia untuk padi: bukan cek atau wang masuk akaun, tetapi baja, racun dan insentif yang menampung sebahagian besar kos di ladang.

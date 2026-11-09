@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["pahang"]
 keywords: ["Cameron Highlands", "Tanah Rata", "Brinchang", "Ringlet", "BOH tea", "strawberry farm", "Orang Asli", "Semai", "hill station", "Pahang"]
+framework: profile
 ---
 
 Bước xuống xe buýt tại Tanah Rata và điều đầu tiên bạn nhận thấy là hơi thở của chính mình — không khí đủ mát để một chiếc áo len không còn cảm thấy lố bịch, ngay cả ở xích đạo. Đó là toàn bộ mấu chốt của Cameron Highlands: một mảng đồi núi ôn đới xếp chồng lên trên Malaysia nhiệt đới, nơi trà mọc thành những luống xanh gọn gàng trên các dãy núi và dâu tây chín trong các nhà lưới ven đường.

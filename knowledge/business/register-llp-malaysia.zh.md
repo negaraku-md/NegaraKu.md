@@ -117,6 +117,7 @@ keywords:
   - "PLT Perkongsian Liabiliti Terhad"
   - "LLP registration fee RM500"
   - "LLP annual declaration"
+framework: how-to
 ---
 
 合规主任是人人都会弄错的那一部分。

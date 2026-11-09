@@ -70,6 +70,7 @@ relations:
   - { rel: "governs", to: "akta-perkhidmatan-bomba-1988" }
 related: []
 keywords: ["keselamatan kebakaran", "pencegahan kebakaran", "perakuan bomba", "fire certificate", "JBPM", "Akta Perkhidmatan Bomba 1988"]
+framework: explainer
 ---
 
 火は警告してくれない。数分のうちに、過負荷のコンセントから飛んだ一つの火花や、放置された鍋が一軒の家をなぎ倒しうる——2025年だけでも、[マレーシア消防救助局](/public-safety/fire-and-rescue-department-bomba)（JBPM）は16,111件の火災を記録し、98人が死亡、財産損失は推定20.9億リンギットに達した。良い知らせは、そのほとんどが予防できるということだ。あなたの居間であれ、工場の現場であれ。

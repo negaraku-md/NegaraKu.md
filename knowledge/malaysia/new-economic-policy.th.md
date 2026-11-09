@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["rukun-negara", "the-emergency", "independence-1957", "formation-of-malaysia-1963", "population-composition"]
 keywords: ["New Economic Policy", "NEP", "Dasar Ekonomi Baru", "DEB", "Second Malaysia Plan", "restructuring society", "poverty eradication", "national unity", "Outline Perspective Plan", "30 per cent Bumiputera equity"]
+framework: explainer
 ---
 
 นโยบายเศรษฐกิจใหม่มักถูกจดจำในคำเดียว คือ "การปรับโครงสร้าง" และถูกถกเถียงกันตั้งแต่นั้นมา แต่นโยบายระบุจุดมุ่งหมายของตนเองเป็นลายลักษณ์อักษรในแผนของรัฐบาลที่เสนอต่อรัฐสภา และจุดมุ่งหมายเหล่านั้นมีสองข้อ ไม่ใช่หนึ่ง โดยมีแนวคิดที่สามอยู่เหนือทั้งสอง บทความนี้นำเสนอสิ่งที่เอกสารกล่าว ในลำดับที่เอกสารกล่าว

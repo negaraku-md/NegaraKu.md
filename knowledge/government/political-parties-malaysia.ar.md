@@ -85,6 +85,7 @@ relations:
   - { rel: "governs", to: "political-parties-malaysia" }
 related: ["how-elections-work", "spr-election-commission", "dewan-rakyat", "parliament", "yang-di-pertuan-agong"]
 keywords: ["الأحزاب السياسية الماليزية", "parti politik Malaysia", "قانون الجمعيات 1966", "Akta Pertubuhan 1966", "مسجّل الجمعيات", "Registrar of Societies", "ROS", "Barisan Nasional", "Pakatan Harapan", "Perikatan Nasional", "GPS", "حكومة الوحدة", "kerajaan perpaduan", "PRU15", "الائتلاف السياسي", "political parties Malaysia"]
+framework: explainer
 ---
 
 في ماليزيا، لا يبدأ الحزب السياسي داخل البرلمان أو على منصّة حملة انتخابية. بل يبدأ

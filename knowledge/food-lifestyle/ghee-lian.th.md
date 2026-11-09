@@ -72,6 +72,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#GheeLian", "#Penang", "#BibGourmand", "#StreetFood", "#Malaysia"]
+framework: profile
 ---
 
 tom yum ถือกำเนิดในไทย แต่ที่แผงหาบเร่ใกล้ Esplanade เก่าของจอร์จทาวน์ มันกลับเปลี่ยน

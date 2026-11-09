@@ -103,6 +103,7 @@ keywords:
   - "MIDA manufacturing licence"
   - "shareholders funds RM2.5 million"
   - "exempted from manufacturing licence"
+framework: rules
 ---
 
 Kebanyakan produsen UKM Malaysia tidak memerlukan lisensi manufaktur. Hampir setiap panduan

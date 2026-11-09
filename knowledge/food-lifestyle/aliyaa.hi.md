@@ -74,6 +74,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["Aliyaa", "SriLankanFood", "BibGourmand", "MichelinGuideMalaysia", "KualaLumpur"]
+framework: profile
 ---
 
 Aliyaa कुआलालंपुर के Bukit Damansara में स्थित एक श्रीलंकाई रेस्तरां है, और शहर

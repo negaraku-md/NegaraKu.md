@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "chinese-dialects", "chinese-clan-associations", "chinese-religion-in-malaysia"]
 keywords: ["华人婚礼", "传统婚礼", "过大礼", "下聘", "聘金", "嫁妆", "安床", "上头", "迎亲", "接新娘", "姐妹玩新郎", "闯门", "奉茶", "敬酒", "喜酒", "回门", "囍", "双喜", "马来西亚华人", "Chinese wedding customs Malaysia"]
+framework: history-culture
 ---
 
 清晨天还没全亮，一队车已经停在女方家门口。新郎捧着花，身后跟着几个兄弟，却被门里探出的几位姐妹拦住：先回答问题、再唱一段、吃下几片切得极薄的青柠，最后从门缝塞进几个红包——这道「闯门」的关卡过了，门才打开，新郎才见得到一身红装的新娘。这样一个带着玩笑与热闹的早晨，是马来西亚许多华人婚礼当天的开场。

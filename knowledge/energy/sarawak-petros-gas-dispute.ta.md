@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "malaysia-agreement-1963" }
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["Petros", "Sarawak", "gas", "agregator gas", "Ordinan Pengagihan Gas 2016", "Ordinan Pengagihan Gas (Pindaan) 2023", "Petronas", "Akta Kemajuan Petroleum 1974", "MA63"]
+framework: explainer
 ---
 
 Kuala Lumpur-இல் ஒரு பேச்சுவார்த்தை மேசையில், அரசுக்குச் சொந்தமான இரு எரிசக்தி நிறுவனங்கள் — ஒன்று கூட்டரசு, ஒன்று மாநிலம் — Sarawak-இல் எரிவாயுவின் ஓட்டத்தை யார் கட்டுப்படுத்துகிறார்கள் என்பதை ஒருங்கிணைக்க முயன்றன. அதற்குப் பின்னால் இன்னும் பெரிய கேள்வி ஒன்று உள்ளது: மாநில உரிமைகளும் கூட்டரசு அதிகாரமும் மோதும்போது எந்தச் சட்டம் கட்டுப்படுத்தும்?

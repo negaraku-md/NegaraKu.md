@@ -103,6 +103,7 @@ relations:
   - { rel: "administered-by", to: "lembaga-pembangunan-langkawi" }
 related: ["kedah"]
 keywords: ["Langkawi", "duty-free island", "UNESCO Global Geopark", "SkyCab", "SkyBridge", "island hopping", "Kilim", "Dayang Bunting", "Andaman Sea", "Kedah"]
+framework: profile
 ---
 
 Sembilan puluh sembilan pulau, batuan yang lebih tua daripada ikan, wiski murah dan sebuah kereta kabel yang tergantung di sisi gunung yang dibina daripada batuan yang dianggarkan berusia lebih 550 juta tahun — Langkawi memuatkan jumlah yang luar biasa banyak ke dalam satu kepulauan di hujung barat laut Malaysia. Ia merupakan pulau percutian utama pantai barat negara, dan ia berfungsi mengikut logik yang hampir bertentangan dengan pulau-pulau menyelam berpokok palma di seberang semenanjung. Panduan ini merangkumi perkara yang benar-benar penting sebelum anda pergi: peraturan bebas cukai yang sering mengelirukan orang, geopark UNESCO yang memberikan latar belakang kepada pemandangannya, SkyCab dan SkyBridge, pelayaran bot yang berbaloi diambil, dan cara memilih antara Langkawi dengan pantai timur.

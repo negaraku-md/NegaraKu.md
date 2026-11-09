@@ -80,6 +80,7 @@ social:
     - TourOperator
     - DoingBusinessInMalaysia
     - MalaysiaLicensing
+framework: how-to
 ---
 
 你已经找到供应商、编排好行程，准备开始销售假期产品——但在马来西亚，销售正是法律最先触及的环节。在任何一个旅游产品被宣传、任何一张票券被售出之前，背后的业务都必须先取得旅游、艺术及文化部（MOTAC）的执照。这不是事后加上的形式手续；它是你要开展任何交易都必须通过的门槛，而无照经营旅游产品是一项刑事犯罪。

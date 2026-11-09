@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "str-cash-aid" }
 related: ["i-saraan-epf-voluntary-contribution", "epf-socso-employees", "income-tax-individuals", "str-cash-aid"]
 keywords: ["i-Saraan", "i-Saraan Plus", "KWSP", "PERKESO", "Lindung Kendiri", "गिग कामगार", "pekerja gig", "स्व-रोज़गार", "गिग कामगार अधिनियम 2025", "Akta Pekerja Gig 2025", "Akta 872", "SKSPS", "freelancer", "फ्रीलांसर"]
+framework: explainer
 ---
 
 ई-हेलिंग मंचों के लिए ड्राइविंग करते हुए या फ्रीलांस काम उठाते हुए अपना जीवन बिताइए, और एक बात कभी स्वचालित रूप से नहीं होती: आपके वेतन से EPF या SOCSO के लिए कोई कटौती नहीं करता। वेतनभोगी कर्मचारियों के लिए वे अंशदान हर महीने पर्दे के पीछे हो जाते हैं। एक स्व-रोज़गार व्यक्ति के रूप में आपके लिए, वह सुरक्षा-जाल तब तक अस्तित्व में नहीं आता जब तक आप इसे स्वयं न बनाएँ — और 2026 में, इसका एक हिस्सा अभी-अभी वैकल्पिक से अनिवार्य में बदल गया है।

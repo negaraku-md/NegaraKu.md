@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "energy-commission-malaysia" }
 related: ["petronas"]
 keywords: ["gaz naturel Malaisie", "GNL Malaisie", "GNL Bintulu", "Peninsular Gas Utilisation", "gazoduc PGU", "terminal de regazéification", "Accès des tiers", "Malaysia Reference Price"]
+framework: explainer
 ---
 
 Chaque fois qu'une centrale électrique au Selangor démarre ou qu'une usine de gants à Penang chauffe ses fours, le gaz a très probablement commencé son voyage à des centaines de kilomètres de là, au large de Terengganu ou de l'autre côté de la mer de Chine méridionale, au Sarawak. La Malaisie est à la fois un poids lourd de l'exportation de gaz et, de plus en plus, un importateur de gaz, et les gazoducs et terminaux qui concilient ces deux réalités figurent parmi les actifs énergétiques les plus précieux du pays.

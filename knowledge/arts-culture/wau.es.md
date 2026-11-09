@@ -84,6 +84,7 @@ relations:
 related: ["batik", "wayang-kulit", "kelantan"]
 entity: "Wau"
 keywords: ["wau", "wau bulan", "layang-layang tradisional", "kraf Kelantan", "Adiguru Kraf wau", "cometa tradicional"]
+framework: history-culture
 ---
 
 Antes de ver un wau, lo oyes. Un wau tradicional bien hecho zumba todo el tiempo que está en el aire: no es el sonido del viento, sino una nota deliberadamente incorporada a su construcción.

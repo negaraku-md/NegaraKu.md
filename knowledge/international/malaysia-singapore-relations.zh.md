@@ -87,6 +87,7 @@ relations:
   - { rel: "compares-with", to: "malaysia-indonesia-relations" }
 related: []
 keywords: ["hubungan Malaysia Singapura", "perjanjian air 1962", "RTS Link", "Tambak Johor", "Pulau Batu Puteh", "JS-SEZ", "perpisahan 1965", "dagangan dua hala"]
+framework: explainer
 ---
 
 两个国家共用一条长堤、一套供水系统，每天有数十万名通勤者往返——还有一段充满情感的分离历史。马来西亚没有任何一段双边关系比它与新加坡的关系更亲密、更复杂、更值得理解。

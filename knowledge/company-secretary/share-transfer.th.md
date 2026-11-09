@@ -137,6 +137,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["stamp-duty-share-transfer", "register-of-members", "share-allotment", "share-transmission", "capital-gains-tax", "beneficial-ownership"]
 keywords: ["share transfer Malaysia", "transfer shares Sdn Bhd", "Form 32A share transfer", "section 106 Companies Act 2016", "share transfer stamp duty 30 days"]
+framework: how-to
 ---
 
 การโอนหุ้นในบริษัท Sdn Bhd ล้มเหลวได้สองทาง ทางหนึ่งคือมีคนยื่นเอกสารในลำดับที่ผิด แล้วบริษัทจดทะเบียนการโอนบนตราสารที่ยังไม่ติดอากร อีกทางคือมีคนใช้เวลาทั้งสัปดาห์ตามหา Form 32A — แบบฟอร์มที่ไม่มีอยู่ในฐานะเอกสารที่กำหนดมาตั้งแต่ปี 2017

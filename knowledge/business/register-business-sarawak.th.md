@@ -137,6 +137,7 @@ keywords:
   - "trade licence Sarawak"
   - "LHDN business registration Kuching"
   - "lesen perniagaan Sarawak"
+framework: how-to
 ---
 
 ในซาราวักคุณไม่ได้จดทะเบียนธุรกิจ คุณจดทะเบียนสามสิ่ง กับหน่วยงานมากถึงสามแห่งที่ต่างกัน และ SSM

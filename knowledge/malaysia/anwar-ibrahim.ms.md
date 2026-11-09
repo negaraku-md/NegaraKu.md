@@ -71,6 +71,7 @@ sources:
 
 related: ["1998-reformasi", "2018-change-of-government", "prime-ministers-of-malaysia", "mahathir-mohamad"]
 keywords: ["Anwar Ibrahim", "perdana menteri kesepuluh Malaysia", "Reformasi", "kerajaan MADANI", "Pakatan Harapan"]
+framework: profile
 ---
 
 Anwar Ibrahim (lahir 10 Ogos 1947) ialah **Perdana Menteri Malaysia yang

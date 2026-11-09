@@ -76,6 +76,7 @@ social:
     - SoleProprietor
     - DoingBusinessInMalaysia
     - MalaysiaTax
+framework: how-to
 ---
 
 개인 사업체나 조합을 등록하는 데는 ezBiz 포털에서 10분이 걸리므로, 대부분의 사람은

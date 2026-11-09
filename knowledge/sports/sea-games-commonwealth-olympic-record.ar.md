@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "negaraku-anthem" }
 related: ["negaraku-anthem"]
 keywords: ["ميداليات ماليزيا الأولمبية", "Malaysia Olympic medals", "دورة ألعاب جنوب شرق آسيا", "SEA Games", "ألعاب الكومنولث 1998", "Commonwealth Games 1998", "لي تشونغ واي", "Lee Chong Wei", "ذهبية ماليزيا", "جدول الميداليات"]
+framework: data-reference
 ---
 
 صعدت ماليزيا إلى منصة التتويج الأولمبية خمس عشرة مرة — وسمعت في كل مرة منها نشيدًا وطنيًا لدولة أخرى.

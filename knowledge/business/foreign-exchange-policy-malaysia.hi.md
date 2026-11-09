@@ -100,6 +100,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["labuan-company-vs-sdn-bhd", "foreign-ownership-malaysia"]
 keywords: ["विदेशी मुद्रा नीति मलेशिया", "foreign exchange policy malaysia", "FEP नोटिस", "FEP notices", "BNM विनिमय नियंत्रण", "BNM exchange control", "घरेलू रिंगिट उधार", "domestic ringgit borrowing", "विदेशी मुद्रा खाता मलेशिया", "foreign currency account malaysia", "विदेश में निवेश मलेशिया", "निवासी अनिवासी BNM"]
+framework: explainer
 ---
 
 किसी मलेशियाई संस्थापक से विनिमय नियंत्रण के बारे में पूछें और आपको आम तौर पर दो उत्तरों

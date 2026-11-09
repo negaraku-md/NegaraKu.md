@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "negaraku-anthem" }
 related: ["formation-of-malaysia-1963", "independence-1957", "negaraku-anthem"]
 keywords: ["Jalur Gemilang", "drapeau de la Malaisie", "14 bandes", "étoile à 14 branches", "croissant de lune", "Mohamed bin Hamzah", "signification des couleurs du drapeau de la Malaisie"]
+framework: history-culture
 ---
 
 # Jalur Gemilang : pourquoi 14 bandes pour 13 États

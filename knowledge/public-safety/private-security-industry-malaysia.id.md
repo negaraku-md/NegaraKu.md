@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "royal-malaysia-police" }
 related: []
 keywords: ["agensi keselamatan swasta", "lesen agensi persendirian", "polis bantuan", "Akta Agensi Persendirian 1971", "pengawal keselamatan Malaysia", "KDN eSIMS", "kawasan berpagar"]
+framework: profile
 ---
 
 Di sebagian besar kawasan perumahan berpagar, pabrik, dan pusat perbelanjaan di Malaysia, orang pertama yang Anda temui bukan petugas polisi — melainkan seorang petugas keamanan swasta. Industri ini beroperasi erat dengan penegakan hukum publik, namun berjalan di atas kerangka hukum yang sama sekali berbeda, dan kebingungan tentang siapa boleh melakukan apa dapat membawa risiko hukum bagi bisnis yang menyewa mereka.

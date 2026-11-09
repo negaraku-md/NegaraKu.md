@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "George Town Melaka inscription criteria", "Gunung Mulu World Heritage", "Lenggong Valley Perak Man", "Niah Caves UNESCO 2024"]
+framework: data-reference
 ---
 
 问马来西亚有多少处世界遗产，多数人会回答「四处」。这在2024年之前确实如此。Niah洞穴群于当年7月列入名录，Forest Research Institute Malaysia Forest Park Selangor又于2025年跟进列入——总数因此升至六处。

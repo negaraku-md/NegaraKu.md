@@ -69,6 +69,7 @@ faq:
     a: 'Both move in the same direction, but not symmetrically. The article flags an asymmetry worth knowing: loan rates tend to rise quickly and fall slowly, while deposit rates tend to do the reverse, repricing more slowly and less completely than loans. It describes this as a commercial reality of bank margins rather than a rule.'
   - q: Does a 'no change' OPR decision mean the Monetary Policy Committee did nothing?
     a: No — a decision to hold is still a decision. The Monetary Policy Committee meets six times a year on a published schedule, and a long run of no-change decisions reflects a judgement that inflation is contained enough not to require tightening and growth is solid enough not to require support. The accompanying statement usually signals the committee's bias.
+framework: explainer
 ---
 
 ## At a glance

@@ -90,6 +90,7 @@ verificationNeeded:
   - "Si el gula melaka posee alguna indicación geográfica (IG) registrada bajo la Geographical Indications Act 2022 de Malasia: no se encontró ningún registro de IG para el gula melaka; confirmar directamente con el registro oficial de MyIPO antes de afirmar cualquier estatus de IG."
   - "La fuerza del vínculo del nombre con el estado de Melaka (muy repetido en los medios gastronómicos pero no documentado con firmeza) y si Negeri Sembilan y otros estados son regiones productoras importantes: confirmar con una fuente malasia de patrimonio, agrícola o estatal."
   - "Descriptores de sabor específicos como las notas de 'butterscotch' y los tiempos detallados de extracción/cocción: provienen de los medios gastronómicos y pueden ser subjetivos; confirmar el detalle de producción con un productor o una fuente agrícola."
+framework: explainer
 ---
 
 Corta un cilindro oscuro y denso de gula melaka y la cocina se llena de un olor que está en algún punto entre el caramelo, el toffee y el humo de leña. Este es el azúcar de palma tradicional de Malasia: el endulzante que da al cendol su alma y tiñe incontables kuih de un ámbar profundo. Parece rústico y sabe complejo, y pese a su presencia cotidiana en la cocina malasia, cómo se hace realmente sorprende a muchos: no procede del coco, sino de las *flores* de la palma de coco.

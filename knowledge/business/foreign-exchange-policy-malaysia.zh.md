@@ -100,6 +100,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["labuan-company-vs-sdn-bhd", "foreign-ownership-malaysia"]
 keywords: ["foreign exchange policy malaysia", "FEP notices", "BNM exchange control", "domestic ringgit borrowing", "foreign currency account malaysia", "investment abroad malaysia", "resident non-resident BNM"]
+framework: explainer
 ---
 
 向一位马来西亚创业者问起外汇管制，你通常会得到两种答案之一，而两者都错。第一种是马来西亚已在

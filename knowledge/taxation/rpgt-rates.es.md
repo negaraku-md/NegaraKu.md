@@ -88,6 +88,7 @@ relations:
   - { rel: "explained-in", to: "rpgt-exemptions" }
 related: ["rpgt-exemptions", "capital-gains-tax", "capital-or-revenue", "lhdn"]
 keywords: ["RPGT rates Malaysia", "cukai keuntungan harta tanah", "RPGT computation", "RPGT 6th year", "Schedule 5 RPGTA", "CKHT"]
+framework: data-reference
 ---
 
 Casi todas las guías del RPGT en circulación imprimen una única escala de tasas:

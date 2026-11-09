@@ -132,6 +132,7 @@ relations:
   - { rel: "part-of", to: "payroll-compliance-malaysia" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide"]
 keywords: ["PCB Malaysia", "MTD monthly tax deduction", "CP38 CP39 CP22", "e-PCB LHDN employer", "potongan cukai bulanan"]
+framework: rules
 ---
 
 PCB मलेशियाई वेतन-पर्ची की एकमात्र पंक्ति है जहाँ नियोक्ता किसी और का पैसा पकड़े

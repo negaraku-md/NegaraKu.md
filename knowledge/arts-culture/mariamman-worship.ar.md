@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["hinduism-in-malaysia", "thaipusam", "deepavali", "estate-tamil-community", "pongal", "tamil-in-malaysia"]
 keywords: ["மாரியம்மன் வழிபாடு", "மாரியம்மன்", "அம்மன் வழிபாடு", "Mariamman worship", "Mariamman Malaysia", "ஸ்ரீ மகாமாரியம்மன் கோயில்", "தீமிதி"]
+framework: history-culture
 ---
 
 بجوار أي مزرعة مطاط قديمة تقريبًا في ماليزيا، وعلى امتداد الشوارع العتيقة في مراكز المدن، يمكنك أن تجد معبدًا لماريامّان. إن تمثال أمّان بوجهه الأصفر المائل إلى لون المغرة، والمهرجانات التي تُقام قبل موسم الأمطار، ليست من قبيل المصادفة — فهي تحمل أكثر من قرن ونصف من تاريخ مجتمع تاميلي وتقليده في الإيمان.

@@ -97,6 +97,7 @@ relations:
   - { rel: "located-in", to: "malaysia" }
 related: []
 keywords: ["kuala lumpur", "petronas twin towers", "kl tower", "batu caves", "bukit bintang", "chinatown kuala lumpur", "klia ekspres", "kuala lumpur transport", "malaysia digital arrival card", "kl travel guide"]
+framework: profile
 ---
 
 ลงเครื่องที่ท่าอากาศยานนานาชาติกัวลาลัมเปอร์ยามรุ่งสาง และภายในหนึ่งชั่วโมง คุณสามารถยืนอยู่ใต้ตึกสีเงินสองตึกที่ครั้งหนึ่งเคยครองเส้นขอบฟ้าของโลก โดยไม่ต้องเช่ารถ ไม่ต้องวางแผนซับซ้อน เพียงรถไฟและบัตรแตะเข้า ความง่ายนั้นคือประเด็นทั้งหมดของ KL เป็นประตูหน้าของมาเลเซีย เมืองหลวงที่กะทัดรัดและราคาไม่แพงที่สถานที่พาดหัวอยู่ห่างกันเพียงนั่งรถไฟสั้น ๆ และที่ซึ่งเกือบทุกการเดินทางต่อในประเทศเริ่มต้น

@@ -111,6 +111,7 @@ relations:
   - { rel: "compares-with", to: "stamp-duty-self-assessment" }
 related: ["tax-audit", "tax-penalties", "tax-clearance", "stamp-duty-self-assessment", "rpgt-rates"]
 keywords: ["tax appeal Malaysia", "Form Q LHDN", "borang Q rayuan", "Special Commissioners of Income Tax", "Pesuruhjaya Khas Cukai Pendapatan", "section 99 Income Tax Act", "Form N extension of time", "Prosiding Resolusi Pertikaian"]
+framework: how-to
 ---
 
 マレーシアの税務上訴の大半を決定づける唯一の事実は、上訴に関する規定の中にはまったく存在しない。それは1967年所得税法の**s.103(1)**の中にある——賦課決定のもとでの税額は、**その者が当該賦課決定に上訴するか否かにかかわらず**、納付期限において納付すべきものである。Section 103(2)は、税務調査による賦課決定、最良の判断による賦課決定及び増額賦課決定について同じことを繰り返している。そして**s.106(3)**が輪を閉じる——追徴手続において、法院は、金額が過大である、誤って賦課決定された、又は*上訴中*であるといういかなる抗弁も**受理してはならない**。

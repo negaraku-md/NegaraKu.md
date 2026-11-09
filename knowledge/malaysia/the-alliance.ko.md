@@ -77,6 +77,7 @@ keywords:
   - "London constitutional conference 1956"
   - "Alliance memorandum Reid Commission"
   - "Tunku Abdul Rahman"
+framework: profile
 ---
 
 영국(Britain)이 말라야(Malaya)가 스스로를 통치할 준비가 되었는지 판단하기 위해 자리에 앉았을 때, 보고 싶다고 밝힌 것 중 하나는 그 영토의 서로 다른 공동체들이 함께 정부를 운영할 수 있다는 증거였습니다. 동맹당은 바로 그것을 보여준다고 주장하며 협상 테이블에 나온 수단이었습니다 — 각각 하나의 공동체를 중심으로 조직된 세 정당이, 단일 블록으로 선거에 참여하고, 공동으로 독립을 요구한 것입니다.

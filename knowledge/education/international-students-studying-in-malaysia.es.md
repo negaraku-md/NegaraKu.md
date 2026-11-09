@@ -84,6 +84,7 @@ keywords:
   - "Malaysia student pass application"
   - "public vs private university Malaysia"
   - "MOHE approved institution Malaysia"
+framework: explainer
 ---
 
 Una carta de oferta del tipo equivocado de institución no sirve de nada para una visa, aunque el programa en sí esté perfectamente acreditado. Esa distinción — programa acreditado frente a institución aprobada para estudiantes internacionales — es donde empieza la mayor parte de la confusión, mucho antes de que alguien rellene un formulario de EMGS.

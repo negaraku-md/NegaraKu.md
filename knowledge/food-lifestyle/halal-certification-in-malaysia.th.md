@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "business-licence-malaysia" }
 related: ["fnb-licence-malaysia", "premise-licence-malaysia", "business-licence-malaysia"]
 keywords: ["sijil halal", "JAKIM", "MS 1500", "MYeHALAL", "logo Halal Malaysia", "pensijilan halal", "Verify Halal"]
+framework: explainer
 ---
 
 โลโก้และคำว่า "ฮาลาล" หลากหลายแบบสามารถพบได้บนบรรจุภัณฑ์และในสถานประกอบการอาหาร แต่ไม่ใช่ทั้งหมดที่มีการยอมรับอย่างเป็นทางการ ในมาเลเซีย มีเครื่องหมายฮาลาลเพียงหนึ่งเดียวที่ได้รับการสนับสนุนจากหน่วยงานที่ได้รับการแต่งตั้ง คือ โลโก้ฮาลาลมาเลเซียที่ออกโดย JAKIM การเข้าใจวิธีที่ใบรับรองนั้นทำงานให้สองสิ่งแก่คุณพร้อมกัน คือ วิธีที่ผู้บริโภคตรวจสอบสถานะฮาลาลของผลิตภัณฑ์หนึ่ง และวิธีที่ผู้ประกอบการได้รับเครื่องหมายยืนยันอย่างเป็นทางการ

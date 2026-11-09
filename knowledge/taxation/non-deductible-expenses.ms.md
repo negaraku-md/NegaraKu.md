@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "entertainment-expenses" }
 related: ["section-33-deductibility", "labuan-tax-regime", "withholding-tax-non-compliance", "withholding-tax-rates"]
 keywords: ["seksyen 39 akta cukai pendapatan 1967", "perbelanjaan tidak boleh ditolak malaysia", "perbelanjaan ditolak pengiraan cukai", "39(1)(j) cukai pegangan", "39(1)(r) labuan", "campuran semula pengiraan cukai malaysia"]
+framework: rules
 ---
 
 Kebanyakan jadual campuran-semula dibina daripada tabiat. Susut nilai, keraian, denda, derma — enam baris yang sama setiap tahun, disalin ke hadapan. Seksyen 39(1) sebenarnya mengandungi lapan belas larangan yang masih berkuat kuasa, dan yang paling banyak menelan kos bukanlah yang berada dalam senarai tabiat sesiapa.

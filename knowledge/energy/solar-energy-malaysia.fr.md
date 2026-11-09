@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
 related: []
 keywords: ["solar Malaysia", "NEM 3.0", "Net Energy Metering", "Large Scale Solar", "LSS5", "CGPP", "CRESS", "CREAM", "tenaga boleh baharu", "solar bumbung"]
+framework: explainer
 ---
 
 Les panneaux solaires sur le toit d'une maison sont devenus une décision financière étroitement liée à la politique gouvernementale en Malaisie. Mais « passer au solaire » signifie quelque chose de très différent pour un propriétaire à Ipoh par rapport à une usine à Pasir Gudang ou à un centre de données qui veut une énergie 100 % verte. Chaque groupe de consommateurs a son propre dispositif.

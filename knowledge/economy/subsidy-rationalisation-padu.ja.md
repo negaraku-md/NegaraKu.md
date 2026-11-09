@@ -108,6 +108,7 @@ relations:
   - { rel: "related-to", to: "sumbangan-tunai-rahmah-str" }
 related: ["program-rahmah-cost-of-living"]
 keywords: ["PADU", "Pangkalan Data Utama", "rasionalisasi subsidi", "subsidi bersasar", "BUDI MADANI", "RON95", "subsidi diesel", "subsidi elektrik", "T15"]
+framework: explainer
 ---
 
 長年にわたり、マレーシア政府は石油、電力、食料をすべての国民に一律に補助してきた——受給者がゴム樹液採取者であろうと高級車の所有者であろうと区別しなかった。すべてを変えた問いは、補助金が*どれだけ*与えられるかではなく、*誰に*与えられるかであった。そしてこれに答えるために、政府はこれまで持っていなかったあるものを必要とした——マレーシア国民が実際には誰であるかについての正確な全体像である。それこそがPADUの任務である。

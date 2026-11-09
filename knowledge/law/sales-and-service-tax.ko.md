@@ -113,6 +113,7 @@ relations:
   - { rel: "related-to", to: "income-tax-act-1967" }
 related: ["income-tax-act-1967", "companies-act-2016"]
 keywords: ["SST", "sales tax", "service tax", "RMCD", "MySST", "SST registration", "Sales Tax Act 2018", "Service Tax Act 2018", "SST rates", "SST threshold"]
+framework: rules
 ---
 
 식당 계산서에는 "SST" 항목이 있는데 식료품 영수증에는 대개 없는 이유를 궁금해한 적이 있다면, 여러분은 같은 세금의 매우 다른 두 절반을 마주친 것입니다. 말레이시아는 GST나 VAT 같은 단일한 광범위 소비세를 운영하지 않습니다. 그 대신 두 개의 더 좁은 세금 — 물품에 대한 판매세와 서비스에 대한 서비스세 — 을 **SST**라는 이름으로 묶어 운영하며, 말레이시아 왕립관세청(Royal Malaysian Customs Department, RMCD)이 운용합니다.

@@ -85,6 +85,7 @@ faq:
     a: 'No. MOTAC permite un retiro máximo del 50% del principal del depósito a plazo fijo tras la aprobación, y solo para fines específicos: comprar la vivienda requerida, o para educación, tratamiento médico o actividades turísticas en Malasia. Es una liberación condicional, no una cuenta de uso general. El saldo restante debe permanecer en el banco malasio; los fondos extranjeros y las ganancias obtenidas del depósito mientras permanece allí gozan de una exención fiscal establecida.'
   - q: ¿Quién aprueba realmente una solicitud de MM2H — MOTAC o Inmigración?
     a: Ambos, en funciones distintas. MOTAC gestiona el programa y fija los requisitos de cada nivel, pero la aprobación migratoria final, el endoso del pase y cualquier recurso corresponden al Ministerio del Interior a través del Departamento de Inmigración (Jabatan Imigresen Malaysia). Las solicitudes las presenta un agente MM2H autorizado a través del Centro de Ventanilla Única (One Stop Centre). Así que contacta a MOTAC para las preguntas sobre requisitos de nivel y a Inmigración para los asuntos de aprobación o endoso — dos autoridades, dos jurisdicciones.
+framework: explainer
 ---
 
 Busque «cuánto dura un pase Silver de MM2H» y encontrará guías que citan con total

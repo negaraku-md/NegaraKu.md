@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "statutory-audit-process" }
 related: ["appointing-an-auditor", "changing-auditors", "statutory-audit-process", "audit-fees-malaysia"]
 keywords: ["auditor independence", "partner rotation", "cooling-off period", "public interest entity", "MIA By-Laws", "Section 540", "non-audit services", "self-review threat"]
+framework: rules
 ---
 
 ஒரு பட்டியலிடப்பட்ட நிறுவனத்தின் அதே கணக்குகளில் ஒரு தசாப்தமாகக் கையொப்பமிட்டு வரும் ஒரு தணிக்கை பங்குதாரருக்கு, ஒவ்வொரு எலும்புக்கூடும் எங்கே புதைக்கப்பட்டுள்ளது என்பது தெரியும் — அதுவே சரியாகப் பிரச்சினை. உறவு எவ்வளவு நீண்டதாகிறதோ, அந்தக் கருத்து உண்மையிலேயே சுயாதீனமானது என்று ஒரு நியாயமான வெளியாள் நம்புவது அவ்வளவு கடினமாகிறது. மலேசியா அந்த இடரை ஒரு கடினமான கடிகாரத்தாலும் ஒரு கட்டாய இடைவேளையாலும் எதிர்கொள்கிறது.

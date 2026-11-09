@@ -103,6 +103,7 @@ keywords:
   - "MIDA manufacturing licence"
   - "shareholders funds RM2.5 million"
   - "exempted from manufacturing licence"
+framework: rules
 ---
 
 大多数马来西亚中小型制造商并不需要制造业执照。几乎每一份指南都到此为止，仿佛获得豁免就等同于无事可做。

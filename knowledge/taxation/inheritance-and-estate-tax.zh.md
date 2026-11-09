@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "personal-income-tax" }
 related: ["real-property-gains-tax"]
 keywords: ["inheritance tax Malaysia", "estate duty Malaysia", "no inheritance tax", "deceased estate income tax", "RPGT inherited property", "stamp duty inheritance", "executor tax Malaysia", "death tax Malaysia"]
+framework: explainer
 ---
 
 当一位父母在吉隆坡去世，留下一栋房子和一些积蓄时，家人首先担心的往往是继承本身要缴一笔税。在马来西亚，这笔税并不存在。对于一个人留下的财富，既没有继承税，没有遗产税，也没有死亡税。

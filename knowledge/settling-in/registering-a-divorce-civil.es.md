@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "getting-married-in-malaysia" }
 related: ["getting-divorced-in-malaysia", "getting-married-in-malaysia"]
 keywords: ["divorcio civil Malasia", "Law Reform Marriage and Divorce Act 1976", "Act 164", "tribunal matrimonial JPN", "decree nisi", "decree absolute", "petición conjunta de divorcio", "Section 106 órgano conciliador", "divorcio no musulmán Malasia"]
+framework: explainer
 ---
 
 Una pareja no musulmana que registra su matrimonio en el JPN a menudo supone que la misma oficina puede ponerle fin. No puede. En Malasia, un matrimonio civil se registra administrativamente, pero solo se disuelve mediante una orden judicial — y el camino desde un matrimonio distanciado hasta un decreto sellado pasa por un tribunal de reconciliación, una petición ante el Tribunal Superior y una pausa integrada de tres meses antes de que el divorcio sea definitivo.

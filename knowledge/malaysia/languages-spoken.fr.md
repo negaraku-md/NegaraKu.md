@@ -86,6 +86,7 @@ relations:
 related: ["federal-constitution", "bahasa-melayu", "population-composition", "formation-of-malaysia-1963", "independence-1957", "ma63"]
 keywords: ["languages of Malaysia", "Bahasa Melayu", "national language Malaysia", "Article 152 Federal Constitution", "Chinese dialects Malaysia", "Tamil Malaysia", "Orang Asli languages", "Kadazan-Dusun", "Iban language", "vernacular schools Malaysia", "SJKC SJKT"]
 sponsor: "none"
+framework: explainer
 ---
 
 Le gouvernement de l'État de Sabah résume ainsi sa propre population : 33 groupes autochtones, communiquant dans plus de 50 langues et environ 80 dialectes. C'est là un seul État, sur treize, plus trois territoires fédéraux. En élargissant la vue à l'ensemble du pays, le tableau ne fait que se stratifier davantage — et pourtant la Constitution fédérale désigne exactement une langue nationale.

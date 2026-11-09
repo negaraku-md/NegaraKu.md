@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "getting-around-malaysia-public-transport" }
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["Melaka heritage", "Melaka UNESCO World Heritage", "Jonker Street", "Baba Nyonya Peranakan Melaka", "A Famosa Porta de Santiago", "Stadthuys Dutch Square", "St Paul's Hill Melaka", "Melaka travel guide"]
+framework: explainer
 ---
 
 Đứng ở Quảng trường Hà Lan lúc chạng vạng và bạn có thể đọc năm thế kỷ trong một cái liếc: một tòa thị chính Hà Lan màu đỏ cá hồi ở một phía, các phế tích của một nhà thờ thời Bồ Đào Nha trên ngọn đồi phía trên, một cổng đá từng neo giữ một pháo đài mà người Anh cố phá dỡ, và — cách hai phút đi bộ — một con hẻm các nhà phố Trung-Mã nay được thắp sáng cho một chợ đêm tối thứ Sáu. Melaka không trải lịch sử của mình khắp một thành phố lớn. Nó xếp chúng vào khoảng một dặm vuông mà bạn có thể đi bộ trong một buổi chiều. Đây là cách đọc nó, và cách lên kế hoạch một chuyến thăm quanh nó.

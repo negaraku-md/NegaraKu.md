@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["income-tax-in-malaysia", "section-33-deductibility", "non-deductible-expenses", "personal-tax-rates", "which-tax-form"]
 keywords: ["ضريبة دخل الإيجار ماليزيا", "نفقات ما قبل التأجير ماليزيا", "rental income tax Malaysia", "pre-letting expenses Malaysia", "Public Ruling 12/2018", "خصم ضريبة الأرض quit rent", "هل أخصم عمولة وكيل الإيجار"]
+framework: explainer
 ---
 
 أكثر خطأ شائع في احتساب الإيجار الماليزي هو المطالبة بتكلفة إيجاد المستأجر الأول.

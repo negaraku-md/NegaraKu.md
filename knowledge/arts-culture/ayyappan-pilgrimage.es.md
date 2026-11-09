@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["hinduism-in-malaysia", "thaipusam", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community", "navaratri"]
 keywords: ["ஐயப்பன் வழிபாடு", "சபரிமலை விரதம்", "மண்டல விரதம்", "இருமுடிக் கட்டு", "மலேசிய ஐயப்பன் கோயில்", "சுவாமியே சரணம் ஐயப்பா", "Ayyappan", "Sabarimala"]
+framework: history-culture
 ---
 
 En los últimos meses del año, una escena se repite en muchas localidades de Malasia: hombres vestidos de negro o azul, con un rosario de rudraksha al cuello y la barba crecida, que se dirigen entre sí como "Swami". Son los devotos del voto de Ayyappan, muchos de ellos preparándose para viajar a Sabarimala, en Kerala. Este artículo describe esa devoción y las tradiciones del voto de manera neutral; no explica ni evalúa creencia alguna.

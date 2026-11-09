@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "department-of-environment-doe" }
 related: ["department-of-environment-doe", "malaysias-rainforests-and-permanent-forest-reserves"]
 keywords: ["Malaysia NDC 3.0", "net zero 2050 Malaysia", "Climate Change Act Malaysia", "National Climate Change Policy 2.0", "Paris Agreement Malaysia", "emissions trading scheme", "carbon tax Malaysia", "NRES", "UNFCCC"]
+framework: explainer
 ---
 
 ほぼ十年もの間、マレーシアは自国の気候公約を、市民がほとんど実感できない指標——GDP単位あたりの排出量——で測ってきた。2025年10月、それが変わった。同国は国連に対し、排出量がどの水準でピークを迎えようとも、そこから固定したトン数の温室効果ガス——1,500万～3,000万トン——を削減すると表明した。マレーシアが絶対数値を提示したのはこれが初めてであり、それは同国の気候政策の枠組みを構成する他のあらゆる要素を、一つの問いを中心に再構成する——急成長を続け、石油・ガスを産出する発展途上経済は、どうすれば成長を止めることなく排出曲線を下向きに折り曲げられるのか？

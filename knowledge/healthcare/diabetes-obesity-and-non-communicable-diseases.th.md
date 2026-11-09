@@ -74,6 +74,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-health" }
 related: []
 keywords: ["diabetes", "obesiti", "NCD", "penyakit tidak berjangkit", "NHMS 2023", "cukai gula", "PeKa B40", "Logo Pilihan Sihat", "saringan kesihatan"]
+framework: explainer
 ---
 
 ผู้ใหญ่ชาวมาเลเซียมากกว่าครึ่งในวันนี้แบกน้ำหนักตัวที่อาจย่นชีวิตของพวกเขาให้สั้นลง — และหนึ่งในหกคนมีชีวิตอยู่กับเบาหวานแล้ว หลายคนโดยไม่รู้ตัว นี่คือการระบาดเงียบที่สร้างภาระต่อโรงพยาบาล ครอบครัว และเศรษฐกิจของประเทศมากกว่าโรคติดต่อใด ๆ อย่างมาก

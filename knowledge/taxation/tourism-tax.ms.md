@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["sst-explained", "sst-registration"]
 keywords: ["tourism tax", "TTx", "Tourism Tax Act 2017", "RM10 per room", "MyTTx", "RMCD", "Agoda tax", "hotel tax Malaysia"]
+framework: explainer
 ---
 
 Daftar keluar dari sebuah hotel di Malaysia dan anda mungkin perasan satu baris kecil berkadar tetap pada bil yang tiada kaitan dengan kadar bilik: RM10, sekali semalam, sebilik. Itulah Cukai Pelancongan — dan sama ada anda perlu membayarnya bergantung kepada satu soalan yang tidak dapat dikecualikan oleh kaunter penerimaan tetamu: pasport mana yang anda pegang?

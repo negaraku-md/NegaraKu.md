@@ -133,6 +133,7 @@ keywords:
   - "DBKK business licence"
   - "SSM Sabah sole proprietorship"
   - "business registration Kota Kinabalu"
+framework: how-to
 ---
 
 كل دليل وطني لتسجيل عمل في ماليزيا يطلب منك فتح EzBiz ودفع RM60. وفي صباح لا تكون تلك النصيحة ناقصة فحسب. بل هي خطأ، واتّباعها يتركك تزاول التجارة على نحو غير قانوني بينما تحمل شهادة لا تعني شيئاً في المكان الذي تقف فيه.

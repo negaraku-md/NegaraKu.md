@@ -81,6 +81,7 @@ relations:
   - { rel: "affects", to: "deforestation-and-forest-loss-in-malaysia" }
 related: ["palm-oil-sustainability-mspo-and-deforestation", "palm-oil-industry", "palm-oil-sustainability-certification", "deforestation-and-forest-loss-in-malaysia"]
 keywords: ["oil palm smallholders", "ऑयल पाम लघुधारक", "MSPO certification", "MSPO प्रमाणन", "independent smallholders", "MS 2530:2022", "EUDR palm oil", "मलेशिया सस्टेनेबल पाम ऑयल"]
+framework: explainer
 ---
 
 बिंटुलु का एक किसान जो अपने ऑयल पाम भूखंड की हर सीमा को स्मृति से नाप सकता है, अब उसे यूरोप का कोई खरीदार उसके फल को छूने से पहले उन "मानसिक मानचित्रों" को GPS बहुभुजों में बदलना पड़ता है। वह अंतर — अपनी भूमि को जानने और उसे किसी लेखा-परीक्षक की संतुष्टि तक प्रलेखित करने के बीच — मलेशिया की लघुधारक पाम ऑयल अर्थव्यवस्था के पीछे की शांत कहानी है।

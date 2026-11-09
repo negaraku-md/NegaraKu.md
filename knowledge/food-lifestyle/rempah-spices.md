@@ -91,6 +91,7 @@ verificationNeeded:
   - "The phrase 'rempah empat beradik' ('four sibling spices') and its exact membership — it is used colloquially for a core group of dry spices, but lists vary (coriander, cumin and fennel recur, with the fourth given variously as fenugreek, white pepper or another spice). Confirm the term and its canonical members with a Malay culinary or lexicographic source."
   - "Which aromatics count as the irreducible 'core' of a rempah versus regional or dish-specific additions — reputable food sources describe chilli, garlic, shallot and ginger as the base, with galangal, turmeric, candlenut, lemongrass and belacan as common but variable additions. Confirm against a Malaysian culinary authority."
   - "The causal link between the historic Melaka Straits spice trade and the development of Malaysian rempah/spice-paste cooking is a reasonable inference drawn from trade and culinary histories rather than a single documented statement — confirm with a dedicated food-history source."
+framework: explainer
 ---
 
 Lift the lid on almost any pot of Malaysian curry, *gulai* or *sambal* and the

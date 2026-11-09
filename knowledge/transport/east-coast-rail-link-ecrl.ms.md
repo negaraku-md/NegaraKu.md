@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "logistics-ports-industry" }
 related: ["ecer-guide", "kl-singapore-high-speed-rail", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["East Coast Rail Link", "ECRL", "Laluan Rel Pantai Timur", "Malaysia Rail Link", "CCCC railway Malaysia", "ECRL cost completion", "Kota Bharu Port Klang rail", "ECER rail"]
+framework: profile
 ---
 
 Selama beberapa dekad, cara terpantas antara Kuala Lumpur dengan negeri pantai timur bermakna perjalanan jauh menyeberangi banjaran gunung melalui jalan raya. Laluan Rel Pantai Timur ialah pertaruhan Malaysia bahawa satu landasan rel boleh mengubah keadaan itu — dan, dalam proses itu, mengimbangi semula tempat pertumbuhan negara berlaku.

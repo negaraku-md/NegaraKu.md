@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "share-transfer" }
 related: ["share-transfer", "register-of-members", "stamp-duty-share-transfer", "beneficial-ownership"]
 keywords: ["transmission of shares Malaysia", "shares after shareholder dies", "section 109 Companies Act 2016", "probate shares Sdn Bhd", "trustee in bankruptcy shares"]
+framework: how-to
 ---
 
 두 명으로 구성된 Sdn Bhd의 한 주주가 사망합니다. 생존한 이사가 비서에게 "미망인에게

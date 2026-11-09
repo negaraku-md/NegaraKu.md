@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "kaamatan" }
 related: ["hari-raya-aidilfitri", "chinese-new-year", "deepavali", "christmas-malaysia", "gawai-dayak", "kaamatan"]
 keywords: ["comidas festivas", "comida de raya", "ketupat", "rendang", "lemang", "yee sang", "lou sang", "murukku", "manok pansuh", "hinava", "tuak", "tumpung", "casa abierta", "kuih raya"]
+framework: history-culture
 ---
 
 Sigue el calendario malasio de un extremo del año al otro, y no estás simplemente cambiando de fecha — estás cambiando de cocina. Este mes es el aroma del rendang y la leche de coco del lemang; unos meses después, la mesa está llena de ensalada de pescado crudo levantada en alto mientras la gente aclama; luego llega el turno de las crujientes espirales de murukku, y por último un tramo de bambú partido que se abre para liberar pollo humeante.

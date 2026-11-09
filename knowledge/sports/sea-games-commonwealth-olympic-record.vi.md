@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "negaraku-anthem" }
 related: ["negaraku-anthem"]
 keywords: ["Malaysia Olympic medals", "SEA Games", "Commonwealth Games 1998", "Lee Chong Wei", "Malaysia gold medal", "medal tally"]
+framework: data-reference
 ---
 
 Malaysia đã leo lên bục vinh quang Olympic mười lăm lần — và nghe quốc ca của một quốc gia khác vang lên mỗi lần như vậy.

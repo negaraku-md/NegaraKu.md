@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "mak-yong" }
 related: ["sabah", "population-composition", "wau"]
 keywords: ["مهرجان كامتان", "Tadau Kaamatan", "مهرجان الحصاد الكادازاندوسوني", "أوندوك نغاداو", "بامبازون", "هومينودون", "ماغاڤاو", "KDCA", "صباح", "Pesta Kaamatan", "Unduk Ngadau", "Sabah"]
+framework: history-culture
 ---
 
 سُمّي المهرجان على فكرة واحدة: الحصاد. فكلمة *كامتان* (Kaamatan) تعني ذلك بالضبط في لغة الكادازاندوسون، وكل ما عداه في الاحتفال — الطقس، ونبيذ الأرز، والمسابقة التي تُتوَّج في المساء الأخير — ينمو من ذلك الفعل الواحد: جني الأرز.

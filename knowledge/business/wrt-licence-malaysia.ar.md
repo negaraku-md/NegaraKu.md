@@ -104,6 +104,7 @@ keywords:
   - "رأس المال المدفوع WRT"
   - "WRT paid up capital"
   - "WRT employment pass"
+framework: rules
 ---
 
 ابحث عن رخصة WRT وسيُقال لك، بثقة وتكرار، إنها تشترط RM1 مليون من رأس المال المدفوع.

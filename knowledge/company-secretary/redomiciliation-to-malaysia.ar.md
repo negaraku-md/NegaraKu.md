@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "labuan-company-formation" }
 related: []
 keywords: ["نقل الموطن", "redomiciliation", "re-domiciliation", "الاستمرارية", "continuance", "لابوان", "Labuan", "قانون شركات لابوان لسنة 1990", "Labuan Companies Act 1990", "المادة 16", "section 16", "الشركة الأجنبية", "foreign company", "الموطن", "domicile", "قانون الشركات 2016", "Companies Act 2016", "Labuan FSA"]
+framework: explainer
 ---
 
 الشركة التي تريد أن تصبح ماليزية دون أن تنحلّ في الخارج وتبدأ من جديد لديها باب واحد بالضبط إلى البلد — وهو لا يفتح على شبه الجزيرة.

@@ -104,6 +104,7 @@ keywords:
   - "section 31 Companies Act 2016"
   - "do I need a constitution Sdn Bhd"
   - "M&A replaced by constitution"
+framework: explainer
 ---
 
 Companies Act 2016 நிறுவன அரசியலமைப்பை விருப்பத்தேர்வாக (optional) மாற்றியது,

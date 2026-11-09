@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "freelancer-and-gig-tax" }
 related: ["sole-prop-vs-sdn-bhd"]
 keywords: ["start a consultancy malaysia", "consulting business malaysia", "professional services firm malaysia", "freelance consultant register malaysia", "service tax consultancy malaysia", "LLP vs sdn bhd consulting", "regulated profession licence malaysia"]
+framework: how-to
 ---
 
 コンサルティング業は、一見もっとも始めやすいビジネスに見える——店舗も在庫も要らず、必要なのは自分の専門知識とノートパソコンだけである。そして一般的な経営コンサルタントであれば、それはほぼ事実である。SSMに登録すれば、それだけで営業を開始できる。しかし、つまずきやすい点が二つある。第一に、あなたの「コンサルティング」が実は*規制対象の専門職*である場合、企業登録だけでは十分ではない——開業するには免許が必要である。第二に、選ぶ実体と該当する税務は、サービス業にとって、ほかのほとんどの事業以上に重要である。なぜなら、あなたの収入こそが、その事業そのものだからである。

@@ -72,6 +72,7 @@ social:
     - MSME
     - GoDigital
     - MalaysiaMADANI
+framework: explainer
 ---
 
 Bien des petites entreprises savent qu'elles *devraient* passer à un vrai système de point de vente, tenir leur comptabilité dans un logiciel plutôt que dans un cahier, ou commencer à vendre en ligne — mais le coût initial des outils est précisément ce qui ne cesse d'être repoussé. Le MSME Digital Grant MADANI est fait pour supprimer la moitié de ce coût. C'est une **subvention de contrepartie** : adoptez un outil numérique approuvé, et le gouvernement paie la moitié de la facture dans la limite d'un plafond, tandis que vous payez le reste.

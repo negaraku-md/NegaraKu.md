@@ -93,6 +93,7 @@ relations:
   - { rel: "explained-in", to: "corporate-tax-rates" }
 related: ["personal-tax-rates", "corporate-tax-rates", "personal-tax-reliefs", "pcb-monthly-tax-deduction"]
 keywords: ["income tax Malaysia", "cukai pendapatan Malaysia", "LHDN income tax", "182 day rule Malaysia", "self assessment system Malaysia", "chargeable income", "Malaysia tax residency", "year of assessment"]
+framework: explainer
 ---
 
 대부분의 사람은 말레이시아 소득세를 급여명세서의 한 줄 — 'PCB' — 과 4월의 연례 소동으로 처음 만납니다. 그 한 줄 뒤에는 나라에서 가장 중대한 제도 중 하나가 있으며, 그에 대해 쓰인 거의 모든 글은 잘못된 곳 — 세율표 — 에서 시작합니다.

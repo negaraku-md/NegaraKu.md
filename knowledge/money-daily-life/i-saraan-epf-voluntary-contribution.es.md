@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "str-cash-aid" }
 related: ["epf", "epf-akaun-fleksibel", "epf-socso-gig-workers-self-employed", "str-cash-aid"]
 keywords: ["i-Saraan", "i-Saraan Plus", "KWSP i-Saraan", "aportacion voluntaria EPF", "EPF autonomos", "ahorro jubilacion trabajador gig", "incentivo contrapartida EPF", "caruman sukarela KWSP"]
+framework: explainer
 ---
 
 Si conduces para una app de e-hailing, vendes comida en un puesto, haces trabajos

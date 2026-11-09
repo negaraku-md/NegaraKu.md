@@ -100,6 +100,7 @@ entity: "Padi and rice industry in Malaysia"
 relations: []
 related: []
 keywords: ["padi", "الأرز غير المقشور", "rice industry Malaysia", "صناعة الأرز في ماليزيا", "rice self-sufficiency level Malaysia", "SSL rice", "BERNAS", "Padiberas Nasional", "guaranteed minimum price padi", "Harga Minimum Terjamin", "MADA", "kawasan jelapang padi", "SSHP", "Dasar Agromakanan Negara 2.0", "National Agrofood Policy", "rice import Malaysia", "مزارعو الأرز في ماليزيا"]
+framework: profile
 ---
 
 الأرز هو الغذاء الوحيد الذي ترفض ماليزيا تركه للسوق الحرة. فالدولة تركّز مكان

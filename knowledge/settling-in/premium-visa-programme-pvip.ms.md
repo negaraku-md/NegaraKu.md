@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["mm2h-long-stay-visa", "employment-pass", "dependant-social-visit-passes", "moving-to-malaysia-first-steps"]
 keywords: ["PVIP", "Premium Visa Programme", "Program Visa Premium", "Malaysia residency visa", "residency by investment", "20-year visa Malaysia", "PVIP fixed deposit", "PVIP requirements"]
+framework: explainer
 ---
 
 Beli rumah, ambil pekerja, daftarkan anak-anak ke sekolah, dan tidak perlu mengira berapa hari setahun anda habiskan di negara ini: itulah hak teras yang ditawarkan Malaysia kepada warga asing berkekayaan melalui Program Visa Premium. Diumumkan oleh Kementerian Dalam Negeri pada September 2022 dan dibuka kepada pemohon mulai 1 Oktober 2022, PVIP (Program Visa Premium) ialah visa kediaman-melalui-pelaburan yang memberikan pemohon yang layak sehingga dua dekad kediaman menetap di Malaysia. Ia mudah dikelirukan dengan skim Malaysia My Second Home (MM2H) yang lebih lama, tetapi kedua-duanya dikendalikan oleh kementerian yang berbeza dan disasarkan kepada pemohon yang berbeza.

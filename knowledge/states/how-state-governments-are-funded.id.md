@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-special-rights-ma63" }
 related: []
 keywords: ["hasil negeri", "geran perkapita", "geran jalan raya negeri", "Jadual Kesepuluh", "Perkara 109", "Perkara 110", "kewangan persekutuan-negeri", "royalti", "cukai jualan negeri"]
+framework: explainer
 ---
 
 Ketika sebuah pemerintah negeri di Malaysia menyusun anggarannya, ia bermula dengan satu realitas yang jarang disebut: pajak yang paling besar hasilnya — pajak penghasilan, pajak penjualan dan jasa, kepabeanan — bukan miliknya untuk dipungut. Sumber itu tergolong dalam kewenangan Federal. Apa yang tersisa untuk negeri, dan bagaimana kesenjangan itu diisi, ditetapkan hitam-putih dalam Konstitusi Federal.

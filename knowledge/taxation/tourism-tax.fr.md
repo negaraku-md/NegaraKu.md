@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["sst-explained", "sst-registration"]
 keywords: ["tourism tax", "TTx", "taxe de séjour Malaisie", "Tourism Tax Act 2017", "RM10 par chambre", "MyTTx", "RMCD", "taxe Agoda", "taxe hôtelière Malaisie"]
+framework: explainer
 ---
 
 Au moment de quitter un hôtel malaisien, vous remarquerez peut-être sur la facture une petite ligne forfaitaire qui n'a rien à voir avec le tarif de la chambre : RM10, une fois par nuit, par chambre. C'est la taxe de séjour — et savoir si vous la devez se résume à une seule question que la réception ne peut pas lever : quel passeport détenez-vous ?

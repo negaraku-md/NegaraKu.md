@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "property-real-property-gains-tax-rpgt" }
 related: []
 keywords: ["faraid", "harta pusaka", "Akta Pembahagian 1958", "Amanah Raya", "sijil faraid", "pewarisan hartanah", "harta pusaka kecil", "Pejabat Tanah"]
+framework: explainer
 ---
 
 Apabila seseorang meninggal dunia di Malaysia, siapa yang mewarisi rumahnya bergantung pada satu perkara asas terlebih dahulu: sama ada si mati seorang Islam atau bukan Islam. Dua sistem undang-undang yang berbeza mengawal jawapan itu, dan kedua-duanya berjalan melalui pihak berkuasa yang berlainan sebelum sebarang geran tanah boleh bertukar nama.

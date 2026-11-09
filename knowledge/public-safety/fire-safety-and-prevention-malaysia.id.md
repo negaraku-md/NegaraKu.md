@@ -70,6 +70,7 @@ relations:
   - { rel: "governs", to: "akta-perkhidmatan-bomba-1988" }
 related: []
 keywords: ["keselamatan kebakaran", "pencegahan kebakaran", "perakuan bomba", "fire certificate", "JBPM", "Akta Perkhidmatan Bomba 1988"]
+framework: explainer
 ---
 
 Api tidak memberi peringatan. Dalam hitungan menit, satu percikan dari soket kelebihan beban atau wajan yang ditinggalkan dapat meratakan sebuah rumah — dan pada 2025 saja, [Jabatan Bomba dan Penyelamat Malaysia](/id/public-safety/fire-and-rescue-department-bomba) (JBPM) mencatat 16,111 kasus kebakaran dengan 98 kematian dan kerugian harta benda diperkirakan RM2.09 miliar. Kabar baiknya: hampir semuanya dapat dicegah, baik di ruang tamu Anda maupun di lantai pabrik.

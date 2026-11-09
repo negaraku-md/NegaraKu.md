@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "department-of-industrial-relations-malaysia" }
 related: ["trade-unions-malaysia", "employment-act-1955"]
 keywords: ["rundingan kolektif", "perjanjian kolektif", "pertikaian perusahaan", "hak rundingan tunggal", "pengiktirafan kesatuan", "mogok", "sekat masuk", "piket", "Akta Perhubungan Perusahaan 1967", "Mahkamah Perusahaan"]
+framework: rules
 ---
 
 Un travailleur qui veut que son employeur s'assoie à la table pour négocier les salaires ne peut pas simplement le demander — il existe un déroulement légal à suivre, et chaque étape a son propre délai. Ce déroulement figure dans l'[Industrial Relations Act 1967](/law/industrial-relations-act-1967) (Act 177), appliquée par le Département des relations du travail de Malaisie (JPPM), et il détermine qui peut négocier, ce qui peut être négocié et quand une action collective comme une grève est autorisée.

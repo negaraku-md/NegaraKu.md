@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["patent-malaysia", "trademark-registration-malaysia", "ip-ownership-malaysia"]
 keywords: ["industrial design registration malaysia", "myipo industrial design", "industrial designs act 1996", "design protection malaysia", "product design ip malaysia"]
+framework: explainer
 ---
 
 말레이시아 제품 지식재산에서 단 하나의 가장 값비싼 실수는 먼저 출시하는 것입니다. 지난달에 발명을 공개한 특허 출원인은 여전히 괜찮습니다 — 특허법(Patents Act 1983) 제14조 (3)항이 12개월의 유예 기간을 주기 때문입니다. 같은 처지의 디자인 출원인은 대개 이미 권리를 잃은 상태입니다. 산업디자인법(Industrial Designs Act 1996)이 그에 상응하는 것을 주지 않기 때문입니다.

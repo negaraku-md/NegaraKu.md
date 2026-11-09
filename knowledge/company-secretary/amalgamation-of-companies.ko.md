@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "members-voluntary-winding-up" }
 related: ["companies-act-2016", "ssm"]
 keywords: ["amalgamation", "scheme of arrangement", "section 366", "section 370", "Companies Act 2016", "reconstruction", "merger Malaysia", "SSM", "75 percent threshold", "vesting order"]
+framework: explainer
 ---
 
 두 말레이시아 회사가 싱가포르나 뉴질랜드에서 하듯이 — 이사회가 결의를 통과시키고 한

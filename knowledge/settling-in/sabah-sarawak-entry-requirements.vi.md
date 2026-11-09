@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "mykad-guide" }
 related: ["immigration-act-1959-63"]
 keywords: ["masuk sabah", "masuk sarawak", "imigresen sabah sarawak", "dokumen perjalanan terhad", "pas lawatan sosial", "MA63 imigresen"]
+framework: rules
 ---
 
 Bay từ Kuala Lumpur đến Kuching, và ngay khi bạn hạ cánh, có một quầy nhập cư đang chờ — ngay trong chính đất nước mình. Với nhiều công dân Bán đảo, đây là lần đầu tiên họ xuất trình thẻ căn cước cho một cán bộ nhập cư mà chưa hề vượt qua một biên giới quốc tế nào. Đây không phải là một sai sót hành chính. Sabah và Sarawak kiểm soát việc nhập cư của riêng mình, và quy định đó áp dụng cho tất cả mọi người, bao gồm cả công dân Malaysia.

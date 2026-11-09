@@ -80,6 +80,7 @@ social:
     - PrivateSchool
     - EducationMalaysia
     - MalaysiaLicensing
+framework: how-to
 ---
 
 학원이나 사립학교를 여는 것은 밖에서 보면 상점 건물을 임대하고, 좋은 교사를

@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["sales-tax-explained", "customs-import-duty", "sst-registration"]
 keywords: ["low value goods", "LVG sales tax", "online shopping tax Malaysia", "10% sales tax imported goods", "MyLVG", "cukai jualan barang bernilai rendah", "RMCD low value goods"]
+framework: explainer
 ---
 
 Durante años, un gadget de menos de RM500 pedido en una tienda web del extranjero llegaba a tu puerta libre de impuestos. Desde el 1 de enero de 2024, ya no.

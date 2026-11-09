@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "dependant-social-visit-passes", "student-pass"]
 keywords: ["overstay Malaysia", "immigration blacklist", "Special Pass", "Immigration Act 1959/63", "compound fine", "re-entry ban", "section 15", "Overstay Management Programme"]
+framework: rules
 ---
 
 在马来西亚法律眼中，仅逾期一天失效的准证，与逾期一百天失效的准证是同一项罪行。对于任何刚意识到自己的访客、就业、家属、学生或专业准证已到期的人来说，这是个令人不安的起点——而它决定了接下来会发生的一切。

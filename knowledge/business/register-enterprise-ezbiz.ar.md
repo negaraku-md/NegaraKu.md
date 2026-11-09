@@ -126,6 +126,7 @@ keywords:
   - "sole proprietorship Malaysia registration"
   - "ROBA 1956 30 days"
   - "trade name vs personal name SSM"
+framework: how-to
 ---
 
 الثلاثون يوماً قد مضت عادةً بالفعل.

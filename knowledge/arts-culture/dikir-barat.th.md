@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "wau" }
 related: ["kelantan", "mak-yong", "wayang-kulit", "wau"]
 keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", "pantun berbalas", "seni persembahan", "warisan kebangsaan"]
+framework: history-culture
 ---
 
 สองคณะนั่งขัดสมาธิหันหน้าเข้าหากันบนเวที ไม่มีบท เมื่อคณะแรกโต้ปันตุนเสียดสีเรื่องราคาสินค้าขึ้นเสร็จ คณะที่สองมีเวลาเพียงไม่กี่วินาทีในการแต่งคำตอบ — และมันต้องมีสัมผัส ต้องได้จังหวะ และถ้าเป็นไปได้ ต้องคมกว่าปันตุนต้นฉบับ

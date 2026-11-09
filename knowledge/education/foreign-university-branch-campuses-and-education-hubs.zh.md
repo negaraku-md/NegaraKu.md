@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "iskandar-malaysia-economic-corridor" }
 related: []
 keywords: ["foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "education hub", "transnational education"]
+framework: explainer
 ---
 
 1998年，吉隆坡的一名学生无需离开本国就能获得澳大利亚莫纳什大学的学位——而且只需支付马来西亚的价格。这一单一安排开启了一种此后不断发展的模式：引进大学，而非输出学生。

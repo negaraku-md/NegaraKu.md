@@ -68,6 +68,7 @@ faq:
     a: 'Dalam praktik sehari-hari orang Tionghoa Malaysia, tidak demikian. Bagi banyak keluarga, Buddhisme, Taoisme, pemikiran Konfusius, dan pemujaan leluhur bukanlah pilihan yang saling meniadakan, melainkan satu rangkaian praktik yang berjalan berdampingan: orang yang sama bisa membakar dupa pada hari pertama dan kelima belas penanggalan lunar, berziarah ke makam saat Cheng Beng (清明), sekaligus pergi ke kuil untuk memuja Buddha pada Hari Waisak. Perpaduan inilah ciri utama kepercayaan rakyat Tionghoa, dan karena itu Buddhisme serta kepercayaan rakyat sering kali sulit dipisahkan secara tegas.'
   - q: Siapakah Tua Pek Kong, dan di manakah kelenteng Tua Pek Kong tertua?
     a: Tua Pek Kong (大伯公) adalah dewa yang berciri lokal yang kuat, dipuja secara luas di kelenteng-kelenteng Tionghoa di seluruh Malaysia. Kelenteng Tua Pek Kong tertua dikatakan berada di Tanjung Tokong, Penang, dan kepercayaannya kemudian menyebar ke seluruh Malaysia, Singapura, dan Indonesia. Dalam bahasa Melayu, rumah ibadah seperti ini disebut tokong; kelenteng terkenal lainnya mencakup Cheng Hoon Teng di Malaka dan Kuil Thean Hou di Kuala Lumpur.
+framework: history-culture
 ---
 
 Masuklah ke kuil Tionghoa mana pun di Malaysia, dan Anda kemungkinan besar akan

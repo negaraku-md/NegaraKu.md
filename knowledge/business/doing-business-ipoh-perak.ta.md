@@ -97,6 +97,7 @@ keywords:
   - "Perak industrial land price"
   - "Perak GDP"
   - "Ipoh cost of doing business"
+framework: profile
 ---
 
 இது வேண்டுமென்றே எழுதப்பட்ட ஒரு குறுகிய பக்கம். Perak-இன் சட்ட அமைப்பு Selangor-இன்

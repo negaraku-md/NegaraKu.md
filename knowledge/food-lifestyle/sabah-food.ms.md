@@ -94,6 +94,7 @@ verificationNeeded:
   - "Sama ada pinasakan dipanggang atau direneh: sumber menggambarkan kedua-dua penyediaan basung (big-eye scad) yang direneh dengan takob-akob dan kunyit serta versi yang dipanggang — sahkan kaedah gaya rumah yang standard dengan sumber tempatan."
   - "Dakwaan bahawa sang nyuk mian berasal dari pantai timur Sabah (Tawau) sebelum merebak ke Kota Kinabalu — diulang secara meluas dalam media makanan tetapi sahkan dengan sumber tempatan atau sejarah."
   - "Atribusi tradisi mi Sabah secara khusus kepada peneroka Hakka (berbanding peneroka Cina secara lebih luas) — sahkan kaitan kumpulan dialek yang dominan dengan sumber sejarah penghijrahan."
+framework: explainer
 ---
 
 Rentasi Laut China Selatan dari Semenanjung Malaysia dan mejanya pun berubah. Di

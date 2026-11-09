@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "e-hailing-grab" }
 related: []
 keywords: ["walkability Malaysia", "cycling Malaysia cities", "pedestrian infrastructure Malaysia", "KL Pedestrian and Cycling Masterplan", "car dependency Malaysia", "active mobility Malaysia"]
+framework: explainer
 ---
 
 下午一点从巴生谷的一座轻快铁（LRT）站走出来，试着步行剩下的 500 米到你

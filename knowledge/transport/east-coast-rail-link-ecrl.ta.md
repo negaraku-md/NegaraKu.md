@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "logistics-ports-industry" }
 related: ["ecer-guide", "kl-singapore-high-speed-rail", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["East Coast Rail Link", "ECRL", "Laluan Rel Pantai Timur", "Malaysia Rail Link", "CCCC railway Malaysia", "ECRL cost completion", "Kota Bharu Port Klang rail", "ECER rail"]
+framework: profile
 ---
 
 பல பத்தாண்டுகளாக, கோலாலம்பூருக்கும் கிழக்கு கடற்கரை மாநிலங்களுக்கும் இடையிலான வேகமான வழி என்பது மலைகள் மீதாகச் சாலையில் நீண்ட பயணம் செய்வதாக இருந்தது. ஒரே தண்டவாளப் பாதை அதை மாற்றிவிட முடியும் என்பதும், அந்தச் செயல்பாட்டில் நாட்டின் வளர்ச்சி எங்கே நிகழ்கிறது என்பதைச் சமநிலைப்படுத்த முடியும் என்பதும்தான் கிழக்கு கடற்கரை ரயில் இணைப்பின் மீதான மலேசியாவின் பந்தயம்.

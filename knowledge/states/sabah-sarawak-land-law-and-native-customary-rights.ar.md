@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
 related: ["federal-constitution"]
 keywords: ["حقوق أبناء الولاية العُرفية", "native customary rights", "NCR", "Sarawak Land Code", "Sabah Land Ordinance", "ملكية أبناء الولاية", "native title", "temuda", "pemakai menoa", "قانون الأراضي في ماليزيا الشرقية", "East Malaysia land law"]
+framework: explainer
 ---
 
 اشترِ منزلًا في كوالالمبور، فيحكم سندَ ملكيتك تشريعٌ اتحادي واحد. وافعل الشيء نفسه في

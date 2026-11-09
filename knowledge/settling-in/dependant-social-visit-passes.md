@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "employment-pass-malaysia" }
 related: ["moving-to-malaysia-first-steps", "imigresen", "employment-pass-malaysia", "work-passes-malaysia", "opening-bank-account"]
 keywords: ["Dependant Pass Malaysia", "Long-Term Social Visit Pass", "LTSVP Malaysia", "Employment Pass family", "sponsor spouse Malaysia visa", "parents visa Malaysia expatriate", "Malaysia family visa options"]
+framework: explainer
 ---
 
 An Employment Pass holder moving to Malaysia can bring a spouse and young children on one pass. Their parents, or a child who just turned 18, need a completely different one. Same principal, same household, two separate immigration categories — and mixing them up is the single most common way a family sponsorship application stalls.

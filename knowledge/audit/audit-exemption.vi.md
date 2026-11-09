@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "financial-year-end" }
 related: ["audit-exemption-thresholds", "who-cannot-claim-audit-exemption", "dormant-company-audit-exemption", "after-audit-exemption"]
 keywords: ["audit exemption Malaysia", "pengecualian audit syarikat", "Practice Directive 10/2024", "SSM audit exemption criteria", "small company audit Malaysia"]
+framework: rules
 ---
 
 Không phải mọi công ty Sdn Bhd đều cần kiểm toán hằng năm. Bài kiểm tra rộng rãi hơn hầu hết mọi người giả định ở một khía cạnh và nghiêm ngặt hơn ở một khía cạnh khác — và cả hai nửa đều bị đưa tin sai rộng rãi.

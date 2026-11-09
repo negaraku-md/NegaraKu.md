@@ -95,6 +95,7 @@ keywords:
   - "Malaysian rice dish"
 social:
   hashtags: ["#NasiKandar", "#Penang", "#Mamak", "#MalaysianFood", "#Banjir", "#GeorgeTown"]
+framework: explainer
 ---
 
 在槟城随便问人哪里可以吃宵夜，答案往往就是两个字：nasi kandar。一盘热气腾腾的

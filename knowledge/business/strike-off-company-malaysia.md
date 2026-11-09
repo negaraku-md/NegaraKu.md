@@ -99,6 +99,7 @@ relations:
   - { rel: "requires", to: "annual-return" }
 related: ["close-a-company", "members-voluntary-winding-up", "creditors-voluntary-winding-up", "ssm-fees-malaysia", "annual-return"]
 keywords: ["strike off company malaysia", "section 550 companies act 2016", "section 555 reinstatement", "tutup syarikat ssm", "deregister sdn bhd", "SSM striking off guidelines"]
+framework: explainer
 ---
 
 Most people who ask how to strike off a company are really asking how to stop

@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "audit-exemption" }
 related: ["mbrs-2-filing-guide", "mbrs-tagging-errors", "unaudited-financial-statements", "financial-statements-lodgement", "audit-exemption", "mfrs-vs-mpers"]
 keywords: ["estados financieros Malasia", "declaración de los directores", "declaración jurada estados financieros", "informe de los directores artículo 252", "informe de los auditores artículo 266", "cuentas legales Sdn Bhd", "Quinta Lista informe de los directores", "financial statements Malaysia", "statement by directors", "statutory declaration"]
+framework: explainer
 ---
 
 Pregunte a un director malasio qué va a la SSM cada año y la respuesta suele ser «las

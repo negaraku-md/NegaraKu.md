@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["federal-budget", "gdp-overview", "sovereign-credit-rating-malaysia", "subsidy-rationalisation-padu"]
 keywords: ["hutang persekutuan", "Akta 850", "Akta Tanggungjawab Fiskal", "hutang berkanun", "60% KDNK", "defisit fiskal", "MGS", "JRFL"]
+framework: explainer
 ---
 
 マレーシア連邦政府の債務は2025年にRM1兆3,000億を突破した——しかし、よく引用される「GDPの64.7%」という数字と、よく言及される「60%の上限」は、実際には異なる二つのものを測定している。この違いを理解することが、国家の財政の健全性を正確に読み解く鍵となる。

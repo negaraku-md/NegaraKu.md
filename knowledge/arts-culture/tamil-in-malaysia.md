@@ -87,6 +87,7 @@ relations:
   - { rel: "compares-with", to: "bahasa-melayu" }
 related: ["population-composition", "article-152-language", "bahasa-melayu", "languages-spoken", "federal-constitution"]
 keywords: ["Tamil in Malaysia", "SJKT", "Sekolah Jenis Kebangsaan Tamil", "Tamil schools Malaysia", "Malaysian Indians", "Article 152", "Tamil medium instruction", "vernacular schools"]
+framework: explainer
 ---
 
 On the old rubber estates of Malaya, some of the earliest classrooms were sheds and huts, and the lessons were in Tamil. According to a historical study published in the journal of the Malaysian Historical Society, a basic primary education in Tamil was offered on plantations from the early twentieth century, provided for under labour codes of the day and, for a long time, taught by clerks and part-timers rather than trained teachers.

@@ -100,6 +100,7 @@ relations:
   - { rel: "related-to", to: "sukan-tradisional-malaysia" }
 related: []
 keywords: ["sepak takraw", "sepak raga", "sukan kebangsaan malaysia", "peraturan sepak takraw", "piala raja sepak takraw", "persekutuan sepaktakraw malaysia"]
+framework: history-culture
 ---
 
 バレーボールを思い浮かべ、そこから各選手の両手を取り上げてほしい。残るもの——頭の高さのバックフリップ・アタック、胸を使ったトス、高く上げてかかとで蹴るサーブ——それがセパタクローである。世界でもっともアクロバティックなスポーツの一つであり、マレー世界のアイデンティティともっとも深く結びついた競技の一つだ。

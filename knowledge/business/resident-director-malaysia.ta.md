@@ -111,6 +111,7 @@ keywords:
   - "ordinarily resident director"
   - "foreign owned Sdn Bhd director"
   - "pengarah pemastautin Malaysia"
+framework: explainer
 ---
 
 ஒரு வெளிநாட்டவராக மலேசிய நிறுவனத்தை எவ்வாறு பதிவு செய்வது என்று தேடுங்கள், மூன்று

@@ -98,6 +98,7 @@ verificationNeeded:
   - "CNN把槟城asam laksa列入（据报第7名）的排名，曾出现在CNN不同年份的多份美食汇总中（最初约在2011年，后来又重新推广）；请直接对照CNN来源核实确切的榜单、名次与年份。"
   - "White curry mee通常与槟城和Ipoh联系在一起，但未在Wikipedia的槟城美食概览中记载；请对照本地来源核实它与槟城的关联及其描述。"
   - "将特定摊位归属，以及对小贩地点（Gurney Drive、Lorong Selamat、New Lane、Air Itam、Chulia Street）作出「最佳」或「最老」的说法，都是有争议且随时间变化的；在把任何一处当作定论引用之前，请先核实当前的摊位与营业时间。"
+framework: explainer
 ---
 
 很少有哪个地方能像槟城这样，把如此多的美食压缩进如此小的一块土地。在岛屿首府George

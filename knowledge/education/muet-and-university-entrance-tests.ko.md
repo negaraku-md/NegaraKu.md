@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "stpm" }
 related: []
 keywords: ["MUET", "Majlis Peperiksaan Malaysia", "MPM", "band MUET", "kemasukan universiti", "STPM", "kemahiran bahasa Inggeris", "ijazah sarjana muda"]
+framework: explainer
 ---
 
 STPM이나 매트리큘레이션에서 뛰어날 수 있지만, 한 가지 결과가 더 없으면 여러분의 학위 지원서는 여전히 불완전합니다. 그 결과가 바로 MUET입니다 — 그리고 많은 학생은 대학 지원 마감일이 다가와서야 그 중요성을 깨닫습니다.

@@ -104,6 +104,7 @@ relations:
   - { rel: "compares-with", to: "employment-act-1955-guide" }
 related: ["i-saraan-epf-voluntary-contribution", "employment-act-1955-guide", "socso-eis-employer-guide"]
 keywords: ["gig workers act 2025", "act 872", "gig workers tribunal", "gig worker socso", "platform provider malaysia", "gig economy malaysia law"]
+framework: explainer
 ---
 
 Act 872 को एक सामाजिक-सुरक्षा कहानी के रूप में कवर किया जा रहा है: मंचों को अब SOCSO काटना होगा। यह इसका सबसे छोटा हिस्सा है। बड़ा प्रभाव यह है कि मलेशिया के पास अब कर्मचारी और स्वतंत्र ठेकेदार के बीच एक **वैधानिक तीसरी श्रेणी** है — और कानून उस श्रेणी को यह बताकर परिभाषित करता है कि वह क्या *नहीं* है।

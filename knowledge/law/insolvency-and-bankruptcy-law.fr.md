@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016", "contracts-act-1950", "court-hierarchy"]
 keywords: ["bankruptcy Malaysia", "insolvency act 1967", "winding up company Malaysia", "judicial management", "department of insolvency", "RM100000 bankruptcy threshold", "social guarantor", "discharge from bankruptcy"]
+framework: explainer
 ---
 
 Devoir de l'argent en Malaisie ne suffit pas, à lui seul, pour être déclaré en faillite. La dette doit être importante, le créancier doit suivre une procédure judiciaire précise et — si vous n'avez jamais fait que garantir le prêt d'études d'un ami ou le logement familial — la loi peut vous protéger entièrement. La Malaisie exploite deux régimes d'insolvabilité distincts : un pour les personnes, un pour les entreprises. Savoir dans lequel vous vous trouvez, et ce que chacun permet, change tout.

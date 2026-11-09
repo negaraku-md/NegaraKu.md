@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "sistem-pendidikan-malaysia" }
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["pendaftaran tahun 1", "idme moe gov my", "umur masuk sekolah rendah", "eDaftar Menengah APDM", "BPPS tingkatan 1", "sekolah kerajaan Malaysia", "akta pendidikan 1996", "penangguhan tahun 1"]
+framework: how-to
 ---
 
 많은 학부모는 예전에 1학년을 등록했던 것처럼 폼 1(중등 1학년)에 자녀를 「등록」할 수 없다는 사실을 알고 놀랍니다. 직접 작성할 온라인 양식도 없고, 로그인할 포털도 없습니다. 이유는 간단합니다. 이 두 단계의 공립 교육은 완전히 다른 두 시스템을 사용하며, 둘을 혼동하는 것이 학부모가 「우리 아이 등록이 아예 조회되지 않는다」며 의아해하는 가장 흔한 원인입니다.

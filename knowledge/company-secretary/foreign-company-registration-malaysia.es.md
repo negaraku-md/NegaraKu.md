@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "incorporate-company-malaysia-sdn-bhd" }
 related: ["companies-act-2016"]
 keywords: ["registro empresa extranjera Malasia", "foreign company registration Malaysia", "oficina sucursal Malasia", "branch office Malaysia", "artículo 562 Ley de Sociedades 2016", "empresa extranjera SSM", "agente local Malasia", "sucursal frente a Sdn Bhd"]
+framework: how-to
 ---
 
 Una empresa del exterior puede vender hacia Malasia desde fuera durante mucho tiempo — pero en el momento en que abre una oficina, firma arrendamientos locales o establece personal sobre el terreno, cruza una línea. Una vez que está *operando* en Malasia, la Ley de Sociedades de 2016 (Companies Act 2016) dice que primero debe registrarse, y hacerlo convierte a la misma empresa del exterior en una sucursal registrada en Malasia.

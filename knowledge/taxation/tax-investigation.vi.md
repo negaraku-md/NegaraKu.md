@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "income-tax" }
 related: ["tax-audit"]
 keywords: ["siasatan cukai", "tax investigation", "LHDN", "Seksyen 114", "pengelakan cukai", "rangka kerja siasatan cukai", "audit cukai"]
+framework: explainer
 ---
 
 Khi bức thư của LHDN đến không còn là yêu cầu văn bản hỗ trợ mà là thông báo rằng

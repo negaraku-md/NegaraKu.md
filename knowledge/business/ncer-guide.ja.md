@@ -99,6 +99,7 @@ keywords:
   - "NTAX NCER closed"
   - "Kulim Hi-Tech Park incentives"
   - "koridor utara NCER"
+framework: explainer
 ---
 
 北部回廊が投資家に何を与えてくれるのか尋ねてみれば、税務免除の一覧を手渡されるだろう。

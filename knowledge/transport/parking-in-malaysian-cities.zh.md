@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "road-tax-and-vehicle-registration" }
 related: []
 keywords: ["letak kereta", "e-parking", "kompaun letak kereta", "DBKL", "Smart Selangor Parking", "EZ Smart Park"]
+framework: explainer
 ---
 
 你在车里翻找硬币准备喂售票机——但那些机器早在2020年就消失了。如今在马来西亚大城市停车，是从智能手机开始，而不再是路边的投币箱。

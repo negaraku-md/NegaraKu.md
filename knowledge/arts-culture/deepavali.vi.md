@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-malaysia" }
 related: ["religion-statistics", "public-holidays-malaysia", "batik"]
 keywords: ["deepavali malaysia", "festival of lights malaysia", "hindu festival malaysia", "deepavali public holiday", "deepavali sarawak", "hari deepavali", "diwali malaysia"]
+framework: history-culture
 ---
 
 Trong một đêm, ngọn đèn cất lời. Từng hàng đèn đất sét nhỏ được xếp dọc theo ngưỡng cửa và bệ cửa sổ, một hoa văn trên nền bằng gạo màu hoặc bột được vẽ ở lối vào, và một ngôi nhà tối đen cách đó một giờ nay được viền quanh bằng ngọn lửa. Đó là nơi lễ hội có tên gọi của mình: *Deepavali* đến từ tiếng Phạn nghĩa là «một hàng hoặc một chuỗi đèn».

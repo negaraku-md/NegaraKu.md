@@ -74,6 +74,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
 related: []
 keywords: ["kertas putih kesihatan", "reformasi kesihatan", "pembiayaan kesihatan", "KKM", "insurans kesihatan nasional", "Rakan KKM"]
+framework: explainer
 ---
 
 정부 클리닉은 전국 외래 진료의 거의 3분의 2를 감당합니다 — 그러나 1차 의료 시설의 약 4분의 1만을 차지할 뿐입니다. 이 불균형이, 다른 요인들과 함께, 보건부(Ministry of Health, KKM)로 하여금 한 세대에서 가장 중요한 정책 문서인 보건백서(Health White Paper)를 쓰게 만들었습니다.

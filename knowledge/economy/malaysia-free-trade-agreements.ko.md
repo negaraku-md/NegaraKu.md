@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malaysia FTA", "CPTPP Malaysia", "RCEP Malaysia", "free trade agreement", "MITI", "tariff elimination", "ASEAN Free Trade Area", "bilateral FTA"]
+framework: explainer
 ---
 
 말레이시아의 수입과 수출 대부분은 관세가 이미 협상으로 낮춰진 국경을 넘어 이동합니다. 그

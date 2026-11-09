@@ -72,6 +72,7 @@ relations:
   - { rel: "affects", to: "form-c-and-cp204" }
 related: ["form-c-and-cp204", "corporate-tax-rates", "income-tax-act-1967"]
 keywords: ["basis period Malaysia", "section 21A", "failure year", "CP204B", "change accounting date Malaysia", "tempoh asas"]
+framework: explainer
 ---
 
 3월에 설립되어 첫 회계를 그다음 해 6월 30일에 종료하는 유한책임회사(Sdn Bhd)는 **첫 역년에 대한 과세연도가 없습니다**. 기준기간도, 양식 C(Form C)도, 과세소득도 없습니다. 회사가 매년 신고한다고 들어온 이사들은 이를 놀랍게 여기지만, 이는 단지 제21A조가 작동하는 방식일 뿐입니다.

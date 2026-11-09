@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
 related: ["federal-constitution"]
 keywords: ["native customary rights", "NCR", "Sarawak Land Code", "Sabah Land Ordinance", "native title", "temuda", "pemakai menoa", "East Malaysia land law"]
+framework: explainer
 ---
 
 Buy a house in Kuala Lumpur and one federal statute governs your title. Do the same in Kuching or Kota Kinabalu and you step into an entirely different legal world — one with its own ordinances, its own categories of land, and a form of tenure that no piece of paper created: Native Customary Rights.

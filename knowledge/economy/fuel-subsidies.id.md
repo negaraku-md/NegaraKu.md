@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["program-rahmah-cost-of-living", "cost-of-living-overview", "inflation-cpi", "ringgit", "gdp-overview"]
 keywords: ["subsidi bahan api Malaysia", "Mekanisme Harga Automatik", "APM harga minyak", "BUDI95", "BUDI Diesel", "subsidi bersasar", "harga RON95", "SKDS SKPS"]
+framework: explainer
 ---
 
 Pada minggu 23 hingga 29 Juli 2026, dua pengemudi dapat berdiri di pompa yang sama, mengisi bahan bakar yang sama, dan membayar harga yang berbeda hampir dua kali lipat. Seorang membayar RM1.99 per liter. Seorang lagi membayar RM3.62.

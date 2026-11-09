@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: ["langkasuka", "johor"]
 keywords: ["Melaka Sultanate", "Parameswara", "Malacca history", "Hukum Kanun Melaka", "Malay sultanate origins"]
+framework: history-culture
 ---
 
 Un príncipe huye de una ciudad en llamas. Cruza un estrecho, mata a un jefe local que le había dado cobijo, y sigue huyendo — a través de Muar, a través de Ujong Tanah — hasta que se detiene bajo un árbol, a la orilla de un río, para que descansen sus perros. Uno de ellos acorrala a un ciervo ratón (pelanduk) y este, acorralado, se vuelve y lo arroja de una patada al agua. El príncipe lo toma como un augurio: hasta la criatura más pequeña se defiende en este lugar. Decide que aquí construirá su ciudad, y la nombra en honor al árbol bajo el que está sentado — un árbol *melaka*.

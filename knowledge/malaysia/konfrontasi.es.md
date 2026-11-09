@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["formation-of-malaysia-1963", "singapore-separation-1965", "ma63"]
 keywords: ["Konfrontasi", "Konfrontasi Indonesia Malaysia", "Ganyang Malaysia", "Perjanjian Jakarta 1966", "pembentukan Malaysia 1963", "Sukarno Suharto"]
+framework: history-culture
 ---
 
 Malasia nació el 16 de septiembre de 1963 en una región que no la recibió pacíficamente. Un país vecino mucho mayor ya había declarado su oposición, y en cuestión de meses la nueva frontera de Borneo se convirtió en la línea del frente de un conflicto armado que nunca fue declarado formalmente como guerra — pero que duró casi cuatro años. Ese conflicto se conoce como Konfrontasi.

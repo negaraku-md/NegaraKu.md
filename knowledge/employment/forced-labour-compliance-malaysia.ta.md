@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "worker-accommodation-act-446" }
 related: ["hiring-foreign-workers-malaysia", "worker-accommodation-act-446"]
 keywords: ["forced labour malaysia", "section 90b employment act", "passport retention malaysia", "withhold release order malaysia", "atipsom", "recruitment fees migrant workers"]
+framework: rules
 ---
 
 2019 முதல் 2022 வரை, அமெரிக்க சுங்க மற்றும் எல்லைப் பாதுகாப்பு நிறுவனம் (US Customs and Border Protection, CBP) எட்டு மலேசிய கையுறை மற்றும் பாமாயில் உற்பத்தியாளர்களிடமிருந்து இறக்குமதிகளைத் தடுத்தது. அந்த உத்தரவுகளை நீக்குவதற்காக, நிறுவனங்கள் தடுத்து வைக்கப்பட்ட ஊதியங்களில் USD85 மில்லியனுக்கும் அதிகமாகத் திருப்பிச் செலுத்தின. மலேசியாவில் கட்டாய உழைப்பு இணக்கத்தின் வணிக யதார்த்தம் இதுதான்; இது ஒரு மனிதவள (HR) கேள்வியாக இருப்பதற்கு முன், முதலில் ஒரு வர்த்தகக் கேள்வி என்பதற்கான காரணமும் இதுவே.

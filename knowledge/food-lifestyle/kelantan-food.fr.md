@@ -91,6 +91,7 @@ verificationNeeded:
   - "Le folklore selon lequel le nasi tumpang aurait été créé comme repas transportable pour paysans, pêcheurs et voyageurs, et son âge supposé — Wikipédia le présente comme un folklore ; à confirmer auprès d'une source patrimoniale du Kelantan."
   - "Si le solok lada est farci de poisson ou de noix de coco jeune râpée — les sources de référence (y compris Wikipédia elle-même) ne sont pas cohérentes ; à confirmer auprès d'une recette locale ou d'une source culinaire."
   - "La durée exacte de fermentation du budu (les sources de référence citent environ 140 à 200 jours, un chiffre signalé comme nécessitant une citation) et le détail selon lequel le Pasar Besar Siti Khadijah de Kota Bharu est tenu en grande partie par des commerçantes — à confirmer respectivement auprès d'une source de science alimentaire et d'une source de marché/patrimoine."
+framework: history-culture
 ---
 
 Franchissez la rivière Kelantan (Sungai Kelantan) pour entrer dans Kota Bharu et la

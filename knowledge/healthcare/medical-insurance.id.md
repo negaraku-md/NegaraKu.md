@@ -73,6 +73,7 @@ faq:
     a: 'Tanggungan Rawat Inap dan Bedah Kelompok (Group Hospitalisation and Surgical, GHS) terikat pada pekerjaan. Jika Anda mengundurkan diri, di-PHK, atau pensiun, polis itu berhenti pada hari pekerjaan berakhir — tidak ada kelanjutan pribadi secara otomatis. Sebaliknya, kartu medis pribadi yang berdiri sendiri bersifat portabel: kartu itu tetap menjadi milik Anda terlepas dari siapa pemberi kerjanya selama premi dibayar dan polis diperpanjang, itulah sebabnya banyak orang menganggapnya sebagai cadangan.'
   - q: Apakah polis medis 'tanpa co-payment' otomatis lebih baik daripada yang dengan co-payment?
     a: Belum tentu — artikel ini mencantumkannya sebagai kesalahan umum. Rencana tanpa co-payment memiliki premi yang lebih tinggi untuk batas manfaat yang sama. Di bawah co-payment, Anda setuju sejak awal untuk menanggung bagian tertentu dari setiap tagihan rumah sakit yang memenuhi syarat sebagai imbalan premi yang lebih rendah. Apakah pertukaran itu sepadan tergantung pada seberapa besar tagihan yang bisa Anda tanggung sendiri; periksa lembar pengungkapan produk (product disclosure sheet) untuk persentasenya, batas atas apa pun, dan perawatan yang dikecualikan.
+framework: explainer
 ---
 
 Dua orang pekerja masuk ke rumah sakit swasta yang sama dengan lengan patah yang sama. Seorang menyerahkan kartu dan keluar tanpa membayar sesen pun saat pemulangan. Seorang lagi membayar sebagian dari tagihan itu sendiri, karena polis yang dibelinya enam bulan lalu lebih murah justru karena alasan itu.

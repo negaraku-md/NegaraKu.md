@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "equity-crowdfunding-p2p-malaysia" }
 related: ["kl20-startup-ecosystem", "securities-commission-malaysia"]
 keywords: ["venture capital malaysia", "private equity malaysia", "VCC VCMC malaysia", "SC registration venture capital", "raise funding startup malaysia", "MAVCAP", "Penjana Kapital", "VC tax incentive malaysia"]
+framework: explainer
 ---
 
 Kebanyakan perusahaan Malaysia berkembang atas laba ditahan, overdraf bank, atau pinjaman UKM. Sekelompok kecil tetapi penting berkembang atas ekuitas orang lain sebagai gantinya — sebuah dana yang membeli sepotong bisnis, mendorongnya untuk berkembang, dan menjual potongan itu bertahun-tahun kemudian dengan lipat ganda. Itulah yang dilakukan oleh modal ventura dan ekuitas swasta, dan Malaysia mengatur, membiayai, serta mengenai pajak aktivitas itu dengan cara yang mengejutkan orang yang menganggap ia berfungsi seperti di Amerika Serikat.

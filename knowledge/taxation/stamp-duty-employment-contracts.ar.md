@@ -88,6 +88,7 @@ relations:
   - { rel: "affects", to: "employment-act-1955" }
 related: ["stamp-duty-rates", "stamp-duty-self-assessment", "employment-act-1955"]
 keywords: ["رسم دمغة عقد عمل ماليزيا", "stamp duty employment contract Malaysia", "kontrak penggajian duti setem", "رسم دمغة RM10 خطاب عرض", "STAMPS employment contract", "البند 4 الجدول الأول item 4"]
+framework: rules
 ---
 
 في يونيو 2025، أخبرت LHDN أصحاب العمل بشيء لم يكن معظمهم قد فكّر فيه قطّ: كل عقد

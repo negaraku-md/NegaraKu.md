@@ -105,6 +105,7 @@ keywords:
   - "Forest City SFZ tax"
   - "Pulau 1 Forest City"
   - "zon kewangan khas Forest City"
+framework: explainer
 ---
 
 ஜொகூர் கடற்கரையின் ஒரே பகுதியில் இரண்டு திட்டங்கள் அமைந்துள்ளன, மேலும் அவை பற்றி எழுதப்படும்

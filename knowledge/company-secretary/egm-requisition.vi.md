@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "remove-a-director" }
 related: ["remove-a-director", "agm-requirements", "resolution-notice-periods", "written-resolutions"]
 keywords: ["EGM requisition Malaysia", "section 311 Companies Act 2016", "shareholders call meeting", "10 per cent requisition", "minority shareholder meeting"]
+framework: how-to
 ---
 
 Mọi công ty thư ký của Malaysia đều viết về các cuộc họp từ phía hội đồng, vì hội đồng là khách hàng.

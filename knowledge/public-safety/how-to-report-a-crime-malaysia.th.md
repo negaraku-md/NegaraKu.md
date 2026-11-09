@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "data-breach-notification-malaysia" }
 related: ["online-safety-act-malaysia", "debt-recovery-malaysia", "data-breach-notification-malaysia"]
 keywords: ["laporan polis", "cara buat laporan polis", "e-reporting PDRM", "997 NSRC", "999 kecemasan", "Seksyen 107 Kanun Tatacara Jenayah"]
+framework: how-to
 ---
 
 รถของคุณถูกงัด กระเป๋าสตางค์ถูกชิงทรัพย์ หรือเงินถูกโอนออกจากบัญชีโดยไม่ได้รับอนุญาต — ในทั้งสามสถานการณ์นี้ เอกสารแรกที่ทุกฝ่ายในลำดับถัดไปจะขอ ไม่ว่าจะเป็นบริษัทประกัน ธนาคาร หรือศาล คือหมายเลขคำร้องต่อตำรวจของคุณ การรู้วิธีขอรับอย่างถูกต้อง และในลำดับที่ถูกต้อง จะช่วยประหยัดเวลาหลายชั่วโมงและบางครั้งช่วยรักษาเงินของคุณไว้ได้

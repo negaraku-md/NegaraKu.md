@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malaysia FTA", "CPTPP Malaysia", "RCEP Malaysia", "free trade agreement", "MITI", "tariff elimination", "ASEAN Free Trade Area", "bilateral FTA"]
+framework: explainer
 ---
 
 マレーシアの輸出入の大半は、関税がすでに引き下げ交渉済みの国境を越えて動いている。このネットワークは1990年代初頭以降、一つひとつの協定を積み重ねて構築されてきた——ASEAN自由貿易地域から、現在その中核に位置する二つの超大型協定、RCEPとCPTPPに至るまで。

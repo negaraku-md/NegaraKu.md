@@ -59,6 +59,7 @@ keywords: ["Brunei Sultanate", "Sultan Bolkiah", "Borneo empire", "Sarawak cessi
 social:
   hashtags: ["BruneiSultanate", "BorneoHistory", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded: []
+framework: history-culture
 ---
 
 Hãy đứng trên bến nước ở Bandar Seri Begawan ngày nay và Brunei trông nhỏ bé: một vương quốc Hồi giáo giàu có, giàu dầu mỏ cuộn quanh hai dải mỏng của bờ biển Borneo, đủ gần để lái xe qua trong một buổi chiều. Thật dễ quên rằng đây là mảnh vỡ còn sót lại của một đế quốc — rằng năm thế kỷ trước một Sultan của Brunei có thể đòi cống phẩm từ các hải cảng rải dọc phần lớn các bờ biển phía bắc và phía tây của hòn đảo, và rằng hai trong số các bang Malaysia mà bạn có thể đến từ đây bằng đường bộ, Sarawak và Sabah, từng là của ông để ban tặng. Câu chuyện về cách một vương quốc biển Borneo trỗi dậy, đạt đỉnh cao, rồi trao đi những bờ biển đó từng mảnh một là một trong những sợi chỉ thiết yếu của lịch sử Malaysia — dù bản thân Brunei chưa bao giờ trở thành một phần của Malaysia.

@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["selangor", "penang", "religion-statistics", "article-3-religion"]
 keywords: ["ثايبوسام ماليزيا", "Thaipusam Malaysia", "كهوف باتو", "Batu Caves Thaipusam", "الكافادي", "kavadi", "موكب العربة الفضية", "silver chariot procession", "اللورد موروغان", "Lord Murugan", "272 درجة", "272 steps", "paal kudam", "معبد قمة الشلال بينانغ", "Thaipusam public holiday"]
+framework: history-culture
 ---
 
 قبيل الفجر، يمتلئ تلٌّ من الحجر الجيري على الطرف الشمالي لكوالالمبور بالأصوات — الطبول، والترانيم، ووقع مئات الآلاف من الأقدام الحافية على الحجر. وعند قاعدة درجٍ من 272 درجة يقف تمثال ذهبي أطول من مبنى من أربعة عشر طابقًا. وقد بدأ الصعود، ولن يتوقف معظم اليوم.

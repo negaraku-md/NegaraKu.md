@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "terengganu-turtle-enactment" }
 related: []
 keywords: ["penyu", "penyu belimbing", "Rantau Abang", "taman laut", "Akta Perikanan 1985", "Enakmen Penyu Terengganu", "pemuliharaan marin", "telur penyu", "tortues marines", "tortue luth", "conservation marine", "œufs de tortue"]
+framework: explainer
 ---
 
 À la fin des années 1960, environ 2,000 tortues luth femelles venaient chaque année à terre sur une seule portion de plage de Rantau Abang, Terengganu, laissant près de 10,000 nids d'œufs dans le sable. Aujourd'hui, il n'en reste pas une seule. Cette histoire de déclin est l'un des échecs de conservation de la faune sauvage les plus frappants de la région — et elle a façonné la manière dont la Malaisie protège les tortues marines jusqu'à ce jour.

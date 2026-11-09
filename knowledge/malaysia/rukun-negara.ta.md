@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["federal-constitution", "independence-1957", "formation-of-malaysia-1963", "parliament"]
 keywords: ["Rukun Negara", "lima prinsip Rukun Negara", "ikrar Rukun Negara", "Majlis Perundingan Negara", "MAGERAN", "Pengisytiharan Diraja 1970"]
+framework: history-culture
 ---
 
 மலேசிய தேசிய ஆவணக் காப்பகத்தில் (Arkib Negara Malaysia) உள்ள ருக்குன் நெகாரா குழுவின் கோப்பில் (Fail Jawatankuasa Rukun Negara), 1970 மார்ச் 19 தேதியிட்ட ஒரு கடிதம் உள்ளது. ருக்குன் நெகாரா குழுவின் முதல் கூட்டம் 1970 மார்ச் 31 அன்று காலை 10.00 மணிக்கு, மலேசிய கருவூலத்தின் (Perbendaharaan Malaysia) செயல்பாட்டு அறையில் (Bilik Gerakan) நடைபெறும் என அது அறிவித்தது. விநியோகப் பட்டியலில் பதிமூன்று பெயர்கள்; மேலும் நான்கு பேர் நகல்களைப் பெற்றனர்.

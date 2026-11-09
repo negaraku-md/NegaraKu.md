@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "members-voluntary-winding-up-malaysia" }
 related: []
 keywords: ["statutory declaration malaysia", "akuan berkanun", "commissioner for oaths malaysia", "statutory declarations act 1960", "false statutory declaration penalty", "declaration of solvency section 443"]
+framework: explainer
 ---
 
 Cepat atau lambat seorang pemilik usaha akan diserahkan suatu dokumen dan diberi tahu, "ini perlu menjadi deklarasi statutori." Ia adalah salah satu formalitas hukum yang terdengar lebih berat dari yang sebenarnya — pernyataan tertulis yang Anda sumpah benar di hadapan seorang yang diberi kuasa — tetapi bebannya nyata: tanda tangani satu yang palsu dan Anda telah melakukan kesalahan pidana. Berikut adalah apa itu deklarasi statutori, siapa yang dapat mengambilnya, dan di mana ia muncul dalam kehidupan perusahaan.

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "malaysia-sales-and-service-tax" }
 related: ["sales-and-service-tax"]
 keywords: ["taxe de tourisme", "TTx", "Malaisie", "MyTTx", "RM10 par chambre", "DPSP", "taxe hôtelière", "RMCD"]
+framework: rules
 ---
 
 Enregistrez-vous dans presque n'importe quel hôtel de Kuala Lumpur avec un passeport étranger et une ligne curieuse apparaît sur la note : RM10, forfaitaires, pour chaque nuit passée. C'est la taxe de tourisme de Malaisie (TTx) — un petit prélèvement fixe qui se comporte très différemment des taxes hôtelières fondées sur un pourcentage que les voyageurs rencontrent ailleurs.

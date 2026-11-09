@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "energy-commission-malaysia" }
 related: ["petronas", "tenaga-nasional"]
 keywords: ["NETR", "National Energy Transition Roadmap", "transición energética Malasia", "energía renovable Malasia", "cero neto 2050", "eliminación del carbón Malasia", "hidrógeno verde Malasia", "CCUS Malasia", "fondo semilla NETF", "ENEGEM"]
+framework: explainer
 ---
 
 Durante la mayor parte del siglo pasado, la historia económica de Malasia se movió sobre hidrocarburos: petróleo bajo el lecho marino, gas canalizado hacia las centrales eléctricas y carbón importado para mantener la red funcionando a bajo costo. La Hoja de Ruta Nacional de Transición Energética (NETR) es el plan para reescribir esa historia antes de 2050, y viene con cifras concretas, proyectos con nombre propio y una etiqueta de precio de un billón de ringgit.

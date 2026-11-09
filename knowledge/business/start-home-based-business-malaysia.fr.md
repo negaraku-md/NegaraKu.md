@@ -71,6 +71,7 @@ social:
     - OnlineSeller
     - SSM
     - MicroEntrepreneur
+framework: how-to
 ---
 
 Vous faites cuire des biscuits, revendez des produits de soin ou faites du dropshipping de coques de téléphone depuis votre chambre d'amis, et les ventes sont réelles. Quelque part entre la première commande et la dixième, une question fait surface : tout cela est-il *légal*, ou une entreprise à domicile est-elle le seul type que l'on peut simplement… gérer ? La réponse honnête est qu'une entreprise à domicile reste une entreprise - l'État attend le même enregistrement que d'une boutique, plus une autorisation supplémentaire à laquelle presque personne ne pense : l'aval de votre conseil local pour gérer une entreprise depuis un logement, tout court.

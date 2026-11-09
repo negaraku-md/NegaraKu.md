@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "hs-code-classification-malaysia" }
 related: ["sales-and-service-tax"]
 keywords: ["import licence Malaysia", "export permit Malaysia", "Approved Permit AP", "SIRIM import permit", "MAQIS permit", "customs registration Malaysia", "ePermit", "uCustoms", "MyTRADELINK"]
+framework: rules
 ---
 
 你的货柜停在巴生港（Port Klang），却动弹不得——因为在发票与舱单之间的某个环节，少了一张准证。在马来西亚，没有一张可以裱起来挂在墙上的单一「进出口许可证」。让货物通关的，是一整*套*注册与批准的叠加，每一层由不同机构掌管，且每一层都以你实际所运送的货物为依据。

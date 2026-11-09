@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution", "companies-act-2016", "employment-act-1955"]
 keywords: ["Malaysia court hierarchy", "Sessions Court jurisdiction RM1 million", "Magistrates Court limit RM100,000", "Courts of Judicature Act 1964", "Subordinate Courts Act 1948", "hierarki mahkamah Malaysia"]
+framework: data-reference
 ---
 
 RM1.2 millionの契約違反（breach-of-contract）の請求をセッションズ裁判所に提起しても、

@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
+framework: history-culture
 ---
 
 주석 위에 세워진 도시가 결국 세계에 금속 공예를 선사했습니다. 쿠알라룸푸르가 존재하는 것은 탐광자들이 클랑강(Klang)과 곰박강(Gombak)이 만나는 곳에서 주석 광석을 발견했기 때문입니다. 수십 년 뒤, 바로 그 주석 경제에서 일하러 온 십 대 주석 세공인이 사원 제단을 위한 향로를 두드려 만들기 시작했는데 — 그가 연 작업장은 이제 지구에서 가장 큰 백랍 제작사입니다.

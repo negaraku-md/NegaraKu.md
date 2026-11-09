@@ -68,6 +68,7 @@ social:
     - LHDN
     - YA2025
     - InvestingMalaysia
+framework: rules
 ---
 
 For years the answer to "is my Malaysian dividend taxed?" was a clean no — the single-tier system taxed profits once, at the company, and paid dividends out tax-free. From year of assessment 2025 that is no longer the whole story for large shareholders: an individual whose Malaysian dividends top RM100,000 in a year now pays a 2% tax on the excess.

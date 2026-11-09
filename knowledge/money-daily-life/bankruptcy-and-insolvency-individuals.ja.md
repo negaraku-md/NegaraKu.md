@@ -91,6 +91,7 @@ relations:
   - { rel: "compares-with", to: "akpk-debt-management-programme" }
 related: []
 keywords: ["kebankrapan", "bankrap", "insolvensi", "Akta Insolvensi 1967", "MDI", "Ketua Pengarah Insolvensi", "pelepasan bankrap", "seksyen 33C", "AKPK", "DMP"]
+framework: explainer
 ---
 
 一枚の未清算の請求書が、銀行口座から出国の許可に至るまで、その人のほぼすべての財務事務を変えてしまう裁判所命令として終わることがある。マレーシアでは、その境界線は一つの法律——1967年破産法（Insolvency Act 1967、Act 360）——によって定められている。本記事は、いかなる立場にも与することなく、この手続を記述的に説明する。

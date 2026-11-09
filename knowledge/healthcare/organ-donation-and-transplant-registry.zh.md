@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "how-malaysian-healthcare-works" }
 related: ["how-malaysian-healthcare-works", "government-hospitals"]
 keywords: ["pendermaan organ", "derma organ", "transplan", "NTRC", "ikrar penderma", "fatwa organ", "kematian otak", "MySejahtera"]
+framework: explainer
 ---
 
 每一年，马来西亚都有数以千计的病人在等待一通也许永远不会到来的电话——一通告诉他们，一个能挽救其性命的器官终于有了着落的电话。在那漫长的等候名单背后，隐藏着一个悖论：数十万国民已签署器官捐赠意愿，但真正得以实现的意愿却只占极少数。

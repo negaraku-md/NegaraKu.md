@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["imigresen", "employment-act-1955", "opening-bank-account"]
 keywords: ["hiring a maid in Malaysia", "foreign domestic helper Malaysia", "confinement nanny Malaysia", "confinement centre Malaysia", "pembantu rumah asing", "domestic worker rules Malaysia", "part time maid Malaysia", "postnatal care Malaysia"]
+framework: explainer
 ---
 
 입주 도우미를 고용하는 가정과 출산 후 한 달간 산후조리원을 예약하는 가정은 비슷하게 느껴지는 두 가지 일 — 유료 도움을 집으로 들이는 일 — 을 하고 있지만, 이들은 거의 정반대의 정부 감독 하에 놓여 있습니다. 하나는 소득 기준과 엄격한 가정당 1인 상한이 있는 전국 이민 절차를 거칩니다. 다른 하나는, 이 나라 대부분에서, 미용실과 같은 방식으로 허가됩니다.

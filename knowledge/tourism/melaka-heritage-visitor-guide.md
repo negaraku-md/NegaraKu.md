@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "getting-around-malaysia-public-transport" }
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["Melaka heritage", "Melaka UNESCO World Heritage", "Jonker Street", "Baba Nyonya Peranakan Melaka", "A Famosa Porta de Santiago", "Stadthuys Dutch Square", "St Paul's Hill Melaka", "Melaka travel guide"]
+framework: explainer
 ---
 
 Stand in Dutch Square at dusk and you can read five centuries in a single glance: a salmon-red Dutch town hall on one side, the ruins of a Portuguese-era church on the hill above, a stone gate that once anchored a fortress the British tried to demolish, and — a two-minute walk away — a lane of Chinese-Malay townhouses now lit up for a Friday-night bazaar. Melaka does not spread its history across a large city. It stacks it into roughly one square mile you can walk in an afternoon. Here is how to read it, and how to plan a visit around it.

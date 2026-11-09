@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: []
 keywords: ["Laut China Selatan", "Batu Puteh", "Pedra Branca", "Sabah", "UNCLOS", "kedaulatan", "pertikaian maritim", "Spratly"]
+framework: explainer
 ---
 
 Peta Malaysia yang tergantung di dinding sekolah tampak tenang dan pasti — tetapi di perbatasan lautnya, garis-garis itu masih dibahas di meja perundingan dan di mahkamah internasional. Malaysia memiliki tiga persoalan wilayah dan maritim yang belum sepenuhnya selesai, dan masing-masing ditangani dengan cara yang berbeda: satu di pengadilan, satu di komisi PBB, dan satu yang sengaja dibiarkan terpendam.

@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["malaysian-education-system", "enrolling-in-a-government-school", "private-and-chinese-independent-schools"]
 keywords: ["sekolah kebangsaan", "SJKC", "SJKT", "sekolah jenis kebangsaan", "bahasa pengantar", "KPM", "KSSR", "sekolah rendah Malaysia"]
+framework: explainer
 ---
 
 ทุกปี เมื่อช่วงลงทะเบียนเปิด ผู้ปกครองทั่วมาเลเซียเปิดพอร์ทัล idMe ของกระทรวงศึกษาธิการมาเลเซีย (KPM) เพื่อลงทะเบียนบุตรเข้าชั้นปีที่ 1 หนึ่งในทางเลือกแรกที่ต้องตัดสินใจคือ: SK, SJKC หรือ SJKT?

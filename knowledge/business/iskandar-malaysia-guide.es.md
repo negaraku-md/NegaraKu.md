@@ -121,6 +121,7 @@ keywords:
   - "incentivos de Medini expirados"
   - "Iskandar frente a JS-SEZ"
   - "Iskandar Malaysia incentives"
+framework: explainer
 ---
 
 Casi todo relato de la historia de incentivos de Johor dice lo mismo: la JS-SEZ sustituyó al

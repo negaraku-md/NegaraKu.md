@@ -68,6 +68,7 @@ verificationNeeded:
   - "Konfirmasikan tanggal-tanggal pasti (masa jabatan perdana menteri, kelahiran, kematian) terhadap Perdana Leadership Foundation dan PMO."
   - "Tanggal dan tempat kematian berbeda di berbagai sumber: Perdana Leadership Foundation dan infobox Wikipedia memberikan 29 Mei 1990 (San Francisco Bay Area, California), sementara Encyclopædia Britannica mencatat 28 Mei 1990 di Daly City, California, dan isi artikel Wikipedia mengutip Seton Medical Center, San Mateo County — selaraskan sebelum publikasi."
   - "Mengenai pemilihan wakil: Mahathir Mohamad diangkat sebagai Wakil Perdana Menteri pada 1976, tetapi beberapa catatan (mis. Wikipedia) melaporkan Ghazali Shafie adalah calon yang secara pribadi lebih disukai Hussein Onn — verifikasi bagaimana pengangkatan itu digambarkan."
+framework: profile
 ---
 
 Sedikit pemimpin Malaysia yang memikul warisan seberat Hussein Onn. Ia adalah

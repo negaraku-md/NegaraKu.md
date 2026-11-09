@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "northeast-monsoon" }
 related: []
 keywords: ["Perhentian", "Redang", "Tioman", "Kapas", "marine park", "conservation fee", "northeast monsoon", "Malaysia islands", "snorkelling", "diving"]
+framework: explainer
 ---
 
 Tiba di sebuah resor pantai Redang pada bulan Desember dan besar kemungkinan Anda akan mendapati perahu sudah tidak ada, jeti sunyi dan toko selam tertutup. Pulau-pulau pantai timur beroperasi menurut kalender yang ditulis oleh laut, bukan oleh brosur wisata — dan menurut satu set aturan taman laut yang baru diketahui sebagian besar pengunjung pertama kali di loket tiket.

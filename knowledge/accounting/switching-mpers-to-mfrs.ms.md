@@ -82,6 +82,7 @@ relations:
   - { rel: "affects", to: "mpers-2025-revision" }
 related: ["mfrs-vs-mpers"]
 keywords: ["tukar MPERS ke MFRS", "pemakaian kali pertama MFRS 1 Malaysia", "takrifan entiti persendirian MASB", "tukar rangka kerja perakaunan Malaysia", "kembali kepada MPERS"]
+framework: explainer
 ---
 
 Setiap blog firma Malaysia menerangkan *perbezaan* antara MPERS dan MFRS. Hampir

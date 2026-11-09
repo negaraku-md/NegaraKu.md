@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "dta-network" }
 related: ["company-tax-residence", "dta-network", "withholding-tax-rates"]
 keywords: ["certificado de residencia Malasia", "e-Residence LHDN", "sijil taraf mastautin", "COR Malasia impuesto", "Form STM1"]
+framework: how-to
 ---
 
 El certificado no es prueba de que usted sea malasio. Es prueba de que un socio de

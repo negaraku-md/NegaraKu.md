@@ -120,6 +120,7 @@ keywords:
   - "Medini incentives expired"
   - "Iskandar vs JS-SEZ"
   - "Wilayah Pembangunan Iskandar"
+framework: explainer
 ---
 
 ジョホールの奨励措置の歴史についてのほぼすべての説明は、同じことを述べている。すなわち、

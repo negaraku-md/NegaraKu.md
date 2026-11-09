@@ -95,6 +95,7 @@ verificationNeeded:
   - "masak lemak cili api 究竟是否含有相当分量的椰浆，还是说「cili api」仅仅意指极辣——来源一致认为椰浆（lemak）是核心，但确切的平衡，以及是否会爆炒（tumis）香料酱，因家庭与厨师而异；请对照 Negeri Sembilan 的烹饪来源核实。"
   - "Negeri Sembilan 的 rendang 与更广义的马来西亚／Minangkabau rendang 有何不同（有来源称它更倚重姜、南姜、香茅与椰浆，而非厚重的干香料配方）——请对照当地或学术性的烹饪来源核实。"
   - "daging salai 具体归属于 Pedas 与 Rembau 等特定城镇的确切地域归属，以及烟熏传统上是否使用某种特定木材——请对照当地来源核实。"
+framework: explainer
 ---
 
 在 Seremban 或 Rembau 点菜，总有一种颜色一再回到餐桌上：一锅发亮、近乎荧光

@@ -101,6 +101,7 @@ verificationNeeded:
   - "La proposition de 2025 rapportée visant à demander la reconnaissance de l'UNESCO pour la tradition de l'open house de Malaisie — à confirmer quant à l'état actuel et au fait qu'une candidature ait ou non été déposée."
   - "Les informations selon lesquelles, par mesure d'économie, les ministères, agences et entreprises liées au gouvernement fédéral n'organiseraient pas d'open houses officielles de Hari Raya en 2026 — cela provient d'un seul média ; à recouper avec une déclaration officielle du gouvernement avant de s'y fier."
   - "Les dates exactes des jours fériés du Kaamatan (généralement les 30-31 mai au Sabah) et du Gawai Dayak (généralement les 1er-2 juin au Sarawak), ainsi que l'attribution de plats précis parmi les nombreux sous-groupes Dayak et Kadazan-Dusun ; à confirmer auprès de sources des États ou d'organismes culturels du Sabah/Sarawak."
+framework: history-culture
 ---
 
 Dans bien des pays, une fête appartient à ceux qui la célèbrent. En Malaisie, elle tend à

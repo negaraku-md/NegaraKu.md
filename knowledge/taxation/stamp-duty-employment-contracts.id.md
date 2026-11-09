@@ -88,6 +88,7 @@ relations:
   - { rel: "affects", to: "employment-act-1955" }
 related: ["stamp-duty-rates", "stamp-duty-self-assessment", "employment-act-1955"]
 keywords: ["duti setem kontrak penggajian Malaysia", "kontrak penggajian duti setem", "duti setem RM10 surat tawaran", "STAMPS kontrak penggajian", "item 4 Jadual Pertama"]
+framework: rules
 ---
 
 Pada Juni 2025, LHDN memberi tahu pemberi kerja sesuatu yang jarang dipikirkan

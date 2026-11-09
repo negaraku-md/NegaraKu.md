@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "peka-b40" }
 related: ["dental-care"]
 keywords: ["Klinik Kesihatan Malaysia", "klinik kerajaan Malaysia", "MySejahtera temujanji klinik", "PeKa B40", "penjagaan kesihatan primer Malaysia", "KKM klinik kesihatan", "klinik komuniti vs klinik kesihatan", "cara daftar klinik kesihatan"]
+framework: explainer
 ---
 
 Demam tak reda, anak perlu suntikan imunisasi, atau tekanan darah perlu dipantau

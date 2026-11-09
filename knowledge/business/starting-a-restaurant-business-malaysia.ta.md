@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "sst-explained" }
 related: ["fnb-licence-malaysia"]
 keywords: ["start a restaurant malaysia", "how to open a restaurant malaysia", "F&B licence malaysia", "restaurant licence DBKL", "food handler certificate malaysia", "restaurant service tax malaysia", "open a cafe malaysia"]
+framework: how-to
 ---
 
 உணவகம் திறப்பது மலேசியாவில் தொழிலில் நுழைவதற்கான மிகவும் பிரபலமான வழிகளில் ஒன்று — மேலும் மிக அதிக உரிமங்கள் தேவைப்படுவனவற்றுள் ஒன்று. உள்ளூர் ஆட்சி மன்றம், சுகாதார அமைச்சு, வரி அலுவலகம் மற்றும் தொழிலாளர் அதிகாரிகள் ஆகியோருக்கு இடையே, ஒரு உணவுத் தொழில் வேறு எந்தச் சிறு நிறுவனத்தையும் விட அதிகமான ஒழுங்குமுறையாளர்களைத் தொடுகிறது. நல்ல செய்தி என்னவென்றால், அந்த வரிசைமுறை நன்கு பரிச்சயமானது; சரியான வரிசையில் செய்தால் அது கையாளக்கூடியதே.

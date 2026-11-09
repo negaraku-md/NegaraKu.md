@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["majlis-raja-raja", "yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["negeri beraja Malaysia", "sembilan Raja Melayu", "Sultan Raja Yang di-Pertuan Besar", "Majlis Raja-Raja", "Ketua agama Islam negeri", "Undang Yang Empat Negeri Sembilan"]
+framework: explainer
 ---
 
 말레이시아에는 열세 개의 주가 있지만, 그 가운데 통치 군주를 두고 있는 곳은 아홉 개뿐입니다. 나머지 네 개 주 — 말라카(Melaka), 페낭(Pulau Pinang), 사바(Sabah), 사라왁(Sarawak) — 는 군주가 아니라 임명된 양 디페르투아 느그리(Yang di-Pertua Negeri, 주지사)가 이끕니다.

@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution", "companies-act-2016", "employment-act-1955"]
 keywords: ["Malaysia court hierarchy", "Sessions Court jurisdiction RM1 million", "Magistrates Court limit RM100,000", "Courts of Judicature Act 1964", "Subordinate Courts Act 1948", "hierarki mahkamah Malaysia"]
+framework: data-reference
 ---
 
 RM1.2 மில்லியன் ஒப்பந்த மீறல் கோரிக்கையை அமர்வு நீதிமன்றத்தில் தாக்கல் செய்யுங்கள்,

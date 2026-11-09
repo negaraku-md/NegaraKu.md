@@ -107,6 +107,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.259"
     consequence: "Fine up to RM50,000, plus RM1,000 a day for a continuing offence"
+framework: explainer
 ---
 
 Every audit firm in Malaysia publishes a page about why you need an audit. Almost

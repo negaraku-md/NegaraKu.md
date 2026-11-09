@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "industrial-relations-act-malaysia" }
 related: []
 keywords: ["النقابات العمالية في ماليزيا", "نقابة عمالية", "قانون النقابات العمالية 1959", "القانون رقم 262", "JHEKS", "e-TUIS", "تعديل 2024", "المفاوضة الجماعية", "المدير العام للنقابات العمالية", "kesatuan sekerja", "trade union", "Akta 262"]
+framework: explainer
 ---
 
 لعقودٍ، لم يكن بوسع عامل مصنع في ماليزيا سوى الانضمام إلى النقابة «الصحيحة» الوحيدة

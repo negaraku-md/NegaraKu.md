@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["new-economic-policy", "13-may-1969", "independence-1957", "formation-of-malaysia-1963", "federal-constitution"]
 keywords: ["1998 Malaysia", "Asian Financial Crisis Malaysia", "capital controls", "ringgit peg RM3.80", "selective exchange controls", "Reformasi", "Anwar Ibrahim 1998", "National Economic Recovery Plan", "Danaharta", "Danamodal", "managed float 2005"]
+framework: history-culture
 ---
 
 Chỉ trong một tuần của tháng 9 năm 1998, Malaysia làm hai việc mà mỗi việc sẽ còn được tranh luận trong nhiều năm. Nó đóng cửa thị trường ở nước ngoài đối với chính đồng tiền của mình và cố định đồng ringgit vào đồng đô la Mỹ — một sự đoạn tuyệt với chính thống mà Quỹ Tiền tệ Quốc tế đang thúc giục khu vực. Và nó cách chức người vừa là Phó Thủ tướng vừa là Bộ trưởng Tài chính, châm ngòi cho một phong trào biểu tình mang tên Reformasi.

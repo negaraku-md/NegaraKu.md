@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["federal-budget", "gdp-overview", "sovereign-credit-rating-malaysia", "subsidy-rationalisation-padu"]
 keywords: ["hutang persekutuan", "Akta 850", "Akta Tanggungjawab Fiskal", "hutang berkanun", "60% KDNK", "defisit fiskal", "MGS", "JRFL"]
+framework: explainer
 ---
 
 Utang Pemerintah Federal Malaysia menembus RM1.3 triliun pada 2025 — namun angka "64.7% KDNK" yang sering dikutip dan "batas 60%" yang sering disebut sebenarnya mengukur dua hal yang berbeda. Memahami perbedaan ini adalah kunci untuk membaca kesehatan fiskal negara dengan tepat.

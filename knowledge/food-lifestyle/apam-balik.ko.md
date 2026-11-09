@@ -88,6 +88,7 @@ verificationNeeded:
   - "아팜 발릭과 인도네시아의 martabak manis / terang bulan 사이의 정확한 관계(엄밀히 같은 음식인지, 아니면 별개의 지역적 발전인지) — 신뢰할 수 있는 요리 자료로 확인할 것."
   - "지역 명칭(ban jian kueh, min chiang kueh, hok lo pan, kuih haji, apom balek 등)의 전파와 특정 공동체 및 방언으로의 정확한 대응 — 언어학적 또는 문화유산 자료로 확인할 것. 음식 매체에서의 명칭 귀속은 일관되지 않다."
   - "얇고 바삭한 버전이 보편적으로 ban jian kueh / min chiang kueh와 동일한 품목인지, 아니면 관련되지만 별개의 간식인지 — 자료들은 겹치지만 일관되지 않다. 현지 문화유산 자료로 확인할 것."
+framework: explainer
 ---
 
 해 질 무렵 말레이시아의 거의 어느 [야시장](/ko/food-lifestyle/pasar-malam-and-street-food)을

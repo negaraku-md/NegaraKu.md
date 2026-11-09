@@ -112,6 +112,7 @@ relations:
   - { rel: "related-to", to: "income-tax-act-1967" }
 related: ["income-tax-act-1967", "companies-act-2016"]
 keywords: ["SST", "sales tax", "service tax", "RMCD", "MySST", "SST registration", "Sales Tax Act 2018", "Service Tax Act 2018", "SST rates", "SST threshold"]
+framework: rules
 ---
 
 If you have ever wondered why your restaurant bill carries a line for "SST" but your grocery receipt usually does not, you have run into the two very different halves of the same tax. Malaysia does not run a single broad-based consumption tax like GST or VAT. Instead it runs two narrower taxes — a Sales Tax on goods and a Service Tax on services — bundled together under the label **SST** and administered by the Royal Malaysian Customs Department (RMCD).

@@ -86,6 +86,7 @@ verificationNeeded:
   - "L'histoire d'origine et la composition du feng/fongh (curry d'abats, héritage maritime portugais et des bas morceaux, association à Noël) — des cuisiniers réputés rappellent que l'histoire est floue et que les versions diffèrent ; à confirmer auprès d'une source culinaire ou patrimoniale Kristang."
   - "L'étymologie et la classification du gâteau sugee (un gâteau de fête à la semoule et au beurre ; le nom est communément rattaché au mot sud-asiatique pour la semoule et la recette comparée au gâteau Madeira britannique) — à confirmer auprès d'une source d'histoire culinaire."
   - "L'année de fondation du Portuguese Settlement (communément donnée comme 1933) et l'affirmation selon laquelle plusieurs plats familiaux comme le pang susi et les plats d'abats se raréfient — à confirmer auprès d'une source primaire ou patrimoniale."
+framework: history-culture
 ---
 
 Commandez un curry dans une cuisine malaise de Melaka et vous goûtez la noix de coco

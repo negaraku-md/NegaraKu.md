@@ -129,6 +129,7 @@ relations:
   - { rel: "compares-with", to: "malaysia-singapore-relations" }
 related: ["malaysia-singapore-relations"]
 keywords: ["hubungan Malaysia Indonesia", "serumpun", "pekerja migran Indonesia", "One Channel System", "Pulau Sebatik", "Ambalat", "Sipadan Ligitan", "sempadan Malaysia Indonesia", "Perundingan Tahunan"]
+framework: explainer
 ---
 
 These two countries share the same language, religion, and origins — yet they also share the longest land border on Borneo, oil deposits beneath the Sulawesi Sea, and millions of workers crossing over in search of a living. The Malaysia–Indonesia relationship is not merely an ordinary diplomatic tie; it is a complicated family relationship, where the very closeness itself is at once a source of cooperation and a source of tension.

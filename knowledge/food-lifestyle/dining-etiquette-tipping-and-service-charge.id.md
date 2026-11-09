@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "sales-and-service-tax-sst-explained" }
 related: []
 keywords: ["tipping malaysia", "service charge malaysia", "service tax restaurant", "dining etiquette malaysia", "SST food and beverage"]
+framework: explainer
 ---
 
 Anda baru selesai menikmati hidangan yang enak di Kuala Lumpur, tagihan tiba di meja, dan dua baris asing terletak di bawah total Anda. Tidak, Anda tidak memesan apa pun tambahan — dan tidak, Anda tidak perlu menambahkan tip di atasnya. Inilah cara sebenarnya makan di luar berfungsi di Malaysia.

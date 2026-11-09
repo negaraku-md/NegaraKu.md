@@ -115,6 +115,7 @@ keywords:
   - "Sarawak Land Code Cap 81"
   - "Samalaju Industrial Park"
   - "perniagaan di Sarawak"
+framework: explainer
 ---
 
 एक ऐसे अंक से शुरू करें जो आपको बताता है कि यह किस तरह की जगह है। सारावाक **अध्याय-क्रमांकन की दो समानांतर श्रृंखलाएँ** चलाता है, और दोनों सक्रिय हैं। 1958 संस्करण का Cap. 64 व्यवसाय-नाम अध्यादेश (Business Names Ordinance) है। वर्तमान श्रृंखला का Cap. 64 है **Regional Corridors Development Authorities Ordinance 2006** — SCORE के पीछे का क़ानून।

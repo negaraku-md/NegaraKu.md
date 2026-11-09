@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "online-business-licence-malaysia" }
 related: ["online-safety-act-malaysia", "online-business-licence-malaysia"]
 keywords: ["ترخيص وسائل التواصل الاجتماعي ماليزيا", "social media licence Malaysia", "ترخيص الفئة ASP من MCMC", "ASP class licence MCMC", "ترخيص ثمانية ملايين مستخدم", "8 million users Malaysia licence", "هل أحتاج ترخيص وسائل تواصل اجتماعي ماليزيا"]
+framework: explainer
 ---
 
 كل بضعة أشهر يُقال لبائع ماليزي إنه بحاجة إلى ترخيص وسائل تواصل اجتماعي. وهو ليس بحاجة

@@ -113,6 +113,7 @@ relations:
   - { rel: "governs", to: "employment" }
 related: ["labour-law-map-malaysia", "new-hire-statutory-checklist", "employee-vs-contractor-malaysia"]
 keywords: ["OSHA 1994 ماليزيا", "منسق OSH ماليزيا", "واجبات صاحب العمل قانون السلامة والصحة المهنية", "لجنة السلامة والصحة 40 موظفًا", "تعديل OSHA 2022", "osha 1994 malaysia", "osh coordinator malaysia", "osha amendment 2022"]
+framework: rules
 ---
 
 اسأل أي منشأة صغيرة ومتوسطة ماليزية عما إذا كان OSHA ينطبق عليها، والإجابة عادةً لا — فذلك

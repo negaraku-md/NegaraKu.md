@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "cbcr-and-master-file" }
 related: ["corporate-tax-rates"]
 keywords: ["global minimum tax Malaysia", "domestic top-up tax", "multinational top-up tax", "Pillar Two Malaysia", "QDMTT Malaysia", "GloBE Malaysia", "cukai minimum global"]
+framework: rules
 ---
 
 关于支柱二写下的东西，几乎全是写给最终母公司看的。如果你为一家外国集团旗下的

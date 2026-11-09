@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "dual-citizenship-malaysia" }
 related: []
 keywords: ["melepaskan kewarganegaraan", "dwikewarganegaraan Malaysia", "Perkara 23", "Perkara 24", "Perlembagaan Persekutuan", "Borang K", "pelucutan kewarganegaraan", "JPN"]
+framework: explainer
 ---
 
 一名宣誓成为他国公民的马来西亚人，往往在发现自己的蓝色护照与MyKad不再有效时感到震惊——这并非源于某项隐蔽的行政行为，而是因为《联邦宪法》本身即视双重国籍为不予承认之事。此事聚焦于两项密切相关的条文：第23条（自愿放弃）与第24条（因取得外国公民身份而被剥夺）。

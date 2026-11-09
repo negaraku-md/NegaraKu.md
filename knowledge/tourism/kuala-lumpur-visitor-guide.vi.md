@@ -97,6 +97,7 @@ relations:
   - { rel: "located-in", to: "malaysia" }
 related: []
 keywords: ["kuala lumpur", "petronas twin towers", "kl tower", "batu caves", "bukit bintang", "chinatown kuala lumpur", "klia ekspres", "kuala lumpur transport", "malaysia digital arrival card", "kl travel guide"]
+framework: profile
 ---
 
 Hạ cánh tại Sân bay Quốc tế Kuala Lumpur lúc bình minh và, trong vòng một giờ, bạn có thể đang đứng bên dưới hai tòa tháp bạc từng thống trị đường chân trời của thế giới — không xe thuê, không lập kế hoạch phức tạp, chỉ một chuyến tàu và một thẻ quẹt-vào. Sự dễ dàng đó là toàn bộ mấu chốt của KL: nó là cửa trước của Malaysia, một thủ đô nhỏ gọn và rẻ nơi các điểm tham quan tiêu đề nằm cách nhau một chuyến đường sắt ngắn, và là nơi gần như mọi hành trình đi tiếp trong nước bắt đầu.

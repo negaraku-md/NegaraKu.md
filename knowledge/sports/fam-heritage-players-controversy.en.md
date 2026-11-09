@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "fifa-eligibility-rules" }
 related: []
 keywords: ["naturalisasi", "pemain warisan", "FAM", "FIFA", "CAS", "Harimau Malaya", "dokumen palsu", "Artikel 22", "Piala Asia 2027"]
+framework: explainer
 ---
 
 Seven foreign-born players pulled on the Harimau Malaya jersey in June 2025. Less than a year later, the world's highest sports arbitration body confirmed that the documents making them eligible to play for Malaysia had been forged. The case set off a series of FIFA disciplinary proceedings, an appeal to the Court of Arbitration for Sport (CAS), and a police report in Malaysia.

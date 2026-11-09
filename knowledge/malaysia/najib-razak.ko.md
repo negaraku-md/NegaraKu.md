@@ -70,6 +70,7 @@ sources:
 
 related: ["1mdb-scandal", "prime-ministers-of-malaysia", "2018-change-of-government", "mahathir-mohamad", "anwar-ibrahim"]
 keywords: ["Najib Razak", "Mohd Najib Abdul Razak", "sixth prime minister Malaysia", "1MDB", "SRC International"]
+framework: profile
 ---
 
 > **초안 — 민감.** 이 글은 중립적이며 작성 중인 요약으로, 발행을 위한 검토를 거치지 않았습니다. 이 글은 작성 시점에 항소 중이던 법적 절차를 언급하고 3R+1 주제를 다루며 공개되지 않았습니다.

@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "non-compete-clause-malaysia" }
 related: ["employment-act-coverage", "termination-of-employment-malaysia", "stamp-duty-employment-contracts"]
 keywords: ["عقد العمل ماليزيا", "عقد الخدمة ماليزيا", "المادة 10 قانون العمل", "بند مدة الإشعار ماليزيا", "بند غير قابل للإنفاذ عقد العمل", "employment contract malaysia", "contract of service malaysia"]
+framework: rules
 ---
 
 العقد ليس هو القانون. فهو وثيقةٌ تعمل داخل القانون، والمادة 7 من قانون العمل لسنة 1955

@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "terengganu-turtle-enactment" }
 related: []
 keywords: ["penyu", "penyu belimbing", "Rantau Abang", "taman laut", "Akta Perikanan 1985", "Enakmen Penyu Terengganu", "pemuliharaan marin", "telur penyu"]
+framework: explainer
 ---
 
 1960-களின் பிற்பகுதியில், ஒவ்வொரு ஆண்டும் சுமார் 2,000 பெண் தோல்முதுகு ஆமைகள் Terengganu-வின் Rantau Abang-இல் ஒரே கடற்கரைப் பகுதிக்கு கரையேறி, மணலில் ஏறத்தாழ 10,000 முட்டைக் கூடுகளை விட்டுச் சென்றன. இன்று, ஒன்று கூட இல்லை. அந்த வீழ்ச்சியின் கதை இப்பகுதியின் மிகவும் வெளிப்படையான வனவிலங்கு பாதுகாப்புத் தோல்விகளில் ஒன்று — மேலும் அது இன்றுவரை மலேசியா கடல் ஆமைகளை எப்படிப் பாதுகாக்கிறது என்பதை வடிவமைத்துள்ளது.

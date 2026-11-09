@@ -89,6 +89,7 @@ verificationNeeded:
   - "Apakah Ampang yang memberi nama gaya ini terletak di dalam Kuala Lumpur atau di Selangor——sumber menggambarkannya baik sebagai distrik KL maupun sebagai kota di Lembah Klang tepat di luar KL, dan kawasan Ampang yang padat sebenarnya melintasi batas; pastikan atribusi administratifnya."
   - "Asal-usul gaya Ampang dan kedai mana yang mempopulerkannya——beberapa catatan mengkredit sebuah kedai tahun 1960-an bernama Chew Kuan, sementara yang lain menganggap atribusi Foong Foong sebagai legenda urban; pastikan dengan sumber sejarah primer atau lokal."
   - "Legenda asal-usul yang lebih luas——migran Hakka mengganti pangsit tepung gandum dengan tahu isi, dan kisah restoran 'pembeli yang ragu-ragu' yang menyaingi——keduanya beredar dan tidak terdokumentasi dengan kuat; pastikan dengan sumber sejarah kuliner."
+framework: history-culture
 ---
 
 Melangkah ke sebuah kedai yong tau foo, yang diserahkan kepada Anda bukanlah menu melainkan sebuah nampan. Kubus tahu,

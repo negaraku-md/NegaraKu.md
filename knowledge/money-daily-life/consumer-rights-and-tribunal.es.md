@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["consumer-protection-act", "duitnow-qr-payments", "opening-bank-account"]
 keywords: ["derechos del consumidor Malasia", "consumer rights Malaysia", "Tribunal de Reclamaciones de Consumo", "Tribunal for Consumer Claims", "TTPM", "queja KPDN", "KPDN complaint", "reembolso Malasia", "consumer protection act 1999", "cómo reclamar RM50000", "ttpm.kpdn.gov.my"]
+framework: how-to
 ---
 
 Un teléfono muere en la segunda semana. Un contratista se embolsa el anticipo y

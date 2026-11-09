@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "kaamatan" }
 related: ["languages-spoken", "sabah", "sarawak", "gawai-dayak", "kaamatan", "orang-asli"]
 keywords: ["indigenous languages Sabah Sarawak", "Borneo languages", "Kadazandusun language", "Dusunic", "Murutic", "Paitanic", "Iban language", "Bidayuh", "Melanau", "Orang Ulu", "Austronesian", "North Bornean languages", "Sama-Bajau"]
+framework: explainer
 ---
 
 飞越婆罗洲内陆，你在一小时内所跨越的语言，比大多数国家全境的语言总数还要多。沙巴高地的一条河谷、砂拉越上巴南河（Baram）畔的一座长屋、沿海的一个渔村——每一处都可能以邻近山谷几乎听不懂的语言迎接你。

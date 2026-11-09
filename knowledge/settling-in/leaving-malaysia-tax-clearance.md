@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "epf-socso-employees" }
 related: ["lhdn", "tax-clearance", "offboarding-statutory-checklist", "employment-pass-malaysia", "moving-to-malaysia-first-steps", "epf-socso-employees"]
 keywords: ["tax clearance Malaysia", "Surat Penyelesaian Cukai", "SPC LHDN", "CP21 form Malaysia", "leaving Malaysia tax clearance", "expatriate tax clearance Malaysia", "e-SPC MyTax", "EPF leaving country withdrawal"]
+framework: rules
 ---
 
 You've handed in your resignation, booked the flight, and started giving away furniture. Then HR asks for something you've never heard of: a Tax Clearance Letter. Without it, part of your last paycheck doesn't move — and it isn't even you who's supposed to request it.

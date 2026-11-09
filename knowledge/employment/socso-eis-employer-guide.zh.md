@@ -109,6 +109,7 @@ relations:
   - { rel: "compares-with", to: "epf-employer-guide" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "pcb-mtd-malaysia"]
 keywords: ["SOCSO contribution rate Malaysia", "EIS rate employer", "PERKESO wage ceiling RM6000", "SOCSO Category 1 Category 2", "LINDUNG 24 Jam SKBBK"]
+framework: rules
 ---
 
 在查 SOCSO 费率之前，先查它所套用的那个顶限。那正是马来西亚已发表的薪资内容大多出错

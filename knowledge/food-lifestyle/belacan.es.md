@@ -93,6 +93,7 @@ verificationNeeded:
   - "La proporción de sal respecto a gamba (una fuente patrimonial del gobierno cita en torno a 10:1) y cualquier tope legal al contenido de agua (una fuente cita un máximo del 40% según las normas alimentarias de Malasia) — confírmese con el Malaysian Food Regulations 1985 y no con los medios gastronómicos."
   - "La clasificación de los centros de producción de belacan (se citan Penang/Balik Pulau, Perlis, Pangkor y Malaca) y si Pangkor ha sido históricamente un centro destacado — confírmese con una fuente pesquera, estatal o patrimonial."
   - "Las duraciones habituales de fermentación y secado, que las fuentes sitúan desde dos o tres semanas hasta tres o cuatro meses y que varían según el productor y el tiempo — confírmese un rango representativo."
+framework: explainer
 ---
 
 Pocos ingredientes anuncian su presencia tan a voces como el belacan. Desenvuelve un bloque y el olor llena la cocina; echa un trozo a una sartén caliente y toda la calle parece enterarse. Y, sin embargo, este pequeño ladrillo oscuro de gambas fermentadas es uno de los cimientos silenciosos de la cocina malasia — lo que da a un sambal su profundidad sabrosa, a un aliño de rojak su carácter fermentado y a un cuenco de asam laksa su columna vertebral.

@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "christmas-malaysia" }
 related: ["peranakan", "unesco-world-heritage", "christmas-malaysia"]
 keywords: ["क्रिस्तांग", "पापिया क्रिस्तांग", "मलक्का की पुर्तगाली बस्ती", "मलेशिया में यूरेशियाई", "इंत्रुदु", "ब्रान्यो", "Kristang", "Papia Kristang", "Intrudu", "branyo"]
+framework: history-culture
 ---
 
 उजोंग पासिर (Ujong Pasir), मलक्का में, एक समुद्र-तटीय बस्ती है जहाँ लोग एक-दूसरे का अभिवादन एक ऐसी भाषा में करते हैं जो न मलय है, न अंग्रेज़ी, न ही आधुनिक पुर्तगाली — बल्कि पाँच सदी पहले आए विजेताओं की ज़बान का जीवित अवशेष है। यह क्रिस्तांग समुदाय की दुनिया है।

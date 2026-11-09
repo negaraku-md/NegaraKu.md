@@ -78,6 +78,7 @@ related:
   - "malaysian-noodles"
 social:
   hashtags: ["KoayTeowThng", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 Entre los puestos de fideos de pato de George Town, uno se ha convertido en un

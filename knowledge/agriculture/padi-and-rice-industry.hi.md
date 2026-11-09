@@ -100,6 +100,7 @@ entity: "Padi and rice industry in Malaysia"
 relations: []
 related: []
 keywords: ["padi", "rice industry Malaysia", "rice self-sufficiency level Malaysia", "SSL rice", "BERNAS", "Padiberas Nasional", "guaranteed minimum price padi", "Harga Minimum Terjamin", "MADA", "kawasan jelapang padi", "subsidi harga padi", "SSHP", "Dasar Agromakanan Negara 2.0", "National Agrofood Policy", "rice import Malaysia", "padi farmers Malaysia"]
+framework: profile
 ---
 
 चावल वह एकमात्र खाद्य है जिसे मलेशिया मुक्त बाज़ार के भरोसे छोड़ने से इनकार करता है। राज्य यह केंद्रित करता है कि इसे कहाँ उगाया जाए, इसे उगाने वाले किसानों को सहारा देता है, कमी का आयात करने के लिए एक अकेली कंपनी को लाइसेंस देता है, और आपूर्ति झटकों के विरुद्ध एक आपातकालीन भंडार रखता है। फिर भी इस व्यवस्था के दशकों बाद भी देश जितना चावल खाता है उसका केवल लगभग आधा ही उगाता है।

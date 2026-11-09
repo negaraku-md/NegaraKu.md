@@ -142,6 +142,7 @@ relations:
   - { rel: "requires", to: "sst-registration" }
 related: ["sst-explained", "sst-registration", "sst-rate-table", "sst-b2b-exemption", "sst-02-filing"]
 keywords: ["ampliación SST 2025", "ampliación impuesto de servicios Malasia", "impuesto de servicios arrendamiento Grupo K", "impuesto de servicios construcción 6%", "exención contrato no revisable", "impuesto de servicios salud privada", "SST expansion 2025"]
+framework: rules
 ---
 
 El error más común que circula sobre la ampliación de 2025 es que la construcción

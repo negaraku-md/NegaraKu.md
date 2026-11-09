@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "foreign-company-branch-malaysia" }
 related: ["mida"]
 keywords: ["representative office malaysia", "regional office malaysia", "MIDA RE RO", "foreign company presence malaysia", "market entry malaysia", "non-trading office"]
+framework: explainer
 ---
 
 想在马来西亚派驻人员的外国公司——无论是要评估市场、开展产品研究，还是协调其区域附属机构——都无须为此注册一家应税的贸易公司。马来西亚正为这类需求提供了一种量身打造的非贸易性资格：代表处（RE）或区域办事处（RO），由马来西亚投资发展局（MIDA）批准。

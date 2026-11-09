@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "mak-yong" }
 related: ["sabah", "population-composition", "wau"]
 keywords: ["Pesta Kaamatan", "Tadau Kaamatan", "Kadazandusun harvest festival", "Unduk Ngadau", "Bambaazon", "Huminodun", "Magavau", "KDCA", "Sabah"]
+framework: history-culture
 ---
 
 Pesta ini dinamakan sempena satu idea tunggal: penuaian. *Kaamatan* bermaksud tepat demikian dalam bahasa Kadazandusun, dan segala-galanya yang lain dalam sambutan ini — ritual, air tuak beras, pertandingan ratu cantik yang dinobatkan pada malam terakhir — tumbuh daripada satu tindakan mengutip hasil padi itu.

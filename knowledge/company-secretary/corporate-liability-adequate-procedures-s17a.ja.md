@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016"]
 keywords: ["Section 17A", "MACC Act", "corporate liability", "adequate procedures", "T.R.U.S.T.", "anti-corruption Malaysia", "corporate bribery", "GIACC"]
+framework: rules
 ---
 
 ある若手の営業担当者が契約を獲得するためにリベートを支払い、取締役会にはそれを一切知らせない。2020年以降のマレーシア法の下では、こうした行為は企業自体を訴追にさらしかねず、取締役もそれに巻き込まれる。これが2009年マレーシア汚職防止委員会法（Malaysian Anti-Corruption Commission Act 2009）s.17A が及ぶ範囲である。

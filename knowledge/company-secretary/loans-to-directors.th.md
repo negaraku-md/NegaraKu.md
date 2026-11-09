@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "disclosure-of-interest" }
 related: ["directors-duties", "disclosure-of-interest", "directors-fees-approval"]
 keywords: ["loan to director Malaysia", "section 224 Companies Act 2016", "director current account Sdn Bhd", "exempt private company loan director", "pinjaman kepada pengarah syarikat", "section 225 connected person loan"]
+framework: rules
 ---
 
 บัญชีบริษัทจ่ายค่างวดรถของกรรมการ ถูกลงรหัสเป็น "บัญชีกรรมการ" ไม่มีใครลงนามอะไร และ ณ สิ้นปียอดคงเหลือเป็นลูกหนี้จากกรรมการ ในบริษัท Sdn Bhd ของมาเลเซียจำนวนมากเรื่องนี้ชอบด้วยกฎหมาย — แต่ด้วยเหตุผลที่คนส่วนใหญ่ที่เกี่ยวข้องบอกชื่อไม่ได้ และเป็นเหตุผลที่หยุดใช้ทันทีที่การถือหุ้นของบริษัทเปลี่ยน

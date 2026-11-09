@@ -111,6 +111,7 @@ relations:
   - { rel: "related-to", to: "losses-and-group-relief" }
 related: ["income-tax-in-malaysia", "form-c-and-cp204", "company-tax-residence", "losses-and-group-relief"]
 keywords: ["Malaysia corporate tax rate", "SME tax rate Malaysia", "kadar cukai syarikat", "corporate tax 2026", "cukai pendapatan syarikat"]
+framework: rules
 ---
 
 La mayoría de las guías te dicen que la tasa para pymes empieza en el 15% y se

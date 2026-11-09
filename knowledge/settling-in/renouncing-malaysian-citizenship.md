@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "dual-citizenship-malaysia" }
 related: []
 keywords: ["melepaskan kewarganegaraan", "dwikewarganegaraan Malaysia", "Perkara 23", "Perkara 24", "Perlembagaan Persekutuan", "Borang K", "pelucutan kewarganegaraan", "JPN"]
+framework: explainer
 ---
 
 Seorang rakyat Malaysia yang mengangkat sumpah menjadi warganegara negara lain sering terkejut apabila mendapati pasport biru dan MyKad mereka tidak lagi sah — bukan kerana satu perbuatan pentadbiran yang tersembunyi, tetapi kerana Perlembagaan Persekutuan itu sendiri menganggap dwikewarganegaraan sebagai sesuatu yang tidak diiktiraf. Perkara ini bertumpu pada dua peruntukan yang berkait rapat: Perkara 23 (pelepasan secara sukarela) dan Perkara 24 (pelucutan atas pemerolehan kewarganegaraan asing).

@@ -84,6 +84,7 @@ relations:
   - { rel: "compares-with", to: "malaysian-citizenship-by-naturalisation" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["kewarganegaraan", "pendaftaran", "Perkara 15", "pasangan asing", "Perlembagaan Persekutuan", "JPN", "warganegara Malaysia"]
+framework: explainer
 ---
 
 Épouser un citoyen malaisien ne fait pas à soi seul d'une personne un citoyen. Pour les conjoints étrangers et pour l'enfant d'un citoyen, la voie communément évoquée est l'« enregistrement » — l'une des manières d'acquérir la citoyenneté énumérées dans la Partie III de la Constitution fédérale. Cette page explique ce cadre juridique de manière neutre et descriptive ; il ne s'agit pas d'un conseil juridique.

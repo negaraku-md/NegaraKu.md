@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "public-vs-private-universities" }
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["UPSR dimansuhkan", "PT3 dimansuhkan", "Pentaksiran Bilik Darjah", "PBD Malaysia", "SPM Malaysia", "Matriks Pembelajaran Malaysia", "Lembaga Peperiksaan", "peperiksaan sekolah Malaysia", "PBS Malaysia"]
+framework: explainer
 ---
 
 உங்கள் பிள்ளை இப்போது ஆண்டு 6-ல் இருந்தால், அவர் UPSR எழுத மாட்டார். அந்தப் பிள்ளை படிவம் 3-ல் இருந்தால், அவரை எந்த PT3-ம் காத்திருக்கவில்லை. ஒரு மாணவரின் முழுப் பள்ளிப் பயணத்தையும் ஒருகாலத்தில் தீர்மானித்த பெரிய தேர்வுகள் — உங்கள் சொந்தப் பெற்றோர் கூட கடும் அழுத்தத்தில் கடந்துசென்றிருக்கக்கூடிய அதே தேர்வுகள் — சில ஆண்டுகளாக இப்போது இல்லாமல் போய்விட்டன. ஆனால் பல பெற்றோர் இன்னும் குழம்பியிருக்கிறார்கள்: அவற்றை எது மாற்றியது, அவை மீண்டும் கொண்டுவரப்படுமா, மேலும் இப்போது தினமும் அவர்களது பிள்ளையின் பள்ளியில் உண்மையில் என்ன நடக்கிறது.

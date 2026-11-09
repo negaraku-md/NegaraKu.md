@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "e-hailing-grab" }
 related: []
 keywords: ["walkability Malaysia", "cycling Malaysia cities", "pedestrian infrastructure Malaysia", "KL Pedestrian and Cycling Masterplan", "car dependency Malaysia", "active mobility Malaysia"]
+framework: explainer
 ---
 
 午後1時にクランバレーのLRT駅から外へ出て、オフィスまでの最後の500メートルを

@@ -76,6 +76,7 @@ keywords:
   - "adakah pengarah pekerja Malaysia"
   - "kelulusan fi pengarah Sdn Bhd"
   - "pampasan kehilangan jawatan seksyen 227"
+framework: explainer
 ---
 
 Minta sebuah syarikat Malaysia menunjukkan kontrak pekerjaan pengarah eksekutifnya, dan anda

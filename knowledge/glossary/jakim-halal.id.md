@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "kpdn" }
 related: ["jakim"]
 keywords: ["halal", "JAKIM", "sijil halal", "pensijilan halal", "MYeHALAL", "logo halal", "Akta Perihal Dagangan 2011", "MAIN", "JAIN"]
+framework: explainer
 ---
 
 Logo halal resmi dengan tulisan khat itu mungkin tampak kecil pada kemasan makanan — tetapi di baliknya berdiri satu sistem persekutuan, undang-undang berdenda jutaan ringgit, dan satu badan tunggal yang menentukan apakah suatu produk dapat mengklaim dirinya halal di Malaysia. Badan itu adalah JAKIM.

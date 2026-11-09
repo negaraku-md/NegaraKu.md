@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "wau" }
 related: ["kelantan", "mak-yong", "wayang-kulit", "wau"]
 keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", "pantun berbalas", "seni persembahan", "warisan kebangsaan"]
+framework: history-culture
 ---
 
 两支队伍在台上盘腿相对而坐。没有剧本。当第一队唱完一轮讽刺物价上涨的 pantun（马来即兴四行诗），第二队只有短短几秒钟构思回应——而且必须押韵、必须踩准节拍，若可能的话，还得比原句更犀利。

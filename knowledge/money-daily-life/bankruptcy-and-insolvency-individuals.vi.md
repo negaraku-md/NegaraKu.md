@@ -91,6 +91,7 @@ relations:
   - { rel: "compares-with", to: "akpk-debt-management-programme" }
 related: []
 keywords: ["kebankrapan", "bankrap", "insolvensi", "Akta Insolvensi 1967", "MDI", "Ketua Pengarah Insolvensi", "pelepasan bankrap", "seksyen 33C", "AKPK", "DMP"]
+framework: explainer
 ---
 
 Một hóa đơn chưa thanh toán có thể kết thúc thành một lệnh của tòa án làm thay đổi gần như mọi giao dịch tài chính của một người — từ tài khoản ngân hàng cho đến sự cho phép ra nước ngoài. Ở Malaysia, ranh giới phân chia đó được định nghĩa bởi một luật duy nhất: Đạo luật Phá sản 1967 (Insolvency Act 1967, Akta 360). Bài viết này mô tả quy trình đó một cách khách quan, không thiên về bất kỳ quan điểm nào.

@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "electricity-supply-tnb" }
 related: []
 keywords: ["gas paip asli", "Gas Malaysia", "tong gas", "LPG", "gas domestik", "subsidi gas", "gas memasak", "harga tong gas 14kg"]
+framework: explainer
 ---
 
 点燃新家的炉灶，你很快就会意识到：大多数马来西亚人是用送到门口的煤气瓶做饭，而不是通过管道输送的燃气。管道天然气确实存在——但仅限于一小部分市区。本指南将说明这两种选择、各自的价格、补贴规则，以及如何安全用气。

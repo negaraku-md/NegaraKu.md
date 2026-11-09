@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "sales-and-service-tax-sst-explained" }
 related: []
 keywords: ["tipping malaysia", "service charge malaysia", "service tax restaurant", "dining etiquette malaysia", "SST food and beverage"]
+framework: explainer
 ---
 
 You finish a good meal in Kuala Lumpur, the bill lands on the table, and two unfamiliar lines sit below your total. No, you did not order anything extra — and no, you do not need to add a tip on top. Here is how eating out in Malaysia actually works.

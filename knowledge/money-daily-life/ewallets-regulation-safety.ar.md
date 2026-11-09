@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "duitnow-qr" }
 related: ["pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["المحفظة الإلكترونية في ماليزيا", "النقود الإلكترونية", "e-wallet Malaysia", "e-money", "Touch n Go eWallet", "Boost", "GrabPay", "ShopeePay", "BNM", "PIDM", "حساب أمانة", "الصون safeguarding"]
+framework: explainer
 ---
 
 تضغط «ادفع» عند الصندوق، فينقص رصيد محفظتك الإلكترونية بضعة رينغيت، وتُنجَز المعاملة في ثانية واحدة. لكن أين تُحفظ فعليًّا الـ RM200 التي «شحنتها» هذا الصباح — وماذا يحدث لها إذا أفلست فجأةً الشركة التي تقف وراء التطبيق؟ الجواب يختلف عمّا يحدث للمال في حسابك المصرفي، والفرق مهم.

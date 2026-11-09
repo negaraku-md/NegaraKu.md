@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["majlis-raja-raja", "yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["negeri beraja Malaysia", "sembilan Raja Melayu", "Sultan Raja Yang di-Pertuan Besar", "Majlis Raja-Raja", "Ketua agama Islam negeri", "Undang Yang Empat Negeri Sembilan"]
+framework: explainer
 ---
 
 Malaysia mempunyai tiga belas negeri, tetapi hanya sembilan daripadanya mempunyai Raja pemerintah. Empat negeri yang lain — Melaka, Pulau Pinang, Sabah dan Sarawak — diketuai oleh Yang di-Pertua Negeri yang dilantik, bukan oleh seorang Raja.

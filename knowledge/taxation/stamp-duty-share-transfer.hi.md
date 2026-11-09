@@ -91,6 +91,7 @@ relations:
   - { rel: "part-of", to: "stamp-duty-rates" }
 related: ["stamp-duty-rates", "capital-gains-tax", "stamp-duty-self-assessment", "share-capital-malaysia"]
 keywords: ["मलेशिया शेयर हस्तांतरण स्टांप ड्यूटी", "Form 32A", "प्रतिभूति-हस्तांतरण प्रपत्र section 105", "NTA मूल्यांकन स्टांप ड्यूटी", "0.3% शेयर हस्तांतरण ड्यूटी", "stamp duty share transfer Malaysia"]
+framework: rules
 ---
 
 शेयर-हस्तांतरण स्टांपिंग के बारे में दो बातें अधिकांश मलेशियाई व्यावहारिक नोटों में

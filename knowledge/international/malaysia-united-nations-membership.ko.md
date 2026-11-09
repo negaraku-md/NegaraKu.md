@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malaysia PBB", "United Nations Malaysia", "Majlis Keselamatan PBB", "pasukan pengaman", "UNIFIL", "keahlian PBB", "diplomasi Malaysia"]
+framework: explainer
 ---
 
 툰쿠 압둘 라만이 머르데카 경기장에서 "머르데카(독립)"를 외친 지 불과 17일 만에, 말라야 연방의 깃발이 뉴욕의 유엔 본부에 게양되었습니다. 1957년 9월 17일, 이 젊은 국가는 국제연합의 회원국으로 공식 받아들여졌습니다 — 그 탄생과 거의 동시에 세계 무대에서 그 주권을 확인한 조치였습니다.

@@ -55,6 +55,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["what is Malaysia", "federation of Malaysia", "13 states 3 federal territories", "elective monarchy Malaysia", "federal structure Malaysia", "Yang di-Pertuan Agong", "Federal Constitution"]
+framework: explainer
 ---
 
 Malaysia không phải một nơi với một chính quyền. Nó là một liên bang — một quốc gia duy nhất được ghép lại từ mười ba bang và ba lãnh thổ liên bang, nằm trên hai khối đất bị ngăn cách bởi vài trăm ki-lô-mét Biển Đông. Hiểu cấu trúc đó trước tiên khiến gần như mọi thứ khác về đất nước này dễ theo dõi hơn.

@@ -127,6 +127,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: ["labour-law-map-malaysia", "employment-pass-founder-malaysia"]
 keywords: ["employment pass malaysia", "ep category 1 salary", "employment pass salary 2026", "esd registration", "myxpats", "expatriate malaysia", "employment pass renewal"]
+framework: rules
 ---
 
 On 1 June 2026 the price of an expatriate in Malaysia doubled at the top.

@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "northeast-monsoon" }
 related: []
 keywords: ["Perhentian", "Redang", "Tioman", "Kapas", "marine park", "conservation fee", "northeast monsoon", "Malaysia islands", "snorkelling", "diving"]
+framework: explainer
 ---
 
 12月にルダンのビーチリゾートに現れると、ボートは姿を消し、桟橋は静まり返り、ダイビングショップはシャッターを下ろしているのに出くわす公算が大きい。東海岸の島々は、旅行パンフレットではなく海が書いたカレンダーに従って動いている——そして、多くの初心者がチケットカウンターで初めて知ることになる一連の海洋公園のルールにも従っている。

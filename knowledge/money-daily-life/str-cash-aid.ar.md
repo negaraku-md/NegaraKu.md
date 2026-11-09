@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "mykad" }
 related: ["program-rahmah-cost-of-living", "i-saraan-epf-voluntary-contribution", "lhdn", "income-tax-individuals", "mykad"]
 keywords: ["المساهمة النقدية رحمة", "المساعدة النقدية الحكومية في ماليزيا", "التحقق من STR", "Sumbangan Tunai Rahmah", "STR", "bantuan tunai kerajaan Malaysia", "MySTR", "bantuantunai.hasil.gov.my", "semakan STR", "permohonan STR", "bantuan kos sara hidup Malaysia"]
+framework: how-to
 ---
 
 يعرف كثيرون اسم «STR» من الأخبار، أو من جار يتحدث عن دفعة وصلت إلى حسابه المصرفي. وأقل منهم من يعرف أن حسابهم القديم قد لم يعد صالحاً، أو أن النموذج الذي عليهم تعبئته ليس نموذجاً ضريبياً عادياً — رغم أن الذي يديره هو الهيئة نفسها التي تتولى ضريبة دخلك.

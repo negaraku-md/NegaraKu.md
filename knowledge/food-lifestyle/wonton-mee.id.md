@@ -99,6 +99,7 @@ verificationNeeded:
   - "Pengaitan kedatangan wonton mee di Malaya secara khusus kepada para migran Kantonis dan Hakka abad ke-19; konfirmasikan dengan sumber migrasi atau warisan di luar entri budaya JKKN."
   - "Variasi wonton mee Sarawak dan bagaimana kaitannya dengan (atau bedanya dari) kolo mee negara bagian itu — sumbernya tipis dan kedua hidangan mudah tertukar; konfirmasikan dengan sumber kuliner atau warisan Sarawak."
   - "Klaim daerah bahwa wantan mee kering gaya Penang bersandar pada saus yang lebih gelap/manis (dan kadang sambal) dibanding gaya KL yang lebih ringan — verifikasikan dengan sumber lokal, karena deskripsi berbeda-beda di berbagai blog kuliner."
+framework: explainer
 ---
 
 Pesanlah wonton mee di Kuala Lumpur dan Anda akan mendapat segunduk kecil mi telur

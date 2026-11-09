@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["tamil-in-malaysia", "chinese-dialects", "population-composition", "deepavali"]
 keywords: ["Sikh Malaysia", "Punjabi Malaysia", "gurdwara", "Vaisakhi", "Khalsa", "langar", "Tatt Khalsa Diwan", "komuniti Sikh", "bahasa Punjabi"]
+framework: history-culture
 ---
 
 19-ஆம் நூற்றாண்டு Tanah Melayu-இன் காவல் அணிகளிலும் பிரிட்டிஷ் கோட்டைகளிலும், தலைப்பாகை அணிந்து அடர்ந்த தாடி வைத்திருந்த அந்த அதிகாரிகளில் பலர் உள்ளூர்வாசிகள் அல்ல — அவர்கள் வடமேற்கு இந்தியாவின் Punjab-இலிருந்து ஆயிரக்கணக்கான மைல்கள் தொலைவிலிருந்து அழைத்துவரப்பட்ட சீக்கியர்கள். அந்தப் பாதுகாப்புக் கடமையிலிருந்துதான் மலேசியாவின் மிகச் சிறிய, ஆனால் உடனடியாக அடையாளம் காணக்கூடிய சிறுபான்மைச் சமூகங்களில் ஒன்று வளர்ந்தது.

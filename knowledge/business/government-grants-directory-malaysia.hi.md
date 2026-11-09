@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "mdec-digital-status" }
 related: ["sme-financing-malaysia"]
 keywords: ["सरकारी अनुदान मलेशिया", "SME अनुदान मलेशिया", "स्टार्टअप अनुदान मलेशिया", "cradle CIP grant", "MDEC digital grant", "MSME digital grant madani", "मिलान-अनुदान मलेशिया", "व्यवसाय वित्तपोषण मलेशिया"]
+framework: data-reference
 ---
 
 «सरकारी अनुदान मलेशिया» खोजें और आपको आपके व्यवसाय के लिए मुफ़्त पैसे का वादा करने वाली दर्जनों

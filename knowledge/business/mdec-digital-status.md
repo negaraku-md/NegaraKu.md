@@ -106,6 +106,7 @@ keywords:
   - "MD tax incentive Malaysia"
   - "Malaysia Digital bill of guarantees"
   - "taraf Malaysia Digital"
+framework: explainer
 ---
 
 The most consequential thing to understand about Malaysia Digital is what it is *not*.

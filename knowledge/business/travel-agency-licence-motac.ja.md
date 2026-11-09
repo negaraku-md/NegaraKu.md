@@ -80,6 +80,7 @@ social:
     - TourOperator
     - DoingBusinessInMalaysia
     - MalaysiaLicensing
+framework: how-to
 ---
 
 サプライヤーを見つけ、旅程を組み立て、いよいよ休暇商品の販売を始めようとしている——しかしマレーシアでは、法律が最初に及ぶのは「販売」の部分である。ひとつのツアーが宣伝され、あるいは一枚のチケットが売られる前に、その背後にある事業はマレーシア観光芸術文化省（Ministry of Tourism, Arts and Culture、MOTAC）から免許を受けていなければならない。これは後から取って付けた形式的な手続きではない。事業を行うために必ず通らなければならない関門であり、免許なしにツアーを運営することは刑事犯罪である。

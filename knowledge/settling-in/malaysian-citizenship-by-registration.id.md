@@ -84,6 +84,7 @@ relations:
   - { rel: "compares-with", to: "malaysian-citizenship-by-naturalisation" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["kewarganegaraan", "pendaftaran", "Perkara 15", "pasangan asing", "Perlembagaan Persekutuan", "JPN", "warganegara Malaysia"]
+framework: explainer
 ---
 
 Menikah dengan seorang warga negara Malaysia tidak dengan sendirinya menjadikan seseorang itu warga negara. Bagi pasangan asing dan bagi anak seorang warga negara, jalur yang biasa disebut adalah "pendaftaran" — salah satu cara memperoleh kewarganegaraan yang tercantum dalam Bagian III Konstitusi Federal. Halaman ini menjelaskan kerangka hukum itu secara netral dan deskriptif; ia bukan nasihat hukum.

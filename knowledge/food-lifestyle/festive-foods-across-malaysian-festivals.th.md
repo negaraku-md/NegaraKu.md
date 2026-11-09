@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "kaamatan" }
 related: ["hari-raya-aidilfitri", "chinese-new-year", "deepavali", "christmas-malaysia", "gawai-dayak", "kaamatan"]
 keywords: ["juadah perayaan", "makanan raya", "ketupat", "rendang", "lemang", "yee sang", "lou sang", "murukku", "manok pansuh", "hinava", "tuak", "tumpung", "rumah terbuka", "kuih raya"]
+framework: history-culture
 ---
 
 ไล่ตามปฏิทินมาเลเซียจากปลายปีหนึ่งไปยังอีกปลายปี แล้วคุณจะไม่ได้เพียงเปลี่ยนวันที่ คุณเปลี่ยนครัว เดือนนี้มีกลิ่นเรินดังและกะทิของเลอมัง อีกไม่กี่เดือนต่อมา โต๊ะเต็มไปด้วยสลัดปลาดิบที่ถูกยกสูงขึ้นขณะผู้คนโห่ร้อง จากนั้นก็ถึงคราวของเกลียวมูรุกกูที่กรอบ และสุดท้ายคือปล้องไม้ไผ่ที่ถูกผ่าออกเพื่อนำไก่ร้อน ๆ ออกมา

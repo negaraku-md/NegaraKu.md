@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "register-of-directors" }
 related: ["register-of-directors", "directors-duties", "remove-a-director", "director-shareholding-notification", "statutory-registers"]
 keywords: ["appoint director Malaysia", "resign as director Sdn Bhd", "section 196 Companies Act 2016", "section 208 vacation of office", "consent to act as director Malaysia", "letak jawatan pengarah syarikat", "minimum number of directors Malaysia"]
+framework: rules
 ---
 
 Một giám đốc của một Sdn Bhd hai người bất hòa với đồng cổ đông của mình, ký một thư

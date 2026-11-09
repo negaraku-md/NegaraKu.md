@@ -77,6 +77,7 @@ social:
     - MalaysiaHealthcare
     - Act586
     - MedicalPractice
+framework: how-to
 ---
 
 자신의 의원을 개설하는 것은 여러 해의 수련과 진료 뒤 자연스러운 다음 단계처럼

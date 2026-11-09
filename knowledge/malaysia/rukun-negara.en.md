@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["federal-constitution", "independence-1957", "formation-of-malaysia-1963", "parliament"]
 keywords: ["Rukun Negara", "lima prinsip Rukun Negara", "ikrar Rukun Negara", "Majlis Perundingan Negara", "MAGERAN", "Pengisytiharan Diraja 1970"]
+framework: history-culture
 ---
 
 In the Rukun Negara Committee File at the National Archives of Malaysia there is a letter dated 19 March 1970. It notifies that the first meeting of the Rukun Negara Committee would be held on 31 March 1970, at 10.00 a.m., in the Operations Room, Malaysian Treasury. Thirteen names appear on the circulation list; four more received copies.

@@ -95,6 +95,7 @@ verificationNeeded:
   - "masak lemak cili api가 의미 있는 양의 코코넛밀크를 담는지, 아니면 'cili api'가 단지 매우 맵다는 뜻일 뿐인지 — 자료들은 코코넛밀크(lemak)가 핵심이라는 데 동의하지만, 정확한 균형과 향신료 페이스트를 먼저 볶는지(tumis) 여부는 집안과 요리사에 따라 다르다. Negeri Sembilan 요리 자료로 확인할 것."
   - "Negeri Sembilan의 rendang이 더 넓은 말레이시아/Minangkabau rendang과 어떻게 다른지(일부 자료는 무거운 건조 향신료 배합보다 생강, 갈랑갈, 레몬그라스, 코코넛밀크에 더 기댄다고 한다) — 현지 또는 학술 요리 자료로 확인할 것."
   - "daging salai를 Pedas와 Rembau 같은 특정 마을에 귀속시키는 정확한 지역적 귀속, 그리고 훈제에 전통적으로 특정 목재가 쓰이는지 여부 — 현지 자료로 확인할 것."
+framework: explainer
 ---
 
 Seremban이나 Rembau에서 음식을 주문하면 식탁에 한 가지 색이 거듭 돌아온다.

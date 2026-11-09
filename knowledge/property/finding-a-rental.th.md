@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["employment-pass", "opening-bank-account"]
 keywords: ["rental Malaysia", "iProperty", "PropertyGuru", "Mudah", "REN Malaysia", "registered estate negotiator", "BOVAEP", "LPPEH", "estate agent Malaysia", "rental commission Malaysia", "REN Tag"]
+framework: explainer
 ---
 
 คุณพบประกาศที่คุณชอบบนพอร์ทัล ส่งข้อความไปยังเบอร์ที่อยู่บนนั้น และมีคนมาไขกุญแจหน่วยที่อยู่อาศัยให้ ไม่มีอะไรในการแลกเปลี่ยนนั้นบอกคุณว่าคนที่ยื่นกุญแจให้คุณได้รับอนุญาตตามกฎหมายให้ทำสิ่งนี้เพื่อรับค่าธรรมเนียมหรือไม่ และแทบไม่มีใครถาม

@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#Leens", "#BibGourmand", "#MichelinGuide", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Di sebuah lot kedai di Taman Tun Dr Ismail, bau roti yang baru dibakar sudah

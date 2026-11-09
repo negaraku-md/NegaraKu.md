@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "sistem-pendidikan-malaysia" }
 related: []
 keywords: ["UEC", "Sijil Peperiksaan Bersama", "Dong Zong", "sekolah menengah persendirian Cina", "pengiktirafan UEC", "IPTA", "bahasa kebangsaan"]
+framework: explainer
 ---
 
 Tiga huruf — UEC — mampu mencetuskan perbahasan yang berlarutan lebih setengah abad dalam politik pendidikan Malaysia. Bagi sesetengah pihak, ia sijil bertaraf antarabangsa yang membuka pintu ke universiti terkemuka dunia; bagi yang lain, ia menyentuh kedudukan bahasa kebangsaan dan dasar pendidikan negara. Kedua-dua pandangan wujud serentak, dan kedua-duanya perlu difahami untuk melihat gambaran penuh.

@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: ["trademark-registration-malaysia"]
 keywords: ["intellectual property Malaysia", "trademark registration Malaysia", "patent Malaysia", "copyright Malaysia", "MyIPO", "Trademarks Act 2019", "Patents Act 1983", "Copyright Act 1987"]
+framework: explainer
 ---
 
 Sebuah logo, sebuah formula, sekeping kod, sebuah nama jenama — pada saat mana-mana daripadanya mula menjana wang, seseorang mempunyai sebab untuk menirunya. Undang-undang Malaysia memberi anda cara untuk berkata "itu milik saya, dan inilah kertas untuk membuktikannya." Masalahnya ialah tiga jenis utama harta intelek berfungsi dalam tiga cara yang benar-benar berbeza, dan tersilap satu daripadanya boleh menyebabkan perniagaan kehilangan asetnya yang paling berharga.

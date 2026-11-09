@@ -123,6 +123,7 @@ keywords:
   - "foreign company local agent Malaysia"
   - "branch registration fee SSM"
   - "foreign company annual return Malaysia"
+framework: how-to
 ---
 
 Le droit d'immatriculation est la partie que tout le monde budgétise. Ce n'est pas la partie qui

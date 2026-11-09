@@ -101,6 +101,7 @@ relations:
   - { rel: "located-in", to: "johor" }
 related: ["tenaga-nasional", "johor"]
 keywords: ["data centre Malaysia", "مراكز البيانات ماليزيا", "Johor data centre", "مراكز بيانات جوهور", "TNB data centre", "non-AI data centre restriction", "data sovereignty Malaysia", "السيادة على البيانات", "National Cloud Computing Policy", "Green Lane TNB", "Johor water data centre"]
+framework: explainer
 ---
 
 في أقل من ثلاث سنوات، تحوّل شريط من جنوب جوهور عبر الجسر المقابل لسنغافورة إلى واحد من أكثر الأماكن طلبًا على وجه الأرض لتوصيل الخوادم. فقد تدفّق عمالقة السحابة، ومشغلو الاستضافة المشتركة (colocation)، والشركات الناشئة في الذكاء الاصطناعي — والآن تكتشف ماليزيا أن خطوط الكهرباء وأنابيب الماء الكامنة تحت الطفرة لها حدود.

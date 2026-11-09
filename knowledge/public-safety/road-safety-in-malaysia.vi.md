@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "driving-licence-in-malaysia" }
 related: []
 keywords: ["keselamatan jalan raya", "kemalangan jalan raya Malaysia", "pemanduan mabuk", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
+framework: explainer
 ---
 
 Mỗi ngày, khoảng 18 sinh mạng bị cướp đi trên đường sá Malaysia. Con số đó khiến giao thông đường bộ trở thành một trong những nguyên nhân tử vong không tự nhiên nổi bật nhất tại quốc gia này, và là lý do chính khiến luật pháp, camera và các cơ quan chuyên trách được huy động để đối phó.

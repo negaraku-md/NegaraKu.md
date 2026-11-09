@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "thaipusam", "hinduism-in-malaysia", "estate-tamil-community"]
 keywords: ["செட்டியார் சமூகம்", "நாட்டுக்கோட்டை நகரத்தார்", "நகரத்தார் மலேசியா", "செட்டிநாடு", "கிட்டங்கி", "பினாங்கு செட்டியார் கோயில்", "Chettiar community Malaysia", "Nattukottai Chettiar", "Nagarathar"]
+framework: history-culture
 ---
 
 في يوم عيد ثايبوسام ببينانغ، تنطلق عربة مهيبة مصنوعة من الفضة من شارع ليبوه بينانغ متجهةً إلى معبد مورُغان على التلّة. وليست تلك العربة، ولا الجماعة التي تُسيّرها منذ أكثر من قرن، محض مصادفة — فكلتاهما تروي قصة تقليد تجاري-صيرفي قطع الطريق من تشيتيناد إلى مالايا.

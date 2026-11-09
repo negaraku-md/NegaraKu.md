@@ -96,6 +96,7 @@ relations:
   - { rel: "located-in", to: "malaysia" }
 related: []
 keywords: ["kuala lumpur", "petronas twin towers", "kl tower", "batu caves", "bukit bintang", "chinatown kuala lumpur", "klia ekspres", "kuala lumpur transport", "malaysia digital arrival card", "kl travel guide"]
+framework: profile
 ---
 
 Land at Kuala Lumpur International Airport at dawn and, within an hour, you can be standing beneath two silver towers that once ruled the world's skyline — no rental car, no complicated planning, just a train and a tap-in card. That ease is the whole point of KL: it is Malaysia's front door, a compact and inexpensive capital where the headline sights sit a short rail ride apart, and where nearly every onward journey in the country begins.

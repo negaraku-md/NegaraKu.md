@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "sumbangan-tunai-rahmah-str" }
 related: ["program-rahmah-cost-of-living"]
 keywords: ["PADU", "Pangkalan Data Utama", "ترشيد الدعم", "الدعم المستهدف", "BUDI MADANI", "RON95", "دعم الديزل", "دعم الكهرباء", "T15", "subsidy rationalisation"]
+framework: explainer
 ---
 
 لسنوات طويلة، دعمت الحكومة الماليزية الوقود والكهرباء والغذاء للجميع دفعةً واحدة — بغض النظر عمّا إذا كان المستفيد مزارع مطاط أم مالك سيارة فاخرة. والسؤال الذي غيّر كل شيء لم يكن *كم* من الدعم يُمنح، بل *لمن* يُمنح. وللإجابة عنه، احتاجت الحكومة إلى شيء لم تملكه من قبل: صورة دقيقة عن حقيقة الماليزيين. وتلك هي مهمة PADU.

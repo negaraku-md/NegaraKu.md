@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "debt-recovery-malaysia" }
 related: ["close-a-company", "creditors-voluntary-winding-up", "members-voluntary-winding-up", "strike-off-company-malaysia", "company-director-requirements"]
 keywords: ["penyelamatan korporat malaysia", "pengurusan kehakiman malaysia", "skim aturan seksyen 366", "perkiraan sukarela korporat", "perintah menahan seksyen 368", "akta syarikat pindaan 2024 penyelamatan"]
+framework: decision
 ---
 
 Tanyakan kepada kebanyakan konten bisnis Malaysia tentang apa yang harus dilakukan

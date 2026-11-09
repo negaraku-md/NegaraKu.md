@@ -97,6 +97,7 @@ verificationNeeded:
   - "Những ghi chép thành văn sớm nhất về món ăn — từ điển Pháp–Mã Lai của Pierre-Étienne-Lazare Favre năm 1875 và The Circumstances of Malay Life của Richard Olaf Winstedt (1909, p. 62). Chúng được trích qua Wikipedia; cần đối chiếu câu chữ gốc chính xác (và liệu bản thân thuật ngữ 'nasi lemak' có xuất hiện hay chỉ là mô tả cơm nấu trong nước cốt dừa) với văn bản nguồn."
   - "Tuyên bố cụ thể rằng nasi lemak, roti canai và teh tarik được công bố trên công báo là di sản quốc gia theo National Heritage Act 2005 vào năm 2022 — hãy xác nhận công báo và năm chính xác với Cục Di sản Quốc gia (Jabatan Warisan Negara) của Malaysia."
   - "Câu chuyện nguồn gốc về cô gái Malacca 'Seri' / 'Nasi le, mak' là văn hóa dân gian, không phải lịch sử có ghi chép, và chỉ nên được trình bày như một truyền thuyết."
+framework: explainer
 ---
 
 Trước khi mặt trời ló dạng hẳn, mùi hương đã đến phố trước tiên: cơm đậm nước cốt dừa,

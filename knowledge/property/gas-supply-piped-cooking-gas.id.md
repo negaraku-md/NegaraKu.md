@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "electricity-supply-tnb" }
 related: []
 keywords: ["gas paip asli", "Gas Malaysia", "tong gas", "LPG", "gas domestik", "subsidi gas", "gas memasak", "harga tong gas 14kg"]
+framework: explainer
 ---
 
 Nyalakan kompor di rumah baru Anda dan Anda akan cepat sadar: kebanyakan orang Malaysia memasak dengan tabung gas yang diantar ke pintu, bukan gas yang mengalir melalui pipa. Gas alam pipa memang ada — tetapi hanya di sebagian kecil kawasan kota. Panduan ini menjelaskan kedua pilihan, harganya, aturan subsidi, dan cara menangani gas dengan aman.

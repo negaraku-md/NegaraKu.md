@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "songket" }
 related: ["mak-yong", "wayang-kulit", "songket"]
 keywords: ["Joget", "Zapin", "tarian tradisional Melayu", "Joget Melaka", "Zapin Johor", "gambus", "marwas", "branyo Portugis", "tarian rakyat Melayu"]
+framework: history-culture
 ---
 
 นักรำสองคนเคลื่อนไหวอย่างรวดเร็วตามจังหวะเกินดัง — เท้ากระทืบ มือร่ายรำอย่างอ่อนช้อย หลายคนที่ชมมันเรียกทันทีว่า "การรำมลายู" โดยไม่แยกว่าอันไหนคือโจเกตและอันไหนคือซาปิน ถามว่าแต่ละอย่างมาจากไหน แล้วคำตอบจะพาเราไปสู่สองมุมของโลก กล่าวคือ อย่างหนึ่งมาจากดาดฟ้าเรือค้าขายของโปรตุเกสในมะละกา อีกอย่างมาจากกองคาราวานของนักเผยแผ่ศาสนาชาวอาหรับจากฮัฎเราะเมาต์

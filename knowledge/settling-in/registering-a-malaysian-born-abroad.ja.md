@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "applying-for-malaysian-citizenship-article-15" }
 related: []
 keywords: ["kewarganegaraan keturunan", "Perkara 14(1)(b)", "Borang D", "lahir luar negara", "JPN", "Jadual Kedua", "pindaan perlembagaan 2024", "Perkara 15(2)"]
+framework: explainer
 ---
 
 ロンドンの病院で、そこに赴任しているマレーシア人夫婦のもとに一人の赤ん坊が生まれる。現地の出生証明書にはその子が英国で生まれたと記されるが、マレーシアの法律のもとでは、その子はすでに市民である可能性がある——ただし、その身分が正しく記録されていることが前提となる。その身分がどのように確認され、誰が資格を持つのかは、連邦憲法の基本的な規定に触れる問いである。

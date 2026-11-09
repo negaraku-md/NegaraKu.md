@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
 related: ["federal-constitution"]
 keywords: ["मूलनिवासी प्रथागत अधिकार", "native customary rights", "NCR", "Sarawak Land Code", "Sabah Land Ordinance", "मूलनिवासी स्वामित्व", "native title", "temuda", "pemakai menoa", "पूर्वी मलेशिया भूमि कानून", "East Malaysia land law"]
+framework: explainer
 ---
 
 कुआलालंपुर में एक घर खरीदिए और एक ही संघीय विधि आपके स्वामित्व-अधिकार को शासित करती है। कुचिंग या कोटा किनाबालू में वही कीजिए और आप एक बिलकुल भिन्न कानूनी संसार में प्रवेश कर जाते हैं — एक ऐसा संसार जिसके अपने अध्यादेश हैं, अपनी भूमि श्रेणियाँ हैं, और धारण का एक ऐसा रूप है जिसे कोई कागज़ का टुकड़ा नहीं बनाता: मूलनिवासी प्रथागत अधिकार।

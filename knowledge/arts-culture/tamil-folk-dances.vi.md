@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "indian-classical-arts-in-malaysia" }
 related: ["indian-classical-arts-in-malaysia", "temple-music-nadaswaram", "tamil-in-malaysia", "hinduism-in-malaysia", "thaipusam", "mariamman-worship", "estate-tamil-community", "silambam", "tamil-new-year"]
 keywords: ["தமிழர் நாட்டுப்புற நடனங்கள்", "கரகாட்டம்", "ஒயிலாட்டம்", "மயிலாட்டம்", "பொய்க்கால் குதிரை ஆட்டம்", "காவடியாட்டம்", "மலேசியத் தமிழ் நடனம்", "Tamil folk dances Malaysia", "Karagattam", "Oyilattam"]
+framework: history-culture
 ---
 
 Vào một ngày lễ hội đền thờ, khi tiếng trống thavil dồn dập và tiếng kèn nadaswaram

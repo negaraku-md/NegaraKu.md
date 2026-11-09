@@ -69,6 +69,7 @@ keywords:
   - "cabutan sijil kelahiran"
   - "JPN.LM01"
   - "JPN.LM12"
+framework: how-to
 ---
 
 许多新手父母把登记孩子的出生当作可以拖延到有空才办的免费文书工作。这确实是免费的——但仅限于**头60天**。过了这段期限，JPN会把申请归类为迟延登记，须缴付RM50费用，而须携带的文件清单也会变得更长。以下根据国民登记局（Jabatan Pendaftaran Negara，JPN）的官方门户网站，说明此手续实际上是如何运作的。

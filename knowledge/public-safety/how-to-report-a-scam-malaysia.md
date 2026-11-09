@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["staying-safe-scams-and-emergencies", "duitnow-qr-payments", "opening-bank-account", "consumer-rights-and-tribunal"]
 keywords: ["cara lapor penipuan Malaysia", "talian 997 NSRC", "Pusat Respons Penipuan Kebangsaan", "SemakMule PDRM", "CCID Infoline 013-211 1222", "bekukan akaun penipu", "scam call center Malaysia", "laporan jenayah kewangan"]
+framework: how-to
 ---
 
 Baki dalam aplikasi perbankan anda tiba-tiba berkurang, atau anda baru sahaja

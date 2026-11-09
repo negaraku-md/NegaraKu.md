@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "having-a-baby-in-malaysia" }
 related: ["klinik-kesihatan", "having-a-baby-in-malaysia"]
 keywords: ["imunisasi kanak-kanak Malaysia", "Jadual Imunisasi Kebangsaan", "Program Imunisasi Kebangsaan KKM", "vaksin percuma klinik kesihatan", "buku rekod kesihatan bayi dan kanak-kanak", "vaksin kanak-kanak KKM", "Immunise4Life Malaysia", "imunisasi percuma Malaysia"]
+framework: explainer
 ---
 
 ทารกทุกคนที่เกิดในคลินิกหรือโรงพยาบาลของรัฐในมาเลเซียกลับบ้านพร้อมกับสิ่งที่มากกว่าเพียงสูติบัตรชั่วคราว — พวกเขากลับบ้านพร้อมกับสมุดเล่มเล็กที่จะถูกนำไปยัง *ทุก* การมาคลินิกในหกปีข้างหน้า สมุดเล่มนั้น และตารางการฉีดที่บันทึกไว้ในนั้น เป็นส่วนหนึ่งของหนึ่งในโครงการสาธารณสุขที่ดำเนินการมายาวนานที่สุดของประเทศ

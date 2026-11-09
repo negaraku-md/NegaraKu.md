@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "losses-and-group-relief" }
 related: ["income-tax-in-malaysia", "form-c-and-cp204", "company-tax-residence", "losses-and-group-relief"]
 keywords: ["Malaysia corporate tax rate", "SME tax rate Malaysia", "kadar cukai syarikat", "corporate tax 2026", "cukai pendapatan syarikat"]
+framework: rules
 ---
 
 대부분의 안내서는 중소기업 세율이 15%에서 시작한다고 말하고 거기서 멈춥니다. 흥미로운 질문은 세율이 아니라 — 귀사가 여전히 자격을 갖추는지 여부입니다. **네 가지 별개의 판정이 귀사를 배제할 수 있으며**, 그중 하나는 2024년도에 추가되어 대부분의 공표된 지침에 빠져 있기 때문입니다.

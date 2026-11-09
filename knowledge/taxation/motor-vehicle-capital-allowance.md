@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "benefits-in-kind" }
 related: ["benefits-in-kind", "corporate-tax-rates"]
 keywords: ["motor vehicle capital allowance Malaysia", "RM50000 RM100000 car capital allowance", "Schedule 3 paragraph 2(2)", "company car tax deduction Malaysia", "EV lease tax deduction Malaysia"]
+framework: rules
 ---
 
 A company buys a RM320,000 executive saloon, books it as plant, and expects

@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["service-tax-act-2018", "withholding-tax-digital-services", "low-value-goods-sales-tax", "sst-registration"]
 keywords: ["service tax on digital services", "SToDS Malaysia", "digital service tax Malaysia 8%", "foreign registered person FRP", "MySToDS DST-01 DST-02", "cukai perkhidmatan digital", "foreign SaaS tax Malaysia", "online services service tax"]
+framework: explainer
 ---
 
 La ligne sur votre reçu Netflix, la taxe sur la facture AWS de votre entreprise, les quelques ringgits supplémentaires sur un abonnement Canva ou Adobe — c'est une taxe malaisienne bien précise à l'œuvre, et elle porte un nom que la plupart des gens n'ont jamais entendu : la SToDS.

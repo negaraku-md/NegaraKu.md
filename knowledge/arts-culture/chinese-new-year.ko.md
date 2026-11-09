@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["population-composition", "religion-statistics", "languages-spoken", "batik"]
 keywords: ["农历新年", "华人新年", "春节", "团圆饭", "红包", "压岁钱", "舞狮", "捞生", "鱼生", "十五暝", "Chap Goh Meh", "开放门户", "马来西亚华人", "公共假期", "Chinese New Year Malaysia"]
+framework: history-culture
 ---
 
 섣달그믐 그날, 많은 상점이 일찍 문을 닫고 고속도로는 고향으로 향하는 차로 가득 찹니다. 밤이 되면 온 가족이 한 상에 둘러앉습니다 — 상에는 생선(해마다 넉넉함을 뜻함), 통닭 한 마리, 단란함을 상징하는 완자, 그리고 젓가락으로 높이 집어 올리는 위성 무침이 오릅니다. 이 섣달그믐 만찬을 적지 않은 말레이시아 화인 가정이 정월 초하루 자체보다 더 중히 여깁니다.

@@ -70,6 +70,7 @@ verificationNeeded:
   - "NHẠY CẢM: đụng chạm đến hậu quả ngày 13 tháng 5 năm 1969 và Chính sách Kinh tế Mới / chính sách Mã Lai–Bumiputera (sắc tộc). Được tóm lược một cách trung lập; cần kiểm chứng lại với các nguồn sơ cấp và đòi hỏi sự phê duyệt của một người rà soát trước khi xuất bản."
   - "Xác nhận các niên đại chính xác (nhiệm kỳ thủ tướng, ngày sinh, ngày mất) với Perdana Leadership Foundation và Văn phòng Thủ tướng."
   - "Các nguồn khác nhau về năm thành lập Barisan Nasional (liên minh định hình năm 1973 và được đăng ký chính thức năm 1974); xác nhận niên đại và cách diễn đạt chính xác trước khi dựa vào nó."
+framework: profile
 ---
 
 Chỉ trong khoảng vài năm đầy biến động, Tun Abdul Razak Hussein đã chuyển từ người trông coi theo hiến pháp của một quốc gia dưới sự cai trị khẩn cấp thành kiến trúc sư trưởng của trật tự kinh tế hiện đại của nó. Thủ tướng thứ hai của Malaysia cầm quyền chỉ vỏn vẹn năm năm, thế nhưng khuôn khổ ông dựng nên — một nền kinh tế hành động khẳng định, một liên minh thống trị và một chính sách đối ngoại thực dụng — đã định hình đất nước trong nhiều thập niên sau cái chết đột ngột của ông khi đang tại nhiệm. Đối với nhiều người Malaysia, ông vẫn đơn giản là **Bapa Pembangunan**, Cha của Sự Phát triển.

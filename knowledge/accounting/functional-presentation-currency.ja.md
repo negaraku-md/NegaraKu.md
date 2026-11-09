@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "financial-statement-pack" }
 related: ["accounting-standards-index", "financial-statement-pack", "financial-reporting-deadlines"]
 keywords: ["functional currency", "presentation currency", "MFRS 121", "IAS 21", "foreign currency translation", "MYR reporting", "MBRS", "foreign exchange"]
+framework: explainer
 ---
 
 クアラルンプールで設立されたマレーシアの会社が、それでも米ドルで帳簿を付けることは可能であり——しかもそれは完全に正しい。マレーシアの事業体だからという理由でリンギットで報告すると思い込んでいる人々にとって、これは意外なことである。MFRS 121のもとでは、計測に用いる通貨は地理の問題ではなく経済的事実の問題であり、一方で表示に用いる通貨は、それ自体の答えを持つ別個の問題である。

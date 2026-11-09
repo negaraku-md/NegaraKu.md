@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "foreign-exchange-policy-malaysia" }
 related: ["foreign-exchange-policy-malaysia", "foreign-ownership-malaysia"]
 keywords: ["rapatrier bénéfices Malaisie", "repatriate profits malaysia", "retenue à la source sur dividendes Malaisie", "dividend withholding tax malaysia", "système à palier unique Malaisie", "single tier system malaysia", "impôt de 2% sur dividendes Malaisie", "2% dividend tax malaysia", "remettre les bénéfices à la société mère"]
+framework: explainer
 ---
 
 Les fondateurs étrangers arrivent en s'attendant à une retenue à la source sur les dividendes, parce que

@@ -80,6 +80,7 @@ relations:
   - { rel: "requires", to: "special-resolution" }
 related: ["companies-act-2016", "company-limited-by-guarantee-malaysia"]
 keywords: ["perlembagaan syarikat", "company constitution", "resolusi khas", "seksyen 32", "seksyen 36", "entrenchment", "Akta Syarikat 2016", "SSM"]
+framework: how-to
 ---
 
 Sebuah Sdn Bhd boleh beroperasi bertahun-tahun tanpa satu pun dokumen bertajuk "perlembagaan" — dan itu sah sepenuhnya di sisi undang-undang Malaysia. Akta Syarikat 2016 menjadikan perlembagaan pilihan bagi kebanyakan syarikat, satu peralihan besar daripada zaman Memorandum dan Tataurusan (M&A) yang wajib. Persoalannya bukan lagi "apa yang mesti ada dalam perlembagaan kami", tetapi "adakah kami perlukan satu, dan jika ya, bagaimana kami memakainya, memindanya, atau menguncinya?"

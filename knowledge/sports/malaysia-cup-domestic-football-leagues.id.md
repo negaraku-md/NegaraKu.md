@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "malaysia-national-football-team" }
 related: []
 keywords: ["Liga Super", "Piala Malaysia", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "bola sepak Malaysia"]
+framework: explainer
 ---
 
 Selama hampir satu abad, badan tunggal — Persatuan Sepak Bola Malaysia (FAM) — menyelenggarakan setiap pertandingan liga negara. Kemudian, dalam satu langkah yang mengubah bentuk olahraga tersebut, kewenangan untuk menjalankan liga diserahkan kepada sebuah perusahaan komersial. Inilah dasar dari cara sepak bola domestik Malaysia bekerja hari ini.

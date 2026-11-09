@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-registration", "sst-02-filing", "sst-rate-table"]
 keywords: ["imported taxable services", "SST-02A", "section 26A service tax", "service tax on foreign services Malaysia", "self-accounting service tax"]
+framework: rules
 ---
 
 これはSST制度全体の中で最も見落とされやすい義務であり、その理由は構造的なものである。**登録しておらず、また登録する必要も一切ない**企業に課される、唯一のサービス税義務だからである。

@@ -92,6 +92,7 @@ verificationNeeded:
   - "Nguồn gốc của otak-otak (thường được truy về Palembang, Nam Sumatra, và được mô tả là sự pha trộn Mã Lai–Peranakan) — tuyên bố này gây tranh cãi giữa Indonesia, Malaysia và Singapore; hãy xác minh với một nguồn lịch sử ẩm thực hoặc di sản chứ không phải truyền thông nhà hàng hay công thức nấu ăn."
   - "Nguồn gốc dân gian của từ 'otak' ('bộ não', từ vẻ ngoài giống não của hỗn hợp) — hãy xác minh với một nguồn ngôn ngữ học hoặc từ điển học chứ không phải truyền thông ẩm thực."
   - "Liệu hạt nến (buah keras) có thuộc hỗn hợp gia vị rempah tiêu chuẩn của otak-otak hay không — một số công thức có nó còn những công thức khác (ví dụ công thức Nyonya Cooking được trích dẫn) thì không; hãy xác minh thành phần bột gia vị điển hình với một nguồn ẩm thực Peranakan."
+framework: explainer
 ---
 
 Mở một gói otak-otak ra, điều đầu tiên bạn gặp là mùi hương: lá chuối cháy sém,

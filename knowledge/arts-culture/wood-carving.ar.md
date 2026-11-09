@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "pewter" }
 related: ["songket", "jawi-script", "pewter", "terengganu", "kelantan"]
 keywords: ["ukiran kayu", "النحت على الخشب الملايوي", "ukiran kayu Melayu", "awan larat", "أوان لارات", "Desa Ukiran Kayu Besut", "زخارف النحت على الخشب", "kraf kayu Terengganu"]
+framework: history-culture
 ---
 
 تأمّل عن قُرب اللوح الخشبي في نافذة بيت ملايوي قديم، وحاول أن تجد أين يبدأ النمط. لن تجده. وليس ذلك خطأ عينيك — فهكذا صُمّم.

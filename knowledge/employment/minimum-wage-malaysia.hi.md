@@ -108,6 +108,7 @@ relations:
   - { rel: "related-to", to: "payroll-rates-deadlines-malaysia" }
 related: ["labour-law-map-malaysia", "employment-act-1955", "payroll-rates-deadlines-malaysia", "payroll-compliance-malaysia"]
 keywords: ["मलेशिया न्यूनतम मज़दूरी 2026", "RM1700 gaji minimum", "मलेशिया प्रति-घंटा न्यूनतम मज़दूरी", "Employment Act धारा 19", "वैध कटौतियाँ धारा 24", "Minimum Wages Order 2024"]
+framework: rules
 ---
 
 दर जानना आसान हिस्सा है। जो नियोक्ता अगले महीने की 20 तारीख़ को RM1,700 का भुगतान करता है, एक टूटे लैपटॉप के लिए एक सप्ताह का वेतन काटने के बाद, वह Minimum Wages Order का पालन कर चुका है और Employment Act का दो बार उल्लंघन कर चुका है।

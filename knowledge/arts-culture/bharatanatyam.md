@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["tamil-in-malaysia", "deepavali", "thaipusam"]
 keywords: ["Bharatanatyam", "Indian classical dance Malaysia", "Temple of Fine Arts", "Sutra Dance Theatre", "Ramli Ibrahim", "Malaysian Indian dance", "nritta nritya", "Carnatic music", "Malaysia Barathanatyam Dance Association"]
+framework: history-culture
 ---
 
 A dancer's feet strike the floor in a rapid, precise pattern. Bells ring in time with the beat of a mridangam drum. Her hands form a shape — a deer, a lotus, a question — and her eyes follow it before her face answers with an emotion the audience is meant to feel, not just watch. Then the rhythm resolves, she holds a sculptural pose, and the music drops to silence.

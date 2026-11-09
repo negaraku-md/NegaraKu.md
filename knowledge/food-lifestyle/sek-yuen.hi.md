@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#SekYuen", "#BibGourmand", "#MichelinGuide", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Jalan Pudu पर Sek Yuen की बीच वाली दुकान में क़दम रखिए और दशकों की छाप दिख जाती है —

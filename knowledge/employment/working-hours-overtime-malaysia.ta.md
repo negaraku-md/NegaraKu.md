@@ -88,6 +88,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage", "minimum-wage-malaysia"]
 keywords: ["overtime pay malaysia", "overtime rate malaysia", "45 hour week malaysia", "rest day pay malaysia", "public holiday pay malaysia", "104 hours overtime"]
+framework: rules
 ---
 
 பெரும்பாலான மேலதிக நேர வழிகாட்டிகள் "சாதாரணத்திற்கு 1.5×, ஓய்வு நாளுக்கு 2×, பொது விடுமுறைக்கு 3×" என்பதில் நின்றுவிடுகின்றன. அந்த சுருக்கம் ஓய்வு நாள் மற்றும் பொது விடுமுறை விஷயத்தில் தவறானது, மேலும் தொழிலாளர் அதிகாரிகள் உண்மையில் அறிவிப்புகளை வழங்கும் விஷயத்தை அது விட்டுவிடுகிறது: **அதைச் செலுத்துவதற்கான காலக்கெடு.**

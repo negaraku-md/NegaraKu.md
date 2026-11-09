@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#NamHeong", "#ChickenRice", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Jalan Sultan-இல், கோலாலம்பூரின் பழைய நகரின் பரபரப்பிற்கு நடுவே, வாசனையான சோற்றின்

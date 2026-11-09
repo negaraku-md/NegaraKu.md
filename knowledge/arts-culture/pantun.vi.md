@@ -74,6 +74,7 @@ social:
 verificationNeeded:
   - "Thời điểm chính xác về nguồn gốc của nghệ thuật làm pantun không thể xác định; quan điểm học giả mạnh nhất gắn nó với khoảng thế kỷ 15, tức trước Sejarah Melayu (~1612). Con số này vẫn còn được tranh luận và không phải là niên đại dứt khoát."
   - "Giới hạn độ dài tối đa của pantun khổ dài khác nhau giữa các nguồn (một số nêu lên tới 16 dòng, một số khác lên tới khoảng 22 dòng); con số chính xác không thống nhất."
+framework: history-culture
 ---
 
 > Pisang emas dibawa belayar, *(Chuối vàng mang theo khi dong buồm,)*

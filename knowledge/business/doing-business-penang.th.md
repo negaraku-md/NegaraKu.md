@@ -119,6 +119,7 @@ keywords:
   - "Penang signboard Bahasa Malaysia rule"
   - "PDC industrial land Penang"
   - "Bayan Lepas free industrial zone"
+framework: profile
 ---
 
 คำถามแรกเกี่ยวกับการทำธุรกิจในปีนังไม่ใช่จะจดทะเบียนอะไร มันคือคุณอยู่ฝั่งใดของช่องแคบ

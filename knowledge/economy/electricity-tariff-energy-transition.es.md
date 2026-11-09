@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "renewable-energy-malaysia" }
 related: ["tenaga-nasional"]
 keywords: ["tarifa eléctrica", "tarif elektrik", "RP4", "AFA", "NETR", "Comisión de Energía", "Suruhanjaya Tenaga", "TNB", "energía renovable", "transición energética", "subsidio eléctrico"]
+framework: explainer
 ---
 
 Tu factura eléctrica ahora tiene otro aspecto — y no es un error de impresión. Desde el 1 July 2025, cada kilovatio-hora que fluye hacia los hogares y las fábricas de Malasia se calcula con una fórmula mucho más detallada, resultado de una importante reforma del sector eléctrico. Este cambio no es simplemente una cuestión de costes de la factura; está estrechamente ligado a la dirección del país hacia la energía renovable.

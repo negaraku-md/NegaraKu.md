@@ -76,6 +76,7 @@ faq:
     a: Bagi kebanyakan akaun simpanan atau semasa yang mudah, satu-satunya dokumen wajib bagi warganegara atau penduduk tetap ialah MyKad asal. Menurut keperluan yang diterbitkan oleh CIMB, bukti tambahan seperti surat pekerjaan, penyata KWSP (EPF), slip gaji atau penyata bank terkini hanya diminta dalam situasi tertentu, seperti akaun bertaraf lebih tinggi atau apabila alamat yang anda mahu direkodkan berbeza daripada yang tercetak pada MyKad anda. Kanak-kanak bawah umur memerlukan sijil kelahiran serta MyKad ibu bapa atau penjaga.
   - q: Mengapa bank meminta dokumen yang berbeza bergantung pada jenis visa saya?
     a: Kerana bank mengaitkan dokumen sokongan dengan sebab khusus anda berada di Malaysia, iaitu apa yang disahkan oleh pas anda. Berdasarkan keperluan yang diterbitkan oleh CIMB, warga asing yang bekerja dengan Pas Penggajian (Employment Pass) biasanya diminta surat pekerjaan dan bukti gaji bulanan melebihi ambang bank (CIMB menyatakan RM10,000); pemegang Pas Pelajar (Student Pass) diminta kad pelajar dan surat pendaftaran; dan pemegang Pas Tanggungan (Dependant Pass) diminta sijil perkahwinan jika berkenaan. Semuanya memerlukan pasport dan pas yang sah untuk sekurang-kurangnya enam bulan.
+framework: how-to
 ---
 
 Seorang warganegara Malaysia melangkah masuk ke sebuah cawangan dengan MyKad,

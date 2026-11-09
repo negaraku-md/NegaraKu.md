@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "hs-code-classification-malaysia" }
 related: ["sales-and-service-tax"]
 keywords: ["import licence Malaysia", "export permit Malaysia", "Approved Permit AP", "SIRIM import permit", "MAQIS permit", "customs registration Malaysia", "ePermit", "uCustoms", "MyTRADELINK"]
+framework: rules
 ---
 
 당신의 컨테이너가 포트클랑(Port Klang)에 놓인 채 움직이지 않습니다 — 송장과 적하목록 사이 어딘가에서 허가서 하나가 빠져 있기 때문입니다. 말레이시아에는 벽에 걸어둘 만한 단일 "수출입 허가"가 없습니다. 물품을 통관시키는 것은 등록과 승인의 *스택(stack)*으로, 각각은 서로 다른 기관이 소유하고, 각각은 당신이 실제로 무엇을 선적하는지에 연동됩니다.

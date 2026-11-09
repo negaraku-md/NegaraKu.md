@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "epf-socso-employees" }
 related: ["lhdn", "tax-clearance", "offboarding-statutory-checklist", "employment-pass-malaysia", "moving-to-malaysia-first-steps", "epf-socso-employees"]
 keywords: ["التسوية الضريبية في ماليزيا", "خطاب التسوية الضريبية", "نموذج CP21", "مغادرة ماليزيا التسوية الضريبية", "tax clearance Malaysia", "Surat Penyelesaian Cukai", "SPC LHDN", "CP21 form Malaysia", "e-SPC MyTax", "EPF leaving country withdrawal"]
+framework: rules
 ---
 
 سلّمت استقالتك، وحجزت الرحلة، وبدأت توزيع أثاثك. ثم يطلب منك قسم الموارد البشرية شيئاً لم تسمع به من قبل: خطاب تسوية ضريبية. فمن دونه، لا يتحرك جزء من راتبك الأخير — ولست أنت من يُفترض أن يطلبه أصلاً.

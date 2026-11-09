@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
 related: []
 keywords: ["squash", "Nicol David", "SRAM", "Malaysian squash", "Ng Eain Yow", "Sivasangari Subramaniam", "World Open"]
+framework: profile
 ---
 
 เป็นเวลาเก้าปีติดต่อกัน นักสควอชที่ดีที่สุดในโลกมาจากปีนัง Nicol David ไม่เพียงชนะในกีฬาประเภทเดี่ยวที่ประสบความสำเร็จที่สุดของมาเลเซีย เธอเขียนใหม่ว่าการครองในกีฬานี้มีหน้าตาอย่างไร ครองอันดับมือหนึ่งของโลก **108 เดือนติดต่อกัน** จนถึงเดือนกันยายน 2015 การครองที่ไม่ขาดตอนยาวนานที่สุดที่กีฬานี้เคยเห็น

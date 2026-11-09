@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
 related: []
 keywords: ["subsidi baja padi", "SBPKP", "SIPP", "insentif pengeluaran padi", "subsidi pertanian", "bantuan input pesawah"]
+framework: explainer
 ---
 
 The sack of fertiliser a paddy farmer shoulders to the field that morning was not bought with his own money — it arrived free of charge, borne by the Federal Government for decades. This is the true face of Malaysia's agricultural subsidy for paddy: not a cheque or money deposited into an account, but fertiliser, pesticides and incentives that cover a large share of the cost at the farm.

@@ -105,6 +105,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.245"
     consequence: "최대 RM500,000의 벌금 또는 최대 3년의 징역 또는 병과"
+framework: rules
 ---
 
 Practice Directive 10/2024에 관한 두 번째 게시물마다 같은 문구를 팝니다. 즉,

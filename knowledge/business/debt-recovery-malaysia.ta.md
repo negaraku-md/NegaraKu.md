@@ -104,6 +104,7 @@ keywords:
   - "winding up petition unpaid debt Malaysia"
   - "limitation period debt Malaysia"
   - "tuntutan hutang syarikat"
+framework: how-to
 ---
 
 ஒரு மலேசிய வர்த்தகக் கடனை மீட்பது குறித்த பெரும்பாலான அறிவுரைகள் ஒரே ஒரு சொல்லில் சரிந்துவிடுகின்றன: வழக்குத் தொடுங்கள். அது ஏணியில் மிக விலையுயர்ந்த படி, மேலும் பொதுவாக முதலில் அணுகுவதற்குத் தவறான ஒன்று.

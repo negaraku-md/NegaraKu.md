@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "traditional-chinese-medicine-in-malaysia" }
 related: ["tamil-in-malaysia", "estate-tamil-community", "traditional-chinese-medicine-in-malaysia", "hinduism-in-malaysia"]
 keywords: ["சித்த மருத்துவம்", "Siddha medicine", "மலேசியா சித்த மருத்துவம்", "Siddha medicine Malaysia", "பாரம்பரிய இந்திய மருத்துவம்", "சித்தர்கள்", "அகத்தியர்", "மூலிகை மருத்துவம்", "பாரம்பரிய மற்றும் நிரப்பு மருத்துவச் சட்டம் 2016", "Act 775"]
+framework: history-culture
 ---
 
 Trên những vùng đất đồn điền cũ của Malaysia, và trên những con phố Tamil ở các thị trấn, bạn có thể bắt gặp một hiệu thuốc thảo dược — các loại thảo dược khô, bột thuốc (choornam) và dầu xếp thành hàng dài trên kệ. Đây không phải là sự ngẫu nhiên; chúng là dấu vết của một truyền thống y học đã hơn một thế kỷ rưỡi.

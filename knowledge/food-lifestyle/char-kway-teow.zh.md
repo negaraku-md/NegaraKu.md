@@ -97,6 +97,7 @@ social:
     - "#PenangFood"
     - "#MalaysianFood"
     - "#StreetFood"
+framework: explainer
 ---
 
 很少有哪一盘菜能像炒粿条这样，如此完整地概括马来西亚的街头美食：一团宽身粿条在

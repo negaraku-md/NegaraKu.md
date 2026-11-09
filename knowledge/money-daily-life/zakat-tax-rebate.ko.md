@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "zakat-pendapatan" }
 related: []
 keywords: ["zakat rebat cukai", "Seksyen 6A", "Akta Cukai Pendapatan 1967", "rebat cukai zakat LHDN", "zakat vs pelepasan cukai", "badan zakat negeri"]
+framework: explainer
 ---
 
 자카트 RM1,000을 내면, 당신의 소득세가 정확히 RM1,000 줄어듭니다 — 다른 대부분의 세금 공제처럼 그 일부만이 아니라 말입니다. 바로 그 차이가 말레이시아 무슬림 납세자를 늘 헷갈리게 하며, 그것은 한 단어에 달려 있습니다. 즉 *소득공제*가 아니라 *세액공제*입니다.

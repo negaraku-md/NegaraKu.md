@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: ["federal-constitution", "melaka-sultanate", "independence-1957"]
 keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Kebangsaan 1963/67", "tulisan Jawi Rumi", "Ejaan Rumi Baharu 1972"]
+framework: explainer
 ---
 
 Di Kuala Berang, Terengganu, ditemukan sebuah prasasti batu yang padanya terpahat perkataan Melayu — bukan dalam huruf yang kita kenali hari ini, tetapi dalam aksara Arab yang disesuaikan untuk bunyi Melayu. Menurut Arkib Negara Malaysia, prasasti itu bertarikh 1303 Masihi.

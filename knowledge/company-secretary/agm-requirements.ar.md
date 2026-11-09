@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "financial-statements-lodgement" }
 related: ["financial-statements-lodgement", "extension-of-time-ssm", "resolution-notice-periods", "sdn-bhd-filing-calendar", "egm-requisition"]
 keywords: ["الجمعية العمومية السنوية ماليزيا", "AGM Malaysia", "جمعية عمومية سنوية Sdn Bhd", "المادة 340 قانون الشركات 2016", "section 340 Companies Act 2016", "هل تحتاج الشركة الخاصة إلى جمعية عمومية سنوية", "الموعد النهائي للجمعية العمومية ستة أشهر"]
+framework: rules
 ---
 
 «لم تعد شركات Sdn Bhd بحاجة إلى جمعيات عمومية سنوية» هي العبارة المعتادة، وهي

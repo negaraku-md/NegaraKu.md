@@ -62,6 +62,7 @@ relations:
   - { rel: "explained-in", to: "registering-a-birth" }
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "registering-a-birth"]
 keywords: ["having a baby in Malaysia", "pregnancy Malaysia", "antenatal care Malaysia", "Pink Book pregnancy", "Rekod Kesihatan Ibu", "klinik kesihatan pregnant", "public vs private delivery Malaysia", "birth registration JPN", "maternity Malaysia", "government hospital delivery Malaysia"]
+framework: explainer
 ---
 
 Một que thử thai dương tính khởi động hai chiếc đồng hồ cùng một lúc, và hầu như không ai giải thích điều đó ngay từ đầu. Một chiếc đồng hồ liên quan đến bản thân thai kỳ — khi nào đăng ký, ở đâu, điều gì diễn ra ở mỗi lần khám. Chiếc còn lại chỉ bắt đầu sau khi em bé chào đời, và nó chẳng liên quan gì đến bệnh viện: đó là một thủ tục đăng ký pháp lý với một cơ quan hoàn toàn khác.

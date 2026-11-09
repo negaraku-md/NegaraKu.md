@@ -90,6 +90,7 @@ verificationNeeded:
   - "Nguồn gốc của rojak. Các tài liệu tra cứu truy nguyên từ và món ăn này về tiếng Java cổ (Zoetmulder suy ra từ anrujak/rinujak, 'băm thành miếng nhỏ'), nhưng ở dạng tồn tại tại Malaysia, món ăn mang tính liên văn hóa và không có người sáng tạo duy nhất hay mốc thời gian chắc chắn nào được ghi chép — hãy xác minh bằng nguồn lịch sử ẩm thực hoặc từ điển học, không phải truyền thông ẩm thực."
   - "Nguồn gốc và tuổi đời của riêng rojak Ấn Độ/mamak (pasembur). Các cây viết ẩm thực lưu ý rằng không có tài liệu tham chiếu chắc chắn về thời điểm hay nơi phiên bản mamak ra đời — đừng nêu ngày tháng hay người sáng tạo một cách chắc nịch."
   - "Mắm tôm lên men (hae ko) có được dùng phổ biến trong rojak trái cây hay không. Một số nguồn mô tả nước sốt chỉ gồm mắm tôm, đường, ớt và nước cốt chanh, với me hoặc tương hạt đen được một số hàng quán thêm vào; cách dùng và cách gọi hae ko cụ thể thay đổi — hãy xác minh với nguồn địa phương."
+framework: explainer
 ---
 
 Gọi "rojak" ở một quầy, bạn nhận được một mớ nguội gồm trái cây và quẩy phủ một lớp nước

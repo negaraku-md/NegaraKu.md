@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["federal-budget", "gdp-overview", "sovereign-credit-rating-malaysia", "subsidy-rationalisation-padu"]
 keywords: ["hutang persekutuan", "Akta 850", "Akta Tanggungjawab Fiskal", "hutang berkanun", "60% KDNK", "defisit fiskal", "MGS", "JRFL"]
+framework: explainer
 ---
 
 La deuda del Gobierno Federal de Malasia superó los RM1.3 billones en 2025 — y, sin embargo, la cifra citada con frecuencia del «64.7% del PIB» y el «límite del 60%» que a menudo se menciona miden en realidad dos cosas distintas. Entender esta distinción es clave para leer con precisión la salud fiscal del país.

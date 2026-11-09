@@ -70,6 +70,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["AnakBaba", "Peranakan", "BibGourmand", "MichelinGuideMalaysia", "Brickfields"]
+framework: profile
 ---
 
 Anak Baba என்பது Brickfields-இல் — கோலாலம்பூரின் Little India — உள்ள ஒரு பேரநாக்கன் (Peranakan) உணவகம்; இது [MICHELIN Guide Malaysia](/ta/food-lifestyle/michelin-guide-malaysia)-இல் Bib Gourmand-உடன் இடம்பெறுகிறது. MICHELIN Guide இதை ஒரு "இதமான சிறிய ரத்தினம்" என்று அழைக்கிறது.

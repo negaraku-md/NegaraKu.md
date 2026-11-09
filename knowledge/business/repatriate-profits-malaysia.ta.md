@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "foreign-exchange-policy-malaysia" }
 related: ["foreign-exchange-policy-malaysia", "foreign-ownership-malaysia"]
 keywords: ["repatriate profits malaysia", "dividend withholding tax malaysia", "single tier system malaysia", "2% dividend tax malaysia", "remit profits to parent company"]
+framework: explainer
 ---
 
 அயல்நாட்டு நிறுவனர்கள் ஒரு பங்காதாய தடுப்பு வரியை எதிர்பார்த்தே வருகிறார்கள், ஏனெனில்

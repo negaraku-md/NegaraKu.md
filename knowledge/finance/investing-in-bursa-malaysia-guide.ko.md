@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "unit-trust-funds-malaysia" }
 related: ["bursa-malaysia", "securities-commission-malaysia", "unit-trust-funds-malaysia"]
 keywords: ["CDS account", "Bursa Anywhere", "stockbroker Malaysia", "how to buy shares", "brokerage fees", "clearing fee", "stamp duty shares"]
+framework: how-to
 ---
 
 Maybank이나 Tenaga의 한 조각을 소유하는 일은 계좌 하나가 아니라 둘로 시작하며 — 그중 어느 것도 은행 계좌가 아닙니다. Bursa Malaysia에서 주식을 한 주라도 사기 전에, 주식을 *보관할* 곳과 *주문을 낼* 곳이 필요합니다. 이 둘이 어떻게 맞물리는지, 그리고 각 거래가 실제로 얼마나 드는지 다음과 같습니다.

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "going-concern-audit" }
 related: ["statutory-audit-process", "audit-opinion-types", "going-concern-audit"]
 keywords: ["related party transactions", "ISA 550", "MFRS 124", "arm's length", "Bursa Chapter 10", "recurrent related party transactions", "audit risk"]
+framework: explainer
 ---
 
 ஒரு நிறுவனம் தனது சொந்த பெரும் பங்குதாரருக்குச் சொந்தமான மற்றொரு நிறுவனத்திற்கு கச்சா பாமாயிலை விற்கிறது. அது ஒரு சாதாரண வழங்கல் ஏற்பாடா அல்லது சிறுபான்மை பங்குதாரர்களிடமிருந்து மதிப்பை வடிகட்டி எடுப்பதற்கான முதல் படியா என்பதை விலைப்பட்டியலில் எதுவும் சொல்லவில்லை. எது என்பதைக் கண்டறிவதே தணிக்கையாளரின் பணி — சரியாக அதற்காகத்தான் International Standard on Auditing 550, *Related Parties*, எழுதப்பட்டுள்ளது.

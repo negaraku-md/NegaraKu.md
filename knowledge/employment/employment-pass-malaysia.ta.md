@@ -128,6 +128,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: ["labour-law-map-malaysia", "employment-pass-founder-malaysia"]
 keywords: ["employment pass malaysia", "ep category 1 salary", "employment pass salary 2026", "esd registration", "myxpats", "expatriate malaysia", "employment pass renewal"]
+framework: rules
 ---
 
 2026 ஜூன் 1 அன்று, மலேசியாவில் ஒரு வெளிநாட்டு நிபுணரின் விலை உச்சியில் இரட்டிப்பானது.

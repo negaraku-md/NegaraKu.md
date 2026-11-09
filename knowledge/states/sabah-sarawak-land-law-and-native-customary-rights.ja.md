@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
 related: ["federal-constitution"]
 keywords: ["native customary rights", "NCR", "Sarawak Land Code", "Sabah Land Ordinance", "native title", "temuda", "pemakai menoa", "East Malaysia land law"]
+framework: explainer
 ---
 
 クアラルンプールで家を買えば、あなたの権原は一つの連邦成文法によって規律される。クチンやコタキナバルで同じことをすれば、あなたはまったく別の法律の世界に足を踏み入れることになる——独自の法令、独自の土地区分、そしていかなる紙の文書によっても創られなかった保有形態を持つ世界、すなわち先住民慣習権（Native Customary Rights）である。

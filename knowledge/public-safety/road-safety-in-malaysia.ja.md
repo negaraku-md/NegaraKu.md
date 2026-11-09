@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "driving-licence-in-malaysia" }
 related: []
 keywords: ["keselamatan jalan raya", "kemalangan jalan raya Malaysia", "pemanduan mabuk", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
+framework: explainer
 ---
 
 毎日、マレーシアの道路では約18人の命が失われている。この数字は、道路を国内で最も顕著な不慮の死の原因の一つとし、それに対処するために法律、カメラ、専門の機関が投入される主な理由となっている。

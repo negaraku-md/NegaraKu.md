@@ -91,6 +91,7 @@ relations:
   - { rel: "compares-with", to: "akpk-debt-management-programme" }
 related: []
 keywords: ["kebankrapan", "bankrap", "insolvensi", "Akta Insolvensi 1967", "MDI", "Ketua Pengarah Insolvensi", "pelepasan bankrap", "seksyen 33C", "AKPK", "DMP"]
+framework: explainer
 ---
 
 ใบแจ้งหนี้ที่ไม่ได้ชำระเพียงใบเดียวอาจจบลงด้วยคำสั่งศาลที่เปลี่ยนแปลงแทบทุกเรื่องทางการเงินของบุคคลหนึ่ง ตั้งแต่บัญชีธนาคารไปจนถึงการได้รับอนุญาตให้เดินทางออกนอกประเทศ ในมาเลเซีย เส้นแบ่งนั้นถูกกำหนดโดยกฎหมายฉบับเดียว: พระราชบัญญัติการล้มละลาย (Insolvency Act 1967 หรือ Act 360) บทความนี้อธิบายกระบวนการดังกล่าวในเชิงพรรณนา โดยไม่เข้าข้างมุมมองใด ๆ

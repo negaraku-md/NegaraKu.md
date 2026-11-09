@@ -101,6 +101,7 @@ relations:
   - { rel: "located-in", to: "johor" }
 related: ["tenaga-nasional", "johor"]
 keywords: ["data centre Malaysia", "centro de datos Malasia", "Johor data centre", "centro de datos Johor", "TNB data centre", "non-AI data centre restriction", "data sovereignty Malaysia", "soberanía de los datos", "National Cloud Computing Policy", "Green Lane TNB", "Johor water data centre"]
+framework: explainer
 ---
 
 En menos de tres años, una franja del sur de Johor al otro lado de la calzada desde

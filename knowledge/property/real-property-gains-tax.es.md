@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "stamp-duty" }
 related: []
 keywords: ["RPGT", "impuesto sobre ganancias de bienes inmuebles", "CKHT", "LHDN", "enajenación de propiedad", "tasa RPGT", "exención RPGT"]
+framework: rules
 ---
 
 Usted vende una casa con beneficio, pero antes de que el dinero llegue a su cuenta, el gobierno quiere su parte. Eso es el RPGT, un impuesto que los vendedores suelen pasar por alto hasta que el abogado retiene miles de ringgit en la mesa de liquidación.

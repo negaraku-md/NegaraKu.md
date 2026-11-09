@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "srivijaya" }
 related: ["melaka-sultanate", "langkasuka", "srivijaya", "independence-1957"]
 keywords: ["kesultanan Melayu", "sistem pembesar", "daulat", "waadat", "adat perpatih", "adat temenggung", "Bendahara", "Majlis Raja-Raja", "Yang di-Pertuan Agong", "raja berperlembagaan"]
+framework: explainer
 ---
 
 Imagine un Estado sin archivos, sin formularios, sin departamentos numerados. Las órdenes se transmitían de palabra, la justicia se pronunciaba en el balairung, y todo el orden de la sociedad descansaba sobre una sola palabra que no puede traducirse con precisión al lenguaje moderno: *daulat*. Ese era el mundo del sultanato malayo — un sistema que ordenó miles de vidas a lo largo de costas y ríos durante siglos, y cuya sombra todavía es visible hoy en la Constitución de Malasia.

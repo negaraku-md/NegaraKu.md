@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "financial-statement-pack" }
 related: ["accounting-standards-index", "financial-statement-pack", "financial-reporting-deadlines"]
 keywords: ["functional currency", "presentation currency", "MFRS 121", "IAS 21", "foreign currency translation", "MYR reporting", "MBRS", "foreign exchange"]
+framework: explainer
 ---
 
 บริษัทในมาเลเซียที่จดทะเบียนจัดตั้งในกัวลาลัมเปอร์ (Kuala Lumpur) ก็ยังสามารถจัดทำบัญชีเป็นดอลลาร์สหรัฐได้ และถูกต้องโดยสมบูรณ์ที่จะทำเช่นนั้น สิ่งนั้นทำให้คนที่สันนิษฐานว่ากิจการในมาเลเซียรายงานเป็นเงินริงกิตเพราะเป็นบริษัทมาเลเซียต้องแปลกใจ ภายใต้ MFRS 121 สกุลเงินที่ท่านใช้วัดมูลค่าเป็นคำถามของข้อเท็จจริงทางเศรษฐกิจ ไม่ใช่ภูมิศาสตร์ ในขณะที่สกุลเงินที่ท่านใช้นำเสนอเป็นคำถามแยกต่างหากที่มีคำตอบของตนเอง

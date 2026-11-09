@@ -93,6 +93,7 @@ relations:
   - { rel: "governs", to: "malaysia-para-athletics" }
 related: []
 keywords: ["Majlis Paralimpik Malaysia", "Paralympic Council Malaysia", "para sukan", "Sukan Paralimpik", "Bonnie Bunyau Gustin", "Cheah Liek Hou", "Abdul Latif Romly"]
+framework: explainer
 ---
 
 Cheah Liek Hou தனது SU5 பூப்பந்து தங்கத்தை Paris 2024-இல் தக்கவைத்தபோது, அந்த வெற்றி மலேசியாவின் பாரா விளையாட்டுக்கு இப்போது அவ்வப்போது வரும் சாதனை மட்டுமல்ல, மாறாக மிகவும் உறுதியான சாம்பியன்கள் அணி உள்ளது என்பதை உறுதிப்படுத்தியது. அந்தத் தருணத்தின் பின்னால், மிகவும் புகழ்பெற்ற ஒலிம்பிக் உலகிலிருந்து தனித்த ஒரு தனிப்பட்ட நிர்வாக அமைப்பு உள்ளது.

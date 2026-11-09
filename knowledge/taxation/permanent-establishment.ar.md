@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "dta-network" }
 related: ["dta-network", "company-tax-residence", "transfer-pricing-documentation", "withholding-tax-rates"]
 keywords: ["المنشأة الدائمة ماليزيا", "permanent establishment Malaysia", "المادة 12(3) قانون ضريبة الدخل", "section 12(3) Income Tax Act", "مكان العمل ضريبة ماليزيا", "الموظف عن بُعد منشأة دائمة ماليزيا", "الوكيل التابع PE ماليزيا"]
+framework: explainer
 ---
 
 تكتب ماليزيا قاعدة المنشأة الدائمة لديها مرتين، والنسختان لا تتطابقان. فالنسخة

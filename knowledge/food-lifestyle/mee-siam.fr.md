@@ -88,6 +88,7 @@ verificationNeeded:
   - "L'affirmation selon laquelle le mee siam serait arrivé à Singapour par la migration de familles chinoises du Détroit depuis Penang au début des années 1800 — à vérifier auprès d'une source historique."
   - "Si le tamarin est essentiel à chaque version : certains cuisiniers le remplacent ou le complètent par du jus de citron vert ou de citron, et la source habituelle de la note acide varie selon la recette. À vérifier : la base de sauce courante dans les styles humide et sec."
   - "La garniture standard (œuf dur, crevettes, tofu frit, ciboule, germes de soja, calamansi plutôt que citron vert) varie selon le cuisinier et la région — à vérifier : la composition malaisienne la plus typique."
+framework: explainer
 ---
 
 Commandez un « mee siam » et le résultat dépend de l'étal. Dans l'un, vous obtenez

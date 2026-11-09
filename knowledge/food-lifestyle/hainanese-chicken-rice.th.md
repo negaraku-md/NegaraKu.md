@@ -86,6 +86,7 @@ keywords:
   - "Ipoh chicken rice"
 social:
   hashtags: ["#HainaneseChickenRice", "#NasiAyam", "#ChickenRiceBalls", "#Melaka", "#MalaysianFood"]
+framework: history-culture
 ---
 
 สั่งข้าวมันไก่หนึ่งจานใน kopitiam (ร้านกาแฟดั้งเดิม) ของมาเลเซีย แล้วสามสิ่งจะมาถึง

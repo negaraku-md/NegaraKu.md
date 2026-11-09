@@ -79,6 +79,7 @@ relations:
   - { rel: "affects", to: "personal-tax-reliefs" }
 related: ["income-tax-in-malaysia", "pcb-mtd-malaysia", "personal-tax-reliefs", "personal-tax-rates", "which-tax-form"]
 keywords: ["PCB final tax", "monthly tax deduction Malaysia", "potongan cukai bulanan", "section 77C Income Tax Act", "do I need to file if PCB deducted", "PCB refund Malaysia"]
+framework: explainer
 ---
 
 매년 많은 수의 말레이시아 근로자가 조용히 소득세를 과다 납부하기로 선택합니다. 그들은

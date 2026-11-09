@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-new-year", "hungry-ghost-festival", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["清明节", "Cheng Beng", "扫墓", "拜山", "祭祖", "慎终追远", "金银纸", "纸扎", "后土", "土地公", "灵骨塔", "骨灰龛", "三保山", "Bukit Cina", "富贵山庄", "Qingming Festival", "Tomb-Sweeping Day"]
+framework: history-culture
 ---
 
 四月初めのある朝、墓地の小道に家族連れの姿が現れはじめる。バケツと鎌を提げる者、料理や果物、紙銭を詰めた籠を手にする者。自家の墓を見つけると、若い者がまず雑草を取り除き落ち葉を掃き、年長者が墓石の色あせた文字を一画ずつ塗り直すよう指図する。墓がきれいになってはじめて供え物を並べ、線香をともして拝み、最後にそばの空き地で金銀紙を焼く。煙と炎のなかで、年に一度の清明はこうして過ぎてゆく。

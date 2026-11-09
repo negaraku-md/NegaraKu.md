@@ -59,6 +59,7 @@ keywords: ["Brunei Sultanate", "Sultan Bolkiah", "Borneo empire", "Sarawak cessi
 social:
   hashtags: ["BruneiSultanate", "BorneoHistory", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded: []
+framework: history-culture
 ---
 
 Tenez-vous sur le front de mer de Bandar Seri Begawan aujourd'hui et Brunei paraît petit : un sultanat prospère et riche en pétrole enroulé autour de deux minces bandes de la côte de Bornéo, assez proches pour les traverser en voiture en une après-midi. On oublie aisément que c'est le fragment survivant d'un empire — qu'il y a cinq siècles un Sultan de Brunei pouvait réclamer tribut à des ports échelonnés le long de la majeure partie des rives septentrionales et occidentales de l'île, et que deux des États malaisiens que l'on peut atteindre d'ici par la route, le Sarawak et le Sabah, étaient autrefois siens à offrir. L'histoire de la façon dont un royaume maritime de Bornéo s'éleva, atteignit son apogée, puis remit ces côtes pièce par pièce, est l'un des fils essentiels de l'histoire malaisienne — même si Brunei lui-même ne fit jamais partie de la Malaisie.

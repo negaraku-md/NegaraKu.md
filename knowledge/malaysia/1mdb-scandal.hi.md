@@ -79,6 +79,7 @@ sources:
 
 related: ["2018-change-of-government", "barisan-nasional", "prime-ministers-of-malaysia"]
 keywords: ["1MDB", "1Malaysia Development Berhad", "Najib Razak", "Jho Low", "मलेशिया वित्तीय घोटाला"]
+framework: history-culture
 ---
 
 **1Malaysia Development Berhad (1MDB)** 2009 में, [नजीब रज़ाक](/malaysia/najib-razak) के

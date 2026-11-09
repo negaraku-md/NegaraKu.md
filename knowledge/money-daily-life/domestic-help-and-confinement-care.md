@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["imigresen", "employment-act-1955", "opening-bank-account"]
 keywords: ["hiring a maid in Malaysia", "foreign domestic helper Malaysia", "confinement nanny Malaysia", "confinement centre Malaysia", "pembantu rumah asing", "domestic worker rules Malaysia", "part time maid Malaysia", "postnatal care Malaysia"]
+framework: explainer
 ---
 
 A household hiring a live-in helper and a household booking a confinement centre for

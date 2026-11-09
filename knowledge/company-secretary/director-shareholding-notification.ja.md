@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "statutory-registers" }
 related: ["directors-duties", "statutory-registers", "register-of-members", "directors-report", "disclosure-of-interest"]
 keywords: ["section 219 Companies Act 2016", "director shareholding notification Malaysia", "register of directors shareholdings", "section 59 register Malaysia", "notis kepentingan saham pengarah", "director interest in shares 14 days"]
+framework: rules
 ---
 
 マレーシアの取締役に、自分の会社へ自己の持株について最後に書面で通知したのはいつかと尋ねれば、たいていぽかんとした顔をされるだろう。株式は会社設立時に彼に発行されたものだ。秘書役の登録簿にはそれが載っている。いったい何を通知するというのか。

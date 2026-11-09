@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "income-tax" }
 related: ["tax-audit"]
 keywords: ["siasatan cukai", "tax investigation", "LHDN", "Seksyen 114", "pengelakan cukai", "rangka kerja siasatan cukai", "audit cukai"]
+framework: explainer
 ---
 
 Ketika surat LHDN yang tiba bukan lagi meminta dokumen pendukung tetapi memberitahu bahwa premis Anda akan diperiksa, Anda mungkin sudah melewati garis antara audit dan investigasi. Keduanya melibatkan Lembaga Hasil Dalam Negeri (LHDN), tetapi hanya satu dari keduanya yang dapat membawa pada penuntutan di pengadilan pidana.

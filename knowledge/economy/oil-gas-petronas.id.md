@@ -83,6 +83,7 @@ relations:
   - { rel: "compares-with", to: "palm-oil-sector" }
 related: ["gdp-overview", "external-trade", "electronics-semiconductors", "palm-oil-sector"]
 keywords: ["Petroleum Development Act 1974", "Petronas ownership", "Malaysia oil and gas", "petroleum revenue federal budget", "Sarawak oil royalty", "Sabah petroleum cash payment", "Akta Kemajuan Petroleum 1974"]
+framework: explainer
 ---
 
 ## Sekilas pandang

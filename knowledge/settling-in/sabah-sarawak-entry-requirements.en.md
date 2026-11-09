@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "mykad-guide" }
 related: ["immigration-act-1959-63"]
 keywords: ["masuk sabah", "masuk sarawak", "imigresen sabah sarawak", "dokumen perjalanan terhad", "pas lawatan sosial", "MA63 imigresen"]
+framework: rules
 ---
 
 Fly from Kuala Lumpur to Kuching, and the moment you land there is an immigration counter waiting — within your own country. For many Peninsular Malaysians, this is the first time they show their identity card to an immigration officer without ever crossing an international border. This is not an administrative error. Sabah and Sarawak control their own immigration, and those rules apply to everyone, including Malaysian citizens.

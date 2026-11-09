@@ -84,6 +84,7 @@ faq:
     a: 'No. MOTAC allows a maximum withdrawal of 50% of the principal fixed deposit after approval, and only for specific purposes: purchasing the required residence, or education, medical treatment or tourism activities in Malaysia. It is a conditional release, not a general-use account. The remaining balance must stay in the Malaysian bank; foreign funds and profit earned on the deposit while it sits there carry a stated tax exemption.'
   - q: Who actually approves an MM2H application — MOTAC or Immigration?
     a: Both, in different roles. MOTAC runs the programme and sets each tier's requirements, but final immigration approval, endorsement of the pass and any appeal sit with the Ministry of Home Affairs through the Immigration Department (Jabatan Imigresen Malaysia). Applications are submitted by a licensed MM2H agent via the One Stop Centre. So contact MOTAC for tier-requirement questions and Immigration for approval or endorsement matters — two authorities, two jurisdictions.
+framework: explainer
 ---
 
 Search "how long does an MM2H Silver pass last" and you can find guides confidently

@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-registration", "sst-02-filing", "sst-rate-table"]
 keywords: ["imported taxable services", "SST-02A", "section 26A service tax", "service tax on foreign services Malaysia", "self-accounting service tax"]
+framework: rules
 ---
 
 이것은 전체 SST 제도에서 가장 흔히 놓치는 부채이며, 그 이유는 구조적입니다. **등록하지 않았고 결코 등록할 필요가 없는** 사업체에 떨어지는 유일한 서비스세 의무입니다.

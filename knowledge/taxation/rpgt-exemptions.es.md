@@ -72,6 +72,7 @@ relations:
   - { rel: "governs", to: "real-property-gains-tax-act-1976" }
 related: ["rpgt-rates", "capital-gains-tax", "capital-or-revenue"]
 keywords: ["RPGT exemption", "private residence exemption Malaysia", "CKHT 3", "CKHT 1A", "love and affection transfer", "RPGT family transfer"]
+framework: rules
 ---
 
 La desgravación del RPGT más valiosa de la ley puede usarse exactamente una vez, y la mayoría de la gente la gasta en la propiedad equivocada, normalmente la primera que vende, que rara vez es la de mayor ganancia.

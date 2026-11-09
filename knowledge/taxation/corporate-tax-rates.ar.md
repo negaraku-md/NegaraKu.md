@@ -111,6 +111,7 @@ relations:
   - { rel: "related-to", to: "losses-and-group-relief" }
 related: ["income-tax-in-malaysia", "form-c-and-cp204", "company-tax-residence", "losses-and-group-relief"]
 keywords: ["معدل ضريبة الشركات في ماليزيا", "معدل ضريبة المنشآت الصغيرة والمتوسطة في ماليزيا", "Malaysia corporate tax rate", "SME tax rate Malaysia", "ضريبة دخل الشركات"]
+framework: rules
 ---
 
 تخبرك معظم الأدلة بأن معدل المنشآت الصغيرة والمتوسطة (SME) يبدأ عند 15% وتتوقف

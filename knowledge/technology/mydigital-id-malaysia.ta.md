@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "pdpa-2010" }
 related: ["mykad", "jpn", "pdpa-2010"]
 keywords: ["mydigital id", "identiti digital nasional malaysia", "myniise", "myjpj mydigital id", "daftar mydigital id"]
+framework: explainer
 ---
 
 நீங்கள் அறியாமலேயே இதை ஏற்கனவே சந்தித்திருக்கலாம்: MyJPJ-ஐத் திறக்கும்போது அல்லது சாலை வரியைப் புதுப்பிக்க முயலும்போது தோன்றும் ஒரு புதிய உள்நுழைவுத் திரை. அதுதான் MyDigital ID; 2026 முழுவதும் அது விருப்பமான ஒன்றிலிருந்து அதிகரித்துவரும் அரசாங்க சேவைகளுக்கான ஒரே நுழைவாயிலாக மாறிவருகிறது.

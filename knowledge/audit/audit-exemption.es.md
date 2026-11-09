@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "financial-year-end" }
 related: ["audit-exemption-thresholds", "who-cannot-claim-audit-exemption", "dormant-company-audit-exemption", "after-audit-exemption"]
 keywords: ["exención de auditoría Malasia", "audit exemption Malaysia", "pengecualian audit syarikat", "Directiva de Práctica 10/2024", "Practice Directive 10/2024", "criterios de exención de auditoría SSM", "auditoría pequeña empresa Malasia"]
+framework: rules
 ---
 
 No toda Sdn Bhd necesita una auditoría anual. La prueba es más generosa de lo que

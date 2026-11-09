@@ -96,6 +96,7 @@ relations:
   - { rel: "governs", to: "personal-data-protection-act-2010" }
 related: ["pdpa-compliance-malaysia", "online-business-licence-malaysia"]
 keywords: ["data protection officer malaysia", "dpo malaysia", "section 12a pdpa", "pdpa dpo threshold", "appoint dpo malaysia"]
+framework: rules
 ---
 
 अधिकांश मलेशियाई व्यवसाय DPO सीमा पढ़ते हैं, «20,000 डेटा-विषय» देखते हैं, तय करते हैं कि वे उससे कहीं दूर हैं, और पढ़ना बंद कर देते हैं। तीसरा अंग एक पंक्ति और नीचे है, उसमें कोई संख्या बिल्कुल नहीं है, और आयुक्त का अपना व्याख्यात्मक उदाहरण एक ऑनलाइन दुकान है जो उत्पादों की अनुशंसा करती है।

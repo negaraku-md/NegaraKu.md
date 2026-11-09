@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "minute-books-and-records" }
 related: ["directors-duties", "minute-books-and-records", "loans-to-directors", "directors-fees-approval"]
 keywords: ["disclosure of interest Malaysia", "section 221 Companies Act 2016", "section 222 interested director", "conflict of interest director Sdn Bhd", "pengisytiharan kepentingan pengarah", "director interested in contract Malaysia"]
+framework: rules
 ---
 
 घोषणा की गई थी। कमरे में मौजूद हर किसी ने उसे सुना। दो वर्ष बाद एक अल्पमत शेयरधारक उस

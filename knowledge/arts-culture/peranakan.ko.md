@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["unesco-world-heritage", "batik"]
 keywords: ["Peranakan", "Baba-Nyonya", "Straits Chinese", "Nyonya cuisine", "Nyonya kebaya", "Melaka George Town heritage"]
+framework: history-culture
 ---
 
 믈라카 히런 스트리트(Heeren Street)의 오래된 타운하우스에 들어서면, 누가 한마디 하기도 전에 물건들이 이야기를 들려줍니다. 앞섶을 세 개짜리 금 브로치로 여민, 몸에 꼭 맞는 레이스 블라우스. 앞코가 수천 개의 작은 유리구슬로 덮여 한 알 한 알 손으로 꿰맨 슬리퍼 한 켤레. 중국식도 말레이식도 아닌 식사를 차린 긴 대리석 상판 식탁. 이것들은 페라나칸 — 바바-뇨냐 — 의 것이며, 두 세계 사이에 사는 데서 하나의 문화를 만들어 낸 공동체의 것입니다.

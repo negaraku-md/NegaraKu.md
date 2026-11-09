@@ -65,6 +65,7 @@ relations:
   - { rel: "part-of", to: "foreign-exchange-policy-malaysia" }
 related: ["foreign-exchange-policy-malaysia", "share-capital-malaysia"]
 keywords: ["emprunt en devises étrangères Malaisie", "foreign currency borrowing malaysia", "prêt d'actionnaire Malaisie BNM", "shareholder loan malaysia BNM", "limite prêt offshore Malaisie", "limite d'emprunt RM100 millions", "Avis FEP 2"]
+framework: rules
 ---
 
 Une maison mère étrangère veut financer sa filiale malaisienne par un prêt d'actionnaire en

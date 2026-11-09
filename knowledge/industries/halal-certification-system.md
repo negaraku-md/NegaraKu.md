@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "trade-descriptions-act-2011" }
 related: ["jakim"]
 keywords: ["pensijilan halal Malaysia", "SPHM", "JAKIM halal", "MYeHALAL", "MS 1500", "logo halal Malaysia", "sijil halal", "e-Cert halal", "Manual Prosedur Pensijilan Halal Malaysia", "skim pensijilan halal"]
+framework: how-to
 ---
 
 Logo halal berbentuk bintang berbucu lapan dengan tulisan Arab di tengahnya adalah antara tanda paling dikenali di rak pasar raya Malaysia — dan hanya satu pihak di seluruh negara yang berhak meletakkannya di situ. Bukan pengeluar produk, bukan penasihat swasta, dan bukan mana-mana badan pensijilan antarabangsa, tetapi kerajaan sendiri, melalui JAKIM dan rakan sejawatnya di peringkat negeri.

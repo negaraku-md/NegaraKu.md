@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "statutory-audit-requirement" }
 related: ["companies-act-2016", "malaysian-institute-of-accountants"]
 keywords: ["مدقق الحسابات المعتمد", "approved company auditor", "juruaudit syarikat diluluskan", "المادة 263", "seksyen 263", "رخصة التدقيق ماليزيا", "شهادة مزاولة المهنة MIA", "المحاسب العام"]
+framework: rules
 ---
 
 يمكن أن تكون محاسبًا قانونيًا باللقب الكامل، وأن تحمل شهادة في المحاسبة وسنوات من

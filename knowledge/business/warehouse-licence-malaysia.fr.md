@@ -81,6 +81,7 @@ social:
     - DoingBusinessInMalaysia
     - SupplyChain
     - MalaysiaTrade
+framework: explainer
 ---
 
 Posez la question «comment obtenir une licence d'entrepôt en Malaisie ?» et la première réponse honnête est une autre question : qu'allez-vous stocker, et pour qui ? Car il n'existe pas de «licence d'entrepôt» unique. Un simple dépôt pour vos propres marchandises est licencié par le conseil local comme n'importe quel autre local commercial. Un entrepôt sous douane qui conserve des marchandises importées avec le droit désactivé est licencié par la douane au titre d'une section précise de la Customs Act. Et une usine qui à la fois produit et stocke des marchandises pour l'exportation est une bête encore différente. Choisissez mal et, soit vous vous conformez de trop — en payant pour un cautionnement de la douane dont vous n'aviez jamais eu besoin — soit vous vous conformez de trop peu et on vous surprend avec des marchandises taxables sans licence.

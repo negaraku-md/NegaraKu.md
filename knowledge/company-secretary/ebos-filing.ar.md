@@ -101,6 +101,7 @@ relations:
   - { rel: "explained-in", to: "ebos" }
 related: ["beneficial-ownership", "bo-register", "ebos", "who-is-a-beneficial-owner", "annual-return"]
 keywords: ["إيداع e-BOS ماليزيا", "e-BOS filing Malaysia", "إيداع الملكية المنتفِعة SSM", "Practice Directive 9/2024", "SSM4U e-BOS", "الملكية المنتفِعة 14 يوماً"]
+framework: how-to
 ---
 
 الإيداع هو الجزء الذي يتذكره الجميع، لأنه يُنتِج إقراراً بالاستلام. ولهذا بالضبط هو

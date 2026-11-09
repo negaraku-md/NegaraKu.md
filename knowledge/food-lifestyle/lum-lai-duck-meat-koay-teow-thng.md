@@ -77,6 +77,7 @@ related:
   - "malaysian-noodles"
 social:
   hashtags: ["KoayTeowThng", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 Among George Town's duck-noodle stalls, one has become a magnet for queues: a

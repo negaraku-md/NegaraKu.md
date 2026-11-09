@@ -90,6 +90,7 @@ keywords:
   - "charcoal grilled skewers"
 social:
   hashtags: ["#Satay", "#SatayKajang", "#SatayCelup", "#MalaysianFood", "#Malaysia"]
+framework: explainer
 ---
 
 Yang datang lebih dulu adalah suaranya: sebuah kipas tangan mengebas di atas parit bara arang

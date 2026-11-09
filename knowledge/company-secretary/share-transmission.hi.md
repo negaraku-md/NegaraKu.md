@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "share-transfer" }
 related: ["share-transfer", "register-of-members", "stamp-duty-share-transfer", "beneficial-ownership"]
 keywords: ["शेयरों का संक्रमण मलेशिया", "शेयरधारक की मृत्यु के बाद शेयर", "धारा 109 Companies Act 2016", "probate शेयर Sdn Bhd", "दिवालियापन में न्यासी शेयर", "transmission of shares Malaysia", "section 109 Companies Act 2016"]
+framework: how-to
 ---
 
 दो-व्यक्ति वाली एक Sdn Bhd में एक शेयरधारक की मृत्यु हो जाती है। जीवित निदेशक सचिव से

@@ -55,6 +55,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["what is Malaysia", "federation of Malaysia", "13 states 3 federal territories", "elective monarchy Malaysia", "federal structure Malaysia", "Yang di-Pertuan Agong", "Federal Constitution"]
+framework: explainer
 ---
 
 Malaysia bukanlah satu tempat dengan satu pemerintah. Ia adalah sebuah federasi — sebuah negara tunggal yang dijalin dari tiga belas negeri dan tiga wilayah federal, terletak di atas dua daratan yang dipisahkan oleh beberapa ratus kilometer Laut Tiongkok Selatan. Memahami struktur itu lebih dahulu menjadikan hampir semua hal lain tentang negara ini lebih mudah dipahami.

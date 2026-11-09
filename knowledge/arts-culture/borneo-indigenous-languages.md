@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "kaamatan" }
 related: ["languages-spoken", "sabah", "sarawak", "gawai-dayak", "kaamatan", "orang-asli"]
 keywords: ["indigenous languages Sabah Sarawak", "Borneo languages", "Kadazandusun language", "Dusunic", "Murutic", "Paitanic", "Iban language", "Bidayuh", "Melanau", "Orang Ulu", "Austronesian", "North Bornean languages", "Sama-Bajau"]
+framework: explainer
 ---
 
 Fly over the interior of Borneo and you cross more languages in an hour than most countries hold in total. A river valley in Sabah's highlands, a longhouse on the upper Baram in Sarawak, a coastal fishing village — each may greet you in a tongue the next valley barely understands.

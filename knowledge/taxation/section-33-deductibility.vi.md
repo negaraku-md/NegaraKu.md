@@ -119,6 +119,7 @@ relations:
   - { rel: "related-to", to: "entertainment-expenses" }
 related: ["losses-and-group-relief", "form-c-and-cp204", "withholding-tax-non-compliance"]
 keywords: ["section 33 income tax act", "wholly and exclusively malaysia", "allowable business expenses malaysia", "tax deductible expenses sdn bhd", "section 33(1) deduction", "lhdn disallowed expenses"]
+framework: explainer
 ---
 
 Mọi hướng dẫn về các khoản khấu trừ kinh doanh Malaysia đều công bố một danh sách.

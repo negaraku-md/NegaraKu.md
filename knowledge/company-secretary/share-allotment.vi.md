@@ -116,6 +116,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["share-transfer", "register-of-members", "share-capital-malaysia", "capital-reduction", "beneficial-ownership"]
 keywords: ["share allotment Malaysia", "return of allotment 14 days", "section 75 Companies Act 2016", "pre-emptive rights section 85", "issue new shares Sdn Bhd"]
+framework: how-to
 ---
 
 Phát hành cổ phần mới trong một Sdn Bhd trông giống một quyết định của hội đồng. Nó không phải. Theo Companies

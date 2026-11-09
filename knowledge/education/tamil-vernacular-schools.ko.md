@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "estate-tamil-community" }
 related: ["chinese-education-in-malaysia", "tamil-in-malaysia", "estate-tamil-community", "languages-spoken", "population-composition"]
 keywords: ["தமிழ்ப் பள்ளி", "மலேசியா தமிழ்க் கல்வி", "SJKT", "தமிழ்வழி பள்ளி", "தோட்டப் பள்ளி", "மாணவர் தாய்மொழி POL", "Tamil vernacular schools Malaysia", "Sekolah Jenis Kebangsaan Tamil"]
+framework: explainer
 ---
 
 말레이시아의 어느 구석에서든 — 오래된 고무 농장의 가장자리나 도시의 변두리에서 — 작은 타밀어 학교를 볼 수 있다. 그 학교들 가운데 다수는 한 세기가 넘는 역사를 지니며, 단순한 건물이 아니라 한 공동체의 이주, 노동, 언어를 보여 주는 증인이다.

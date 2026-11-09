@@ -85,6 +85,7 @@ relations:
   - { rel: "explained-in", to: "federal-constitution-malaysia" }
 related: ["yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["raja melayu", "sultan", "yang di-pertuan besar", "raja perlis", "pewarisan takhta", "raja berperlembagaan", "adat perpatih", "perlembagaan negeri", "majlis raja-raja"]
+framework: explainer
 ---
 
 เบื้องหลังสหพันธ์หนึ่งเดียว มาเลเซียยังคงรักษาราชบัลลังก์เก้าราชบัลลังก์ที่เก่าแก่กว่าตัวประเทศเอง แต่ละราชบัลลังก์มีราชสำนัก จารีตการสืบราชสมบัติ และรัฐธรรมนูญของรัฐเป็นของตนเอง และราชาแต่ละพระองค์ทรงปกครองรัฐของตนในฐานะราชาภายใต้รัฐธรรมนูญ — มิใช่ในฐานะผู้ปกครองสมบูรณาญาสิทธิ์

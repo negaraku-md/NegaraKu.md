@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "local-government-in-malaysia" }
 related: []
 keywords: ["pentadbiran daerah", "pejabat daerah", "pegawai daerah", "mukim", "pentadbir tanah", "daerah pentadbiran", "Kanun Tanah Negara"]
+framework: explainer
 ---
 
 Between the state you vote for and the village where you live, there is one layer of government that is rarely mentioned yet the one you encounter most often when dealing with land, development projects or emergency assistance: the district. This is where state policy turns into actual services, and its centre is the District Office.

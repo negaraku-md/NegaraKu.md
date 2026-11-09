@@ -206,6 +206,7 @@ keywords:
   - "company secretary 30 days"
   - "senarai semak pematuhan syarikat baharu"
   - "post incorporation Malaysia"
+framework: journey-hub
 ---
 
 会社設立は一回限りの取引である。コンプライアンスはサブスクリプションである。

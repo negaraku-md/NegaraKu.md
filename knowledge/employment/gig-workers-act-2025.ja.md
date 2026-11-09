@@ -103,6 +103,7 @@ relations:
   - { rel: "compares-with", to: "employment-act-1955-guide" }
 related: ["i-saraan-epf-voluntary-contribution", "employment-act-1955-guide", "socso-eis-employer-guide"]
 keywords: ["gig workers act 2025", "act 872", "gig workers tribunal", "gig worker socso", "platform provider malaysia", "gig economy malaysia law"]
+framework: explainer
 ---
 
 Act 872は、社会保障に関する話題として報じられている——プラットフォームは今後、社会保障機構（SOCSO）を控除しなければならない、というものだ。しかしそれは、その最も小さな部分にすぎない。より大きな効果は、マレーシアが今や、従業員と独立請負人の間に**法定の第三区分**を持つに至ったことにある——そして同法は、その区分が*何ではないか*を語ることによって、その区分を定義している。

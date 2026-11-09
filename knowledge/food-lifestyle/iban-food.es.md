@@ -100,6 +100,7 @@ verificationNeeded:
   - "Los métodos de fermentación del kasam propios de los Iban (tiempos de fermentación, el uso de arroz y hojas de kepayang, y en qué se diferencia el kasam del pekasam peninsular o del balur de Sarawak)——las fuentes disponibles describen la práctica general de Sarawak y malaya más que una técnica Iban documentada; confírmese con una fuente de patrimonio culinario o académica."
   - "Si el helecho midin (Stenochlaena palustris) solo se encuentra realmente en Sarawak. El material turístico de Sarawak lo llama exclusivo del estado, pero las fuentes agrícolas y botánicas describen este helecho como un helecho silvestre de regiones pantanosas tropicales más en general——confírmese con una fuente botánica."
   - "El papel ritual y religioso exacto del tuak en el Gawai Dayak (ofrendas a los espíritus del arroz o a Petara, y el servicio consuetudinario a los invitados). Los relatos populares y periodísticos difieren en los detalles, y algunos describen una práctica cambiante o comercializada——confírmese con una fuente antropológica o comunitaria."
+framework: history-culture
 ---
 
 Entra en la cocina de una casa larga Iban en el interior de Sarawak y la despensa es, en buena medida,

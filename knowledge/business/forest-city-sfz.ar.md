@@ -105,6 +105,7 @@ keywords:
   - "ضريبة SFZ فورست سيتي"
   - "Pulau 1 Forest City"
   - "Forest City Special Financial Zone"
+framework: explainer
 ---
 
 يقع مخطَّطان على الامتداد نفسه من ساحل جوهور، وتكاد كل خلاصة تُكتَب عنهما تدمج الاثنين. والنتيجة

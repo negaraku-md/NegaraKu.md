@@ -80,6 +80,7 @@ relations:
   - { rel: "compares-with", to: "company-tax-residence" }
 related: ["personal-tax-rates", "company-tax-residence", "personal-tax-reliefs"]
 keywords: ["taraf mastautin individu Malaysia", "182 hari cukai Malaysia", "seksyen 7(1) Akta Cukai Pendapatan", "taraf mastautin individu", "adakah saya pemastautin cukai Malaysia", "bukan pemastautin 30 peratus Malaysia"]
+framework: explainer
 ---
 
 Seorang ekspatriat mendarat di Kuala Lumpur pada 1 Oktober, bekerja hingga akhir

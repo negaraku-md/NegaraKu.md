@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "consumer-rights-and-tribunal" }
 related: ["opening-bank-account", "duitnow-qr-payments", "consumer-rights-and-tribunal"]
 keywords: ["رقم الطوارئ 999 في ماليزيا", "الخط الساخن 997", "المركز الوطني للاستجابة للاحتيال", "احتيال ماكاو", "999 Malaysia emergency number", "997 NSRC hotline", "National Scam Response Centre", "Macau scam Malaysia", "Semak Mule CCID", "Cyber999 MyCERT", "how to report a scam Malaysia", "phone scam Malaysia", "APK scam parcel"]
+framework: explainer
 ---
 
 المتصل يعرف بالفعل اسمك ورقم بطاقتك MyKad. يقول إنه من الشرطة، أو من بنك نيغارا، أو من المحاكم — وإن حسابك مرتبط بقضية غسل أموال قيد التحقيق. والطريقة الوحيدة لإثبات براءتك، كما يقول، هي نقل مدخراتك إلى «حساب آمن» ريثما يفحصونه. يبدو الأمر سخيفاً حين يُكتب. أما عبر الهاتف، مع رقم قضية يبدو حقيقياً وصوت لا يرتفع أبداً، فلا يبدو كذلك.

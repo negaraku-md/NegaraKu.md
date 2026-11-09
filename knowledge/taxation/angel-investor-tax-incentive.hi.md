@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["tax-incentives-directory", "personal-tax-reliefs", "new-incentive-framework"]
 keywords: ["एंजेल कर प्रोत्साहन मलेशिया", "एंजेल निवेशक कर छूट", "angel tax incentive malaysia", "pu a 167 2014", "MBAN मान्यता", "स्टार्टअप निवेशक कर राहत मलेशिया"]
+framework: rules
 ---
 
 एंजेल कर प्रोत्साहन का उल्लेख करने वाला हर स्टार्टअप डेक कहता है कि यह 2026 तक चलता है। राजपत्र कुछ और कहता है। प्रवर्तमान लिखत Income Tax (Exemption) (No. 3) Order 2014, P.U.(A) 167/2014 है, जो Income Tax Act 1967 की धारा 127(3)(b) के तहत बनाया गया और 1 जनवरी 2013 से प्रवर्तन में माना जाता है। इसका पैराग्राफ 5(a)(ii) अपेक्षा करता है कि निवेशक ने मंत्री को **एक निश्चित तिथि से बाद में नहीं** आवेदन किया हो, और वह तिथि ठीक दो बार खिसकी है।

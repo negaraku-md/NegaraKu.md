@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "work-passes-malaysia", "dependant-social-visit-passes", "imigresen"]
 keywords: ["professional visit pass malaysia", "pvp malaysia", "pvp vs employment pass", "esd professional visit pass", "myxpats pvp", "foreign expert pass malaysia", "expert transfer pass malaysia", "short term work pass malaysia"]
+framework: explainer
 ---
 
 두 외국인이 같은 말레이시아 사무실의 같은 책상에 앉아 같은 일을 하면서도 완전히 다른 법적 지위에 있을 수 있습니다. 한 명은 취업 비자로, 말레이시아 회사가 급여를 지급하며 해마다 갱신됩니다. 다른 한 명은 전문가 방문 패스로 — 여전히 그를 보낸 회사가 급여를 지급하며, 12개월의 시간이 흐르고 그 이후 갱신이 없습니다. 이민국은 두 직원을 보지 않습니다. 고용주와 손님을 봅니다.

@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "free-trade-agreements" }
 related: ["sales-and-service-tax", "malaysia-free-trade-agreements"]
 keywords: ["आयात शुल्क", "import duty", "customs duty", "HS code", "AHTN", "टैरिफ़ वर्गीकरण", "ATIGA", "Form D", "CIF", "आयात पर बिक्री कर", "Customs Act 1967"]
+framework: explainer
 ---
 
 दो एक-समान खेप पोर्ट क्लैंग में उतर सकती हैं और बेहद भिन्न शुल्क चुका सकती हैं — इसलिए नहीं कि उनमें क्या है, बल्कि इसलिए कि घोषणापत्र पर किसी ने जो आठ-अंकीय कोड टाइप किया। वही कोड पूरा खेल है।

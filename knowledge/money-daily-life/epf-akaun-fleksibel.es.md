@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "epf-members-investment-scheme" }
 related: ["i-saraan-epf-voluntary-contribution", "epf", "epf-socso-employees", "epf-members-investment-scheme"]
 keywords: ["akaun fleksibel", "EPF account 3", "KWSP akaun 3", "akaun persaraan sejahtera fleksibel", "EPF account restructuring", "akaun fleksibel withdrawal", "KWSP three accounts"]
+framework: explainer
 ---
 
 Durante casi cuarenta años, tus ahorros del EPF vivieron en dos cajas: la Cuenta 1,

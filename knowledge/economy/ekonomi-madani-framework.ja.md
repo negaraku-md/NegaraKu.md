@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "subsidy-rationalisation-padu" }
 related: ["malaysia-plans", "new-industrial-master-plan-2030", "national-energy-transition-roadmap-netr", "subsidy-rationalisation-padu"]
 keywords: ["Ekonomi MADANI", "MADANI Economy framework", "Ekonomi MADANI Memperkasa Rakyat", "MADANI values acronym", "Malaysia economic framework Anwar", "MADANI economy seven targets", "Malaysia MADANI"]
+framework: explainer
 ---
 
 2023年7月27日、首相就任から数か月後、アンワル・イブラヒムは予算や単一の事業を発表するためではなく、マレーシア経済に自らを語る物語を与えるために立ち上がった。

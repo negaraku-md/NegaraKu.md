@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016"]
 keywords: ["MFRS 124", "parties liées", "compte courant de l'administrateur", "prêt de l'administrateur", "MBRS", "IAS 24", "états financiers", "informations sur les parties liées Malaisie"]
+framework: explainer
 ---
 
 Dans la plupart des sociétés Sdn Bhd familiales de Malaisie, l'argent entre et sort sans beaucoup de formalités : le père injecte des liquidités quand la trésorerie est tendue, un enfant prend une avance pour une affaire personnelle, et une société liée règle une facture pour une autre. Tout cela s'accumule sur une seule ligne discrète du bilan — le « compte courant de l'administrateur » — et c'est cette ligne qui fait le plus souvent trébucher les choses à l'arrivée de l'auditeur et lorsque les états financiers sont étiquetés pour la SSM.

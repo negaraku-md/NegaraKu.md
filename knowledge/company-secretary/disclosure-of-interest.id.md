@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "minute-books-and-records" }
 related: ["directors-duties", "minute-books-and-records", "loans-to-directors", "directors-fees-approval"]
 keywords: ["pengisytiharan kepentingan Malaysia", "seksyen 221 Akta Syarikat 2016", "seksyen 222 pengarah berkepentingan", "konflik kepentingan pengarah Sdn Bhd", "pengisytiharan kepentingan pengarah", "pengarah berkepentingan dalam kontrak Malaysia"]
+framework: rules
 ---
 
 Pengungkapan itu telah dibuat. Semua orang dalam ruang rapat mendengarnya. Dua tahun kemudian

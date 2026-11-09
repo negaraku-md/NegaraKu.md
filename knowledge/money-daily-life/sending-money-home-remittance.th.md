@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["bank-negara-malaysia", "payment-regulation-malaysia", "opening-bank-account"]
 keywords: ["send money home Malaysia", "remittance Malaysia", "licensed money services business Malaysia", "Bank Negara Malaysia remittance", "Money Services Business Act 2011", "MSB licence Malaysia", "foreign worker remittance Malaysia", "BNMTELELINK"]
+framework: explainer
 ---
 
 เดินไปตามแถวห้องแถวในเมืองใด ๆ ของมาเลเซียที่มีแรงงานข้ามชาติจำนวนมาก แล้วคุณจะเห็นเคาน์เตอร์หลายแห่งเสนอที่จะ "hantar wang" ส่งเงิน ไปยังประเทศเดียวกัน ในอัตราที่ดูคล้ายกัน แห่งหนึ่งมีใบอนุญาตธนาคารกลางมาเลเซียบนผนัง อีกแห่งเป็นเพียงโต๊ะกับคำสัญญา จากมุมของลูกค้า พวกมันดูเหมือนกัน ความแตกต่างระหว่างทั้งสองเป็นสิ่งเดียวที่สำคัญจริง ๆ หากการโอนผิดพลาด

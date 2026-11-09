@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "perquisites-and-benefits-in-kind-tax" }
 related: ["companies-act-2016"]
 keywords: ["ESOS malaysia", "employee share option scheme malaysia", "ESOP malaysia tax", "share option perquisite malaysia", "section 75 companies act 2016", "bursa 15% share scheme", "how ESOS is taxed malaysia"]
+framework: explainer
 ---
 
 資金が乏しいスタートアップも、人材定着を狙う成熟企業も、同じ手段に頼る――従業員に株式の一部を分け与えることだ。従業員ストックオプション制度（ESOS）は、従業員が今日定めた価格で後日株式を購入できるようにし、自らが生み出した価値上昇の恩恵を分かち合えるようにする。これは強力な手段であると同時に、創業者が法律と税務――たいていは税務――を知らぬ間に誤りがちな落とし穴でもある。

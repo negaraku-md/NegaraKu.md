@@ -81,6 +81,7 @@ relations:
   - { rel: "requires", to: "special-resolution" }
 related: ["companies-act-2016", "company-limited-by-guarantee-malaysia"]
 keywords: ["perlembagaan syarikat", "company constitution", "resolusi khas", "seksyen 32", "seksyen 36", "entrenchment", "Akta Syarikat 2016", "SSM"]
+framework: how-to
 ---
 
 Sebuah Sdn Bhd boleh beroperasi bertahun-tahun tanpa satu pun dokumen berjudul "konstitusi" — dan itu sah sepenuhnya di mata hukum Malaysia. Companies Act 2016 menjadikan konstitusi pilihan bagi kebanyakan perusahaan, suatu peralihan besar dari era Memorandum dan Anggaran Dasar (M&A) yang wajib. Persoalannya bukan lagi "apa yang harus ada dalam konstitusi kami", tetapi "apakah kami memerlukan satu, dan jika ya, bagaimana kami mengadopsinya, mengubahnya, atau menguncinya?"

@@ -84,6 +84,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaCompliance
     - OSHA
+framework: rules
 ---
 
 Getting a manufacturing licence feels like the finish line. It is closer to the starting line. The licence answers one question — *may this company make this product at this scale?* — but it says nothing about the building the machines sit in, the machines themselves, the fire risk, the council that governs the address, or the effluent going down the drain. Those are the approvals that let you actually *operate the premises*, and a factory can hold a perfectly valid manufacturing licence while being unlawful to occupy or run.

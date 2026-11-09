@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution", "companies-act-2016", "employment-act-1955"]
 keywords: ["Malaysia court hierarchy", "Sessions Court jurisdiction RM1 million", "Magistrates Court limit RM100,000", "Courts of Judicature Act 1964", "Subordinate Courts Act 1948", "hierarki mahkamah Malaysia"]
+framework: data-reference
 ---
 
 Nộp một đơn kiện vi phạm hợp đồng trị giá RM1.2 triệu tại Tòa Phiên thì dù vụ kiện của

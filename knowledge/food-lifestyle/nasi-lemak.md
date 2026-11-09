@@ -96,6 +96,7 @@ verificationNeeded:
   - "Earliest written references to the dish — Pierre-Étienne-Lazare Favre's 1875 French–Malay dictionary and Richard Olaf Winstedt's The Circumstances of Malay Life (1909, p. 62). These are cited via Wikipedia; the exact original wording (and whether the term 'nasi lemak' itself appears, versus a description of rice boiled in coconut milk) should be confirmed against the primary texts."
   - "The specific claim that nasi lemak, roti canai and teh tarik were gazetted as national heritage under the National Heritage Act 2005 in 2022 — confirm the exact gazette and year with Malaysia's National Heritage Department (Jabatan Warisan Negara)."
   - "The Malacca-girl 'Seri' / 'Nasi le, mak' origin tale is folklore, not documented history, and should be presented only as legend."
+framework: explainer
 ---
 
 Before the sun is fully up, the smell reaches the street first: coconut-rich rice,

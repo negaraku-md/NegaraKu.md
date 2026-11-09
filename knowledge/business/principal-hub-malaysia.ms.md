@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "representative-regional-office-malaysia" }
 related: ["mida"]
 keywords: ["principal hub malaysia", "global services hub malaysia", "regional headquarters malaysia", "MIDA principal hub incentive", "GSH tax incentive malaysia", "headquarters incentive malaysia"]
+framework: explainer
 ---
 
 Multinasional tidak meletakkan ibu pejabat serantau mereka di sebarang tempat sahaja — mereka mengikut insentif. Selama bertahun-tahun, tawaran Malaysia kepada syarikat yang memutuskan lokasi untuk menempatkan operasi pengurusan serantau, kewangan dan perkhidmatan berkongsi mereka ialah insentif **Principal Hub** (Hab Prinsipal). Skim itu telah ditutup, dan banyak nasihat dalam talian belum mengikuti perkembangan. Jika anda meninjau Malaysia sebagai pangkalan operasi hari ini, laluan yang benar-benar wujud ialah **Global Services Hub** (Hab Perkhidmatan Global).

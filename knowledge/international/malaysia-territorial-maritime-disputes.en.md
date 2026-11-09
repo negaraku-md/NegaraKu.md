@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: []
 keywords: ["Laut China Selatan", "Batu Puteh", "Pedra Branca", "Sabah", "UNCLOS", "kedaulatan", "pertikaian maritim", "Spratly"]
+framework: explainer
 ---
 
 The map of Malaysia hanging on a school wall looks calm and settled — but at its sea borders, those lines are still being discussed at the negotiating table and in international courts. Malaysia has three territorial and maritime questions that are not yet fully resolved, and each is handled differently: one in a court, one at a UN commission, and one deliberately left dormant.

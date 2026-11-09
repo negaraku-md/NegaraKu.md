@@ -100,6 +100,7 @@ keywords:
   - "foreign owned company Malaysia licence"
   - "WRT paid up capital"
   - "WRT employment pass"
+framework: rules
 ---
 
 WRT 면허를 검색하면, 확신에 차 반복적으로, 그것이 납입자본금 RM100만을 요구한다는 말을 듣게 될 것입니다.

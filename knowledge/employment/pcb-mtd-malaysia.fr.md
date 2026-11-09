@@ -132,6 +132,7 @@ relations:
   - { rel: "part-of", to: "payroll-compliance-malaysia" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide"]
 keywords: ["PCB Malaisie", "MTD déduction fiscale mensuelle", "CP38 CP39 CP22", "e-PCB LHDN employeur", "potongan cukai bulanan"]
+framework: rules
 ---
 
 Le PCB est la seule ligne d'un bulletin de paie malaisien où l'employeur détient l'argent de

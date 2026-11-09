@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "driving-licence-in-malaysia" }
 related: []
 keywords: ["keselamatan jalan raya", "kemalangan jalan raya Malaysia", "pemanduan mabuk", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
+framework: explainer
 ---
 
 Setiap hari, sekitar 18 nyawa melayang di jalan raya Malaysia. Angka itu menjadikan jalan raya salah satu penyebab kematian tidak wajar yang paling menonjol di negara ini, dan alasan utama undang-undang, kamera, dan lembaga khusus dikerahkan untuk menanganinya.

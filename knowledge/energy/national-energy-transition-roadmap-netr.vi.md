@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "energy-commission-malaysia" }
 related: ["petronas", "tenaga-nasional"]
 keywords: ["NETR", "National Energy Transition Roadmap", "Malaysia energy transition", "renewable energy Malaysia", "net zero 2050", "coal phase out Malaysia", "green hydrogen Malaysia", "CCUS Malaysia", "NETF seed fund", "ENEGEM"]
+framework: explainer
 ---
 
 Trong phần lớn thế kỷ qua, câu chuyện kinh tế của Malaysia vận hành trên hydrocarbon — dầu dưới đáy biển, khí được dẫn ống đến các nhà máy điện, và than được vận chuyển vào để giữ lưới điện hoạt động rẻ. Lộ trình Chuyển đổi Năng lượng Quốc gia (NETR) là kế hoạch viết lại câu chuyện đó trước năm 2050, và nó đi kèm các con số cụ thể, các dự án có tên, và một cái giá hàng nghìn tỷ ringgit.

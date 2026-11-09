@@ -89,6 +89,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
 keywords: ["section 109B", "section 4A income", "technical fees withholding tax Malaysia", "special classes of income", "PR 10/2019", "derived from Malaysia"]
+framework: rules
 ---
 
 ถามทีมการเงินมาเลเซียว่าเหตุใดจึงไม่หักบนใบแจ้งหนี้ของที่ปรึกษาต่างชาติ และคำตอบมักเหมือนกัน: *งานทำในต่างประเทศ* คำตอบนั้นถูกต้องจนถึงวันที่ 17 มกราคม 2017 ผิดตั้งแต่วันนั้นจนถึง 6 กันยายน 2017 และบัดนี้ถูกต้องอีกครั้ง — แต่ด้วยเหตุผลที่ต่างไปโดยสิ้นเชิง และมีช่องโหว่ที่คู่มือส่วนใหญ่ไม่กล่าวถึง

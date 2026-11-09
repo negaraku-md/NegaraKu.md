@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "chinese-clan-associations", "chinese-dialects", "population-composition"]
 keywords: ["高桩舞狮", "梅花桩舞狮", "南狮", "醒狮", "采青", "锣鼓钹", "关圣宫", "麻坡", "云顶世界狮王争霸赛", "舞狮", "High Pole Lion Dance", "Kun Seng Keng"]
+framework: history-culture
 ---
 
 Dès que le tambour se resserre, le lion bondit dans les airs, ses pattes avant se posent fermement sur un poteau d'acier à peine plus gros que le bord d'un bol, et la queue du lion suit aussitôt — deux exécutants sautent et posent entre une rangée de poteaux de hauteurs variées, à deux ou trois mètres du sol, tandis que le public retient son souffle, jusqu'à ce que ce lion devenu comme « vivant » se tienne fermement sur le plus haut poteau et que les applaudissements éclatent enfin. Ce n'est pas la danse du lion festive au sol, mais un sport doté de notations, de champions et d'un classement mondial : la danse du lion sur hauts poteaux.

@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "road-tax-renewal" }
 related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengangkutan Jalan 1987", "insurans komprehensif", "cukai jalan", "Seksyen 90", "PIAM", "insurans motosikal"]
+framework: explainer
 ---
 
 你可以驾驶一辆从未清洗过、轮胎已磨损、冷气已损坏的汽车——这一切在法律上都完全合法。但没有一份文件——第三者保险单——却驾车上路，则是一项刑事罪行。

@@ -81,6 +81,7 @@ relations:
   - { rel: "affects", to: "deforestation-and-forest-loss-in-malaysia" }
 related: ["palm-oil-sustainability-mspo-and-deforestation", "palm-oil-industry", "palm-oil-sustainability-certification", "deforestation-and-forest-loss-in-malaysia"]
 keywords: ["oil palm smallholders", "MSPO certification", "independent smallholders", "MS 2530:2022", "EUDR palm oil", "sustainable palm oil Malaysia"]
+framework: explainer
 ---
 
 자기 기름야자 필지의 모든 경계를 기억만으로 걸을 수 있는 빈툴루(Bintulu)의 한 농가는 이제 유럽의 구매자가 그의 과일에 손을 대기 전에 그 "머릿속 지도"를 GPS 폴리곤으로 바꿔야 합니다. 그 간극 — 자기 땅을 아는 것과 감사인이 만족하도록 그것을 문서화하는 것 사이의 — 이 말레이시아 소규모 자작농 팜유 경제 뒤의 조용한 이야기입니다.

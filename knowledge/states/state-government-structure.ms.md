@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-state-division" }
 related: ["rulers-and-governors", "state-assemblies-dun", "kabinet-perdana-menteri", "three-tiers-of-government", "federal-state-division", "sabah-sarawak-safeguards"]
 keywords: ["state government Malaysia", "Menteri Besar", "Chief Minister Malaysia", "State Executive Council", "EXCO", "Dewan Undangan Negeri", "state assembly Malaysia", "Yang di-Pertua Negeri", "Eighth Schedule", "Ninth Schedule", "State List", "Federal Constitution Malaysia"]
+framework: explainer
 ---
 
 Ketepikan Istana Negara, namakan semula Perdana Menteri, dan kecilkan Parlimen kepada satu dewan sahaja — dan itulah gambaran sebuah kerajaan negeri Malaysia. Kesemua 13 negeri menjalankan satu salinan yang diperkecilkan daripada sistem persekutuan: seorang ketua negeri yang menaungi tanpa memerintah, seorang ketua kerajaan yang dipilih kerana beliau mampu mendapat majoriti, sebuah majlis eksekutif yang bertanggungjawab secara kolektif kepada ahli-ahli yang dipilih, dan sebuah badan perundangan yang boleh dibubarkan dan dihantar semula kepada pengundi. Gelaran berbeza dari satu negeri ke satu negeri. Pelannya tidak berbeza.

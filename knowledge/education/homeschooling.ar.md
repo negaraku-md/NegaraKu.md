@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "public-vs-private-universities" }
 related: ["public-vs-private-universities", "warta-kerajaan", "akta"]
 keywords: ["التعليم المنزلي في ماليزيا", "homeschooling Malaysia", "Education Act 1996", "Section 29A", "Section 32A", "التعليم الإلزامي في ماليزيا", "compulsory education Malaysia", "homeschool exemption", "pendidikan di rumah", "MOE exemption letter"]
+framework: explainer
 ---
 
 في كل شهر يناير، يبدأ عشرات الآلاف من الأطفال الماليزيين في سن السادسة

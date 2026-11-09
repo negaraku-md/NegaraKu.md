@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "investing-in-bursa" }
 related: ["securities-commission-malaysia"]
 keywords: ["IPO malaysia", "list on bursa malaysia", "bursa listing requirements", "main market ace market leap market", "how to go public malaysia", "listing criteria bursa", "bumiputera equity requirement IPO"]
+framework: explainer
 ---
 
 Menjadikan sesebuah syarikat sebagai syarikat awam ialah salah satu keputusan pembiayaan terbesar yang akan dibuat oleh pemiliknya — ia menghimpun modal kekal, meletakkan harga pasaran pada perniagaan, dan memberi pemegang saham jalan keluar. Ia juga menundukkan syarikat kepada tahap penelitian dan kos yang mengejutkan ramai pengasas. Di Malaysia, tawaran awam permulaan (IPO) bermaksud penyenaraian di Bursa Malaysia, dan laluan yang anda ambil bergantung sepenuhnya pada sebesar mana dan sebukti mana syarikat anda.

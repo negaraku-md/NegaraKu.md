@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["سيلات", "silat", "سيلات ملايو", "silat melayu", "فن السيلات", "silat pulut", "silat gayung", "PESAKA", "التراث الثقافي غير المادي", "UNESCO Malaysia", "فنون الدفاع عن النفس", "silat harimau"]
+framework: history-culture
 ---
 
 يستطيع ممارس السيلات البارع أن يكسر عظام خصمه — أو أن يرقص أمام عروس من دون أن يلمس أحدًا. كلاهما سيلات. وهذا أصعب ما يُدرَك في هذا الفن: فهو ليس مجرّد أسلوب للقتال، ولا مجرّد رقصة احتفالية. إنه كلاهما، في الجسد نفسه، تحرّكه الخطوات نفسها.

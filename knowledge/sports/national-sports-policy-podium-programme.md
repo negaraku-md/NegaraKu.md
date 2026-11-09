@@ -91,6 +91,7 @@ keywords:
   - "Sukan Untuk Semua"
   - "pembiayaan atlet elit"
   - "Institut Sukan Negara Podium"
+framework: explainer
 ---
 
 Setiap kali seorang atlet Malaysia melangkah ke podium Olimpik, dua sistem yang berlainan sebenarnya sedang bekerja di belakangnya — satu yang cuba mengajak seluruh rakyat bergerak, dan satu lagi yang menumpukan sumber besar kepada segelintir kecil yang mampu menang. Kedua-duanya hidup di bawah satu dokumen dasar yang sama, tetapi dibiayai dan diukur dengan cara yang sangat berbeza.

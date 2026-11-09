@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["capital-allowances", "losses-and-group-relief"]
 keywords: ["industrial building allowance malaysia", "IBA schedule 3", "paragraph 63 schedule 3", "qualifying building expenditure", "factory tax allowance malaysia", "IBA rate 10% 3%"]
+framework: explainer
 ---
 
 एक कंपनी RM1.2 मिलियन में एक कारख़ाना ख़रीदती है और RM1.2 मिलियन पर औद्योगिक भवन भत्ता दावा करती है। दो वर्ष बाद ऑडिट दावे को समायोजित कर RM500,000 से थोड़ा अधिक कर देता है, तब से हर वर्ष के लिए अधिक हिस्सा वापस जोड़ देता है, और एक दंड लगाता है। भवन के बारे में कुछ नहीं बदला। कंपनी ने बस एक ऐसे आँकड़े पर दावा किया जिसे उपयोग करने की अनुमति अधिनियम ने उसे कभी नहीं दी।

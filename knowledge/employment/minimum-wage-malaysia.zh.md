@@ -108,6 +108,7 @@ relations:
   - { rel: "related-to", to: "payroll-rates-deadlines-malaysia" }
 related: ["labour-law-map-malaysia", "employment-act-1955", "payroll-rates-deadlines-malaysia", "payroll-compliance-malaysia"]
 keywords: ["minimum wage Malaysia 2026", "RM1700 gaji minimum", "hourly minimum wage Malaysia", "Employment Act section 19", "lawful deductions section 24", "Minimum Wages Order 2024"]
+framework: rules
 ---
 
 知道费率是容易的部分。一个在次月 20 日才发 RM1,700、并且因为一台弄坏的笔电扣掉

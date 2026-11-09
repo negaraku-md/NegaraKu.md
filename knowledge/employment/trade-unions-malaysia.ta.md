@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "industrial-relations-act-malaysia" }
 related: []
 keywords: ["kesatuan sekerja", "trade union", "Akta Kesatuan Sekerja 1959", "Akta 262", "JHEKS", "e-TUIS", "pindaan 2024", "perundingan kolektif", "Ketua Pengarah Kesatuan Sekerja"]
+framework: explainer
 ---
 
 பல தசாப்தங்களாக, மலேசியாவில் ஒரு தொழிற்சாலைத் தொழிலாளர் தமது பணியிடத்திற்கான ஒரே "செல்லுபடியாகும்" சங்கத்தில் மட்டுமே சேர முடிந்தது — மேலும் அந்தச் சங்கம் ஏற்கனவே இருந்தால், வேறு எந்தத் தொழிலாளர் குழுவும் புதிதாக ஒன்றை உருவாக்க முடியாது. 2024 செப்டம்பர் 15 அன்று அமலுக்கு வந்த சட்டச் சீர்திருத்தம் அந்த அடிப்படை முன்மொழிவை மாற்றியது.

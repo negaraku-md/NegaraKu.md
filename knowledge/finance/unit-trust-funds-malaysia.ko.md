@@ -79,6 +79,7 @@ relations:
   - { rel: "compares-with", to: "amanah-saham-bumiputera" }
 related: ["securities-commission-malaysia"]
 keywords: ["unit trust malaysia", "unit trust funds", "net asset value", "sales charge", "management fee", "securities commission", "FIMM", "equity fund", "money market fund", "EPF i-invest"]
+framework: explainer
 ---
 
 낯선 사람에게 여러분의 돈을 맡겨 투자하게 한다면, 세 가지를 원할 것입니다: 규칙, 점수 기록자, 그리고 현금을 대신 보유하는 누군가. 말레이시아의 단위신탁은 이 세 가지를 모두 제공합니다. 여러분의 링깃은 수천 명의 다른 투자자와 함께 모이고, 인가 운용사가 무엇을 살지 결정하며, 독립 수탁회사가 자산을 보유하여 운용사가 그냥 들고 도망갈 수 없게 합니다. 이 전체 구조는 말레이시아 증권위원회(Securities Commission Malaysia, SC) 아래에 있습니다.

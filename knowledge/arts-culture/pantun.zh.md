@@ -74,6 +74,7 @@ social:
 verificationNeeded:
   - "berpantun 艺术起源的确切年代无法确定；学者最有力的观点将其与约15世纪相联系，即《Sejarah Melayu》（约1612）之前。此一年代仍有争议，并非定论。"
   - "较长的多行 pantun 的最大长度在不同来源之间有所差异（部分称多达16行，另一些称约22行）；确切数字并不一致。"
+framework: history-culture
 ---
 
 > Pisang emas dibawa belayar,

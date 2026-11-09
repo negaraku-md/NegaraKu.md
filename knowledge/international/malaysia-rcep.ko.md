@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "asean-free-trade-area" }
 related: ["miti", "malaysia-cptpp"]
 keywords: ["RCEP", "Malaysia trade agreement", "rules of origin", "Form RCEP", "tariff elimination", "ASEAN", "MITI", "free trade agreement"]
+framework: explainer
 ---
 
 원산지증명서 하나에 서명하면, 말레이시아산 상품이 오클랜드에서 베이징을 거쳐 쿠알라룸푸르에 이르는 시장을 무관세로 넘나들 수 있습니다. 한 문장으로, 그것이 바로 RCEP가 말레이시아 수출업체에게 바꿔놓은 것입니다.

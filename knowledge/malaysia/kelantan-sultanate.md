@@ -59,6 +59,7 @@ social:
   hashtags: ["KelantanSultanate", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded:
   - "The exact year Long Yunus took the Kelantan throne is given differently across sources (c. 1760, 1763, 1764, and c. 1774 all appear); this article uses 'the 1760s' and should be reconciled against a dedicated historical study before any single year is asserted."
+framework: history-culture
 ---
 
 On the northeastern shoulder of the Malay Peninsula, where the rivers run down to the South China Sea and the coast once looked as much toward the old kingdom of Patani as toward the Malay heartland, a throne was forged out of civil war. Its founder was not born a king. He was a warlord of Patani descent who outlasted his rivals, and the dynasty he began — the House of Long Yunus — still reigns in Kelantan today, more than two and a half centuries later.

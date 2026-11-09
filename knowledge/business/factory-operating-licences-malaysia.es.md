@@ -85,6 +85,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaCompliance
     - OSHA
+framework: rules
 ---
 
 Conseguir una licencia de fabricación parece la línea de meta. Está más cerca de la línea de salida. La licencia responde a una pregunta —*¿puede esta empresa fabricar este producto a esta escala?*—, pero no dice nada sobre el edificio en el que se asientan las máquinas, sobre las máquinas en sí, sobre el riesgo de incendio, sobre el ayuntamiento que gobierna la dirección o sobre el efluente que baja por el desagüe. Esas son las aprobaciones que de verdad te permiten *operar las instalaciones*, y una fábrica puede tener una licencia de fabricación perfectamente válida y a la vez ser ilícito ocuparla o explotarla.

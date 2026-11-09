@@ -77,6 +77,7 @@ related:
   - "apam-balik"
 social:
   hashtags: ["#RavisApomManis", "#ApomManis", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 George Town の Jalan Burma で、一世紀近く甘いパンケーキを焼いてきた屋台がいま

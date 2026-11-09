@@ -195,6 +195,7 @@ relations:
   - { rel: "governs", to: "income-tax-act-1967" }
 related: ["labour-law-map-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "pcb-mtd-malaysia", "epf-foreign-workers-malaysia"]
 keywords: ["الامتثال لكشوف الرواتب ماليزيا", "payroll compliance Malaysia", "موعد الاشتراك القانوني ماليزيا", "statutory contribution deadline Malaysia", "موعد استحقاق EPF SOCSO EIS PCB", "التزامات صاحب العمل في كشوف الرواتب", "موعد رسم HRD Corp"]
+framework: rules
 ---
 
 سبب وقوع الخطأ في كشوف الرواتب في ماليزيا نادرًا ما يكون الحساب. السبب أن خمس

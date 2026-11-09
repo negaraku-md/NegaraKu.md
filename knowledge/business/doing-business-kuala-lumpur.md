@@ -107,6 +107,7 @@ keywords:
   - "Kuala Lumpur premise licence fee"
   - "Federal Territory Planning Act 1982"
   - "TRX Marquee status incentives"
+framework: profile
 ---
 
 Kuala Lumpur is the one place in Malaysia where you can read your licence fee off the

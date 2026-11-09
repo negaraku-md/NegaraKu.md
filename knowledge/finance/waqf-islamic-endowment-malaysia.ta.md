@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "donations-and-tax-deductions" }
 related: ["islamic-finance", "state-islamic-religious-councils", "zakat", "donations-and-tax-deductions"]
 keywords: ["waqf", "wakaf", "Islamic endowment Malaysia", "cash waqf", "corporate waqf", "JAWHAR", "Yayasan Waqaf Malaysia", "waqf land Malaysia"]
+framework: explainer
 ---
 
 ஒரு மனிதனுக்கு ஒரு மீன் கொடுங்கள், அவன் ஒரு நாளைக்கு உண்பான். ஒருபோதும் விற்க முடியாத ஒரு மீன்குளத்தை அறக்கொடையாக வழங்குங்கள், முழு கிராமமும் என்றென்றும் உண்ணும். அதுதான், ஒரு வாக்கியத்தில், வக்ஃப்.

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["bangsawan", "opera Melayu", "teater Parsi", "Wayang Parsi", "Pushi Indera Bangsawan", "teater peralihan", "filem Melayu"]
+framework: history-culture
 ---
 
 Avant qu'il n'y ait des films, il y avait des scènes éclairées, des rideaux peints à la main et un orchestre capable de passer des mélodies fluides d'une cour malaise à un rythme du Moyen-Orient au cours d'une même représentation nocturne. C'était cela, le bangsawan — l'opéra scénique qui fut jadis le divertissement urbain le plus animé de la Péninsule, et qui livra plus tard ses acteurs et ses chanteurs à la toute jeune industrie du cinéma malais.

@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["kejatuhan Melaka 1511", "Afonso de Albuquerque", "Melaka Portugis", "A Famosa", "penjajahan Eropah Nusantara", "Kesultanan Johor 1528"]
+framework: history-culture
 ---
 
 สิบวัน นั่นคือระยะห่างระหว่างการมาถึงของกองทัพโปรตุเกสในน่านน้ำมะละกาเมื่อวันที่ 10 สิงหาคม 1511 กับช่วงเวลาที่เมืองนั้นเปลี่ยนมือเมื่อวันที่ 24 สิงหาคม

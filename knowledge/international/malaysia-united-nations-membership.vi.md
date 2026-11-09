@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malaysia PBB", "United Nations Malaysia", "Majlis Keselamatan PBB", "pasukan pengaman", "UNIFIL", "keahlian PBB", "diplomasi Malaysia"]
+framework: explainer
 ---
 
 Chỉ 17 ngày sau khi Tunku Abdul Rahman hô vang "Merdeka" tại Sân vận động Merdeka, lá cờ của Liên bang Malaya được kéo lên tại trụ sở Liên Hợp Quốc ở New York. Vào ngày 17 tháng 9 năm 1957, quốc gia non trẻ này chính thức được kết nạp làm thành viên Liên Hợp Quốc — một bước xác nhận chủ quyền của nó trên sân khấu thế giới gần như đồng thời với sự ra đời của nó.

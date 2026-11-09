@@ -76,6 +76,7 @@ keywords:
   - "klinik pergigian pakar hospital"
   - "Akta Pergigian 2018"
   - "carian klinik pergigian kerajaan"
+framework: explainer
 ---
 
 Nhiều người cho rằng «phòng khám nha khoa» chỉ là một thứ — nơi để trám răng sâu hoặc nhổ răng khôn. Nhưng ở Malaysia, chăm sóc nha khoa thực ra chạy trên hai đường ray riêng biệt: một do chính phủ điều hành qua Bộ Y tế Malaysia (KKM), một do khu vực tư nhân — và phạm vi điều trị giữa hai bên không giống nhau.

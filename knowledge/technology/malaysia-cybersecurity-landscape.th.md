@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "pdpa-2010" }
 related: ["pdpa-2010"]
 keywords: ["Malaysia cybersecurity", "Cyber Security Act 2024", "Act 854", "NACSA", "National Critical Information Infrastructure", "Global Cybersecurity Index", "Malaysia Cyber Security Strategy"]
+framework: explainer
 ---
 
 เป็นเวลาหนึ่งทศวรรษที่มาเลเซียขอให้โครงสร้างพื้นฐานวิกฤตของตนให้ความสำคัญกับความมั่นคงปลอดภัยไซเบอร์อย่างจริงจัง ตั้งแต่วันที่ 26 August 2024 มัน *สั่ง* พวกเขาให้ทำ — และผูกโทษจำคุกกับการทำผิดพลาด

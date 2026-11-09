@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "emergencies-999" }
 related: ["klinik-kesihatan", "how-malaysian-healthcare-works", "private-hospitals-and-costs", "emergencies-999"]
 keywords: ["خدمات الصحة النفسية ماليزيا", "Talian HEAL 15555", "Talian Kasih 15999", "Befrienders Malaysia", "عيادة MENTARI ماليزيا", "مستشفى نفسي ماليزيا", "MMHA Malaysian Mental Health Association", "الإرشاد النفسي ماليزيا", "أين تجد المساعدة النفسية في ماليزيا", "Mental Health Act 2001 Malaysia"]
+framework: explainer
 ---
 
 كثيراً ما يكون قرار طلب المساعدة هو الجزء الأصعب. أما تبيّن *أين* تطلبها فهو الجزء الذي لا يكاد يشرحه أحد — وتلك الفجوة وحدها تمنع الناس من إجراء المكالمة أصلاً.

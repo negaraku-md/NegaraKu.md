@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "unaudited-financial-statements" }
 related: ["annual-return", "financial-statements-lodgement", "extension-of-time-ssm", "ssm-late-lodgement-fees", "unaudited-financial-statements", "audit-exemption"]
 keywords: ["MBRS 2.0", "MBRS Malaysia", "XBRL filing SSM", "mTool", "mPortal", "SSM taxonomy SSMxT", "lodge financial statements SSM", "annual return XBRL"]
+framework: explainer
 ---
 
 20년 동안 말레이시아 재무제표 한 세트는 서명된 PDF로 SSM에 제출되었습니다.

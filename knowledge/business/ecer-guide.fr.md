@@ -134,6 +134,7 @@ keywords:
   - "MCKIP Kuantan incentives"
   - "Kuantan Port free zone"
   - "ECRL completion date"
+framework: profile
 ---
 
 ECER est le corridor qui l'a fait correctement. Là où le Corridor Nord a livré des incitatifs via

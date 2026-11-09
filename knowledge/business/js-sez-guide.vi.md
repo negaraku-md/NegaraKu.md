@@ -102,6 +102,7 @@ keywords:
   - "JS-SEZ flagship zones"
   - "MIDA JS-SEZ application"
   - "zon ekonomi khas Johor Singapura"
+framework: rules
 ---
 
 Mọi bản tóm tắt về Đặc khu Kinh tế Johor-Singapore đều dẫn dắt bằng cùng một con số: 5 phần trăm trong 15 năm. Đó là một con số thật. Nó cũng là dữ kiện ít hữu ích nhất trong gói, vì gần như không ai đọc nó sẽ đủ điều kiện.

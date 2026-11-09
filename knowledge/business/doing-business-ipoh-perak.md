@@ -96,6 +96,7 @@ keywords:
   - "Perak industrial land price"
   - "Perak GDP"
   - "Ipoh cost of doing business"
+framework: profile
 ---
 
 This is a short page on purpose. Perak's legal regime is the same as Selangor's, its

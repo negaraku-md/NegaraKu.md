@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "financial-statements-lodgement" }
 related: ["financial-statements-lodgement", "extension-of-time-ssm", "resolution-notice-periods", "sdn-bhd-filing-calendar", "egm-requisition"]
 keywords: ["AGM Malaisie", "AGM Malaysia", "assemblée générale annuelle Sdn Bhd", "article 340 Companies Act 2016", "section 340 Companies Act 2016", "une société privée a-t-elle besoin d'une assemblée générale annuelle", "délai assemblée générale annuelle six mois"]
+framework: rules
 ---
 
 « Les Sdn Bhd n'ont plus besoin d'assemblées générales annuelles » est la formule

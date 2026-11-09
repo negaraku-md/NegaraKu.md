@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-labour-ordinance" }
 related: ["labour-law-map-malaysia", "employment-act-coverage", "working-hours-overtime-malaysia", "minimum-wage-malaysia"]
 keywords: ["قانون العمل 1955", "قانون العمل ماليزيا", "القانون 265", "قانون العمل التعديل 2022", "قانون العمل الماليزي", "أسبوع 45 ساعة ماليزيا", "employment act 1955", "act 265"]
+framework: data-reference
 ---
 
 افتح أيّ مدوّنةٍ ماليزية للموارد البشرية وستجد قانون العمل ما زال يُوصَف بأنّه تشريعٌ

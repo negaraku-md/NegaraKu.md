@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["hinduism-in-malaysia", "thaipusam", "deepavali", "estate-tamil-community", "pongal", "tamil-in-malaysia"]
 keywords: ["மாரியம்மன் வழிபாடு", "மாரியம்மன்", "அம்மன் வழிபாடு", "Mariamman worship", "Mariamman Malaysia", "ஸ்ரீ மகாமாரியம்மன் கோயில்", "தீமிதி"]
+framework: history-culture
 ---
 
 Di dekat hampir setiap perkebunan karet tua di Malaysia, dan di sepanjang jalan-jalan tua di pusat kota, Anda dapat menemukan sebuah kuil Mariamman. Patung Amman berwajah kuning oker, dan perayaan yang digelar menjelang musim hujan, bukanlah kebetulan — semuanya mengandung lebih dari satu setengah abad sejarah dan tradisi keyakinan sebuah komunitas Tamil.

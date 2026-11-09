@@ -71,6 +71,7 @@ social:
     - LHDN
     - PersonalTax
     - VSS
+framework: explainer
 ---
 
 Việc mất việc thường đi kèm với một khoản chi trả, và câu hỏi đầu tiên thường là câu hỏi sai: «tôi sẽ phải trả bao nhiêu thuế trên đó?» Câu hỏi đúng là «bao nhiêu trong số này thực sự là *bồi thường cho việc mất việc làm của tôi* — và bao nhiêu chỉ là tiền lương thông thường của tôi được ngụy trang?» Luật thuế Malaysia vạch một ranh giới rõ ràng giữa hai loại, và chỉ một phía của ranh giới đó được hưởng sự miễn hào phóng. Chia sai và bạn hoặc trả thừa thuế hoặc nhận một sự đánh thuế khó chịu sau đó.

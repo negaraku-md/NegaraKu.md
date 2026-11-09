@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "jkkk-village-safety-committee" }
 related: ["pdrm"]
 keywords: ["rukun tetangga", "skim rondaan sukarela", "SRS", "KRT", "kepolisan komuniti", "JPNIN", "Akta 751", "keselamatan kejiranan"]
+framework: explainer
 ---
 
 Đèn đường vào ban đêm ở khu dân cư thường bị che khuất một phần bởi hai hay ba người đạp xe hoặc đi bộ với đèn pin — những người hàng xóm đang tuần tra khu vực của chính mình. Họ không phải là cảnh sát. Họ là thành viên của Chương trình Tuần tra Tình nguyện, và họ đại diện cho lớp phòng chống tội phạm đầu tiên ở hầu hết các khu phố của Malaysia: cộng đồng tự bảo vệ cộng đồng của mình, một cách liên tục cùng với Cảnh sát Hoàng gia Malaysia (PDRM).

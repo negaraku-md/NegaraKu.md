@@ -80,6 +80,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: explainer
 ---
 
 在马来西亚各地筹划一趟旅程、一场产品发布或一次发薪作业，你很快就会发现一件令外来者措手不及的事：在吉隆坡是公共假期的一天，在古晋可能只是寻常的工作日，反之亦然。与其说马来西亚有一份全国性的假期名单，不如说它是一个全国层级再叠上十三个州层级。

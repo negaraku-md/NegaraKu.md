@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "miti" }
 related: ["import-export-licence-malaysia", "automotive-industry-malaysia", "miti"]
 keywords: ["approved permit", "AP Malaysia", "open AP", "franchise AP", "car import permit", "permit import kenderaan", "MITI AP", "parallel import car Malaysia"]
+framework: explainer
 ---
 
 在马来西亚的汽车市场里，很少有三个字母的缩写能像「AP」这般举足轻重。它是进口车在本地往往比国外贵得多的原因，是数十年政治争论的焦点，也是一张大多数买家从未见过、却始终在为之买单的准证。

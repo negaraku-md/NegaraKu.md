@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "hinduism-in-malaysia" }
 related: ["hinduism-in-malaysia", "deepavali", "thaipusam", "pongal", "mariamman-worship", "hindu-temple-architecture"]
 keywords: ["நவராத்திரி", "Navaratri", "Navratri", "கொலு", "Golu", "விஜயதசமி", "சரஸ்வதி பூஜை", "ஆயுத பூஜை", "வித்யாரம்பம்", "மலேசியா நவராத்திரி", "கர்பா தாண்டியா"]
+framework: history-culture
 ---
 
 நவராத்திரி நாட்களில் மலேசியத் தமிழ் இந்து வீடு ஒன்றின் வரவேற்பறையில் ஒரு

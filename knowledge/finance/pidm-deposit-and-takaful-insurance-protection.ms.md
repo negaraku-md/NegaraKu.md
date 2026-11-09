@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "fixed-deposit-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["PIDM", "deposit insurance", "RM250000", "takaful protection", "TIPS", "Perbadanan Insurans Deposit Malaysia", "Malaysia Deposit Insurance Corporation Act 2011", "insurance benefits protection"]
+framework: explainer
 ---
 
 Jika sebuah bank Malaysia runtuh esok, wang dalam akaun simpanan anda tidak akan lenyap bersamanya. Sehingga RM250,000 daripadanya disokong oleh skim perlindungan kelolaan kerajaan yang dipanggil PIDM — dan anda tidak pernah mendaftar untuknya, tidak pernah membayarnya, dan besar kemungkinan tidak pernah menyedarinya.

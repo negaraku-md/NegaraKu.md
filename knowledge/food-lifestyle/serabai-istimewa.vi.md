@@ -74,6 +74,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#SerabaiIstimewa", "#Serabai", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 Nép mình vào nhịp buổi sáng của George Town, Serabai Istimewa chỉ làm một việc và

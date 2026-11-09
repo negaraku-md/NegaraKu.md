@@ -68,6 +68,7 @@ keywords:
   - "cabutan sijil kelahiran"
   - "JPN.LM01"
   - "JPN.LM12"
+framework: how-to
 ---
 
 多くの新米の親は、子の出生登録を、時間ができたときまで先延ばしにできる無料の

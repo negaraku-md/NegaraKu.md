@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["hinduism-in-malaysia", "thaipusam", "deepavali", "estate-tamil-community", "pongal", "tamil-in-malaysia"]
 keywords: ["மாரியம்மன் வழிபாடு", "மாரியம்மன்", "அம்மன் வழிபாடு", "Mariamman worship", "Mariamman Malaysia", "ஸ்ரீ மகாமாரியம்மன் கோயில்", "தீமிதி"]
+framework: history-culture
 ---
 
 在马来西亚几乎任何一座老橡胶园丘附近，以及城镇中心那些历经岁月的老街上，都能见到一座马里安曼庙。那尊面庞涂成赭黄色的安曼神像，以及在雨季来临前举行的庆典，并非偶然——它们承载着一个泰米尔社群长达一个半世纪以上的历史与信仰传统。

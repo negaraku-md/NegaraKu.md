@@ -78,6 +78,7 @@ relations:
   - { rel: "administered-by", to: "employment" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage"]
 keywords: ["sabah labour ordinance", "sarawak labour ordinance", "cap 67", "cap 76", "east malaysia employment law", "jtk sabah", "jtk sarawak"]
+framework: explainer
 ---
 
 "말레이시아 고용법"을 검색하면 얻는 모든 결과가 반도 말레이시아를 설명하면서도 그

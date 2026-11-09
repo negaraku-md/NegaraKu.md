@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["independence-1957", "formation-of-malaysia-1963", "melaka-sultanate"]
 keywords: ["pendudukan Jepun", "Tanah Melayu 1941-1945", "duit pisang", "Kota Bharu 1941", "pentadbiran tentera Jepun", "Perang Dunia Kedua Malaysia"]
+framework: history-culture
 ---
 
 Eight weeks. That is the span between the first landing of Japanese forces on the Kelantan coast and the day the whole of Malaya was in Japanese hands — a territory that had been ruled by the British, in various forms, for more than a century and a half.

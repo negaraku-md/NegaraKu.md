@@ -90,6 +90,7 @@ keywords:
   - "charcoal grilled skewers"
 social:
   hashtags: ["#Satay", "#SatayKajang", "#SatayCelup", "#MalaysianFood", "#Malaysia"]
+framework: explainer
 ---
 
 يأتي الصوت أولًا: مروحة يدوية تخفق فوق خندق من الفحم المتوهّج، وفحيح الدهن المتقاطر، ثم عبير

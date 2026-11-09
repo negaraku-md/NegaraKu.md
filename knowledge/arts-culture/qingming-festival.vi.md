@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-new-year", "hungry-ghost-festival", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["清明节", "Cheng Beng", "扫墓", "拜山", "祭祖", "慎终追远", "金银纸", "纸扎", "后土", "土地公", "灵骨塔", "骨灰龛", "三保山", "Bukit Cina", "富贵山庄", "Qingming Festival", "Tomb-Sweeping Day"]
+framework: history-culture
 ---
 
 Một buổi sáng sớm đầu tháng Tư, trên các lối đi trong nghĩa trang bắt đầu xuất hiện từng gia đình. Có người xách xô và liềm, có người xách giỏ đầy đồ ăn nấu chín, trái cây và tiền giấy. Tìm được phần mộ nhà mình, người trẻ bắt tay nhổ cỏ, quét lá, còn người lớn tuổi chỉ dẫn cách tô lại từng nét chữ phai mờ trên bia mộ; chỉ khi phần mộ đã sạch sẽ mới bày đồ cúng, thắp hương vái lạy, và cuối cùng đốt tiền giấy trên khoảng đất trống bên cạnh. Giữa khói và lửa, Thanh Minh một năm một lần cứ thế trôi qua.

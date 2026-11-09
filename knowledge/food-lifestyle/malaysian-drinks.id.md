@@ -102,6 +102,7 @@ verificationNeeded:
   - "Komposisi standar pasti air mata kucing (longan, luo han guo, kundur, gula batu dalam proporsi yang beragam) dan pembacaan 'mata kucing' sebagai longan vs pembacaan rakyat 'air mata kucing' — konfirmasikan dengan sumber kuliner atau leksikografis."
   - "Klaim bahwa jus pala Penang berakar dari budidaya pala oleh Inggris yang diperkenalkan pada akhir abad ke-18 — diulang oleh media wisata tetapi tidak dikonfirmasi di sini terhadap sumber sejarah."
   - "Apakah akan mengatribusikan kedatangan bubble tea di Malaysia ke dekade atau jaringan tertentu — perlakukan kerangka 'asal Taiwan, gelombang kemudian di Malaysia' sebagai umum hingga sumber bertanggal dikonfirmasi."
+framework: explainer
 ---
 
 Minta pengunjung menyebut satu minuman Malaysia dan mereka biasanya akan menjawab

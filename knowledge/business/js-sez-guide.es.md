@@ -102,6 +102,7 @@ keywords:
   - "zonas insignia JS-SEZ"
   - "solicitud MIDA JS-SEZ"
   - "JS-SEZ tax incentive"
+framework: rules
 ---
 
 Todo resumen de la Zona Económica Especial Johor-Singapur empieza con la misma cifra: 5 por ciento

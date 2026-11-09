@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "payment-regulation-malaysia" }
 related: ["bank-negara-malaysia", "payment-regulation-malaysia"]
 keywords: ["DuitNow", "DuitNow QR", "PayNet", "pago instantáneo Malasia", "código QR Malasia", "transferencia de dinero con número de teléfono", "Bank Negara Malaysia pago digital", "Bank Negara Malaysia pembayaran digital"]
+framework: explainer
 ---
 
 El dueño de un puesto de mercado nocturno muestra un único código QR. Un cliente que usa la

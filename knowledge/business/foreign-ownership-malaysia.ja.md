@@ -115,6 +115,7 @@ keywords:
   - "pemilikan asing Malaysia"
   - "foreign ownership restrictions Malaysia"
   - "WRT foreign equity"
+framework: rules
 ---
 
 この主題についてのあらゆる案内は、同じことを述べる。すなわち*多くの分野が100%の外資持株を

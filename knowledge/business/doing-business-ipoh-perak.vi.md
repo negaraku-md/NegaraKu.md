@@ -97,6 +97,7 @@ keywords:
   - "Perak industrial land price"
   - "Perak GDP"
   - "Ipoh cost of doing business"
+framework: profile
 ---
 
 Đây là một trang ngắn có chủ đích. Chế độ pháp lý của Perak giống với của Selangor, các hội

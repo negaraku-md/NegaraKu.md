@@ -91,6 +91,7 @@ relations:
   - { rel: "part-of", to: "mydigital-blueprint" }
 related: ["malaysia-startup-ecosystem", "cradle-cip-grant", "malaysia-digital-economy-in-numbers", "mydigital-blueprint"]
 keywords: ["KL20", "KL20 Summit 2024", "KL20 Action Paper", "Malaysia startup ecosystem", "top 20 global startup hub", "Golden Pass", "pelan tindakan KL20", "Cradle Fund startup"]
+framework: explainer
 ---
 
 2024年4月，马来西亚不再用希望的语言谈论自己的初创企业，而开始用排名的语言。那番宣示很直白：在2030年前把吉隆坡送进全球前20大初创生态系统，否则就得承认这个国家一直在原地打转。

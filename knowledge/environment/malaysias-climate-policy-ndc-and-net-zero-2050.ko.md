@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "department-of-environment-doe" }
 related: ["department-of-environment-doe", "malaysias-rainforests-and-permanent-forest-reserves"]
 keywords: ["Malaysia NDC 3.0", "net zero 2050 Malaysia", "Climate Change Act Malaysia", "National Climate Change Policy 2.0", "Paris Agreement Malaysia", "emissions trading scheme", "carbon tax Malaysia", "NRES", "UNFCCC"]
+framework: explainer
 ---
 
 거의 10년 동안 말레이시아는 자국의 기후 약속을 시민이 거의 체감할 수 없는 방식, 즉 GDP 단위당 배출로 측정했습니다. 2025년 10월 그것이 바뀌었습니다. 말레이시아는 유엔에 배출이 정점에 이르는 수준을 기준으로 고정된 양의 온실가스 — 1,500만에서 3,000만 톤 — 를 감축하겠다고 밝혔습니다. 말레이시아가 절대 수치를 제시한 것은 처음이며, 이는 국가 기후 체계의 다른 모든 요소를 하나의 질문을 중심으로 재구성합니다. 빠르게 성장하는 석유·가스 생산 개발도상국이 어떻게 성장을 멈추지 않으면서 배출 곡선을 아래로 꺾을 것인가?

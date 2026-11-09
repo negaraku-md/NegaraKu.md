@@ -95,6 +95,7 @@ verificationNeeded:
   - "The Peranakan (Nyonya) attribution of bubur cha cha and the meaning of its name — commonly repeated in food media but lightly documented; confirm with a Peranakan culinary or heritage source."
   - "Whether specific desserts here (e.g. cendol, pulut hitam) carry formal Malaysian National Heritage food designations, and their dates — confirm with the Department of National Heritage (Jabatan Warisan Negara) rather than food media."
   - "Ingredient and preparation specifics (e.g. exact starches used in cendol jelly, whether tau fu fah is set with gypsum or glucono-delta-lactone) vary by recipe and region; treat the descriptions here as typical rather than definitive."
+framework: explainer
 ---
 
 Malaysia's savoury food gets most of the attention, but the country has a deep,

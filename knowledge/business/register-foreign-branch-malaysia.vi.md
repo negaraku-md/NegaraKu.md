@@ -122,6 +122,7 @@ keywords:
   - "foreign company local agent Malaysia"
   - "branch registration fee SSM"
   - "foreign company annual return Malaysia"
+framework: how-to
 ---
 
 Lệ phí đăng ký là phần mà mọi người đều dự trù. Nó không phải là phần gây đau.

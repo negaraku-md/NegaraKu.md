@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "auditor-report" }
 related: []
 keywords: ["surat perwakilan pengurusan", "management representation letter", "ISA 580", "perwakilan bertulis", "written representations", "bukti audit", "juruaudit"]
+framework: explainer
 ---
 
 Towards the end of every audit, directors are asked to sign a document that is easy to overlook but carries real weight: a letter attesting, with their own signature, that they have told the auditor everything. That is the management representation letter.

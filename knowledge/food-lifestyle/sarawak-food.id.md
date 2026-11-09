@@ -95,6 +95,7 @@ verificationNeeded:
   - "Apakah laksa Sarawak mengandung santan — sumber-sumber bertentangan (ada yang menggambarkan kuah yang diperkaya sedikit dengan santan; ada yang mengatakan hampir atau sama sekali tidak ada). Konfirmasikan dengan sumber kuliner atau warisan Sarawak."
   - "Asal-usul kek lapis Sarawak (beberapa catatan menyebut kue berlapis ini diperkenalkan ke Sarawak oleh migran Betawi/Indonesia pada tahun 1970-an sebelum dilokalkan) — konfirmasikan dengan sumber warisan kuliner alih-alih media makanan."
   - "Penetapan Kuching sebagai Kota Kreatif Gastronomi UNESCO, dilaporkan pada 2021 dan sebagai kota Malaysia pertama yang diakui demikian — konfirmasikan dengan daftar primer Jaringan Kota Kreatif UNESCO."
+framework: explainer
 ---
 
 Seberangi Laut China Selatan dari Semenanjung Malaysia menuju Sarawak, dan makanan

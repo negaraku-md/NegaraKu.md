@@ -102,6 +102,7 @@ verificationNeeded:
   - "La composition standard exacte de l'air mata kucing (longane, luo han guo, courge cireuse, sucre candi en proportions variables) et la lecture de « mata kucing » comme longane face à la lecture populaire des « larmes de chat » — à confirmer auprès d'une source culinaire ou lexicographique."
   - "L'affirmation selon laquelle le jus de muscade de Penang remonte à la culture de la muscade introduite par les Britanniques à la fin du XVIIIe siècle — reprise par les médias de voyage mais non confirmée ici face à une source historique."
   - "Faut-il attribuer l'arrivée du bubble tea en Malaisie à une décennie ou à une chaîne précise — traiter le cadrage « origine taïwanaise, vague ultérieure en Malaisie » comme général jusqu'à confirmation d'une source datée."
+framework: explainer
 ---
 
 Demandez à un visiteur de nommer une boisson malaisienne et il dira d'ordinaire

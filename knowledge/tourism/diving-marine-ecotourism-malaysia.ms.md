@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "sabah-travel-guide" }
 related: []
 keywords: ["Sipadan diving permit", "Malaysia marine park fees", "Sabah Parks", "Department of Fisheries marine park", "scuba diving Malaysia", "marine ecotourism"]
+framework: rules
 ---
 
 Air paling jernih di Malaysia juga yang paling sukar dicapai: untuk menyelam ke dinding Sipadan anda memerlukan permit kerajaan yang tidak boleh dibeli secara terus dengan wang berapa banyak sekalipun. Fakta tunggal itu menggambarkan cara negara ini menguruskan pelancongan selamnya — akses dicatu, diberi harga, dan dibahagikan antara dua pihak berkuasa yang sangat berbeza bergantung pada laut mana yang anda mahu selami.

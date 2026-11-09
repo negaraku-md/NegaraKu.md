@@ -84,6 +84,7 @@ keywords:
   - "Malaysia student pass application"
   - "public vs private university Malaysia"
   - "MOHE approved institution Malaysia"
+framework: explainer
 ---
 
 Une lettre d'offre émanant du mauvais type d'établissement ne vaut rien pour un visa, même si le programme lui-même est parfaitement accrédité. Cette distinction — programme accrédité par rapport à établissement autorisé pour les étudiants internationaux — est là où naît la plupart de la confusion, bien avant que quiconque ne remplisse un formulaire de l'EMGS.

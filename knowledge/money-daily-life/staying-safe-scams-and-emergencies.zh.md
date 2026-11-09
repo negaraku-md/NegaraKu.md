@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "consumer-rights-and-tribunal" }
 related: ["opening-bank-account", "duitnow-qr-payments", "consumer-rights-and-tribunal"]
 keywords: ["999 Malaysia emergency number", "997 NSRC hotline", "National Scam Response Centre", "Macau scam Malaysia", "Semak Mule CCID", "Cyber999 MyCERT", "how to report a scam Malaysia", "phone scam Malaysia", "APK scam parcel"]
+framework: explainer
 ---
 
 来电者早已知道你的姓名和MyKad号码。他说自己来自警方，或国家银行，或法庭——并说你的

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "estate-tamil-community", "tamil-vernacular-schools", "chinese-language-press", "languages-spoken"]
 keywords: ["மலேசியத் தமிழ்ப் பத்திரிகைகள்", "தமிழ் நாளிதழ்கள் மலேசியா", "மலேசிய நண்பன்", "மக்கள் ஓசை", "தமிழ் நேசன்", "மின்னல் FM", "Tamil-language press in Malaysia", "Tamil newspapers Malaysia"]
+framework: history-culture
 ---
 
 Một tờ báo tiếng Tamil bên tách cà phê hay trà buổi sáng ở quán đầu phố — với một thế hệ của cộng đồng Tamil Malaysia, đó là một hình ảnh quen thuộc. Những trang báo ấy không chỉ mang tin tức trong ngày, mà còn có thông báo lễ hội đền, tin tức trường Tamil, lời chúc đám cưới, cáo phó và các bài điểm phim Tamil — đời sống thường nhật của cả một cộng đồng được in thành chữ.

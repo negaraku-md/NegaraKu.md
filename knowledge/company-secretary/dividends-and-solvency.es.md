@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "directors-duties" }
 related: ["directors-duties", "capital-reduction", "share-capital-malaysia", "loans-to-directors", "corporate-tax-rates"]
 keywords: ["dividend Malaysia Sdn Bhd", "section 131 Companies Act 2016", "solvency test dividend", "unlawful dividend director liability", "distribution out of profits"]
+framework: rules
 ---
 
 Una Sdn Bhd rentable con RM800,000 de ganancias acumuladas paga a sus dos accionistas

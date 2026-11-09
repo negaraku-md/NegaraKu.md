@@ -93,6 +93,7 @@ relations:
   - { rel: "part-of", to: "malaysia-agreement-1963" }
 related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
 keywords: ["Sabah travel guide", "Kota Kinabalu", "Mount Kinabalu climb permit", "Kinabalu Park UNESCO", "Sipadan diving permit", "Sepilok orangutan", "Sabah immigration checkpoint", "Sabah entry requirements"]
+framework: explainer
 ---
 
 Puedes volar de Kuala Lumpur a Kota Kinabalu sin salir del país y aun así hacer cola en un mostrador de inmigración cuando aterrizas. Esa sorpresa pilla desprevenidos a muchos visitantes primerizos, y es lo más importante que hay que entender antes de planificar un viaje a Sabah. Esta guía recorre la puerta de entrada, las atracciones más destacadas y las normas de entrada que hacen que Sabah se sienta como un lugar propio, porque, en un sentido muy real, lo es.

@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "dewan-negara" }
 related: ["federal-state-division", "state-assemblies-dun", "three-tiers-of-government", "dewan-rakyat", "dewan-negara"]
 keywords: ["Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "tiada Dewan Undangan Negeri", "Datuk Bandar dilantik", "DBKL Perbadanan Putrajaya Perbadanan Labuan", "Jabatan Wilayah Persekutuan", "Perkara 1 Perlembagaan Persekutuan", "pentadbiran wilayah persekutuan", "Federal Territory Malaysia governance"]
+framework: explainer
 ---
 
 한 주(state)에는 술탄이나 주지사(Yang di-Pertua Negeri)가 있고, 주총리(Menteri Besar)나 수석장관(Ketua Menteri)이 있으며, 국민이 선출한 주 입법의회(Dewan Undangan Negeri)가 있습니다. 쿠알라룸푸르(Kuala Lumpur), 푸트라자야(Putrajaya), 라부안(Labuan)에는 그중 어느 것도 없습니다. 이 세 곳은 주가 아니라 — 연방직할구이며, 연방정부가 직접 통치합니다.

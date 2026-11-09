@@ -95,6 +95,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "paternity-leave-malaysia", "employment-act-coverage", "termination-of-employment-malaysia"]
 keywords: ["maternity leave malaysia", "98 days maternity leave", "maternity allowance malaysia", "pregnant employee termination malaysia", "section 41a employment act"]
+framework: rules
 ---
 
 La mayor parte del contenido malasio sobre maternidad es una cifra. Noventa y ocho

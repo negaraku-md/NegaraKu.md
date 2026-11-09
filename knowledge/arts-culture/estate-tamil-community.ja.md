@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "tamil-vernacular-schools", "mariamman-worship", "hinduism-in-malaysia", "population-composition"]
 keywords: ["தோட்டத் தமிழர் சமூகம்", "மலேசிய இந்தியர் தோட்ட வரலாறு", "கங்காணி முறை", "ரப்பர்த் தோட்டம்", "தோட்டத் தொழிலாளர்", "மலேசிய இந்தியர்கள்", "estate Tamil community", "Malaysian Indians"]
+framework: history-culture
 ---
 
 マレーシアの多くの古い町のはずれでは、かつて緑一面に広がっていたゴム農園が、いまでは家々と商店街で埋め尽くされた住宅地に変わっている。その新しい建物のあいだに、ときおり古いアンマン寺院や小さなタミル学校が残って立っている——立ち退いていった一つの社会の、色あせない刻印として。

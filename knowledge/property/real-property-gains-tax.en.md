@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "stamp-duty" }
 related: []
 keywords: ["RPGT", "cukai keuntungan harta tanah", "CKHT", "LHDN", "pelupusan hartanah", "kadar RPGT", "pengecualian RPGT"]
+framework: rules
 ---
 
 You sell a house at a profit — but before the money reaches your account, the government wants its share. That is RPGT, a tax that sellers often overlook until the lawyer withholds thousands of ringgit at the settlement table.

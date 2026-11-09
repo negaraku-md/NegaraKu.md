@@ -85,6 +85,7 @@ relations:
   - { rel: "affects", to: "capital-allowances" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "company-tax-residence", "income-tax-act-1967", "dormant-company-audit-exemption"]
 keywords: ["business loss carry forward Malaysia", "section 44A group relief", "unabsorbed capital allowances", "10 year loss limit", "substantial change in shareholding"]
+framework: explainer
 ---
 
 같은 그룹의 두 회사가 모두 손실을 내고 있으며, 둘 다 이익이 오면 손실이 그대로 있을 것이라고 가정하는 이사들을 두고 있습니다. 하나는 2035년에도 여전히 손실을 가지고 있을 것입니다. 다른 하나는 그렇지 않으며, 그 매매에 관한 어떤 것도 그 차이를 설명하지 않습니다.

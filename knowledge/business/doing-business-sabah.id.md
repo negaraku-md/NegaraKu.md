@@ -124,6 +124,7 @@ keywords:
   - "DBKK trading licence fee"
   - "SEDIA Sabah Development Corridor"
   - "Sabah state sales tax"
+framework: profile
 ---
 
 Hampir setiap panduan nasional untuk menjalankan bisnis di Malaysia keliru

@@ -69,6 +69,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["DeWan1958", "ChefWan", "BibGourmand", "MichelinGuideMalaysia", "KualaLumpur"]
+framework: profile
 ---
 
 De. Wan 1958은 쿠알라룸푸르 Taman U Thant의 The LINC KL에 자리한 말레이시아

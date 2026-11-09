@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-special-rights-ma63" }
 related: []
 keywords: ["hasil negeri", "geran perkapita", "geran jalan raya negeri", "Jadual Kesepuluh", "Perkara 109", "Perkara 110", "kewangan persekutuan-negeri", "royalti", "cukai jualan negeri"]
+framework: explainer
 ---
 
 Apabila sebuah kerajaan negeri di Malaysia menyusun belanjawannya, ia bermula dengan satu realiti yang jarang disebut: cukai yang paling besar hasilnya — cukai pendapatan, cukai jualan dan perkhidmatan, kastam — bukan miliknya untuk dipungut. Sumber itu tergolong dalam bidang kuasa Persekutuan. Apa yang tinggal untuk negeri, dan bagaimana jurang itu diisi, ditetapkan hitam-putih dalam Perlembagaan Persekutuan.

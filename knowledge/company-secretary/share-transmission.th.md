@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "share-transfer" }
 related: ["share-transfer", "register-of-members", "stamp-duty-share-transfer", "beneficial-ownership"]
 keywords: ["transmission of shares Malaysia", "shares after shareholder dies", "section 109 Companies Act 2016", "probate shares Sdn Bhd", "trustee in bankruptcy shares"]
+framework: how-to
 ---
 
 ผู้ถือหุ้นในบริษัท Sdn Bhd ที่มีสองคนเสียชีวิต กรรมการที่รอดชีวิตขอให้เลขานุการ "ทำการโอนหุ้นให้ภรรยาม่าย" คำสั่งนั้นผิดในแทบทุกประเด็น — ผิดมาตรา ผิดเอกสาร ผิดกำหนดเวลา และชี้ไปที่การเรียกอากรแสตมป์ที่อาจไม่เกิดขึ้น

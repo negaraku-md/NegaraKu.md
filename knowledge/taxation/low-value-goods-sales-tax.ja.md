@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["sales-tax-explained", "customs-import-duty", "sst-registration"]
 keywords: ["low value goods", "LVG sales tax", "online shopping tax Malaysia", "10% sales tax imported goods", "MyLVG", "cukai jualan barang bernilai rendah", "RMCD low value goods"]
+framework: explainer
 ---
 
 長年にわたり、海外のウェブストアで注文したRM500未満のガジェットは、無税で玄関先に届いていた。2024年1月1日以降、それは変わった。

@@ -76,6 +76,7 @@ social:
     - CP204
     - CP500
     - ByrHASiL
+framework: how-to
 ---
 
 Jika sebuah tagihan pajak tiba yang tidak dapat Anda lunasi dalam satu pembayaran, otoritas pajak Malaysia tidak lagi mengharuskan Anda antre di cabang untuk mengatur angsuran. Sejak Maret 2025 Anda dapat mengajukan permohonan daring, dalam beberapa klik, melalui **e-Ansuran** di portal MyTax — dan memperoleh persetujuan secara otomatis. Tetapi 'membayar pajak secara angsuran' di Malaysia sebenarnya berarti tiga hal yang berbeda, dan mengacaukannya adalah tempat orang keliru. Berikut adalah cara e-Ansuran berfungsi, dan bagaimana ia berbeda dari skema angsuran CP500 dan CP204.

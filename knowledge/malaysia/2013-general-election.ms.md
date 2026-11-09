@@ -65,6 +65,7 @@ sources:
 
 related: ["najib-razak", "anwar-ibrahim", "barisan-nasional", "2018-change-of-government", "how-elections-work"]
 keywords: ["PRU13", "GE13", "pilihan raya umum 2013 Malaysia", "Barisan Nasional", "Pakatan Rakyat", "undi popular"]
+framework: history-culture
 ---
 
 > **Draf — sensitif.** Artikel ini ialah ringkasan neutral yang masih dalam

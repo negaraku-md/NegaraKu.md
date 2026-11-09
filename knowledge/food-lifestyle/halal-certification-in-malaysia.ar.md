@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "business-licence-malaysia" }
 related: ["fnb-licence-malaysia", "premise-licence-malaysia", "business-licence-malaysia"]
 keywords: ["شهادة الحلال", "sijil halal", "JAKIM", "MS 1500", "MYeHALAL", "شعار الحلال الماليزي", "اعتماد الحلال", "Verify Halal"]
+framework: explainer
 ---
 
 يمكن العثور على شعارات كثيرة وعلى كلمة «حلال» على العبوات وفي محال الطعام، لكن ليست كلها تحمل اعترافًا رسميًا. ففي ماليزيا، لا تسند الجهات المعيَّنة سوى علامة حلال واحدة: شعار الحلال الماليزي الصادر عن JAKIM. وفهم كيفية عمل الشهادة يمنحك أمرين في آنٍ — كيف يتحقّق المستهلكون من حالة الحلال لمنتج ما، وكيف يحصل المشغّلون على علامة التحقق الرسمية.

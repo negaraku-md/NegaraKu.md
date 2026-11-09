@@ -89,6 +89,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
 keywords: ["section 109B", "section 4A income", "technical fees withholding tax Malaysia", "special classes of income", "PR 10/2019", "derived from Malaysia"]
+framework: rules
 ---
 
 マレーシアの財務チームに、なぜ外国人コンサルタントの発票について源泉徴収をしなかったのかと尋ねれば、答えはほぼ決まって同じである。*業務は海外で行われた*。その答えは2017年1月17日までは正しく、その日からその年の9月6日までは誤りであり、今はまた正しい——ただし理由はまったく異なり、しかも多くのガイドが触れない抜け穴がある。

@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "dta-network" }
 related: ["dta-network", "company-tax-residence", "transfer-pricing-documentation", "withholding-tax-rates"]
 keywords: ["permanent establishment Malaysia", "section 12(3) Income Tax Act", "place of business Malaysia tax", "remote employee permanent establishment Malaysia", "dependent agent PE Malaysia"]
+framework: explainer
 ---
 
 말레이시아는 고정사업장 규칙을 두 번 규정하며, 두 버전은 일치하지 않습니다.

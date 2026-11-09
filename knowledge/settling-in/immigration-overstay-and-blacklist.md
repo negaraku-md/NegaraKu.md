@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "dependant-social-visit-passes", "student-pass"]
 keywords: ["overstay Malaysia", "immigration blacklist", "Special Pass", "Immigration Act 1959/63", "compound fine", "re-entry ban", "section 15", "Overstay Management Programme"]
+framework: rules
 ---
 
 A pass that lapsed by a single day is, in the eyes of Malaysian law, the same offence as one that lapsed by a hundred. That is the uncomfortable starting point for anyone who realises their visit, employment, dependant, student, or professional pass has run out — and it shapes everything about what happens next.

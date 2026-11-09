@@ -109,6 +109,7 @@ keywords:
   - "Kuala Lumpur premise licence fee"
   - "Federal Territory Planning Act 1982"
   - "TRX Marquee status incentives"
+framework: profile
 ---
 
 Kuala Lumpur ialah satu-satunya tempat di Malaysia di mana anda boleh membaca fi lesen

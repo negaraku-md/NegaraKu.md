@@ -71,6 +71,7 @@ sources:
 relations: []
 related: ["choosing-accounting-secretarial-audit-tax-firm-malaysia", "company-secretary-malaysia", "audit-exemption-criteria", "accounting-records-section-245"]
 keywords: ["tukar setiausaha syarikat Malaysia", "singkir juruaudit Malaysia", "tukar ejen cukai LHDN", "tukar firma perakaunan Malaysia", "letak jawatan setiausaha syarikat seksyen 237", "notis khas singkir juruaudit", "tukar firma perkhidmatan korporat Malaysia", "cara tukar setiausaha syarikat SSM", "ganti juruaudit Akta Syarikat 2016", "tukar juru pegang buku Malaysia"]
+framework: how-to
 ---
 
 Lambat laun sesebuah syarikat membesar melebihi penyedianya — fi meningkat, perkhidmatan menjadi senyap, atau anda sekadar menemui padanan yang lebih baik. Nalurinya ialah menghantar satu e-mel dan beredar. Tetapi Malaysia tidak mengendalikan keempat-empat profesional ini dengan cara yang sama: melepaskan juru pegang buku anda ialah satu panggilan telefon, manakala menyingkir juruaudit anda ialah proses formal yang dilindungi undang-undang. Berikut cara setiap satu sebenarnya berfungsi, dan bagaimana menukar tanpa meninggalkan jurang pematuhan.

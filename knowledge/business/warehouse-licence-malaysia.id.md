@@ -81,6 +81,7 @@ social:
     - DoingBusinessInMalaysia
     - SupplyChain
     - MalaysiaTrade
+framework: explainer
 ---
 
 Tanyakan "bagaimana saya mendapatkan izin gudang di Malaysia?" dan jawaban pertama yang jujur adalah sebuah pertanyaan balik: apa yang Anda simpan, dan untuk siapa? Sebab tidak ada satu "izin gudang" tunggal. Sebuah ruang stok biasa untuk barang Anda sendiri diberi izin oleh pemerintah daerah seperti tempat usaha lainnya. Sebuah gudang berikat yang menahan barang impor dengan bea-nya dimatikan diberi izin oleh Bea Cukai berdasarkan satu seksyen khusus Akta Kastam. Dan sebuah pabrik yang membuat serta menyimpan barang untuk ekspor adalah jenis ketiga yang sama sekali berbeda. Pilih yang salah dan Anda bisa jadi patuh berlebihan — membayar bon Bea Cukai yang tak pernah Anda perlukan — atau kurang patuh dan tertangkap menahan barang kena bea tanpa izin.

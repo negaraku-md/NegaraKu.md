@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "sdn-bhd-financial-statements-filing" }
 related: []
 keywords: ["audit statutori", "pengecualian audit", "Akta Syarikat 2016", "seksyen 267", "PD 10/2024", "juruaudit Sdn Bhd", "SSM audit exemption"]
+framework: rules
 ---
 
 Anda baru mendaftarkan Sdn Bhd, usaha masih kecil, dan sekretaris perusahaan baru saja mengirimkan faktur imbalan audit. Persoalannya bukan "berapa biaya audit" — melainkan "apakah saya memang wajib diaudit?" Bagi kebanyakan perusahaan sendirian berhad di Malaysia, jawaban bawaannya adalah **ya**, dan hanya sekelompok kecil perusahaan yang benar-benar memenuhi syarat untuk lepas darinya.

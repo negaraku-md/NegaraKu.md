@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "credit-reporting-agencies-act-2010" }
 related: []
 keywords: ["CCRIS", "CTOS", "laporan kredit", "skor kredit", "eCCRIS", "Bank Negara Malaysia", "Akta Agensi Pelaporan Kredit 2010"]
+framework: explainer
 ---
 
 You apply for a home loan, everything looks in order, but the bank rejects the application without much explanation. Behind that decision there are often two names that are rarely mentioned to you openly: CCRIS and CTOS. Both hold a picture of how you manage your money, and you have the right to see what is written in them.

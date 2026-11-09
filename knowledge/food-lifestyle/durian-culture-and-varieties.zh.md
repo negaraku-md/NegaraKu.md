@@ -93,6 +93,7 @@ keywords:
   - "varieti durian"
   - "musim durian"
   - "eksport durian China"
+framework: explainer
 ---
 
 在马来西亚，榴莲不仅仅是一种水果 — 它被称为果王，而在旺季高峰时，它能够堵塞街道、

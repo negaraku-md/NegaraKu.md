@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: []
 keywords: ["franchise registration malaysia", "franchise act 1998", "MyFEX 2.0", "franchisor registration", "franchisee registration", "franchise disclosure document", "section 6 franchise act", "section 54 approval"]
+framework: how-to
 ---
 
 말레이시아에서는 세계 대부분의 지역에서 하는 방식 — 먼저 조용히 몇 개의 매장을 확보하고 나중에 형식을 갖추는 것 — 으로 프랜차이즈를 합법적으로 제안할 수 없습니다. 법은 그 순서를 뒤집습니다. 등록은 첫 제안보다 앞서며, 2022년 이래 프랜차이지에게도 적용됩니다.

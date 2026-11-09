@@ -100,6 +100,7 @@ relations:
   - { rel: "governs", to: "akta-warisan-kebangsaan-2005" }
 related: ["batik", "songket", "wau"]
 keywords: ["keris", "empu", "pamor", "luk", "warisan Melayu", "Taming Sari", "keris Melayu", "Akta Warisan Kebangsaan 2005", "budaya Nusantara"]
+framework: history-culture
 ---
 
 Une lame dentelée comme une langue de feu, forgée dans du fer et du nickel repliés des centaines de fois par la main d'un empu — le keris n'est pas une simple arme, mais le pouls de la civilisation malaise. On le portait à la ceinture des guerriers, on le brandissait lors des cérémonies royales et on le transmettait de génération en génération comme relique familiale. Jusqu'à aujourd'hui, le keris demeure un symbole de souveraineté, de bravoure et de l'identité d'un peuple.

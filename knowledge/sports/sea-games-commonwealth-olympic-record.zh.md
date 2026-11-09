@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "negaraku-anthem" }
 related: ["negaraku-anthem"]
 keywords: ["Malaysia Olympic medals", "SEA Games", "Commonwealth Games 1998", "Lee Chong Wei", "Malaysia gold medal", "medal tally"]
+framework: data-reference
 ---
 
 马来西亚已15次登上奥运领奖台——而每一次响起的都是别国的国歌。

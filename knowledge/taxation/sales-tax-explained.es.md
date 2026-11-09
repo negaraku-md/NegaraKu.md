@@ -106,6 +106,7 @@ relations:
   - { rel: "compares-with", to: "sst-expansion-2025" }
 related: ["sst-explained", "sst-registration", "sst-02-filing", "sst-rate-table"]
 keywords: ["sales tax Malaysia", "sales tax rate 2025", "Schedule C exemption", "CJ5 CJ5A", "sales tax deduction facility", "manufacturer sales tax"]
+framework: explainer
 ---
 
 Si su asesor le ha dicho que presente un CJ5 para comprar materias primas libres de

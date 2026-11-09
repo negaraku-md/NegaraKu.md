@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "payroll-compliance-malaysia" }
 related: ["epf-employer-guide", "payroll-compliance-malaysia", "socso-eis-employer-guide"]
 keywords: ["EPF foreign worker Malaysia", "EPF non-citizen 2 percent", "KWSP pekerja asing caruman", "Third Schedule Part F", "EPF expatriate contribution"]
+framework: rules
 ---
 
 เป็นเวลายี่สิบเจ็ดปีที่ EPF สำหรับแรงงานต่างชาติเป็นสิ่งที่นายจ้างมองข้ามได้เป็นส่วนใหญ่: ลูกจ้างสามารถเลือกเข้าร่วมได้ และหากทำเช่นนั้น ส่วนของนายจ้างคือคงที่ RM5 ต่อเดือนโดยไม่คำนึงถึงเงินเดือน การจัดการนั้นไม่มีอยู่อีกต่อไป มันไม่ได้ถูกแก้ไข — แต่ถูกยกเลิก

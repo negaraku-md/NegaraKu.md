@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "free-trade-agreements" }
 related: ["sales-and-service-tax", "malaysia-free-trade-agreements"]
 keywords: ["import duty", "customs duty", "HS code", "AHTN", "tariff classification", "ATIGA", "Form D", "CIF", "sales tax on imports", "Customs Act 1967"]
+framework: explainer
 ---
 
 Two identical shipments can land in Port Klang and pay wildly different duty — not because of what they contain, but because of the eight-digit code someone typed on the declaration. That code is the whole game.

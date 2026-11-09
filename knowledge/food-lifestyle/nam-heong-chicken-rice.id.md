@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#NamHeong", "#ChickenRice", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Di Jalan Sultan, di tengah kota tua Kuala Lumpur, sepiring ayam rebus di atas nasi

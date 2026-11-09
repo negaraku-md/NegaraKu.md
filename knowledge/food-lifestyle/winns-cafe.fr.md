@@ -74,6 +74,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#WinnsCafe", "#Peranakan", "#Nyonya", "#Penang", "#BibGourmand"]
+framework: profile
 ---
 
 Penang est le vieux cœur de la cuisine des Chinois des Détroits, et Winn's Cafe

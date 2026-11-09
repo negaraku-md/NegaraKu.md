@@ -74,6 +74,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["Aliyaa", "SriLankanFood", "BibGourmand", "MichelinGuideMalaysia", "KualaLumpur"]
+framework: profile
 ---
 
 Aliyaa 是位于吉隆坡 Bukit Damansara 的一家斯里兰卡餐厅，也是这座城市里相对少数专注于该菜系的餐厅之一。它以 Bib Gourmand 之姿出现在 [MICHELIN Guide Malaysia](/zh/food-lifestyle/michelin-guide-malaysia)。

@@ -95,6 +95,7 @@ keywords:
   - "Malaysian rice dish"
 social:
   hashtags: ["#NasiKandar", "#Penang", "#Mamak", "#MalaysianFood", "#Banjir", "#GeorgeTown"]
+framework: explainer
 ---
 
 ลองถามใครก็ได้ในปีนังว่ามื้อดึกควรไปกินที่ไหน คำตอบมักกลับมาเป็นสองคำ: nasi kandar

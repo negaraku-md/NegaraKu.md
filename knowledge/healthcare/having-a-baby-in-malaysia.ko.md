@@ -61,6 +61,7 @@ relations:
   - { rel: "explained-in", to: "registering-a-birth" }
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "registering-a-birth"]
 keywords: ["having a baby in Malaysia", "pregnancy Malaysia", "antenatal care Malaysia", "Pink Book pregnancy", "Rekod Kesihatan Ibu", "klinik kesihatan pregnant", "public vs private delivery Malaysia", "birth registration JPN", "maternity Malaysia", "government hospital delivery Malaysia"]
+framework: explainer
 ---
 
 양성 임신 테스트는 두 개의 시계를 동시에 시작하는데, 이를 미리 설명해 주는 사람은 거의 없습니다. 하나의 시계는 임신 자체에 관한 것입니다 — 언제, 어디에 등록하고, 각 방문에서 무슨 일이 일어나는지. 다른 하나는 아기가 온 뒤에야 시작되며 병원과는 아무 상관이 없습니다: 완전히 다른 부서에의 법적 등록입니다.

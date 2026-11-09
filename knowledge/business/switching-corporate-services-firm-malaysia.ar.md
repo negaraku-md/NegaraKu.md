@@ -71,6 +71,7 @@ sources:
 relations: []
 related: ["choosing-accounting-secretarial-audit-tax-firm-malaysia", "company-secretary-malaysia", "audit-exemption-criteria", "accounting-records-section-245"]
 keywords: ["تغيير أمين سر الشركة ماليزيا", "change company secretary Malaysia", "عزل المدقّق ماليزيا", "remove auditor Malaysia", "تغيير الوكيل الضريبي LHDN", "change tax agent LHDN", "تبديل شركة محاسبة ماليزيا", "switch accounting firm Malaysia", "استقالة أمين السر المادة 237", "الإشعار الخاص لعزل المدقّق", "تغيير شركة خدمات مؤسسية ماليزيا", "replace auditor Companies Act 2016"]
+framework: how-to
 ---
 
 عاجلًا أم آجلًا، تتجاوز الشركة مزوّدًا — ترتفع الأتعاب، أو تهدأ الخدمة، أو تجد ببساطة ما يناسبك أكثر. والغريزة أن ترسل رسالة واحدة وتمضي. لكن ماليزيا لا تعامل هؤلاء المهنيين الأربعة بالطريقة نفسها: فإسقاط مُمسك دفاترك مكالمة هاتفية، بينما عزل مدقّقك عملية رسمية محميّة قانونًا. وإليك كيف يعمل كلٌّ منها فعليًا، وكيف تبدّل دون أن تترك فجوة امتثال.

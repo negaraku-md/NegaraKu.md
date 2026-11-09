@@ -85,6 +85,7 @@ relations:
   - { rel: "explained-in", to: "federal-constitution-malaysia" }
 related: ["yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["raja melayu", "sultan", "yang di-pertuan besar", "raja perlis", "pewarisan takhta", "raja berperlembagaan", "adat perpatih", "perlembagaan negeri", "majlis raja-raja"]
+framework: explainer
 ---
 
 Behind a single Federation, Malaysia holds nine thrones older than the nation itself. Each has its own palace, customs of succession and state constitution, and each Ruler governs his state as a constitutional monarch — not as an absolute sovereign.

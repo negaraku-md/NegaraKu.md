@@ -64,6 +64,7 @@ relations:
   - { rel: "part-of", to: "settling-in" }
 related: ["moving-to-malaysia-first-steps", "dependant-social-visit-passes"]
 keywords: ["faire venir des animaux en Malaisie", "permis d'importation MAQIS", "règles d'importation d'animaux DVS", "quarantaine chien chat Malaisie", "races de chiens restreintes Malaisie", "ISO microchip pet import"]
+framework: how-to
 ---
 
 Votre vol est réservé, vos cartons sont faits, et soudain la question vous frappe : et le chien ? En Malaisie, un animal de compagnie ne se contente pas de voyager en soute — il lui faut un permis approuvé avant même le décollage, une puce conforme à une norme ISO précise et, très probablement, une semaine ou plus de quarantaine avant que vous puissiez le récupérer.

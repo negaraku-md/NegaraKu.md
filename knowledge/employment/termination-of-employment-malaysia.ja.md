@@ -149,6 +149,7 @@ relations:
   - { rel: "related-to", to: "retrenchment-malaysia" }
 related: ["labour-law-map-malaysia", "domestic-inquiry-malaysia", "unfair-dismissal-malaysia", "retrenchment-malaysia", "termination-benefits-malaysia", "offboarding-statutory-checklist"]
 keywords: ["termination of employment malaysia", "notice period malaysia", "at will employment malaysia", "payment in lieu of notice", "just cause or excuse", "final salary after resignation malaysia", "section 12 employment act"]
+framework: rules
 ---
 
 クアラルンプールのある使用者が、月曜日にあるマネージャーがうまくいっていないと判断する。他の地域の法律顧問であれば、予告条項について尋ねるだろう。マレーシアでは最初の問いが異なり、それこそが事案を左右する問いである。**理由は何か、そしてそれを証明できるか。**

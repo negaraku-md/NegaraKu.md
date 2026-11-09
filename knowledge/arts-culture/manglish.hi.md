@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "article-152-language" }
 related: ["bahasa-melayu", "languages-spoken", "article-152-language"]
 keywords: ["मानग्लिश", "Manglish", "मलेशियाई अंग्रेज़ी", "Malaysian English", "lah कण", "lah particle", "मलेशियाई अंग्रेज़ी विमर्श-कण", "मलेशियाई अंग्रेज़ी व्याकरण", "मलेशिया में कोड-स्विचिंग", "acrolect mesolect basilect", "ऑक्सफ़ोर्ड इंग्लिश डिक्शनरी मलेशियाई शब्द", "bahasa rojak", "मलेशियाई स्लैंग"]
+framework: explainer
 ---
 
 "Can or not?" "Wait ah, later confirm lor." "Don't play play, I already tell you."

@@ -74,6 +74,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#MingQin", "#CharKoayTeow", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 On the Penang mainland in Bukit Mertajam, a plain evening noodle stall has earned

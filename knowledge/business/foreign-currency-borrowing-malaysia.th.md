@@ -64,6 +64,7 @@ relations:
   - { rel: "part-of", to: "foreign-exchange-policy-malaysia" }
 related: ["foreign-exchange-policy-malaysia", "share-capital-malaysia"]
 keywords: ["foreign currency borrowing malaysia", "shareholder loan malaysia BNM", "offshore loan malaysia limit", "RM100 million borrowing limit", "FEP notice 2"]
+framework: rules
 ---
 
 บริษัทแม่ต่างชาติต้องการให้เงินทุนแก่บริษัทลูกในมาเลเซียด้วยเงินกู้ผู้ถือหุ้นเป็น USD แทนที่จะเป็นทุน ใครสักคนพูดถึง Bank Negara และดีลก็หยุดชะงักหนึ่งเดือนขณะที่ทุกคนตามหาการอนุมัติที่ไม่ต้องมี Part B ของ **Notice 2** ของ Foreign Exchange Policy Notices — มีผลตั้งแต่ 1 ตุลาคม 2025 — อนุมัติมันแล้วโดยไม่มีขีดจำกัด

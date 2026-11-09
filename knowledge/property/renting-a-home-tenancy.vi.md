@@ -81,6 +81,7 @@ faq:
     a: 'Không — việc bỏ qua đóng dấu không làm cho hợp đồng thuê nhà vô hiệu giữa hai bên. Nó gây ra một hệ quả cụ thể hơn: một hợp đồng chưa đóng dấu hoặc đóng dấu không đủ thường không thể được chấp nhận làm chứng cứ tại tòa cho đến khi khoản thuế còn nợ và mọi khoản phạt nộp trễ được thanh toán. Theo Luật Thuế con dấu 1949 (Stamp Act 1949), hợp đồng phải được nộp để đóng dấu trong vòng 30 ngày kể từ khi ký, và phát hiện ra lỗ hổng này giữa lúc tranh chấp là thời điểm tệ hại nhất.'
   - q: Chủ nhà có được thay khóa hoặc cắt điện nước nếu người thuê không chịu dọn đi không?
     a: Không. Điều 7(2) của Luật Cứu trợ cụ thể 1950 (Specific Relief Act 1950) cấm chủ nhà tự ý trục xuất — không được thay khóa, cắt điện hoặc nước, hay dọn đồ đạc đi trong khi người thuê vẫn còn chiếm giữ. Việc lấy lại quyền chiếm hữu đòi hỏi phải có lệnh của tòa án. Đối với tiền thuê chưa trả, chủ nhà phải nộp đơn lên tòa xin trát xiết nợ theo Luật Xiết nợ 1951 (Distress Act 1951) để tịch thu động sản của người thuê, thay vì trực tiếp đối đầu với người thuê.
+framework: explainer
 ---
 
 Hãy hỏi một chủ nhà và một người thuê ở Malaysia luật nào bảo vệ họ, và phần lớn sẽ đoán sai. Không có một "Luật Thuê nhà ở" nào để viện đến — không có một luật đơn lẻ nào đặt ra thời hạn báo trước, giới hạn tiền đặt cọc, hay nêu rõ chủ nhà được và không được làm gì khi dọn ra.

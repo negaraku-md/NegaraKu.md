@@ -74,6 +74,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["Aliyaa", "SriLankanFood", "BibGourmand", "MichelinGuideMalaysia", "KualaLumpur"]
+framework: profile
 ---
 
 Aliyaa เป็นร้านอาหารศรีลังกาใน Bukit Damansara กัวลาลัมเปอร์ และเป็นหนึ่งในไม่กี่แห่งของเมืองที่อุทิศให้กับอาหารประเภทนั้น ร้านปรากฏใน [MICHELIN Guide Malaysia](/th/food-lifestyle/michelin-guide-malaysia) พร้อม Bib Gourmand

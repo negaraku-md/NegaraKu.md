@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["thaipusam", "hinduism-in-malaysia", "indian-classical-arts-in-malaysia", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community"]
 keywords: ["கோயில் இசை", "நாதஸ்வரம்", "தவில்", "மங்கள வாத்தியம்", "உறுமி மேளம்", "காவடி", "மலேசியா கோயில் இசை", "Nadaswaram", "Thavil", "Urumi Melam"]
+framework: history-culture
 ---
 
 在大宝森节游行的最前列、一座庙宇神辇启程的那一刻，或是婚礼大堂的门口——在马来西亚的任何一场泰米尔印度教活动中，最先在空气中响起的，总是一种特定的声音：纳达斯瓦兰姆（nadaswaram）绵长的旋律，以及塔维尔鼓（thavil）的轰鸣。那声音并非偶然——它是一个多世纪以来始终伴随这个社群的 **mangala vadyam**（吉祥乐器）传统的标志。

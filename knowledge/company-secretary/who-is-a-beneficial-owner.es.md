@@ -82,6 +82,7 @@ relations:
   - { rel: "explained-in", to: "bo-register" }
 related: ["beneficial-ownership", "bo-register", "ebos-filing", "bo-non-cooperation"]
 keywords: ["who is a beneficial owner Malaysia", "beneficial owner criteria SSM", "20% shareholding beneficial owner", "ultimate effective control Malaysia", "nominee shareholder beneficial owner"]
+framework: explainer
 ---
 
 La parte difícil de la notificación de la titularidad real no es la

@@ -92,6 +92,7 @@ verificationNeeded:
   - "Công thức rang truyền thống chính xác của kopi O đậm——thường được mô tả là hạt rang với đường và margarine, và theo một số lời kể còn có lúa mì/ngô——được các thương hiệu lớn coi là bí mật thương mại và thay đổi theo từng nhà rang; hãy xác nhận chi tiết với một nguồn gốc."
   - "Thời điểm, những người tiên phong và các chi tiết quán/nhà rang hiện tại của phong trào third wave ở Kuala Lumpur một phần dựa vào một bài viết của Time Out năm 2014; các quán và nhà rang được nêu tên có thể đã thay đổi. Hãy xác nhận với các nguồn hiện tại trước khi dựa vào các chi tiết cụ thể."
   - "Quy mô và sản lượng cà phê trồng ở Malaysia (ví dụ Liberica) cùng bất kỳ tuyên bố 'single-origin Malaysia' nào nên được xác nhận với một nguồn nông nghiệp hoặc ngành, thay vì truyền thông du lịch."
+framework: history-culture
 ---
 
 Gọi "kopi" tại một quán cà phê cũ ở Ipoh, bạn sẽ nhận được một tách cà phê dày, đậm, màu

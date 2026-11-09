@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "malaysia-digital-arrival-card-mdac" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["malaysia visa", "visa-free countries malaysia", "malaysia evisa", "eNTRI", "malaysia digital arrival card", "social visit pass"]
+framework: rules
 ---
 
 கோலாலம்பூருக்கு ஒரு விமானத்தை முன்பதிவு செய்வதற்கு முன், முதல் கேள்வி "எந்த ஹோட்டல்" அல்ல — "எனது கடவுச்சீட்டு என்னை நுழைவாயிலைக் கடக்க அனுமதிக்குமா?" என்பதுதான். பெரும்பாலான பயணிகளுக்கு இதற்கான பதில் ஒரு நிம்மதி அளிக்கும், ஆனால் விதிகள் நாட்டுரிமை வாரியாகக் கூர்மையாகப் பிரிகின்றன, மேலும் இப்போது ஒரு ஆன்லைன் படிவம் கிட்டத்தட்ட அனைவருக்கும் பொருந்துகிறது.

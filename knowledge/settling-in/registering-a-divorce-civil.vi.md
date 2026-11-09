@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "getting-married-in-malaysia" }
 related: ["getting-divorced-in-malaysia", "getting-married-in-malaysia"]
 keywords: ["civil divorce Malaysia", "Law Reform Marriage and Divorce Act 1976", "Act 164", "marriage tribunal JPN", "decree nisi", "decree absolute", "joint petition divorce", "Section 106 conciliatory body", "non-Muslim divorce Malaysia"]
+framework: explainer
 ---
 
 Một cặp vợ chồng không theo Hồi giáo đăng ký hôn nhân tại JPN thường cho rằng cùng văn phòng đó có thể chấm dứt hôn nhân. Không phải vậy. Tại Malaysia, hôn nhân dân sự được đăng ký về mặt hành chính, nhưng chỉ được giải trừ bằng một bản án của tòa — và lộ trình từ một cuộc hôn nhân rạn nứt đến một bản án đóng dấu đi qua một hội đồng hòa giải, một đơn nộp Tòa án Cấp cao, và một khoảng dừng ba tháng cài sẵn trước khi ly hôn có hiệu lực cuối cùng.

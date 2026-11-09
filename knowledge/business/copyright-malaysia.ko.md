@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["ip-ownership-malaysia", "industrial-design-malaysia", "patent-malaysia"]
 keywords: ["copyright malaysia", "copyright registration malaysia", "voluntary notification copyright", "copyright act 1987", "cr-1 form myipo"]
+framework: explainer
 ---
 
 등록할 것이 없습니다. 말레이시아의 저작권은 관청이 부여하는 것이 아니라;

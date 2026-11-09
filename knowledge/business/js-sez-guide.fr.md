@@ -102,6 +102,7 @@ keywords:
   - "zones phares JS-SEZ"
   - "demande MIDA JS-SEZ"
   - "JS-SEZ tax incentive"
+framework: rules
 ---
 
 Tout résumé de la Zone économique spéciale Johor-Singapour commence par le même chiffre : 5 pour cent

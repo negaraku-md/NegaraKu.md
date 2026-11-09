@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016"]
 keywords: ["Section 17A", "MACC Act", "corporate liability", "adequate procedures", "T.R.U.S.T.", "anti-corruption Malaysia", "corporate bribery", "GIACC"]
+framework: rules
 ---
 
 ตัวแทนขายระดับล่างจ่ายเงินใต้โต๊ะเพื่อชนะสัญญา และไม่เคยบอกคณะกรรมการ ภายใต้กฎหมายมาเลเซียตั้งแต่ปี 2020 การกระทำนั้นสามารถทำให้ตัวบริษัทเองเสี่ยงต่อการถูกฟ้อง — และกรรมการเคียงข้างไปด้วย นั่นคือขอบเขตของมาตรา 17A ของ Malaysian Anti-Corruption Commission Act 2009

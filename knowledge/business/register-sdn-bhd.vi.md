@@ -137,6 +137,7 @@ keywords:
   - "cara daftar syarikat Sdn Bhd"
   - "how to open company Malaysia"
   - "CRS SSM4U registration"
+framework: how-to
 ---
 
 Hầu hết các nhà sáng lập dành hàng tuần lo lắng về việc thành lập. Nó thường là việc dễ nhất

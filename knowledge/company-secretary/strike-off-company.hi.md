@@ -75,6 +75,7 @@ relations:
   - { rel: "compares-with", to: "members-voluntary-winding-up" }
 related: ["companies-act-2016", "ssm", "members-voluntary-winding-up"]
 keywords: ["कंपनी का नाम काटना", "strike off syarikat", "धारा 550 Companies Act 2016", "seksyen 550 Akta Syarikat 2016", "SSM रजिस्टर से कंपनी काटना", "निष्क्रिय कंपनी", "syarikat dorman", "कंपनी विघटन", "voluntary dissolution Malaysia"]
+framework: how-to
 ---
 
 एक निष्क्रिय कंपनी जिसने बहुत पहले व्यापार बंद कर दिया था, कानूनी रूप से अब भी «जीवित» रहती है — उसे अब भी वार्षिक विवरणियाँ दाखिल करनी होती हैं, वह अब भी दंडों के प्रति अनावृत है, और उसके निदेशक अब भी SSM के प्रति उत्तरदायित्व वहन करते हैं। कंपनी का नाम रजिस्टर से काटना उस अस्तित्व को समाप्त करने का आधिकारिक तरीका है, किंतु यह केवल उन कंपनियों के लिए खुला है जो वास्तव में संपत्तियों, ऋणों और विवादों से मुक्त हैं।

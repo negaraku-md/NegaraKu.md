@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "public-vs-private-universities" }
 related: ["public-vs-private-universities", "warta-kerajaan", "akta"]
 keywords: ["homeschooling Malaysia", "Education Act 1996", "Section 29A", "Section 32A", "compulsory education Malaysia", "homeschool exemption", "pendidikan di rumah", "MOE exemption letter"]
+framework: explainer
 ---
 
 Mỗi tháng 1, hàng chục nghìn trẻ em Malaysia sáu tuổi bắt đầu Lớp 1 vì luật nói rằng chúng phải làm vậy. Một nhóm cha mẹ nhỏ hơn, lặng lẽ hơn chọn không ghi danh con — và ở đúng phía của luật chỉ vì một điều khoản duy nhất ẩn trong Luật Giáo dục cho phép Bộ trưởng ký lựa chọn đó thành một ngoại lệ, từng gia đình một.

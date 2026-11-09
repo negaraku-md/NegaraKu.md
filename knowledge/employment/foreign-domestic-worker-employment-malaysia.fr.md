@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "foreign-worker-levy-malaysia" }
 related: ["employment-act-1955", "foreign-worker-levy-malaysia", "minimum-wage-malaysia"]
 keywords: ["travailleuse domestique étrangère malaisie", "foreign domestic helper", "FDH Malaysia", "employée de maison malaisie", "MoU indonésie travailleuse domestique", "bon keselamatan pekerja asing", "exonération KWSP travailleuse domestique"]
+framework: rules
 ---
 
 Une travailleuse domestique étrangère entre en Malaisie par une porte entièrement différente de celle d'un ouvrier d'usine ou de plantation — pas par un quota sectoriel, pas par le One-Stop Centre des travailleurs étrangers, et pas sous la pleine protection du droit du travail. Le régime se tient de lui-même, et les employeurs qui supposent que le processus est le même que l'embauche d'un travailleur général se trompent souvent.

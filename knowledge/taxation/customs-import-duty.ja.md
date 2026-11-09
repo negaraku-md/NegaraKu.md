@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "free-trade-agreements" }
 related: ["sales-and-service-tax", "malaysia-free-trade-agreements"]
 keywords: ["import duty", "customs duty", "HS code", "AHTN", "tariff classification", "ATIGA", "Form D", "CIF", "sales tax on imports", "Customs Act 1967"]
+framework: explainer
 ---
 
 まったく同一の二つの貨物がポートクラン港に陸揚げされても、支払う関税額はまるで違うことがある——それは中身が違うからではなく、申告書に誰かが入力した八桁のコードが違うからだ。そのコードこそがすべてを決める。

@@ -85,6 +85,7 @@ social:
     - MyTax
     - DoingBusinessInMalaysia
     - MalaysiaCompliance
+framework: how-to
 ---
 
 Pendant des années, payer la retenue à la source signifiait un formulaire CP37 papier, un chèque ou un bordereau bancaire, et un déplacement jusqu'à un guichet de la LHDN — ou un courriel avec des documents numérisés — puis une attente pour voir le paiement rapproché de votre compte. Tout ce rituel est passé en ligne. **e-WHT** est le canal électronique de la LHDN pour remplir les formulaires de retenue à la source et payer l'impôt au sein du portail **MyTax**, et pour les formulaires qu'il couvre, c'est désormais la voie obligatoire, non une commodité facultative.

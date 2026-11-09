@@ -112,6 +112,7 @@ relations:
   - { rel: "affects", to: "permanent-establishment" }
 related: ["transfer-pricing-documentation", "cbcr-and-master-file", "dta-network", "permanent-establishment"]
 keywords: ["advance pricing arrangement malaysia", "apa malaysia lhdn", "bilateral apa malaysia", "apa application fee malaysia", "pu a 166 2023", "apa rollback malaysia"]
+framework: how-to
 ---
 
 Most advisors describe the advance pricing arrangement as a menu — unilateral if you want it cheap and quick, bilateral if you want treaty protection. In Malaysia there is no menu. Rule 2(2) of the Income Tax (Advance Pricing Arrangement) Rules 2023, P.U.(A) 166/2023, decides for you, and it decides on a single fact: whether the country your related party sits in has an arrangement with Malaysia under s.132 of the Income Tax Act 1967.

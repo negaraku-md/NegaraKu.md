@@ -106,6 +106,7 @@ keywords:
   - "sección 31 Ley de Sociedades 2016"
   - "section 31 Companies Act 2016"
   - "¿necesito una constitución Sdn Bhd?"
+framework: explainer
 ---
 
 La Ley de Sociedades de 2016 hizo opcional la constitución de la empresa, y toda la

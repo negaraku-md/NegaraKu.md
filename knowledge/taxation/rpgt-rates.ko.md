@@ -87,6 +87,7 @@ relations:
   - { rel: "explained-in", to: "rpgt-exemptions" }
 related: ["rpgt-exemptions", "capital-gains-tax", "capital-or-revenue", "lhdn"]
 keywords: ["RPGT rates Malaysia", "cukai keuntungan harta tanah", "RPGT computation", "RPGT 6th year", "Schedule 5 RPGTA", "CKHT"]
+framework: data-reference
 ---
 
 유통되는 거의 모든 RPGT 안내는 하나의 세율 사다리를 인쇄합니다. 30, 30, 30, 20, 15,

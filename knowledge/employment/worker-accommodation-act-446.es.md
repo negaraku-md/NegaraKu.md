@@ -121,6 +121,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: []
 keywords: ["ley 446", "certificado de alojamiento", "alojamiento de trabajadores malasia", "normas mínimas de vivienda empleados", "alojamiento centralizado", "act 446", "certificate for accommodation"]
+framework: rules
 ---
 
 Empiece por el nombre, porque casi todos los artículos sobre este tema lo equivocan. La ley es la **Ley de Normas Mínimas de Vivienda, Alojamiento y Servicios para los Empleados de 1990** (Employees' Minimum Standards of Housing, Accommodations and Amenities Act 1990) (Ley 446). Antes era la *Workers'* Minimum Standards of Housing and Amenities Act, y el apartado 4(a) de la Ley A1604 modificó el título corto con efecto a partir del 1 de junio de 2020.

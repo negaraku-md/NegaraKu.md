@@ -86,6 +86,7 @@ entity: "New Incentive Framework"
 relations: []
 related: []
 keywords: ["New Incentive Framework Malaysia", "NIF Malaysia tax incentive", "Pioneer Status Malaysia 2026", "Special Tax Rate Malaysia", "NIA Scorecard", "PIA 1986 deadline"]
+framework: explainer
 ---
 
 Pioneer Status tidak lenyap secara bertahap. Ia ditutup, pada suatu sore tertentu,

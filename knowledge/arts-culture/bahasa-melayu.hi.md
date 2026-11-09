@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: ["federal-constitution", "melaka-sultanate", "independence-1957"]
 keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Kebangsaan 1963/67", "tulisan Jawi Rumi", "Ejaan Rumi Baharu 1972"]
+framework: explainer
 ---
 
 कुआला बेरांग, तेरेंगानु में, एक शिलालेख मिला जिस पर मलय शब्द अंकित थे — उन अक्षरों में नहीं जिन्हें हम आज जानते हैं, बल्कि मलय ध्वनियों के लिए अनुकूलित अरबी लिपि में। मलेशिया राष्ट्रीय अभिलेखागार (Arkib Negara Malaysia) के अनुसार, यह शिलालेख 1303 ईस्वी का है।

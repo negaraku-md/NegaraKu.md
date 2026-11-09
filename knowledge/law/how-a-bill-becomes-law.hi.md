@@ -84,6 +84,7 @@ relations:
   - { rel: "explained-in", to: "akta" }
 related: ["federal-constitution", "parliament", "dewan-negara", "warta-kerajaan"]
 keywords: ["विधेयक अधिनियम कैसे बनता है", "मलेशिया में विधान प्रक्रिया", "पहली दूसरी तीसरी रीडिंग", "राजकीय अनुमोदन Yang di-Pertuan Agong", "Article 66 संघीय संविधान", "Dewan Negara", "अधिनियम का राजपत्रीकरण", "Article 68 धन विधेयक"]
+framework: explainer
 ---
 
 Dewan Rakyat किसी विधेयक को पारित कर सकता है, Dewan Negara उससे सहमत हो सकता है, और उस पर महान राजकीय मुहर (Great Seal) लग सकती है — और फिर भी वह किसी को नहीं बाँधता।

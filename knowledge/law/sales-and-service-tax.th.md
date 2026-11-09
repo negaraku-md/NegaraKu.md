@@ -113,6 +113,7 @@ relations:
   - { rel: "related-to", to: "income-tax-act-1967" }
 related: ["income-tax-act-1967", "companies-act-2016"]
 keywords: ["SST", "sales tax", "service tax", "RMCD", "MySST", "SST registration", "Sales Tax Act 2018", "Service Tax Act 2018", "SST rates", "SST threshold"]
+framework: rules
 ---
 
 หากคุณเคยสงสัยว่าเหตุใดใบเสร็จร้านอาหารของคุณมีบรรทัดสำหรับ "SST" แต่ใบเสร็จของชำมักไม่มี คุณได้พบกับสองครึ่งที่แตกต่างกันมากของภาษีเดียวกัน มาเลเซียไม่ได้ใช้ภาษีการบริโภคฐานกว้างเดียวเช่น GST หรือ VAT แทนที่ มันใช้ภาษีที่แคบกว่าสองภาษี — ภาษีขายเหนือสินค้าและภาษีบริการเหนือบริการ — รวมกันภายใต้ป้าย **SST** และบริหารโดยกรมศุลกากรมาเลเซีย (RMCD)

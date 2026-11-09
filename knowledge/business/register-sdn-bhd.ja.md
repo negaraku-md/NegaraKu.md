@@ -137,6 +137,7 @@ keywords:
   - "cara daftar syarikat Sdn Bhd"
   - "how to open company Malaysia"
   - "CRS SSM4U registration"
+framework: how-to
 ---
 
 ほとんどの創業者は、会社設立について何週間も思い悩む。だが、それは通常、その年に彼らが行うことの中で最も簡単な作業である。

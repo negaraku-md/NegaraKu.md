@@ -91,6 +91,7 @@ keywords:
   - "Malaysian students international school quota"
   - "Education Act 1996 international school"
   - "service tax international school Malaysia"
+framework: explainer
 ---
 
 Una escuela de currículo británico y una escuela de currículo estadounidense en lados opuestos de la misma ciudad están, sobre el papel, licenciadas por exactamente la misma oficina en Putrajaya. A ninguna de las dos se le permite legalmente cobrar a los padres un «fondo de construcción». Ninguna de las dos puede subir las cuotas más de un 30% a la vez. Y a ninguna de las dos se le exige publicar una sola cifra que el propio Ministerio fije — porque, a pesar de todas las reglas que el Ministerio sí redacta, el precio real de un pupitre no es una de ellas.

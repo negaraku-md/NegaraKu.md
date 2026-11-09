@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "unesco-world-heritage-sites-malaysia" }
 related: []
 keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Taman Kinabalu", "Gunung Mulu", "Sabah Parks", "Sarawak Forestry", "taman laut", "PERHILITAN", "Warisan Dunia UNESCO"]
+framework: explainer
 ---
 
 誰に「マレーシアの国立公園」がどこにあるか尋ねても、皆一つの場所を指し示すだろう。しかし実際には、マレーシアには単一の国立公園というものは存在しない——完全に別個の三つの法体系が存在し、そのうちの一つは「タマンヌガラ」という名で最もよく知られる場所すら含んでいない。この法的な地図を理解することは、旅行を計画し、調査を行い、あるいはマレーシアが樹齢1億3千万年の熱帯雨林をどのように保護しているかを理解する鍵となる。

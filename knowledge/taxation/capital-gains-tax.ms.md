@@ -91,6 +91,7 @@ relations:
   - { rel: "explained-in", to: "capital-or-revenue" }
 related: ["capital-or-revenue", "rpgt-rates", "corporate-tax-rates", "income-tax-act-1967"]
 keywords: ["cukai keuntungan modal Malaysia", "CKM saham tidak tersenarai", "cukai keuntungan modal", "e-CKM", "seksyen 15C", "2% harga pelupusan kasar"]
+framework: explainer
 ---
 
 Selama lima puluh tujuh tahun Malaysia mengenakan cukai ke atas pendapatan dan

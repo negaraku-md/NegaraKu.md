@@ -75,6 +75,7 @@ relations:
   - { rel: "compares-with", to: "members-voluntary-winding-up" }
 related: ["companies-act-2016", "ssm", "members-voluntary-winding-up"]
 keywords: ["strike off syarikat", "seksyen 550 Akta Syarikat 2016", "potong nama syarikat SSM", "syarikat dorman", "pembubaran syarikat", "voluntary dissolution Malaysia"]
+framework: how-to
 ---
 
 A dormant company that ceased trading long ago remains legally "alive" — it must still file annual returns, it is still exposed to penalties, and its directors still bear responsibilities to SSM. Striking the company's name off the register is the official way to end that existence, but it is open only to companies that are genuinely clean of assets, debts, and disputes.

@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "register-sdn-bhd" }
 related: ["strike-off-company-malaysia", "members-voluntary-winding-up", "creditors-voluntary-winding-up", "corporate-rescue-malaysia", "sell-business-malaysia", "register-sdn-bhd", "annual-return", "statutory-registers"]
 keywords: ["Sdn Bhd बंद करना", "close sdn bhd", "मलेशिया में कंपनी स्ट्राइक ऑफ़", "strike off company Malaysia", "winding up company", "tutup syarikat sdn bhd", "कंपनी का पंजीकरण रद्द SSM", "close company malaysia"]
+framework: decision
 ---
 
 व्यापार बंद कर देना किसी कंपनी को बंद करना नहीं है। एक शांत Sdn Bhd अब भी मौजूद

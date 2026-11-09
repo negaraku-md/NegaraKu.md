@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["sales-tax-explained", "customs-import-duty", "sst-registration"]
 keywords: ["low value goods", "LVG sales tax", "online shopping tax Malaysia", "10% sales tax imported goods", "MyLVG", "cukai jualan barang bernilai rendah", "RMCD low value goods"]
+framework: explainer
 ---
 
 Trong nhiều năm, một món đồ công nghệ dưới RM500 đặt mua từ một cửa hàng web ở nước ngoài đến tận cửa nhà bạn mà không phải chịu thuế. Kể từ ngày 1 tháng 1 năm 2024, điều đó không còn nữa.

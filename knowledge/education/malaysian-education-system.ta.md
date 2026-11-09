@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "public-universities-malaysia" }
 related: []
 keywords: ["Malaysian education system", "Ministry of Education Malaysia", "KPM", "SPM", "STPM", "matriculation Malaysia", "TVET Malaysia", "Malaysian Qualifications Framework"]
+framework: explainer
 ---
 
 மூன்று மலேசியர்களிடம் "கல்வி முறையை" விவரிக்கச் சொல்லுங்கள், உங்களுக்கு மூன்று வெவ்வேறு வரைபடங்கள் கிடைக்கும். ஒருவர் SK-க்கு எதிராக SJKC பற்றிப் பேசுகிறார். மற்றொருவர் STPM-க்கு எதிராக மெட்ரிகுலேஷன் பற்றிப் பேசுகிறார். மூன்றாமவர் தொழில்நுட்பப் பயிற்சிக்கு வெளியே யாரும் கேள்விப்படாத ஒரு SKM சான்றிதழைக் குறிப்பிடுகிறார். மூவரும் ஒரே முறையையே விவரிக்கிறார்கள் — வெறும் அதன் வெவ்வேறு கிளைகளிலிருந்து.

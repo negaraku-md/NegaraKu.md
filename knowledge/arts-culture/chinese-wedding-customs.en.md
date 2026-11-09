@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "chinese-dialects", "chinese-clan-associations", "chinese-religion-in-malaysia"]
 keywords: ["华人婚礼", "传统婚礼", "过大礼", "下聘", "聘金", "嫁妆", "安床", "上头", "迎亲", "接新娘", "姐妹玩新郎", "闯门", "奉茶", "敬酒", "喜酒", "回门", "囍", "双喜", "马来西亚华人", "Chinese wedding customs Malaysia"]
+framework: history-culture
 ---
 
 Before dawn has fully broken, a line of cars has already pulled up outside the bride's home. The groom holds a bouquet, a few "brothers" behind him, but he is stopped by several "sisters" peering out from the doorway: first answer their questions, then sing a song, eat a few paper-thin slices of lime, and finally push a few red packets through the gap in the door — only once this "door-crashing" (chuang men) challenge is passed does the door open and the groom get to see the bride, dressed all in red. A morning like this, full of teasing and merriment, is how many Chinese weddings in Malaysia begin.

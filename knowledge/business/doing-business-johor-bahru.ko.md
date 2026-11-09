@@ -120,6 +120,7 @@ keywords:
   - "Johor Bahru premise licence fee"
   - "JS-SEZ Johor Bahru"
   - "foreign property purchase Johor"
+framework: profile
 ---
 
 조호르바루(Johor Bahru)는 그 임금 하한, 인력 계획, 납품 기한이 모두 귀하가 사업을 하지

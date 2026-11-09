@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["employment-pass", "opening-bank-account"]
 keywords: ["rental Malaysia", "iProperty", "PropertyGuru", "Mudah", "REN Malaysia", "registered estate negotiator", "BOVAEP", "LPPEH", "estate agent Malaysia", "rental commission Malaysia", "REN Tag"]
+framework: explainer
 ---
 
 Encuentras un anuncio que te gusta en un portal, escribes al número que aparece en él, y alguien se presenta para abrir la unidad. Nada en ese intercambio te dice si la persona que te entrega las llaves está siquiera legalmente autorizada a hacer esto por una tarifa — y casi nadie pregunta.

@@ -84,6 +84,7 @@ keywords:
   - "section 26 Companies Act 2016 name"
   - "SSM controlled words company name"
   - "company name rejected SSM"
+framework: rules
 ---
 
 The most common reason a name gets rejected is not that someone already has it. It is

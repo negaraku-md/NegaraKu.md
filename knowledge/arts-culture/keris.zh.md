@@ -100,6 +100,7 @@ relations:
   - { rel: "governs", to: "akta-warisan-kebangsaan-2005" }
 related: ["batik", "songket", "wau"]
 keywords: ["keris", "empu", "pamor", "luk", "warisan Melayu", "Taming Sari", "keris Melayu", "Akta Warisan Kebangsaan 2005", "budaya Nusantara"]
+framework: history-culture
 ---
 
 一片如火舌般呈锯齿状的剑身，由铸剑师（empu）之手将铁与镍折叠数百次锻打而成——马来短剑不只是一件兵器，更是马来文明的脉搏。它别在武士的腰间，在王室典礼中被高高举起，并作为家族传家宝代代相传。直到今天，马来短剑始终是主权、勇气与民族身份认同的象征。

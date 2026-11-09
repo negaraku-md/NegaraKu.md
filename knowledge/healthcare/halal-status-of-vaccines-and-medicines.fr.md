@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-jakim" }
 related: []
 keywords: ["vaccin halal", "avis sur les vaccins", "gélatine dans les médicaments", "fatwa vaccin COVID-19", "darurat", "maqasid syariah", "JAKIM", "Muzakarah Fatwa Kebangsaan"]
+framework: explainer
 ---
 
 Un seul flacon de vaccin peut contenir un peu de gélatine comme stabilisant, et de ce petit détail surgit l'une des questions religieuses que les familles musulmanes de Malaisie posent le plus souvent : est-ce halal ? La réponse n'est pas un simple « oui » ou « non », mais le résultat d'un processus d'évaluation structuré faisant intervenir des organes de la fatwa, la recherche scientifique et plusieurs principes spécifiques du fiqh.

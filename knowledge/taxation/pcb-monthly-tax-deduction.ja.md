@@ -79,6 +79,7 @@ relations:
   - { rel: "affects", to: "personal-tax-reliefs" }
 related: ["income-tax-in-malaysia", "pcb-mtd-malaysia", "personal-tax-reliefs", "personal-tax-rates", "which-tax-form"]
 keywords: ["PCB final tax", "monthly tax deduction Malaysia", "potongan cukai bulanan", "section 77C Income Tax Act", "do I need to file if PCB deducted", "PCB refund Malaysia"]
+framework: explainer
 ---
 
 毎年、多数のマレーシア人従業員が、静かに自分の所得税を過大に納付することを選んでいる。彼らはそれを、何もしないことによって行っている——1967年所得税法（Income Tax Act 1967、Act 53）のs.77Cのもとでは、何もしないこと**が**一つの選択であり、その選択はその年について取り消せないからである。

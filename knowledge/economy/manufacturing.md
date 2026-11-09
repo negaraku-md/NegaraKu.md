@@ -81,6 +81,7 @@ faq:
     a: No — that is a common misquote. DOSM's Quarterly Employment Survey counts only registered private-sector establishments, 9.21 million jobs in Q4 2025, and manufacturing's 2.54 million is 27.5% of that subset. The survey excludes the public sector, the self-employed and informal work, so manufacturing's share of everyone in work is materially lower. Use the Labour Force Survey for that question.
   - q: If the GDP share is flat, isn't manufacturing just stuck doing low-value assembly work?
     a: 'The productivity data argues otherwise. Manufacturing value added reached RM59.0 per hour worked in 2025 against RM42.0 in services — about 40% more per hour, and roughly a third above the national average of RM44.5. A flat share is partly arithmetic: services grew faster (5.4% versus manufacturing''s 4.5%), so the smaller sector''s share falls even as its output rises. The mix inside manufacturing is shifting, which the GDP share cannot show.'
+framework: explainer
 ---
 
 ## At a glance

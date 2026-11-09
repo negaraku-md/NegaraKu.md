@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "statutory-registers" }
 related: ["statutory-registers", "appoint-company-secretary", "register-of-members"]
 keywords: ["certified true copy Malaysia", "original sighted company secretary", "CTC company secretary Malaysia", "MAICSA best practice certification", "salinan diakui sah", "section 599 Companies Act 2016"]
+framework: explainer
 ---
 
 银行要一份公司章程的核证真实副本。办公室里有人在一份扫描件上盖了章、签了名，就发了出去。

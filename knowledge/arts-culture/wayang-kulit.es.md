@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik"]
 keywords: ["Wayang Kulit", "shadow puppet Malaysia", "Tok Dalang", "Hikayat Seri Rama", "Kelantan traditional arts", "teatro de sombras Malasia"]
+framework: history-culture
 ---
 
 La lámpara se enciende primero. Detrás de una pantalla de algodón blanco tensada sobre un bastidor de madera, un hombre se sienta con las piernas cruzadas, con un montón de títeres planos de cuero al alcance de la mano a ambos lados, y una pequeña orquesta de tambores, gongs y un penetrante serunai de doble lengüeta esperando tras él. No se moverá de ese sitio durante el resto de la noche. Para cuando la última sombra cruce la pantalla, horas después, habrá dado voz a reyes, demonios, bufones y princesas, habrá narrado las transiciones entre escenas y habrá marcado la entrada a cada músico: solo.

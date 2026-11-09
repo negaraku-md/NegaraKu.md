@@ -91,6 +91,7 @@ verificationNeeded:
   - "Nasi goreng pattaya가 태국처럼 들리는 이름에도 불구하고 말레이시아에서 유래했는지(흔히 말해지듯) — listicle이 아니라 문서화된 음식사 자료로 확인할 것."
   - "이름 붙은 각 변형(USA, paprik, ikan masin, hailam, kerabu, dabai)의 정확하고 표준화된 재료 목록 — 이는 대부분 음식 미디어와 커뮤니티 편집 출처에서 가져온 것이며 노점마다 다르다; 지역별 세부 사항은 현지 요리 참고 자료로 확인할 것."
   - "Nasi goreng이 말레이시아 국가 요리 유산으로 공식 관보 고시되어 있는지, 어느 등재 하에 있는지 — 2차 음식 미디어가 아니라 Jabatan Warisan Negara 또는 공식 출처로 확인할 것."
+framework: explainer
 ---
 
 새벽 한 시에 mamak 노점에서 nasi goreng을 주문하면, 당신은 하나의 요리를 주문한다기보다

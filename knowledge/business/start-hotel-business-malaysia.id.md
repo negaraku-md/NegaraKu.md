@@ -79,6 +79,7 @@ social:
     - MOTAC
     - DoingBusinessInMalaysia
     - StartABusiness
+framework: how-to
 ---
 
 Membeli bangunan, melengkapi kamar, dan menerima pemesanan pertama adalah bagian yang mudah dalam membuka hotel. Bagian yang menghentikan orang adalah usaha penginapan wisatawan di Malaysia bertanggung jawab kepada beberapa otoritas sekaligus — pendaftaran perusahaan, otoritas lokal, kementerian pariwisata, dan departemen pemadam kebakaran — dan salah satunya, MOTAC, mengharuskan Anda mendaftarkan premis **sebelum** Anda beroperasi. Lewati ia dan Anda bukan sekadar tidak diperingkat; Anda mengelola usaha pariwisata tanpa lisensi, suatu pelanggaran yang bisa menelan hingga RM500,000 atau penjara sepuluh tahun.

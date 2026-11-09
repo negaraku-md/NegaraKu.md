@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "contract-law" }
 related: []
 keywords: ["arbitrage", "AIAC", "loi sur l'arbitrage de 2005", "médiation", "résolution des litiges", "Convention de New York", "financement par des tiers", "CNUDCI", "arbitration", "Arbitration Act 2005", "mediation", "dispute resolution", "New York Convention", "third-party funding"]
+framework: explainer
 ---
 
 Deux entreprises signent un contrat de fourniture, l'une livre en retard et l'autre réclame des millions en dommages et intérêts, mais aucune ne souhaite que le dossier, le calendrier ou les secrets commerciaux soient étalés dans une salle d'audience ouverte. En Malaisie, c'est là que l'arbitrage et la médiation prennent le relais des tribunaux.

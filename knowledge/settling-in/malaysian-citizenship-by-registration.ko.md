@@ -84,6 +84,7 @@ relations:
   - { rel: "compares-with", to: "malaysian-citizenship-by-naturalisation" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["kewarganegaraan", "pendaftaran", "Perkara 15", "pasangan asing", "Perlembagaan Persekutuan", "JPN", "warganegara Malaysia"]
+framework: explainer
 ---
 
 말레이시아 시민과 혼인하는 것이 그 자체로 사람을 시민으로 만들지는 않습니다. 외국인 배우자와 시민의 자녀에게 흔히 언급되는 경로는 「등록」 — 연방헌법 제3부에 열거된 시민권 취득 방법 중 하나 — 입니다. 이 페이지는 그 법적 틀을 중립적이고 서술적으로 설명합니다. 이는 법률 자문이 아닙니다.

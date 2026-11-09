@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "straits-settlements" }
 related: ["melaka-sultanate", "portuguese-melaka-1511", "straits-settlements", "singapore-separation-1965"]
 keywords: ["سلطنة جوهر-رياو", "Kesultanan Johor-Riau", "سلطنة جوهر", "Sultan Alauddin Riayat Shah II", "Sultan Mahmud Shah", "وريث سلطنة ملقا", "Johor Lama", "سلالة بندهارا", "Riau-Lingga", "المؤسسة الملكية الملايوية"]
+framework: history-culture
 ---
 
 في سنة 1511، أسقطت مدافع البرتغاليين مدينةً — لكن لا عرشًا. فحين سقط حصن ملقا، لم يستسلم السلطان محمود شاه، آخر سلاطين ملقا. بل انسحب جنوبًا مع العائلة المالكة وكبار الوزراء، والأهمّ من ذلك كلّه، مع كامل النظام المؤسسي الذي جعل من ملقا سلطنة. فُقدت المدينة؛ وتنقّلت السلطنة.

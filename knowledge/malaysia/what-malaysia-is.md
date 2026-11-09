@@ -54,6 +54,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["what is Malaysia", "federation of Malaysia", "13 states 3 federal territories", "elective monarchy Malaysia", "federal structure Malaysia", "Yang di-Pertuan Agong", "Federal Constitution"]
+framework: explainer
 ---
 
 Malaysia is not one place with one government. It is a federation — a single country stitched together from thirteen states and three federal territories, sitting on two land masses that are separated by several hundred kilometres of the South China Sea. Understanding that structure first makes almost everything else about the country easier to follow.

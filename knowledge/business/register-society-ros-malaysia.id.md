@@ -72,6 +72,7 @@ social:
     - NGO
     - Persatuan
     - CivilSociety
+framework: how-to
 ---
 
 Tujuh sahabat yang ingin menjalankan perkumpulan penduduk, kelompok alumni, klub olahraga, badan agama, atau NGO kesejahteraan semuanya mengarah ke wahana hukum yang sama di Malaysia: **perkumpulan**, atau *persatuan*. Ia adalah struktur keanggotaan nirlaba default negara — murah untuk didirikan dan bermodal ringan — tetapi ia hidup di bawah statutanya sendiri, Akta Pertubuhan 1966, dan pengaturnya sendiri, dan kesalahan dalam dokumen dapat membiarkan Anda menjalankan badan yang *melanggar hukum* tanpa menyadarinya.

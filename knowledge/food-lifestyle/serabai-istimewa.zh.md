@@ -74,6 +74,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#SerabaiIstimewa", "#Serabai", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 隐身于乔治市清晨的节奏之中，Serabai Istimewa 只做一件事，而且做得足够好，足以

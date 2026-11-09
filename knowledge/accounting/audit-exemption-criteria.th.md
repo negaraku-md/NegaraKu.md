@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "unaudited-financial-statements" }
 related: ["companies-act-2016"]
 keywords: ["pengecualian audit", "audit exemption", "PD 10/2024", "Arahan Amalan 10/2024", "Sdn Bhd", "syarikat persendirian", "SSM", "seksyen 267", "penyata kewangan tidak diaudit"]
+framework: rules
 ---
 
 เป็นเวลาหลายปีที่บริษัท Sdn Bhd เกือบทุกแห่งในมาเลเซียต้องแต่งตั้งผู้สอบบัญชี ไม่ว่าจะ

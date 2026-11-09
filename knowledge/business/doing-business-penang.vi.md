@@ -119,6 +119,7 @@ keywords:
   - "Penang signboard Bahasa Malaysia rule"
   - "PDC industrial land Penang"
   - "Bayan Lepas free industrial zone"
+framework: profile
 ---
 
 Câu hỏi đầu tiên về việc kinh doanh ở Penang không phải là đăng ký cái gì. Nó là bạn đang ở bên

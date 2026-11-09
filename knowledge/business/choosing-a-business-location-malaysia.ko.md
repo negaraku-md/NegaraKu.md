@@ -138,6 +138,7 @@ keywords:
   - "Kuala Lumpur vs Penang vs Johor business"
   - "Sabah Sarawak business setup difference"
   - "Malaysia economic corridor incentives location"
+framework: decision
 ---
 
 질문은 언제나 완성된 형태로 도착합니다. *쿠알라룸푸르, 페낭, 아니면 조호르?* 때로는

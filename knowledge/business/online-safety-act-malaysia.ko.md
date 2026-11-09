@@ -121,6 +121,7 @@ relations:
   - { rel: "related-to", to: "communications-and-multimedia-act-1998" }
 related: []
 keywords: ["online safety act 2025", "act 866 malaysia", "online safety plan malaysia", "harmful content malaysia", "mcmc online safety"]
+framework: rules
 ---
 
 말레이시아(Malaysia)의 2025년 온라인안전법(Online Safety Act 2025)은 흔히 소셜미디어 법으로 묘사됩니다. 정확히는 그렇지 않습니다. 이는 **라이선스 보유자의 행위**를 규율하는 법이며, 그 차이가 이 법이 여러분에게 미치는지 여부 자체를 결정합니다.

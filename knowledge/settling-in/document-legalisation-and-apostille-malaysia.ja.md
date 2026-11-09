@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "recognition-of-foreign-qualifications-malaysia" }
 related: []
 keywords: ["legalisasi dokumen", "apostille Malaysia", "pengesahan konsular", "Wisma Putra", "sijil kelahiran asing", "sijil perkahwinan luar negara", "pengesahan ijazah", "JPN dokumen asing"]
+framework: how-to
 ---
 
 あなたは海外で発行された結婚証明書を持ってJPNの窓口を訪れるが、職員はそれを受け付けない——偽造だからではなく、まだ「認証」されていないからだ。多くの人がここでつまずく。原属国で有効な文書だからといって、マレーシアでそのまま受理されるとは限らない。その前に、経なければならない一連の認証の連鎖があるのだ。

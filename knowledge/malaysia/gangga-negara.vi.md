@@ -56,6 +56,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["langkasuka", "srivijaya"]
 keywords: ["Gangga Negara", "Beruas", "kerajaan Melayu awal", "sejarah Perak", "Chola", "Rajendra Chola I", "Hikayat Merong Mahawangsa", "Muzium Beruas"]
+framework: explainer
 ---
 
 Nếu bạn tìm "Gangga Negara" trên internet, bạn sẽ thấy một tấm bản đồ rõ ràng: một vương quốc vàng son bên bờ Sungai Perak, thành lập thế kỷ thứ hai Công nguyên, bị quân Chola từ Ấn Độ tiêu diệt vào năm 1025. Một niên đại chính xác đến vậy lẽ ra phải có nghĩa là có một ghi chép thành văn đương thời ở đâu đó — một bia ký, một mảnh tài liệu hoàng gia. Vấn đề là: khi bia ký thường được gắn với sự sụp đổ đó — bia Thanjavur của chính Rajendra Chola I — được kiểm tra từng dòng một, cái tên "Gangga Negara" hoàn toàn không có ở đó.

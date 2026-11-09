@@ -69,6 +69,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["DeWan1958", "ChefWan", "BibGourmand", "MichelinGuideMalaysia", "KualaLumpur"]
+framework: profile
 ---
 
 De. Wan 1958 कुआलालंपुर के Taman U Thant स्थित The LINC KL में एक मलेशियाई

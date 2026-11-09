@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "gunung-tahan" }
 related: ["orang-asli"]
 keywords: ["taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
+framework: explainer
 ---
 
 Berdiri di jeti Kuala Tahan pada waktu subuh, mengamati kabut naik dari sebuah sungai yang lebih tua daripada Pegunungan Himalaya, mudah untuk lupa bahwa Anda hanya sejauh setengah hari dari Kuala Lumpur. Taman Negara bukanlah daya tarik buatan. Ia sebuah hutan hujan tropis yang hidup, yang telah berdiri, umumnya tanpa gangguan, selama puluhan juta tahun — dan memasukinya lebih murah dan lebih mudah daripada yang diperkirakan hampir semua pelancong.

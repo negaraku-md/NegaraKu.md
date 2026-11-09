@@ -97,6 +97,7 @@ relations:
   - { rel: "explained-in", to: "epf-foreign-workers-malaysia" }
 related: ["payroll-compliance-malaysia", "epf-foreign-workers-malaysia", "socso-eis-employer-guide"]
 keywords: ["EPF contribution rate Malaysia", "EPF Third Schedule", "KWSP employer contribution", "EPF 13 percent 12 percent", "caruman KWSP majikan"]
+framework: rules
 ---
 
 말레이시아의 급여 담당자에게 EPF 고용주 요율이 얼마냐고 물으면 13퍼센트라고 답할 것입니다.

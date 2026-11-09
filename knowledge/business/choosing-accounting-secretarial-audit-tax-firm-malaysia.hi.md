@@ -77,6 +77,7 @@ sources:
 relations: []
 related: ["company-secretary-malaysia", "audit-exemption-criteria"]
 keywords: ["choose company secretary Malaysia", "accounting firm Malaysia", "audit firm Malaysia", "tax agent Malaysia", "corporate services firm Malaysia", "Big Four Malaysia", "MIA licensed firm", "SSM company secretary licence", "how to choose accountant Malaysia", "company secretary firm vs individual"]
+framework: decision
 ---
 
 हर मलेशियाई कंपनी पेशेवरों के एक छोटे-से दायरे पर टिकी होती है जिन्हें वह संगठन-चार्ट पर कभी नहीं देखती: वह कंपनी सचिव जो उसे कानूनी बनाए रखता है, वह एकाउंटेंट जो उसके बहीखाते रखता है, वह लेखा-परीक्षक जो उसके आँकड़ों को प्रमाणित करता है, और वह कर एजेंट जो LHDN के पास फाइल करता है। इन्हें अच्छे से चुनना पैसा और रातों की नींद बचाता है। फिर भी "मलेशिया में सर्वश्रेष्ठ कंपनी सचिव" खोजिए और लगभग हर मार्गदर्शिका जो आपको मिलेगी वह किसी ऐसी फर्म ने लिखी है जो वही सेवा बेचती है। यह मार्गदर्शिका वैसी नहीं है।

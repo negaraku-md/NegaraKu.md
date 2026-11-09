@@ -93,6 +93,7 @@ verificationNeeded:
   - "Le rapport sel/crevettes (une source patrimoniale gouvernementale cite environ 10:1) et tout plafond légal sur la teneur en eau (une source cite un maximum de 40% selon la réglementation alimentaire malaisienne) — à confirmer avec le Malaysian Food Regulations 1985 plutôt qu'avec les médias culinaires."
   - "Le classement des centres de production de belacan (Penang/Balik Pulau, Perlis, Pangkor et Malacca sont tous cités) et le fait de savoir si Pangkor a historiquement été un centre de premier plan — à confirmer avec une source halieutique, étatique ou patrimoniale."
   - "Les durées habituelles de fermentation et de séchage, que les sources situent de deux à trois semaines jusqu'à trois à quatre mois et qui varient selon le producteur et le temps — à confirmer par une fourchette représentative."
+framework: explainer
 ---
 
 Peu d'ingrédients annoncent leur présence aussi bruyamment que le belacan. Déballez un bloc et l'odeur emplit la cuisine ; jetez-en un morceau dans une poêle chaude et c'est toute la rue qui semble au courant. Pourtant, cette petite brique sombre de crevettes fermentées est l'un des fondements discrets de la cuisine malaisienne — ce qui donne à un sambal sa profondeur savoureuse, à une sauce de rojak son caractère fermenté, et à un bol d'asam laksa son ossature.

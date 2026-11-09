@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "pidm-deposit-insurance" }
 related: ["bank-negara-malaysia", "pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["bank digital", "digital bank Malaysia", "GXBank", "Boost Bank", "AEON Bank", "Ryt Bank", "KAF Digital Bank", "PIDM", "BNM"]
+framework: explainer
 ---
 
 Anda dapat membuka rekening bank di Malaysia hari ini tanpa sekali pun menjejakkan kaki ke cabang, tanpa bertemu petugas, dan tanpa formulir kertas apa pun — semuanya selesai dalam beberapa menit melalui ponsel pintar. Itulah janji bank digital, kategori bank baru yang dianugerahi lisensi oleh Bank Negara Malaysia (BNM) dan kini melayani jutaan rakyat Malaysia.

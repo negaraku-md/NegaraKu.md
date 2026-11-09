@@ -123,6 +123,7 @@ entity: The Progressive Wage Policy (Dasar Gaji Progresif)
 related:
   - minimum-wage-malaysia
 sourceContentHash: "ccffdcacb9538b8a"
+framework: explainer
 ---
 
 ## 점진적 임금 정책이란 무엇이며 — 무엇이 아닌가

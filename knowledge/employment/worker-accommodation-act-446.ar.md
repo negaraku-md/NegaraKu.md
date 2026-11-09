@@ -121,6 +121,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: []
 keywords: ["القانون رقم 446", "شهادة السكن", "سكن العمّال في ماليزيا", "المعايير الدنيا لإسكان الموظفين", "السكن المركزي", "act 446", "certificate for accommodation", "worker accommodation malaysia"]
+framework: rules
 ---
 
 لنبدأ بالاسم، لأن كل مقال تقريبًا عن هذا الموضوع يخطئ فيه. فالتشريع هو **قانون المعايير الدنيا لإسكان الموظفين وسكنهم ومرافقهم لسنة 1990 (Employees' Minimum Standards of Housing, Accommodations and Amenities Act 1990)** (القانون رقم 446). وكان يُسمّى سابقًا قانون المعايير الدنيا لإسكان *العمّال* ومرافقهم، وقد غيّرت الفقرة 4(a) من القانون A1604 العنوان القصير اعتبارًا من 1 يونيو 2020.

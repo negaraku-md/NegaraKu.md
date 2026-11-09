@@ -105,6 +105,7 @@ keywords:
   - "फ़ॉरेस्ट सिटी SFZ कर"
   - "Pulau 1 Forest City"
   - "Forest City Special Financial Zone"
+framework: explainer
 ---
 
 जोहोर तट के एक ही विस्तार पर दो योजनाएँ स्थित हैं, और उनके बारे में लिखा गया लगभग हर सारांश दोनों

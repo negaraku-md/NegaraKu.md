@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "registered-office" }
 related: ["statutory-registers", "registered-office", "register-of-directors", "annual-return"]
 keywords: ["daftar ahli syarikat Malaysia", "seksyen 50 Akta Syarikat 2016", "notifikasi seksyen 51 SSM", "daftar ahli syarikat", "daftar pindahan saham Sdn Bhd", "pemfailan ROM 14 hari"]
+framework: rules
 ---
 
 Seorang pemegang saham menunjukkan sijil saham kepada seorang peguam dan berkata

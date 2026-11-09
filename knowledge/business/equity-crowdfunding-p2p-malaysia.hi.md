@@ -87,6 +87,7 @@ relations:
   - { rel: "compares-with", to: "sme-financing-malaysia" }
 related: ["sme-financing-malaysia", "share-capital-malaysia", "shareholders-agreement-malaysia"]
 keywords: ["इक्विटी क्राउडफंडिंग मलेशिया", "P2P वित्तपोषण मलेशिया", "ECF मलेशिया", "SC मान्यता-प्राप्त बाज़ार संचालक", "मलेशिया में SME धन जुटाना", "चालान वित्तपोषण P2P", "equity crowdfunding malaysia", "p2p financing malaysia"]
+framework: decision
 ---
 
 एक मलेशियाई SME जिसे संपार्श्विक की कमी के कारण तीन बैंकों ने ठुकरा दिया हो, उसके पास

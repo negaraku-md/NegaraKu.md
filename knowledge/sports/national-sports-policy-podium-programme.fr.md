@@ -92,6 +92,7 @@ keywords:
   - "Sukan Untuk Semua"
   - "pembiayaan atlet elit"
   - "Institut Sukan Negara Podium"
+framework: explainer
 ---
 
 Chaque fois qu'un athlète malaisien monte sur le podium olympique, deux systèmes distincts sont en réalité à l'œuvre derrière lui : l'un qui tente de mettre toute la population en mouvement, et l'autre qui concentre d'énormes ressources sur la petite poignée de personnes capables de gagner. Les deux relèvent du même document de politique, mais ils sont financés et mesurés de façons très différentes.

@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "investing-in-bursa" }
 related: ["securities-commission-malaysia"]
 keywords: ["IPO malaysia", "list on bursa malaysia", "bursa listing requirements", "main market ace market leap market", "how to go public malaysia", "listing criteria bursa", "bumiputera equity requirement IPO"]
+framework: explainer
 ---
 
 Taking a company public is one of the biggest financing decisions its owners will ever make — it raises permanent capital, puts a market price on the business, and hands shareholders a way out. It also submits the company to a level of scrutiny and cost that catches many founders by surprise. In Malaysia, an initial public offering (IPO) means listing on Bursa Malaysia, and the route you take depends entirely on how big and how proven your company is.

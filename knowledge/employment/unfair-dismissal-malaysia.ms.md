@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "domestic-inquiry-malaysia" }
 related: ["labour-law-map-malaysia", "termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
 keywords: ["pembuangan kerja tanpa sebab adil malaysia", "seksyen 20 akta perhubungan perusahaan", "60 hari memfailkan tuntutan pembuangan kerja", "mahkamah perusahaan malaysia", "had gaji balik 24 bulan", "pampasan ganti pengembalian kerja"]
+framework: how-to
 ---
 
 Enam puluh hari. Itulah keseluruhan intinya, dan di situlah kebanyakan tuntutan pembuangan kerja tanpa sebab yang adil di Malaysia gugur — bukan atas merit kes, tetapi kerana pekerja menghabiskan tujuh minggu berunding dengan HR, dua minggu lagi menunggu balasan yang tidak pernah tiba, lalu memfailkan tuntutan pada hari keenam puluh tiga.

@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "business-licence-malaysia" }
 related: ["fnb-licence-malaysia", "premise-licence-malaysia", "business-licence-malaysia"]
 keywords: ["sijil halal", "JAKIM", "MS 1500", "MYeHALAL", "logo Halal Malaysia", "pensijilan halal", "Verify Halal"]
+framework: explainer
 ---
 
 在食品包装和店铺里，可以看到各种各样的清真（"halal"）标志与字样，但并非所有都带有官方认可。在马来西亚，只有一种获委任主管机构支持的清真标记：由 JAKIM 颁发的马来西亚清真标志。了解这张证书如何运作，能同时带给你两样东西——消费者核实产品清真状态的方法，以及业者取得官方认证标记的途径。

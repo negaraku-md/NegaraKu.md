@@ -141,6 +141,7 @@ relations:
   - { rel: "located-in", to: "labuan" }
 related: ["corporate-tax-rates"]
 keywords: ["Labuan tax", "Labuan 3% tax rate", "Labuan substance requirements", "LBATA 1990", "cukai Labuan", "Labuan company Malaysia tax", "section 39(1)(r)"]
+framework: explainer
 ---
 
 हर लाबुआन विवरणिका उसी संख्या से शुरू होती है: 3%। यह सटीक है, और यह इस

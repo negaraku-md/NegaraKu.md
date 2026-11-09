@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "pakatan-harapan" }
 related: []
 keywords: ["Barisan Nasional", "National Front", "BN", "Alliance Party", "UMNO", "MCA", "MIC", "GE14", "Malaysian coalition"]
+framework: profile
 ---
 
 对于当今在世的大多数马来西亚人而言，在很长一段时间里，"政府"和"国阵"几乎是同义词。从1974年首次参选到2018年败选，国阵（National Front）持续不间断地掌握着联邦政府——连续执政长达44年。本文追溯它如何被组建、由谁构成，以及那段漫长执政如何终结，并严格依据有据可查的记录。

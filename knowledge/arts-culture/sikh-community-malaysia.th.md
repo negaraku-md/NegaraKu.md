@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["tamil-in-malaysia", "chinese-dialects", "population-composition", "deepavali"]
 keywords: ["Sikh Malaysia", "Punjabi Malaysia", "gurdwara", "Vaisakhi", "Khalsa", "langar", "Tatt Khalsa Diwan", "komuniti Sikh", "bahasa Punjabi"]
+framework: history-culture
 ---
 
 ในแถวตำรวจและป้อมของอังกฤษในมลายาช่วงศตวรรษที่ 19 เจ้าหน้าที่ที่โพกผ้าและไว้เคราหนาจำนวนมากไม่ใช่คนท้องถิ่น — พวกเขาคือชาวซิกข์ที่ถูกนำมาหลายพันไมล์จากปัญจาบทางตะวันตกเฉียงเหนือของอินเดีย จากหน้าที่รักษาความปลอดภัยนั้นเองที่หนึ่งในชุมชนชนกลุ่มน้อยที่เล็กที่สุดแต่จดจำได้ง่ายที่สุดของมาเลเซียเติบโตขึ้น

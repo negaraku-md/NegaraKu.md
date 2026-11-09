@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "winter-solstice-festival"]
 keywords: ["端午节", "端阳节", "五月节", "粽子", "bak chang", "娘惹粽", "咸肉粽", "碱水粽", "龙舟", "赛龙舟", "屈原", "艾草", "菖蒲", "立蛋", "直落巴巷水坝", "马来西亚华人", "Dragon Boat Festival Malaysia", "Duanwu"]
+framework: history-culture
 ---
 
 农历五月初五快到的时候，华人家庭的厨房里会飘出粽叶与糯米的香气。主妇们把浸泡过的糯米、炒香的馅料一层层填进折成漏斗状的叶子里，再用咸水草扎紧，一串串下锅久煮。与此同时，在槟城岛西北角的直落巴巷水坝，一艘艘细长的龙舟正划开水面，鼓手立于船头擂鼓，几十名桨手随着鼓点整齐挥桨——这是端午节在马来西亚的两张面孔：一边是厨房里的粽香，一边是水面上的竞渡。

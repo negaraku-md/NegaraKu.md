@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "capital-allowances" }
 related: ["motor-vehicle-capital-allowance", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["avantages en nature Malaisie", "benefits in kind Malaysia", "tableau valeur prescrite BIK", "impôt voiture de société Malaisie salarié", "alinéa 13(1)(b) 13(1)(c)", "avantage logement de fonction Malaisie"]
+framework: explainer
 ---
 
 Chaque guide sur les avantages en nature choisit un camp. Les blogs de paie

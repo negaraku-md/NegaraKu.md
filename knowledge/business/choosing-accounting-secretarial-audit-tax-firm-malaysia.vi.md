@@ -77,6 +77,7 @@ sources:
 relations: []
 related: ["company-secretary-malaysia", "audit-exemption-criteria"]
 keywords: ["choose company secretary Malaysia", "accounting firm Malaysia", "audit firm Malaysia", "tax agent Malaysia", "corporate services firm Malaysia", "Big Four Malaysia", "MIA licensed firm", "SSM company secretary licence", "how to choose accountant Malaysia", "company secretary firm vs individual"]
+framework: decision
 ---
 
 Mọi công ty Malaysia đều dựa vào một nhóm nhỏ các chuyên gia mà nó không bao giờ thấy trên sơ đồ tổ chức: thư ký công ty giữ cho nó hợp pháp, kế toán giữ sổ sách cho nó, kiểm toán viên ký duyệt các con số của nó, và đại lý thuế nộp hồ sơ với LHDN. Chọn họ cho tốt sẽ tiết kiệm tiền bạc và những đêm mất ngủ. Thế nhưng khi tìm "thư ký công ty tốt nhất ở Malaysia" thì gần như mọi hướng dẫn bạn tìm thấy đều do một công ty đang bán dịch vụ đó viết. Hướng dẫn này thì không.

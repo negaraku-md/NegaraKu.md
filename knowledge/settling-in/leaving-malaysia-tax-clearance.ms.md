@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "epf-socso-employees" }
 related: ["lhdn", "tax-clearance", "offboarding-statutory-checklist", "employment-pass-malaysia", "moving-to-malaysia-first-steps", "epf-socso-employees"]
 keywords: ["tax clearance Malaysia", "Surat Penyelesaian Cukai", "SPC LHDN", "CP21 form Malaysia", "leaving Malaysia tax clearance", "expatriate tax clearance Malaysia", "e-SPC MyTax", "EPF leaving country withdrawal"]
+framework: rules
 ---
 
 Anda sudah menyerahkan surat perletakan jawatan, menempah penerbangan, dan mula memberikan perabot anda. Kemudian HR bertanya tentang sesuatu yang anda tidak pernah dengar sebelum ini: Surat Penyelesaian Cukai. Tanpanya, sebahagian daripada gaji terakhir anda tidak akan bergerak — dan bukan anda pun yang sepatutnya memohonnya.

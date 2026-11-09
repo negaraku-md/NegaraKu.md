@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "negaraku-anthem" }
 related: ["negaraku-anthem"]
 keywords: ["Malaysia Olympic medals", "SEA Games", "Commonwealth Games 1998", "Lee Chong Wei", "Malaysia gold medal", "medal tally"]
+framework: data-reference
 ---
 
 மலேசியா ஒலிம்பிக் பரிசு மேடையில் பதினைந்து முறை ஏறியுள்ளது — ஆனால் ஒவ்வொரு முறையும் வேறு நாட்டின் தேசியக் கீதம் ஒலிப்பதைத்தான் கேட்டுள்ளது.

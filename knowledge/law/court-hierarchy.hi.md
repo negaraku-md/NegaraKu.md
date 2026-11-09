@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution", "companies-act-2016", "employment-act-1955"]
 keywords: ["Malaysia court hierarchy", "Sessions Court jurisdiction RM1 million", "Magistrates Court limit RM100,000", "Courts of Judicature Act 1964", "Subordinate Courts Act 1948", "मलेशिया न्यायालय पदानुक्रम"]
+framework: data-reference
 ---
 
 सत्र न्यायालय में RM1.2 मिलियन का अनुबंध-भंग का दावा दाखिल करें और इससे कोई फ़र्क नहीं पड़ता कि आपका मामला कितना मज़बूत है। न्यायालय के पास इसकी सुनवाई करने की कोई शक्ति नहीं है। उच्च न्यायालय में वही दावा RM80,000 के लिए दाखिल करें और संभवतः आपको बताया जाएगा कि आप ग़लत इमारत में हैं — और इस चक्कर की क़ीमत चुकानी होगी।

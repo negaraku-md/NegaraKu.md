@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "sabah-visitor-guide" }
 related: ["sabah-visitor-guide"]
 keywords: ["Sarawak travel", "Sarawak immigration", "Kuching guide", "Gunung Mulu National Park", "Iban longhouse", "Bidayuh longhouse", "Sarawak entry pass", "Borneo travel"]
+framework: explainer
 ---
 
 你可以在不到两小时内从吉隆坡飞抵古晋，全程不曾离开自己的国家，抵达另一端时却仍要通过移民关卡盖章。在到达大厅里的这份意外，正是理解砂拉越最重要的一点：它是一个自设边境的马来西亚州属。

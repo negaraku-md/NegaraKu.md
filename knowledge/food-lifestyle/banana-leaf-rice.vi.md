@@ -91,6 +91,7 @@ verificationNeeded:
   - "Liệu việc tiếp cơm (và rau) có thực sự 'không giới hạn' ở các quán cơm lá chuối Malaysia hay không — điều này được truyền thông ẩm thực nói đến rộng rãi nhưng mô tả Nam Ấn truyền thống là hai lần xới cơm. Chính sách thay đổi theo từng nhà hàng; hãy xác nhận dựa vào thực tiễn của nhà hàng hoặc một nguồn ẩm thực đáng tin cậy."
   - "Tầm quan trọng của Penang (so với Brickfields ở Kuala Lumpur) như một trung tâm cơm lá chuối — không được xác nhận trực tiếp trong các nguồn đã tham khảo; hãy kiểm chứng dựa vào một nguồn ẩm thực hoặc du lịch dành riêng cho Penang."
   - "Quy kết cộng đồng chính xác ('Tamil' so với 'Nam Ấn' rộng hơn) cho nguồn gốc của món ăn và sự xuất hiện của nó ở Malaysia — hãy xác nhận với một nguồn lịch sử di cư hoặc di sản ẩm thực."
+framework: explainer
 ---
 
 Ngồi xuống một quán cơm lá chuối ở Malaysia và sẽ không có chiếc đĩa nào được

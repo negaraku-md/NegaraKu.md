@@ -91,6 +91,7 @@ verificationNeeded:
   - "Sama ada nasi goreng pattaya berasal dari Malaysia (seperti yang biasa dinyatakan) walaupun namanya berbunyi Thai — sahkan dengan sumber sejarah makanan yang terdokumentasi dan bukan senarai listicle."
   - "Senarai bahan yang tepat dan terpiawai bagi varian bernama (USA, paprik, ikan masin, hailam, kerabu, dabai) — kebanyakannya diambil daripada media makanan dan sumber suntingan komuniti serta berbeza-beza dari gerai ke gerai; sahkan butiran serantau dengan rujukan masakan tempatan."
   - "Sama ada nasi goreng diwartakan secara rasmi sebagai warisan masakan kebangsaan Malaysia, dan di bawah penyenaraian yang mana — sahkan dengan Jabatan Warisan Negara atau sumber rasmi dan bukan media makanan sekunder."
+framework: explainer
 ---
 
 Pesan nasi goreng di gerai mamak pada pukul satu pagi dan anda bukan sekadar

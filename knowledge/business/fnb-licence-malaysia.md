@@ -118,6 +118,7 @@ keywords:
   - "halal certification Malaysia"
   - "food handler certificate Malaysia"
   - "liquor licence Malaysia"
+framework: rules
 ---
 
 The restaurant licence does not exist. What exists is a stack of five or six separate

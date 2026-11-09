@@ -89,6 +89,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
 keywords: ["section 109B", "section 4A income", "technical fees withholding tax Malaysia", "special classes of income", "PR 10/2019", "derived from Malaysia"]
+framework: rules
 ---
 
 Hỏi một nhóm tài chính Malaysia vì sao họ không khấu trừ trên hóa đơn của một tư vấn

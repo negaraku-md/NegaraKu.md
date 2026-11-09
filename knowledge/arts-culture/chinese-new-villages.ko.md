@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["population-composition", "chinese-dialects", "chinese-clan-associations", "chinese-education-in-malaysia", "chinese-new-year"]
 keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划", "Briggs Plan", "马共", "重新安置", "临时地契", "TOL", "Chinese New Villages", "New Villages Malaysia"]
+framework: history-culture
 ---
 
 오늘날 스메니(Semenyih), 캄파르(Kampar), 혹은 스킨찬(Sekinchan)에 발을 들이면 대개 보이는 것은 평범한 소도시의 풍경입니다. 늘어선 상점주택, 화문 초등학교, 사원과 회관, 길가의 커피숍과 잡화점. 그러나 이 가운데 많은 곳은 하나의 공통된 정체성을 공유합니다——그곳들은 "신촌"입니다. 겉보기에 평범해 보이는 이 이름 뒤에는 말라야 비상사태와 대반란, 그리고 대규모 이주에 관한 역사가 있습니다.

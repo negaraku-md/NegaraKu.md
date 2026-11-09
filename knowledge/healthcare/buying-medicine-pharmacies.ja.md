@@ -52,6 +52,7 @@ relations:
   - { rel: "related-to", to: "healthcare-for-seniors" }
 related: ["medical-insurance", "healthcare-for-seniors"]
 keywords: ["beli ubat Malaysia", "farmasi Malaysia", "Akta Racun 1952", "ubat preskripsi", "ubat bebas", "Poisons Act 1952", "ahli farmasi berdaftar", "racun Kumpulan B", "Quest3+", "NPRA"]
+framework: explainer
 ---
 
 ある客が薬局のカウンターで咳止め薬を求め、その場ですぐに対応された。別の客は喉の痛みに効く抗生物質を求めたが、まず医師の処方箋を提示するよう求められた。この二つの取引は同じ薬局、同じ日に起きた——違いは薬剤師の裁量ではなく、その医薬品を分類する法律にある。

@@ -94,6 +94,7 @@ verificationNeeded:
   - "Si le curry du Kelantan diffère sensiblement du gulai ikan tongkol du Terengganu, et le poisson standard — la plupart des sources nomment le thon (ikan tongkol / aya), le maquereau (mackerel) et le tenggiri étant aussi cités. Confirmer auprès d'une source locale."
   - "L'étymologie « riz du marchand » et les légendes d'origine (marchands bugis, ou pêcheurs l'emportant en mer) — elles circulent largement mais sont vaguement documentées ; confirmer auprès d'une source historique ou lexicographique."
   - "L'inscription parmi les mets du patrimoine national en 2009 — confirmer l'année et l'organisme ayant procédé à l'inscription auprès d'un document primaire de Jabatan Warisan Negara ou de JKKN."
+framework: explainer
 ---
 
 Commandez le petit-déjeuner sur la côte est de la Malaisie, et l'on pourra vous tendre un petit

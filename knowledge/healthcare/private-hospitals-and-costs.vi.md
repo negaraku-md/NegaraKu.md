@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "sst-expansion-2025" }
 related: ["sst-expansion-2025"]
 keywords: ["private hospital Malaysia", "private hospital bill", "specialist consultation fee Malaysia", "guarantee letter hospital", "hospital deposit Malaysia", "itemised bill private hospital", "Act 586", "National Specialist Register", "private healthcare costs Malaysia"]
+framework: explainer
 ---
 
 Bạn vào viện cho một thủ thuật và ra về với thứ trông như hai hóa đơn dập ghim lại. Một cái từ bác sĩ phẫu thuật. Một cái từ bệnh viện. Chúng hiếm khi có cùng độ lớn, và hầu như không ai giải thích vì sao ngay từ đầu chúng lại tách biệt.

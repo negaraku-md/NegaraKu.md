@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "malaysian-street-food" }
 related: []
 keywords: ["pasar malam", "pasar tani", "pasar basah", "street food", "FAMA", "gred kebersihan premis makanan", "penjaja"]
+framework: explainer
 ---
 
 Khi hoàng hôn buông, một con đường vắng lặng bỗng chốc biến thành một hẻm đầy khói satay, những đống trái cây, và những dãy đèn huỳnh quang — đây là pasar malam, một trong những thể chế bình dân nhất của Malaysia. Cùng với pasar tani và pasar basah, nó hình thành nên mạng lưới chợ dân gian, nơi người Malaysia mua sắm và ăn uống mỗi ngày.

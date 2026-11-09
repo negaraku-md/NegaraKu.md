@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["tax-incentives-directory", "personal-tax-reliefs", "new-incentive-framework"]
 keywords: ["angel tax incentive malaysia", "angel investor tax exemption", "pu a 167 2014", "cradle angel tax incentive", "mban accreditation", "startup investor tax relief malaysia"]
+framework: rules
 ---
 
 ทุกสไลด์พิตช์ของสตาร์ทอัพที่กล่าวถึงสิทธิประโยชน์ทางภาษีนักลงทุนแองเจิลบอกว่ามันมีผลถึงปี 2026

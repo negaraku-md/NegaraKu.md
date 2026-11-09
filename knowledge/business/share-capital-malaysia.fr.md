@@ -117,6 +117,7 @@ keywords:
   - "section 75 Companies Act 2016"
   - "share capital Malaysia"
   - "paid-up capital Sdn Bhd"
+framework: explainer
 ---
 
 Un capital libéré de RM1 est légal, courant, et silencieusement l'une des décisions les plus

@@ -99,6 +99,7 @@ keywords:
   - "MalaysiaBiz"
   - "who issues business licences Malaysia"
   - "premise licence federal state local"
+framework: explainer
 ---
 
 หนังสือรับรองของ SSM มาถึง บริษัทมีอยู่ และคุณมีสิทธิที่จะทำอะไรไม่ได้เลย

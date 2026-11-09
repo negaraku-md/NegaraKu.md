@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "department-of-industrial-relations-malaysia" }
 related: ["trade-unions-malaysia", "employment-act-1955"]
 keywords: ["rundingan kolektif", "perjanjian kolektif", "pertikaian perusahaan", "hak rundingan tunggal", "pengiktirafan kesatuan", "mogok", "sekat masuk", "piket", "Akta Perhubungan Perusahaan 1967", "Mahkamah Perusahaan"]
+framework: rules
 ---
 
 賃金交渉のために使用者に同席してもらいたい労働者は、単に求めるだけでは足りない——踏むべき法定の手続きがあり、各段階にはそれぞれの期限が定められている。この手続きは[1967年労使関係法](/law/industrial-relations-act-1967)（Industrial Relations Act 1967、Act 177）に定められており、労使関係局（JPPM）によって執行される。同法は、誰が交渉できるか、何を交渉できるか、そしてストライキのような労働争議行為がいつ認められるかを定めている。

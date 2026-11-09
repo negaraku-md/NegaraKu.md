@@ -102,6 +102,7 @@ relations:
   - { rel: "part-of", to: "gdp-overview" }
 related: ["palm-oil-sector", "rubber", "gdp-overview"]
 keywords: ["sektor pertanian Malaysia", "agromakanan Malaysia", "Dasar Agromakanan Negara", "kadar sara diri makanan", "KPKM", "KPK", "minyak sawit padi getah", "keterjaminan makanan Malaysia"]
+framework: profile
 ---
 
 2024年、マレーシアは1億トンを超えるアブラヤシの生果房（FFB）を生産した——マレーシア統計局（Jabatan Perangkaan Malaysia、DOSM）によれば約1億20万トン——これは同国が世界二大パーム油生産国の一角であり続けるのに十分な量である。同じ年、この国は国民が食べる米のほぼ半分を輸入した。

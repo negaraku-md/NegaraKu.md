@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "motor-insurance" }
 related: ["klang-valley-rail", "e-hailing-grab", "touch-n-go", "driving-licence-malaysians", "driving-licence-foreigners", "road-tax-renewal", "motor-insurance"]
 keywords: ["getting around Malaysia", "Malaysia transport overview", "public transport Malaysia", "how to travel in Malaysia", "Klang Valley transport", "domestic flights Malaysia", "driving in Malaysia", "Malaysia without a car", "KTM ETS", "express bus Malaysia"]
+framework: journey-hub
 ---
 
 问问在吉隆坡和，比如说，怡保都生活过的人是怎么出行的，你会得到两个截然不同的答案。一个人会说到在LRT闸门刷卡进站，再叫一辆Grab跑完最后一公里；另一个人会说到该走哪条高速公路、该在哪里停车。两人说的是同一个国家。马来西亚并非只有一套交通系统——它在巴生谷有一套规模小、密度高的系统，而在其余地方则有一套大得多、以汽车为主的系统，靠城际铁路、巴士，以及一旦距离拉长，还有飞机，把两者串联起来。

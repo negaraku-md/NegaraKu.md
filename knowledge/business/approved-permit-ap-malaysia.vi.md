@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "miti" }
 related: ["import-export-licence-malaysia", "automotive-industry-malaysia", "miti"]
 keywords: ["approved permit", "AP Malaysia", "open AP", "franchise AP", "car import permit", "permit import kenderaan", "MITI AP", "parallel import car Malaysia"]
+framework: explainer
 ---
 
 Ít có chữ viết tắt ba ký tự nào mang nhiều sức nặng trong thị trường ô tô Malaysia như "AP." Nó là lý do một chiếc xe nhập khẩu có thể đắt hơn nhiều ở đây so với nước ngoài, là đề tài của hàng thập kỷ tranh cãi chính trị, và là một giấy phép mà hầu hết người mua không bao giờ nhìn thấy nhưng luôn phải trả tiền cho nó.

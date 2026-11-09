@@ -119,6 +119,7 @@ relations:
   - { rel: "related-to", to: "entertainment-expenses" }
 related: ["losses-and-group-relief", "form-c-and-cp204", "withholding-tax-non-compliance"]
 keywords: ["section 33 income tax act", "wholly and exclusively malaysia", "allowable business expenses malaysia", "tax deductible expenses sdn bhd", "section 33(1) deduction", "lhdn disallowed expenses"]
+framework: explainer
 ---
 
 மலேசிய வணிகக் கழிவுகள் குறித்த ஒவ்வொரு வழிகாட்டியும் ஒரு பட்டியலை வெளியிடுகிறது. வாடகை, ஆம். சம்பளங்கள், ஆம். பொழுதுபோக்கு (entertainment), பாதி. அந்தப் பட்டியலில் இல்லாத ஒரு செலவு வரும் நாள் வரை பட்டியல் நன்றாகவே இருக்கிறது — ஒரு கடப்பாட்டிலிருந்து விடுவிக்கப்படுவதற்காக ஒரு மாநில அரசுக்குச் செலுத்தப்பட்ட ஒரு தொகை, ஒருபோதும் நடக்காத ஒரு திட்டத்திற்கான ஒரு சாத்தியக்கூறு ஆய்வு, கம்பெனி மற்றவர்மீது சுமத்தாமல் தானே ஏற்றுக்கொண்ட சேவை வரி — அப்போது அந்தப் பட்டியல் எந்தப் பயனுமற்றது, ஏனெனில் அந்தப் பட்டியல் ஒருபோதும் சட்டமாக இருந்ததில்லை.

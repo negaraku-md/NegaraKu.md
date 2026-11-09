@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["federal-constitution", "jpn", "constitutional-amendment", "imigresen"]
 keywords: ["الجنسية الماليزية", "Malaysian citizenship", "kewarganegaraan Malaysia", "المادة 14 من الدستور", "الباب الثالث من الدستور الاتحادي", "الجنسية بالتسجيل", "التجنّس في ماليزيا", "المادة 19 naturalisation", "جنسية الأزواج الأجانب", "الأطفال عديمو الجنسية", "تعديل الدستور 2024 للجنسية", "Part III Federal Constitution"]
+framework: rules
 ---
 
 الطفل المولود في كوالالمبور والطفل المولود في لندن لأبوين ماليزيين لا يبدآن

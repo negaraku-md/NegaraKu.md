@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "mbrs-2" }
 related: ["sdn-bhd-filing-calendar", "financial-statements-lodgement", "ssm-late-lodgement-fees", "mbrs-2", "statutory-registers", "appoint-company-secretary", "close-a-company"]
 keywords: ["annual return Malaysia", "section 68 Companies Act 2016", "SSM annual return deadline", "annual return year of incorporation", "annual return vs financial statements"]
+framework: rules
 ---
 
 इस दाखिले में दो बातें किसी भी अन्य चीज़ से अधिक गलत होती हैं। पहली है इसका समय वित्तीय वर्ष के अंत से तय करना। दूसरी है उस वर्ष में एक विवरणी दाखिल करना जिस वर्ष कंपनी निगमित हुई थी — जिसे अधिनियम स्पष्ट रूप से कहता है कि आप नहीं करते।

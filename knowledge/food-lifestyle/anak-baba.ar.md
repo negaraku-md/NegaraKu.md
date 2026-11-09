@@ -70,6 +70,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["AnakBaba", "Peranakan", "BibGourmand", "MichelinGuideMalaysia", "Brickfields"]
+framework: profile
 ---
 
 Anak Baba مطعم بيرانكان (Peranakan) في Brickfields — حيّ Little India في كوالالمبور — يظهر في [MICHELIN Guide Malaysia](/ar/food-lifestyle/michelin-guide-malaysia) بشارة Bib Gourmand. ويصفه دليل MICHELIN Guide بأنه «جوهرة صغيرة دافئة».

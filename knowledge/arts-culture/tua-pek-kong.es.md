@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "chinese-religion-in-malaysia" }
 related: ["chinese-religion-in-malaysia", "mazu-worship", "chinese-clan-associations", "chinese-new-year", "nine-emperor-gods-festival"]
 keywords: ["大伯公", "福德正神", "土地公", "伯公", "福神", "海珠屿大伯公庙", "宝福社", "请火", "Chneah Hoay", "张理", "南洋华人", "马来西亚华人信仰", "Tua Pek Kong", "Tua Pek Kong Malaysia"]
+framework: history-culture
 ---
 
 En la orilla del mar en Tanjung Tokong (丹絨道光), en Penang, se alza un templo no muy grande, en silencio buena parte del año. Pero hacia el Festival de los Faroles la situación cambia por completo: cestas de pértigas de incienso, gongs y tambores, y largas filas de gente llegan desde George Town; de noche se apagan todas las luces y velas del templo, y una multitud rodea un brasero, avivando el fuego conteniendo la respiración — cuán alto se alzan las llamas se toma como un "pronóstico" para el año venidero. Este templo es, en la mente de muchos, el manantial del culto a Tua Pek Kong.

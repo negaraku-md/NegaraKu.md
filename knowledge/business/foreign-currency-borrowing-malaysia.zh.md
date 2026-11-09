@@ -65,6 +65,7 @@ relations:
   - { rel: "part-of", to: "foreign-exchange-policy-malaysia" }
 related: ["foreign-exchange-policy-malaysia", "share-capital-malaysia"]
 keywords: ["foreign currency borrowing malaysia", "shareholder loan malaysia BNM", "offshore loan malaysia limit", "RM100 million borrowing limit", "FEP notice 2"]
+framework: rules
 ---
 
 一家外国母公司想以美元股东贷款、而不是以股本，为其马来西亚子公司注资。有人提起国家

@@ -53,6 +53,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["what is Malaysia", "federation of Malaysia", "13 states 3 federal territories", "elective monarchy Malaysia", "federal structure Malaysia", "Yang di-Pertuan Agong", "Federal Constitution"]
+framework: explainer
 ---
 
 マレーシアは、一つの政府に治められた一つの場所ではない。それは連邦——十三州と三連邦直轄区が縫い合わされてできた単一の国であり、数百キロメートルの南シナ海によって隔てられた二つの陸地の上に位置している。まずこの構造を理解することが、この国に関するほとんど他のすべてを理解しやすくする。

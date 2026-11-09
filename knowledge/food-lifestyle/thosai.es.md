@@ -92,6 +92,7 @@ verificationNeeded:
   - "Qué tan común es la podi thosai (thosai espolvoreada o untada con polvo de especias de idli/dosa) en las cartas malasias en concreto — la variedad está bien establecida en los comedores del sur de la India y de Singapur, pero la cobertura malasia es más escasa; confírmese con una fuente local."
   - "La grafía malaya oficial o estándar del plato — «tosai», «thosai» y «tose» circulan todas, y la forma recomendada por Dewan Bahasa dan Pustaka ha sido objeto de controversia pública; confírmese con una referencia autorizada del DBP."
   - "Si la leche de coco figura en alguna masa de thosai malasia habitual — la mayoría de las recetas usan solo arroz, urad dal, agua y sal; confírmese la receta local estándar con una fuente culinaria fiable."
+framework: explainer
 ---
 
 Entra en un puesto mamak al amanecer, o en un restaurante de hoja de plátano a la hora del

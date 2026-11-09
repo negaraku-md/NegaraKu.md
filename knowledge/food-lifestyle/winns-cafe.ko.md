@@ -74,6 +74,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#WinnsCafe", "#Peranakan", "#Nyonya", "#Penang", "#BibGourmand"]
+framework: profile
 ---
 
 페낭은 해협 태생 화교 요리의 오래된 심장부이고, Winn's Cafe는 그 전통을 가능한 한

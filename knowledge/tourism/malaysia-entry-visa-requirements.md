@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "malaysia-mm2h-program" }
 related: []
 keywords: ["Malaysia visa", "MDAC", "Malaysia Digital Arrival Card", "eVISA Malaysia", "MYVISA", "visa-free Malaysia", "Malaysia entry requirements", "autogate Malaysia", "passport validity Malaysia"]
+framework: rules
 ---
 
 You booked the flight, packed the bag, and only at the gate does the question land: does Malaysia want anything from you before you arrive? For most travellers the surprise cuts both ways — you probably do not need a visa, but you almost certainly need to file a small online form called the MDAC, and mixing those two up is the fastest way to a stressful arrival hall.

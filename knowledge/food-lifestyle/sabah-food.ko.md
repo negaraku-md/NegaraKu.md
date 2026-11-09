@@ -94,6 +94,7 @@ verificationNeeded:
   - "pinasakan을 굽는지 조리는지: 출처들은 takob-akob와 강황으로 basung(big-eye scad)을 조리는 방식과 굽는 방식을 모두 서술한다 — 표준적인 가정식 방법을 현지 출처로 확인할 것."
   - "sang nyuk mian이 Kota Kinabalu로 퍼지기 전에 사바 동해안(Tawau)에서 유래했다는 주장 — 음식 매체에서 널리 되풀이되지만 현지나 역사 출처로 확인할 것."
   - "사바의 국수 전통을 특별히 Hakka 이주민에게(더 넓게 중국계 이주민 일반이 아니라) 돌리는 것 — 지배적인 방언 집단과의 연관을 이주사 출처로 확인할 것."
+framework: explainer
 ---
 
 말레이시아 반도에서 남중국해를 건너 사바에 이르면 식탁이 달라진다. 사바 — 보르네오섬

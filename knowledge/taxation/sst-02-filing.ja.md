@@ -77,6 +77,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-registration", "imported-taxable-services", "sales-tax-explained"]
 keywords: ["SST-02", "SST filing deadline Malaysia", "SST late payment penalty", "taxable period SST", "MySST return"]
+framework: rules
 ---
 
 罰則の階梯は九十日で頭打ちとなる。その時点を過ぎると40%に固定されるため、早く納付することの意味は罰則の積み上がりではなく、起訴のリスクに関わるものとなる。九十日以内ではその逆が成り立つ——三十日の境界を一つ越えるたびに、さらに15%が加算される。

@@ -73,6 +73,7 @@ social:
     - StartABusiness
     - DoingBusinessInMalaysia
     - JKM
+framework: how-to
 ---
 
 Ouvrir une garderie a l'air d'une activité chaleureuse, à faible barrière d'entrée : une maison, quelques berceaux, des mains attentionnées. En Malaisie, sur le plan juridique, ce n'est rien de tout cela. Dès l'instant où vous accueillez quatre jeunes enfants ou plus, issus de familles différentes, contre rémunération, vous exploitez une **TASKA** (taman asuhan kanak-kanak), et une TASKA ne peut ouvrir tant qu'elle n'est pas enregistrée auprès du gouvernement. Sautez cette étape et vous n'êtes pas un petit entrepreneur ; vous commettez une infraction pénale.

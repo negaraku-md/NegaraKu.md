@@ -103,6 +103,7 @@ keywords:
   - "MIDA manufacturing licence"
   - "shareholders funds RM2.5 million"
   - "exempted from manufacturing licence"
+framework: rules
 ---
 
 Kebanyakan pengeluar PKS Malaysia tidak memerlukan lesen pembuatan. Hampir setiap panduan

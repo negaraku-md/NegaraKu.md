@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-education-in-malaysia", "chinese-dialects", "chinese-new-villages", "population-composition"]
 keywords: ["华人会馆", "宗亲会", "会馆", "公司", "地缘性", "血缘性", "业缘性", "福建会馆", "客家公会", "邱公司", "龙山堂", "华总", "中华总商会", "姓氏桥", "新客", "义山", "Chinese clan associations Malaysia", "huiguan", "kongsi"]
+framework: history-culture
 ---
 
 Bước vào khu vực quanh Pháo đài Cornwallis ở George Town, Penang, giữa những dãy nhà phố bỗng hiện ra một từ đường tông tộc với mái cong chạm trổ tinh xảo và xà nhà sơn vẽ — đó là Long Sơn Đường Khâu Công Ty (Khoo Kongsi). Đi tiếp ra phía biển, có những dãy nhà sàn gỗ vươn ra mặt nước, mỗi xóm làng mang tên một dòng họ: Cầu họ Chu (Chew), Cầu họ Lâm (Lim), Cầu họ Trần (Tan). Những công trình này không phải đền miếu, cũng không chỉ là nhà ở, mà là di tích vật chất của một trong những hình thức tổ chức lâu đời nhất của xã hội di dân người Hoa — hội quán và hội tông thân.

@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "kabinet-perdana-menteri" }
 related: ["ekonomi-madani-framework", "konfrontasi", "miti", "matrade"]
 keywords: ["dasar luar Malaysia", "Wisma Putra", "Kementerian Luar Negeri", "ZOPFAN", "dasar berkecuali", "diplomasi Malaysia", "ASEAN", "Pelan Strategik 2026-2030", "non-alignment"]
+framework: explainer
 ---
 
 அமெரிக்க ஐக்கிய நாடுகள் மலேசியப் பொருளாதாரத்தில் மிகப்பெரிய வெளிநாட்டு முதலீட்டாளராக இருக்கும்போது, ஆனால் சீனா அதன் மிகப்பெரிய வர்த்தகக் கூட்டாளராக இருக்கும்போது, ஒரு சிறிய, திறந்த நாட்டால் எந்தப் பக்கமும் சார முடியாது. அதனால்தான் மலேசியாவின் வெளியுறவுக் கொள்கை பல தசாப்தங்களாக, சொல்வதற்கு எளிதாகவும் காப்பாற்றுவதற்குக் கடினமாகவும் இருக்கும் ஒரே ஒரு சொல்லைப் பற்றிப் பிடித்துக் கொண்டுள்ளது: நடுநிலை. அந்தச் சமநிலையை நாள்தோறும் பேணும் பணியில் ஈடுபட்டுள்ள அமைச்சு Wisma Putra ஆகும்.

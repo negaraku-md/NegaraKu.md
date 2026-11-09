@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malaysia FTA", "CPTPP Malaysia", "RCEP Malaysia", "free trade agreement", "MITI", "tariff elimination", "ASEAN Free Trade Area", "bilateral FTA"]
+framework: explainer
 ---
 
 மலேசியாவின் இறக்குமதி மற்றும் ஏற்றுமதிப் பொருட்களில் பெரும்பாலானவை, வரிகள் ஏற்கெனவே பேச்சுவார்த்தை மூலம் குறைக்கப்பட்டுள்ள எல்லைகளைக் கடந்தே நகர்கின்றன. அந்த வலையமைப்பு 1990-களின் தொடக்கம் முதல் ஒப்பந்தம் ஒப்பந்தமாக உருவாக்கப்பட்டது — ASEAN சுதந்திர வர்த்தக மண்டலத்திலிருந்து தொடங்கி, இன்று அதன் மையத்தில் அமர்ந்திருக்கும் இரு மாபெரும் ஒப்பந்தங்களான RCEP மற்றும் CPTPP வரை.

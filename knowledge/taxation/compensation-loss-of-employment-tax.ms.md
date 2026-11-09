@@ -71,6 +71,7 @@ social:
     - LHDN
     - PersonalTax
     - VSS
+framework: explainer
 ---
 
 Kehilangan pekerjaan biasanya datang dengan bayaran, dan soalan pertama sering kali soalan yang salah: "berapa banyak cukai yang perlu saya bayar ke atasnya?" Soalan yang betul ialah "berapa banyak daripada ini yang sebenarnya *pampasan kerana kehilangan pekerjaan saya* — dan berapa banyak yang hanya gaji biasa saya dalam samaran?" Undang-undang cukai Malaysia melukis garis yang tegas antara kedua-duanya, dan hanya satu pihak garis itu yang mendapat pengecualian yang murah hati. Salah membuat pembahagian dan anda sama ada terlebih bayar cukai atau menerima taksiran yang menyakitkan kemudian.

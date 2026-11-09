@@ -101,6 +101,7 @@ verificationNeeded:
   - "The exact standard composition of air mata kucing (longan, luo han guo, winter melon, rock sugar in varying proportions) and the reading of 'mata kucing' as longan vs the 'cat's tears' folk reading — confirm with a culinary or lexicographic source."
   - "The claim that Penang nutmeg juice traces to British nutmeg cultivation introduced in the late 18th century — repeated by travel media but not confirmed here against a historical source."
   - "Whether to attribute bubble tea's arrival in Malaysia to a specific decade or chain — treat the 'Taiwanese origin, later wave in Malaysia' framing as general until a dated source is confirmed."
+framework: explainer
 ---
 
 Ask a visitor to name a Malaysian drink and they will usually say *teh tarik* or

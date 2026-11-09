@@ -113,6 +113,7 @@ relations:
   - { rel: "governs", to: "employment" }
 related: ["labour-law-map-malaysia", "new-hire-statutory-checklist", "employee-vs-contractor-malaysia"]
 keywords: ["osha 1994 malaysia", "osh coordinator malaysia", "occupational safety and health act employer duties", "safety and health committee 40 employees", "osha amendment 2022"]
+framework: rules
 ---
 
 问一家马来西亚 SME OSHA 是否适用于它，答案通常是不适用——那是一部工厂法令，而我们

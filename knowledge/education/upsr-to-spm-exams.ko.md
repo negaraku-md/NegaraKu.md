@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "public-vs-private-universities" }
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["UPSR dimansuhkan", "PT3 dimansuhkan", "Pentaksiran Bilik Darjah", "PBD Malaysia", "SPM Malaysia", "Matriks Pembelajaran Malaysia", "Lembaga Peperiksaan", "peperiksaan sekolah Malaysia", "PBS Malaysia"]
+framework: explainer
 ---
 
 자녀가 지금 6학년이라면, UPSR을 치르지 않을 것입니다. 자녀가 폼 3이라면, 기다리는 PT3은 없습니다. 한때 취학 여정 전체를 좌우하던 대형 시험 — 여러분의 부모 세대가 큰 압박 속에 겪었을 수도 있는 — 은 몇 년 전부터 사라졌습니다. 그러나 많은 학부모는 여전히 혼란스러워합니다. 무엇이 그것을 대체했는지, 복원될 것인지, 그리고 지금 자녀의 학교에서 매일 실제로 무슨 일이 일어나는지.

@@ -149,6 +149,7 @@ relations:
   - { rel: "related-to", to: "retrenchment-malaysia" }
 related: ["labour-law-map-malaysia", "domestic-inquiry-malaysia", "unfair-dismissal-malaysia", "retrenchment-malaysia", "termination-benefits-malaysia", "offboarding-statutory-checklist"]
 keywords: ["termination of employment malaysia", "notice period malaysia", "at will employment malaysia", "payment in lieu of notice", "just cause or excuse", "final salary after resignation malaysia", "section 12 employment act"]
+framework: rules
 ---
 
 An employer in Kuala Lumpur decides on Monday that a manager is not working out. Legal counsel elsewhere would ask about the notice clause. In Malaysia the first question is different, and it is the one that decides the case: **what is the reason, and can you prove it?**

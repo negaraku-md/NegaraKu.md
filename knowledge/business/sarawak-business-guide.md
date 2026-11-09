@@ -111,6 +111,7 @@ keywords:
   - "Sarawak Land Code Cap 81"
   - "Samalaju Industrial Park"
   - "perniagaan di Sarawak"
+framework: explainer
 ---
 
 Start with a number that tells you what kind of place this is. Sarawak runs **two parallel

@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "malaysian-institute-of-accountants" }
 related: ["malaysian-institute-of-accountants"]
 keywords: ["ISA 600", "group audit", "component auditor", "group engagement partner", "Malaysia subsidiary audit", "MIA", "समूह लेखापरीक्षा", "घटक-लेखापरीक्षक", "समुच्चयन जोखिम"]
+framework: explainer
 ---
 
 एक जर्मन मूल कंपनी अपनी कुआलालंपुर व्यापारिक इकाई का समेकन करती है, पर फ़्रैंकफ़र्ट में समूह का लेखापरीक्षा भागीदार कभी मलेशिया में पैर तक नहीं रखता और स्थानीय बहियाँ नहीं पढ़ता। मलेशिया में कोई क्षेत्र-कार्य (fieldwork) करता है — फिर भी समूह-राय पर हस्ताक्षर अकेले समूह भागीदार का ही रहता है। यही विभाजन है जिसे नियंत्रित करने के लिए समूह-लेखापरीक्षा मानक बनाया गया है।

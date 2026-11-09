@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "directors-report" }
 related: ["directors-duties", "directors-report", "loans-to-directors", "disclosure-of-interest"]
 keywords: ["أتعاب المديرين ماليزيا", "directors fees Malaysia", "المادة 230 قانون الشركات", "section 230 Companies Act 2016", "التعويض عن فقدان المنصب", "compensation for loss of office Malaysia", "اعتماد مكافأة المدير Sdn Bhd", "المادة 227 دفع فقدان المنصب"]
+framework: rules
 ---
 
 في شركة Sdn Bhd عائلية، تُقرَّر الأتعاب عادةً في محادثة وتُدوَّن لاحقاً، إن دُوّنت أصلاً.

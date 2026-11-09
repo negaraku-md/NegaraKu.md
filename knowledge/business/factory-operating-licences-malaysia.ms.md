@@ -85,6 +85,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaCompliance
     - OSHA
+framework: rules
 ---
 
 Mendapatkan lesen pembuatan terasa seperti garisan penamat. Ia lebih hampir kepada garisan permulaan. Lesen itu menjawab satu soalan — *bolehkah syarikat ini membuat produk ini pada skala ini?* — tetapi ia tidak mengatakan apa-apa tentang bangunan tempat mesin itu berada, mesin itu sendiri, risiko kebakaran, majlis yang mentadbir alamat itu, atau efluen yang mengalir ke dalam longkang. Itulah kelulusan yang membenarkan anda benar-benar *mengendalikan premis*, dan sebuah kilang boleh memegang lesen pembuatan yang sah sepenuhnya sambil menyalahi undang-undang untuk diduduki atau dijalankan.

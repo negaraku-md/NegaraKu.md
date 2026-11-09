@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["bangsawan", "opera Melayu", "teater Parsi", "Wayang Parsi", "Pushi Indera Bangsawan", "teater peralihan", "filem Melayu"]
+framework: history-culture
 ---
 
 映画が登場する前には、明かりの灯る舞台と手描きの緞帳、そして同じ一晩の公演の中でマレーの宮廷風の調べから中東のリズムへと切り替わることのできるオーケストラがあった。それがバンサワンである——かつて半島の都市部で最も活気のある娯楽であり、やがて自らの俳優と歌手を新興のマレー映画産業へと送り出すことになった舞台オペラだ。

@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "epf-socso-employees" }
 related: ["lhdn", "tax-clearance", "offboarding-statutory-checklist", "employment-pass-malaysia", "moving-to-malaysia-first-steps", "epf-socso-employees"]
 keywords: ["tax clearance Malaysia", "Surat Penyelesaian Cukai", "SPC LHDN", "CP21 form Malaysia", "leaving Malaysia tax clearance", "expatriate tax clearance Malaysia", "e-SPC MyTax", "EPF leaving country withdrawal"]
+framework: rules
 ---
 
 退職願を提出し、航空券を予約し、家具を譲り始めた。そこへ人事部が、聞いたこともないものを求めてくる——租税完納証明書だ。それがなければ最後の給与の一部は動かない——しかも、それを申請すべきなのはあなた自身ですらない。

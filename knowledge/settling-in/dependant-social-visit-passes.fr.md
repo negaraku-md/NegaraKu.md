@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "employment-pass-malaysia" }
 related: ["moving-to-malaysia-first-steps", "imigresen", "employment-pass-malaysia", "work-passes-malaysia", "opening-bank-account"]
 keywords: ["Dependant Pass Malaisie", "Long-Term Social Visit Pass", "LTSVP Malaisie", "famille Employment Pass", "parrainer conjoint visa Malaisie", "visa parents Malaisie expatrié", "options de visa familial Malaisie"]
+framework: explainer
 ---
 
 Un titulaire d'Employment Pass qui s'installe en Malaisie peut faire venir son conjoint et ses jeunes enfants sur un seul pass. Ses parents, ou un enfant qui vient d'avoir 18 ans, ont besoin d'un pass complètement différent. Même titulaire principal, même foyer, deux catégories migratoires distinctes — et les confondre est la façon la plus courante dont une demande de parrainage familial se bloque.

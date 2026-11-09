@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["formation-of-malaysia-1963", "singapore-separation-1965", "ma63"]
 keywords: ["Konfrontasi", "Konfrontasi Indonesia Malaysia", "Ganyang Malaysia", "Perjanjian Jakarta 1966", "pembentukan Malaysia 1963", "Sukarno Suharto"]
+framework: history-culture
 ---
 
 Malaysia ra đời vào ngày 16 tháng 9 năm 1963 trong một khu vực không chào đón nó một cách yên bình. Một nước láng giềng lớn hơn nhiều đã tuyên bố sự phản đối của mình, và trong vòng vài tháng, biên giới Borneo mới đó trở thành tiền tuyến cho một cuộc xung đột vũ trang chưa bao giờ được tuyên bố chính thức là chiến tranh — nhưng kéo dài gần bốn năm. Cuộc xung đột đó được biết đến là Konfrontasi.

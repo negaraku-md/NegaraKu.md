@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016", "contracts-act-1950", "court-hierarchy"]
 keywords: ["bankruptcy Malaysia", "insolvency act 1967", "winding up company Malaysia", "judicial management", "department of insolvency", "RM100000 bankruptcy threshold", "social guarantor", "discharge from bankruptcy"]
+framework: explainer
 ---
 
 Berhutang di Malaysia, dengan sendirinya, tidak cukup untuk menyebabkan seseorang dibankrapkan. Hutang itu mesti besar, pemiutang mesti mengikuti satu proses mahkamah yang khusus, dan — jika anda hanya pernah menjamin pinjaman pengajian seorang rakan atau rumah keluarga anda — undang-undang mungkin melindungi anda sepenuhnya. Malaysia menjalankan dua rejim insolvensi yang berasingan: satu untuk orang, satu untuk syarikat. Mengetahui rejim mana anda berada, dan apa yang dibenarkan oleh setiap satunya, mengubah segala-galanya.

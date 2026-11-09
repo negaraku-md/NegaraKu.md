@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "stpm" }
 related: []
 keywords: ["MUET", "Majlis Peperiksaan Malaysia", "MPM", "band MUET", "kemasukan universiti", "STPM", "kemahiran bahasa Inggeris", "ijazah sarjana muda"]
+framework: explainer
 ---
 
 நீங்கள் STPM அல்லது மெட்ரிகுலேஷனில் சிறந்து விளங்கலாம், ஆனால் இன்னொரு முடிவு இல்லாமல் உங்கள் பட்டப் படிப்பு விண்ணப்பப் படிவம் இன்னும் முழுமையடையாது. அந்த முடிவுதான் MUET — பல மாணவர்கள் பல்கலைக்கழக விண்ணப்ப இறுதித் தேதி நெருங்கும்போதுதான் அதன் முக்கியத்துவத்தை உணர்கிறார்கள்.

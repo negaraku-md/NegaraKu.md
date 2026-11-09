@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "members-voluntary-winding-up-malaysia" }
 related: []
 keywords: ["statutory declaration malaysia", "akuan berkanun", "commissioner for oaths malaysia", "statutory declarations act 1960", "false statutory declaration penalty", "declaration of solvency section 443"]
+framework: explainer
 ---
 
 Sooner or later a business owner is handed a document and told, "this needs to be a statutory declaration." It is one of those legal formalities that sounds heavier than it is — a written statement you swear is true in front of an authorised person — but the weight is real: sign a false one and you have committed a criminal offence. Here is what a statutory declaration is, who can take it, and where it turns up in company life.

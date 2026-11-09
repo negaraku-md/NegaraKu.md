@@ -195,6 +195,7 @@ relations:
   - { rel: "governs", to: "income-tax-act-1967" }
 related: ["labour-law-map-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "pcb-mtd-malaysia", "epf-foreign-workers-malaysia"]
 keywords: ["payroll compliance Malaysia", "statutory contribution deadline Malaysia", "EPF SOCSO EIS PCB due date", "employer payroll obligations Malaysia", "HRD Corp levy deadline"]
+framework: rules
 ---
 
 เหตุที่บัญชีเงินเดือนของมาเลเซียผิดพลาดแทบไม่เคยเป็นเรื่องการคำนวณ แต่เป็นเพราะห้าหน่วยงานที่แตกต่างกันต่างเชื่อว่าตนเป็นหน่วยงานเดียวที่คุณต้องรับผิดชอบ และไม่มีแห่งใดจะบอกคุณว่าอีกสี่แห่งต้องการอะไร

@@ -77,6 +77,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-registration", "imported-taxable-services", "sales-tax-explained"]
 keywords: ["SST-02", "SST filing deadline Malaysia", "SST late payment penalty", "taxable period SST", "MySST return"]
+framework: rules
 ---
 
 ลำดับโทษปรับหยุดไต่ที่เก้าสิบวัน หลังจากจุดนั้นมันคงที่ที่ 40% ดังนั้นการชำระเร็วขึ้นจึงเกี่ยวกับความเสี่ยงการฟ้องร้อง ไม่ใช่การสะสมโทษปรับ ต่ำกว่าเก้าสิบวันกลับตรงกันข้าม — ทุกขอบเขตสามสิบวันมีค่าอีก 15%

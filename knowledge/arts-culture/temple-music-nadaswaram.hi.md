@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["thaipusam", "hinduism-in-malaysia", "indian-classical-arts-in-malaysia", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community"]
 keywords: ["கோயில் இசை", "நாதஸ்வரம்", "தவில்", "மங்கள வாத்தியம்", "உறுமி மேளம்", "காவடி", "மலேசியா கோயில் இசை", "Nadaswaram", "Thavil", "Urumi Melam"]
+framework: history-culture
 ---
 
 थाईपुसम जुलूस की सबसे अगली पंक्ति में, जिस क्षण कोई मंदिर रथ चलना आरंभ करता है, या किसी विवाह मंडप के प्रवेश द्वार पर — मलेशिया के किसी भी तमिल हिंदू आयोजन में, हवा में सबसे पहले जो घुलता है वह एक विशेष ध्वनि ही होती है: नादस्वरम् (nadaswaram) की लंबी धुन और तविल (thavil) की गूँज। वह ध्वनि संयोगवश नहीं है — वह उस **mangala vadyam** (मंगल वाद्य) परंपरा का चिह्न है जो एक शताब्दी से अधिक समय से इस समुदाय के साथ चली आ रही है।

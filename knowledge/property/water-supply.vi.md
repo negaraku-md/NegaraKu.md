@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "moving-to-malaysia-first-steps" }
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka akaun air", "syarikat air negeri", "bil air Malaysia", "SPAN", "sambungan air baharu"]
+framework: explainer
 ---
 
 Bạn chuyển từ Selangor sang Johor. Tài khoản ngân hàng vẫn vậy. Đường dây điện thoại có thể mang theo. Nhưng tài khoản nước của bạn thì sao? Nó không đi theo — vì công ty cung cấp nước cho ngôi nhà mới của bạn hoàn toàn không phải cùng một công ty.

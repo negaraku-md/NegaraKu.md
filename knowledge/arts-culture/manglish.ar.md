@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "article-152-language" }
 related: ["bahasa-melayu", "languages-spoken", "article-152-language"]
 keywords: ["المانغليش", "Manglish", "الإنجليزية الماليزية", "Malaysian English", "جُسيم lah", "lah particle", "جُسيمات خطابية", "قواعد الإنجليزية الماليزية", "تبديل الشفرة", "acrolect mesolect basilect", "كلمات ماليزية في قاموس أوكسفورد", "bahasa rojak", "العامية الماليزية"]
+framework: explainer
 ---
 
 "Can or not?" "Wait ah, later confirm lor." "Don't play play, I already tell you."

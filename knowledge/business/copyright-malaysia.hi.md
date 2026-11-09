@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["ip-ownership-malaysia", "industrial-design-malaysia", "patent-malaysia"]
 keywords: ["कॉपीराइट मलेशिया", "कॉपीराइट पंजीकरण मलेशिया", "स्वैच्छिक अधिसूचना कॉपीराइट", "कॉपीराइट अधिनियम 1987", "cr-1 फॉर्म myipo", "copyright malaysia", "copyright act 1987", "cr-1 form myipo"]
+framework: explainer
 ---
 
 पंजीकृत करने के लिए कुछ नहीं है। मलेशिया में कॉपीराइट किसी कार्यालय द्वारा प्रदान नहीं किया जाता;

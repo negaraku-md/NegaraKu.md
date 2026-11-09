@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "contract-law" }
 related: []
 keywords: ["arbitraje", "AIAC", "Ley de Arbitraje de 2005", "mediación", "resolución de conflictos", "Convención de Nueva York", "financiación por terceros", "UNCITRAL", "arbitration", "Arbitration Act 2005", "mediation", "dispute resolution", "New York Convention", "third-party funding"]
+framework: explainer
 ---
 
 Dos empresas firman un contrato de suministro, una entrega con retraso y la otra reclama millones en daños y perjuicios, pero ninguna quiere que el expediente, el cronograma o los secretos comerciales se ventilen en una sala de audiencias abierta. En Malasia, ahí es donde el arbitraje y la mediación relevan a los tribunales.

@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "mfrs-vs-mpers" }
 related: ["mfrs-vs-mpers"]
 keywords: ["MFRS 18 Malaisie", "MFRS 18 date d'entrée en vigueur", "sous-total résultat opérationnel MFRS 18", "mesures de performance définies par la direction", "MFRS 18 cinq catégories", "MFRS 101 remplacée", "MFRS 18"]
+framework: explainer
 ---
 
 Chaque alerte rédigée jusqu'ici sur la MFRS 18 s'adressait au directeur financier

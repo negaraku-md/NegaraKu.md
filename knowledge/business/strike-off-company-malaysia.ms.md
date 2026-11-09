@@ -101,6 +101,7 @@ relations:
   - { rel: "requires", to: "annual-return" }
 related: ["close-a-company", "members-voluntary-winding-up", "creditors-voluntary-winding-up", "ssm-fees-malaysia", "annual-return"]
 keywords: ["batalkan syarikat malaysia", "seksyen 550 akta syarikat 2016", "pemulihan semula seksyen 555", "tutup syarikat ssm", "batalkan pendaftaran sdn bhd", "garis panduan pembatalan ssm"]
+framework: explainer
 ---
 
 Kebanyakan orang yang bertanya cara membatalkan syarikat sebenarnya bertanya cara

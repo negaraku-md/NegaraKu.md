@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "directors-duties" }
 related: ["minute-books-and-records", "directors-duties", "disclosure-of-interest", "written-resolutions", "company-tax-residence"]
 keywords: ["board meeting Malaysia", "Third Schedule Companies Act 2016", "directors circular resolution", "board quorum Sdn Bhd", "section 212 proceedings of the Board"]
+framework: rules
 ---
 
 Hầu hết các Sdn Bhd của Malaysia không có điều lệ. Theo Companies Act 2016, họ không

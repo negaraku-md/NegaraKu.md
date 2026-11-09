@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "hydrogen-ccus-malaysia" }
 related: ["energy-commission-suruhanjaya-tenaga", "tenaga-nasional", "seda-malaysia", "sarawak-energy-berhad", "hydrogen-ccus-malaysia"]
 keywords: ["sektor tenaga Malaysia", "NETR", "Peta Jalan Peralihan Tenaga Negara", "PETRA", "Suruhanjaya Tenaga", "Petronas", "tarif elektrik RP4", "BUDI95", "tenaga boleh baharu Malaysia", "grid elektrik Malaysia"]
+framework: explainer
 ---
 
 Nyalakan sakelar lampu di Kuala Lumpur, isi bensin RON95 di Ipoh, atau pasang panel

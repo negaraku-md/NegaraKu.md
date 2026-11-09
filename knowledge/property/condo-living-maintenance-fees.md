@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "maintenance fee Malaysia", "sinking fund Malaysia", "JMB Malaysia", "Management Corporation Malaysia", "MC strata", "share units", "condo maintenance Malaysia", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
+framework: explainer
 ---
 
 You bought the unit. You did not buy the lift, the guardhouse, the swimming pool, or the pipe running through the wall you share with your neighbour. Someone still has to pay for all of that — and the law splits the bill into two accounts you're legally required to keep separate.

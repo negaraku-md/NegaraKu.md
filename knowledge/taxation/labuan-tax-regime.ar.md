@@ -141,6 +141,7 @@ relations:
   - { rel: "located-in", to: "labuan" }
 related: ["corporate-tax-rates"]
 keywords: ["ضريبة لابوان", "Labuan tax", "معدل ضريبة لابوان 3%", "Labuan 3% tax rate", "متطلبات الجوهر في لابوان", "Labuan substance requirements", "LBATA 1990", "cukai Labuan", "section 39(1)(r)"]
+framework: explainer
 ---
 
 كل كتيّب عن لابوان يفتتح بالرقم نفسه: 3%. وهو رقم دقيق، وهو أقل الحقائق أهمية

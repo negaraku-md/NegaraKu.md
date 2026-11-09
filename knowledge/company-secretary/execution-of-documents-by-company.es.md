@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "company-contracts-section-64" }
 related: ["companies-act-2016"]
 keywords: ["penyempurnaan dokumen", "cop mohor", "common seal", "seksyen 66", "surat ikatan", "deed", "pegawai diberi kuasa", "Akta Syarikat 2016", "tandatangan syarikat"]
+framework: explainer
 ---
 
 Antes de que la Companies Act 2016 entrara en vigor el 31 de enero de 2017, el sello común era la forma habitual de que una empresa ejecutara documentos importantes en Malasia. Hoy, ese sello común puede no existir en absoluto — y una empresa aún puede firmar válidamente contratos, préstamos y deeds. Este cambio proviene de la Companies Act 2016, concretamente de la Section 61 y la Section 66, y a menudo confunde a los firmantes que todavía buscan el «cuño de la empresa».

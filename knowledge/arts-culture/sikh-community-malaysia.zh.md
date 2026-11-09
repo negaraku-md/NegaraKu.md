@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["tamil-in-malaysia", "chinese-dialects", "population-composition", "deepavali"]
 keywords: ["Sikh Malaysia", "Punjabi Malaysia", "gurdwara", "Vaisakhi", "Khalsa", "langar", "Tatt Khalsa Diwan", "komuniti Sikh", "bahasa Punjabi"]
+framework: history-culture
 ---
 
 在19世纪马来亚的英国警队和堡垒中，许多头缠头巾、蓄着浓密胡须的军官并非本地人——他们是从印度西北旁遮普被带来数千英里之外的锡克人。正是从这些维护治安的职务中，孕育出了马来西亚规模最小却最容易辨认的少数族群社群之一。

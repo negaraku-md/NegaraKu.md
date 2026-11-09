@@ -92,6 +92,7 @@ relations:
   - { rel: "affects", to: "global-minimum-tax-pillar-two" }
 related: ["corporate-tax-rates", "global-minimum-tax-pillar-two", "reinvestment-allowance"]
 keywords: ["Nouveau Cadre d'Incitations Malaisie", "incitation fiscale NIF Malaisie", "Pioneer Status Malaisie 2026", "Taux d'Imposition Spécial Malaisie", "Tableau de bord NIA", "échéance PIA 1986", "New Incentive Framework Malaysia", "NIA Scorecard"]
+framework: explainer
 ---
 
 Le Pioneer Status ne s'est pas éteint progressivement. Il a fermé, un après-midi précis, avec une échéance affichée : **15h00 le 28 février 2026**. Dès le lendemain matin, les demandes d'incitations du secteur manufacturier au titre de la Promotion of Investments Act 1986 ont cessé d'être acceptées, et tout ce qui est nouveau passe par le **Nouveau Cadre d'Incitations (NIF)**.

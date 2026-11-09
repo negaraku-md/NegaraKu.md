@@ -100,6 +100,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.267(4) and s.267(6)"
     consequence: "The company and every director commit an offence under s.267(7)"
+framework: rules
 ---
 
 一份已签署的委聘书不是委任。一封确认费用的电邮也不是。委任审计师是一项法定行为，

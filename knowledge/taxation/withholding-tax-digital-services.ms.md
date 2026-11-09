@@ -105,6 +105,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-non-compliance", "imported-taxable-services", "cp37-forms"]
 keywords: ["cukai pegangan SaaS Malaysia", "cukai pegangan ke atas perisian", "cukai pegangan pengiklanan digital", "Practice Note 1/2018", "royalti langganan awan Malaysia", "perkhidmatan bercukai import berbanding cukai pegangan"]
+framework: rules
 ---
 
 Sebuah PKS Malaysia membayar bil pengehosan asing, langganan alat reka bentuk,

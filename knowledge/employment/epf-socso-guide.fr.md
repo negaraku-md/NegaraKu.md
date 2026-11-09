@@ -68,6 +68,7 @@ relations:
   - { rel: "administered-by", to: "perkeso" }
 related: ["labour-law-map-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "payroll-compliance-malaysia", "payroll-rates-deadlines-malaysia", "epf-foreign-workers-malaysia", "new-hire-statutory-checklist"]
 keywords: ["EPF SOCSO EIS Malaisie", "cotisations légales employeur Malaisie", "KWSP PERKESO employeur", "caruman KWSP majikan", "paie légale Malaisie"]
+framework: journey-hub
 ---
 
 Les employeurs persistent à appeler cela une seule obligation. Il y en a trois, et elles ne partagent ni loi, ni agence, ni structure de taux, ni règle de couverture. La seule chose qu'elles ont en commun est la date de versement.

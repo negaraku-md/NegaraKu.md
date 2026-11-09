@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "remove-a-director" }
 related: ["remove-a-director", "agm-requirements", "resolution-notice-periods", "written-resolutions"]
 keywords: ["keperluan EGM Malaysia", "seksyen 311 Akta Syarikat 2016", "pemegang saham panggil mesyuarat", "keperluan 10 peratus", "mesyuarat pemegang saham minoriti"]
+framework: how-to
 ---
 
 Hampir semua firma sekretaris perusahaan di Malaysia menulis tentang rapat dari

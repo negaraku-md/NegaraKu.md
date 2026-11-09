@@ -90,6 +90,7 @@ verificationNeeded:
   - "The etymology of 'kuih' (commonly traced to the Southern Min / Hokkien koé, 粿) — confirm with a linguistic or lexicographic source rather than food media."
   - "The regional attribution of sweet versus savoury kuih to particular states (e.g. sweeter in the northern states, more savoury kuih in the central and southern peninsula) — reported by Wikipedia but worth confirming against a Malaysian culinary-heritage source."
   - "Whether 'onde-onde' and 'buah melaka' name exactly the same kuih or regional variants — usage varies and sources are not fully consistent; confirm with a local source."
+framework: history-culture
 ---
 
 Walk past a kuih stall in the morning and the display looks like a paint box:

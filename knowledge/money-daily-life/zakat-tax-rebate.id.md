@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "zakat-pendapatan" }
 related: []
 keywords: ["zakat rebat cukai", "Seksyen 6A", "Akta Cukai Pendapatan 1967", "rebat cukai zakat LHDN", "zakat vs pelepasan cukai", "badan zakat negeri"]
+framework: explainer
 ---
 
 Bayar zakat RM1,000, dan pajak penghasilan Anda turun tepat RM1,000 — bukan hanya sebagian kecil darinya seperti kebanyakan potongan pajak lain. Perbedaan itulah yang sering membingungkan wajib pajak Muslim di Malaysia, dan ia terletak pada satu kata: *rabat*, bukan *keringanan*.

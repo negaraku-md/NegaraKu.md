@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "ssm-late-lodgement-fees" }
 related: ["financial-statements-lodgement", "mbrs-2", "ssm-late-lodgement-fees", "sdn-bhd-filing-calendar", "annual-return"]
 keywords: ["extension of time SSM", "EOT SSM Malaysia", "Practice Note 3/2018", "section 259(2) Companies Act 2016", "extend financial statements deadline Malaysia", "EOT application company secretary"]
+framework: how-to
 ---
 
 거절되는 기한 연장 신청의 대부분은 그 실질적 이유 때문에 거절되는 것이 아닙니다. 아예 심사조차 받을 수 없을 만큼 너무 늦게 도착했기 때문에 거절되는 것입니다.

@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#Leens", "#BibGourmand", "#MichelinGuide", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 En un local comercial de Taman Tun Dr Ismail, el olor del pan recién horneado delata

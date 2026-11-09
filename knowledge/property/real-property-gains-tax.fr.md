@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "stamp-duty" }
 related: []
 keywords: ["RPGT", "impôt sur les plus-values immobilières", "CKHT", "LHDN", "cession immobilière", "taux RPGT", "exonération RPGT"]
+framework: rules
 ---
 
 Vous vendez une maison avec bénéfice, mais avant que l'argent n'arrive sur votre compte, le gouvernement veut sa part. C'est le RPGT, un impôt que les vendeurs négligent souvent jusqu'à ce que l'avocat retienne des milliers de ringgit à la table de règlement.

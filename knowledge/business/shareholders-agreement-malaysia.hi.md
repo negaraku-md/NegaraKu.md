@@ -90,6 +90,7 @@ keywords:
   - "drag along tag along Sdn Bhd"
   - "shareholders agreement Malaysia"
   - "section 346 oppression"
+framework: explainer
 ---
 
 दो संस्थापक बीस-पृष्ठ का शेयरधारक-समझौता हस्ताक्षर करते हैं। यह उनमें से प्रत्येक को एक

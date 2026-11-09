@@ -131,6 +131,7 @@ entity: "Capital allowances under Schedule 3 of the Income Tax Act 1967"
 relations: []
 related: []
 keywords: ["capital allowance malaysia", "schedule 3 income tax act 1967", "initial allowance annual allowance", "balancing charge malaysia", "small value asset RM2000", "qualifying plant expenditure"]
+framework: explainer
 ---
 
 Baris susut nilai dalam akaun anda tidak bernilai apa-apa kepada LHDN. Perenggan 39(1)(e) Akta Cukai Pendapatan 1967 tidak membenarkan apa-apa perbelanjaan yang merupakan perbelanjaan layak bagi maksud Jadual 3 — jadi caj perakaunan itu ditambah semula sepenuhnya, dan Jadual 3 menentukan, mengikut terma tersendirinya, berapa banyak pelepasan yang sebenarnya diperoleh aset itu dan bila.

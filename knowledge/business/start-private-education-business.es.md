@@ -80,6 +80,7 @@ social:
     - PrivateSchool
     - EducationMalaysia
     - MalaysiaLicensing
+framework: how-to
 ---
 
 Abrir un centro de refuerzo o una escuela privada parece, desde fuera, alquilar un local, contratar buenos profesores e imprimir un cartel. En Malasia no lo es. La educación es una actividad regulada, y registrar una empresa ante la SSM — el paso que la mayoría de los operadores primerizos considera «iniciar el negocio» — solo te da una entidad jurídica. No te da el derecho a enseñar a un solo alumno de pago.

@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#FoongLian", "#ClaypotRice", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 في Jalan Yew بحي Pudu، يصطفّ صفٌّ من الأواني الفخارية فوق فحمٍ متوهّج، يصنع كلٌّ منها

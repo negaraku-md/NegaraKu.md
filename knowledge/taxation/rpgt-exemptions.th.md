@@ -72,6 +72,7 @@ relations:
   - { rel: "governs", to: "real-property-gains-tax-act-1976" }
 related: ["rpgt-rates", "capital-gains-tax", "capital-or-revenue"]
 keywords: ["RPGT exemption", "private residence exemption Malaysia", "CKHT 3", "CKHT 1A", "love and affection transfer", "RPGT family transfer"]
+framework: rules
 ---
 
 การบรรเทา RPGT ที่มีค่าที่สุดในพระราชบัญญัติสามารถใช้ได้เพียงครั้งเดียว และคนส่วนใหญ่ใช้มันไปกับทรัพย์สินที่ผิด — มักเป็นทรัพย์สินแรกที่ขาย ซึ่งแทบไม่เคยเป็นทรัพย์สินที่มีกำไรมากที่สุด

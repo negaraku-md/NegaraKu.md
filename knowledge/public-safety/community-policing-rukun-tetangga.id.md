@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "jkkk-village-safety-committee" }
 related: ["pdrm"]
 keywords: ["rukun tetangga", "skim rondaan sukarela", "SRS", "KRT", "kepolisan komuniti", "JPNIN", "Akta 751", "keselamatan kejiranan"]
+framework: explainer
 ---
 
 Lampu jalan di malam hari di kompleks perumahan sering kali sebagian terhalang oleh dua atau tiga orang bersepeda atau berjalan kaki dengan senter — tetangga yang berpatroli di kawasan mereka sendiri. Mereka bukan polisi. Mereka anggota Skim Rondaan Sukarela, dan mereka mewakili lapisan pertama pencegahan kejahatan di sebagian besar lingkungan di Malaysia: komunitas yang menjaga komunitasnya sendiri, secara berkelanjutan bersama Polis Diraja Malaysia (PDRM).

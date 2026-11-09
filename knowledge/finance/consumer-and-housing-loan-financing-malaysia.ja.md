@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "hire-purchase-act-1967-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["SBR Malaysia", "Standardised Base Rate", "debt service ratio", "DSR", "housing loan Malaysia", "Hire Purchase Act 1967", "BLR", "responsible financing", "OPR"]
+framework: explainer
 ---
 
 同じ給与明細を持った2人の住宅購入希望者が、2つの異なる銀行の窓口を訪れ、2つの異なる答えを持って出てくる。どちらの銀行も独自に金利を発明したわけではなく、どちらも恣意的に振る舞っているわけでもない。マレーシアの小売融資制度は、小さな共有ルールの集合の上で動いている——変動金利ローンすべてをクアラルンプールにある一つの政策ダイヤルに結びつけるルール、いくらの負債を抱えられるかを決めるルール、そして自動車については1967年という別の年に由来する、まったく独立した法律である。

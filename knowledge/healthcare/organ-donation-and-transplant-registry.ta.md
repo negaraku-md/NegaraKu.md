@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "how-malaysian-healthcare-works" }
 related: ["how-malaysian-healthcare-works", "government-hospitals"]
 keywords: ["pendermaan organ", "derma organ", "transplan", "NTRC", "ikrar penderma", "fatwa organ", "kematian otak", "MySejahtera"]
+framework: explainer
 ---
 
 ஒவ்வொரு ஆண்டும், மலேசியாவில் ஆயிரக்கணக்கான நோயாளிகள் ஒருபோதும் வராமல் போகக்கூடிய ஒரு தொலைபேசி அழைப்புக்காகக் காத்திருக்கிறார்கள் — அவர்களது உயிரைக் காக்கும் ஒரு உறுப்பு இறுதியில் கிடைத்துவிட்டது என்று தெரிவிக்கும் அழைப்பு. அந்த நீண்ட காத்திருப்புப் பட்டியலுக்குப் பின்னால் ஒரு முரண்பாடு உள்ளது: நூறாயிரக்கணக்கான மக்கள் உறுப்பு தானம் செய்ய உறுதிமொழி அளித்துள்ளனர், ஆனால் அந்த உறுதிமொழிகளில் மிகச் சிறு பகுதியே உண்மையில் நிறைவேற்றப்படுகிறது.

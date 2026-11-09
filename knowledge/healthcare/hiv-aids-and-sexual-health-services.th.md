@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "klinik-kesihatan-services" }
 related: []
 keywords: ["HIV", "AIDS", "ujian HIV", "PrEP", "PEP", "ART", "kesihatan seksual", "Majlis AIDS Malaysia", "Kementerian Kesihatan"]
+framework: explainer
 ---
 
 ผู้ที่กังวลหลังจากคืนที่มีความเสี่ยงสามารถเดินเข้าไปในคลินิกสุขภาพของรัฐในมาเลเซีย ตรวจ HIV ได้ฟรีและเป็นความลับ และ — หากจำเป็น — กลับบ้านพร้อมยาป้องกันภายในไม่กี่ชั่วโมง อย่างไรก็ตาม เส้นทางเดียวกันนั้นก็ตัดกับประเด็นการรักษาความลับ กฎหมาย ศาสนา และการตีตรา ที่ทำให้ HIV เป็นหนึ่งในหัวข้อสุขภาพที่ละเอียดอ่อนที่สุดในประเทศ

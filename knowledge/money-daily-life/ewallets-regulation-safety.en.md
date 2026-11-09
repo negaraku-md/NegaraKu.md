@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "duitnow-qr" }
 related: ["pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["e-wallet Malaysia", "e-money", "Touch n Go eWallet", "Boost", "GrabPay", "ShopeePay", "BNM", "PIDM", "akaun amanah", "safeguarding"]
+framework: explainer
 ---
 
 You tap "pay" at the counter, your e-wallet balance drops by a few ringgit, and the transaction is done in a second. But where is the RM200 you "topped up" this morning actually kept — and what happens to it if the company behind the app suddenly goes bankrupt? The answer is different from what happens to the money in your bank account, and the difference matters.

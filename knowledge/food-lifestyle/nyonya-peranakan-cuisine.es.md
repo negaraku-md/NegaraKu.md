@@ -98,6 +98,7 @@ verificationNeeded:
   - "El origen del nombre 'kari kapitan' (una historia popular lo liga a un Kapitan China / un 'capitán' que preguntó al cocinero qué había para cenar): la etimología es anecdótica y no está verificada; confírmese con una fuente de historia culinaria."
   - "Si el inchi kabin (pollo frito especiado de Penang) es propiamente nyonya, hainanés o de origen colonial mixto: las atribuciones difieren; confírmese con una fuente patrimonial o culinaria de Penang."
   - "La afirmación precisa de que la cocina nyonya de Penang obtiene su acidez y picor de la influencia tailandesa mientras que la cocina de Melaka/Singapur está más influida por Indonesia: este marco regional se repite en las fuentes, pero debería confirmarse frente a trabajos académicos como los estudios citados del Journal of Ethnic Foods."
+framework: history-culture
 ---
 
 Mete la cuchara en un cuenco de cocina nyonya y saboreas dos mundos a la vez: la profundidad

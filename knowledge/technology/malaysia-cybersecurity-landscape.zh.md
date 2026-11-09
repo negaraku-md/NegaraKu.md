@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "pdpa-2010" }
 related: ["pdpa-2010"]
 keywords: ["Malaysia cybersecurity", "Cyber Security Act 2024", "Act 854", "NACSA", "National Critical Information Infrastructure", "Global Cybersecurity Index", "Malaysia Cyber Security Strategy"]
+framework: explainer
 ---
 
 十年来，马来西亚一直要求其关键基础设施认真对待网络安全。自2024年8月26日

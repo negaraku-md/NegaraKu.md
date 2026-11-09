@@ -86,6 +86,7 @@ keywords:
   - "Konfederasi Hoki Malaysia"
   - "kedudukan hoki dunia FIH Malaysia"
   - "Piala Dunia hoki 1975 Kuala Lumpur"
+framework: history-culture
 ---
 
 El 15 March de 1975, un estadio de Kuala Lumpur vio a la India levantar la Copa Mundial masculina de hockey por única vez en su historia, y el anfitrión no era la India, sino Malasia. Medio siglo después, el mismo país sigue invitando cada año a las potencias mundiales del hockey a Ipoh. Puede que el hockey sobre césped no sea hoy el deporte más popular de Malasia, pero bien podría ser el legado deportivo del país más respetado a nivel internacional.

@@ -75,6 +75,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["tol lebuh raya Malaysia", "SmartTAG", "RFID Touch n Go", "JustGO PLUS", "ANPR tol", "MLFF tol tanpa palang", "lorong tol Malaysia"]
+framework: explainer
 ---
 
 Chiếc xe trước bạn ở làn RFID phanh gấp vì miếng dán trên đèn pha của nó không được phát hiện — trong khi nhiều người tưởng RFID có nghĩa là "không cần làm gì cả". Thực tế, Malaysia hiện đang vận hành ít nhất bốn thế hệ công nghệ thu phí đồng thời trên các đường cao tốc khác nhau, và nhầm lẫn cái này với cái kia là nguyên nhân thường gặp khiến xe kẹt lại tại cổng.

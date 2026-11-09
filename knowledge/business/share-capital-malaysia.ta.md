@@ -114,6 +114,7 @@ keywords:
   - "allotment of shares Malaysia"
   - "increase paid up capital Malaysia"
   - "section 75 Companies Act 2016"
+framework: explainer
 ---
 
 RM1 செலுத்தப்பட்ட மூலதனம் சட்டப்பூர்வமானது, பொதுவானது, மேலும் நிறுவனம் தொடங்கும்போது

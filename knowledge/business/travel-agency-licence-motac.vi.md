@@ -80,6 +80,7 @@ social:
     - TourOperator
     - DoingBusinessInMalaysia
     - MalaysiaLicensing
+framework: how-to
 ---
 
 Bạn đã tìm được nhà cung cấp, xây dựng một hành trình và sẵn sàng bắt đầu bán các kỳ nghỉ — nhưng ở Malaysia, việc bán là phần mà luật pháp chạm tới trước tiên. Trước khi một tour được quảng cáo hoặc một chiếc vé được bán ra, doanh nghiệp đứng sau nó phải được Bộ Du lịch, Nghệ thuật và Văn hóa (MOTAC) cấp phép. Đây không phải là một thủ tục gắn thêm về sau; đó là cánh cổng bạn phải đi qua để được kinh doanh, và việc điều hành tour mà không có nó là một hành vi phạm tội.

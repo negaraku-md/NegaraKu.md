@@ -94,6 +94,7 @@ verificationNeeded:
   - "Nguồn gốc và từ nguyên của sambal — từ này được truy rộng rãi về 'sambel' trong tiếng Java/Java cổ, còn loại tương này về vùng Đông Nam Á hải đảo, nhưng các nguồn uy tín gọi thời điểm xuất hiện chính xác của nó là không chắc chắn và mô tả sambal khác nhau là 'của Indonesia' hoặc 'của Malaysia' tùy nguồn. Hãy xác nhận bằng nguồn ngôn ngữ học hoặc lịch sử ẩm thực thay vì truyền thông ẩm thực, và giữ phần khẳng định ở mức dè dặt."
   - "Bài 'Sambal' trên Wikipedia tiếng Anh từng mang biểu ngữ bảo trì ghi rằng nó chứa văn bản do máy tạo đang được rà soát; các quy kết cụ thể lấy từ đó (ví dụ sự lan tỏa theo vùng của sambal tempoyak tới Pahang, Perak và Brunei) cần được xác nhận lại với một nguồn độc lập."
   - "Liệu sambal matah có đúng là một loại sambal Malaysia hay là một thứ du nhập từ Bali/Indonesia đã lọt vào thực đơn Malaysia — các nguồn trình bày nó có nguồn gốc Bali; hãy xác nhận vị thế của nó trước khi mô tả nó là một phần kho tàng Malaysia."
+framework: explainer
 ---
 
 Hỏi một người Malaysia điều gì khiến một bữa ăn có vị như ở nhà, câu trả lời

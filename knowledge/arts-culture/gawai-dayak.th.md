@@ -77,6 +77,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["kaamatan", "sarawak"]
 keywords: ["Gawai Dayak", "Hari Gawai", "harvest festival Sarawak", "Dayak", "Iban", "Bidayuh", "Orang Ulu", "miring", "ngajat", "tuak", "Tuai Rumah", "Gayu Guru Gerai Nyamai"]
+framework: history-culture
 ---
 
 นาฬิกายังไม่ตีเที่ยงคืนของวันสุดท้ายของเดือนพฤษภาคม และในบ้านยาวแห่งหนึ่งริมแม่น้ำในซาราวัก ฆ้องกำลังรออยู่ ข้าวเก็บเกี่ยวเสร็จแล้ว ระเบียงถูกกวาดและแขวนด้วยเสื่อใหม่ ไหตูวะก์ตั้งพร้อม เมื่อฆ้องดังขึ้นในที่สุด หัวหน้าบ้านยาวจะยกถ้วยขึ้น และทุกคนตลอดระเบียงส่วนกลางยาวจะดื่มให้แก่คำสามคำเดียวกัน กล่าวคือ อายุยืน สุขภาพดี ความเจริญรุ่งเรือง

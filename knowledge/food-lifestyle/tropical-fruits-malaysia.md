@@ -96,6 +96,7 @@ verificationNeeded:
   - "Exact durian and general fruit season months vary by region and year with rainfall and flowering — confirm current-year timing against the Department of Agriculture Malaysia (DOA) or MARDI rather than fixing specific dates."
   - "Whether langsat, duku and dokong are grades/cultivars of a single species (Lansium parasiticum) versus separate varieties, and the precise distinctions between them — confirm with a horticultural source such as MARDI."
   - "Folk beliefs that durian is 'heaty' or dangerous when eaten with alcohol are traditional and not firmly established by evidence — flag as belief, not fact."
+framework: explainer
 ---
 
 Walk through any Malaysian *pasar* (market) in the middle of the year and the

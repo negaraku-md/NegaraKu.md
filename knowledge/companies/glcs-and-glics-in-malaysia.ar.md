@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["ekonomi-madani-framework", "khazanah", "bursa-malaysia"]
 keywords: ["GLC", "GLIC", "Khazanah", "KWSP", "PNB", "KWAP", "LTAT", "Tabung Haji", "GEAR-uP", "PERKUKUH", "الشركات المرتبطة بالحكومة", "برنامج تحويل GLC", "Bursa Malaysia"]
+framework: explainer
 ---
 
 افتح محفظة أي صندوق مؤشر في بورصة ماليزيا (Bursa Malaysia)، وستجد يد الحكومة الاتحادية داخله على نحو شبه مؤكد. فأكبر بنوك البلاد ومرافقها العامة وشركات اتصالاتها وشركات طيرانها وتكتلات مزارعها — كلها تتشارك مالكًا نهائيًا واحدًا بعينه: شعب ماليزيا، عبر حفنة من مؤسسات الاستثمار الحكومية. وهذا الهيكل هو ما يجعل ماليزيا أحد أكثر الاقتصادات تأثرًا بالدولة في جنوب شرق آسيا، وهو ما يختصره مصطلحان كثيرًا ما يُخلَط بينهما: GLC وGLIC.

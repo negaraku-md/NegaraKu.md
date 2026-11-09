@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["ekonomi-madani-framework", "malaysia-plans", "bumiputera-equity-requirements", "gdp-overview", "federal-budget"]
 keywords: ["बुमिपुतेरा आर्थिक नीति", "Dasar Ekonomi Baru", "DEB", "समाज पुनर्संरचना", "PuTERA35", "Pelan Transformasi Ekonomi Bumiputera 2035", "Majlis Ekonomi Bumiputera", "MADANI अर्थव्यवस्था", "भागीदारी स्वामित्व नियंत्रण"]
+framework: explainer
 ---
 
 19 August 2024 को सरकार ने बुमिपुतेरा आर्थिक रूपांतरण योजना 2035 (PuTERA35)

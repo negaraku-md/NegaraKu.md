@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-malaysia" }
 related: ["religion-statistics", "public-holidays-malaysia", "batik"]
 keywords: ["deepavali malaisie", "fête des lumières malaisie", "fête hindoue malaisie", "deepavali jour férié", "deepavali sarawak", "hari deepavali", "diwali malaisie"]
+framework: history-culture
 ---
 
 Pour une nuit, c'est la lampe qui parle. Des rangées de petites lampes d'argile sont disposées le long des portes et des rebords de fenêtres, un motif au sol de riz ou de poudre colorée est tracé sur le seuil, et une maison qui était sombre une heure plus tôt se dessine dans la flamme. C'est de là que la fête tire son nom : *Deepavali* vient du sanskrit « une rangée ou une série de lumières ».

@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "pdpa-2010" }
 related: ["mykad", "jpn", "pdpa-2010"]
 keywords: ["mydigital id", "identiti digital nasional malaysia", "myniise", "myjpj mydigital id", "daftar mydigital id"]
+framework: explainer
 ---
 
 You may already have run into it without realising: a new login screen that pops up when you open MyJPJ or try to renew your road tax. That is MyDigital ID, and throughout 2026 it is shifting from something optional to the only gateway into a growing number of government services.

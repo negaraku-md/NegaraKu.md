@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik", "borneo-indigenous-languages"]
 keywords: ["masakan Peranakan Nyonya", "masakan pantai timur Kelantan Terengganu", "masakan Sarawak Sabah", "masakan Mamak nasi kandar", "kari debal Kristang", "budaya sarapan Malaysia UNESCO"]
+framework: explainer
 ---
 
 말레이시아인 열 명에게 「말레이시아 음식」이 무엇이냐고 물으면, 열 개의 서로 다른 지도를 얻을지 모릅니다. 코타바루 사람은 푸른빛 나시 크라부와 부두로 시작할 것이고, 쿠칭 사람은 사라왁 락사와 콜로 미를 말할 것이며, 믈라카 사람은 뇨냐 아얌 퐁테나 [크리스탕](/arts-culture/kristang-eurasian-culture) 카리 드발을 이야기할 것이고, 또 한 사람은 길 끝 마막 노점을 곧장 가리킬 것입니다. 아무도 틀리지 않았습니다. 말레이시아에는 단일한 국민 요리가 없습니다 — 서로 다른 지역과 공동체에서 자라난 뒤 수백 년 동안 서로 빌려 온 부엌의 한 가족이 있을 뿐입니다.

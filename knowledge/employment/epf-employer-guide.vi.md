@@ -97,6 +97,7 @@ relations:
   - { rel: "explained-in", to: "epf-foreign-workers-malaysia" }
 related: ["payroll-compliance-malaysia", "epf-foreign-workers-malaysia", "socso-eis-employer-guide"]
 keywords: ["EPF contribution rate Malaysia", "EPF Third Schedule", "KWSP employer contribution", "EPF 13 percent 12 percent", "caruman KWSP majikan"]
+framework: rules
 ---
 
 Hỏi một quản trị viên bảng lương Malaysia mức EPF của người sử dụng lao động là bao nhiêu và bạn sẽ được cho biết 13 phần trăm. Yêu cầu họ tính khoản đóng trên một mức lương RM3,250 và hầu hết sẽ nhân lên. Phép nhân đó không được phép, và nó cho ra con số sai.

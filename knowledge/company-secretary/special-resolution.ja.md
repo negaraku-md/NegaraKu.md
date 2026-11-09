@@ -71,6 +71,7 @@ entity: "Companies Act 2016 (Malaysia)"
 relations: []
 related: []
 keywords: ["special resolution", "ordinary resolution", "special resolution vs ordinary resolution", "Companies Act 2016", "special resolution 75%", "ordinary resolution simple majority", "section 292 Companies Act 2016", "section 291 Companies Act 2016", "written resolution private company Malaysia", "special resolution notice period", "members resolution Malaysia", "resolusi khas", "SSM resolution Malaysia"]
+framework: explainer
 ---
 
 50％と75％——この2つの数字が、日常的な株主の決定と構造的な決定を分ける。決議の種類を誤れば、2016年会社法（Companies Act 2016、Act 777）が求める多数に届かないか、あるいは2週間の通知で足りるものに3週間の通知を与えることになる。本ガイドが答えるのは本当の問いである——*あなたの*具体的な行為にはどちらの決議が必要で、私会社（Sdn Bhd）として実際にどう通過させるのか？

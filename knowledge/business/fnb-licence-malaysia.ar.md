@@ -126,6 +126,7 @@ keywords:
   - "food handler certificate Malaysia"
   - "ترخيص المشروبات الكحولية ماليزيا"
   - "liquor licence Malaysia"
+framework: rules
 ---
 
 ترخيص المطعم لا وجود له. فالموجود مجموعةٌ من خمس أو ست موافقات منفصلة من أربع أو

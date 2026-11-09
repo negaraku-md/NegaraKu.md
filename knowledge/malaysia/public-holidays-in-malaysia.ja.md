@@ -80,6 +80,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: explainer
 ---
 
 マレーシア全土にまたがる旅行、製品の発売、あるいは給与計算を計画すると、よそ者の不意を突くことにすぐ気づく。クアラルンプールでは祝日である日が、クチンでは普通の労働日であり、その逆もある。マレーシアには一つの全国的な祝日一覧があるというより、国家の層と、その上に積み重なった13の州の層がある。

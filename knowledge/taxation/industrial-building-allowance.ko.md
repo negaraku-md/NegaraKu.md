@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["capital-allowances", "losses-and-group-relief"]
 keywords: ["industrial building allowance malaysia", "IBA schedule 3", "paragraph 63 schedule 3", "qualifying building expenditure", "factory tax allowance malaysia", "IBA rate 10% 3%"]
+framework: explainer
 ---
 
 한 회사가 공장을 RM1,200,000에 매입하고 RM1,200,000에 대해 산업용 건물 공제를 청구합니다. 2년 후 세무조사가 청구를 50만 링깃 남짓으로 조정하고, 그 이후 모든 해의 초과분을 가산 조정하며, 벌금을 부과합니다. 건물에 관해 바뀐 것은 아무것도 없습니다. 회사는 단지 법이 결코 사용을 허용하지 않은 수치로 청구했을 뿐입니다.

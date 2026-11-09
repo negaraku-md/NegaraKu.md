@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "trade-descriptions-act-2011" }
 related: ["jakim"]
 keywords: ["pensijilan halal Malaysia", "SPHM", "JAKIM halal", "MYeHALAL", "MS 1500", "logo halal Malaysia", "sijil halal", "e-Cert halal", "Manual Prosedur Pensijilan Halal Malaysia", "skim pensijilan halal"]
+framework: how-to
 ---
 
 那个中央有阿拉伯文字的八角星形清真标志，是马来西亚超市货架上最广为人知的标记之一——而全国只有一方有权把它放在那里。不是产品生产商，不是私人顾问，也不是任何国际认证机构，而是政府本身，通过 JAKIM 及其州级伙伴。

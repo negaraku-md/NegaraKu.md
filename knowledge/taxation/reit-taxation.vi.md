@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["income-tax-act-1967", "lhdn"]
 keywords: ["REIT tax Malaysia", "property trust fund", "section 61A", "withholding tax REIT", "YA 2026 REIT tax", "unit holder distribution"]
+framework: explainer
 ---
 
 Mua một chứng chỉ trong một REIT của Malaysia và bạn thực chất là một chủ nhà không

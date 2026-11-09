@@ -76,6 +76,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["ApamBalik", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 يميل تقدير MICHELIN في بينانغ إلى التجمّع في جورج تاون، لكن أحد أكثر حاملي Bib

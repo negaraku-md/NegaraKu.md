@@ -71,6 +71,7 @@ sources:
 relations: []
 related: ["choosing-accounting-secretarial-audit-tax-firm-malaysia", "company-secretary-malaysia", "audit-exemption-criteria", "accounting-records-section-245"]
 keywords: ["ganti sekretaris perusahaan Malaysia", "berhentikan auditor Malaysia", "ganti agen pajak LHDN", "ganti firma akuntansi Malaysia", "sekretaris perusahaan mengundurkan diri seksyen 237", "notis khusus memberhentikan auditor", "ganti firma jasa korporat Malaysia", "cara ganti sekretaris perusahaan SSM", "ganti auditor Akta Syarikat 2016", "ganti juru pembukuan Malaysia"]
+framework: how-to
 ---
 
 Cepat atau lambat sebuah perusahaan melampaui penyedianya — biayanya merangkak naik, layanannya menyepi, atau Anda sekadar menemukan yang lebih cocok. Naluri yang muncul adalah mengirim satu email dan beralih. Tetapi Malaysia tidak memperlakukan keempat profesional ini dengan cara yang sama: melepaskan juru pembukuan Anda cukup dengan satu panggilan telepon, sementara memberhentikan auditor Anda adalah proses formal yang dilindungi hukum. Berikut cara kerja masing-masingnya, dan cara mengganti tanpa meninggalkan celah kepatuhan.

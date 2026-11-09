@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "unit-trust-funds-malaysia" }
 related: ["bursa-malaysia", "securities-commission-malaysia", "unit-trust-funds-malaysia"]
 keywords: ["حساب CDS", "CDS account", "Bursa Anywhere", "وسيط أسهم في ماليزيا", "كيف تشتري الأسهم", "رسوم الوساطة", "رسم المقاصة", "ضريبة الدمغة على الأسهم", "stamp duty shares"]
+framework: how-to
 ---
 
 تملّك حصة من Maybank أو Tenaga يبدأ بحسابين، لا حساب واحد — وليس أيٌّ منهما حسابًا بنكيًا. فقبل أن تشتري سهمًا واحدًا في بورصة ماليزيا، تحتاج إلى مكانٍ *للاحتفاظ* بالأسهم ومكانٍ *لإصدار الأمر*. وفيما يلي كيف يتكامل الاثنان، وكم تكلّف كل صفقة فعليًا.

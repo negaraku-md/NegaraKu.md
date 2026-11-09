@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["bangsawan", "opera Melayu", "teater Parsi", "Wayang Parsi", "Pushi Indera Bangsawan", "teater peralihan", "filem Melayu"]
+framework: history-culture
 ---
 
 चलचित्रों के आने से पहले, प्रकाशित मंच थे, हाथ से चित्रित परदे थे, और एक ऐसी ऑर्केस्ट्रा थी जो उसी रात के प्रदर्शन में किसी मलय दरबार की प्रवाहमान धुनों से मध्य-पूर्व की किसी लय तक बदल सकती थी। वह था बंगसावान — वह मंच ओपेरा जो कभी प्रायद्वीप में शहरी मनोरंजन का सबसे जीवंत रूप था, और जिसने बाद में अपने अभिनेताओं और गायकों को नवजात मलय फ़िल्म उद्योग को सौंप दिया।

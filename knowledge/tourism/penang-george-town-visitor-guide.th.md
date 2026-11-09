@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["Penang travel guide", "George Town UNESCO", "Penang street art", "Penang Hill funicular", "Penang hawker food", "George Town heritage core", "Batu Ferringhi", "things to do in Penang"]
+framework: explainer
 ---
 
 ลงบนเกาะ ก้าวออกจากเครื่องปรับอากาศ และสิ่งแรกที่กระทบคุณคือกลิ่น ควันกระทะ ธูปจากวัดจีน ดอกลั่นทม และไอเค็มของช่องแคบมะละกา จอร์จทาวน์เป็นที่ที่คุณอ่านด้วยเท้า ผังตึกแถวอายุร้อยปีที่กะทัดรัด ที่ซึ่งมัสยิด บ้านตระกูล และโบสถ์อาณานิคมอาจอยู่ในบล็อกเดียวกัน คู่มือนี้ครอบคลุมสิ่งที่ควรชม ที่ที่ควรกิน วิธีไปถึงชายหาดและเนินเขา และควรให้เวลาแค่ไหนกับเมืองที่ให้รางวัลกับความช้า

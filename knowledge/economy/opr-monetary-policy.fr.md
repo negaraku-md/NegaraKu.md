@@ -66,6 +66,7 @@ faq:
     a: 'Les deux évoluent dans le même sens, mais pas de façon symétrique. L''article souligne une asymétrie qu''il est utile de connaître : les taux des prêts tendent à monter vite et à baisser lentement, tandis que les taux des dépôts tendent à faire l''inverse, se réajustant plus lentement et moins complètement que les prêts. Il décrit cela comme une réalité commerciale des marges bancaires plutôt que comme une règle.'
   - q: Une décision de 'statu quo' sur le OPR signifie-t-elle que le Comité de politique monétaire n'a rien fait ?
     a: 'Non : décider de maintenir le taux reste une décision. Le Comité de politique monétaire se réunit six fois par an selon un calendrier publié, et une longue série de décisions de statu quo traduit l''appréciation selon laquelle l''inflation est suffisamment maîtrisée pour ne pas exiger de resserrement et la croissance suffisamment solide pour ne pas nécessiter de soutien. Le communiqué qui l''accompagne signale généralement l''orientation du comité.'
+framework: explainer
 ---
 
 ## En un coup d'œil

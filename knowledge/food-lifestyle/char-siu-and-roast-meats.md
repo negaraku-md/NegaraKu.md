@@ -94,6 +94,7 @@ verificationNeeded:
   - "The source of char siu's reddish colour — accounts variously credit the marinade and caramelisation, fermented red beancurd, or added food colouring — confirm with a reputable food-science or culinary source."
   - "The food-media characterisation of a distinct 'KL-style' char siu (fattier, more charred, sometimes made from pork belly) versus other regional styles — confirm against a specialist culinary source, as this is drawn from restaurant reviews."
   - "The exact Cantonese romanisations and characters for the roast meats as used in Malaysia (siu ngap 燒鴨 roast duck, siu ngo 燒鵝 roast goose, and local spellings such as 'siew yoke') — confirm with a Cantonese lexical or local-language source."
+framework: explainer
 ---
 
 Push open the glass of a Chinese roast-meat shop and the display tells you

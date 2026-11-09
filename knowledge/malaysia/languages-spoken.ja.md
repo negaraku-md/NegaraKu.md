@@ -85,6 +85,7 @@ relations:
 related: ["federal-constitution", "bahasa-melayu", "population-composition", "formation-of-malaysia-1963", "independence-1957", "ma63"]
 keywords: ["languages of Malaysia", "Bahasa Melayu", "national language Malaysia", "Article 152 Federal Constitution", "Chinese dialects Malaysia", "Tamil Malaysia", "Orang Asli languages", "Kadazan-Dusun", "Iban language", "vernacular schools Malaysia", "SJKC SJKT"]
 sponsor: "none"
+framework: explainer
 ---
 
 サバ州政府は、自州の人口をこう要約している——33の原住民集団が、50以上の言語と約80の方言で意思疎通を図っている、と。これは十三州のうちの一州、加えて三つの連邦直轄区の話にすぎない。国全体に視野を広げれば、その様相はさらに幾重にも重なり合う——それでも連邦憲法が定める国語は、ただ一つである。

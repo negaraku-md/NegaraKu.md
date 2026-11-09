@@ -84,6 +84,7 @@ social:
     - MyTax
     - DoingBusinessInMalaysia
     - MalaysiaCompliance
+framework: how-to
 ---
 
 For years, paying withholding tax meant a paper CP37 form, a cheque or bank slip, and a trip to an LHDN counter — or an email of scanned documents — and then a wait to see the payment reconciled against your account. That whole ritual has moved online. **e-WHT** is LHDN's electronic channel for completing withholding tax forms and paying the tax inside the **MyTax** portal, and for the forms it covers it is now the required route, not an optional convenience.

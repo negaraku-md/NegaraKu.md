@@ -62,6 +62,7 @@ social:
 verificationNeeded:
   - "Niên đại chính xác khi hệ thống kế vị theo tước hiệu luân phiên lần đầu được thiết lập: các nguồn tường thuật truy nguồn gốc của nó về thế kỷ 17 nhưng không đưa ra một niên đại lập quốc có thẩm quyền duy nhất; trật tự hiện đại dựa trên một phán quyết ngày 25 tháng 2 năm 1953."
   - "Năm thành lập chính xác theo quy ước được đưa ra là 1528 (năm Mahmud Shah của Melaka qua đời tại Kampar), nhưng một số gia phả đặt lễ đăng quang của Muzaffar Shah I sớm hơn hoặc muộn hơn vài năm."
+framework: history-culture
 ---
 
 Khi Melaka thất thủ trước đại bác Bồ Đào Nha năm 1511, vương triều đã làm nên danh tiếng của Eo biển không chết theo thành phố. Vị sultan cuối cùng của nó, Mahmud Shah, rút lui ngược lên quần đảo và để lại hai người con trai; một người sẽ tái lập dòng hoàng gia ở hạ lưu tại Johor, người kia sẽ mang vương miện Melaka cũ lên phương bắc, đến một thung lũng yên tĩnh được một con sông chảy xuyên qua mà những bãi cát của nó lấp lánh thiếc. Vương quốc phương bắc đó trở thành Perak, và gần năm thế kỷ sau nó vẫn được cai trị bởi cùng một huyết thống, nay bởi một sultan mà ngai vàng được truyền không phải từ cha sang con mà dọc theo một cái thang di động của các hoàng tử. Đây là câu chuyện về cách một vương triều bại trận đã sống sót, trở nên giàu có nhờ thiếc, mất chủ quyền vào tay Anh chỉ qua một hiệp ước, và trụ vững đến tận ngày nay.

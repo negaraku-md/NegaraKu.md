@@ -119,6 +119,7 @@ keywords:
   - "lesen perniagaan online"
   - "e-commerce regulations Malaysia 2024"
   - "online seller legal requirements Malaysia"
+framework: rules
 ---
 
 马来西亚并不存在所谓的电子商务执照。没有任何法令设立它，没有任何机构签发它，也无须为它缴付任何费用。

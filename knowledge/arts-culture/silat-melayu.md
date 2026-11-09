@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["silat", "silat melayu", "seni silat", "silat pulut", "silat gayung", "PESAKA", "warisan budaya tidak ketara", "UNESCO Malaysia", "seni bela diri", "silat harimau"]
+framework: history-culture
 ---
 
 Seorang pesilat yang baik boleh mematahkan tulang lawan — atau menari di hadapan pengantin tanpa menyentuh sesiapa. Kedua-duanya silat. Itulah yang paling sukar difahami tentang seni ini: ia bukan sekadar kaedah bertarung, dan bukan sekadar tarian majlis. Ia kedua-duanya, dalam badan yang sama, digerakkan oleh langkah yang sama.

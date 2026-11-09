@@ -120,6 +120,7 @@ keywords:
   - "expatriate pass Malaysia director"
   - "employment pass category I II III"
   - "pas penggajian Malaysia"
+framework: how-to
 ---
 
 எந்த ஒரு தனி விதியையும் விட, செயல்பாடுகளின் வரிசைக்கிரமமே அதிக எண்ணிக்கையிலான வெளிநாட்டு நிறுவனர்களைத் தோற்கடிக்கிறது.

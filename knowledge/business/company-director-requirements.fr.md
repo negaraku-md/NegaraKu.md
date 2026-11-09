@@ -108,6 +108,7 @@ keywords:
   - "devoirs de l'administrateur Malaisie"
   - "nominee director Malaysia"
   - "déchéance d'administrateur Malaisie"
+framework: rules
 ---
 
 Un jour, quelqu'un vous demandera de « juste être administrateur, ce n'est qu'une signature ».

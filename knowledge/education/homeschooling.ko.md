@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "public-vs-private-universities" }
 related: ["public-vs-private-universities", "warta-kerajaan", "akta"]
 keywords: ["homeschooling Malaysia", "Education Act 1996", "Section 29A", "Section 32A", "compulsory education Malaysia", "homeschool exemption", "pendidikan di rumah", "MOE exemption letter"]
+framework: explainer
 ---
 
 매년 1월이면 수만 명의 말레이시아 만 6세 아동이 법이 그래야 한다고 하기에 1학년을 시작합니다. 더 적고 더 조용한 무리의 학부모는 자녀를 등록하지 않기로 선택합니다. 그리고 이들이 법을 어기지 않는 것은 오직 교육법 속에 묻힌 하나의 조항이 장관으로 하여금 그 선택을 한 가정씩 예외로 서명해 주도록 허용하기 때문입니다.

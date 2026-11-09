@@ -58,6 +58,7 @@ social:
 verificationNeeded:
   - "Tranh chấp kế vị năm 2025-2026 là một vấn đề đang diễn tiến với những tường thuật mâu thuẫn; địa vị của Undang của Sungai Ujong, tuyên bố phế truất ngày 19 tháng 4 năm 2026, và lời tuyên xưng đối địch cần được xác minh lại với các nguồn chính thức của bang trước khi bất kỳ chi tiết nào được coi là đã ngã ngũ."
   - "Niên đại tấn phong/tuyên xưng chính xác của Tuanku Muhriz với tư cách Yang di-Pertuan Besar thứ 11 (thường được đưa ra là ngày 29 tháng 12 năm 2008) cần được xác nhận với cổng thông tin hoàng gia của bang."
+framework: history-culture
 ---
 
 Giữa lòng bán đảo Malaysia tọa lạc một vương quốc phá vỡ mọi quy tắc của chế độ quân chủ Mã Lai. Vị vua của nó không sinh ra để lên ngôi mà được chọn để lên ngôi. Các đại gia tộc của nó truy dòng dõi không qua cha mà qua mẹ. Và chính cái tên của nó, Negeri Sembilan, "Bang của Chín", gợi nhớ không phải một vương tộc duy nhất mà một liên minh các huyện được khâu lại với nhau trên các ngọn đồi của vùng nội địa. Hiểu định chế độc nhất này đã hình thành ra sao là đi theo một dòng các di dân Minangkabau vượt Eo biển Malacca từ Sumatra, mang theo một phong tục, và đến lúc đã gửi về quê để xin một hoàng tử trị vì họ.

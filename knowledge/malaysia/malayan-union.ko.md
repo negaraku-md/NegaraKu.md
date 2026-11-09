@@ -81,6 +81,7 @@ keywords:
   - "kedudukan Raja-Raja Melayu"
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
+framework: history-culture
 ---
 
 1년 10개월 동안, 말라야는 오늘날 그 이름 말고는 거의 아무도 알지 못하는 한 헌법 아래에서 통치되었습니다. 말라야 연합은 1946년 4월 1일에 시작되어 1948년 1월 31일에 끝났습니다. 건물도, 화폐도, 자신만의 행정가 세대도 남길 겨를이 없을 만큼 짧았습니다.

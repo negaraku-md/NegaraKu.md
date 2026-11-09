@@ -77,6 +77,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["Thara", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 ليست المطاعم التايلاندية أول ما يتبادر إلى الذهن في جورج تاون، المدينة المرادفة

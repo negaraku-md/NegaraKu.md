@@ -85,6 +85,7 @@ keywords:
   - "section 26 Companies Act 2016 name"
   - "SSM controlled words company name"
   - "company name rejected SSM"
+framework: rules
 ---
 
 상호가 거절되는 가장 흔한 이유는 이미 누군가가 그 상호를 가지고 있기 때문이 아닙니다.

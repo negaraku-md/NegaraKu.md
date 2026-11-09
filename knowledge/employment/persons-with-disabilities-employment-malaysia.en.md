@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["employment-act-1955", "socso-perkeso"]
 keywords: ["OKU", "orang kurang upaya", "Akta 685", "Seksyen 29", "kuota 1%", "Kad OKU", "potongan cukai berganda", "pekerjaan inklusif"]
+framework: explainer
 ---
 
 Many qualified OKU in Malaysia face a real gap in securing job opportunities and interviews — and that is the gap the law tries to close. Malaysia has had an employment-rights framework for persons with disabilities (OKU) since 2008, plus tax incentives for employers, yet hiring figures remain below target. This guide explains what the law actually requires, and what employers can claim.

@@ -99,6 +99,7 @@ keywords:
   - "eVAL Malaysia student"
   - "proceso visado estudiante Malasia"
   - "i-Kad Malaysia"
+framework: explainer
 ---
 
 No puedes solicitar por ti mismo tu visado de estudiante malasio. Incluso con la carta de admisión en mano y las tarifas pagadas, la solicitud tiene que pasar por tu institución, porque el organismo que la examina no es Inmigración en absoluto, al menos no al principio. Es una empresa.

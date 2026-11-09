@@ -113,6 +113,7 @@ keywords:
   - "perolehan Bumiputera PK 1.5"
   - "taraf BCPLC"
   - "ekuiti Bumiputera perdagangan pengedaran"
+framework: data-reference
 ---
 
 Syarat ekuitas dan partisipasi Bumiputera merupakan bagian yang masih berlaku

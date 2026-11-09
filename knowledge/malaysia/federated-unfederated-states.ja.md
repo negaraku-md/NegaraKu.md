@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "nine-royal-houses" }
 related: ["straits-settlements", "malayan-union", "nine-royal-houses", "malay-sultanate-system"]
 keywords: ["Federated Malay States", "Unfederated Malay States", "British Resident system", "British Adviser system", "Pangkor Treaty 1874", "Resident-General Kuala Lumpur", "Anglo-Siamese Treaty 1909", "Johor General Adviser", "Malay Rulers British protection", "colonial Malaya"]
+framework: explainer
 ---
 
 九つのマレー州、一つの帝国列強——それでいて、取り決めは一つではなく二つあった。この分裂こそ、植民地時代マラヤについての大半の概説が見落としている点であり、本稿の主題そのものである。

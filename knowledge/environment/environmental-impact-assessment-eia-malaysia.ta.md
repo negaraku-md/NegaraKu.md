@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "prescribed-activities-eia-order-2015" }
 related: ["environmental-quality-act-1974"]
 keywords: ["EIA Malaysia", "environmental impact assessment", "prescribed activities", "Section 34A", "Order 2015", "Department of Environment", "First Schedule", "Second Schedule", "public display"]
+framework: rules
 ---
 
 பச்சை விளக்கு பெறாமல் தவறான வகைத் திட்டத்தில் மண்வெட்டி தொடங்கினால், நீங்கள் அபராதத்தை மட்டும் எதிர்கொள்வதில்லை — உங்கள் மூலதனம் செயலற்று கிடக்கும்போதே பணியை நிறுத்த வேண்டிய நிலைக்குத் தள்ளப்படலாம். மலேசியாவில், வரையறுக்கப்பட்ட “விதிக்கப்பட்ட செயல்பாடுகள்” (prescribed activities) பட்டியலில் உள்ள எதுவும், சுற்றுச்சூழல் தாக்க மதிப்பீடு (Environmental Impact Assessment, EIA) அறிக்கை சுற்றுச்சூழல் பணிப்பாளர் நாயகத்திடம் (Director General of Environment) சமர்ப்பிக்கப்பட்டு அவரால் ஒப்புதல் பெறப்படும் வரை சட்டப்பூர்வமாகத் தொடங்க முடியாது. உருவாக்குநர்கள் மற்றும் முதலீட்டாளர்களுக்கு, EIA என்பது திட்டமிடலின் இறுதியில் வரும் ஆவணப் பணி அல்ல; அது தொடக்கத்திலேயே உள்ள ஒரு நுழைவாயில்.

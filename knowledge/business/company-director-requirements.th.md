@@ -107,6 +107,7 @@ keywords:
   - "director duties Malaysia"
   - "nominee director Malaysia"
   - "director disqualification Malaysia"
+framework: rules
 ---
 
 สักวันหนึ่งจะมีคนขอให้คุณ "เพียงเป็นกรรมการ มันเป็นแค่ลายเซ็น"

@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "federal-state-division" }
 related: ["civil-and-syariah-courts", "kehakiman-mahkamah", "federal-constitution"]
 keywords: ["शरीयत न्यायालय", "mahkamah syariah", "मलेशिया की न्यायालय प्रणाली", "sistem mahkamah Malaysia", "अनुच्छेद 121(1A)", "Perkara 121(1A)", "शरीयत न्यायालय क्षेत्राधिकार", "उच्च शरीयत न्यायालय", "Mahkamah Tinggi Syariah", "Akta 355", "Act 355", "Akta 505", "Act 505", "इस्लामी पारिवारिक कानून"]
+framework: explainer
 ---
 
 फसख (fasakh) के लिए आवेदन करती एक पत्नी और RM60,000 के ऋण का दावा करता एक व्यापारी — दोनों अपने मामले एक न्यायालय काउंटर पर एक ही फॉर्म से शुरू करते हैं। फिर भी वे एक ही काउंटर पर नहीं जाते, उनके मामलों की सुनवाई एक ही प्रकार के न्यायाधीश द्वारा नहीं होती, और जो कानून उनका परिणाम तय करता है वह दो अलग-अलग कानून-निर्माता निकायों से आता है।

@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "unfair-dismissal-malaysia" }
 related: ["termination-of-employment-malaysia", "unfair-dismissal-malaysia", "termination-benefits-malaysia"]
 keywords: ["घरेलू जाँच मलेशिया", "domestic inquiry malaysia", "DI प्रक्रिया मलेशिया", "कारण-बताओ पत्र मलेशिया", "show cause letter malaysia", "जाँच लंबित निलंबन", "धारा 14 Employment Act", "section 14 employment act", "कदाचार बर्खास्तगी मलेशिया"]
+framework: how-to
 ---
 
 अधिकांश मलेशियाई HR मार्गदर्शिकाएँ घरेलू जाँच को एक ही वाक्य देती हैं: "कदाचार के लिए बर्खास्त करने से पहले एक DI कराएँ।" वही वाक्य वह जगह है जहाँ नियोक्ता मुकदमे हारते हैं। जाँच पहले से लिए गए निर्णय से पहले भरने का कोई खाना नहीं है — यह वह साक्ष्य-आधार है जिस पर नियोक्ता महीनों बाद Industrial Court में खड़ा रहेगा, और यह तथ्यों की तुलना में कहीं अधिक बार प्रक्रिया पर विफल होती है।

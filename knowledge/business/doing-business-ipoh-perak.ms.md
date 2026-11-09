@@ -98,6 +98,7 @@ keywords:
   - "harga tanah perindustrian Perak"
   - "KDNK Perak"
   - "kos berniaga di Ipoh"
+framework: profile
 ---
 
 Halaman ini sengaja dibuat pendek. Rejim undang-undang Perak sama seperti Selangor, majlis-majlisnya menerbitkan sedikit maklumat, dan cerita sebenar Perak muat dalam lapan ratus perkataan berbanding dua ribu. Apa yang benar-benar tempatan ialah struktur kos — dan berapa kos itu kepada anda.

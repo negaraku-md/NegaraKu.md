@@ -88,6 +88,7 @@ keywords:
   - "minority shareholder rights Malaysia"
   - "drag along tag along Sdn Bhd"
   - "perjanjian pemegang saham"
+framework: explainer
 ---
 
 இரண்டு நிறுவனர்கள் இருபது பக்கக் கொண்ட ஒரு பங்குதாரர் ஒப்பந்தத்தில் கையெழுத்திடுகிறார்கள்.

@@ -93,6 +93,7 @@ verificationNeeded:
   - "Nisbah garam kepada udang (satu sumber warisan kerajaan memetik kira-kira 10:1) dan sebarang had undang-undang bagi kandungan air (satu sumber memetik maksimum 40% di bawah peraturan makanan Malaysia) — sahkan terhadap Peraturan-Peraturan Makanan 1985 dan bukannya media makanan."
   - "Kedudukan pusat pengeluaran belacan (Pulau Pinang/Balik Pulau, Perlis, Pangkor dan Melaka kesemuanya dipetik) dan sama ada Pangkor dari segi sejarah merupakan pusat utama — sahkan dengan sumber perikanan, negeri atau warisan."
   - "Tempoh penapaian dan pengeringan biasa, yang diberikan oleh sumber sebagai antara dua hingga tiga minggu sehingga tiga hingga empat bulan dan yang berbeza mengikut pengeluar dan cuaca — sahkan julat yang mewakili."
+framework: explainer
 ---
 
 Sedikit sahaja bahan yang mengumumkan kehadirannya sekuat belacan. Buka

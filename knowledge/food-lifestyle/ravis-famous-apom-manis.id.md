@@ -77,6 +77,7 @@ related:
   - "apam-balik"
 social:
   hashtags: ["#RavisApomManis", "#ApomManis", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 Di Jalan Burma di George Town, sebuah kedai yang telah memanggang panekuk manis

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "qingming-festival" }
 related: ["qingming-festival", "chinese-religion-in-malaysia", "mid-autumn-festival", "chinese-new-year"]
 keywords: ["中元节", "鬼节", "盂兰胜会", "盂兰盆", "农历七月", "鬼门开", "好兄弟", "普度", "大士爷", "鬼王", "歌台", "喊标", "标福物", "烧街衣", "金银纸", "马来西亚华人", "槟城", "Hungry Ghost Festival"]
+framework: history-culture
 ---
 
 旧暦七月に入ると、ペナン、クラン、ジョホールの多くの街角の夜の光景がひそかに変わります。道端に小さな机が並べられ、その上には果物、ご飯、茶、そして積み重ねられた金銀紙が置かれ、線香とろうそくが夕暮れの中で明滅します。地域の空き地には、高さ数メートルの厳めしい顔の紙製神像が立てられ、その向かいに舞台が組まれます。夜になると照明が煌々とつき、歌声が響き渡ります——ところが舞台下の最前列の椅子は一列まるごと、終始空いたままです。

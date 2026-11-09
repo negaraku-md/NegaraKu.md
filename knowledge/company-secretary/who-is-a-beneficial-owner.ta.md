@@ -80,6 +80,7 @@ relations:
   - { rel: "explained-in", to: "bo-register" }
 related: ["beneficial-ownership", "bo-register", "ebos-filing", "bo-non-cooperation"]
 keywords: ["who is a beneficial owner Malaysia", "beneficial owner criteria SSM", "20% shareholding beneficial owner", "ultimate effective control Malaysia", "nominee shareholder beneficial owner"]
+framework: explainer
 ---
 
 பயனாளி உரிமை அறிக்கையிடலின் கடினமான பகுதி தாக்கல் செய்வது அல்ல. ஒரு

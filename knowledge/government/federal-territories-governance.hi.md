@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "dewan-negara" }
 related: ["federal-state-division", "state-assemblies-dun", "three-tiers-of-government", "dewan-rakyat", "dewan-negara"]
 keywords: ["संघीय क्षेत्र", "Wilayah Persekutuan", "कुआलालंपुर पुत्रजया लाबुआन", "कोई राज्य विधान सभा नहीं", "नियुक्त मेयर", "DBKL पुत्रजया निगम लाबुआन निगम", "संघीय क्षेत्र विभाग", "संघीय संविधान का अनुच्छेद 1", "संघीय क्षेत्रों का प्रशासन", "Federal Territory Malaysia governance"]
+framework: explainer
 ---
 
 किसी राज्य में एक सुल्तान या यांग दी-पर्तुआ नेगरी (Yang di-Pertua Negeri) होता है, एक मेंतेरी बेसार (Menteri Besar) या मुख्यमंत्री (Chief Minister) होता है, और जनता द्वारा निर्वाचित एक राज्य विधान सभा होती है। कुआलालंपुर, पुत्रजया और लाबुआन में इनमें से कुछ भी नहीं है। ये तीनों स्थान राज्य नहीं हैं — वे संघीय क्षेत्र हैं, और उनका प्रशासन सीधे संघीय सरकार द्वारा होता है।

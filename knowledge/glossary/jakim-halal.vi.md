@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "kpdn" }
 related: ["jakim"]
 keywords: ["halal", "JAKIM", "sijil halal", "pensijilan halal", "MYeHALAL", "logo halal", "Akta Perihal Dagangan 2011", "MAIN", "JAIN"]
+framework: explainer
 ---
 
 Logo halal chính thức với dòng chữ thư pháp đó trông có vẻ nhỏ trên bao bì thực phẩm — nhưng đằng sau nó là cả một hệ thống liên bang, một bộ luật với mức phạt hàng triệu ringgit, và một cơ quan duy nhất quyết định liệu một sản phẩm có thể tuyên bố mình là halal tại Malaysia hay không. Cơ quan đó là JAKIM.

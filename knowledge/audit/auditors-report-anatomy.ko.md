@@ -81,6 +81,7 @@ relations:
   - { rel: "part-of", to: "statutory-audit-process" }
 related: ["audit-opinion-types", "emphasis-of-matter-kam", "going-concern-audit", "statutory-audit-process", "appointing-an-auditor", "financial-statements-lodgement"]
 keywords: ["auditors report Malaysia", "independent auditors report sections", "AF number audit firm Malaysia", "audit partner approval number", "section 266 report to members", "how to read an audit report"]
+framework: explainer
 ---
 
 말레이시아 감사보고서는 고정 형식 문서입니다. MIA가 예시를 발행하며 — MFRS

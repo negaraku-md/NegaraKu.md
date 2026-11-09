@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
 related: ["federal-constitution"]
 keywords: ["droits coutumiers autochtones", "native customary rights", "NCR", "Sarawak Land Code", "Sabah Land Ordinance", "titre autochtone", "native title", "temuda", "pemakai menoa", "droit foncier de la Malaisie orientale"]
+framework: explainer
 ---
 
 Achetez une maison à Kuala Lumpur et une seule loi fédérale régit votre titre. Faites de même à Kuching ou à Kota Kinabalu et vous entrez dans un monde juridique entièrement différent — un monde avec ses propres ordonnances, ses propres catégories de terre et une forme de tenure qu'aucun papier n'a créée : les Droits coutumiers autochtones.

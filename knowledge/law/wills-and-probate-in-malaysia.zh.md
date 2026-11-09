@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "estate-planning-in-malaysia" }
 related: []
 keywords: ["wasiat", "probet", "pusaka", "Akta Pembahagian 1958", "Akta Wasiat 1959", "surat kuasa mentadbir", "bukan Islam"]
+framework: explainer
 ---
 
 无遗嘱留下财产，并不代表家人可以自由决定谁得到什么。在马来西亚，一套僵硬的法律公式将会接管——而它未必符合你的意愿。对非穆斯林而言，三部法令决定一切：《1959年遗嘱法令》（Akta Wasiat 1959，如何立遗嘱）、《1959年遗嘱认证与遗产管理法令》（Akta Probet dan Pentadbiran 1959，如何管理遗产），以及《1958年分配法令》（Akta Pembahagian 1958，无遗嘱时谁来继承）。

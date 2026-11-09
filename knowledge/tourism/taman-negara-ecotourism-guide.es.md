@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "gunung-tahan" }
 related: ["orang-asli"]
 keywords: ["taman negara", "kuala tahan", "pasarela elevada", "gunung tahan", "perhilitan", "parque nacional malasia", "senderismo jungla", "selva tropical"]
+framework: explainer
 ---
 
 De pie en el embarcadero de Kuala Tahan al amanecer, viendo la bruma levantarse de un río más antiguo que el Himalaya, es fácil olvidar que estás a apenas medio día de Kuala Lumpur. Taman Negara no es una atracción fabricada. Es una selva tropical viva que ha permanecido, en gran medida intacta, durante decenas de millones de años — y entrar en ella es más barato y sencillo de lo que casi cualquier viajero espera.

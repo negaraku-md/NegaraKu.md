@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "personal-income-tax" }
 related: ["real-property-gains-tax"]
 keywords: ["inheritance tax Malaysia", "estate duty Malaysia", "no inheritance tax", "deceased estate income tax", "RPGT inherited property", "stamp duty inheritance", "executor tax Malaysia", "death tax Malaysia"]
+framework: explainer
 ---
 
 जब कुआलालंपुर में किसी माता-पिता की मृत्यु होती है और वे एक घर तथा कुछ बचत छोड़ जाते हैं, तो परिवार की पहली चिंता अक्सर विरासत पर ही कर के बिल की होती है। मलेशिया में, वह विशेष बिल अस्तित्व में नहीं है। किसी के पीछे छोड़े गए धन पर न कोई विरासत कर है, न कोई संपदा शुल्क, और न ही कोई मृत्यु कर।

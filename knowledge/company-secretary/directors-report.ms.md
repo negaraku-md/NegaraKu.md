@@ -103,6 +103,7 @@ relations:
   - { rel: "part-of", to: "directors-duties" }
 related: ["financial-statements-lodgement", "unaudited-financial-statements", "directors-duties", "directors-fees-approval", "director-shareholding-notification"]
 keywords: ["laporan pengarah syarikat", "seksyen 252 Akta Syarikat 2016", "Fifth Schedule laporan pengarah", "akuan berkanun penyata kewangan", "seksyen 251 kelulusan Lembaga penyata kewangan", "directors report Malaysia"]
+framework: rules
 ---
 
 Mulakan dengan satu pembetulan, kerana ia mengubah apa yang anda lakukan.

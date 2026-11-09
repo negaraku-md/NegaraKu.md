@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "unesco-world-heritage-sites-malaysia" }
 related: []
 keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Taman Kinabalu", "Gunung Mulu", "Sabah Parks", "Sarawak Forestry", "taman laut", "PERHILITAN", "Warisan Dunia UNESCO"]
+framework: explainer
 ---
 
 ถามใครก็ตามว่า "อุทยานแห่งชาติของมาเลเซีย" อยู่ที่ไหน แล้วพวกเขาจะชี้ไปที่แห่งเดียว ความจริงคือมาเลเซียไม่มีอุทยานแห่งชาติเพียงแห่งเดียว แต่มีระบบกฎหมายที่แยกต่างหากอย่างสิ้นเชิงสามระบบ และหนึ่งในนั้นถึงกับไม่ครอบคลุมสถานที่ที่มีชื่อเสียงที่สุดในนาม "Taman Negara" ด้วยซ้ำ การเข้าใจแผนที่ทางกฎหมายนี้เป็นกุญแจสำคัญในการวางแผนการเยือน การทำวิจัย หรือเพียงเพื่อเข้าใจวิธีที่มาเลเซียคุ้มครองป่าฝนอายุ 130 ล้านปีของตน

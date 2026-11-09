@@ -91,6 +91,7 @@ verificationNeeded:
   - "Khẳng định rằng người Kadazan-Dusun là nhóm bản địa đơn lẻ lớn nhất Sabah, và mối quan hệ chính xác giữa hai tên gọi Kadazan và Dusun (có khi được coi là một dân tộc, có khi là riêng biệt) — hãy xác nhận với một cuộc tổng điều tra dân số (DOSM) hoặc nguồn dân tộc học."
   - "Ngày tháng chính xác và tình trạng ngày nghỉ lễ của lễ hội Kaamatan (Tadau Kaamatan) (thường được nêu là suốt tháng Năm, với ngày nghỉ lễ của bang Sabah vào 30–31 tháng Năm) — hãy xác nhận với một nguồn chính thức của chính quyền bang Sabah."
   - "Liệu một truyền thống cọ sago/ambuyat đích thực có phải là một phần của nấu ăn Kadazan-Dusun riêng biệt hay không, vì ambuyat gắn mạnh hơn với Brunei và các cộng đồng Borneo khác — hãy xác nhận mức độ sử dụng tinh bột sago trong khẩu phần ăn của người Kadazan-Dusun."
+framework: history-culture
 ---
 
 Gọi một đĩa *hinava* ở Kota Kinabalu, bạn sẽ nhận được thứ khiến những vị khách

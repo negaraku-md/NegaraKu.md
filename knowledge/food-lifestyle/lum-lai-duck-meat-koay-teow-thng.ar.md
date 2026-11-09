@@ -78,6 +78,7 @@ related:
   - "malaysian-noodles"
 social:
   hashtags: ["KoayTeowThng", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 بين أكشاك نودلز البطّ في جورج تاون، صار واحد مغناطيسًا للطوابير: كشك سوق طها الطبق

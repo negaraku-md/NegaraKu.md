@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016"]
 keywords: ["MFRS 124", "pihak berkaitan", "akaun semasa pengarah", "pinjaman pengarah", "MBRS", "IAS 24", "penyata kewangan"]
+framework: explainer
 ---
 
 在马来西亚大多数家族式私人有限公司（Sdn Bhd）里，资金进进出出而少有书面记录：父亲在现金流吃紧时注入资金，一个孩子为私事支取预付款，一家关联公司替另一家结清账单。这一切都汇集在资产负债表上那一行安静的科目 —「董事往来账户」— 而正是这一行，在审计师到来时、在财务报表为 SSM 标签时，最常出问题。

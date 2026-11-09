@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
 related: ["spr-election-commission", "dewan-rakyat", "how-elections-work", "federal-constitution", "independence-1957"]
 keywords: ["14th general election", "GE14", "PRU14", "2018 Malaysian general election", "change of government Malaysia", "Pakatan Harapan", "Barisan Nasional", "Dewan Rakyat 222 seats", "Article 43 Federal Constitution", "Mahathir seventh Prime Minister"]
+framework: history-culture
 ---
 
 เป็นเวลา 61 ปี นับตั้งแต่การเลือกตั้งระดับสหพันธ์ครั้งแรกหลังเอกราชในปี 1957 จนถึงปี 2018 ทุกรัฐบาลระดับสหพันธ์ของมาเลเซียถูกจัดตั้งโดยพรรคร่วมพรรคเดียว คือ [พรรคพันธมิตร](/malaysia/the-alliance) และตั้งแต่ทศวรรษ 1970 คือ [บารีซัน นาซีอองนัล](/malaysia/barisan-nasional) ผู้สืบทอด ในการเลือกตั้งทั่วไปครั้งที่ 14 ความต่อเนื่องนั้นสิ้นสุดลง พรรคร่วมอีกกลุ่มหนึ่งชนะเสียงข้างมากของที่นั่งในเดวัน รักยัต

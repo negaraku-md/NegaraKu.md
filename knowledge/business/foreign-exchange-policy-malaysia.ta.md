@@ -100,6 +100,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["labuan-company-vs-sdn-bhd", "foreign-ownership-malaysia"]
 keywords: ["foreign exchange policy malaysia", "FEP notices", "BNM exchange control", "domestic ringgit borrowing", "foreign currency account malaysia", "investment abroad malaysia", "resident non-resident BNM"]
+framework: explainer
 ---
 
 செலாவணிக் கட்டுப்பாடு பற்றி ஒரு மலேசிய நிறுவனரிடம் கேளுங்கள், நீங்கள் பொதுவாக இரண்டு

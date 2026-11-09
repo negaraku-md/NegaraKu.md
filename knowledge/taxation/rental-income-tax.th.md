@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["income-tax-in-malaysia", "section-33-deductibility", "non-deductible-expenses", "personal-tax-rates", "which-tax-form"]
 keywords: ["rental income tax Malaysia", "cukai pendapatan sewa", "pre-letting expenses Malaysia", "can I deduct agent commission rental", "Public Ruling 12/2018", "quit rent deduction"]
+framework: explainer
 ---
 
 ข้อผิดพลาดที่พบบ่อยที่สุดในการคำนวณค่าเช่าของมาเลเซียคือการขอหักค่าใช้จ่ายในการหาผู้เช่ารายแรก ค่านายหน้าของตัวแทน ค่าธรรมเนียมทางกฎหมายของสัญญาเช่า อากรแสตมป์ การลงประกาศทรัพย์สิน — ทั้งหมดนี้ หักไม่ได้

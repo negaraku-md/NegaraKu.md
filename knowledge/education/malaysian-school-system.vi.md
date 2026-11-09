@@ -80,6 +80,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: ashton-tan
+framework: explainer
 ---
 
 Đối với một đứa trẻ lớn lên ở Malaysia, câu hỏi "trường nào?" mang nhiều ý nghĩa hơn so với nhiều quốc gia khác. Một phần là về khoảng cách và danh tiếng, như ở khắp nơi — nhưng đó cũng là lựa chọn giữa một trường quốc gia giảng dạy chủ yếu bằng tiếng Mã Lai và một trường kiểu quốc gia giảng dạy bằng tiếng Hoa hoặc tiếng Tamil. Cả hai đều là một phần của cùng một hệ thống công lập, theo cùng một chương trình giảng dạy quốc gia, và dẫn đến cùng các kỳ thi quốc gia. Hiểu cách hệ thống đó khớp với nhau là bước đầu tiên để định hướng trong nó.

@@ -97,6 +97,7 @@ keywords:
   - "Perak industrial land price"
   - "Perak GDP"
   - "Ipoh cost of doing business"
+framework: profile
 ---
 
 このページは意図的に短くしています。ペラの法制度はセランゴールと同じで、地方自治体が

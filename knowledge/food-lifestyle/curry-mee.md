@@ -90,6 +90,7 @@ verificationNeeded:
   - "The claim that Penang uses 'curry mee' specifically to avoid confusion with asam laksa — this is a widely repeated explanation in food media rather than a documented etymology; confirm with a linguistic or heritage source."
   - "The relationship between KL/central 'curry mee' and Penang's 'curry Hokkien mee' / Hokkien mee — the naming and whether these are the same bowl vary by locality; confirm with a local source."
   - "Whether coconut milk (santan) is essential to every curry mee — some Penang versions are described as thinner and less creamy ('white curry mee'); confirm the range with a Penang culinary source."
+framework: explainer
 ---
 
 Order "curry mee" in George Town and you get a mild, fragrant bowl of coconut

@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malaysia PBB", "United Nations Malaysia", "Majlis Keselamatan PBB", "pasukan pengaman", "UNIFIL", "keahlian PBB", "diplomasi Malaysia"]
+framework: explainer
 ---
 
 เพียง 17 วันหลังจากตุนกู อับดุล ราห์มาน (Tunku Abdul Rahman) เปล่งเสียง "Merdeka" ที่สนามกีฬา Stadium Merdeka ธงของสหพันธรัฐมลายาก็ได้รับการชักขึ้นที่สำนักงานใหญ่ของสหประชาชาติในนครนิวยอร์ก เมื่อวันที่ 17 กันยายน 1957 ประเทศหนุ่มนี้ได้รับการรับเข้าเป็นสมาชิกสหประชาชาติอย่างเป็นทางการ ซึ่งเป็นก้าวที่ยืนยันอธิปไตยของประเทศบนเวทีโลกเกือบพร้อมกับการถือกำเนิดของมัน

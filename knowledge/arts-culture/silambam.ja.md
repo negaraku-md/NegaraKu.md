@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "indian-classical-arts-in-malaysia", "thaipusam", "estate-tamil-community", "temple-music-nadaswaram"]
 keywords: ["சிலம்பம்", "Silambam", "மலேசியா சிலம்பம்", "தமிழ் தற்காப்புக் கலை", "நீண்ட தடி", "அடவுகள்", "குத்து வரிசை", "Silambam Malaysia"]
+framework: history-culture
 ---
 
 マレーシアの寺院の祭礼やタミル正月の催しで、太鼓の拍子に合わせ、一人の若者が長い竹の棒を頭上や体のまわりに稲妻のような速さで回すさまを目にすることがある。その回転はただ見栄えのためではない——それは、一千五百年を超える歴史をもつタミル武術、シランバムの象徴である。

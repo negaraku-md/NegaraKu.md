@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "free-trade-agreements" }
 related: ["sales-and-service-tax", "malaysia-free-trade-agreements"]
 keywords: ["import duty", "customs duty", "HS code", "AHTN", "tariff classification", "ATIGA", "Form D", "CIF", "sales tax on imports", "Customs Act 1967"]
+framework: explainer
 ---
 
 两批一模一样的货物可以在巴生港（Port Klang）卸货，却缴纳截然不同的关税——原因不在于它们装了什么，而在于有人在报关单上填的那个八位数编码。那个编码才是全部关键。

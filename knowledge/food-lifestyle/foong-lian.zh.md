@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#FoongLian", "#ClaypotRice", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 在 Pudu 的 Jalan Yew 上，一排瓦煲坐在红亮的炭火之上，每一个都在煲底焙出一层锅巴。

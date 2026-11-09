@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "accounting-records-section-245" }
 related: ["llp-vs-sdn-bhd", "register-llp-malaysia", "accounting-records-section-245", "sdn-bhd-bookkeeping"]
 keywords: ["rekod perakaunan PLT", "seksyen 69 Akta PLT 2012", "perakuan tahunan PLT", "solvency declaration LLP", "PLT vs Sdn Bhd", "Akta 743"]
+framework: rules
 ---
 
 PLT는 SSM에 재무제표를 단 한 건도 제출하지 않고 수년간 운영할 수 있으며 — 바로 여기에 이

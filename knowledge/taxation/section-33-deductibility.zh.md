@@ -119,6 +119,7 @@ relations:
   - { rel: "related-to", to: "entertainment-expenses" }
 related: ["losses-and-group-relief", "form-c-and-cp204", "withholding-tax-non-compliance"]
 keywords: ["section 33 income tax act", "wholly and exclusively malaysia", "allowable business expenses malaysia", "tax deductible expenses sdn bhd", "section 33(1) deduction", "lhdn disallowed expenses"]
+framework: explainer
 ---
 
 每一本关于马来西亚业务扣除的指南都会刊出一张清单。租金，可以。薪金，可以。招待费，一半。这张清单在某天之前都还管用——直到出现一项不在清单上的开支：向州政府支付以摆脱某项义务的款项、一项从未落实的项目的可行性研究、公司自行吸收而非转嫁出去的服务税——那一刻，这张清单便一文不值，因为这张清单从来就不是法律。

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["sst-explained", "sst-registration"]
 keywords: ["ضريبة السياحة ماليزيا", "tourism tax", "TTx", "Tourism Tax Act 2017", "RM10 لكل غرفة", "MyTTx", "RMCD", "ضريبة Agoda", "ضريبة الفنادق ماليزيا"]
+framework: explainer
 ---
 
 سجّل خروجك من فندق ماليزي وقد تلاحظ بنداً صغيراً ثابتاً على الفاتورة لا علاقة له

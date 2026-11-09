@@ -122,6 +122,7 @@ relations:
   - { rel: "requires", to: "termination-benefits-malaysia" }
 related: ["termination-of-employment-malaysia", "termination-benefits-malaysia", "unfair-dismissal-malaysia", "offboarding-statutory-checklist"]
 keywords: ["pemberhentian pekerja malaysia", "borang pk malaysia", "borang pk", "prosedur lebihan tenaga kerja malaysia", "pemberitahuan pemberhentian pekerja 30 hari", "VSS malaysia", "LIFO pemberhentian pekerja malaysia"]
+framework: rules
 ---
 
 Lakukan pencarian tentang tenggat Formulir PK dan Anda akan menemukan "30 hari" diulang di puluhan situs web HR Malaysia seolah-olah itu jawaban yang lengkap. Sebenarnya itu hanya kira-kira sepertiga dari jawaban yang sebenarnya. Formulir itu sendiri — PDF asli yang diterbitkan oleh JTKSM (Formulir PK, atau Borang PK) — menetapkan **tiga tenggat yang terpisah**, dan dua di antaranya jatuh *setelah* pemberhentian pekerja itu terjadi.

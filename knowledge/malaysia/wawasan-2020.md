@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "new-economic-policy" }
 related: ["new-economic-policy"]
 keywords: ["Wawasan 2020", "Vision 2020", "Mahathir Mohamad", "Bangsa Malaysia", "negara maju", "sembilan cabaran", "Wawasan Kemakmuran Bersama 2030"]
+framework: explainer
 ---
 
 Pada suatu pagi Februari 1991, seorang Perdana Menteri berdiri di hadapan ahli perniagaan terkemuka negara dan meletakkan satu sasaran untuk 30 tahun ke hadapan: menjelang tahun 2020, Malaysia hendaklah menjadi sebuah negara maju sepenuhnya — bukan sekadar dari segi ekonomi, tetapi juga dari segi perpaduan, keadilan sosial dan kematangan sivik. Gagasan itulah yang kemudiannya dikenali sebagai Wawasan 2020.

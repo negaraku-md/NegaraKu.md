@@ -74,6 +74,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-registration", "sst-02-filing", "sst-rate-table"]
 keywords: ["imported taxable services", "SST-02A", "section 26A service tax", "service tax on foreign services Malaysia", "self-accounting service tax"]
+framework: rules
 ---
 
 这是整套 SST 制度里最常被漏掉的一项责任，原因是结构性的：它是唯一一项落在

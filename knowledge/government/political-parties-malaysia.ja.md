@@ -85,6 +85,7 @@ relations:
   - { rel: "governs", to: "political-parties-malaysia" }
 related: ["how-elections-work", "spr-election-commission", "dewan-rakyat", "parliament", "yang-di-pertuan-agong"]
 keywords: ["parti politik Malaysia", "Akta Pertubuhan 1966", "Pendaftar Pertubuhan", "Registrar of Societies", "ROS", "Barisan Nasional", "Pakatan Harapan", "Perikatan Nasional", "GPS", "kerajaan perpaduan", "PRU15", "gabungan politik", "political parties Malaysia"]
+framework: explainer
 ---
 
 マレーシアにおいて、政党は国会の中で、あるいは選挙運動の舞台の上で始まるの

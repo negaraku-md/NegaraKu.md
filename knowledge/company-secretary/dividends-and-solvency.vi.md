@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "directors-duties" }
 related: ["directors-duties", "capital-reduction", "share-capital-malaysia", "loans-to-directors", "corporate-tax-rates"]
 keywords: ["dividend Malaysia Sdn Bhd", "section 131 Companies Act 2016", "solvency test dividend", "unlawful dividend director liability", "distribution out of profits"]
+framework: rules
 ---
 
 Một Sdn Bhd có lãi với RM800,000 lợi nhuận giữ lại trả cho hai cổ đông của mình một khoản cổ tức

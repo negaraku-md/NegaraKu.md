@@ -99,6 +99,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.267(4) and s.267(6)"
     consequence: "회사와 모든 이사가 s.267(7)에 따른 범죄를 범함"
+framework: rules
 ---
 
 서명된 계약서는 선임이 아닙니다. 수수료를 확정하는 이메일도 마찬가지입니다.

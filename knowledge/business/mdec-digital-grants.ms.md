@@ -78,6 +78,7 @@ social:
     - MDEC
     - MalaysiaDigital
     - TechFunding
+framework: explainer
 ---
 
 Kebanyakan pengasas yang mencari pembiayaan MDEC mencari "geran MDEC" dan menjangkakan satu skim tunggal. Sebenarnya ada dua, ia membiayai hujung yang bertentangan dalam perjalanan sesebuah syarikat, dan kedua-duanya berkongsi satu pintu yang tidak nyata: anda perlu sudah berada dalam Malaysia Digital untuk masuk. Terlepas itu, jumlah pada halaman itu tidak bermakna apa-apa.

@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "nine-royal-houses" }
 related: ["jalur-gemilang", "negaraku-anthem", "nine-royal-houses"]
 keywords: ["Jata Negara", "lambang kebangsaan Malaysia", "Bersekutu Bertambah Mutu", "maksud Jata Negara", "dua ekor harimau perisai", "lima bilah keris", "Bunga Raya", "anak bulan bintang pecah 14"]
+framework: explainer
 ---
 
 # ஜாதா நெகாரா (Jata Negara): மலேசியாவின் தேசியக் கேடயத்தை உறுப்பு உறுப்பாக வாசித்தல்

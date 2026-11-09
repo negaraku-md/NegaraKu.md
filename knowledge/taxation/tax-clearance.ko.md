@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "tax-penalties" }
 related: ["offboarding-statutory-checklist", "pcb-monthly-tax-deduction", "expatriate-and-non-resident-tax", "tax-penalties", "tax-appeal"]
 keywords: ["tax clearance Malaysia", "SPC LHDN", "surat penyelesaian cukai", "CP21 form", "CP22A form", "e-SPC MyTax", "90 day withholding tax clearance", "section 83(5) Income Tax Act"]
+framework: rules
 ---
 
 급여팀은 세무 정산을 하나의 양식으로 취급합니다. 그것은 양식이 아닙니다 — **책임이 딸린

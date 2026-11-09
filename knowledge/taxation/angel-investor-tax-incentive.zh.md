@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["tax-incentives-directory", "personal-tax-reliefs", "new-incentive-framework"]
 keywords: ["angel tax incentive malaysia", "angel investor tax exemption", "pu a 167 2014", "cradle angel tax incentive", "mban accreditation", "startup investor tax relief malaysia"]
+framework: rules
 ---
 
 每一份提到天使税务奖掖的初创简报都说它一路开放到 2026 年。宪报说的不是这样。生效中的法律文书是 Income Tax (Exemption) (No. 3) Order 2014（P.U.(A) 167/2014），依 Income Tax Act 1967 s.127(3)(b) 制定，视为自 2013 年 1 月 1 日起生效。它的 paragraph 5(a)(ii) 要求投资者**不迟于某个固定日期**向部长提出申请，而那个日期恰好移动过两次。

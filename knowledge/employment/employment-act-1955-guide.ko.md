@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-labour-ordinance" }
 related: ["labour-law-map-malaysia", "employment-act-coverage", "working-hours-overtime-malaysia", "minimum-wage-malaysia"]
 keywords: ["employment act 1955", "employment act malaysia", "act 265", "employment amendment act 2022", "malaysia labour law", "45 hour week malaysia"]
+framework: data-reference
 ---
 
 말레이시아의 인사(HR) 블로그를 아무거나 열어 보면 여전히 고용법이 저임금 근로자를 위한 법률로,

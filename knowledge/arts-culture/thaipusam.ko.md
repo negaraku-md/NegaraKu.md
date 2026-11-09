@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["selangor", "penang", "religion-statistics", "article-3-religion"]
 keywords: ["Thaipusam Malaysia", "Batu Caves Thaipusam", "kavadi", "silver chariot procession", "Lord Murugan", "272 steps", "paal kudam", "Waterfall Hilltop Temple Penang", "Thaipusam public holiday"]
+framework: history-culture
 ---
 
 동트기 전, 쿠알라룸푸르 북쪽 가장자리의 한 석회암 언덕이 소리로 가득 찹니다 — 북소리, 찬가, 그리고 수십만 개의 맨발이 돌 위를 스치는 소리. 272개 계단의 밑에 14층 건물보다 높은 황금 상이 서 있습니다. 오르기가 시작되었고, 하루의 상당 시간 동안 멈추지 않을 것입니다.

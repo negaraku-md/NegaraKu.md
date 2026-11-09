@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["income-tax-in-malaysia", "section-33-deductibility", "non-deductible-expenses", "personal-tax-rates", "which-tax-form"]
 keywords: ["rental income tax Malaysia", "cukai pendapatan sewa", "pre-letting expenses Malaysia", "can I deduct agent commission rental", "Public Ruling 12/2018", "quit rent deduction"]
+framework: explainer
 ---
 
 말레이시아 임대 계산에서 가장 흔한 오류는 첫 세입자를 찾는 비용을 청구하는

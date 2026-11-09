@@ -64,6 +64,7 @@ relations:
   - { rel: "part-of", to: "settling-in" }
 related: ["moving-to-malaysia-first-steps", "dependant-social-visit-passes"]
 keywords: ["bringing pets to Malaysia", "MAQIS import permit", "DVS pet import rules", "dog cat quarantine Malaysia", "restricted dog breeds Malaysia", "ISO microchip pet import"]
+framework: how-to
 ---
 
 Penerbangan Anda sudah dipesan, kotak-kotak Anda sudah dikemas, dan kemudian terlintas di pikiran Anda: bagaimana dengan anjing itu. Di Malaysia, hewan peliharaan tidak boleh sekadar menumpang dalam ruang kargo — ia memerlukan izin yang disetujui sebelum berangkat, mikrocip yang memenuhi standar ISO tertentu, dan kemungkinan besar seminggu atau lebih dalam karantina sebelum Anda mendapatkannya kembali.

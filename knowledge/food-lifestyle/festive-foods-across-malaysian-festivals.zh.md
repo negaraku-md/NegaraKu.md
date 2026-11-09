@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "kaamatan" }
 related: ["hari-raya-aidilfitri", "chinese-new-year", "deepavali", "christmas-malaysia", "gawai-dayak", "kaamatan"]
 keywords: ["juadah perayaan", "makanan raya", "ketupat", "rendang", "lemang", "yee sang", "lou sang", "murukku", "manok pansuh", "hinava", "tuak", "tumpung", "rumah terbuka", "kuih raya"]
+framework: history-culture
 ---
 
 沿着马来西亚的日历从年头走到年尾，你换的不只是日期——你换的是厨房。这个月弥漫着仁当与竹筒糯米饭的椰浆香；几个月后，餐桌上摆满被高高捞起、众人齐声喝彩的生鱼沙拉；接着轮到酥脆的木鲁古螺旋，最后是被剖开、倒出热腾腾鸡肉的竹筒。

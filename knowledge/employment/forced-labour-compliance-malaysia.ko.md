@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "worker-accommodation-act-446" }
 related: ["hiring-foreign-workers-malaysia", "worker-accommodation-act-446"]
 keywords: ["forced labour malaysia", "section 90b employment act", "passport retention malaysia", "withhold release order malaysia", "atipsom", "recruitment fees migrant workers"]
+framework: rules
 ---
 
 2019년부터 2022년 사이, 미국 관세국경보호청(US Customs and Border Protection, CBP)은 말레이시아의

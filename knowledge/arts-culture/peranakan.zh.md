@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["unesco-world-heritage", "batik"]
 keywords: ["Peranakan", "Baba-Nyonya", "Straits Chinese", "Nyonya cuisine", "Nyonya kebaya", "Melaka George Town heritage"]
+framework: history-culture
 ---
 
 走进马六甲希兰街（Heeren Street）一栋老排屋，还没等人开口，这个故事已经透过器物讲述出来了。一件在胸前用三件式金胸针别紧的蕾丝紧身上衣。一双鞋尖缀满成千上万颗细小玻璃珠、每一颗都由手工缝制的鞋子。一张摆着大理石桌面的长桌，上面摆着一顿既非纯粹华人、也非纯粹马来的餐点。这些都属于土生华人——峇峇娘惹——一个把两个世界之间的生活活成了一种文化的社群。

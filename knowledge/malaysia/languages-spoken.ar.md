@@ -86,6 +86,7 @@ relations:
 related: ["federal-constitution", "bahasa-melayu", "population-composition", "formation-of-malaysia-1963", "independence-1957", "ma63"]
 keywords: ["لغات ماليزيا", "اللغة الملايوية", "Bahasa Melayu", "اللغة الوطنية ماليزيا", "national language Malaysia", "المادة 152 الدستور الاتحادي", "Article 152 Federal Constitution", "اللهجات الصينية في ماليزيا", "Chinese dialects Malaysia", "التاميلية في ماليزيا", "Tamil Malaysia", "لغات الأورانغ أسلي", "Orang Asli languages", "Kadazan-Dusun", "Iban language", "المدارس اللغوية في ماليزيا", "vernacular schools Malaysia", "SJKC SJKT"]
 sponsor: "none"
+framework: explainer
 ---
 
 تلخّص حكومة ولاية صباح سكانَها على هذا النحو: 33 مجموعة أصلية، تتواصل بأكثر من 50 لغة ونحو 80 لهجة. هذه ولاية واحدة، من ثلاث عشرة ولاية، إضافة إلى ثلاثة أقاليم اتحادية. وإذا وسّعتَ النظر إلى البلاد كلها، ازدادت الصورة تعدّد الطبقات — ومع ذلك يسمّي الدستور الاتحادي لغةً وطنيةً واحدةً بالضبط.

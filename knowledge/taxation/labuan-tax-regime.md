@@ -140,6 +140,7 @@ relations:
   - { rel: "located-in", to: "labuan" }
 related: ["corporate-tax-rates"]
 keywords: ["Labuan tax", "Labuan 3% tax rate", "Labuan substance requirements", "LBATA 1990", "cukai Labuan", "Labuan company Malaysia tax", "section 39(1)(r)"]
+framework: explainer
 ---
 
 Every Labuan brochure opens with the same number: 3%. It is accurate, and it is

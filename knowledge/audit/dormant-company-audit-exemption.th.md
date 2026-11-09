@@ -55,6 +55,7 @@ relations:
   - { rel: "part-of", to: "audit-exemption" }
 related: ["audit-exemption", "audit-exemption-thresholds", "after-audit-exemption"]
 keywords: ["dormant company audit exemption Malaysia", "dormant company SSM", "what breaks dormancy", "dormant since incorporation", "syarikat dorman audit"]
+framework: rules
 ---
 
 บริษัทเปล่า (shelf company) ที่ถือเพียงชื่อและไม่มีอะไรอื่นไม่จำเป็นต้องผ่านการทดสอบรายได้ การทดสอบสินทรัพย์ หรือการทดสอบพนักงาน ย่อหน้า 10 ของแนวปฏิบัติ 10/2024 (Practice Directive 10/2024) ให้บริษัทที่ไม่มีการดำเนินงานมีเส้นทางการยกเว้นการตรวจสอบบัญชีของตนเอง และคู่มือส่วนใหญ่ฝังมันไว้ในบรรทัดเดียวใต้เกณฑ์ — ซึ่งเป็นที่ที่ผู้อ่านพลาดความแตกต่างในระยะเวลาการย้อนดู

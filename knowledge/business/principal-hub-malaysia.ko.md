@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "representative-regional-office-malaysia" }
 related: ["mida"]
 keywords: ["principal hub malaysia", "global services hub malaysia", "regional headquarters malaysia", "MIDA principal hub incentive", "GSH tax incentive malaysia", "headquarters incentive malaysia"]
+framework: explainer
 ---
 
 다국적 기업은 지역 본부를 아무 곳에나 두지 않습니다. 인센티브를 따라갑니다. 수년 동안, 지역 관리·재무·공유 서비스 운영을 어디에 둘지 결정하는 기업들에게 말레이시아가 내세운 제안은 **프린시펄 허브(Principal Hub)** 인센티브였습니다. 이 제도는 종료되었으나, 온라인의 많은 조언은 이를 따라잡지 못하고 있습니다. 오늘날 말레이시아를 운영 거점으로 검토하고 있다면, 실제로 존재하는 경로는 **글로벌 서비스 허브(Global Services Hub)**입니다.

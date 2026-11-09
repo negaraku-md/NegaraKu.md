@@ -108,6 +108,7 @@ keywords:
   - "Kuala Lumpur premise licence fee"
   - "Federal Territory Planning Act 1982"
   - "TRX Marquee status incentives"
+framework: profile
 ---
 
 쿠알라룸푸르(Kuala Lumpur)는 말레이시아에서 면허 수수료를 연방 관보에서 직접 읽어 낼 수

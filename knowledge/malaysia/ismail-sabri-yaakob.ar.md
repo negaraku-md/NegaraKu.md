@@ -67,6 +67,7 @@ sources:
 
 related: ["muhyiddin-yassin", "2022-general-election", "prime-ministers-of-malaysia", "anwar-ibrahim", "najib-razak"]
 keywords: ["إسماعيل صبري يعقوب", "رئيس وزراء ماليزيا التاسع", "Keluarga Malaysia", "مذكرة تفاهم الاستقرار 2021", "UMNO", "Ismail Sabri Yaakob", "ninth prime minister Malaysia"]
+framework: profile
 ---
 
 > **مسودّة — حسّاسة.** هذا المقال ملخّص محايد لا يزال قيد الإعداد ولم

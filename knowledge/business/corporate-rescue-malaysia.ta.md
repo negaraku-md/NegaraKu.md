@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "debt-recovery-malaysia" }
 related: ["close-a-company", "creditors-voluntary-winding-up", "members-voluntary-winding-up", "strike-off-company-malaysia", "company-director-requirements"]
 keywords: ["corporate rescue malaysia", "judicial management malaysia", "scheme of arrangement section 366", "corporate voluntary arrangement", "restraining order section 368", "companies amendment act 2024 rescue"]
+framework: decision
 ---
 
 பணம் கட்ட முடியாத ஒரு நிறுவனத்தை என்ன செய்வது என்று பெரும்பாலான மலேசிய வணிக

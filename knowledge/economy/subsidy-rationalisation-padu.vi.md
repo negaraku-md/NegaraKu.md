@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "sumbangan-tunai-rahmah-str" }
 related: ["program-rahmah-cost-of-living"]
 keywords: ["PADU", "Pangkalan Data Utama", "rasionalisasi subsidi", "subsidi bersasar", "BUDI MADANI", "RON95", "subsidi diesel", "subsidi elektrik", "T15"]
+framework: explainer
 ---
 
 Trong nhiều năm, chính phủ Malaysia trợ giá dầu, điện và thực phẩm cho tất cả mọi người một cách đại trà — bất kể người thụ hưởng là một người cạo mủ cao su hay một chủ xe sang. Câu hỏi làm thay đổi tất cả không phải là *bao nhiêu* trợ giá được cấp, mà là *cho ai*. Và để trả lời nó, chính phủ cần một điều mà lâu nay nó không có: một bức tranh chính xác về ai thực sự là người dân Malaysia. Đó là nhiệm vụ của PADU.

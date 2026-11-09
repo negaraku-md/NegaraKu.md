@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "unit-trust-funds-malaysia" }
 related: ["bursa-malaysia", "securities-commission-malaysia", "unit-trust-funds-malaysia"]
 keywords: ["CDS account", "Bursa Anywhere", "stockbroker Malaysia", "how to buy shares", "brokerage fees", "clearing fee", "stamp duty shares"]
+framework: how-to
 ---
 
 Owning a slice of Maybank or Tenaga starts with two accounts, not one — and neither of them is a bank account. Before you can buy a single share on Bursa Malaysia, you need a place to *hold* the shares and a place to *place the order*. Here is how the two fit together, and what each trade actually costs.

@@ -103,6 +103,7 @@ keywords:
   - "MIDA manufacturing licence"
   - "shareholders funds RM2.5 million"
   - "exempted from manufacturing licence"
+framework: rules
 ---
 
 La plupart des PME manufacturières malaisiennes n'ont pas besoin d'une licence de

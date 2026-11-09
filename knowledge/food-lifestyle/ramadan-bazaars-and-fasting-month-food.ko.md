@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-jakim" }
 related: ["hari-raya-aidilfitri"]
 keywords: ["bazar ramadan", "ramadan bazaar malaysia", "juadah berbuka puasa", "etika bulan puasa", "lesen penjaja bazar"]
+framework: explainer
 ---
 
 라마단에 아스르 예배 시간이 다가올 때마다, 길가에 하얀 천막의 행렬이 갑자기 솟아오르고, 숯불 위 아얌 프르칙의 증기가 피어오르며, 로티 존과 아이르 반둥의 향이 사람들을 집 밖으로 불러냅니다. 이것이 라마단 바자르 — 일 년에 한 달만 존재하지만 오래전부터 말레이시아인의 생활 리듬의 일부가 된 계절 시장입니다.

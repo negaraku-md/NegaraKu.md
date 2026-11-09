@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "malaysian-institute-of-accountants" }
 related: ["malaysian-institute-of-accountants"]
 keywords: ["ISA 600", "group audit", "component auditor", "group engagement partner", "Malaysia subsidiary audit", "MIA", "consolidated financial statements", "aggregation risk"]
+framework: explainer
 ---
 
 一家德国母公司将其吉隆坡贸易分支纳入合并报表，但集团在法兰克福的审计合伙人从未踏足马来西亚，也不阅读当地的账簿。在马来西亚，有人执行实地审计工作——然而集团审计意见上的签名仍然只属于集团合伙人一人。这种分工，正是集团审计准则所要规范的核心。

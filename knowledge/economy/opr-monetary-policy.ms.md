@@ -66,6 +66,7 @@ faq:
     a: 'Kedua-duanya bergerak ke arah yang sama, tetapi tidak secara simetri. Artikel ini menonjolkan satu ketaksimetrian yang wajar diketahui: kadar pinjaman cenderung naik dengan cepat dan turun dengan perlahan, manakala kadar deposit cenderung sebaliknya, menyesuaikan semula dengan lebih perlahan dan kurang menyeluruh berbanding pinjaman. Ia menggambarkan hal ini sebagai realiti komersial margin bank, bukan satu peraturan.'
   - q: Adakah keputusan OPR 'tiada perubahan' bermakna Jawatankuasa Dasar Monetari tidak melakukan apa-apa?
     a: Tidak — keputusan untuk mengekalkan tetap merupakan satu keputusan. Jawatankuasa Dasar Monetari bermesyuarat enam kali setahun mengikut jadual yang diterbitkan, dan rentetan panjang keputusan tiada perubahan mencerminkan pertimbangan bahawa inflasi cukup terkawal sehingga tidak memerlukan pengetatan dan pertumbuhan cukup kukuh sehingga tidak memerlukan sokongan. Kenyataan yang disertakan biasanya memberi isyarat kecenderungan jawatankuasa.
+framework: explainer
 ---
 
 ## Sekilas pandang

@@ -77,6 +77,7 @@ sources:
 relations: []
 related: ["company-secretary-malaysia", "audit-exemption-criteria"]
 keywords: ["choose company secretary Malaysia", "accounting firm Malaysia", "audit firm Malaysia", "tax agent Malaysia", "corporate services firm Malaysia", "Big Four Malaysia", "MIA licensed firm", "SSM company secretary licence", "how to choose accountant Malaysia", "company secretary firm vs individual"]
+framework: decision
 ---
 
 ஒவ்வொரு மலேசிய நிறுவனமும் தனது நிறுவன அமைப்புப் படத்தில் (org chart) ஒருபோதும் காணாத ஒரு சிறு வட்டத்தைச் சேர்ந்த தொழில்முறையாளர்களை நம்பியே இயங்குகிறது: அதைச் சட்டப்பூர்வமாக வைத்திருக்கும் நிறுவனச் செயலாளர், அதன் கணக்குகளைப் பராமரிக்கும் கணக்காளர், அதன் எண்களை உறுதிப்படுத்திக் கையெழுத்திடும் தணிக்கையாளர், மேலும் LHDN-உடன் தாக்கல் செய்யும் வரி முகவர். அவர்களைச் சரியாகத் தேர்ந்தெடுப்பது பணத்தையும் தூக்கமில்லா இரவுகளையும் மிச்சப்படுத்துகிறது. ஆயினும் "மலேசியாவில் சிறந்த நிறுவனச் செயலாளர்" என்று தேடுங்கள், நீங்கள் காணும் கிட்டத்தட்ட ஒவ்வொரு வழிகாட்டியும் அந்தச் சேவையை விற்கும் ஒரு நிறுவனத்தால் எழுதப்பட்டது. இது அப்படி இல்லை.

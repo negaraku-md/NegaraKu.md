@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "zakat-pendapatan" }
 related: []
 keywords: ["zakat deducción fiscal", "Sección 6A", "Ley del Impuesto sobre la Renta de 1967", "deducción fiscal del zakat LHDN", "zakat frente a desgravación fiscal", "organismo estatal de zakat", "Seksyen 6A", "badan zakat negeri"]
+framework: explainer
 ---
 
 Paga RM1,000 de zakat y tu impuesto sobre la renta baja exactamente RM1,000 — no solo una pequeña fracción, como ocurre con la mayoría de las demás deducciones fiscales. Esa diferencia es lo que tan a menudo confunde a los contribuyentes musulmanes en Malasia, y depende de una sola palabra: *deducción de cuota (rebate)*, no *desgravación (relief)*.

@@ -71,6 +71,7 @@ social:
     - LHDN
     - PersonalTax
     - VSS
+framework: explainer
 ---
 
 नौकरी खोने के साथ आमतौर पर एक भुगतान आता है, और पहला प्रश्न अक्सर ग़लत होता है: «मैं

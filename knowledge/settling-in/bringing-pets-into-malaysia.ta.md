@@ -64,6 +64,7 @@ relations:
   - { rel: "part-of", to: "settling-in" }
 related: ["moving-to-malaysia-first-steps", "dependant-social-visit-passes"]
 keywords: ["bringing pets to Malaysia", "MAQIS import permit", "DVS pet import rules", "dog cat quarantine Malaysia", "restricted dog breeds Malaysia", "ISO microchip pet import"]
+framework: how-to
 ---
 
 உங்கள் விமானம் முன்பதிவு செய்யப்பட்டுவிட்டது, உங்கள் பெட்டிகள் அடைக்கப்பட்டுவிட்டன, அப்போதுதான் உங்களுக்கு அது தோன்றுகிறது: நாய் என்ன ஆகும். மலேசியாவில், ஒரு செல்லப்பிராணி வெறுமனே சரக்கு அறையில் ஏறிப் பயணிப்பதில்லை — அது தரையை விட்டு உயரும் முன்பே ஒப்புதல் பெற்ற ஒரு அனுமதியையும், ஒரு குறிப்பிட்ட ISO தரத்தைப் பூர்த்தி செய்யும் ஒரு குறுஞ்சில்லையும், மேலும் நீங்கள் அதை மீண்டும் பெறுவதற்கு முன் மிகவும் சாத்தியமாக ஒரு வாரம் அல்லது அதற்கு மேல் தனிமைப்படுத்தலையும் தேவைப்படுத்துகிறது.

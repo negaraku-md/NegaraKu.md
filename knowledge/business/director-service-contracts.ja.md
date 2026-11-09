@@ -75,6 +75,7 @@ keywords:
   - "is a director an employee Malaysia"
   - "directors fees approval Sdn Bhd"
   - "compensation for loss of office section 227"
+framework: explainer
 ---
 
 マレーシアの企業に、その執行取締役の雇用契約書を求めれば、たいていは一通の書類を渡され

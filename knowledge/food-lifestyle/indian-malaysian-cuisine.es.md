@@ -92,6 +92,7 @@ verificationNeeded:
   - "Si el tratamiento 'mamak' deriva específicamente de la palabra tamil para el tío materno (maa-ma), y la observación de que el término puede usarse de forma peyorativa — confírmalo con una fuente en lengua tamil o lexicográfica."
   - "La fecha en que Brickfields fue designada oficialmente como la 'Little India' de Kuala Lumpur (las fuentes dan tanto 2009 como 2010) y la ubicación anterior de Little India cerca de Jalan Masjid India — confírmalo con una fuente del Ayuntamiento de Kuala Lumpur (DBKL) o de una autoridad de turismo."
   - "El asentamiento comercial Chulia / tamil-musulmán temprano en los puertos del Estrecho (Penang, Melaka) como una comunidad distinta de la mano de obra de plantación posterior — confírmalo con una fuente de historia de Penang o del Estrecho, ya que las entradas de enciclopedia general tratan a ambos conjuntamente."
+framework: history-culture
 ---
 
 Pregunta qué significa "comida india" en Malasia y obtendrás varias respuestas

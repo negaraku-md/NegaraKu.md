@@ -89,6 +89,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage", "minimum-wage-malaysia"]
 keywords: ["أجر العمل الإضافي في ماليزيا", "معدّل العمل الإضافي", "أسبوع الـ45 ساعة", "أجر يوم الراحة", "أجر العطلة الرسمية", "overtime pay malaysia", "104 hours overtime", "Employment Act 1955"]
+framework: rules
 ---
 
 تتوقّف معظم أدلة العمل الإضافي عند «1.5× عادي، 2× يوم الراحة، 3× العطلة الرسمية». وهذا الاختصار خاطئ في شأن يوم الراحة والعطلة الرسمية، ويُغفل ما يُصدر مسؤولو العمل الإشعارات بشأنه فعلًا: **الموعد النهائي لدفعه.**

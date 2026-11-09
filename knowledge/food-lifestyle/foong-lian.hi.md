@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#FoongLian", "#ClaypotRice", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Pudu में Jalan Yew पर, दहकते कोयले के ऊपर मिट्टी के बर्तनों की एक क़तार रखी है, हर एक

@@ -78,6 +78,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-contract-malaysia", "unfair-dismissal-malaysia", "termination-benefits-malaysia", "employee-vs-contractor-malaysia"]
 keywords: ["fixed term contract malaysia", "contract renewal malaysia employment", "non renewal dismissal malaysia", "project contract employee malaysia", "temporary contract malaysia law"]
+framework: explainer
 ---
 
 สัญญาจ้างมีกำหนดระยะเวลาถูกขายในตลาดมาเลเซียในฐานะเครื่องมือป้องกันความเสี่ยง: จ้างหนึ่งปี ตัดสินใจในตอนท้าย เดินจากไปโดยไม่มีการเลิกจ้างและไม่มีสิทธิประโยชน์ นั่นใช้ได้เพียงครั้งเดียวเท่านั้น เครื่องมือนี้ล้มเหลวเมื่อทำซ้ำ และล้มเหลวย้อนหลัง — ลูกจ้างที่คุณคิดว่าอยู่ในสัญญาหนึ่งปีฉบับที่สิบสอง กลับกลายเป็นลูกจ้างถาวรมาตั้งแต่ปีที่สอง

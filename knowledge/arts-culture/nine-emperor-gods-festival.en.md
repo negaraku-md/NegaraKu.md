@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "chinese-religion-in-malaysia" }
 related: ["chinese-religion-in-malaysia", "buddhism-in-malaysia", "hungry-ghost-festival", "religion-statistics"]
 keywords: ["九皇爷诞", "九皇大帝", "九皇胜会", "斗母元君", "食斋", "斋戒", "请水", "送驾", "过火", "安邦南天宫", "香港巷斗母宫", "Nine Emperor Gods Festival", "Kaw Ong Ya"]
+framework: history-culture
 ---
 
 On the eve of the first day of the ninth lunar month, a line of devotees dressed in white with yellow sashes at the waist files out of the temple, holding sticks of incense, and heads for the nearest river or seashore. Gongs and drums go in front, incense smoke behind — they are going to "invite the water" and "welcome the gods", to escort the Nine Emperor Gods back to the temple. For the next nine days the incense never stops inside the temple, and the aroma of vegetarian food drifts outside; on the night of the ninth day, the same procession will again form up at the water's edge to send the deities off.

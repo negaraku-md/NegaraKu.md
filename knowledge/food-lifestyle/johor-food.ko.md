@@ -95,6 +95,7 @@ verificationNeeded:
   - "kacang pool의 중동(흔히 이집트의 ful medames라고 함) 기원, 그리고 조호르의 lontong, lodeh, soto, nasi ambeng에 부여되는 인도네시아/Betawi 및 자와의 뿌리——이들은 기록된 역사가 아니라 음식·여행 매체에서 비롯된 일화적 귀속이다."
   - "조호르 음식 전반에 대한 '왕실 요리' 및 자와/부기스 틀의 강도——그럴듯하고 널리 언급되지만, 인구 통계와 요리사(史) 주장은 목록식 기사가 아니라 학술 또는 유산 관련 자료로 확인할 것."
   - "특정 도시와의 연결(mee bandung과 otak-otak은 Muar; nasi beriani gam은 Batu Pahat; 두리안은 Muar와 Segamat)은 대중적 평판을 반영한다; 어떤 '기원' 주장이든 사실로 서술하기 전에 지역 또는 공식 자료로 확인할 것."
+framework: history-culture
 ---
 
 싱가포르에서 코즈웨이를 건너면 처음 닿는 말레이시아의 주가 조호르다——그리고 그 밥상은

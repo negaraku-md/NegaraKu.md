@@ -114,6 +114,7 @@ relations:
   - { rel: "requires", to: "register-of-directors" }
 related: ["secretary-vacancy-30-days", "changing-company-secretary", "company-secretary-qualification", "appoint-company-secretary"]
 keywords: ["démissionner secrétaire de société Malaisie", "section 237 Companies Act 2016", "démission du secrétaire 30 jours", "Practice Note 4/2018", "administrateurs ne peuvent être joints démission secrétaire", "notice of intention to vacate office of secretary"]
+framework: how-to
 ---
 
 Tout guide sur ce sujet est écrit du côté de la société : votre secrétaire a

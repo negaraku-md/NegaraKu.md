@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "malaysia-national-football-team" }
 related: []
 keywords: ["Liga Super", "Piala Malaysia", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "bola sepak Malaysia"]
+framework: explainer
 ---
 
 கிட்டத்தட்ட ஒரு நூற்றாண்டு காலமாக, ஒரே அமைப்பு — மலேசிய கால்பந்து சங்கம் (Football Association of Malaysia, FAM) — நாட்டின் ஒவ்வொரு லீக் போட்டியையும் நடத்தி வந்தது. பின்னர், விளையாட்டின் வடிவத்தையே மாற்றிய ஒரு நடவடிக்கையில், லீக்குகளை நடத்தும் அதிகாரம் ஒரு வணிக நிறுவனத்திடம் ஒப்படைக்கப்பட்டது. இதுவே இன்று மலேசிய உள்நாட்டு கால்பந்து செயல்படும் விதத்திற்கு அடித்தளம்.

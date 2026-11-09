@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "nine-royal-houses" }
 related: ["straits-settlements", "malayan-union", "nine-royal-houses", "malay-sultanate-system"]
 keywords: ["États malais fédérés", "États malais non fédérés", "système des Résidents britanniques", "système des Conseillers britanniques", "traité de Pangkor 1874", "Résident général Kuala Lumpur", "traité anglo-siamois 1909", "Conseiller général de Johor", "souverains malais protection britannique", "Malaya coloniale"]
+framework: explainer
 ---
 
 Neuf États malais, une seule puissance impériale — et pourtant non pas un seul arrangement, mais deux. Cette division est ce que la plupart des résumés de la Malaya coloniale passent sous silence, et c'est tout l'objet de cet article.

@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "department-of-environment" }
 related: ["environmental-quality-act-1974"]
 keywords: ["pencemaran sungai", "indeks kualiti air", "WQI", "keselamatan air", "bekalan air", "Sungai Selangor", "Sungai Kim Kim", "rizab sungai", "Jabatan Alam Sekitar", "kawasan tadahan"]
+framework: explainer
 ---
 
 Buka paip pada pagi Isnin dan dapati ia kering — bukan kerana pili rosak, tetapi kerana sebuah kilang di hulu telah melepaskan sisa berbau busuk ke anak sungai yang membekalkan air mentah ke bandar anda. Inilah realiti berulang di Lembah Klang, dan ia menjelaskan mengapa "kualiti sungai" bukan sekadar isu ekologi, tetapi isu keselamatan bekalan air untuk berjuta-juta rumah.

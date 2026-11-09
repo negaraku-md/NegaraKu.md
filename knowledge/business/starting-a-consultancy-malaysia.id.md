@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "freelancer-and-gig-tax" }
 related: ["sole-prop-vs-sdn-bhd"]
 keywords: ["start a consultancy malaysia", "consulting business malaysia", "professional services firm malaysia", "freelance consultant register malaysia", "service tax consultancy malaysia", "LLP vs sdn bhd consulting", "regulated profession licence malaysia"]
+framework: how-to
 ---
 
 Konsultasi terlihat seperti usaha paling mudah untuk dimulai — tidak ada premis, tidak ada inventori, hanya keahlian Anda dan sebuah laptop. Dan bagi seorang konsultan manajemen umum, itu hampir benar begitu: daftar dengan SSM dan Anda sudah berusaha. Tetapi dua hal membuat orang tersandung. Pertama, jika "konsultasi" Anda sebenarnya sebuah *profesi teregulasi*, pendaftaran usaha tidak mencukupi — Anda memerlukan lisensi untuk berpraktik. Kedua, entitas yang Anda pilih dan pajak yang dikenakan lebih penting bagi firma layanan daripada hampir usaha lain mana pun, karena pendapatan Anda *adalah* usaha itu.

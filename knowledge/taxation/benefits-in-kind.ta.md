@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "capital-allowances" }
 related: ["motor-vehicle-capital-allowance", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["benefits in kind Malaysia", "BIK prescribed value table", "company car tax Malaysia employee", "paragraph 13(1)(b) 13(1)(c)", "living accommodation benefit Malaysia"]
+framework: explainer
 ---
 
 பொருள் வடிவ நலன்கள் (benefits-in-kind) குறித்த ஒவ்வொரு வழிகாட்டியும் ஒரு

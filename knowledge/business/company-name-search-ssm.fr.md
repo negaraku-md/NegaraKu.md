@@ -86,6 +86,7 @@ keywords:
   - "section 26 Companies Act 2016 name"
   - "SSM controlled words company name"
   - "company name rejected SSM"
+framework: rules
 ---
 
 La raison la plus fréquente du rejet d'un nom n'est pas que quelqu'un le possède déjà. C'est que la

@@ -85,6 +85,7 @@ relations:
   - { rel: "requires", to: "individual-tax-residence" }
 related: ["income-tax-in-malaysia", "individual-tax-residence", "personal-tax-rates", "which-tax-form", "epf-foreign-workers-malaysia"]
 keywords: ["प्रवासी कर मलेशिया", "expatriate tax Malaysia", "अनिवासी कर दर मलेशिया 30", "non-resident tax rate Malaysia 30", "60 दिन छूट मलेशिया कर", "60 day exemption Malaysia tax", "ज्ञान-कर्मी कर दर 15", "knowledge worker tax rate 15", "प्रत्यावर्ती विशेषज्ञ कार्यक्रम कर", "Returning Expert Programme tax", "रोज़गार पास कर निवास", "Employment Pass tax residence"]
+framework: rules
 ---
 
 किसी प्रवासी तैनाती का सबसे महँगा महीना आमतौर पर आगमन का महीना होता है, और उस समय इसकी कोई क़ीमत नहीं लगती। 15 जुलाई को उतरिए और आप निवास के लिए आवश्यक 182 दिनों से 12 दिन कम हैं। 15 जून को उतरिए और आप उसे पार कर लेते हैं। वही पैकेज, वही नियोक्ता, और वर्ष के कर बिल के लगभग एक-तिहाई का फ़र्क़ — क्योंकि कोई अनिवासी व्यक्ति **पहले रिंगिट पर एकसमान 30%** चुकाता है, बिल्कुल बिना किसी राहत के।

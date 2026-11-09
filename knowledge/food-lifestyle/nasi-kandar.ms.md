@@ -95,6 +95,7 @@ keywords:
   - "Malaysian rice dish"
 social:
   hashtags: ["#NasiKandar", "#Penang", "#Mamak", "#MalaysianFood", "#Banjir", "#GeorgeTown"]
+framework: explainer
 ---
 
 Tanya sesiapa sahaja di Pulau Pinang di mana hendak makan lewat malam, dan

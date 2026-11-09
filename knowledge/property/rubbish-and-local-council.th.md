@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
+framework: explainer
 ---
 
 ถังขยะของคุณถูกเก็บสัปดาห์ละสองครั้ง แต่คุณเคยถามหรือไม่ว่าใครเป็นผู้เก็บจริง สภาท้องถิ่น หรือบริษัทอื่นที่สภาแต่งตั้ง? และเหตุใดเพื่อนบ้านของคุณในรัฐข้าง ๆ อาจถูกปรับเพราะไม่แยกขวดพลาสติกออกจากเศษอาหาร ในขณะที่คุณไม่ถูกปรับ?

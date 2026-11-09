@@ -113,6 +113,7 @@ relations:
   - { rel: "requires", to: "register-of-directors" }
 related: ["secretary-vacancy-30-days", "changing-company-secretary", "company-secretary-qualification", "appoint-company-secretary"]
 keywords: ["कंपनी सचिव त्यागपत्र मलेशिया", "resign company secretary Malaysia", "धारा 237 कंपनी अधिनियम 2016", "section 237 Companies Act 2016", "सचिव त्यागपत्र 30 दिन", "Practice Note 4/2018", "निदेशकों से संपर्क नहीं सचिव त्यागपत्र", "notice of intention to vacate office of secretary"]
+framework: how-to
 ---
 
 इस विषय पर हर मार्गदर्शिका कंपनी के पक्ष से लिखी जाती है: आपके सचिव ने त्यागपत्र दे

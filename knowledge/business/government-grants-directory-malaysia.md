@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "mdec-digital-status" }
 related: ["sme-financing-malaysia"]
 keywords: ["government grants malaysia", "SME grant malaysia", "startup grant malaysia", "cradle CIP grant", "MDEC digital grant", "MSME digital grant madani", "matching grant malaysia", "business funding malaysia"]
+framework: data-reference
 ---
 
 Search "government grant Malaysia" and you will get dozens of listicles promising free money for your business. The reality is more useful and more complicated: the money exists, but half of what gets called a "grant" is actually a loan, an equity investment, or a reimbursement of cash you have to spend first. The single most valuable thing you can learn before applying is how to tell them apart.

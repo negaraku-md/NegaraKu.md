@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "hydrogen-ccus-malaysia" }
 related: ["energy-commission-suruhanjaya-tenaga", "tenaga-nasional", "seda-malaysia", "sarawak-energy-berhad", "hydrogen-ccus-malaysia"]
 keywords: ["sektor tenaga Malaysia", "NETR", "Peta Jalan Peralihan Tenaga Negara", "PETRA", "Suruhanjaya Tenaga", "Petronas", "tarif elektrik RP4", "BUDI95", "tenaga boleh baharu Malaysia", "grid elektrik Malaysia"]
+framework: explainer
 ---
 
 கோலாலம்பூரில் விளக்கு சுவிட்சை இயக்குங்கள், ஈப்போவில் RON95 எரிபொருள் நிரப்புங்கள்,

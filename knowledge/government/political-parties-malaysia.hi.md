@@ -85,6 +85,7 @@ relations:
   - { rel: "governs", to: "political-parties-malaysia" }
 related: ["how-elections-work", "spr-election-commission", "dewan-rakyat", "parliament", "yang-di-pertuan-agong"]
 keywords: ["मलेशिया के राजनीतिक दल", "parti politik Malaysia", "सोसाइटीज़ एक्ट 1966", "Akta Pertubuhan 1966", "पंजीयक-समिति", "Registrar of Societies", "ROS", "Barisan Nasional", "Pakatan Harapan", "Perikatan Nasional", "GPS", "एकता सरकार", "kerajaan perpaduan", "PRU15", "राजनीतिक गठबंधन", "political parties Malaysia"]
+framework: explainer
 ---
 
 मलेशिया में, कोई राजनीतिक दल न तो संसद के भीतर शुरू होता है और न ही किसी प्रचार-मंच पर।

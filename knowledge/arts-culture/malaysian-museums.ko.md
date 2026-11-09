@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "orang-asli" }
 related: ["unesco-world-heritage", "peranakan", "orang-asli"]
 keywords: ["Muzium Negara", "Islamic Arts Museum Malaysia", "IAMM", "Perak Museum Taiping", "Sarawak Museum", "Sabah Museum", "Malaysia state museums"]
+framework: history-culture
 ---
 
 대부분의 방문객에게 말레이시아에서 가장 오래된 박물관이 무엇인지 물으면, 그들은 쿠알라룸푸르 박물관 거리의 중심에 자리한 궁전 지붕의 건물 국립박물관을 짐작할 것입니다. 80년 차이로 빗나간 것입니다. 그 칭호는 국립박물관의 부지가 아직 그 전신에 의해 쓰이던 때에 지어진, 타이핑의 소박한 갤러리의 것입니다.

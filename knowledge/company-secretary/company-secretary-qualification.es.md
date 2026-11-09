@@ -111,6 +111,7 @@ relations:
   - { rel: "explained-in", to: "practising-certificate" }
 related: ["appoint-company-secretary", "maicsa", "changing-company-secretary", "secretary-resignation"]
 keywords: ["quién puede ser secretario de empresa Malasia", "calificación secretario de empresa", "company secretary qualification Malaysia", "section 235 Companies Act 2016", "certificado de ejercicio profesional", "practising certificate SSM", "section 241", "MAICSA MIA", "CSID SSM"]
+framework: rules
 ---
 
 Pregunte a la mayoría de la gente qué hace falta para ser secretario de empresa en Malasia y obtendrá cinco palabras: «MAICSA, MIA o licenciado por la SSM». Esa respuesta no es errónea, pero omite el paso que realmente decide si la persona sentada al otro lado de la mesa puede firmar legalmente sus resoluciones. Calificar bajo la s.235 y *tener derecho a actuar* bajo la s.241 son dos cosas distintas, y un secretario puede satisfacer lo primero y fallar en lo segundo.

@@ -72,6 +72,7 @@ social:
     - NGO
     - Persatuan
     - CivilSociety
+framework: how-to
 ---
 
 Tujuh sahabat yang mahu menjalankan persatuan penduduk, kumpulan alumni, kelab sukan, badan agama atau NGO kebajikan semuanya menghulur ke arah kenderaan undang-undang yang sama di Malaysia: **pertubuhan**, atau *persatuan*. Ia ialah struktur keahlian bukan untung lalai negara — murah untuk ditubuhkan dan bermodal ringan — tetapi ia hidup di bawah statutnya sendiri, Akta Pertubuhan 1966, dan pengawal seliaannya sendiri, dan kesilapan dalam kertas kerja boleh membiarkan anda menjalankan badan yang *menyalahi undang-undang* tanpa menyedarinya.

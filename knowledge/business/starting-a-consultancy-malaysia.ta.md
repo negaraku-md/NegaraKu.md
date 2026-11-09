@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "freelancer-and-gig-tax" }
 related: ["sole-prop-vs-sdn-bhd"]
 keywords: ["start a consultancy malaysia", "consulting business malaysia", "professional services firm malaysia", "freelance consultant register malaysia", "service tax consultancy malaysia", "LLP vs sdn bhd consulting", "regulated profession licence malaysia"]
+framework: how-to
 ---
 
 ஆலோசனை தொடங்குவதற்கு எளிதான வணிகமாகத் தோன்றுகிறது — வளாகம் இல்லை, சரக்கு இல்லை, உங்கள் நிபுணத்துவமும் ஒரு மடிக்கணினியும் மட்டுமே. ஒரு பொது மேலாண்மை ஆலோசகருக்கு, அது கிட்டத்தட்ட உண்மைதான்: SSM-இல் பதிவு செய்தால் நீங்கள் வணிகம் செய்கிறீர்கள். ஆனால் இரண்டு விஷயங்கள் மக்களை இடறச் செய்கின்றன. முதலாவது, உங்கள் "ஆலோசனை" உண்மையில் ஒரு *கட்டுப்படுத்தப்பட்ட தொழில்முறை* என்றால், ஒரு வணிகப் பதிவு போதாது — உங்களுக்குப் பயில்வதற்கு உரிமம் தேவை. இரண்டாவது, நீங்கள் தேர்ந்தெடுக்கும் சட்டப்பூர்வ வடிவமும் நீங்கள் உட்படும் வரியும் ஒரு சேவை நிறுவனத்திற்கு வேறு எந்த வணிகத்தையும் விட அதிக முக்கியத்துவம் வாய்ந்தவை, ஏனெனில் உங்கள் வருமானமே வணிகம் ஆகும்.

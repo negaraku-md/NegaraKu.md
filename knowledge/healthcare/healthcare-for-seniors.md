@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "mm2h-long-stay-visa" }
 related: ["mm2h-long-stay-visa"]
 keywords: ["elderly care Malaysia", "nursing home Malaysia", "Rumah Seri Kenangan", "Rumah Ehsan", "geriatric care Malaysia", "PeKa B40", "aged care Malaysia", "Care Centres Act 1993", "warga emas", "long-term care Malaysia"]
+framework: explainer
 ---
 
 The moment usually arrives quietly. A parent who managed fine alone starts

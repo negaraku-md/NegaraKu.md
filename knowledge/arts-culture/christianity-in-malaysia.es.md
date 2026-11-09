@@ -71,6 +71,7 @@ faq:
     a: 'No. Ambos difieren en su alcance: la Navidad es un día festivo de ámbito nacional, mientras que el Viernes Santo solo es festivo en Sabah y Sarawak. Esto refleja la geografía de la fe, ya que más de dos tercios de los cristianos de Malasia —y Sarawak, donde el cristianismo es la mayor religión por sí sola— se encuentran en Malasia Oriental y no en la península.'
   - q: ¿Qué es la Federación Cristiana de Malasia y qué organismos reúne?
     a: 'La Federación Cristiana de Malasia (Christian Federation of Malaysia, CFM), constituida en 1985, es el principal organismo paraguas. Une las tres corrientes del cristianismo malasio: la Conferencia de Obispos Católicos (Catholic Bishops'' Conference), el Consejo de Iglesias de Malasia (Council of Churches of Malaysia, protestantismo tradicional) y la Comunión Cristiana Evangélica Nacional (National Evangelical Christian Fellowship). La CFM afirma representar a más del 95% de las iglesias del país, muchas de ellas congregaciones de habla malaya en Sabah y Sarawak.'
+framework: history-culture
 ---
 
 La historia cristiana de Malasia tiene dos centros de gravedad, y ninguno está en

@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "pidm-deposit-insurance" }
 related: ["bank-negara-malaysia", "pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["المصرف الرقمي", "المصارف الرقمية في ماليزيا", "digital bank Malaysia", "GXBank", "Boost Bank", "AEON Bank", "Ryt Bank", "KAF Digital Bank", "PIDM", "BNM"]
+framework: explainer
 ---
 
 يمكنك اليوم أن تفتح حسابًا مصرفيًّا في ماليزيا دون أن تطأ قدمك فرعًا ولو مرة، ودون أن تقابل موظفًا، ودون أي نماذج ورقية — كل ذلك يُنجَز في دقائق عبر هاتفك الذكي. ذلك هو وعد المصارف الرقمية، فئة جديدة من المصارف يرخّصها البنك المركزي الماليزي (Bank Negara Malaysia, BNM) وتخدم الآن ملايين الماليزيين.

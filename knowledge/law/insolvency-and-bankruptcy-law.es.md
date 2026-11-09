@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016", "contracts-act-1950", "court-hierarchy"]
 keywords: ["bankruptcy Malaysia", "insolvency act 1967", "winding up company Malaysia", "judicial management", "department of insolvency", "RM100000 bankruptcy threshold", "social guarantor", "discharge from bankruptcy"]
+framework: explainer
 ---
 
 Deber dinero en Malasia no basta, por sí solo, para ser declarado en quiebra. La deuda tiene que ser grande, el acreedor tiene que seguir un proceso judicial específico y —si solo garantizó el préstamo de estudios de un amigo o la vivienda familiar— la ley puede protegerle por completo. Malasia opera dos regímenes de insolvencia separados: uno para las personas, otro para las empresas. Saber en cuál está usted, y qué permite cada uno, lo cambia todo.

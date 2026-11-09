@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
+framework: history-culture
 ---
 
 Sebuah bandar yang dibina atas timah akhirnya mengurniakan dunia satu kraf logam. Kuala Lumpur wujud kerana pelombong menemui bijih timah di pertemuan Sungai Klang dan Sungai Gombak. Beberapa dekad kemudian, seorang tukang timah remaja yang datang untuk bekerja dalam ekonomi timah yang sama mula menempa pedupaan untuk mazbah tokong — dan bengkel yang dibukanya kini menjadi pengeluar pewter terbesar di dunia.

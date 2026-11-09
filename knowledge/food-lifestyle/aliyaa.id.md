@@ -74,6 +74,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["Aliyaa", "SriLankanFood", "BibGourmand", "MichelinGuideMalaysia", "KualaLumpur"]
+framework: profile
 ---
 
 Aliyaa adalah restoran Sri Lanka di Bukit Damansara, Kuala Lumpur, dan salah

@@ -77,6 +77,7 @@ social:
     - MalaysiaHealthcare
     - Act586
     - MedicalPractice
+framework: how-to
 ---
 
 Ouvrir votre propre clinique semble l'étape naturelle suivante après des années de formation et de pratique — mais une clinique n'est pas un commerce ordinaire que l'on peut constituer le lundi et ouvrir le vendredi. La Malaisie réglemente strictement la santé privée, et les locaux eux-mêmes doivent être enregistrés auprès du ministère de la Santé avant de recevoir le moindre patient. Si vous sautez cette étape, vous n'êtes pas seulement sans licence ; vous commettez une infraction.

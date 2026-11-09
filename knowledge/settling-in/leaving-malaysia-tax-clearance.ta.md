@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "epf-socso-employees" }
 related: ["lhdn", "tax-clearance", "offboarding-statutory-checklist", "employment-pass-malaysia", "moving-to-malaysia-first-steps", "epf-socso-employees"]
 keywords: ["tax clearance Malaysia", "Surat Penyelesaian Cukai", "SPC LHDN", "CP21 form Malaysia", "leaving Malaysia tax clearance", "expatriate tax clearance Malaysia", "e-SPC MyTax", "EPF leaving country withdrawal"]
+framework: rules
 ---
 
 நீங்கள் ராஜினாமாக் கடிதத்தைச் சமர்ப்பித்து, விமான டிக்கெட்டை முன்பதிவு செய்து, தளபாடங்களைத் தானமாக வழங்கத் தொடங்கிவிட்டீர்கள். அப்போது நீங்கள் ஒருபோதும் கேள்விப்பட்டிராத ஒன்றை மனிதவளத் துறை கேட்கிறது: வரி முடிவுத் தீர்வுக் கடிதம். அது இல்லாமல், உங்கள் கடைசி ஊதியத்தின் ஒரு பகுதி நகராது — அதைக் கோர வேண்டியவர் கூட நீங்கள் அல்ல.

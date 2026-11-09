@@ -82,6 +82,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaConstruction
     - ContractorMalaysia
+framework: how-to
 ---
 
 Bạn có thể đăng ký một công ty trong một buổi chiều, nhưng công ty đó vẫn không thể đổ một tấm sàn, đi dây một tòa nhà, hoặc đấu thầu một hợp đồng đường một cách hợp pháp cho đến khi nó có một giấy phép thứ hai, riêng biệt. Ở Malaysia, xây dựng là một ngành nghề được quản lý: *công ty* được đăng ký với SSM, và *nhà thầu* được đăng ký với CIDB. Bỏ qua bước thứ hai và công việc đầu tiên bạn nhận là một hành vi phạm tội, không phải một hợp đồng.

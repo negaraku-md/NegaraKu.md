@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "freelancer-and-gig-tax" }
 related: ["sole-prop-vs-sdn-bhd"]
 keywords: ["start a consultancy malaysia", "consulting business malaysia", "professional services firm malaysia", "freelance consultant register malaysia", "service tax consultancy malaysia", "LLP vs sdn bhd consulting", "regulated profession licence malaysia"]
+framework: how-to
 ---
 
 Consultancy looks like the easiest business to start — no premises, no inventory, just your expertise and a laptop. And for a general management consultant, it nearly is: register with SSM and you are trading. But two things trip people up. First, if your "consulting" is actually a *regulated profession*, a business registration is not enough — you need a licence to practise. Second, the entity you pick and the tax you fall under matter more for a services firm than for almost any other business, because your income *is* the business.

@@ -71,6 +71,7 @@ relations:
   - { rel: "affects", to: "form-c-and-cp204" }
 related: ["form-c-and-cp204", "corporate-tax-rates", "income-tax-act-1967"]
 keywords: ["basis period Malaysia", "section 21A", "failure year", "CP204B", "change accounting date Malaysia", "tempoh asas"]
+framework: explainer
 ---
 
 A Sdn Bhd incorporated in March that closes its first accounts on 30 June the

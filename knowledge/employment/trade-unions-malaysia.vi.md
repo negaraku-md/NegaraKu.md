@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "industrial-relations-act-malaysia" }
 related: []
 keywords: ["kesatuan sekerja", "trade union", "Akta Kesatuan Sekerja 1959", "Akta 262", "JHEKS", "e-TUIS", "pindaan 2024", "perundingan kolektif", "Ketua Pengarah Kesatuan Sekerja"]
+framework: explainer
 ---
 
 Trong nhiều thập kỷ, một công nhân nhà máy ở Malaysia chỉ có thể gia nhập một công đoàn "hợp pháp" cho nơi làm việc của mình — và nếu công đoàn đó đã tồn tại, không nhóm người lao động nào khác có thể thành lập một công đoàn mới. Cải cách pháp luật có hiệu lực vào ngày 15 tháng 9 năm 2024 đã thay đổi tiền đề nền tảng đó.

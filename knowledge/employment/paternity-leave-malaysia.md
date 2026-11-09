@@ -56,6 +56,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "maternity-leave-malaysia", "employment-act-coverage"]
 keywords: ["paternity leave malaysia", "section 60fa employment act", "7 days paternity leave", "paternity leave eligibility malaysia", "paternity leave five confinements"]
+framework: rules
 ---
 
 Paternity leave entered the Employment Act 1955 on 1 January 2023 as a single short

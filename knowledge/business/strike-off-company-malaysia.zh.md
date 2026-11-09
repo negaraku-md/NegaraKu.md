@@ -101,6 +101,7 @@ relations:
   - { rel: "requires", to: "annual-return" }
 related: ["close-a-company", "members-voluntary-winding-up", "creditors-voluntary-winding-up", "ssm-fees-malaysia", "annual-return"]
 keywords: ["strike off company malaysia", "section 550 companies act 2016", "section 555 reinstatement", "tutup syarikat ssm", "deregister sdn bhd", "SSM striking off guidelines"]
+framework: explainer
 ---
 
 多数人问怎么为公司除名，真正想问的是怎么不再为一家公司付钱。这是个合理的目标，而除名是

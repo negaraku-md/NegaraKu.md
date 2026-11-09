@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "pewter" }
 related: ["songket", "jawi-script", "pewter", "terengganu", "kelantan"]
 keywords: ["ukiran kayu", "ukiran kayu Melayu", "awan larat", "Desa Ukiran Kayu Besut", "motif ukiran kayu", "kraf kayu Terengganu"]
+framework: history-culture
 ---
 
 仔细看看一栋古老马来房屋窗户上的木雕板，试着找出纹样的起点在哪里。你找不到。这不是你眼睛的问题——它本来就是这样设计的。

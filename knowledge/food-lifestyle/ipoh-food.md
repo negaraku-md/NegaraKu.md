@@ -94,6 +94,7 @@ verificationNeeded:
   - "The origin and dating of Ipoh white coffee, including the popular attribution to Hainanese coffee-shop operators and any specific decade (some accounts cite the 1950s) — these rest on food-media and anecdotal sources and should be confirmed against a documented history."
   - "Whether a distinct Ipoh 'chicken-anchovy' noodle exists as its own named dish, or whether this refers to the chicken-and-prawn broth of kai see hor fun (which some cooks deepen with dried anchovies) — confirm against a local culinary source before stating as a separate dish."
   - "Shop and place details (Old Town versus New Town attributions, named stalls such as Thean Chun, Aun Kheng Lim and the Gunung Rapat heong peng makers) change over time; confirm current operators and locations before relying on them."
+framework: history-culture
 ---
 
 Ask anyone in Malaysia where to eat and sooner or later they will send you to

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "wisma-putra" }
 related: []
 keywords: ["Malaysia China relations", "largest trading partner", "South China Sea", "comprehensive strategic partnership", "1974 diplomatic relations", "Wisma Putra", "nine-dash line"]
+framework: explainer
 ---
 
 Năm 1974, khi phần lớn Đông Nam Á vẫn nhìn Bắc Kinh với sự nghi ngờ thời Chiến tranh Lạnh, Thủ tướng Malaysia Tun Abdul Razak đã bay sang China và bắt tay Mao Trạch Đông. Chuyến đi đó khiến Malaysia trở thành quốc gia ASEAN đầu tiên thiết lập quan hệ ngoại giao với Cộng hòa Nhân dân Trung Hoa — và đặt ra khuôn mẫu cho một mối quan hệ ngày nay là quan trọng nhất về mặt kinh tế của Malaysia và, ở những rìa cạnh của nó, là mối quan hệ tế nhị nhất để quản lý.

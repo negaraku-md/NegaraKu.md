@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "retrenchment-malaysia" }
 related: ["termination-of-employment-malaysia", "retrenchment-malaysia", "offboarding-statutory-checklist"]
 keywords: ["termination benefits malaysia", "retrenchment benefit calculation", "TBLB regulations 1980", "severance pay malaysia", "lay off benefits malaysia", "10 15 20 days wages"]
+framework: rules
 ---
 
 นายจ้างสองรายเลิกจ้างลูกจ้างคนเดียวกันในวันเดียวกัน รายหนึ่งจ่ายเงินเดือนหนึ่งเดือนและเรียกว่าใจกว้าง อีกรายจ่ายค่าจ้าง 20 วันสำหรับแต่ละปีในเก้าปี — ราวหกเดือนของค่าจ้าง — เพราะนั่นคือสิ่งที่กฎหมายกำหนด ความแตกต่างคือรายที่สองอ่านกฎกระทรวงว่าด้วยเงินชดเชยการเลิกจ้างและการหยุดกิจการชั่วคราว 1980 (Employment (Termination and Lay-Off Benefits) Regulations 1980)

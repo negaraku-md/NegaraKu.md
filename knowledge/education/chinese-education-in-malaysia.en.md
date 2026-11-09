@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "tamil-vernacular-schools" }
 related: ["tamil-vernacular-schools", "chinese-clan-associations", "chinese-language-press", "languages-spoken", "population-composition"]
 keywords: ["马来西亚华文教育", "华小", "SJKC", "国民型华文小学", "华文独立中学", "独中", "统考", "UEC", "董教总", "董总", "教总", "新纪元大学学院", "南方大学学院", "韩江", "Chinese education in Malaysia"]
+framework: explainer
 ---
 
 In the early morning, the playground of a Chinese primary school fills with the interwoven sounds of Mandarin, Malay and English; a few states away, in the hall of a Chinese independent secondary school (独中), students are preparing for the year-end UEC; while in Johor and Penang, university colleges that grew out of the Chinese education system welcome a new intake. These scenes all belong to one strand — Chinese education in Malaysia — yet sit at different levels, under different funding arrangements and legal frameworks.

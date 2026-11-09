@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "auditor-report" }
 related: []
 keywords: ["خطاب إقرارات الإدارة", "management representation letter", "ISA 580", "الإقرارات المكتوبة", "written representations", "دليل التدقيق", "المدقّق"]
+framework: explainer
 ---
 
 مع اقتراب نهاية كل عملية تدقيق، يُطلَب من المديرين توقيع وثيقة يسهل التغاضي عنها لكنها تحمل وزنًا حقيقيًا: خطاب يشهدون فيه، بتوقيعهم الخاص، بأنهم أطلعوا المدقّق على كل شيء. ذلك هو خطاب إقرارات الإدارة.

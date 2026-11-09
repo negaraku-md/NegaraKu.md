@@ -71,6 +71,7 @@ sources:
 relations: []
 related: ["choosing-accounting-secretarial-audit-tax-firm-malaysia", "company-secretary-malaysia", "audit-exemption-criteria", "accounting-records-section-245"]
 keywords: ["更换公司秘书 马来西亚", "罢免核数师 马来西亚", "更换税务代理 LHDN", "转换会计事务所 马来西亚", "公司秘书辞职 第237条", "特别通知 罢免核数师", "更换企业服务事务所 马来西亚", "如何更换公司秘书 SSM", "更换核数师 2016年公司法令", "更换簿记员 马来西亚"]
+framework: how-to
 ---
 
 公司迟早会超出某个供应商所能承接的范围——费用悄然上涨、服务沉寂下来，或者你干脆找到了更合适的人选。直觉是发一封电邮就一走了之。但马来西亚对这四类专业人士的处理方式并不相同：辞退簿记员是打一通电话，而罢免核数师却是一套正式、受法律保护的流程。下面说明每一类究竟如何运作，以及如何在不留合规缺口的前提下完成更换。

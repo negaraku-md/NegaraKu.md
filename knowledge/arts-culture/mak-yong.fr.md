@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["wayang-kulit", "batik"]
 keywords: ["Mak Yong", "teater tarian tradisional", "warisan budaya tidak ketara", "UNESCO Malaysia", "rebab", "Kelantan", "Pak Yong", "Mengadap Rebab"]
+framework: history-culture
 ---
 
 Le premier son ne vient pas d'un interprète. Il vient d'un morceau de bois en forme de poire muni de trois cordes — un rebab — frotté lentement d'un archet au bord d'une scène de bois ouverte. Le public est assis sur trois côtés. Le toit est en feuilles de palmier tressées. Et avant qu'une seule ligne de dialogue ne soit prononcée, une princesse s'est déjà inclinée vers l'instrument dans une danse dont le nom seul explique tout : **Mengadap Rebab**.

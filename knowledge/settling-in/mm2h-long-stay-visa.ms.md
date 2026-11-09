@@ -85,6 +85,7 @@ faq:
     a: 'Tidak. MOTAC membenarkan pengeluaran maksimum 50% daripada prinsipal deposit tetap selepas kelulusan, dan hanya untuk tujuan tertentu: membeli kediaman yang diperlukan, atau pendidikan, rawatan perubatan atau aktiviti pelancongan di Malaysia. Ia merupakan pelepasan bersyarat, bukan akaun guna umum. Baki yang tinggal mesti kekal di bank Malaysia; dana asing dan keuntungan yang diperoleh daripada deposit itu semasa ia berada di situ mempunyai pengecualian cukai yang dinyatakan.'
   - q: Siapa sebenarnya yang meluluskan permohonan MM2H — MOTAC atau Imigresen?
     a: Kedua-duanya, dalam peranan berbeza. MOTAC mengendalikan program dan menetapkan keperluan setiap peringkat, tetapi kelulusan imigresen muktamad, pengesahan pas dan sebarang rayuan terletak pada Kementerian Dalam Negeri melalui Jabatan Imigresen Malaysia. Permohonan dikemukakan oleh ejen MM2H berlesen melalui One Stop Centre. Jadi hubungi MOTAC untuk soalan keperluan peringkat dan Imigresen untuk hal kelulusan atau pengesahan — dua pihak berkuasa, dua bidang kuasa.
+framework: explainer
 ---
 
 Cari "berapa lama pas MM2H Silver sah" dan anda akan menjumpai panduan yang dengan yakin

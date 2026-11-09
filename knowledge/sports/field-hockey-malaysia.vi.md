@@ -86,6 +86,7 @@ keywords:
   - "Konfederasi Hoki Malaysia"
   - "kedudukan hoki dunia FIH Malaysia"
   - "Piala Dunia hoki 1975 Kuala Lumpur"
+framework: history-culture
 ---
 
 Vào ngày 15 tháng 3 năm 1975, một sân vận động ở Kuala Lumpur chứng kiến Ấn Độ nâng Cúp Thế giới khúc côn cầu nam lần duy nhất trong lịch sử của họ — và chủ nhà không phải Ấn Độ, mà là Malaysia. Nửa thế kỷ sau, cũng chính quốc gia đó vẫn mời các cường quốc khúc côn cầu thế giới đến Ipoh mỗi năm. Khúc côn cầu trên sân có thể không phải môn thể thao phổ biến nhất ở Malaysia ngày nay, nhưng nó có lẽ là di sản thể thao được tôn trọng nhất của đất nước ở tầm quốc tế.

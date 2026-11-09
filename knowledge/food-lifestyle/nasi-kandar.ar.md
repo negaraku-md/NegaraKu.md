@@ -95,6 +95,7 @@ keywords:
   - "Malaysian rice dish"
 social:
   hashtags: ["#NasiKandar", "#Penang", "#Mamak", "#MalaysianFood", "#Banjir", "#GeorgeTown"]
+framework: explainer
 ---
 
 اسأل أيّ شخص في بينانج عن مكان لتناول العشاء في وقت متأخر، فكثيراً ما تأتي الإجابة في

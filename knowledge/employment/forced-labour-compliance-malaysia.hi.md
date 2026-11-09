@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "worker-accommodation-act-446" }
 related: ["hiring-foreign-workers-malaysia", "worker-accommodation-act-446"]
 keywords: ["बलात श्रम मलेशिया", "forced labour malaysia", "धारा 90B रोज़गार अधिनियम", "पासपोर्ट रखना मलेशिया", "withhold release order malaysia", "atipsom", "प्रवासी श्रमिक भर्ती-शुल्क"]
+framework: rules
 ---
 
 2019 और 2022 के बीच, US Customs and Border Protection ने आठ मलेशियाई दस्ताना और पाम ऑयल उत्पादकों से आयात रोक दिया। आदेश हटवाने के लिए कंपनियों ने रोके गए वेतन के रूप में 85 मिलियन अमेरिकी डॉलर से अधिक वापस चुकाए। यही मलेशिया में बलात श्रम अनुपालन की व्यावसायिक वास्तविकता है, और यही कारण है कि यह HR प्रश्न होने से पहले एक व्यापार-प्रश्न है।

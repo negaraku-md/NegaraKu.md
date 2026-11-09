@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "import-duty" }
 related: ["sales-and-service-tax"]
 keywords: ["duti eksais", "excise duty", "Akta Eksais 1976", "cukai kereta", "duti eksais rokok", "cukai gula", "minuman bergula", "JKDM", "kastam"]
+framework: explainer
 ---
 
 말레이시아에서 자동차를 사면 그 자동차 가격에 맞먹는 세금을 낼 수도 있습니다. 그 주된 원인은 좀처럼 논의되지 않지만 매우 강력한 하나의 세금입니다. **물품세(duti eksais)**입니다.

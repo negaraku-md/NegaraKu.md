@@ -84,6 +84,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["foreign-exchange-policy-malaysia", "resident-director-malaysia", "registered-office-malaysia"]
 keywords: ["corporate bank account malaysia", "open company bank account malaysia", "foreign owned company bank account rejected", "bank account KYC malaysia", "enhanced due diligence malaysia"]
+framework: explainer
 ---
 
 この話題を扱う競合他社のページはどれも、「数営業日で口座の準備が整います」で締めくくられる

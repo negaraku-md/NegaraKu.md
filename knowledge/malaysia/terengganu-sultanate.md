@@ -59,6 +59,7 @@ social:
   hashtags: ["TerengganuSultanate", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded:
   - "Exact founding year of the sultanate — sources variously give 1708 (installation by the Johor overlords) and 1724/1725 (full independence); the precise date should be checked against a scholarly history such as Haji Buyong Adil's Sejarah Terengganu."
+framework: history-culture
 ---
 
 Long before any sultan sat on its throne, a slab of granite on a riverbank in the Terengganu interior had already written the state's destiny in stone. The Batu Bersurat Terengganu — the Inscribed Stone of Terengganu — carries a date that reads as the year 1303, and on its weathered faces, in the looping Arabic-derived letters of the [Jawi script](/arts-culture/jawi-script), a ruler commands his people to hold fast to Islam. It is the oldest dated evidence of Jawi writing and of Islamic law anywhere in the Malay world. The sultanate that would eventually bear the land's name arrived more than four centuries later — but the faith it would defend had been carved here first.

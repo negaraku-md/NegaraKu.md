@@ -84,6 +84,7 @@ relations:
   - { rel: "explained-in", to: "akta" }
 related: ["federal-constitution", "parliament", "dewan-negara", "warta-kerajaan"]
 keywords: ["rang undang-undang menjadi akta", "proses penggubalan undang-undang Malaysia", "bacaan pertama kedua ketiga", "perkenan diraja Yang di-Pertuan Agong", "Perkara 66 Perlembagaan Persekutuan", "Dewan Negara rang undang-undang", "pewartaan akta", "Perkara 68 rang undang-undang wang"]
+framework: explainer
 ---
 
 Một dự luật có thể được Dewan Rakyat thông qua, được Dewan Negara chấp thuận, và được đóng Đại Ấn — mà vẫn không ràng buộc bất kỳ ai.

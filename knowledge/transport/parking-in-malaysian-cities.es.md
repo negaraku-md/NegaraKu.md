@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "road-tax-and-vehicle-registration" }
 related: []
 keywords: ["letak kereta", "e-parking", "kompaun letak kereta", "DBKL", "Smart Selangor Parking", "EZ Smart Park"]
+framework: explainer
 ---
 
 Rebuscas monedas en el coche para la máquina expendedora de tiques, pero esas máquinas desaparecieron en 2020. Aparcar en las grandes ciudades de Malasia ahora empieza con un smartphone, no con un frasco de monedas al borde de la carretera.

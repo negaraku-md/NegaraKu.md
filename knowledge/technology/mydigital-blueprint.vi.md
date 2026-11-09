@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "malaysias-telcos-and-5g" }
 related: ["digital-free-trade-zone", "cyberjaya-tech-hub", "malaysias-telcos-and-5g"]
 keywords: ["MyDIGITAL", "Blueprint Ekonomi Digital Malaysia", "Malaysia Digital Economy Blueprint", "ekonomi digital Malaysia", "Malaysia Digital", "MDEC", "Status Malaysia Digital", "MD2030"]
+framework: explainer
 ---
 
 Vào tháng 2 năm 2021, giữa đại dịch COVID-19 buộc hàng triệu người Malaysia chuyển lên trực tuyến, chính phủ đặt một mục tiêu táo bạo lên giấy: biến kinh tế số đóng góp 22.6% vào Tổng sản phẩm Quốc nội (GDP) vào năm 2025. Tài liệu mang mục tiêu đó là Bản thiết kế Kinh tế số Malaysia — xương sống của sáng kiến được biết đến nhiều hơn với tên MyDIGITAL.

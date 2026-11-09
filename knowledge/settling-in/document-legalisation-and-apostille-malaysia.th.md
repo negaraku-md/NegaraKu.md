@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "recognition-of-foreign-qualifications-malaysia" }
 related: []
 keywords: ["legalisasi dokumen", "apostille Malaysia", "pengesahan konsular", "Wisma Putra", "sijil kelahiran asing", "sijil perkahwinan luar negara", "pengesahan ijazah", "JPN dokumen asing"]
+framework: how-to
 ---
 
 คุณมาที่เคาน์เตอร์ JPN พร้อมทะเบียนสมรสที่ออกในต่างประเทศ และเจ้าหน้าที่ปฏิเสธ — ไม่ใช่เพราะมันปลอม แต่เพราะมันยังไม่ได้ "ผ่านการรับรอง" หลายคนสะดุดตรงนี้: เอกสารที่ถูกต้องในประเทศต้นทางไม่ได้หมายความว่าจะยอมรับได้โดยตรงในมาเลเซีย มีห่วงโซ่การรับรองที่ต้องผ่านเสียก่อน

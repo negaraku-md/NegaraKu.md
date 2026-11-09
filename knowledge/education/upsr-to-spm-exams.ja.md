@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "public-vs-private-universities" }
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["UPSR dimansuhkan", "PT3 dimansuhkan", "Pentaksiran Bilik Darjah", "PBD Malaysia", "SPM Malaysia", "Matriks Pembelajaran Malaysia", "Lembaga Peperiksaan", "peperiksaan sekolah Malaysia", "PBS Malaysia"]
+framework: explainer
 ---
 
 お子さんが現在小学6年生（Tahun 6）なら、UPSRを受験することはない。中学3年生（Tingkatan 3）なら、PT3も待っていない。かつて就学の道のり全体を左右した大型試験——保護者自身が大きなプレッシャーの中で経験したかもしれないあの試験——は、数年前からすでに存在しない。しかし多くの保護者は今も戸惑っている。何がそれに取って代わったのか、いずれ復活するのか、そして今、子どもの学校では実際に毎日何が行われているのか。

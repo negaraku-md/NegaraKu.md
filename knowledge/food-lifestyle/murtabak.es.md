@@ -92,6 +92,7 @@ verificationNeeded:
   - "El origen preciso del plato, que es objeto de disputa: las fuentes atribuyen el murtabak de forma diversa a Yemen (con una ruta posterior a través de la India), a comerciantes indios y tamiles musulmanes, y a un plato árabe medieval («mutabbaq»/«mutbaq») registrado en un recetario abasí del siglo XIII. Confírmese con una fuente de historia gastronómica y no con medios de alimentación ni réplicas de enciclopedias."
   - "La etiqueta y la naturaleza de la variante dulce. En Indonesia y Malasia, «martabak Mesir» suele designar una versión salada de huevo y carne, mientras que la tortita doblada dulce se llama por lo general martabak manis (y, en Malasia, apam balik). Si un «murtabak Mesir» dulce distinto o un murtabak de plátano (pisang) es un producto malasio genuino y de venta amplia —frente a una novedad propia de un vendedor concreto o un solapamiento de nombres— requiere una fuente culinaria local."
   - "La afirmación de que el murtabak malasio lleva proporcionalmente más huevo y menos carne picada que las versiones de Singapur o Johor —confírmese con una fuente culinaria comparativa."
+framework: explainer
 ---
 
 Observa cómo se hace un murtabak en un bazar de Ramadán y la mitad del atractivo está en el espectáculo: una

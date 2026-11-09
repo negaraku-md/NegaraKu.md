@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "wau" }
 related: ["wau", "kelantan", "terengganu"]
 keywords: ["gasing", "الغاسينغ", "gasing uri", "gasing pangkah", "الألعاب التقليدية الملايوية", "التراث الوطني", "Kuala Nerus", "gasing Terengganu"]
+framework: history-culture
 ---
 
 الصوت يصل أولاً — خشب ثقيل يضرب خشباً ثقيلاً، تتبعه هتافات. في ساحة قرية حول كوالا نيروس (Kuala Nerus) بترينغانو، تقف مجموعتان متواجهتين. يقذف لاعب نحلته بحبل؛ وأخرى تدور بالفعل، منتظِرةً على الأرض. والفائز ليس الأسرع — بل من تبقى نحلته دائرةً بعد الضربة.

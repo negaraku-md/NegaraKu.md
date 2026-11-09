@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "free-trade-agreements" }
 related: ["sales-and-service-tax", "malaysia-free-trade-agreements"]
 keywords: ["رسوم الاستيراد", "import duty", "customs duty", "HS code", "AHTN", "تصنيف التعريفة", "ATIGA", "Form D", "CIF", "ضريبة المبيعات على الواردات", "Customs Act 1967"]
+framework: explainer
 ---
 
 يمكن لشحنتين متطابقتين أن تصلا إلى ميناء كلانغ وتدفعا رسومًا شديدة التفاوت — لا بسبب محتواهما، بل بسبب الرمز المكوَّن من ثمانية أرقام الذي كتبه أحدهم في الإقرار. فذلك الرمز هو اللعبة بأكملها.

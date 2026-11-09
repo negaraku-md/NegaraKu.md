@@ -90,6 +90,7 @@ verificationNeeded:
   - "Việc mee Jawa của Penang thực sự là một món khác với mee rebus hay chỉ là tên gọi theo vùng của cùng một món, cùng với nước xốt đặc trưng ngọt hơn, phớt màu cà chua của nó — hãy xác minh bằng một nguồn di sản hoặc lịch sử ẩm thực của Penang."
   - "Vai trò và sự hiện diện tương đối của taucheo (tương đậu nành lên men) so với nền tôm khô trong nước xốt, điều thay đổi theo vùng miền và người nấu (một số phiên bản được cho là bỏ hẳn taucheo) — hãy xác minh bằng nhiều nguồn công thức hoặc ẩm thực."
   - "Khẳng định rằng Johor Bahru là 'thủ đô mee rebus' và việc dùng nước dùng bò trong nước xốt Johor, vốn đến từ một bản tin cũ năm 2006 — hãy xác minh bằng một nguồn ẩm thực hoặc di sản Johor hiện nay."
+framework: explainer
 ---
 
 Gọi một phần mee rebus ở Malaysia, bạn sẽ nhận được một đĩa, không phải một tô súp: mì vàng nằm trong lớp nước xốt sánh, bóng, màu như cà phê loãng, rắc thêm trứng, đậu phụ và một lát ớt xanh rực rỡ. Thìa đầu tiên hơi ngọt, rồi đậm đà, rồi cay nhẹ — và một chút nước limau kasturi vắt lên cắt ngang độ béo ngậy. Đây là món hàng quán rẻ, no bụng, và gần như mọi căn bếp người Mã Lai và mamak đều có phiên bản riêng.

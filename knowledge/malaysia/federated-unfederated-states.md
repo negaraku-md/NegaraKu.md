@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "nine-royal-houses" }
 related: ["straits-settlements", "malayan-union", "nine-royal-houses", "malay-sultanate-system"]
 keywords: ["Federated Malay States", "Unfederated Malay States", "British Resident system", "British Adviser system", "Pangkor Treaty 1874", "Resident-General Kuala Lumpur", "Anglo-Siamese Treaty 1909", "Johor General Adviser", "Malay Rulers British protection", "colonial Malaya"]
+framework: explainer
 ---
 
 Nine Malay states, one imperial power — and yet not one arrangement but two. That split is the thing most summaries of colonial Malaya skip past, and it is the whole point of this article.

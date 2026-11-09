@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "minute-books-and-records" }
 related: ["remove-a-director", "minute-books-and-records", "resolution-notice-periods", "board-meetings-and-minutes"]
 keywords: ["القرار المكتوب", "written resolution Malaysia", "المادة 297 قانون الشركات 2016", "section 297 Companies Act 2016", "القرار التعميمي Sdn Bhd", "القرار الخاص كتابةً", "عزل مدير بقرار مكتوب"]
+framework: explainer
 ---
 
 معظم قرارات مساهمي شركات Sdn Bhd في ماليزيا لا تتضمن اجتماعًا قط. تُوقَّع

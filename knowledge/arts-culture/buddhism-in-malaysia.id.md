@@ -69,6 +69,7 @@ faq:
     a: Tidak akurat. Orang Tionghoa memang mayoritas penganutnya, sebagian besar menganut Buddhisme Mahayana; tetapi masyarakat keturunan Siam, Sri Lanka, dan Myanmar menjalankan aliran tersendiri yang terpisah — Buddhisme Theravada, yang kuilnya disebut Wat, dengan masyarakat Siam di negara-negara bagian utara memiliki sejarah terpanjang. Selain itu ada pula Vajrayana yang lebih kecil. Menyamakan Buddhisme di Malaysia dengan agama orang Tionghoa mengabaikan tradisi-tradisi paralel ini.
   - q: Apa yang diperingati pada Wesak? Apakah itu hari libur umum?
     a: Wesak (Hari Wesak) memperingati kelahiran, pencerahan, dan wafatnya Buddha menuju nirwana, dan merupakan hari libur umum di seluruh Malaysia. Para penganut pergi ke kuil untuk mempersembahkan bunga, menyalakan pelita, dan bersedekah. Kebebasan beragama dilindungi oleh Pasal 11 Konstitusi Federal; meskipun Pasal 3 menetapkan Islam sebagai agama Federasi, hal itu tidak menghalangi agama lain untuk dijalankan secara damai.
+framework: history-culture
 ---
 
 Di lereng bukit Pulau Pinang, bayangan pagoda Kek Lok Si menatap George Town; di

@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: []
 keywords: ["Laut China Selatan", "Batu Puteh", "Pedra Branca", "Sabah", "UNCLOS", "kedaulatan", "pertikaian maritim", "Spratly"]
+framework: explainer
 ---
 
 학교 벽에 걸린 말레이시아 지도는 고요하고 확정적으로 보입니다 — 그러나 그 바다 국경에서 그 선들은 여전히 협상 테이블과 국제 법정에서 논의되고 있습니다. 말레이시아에는 완전히 해결되지 않은 세 가지 영토 및 해양 문제가 있으며, 각각은 서로 다른 방식으로 관리됩니다: 하나는 법정에서, 하나는 유엔 위원회에서, 그리고 하나는 의도적으로 잠복 상태로 남겨진 것입니다.

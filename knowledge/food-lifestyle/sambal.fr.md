@@ -94,6 +94,7 @@ verificationNeeded:
   - "L'origine et l'étymologie du sambal — le mot est largement rattaché au « sambel » javanais/vieux-javanais, et le condiment à l'Asie du Sud-Est maritime, mais des sources sérieuses qualifient son émergence exacte d'incertaine et décrivent le sambal, selon la source, comme « indonésien » ou « malaisien ». À confirmer auprès d'une source linguistique ou d'histoire culinaire plutôt que des médias gastronomiques, et à garder sous une formulation prudente."
   - "L'article « Sambal » de la Wikipédia anglophone portait un bandeau de maintenance signalant qu'il contient du texte généré par machine en cours de relecture ; les attributions précises qui en sont tirées (p. ex. la diffusion régionale du sambal tempoyak vers Pahang, Perak et Brunei) devraient être reconfirmées auprès d'une source indépendante."
   - "Savoir si le sambal matah est à proprement parler un sambal malaisien ou une importation balinaise/indonésienne entrée dans les menus malaisiens — les sources le présentent comme d'origine balinaise ; confirmer son statut avant de le décrire comme faisant partie du répertoire malaisien."
+framework: explainer
 ---
 
 Demandez à un Malaisien ce qui donne à un repas le goût de la maison, et la

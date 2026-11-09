@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "estate-planning-in-malaysia" }
 related: []
 keywords: ["testament", "homologation", "probate", "succession", "héritage", "Distribution Act 1958", "Wills Act 1959", "lettres d'administration", "non-musulman"]
+framework: explainer
 ---
 
 Laisser des biens sans testament ne signifie pas que votre famille est libre de décider qui reçoit quoi. En Malaisie, une formule juridique rigide prend le relais — et elle peut ne pas correspondre à vos souhaits. Pour les non-musulmans, trois lois déterminent tout : la Wills Act 1959 (comment établir un testament), la Probate and Administration Act 1959 (comment une succession est administrée) et la Distribution Act 1958 (qui hérite lorsqu'il n'y a pas de testament).

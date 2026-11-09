@@ -88,6 +88,7 @@ keywords:
   - "minority shareholder rights Malaysia"
   - "drag along tag along Sdn Bhd"
   - "perjanjian pemegang saham"
+framework: explainer
 ---
 
 二人の創業者が二十ページの株主間契約に署名する。それは二人それぞれに取締役の議席、

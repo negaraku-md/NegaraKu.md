@@ -65,6 +65,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-expansion-2025", "sst-registration", "sst-02-filing"]
 keywords: ["SST B2B exemption", "service tax B2B Malaysia", "business to business exemption service tax", "same taxable service exemption"]
+framework: rules
 ---
 
 The B2B exemption fails on the same condition almost every time: the service

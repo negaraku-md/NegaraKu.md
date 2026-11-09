@@ -82,6 +82,7 @@ keywords:
   - "kad pengenalan JPN warna"
   - "MyKid kanak-kanak"
   - "kad pengenalan warga asing Malaysia"
+framework: explainer
 ---
 
 De nombreux étrangers qui ont déjà passé des années en Malaisie — mariés à une

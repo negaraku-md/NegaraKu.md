@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "mm2h-long-stay-visa" }
 related: ["mm2h-long-stay-visa"]
 keywords: ["elderly care Malaysia", "nursing home Malaysia", "Rumah Seri Kenangan", "Rumah Ehsan", "geriatric care Malaysia", "PeKa B40", "aged care Malaysia", "Care Centres Act 1993", "warga emas", "long-term care Malaysia"]
+framework: explainer
 ---
 
 그 순간은 대개 조용히 옵니다. 혼자서도 잘 지내던 부모가 가스레인지를 켜 놓은 것을 잊기 시작하거나, 너무 자주 넘어지고, 이를 결코 계획하지 않았던 가족이 다음에 무엇을 할지 서둘러 결정해야 합니다. 말레이시아에는 이를 위한 체계가 있습니다 — 다만 이미 고령자를 진료하는 보건 클리닉과, 대부분의 가족이 찾아 나서야 비로소 발견하는 복지 체계로 나뉘어 있을 뿐입니다.

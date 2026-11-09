@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["population-composition", "religion-statistics", "languages-spoken", "batik"]
 keywords: ["农历新年", "华人新年", "春节", "团圆饭", "红包", "压岁钱", "舞狮", "捞生", "鱼生", "十五暝", "Chap Goh Meh", "开放门户", "马来西亚华人", "公共假期", "Chinese New Year Malaysia"]
+framework: history-culture
 ---
 
 On New Year's Eve, many shops close early and the highways fill with cars heading toward hometowns. By evening, the family gathers around one table — fish on it (for "surplus every year"), a whole chicken, meatballs symbolising reunion, and a cold tossed yee sang dish meant to be lifted high with chopsticks. This New Year's Eve reunion dinner is regarded by many Malaysian Chinese families as more important than the first day of the new year itself.

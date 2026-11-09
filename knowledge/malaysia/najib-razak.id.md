@@ -70,6 +70,7 @@ sources:
 
 related: ["1mdb-scandal", "prime-ministers-of-malaysia", "2018-change-of-government", "mahathir-mohamad", "anwar-ibrahim"]
 keywords: ["Najib Razak", "Mohd Najib Abdul Razak", "perdana menteri keenam Malaysia", "1MDB", "SRC International"]
+framework: profile
 ---
 
 > **Draf — sensitif.** Artikel ini adalah ringkasan netral yang masih dalam

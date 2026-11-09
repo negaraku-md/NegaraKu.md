@@ -67,6 +67,7 @@ relations:
   - { rel: "part-of", to: "jendela" }
 related: ["mobile-sim-plans"]
 keywords: ["unifi malaysia", "maxis fibre home", "time fibre broadband", "fibre internet malaysia", "JENDELA MCMC", "home broadband coverage check malaysia", "install fibre internet malaysia", "unifi vs maxis vs time"]
+framework: decision
 ---
 
 在你比较哪怕一令吉的价格之前，有一个更要紧的问题：光纤到底有没有接到你家门口？

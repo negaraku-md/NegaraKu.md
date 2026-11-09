@@ -105,6 +105,7 @@ keywords:
   - "DBP Sah Bahasa"
   - "Bahasa Malaysia signboard rule"
   - "signboard licence fee DBKL"
+framework: rules
 ---
 
 多くのガイドは、[国語・文学局](/arts-culture/dewan-bahasa-dan-pustaka)（Dewan Bahasa dan Pustaka、DBP）が看板の用字を承認しなければならない都市はクアラルンプールだと、あたかもKL特有の癖であるかのように説明する。

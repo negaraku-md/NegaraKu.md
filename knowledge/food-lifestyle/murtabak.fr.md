@@ -92,6 +92,7 @@ verificationNeeded:
   - "L'origine précise du plat, qui est contestée : les sources rattachent le murtabak tantôt au Yémen (avec un itinéraire ultérieur passant par l'Inde), à des marchands indiens et tamouls musulmans, et à un plat arabe médiéval (« mutabbaq »/« mutbaq ») consigné dans un livre de cuisine abbasside du XIIIe siècle. À confirmer auprès d'une source d'histoire culinaire plutôt que des médias gastronomiques ou de copies d'encyclopédies."
   - "L'appellation et la nature de la variante sucrée. En Indonésie et en Malaisie, « martabak Mesir » désigne en général une version salée aux œufs et à la viande, tandis que la crêpe pliée sucrée est généralement appelée martabak manis (et, en Malaisie, apam balik). Savoir si un « murtabak Mesir » sucré distinct ou un murtabak à la banane (pisang) est un produit malaisien authentique et largement vendu — par opposition à une nouveauté propre à un vendeur ou à un chevauchement de noms — nécessite une source culinaire locale."
   - "L'affirmation selon laquelle le murtabak malaisien contient, en proportion, plus d'œuf et moins de viande hachée que les versions singapourienne ou de Johor — à confirmer auprès d'une source culinaire comparative."
+framework: explainer
 ---
 
 Regardez un murtabak se faire dans un bazar du ramadan et la moitié de l'attrait tient au spectacle : une boule de

@@ -121,6 +121,7 @@ keywords:
   - "SSM enterprise registration fee"
   - "ROBA 1956 30 days"
   - "trade name vs personal name SSM"
+framework: how-to
 ---
 
 The thirty days have usually already gone.

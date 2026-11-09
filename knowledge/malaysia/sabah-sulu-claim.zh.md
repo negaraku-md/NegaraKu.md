@@ -95,6 +95,7 @@ relations:
   - { rel: "located-in", to: "sabah" }
 related: ["sabah"]
 keywords: ["Sabah claim", "Sulu Sultanate", "Lahad Datu", "1878 agreement", "North Borneo", "Sulu arbitration", "Philippines Sabah"]
+framework: explainer
 ---
 
 写入1878年一份殖民时代合约中的一个马来词，至今仍左右着一场活跃的外交争端、一次致命的2013年武装入侵，以及一宗涉及数十亿美元、辗转于马德里、卢森堡、海牙和巴黎法庭的仲裁。那个词就是 *padjak*，而它如何被翻译，正是沙巴究竟是被出租还是被让与这一问题的核心所在。

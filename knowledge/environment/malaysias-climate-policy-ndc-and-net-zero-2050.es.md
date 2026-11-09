@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "department-of-environment-doe" }
 related: ["department-of-environment-doe", "malaysias-rainforests-and-permanent-forest-reserves"]
 keywords: ["Malaysia NDC 3.0", "net zero 2050 Malaysia", "Climate Change Act Malaysia", "National Climate Change Policy 2.0", "Paris Agreement Malaysia", "emissions trading scheme", "carbon tax Malaysia", "NRES", "UNFCCC", "política climática de Malasia", "cero neto 2050", "impuesto sobre el carbono"]
+framework: explainer
 ---
 
 Durante casi una década Malasia midió su promesa climática de una manera que casi ningún ciudadano podía sentir: emisiones por unidad de PIB. En octubre de 2025 eso cambió. El país dijo a las Naciones Unidas que recortaría un tonelaje fijo de gases de efecto invernadero — de 15 a 30 millones de toneladas — desde el nivel al que lleguen a su pico sus emisiones. Es la primera vez que Malasia pone sobre la mesa una cifra absoluta, y replantea cada otra pieza de la arquitectura climática del país en torno a una sola pregunta: ¿cómo dobla hacia abajo su curva de emisiones una economía en desarrollo de rápido crecimiento y productora de petróleo y gas sin frenarse?

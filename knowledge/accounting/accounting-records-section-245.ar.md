@@ -97,6 +97,7 @@ relations:
   - { rel: "affects", to: "after-audit-exemption" }
 related: ["after-audit-exemption", "audit-exemption", "minute-books-and-records", "unaudited-financial-statements"]
 keywords: ["المادة 245 قانون الشركات 2016", "Section 245 Companies Act 2016", "السجلات المحاسبية ماليزيا", "accounting records Malaysia", "حفظ السجلات المحاسبية 7 سنوات", "60 يوماً للقيود المحاسبية", "عقوبة السجلات المحاسبية ماليزيا"]
+framework: rules
 ---
 
 تقول كل الأدلة الماليزية تقريباً عن السجلات المحاسبية الشيء نفسه: احتفظ بها

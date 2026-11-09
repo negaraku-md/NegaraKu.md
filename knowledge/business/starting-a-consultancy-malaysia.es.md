@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "freelancer-and-gig-tax" }
 related: ["sole-prop-vs-sdn-bhd"]
 keywords: ["iniciar una consultoría malasia", "negocio de consultoría malasia", "firma de servicios profesionales malasia", "registrar consultor freelance malasia", "impuesto sobre servicios consultoría malasia", "LLP vs sdn bhd consultoría", "licencia profesión regulada malasia"]
+framework: how-to
 ---
 
 La consultoría parece el negocio más fácil de iniciar — sin local, sin inventario, solo tu experiencia y un portátil. Y para un consultor de gestión general, casi lo es: regístrate ante la SSM y ya estás operando. Pero dos cosas hacen tropezar a la gente. Primera, si tu «consultoría» es en realidad una *profesión regulada*, un registro de negocio no basta — necesitas una licencia para ejercer. Segunda, la entidad que elijas y el impuesto bajo el que caigas importan más para una firma de servicios que para casi cualquier otro negocio, porque tus ingresos *son* el negocio.

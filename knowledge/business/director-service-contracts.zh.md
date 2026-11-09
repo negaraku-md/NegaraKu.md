@@ -76,6 +76,7 @@ keywords:
   - "is a director an employee Malaysia"
   - "directors fees approval Sdn Bhd"
   - "compensation for loss of office section 227"
+framework: explainer
 ---
 
 向一家马来西亚公司索取其执行董事的雇佣合约，你通常会拿到一份文件。再问一句：如果

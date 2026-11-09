@@ -99,6 +99,7 @@ social:
     - "Mamak"
     - "MalaysianFood"
     - "NegaraKuMD"
+framework: explainer
 ---
 
 मलेशिया की किसी सुबह में उतनी ख़ास कुछ ही आवाज़ें होती हैं जितनी गरम स्टील के तवे पर आटे के थपकने और

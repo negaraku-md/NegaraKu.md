@@ -91,6 +91,7 @@ verificationNeeded:
   - "Sama ada tambahan nasi (dan sayur) benar-benar 'tanpa had' di kedai nasi daun pisang Malaysia — ini kerap dinyatakan dalam media makanan tetapi penerangan tradisi India Selatan menyebut dua hidangan nasi. Dasar berbeza mengikut restoran; sahkan terhadap amalan restoran atau sumber makanan yang boleh dipercayai."
   - "Keutamaan Pulau Pinang (berbanding Brickfields di Kuala Lumpur) sebagai pusat nasi daun pisang — tidak disahkan secara langsung dalam sumber yang dirujuk; sahkan terhadap sumber makanan atau pelancongan khusus Pulau Pinang."
   - "Atribusi komuniti yang tepat ('Tamil' berbanding 'India Selatan' yang lebih luas) bagi asal usul hidangan ini dan kedatangannya ke Malaysia — sahkan dengan sumber sejarah migrasi atau warisan masakan."
+framework: explainer
 ---
 
 Duduk di sebuah kedai nasi daun pisang di Malaysia dan tiada pinggan yang

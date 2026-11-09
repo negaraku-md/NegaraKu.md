@@ -72,6 +72,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-act-1955-guide", "working-hours-overtime-malaysia", "employment-contract-malaysia"]
 keywords: ["flexible working arrangement malaysia", "fwa malaysia employment act", "section 60p 60q", "work from home request malaysia", "flexible work application malaysia"]
+framework: rules
 ---
 
 Hầu hết các bài viết Malaysia về làm việc linh hoạt mô tả nó là một phúc lợi mà người sử dụng lao động có thể chọn cung cấp. Cách hiểu đó bỏ lỡ hoàn toàn điểm mấu chốt của Phần XIIC. Đạo luật không tạo ra một quyền được làm việc linh hoạt. Nó tạo ra một **nghĩa vụ trả lời**, bằng văn bản, trong một thời hạn cố định — và nghĩa vụ đó có thể được thực thi bất kể câu trả lời có phải là có hay không.

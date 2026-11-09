@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-vs-tax-invoice" }
 related: ["myinvois-phases", "myinvois-integration", "e-invoice-data-fields", "consolidated-e-invoice", "self-billed-e-invoice", "e-invoice-vs-tax-invoice", "e-invoice-accounting-records"]
 keywords: ["e-Invoice Malaysia", "MyInvois", "e-invois LHDN", "मलेशिया e-invoicing चरण", "MyInvois सत्यापन"]
+framework: journey-hub
 ---
 
 पहले कोई चालान इसलिए वैध होता था क्योंकि आपने उसे जारी किया। e-Invoice अधिदेश के

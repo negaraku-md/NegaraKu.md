@@ -74,6 +74,7 @@ faq:
     a: Porque la VOC ya tenía una capital regional construida ex profeso en Batavia (Yakarta), establecida mucho antes de 1641, y nunca pretendió que Melaka compitiera con su propia sede. La prioridad de la compañía era negar el puerto y su estrecho a las potencias europeas rivales, no construir un entrepôt competidor. Los cupos de estaño se desviaron a Batavia, a los gobernadores de Melaka se les negó mayor margen comercial, y el puerto se mantuvo como una ciudad de guarnición y administración subordinada.
   - q: ¿Pasó Melaka de los neerlandeses a los británicos en una sola entrega limpia?
     a: No. Cambió de manos administrativamente cuatro veces en treinta años. Gran Bretaña ocupó Melaka en 1795 en virtud de las Cartas de Kew (Kew Letters) para evitar que cayera en manos de Francia, Melaka fue devuelta a los neerlandeses en 1818, el Tratado Anglo-Neerlandés de 1824 (firmado el 17 de marzo de 1824) la cedió de forma permanente a Gran Bretaña a cambio de Bencoolen en Sumatra, y la transferencia efectiva entró en vigor el 1 de marzo de 1825.
+framework: history-culture
 ---
 
 Una compañía dedica siete meses y una alianza con un sultanato extranjero a conquistar un puerto. Luego dedica el siguiente siglo y medio a asegurarse de que ese puerto nunca se enriquezca.

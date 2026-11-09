@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["bangsawan", "opera Melayu", "teater Parsi", "Wayang Parsi", "Pushi Indera Bangsawan", "teater peralihan", "filem Melayu"]
+framework: history-culture
 ---
 
 Trước khi có phim ảnh, đã có sân khấu thắp đèn, tấm màn vẽ tay, và một dàn nhạc có thể chuyển từ những khúc du dương của cung đình Mã Lai sang nhịp điệu Trung Đông trong cùng một đêm diễn. Đó là bangsawan — opera sân khấu từng là hình thức giải trí đô thị sôi động nhất ở Bán đảo, và về sau đã trao các diễn viên cùng ca sĩ của mình cho ngành điện ảnh Mã Lai vừa mới ra đời.

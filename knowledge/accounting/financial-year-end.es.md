@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "financial-statement-pack" }
 related: ["audit-exemption", "audit-exemption-thresholds", "basis-period-and-accounting-date", "myinvois-phases", "financial-statement-pack", "financial-statements-lodgement", "sdn-bhd-first-year-compliance", "form-c-and-cp204"]
 keywords: ["cierre de ejercicio Malasia", "cambiar cierre de ejercicio Sdn Bhd", "FYE Malasia", "cambio periodo base fecha contable", "exención de auditoría tres años", "18 meses primeros estados financieros", "artículo 247 ejercicio sociedad holding"]
+framework: decision
 ---
 
 Elegir un cierre de ejercicio parece una decisión administrativa. Suele tomarse en la

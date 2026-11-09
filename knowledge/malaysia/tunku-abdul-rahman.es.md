@@ -66,6 +66,7 @@ social:
 verificationNeeded:
   - "SENSIBLE: atañe a los disturbios raciales del 13 de mayo de 1969 (raza) y a los Gobernantes malayos (realeza). Todas las caracterizaciones se resumen de forma neutral; reverifíquese frente a fuentes primarias y obténgase la aprobación de un revisor humano cualificado antes de la publicación."
   - "Confírmense las fechas exactas (mandato, nacimiento, muerte) frente a la Perdana Leadership Foundation y la Oficina del Primer Ministro."
+framework: profile
 ---
 
 En la mañana del 31 de agosto de 1957, ante un Estadio Merdeka abarrotado en Kuala

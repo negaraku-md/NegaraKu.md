@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "dta-network" }
 related: ["company-tax-residence", "dta-network", "withholding-tax-rates"]
 keywords: ["certificate of residence Malaysia", "e-Residence LHDN", "sijil taraf mastautin", "COR Malaysia tax", "Form STM1"]
+framework: how-to
 ---
 
 The certificate is not proof that you are Malaysian. It is proof that a specific

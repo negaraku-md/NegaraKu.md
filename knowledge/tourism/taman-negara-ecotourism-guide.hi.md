@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "gunung-tahan" }
 related: ["orang-asli"]
 keywords: ["तामान नेगारा", "कुआला ताहान", "कैनोपी वॉकवे", "गुनुंग ताहान", "taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
+framework: explainer
 ---
 
 भोर में कुआला ताहान घाट पर खड़े होकर, हिमालय से पुरानी एक नदी से कोहरा उठते देखते हुए, यह भूल जाना आसान है कि आप कुआलालंपुर से बमुश्किल आधे दिन की दूरी पर हैं। तामान नेगारा कोई निर्मित आकर्षण नहीं है। यह एक जीवित उष्णकटिबंधीय वर्षावन है जो मोटे तौर पर अछूता, करोड़ों सालों से खड़ा रहा है — और इसमें प्रवेश करना लगभग किसी भी यात्री की अपेक्षा से सस्ता और सरल है।

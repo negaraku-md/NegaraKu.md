@@ -108,6 +108,7 @@ keywords:
   - "director duties Malaysia"
   - "nominee director Malaysia"
   - "director disqualification Malaysia"
+framework: rules
 ---
 
 总有一天会有人来跟你说：「就挂个董事嘛，签个名而已。」

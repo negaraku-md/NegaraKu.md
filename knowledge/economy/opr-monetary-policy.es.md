@@ -66,6 +66,7 @@ faq:
     a: 'Ambos se mueven en el mismo sentido, pero no de forma simétrica. El artículo señala una asimetría que conviene conocer: los tipos de los préstamos tienden a subir con rapidez y a bajar con lentitud, mientras que los de los depósitos tienden a lo contrario, reajustándose más despacio y de forma menos completa que los préstamos. Lo describe como una realidad comercial de los márgenes bancarios, más que como una regla.'
   - q: ¿Significa una decisión de 'sin cambios' en la OPR que el Comité de Política Monetaria no hizo nada?
     a: 'No: mantener el tipo sigue siendo una decisión. El Comité de Política Monetaria se reúne seis veces al año según un calendario publicado, y una larga sucesión de decisiones sin cambios refleja la valoración de que la inflación está lo bastante contenida como para no exigir un endurecimiento y el crecimiento es lo bastante sólido como para no requerir apoyo. El comunicado que la acompaña suele señalar el sesgo del comité.'
+framework: explainer
 ---
 
 ## De un vistazo

@@ -82,6 +82,7 @@ keywords:
   - "kad pengenalan JPN warna"
   - "MyKid kanak-kanak"
   - "kad pengenalan warga asing Malaysia"
+framework: explainer
 ---
 
 ชาวต่างชาติจำนวนมากที่อยู่ในมาเลเซียมาหลายปี — แต่งงานกับคนท้องถิ่น เลี้ยงลูก

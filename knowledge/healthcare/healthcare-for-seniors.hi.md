@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "mm2h-long-stay-visa" }
 related: ["mm2h-long-stay-visa"]
 keywords: ["मलेशिया बुज़ुर्ग देखभाल", "मलेशिया नर्सिंग होम", "Rumah Seri Kenangan", "Rumah Ehsan", "मलेशिया जराचिकित्सा देखभाल", "PeKa B40", "मलेशिया वृद्ध देखभाल", "Care Centres Act 1993", "warga emas", "मलेशिया दीर्घकालिक देखभाल"]
+framework: explainer
 ---
 
 यह क्षण आमतौर पर चुपचाप आता है। जो माता-पिता अकेले ठीक से सँभाल लेते थे, वे गैस

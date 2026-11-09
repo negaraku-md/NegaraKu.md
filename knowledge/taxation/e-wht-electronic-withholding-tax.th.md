@@ -85,6 +85,7 @@ social:
     - MyTax
     - DoingBusinessInMalaysia
     - MalaysiaCompliance
+framework: how-to
 ---
 
 หลายปีที่ผ่านมา การชำระภาษีหัก ณ ที่จ่ายหมายถึงแบบ CP37 กระดาษ เช็คหรือใบนำฝาก และการเดินทางไปที่

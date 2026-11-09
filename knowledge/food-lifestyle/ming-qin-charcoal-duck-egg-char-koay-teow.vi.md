@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#MingQin", "#CharKoayTeow", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 Trên phần đất liền của Penang ở Bukit Mertajam, một quầy mì buổi tối giản dị đã

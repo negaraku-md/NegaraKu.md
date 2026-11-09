@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "how-malaysian-healthcare-works" }
 related: ["how-malaysian-healthcare-works", "government-hospitals"]
 keywords: ["pendermaan organ", "derma organ", "transplan", "NTRC", "ikrar penderma", "fatwa organ", "kematian otak", "MySejahtera"]
+framework: explainer
 ---
 
 マレーシアでは毎年、数千人の患者が、二度と来ないかもしれない一本の電話を待ち続けている——自分の命を救う臓器がついに見つかったと告げる電話である。その長い待機リストの背後には、一つの逆説が存在する。数十万人の国民が臓器提供の意思を登録しているにもかかわらず、実際に実現する意思登録はそのごく一部にすぎない。

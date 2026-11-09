@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "jkkk-village-safety-committee" }
 related: ["pdrm"]
 keywords: ["rukun tetangga", "skim rondaan sukarela", "SRS", "KRT", "kepolisan komuniti", "JPNIN", "Akta 751", "keselamatan kejiranan"]
+framework: explainer
 ---
 
 The night-time street lamps in a housing estate are often partly obscured by two or three people on bicycles or on foot with torchlights — neighbours patrolling their own area. They are not police. They are members of the Voluntary Patrol Scheme, and they represent the first layer of crime prevention in most Malaysian neighbourhoods: a community watching over its own community, continuously alongside the Royal Malaysia Police (PDRM).

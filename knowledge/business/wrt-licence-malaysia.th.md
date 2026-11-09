@@ -100,6 +100,7 @@ keywords:
   - "foreign owned company Malaysia licence"
   - "WRT paid up capital"
   - "WRT employment pass"
+framework: rules
 ---
 
 ค้นหาใบอนุญาต WRT แล้วคุณจะถูกบอก อย่างมั่นใจและซ้ำแล้วซ้ำเล่า ว่ามันต้องการทุนชำระแล้ว RM1 ล้าน

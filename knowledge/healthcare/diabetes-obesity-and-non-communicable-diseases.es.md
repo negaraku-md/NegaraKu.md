@@ -74,6 +74,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-health" }
 related: []
 keywords: ["diabetes", "obesidad", "ENT", "enfermedades no transmisibles", "NHMS 2023", "impuesto al azúcar", "PeKa B40", "Logo de Elección Más Saludable", "cribado de salud"]
+framework: explainer
 ---
 
 Más de la mitad de los adultos de Malasia cargan hoy con un peso que podría acortarles la vida — y uno de cada seis ya vive con diabetes, muchos sin darse cuenta. Esta es la epidemia silenciosa que agobia a los hospitales, las familias y la economía nacional mucho más que cualquier enfermedad infecciosa.

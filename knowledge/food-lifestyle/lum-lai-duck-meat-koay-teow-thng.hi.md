@@ -78,6 +78,7 @@ related:
   - "malaysian-noodles"
 social:
   hashtags: ["KoayTeowThng", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 जॉर्ज टाउन के बत्तख-नूडल स्टॉलों में से एक क़तारों का चुंबक बन गया है: एक बाज़ार

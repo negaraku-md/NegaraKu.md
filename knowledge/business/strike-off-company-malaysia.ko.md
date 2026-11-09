@@ -100,6 +100,7 @@ relations:
   - { rel: "requires", to: "annual-return" }
 related: ["close-a-company", "members-voluntary-winding-up", "creditors-voluntary-winding-up", "ssm-fees-malaysia", "annual-return"]
 keywords: ["strike off company malaysia", "section 550 companies act 2016", "section 555 reinstatement", "tutup syarikat ssm", "deregister sdn bhd", "SSM striking off guidelines"]
+framework: explainer
 ---
 
 회사를 어떻게 말소하는지 묻는 대부분의 사람들은 사실 회사에 돈을 쓰는 것을 어떻게

@@ -65,6 +65,7 @@ sources:
 
 related: ["najib-razak", "anwar-ibrahim", "barisan-nasional", "2018-change-of-government", "how-elections-work"]
 keywords: ["GE13", "elecciones generales 2013 Malasia", "Barisan Nasional", "Pakatan Rakyat", "voto popular"]
+framework: history-culture
 ---
 
 > **Borrador — sensible.** Este artículo es un resumen neutral y en elaboración que

@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["employment-act-1955", "socso-perkeso"]
 keywords: ["OKU", "orang kurang upaya", "Akta 685", "Seksyen 29", "kuota 1%", "Kad OKU", "potongan cukai berganda", "pekerjaan inklusif"]
+framework: explainer
 ---
 
 OKU ที่มีคุณสมบัติจำนวนมากในมาเลเซียเผชิญกับช่องว่างที่แท้จริงในการได้รับโอกาสการทำงานและการสัมภาษณ์ — และนั่นคือช่องว่างที่กฎหมายพยายามปิด มาเลเซียมีกรอบสิทธิการจ้างงานสำหรับคนพิการ (OKU) ตั้งแต่ปี 2008 พร้อมสิทธิประโยชน์ทางภาษีสำหรับนายจ้าง แต่ตัวเลขการจ้างยังต่ำกว่าเป้าหมาย คู่มือนี้อธิบายว่ากฎหมายกำหนดอะไรจริง ๆ และนายจ้างสามารถเรียกร้องอะไรได้

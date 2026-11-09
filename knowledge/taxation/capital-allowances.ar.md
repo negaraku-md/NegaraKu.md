@@ -136,6 +136,7 @@ relations:
   - { rel: "related-to", to: "non-deductible-expenses" }
 related: ["losses-and-group-relief", "form-c-and-cp204", "basis-period-and-accounting-date"]
 keywords: ["البدلات الرأسمالية ماليزيا", "الجدول 3 قانون ضريبة الدخل 1967", "البدل الأولي البدل السنوي", "رسم الموازنة ماليزيا", "capital allowance malaysia", "schedule 3 income tax act 1967", "balancing charge malaysia", "small value asset RM2000", "qualifying plant expenditure"]
+framework: explainer
 ---
 
 قيد الاستهلاك في حساباتك لا يساوي شيئاً لدى الهيئة الماليزية للإيرادات الداخلية (LHDN). فالفقرة 39(1)(e) من قانون ضريبة الدخل لسنة 1967 لا تجيز أي نفقات تُعَدّ نفقات مؤهِّلة لأغراض الجدول 3 — فيُضاف قيد المحاسبة بالكامل مرة أخرى، ويقرّر الجدول 3، وفق شروطه الخاصة، كم من الإعفاء يكسبه الأصل فعلاً ومتى.

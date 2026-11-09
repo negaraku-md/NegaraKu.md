@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "having-a-baby-in-malaysia" }
 related: ["klinik-kesihatan", "having-a-baby-in-malaysia"]
 keywords: ["vaccination infantile Malaisie", "Calendrier national de vaccination", "Programme national de vaccination KKM", "vaccins gratuits clinique de santé", "carnet de santé du nourrisson et de l'enfant", "vaccins infantiles KKM", "Immunise4Life Malaysia", "vaccination gratuite Malaisie"]
+framework: explainer
 ---
 
 Chaque bébé né dans une clinique ou un hôpital public en Malaisie rentre chez lui avec bien plus qu'un certificat de naissance temporaire — il rentre avec un petit carnet qui sera présenté à *chaque* visite en clinique pendant les six années suivantes. Ce carnet, et le calendrier de vaccination qu'il consigne, fait partie de l'un des programmes de santé publique les plus anciens du pays.

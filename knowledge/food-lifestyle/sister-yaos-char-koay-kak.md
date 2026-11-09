@@ -77,6 +77,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["CharKoayKak", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 Char koay kak is a hawker insider's dish — cubes of rice cake charred in a

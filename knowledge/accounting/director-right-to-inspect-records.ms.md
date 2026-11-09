@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "directors-duties" }
 related: ["accounting-records-section-245", "directors-duties"]
 keywords: ["hak pengarah memeriksa rekod perakaunan Malaysia", "seksyen 245(4) Akta Syarikat 2016", "pemeriksaan rekod anak syarikat oleh pengarah", "pertikaian pemegang saham rekod syarikat Malaysia"]
+framework: explainer
 ---
 
 Dalam pertikaian pemegang saham, tembakan pertama jarang berupa petisyen. Ia adalah

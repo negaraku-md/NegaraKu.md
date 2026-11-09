@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "applying-for-malaysian-citizenship-article-15" }
 related: []
 keywords: ["kewarganegaraan keturunan", "Perkara 14(1)(b)", "Borang D", "lahir luar negara", "JPN", "Jadual Kedua", "pindaan perlembagaan 2024", "Perkara 15(2)"]
+framework: explainer
 ---
 
 ทารกคนหนึ่งเกิดในโรงพยาบาลแห่งหนึ่งในลอนดอน (London) กับคู่สามีภรรยาชาวมาเลเซียที่ปฏิบัติงานอยู่ที่นั่น ใบสูติบัตรท้องถิ่นระบุว่าทารกเกิดในสหราชอาณาจักร (United Kingdom) แต่ภายใต้กฎหมายมาเลเซียเขาอาจเป็นพลเมืองอยู่แล้ว — ตราบใดที่สถานะนั้นได้รับการบันทึกอย่างถูกต้อง สถานะนั้นได้รับการรับรองอย่างไร และใครมีสิทธิ์ เป็นคำถามที่แตะบทบัญญัติพื้นฐานของรัฐธรรมนูญสหพันธ์

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "article-152-language" }
 related: ["bahasa-melayu", "languages-spoken", "article-152-language"]
 keywords: ["Manglish", "Malaysian English", "lah particle", "discourse particles Malaysian English", "Malaysian English grammar", "code-switching Malaysia", "acrolect mesolect basilect", "Oxford English Dictionary Malaysian words", "bahasa rojak", "Malaysian slang"]
+framework: explainer
 ---
 
 "Can or not?" "Wait ah, later confirm lor." "Don't play play, I already tell you."

@@ -113,6 +113,7 @@ relations:
   - { rel: "governs", to: "employment" }
 related: ["labour-law-map-malaysia", "new-hire-statutory-checklist", "employee-vs-contractor-malaysia"]
 keywords: ["OSHA 1994 मलेशिया", "OSH समन्वयक मलेशिया", "व्यावसायिक सुरक्षा एवं स्वास्थ्य अधिनियम नियोक्ता कर्तव्य", "सुरक्षा एवं स्वास्थ्य समिति 40 कर्मचारी", "OSHA संशोधन 2022", "osha 1994 malaysia", "osh coordinator malaysia", "osha amendment 2022"]
+framework: rules
 ---
 
 किसी मलेशियाई SME से पूछें कि क्या OSHA उस पर लागू होता है और उत्तर आमतौर पर नहीं होता — वह तो

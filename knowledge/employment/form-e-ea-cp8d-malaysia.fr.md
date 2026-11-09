@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "pcb-mtd-malaysia" }
 related: ["payroll-rates-deadlines-malaysia", "payroll-compliance-malaysia", "epf-socso-guide"]
 keywords: ["Form E deadline Malaysia", "Form EA 28 February", "CP8D submission", "e-Data Praisi cut off", "Borang E LHDN majikan", "e-CP8D"]
+framework: how-to
 ---
 
 Chaque février, une boîte de réception de la paie quelque part en Malaisie se remplit de la

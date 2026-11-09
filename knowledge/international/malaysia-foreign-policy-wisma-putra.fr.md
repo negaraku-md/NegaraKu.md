@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "kabinet-perdana-menteri" }
 related: ["ekonomi-madani-framework", "konfrontasi", "miti", "matrade"]
 keywords: ["dasar luar Malaysia", "Wisma Putra", "Kementerian Luar Negeri", "ZOPFAN", "dasar berkecuali", "diplomasi Malaysia", "ASEAN", "Pelan Strategik 2026-2030", "non-alignment"]
+framework: explainer
 ---
 
 Lorsque les États-Unis sont le plus grand investisseur étranger dans l'économie de la Malaisie, mais que la Chine est son plus grand partenaire commercial, un petit pays ouvert ne peut se permettre de prendre parti. C'est pourquoi la politique étrangère de la Malaisie s'accroche depuis des décennies à un mot facile à dire mais difficile à tenir : la neutralité. Le ministère chargé de maintenir cet équilibre jour après jour est Wisma Putra.

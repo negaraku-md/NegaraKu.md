@@ -86,6 +86,7 @@ relations:
   - { rel: "compares-with", to: "sme-financing-malaysia" }
 related: ["sme-financing-malaysia", "share-capital-malaysia", "shareholders-agreement-malaysia"]
 keywords: ["equity crowdfunding malaysia", "p2p financing malaysia", "ecf malaysia", "sc recognized market operator", "raise funds sme malaysia", "invoice financing p2p malaysia", "startup funding malaysia"]
+framework: decision
 ---
 
 세 곳의 은행에서 담보 부족을 이유로 거절당한 말레이시아 중소기업에게는 규제되는 두 번째 문이 있습니다. 그런데 대부분의 사업주는 그것이 규제되는 문이라는 사실조차 모릅니다. 지분형 크라우드펀딩과 P2P(개인 간) 금융은 비공식적인 우회로가 아닙니다 — 이들은 증권위원회(SC)에 등록된 플랫폼에서, 누가 얼마를, 누구로부터 조달할 수 있는지를 정하는 규정집에 따라 운영됩니다.

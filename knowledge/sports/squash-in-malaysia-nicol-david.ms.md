@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
 related: []
 keywords: ["squash", "Nicol David", "SRAM", "Malaysian squash", "Ng Eain Yow", "Sivasangari Subramaniam", "World Open"]
+framework: profile
 ---
 
 Selama sembilan tahun berturut-turut, pemain skuasy terbaik di dunia berasal dari Pulau Pinang. Nicol David bukan sekadar menang dalam sukan individu paling berjaya di Malaysia — beliau menulis semula rupa penguasaan dalam sukan tersebut, memegang kedudukan nombor satu dunia selama **108 bulan berturut-turut** sehingga September 2015, penguasaan tanpa putus terpanjang yang pernah disaksikan dalam sukan ini.

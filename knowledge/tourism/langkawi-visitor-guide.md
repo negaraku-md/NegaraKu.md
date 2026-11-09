@@ -102,6 +102,7 @@ relations:
   - { rel: "administered-by", to: "lembaga-pembangunan-langkawi" }
 related: ["kedah"]
 keywords: ["Langkawi", "duty-free island", "UNESCO Global Geopark", "SkyCab", "SkyBridge", "island hopping", "Kilim", "Dayang Bunting", "Andaman Sea", "Kedah"]
+framework: profile
 ---
 
 Ninety-nine islands, rocks older than fish, cheap whisky and a cable car that hangs off the side of a mountain built from rock estimated at over 550 million years old — Langkawi packs an unusual amount into one archipelago off Malaysia's northwest tip. It is the country's flagship west-coast holiday island, and it works on almost the opposite logic to the palm-fringed diving islands on the other side of the peninsula. This guide covers what actually matters before you go: the duty-free rules that trip people up, the UNESCO geopark that gives the scenery its backstory, the SkyCab and SkyBridge, the boat tours worth taking, and how to decide between Langkawi and the east coast.

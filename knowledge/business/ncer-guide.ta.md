@@ -100,6 +100,7 @@ keywords:
   - "NTAX NCER closed"
   - "Kulim Hi-Tech Park incentives"
   - "koridor utara NCER"
+framework: explainer
 ---
 
 வடமண்டல வலயம் ஒரு முதலீட்டாளருக்கு என்ன தருகிறது என்று கேளுங்கள், உங்களுக்கு வரி விலக்குகளின் பட்டியல் ஒன்று கைமாற்றப்படும்.

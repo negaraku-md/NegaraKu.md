@@ -136,6 +136,7 @@ keywords:
   - "تاريخ إنجاز ECRL"
   - "ECER incentives"
   - "Kuantan Port free zone"
+framework: profile
 ---
 
 ECER هو الممر الذي فعلها على الوجه الصحيح. فحيث قدّم الممر الشمالي الحوافز عبر

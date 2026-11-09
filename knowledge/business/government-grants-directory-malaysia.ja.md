@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "mdec-digital-status" }
 related: ["sme-financing-malaysia"]
 keywords: ["government grants malaysia", "SME grant malaysia", "startup grant malaysia", "cradle CIP grant", "MDEC digital grant", "MSME digital grant madani", "matching grant malaysia", "business funding malaysia"]
+framework: data-reference
 ---
 
 「government grant Malaysia」で検索すれば、あなたの事業に無料の資金を約束する何十ものリスト記事が出てくるだろう。現実はもっと有用で、もっと複雑である。資金は確かに存在するが、「助成金」と呼ばれるものの半分は、実際には融資であったり、株式出資であったり、あるいはあなたが先に支出しなければならない現金の払い戻しであったりする。申請する前に学べる最も価値のあることは、それらをどう見分けるかである。

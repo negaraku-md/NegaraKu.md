@@ -104,6 +104,7 @@ keywords:
   - "section 31 Companies Act 2016"
   - "do I need a constitution Sdn Bhd"
   - "M&A replaced by constitution"
+framework: explainer
 ---
 
 Companies Act 2016 đã làm cho điều lệ công ty trở thành tùy chọn, và toàn bộ ngành đã dịch

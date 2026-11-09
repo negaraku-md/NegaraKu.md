@@ -96,6 +96,7 @@ verificationNeeded:
   - "Asal-usul bak kut teh (Klang paling sering disebut sebagai tempat kelahirannya, dengan gaya Hokkien dan Teochew sama-sama diklaim) dan nasi ayam Hainanese (diadaptasi dari ayam Wenchang dari Hainan, dengan klaim Malaysia dan Singapura yang bersaing) — hal ini diperdebatkan dan harus dipastikan dengan sumber sejarah kuliner atau warisan."
   - "Atribusi dialek yang tepat untuk masing-masing hidangan (misalnya apakah gaya Hokkien mee tertentu adalah versi saus gelap KL atau versi sup Penang, dan komunitas mana yang pertama melokalkan masakan claypot dan tai chow) — penamaan antarwilayah tumpang tindih, jadi pastikan dengan sumber lokal."
   - "Apakah rumah makan atau hidangan tertentu yang disebut bebas babi atau bersertifikat halal — ini berbeda menurut pengelola dan berubah seiring waktu; verifikasi per gerai, jangan menggeneralisasi."
+framework: explainer
 ---
 
 Tanyakan apa arti "makanan Tionghoa" di Malaysia dan Anda tidak akan mendapat satu

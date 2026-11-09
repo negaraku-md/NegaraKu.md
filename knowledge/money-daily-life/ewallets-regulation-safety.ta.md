@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "duitnow-qr" }
 related: ["pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["e-wallet Malaysia", "e-money", "Touch n Go eWallet", "Boost", "GrabPay", "ShopeePay", "BNM", "PIDM", "akaun amanah", "safeguarding"]
+framework: explainer
 ---
 
 நீங்கள் கவுன்டரில் "பணம் செலுத்து" என்பதை அழுத்துகிறீர்கள், உங்கள் e-wallet இருப்பு சில ரிங்கிட் குறைகிறது, பரிவர்த்தனை ஒரு நொடியில் முடிந்துவிடுகிறது. ஆனால் இன்று காலை நீங்கள் "top up" செய்த RM200 உண்மையில் எங்கே வைக்கப்பட்டுள்ளது — அந்த ஆப்-க்குப் பின்னால் உள்ள நிறுவனம் திடீரென்று திவாலானால் அதற்கு என்ன ஆகும்? உங்கள் வங்கிக் கணக்கில் உள்ள பணத்திற்கு நடப்பதிலிருந்து இந்தப் பதில் வேறுபட்டது, அந்த வேறுபாடு முக்கியமானது.

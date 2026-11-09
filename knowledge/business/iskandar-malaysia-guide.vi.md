@@ -121,6 +121,7 @@ keywords:
   - "Medini incentives expired"
   - "Iskandar vs JS-SEZ"
   - "Wilayah Pembangunan Iskandar"
+framework: explainer
 ---
 
 Gần như mọi bản tường thuật về lịch sử ưu đãi của Johor đều nói cùng một điều: JS-SEZ đã thay thế gói Iskandar cũ. Nó nghe hay và nó sai, và sự đính chính đủ chính xác để kiểm tra.

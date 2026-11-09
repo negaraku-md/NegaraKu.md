@@ -90,6 +90,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
 keywords: ["sección 109B", "section 109B", "renta de la sección 4A", "section 4A income", "retención honorarios técnicos Malasia", "clases especiales de renta", "PR 10/2019", "derivado de Malasia", "derived from Malaysia"]
+framework: rules
 ---
 
 Pregunte a un equipo de finanzas malasio por qué no retuvo sobre la factura de un

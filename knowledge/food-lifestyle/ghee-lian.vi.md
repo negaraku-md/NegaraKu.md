@@ -72,6 +72,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#GheeLian", "#Penang", "#BibGourmand", "#StreetFood", "#Malaysia"]
+framework: profile
 ---
 
 Tom yum vốn là món Thái, nhưng tại một quầy hàng gần Esplanade cũ của George Town,

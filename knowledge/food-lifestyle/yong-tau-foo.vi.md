@@ -89,6 +89,7 @@ verificationNeeded:
   - "Ampang đặt tên cho kiểu này nằm trong Kuala Lumpur hay ở Selangor——các nguồn mô tả nó vừa là một quận của KL vừa là một thị trấn ở thung lũng Klang ngay bên ngoài KL, và vùng Ampang đô thị hóa thực ra nằm vắt qua ranh giới; cần xác nhận quy thuộc hành chính."
   - "Nguồn gốc của kiểu Ampang và quầy nào làm nó phổ biến——một số tường thuật ghi công cho một quầy thập niên 1960 tên Chew Kuan, trong khi số khác xem việc quy cho Foong Foong là truyền thuyết đô thị; cần xác nhận bằng nguồn lịch sử sơ cấp hoặc địa phương."
   - "Truyền thuyết nguồn gốc rộng hơn——người di cư Khách Gia thay bánh bao bột mì bằng đậu phụ nhồi, và câu chuyện nhà hàng 'thực khách do dự' cạnh tranh——cả hai đều lưu truyền và không được ghi chép chắc chắn; cần xác nhận bằng nguồn lịch sử ẩm thực."
+framework: history-culture
 ---
 
 Bước đến một quầy yong tau foo, thứ được trao cho bạn không hẳn là thực đơn mà là một cái khay. Những khối đậu phụ,

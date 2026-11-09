@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "gunung-tahan" }
 related: ["orang-asli"]
 keywords: ["taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
+framework: explainer
 ---
 
 夜明けのクアラ・タハンの桟橋に立ち、ヒマラヤよりも古い川から霧が立ちのぼるのを眺めていると、自分がクアラルンプールからわずか半日の距離にいることを忘れてしまいそうになる。タマン・ヌガラは人工的に作られた観光地ではない。数千万年にわたってほぼ手つかずのまま存在し続けてきた、生きた熱帯雨林であり——そしてそこに入るのは、ほとんどの旅行者が予想するよりも安く、簡単だ。

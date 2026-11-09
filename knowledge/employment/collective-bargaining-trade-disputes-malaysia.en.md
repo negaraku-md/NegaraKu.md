@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "department-of-industrial-relations-malaysia" }
 related: ["trade-unions-malaysia", "employment-act-1955"]
 keywords: ["rundingan kolektif", "perjanjian kolektif", "pertikaian perusahaan", "hak rundingan tunggal", "pengiktirafan kesatuan", "mogok", "sekat masuk", "piket", "Akta Perhubungan Perusahaan 1967", "Mahkamah Perusahaan"]
+framework: rules
 ---
 
 A worker who wants their employer to sit down at the table and negotiate wages cannot simply ask — there is a legal flow that must be followed, and every step has its own deadline. That flow is contained in the [Industrial Relations Act 1967](/law/industrial-relations-act-1967) (Act 177), enforced by the Department of Industrial Relations Malaysia (JPPM), and it determines who may negotiate, what may be negotiated, and when industrial action such as a strike is permitted.

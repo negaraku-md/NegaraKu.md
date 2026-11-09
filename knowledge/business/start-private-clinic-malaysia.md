@@ -76,6 +76,7 @@ social:
     - MalaysiaHealthcare
     - Act586
     - MedicalPractice
+framework: how-to
 ---
 
 Opening your own clinic feels like the natural next step after years of training and practice — but a clinic is not an ordinary shop you can incorporate on Monday and open on Friday. Malaysia regulates private healthcare tightly, and the premises themselves must be registered with the Ministry of Health before a single patient is seen. Skip that step and you are not merely unlicensed; you are committing an offence.

@@ -120,6 +120,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: []
 keywords: ["act 446", "certificate for accommodation", "worker accommodation malaysia", "workers minimum standards housing", "centralised accommodation", "pekerja penginapan akta 446"]
+framework: rules
 ---
 
 명칭에서 시작하십시오. 이 주제에 관한 거의 모든 글이 이를 틀리기 때문입니다. 이 법령은 **직원 최소 주거·숙소·편의 기준법 1990(Employees' Minimum Standards of Housing, Accommodations and Amenities Act 1990, Act 446)**입니다. 예전에는 *근로자(Workers')* 최소 주거·편의 기준법이었으며, Act A1604 제4(a)항이 2020년 6월 1일부로 그 약식 명칭을 바꾸었습니다.

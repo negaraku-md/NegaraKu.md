@@ -101,6 +101,7 @@ relations:
   - { rel: "requires", to: "annual-return" }
 related: ["close-a-company", "members-voluntary-winding-up", "creditors-voluntary-winding-up", "ssm-fees-malaysia", "annual-return"]
 keywords: ["कंपनी स्ट्राइक ऑफ़ मलेशिया", "धारा 550 कंपनी अधिनियम 2016", "धारा 555 पुनर्बहाली", "कंपनी बंद करना SSM", "Sdn Bhd पंजीकरण रद्द", "SSM स्ट्राइक-ऑफ़ मार्गदर्शिका", "strike off company malaysia", "section 550 companies act 2016", "section 555 reinstatement"]
+framework: explainer
 ---
 
 जो लोग पूछते हैं कि किसी कंपनी को स्ट्राइक ऑफ़ कैसे किया जाए, वे असल में यही पूछ रहे होते हैं कि उसके लिए पैसा चुकाना कैसे बंद करें। यह एक उचित लक्ष्य है, और स्ट्राइक ऑफ़ उस तक पहुँचने का सबसे सस्ता रास्ता है — RM100, कोई परिसमापक नहीं, कोई अंतिम लेखा नहीं। यह वही रास्ता भी है जिसे SSM सबसे अधिक बार अस्वीकार करती है, क्योंकि रजिस्ट्रार की मार्गदर्शिका की दस शर्तें उन दो या तीन से अधिक कठोर हैं जो ऑनलाइन घूमती रहती हैं।

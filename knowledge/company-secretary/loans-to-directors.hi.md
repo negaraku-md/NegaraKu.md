@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "disclosure-of-interest" }
 related: ["directors-duties", "disclosure-of-interest", "directors-fees-approval"]
 keywords: ["निदेशक को ऋण मलेशिया", "धारा 224 कंपनी अधिनियम 2016", "loan to director Malaysia", "section 224 Companies Act 2016", "निदेशक चालू खाता Sdn Bhd", "director current account Sdn Bhd", "मुक्त निजी कंपनी ऋण निदेशक", "exempt private company loan director", "धारा 225 संबंधित व्यक्ति ऋण", "section 225 connected person loan"]
+framework: rules
 ---
 
 कंपनी का खाता निदेशक की कार की किस्त चुकाता है। इसे "निदेशक के खाते" में कोड किया

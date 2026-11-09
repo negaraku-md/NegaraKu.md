@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["share-transfer", "register-of-members", "share-capital-malaysia", "capital-reduction", "beneficial-ownership"]
 keywords: ["peruntukan saham Malaysia", "penyata peruntukan 14 hari", "seksyen 75 Akta Syarikat 2016", "hak keutamaan seksyen 85", "terbit saham baharu Sdn Bhd"]
+framework: how-to
 ---
 
 Menerbitkan saham baru dalam sebuah Sdn Bhd tampak seperti keputusan dewan

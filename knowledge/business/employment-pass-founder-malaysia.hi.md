@@ -121,6 +121,7 @@ keywords:
   - "प्रवासी पास मलेशिया निदेशक"
   - "Employment Pass Malaysia founder"
   - "employment pass category I II III"
+framework: how-to
 ---
 
 संचालन का क्रम किसी एकल नियम से अधिक विदेशी संस्थापकों को हरा देता है।

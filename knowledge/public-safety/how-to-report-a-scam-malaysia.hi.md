@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["staying-safe-scams-and-emergencies", "duitnow-qr-payments", "opening-bank-account", "consumer-rights-and-tribunal"]
 keywords: ["मलेशिया में धोखाधड़ी की रिपोर्ट कैसे करें", "997 NSRC हॉटलाइन", "राष्ट्रीय धोखाधड़ी प्रतिक्रिया केंद्र", "SemakMule PDRM", "CCID Infoline 013-211 1222", "धोखेबाज़ का खाता फ़्रीज़ करना", "scam call center Malaysia", "वित्तीय अपराध की रिपोर्ट"]
+framework: how-to
 ---
 
 आपके बैंकिंग ऐप में बैलेंस अचानक गिर जाता है, या आपने अभी-अभी एक ऐसे स्थानांतरण पर "पुष्टि करें" दबाया है जो अब गहराई से ग़लत लगता है। आपका दिल तेज़ी से धड़कता है। उस क्षण में, केवल एक चीज़ परिणाम को सचमुच बदलती है: घबराहट नहीं, बल्कि यह जानना कि किस लाइन पर कॉल करना है — और उसे अगले कुछ मिनटों में कॉल करना, कल नहीं।

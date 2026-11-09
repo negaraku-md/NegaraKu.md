@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "kpdn" }
 related: ["jakim"]
 keywords: ["halal", "JAKIM", "sijil halal", "pensijilan halal", "MYeHALAL", "logo halal", "Akta Perihal Dagangan 2011", "MAIN", "JAIN"]
+framework: explainer
 ---
 
 โลโก้ฮาลาลอย่างเป็นทางการพร้อมอักษรวิจิตรนั้นอาจดูเล็กบนบรรจุภัณฑ์อาหาร — แต่เบื้องหลังมันคือระบบระดับสหพันธ์ กฎหมายที่มีโทษปรับหลายล้านริงกิต และองค์กรแห่งเดียวที่ตัดสินว่าผลิตภัณฑ์หนึ่งจะกล่าวอ้างว่าตนเป็นฮาลาลในมาเลเซียได้หรือไม่ องค์กรนั้นคือ JAKIM

@@ -75,6 +75,7 @@ keywords:
   - "is a director an employee Malaysia"
   - "directors fees approval Sdn Bhd"
   - "compensation for loss of office section 227"
+framework: explainer
 ---
 
 ขอสัญญาจ้างงานของกรรมการบริหารจากบริษัทมาเลเซียแล้วคุณจะได้รับเอกสารหนึ่งฉบับ ถามว่าจะเกิดอะไรขึ้นกับค่าตอบแทนของบุคคลนั้นหากผู้ถือหุ้นถอดเขาออกจากการเป็นกรรมการเดือนหน้า แล้วห้องก็เงียบ

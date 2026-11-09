@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "minute-books-and-records" }
 related: ["remove-a-director", "minute-books-and-records", "resolution-notice-periods", "board-meetings-and-minutes"]
 keywords: ["written resolution Malaysia", "section 297 Companies Act 2016", "circular resolution Sdn Bhd", "special resolution in writing", "remove director written resolution"]
+framework: explainer
 ---
 
 マレーシアにおけるSdn Bhdの株主決定の大半は、株主総会を伴わない。書類に署名し、

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
 related: []
 keywords: ["sécurité alimentaire", "food security Malaysia", "niveau d'autosuffisance", "SSL", "SSR", "Politique agroalimentaire nationale", "Dasar Agromakanan Negara", "DAN 2.0", "riz", "beras"]
+framework: explainer
 ---
 
 Selon le Recensement agricole 2024, pour chaque kilogramme de riz consommé en Malaisie, environ 400 grammes sont du riz importé. Ce chiffre résume le défi de sécurité alimentaire du pays : une nation agricole qui importe encore une large part de son aliment de base.

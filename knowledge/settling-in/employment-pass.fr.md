@@ -80,6 +80,7 @@ faq:
     a: Non. Le Département de l'immigration (Immigration Department) précise que le permis de travail n'est valable qu'en Malaisie péninsulaire. Sabah et le Sarawak assurent leur propre contrôle de l'immigration au titre de l'autonomie de l'État ; une affectation là-bas nécessite donc un permis ou un visa d'approbation distinct qui lui est propre. Le permis de travail vous lie en outre uniquement à l'entreprise qui vous parraine — si vous changez d'emploi, votre nouvel employeur doit déposer une nouvelle demande depuis le début.
   - q: Mon conjoint peut-il travailler en Malaisie avec un permis de personne à charge (Dependant Pass) ?
     a: Oui, mais pas automatiquement. Le permis de personne à charge ne confère en lui-même aucun droit au travail, et le titulaire principal doit d'abord détenir un permis de travail valide, car la demande de la personne à charge en dépend. Selon la FAQ même du Département de l'immigration, le conjoint peut alors travailler au titre d'un visa d'approbation pour travailler (endorsement for work) délivré par le Département de l'immigration, sans basculer vers un permis de travail complet à son propre nom — une voie nettement plus rapide et moins coûteuse qu'une nouvelle demande de permis de travail.
+framework: explainer
 ---
 
 Vous avez une offre d'emploi signée en Malaisie. Vous avez un passeport, un diplôme, des années d'expérience pertinente. Et pourtant, il n'y a rien que vous, personnellement, puissiez aller déposer.

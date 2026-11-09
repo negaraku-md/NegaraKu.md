@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "traffic-summons-saman" }
 related: ["road-transport-act-1987", "traffic-summons-saman"]
 keywords: ["cukai jalan", "LKM", "Lesen Kenderaan Motor", "renew roadtax", "MyJPJ", "e-LKM", "Pos Malaysia JPJ", "MyEG roadtax", "Puspakom B2"]
+framework: explainer
 ---
 
 多くの人はそれを「道路税」と呼び、所得税や売上税のようなものとして扱っている——支払えば済み、来年まで再び考える必要はない、と。しかしJPJでのその正式名称は機動車両免許（Lesen Kenderaan Motor、LKM）である——一種の**免許**であって、税ではない。この違いは単なる用語の問題ではない。それは、なぜ更新に厳格な時間の窓があるのか、そしてなぜあまりにも長くLKMのない車両が単に「支払って済ませる」ことができないのかを説明している。

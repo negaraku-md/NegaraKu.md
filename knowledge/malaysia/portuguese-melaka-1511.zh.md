@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["1511年马六甲陷落", "阿丰索·德·阿尔布克尔克", "葡属马六甲", "A Famosa", "欧洲殖民马来群岛", "1528年柔佛苏丹国"]
+framework: history-culture
 ---
 
 十天。这就是葡萄牙舰队于1511年8月10日抵达马六甲海域，到这座城市于8月24日易手之间的时间差。

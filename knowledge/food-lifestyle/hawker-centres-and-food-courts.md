@@ -101,6 +101,7 @@ verificationNeeded:
   - "Whether the practice of reserving a shared table with a tissue packet or small personal item (choping) is as common and recognised in Malaysian food courts and kopitiam as it is documented to be in Singapore — the custom is well described for Singapore but there is little formal documentation of its prevalence in Malaysia. Confirm with a Malaysian source."
   - "Lot 10 Hutong's stall-selection rule — Free Malaysia Today reports stalls need a track record of at least 40 years, while other promotional accounts cite about 50 years; the figure comes from media and operator descriptions rather than an official source. Confirm the exact criterion."
   - "The A/B/C hygiene-grade score bands cited are from individual local councils (e.g. Majlis Bandaraya Kuantan) and are not nationally uniform; the exact ranges and the closure threshold differ between local authorities. Confirm the scale with the specific council for any given venue."
+framework: explainer
 ---
 
 Walk into almost any Malaysian neighbourhood at lunchtime and you will not find

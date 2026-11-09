@@ -93,6 +93,7 @@ relations:
   - { rel: "administered-by", to: "nadma-malaysia" }
 related: []
 keywords: ["persediaan banjir", "beg kecemasan", "banjir monsun", "PPS", "Bantuan Wang Ihsan", "NADMA", "amaran cuaca MetMalaysia", "tanah runtuh", "gempa bumi Sabah", "bencana"]
+framework: how-to
 ---
 
 강물이 새벽 두 시에 도로 높이까지 차오르는 순간은 출생증명서를 찾고 물병을 채우기 시작할 때가 아닙니다 — 나갈 때입니다. 말레이시아에서 당신의 가족이 집을 떠나야 하게 만들 가능성이 가장 큰 재난은 대지진이나 태풍이 아니라, 거의 매년 찾아오는 몬순 홍수입니다. 이 안내서는 물이 문에 닿기 훨씬 전에 중요한 결정을 내려 둘 수 있도록, 홍수 전·중·후에 해야 할 일과 산사태·연무·사바 지진 같은 다른 위험을 정리합니다.

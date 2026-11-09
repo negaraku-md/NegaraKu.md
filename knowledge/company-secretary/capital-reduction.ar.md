@@ -115,6 +115,7 @@ relations:
   - { rel: "related-to", to: "dividends-and-solvency" }
 related: ["dividends-and-solvency", "share-allotment", "share-capital-malaysia", "written-resolutions", "resolution-notice-periods"]
 keywords: ["تخفيض رأس المال ماليزيا", "capital reduction Malaysia", "بيان الملاءة المادة 117", "solvency statement section 117", "تخفيض رأس مال الأسهم Sdn Bhd", "تصديق المحكمة المادة 116", "اعتراض الدائنين ستة أسابيع"]
+framework: decision
 ---
 
 يعامل المحتوى المتخصص في أمانة سر الشركات في ماليزيا رأس المال المدفوع بوصفه رقمًا

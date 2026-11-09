@@ -89,6 +89,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage", "minimum-wage-malaysia"]
 keywords: ["pago horas extra malasia", "tarifa horas extra malasia", "semana de 45 horas malasia", "pago día de descanso malasia", "pago día festivo malasia", "overtime pay malaysia", "104 hours overtime"]
+framework: rules
 ---
 
 La mayoría de las guías sobre horas extra se quedan en «1.5× normal, 2× día de descanso, 3× día festivo». Ese resumen es erróneo en el día de descanso y en el día festivo, y deja fuera aquello por lo que los inspectores de trabajo realmente emiten avisos: **el plazo para pagarlo.**

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "work-passes-malaysia", "dependant-social-visit-passes", "imigresen"]
 keywords: ["professional visit pass malaysia", "pvp malaysia", "pvp vs employment pass", "esd professional visit pass", "myxpats pvp", "foreign expert pass malaysia", "expert transfer pass malaysia", "short term work pass malaysia"]
+framework: explainer
 ---
 
 ชาวต่างชาติสองคนสามารถนั่งที่โต๊ะเดียวกันในสำนักงานมาเลเซียเดียวกัน ทำงานเดียวกัน แต่อยู่บนพื้นฐานทางกฎหมายที่แตกต่างกันโดยสิ้นเชิง คนหนึ่งอยู่บนใบอนุญาตทำงาน จ่ายโดยบริษัทมาเลเซีย ต่ออายุได้ปีต่อปี อีกคนอยู่บนใบอนุญาตเยือนเชิงวิชาชีพ — ยังคงจ่ายโดยบริษัทที่ส่งพวกเขามา โดยมีเวลาสิบสองเดือนและไม่มีการต่ออายุเกินนั้น ตรวจคนเข้าเมืองไม่ได้เห็นลูกจ้างสองคน มันเห็นนายจ้างและแขก

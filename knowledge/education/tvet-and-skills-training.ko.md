@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "hrd-corp-levy-malaysia" }
 related: ["public-vs-private-universities", "hrd-corp-levy-malaysia"]
 keywords: ["TVET Malaysia", "Sijil Kemahiran Malaysia", "SKM", "JPK Jabatan Pembangunan Kemahiran", "ILP Institut Latihan Perindustrian", "kolej komuniti Malaysia", "kolej vokasional", "politeknik Malaysia", "Akta 652", "NOSS", "DKM DLKM", "ADTEC JMTI"]
+framework: explainer
 ---
 
 많은 폼 3 학생과 그 학부모는 중등학교 이후 하나의 경로만 봅니다. SPM, STPM, 학위입니다. 그러나 이 나라는 실제로 또 하나의 온전한 교육 제도를 운영합니다 — 자체 기관, 자체 자격증, 자체 법을 갖추고 — 그것이 좀처럼 제대로 설명되지 않는 TVET, 즉 기술직업교육훈련입니다.

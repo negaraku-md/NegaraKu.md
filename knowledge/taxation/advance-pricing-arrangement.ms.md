@@ -114,6 +114,7 @@ relations:
   - { rel: "affects", to: "permanent-establishment" }
 related: ["transfer-pricing-documentation", "cbcr-and-master-file", "dta-network", "permanent-establishment"]
 keywords: ["perjanjian penetapan harga terlebih dahulu malaysia", "apa malaysia lhdn", "apa dua hala malaysia", "yuran permohonan apa malaysia", "pu a 166 2023", "rollback apa malaysia"]
+framework: how-to
 ---
 
 Kebanyakan penasihat menggambarkan perjanjian penetapan harga terlebih dahulu (advance pricing arrangement) sebagai satu menu — sehala jika anda mahukannya murah dan pantas, dua hala jika anda mahukan perlindungan perjanjian percukaian. Di Malaysia tiada menu sedemikian. Kaedah 2(2) Kaedah-Kaedah Cukai Pendapatan (Perjanjian Penetapan Harga Terlebih Dahulu) 2023, P.U.(A) 166/2023, membuat keputusan itu bagi pihak anda, dan ia diputuskan berdasarkan satu fakta sahaja: sama ada negara tempat pihak berkaitan anda berada mempunyai perjanjian dengan Malaysia di bawah s.132 Akta Cukai Pendapatan 1967.

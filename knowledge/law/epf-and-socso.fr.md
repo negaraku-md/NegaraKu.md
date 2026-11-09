@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["EPF", "KWSP", "SOCSO", "PERKESO", "SIP", "EIS", "cotisation", "retraite", "assurance emploi", "Akta KWSP 1991", "sécurité sociale"]
+framework: rules
 ---
 
 Ouvrez votre bulletin de paie et trois retenues apparaissent avant que le premier sen n'atteigne votre compte bancaire : EPF, SOCSO et EIS. Aucune des trois n'est facultative — chacune est appliquée par une loi du Parlement distincte, et les employeurs qui ne les paient pas peuvent aller en prison. C'est le filet de sécurité sociale de la Malaisie pour les travailleurs, et chaque ringgit retenu achète un type de protection différent.

@@ -99,6 +99,7 @@ entity: "Padi and rice industry in Malaysia"
 relations: []
 related: []
 keywords: ["padi", "rice industry Malaysia", "rice self-sufficiency level Malaysia", "SSL rice", "BERNAS", "Padiberas Nasional", "guaranteed minimum price padi", "Harga Minimum Terjamin", "MADA", "kawasan jelapang padi", "subsidi harga padi", "SSHP", "Dasar Agromakanan Negara 2.0", "National Agrofood Policy", "rice import Malaysia", "padi farmers Malaysia"]
+framework: profile
 ---
 
 Rice is the one food Malaysia refuses to leave to the free market. The state concentrates where it is grown, cushions the farmers who grow it, licenses a single company to import the shortfall, and holds an emergency stockpile against supply shocks. Yet after decades of this arrangement, the country still grows only about half the rice it eats.

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["bangsawan", "opera Melayu", "teater Parsi", "Wayang Parsi", "Pushi Indera Bangsawan", "teater peralihan", "filem Melayu"]
+framework: history-culture
 ---
 
 ก่อนจะมีภาพยนตร์ ก็มีเวทีที่มีไฟส่อง ม่านวาดด้วยมือ และวงดนตรีที่สามารถเปลี่ยนจากเพลงร่ายของราชสำนักมลายูไปสู่จังหวะจากตะวันออกกลางในคืนการแสดงเดียวกัน นั่นคือบังซาวัน (bangsawan) — อุปรากรบนเวทีที่ครั้งหนึ่งเคยเป็นความบันเทิงในเมืองที่คึกคักที่สุดในคาบสมุทร และต่อมาได้มอบนักแสดงกับนักร้องของตนให้แก่อุตสาหกรรมภาพยนตร์มลายูที่เพิ่งถือกำเนิด

@@ -86,6 +86,7 @@ keywords:
   - "Ipoh chicken rice"
 social:
   hashtags: ["#HainaneseChickenRice", "#NasiAyam", "#ChickenRiceBalls", "#Melaka", "#MalaysianFood"]
+framework: history-culture
 ---
 
 मलेशिया के किसी kopitiam (पारंपरिक कॉफी शॉप) में चिकन राइस की एक थाली मँगाइए और तीन

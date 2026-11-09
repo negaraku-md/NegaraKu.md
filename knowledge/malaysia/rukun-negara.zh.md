@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["federal-constitution", "independence-1957", "formation-of-malaysia-1963", "parliament"]
 keywords: ["Rukun Negara", "lima prinsip Rukun Negara", "ikrar Rukun Negara", "Majlis Perundingan Negara", "MAGERAN", "Pengisytiharan Diraja 1970"]
+framework: history-culture
 ---
 
 在马来西亚国家档案局的国家原则委员会档案（Fail Jawatankuasa Rukun Negara）中，存有一封日期为1970年3月19日的信函。信中通知，国家原则委员会的第一次会议将于1970年3月31日上午10时，在马来西亚财政部行动室（Bilik Gerakan）举行。分发名单上列有13个名字，另有4人收到副本。

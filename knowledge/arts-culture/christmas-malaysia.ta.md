@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "sabah" }
 related: ["religion-statistics", "article-3-religion", "sarawak", "sabah"]
 keywords: ["Christmas in Malaysia", "Christmas Day public holiday Malaysia", "Christmas Eve Sabah holiday", "Malaysian open house Christmas", "Christians in Malaysia", "Midnight Mass Malaysia", "Holidays Act 1951 Christmas"]
+framework: history-culture
 ---
 
 டிசம்பர் 24 மாலையில், கோத்தா கினபாலு (Kota Kinabalu) அல்லது குச்சிங் (Kuching) நகரில் உள்ள ஒரு தேவாலயம் இரவு நேர வழிபாட்டிற்காக நிரம்பி வழிகிறது, அதே சமயம் சில நூறு கிலோமீட்டர் தொலைவில் தீபகற்பத்தில், அதே தேதி ஒரு சாதாரண வேலை நாளான வியாழக்கிழமையாக இருக்கிறது. அடுத்த நாள் காலை, டிசம்பர் 25, நாடு முழுவதும் வேலைக்கு விடுமுறை. அந்தப் பிரிவு — ஒரே தேதி, மிகவும் வேறுபட்ட இரண்டு அந்தஸ்துகள் — மலேசியாவில் கிறிஸ்துமஸ் எவ்வாறு அமைந்துள்ளது என்பதைப் புரிந்துகொள்வதற்கான மிகத் தெளிவான வழியாகும்: ஒரு சமூகத்திற்கு ஒரு மத விழா, அனைவருக்கும் ஒரு பொது விடுமுறை, மேலும் மதத்தைப் பொருட்படுத்தாமல் பலர் பங்கேற்கும் திறந்த கதவுகளின் ஒரு பருவம்.

@@ -101,6 +101,7 @@ verificationNeeded:
   - "Usulan yang dilaporkan pada 2025 untuk mencari pengakuan UNESCO bagi tradisi open house Malaysia — konfirmasikan status terkini dan apakah ada nominasi yang sudah diajukan."
   - "Laporan bahwa, sebagai langkah penghematan biaya, kementerian federal, lembaga, dan perusahaan terkait pemerintah tidak akan menggelar open house Hari Raya resmi pada 2026 — ini berasal dari satu media saja; konfirmasikan terhadap pernyataan resmi pemerintah sebelum mengandalkannya."
   - "Tanggal libur umum yang pasti untuk Kaamatan (umumnya 30-31 Mei di Sabah) dan Gawai Dayak (umumnya 1-2 Juni di Sarawak), serta atribusi hidangan tertentu lintas banyak subkelompok Dayak dan Kadazan-Dusun; konfirmasikan dengan sumber negara bagian atau badan budaya Sabah/Sarawak."
+framework: history-culture
 ---
 
 Di banyak negara, sebuah perayaan adalah milik orang-orang yang merayakannya. Di Malaysia,

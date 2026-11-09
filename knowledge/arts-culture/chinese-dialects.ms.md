@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "peranakan" }
 related: ["population-composition", "tamil-in-malaysia", "peranakan", "chinese-new-year", "article-152-language"]
 keywords: ["马来西亚华人方言", "福建话", "广东话", "客家话", "潮州话", "海南话", "福州话", "方言群", "槟城福建话", "诗巫福州", "沙巴客家"]
+framework: explainer
 ---
 
 Di sebuah kedai kopi di Pulau Pinang, anda memesan kopi dalam bahasa Hokkien; di Kuala Lumpur dan Ipoh, cawan kopi yang sama dipesan dalam bahasa Kantonis; teruskan lagi ke Sibu, Sarawak, dan orang yang melayan anda kemungkinan besar bertutur dalam bahasa Foochow. Ketiga-tiganya orang Cina — namun mereka bertutur dalam tiga bahasa yang tidak boleh difahami antara satu sama lain.

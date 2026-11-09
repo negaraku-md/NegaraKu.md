@@ -63,6 +63,7 @@ relations:
   - { rel: "administered-by", to: "ssm" }
 related: ["beneficial-ownership", "bo-register", "who-is-a-beneficial-owner", "ebos-filing"]
 keywords: ["pemegang saham enggan notis pemilikan benefisial", "notis seksyen 60C tiada jawapan", "pengurusan kanan ganti pemilik benefisial", "BO tidak patuh Malaysia"]
+framework: how-to
 ---
 
 Seorang pemegang saham mengabaikan notis itu. Tempoh 14 hari untuk merekodkan

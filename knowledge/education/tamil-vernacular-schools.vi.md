@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "estate-tamil-community" }
 related: ["chinese-education-in-malaysia", "tamil-in-malaysia", "estate-tamil-community", "languages-spoken", "population-composition"]
 keywords: ["தமிழ்ப் பள்ளி", "மலேசியா தமிழ்க் கல்வி", "SJKT", "தமிழ்வழி பள்ளி", "தோட்டப் பள்ளி", "மாணவர் தாய்மொழி POL", "Tamil vernacular schools Malaysia", "Sekolah Jenis Kebangsaan Tamil"]
+framework: explainer
 ---
 
 Ở bất kỳ góc nào của Malaysia — bên rìa một đồn điền cao su cũ, hay ở ngoại vi

@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "auditor-report" }
 related: []
 keywords: ["surat perwakilan pengurusan", "management representation letter", "ISA 580", "perwakilan bertulis", "written representations", "bukti audit", "juruaudit"]
+framework: explainer
 ---
 
 ஒவ்வொரு தணிக்கையின் இறுதியை நோக்கியும், எளிதில் கவனிக்கப்படாமல் போகக்கூடிய ஆனால் உண்மையான எடையைச் சுமக்கும் ஒரு ஆவணத்தில் கையொப்பமிடுமாறு இயக்குநர்கள் கேட்கப்படுகின்றனர்: தணிக்கையாளருக்கு எல்லாவற்றையும் தாங்கள் தெரிவித்துவிட்டதாக, தங்கள் சொந்தக் கையொப்பத்துடன் உறுதியளிக்கும் ஒரு கடிதம். அதுதான் நிர்வாகப் பிரதிநிதித்துவக் கடிதம் (management representation letter).

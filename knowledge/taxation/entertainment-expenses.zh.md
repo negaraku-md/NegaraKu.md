@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["non-deductible-expenses", "section-33-deductibility"]
 keywords: ["entertainment expense malaysia tax", "39(1)(l) entertainment", "50% entertainment deduction", "public ruling 4/2015", "promotional gift tax deduction malaysia"]
+framework: rules
 ---
 
 几乎每一份马来西亚税务计算都是把交际应酬那一行砍一半，然后就往下走了。这在两个方向上都是错的。有些被砍一半的其实应该全额不获扣除，而当中有不少根本不该砍。

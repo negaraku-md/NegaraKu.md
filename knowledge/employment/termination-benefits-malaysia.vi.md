@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "retrenchment-malaysia" }
 related: ["termination-of-employment-malaysia", "retrenchment-malaysia", "offboarding-statutory-checklist"]
 keywords: ["termination benefits malaysia", "retrenchment benefit calculation", "TBLB regulations 1980", "severance pay malaysia", "lay off benefits malaysia", "10 15 20 days wages"]
+framework: rules
 ---
 
 Hai người sử dụng lao động cắt giảm cùng một người lao động vào cùng một ngày. Một người trả một tháng lương và gọi đó là hào phóng. Người kia trả 20 ngày lương cho mỗi năm trong chín năm — khoảng sáu tháng lương — vì đó là điều luật yêu cầu. Sự khác biệt là người thứ hai đã đọc Employment (Termination and Lay-Off Benefits) Regulations 1980.

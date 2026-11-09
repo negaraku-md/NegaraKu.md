@@ -74,6 +74,7 @@ faq:
     a: Keduanya ialah dua puncak rekod yang berbeza di atas dua jisim daratan yang berbeza, dipisahkan oleh Laut China Selatan. Gunung Tahan, setinggi 2,187 meter di sempadan Pahang–Kelantan dalam Taman Negara, ialah titik tertinggi di Semenanjung Malaysia. Gunung Kinabalu di Sabah menjulang setinggi 4,095 meter — puncak tertinggi di seluruh Malaysia, dan yang tertinggi di mana-mana antara Himalaya dan New Guinea. Mengelirukan keduanya ialah kesilapan biasa.
   - q: Mengapa kebanyakan rakyat Malaysia tinggal berhampiran pantai berbanding pedalaman?
     a: Setiap jisim daratan didominasi oleh tulang belakang gunung di tengah — Banjaran Titiwangsa di Semenanjung, Banjaran Crocker di Sabah — yang diapit hanya oleh dataran pantai yang sempit. Tanah tinggi itu menolak penempatan keluar ke dataran pantai dan lembah sungai, meninggalkan pedalaman bergunung yang kurang penduduk. Dataran pantai barat Semenanjung yang terlindung, ditenangkan oleh Selat Melaka, menampung kebanyakan penduduknya dan bandar-bandar terbesar seperti Kuala Lumpur dan George Town.
+framework: explainer
 ---
 
 Terbang ke Kuala Lumpur dari Kota Kinabalu dan anda melintasi lebih daripada sekadar sempadan dalaman — anda melintasi beberapa ratus kilometer laut terbuka. Malaysia adalah satu negara yang disatukan merentasi dua daratan yang berasingan, dan hakikat bentuk muka bumi yang mudah ini telah senyap-senyap menentukan hampir segala-galanya yang lain: di mana bandar-bandar berada, di mana sawah padi berada, dan pantai mana yang dilanda banjir setiap bulan Disember.

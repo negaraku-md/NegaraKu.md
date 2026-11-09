@@ -71,6 +71,7 @@ relations:
   - { rel: "governs", to: "financial-services-act-2013" }
 related: ["foreign-exchange-policy-malaysia", "online-business-licence-malaysia"]
 keywords: ["payment licence malaysia", "e-money licence malaysia", "BNM approval payment", "merchant acquiring malaysia", "limited purpose e-money", "FSA 2013 schedule 1"]
+framework: rules
 ---
 
 한 창업자가 고객이 충전하고 더 빠르게 결제할 수 있도록 지갑(wallet)을 추가합니다. 누군가 말레이시아

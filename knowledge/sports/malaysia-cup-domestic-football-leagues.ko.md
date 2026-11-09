@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "malaysia-national-football-team" }
 related: []
 keywords: ["Liga Super", "Piala Malaysia", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "bola sepak Malaysia"]
+framework: explainer
 ---
 
 거의 한 세기 동안 단일 기관 — 말레이시아 축구 협회(FAM) — 이 나라의 모든 리그 경기를 주관했습니다. 그러다 이 종목의 형태를 바꾼 한 조치로, 리그를 운영할 권한이 한 상업 회사에 넘겨졌습니다. 이것이 오늘날 말레이시아 국내 축구가 작동하는 방식의 토대입니다.

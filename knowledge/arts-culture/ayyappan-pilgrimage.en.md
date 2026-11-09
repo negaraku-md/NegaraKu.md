@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["hinduism-in-malaysia", "thaipusam", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community", "navaratri"]
 keywords: ["ஐயப்பன் வழிபாடு", "சபரிமலை விரதம்", "மண்டல விரதம்", "இருமுடிக் கட்டு", "மலேசிய ஐயப்பன் கோயில்", "சுவாமியே சரணம் ஐயப்பா", "Ayyappan", "Sabarimala"]
+framework: history-culture
 ---
 
 In the closing months of the year, a familiar sight appears in many towns across Malaysia: men dressed in black or blue, wearing a rudraksha mala around the neck and letting their beards grow, addressing one another as "Swami". These are the Ayyappan vow-keepers — many of them preparing to travel to Sabarimala in Kerala. This article describes that worship and the vow traditions in a neutral way; it neither explains nor evaluates any belief.

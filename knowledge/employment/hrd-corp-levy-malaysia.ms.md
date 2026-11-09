@@ -108,6 +108,7 @@ relations:
   - { rel: "related-to", to: "payroll-rates-deadlines-malaysia" }
 related: ["payroll-rates-deadlines-malaysia", "payroll-compliance-malaysia", "epf-employer-guide"]
 keywords: ["kadar levi HRD Corp", "ambang pendaftaran HRDF", "levi 1% Malaysia", "Jadual Pertama Akta PSMB", "kursus boleh tuntut HRD Corp", "lucut hak levi"]
+framework: rules
 ---
 
 Dua soalan menentukan kedudukan HRD Corp anda, dan hampir semua panduan dalam talian

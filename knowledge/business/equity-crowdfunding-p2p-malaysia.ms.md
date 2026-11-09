@@ -87,6 +87,7 @@ relations:
   - { rel: "compares-with", to: "sme-financing-malaysia" }
 related: ["sme-financing-malaysia", "share-capital-malaysia", "shareholders-agreement-malaysia"]
 keywords: ["pembiayaan awam ekuiti malaysia", "pembiayaan p2p malaysia", "ecf malaysia", "pengendali pasaran diiktiraf sc", "kumpul dana pks malaysia", "pembiayaan invois p2p malaysia", "pembiayaan startup malaysia"]
+framework: decision
 ---
 
 Sebuah PKS Malaysia yang ditolak oleh tiga buah bank kerana kekurangan cagaran mempunyai satu

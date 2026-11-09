@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "wau" }
 related: ["wau", "kelantan", "terengganu"]
 keywords: ["gasing", "gasing uri", "gasing pangkah", "juego tradicional malayo", "patrimonio nacional", "Kuala Nerus", "gasing Kelantan", "gasing Terengganu"]
+framework: history-culture
 ---
 
 El sonido llega primero — madera pesada golpeando madera pesada, seguido de vítores. En el campo de una aldea en torno a Kuala Nerus, Terengganu, dos grupos se plantan frente a frente. Un jugador lanza su trompo con una cuerda; otro ya está girando, esperando en el suelo. El ganador no es el más rápido — es aquel cuyo trompo sigue girando después del golpe.

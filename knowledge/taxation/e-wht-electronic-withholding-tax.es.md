@@ -85,6 +85,7 @@ social:
     - MyTax
     - DoingBusinessInMalaysia
     - MalaysiaCompliance
+framework: how-to
 ---
 
 Durante años, pagar la retención en la fuente significaba un formulario CP37 en papel, un cheque o un comprobante bancario, y un viaje a un mostrador de LHDN — o un correo electrónico con documentos escaneados — y luego una espera para ver el pago conciliado con tu cuenta. Todo ese ritual se trasladó en línea. **e-WHT** es el canal electrónico de LHDN para completar los formularios de retención en la fuente y pagar el impuesto dentro del portal **MyTax**, y para los formularios que cubre es ahora la vía obligatoria, no una comodidad opcional.

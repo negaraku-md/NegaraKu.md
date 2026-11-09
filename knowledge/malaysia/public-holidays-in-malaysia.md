@@ -79,6 +79,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: explainer
 ---
 
 Plan a trip, a product launch or a payroll run across Malaysia and you quickly discover something that catches outsiders off guard: a day that is a public holiday in Kuala Lumpur may be an ordinary working day in Kuching, and vice versa. Malaysia does not have one national holiday list so much as a national layer and thirteen state layers stacked on top of each other.

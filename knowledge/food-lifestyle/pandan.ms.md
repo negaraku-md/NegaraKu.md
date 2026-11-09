@@ -92,6 +92,7 @@ verificationNeeded:
   - "Label 'vanila Asia Tenggara' ialah rangka masakan yang popular, bukan hubungan botani (pandan dan vanila ialah tumbuhan yang tiada kaitan); sahkan perkataannya terhadap rujukan botani atau masakan jika kejituan penting."
   - "Asal usul kek pandan / chiffon pandan (dikaitkan secara pelbagai dengan pembakaran Hindia Timur Belanda dan dengan kek chiffon Amerika abad ke-20 melalui CNN) — sahkan dengan sumber sejarah masakan dan bukan media berita atau resipi."
   - "Sifat kesihatan atau perubatan pandan yang kerap dipetik — banyak dakwaan rakyat beredar dan tidak disahkan di sini; sahkan sebarang dakwaan sedemikian terhadap sumber yang ditelaah rakan sebaya atau klinikal sebelum menyatakannya."
+framework: explainer
 ---
 
 Angkat penutup periuk nasi bersantan di dapur Malaysia dan perkara pertama yang

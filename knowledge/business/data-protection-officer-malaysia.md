@@ -94,6 +94,7 @@ relations:
   - { rel: "governs", to: "personal-data-protection-act-2010" }
 related: ["pdpa-compliance-malaysia", "online-business-licence-malaysia"]
 keywords: ["data protection officer malaysia", "dpo malaysia", "section 12a pdpa", "pdpa dpo threshold", "appoint dpo malaysia"]
+framework: rules
 ---
 
 Most Malaysian businesses read the DPO threshold, see “20,000 data subjects”, decide they are nowhere near it, and stop reading. The third limb is one line further down, it has no number in it at all, and the Commissioner's own worked example of it is an online shop that recommends products.

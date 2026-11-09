@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-new-year", "hungry-ghost-festival", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["清明节", "Cheng Beng", "扫墓", "拜山", "祭祖", "慎终追远", "金银纸", "纸扎", "后土", "土地公", "灵骨塔", "骨灰龛", "三保山", "Bukit Cina", "富贵山庄", "Qingming Festival", "Tomb-Sweeping Day"]
+framework: history-culture
 ---
 
 Pada suatu pagi awal April, keluarga demi keluarga mula kelihatan di laluan tanah perkuburan. Ada yang menjinjing baldi dan sabit, ada yang membawa bakul penuh dengan hidangan masak, buah-buahan dan wang kertas. Setelah menemui kubur keluarga sendiri, yang muda mula membuang rumpai dan menyapu daun gugur manakala yang tua menunjukkan cara menyapu semula, satu demi satu, aksara yang telah pudar pada batu nisan; hanya setelah kubur bersih barulah pemujaan disusun, colok dinyalakan dan penghormatan diberi, dan akhirnya wang kertas dibakar di ruang lapang berdekatan. Dalam asap dan nyala api itu, Qingming setahun sekali pun berlalu begitu sahaja.

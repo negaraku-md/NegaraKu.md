@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
 keywords: ["shipping belongings to Malaysia", "import household goods Malaysia customs", "Customs Form K1 Malaysia", "import car to Malaysia", "Approved Permit AP Malaysia", "MITI AP vehicle import", "JPJ import vehicle registration", "PUSPAKOM imported car", "expatriate moving to Malaysia car"]
+framework: explainer
 ---
 
 マレーシア向けの移住チェックリストはどれも、下までスクロールすれば同じことを言っている：家具は運び、車は売れ。この二つの指示がなぜこれほど違うのかを、誰も説明してくれない——一方は書類仕事で、もう一方は壁なのだ。

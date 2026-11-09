@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "malaysian-institute-of-accountants" }
 related: ["malaysian-institute-of-accountants"]
 keywords: ["ISA 600", "group audit", "component auditor", "group engagement partner", "Malaysia subsidiary audit", "MIA", "consolidated financial statements", "aggregation risk"]
+framework: explainer
 ---
 
 あるドイツの親会社がクアラルンプールの取引子会社を連結しているが、グループの監査責任者はフランクフルトにおり、マレーシアに足を踏み入れたこともなければ現地の元帳を読むこともない。実地作業を行うのはマレーシアにいる誰かだ——それでもグループ監査意見に記される署名は、依然としてグループ責任者ただ一人のものである。このような役割分担こそ、グループ監査基準が規律しようとしているものにほかならない。

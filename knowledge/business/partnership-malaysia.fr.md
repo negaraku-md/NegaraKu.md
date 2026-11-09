@@ -70,6 +70,7 @@ keywords:
   - "responsabilité des associés Malaisie"
   - "responsabilité conjointe et solidaire société de personnes"
   - "enregistrer société de personnes SSM"
+framework: explainer
 ---
 
 Deux amis enregistrent une société de personnes parce qu'elle coûte RM60 par an et que personne n'a

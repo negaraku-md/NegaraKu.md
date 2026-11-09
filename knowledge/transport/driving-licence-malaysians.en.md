@@ -73,6 +73,7 @@ keywords:
   - "CDL lesen memandu kompeten"
   - "ujian JPJ KPP"
   - "sistem KEJARA mata demerit"
+framework: explainer
 ---
 
 Most people treat "driving licence" as a single document. It is actually

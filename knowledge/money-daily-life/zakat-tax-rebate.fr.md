@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "zakat-pendapatan" }
 related: []
 keywords: ["ristourne d'impôt zakat", "Section 6A", "Loi de 1967 sur l'impôt sur le revenu", "ristourne d'impôt zakat LHDN", "zakat contre abattement fiscal", "organisme d'État de zakat", "Seksyen 6A", "badan zakat negeri"]
+framework: explainer
 ---
 
 Versez RM1,000 de zakat et votre impôt sur le revenu baisse d'exactement RM1,000 — pas seulement d'une petite fraction, comme c'est le cas de la plupart des autres déductions fiscales. Cette différence est ce qui déroute si souvent les contribuables musulmans en Malaisie, et elle tient à un seul mot : *ristourne (rebate)*, et non *abattement (relief)*.

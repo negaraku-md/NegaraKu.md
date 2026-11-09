@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "work-passes-malaysia", "dependant-social-visit-passes", "imigresen"]
 keywords: ["professional visit pass malaysia", "pvp malaysia", "pvp vs employment pass", "esd professional visit pass", "myxpats pvp", "foreign expert pass malaysia", "expert transfer pass malaysia", "short term work pass malaysia"]
+framework: explainer
 ---
 
 Hai người nước ngoài có thể ngồi ở cùng một bàn trong cùng một văn phòng Malaysia, làm cùng một công việc, và ở trên những nền tảng pháp lý hoàn toàn khác nhau. Một người ở trên một Employment Pass, được công ty Malaysia trả lương, có thể gia hạn năm này qua năm khác. Người kia ở trên một Professional Visit Pass — vẫn được trả lương bởi công ty đã cử họ đến, với mười hai tháng trên đồng hồ và không gia hạn vượt quá nó. Cục Di trú không thấy hai người lao động. Nó thấy một người sử dụng lao động và một vị khách.

@@ -70,6 +70,7 @@ keywords:
   - "cabutan sijil kelahiran"
   - "JPN.LM01"
   - "JPN.LM12"
+framework: how-to
 ---
 
 பல புதிய பெற்றோர் தங்கள் குழந்தையின் பிறப்பைப் பதிவு செய்வதை, நேரம்

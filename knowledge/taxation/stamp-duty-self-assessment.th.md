@@ -97,6 +97,7 @@ relations:
   - { rel: "affects", to: "stamp-duty-employment-contracts" }
 related: ["stamp-duty-rates", "stamp-duty-employment-contracts", "stamp-duty-share-transfer"]
 keywords: ["STSDS", "stamp duty self assessment Malaysia", "sistem taksir sendiri duti setem", "STAMPS", "BNDS", "stamp duty phases 2026"]
+framework: explainer
 ---
 
 แนวทางอากรแสตมป์ส่วนใหญ่ที่ยังหมุนเวียนอยู่อธิบายระบบที่คุณส่งเอกสารให้ LHDN พนักงานเก็บอากรคำนวณอากร และคุณชำระตามที่หนังสือระบุ สำหรับตราสารส่วนใหญ่และเพิ่มขึ้น แบบจำลองนั้นสิ้นสุดลงเมื่อวันที่ 1 มกราคม 2026 — และพร้อมกับมัน จุดยืนที่สบายใจว่าจำนวนบนหนังสือเป็นปัญหาของคนอื่น

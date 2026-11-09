@@ -111,6 +111,7 @@ relations:
   - { rel: "compares-with", to: "stamp-duty-self-assessment" }
 related: ["tax-audit", "tax-penalties", "tax-clearance", "stamp-duty-self-assessment", "rpgt-rates"]
 keywords: ["tax appeal Malaysia", "Form Q LHDN", "borang Q rayuan", "Special Commissioners of Income Tax", "Pesuruhjaya Khas Cukai Pendapatan", "section 99 Income Tax Act", "Form N extension of time", "Prosiding Resolusi Pertikaian"]
+framework: how-to
 ---
 
 대부분의 말레이시아 세무 불복을 결정하는 단 하나의 사실은 불복 규정에 전혀 있지

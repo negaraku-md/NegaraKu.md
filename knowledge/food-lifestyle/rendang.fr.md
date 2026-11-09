@@ -96,6 +96,7 @@ social:
     - "#MalaysianFood"
     - "#HariRaya"
     - "#Minangkabau"
+framework: explainer
 ---
 
 Passez près d'une cuisine malaise dans les jours qui précèdent le Hari Raya et

@@ -84,6 +84,7 @@ relations:
   - { rel: "affects", to: "e-invoicing" }
 related: ["gig-workers-act-2025", "which-tax-form", "personal-tax-rates", "e-invoicing", "myinvois-phases", "section-33-deductibility"]
 keywords: ["cukai pekerja bebas Malaysia", "cukai pendapatan pekerja gig", "seksyen 4(a) vs 4(f)", "cukai pekerja gig", "potongan pejabat rumah Malaysia", "ansuran CP500 pekerja bebas", "cukai pencipta kandungan Malaysia"]
+framework: explainer
 ---
 
 Pertanyaan yang menentukan tagihan pajak seorang pekerja lepas bukanlah berapa

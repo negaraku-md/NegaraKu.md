@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "sabah-visitor-guide" }
 related: ["sabah-visitor-guide"]
 keywords: ["Sarawak travel", "Sarawak immigration", "Kuching guide", "Gunung Mulu National Park", "Iban longhouse", "Bidayuh longhouse", "Sarawak entry pass", "Borneo travel"]
+framework: explainer
 ---
 
 คุณบินจากกัวลาลัมเปอร์ไปกูจิงได้ในเวลาไม่ถึงสองชั่วโมง ไม่เคยออกนอกประเทศของตัวเอง และยังถูกประทับตราผ่านการตรวจคนเข้าเมืองที่ปลายทาง ความประหลาดใจที่ห้องขาเข้านั้นเป็นสิ่งสำคัญที่สุดที่ต้องเข้าใจเกี่ยวกับซาราวัก มันเป็นรัฐมาเลเซียที่ดำเนินพรมแดนของตนเอง

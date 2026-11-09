@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "sdn-bhd-bookkeeping" }
 related: ["mbrs-2-filing-guide", "mbrs-2", "financial-statement-pack", "sdn-bhd-bookkeeping", "mfrs-vs-mpers"]
 keywords: ["ralat penandaan MBRS", "pengesahan SSMxT", "kegagalan pengesahan XBRL Malaysia", "ralat mTool", "MBRS ditolak", "penandaan blok teks SSM", "skala decimals MBRS"]
+framework: explainer
 ---
 
 Kegagalan yang membawa kos bukanlah yang menghalang fail daripada dijana. Ia

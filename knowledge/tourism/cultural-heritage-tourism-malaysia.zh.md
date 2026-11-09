@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "malaysia-homestay-programme" }
 related: []
 keywords: ["Malaysia UNESCO World Heritage", "heritage tourism Malaysia", "homestay programme Malaysia", "George Town Melaka", "mosque etiquette Malaysia", "cultural tourism"]
+framework: explainer
 ---
 
 同一个国家有六处遗产如今都印上了联合国教科文组织的印记——你可以在清晨漫步于一座数百年历史的荷兰殖民广场，再乘一趟航班便置身于婆罗洲一座宏大的洞穴大厅之中。马来西亚的遗产不是一座供人观看的博物馆；它是一条鲜活的街道，你可以在其中一路吃、一路睡、一路祈祷。

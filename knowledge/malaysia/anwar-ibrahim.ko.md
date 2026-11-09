@@ -71,6 +71,7 @@ sources:
 
 related: ["1998-reformasi", "2018-change-of-government", "prime-ministers-of-malaysia", "mahathir-mohamad"]
 keywords: ["Anwar Ibrahim", "tenth prime minister Malaysia", "Reformasi", "MADANI government", "Pakatan Harapan"]
+framework: profile
 ---
 
 안와르 이브라힘(Anwar Ibrahim, 1947년 8월 10일 출생)은 말레이시아(Malaysia)

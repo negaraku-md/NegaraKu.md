@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "permanent-establishment" }
 related: ["corporate-tax-rates", "income-tax-act-1967", "lhdn", "sdn-bhd"]
 keywords: ["company tax residence Malaysia", "management and control", "section 8 Income Tax Act", "taraf mastautin syarikat", "resident company Malaysia"]
+framework: explainer
 ---
 
 一家三名董事全都住在新加坡、以视频通话开会、以传阅方式签署决议的马来西亚 Sdn Bhd，很可能根本不是马来西亚税务居民。若不是，它就赔掉 15% 与 17% 的 SME 税率、集团减免、协定保护，以及 Promotion of Investments Act 1986 下的每一项奖掖——而它的马来西亚收入仍然要全额课税。

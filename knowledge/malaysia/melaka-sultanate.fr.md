@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: ["langkasuka", "johor"]
 keywords: ["Melaka Sultanate", "Parameswara", "Malacca history", "Hukum Kanun Melaka", "Malay sultanate origins"]
+framework: history-culture
 ---
 
 Un prince fuit une ville en flammes. Il traverse un détroit, tue un chef local qui l'avait abrité, et poursuit sa fuite — à travers Muar, à travers Ujong Tanah — jusqu'à s'arrêter sous un arbre, au bord d'une rivière, pour laisser reposer ses chiens. L'un d'eux acule un chevrotain (pelanduk) qui, coincé, se retourne et l'envoie d'un coup de patte dans l'eau. Le prince y voit un présage : même la plus petite créature se défend en ce lieu. Il décide que c'est ici qu'il bâtira sa ville, et la nomme d'après l'arbre sous lequel il est assis — un arbre *melaka*.

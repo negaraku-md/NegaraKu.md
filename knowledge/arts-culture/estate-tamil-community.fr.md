@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "tamil-vernacular-schools", "mariamman-worship", "hinduism-in-malaysia", "population-composition"]
 keywords: ["தோட்டத் தமிழர் சமூகம்", "மலேசிய இந்தியர் தோட்ட வரலாறு", "கங்காணி முறை", "ரப்பர்த் தோட்டம்", "தோட்டத் தொழிலாளர்", "மலேசிய இந்தியர்கள்", "estate Tamil community", "Malaysian Indians"]
+framework: history-culture
 ---
 
 Aux abords de nombreuses villes anciennes de Malaisie, une plantation d'hévéas qui s'étendait autrefois, verte, est aujourd'hui devenue un quartier résidentiel empli de maisons et de rangées de commerces. Au milieu de ces nouveaux bâtiments, un vieux temple d'Amman ou une petite école tamoule subsiste parfois — marque indélébile d'une communauté qui a été déplacée.

@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "myinvois-phases" }
 related: ["e-invoicing", "myinvois-phases", "e-invoice-data-fields", "consolidated-e-invoice", "self-billed-e-invoice"]
 keywords: ["MyInvois integration", "MyInvois API", "MyInvois Portal", "Peppol Malaysia", "e-Invoice middleware", "e-invois integrasi sistem"]
+framework: decision
 ---
 
 この判断について書かれたもののほとんどは、いずれかの答えを売っている誰かによって書かれている。だから、LHDNが実際に認めている二つのメカニズムだけから出発しよう——e-Invoice GuidelineのTable 2.1に載っている、**MyInvoisポータル**と**API**である。Peppolプロバイダー、非Peppol技術プロバイダー及びミドルウェアは第三の選択肢ではない——それらはAPIへ到達するための三つの経路である。

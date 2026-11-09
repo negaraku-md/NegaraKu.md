@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#AssamLaksa", "#Penang", "#BibGourmand", "#MalaysianFood", "#Malaysia"]
+framework: profile
 ---
 
 在一座把 assam laksa 视为骄傲的城市里，Wan Dao Tou 已在 MICHELIN Guide 的乔治市

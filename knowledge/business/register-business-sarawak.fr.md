@@ -137,6 +137,7 @@ keywords:
   - "trade licence Sarawak"
   - "LHDN business registration Kuching"
   - "lesen perniagaan Sarawak"
+framework: how-to
 ---
 
 À Sarawak, on n'immatricule pas une entreprise. On immatricule trois choses, auprès de jusqu'à

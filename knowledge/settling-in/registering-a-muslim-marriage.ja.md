@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "registering-a-civil-marriage" }
 related: ["registering-a-marriage-civil", "syariah-court-system"]
 keywords: ["muslim marriage malaysia", "nikah registration", "SPPIM", "wali hakim", "kursus pra perkahwinan", "akad nikah", "syariah court marriage", "islamic family law act 303"]
+framework: how-to
 ---
 
 二人が結婚する準備を整え、両家も顔を合わせ、日取りも決まった——しかしマレーシアでは、イスラム婚は、州が運営する定められた行政上・宗教上の手続きを通過して初めて、登録された婚姻となる。連邦憲法のもとでイスラムは州の事項であり、そのため各州及び連邦直轄区は、独自のイスラム家族法法令と、独自の州のイスラム宗教局（Jabatan Agama Islam Negeri）を有している。以下の手順は全国的におおむね同様である。ここでは、正確な法定条文の参照のために、連邦直轄区の法律である1984年イスラム家族法（連邦直轄区）法（Act 303）を用いる。

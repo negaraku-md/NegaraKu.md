@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["EPF", "KWSP", "SOCSO", "PERKESO", "SIP", "EIS", "caruman", "Akta KWSP 1991", "Akta Keselamatan Sosial Pekerja 1969", "persaraan", "insurans pekerjaan"]
+framework: rules
 ---
 
 打开你的薪金单，在第一分钱进入银行账户之前，就已经出现三项扣款：EPF、SOCSO 和 SIP。这三者都不是可选项——它们由三部独立的国会法令强制执行，未缴款的雇主可被监禁。这就是马来西亚为雇员设立的社会安全网，每一令吉的扣款都换来不同的保障。

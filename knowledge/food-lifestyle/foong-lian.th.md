@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#FoongLian", "#ClaypotRice", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 บน Jalan Yew ในย่าน Pudu หม้อดินเรียงแถวตั้งอยู่บนถ่านที่ลุกแดง แต่ละใบสร้างชั้น

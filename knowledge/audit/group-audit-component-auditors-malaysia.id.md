@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "malaysian-institute-of-accountants" }
 related: ["malaysian-institute-of-accountants"]
 keywords: ["ISA 600", "group audit", "component auditor", "group engagement partner", "Malaysia subsidiary audit", "MIA", "consolidated financial statements", "aggregation risk"]
+framework: explainer
 ---
 
 Sebuah perusahaan induk Jerman mengonsolidasikan cabang perdagangannya di Kuala Lumpur, tetapi partner audit grup di Frankfurt tidak pernah menjejakkan kaki di Malaysia dan tidak membaca buku besar lokal. Seseorang di Malaysia melakukan kerja lapangan — namun tanda tangan pada opini grup tetap hanya milik partner grup. Pembagian itulah yang standar audit grup dirancang untuk mengatur.

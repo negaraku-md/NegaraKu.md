@@ -95,6 +95,7 @@ verificationNeeded:
   - "Khẳng định rằng cơm chỉ trở thành lương thực chính hằng ngày của người Mã Lai tương đối muộn (với cọ sago chiếm ưu thế trước khoảng thế kỷ 15) dựa trên tường thuật của các nhà sử học ẩm thực; hãy kiểm chứng đối chiếu với một nguồn lịch sử sơ cấp hoặc học thuật."
   - "Việc 'Văn hóa bữa sáng của Malaysia' — được ghi vào Danh sách Đại diện của UNESCO tháng 12 năm 2024 — có nên được đóng khung là sự công nhận dành riêng cho ẩm thực Mã Lai hay cho mâm bữa sáng đa sắc tộc; đây là mục liên quan đến ẩm thực đầu tiên của đất nước trong UNESCO và mang tính đa văn hóa một cách rõ ràng."
   - "Ranh giới vùng chính xác của các đặc điểm hương vị (ví dụ bờ đông 'ngọt hơn', phía nam ưa các loại nước xốt đậm nước cốt dừa) là những khái quát; hãy kiểm chứng việc quy kết từng món cụ thể đối chiếu với các nguồn địa phương."
+framework: history-culture
 ---
 
 Ngồi xuống bên một bữa cơm Mã Lai và hình hài của nó đã rõ trước khi bạn nếm bất

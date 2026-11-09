@@ -114,6 +114,7 @@ relations:
   - { rel: "affects", to: "permanent-establishment" }
 related: ["transfer-pricing-documentation", "cbcr-and-master-file", "dta-network", "permanent-establishment"]
 keywords: ["acuerdo previo de valoración malasia", "advance pricing arrangement malaysia", "apa malaysia lhdn", "apa bilateral malasia", "tasa de solicitud apa malasia", "pu a 166 2023", "apa rollback malasia"]
+framework: how-to
 ---
 
 La mayoría de los asesores describen el acuerdo previo de valoración como un menú — unilateral si lo quiere barato y rápido, bilateral si quiere la protección del convenio. En Malasia no hay menú. La regla 2(2) de las Income Tax (Advance Pricing Arrangement) Rules 2023, P.U.(A) 166/2023, decide por usted, y decide sobre un único hecho: si el país en el que se asienta su parte vinculada tiene un acuerdo con Malasia con arreglo al art. 132 de la Income Tax Act 1967.

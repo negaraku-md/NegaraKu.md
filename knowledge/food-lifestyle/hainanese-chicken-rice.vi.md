@@ -86,6 +86,7 @@ keywords:
   - "Ipoh chicken rice"
 social:
   hashtags: ["#HainaneseChickenRice", "#NasiAyam", "#ChickenRiceBalls", "#Melaka", "#MalaysianFood"]
+framework: history-culture
 ---
 
 Gọi một đĩa cơm gà trong một kopitiam (quán cà phê truyền thống) ở Malaysia và ba

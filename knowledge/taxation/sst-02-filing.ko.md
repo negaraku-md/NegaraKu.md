@@ -77,6 +77,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-registration", "imported-taxable-services", "sales-tax-explained"]
 keywords: ["SST-02", "SST filing deadline Malaysia", "SST late payment penalty", "taxable period SST", "MySST return"]
+framework: rules
 ---
 
 벌칙 단계는 90일에서 상승을 멈춥니다. 그 시점을 지나면 40%로 고정되므로, 더 빨리

@@ -97,6 +97,7 @@ relations:
   - { rel: "affects", to: "stamp-duty-employment-contracts" }
 related: ["stamp-duty-rates", "stamp-duty-employment-contracts", "stamp-duty-share-transfer"]
 keywords: ["STSDS", "stamp duty self assessment Malaysia", "sistem taksir sendiri duti setem", "STAMPS", "BNDS", "stamp duty phases 2026"]
+framework: explainer
 ---
 
 La plupart des orientations sur le droit de timbre encore en circulation décrivent un système dans lequel vous envoyez le document à la LHDN, le Receveur calcule le droit, et vous payez ce qu'indique l'avis. Pour une part importante et croissante des instruments, ce modèle a pris fin le 1er janvier 2026 — et, avec lui, la position confortable selon laquelle le montant figurant sur l'avis était le problème de quelqu'un d'autre.

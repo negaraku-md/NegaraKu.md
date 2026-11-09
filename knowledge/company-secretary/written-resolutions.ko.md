@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "minute-books-and-records" }
 related: ["remove-a-director", "minute-books-and-records", "resolution-notice-periods", "board-meetings-and-minutes"]
 keywords: ["written resolution Malaysia", "section 297 Companies Act 2016", "circular resolution Sdn Bhd", "special resolution in writing", "remove director written resolution"]
+framework: explainer
 ---
 
 말레이시아의 대부분의 Sdn Bhd 주주 결정은 회의를 전혀 거치지 않습니다. 서류가 서명되고,

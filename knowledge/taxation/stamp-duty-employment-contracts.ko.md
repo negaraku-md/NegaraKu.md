@@ -87,6 +87,7 @@ relations:
   - { rel: "affects", to: "employment-act-1955" }
 related: ["stamp-duty-rates", "stamp-duty-self-assessment", "employment-act-1955"]
 keywords: ["stamp duty employment contract Malaysia", "kontrak penggajian duti setem", "RM10 stamp duty offer letter", "STAMPS employment contract", "item 4 First Schedule"]
+framework: rules
 ---
 
 2025년 6월 LHDN은 고용주들이 대부분 한 번도 고려하지 않았던 사실을 알렸습니다.

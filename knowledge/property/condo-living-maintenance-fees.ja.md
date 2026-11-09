@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "maintenance fee Malaysia", "sinking fund Malaysia", "JMB Malaysia", "Management Corporation Malaysia", "MC strata", "share units", "condo maintenance Malaysia", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
+framework: explainer
 ---
 
 あなたはその専有部分を買った。エレベーターも、警備室も、プールも、隣人と共有する壁を通る配管も、買ったわけではない。それでも、そのすべてに誰かが支払わなければならない——そして法律は、その請求を、あなたが法律上分けて管理することを義務づけられている二つの口座に分割する。

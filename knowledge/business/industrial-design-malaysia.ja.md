@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["patent-malaysia", "trademark-registration-malaysia", "ip-ownership-malaysia"]
 keywords: ["industrial design registration malaysia", "myipo industrial design", "industrial designs act 1996", "design protection malaysia", "product design ip malaysia"]
+framework: explainer
 ---
 
 マレーシアの製品知的財産において最も高くつく間違いは、先に発売してしまうことである。

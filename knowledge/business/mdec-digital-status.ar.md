@@ -108,6 +108,7 @@ keywords:
   - "أهلية وضع MD من MDEC"
   - "الحافز الضريبي لـ MD في ماليزيا"
   - "بنود ضمان Malaysia Digital"
+framework: explainer
 ---
 
 أهم ما ينبغي فهمه عن ماليزيا الرقمية (Malaysia Digital) هو ما *ليست* عليه.

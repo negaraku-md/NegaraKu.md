@@ -96,6 +96,7 @@ social:
     - "#MalaysianDessert"
     - "#ShavedIce"
     - "#PasarMalam"
+framework: explainer
 ---
 
 말레이시아의 무더운 오후, 얼음을 가는 기계의 윙윙 소리만큼 사람들을 끌어모으는

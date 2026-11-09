@@ -67,6 +67,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-expansion-2025", "sst-registration", "sst-02-filing"]
 keywords: ["SST B2B छूट", "सेवा कर B2B मलेशिया", "service tax B2B Malaysia", "समान कर-योग्य सेवा छूट", "same taxable service exemption"]
+framework: rules
 ---
 
 B2B छूट लगभग हर बार उसी शर्त पर विफल होती है: प्राप्त की गई सेवा वही **कर-योग्य

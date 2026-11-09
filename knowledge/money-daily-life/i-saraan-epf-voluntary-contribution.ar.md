@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "str-cash-aid" }
 related: ["epf", "epf-akaun-fleksibel", "epf-socso-gig-workers-self-employed", "str-cash-aid"]
 keywords: ["i-Saraan", "i-Saraan Plus", "KWSP i-Saraan", "الاشتراك الطوعي في EPF", "EPF للعاملين لحسابهم الخاص", "ادخار تقاعد عمال الوظائف المستقلة", "حافز EPF المماثل", "caruman sukarela KWSP"]
+framework: explainer
 ---
 
 إذا كنت تقود لتطبيق توصيل ركاب (e-hailing)، أو تبيع الطعام من كشك، أو تتولى أعمال تصميم مستقلة، أو تدير عملاً من شخص واحد، فثمة أمر لا يحدث أبداً يوم صرف الراتب: لا يقتطع صاحب عمل شريحة من دخلك لصالح [EPF](/ar/glossary/epf) (Kumpulan Wang Simpanan Pekerja، أو KWSP). فبالنسبة للموظفين برواتب، يحدث ذلك الاشتراك التقاعدي تلقائياً كل شهر. أما لكل من هم خارج نظام الرواتب الرسمي، فإن بيضة التقاعد لا تبني نفسها بنفسها — إلا إذا اخترت أنت بناءها. وهذا الخيار هو ما وُجد من أجله **i-Saraan**.

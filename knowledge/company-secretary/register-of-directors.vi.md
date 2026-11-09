@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "appoint-company-secretary" }
 related: ["statutory-registers", "register-of-members", "appoint-company-secretary", "annual-return"]
 keywords: ["register of directors Malaysia", "section 57 Companies Act 2016", "section 58 notification SSM", "daftar pengarah syarikat", "change of director SSM 14 days", "service address director Malaysia"]
+framework: rules
 ---
 
 Một giám đốc từ chức vào ngày 3 tháng 3. Thư ký nộp thông báo s.58 cho SSM vào ngày 14 tháng 3, đúng trong

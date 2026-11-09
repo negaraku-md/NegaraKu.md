@@ -100,6 +100,7 @@ relations:
   - { rel: "related-to", to: "e-invoice" }
 related: ["mbrs-2-filing-guide", "mbrs-tagging-errors", "form-c-and-cp204", "financial-year-end", "e-invoice", "mfrs-vs-mpers", "corporate-tax-rates"]
 keywords: ["Sdn Bhd bookkeeping", "chart of accounts Malaysia", "monthly close Malaysia", "section 245 accounting records", "tax computation add back", "capital allowance register", "SSMxT mapping chart of accounts"]
+framework: how-to
 ---
 
 คำแนะนำการทำบัญชีสำหรับ Sdn Bhd ส่วนใหญ่หยุดที่เดบิตและเครดิต ปัญหานั้นได้รับการแก้ไขไป

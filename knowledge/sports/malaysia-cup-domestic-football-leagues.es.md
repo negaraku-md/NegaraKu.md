@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "malaysia-national-football-team" }
 related: []
 keywords: ["Liga Super", "Piala Malaysia", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "bola sepak Malaysia"]
+framework: explainer
 ---
 
 Durante casi un siglo, un solo organismo —la Asociación de Fútbol de Malasia (FAM)— organizó cada partido de la liga nacional. Luego, en un movimiento que remodeló este deporte, el poder de dirigir las ligas se cedió a una empresa comercial. Esta es la base de cómo funciona hoy el fútbol interno malasio.

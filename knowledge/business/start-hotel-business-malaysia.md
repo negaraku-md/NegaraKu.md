@@ -78,6 +78,7 @@ social:
     - MOTAC
     - DoingBusinessInMalaysia
     - StartABusiness
+framework: how-to
 ---
 
 Buying the building, fitting the rooms and taking the first booking is the easy part of opening a hotel. The part that stops people is that a tourist-accommodation business in Malaysia answers to several authorities at once — the companies registry, the local council, the tourism ministry and the fire department — and one of them, MOTAC, requires you to register the premises **before** you operate. Skip it and you are not merely un-graded; you are operating an unlicensed tourism business, an offence that can cost up to RM500,000 or ten years' jail.

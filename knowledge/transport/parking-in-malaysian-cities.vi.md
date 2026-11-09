@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "road-tax-and-vehicle-registration" }
 related: []
 keywords: ["letak kereta", "e-parking", "kompaun letak kereta", "DBKL", "Smart Selangor Parking", "EZ Smart Park"]
+framework: explainer
 ---
 
 Bạn tìm tiền xu trong xe để bỏ vào máy bán vé — nhưng chiếc máy đó đã biến mất từ năm 2020. Đậu xe ở các thành phố lớn của Malaysia nay bắt đầu bằng điện thoại thông minh, không còn là ống tiền xu ven đường.

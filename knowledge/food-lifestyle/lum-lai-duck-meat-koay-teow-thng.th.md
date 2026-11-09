@@ -78,6 +78,7 @@ related:
   - "malaysian-noodles"
 social:
   hashtags: ["KoayTeowThng", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 ในบรรดาแผงก๋วยเตี๋ยวเป็ดของจอร์จทาวน์ มีอยู่แผงหนึ่งที่กลายเป็นแม่เหล็กดึงดูด

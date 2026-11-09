@@ -94,6 +94,7 @@ verificationNeeded:
   - "Kelantan のカレーが Terengganu の gulai ikan tongkol と実質的に異なるかどうか、および標準的な魚——大半の資料はマグロ（ikan tongkol／aya）を挙げ、mackerel と tenggiri も引かれる。現地の資料で確認すること。"
   - "「商人の米」という語源と起源伝説（Bugis の商人、あるいは海へ携えた漁師）——広く流布するが記録は曖昧である。歴史または辞書学の資料で確認すること。"
   - "2009 年の国家遺産食登録——年と登録機関を、Jabatan Warisan Negara または JKKN の一次記録と照合して確認すること。"
+framework: explainer
 ---
 
 マレーシアの東海岸で朝食を頼むと、淡くつやのある米の小さなバナナの葉包みが、色の濃い脂の

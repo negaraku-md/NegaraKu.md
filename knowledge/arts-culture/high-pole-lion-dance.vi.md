@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "chinese-clan-associations", "chinese-dialects", "population-composition"]
 keywords: ["高桩舞狮", "梅花桩舞狮", "南狮", "醒狮", "采青", "锣鼓钹", "关圣宫", "麻坡", "云顶世界狮王争霸赛", "舞狮", "High Pole Lion Dance", "Kun Seng Keng"]
+framework: history-culture
 ---
 
 Khi tiếng trống dồn gấp lại, con lân tung mình lên không, hai chân trước đáp vững vàng trên một cọc thép chỉ nhỏ bằng miệng bát, đuôi lân lập tức theo sau — hai nghệ nhân nhảy nhót và tạo dáng giữa một dãy cọc cao thấp khác nhau, cách mặt đất hai ba mét, khán giả nín thở, cho đến khi con lân như đã 'sống dậy' ấy đứng vững trên cọc cao nhất, tiếng vỗ tay mới vỡ òa. Đây không phải màn múa lân chúc Tết dưới mặt đất, mà là một môn thi đấu có chấm điểm, có nhà vô địch, có thứ hạng thế giới — múa lân trên cột cao.

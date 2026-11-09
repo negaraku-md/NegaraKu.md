@@ -56,6 +56,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
+framework: history-culture
 ---
 
 A city built on tin ended up giving the world a metal craft. Kuala Lumpur exists because prospectors found tin ore where the Klang and Gombak rivers meet. Decades later, a teenage tinsmith who came to work that same tin economy started hammering out incense burners for temple altars — and the workshop he opened is now the largest pewter maker on Earth.

@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#PenangRoadFamousLaksa", "#AssamLaksa", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 Pocos nombres de comida callejera en George Town están tan asentados como Penang

@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["employment-pass", "opening-bank-account"]
 keywords: ["rental Malaysia", "iProperty", "PropertyGuru", "Mudah", "REN Malaysia", "registered estate negotiator", "BOVAEP", "LPPEH", "estate agent Malaysia", "rental commission Malaysia", "REN Tag"]
+framework: explainer
 ---
 
 Bạn tìm thấy một tin đăng bạn thích trên một cổng, nhắn tin đến số trên đó, và ai đó xuất hiện để mở khóa căn hộ. Không có gì trong cuộc trao đổi đó cho bạn biết liệu người trao chìa khóa cho bạn có được phép hợp pháp làm việc này vì một khoản phí hay không — và hầu như không ai hỏi.

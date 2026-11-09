@@ -67,6 +67,7 @@ sources:
 
 related: ["muhyiddin-yassin", "2022-general-election", "prime-ministers-of-malaysia", "anwar-ibrahim", "najib-razak"]
 keywords: ["इस्माइल सबरी याकूब", "मलेशिया के नौवें प्रधानमंत्री", "Keluarga Malaysia", "स्थिरता MOU 2021", "UMNO", "Ismail Sabri Yaakob", "ninth prime minister Malaysia"]
+framework: profile
 ---
 
 > **मसौदा — संवेदनशील।** यह लेख एक निष्पक्ष, निर्माणाधीन सारांश है और इसे

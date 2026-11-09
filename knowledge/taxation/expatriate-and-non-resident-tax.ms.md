@@ -85,6 +85,7 @@ relations:
   - { rel: "requires", to: "individual-tax-residence" }
 related: ["income-tax-in-malaysia", "individual-tax-residence", "personal-tax-rates", "which-tax-form", "epf-foreign-workers-malaysia"]
 keywords: ["cukai ekspatriat Malaysia", "kadar cukai bukan pemastautin Malaysia 30", "pengecualian 60 hari cukai Malaysia", "kadar cukai pekerja pengetahuan 15", "cukai Returning Expert Programme", "taraf mastautin cukai Employment Pass"]
+framework: rules
 ---
 
 Bulan yang paling mahal dalam satu penempatan ekspatriat biasanya ialah bulan

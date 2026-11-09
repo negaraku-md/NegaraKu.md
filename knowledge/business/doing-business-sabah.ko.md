@@ -124,6 +124,7 @@ keywords:
   - "DBKK trading licence fee"
   - "SEDIA Sabah Development Corridor"
   - "Sabah state sales tax"
+framework: profile
 ---
 
 말레이시아에서 사업하기에 관한 거의 모든 전국 안내서는 사바에 대해 틀리며, 매번 같은 방식으로 틀립니다: SSM이 당신의 기업을 등록해 주고, 지방정부법 1976(Local Government Act 1976)이 당신의 사업장을 인허가하며, 회랑 당국이 연방 법정 기관이라고 가정하는 것입니다. 남중국해 동쪽에서는 이 셋 중 어느 것도 사실이 아닙니다.

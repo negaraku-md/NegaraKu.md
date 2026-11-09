@@ -101,6 +101,7 @@ relations:
   - { rel: "located-in", to: "johor" }
 related: ["tenaga-nasional", "johor"]
 keywords: ["data centre Malaysia", "centre de données Malaisie", "Johor data centre", "centre de données Johor", "TNB data centre", "non-AI data centre restriction", "data sovereignty Malaysia", "souveraineté des données", "National Cloud Computing Policy", "Green Lane TNB", "Johor water data centre"]
+framework: explainer
 ---
 
 En moins de trois ans, une bande du sud du Johor, de l'autre côté de la chaussée face à Singapour, est devenue l'un des endroits les plus convoités de la planète pour brancher un serveur. Géants du nuage, opérateurs de colocation et jeunes pousses d'IA s'y sont rués — et la Malaisie découvre maintenant que les lignes électriques et les conduites d'eau sous l'essor ont des limites.

@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["ip-ownership-malaysia", "industrial-design-malaysia", "patent-malaysia"]
 keywords: ["copyright malaysia", "copyright registration malaysia", "voluntary notification copyright", "copyright act 1987", "cr-1 form myipo"]
+framework: explainer
 ---
 
 没有什么可以注册的。马来西亚的版权不是由哪个部门授予的；它在一件原创作品被化为

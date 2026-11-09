@@ -92,6 +92,7 @@ relations:
   - { rel: "administered-by", to: "nadma-malaysia" }
 related: []
 keywords: ["persediaan banjir", "beg kecemasan", "banjir monsun", "PPS", "Bantuan Wang Ihsan", "NADMA", "amaran cuaca MetMalaysia", "tanah runtuh", "gempa bumi Sabah", "bencana"]
+framework: how-to
 ---
 
 Air sungai naik paras jalan pada pukul dua pagi bukan masa untuk mula mencari sijil lahir dan mengisi botol air — itu masa untuk keluar. Di Malaysia, bencana yang paling mungkin memaksa keluarga anda meninggalkan rumah bukan gempa besar atau ribut taufan, tetapi banjir monsun yang datang hampir setiap tahun. Panduan ini menyusun apa yang perlu anda buat sebelum, semasa dan selepas banjir, serta risiko lain seperti tanah runtuh, jerebu dan gempa bumi Sabah, supaya keputusan penting sudah dibuat lama sebelum air sampai ke pintu.

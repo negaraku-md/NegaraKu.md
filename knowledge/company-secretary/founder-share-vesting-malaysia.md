@@ -77,6 +77,7 @@ social:
     - SdnBhd
     - VentureCapital
     - MalaysiaCompanyLaw
+framework: explainer
 ---
 
 Two people incorporate a Sdn Bhd, split the shares 50/50, and start building. Six months in, one of them loses interest and walks — keeping half the company. The remaining founder now carries all the work while a passive ex-partner sits on 50% of the equity, blocking the cap table any future investor will want to see clean. This "dead equity" problem is the single most common founder disaster, and the fix is vesting: making a founder's equity something they keep by staying, not something they own outright from the first day.

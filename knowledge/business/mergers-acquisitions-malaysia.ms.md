@@ -86,6 +86,7 @@ keywords:
   - "CKHT Syarikat Harta Tanah"
   - "kod pengambilalihan Malaysia"
   - "due diligence perniagaan"
+framework: decision
 ---
 
 Kebanyakan orang membayangkan usaha gabungan atau pengambilalihan sebagai satu majlis menandatangani yang dramatik. Pada hakikatnya, sesuatu urus niaga Malaysia ialah satu urutan keputusan yang lebih kecil, dan yang pertama — *bagaimana* anda membeli, bukan sama ada anda membeli — secara senyap membentuk segala yang menyusul: bil cukai anda, liabiliti yang anda warisi, kelulusan yang anda perlukan, dan berapa banyak akhirnya yuran peguam dikenakan. Dapatkan struktur yang betul dan usaha wajar menjadi latihan penilaian harga; salah dapat dan anda boleh membeli satu saman, satu liabiliti cukai, atau satu lesen yang anda tidak pernah layak memegangnya. Panduan ini merentasi keseluruhan laluan, daripada pemilihan antara jualan saham dan jualan aset hingga ke titik sentuh kawal selia yang menentukan sama ada sesuatu urus niaga dapat diselesaikan dengan lancar.

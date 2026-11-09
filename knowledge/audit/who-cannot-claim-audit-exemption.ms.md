@@ -54,6 +54,7 @@ relations:
   - { rel: "part-of", to: "audit-exemption" }
 related: ["audit-exemption", "audit-exemption-thresholds", "after-audit-exemption"]
 keywords: ["siapa tidak boleh menuntut pengecualian audit", "pengecualian audit tersingkir Malaysia", "syarikat sendirian dikecualikan sijil seksyen 260", "anak syarikat syarikat awam audit", "syarikat asing audit Malaysia"]
+framework: rules
 ---
 
 Melepasi ambang bukanlah pintu pagar terakhir. Perenggan 12 Arahan Amalan

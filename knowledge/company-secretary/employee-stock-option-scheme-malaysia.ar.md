@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "perquisites-and-benefits-in-kind-tax" }
 related: ["companies-act-2016"]
 keywords: ["ESOS malaysia", "خطة خيارات أسهم الموظفين ماليزيا", "employee share option scheme malaysia", "ضريبة ESOP ماليزيا", "امتياز خيار الأسهم ماليزيا", "المادة 75 قانون الشركات 2016", "section 75 companies act 2016", "خطة أسهم Bursa 15%", "كيف تُفرَض الضريبة على ESOS ماليزيا"]
+framework: explainer
 ---
 
 الشركات الناشئة التي تعوزها السيولة النقدية والشركات الناضجة التي تلاحق الاحتفاظ

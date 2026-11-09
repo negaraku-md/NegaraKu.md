@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: ["bahasa-melayu", "melaka-sultanate", "article-3-religion"]
 keywords: ["tulisan Jawi", "aksara Arab Melayu", "Batu Bersurat Terengganu", "sejarah tulisan Jawi", "seni khat", "ejaan Jawi", "Seksyen 9 Akta Bahasa Kebangsaan"]
+framework: history-culture
 ---
 
 Trên một tấm bia đá được tìm thấy ở Terengganu có khắc những chữ tiếng Mã Lai — không phải bằng thứ chữ ta dùng ngày nay, mà bằng hệ chữ Ả Rập được điều chỉnh cho những âm của tiếng Mã Lai. Tấm bia ấy, Bia đá Terengganu, mang niên đại 702 Hijra, thường được tương ứng với năm 1303 Công nguyên.

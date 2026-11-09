@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-digital-services", "cp37-forms"]
 keywords: ["التخلف عن استقطاع الضريبة ماليزيا", "failure to withhold tax Malaysia", "المادة 39(1)(j)", "section 39(1)(j)", "عقوبة ضريبة الاستقطاع ماليزيا", "withholding tax penalty Malaysia", "الزيادة بنسبة 10 في المئة", "عقوبة المادة 113(2)"]
+framework: explainer
 ---
 
 RM5,000 من ضريبة استقطاع فائتة لا تُكلِّف RM5,000. إنها تُكلِّف RM5,500 ضريبةً،

@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["share-transfer", "register-of-members", "share-capital-malaysia", "capital-reduction", "beneficial-ownership"]
 keywords: ["शेयर आवंटन मलेशिया", "share allotment Malaysia", "आवंटन की विवरणी 14 दिन", "return of allotment 14 days", "धारा 75 कंपनी अधिनियम 2016", "section 75 Companies Act 2016", "पूर्वक्रय अधिकार धारा 85", "pre-emptive rights section 85", "नए शेयर जारी करना Sdn Bhd"]
+framework: how-to
 ---
 
 एक Sdn Bhd में नए शेयर जारी करना एक बोर्ड निर्णय जैसा दिखता है। यह नहीं है। कंपनी

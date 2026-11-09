@@ -64,6 +64,7 @@ relations:
   - { rel: "part-of", to: "settling-in" }
 related: ["moving-to-malaysia-first-steps", "dependant-social-visit-passes"]
 keywords: ["traer mascotas a Malasia", "permiso de importación MAQIS", "reglas de importación de mascotas DVS", "cuarentena perro gato Malasia", "razas de perro restringidas Malasia", "ISO microchip pet import"]
+framework: how-to
 ---
 
 Su vuelo está reservado, sus cajas están empacadas y, de repente, cae en la cuenta: ¿y el perro? En Malasia, una mascota no se limita a viajar en la bodega de carga: necesita un permiso que se aprueba antes de que despegue, un microchip que cumpla una norma ISO específica y, muy probablemente, una semana o más de cuarentena antes de que usted pueda recuperarla.

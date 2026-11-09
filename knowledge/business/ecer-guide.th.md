@@ -133,6 +133,7 @@ keywords:
   - "MCKIP Kuantan incentives"
   - "Kuantan Port free zone"
   - "ECRL completion date"
+framework: profile
 ---
 
 ECER เป็นระเบียงเศรษฐกิจที่ทำมันอย่างถูกต้อง ในที่ที่ Northern Corridor ให้สิ่งจูงใจผ่านดุลพินิจของรัฐมนตรีที่ไม่มีเอกสารและ Johor-Singapore SEZ ยังคงไม่มีตราสารในราชกิจจานุเบกษาเลย ECER มี **คำสั่งที่เผยแพร่แปดฉบับ** ที่คุณดาวน์โหลด อ่าน และตรวจสอบได้เอง

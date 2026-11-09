@@ -69,6 +69,7 @@ faq:
     a: Không chính xác. Người Hoa quả thực là bộ phận tín đồ chủ yếu, phần lớn theo Phật giáo Đại thừa; nhưng các cộng đồng gốc Xiêm, Sri Lanka và Miến Điện lại theo một dòng mạch độc lập riêng biệt — Phật giáo Thượng tọa bộ (Theravada), với các ngôi chùa gọi là Wat, trong đó cộng đồng người Xiêm ở các bang phía bắc có lịch sử lâu đời nhất. Ngoài ra còn có Kim Cương thừa với quy mô nhỏ hơn. Đánh đồng Phật giáo Malaysia với tôn giáo của người Hoa là bỏ qua những truyền thống song song này.
   - q: Lễ Wesak kỷ niệm điều gì? Đó có phải là ngày nghỉ lễ công cộng không?
     a: Wesak (Ngày Wesak) kỷ niệm sự đản sinh, thành đạo và nhập niết bàn của Đức Phật, và là ngày nghỉ lễ công cộng trên toàn quốc tại Malaysia. Tín đồ đến chùa dâng hoa, thắp đèn và bố thí. Tự do tôn giáo được bảo vệ bởi Điều 11 của Hiến pháp Liên bang; tuy Điều 3 quy định Hồi giáo là tôn giáo của Liên bang, nhưng điều đó không ngăn cản các tôn giáo khác được thực hành trong hòa bình.
+framework: history-culture
 ---
 
 Trên những sườn đồi ở Penang, bóng tháp của chùa Cực Lạc (Kek Lok Si) trông

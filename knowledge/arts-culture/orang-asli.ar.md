@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["population-composition", "languages-spoken", "federal-constitution"]
 keywords: ["أورانغ أسلي", "Orang Asli", "الشعوب الأصلية", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Proto", "18 مجموعة فرعية", "JAKOA", "قانون الشعوب الأصلية 1954", "Akta Orang Asli 1954", "Akta 134"]
+framework: explainer
 ---
 
 قبل أن يظهر اسم ماليزيا على أي خريطة بزمن طويل، كانت هناك مجتمعات تسكن غابات شبه الجزيرة ومرتفعاتها وسواحلها. ويُعرفون اليوم جماعيًا بأورانغ أسلي — وهو مصطلح مالاوي يعني «الناس الأصليين» أو «السكان الأصليين».

@@ -132,6 +132,7 @@ relations:
   - { rel: "part-of", to: "payroll-compliance-malaysia" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide"]
 keywords: ["PCB Malaysia", "MTD monthly tax deduction", "CP38 CP39 CP22", "e-PCB LHDN employer", "potongan cukai bulanan"]
+framework: rules
 ---
 
 PCB 是马来西亚薪金单上唯一一栏——雇主手上握着的是别人的钱，而且最终可能要为它承担

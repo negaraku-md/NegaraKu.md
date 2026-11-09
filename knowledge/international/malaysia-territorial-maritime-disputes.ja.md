@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: []
 keywords: ["Laut China Selatan", "Batu Puteh", "Pedra Branca", "Sabah", "UNCLOS", "kedaulatan", "pertikaian maritim", "Spratly"]
+framework: explainer
 ---
 
 学校の壁に掛かっているマレーシアの地図は、静かで確定したもののように見える——しかしその海の境界線では、いまも交渉のテーブルや国際法廷で線引きが議論され続けている。マレーシアには完全には解決していない三つの領土・海洋問題があり、それぞれが異なる方法で扱われている。一つは法廷で、一つは国連の委員会で、そしてもう一つは意図的に休眠状態のまま残されている。

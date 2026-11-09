@@ -71,6 +71,7 @@ sources:
 
 related: ["wawasan-2020", "ops-lalang-1987", "1998-reformasi", "new-economic-policy", "2018-change-of-government"]
 keywords: ["Mahathir Mohamad", "Tun Mahathir", "fourth prime minister Malaysia", "Vision 2020", "Wawasan 2020"]
+framework: profile
 ---
 
 Mahathir Mohamad (nacido el 10 de julio de 1925) es el primer ministro de más

@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["population-composition", "languages-spoken", "federal-constitution"]
 keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Proto", "18 suku kaum", "JAKOA", "Akta Orang Asli 1954", "Akta 134"]
+framework: explainer
 ---
 
 Long before the name Malaysia existed on any map, communities already inhabited the forests, highlands and coasts of the Peninsula. Today they are known collectively as Orang Asli — a Malay term meaning "original people" or "original inhabitants".

@@ -97,6 +97,7 @@ verificationNeeded:
   - "Kedah's exact share of Malaysia's national rice output — sources give roughly 40%, about 43%, and close to half, while a MADA-based academic figure puts the Muda region at about 38.9%. Confirm against primary MADA or Department of Statistics Malaysia data for a given year."
   - "How far laksa Kedah / laksa utara really departs from Penang asam laksa — some sources treat the difference as mainly garnish (e.g. added boiled egg), others as a thicker broth and a milder, less-sour flavour — and which fish is standard (ikan kembung vs the ikan termenung variant). Confirm with a Kedah culinary or heritage source."
   - "The relative weight of Southern Thai versus Sumatran influence on Kedah's Malay cuisine, and whether budu is genuinely part of the Kedah table — budu is most strongly associated with the east coast (Kelantan/Terengganu), while Kedah leans on pekasam. Confirm with a regional food-history source."
+framework: history-culture
 ---
 
 Drive north up the Peninsula and the land flattens into an almost unbroken sheet

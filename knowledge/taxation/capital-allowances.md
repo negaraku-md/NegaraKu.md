@@ -135,6 +135,7 @@ relations:
   - { rel: "related-to", to: "non-deductible-expenses" }
 related: ["losses-and-group-relief", "form-c-and-cp204", "basis-period-and-accounting-date"]
 keywords: ["capital allowance malaysia", "schedule 3 income tax act 1967", "initial allowance annual allowance", "balancing charge malaysia", "small value asset RM2000", "qualifying plant expenditure"]
+framework: explainer
 ---
 
 The depreciation line in your accounts is worth nothing to LHDN. Paragraph 39(1)(e) of the Income Tax Act 1967 disallows any expenditure that is qualifying expenditure for the purposes of Schedule 3 — so the accounting charge is added back in full, and Schedule 3 decides, on its own terms, how much relief the asset actually earns and when.

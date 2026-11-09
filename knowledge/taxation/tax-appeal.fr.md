@@ -112,6 +112,7 @@ relations:
   - { rel: "compares-with", to: "stamp-duty-self-assessment" }
 related: ["tax-audit", "tax-penalties", "tax-clearance", "stamp-duty-self-assessment", "rpgt-rates"]
 keywords: ["tax appeal Malaysia", "Form Q LHDN", "borang Q rayuan", "Special Commissioners of Income Tax", "Pesuruhjaya Khas Cukai Pendapatan", "section 99 Income Tax Act", "Form N extension of time", "Prosiding Resolusi Pertikaian"]
+framework: how-to
 ---
 
 Le seul fait qui décide de la plupart des recours fiscaux malaisiens ne se trouve pas du tout dans les dispositions relatives aux recours. Il figure à l'**art. 103(1)** de l'Income Tax Act 1967 : l'impôt d'un avis d'imposition est exigible et payable à la date d'échéance **que cette personne fasse appel ou non contre l'avis d'imposition**. L'art. 103(2) le répète pour les avis d'imposition issus d'audit, de meilleur jugement et majorés. Et l'**art. 106(3)** boucle la boucle : dans les procédures de recouvrement, le tribunal **n'admettra aucun argument** selon lequel le montant est excessif, mal établi ou *en cours de recours*.

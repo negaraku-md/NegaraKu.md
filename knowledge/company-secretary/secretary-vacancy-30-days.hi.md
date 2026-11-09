@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "appoint-company-secretary" }
 related: ["secretary-resignation", "appoint-company-secretary", "changing-company-secretary"]
 keywords: ["कंपनी सचिव रिक्ति 30 दिन", "company secretary vacancy 30 days", "धारा 240 कंपनी अधिनियम 2016", "section 240 Companies Act 2016", "सचिव का पद रिक्त मलेशिया", "बिना कंपनी सचिव दंड मलेशिया", "section 235 Companies Act 2016"]
+framework: rules
 ---
 
 अधिकांश Sdn Bhd निदेशक इस नियम को उसी तरह खोजते हैं जैसे कोई धुआँ-अलार्म की बैटरी

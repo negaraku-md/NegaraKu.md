@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "malaysias-telcos-and-5g" }
 related: ["digital-free-trade-zone", "cyberjaya-tech-hub", "malaysias-telcos-and-5g"]
 keywords: ["MyDIGITAL", "Blueprint Ekonomi Digital Malaysia", "Malaysia Digital Economy Blueprint", "ekonomi digital Malaysia", "Malaysia Digital", "MDEC", "Status Malaysia Digital", "MD2030"]
+framework: explainer
 ---
 
 2021년 2월, 수백만 명의 말레이시아인이 온라인으로 이동하도록 강요한 COVID-19(코로나19) 팬데믹의 한복판에서, 정부는 대담한 목표 하나를 종이에 올렸습니다. 2025년까지 디지털 경제가 국내총생산(GDP)에 22.6%를 기여하도록 만든다는 것입니다. 그 목표를 담은 문서가 말레이시아 디지털 경제 청사진 — 흔히 MyDIGITAL로 알려진 이니셔티브의 근간 — 입니다.

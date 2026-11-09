@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "department-of-environment-doe" }
 related: ["department-of-environment-doe", "malaysias-rainforests-and-permanent-forest-reserves"]
 keywords: ["Malaysia NDC 3.0", "net zero 2050 Malaysia", "Climate Change Act Malaysia", "National Climate Change Policy 2.0", "Paris Agreement Malaysia", "emissions trading scheme", "carbon tax Malaysia", "NRES", "UNFCCC"]
+framework: explainer
 ---
 
 Trong gần một thập niên Malaysia đo cam kết khí hậu của mình theo một cách mà hầu như không công dân nào có thể cảm nhận: phát thải trên mỗi đơn vị GDP. Vào tháng 10 năm 2025 điều đó thay đổi. Đất nước nói với Liên Hợp Quốc rằng nó sẽ cắt giảm một khối lượng khí nhà kính cố định — 15 đến 30 triệu tấn — từ bất kỳ mức nào mà phát thải của nó đạt đỉnh. Đây là lần đầu tiên Malaysia đặt một con số tuyệt đối lên bàn, và nó định hình lại mọi mảnh khác trong kiến trúc khí hậu của đất nước quanh một câu hỏi duy nhất: làm thế nào một nền kinh tế đang phát triển, tăng trưởng nhanh, sản xuất dầu khí uốn cong đường phát thải của nó xuống dưới mà không bị đình trệ?

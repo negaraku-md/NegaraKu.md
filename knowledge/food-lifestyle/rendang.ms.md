@@ -96,6 +96,7 @@ social:
     - "#MalaysianFood"
     - "#HariRaya"
     - "#Minangkabau"
+framework: explainer
 ---
 
 Berjalan melepasi dapur orang Melayu pada hari-hari menjelang Hari Raya dan

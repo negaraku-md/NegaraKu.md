@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "equity-crowdfunding-p2p-malaysia" }
 related: ["kl20-startup-ecosystem", "securities-commission-malaysia"]
 keywords: ["venture capital malaysia", "private equity malaysia", "VCC VCMC malaysia", "SC registration venture capital", "raise funding startup malaysia", "MAVCAP", "Penjana Kapital", "VC tax incentive malaysia"]
+framework: explainer
 ---
 
 பெரும்பாலான மலேசிய நிறுவனங்கள் தக்கவைக்கப்பட்ட லாபம், வங்கி மேல்வரைப்பற்று, அல்லது ஒரு SME கடன் மூலம் வளர்கின்றன. சிறிய ஆனால் முக்கியமான ஒரு குழு அதற்குப் பதிலாக மற்றவரின் பங்கு மூலம் வளர்கிறது — ஒரு நிதி வணிகத்தின் ஒரு பகுதியை வாங்கி, அதை அளவீட்டிற்கு தள்ளி, பல ஆண்டுகளுக்குப் பின் அந்தப் பகுதியை பன்மடங்கு விலைக்கு விற்கிறது. அதுதான் துணிகர மூலதனமும் தனியார் பங்கும் செய்வது, மேலும் மலேசியா இந்த செயல்பாட்டை, அமெரிக்காவைப் போல் இயங்குகிறது என்று கருதுபவர்களை ஆச்சரியப்படுத்தும் வழிகளில் ஒழுங்குபடுத்துகிறது, நிதியளிக்கிறது, வரி விதிக்கிறது.

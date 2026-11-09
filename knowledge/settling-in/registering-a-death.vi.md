@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "jpn" }
 related: ["jpn", "mykad"]
 keywords: ["daftar kematian Malaysia", "sijil kematian JPN", "borang JPN.LM02", "pendaftaran kematian JPN", "sijil kematian waris", "pusaka kecil JKPTG", "tempoh daftar kematian Malaysia"]
+framework: how-to
 ---
 
 Trước khi ngân hàng có thể phong tỏa tài khoản của người đã khuất, trước khi

@@ -88,6 +88,7 @@ verificationNeeded:
   - "Klaim bahwa mee siam sampai ke Singapura melalui migrasi keluarga Tionghoa Selat dari Penang pada awal tahun 1800-an — verifikasi dengan sumber sejarah."
   - "Apakah asam jawa esensial pada setiap versi: sebagian juru masak menggantinya atau melengkapinya dengan jeruk nipis atau air lemon, dan sumber rasa asam standar bervariasi menurut resep. Verifikasi dasar kuah yang lazim pada gaya basah maupun kering."
   - "Pelengkap standar (telur rebus, udang, tahu goreng, kucai, tauge, jeruk kasturi versus jeruk nipis) bervariasi menurut juru masak dan daerah — verifikasi komposisi Malaysia yang paling khas."
+framework: explainer
 ---
 
 Pesan "mee siam" dan hasilnya bergantung pada gerai. Di satu gerai Anda mendapat

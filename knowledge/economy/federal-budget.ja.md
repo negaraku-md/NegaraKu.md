@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["parliament", "federal-constitution", "gdp-overview", "sst-explained"]
 keywords: ["belanjawan persekutuan", "Akta Perbekalan", "Rang Undang-Undang Perbekalan", "peringkat jawatankuasa belanjawan", "kitaran belanjawan Malaysia", "Akta 850"]
+framework: explainer
 ---
 
 2025年12月31日、2026年歳出法（Akta Perbekalan 2026）が官報告示された。同法が

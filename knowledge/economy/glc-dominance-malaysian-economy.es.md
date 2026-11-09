@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "epf-kwsp-retirement-savings" }
 related: []
 keywords: ["GLC", "GLIC", "Khazanah", "compañías vinculadas al gobierno", "Bursa Malaysia", "PERKUKUH", "propiedad estatal", "economía malasia"]
+framework: explainer
 ---
 
 Compre casi cualquier valor de primera línea (blue chip) en Bursa Malaysia y estará, indirectamente, haciendo negocios con el gobierno malasio. La red eléctrica nacional, el mayor banco, la operadora de telecomunicaciones tradicional y uno de los mayores grupos de aceite de palma del mundo comparten todos el mismo conjunto de propietarios últimos: un pequeño grupo de fondos de inversión estatales que entre ellos dirigen aproximadamente una cuarta parte de todo el mercado bursátil local.

@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "kaamatan" }
 related: ["hari-raya-aidilfitri", "chinese-new-year", "deepavali", "christmas-malaysia", "gawai-dayak", "kaamatan"]
 keywords: ["juadah perayaan", "makanan raya", "ketupat", "rendang", "lemang", "yee sang", "lou sang", "murukku", "manok pansuh", "hinava", "tuak", "tumpung", "rumah terbuka", "kuih raya"]
+framework: history-culture
 ---
 
 マレーシアの暦を一年の端から端までたどると、変わるのは日付だけではない——台所が変わるのである。ある月はルンダンと椰子ミルクのレマンの香りが漂い、数か月後には、人々が歓声を上げながら高く掬い上げる生魚サラダで食卓が埋め尽くされる；やがてパリパリとしたムルクの渦巻きの番が来て、最後には竹筒が割られ、熱々の鶏肉が取り出される。

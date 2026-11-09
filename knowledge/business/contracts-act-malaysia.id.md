@@ -90,6 +90,7 @@ keywords:
   - "adakah non-compete boleh dikuatkuasakan di Malaysia"
   - "ganti rugi ditentukan Malaysia seksyen 75"
   - "Akta Kontrak 1950"
+framework: explainer
 ---
 
 Sebuah perusahaan Malaysia menandatangani perjanjian distribusi yang disusun di London.

@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "business-licence-malaysia" }
 related: ["fnb-licence-malaysia", "premise-licence-malaysia", "business-licence-malaysia"]
 keywords: ["sijil halal", "JAKIM", "MS 1500", "MYeHALAL", "logo Halal Malaysia", "pensijilan halal", "Verify Halal"]
+framework: explainer
 ---
 
 包装や飲食店では、さまざまな「ハラル」のロゴや文字を目にするが、そのすべてが公式な認定を受けているわけではない。マレーシアで、指定された権限機関に裏付けられたハラルマークは一つだけである——マレーシア・イスラム開発局（JAKIM）が発行するHalal Malaysiaロゴである。この証明書の仕組みを理解することは、消費者が製品のハラル状況を確認する方法と、事業者が公式な認定マークを取得する方法という、二つのことを同時に理解することになる。

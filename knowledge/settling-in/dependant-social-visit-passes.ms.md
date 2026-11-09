@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "employment-pass-malaysia" }
 related: ["moving-to-malaysia-first-steps", "imigresen", "employment-pass-malaysia", "work-passes-malaysia", "opening-bank-account"]
 keywords: ["Dependant Pass Malaysia", "Long-Term Social Visit Pass", "LTSVP Malaysia", "Employment Pass family", "sponsor spouse Malaysia visa", "parents visa Malaysia expatriate", "Malaysia family visa options"]
+framework: explainer
 ---
 
 Seorang pemegang Employment Pass yang berpindah ke Malaysia boleh membawa pasangan dan anak-anak kecil menggunakan satu pas. Ibu bapa mereka, atau seorang anak yang baru genap 18 tahun, memerlukan satu pas yang sama sekali berbeza. Pemegang utama yang sama, isi rumah yang sama, dua kategori imigresen yang berasingan — dan mengelirukan kedua-duanya adalah cara paling biasa sesuatu permohonan penajaan keluarga tersekat.

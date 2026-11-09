@@ -86,6 +86,7 @@ relations:
 related: ["federal-constitution", "bahasa-melayu", "population-composition", "formation-of-malaysia-1963", "independence-1957", "ma63"]
 keywords: ["languages of Malaysia", "Bahasa Melayu", "national language Malaysia", "Article 152 Federal Constitution", "Chinese dialects Malaysia", "Tamil Malaysia", "Orang Asli languages", "Kadazan-Dusun", "Iban language", "vernacular schools Malaysia", "SJKC SJKT"]
 sponsor: "none"
+framework: explainer
 ---
 
 Chính quyền bang Sabah tóm tắt dân số của chính mình theo cách này: 33 nhóm bản địa, giao tiếp bằng hơn 50 ngôn ngữ và khoảng 80 phương ngữ. Đó là một bang, trên tổng số mười ba, cộng với ba lãnh thổ liên bang. Thu tầm nhìn ra toàn bộ đất nước và bức tranh chỉ càng nhiều tầng lớp hơn — thế mà Hiến pháp Liên bang nêu tên đúng một quốc ngữ.

@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "trade-descriptions-act-2011" }
 related: ["jakim"]
 keywords: ["pensijilan halal Malaysia", "SPHM", "JAKIM halal", "MYeHALAL", "MS 1500", "logo halal Malaysia", "sijil halal", "e-Cert halal", "Manual Prosedur Pensijilan Halal Malaysia", "skim pensijilan halal"]
+framework: how-to
 ---
 
 Logo halal hình ngôi sao tám cánh với chữ Ả Rập ở giữa là một trong những dấu hiệu dễ nhận biết nhất trên kệ siêu thị Malaysia — và chỉ một cơ quan duy nhất trên toàn quốc mới có quyền đặt nó ở đó. Không phải nhà sản xuất, không phải cố vấn tư nhân, và không phải bất kỳ tổ chức chứng nhận quốc tế nào, mà chính là chính phủ, thông qua JAKIM và các cơ quan đồng cấp ở cấp bang.

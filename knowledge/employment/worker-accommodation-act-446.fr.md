@@ -121,6 +121,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: []
 keywords: ["loi 446", "certificat de logement", "logement des travailleurs malaisie", "normes minimales de logement salariés", "hébergement centralisé", "act 446", "certificate for accommodation"]
+framework: rules
 ---
 
 Commençons par le nom, car presque tous les articles sur ce sujet se trompent. La loi est la **loi de 1990 sur les normes minimales de logement, d'hébergement et d'équipements pour les salariés** (Employees' Minimum Standards of Housing, Accommodations and Amenities Act 1990) (loi 446). Elle s'appelait auparavant la *Workers'* Minimum Standards of Housing and Amenities Act, et l'alinéa 4(a) de la loi A1604 a modifié le titre abrégé avec effet au 1er juin 2020.

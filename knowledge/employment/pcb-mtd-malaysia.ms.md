@@ -132,6 +132,7 @@ relations:
   - { rel: "part-of", to: "payroll-compliance-malaysia" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide"]
 keywords: ["PCB Malaysia", "potongan cukai bulanan", "CP38 CP39 CP22", "e-PCB LHDN majikan", "cukai pendapatan pekerja"]
+framework: rules
 ---
 
 PCB ialah satu-satunya baris pada slip gaji di Malaysia di mana majikan memegang

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "siddha-medicine" }
 related: ["siddha-medicine", "chinese-dialects", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["马来西亚中医", "中药行", "中药店", "针灸", "推拿", "拔罐", "余仁生", "传统与辅助医药法令", "第775号法令", "传统与辅助医药理事会", "中医注册", "中医教育", "Traditional Chinese Medicine Malaysia", "T&CM Act 2016"]
+framework: history-culture
 ---
 
 Di sudut jalan banyak pekan lama, sentiasa ada sebuah kedai ubat Cina: dinding almari kayu dipenuhi laci-laci kecil yang padat, udaranya bercampur bau danggui (当归), kulit limau kering (陈皮) dan akar manis (甘草); di sebalik kaunter, tauke tua mendengar pelanggan menceritakan di mana mereka tidak sihat sambil menimbang bahan ubat satu demi satu ke dalam kertas, lalu membungkusnya menjadi satu bungkusan ubat. Kedai seperti ini telah wujud dalam komuniti Cina Malaysia selama lebih seratus tahun.

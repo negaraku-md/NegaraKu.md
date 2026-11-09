@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["population-composition", "languages-spoken", "federal-constitution"]
 keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Proto", "18 suku kaum", "JAKOA", "Akta Orang Asli 1954", "Akta 134"]
+framework: explainer
 ---
 
 Jauh sebelum nama Malaysia wujud pada peta, sudah ada masyarakat yang mendiami hutan, tanah tinggi dan pesisir Semenanjung. Hari ini mereka dikenali secara kolektif sebagai Orang Asli — istilah bahasa Melayu yang bermaksud "manusia asal" atau "penduduk asal".

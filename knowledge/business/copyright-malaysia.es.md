@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["ip-ownership-malaysia", "industrial-design-malaysia", "patent-malaysia"]
 keywords: ["copyright malaysia", "copyright registration malaysia", "voluntary notification copyright", "copyright act 1987", "cr-1 form myipo"]
+framework: explainer
 ---
 
 No hay nada que registrar. En Malasia los derechos de autor no los concede una oficina;

@@ -121,6 +121,7 @@ keywords:
   - "Johor Bahru premise licence fee"
   - "JS-SEZ Johor Bahru"
   - "foreign property purchase Johor"
+framework: profile
 ---
 
 Johor Bahru ialah satu-satunya bandar Malaysia yang paras gaji minimum, pelan

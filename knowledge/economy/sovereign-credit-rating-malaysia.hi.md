@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-government-debt-malaysia" }
 related: []
 keywords: ["मलेशिया ऋण रेटिंग", "सार्वभौम रेटिंग", "निवेश श्रेणी", "Malaysia credit rating", "sovereign rating", "S&P Malaysia", "Moody's Malaysia", "Fitch Malaysia", "A3", "BBB+", "investment grade"]
+framework: explainer
 ---
 
 जब मलेशिया के वित्त मंत्री सार्वजनिक रूप से न्यूयॉर्क के किसी विश्लेषक के पत्र का स्वागत करते हैं, तो आप जान जाते हैं कि दाँव पर प्रतीकात्मक से अधिक कुछ है। सार्वभौम ऋण रेटिंग में एक अकेली पायदान का ऊपर या नीचे जाना बदल सकता है कि सरकार उधार लेने के लिए क्या चुकाती है, कॉर्पोरेट वित्तपोषण लागत में फैल सकता है, और रिंगिट को खींच सकता है। तीन फ़र्में — S&P Global, Moody's और Fitch — मलेशिया के लिए वह क़लम थामती हैं।

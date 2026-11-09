@@ -79,6 +79,7 @@ relations:
   - { rel: "requires", to: "special-resolution" }
 related: ["companies-act-2016", "company-limited-by-guarantee-malaysia"]
 keywords: ["perlembagaan syarikat", "company constitution", "resolusi khas", "seksyen 32", "seksyen 36", "entrenchment", "Akta Syarikat 2016", "SSM"]
+framework: how-to
 ---
 
 Sdn Bhd는 "정관"이라는 제목의 문서 하나 없이도 수년간 운영될 수 있으며 — 말레이시아 법상 이는 완전히 적법합니다. 회사법(Companies Act 2016)은 대부분의 회사에게 정관을 선택 사항으로 만들었으며, 이는 의무적이었던 기본정관 및 부속정관(Memorandum and Articles of Association, M&A) 시대로부터의 큰 전환입니다. 이제 질문은 더 이상 "우리 정관에 무엇이 들어가야 하는가"가 아니라, "우리가 정관이 필요한가, 그렇다면 어떻게 채택·개정·강화하는가"입니다.

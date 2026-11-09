@@ -78,6 +78,7 @@ relations:
   - { rel: "located-in", to: "taman-negara" }
 related: []
 keywords: ["Malayan tiger", "Harimau Malaya", "Panthera tigris jacksoni", "Critically Endangered", "National Tiger Survey", "Perhilitan", "MYCAT", "tiger conservation", "Al-Sultan Abdullah Royal Tiger Reserve"]
+framework: explainer
 ---
 
 Harimau muncul pada jata Malaysia, tetapi haiwan itu sendiri kini tergolong antara kucing besar paling jarang di dunia. Apabila Malaysia menyiapkan banci kebangsaan pertamanya terhadap harimau liar, hasilnya lebih rendah daripada yang dijangka oleh ramai pihak: kurang daripada 150.

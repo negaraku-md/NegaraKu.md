@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["majlis-raja-raja", "yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["negeri beraja Malaysia", "sembilan Raja Melayu", "Sultan Raja Yang di-Pertuan Besar", "Majlis Raja-Raja", "Ketua agama Islam negeri", "Undang Yang Empat Negeri Sembilan"]
+framework: explainer
 ---
 
 மலேசியாவில் பதின்மூன்று மாநிலங்கள் உள்ளன, ஆனால் அவற்றுள் ஒன்பது மாநிலங்களுக்கு மட்டுமே ஆளும் அரசர் உண்டு. மற்ற நான்கு மாநிலங்கள் — Melaka, Pulau Pinang, Sabah மற்றும் Sarawak — நியமிக்கப்பட்ட மாநில ஆளுநரால் (Yang di-Pertua Negeri) தலைமை தாங்கப்படுகின்றன, ஒரு அரசரால் அல்ல.

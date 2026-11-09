@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["consumer-protection-act", "duitnow-qr-payments", "opening-bank-account"]
 keywords: ["consumer rights Malaysia", "Tribunal for Consumer Claims", "TTPM", "KPDN complaint", "refund Malaysia", "consumer protection act 1999", "how to claim RM50000", "ttpm.kpdn.gov.my"]
+framework: how-to
 ---
 
 โทรศัพท์เสียในสัปดาห์ที่สอง ผู้รับเหมาเก็บเงินมัดจำเข้ากระเป๋าแล้วไม่รับสาย สติกเกอร์ "ลดล้างสต๊อกปิดกิจการ" ติดอยู่บนราคาที่จริง ๆ แล้วไม่เคยลดเลย ในประเทศส่วนใหญ่ การต่อสู้กับเรื่องเหล่านี้หมายถึงต้องมีทนายความ ต้องขึ้นศาล และมีค่าใช้จ่ายที่มากกว่าความเสียหายเสียเอง ในมาเลเซีย มีเวทีที่สร้างขึ้นมาโดยเฉพาะเพื่อข้ามทั้งสามขั้นตอนนั้น และคนส่วนใหญ่ที่จะได้ประโยชน์กลับไม่เคยได้ยินชื่อมันเลย

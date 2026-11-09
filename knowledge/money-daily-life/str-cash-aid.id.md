@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "mykad" }
 related: ["program-rahmah-cost-of-living", "i-saraan-epf-voluntary-contribution", "lhdn", "income-tax-individuals", "mykad"]
 keywords: ["Sumbangan Tunai Rahmah", "STR", "bantuan tunai kerajaan Malaysia", "MySTR", "bantuantunai.hasil.gov.my", "semakan STR", "permohonan STR", "bantuan kos sara hidup Malaysia"]
+framework: how-to
 ---
 
 Banyak orang tahu nama "STR" dari berita atau dari tetangga yang berbicara

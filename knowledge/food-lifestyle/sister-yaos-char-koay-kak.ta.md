@@ -78,6 +78,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["CharKoayKak", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 char koay kak என்பது சிற்றுண்டி உலகின் உள்ளூர்க்காரர்களின் உணவு — கொதிக்கும்

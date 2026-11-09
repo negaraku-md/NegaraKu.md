@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-special-rights-ma63" }
 related: []
 keywords: ["hasil negeri", "geran perkapita", "geran jalan raya negeri", "Jadual Kesepuluh", "Perkara 109", "Perkara 110", "kewangan persekutuan-negeri", "royalti", "cukai jualan negeri"]
+framework: explainer
 ---
 
 When a state government in Malaysia draws up its budget, it starts from a rarely mentioned reality: the taxes that yield the most — income tax, the sales and services tax, customs — are not its to collect. Those sources fall within federal jurisdiction. What is left to the states, and how the gap is filled, is set out in black and white in the Federal Constitution.

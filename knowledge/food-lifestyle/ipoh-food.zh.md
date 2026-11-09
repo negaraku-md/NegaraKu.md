@@ -95,6 +95,7 @@ verificationNeeded:
   - "Ipoh white coffee的起源与年代，包括坊间归功于海南咖啡店业者之说，以及任何具体的年代（有些说法引述1950年代）——这些依据美食媒体和轶闻来源，应对照有据可查的历史核实。"
   - "怡保是否存在一道自成名目、独有的「鸡肉—江鱼仔」面，还是此说其实指kai see hor fun的鸡肉与虾汤（有些厨师会加干江鱼仔加深汤味）——在当作独立菜式陈述之前，须对照当地饮食资料核实。"
   - "店铺与地点细节（Old Town与New Town的归属、Thean Chun、Aun Kheng Lim等具名档口，以及Gunung Rapat的heong peng师傅）会随时间改变；在依赖之前须核实现今的业者与地点。"
+framework: history-culture
 ---
 
 在马来西亚问任何人去哪里吃，迟早都会被指引到怡保。这座霹雳州首府坐落在近打河谷

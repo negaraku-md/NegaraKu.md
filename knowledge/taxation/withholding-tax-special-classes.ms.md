@@ -90,6 +90,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
 keywords: ["seksyen 109B", "pendapatan seksyen 4A", "cukai pegangan yuran teknikal Malaysia", "kelas khas pendapatan", "PR 10/2019", "terbit dari Malaysia"]
+framework: rules
 ---
 
 Tanya mana-mana pasukan kewangan Malaysia mengapa mereka tidak memotong cukai ke

@@ -80,6 +80,7 @@ social:
     - PrivateSchool
     - EducationMalaysia
     - MalaysiaLicensing
+framework: how-to
 ---
 
 开办一家补习中心或一所私立学校，从外表看就像租下一间店铺、聘请几位好老师、印一条横幅。在马来西亚并非如此。教育是一项受监管的活动，而向 SSM 注册一家公司——多数初次经营者以为这就是"创业"的那一步——只是让您拥有了一个法律实体。它并没有赋予您教授哪怕一名付费学生的权利。

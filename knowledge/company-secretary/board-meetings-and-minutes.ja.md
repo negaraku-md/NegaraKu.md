@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "directors-duties" }
 related: ["minute-books-and-records", "directors-duties", "disclosure-of-interest", "written-resolutions", "company-tax-residence"]
 keywords: ["board meeting Malaysia", "Third Schedule Companies Act 2016", "directors circular resolution", "board quorum Sdn Bhd", "section 212 proceedings of the Board"]
+framework: rules
 ---
 
 マレーシアのSdn Bhdの大多数は定款を備えていない。Companies Act 2016の下では定款を備える必要はなく、2017年以降に設立された会社の大多数はこれまで一度も定款を採択してこなかった。そうした会社の取締役に、自社の取締役会が何によって規律されているのか尋ねても、返ってくるのは大抵、肩をすくめる仕草だけである。

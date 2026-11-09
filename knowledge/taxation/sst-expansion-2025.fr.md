@@ -142,6 +142,7 @@ relations:
   - { rel: "requires", to: "sst-registration" }
 related: ["sst-explained", "sst-registration", "sst-rate-table", "sst-b2b-exemption", "sst-02-filing"]
 keywords: ["extension SST 2025", "extension taxe sur les services Malaisie", "taxe sur les services location Groupe K", "taxe sur les services construction 6%", "exonération contrat non révisable", "taxe sur les services santé privée", "SST expansion 2025"]
+framework: rules
 ---
 
 L'erreur la plus répandue en circulation au sujet de l'extension de 2025 est que

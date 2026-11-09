@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "auditor-report" }
 related: []
 keywords: ["surat perwakilan pengurusan", "management representation letter", "ISA 580", "perwakilan bertulis", "written representations", "bukti audit", "juruaudit"]
+framework: explainer
 ---
 
 Menjelang penghujung setiap audit, pengarah diminta menandatangani satu dokumen yang mudah diabaikan tetapi membawa berat: surat yang mengaku, dengan tandatangan mereka sendiri, bahawa mereka telah memberitahu juruaudit segala-galanya. Itulah surat perwakilan pengurusan.

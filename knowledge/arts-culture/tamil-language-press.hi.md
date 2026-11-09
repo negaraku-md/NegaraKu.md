@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "estate-tamil-community", "tamil-vernacular-schools", "chinese-language-press", "languages-spoken"]
 keywords: ["மலேசியத் தமிழ்ப் பத்திரிகைகள்", "தமிழ் நாளிதழ்கள் மலேசியா", "மலேசிய நண்பன்", "மக்கள் ஓசை", "தமிழ் நேசன்", "மின்னல் FM", "Tamil-language press in Malaysia", "Tamil newspapers Malaysia"]
+framework: history-culture
 ---
 
 नुक्कड़ की दुकान पर सुबह की कॉफ़ी या चाय के साथ एक तमिल अख़बार — मलेशिया के तमिल समुदाय की एक पीढ़ी के लिए यह एक जाना-पहचाना दृश्य था। उन पन्नों पर केवल दिन की ख़बरें ही नहीं होती थीं, बल्कि मंदिर के उत्सवों की सूचनाएँ, तमिल स्कूलों की ख़बरें, विवाह की बधाइयाँ, शोक-संदेश और तमिल फ़िल्मों की समीक्षाएँ भी होती थीं — एक समुदाय का रोज़मर्रा जीवन ही छपकर सामने आता था।

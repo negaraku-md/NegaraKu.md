@@ -69,6 +69,7 @@ keywords:
   - "partner liability Malaysia"
   - "joint and several liability partnership"
   - "register partnership SSM"
+framework: explainer
 ---
 
 두 친구가 연 RM60이 들고 아무도 대안을 언급하지 않았다는 이유로 파트너십을 등록합니다. 3년 뒤 그중

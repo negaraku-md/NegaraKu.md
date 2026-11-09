@@ -120,6 +120,7 @@ relations:
   - { rel: "requires", to: "termination-benefits-malaysia" }
 related: ["termination-of-employment-malaysia", "termination-benefits-malaysia", "unfair-dismissal-malaysia", "offboarding-statutory-checklist"]
 keywords: ["retrenchment malaysia", "form pk malaysia", "borang pk", "redundancy malaysia procedure", "retrenchment notification 30 days", "VSS malaysia", "LIFO retrenchment malaysia"]
+framework: rules
 ---
 
 Search for the Form PK deadline and you will find "30 days" repeated across dozens of Malaysian HR pages as though it were the whole answer. It is roughly a third of the answer. The form itself — the actual PDF that JTKSM publishes — sets **three separate deadlines**, and two of them fall *after* the retrenchment has already happened.

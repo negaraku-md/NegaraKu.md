@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik", "borneo-indigenous-languages"]
 keywords: ["masakan Peranakan Nyonya", "masakan pantai timur Kelantan Terengganu", "masakan Sarawak Sabah", "masakan Mamak nasi kandar", "kari debal Kristang", "budaya sarapan Malaysia UNESCO"]
+framework: explainer
 ---
 
 随便问十个马来西亚人什么是「马来西亚美食」，你大概会得到十张不同的地图。来自哥打峇鲁（Kota Bharu）的人会从蓝色的蓝花饭（nasi kerabu）和峇拉煎鱼酱（budu）说起；来自古晋（Kuching）的人会提砂拉越叻沙（laksa Sarawak）和干捞面（kolo mee）；来自马六甲的人也许会讲娘惹的香卤鸡（ayam pongteh）或[克里斯坦](/arts-culture/kristang-eurasian-culture)的魔鬼咖喱（kari debal）；还有人会直接指向街角的嘛嘛档。他们没有一个是错的。马来西亚没有单一的国家菜系——它拥有的是一族在不同地区和社群中生长、然后用几个世纪彼此借鉴的厨房。

@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["mm2h-long-stay-visa", "employment-pass", "dependant-social-visit-passes", "moving-to-malaysia-first-steps"]
 keywords: ["PVIP", "Premium Visa Programme", "Program Visa Premium", "Malaysia residency visa", "residency by investment", "20-year visa Malaysia", "PVIP fixed deposit", "PVIP requirements"]
+framework: explainer
 ---
 
 집을 사고, 직원을 고용하고, 자녀를 학교에 등록시키고, 연간 며칠을 이 나라에서 보내는지 결코 헤아리지 않는 것: 이는 말레이시아가 프리미엄 비자 프로그램을 통해 부유한 외국인에게 제공하는 핵심 권리입니다. 2022년 9월 내무부가 발표하고 2022년 10월 1일부터 신청자에게 개방된 PVIP(Program Visa Premium)는 자격을 갖춘 신청자에게 말레이시아에서 최대 20년의 정착 거주를 주는 투자 거주 비자입니다. 더 오래된 말레이시아 마이 세컨드 홈(MM2H) 제도와 혼동하기 쉽지만, 이 둘은 서로 다른 부처가 운영하며 서로 다른 신청자를 겨냥합니다.

@@ -65,6 +65,7 @@ sources:
 
 related: ["muhyiddin-yassin", "mahathir-mohamad", "anwar-ibrahim", "2018-change-of-government", "2022-general-election"]
 keywords: ["喜来登行动", "Sheraton Move", "2020年马来西亚政治危机", "Perikatan Nasional", "2020年政权更迭"]
+framework: history-culture
 ---
 
 > **草稿——敏感。** 本文为中立、仍在撰写中的摘要，尚未经审阅以供发布。它描述

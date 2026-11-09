@@ -61,6 +61,7 @@ keywords:
   - "MetMalaysia"
   - "MyBIS"
 sourceContentHash: "9a6c3f25f0c58105"
+framework: explainer
 ---
 
 # マレーシアが世界のメガダイバーシティ国の一つである理由

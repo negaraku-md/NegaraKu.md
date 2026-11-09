@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["income-tax-act-1967", "lhdn"]
 keywords: ["REIT tax Malaysia", "property trust fund", "section 61A", "withholding tax REIT", "YA 2026 REIT tax", "unit holder distribution"]
+framework: explainer
 ---
 
 Achetez une part dans un REIT malaisien et vous devenez en pratique un propriétaire qui ne reçoit jamais la facture fiscale de l'immeuble — parce que le fonds qui le détient vous reverse presque tout avant que le fisc ne puisse y toucher. Ce seul choix de conception, inscrit dans la section 61A de l'Income Tax Act 1967, est ce qui fait fonctionner les fonds de placement immobilier (REIT) et les fonds de placement immobilier (PTF). Mais au cours de l'année de liquidation (YA) 2026, l'autre moitié du marché — la façon dont *vous*, le porteur de parts, êtes imposé — a changé pour la première fois depuis des années.

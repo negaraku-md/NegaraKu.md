@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "gunung-tahan" }
 related: ["orang-asli"]
 keywords: ["taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
+framework: explainer
 ---
 
 黎明时分站在瓜拉大汉码头，望着薄雾从一条比喜马拉雅山还要古老的河流上升腾，你很容易忘记自己距离吉隆坡不过半日路程。国家公园并非人工打造的景点。它是一片活生生的热带雨林，数千万年来大致未受干扰地屹立至今——而进入它，比几乎任何旅客所预期的都更便宜、更简单。

@@ -90,6 +90,7 @@ verificationNeeded:
   - "Whether rice (and vegetable) refills are genuinely 'unlimited' in Malaysian banana-leaf houses — this is widely stated in food media but the traditional South Indian description is of two rice servings. Policy varies by restaurant; confirm against restaurant practice or a reliable food source."
   - "The prominence of Penang (versus Kuala Lumpur's Brickfields) as a banana-leaf-rice centre — not directly confirmed in the sources consulted; verify against a Penang-specific food or tourism source."
   - "The precise community attribution ('Tamil' versus the broader 'South Indian') for the dish's origin and its arrival in Malaysia — confirm with a migration-history or culinary-heritage source."
+framework: explainer
 ---
 
 Sit down at a banana leaf house in Malaysia and no plate arrives. Instead a

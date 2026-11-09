@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "trade-descriptions-act-2011" }
 related: ["jakim"]
 keywords: ["pensijilan halal Malaysia", "SPHM", "JAKIM halal", "MYeHALAL", "MS 1500", "logo halal Malaysia", "sijil halal", "e-Cert halal", "Manual Prosedur Pensijilan Halal Malaysia", "skim pensijilan halal"]
+framework: how-to
 ---
 
 โลโก้ฮาลาลรูปดาวแปดแฉกที่มีอักษรอาหรับอยู่ตรงกลางเป็นหนึ่งในเครื่องหมายที่เป็นที่รู้จักมากที่สุดบนชั้นวางซูเปอร์มาร์เก็ตของมาเลเซีย — และมีเพียงฝ่ายเดียวทั่วทั้งประเทศที่มีสิทธิ์วางมันไว้ที่นั่น ไม่ใช่ผู้ผลิตผลิตภัณฑ์ ไม่ใช่ที่ปรึกษาเอกชน และไม่ใช่หน่วยรับรองระหว่างประเทศใด ๆ แต่เป็นรัฐบาลเอง ผ่าน JAKIM และหน่วยงานเทียบเท่าในระดับรัฐ

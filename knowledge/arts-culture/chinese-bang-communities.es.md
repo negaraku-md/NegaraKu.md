@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-dialects", "chinese-clan-associations", "chinese-cemeteries", "chinese-new-villages", "population-composition"]
 keywords: ["帮群", "方言群", "籍贯", "福建帮", "广府帮", "客家帮", "潮州帮", "海南帮", "会馆", "义山", "马来西亚华人", "海南咖啡", "锡矿", "Chinese bang communities Malaysia"]
+framework: history-culture
 ---
 
 En las viejas calles de Penang, los comercios que sostienen toda una hilera de escaparates son en su mayoría negocios regentados por hokkien; en ciudades que surgieron del estaño, como Kuala Lumpur e Ipoh, las minas y los gremios se llenaban de cantoneses y hakka; y en cualquier ciudad en la que uno entre, el viejo café que vende café hainanés y tostadas con mantequilla y kaya tiene a menudo a un hainanés detrás del mostrador.

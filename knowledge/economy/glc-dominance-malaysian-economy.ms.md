@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "epf-kwsp-retirement-savings" }
 related: []
 keywords: ["GLC", "GLIC", "Khazanah", "government-linked companies", "Bursa Malaysia", "PERKUKUH", "state ownership", "Malaysian economy"]
+framework: explainer
 ---
 
 Belilah hampir mana-mana saham blue chip di Bursa Malaysia dan anda, secara tidak langsung, sedang berurus niaga dengan kerajaan Malaysia. Grid tenaga negara, bank terbesar, syarikat telekomunikasi mapan dan salah sebuah kumpulan minyak sawit terbesar dunia semuanya berkongsi set pemilik muktamad yang sama: sekelompok kecil dana pelaburan negara yang antara mereka mengemudi kira-kira suku daripada keseluruhan pasaran saham tempatan.

@@ -130,6 +130,7 @@ keywords:
   - "DBKK business licence"
   - "SSM Sabah sole proprietorship"
   - "business registration Kota Kinabalu"
+framework: how-to
 ---
 
 Toda guía nacional para registrar un negocio en Malasia le dice que abra EzBiz y pague

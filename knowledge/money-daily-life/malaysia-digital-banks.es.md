@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "pidm-deposit-insurance" }
 related: ["bank-negara-malaysia", "pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["banco digital", "banco digital Malasia", "digital bank Malaysia", "GXBank", "Boost Bank", "AEON Bank", "Ryt Bank", "KAF Digital Bank", "PIDM", "BNM"]
+framework: explainer
 ---
 
 Hoy puede abrir una cuenta bancaria en Malasia sin pisar una sola vez una sucursal, sin reunirse con un empleado y sin formularios en papel: todo se hace en minutos a través de su smartphone. Esa es la promesa de los bancos digitales, una nueva categoría de banco con licencia de Bank Negara Malaysia (BNM) que hoy da servicio a millones de malasios.

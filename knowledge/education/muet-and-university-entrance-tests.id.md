@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "stpm" }
 related: []
 keywords: ["MUET", "Majlis Peperiksaan Malaysia", "MPM", "band MUET", "kemasukan universiti", "STPM", "kemahiran bahasa Inggeris", "ijazah sarjana muda"]
+framework: explainer
 ---
 
 Anda bisa cemerlang dalam STPM atau matrikulasi, tetapi tanpa satu hasil lagi, formulir pengajuan program sarjana Anda masih belum lengkap. Hasil itu adalah MUET — dan banyak pelajar baru menyadari pentingnya ketika tanggal penutupan pendaftaran universitas sudah mendekat.

@@ -74,6 +74,7 @@ faq:
     a: 'Son dos cumbres récord distintas en dos masas de tierra distintas, separadas por el mar de la China Meridional. El Gunung Tahan, con 2187 metros en la frontera entre Pahang y Kelantan, dentro del Taman Negara, es el punto más alto de la Malasia peninsular. El monte Kinabalu, en Sabah, se eleva a 4095 metros: es la cumbre más alta de toda Malasia y la más alta de cualquier lugar entre el Himalaya y Nueva Guinea. Confundir ambos es un error común.'
   - q: ¿Por qué la mayoría de los malasios vive cerca de las costas en lugar del interior?
     a: Cada masa de tierra está dominada por una espina montañosa central —la cordillera de Titiwangsa en la Península, la cordillera de Crocker en Sabah— flanqueada solo por estrechas llanuras costeras. Esas tierras altas empujan el asentamiento hacia afuera, hacia las llanuras costeras y los valles fluviales, y dejan el interior montañoso poco poblado. La resguardada llanura de la costa oeste de la Península, calmada por el estrecho de Malaca, alberga a la mayor parte de su población y a las ciudades más grandes, como Kuala Lumpur y George Town.
+framework: explainer
 ---
 
 Vuele a Kuala Lumpur desde Kota Kinabalu y cruzará algo más que una frontera interna: cruzará varios cientos de kilómetros de mar abierto. Malasia es un solo país grapado a través de dos masas de tierra separadas, y ese simple hecho de forma ha decidido en silencio casi todo lo demás: dónde están las ciudades, dónde están los arrozales y qué costa se inunda cada diciembre.

@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "financial-statements-lodgement" }
 related: ["financial-statements-lodgement", "extension-of-time-ssm", "resolution-notice-periods", "sdn-bhd-filing-calendar", "egm-requisition"]
 keywords: ["AGM Malaysia", "annual general meeting Sdn Bhd", "section 340 Companies Act 2016", "does a private company need an AGM", "AGM deadline six months"]
+framework: rules
 ---
 
 "Sdn Bhd는 더 이상 연례총회(AGM)를 열 필요가 없다"는 말이 통설이며, 대부분의 회사에는

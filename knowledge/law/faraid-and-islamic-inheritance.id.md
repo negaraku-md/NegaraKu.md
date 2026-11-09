@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "syariah-courts-malaysia" }
 related: []
 keywords: ["faraid", "harta pusaka", "pusaka islam", "waris", "mahkamah syariah", "baitulmal", "akta pembahagian 1958", "pusaka kecil"]
+framework: explainer
 ---
 
 Apabila seorang Muslim meninggal dunia di Malaysia, hartanya tidak serta-merta jatuh kepada ahli waris yang paling dekat atau paling membutuhkan — ia dibagikan menurut bagian tetap yang telah ditentukan Syarak. Sistem inilah yang dikenal sebagai **faraid**, dan ia menjadi metode baku (default) bagi warisan orang Islam kecuali semua ahli waris sepakat dengan metode lain.

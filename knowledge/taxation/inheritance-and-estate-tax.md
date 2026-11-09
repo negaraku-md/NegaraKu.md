@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "personal-income-tax" }
 related: ["real-property-gains-tax"]
 keywords: ["inheritance tax Malaysia", "estate duty Malaysia", "no inheritance tax", "deceased estate income tax", "RPGT inherited property", "stamp duty inheritance", "executor tax Malaysia", "death tax Malaysia"]
+framework: explainer
 ---
 
 When a parent dies in Kuala Lumpur and leaves a house and some savings, the family's first worry is often a tax bill on the inheritance itself. In Malaysia, that particular bill does not exist. There is no inheritance tax, no estate duty, and no death tax on the wealth someone leaves behind.

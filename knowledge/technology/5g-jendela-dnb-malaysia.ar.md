@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "internet-and-fibre" }
 related: ["malaysias-telcos-and-5g", "internet-and-fibre"]
 keywords: ["JENDELA", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "second 5G network", "U Mobile", "MCMC", "national broadband plan", "spectrum allocation", "700MHz", "3.5GHz", "شبكة 5G في ماليزيا", "خطة النطاق العريض الوطنية", "نموذج الشبكتين"]
+framework: explainer
 ---
 
 اسأل ماليزيَّيْن عن كيفية إدارة شبكات الاتصال المتنقلة في البلاد، وستحصل غالباً على جوابين مختلفين نصف صحيحين — لأن ثمة في الواقع قصتين منفصلتين متشابكتين. إحداهما خطة لتغطية النطاق العريض باسم رآه معظم الناس على لافتة حكومية. والأخرى صراع سريع التغير حول من يملك «أنبوب» 5G. وفهم الاتصال الماليزي الحديث يعني الفصل الواضح بين هاتين القصتين.

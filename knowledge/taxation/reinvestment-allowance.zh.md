@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "double-deduction-list" }
 related: ["double-deduction-list", "corporate-tax-rates", "losses-and-group-relief"]
 keywords: ["reinvestment allowance Malaysia", "Schedule 7A qualifying project", "RA 60% capital expenditure", "reinvestment allowance 15 years", "RA claim rejected audit"]
+framework: rules
 ---
 
 再投资减免在稽查阶段失败的次数，远多于在一开始就被拒绝，而且几乎从来不是因为钱

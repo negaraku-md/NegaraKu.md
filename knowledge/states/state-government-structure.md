@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "federal-state-division" }
 related: ["rulers-and-governors", "state-assemblies-dun", "kabinet-perdana-menteri", "three-tiers-of-government", "federal-state-division", "sabah-sarawak-safeguards"]
 keywords: ["state government Malaysia", "Menteri Besar", "Chief Minister Malaysia", "State Executive Council", "EXCO", "Dewan Undangan Negeri", "state assembly Malaysia", "Yang di-Pertua Negeri", "Eighth Schedule", "Ninth Schedule", "State List", "Federal Constitution Malaysia"]
+framework: explainer
 ---
 
 Take away the Istana Negara, rename the Prime Minister, and shrink Parliament down to a single chamber — and you are looking at a Malaysian state government. All 13 states run on a scaled-down copy of the federal system: a head of state who reigns without ruling, a head of government chosen because he can command a majority, an executive council that answers collectively to elected members, and a legislature that can be dissolved and sent back to the voters. The titles change from state to state. The blueprint does not.

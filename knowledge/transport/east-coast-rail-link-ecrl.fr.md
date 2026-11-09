@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "logistics-ports-industry" }
 related: ["ecer-guide", "kl-singapore-high-speed-rail", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["East Coast Rail Link", "ECRL", "Laluan Rel Pantai Timur", "Malaysia Rail Link", "CCCC chemin de fer Malaisie", "coût achèvement ECRL", "train Kota Bharu Port Klang", "rail ECER"]
+framework: profile
 ---
 
 Pendant des décennies, le moyen le plus rapide de relier Kuala Lumpur aux États de la côte est imposait un long trajet routier à travers les montagnes. L'East Coast Rail Link est le pari de la Malaisie qu'une seule ligne de chemin de fer peut changer cela — et, au passage, rééquilibrer les lieux où se produit la croissance du pays.

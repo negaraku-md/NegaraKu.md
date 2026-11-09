@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysian-citizenship" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["permanent residency Malaysia", "MyPR", "red IC Malaysia", "Entry Permit Malaysia", "PR spouse Malaysian", "Immigration Act 1959/63", "Regulation 4 Immigration Regulations 1963"]
+framework: explainer
 ---
 
 MyKad merah ialah garisan penamat yang senyap bagi banyak kehidupan jangka panjang di Malaysia — isteri warga asing yang telah memperbaharui pas lawatan yang sama selama sedekad, jurutera yang tidak mahu lagi memfailkan lanjutan permit kerja, pesara yang ingin menjadi sebahagian daripada sesuatu tempat buat selama-lamanya. Kad itu, MyPR, ialah rupa sebenar status pemastautin tetap Malaysia di dalam dompet anda.

@@ -71,6 +71,7 @@ sources:
 relations: []
 related: ["choosing-accounting-secretarial-audit-tax-firm-malaysia", "company-secretary-malaysia", "audit-exemption-criteria", "accounting-records-section-245"]
 keywords: ["change company secretary Malaysia", "remove auditor Malaysia", "change tax agent LHDN", "switch accounting firm Malaysia", "resign company secretary section 237", "special notice remove auditor", "change corporate services firm Malaysia", "how to change company secretary SSM", "replace auditor Companies Act 2016", "switch bookkeeper Malaysia"]
+framework: how-to
 ---
 
 遅かれ早かれ、会社はプロバイダーを使いこなせなくなる――報酬がじわじわ上がる、サービスが静かになる、あるいは単に、より合う相手が見つかる。本能的には、メールを一通送って先へ進みたくなる。だがマレーシアは、この四人の専門家を同じようには扱わない。簿記担当者を切るのは電話一本で済むが、監査人を解任するのは正式で、法的に保護された手続きである。ここでは、それぞれが実際にどう機能するか、そしてコンプライアンスの空白を残さずに切り替える方法を説明する。

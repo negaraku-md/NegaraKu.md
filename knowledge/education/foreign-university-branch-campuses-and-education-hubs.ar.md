@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "iskandar-malaysia-economic-corridor" }
 related: []
 keywords: ["فروع الجامعات الأجنبية", "foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "مركز تعليمي", "education hub", "التعليم عبر الوطني", "transnational education"]
+framework: explainer
 ---
 
 في عام 1998، كان بإمكان طالب في كوالالمبور (Kuala Lumpur) أن ينال شهادة من جامعة Monash الأسترالية دون أن يغادر البلاد — وأن يدفع أسعاراً ماليزية مقابلها. أطلق ذلك الترتيب الواحد نموذجاً ما فتئت البلاد تبني عليه منذ ذلك الحين: استيراد الجامعة، لا الطالب.

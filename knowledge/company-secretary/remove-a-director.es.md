@@ -79,6 +79,7 @@ relations:
   - { rel: "part-of", to: "directors-duties" }
 related: ["appoint-resign-director", "directors-duties", "register-of-directors"]
 keywords: ["destituir a un director Malasia", "sección 206 Companies Act 2016", "resolución por escrito destituir director", "remove a director Malaysia", "section 206 Companies Act 2016", "section 297 written resolution Malaysia", "notificación especial destituir director"]
+framework: how-to
 ---
 
 El accionista mayoritario tiene los votos. El secretario redacta una resolución

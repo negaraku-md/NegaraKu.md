@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-jakim" }
 related: []
 keywords: ["vaksin halal", "hukum vaksin", "gelatin dalam ubat", "fatwa vaksin COVID-19", "darurat", "maqasid syariah", "JAKIM", "Muzakarah Fatwa Kebangsaan"]
+framework: explainer
 ---
 
 Một lọ vắc-xin có thể chứa một chút gelatin làm chất ổn định — và chính từ chi tiết nhỏ đó nảy sinh một trong những câu hỏi tôn giáo được các gia đình Hồi giáo tại Malaysia đặt ra thường xuyên nhất: nó có halal không? Câu trả lời không chỉ đơn thuần là "có" hay "không", mà là kết quả của một quá trình đánh giá có cấu trúc bao gồm các cơ quan fatwa, nghiên cứu khoa học và một số nguyên tắc fiqh cụ thể.

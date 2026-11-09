@@ -84,6 +84,7 @@ relations:
   - { rel: "explained-in", to: "akta" }
 related: ["federal-constitution", "parliament", "dewan-negara", "warta-kerajaan"]
 keywords: ["rang undang-undang menjadi akta", "proses penggubalan undang-undang Malaysia", "bacaan pertama kedua ketiga", "perkenan diraja Yang di-Pertuan Agong", "Perkara 66 Perlembagaan Persekutuan", "Dewan Negara rang undang-undang", "pewartaan akta", "Perkara 68 rang undang-undang wang"]
+framework: explainer
 ---
 
 Suatu rancangan undang-undang dapat disahkan oleh Dewan Rakyat, disetujui oleh Dewan Negara, dan dibubuhi Mohor Besar — dan tetap tidak mengikat siapa pun.

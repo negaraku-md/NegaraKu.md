@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "domestic-inquiry-malaysia" }
 related: ["labour-law-map-malaysia", "termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
 keywords: ["licenciement abusif malaisie", "article 20 loi relations professionnelles", "60 jours dépôt licenciement", "tribunal du travail malaisie", "plafond arriérés de salaire 24 mois", "indemnisation tenant lieu de réintégration", "unfair dismissal malaysia", "section 20 industrial relations act"]
+framework: how-to
 ---
 
 Soixante jours. Voilà tout l'enjeu, et c'est là que meurent la plupart des réclamations malaisiennes pour licenciement abusif — non pas sur le fond, mais parce que le salarié a passé sept semaines à négocier avec les RH, deux autres à attendre une réponse qui n'est jamais venue, et a déposé le soixante-troisième jour.

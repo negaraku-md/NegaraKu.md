@@ -78,6 +78,7 @@ relations:
   - { rel: "compares-with", to: "amanah-saham-bumiputera" }
 related: ["securities-commission-malaysia"]
 keywords: ["unit trust malaysia", "unit trust funds", "net asset value", "sales charge", "management fee", "securities commission", "FIMM", "equity fund", "money market fund", "EPF i-invest"]
+framework: explainer
 ---
 
 Hand your money to a stranger to invest, and you would want three things: rules, a scorekeeper, and someone else holding the cash. A Malaysian unit trust gives you all three. Your ringgit is pooled with thousands of other investors, a licensed management company decides what to buy, and an independent trustee holds the assets so the manager cannot simply walk off with them. The whole arrangement sits under the Securities Commission Malaysia (SC).

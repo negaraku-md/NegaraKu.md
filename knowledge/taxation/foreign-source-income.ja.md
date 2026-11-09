@@ -129,6 +129,7 @@ relations:
   - { rel: "compares-with", to: "capital-gains-tax" }
 related: ["income-tax-in-malaysia", "company-tax-residence", "capital-gains-tax", "labuan-tax-regime", "corporate-tax-rates"]
 keywords: ["foreign source income Malaysia", "FSI exemption Malaysia", "foreign dividend exemption Malaysia", "P.U.(A) 235/2022", "economic substance Malaysia FSI", "remittance tax Malaysia"]
+framework: rules
 ---
 
 失効日はブログではなく官報から読み取ること。2026年8月14日時点で、多くのマレーシア持株会社が依拠する国外配当免税——P.U.(A) 235/2022——は、その自身のpara 1(2)において依然として「2022年1月1日から2026年12月31日まで」効力を有すると記しており、官報番号に確定した改正命令はまだこの日付を動かしていない。実際に存在した改正命令P.U.(A) 157/2024は、適格条件を書き換え、1967年所得税法の適用を選択したラブアン会社を追加したが、失効日には手を付けていない。

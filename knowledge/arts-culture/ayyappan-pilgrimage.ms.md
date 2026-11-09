@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["hinduism-in-malaysia", "thaipusam", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community", "navaratri"]
 keywords: ["ஐயப்பன் வழிபாடு", "சபரிமலை விரதம்", "மண்டல விரதம்", "இருமுடிக் கட்டு", "மலேசிய ஐயப்பன் கோயில்", "சுவாமியே சரணம் ஐயப்பா", "Ayyappan", "Sabarimala"]
+framework: history-culture
 ---
 
 Pada bulan-bulan akhir tahun, satu pemandangan kelihatan di banyak pekan di Malaysia: lelaki berpakaian hitam atau biru, memakai rantai rudraksha di leher dan membiarkan janggut tumbuh, saling memanggil satu sama lain "Swami". Mereka ialah pelaku puasa Ayyappan — ramai yang sedang bersiap untuk ke Sabarimala di Kerala. Rencana ini menerangkan pemujaan dan tradisi puasa itu secara neutral; ia tidak menghurai atau menilai mana-mana kepercayaan.

@@ -95,6 +95,7 @@ verificationNeeded:
   - "Asal-usul Timur Tengah (sering dikatakan ful medames Mesir) bagi kacang pool, serta akar Indonesia/Betawi dan Jawa yang dikaitkan dengan lontong, lodeh, soto dan nasi ambeng di Johor — ini merupakan kaitan anekdot daripada media makanan dan pelancongan, bukan sejarah yang didokumentasikan."
   - "Kekuatan rangka 'masakan diraja' dan Jawa/Bugis bagi makanan Johor secara keseluruhan — munasabah dan kerap dinyatakan, tetapi sahkan dakwaan demografi dan sejarah kulinari dengan sumber ilmiah atau warisan dan bukannya senarai artikel ringkas."
   - "Kaitan bandar tertentu (mee bandung dan otak-otak dengan Muar; nasi beriani gam dengan Batu Pahat; durian dengan Muar dan Segamat) mencerminkan reputasi popular; sahkan sebarang dakwaan 'asal-usul' dengan sumber tempatan atau rasmi sebelum menyatakannya sebagai fakta."
+framework: history-culture
 ---
 
 Lintasi tambak dari Singapura dan negeri Malaysia pertama yang anda temui ialah

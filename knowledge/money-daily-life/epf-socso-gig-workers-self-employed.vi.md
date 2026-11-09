@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "str-cash-aid" }
 related: ["i-saraan-epf-voluntary-contribution", "epf-socso-employees", "income-tax-individuals", "str-cash-aid"]
 keywords: ["i-Saraan", "i-Saraan Plus", "KWSP", "PERKESO", "Lindung Kendiri", "pekerja gig", "bekerja sendiri", "Akta Pekerja Gig 2025", "Akta 872", "SKSPS", "freelancer"]
+framework: explainer
 ---
 
 Dành cả đời chạy e-hailing hoặc nhận việc freelance, và có một điều không xảy ra một cách tự động: không ai khấu trừ lương của bạn cho KWSP hay PERKESO. Đối với người lao động chính thức, khoản đóng góp đó diễn ra sau hậu trường mỗi tháng. Đối với bạn — người tự làm chủ — lưới an toàn đó không tồn tại cho đến khi chính bạn dựng nên nó — và vào năm 2026, một phần trong đó vừa chuyển từ tùy chọn thành nghĩa vụ.

@@ -94,6 +94,7 @@ keywords:
   - "variétés de durian"
   - "saison du durian"
   - "exportation de durian vers la Chine"
+framework: explainer
 ---
 
 En Malaisie, le durian n'est pas qu'un fruit — on l'appelle le roi des fruits, et en pleine saison il peut fermer des routes, faire grimper les loyers des étals et attirer des touristes d'outre-mer pour un seul quartier de chair jaune et dense.

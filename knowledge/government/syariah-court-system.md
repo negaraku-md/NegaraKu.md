@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "federal-state-division" }
 related: ["civil-and-syariah-courts", "kehakiman-mahkamah", "federal-constitution"]
 keywords: ["mahkamah syariah", "sistem mahkamah Malaysia", "Perkara 121(1A)", "bidang kuasa mahkamah syariah", "Mahkamah Tinggi Syariah", "Akta 355", "Akta 505", "undang-undang keluarga Islam"]
+framework: explainer
 ---
 
 Seorang isteri yang memohon fasakh dan seorang peniaga yang menuntut hutang RM60,000 kedua-duanya memulakan kes mereka dengan sehelai borang di kaunter mahkamah. Namun mereka tidak pergi ke kaunter yang sama, kes mereka tidak didengar oleh jenis hakim yang sama, dan undang-undang yang menentukan hasil mereka datang daripada dua badan penggubal yang berbeza.

@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "pakatan-harapan" }
 related: []
 keywords: ["Barisan Nasional", "National Front", "BN", "Alliance Party", "UMNO", "MCA", "MIC", "GE14", "Malaysian coalition"]
+framework: profile
 ---
 
 For most Malaysians alive today, "the government" and "Barisan Nasional" were, for a very long time, almost the same phrase. From its first election in 1974 to its defeat in 2018, the National Front held the federal government without interruption — a continuous run of 44 years. This article traces how it was assembled, who belonged to it, and how that long run ended, keeping to the documented record.

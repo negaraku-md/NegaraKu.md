@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "corporate-rescue-malaysia" }
 related: ["close-a-company", "members-voluntary-winding-up", "strike-off-company-malaysia", "corporate-rescue-malaysia", "company-director-requirements"]
 keywords: ["creditors voluntary winding up malaysia", "insolvent sdn bhd", "section 539 companies act 2016", "wrongful trading malaysia", "undue preference section 528", "penggulungan sukarela pemiutang"]
+framework: how-to
 ---
 
 The moment a board realises the company cannot pay its debts, the legal question

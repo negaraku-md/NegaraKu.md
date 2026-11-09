@@ -129,6 +129,7 @@ relations:
   - { rel: "compares-with", to: "malaysia-singapore-relations" }
 related: ["malaysia-singapore-relations"]
 keywords: ["relaciones Malasia Indonesia", "serumpun naciones hermanas", "trabajadores migrantes indonesios", "One Channel System", "isla de Sebatik", "Ambalat", "Sipadan Ligitan", "frontera Malasia Indonesia", "Consulta Anual"]
+framework: explainer
 ---
 
 Estos dos países comparten la misma lengua, religión y orígenes; y sin embargo también comparten la frontera terrestre más larga de Borneo, los yacimientos de petróleo bajo el mar de Célebes y millones de trabajadores que cruzan en busca del sustento. La relación Malasia–Indonesia no es un mero vínculo diplomático corriente; es una complicada relación de familia, en la que la propia cercanía es a la vez fuente de cooperación y fuente de tensión.

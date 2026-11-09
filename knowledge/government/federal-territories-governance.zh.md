@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "dewan-negara" }
 related: ["federal-state-division", "state-assemblies-dun", "three-tiers-of-government", "dewan-rakyat", "dewan-negara"]
 keywords: ["Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "tiada Dewan Undangan Negeri", "Datuk Bandar dilantik", "DBKL Perbadanan Putrajaya Perbadanan Labuan", "Jabatan Wilayah Persekutuan", "Perkara 1 Perlembagaan Persekutuan", "pentadbiran wilayah persekutuan", "Federal Territory Malaysia governance"]
+framework: explainer
 ---
 
 在一个州属，有苏丹或州元首，有州务大臣或首席部长，还有由人民选出的州立法议会。而在吉隆坡、布城和纳闽，这些一样也没有。这三个地方都不是州属——它们是联邦直辖区，由联邦政府直接管辖。

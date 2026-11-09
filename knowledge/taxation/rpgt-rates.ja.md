@@ -87,6 +87,7 @@ relations:
   - { rel: "explained-in", to: "rpgt-exemptions" }
 related: ["rpgt-exemptions", "capital-gains-tax", "capital-or-revenue", "lhdn"]
 keywords: ["RPGT rates Malaysia", "cukai keuntungan harta tanah", "RPGT computation", "RPGT 6th year", "Schedule 5 RPGTA", "CKHT"]
+framework: data-reference
 ---
 
 出回っているRPGTガイドのほぼすべてが、30、30、30、20、15、0という一本の税率階段を示している。その階段は実在するが、Schedule 5にある処分者の三つの区分のうちの一つにしか当てはまらない。それをSdn Bhdに当てはめれば、利得全体の10%分を過少に見積もることになる。それを第四年に転売する外国人買主に当てはめれば、十五パーセンテージポイントもの差が生じる。

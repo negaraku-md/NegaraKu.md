@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik"]
 keywords: ["Wayang Kulit", "shadow puppet Malaysia", "Tok Dalang", "Hikayat Seri Rama", "Kelantan traditional arts"]
+framework: history-culture
 ---
 
 まず灯りが点される。木枠に張り詰められた白い木綿の幕の裏側で、一人の男が胡座をかいて座っている。左右の手が届く位置には平たい皮革人形の束が積まれ、背後では太鼓、銅鑼、そして甲高い音色の複簧楽器スルナイからなる小さな楽団が控えている。彼はその夜が終わるまで、その場所を離れることはない。数時間後、最後の影が幕を横切る頃には、彼は王、悪魔、道化、王女の声を演じ分け、場面の転換を語り、すべての楽師に合図を送り終えている——ただ一人で。

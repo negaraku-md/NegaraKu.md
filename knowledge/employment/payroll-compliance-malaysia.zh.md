@@ -187,6 +187,7 @@ entity: "Malaysian statutory payroll compliance"
 relations: []
 related: ["labour-law-map-malaysia", ]
 keywords: ["payroll compliance Malaysia", "statutory contribution deadline Malaysia", "EPF SOCSO EIS PCB due date", "employer payroll obligations Malaysia", "HRD Corp levy deadline"]
+framework: rules
 ---
 
 马来西亚薪资出错的原因几乎从来不是算术。真正的原因是，五个不同的机构各自

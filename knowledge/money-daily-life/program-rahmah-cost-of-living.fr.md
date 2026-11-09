@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "inflation-cpi" }
 related: ["str-cash-aid", "fuel-subsidies", "subsidy-rationalisation-padu", "inflation-cpi"]
 keywords: ["Payung Rahmah", "Menu Rahmah", "Jualan Rahmah Madani", "PJRM", "Bakul Rahmah", "KPDN", "programme coût de la vie Malaisie", "repas RM5", "vente de produits de première nécessité pas chers"]
+framework: explainer
 ---
 
 Beaucoup de gens ont déjà vu le logo en forme de parapluie « RAHMAH » sur la

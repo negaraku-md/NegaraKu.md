@@ -87,6 +87,7 @@ relations:
   - { rel: "compares-with", to: "malaysia-indonesia-relations" }
 related: []
 keywords: ["hubungan Malaysia Singapura", "perjanjian air 1962", "RTS Link", "Tambak Johor", "Pulau Batu Puteh", "JS-SEZ", "perpisahan 1965", "dagangan dua hala"]
+framework: explainer
 ---
 
 Dua negara berbagi satu tambak, satu pasokan air, ratusan ribu pekerja ulang-alik setiap hari — dan satu sejarah perpisahan yang penuh emosi. Tidak ada hubungan bilateral Malaysia yang lebih erat, lebih rumit, dan lebih penting untuk dipahami daripada hubungannya dengan Singapura.

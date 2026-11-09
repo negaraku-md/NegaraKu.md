@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "national-energy-transition-roadmap" }
 related: []
 keywords: ["Malaysia carbon tax", "carbon pricing Malaysia", "iron steel energy carbon tax", "National Carbon Market Policy", "Climate Change Bill Malaysia", "cukai karbon"]
+framework: explainer
 ---
 
 மலேசியா முதன்முறையாக கார்பனுக்கு ஒரு விலையை நிர்ணயிக்கத் தயாராகி வருகிறது, மேலும் அதிக அளவில் உமிழ்வை வெளியிடும் தொழில்களில் இருந்து அது தொடங்குகிறது.

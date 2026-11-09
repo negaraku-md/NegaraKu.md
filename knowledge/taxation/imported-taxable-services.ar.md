@@ -74,6 +74,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-registration", "sst-02-filing", "sst-rate-table"]
 keywords: ["الخدمات الخاضعة للضريبة المستوردة", "imported taxable services", "SST-02A", "ضريبة الخدمات المادة 26A", "ضريبة الخدمات على الخدمات الأجنبية ماليزيا", "احتساب ضريبة الخدمات على النفس"]
+framework: rules
 ---
 
 هذا هو الالتزام الأكثر إغفالًا في نظام ضريبة المبيعات والخدمات (SST) بأكمله،

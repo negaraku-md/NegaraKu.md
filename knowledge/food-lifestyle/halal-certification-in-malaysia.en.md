@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "business-licence-malaysia" }
 related: ["fnb-licence-malaysia", "premise-licence-malaysia", "business-licence-malaysia"]
 keywords: ["sijil halal", "JAKIM", "MS 1500", "MYeHALAL", "logo Halal Malaysia", "pensijilan halal", "Verify Halal"]
+framework: explainer
 ---
 
 Many logos and the word "halal" can be found on packaging and at food premises, but not all of them carry official recognition. In Malaysia, only one halal mark is backed by the appointed authorities: the Malaysia Halal logo issued by JAKIM. Understanding how the certificate works gives you two things at once — how consumers verify a product's halal status, and how operators obtain the official mark of verification.

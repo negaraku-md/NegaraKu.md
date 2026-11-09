@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: []
 keywords: ["franchise registration malaysia", "franchise act 1998", "MyFEX 2.0", "franchisor registration", "franchisee registration", "franchise disclosure document", "section 6 franchise act", "section 54 approval"]
+framework: how-to
 ---
 
 在马来西亚，你无法像世界上大多数地方那样合法地推出特许经营——先悄悄签下几家门店，之后再把手续补齐。法律把这个顺序颠倒了过来：注册须在第一份要约之前完成，而且自2022年起，这一要求同样适用于加盟商。

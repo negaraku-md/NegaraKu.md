@@ -56,6 +56,7 @@ relations:
   - { rel: "part-of", to: "audit-exemption" }
 related: ["audit-exemption", "audit-exemption-thresholds", "after-audit-exemption"]
 keywords: ["dormant company audit exemption Malaysia", "dormant company SSM", "what breaks dormancy", "dormant since incorporation", "syarikat dorman audit"]
+framework: rules
 ---
 
 一家只挂着一个名字、别无他物的空壳公司，不必通过营业额测试、资产测试或雇员测试。

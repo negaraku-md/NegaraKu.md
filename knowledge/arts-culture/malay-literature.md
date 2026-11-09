@@ -78,6 +78,7 @@ verificationNeeded:
   - "Tarikh penubuhan ASAS 50: majoriti sumber menyebut 6 Ogos 1950, namun ada laporan menyebut proses pembentukannya bermula seawal 1947"
   - "Pengarang dan tarikh sebenar karya klasik seperti Hikayat Hang Tuah masih tidak dapat dipastikan dengan tepat (dianggarkan abad ke-15 hingga ke-17)"
   - "Tahun anugerah A. Samad Said dicatatkan 1985 dalam senarai utama tetapi 1986 dalam kotak navigasi sumber yang sama — disahkan sebagai 1985"
+framework: history-culture
 ---
 
 Dalam sebuah naskhah lama, terpahat kisah raja-raja Melaka, perjalanan Hang Tuah, dan runtuhnya sebuah empayar — bukan sebagai catatan sejarah yang kering, tetapi sebagai cerita yang hidup dengan watak, dialog dan susastera. Naskhah itu, *Sejarah Melayu* atau *Sulalatus Salatin*, ialah antara karya terawal yang membuktikan betapa panjang dan kayanya tradisi persuratan bahasa Melayu.

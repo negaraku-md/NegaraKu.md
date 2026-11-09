@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["consumer-protection-act", "duitnow-qr-payments", "opening-bank-account"]
 keywords: ["consumer rights Malaysia", "Tribunal for Consumer Claims", "TTPM", "KPDN complaint", "refund Malaysia", "consumer protection act 1999", "how to claim RM50000", "ttpm.kpdn.gov.my"]
+framework: how-to
 ---
 
 Sebuah telefon mati pada minggu kedua. Seorang kontraktor mengaut wang pendahuluan

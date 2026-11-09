@@ -87,6 +87,7 @@ relations:
   - { rel: "compares-with", to: "sme-financing-malaysia" }
 related: ["sme-financing-malaysia", "share-capital-malaysia", "shareholders-agreement-malaysia"]
 keywords: ["التمويل الجماعي بالأسهم في ماليزيا", "التمويل من نظير إلى نظير في ماليزيا", "ECF ماليزيا", "مشغّل السوق المعترف بها SC", "جمع الأموال للشركات الصغيرة والمتوسطة في ماليزيا", "تمويل الفواتير P2P", "equity crowdfunding malaysia", "p2p financing malaysia"]
+framework: decision
 ---
 
 الشركة الماليزية الصغيرة أو المتوسطة التي رفضتها ثلاثة مصارف لافتقارها إلى الضمان لديها

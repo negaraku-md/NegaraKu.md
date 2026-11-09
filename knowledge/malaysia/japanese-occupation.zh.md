@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["independence-1957", "formation-of-malaysia-1963", "melaka-sultanate"]
 keywords: ["pendudukan Jepun", "Tanah Melayu 1941-1945", "duit pisang", "Kota Bharu 1941", "pentadbiran tentera Jepun", "Perang Dunia Kedua Malaysia"]
+framework: history-culture
 ---
 
 八周。这是日军首次在吉兰丹海岸登陆，到整个马来亚落入日军手中之间的时间——而这片土地此前已被英国以各种形式统治了一个半世纪有余。

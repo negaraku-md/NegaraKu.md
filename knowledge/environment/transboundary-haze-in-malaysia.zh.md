@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "asean-agreement-on-transboundary-haze-pollution" }
 related: []
 keywords: ["jerebu", "transboundary haze", "API", "Indeks Pencemar Udara", "Sumatera", "Kalimantan", "ASEAN", "Jabatan Alam Sekitar", "kualiti udara"]
+framework: explainer
 ---
 
 每当旱季季风转向，巴生谷、砂拉越以及半岛大部分地区的天空，往往在短短几天内就变得灰蒙蒙——太阳变得朦胧，烟味钻进屋内，手机响起API警报。这就是跨境烟霾：一种并非完全在本国产生、却由数百万马来西亚人年复一年吸入体内的污染。

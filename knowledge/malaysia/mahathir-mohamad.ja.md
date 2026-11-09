@@ -71,6 +71,7 @@ sources:
 
 related: ["wawasan-2020", "ops-lalang-1987", "1998-reformasi", "new-economic-policy", "2018-change-of-government"]
 keywords: ["Mahathir Mohamad", "Tun Mahathir", "fourth prime minister Malaysia", "Vision 2020", "Wawasan 2020"]
+framework: profile
 ---
 
 マハティール・モハマド（1925年7月10日生まれ）は、マレーシア在任最長の首相であり、現代国家を代表する人物の一人である。医師として訓練を受けた後、統一マレー国民組織（United Malays National Organisation、UMNO）を通じて政界に入り、**第4代首相**として22年間国を率い、その後数十年を経て**第7代**として復帰した。

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["thaipusam", "hinduism-in-malaysia", "indian-classical-arts-in-malaysia", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community"]
 keywords: ["கோயில் இசை", "நாதஸ்வரம்", "தவில்", "மங்கள வாத்தியம்", "உறுமி மேளம்", "காவடி", "மலேசியா கோயில் இசை", "Nadaswaram", "Thavil", "Urumi Melam"]
+framework: history-culture
 ---
 
 타이푸삼 행렬의 맨 앞에서, 사원의 수레가 출발하는 그 순간에, 또는 결혼식장 입구에서 — 말레이시아의 어떤 타밀 힌두 행사에서든, 공기를 가장 먼저 채우는 것은 어떤 특정한 소리이다. 나다스와람(nadaswaram)의 긴 선율과 타빌(thavil)의 울림이다. 그 소리는 우연이 아니다 — 그것은 한 세기가 넘도록 이 공동체와 함께 걸어온 **mangala vadyam**(길상 악기) 전통의 표지이다.

@@ -124,6 +124,7 @@ entity: "Foreign-source income received in Malaysia"
 relations: []
 related: ["income-tax-in-malaysia"]
 keywords: ["foreign source income Malaysia", "FSI exemption Malaysia", "foreign dividend exemption Malaysia", "P.U.(A) 235/2022", "economic substance Malaysia FSI", "remittance tax Malaysia"]
+framework: rules
 ---
 
 请从宪报读取届满日期，而不是从博客读取。截至2026年8月14日，大多数马来西亚控股公司所依赖的境外股息豁免——P.U.(A) 235/2022——在其自身的第1(2)段中仍写明其效力「自2022年1月1日起至2026年12月31日止」，且尚无任何对应到宪报编号的修订令移动过该日期。曾存在的修订令P.U.(A) 157/2024改写了符合资格的条件，并纳入了选择适用1967年所得税法令的纳闽公司；它并未触动届满日。

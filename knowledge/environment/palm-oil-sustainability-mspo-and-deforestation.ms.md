@@ -91,6 +91,7 @@ relations:
   - { rel: "affects", to: "eu-deforestation-regulation-eudr" }
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "palm oil sustainability", "deforestation", "EUDR", "RSPO", "certification", "smallholders", "MPOB", "Malaysia palm oil"]
+framework: explainer
 ---
 
 Malaysia mengeluarkan kira-kira satu perlima daripada minyak sawit dunia, dan industri ini telah lama menerima kritikan daripada penggerak kempen Eropah dan NGO berhubung kaitannya dengan penyahutanan. Sebagai tindak balas, negara ini kini mengendalikan skim pensijilan wajib yang disokong kerajaan, dan pada 5 September 2025 Kesatuan Eropah mengiktiraf skim tersebut dalam satu kenyataan bersama. Inilah cara MSPO berfungsi, apa yang dibuktikannya dan tidak dibuktikannya, serta di mana masalah rumit masih wujud.

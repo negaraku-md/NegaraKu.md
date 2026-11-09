@@ -88,6 +88,7 @@ relations:
   - { rel: "compares-with", to: "bahasa-melayu" }
 related: ["population-composition", "article-152-language", "bahasa-melayu", "languages-spoken", "federal-constitution"]
 keywords: ["Tamil in Malaysia", "SJKT", "Sekolah Jenis Kebangsaan Tamil", "Tamil schools Malaysia", "Malaysian Indians", "Article 152", "Tamil medium instruction", "vernacular schools"]
+framework: explainer
 ---
 
 かつてのマラヤのゴムプランテーションでは、最も初期の教室の一部は小屋や掘っ立て小屋であり、授業はタミル語で行われていた。マレーシア歴史学会（Persatuan Sejarah Malaysia）の機関誌に掲載された歴史研究によれば、二十世紀初頭からプランテーションにおいて基礎的なタミル語初等教育が提供されており、それは当時の労働法典のもとで定められたものであった。そして長い間、教えるのは訓練を受けた教員ではなく、事務員や非常勤の者たちであった。

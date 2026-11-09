@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "str-cash-aid" }
 related: ["i-saraan-epf-voluntary-contribution", "epf-socso-employees", "income-tax-individuals", "str-cash-aid"]
 keywords: ["i-Saraan", "i-Saraan Plus", "KWSP", "PERKESO", "Lindung Kendiri", "pekerja gig", "bekerja sendiri", "Akta Pekerja Gig 2025", "Akta 872", "SKSPS", "freelancer"]
+framework: explainer
 ---
 
 ใช้ชีวิตขับ e-hailing หรือรับงานฟรีแลนซ์ แล้วมีสิ่งหนึ่งที่ไม่เกิดขึ้นโดยอัตโนมัติ คือไม่มีใครหักเงินเดือนของคุณเพื่อ KWSP หรือ PERKESO สำหรับพนักงานประจำ เงินสมทบนั้นเกิดขึ้นเบื้องหลังทุกเดือน สำหรับคุณที่ประกอบอาชีพอิสระ ตาข่ายความปลอดภัยนั้นไม่มีอยู่จนกว่าคุณจะสร้างมันขึ้นเอง และในปี 2026 ส่วนหนึ่งของมันเพิ่งเปลี่ยนจากทางเลือกไปเป็นภาระผูกพัน

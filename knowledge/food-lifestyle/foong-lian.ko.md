@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#FoongLian", "#ClaypotRice", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Pudu의 Jalan Yew에는 벌겋게 달아오른 숯 위에 뚝배기 한 줄이 놓여, 저마다 바닥에 밥의

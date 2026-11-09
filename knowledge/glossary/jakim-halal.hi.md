@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "kpdn" }
 related: ["jakim"]
 keywords: ["halal", "JAKIM", "हलाल प्रमाणपत्र", "हलाल प्रमाणन", "MYeHALAL", "हलाल लोगो", "Akta Perihal Dagangan 2011", "MAIN", "JAIN"]
+framework: explainer
 ---
 
 आधिकारिक हलाल लोगो, अपनी सुलेख लिपि के साथ, किसी खाद्य पैकेज पर छोटा दिख सकता है

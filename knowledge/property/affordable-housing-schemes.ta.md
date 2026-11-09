@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "home-loan-financing" }
 related: []
 keywords: ["rumah mampu milik", "PR1MA", "Residensi Wilayah", "RUMAWIP", "Rumah Mesra Rakyat", "PPR", "Rumah Selangorku", "Residensi MADANI", "rumah mampu milik Malaysia"]
+framework: decision
 ---
 
 உங்கள் மாத ஊதியம் RM4,000, ஆனால் நகரத்தில் வரிசை வீட்டின் (teres) விலை அரை மில்லியன் ரிங்கிட்டைத் தொட்டுவிட்டது — எங்கிருந்து தேடத் தொடங்க வேண்டும்? பதில் ஏதோ ஒரு திட்டம் அல்ல, மாறாக ஒவ்வொன்றும் வெவ்வேறு வருமான வரம்பை இலக்காகக் கொள்ளும் அரசாங்கத் திட்டங்களின் ஒரு பட்டியல். தவறானதைத் தேர்ந்தெடுப்பது என்பது, நீங்கள் தகுதியே இல்லாத ஒரு வீட்டுக்காக மாதக்கணக்கில் குலுக்கல் காத்திருந்து வீணடிப்பதைக் குறிக்கும்.

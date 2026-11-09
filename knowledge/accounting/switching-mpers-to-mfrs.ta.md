@@ -81,6 +81,7 @@ relations:
   - { rel: "affects", to: "mpers-2025-revision" }
 related: ["mfrs-vs-mpers"]
 keywords: ["switch MPERS to MFRS", "MFRS 1 first-time adoption Malaysia", "private entity definition MASB", "change accounting framework Malaysia", "revert to MPERS"]
+framework: explainer
 ---
 
 ஒவ்வொரு மலேசிய நிறுவன வலைப்பதிவும் MPERS-க்கும் MFRS-க்கும் இடையிலான *வேறுபாட்டை* விளக்குகிறது. ஒரு நிதி இயக்குநருக்கு அது முக்கியப்படும் தருணத்தில் உண்மையில் என்ன தேவை என்பதை கிட்டத்தட்ட எதுவும் விளக்குவதில்லை: எந்த நிகழ்வு இந்த மாற்றத்தைக் கட்டாயப்படுத்துகிறது, மறுஉருவாக்கம் எவ்வளவு பின்னோக்கிச் செல்கிறது, மேலும் அந்த முடிவை மாற்றியமைக்க முடியுமா என்பது.

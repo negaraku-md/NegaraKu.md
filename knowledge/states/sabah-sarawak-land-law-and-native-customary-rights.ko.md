@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
 related: ["federal-constitution"]
 keywords: ["native customary rights", "NCR", "Sarawak Land Code", "Sabah Land Ordinance", "native title", "temuda", "pemakai menoa", "East Malaysia land law"]
+framework: explainer
 ---
 
 쿠알라룸푸르(Kuala Lumpur)에서 집을 사면 하나의 연방 제정법이 여러분의 소유권을 규율합니다. 쿠칭(Kuching)이나 코타키나발루(Kota Kinabalu)에서 같은 일을 하면 여러분은 전혀 다른 법의 세계로 들어섭니다 — 자체 법령, 자체 토지 범주, 그리고 어떤 종잇조각도 창설하지 않은 보유 형태를 가진 세계입니다: 바로 원주민 관습권입니다.

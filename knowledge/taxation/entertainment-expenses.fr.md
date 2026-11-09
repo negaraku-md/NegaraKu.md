@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["non-deductible-expenses", "section-33-deductibility"]
 keywords: ["frais de représentation impôt Malaisie", "39(1)(l) représentation", "déduction représentation 50%", "public ruling 4/2015", "déduction fiscale cadeau promotionnel Malaisie"]
+framework: rules
 ---
 
 Presque tous les calculs fiscaux malaisiens réduisent de moitié la ligne de représentation et passent à autre chose. C'est faux dans les deux sens. Une partie de ce qui est réduit de moitié devrait être refusée en totalité, et une bonne part ne devrait pas être réduite de moitié du tout.

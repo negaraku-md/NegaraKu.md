@@ -112,6 +112,7 @@ relations:
   - { rel: "governs", to: "employment" }
 related: ["labour-law-map-malaysia", "new-hire-statutory-checklist", "employee-vs-contractor-malaysia"]
 keywords: ["osha 1994 malaysia", "osh coordinator malaysia", "occupational safety and health act employer duties", "safety and health committee 40 employees", "osha amendment 2022"]
+framework: rules
 ---
 
 말레이시아 중소기업에 OSHA가 적용되는지 물으면 대개 아니라는 답이 돌아옵니다 — 그것은

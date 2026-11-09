@@ -81,6 +81,7 @@ relations:
   - { rel: "requires", to: "special-resolution" }
 related: ["companies-act-2016", "company-limited-by-guarantee-malaysia"]
 keywords: ["perlembagaan syarikat", "company constitution", "resolusi khas", "seksyen 32", "seksyen 36", "entrenchment", "Akta Syarikat 2016", "SSM"]
+framework: how-to
 ---
 
 Sdn Bhdは「定款」と題する文書を一枚も持たないまま何年も事業を続けることができる——そしてそれはマレーシア法上、完全に適法である。2016年会社法（Companies Act 2016、Act 777）は、大多数の会社にとって定款を任意のものとした。これは、基本定款および付属定款（M&A）が義務であった時代からの大きな転換である。問題はもはや「我が社の定款に何を盛り込むべきか」ではなく、「そもそも定款が必要か、必要ならばどう採択し、変更し、あるいは固定化するのか」である。

@@ -97,6 +97,7 @@ verificationNeeded:
   - "Các tháng chính xác của mùa sầu riêng và trái cây nói chung thay đổi theo vùng và năm cùng với lượng mưa và sự ra hoa — hãy xác nhận thời điểm của năm hiện tại với Cục Nông nghiệp Malaysia (DOA) hoặc MARDI thay vì ấn định ngày cụ thể."
   - "Liệu langsat, duku và dokong là các hạng/giống trồng của một loài duy nhất (Lansium parasiticum) hay là các giống riêng biệt, và sự phân biệt chính xác giữa chúng — hãy xác nhận với nguồn làm vườn như MARDI."
   - "Niềm tin dân gian rằng sầu riêng 'nóng' hoặc nguy hiểm khi ăn cùng rượu là truyền thống và chưa được bằng chứng xác lập vững chắc — hãy đánh dấu là niềm tin, không phải sự thật."
+framework: explainer
 ---
 
 Dạo qua bất kỳ khu *pasar* (chợ) nào ở Malaysia vào giữa năm, các sạp trái cây

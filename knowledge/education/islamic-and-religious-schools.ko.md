@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "national-education-system" }
 related: ["jakim"]
 keywords: ["SABK", "sekolah agama", "tahfiz", "KAFA", "JAKIM", "pendidikan Islam", "sekolah agama rakyat", "jabatan agama negeri"]
+framework: explainer
 ---
 
 말레이시아의 한 아동은 오전을 국민학교에서, 오후를 모스크의 KAFA 수업에서, 그리고 청소년기를 타흐피즈 기숙사에서 보낼 수 있습니다. 감독 주체, 교육과정, 법이 서로 다른 세 교육 환경입니다. 이슬람 종교 교육 갈래는 국가 제도와 나란히 운영되지만, 하나의 단일 덩어리가 아닙니다. 누가 무엇을 등록하고 누가 무엇을 책임지는지를 이해하는 것이 이 주제에 관한 공적 논의를 공정하게 읽는 열쇠입니다.

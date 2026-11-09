@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "estate-tamil-community", "tamil-vernacular-schools", "chinese-language-press", "languages-spoken"]
 keywords: ["மலேசியத் தமிழ்ப் பத்திரிகைகள்", "தமிழ் நாளிதழ்கள் மலேசியா", "மலேசிய நண்பன்", "மக்கள் ஓசை", "தமிழ் நேசன்", "மின்னல் FM", "Tamil-language press in Malaysia", "Tamil newspapers Malaysia"]
+framework: history-culture
 ---
 
 หนังสือพิมพ์ภาษาทมิฬสักฉบับคู่กับกาแฟหรือชายามเช้าที่ร้านหัวมุม — สำหรับคนทมิฬมาเลเซียรุ่นหนึ่ง นี่คือภาพที่คุ้นตา หน้ากระดาษเหล่านั้นไม่เพียงมีข่าวของวัน แต่ยังมีประกาศงานเทศกาลที่วัด ข่าวโรงเรียนทมิฬ คำอวยพรงานแต่งงาน ข่าวมรณกรรม และบทวิจารณ์ภาพยนตร์ทมิฬ — ชีวิตประจำวันของชุมชนหนึ่งถูกตีพิมพ์ออกมาเช่นนั้น

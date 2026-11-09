@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "audit-exemption" }
 related: ["mbrs-2-filing-guide", "mbrs-tagging-errors", "unaudited-financial-statements", "financial-statements-lodgement", "audit-exemption", "mfrs-vs-mpers"]
 keywords: ["financial statements Malaysia", "statement by directors", "statutory declaration financial statements", "directors report section 252", "auditors report section 266", "statutory accounts Sdn Bhd", "Fifth Schedule directors report"]
+framework: explainer
 ---
 
 マレーシアの取締役に、毎年 SSM へ何を提出するのかと尋ねると、答えはたいてい「決算書類」である。その決算書類にある4つの署名のうち、どれが自分のものかと尋ねると、答えは途端に曖昧になる。

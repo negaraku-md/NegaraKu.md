@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "asean-free-trade-area" }
 related: ["miti", "malaysia-cptpp"]
 keywords: ["RCEP", "accord commercial de la Malaisie", "règles d'origine", "Form RCEP", "élimination des droits de douane", "ASEAN", "MITI", "accord de libre-échange"]
+framework: explainer
 ---
 
 Signez un certificat d'origine, et une marchandise fabriquée en Malaisie peut circuler en franchise de droits sur un marché qui s'étend d'Auckland à Pékin et à Kuala Lumpur. Voilà, en une seule phrase, ce que le RCEP a changé pour les exportateurs malaisiens.

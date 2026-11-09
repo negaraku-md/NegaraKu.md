@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["malaysian-education-system", "enrolling-in-a-government-school", "private-and-chinese-independent-schools"]
 keywords: ["sekolah kebangsaan", "SJKC", "SJKT", "sekolah jenis kebangsaan", "bahasa pengantar", "KPM", "KSSR", "sekolah rendah Malaysia"]
+framework: explainer
 ---
 
 매년 등록 기간이 열리면, 말레이시아 전역의 학부모는 자녀를 1학년에 등록하기 위해 말레이시아 교육부(KPM)의 idMe 포털을 엽니다. 가장 먼저 내려야 할 선택 중 하나가 바로 SK, SJKC, SJKT입니다.

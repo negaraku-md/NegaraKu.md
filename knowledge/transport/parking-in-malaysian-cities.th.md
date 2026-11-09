@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "road-tax-and-vehicle-registration" }
 related: []
 keywords: ["letak kereta", "e-parking", "kompaun letak kereta", "DBKL", "Smart Selangor Parking", "EZ Smart Park"]
+framework: explainer
 ---
 
 คุณค้นหาเหรียญในรถเพื่อหยอดเครื่องออกตั๋ว — แต่เครื่องนั้นหายไปตั้งแต่ปี 2020 การจอดรถในเมืองใหญ่ของมาเลเซียขณะนี้เริ่มต้นด้วยสมาร์ตโฟน ไม่ใช่กระปุกเหรียญริมถนนอีกต่อไป

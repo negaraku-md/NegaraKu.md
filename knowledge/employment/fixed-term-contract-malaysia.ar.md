@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-contract-malaysia", "unfair-dismissal-malaysia", "termination-benefits-malaysia", "employee-vs-contractor-malaysia"]
 keywords: ["عقد محدد المدة ماليزيا", "تجديد العقد ماليزيا", "عدم التجديد فصل ماليزيا", "fixed term contract malaysia", "contract renewal malaysia"]
+framework: explainer
 ---
 
 يُسوَّق العقد محدَّد المدة في السوق الماليزي بوصفه أداة أمان: وظِّف لسنة، وقرِّر في

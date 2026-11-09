@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "nine-royal-houses" }
 related: ["jalur-gemilang", "negaraku-anthem", "nine-royal-houses"]
 keywords: ["Jata Negara", "lambang kebangsaan Malaysia", "Bersekutu Bertambah Mutu", "maksud Jata Negara", "dua ekor harimau perisai", "lima bilah keris", "Bunga Raya", "anak bulan bintang pecah 14"]
+framework: explainer
 ---
 
 # 国章 Jata Negara：マレーシア国家紋章の要素を読み解く

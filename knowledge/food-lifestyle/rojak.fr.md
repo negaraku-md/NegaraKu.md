@@ -90,6 +90,7 @@ verificationNeeded:
   - "L'origine du rojak. Les ouvrages de référence font remonter le mot et le plat au vieux javanais (Zoetmulder le dérive de anrujak/rinujak, « couper en petits morceaux »), mais tel qu'il existe en Malaisie, le plat est interculturel et aucun inventeur unique ni date ferme n'est documenté — à vérifier auprès d'une source d'histoire culinaire ou de lexicographie, et non des médias gastronomiques."
   - "L'origine et l'ancienneté du rojak indien/mamak (pasembur) en particulier. Les auteurs culinaires notent qu'il n'existe pas de références fermes sur le moment ou le lieu d'apparition de la version mamak — n'avancez pas de date ni d'inventeur avec assurance."
   - "La question de savoir si la pâte de crevettes fermentée (hae ko) est universelle dans le rojak de fruits. Certaines sources décrivent la sauce simplement comme de la pâte de crevettes, du sucre, du piment et du jus de citron vert, du tamarin ou de la pâte de haricots noirs étant ajoutés par certains marchands ; l'emploi et le nom précis du hae ko varient — à vérifier auprès d'une source régionale."
+framework: explainer
 ---
 
 Demandez « rojak » à un étal, et vous obtenez un amas froid de fruits et de beignets de

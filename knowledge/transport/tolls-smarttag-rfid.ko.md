@@ -75,6 +75,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["tol lebuh raya Malaysia", "SmartTAG", "RFID Touch n Go", "JustGO PLUS", "ANPR tol", "MLFF tol tanpa palang", "lorong tol Malaysia"]
+framework: explainer
 ---
 
 RFID 차로에서 당신 앞의 차가 전조등에 붙은 스티커가 감지되지 않아 갑자기

@@ -95,6 +95,7 @@ verificationNeeded:
   - "L'origine et la datation de l'Ipoh white coffee, y compris l'attribution populaire aux exploitants de cafés hainanais et toute décennie précise (certains récits citent les années 1950) — tout cela repose sur les médias gastronomiques et des sources anecdotiques, et devrait être confirmé par rapport à une histoire documentée."
   - "L'existence ou non d'une nouille « poulet-anchois » propre à Ipoh en tant que plat portant son propre nom, ou si cela renvoie au bouillon de poulet et de crevettes du kai see hor fun (que certains cuisiniers corsent avec des anchois séchés) — vérifier par rapport à une source culinaire locale avant de l'énoncer comme un plat distinct."
   - "Les détails sur les établissements et les lieux (attributions à Old Town ou New Town, étals nommés comme Thean Chun, Aun Kheng Lim et les fabricants de heong peng de Gunung Rapat) changent avec le temps ; confirmer les exploitants et les emplacements actuels avant de s'y fier."
+framework: history-culture
 ---
 
 Demandez à n'importe qui en Malaisie où manger et, tôt ou tard, on vous enverra à

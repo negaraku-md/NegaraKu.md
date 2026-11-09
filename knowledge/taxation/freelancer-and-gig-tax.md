@@ -82,6 +82,7 @@ relations:
   - { rel: "affects", to: "e-invoicing" }
 related: ["gig-workers-act-2025", "which-tax-form", "personal-tax-rates", "e-invoicing", "myinvois-phases", "section-33-deductibility"]
 keywords: ["freelancer tax Malaysia", "gig worker income tax", "section 4(a) vs 4(f)", "cukai pekerja gig", "home office deduction Malaysia", "CP500 instalment freelancer", "content creator tax Malaysia"]
+framework: explainer
 ---
 
 The question that decides a freelancer's tax bill is not how much they earned.

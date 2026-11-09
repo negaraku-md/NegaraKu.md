@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "emergencies-999" }
 related: ["klinik-kesihatan", "how-malaysian-healthcare-works", "private-hospitals-and-costs", "emergencies-999"]
 keywords: ["मानसिक-स्वास्थ्य सेवाएँ मलेशिया", "Talian HEAL 15555", "Talian Kasih 15999", "Befrienders Malaysia", "MENTARI क्लीनिक मलेशिया", "मनोरोग अस्पताल मलेशिया", "MMHA Malaysian Mental Health Association", "परामर्श मलेशिया", "मलेशिया में मानसिक-स्वास्थ्य मदद कहाँ पाएँ", "Mental Health Act 2001 Malaysia"]
+framework: explainer
 ---
 
 मदद माँगने का निर्णय अक्सर सबसे कठिन हिस्सा होता है। यह पता लगाना कि *कहाँ* माँगें, वह हिस्सा है जिसे लगभग कोई नहीं समझाता — और यही अंतराल अकेले लोगों को कभी फ़ोन करने से रोक देता है।

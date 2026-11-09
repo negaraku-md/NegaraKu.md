@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution", "companies-act-2016", "employment-act-1955"]
 keywords: ["Malaysia court hierarchy", "Sessions Court jurisdiction RM1 million", "Magistrates Court limit RM100,000", "Courts of Judicature Act 1964", "Subordinate Courts Act 1948", "hierarki mahkamah Malaysia"]
+framework: data-reference
 ---
 
 Déposez une réclamation pour rupture de contrat de RM1.2 millions devant le Tribunal de sessions et peu importera la solidité de votre dossier. Le tribunal n'a pas le pouvoir d'en connaître. Déposez cette même réclamation de RM80,000 devant la Haute Cour et on vous dira très probablement que vous n'êtes pas dans le bon bâtiment — et vous paierez pour le détour.

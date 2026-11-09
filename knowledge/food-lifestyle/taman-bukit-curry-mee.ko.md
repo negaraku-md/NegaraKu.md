@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#CurryMee", "#Penang", "#SeberangPerai", "#BibGourmand", "#Malaysia"]
+framework: profile
 ---
 
 페낭의 MICHELIN 명성은 대부분 조지타운 섬의 거리에 몰려 있다. Taman Bukit Curry

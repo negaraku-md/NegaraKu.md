@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "syariah-courts-malaysia" }
 related: []
 keywords: ["faraid", "harta pusaka", "pusaka islam", "waris", "mahkamah syariah", "baitulmal", "akta pembahagian 1958", "pusaka kecil"]
+framework: explainer
 ---
 
 当一名穆斯林在马来西亚去世时，他的财产未必落入最亲近或最有需要的继承人手中——而是按照伊斯兰教法（Syarak）所确定的固定份额分配。这套制度就称为**法拉伊德（faraid）**，除非所有继承人同意采用其他方式，否则它便是穆斯林遗产的默认分配方法。

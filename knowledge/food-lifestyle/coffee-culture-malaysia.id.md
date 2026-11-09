@@ -92,6 +92,7 @@ verificationNeeded:
   - "Resep penyangraian tradisional yang tepat untuk kopi O gelap——umum digambarkan sebagai biji yang disangrai dengan gula dan margarin, dan menurut sebagian cerita juga gandum/jagung——diperlakukan sebagai rahasia dagang oleh merek-merek besar dan berbeda-beda antarpenyangrai; konfirmasikan rinciannya dengan sumber primer."
   - "Waktu, para perintis, dan rincian kafe/penyangrai terkini gerakan third wave Kuala Lumpur sebagian bergantung pada artikel Time Out 2014; kafe dan penyangrai yang disebut mungkin telah berubah. Konfirmasikan dengan sumber terkini sebelum mengandalkan rincian spesifik."
   - "Cakupan dan produksi kopi tanaman Malaysia (mis. Liberica) serta klaim 'single-origin Malaysia' apa pun sebaiknya dikonfirmasi dengan sumber pertanian atau industri, bukan media wisata."
+framework: history-culture
 ---
 
 Pesanlah "kopi" di sebuah kedai kopi tua di Ipoh, dan Anda akan mendapat secangkir tebal

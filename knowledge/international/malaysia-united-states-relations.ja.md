@@ -108,6 +108,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-china-relations", "malaysia-asean-membership"]
 keywords: ["Malaysia US relations", "Comprehensive Strategic Partnership", "reciprocal trade agreement", "US tariff Malaysia", "semiconductors", "defence cooperation"]
+framework: explainer
 ---
 
 2014年、バラク・オバマ（Barack Obama）米大統領は、クアラルンプールの国立モスク、Masjid Negara（国家モスク）を視察した。2025年、アンワル・イブラヒム（Anwar Ibrahim）首相は、署名された貿易協定を挟んでドナルド・トランプ（Donald Trump）米大統領と握手を交わした。まったく異なる二人の米国大統領、そして一つの揺るぎない関係——そこには、ワシントンに近づきながらも、その安全保障の傘の下には決して立たないという、マレーシアならではの流儀がある。

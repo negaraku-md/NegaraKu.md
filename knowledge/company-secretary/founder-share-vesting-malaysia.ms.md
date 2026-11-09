@@ -78,6 +78,7 @@ social:
     - SdnBhd
     - VentureCapital
     - MalaysiaCompanyLaw
+framework: explainer
 ---
 
 Dua orang memperbadankan Sdn Bhd, membahagikan saham 50/50, dan mula membina. Enam bulan kemudian, seorang daripadanya hilang minat dan pergi — sambil mengekalkan separuh syarikat. Pengasas yang tinggal kini memikul semua kerja sementara bekas rakan yang pasif duduk atas 50% ekuiti, menyekat jadual permodalan yang mahu dilihat bersih oleh mana-mana pelabur masa depan. Masalah "ekuiti mati" ini ialah bencana pengasas yang paling biasa, dan penyelesaiannya ialah peletakhakan: menjadikan ekuiti pengasas sesuatu yang mereka kekalkan dengan terus tinggal, bukan sesuatu yang mereka miliki secara mutlak dari hari pertama.

@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "foreign-exchange-policy-malaysia" }
 related: ["foreign-exchange-policy-malaysia", "foreign-ownership-malaysia"]
 keywords: ["repatriate profits malaysia", "dividend withholding tax malaysia", "single tier system malaysia", "2% dividend tax malaysia", "remit profits to parent company"]
+framework: explainer
 ---
 
 Foreign founders arrive expecting a dividend withholding tax, because almost every

@@ -118,6 +118,7 @@ relations:
   - { rel: "related-to", to: "visiting-sabah-and-sarawak" }
 related: []
 keywords: ["getting around Malaysia", "KLIA Ekspres", "KTM ETS train", "domestic flights Malaysia", "AirBorneo", "Grab Malaysia", "Malaysia ferry", "driving in Malaysia", "Touch n Go"]
+framework: explainer
 ---
 
 Bạn hạ cánh tại Sân bay Quốc tế Kuala Lumpur lúc nửa đêm, mệt mỏi vì lệch múi giờ, và những người mời chào taxi đã lượn quanh. Tin tốt: Malaysia có một trong những hệ thống giao thông thân thiện với du khách nhất Đông Nam Á, và bạn có thể bỏ qua hoàn toàn sự phiền phức — một chuyến tàu sân bay nhanh, giá cố định, một ứng dụng điện thoại gọi một chiếc xe tính cước, và các chuyến bay nội địa rẻ khiến Borneo trở thành một chuyến nhảy cuối tuần. Mẹo là biết chọn phương thức nào, và khi nào.

@@ -99,6 +99,7 @@ keywords:
   - "Lee Chong Wei"
   - "Lee Zii Jia"
   - "juara All England Malaysia"
+framework: history-culture
 ---
 
 1992년 5월, 온 나라가 잠시 멈춰 섰습니다. 쿠알라룸푸르 스타디움 느가라에서 Sidek 형제가 이끈 젊은 선수단이 인도네시아를 꺾고 토머스컵을 들어 올렸으며 — Datuk Rashid Sidek의 말처럼 "말레이시아 전체가 열광했고 모두가 배드민턴을 치고 싶어 했습니다". 30년이 지난 지금도 그 트로피는 아직 돌아오지 않았습니다. 말레이시아 배드민턴의 이야기는 초창기의 영광, 아픈 침체기, 그리고 한 나라의 희망을 어깨에 짊어진 한두 명의 챔피언에 관한 이야기입니다.

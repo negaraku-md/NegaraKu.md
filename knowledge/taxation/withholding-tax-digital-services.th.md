@@ -104,6 +104,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-non-compliance", "imported-taxable-services", "cp37-forms"]
 keywords: ["withholding tax SaaS Malaysia", "withholding tax on software", "digital advertising withholding tax", "Practice Note 1/2018", "cloud subscription royalty Malaysia", "imported taxable services vs withholding tax"]
+framework: rules
 ---
 
 SME มาเลเซียจ่ายบิลโฮสติ้งต่างชาติ ค่าสมัครสมาชิกเครื่องมือออกแบบ แพลตฟอร์มโฆษณา และค่าคอมมิชชันตลาดทุกเดือน และไม่หักอะไรบนรายการใดเลย จากนั้นการตรวจสอบภาษีมาถึงและคำถามไม่ใช่ว่าภาษีต้องเสียหรือไม่ — แต่เป็นว่าภาษีใดในสองภาษีที่แยกจากกันโดยสิ้นเชิงต้องเสีย เพราะคำตอบมักเป็นทั้งสอง

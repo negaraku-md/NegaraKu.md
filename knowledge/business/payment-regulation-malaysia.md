@@ -70,6 +70,7 @@ relations:
   - { rel: "governs", to: "financial-services-act-2013" }
 related: ["foreign-exchange-policy-malaysia", "online-business-licence-malaysia"]
 keywords: ["payment licence malaysia", "e-money licence malaysia", "BNM approval payment", "merchant acquiring malaysia", "limited purpose e-money", "FSA 2013 schedule 1"]
+framework: rules
 ---
 
 A founder adds a wallet so customers can top up and pay faster. Somebody mentions a BNM

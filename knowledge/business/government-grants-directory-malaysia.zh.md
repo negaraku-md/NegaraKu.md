@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "mdec-digital-status" }
 related: ["sme-financing-malaysia"]
 keywords: ["government grants malaysia", "SME grant malaysia", "startup grant malaysia", "cradle CIP grant", "MDEC digital grant", "MSME digital grant madani", "matching grant malaysia", "business funding malaysia"]
+framework: data-reference
 ---
 
 搜索「马来西亚政府拨款」，你会得到数十篇承诺为你的企业提供免费资金的清单文章。现实更有用也更复杂：钱确实存在，但被称作「拨款」的东西有一半其实是贷款、股权投资，或对你必须先花出去的现金的报销。在申请之前你能学到的最宝贵的一件事，就是如何区分它们。

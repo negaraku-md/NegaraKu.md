@@ -73,6 +73,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#LemonKoayTeowSoup", "#KoayTeowSoup", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 Al otro lado del canal desde George Town, en la parte continental de Penang,

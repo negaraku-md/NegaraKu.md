@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-vs-tax-invoice" }
 related: ["e-invoicing", "e-invoice-vs-tax-invoice", "consolidated-e-invoice", "myinvois-phases", "accounting-records-section-245"]
 keywords: ["e-invoice record keeping Malaysia", "MyInvois retention period", "section 245 e-invoice", "section 82 Income Tax Act records", "e-invoice statutory records Malaysia"]
+framework: explainer
 ---
 
 The most common misconception in Malaysian finance functions right now is that

@@ -86,6 +86,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaLicensing
     - SupplyChain
+framework: how-to
 ---
 
 Memulakan sebuah syarikat logistik di Malaysia bukan satu keputusan tetapi satu timbunan keputusan. Sdn Bhd ialah bahagian yang mudah; nilainya — dan kelewatannya — terletak pada lesen. Sebuah lori yang membawa kargo orang lain, seorang penghantar yang memfailkan pengisytiharan kastam, dan seorang pemandu di belakang stereng, setiap satunya bertanggungjawab kepada pihak berkuasa yang berbeza, dan yang terbesar — lesen pengendali — juga ialah tempat pemilikan asing berlanggar dengan dinding. Inilah laluan penubuhan pengendali, dalam susunan yang sebenarnya anda perlukan.

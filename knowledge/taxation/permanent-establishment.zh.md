@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "dta-network" }
 related: ["dta-network", "company-tax-residence", "transfer-pricing-documentation", "withholding-tax-rates"]
 keywords: ["permanent establishment Malaysia", "section 12(3) Income Tax Act", "place of business Malaysia tax", "remote employee permanent establishment Malaysia", "dependent agent PE Malaysia"]
+framework: explainer
 ---
 
 马来西亚把它的常设机构规则写了两遍，而这两个版本对不上。Income Tax Act 1967

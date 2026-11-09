@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "sdn-bhd-bookkeeping" }
 related: ["mbrs-2-filing-guide", "mbrs-2", "financial-statement-pack", "sdn-bhd-bookkeeping", "mfrs-vs-mpers"]
 keywords: ["MBRS tagging error", "SSMxT validation", "XBRL validation failure Malaysia", "mTool error", "MBRS rejected", "block tagging text block SSM", "MBRS decimals scale"]
+framework: explainer
 ---
 
 お金がかかる失敗とは、ファイルの生成を止めてしまう失敗ではない。きれいに生成され、きれいに提出され、それでいて千倍違う数字を運んでいる失敗である。

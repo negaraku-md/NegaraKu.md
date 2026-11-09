@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "score-sarawak" }
 related: ["tenaga-nasional"]
 keywords: ["hidrokuasa", "empangan Bakun", "Murum", "Baleh", "Kenyir", "Temengor", "Sarawak Energy", "tenaga boleh baharu", "hydropower Malaysia"]
+framework: explainer
 ---
 
 El agua que baja de las cordilleras de selva tropical de Borneo hace girar ahora turbinas que alimentan fundiciones de aluminio, y ese es el núcleo de la estrategia de energía renovable de Malasia. Pero el camino hasta aquí está marcado por megapresas, lagos que abarcan cientos de kilómetros cuadrados y miles de familias indígenas obligadas a reubicarse.

@@ -77,6 +77,7 @@ relations:
   - { rel: "part-of", to: "directors-duties" }
 related: ["appoint-resign-director", "directors-duties", "register-of-directors"]
 keywords: ["remove a director Malaysia", "section 206 Companies Act 2016", "written resolution remove director", "pecat pengarah syarikat", "section 297 written resolution Malaysia", "special notice remove director"]
+framework: how-to
 ---
 
 The majority shareholder has the votes. The secretary drafts a written resolution

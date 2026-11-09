@@ -68,6 +68,7 @@ faq:
     a: 'Dalam amalan harian orang Cina Malaysia, tidak begitu. Bagi banyak keluarga, agama Buddha, Taoisme, pemikiran Konfusius dan pemujaan nenek moyang bukanlah pilihan yang saling menolak, sebaliknya satu set amalan yang berjalan serentak: orang yang sama mungkin membakar colok pada hari pertama dan kelima belas bulan lunar, menziarahi kubur pada Cheng Beng, dan juga ke kuil untuk memuja Buddha pada Hari Wesak. Perpaduan inilah ciri teras kepercayaan rakyat Cina, dan sebab itulah agama Buddha serta kepercayaan rakyat sering sukar dipisahkan dengan tegas.'
   - q: Siapakah Tua Pek Kong, dan di manakah tokong Tua Pek Kong yang tertua?
     a: Tua Pek Kong (大伯公) ialah dewa yang kuat berciri tempatan, dipuja secara meluas di tokong-tokong orang Cina di seluruh Malaysia. Tokong Tua Pek Kong yang tertua dikatakan terletak di Tanjung Tokong, Pulau Pinang, dan kepercayaannya kemudian tersebar ke seluruh Malaysia, Singapura dan Indonesia. Dalam bahasa Melayu, rumah ibadat sebegini dipanggil tokong; tokong terkenal yang lain termasuk Cheng Hoon Teng di Melaka dan Kuil Thean Hou di Kuala Lumpur.
+framework: history-culture
 ---
 
 Apabila anda melangkah ke dalam mana-mana kuil Cina di Malaysia, besar

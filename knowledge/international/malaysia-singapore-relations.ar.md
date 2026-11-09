@@ -87,6 +87,7 @@ relations:
   - { rel: "compares-with", to: "malaysia-indonesia-relations" }
 related: []
 keywords: ["العلاقات الماليزية السنغافورية", "اتفاقية المياه 1962", "RTS Link", "جسر جوهور", "Pulau Batu Puteh", "JS-SEZ", "انفصال 1965", "التجارة الثنائية"]
+framework: explainer
 ---
 
 يتقاسم بلدان جسراً واحداً، وإمداداً واحداً بالمياه، ومئات الآلاف من الركّاب

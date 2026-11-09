@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["parliament", "federal-constitution", "gdp-overview", "sst-explained"]
 keywords: ["संघीय बजट", "आपूर्ति अधिनियम", "Supply Act", "आपूर्ति विधेयक", "Supply Bill", "बजट समिति चरण", "मलेशिया बजट चक्र", "Akta 850", "Dewan Rakyat"]
+framework: explainer
 ---
 
 31 दिसंबर 2025 को, आपूर्ति अधिनियम 2026 राजपत्रित किया गया। यह जितनी

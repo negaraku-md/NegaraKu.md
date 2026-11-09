@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-vs-tax-invoice" }
 related: ["online-business-licence-malaysia"]
 keywords: ["start online business malaysia", "e-commerce business malaysia", "sell online malaysia registration", "SSM online business", "low value goods tax malaysia", "electronic trade transactions regulations", "e-invoice small business malaysia"]
+framework: how-to
 ---
 
 மின்வணிகம் சாதாரணமானதாகத் தோன்றுகிறது — நீங்கள் இரவு உணவு நேரத்திற்குள் ஒரு சந்தைத்தளத்தில் விற்கத் தொடங்கிவிடலாம் — இது விதிகள் பொருந்தாது என்று பலரை நினைக்க வைக்கிறது. அவை பொருந்துகின்றன. மலேசியா ஒரு ஆன்லைன் விற்பனையாளரை வேறு எந்த வணிகத்தையும் போலவே நடத்துகிறது: நீங்கள் பதிவு செய்ய வேண்டும், நீங்கள் யார் என்பதை வெளிப்படுத்த வேண்டும், வாடிக்கையாளர் தரவைப் பாதுகாக்க வேண்டும், மற்றும் சரியான வரியைச் செலுத்த வேண்டும். இந்த விதிகளும் சமீபத்தில் மாறியுள்ளன, எனவே சில ஆண்டுகளுக்கு முன்பு அமைத்த விற்பனையாளர்கள் கூட காலாவதியான தகவலின் அடிப்படையில் இயங்கிக் கொண்டிருக்கலாம்.

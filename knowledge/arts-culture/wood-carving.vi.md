@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "pewter" }
 related: ["songket", "jawi-script", "pewter", "terengganu", "kelantan"]
 keywords: ["ukiran kayu", "ukiran kayu Melayu", "awan larat", "Desa Ukiran Kayu Besut", "motif ukiran kayu", "kraf kayu Terengganu"]
+framework: history-culture
 ---
 
 Hãy nhìn thật kỹ vào tấm ván gỗ ở cửa sổ một ngôi nhà Mã Lai cổ, và thử tìm xem họa tiết của nó bắt đầu từ đâu. Bạn sẽ không tìm thấy. Đó không phải lỗi ở mắt bạn — nó vốn được thiết kế như vậy.

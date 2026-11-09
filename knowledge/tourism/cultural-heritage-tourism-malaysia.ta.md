@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "malaysia-homestay-programme" }
 related: []
 keywords: ["Malaysia UNESCO World Heritage", "heritage tourism Malaysia", "homestay programme Malaysia", "George Town Melaka", "mosque etiquette Malaysia", "cultural tourism"]
+framework: explainer
 ---
 
 ஒரே நாட்டில் ஆறு தளங்கள் இப்போது UNESCO இன் முத்திரையைச் சுமக்கின்றன — காலையில் பல நூற்றாண்டுகள் பழமையான டச்சு காலனித்துவ சதுக்கத்தில் நடந்து, ஒரு விமானப் பயணத் தொலைவில் ஒரு பரந்த போர்னியோ குகை அறைக்குள் நிற்கலாம். மலேசியாவின் பாரம்பரியம் நீங்கள் வெறுமனே பார்க்கும் அருங்காட்சியகம் அல்ல; அது நீங்கள் உண்டு, உறங்கி, வழிபடும் ஒரு உயிர்ப்பான தெரு.

@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-vs-tax-invoice" }
 related: ["myinvois-phases", "myinvois-integration", "e-invoice-data-fields", "consolidated-e-invoice", "self-billed-e-invoice", "e-invoice-vs-tax-invoice", "e-invoice-accounting-records"]
 keywords: ["e-Invoice Malaysia", "MyInvois", "e-invois LHDN", "e-invoicing phases Malaysia", "MyInvois validation"]
+framework: journey-hub
 ---
 
 예전에는 송장이 발행했기 때문에 유효했습니다. 전자송장 의무 하에서는 LHDN이 그렇다고 해야 유효합니다 — 문서가 소득세 목적으로 제 역할을 하려면 MyInvois에 제출되어 검증되어야 합니다.

@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "unfair-dismissal-malaysia" }
 related: ["termination-of-employment-malaysia", "unfair-dismissal-malaysia", "termination-benefits-malaysia"]
 keywords: ["التحقيق الداخلي ماليزيا", "domestic inquiry malaysia", "إجراءات DI ماليزيا", "خطاب إبداء الأسباب ماليزيا", "show cause letter malaysia", "التعليق عن العمل في انتظار التحقيق", "المادة 14 قانون العمل", "section 14 employment act", "الفصل بسبب سوء السلوك ماليزيا"]
+framework: how-to
 ---
 
 معظم أدلة الموارد البشرية الماليزية تخصّص للتحقيق الداخلي جملة واحدة: «أجرِ تحقيقًا داخليًا قبل الفصل بسبب سوء السلوك.» وتلك الجملة هي حيث يخسر أصحاب العمل قضاياهم. فالتحقيق ليس خانة تُؤشَّر قبل قرار سبق اتخاذه — بل هو قاعدة الأدلة التي سيستند إليها صاحب العمل بعد أشهر أمام محكمة العلاقات الصناعية (Industrial Court)، وهو يفشل بسبب الإجراء أكثر بكثير مما يفشل بسبب الوقائع.

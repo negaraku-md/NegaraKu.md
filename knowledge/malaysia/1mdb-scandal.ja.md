@@ -79,6 +79,7 @@ sources:
 
 related: ["2018-change-of-government", "barisan-nasional", "prime-ministers-of-malaysia"]
 keywords: ["1MDB", "1Malaysia Development Berhad", "Najib Razak", "Jho Low", "Malaysia financial scandal"]
+framework: history-culture
 ---
 
 **1MDB（1Malaysia Development Berhad）**は、[ナジブ・ラザク](/malaysia/najib-razak)（Najib Razak）の首相在任中の2009年に、戦略的な経済発展を促進するために設立された、マレーシア政府が所有する投資ファンドである。これは世界最大級の金融スキャンダルの一つの中心となった。

@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "consumer-protection-act-1999" }
 related: ["court-hierarchy"]
 keywords: ["petites créances", "small claims", "tribunal des magistrats", "Order 93", "Form 198", "action en recouvrement de dette", "sans avocat", "TTPM"]
+framework: how-to
 ---
 
 Quelqu'un vous doit RM3,000, refuse de régler, et ignore chaque appel. Engager un avocat pourrait coûter plus cher que la dette elle-même. C'est là qu'existe la procédure des **petites créances** : une voie conçue spécifiquement pour que les gens ordinaires puissent porter de petits litiges devant le tribunal — seuls, à moindre coût, et sans la robe d'un avocat.

@@ -77,6 +77,7 @@ relations:
   - { rel: "administered-by", to: "employment" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage"]
 keywords: ["sabah labour ordinance", "sarawak labour ordinance", "cap 67", "cap 76", "east malaysia employment law", "jtk sabah", "jtk sarawak"]
+framework: explainer
 ---
 
 Search "Malaysia employment law" and every result you get describes Peninsular Malaysia

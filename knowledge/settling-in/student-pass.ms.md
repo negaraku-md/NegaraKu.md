@@ -98,6 +98,7 @@ keywords:
   - "study visa Malaysia international student"
   - "i-Kad Malaysia"
   - "Malaysia student visa process"
+framework: explainer
 ---
 
 Anda tidak boleh memohon visa pelajar Malaysia anda sendiri. Walaupun anda sudah memegang surat tawaran dan telah membayar yuran, permohonan itu tetap perlu disalurkan melalui institusi anda — kerana badan yang menyaringnya bukanlah Jabatan Imigresen, sekurang-kurangnya bukan pada peringkat awal. Ia adalah sebuah syarikat.

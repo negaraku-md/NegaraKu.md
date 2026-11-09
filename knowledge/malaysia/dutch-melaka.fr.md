@@ -74,6 +74,7 @@ faq:
     a: Parce que la VOC disposait déjà d'une capitale régionale construite à cet effet à Batavia (Jakarta), fondée bien avant 1641, et n'a jamais voulu que Malacca concurrence son propre siège. La priorité de la compagnie était de refuser le port et son détroit aux puissances européennes rivales, et non de bâtir un entrepôt concurrent. Les quotas d'étain furent réorientés vers Batavia, les gouverneurs de Malacca se virent refuser une plus grande latitude commerciale, et le port fut maintenu comme une ville de garnison et d'administration subordonnée.
   - q: Malacca est-elle passée des Néerlandais aux Britanniques en une seule passation nette ?
     a: Non. Elle a changé de mains administrativement quatre fois en trente ans. La Grande-Bretagne occupa Malacca en 1795 en vertu des Lettres de Kew (Kew Letters) pour la soustraire à la France, Malacca fut restituée aux Néerlandais en 1818, le Traité anglo-néerlandais de 1824 (signé le 17 mars 1824) la céda définitivement à la Grande-Bretagne en échange de Bencoolen à Sumatra, et le transfert effectif prit effet le 1er mars 1825.
+framework: history-culture
 ---
 
 Une compagnie consacre sept mois et une alliance avec un sultanat étranger à conquérir un port. Puis elle passe le siècle et demi suivant à veiller à ce que ce port ne s'enrichisse jamais.

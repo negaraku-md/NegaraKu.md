@@ -103,6 +103,7 @@ relations:
   - { rel: "compares-with", to: "employment-act-1955-guide" }
 related: ["i-saraan-epf-voluntary-contribution", "employment-act-1955-guide", "socso-eis-employer-guide"]
 keywords: ["gig workers act 2025", "act 872", "gig workers tribunal", "gig worker socso", "platform provider malaysia", "gig economy malaysia law"]
+framework: explainer
 ---
 
 Act 872 ஒரு சமூக பாதுகாப்புக் கதையாக அறிக்கை செய்யப்படுகிறது: தளங்கள் இப்போது SOCSO ஐக்

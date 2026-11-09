@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "road-tax-and-vehicle-registration" }
 related: []
 keywords: ["letak kereta", "e-parking", "kompaun letak kereta", "DBKL", "Smart Selangor Parking", "EZ Smart Park"]
+framework: explainer
 ---
 
 Vous fouillez la voiture à la recherche de pièces pour l'horodateur — mais ces machines ont disparu depuis 2020. Se garer dans les grandes villes de Malaisie commence désormais par un smartphone, et non par un bocal de pièces au bord de la route.

@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016"]
 keywords: ["MFRS 124", "pihak berkaitan", "akaun semasa pengarah", "pinjaman pengarah", "MBRS", "IAS 24", "penyata kewangan"]
+framework: explainer
 ---
 
 ในบริษัท Sdn Bhd ที่ครอบครัวเป็นเจ้าของส่วนใหญ่ในมาเลเซีย เงินเคลื่อนเข้าและออกโดยไม่มี

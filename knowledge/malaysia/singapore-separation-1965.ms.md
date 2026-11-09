@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
 related: ["formation-of-malaysia-1963", "ma63", "independence-1957"]
 keywords: ["Singapore separation 1965", "Independence of Singapore Agreement", "Singapore Day", "Constitution and Malaysia (Singapore Amendment) Act 1965", "Malaysian Malaysia", "Tunku Abdul Rahman", "Lee Kuan Yew"]
+framework: history-culture
 ---
 
 Sebuah negara kehilangan sebuah negeri pengasas dalam masa satu hujung minggu sahaja. Perjanjian itu ditandatangani pada hari Sabtu, pindaan perlembagaan itu diluluskan pada hari Isnin, dan menjelang jam 10 pagi pada Isnin yang sama satu perisytiharan kemerdekaan sedang dibacakan di Radio Singapura. Kebanyakan persekutuan yang berpecah melakukannya secara perlahan dan gempar. Yang ini dibubarkan — dari segi undang-undang — dalam masa kira-kira empat puluh lapan jam, melalui dokumen yang dirangka secara rahsia dan ditandatangani oleh lima belas menteri.

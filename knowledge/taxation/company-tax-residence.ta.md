@@ -84,6 +84,7 @@ relations:
   - { rel: "compares-with", to: "permanent-establishment" }
 related: ["corporate-tax-rates", "income-tax-act-1967", "lhdn", "sdn-bhd"]
 keywords: ["company tax residence Malaysia", "management and control", "section 8 Income Tax Act", "taraf mastautin syarikat", "resident company Malaysia"]
+framework: explainer
 ---
 
 மூன்று இயக்குநர்களும் Singapore-ல் வசித்து, வீடியோ அழைப்பு மூலம் சந்தித்து,

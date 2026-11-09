@@ -98,6 +98,7 @@ social:
     - "Mamak"
     - "MalaysianFood"
     - "NegaraKuMD"
+framework: explainer
 ---
 
 Few sounds belong to a Malaysian morning quite like the slap and flap of dough

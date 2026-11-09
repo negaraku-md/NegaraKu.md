@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["kuala-lumpur", "selangor"]
 keywords: ["Klang Valley rail", "Rapid KL", "MRT Kajang Line", "MRT Putrajaya Line", "LRT Kelana Jaya Line", "KL Monorail", "KTM Komuter", "Shah Alam Line", "LRT3", "KL Sentral", "getting around Kuala Lumpur without a car"]
+framework: explainer
 ---
 
 클랑밸리(Klang Valley) 철도 지도를 처음 보면 알파벳 수프처럼 읽힙니다 —

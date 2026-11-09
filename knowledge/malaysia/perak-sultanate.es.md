@@ -62,6 +62,7 @@ social:
 verificationNeeded:
   - "La fecha exacta en que se estableció por primera vez el sistema rotatorio de sucesión por títulos: las fuentes narrativas remontan sus orígenes al siglo XVII pero no dan una única fecha fundacional autorizada; el orden moderno se apoya en una resolución del 25 de febrero de 1953."
   - "El año exacto de fundación se da convencionalmente como 1528 (el año en que murió en Kampar Mahmud Shah de Melaka), pero algunas genealogías sitúan la instalación de Muzaffar Shah I unos años antes o después."
+framework: history-culture
 ---
 
 Cuando Melaka cayó ante los cañones portugueses en 1511, la dinastía que había hecho famoso el Estrecho no murió con la ciudad. Su último sultán, Mahmud Shah, se retiró archipiélago arriba y dejó dos hijos; uno refundaría el linaje real río abajo en Johor, el otro portaría la vieja corona de Melaka hacia el norte, a un valle tranquilo surcado por un río cuyos bancos de arena relucían con estaño. Aquel reino septentrional se convirtió en Perak, y casi cinco siglos después sigue siendo gobernado por la misma estirpe, ahora por un sultán cuyo trono se transmite no de padre a hijo, sino a lo largo de una escalera móvil de príncipes. Esta es la historia de cómo una dinastía derrotada sobrevivió, se enriqueció con el estaño, perdió su soberanía ante Gran Bretaña por un solo tratado y perduró hasta el presente.

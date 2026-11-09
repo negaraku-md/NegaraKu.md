@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["employment-pass", "opening-bank-account"]
 keywords: ["الإيجار في ماليزيا", "iProperty", "PropertyGuru", "Mudah", "REN Malaysia", "وسيط عقارات مسجّل", "registered estate negotiator", "BOVAEP", "LPPEH", "وكيل عقارات ماليزيا", "عمولة الإيجار ماليزيا", "REN Tag"]
+framework: explainer
 ---
 
 تجد قائمة تعجبك على بوّابة ما، فتراسل الرقم المدرج فيها، فيحضر شخص ليفتح لك الوحدة. لا شيء في هذا التبادل يخبرك ما إذا كان الشخص الذي يسلّمك المفاتيح مسموحًا له قانونًا بفعل ذلك مقابل أجر من الأساس — ولا يكاد يسأل أحد.

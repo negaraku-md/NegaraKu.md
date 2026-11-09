@@ -91,6 +91,7 @@ relations:
   - { rel: "part-of", to: "mydigital-blueprint" }
 related: ["malaysia-startup-ecosystem", "cradle-cip-grant", "malaysia-digital-economy-in-numbers", "mydigital-blueprint"]
 keywords: ["KL20", "KL20 Summit 2024", "KL20 Action Paper", "Malaysia startup ecosystem", "top 20 global startup hub", "Golden Pass", "pelan tindakan KL20", "Cradle Fund startup"]
+framework: explainer
 ---
 
 ในเดือนเมษายน 2024 มาเลเซียหยุดพูดถึงสตาร์ทอัพของตนด้วยภาษาแห่งความหวัง และเริ่มพูดด้วยภาษาแห่งอันดับ คำเสนอนั้นตรงไปตรงมา: พากัวลาลัมเปอร์เข้าสู่ 20 ระบบนิเวศสตาร์ทอัพอันดับต้นของโลกภายในปี 2030 หรือยอมรับว่าประเทศได้ไหลเรื่อยมา

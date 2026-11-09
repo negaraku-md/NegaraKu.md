@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["Penang travel guide", "George Town UNESCO", "Penang street art", "Penang Hill funicular", "Penang hawker food", "George Town heritage core", "Batu Ferringhi", "things to do in Penang"]
+framework: explainer
 ---
 
 தீவில் இறங்கி, குளிரூட்டப்பட்ட அறையிலிருந்து வெளியே காலடி எடுத்து வைத்ததும், முதலில் உங்களைத் தாக்குவது வாசனைதான் — கடாய் புகை, சீனக் கோயிலின் அகில் நறுமணம், அரளி மலர், மற்றும் மலாக்கா நீரிணையின் உப்புக் காற்று. George Town என்பது நீங்கள் உங்கள் கால்களால் படிக்கும் ஒரு இடம்: ஒரு மசூதி, ஒரு குலமன்றம் மற்றும் ஒரு காலனித்துவ தேவாலயம் ஒரே தெருத்தொகுதியைப் பகிர்ந்துகொள்ளக்கூடிய, நூற்றாண்டு பழமையான கடைவீடுகளின் ஒரு நெருக்கமான வலைப்பின்னல். என்ன பார்ப்பது, எங்கே உண்பது, கடற்கரைகளையும் மலையையும் எப்படி அடைவது, மேலும் நிதானத்திற்குப் பரிசளிக்கும் ஒரு நகரத்திற்கு எவ்வளவு நேரம் ஒதுக்குவது என்பதை இந்த வழிகாட்டி உள்ளடக்குகிறது.

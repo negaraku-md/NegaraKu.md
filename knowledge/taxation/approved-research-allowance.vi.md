@@ -107,6 +107,7 @@ relations:
   - { rel: "compares-with", to: "capital-allowances" }
 related: ["double-deduction-list", "capital-allowances", "section-33-deductibility", "tax-incentives-directory"]
 keywords: ["approved research allowance malaysia", "r&d double deduction malaysia", "section 34a income tax act", "section 34b double deduction", "r&d status mida", "borang 1 r&d lhdn"]
+framework: explainer
 ---
 
 Hỏi ba cố vấn về khoản trợ cấp nghiên cứu được phê duyệt và bạn sẽ nhận được ba câu trả lời, bởi vì không có ưu đãi nào như vậy. Không có gì trong Luật Thuế thu nhập (Income Tax Act 1967) dùng cụm từ đó. Cái tồn tại là ba khoản khấu trừ riêng biệt với các lộ trình phê duyệt khác nhau và các thời hạn khác nhau, cộng với một chế độ thứ tư hoàn toàn khác do MIDA vận hành. Nhập nhằng chúng là cách một công ty rốt cuộc có một khoản khấu trừ kép mà nó không thể chứng minh.

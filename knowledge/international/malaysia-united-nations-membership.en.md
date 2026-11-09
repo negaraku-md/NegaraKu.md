@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malaysia PBB", "United Nations Malaysia", "Majlis Keselamatan PBB", "pasukan pengaman", "UNIFIL", "keahlian PBB", "diplomasi Malaysia"]
+framework: explainer
 ---
 
 Just 17 days after Tunku Abdul Rahman proclaimed "Merdeka" at Stadium Merdeka, the flag of the Federation of Malaya was raised at UN headquarters in New York. On 17 September 1957, the young nation was formally admitted as a member of the United Nations — a step that confirmed its sovereignty on the world stage almost at the same moment as its birth.

@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["parliament", "federal-constitution", "gdp-overview", "sst-explained"]
 keywords: ["الميزانية الاتحادية", "قانون التزويد", "Supply Act", "مشروع قانون التزويد", "Supply Bill", "مرحلة لجنة الميزانية", "دورة الميزانية الماليزية", "Akta 850", "Dewan Rakyat"]
+framework: explainer
 ---
 
 في 31 ديسمبر 2025، نُشر قانون التزويد لسنة 2026 في الجريدة الرسمية. المبلغ

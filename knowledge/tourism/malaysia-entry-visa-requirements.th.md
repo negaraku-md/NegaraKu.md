@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "malaysia-mm2h-program" }
 related: []
 keywords: ["Malaysia visa", "MDAC", "Malaysia Digital Arrival Card", "eVISA Malaysia", "MYVISA", "visa-free Malaysia", "Malaysia entry requirements", "autogate Malaysia", "passport validity Malaysia"]
+framework: rules
 ---
 
 คุณจองเที่ยวบิน จัดกระเป๋า และเพียงที่ประตูขึ้นเครื่องคำถามก็ผุดขึ้น มาเลเซียต้องการอะไรจากคุณก่อนคุณมาถึงหรือไม่? สำหรับผู้เดินทางส่วนใหญ่ ความประหลาดใจตัดทั้งสองทาง คุณอาจไม่ต้องมีวีซ่า แต่คุณเกือบแน่นอนต้องยื่นแบบฟอร์มออนไลน์เล็ก ๆ ที่เรียกว่า MDAC และการสับสนสองอย่างนี้คือทางที่เร็วที่สุดสู่ห้องขาเข้าที่เครียด

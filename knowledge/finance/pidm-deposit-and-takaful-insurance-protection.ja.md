@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "fixed-deposit-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["PIDM", "deposit insurance", "RM250000", "takaful protection", "TIPS", "Perbadanan Insurans Deposit Malaysia", "Malaysia Deposit Insurance Corporation Act 2011", "insurance benefits protection"]
+framework: explainer
 ---
 
 もしマレーシアの銀行が明日破綻したとしても、あなたの普通預金口座にあるお金がそれとともに消えることはない。そのうち最大RM250,000は、PIDMと呼ばれる政府運営の保護制度によって裏付けられている——あなたはそのために登録したことも、支払ったこともなく、おそらくその存在に気づいてすらいないだろう。

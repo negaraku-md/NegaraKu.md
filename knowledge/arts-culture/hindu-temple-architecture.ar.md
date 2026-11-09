@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "hinduism-in-malaysia" }
 related: ["hinduism-in-malaysia", "thaipusam", "mariamman-worship", "temple-music-nadaswaram", "indian-classical-arts-in-malaysia"]
 keywords: ["இந்துக் கோயில் கட்டடக்கலை", "கோபுரம்", "விமானம்", "கர்ப்பக்கிரகம்", "மண்டபம்", "திராவிடக் கட்டடக்கலை", "கும்பாபிஷேகம்", "மலேசியா கோயில்கள்", "Hindu temple architecture", "gopuram", "Dravidian architecture Malaysia"]
+framework: history-culture
 ---
 
 حين تقترب من أي حيٍّ في مدينة ماليزية ضربت فيه جالية تاميلية بجذورها، يلفت ناظريك من بعيد برجٌ مكسوّ بالمنحوتات يشرئبّ نحو السماء. ذلك البرج البوابي، بصفوف تماثيل الآلهة الملوّنة المتراصّة طبقةً فوق طبقة، ليس وليد المصادفة — إنه امتداد لتقليد معماري عمره ألف عام؛ وعلامة على إرث ثقافي حمله من هم من أصل تاميلي جنوب هندي معهم إلى ماليزيا.

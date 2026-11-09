@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "sdn-bhd-financial-statements-filing" }
 related: []
 keywords: ["audit statutori", "pengecualian audit", "Akta Syarikat 2016", "seksyen 267", "PD 10/2024", "juruaudit Sdn Bhd", "SSM audit exemption"]
+framework: rules
 ---
 
 Bạn vừa đăng ký một Sdn Bhd, doanh nghiệp còn nhỏ, và thư ký công ty vừa gửi một hóa đơn phí kiểm toán. Câu hỏi không phải là «kiểm toán tốn bao nhiêu» — mà là «tôi có thực sự bắt buộc phải kiểm toán không?» Đối với hầu hết các công ty tư nhân trách nhiệm hữu hạn tại Malaysia, câu trả lời mặc định là **có**, và chỉ một nhóm nhỏ các công ty thực sự đủ điều kiện thoát khỏi nó.

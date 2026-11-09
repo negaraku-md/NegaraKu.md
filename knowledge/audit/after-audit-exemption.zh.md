@@ -106,6 +106,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.245"
     consequence: "Fine up to RM500,000 or imprisonment up to three years or both"
+framework: rules
 ---
 
 关于 Practice Directive 10/2024 的每两篇贴文，就有一篇在卖同一句话：省掉审计，

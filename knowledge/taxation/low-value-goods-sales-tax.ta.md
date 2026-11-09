@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["sales-tax-explained", "customs-import-duty", "sst-registration"]
 keywords: ["low value goods", "LVG sales tax", "online shopping tax Malaysia", "10% sales tax imported goods", "MyLVG", "cukai jualan barang bernilai rendah", "RMCD low value goods"]
+framework: explainer
 ---
 
 பல ஆண்டுகளாக, வெளிநாட்டு இணையக் கடையில் இருந்து ஆர்டர் செய்யப்பட்ட RM500-க்கும் குறைவான ஒரு கேஜெட் உங்கள் வீட்டு வாசலில் வரி இல்லாமல் வந்து சேர்ந்தது. 2024 ஜனவரி 1 முதல், அது அப்படி இல்லை.

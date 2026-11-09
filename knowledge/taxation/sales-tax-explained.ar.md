@@ -105,6 +105,7 @@ relations:
   - { rel: "compares-with", to: "sst-expansion-2025" }
 related: ["sst-explained", "sst-registration", "sst-02-filing", "sst-rate-table"]
 keywords: ["ضريبة المبيعات ماليزيا", "sales tax Malaysia", "معدل ضريبة المبيعات 2025", "إعفاء Schedule C", "CJ5 CJ5A", "تسهيل خصم ضريبة المبيعات", "ضريبة مبيعات المصنِّع"]
+framework: explainer
 ---
 
 إذا أخبرك مستشارك بأن تقدّم CJ5 لشراء المواد الخام معفاةً من الضريبة، فهو يقتبس

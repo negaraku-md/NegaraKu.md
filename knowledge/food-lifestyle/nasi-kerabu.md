@@ -92,6 +92,7 @@ verificationNeeded:
   - "Whether nasi kerabu is best described as a Kelantan dish specifically or a shared Kelantan–Terengganu (east-coast) one — sources vary in how they attribute it. Confirm with a regional culinary or heritage source."
   - "The canonical ulam line-up (which raw herbs are essential versus regional or optional) — recipes and sources list different combinations. Confirm against a Kelantanese source."
   - "The precise boundary between nasi kerabu and nasi ulam — commonly described as similar dishes separated mainly by the coloured rice. Confirm with a culinary-reference source."
+framework: explainer
 ---
 
 Few Malaysian dishes announce themselves as loudly as nasi kerabu. The rice

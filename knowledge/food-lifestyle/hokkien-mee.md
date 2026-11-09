@@ -86,6 +86,7 @@ verificationNeeded:
   - "The origin story that KL-style Hokkien mee was created by hawker Ong Kim Lian at Petaling Street in 1927 — accounts conflict (some food media attribute it to a 'Mr Ong' adding dark soy sauce to a fried noodle dish, while a competing version popularised by a 1984 Straits Times report traces the dish's roots to the 1880s). Confirm the founder's name and the date with a primary historical or heritage source."
   - "The claim that both Hokkien mee styles descend from the Fujianese dish lor mee and are not known in Fujian itself — confirm against a culinary-history or academic source rather than food media."
   - "Whether the Penang-style spicy prawn soup is consistently and interchangeably called 'prawn mee' and 'hae mee' across all regions (usage and spelling vary locally) — confirm regional naming with a Penang or Malaysian-Chinese culinary source."
+framework: explainer
 ---
 
 Ask for "Hokkien mee" in Kuala Lumpur and you get a plate of thick yellow

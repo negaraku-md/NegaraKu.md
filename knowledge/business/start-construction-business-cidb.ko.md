@@ -82,6 +82,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaConstruction
     - ContractorMalaysia
+framework: how-to
 ---
 
 회사는 오후 한나절에 등록할 수 있지만, 그 회사는 두 번째의 별도 면허를 갖추기

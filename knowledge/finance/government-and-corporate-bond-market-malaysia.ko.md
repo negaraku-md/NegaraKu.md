@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["bank-negara-malaysia", "bursa-malaysia", "federal-budget", "epf-as-investor"]
 keywords: ["MGS", "GII", "sukuk", "Malaysian government securities", "corporate bonds", "RENTAS", "Sukuk Simpanan Rakyat", "bond market Malaysia"]
+framework: explainer
 ---
 
 말레이시아 정부가 고속도로나 병원을 지을 때, 그 자리에서 현금을 지불하는 경우는 드뭅니다. 정부는 차입하며 — 발행하는 차용증이 채권입니다. 이를 수십 년의 개발 지출에 걸쳐 곱하고, 같은 방식으로 차입하는 모든 기업을 더하면, 아시아에서 가장 깊은 자국 통화 채권 시장 중 하나가 나오며, 두 개의 병행 트랙 위에서 운영됩니다: 전통 부채와 샤리아 준수 수쿠크입니다.

@@ -90,6 +90,7 @@ verificationNeeded:
   - "Apakah mee Jawa Penang benar-benar hidangan yang berbeda dari mee rebus atau sekadar nama daerah untuk hal yang sama, serta kuahnya yang khas lebih manis dan bersemu tomat — verifikasikan dengan sumber warisan budaya atau sejarah kuliner Penang."
   - "Peran dan keberadaan relatif taucheo (pasta kedelai fermentasi) dibandingkan bahan dasar udang kering dalam kuah, yang berbeda menurut daerah dan juru masak (beberapa versi dilaporkan menghilangkan taucheo) — verifikasikan dengan beberapa sumber resep atau kuliner."
   - "Klaim bahwa Johor Bahru adalah 'ibu kota mee rebus' dan penggunaan kaldu sapi dalam kuah Johor, yang berasal dari sebuah laporan lama tahun 2006 — verifikasikan dengan sumber kuliner atau warisan budaya Johor masa kini."
+framework: explainer
 ---
 
 Pesan mee rebus di Malaysia, Anda akan mendapat sepiring, bukan semangkuk sup: mi kuning yang terendam dalam kuah kental mengilap berwarna seperti kopi encer, ditaburi telur, tahu, dan sepotong cabai hijau yang cerah. Suapan pertama terasa agak manis, lalu gurih, lalu sedikit pedas — dan perasan limau kasturi memotong kekayaan rasanya. Ini makanan gerai yang murah dan mengenyangkan, dan hampir setiap dapur Melayu dan mamak membuat versinya sendiri.

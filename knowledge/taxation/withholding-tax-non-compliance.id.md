@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-digital-services", "cp37-forms"]
 keywords: ["gagal memotong cukai pegangan Malaysia", "seksyen 39(1)(j)", "penalti cukai pegangan Malaysia", "kenaikan 10 peratus cukai pegangan", "penalti seksyen 113(2)"]
+framework: explainer
 ---
 
 RM5,000 pajak pemotongan yang terlewat tidak menanggung biaya RM5,000. Ia

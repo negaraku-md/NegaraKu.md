@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "recognition-of-foreign-qualifications-malaysia" }
 related: []
 keywords: ["légalisation de documents", "apostille Malaisie", "attestation consulaire", "Wisma Putra", "acte de naissance étranger", "acte de mariage de l'étranger", "attestation de diplôme", "JPN documents étrangers"]
+framework: how-to
 ---
 
 Vous arrivez au guichet du JPN avec un acte de mariage délivré à l'étranger, et le fonctionnaire le refuse, non parce qu'il est faux, mais parce qu'il n'a pas été « légalisé ». Beaucoup de gens butent ici : qu'un document soit valable dans son pays d'origine ne signifie pas qu'il est accepté directement en Malaisie. Il y a une chaîne d'attestation par laquelle il faut d'abord passer.

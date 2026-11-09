@@ -65,6 +65,7 @@ relations:
   - { rel: "affects", to: "personal-tax-reliefs" }
 related: ["income-tax-in-malaysia", "personal-tax-reliefs", "personal-tax-rates", "which-tax-form", "pcb-monthly-tax-deduction"]
 keywords: ["taksiran bersama Malaysia", "taksiran berasingan cukai Malaysia", "pilihan seksyen 45(2)", "potongan pasangan RM4000", "patutkah kami memfailkan bersama Malaysia", "taksiran suami isteri cukai pendapatan"]
+framework: decision
 ---
 
 Taksiran bersama bukanlah diskon. Ia adalah satu pertukaran, dan aritmetika di

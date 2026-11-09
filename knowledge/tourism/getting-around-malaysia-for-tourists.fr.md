@@ -118,6 +118,7 @@ relations:
   - { rel: "related-to", to: "visiting-sabah-and-sarawak" }
 related: []
 keywords: ["se déplacer en Malaisie", "KLIA Ekspres", "train KTM ETS", "vols intérieurs Malaisie", "AirBorneo", "Grab Malaisie", "ferry Malaisie", "conduire en Malaisie", "Touch n Go"]
+framework: explainer
 ---
 
 Vous atterrissez à l'aéroport international de Kuala Lumpur à minuit, le décalage horaire dans les jambes, et les rabatteurs de taxis tournent déjà. La bonne nouvelle : la Malaisie possède l'un des réseaux de transport les plus accueillants pour les touristes de l'Asie du Sud-Est, et vous pouvez éviter les tracas entièrement — un train d'aéroport rapide et à prix fixe, une application sur le téléphone qui appelle une voiture à tarif convenu, et des vols intérieurs bon marché qui font de Bornéo une escapade de week-end. L'astuce consiste à savoir quel mode choisir, et quand.

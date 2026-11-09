@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "pidm-deposit-insurance" }
 related: ["bank-negara-malaysia", "pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["bank digital", "digital bank Malaysia", "GXBank", "Boost Bank", "AEON Bank", "Ryt Bank", "KAF Digital Bank", "PIDM", "BNM"]
+framework: explainer
 ---
 
 You can open a bank account in Malaysia today without once setting foot in a branch, without meeting an officer, and without any paper forms — all done in minutes through your smartphone. That is the promise of digital banks, a new category of bank licensed by Bank Negara Malaysia (BNM) that now serves millions of Malaysians.

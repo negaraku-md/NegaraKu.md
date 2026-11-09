@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "malaysian-street-food" }
 related: []
 keywords: ["pasar malam", "pasar tani", "pasar basah", "street food", "FAMA", "gred kebersihan premis makanan", "penjaja"]
+framework: explainer
 ---
 
 พอถึงยามพลบค่ำ ถนนที่ว่างเปล่าสายหนึ่งก็เปลี่ยนเป็นตรอกแห่งควันสะเต๊ะ กองผลไม้ และแถวหลอดไฟฟลูออเรสเซนต์ในทันที นี่คือปาซาร์มาลัม หนึ่งในสถาบันที่ติดดินที่สุดในมาเลเซีย ร่วมกับปาซาร์ตานีและตลาดสด มันก่อเป็นเครือข่ายตลาดของประชาชนที่ชาวมาเลเซียใช้จับจ่ายและรับประทานอาหารทุกวัน

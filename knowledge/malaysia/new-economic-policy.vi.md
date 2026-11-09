@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["rukun-negara", "the-emergency", "independence-1957", "formation-of-malaysia-1963", "population-composition"]
 keywords: ["New Economic Policy", "NEP", "Dasar Ekonomi Baru", "DEB", "Second Malaysia Plan", "restructuring society", "poverty eradication", "national unity", "Outline Perspective Plan", "30 per cent Bumiputera equity"]
+framework: explainer
 ---
 
 Chính sách Kinh tế Mới thường được nhớ đến bằng một từ duy nhất — "tái cấu trúc" — và bị tranh cãi kể từ đó. Nhưng chính sách này đã nêu ra các mục đích của chính nó bằng văn bản, trong một kế hoạch của chính phủ được trình lên Nghị viện, và những mục đích đó là hai, không phải một, với một ý niệm thứ ba đứng trên cả hai. Bài viết này trình bày những gì các văn bản nói, theo đúng trình tự mà các văn bản đó nêu.

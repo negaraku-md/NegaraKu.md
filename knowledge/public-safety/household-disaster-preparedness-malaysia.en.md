@@ -93,6 +93,7 @@ relations:
   - { rel: "administered-by", to: "nadma-malaysia" }
 related: []
 keywords: ["persediaan banjir", "beg kecemasan", "banjir monsun", "PPS", "Bantuan Wang Ihsan", "NADMA", "amaran cuaca MetMalaysia", "tanah runtuh", "gempa bumi Sabah", "bencana"]
+framework: how-to
 ---
 
 River water rising to road level at two in the morning is not the time to start hunting for birth certificates and filling water bottles — that is the time to get out. In Malaysia, the disaster most likely to force your family from home is not a great earthquake or a typhoon, but the monsoon flood that comes almost every year. This guide sets out what you need to do before, during and after a flood, along with other risks such as landslides, haze and Sabah earthquakes, so that the important decisions are made long before the water reaches your door.

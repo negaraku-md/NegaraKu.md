@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "credit-reporting-agencies-act-2010" }
 related: []
 keywords: ["CCRIS", "CTOS", "laporan kredit", "skor kredit", "eCCRIS", "Bank Negara Malaysia", "Akta Agensi Pelaporan Kredit 2010"]
+framework: explainer
 ---
 
 あなたは住宅ローンを申し込み、すべてが整っているように見えるのに、銀行はほとんど説明もなくその申請を却下する。その決定の背後には、あなたにはっきりと告げられることのめったにない二つの名前があることが多い。CCRISとCTOSである。どちらも、あなたがお金をどう管理しているかについての一枚の画像を保存しており、あなたにはそこに書かれている内容を見る権利がある。

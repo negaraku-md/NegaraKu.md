@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "labuan-company-formation" }
 related: []
 keywords: ["redomiciliation", "re-domiciliation", "continuance", "Labuan", "Labuan Companies Act 1990", "section 16", "foreign company", "domicile", "Companies Act 2016", "Labuan FSA"]
+framework: explainer
 ---
 
 जो कंपनी विदेश में विघटित हुए और नए सिरे से आरंभ किए बिना मलेशियाई बनना चाहती है, उसके पास देश में प्रवेश का ठीक एक ही द्वार है — और वह प्रायद्वीप की ओर नहीं खुलता।

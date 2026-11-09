@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "miti" }
 related: ["import-export-licence-malaysia", "automotive-industry-malaysia", "miti"]
 keywords: ["approved permit", "AP Malaysia", "open AP", "franchise AP", "car import permit", "permit import kenderaan", "MITI AP", "parallel import car Malaysia"]
+framework: explainer
 ---
 
 قلّما يحمل اختصار من ثلاثة أحرف في سوق السيارات الماليزية ثقلاً كالذي يحمله «AP». فهو السبب في أن سيارة مستوردة قد تكلّف هنا أكثر بكثير مما تكلّفه في الخارج، وهو موضوع جدل سياسي دام عقوداً، وتصريح لا يراه معظم المشترين لكنهم يدفعون ثمنه دائماً.

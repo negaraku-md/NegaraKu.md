@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["population-composition", "languages-spoken", "federal-constitution"]
 keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Proto", "18 suku kaum", "JAKOA", "Akta Orang Asli 1954", "Akta 134"]
+framework: explainer
 ---
 
 Bien avant que le nom de Malaisie n'existe sur aucune carte, des communautés habitaient déjà les forêts, les hautes terres et les côtes de la péninsule. On les connaît aujourd'hui collectivement sous le nom d'Orang Asli, une expression malaise signifiant «peuple originel» ou «habitants originels».

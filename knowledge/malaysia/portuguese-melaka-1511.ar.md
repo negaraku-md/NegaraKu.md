@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["سقوط ملقا 1511", "fall of Melaka 1511", "Afonso de Albuquerque", "أفونسو دي ألبوكيرك", "ملقا البرتغالية", "Portuguese Melaka", "A Famosa", "الاستعمار الأوروبي في جنوب شرق آسيا", "سلطنة جوهور 1528"]
+framework: history-culture
 ---
 
 عشرة أيام. ذلك هو الفارق بين وصول الأسطول البرتغالي إلى مياه ملقا في 10 أغسطس 1511 ولحظة انتقال المدينة إلى أيدٍ أخرى في 24 أغسطس.

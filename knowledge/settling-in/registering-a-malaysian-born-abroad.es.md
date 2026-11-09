@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "applying-for-malaysian-citizenship-article-15" }
 related: []
 keywords: ["ciudadanía por descendencia", "citizenship by descent", "Artículo 14(1)(b)", "Article 14(1)(b)", "Formulario D", "Form D", "nacimiento en el extranjero", "JPN", "Segunda Lista", "enmienda constitucional 2024", "Artículo 15(2)"]
+framework: explainer
 ---
 
 Nace un bebé en un hospital de Londres de una pareja malasia destinada allí. El certificado de nacimiento local indica que el bebé nació en el Reino Unido, y sin embargo, bajo la ley malasia, el niño quizá ya sea ciudadano — siempre que el estatus quede debidamente registrado. Cómo se confirma ese estatus, y quién reúne los requisitos, son cuestiones que atañen a disposiciones fundamentales de la Constitución Federal (Federal Constitution).

@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "jkkk-village-safety-committee" }
 related: ["pdrm"]
 keywords: ["rukun tetangga", "skim rondaan sukarela", "SRS", "KRT", "kepolisan komuniti", "JPNIN", "Akta 751", "keselamatan kejiranan"]
+framework: explainer
 ---
 
 住宅区夜晚的街灯下，常常可见两三个人骑着脚踏车或步行、手持手电筒的身影——那是在自家一带巡逻的邻居。他们不是警察。他们是自愿巡逻计划的成员，代表着马来西亚大多数邻里社区中预防罪案的第一道防线：社区守护社区，并持续与马来西亚皇家警察（PDRM）配合。

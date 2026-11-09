@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#MingQin", "#CharKoayTeow", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 페낭 본토 쪽 Bukit Mertajam에서, 수수한 저녁 국수 노점이 한 가지를 옛 방식대로

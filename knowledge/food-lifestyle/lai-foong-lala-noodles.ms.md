@@ -69,6 +69,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["LaiFoongLalaNoodles", "BibGourmand", "MichelinGuideMalaysia", "KualaLumpur", "MalaysianFood"]
+framework: profile
 ---
 
 Lai Foong Lala Noodles ialah pakar mi Cina di Jalan Sultan, di tengah-tengah

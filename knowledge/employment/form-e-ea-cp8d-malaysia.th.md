@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "pcb-mtd-malaysia" }
 related: ["payroll-rates-deadlines-malaysia", "payroll-compliance-malaysia", "epf-socso-guide"]
 keywords: ["Form E deadline Malaysia", "Form EA 28 February", "CP8D submission", "e-Data Praisi cut off", "Borang E LHDN majikan", "e-CP8D"]
+framework: how-to
 ---
 
 ทุกเดือนกุมภาพันธ์ กล่องจดหมายฝ่ายบัญชีเงินเดือนที่ใดที่หนึ่งในมาเลเซียเต็มไปด้วยคำถามเดียวกัน: *เรามอบฟอร์ม EA ให้พนักงานแล้ว เราจึงเสร็จแล้วใช่ไหม?* ไม่ คุณได้ปฏิบัติหน้าที่หนึ่งในสามอย่าง ซึ่งเป็นหน้าที่ที่ไม่มีการยื่นเลย และคุณยังมีกำหนดเวลาที่มีผลอีกสองอย่างอยู่ข้างหน้า

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "traditional-chinese-medicine-in-malaysia" }
 related: ["tamil-in-malaysia", "estate-tamil-community", "traditional-chinese-medicine-in-malaysia", "hinduism-in-malaysia"]
 keywords: ["சித்த மருத்துவம்", "Siddha medicine", "மலேசியா சித்த மருத்துவம்", "Siddha medicine Malaysia", "பாரம்பரிய இந்திய மருத்துவம்", "சித்தர்கள்", "அகத்தியர்", "மூலிகை மருத்துவம்", "பாரம்பரிய மற்றும் நிரப்பு மருத்துவச் சட்டம் 2016", "Act 775"]
+framework: history-culture
 ---
 
 मलेशिया की पुरानी बागान-भूमियों में, और शहरों की तमिल गलियों में, आपको एक जड़ी-बूटी की दुकान मिल सकती है — सूखी जड़ी-बूटियाँ, चूर्ण (choornam) और तेल अलमारियों पर पंक्तिबद्ध सजे हुए। ये संयोग नहीं हैं; ये डेढ़ सदी से भी अधिक पुरानी एक चिकित्सा परंपरा के अवशेष हैं।

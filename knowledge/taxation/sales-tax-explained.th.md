@@ -104,6 +104,7 @@ relations:
   - { rel: "compares-with", to: "sst-expansion-2025" }
 related: ["sst-explained", "sst-registration", "sst-02-filing", "sst-rate-table"]
 keywords: ["sales tax Malaysia", "sales tax rate 2025", "Schedule C exemption", "CJ5 CJ5A", "sales tax deduction facility", "manufacturer sales tax"]
+framework: explainer
 ---
 
 หากที่ปรึกษาของคุณบอกให้คุณยื่น CJ5 เพื่อซื้อวัตถุดิบปลอดภาษี พวกเขากำลังอ้างแบบฟอร์มที่ถูกยกเลิกไปในปี 2018 CJ5, CJ5A และ CJ5B เป็นใบรับรองภายใต้พระราชบัญญัติภาษีขาย 1972 (Sales Tax Act 1972) ภายใต้ Sales Tax Act 2018 ช่องทางที่เทียบเท่าคือ **Schedule C** ของ Sales Tax (Persons Exempted from Payment of Tax) Order 2018 และ FAQ ของ RMCD เองก็ระบุเช่นนั้นตรงตัว

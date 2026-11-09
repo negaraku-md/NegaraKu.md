@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "unaudited-financial-statements" }
 related: ["companies-act-2016"]
 keywords: ["pengecualian audit", "audit exemption", "PD 10/2024", "Arahan Amalan 10/2024", "Sdn Bhd", "syarikat persendirian", "SSM", "seksyen 267", "penyata kewangan tidak diaudit"]
+framework: rules
 ---
 
 多年来，马来西亚几乎每一家 Sdn Bhd 都必须委任审计师——无论它是一家一人经营的杂货店还是一座工厂。截至 2023 年底，共有 666,767 家活跃公司，但仅有 1,919 名获批可签署其账目的审计师。SSM 第 10/2024 号实务指令改变了这一局面：自 2025 财政年度起，数十万家小型公司可以完全跳过法定审计——只要它们符合相关标准。

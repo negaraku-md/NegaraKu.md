@@ -72,6 +72,7 @@ relations:
   - { rel: "affects", to: "audit-opinion-types" }
 related: ["statutory-audit-process", "audit-opinion-types", "emphasis-of-matter-kam", "audit-preparation-checklist"]
 keywords: ["audit continuité d'exploitation Malaisie", "incertitude significative liée à la continuité d'exploitation", "ISA 570 Malaisie", "lettre d'affirmation de la direction Malaisie", "ISA 580 déclarations écrites"]
+framework: explainer
 ---
 
 À la fin de tout audit malaisien, deux documents sont signés sans être lus : l'évaluation de la continuité d'exploitation et la lettre d'affirmation. Tous deux sont des déclarations du conseil lui-même, tous deux sont des éléments probants, et tous deux sont les premiers documents que l'on examine lorsque l'entreprise fait plus tard faillite.

@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "energy-commission-malaysia" }
 related: ["petronas"]
 keywords: ["natural gas Malaysia", "LNG Malaysia", "Bintulu LNG", "Peninsular Gas Utilisation", "PGU pipeline", "regasification terminal", "Third Party Access", "Malaysia Reference Price"]
+framework: explainer
 ---
 
 슬랑오르의 발전소가 가동되거나 페낭의 장갑 공장이 오븐을 데울 때마다, 그 가스는 대개 수백 킬로미터 떨어진 곳 — 트렝가누 앞바다나 남중국해 건너 사라왁 — 에서 여정을 시작했을 것입니다. 말레이시아는 동시에 헤비급 가스 수출국이자 점점 더 가스 수입국이며, 그 두 사실을 조화시키는 파이프와 터미널은 이 나라에서 가장 값진 에너지 자산에 속합니다.

@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "federal-state-division" }
 related: ["civil-and-syariah-courts", "kehakiman-mahkamah", "federal-constitution"]
 keywords: ["mahkamah syariah", "sistem mahkamah Malaysia", "Perkara 121(1A)", "bidang kuasa mahkamah syariah", "Mahkamah Tinggi Syariah", "Akta 355", "Akta 505", "undang-undang keluarga Islam"]
+framework: explainer
 ---
 
 A wife applying for fasakh and a trader claiming a debt of RM60,000 both begin their cases with a single form at a court counter. Yet they do not go to the same counter, their cases are not heard by the same kind of judge, and the law that determines their outcome comes from two different law-making bodies.

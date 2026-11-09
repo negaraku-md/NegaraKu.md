@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "getting-married-in-malaysia" }
 related: ["getting-divorced-in-malaysia", "getting-married-in-malaysia"]
 keywords: ["civil divorce Malaysia", "Law Reform Marriage and Divorce Act 1976", "Act 164", "marriage tribunal JPN", "decree nisi", "decree absolute", "joint petition divorce", "Section 106 conciliatory body", "non-Muslim divorce Malaysia"]
+framework: explainer
 ---
 
 A non-Muslim couple who register their marriage at JPN often assume the same office can end it. It cannot. In Malaysia, a civil marriage is registered administratively, but it is dissolved only by a court order — and the path from an estranged marriage to a stamped decree runs through a reconciliation tribunal, a High Court petition, and a built-in three-month pause before the divorce is final.

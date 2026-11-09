@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "company-contracts-section-64" }
 related: ["companies-act-2016"]
 keywords: ["penyempurnaan dokumen", "cop mohor", "common seal", "seksyen 66", "surat ikatan", "deed", "pegawai diberi kuasa", "Akta Syarikat 2016", "tandatangan syarikat"]
+framework: explainer
 ---
 
 2016年会社法（Companies Act 2016、Act 777）が2017年1月31日に施行される以前は、会社印がマレーシアの会社が重要な文書を締結する際の慣行的な方法であった。今日では、会社印そのものが存在しないこともあり得る——それでも会社は契約、融資、捺印証書に有効に署名することができる。この変化は2016年会社法、特にs.61およびs.66によるものであり、いまだに「会社印（company stamp）」を探し求める署名者を戸惑わせることが多い。

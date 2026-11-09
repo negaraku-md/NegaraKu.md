@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "score-sarawak" }
 related: ["tenaga-nasional"]
 keywords: ["hidrokuasa", "empangan Bakun", "Murum", "Baleh", "Kenyir", "Temengor", "Sarawak Energy", "tenaga boleh baharu", "hydropower Malaysia"]
+framework: explainer
 ---
 
 L'eau qui descend des chaînes de forêt tropicale de Bornéo fait désormais tourner des turbines qui alimentent des fonderies d'aluminium, et c'est là le cœur de la stratégie d'énergie renouvelable de la Malaisie. Mais le chemin pour y parvenir est jalonné de méga-barrages, de lacs couvrant des centaines de kilomètres carrés et de milliers de familles autochtones contraintes de se reloger.

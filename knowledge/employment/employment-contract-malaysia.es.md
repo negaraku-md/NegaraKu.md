@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "non-compete-clause-malaysia" }
 related: ["employment-act-coverage", "termination-of-employment-malaysia", "stamp-duty-employment-contracts"]
 keywords: ["contrato de trabajo malasia", "contrato de servicio malasia", "artículo 10 ley de empleo", "cláusula de preaviso malasia", "cláusula inexigible contrato de trabajo", "employment contract malaysia"]
+framework: rules
 ---
 
 El contrato no es la ley. Es un documento que opera dentro de la ley, y el artículo 7 de la Ley de Empleo de 1955 lo dice en una sola frase: toda cláusula menos favorable para un empleado que la Ley es **nula en esa medida**, y la disposición legal se **sustituye por ella**. No renegociada. No interpretada restrictivamente. Sustituida.

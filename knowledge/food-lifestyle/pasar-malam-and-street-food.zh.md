@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "malaysian-street-food" }
 related: []
 keywords: ["pasar malam", "pasar tani", "pasar basah", "street food", "FAMA", "gred kebersihan premis makanan", "penjaja"]
+framework: explainer
 ---
 
 黄昏将至，一条冷清的街道忽然化作满是沙爹烟火、水果堆叠与荧光灯列的巷弄——这就是夜市，马来西亚最亲民的机构之一。它与农民市场和巴刹一同构成了民间市场网络，是马来西亚人每天购物与用餐的地方。

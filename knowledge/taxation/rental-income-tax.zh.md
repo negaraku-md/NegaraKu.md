@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["income-tax-in-malaysia", "section-33-deductibility", "non-deductible-expenses", "personal-tax-rates", "which-tax-form"]
 keywords: ["rental income tax Malaysia", "cukai pendapatan sewa", "pre-letting expenses Malaysia", "can I deduct agent commission rental", "Public Ruling 12/2018", "quit rent deduction"]
+framework: explainer
 ---
 
 马来西亚租金税务计算上最常见的一个错误，就是申索找到第一位租客所花的费用。经纪

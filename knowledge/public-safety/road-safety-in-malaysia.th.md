@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "driving-licence-in-malaysia" }
 related: []
 keywords: ["keselamatan jalan raya", "kemalangan jalan raya Malaysia", "pemanduan mabuk", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
+framework: explainer
 ---
 
 ทุกวัน มีผู้เสียชีวิตประมาณ 18 รายบนถนนของมาเลเซีย ตัวเลขนี้ทำให้ถนนเป็นหนึ่งในสาเหตุการเสียชีวิตที่ไม่เป็นไปตามธรรมชาติที่โดดเด่นที่สุดในประเทศ และเป็นเหตุผลหลักที่มีการระดมกฎหมาย กล้อง และหน่วยงานเฉพาะเพื่อรับมือกับมัน

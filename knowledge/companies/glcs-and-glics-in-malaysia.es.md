@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["ekonomi-madani-framework", "khazanah", "bursa-malaysia"]
 keywords: ["GLC", "GLIC", "Khazanah", "KWSP", "PNB", "KWAP", "LTAT", "Tabung Haji", "GEAR-uP", "PERKUKUH", "Program Transformasi GLC", "Bursa Malaysia"]
+framework: explainer
 ---
 
 Abra la cartera de cualquier fondo indexado de Bursa Malaysia y la mano del Gobierno Federal estará casi con certeza dentro de ella. Los mayores bancos, empresas de servicios públicos, firmas de telecomunicaciones, aerolíneas y conglomerados de plantaciones del país comparten todos un mismo propietario último: el pueblo de Malasia, a través de un puñado de instituciones de inversión estatal. Es esta estructura la que hace de Malasia una de las economías con mayor influencia estatal del Sudeste Asiático, y queda condensada en dos siglas que a menudo se confunden: GLC y GLIC.

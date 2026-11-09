@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "appoint-company-secretary" }
 related: ["secretary-resignation", "appoint-company-secretary", "changing-company-secretary"]
 keywords: ["company secretary vacancy 30 days", "section 240 Companies Act 2016", "office of secretary vacant Malaysia", "no company secretary penalty Malaysia", "section 235 Companies Act 2016"]
+framework: rules
 ---
 
 多くのSdn Bhdの取締役がこのルールを知るのは、火災報知器の電池切れに気づくときと同じように――遅すぎるタイミングで、しかも既に何か別の問題が起きた後である。秘書役が辞任し、後任の見積りは高く見え、そして3か月後も会社はまだ比較検討を続けている。

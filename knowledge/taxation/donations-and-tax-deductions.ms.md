@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["waqf-islamic-endowment-malaysia", "income-tax-in-malaysia", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["derma layak potongan cukai Malaysia", "institusi diluluskan seksyen 44(6)", "had siling derma 10% pendapatan agregat", "semak badan amal diluluskan LHDN", "derma potongan cukai"]
+framework: rules
 ---
 
 Resit itu tertulis *dikecualikan cukai di bawah subseksyen 44(6)*. Ayat itu

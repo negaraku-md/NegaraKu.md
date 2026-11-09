@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "directors-duties" }
 related: ["directors-duties", "capital-reduction", "share-capital-malaysia", "loans-to-directors", "corporate-tax-rates"]
 keywords: ["dividen Malaysia Sdn Bhd", "seksyen 131 Akta Syarikat 2016", "ujian solvensi dividen", "liabiliti pengarah dividen menyalahi undang-undang", "pengagihan daripada untung"]
+framework: rules
 ---
 
 Sebuah Sdn Bhd yang menguntungkan dengan RM800,000 laba ditahan membayar dividen

@@ -78,6 +78,7 @@ social:
     - MDEC
     - MalaysiaDigital
     - TechFunding
+framework: explainer
 ---
 
 Hầu hết những người sáng lập tìm kiếm tài trợ của MDEC tìm «khoản trợ cấp MDEC» và mong đợi một chương trình duy nhất. Thực sự có hai, chúng tài trợ cho hai đầu đối lập trong hành trình của một công ty, và cả hai đều chia sẻ một cánh cổng không hiển nhiên: bạn phải đã ở bên trong Malaysia Digital để vào được. Bỏ lỡ điều đó, và số tiền trên trang là không liên quan.

@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "having-a-baby-in-malaysia" }
 related: ["klinik-kesihatan", "having-a-baby-in-malaysia"]
 keywords: ["imunisasi kanak-kanak Malaysia", "Jadual Imunisasi Kebangsaan", "Program Imunisasi Kebangsaan KKM", "vaksin percuma klinik kesihatan", "buku rekod kesihatan bayi dan kanak-kanak", "vaksin kanak-kanak KKM", "Immunise4Life Malaysia", "imunisasi percuma Malaysia"]
+framework: explainer
 ---
 
 Mỗi trẻ sơ sinh chào đời tại phòng khám hoặc bệnh viện chính phủ của Malaysia trở về nhà với nhiều hơn chỉ một giấy khai sinh tạm thời — chúng trở về với một cuốn sổ nhỏ sẽ được mang đến *mỗi* lần đến phòng khám trong sáu năm tới. Cuốn sổ đó, và lịch tiêm được ghi trong nó, là một phần của một trong những chương trình y tế công cộng chạy lâu đời nhất của đất nước.

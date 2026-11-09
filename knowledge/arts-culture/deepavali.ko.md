@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-malaysia" }
 related: ["religion-statistics", "public-holidays-malaysia", "batik"]
 keywords: ["deepavali malaysia", "festival of lights malaysia", "hindu festival malaysia", "deepavali public holiday", "deepavali sarawak", "hari deepavali", "diwali malaysia"]
+framework: history-culture
 ---
 
 하룻밤 동안은 등불이 말을 합니다. 작은 흙 등불들이 문간과 창턱을 따라 줄지어 놓이고, 색색의 쌀이나 가루로 그린 바닥 문양이 문지방에 깔리며, 한 시간 전만 해도 어두웠던 집이 불꽃으로 윤곽을 드러냅니다. 바로 여기서 축제의 이름이 나옵니다. *디파발리(Deepavali)*는 '한 줄, 곧 이어진 빛'을 뜻하는 산스크리트어에서 왔습니다.

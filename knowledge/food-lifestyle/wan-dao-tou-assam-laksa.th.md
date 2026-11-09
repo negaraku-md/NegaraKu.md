@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#AssamLaksa", "#Penang", "#BibGourmand", "#MalaysianFood", "#Malaysia"]
+framework: profile
 ---
 
 ในเมืองที่ถือ assam laksa เป็นความภาคภูมิใจ Wan Dao Tou ได้ที่ทางบนแผนที่จอร์จทาวน์

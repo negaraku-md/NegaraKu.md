@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016"]
 keywords: ["MFRS 124", "partes relacionadas", "cuenta corriente del director", "préstamo del director", "MBRS", "IAS 24", "estados financieros", "revelaciones de partes relacionadas Malasia"]
+framework: explainer
 ---
 
 En la mayoría de las empresas Sdn Bhd de propiedad familiar en Malasia, el dinero entra y sale sin mucho papeleo: el padre inyecta efectivo cuando el flujo de caja está ajustado, un hijo toma un anticipo para un asunto personal, y una empresa relacionada liquida una factura por otra. Todo ello se acumula en una sola línea discreta del balance — la «cuenta corriente del director» — y es esta línea la que con más frecuencia hace tropezar las cosas cuando llega el auditor y cuando los estados financieros se etiquetan para la SSM.

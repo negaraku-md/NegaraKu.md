@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "kpdn" }
 related: ["jakim"]
 keywords: ["halal", "JAKIM", "شهادة الحلال", "اعتماد الحلال", "MYeHALAL", "شعار الحلال", "Akta Perihal Dagangan 2011", "MAIN", "JAIN"]
+framework: explainer
 ---
 
 قد يبدو شعار الحلال الرسمي بخطّه الجميل صغيرًا على عبوة طعام — لكن خلفه يقوم نظام

@@ -71,6 +71,7 @@ faq:
     a: Tidak. Thaipusam bukan hari libur di tingkat nasional; ia hanya menjadi hari libur umum di negara bagian yang mengundangkannya dalam warta resmi — Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, dan Johor. Pada beberapa tahun, Kedah memberikannya sebagai pengumuman khusus tanpa pewartaan tetap. Sebaliknya, Deepavali adalah hari libur umum di setiap negara bagian dan wilayah persekutuan, kecuali Sarawak.
   - q: Mengapa lebih banyak umat Hindu tinggal di negara bagian seperti Negeri Sembilan, Selangor, dan Perak?
     a: Negara-negara bagian ini bertepatan dengan bekas kawasan perkebunan karet dan pertambangan bijih timah — di sanalah banyak buruh India menetap pada masa Inggris. Dalam sensus 2020, Negeri Sembilan (~13,1%), Selangor (~10,3%), dan Perak (~9,7%) mencatat proporsi yang lebih tinggi. Sebagian besar dari mereka adalah keturunan orang-orang yang datang dari India Selatan untuk bekerja di perkebunan di bawah sistem kangani.
+framework: history-culture
 ---
 
 Di kota mana pun di Malaysia, di tepi perkebunan karet tua atau di jalan bersejarah

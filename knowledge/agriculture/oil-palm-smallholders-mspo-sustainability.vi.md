@@ -81,6 +81,7 @@ relations:
   - { rel: "affects", to: "deforestation-and-forest-loss-in-malaysia" }
 related: ["palm-oil-sustainability-mspo-and-deforestation", "palm-oil-industry", "palm-oil-sustainability-certification", "deforestation-and-forest-loss-in-malaysia"]
 keywords: ["oil palm smallholders", "MSPO certification", "independent smallholders", "MS 2530:2022", "EUDR palm oil", "sustainable palm oil Malaysia"]
+framework: explainer
 ---
 
 Một nông dân ở Bintulu có thể đi từng ranh giới của mảnh cọ dầu của mình theo trí nhớ nay phải biến những "bản đồ trong đầu" đó thành các đa giác GPS trước khi một người mua ở châu Âu chịu chạm đến quả của ông. Khoảng cách đó — giữa việc biết đất của mình và ghi lại nó cho một kiểm toán viên hài lòng — là câu chuyện thầm lặng đằng sau nền kinh tế dầu cọ tiểu điền của Malaysia.

@@ -73,6 +73,7 @@ relations:
   - { rel: "affects", to: "form-c-and-cp204" }
 related: ["form-c-and-cp204", "corporate-tax-rates", "income-tax-act-1967"]
 keywords: ["basis period Malaysia", "section 21A", "failure year", "CP204B", "change accounting date Malaysia", "tempoh asas"]
+framework: explainer
 ---
 
 一家在 3 月注册成立、首份账目在翌年 6 月 30 日结账的 Sdn Bhd，**在它的第一个日历年没有课税年**。没有基期，没有 Form C，没有应课税收入。被告知公司每年都要报税的董事会觉得这很吓人；这不过是 section 21A 的运作方式而已。

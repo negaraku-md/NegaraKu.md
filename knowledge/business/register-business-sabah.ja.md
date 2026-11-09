@@ -129,6 +129,7 @@ keywords:
   - "DBKK business licence"
   - "SSM Sabah sole proprietorship"
   - "business registration Kota Kinabalu"
+framework: how-to
 ---
 
 マレーシアでの事業登録に関する全国的なガイドはどれも、EzBizを開いてRM60を支払うようにと告げる。サバでは、その助言は単に不完全なだけではない。それは誤りであり、それに従うと、あなたが立っているその場所では何の意味も持たない証明書を手にしたまま、違法に営業することになる。

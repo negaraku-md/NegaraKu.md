@@ -117,6 +117,7 @@ keywords:
   - "المادة 75 Companies Act 2016"
   - "share capital Malaysia"
   - "paid-up capital Sdn Bhd"
+framework: explainer
 ---
 
 رأس المال المدفوع البالغ RM1 قانوني وشائع، وهو بهدوء أحد أغلى القرارات المتّخذة

@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: ["federal-constitution", "melaka-sultanate", "independence-1957"]
 keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Kebangsaan 1963/67", "tulisan Jawi Rumi", "Ejaan Rumi Baharu 1972"]
+framework: explainer
 ---
 
 在登嘉楼的 Kuala Berang，曾发现一块石碑，上面刻着马来文词语——不是用我们今天所熟悉的字母，而是用为马来语音调整过的阿拉伯字母。据大马国家档案局（Arkib Negara Malaysia）所述，这块碑文的年代为公元1303年。

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "perquisites-and-benefits-in-kind-tax" }
 related: ["companies-act-2016"]
 keywords: ["ESOS malaysia", "employee share option scheme malaysia", "ESOP malaysia tax", "share option perquisite malaysia", "section 75 companies act 2016", "bursa 15% share scheme", "how ESOS is taxed malaysia"]
+framework: explainer
 ---
 
 பணப் பற்றாக்குறையில் உள்ள ஸ்டார்ட்அப்களும், ஊழியர் தக்கவைப்பைத் தேடும் முதிர்ந்த நிறுவனங்களும் ஒரே கருவியை நோக்கிச் செல்கின்றன: ஊழியர்களுக்கு பங்கு மூலதனத்தில் ஒரு பங்கைக் கொடுப்பது. ஒரு ஊழியர் பங்கு விருப்பத் திட்டம் (ESOS) பணியாளர்கள் இன்று நிர்ணயிக்கப்பட்ட விலையில் பின்னர் பங்குகளை வாங்க அனுமதிக்கிறது, அதனால் அவர்கள் உருவாக்க உதவும் மதிப்பேற்றத்தில் அவர்களும் பங்கு பெறுகிறார்கள். இது சக்திவாய்ந்தது — மேலும் நிறுவனர்கள் அமைதியாகச் சட்டத்தையும் வரியையும் தவறாகப் புரிந்துகொள்ளும் இடமும் இதுவே, பொதுவாக வரியை.

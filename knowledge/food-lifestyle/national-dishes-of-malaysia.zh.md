@@ -87,6 +87,7 @@ relations:
   - { rel: "explained-in", to: "national-heritage-act-2005" }
 related: ["teh-tarik"]
 keywords: ["nasi lemak", "roti canai", "char kuey teow", "laksa", "asam laksa", "hidangan kebangsaan Malaysia", "makanan warisan", "UNESCO warisan tidak ketara", "makanan Malaysia"]
+framework: explainer
 ---
 
 让十个马来西亚人说出国家的「国民美食」，还没等你把问题说完，其中九个就会脱口而出「椰浆饭」。然而真正的答案更耐人寻味：马来西亚从未在法律上宣布过任何一道单一的美食——相反，这个国家拥有一小撮佳肴，它们共同将其身份认同带上了世界舞台。

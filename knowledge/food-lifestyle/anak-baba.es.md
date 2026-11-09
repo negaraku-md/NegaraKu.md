@@ -70,6 +70,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["AnakBaba", "Peranakan", "BibGourmand", "MichelinGuideMalaysia", "Brickfields"]
+framework: profile
 ---
 
 Anak Baba es un restaurante peranakan (Peranakan) en Brickfields —la Little India de Kuala Lumpur— que aparece en la [MICHELIN Guide Malaysia](/es/food-lifestyle/michelin-guide-malaysia) con un Bib Gourmand. La MICHELIN Guide lo llama "una pequeña joya acogedora".

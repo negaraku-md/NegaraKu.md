@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "department-of-environment-doe" }
 related: ["department-of-environment-doe", "malaysias-rainforests-and-permanent-forest-reserves"]
 keywords: ["Malaysia NDC 3.0", "net zero 2050 Malaysia", "Climate Change Act Malaysia", "National Climate Change Policy 2.0", "Paris Agreement Malaysia", "emissions trading scheme", "carbon tax Malaysia", "NRES", "UNFCCC"]
+framework: explainer
 ---
 
 For nearly a decade Malaysia measured its climate promise in a way almost no citizen could feel: emissions per unit of GDP. In October 2025 that changed. The country told the United Nations it would cut a fixed tonnage of greenhouse gases — 15 to 30 million tonnes — from whatever level its emissions peak at. It is the first time Malaysia has put an absolute number on the table, and it reframes every other piece of the country's climate architecture around a single question: how does a fast-growing, oil-and-gas-producing developing economy bend its emissions curve downward without stalling?

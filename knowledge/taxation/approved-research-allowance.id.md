@@ -108,6 +108,7 @@ relations:
   - { rel: "compares-with", to: "capital-allowances" }
 related: ["double-deduction-list", "capital-allowances", "section-33-deductibility", "tax-incentives-directory"]
 keywords: ["elaun penyelidikan diluluskan malaysia", "potongan berganda r&d malaysia", "seksyen 34a akta cukai pendapatan", "potongan berganda seksyen 34b", "status r&d mida", "borang 1 r&d lhdn"]
+framework: explainer
 ---
 
 Tanya tiga penasihat tentang approved research allowance dan Anda akan mendapat tiga jawaban, karena tidak ada keringanan semacam itu. Tidak ada apa pun dalam Income Tax Act 1967 yang menggunakan frasa itu. Yang ada adalah tiga potongan terpisah dengan jalur persetujuan dan tenggat yang berbeda, ditambah satu lagi rezim yang sama sekali berbeda yang dikelola oleh MIDA. Mengelirukan ketiganya adalah bagaimana sebuah perusahaan berakhir dengan potongan berganda yang tidak dapat didukung.

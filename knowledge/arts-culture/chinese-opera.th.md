@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "unesco-world-heritage" }
 related: ["wayang-kulit", "mak-yong", "unesco-world-heritage"]
 keywords: ["华人大戏", "酬神戏", "粤剧 马来西亚", "潮剧 马来西亚", "闽剧", "歌仔戏", "布袋戏", "潮州铁枝木偶", "槟城 中元节", "Chinese opera Malaysia", "Wayang Cina"]
+framework: history-culture
 ---
 
 เสียงกลองฆ้องดังขึ้น บนเวทีแขนเสื้อน้ำ (水袖) สะบัดพลิ้ว แต่ที่นั่งผู้ชมด้านล่างกลับมักมีคนนั่งอยู่เพียงไม่กี่คน — บางครั้งไม่มีสักคนเลยด้วยซ้ำ นี่ไม่ใช่การแสดงที่ล้มเหลว เพราะแต่เดิมการแสดงนี้ไม่ได้แสดงให้คนดู

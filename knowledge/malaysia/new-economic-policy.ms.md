@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["rukun-negara", "the-emergency", "independence-1957", "formation-of-malaysia-1963", "population-composition"]
 keywords: ["New Economic Policy", "NEP", "Dasar Ekonomi Baru", "DEB", "Second Malaysia Plan", "restructuring society", "poverty eradication", "national unity", "Outline Perspective Plan", "30 per cent Bumiputera equity"]
+framework: explainer
 ---
 
 Dasar Ekonomi Baru biasanya diingati dengan satu perkataan sahaja — "penyusunan semula" — dan telah diperdebatkan sejak itu. Namun dasar ini menyatakan matlamatnya sendiri secara bertulis, dalam sebuah rancangan kerajaan yang dibentangkan di Parlimen, dan matlamat itu ada dua, bukan satu, dengan satu idea ketiga yang berada di atas kedua-duanya. Rencana ini mengemukakan apa yang dinyatakan oleh dokumen-dokumen itu, mengikut susunan sebagaimana dokumen-dokumen itu menyatakannya.

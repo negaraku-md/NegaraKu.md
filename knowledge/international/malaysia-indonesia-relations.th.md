@@ -129,6 +129,7 @@ relations:
   - { rel: "compares-with", to: "malaysia-singapore-relations" }
 related: ["malaysia-singapore-relations"]
 keywords: ["hubungan Malaysia Indonesia", "serumpun", "pekerja migran Indonesia", "One Channel System", "Pulau Sebatik", "Ambalat", "Sipadan Ligitan", "sempadan Malaysia Indonesia", "Perundingan Tahunan"]
+framework: explainer
 ---
 
 สองประเทศนี้มีภาษา ศาสนา และต้นกำเนิดเดียวกัน แต่ก็มีพรมแดนทางบกที่ยาวที่สุดบนเกาะบอร์เนียว (Borneo) แหล่งน้ำมันใต้ทะเลซูลาเวซี และแรงงานหลายล้านคนที่ข้ามไปมาเพื่อหาเลี้ยงชีพ ความสัมพันธ์มาเลเซีย-อินโดนีเซียมิใช่เพียงความสัมพันธ์ทางการทูตธรรมดา แต่เป็นความสัมพันธ์แบบครอบครัวที่ซับซ้อน ซึ่งความใกล้ชิดนั้นเองเป็นทั้งสาเหตุของความร่วมมือและสาเหตุของความตึงเครียด

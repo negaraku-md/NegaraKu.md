@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["opening-bank-account"]
 keywords: ["PTPTN", "pinjaman pendidikan", "kelayakan PTPTN", "bayaran balik PTPTN", "Akta 566", "pembiayaan pengajian tinggi Malaysia", "SSPN"]
+framework: explainer
 ---
 
 Nhiều học sinh ký vào hồ sơ mời của PTPTN với cùng một giả định:

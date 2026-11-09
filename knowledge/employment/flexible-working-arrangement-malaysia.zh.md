@@ -73,6 +73,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-act-1955-guide", "working-hours-overtime-malaysia", "employment-contract-malaysia"]
 keywords: ["flexible working arrangement malaysia", "fwa malaysia employment act", "section 60p 60q", "work from home request malaysia", "flexible work application malaysia"]
+framework: rules
 ---
 
 马来西亚多数关于弹性工作的报道，都把它描述成雇主可以选择提供的一项福利。这种读法

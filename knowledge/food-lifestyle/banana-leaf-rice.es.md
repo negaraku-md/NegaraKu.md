@@ -91,6 +91,7 @@ verificationNeeded:
   - "Si el relleno de arroz (y verduras) es realmente 'ilimitado' en los restaurantes malasios de hoja de plátano: los medios gastronómicos lo afirman ampliamente, pero la descripción tradicional del sur de la India habla de dos raciones de arroz. La política varía según el restaurante; confírmese con la práctica del restaurante o una fuente gastronómica fiable."
   - "La relevancia de Penang (frente a Brickfields, en Kuala Lumpur) como centro del arroz en hoja de plátano: no se confirma directamente en las fuentes consultadas; verifíquese con una fuente gastronómica o turística específica de Penang."
   - "La atribución comunitaria precisa ('tamil' frente al más amplio 'sur de la India') para el origen del plato y su llegada a Malasia: confírmese con una fuente de historia de la migración o de patrimonio culinario."
+framework: explainer
 ---
 
 Siéntese en un restaurante de hoja de plátano en Malasia y no llegará ningún

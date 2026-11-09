@@ -71,6 +71,7 @@ social:
     - OnlineSeller
     - SSM
     - MicroEntrepreneur
+framework: how-to
 ---
 
 Anda memanggang biskuit, menjual kembali produk perawatan kulit, atau melakukan dropship casing ponsel dari ruang penyimpanan Anda, dan penjualannya nyata. Di suatu tempat antara pesanan pertama dan kesepuluh, satu pertanyaan muncul: apakah semua ini *sah*, atau apakah usaha dari rumah satu-satunya jenis yang bisa Anda… jalankan begitu saja? Jawaban jujurnya adalah usaha dari rumah tetap sebuah usaha — negara mengharapkan pendaftaran yang sama seperti sebuah toko, ditambah satu izin tambahan yang jarang dipikirkan orang: izin dari otoritas lokal Anda untuk menjalankan usaha dari sebuah rumah sama sekali.

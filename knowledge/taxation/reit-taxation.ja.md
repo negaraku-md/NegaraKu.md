@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["income-tax-act-1967", "lhdn"]
 keywords: ["REIT tax Malaysia", "property trust fund", "section 61A", "withholding tax REIT", "YA 2026 REIT tax", "unit holder distribution"]
+framework: explainer
 ---
 
 マレーシアのREITのユニットを買うと、あなたは実質的に、建物の税金の請求書を一度も目にすることのない大家となる——なぜなら、その建物を保有する信託が、税務当局が手を付けるより先に、ほぼすべてをあなたに引き渡してしまうからだ。1967年所得税法のs.61Aに書き込まれたこの一つの設計上の選択こそが、REIT及びPTFを機能させている仕組みである。しかし2026賦課年度（YA 2026）には、この取引のもう半分——*あなた*、すなわち受益者がどのように課税されるか——が、ここ数年で初めて変わった。

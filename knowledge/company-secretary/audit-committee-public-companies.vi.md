@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "appointing-an-auditor" }
 related: ["directors-duties", "appointing-an-auditor", "sdn-bhd-vs-berhad"]
 keywords: ["audit committee malaysia", "bursa listing requirements chapter 15", "audit committee composition malaysia", "independent director audit committee", "mccg practice 9", "internal audit function listed company"]
+framework: rules
 ---
 
 Hãy hỏi hầu hết các giám đốc Malaysia yêu cầu về ủy ban kiểm toán đến từ đâu và bạn

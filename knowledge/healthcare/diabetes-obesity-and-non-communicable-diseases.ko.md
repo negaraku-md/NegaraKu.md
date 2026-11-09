@@ -74,6 +74,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-health" }
 related: []
 keywords: ["diabetes", "obesiti", "NCD", "penyakit tidak berjangkit", "NHMS 2023", "cukai gula", "PeKa B40", "Logo Pilihan Sihat", "saringan kesihatan"]
+framework: explainer
 ---
 
 오늘날 말레이시아 성인의 절반 이상이 수명을 단축할 수 있는 체중을 지니고 있습니다 — 그리고 여섯 명 중 한 명은 이미 당뇨병과 함께 살고 있으며, 많은 이가 그것을 알지 못합니다. 이것은 어떤 감염병보다도 병원, 가정, 국가 경제를 훨씬 무겁게 짓누르는 조용한 유행병입니다.

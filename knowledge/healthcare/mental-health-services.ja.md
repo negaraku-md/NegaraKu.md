@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "emergencies-999" }
 related: ["klinik-kesihatan", "how-malaysian-healthcare-works", "private-hospitals-and-costs", "emergencies-999"]
 keywords: ["mental health services Malaysia", "Talian HEAL 15555", "Talian Kasih 15999", "Befrienders Malaysia", "MENTARI clinic Malaysia", "psychiatric hospital Malaysia", "MMHA Malaysian Mental Health Association", "counselling Malaysia", "where to get mental health help Malaysia", "Mental Health Act 2001 Malaysia"]
+framework: explainer
 ---
 
 助けを求めると決めること——それ自体がしばしば一番難しい部分だ。*どこに*助けを求めればよいのかを見極めることは、ほとんど誰も説明してくれない部分であり——その空白だけで、人は電話をかけること自体をやめてしまう。

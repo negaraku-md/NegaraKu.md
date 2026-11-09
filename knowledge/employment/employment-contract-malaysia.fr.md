@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "non-compete-clause-malaysia" }
 related: ["employment-act-coverage", "termination-of-employment-malaysia", "stamp-duty-employment-contracts"]
 keywords: ["contrat de travail malaisie", "contrat de service malaisie", "article 10 loi sur l'emploi", "clause de préavis malaisie", "clause inapplicable contrat de travail", "employment contract malaysia"]
+framework: rules
 ---
 
 Le contrat n'est pas la loi. C'est un document qui opère à l'intérieur de la loi, et l'article 7 de la Loi de 1955 sur l'emploi le dit en une seule phrase : toute clause moins favorable à un employé que la Loi est **nulle dans cette mesure**, et la disposition légale lui est **substituée**. Pas renégociée. Pas interprétée restrictivement. Substituée.

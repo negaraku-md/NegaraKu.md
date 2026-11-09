@@ -83,6 +83,7 @@ keywords:
   - "Malaysia student pass application"
   - "public vs private university Malaysia"
   - "MOHE approved institution Malaysia"
+framework: explainer
 ---
 
 来自错误类型院校的录取信，对签证申请而言毫无用处，即使课程本身完全获得认证也一样。「已获认证的课程」与「获准招收国际学生的院校」这两者之间的区别，正是大部分混淆的起点，而这早在任何人填写 EMGS 表格之前就已经发生。

@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "retrenchment-malaysia" }
 related: ["termination-of-employment-malaysia", "retrenchment-malaysia", "offboarding-statutory-checklist"]
 keywords: ["सेवा-समाप्ति लाभ मलेशिया", "छंटनी लाभ गणना", "TBLB विनियम 1980", "सेवा-निवृत्ति भुगतान मलेशिया", "अस्थायी-निलंबन लाभ मलेशिया", "10 15 20 दिन मज़दूरी", "termination benefits malaysia", "TBLB regulations 1980"]
+framework: rules
 ---
 
 दो नियोक्ता एक ही कर्मचारी की एक ही दिन छंटनी करते हैं। एक महीने की तनख़्वाह देता है और इसे उदार कहता है। दूसरा नौ में से हर वर्ष के लिए 20 दिन की मज़दूरी — मोटे तौर पर छह महीने की तनख़्वाह — देता है, क्योंकि क़ानून यही अपेक्षा करता है। फ़र्क़ यह है कि दूसरे ने रोज़गार (सेवा-समाप्ति एवं अस्थायी-निलंबन लाभ) विनियम 1980 पढ़ा।

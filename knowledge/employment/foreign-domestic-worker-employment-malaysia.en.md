@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "foreign-worker-levy-malaysia" }
 related: ["employment-act-1955", "foreign-worker-levy-malaysia", "minimum-wage-malaysia"]
 keywords: ["pembantu rumah asing", "foreign domestic helper", "FDH Malaysia", "maid Malaysia", "MoU Indonesia pembantu rumah", "bon keselamatan pekerja asing", "pengecualian KWSP pembantu rumah"]
+framework: rules
 ---
 
 A foreign domestic worker enters Malaysia through an entirely different door from a factory or plantation worker — not through a sector quota, not through the foreign-worker One-Stop Centre, and not under the full protection of labour law. The regime stands on its own, and employers who assume the process is the same as hiring a general worker often get it wrong.

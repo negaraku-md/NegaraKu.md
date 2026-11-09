@@ -107,6 +107,7 @@ keywords:
   - "director duties Malaysia"
   - "nominee director Malaysia"
   - "director disqualification Malaysia"
+framework: rules
 ---
 
 언젠가 누군가는 당신에게 "그냥 이사가 되어 달라, 서명 하나면 된다"고 부탁할 것입니다.

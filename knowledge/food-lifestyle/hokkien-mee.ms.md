@@ -87,6 +87,7 @@ verificationNeeded:
   - "Kisah asal usul bahawa Hokkien mee gaya KL dicipta oleh penjaja Ong Kim Lian di Petaling Street pada tahun 1927 — pelbagai akaun bercanggah (sesetengah media makanan mengaitkannya dengan seorang 'Encik Ong' yang menambah kicap pekat pada hidangan mee goreng, manakala versi saingan yang dipopularkan oleh laporan Straits Times 1984 menjejaki akar hidangan itu ke tahun 1880-an). Sahkan nama pengasas dan tarikh itu dengan sumber sejarah atau warisan primer."
   - "Dakwaan bahawa kedua-dua gaya Hokkien mee berasal daripada hidangan Fujian iaitu lor mee dan tidak dikenali di Fujian sendiri — sahkan terhadap sumber sejarah masakan atau akademik dan bukan media makanan."
   - "Sama ada sup udang pedas gaya Pulau Pinang itu secara konsisten dan boleh ditukar ganti dipanggil 'prawn mee' dan 'hae mee' di semua wilayah (penggunaan dan ejaan berbeza-beza secara setempat) — sahkan penamaan wilayah dengan sumber masakan Pulau Pinang atau Cina-Malaysia."
+framework: explainer
 ---
 
 Minta "Hokkien mee" di Kuala Lumpur dan anda akan mendapat sepinggan mee kuning

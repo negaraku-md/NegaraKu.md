@@ -132,6 +132,7 @@ keywords:
   - "cara daftar syarikat Sdn Bhd"
   - "how to open company Malaysia"
   - "CRS SSM4U registration"
+framework: how-to
 ---
 
 Kebanyakan pengasas menghabiskan berminggu-minggu bimbang tentang pemerbadanan.

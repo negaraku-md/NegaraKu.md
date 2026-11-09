@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "auditor-report" }
 related: []
 keywords: ["surat perwakilan pengurusan", "management representation letter", "ISA 580", "perwakilan bertulis", "written representations", "bukti audit", "juruaudit"]
+framework: explainer
 ---
 
 Menjelang penghujung setiap audit, direktur diminta menandatangani satu dokumen yang mudah diabaikan tetapi berbobot: surat yang mengaku, dengan tanda tangan mereka sendiri, bahwa mereka telah memberi tahu auditor segalanya. Itulah surat representasi manajemen.

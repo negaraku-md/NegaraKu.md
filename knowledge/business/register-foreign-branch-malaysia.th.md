@@ -122,6 +122,7 @@ keywords:
   - "foreign company local agent Malaysia"
   - "branch registration fee SSM"
   - "foreign company annual return Malaysia"
+framework: how-to
 ---
 
 ค่าธรรมเนียมการจดทะเบียนเป็นส่วนที่ทุกคนตั้งงบไว้ มันไม่ใช่ส่วนที่เจ็บปวด

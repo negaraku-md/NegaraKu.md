@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
+framework: explainer
 ---
 
 உங்கள் குப்பைத் தொட்டி வாரத்திற்கு இருமுறை காலி செய்யப்படுகிறது, ஆனால் அதை உண்மையில் யார் எடுக்கிறார்கள் என்று நீங்கள் எப்போதாவது கேட்டிருக்கிறீர்களா — உள்ளூராட்சி மன்றமா, அல்லது மன்றம் நியமித்த வேறு நிறுவனமா? மேலும், அடுத்த மாநிலத்தில் உள்ள உங்கள் அண்டைவீட்டார் பிளாஸ்டிக் பாட்டில்களை உணவுக் கழிவிலிருந்து பிரிக்காததற்காக அபராதம் விதிக்கப்படலாம், ஆனால் உங்களுக்கு இல்லை — ஏன்?

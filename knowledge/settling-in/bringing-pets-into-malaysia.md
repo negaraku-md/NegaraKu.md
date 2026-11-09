@@ -63,6 +63,7 @@ relations:
   - { rel: "part-of", to: "settling-in" }
 related: ["moving-to-malaysia-first-steps", "dependant-social-visit-passes"]
 keywords: ["bringing pets to Malaysia", "MAQIS import permit", "DVS pet import rules", "dog cat quarantine Malaysia", "restricted dog breeds Malaysia", "ISO microchip pet import"]
+framework: how-to
 ---
 
 Your flight is booked, your boxes are packed, and then it hits you: what about the dog. In Malaysia, a pet doesn't just ride along in the cargo hold — it needs a permit that's approved before it leaves the ground, a microchip that meets a specific ISO standard, and quite possibly a week or more in quarantine before you get it back.

@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "statutory-registers" }
 related: ["statutory-registers", "appoint-company-secretary", "register-of-members"]
 keywords: ["نسخة طبق الأصل مصدّقة ماليزيا", "certified true copy Malaysia", "الاطلاع على الأصل أمين السر", "original sighted company secretary", "CTC company secretary Malaysia", "ممارسة MAICSA الفضلى للتصديق", "salinan diakui sah", "المادة 599 قانون الشركات 2016"]
+framework: explainer
 ---
 
 يطلب بنكٌ نسخة مصدّقة طبق الأصل من النظام الأساسي. فيأخذ أحدهم في المكتب نسخةً ممسوحة

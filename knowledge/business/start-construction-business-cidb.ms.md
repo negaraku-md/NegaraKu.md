@@ -82,6 +82,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaConstruction
     - ContractorMalaysia
+framework: how-to
 ---
 
 Anda boleh mendaftarkan sebuah syarikat dalam satu petang, tetapi syarikat itu masih tidak boleh secara sah menuang papak, mendawai bangunan, atau membida kontrak jalan sehingga ia memiliki satu lesen kedua yang berasingan. Di Malaysia, pembinaan ialah suatu perdagangan yang dikawal selia: *syarikat* itu didaftarkan dengan SSM, dan *kontraktor* itu didaftarkan dengan CIDB. Langkau langkah kedua dan kerja pertama yang anda ambil ialah kesalahan jenayah, bukan kontrak.

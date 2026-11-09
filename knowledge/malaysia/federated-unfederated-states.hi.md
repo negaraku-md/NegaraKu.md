@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "nine-royal-houses" }
 related: ["straits-settlements", "malayan-union", "nine-royal-houses", "malay-sultanate-system"]
 keywords: ["संघबद्ध मलय राज्य", "असंघबद्ध मलय राज्य", "ब्रिटिश रेज़िडेंट प्रणाली", "ब्रिटिश सलाहकार प्रणाली", "पांगकोर संधि 1874", "रेज़िडेंट-जनरल कुआलालंपुर", "एंग्लो-सियामी संधि 1909", "जोहोर जनरल एडवाइज़र", "Federated Malay States", "Unfederated Malay States", "Pangkor Treaty 1874", "Anglo-Siamese Treaty 1909"]
+framework: explainer
 ---
 
 नौ मलय राज्य, एक साम्राज्यवादी शक्ति — और फिर भी एक व्यवस्था नहीं बल्कि दो। वही विभाजन वह चीज़ है जिसे औपनिवेशिक मलाया के अधिकांश सार छोड़ देते हैं, और यही इस पूरे लेख का मुद्दा है।

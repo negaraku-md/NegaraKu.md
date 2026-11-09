@@ -97,6 +97,7 @@ verificationNeeded:
   - "Les mois exacts de la saison du durian et des fruits en général varient selon la région et l'année avec les pluies et la floraison — confirmer le moment de l'année en cours auprès du Département de l'Agriculture de la Malaisie (DOA) ou du MARDI plutôt que de fixer des dates précises."
   - "Savoir si le langsat, le duku et le dokong sont des calibres/cultivars d'une seule espèce (Lansium parasiticum) ou des variétés distinctes, et les distinctions précises entre eux — à confirmer auprès d'une source horticole comme le MARDI."
   - "Les croyances populaires selon lesquelles le durian serait « échauffant » ou dangereux consommé avec de l'alcool sont traditionnelles et ne sont pas fermement établies par des preuves — à signaler comme une croyance, non comme un fait."
+framework: explainer
 ---
 
 Parcourez n'importe quel *pasar* (marché) malaisien au milieu de l'année et les

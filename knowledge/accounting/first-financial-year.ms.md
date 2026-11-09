@@ -81,6 +81,7 @@ relations:
   - { rel: "part-of", to: "financial-year-end" }
 related: ["financial-year-end", "financial-reporting-deadlines", "audit-exemption-thresholds", "audit-exemption", "sdn-bhd-first-year-compliance", "basis-period-and-accounting-date", "sdn-bhd-bookkeeping"]
 keywords: ["tahun kewangan pertama Sdn Bhd", "lapan belas bulan penyata kewangan pertama Malaysia", "seksyen 248 Akta Syarikat 2016", "akhir tahun kewangan syarikat baru Malaysia", "audit pertama Sdn Bhd", "pengecualian audit tahun pertama"]
+framework: explainer
 ---
 
 Setiap Sdn Bhd baru diberitahu bahawa ia mempunyai lapan belas bulan sebelum

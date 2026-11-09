@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "kpdn" }
 related: ["jakim"]
 keywords: ["halal", "JAKIM", "sijil halal", "pensijilan halal", "MYeHALAL", "logo halal", "Akta Perihal Dagangan 2011", "MAIN", "JAIN"]
+framework: explainer
 ---
 
 The official halal logo with its calligraphic script may look small on a food package — but behind it stands a federal system, laws carrying fines of millions of ringgit, and a single body that determines whether a product may claim to be halal in Malaysia. That body is JAKIM.

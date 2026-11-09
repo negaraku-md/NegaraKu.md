@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "hari-raya-aidilfitri" }
 related: ["songket", "batik", "hari-raya-aidilfitri"]
 keywords: ["baju Melayu", "baju kurung", "kebaya", "samping", "songkok", "cekak musang", "Teluk Belanga", "pakaian tradisional Melayu"]
+framework: history-culture
 ---
 
 ハリラヤや結婚式の準備をしている男性を思い浮かべてほしい。ゆったりとした上衣はすでに着て、ズボンもすでに履いた——しかしまだ終わっていない。残っているのは、身支度が完全に整って見えるか、それとも中途半端に見えるかを左右する二つのもの、すなわち腰に巻くsampingの布と、頭にかぶるsongkokである。この二つがなければ、baju Melayuはまだ本当のbaju Melayuとは言えない。

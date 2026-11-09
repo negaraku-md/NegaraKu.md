@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "trade-descriptions-act-2011" }
 related: ["jakim"]
 keywords: ["pensijilan halal Malaysia", "SPHM", "JAKIM halal", "MYeHALAL", "MS 1500", "logo halal Malaysia", "sijil halal", "e-Cert halal", "Manual Prosedur Pensijilan Halal Malaysia", "skim pensijilan halal"]
+framework: how-to
 ---
 
 Le logo halal en étoile à huit branches, avec une écriture arabe en son centre, compte parmi les marques les plus reconnaissables des rayons de supermarchés malaisiens — et une seule partie dans tout le pays a le droit de l'y apposer. Ni le fabricant du produit, ni un conseiller privé, ni aucun organisme de certification international, mais le gouvernement lui-même, par l'intermédiaire de JAKIM et de ses homologues au niveau des États.

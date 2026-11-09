@@ -112,6 +112,7 @@ relations:
   - { rel: "governs", to: "employment" }
 related: ["labour-law-map-malaysia", "new-hire-statutory-checklist", "employee-vs-contractor-malaysia"]
 keywords: ["osha 1994 malaysia", "osh coordinator malaysia", "occupational safety and health act employer duties", "safety and health committee 40 employees", "osha amendment 2022"]
+framework: rules
 ---
 
 ถาม SME ของมาเลเซียว่า OSHA ใช้บังคับกับตนหรือไม่ คำตอบมักเป็นไม่ — นั่นเป็นกฎหมายโรงงาน และเราดำเนินสำนักงาน คำตอบนั้นแก้ต่างได้จนถึงวันที่ **1 มิถุนายน 2024** มันผิดตั้งแต่นั้นเป็นต้นมา และหน้าที่ที่นายจ้างเหล่านั้นส่วนใหญ่กำลังฝ่าฝืนมีค่าใช้จ่ายสูงสุด RM50,000: การแต่งตั้งผู้ประสานงานด้านความปลอดภัยและอาชีวอนามัยเมื่อคุณมีคนห้าคน

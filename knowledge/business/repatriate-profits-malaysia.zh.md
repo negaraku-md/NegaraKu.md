@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "foreign-exchange-policy-malaysia" }
 related: ["foreign-exchange-policy-malaysia", "foreign-ownership-malaysia"]
 keywords: ["repatriate profits malaysia", "dividend withholding tax malaysia", "single tier system malaysia", "2% dividend tax malaysia", "remit profits to parent company"]
+framework: explainer
 ---
 
 外国创办人来到这里时，预期会有一项股息预扣税，因为几乎每一个可比的司法管辖区都有。

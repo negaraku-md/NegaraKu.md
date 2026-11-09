@@ -90,6 +90,7 @@ verificationNeeded:
   - "Si el mee Jawa de Penang es realmente un plato distinto del mee rebus o un nombre regional de lo mismo, y su característica salsa más dulce y con tono de tomate: verificar con una fuente patrimonial o de historia gastronómica de Penang."
   - "El papel y la presencia relativos del taucheo (pasta de soja fermentada) frente a una base de gambas secas en la salsa, que varía según la región y el cocinero (al parecer algunas versiones omiten el taucheo): verificar con varias fuentes de recetas o culinarias."
   - "La afirmación de que Johor Bahru es la 'capital del mee rebus' y el uso de caldo de ternera en la salsa de Johor, que proceden de un reportaje antiguo de 2006: verificar con una fuente gastronómica o patrimonial de Johor actual."
+framework: explainer
 ---
 
 Pide mee rebus en Malasia y te dan un plato, no un cuenco de sopa: fideos amarillos asentados en una salsa espesa y brillante del color del café flojo, salpicados de huevo, tofu y una rodaja de guindilla de un verde vivo. La primera cucharada es levemente dulce, luego sabrosa, luego un poco picante — y un chorrito de limau kasturi corta la untuosidad. Es comida de puesto barata y que llena, y casi todas las cocinas malayas y mamak hacen su propia versión.

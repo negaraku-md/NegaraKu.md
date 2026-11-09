@@ -134,6 +134,7 @@ keywords:
   - "MCKIP Kuantan incentives"
   - "Kuantan Port free zone"
   - "ECRL completion date"
+framework: profile
 ---
 
 ECER ialah koridor yang melakukannya dengan betul. Sementara Koridor Utara menyampaikan insentif

@@ -66,6 +66,7 @@ faq:
     a: 'Porque que una sola categoría de productos sostenga aproximadamente la mitad de la base exportadora concentra el riesgo de tres maneras. Ciclicidad: los semiconductores viven auges y caídas, de modo que un sector que creció un 69,2% en un año puede contraerse bruscamente. Posición en la cadena: el ensamblaje y la prueba de la parte final son más disputables que la fabricación, así que los competidores pueden crear la misma capacidad. Geopolítica: los controles de exportación y las políticas de relocalización (reshoring) redactados en otras economías recaen directamente sobre las plantas malasias.'
   - q: ¿Por qué es Penang, en concreto, el centro de la industria de chips de Malasia?
     a: Se remonta a una decisión de política de 1972. Penang estableció una zona de libre comercio y atrajo a empresas electrónicas extranjeras con incentivos fiscales, importación de componentes libre de aranceles y una mano de obra disponible. Empresas de semiconductores estadounidenses y japonesas montaron operaciones de ensamblaje, y se formó un clúster. Los clústeres se afianzan con el tiempo —proveedores, mantenimiento de equipos, ingenieros formados localmente—, y por eso medio siglo después Penang y Kulim siguen concentrando buena parte del sector.
+framework: profile
 ---
 
 ## De un vistazo

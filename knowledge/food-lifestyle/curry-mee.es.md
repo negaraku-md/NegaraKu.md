@@ -91,6 +91,7 @@ verificationNeeded:
   - "La afirmación de que Penang usa 'curry mee' precisamente para evitar la confusión con el asam laksa: es una explicación muy repetida en los medios gastronómicos, más que una etimología documentada; confírmela con una fuente lingüística o patrimonial."
   - "La relación entre el 'curry mee' de KL/el centro y el 'curry Hokkien mee' / Hokkien mee de Penang: la denominación y si se trata del mismo cuenco varían según la localidad; confírmelo con una fuente local."
   - "Si la leche de coco (santan) es imprescindible en todo curry mee: algunas versiones de Penang se describen como más claras y menos cremosas ('curry mee blanco'); confirme el abanico con una fuente culinaria de Penang."
+framework: explainer
 ---
 
 Pida "curry mee" en George Town y le servirán un cuenco suave y fragante de

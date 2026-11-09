@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "public-healthcare-system" }
 related: []
 keywords: ["OKU", "tarjeta OKU", "atención sanitaria OKU", "PDK", "rehabilitación de base comunitaria", "dispositivos de apoyo", "JKM", "KKM", "EPOKU", "BTB"]
+framework: explainer
 ---
 
 Una sola tarjeta de plástico determina si un niño con autismo recibe terapia temprana, o si un adulto que ha perdido una pierna puede costearse una prótesis. En Malasia, esa tarjeta OKU es la puerta de entrada a casi todos los servicios y formas de ayuda diseñados para personas con discapacidad, y entender cómo funciona ahorra tiempo, dinero y tratamientos retrasados.

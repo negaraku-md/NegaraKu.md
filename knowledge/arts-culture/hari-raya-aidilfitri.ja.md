@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-malaysia" }
 related: ["balik-kampung", "kampung", "public-holidays-malaysia", "religion-statistics"]
 keywords: ["Hari Raya Aidilfitri", "1 Syawal", "balik kampung", "duit raya", "rumah terbuka", "ziarah kubur", "zakat fitrah", "cuti umum Aidilfitri"]
+framework: history-culture
 ---
 
 ラマダン最後の夜、国じゅうが一斉に動き出したかのようになる。南北を結ぶ高速道路は何時間も渋滞し、バスターミナルはバッグや菓子の容器で埋め尽くされ、都市部から辺境の村（kampung）に至るまで、家々の軒先には灯明（pelita）がともる。翌日、シャワル月1日（1 Syawal）——1か月にわたる断食が終わり、マレーシアはハリラヤ・アイディルフィトリ（Hari Raya Aidilfitri）を迎える。

@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "str-cash-aid" }
 related: ["i-saraan-epf-voluntary-contribution", "epf-socso-employees", "income-tax-individuals", "str-cash-aid"]
 keywords: ["i-Saraan", "i-Saraan Plus", "KWSP", "PERKESO", "Lindung Kendiri", "pekerja gig", "bekerja sendiri", "Akta Pekerja Gig 2025", "Akta 872", "SKSPS", "freelancer"]
+framework: explainer
 ---
 
 Habiskan hidup memandu e-hailing atau menerima kerja freelance, dan satu perkara tidak berlaku secara automatik: tiada sesiapa memotong gaji anda untuk KWSP atau PERKESO. Bagi pekerja berjawatan tetap, caruman itu berlaku di belakang tabir setiap bulan. Bagi anda yang bekerja sendiri, jaring keselamatan itu tidak wujud sehingga anda membinanya sendiri — dan pada 2026, sebahagian daripadanya baru sahaja bertukar daripada pilihan kepada kewajipan.

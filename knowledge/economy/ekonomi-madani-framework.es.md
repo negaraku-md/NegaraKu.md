@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "subsidy-rationalisation-padu" }
 related: ["malaysia-plans", "new-industrial-master-plan-2030", "national-energy-transition-roadmap-netr", "subsidy-rationalisation-padu"]
 keywords: ["Ekonomi MADANI", "MADANI Economy framework", "Ekonomi MADANI Memperkasa Rakyat", "MADANI values acronym", "Malaysia economic framework Anwar", "MADANI economy seven targets", "Malaysia MADANI"]
+framework: explainer
 ---
 
 El 27 de julio de 2023, pocos meses después de asumir el cargo, Anwar Ibrahim se levantó no para anunciar un presupuesto o un único proyecto, sino para darle a la economía de Malasia una historia que contar sobre sí misma.

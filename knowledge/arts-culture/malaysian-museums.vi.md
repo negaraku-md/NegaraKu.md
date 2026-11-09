@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "orang-asli" }
 related: ["unesco-world-heritage", "peranakan", "orang-asli"]
 keywords: ["Muzium Negara", "Islamic Arts Museum Malaysia", "IAMM", "Perak Museum Taiping", "Sarawak Museum", "Sabah Museum", "Malaysia state museums"]
+framework: history-culture
 ---
 
 Hỏi phần lớn khách tham quan xem bảo tàng nào là lâu đời nhất Malaysia, và họ sẽ đoán Muzium Negara — tòa nhà mái kiểu cung điện làm điểm neo cho dãy bảo tàng của Kuala Lumpur. Họ sẽ lệch mất tám mươi năm. Danh hiệu ấy thuộc về một phòng trưng bày khiêm tốn ở Taiping, được xây khi khu đất của Muzium Negara vẫn còn bị người tiền nhiệm của nó chiếm giữ.

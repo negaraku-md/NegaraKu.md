@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["tamil-in-malaysia", "deepavali", "thaipusam"]
 keywords: ["Bharatanatyam", "Indian classical dance Malaysia", "Temple of Fine Arts", "Sutra Dance Theatre", "Ramli Ibrahim", "Malaysian Indian dance", "nritta nritya", "Carnatic music", "Malaysia Barathanatyam Dance Association"]
+framework: history-culture
 ---
 
 舞者的双脚以急促而精准的节奏踏击地面。铃铛随着 mridangam 鼓的鼓点齐鸣。她的双手比出一个形状——一头鹿、一朵莲花、一个问号——她的目光追随着手势，随后她的面容以一种观众应当去感受、而不只是去观看的情感作出回应。接着节奏收束，她定格于一个如雕塑般的姿态，音乐归于寂静。

@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "mbrs-2" }
 related: ["sdn-bhd-filing-calendar", "financial-statements-lodgement", "ssm-late-lodgement-fees", "mbrs-2", "statutory-registers", "appoint-company-secretary", "close-a-company"]
 keywords: ["الإقرار السنوي ماليزيا", "annual return Malaysia", "المادة 68 قانون الشركات 2016", "section 68 Companies Act 2016", "الموعد النهائي للإقرار السنوي SSM", "الإقرار السنوي في سنة التأسيس", "الإقرار السنوي مقابل البيانات المالية"]
+framework: rules
 ---
 
 شيئان يُخطَأ فيهما بهذا الإيداع أكثر من أي شيء آخر. الأول توقيته من نهاية

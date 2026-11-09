@@ -111,6 +111,7 @@ relations:
   - { rel: "compares-with", to: "stamp-duty-self-assessment" }
 related: ["tax-audit", "tax-penalties", "tax-clearance", "stamp-duty-self-assessment", "rpgt-rates"]
 keywords: ["tax appeal Malaysia", "Form Q LHDN", "borang Q rayuan", "Special Commissioners of Income Tax", "Pesuruhjaya Khas Cukai Pendapatan", "section 99 Income Tax Act", "Form N extension of time", "Prosiding Resolusi Pertikaian"]
+framework: how-to
 ---
 
 பெரும்பாலான மலேசிய வரி மேல்முறையீடுகளைத் தீர்மானிக்கும் ஒற்றை உண்மை,

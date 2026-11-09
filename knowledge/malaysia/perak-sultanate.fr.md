@@ -62,6 +62,7 @@ social:
 verificationNeeded:
   - "La date exacte à laquelle le système rotatif de succession par titres fut établi pour la première fois : les sources narratives font remonter ses origines au XVIIe siècle mais ne donnent aucune date de fondation unique et faisant autorité ; l'ordre moderne repose sur une décision du 25 février 1953."
   - "L'année de fondation précise est conventionnellement donnée comme 1528 (l'année de la mort de Mahmud Shah de Melaka à Kampar), mais certaines généalogies placent l'installation de Muzaffar Shah Ier quelques années plus tôt ou plus tard."
+framework: history-culture
 ---
 
 Lorsque Melaka tomba sous les canons portugais en 1511, la dynastie qui avait rendu le détroit célèbre ne mourut pas avec la ville. Son dernier sultan, Mahmud Shah, se retira vers le haut de l'archipel et laissa deux fils ; l'un refonderait la lignée royale en aval à Johor, l'autre porterait l'ancienne couronne de Melaka vers le nord, jusqu'à une vallée paisible parcourue par une rivière dont les bancs de sable scintillaient d'étain. Ce royaume septentrional devint le Perak, et près de cinq siècles plus tard il est toujours gouverné par la même lignée, désormais par un sultan dont le trône se transmet non de père en fils mais le long d'une échelle mouvante de princes. Voici l'histoire de la façon dont une dynastie vaincue survécut, s'enrichit grâce à l'étain, perdit sa souveraineté au profit de la Grande-Bretagne par un seul traité, et perdura jusqu'à nos jours.

@@ -80,6 +80,7 @@ social:
     - PrivateSchool
     - EducationMalaysia
     - MalaysiaLicensing
+framework: how-to
 ---
 
 Membuka sebuah pusat tuisyen atau sekolah swasta kelihatan, dari luar, seperti menyewa sebuah rumah kedai, mengambil guru yang baik dan mencetak sepanduk. Di Malaysia ia tidak begitu. Pendidikan ialah aktiviti yang dikawal selia, dan mendaftarkan sebuah syarikat dengan SSM — langkah yang paling ramai pengendali kali pertama fikirkan sebagai "memulakan perniagaan" — hanya memberikan anda sebuah entiti undang-undang. Ia tidak memberikan anda hak untuk mengajar seorang pelajar berbayar pun.

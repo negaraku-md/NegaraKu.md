@@ -91,6 +91,7 @@ verificationNeeded:
   - "L'affirmation selon laquelle le chee cheong fun aurait été apporté en Malaya par des immigrants du Guangdong au XIXe siècle —— les médias gastronomiques la répètent mais ne donnent ni date ferme ni document primaire. À confirmer auprès d'une source d'histoire migratoire ou culinaire."
   - "La division régionale entre les versions « sèche » (sauce rouge sucrée) et « humide » (sauce au curry ou aux champignons) d'Ipoh, et si la sauce aux champignons est une signature propre à Ipoh ou partagée avec Kuala Lumpur. À confirmer auprès d'une source du Perak ou locale."
   - "Si l'association avec le yong tau foo de Kuala Lumpur emploie par défaut une sauce à base de haricot sucrée, par rapport au curry ou au soja —— les sources décrivent plusieurs assaisonnements et la pratique locale varie d'un étal à l'autre."
+framework: explainer
 ---
 
 Commandez un « chee cheong fun » à George Town et vous obtiendrez des rouleaux frais

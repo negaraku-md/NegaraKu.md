@@ -77,6 +77,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["Thara", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 고유의 노점 음식 전통과 동의어처럼 여겨지는 도시 조지타운에서, 태국 음식점은 가장

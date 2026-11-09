@@ -75,6 +75,7 @@ relations:
   - { rel: "part-of", to: "directors-duties" }
 related: ["appoint-resign-director", "directors-duties", "register-of-directors"]
 keywords: ["remove a director Malaysia", "section 206 Companies Act 2016", "written resolution remove director", "pecat pengarah syarikat", "section 297 written resolution Malaysia", "special notice remove director"]
+framework: how-to
 ---
 
 과반수 주주는 표를 가지고 있습니다. 비서는 이사를 해임하는 서면결의를 작성하고,

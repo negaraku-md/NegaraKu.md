@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "data-breach-notification-malaysia" }
 related: ["online-safety-act-malaysia", "debt-recovery-malaysia", "data-breach-notification-malaysia"]
 keywords: ["laporan polis", "cara buat laporan polis", "e-reporting PDRM", "997 NSRC", "999 kecemasan", "Seksyen 107 Kanun Tatacara Jenayah"]
+framework: how-to
 ---
 
 Mobil Anda dibobol, dompet dirampok, atau uang berpindah keluar rekening tanpa izin — dalam ketiga keadaan itu, dokumen pertama yang akan diminta oleh setiap pihak berikutnya, baik asuransi, bank, maupun pengadilan, adalah nomor laporan polisi Anda. Tahu cara mendapatkannya dengan benar, dan dalam urutan yang benar, menghemat berjam-jam dan terkadang menyelamatkan uang Anda.

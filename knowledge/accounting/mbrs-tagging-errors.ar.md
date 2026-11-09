@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "sdn-bhd-bookkeeping" }
 related: ["mbrs-2-filing-guide", "mbrs-2", "financial-statement-pack", "sdn-bhd-bookkeeping", "mfrs-vs-mpers"]
 keywords: ["خطأ وسم MBRS", "تحقق SSMxT", "فشل التحقق من XBRL ماليزيا", "خطأ mTool", "MBRS مرفوض", "الوسم بالكتلة النصية SSM", "مقياس decimals في MBRS", "MBRS tagging error"]
+framework: explainer
 ---
 
 الإخفاق الذي يكلّف مالًا ليس هو الذي يمنع توليد الملف. بل هو الذي يُولَّد نظيفًا، ويُودَع نظيفًا، ويحمل رقمًا خاطئًا بمقدار ألف ضعف.

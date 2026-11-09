@@ -84,6 +84,7 @@ relations:
   - { rel: "compares-with", to: "malaysian-citizenship-by-naturalisation" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["kewarganegaraan", "pendaftaran", "Perkara 15", "pasangan asing", "Perlembagaan Persekutuan", "JPN", "warganegara Malaysia"]
+framework: explainer
 ---
 
 Marrying a Malaysian citizen does not by itself make a person a citizen. For foreign spouses and for the child of a citizen, the route commonly referred to is "registration" — one of the ways of acquiring citizenship listed in Part III of the Federal Constitution. This page explains that legal framework in a neutral and descriptive way; it is not legal advice.

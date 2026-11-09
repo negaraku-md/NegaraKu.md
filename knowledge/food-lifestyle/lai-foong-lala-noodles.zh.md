@@ -69,6 +69,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["LaiFoongLalaNoodles", "BibGourmand", "MichelinGuideMalaysia", "KualaLumpur", "MalaysianFood"]
+framework: profile
 ---
 
 Lai Foong Lala Noodles 是一家位于吉隆坡老城中心 Jalan Sultan 的中式面食专门店，已在

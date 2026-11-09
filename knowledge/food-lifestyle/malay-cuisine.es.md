@@ -95,6 +95,7 @@ verificationNeeded:
   - "La afirmación de que el arroz solo se convirtió en el alimento básico cotidiano malayo relativamente tarde (con el sagú predominante antes de aproximadamente el siglo XV) se apoya en relatos de historiadores de la alimentación; confírmela con una fuente histórica primaria o académica."
   - "Si la «Cultura del desayuno de Malasia» —inscrita en la Lista Representativa de la UNESCO en diciembre de 2024— debe enmarcarse como reconocimiento específico de la cocina malaya y no de la mesa de desayuno multiétnica; es la primera entrada del país relacionada con la alimentación en la UNESCO y es explícitamente multicultural."
   - "Los límites regionales precisos de los perfiles de sabor (p. ej., que la costa este sea «más dulce» o que el sur prefiera salsas ricas en coco) son generalizaciones; confirme la atribución de platos concretos con fuentes locales."
+framework: history-culture
 ---
 
 Siéntese a una comida malaya y su forma queda clara antes de probar nada: un

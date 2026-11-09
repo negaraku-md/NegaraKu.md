@@ -89,6 +89,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage", "minimum-wage-malaysia"]
 keywords: ["overtime pay malaysia", "overtime rate malaysia", "45 hour week malaysia", "rest day pay malaysia", "public holiday pay malaysia", "104 hours overtime"]
+framework: rules
 ---
 
 多数加班指南停在「正常 1.5×、休息日 2×、公共假期 3×」。这套

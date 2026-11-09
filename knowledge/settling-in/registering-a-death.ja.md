@@ -56,6 +56,7 @@ relations:
   - { rel: "related-to", to: "jpn" }
 related: ["jpn", "mykad"]
 keywords: ["daftar kematian Malaysia", "sijil kematian JPN", "borang JPN.LM02", "pendaftaran kematian JPN", "sijil kematian waris", "pusaka kecil JKPTG", "tempoh daftar kematian Malaysia"]
+framework: how-to
 ---
 
 銀行が死者の口座を凍結できるようになる前、KWSP（EPF）がその積立金を払い出せる

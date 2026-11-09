@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malaysia FTA", "CPTPP Malaysia", "RCEP Malaysia", "free trade agreement", "MITI", "tariff elimination", "ASEAN Free Trade Area", "bilateral FTA"]
+framework: explainer
 ---
 
 La mayor parte de las importaciones y exportaciones de Malasia cruzan fronteras donde los aranceles ya se han negociado a la baja. Esa red se ha ido ensamblando acuerdo a acuerdo desde principios de la década de 1990 — desde el Área de Libre Comercio de la ASEAN hasta los dos megaacuerdos, RCEP y CPTPP, que hoy se sitúan en su centro.

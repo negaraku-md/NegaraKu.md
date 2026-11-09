@@ -80,6 +80,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: explainer
 ---
 
 Setiap tahun, sekitar waktu belahan dunia lainnya memasuki musim dingin, pantai timur Malaysia bersiap-siap. Perahu-perahu ditarik ke darat, resor pulau menutup pintunya, pusat bantuan banjir disiapkan, dan keluarga-keluarga di kota dataran rendah mengawasi sungai. Inilah **monsun timur laut** — pengaruh tunggal terbesar terhadap cuaca Malaysia, dan alasan mengapa negara ini secara efektif memiliki musim hujan tersendiri alih-alih hujan tropis yang seragam sepanjang tahun.

@@ -129,6 +129,7 @@ relations:
   - { rel: "compares-with", to: "malaysia-singapore-relations" }
 related: ["malaysia-singapore-relations"]
 keywords: ["hubungan Malaysia Indonesia", "serumpun", "pekerja migran Indonesia", "One Channel System", "Pulau Sebatik", "Ambalat", "Sipadan Ligitan", "sempadan Malaysia Indonesia", "Perundingan Tahunan"]
+framework: explainer
 ---
 
 这两个国家共享同一种语言、同一个宗教与同一个起源——却也共享着婆罗洲上最长的陆地边界、苏拉威西海海床下的油矿，以及数以百万计跨境谋生的工人。马来西亚—印尼关系并非寻常的外交关系；它是一段错综复杂的家庭关系，其中的亲近本身既是合作之源，也是紧张之因。

@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["formation-of-malaysia-1963", "singapore-separation-1965", "ma63"]
 keywords: ["Konfrontasi", "Konfrontasi Indonesia Malaysia", "Ganyang Malaysia", "Perjanjian Jakarta 1966", "pembentukan Malaysia 1963", "Sukarno Suharto"]
+framework: history-culture
 ---
 
 มาเลเซียถือกำเนิดเมื่อวันที่ 16 กันยายน 1963 เข้าสู่ภูมิภาคที่ไม่ได้ต้อนรับมันอย่างสันติ ประเทศเพื่อนบ้านที่ใหญ่กว่ามากได้ประกาศการคัดค้านของตนแล้ว และภายในไม่กี่เดือน พรมแดนบอร์เนียวใหม่นั้นก็กลายเป็นแนวหน้าของความขัดแย้งด้วยอาวุธที่ไม่เคยถูกประกาศอย่างเป็นทางการว่าเป็นสงคราม แต่ดำเนินไปเกือบสี่ปี ความขัดแย้งนั้นเป็นที่รู้จักในชื่อคอนฟรอนตาซี

@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "sst-expansion-2025" }
 related: ["sst-expansion-2025"]
 keywords: ["private hospital Malaysia", "private hospital bill", "specialist consultation fee Malaysia", "guarantee letter hospital", "hospital deposit Malaysia", "itemised bill private hospital", "Act 586", "National Specialist Register", "private healthcare costs Malaysia"]
+framework: explainer
 ---
 
 You go in for one procedure and walk out with what feels like two bills stapled together. One is from the surgeon. One is from the hospital. They rarely match in size, and almost nobody explains why they're separate in the first place.

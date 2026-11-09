@@ -91,6 +91,7 @@ verificationNeeded:
   - "Apakah kopitiam Malaysia biasanya membumbui telur setengah matang dengan kecap asin pekat atau kecap asin encer — sumber-sumber tepercaya tidak sependapat (kebanyakan menggambarkan kecap asin pekat dengan merica putih; sebagian menggambarkan kecap asin encer), dan praktiknya dapat berbeda menurut kedai dan wilayah."
   - "Asal-usul persis kaya — tradisi serikaya Melayu, pengaruh sericaia Portugis, dan penularannya kepada para jurumasak Hainan semuanya dikutip oleh sejarawan kuliner yang berbeda; perlakukan asal-usul ini sebagai masih diperdebatkan alih-alih sudah pasti."
   - "Periode persis ketika kedai kopi Hainan mapan secara khusus di Malaya — rentang tahun 1920-an–1950-an yang umum dikutip dan kisah sarapan Nanyang sebagian besar berasal dari sumber warisan yang berpusat di Singapura."
+framework: history-culture
 ---
 
 Di seluruh Malaysia, hari sering dimulai dengan cara yang sama: sebuah meja berlapis marmer, secangkir

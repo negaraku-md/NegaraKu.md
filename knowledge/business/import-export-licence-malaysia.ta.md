@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "hs-code-classification-malaysia" }
 related: ["sales-and-service-tax"]
 keywords: ["import licence Malaysia", "export permit Malaysia", "Approved Permit AP", "SIRIM import permit", "MAQIS permit", "customs registration Malaysia", "ePermit", "uCustoms", "MyTRADELINK"]
+framework: rules
 ---
 
 உங்கள் கன்டெய்னர் Port Klang-இல் நிற்கிறது, அது நகராது — ஏனெனில் விலைப்பட்டியலுக்கும் சரக்குப் பட்டியலுக்கும் இடையே எங்கோ ஒரு அனுமதி காணாமல் போயுள்ளது. மலேசியாவில், சுவரில் மாட்டி வைக்கக்கூடிய ஒற்றை "இறக்குமதி-ஏற்றுமதி உரிமம்" என்று எதுவும் இல்லை. பொருட்களை விடுவிப்பது ஒரு *அடுக்கு* பதிவுகள் மற்றும் அங்கீகாரங்கள்தான், ஒவ்வொன்றும் வெவ்வேறு அமைப்பால் உடைமையாக்கப்பட்டு, ஒவ்வொன்றும் நீங்கள் உண்மையில் அனுப்புவதற்கு ஏற்ப அமைந்துள்ளது.

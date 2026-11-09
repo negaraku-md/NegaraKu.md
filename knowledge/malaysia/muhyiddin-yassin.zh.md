@@ -67,6 +67,7 @@ sources:
 
 related: ["sheraton-move-2020", "prime-ministers-of-malaysia", "2022-general-election", "ismail-sabri-yaakob", "mahathir-mohamad"]
 keywords: ["慕尤丁·雅辛", "Mahiaddin Md Yassin", "马来西亚第八任首相", "Perikatan Nasional", "BERSATU"]
+framework: profile
 ---
 
 > **草稿——敏感。** 本文为中立、仍在撰写中的摘要，尚未经审阅以供发布。它涉及

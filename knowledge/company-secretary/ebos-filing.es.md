@@ -102,6 +102,7 @@ relations:
   - { rel: "explained-in", to: "ebos" }
 related: ["beneficial-ownership", "bo-register", "ebos", "who-is-a-beneficial-owner", "annual-return"]
 keywords: ["e-BOS filing Malaysia", "lodge beneficial ownership SSM", "Practice Directive 9/2024", "SSM4U e-BOS", "beneficial ownership 14 days"]
+framework: how-to
 ---
 
 La presentación es la parte que todo el mundo recuerda, porque produce un acuse de

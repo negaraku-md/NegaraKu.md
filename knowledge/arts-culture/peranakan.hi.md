@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["unesco-world-heritage", "batik"]
 keywords: ["Peranakan", "Baba-Nyonya", "Straits Chinese", "Nyonya cuisine", "Nyonya kebaya", "Melaka George Town heritage"]
+framework: history-culture
 ---
 
 Melaka की Heeren Street पर किसी पुराने नगर-भवन में प्रवेश कीजिए, और कहानी किसी के एक शब्द कहने से पहले ही वस्तुओं में कह दी जाती है। सामने तीन टुकड़ों वाले सोने के ब्रोच से पिन की हुई एक कसी हुई फीतेदार (lace) ब्लाउज़। चप्पलों की एक जोड़ी जिसके अगले भाग हज़ारों नन्ही काँच की मनकों से ढके हैं, प्रत्येक हाथ से टाँकी गई। एक लंबी संगमरमर-शीर्ष मेज़ ऐसे भोजन के लिए सजी है जो न पूरी तरह चीनी है, न पूरी तरह मलय। ये सब Peranakan — Baba-Nyonya — की हैं, वह समुदाय जिसने दो दुनियाओं के बीच जीकर एक संस्कृति रच दी।

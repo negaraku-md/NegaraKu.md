@@ -72,6 +72,7 @@ social:
     - MSME
     - GoDigital
     - MalaysiaMADANI
+framework: explainer
 ---
 
 Banyak usaha kecil tahu bahwa mereka *sepatutnya* beralih ke sistem titik penjualan yang layak, menjalankan akun dalam perangkat lunak dan bukan buku catatan, atau mulai menjual daring — tetapi biaya di muka alat itulah yang selalu menyebabkan ia ditunda. Geran Digital PMKS Madani dibangun untuk menyingkirkan separuh dari biaya itu. Ia adalah **hibah pendamping**: gunakan alat digital yang disetujui, dan pemerintah membayar separuh tagihan hingga batas, sementara Anda membayar sisanya.

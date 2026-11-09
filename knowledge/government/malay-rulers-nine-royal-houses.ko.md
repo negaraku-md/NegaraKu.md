@@ -85,6 +85,7 @@ relations:
   - { rel: "explained-in", to: "federal-constitution-malaysia" }
 related: ["yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["raja melayu", "sultan", "yang di-pertuan besar", "raja perlis", "pewarisan takhta", "raja berperlembagaan", "adat perpatih", "perlembagaan negeri", "majlis raja-raja"]
+framework: explainer
 ---
 
 하나의 연방 이면에서, 말레이시아는 나라 그 자체보다 오래된 아홉 개의 왕위를 간직하고 있습니다. 각각은 고유한 왕실, 계승 관습, 주 헌법을 가지며, 각 통치자는 절대 군주가 아니라 입헌 군주로서 자기 주를 다스립니다.

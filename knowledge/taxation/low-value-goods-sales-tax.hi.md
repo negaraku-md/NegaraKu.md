@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["sales-tax-explained", "customs-import-duty", "sst-registration"]
 keywords: ["low value goods", "LVG sales tax", "online shopping tax Malaysia", "10% sales tax imported goods", "MyLVG", "cukai jualan barang bernilai rendah", "RMCD low value goods"]
+framework: explainer
 ---
 
 वर्षों तक, किसी विदेशी वेब-स्टोर से मँगाया गया RM500 से कम का कोई गैजेट आपके दरवाज़े पर कर-मुक्त पहुँचता था। 1 जनवरी 2024 से, ऐसा नहीं होता।

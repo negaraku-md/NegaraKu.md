@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "parliament", "dewan-rakyat", "dewan-negara", "yang-di-pertuan-agong"]
 keywords: ["Jemaah Menteri", "مجلس الوزراء الماليزي", "Cabinet Malaysia", "رئيس الوزراء الماليزي", "Prime Minister", "المادة 43 من الدستور الاتحادي", "Article 43", "ثقة أغلبية مجلس النواب", "المسؤولية الجماعية", "Yang di-Pertuan Agong", "Article 40(2)"]
+framework: explainer
 ---
 
 لا يضع أيّ ناخب في ماليزيا علامةً على ورقة اقتراع مكتوب عليها «رئيس الوزراء».

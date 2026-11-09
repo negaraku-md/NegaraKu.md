@@ -76,6 +76,7 @@ social:
     - CP204
     - CP500
     - ByrHASiL
+framework: how-to
 ---
 
 Jika sebuah bil cukai tiba yang tidak dapat anda jelaskan dalam satu bayaran, pihak berkuasa cukai Malaysia tidak lagi mengharuskan anda beratur di cawangan untuk mengatur ansuran. Sejak Mac 2025 anda boleh memohon dalam talian, dalam beberapa klik, menerusi **e-Ansuran** di portal MyTax — dan mendapat kelulusan secara automatik. Tetapi "membayar cukai secara ansuran" di Malaysia sebenarnya bermaksud tiga perkara yang berbeza, dan mengelirukannya adalah tempat orang tersilap. Berikut ialah cara e-Ansuran berfungsi, dan bagaimana ia berbeza daripada skim ansuran CP500 dan CP204.

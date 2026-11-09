@@ -112,6 +112,7 @@ relations:
   - { rel: "governs", to: "employment" }
 related: ["labour-law-map-malaysia", "new-hire-statutory-checklist", "employee-vs-contractor-malaysia"]
 keywords: ["osha 1994 malaysia", "osh coordinator malaysia", "occupational safety and health act employer duties", "safety and health committee 40 employees", "osha amendment 2022"]
+framework: rules
 ---
 
 OSHA தமக்குப் பொருந்துமா என்று ஒரு மலேசிய SME-யிடம் (சிறு மற்றும் நடுத்தர நிறுவனம்)

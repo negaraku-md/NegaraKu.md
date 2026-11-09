@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "consumer-protection-act-1999" }
 related: ["court-hierarchy"]
 keywords: ["tuntutan kecil", "small claims", "mahkamah majistret", "aturan 93", "borang 198", "saman hutang", "tanpa peguam"]
+framework: how-to
 ---
 
 誰かがあなたに対してRM3,000の借金があり、返済を拒み、すべての電話を無視している。弁護士を選任すれば、借金そのものよりも高くつくかもしれない。ここに**少額請求**手続が存在する理由がある：ごく普通の人が小さな紛争を裁判所へ持ち込めるように特別に設計された道——自分ひとりで、安く、そして弁護士のガウンなしで。

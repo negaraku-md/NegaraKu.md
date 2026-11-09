@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-malaysia" }
 related: ["balik-kampung", "kampung", "public-holidays-malaysia", "religion-statistics"]
 keywords: ["Hari Raya Aidilfitri", "1 Syawal", "balik kampung", "duit raya", "rumah terbuka", "ziarah kubur", "zakat fitrah", "cuti umum Aidilfitri"]
+framework: history-culture
 ---
 
 La dernière nuit du Ramadan, le pays tout entier semble se mettre en mouvement d'un seul coup. L'autoroute Nord–Sud est bloquée pendant des heures, les gares routières se remplissent de sacs et de boîtes de biscuits, et des lampes pelita s'allument sur les vérandas, des villes jusqu'aux coins les plus reculés du kampung. Le lendemain, 1er Syawal, un mois de jeûne s'achève — et la Malaisie célèbre le Hari Raya Aidilfitri.

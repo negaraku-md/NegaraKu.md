@@ -89,6 +89,7 @@ verificationNeeded:
   - "Pan mee ớt khô được 'phát minh' cụ thể tại Restoran Kin Kin hay, rộng hơn, ở khu Chow Kit của Kuala Lumpur — Wikipedia đặt nguồn gốc ở Chow Kit, trong khi quy cho Kin Kin lan truyền rộng trên truyền thông ẩm thực và blog công thức nhưng không được ghi chép chắc chắn."
   - "Các loại nhân tiêu chuẩn, đặc biệt là liệu nấm mèo (chứ không phải nấm đông cô khô hay nấm khác) có phải là truyền thống — các công thức và quán uy tín khác nhau; hãy đối chiếu với nguồn ẩm thực Malaysia."
   - "Mối quan hệ và cách đặt tên giữa pan mee và mee hoon kueh, cùng tuyên bố rằng các vùng nói tiếng Phúc Kiến (kể cả Singapore) ưa tên mee hoon kueh — các nguồn mô tả chúng gắn chặt với nhau hoặc là cùng một món dưới những tên phương ngữ khác nhau; hãy đối chiếu với nguồn địa phương."
+framework: explainer
 ---
 
 Bước vào một quán cà phê ở Kuala Lumpur, Seremban hay Ipoh, bạn sẽ thấy một quầy

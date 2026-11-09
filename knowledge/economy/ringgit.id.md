@@ -66,6 +66,7 @@ faq:
     a: Tidak. Malaysia mematok ringgit pada 3.80 terhadap dolar AS pada September 1998 selama Krisis Keuangan Asia, bersama kontrol modal, dan patokan itu bertahan hampir tujuh tahun. Patokan dicabut pada 2005, dan ringgit kembali ke mengambang terkelola — ditentukan pasar, dengan Bank Negara Malaysia hadir hanya untuk meredam pergerakan yang tidak tertib, bukan untuk mempertahankan suatu tingkat tertentu. Tidak ada tingkat "benar" yang resmi hari ini.
   - q: Mengapa kurs yang diberikan bank atau penukar uang saya lebih buruk daripada kurs yang diterbitkan BNM?
     a: Karena kurs rujukan USD/MYR KL dari BNM adalah tolok ukur pasar yang dihitung dari pasar antarbank, digunakan untuk kontrak dan penilaian — bukan harga eceran. Bank dan penukar uang menambahkan spread mereka sendiri di atasnya, sehingga Anda akan selalu bertransaksi pada kurs yang lebih buruk daripada kurs rujukan. Kurs rujukan adalah 4.0841 per 23 Oktober 2026, tetapi itu tolok ukur, bukan yang sebenarnya dibayar pelanggan di konter.
+framework: explainer
 ---
 
 ## Sekilas pandang

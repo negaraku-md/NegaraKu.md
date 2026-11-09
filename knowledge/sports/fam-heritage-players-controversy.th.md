@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "fifa-eligibility-rules" }
 related: []
 keywords: ["naturalisasi", "pemain warisan", "FAM", "FIFA", "CAS", "Harimau Malaya", "dokumen palsu", "Artikel 22", "Piala Asia 2027"]
+framework: explainer
 ---
 
 ผู้เล่นที่เกิดในต่างประเทศเจ็ดคนสวมเสื้อทีมชาติ Harimau Malaya ในเดือนมิถุนายน 2025 ไม่ถึงหนึ่งปีต่อมา องค์กรอนุญาโตตุลาการกีฬาสูงสุดของโลกยืนยันว่าเอกสารที่ทำให้พวกเขามีคุณสมบัติเล่นให้มาเลเซียถูกปลอมแปลง คดีนี้จุดชนวนชุดของกระบวนการทางจริยธรรมของ FIFA การอุทธรณ์ต่อศาลอนุญาโตตุลาการกีฬา (Court of Arbitration for Sport, CAS) และการแจ้งความต่อตำรวจในมาเลเซีย

@@ -70,6 +70,7 @@ sources:
 
 related: ["1mdb-scandal", "prime-ministers-of-malaysia", "2018-change-of-government", "mahathir-mohamad", "anwar-ibrahim"]
 keywords: ["Najib Razak", "Mohd Najib Abdul Razak", "sixth prime minister Malaysia", "1MDB", "SRC International"]
+framework: profile
 ---
 
 > **草稿——センシティブ。** 本稿は中立的な、作成途上の要約であり、公開に向けた審査をまだ経ていない。本稿は、執筆時点で上訴中であった法的手続きに言及しており、3R+1のテーマに触れるものであり、公開されていない。

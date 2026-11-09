@@ -95,6 +95,7 @@ verificationNeeded:
   - "Asal-usul dan penanggalan Ipoh white coffee, termasuk atribusi populer kepada para pengelola kedai kopi Hainan dan dekade tertentu mana pun (beberapa cerita menyebut tahun 1950-an) — ini bersandar pada media kuliner dan sumber anekdotal serta harus diverifikasi terhadap sejarah yang terdokumentasi."
   - "Apakah mi 'ayam-ikan teri' khas Ipoh ada sebagai hidangan bernama tersendiri, atau apakah ini merujuk pada kaldu ayam dan udang kai see hor fun (yang oleh sebagian juru masak diperdalam dengan ikan teri kering) — verifikasi terhadap sumber kuliner setempat sebelum menyatakannya sebagai hidangan terpisah."
   - "Perincian kedai dan tempat (atribusi Old Town versus New Town, kedai bernama seperti Thean Chun, Aun Kheng Lim, dan para pembuat heong peng Gunung Rapat) berubah dari waktu ke waktu; verifikasi pengelola dan lokasi terkini sebelum mengandalkannya."
+framework: history-culture
 ---
 
 Tanyakan kepada siapa pun di Malaysia di mana harus makan, cepat atau lambat

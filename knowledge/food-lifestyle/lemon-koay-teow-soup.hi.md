@@ -73,6 +73,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#LemonKoayTeowSoup", "#KoayTeowSoup", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 George Town से जलडमरूमध्य के पार, पेनांग की मुख्य भूमि पर, Lemon Koay Teow Soup ने

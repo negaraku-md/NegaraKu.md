@@ -100,6 +100,7 @@ verificationNeeded:
   - "Les méthodes de fermentation du kasam propres aux Iban (durées de fermentation, usage du riz et des feuilles de kepayang, et en quoi le kasam diffère du pekasam péninsulaire ou du balur du Sarawak)——les sources disponibles décrivent la pratique générale du Sarawak et malaise plutôt qu'une technique Iban documentée ; confirmer auprès d'une source de patrimoine culinaire ou universitaire."
   - "Si la fougère midin (Stenochlaena palustris) ne se trouve réellement qu'au Sarawak. La documentation touristique du Sarawak la dit propre à l'État, mais les sources agricoles et botaniques décrivent cette fougère comme une fougère sauvage des régions marécageuses tropicales plus largement——confirmer auprès d'une source botanique."
   - "Le rôle rituel et religieux exact du tuak lors du Gawai Dayak (offrandes aux esprits du riz ou à Petara, et service coutumier aux invités). Les récits populaires et journalistiques diffèrent dans le détail, et certains décrivent une pratique évolutive ou commercialisée——confirmer auprès d'une source anthropologique ou communautaire."
+framework: history-culture
 ---
 
 Entrez dans la cuisine d'une maison longue Iban à l'intérieur du Sarawak, et le garde-manger est en

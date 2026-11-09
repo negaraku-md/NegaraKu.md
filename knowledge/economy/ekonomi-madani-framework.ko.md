@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "subsidy-rationalisation-padu" }
 related: ["malaysia-plans", "new-industrial-master-plan-2030", "national-energy-transition-roadmap-netr", "subsidy-rationalisation-padu"]
 keywords: ["Ekonomi MADANI", "MADANI Economy framework", "Ekonomi MADANI Memperkasa Rakyat", "MADANI values acronym", "Malaysia economic framework Anwar", "MADANI economy seven targets", "Malaysia MADANI"]
+framework: explainer
 ---
 
 2023년 7월 27일, 총리직에 오른 지 몇 달 만에 안와르 이브라힘은 예산이나 단일 사업을 발표하기 위해서가 아니라, 말레이시아 경제가 스스로에 대해 들려줄 이야기를 주기 위해 일어섰습니다.

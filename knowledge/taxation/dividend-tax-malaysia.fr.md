@@ -69,6 +69,7 @@ social:
     - LHDN
     - YA2025
     - InvestingMalaysia
+framework: rules
 ---
 
 Pendant des années, la réponse à « mon dividende malaisien est-il imposé ? » était un non net — le système à palier unique imposait les bénéfices une seule fois, au niveau de la société, et versait les dividendes en franchise d'impôt. À partir de l'année d'évaluation 2025, ce n'est plus toute l'histoire pour les grands actionnaires : une personne physique dont les dividendes malaisiens dépassent RM100,000 dans une année paie désormais un impôt de 2 % sur l'excédent.

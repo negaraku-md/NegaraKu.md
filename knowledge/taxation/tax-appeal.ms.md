@@ -112,6 +112,7 @@ relations:
   - { rel: "compares-with", to: "stamp-duty-self-assessment" }
 related: ["tax-audit", "tax-penalties", "tax-clearance", "stamp-duty-self-assessment", "rpgt-rates"]
 keywords: ["rayuan cukai Malaysia", "Form Q LHDN", "borang Q rayuan", "Pesuruhjaya Khas Cukai Pendapatan", "seksyen 99 Akta Cukai Pendapatan", "Form N lanjutan masa", "Prosiding Resolusi Pertikaian"]
+framework: how-to
 ---
 
 Fakta tunggal yang menentukan kebanyakan rayuan cukai di Malaysia sebenarnya

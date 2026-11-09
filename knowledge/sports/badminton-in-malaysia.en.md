@@ -99,6 +99,7 @@ keywords:
   - "Lee Chong Wei"
   - "Lee Zii Jia"
   - "juara All England Malaysia"
+framework: history-culture
 ---
 
 In May 1992, the whole nation paused for a moment. At Stadium Negara, Kuala Lumpur, a team of young men led by the Sidek brothers defeated Indonesia to lift the Thomas Cup — and as Datuk Rashid Sidek put it, "all of Malaysia went viral and everyone wanted to play badminton." Three decades later, the trophy still has not returned. The story of Malaysian badminton is a story of early glory, a painful drought, and a champion or two carrying a nation's hopes on their shoulders.

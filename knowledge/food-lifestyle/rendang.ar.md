@@ -96,6 +96,7 @@ social:
     - "#MalaysianFood"
     - "#HariRaya"
     - "#Minangkabau"
+framework: explainer
 ---
 
 إذا مررتَ بمطبخ ملايوي في الأيام التي تسبق هاري رايا، فكثيرًا ما تسمع رندانغ قبل

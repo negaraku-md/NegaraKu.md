@@ -89,6 +89,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage", "minimum-wage-malaysia"]
 keywords: ["मलेशिया ओवरटाइम वेतन", "ओवरटाइम दर", "45-घंटे का सप्ताह", "विश्राम-दिवस वेतन", "सार्वजनिक-अवकाश वेतन", "overtime pay malaysia", "104 hours overtime", "Employment Act 1955"]
+framework: rules
 ---
 
 अधिकांश ओवरटाइम मार्गदर्शिकाएँ "1.5× सामान्य, 2× विश्राम दिवस, 3× सार्वजनिक अवकाश" पर रुक जाती हैं। वह संक्षेप विश्राम दिवस और सार्वजनिक अवकाश पर गलत है, और यह उस बात को छोड़ देता है जिसके लिए श्रम अधिकारी वास्तव में नोटिस जारी करते हैं: **इसे चुकाने की समय-सीमा।**

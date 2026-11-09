@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malaysia FTA", "CPTPP Malaysia", "RCEP Malaysia", "free trade agreement", "MITI", "tariff elimination", "ASEAN Free Trade Area", "bilateral FTA"]
+framework: explainer
 ---
 
 马来西亚的大部分进出口货物，都是在关税早已谈判下调的边境之间流动。这张网络自 1990 年代初以来一笔一笔地拼建而成——从东盟自由贸易区，到如今位居其核心的两大超级协定 RCEP 与 CPTPP。

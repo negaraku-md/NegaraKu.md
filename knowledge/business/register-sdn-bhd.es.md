@@ -137,6 +137,7 @@ keywords:
   - "cara daftar syarikat Sdn Bhd"
   - "how to open company Malaysia"
   - "CRS SSM4U registration"
+framework: how-to
 ---
 
 La mayoría de los fundadores pasan semanas preocupándose por la constitución. Suele ser lo más

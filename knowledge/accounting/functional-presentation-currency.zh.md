@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "financial-statement-pack" }
 related: ["accounting-standards-index", "financial-statement-pack", "financial-reporting-deadlines"]
 keywords: ["functional currency", "presentation currency", "MFRS 121", "IAS 21", "foreign currency translation", "MYR reporting", "MBRS", "foreign exchange"]
+framework: explainer
 ---
 
 一家在吉隆坡注册的马来西亚公司，仍然可以用美元记账——而且这样做完全正确。这让那些以为马来西亚实体因其身份就必须以令吉报送的人感到意外。在 MFRS 121 下，你用以计量的货币是一个经济事实问题，而非地理问题；而你用以列报的货币则是另一个独立的问题，各有其答案。

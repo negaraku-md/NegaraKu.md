@@ -66,6 +66,7 @@ faq:
     a: 'Karena satu kategori produk yang menanggung sekitar separuh basis ekspor memusatkan risiko dalam tiga cara. Siklus: semikonduktor bersifat naik-turun tajam, sehingga sektor yang tumbuh 69,2% dalam setahun bisa menyusut drastis. Posisi dalam rantai: perakitan dan pengujian hilir lebih mudah ditandingi daripada fabrikasi, sehingga pesaing dapat membangun kapasitas yang sama. Geopolitik: kontrol ekspor dan kebijakan pemulangan produksi (reshoring) yang disusun di perekonomian lain berdampak langsung pada pabrik-pabrik di Malaysia.'
   - q: Mengapa justru Penang yang menjadi pusat industri chip Malaysia?
     a: Hal ini berawal dari keputusan kebijakan pada tahun 1972. Penang mendirikan zona perdagangan bebas dan menggaet perusahaan elektronik asing dengan insentif pajak, impor komponen bebas bea, dan tenaga kerja yang tersedia. Perusahaan semikonduktor Amerika dan Jepang mendirikan operasi perakitan, dan terbentuklah sebuah klaster. Klaster kian mengakar seiring waktu — pemasok, perawatan peralatan, insinyur yang dilatih secara lokal — itulah sebabnya setengah abad kemudian Penang dan Kulim masih memusatkan begitu banyak bagian dari sektor ini.
+framework: profile
 ---
 
 ## Sekilas

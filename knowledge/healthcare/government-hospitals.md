@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "emergencies-999" }
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "peka-b40-and-health-schemes", "healthcare-for-seniors", "emergencies-999"]
 keywords: ["hospital kerajaan Malaysia", "caj hospital kerajaan", "sistem rujukan hospital", "caj wad kelas 3", "caj bukan warganegara hospital", "Akta Fee 1951", "hospital pakar rujukan", "masa menunggu hospital kerajaan"]
+framework: explainer
 ---
 
 Tiket giliran di tangan, nombor sudah lebih 80 orang di hadapan, dan papan

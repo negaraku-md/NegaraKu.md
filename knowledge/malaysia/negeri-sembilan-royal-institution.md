@@ -57,6 +57,7 @@ social:
 verificationNeeded:
   - "The 2025-2026 succession dispute is a developing matter with conflicting accounts; the status of the Undang of Sungai Ujong, the removal declaration of 19 April 2026, and the rival proclamation should be re-verified against official state sources before any detail is treated as settled."
   - "Exact installation/proclamation date of Tuanku Muhriz as the 11th Yang di-Pertuan Besar (commonly given as 29 December 2008) should be confirmed against the state royal portal."
+framework: history-culture
 ---
 
 In the heart of peninsular Malaysia sits a kingdom that breaks every rule of Malay monarchy. Its ruler is not born to the throne but chosen for it. Its great families trace their descent not through fathers but through mothers. And its very name, Negeri Sembilan, the "State of the Nine", remembers not a single royal house but a confederation of districts stitched together across the hills of the interior. To understand how this singular institution came to be is to follow a line of Minangkabau migrants who crossed the Strait of Malacca from Sumatra, carried a custom with them, and in time sent home for a prince to rule them.

@@ -91,6 +91,7 @@ relations:
   - { rel: "compares-with", to: "akpk-debt-management-programme" }
 related: []
 keywords: ["kebankrapan", "bankrap", "insolvensi", "Akta Insolvensi 1967", "MDI", "Ketua Pengarah Insolvensi", "pelepasan bankrap", "seksyen 33C", "AKPK", "DMP"]
+framework: explainer
 ---
 
 செலுத்தப்படாத ஒரேயொரு இன்வாய்ஸ், ஒரு நபரின் வாழ்வில் கிட்டத்தட்ட ஒவ்வொரு நிதி பரிவர்த்தனையையும் மாற்றிவிடும் ஒரு நீதிமன்ற ஆணையாக முடியலாம் — அவரது வங்கிக் கணக்கிலிருந்து நாட்டைவிட்டு வெளியேறுவதற்கான அனுமதி வரை. மலேசியாவில், அந்தப் பிரிவினைக் கோட்டை ஒரேயொரு சட்டம் வரையறுக்கிறது: Insolvency Act 1967 (Act 360). இந்தக் கட்டுரை எந்தப் பக்கமும் சாராமல், நடைமுறையை விவரிக்கும் வகையில் எடுத்துரைக்கிறது.

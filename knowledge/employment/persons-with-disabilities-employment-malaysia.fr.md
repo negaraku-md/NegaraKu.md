@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["employment-act-1955", "socso-perkeso"]
 keywords: ["OKU", "orang kurang upaya", "Akta 685", "Seksyen 29", "kuota 1%", "Kad OKU", "potongan cukai berganda", "pekerjaan inklusif"]
+framework: explainer
 ---
 
 De nombreux OKU qualifiés en Malaisie font face à un véritable écart dans l'accès aux opportunités d'emploi et aux entretiens — et c'est cet écart que la loi tente de combler. La Malaisie dispose depuis 2008 d'un cadre de droits au travail pour les personnes en situation de handicap (OKU), auquel s'ajoutent des incitations fiscales pour les employeurs, et pourtant les chiffres de recrutement restent en deçà de l'objectif. Ce guide explique ce que la loi exige réellement, et ce que les employeurs peuvent demander.

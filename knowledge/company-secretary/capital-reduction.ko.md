@@ -111,6 +111,7 @@ relations:
   - { rel: "related-to", to: "dividends-and-solvency" }
 related: ["dividends-and-solvency", "share-allotment", "share-capital-malaysia", "written-resolutions", "resolution-notice-periods"]
 keywords: ["capital reduction Malaysia", "solvency statement section 117", "reduce share capital Sdn Bhd", "section 116 court confirmation", "creditor objection six weeks"]
+framework: decision
 ---
 
 말레이시아의 회사 비서 관련 콘텐츠는 납입자본을 고정된 숫자로 취급합니다 — 설립

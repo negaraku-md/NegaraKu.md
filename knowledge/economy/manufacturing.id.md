@@ -82,6 +82,7 @@ faq:
     a: Tidak — itu salah kutip yang umum. Survei Ketenagakerjaan Triwulanan DOSM hanya menghitung perusahaan sektor swasta terdaftar, 9.21 juta pekerjaan pada K4 2025, dan 2.54 juta pada manufaktur adalah 27.5% dari subset itu. Survei ini tidak mencakup sektor publik, pekerja mandiri, dan kerja informal, sehingga pangsa manufaktur dari seluruh orang yang bekerja secara material jauh lebih rendah. Gunakan Survei Angkatan Kerja (Labour Force Survey) untuk pertanyaan itu.
   - q: Jika pangsa PDB datar, bukankah manufaktur hanya terjebak mengerjakan pekerjaan perakitan bernilai rendah?
     a: 'Data produktivitas berpendapat sebaliknya. Nilai tambah manufaktur mencapai RM59.0 per jam kerja pada 2025 dibandingkan RM42.0 pada jasa — sekitar 40% lebih tinggi per jam, dan kira-kira sepertiga di atas rata-rata nasional RM44.5. Pangsa yang datar sebagian adalah soal aritmetika: jasa tumbuh lebih cepat (5.4% versus 4.5% manufaktur), sehingga pangsa sektor yang lebih kecil turun meskipun keluarannya naik. Komposisi di dalam manufaktur sedang bergeser, sesuatu yang tidak dapat ditunjukkan oleh pangsa PDB.'
+framework: explainer
 ---
 
 ## Sekilas pandang

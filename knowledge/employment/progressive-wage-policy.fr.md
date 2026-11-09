@@ -143,6 +143,7 @@ entity: The Progressive Wage Policy (Dasar Gaji Progresif)
 related:
   - minimum-wage-malaysia
 sourceContentHash: "ccffdcacb9538b8a"
+framework: explainer
 ---
 
 ## Ce qu'est — et n'est pas — la politique de salaire progressif

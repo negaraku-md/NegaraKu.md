@@ -119,6 +119,7 @@ keywords:
   - "halal certification Malaysia"
   - "food handler certificate Malaysia"
   - "liquor licence Malaysia"
+framework: rules
 ---
 
 ใบอนุญาตร้านอาหารไม่มีอยู่ สิ่งที่มีอยู่คือชุดของการอนุมัติแยกต่างหากห้าหรือหกฉบับจากหน่วยงานสี่หรือห้าแห่ง ประกอบตามลำดับที่เฉพาะ และอันที่มักทำให้การเปิดสะดุดที่สุดไม่ใช่ใบอนุญาตอาหารเลย — มันคือป้าย

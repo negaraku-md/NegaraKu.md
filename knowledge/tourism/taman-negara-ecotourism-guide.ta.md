@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "gunung-tahan" }
 related: ["orang-asli"]
 keywords: ["taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
+framework: explainer
 ---
 
 விடியற்காலையில் Kuala Tahan படகுத்துறையில் நின்று, இமயமலையை விடப் பழமையான ஒரு ஆற்றிலிருந்து மூடுபனி எழுவதைப் பார்க்கும்போது, நீங்கள் Kuala Lumpur-இலிருந்து அரை நாள் தூரத்தில்தான் இருக்கிறீர்கள் என்பதை மறந்துவிடுவது எளிது. Taman Negara என்பது செயற்கையாக உருவாக்கப்பட்ட ஈர்ப்பு அல்ல. இது பல கோடி ஆண்டுகளாக பெருமளவில் தொந்தரவின்றி நிலைத்திருக்கும் ஒரு உயிர்ப்புள்ள வெப்பமண்டல மழைக்காடு — அதனுள் நுழைவது கிட்டத்தட்ட எந்தப் பயணியும் எதிர்பார்ப்பதை விட மலிவானதும் எளிதானதும் ஆகும்.

@@ -103,6 +103,7 @@ relations:
   - { rel: "part-of", to: "gdp-overview" }
 related: ["palm-oil-sector", "rubber", "gdp-overview"]
 keywords: ["sektor pertanian Malaysia", "agromakanan Malaysia", "Dasar Agromakanan Negara", "kadar sara diri makanan", "KPKM", "KPK", "minyak sawit padi getah", "keterjaminan makanan Malaysia"]
+framework: profile
 ---
 
 Năm 2024, Malaysia sản xuất hơn 100 triệu tấn buồng quả tươi của cọ — khoảng 100.2 triệu tấn theo Cục Thống kê Malaysia (DOSM) — đủ để duy trì vị trí trong số hai nhà sản xuất dầu cọ lớn nhất thế giới. Cùng năm đó, đất nước này nhập khẩu gần một nửa lượng gạo mà người dân của mình tiêu thụ.

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "tamil-vernacular-schools" }
 related: ["tamil-vernacular-schools", "chinese-clan-associations", "chinese-language-press", "languages-spoken", "population-composition"]
 keywords: ["马来西亚华文教育", "华小", "SJKC", "国民型华文小学", "华文独立中学", "独中", "统考", "UEC", "董教总", "董总", "教总", "新纪元大学学院", "南方大学学院", "韩江", "Chinese education in Malaysia"]
+framework: explainer
 ---
 
 Sáng sớm, trên sân một trường tiểu học Hoa vang lên tiếng Hoa, tiếng Mã Lai và tiếng Anh hòa quyện vào nhau; cách đó vài bang, trong hội trường một trường trung học tư thục Hoa (独中), học sinh đang chuẩn bị cho kỳ thi UEC (统考) cuối năm; còn ở Johor và Penang, những trường cao đẳng đại học phát triển từ hệ thống giáo dục Hoa văn đang đón lứa sinh viên mới. Những khung cảnh này đều thuộc về một dòng mạch — giáo dục Hoa văn ở Malaysia — nhưng nằm ở các cấp khác nhau, chịu những cách tài trợ và sắp đặt pháp lý khác nhau.

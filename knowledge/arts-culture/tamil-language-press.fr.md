@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "estate-tamil-community", "tamil-vernacular-schools", "chinese-language-press", "languages-spoken"]
 keywords: ["மலேசியத் தமிழ்ப் பத்திரிகைகள்", "தமிழ் நாளிதழ்கள் மலேசியா", "மலேசிய நண்பன்", "மக்கள் ஓசை", "தமிழ் நேசன்", "மின்னல் FM", "Tamil-language press in Malaysia", "Tamil newspapers Malaysia"]
+framework: history-culture
 ---
 
 Un journal tamoul accompagnant le café ou le thé du matin à la boutique du coin : pour une génération de la communauté tamoule de Malaisie, c'était une image familière. Ces pages ne portaient pas seulement les nouvelles du jour, mais aussi les annonces des fêtes de temple, les nouvelles des écoles tamoules, les vœux de mariage, les avis de décès et les critiques de films tamouls — la vie quotidienne de toute une communauté, imprimée sur le papier.

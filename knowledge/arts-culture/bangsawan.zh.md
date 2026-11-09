@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["bangsawan", "opera Melayu", "teater Parsi", "Wayang Parsi", "Pushi Indera Bangsawan", "teater peralihan", "filem Melayu"]
+framework: history-culture
 ---
 
 在电影出现之前，就有了灯火通明的舞台、手绘的幕布，以及一支能够在同一晚的演出中，从舒缓的马来宫廷曲调切换到中东节奏的乐队。那就是班沙湾——曾是马来半岛城市里最热闹的娱乐形式，后来又把自己的演员和歌手交给了新生的马来电影业。

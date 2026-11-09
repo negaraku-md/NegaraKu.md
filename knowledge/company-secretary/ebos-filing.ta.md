@@ -100,6 +100,7 @@ relations:
   - { rel: "explained-in", to: "ebos" }
 related: ["beneficial-ownership", "bo-register", "ebos", "who-is-a-beneficial-owner", "annual-return"]
 keywords: ["e-BOS filing Malaysia", "lodge beneficial ownership SSM", "Practice Directive 9/2024", "SSM4U e-BOS", "beneficial ownership 14 days"]
+framework: how-to
 ---
 
 சமர்ப்பிப்பைத்தான் எல்லோரும் நினைவில் வைத்திருக்கிறார்கள், ஏனெனில் அது ஒரு

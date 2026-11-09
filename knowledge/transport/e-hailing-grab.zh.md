@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "jpj" }
 related: []
 keywords: ["e-hailing Malaysia", "Grab regulation Malaysia", "PSV licence e-hailing", "APAD e-hailing vehicle permit", "how does Grab work Malaysia", "e-hailing driver licence Malaysia"]
+framework: explainer
 ---
 
 在吉隆坡打开 Grab、Bolt 或 inDrive，点一下「预订」。那一刻感觉不出任何监管的痕迹。

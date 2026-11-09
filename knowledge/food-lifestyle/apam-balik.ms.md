@@ -88,6 +88,7 @@ verificationNeeded:
   - "Hubungan tepat antara apam balik dengan martabak manis / terang bulan Indonesia (sama ada ia benar-benar hidangan yang sama atau perkembangan serantau yang berbeza) — sahkan dengan rujukan masakan yang boleh dipercayai."
   - "Penyebaran dan pemetaan tepat nama-nama serantau (ban jian kueh, min chiang kueh, hok lo pan, kuih haji, apom balek dan lain-lain) kepada komuniti dan dialek tertentu — sahkan dengan sumber linguistik atau warisan; penisbahan nama dalam media makanan tidak konsisten."
   - "Sama ada versi nipis dan rangup itu seumumnya item yang sama dengan ban jian kueh / min chiang kueh atau juadah yang berkait tetapi berbeza — sumber bertindih tetapi tidak konsisten; sahkan dengan sumber warisan tempatan."
+framework: explainer
 ---
 
 Berjalanlah di hampir mana-mana [pasar malam](/ms/food-lifestyle/pasar-malam-and-street-food)

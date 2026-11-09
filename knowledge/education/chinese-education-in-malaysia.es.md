@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "tamil-vernacular-schools" }
 related: ["tamil-vernacular-schools", "chinese-clan-associations", "chinese-language-press", "languages-spoken", "population-composition"]
 keywords: ["马来西亚华文教育", "华小", "SJKC", "国民型华文小学", "华文独立中学", "独中", "统考", "UEC", "董教总", "董总", "教总", "新纪元大学学院", "南方大学学院", "韩江", "Chinese education in Malaysia"]
+framework: explainer
 ---
 
 Al amanecer, en el patio de una escuela primaria china resuenan, entremezclados, el mandarín, el malayo y el inglés; a unos cuantos estados de distancia, en el salón de actos de una escuela secundaria independiente china (独中), los estudiantes se preparan para el UEC (统考) de fin de año; y en Johor y Penang, los colegios universitarios surgidos del sistema de educación china reciben a una nueva promoción. Todas estas escenas pertenecen a una misma corriente —la educación china en Malasia—, pero se sitúan en niveles distintos, bajo distintas formas de financiación y distintos arreglos jurídicos.

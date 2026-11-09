@@ -58,6 +58,7 @@ relations:
   - { rel: "governs", to: "employment-contract-malaysia" }
 related: ["unfair-dismissal-malaysia", "employment-contract-malaysia", "termination-of-employment-malaysia"]
 keywords: ["probation malaysia", "terminate probationer malaysia", "confirmation of employment malaysia", "probation period malaysia law", "extend probation malaysia"]
+framework: explainer
 ---
 
 "He is still on probation, so we can just let him go." That sentence has produced more

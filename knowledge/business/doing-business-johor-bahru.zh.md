@@ -121,6 +121,7 @@ keywords:
   - "Johor Bahru premise licence fee"
   - "JS-SEZ Johor Bahru"
   - "foreign property purchase Johor"
+framework: profile
 ---
 
 新山是马来西亚唯一一座工资底线、人力规划与交付时程全都由一个你并不在其中经营的国家所设定的城市。

@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "personal-income-tax" }
 related: ["real-property-gains-tax"]
 keywords: ["ضريبة الميراث ماليزيا", "estate duty Malaysia", "لا ضريبة ميراث", "ضريبة دخل تركة المتوفى", "RPGT inherited property", "ضريبة الدمغة على الميراث", "stamp duty inheritance", "ضريبة الوفاة ماليزيا", "death tax Malaysia"]
+framework: explainer
 ---
 
 حين يتوفى والد في كوالالمبور ويترك منزلًا وبعض المدخرات، يكون أول ما يقلق الأسرة غالبًا فاتورة ضريبية على الميراث نفسه. وفي ماليزيا، تلك الفاتورة تحديدًا غير موجودة. فلا ضريبة ميراث، ولا ضريبة تركات، ولا ضريبة وفاة على الثروة التي يخلّفها المرء.

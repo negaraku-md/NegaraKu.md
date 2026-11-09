@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "mfrs-vs-mpers" }
 related: ["financial-statement-pack", "financial-year-end", "mfrs-vs-mpers", "mbrs-2-filing-guide"]
 keywords: ["NSRF Malaysia", "IFRS S1 S2 मलेशिया", "स्थिरता रिपोर्टिंग मलेशिया", "बड़ी गैर-सूचीबद्ध कंपनी RM2 बिलियन", "Scope 1 Scope 2 आश्वासन मलेशिया", "ACSR", "स्थिरता रिपोर्टिंग समय-रेखा", "sustainability reporting Malaysia"]
+framework: rules
 ---
 
 स्थिरता रिपोर्टिंग मलेशिया में एक संचार विषय के रूप में पहुँची और एक लेखांकन विषय बनती जा रही है। राष्ट्रीय स्थिरता रिपोर्टिंग ढाँचा किसी चमकदार रिपोर्ट की माँग नहीं करता। यह IFRS S1 और IFRS S2 को **आधारभूत प्रकटन मानकों** के रूप में अपनाता है, रिपोर्टिंग अवधि के अनुसार एक अंगीकरण समय-रेखा निर्धारित करता है, और Scope 1 तथा Scope 2 उत्सर्जन पर **उचित आश्वासन (reasonable assurance)** — अंकेक्षण राय के समान स्तर — को लक्षित करता है।

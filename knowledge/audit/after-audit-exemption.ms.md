@@ -106,6 +106,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.245"
     consequence: "Fine up to RM500,000 or imprisonment up to three years or both"
+framework: rules
 ---
 
 Setiap post kedua mengenai Arahan Amalan 10/2024 menjual gagasan yang sama:

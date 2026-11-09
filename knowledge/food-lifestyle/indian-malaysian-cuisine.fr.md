@@ -92,6 +92,7 @@ verificationNeeded:
   - "Si l'appellation « mamak » dérive spécifiquement du mot tamoul désignant l'oncle maternel (maa-ma), et la remarque selon laquelle le terme peut avoir une connotation péjorative — à confirmer auprès d'une source en langue tamoule ou lexicographique."
   - "La date à laquelle Brickfields a été officiellement désignée comme la « Little India » de Kuala Lumpur (les sources donnent à la fois 2009 et 2010) et l'emplacement antérieur de Little India près de Jalan Masjid India — à confirmer auprès d'une source de la mairie de Kuala Lumpur (DBKL) ou d'une autorité touristique."
   - "L'implantation commerciale Chulia / tamoule-musulmane ancienne dans les ports du Détroit (Penang, Melaka) en tant que communauté distincte de la main-d'œuvre de plantation ultérieure — à confirmer auprès d'une source d'histoire de Penang ou du Détroit, car les entrées d'encyclopédie générale traitent les deux ensemble."
+framework: history-culture
 ---
 
 Demandez ce que « cuisine indienne » veut dire en Malaisie et vous obtiendrez

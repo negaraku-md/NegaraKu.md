@@ -75,6 +75,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-digital-services", "withholding-tax-non-compliance"]
 keywords: ["CP37", "CP37A", "CP37D", "CP37DS", "CP37S", "withholding tax form Malaysia", "LHDN withholding tax payment form"]
+framework: data-reference
 ---
 
 没有人是从付款的说明去挑预扣税表格的。你先确定条文，表格自然就掉出来。条文弄错，表格也会跟着错，而那正是一笔算得正确的缴款最后挂在错误税负下的原因。

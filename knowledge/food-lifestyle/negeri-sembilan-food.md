@@ -94,6 +94,7 @@ verificationNeeded:
   - "Whether masak lemak cili api ever contains coconut milk in meaningful quantity versus 'cili api' simply meaning very spicy — sources agree coconut milk (lemak) is central, but the exact balance and whether a spice paste is sautéed (tumis) varies by family and cook; confirm against a Negeri Sembilan culinary source."
   - "How Negeri Sembilan's rendang differs from the broader Malaysian/Minangkabau rendang (some sources say it leans more on ginger, galangal, lemongrass and coconut milk than on a heavy dry-spice blend) — confirm with a local or scholarly culinary source."
   - "The precise regional attribution of daging salai to specific towns such as Pedas and Rembau, and whether smoking traditionally uses a particular wood — confirm with a local source."
+framework: explainer
 ---
 
 Order food in Seremban or Rembau and one colour keeps returning to the table: a

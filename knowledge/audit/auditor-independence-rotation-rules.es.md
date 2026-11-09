@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "statutory-audit-process" }
 related: ["appointing-an-auditor", "changing-auditors", "statutory-audit-process", "audit-fees-malaysia"]
 keywords: ["independencia del auditor", "rotación de socios", "periodo de enfriamiento", "entidad de interés público", "By-Laws de la MIA", "Artículo 540", "servicios distintos de auditoría", "amenaza de autorrevisión", "auditor independence", "partner rotation", "MIA By-Laws", "Section 540"]
+framework: rules
 ---
 
 Un socio de auditoría que lleva una década firmando las cuentas de la misma sociedad cotizada sabe dónde está enterrado cada esqueleto — y ese es precisamente el problema. Cuanto más larga es la relación, más difícil le resulta a un observador externo razonable creer que la opinión es verdaderamente independiente. Malasia responde a ese riesgo con un plazo rígido y una pausa obligatoria.

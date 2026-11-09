@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["service-tax-act-2018", "withholding-tax-digital-services", "low-value-goods-sales-tax", "sst-registration"]
 keywords: ["service tax on digital services", "SToDS Malaysia", "digital service tax Malaysia 8%", "foreign registered person FRP", "MySToDS DST-01 DST-02", "cukai perkhidmatan digital", "foreign SaaS tax Malaysia", "online services service tax"]
+framework: explainer
 ---
 
 Netflixの領収書に記載された項目、会社のAWS請求書にかかる税、CanvaやAdobeのサブスクリプションに上乗せされた数リンギット——これらはマレーシアのある特定の税が働いている姿であり、その税にはほとんどの人が聞いたことのない名前がある。SToDSである。

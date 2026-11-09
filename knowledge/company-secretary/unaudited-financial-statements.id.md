@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "mbrs-2" }
 related: ["audit-exemption", "financial-statements-lodgement", "mbrs-2", "sdn-bhd-filing-calendar", "mfrs-vs-mpers"]
 keywords: ["penyata kewangan tidak diaudit Malaysia", "sijil pengecualian audit", "Practice Directive 10/2024 pemfailan", "failkan akaun tidak diaudit SSM", "sijil syarikat persendirian dikecualikan seksyen 260"]
+framework: rules
 ---
 
 Memenuhi syarat untuk pengecualian audit terasa seperti akhir suatu masalah

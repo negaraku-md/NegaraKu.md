@@ -66,6 +66,7 @@ faq:
     a: Non. La Malaisie a arrimé le ringgit à 3.80 pour un dollar américain en septembre 1998 pendant la crise financière asiatique, avec des contrôles des capitaux, et cet arrimage a tenu près de sept ans. Il a été supprimé en 2005, et le ringgit est revenu à un flottement géré — déterminé par le marché, la Banque Negara Malaysia (BNM) n'intervenant que pour lisser les mouvements désordonnés et non pour défendre un niveau donné. Il n'existe aujourd'hui aucun niveau « correct » officiel.
   - q: Pourquoi le taux que me donne ma banque ou mon bureau de change est-il moins bon que le taux publié par la BNM ?
     a: Parce que le taux de référence USD/MYR de KL de la BNM est un indice de marché calculé à partir du marché interbancaire, utilisé pour les contrats et la valorisation — ce n'est pas un prix de détail. Les banques et les bureaux de change ajoutent leur propre écart (spread) par-dessus, de sorte que vous traiterez toujours à un taux moins favorable que le taux de référence. Le taux de référence était de 4.0841 au 23 octobre 2026, mais c'est l'indice, et non ce qu'un client paie réellement au guichet.
+framework: explainer
 ---
 
 ## En un coup d'oeil

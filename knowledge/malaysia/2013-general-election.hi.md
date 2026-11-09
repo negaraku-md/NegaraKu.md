@@ -65,6 +65,7 @@ sources:
 
 related: ["najib-razak", "anwar-ibrahim", "barisan-nasional", "2018-change-of-government", "how-elections-work"]
 keywords: ["GE13", "2013 आम चुनाव मलेशिया", "Barisan Nasional", "Pakatan Rakyat", "लोकप्रिय वोट"]
+framework: history-culture
 ---
 
 > **मसौदा — संवेदनशील।** यह लेख एक तटस्थ, कार्य-प्रगति-में सारांश है और इसे प्रकाशन

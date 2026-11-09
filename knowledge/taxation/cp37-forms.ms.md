@@ -75,6 +75,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-digital-services", "withholding-tax-non-compliance"]
 keywords: ["CP37", "CP37A", "CP37D", "CP37DS", "CP37S", "borang cukai pegangan Malaysia", "borang bayaran cukai pegangan LHDN"]
+framework: data-reference
 ---
 
 Tiada siapa memilih borang cukai pegangan berdasarkan penerangan bayaran. Seksyen

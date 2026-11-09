@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "local-government-in-malaysia" }
 related: []
 keywords: ["pentadbiran daerah", "pejabat daerah", "pegawai daerah", "mukim", "pentadbir tanah", "daerah pentadbiran", "Kanun Tanah Negara"]
+framework: explainer
 ---
 
 Entre el estado por el que votas y el pueblo donde vives hay una capa de gobierno que rara vez se menciona y, sin embargo, es la que más encuentras al tramitar asuntos de tierras, proyectos de desarrollo o asistencia de emergencia: el distrito. Es aquí donde la política estatal se convierte en servicios reales, y su centro es la Oficina de Distrito.

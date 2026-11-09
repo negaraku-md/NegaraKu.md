@@ -74,6 +74,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-digital-services", "withholding-tax-non-compliance"]
 keywords: ["CP37", "CP37A", "CP37D", "CP37DS", "CP37S", "withholding tax form Malaysia", "LHDN withholding tax payment form"]
+framework: data-reference
 ---
 
 பணம் செலுத்துதலின் விளக்கத்திலிருந்து யாரும் நிறுத்திவைப்பு வரி (withholding tax)

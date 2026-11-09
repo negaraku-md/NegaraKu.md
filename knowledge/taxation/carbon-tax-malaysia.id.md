@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "national-energy-transition-roadmap" }
 related: []
 keywords: ["Malaysia carbon tax", "carbon pricing Malaysia", "iron steel energy carbon tax", "National Carbon Market Policy", "Climate Change Bill Malaysia", "cukai karbon"]
+framework: explainer
 ---
 
 Malaysia sedang bersiap-siap untuk menetapkan harga atas karbon untuk pertama kalinya, dan ia dimulai dengan industri yang mengeluarkan emisi paling banyak.

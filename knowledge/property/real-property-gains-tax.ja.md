@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "stamp-duty" }
 related: []
 keywords: ["RPGT", "cukai keuntungan harta tanah", "CKHT", "LHDN", "pelupusan hartanah", "kadar RPGT", "pengecualian RPGT"]
+framework: rules
 ---
 
 家を売って利益を得た——しかしその金が口座に入る前に、政府はその取り分を求める。それがRPGTであり、決済の場で弁護士が数千リンギットを留保するまで、売主がしばしば見落としている税である。

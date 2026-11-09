@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "national-energy-transition-roadmap" }
 related: []
 keywords: ["ضريبة الكربون ماليزيا", "تسعير الكربون", "ضريبة كربون الحديد الصلب الطاقة", "carbon tax Malaysia", "carbon pricing Malaysia", "National Carbon Market Policy", "Climate Change Bill Malaysia", "cukai karbon"]
+framework: explainer
 ---
 
 تستعد ماليزيا لتسعير الكربون للمرة الأولى، وهي تبدأ بالصناعات الأعلى انبعاثاً.

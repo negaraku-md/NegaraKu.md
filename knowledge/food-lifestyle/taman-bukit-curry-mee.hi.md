@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#CurryMee", "#Penang", "#SeberangPerai", "#BibGourmand", "#Malaysia"]
+framework: profile
 ---
 
 पेनांग की अधिकांश MICHELIN प्रसिद्धि जॉर्ज टाउन द्वीप की गलियों में सिमटी है। Taman

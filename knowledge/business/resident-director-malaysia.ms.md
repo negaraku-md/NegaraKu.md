@@ -112,6 +112,7 @@ keywords:
   - "pengarah bermastautin biasa"
   - "pengarah Sdn Bhd milik asing"
   - "resident director Malaysia"
+framework: explainer
 ---
 
 Cuba cari cara memperbadankan syarikat Malaysia sebagai warga asing dan anda akan

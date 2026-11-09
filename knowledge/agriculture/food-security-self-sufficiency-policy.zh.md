@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
 related: []
 keywords: ["keterjaminan makanan", "tahap sara diri", "SSL", "SSR", "Dasar Agromakanan Negara", "DAN 2.0", "food security Malaysia", "beras"]
+framework: explainer
 ---
 
 根据《2024 年农业普查》，在马来西亚每消费一公斤稻米中，约有 400 克是进口米。这一数字概括了国家的粮食安全挑战：一个农业国家仍在进口其主粮的很大一部分。

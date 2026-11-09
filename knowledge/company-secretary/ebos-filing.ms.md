@@ -101,6 +101,7 @@ relations:
   - { rel: "explained-in", to: "ebos" }
 related: ["beneficial-ownership", "bo-register", "ebos", "who-is-a-beneficial-owner", "annual-return"]
 keywords: ["pemfailan e-BOS Malaysia", "failkan pemilikan benefisial SSM", "Practice Directive 9/2024", "SSM4U e-BOS", "pemilikan benefisial 14 hari"]
+framework: how-to
 ---
 
 Pemfailan adalah bahagian yang paling diingati semua orang, kerana ia

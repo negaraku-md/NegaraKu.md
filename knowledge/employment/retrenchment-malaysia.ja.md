@@ -121,6 +121,7 @@ relations:
   - { rel: "requires", to: "termination-benefits-malaysia" }
 related: ["termination-of-employment-malaysia", "termination-benefits-malaysia", "unfair-dismissal-malaysia", "offboarding-statutory-checklist"]
 keywords: ["retrenchment malaysia", "form pk malaysia", "borang pk", "redundancy malaysia procedure", "retrenchment notification 30 days", "VSS malaysia", "LIFO retrenchment malaysia"]
+framework: rules
 ---
 
 PKフォームの期限を検索すると、「30日」という表現が、それだけで答えのすべてであるかのように、マレーシアの数十のHRページで繰り返し登場するのが見つかるだろう。それは答えのおよそ三分の一にすぎない。様式そのもの——マレー半島労働局（JTKSM）が公表する実際のPDF——は**三つの独立した期限**を定めており、そのうち二つは整理解雇がすでに実施された*後*に到来する。

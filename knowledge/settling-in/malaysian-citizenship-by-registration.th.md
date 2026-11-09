@@ -84,6 +84,7 @@ relations:
   - { rel: "compares-with", to: "malaysian-citizenship-by-naturalisation" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["kewarganegaraan", "pendaftaran", "Perkara 15", "pasangan asing", "Perlembagaan Persekutuan", "JPN", "warganegara Malaysia"]
+framework: explainer
 ---
 
 การสมรสกับพลเมืองมาเลเซียไม่ได้ทำให้บุคคลนั้นกลายเป็นพลเมืองโดยตัวมันเอง สำหรับคู่สมรสชาวต่างชาติและสำหรับบุตรของพลเมือง ช่องทางที่มักกล่าวถึงคือ "การจดทะเบียน" — หนึ่งในวิธีการได้มาซึ่งสัญชาติที่ระบุไว้ในภาค III ของรัฐธรรมนูญสหพันธ์ หน้านี้อธิบายกรอบทางกฎหมายนั้นอย่างเป็นกลางและเชิงพรรณนา; ไม่ใช่คำแนะนำทางกฎหมาย

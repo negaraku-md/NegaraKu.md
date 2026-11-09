@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "appoint-resign-director" }
 related: ["disclosure-of-interest", "director-shareholding-notification", "appoint-resign-director", "remove-a-director", "loans-to-directors", "directors-fees-approval", "directors-report", "register-of-directors"]
 keywords: ["directors duties Malaysia", "section 213 Companies Act 2016", "director personal liability Malaysia", "business judgment rule Malaysia", "tanggungjawab pengarah syarikat", "shadow director Malaysia", "director fine RM3 million"]
+framework: rules
 ---
 
 L'amende est de trois millions de ringgit et la peine de cinq ans. Pas contre la société — contre vous. La Section 213(3) de la loi de 2016 sur les sociétés érige le manquement aux devoirs des administrateurs en infraction pénale commise par l'individu, et le même plafond réapparaît aux s.217, s.218, s.221, s.222, s.223, s.224, s.225 et s.228.

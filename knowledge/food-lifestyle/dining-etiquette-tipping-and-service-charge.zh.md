@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "sales-and-service-tax-sst-explained" }
 related: []
 keywords: ["tipping malaysia", "service charge malaysia", "service tax restaurant", "dining etiquette malaysia", "SST food and beverage"]
+framework: explainer
 ---
 
 你在吉隆坡吃完一顿美餐，账单送到桌上，总额下方多出两行陌生的项目。不，你并没有多点什么——也不，你不需要在上面再加小费。以下就是在马来西亚外出用餐真正的运作方式。

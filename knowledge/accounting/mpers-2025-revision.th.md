@@ -98,6 +98,7 @@ relations:
   - { rel: "explained-in", to: "accounting-standards-index" }
 related: ["mfrs-vs-mpers"]
 keywords: ["MPERS 2025", "MPERS revision Malaysia", "MPERS effective date 2027", "MPERS Section 34 property development", "IFRS for SMEs third edition Malaysia", "MPERS Section 23 revenue"]
+framework: explainer
 ---
 
 หากท่านเป็นผู้พัฒนาอสังหาริมทรัพย์ชาวมาเลเซียที่รายงานภายใต้ MPERS ข้อเท็จจริงทางบัญชีที่

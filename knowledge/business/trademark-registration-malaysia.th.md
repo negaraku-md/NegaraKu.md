@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["trademark-classes-fees-malaysia", "ip-ownership-malaysia", "company-name-search-ssm"]
 keywords: ["trademark registration malaysia", "myipo trademark", "trademark fee malaysia", "trademarks act 2019", "madrid protocol malaysia", "register trademark malaysia"]
+framework: explainer
 ---
 
 การจองชื่อบริษัทที่ SSM ไม่คุ้มครองสิ่งใด มันหยุดการที่บริษัทอื่นจะจดทะเบียนภายใต้ชื่อที่คล้ายกันจนสับสน — มันไม่หยุดใครก็ตามที่ขายสินค้าภายใต้แบรนด์ของคุณ และไม่ให้อะไรแก่คุณที่จะยื่นแก่ทีมถอดรายการของตลาดกลาง นั่นคือสิ่งที่เครื่องหมายการค้ามีไว้เพื่อ และทะเบียนสองอย่างนี้ไม่มีอะไรเกี่ยวข้องกัน

@@ -92,6 +92,7 @@ relations:
   - { rel: "affects", to: "global-minimum-tax-pillar-two" }
 related: ["corporate-tax-rates", "global-minimum-tax-pillar-two", "reinvestment-allowance"]
 keywords: ["New Incentive Framework Malaysia", "NIF Malaysia tax incentive", "Pioneer Status Malaysia 2026", "Special Tax Rate Malaysia", "NIA Scorecard", "PIA 1986 deadline"]
+framework: explainer
 ---
 
 Pioneer Status đã không phai nhạt dần. Nó đóng lại, vào một buổi chiều cụ thể, với

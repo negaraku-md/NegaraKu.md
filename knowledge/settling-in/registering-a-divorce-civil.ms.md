@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "getting-married-in-malaysia" }
 related: ["getting-divorced-in-malaysia", "getting-married-in-malaysia"]
 keywords: ["civil divorce Malaysia", "Law Reform Marriage and Divorce Act 1976", "Act 164", "marriage tribunal JPN", "decree nisi", "decree absolute", "joint petition divorce", "Section 106 conciliatory body", "non-Muslim divorce Malaysia"]
+framework: explainer
 ---
 
 Pasangan bukan Islam yang mendaftarkan perkahwinan mereka di JPN sering menganggap bahawa pejabat yang sama boleh menamatkannya. Ia tidak boleh. Di Malaysia, perkahwinan sivil didaftarkan secara pentadbiran, tetapi ia dibubarkan hanya melalui perintah mahkamah — dan laluan daripada perkahwinan yang terpisah kepada dekri yang bercop menempuh sebuah tribunal perdamaian, sebuah petisyen Mahkamah Tinggi, dan jeda tiga bulan terbina dalam sebelum perceraian itu muktamad.

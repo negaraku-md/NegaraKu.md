@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "logistics-ports-industry" }
 related: ["ecer-guide", "kl-singapore-high-speed-rail", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["East Coast Rail Link", "ECRL", "Laluan Rel Pantai Timur", "Malaysia Rail Link", "CCCC railway Malaysia", "ECRL cost completion", "Kota Bharu Port Klang rail", "ECER rail"]
+framework: profile
 ---
 
 เป็นเวลาหลายทศวรรษที่เส้นทางเร็วที่สุดระหว่างกัวลาลัมเปอร์กับรัฐชายฝั่งตะวันออกคือการขับรถข้ามภูเขาเป็นระยะทางไกล เส้นทางรถไฟเชื่อมชายฝั่งตะวันออกคือการเดิมพันของมาเลเซียว่าทางรถไฟสายเดียวจะเปลี่ยนสิ่งนั้นได้ — และในกระบวนการนั้นจะช่วยปรับสมดุลว่าการเติบโตของประเทศเกิดขึ้นที่ใด

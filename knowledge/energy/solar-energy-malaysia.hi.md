@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
 related: []
 keywords: ["solar Malaysia", "NEM 3.0", "Net Energy Metering", "Large Scale Solar", "LSS5", "CGPP", "CRESS", "CREAM", "tenaga boleh baharu", "solar bumbung"]
+framework: explainer
 ---
 
 किसी घर की छत पर सौर पैनल मलेशिया में सरकारी नीति से कसकर जुड़ा एक वित्तीय निर्णय बन गए हैं। लेकिन «सौर अपनाना» इपोह में एक गृहस्वामी के लिए पासिर गुडांग में एक कारखाने या 100% हरित बिजली चाहने वाले एक डेटा सेंटर की तुलना में बहुत भिन्न अर्थ रखता है। उपभोक्ताओं के प्रत्येक समूह की अपनी योजना है।

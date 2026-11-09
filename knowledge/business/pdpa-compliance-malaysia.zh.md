@@ -139,6 +139,7 @@ relations:
   - { rel: "explained-in", to: "pdpa-registration-classes" }
 related: ["online-business-licence-malaysia"]
 keywords: ["pdpa malaysia", "personal data protection act 2010", "act a1727", "data controller malaysia", "pdpa amendment 2024", "pdpa compliance"]
+framework: rules
 ---
 
 如果你的隐私声明仍写着「资料使用者」（data user），它所描述的是一类自2025年4月1日起已不复存在的人。

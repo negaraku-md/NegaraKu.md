@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "sabah" }
 related: ["religion-statistics", "article-3-religion", "sarawak", "sabah"]
 keywords: ["Christmas in Malaysia", "Christmas Day public holiday Malaysia", "Christmas Eve Sabah holiday", "Malaysian open house Christmas", "Christians in Malaysia", "Midnight Mass Malaysia", "Holidays Act 1951 Christmas"]
+framework: history-culture
 ---
 
 12月24日の夕方、コタキナバルやクチンの教会は遅い時間の礼拝に集まる人々で満たされるが、そこから数百キロメートル離れた半島では、同じ日はごく普通の木曜日の勤務日にすぎない。翌朝、12月25日には、国中が休みになる。この分裂——同じ日付でありながら、まったく異なる二つの位置づけ——こそが、マレーシアにおけるクリスマスの立ち位置を理解する最も的確な方法である：ある一つの共同体にとっては宗教的な祭日であり、すべての人にとっては公共の祝日であり、そして信仰を問わず多くの人が参加する、扉を開いた季節でもある。

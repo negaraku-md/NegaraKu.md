@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "going-concern-audit" }
 related: ["statutory-audit-process", "audit-opinion-types", "going-concern-audit"]
 keywords: ["related party transactions", "ISA 550", "MFRS 124", "arm's length", "Bursa Chapter 10", "recurrent related party transactions", "audit risk"]
+framework: explainer
 ---
 
 A company sells crude palm oil to another company owned by its own major shareholder. Nothing on the invoice says whether that is an ordinary supply arrangement or the first step in draining value out of minority shareholders. The auditor's job is to find out which — and that is exactly what International Standard on Auditing 550, *Related Parties*, is written for.

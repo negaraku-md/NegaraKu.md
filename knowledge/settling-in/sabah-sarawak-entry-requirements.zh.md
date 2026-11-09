@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "mykad-guide" }
 related: ["immigration-act-1959-63"]
 keywords: ["masuk sabah", "masuk sarawak", "imigresen sabah sarawak", "dokumen perjalanan terhad", "pas lawatan sosial", "MA63 imigresen"]
+framework: rules
 ---
 
 从吉隆坡飞往古晋，一落地便有移民柜台在等着你——就在自己国家的境内。对许多半岛公民而言，这是他们第一次向移民官员出示身份证，却从未跨越任何国际边境。这并非行政上的失误。沙巴与砂拉越自行管制移民事务，而这套规定适用于所有人，包括马来西亚公民。

@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-labour-ordinance" }
 related: ["labour-law-map-malaysia", "employment-act-coverage", "working-hours-overtime-malaysia", "minimum-wage-malaysia"]
 keywords: ["employment act 1955", "employment act malaysia", "act 265", "employment amendment act 2022", "malaysia labour law", "45 hour week malaysia"]
+framework: data-reference
 ---
 
 打开任何一个马来西亚人力资源部落格，你仍会看到《雇佣法令》被描述为一部专为低薪工人而设的法律，

@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "hrd-corp-levy-malaysia" }
 related: ["public-vs-private-universities", "hrd-corp-levy-malaysia"]
 keywords: ["TVET Malaysia", "Sijil Kemahiran Malaysia", "SKM", "JPK Jabatan Pembangunan Kemahiran", "ILP Institut Latihan Perindustrian", "kolej komuniti Malaysia", "kolej vokasional", "politeknik Malaysia", "Akta 652", "NOSS", "DKM DLKM", "ADTEC JMTI"]
+framework: explainer
 ---
 
 นักเรียนชั้นมัธยมปีที่ 3 และผู้ปกครองจำนวนมากเห็นเพียงเส้นทางเดียวหลังจบมัธยม: SPM, STPM, ปริญญา แต่ประเทศนี้แท้จริงแล้วดำเนินระบบการศึกษาที่ครบถ้วนอีกระบบหนึ่ง — โดยมีสถาบันของตนเอง ประกาศนียบัตรของตนเอง และกฎหมายของตนเอง — ที่ไม่ค่อยได้รับการอธิบายอย่างถูกต้อง: TVET หรือการศึกษาและฝึกอบรมด้านเทคนิคและอาชีวศึกษา

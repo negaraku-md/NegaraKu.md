@@ -115,6 +115,7 @@ keywords:
   - "Selangor home business licence fee"
   - "Selangor council licensing"
   - "Port Klang TEU"
+framework: profile
 ---
 
 Kuala Lumpur có một cơ quan cấp phép. Selangor, vốn bao quanh nó, có mười hai — và một nhà máy ở

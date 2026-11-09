@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "رسوم الصيانة في ماليزيا", "maintenance fee Malaysia", "الصندوق الاحتياطي", "sinking fund Malaysia", "JMB Malaysia", "Management Corporation Malaysia", "وحدات الحصص", "محكمة إدارة الطوابق", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
+framework: explainer
 ---
 
 اشتريت الوحدة. لكنك لم تشترِ المصعد ولا كشك الحارس ولا حوض السباحة ولا الأنبوب المارّ في الجدار الذي تتشاركه مع جارك. ولا بد لأحدٍ أن يدفع ثمن كل ذلك — والقانون يقسم الفاتورة إلى حسابين أنت مُلزَم قانوناً بإبقائهما منفصلين.

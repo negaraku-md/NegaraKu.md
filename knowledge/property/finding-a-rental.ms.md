@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["employment-pass", "opening-bank-account"]
 keywords: ["rental Malaysia", "iProperty", "PropertyGuru", "Mudah", "REN Malaysia", "registered estate negotiator", "BOVAEP", "LPPEH", "estate agent Malaysia", "rental commission Malaysia", "REN Tag"]
+framework: explainer
 ---
 
 Anda menemui satu penyenaraian yang anda suka di sebuah portal, menghantar mesej ke nombor yang tertera, dan seseorang muncul untuk membuka kunci unit itu. Tiada apa-apa dalam pertukaran itu memberitahu anda sama ada orang yang menyerahkan kunci kepada anda dibenarkan secara sah untuk melakukan ini demi bayaran langsung — dan hampir tiada siapa bertanya.

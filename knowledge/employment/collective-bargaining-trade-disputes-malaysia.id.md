@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "department-of-industrial-relations-malaysia" }
 related: ["trade-unions-malaysia", "employment-act-1955"]
 keywords: ["rundingan kolektif", "perjanjian kolektif", "pertikaian perusahaan", "hak rundingan tunggal", "pengiktirafan kesatuan", "mogok", "sekat masuk", "piket", "Akta Perhubungan Perusahaan 1967", "Mahkamah Perusahaan"]
+framework: rules
 ---
 
 Seorang pekerja yang ingin pemberi kerjanya duduk semeja untuk merundingkan gaji tidak bisa sekadar meminta — ada satu alur hukum yang harus dilalui, dan setiap langkah memiliki tenggatnya sendiri. Alur itu terkandung dalam [Akta Perhubungan Perusahaan 1967](/id/law/industrial-relations-act-1967) (Akta 177), ditegakkan oleh Dinas Perhubungan Perusahaan Malaysia (JPPM), dan ia menentukan siapa yang boleh berunding, apa yang boleh dirundingkan, dan kapan tindakan perusahaan seperti mogok dibolehkan.

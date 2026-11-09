@@ -101,6 +101,7 @@ relations:
   - { rel: "part-of", to: "directors-duties" }
 related: ["financial-statements-lodgement", "unaudited-financial-statements", "directors-duties", "directors-fees-approval", "director-shareholding-notification"]
 keywords: ["directors report Malaysia", "section 252 Companies Act 2016", "Fifth Schedule directors report", "statutory declaration financial statements Malaysia", "laporan pengarah syarikat", "section 251 board approval financial statements"]
+framework: rules
 ---
 
 Start with a correction, because it changes what you do.

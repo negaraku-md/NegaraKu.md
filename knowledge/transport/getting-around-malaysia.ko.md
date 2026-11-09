@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "motor-insurance" }
 related: ["klang-valley-rail", "e-hailing-grab", "touch-n-go", "driving-licence-malaysians", "driving-licence-foreigners", "road-tax-renewal", "motor-insurance"]
 keywords: ["getting around Malaysia", "Malaysia transport overview", "public transport Malaysia", "how to travel in Malaysia", "Klang Valley transport", "domestic flights Malaysia", "driving in Malaysia", "Malaysia without a car", "KTM ETS", "express bus Malaysia"]
+framework: journey-hub
 ---
 
 쿠알라룸푸르와, 이를테면 이포(Ipoh) 두 곳에서 모두 살아 본 사람에게 어떻게

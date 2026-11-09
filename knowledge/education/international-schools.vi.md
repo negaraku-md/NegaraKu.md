@@ -91,6 +91,7 @@ keywords:
   - "Malaysian students international school quota"
   - "Education Act 1996 international school"
   - "service tax international school Malaysia"
+framework: explainer
 ---
 
 Một trường theo chương trình Anh và một trường theo chương trình Mỹ ở hai phía đối diện của cùng một thị trấn, trên giấy tờ, được cấp phép bởi chính cùng một văn phòng ở Putrajaya. Không trường nào được phép hợp pháp thu của cha mẹ một "quỹ xây dựng." Không trường nào có thể tăng phí quá 30% một lần. Và không trường nào bắt buộc phải công bố một con số duy nhất do chính Bộ đặt ra — vì với tất cả các quy tắc mà Bộ viết ra, giá thực tế của một chỗ ngồi không phải là một trong số đó.

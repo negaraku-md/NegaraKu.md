@@ -99,6 +99,7 @@ relations:
   - { rel: "explained-in", to: "accounting-standards-index" }
 related: ["mfrs-vs-mpers"]
 keywords: ["MPERS 2025", "révision MPERS Malaisie", "MPERS date d'entrée en vigueur 2027", "MPERS Section 34 promotion immobilière", "IFRS for SMEs troisième édition Malaisie", "MPERS Section 23 produits"]
+framework: explainer
 ---
 
 Si vous êtes un promoteur immobilier malaisien établissant vos comptes selon la

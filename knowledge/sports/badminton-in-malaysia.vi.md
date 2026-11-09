@@ -99,6 +99,7 @@ keywords:
   - "Lee Chong Wei"
   - "Lee Zii Jia"
   - "juara All England Malaysia"
+framework: history-culture
 ---
 
 Vào tháng 5 năm 1992, cả nước dừng lại trong chốc lát. Tại Stadium Negara, Kuala Lumpur, một đội hình các chàng trai trẻ do anh em nhà Sidek dẫn dắt đã đánh bại Indonesia để nâng Thomas Cup — và như lời Datuk Rashid Sidek, "cả Malaysia trở nên lan truyền và mọi người đều muốn chơi cầu lông". Ba thập kỷ sau, chiếc cúp đó vẫn chưa trở lại. Câu chuyện cầu lông Malaysia là câu chuyện về sự rực rỡ ban đầu, một cơn khát đau đớn, và một vài nhà vô địch mang niềm hy vọng của cả một quốc gia trên vai họ.

@@ -62,6 +62,7 @@ relations:
   - { rel: "part-of", to: "education" }
 related: []
 keywords: ["educación especial Malasia", "programa PPKI", "educación inclusiva PPI", "tarjeta OKU niños", "sekolah pendidikan khas", "apoyo a la dificultad de aprendizaje Malasia", "currículo de educación especial Malasia", "TASKA OKU"]
+framework: explainer
 ---
 
 Un diagnóstico es solo la primera conversación. La segunda — a menudo más

@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "nine-royal-houses" }
 related: ["straits-settlements", "malayan-union", "nine-royal-houses", "malay-sultanate-system"]
 keywords: ["Federated Malay States", "Unfederated Malay States", "British Resident system", "British Adviser system", "Pangkor Treaty 1874", "Resident-General Kuala Lumpur", "Anglo-Siamese Treaty 1909", "Johor General Adviser", "Malay Rulers British protection", "colonial Malaya"]
+framework: explainer
 ---
 
 九个马来州属，一个殖民宗主国——然而并非一种安排，而是两种。这一分裂正是多数关于殖民地时代马来亚的概述所略过的地方，也正是本文的全部要点。

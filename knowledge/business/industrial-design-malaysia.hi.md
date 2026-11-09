@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["patent-malaysia", "trademark-registration-malaysia", "ip-ownership-malaysia"]
 keywords: ["औद्योगिक डिज़ाइन पंजीकरण मलेशिया", "MyIPO औद्योगिक डिज़ाइन", "औद्योगिक डिज़ाइन अधिनियम 1996", "डिज़ाइन सुरक्षा मलेशिया", "industrial design registration malaysia", "myipo industrial design", "industrial designs act 1996", "design protection malaysia"]
+framework: explainer
 ---
 
 मलेशियाई उत्पाद बौद्धिक संपदा में सबसे महँगी एकल गलती है पहले लॉन्च करना। एक पेटेंट आवेदक जिसने पिछले महीने आविष्कार दिखाया था, वह अब भी ठीक है — Patents Act 1983 की धारा 14(3) बारह महीने की छूट अवधि देती है। उसी स्थिति में एक डिज़ाइन आवेदक आमतौर पर अधिकार पहले ही खो चुका होता है, क्योंकि Industrial Designs Act 1996 कोई समकक्ष छूट नहीं देता।

@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "department-of-environment-doe" }
 related: ["department-of-environment-doe", "malaysias-rainforests-and-permanent-forest-reserves"]
 keywords: ["Malaysia NDC 3.0", "net zero 2050 Malaysia", "Climate Change Act Malaysia", "National Climate Change Policy 2.0", "Paris Agreement Malaysia", "emissions trading scheme", "carbon tax Malaysia", "NRES", "UNFCCC"]
+framework: explainer
 ---
 
 Selama hampir sedekad, Malaysia mengukur janji iklimnya dengan cara yang hampir tidak dapat dirasai oleh mana-mana rakyat: pelepasan bagi setiap unit KDNK. Pada Oktober 2025, keadaan itu berubah. Negara memberitahu Pertubuhan Bangsa-Bangsa Bersatu bahawa ia akan mengurangkan jumlah tan gas rumah hijau yang tetap — 15 hingga 30 juta tan — daripada apa jua tahap puncak pelepasannya. Ini kali pertama Malaysia meletakkan angka mutlak di atas meja, dan ia membingkai semula setiap bahagian lain seni bina iklim negara di sekitar satu soalan: bagaimanakah sebuah ekonomi membangun yang pesat berkembang dan menghasilkan minyak dan gas dapat melengkungkan garis pelepasannya ke bawah tanpa tersadai?

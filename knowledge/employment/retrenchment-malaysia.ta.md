@@ -121,6 +121,7 @@ relations:
   - { rel: "requires", to: "termination-benefits-malaysia" }
 related: ["termination-of-employment-malaysia", "termination-benefits-malaysia", "unfair-dismissal-malaysia", "offboarding-statutory-checklist"]
 keywords: ["retrenchment malaysia", "form pk malaysia", "borang pk", "redundancy malaysia procedure", "retrenchment notification 30 days", "VSS malaysia", "LIFO retrenchment malaysia"]
+framework: rules
 ---
 
 Form PK-இன் காலக்கெடுவைத் தேடுங்கள், டஜன் கணக்கான மலேசிய HR பக்கங்களில் "30 நாட்கள்" என்பது முழு விடையாக இருப்பதைப் போல மீண்டும் மீண்டும் காண்பீர்கள். அது தோராயமாக விடையின் மூன்றில் ஒரு பங்கே. படிவமே — JTKSM வெளியிடும் உண்மையான PDF — **மூன்று தனித்தனி காலக்கெடுக்களை** நிர்ணயிக்கிறது, அவற்றில் இரண்டு பணிநீக்கம் ஏற்கனவே நடந்த *பிறகு* வருகின்றன.

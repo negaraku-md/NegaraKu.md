@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#MingQin", "#CharKoayTeow", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 ペナン本土側の Bukit Mertajam で、素朴な夜の麺の屋台が、一つのことを昔ながらの

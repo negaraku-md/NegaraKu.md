@@ -85,6 +85,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaCompliance
     - OSHA
+framework: rules
 ---
 
 Mendapatkan lisensi manufaktur terasa seperti garis akhir. Ia lebih dekat kepada garis awal. Lisensi itu menjawab satu pertanyaan — *bisakah perusahaan ini membuat produk ini pada skala ini?* — tetapi ia tidak mengatakan apa pun tentang bangunan tempat mesin itu berada, mesin itu sendiri, risiko kebakaran, dewan yang mengelola alamat itu, atau efluen yang mengalir ke dalam saluran air. Itulah persetujuan yang mengizinkan Anda benar-benar *mengoperasikan premis*, dan sebuah pabrik dapat memegang lisensi manufaktur yang sah sepenuhnya sambil melanggar hukum untuk diduduki atau dijalankan.

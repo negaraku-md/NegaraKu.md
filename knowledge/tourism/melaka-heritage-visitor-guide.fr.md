@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "getting-around-malaysia-public-transport" }
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["patrimoine Melaka", "patrimoine mondial UNESCO Melaka", "Jonker Street", "Baba Nyonya Peranakan Melaka", "A Famosa Porta de Santiago", "Stadthuys Dutch Square", "colline Saint-Paul Melaka", "guide de voyage Melaka"]
+framework: explainer
 ---
 
 Tenez-vous sur la Dutch Square au crépuscule et vous pouvez lire cinq siècles d'un seul regard : un hôtel de ville néerlandais rouge saumon d'un côté, les ruines d'une église de l'époque portugaise sur la colline au-dessus, une porte de pierre qui ancrait jadis une forteresse que les Britanniques ont tenté de démolir et — à deux minutes à pied — une ruelle de maisons urbaines sino-malaises désormais illuminées pour un bazar du vendredi soir. Melaka ne répartit pas son histoire sur une grande ville. Elle l'empile sur environ un mile carré que vous pouvez parcourir en une après-midi. Voici comment la lire et comment planifier une visite autour d'elle.

@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#Leens", "#BibGourmand", "#MichelinGuide", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Taman Tun Dr Ismail의 한 숍로트에서는, 간판보다 먼저 갓 구운 빵 냄새가 Leen's의

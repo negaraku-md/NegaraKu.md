@@ -145,6 +145,7 @@ relations:
   - { rel: "compares-with", to: "employment-pass-malaysia" }
 related: ["labour-law-map-malaysia", "worker-accommodation-act-446", "employment-pass-malaysia"]
 keywords: ["hiring foreign workers malaysia", "section 60k", "plks", "eppax", "fwcms", "fomema", "visa dengan rujukan", "foreign worker quota malaysia"]
+framework: how-to
 ---
 
 मलेशिया में विदेशी श्रमिकों को नियुक्त करने की लगभग हर मार्गदर्शिका कोटा से शुरू होती है। कोटा तीसरा चरण है।

@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "pidm-deposit-insurance" }
 related: ["bank-negara-malaysia", "pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["डिजिटल बैंक", "मलेशिया डिजिटल बैंक", "digital bank Malaysia", "GXBank", "Boost Bank", "AEON Bank", "Ryt Bank", "KAF Digital Bank", "PIDM", "BNM"]
+framework: explainer
 ---
 
 आप आज मलेशिया में एक बैंक खाता खोल सकते हैं, बिना एक बार भी किसी शाखा में पैर रखे, बिना किसी अधिकारी से मिले, और बिना किसी काग़ज़ी फ़ॉर्म के — यह सब आपके स्मार्टफ़ोन के ज़रिए मिनटों में हो जाता है। यही डिजिटल बैंकों का वादा है, बैंकों की एक नई श्रेणी जिसे बैंक नेगारा मलेशिया (BNM) लाइसेंस देता है और जो अब लाखों मलेशियाइयों की सेवा करते हैं।

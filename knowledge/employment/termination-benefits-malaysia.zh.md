@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "retrenchment-malaysia" }
 related: ["termination-of-employment-malaysia", "retrenchment-malaysia", "offboarding-statutory-checklist"]
 keywords: ["termination benefits malaysia", "retrenchment benefit calculation", "TBLB regulations 1980", "severance pay malaysia", "lay off benefits malaysia", "10 15 20 days wages"]
+framework: rules
 ---
 
 两家雇主在同一天裁掉同一名雇员。一家付了一个月薪水，还自认慷慨。另一家为九年服务年资的每一年支付 20 天薪金——大约是六个月的薪酬——因为法律就是这样要求的。差别在于，第二家读过 Employment (Termination and Lay-Off Benefits) Regulations 1980。

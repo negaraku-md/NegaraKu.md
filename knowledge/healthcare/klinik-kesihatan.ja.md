@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "peka-b40" }
 related: ["dental-care"]
 keywords: ["Klinik Kesihatan Malaysia", "klinik kerajaan Malaysia", "MySejahtera temujanji klinik", "PeKa B40", "penjagaan kesihatan primer Malaysia", "KKM klinik kesihatan", "klinik komuniti vs klinik kesihatan", "cara daftar klinik kesihatan"]
+framework: explainer
 ---
 
 熱が下がらない、子どもが予防接種を受ける時期になった、あるいは血圧を毎月

@@ -207,6 +207,7 @@ keywords:
   - "secrétaire de société 30 jours"
   - "liste de vérification conformité nouvelle société"
   - "post-constitution Malaisie"
+framework: journey-hub
 ---
 
 La constitution est une transaction. La conformité est un abonnement.

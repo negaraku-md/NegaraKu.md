@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "qingming-festival" }
 related: ["qingming-festival", "chinese-religion-in-malaysia", "mid-autumn-festival", "chinese-new-year"]
 keywords: ["中元节", "鬼节", "盂兰胜会", "盂兰盆", "农历七月", "鬼门开", "好兄弟", "普度", "大士爷", "鬼王", "歌台", "喊标", "标福物", "烧街衣", "金银纸", "马来西亚华人", "槟城", "Hungry Ghost Festival"]
+framework: history-culture
 ---
 
 Sebaik bulan ketujuh lunar tiba, pemandangan menjelang malam di banyak simpang jalan di Pulau Pinang, Klang dan Johor berubah secara senyap: meja kecil disusun di tepi jalan, di atasnya buah-buahan, nasi, air teh dan longgokan wang kertas emas-perak, colok dan lilin berkelip-kelip dalam keremangan senja. Di tanah lapang kejiranan, satu patung dewa kertas setinggi beberapa meter dengan wajah bengis telah didirikan, sebuah pentas pula dibina menghadapnya; selepas gelap lampu menyala terang dan suara nyanyian berkumandang — namun satu barisan penuh kerusi di hadapan pentas sentiasa kekal kosong.

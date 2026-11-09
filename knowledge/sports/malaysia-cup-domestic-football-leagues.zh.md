@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "malaysia-national-football-team" }
 related: []
 keywords: ["Liga Super", "Piala Malaysia", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "bola sepak Malaysia"]
+framework: explainer
 ---
 
 近一个世纪以来，一个单一机构——马来西亚足球总会（FAM）——主办着全国每一场联赛。后来，在一项重塑这项运动的举措中，运营联赛的权力被移交给了一家商业公司。这正是今日马来西亚国内足球运作方式的基础。

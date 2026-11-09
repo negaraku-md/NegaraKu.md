@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "seda-malaysia" }
 related: ["tenaga-nasional", "energy-commission-suruhanjaya-tenaga", "seda-malaysia"]
 keywords: ["MESI", "MESI 2.0", "electricity market reform Malaysia", "third-party access", "single buyer", "CRESS", "TNB unbundling", "retail competition electricity"]
+framework: explainer
 ---
 
 Bagi sebagian besar rakyat Malaysia, membeli listrik berarti satu tagihan dari satu perusahaan. Di balik kesederhanaan itu terletak sebuah perdebatan yang senyap dan berkepanjangan selama sedekade tentang apakah pasar daya negara ini seharusnya terlihat seperti sesuatu yang lain — dan jawabannya selalu berkisar pada "belum, tetapi sedikit lebih setiap tahun".

@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "sabah-travel-guide" }
 related: []
 keywords: ["Sipadan diving permit", "Malaysia marine park fees", "Sabah Parks", "Department of Fisheries marine park", "scuba diving Malaysia", "marine ecotourism"]
+framework: rules
 ---
 
 马来西亚最清澈的海水，恰恰也是最难抵达的：要跃入诗巴丹（Sipadan）的峭壁，你需要一张再多钱也无法直接购买的政府许可证。这一个事实道尽了这个国家如何经营其潜水旅游——准入是被配给、被定价的，并且依你想潜入哪片海而分属两个截然不同的当局。

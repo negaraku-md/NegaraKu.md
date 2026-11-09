@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-malaysia" }
 related: ["balik-kampung", "kampung", "public-holidays-malaysia", "religion-statistics"]
 keywords: ["Hari Raya Aidilfitri", "عيد الفطر", "1 Syawal", "balik kampung", "duit raya", "rumah terbuka", "ziarah kubur", "zakat fitrah", "العطلات الرسمية"]
+framework: history-culture
 ---
 
 في آخر ليلة من رمضان، تبدو البلاد كلّها وكأنها تتحرّك دفعةً واحدة. فالطريق السريع بين الشمال والجنوب (North–South Expressway) مزدحم ساعات، ومحطّات الحافلات تمتلئ بالحقائب وعُلَب الكعك، ومصابيح البيليتا (pelita) تُضاء على الشُّرُفات من المدن إلى أقاصي القرى (kampung). وفي اليوم التالي، 1 شوّال، ينتهي شهر من الصيام — وتحتفل ماليزيا بهاري رايا عيد الفطر (Hari Raya Aidilfitri).

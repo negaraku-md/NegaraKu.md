@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-labour-ordinance" }
 related: ["labour-law-map-malaysia", "employment-act-coverage", "working-hours-overtime-malaysia", "minimum-wage-malaysia"]
 keywords: ["employment act 1955", "employment act malaysia", "act 265", "employment amendment act 2022", "malaysia labour law", "45 hour week malaysia"]
+framework: data-reference
 ---
 
 Open any Malaysian HR blog and you will still find the Employment Act described as

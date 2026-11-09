@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "terengganu-turtle-enactment" }
 related: []
 keywords: ["penyu", "penyu belimbing", "Rantau Abang", "taman laut", "Akta Perikanan 1985", "Enakmen Penyu Terengganu", "pemuliharaan marin", "telur penyu"]
+framework: explainer
 ---
 
 Vào cuối những năm 1960, khoảng 2.000 con rùa da cái lên bờ mỗi năm trên một bãi biển ở Rantau Abang, Terengganu, để lại gần 10.000 tổ trứng trên cát. Ngày nay, không còn một con nào. Câu chuyện suy giảm đó là một trong những thất bại về bảo tồn động vật hoang dã rõ rệt nhất trong khu vực — và nó định hình cách Malaysia bảo vệ rùa cho đến nay.

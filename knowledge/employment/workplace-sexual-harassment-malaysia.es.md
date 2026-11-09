@@ -107,6 +107,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-act-1955-guide"]
 keywords: ["acoso sexual malasia", "ley contra el acoso sexual 2022", "aviso artículo 81h", "parte xva ley de empleo", "tribunal contra el acoso sexual", "sexual harassment malaysia", "anti-sexual harassment act 2022"]
+framework: rules
 ---
 
 La mayor parte de lo que se publica sobre el acoso en el trabajo en Malasia trata la Ley contra el Acoso Sexual de 2022 como un acontecimiento legislativo. Muy poco de ello le dice a un empleador qué debe realmente un martes cualquiera. Dos cosas lo son, y ambas son exigibles sin que nadie haya presentado nada.

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "asean-agreement-on-transboundary-haze-pollution" }
 related: []
 keywords: ["jerebu", "transboundary haze", "API", "Indeks Pencemar Udara", "Sumatera", "Kalimantan", "ASEAN", "Jabatan Alam Sekitar", "kualiti udara"]
+framework: explainer
 ---
 
 Mỗi khi gió mùa đổi hướng vào mùa khô, bầu trời ở Thung lũng Klang, Sarawak và phần lớn Bán đảo có thể chuyển sang màu xám chỉ trong vài ngày — mặt trời trở nên mờ mịt, mùi khói lọt vào nhà, và điện thoại reo lên với các cảnh báo API. Đây là khói mù xuyên biên giới: ô nhiễm không hoàn toàn được tạo ra trong nước, nhưng được hàng triệu người dân Malaysia hít vào mỗi năm.

@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "jpn" }
 related: ["jpn", "mykad"]
 keywords: ["registro de defunción Malasia", "daftar kematian Malaysia", "certificado de defunción JPN", "sijil kematian JPN", "formulario JPN.LM02", "borang JPN.LM02", "pendaftaran kematian JPN", "certificado de defunción heredero", "patrimonio pequeño JKPTG", "pusaka kecil JKPTG", "plazo registro defunción Malasia", "tempoh daftar kematian Malaysia"]
+framework: how-to
 ---
 
 Antes de que un banco pueda congelar la cuenta de una persona fallecida,

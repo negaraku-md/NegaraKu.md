@@ -106,6 +106,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-act-1955-guide"]
 keywords: ["sexual harassment malaysia", "anti-sexual harassment act 2022", "section 81h notice", "part xva employment act", "tribunal anti sexual harassment", "workplace harassment employer duty"]
+framework: rules
 ---
 
 マレーシアにおける職場でのハラスメントについての報道の多くは、2022年反性的嫌がらせ法（Anti-Sexual Harassment Act 2022、Act 840）を一つの立法上の出来事として扱っている。そのうち、ごく平凡な火曜日に使用者が実際に何を負っているのかを教えてくれるものはほとんどない。負っているものは二つあり、そのいずれも、誰かが何かを申し立てていなくても強制執行の対象となる。

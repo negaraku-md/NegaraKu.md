@@ -94,6 +94,7 @@ verificationNeeded:
   - "Apakah gulai Kelantan berbeda secara berarti dari gulai ikan tongkol Terengganu, dan ikan bakunya — kebanyakan sumber menyebut tuna (ikan tongkol / aya), dengan mackerel dan tenggiri turut dikutip. Konfirmasikan dengan sumber lokal."
   - "Etimologi 'nasi pedagang' dan legenda asal usul (pedagang Bugis, atau nelayan yang membawanya melaut) — ini beredar luas tetapi terdokumentasi secara longgar; konfirmasikan dengan sumber sejarah atau leksikografi."
   - "Pendaftaran makanan warisan nasional 2009 — konfirmasikan tahun dan badan pendaftarnya terhadap catatan utama Jabatan Warisan Negara atau JKKN."
+framework: explainer
 ---
 
 Pesan sarapan di pesisir timur Malaysia, dan Anda mungkin diberi sebungkus kecil daun pisang

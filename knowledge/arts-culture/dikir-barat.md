@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "wau" }
 related: ["kelantan", "mak-yong", "wayang-kulit", "wau"]
 keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", "pantun berbalas", "seni persembahan", "warisan kebangsaan"]
+framework: history-culture
 ---
 
 Dua kumpulan duduk bersila bertentangan di atas pentas. Tiada skrip. Apabila kumpulan pertama selesai berbalas pantun sindiran tentang harga barang naik, kumpulan kedua ada beberapa saat sahaja untuk mengarang balasan — dan ia mesti berima, mesti kena masa, dan kalau boleh, mesti lebih tajam daripada pantun asal.

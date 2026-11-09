@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "federal-state-division" }
 related: ["civil-and-syariah-courts", "kehakiman-mahkamah", "federal-constitution"]
 keywords: ["mahkamah syariah", "sistem mahkamah Malaysia", "Perkara 121(1A)", "bidang kuasa mahkamah syariah", "Mahkamah Tinggi Syariah", "Akta 355", "Akta 505", "undang-undang keluarga Islam"]
+framework: explainer
 ---
 
 fasakh (திருமண முறிப்பு) கோரும் ஒரு மனைவியும், RM60,000 கடனைத் தேடும் ஒரு வணிகரும் — இருவரும் நீதிமன்றக் கவுன்டரில் ஒரு படிவத்துடன் தத்தமது வழக்கைத் தொடங்குகிறார்கள். எனினும் அவர்கள் ஒரே கவுன்டருக்குச் செல்வதில்லை, அவர்களது வழக்குகள் ஒரே வகை நீதிபதியால் விசாரிக்கப்படுவதில்லை, மேலும் அவர்களது முடிவை நிர்ணயிக்கும் சட்டம் இரு வேறு சட்டமியற்றும் அமைப்புகளிலிருந்து வருகிறது.

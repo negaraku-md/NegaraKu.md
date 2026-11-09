@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "deepavali" }
 related: ["hinduism-in-malaysia", "tamil-in-malaysia", "deepavali", "thaipusam", "estate-tamil-community"]
 keywords: ["தைப்பொங்கல்", "பொங்கல்", "மலேசியா பொங்கல்", "மாட்டுப் பொங்கல்", "போகிப் பண்டிகை", "அறுவடைப் பண்டிகை", "Pongal", "Thai Pongal"]
+framework: history-culture
 ---
 
 In the early dawn as the month of Thai begins, the courtyards and doorsteps of

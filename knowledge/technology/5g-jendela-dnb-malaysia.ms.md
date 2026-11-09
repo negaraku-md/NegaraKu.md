@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "internet-and-fibre" }
 related: ["malaysias-telcos-and-5g", "internet-and-fibre"]
 keywords: ["JENDELA", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "second 5G network", "U Mobile", "MCMC", "national broadband plan", "spectrum allocation", "700MHz", "3.5GHz"]
+framework: explainer
 ---
 
 Tanya dua orang Malaysia bagaimana rangkaian mudah alih negara ini dikendalikan dan anda selalunya akan mendapat dua jawapan yang berbeza dan separuh betul — kerana sebenarnya ada dua kisah berasingan yang bercampur aduk. Satu ialah pelan liputan jalur lebar dengan nama yang kebanyakan orang pernah lihat pada sepanduk kerajaan. Satu lagi ialah pertarungan pantas tentang siapa yang boleh memiliki paip 5G. Memahami kesambungan Malaysia moden bermakna memisahkan kedua-dua kisah ini dengan jelas.

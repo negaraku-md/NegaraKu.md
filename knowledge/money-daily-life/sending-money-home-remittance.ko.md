@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["bank-negara-malaysia", "payment-regulation-malaysia", "opening-bank-account"]
 keywords: ["send money home Malaysia", "remittance Malaysia", "licensed money services business Malaysia", "Bank Negara Malaysia remittance", "Money Services Business Act 2011", "MSB licence Malaysia", "foreign worker remittance Malaysia", "BNMTELELINK"]
+framework: explainer
 ---
 
 이주 노동자가 많은 거의 모든 말레이시아 도시의 상점가를 걷다 보면, 같은 나라들로 "hantar wang"(돈을 보내기)을 비슷해 보이는 요율에 제안하는 여러 창구를 보게 됩니다. 하나는 벽에 말레이시아 중앙은행 면허를 걸고 있습니다. 다른 하나는 그저 책상 하나와 약속뿐입니다. 고객 쪽에서 보면 둘은 똑같아 보일 수 있습니다. 그 둘의 차이는 송금이 잘못될 때 실제로 유일하게 중요한 것입니다.

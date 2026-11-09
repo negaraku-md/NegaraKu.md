@@ -60,6 +60,7 @@ relations:
   - { rel: "explained-in", to: "registering-a-birth" }
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "registering-a-birth"]
 keywords: ["having a baby in Malaysia", "pregnancy Malaysia", "antenatal care Malaysia", "Pink Book pregnancy", "Rekod Kesihatan Ibu", "klinik kesihatan pregnant", "public vs private delivery Malaysia", "birth registration JPN", "maternity Malaysia", "government hospital delivery Malaysia"]
+framework: explainer
 ---
 
 妊娠検査で陽性反応が出ると、同時に二つの「時計」が動き始めるが、それを前もって説明してくれる人はほとんどいない。一つ目の時計は妊娠そのものに関するもの——いつ、どこで登録し、各受診で何が行われるかである。もう一つは赤ちゃんが生まれてから初めて動き出すもので、病院とは一切関係がない。まったく別の部署が扱う法的な登録手続きである。

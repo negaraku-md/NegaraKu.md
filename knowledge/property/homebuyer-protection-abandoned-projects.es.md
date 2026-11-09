@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "sale-and-purchase-agreement-property" }
 related: []
 keywords: ["HDA", "Akta 118", "APDL", "licencia de promotor", "Tribunal de Reclamaciones del Comprador de Vivienda", "proyectos abandonados", "SPNB", "KPKT", "protección del comprador de vivienda"]
+framework: explainer
 ---
 
 Ha pagado el depósito, ha firmado el Contrato de Compraventa y está esperando las llaves — y de repente la obra queda en silencio durante meses. Para los compradores de viviendas residenciales nuevas en la Malasia Peninsular, la ley en realidad ofrece varias capas de protección antes, durante y después de que surja una situación así. La clave está en saber qué está protegido y a quién acudir cuando algo sale mal.

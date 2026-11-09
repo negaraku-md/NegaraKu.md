@@ -103,6 +103,7 @@ relations:
   - { rel: "compares-with", to: "employment-act-1955-guide" }
 related: ["i-saraan-epf-voluntary-contribution", "employment-act-1955-guide", "socso-eis-employer-guide"]
 keywords: ["gig workers act 2025", "act 872", "gig workers tribunal", "gig worker socso", "platform provider malaysia", "gig economy malaysia law"]
+framework: explainer
 ---
 
 Act 872 กำลังถูกรายงานในฐานะเรื่องประกันสังคม: แพลตฟอร์มต้องหัก SOCSO ในตอนนี้ นั่นเป็นส่วนที่เล็กที่สุด ผลที่ใหญ่กว่าคือปัจจุบันมาเลเซียมี **ประเภทที่สามตามกฎหมาย** ระหว่างลูกจ้างกับผู้รับจ้างอิสระ — และกฎหมายนิยามประเภทนั้นโดยการบอกคุณว่ามัน*ไม่ใช่*อะไร

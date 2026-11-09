@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "appoint-resign-director" }
 related: ["disclosure-of-interest", "director-shareholding-notification", "appoint-resign-director", "remove-a-director", "loans-to-directors", "directors-fees-approval", "directors-report", "register-of-directors"]
 keywords: ["directors duties Malaysia", "section 213 Companies Act 2016", "director personal liability Malaysia", "business judgment rule Malaysia", "tanggungjawab pengarah syarikat", "shadow director Malaysia", "director fine RM3 million"]
+framework: rules
 ---
 
 罚款是三百万令吉，刑期是五年。不是针对公司——是针对您。《2016年公司法令》第213(3)条将违反董事职责列为由个人所犯的刑事罪，而相同的上限在第217条、第218条、第221条、第222条、第223条、第224条、第225条及第228条中一再出现。

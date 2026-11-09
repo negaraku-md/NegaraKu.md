@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "directors-duties" }
 related: ["directors-duties", "capital-reduction", "share-capital-malaysia", "loans-to-directors", "corporate-tax-rates"]
 keywords: ["توزيعات الأرباح ماليزيا Sdn Bhd", "dividend Malaysia Sdn Bhd", "المادة 131 قانون الشركات 2016", "section 131 Companies Act 2016", "اختبار الملاءة توزيعات الأرباح", "مسؤولية المدير عن التوزيع غير المشروع", "التوزيع من الأرباح"]
+framework: rules
 ---
 
 تدفع شركة Sdn Bhd مربحة لديها RM800,000 من الأرباح المحتجزة توزيعاً قدره

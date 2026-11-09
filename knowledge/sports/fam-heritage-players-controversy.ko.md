@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "fifa-eligibility-rules" }
 related: []
 keywords: ["naturalisasi", "pemain warisan", "FAM", "FIFA", "CAS", "Harimau Malaya", "dokumen palsu", "Artikel 22", "Piala Asia 2027"]
+framework: explainer
 ---
 
 외국 태생 선수 7명이 2025년 6월 하리마우 말라야의 유니폼을 입었습니다. 채 1년도 지나지 않아, 세계 최고의 스포츠 중재 기관이 이들에게 말레이시아 대표 자격을 부여한 서류가 위조되었음을 확인했습니다. 이 사건은 일련의 FIFA 징계 절차, CAS(Court of Arbitration for Sport)로의 항소, 그리고 말레이시아에서의 경찰 신고를 촉발했습니다.

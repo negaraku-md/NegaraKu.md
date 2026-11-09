@@ -91,6 +91,7 @@ verificationNeeded:
   - "Nasi goreng pattaya 是否源自马来西亚（如一般所述）尽管其名字听来像泰国——应以有记载的饮食史资料而非 listicle 文章核实。"
   - "各命名变体（USA、paprik、ikan masin、hailam、kerabu、dabai）确切、标准化的食材清单——这些大多取自美食媒体和社群编辑的来源，且各档口不一；应以当地饮食参考资料核实地方细节。"
   - "Nasi goreng 是否已正式被宪报颁布为马来西亚国家烹饪遗产，以及列于哪一项——应以 Jabatan Warisan Negara 或官方来源核实，而非次级美食媒体。"
+framework: explainer
 ---
 
 凌晨一点在嘛嘛档点一份 nasi goreng，你与其说是在点一道菜，不如说是从一块粉笔板上

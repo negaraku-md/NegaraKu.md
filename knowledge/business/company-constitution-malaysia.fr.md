@@ -106,6 +106,7 @@ keywords:
   - "section 31 loi sur les sociétés 2016"
   - "section 31 Companies Act 2016"
   - "ai-je besoin d'une constitution Sdn Bhd ?"
+framework: explainer
 ---
 
 La loi de 2016 sur les sociétés a rendu la constitution de la société facultative, et toute

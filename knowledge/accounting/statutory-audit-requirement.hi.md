@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "sdn-bhd-financial-statements-filing" }
 related: []
 keywords: ["वैधानिक अंकेक्षण", "अंकेक्षण-छूट", "Companies Act 2016", "धारा 267", "PD 10/2024", "अंकेक्षक Sdn Bhd", "SSM audit exemption"]
+framework: rules
 ---
 
 आपने अभी-अभी एक Sdn Bhd पंजीकृत की है, व्यवसाय अभी भी छोटा है, और कंपनी सचिव ने अभी

@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["batik", "wayang-kulit"]
 keywords: ["songket", "tenunan songket", "kek tenun", "benang emas", "songket Terengganu", "songket Kelantan"]
+framework: history-culture
 ---
 
 Bunyi yang paling banyak didengar di bengkel songket bukanlah bunyi mesin. Ia bunyi kayu ditekan, benang ditarik, dan sebatang lidi buluh diselit masuk lalu ditarik keluar — berulang-ulang, satu baris corak pada satu masa, sepanjang hari.

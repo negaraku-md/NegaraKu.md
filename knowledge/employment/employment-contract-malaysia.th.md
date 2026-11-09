@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "non-compete-clause-malaysia" }
 related: ["employment-act-coverage", "termination-of-employment-malaysia", "stamp-duty-employment-contracts"]
 keywords: ["employment contract malaysia", "contract of service malaysia", "section 10 employment act", "notice period clause malaysia", "unenforceable clause employment contract"]
+framework: rules
 ---
 
 สัญญาไม่ใช่กฎหมาย มันเป็นเอกสารที่ดำเนินการอยู่ภายในกฎหมาย และมาตรา 7 ของพระราชบัญญัติการจ้างงาน 1955 (Employment Act 1955) กล่าวเช่นนั้นในประโยคเดียว: เงื่อนไขใดที่ให้ประโยชน์น้อยกว่าพระราชบัญญัติแก่ลูกจ้างเป็น **โมฆะเพียงเท่านั้น** และเงื่อนไขตามกฎหมายจะ **ถูกแทนที่เข้าไปแทน** ไม่ใช่เจรจากันใหม่ ไม่ใช่ตีความให้แคบลง แต่ถูกแทนที่

@@ -90,6 +90,7 @@ verificationNeeded:
   - "El origen del rojak. Las obras de referencia remontan la palabra y el plato al javanés antiguo (Zoetmulder lo deriva de anrujak/rinujak, «cortar en trocitos»), pero tal como existe en Malasia el plato es intercultural y no hay un inventor único ni una fecha firme documentada — confírmalo con una fuente de historia culinaria o lexicográfica, no con medios gastronómicos."
   - "El origen y la antigüedad del rojak indio/mamak (pasembur) en concreto. Los autores gastronómicos señalan que no hay referencias firmes sobre cuándo o dónde surgió la versión mamak — no afirmes con seguridad una fecha ni un inventor."
   - "Si la pasta de gambas fermentada (hae ko) es universal en el rojak de fruta. Algunas fuentes describen el aliño simplemente como pasta de gambas, azúcar, chile y zumo de lima, con tamarindo o pasta de judía negra añadidos por algunos vendedores; el uso y el nombre concretos del hae ko varían — confírmalo con una fuente regional."
+framework: explainer
 ---
 
 Pide «rojak» en un puesto y te darán un revoltijo frío de fruta y buñuelos de masa untados

@@ -92,6 +92,7 @@ verificationNeeded:
   - "Seberapa umum podi thosai (thosai yang ditaburi atau diolesi bubuk rempah idli/dosa) di menu Malaysia secara khusus — ragam ini sudah mapan di kedai India Selatan dan Singapura, tetapi liputan Malaysia lebih tipis; verifikasikan dengan sumber lokal."
   - "Ejaan Melayu resmi atau baku untuk hidangan ini — 'tosai', 'thosai', dan 'tose' semuanya beredar, dan bentuk yang disarankan Dewan Bahasa dan Pustaka pernah diperdebatkan secara terbuka; verifikasikan dengan rujukan DBP yang berwenang."
   - "Apakah santan hadir dalam adonan thosai Malaysia yang umum mana pun — sebagian besar resep hanya memakai beras, urad dal, air, dan garam; verifikasikan resep lokal baku dengan sumber kuliner yang tepercaya."
+framework: explainer
 ---
 
 Masuklah ke gerai mamak saat subuh, atau ke restoran daun pisang saat makan siang, dan di suatu

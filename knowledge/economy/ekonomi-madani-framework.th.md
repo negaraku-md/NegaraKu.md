@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "subsidy-rationalisation-padu" }
 related: ["malaysia-plans", "new-industrial-master-plan-2030", "national-energy-transition-roadmap-netr", "subsidy-rationalisation-padu"]
 keywords: ["Ekonomi MADANI", "MADANI Economy framework", "Ekonomi MADANI Memperkasa Rakyat", "MADANI values acronym", "Malaysia economic framework Anwar", "MADANI economy seven targets", "Malaysia MADANI"]
+framework: explainer
 ---
 
 เมื่อวันที่ 27 กรกฎาคม 2023 ไม่กี่เดือนหลังเข้ารับตำแหน่งนายกรัฐมนตรี อันวาร์ อิบราฮิม ยืนขึ้นไม่ใช่เพื่อประกาศงบประมาณหรือโครงการเดียว แต่เพื่อให้เศรษฐกิจของมาเลเซียมีเรื่องราวที่จะเล่าเกี่ยวกับตัวมันเอง

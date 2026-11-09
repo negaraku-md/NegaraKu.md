@@ -96,6 +96,7 @@ verificationNeeded:
   - "Việc quy bubur cha cha cho người Peranakan (Nyonya) và ý nghĩa tên gọi của nó — thường được nhắc lại trên truyền thông ẩm thực nhưng ít được ghi chép; hãy xác minh với một nguồn ẩm thực hoặc di sản Peranakan."
   - "Liệu các món tráng miệng cụ thể ở đây (ví dụ cendol, pulut hitam) có được công nhận chính thức là thực phẩm Di sản Quốc gia Malaysia hay không, và ngày tháng của chúng — hãy xác minh với Jabatan Warisan Negara (Cục Di sản Quốc gia) thay vì truyền thông ẩm thực."
   - "Các chi tiết về nguyên liệu và cách chế biến (ví dụ loại tinh bột chính xác dùng trong thạch cendol, liệu tau fu fah được làm đông bằng thạch cao hay glucono-delta-lactone) thay đổi theo công thức và vùng miền; hãy coi các mô tả ở đây là điển hình chứ không phải dứt khoát."
+framework: explainer
 ---
 
 Món mặn của Malaysia nhận được phần lớn sự chú ý, nhưng đất nước này có một kho món

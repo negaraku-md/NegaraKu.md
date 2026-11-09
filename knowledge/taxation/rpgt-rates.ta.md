@@ -87,6 +87,7 @@ relations:
   - { rel: "explained-in", to: "rpgt-exemptions" }
 related: ["rpgt-exemptions", "capital-gains-tax", "capital-or-revenue", "lhdn"]
 keywords: ["RPGT rates Malaysia", "cukai keuntungan harta tanah", "RPGT computation", "RPGT 6th year", "Schedule 5 RPGTA", "CKHT"]
+framework: data-reference
 ---
 
 புழக்கத்தில் உள்ள கிட்டத்தட்ட ஒவ்வொரு RPGT வழிகாட்டியும் ஒரே ஒரு விகித

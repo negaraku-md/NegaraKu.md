@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "statutory-audit-process" }
 related: ["appointing-an-auditor", "changing-auditors", "statutory-audit-process", "audit-fees-malaysia"]
 keywords: ["auditor independence", "partner rotation", "cooling-off period", "public interest entity", "MIA By-Laws", "Section 540", "non-audit services", "self-review threat"]
+framework: rules
 ---
 
 Một thành viên hợp danh kiểm toán đã ký sổ sách của cùng một công ty niêm yết suốt một thập kỷ biết mọi bộ xương được chôn ở đâu — và đó chính xác là vấn đề. Mối quan hệ càng lâu, một người ngoài cuộc hợp lý càng khó tin rằng ý kiến thực sự độc lập. Malaysia đáp lại rủi ro đó bằng một chiếc đồng hồ cứng rắn và một kỳ nghỉ bắt buộc.

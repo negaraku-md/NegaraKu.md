@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "local-government-in-malaysia" }
 related: []
 keywords: ["pentadbiran daerah", "pejabat daerah", "pegawai daerah", "mukim", "pentadbir tanah", "daerah pentadbiran", "Kanun Tanah Negara"]
+framework: explainer
 ---
 
 Antara negeri yang Anda pilih dalam pemilu dan kampung tempat Anda tinggal, ada satu lapisan pemerintahan yang jarang disebut tetapi paling sering Anda temui ketika berurusan dengan tanah, proyek pembangunan atau bantuan darurat: daerah. Di sinilah kebijakan negeri berubah menjadi layanan nyata, dan pusatnya adalah Pejabat Daerah.

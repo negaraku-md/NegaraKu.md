@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "benefits-in-kind" }
 related: ["benefits-in-kind", "corporate-tax-rates"]
 keywords: ["motor vehicle capital allowance Malaysia", "RM50000 RM100000 car capital allowance", "Schedule 3 paragraph 2(2)", "company car tax deduction Malaysia", "EV lease tax deduction Malaysia"]
+framework: rules
 ---
 
 한 회사가 RM320,000짜리 고급 승용차를 구입하여 설비로 계상하고 RM320,000에

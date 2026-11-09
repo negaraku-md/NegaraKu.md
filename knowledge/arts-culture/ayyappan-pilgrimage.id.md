@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["hinduism-in-malaysia", "thaipusam", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community", "navaratri"]
 keywords: ["ஐயப்பன் வழிபாடு", "சபரிமலை விரதம்", "மண்டல விரதம்", "இருமுடிக் கட்டு", "மலேசிய ஐயப்பன் கோயில்", "சுவாமியே சரணம் ஐயப்பா", "Ayyappan", "Sabarimala"]
+framework: history-culture
 ---
 
 Pada bulan-bulan terakhir tahun, sebuah pemandangan tampak di banyak kota di seluruh Malaysia: para lelaki berpakaian hitam atau biru, mengenakan untaian rudraksha di leher dan membiarkan janggut tumbuh, saling menyapa satu sama lain "Swami". Mereka adalah para pelaku laku Ayyappan — banyak di antaranya sedang bersiap berangkat ke Sabarimala di Kerala. Artikel ini menguraikan pemujaan dan tradisi laku itu secara netral; ia tidak menafsirkan maupun menilai keyakinan apa pun.

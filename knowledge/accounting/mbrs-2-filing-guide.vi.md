@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "extension-of-time-ssm" }
 related: ["mbrs-2", "mbrs-tagging-errors", "financial-statement-pack", "financial-statements-lodgement", "unaudited-financial-statements", "extension-of-time-ssm", "mfrs-vs-mpers"]
 keywords: ["MBRS 2.0 filing guide", "mTool 2.2", "SSMxT taxonomy", "XBRL tagging Malaysia", "MBRS entry point", "mPortal maker lodger", "MBRS rejection", "prepare financial statements XBRL SSM"]
+framework: how-to
 ---
 
 Các kết quả tìm kiếm cho «MBRS 2.0» gần như hoàn toàn là những người bán cho bạn

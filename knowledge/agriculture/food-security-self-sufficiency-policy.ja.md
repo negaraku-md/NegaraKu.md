@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
 related: []
 keywords: ["keterjaminan makanan", "tahap sara diri", "SSL", "SSR", "Dasar Agromakanan Negara", "DAN 2.0", "food security Malaysia", "beras"]
+framework: explainer
 ---
 
 2024年農業センサスによると、マレーシアで消費される米1キログラムのうち、約400グラムが輸入米である。この数字は、国の食料安全保障が抱える課題を端的に示している——農業国でありながら、主食の大部分を依然として輸入に頼っているのである。

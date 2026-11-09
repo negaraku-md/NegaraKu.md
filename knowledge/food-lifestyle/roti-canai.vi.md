@@ -99,6 +99,7 @@ social:
     - "Mamak"
     - "MalaysianFood"
     - "NegaraKuMD"
+framework: explainer
 ---
 
 Hiếm có âm thanh nào thuộc về một buổi sáng Malaysia rõ rệt như tiếng đập và phần phật của bột

@@ -107,6 +107,7 @@ keywords:
   - "MBPJ lesen komposit"
   - "MBSA lesen komposit"
   - "DBKK lesen berniaga"
+framework: rules
 ---
 
 Giấy phép cơ sở của bạn có thể bị hủy vào ngày mai, không cần lý do, và hội đồng không

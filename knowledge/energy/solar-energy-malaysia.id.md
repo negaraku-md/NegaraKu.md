@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
 related: []
 keywords: ["solar Malaysia", "NEM 3.0", "Net Energy Metering", "Large Scale Solar", "LSS5", "CGPP", "CRESS", "CREAM", "tenaga boleh baharu", "solar bumbung"]
+framework: explainer
 ---
 
 Panel surya di atas atap rumah kini menjadi satu keputusan keuangan yang terikat erat oleh kebijakan pemerintah di Malaysia. Tetapi "beralih ke surya" berarti hal yang sangat berbeda bagi seorang pemilik rumah di Ipoh dibandingkan sebuah pabrik di Pasir Gudang atau sebuah pusat data yang ingin 100% listrik hijau. Setiap kelompok pengguna memiliki skema tersendiri.

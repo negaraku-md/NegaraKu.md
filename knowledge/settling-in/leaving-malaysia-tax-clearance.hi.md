@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "epf-socso-employees" }
 related: ["lhdn", "tax-clearance", "offboarding-statutory-checklist", "employment-pass-malaysia", "moving-to-malaysia-first-steps", "epf-socso-employees"]
 keywords: ["मलेशिया कर-निपटान", "कर-निपटान पत्र", "फॉर्म CP21", "मलेशिया छोड़ना कर-निपटान", "tax clearance Malaysia", "Surat Penyelesaian Cukai", "SPC LHDN", "CP21 form Malaysia", "e-SPC MyTax", "EPF leaving country withdrawal"]
+framework: rules
 ---
 
 आपने अपना इस्तीफ़ा सौंप दिया, उड़ान बुक कर ली, और फ़र्नीचर बाँटना शुरू कर दिया। फिर HR आपसे कुछ ऐसा माँगता है जिसके बारे में आपने पहले कभी नहीं सुना: एक कर-निपटान पत्र। इसके बिना, आपके अंतिम वेतन का एक हिस्सा आगे नहीं बढ़ता — और इसे माँगने वाले आप भी नहीं होते।

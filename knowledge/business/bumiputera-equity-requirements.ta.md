@@ -112,6 +112,7 @@ keywords:
   - "PK 1.5 Bumiputera procurement"
   - "BCPLC status"
   - "distributive trade Bumiputera equity"
+framework: data-reference
 ---
 
 பூமிபுத்ரா பங்கு மற்றும் பங்கேற்பு நிபந்தனைகள் மலேசிய வணிக இணக்கத்தின் ஒரு நடைமுறையிலுள்ள

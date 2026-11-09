@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["opening-bank-account"]
 keywords: ["PTPTN", "préstamo educativo", "elegibilidad PTPTN", "reembolso PTPTN", "Act 566", "financiación de la educación superior Malasia", "SSPN"]
+framework: explainer
 ---
 
 Muchos estudiantes firman los documentos de oferta del PTPTN con la misma

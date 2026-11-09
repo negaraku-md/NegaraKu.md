@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "incorporate-company-malaysia-sdn-bhd" }
 related: ["companies-act-2016"]
 keywords: ["foreign company registration Malaysia", "branch office Malaysia", "section 562 Companies Act 2016", "SSM foreign company", "local agent Malaysia", "branch vs Sdn Bhd"]
+framework: how-to
 ---
 
 Sebuah syarikat luar negara boleh menjual ke Malaysia dari luar negara untuk tempoh yang lama — tetapi sebaik sahaja ia membuka pejabat, menandatangani pajakan tempatan, atau menempatkan kakitangan di lapangan, ia melangkaui satu garis. Sebaik sahaja ia *menjalankan perniagaan* di Malaysia, Akta Syarikat 2016 menyatakan ia mesti mendaftar terlebih dahulu, dan berbuat demikian mengubah syarikat luar negara yang sama itu menjadi cawangan yang berdaftar di Malaysia.

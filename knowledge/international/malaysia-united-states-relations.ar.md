@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-china-relations", "malaysia-asean-membership"]
 keywords: ["العلاقات الماليزية الأمريكية", "الشراكة الاستراتيجية الشاملة", "اتفاقية التجارة المتبادلة", "التعريفة الأمريكية على ماليزيا", "أشباه الموصلات", "التعاون الدفاعي", "Malaysia US relations", "Comprehensive Strategic Partnership", "reciprocal trade agreement", "US tariff Malaysia", "semiconductors", "defence cooperation"]
+framework: explainer
 ---
 
 زار باراك أوباما المسجد الوطني في كوالالمبور (Masjid Negara) في 2014؛ وصافح أنور إبراهيم دونالد ترامب على اتفاق تجاري موقّع في 2025. رئيسان أمريكيان مختلفان كل الاختلاف، وعلاقة واحدة صامدة — وعادة ماليزية في الاقتراب من واشنطن دون أن تقف يوماً تحت مظلّتها الأمنية.

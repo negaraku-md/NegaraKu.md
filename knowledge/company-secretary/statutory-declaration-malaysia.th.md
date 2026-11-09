@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "members-voluntary-winding-up-malaysia" }
 related: []
 keywords: ["statutory declaration malaysia", "akuan berkanun", "commissioner for oaths malaysia", "statutory declarations act 1960", "false statutory declaration penalty", "declaration of solvency section 443"]
+framework: explainer
 ---
 
 ไม่ช้าก็เร็วเจ้าของธุรกิจจะได้รับเอกสารและถูกบอกว่า "นี่ต้องเป็นคำแถลงตามกฎหมาย" มันเป็นหนึ่งในพิธีการทางกฎหมายที่ฟังดูหนักกว่าที่เป็นจริง — คำแถลงเป็นหนังสือที่คุณสาบานว่าเป็นความจริงต่อหน้าบุคคลที่ได้รับอนุญาต — แต่น้ำหนักเป็นเรื่องจริง: ลงนามในคำแถลงเท็จแล้วคุณได้กระทำความผิดอาญา ต่อไปนี้คือคำแถลงตามกฎหมายคืออะไร ใครรับได้ และปรากฏที่ใดในชีวิตของบริษัท

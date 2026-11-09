@@ -74,6 +74,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#WinnsCafe", "#Peranakan", "#Nyonya", "#Penang", "#BibGourmand"]
+framework: profile
 ---
 
 槟城是土生华人烹调的古老腹地，而 Winn's Cafe 以最私密的方式守护着这一传统——一家人

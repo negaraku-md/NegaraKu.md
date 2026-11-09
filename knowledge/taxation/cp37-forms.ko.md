@@ -74,6 +74,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-digital-services", "withholding-tax-non-compliance"]
 keywords: ["CP37", "CP37A", "CP37D", "CP37DS", "CP37S", "withholding tax form Malaysia", "LHDN withholding tax payment form"]
+framework: data-reference
 ---
 
 누구도 지급 내용에 대한 설명에서 원천징수세 양식을 고르지 않습니다. 먼저 조문을 결정하면 양식은 거기서 도출됩니다. 조문을 잘못 정하면 양식도 잘못되며, 이것이 정확히 계산된 납부금이 잘못된 부채에 대비되어 남게 되는 경위입니다.

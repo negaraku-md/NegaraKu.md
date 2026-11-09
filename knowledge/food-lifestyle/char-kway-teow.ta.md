@@ -97,6 +97,7 @@ social:
     - "#PenangFood"
     - "#MalaysianFood"
     - "#StreetFood"
+framework: explainer
 ---
 
 Char kway teow-வைப் போல மலேசியத் தெரு உணவை இவ்வளவு முழுமையாகப் பிடித்துக்காட்டும்

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "hari-raya-aidilfitri" }
 related: ["songket", "batik", "hari-raya-aidilfitri"]
 keywords: ["baju Melayu", "baju kurung", "kebaya", "samping", "songkok", "cekak musang", "Teluk Belanga", "pakaian tradisional Melayu"]
+framework: history-culture
 ---
 
 Hari Raya அல்லது திருமண விழாவுக்கு ஒரு ஆண் தயாராவதைக் கவனியுங்கள். தளர்வான மேலங்கி அணியப்பட்டு, கால்சட்டையும் அணிந்தாகிவிட்டது — ஆனால் அவர் இன்னும் முழுமையாகத் தயாராகவில்லை. மீதமிருப்பது, அவர் முழுமையாக உடையணிந்திருக்கிறாரா அல்லது பாதி வழியில் நிற்கிறாரா என்பதை நிர்ணயிக்கும் இரண்டு விஷயங்கள்: இடுப்பில் சுற்றப்படும் ஒரு kain samping, மற்றும் தலையில் ஒரு songkok. இந்த இரண்டு இல்லாமல், baju Melayu உண்மையில் baju Melayu அல்ல.

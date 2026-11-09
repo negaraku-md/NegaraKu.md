@@ -108,6 +108,7 @@ relations:
   - { rel: "related-to", to: "sumbangan-tunai-rahmah-str" }
 related: ["program-rahmah-cost-of-living"]
 keywords: ["PADU", "Pangkalan Data Utama", "rasionalisasi subsidi", "subsidi bersasar", "BUDI MADANI", "RON95", "subsidi diesel", "subsidi elektrik", "T15"]
+framework: explainer
 ---
 
 Selama bertahun-tahun, kerajaan Malaysia menyubsidi minyak, elektrik dan makanan untuk semua orang secara pukal — tidak kira sama ada penerimanya seorang penoreh getah atau pemilik kereta mewah. Persoalan yang mengubah segalanya bukanlah *berapa* banyak subsidi diberi, tetapi *kepada siapa*. Dan untuk menjawabnya, kerajaan memerlukan satu perkara yang selama ini tidak dimilikinya: gambaran tepat tentang siapa sebenarnya rakyat Malaysia. Itulah tugas PADU.

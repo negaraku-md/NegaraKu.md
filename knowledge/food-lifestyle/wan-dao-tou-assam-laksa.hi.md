@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#AssamLaksa", "#Penang", "#BibGourmand", "#MalaysianFood", "#Malaysia"]
+framework: profile
 ---
 
 ऐसे शहर में जो assam laksa को गर्व का विषय मानता है, Wan Dao Tou ने MICHELIN Guide

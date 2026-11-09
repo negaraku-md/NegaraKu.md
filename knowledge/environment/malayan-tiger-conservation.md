@@ -77,6 +77,7 @@ relations:
   - { rel: "located-in", to: "taman-negara" }
 related: []
 keywords: ["Malayan tiger", "Harimau Malaya", "Panthera tigris jacksoni", "Critically Endangered", "National Tiger Survey", "Perhilitan", "MYCAT", "tiger conservation", "Al-Sultan Abdullah Royal Tiger Reserve"]
+framework: explainer
 ---
 
 The tiger appears on Malaysia's coat of arms, but the animal itself is now among the rarest big cats in the world. When Malaysia completed its first national survey of wild tigers, the result was lower than many had expected: fewer than 150.

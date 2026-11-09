@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "accounting-records-section-245" }
 related: ["llp-vs-sdn-bhd", "register-llp-malaysia", "accounting-records-section-245", "sdn-bhd-bookkeeping"]
 keywords: ["rekod perakaunan PLT", "seksyen 69 Akta PLT 2012", "perakuan tahunan PLT", "solvency declaration LLP", "PLT vs Sdn Bhd", "Akta 743"]
+framework: rules
 ---
 
 Một PLT có thể hoạt động nhiều năm mà không gửi một bản báo cáo tài chính nào cho SSM — và đây là nơi nằm một sự hiểu lầm phổ biến về cấu trúc này. Việc không có yêu cầu nộp hồ sơ không có nghĩa là không có trách nhiệm. Section 69 của Limited Liability Partnerships Act 2012 vẫn ràng buộc mỗi Công ty Hợp danh Trách nhiệm Hữu hạn vào một tiêu chuẩn ghi chép nghiêm ngặt như một công ty, và section 68 thay báo cáo tài chính công khai bằng một công cụ khác mang trách nhiệm cá nhân cho các thành viên hợp danh: bản khai khả năng trả nợ.

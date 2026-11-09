@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-vs-tax-invoice" }
 related: ["online-business-licence-malaysia"]
 keywords: ["start online business malaysia", "e-commerce business malaysia", "sell online malaysia registration", "SSM online business", "low value goods tax malaysia", "electronic trade transactions regulations", "e-invoice small business malaysia"]
+framework: how-to
 ---
 
 E-dagang terasa tidak formal — Anda dapat mulai menjual di pasar daring (marketplace) menjelang waktu makan malam — yang memperdaya banyak orang untuk mengira peraturan tidak berlaku. Ia berlaku. Malaysia memperlakukan penjual daring seperti usaha lain mana pun: Anda harus mendaftar, mengungkapkan siapa Anda, melindungi data pelanggan, dan membayar pajak yang benar. Peraturan juga baru-baru ini berubah, jadi bahkan penjual yang menyiapkan usaha beberapa tahun lalu mungkin beroperasi dengan informasi yang sudah usang.

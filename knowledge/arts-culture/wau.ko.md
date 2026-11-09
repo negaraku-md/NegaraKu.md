@@ -83,6 +83,7 @@ relations:
 related: ["batik", "wayang-kulit", "kelantan"]
 entity: "Wau"
 keywords: ["wau", "wau bulan", "layang-layang tradisional", "kraf Kelantan", "Adiguru Kraf wau"]
+framework: history-culture
 ---
 
 와우를 보기 전에, 먼저 그 소리를 듣습니다. 제대로 만든 전통 와우는 공중에 떠 있는 내내 웅웅거리는데 — 바람 소리가 아니라, 그 구조 안에 일부러 심어 넣은 음(音)입니다.

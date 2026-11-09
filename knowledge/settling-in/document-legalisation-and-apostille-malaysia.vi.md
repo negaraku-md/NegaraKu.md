@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "recognition-of-foreign-qualifications-malaysia" }
 related: []
 keywords: ["legalisasi dokumen", "apostille Malaysia", "pengesahan konsular", "Wisma Putra", "sijil kelahiran asing", "sijil perkahwinan luar negara", "pengesahan ijazah", "JPN dokumen asing"]
+framework: how-to
 ---
 
 Bạn đến quầy JPN với một giấy đăng ký kết hôn được cấp ở nước ngoài, và cán bộ từ chối nó — không phải vì nó giả, mà vì nó chưa được "hợp pháp hóa". Nhiều người vấp phải chính chỗ này: một giấy tờ hợp lệ ở nước xuất xứ không có nghĩa là nó được chấp nhận thẳng tại Malaysia. Có một chuỗi xác nhận cần phải trải qua trước.

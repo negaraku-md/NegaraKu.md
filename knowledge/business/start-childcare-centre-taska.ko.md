@@ -73,6 +73,7 @@ social:
     - StartABusiness
     - DoingBusinessInMalaysia
     - JKM
+framework: how-to
 ---
 
 보육시설을 여는 것은 배려심 있고 진입 장벽이 낮은 사업처럼 느껴집니다 — 집 한 채,

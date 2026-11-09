@@ -81,6 +81,7 @@ relations:
   - { rel: "requires", to: "special-resolution" }
 related: ["companies-act-2016", "company-limited-by-guarantee-malaysia"]
 keywords: ["perlembagaan syarikat", "company constitution", "resolusi khas", "seksyen 32", "seksyen 36", "entrenchment", "Akta Syarikat 2016", "SSM"]
+framework: how-to
 ---
 
 ஒரு Sdn Bhd, “சாசனம்” என்று தலைப்பிடப்பட்ட ஒரேயொரு ஆவணம் கூட இல்லாமல் பல ஆண்டுகள் இயங்கலாம் — மேலும் அது மலேசியச் சட்டத்தின்படி முற்றிலும் சட்டபூர்வமானது. Companies Act 2016, பெரும்பாலான கம்பெனிகளுக்கு சாசனத்தை விருப்பத்தேர்வாக்கியது; இது கட்டாய நிறுவனப்பத்திரம் மற்றும் விதிகள் (Memorandum and Articles, M&A) இருந்த காலத்திலிருந்து ஒரு பெரும் மாற்றமாகும். கேள்வி இனி “எங்கள் சாசனத்தில் என்ன இருக்க வேண்டும்” என்பதல்ல, மாறாக “எங்களுக்கு ஒன்று உண்மையில் தேவையா, தேவைப்பட்டால், அதை எப்படி ஏற்பது, திருத்துவது, அல்லது பூட்டிவைப்பது?” என்பதுதான்.

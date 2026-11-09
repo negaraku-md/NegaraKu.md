@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "appoint-company-secretary" }
 related: ["statutory-registers", "register-of-members", "minute-books-and-records", "appoint-company-secretary"]
 keywords: ["pejabat berdaftar syarikat Malaysia", "seksyen 46 Akta Syarikat 2016", "tukar pejabat berdaftar SSM 14 hari", "alamat berdaftar syarikat", "akses awam pejabat berdaftar", "seksyen 47 dokumen pejabat berdaftar"]
+framework: rules
 ---
 
 Setiap firma kesetiausahaan syarikat di Malaysia menjual perkhidmatan pejabat

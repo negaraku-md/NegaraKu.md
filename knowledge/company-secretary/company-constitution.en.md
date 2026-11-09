@@ -81,6 +81,7 @@ relations:
   - { rel: "requires", to: "special-resolution" }
 related: ["companies-act-2016", "company-limited-by-guarantee-malaysia"]
 keywords: ["perlembagaan syarikat", "company constitution", "resolusi khas", "seksyen 32", "seksyen 36", "entrenchment", "Akta Syarikat 2016", "SSM"]
+framework: how-to
 ---
 
 An Sdn Bhd can operate for years without a single document titled "constitution" — and that is entirely lawful under Malaysian law. The Companies Act 2016 made a constitution optional for most companies, a major shift away from the era of the mandatory Memorandum and Articles of Association (M&A). The question is no longer "what must our constitution contain", but "do we need one at all, and if so, how do we adopt it, amend it, or lock it down?"

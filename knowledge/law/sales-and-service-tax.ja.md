@@ -112,6 +112,7 @@ relations:
   - { rel: "related-to", to: "income-tax-act-1967" }
 related: ["income-tax-act-1967", "companies-act-2016"]
 keywords: ["SST", "sales tax", "service tax", "RMCD", "MySST", "SST registration", "Sales Tax Act 2018", "Service Tax Act 2018", "SST rates", "SST threshold"]
+framework: rules
 ---
 
 レストランの請求書には「SST」という項目があるのに、スーパーのレシートには通常それがないのはなぜだろうかと思ったことがあるなら、あなたは同じ税の、まったく異なる二つの半分に出くわしたことになる。マレーシアはGSTやVATのような単一の広範な消費税を運用していない。その代わりに、より狭い二つの税——物品にかかる売上税とサービスにかかるサービス税——を運用しており、これらは**SST**というラベルの下にまとめられ、マレーシア王立関税局（RMCD）によって管理されている。

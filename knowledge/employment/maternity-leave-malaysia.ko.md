@@ -94,6 +94,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "paternity-leave-malaysia", "employment-act-coverage", "termination-of-employment-malaysia"]
 keywords: ["maternity leave malaysia", "98 days maternity leave", "maternity allowance malaysia", "pregnant employee termination malaysia", "section 41a employment act"]
+framework: rules
 ---
 
 말레이시아의 출산 관련 콘텐츠 대부분은 하나의 숫자입니다. 2023년 1월 1일부터 시행되어 60일에서

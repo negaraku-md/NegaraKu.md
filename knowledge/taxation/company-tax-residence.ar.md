@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "permanent-establishment" }
 related: ["corporate-tax-rates", "income-tax-act-1967", "lhdn", "sdn-bhd"]
 keywords: ["الإقامة الضريبية للشركات ماليزيا", "الإدارة والسيطرة", "المادة 8 قانون ضريبة الدخل", "taraf mastautin syarikat", "resident company Malaysia"]
+framework: explainer
 ---
 
 قد لا تكون شركة Sdn Bhd ماليزية يقيم مديروها الثلاثة جميعًا في سنغافورة،

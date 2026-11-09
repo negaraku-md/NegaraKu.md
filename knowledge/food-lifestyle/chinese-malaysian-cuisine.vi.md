@@ -96,6 +96,7 @@ verificationNeeded:
   - "Nguồn gốc của bak kut teh (Klang là nơi khai sinh được viện dẫn nhiều nhất, với cả phong cách Hokkien lẫn Teochew đều được nhận là của mình) và cơm gà Hainanese (phỏng theo gà Văn Xương của Hải Nam, với các tuyên bố cạnh tranh giữa Malaysia và Singapore) — những điều này còn tranh cãi và nên được xác nhận bằng nguồn lịch sử ẩm thực hoặc di sản."
   - "Việc quy từng món cho đúng phương ngữ (ví dụ một kiểu Hokkien mee nào đó là bản nước tương đậm của KL hay bản súp của Penang, và cộng đồng nào đầu tiên bản địa hóa món claypot và tai chow) — cách gọi tên theo vùng chồng chéo, nên hãy xác nhận với nguồn địa phương."
   - "Việc các hàng quán hoặc món ăn cụ thể được nêu có không dùng thịt heo hoặc có chứng nhận halal hay không — điều này khác nhau theo từng chủ quán và thay đổi theo thời gian; hãy kiểm chứng theo từng cơ sở thay vì khái quát hóa."
+framework: explainer
 ---
 
 Hỏi "món ăn Trung Hoa" nghĩa là gì ở Malaysia thì bạn sẽ không nhận được một câu trả

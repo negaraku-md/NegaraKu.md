@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["ekonomi-madani-framework", "khazanah", "bursa-malaysia"]
 keywords: ["GLC", "GLIC", "Khazanah", "KWSP", "PNB", "KWAP", "LTAT", "Tabung Haji", "GEAR-uP", "PERKUKUH", "Program Transformasi GLC", "Bursa Malaysia"]
+framework: explainer
 ---
 
 打开任何一只马来西亚交易所指数基金的投资组合，联邦政府的手几乎肯定就在其中。全国最大的银行、公用事业公司、电信商、航空公司和种植园企业集团——它们都共享同一个最终所有者：马来西亚人民，通过屈指可数的几家国家投资机构持有。正是这一结构使马来西亚成为东南亚国家影响力最深的经济体之一，而它被浓缩在两个常被混淆的缩写里：GLC 和 GLIC。

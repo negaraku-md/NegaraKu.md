@@ -120,6 +120,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: []
 keywords: ["act 446", "certificate for accommodation", "worker accommodation malaysia", "workers minimum standards housing", "centralised accommodation", "pekerja penginapan akta 446"]
+framework: rules
 ---
 
 เริ่มด้วยชื่อ เพราะบทความเกือบทุกฉบับเรื่องนี้เข้าใจผิด กฎหมายคือ **พระราชบัญญัติมาตรฐานขั้นต่ำด้านที่พัก ที่อยู่อาศัย และสิ่งอำนวยความสะดวกของลูกจ้าง 1990 (Employees' Minimum Standards of Housing, Accommodations and Amenities Act 1990)** (Act 446) เดิมเป็น *Workers'* Minimum Standards of Housing and Amenities Act และวรรค 4(a) ของ Act A1604 เปลี่ยนชื่อย่อโดยมีผลตั้งแต่วันที่ 1 มิถุนายน 2020

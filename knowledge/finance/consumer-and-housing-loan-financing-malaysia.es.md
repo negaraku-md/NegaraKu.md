@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "hire-purchase-act-1967-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["SBR Malaysia", "Tasa Base Estandarizada", "Standardised Base Rate", "ratio de servicio de la deuda", "DSR", "préstamo de vivienda", "housing loan Malaysia", "Hire Purchase Act 1967", "BLR", "financiación responsable", "OPR"]
+framework: explainer
 ---
 
 Dos compradores de vivienda entran en dos bancos distintos con la misma nómina y salen con dos respuestas distintas. Ninguno de los bancos inventó su propio tipo de interés, y ninguno está siendo arbitrario. El sistema de préstamos minoristas de Malasia se rige por un pequeño conjunto de reglas compartidas — una que vincula cada préstamo a tipo variable a un único dial de política en Kuala Lumpur, una que decide cuánta deuda puede soportar y, para su coche, una ley completamente aparte de 1967.

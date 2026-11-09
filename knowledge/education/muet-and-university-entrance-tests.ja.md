@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "stpm" }
 related: []
 keywords: ["MUET", "Majlis Peperiksaan Malaysia", "MPM", "band MUET", "kemasukan universiti", "STPM", "kemahiran bahasa Inggeris", "ijazah sarjana muda"]
+framework: explainer
 ---
 
 STPMや予科（matrikulasi）で優秀な成績を収めていても、もう一つの結果がなければ、学位への出願書類は完成しない。その結果とはMUETのことであり、多くの学生は大学の出願締切が迫ってから、ようやくその重要性に気づく。

@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "benefits-in-kind" }
 related: ["benefits-in-kind", "corporate-tax-rates"]
 keywords: ["मलेशिया मोटर वाहन पूँजी भत्ता", "RM50000 RM100000 कार पूँजी भत्ता", "Schedule 3 paragraph 2(2)", "मलेशिया कंपनी कार कर कटौती", "मलेशिया EV पट्टा कर कटौती", "motor vehicle capital allowance Malaysia", "Schedule 3 paragraph 2(2)"]
+framework: rules
 ---
 
 एक कंपनी RM320,000 की एक कार्यकारी सैलून खरीदती है, उसे संयंत्र (plant) के रूप में

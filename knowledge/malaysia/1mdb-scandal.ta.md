@@ -79,6 +79,7 @@ sources:
 
 related: ["2018-change-of-government", "barisan-nasional", "prime-ministers-of-malaysia"]
 keywords: ["1MDB", "1Malaysia Development Berhad", "Najib Razak", "Jho Low", "Malaysia financial scandal"]
+framework: history-culture
 ---
 
 **1மலேசியா டெவலப்மென்ட் பெர்ஹாட் (1MDB)** என்பது [நஜிப் ரசாக்](/ta/malaysia/najib-razak) பிரதமராக இருந்த

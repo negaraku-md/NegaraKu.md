@@ -76,6 +76,7 @@ faq:
     a: Para la mayoría de las cuentas de ahorro o corrientes sencillas, el único documento obligatorio para un ciudadano o residente permanente es el MyKad original. Según los requisitos publicados por CIMB, solo se solicitan pruebas adicionales —como una carta de empleo, un estado de cuenta del EPF, una nómina o estados de cuenta bancarios recientes— en situaciones específicas, como una cuenta de nivel superior o cuando el domicilio que desea registrar difiere del impreso en su MyKad. Los menores necesitan un certificado de nacimiento más el MyKad de un padre o tutor.
   - q: ¿Por qué los bancos piden documentos distintos según mi tipo de visado?
     a: Porque los bancos vinculan los documentos justificativos al motivo concreto por el que usted se encuentra en Malasia, que es lo que certifica su pase. Según los requisitos publicados por CIMB, a un extranjero que trabaja con un Pase de Empleo (Employment Pass) se le suele pedir una carta de empleo y una prueba de un salario mensual por encima del umbral del banco (CIMB indica RM10,000); a un titular de un Pase de Estudiante (Student Pass), un carné de estudiante y una carta de matrícula; y a un titular de un Pase de Dependiente (Dependant Pass), un certificado de matrimonio cuando proceda. Todos necesitan un pasaporte y un pase válidos durante al menos seis meses.
+framework: how-to
 ---
 
 Un ciudadano malasio entra en una sucursal con un MyKad, firma un formulario y

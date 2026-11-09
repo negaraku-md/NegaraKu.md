@@ -58,6 +58,7 @@ social:
 verificationNeeded:
   - "Pertikaian pewarisan takhta 2025-2026 ialah satu perkara yang sedang berkembang dengan riwayat yang bercanggah; status Undang Sungai Ujong, pengisytiharan pemecatan 19 April 2026, dan pengisytiharan saingan harus disahkan semula dengan sumber negeri rasmi sebelum mana-mana butiran dianggap sebagai muktamad."
   - "Tarikh pertabalan/pengisytiharan tepat Tuanku Muhriz sebagai Yang di-Pertuan Besar ke-11 (lazimnya diberikan sebagai 29 Disember 2008) harus disahkan dengan portal diraja negeri."
+framework: history-culture
 ---
 
 Di jantung Semenanjung Malaysia terletak sebuah kerajaan yang memecah setiap peraturan monarki Melayu. Pemerintahnya tidak dilahirkan untuk takhta tetapi dipilih untuknya. Keluarga besarnya menjejaki keturunan mereka bukan menerusi bapa tetapi menerusi ibu. Dan nama negeri itu sendiri, Negeri Sembilan, "Negeri yang Sembilan", mengenang bukan satu wangsa diraja tunggal tetapi sebuah konfederasi daerah yang disatukan merentasi bukit-bukau pedalaman. Untuk memahami bagaimana institusi tunggal ini terbentuk bererti mengikuti satu barisan pendatang Minangkabau yang menyeberangi Selat Melaka dari Sumatera, membawa satu adat bersama mereka, dan pada waktunya menjemput seorang putera dari kampung halaman untuk memerintah mereka.

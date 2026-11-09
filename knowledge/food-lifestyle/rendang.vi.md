@@ -96,6 +96,7 @@ social:
     - "#MalaysianFood"
     - "#HariRaya"
     - "#Minangkabau"
+framework: explainer
 ---
 
 Đi ngang một gian bếp Mã Lai vào những ngày trước Hari Raya, bạn thường sẽ nghe

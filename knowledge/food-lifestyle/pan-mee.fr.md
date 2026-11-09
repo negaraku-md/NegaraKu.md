@@ -89,6 +89,7 @@ verificationNeeded:
   - "Si le pan mee sec au piment a été « inventé » précisément au Restoran Kin Kin ou, plus largement, dans le quartier de Chow Kit à Kuala Lumpur : Wikipédia place son origine à Chow Kit, tandis que l'attribution à Kin Kin circule largement dans les médias gastronomiques et les blogs de recettes mais n'est pas fermement documentée."
   - "Les garnitures standard, en particulier si le champignon noir (plutôt que le shiitake séché ou d'autres champignons) est traditionnel : recettes et étals réputés varient ; à confirmer auprès d'une source culinaire malaisienne."
   - "La relation et la dénomination entre le pan mee et le mee hoon kueh, ainsi que l'affirmation selon laquelle les zones de langue hokkien (y compris Singapour) préfèrent le nom mee hoon kueh : les sources les décrivent comme étroitement liés ou comme le même plat sous des appellations dialectales différentes ; à confirmer auprès d'une source régionale."
+framework: explainer
 ---
 
 Entrez dans un café de Kuala Lumpur, Seremban ou Ipoh et vous trouverez un étal qui

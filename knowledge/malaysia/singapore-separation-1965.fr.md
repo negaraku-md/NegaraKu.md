@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
 related: ["formation-of-malaysia-1963", "ma63", "independence-1957"]
 keywords: ["séparation de Singapour 1965", "Accord d'indépendance de Singapour", "Jour de Singapour", "Loi sur la Constitution et la Malaisie (Amendement de Singapour) 1965", "Malaysian Malaysia", "Tunku Abdul Rahman", "Lee Kuan Yew"]
+framework: history-culture
 ---
 
 Un pays a perdu un État fondateur en un seul week-end. L'accord fut signé un samedi, l'amendement constitutionnel adopté le lundi, et à 10 heures ce même lundi une proclamation d'indépendance était lue sur Radio Singapura. La plupart des fédérations qui éclatent le font lentement et bruyamment. Celle-ci fut dissoute — au sens juridique — en environ quarante-huit heures, par des documents rédigés dans le secret et signés par quinze ministres.

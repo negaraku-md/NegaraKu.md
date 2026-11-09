@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "indian-classical-arts-in-malaysia", "thaipusam", "estate-tamil-community", "temple-music-nadaswaram"]
 keywords: ["சிலம்பம்", "Silambam", "மலேசியா சிலம்பம்", "தமிழ் தற்காப்புக் கலை", "நீண்ட தடி", "அடவுகள்", "குத்து வரிசை", "Silambam Malaysia"]
+framework: history-culture
 ---
 
 At a temple festival or a Tamil New Year event in Malaysia, you may see a young man twirling a long bamboo staff above his head and around his body at lightning speed, in time with the beat of the drums. That spinning is not merely for show — it is the hallmark of silambam, a Tamil martial art more than one and a half thousand years old.

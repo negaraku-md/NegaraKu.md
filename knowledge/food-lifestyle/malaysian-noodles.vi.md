@@ -97,6 +97,7 @@ verificationNeeded:
   - "Việc quy pan mee cho các đầu bếp Hẹ và loh shi fun/lai fun cho các nhóm phương ngữ cụ thể — thường được lặp lại trong các bài viết ẩm thực nhưng không được ghi chép nhất quán; hãy xác nhận với nguồn ẩm thực hoặc di sản địa phương."
   - "Liệu 'mee hoon'/'mihun' và 'bihun' có được dùng thay thế cho nhau khắp Malaysia hay không, hay cách dùng theo vùng có phân biệt chúng — hãy đối chiếu với một từ điển Malaysia hoặc nguồn nghiên cứu ẩm thực."
   - "Khẳng định rằng phần lớn sợi mì Malaysia có nguồn gốc Hoa Nam (Phúc Kiến, Triều Châu, Quảng Đông, Hẹ) được bản địa hóa — được chấp nhận rộng rãi nhưng hãy xác nhận các quy kết cụ thể bằng tài liệu lịch sử ẩm thực chứ không phải truyền thông ẩm thực."
+framework: explainer
 ---
 
 Gọi "mì" ở một quán cà phê Malaysia thì câu hỏi tiếp theo gần như luôn là một câu hỏi khác: mì *nào*?

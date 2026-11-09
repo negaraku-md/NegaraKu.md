@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "pcb-mtd-malaysia" }
 related: ["payroll-rates-deadlines-malaysia", "payroll-compliance-malaysia", "epf-socso-guide"]
 keywords: ["Form E deadline Malaysia", "Form EA 28 February", "CP8D submission", "e-Data Praisi cut off", "Borang E LHDN majikan", "e-CP8D"]
+framework: how-to
 ---
 
 ஒவ்வொரு பிப்ரவரியிலும், மலேசியாவில் எங்காவது ஒரு ஊதியப்பட்டியல் இன்பாக்ஸ்

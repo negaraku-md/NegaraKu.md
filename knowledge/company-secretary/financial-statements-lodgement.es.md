@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "annual-return" }
 related: ["mbrs-2", "extension-of-time-ssm", "unaudited-financial-statements", "sdn-bhd-filing-calendar", "annual-return", "audit-exemption"]
 keywords: ["plazo estados financieros Malasia", "financial statements deadline Malaysia", "artículo 258 Ley de Sociedades 2016", "artículo 259 presentar estados financieros", "circular estados financieros miembros", "6 meses cierre ejercicio SSM", "30 días presentar estados financieros"]
+framework: rules
 ---
 
 Pregúntele a un administrador malasio cuándo vencen sus cuentas ante la SSM y

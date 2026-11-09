@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "circular-economy-blueprint" }
 related: []
 keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusan", "pengasingan sisa di punca", "ekonomi kitaran"]
+framework: explainer
 ---
 
 ジョホールでごみを捨てれば、それは連邦政府の仕事になる。同じごみをペナンで捨てれば、それは依然として地方議会の仕事のままだ。これこそが、マレーシアの固形廃棄物管理の中核にある奇妙な点である——堂々たる連邦法でありながら、採用に同意した場所でしか効力を持たないのだ。

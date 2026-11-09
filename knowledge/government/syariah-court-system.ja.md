@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "federal-state-division" }
 related: ["civil-and-syariah-courts", "kehakiman-mahkamah", "federal-constitution"]
 keywords: ["mahkamah syariah", "sistem mahkamah Malaysia", "Perkara 121(1A)", "bidang kuasa mahkamah syariah", "Mahkamah Tinggi Syariah", "Akta 355", "Akta 505", "undang-undang keluarga Islam"]
+framework: explainer
 ---
 
 婚姻の取消し（fasakh）を申し立てる妻と、RM60,000の債務を取り立てようとする商人は、どちらも一枚の書式を裁判所の窓口に提出することで、それぞれの案件を始める。しかし二人は同じ窓口に行くわけではなく、案件は同じ種類の裁判官によって審理されるわけでもなく、結果を左右する法律もまた二つの異なる立法機関に由来する。

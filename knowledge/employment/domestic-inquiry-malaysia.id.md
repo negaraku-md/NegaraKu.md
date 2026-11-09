@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "unfair-dismissal-malaysia" }
 related: ["termination-of-employment-malaysia", "unfair-dismissal-malaysia", "termination-benefits-malaysia"]
 keywords: ["siasatan dalaman malaysia", "prosedur domestic inquiry", "surat tunjuk sebab malaysia", "penggantungan kerja semasa siasatan", "seksyen 14 akta kerja", "pemberhentian salah laku malaysia"]
+framework: how-to
 ---
 
 Kebanyakan panduan HR di Malaysia memberikan siasatan dalaman hanya satu kalimat: "jalankan DI sebelum memberhentikan atas salah laku." Kalimat itulah penyebab pemberi kerja kalah kasus. Siasatan bukan sekadar kotak untuk dicentang sebelum keputusan yang sudah dibuat — ia adalah dasar bukti yang akan menjadi pegangan pemberi kerja berbulan-bulan kemudian di Mahkamah Perusahaan, dan ia gagal karena prosedur jauh lebih sering dibandingkan karena fakta.

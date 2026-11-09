@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "creditors-voluntary-winding-up" }
 related: ["close-a-company", "strike-off-company-malaysia", "creditors-voluntary-winding-up", "corporate-rescue-malaysia", "company-director-requirements"]
 keywords: ["penggulungan sukarela ahli malaysia", "perisytiharan kesolvenan seksyen 443", "pelikuidasi sdn bhd", "penggulungan sukarela solven malaysia", "members voluntary winding up", "seksyen 439 akta syarikat 2016"]
+framework: how-to
 ---
 
 Dokumen yang mentakrifkan penggulungan sukarela ahli bukanlah resolusi itu.

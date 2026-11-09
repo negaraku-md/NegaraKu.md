@@ -96,6 +96,7 @@ verificationNeeded:
   - "Tahun persis Dewakan dipromosikan ke dua Star——pemberitaan menyebutnya secara beragam sebagai upacara 2023 / edisi panduan 2024; konfirmasi edisi persisnya terhadap MICHELIN Guide."
   - "Angka bahwa Au Jardin memakai sekitar 85% hasil bumi Malaysia berasal dari satu laporan pers tunggal; konfirmasi dengan pihak restoran."
   - "Nama koki, tahun pembukaan, dan rincian lokasi untuk masing-masing restoran (mis. Au Jardin, Gen, Terra Dining, Akar) sebaiknya diperiksa ulang terhadap kanal resmi tiap restoran sebelum dikutip, karena hal-hal ini berubah seiring waktu."
+framework: profile
 ---
 
 Malaysia telah makan dengan gemilang selama bergenerasi——tetapi sebagian besar di

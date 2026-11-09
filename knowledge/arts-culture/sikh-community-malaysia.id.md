@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["tamil-in-malaysia", "chinese-dialects", "population-composition", "deepavali"]
 keywords: ["Sikh Malaysia", "Punjabi Malaysia", "gurdwara", "Vaisakhi", "Khalsa", "langar", "Tatt Khalsa Diwan", "komuniti Sikh", "bahasa Punjabi"]
+framework: history-culture
 ---
 
 Di barisan polisi dan benteng-benteng Inggris di Tanah Melayu abad ke-19, banyak petugas bersorban dan berjanggut lebat itu bukan orang setempat — mereka orang Sikh yang didatangkan ribuan mil dari Punjab di barat laut India. Dari tugas menjaga keamanan itulah tumbuh salah satu komunitas minoritas Malaysia yang paling kecil tetapi paling mudah dikenali.

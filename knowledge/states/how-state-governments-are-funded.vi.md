@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-special-rights-ma63" }
 related: []
 keywords: ["hasil negeri", "geran perkapita", "geran jalan raya negeri", "Jadual Kesepuluh", "Perkara 109", "Perkara 110", "kewangan persekutuan-negeri", "royalti", "cukai jualan negeri"]
+framework: explainer
 ---
 
 Khi một chính quyền bang tại Malaysia lập ngân sách của mình, nó bắt đầu với một thực tế hiếm khi được nhắc đến: những khoản thuế cho nguồn thu lớn nhất — thuế thu nhập, thuế bán hàng và dịch vụ, hải quan — không phải của nó để thu. Các nguồn đó thuộc thẩm quyền của Liên bang. Cái còn lại cho bang, và cách khoảng cách đó được lấp, được quy định rõ ràng trắng đen trong Hiến pháp Liên bang.

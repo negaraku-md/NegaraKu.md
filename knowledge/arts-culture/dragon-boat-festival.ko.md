@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "winter-solstice-festival"]
 keywords: ["端午节", "端阳节", "五月节", "粽子", "bak chang", "娘惹粽", "咸肉粽", "碱水粽", "龙舟", "赛龙舟", "屈原", "艾草", "菖蒲", "立蛋", "直落巴巷水坝", "马来西亚华人", "Dragon Boat Festival Malaysia", "Duanwu"]
+framework: history-culture
 ---
 
 음력 5월 5일이 다가올 무렵이면 화인 가정의 부엌에서는 쭝쯔 잎과 찹쌀의 향이 피어오릅니다. 주부들은 물에 불린 찹쌀과 고소하게 볶은 소를 깔때기 모양으로 접은 잎에 한 겹 한 겹 채우고, 골풀 끈으로 단단히 묶어, 한 줄 한 줄 솥에 내려 오래 삶습니다. 같은 때, 페낭섬 북서쪽 끝의 뜰록 바항 댐에서는 가느다란 드래곤보트들이 수면을 가르며 나아가고, 뱃머리에 선 북잡이가 박자를 두드리면 수십 명의 노잡이가 그 박자에 맞춰 일제히 노를 젓습니다 — 이것이 말레이시아 단오절의 두 얼굴입니다. 한쪽은 부엌의 쭝쯔 향기, 다른 한쪽은 수면 위의 경주입니다.

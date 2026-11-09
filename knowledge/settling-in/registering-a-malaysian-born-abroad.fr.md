@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "applying-for-malaysian-citizenship-article-15" }
 related: []
 keywords: ["citoyenneté par filiation", "citizenship by descent", "Article 14(1)(b)", "Formulaire D", "Form D", "naissance à l'étranger", "JPN", "Deuxième annexe", "amendement constitutionnel 2024", "Article 15(2)"]
+framework: explainer
 ---
 
 Un bébé naît dans un hôpital de Londres de parents malaisiens en poste là-bas. L'acte de naissance local indique que le bébé est né au Royaume-Uni, et pourtant, selon la loi malaisienne, l'enfant est peut-être déjà citoyen — à condition que le statut soit dûment consigné. La manière dont ce statut est confirmé, et qui y a droit, sont des questions qui touchent à des dispositions fondamentales de la Constitution fédérale (Federal Constitution).

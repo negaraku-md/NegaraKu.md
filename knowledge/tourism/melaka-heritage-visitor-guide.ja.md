@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "getting-around-malaysia-public-transport" }
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["Melaka heritage", "Melaka UNESCO World Heritage", "Jonker Street", "Baba Nyonya Peranakan Melaka", "A Famosa Porta de Santiago", "Stadthuys Dutch Square", "St Paul's Hill Melaka", "Melaka travel guide"]
+framework: explainer
 ---
 
 夕暮れのオランダ広場に立てば、ただ一瞥のうちに五世紀を読み取ることができる：一方にはサーモンレッドのオランダ市庁舎、その上の丘にはポルトガル時代の教会の遺構、かつて要塞をつなぎとめ、イギリス人が取り壊そうとした石の門、そして——徒歩2分のところに——いまは金曜夜のバザールのために灯りをともした中華・マレーの町屋の小路がある。マラッカはその歴史を大きな都市に広げてはいない。それを、午後のうちに歩き通せるおよそ1平方マイルのなかに積み重ねている。ここでは、その読み解き方と、それを軸にした訪問の計画の立て方を紹介する。

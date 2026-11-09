@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["opening-bank-account"]
 keywords: ["PTPTN", "pinjaman pendidikan", "kelayakan PTPTN", "bayaran balik PTPTN", "Akta 566", "pembiayaan pengajian tinggi Malaysia", "SSPN"]
+framework: explainer
 ---
 
 பல மாணவர்கள் ஒரே அனுமானத்துடன் தங்கள் PTPTN சலுகை ஆவணங்களில்

@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["moving-to-malaysia-first-steps", "mykad", "imigresen"]
 keywords: ["mobile sim malaysia", "prepaid sim registration malaysia", "MCMC sim registration", "postpaid vs prepaid malaysia", "buy sim card malaysia foreigner", "CelcomDigi Maxis U Mobile"]
+framework: explainer
 ---
 
 Entrez dans n'importe quelle boutique de téléphonie en Malaisie, payez une

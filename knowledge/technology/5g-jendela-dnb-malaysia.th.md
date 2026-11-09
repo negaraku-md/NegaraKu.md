@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "internet-and-fibre" }
 related: ["malaysias-telcos-and-5g", "internet-and-fibre"]
 keywords: ["JENDELA", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "second 5G network", "U Mobile", "MCMC", "national broadband plan", "spectrum allocation", "700MHz", "3.5GHz"]
+framework: explainer
 ---
 
 ถามชาวมาเลเซียสองคนว่าโครงข่ายมือถือของประเทศดำเนินการอย่างไร แล้วคุณมักจะได้คำตอบสองแบบที่ถูกครึ่งเดียวต่างกัน — เพราะจริง ๆ แล้วมีสองเรื่องราวแยกกันที่พันกันอยู่ เรื่องหนึ่งคือแผนความครอบคลุมบรอดแบนด์ที่มีชื่อซึ่งคนส่วนใหญ่เคยเห็นบนป้ายรัฐบาล อีกเรื่องหนึ่งคือการต่อสู้ที่เคลื่อนไหวรวดเร็วว่าใครจะได้เป็นเจ้าของท่อ 5G การเข้าใจการเชื่อมต่อมาเลเซียสมัยใหม่หมายถึงการแยกสองเรื่องราวนี้ให้ชัด

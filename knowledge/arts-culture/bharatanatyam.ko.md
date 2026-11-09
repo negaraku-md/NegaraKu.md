@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["tamil-in-malaysia", "deepavali", "thaipusam"]
 keywords: ["Bharatanatyam", "Indian classical dance Malaysia", "Temple of Fine Arts", "Sutra Dance Theatre", "Ramli Ibrahim", "Malaysian Indian dance", "nritta nritya", "Carnatic music", "Malaysia Barathanatyam Dance Association"]
+framework: history-culture
 ---
 
 무용수의 발이 빠르고 정확한 무늬로 바닥을 칩니다. 방울이 므리당감(mridangam) 북의 박자에 맞추어 울립니다. 그녀의 손이 어떤 형상 — 사슴, 연꽃, 물음 — 을 이루고, 눈이 그것을 좇은 뒤 얼굴이 관객이 그저 보는 것이 아니라 느끼도록 의도된 감정으로 답합니다. 그러다 리듬이 마무리되면 그녀는 조각 같은 자세를 붙잡고, 음악은 침묵으로 떨어집니다.

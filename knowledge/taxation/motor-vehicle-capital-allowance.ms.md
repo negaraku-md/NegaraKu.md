@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "benefits-in-kind" }
 related: ["benefits-in-kind", "corporate-tax-rates"]
 keywords: ["elaun modal kenderaan motor Malaysia", "had elaun modal kereta RM50000 RM100000", "Jadual 3 perenggan 2(2)", "potongan cukai kereta syarikat Malaysia", "potongan cukai pajakan EV Malaysia"]
+framework: rules
 ---
 
 Sebuah syarikat membeli sebuah kereta eksekutif bernilai RM320,000, merekodkannya

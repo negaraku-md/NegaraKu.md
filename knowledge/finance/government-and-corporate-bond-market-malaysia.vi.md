@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["bank-negara-malaysia", "bursa-malaysia", "federal-budget", "epf-as-investor"]
 keywords: ["MGS", "GII", "sukuk", "Malaysian government securities", "corporate bonds", "RENTAS", "Sukuk Simpanan Rakyat", "bond market Malaysia"]
+framework: explainer
 ---
 
 Khi chính phủ Malaysia xây một đường cao tốc hay một bệnh viện, họ hiếm khi trả tiền mặt tại chỗ. Họ vay — và giấy nợ họ đưa ra là một trái phiếu. Nhân điều đó qua nhiều thập kỷ chi tiêu phát triển, cộng thêm mọi công ty vay theo cùng cách, và bạn có được một trong những thị trường trái phiếu bằng đồng nội tệ sâu nhất châu Á, chạy trên hai tuyến song song: nợ thông thường và sukuk tuân thủ Shariah.

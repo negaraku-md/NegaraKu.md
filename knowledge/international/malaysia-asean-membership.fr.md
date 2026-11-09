@@ -129,6 +129,7 @@ relations:
   - { rel: "related-to", to: "rcep-malaysia" }
 related: []
 keywords: ["ASEAN", "Malaysia ASEAN", "Deklarasi Bangkok", "Piagam ASEAN", "Komuniti ASEAN", "pengerusi ASEAN 2025", "Tun Abdul Razak", "Timor-Leste ASEAN"]
+framework: explainer
 ---
 
 Le 8 août 1967, cinq hommes se sont réunis dans la grande salle du bâtiment du ministère des Affaires étrangères à Bangkok et ont signé un document de deux pages. L'un d'eux, le vice-Premier ministre de la Malaisie Tun Abdul Razak Hussein, plaçait la Malaisie au sein d'une organisation qui allait devenir le cadre central de la politique étrangère du pays pendant près de six décennies — et que la Malaisie elle-même a présidée en 2025.

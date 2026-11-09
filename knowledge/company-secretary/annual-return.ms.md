@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "mbrs-2" }
 related: ["sdn-bhd-filing-calendar", "financial-statements-lodgement", "ssm-late-lodgement-fees", "mbrs-2", "statutory-registers", "appoint-company-secretary", "close-a-company"]
 keywords: ["penyata tahunan Malaysia", "seksyen 68 Akta Syarikat 2016", "tarikh akhir penyata tahunan SSM", "penyata tahunan tahun pemerbadanan", "penyata tahunan berbanding penyata kewangan"]
+framework: rules
 ---
 
 Dua perkara yang paling kerap menyebabkan pemfailan ini tersilap berbanding perkara

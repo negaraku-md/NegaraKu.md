@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "registering-a-civil-marriage" }
 related: ["registering-a-marriage-civil", "syariah-court-system"]
 keywords: ["muslim marriage malaysia", "nikah registration", "SPPIM", "wali hakim", "kursus pra perkahwinan", "akad nikah", "syariah court marriage", "islamic family law act 303"]
+framework: how-to
 ---
 
 两个人准备结婚了，两家人也见了面，日子也定了下来——但在马来西亚，穆斯林婚姻要成为已登记的婚姻，必须先通过由州属主导的一套既定行政与宗教程序。根据联邦宪法，伊斯兰事务属于州权范畴，因此每个州及联邦直辖区都有本身的伊斯兰家庭法法令，以及本身的州伊斯兰宗教局（Jabatan Agama Islam Negeri）。下述步骤在全国大致相似；本文以联邦直辖区法律，即《1984 年伊斯兰家庭法（联邦直辖区）法令》（第 303 号法令，Act 303）作为确切的法定条文依据。

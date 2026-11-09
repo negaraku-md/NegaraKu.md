@@ -121,6 +121,7 @@ keywords:
   - "Johor Bahru premise licence fee"
   - "JS-SEZ Johor Bahru"
   - "foreign property purchase Johor"
+framework: profile
 ---
 
 Johor Bahru adalah satu-satunya kota Malaysia yang tingkat upah minimum, rencana

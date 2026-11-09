@@ -70,6 +70,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#WongMeiKee", "#SiewYok", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 A corner stall in Pudu opens for only a few hours at lunch, and the queue starts

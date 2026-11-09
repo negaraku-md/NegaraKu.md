@@ -87,6 +87,7 @@ relations:
   - { rel: "compares-with", to: "malaysia-indonesia-relations" }
 related: []
 keywords: ["hubungan Malaysia Singapura", "perjanjian air 1962", "RTS Link", "Tambak Johor", "Pulau Batu Puteh", "JS-SEZ", "perpisahan 1965", "dagangan dua hala"]
+framework: explainer
 ---
 
 Hai quốc gia chia sẻ một con đường đắp (causeway), một nguồn cung cấp nước, hàng trăm ngàn lao động qua lại mỗi ngày — và một lịch sử chia tách đầy cảm xúc. Không có quan hệ song phương nào của Malaysia gần gũi hơn, phức tạp hơn, và quan trọng hơn để hiểu so với quan hệ của nó với Singapore.

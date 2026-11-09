@@ -80,6 +80,7 @@ relations:
   - { rel: "compares-with", to: "company-tax-residence" }
 related: ["personal-tax-rates", "company-tax-residence", "personal-tax-reliefs"]
 keywords: ["tax residence Malaysia individual", "182 days Malaysia tax", "section 7(1) Income Tax Act", "taraf mastautin individu", "am I tax resident Malaysia", "non-resident 30 percent Malaysia"]
+framework: explainer
 ---
 
 一名外籍人士在 10 月 1 日抵达吉隆坡，工作到年底，他的薪资团队按非居民统一税率

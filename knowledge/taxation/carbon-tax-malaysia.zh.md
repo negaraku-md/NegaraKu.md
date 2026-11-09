@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "national-energy-transition-roadmap" }
 related: []
 keywords: ["Malaysia carbon tax", "carbon pricing Malaysia", "iron steel energy carbon tax", "National Carbon Market Policy", "Climate Change Bill Malaysia", "cukai karbon"]
+framework: explainer
 ---
 
 马来西亚正准备首次为碳排放定价，而且是从排放量最大的行业开始着手。

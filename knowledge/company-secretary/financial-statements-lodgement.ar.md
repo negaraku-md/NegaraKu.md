@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "annual-return" }
 related: ["mbrs-2", "extension-of-time-ssm", "unaudited-financial-statements", "sdn-bhd-filing-calendar", "annual-return", "audit-exemption"]
 keywords: ["موعد إيداع القوائم المالية ماليزيا", "financial statements deadline Malaysia", "المادة 258 قانون الشركات 2016", "المادة 259 إيداع القوائم المالية", "تعميم القوائم المالية على الأعضاء", "6 أشهر نهاية السنة المالية SSM", "30 يوماً لإيداع القوائم المالية"]
+framework: rules
 ---
 
 اسأل مديراً ماليزياً عن موعد استحقاق حسابات شركته لدى SSM، وستحصل على واحدة من إجابتَين: «ستة أشهر بعد نهاية السنة» أو «سبعة أشهر بعد نهاية السنة». وكلتاهما خطأ، لأنّ للسؤال إجابتَين، والثانية تتوقّف على متى أدّيتَ الأولى.

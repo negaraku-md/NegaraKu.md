@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["tamil-in-malaysia", "deepavali", "thaipusam"]
 keywords: ["Bharatanatyam", "Indian classical dance Malaysia", "Temple of Fine Arts", "Sutra Dance Theatre", "Ramli Ibrahim", "Malaysian Indian dance", "nritta nritya", "Carnatic music", "Malaysia Barathanatyam Dance Association"]
+framework: history-culture
 ---
 
 เท้าของนักรำกระทบพื้นเป็นลวดลายที่รวดเร็วและแม่นยำ กระดิ่งดังขานรับจังหวะของกลองมฤทังคัม (mridangam) มือของเธอก่อรูปเป็นรูปทรงหนึ่ง — กวาง ดอกบัว คำถาม — และดวงตาของเธอมองตามก่อนที่สีหน้าจะตอบด้วยอารมณ์ที่ผู้ชมควรรู้สึก ไม่ใช่เพียงมองดู แล้วจังหวะก็คลี่คลาย เธอค้างท่วงท่าราวประติมากรรม และดนตรีเงียบลง

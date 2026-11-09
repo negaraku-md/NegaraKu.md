@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "sistem-pendidikan-malaysia" }
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["pendaftaran tahun 1", "idme moe gov my", "سن الالتحاق بالمدرسة الابتدائية", "eDaftar Menengah APDM", "BPPS tingkatan 1", "المدرسة الحكومية في ماليزيا", "قانون التعليم 1996", "تأجيل السنة الأولى"]
+framework: how-to
 ---
 
 يُفاجأ كثير من أولياء الأمور حين يجدون أنهم لا يستطيعون «تسجيل» طفلهم في الصف الأول

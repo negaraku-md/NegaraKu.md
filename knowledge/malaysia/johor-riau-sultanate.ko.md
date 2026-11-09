@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "straits-settlements" }
 related: ["melaka-sultanate", "portuguese-melaka-1511", "straits-settlements", "singapore-separation-1965"]
 keywords: ["Kesultanan Johor-Riau", "Kesultanan Johor", "Sultan Alauddin Riayat Shah II", "Sultan Mahmud Shah", "waris Kesultanan Melaka", "Johor Lama", "Dinasti Bendahara", "Riau-Lingga", "institusi diraja Melayu"]
+framework: history-culture
 ---
 
 1511년, 포르투갈의 대포가 하나의 도성을 무너뜨렸습니다 — 그러나 왕좌를 무너뜨리지는 못했습니다. 말라카(Melaka) 성이 함락되었을 때, 마지막 말라카 술탄인 술탄 마흐무드 샤(Sultan Mahmud Shah)는 항복하지 않았습니다. 왕은 왕실 가족, 대신들, 그리고 무엇보다 말라카를 하나의 술탄국이게 한 제도의 총체를 이끌고 남쪽으로 물러났습니다. 도성은 사라졌으나, 그 술탄국은 이동했습니다.

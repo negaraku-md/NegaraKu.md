@@ -108,6 +108,7 @@ relations:
   - { rel: "related-to", to: "payroll-rates-deadlines-malaysia" }
 related: ["payroll-rates-deadlines-malaysia", "payroll-compliance-malaysia", "epf-employer-guide"]
 keywords: ["HRD Corp levy rate", "HRDF registration threshold", "1% levy Malaysia", "PSMB Act First Schedule", "HRD Corp claimable courses", "levy forfeiture"]
+framework: rules
 ---
 
 Dos preguntas determinan su situación ante HRD Corp, y casi todas las guías en

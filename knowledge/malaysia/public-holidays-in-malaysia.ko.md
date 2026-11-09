@@ -80,6 +80,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: explainer
 ---
 
 말레이시아 전역에서 여행, 제품 출시, 급여 지급을 계획하다 보면, 외부인을 당황하게 하는 사실을 금방 발견합니다. 쿠알라룸푸르에서 공휴일인 날이 쿠칭에서는 평범한 근무일일 수 있고, 그 반대도 마찬가지입니다. 말레이시아에는 하나의 국가 공휴일 목록이 있다기보다, 하나의 국가 층과 그 위에 쌓인 열세 개의 주 층이 있습니다.

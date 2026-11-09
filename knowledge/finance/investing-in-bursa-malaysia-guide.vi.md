@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "unit-trust-funds-malaysia" }
 related: ["bursa-malaysia", "securities-commission-malaysia", "unit-trust-funds-malaysia"]
 keywords: ["CDS account", "Bursa Anywhere", "stockbroker Malaysia", "how to buy shares", "brokerage fees", "clearing fee", "stamp duty shares"]
+framework: how-to
 ---
 
 Sở hữu một phần của Maybank hay Tenaga bắt đầu với hai tài khoản, không phải một — và không cái nào trong số đó là một tài khoản ngân hàng. Trước khi bạn có thể mua một cổ phiếu duy nhất trên Bursa Malaysia, bạn cần một nơi để *giữ* cổ phiếu và một nơi để *đặt lệnh*. Đây là cách hai cái khớp với nhau, và mỗi giao dịch thực sự tốn bao nhiêu.

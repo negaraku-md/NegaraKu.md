@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "sector-licence-directory" }
 related: ["sector-licence-directory", "manufacturing-licence-malaysia"]
 keywords: ["anti-dumping duty malaysia", "countervailing duty malaysia", "act 504", "miti trade remedies", "anti dumping steel malaysia", "import hs code duty malaysia", "trade remedies petition malaysia"]
+framework: how-to
 ---
 
 ผู้นำเข้าตรวจปล่อยสินค้าเหล็กเคลือบสังกะสีชนิดม้วน (galvanised steel coil) จากเวียดนาม ชำระอากรนำเข้าตามปกติ และต่อมาได้รับใบเรียกเก็บเงินจากศุลกากรสำหรับส่วนเพิ่มของมูลค่าธุรกรรม ไม่มีอะไรเปลี่ยนแปลงเกี่ยวกับตัวสินค้า สิ่งที่เปลี่ยนคือพิกัดอัตราศุลกากรและประเทศแหล่งกำเนิดปรากฏอยู่ด้วยกันในคำสั่งศุลกากรที่ประกาศในราชกิจจานุเบกษา ซึ่งไม่มีใครในห่วงโซ่นี้ได้อ่าน

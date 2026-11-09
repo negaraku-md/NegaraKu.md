@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "tamil-language-press" }
 related: ["chinese-education-in-malaysia", "chinese-clan-associations", "tamil-language-press", "languages-spoken"]
 keywords: ["华文报", "华文报业", "星洲日报", "中国报", "南洋商报", "光明日报", "东方日报", "世华媒体", "明报", "华教", "印刷机与出版物法令", "数码转型", "Chinese-language press Malaysia", "Sin Chew Daily", "Media Chinese International"]
+framework: history-culture
 ---
 
 Di kedai kopi (kopitiam) pada pagi hari, sebuah surat kabar Tionghoa yang terbuka lebar sering diletakkan bersebelahan dengan secangkir kopi. Pembaca membalik berita besar dalam dan luar negeri di halaman muka, lalu biasanya langsung menuju halaman yang paling mereka kenali — ada yang lebih dahulu melihat berita lokal tentang sekolah Tionghoa mana lagi yang mengadakan bazar amal, ada yang membalik suplemen sastra dan halaman opini, dan ada pula yang hanya mencari kolom obituari, iklan baris, dan hasil undian. Bagi banyak orang Tionghoa Malaysia, surat kabar Tionghoa bukan sekadar berita, melainkan juga kebiasaan membaca bahasa Tionghoa yang berlangsung setiap hari.

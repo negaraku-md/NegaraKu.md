@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["tax-incentives-directory", "personal-tax-reliefs", "new-incentive-framework"]
 keywords: ["angel tax incentive malaysia", "angel investor tax exemption", "pu a 167 2014", "cradle angel tax incentive", "mban accreditation", "startup investor tax relief malaysia"]
+framework: rules
 ---
 
 엔젤 세금 인센티브를 언급하는 모든 스타트업 자료는 그것이 2026년까지 유효하다고 말합니다. 그러나 관보는 다르게 말합니다. 현행 근거 문서는 소득세법 1967(Income Tax Act 1967) 제127(3)(b)조에 근거하여 제정되어 2013년 1월 1일부터 시행된 것으로 간주되는 소득세(면제)(제3호) 명령 2014(Income Tax (Exemption) (No. 3) Order 2014), P.U.(A) 167/2014입니다. 그 제5(a)(ii)항은 투자자가 **정해진 기일보다 늦지 않게** 장관에게 신청했을 것을 요구하며, 그 기일은 정확히 두 번 이동했습니다.

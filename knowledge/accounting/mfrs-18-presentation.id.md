@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "mfrs-vs-mpers" }
 related: ["mfrs-vs-mpers"]
 keywords: ["MFRS 18 Malaysia", "tarikh kuat kuasa MFRS 18", "subtotal untung operasi MFRS 18", "ukuran prestasi tertakrif pengurusan", "lima kategori MFRS 18", "MFRS 101 digantikan"]
+framework: explainer
 ---
 
 Setiap peringatan yang ditulis tentang MFRS 18 sejauh ini ditujukan kepada CFO perusahaan

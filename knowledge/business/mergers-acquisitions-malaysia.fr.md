@@ -87,6 +87,7 @@ keywords:
   - "take-over code Malaysia"
   - "offre publique obligatoire malaisie"
   - "due diligence juridique fiscale"
+framework: decision
 ---
 
 La plupart des gens se représentent une fusion ou une acquisition comme une signature unique et spectaculaire. En pratique, une opération malaisienne est une suite de décisions plus petites, et la première — *comment* vous achetez, et non si vous achetez — façonne discrètement tout ce qui suit : votre facture fiscale, les passifs dont vous héritez, les approbations dont vous avez besoin et le montant que finiront par facturer les avocats. Choisissez la bonne structure et la due diligence devient un exercice de valorisation ; choisissez mal et vous pouvez acheter un procès, une dette fiscale ou une licence que vous n'aviez jamais le droit de détenir. Ce guide parcourt tout le chemin, du choix entre une cession d'actions et une cession d'actifs jusqu'aux points de contact réglementaires qui décident si une opération se conclut proprement.

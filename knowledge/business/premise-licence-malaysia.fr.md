@@ -107,6 +107,7 @@ keywords:
   - "MBPJ lesen komposit"
   - "MBSA lesen komposit"
   - "DBKK lesen berniaga"
+framework: rules
 ---
 
 Votre licence de local peut être annulée demain, sans motif, et la municipalité ne

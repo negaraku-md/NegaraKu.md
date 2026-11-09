@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "sukan-tradisional-malaysia" }
 related: []
 keywords: ["sepak takraw", "sepak raga", "sukan kebangsaan malaysia", "peraturan sepak takraw", "piala raja sepak takraw", "persekutuan sepaktakraw malaysia"]
+framework: history-culture
 ---
 
 ลองนึกภาพวอลเลย์บอล แล้วตัดมือของผู้เล่นทุกคนออก สิ่งที่เหลืออยู่ คือการตบด้วยส้นเท้าสูงระดับศีรษะ การชงด้วยอก การเสิร์ฟที่ปล่อยขึ้นสูงในอากาศแล้วเตะด้วยส้น นั่นคือเซปักตะกร้อ หนึ่งในกีฬาที่ผาดโผนที่สุดในโลก และเป็นหนึ่งในกีฬาที่ผูกพันแนบแน่นที่สุดกับอัตลักษณ์ของโลกมลายู

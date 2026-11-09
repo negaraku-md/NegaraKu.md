@@ -85,6 +85,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaCompliance
     - OSHA
+framework: rules
 ---
 
 Obtenir une licence de fabrication donne l'impression d'être la ligne d'arrivée. C'est plutôt la ligne de départ. La licence répond à une seule question — *cette entreprise peut-elle produire ce produit à cette échelle ?* — mais elle ne dit rien sur le bâtiment dans lequel se trouvent les machines, sur les machines elles-mêmes, sur le risque d'incendie, sur la municipalité qui régit l'adresse, ni sur l'effluent qui descend dans le drain. Ce sont ces approbations-là qui vous permettent réellement d'*exploiter les locaux*, et une usine peut détenir une licence de fabrication parfaitement valable tout en étant illicite à occuper ou à exploiter.

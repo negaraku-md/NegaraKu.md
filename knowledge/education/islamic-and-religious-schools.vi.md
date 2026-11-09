@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "national-education-system" }
 related: ["jakim"]
 keywords: ["SABK", "sekolah agama", "tahfiz", "KAFA", "JAKIM", "pendidikan Islam", "sekolah agama rakyat", "jabatan agama negeri"]
+framework: explainer
 ---
 
 Một đứa trẻ ở Malaysia có thể dành buổi sáng ở trường quốc gia, buổi chiều ở lớp KAFA của nhà thờ Hồi giáo, và những năm thiếu niên ở ký túc xá tahfiz — ba môi trường giáo dục với người giám sát, chương trình và luật lệ khác nhau. Nhánh giáo dục tôn giáo Hồi giáo vận hành song song với hệ thống quốc gia, nhưng nó không phải là một khối đơn nhất. Hiểu ai đăng ký cái gì, và ai chịu trách nhiệm về cái gì, là chìa khóa để đọc các cuộc tranh luận công khai về chủ đề này một cách công bằng.

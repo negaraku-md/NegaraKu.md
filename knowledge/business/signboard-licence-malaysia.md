@@ -105,6 +105,7 @@ keywords:
   - "DBP Sah Bahasa"
   - "Bahasa Malaysia signboard rule"
   - "signboard licence fee DBKL"
+framework: rules
 ---
 
 Most guides tell you that Kuala Lumpur is the city where [Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka) has to

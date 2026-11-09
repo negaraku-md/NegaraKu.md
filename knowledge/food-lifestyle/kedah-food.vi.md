@@ -98,6 +98,7 @@ verificationNeeded:
   - "Phần chính xác của Kedah trong sản lượng lúa gạo cả nước Malaysia — các nguồn đưa ra khoảng 40%, chừng 43% và gần một nửa, trong khi một con số học thuật dựa trên MADA đặt vùng Muda ở khoảng 38,9%. Hãy xác minh với dữ liệu gốc của MADA hoặc Cục Thống kê Malaysia cho một năm cụ thể."
   - "Laksa Kedah / laksa utara thực sự khác asam laksa Penang đến đâu — một số nguồn xem khác biệt chủ yếu ở đồ ăn kèm (ví dụ thêm trứng luộc), số khác xem đó là nước dùng đặc hơn và hương vị dịu hơn, ít chua hơn — và loại cá nào là chuẩn (ikan kembung so với biến thể ikan termenung). Hãy xác minh với một nguồn ẩm thực hoặc di sản của Kedah."
   - "Trọng lượng tương đối của ảnh hưởng Nam Thái so với Sumatra lên ẩm thực Mã Lai của Kedah, và liệu budu có thực sự thuộc về mâm cơm Kedah hay không — budu gắn bó mạnh nhất với bờ biển phía Đông (Kelantan/Terengganu), trong khi Kedah dựa vào pekasam. Hãy xác minh với một nguồn lịch sử ẩm thực vùng miền."
+framework: history-culture
 ---
 
 Lái xe lên phía bắc bán đảo, đất đai trải phẳng thành một tấm xanh và vàng gần như liền

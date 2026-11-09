@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "mfrs-vs-mpers" }
 related: ["mfrs-vs-mpers"]
 keywords: ["MFRS 18 Malaysia", "MFRS 18 effective date", "operating profit subtotal MFRS 18", "management-defined performance measures", "MFRS 18 five categories", "MFRS 101 replaced"]
+framework: explainer
 ---
 
 到目前为止，每一份关于 MFRS 18 的警示文，对象都是一位正在准备投资者沟通计划的上市

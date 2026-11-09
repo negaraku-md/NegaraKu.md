@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "department-of-industrial-relations-malaysia" }
 related: ["trade-unions-malaysia", "employment-act-1955"]
 keywords: ["rundingan kolektif", "perjanjian kolektif", "pertikaian perusahaan", "hak rundingan tunggal", "pengiktirafan kesatuan", "mogok", "sekat masuk", "piket", "Akta Perhubungan Perusahaan 1967", "Mahkamah Perusahaan"]
+framework: rules
 ---
 
 一名希望雇主坐下来协商薪资的员工，不能仅仅提出请求——有一套法定流程必须走完，而每一个步骤都有其自身的截止期限。这套流程载于[《1967年劳资关系法令》](/law/industrial-relations-act-1967)（第177号法令，Act 177），由马来西亚劳资关系局（Jabatan Perhubungan Perusahaan Malaysia，JPPM）执行，它决定了谁可以谈判、可以谈判什么，以及罢工等劳资行动何时获准。

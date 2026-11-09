@@ -77,6 +77,7 @@ social:
 verificationNeeded:
   - "Nombre oficial del sistema ortográfico de 1972 en Malasia: distintas fuentes mencionan «Ejaan Rumi Baharu» y «Ejaan Rumi Bersama» — debe verificarse frente a las directrices oficiales del DBP"
   - "Año del sistema ortográfico de Za'ba: algunas fuentes indican que se introdujo en 1924 y otras que se compiló por completo en 1933 — debe verificarse frente a fuentes primarias"
+framework: history-culture
 ---
 
 Cuando leemos hoy una palabra malaya — en una señal de tráfico, en el periódico, en la pantalla del teléfono — la leemos con las mismas letras del alfabeto inglés: a, b, c, d, y así sucesivamente. Esa escritura se llama escritura rumi. Es tan habitual que muchos no se percatan de que el rumi no es la escritura originaria de la lengua malaya, y de que su forma pulcra y uniforme de hoy es fruto de un esfuerzo de estandarización que llevó más de cien años.

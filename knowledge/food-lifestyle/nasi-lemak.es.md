@@ -97,6 +97,7 @@ verificationNeeded:
   - "Las primeras referencias escritas del plato: el diccionario francés–malayo de Pierre-Étienne-Lazare Favre de 1875 y The Circumstances of Malay Life de Richard Olaf Winstedt (1909, p. 62). Se citan a través de Wikipedia; conviene confirmar la redacción original exacta (y si aparece el propio término 'nasi lemak' o solo una descripción de arroz hervido en leche de coco) cotejándola con los textos primarios."
   - "La afirmación concreta de que el nasi lemak, el roti canai y el teh tarik fueron declarados patrimonio nacional en el boletín oficial en virtud de la National Heritage Act 2005 en 2022: confirme el boletín y el año exactos con el Departamento de Patrimonio Nacional (Jabatan Warisan Negara) de Malasia."
   - "El relato de origen de la muchacha de Malaca 'Seri' / 'Nasi le, mak' es folclore, no historia documentada, y debe presentarse solo como leyenda."
+framework: explainer
 ---
 
 Antes de que el sol haya salido del todo, el olor llega primero a la calle: arroz

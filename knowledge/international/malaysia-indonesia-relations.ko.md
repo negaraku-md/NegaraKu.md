@@ -129,6 +129,7 @@ relations:
   - { rel: "compares-with", to: "malaysia-singapore-relations" }
 related: ["malaysia-singapore-relations"]
 keywords: ["hubungan Malaysia Indonesia", "serumpun", "pekerja migran Indonesia", "One Channel System", "Pulau Sebatik", "Ambalat", "Sipadan Ligitan", "sempadan Malaysia Indonesia", "Perundingan Tahunan"]
+framework: explainer
 ---
 
 이 두 국가는 같은 언어, 종교, 기원을 공유합니다 — 그러나 보르네오에서 가장 긴 육상 국경, 술라웨시해 밑바닥의 유전, 그리고 생계를 찾아 건너오는 수백만 명의 노동자도 공유합니다. 말레이시아-인도네시아 관계는 단지 평범한 외교 관계가 아닙니다; 그것은 복잡한 가족 관계로, 그 가까움 자체가 협력의 근원이자 동시에 긴장의 근원이 됩니다.

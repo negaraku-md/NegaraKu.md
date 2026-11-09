@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "parliament", "dewan-rakyat", "dewan-negara", "yang-di-pertuan-agong"]
 keywords: ["Jemaah Menteri", "Gabinete de Malasia", "Cabinet Malaysia", "Primer Ministro de Malasia", "Prime Minister", "Artículo 43 de la Constitución Federal", "Article 43", "confianza de la mayoría del Dewan Rakyat", "responsabilidad colectiva", "Yang di-Pertuan Agong", "Article 40(2)"]
+framework: explainer
 ---
 
 Ningún votante en Malasia marca una papeleta que diga «Primer Ministro». Una

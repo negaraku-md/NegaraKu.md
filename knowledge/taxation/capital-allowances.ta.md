@@ -136,6 +136,7 @@ relations:
   - { rel: "related-to", to: "non-deductible-expenses" }
 related: ["losses-and-group-relief", "form-c-and-cp204", "basis-period-and-accounting-date"]
 keywords: ["capital allowance malaysia", "schedule 3 income tax act 1967", "initial allowance annual allowance", "balancing charge malaysia", "small value asset RM2000", "qualifying plant expenditure"]
+framework: explainer
 ---
 
 உங்கள் கணக்குகளில் உள்ள தேய்மான வரி (depreciation) LHDN க்கு எந்த மதிப்பும் இல்லாதது. Income Tax Act 1967 இன் paragraph 39(1)(e) ஆனது Schedule 3 இன் நோக்கங்களுக்காகத் தகுதிபெறும் செலவினமாக இருக்கும் எந்தச் செலவினத்தையும் அனுமதிக்கவில்லை — எனவே கணக்கியல் கட்டணம் முழுவதுமாக மீண்டும் சேர்க்கப்படுகிறது, மேலும் அந்தச் சொத்து உண்மையில் எவ்வளவு நிவாரணத்தை, எப்போது ஈட்டுகிறது என்பதை Schedule 3 அதன் சொந்த விதிமுறைகளின்படி தீர்மானிக்கிறது.

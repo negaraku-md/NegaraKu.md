@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "negaraku-anthem" }
 related: ["formation-of-malaysia-1963", "independence-1957", "negaraku-anthem"]
 keywords: ["Jalur Gemilang", "जालुर गेमिलांग", "मलेशिया का झंडा", "Malaysian flag", "14 धारियाँ", "14-कोणीय तारा", "अर्धचंद्र", "Mohamed bin Hamzah", "मलेशियाई झंडे के रंगों का अर्थ"]
+framework: history-culture
 ---
 
 # जालुर गेमिलांग: 13 राज्यों के लिए 14 धारियाँ क्यों

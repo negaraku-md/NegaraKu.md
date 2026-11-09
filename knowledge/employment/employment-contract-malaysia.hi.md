@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "non-compete-clause-malaysia" }
 related: ["employment-act-coverage", "termination-of-employment-malaysia", "stamp-duty-employment-contracts"]
 keywords: ["रोज़गार अनुबंध मलेशिया", "सेवा अनुबंध मलेशिया", "धारा 10 रोज़गार अधिनियम", "सूचना अवधि खंड मलेशिया", "अप्रवर्तनीय खंड रोज़गार अनुबंध", "employment contract malaysia"]
+framework: rules
 ---
 
 अनुबंध क़ानून नहीं है। यह एक दस्तावेज़ है जो क़ानून के भीतर संचालित होता है, और रोज़गार अधिनियम

@@ -114,6 +114,7 @@ relations:
   - { rel: "related-to", to: "cbcr-and-master-file" }
 related: ["cbcr-and-master-file", "permanent-establishment", "corporate-tax-rates", "losses-and-group-relief"]
 keywords: ["توثيق تسعير المعاملات ماليزيا", "transfer pricing documentation Malaysia", "التوثيق المتزامن", "contemporaneous TPD Malaysia", "عقوبة المادة 113B", "section 113B penalty", "الرسم الإضافي 140A(3C)", "P.U.(A) 165/2023", "عتبة تسعير المعاملات"]
+framework: rules
 ---
 
 مهلة الأربعة عشر يومًا هي الجزء الذي يُوقع الناس في المأزق. تُبلِّغ LHDN إشعارًا

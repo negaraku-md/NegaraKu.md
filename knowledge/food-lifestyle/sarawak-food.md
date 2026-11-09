@@ -94,6 +94,7 @@ verificationNeeded:
   - "Whether Sarawak laksa contains coconut milk — sources conflict (some describe a broth lightly enriched with coconut milk; others say it has little or none). Confirm against a Sarawak culinary or heritage source."
   - "The origin of kek lapis Sarawak (several accounts say the layered cake was introduced to Sarawak by Betawi/Indonesian migrants in the 1970s before being localised) — confirm with a culinary-heritage source rather than food media."
   - "Kuching's designation as a UNESCO Creative City of Gastronomy, reported as 2021 and as the first Malaysian city so recognised — confirm against the primary UNESCO Creative Cities Network listing."
+framework: explainer
 ---
 
 Cross the South China Sea from Peninsular Malaysia to Sarawak and the food

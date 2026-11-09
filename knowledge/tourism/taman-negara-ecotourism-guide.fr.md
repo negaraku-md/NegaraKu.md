@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "gunung-tahan" }
 related: ["orang-asli"]
 keywords: ["taman negara", "kuala tahan", "passerelle de canopée", "gunung tahan", "perhilitan", "parc national malaisie", "randonnée en jungle", "forêt tropicale"]
+framework: explainer
 ---
 
 Debout à l'embarcadère de Kuala Tahan à l'aube, à regarder la brume se lever d'une rivière plus ancienne que l'Himalaya, il est facile d'oublier que vous n'êtes qu'à une demi-journée de Kuala Lumpur. Taman Negara n'est pas une attraction fabriquée. C'est une forêt tropicale vivante qui est restée, en grande partie intacte, pendant des dizaines de millions d'années — et y entrer est moins cher et plus simple que presque aucun voyageur ne l'imagine.

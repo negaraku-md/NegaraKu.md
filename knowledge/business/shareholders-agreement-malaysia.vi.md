@@ -88,6 +88,7 @@ keywords:
   - "minority shareholder rights Malaysia"
   - "drag along tag along Sdn Bhd"
   - "perjanjian pemegang saham"
+framework: explainer
 ---
 
 Hai nhà sáng lập ký một thỏa thuận cổ đông hai mươi trang. Nó cho mỗi người một ghế

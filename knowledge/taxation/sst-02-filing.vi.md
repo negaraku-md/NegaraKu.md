@@ -77,6 +77,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-registration", "imported-taxable-services", "sales-tax-explained"]
 keywords: ["SST-02", "SST filing deadline Malaysia", "SST late payment penalty", "taxable period SST", "MySST return"]
+framework: rules
 ---
 
 Thang chế tài ngừng leo ở chín mươi ngày. Vượt qua điểm đó, nó được cố định ở 40%, nên

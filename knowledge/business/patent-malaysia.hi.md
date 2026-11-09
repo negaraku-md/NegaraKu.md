@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["industrial-design-malaysia", "ip-ownership-malaysia", "trademark-registration-malaysia"]
 keywords: ["मलेशिया पेटेंट", "यूटिलिटी इनोवेशन मलेशिया", "myipo पेटेंट फीस", "patents act 1983", "utility innovation vs patent", "patent malaysia"]
+framework: decision
 ---
 
 अधिकांश मलेशियाई SME जो पेटेंट के बारे में पूछते हैं, उनके पास पेटेंट-योग्य

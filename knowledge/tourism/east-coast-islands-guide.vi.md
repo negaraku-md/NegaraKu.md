@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "northeast-monsoon" }
 related: []
 keywords: ["Perhentian", "Redang", "Tioman", "Kapas", "marine park", "conservation fee", "northeast monsoon", "Malaysia islands", "snorkelling", "diving"]
+framework: explainer
 ---
 
 Xuất hiện tại một khu nghỉ dưỡng bãi biển Redang vào tháng 12 và bạn sẽ có khả năng thấy các thuyền đã đi, cầu tàu yên tĩnh và cửa hàng lặn đóng cửa. Các đảo bờ đông chạy theo một lịch được viết bởi biển, chứ không phải cuốn cẩm nang du lịch — và bởi một bộ quy tắc công viên biển mà hầu hết những người lần đầu chỉ khám phá ra tại quầy vé.

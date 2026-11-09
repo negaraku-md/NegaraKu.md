@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "northeast-monsoon" }
 related: []
 keywords: ["Perhentian", "Redang", "Tioman", "Kapas", "marine park", "conservation fee", "northeast monsoon", "Malaysia islands", "snorkelling", "diving"]
+framework: explainer
 ---
 
 Turn up at a Redang beach resort in December and you will likely find the boats gone, the jetty quiet and the dive shop shuttered. The east-coast islands run on a calendar written by the sea, not the tourist brochure — and by a set of marine-park rules most first-timers only discover at the ticket counter.

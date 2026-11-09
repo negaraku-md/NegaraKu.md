@@ -103,6 +103,7 @@ relations:
   - { rel: "affects", to: "transfer-pricing-documentation" }
 related: ["transfer-pricing-documentation", "form-c-and-cp204", "withholding-tax-non-compliance"]
 keywords: ["LHDN tax audit", "audit cukai LHDN", "tax audit framework Malaysia", "voluntary disclosure LHDN", "penalti audit cukai", "rangka kerja audit cukai"]
+framework: explainer
 ---
 
 マレーシアの税務調査に関する大半の手引きは、**机上調査**と**実地調査**を説明している。そのどちらの語も、LHDNが実際に運用しているフレームワークには登場しない。現行の文書――*Rangka Kerja Audit Cukai Pendapatan dan Majikan*（所得税・雇用主税務調査フレームワーク）、**2025年3月15日**発効――は二つの異なる方法を用いており、その違いが、あなたがどれだけの通知を受け、全体がどれだけ長く続くかを決める。

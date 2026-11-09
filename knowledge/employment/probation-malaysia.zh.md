@@ -60,6 +60,7 @@ relations:
   - { rel: "governs", to: "employment-contract-malaysia" }
 related: ["unfair-dismissal-malaysia", "employment-contract-malaysia", "termination-of-employment-malaysia"]
 keywords: ["probation malaysia", "terminate probationer malaysia", "confirmation of employment malaysia", "probation period malaysia law", "extend probation malaysia"]
+framework: explainer
 ---
 
 「他还在试用期，所以我们让他走就行了。」这句话为马来西亚雇主招来的劳资法庭裁决，

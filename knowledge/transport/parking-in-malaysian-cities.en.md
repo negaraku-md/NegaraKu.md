@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "road-tax-and-vehicle-registration" }
 related: []
 keywords: ["letak kereta", "e-parking", "kompaun letak kereta", "DBKL", "Smart Selangor Parking", "EZ Smart Park"]
+framework: explainer
 ---
 
 You dig around the car for coins for the ticket machine — but those machines have been gone since 2020. Parking in Malaysia's major cities now starts with a smartphone, not a jar of coins by the roadside.

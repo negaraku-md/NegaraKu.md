@@ -71,6 +71,7 @@ relations:
   - { rel: "administered-by", to: "malaysian-institute-of-accountants" }
 related: ["malaysian-institute-of-accountants"]
 keywords: ["materiality", "audit sampling", "ISA 320", "ISA 530", "ISA 450", "performance materiality", "tolerable misstatement", "statutory audit Malaysia"]
+framework: explainer
 ---
 
 在一套账目上签字的审计师，几乎从来没有查看过账目背后的每一笔交易——而准则恰恰认为这才是正确的工作方式。

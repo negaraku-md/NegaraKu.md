@@ -124,6 +124,7 @@ entity: "Employment Pass (Malaysia)"
 relations: []
 related: ["labour-law-map-malaysia", ]
 keywords: ["employment pass malasia", "EP categoría 1 salario", "Employment Pass salario 2026", "registro ESD", "myxpats", "expatriado malasia", "renovación Employment Pass"]
+framework: rules
 ---
 
 El 1 de junio de 2026, el precio de un expatriado en Malasia se duplicó en la cúspide.

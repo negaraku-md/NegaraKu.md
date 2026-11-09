@@ -75,6 +75,7 @@ verificationNeeded:
   - "Confirm exact dates (premiership, birth, death) against the Perdana Leadership Foundation and PMO."
   - "Death date and place differ across sources: the Perdana Leadership Foundation and Wikipedia's infobox give 29 May 1990 (San Francisco Bay Area, California), while Encyclopædia Britannica records 28 May 1990 at Daly City, California, and Wikipedia's article body cites Seton Medical Center, San Mateo County — reconcile before publication."
   - "On the choice of deputy: Mahathir Mohamad was appointed Deputy Prime Minister in 1976, but some accounts (e.g. Wikipedia) report Ghazali Shafie was Hussein Onn's personally preferred candidate — verify how the appointment is characterised."
+framework: profile
 ---
 
 Few Malaysian leaders carried a heavier inheritance than Hussein Onn. He was the

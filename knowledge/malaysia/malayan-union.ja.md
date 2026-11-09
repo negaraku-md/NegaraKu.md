@@ -80,6 +80,7 @@ keywords:
   - "kedudukan Raja-Raja Melayu"
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
+framework: history-culture
 ---
 
 一年十か月のあいだ、マラヤはいまではほとんど名前しか知られていない一つの憲法のもとで統治されていた。マラヤ連合（Malayan Union）は1946年4月1日に始まり、1948年1月31日に終わった——自前の建物、通貨、あるいは一世代分の行政官を残すには短すぎる期間であった。

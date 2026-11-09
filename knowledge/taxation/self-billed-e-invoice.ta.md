@@ -85,6 +85,7 @@ relations:
   - { rel: "requires", to: "e-invoice-data-fields" }
 related: ["e-invoicing", "myinvois-phases", "consolidated-e-invoice", "e-invoice-data-fields", "e-invoice-vs-tax-invoice"]
 keywords: ["self-billed e-Invoice", "self billed invoice Malaysia", "foreign supplier e-Invoice", "general TIN EI00000000030", "e-invois belian sendiri", "agent commission e-Invoice"]
+framework: rules
 ---
 
 e-Invoicing-ஆல் சிக்கிக்கொள்ளும் வாய்ப்பு அதிகமுள்ள நிறுவனம் பெரிய விற்பனைப்

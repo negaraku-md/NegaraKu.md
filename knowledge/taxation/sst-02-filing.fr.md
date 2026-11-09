@@ -78,6 +78,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-registration", "imported-taxable-services", "sales-tax-explained"]
 keywords: ["SST-02", "délai de dépôt SST Malaisie", "pénalité de retard de paiement SST", "période imposable SST", "déclaration MySST", "SST filing deadline Malaysia"]
+framework: rules
 ---
 
 L'échelle de pénalités cesse de grimper à quatre-vingt-dix jours. Passé ce point, elle est fixée à 40 %, de sorte que payer plus tôt relève du risque de poursuites pénales, non de l'accumulation des pénalités. En deçà de quatre-vingt-dix jours, c'est l'inverse : chaque franchissement de trente jours coûte 15 % de plus.

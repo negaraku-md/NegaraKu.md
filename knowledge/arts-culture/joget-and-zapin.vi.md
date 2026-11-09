@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "songket" }
 related: ["mak-yong", "wayang-kulit", "songket"]
 keywords: ["Joget", "Zapin", "tarian tradisional Melayu", "Joget Melaka", "Zapin Johor", "gambus", "marwas", "branyo Portugis", "tarian rakyat Melayu"]
+framework: history-culture
 ---
 
 Hai vũ công di chuyển nhanh theo nhịp trống — chân giậm, tay múa mềm mại. Nhiều người xem cứ thế gọi luôn là «điệu múa Mã Lai» mà không phân biệt đâu là Joget và đâu là Zapin. Hỏi mỗi điệu từ đâu tới, câu trả lời sẽ đưa ta đến hai góc trời: một từ boong tàu buôn Bồ Đào Nha ở Malacca, một từ đoàn lữ hành truyền giáo Ả Rập từ Hadhramaut.

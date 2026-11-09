@@ -63,6 +63,7 @@ relations:
   - { rel: "part-of", to: "settling-in" }
 related: ["moving-to-malaysia-first-steps", "dependant-social-visit-passes"]
 keywords: ["bringing pets to Malaysia", "MAQIS import permit", "DVS pet import rules", "dog cat quarantine Malaysia", "restricted dog breeds Malaysia", "ISO microchip pet import"]
+framework: how-to
 ---
 
 항공편을 예약했고, 짐도 다 쌌는데, 문득 이런 생각이 듭니다. 개는 어떻게 하지. 말레이시아에서 반려동물은 그저 화물칸에 함께 실려 오는 존재가 아닙니다. 출발하기 전에 승인을 받아야 하는 허가, 특정 ISO 규격을 충족하는 마이크로칩, 그리고 아마도 데려오기까지 일주일 이상의 검역이 필요합니다.

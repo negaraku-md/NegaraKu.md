@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "pcb-mtd-malaysia" }
 related: ["payroll-rates-deadlines-malaysia", "payroll-compliance-malaysia", "epf-socso-guide"]
 keywords: ["Form E deadline Malaysia", "Form EA 28 February", "CP8D submission", "e-Data Praisi cut off", "Borang E LHDN majikan", "e-CP8D"]
+framework: how-to
 ---
 
 हर फरवरी, मलेशिया में कहीं न कहीं किसी पेरोल इनबॉक्स में वही सवाल भर जाता है: *हमने स्टाफ को उनकी EA स्टराम तो दे ही दी हैं, तो हमारा काम हो गया, है न?* नहीं। आपने तीन में से एक दायित्व पूरा किया है, वह जिसमें कोई दाखिला शामिल ही नहीं होता, और आपके सामने अब भी दो जीवंत समय-सीमाएँ खड़ी हैं।

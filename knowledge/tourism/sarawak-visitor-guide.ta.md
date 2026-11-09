@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "sabah-visitor-guide" }
 related: ["sabah-visitor-guide"]
 keywords: ["Sarawak travel", "Sarawak immigration", "Kuching guide", "Gunung Mulu National Park", "Iban longhouse", "Bidayuh longhouse", "Sarawak entry pass", "Borneo travel"]
+framework: explainer
 ---
 
 கோலாலம்பூரிலிருந்து குச்சிங்கிற்கு இரண்டு மணிநேரத்திற்குள் பறக்கலாம், உங்கள் சொந்த நாட்டை ஒருபோதும் விட்டு வெளியேறாமலேயே, இருந்தாலும் மறுமுனையில் குடிவரவின் வழியாக முத்திரையிடப்படுவீர்கள். வருகை மண்டபத்தில் ஏற்படும் அந்த ஆச்சரியம்தான் சரவாக்கைப் புரிந்துகொள்வதில் மிக முக்கியமான ஒற்றை விஷயம்: இது தன் சொந்த எல்லையை நடத்தும் ஒரு மலேசிய மாநிலம்.

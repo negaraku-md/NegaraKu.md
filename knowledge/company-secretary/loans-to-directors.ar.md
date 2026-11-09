@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "disclosure-of-interest" }
 related: ["directors-duties", "disclosure-of-interest", "directors-fees-approval"]
 keywords: ["قرض للمدير ماليزيا", "المادة 224 قانون الشركات 2016", "loan to director Malaysia", "section 224 Companies Act 2016", "الحساب الجاري للمدير Sdn Bhd", "director current account Sdn Bhd", "استثناء الشركة الخاصة المعفاة قرض المدير", "exempt private company loan director", "المادة 225 قرض الشخص المرتبط", "section 225 connected person loan"]
+framework: rules
 ---
 
 يسدِّد حساب الشركة قسط سيارة المدير. ويُقيَّد ذلك على «حساب المدير»، ولا يوقِّع

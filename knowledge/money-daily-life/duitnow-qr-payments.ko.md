@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "payment-regulation-malaysia" }
 related: ["bank-negara-malaysia", "payment-regulation-malaysia"]
 keywords: ["DuitNow", "DuitNow QR", "PayNet", "pembayaran segera Malaysia", "kod QR Malaysia", "pindahan wang guna nombor telefon", "Bank Negara Malaysia pembayaran digital"]
+framework: explainer
 ---
 
 야시장 노점 상인이 단 하나의 QR 코드를 표시합니다. Maybank 앱을 사용하는 고객이 그것을 스캔합니다. 다음 고객은 Touch 'n Go eWallet을 사용하여 **같은** QR 코드를 스캔합니다. 두 결제 모두 몇 초 안에 그 상인의 계좌에 도착합니다. 각 은행이나 전자지갑마다 별도의 QR 코드가 없습니다 — 그것이 DuitNow QR이 무대 뒤에서 조용히 작동하는 방식입니다.

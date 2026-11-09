@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "renewable-energy-malaysia" }
 related: ["tenaga-nasional"]
 keywords: ["tarif elektrik", "RP4", "AFA", "NETR", "Suruhanjaya Tenaga", "TNB", "tenaga boleh diperbaharui", "peralihan tenaga", "subsidi elektrik"]
+framework: explainer
 ---
 
 Hóa đơn điện của bạn nay trông khác đi — và đó không phải là lỗi in. Kể từ ngày 1 tháng 7 năm 2025, mỗi kilowatt-giờ chảy vào các gia đình và nhà máy của Malaysia được tính theo một công thức chi tiết hơn nhiều, thành quả của một cuộc cải cách lớn trong ngành điện. Thay đổi này không chỉ là chuyện chi phí hóa đơn, mà gắn chặt với định hướng của quốc gia hướng tới năng lượng tái tạo.

@@ -62,6 +62,7 @@ keywords:
   - "monzón Malasia"
   - "MetMalaysia"
   - "MyBIS"
+framework: explainer
 ---
 
 # Por qué Malasia es uno de los países megadiversos del mundo

@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "registered-office" }
 related: ["statutory-registers", "registered-office", "register-of-directors", "annual-return"]
 keywords: ["register of members Malaysia", "section 50 Companies Act 2016", "section 51 notification SSM", "daftar ahli syarikat", "share transfer register Sdn Bhd", "ROM lodgement 14 days"]
+framework: rules
 ---
 
 Một cổ đông vẫy một giấy chứng nhận cổ phần trước một luật sư và nói anh ta sở hữu 30% công ty. Luật sư yêu

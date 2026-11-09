@@ -82,6 +82,7 @@ relations:
   - { rel: "part-of", to: "statutory-audit-process" }
 related: ["audit-opinion-types", "emphasis-of-matter-kam", "going-concern-audit", "statutory-audit-process", "appointing-an-auditor", "financial-statements-lodgement"]
 keywords: ["تقرير المدقق ماليزيا", "أقسام تقرير المدقق المستقل", "رقم AF لشركة التدقيق ماليزيا", "رقم اعتماد شريك التدقيق", "المادة 266 التقرير إلى الأعضاء", "كيفية قراءة تقرير التدقيق", "auditors report Malaysia", "how to read an audit report"]
+framework: explainer
 ---
 
 تقرير المدقق في ماليزيا مستند بصيغة ثابتة. ينشر MIA التوضيحات — AAPG 1 لإطار MFRS،

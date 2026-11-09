@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "dependant-social-visit-passes", "student-pass"]
 keywords: ["overstay Malaysia", "immigration blacklist", "Special Pass", "Immigration Act 1959/63", "compound fine", "re-entry ban", "section 15", "Overstay Management Programme"]
+framework: rules
 ---
 
 단 하루 만료된 패스는, 말레이시아 법의 눈에는, 백 일 만료된 패스와 같은 범죄입니다. 이는 자신의 방문·취업·부양가족·유학·전문가 패스가 소진되었음을 깨달은 누구에게나 불편한 출발점이며 — 이후에 일어나는 모든 것을 좌우합니다.

@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["ekonomi-madani-framework", "khazanah", "bursa-malaysia"]
 keywords: ["GLC", "GLIC", "Khazanah", "KWSP", "PNB", "KWAP", "LTAT", "Tabung Haji", "GEAR-uP", "PERKUKUH", "Program Transformasi GLC", "Bursa Malaysia"]
+framework: explainer
 ---
 
 Open the portfolio of any Bursa Malaysia index fund, and the hand of the Federal Government is almost certainly inside it. The country's largest banks, utilities, telecommunications firms, airlines and plantation conglomerates — all share one and the same ultimate owner: the people of Malaysia, through a handful of state investment institutions. It is this structure that makes Malaysia one of the most state-influenced economies in Southeast Asia, and it is captured in two frequently confused acronyms: GLC and GLIC.

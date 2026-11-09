@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "retrenchment-malaysia" }
 related: ["termination-of-employment-malaysia", "retrenchment-malaysia", "offboarding-statutory-checklist"]
 keywords: ["faedah penamatan malaysia", "pengiraan faedah pemberhentian kerja", "peraturan tblb 1980", "bayaran pampasan malaysia", "faedah lay off malaysia", "gaji 10 15 20 hari"]
+framework: rules
 ---
 
 Dua majikan membuang pekerja yang sama pada hari yang sama. Seorang membayar gaji sebulan dan menganggapnya murah hati. Seorang lagi membayar gaji 20 hari bagi setiap daripada sembilan tahun perkhidmatan — kira-kira enam bulan gaji — kerana itulah yang dituntut oleh undang-undang. Bezanya, majikan kedua telah membaca Peraturan-Peraturan Kerja (Faedah-Faedah Penamatan dan Pemberhentian Kerja) 1980.

@@ -58,6 +58,7 @@ keywords: ["Brunei Sultanate", "Sultan Bolkiah", "Borneo empire", "Sarawak cessi
 social:
   hashtags: ["BruneiSultanate", "BorneoHistory", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded: []
+framework: history-culture
 ---
 
 Stand on the waterfront at Bandar Seri Begawan today and Brunei looks small: a wealthy, oil-rich sultanate wrapped around two slivers of the Borneo coast, close enough to drive across in an afternoon. It is easy to forget that this is the surviving fragment of an empire — that five centuries ago a Sultan of Brunei could claim tribute from harbours strung along most of the island's northern and western shores, and that two of the Malaysian states you can reach from here by road, Sarawak and Sabah, were once his to give away. The story of how a Borneo sea-kingdom rose, reached its peak, and then handed over those coasts piece by piece is one of the essential threads of Malaysian history — even though Brunei itself never became part of Malaysia.

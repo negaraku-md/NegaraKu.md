@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "department-of-industrial-relations-malaysia" }
 related: ["trade-unions-malaysia", "employment-act-1955"]
 keywords: ["सामूहिक सौदेबाज़ी", "सामूहिक समझौता", "औद्योगिक विवाद", "एकमात्र सौदेबाज़ी अधिकार", "यूनियन मान्यता", "हड़ताल", "पिकेटिंग", "Industrial Relations Act 1967", "Industrial Court", "rundingan kolektif", "mogok", "Akta Perhubungan Perusahaan 1967"]
+framework: rules
 ---
 
 जो कर्मचारी चाहता है कि उसका नियोक्ता मेज़ पर बैठकर वेतन पर बातचीत करे, वह केवल माँग नहीं कर सकता — एक कानूनी प्रवाह है जिसका पालन करना आवश्यक है, और हर चरण की अपनी समय-सीमा है। वह प्रवाह [Industrial Relations Act 1967](/law/industrial-relations-act-1967) (Act 177) में निहित है, जिसे Department of Industrial Relations Malaysia (JPPM) प्रवर्तित करता है, और यह निर्धारित करता है कि कौन बातचीत कर सकता है, किस पर बातचीत की जा सकती है, और हड़ताल जैसी औद्योगिक कार्रवाई कब अनुमत है।

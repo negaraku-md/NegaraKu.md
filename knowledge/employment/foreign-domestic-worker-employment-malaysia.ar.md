@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "foreign-worker-levy-malaysia" }
 related: ["employment-act-1955", "foreign-worker-levy-malaysia", "minimum-wage-malaysia"]
 keywords: ["العاملة المنزلية الأجنبية ماليزيا", "foreign domestic helper", "FDH Malaysia", "خادمة منزلية ماليزيا", "مذكرة تفاهم إندونيسيا عاملة منزلية", "bon keselamatan pekerja asing", "إعفاء KWSP العاملة المنزلية"]
+framework: rules
 ---
 
 تدخل العاملة المنزلية الأجنبية إلى ماليزيا من باب يختلف اختلافاً تاماً عن باب عامل المصنع أو المزرعة — لا عبر حصة قطاعية، ولا عبر المركز الموحّد للعمال الأجانب، ولا تحت الحماية الكاملة لقانون العمل. فالنظام قائم بذاته، وكثيراً ما يخطئ أصحاب العمل الذين يفترضون أن العملية نظير توظيف عامل عام.

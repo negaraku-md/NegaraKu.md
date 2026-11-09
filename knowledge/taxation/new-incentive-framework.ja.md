@@ -91,6 +91,7 @@ relations:
   - { rel: "affects", to: "global-minimum-tax-pillar-two" }
 related: ["corporate-tax-rates", "global-minimum-tax-pillar-two", "reinvestment-allowance"]
 keywords: ["New Incentive Framework Malaysia", "NIF Malaysia tax incentive", "Pioneer Status Malaysia 2026", "Special Tax Rate Malaysia", "NIA Scorecard", "PIA 1986 deadline"]
+framework: explainer
 ---
 
 パイオニア・ステータスは徐々に消えていったのではない。ある特定の午後に、公示された期限とともに終了した——**2026年2月28日午後3時**である。翌朝から、1986年投資奨励法令（Promotion of Investments Act 1986、PIA 1986）のもとでの製造業優遇申請はもはや受理されなくなり、新たな案件はすべて**新投資優遇枠組み（New Incentive Framework、NIF）**を通すことになった。

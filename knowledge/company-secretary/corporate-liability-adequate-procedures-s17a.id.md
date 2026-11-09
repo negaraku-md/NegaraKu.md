@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016"]
 keywords: ["Section 17A", "MACC Act", "corporate liability", "adequate procedures", "T.R.U.S.T.", "anti-corruption Malaysia", "corporate bribery", "GIACC"]
+framework: rules
 ---
 
 Seorang agen penjualan junior membayar uang komisi ilegal untuk memenangkan sebuah kontrak, dan tidak pernah memberitahukannya kepada dewan direksi. Berdasarkan hukum Malaysia sejak 2020, perbuatan itu dapat memaparkan perusahaan itu sendiri pada tuntutan — dan para direkturnya sekaligus. Itulah jangkauan Pasal 17A Malaysian Anti-Corruption Commission Act 2009.

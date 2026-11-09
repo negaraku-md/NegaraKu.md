@@ -96,6 +96,7 @@ relations:
   - { rel: "governs", to: "personal-data-protection-act-2010" }
 related: ["pdpa-compliance-malaysia", "online-business-licence-malaysia"]
 keywords: ["pegawai perlindungan data malaysia", "dpo malaysia", "seksyen 12a pdpa", "ambang dpo pdpa", "lantik dpo malaysia"]
+framework: rules
 ---
 
 Kebanyakan bisnis di Malaysia membaca ambang DPO, melihat "20,000 subjek data", menyimpulkan bahwa mereka jauh dari angka itu, lalu berhenti membaca. Syarat ketiga terletak satu baris di bawahnya, ia sama sekali tidak memiliki angka apa pun, dan contoh nyata yang diberikan sendiri oleh Komisioner adalah sebuah toko daring yang merekomendasikan produk.

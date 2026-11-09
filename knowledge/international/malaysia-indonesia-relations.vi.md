@@ -129,6 +129,7 @@ relations:
   - { rel: "compares-with", to: "malaysia-singapore-relations" }
 related: ["malaysia-singapore-relations"]
 keywords: ["hubungan Malaysia Indonesia", "serumpun", "pekerja migran Indonesia", "One Channel System", "Pulau Sebatik", "Ambalat", "Sipadan Ligitan", "sempadan Malaysia Indonesia", "Perundingan Tahunan"]
+framework: explainer
 ---
 
 Hai quốc gia này chia sẻ chung ngôn ngữ, tôn giáo và cội nguồn — nhưng cũng chia sẻ đường biên giới trên bộ dài nhất ở Borneo, các mỏ dầu dưới đáy Biển Sulawesi, và hàng triệu lao động vượt biên đi tìm kế sinh nhai. Quan hệ Malaysia–Indonesia không chỉ là một quan hệ ngoại giao thông thường; nó là một mối quan hệ gia đình phức tạp, nơi chính sự gần gũi đó vừa là nguồn cơn của hợp tác vừa là nguồn cơn của căng thẳng.

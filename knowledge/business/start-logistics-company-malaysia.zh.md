@@ -86,6 +86,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaLicensing
     - SupplyChain
+framework: how-to
 ---
 
 在马来西亚开办一家物流公司不是一个决定，而是一叠决定。Sdn Bhd 是容易的部分；价值——以及延误——在于执照。一辆运载他人货物的卡车、一位递交海关申报的代理、一名坐在方向盘后的司机，各自都要向不同的监管机构负责，而其中最大的那个——经营者执照——也正是外资撞墙的地方。以下就是经营者的设立路径，按您实际需要的顺序排列。

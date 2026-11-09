@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["federal-budget", "gdp-overview", "sovereign-credit-rating-malaysia", "subsidy-rationalisation-padu"]
 keywords: ["hutang persekutuan", "Akta 850", "Akta Tanggungjawab Fiskal", "hutang berkanun", "60% KDNK", "defisit fiskal", "MGS", "JRFL"]
+framework: explainer
 ---
 
 Hutang Kerajaan Persekutuan Malaysia menembusi RM1.3 trilion pada 2025 — namun angka "64.7% KDNK" yang sering dipetik dan "had 60%" yang sering disebut sebenarnya mengukur dua perkara yang berbeza. Memahami perbezaan ini adalah kunci untuk membaca kesihatan fiskal negara dengan tepat.

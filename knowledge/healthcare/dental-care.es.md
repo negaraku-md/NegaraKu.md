@@ -76,6 +76,7 @@ keywords:
   - "clínica dental especializada de hospital"
   - "Akta Pergigian 2018"
   - "búsqueda de clínicas dentales públicas"
+framework: explainer
 ---
 
 Mucha gente da por sentado que una «clínica dental» es una sola cosa — un lugar para empastar una caries o sacar una muela del juicio. Pero en Malasia, la atención dental en realidad discurre por dos vías separadas: una operada por el gobierno a través del Ministerio de Salud de Malasia (KKM), y la otra por el sector privado — y el ámbito de tratamiento entre ambas no es el mismo.

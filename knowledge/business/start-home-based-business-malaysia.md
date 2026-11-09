@@ -70,6 +70,7 @@ social:
     - OnlineSeller
     - SSM
     - MicroEntrepreneur
+framework: how-to
 ---
 
 You bake cookies, resell skincare, or dropship phone cases from your spare room, and the sales are real. Somewhere between the first order and the tenth, a question surfaces: is any of this *legal*, or is a home business the one kind you can just… run? The honest answer is that a home business is still a business — the state expects the same registration as a shop, plus one extra permission most people never think about: leave from your local council to run a business out of a house at all.

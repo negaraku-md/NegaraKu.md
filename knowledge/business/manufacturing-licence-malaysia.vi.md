@@ -103,6 +103,7 @@ keywords:
   - "MIDA manufacturing licence"
   - "shareholders funds RM2.5 million"
   - "exempted from manufacturing licence"
+framework: rules
 ---
 
 Hầu hết các nhà sản xuất doanh nghiệp vừa và nhỏ Malaysia không cần một giấy phép sản xuất. Gần như

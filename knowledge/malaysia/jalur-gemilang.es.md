@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "negaraku-anthem" }
 related: ["formation-of-malaysia-1963", "independence-1957", "negaraku-anthem"]
 keywords: ["Jalur Gemilang", "bandera de Malasia", "14 franjas", "estrella de 14 puntas", "media luna", "Mohamed bin Hamzah", "significado de los colores de la bandera de Malasia"]
+framework: history-culture
 ---
 
 # Jalur Gemilang: por qué 14 franjas para 13 estados

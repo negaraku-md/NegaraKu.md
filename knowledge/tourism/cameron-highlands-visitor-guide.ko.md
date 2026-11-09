@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["pahang"]
 keywords: ["Cameron Highlands", "Tanah Rata", "Brinchang", "Ringlet", "BOH tea", "strawberry farm", "Orang Asli", "Semai", "hill station", "Pahang"]
+framework: profile
 ---
 
 타나 라타(Tanah Rata)에서 버스에 내리면 가장 먼저 느껴지는 것은 자신의 입김입니다. 적도에 있으면서도 스웨터를 걸치는 것이 우스꽝스럽지 않을 만큼 공기가 서늘합니다. 그것이 바로 카메론 하이랜드의 핵심입니다. 열대 말레이시아 위에 쌓아 올려진 온대 고산 지대로, 능선 위로 차가 가지런한 초록빛 골지 무늬처럼 자라고 도롯가 비닐하우스에서 딸기가 익어갑니다.

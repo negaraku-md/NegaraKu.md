@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-new-year", "hungry-ghost-festival", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["清明节", "Cheng Beng", "扫墓", "拜山", "祭祖", "慎终追远", "金银纸", "纸扎", "后土", "土地公", "灵骨塔", "骨灰龛", "三保山", "Bukit Cina", "富贵山庄", "Qingming Festival", "Tomb-Sweeping Day"]
+framework: history-culture
 ---
 
 Una madrugada de principios de abril, por los senderos del cementerio empiezan a aparecer familias enteras. Unos llevan cubos y hoces; otros, cestas repletas de comida cocinada, fruta y dinero de papel. Al encontrar la tumba de su familia, los más jóvenes se ponen a quitar las malas hierbas y a barrer las hojas, mientras los mayores indican cómo repintar, trazo a trazo, los caracteres desvaídos de la lápida; solo cuando la tumba está limpia se disponen las ofrendas, se enciende el incienso y se rinden respetos, y por último se quema el dinero de papel en un claro cercano. Entre el humo y las llamas, el Qingming anual transcurre así.

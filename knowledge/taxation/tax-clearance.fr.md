@@ -111,6 +111,7 @@ relations:
   - { rel: "related-to", to: "tax-penalties" }
 related: ["offboarding-statutory-checklist", "pcb-monthly-tax-deduction", "expatriate-and-non-resident-tax", "tax-penalties", "tax-appeal"]
 keywords: ["quitus fiscal Malaisie", "tax clearance Malaysia", "SPC LHDN", "surat penyelesaian cukai", "formulaire CP21", "formulaire CP22A", "e-SPC MyTax", "retenue 90 jours quitus fiscal", "section 83(5) Income Tax Act"]
+framework: rules
 ---
 
 Les équipes de paie traitent le quitus fiscal comme un formulaire. Ce n'en est pas

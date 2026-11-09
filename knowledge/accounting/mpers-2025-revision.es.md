@@ -99,6 +99,7 @@ relations:
   - { rel: "explained-in", to: "accounting-standards-index" }
 related: ["mfrs-vs-mpers"]
 keywords: ["MPERS 2025", "revisión MPERS Malasia", "MPERS fecha de vigencia 2027", "MPERS Sección 34 desarrollo inmobiliario", "IFRS for SMEs tercera edición Malasia", "MPERS Sección 23 ingresos"]
+framework: explainer
 ---
 
 Si usted es un promotor inmobiliario malasio que reporta bajo MPERS, el dato

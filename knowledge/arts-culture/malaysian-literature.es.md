@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["dewan-bahasa-dan-pustaka", "bahasa-melayu"]
 keywords: ["sastera Malaysia", "Sasterawan Negara", "Anugerah Sastera Negara", "sastera kebangsaan", "Dewan Bahasa dan Pustaka", "Sejarah Melayu", "hikayat", "syair"]
+framework: history-culture
 ---
 
 Antes de que hubiera novelas y antes de que hubiera un consejo de la lengua, un narrador ya componía héroes malayos en el patio del palacio de Malaca. De esa tradición oral creció uno de los patrimonios literarios más ricos de la región, una tradición que hoy se celebra con un título nacional, cientos de miles de ringgit y un sitial de honor en la civilización de la nación.

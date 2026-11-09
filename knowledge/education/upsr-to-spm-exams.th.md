@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "public-vs-private-universities" }
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["UPSR dimansuhkan", "PT3 dimansuhkan", "Pentaksiran Bilik Darjah", "PBD Malaysia", "SPM Malaysia", "Matriks Pembelajaran Malaysia", "Lembaga Peperiksaan", "peperiksaan sekolah Malaysia", "PBS Malaysia"]
+framework: explainer
 ---
 
 ถ้าบุตรของคุณตอนนี้อยู่ชั้นปีที่ 6 เขาจะไม่สอบ UPSR ถ้าเด็กคนนั้นอยู่ชั้นมัธยมปีที่ 3 ก็ไม่มี PT3 รออยู่ การสอบใหญ่ที่แต่ก่อนกำหนดเส้นทางการเรียนทั้งหมด — ที่พ่อแม่ของคุณเองอาจผ่านมาด้วยความเครียดเต็มที่ — หายไปแล้วตั้งแต่หลายปีก่อน แต่ผู้ปกครองจำนวนมากยังสับสน: อะไรมาแทนที่มัน มันจะถูกนำกลับมาหรือไม่ และอะไรกันแน่ที่เกิดขึ้นในโรงเรียนของบุตรตอนนี้ทุกวัน

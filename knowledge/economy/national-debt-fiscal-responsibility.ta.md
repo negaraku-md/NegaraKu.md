@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["federal-budget", "gdp-overview", "sovereign-credit-rating-malaysia", "subsidy-rationalisation-padu"]
 keywords: ["hutang persekutuan", "Akta 850", "Akta Tanggungjawab Fiskal", "hutang berkanun", "60% KDNK", "defisit fiskal", "MGS", "JRFL"]
+framework: explainer
 ---
 
 மலேசியாவின் மத்திய அரசாங்கக் கடன் (Federal Government debt, Kerajaan Persekutuan) 2025-இல் RM1.3 டிரில்லியனைக் கடந்தது — ஆனால் அடிக்கடி மேற்கோள் காட்டப்படும் “மொத்த உள்நாட்டு உற்பத்தியில் (Gross Domestic Product, GDP) 64.7%” என்ற எண்ணும், அடிக்கடி குறிப்பிடப்படும் “60% வரம்பும்” உண்மையில் இரு வெவ்வேறு விஷயங்களை அளவிடுகின்றன. நாட்டின் நிதி ஆரோக்கியத்தைத் துல்லியமாகப் படிக்க இந்த வேறுபாட்டைப் புரிந்துகொள்வது முக்கியம்.

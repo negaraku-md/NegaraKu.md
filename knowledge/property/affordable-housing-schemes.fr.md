@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "home-loan-financing" }
 related: []
 keywords: ["logement abordable", "rumah mampu milik", "PR1MA", "Residensi Wilayah", "RUMAWIP", "Rumah Mesra Rakyat", "PPR", "Rumah Selangorku", "Residensi MADANI", "logement abordable Malaisie"]
+framework: decision
 ---
 
 Votre salaire est de RM4,000 par mois et le prix d'une maison en rangée en ville a déjà atteint un demi-million de ringgit — par où devriez-vous même commencer à chercher ? La réponse n'est pas un programme unique, mais un éventail de programmes gouvernementaux, chacun visant une tranche de revenu distincte. Choisir le mauvais signifie gaspiller des mois à attendre le tirage au sort d'un logement pour lequel vous n'étiez de toute façon jamais admissible.

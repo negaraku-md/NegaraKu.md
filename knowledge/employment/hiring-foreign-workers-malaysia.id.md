@@ -145,6 +145,7 @@ relations:
   - { rel: "compares-with", to: "employment-pass-malaysia" }
 related: ["labour-law-map-malaysia", "worker-accommodation-act-446", "employment-pass-malaysia"]
 keywords: ["hiring foreign workers malaysia", "section 60k", "plks", "eppax", "fwcms", "fomema", "visa dengan rujukan", "foreign worker quota malaysia"]
+framework: how-to
 ---
 
 Hampir setiap panduan untuk mempekerjakan pekerja asing di Malaysia dimulai dengan kuota. Kuota adalah langkah ketiga.

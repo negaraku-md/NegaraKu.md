@@ -89,6 +89,7 @@ keywords:
   - "is a non-compete enforceable in Malaysia"
   - "liquidated damages Malaysia section 75"
   - "Akta Kontrak 1950"
+framework: explainer
 ---
 
 Một công ty Malaysia ký một thỏa thuận phân phối được soạn thảo ở London. Nó chứa một

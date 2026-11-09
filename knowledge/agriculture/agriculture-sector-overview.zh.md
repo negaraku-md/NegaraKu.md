@@ -103,6 +103,7 @@ relations:
   - { rel: "part-of", to: "gdp-overview" }
 related: ["palm-oil-sector", "rubber", "gdp-overview"]
 keywords: ["sektor pertanian Malaysia", "agromakanan Malaysia", "Dasar Agromakanan Negara", "kadar sara diri makanan", "KPKM", "KPK", "minyak sawit padi getah", "keterjaminan makanan Malaysia"]
+framework: profile
 ---
 
 2024年，马来西亚生产超过1亿吨油棕鲜果串——据马来西亚统计局（DOSM）约为1.002亿吨——足以维持其作为全球两大棕油生产国之一的地位。同一年，这个国家进口了国民所食用大米的近一半。

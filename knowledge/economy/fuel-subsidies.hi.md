@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["program-rahmah-cost-of-living", "cost-of-living-overview", "inflation-cpi", "ringgit", "gdp-overview"]
 keywords: ["मलेशिया में ईंधन सब्सिडी", "स्वचालित मूल्य निर्धारण तंत्र", "APM", "तेल की कीमत", "BUDI95", "BUDI Diesel", "लक्षित सब्सिडी", "RON95 कीमत", "SKDS SKPS"]
+framework: explainer
 ---
 
 23 से 29 जुलाई 2026 के सप्ताह में, दो चालक एक ही पंप पर खड़े हो सकते थे, एक ही ईंधन भरवा सकते थे, और लगभग दोगुने अंतर वाली कीमतें चुका सकते थे। एक ने RM1.99 प्रति लीटर चुकाए। दूसरे ने RM3.62 चुकाए।

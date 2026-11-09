@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "christmas-malaysia" }
 related: ["peranakan", "unesco-world-heritage", "christmas-malaysia"]
 keywords: ["Kristang", "Papia Kristang", "Perkampungan Portugis Melaka", "Eurasia Malaysia", "Intrudu", "branyo"]
+framework: history-culture
 ---
 
 Di Ujong Pasir, Melaka, ada sebuah perkampungan tepi laut tempat orang bertegur sapa dalam sebuah bahasa yang bukan Melayu, bukan Inggeris, dan bukan pula Portugis moden — sebaliknya sisa hidup lidah para penakluk yang tiba lima abad lalu. Inilah dunia masyarakat Kristang.

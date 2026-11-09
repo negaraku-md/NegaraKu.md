@@ -132,6 +132,7 @@ entity: "Capital allowances under Schedule 3 of the Income Tax Act 1967"
 relations: []
 related: []
 keywords: ["capital allowance malaysia", "schedule 3 income tax act 1967", "initial allowance annual allowance", "balancing charge malaysia", "small value asset RM2000", "qualifying plant expenditure"]
+framework: explainer
 ---
 
 你账目里的折旧那一行，对LHDN而言毫无价值。《1967年所得税法令》第39(1)(e)段不允许扣除任何属于附表三合格支出的支出——因此会计费用会被全额加回，而附表三则依自身的规则，决定该资产究竟赚得多少宽免、以及何时给予。

@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["court-hierarchy", "federal-constitution", "article-3-religion", "fundamental-liberties"]
 keywords: ["tribunal civil frente a tribunal Syariah Malasia", "Artículo 121(1A) Constitución Federal", "jurisdicción Mahkamah Tinggi Syariah", "Novena Lista Lista Estatal apartado 1", "Syariah Courts Criminal Jurisdiction Act 1965", "Act 355", "mahkamah sivil dan mahkamah syariah"]
+framework: explainer
 ---
 
 No hay escalera entre ellos.

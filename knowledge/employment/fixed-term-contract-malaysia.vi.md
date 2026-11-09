@@ -78,6 +78,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-contract-malaysia", "unfair-dismissal-malaysia", "termination-benefits-malaysia", "employee-vs-contractor-malaysia"]
 keywords: ["fixed term contract malaysia", "contract renewal malaysia employment", "non renewal dismissal malaysia", "project contract employee malaysia", "temporary contract malaysia law"]
+framework: explainer
 ---
 
 Hợp đồng có thời hạn cố định được rao bán trên thị trường Malaysia như một công cụ an toàn: thuê một năm, quyết định vào cuối kỳ, ra đi mà không có sa thải và không có trợ cấp. Điều đó chỉ có hiệu lực đúng một lần. Công cụ này thất bại khi lặp lại, và nó thất bại một cách hồi tố — người lao động mà bạn tưởng đang ở hợp đồng một năm lần thứ mười hai hóa ra đã là một người lao động thường xuyên kể từ năm thứ hai.

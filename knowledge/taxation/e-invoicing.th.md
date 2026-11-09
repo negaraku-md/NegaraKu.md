@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-vs-tax-invoice" }
 related: ["myinvois-phases", "myinvois-integration", "e-invoice-data-fields", "consolidated-e-invoice", "self-billed-e-invoice", "e-invoice-vs-tax-invoice", "e-invoice-accounting-records"]
 keywords: ["e-Invoice Malaysia", "MyInvois", "e-invois LHDN", "e-invoicing phases Malaysia", "MyInvois validation"]
+framework: journey-hub
 ---
 
 ใบแจ้งหนี้เคยใช้ได้เพราะคุณออกมัน ภายใต้ข้อบังคับ e-Invoice มันใช้ได้เพราะ LHDN บอกว่าใช้ได้ — เอกสารต้อง

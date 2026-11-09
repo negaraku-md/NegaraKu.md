@@ -118,6 +118,7 @@ keywords:
   - "lesen perniagaan online"
   - "e-commerce regulations Malaysia 2024"
   - "online seller legal requirements Malaysia"
+framework: rules
 ---
 
 マレーシアに電子商取引ライセンスというものは存在しない。それを創設する法令はなく、それを発行する機関もなく、それに対して支払うべき費用もない。

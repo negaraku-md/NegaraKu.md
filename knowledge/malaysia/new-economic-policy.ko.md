@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["rukun-negara", "the-emergency", "independence-1957", "formation-of-malaysia-1963", "population-composition"]
 keywords: ["New Economic Policy", "NEP", "Dasar Ekonomi Baru", "DEB", "Second Malaysia Plan", "restructuring society", "poverty eradication", "national unity", "Outline Perspective Plan", "30 per cent Bumiputera equity"]
+framework: explainer
 ---
 
 신경제정책은 흔히 "재편"이라는 한 단어로 기억되며, 그 이후로 줄곧 논쟁의 대상이 되어 왔습니다. 그러나 이 정책은 의회에 상정된 정부 계획 문서에서 스스로의 목표를 글로 명시했으며, 그 목표는 하나가 아니라 둘이었고, 그 둘 위에 세 번째 개념이 자리하고 있었습니다. 이 글은 문서가 말하는 내용을, 문서가 말하는 순서 그대로 정리합니다.

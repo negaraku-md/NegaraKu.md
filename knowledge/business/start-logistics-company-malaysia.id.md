@@ -86,6 +86,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaLicensing
     - SupplyChain
+framework: how-to
 ---
 
 Memulai sebuah perusahaan logistik di Malaysia bukan satu keputusan tetapi setumpuk keputusan. Sdn Bhd adalah bagian yang mudah; nilainya — dan keterlambatannya — terletak pada lisensi. Sebuah truk yang membawa kargo orang lain, seorang ekspeditur yang mengajukan deklarasi kastam, dan seorang pengemudi di belakang kemudi, masing-masing bertanggung jawab kepada otoritas yang berbeda, dan yang terbesar — lisensi operator — juga adalah tempat kepemilikan asing berbenturan dengan tembok. Inilah jalur pendirian operator, dalam urutan yang sebenarnya Anda perlukan.

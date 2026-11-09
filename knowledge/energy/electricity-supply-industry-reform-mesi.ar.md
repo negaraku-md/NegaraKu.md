@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "seda-malaysia" }
 related: ["tenaga-nasional", "energy-commission-suruhanjaya-tenaga", "seda-malaysia"]
 keywords: ["MESI", "MESI 2.0", "إصلاح سوق الكهرباء في ماليزيا", "electricity market reform Malaysia", "وصول الغير إلى الشبكة", "third-party access", "المشتري الوحيد", "single buyer", "CRESS", "تفكيك TNB", "TNB unbundling", "المنافسة بالتجزئة في الكهرباء", "retail competition electricity"]
+framework: explainer
 ---
 
 بالنسبة إلى معظم الماليزيين، يعني شراء الكهرباء فاتورةً واحدة من شركة واحدة. خلف تلك البساطة يكمن جدال هادئ امتدّ عقدًا حول ما إذا كان ينبغي لسوق الطاقة في البلاد أن يبدو يومًا على نحوٍ آخر — ويظلّ الجواب يستقرّ على «ليس بعد، لكن قليلًا أكثر كل عام».

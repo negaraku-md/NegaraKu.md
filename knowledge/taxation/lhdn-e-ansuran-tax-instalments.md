@@ -75,6 +75,7 @@ social:
     - CP204
     - CP500
     - ByrHASiL
+framework: how-to
 ---
 
 If a tax bill lands that you cannot clear in one payment, Malaysia's tax authority no longer makes you queue at a branch to arrange instalments. Since March 2025 you can apply online, in a few clicks, through **e-Ansuran** on the MyTax portal — and get approval automatically. But "paying tax in instalments" in Malaysia actually means three different things, and confusing them is where people go wrong. Here is how e-Ansuran works, and how it differs from the CP500 and CP204 instalment schemes.

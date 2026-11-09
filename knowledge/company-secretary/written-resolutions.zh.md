@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "minute-books-and-records" }
 related: ["remove-a-director", "minute-books-and-records", "resolution-notice-periods", "board-meetings-and-minutes"]
 keywords: ["written resolution Malaysia", "section 297 Companies Act 2016", "circular resolution Sdn Bhd", "special resolution in writing", "remove director written resolution"]
+framework: explainer
 ---
 
 马来西亚的 Sdn Bhd 股东决定，大多数从来不涉及会议。文件签一签，秘书归档，之后

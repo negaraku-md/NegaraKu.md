@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "investment-agency-directory" }
 related: ["doing-business-kuala-lumpur", "principal-hub-malaysia", "labuan-company-vs-sdn-bhd", "investment-agency-directory"]
 keywords: ["Tun Razak Exchange", "TRX Kuala Lumpur", "Exchange 106", "Malaysia international financial centre", "TRX Marquee incentives", "The Exchange TRX", "pusat kewangan antarabangsa TRX", "TRX City Sdn Bhd"]
+framework: profile
 ---
 
 Tun Razak Exchange MRT நிலையத்திலிருந்து வெளியே வந்தால், வானளாவிய காட்சி இது வளர்ந்ததல்ல, திட்டமிடப்பட்டது என்று உங்களுக்குச் சொல்கிறது. கோலாலம்பூர் மையத்தின் கிழக்கு விளிம்பில் 70 ஏக்கரில் ஒரு கூட்டம் கோபுரங்கள், அவற்றில் ஒன்று 450 மீட்டரைத் தாண்டி, ஒரு மால்-இன் கூரையில் அமர்ந்துள்ள ஒரு பூங்காவைச் சுற்றி அமைக்கப்பட்டுள்ளது. இது புதிதாக ஒரு நிதி மாவட்டத்தைக் கட்டியெழுப்பும் மலேசியாவின் முயற்சி.

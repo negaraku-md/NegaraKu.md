@@ -71,6 +71,7 @@ relations:
   - { rel: "administered-by", to: "malaysian-institute-of-accountants" }
 related: ["malaysian-institute-of-accountants"]
 keywords: ["importance relative", "sondage en audit", "ISA 320", "ISA 530", "ISA 450", "importance relative pour les travaux", "erreur tolérable", "audit légal Malaisie", "materiality", "audit sampling"]
+framework: explainer
 ---
 
 Un auditeur qui signe un jeu de comptes n'a presque jamais regardé chaque transaction qui les sous-tend — et les normes disent que c'est exactement la bonne façon de travailler.

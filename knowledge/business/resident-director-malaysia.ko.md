@@ -111,6 +111,7 @@ keywords:
   - "ordinarily resident director"
   - "foreign owned Sdn Bhd director"
   - "pengarah pemastautin Malaysia"
+framework: explainer
 ---
 
 외국인으로서 말레이시아 회사를 어떻게 설립하는지 검색하면 세 번의 클릭 안에

@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "financial-statement-pack" }
 related: ["audit-exemption", "audit-exemption-thresholds", "basis-period-and-accounting-date", "myinvois-phases", "financial-statement-pack", "financial-statements-lodgement", "sdn-bhd-first-year-compliance", "form-c-and-cp204"]
 keywords: ["financial year end Malaysia", "change financial year end Sdn Bhd", "FYE Malaysia", "basis period change accounting date", "audit exemption three years", "18 month first financial statements", "section 247 holding company financial year"]
+framework: decision
 ---
 
 ஒரு நிதியாண்டு இறுதியைத் தேர்ந்தெடுப்பது ஒரு நிர்வாக முடிவைப் போல் உணரப்படுகிறது.

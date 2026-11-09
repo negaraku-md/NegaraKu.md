@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "unfair-dismissal-malaysia" }
 related: ["termination-of-employment-malaysia", "unfair-dismissal-malaysia", "termination-benefits-malaysia"]
 keywords: ["domestic inquiry malaysia", "DI procedure malaysia", "show cause letter malaysia", "suspension pending inquiry", "section 14 employment act", "misconduct dismissal malaysia"]
+framework: how-to
 ---
 
 คู่มือ HR ของมาเลเซียส่วนใหญ่ให้การไต่สวนภายในเพียงประโยคเดียวว่า "จัดการไต่สวนภายใน (DI) ก่อนเลิกจ้างด้วยเหตุประพฤติมิชอบ" ประโยคนั้นแหละคือจุดที่นายจ้างแพ้คดี การไต่สวนไม่ใช่ช่องให้ทำเครื่องหมายก่อนการตัดสินใจที่ทำไปแล้ว — แต่เป็นฐานพยานหลักฐานที่นายจ้างจะยืนอยู่บนนั้นในอีกหลายเดือนต่อมาในศาลแรงงาน และมันล้มเหลวที่กระบวนการบ่อยกว่าที่ข้อเท็จจริงเสียอีก

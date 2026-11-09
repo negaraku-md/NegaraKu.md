@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "digital-economy-overview" }
 related: ["mdec-digital-status", "sme-financing-malaysia", "equity-crowdfunding-p2p-malaysia", "cyberjaya-tech-hub", "digital-economy-overview"]
 keywords: ["Malaysia startup ecosystem", "Cradle Fund CIP Spark", "MRANTI", "MYStartup single window", "MAVCAP", "Jelawang Capital", "Malaysia venture capital", "KL20"]
+framework: explainer
 ---
 
 பத்து மலேசிய நிறுவனர்களிடம் அரசு ஸ்டார்ட்அப் பணம் எங்கிருந்து வருகிறது என்று

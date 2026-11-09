@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["consumer-protection-act", "duitnow-qr-payments", "opening-bank-account"]
 keywords: ["حقوق المستهلك في ماليزيا", "consumer rights Malaysia", "محكمة مطالبات المستهلكين", "Tribunal for Consumer Claims", "TTPM", "شكوى KPDN", "KPDN complaint", "استرداد المال في ماليزيا", "consumer protection act 1999", "كيفية المطالبة بـ RM50000", "ttpm.kpdn.gov.my"]
+framework: how-to
 ---
 
 هاتف يتعطّل في الأسبوع الثاني. مقاول يأخذ العربون ويتوقّف عن الردّ على

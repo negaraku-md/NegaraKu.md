@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "perquisites-and-benefits-in-kind-tax" }
 related: ["companies-act-2016"]
 keywords: ["ESOS malaysia", "employee share option scheme malaysia", "ESOP malaysia tax", "share option perquisite malaysia", "section 75 companies act 2016", "bursa 15% share scheme", "how ESOS is taxed malaysia"]
+framework: explainer
 ---
 
 Les startups à court de liquidités et les entreprises matures en quête de fidélisation ont recours au même outil : donner aux salariés une part du capital. Un plan d'options sur actions pour les salariés (ESOS) permet au personnel d'acheter des actions plus tard à un prix fixé aujourd'hui, de sorte qu'ils partagent la plus-value qu'ils contribuent à créer. C'est puissant — et c'est aussi un terrain où les fondateurs se trompent discrètement sur le droit et sur la fiscalité, le plus souvent sur la fiscalité.

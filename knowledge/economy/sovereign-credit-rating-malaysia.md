@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "federal-government-debt-malaysia" }
 related: []
 keywords: ["Malaysia credit rating", "sovereign rating", "S&P Malaysia", "Moody's Malaysia", "Fitch Malaysia", "A3", "BBB+", "investment grade"]
+framework: explainer
 ---
 
 When Malaysia's finance minister publicly welcomes a letter from a New York analyst, you know the stakes are more than symbolic. A single notch up or down on a sovereign credit rating can shift what the government pays to borrow, ripple into corporate funding costs, and tug at the ringgit. Three firms — S&P Global, Moody's and Fitch — hold that pen for Malaysia.

@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["sales-tax-explained", "customs-import-duty", "sst-registration"]
 keywords: ["low value goods", "LVG sales tax", "online shopping tax Malaysia", "10% sales tax imported goods", "MyLVG", "cukai jualan barang bernilai rendah", "RMCD low value goods"]
+framework: explainer
 ---
 
 Selama bertahun-tahun, sebuah gajet di bawah RM500 yang ditempah dari sebuah kedai web luar negara akan sampai ke muka pintu anda tanpa cukai. Sejak 1 Januari 2024, ia tidak lagi begitu.

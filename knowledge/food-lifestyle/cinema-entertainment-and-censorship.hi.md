@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "consumer-protection-act" }
 related: ["sedition-act", "consumer-protection-act"]
 keywords: ["फिल्म सेंसरशिप", "Film Censorship Board", "LPF", "फिल्म वर्गीकरण", "P12", "P13", "Film Censorship Act 2002", "मनोरंजन लाइसेंस", "कराओके", "सिनेमा", "DBKL", "स्थानीय प्राधिकरण", "film classification Malaysia"]
+framework: explainer
 ---
 
 YouTube पर वायरल होने वाली कोई फिल्म शायद कभी Film Censorship Board से होकर न गुज़रे — लेकिन वही फिल्म, यदि किसी सिनेमाघर में प्रदर्शित की जानी है, तो उसे पहले अपनी स्वीकृति की मुहर प्राप्त करनी होगी। वह अंतर कोई आकस्मिक खामी नहीं है; यह उस तरीके में अंतर्निहित है जिससे मलेशियाई कानून यह नियंत्रित करता है कि जनता क्या देख सकती है।

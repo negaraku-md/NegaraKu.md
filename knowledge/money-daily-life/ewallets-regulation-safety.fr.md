@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "duitnow-qr" }
 related: ["pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["portefeuille électronique Malaisie", "monnaie électronique", "e-wallet Malaysia", "e-money", "Touch n Go eWallet", "Boost", "GrabPay", "ShopeePay", "BNM", "PIDM", "compte en fiducie", "sauvegarde safeguarding"]
+framework: explainer
 ---
 
 Vous touchez « payer » au comptoir, le solde de votre portefeuille électronique baisse de quelques ringgit, et la transaction est faite en une seconde. Mais où sont réellement conservés les RM200 que vous avez « rechargés » ce matin — et qu'advient-il de cet argent si l'entreprise derrière l'application fait soudainement faillite ? La réponse est différente de ce qui arrive à l'argent de votre compte bancaire, et la différence compte.

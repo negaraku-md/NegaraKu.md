@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "going-concern-audit" }
 related: ["statutory-audit-process", "audit-opinion-types", "going-concern-audit"]
 keywords: ["related party transactions", "ISA 550", "MFRS 124", "arm's length", "Bursa Chapter 10", "recurrent related party transactions", "audit risk"]
+framework: explainer
 ---
 
 บริษัทขายน้ำมันปาล์มดิบให้อีกบริษัทหนึ่งที่ผู้ถือหุ้นรายใหญ่ของตนเองเป็นเจ้าของ ไม่มีอะไรในใบแจ้งหนี้ที่บอกว่านั่นเป็นข้อตกลงจัดหาสินค้าตามปกติหรือขั้นตอนแรกในการดูดคุณค่าออกจากผู้ถือหุ้นส่วนน้อย งานของผู้สอบบัญชีคือค้นหาว่าเป็นอย่างไหน — และนั่นคือสิ่งที่มาตรฐานการสอบบัญชีระหว่างประเทศ 550 *บุคคลที่เกี่ยวข้องกัน* ถูกเขียนขึ้นมาเพื่อสิ่งนี้พอดี

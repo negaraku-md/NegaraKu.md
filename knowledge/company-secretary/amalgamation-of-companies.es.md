@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "members-voluntary-winding-up" }
 related: ["companies-act-2016", "ssm"]
 keywords: ["amalgamation", "scheme of arrangement", "section 366", "section 370", "Companies Act 2016", "reconstruction", "merger Malaysia", "SSM", "75 percent threshold", "vesting order"]
+framework: explainer
 ---
 
 Si espera que dos sociedades malasias se fusionen de la forma en que lo hacen en Singapur o Nueva Zelanda —los consejos aprueban una resolución, una entidad jurídica absorbe a la otra de la noche a la mañana— estará buscando una disposición que no existe. La Companies Act 2016 no tiene una fusión estatutaria simplificada. Para combinar dos o más sociedades aquí, hay que pasar por el Tribunal Superior (High Court).

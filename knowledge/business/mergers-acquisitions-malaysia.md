@@ -86,6 +86,7 @@ keywords:
   - "take-over code Malaysia"
   - "usaha gabungan dan pengambilalihan"
   - "due diligence perniagaan"
+framework: decision
 ---
 
 Most people picture a merger or acquisition as a single dramatic signing. In practice a Malaysian deal is a sequence of smaller decisions, and the first one — *how* you buy, not whether you buy — quietly shapes everything that follows: your tax bill, the liabilities you inherit, the approvals you need, and how much the lawyers end up charging. Get the structure right and due diligence becomes a pricing exercise; get it wrong and you can buy a lawsuit, a tax liability, or a licence you were never entitled to hold. This guide walks the whole path, from choosing between a share sale and an asset sale to the regulatory touchpoints that decide whether a deal closes cleanly.

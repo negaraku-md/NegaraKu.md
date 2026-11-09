@@ -75,6 +75,7 @@ keywords:
   - "is a director an employee Malaysia"
   - "directors fees approval Sdn Bhd"
   - "compensation for loss of office section 227"
+framework: explainer
 ---
 
 말레이시아 회사에 그 상근이사(executive director)의 고용계약을 요청하면 대개 하나의 문서를

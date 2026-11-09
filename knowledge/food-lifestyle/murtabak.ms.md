@@ -92,6 +92,7 @@ verificationNeeded:
   - "Asal-usul tepat hidangan ini, yang dipertikaikan: pelbagai sumber menjejaki murtabak ke Yaman (dengan laluan seterusnya menerusi India), ke pedagang India dan Tamil-Muslim, serta ke sebuah hidangan Arab zaman pertengahan ('mutabbaq'/'mutbaq') yang direkodkan dalam sebuah buku resipi Abbasiyah abad ke-13. Sahkan dengan sumber sejarah makanan dan bukannya media makanan atau cerminan ensiklopedia."
   - "Label dan sifat variasi manis. Di Indonesia dan Malaysia 'martabak Mesir' biasanya merujuk versi masin bertelur-dan-berdaging, manakala lempeng lipat manis umumnya dipanggil martabak manis (dan, di Malaysia, apam balik). Sama ada 'murtabak Mesir' manis yang tersendiri atau murtabak pisang merupakan item Malaysia yang tulen dan dijual meluas — berbanding sekadar novelti khusus peniaga atau pertindihan nama — memerlukan sumber kulinari tempatan."
   - "Dakwaan bahawa murtabak Malaysia mengandungi lebih banyak telur dan kurang daging kisar secara berkadar berbanding versi Singapura atau Johor — sahkan dengan sumber kulinari perbandingan."
+framework: explainer
 ---
 
 Perhatikan murtabak dibuat di bazar Ramadan dan separuh daya tarikannya ialah

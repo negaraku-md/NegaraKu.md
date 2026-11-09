@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["selangor", "penang", "religion-statistics", "article-3-religion"]
 keywords: ["Thaipusam Malaysia", "Batu Caves Thaipusam", "kavadi", "silver chariot procession", "Lord Murugan", "272 steps", "paal kudam", "Waterfall Hilltop Temple Penang", "Thaipusam public holiday"]
+framework: history-culture
 ---
 
 Trước bình minh, một ngọn đồi đá vôi ở rìa phía bắc Kuala Lumpur tràn ngập âm thanh — tiếng trống, tiếng tụng niệm, tiếng lê bước của hàng trăm nghìn bàn chân trần trên đá. Ở chân một cầu thang 272 bậc đứng một dáng hình vàng cao hơn một tòa nhà mười bốn tầng. Cuộc leo đã bắt đầu, và nó sẽ không dừng lại trong gần cả một ngày.

@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "inflation-cpi" }
 related: ["str-cash-aid", "fuel-subsidies", "subsidy-rationalisation-padu", "inflation-cpi"]
 keywords: ["惠民伞 RAHMAH", "Menu RAHMAH", "Jualan RAHMAH Madani", "PJRM", "Bakul RAHMAH", "KPDN", "马来西亚 生活成本计划", "RM5 餐食", "必需品 廉价义卖"]
+framework: explainer
 ---
 
 许多人都曾在餐馆橱窗或周末义卖的帐篷上看过"RAHMAH"那把伞的标志，但较少人知道 RAHMAH 并不是单一的计划。它其实是一把**品牌伞**，统摄着几项各不相同的生活成本措施——而它也常与一项名称听起来几乎相同的现金援助混为一谈。

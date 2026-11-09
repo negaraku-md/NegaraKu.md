@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "department-of-environment-doe" }
 related: ["department-of-environment-doe", "malaysias-rainforests-and-permanent-forest-reserves"]
 keywords: ["Malaysia NDC 3.0", "net zero 2050 Malaysia", "Climate Change Act Malaysia", "National Climate Change Policy 2.0", "Paris Agreement Malaysia", "emissions trading scheme", "carbon tax Malaysia", "NRES", "UNFCCC"]
+framework: explainer
 ---
 
 เป็นเวลาเกือบทศวรรษ มาเลเซียวัดคำมั่นด้านสภาพภูมิอากาศในแบบที่แทบไม่มีพลเมืองคนใดรู้สึกได้ นั่นคือการปล่อยก๊าซต่อหน่วย GDP ในเดือนตุลาคม 2025 สิ่งนั้นเปลี่ยนไป ประเทศแจ้งต่อสหประชาชาติว่าจะลดปริมาณก๊าซเรือนกระจกจำนวนคงที่ คือ 15 ถึง 30 ล้านตัน จากระดับที่การปล่อยก๊าซถึงจุดสูงสุด เป็นครั้งแรกที่มาเลเซียวางตัวเลขสัมบูรณ์ไว้บนโต๊ะ และมันจัดกรอบทุกส่วนอื่นของสถาปัตยกรรมสภาพภูมิอากาศของประเทศใหม่รอบคำถามเดียว: เศรษฐกิจกำลังพัฒนาที่เติบโตเร็วและผลิตน้ำมันและก๊าซจะโน้มเส้นโค้งการปล่อยก๊าซลงได้อย่างไรโดยไม่หยุดชะงัก?

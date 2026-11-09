@@ -94,6 +94,7 @@ verificationNeeded:
   - "Le pinasakan est-il grillé ou mijoté : les sources décrivent à la fois une préparation de basung (big-eye scad) mijoté avec du takob-akob et du curcuma et une version grillée — confirmer la méthode familiale standard auprès d'une source locale."
   - "L'affirmation selon laquelle le sang nyuk mian serait né dans la ville côtière orientale de Tawau avant de se répandre à Kota Kinabalu — largement reprise dans les médias culinaires, mais à confirmer auprès d'une source locale ou historique."
   - "L'attribution des traditions de nouilles de Sabah spécifiquement aux colons Hakka (plutôt qu'aux colons chinois au sens large) — confirmer l'association au groupe dialectal dominant au moyen d'une source d'histoire migratoire."
+framework: explainer
 ---
 
 Traversez la mer de Chine méridionale depuis la Malaisie péninsulaire et la table change. À

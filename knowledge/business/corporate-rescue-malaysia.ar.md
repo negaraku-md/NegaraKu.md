@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "debt-recovery-malaysia" }
 related: ["close-a-company", "creditors-voluntary-winding-up", "members-voluntary-winding-up", "strike-off-company-malaysia", "company-director-requirements"]
 keywords: ["إنقاذ الشركات ماليزيا", "الإدارة القضائية ماليزيا", "خطة الترتيب المادة 366", "الترتيب الطوعي للشركات", "أمر التقييد المادة 368", "قانون الشركات المعدِّل 2024 الإنقاذ", "corporate rescue malaysia", "judicial management", "scheme of arrangement"]
+framework: decision
 ---
 
 اسأل معظم المحتوى التجاري الماليزي عمّا ينبغي فعله تجاه شركة لا تستطيع سداد ديونها فتحصل على

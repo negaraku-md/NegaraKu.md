@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "negaraku-anthem" }
 related: ["negaraku-anthem"]
 keywords: ["Malaysia Olympic medals", "SEA Games", "Commonwealth Games 1998", "Lee Chong Wei", "Malaysia gold medal", "medal tally"]
+framework: data-reference
 ---
 
 Malaysia has climbed onto an Olympic podium fifteen times — and heard someone else's national anthem play every single time.

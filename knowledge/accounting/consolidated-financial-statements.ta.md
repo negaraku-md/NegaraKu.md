@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "mbrs-xbrl-filing" }
 related: ["companies-act-2016"]
 keywords: ["MFRS 10", "consolidated financial statements", "control", "subsidiary", "holding company", "Companies Act 2016", "MBRS", "group accounts", "Malaysia"]
+framework: explainer
 ---
 
 மற்றொரு கம்பெனியில் ஒரு கட்டுப்பாட்டுப் பங்கை வாங்குங்கள் — நீங்கள் உங்கள் இருப்புநிலைக் குறிப்பில் வெறுமனே ஒரு வரிஉருப்படியைச் சேர்த்திருக்கவில்லை; மலேசியக் கணக்கியல் விதிகள் ஒற்றை நிறுவனமாகக் கருதுமாறு வலியுறுத்தும் ஒரு குழுமத்தை உருவாக்கியுள்ளீர்கள். MFRS 10 *Consolidated Financial Statements*-க்குப் பின்னால் உள்ள அமைதியான சக்தி இதுவே: ஒரு கம்பெனி மற்றொன்றைக் கட்டுப்படுத்தும் தருணத்தில், அவ்விரண்டும் வெளியுலகிற்கு ஒன்றாக அறிக்கையிட வேண்டும்.

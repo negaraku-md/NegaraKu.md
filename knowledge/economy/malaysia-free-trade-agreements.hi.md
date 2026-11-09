@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["मलेशिया FTA", "Malaysia FTA", "CPTPP Malaysia", "RCEP Malaysia", "मुक्त व्यापार समझौता", "MITI", "टैरिफ उन्मूलन", "ASEAN Free Trade Area", "द्विपक्षीय FTA"]
+framework: explainer
 ---
 
 मलेशिया के अधिकांश आयात और निर्यात ऐसी सीमाओं के पार आते-जाते हैं जहाँ टैरिफ पर पहले ही

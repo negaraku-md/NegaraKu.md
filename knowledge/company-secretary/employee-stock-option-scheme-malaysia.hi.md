@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "perquisites-and-benefits-in-kind-tax" }
 related: ["companies-act-2016"]
 keywords: ["ESOS malaysia", "कर्मचारी शेयर विकल्प योजना मलेशिया", "employee share option scheme malaysia", "ESOP मलेशिया कर", "शेयर विकल्प परिलब्धि मलेशिया", "धारा 75 कंपनी अधिनियम 2016", "section 75 companies act 2016", "Bursa 15% शेयर योजना", "ESOS पर कर कैसे लगता है मलेशिया"]
+framework: explainer
 ---
 
 नकदी की कमी वाले स्टार्टअप और प्रतिधारण का पीछा करने वाली परिपक्व कंपनियाँ एक ही

@@ -108,6 +108,7 @@ keywords:
   - "متطلبات أمين سر الشركة ماليزيا"
   - "company secretary Malaysia"
   - "cosec fees Malaysia"
+framework: explainer
 ---
 
 كُتب تقريبًا كل ما كُتب عن أمناء سر الشركات في ماليزيا بأقلام أمناء سر الشركات.

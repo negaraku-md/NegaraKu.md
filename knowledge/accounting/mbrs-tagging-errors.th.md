@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "sdn-bhd-bookkeeping" }
 related: ["mbrs-2-filing-guide", "mbrs-2", "financial-statement-pack", "sdn-bhd-bookkeeping", "mfrs-vs-mpers"]
 keywords: ["MBRS tagging error", "SSMxT validation", "XBRL validation failure Malaysia", "mTool error", "MBRS rejected", "block tagging text block SSM", "MBRS decimals scale"]
+framework: explainer
 ---
 
 ความล้มเหลวที่ทำให้เสียเงินไม่ใช่ความล้มเหลวที่ทำให้ไฟล์สร้างไม่ได้ แต่เป็นความล้มเหลวที่

@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["batik", "wayang-kulit"]
 keywords: ["songket", "tenunan songket", "kek tenun", "benang emas", "songket Terengganu", "songket Kelantan"]
+framework: history-culture
 ---
 
 The sound most often heard in a songket workshop is not the sound of a machine. It is wood being pressed, thread being pulled, and a bamboo pick being slid in and drawn out — over and over, one row of pattern at a time, all day long.

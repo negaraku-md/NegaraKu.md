@@ -75,6 +75,7 @@ relations:
   - { rel: "compares-with", to: "members-voluntary-winding-up" }
 related: ["companies-act-2016", "ssm", "members-voluntary-winding-up"]
 keywords: ["strike off syarikat", "seksyen 550 Akta Syarikat 2016", "potong nama syarikat SSM", "syarikat dorman", "pembubaran syarikat", "voluntary dissolution Malaysia"]
+framework: how-to
 ---
 
 வணிகத்தை நிறுத்தி நீண்ட காலமாகிவிட்ட ஒரு செயலற்ற (dormant) நிறுவனம் சட்டப்படி இன்னும் “உயிருடன்” இருக்கிறது — ஆண்டறிக்கையைத் தாக்கல் செய்ய வேண்டியிருக்கிறது, அபராதங்களுக்கு ஆளாகும் அபாயம் தொடர்கிறது, மேலும் அதன் இயக்குநர்கள் இன்னும் SSM-க்கு பொறுப்பேற்கிறார்கள். பதிவேட்டிலிருந்து நிறுவனத்தின் பெயரை நீக்குவது அந்த இருப்பை முறையாக முடிவுக்குக் கொண்டுவரும் வழி; ஆனால் இது சொத்துகள், கடன்கள், மற்றும் தகராறுகளிலிருந்து உண்மையில் தூய்மையான நிறுவனங்களுக்கு மட்டுமே திறந்திருக்கிறது.

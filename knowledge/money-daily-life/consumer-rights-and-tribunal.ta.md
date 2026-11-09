@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["consumer-protection-act", "duitnow-qr-payments", "opening-bank-account"]
 keywords: ["consumer rights Malaysia", "Tribunal for Consumer Claims", "TTPM", "KPDN complaint", "refund Malaysia", "consumer protection act 1999", "how to claim RM50000", "ttpm.kpdn.gov.my"]
+framework: how-to
 ---
 
 ஒரு தொலைபேசி இரண்டாவது வாரத்திலேயே செயலிழக்கிறது. ஒரு ஒப்பந்தக்காரர்

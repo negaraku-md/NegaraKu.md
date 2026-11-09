@@ -100,6 +100,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["labuan-company-vs-sdn-bhd", "foreign-ownership-malaysia"]
 keywords: ["سياسة الصرف الأجنبي ماليزيا", "foreign exchange policy malaysia", "إشعارات FEP", "FEP notices", "رقابة الصرف BNM", "BNM exchange control", "الاقتراض المحلي بالرينغيت", "domestic ringgit borrowing", "حساب العملة الأجنبية ماليزيا", "foreign currency account malaysia", "الاستثمار في الخارج ماليزيا", "المقيم وغير المقيم BNM"]
+framework: explainer
 ---
 
 اسأل مؤسِّساً ماليزياً عن رقابة الصرف وستحصل عادةً على إحدى إجابتين، كلتاهما خاطئة.

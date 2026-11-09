@@ -141,6 +141,7 @@ relations:
   - { rel: "located-in", to: "labuan" }
 related: ["corporate-tax-rates"]
 keywords: ["Labuan tax", "Labuan 3% tax rate", "Labuan substance requirements", "LBATA 1990", "cukai Labuan", "Labuan company Malaysia tax", "section 39(1)(r)"]
+framework: explainer
 ---
 
 Mọi tờ rơi Labuan đều mở đầu với cùng một con số: 3%. Nó chính xác, và nó là sự

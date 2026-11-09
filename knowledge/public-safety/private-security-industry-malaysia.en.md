@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "royal-malaysia-police" }
 related: []
 keywords: ["agensi keselamatan swasta", "lesen agensi persendirian", "polis bantuan", "Akta Agensi Persendirian 1971", "pengawal keselamatan Malaysia", "KDN eSIMS", "kawasan berpagar"]
+framework: profile
 ---
 
 In most gated residential areas, factories, and shopping malls in Malaysia, the first person you meet is not a police officer — but a private security guard. This industry operates closely alongside public law enforcement, yet runs on an entirely different legal framework, and confusion about who can do what can expose the businesses that hire them to legal risk.

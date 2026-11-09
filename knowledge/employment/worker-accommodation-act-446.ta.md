@@ -120,6 +120,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: []
 keywords: ["act 446", "certificate for accommodation", "worker accommodation malaysia", "workers minimum standards housing", "centralised accommodation", "pekerja penginapan akta 446"]
+framework: rules
 ---
 
 பெயரிலிருந்தே தொடங்குங்கள், ஏனெனில் இந்தத் தலைப்பில் எழுதப்படும் ஏறக்குறைய ஒவ்வொரு கட்டுரையும் அதைத் தவறாகச் சொல்கிறது. இந்தச் சட்டம் **Employees' Minimum Standards of Housing, Accommodations and Amenities Act 1990** (Act 446). இது முன்பு *Workers'* Minimum Standards of Housing and Amenities Act என அழைக்கப்பட்டது; Act A1604-இன் paragraph 4(a) அந்தச் சுருக்கத் தலைப்பை 1 ஜூன் 2020 முதல் மாற்றியது.

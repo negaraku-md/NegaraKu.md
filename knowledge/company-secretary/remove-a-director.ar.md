@@ -79,6 +79,7 @@ relations:
   - { rel: "part-of", to: "directors-duties" }
 related: ["appoint-resign-director", "directors-duties", "register-of-directors"]
 keywords: ["عزل مدير في ماليزيا", "المادة 206 قانون الشركات 2016", "قرار مكتوب عزل مدير", "remove a director Malaysia", "section 206 Companies Act 2016", "section 297 written resolution Malaysia", "إخطار خاص عزل مدير"]
+framework: how-to
 ---
 
 يملك المساهم الأكثري الأصوات. ويُعِدّ أمين السر مسودة قرار مكتوب بعزل المدير،

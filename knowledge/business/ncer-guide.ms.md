@@ -100,6 +100,7 @@ keywords:
   - "NTAX NCER closed"
   - "Kulim Hi-Tech Park incentives"
   - "koridor utara NCER"
+framework: explainer
 ---
 
 Tanya apa yang Koridor Utara berikan kepada seorang pelabur dan anda akan diberikan senarai

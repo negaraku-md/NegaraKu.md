@@ -71,6 +71,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#GheeLian", "#Penang", "#BibGourmand", "#StreetFood", "#Malaysia"]
+framework: profile
 ---
 
 Tom yum is Thai by birth, but at a hawker stall near George Town's old Esplanade

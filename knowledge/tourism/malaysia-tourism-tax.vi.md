@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "malaysia-sales-and-service-tax" }
 related: ["sales-and-service-tax"]
 keywords: ["tourism tax", "TTx", "Malaysia", "MyTTx", "RM10 per room", "DPSP", "hotel tax", "RMCD"]
+framework: rules
 ---
 
 Nhận phòng tại gần như bất kỳ khách sạn nào ở Kuala Lumpur bằng một hộ chiếu nước ngoài và một dòng kỳ lạ xuất hiện trên hóa đơn: RM10, cố định, cho mỗi đêm bạn ở lại. Đó là thuế du lịch (TTx) của Malaysia — một khoản thu nhỏ, cố định hành xử rất khác so với các loại thuế khách sạn dựa trên phần trăm mà du khách gặp ở nơi khác.

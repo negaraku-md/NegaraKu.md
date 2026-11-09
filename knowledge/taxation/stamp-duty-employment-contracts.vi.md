@@ -87,6 +87,7 @@ relations:
   - { rel: "affects", to: "employment-act-1955" }
 related: ["stamp-duty-rates", "stamp-duty-self-assessment", "employment-act-1955"]
 keywords: ["stamp duty employment contract Malaysia", "kontrak penggajian duti setem", "RM10 stamp duty offer letter", "STAMPS employment contract", "item 4 First Schedule"]
+framework: rules
 ---
 
 Vào tháng 6 năm 2025, LHDN đã nói với người sử dụng lao động một điều mà hầu hết

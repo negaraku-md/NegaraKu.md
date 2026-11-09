@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-jakim" }
 related: []
 keywords: ["vaksin halal", "hukum vaksin", "gelatin dalam ubat", "fatwa vaksin COVID-19", "darurat", "maqasid syariah", "JAKIM", "Muzakarah Fatwa Kebangsaan"]
+framework: explainer
 ---
 
 ஒரு தடுப்பூசிப் புட்டி நிலைப்படுத்தியாக (penstabil) சிறிதளவு ஜெலட்டின் (gelatine) கொண்டிருக்கலாம் — அந்தச் சிறிய விவரத்திலிருந்தே மலேசியாவில் முஸ்லிம் குடும்பங்கள் அடிக்கடி கேட்கும் மதம் சார்ந்த கேள்விகளில் ஒன்று எழுகிறது: அது ஹலாலா? பதில் வெறும் “ஆம்” அல்லது “இல்லை” என்பது அல்ல, மாறாக ஃபத்வா அமைப்புகள், அறிவியல் ஆய்வு மற்றும் சில குறிப்பிட்ட ஃபிக்ஹ் (fiqh) கொள்கைகளை உள்ளடக்கிய ஒரு கட்டமைக்கப்பட்ட மதிப்பீட்டு செயல்முறையின் விளைவாகும்.

@@ -95,6 +95,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "paternity-leave-malaysia", "employment-act-coverage", "termination-of-employment-malaysia"]
 keywords: ["cuti bersalin malaysia", "cuti bersalin 98 hari", "elaun bersalin malaysia", "penamatan pekerja hamil malaysia", "seksyen 41a akta kerja"]
+framework: rules
 ---
 
 Sebagian besar konten mengenai cuti melahirkan di Malaysia hanya terfokus pada satu angka.

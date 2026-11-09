@@ -81,6 +81,7 @@ relations:
   - { rel: "part-of", to: "statutory-audit-process" }
 related: ["audit-opinion-types", "emphasis-of-matter-kam", "going-concern-audit", "statutory-audit-process", "appointing-an-auditor", "financial-statements-lodgement"]
 keywords: ["auditors report Malaysia", "independent auditors report sections", "AF number audit firm Malaysia", "audit partner approval number", "section 266 report to members", "how to read an audit report"]
+framework: explainer
 ---
 
 รายงานของผู้สอบบัญชีมาเลเซียเป็นเอกสารรูปแบบตายตัว MIA เผยแพร่ตัวอย่าง — AAPG 1 สำหรับกรอบ MFRS, AAPG 2 สำหรับ MPERS ทั้งสองอ่านร่วมกับพระราชบัญญัติบริษัท (Companies Act 2016) — และสำนักงานปฏิบัติตามอย่างใกล้ชิด นั่นทำให้การตรวจสอบสถานะรวดเร็ว เพราะสิ่งใดที่ผิดที่จะมองเห็นได้

@@ -73,6 +73,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-act-1955-guide", "working-hours-overtime-malaysia", "employment-contract-malaysia"]
 keywords: ["modalidad trabajo flexible malasia", "fwa malasia employment act", "artículo 60p 60q", "solicitud trabajo desde casa malasia", "solicitud trabajo flexible malasia"]
+framework: rules
 ---
 
 La mayor parte de la cobertura malasia del trabajo flexible lo describe como un beneficio que el empleador puede optar por ofrecer. Esa lectura pierde por completo el sentido de la Parte XIIC. La Act no crea un derecho a trabajar de forma flexible. Crea un **deber de responder**, por escrito, dentro de un periodo fijo — y ese deber es exigible tanto si la respuesta es sí como si es no.

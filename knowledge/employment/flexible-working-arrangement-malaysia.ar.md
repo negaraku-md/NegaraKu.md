@@ -73,6 +73,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-act-1955-guide", "working-hours-overtime-malaysia", "employment-contract-malaysia"]
 keywords: ["ترتيبات العمل المرنة ماليزيا", "flexible working arrangement malaysia", "FWA قانون العمل", "المادة 60P 60Q", "طلب العمل من المنزل ماليزيا", "work from home request malaysia"]
+framework: rules
 ---
 
 تصف معظم التغطية الماليزية للعمل المرن هذا الترتيب بأنه ميزة يجوز لصاحب العمل أن يختار

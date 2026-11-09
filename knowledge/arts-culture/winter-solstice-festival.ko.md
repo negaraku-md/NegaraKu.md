@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "chinese-dialects"]
 keywords: ["冬至", "汤圆", "汤丸", "咸汤圆", "冬大过年", "冬至大如年", "添岁", "搓汤圆", "Tang Chek", "Dongzhi", "马来西亚华人", "节气", "Winter Solstice Festival"]
+framework: history-culture
 ---
 
 12월 하순의 어느 저녁, 부엌에는 찹쌀가루 향이 생강탕의 단내와 어우러진다. 온 가족이 식탁에 둘러앉아 작은 찹쌀 반죽 덩어리를 하나하나 경단으로 빚는다 — 흰 것도 있고 분홍빛, 연초록으로 물들인 것도 있다. 아이들 손의 경단은 크기가 제각각이고, 어른들은 빚으면서 말한다. 탕위안을 먹으면 또 한 살을 더 먹는 거라고. 이날이 바로 동지다.

@@ -99,6 +99,7 @@ keywords:
   - "Lee Chong Wei"
   - "Lee Zii Jia"
   - "juara All England Malaysia"
+framework: history-culture
 ---
 
 1992年5月，整个国家为之屏息。在吉隆坡国家体育馆，一支由西德（Sidek）三兄弟领军的年轻队伍击败印尼，捧起汤姆斯杯——正如拿督拉昔·西德所说，"全马来西亚都疯狂了，人人都想打羽毛球"。三十年过去，这座奖杯仍未归来。马来西亚羽毛球的故事，是一个关于早期辉煌、痛苦荒年，以及一两位肩负全国希望的冠军的故事。

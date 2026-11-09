@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "domestic-inquiry-malaysia" }
 related: ["labour-law-map-malaysia", "termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
 keywords: ["unfair dismissal malaysia", "section 20 industrial relations act", "60 days filing dismissal", "industrial court malaysia", "backwages cap 24 months", "compensation in lieu of reinstatement"]
+framework: how-to
 ---
 
 Sáu mươi ngày. Đó là toàn bộ cuộc chơi, và nó là nơi hầu hết các yêu cầu sa thải không công bằng của Malaysia chết — không phải vì nội dung, mà vì người lao động đã dành bảy tuần đàm phán với nhân sự, thêm hai tuần chờ một câu trả lời không bao giờ đến, và nộp vào ngày thứ sáu mươi ba.

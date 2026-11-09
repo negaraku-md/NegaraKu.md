@@ -94,6 +94,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "paternity-leave-malaysia", "employment-act-coverage", "termination-of-employment-malaysia"]
 keywords: ["maternity leave malaysia", "98 days maternity leave", "maternity allowance malaysia", "pregnant employee termination malaysia", "section 41a employment act"]
+framework: rules
 ---
 
 மலேசிய மகப்பேறு பற்றிய பெரும்பாலான உள்ளடக்கம் ஒரு எண்ணிக்கை மட்டுமே. தொண்ணூற்று எட்டு

@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "chinese-dialects"]
 keywords: ["冬至", "汤圆", "汤丸", "咸汤圆", "冬大过年", "冬至大如年", "添岁", "搓汤圆", "Tang Chek", "Dongzhi", "马来西亚华人", "节气", "Winter Solstice Festival"]
+framework: history-culture
 ---
 
 Một buổi chiều cuối tháng 12, trong bếp hương bột nếp quyện với vị ngọt của nước gừng. Cả nhà quây quần bên bàn, nặn từng cục bột nếp nhỏ thành viên — có viên trắng, có viên nhuộm hồng, xanh non. Những viên trong tay lũ trẻ to nhỏ khác nhau, người lớn vừa nặn vừa nói: ăn thang viên xong là lại thêm một tuổi. Ngày này chính là Đông chí.

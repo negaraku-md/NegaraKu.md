@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "accounting-records-section-245" }
 related: ["llp-vs-sdn-bhd", "register-llp-malaysia", "accounting-records-section-245", "sdn-bhd-bookkeeping"]
 keywords: ["rekod perakaunan PLT", "seksyen 69 Akta PLT 2012", "perakuan tahunan PLT", "solvency declaration LLP", "PLT vs Sdn Bhd", "Akta 743"]
+framework: rules
 ---
 
 一个 PLT 可以营运多年而从未向 SSM 递交过任何一份财务报表——而这正是关于此结构的一个常见误解所在。没有提交要求并不代表没有责任。2012 年《有限责任合伙法令》第 69 条仍将每一个有限责任合伙绑定于一项与公司同样严格的记录标准，而第 68 条则以另一种会给合伙人带来个人法律责任的工具，取代了公开的财务报表：偿债能力声明。

@@ -74,6 +74,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
 related: []
 keywords: ["kertas putih kesihatan", "reformasi kesihatan", "pembiayaan kesihatan", "KKM", "insurans kesihatan nasional", "Rakan KKM"]
+framework: explainer
 ---
 
 政府診療所は全国の外来受診のおよそ3分の2を担っているが、プライマリ・ケア施設全体に占める割合はおよそ4分の1に過ぎない。この不均衡こそが、とりわけマレーシア保健省（Kementerian Kesihatan Malaysia、KKM）に一世代で最も重要な政策文書——保健白書（2023年）——を書かせる動機となった。

@@ -108,6 +108,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.259"
     consequence: "Phạt lên đến RM50,000, cộng RM1,000 mỗi ngày cho một tội tiếp diễn"
+framework: explainer
 ---
 
 Mọi hãng kiểm toán tại Malaysia đều công bố một trang về việc vì sao bạn cần một cuộc kiểm toán. Gần như không hãng nào công bố điều gì xảy ra trong một cuộc kiểm toán. Đó không phải là một sự sơ suất. Một giám đốc tài chính hiểu trình tự có thể lập kế hoạch dựa trên nó, phản bác một danh sách yêu cầu, và ngừng trả tiền cho sự thiếu tổ chức của chính mình.

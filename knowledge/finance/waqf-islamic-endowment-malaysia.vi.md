@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "donations-and-tax-deductions" }
 related: ["islamic-finance", "state-islamic-religious-councils", "zakat", "donations-and-tax-deductions"]
 keywords: ["waqf", "wakaf", "Islamic endowment Malaysia", "cash waqf", "corporate waqf", "JAWHAR", "Yayasan Waqaf Malaysia", "waqf land Malaysia"]
+framework: explainer
 ---
 
 Cho một người con cá, anh ta ăn được một ngày. Hiến tặng một ao cá không bao giờ có thể bị bán, cả làng ăn mãi mãi. Đó, chỉ trong một câu, chính là waqf.

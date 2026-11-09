@@ -85,6 +85,7 @@ keywords:
   - "Konfederasi Hoki Malaysia"
   - "kedudukan hoki dunia FIH Malaysia"
   - "Piala Dunia hoki 1975 Kuala Lumpur"
+framework: history-culture
 ---
 
 Pada 15 Mac 1975, sebuah stadium di Kuala Lumpur menyaksikan India mengangkat Piala Dunia hoki lelaki buat satu-satunya kali dalam sejarah mereka — dan tuan rumahnya bukan India, tetapi Malaysia. Setengah abad kemudian, negara yang sama masih menjemput kuasa-kuasa hoki dunia ke Ipoh setiap tahun. Hoki padang mungkin bukan sukan paling popular di Malaysia hari ini, tetapi ia mungkin warisan sukan negara yang paling dihormati di peringkat antarabangsa.

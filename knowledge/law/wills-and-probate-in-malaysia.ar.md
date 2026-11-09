@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "estate-planning-in-malaysia" }
 related: []
 keywords: ["وصية", "إثبات الوصية", "التركة", "الميراث", "غير المسلمين", "خطاب الإدارة", "توزيع التركة", "Distribution Act 1958", "Wills Act 1959", "Probate and Administration Act 1959", "probate", "wills"]
+framework: explainer
 ---
 
 ترك الممتلكات دون وصية لا يعني أن عائلتك حرّة في تقرير من يحصل على ماذا. ففي ماليزيا، تتولّى الأمر صيغة قانونية صارمة — وقد لا تتطابق مع رغباتك. وبالنسبة لغير المسلمين، تحدّد ثلاثة قوانين كل شيء: قانون الوصايا (Wills Act 1959) (كيفية صنع الوصية)، وقانون إثبات الوصايا وإدارة التركات (Probate and Administration Act 1959) (كيفية إدارة التركة)، وقانون التوزيع (Distribution Act 1958) (من يرث عند عدم وجود وصية).

@@ -108,6 +108,7 @@ relations:
   - { rel: "compares-with", to: "capital-allowances" }
 related: ["double-deduction-list", "capital-allowances", "section-33-deductibility", "tax-incentives-directory"]
 keywords: ["approved research allowance malaysia", "خصم مضاعف للبحث والتطوير ماليزيا", "المادة 34A قانون ضريبة الدخل", "خصم مضاعف المادة 34B", "وضع البحث والتطوير MIDA", "النموذج 1 R&D LHDN"]
+framework: explainer
 ---
 
 اسأل ثلاثة مستشارين عن الـ approved research allowance وستحصل على ثلاث إجابات، لأنه لا وجود لإعفاء كهذا. فلا شيء في قانون ضريبة الدخل لسنة 1967 (Income Tax Act 1967) يستخدم هذه العبارة. والموجود فعليًا هو ثلاثة خصومات منفصلة بمسارات موافقة مختلفة ومواعيد نهائية مختلفة، إضافةً إلى نظام رابع مختلف تمامًا تديره MIDA. والخلط بينها هو ما يجعل الشركة تنتهي إلى خصم مضاعف لا تستطيع إثباته.

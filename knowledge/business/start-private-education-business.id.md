@@ -80,6 +80,7 @@ social:
     - PrivateSchool
     - EducationMalaysia
     - MalaysiaLicensing
+framework: how-to
 ---
 
 Membuka sebuah pusat les atau sekolah swasta terlihat, dari luar, seperti menyewa sebuah ruko, merekrut guru yang baik, dan mencetak spanduk. Di Malaysia ia tidak begitu. Pendidikan adalah aktivitas yang diatur, dan mendaftarkan sebuah perusahaan dengan SSM — langkah yang paling banyak operator kali pertama pikirkan sebagai "memulai usaha" — hanya memberi Anda sebuah entitas hukum. Ia tidak memberi Anda hak untuk mengajar seorang siswa berbayar pun.

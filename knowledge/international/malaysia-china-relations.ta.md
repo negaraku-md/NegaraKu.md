@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "wisma-putra" }
 related: []
 keywords: ["Malaysia China relations", "largest trading partner", "South China Sea", "comprehensive strategic partnership", "1974 diplomatic relations", "Wisma Putra", "nine-dash line"]
+framework: explainer
 ---
 
 1974-இல், தென்கிழக்கு ஆசியாவின் பெரும்பகுதி பெய்ஜிங்கை இன்னும் பனிப்போர் சந்தேகத்துடன் பார்த்துக்கொண்டிருந்த வேளையில், மலேசியாவின் பிரதமர் Tun Abdul Razak சீனாவிற்குப் பறந்து சென்று Mao Zedong-உடன் கைகுலுக்கினார். அந்தப் பயணம் சீன மக்கள் குடியரசுடன் இராஜதந்திர உறவுகளைத் தொடங்கிய முதல் ASEAN நாடாக மலேசியாவை ஆக்கியது — மேலும் இன்று மலேசியாவின் பொருளாதார ரீதியில் மிக முக்கியமான, அதே நேரத்தில் அதன் விளிம்புகளில் நிர்வகிக்க மிகவும் நுட்பமான உறவுக்கான வார்ப்புருவை அமைத்தது.

@@ -107,6 +107,7 @@ keywords:
   - "director duties Malaysia"
   - "nominee director Malaysia"
   - "director disqualification Malaysia"
+framework: rules
 ---
 
 いつか誰かが、あなたにこう言ってくる——「取締役になってくれるだけでいい、署名するだけだから」。

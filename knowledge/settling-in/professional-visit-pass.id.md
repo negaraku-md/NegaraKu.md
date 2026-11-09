@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "work-passes-malaysia", "dependant-social-visit-passes", "imigresen"]
 keywords: ["professional visit pass malaysia", "pvp malaysia", "pvp vs employment pass", "esd professional visit pass", "myxpats pvp", "foreign expert pass malaysia", "expert transfer pass malaysia", "short term work pass malaysia"]
+framework: explainer
 ---
 
 Dua orang warga asing bisa duduk di meja yang sama di kantor Malaysia yang sama, melakukan pekerjaan yang sama, tetapi berada pada kedudukan hukum yang sama sekali berbeda. Seorang memegang Employment Pass, dibayar oleh perusahaan Malaysia, dapat diperbarui tahun demi tahun. Seorang lagi memegang Professional Visit Pass — masih dibayar oleh perusahaan yang mengirimnya, dengan dua belas bulan di jam penghitung, dan tidak ada perpanjangan setelah itu. Imigrasi tidak melihat dua pekerja. Ia melihat seorang pemberi kerja dan seorang tamu.

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["federal-constitution", "jpn", "constitutional-amendment", "imigresen"]
 keywords: ["kewarganegaraan Malaysia", "Malaysian citizenship", "Perkara 14 Perlembagaan", "Bahagian III Perlembagaan Persekutuan", "kewarganegaraan secara pendaftaran", "penaturalisasian Malaysia", "Perkara 19 naturalisation", "pasangan asing kewarganegaraan", "anak tanpa kewarganegaraan", "pindaan Perlembagaan 2024 kewarganegaraan"]
+framework: rules
 ---
 
 ทารกที่เกิดในกัวลาลัมเปอร์ (Kuala Lumpur) และทารกที่เกิดในลอนดอนจากบิดามารดาชาวมาเลเซียมิได้เริ่มต้นด้วยสถานะสัญชาติเดียวกันเสมอไป เหตุผลอยู่ที่ถ้อยคำไม่กี่คำในบัญชีที่สองแห่งรัฐธรรมนูญสหพันธ์ — และจนกระทั่งเมื่อไม่นานมานี้ อยู่ที่คำเดียว: "บิดา"

@@ -71,6 +71,7 @@ relations:
   - { rel: "affects", to: "audit-opinion-types" }
 related: ["statutory-audit-process", "audit-opinion-types", "emphasis-of-matter-kam", "audit-preparation-checklist"]
 keywords: ["going concern Malaysia audit", "material uncertainty related to going concern", "ISA 570 Malaysia", "management representation letter Malaysia", "ISA 580 written representations"]
+framework: explainer
 ---
 
 เอกสารสองฉบับถูกลงนามเมื่อสิ้นสุดการสอบบัญชีของมาเลเซียโดยไม่ได้อ่าน: การประเมินการดำเนินงานต่อเนื่องและหนังสือรับรอง ทั้งสองเป็นคำแถลงของคณะกรรมการเอง ทั้งสองเป็นหลักฐาน และทั้งสองเป็นสิ่งแรกที่ทุกคนดูเมื่อบริษัทล้มเหลวในภายหลัง

@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-new-year", "population-composition", "religion-statistics", "hungry-ghost-festival"]
 keywords: ["中秋节", "月饼节", "灯笼节", "月饼", "冰皮月饼", "灯笼", "嫦娥奔月", "赏月", "柚子", "团圆", "农历八月十五", "马来西亚华人", "Mid-Autumn Festival Malaysia", "Mooncake Festival"]
+framework: history-culture
 ---
 
 旧暦8月15日の夜ともなると、ショッピングモールの吹き抜けには赤々と灯る提灯がずらりと吊るされ、住宅地の公園では子どもたちが二人三人と灯した提灯を持って歩き回ります。家の食卓には、小さく切り分けた月餅の箱と熱いお茶が一壺、そばには皮をむいたザボンが一つ。家族は椅子を外に運び出し、一年で最も丸い月を見上げます——これがマレーシアの華人家庭の典型的な中秋の夜です。

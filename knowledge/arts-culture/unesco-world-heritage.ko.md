@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "George Town Melaka inscription criteria", "Gunung Mulu World Heritage", "Lenggong Valley Perak Man", "Niah Caves UNESCO 2024"]
+framework: data-reference
 ---
 
 말레이시아에 세계유산이 몇 개인지 물으면 대부분의 자료는 넷이라고 답할 것입니다. 그것은 2024년까지는 사실이었습니다. 니아 동굴 복합지가 그해 7월에 등재되었고, 말레이시아 산림연구소 산림공원 슬랑오르가 2025년에 뒤따르면서 총계는 여섯이 되었습니다.

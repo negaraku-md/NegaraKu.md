@@ -108,6 +108,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.259"
     consequence: "Fine up to RM50,000, plus RM1,000 a day for a continuing offence"
+framework: explainer
 ---
 
 マレーシアのあらゆる監査事務所が、なぜ監査が必要なのかについてのページを公開している。

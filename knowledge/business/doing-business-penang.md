@@ -118,6 +118,7 @@ keywords:
   - "Penang signboard Bahasa Malaysia rule"
   - "PDC industrial land Penang"
   - "Bayan Lepas free industrial zone"
+framework: profile
 ---
 
 The first question about doing business in Penang is not what to register. It is which

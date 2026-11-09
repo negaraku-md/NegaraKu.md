@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "members-voluntary-winding-up-malaysia" }
 related: []
 keywords: ["statutory declaration malaysia", "akuan berkanun", "commissioner for oaths malaysia", "statutory declarations act 1960", "false statutory declaration penalty", "declaration of solvency section 443"]
+framework: explainer
 ---
 
 事業主は遅かれ早かれ、ある文書を渡され、「これは法定宣言書にしなければならない」と告げられる。それは、実際よりも重々しく聞こえる法律上の手続の一つである——権限を有する者の面前で真実であると誓う書面の陳述——だが、その重みは本物である。虚偽のものに署名すれば、刑事犯罪を犯したことになる。以下は、法定宣言書とは何か、誰がそれを受理できるか、そして会社の生活においてどこに現れるかである。

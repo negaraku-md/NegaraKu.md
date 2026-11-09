@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016"]
 keywords: ["المادة 17A", "Section 17A", "MACC Act", "المسؤولية المؤسسية", "corporate liability", "الإجراءات الكافية", "adequate procedures", "T.R.U.S.T.", "مكافحة الفساد", "GIACC"]
+framework: rules
 ---
 
 يدفع وكيل مبيعات مبتدئ عمولةً غير مشروعة للفوز بعقد، ولا يُخبر مجلس الإدارة قط. وبموجب القانون الماليزي منذ 2020، يمكن أن يُعرِّض ذلك الفعلُ الشركةَ نفسها للمقاضاة — والمديرين معها. تلك هي سعة نطاق المادة 17A من قانون لجنة مكافحة الفساد الماليزية لسنة 2009 (Malaysian Anti-Corruption Commission Act 2009).

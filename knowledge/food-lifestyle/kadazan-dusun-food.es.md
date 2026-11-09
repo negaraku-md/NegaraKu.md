@@ -91,6 +91,7 @@ verificationNeeded:
   - "La afirmación de que los kadazan-dusun son el mayor grupo indígena individual de Sabah, y la relación exacta entre las etiquetas kadazan y dusun (a veces tratadas como un solo pueblo, a veces como distintos) — confirmar con un censo (DOSM) o una fuente etnográfica."
   - "Las fechas exactas y la condición de día festivo de la fiesta Kaamatan (Tadau Kaamatan) (ampliamente situada a lo largo de mayo, con un festivo estatal de Sabah el 30 y 31 de mayo) — confirmar frente a una fuente oficial del gobierno del estado de Sabah."
   - "Si una verdadera tradición de sagú/ambuyat forma parte de la cocina kadazan-dusun en concreto, ya que el ambuyat se asocia con más fuerza a Brunéi y a otras comunidades de Borneo — confirmar el alcance del uso del almidón de sagú en la dieta kadazan-dusun."
+framework: history-culture
 ---
 
 Pide un plato de *hinava* en Kota Kinabalu y obtendrás algo que sorprende a los

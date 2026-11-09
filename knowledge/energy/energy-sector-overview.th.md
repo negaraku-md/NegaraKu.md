@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "hydrogen-ccus-malaysia" }
 related: ["energy-commission-suruhanjaya-tenaga", "tenaga-nasional", "seda-malaysia", "sarawak-energy-berhad", "hydrogen-ccus-malaysia"]
 keywords: ["sektor tenaga Malaysia", "NETR", "Peta Jalan Peralihan Tenaga Negara", "PETRA", "Suruhanjaya Tenaga", "Petronas", "tarif elektrik RP4", "BUDI95", "tenaga boleh baharu Malaysia", "grid elektrik Malaysia"]
+framework: explainer
 ---
 
 เปิดสวิตช์ไฟในกัวลาลัมเปอร์ เติมน้ำมัน RON95 ในอีโปห์ หรือติดตั้งแผงโซลาร์บนหลังคาบ้านในยะโฮร์ เบื้องหลังแต่ละการกระทำนั้นมีเครือข่ายของสถาบัน กฎหมาย และนโยบายที่ผู้บริโภคแทบไม่เคยเห็น ภาคพลังงานของมาเลเซียไม่ใช่สิ่งเดียว มันคือสี่โลกที่ทับซ้อนกัน ได้แก่ ไฟฟ้า น้ำมันและก๊าซ เชื้อเพลิง และพลังงานหมุนเวียน คู่มือนี้จับแผนที่ว่าใครควบคุมอะไร และทั้งหมดประกอบกันอย่างไร

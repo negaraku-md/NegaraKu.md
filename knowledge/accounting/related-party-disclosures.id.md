@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016"]
 keywords: ["MFRS 124", "pihak berkaitan", "akaun semasa pengarah", "pinjaman pengarah", "MBRS", "IAS 24", "penyata kewangan"]
+framework: explainer
 ---
 
 Dalam kebanyakan Sdn Bhd milik keluarga di Malaysia, uang bergerak masuk dan keluar tanpa banyak dokumen: sang ayah menyuntikkan kas ketika arus kas ketat, seorang anak mengambil uang muka untuk hal pribadi, dan sebuah perusahaan berelasi melunasi tagihan untuk yang lain. Semua itu berkumpul dalam satu baris yang senyap pada neraca — "rekening koran direktur" — dan baris inilah yang paling sering tersandung ketika auditor tiba dan ketika laporan keuangan ditag untuk SSM.

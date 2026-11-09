@@ -106,6 +106,7 @@ entity: "Employment Act 1955"
 relations: []
 related: ["labour-law-map-malaysia", ]
 keywords: ["employment act 1955", "employment act malaysia", "act 265", "employment amendment act 2022", "malaysia labour law", "45 hour week malaysia"]
+framework: data-reference
 ---
 
 Buka mana-mana blog HR Malaysia dan anda masih akan menemui Akta Kerja digambarkan

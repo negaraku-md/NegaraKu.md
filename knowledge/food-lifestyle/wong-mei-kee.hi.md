@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#WongMeiKee", "#SiewYok", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Pudu में एक कोने का स्टॉल दोपहर में सिर्फ़ कुछ घंटे खुलता है, और क़तार उससे काफ़ी

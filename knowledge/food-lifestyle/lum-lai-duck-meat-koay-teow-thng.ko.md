@@ -78,6 +78,7 @@ related:
   - "malaysian-noodles"
 social:
   hashtags: ["KoayTeowThng", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 조지타운의 숱한 오리 국수 노점 가운데 한 곳이 줄의 자석이 되었습니다. 같은 한 그릇을

@@ -74,6 +74,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
 related: []
 keywords: ["livre blanc de la santé", "réforme du système de santé", "financement de la santé", "KKM", "assurance maladie nationale", "Rakan KKM"]
+framework: explainer
 ---
 
 Les cliniques publiques prennent en charge près des deux tiers des consultations externes du pays, et pourtant elles ne représentent qu'environ une installation de soins primaires sur quatre. C'est ce déséquilibre, entre autres, qui a poussé le ministère de la Santé de Malaisie (MOH) à rédiger le document d'orientation le plus important depuis une génération : le Livre blanc de la santé.

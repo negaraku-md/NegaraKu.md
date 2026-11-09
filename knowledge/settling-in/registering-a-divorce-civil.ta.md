@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "getting-married-in-malaysia" }
 related: ["getting-divorced-in-malaysia", "getting-married-in-malaysia"]
 keywords: ["civil divorce Malaysia", "Law Reform Marriage and Divorce Act 1976", "Act 164", "marriage tribunal JPN", "decree nisi", "decree absolute", "joint petition divorce", "Section 106 conciliatory body", "non-Muslim divorce Malaysia"]
+framework: explainer
 ---
 
 JPN-இல் தங்கள் திருமணத்தைப் பதிவு செய்யும் முஸ்லிம் அல்லாத தம்பதிகள், அதே அலுவலகம் அதை முடிவுக்குக் கொண்டுவரவும் முடியும் என்று அடிக்கடி கருதுகிறார்கள். அது முடியாது. மலேசியாவில், ஒரு சிவில் திருமணம் நிர்வாக ரீதியில் பதிவு செய்யப்படுகிறது, ஆனால் அது ஒரு நீதிமன்ற ஆணையால் மட்டுமே கலைக்கப்படுகிறது — மேலும் பிரிந்து வாழும் திருமணத்திலிருந்து முத்திரையிடப்பட்ட ஆணை வரையிலான வழி, ஒரு சமரச தீர்ப்பாயம், ஒரு உயர் நீதிமன்ற மனு, மற்றும் விவாகரத்து இறுதியாகும்முன் உள்ளமைந்த மூன்று மாத இடைநிறுத்தம் ஆகியவற்றின் வழியாகச் செல்கிறது.

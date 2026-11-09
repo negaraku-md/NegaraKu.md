@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "wisma-putra" }
 related: []
 keywords: ["Malaysia China relations", "largest trading partner", "South China Sea", "comprehensive strategic partnership", "1974 diplomatic relations", "Wisma Putra", "nine-dash line"]
+framework: explainer
 ---
 
 1974年、東南アジアの多くがいまだ冷戦下の猜疑心をもって北京を見ていた頃、マレーシアのトゥン・アブドゥル・ラザク（Tun Abdul Razak）首相は中国へ飛び、毛沢東（Mao Zedong）と握手を交わした。この訪問により、マレーシアは中華人民共和国と外交関係を開いた最初のASEAN国となり、今日ではマレーシアにとって経済的に最も重要でありながら、その周縁部においては最も繊細な舵取りを要する関係の原型を築いた。

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["sst-explained", "sst-registration"]
 keywords: ["tourism tax", "TTx", "Tourism Tax Act 2017", "RM10 per room", "MyTTx", "RMCD", "Agoda tax", "hotel tax Malaysia"]
+framework: explainer
 ---
 
 말레이시아 호텔에서 체크아웃할 때, 객실 요금과는 무관한 작고 일정한 항목 하나를 계산서에서 발견할 수 있습니다. 바로 객실당 1박당 한 번, RM10입니다. 그것이 관광세이며, 이를 납부해야 하는지는 프런트에서 면제해 줄 수 없는 단 하나의 질문으로 귀결됩니다: 어느 나라의 여권을 소지하고 있습니까?

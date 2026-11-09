@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["population-composition", "religion-statistics", "languages-spoken", "batik"]
 keywords: ["农历新年", "华人新年", "春节", "团圆饭", "红包", "压岁钱", "舞狮", "捞生", "鱼生", "十五暝", "Chap Goh Meh", "开放门户", "马来西亚华人", "公共假期", "Chinese New Year Malaysia"]
+framework: history-culture
 ---
 
 大晦日には、多くの店が早めに店じまいし、高速道路は帰省の車で埋め尽くされる。夜になると、一家は食卓を囲む——魚（年年有余、「年々余りあるように」の意）、丸鶏一羽、団欒を意味する肉団子、そして箸で高く掲げて食べる冷菜のイーサンが並ぶ。この大晦日の団欒の夕食を、正月一日そのものより重んじる家庭も少なくない。

@@ -74,6 +74,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#WinnsCafe", "#Peranakan", "#Nyonya", "#Penang", "#BibGourmand"]
+framework: profile
 ---
 
 ペナンは海峡生まれの華人料理の古い中心地であり、Winn's Cafe はその伝統をできるかぎ

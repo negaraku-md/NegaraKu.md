@@ -70,6 +70,7 @@ relations:
   - { rel: "governs", to: "akta-perkhidmatan-bomba-1988" }
 related: []
 keywords: ["keselamatan kebakaran", "pencegahan kebakaran", "perakuan bomba", "fire certificate", "JBPM", "Akta Perkhidmatan Bomba 1988"]
+framework: explainer
 ---
 
 தீ எச்சரிக்கை தராது. சில நிமிடங்களுக்குள், அதிக சுமை ஏற்றப்பட்ட சொக்கெட்டில் இருந்து வரும் ஒரு தீப்பொறி அல்லது கவனிக்கப்படாமல் விடப்பட்ட ஒரு சட்டி ஒரு வீட்டையே தரைமட்டமாக்கிவிடும் — 2025-ஆம் ஆண்டில் மட்டும், [மலேசிய தீயணைப்பு மற்றும் மீட்புத் துறை](/ta/public-safety/fire-and-rescue-department-bomba) (JBPM) 16,111 தீ விபத்துகளையும், 98 இறப்புகளையும், RM2.09 பில்லியன் என மதிப்பிடப்பட்ட சொத்து இழப்பையும் பதிவு செய்தது. நல்ல செய்தி: உங்கள் வரவேற்பறையிலோ தொழிற்சாலைத் தளத்திலோ — ஏறக்குறைய அனைத்தும் தடுக்கக்கூடியவையே.

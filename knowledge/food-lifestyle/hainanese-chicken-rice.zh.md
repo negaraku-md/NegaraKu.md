@@ -86,6 +86,7 @@ keywords:
   - "Ipoh chicken rice"
 social:
   hashtags: ["#HainaneseChickenRice", "#NasiAyam", "#ChickenRiceBalls", "#Melaka", "#MalaysianFood"]
+framework: history-culture
 ---
 
 在马来西亚的kopitiam（传统咖啡店）点一盘鸡饭，端上来的三样东西看起来朴素得几乎不值得

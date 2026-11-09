@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "worker-accommodation-act-446" }
 related: ["hiring-foreign-workers-malaysia", "worker-accommodation-act-446"]
 keywords: ["travail forcé malaisie", "forced labour malaysia", "article 90b employment act", "rétention de passeport malaisie", "withhold release order malaysia", "atipsom", "frais de recrutement travailleurs migrants"]
+framework: rules
 ---
 
 Entre 2019 et 2022, les Douanes et la protection des frontières des États-Unis (CBP) ont bloqué les importations de huit producteurs malaisiens de gants et d'huile de palme. Les entreprises ont remboursé plus de 85 millions de dollars américains de salaires retenus pour obtenir la levée des ordres. Voilà la réalité commerciale de la conformité en matière de travail forcé en Malaisie, et c'est pourquoi il s'agit d'une question de commerce avant d'être une question de ressources humaines.

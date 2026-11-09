@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["bangsawan", "opera Melayu", "teater Parsi", "Wayang Parsi", "Pushi Indera Bangsawan", "teater peralihan", "filem Melayu"]
+framework: history-culture
 ---
 
 Before there were motion pictures, there were lit stages, hand-painted curtains, and an orchestra able to switch from the flowing melodies of a Malay court to a rhythm from the Middle East within the same night's performance. That was bangsawan — the stage opera that was once the liveliest urban entertainment on the Peninsula, and which later handed its actors and singers over to the newborn Malay film industry.

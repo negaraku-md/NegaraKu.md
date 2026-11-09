@@ -65,6 +65,7 @@ sources:
 
 related: ["anwar-ibrahim", "ismail-sabri-yaakob", "muhyiddin-yassin", "prime-ministers-of-malaysia", "how-elections-work"]
 keywords: ["GE15", "2022 general election Malaysia", "hung parliament", "unity government", "Undi18"]
+framework: history-culture
 ---
 
 > **ฉบับร่าง — อ่อนไหว** บทความนี้เป็นบทสรุปที่เป็นกลางและยังอยู่ระหว่างการจัดทำ และ

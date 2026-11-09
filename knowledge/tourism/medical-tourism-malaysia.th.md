@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "tourism-malaysia" }
 related: ["tourism"]
 keywords: ["medical tourism Malaysia", "healthcare travel", "MHTC", "Malaysia Healthcare Travel Council", "JCI hospitals Malaysia", "IVF Malaysia", "cardiac care Malaysia"]
+framework: profile
 ---
 
 ครอบครัวชาวอินโดนีเซียบินมาปีนังเพื่อผ่าตัดบายพาสหัวใจ คู่รักจากอ่าวเปอร์เซียมาทำ IVF และผู้เกษียณจากออสเตรเลียจองการตรวจสุขภาพทั้งตัวที่จะมีค่าใช้จ่ายสามเท่าที่บ้าน เมื่อรวมกันพวกเขาเป็นส่วนหนึ่งของอุตสาหกรรมที่เงียบซึ่งนำผู้คนกว่า 1.6 ล้านคนมามาเลเซียในปีเดียว ไม่ใช่เพื่อเที่ยวชม แต่เพื่อรักษาให้หายดี

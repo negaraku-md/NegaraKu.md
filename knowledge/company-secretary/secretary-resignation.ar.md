@@ -113,6 +113,7 @@ relations:
   - { rel: "requires", to: "register-of-directors" }
 related: ["secretary-vacancy-30-days", "changing-company-secretary", "company-secretary-qualification", "appoint-company-secretary"]
 keywords: ["استقالة سكرتير الشركة ماليزيا", "resign company secretary Malaysia", "القسم 237 قانون الشركات 2016", "section 237 Companies Act 2016", "استقالة السكرتير 30 يوماً", "Practice Note 4/2018", "تعذر الاتصال بالمديرين استقالة السكرتير", "notice of intention to vacate office of secretary"]
+framework: how-to
 ---
 
 كل دليل عن هذا الموضوع مكتوب من جانب الشركة: استقال سكرتيرك، وهذا ما تودعه. وهذا

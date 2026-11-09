@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["income-tax-in-malaysia", "section-33-deductibility", "non-deductible-expenses", "personal-tax-rates", "which-tax-form"]
 keywords: ["rental income tax Malaysia", "cukai pendapatan sewa", "pre-letting expenses Malaysia", "can I deduct agent commission rental", "Public Ruling 12/2018", "quit rent deduction"]
+framework: explainer
 ---
 
 मलेशियाई किराया-गणना में सबसे आम गलती है पहले किरायेदार को ढूँढने की लागत का

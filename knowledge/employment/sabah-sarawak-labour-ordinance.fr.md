@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "employment" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage"]
 keywords: ["sabah labour ordinance", "sarawak labour ordinance", "cap 67", "cap 76", "east malaysia employment law", "jtk sabah", "jtk sarawak"]
+framework: explainer
 ---
 
 Cherchez « droit du travail malaisien » et chaque résultat que vous obtenez décrit la Malaisie péninsulaire sans le dire nulle part. Ce silence a un coût : une politique RH nationale rédigée au regard de l'Employment Act 1955 est tout simplement la mauvaise loi pour toute personne employée à Kota Kinabalu, Sandakan, Kuching ou Miri.

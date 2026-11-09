@@ -81,6 +81,7 @@ keywords:
   - "kedudukan Raja-Raja Melayu"
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
+framework: history-culture
 ---
 
 For one year and ten months, Malaya was governed under a constitution that today is barely known to anyone beyond its name. The Malayan Union began on 1 April 1946 and ended on 31 January 1948 — short enough that it never got around to leaving behind buildings, a currency, or a generation of administrators of its own.

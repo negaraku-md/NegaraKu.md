@@ -80,6 +80,7 @@ relations:
   - { rel: "affects", to: "mpers-2025-revision" }
 related: ["mfrs-vs-mpers"]
 keywords: ["switch MPERS to MFRS", "MFRS 1 first-time adoption Malaysia", "private entity definition MASB", "change accounting framework Malaysia", "revert to MPERS"]
+framework: explainer
 ---
 
 Every Malaysian firm blog explains the *difference* between MPERS and MFRS. Almost

@@ -103,6 +103,7 @@ relations:
   - { rel: "affects", to: "transfer-pricing-documentation" }
 related: ["transfer-pricing-documentation", "form-c-and-cp204", "withholding-tax-non-compliance"]
 keywords: ["LHDN tax audit", "audit cukai LHDN", "tax audit framework Malaysia", "voluntary disclosure LHDN", "penalti audit cukai", "rangka kerja audit cukai"]
+framework: explainer
 ---
 
 แนวทางเกี่ยวกับการตรวจสอบภาษีของมาเลเซียส่วนใหญ่อธิบาย **desk audit** และ **field audit** ทั้งสองคำไม่ปรากฏในกรอบที่ LHDN ดำเนินการจริง เอกสารปัจจุบัน — *Rangka Kerja Audit Cukai Pendapatan dan Majikan* มีผลวันที่ **15 มีนาคม 2025** — ใช้สองวิธีที่ต่างกัน และความแตกต่างระหว่างพวกมันตัดสินว่าคุณได้รับการแจ้งล่วงหน้าเท่าใดและเรื่องทั้งหมดดำเนินการนานเท่าใด

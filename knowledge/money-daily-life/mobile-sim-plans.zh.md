@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["moving-to-malaysia-first-steps", "mykad", "imigresen"]
 keywords: ["mobile sim malaysia", "prepaid sim registration malaysia", "MCMC sim registration", "postpaid vs prepaid malaysia", "buy sim card malaysia foreigner", "CelcomDigi Maxis U Mobile"]
+framework: explainer
 ---
 
 走进马来西亚任何一家手机店，付现金买一张 SIM 卡，店员仍会在你能使用它之前把你拦

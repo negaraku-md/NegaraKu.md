@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "form-c-and-cp204" }
 related: ["statutory-audit-process", "audit-preparation-checklist", "form-c-and-cp204", "corporate-tax-rates", "company-tax-calendar"]
 keywords: ["audit adjustments tax Malaysia", "CP204 revision months", "section 107C(10) penalty", "under estimation of tax penalty Malaysia", "Form C audited accounts", "audited profit tax computation"]
+framework: explainer
 ---
 
 Không ai trong cuộc họp kết thúc kiểm toán đang nghĩ về thuế. Cuộc thảo luận xoay quanh một khoản dự phòng hàng tồn kho, một lỗi chia cắt niên độ và liệu biến động trong tài khoản của giám đốc có phải là thu nhập hay không. Rồi các điều chỉnh được ghi sổ, lợi nhuận đã kiểm toán thay đổi, và một con số mà không ai trong phòng làm chủ cũng thay đổi theo.

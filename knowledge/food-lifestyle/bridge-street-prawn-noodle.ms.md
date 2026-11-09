@@ -79,6 +79,7 @@ related:
   - "malaysian-noodles"
 social:
   hashtags: ["PrawnMee", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 Prawn mee ialah salah satu mangkuk penanda Pulau Pinang, dan di Lebuh Pantai

@@ -92,6 +92,7 @@ verificationNeeded:
   - "À quel point la podi thosai (thosai saupoudrée ou enduite de poudre d'épices idli/dosa) est courante sur les cartes malaisiennes en particulier — la variété est bien établie dans les gargotes du sud de l'Inde et de Singapour, mais la couverture malaisienne est plus mince ; à confirmer auprès d'une source locale."
   - "L'orthographe malaise officielle ou standard du plat — « tosai », « thosai » et « tose » circulent toutes, et la forme recommandée par Dewan Bahasa dan Pustaka a été publiquement contestée ; à confirmer auprès d'une référence faisant autorité du DBP."
   - "Si le lait de coco figure dans une quelconque pâte à thosai malaisienne courante — la plupart des recettes n'utilisent que du riz, de l'urad dal, de l'eau et du sel ; à confirmer la recette locale standard auprès d'une source culinaire fiable."
+framework: explainer
 ---
 
 Entrez dans un stand mamak à l'aube, ou dans un restaurant à feuille de bananier à midi, et quelque

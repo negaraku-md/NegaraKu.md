@@ -83,6 +83,7 @@ relations:
 related: ["batik", "wayang-kulit", "kelantan"]
 entity: "Wau"
 keywords: ["wau", "wau bulan", "layang-layang tradisional", "kraf Kelantan", "Adiguru Kraf wau"]
+framework: history-culture
 ---
 
 Trước khi bạn nhìn thấy cánh wau ấy, bạn nghe nó trước. Một cánh wau truyền thống làm đúng cách sẽ vo ve suốt thời gian nó ở trên không — không phải tiếng gió, mà là những nốt được cố ý thiết kế đưa vào cấu tạo của nó.

@@ -137,6 +137,7 @@ keywords:
   - "trade licence Sarawak"
   - "LHDN business registration Kuching"
   - "lesen perniagaan Sarawak"
+framework: how-to
 ---
 
 사라왁에서는 사업체를 하나로 등록하지 않습니다. 세 가지를 최대 세 곳의 서로 다른 당국에

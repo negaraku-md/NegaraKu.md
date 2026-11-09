@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "investment-agency-directory" }
 related: ["doing-business-kuala-lumpur", "principal-hub-malaysia", "labuan-company-vs-sdn-bhd", "investment-agency-directory"]
 keywords: ["Tun Razak Exchange", "TRX Kuala Lumpur", "Exchange 106", "Malaysia international financial centre", "TRX Marquee incentives", "The Exchange TRX", "pusat kewangan antarabangsa TRX", "TRX City Sdn Bhd"]
+framework: profile
 ---
 
 तुन रज़ाक एक्सचेंज MRT स्टेशन से बाहर निकलिए और क्षितिज आपको बता देता है कि यह योजनाबद्ध था, अपने-आप उगा नहीं। कुआलालंपुर के केंद्र के पूर्वी छोर पर 70 एकड़ में मीनारों का एक समूह, जिनमें से एक 450 मीटर से ऊपर पहुँचती है, एक ऐसे पार्क के इर्द-गिर्द बिछा है जो किसी मॉल की छत पर बैठा है। यह शून्य से एक वित्तीय ज़िला बनाने का मलेशिया का प्रयास है।

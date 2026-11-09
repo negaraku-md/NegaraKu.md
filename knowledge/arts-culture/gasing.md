@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "wau" }
 related: ["wau", "kelantan", "terengganu"]
 keywords: ["gasing", "gasing uri", "gasing pangkah", "permainan tradisional Melayu", "warisan kebangsaan", "Kuala Nerus", "gasing Kelantan", "gasing Terengganu"]
+framework: history-culture
 ---
 
 Bunyinya dahulu yang sampai — hentakan kayu berat melanggar kayu berat, disusuli sorakan. Di sebuah padang kampung sekitar Kuala Nerus, Terengganu, dua kumpulan berdiri bersemuka. Seorang melemparkan gasingnya dengan tali; sebiji lagi sudah berpusing menunggu di tanah. Yang menang bukan yang terpantas — tetapi yang gasingnya masih berpusing selepas dilanggar.

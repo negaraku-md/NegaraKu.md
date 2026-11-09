@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "stamp-duty" }
 related: []
 keywords: ["RPGT", "cukai keuntungan harta tanah", "CKHT", "LHDN", "pelupusan hartanah", "kadar RPGT", "pengecualian RPGT"]
+framework: rules
 ---
 
 Anda menjual rumah dengan untung — tetapi sebelum wang masuk ke akaun, kerajaan mahu bahagiannya. Itulah RPGT, cukai yang sering terlepas pandang oleh penjual sehingga peguam menahan beribu-ribu ringgit di meja penyelesaian.

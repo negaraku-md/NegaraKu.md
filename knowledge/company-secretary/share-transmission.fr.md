@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "share-transfer" }
 related: ["share-transfer", "register-of-members", "stamp-duty-share-transfer", "beneficial-ownership"]
 keywords: ["transmission of shares Malaysia", "shares after shareholder dies", "section 109 Companies Act 2016", "probate shares Sdn Bhd", "trustee in bankruptcy shares"]
+framework: how-to
 ---
 
 Un actionnaire d'une Sdn Bhd à deux associés décède. Le directeur survivant demande

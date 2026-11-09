@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "hydrogen-ccus-malaysia" }
 related: ["energy-commission-suruhanjaya-tenaga", "tenaga-nasional", "seda-malaysia", "sarawak-energy-berhad", "hydrogen-ccus-malaysia"]
 keywords: ["قطاع الطاقة في ماليزيا", "sektor tenaga Malaysia", "NETR", "خارطة طريق انتقال الطاقة الوطنية", "PETRA", "لجنة الطاقة", "Suruhanjaya Tenaga", "Petronas", "تعرفة الكهرباء RP4", "BUDI95", "الطاقة المتجددة في ماليزيا", "شبكة الكهرباء في ماليزيا"]
+framework: explainer
 ---
 
 أدِر مفتاح إضاءة في كوالالمبور، أو املأ خزّانك بـ RON95 في إيبوه، أو ركّب ألواحًا

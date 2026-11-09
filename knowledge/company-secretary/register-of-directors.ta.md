@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "appoint-company-secretary" }
 related: ["statutory-registers", "register-of-members", "appoint-company-secretary", "annual-return"]
 keywords: ["register of directors Malaysia", "section 57 Companies Act 2016", "section 58 notification SSM", "daftar pengarah syarikat", "change of director SSM 14 days", "service address director Malaysia"]
+framework: rules
 ---
 
 ஒரு இயக்குநர் மார்ச் 3 அன்று ராஜினாமா செய்கிறார். செயலாளர் மார்ச் 14 அன்று, காலக்கெடுவுக்கு நன்கு முன்பாகவே s.58 அறிவிப்பை SSMஇடம் தாக்கல் செய்து, கோப்பை மூடுகிறார். பதினொரு மாதங்களுக்குப் பிறகு, வாங்குபவரின் வழக்கறிஞர் இயக்குநர்கள் பதிவேட்டைப் பரிசோதிக்குமாறு கேட்கிறார், ராஜினாமா செய்த இயக்குநர் இன்னும் பட்டியலில் இருப்பதைக் காண்கிறார். நிறுவனம் ஒரு கடமையைச் செய்துள்ளது, மற்றொன்றை மீறியுள்ளது — மேலும் அதிக அபராதம் கொண்ட மீறல்தான் யாரும் கவனிக்காதது.

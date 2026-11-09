@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "financial-statements-lodgement" }
 related: ["financial-statements-lodgement", "extension-of-time-ssm", "resolution-notice-periods", "sdn-bhd-filing-calendar", "egm-requisition"]
 keywords: ["AGM मलेशिया", "AGM Malaysia", "वार्षिक आम बैठक Sdn Bhd", "धारा 340 Companies Act 2016", "section 340 Companies Act 2016", "क्या निजी कंपनी को AGM चाहिए", "AGM समयसीमा छह महीने"]
+framework: rules
 ---
 
 «Sdn Bhd को अब AGM की ज़रूरत नहीं» यही मानक कथन है, और अधिकांश कंपनियों के लिए

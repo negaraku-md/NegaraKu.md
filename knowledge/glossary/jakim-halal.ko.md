@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "kpdn" }
 related: ["jakim"]
 keywords: ["halal", "JAKIM", "sijil halal", "pensijilan halal", "MYeHALAL", "logo halal", "Akta Perihal Dagangan 2011", "MAIN", "JAIN"]
+framework: explainer
 ---
 
 서예 문자가 새겨진 공식 할랄 로고는 식품 포장 위에서 작아 보일 수 있습니다 — 그러나 그 뒤에는 하나의 연방 제도, 수백만 링깃의 벌금을 매기는 법률, 그리고 어떤 제품이 말레이시아에서 스스로를 할랄이라 주장할 수 있는지 결정하는 단일 기관이 서 있습니다. 그 기관이 바로 JAKIM입니다.

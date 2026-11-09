@@ -95,6 +95,7 @@ verificationNeeded:
   - "The origin story of chicken rice balls (that labourers or sailors shaped rice into balls for portability) and whether the dish truly originated in Melaka rather than elsewhere — these are popular legends, not firmly documented; confirm with a food-history source."
   - "Whether cendol and gula Melaka genuinely originated in Melaka — the Melaka naming of the palm sugar is the best-supported claim, but cendol's own origin is unresolved (Java and Peranakan Melaka/Penang are both proposed); confirm with a culinary-history source."
   - "The precise origin and first maker of the pineapple tart (commonly attributed to Peranakan Nyonya cooks with a Portuguese pastry influence) and the Hokkien 'ong lai'/prosperity wordplay behind its Chinese New Year role — confirm with a culinary or linguistic source."
+framework: history-culture
 ---
 
 Few Malaysian towns put their history on a plate as plainly as Melaka. A spoon of

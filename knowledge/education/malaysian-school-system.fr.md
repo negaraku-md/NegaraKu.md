@@ -80,6 +80,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: ashton-tan
+framework: explainer
 ---
 
 Pour un enfant qui grandit en Malaisie, la question « quelle école ? » revêt plus de sens que dans beaucoup de pays. Il s'agit en partie de distance et de réputation, comme partout — mais c'est aussi un choix entre une école nationale qui enseigne principalement en malais et une école de type national qui enseigne en chinois ou en tamoul. Les deux font partie du même système public, suivent le même programme national et mènent aux mêmes examens nationaux. Comprendre comment ce système s'articule est la première étape pour s'y orienter.

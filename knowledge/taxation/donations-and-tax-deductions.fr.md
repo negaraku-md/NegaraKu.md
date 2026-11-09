@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["waqf-islamic-endowment-malaysia", "income-tax-in-malaysia", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["don déductible d'impôt Malaisie", "institution agréée section 44(6)", "plafond de 10% du revenu agrégé pour les dons", "vérifier organisme caritatif agréé LHDN", "derma potongan cukai"]
+framework: rules
 ---
 
 Le reçu indique *exonéré d'impôt au titre de la sous-section 44(6)*. Cette phrase est imprimée

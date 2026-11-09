@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "company-contracts-section-64" }
 related: ["companies-act-2016"]
 keywords: ["penyempurnaan dokumen", "cop mohor", "common seal", "seksyen 66", "surat ikatan", "deed", "pegawai diberi kuasa", "Akta Syarikat 2016", "tandatangan syarikat"]
+framework: explainer
 ---
 
 Before the Companies Act 2016 came into force on 31 January 2017, the common seal was the customary way for a company to execute important documents in Malaysia. Today, that common seal may not exist at all — and a company can still validly sign contracts, loans, and deeds. This change comes from the Companies Act 2016, specifically Section 61 and Section 66, and it often confuses signatories who are still searching for the "company chop".

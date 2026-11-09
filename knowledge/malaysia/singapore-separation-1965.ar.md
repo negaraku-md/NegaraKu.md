@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
 related: ["formation-of-malaysia-1963", "ma63", "independence-1957"]
 keywords: ["انفصال سنغافورة 1965", "اتفاق استقلال سنغافورة", "يوم سنغافورة", "تونكو عبد الرحمن", "لي كوان يو", "ماليزيا الماليزية", "Singapore separation 1965", "Independence of Singapore Agreement", "Singapore Day", "Constitution and Malaysia (Singapore Amendment) Act 1965", "Malaysian Malaysia"]
+framework: history-culture
 ---
 
 خسرت دولة ولايةً مؤسِّسة في عطلة أسبوع واحدة. وُقّع الاتفاق يوم السبت، وأُقرّ التعديل الدستوري يوم الاثنين، وبحلول العاشرة صباحًا من ذلك الاثنين نفسه كان إعلان استقلال يُتلى عبر إذاعة سنغافورة (Radio Singapura). معظم الاتحادات التي تتفكك تفعل ذلك ببطء وضجيج. أما هذا فقد حُلّ — بالمعنى القانوني — في نحو ثمانٍ وأربعين ساعة، بوثائق صِيغت سرًّا ووقّعها خمسة عشر وزيرًا.

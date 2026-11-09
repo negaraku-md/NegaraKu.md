@@ -109,6 +109,7 @@ keywords:
   - "Kuala Lumpur premise licence fee"
   - "Federal Territory Planning Act 1982"
   - "TRX Marquee status incentives"
+framework: profile
 ---
 
 吉隆坡是马来西亚唯一一个你能从联邦宪报直接读到自己执照费用的地方。不是市议会通告，也不是柜台查询——而是你行业的实际年费率，印在一份任何人都能下载的 P.U.(A) 中。

@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "domestic-inquiry-malaysia" }
 related: ["labour-law-map-malaysia", "termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
 keywords: ["मलेशिया अनुचित बर्खास्तगी", "धारा 20 औद्योगिक संबंध अधिनियम", "60 दिन बर्खास्तगी दाखिल", "मलेशिया औद्योगिक न्यायालय", "बकाया वेतन सीमा 24 महीने", "पुनर्नियुक्ति के बदले मुआवज़ा", "unfair dismissal malaysia", "section 20 industrial relations act"]
+framework: how-to
 ---
 
 साठ दिन। पूरा खेल यही है, और यहीं अधिकांश मलेशियाई अनुचित बर्खास्तगी के दावे दम तोड़ देते हैं — गुण-दोष पर नहीं, बल्कि इसलिए कि कर्मचारी ने सात सप्ताह HR से बातचीत में लगाए, दो और एक ऐसे जवाब की प्रतीक्षा में जो कभी नहीं आया, और तिरसठवें दिन दाखिल किया।

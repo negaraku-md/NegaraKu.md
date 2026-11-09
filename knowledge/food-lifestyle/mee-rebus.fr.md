@@ -90,6 +90,7 @@ verificationNeeded:
   - "La question de savoir si le mee Jawa de Penang est véritablement un plat distinct du mee rebus ou un nom régional de la même chose, ainsi que sa sauce caractéristique plus sucrée et teintée de tomate — à vérifier auprès d'une source patrimoniale ou d'histoire gastronomique de Penang."
   - "Le rôle et la présence relatifs du taucheo (pâte de soja fermentée) par rapport à une base de crevettes séchées dans la sauce, qui varient selon la région et le cuisinier (certaines versions omettraient le taucheo) — à vérifier auprès de plusieurs sources de recettes ou culinaires."
   - "L'affirmation selon laquelle Johor Bahru est la « capitale du mee rebus » et l'emploi de bouillon de bœuf dans la sauce de Johor, qui proviennent d'un reportage ancien de 2006 — à vérifier auprès d'une source gastronomique ou patrimoniale de Johor actuelle."
+framework: explainer
 ---
 
 Commandez un mee rebus en Malaisie et vous obtenez une assiette, pas un bol de soupe : des nouilles jaunes posées dans une sauce épaisse et brillante de la couleur d'un café léger, parsemées d'œuf, de tofu et d'une tranche de piment d'un vert éclatant. La première cuillerée est légèrement sucrée, puis savoureuse, puis un peu piquante — et un trait de limau kasturi tranche dans le gras. C'est une nourriture de stand bon marché et nourrissante, et presque chaque cuisine malaise et mamak en fait sa propre version.

@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "unfair-dismissal-malaysia" }
 related: ["termination-of-employment-malaysia", "unfair-dismissal-malaysia", "termination-benefits-malaysia"]
 keywords: ["domestic inquiry malaysia", "DI procedure malaysia", "show cause letter malaysia", "suspension pending inquiry", "section 14 employment act", "misconduct dismissal malaysia"]
+framework: how-to
 ---
 
 Most Malaysian HR guides give the domestic inquiry a single sentence: "conduct a DI before dismissing for misconduct." That sentence is where employers lose cases. The inquiry is not a box to tick before a decision already made — it is the evidence base the employer will stand on months later at the Industrial Court, and it fails on procedure far more often than on facts.

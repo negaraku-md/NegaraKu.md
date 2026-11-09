@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "kinabatangan-floodplain" }
 related: ["sabah"]
 keywords: ["Bornean orangutan", "Sabah", "Wildlife Conservation Enactment 1997", "Sepilok", "Kinabatangan", "habitat protection", "totally protected species", "wildlife corridor"]
+framework: explainer
 ---
 
 Seekor orangutan liar memerlukan banyak hutan, dan hutan yang terhubung. Di tanah rendah Sabah bahagian timur, itu telah menjadi perkara yang paling jarang ditemui: pokok-pokok yang dahulunya membolehkan seekor kera bergerak sejauh berkilometer tanpa menjejak tanah kini terhenti di pinggir ladang kelapa sawit. Sama ada orangutan Borneo dapat terus hidup dalam landskap ini, sebahagian besarnya, adalah persoalan undang-undang, tanah, dan koridor.

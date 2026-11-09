@@ -90,6 +90,7 @@ keywords:
   - "charcoal grilled skewers"
 social:
   hashtags: ["#Satay", "#SatayKajang", "#SatayCelup", "#MalaysianFood", "#Malaysia"]
+framework: explainer
 ---
 
 最先传来的是声音：一把手扇在一槽炽红的炭火上扇动，滴落的油脂发出嘶嘶声，接着姜黄与

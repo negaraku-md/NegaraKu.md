@@ -112,6 +112,7 @@ keywords:
   - "PK 1.5 Bumiputera procurement"
   - "BCPLC status"
   - "distributive trade Bumiputera equity"
+framework: data-reference
 ---
 
 ブミプトラ出資及び参加条件は、マレーシアの事業コンプライアンスにおいて現に機能している一部分である。これらは政府調達、流通取引ガイドライン、いくつかの業種別ライセンス、及び不動産取得規則に現れる。同時に、広く適用されると想定されている多くの場面には現れない。

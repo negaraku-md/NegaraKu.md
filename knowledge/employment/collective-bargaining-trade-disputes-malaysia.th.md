@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "department-of-industrial-relations-malaysia" }
 related: ["trade-unions-malaysia", "employment-act-1955"]
 keywords: ["rundingan kolektif", "perjanjian kolektif", "pertikaian perusahaan", "hak rundingan tunggal", "pengiktirafan kesatuan", "mogok", "sekat masuk", "piket", "Akta Perhubungan Perusahaan 1967", "Mahkamah Perusahaan"]
+framework: rules
 ---
 
 ลูกจ้างที่ต้องการให้นายจ้างมานั่งโต๊ะเดียวกันเพื่อเจรจาค่าจ้างไม่สามารถเพียงแค่ร้องขอได้ — มีกระแสขั้นตอนทางกฎหมายที่ต้องผ่าน และแต่ละขั้นตอนมีวันครบกำหนดของตัวเอง กระแสขั้นตอนนั้นบรรจุอยู่ใน[พระราชบัญญัติแรงงานสัมพันธ์ 1967](/law/industrial-relations-act-1967) (Industrial Relations Act 1967, Akta 177) ซึ่งบังคับใช้โดยกรมแรงงานสัมพันธ์มาเลเซีย (Department of Industrial Relations, JPPM) และกำหนดว่าใครสามารถเจรจาได้ อะไรที่เจรจาได้ และการดำเนินการแรงงานเช่นการนัดหยุดงานได้รับอนุญาตเมื่อใด

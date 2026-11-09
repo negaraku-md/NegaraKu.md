@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "audit-exemption" }
 related: ["mbrs-2-filing-guide", "mbrs-tagging-errors", "unaudited-financial-statements", "financial-statements-lodgement", "audit-exemption", "mfrs-vs-mpers"]
 keywords: ["القوائم المالية ماليزيا", "بيان المديرين", "الإقرار القانوني للقوائم المالية", "تقرير المديرين المادة 252", "تقرير المدققين المادة 266", "الحسابات القانونية Sdn Bhd", "تقرير المديرين الجدول الخامس", "financial statements Malaysia", "statement by directors", "statutory declaration"]
+framework: explainer
 ---
 
 اسأل مديراً ماليزياً عما يُرسَل إلى SSM كل سنة، فيكون الجواب عادةً «الحسابات».

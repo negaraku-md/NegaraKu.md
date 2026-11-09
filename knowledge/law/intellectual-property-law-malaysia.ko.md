@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: ["trademark-registration-malaysia"]
 keywords: ["intellectual property Malaysia", "trademark registration Malaysia", "patent Malaysia", "copyright Malaysia", "MyIPO", "Trademarks Act 2019", "Patents Act 1983", "Copyright Act 1987"]
+framework: explainer
 ---
 
 로고, 제법, 한 조각의 코드, 브랜드 이름 — 그중 어느 것이 돈을 벌기 시작하는 순간, 다른 누군가는 그것을 베낄 이유를 갖게 됩니다. 말레이시아 법은 여러분에게 "그것은 내 것이고, 여기 이를 증명할 서류가 있다"고 말할 방법을 줍니다. 문제는 세 가지 주요한 종류의 지식재산이 완전히 서로 다른 세 가지 방식으로 작동하며, 그중 하나를 잘못 다루면 기업이 가장 가치 있는 자산을 잃을 수 있다는 것입니다.

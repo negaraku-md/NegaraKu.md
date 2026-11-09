@@ -61,6 +61,7 @@ relations:
   - { rel: "explained-in", to: "register-sdn-bhd" }
 related: ["business-structures-malaysia", "sole-prop-vs-sdn-bhd", "sdn-bhd-vs-berhad", "register-sdn-bhd", "share-capital-malaysia", "company-constitution-malaysia"]
 keywords: ["sdn bhd क्या है", "sdn bhd का अर्थ", "sendirian berhad", "मलेशिया निजी लिमिटेड कंपनी", "private limited company Malaysia", "apa itu sdn bhd"]
+framework: explainer
 ---
 
 «Sdn Bhd» **Sendirian Berhad** का संक्षिप्त रूप है — मलय में «निजी, सीमित»।

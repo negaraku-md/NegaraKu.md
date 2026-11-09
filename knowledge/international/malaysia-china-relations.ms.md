@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "wisma-putra" }
 related: []
 keywords: ["Malaysia China relations", "largest trading partner", "South China Sea", "comprehensive strategic partnership", "1974 diplomatic relations", "Wisma Putra", "nine-dash line"]
+framework: explainer
 ---
 
 Pada 1974, ketika kebanyakan negara Asia Tenggara masih memandang Beijing dengan syak wasangka era Perang Dingin, Perdana Menteri Malaysia Tun Abdul Razak terbang ke China dan berjabat tangan dengan Mao Zedong. Lawatan itu menjadikan Malaysia negara ASEAN pertama yang membuka hubungan diplomatik dengan Republik Rakyat China — dan menetapkan acuan bagi sebuah hubungan yang kini paling penting dari segi ekonomi kepada Malaysia dan, di bahagian pinggirannya, paling rumit untuk diuruskan.

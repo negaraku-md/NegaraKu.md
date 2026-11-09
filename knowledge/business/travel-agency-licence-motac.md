@@ -79,6 +79,7 @@ social:
     - TourOperator
     - DoingBusinessInMalaysia
     - MalaysiaLicensing
+framework: how-to
 ---
 
 You have found suppliers, built an itinerary and you are ready to start selling holidays — but in Malaysia the selling is the part the law reaches first. Before a single tour is advertised or a ticket is sold, the business behind it has to be licensed by the Ministry of Tourism, Arts and Culture (MOTAC). This is not a formality bolted on afterwards; it is the gate you pass through to trade at all, and running tours without it is a criminal offence.

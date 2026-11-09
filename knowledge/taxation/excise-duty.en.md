@@ -118,6 +118,7 @@ relations:
   - { rel: "related-to", to: "import-duty" }
 related: ["sales-and-service-tax"]
 keywords: ["duti eksais", "excise duty", "Akta Eksais 1976", "cukai kereta", "duti eksais rokok", "cukai gula", "minuman bergula", "JKDM", "kastam"]
+framework: explainer
 ---
 
 Buy a car in Malaysia and you may end up paying tax that nearly equals the price of the car itself. The main culprit is a tax that is rarely discussed but extremely powerful: **excise duty**.

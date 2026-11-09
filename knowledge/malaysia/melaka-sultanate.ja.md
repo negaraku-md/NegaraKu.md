@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: ["langkasuka", "johor"]
 keywords: ["Melaka Sultanate", "Parameswara", "Malacca history", "Hukum Kanun Melaka", "Malay sultanate origins"]
+framework: history-culture
 ---
 
 一人の王子が、燃え盛る都市から逃げ出す。彼は海峡を渡り、自分をかくまってくれた地元の首長を殺し、そのまま走り続ける——ムアルを抜け、ウジョン・タナを抜け——ついに川岸の一本の木の下で足を止め、犬たちを休ませる。その一匹がマメジカを追い詰めたが、追い詰められたマメジカは身をひるがえし、犬を蹴って川に落とした。王子はこれを予兆と受け取る——この地では、どんなに小さな生き物でも反撃するのだと。彼はここに自分の都市を築くことを決め、腰を下ろしていた木にちなんでその名を付けた——*melaka*（マラッカ）の木である。

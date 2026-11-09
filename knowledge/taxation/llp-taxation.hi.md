@@ -95,6 +95,7 @@ relations:
   - { rel: "compares-with", to: "corporate-tax-rates" }
 related: ["corporate-tax-rates"]
 keywords: ["LLP tax Malaysia", "PLT tax", "limited liability partnership tax rate", "cukai PLT", "LLP vs Sdn Bhd tax", "Form PT"]
+framework: explainer
 ---
 
 LLP मलेशिया का सबसे कम-समझाया गया व्यवसाय-रूप है, और भ्रम क़ानून से ही शुरू

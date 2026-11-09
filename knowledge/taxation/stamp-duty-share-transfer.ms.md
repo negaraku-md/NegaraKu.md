@@ -91,6 +91,7 @@ relations:
   - { rel: "part-of", to: "stamp-duty-rates" }
 related: ["stamp-duty-rates", "capital-gains-tax", "stamp-duty-self-assessment", "share-capital-malaysia"]
 keywords: ["duti setem pindah milik saham Malaysia", "Form 32A", "Borang Pindah Milik Sekuriti seksyen 105", "penilaian NTA duti setem", "duti pindah milik saham 0.3%"]
+framework: rules
 ---
 
 Dua perkara mengenai penyeteman pindah milik saham masih tersilap dalam

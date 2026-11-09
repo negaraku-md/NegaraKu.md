@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-malaysia" }
 related: ["religion-statistics", "public-holidays-malaysia", "batik"]
 keywords: ["deepavali malaysia", "festival of lights malaysia", "hindu festival malaysia", "deepavali public holiday", "deepavali sarawak", "hari deepavali", "diwali malaysia"]
+framework: history-culture
 ---
 
 ஒரே இரவுக்கு, பேசுவது விளக்குதான். வரிசை வரிசையாகச் சிறிய களிமண் விளக்குகள் வாசல்களிலும் ஜன்னல் விளிம்புகளிலும் வைக்கப்படுகின்றன, வண்ண அரிசி அல்லது பொடியால் ஒரு தரை வடிவம் வாசற்படியில் இடப்படுகிறது, ஒரு மணிநேரத்திற்கு முன் இருளில் மூழ்கியிருந்த வீடு தீ ஒளியால் வரையறுக்கப்படுகிறது. திருவிழா தனது பெயரைப் பெறுவது இங்குதான்: *தீபாவளி (Deepavali)* என்பது சமஸ்கிருதத்தில் "ஒரு வரிசை அல்லது தொடர் விளக்குகள்" என்பதிலிருந்து வந்தது.

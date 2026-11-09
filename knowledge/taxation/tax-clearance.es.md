@@ -111,6 +111,7 @@ relations:
   - { rel: "related-to", to: "tax-penalties" }
 related: ["offboarding-statutory-checklist", "pcb-monthly-tax-deduction", "expatriate-and-non-resident-tax", "tax-penalties", "tax-appeal"]
 keywords: ["finiquito fiscal Malasia", "tax clearance Malaysia", "SPC LHDN", "surat penyelesaian cukai", "formulario CP21", "formulario CP22A", "e-SPC MyTax", "retención 90 días finiquito fiscal", "sección 83(5) Income Tax Act"]
+framework: rules
 ---
 
 Los equipos de nómina tratan el finiquito fiscal como un formulario. No es un

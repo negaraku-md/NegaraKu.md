@@ -79,6 +79,7 @@ relations:
   - { rel: "part-of", to: "directors-duties" }
 related: ["appoint-resign-director", "directors-duties", "register-of-directors"]
 keywords: ["singkirkan pengarah syarikat Malaysia", "seksyen 206 Akta Syarikat 2016", "resolusi bertulis singkirkan pengarah", "pecat pengarah syarikat", "seksyen 297 resolusi bertulis Malaysia", "notis khas singkirkan pengarah"]
+framework: how-to
 ---
 
 Pemegang saham majoriti mempunyai undi yang mencukupi. Setiausaha syarikat

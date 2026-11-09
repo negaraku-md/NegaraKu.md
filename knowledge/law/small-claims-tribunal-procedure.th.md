@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "consumer-protection-act-1999" }
 related: ["court-hierarchy"]
 keywords: ["tuntutan kecil", "small claims", "mahkamah majistret", "aturan 93", "borang 198", "saman hutang", "tanpa peguam"]
+framework: how-to
 ---
 
 มีใครเป็นหนี้คุณ RM3,000 ปฏิเสธที่จะชำระ และเมินทุกสายที่โทรไป การแต่งตั้งทนายความอาจมีค่าใช้จ่ายมากกว่าจำนวนหนี้เอง นี่คือที่ที่วิธีพิจารณา **การเรียกร้องเล็ก (tuntutan kecil)** มีอยู่: ช่องทางที่ออกแบบมาโดยเฉพาะเพื่อให้คนธรรมดาสามารถนำข้อพิพาทเล็ก ๆ ขึ้นศาลได้ — โดยลำพัง ราคาถูก และไม่ต้องมีเสื้อครุยทนายความ

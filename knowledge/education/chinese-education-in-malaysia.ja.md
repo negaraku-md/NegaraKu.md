@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "tamil-vernacular-schools" }
 related: ["tamil-vernacular-schools", "chinese-clan-associations", "chinese-language-press", "languages-spoken", "population-composition"]
 keywords: ["马来西亚华文教育", "华小", "SJKC", "国民型华文小学", "华文独立中学", "独中", "统考", "UEC", "董教总", "董总", "教总", "新纪元大学学院", "南方大学学院", "韩江", "Chinese education in Malaysia"]
+framework: explainer
 ---
 
 早朝、ある華文小学校の校庭には中国語・マレー語・英語が入り混じる声が響く。いくつかの州を隔てたところでは、ある華文独立中学（独中）の講堂で、生徒たちが年末の統一試験（統考／UEC）に向けて準備をしている。そしてジョホールやペナンでは、華文教育制度から発展した大学学院が新入生を迎えている。これらの光景はいずれも一つの流れ——マレーシアの華文教育——に属しながら、異なる段階に分かれ、異なる資金のあり方と法的な枠組みの下に置かれている。

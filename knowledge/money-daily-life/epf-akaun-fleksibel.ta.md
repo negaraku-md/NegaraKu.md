@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "epf-members-investment-scheme" }
 related: ["i-saraan-epf-voluntary-contribution", "epf", "epf-socso-employees", "epf-members-investment-scheme"]
 keywords: ["akaun fleksibel", "EPF account 3", "KWSP akaun 3", "akaun persaraan sejahtera fleksibel", "EPF account restructuring", "akaun fleksibel withdrawal", "KWSP three accounts"]
+framework: explainer
 ---
 
 கிட்டத்தட்ட நாற்பது ஆண்டுகளாக, உங்கள் EPF சேமிப்பு இரண்டு பெட்டிகளில் இருந்தது:

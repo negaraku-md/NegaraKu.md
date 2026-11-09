@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["non-deductible-expenses", "section-33-deductibility"]
 keywords: ["entertainment expense malaysia tax", "39(1)(l) entertainment", "50% entertainment deduction", "public ruling 4/2015", "promotional gift tax deduction malaysia"]
+framework: rules
 ---
 
 การคำนวณภาษีมาเลเซียเกือบทุกครั้งลดบรรทัดค่าบันเทิงลงครึ่งหนึ่งแล้วเดินหน้าต่อ นั่นผิดทั้งสองทิศทาง บางสิ่ง

@@ -53,6 +53,7 @@ relations:
   - { rel: "part-of", to: "audit-exemption" }
 related: ["audit-exemption", "audit-exemption-thresholds", "after-audit-exemption"]
 keywords: ["who cannot claim audit exemption", "audit exemption exclusions Malaysia", "exempt private company section 260", "subsidiary of public company audit", "foreign company audit Malaysia"]
+framework: rules
 ---
 
 Vượt qua các ngưỡng không phải là cửa cuối cùng. Đoạn 12 của Chỉ thị Thực hành 10/2024 (Practice Directive 10/2024) loại hoàn toàn bốn nhóm công ty khỏi việc miễn kiểm toán — một công ty không hoạt động, không có doanh thu trong bất kỳ nhóm nào trong số đó vẫn phải bổ nhiệm một kiểm toán viên.

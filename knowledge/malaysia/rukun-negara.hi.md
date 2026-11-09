@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["federal-constitution", "independence-1957", "formation-of-malaysia-1963", "parliament"]
 keywords: ["रुकुन नेगारा", "Rukun Negara", "रुकुन नेगारा के पाँच सिद्धांत", "रुकुन नेगारा शपथ", "Majlis Perundingan Negara", "MAGERAN", "Pengisytiharan Diraja 1970"]
+framework: history-culture
 ---
 
 मलेशिया के राष्ट्रीय अभिलेखागार में रखी रुकुन नेगारा (Rukun Negara) समिति फ़ाइल में 19 मार्च 1970 को दिनांकित एक पत्र है। यह सूचित करता है कि रुकुन नेगारा समिति की पहली बैठक 31 मार्च 1970 को, प्रातः 10.00 बजे, मलेशियाई कोषागार के संचालन कक्ष में होगी। परिचालन सूची में तेरह नाम आते हैं; चार अन्य को प्रतियाँ प्राप्त हुईं।

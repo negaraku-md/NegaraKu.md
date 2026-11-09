@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik", "borneo-indigenous-languages"]
 keywords: ["masakan Peranakan Nyonya", "masakan pantai timur Kelantan Terengganu", "masakan Sarawak Sabah", "masakan Mamak nasi kandar", "kari debal Kristang", "budaya sarapan Malaysia UNESCO"]
+framework: explainer
 ---
 
 マレーシア人10人に「マレーシア料理とは何か」と尋ねれば、10通りの異なる地図が返ってくるかもしれない。コタ・バルー出身の人は、青いナシ・クラブとブドゥから話し始めるだろう。クチン出身の人はサラワク・ラクサとコロ・ミーを挙げるだろう。マラッカ出身の人は、ニョニャのアヤム・ポンテーや[クリスタン](/arts-culture/kristang-eurasian-culture)のカリ・デバルについて語るかもしれない。そして別の誰かは、通りの角にあるマミの屋台をそのまま指さすだろう。彼らの誰も間違ってはいない。マレーシアには単一の国民料理は存在しない——異なる地域とコミュニティで育ち、その後何世紀もかけて互いに借用し合ってきた、台所の大家族が存在するのである。

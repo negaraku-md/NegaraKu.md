@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "transfer-pricing-documentation" }
 related: ["transfer-pricing-documentation", "global-minimum-tax-pillar-two", "permanent-establishment"]
 keywords: ["CbCR Malaisie", "déclaration pays par pays Malaisie", "seuil CbCR RM3 milliards", "fichier maître Malaisie prix de transfert", "P.U.(A) 357/2016"]
+framework: rules
 ---
 
 Le délai qui piège les groupes n'est pas le délai de dépôt. C'est la

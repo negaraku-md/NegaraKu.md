@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "sale-and-purchase-agreement-property" }
 related: []
 keywords: ["HDA", "Akta 118", "APDL", "licence de promoteur", "Tribunal des réclamations de l'acheteur de logement", "projets abandonnés", "SPNB", "KPKT", "protection de l'acheteur de logement"]
+framework: explainer
 ---
 
 Vous avez versé le dépôt, signé le Contrat de vente et vous attendez les clés — et soudain le chantier reste silencieux pendant des mois. Pour les acheteurs de logements résidentiels neufs en Malaisie péninsulaire, la loi offre en réalité plusieurs couches de protection avant, pendant et après qu'une telle situation survienne. L'essentiel est de savoir ce qui est protégé et vers qui se tourner lorsque quelque chose tourne mal.

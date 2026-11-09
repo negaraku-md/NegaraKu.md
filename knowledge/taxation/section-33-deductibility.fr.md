@@ -119,6 +119,7 @@ relations:
   - { rel: "related-to", to: "entertainment-expenses" }
 related: ["losses-and-group-relief", "form-c-and-cp204", "withholding-tax-non-compliance"]
 keywords: ["section 33 income tax act", "entièrement et exclusivement Malaisie", "dépenses professionnelles déductibles Malaisie", "dépenses déductibles Sdn Bhd", "déduction section 33(1)", "dépenses rejetées LHDN"]
+framework: explainer
 ---
 
 Chaque guide sur les déductions professionnelles malaisiennes publie une liste. Le loyer, oui. Les salaires, oui. Les frais de représentation, pour moitié. La liste convient jusqu'au jour où survient une dépense qui n'y figure pas — un paiement à un gouvernement d'État pour se libérer d'une obligation, une étude de faisabilité pour un projet qui n'a jamais vu le jour, l'impôt sur les services que la société a absorbé au lieu de le répercuter — et alors la liste ne vaut plus rien, parce que la liste n'a jamais été la loi.

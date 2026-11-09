@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "department-of-industrial-relations-malaysia" }
 related: ["trade-unions-malaysia", "employment-act-1955"]
 keywords: ["rundingan kolektif", "perjanjian kolektif", "pertikaian perusahaan", "hak rundingan tunggal", "pengiktirafan kesatuan", "mogok", "sekat masuk", "piket", "Akta Perhubungan Perusahaan 1967", "Mahkamah Perusahaan"]
+framework: rules
 ---
 
 Một người lao động muốn người sử dụng lao động của mình ngồi vào bàn để thương lượng lương không thể chỉ đơn giản yêu cầu — có một quy trình pháp lý phải trải qua, và mỗi bước có thời hạn riêng của nó. Quy trình đó nằm trong [Industrial Relations Act 1967](/law/industrial-relations-act-1967) (Act 177), được Cục Quan hệ Lao động Malaysia (JPPM) thực thi, và nó xác định ai có thể thương lượng, những gì có thể được thương lượng, và khi nào hành động lao động như đình công được phép.

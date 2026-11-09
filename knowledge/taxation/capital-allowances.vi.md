@@ -136,6 +136,7 @@ relations:
   - { rel: "related-to", to: "non-deductible-expenses" }
 related: ["losses-and-group-relief", "form-c-and-cp204", "basis-period-and-accounting-date"]
 keywords: ["capital allowance malaysia", "schedule 3 income tax act 1967", "initial allowance annual allowance", "balancing charge malaysia", "small value asset RM2000", "qualifying plant expenditure"]
+framework: explainer
 ---
 
 Dòng khấu hao trong sổ sách kế toán của bạn không có giá trị gì đối với LHDN. Đoạn 39(1)(e) của Luật Thuế thu nhập (Income Tax Act 1967) không cho phép bất kỳ chi phí nào là chi phí đủ điều kiện cho các mục đích của Schedule 3 — nên khoản khấu hao kế toán bị cộng lại toàn bộ, và Schedule 3 quyết định, theo các điều khoản riêng của nó, tài sản thực sự được hưởng bao nhiêu ưu đãi và khi nào.

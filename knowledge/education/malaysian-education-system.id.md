@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "public-universities-malaysia" }
 related: []
 keywords: ["Malaysian education system", "Ministry of Education Malaysia", "KPM", "SPM", "STPM", "matriculation Malaysia", "TVET Malaysia", "Malaysian Qualifications Framework"]
+framework: explainer
 ---
 
 Minta tiga rakyat Malaysia menguraikan "sistem pendidikan" dan Anda akan mendapat tiga peta yang berbeda. Seorang berbicara tentang SK dibandingkan SJKC. Seorang lagi berbicara tentang STPM dibandingkan matrikulasi. Seorang lagi menyebut sertifikat SKM yang tidak pernah didengar siapa pun di luar pelatihan teknikal. Ketiganya menguraikan sistem yang sama — hanya dari cabang yang berbeda.

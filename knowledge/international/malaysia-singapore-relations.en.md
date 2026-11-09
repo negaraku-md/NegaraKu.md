@@ -87,6 +87,7 @@ relations:
   - { rel: "compares-with", to: "malaysia-indonesia-relations" }
 related: []
 keywords: ["hubungan Malaysia Singapura", "perjanjian air 1962", "RTS Link", "Tambak Johor", "Pulau Batu Puteh", "JS-SEZ", "perpisahan 1965", "dagangan dua hala"]
+framework: explainer
 ---
 
 Two countries share a single causeway, a single water supply, hundreds of thousands of commuters crossing every day — and one emotionally charged history of separation. No Malaysian bilateral relationship is closer, more complicated, or more important to understand than the one with Singapore.

@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "registering-a-birth" }
 related: ["imigresen", "mykad", "registering-a-birth"]
 keywords: ["pasport Malaysia", "renew pasport online", "MyOnline Passport", "pembaharuan pasport antarabangsa", "gantian pasport hilang", "kaunter UTC pasport", "Jabatan Imigresen Malaysia pasport", "yuran pasport Malaysia", "pasport 10 tahun Malaysia"]
+framework: how-to
 ---
 
 Hộ chiếu của bạn hết hạn trong vòng một tháng, vé máy bay đã mua, và bạn không

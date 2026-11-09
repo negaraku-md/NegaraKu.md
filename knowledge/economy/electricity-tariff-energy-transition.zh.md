@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "renewable-energy-malaysia" }
 related: ["tenaga-nasional"]
 keywords: ["tarif elektrik", "RP4", "AFA", "NETR", "Suruhanjaya Tenaga", "TNB", "tenaga boleh diperbaharui", "peralihan tenaga", "subsidi elektrik"]
+framework: explainer
 ---
 
 你的电费单如今看起来不一样了——这并非印刷错误。自2025年7月1日起，流入马来西亚家庭和工厂的每一千瓦时电量，都按照一套更为细致的公式计算，这是电力行业一次重大改革的成果。这一变化不仅仅关乎电费单的成本问题，还与国家迈向可再生能源的方向息息相关。

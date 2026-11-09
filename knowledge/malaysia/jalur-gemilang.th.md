@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "negaraku-anthem" }
 related: ["formation-of-malaysia-1963", "independence-1957", "negaraku-anthem"]
 keywords: ["Jalur Gemilang", "bendera Malaysia", "14 jalur", "bintang pecah 14", "bulan sabit", "Mohamed bin Hamzah", "maksud warna bendera Malaysia"]
+framework: history-culture
 ---
 
 # ยาลูร์ เกอมีลัง: เหตุใดจึงมี 14 แถบสำหรับ 13 รัฐ

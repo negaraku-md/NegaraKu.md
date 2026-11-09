@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "estate-tamil-community", "tamil-vernacular-schools", "chinese-language-press", "languages-spoken"]
 keywords: ["மலேசியத் தமிழ்ப் பத்திரிகைகள்", "தமிழ் நாளிதழ்கள் மலேசியா", "மலேசிய நண்பன்", "மக்கள் ஓசை", "தமிழ் நேசன்", "மின்னல் FM", "Tamil-language press in Malaysia", "Tamil newspapers Malaysia"]
+framework: history-culture
 ---
 
 Un periódico tamil junto al café o el té de la mañana en la tienda de la esquina: para una generación de la comunidad tamil de Malasia, esa era una estampa familiar. Aquellas páginas no solo traían las noticias del día, sino también anuncios de festivales en los templos, novedades de las escuelas tamiles, felicitaciones de boda, esquelas y reseñas de películas tamiles: la vida cotidiana de toda una comunidad, impresa sobre el papel.

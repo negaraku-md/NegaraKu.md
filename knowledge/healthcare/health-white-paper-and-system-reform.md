@@ -73,6 +73,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
 related: []
 keywords: ["kertas putih kesihatan", "reformasi kesihatan", "pembiayaan kesihatan", "KKM", "insurans kesihatan nasional", "Rakan KKM"]
+framework: explainer
 ---
 
 Klinik kerajaan menampung hampir dua pertiga lawatan pesakit luar negara — tetapi hanya mewakili kira-kira satu daripada empat kemudahan penjagaan primer. Ketidakseimbangan inilah, antara lain, yang mendorong Kementerian Kesihatan Malaysia (KKM) menulis dokumen dasar paling penting dalam satu generasi: Kertas Putih Kesihatan.

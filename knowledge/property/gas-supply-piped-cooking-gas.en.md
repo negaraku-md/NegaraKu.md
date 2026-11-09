@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "electricity-supply-tnb" }
 related: []
 keywords: ["gas paip asli", "Gas Malaysia", "tong gas", "LPG", "gas domestik", "subsidi gas", "gas memasak", "harga tong gas 14kg"]
+framework: explainer
 ---
 
 Fire up the stove in your new home and you will quickly realise: most Malaysians cook with gas cylinders delivered to their door, not gas flowing through pipes. Piped natural gas does exist — but only in a small number of urban areas. This guide explains both options, their prices, the subsidy rules, and how to handle gas safely.

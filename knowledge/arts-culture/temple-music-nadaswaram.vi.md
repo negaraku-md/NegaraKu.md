@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["thaipusam", "hinduism-in-malaysia", "indian-classical-arts-in-malaysia", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community"]
 keywords: ["கோயில் இசை", "நாதஸ்வரம்", "தவில்", "மங்கள வாத்தியம்", "உறுமி மேளம்", "காவடி", "மலேசியா கோயில் இசை", "Nadaswaram", "Thavil", "Urumi Melam"]
+framework: history-culture
 ---
 
 Ở hàng đầu của một đoàn rước Thaipusam, vào khoảnh khắc một chiếc xe kiệu đền thờ bắt đầu lăn bánh, hay ngay cửa vào một sảnh cưới — trong bất kỳ dịp lễ Hindu Tamil nào ở Malaysia, điều đầu tiên hòa vào không khí luôn là một âm thanh nhất định: giai điệu dài của nadaswaram và tiếng rền của thavil. Âm thanh đó không phải ngẫu nhiên — nó là dấu ấn của truyền thống **mangala vadyam** (nhạc cụ cát tường) đã đồng hành cùng cộng đồng này suốt hơn một thế kỷ.

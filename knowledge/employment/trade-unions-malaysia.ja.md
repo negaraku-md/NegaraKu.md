@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "industrial-relations-act-malaysia" }
 related: []
 keywords: ["kesatuan sekerja", "trade union", "Akta Kesatuan Sekerja 1959", "Akta 262", "JHEKS", "e-TUIS", "pindaan 2024", "perundingan kolektif", "Ketua Pengarah Kesatuan Sekerja"]
+framework: explainer
 ---
 
 数十年にわたり、マレーシアの工場労働者はその職場にとって「正当な」労働組合にただ1つしか加入できなかった——そして、その労働組合が既に存在していれば、他の労働者集団が新たに労働組合を設立することはできなかった。2024年9月15日に施行された法改正は、この根本的な前提を変えた。

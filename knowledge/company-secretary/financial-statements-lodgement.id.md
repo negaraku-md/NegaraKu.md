@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "annual-return" }
 related: ["mbrs-2", "extension-of-time-ssm", "unaudited-financial-statements", "sdn-bhd-filing-calendar", "annual-return", "audit-exemption"]
 keywords: ["tarikh akhir penyata kewangan Malaysia", "seksyen 258 Akta Syarikat 2016", "seksyen 259 failkan penyata kewangan", "edar penyata kewangan ahli syarikat", "6 bulan akhir tahun kewangan SSM", "30 hari failkan penyata kewangan"]
+framework: rules
 ---
 
 Tanya seorang direktur Malaysia kapan akun perusahaannya perlu disampaikan ke SSM,

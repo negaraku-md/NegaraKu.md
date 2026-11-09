@@ -69,6 +69,7 @@ faq:
     a: Non. L'article indique explicitement qu'une réforme large du SST et de nouvelles mesures de facturation électronique étaient des prévisions pré-budgétaires d'analystes, et non des annonces du discours du 9 octobre 2026. Il faut les considérer comme des attentes, et non comme une politique, tant que le gouvernement ne dit pas le contraire. Les véritables changements fiscaux du budget portent sur la baisse d'un point de pourcentage des taux de l'impôt sur le revenu des résidents et des PME (SME) et sur le relèvement de l'abattement général de 9 000 RM à 12 000 RM.
   - q: À partir de quand l'ouverture d'un compte d'épargne ou courant est-elle exonérée du droit de timbre dans le cadre du Budget 2027 ?
     a: À partir du 1er janvier 2027, l'ouverture d'un compte d'épargne ou courant est totalement exonérée du droit de timbre. La même date porte aussi la réduction de la taxe sur les services pour les services de soins aux personnes âgées, de 8 % à 6 %, et le début des droits au travail du conjoint expatrié titulaire d'un pass de personne à charge. Ces dates sont celles annoncées le 9 octobre 2026 et ne prennent effet qu'une fois adoptés la loi habilitante et les arrêtés de publication officielle.
+framework: explainer
 ---
 
 Le 9 octobre 2026, le Premier ministre et ministre des Finances Anwar Ibrahim a

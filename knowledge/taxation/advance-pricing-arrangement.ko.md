@@ -113,6 +113,7 @@ relations:
   - { rel: "affects", to: "permanent-establishment" }
 related: ["transfer-pricing-documentation", "cbcr-and-master-file", "dta-network", "permanent-establishment"]
 keywords: ["advance pricing arrangement malaysia", "apa malaysia lhdn", "bilateral apa malaysia", "apa application fee malaysia", "pu a 166 2023", "apa rollback malaysia"]
+framework: how-to
 ---
 
 대부분의 자문가는 사전가격협정을 하나의 메뉴처럼 설명합니다 — 저렴하고 빠른 것을 원하면 일방적 협정, 조약 보호를 원하면 양자 협정이라는 식입니다. 그러나 말레이시아에는 메뉴가 없습니다. 소득세(사전가격협정) 규칙 2023(Income Tax (Advance Pricing Arrangement) Rules 2023), P.U.(A) 166/2023의 제2(2)규칙이 대신 결정하며, 단 하나의 사실에 따라 결정합니다. 즉, 귀사의 특수관계자가 소재한 국가가 소득세법 1967(Income Tax Act 1967) 제132조에 따른 협정을 말레이시아와 체결했는지 여부입니다.

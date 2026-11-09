@@ -74,6 +74,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["Aliyaa", "SriLankanFood", "BibGourmand", "MichelinGuideMalaysia", "KualaLumpur"]
+framework: profile
 ---
 
 Aliyaa என்பது கோலாலம்பூரின் Bukit Damansara-வில் அமைந்துள்ள ஓர் இலங்கை உணவகம்;

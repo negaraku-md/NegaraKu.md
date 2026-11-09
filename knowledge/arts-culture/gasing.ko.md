@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "wau" }
 related: ["wau", "kelantan", "terengganu"]
 keywords: ["gasing", "gasing uri", "gasing pangkah", "permainan tradisional Melayu", "warisan kebangsaan", "Kuala Nerus", "gasing Kelantan", "gasing Terengganu"]
+framework: history-culture
 ---
 
 먼저 소리가 다다릅니다 — 무거운 나무가 무거운 나무를 때리는 타격음, 뒤이어 터지는 함성. 트렝가누(Terengganu) 쿠알라느루스(Kuala Nerus) 인근의 한 마을 공터에서 두 무리가 마주 섭니다. 한 사람이 끈으로 자신의 가싱을 던지고, 또 다른 가싱은 이미 땅에서 돌며 기다리고 있습니다. 이기는 쪽은 가장 빠른 쪽이 아니라, 부딪힌 뒤에도 가싱이 여전히 돌고 있는 쪽입니다.

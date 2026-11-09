@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "motor-insurance" }
 related: ["klang-valley-rail", "e-hailing-grab", "touch-n-go", "driving-licence-malaysians", "driving-licence-foreigners", "road-tax-renewal", "motor-insurance"]
 keywords: ["getting around Malaysia", "Malaysia transport overview", "public transport Malaysia", "how to travel in Malaysia", "Klang Valley transport", "domestic flights Malaysia", "driving in Malaysia", "Malaysia without a car", "KTM ETS", "express bus Malaysia"]
+framework: journey-hub
 ---
 
 Kuala Lumpur-லும், சொல்லப்போனால் Ipoh-விலும் வாழ்ந்த ஒருவரிடம் அவர் எப்படி

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "local-government-in-malaysia" }
 related: []
 keywords: ["pentadbiran daerah", "pejabat daerah", "pegawai daerah", "mukim", "pentadbir tanah", "daerah pentadbiran", "Kanun Tanah Negara"]
+framework: explainer
 ---
 
 여러분이 투표하는 주(州)와 여러분이 사는 마을 사이에는, 좀처럼 언급되지 않지만 토지, 개발 사업 또는 긴급 지원을 처리할 때 가장 자주 마주치게 되는 정부 계층이 하나 있습니다: 바로 군(daerah)입니다. 이곳에서 주(州)의 정책이 실제 서비스로 전환되며, 그 중심에는 군청(Pejabat Daerah)이 있습니다.

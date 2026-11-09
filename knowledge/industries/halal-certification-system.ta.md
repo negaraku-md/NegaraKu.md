@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "trade-descriptions-act-2011" }
 related: ["jakim"]
 keywords: ["pensijilan halal Malaysia", "SPHM", "JAKIM halal", "MYeHALAL", "MS 1500", "logo halal Malaysia", "sijil halal", "e-Cert halal", "Manual Prosedur Pensijilan Halal Malaysia", "skim pensijilan halal"]
+framework: how-to
 ---
 
 நடுவில் அரபு எழுத்துகளுடன் கூடிய எட்டு-முனை நட்சத்திர வடிவ ஹலால் சின்னம், மலேசிய பேரங்காடி அலமாரிகளில் மிகவும் அடையாளம் காணக்கூடிய குறியீடுகளில் ஒன்று — அதை அங்கே வைப்பதற்கான உரிமை நாடு முழுவதும் ஒரே ஒரு தரப்புக்கு மட்டுமே உண்டு. அது தயாரிப்பு உற்பத்தியாளர் அல்ல, தனியார் ஆலோசகர் அல்ல, எந்தவொரு சர்வதேச சான்றளிப்பு அமைப்பும் அல்ல — மாறாக, JAKIM மற்றும் அதன் மாநில அளவிலான இணையர்கள் வழியாக அரசாங்கமே ஆகும்.

@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: ["bahasa-melayu", "melaka-sultanate", "article-3-religion"]
 keywords: ["जावी लिपि", "अरबी मलय वर्णमाला", "तेरेंगानु शिलालेख", "जावी लिपि का इतिहास", "ख़त कला", "जावी वर्तनी", "राष्ट्रीय भाषा अधिनियम की धारा 9", "Jawi", "Batu Bersurat Terengganu", "National Language Act"]
+framework: history-culture
 ---
 
 तेरेंगानु (Terengganu) में मिले एक शिलालेख पर, मलय शब्द उकेरे गए हैं — उन अक्षरों में नहीं जिन्हें हम आज इस्तेमाल करते हैं, बल्कि मलय ध्वनियों के लिए अनुकूलित एक अरबी लिपि में। यह शिलालेख, तेरेंगानु शिलालेख (Batu Bersurat Terengganu), 702 हिजरी की तिथि धारण करता है, जिसे आमतौर पर 1303 ईस्वी के बराबर माना जाता है।

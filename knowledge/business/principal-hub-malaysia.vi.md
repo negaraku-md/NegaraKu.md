@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "representative-regional-office-malaysia" }
 related: ["mida"]
 keywords: ["principal hub malaysia", "global services hub malaysia", "regional headquarters malaysia", "MIDA principal hub incentive", "GSH tax incentive malaysia", "headquarters incentive malaysia"]
+framework: explainer
 ---
 
 Các tập đoàn đa quốc gia không đặt trụ sở khu vực của họ ở bất cứ đâu — họ đi theo các ưu đãi. Trong nhiều năm, lời chào mời của Malaysia đối với các công ty đang quyết định nơi đặt hoạt động quản lý, tài chính và dịch vụ dùng chung của khu vực là ưu đãi **Principal Hub**. Chương trình đó đã đóng lại, và nhiều lời khuyên trên mạng vẫn chưa cập nhật. Nếu hôm nay bạn đang khảo sát Malaysia như một cơ sở vận hành, lộ trình thực sự tồn tại là **Global Services Hub**.

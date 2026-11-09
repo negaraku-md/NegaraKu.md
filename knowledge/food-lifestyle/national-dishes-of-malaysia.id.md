@@ -87,6 +87,7 @@ relations:
   - { rel: "explained-in", to: "national-heritage-act-2005" }
 related: ["teh-tarik"]
 keywords: ["nasi lemak", "roti canai", "char kuey teow", "laksa", "asam laksa", "hidangan kebangsaan Malaysia", "makanan warisan", "UNESCO warisan tidak ketara", "makanan Malaysia"]
+framework: explainer
 ---
 
 Minta sepuluh rakyat Malaysia menyebutkan "hidangan kebangsaan" negara, dan sembilan di antaranya akan menyebut nasi lemak sebelum Anda sempat menghabiskan pertanyaan. Namun jawaban sebenarnya lebih menarik: Malaysia tidak pernah menyatakan satu hidangan tunggal secara sah — sebaliknya negara ini memiliki segelintir sajian yang, secara kolektif, membawa identitasnya ke panggung dunia.

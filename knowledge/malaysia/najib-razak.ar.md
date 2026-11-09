@@ -70,6 +70,7 @@ sources:
 
 related: ["1mdb-scandal", "prime-ministers-of-malaysia", "2018-change-of-government", "mahathir-mohamad", "anwar-ibrahim"]
 keywords: ["نجيب رزاق", "Najib Razak", "Mohd Najib Abdul Razak", "رئيس وزراء ماليزيا السادس", "1MDB", "SRC International"]
+framework: profile
 ---
 
 > **مسودة — حساسة.** هذه المقالة ملخص محايد قيد الإعداد ولم تُراجَع للنشر.

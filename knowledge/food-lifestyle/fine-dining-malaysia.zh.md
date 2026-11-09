@@ -96,6 +96,7 @@ verificationNeeded:
   - "Dewakan 晋升两 Star 的确切年份——报道措辞不一，或说是2023年的典礼／2024年的指南版本；请对照 MICHELIN Guide 核实确切版本。"
   - "Au Jardin 使用约85%马来西亚物产这一数字出自单一媒体报道；请向餐厅核实。"
   - "个别餐厅（如 Au Jardin、Gen、Terra Dining、Akar）的主厨姓名、开业年份与场所细节，在被引用前应对照各餐厅自有的渠道重新核实，因为这些会随时间改变。"
+framework: profile
 ---
 
 马来西亚几代人以来都吃得精彩——但大多是在小贩摊、咖啡店和家中的餐桌，而非铺着

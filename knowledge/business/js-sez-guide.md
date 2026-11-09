@@ -101,6 +101,7 @@ keywords:
   - "JS-SEZ flagship zones"
   - "MIDA JS-SEZ application"
   - "zon ekonomi khas Johor Singapura"
+framework: rules
 ---
 
 Every summary of the Johor-Singapore Special Economic Zone leads with the same number: 5 per cent

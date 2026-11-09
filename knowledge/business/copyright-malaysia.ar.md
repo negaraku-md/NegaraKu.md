@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["ip-ownership-malaysia", "industrial-design-malaysia", "patent-malaysia"]
 keywords: ["حق المؤلف ماليزيا", "تسجيل حق المؤلف ماليزيا", "الإخطار الطوعي بحق المؤلف", "قانون حق المؤلف 1987", "نموذج cr-1 myipo", "copyright malaysia", "copyright act 1987", "cr-1 form myipo"]
+framework: explainer
 ---
 
 لا شيء يُسجَّل. فحق المؤلف في ماليزيا لا يمنحه مكتب؛ بل يوجد لحظة تجسيد عمل أصيل في شكل

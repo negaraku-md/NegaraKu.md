@@ -93,6 +93,7 @@ verificationNeeded:
   - "L'étymologie du nom (薄餅 / « poh piah »), glosé en « galette fine », « gaufrette fine » ou « pain plat fin » : à vérifier auprès d'une source lexicographique ou linguistique."
   - "Si le popiah nyonya (peranakan) se décrit mieux comme une tradition régionale distincte ou comme le même plat hokkien adopté par les familles chinoises des Détroits : les sources actuelles le qualifient d'« héritage peranakan » sans trancher la question."
   - "Les distinctions stylistiques entre Penang et Melaka décrites ici (un rouleau de Penang plus humide, humidifié par le jus du sengkuang ; un rouleau de Melaka fini par une sauce sucrée teintée de sucre de palme) reposent largement sur la presse locale et les blogs culinaires : à vérifier auprès d'une source culinaire patrimoniale ou régionale."
+framework: explainer
 ---
 
 Demandez un rouleau de printemps en Malaisie et vous pourriez recevoir l'une de deux choses très

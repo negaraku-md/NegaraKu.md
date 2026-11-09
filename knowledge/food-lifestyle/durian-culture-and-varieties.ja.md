@@ -93,6 +93,7 @@ keywords:
   - "varieti durian"
   - "musim durian"
   - "eksport durian China"
+framework: explainer
 ---
 
 マレーシアでは、ドリアンは単なる果物ではありません — それは果物の王と呼ばれ、

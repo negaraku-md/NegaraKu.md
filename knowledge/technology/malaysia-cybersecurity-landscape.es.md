@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "pdpa-2010" }
 related: ["pdpa-2010"]
 keywords: ["Malaysia cybersecurity", "ciberseguridad Malasia", "Cyber Security Act 2024", "Ley de Seguridad Cibernética 2024", "Act 854", "NACSA", "National Critical Information Infrastructure", "infraestructura nacional de información crítica", "Global Cybersecurity Index", "Malaysia Cyber Security Strategy"]
+framework: explainer
 ---
 
 Durante una década, Malasia pidió a su infraestructura crítica que se tomara la

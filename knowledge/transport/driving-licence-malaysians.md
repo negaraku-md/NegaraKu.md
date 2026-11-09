@@ -72,6 +72,7 @@ keywords:
   - "CDL lesen memandu kompeten"
   - "ujian JPJ KPP"
   - "sistem KEJARA mata demerit"
+framework: explainer
 ---
 
 Kebanyakan orang menganggap "lesen memandu" sebagai satu dokumen tunggal. Ia

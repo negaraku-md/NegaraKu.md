@@ -118,6 +118,7 @@ relations:
   - { rel: "related-to", to: "visiting-sabah-and-sarawak" }
 related: []
 keywords: ["getting around Malaysia", "KLIA Ekspres", "KTM ETS train", "domestic flights Malaysia", "AirBorneo", "Grab Malaysia", "Malaysia ferry", "driving in Malaysia", "Touch n Go"]
+framework: explainer
 ---
 
 நள்ளிரவில், நீண்ட விமானப் பயணக் களைப்புடன் நீங்கள் Kuala Lumpur International Airport-இல் இறங்குகிறீர்கள், டாக்சி தரகர்கள் ஏற்கனவே சுற்றி வருகிறார்கள். நல்ல செய்தி: தென்கிழக்கு ஆசியாவின் மிகவும் சுற்றுலாப் பயணிகளுக்கு உகந்த போக்குவரத்து அமைப்புகளில் ஒன்று மலேசியாவில் உள்ளது, மேலும் இந்த சிரமத்தை நீங்கள் முழுவதுமாகத் தவிர்க்கலாம் — வேகமான, நிலையான விலை கொண்ட விமான நிலைய ரயில், ஒரு மீட்டர் கார் அழைக்கும் ஒரு தொலைபேசி செயலி, மேலும் Borneo-வை ஒரு வார இறுதி பயணமாக மாற்றும் மலிவான உள்நாட்டு விமானங்கள். எந்த முறையை எப்போது நாட வேண்டும் என்பதை அறிவதுதான் தந்திரம்.

@@ -87,6 +87,7 @@ relations:
   - { rel: "explained-in", to: "national-heritage-act-2005" }
 related: ["teh-tarik"]
 keywords: ["nasi lemak", "roti canai", "char kuey teow", "laksa", "asam laksa", "hidangan kebangsaan Malaysia", "makanan warisan", "UNESCO warisan tidak ketara", "makanan Malaysia"]
+framework: explainer
 ---
 
 பத்து மலேசியர்களிடம் நாட்டின் “தேசிய உணவை” பெயரிடச் சொல்லுங்கள், உங்கள் கேள்வியை முடிக்கும் முன்பே அவர்களில் ஒன்பது பேர் நசி லெமாக் என்று சொல்வார்கள். ஆனால் உண்மையான பதில் இன்னும் சுவாரஸ்யமானது: மலேசியா ஒருபோதும் ஒரே ஒரு உணவை சட்டப்பூர்வமாக அறிவித்ததில்லை — மாறாக, கூட்டாக நாட்டின் அடையாளத்தை உலக அரங்கிற்குக் கொண்டு செல்லும் ஒரு சில உணவுகள் இந்த நாட்டிற்கு உள்ளன.

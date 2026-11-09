@@ -106,6 +106,7 @@ keywords:
   - "DBP Sah Bahasa"
   - "Bahasa Malaysia signboard rule"
   - "signboard licence fee DBKL"
+framework: rules
 ---
 
 Kebanyakan panduan memberitahu anda bahawa Kuala Lumpur ialah bandar tempat [Dewan Bahasa

@@ -79,6 +79,7 @@ sources:
 
 related: ["2018-change-of-government", "barisan-nasional", "prime-ministers-of-malaysia"]
 keywords: ["1MDB", "一个马来西亚发展有限公司", "纳吉·拉萨", "刘特佐", "马来西亚金融丑闻"]
+framework: history-culture
 ---
 
 **一个马来西亚发展有限公司（1MDB）**是一只马来西亚政府拥有的投资基金，于 2009

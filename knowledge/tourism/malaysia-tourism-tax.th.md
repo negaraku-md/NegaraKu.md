@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "malaysia-sales-and-service-tax" }
 related: ["sales-and-service-tax"]
 keywords: ["tourism tax", "TTx", "Malaysia", "MyTTx", "RM10 per room", "DPSP", "hotel tax", "RMCD"]
+framework: rules
 ---
 
 เช็กอินเข้าโรงแรมเกือบทุกแห่งในกัวลาลัมเปอร์ด้วยหนังสือเดินทางต่างชาติ แล้วรายการที่น่าสนใจจะปรากฏบนใบเสร็จ RM10 ตายตัว สำหรับทุกคืนที่คุณพัก นั่นคือภาษีการท่องเที่ยว (TTx) ของมาเลเซีย ค่าธรรมเนียมเล็ก ๆ ในอัตราคงที่ที่ทำงานแตกต่างอย่างมากจากภาษีโรงแรมแบบเปอร์เซ็นต์ที่นักท่องเที่ยวพบในที่อื่น ๆ

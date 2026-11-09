@@ -128,6 +128,7 @@ relations:
   - { rel: "compares-with", to: "capital-gains-tax" }
 related: ["income-tax-in-malaysia", "company-tax-residence", "capital-gains-tax", "labuan-tax-regime", "corporate-tax-rates"]
 keywords: ["foreign source income Malaysia", "FSI exemption Malaysia", "foreign dividend exemption Malaysia", "P.U.(A) 235/2022", "economic substance Malaysia FSI", "remittance tax Malaysia"]
+framework: rules
 ---
 
 Read the expiry date off the Gazette, not off a blog. As at 14 August 2026 the

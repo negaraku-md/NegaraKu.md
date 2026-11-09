@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "malaysia-sales-and-service-tax" }
 related: ["sales-and-service-tax"]
 keywords: ["tourism tax", "TTx", "Malaysia", "MyTTx", "RM10 per room", "DPSP", "hotel tax", "RMCD"]
+framework: rules
 ---
 
 외국 여권을 소지하고 쿠알라룸푸르(Kuala Lumpur)의 거의 모든 호텔에 체크인하면 청구서에 흥미로운 항목이 하나 나타납니다. 투숙한 매 박마다 정액 RM10입니다. 이것이 말레이시아의 관광세(TTx)로, 여행자가 다른 나라에서 접하는 비율 기반 호텔세와는 상당히 다르게 작동하는 작고 고정된 부과금입니다.

@@ -100,6 +100,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["industrial-design-malaysia", "ip-ownership-malaysia", "trademark-registration-malaysia"]
 keywords: ["patent malaysia", "utility innovation malaysia", "myipo patent fee", "patents act 1983", "utility innovation vs patent"]
+framework: decision
 ---
 
 특허에 관해 문의하는 대다수 말레이시아 중소기업은 특허 가능한 발명을 가지고 있지 않습니다.

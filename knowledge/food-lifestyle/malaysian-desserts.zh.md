@@ -96,6 +96,7 @@ verificationNeeded:
   - "bubur cha cha 的土生华人（Peranakan／Nyonya）归属及其名称的含义——在美食媒体中常被反复提及，但记载甚少；应向土生华人的饮食或遗产来源加以确认。"
   - "此处的特定甜品（例如 cendol、pulut hitam）是否拥有正式的马来西亚国家遗产食品认定及其日期——应向国家文物局（Jabatan Warisan Negara）而非美食媒体确认。"
   - "食材与制作的具体细节（例如 cendol 凉粉所用的确切淀粉、tau fu fah 是用石膏还是葡萄糖酸内酯凝固）因食谱和地区而异；应把此处的描述视为典型而非定论。"
+framework: explainer
 ---
 
 马来西亚的咸味食物获得了大部分关注，但这个国家拥有深厚而独特的甜食谱系——而且其中许多是冷的、盛在碗里、用勺子吃的。本指南涵盖用勺子吃的与加冰的甜品：刨冰小山、温热的椰浆甜汤、柔软的布丁，以及少数几样受欢迎的油炸甜点。至于一口大小、用手拿着吃的蒸制与烘焙糕点——*onde-onde*、*kuih lapis*、*seri muka* 等等——请参阅另一份 [kuih-muih](/zh/food-lifestyle/kuih-muih) 指南；这两个世界共享风味，但形态不同。

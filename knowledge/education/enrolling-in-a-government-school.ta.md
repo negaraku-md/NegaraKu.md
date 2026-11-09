@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "sistem-pendidikan-malaysia" }
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["pendaftaran tahun 1", "idme moe gov my", "umur masuk sekolah rendah", "eDaftar Menengah APDM", "BPPS tingkatan 1", "sekolah kerajaan Malaysia", "akta pendidikan 1996", "penangguhan tahun 1"]
+framework: how-to
 ---
 
 பல பெற்றோர்கள், முன்பு ஆண்டு 1 (Tahun 1) இற்குப் பதிவு செய்ததுபோல் தங்கள் குழந்தையைப் படிவம் 1 (Tingkatan 1) இற்கு "பதிவு செய்ய" முடியாது என்பதை அறியும்போது வியப்படைகிறார்கள். நிரப்புவதற்கு இணைய படிவம் எதுவும் இல்லை, உள்நுழைவதற்கு இணையவாயிலும் இல்லை. காரணம் எளிது: இந்த இரண்டு அரசுப் பள்ளிப் படிநிலைகளும் முற்றிலும் வேறுபட்ட இரண்டு அமைப்புகளைப் பயன்படுத்துகின்றன; இந்த இரண்டையும் குழப்பிக்கொள்வதுதான், "என் குழந்தையின் பதிவே கிடைக்கவில்லையே" என்று பெற்றோர் தலைகுனிந்து யோசிப்பதற்கான மிகவும் பொதுவான காரணம்.

@@ -73,6 +73,7 @@ social:
     - StartABusiness
     - DoingBusinessInMalaysia
     - JKM
+framework: how-to
 ---
 
 开办托儿所看起来像是一门充满关爱、门槛很低的生意——一间屋子、几张婴儿床、几双温暖的手。在马来西亚，从法律上看它完全不是这么一回事。当您为收取报酬而接收来自不同家庭的四名或以上幼童的那一刻起，您就是在经营一家 **TASKA**（taman asuhan kanak-kanak，托儿所），而 TASKA 在向政府注册之前不得开办。跳过这一步，您就不是一名小企业主；您是在犯罪。

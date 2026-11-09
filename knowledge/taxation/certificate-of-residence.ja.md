@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "dta-network" }
 related: ["company-tax-residence", "dta-network", "withholding-tax-rates"]
 keywords: ["certificate of residence Malaysia", "e-Residence LHDN", "sijil taraf mastautin", "COR Malaysia tax", "Form STM1"]
+framework: how-to
 ---
 
 この証明書は、あなたがマレーシア人であることの証拠ではない。特定の協定相手国が、あなたを特定の租税条約（DTA）の適用対象として認めなければならないことの証拠である。LHDNは自らのページでそう述べている——この証明書は、租税条約（DTA）に基づく特典を申請し、同一の所得に対する二重課税を避けるために発行されるものであり、したがって**その目的のためだけに**、かつマレーシアの条約相手国に対してのみ発行される。この一文が、却下の大半を説明している。

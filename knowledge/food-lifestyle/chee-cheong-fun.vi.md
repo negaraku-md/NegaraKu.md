@@ -91,6 +91,7 @@ verificationNeeded:
   - "Khẳng định rằng chee cheong fun được những người nhập cư Quảng Đông thế kỷ 19 mang tới Malaya —— truyền thông ẩm thực lặp lại điều này nhưng không đưa ra ngày tháng chắc chắn hay hồ sơ gốc. Cần kiểm chứng với một nguồn về lịch sử di cư hoặc lịch sử ẩm thực."
   - "Sự phân chia theo vùng giữa phiên bản 'khô' (xốt đỏ ngọt) và 'ướt' (nước sốt cà ri hoặc nấm) của Ipoh, và liệu nước sốt nấm có phải là dấu ấn riêng của Ipoh hay dùng chung với Kuala Lumpur. Cần kiểm chứng với một nguồn Perak hoặc địa phương."
   - "Liệu cách kết hợp yong-tau-foo ở Kuala Lumpur có dùng xốt đậu ngọt làm mặc định hay không, so với cà ri hoặc xì dầu —— các nguồn mô tả nhiều loại xốt và thực hành địa phương khác nhau tùy quán."
+framework: explainer
 ---
 
 Gọi "chee cheong fun" ở George Town và bạn sẽ nhận được những cuộn bánh phở mát

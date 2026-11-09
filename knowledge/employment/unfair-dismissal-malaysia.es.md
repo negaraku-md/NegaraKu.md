@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "domestic-inquiry-malaysia" }
 related: ["labour-law-map-malaysia", "termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
 keywords: ["despido improcedente malasia", "artículo 20 ley de relaciones laborales", "60 días presentación despido", "tribunal laboral malasia", "tope salarios atrasados 24 meses", "compensación en lugar de reincorporación", "unfair dismissal malaysia", "section 20 industrial relations act"]
+framework: how-to
 ---
 
 Sesenta días. Ese es todo el juego, y es donde mueren la mayoría de las reclamaciones malasias por despido improcedente — no por el fondo, sino porque el empleado pasó siete semanas negociando con RR. HH., otras dos esperando una respuesta que nunca llegó, y presentó el día sesenta y tres.

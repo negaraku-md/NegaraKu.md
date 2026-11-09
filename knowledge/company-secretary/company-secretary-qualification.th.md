@@ -110,6 +110,7 @@ relations:
   - { rel: "explained-in", to: "practising-certificate" }
 related: ["appoint-company-secretary", "maicsa", "changing-company-secretary", "secretary-resignation"]
 keywords: ["who can be a company secretary Malaysia", "company secretary qualification Malaysia", "section 235 Companies Act 2016", "practising certificate secretary SSM", "section 241 practising certificate", "MAICSA MIA company secretary", "CSID SSM"]
+framework: rules
 ---
 
 ถามคนส่วนใหญ่ว่าต้องมีอะไรจึงจะเป็นเลขานุการบริษัทในมาเลเซีย แล้วคุณจะได้คำตอบสั้น ๆ ว่า "MAICSA, MIA หรือได้รับใบอนุญาตจาก SSM" คำตอบนั้นไม่ผิด แต่ขาดขั้นตอนที่ตัดสินจริง ๆ ว่าบุคคลที่นั่งอยู่ตรงข้ามคุณจะลงนามในมติของคุณได้โดยชอบด้วยกฎหมายหรือไม่ การมีคุณสมบัติภายใต้มาตรา 235 กับการ *มีสิทธิทำหน้าที่* ภายใต้มาตรา 241 เป็นคนละเรื่อง และเลขานุการอาจเป็นไปตามข้อแรกในขณะที่ไม่ผ่านข้อที่สอง

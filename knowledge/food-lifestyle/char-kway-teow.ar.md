@@ -97,6 +97,7 @@ social:
     - "#PenangFood"
     - "#MalaysianFood"
     - "#StreetFood"
+framework: explainer
 ---
 
 قليلة هي الأطباق التي تختصر طعام الشارع الماليزي باكتمال char kway teow: خصلة من

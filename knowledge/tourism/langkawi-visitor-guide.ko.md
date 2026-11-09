@@ -103,6 +103,7 @@ relations:
   - { rel: "administered-by", to: "lembaga-pembangunan-langkawi" }
 related: ["kedah"]
 keywords: ["Langkawi", "duty-free island", "UNESCO Global Geopark", "SkyCab", "SkyBridge", "island hopping", "Kilim", "Dayang Bunting", "Andaman Sea", "Kedah"]
+framework: profile
 ---
 
 99개의 섬, 물고기보다 오래된 암석, 저렴한 위스키, 그리고 5억 5천만 년 이상으로 추정되는 암석으로 이루어진 산 옆구리에 매달린 케이블카 — 랑카위는 말레이시아 북서쪽 끝 앞바다의 한 군도에 이례적으로 많은 것을 담고 있습니다. 이곳은 이 나라의 대표적인 서해안 휴양 섬으로, 반도 반대편의 야자수로 둘러싸인 다이빙 섬들과는 거의 정반대의 논리로 움직입니다. 이 가이드는 출발 전에 실제로 중요한 것을 다룹니다. 사람들이 걸려드는 면세 규정, 풍경에 배경 이야기를 주는 유네스코 지질공원, 스카이캡과 스카이브리지, 가볼 만한 보트 투어, 그리고 랑카위와 동해안 사이에서 결정하는 법입니다.

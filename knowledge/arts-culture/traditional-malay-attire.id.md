@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "hari-raya-aidilfitri" }
 related: ["songket", "batik", "hari-raya-aidilfitri"]
 keywords: ["baju Melayu", "baju kurung", "kebaya", "samping", "songkok", "cekak musang", "Teluk Belanga", "pakaian tradisional Melayu"]
+framework: history-culture
 ---
 
 Perhatikan seorang laki-laki bersiap untuk hari raya atau resepsi pernikahan. Baju longgar sudah dipakai, celana sudah masuk — tetapi ia belum selesai. Yang tersisa adalah dua hal yang menentukan apakah ia terlihat berpakaian lengkap atau setengah jalan: sehelai kain samping yang dililitkan di pinggang, dan sebuah songkok di kepala. Tanpa dua hal itu, baju Melayu belum benar-benar baju Melayu.

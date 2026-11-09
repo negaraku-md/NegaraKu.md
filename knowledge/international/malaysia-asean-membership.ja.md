@@ -128,6 +128,7 @@ relations:
   - { rel: "related-to", to: "rcep-malaysia" }
 related: []
 keywords: ["ASEAN", "Malaysia ASEAN", "Deklarasi Bangkok", "Piagam ASEAN", "Komuniti ASEAN", "pengerusi ASEAN 2025", "Tun Abdul Razak", "Timor-Leste ASEAN"]
+framework: explainer
 ---
 
 1967年8月8日、5人の男たちがバンコクの外務省本館の大広間に集まり、2ページの文書に

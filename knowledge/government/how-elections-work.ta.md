@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["three-tiers-of-government", "dewan-rakyat", "parliament", "federal-constitution", "yang-di-pertuan-agong", "majlis-raja-raja"]
 keywords: ["pilihan raya Malaysia", "first-past-the-post", "bahagian pilihan raya", "Suruhanjaya Pilihan Raya", "SPR", "Dewan Rakyat", "Dewan Undangan Negeri", "Perkara 113", "Perkara 119", "kelayakan pengundi", "how Malaysian elections work"]
+framework: explainer
 ---
 
 ## ஒரு பார்வையில்

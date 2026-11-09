@@ -81,6 +81,7 @@ relations:
   - { rel: "requires", to: "special-resolution" }
 related: ["companies-act-2016", "company-limited-by-guarantee-malaysia"]
 keywords: ["perlembagaan syarikat", "company constitution", "resolusi khas", "seksyen 32", "seksyen 36", "entrenchment", "Akta Syarikat 2016", "SSM"]
+framework: how-to
 ---
 
 บริษัท Sdn Bhd สามารถดำเนินงานได้หลายปีโดยไม่มีเอกสารที่ชื่อว่า "ข้อบังคับ" แม้แต่ฉบับเดียว — และนั่นชอบด้วยกฎหมายมาเลเซียโดยสมบูรณ์ Companies Act 2016 ทำให้ข้อบังคับเป็นทางเลือกสำหรับบริษัทส่วนใหญ่ ซึ่งเป็นการเปลี่ยนแปลงครั้งใหญ่จากยุคที่หนังสือบริคณห์สนธิและข้อบังคับ (M&A) เป็นสิ่งบังคับ คำถามไม่ใช่ "อะไรต้องมีในข้อบังคับของเรา" อีกต่อไป แต่เป็น "เราต้องการข้อบังคับหรือไม่ และถ้าใช่ เราจะรับมาใช้ แก้ไข หรือล็อกมันอย่างไร"

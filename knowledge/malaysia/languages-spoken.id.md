@@ -86,6 +86,7 @@ relations:
 related: ["federal-constitution", "bahasa-melayu", "population-composition", "formation-of-malaysia-1963", "independence-1957", "ma63"]
 keywords: ["languages of Malaysia", "Bahasa Melayu", "national language Malaysia", "Article 152 Federal Constitution", "Chinese dialects Malaysia", "Tamil Malaysia", "Orang Asli languages", "Kadazan-Dusun", "Iban language", "vernacular schools Malaysia", "SJKC SJKT"]
 sponsor: "none"
+framework: explainer
 ---
 
 Pemerintah negara bagian Sabah merumuskan populasi negara bagiannya sendiri seperti ini: 33 kelompok pribumi, berkomunikasi dalam lebih dari 50 bahasa dan sekitar 80 dialek. Itu baru satu negara bagian, dari tiga belas, ditambah tiga wilayah persekutuan. Perbesar ke seluruh negara dan gambarannya menjadi lebih berlapis lagi — namun Konstitusi Federal menamakan tepat satu bahasa nasional.

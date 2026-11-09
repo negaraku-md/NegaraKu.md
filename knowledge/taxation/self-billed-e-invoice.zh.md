@@ -86,6 +86,7 @@ relations:
   - { rel: "requires", to: "e-invoice-data-fields" }
 related: ["e-invoicing", "myinvois-phases", "consolidated-e-invoice", "e-invoice-data-fields", "e-invoice-vs-tax-invoice"]
 keywords: ["self-billed e-Invoice", "self billed invoice Malaysia", "foreign supplier e-Invoice", "general TIN EI00000000030", "e-invois belian sendiri", "agent commission e-Invoice"]
+framework: rules
 ---
 
 最可能被电子发票绊倒的公司，不是那家销售账簿很厚的公司。是那家在买东西的公司——

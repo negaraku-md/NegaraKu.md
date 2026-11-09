@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "mfrs-vs-mpers" }
 related: ["financial-statement-pack", "financial-year-end", "mfrs-vs-mpers", "mbrs-2-filing-guide"]
 keywords: ["NSRF Malaysia", "IFRS S1 S2 Malaysia", "pelaporan kemampanan Malaysia", "syarikat besar tidak tersenarai RM2 bilion", "jaminan Skop 1 Skop 2 Malaysia", "ACSR", "garis masa pelaporan kemampanan"]
+framework: rules
 ---
 
 Pelaporan kemampanan tiba di Malaysia sebagai topik komunikasi dan kini

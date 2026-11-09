@@ -86,6 +86,7 @@ faq:
     a: Tidak. Rancangan Malaysia dibentangkan dan diluluskan sebagai usul dasar untuk perbahasan Parlimen, bukan sebagai rang undang-undang. Belanjawan pula mesti melalui Rang Undang-Undang Perbekalan yang perlu menempuh proses perundangan penuh sebelum diwartakan sebagai Akta Perbekalan. RMK13 umpamanya dibentangkan sebagai usul di Dewan Rakyat pada 31 Julai 2025 dan di Dewan Negara pada 25 Ogos 2025.
   - q: Adakah keseluruhan RM611 bilion RMK13 datang daripada wang Kerajaan?
     a: Tidak. Daripada sekurang-kurangnya RM611 bilion pelaburan RMK13, hanya RM430 bilion merupakan peruntukan pembangunan Kerajaan. Selebihnya datang daripada RM120 bilion pelaburan langsung domestik oleh Syarikat Berkaitan Kerajaan (GLC) dan Syarikat Pelaburan Berkaitan Kerajaan (GLIC), serta RM61 bilion melalui kaedah perkongsian awam-swasta (PPP).
+framework: explainer
 ---
 
 Pada 31 Julai 2025, Perdana Menteri membentangkan di Dewan Rakyat satu usul

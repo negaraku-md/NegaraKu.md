@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
 related: []
 keywords: ["الأمن الغذائي", "food security Malaysia", "مستوى الاكتفاء الذاتي", "SSL", "SSR", "السياسة الوطنية للأغذية الزراعية", "Dasar Agromakanan Negara", "DAN 2.0", "الأرز", "beras"]
+framework: explainer
 ---
 
 بحسب التعداد الزراعي لعام 2024، فإن من كل كيلوغرام أرز يُستهلك في ماليزيا نحو 400 غرام أرز مستورد. ويلخّص هذا الرقم تحدّي الأمن الغذائي في البلاد: أمّةٌ زراعية لا تزال تستورد حصة كبيرة من غذائها الأساسي.

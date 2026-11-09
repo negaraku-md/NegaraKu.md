@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-education-in-malaysia", "chinese-dialects", "chinese-new-villages", "population-composition"]
 keywords: ["华人会馆", "宗亲会", "会馆", "公司", "地缘性", "血缘性", "业缘性", "福建会馆", "客家公会", "邱公司", "龙山堂", "华总", "中华总商会", "姓氏桥", "新客", "义山", "Chinese clan associations Malaysia", "huiguan", "kongsi"]
+framework: history-culture
 ---
 
 ペナン・ジョージタウンのコーンウォリス要塞あたりに足を踏み入れると、連なる店屋（ショップハウス）の間に、反りあがった軒と精緻な彫刻・彩色を施した宗祠が突如として現れます——龍山堂邱公司です。さらに海辺へ向かうと、木杭に支えられて水面へ張り出した木造家屋の村落が並び、それぞれ一つの姓を冠しています——姓周橋、姓林橋、姓陳橋。これらの建物は廟でもなければ、ただの住居でもなく、華人移民社会で最も古い組織形態の一つが残した実体——会館と宗親会です。

@@ -92,6 +92,7 @@ keywords:
   - "Contracts Act 1950 Malaysia"
   - "section 28 Contracts Act non-compete"
   - "liquidated damages Malaysia section 75"
+framework: explainer
 ---
 
 توقّع شركة ماليزية اتفاق توزيع صيغ في لندن. يتضمن شرط عدم منافسة لمدة اثني عشر شهرًا بعد

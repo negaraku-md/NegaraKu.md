@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "public-universities-malaysia" }
 related: []
 keywords: ["نظام التعليم الماليزي", "Malaysian education system", "وزارة التعليم الماليزية", "KPM", "SPM", "STPM", "التهيئة الماليزية", "matriculation Malaysia", "TVET Malaysia", "الإطار الوطني للمؤهلات الماليزية"]
+framework: explainer
 ---
 
 اطلب من ثلاثة ماليزيين وصف «نظام التعليم» وستحصل على ثلاث خرائط مختلفة. يتحدث أحدهم عن SK مقابل SJKC. ويتحدث آخر عن STPM مقابل التهيئة. ويذكر ثالث شهادة SKM لم يسمع بها أحد خارج التدريب التقني. الثلاثة يصفون النظام نفسه — لكن من فروع مختلفة منه.

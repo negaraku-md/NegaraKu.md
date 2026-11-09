@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "financial-statement-pack" }
 related: ["accounting-standards-index", "financial-statement-pack", "financial-reporting-deadlines"]
 keywords: ["functional currency", "presentation currency", "MFRS 121", "IAS 21", "foreign currency translation", "MYR reporting", "MBRS", "foreign exchange"]
+framework: explainer
 ---
 
 Sebuah perusahaan Malaysia yang didirikan di Kuala Lumpur masih dapat menyimpan bukunya dalam dolar AS — dan melakukannya dengan sepenuhnya tepat. Ini mengejutkan mereka yang menganggap suatu entitas Malaysia melapor dalam Ringgit karena ia perusahaan Malaysia. Berdasarkan MFRS 121, mata uang yang Anda gunakan untuk mengukur adalah persoalan fakta ekonomi, bukan geografi, sedangkan mata uang yang Anda gunakan untuk menyajikan adalah persoalan terpisah dengan jawabannya tersendiri.

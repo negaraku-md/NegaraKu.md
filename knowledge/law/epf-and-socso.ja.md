@@ -108,6 +108,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["EPF", "KWSP", "SOCSO", "PERKESO", "SIP", "EIS", "caruman", "Akta KWSP 1991", "Akta Keselamatan Sosial Pekerja 1969", "persaraan", "insurans pekerjaan"]
+framework: rules
 ---
 
 給与明細を開くと、最初の1セントが銀行口座に入る前に、三つの控除項目が現れる——EPF、SOCSO、SIPである。この三つは任意ではない——それぞれ別個の三つの国会制定法によって強制されており、納付を怠った雇用主は禁錮刑に処される可能性がある。これがマレーシアの被用者のための社会的セーフティネットであり、控除される1リンギットごとに異なる保障が買われている。

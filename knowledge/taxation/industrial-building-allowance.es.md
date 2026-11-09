@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["capital-allowances", "losses-and-group-relief"]
 keywords: ["industrial building allowance malaysia", "IBA schedule 3", "paragraph 63 schedule 3", "qualifying building expenditure", "factory tax allowance malaysia", "IBA rate 10% 3%"]
+framework: explainer
 ---
 
 Una empresa compra una fábrica por RM1.2 millones y reclama la deducción por edificios industriales sobre RM1.2 millones. Dos años después, la auditoría ajusta la reclamación a algo más de RM500,000, vuelve a sumar el exceso de cada año desde entonces, e impone una sanción. Nada del edificio cambió. La empresa simplemente reclamó sobre una cifra que la ley nunca le permitió usar.

@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "retrenchment-malaysia" }
 related: ["termination-of-employment-malaysia", "retrenchment-malaysia", "offboarding-statutory-checklist"]
 keywords: ["termination benefits malaysia", "retrenchment benefit calculation", "TBLB regulations 1980", "severance pay malaysia", "lay off benefits malaysia", "10 15 20 days wages"]
+framework: rules
 ---
 
 இரண்டு முதலாளிகள் ஒரே ஊழியரை ஒரே நாளில் பணிநீக்கம் செய்கிறார்கள். ஒருவர் ஒரு மாத சம்பளத்தைச் செலுத்தி அதைத் தாராளம் என்கிறார். மற்றவர் ஒன்பது ஆண்டுகள் ஒவ்வொன்றுக்கும் 20 நாட்கள் ஊதியத்தை — ஏறக்குறைய ஆறு மாத ஊதியத்தை — செலுத்துகிறார், ஏனெனில் சட்டம் கோருவது அதுவே. வித்தியாசம் என்னவென்றால், இரண்டாமவர் Employment (Termination and Lay-Off Benefits) Regulations 1980-ஐப் படித்திருந்தார்.

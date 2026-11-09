@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "appoint-company-secretary" }
 related: ["statutory-registers", "register-of-members", "minute-books-and-records", "appoint-company-secretary"]
 keywords: ["registered office Malaysia", "section 46 Companies Act 2016", "change registered office SSM 14 days", "alamat berdaftar syarikat", "registered office public access", "section 47 documents registered office"]
+framework: rules
 ---
 
 马来西亚每一家公司秘书事务所都在卖注册办事处服务。它们的网页中，很少有哪一个提到

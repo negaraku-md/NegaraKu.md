@@ -91,6 +91,7 @@ relations:
   - { rel: "explained-in", to: "rpgt-exemptions" }
 related: ["rpgt-exemptions", "capital-gains-tax", "capital-or-revenue", "lhdn"]
 keywords: ["kadar RPGT Malaysia", "cukai keuntungan harta tanah", "pengiraan RPGT", "RPGT tahun ke-6", "Jadual 5 RPGTA", "CKHT"]
+framework: data-reference
 ---
 
 Hampir setiap panduan RPGT yang beredar mencetak satu tangga kadar sahaja: 30,

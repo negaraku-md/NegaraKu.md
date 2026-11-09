@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["independence-1957", "federal-constitution", "sarawak"]
 keywords: ["formación de Malasia 1963", "Comisión Cobbold", "Konfrontasi", "separación de Singapur 1965", "fusión de Sabah y Sarawak"]
+framework: history-culture
 ---
 
 Cuatro territorios se convirtieron en un solo país el 16 de septiembre de 1963, y antes de dos años uno de ellos ya se había marchado. Ese solo hecho te dice que la fusión de 1963 no fue un pulcro ejercicio administrativo — fue un proyecto político cuestionado, al que se opusieron dos gobiernos vecinos y que se desmadejó por tensiones internas casi en cuanto triunfó.

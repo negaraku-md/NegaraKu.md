@@ -112,6 +112,7 @@ relations:
   - { rel: "compares-with", to: "stamp-duty-self-assessment" }
 related: ["tax-audit", "tax-penalties", "tax-clearance", "stamp-duty-self-assessment", "rpgt-rates"]
 keywords: ["मलेशिया कर अपील", "Form Q LHDN", "borang Q rayuan", "आय-कर के विशेष आयुक्त", "Pesuruhjaya Khas Cukai Pendapatan", "section 99 Income Tax Act", "Form N समय-विस्तार", "Prosiding Resolusi Pertikaian", "tax appeal Malaysia"]
+framework: how-to
 ---
 
 जो एकमात्र तथ्य अधिकांश मलेशियाई कर-अपीलों को तय करता है वह अपील-उपबंधों में है ही

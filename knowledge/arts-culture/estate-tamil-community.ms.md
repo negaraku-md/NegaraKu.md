@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "tamil-vernacular-schools", "mariamman-worship", "hinduism-in-malaysia", "population-composition"]
 keywords: ["தோட்டத் தமிழர் சமூகம்", "மலேசிய இந்தியர் தோட்ட வரலாறு", "கங்காணி முறை", "ரப்பர்த் தோட்டம்", "தோட்டத் தொழிலாளர்", "மலேசிய இந்தியர்கள்", "estate Tamil community", "Malaysian Indians"]
+framework: history-culture
 ---
 
 Di pinggir banyak bandar lama Malaysia, sebuah ladang getah yang dahulunya terbentang hijau kini telah menjadi kawasan kediaman yang dipenuhi rumah dan deretan kedai. Di tengah-tengah bangunan baharu itu, kadangkala masih tegak sebuah kuil Amman lama atau sebuah sekolah Tamil kecil — tanda yang tidak pudar bagi sebuah komuniti yang telah berpindah.

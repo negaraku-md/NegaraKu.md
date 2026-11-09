@@ -71,6 +71,7 @@ relations:
   - { rel: "administered-by", to: "malaysian-institute-of-accountants" }
 related: ["malaysian-institute-of-accountants"]
 keywords: ["materiality", "audit sampling", "ISA 320", "ISA 530", "ISA 450", "performance materiality", "tolerable misstatement", "statutory audit Malaysia"]
+framework: explainer
 ---
 
 ஒரு தொகுப்பு கணக்குகளில் கையெழுத்திடும் தணிக்கையாளர், அவற்றுக்குப் பின்னால் உள்ள ஒவ்வொரு பரிவர்த்தனையையும் கிட்டத்தட்ட ஒருபோதும் பார்த்திருப்பதில்லை — அதுவே வேலை செய்வதற்கான சரியான வழி என்று தரநிலைகள் கூறுகின்றன.

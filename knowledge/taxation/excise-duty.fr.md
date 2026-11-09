@@ -118,6 +118,7 @@ relations:
   - { rel: "related-to", to: "import-duty" }
 related: ["sales-and-service-tax"]
 keywords: ["duti eksais", "droit d'accise", "Akta Eksais 1976", "cukai kereta", "duti eksais rokok", "cukai gula", "minuman bergula", "JKDM", "kastam"]
+framework: explainer
 ---
 
 Achetez une voiture en Malaisie et vous pourriez finir par payer une taxe qui égale presque le prix de la voiture elle-même. Le principal coupable est une taxe dont on parle rarement mais extrêmement puissante : le **droit d'accise**.

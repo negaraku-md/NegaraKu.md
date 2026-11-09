@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "registering-a-birth" }
 related: ["imigresen", "mykad", "registering-a-birth"]
 keywords: ["passeport Malaisie", "renouveler passeport en ligne", "MyOnline Passport", "renouvellement passeport international", "remplacement passeport perdu", "guichet UTC passeport", "Département de l'immigration de Malaisie passeport", "frais passeport Malaisie", "passeport 10 ans Malaisie"]
+framework: how-to
 ---
 
 Votre passeport expire dans un mois, le billet d'avion est déjà réservé et vous ne savez pas si vous devrez prendre un congé au travail pour faire la queue à l'Immigration. Pour la plupart des Malaisiens, la réponse est : ce n'est pas nécessaire. Mais pour certains cas — perdu, endommagé ou une première demande — cette voie en ligne commode est en fait entièrement fermée.

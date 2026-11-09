@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "form-c-and-cp204" }
 related: ["statutory-audit-process", "audit-preparation-checklist", "form-c-and-cp204", "corporate-tax-rates", "company-tax-calendar"]
 keywords: ["audit adjustments tax Malaysia", "CP204 revision months", "section 107C(10) penalty", "under estimation of tax penalty Malaysia", "Form C audited accounts", "audited profit tax computation"]
+framework: explainer
 ---
 
 ไม่มีใครในการประชุมสรุปผลกำลังคิดเรื่องภาษี การหารืออยู่ที่การตั้งค่าเผื่อสินค้าคงเหลือ ข้อผิดพลาดการตัดยอด และคำถามว่าการเคลื่อนไหวในบัญชีของกรรมการเป็นรายได้หรือไม่ จากนั้นรายการปรับปรุงถูกบันทึก กำไรที่ตรวจสอบแล้วเปลี่ยนไป และตัวเลขที่ไม่มีใครในห้องเป็นเจ้าของก็เปลี่ยนตามไปด้วย

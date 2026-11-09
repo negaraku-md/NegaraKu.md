@@ -63,6 +63,7 @@ relations:
   - { rel: "part-of", to: "settling-in" }
 related: ["moving-to-malaysia-first-steps", "dependant-social-visit-passes"]
 keywords: ["bringing pets to Malaysia", "MAQIS import permit", "DVS pet import rules", "dog cat quarantine Malaysia", "restricted dog breeds Malaysia", "ISO microchip pet import"]
+framework: how-to
 ---
 
 机票订好了，箱子也打包好了，这时你突然想到：狗怎么办。在马来西亚，宠物不能只是搭上货舱那么简单——它需要一张在离地之前就已获批的许可证、一枚符合特定 ISO 标准的芯片，而且很可能还得先在检疫所待上一周甚至更久，你才能把它接回来。

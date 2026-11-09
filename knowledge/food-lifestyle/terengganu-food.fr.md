@@ -96,6 +96,7 @@ verificationNeeded:
   - "La formule exacte du riz du nasi dagang de Terengganu (riz blanc seul ou mélange de riz ordinaire et de riz gluant ou jasmin) — les médias gastronomiques et les sources touristiques la décrivent diversement. À confirmer auprès d'une source culinaire locale."
   - "Le récit d'origine répandu selon lequel le keropok lekor aurait été créé par les pêcheurs de la côte est pour conserver le surplus de poisson pendant la saison de la mousson — largement repris dans les médias gastronomiques, mais mal documenté sur le plan historique. À confirmer auprès d'une source d'histoire de l'alimentation ou du patrimoine."
   - "La généralisation selon laquelle le palais de Terengganu « penche vers le sucré » (y compris le fait de sucrer le gulai ikan tongkol au sucre de palme) — il s'agit d'une caractérisation courante plutôt que d'une affirmation mesurée. À confirmer auprès d'une référence culinaire régionale."
+framework: explainer
 ---
 
 Demandez à n'importe quel Malaisien où manger les meilleurs nasi dagang et keropok

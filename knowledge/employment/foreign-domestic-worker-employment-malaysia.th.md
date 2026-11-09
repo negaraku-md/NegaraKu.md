@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "foreign-worker-levy-malaysia" }
 related: ["employment-act-1955", "foreign-worker-levy-malaysia", "minimum-wage-malaysia"]
 keywords: ["pembantu rumah asing", "foreign domestic helper", "FDH Malaysia", "maid Malaysia", "MoU Indonesia pembantu rumah", "bon keselamatan pekerja asing", "pengecualian KWSP pembantu rumah"]
+framework: rules
 ---
 
 ผู้ช่วยงานบ้านต่างชาติเข้าสู่มาเลเซียผ่านประตูที่แตกต่างโดยสิ้นเชิงจากคนงานโรงงานหรือสวน — ไม่ใช่ผ่านโควตาภาคส่วน ไม่ใช่ผ่านศูนย์บริการเบ็ดเสร็จของแรงงานต่างชาติ และไม่ใช่ภายใต้การคุ้มครองเต็มรูปแบบของกฎหมายแรงงาน ระบบนี้เป็นของตัวเอง และนายจ้างที่คิดว่ากระบวนการเหมือนกับการจ้างคนงานทั่วไปมักคิดพลาด

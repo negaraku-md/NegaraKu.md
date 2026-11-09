@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "form-c-and-cp204" }
 related: ["statutory-audit-process", "audit-preparation-checklist", "form-c-and-cp204", "corporate-tax-rates", "company-tax-calendar"]
 keywords: ["audit adjustments tax Malaysia", "CP204 revision months", "section 107C(10) penalty", "under estimation of tax penalty Malaysia", "Form C audited accounts", "audited profit tax computation"]
+framework: explainer
 ---
 
 समापन-बैठक में कोई भी कर के बारे में नहीं सोच रहा होता। चर्चा किसी स्टॉक-प्रावधान, किसी कट-ऑफ त्रुटि, और इस बात पर होती है कि निदेशक के खाते की हलचल आय है या नहीं। फिर समायोजन दर्ज होते हैं, ऑडिटेड लाभ बदलता है, और उसके साथ एक ऐसी संख्या बदलती है जिसका कमरे में किसी का स्वामित्व नहीं।

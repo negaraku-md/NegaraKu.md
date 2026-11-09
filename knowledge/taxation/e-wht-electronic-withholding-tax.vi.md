@@ -85,6 +85,7 @@ social:
     - MyTax
     - DoingBusinessInMalaysia
     - MalaysiaCompliance
+framework: how-to
 ---
 
 Trong nhiều năm, việc trả thuế khấu trừ tại nguồn có nghĩa là một mẫu CP37 giấy, một tấm séc hoặc phiếu ngân hàng, và một chuyến đi đến một quầy của LHDN — hoặc một email các tài liệu được quét — và rồi một sự chờ đợi để xem khoản thanh toán được đối chiếu với tài khoản của bạn. Toàn bộ nghi thức đó đã chuyển lên trực tuyến. **e-WHT** là kênh điện tử của LHDN để hoàn thành các mẫu thuế khấu trừ tại nguồn và trả thuế bên trong cổng **MyTax**, và đối với các mẫu mà nó bao gồm, nó nay là con đường bắt buộc, không phải một sự tiện lợi tùy chọn.

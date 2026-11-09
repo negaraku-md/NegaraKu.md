@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "parliament", "dewan-rakyat", "dewan-negara", "yang-di-pertuan-agong"]
 keywords: ["Jemaah Menteri", "Kabinet Malaysia", "Perdana Menteri Malaysia", "Perkara 43 Perlembagaan Persekutuan", "kepercayaan majoriti Dewan Rakyat", "tanggungjawab bersama", "Yang di-Pertuan Agong", "Perkara 40(2)"]
+framework: explainer
 ---
 
 말레이시아의 어떤 유권자도 "총리"라고 쓰인 투표용지에 표시하지 않습니다. 총선의 투표용지는 하나의 하원(Dewan Rakyat) 선거구 후보만을 명기합니다.

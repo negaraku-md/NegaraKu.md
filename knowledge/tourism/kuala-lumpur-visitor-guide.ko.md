@@ -97,6 +97,7 @@ relations:
   - { rel: "located-in", to: "malaysia" }
 related: []
 keywords: ["kuala lumpur", "petronas twin towers", "kl tower", "batu caves", "bukit bintang", "chinatown kuala lumpur", "klia ekspres", "kuala lumpur transport", "malaysia digital arrival card", "kl travel guide"]
+framework: profile
 ---
 
 새벽에 쿠알라룸푸르 국제공항에 내리면, 한 시간 안에 한때 세계의 스카이라인을 지배했던 두 개의 은빛 타워 아래에 설 수 있습니다 — 렌터카도, 복잡한 계획도 없이, 그저 기차와 태그 카드 하나로. 그 수월함이 바로 KL의 핵심입니다. 말레이시아의 정문이자, 대표 명소들이 짧은 철도 이동 거리에 자리한 아담하고 저렴한 수도이며, 이 나라의 거의 모든 후속 여정이 시작되는 곳입니다.

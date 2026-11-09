@@ -92,6 +92,7 @@ verificationNeeded:
   - "podi thosai（撒上或抹上 idli/dosa 香料粉的 thosai）在马来西亚菜单上究竟有多普遍——这一种类在南印度和新加坡食肆已很成熟，但马来西亚方面的记载较少；应向本地来源求证。"
   - "这道菜的官方或标准马来文拼法——「tosai」「thosai」和「tose」都在流通，而国家语文局（Dewan Bahasa dan Pustaka）所建议的形式曾公开受到争议；应向权威的 DBP 参考资料求证。"
   - "椰浆是否出现在任何常见的马来西亚 thosai 面糊中——大多数食谱只用大米、urad dal、水和盐；应向可靠的烹饪来源查证标准的本地食谱。"
+framework: explainer
 ---
 
 在破晓时分走进一家 mamak 摊档，或在午餐时走进一家香蕉叶餐厅，铁板上的某处，一张薄薄的

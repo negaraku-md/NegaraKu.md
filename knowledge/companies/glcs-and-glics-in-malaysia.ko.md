@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["ekonomi-madani-framework", "khazanah", "bursa-malaysia"]
 keywords: ["GLC", "GLIC", "Khazanah", "KWSP", "PNB", "KWAP", "LTAT", "Tabung Haji", "GEAR-uP", "PERKUKUH", "Program Transformasi GLC", "Bursa Malaysia"]
+framework: explainer
 ---
 
 Bursa Malaysia의 어느 인덱스 펀드 포트폴리오든 열어 보면, 그 안에는 거의 틀림없이 연방정부의 손길이 있습니다. 국가 최대의 은행, 유틸리티 회사, 통신사, 항공사, 플랜테이션 대기업 — 이 모두가 하나의 동일한 궁극적 소유자를 공유합니다. 바로 소수의 국가 투자기관을 통한 말레이시아 국민입니다. 이 구조야말로 말레이시아를 동남아시아에서 가장 국가의 영향이 큰 경제 중 하나로 만들며, 그것은 자주 혼동되는 두 약어, GLC와 GLIC로 요약됩니다.

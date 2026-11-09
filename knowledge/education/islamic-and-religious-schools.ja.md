@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "national-education-system" }
 related: ["jakim"]
 keywords: ["SABK", "sekolah agama", "tahfiz", "KAFA", "JAKIM", "pendidikan Islam", "sekolah agama rakyat", "jabatan agama negeri"]
+framework: explainer
 ---
 
 マレーシアの子どもは、午前を国民学校で過ごし、午後をモスクのKAFA授業で過ごし、そして思春期をタヒフィズの寮で過ごすことがある――監督者、カリキュラム、適用法がそれぞれ異なる三つの教育環境である。イスラム宗教教育の各類型は国民教育制度と並行して運営されているが、それは単一の枠組みではない。誰が何を登録し、誰が何に責任を負うのかを理解することが、この話題をめぐる公共の議論を公正に読み解く鍵となる。

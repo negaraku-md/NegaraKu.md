@@ -101,6 +101,7 @@ verificationNeeded:
   - "Cadangan yang dilaporkan pada 2025 untuk mendapatkan pengiktirafan UNESCO bagi tradisi rumah terbuka Malaysia — sahkan status semasa dan sama ada sebarang pencalonan telah dibuat."
   - "Laporan bahawa, sebagai langkah penjimatan kos, kementerian persekutuan, agensi dan syarikat berkaitan kerajaan tidak akan mengadakan rumah terbuka Hari Raya rasmi pada 2026 — ini datang daripada satu media sahaja; sahkan terhadap kenyataan rasmi kerajaan sebelum bergantung padanya."
   - "Tarikh cuti umum tepat bagi Kaamatan (lazimnya 30-31 Mei di Sabah) dan Gawai Dayak (lazimnya 1-2 Jun di Sarawak), serta atribusi hidangan tertentu merentasi banyak sub-kumpulan Dayak dan Kadazan-Dusun; sahkan dengan sumber negeri atau badan kebudayaan Sabah/Sarawak."
+framework: history-culture
 ---
 
 Di banyak negara, sesuatu perayaan menjadi milik orang yang menyambutnya. Di

@@ -118,6 +118,7 @@ keywords:
   - "lesen perniagaan online"
   - "e-commerce regulations Malaysia 2024"
   - "online seller legal requirements Malaysia"
+framework: rules
 ---
 
 There is no such thing as an e-commerce licence in Malaysia. No statute creates one, no

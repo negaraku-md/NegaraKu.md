@@ -84,6 +84,7 @@ relations:
   - { rel: "compares-with", to: "permanent-establishment" }
 related: ["corporate-tax-rates", "income-tax-act-1967", "lhdn", "sdn-bhd"]
 keywords: ["company tax residence Malaysia", "management and control", "section 8 Income Tax Act", "taraf mastautin syarikat", "resident company Malaysia"]
+framework: explainer
 ---
 
 세 이사가 모두 싱가포르에 살고, 화상통화로 회의하며, 회람으로 결의에 서명하는 말레이시아 유한책임회사(Sdn Bhd)는 말레이시아 세무 거주자가 전혀 아닐 수 있습니다. 그렇지 않다면, 말레이시아 소득에 대해 여전히 완전히 과세되면서도 15%와 17% 중소기업 세율, 그룹 감면, 조약 보호, 투자촉진법 1986(Promotion of Investments Act 1986)에 따른 모든 인센티브를 잃습니다.

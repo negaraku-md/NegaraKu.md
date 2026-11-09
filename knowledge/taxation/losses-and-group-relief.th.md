@@ -85,6 +85,7 @@ relations:
   - { rel: "affects", to: "capital-allowances" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "company-tax-residence", "income-tax-act-1967", "dormant-company-audit-exemption"]
 keywords: ["business loss carry forward Malaysia", "section 44A group relief", "unabsorbed capital allowances", "10 year loss limit", "substantial change in shareholding"]
+framework: explainer
 ---
 
 บริษัทสองแห่งในกลุ่มเดียวกัน ทั้งคู่ขาดทุน ทั้งคู่มีกรรมการที่สันนิษฐานว่าผลขาดทุนจะยังอยู่เมื่อกำไรมาถึง แห่งหนึ่งจะยัง

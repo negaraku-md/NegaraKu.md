@@ -92,6 +92,7 @@ relations:
   - { rel: "explained-in", to: "corporate-tax-rates" }
 related: ["personal-tax-rates", "corporate-tax-rates", "personal-tax-reliefs", "pcb-monthly-tax-deduction"]
 keywords: ["income tax Malaysia", "cukai pendapatan Malaysia", "LHDN income tax", "182 day rule Malaysia", "self assessment system Malaysia", "chargeable income", "Malaysia tax residency", "year of assessment"]
+framework: explainer
 ---
 
 Most people meet Malaysia's income tax as a single line on a payslip — "PCB" — and a once-a-year scramble in April. Behind that line sits one of the most consequential systems in the country, and almost everything written about it starts in the wrong place: a rate table.

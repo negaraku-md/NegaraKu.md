@@ -100,6 +100,7 @@ keywords:
   - "NTAX NCER fermé"
   - "incitations Kulim Hi-Tech Park"
   - "koridor utara NCER"
+framework: explainer
 ---
 
 Demandez ce que le Corridor Nord offre à un investisseur et on vous tendra une liste d'exonérations fiscales.

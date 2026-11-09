@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "energy-commission-malaysia" }
 related: ["petronas"]
 keywords: ["natural gas Malaysia", "LNG Malaysia", "Bintulu LNG", "Peninsular Gas Utilisation", "PGU pipeline", "regasification terminal", "Third Party Access", "Malaysia Reference Price"]
+framework: explainer
 ---
 
 Setiap kali sebuah pembangkit listrik di Selangor mulai beroperasi atau sebuah pabrik sarung tangan di Pulau Pinang memanaskan tungku, gas itu kemungkinan besar memulai perjalanannya beratus-ratus kilometer jauhnya, di lepas pantai Terengganu atau melintasi Laut China Selatan di Sarawak. Malaysia sekaligus merupakan pengekspor gas berat serta, semakin lama, pengimpor gas, dan pipa serta terminal yang mendamaikan kedua kenyataan ini adalah salah satu aset energi paling bernilai di negara ini.

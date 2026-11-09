@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["non-deductible-expenses", "section-33-deductibility"]
 keywords: ["perbelanjaan hiburan cukai malaysia", "39(1)(l) hiburan", "potongan hiburan 50%", "public ruling 4/2015", "potongan cukai hadiah promosi malaysia"]
+framework: rules
 ---
 
 Hampir setiap penghitungan pajak di Malaysia memotong separuh baris jamuan dan langsung berlalu. Itu salah dalam kedua arah. Sebagian dari apa yang dipotong separuh seharusnya dipotong sepenuhnya (tidak diizinkan sama sekali), dan banyak lagi yang seharusnya tidak dipotong separuh sama sekali.

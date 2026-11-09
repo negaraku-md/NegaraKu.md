@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["independence-1957", "formation-of-malaysia-1963", "melaka-sultanate"]
 keywords: ["pendudukan Jepun", "Tanah Melayu 1941-1945", "duit pisang", "Kota Bharu 1941", "pentadbiran tentera Jepun", "Perang Dunia Kedua Malaysia"]
+framework: history-culture
 ---
 
 Tám tuần. Đó là khoảng cách giữa cuộc đổ bộ đầu tiên của quân Nhật lên bờ biển Kelantan và ngày toàn bộ Tanah Melayu nằm trong tay Nhật — một vùng đất đã được người Anh cai trị, dưới nhiều hình thức, trong hơn một thế kỷ rưỡi.

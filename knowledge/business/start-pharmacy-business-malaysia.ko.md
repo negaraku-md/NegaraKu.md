@@ -83,6 +83,7 @@ social:
     - CommunityPharmacy
     - DoingBusinessInMalaysia
     - PoisonsAct
+framework: how-to
 ---
 
 말레이시아에서 약국을 개설하는 것은 평범한 점포를 여는 것과 다르며, 그 이유는 법의

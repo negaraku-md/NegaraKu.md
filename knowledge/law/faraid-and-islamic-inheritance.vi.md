@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "syariah-courts-malaysia" }
 related: []
 keywords: ["faraid", "harta pusaka", "pusaka islam", "waris", "mahkamah syariah", "baitulmal", "akta pembahagian 1958", "pusaka kecil"]
+framework: explainer
 ---
 
 Khi một người Hồi giáo qua đời tại Malaysia, tài sản của họ không nhất thiết thuộc về người thừa kế gần gũi nhất hay cần nhất — nó được phân chia theo các tỷ lệ cố định đã được Luật Hồi giáo (Syarak) quy định. Chính hệ thống này được gọi là **faraid**, và nó trở thành phương thức mặc định cho di sản của người Hồi giáo trừ khi tất cả người thừa kế đồng ý một phương thức khác.

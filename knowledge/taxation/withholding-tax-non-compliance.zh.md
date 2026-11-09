@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-digital-services", "cp37-forms"]
 keywords: ["failure to withhold tax Malaysia", "section 39(1)(j)", "withholding tax penalty Malaysia", "10 percent increase withholding tax", "section 113(2) penalty"]
+framework: explainer
 ---
 
 漏扣 RM5,000 的预扣税，代价不是 RM5,000。它是 RM5,500 的税、RM12,000 的扣除损失，

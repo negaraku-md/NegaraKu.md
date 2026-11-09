@@ -122,6 +122,7 @@ relations:
   - { rel: "related-to", to: "company-tax-calendar" }
 related: ["corporate-tax-rates", "sdn-bhd-filing-calendar", "lhdn", "income-tax-act-1967"]
 keywords: ["CP204", "CP204A", "Formulario C Malasia", "Form C Malaysia", "sanción por subestimación", "underestimation penalty", "sección 107C", "section 107C", "estimación impuesto sociedades", "anggaran cukai syarikat"]
+framework: how-to
 ---
 
 La parte cara del impuesto de sociedades malasio no es la tasa. Es la conjetura que

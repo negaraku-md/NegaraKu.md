@@ -57,6 +57,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "maternity-leave-malaysia", "employment-act-coverage"]
 keywords: ["paternity leave malaysia", "section 60fa employment act", "7 days paternity leave", "paternity leave eligibility malaysia", "paternity leave five confinements"]
+framework: rules
 ---
 
 부성휴가는 2023년 1월 1일 짧은 단일 조문으로 고용법(Employment Act 1955)에

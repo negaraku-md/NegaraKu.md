@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#Leens", "#BibGourmand", "#MichelinGuide", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 في محلٍّ بأحد صفوف الدكاكين في Taman Tun Dr Ismail، تفضح رائحةُ الخبز الطازج أمرَ

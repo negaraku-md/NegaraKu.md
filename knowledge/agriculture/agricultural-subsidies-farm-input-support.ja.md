@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
 related: []
 keywords: ["subsidi baja padi", "SBPKP", "SIPP", "insentif pengeluaran padi", "subsidi pertanian", "bantuan input pesawah"]
+framework: explainer
 ---
 
 その朝、稲作農家が水田へと肩に担いでいった一袋の肥料は、自分のお金で買ったものではなかった——それは無償で届けられ、何十年にもわたって連邦政府が負担してきたものだった。これこそがマレーシアの水稲向け農業補助金の実像である。小切手でも口座に振り込まれる現金でもなく、農場でのコストの大部分をまかなう肥料、農薬、そして奨励金なのだ。

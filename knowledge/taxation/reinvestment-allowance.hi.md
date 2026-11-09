@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "double-deduction-list" }
 related: ["double-deduction-list", "corporate-tax-rates", "losses-and-group-relief"]
 keywords: ["पुनर्निवेश भत्ता मलेशिया", "Schedule 7A पात्र परियोजना", "reinvestment allowance Malaysia", "Schedule 7A qualifying project", "RA 60% capital expenditure", "RA दावा ऑडिट में अस्वीकृत", "पुनर्निवेश भत्ता 15 वर्ष"]
+framework: rules
 ---
 
 पुनर्निवेश भत्ता अग्रिम रूप से अस्वीकृत होने की तुलना में ऑडिट पर कहीं अधिक बार विफल

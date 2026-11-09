@@ -62,6 +62,7 @@ relations:
   - { rel: "explained-in", to: "registering-a-birth" }
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "registering-a-birth"]
 keywords: ["الإنجاب في ماليزيا", "الحمل في ماليزيا", "الرعاية السابقة للولادة في ماليزيا", "الكتاب الوردي", "Rekod Kesihatan Ibu", "Pink Book", "Klinik Kesihatan", "الولادة الحكومية مقابل الخاصة", "تسجيل المواليد JPN", "الأمومة في ماليزيا", "having a baby in Malaysia", "antenatal care Malaysia"]
+framework: explainer
 ---
 
 يُشغِّل اختبار الحمل الإيجابي ساعتَين في آنٍ واحد، ولا يكاد أحد يوضّح ذلك منذ البداية. الساعة الأولى تخصّ الحمل نفسه — متى تسجّلين، وأين، وماذا يحدث في كل زيارة. أما الثانية فلا تبدأ إلا بعد وصول المولود، ولا علاقة لها بالمستشفيات: إنها تسجيل قانوني لدى إدارة مختلفة تمامًا.

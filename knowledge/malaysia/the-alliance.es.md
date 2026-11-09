@@ -78,6 +78,7 @@ keywords:
   - "conferencia constitucional de Londres 1956"
   - "memorando de la Alianza Comisión Reid"
   - "Tunku Abdul Rahman"
+framework: profile
 ---
 
 Cuando Gran Bretaña se sentó a decidir si Malaya estaba lista para gobernarse a sí misma, una de las cosas que dijo querer ver era la prueba de que las distintas comunidades del territorio podían hacer funcionar un gobierno juntas. La Alianza fue el vehículo que acudió a la mesa afirmando mostrar exactamente eso: tres partidos, cada uno organizado en torno a una comunidad, presentándose a las elecciones como un solo bloque y pidiendo, conjuntamente, la independencia.

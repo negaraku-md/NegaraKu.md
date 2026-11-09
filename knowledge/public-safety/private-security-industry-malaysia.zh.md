@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "royal-malaysia-police" }
 related: []
 keywords: ["agensi keselamatan swasta", "lesen agensi persendirian", "polis bantuan", "Akta Agensi Persendirian 1971", "pengawal keselamatan Malaysia", "KDN eSIMS", "kawasan berpagar"]
+framework: profile
 ---
 
 在马来西亚大多数封闭式住宅区、工厂和购物中心里，你遇到的第一个人并不是警察——而是一名私人保安员。这个行业与公共执法紧密协作，但运作所依据的法律框架却完全不同，而对于“谁能做什么”的误解，可能给聘用他们的企业带来法律风险。

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["pahang"]
 keywords: ["Cameron Highlands", "Tanah Rata", "Brinchang", "Ringlet", "BOH tea", "strawberry farm", "Orang Asli", "Semai", "hill station", "Pahang"]
+framework: profile
 ---
 
 Step off the bus at Tanah Rata and the first thing you notice is your own breath — the air is cool enough that a jumper stops feeling ridiculous, even at the equator. That is the whole point of Cameron Highlands: a slab of temperate hill country stacked above tropical Malaysia, where tea grows in neat green corduroy over the ridges and strawberries ripen in roadside polytunnels.

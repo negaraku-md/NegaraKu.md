@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "fixed-deposit-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["PIDM", "deposit insurance", "RM250000", "takaful protection", "TIPS", "Perbadanan Insurans Deposit Malaysia", "Malaysia Deposit Insurance Corporation Act 2011", "insurance benefits protection"]
+framework: explainer
 ---
 
 Si un banco malasio colapsara mañana, el dinero de su cuenta de ahorros no se esfumaría con él. Hasta RM250,000 de ese dinero está respaldado por un esquema de protección gestionado por el Gobierno llamado PIDM — y usted nunca se dio de alta en él, nunca pagó por él, y muy posiblemente nunca reparó en él.

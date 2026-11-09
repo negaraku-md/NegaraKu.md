@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "hs-code-classification-malaysia" }
 related: ["sales-and-service-tax"]
 keywords: ["import licence Malaysia", "export permit Malaysia", "Approved Permit AP", "SIRIM import permit", "MAQIS permit", "customs registration Malaysia", "ePermit", "uCustoms", "MyTRADELINK"]
+framework: rules
 ---
 
 Kontainer Anda terdampar di Pelabuhan Klang dan tidak akan bergerak — karena di suatu tempat antara faktur dan manifes, satu permit hilang. Di Malaysia tidak ada satu "izin impor-ekspor" tunggal yang dapat Anda bingkai di dinding. Yang melepaskan barang adalah satu *susunan* pendaftaran dan persetujuan, masing-masing dimiliki oleh instansi berbeda, dan masing-masing terikat pada apa yang sebenarnya Anda kirim.

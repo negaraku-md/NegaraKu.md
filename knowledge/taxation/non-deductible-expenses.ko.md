@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "entertainment-expenses" }
 related: ["section-33-deductibility", "labuan-tax-regime", "withholding-tax-non-compliance", "withholding-tax-rates"]
 keywords: ["section 39 income tax act 1967", "non deductible expenses malaysia", "disallowed expenses tax computation", "39(1)(j) withholding tax", "39(1)(r) labuan", "add back tax computation malaysia"]
+framework: rules
 ---
 
 대부분의 가산(add-back) 명세는 습관으로 작성됩니다. 감가상각, 접대비, 벌금, 기부 — 매년 같은 여섯 줄이 그대로 복사되어 넘어옵니다. 제39조 제1항은 실제로 열여덟 개의 유효한 금지 조항을 담고 있으며, 가장 많은 돈이 드는 것들은 누구의 습관적 목록에도 없습니다.

@@ -108,6 +108,7 @@ relations:
   - { rel: "related-to", to: "payroll-rates-deadlines-malaysia" }
 related: ["labour-law-map-malaysia", "employment-act-1955", "payroll-rates-deadlines-malaysia", "payroll-compliance-malaysia"]
 keywords: ["salario mínimo Malasia 2026", "RM1700 gaji minimum", "salario mínimo por hora Malasia", "Employment Act sección 19", "deducciones lícitas sección 24", "Minimum Wages Order 2024"]
+framework: rules
 ---
 
 Conocer la tarifa es la parte fácil. Un empleador que paga RM1,700 el día 20 del

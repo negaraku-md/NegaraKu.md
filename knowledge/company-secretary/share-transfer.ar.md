@@ -137,6 +137,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["stamp-duty-share-transfer", "register-of-members", "share-allotment", "share-transmission", "capital-gains-tax", "beneficial-ownership"]
 keywords: ["نقل الأسهم ماليزيا", "share transfer Malaysia", "نقل أسهم Sdn Bhd", "transfer shares Sdn Bhd", "النموذج 32A نقل الأسهم", "Form 32A share transfer", "القسم 106 قانون الشركات 2016", "section 106 Companies Act 2016", "رسم دمغة نقل الأسهم 30 يوماً"]
+framework: how-to
 ---
 
 يفشل نقل الأسهم في شركة Sdn Bhd بإحدى طريقتين. فإما أن يودع أحدهم الأوراق بترتيب

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "sales-and-service-tax-sst-explained" }
 related: []
 keywords: ["tipping malaysia", "service charge malaysia", "service tax restaurant", "dining etiquette malaysia", "SST food and beverage"]
+framework: explainer
 ---
 
 쿠알라룸푸르에서 맛있는 식사를 마치면 계산서가 식탁에 놓이고, 합계 아래에 낯선 두 줄이 자리합니다. 아니요, 당신은 추가로 주문한 것이 없습니다 — 그리고 그 위에 팁을 더할 필요도 없습니다. 말레이시아에서 외식이 실제로 어떻게 돌아가는지 소개합니다.

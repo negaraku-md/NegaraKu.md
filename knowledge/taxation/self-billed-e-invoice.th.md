@@ -85,6 +85,7 @@ relations:
   - { rel: "requires", to: "e-invoice-data-fields" }
 related: ["e-invoicing", "myinvois-phases", "consolidated-e-invoice", "e-invoice-data-fields", "e-invoice-vs-tax-invoice"]
 keywords: ["self-billed e-Invoice", "self billed invoice Malaysia", "foreign supplier e-Invoice", "general TIN EI00000000030", "e-invois belian sendiri", "agent commission e-Invoice"]
+framework: rules
 ---
 
 บริษัทที่มีแนวโน้มถูกจับได้มากที่สุดจาก e-Invoicing ไม่ใช่บริษัทที่มีบัญชีขายใหญ่ แต่เป็นบริษัทที่ซื้อ — ค่านายหน้าให้ตัวแทน เจ้าของบ้านที่เป็นบุคคลธรรมดา ค่าสมัครสมาชิก SaaS จากสิงคโปร์ การจ่ายดอกเบี้ยให้บริษัทโฮลดิ้ง ในทุกกรณีเหล่านั้น **ผู้ซื้อเป็นผู้ออกใบแจ้งหนี้** และผู้จัดหาไม่ต้องทำอะไรเลย

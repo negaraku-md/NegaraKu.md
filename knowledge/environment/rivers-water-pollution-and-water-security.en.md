@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "department-of-environment" }
 related: ["environmental-quality-act-1974"]
 keywords: ["pencemaran sungai", "indeks kualiti air", "WQI", "keselamatan air", "bekalan air", "Sungai Selangor", "Sungai Kim Kim", "rizab sungai", "Jabatan Alam Sekitar", "kawasan tadahan"]
+framework: explainer
 ---
 
 Turn on the tap on a Monday morning and find it dry — not because the faucet is broken, but because a factory upstream has discharged foul-smelling waste into the tributary that supplies raw water to your town. This is a recurring reality in the Klang Valley, and it explains why "river quality" is not merely an ecological issue but a matter of water supply security for millions of homes.

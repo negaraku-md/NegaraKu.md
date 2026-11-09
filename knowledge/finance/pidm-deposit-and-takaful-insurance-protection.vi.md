@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "fixed-deposit-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["PIDM", "deposit insurance", "RM250000", "takaful protection", "TIPS", "Perbadanan Insurans Deposit Malaysia", "Malaysia Deposit Insurance Corporation Act 2011", "insurance benefits protection"]
+framework: explainer
 ---
 
 Nếu một ngân hàng Malaysia sụp đổ vào ngày mai, số tiền trong tài khoản tiết kiệm của bạn sẽ không biến mất cùng nó. Lên đến RM250,000 của nó được một chương trình bảo vệ do chính phủ điều hành mang tên PIDM hậu thuẫn — và bạn chưa bao giờ đăng ký nó, chưa bao giờ trả tiền cho nó, và rất có thể chưa bao giờ để ý đến nó.

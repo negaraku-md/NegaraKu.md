@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "dta-network" }
 related: ["company-tax-residence", "dta-network", "withholding-tax-rates"]
 keywords: ["certificate of residence Malaysia", "e-Residence LHDN", "sijil taraf mastautin", "COR Malaysia tax", "Form STM1"]
+framework: how-to
 ---
 
 这份证明书不是你是马来西亚人的证据。它是某个特定协定伙伴必须让你进入某份特定协定的证据。LHDN 在自己的页面上就是这么说的：该证明书是为申索双重征税协定下的优惠、避免同一笔收入被双重征税而发出的，因此**只**为该目的、也只对马来西亚的协定伙伴而发出。那一句话解释了大多数的拒件。

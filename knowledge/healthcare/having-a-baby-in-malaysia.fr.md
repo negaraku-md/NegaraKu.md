@@ -62,6 +62,7 @@ relations:
   - { rel: "explained-in", to: "registering-a-birth" }
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "registering-a-birth"]
 keywords: ["avoir un bébé en Malaisie", "grossesse Malaisie", "soins prénatals Malaisie", "Livre rose grossesse", "Rekod Kesihatan Ibu", "klinik kesihatan enceinte", "accouchement public vs privé Malaisie", "enregistrement de naissance JPN", "maternité Malaisie", "accouchement hôpital public Malaisie"]
+framework: explainer
 ---
 
 Un test de grossesse positif met en route deux horloges à la fois, et presque personne ne l'explique à l'avance. Une horloge concerne la grossesse elle-même : quand s'enregistrer, où, ce qui se passe à chaque visite. L'autre ne démarre qu'à l'arrivée du bébé, et n'a rien à voir avec les hôpitaux : il s'agit d'un enregistrement légal auprès d'un département complètement différent.

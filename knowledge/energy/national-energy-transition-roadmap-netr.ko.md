@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "energy-commission-malaysia" }
 related: ["petronas", "tenaga-nasional"]
 keywords: ["NETR", "National Energy Transition Roadmap", "Malaysia energy transition", "renewable energy Malaysia", "net zero 2050", "coal phase out Malaysia", "green hydrogen Malaysia", "CCUS Malaysia", "NETF seed fund", "ENEGEM"]
+framework: explainer
 ---
 
 지난 세기 대부분 동안, 말레이시아의 경제 이야기는 탄화수소로 굴러갔습니다 — 해저 아래의 석유, 발전소로 이어진 가스관, 그리고 그리드를 값싸게 돌리기 위해 실어 온 석탄입니다. 국가에너지전환로드맵(NETR)은 2050년 이전에 그 이야기를 다시 쓰려는 계획이며, 확고한 수치와 명명된 프로젝트, 그리고 조 단위 링깃의 가격표를 지니고 있습니다.

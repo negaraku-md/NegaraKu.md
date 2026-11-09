@@ -67,6 +67,7 @@ sources:
 
 related: ["sheraton-move-2020", "prime-ministers-of-malaysia", "2022-general-election", "ismail-sabri-yaakob", "mahathir-mohamad"]
 keywords: ["Muhyiddin Yassin", "Mahiaddin Md Yassin", "eighth prime minister Malaysia", "Perikatan Nasional", "BERSATU"]
+framework: profile
 ---
 
 > **ฉบับร่าง — อ่อนไหว** บทความนี้เป็นบทสรุปที่เป็นกลางและยังอยู่ระหว่างการจัดทำ และ

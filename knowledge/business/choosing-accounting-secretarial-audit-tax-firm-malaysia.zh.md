@@ -77,6 +77,7 @@ sources:
 relations: []
 related: ["company-secretary-malaysia", "audit-exemption-criteria"]
 keywords: ["choose company secretary Malaysia", "accounting firm Malaysia", "audit firm Malaysia", "tax agent Malaysia", "corporate services firm Malaysia", "Big Four Malaysia", "MIA licensed firm", "SSM company secretary licence", "how to choose accountant Malaysia", "company secretary firm vs individual"]
+framework: decision
 ---
 
 每一家马来西亚公司都倚赖着一小圈从不出现在组织图上的专业人士：维持它合法运作的公司秘书、为它记账的会计师、为它的数字签核的核数师，以及向 LHDN 为它呈报的税务代理。选对了他们，省下的是金钱与不眠之夜。然而搜索「马来西亚最佳公司秘书」，你找到的几乎每一份指南都出自一家卖这项服务的事务所之手。这一份不是。

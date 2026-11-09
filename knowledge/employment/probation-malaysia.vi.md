@@ -59,6 +59,7 @@ relations:
   - { rel: "governs", to: "employment-contract-malaysia" }
 related: ["unfair-dismissal-malaysia", "employment-contract-malaysia", "termination-of-employment-malaysia"]
 keywords: ["probation malaysia", "terminate probationer malaysia", "confirmation of employment malaysia", "probation period malaysia law", "extend probation malaysia"]
+framework: explainer
 ---
 
 "Anh ta vẫn đang thử việc, nên chúng ta có thể cứ cho anh ta nghỉ." Câu đó đã tạo ra nhiều

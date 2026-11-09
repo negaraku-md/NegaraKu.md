@@ -69,6 +69,7 @@ faq:
     a: Not accurately. Chinese Malaysians are indeed the main body of believers, mostly following Mahayana Buddhism; but the Siamese, Sri Lankan and Burmese communities follow a separate, independent lineage — Theravada Buddhism, whose temples are called Wat, with the Siamese communities of the northern states having the longest history. There is also a smaller Vajrayana presence. Equating Buddhism in Malaysia with a Chinese religion overlooks these parallel traditions.
   - q: What does Wesak commemorate? Is it a public holiday?
     a: Wesak (Wesak Day) commemorates the birth, enlightenment and passing into nirvana of the Buddha, and is a nationwide public holiday in Malaysia. Devotees go to temples to offer flowers, light lamps and give alms. Religious freedom is protected by Article 11 of the Federal Constitution; although Article 3 establishes Islam as the religion of the Federation, it does not prevent other religions from being practised in peace.
+framework: history-culture
 ---
 
 On the hills of Penang, the silhouette of Kek Lok Si looks down over George Town;

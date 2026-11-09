@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-malaysia" }
 related: ["religion-statistics", "public-holidays-malaysia", "batik"]
 keywords: ["deepavali malaysia", "festival of lights malaysia", "hindu festival malaysia", "deepavali public holiday", "deepavali sarawak", "hari deepavali", "diwali malaysia"]
+framework: history-culture
 ---
 
 เป็นเวลาหนึ่งคืน ตะเกียงคือผู้พูด ตะเกียงดินเผาเล็ก ๆ วางเรียงตามประตูและขอบหน้าต่าง ลวดลายพื้นด้วยข้าวสีหรือผงสีถูกวางไว้ที่ธรณีประตู และบ้านที่มืดเมื่อชั่วโมงก่อนถูกตีเส้นด้วยเปลวไฟ นั่นคือที่มาของชื่อเทศกาล กล่าวคือ *ดีปาวลี (Deepavali)* มาจากภาษาสันสกฤตที่แปลว่า "แถวหรือชุดของแสงไฟ"

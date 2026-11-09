@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "minute-books-and-records" }
 related: ["directors-duties", "minute-books-and-records", "loans-to-directors", "directors-fees-approval"]
 keywords: ["disclosure of interest Malaysia", "section 221 Companies Act 2016", "section 222 interested director", "conflict of interest director Sdn Bhd", "pengisytiharan kepentingan pengarah", "director interested in contract Malaysia"]
+framework: rules
 ---
 
 การเปิดเผยได้ทำแล้ว ทุกคนในห้องได้ยิน สองปีต่อมาผู้ถือหุ้นเสียงข้างน้อยขอรายงานการประชุมคณะกรรมการของการประชุมนั้น และรายงานบันทึกเพียงว่าสัญญาจัดหาได้รับอนุมัติ ไม่มีอะไรเกี่ยวกับส่วนได้เสีย

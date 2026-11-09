@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "manufacturing" }
 related: ["johor", "external-trade", "manufacturing"]
 keywords: ["JS-SEZ", "Johor Singapore Special Economic Zone", "JS-SEZ incentives", "JS-SEZ flagship zones", "Malaysia Singapore economic zone", "IMFC-J"]
+framework: explainer
 ---
 
 สองประเทศตกลงที่จะใช้ประมวลรัษฎากรร่วมกันข้ามพรมแดน นั่นคือความแปลกใหม่อันเงียบเชียบของเขตเศรษฐกิจพิเศษยะโฮร์-สิงคโปร์ ซึ่งไม่ใช่นิคมอุตสาหกรรมแห่งใหม่ แต่เป็นข้อตกลงทวิภาคีที่ทำให้ยะโฮร์ (Johor) ตอนใต้และสิงคโปร์ (Singapore) สามารถทำการตลาดต่อนักลงทุนทั่วโลกในฐานะที่อยู่ทางธุรกิจแห่งเดียวกัน

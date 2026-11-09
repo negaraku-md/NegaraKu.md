@@ -76,6 +76,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["tol lebuh raya Malaysia", "SmartTAG", "RFID Touch n Go", "JustGO PLUS", "ANPR tol", "MLFF tol tanpa palang", "lorong tol Malaysia"]
+framework: explainer
 ---
 
 รถคันหน้าคุณในช่องทาง RFID หยุดกะทันหันเพราะสติกเกอร์บนไฟหน้าตรวจไม่พบ — ทั้งที่หลายคนคิดว่า RFID หมายถึง "ไม่ต้องทำอะไรเลย" ความจริงคือ มาเลเซียขณะนี้ดำเนินเทคโนโลยีค่าผ่านทางอย่างน้อยสี่รุ่นพร้อมกันบนทางด่วนที่แตกต่างกัน และการสับสนรุ่นหนึ่งกับอีกรุ่นเป็นสาเหตุที่พบบ่อยของรถที่ติดค้างที่ด่าน

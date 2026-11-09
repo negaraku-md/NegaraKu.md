@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "nine-royal-houses" }
 related: ["jalur-gemilang", "negaraku-anthem", "nine-royal-houses"]
 keywords: ["Jata Negara", "मलेशिया का राष्ट्रीय राजचिह्न", "Bersekutu Bertambah Mutu", "जाता नेगारा का अर्थ", "ढाल धारण करते दो बाघ", "पाँच क्रिस फलक", "Bunga Raya", "अर्धचंद्र और 14-नोक वाला तारा", "Malaysia coat of arms"]
+framework: explainer
 ---
 
 # जाता नेगारा: मलेशिया के राष्ट्रीय राजचिह्न को, तत्व-दर-तत्व, पढ़ना

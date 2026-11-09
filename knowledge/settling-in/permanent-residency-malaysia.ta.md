@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysian-citizenship" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["permanent residency Malaysia", "MyPR", "red IC Malaysia", "Entry Permit Malaysia", "PR spouse Malaysian", "Immigration Act 1959/63", "Regulation 4 Immigration Regulations 1963"]
+framework: explainer
 ---
 
 மலேசியாவில் நீண்டதூர வாழ்க்கை நடத்தும் பலருக்கு, ஒரு சிவப்பு MyKad என்பது அமைதியான இறுதிக் கோடு — ஒரு தசாப்தமாக அதே வருகை அனுமதிச்சீட்டைப் புதுப்பித்து வரும் வெளிநாட்டு மனைவி, இன்னொரு வேலை அனுமதிச்சீட்டு நீட்டிப்பை மீண்டும் தாக்கல் செய்ய விரும்பாத பொறியியலாளர், எங்காவது நிரந்தரமாகச் சேர்ந்திருக்க விரும்பும் ஓய்வுபெற்றவர். அந்த அட்டைதான், அதாவது MyPR, உங்கள் பணப்பையில் மலேசிய நிரந்தர வதிவிடம் உண்மையில் எப்படித் தோற்றமளிக்கிறது என்பதைக் காட்டுகிறது.

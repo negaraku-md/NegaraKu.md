@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "kaamatan" }
 related: ["languages-spoken", "sabah", "sarawak", "gawai-dayak", "kaamatan", "orang-asli"]
 keywords: ["indigenous languages Sabah Sarawak", "Borneo languages", "Kadazandusun language", "Dusunic", "Murutic", "Paitanic", "Iban language", "Bidayuh", "Melanau", "Orang Ulu", "Austronesian", "North Bornean languages", "Sama-Bajau"]
+framework: explainer
 ---
 
 ボルネオの内陸部を飛行機で越えれば、一時間のうちに、たいていの国が国内全体で抱える数より多くの言語を通り過ぎることになる。サバ州高地の川筋、サラワク州の上流バラム川沿いのロングハウス、沿岸の漁村——そのどこもが、隣の谷ではほとんど理解されない言葉であなたを迎えるかもしれない。

@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["income-tax-act-1967", "lhdn"]
 keywords: ["REIT tax Malaysia", "property trust fund", "section 61A", "withholding tax REIT", "YA 2026 REIT tax", "unit holder distribution"]
+framework: explainer
 ---
 
 Buy a unit in a Malaysian REIT and you are effectively a landlord who never sees a tax bill from the building — because the trust that owns it hands almost everything to you before the taxman can touch it. That single design choice, written into section 61A of the Income Tax Act 1967, is what makes real estate investment trusts (REITs) and property trust funds (PTFs) work. But in year of assessment (YA) 2026 the other half of the bargain — how *you*, the unit holder, are taxed — changed for the first time in years.

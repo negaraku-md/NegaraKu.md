@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "representative-regional-office-malaysia" }
 related: ["mida"]
 keywords: ["principal hub malaysia", "global services hub malaysia", "regional headquarters malaysia", "MIDA principal hub incentive", "GSH tax incentive malaysia", "headquarters incentive malaysia"]
+framework: explainer
 ---
 
 Multinasional tidak menempatkan kantor pusat regional mereka di sembarang tempat — mereka mengikuti insentif. Selama bertahun-tahun, tawaran Malaysia kepada perusahaan yang memutuskan lokasi untuk menempatkan operasi pengelolaan regional, keuangan, dan layanan bersama mereka adalah insentif **Principal Hub** (Hub Utama). Skema itu telah ditutup, dan banyak nasihat daring belum mengikuti perkembangan. Jika Anda meninjau Malaysia sebagai basis operasi hari ini, jalur yang benar-benar ada adalah **Global Services Hub** (Hub Layanan Global).

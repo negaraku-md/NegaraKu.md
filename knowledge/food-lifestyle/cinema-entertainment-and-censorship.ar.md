@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "consumer-protection-act" }
 related: ["sedition-act", "consumer-protection-act"]
 keywords: ["الرقابة على الأفلام", "مجلس الرقابة على الأفلام", "LPF", "تصنيف الأفلام", "P12", "P13", "Film Censorship Act 2002", "ترخيص الترفيه", "كاراوكي", "دور السينما", "DBKL", "السلطات المحلية", "film classification Malaysia"]
+framework: explainer
 ---
 
 قد لا يمر فيلم ينتشر على YouTube بمجلس الرقابة على الأفلام إطلاقًا — لكن الفيلم نفسه، إن أُريد عرضه في دار سينما، يجب أن يحصل على ختم موافقته أولًا. وهذا الفرق ليس ثغرة عارضة؛ بل هو جزء من الطريقة التي يضبط بها القانون الماليزي ما يُسمح للجمهور بمشاهدته.

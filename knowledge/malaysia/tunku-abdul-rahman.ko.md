@@ -66,6 +66,7 @@ social:
 verificationNeeded:
   - "민감: 1969년 5월 13일 인종 소요(인종)와 말레이 통치자들(왕실)을 건드립니다. 모든 성격 규정은 중립적으로 요약되었습니다; 1차 자료와 다시 대조하고 발행 전에 자격을 갖춘 사람 검토자의 승인을 받으십시오."
   - "정확한 날짜(총리 재임, 출생, 사망)를 페르다나 리더십 재단(Perdana Leadership Foundation)과 총리실과 대조하여 확인하십시오."
+framework: profile
 ---
 
 1957년 8월 31일 아침, 쿠알라룸푸르(Kuala Lumpur)의 꽉 들어찬 머르데카 스타디움(Merdeka Stadium) 앞에서, 케다(Kedah)의 한 왕자가 손을 들어 올리며 군중을 이끌어 일곱 번의 **"머르데카(Merdeka)!"** — 자유 — 를 외치게 했습니다. 그 사람은 **툰쿠 압둘 라만 푸트라 알하지(Tunku Abdul Rahman Putra Al-Haj)**였고, 말라야 독립 선언(Malayan Declaration of Independence)에 담긴 그 순간은 말라야 연방(Federation of Malaya)에 대한 영국 통치의 종식과, 그가 초대 총리로 다스리게 될 독립국의 탄생을 알렸습니다.

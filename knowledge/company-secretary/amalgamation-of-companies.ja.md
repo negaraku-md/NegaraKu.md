@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "members-voluntary-winding-up" }
 related: ["companies-act-2016", "ssm"]
 keywords: ["amalgamation", "scheme of arrangement", "section 366", "section 370", "Companies Act 2016", "reconstruction", "merger Malaysia", "SSM", "75 percent threshold", "vesting order"]
+framework: explainer
 ---
 
 もし、シンガポールやニュージーランドのようにマレーシアの2社が合併する——取締役会が決議を通し、一夜にして一方の法人が他方を吸収する——ことを期待しているなら、あなたが探している規定は存在しない。2016年会社法（Companies Act 2016、Act 777）には簡易な法定合併制度がない。ここで2社以上の会社を合併させるには、高等法院（High Court）を通す必要がある。

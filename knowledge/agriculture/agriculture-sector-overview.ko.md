@@ -103,6 +103,7 @@ relations:
   - { rel: "part-of", to: "gdp-overview" }
 related: ["palm-oil-sector", "rubber", "gdp-overview"]
 keywords: ["sektor pertanian Malaysia", "agromakanan Malaysia", "Dasar Agromakanan Negara", "kadar sara diri makanan", "KPKM", "KPK", "minyak sawit padi getah", "keterjaminan makanan Malaysia"]
+framework: profile
 ---
 
 2024년 말레이시아는 1억 톤이 넘는 팜 생과방 — 말레이시아 통계청(DOSM)에 따르면 약 1억 20만 톤 — 을 생산했으며, 이는 세계 2대 팜유 생산국의 지위를 유지하기에 충분한 양이었습니다. 같은 해에 이 나라는 국민이 먹는 쌀의 거의 절반을 수입했습니다.

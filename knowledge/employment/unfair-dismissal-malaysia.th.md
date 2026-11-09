@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "domestic-inquiry-malaysia" }
 related: ["labour-law-map-malaysia", "termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
 keywords: ["unfair dismissal malaysia", "section 20 industrial relations act", "60 days filing dismissal", "industrial court malaysia", "backwages cap 24 months", "compensation in lieu of reinstatement"]
+framework: how-to
 ---
 
 หกสิบวัน นั่นคือทั้งเกม และเป็นจุดที่คำร้องเรื่องการเลิกจ้างที่ไม่เป็นธรรมของมาเลเซียส่วนใหญ่ตาย — ไม่ใช่ที่เนื้อหา แต่เพราะลูกจ้างใช้เวลาเจ็ดสัปดาห์เจรจากับ HR อีกสองสัปดาห์รอคำตอบที่ไม่เคยมา และยื่นในวันที่หกสิบสาม

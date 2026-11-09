@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "rukun-negara" }
 related: ["hari-raya-aidilfitri", "deepavali", "gawai-dayak", "kaamatan", "balik-kampung", "rukun-negara"]
 keywords: ["rumah terbuka", "maison ouverte Malaisie", "Rumah Terbuka Malaysia Madani", "tradition de la maison ouverte", "fête interethnique Malaisie"]
+framework: history-culture
 ---
 
 **Bahasa Malaysia:** Rumah Terbuka · **English:** Open House · **中文:** 开放门户 (敞开家门待客)

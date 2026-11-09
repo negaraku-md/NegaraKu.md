@@ -74,6 +74,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#WinnsCafe", "#Peranakan", "#Nyonya", "#Penang", "#BibGourmand"]
+framework: profile
 ---
 
 Penang là cái nôi xưa của ẩm thực người Hoa gốc Eo biển, và Winn's Cafe gìn giữ

@@ -78,6 +78,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaTax
     - MalaysiaCompanyLaw
+framework: explainer
 ---
 
 Once a business owns more than one company — a trading arm and a property arm, two brands, an operating company and the family's investments — the question stops being "how do I run my company?" and becomes "how do I structure the group?" A holding company sits on top, owning the others, and it can bring cleaner ownership, asset protection and a smoother exit. It also brings consolidated accounts, its own tax regime, and charges you might not expect when you move the pieces around.

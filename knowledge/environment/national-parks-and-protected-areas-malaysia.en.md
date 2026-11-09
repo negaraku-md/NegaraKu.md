@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "unesco-world-heritage-sites-malaysia" }
 related: []
 keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Taman Kinabalu", "Gunung Mulu", "Sabah Parks", "Sarawak Forestry", "taman laut", "PERHILITAN", "Warisan Dunia UNESCO"]
+framework: explainer
 ---
 
 Ask anyone where "Malaysia's national park" is and they will point to one place. In reality, Malaysia does not have a single national park — it has three legal systems that are entirely separate, and one of them does not even cover the place most famous by the name "Taman Negara". Understanding this legal map is the key to planning a visit, conducting research, or simply grasping how Malaysia protects its 130-million-year-old rainforests.

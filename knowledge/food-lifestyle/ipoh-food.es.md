@@ -95,6 +95,7 @@ verificationNeeded:
   - "El origen y la datación del Ipoh white coffee, incluida la atribución popular a los operadores de cafeterías hainaneses y cualquier década concreta (algunos relatos citan la década de 1950) — todo ello se apoya en medios gastronómicos y fuentes anecdóticas y debería confirmarse frente a una historia documentada."
   - "Si existe un fideo 'pollo-anchoa' distintivo de Ipoh como plato propio con nombre, o si esto se refiere al caldo de pollo y gambas del kai see hor fun (que algunos cocineros intensifican con anchoas secas) — verificar frente a una fuente culinaria local antes de enunciarlo como plato aparte."
   - "Los detalles de locales y lugares (atribuciones a Old Town frente a New Town, puestos con nombre como Thean Chun, Aun Kheng Lim y los fabricantes de heong peng de Gunung Rapat) cambian con el tiempo; confirmar los operadores y ubicaciones actuales antes de fiarse de ellos."
+framework: history-culture
 ---
 
 Pregúntele a cualquiera en Malasia dónde comer y, tarde o temprano, lo mandará a

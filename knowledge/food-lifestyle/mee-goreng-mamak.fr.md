@@ -90,6 +90,7 @@ verificationNeeded:
   - "Si le mouton est un ajout standard plutôt qu'occasionnel — les sources confirment les crevettes mais sont moins précises sur le mouton pour ce plat ; à vérifier auprès d'une source culinaire malaisienne."
   - "La dénomination et la définition précises des variantes de stand « mee goreng basah » (humide) et « mee goreng kering » (sec) : « basah/humide » est attesté, mais aucune définition fiable d'un style « kering/sec » distinct n'a été trouvée. À vérifier auprès d'une référence gastronomique malaisienne."
   - "L'affirmation selon laquelle les versions mamak de Singapour sont généralement plus rouges (avec colorant ajouté) que les malaisiennes — rapportée par les médias gastronomiques ; à vérifier auprès d'une source plus solide."
+framework: explainer
 ---
 
 Approchez-vous de presque n'importe quel stand mamak de Malaisie à la nuit tombée

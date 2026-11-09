@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "energy-commission-malaysia" }
 related: ["petronas"]
 keywords: ["natural gas Malaysia", "LNG Malaysia", "Bintulu LNG", "Peninsular Gas Utilisation", "PGU pipeline", "regasification terminal", "Third Party Access", "Malaysia Reference Price"]
+framework: explainer
 ---
 
 セランゴールの発電所が稼働し、あるいはペナンの手袋工場が炉を温めるたびに、その天然ガスはおそらく数百キロメートル離れた場所——トレンガヌ沖合、あるいは南シナ海を越えたサラワク——で旅を始めている。マレーシアは有数の天然ガス輸出国であると同時に、ますます天然ガスの輸入国となりつつある。この二つの事実を調和させる配管とターミナルこそ、同国で最も価値あるエネルギー資産の一つである。

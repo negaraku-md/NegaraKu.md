@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "negaraku-anthem" }
 related: ["negaraku-anthem"]
 keywords: ["Malaysia Olympic medals", "SEA Games", "Commonwealth Games 1998", "Lee Chong Wei", "Malaysia gold medal", "medal tally"]
+framework: data-reference
 ---
 
 말레이시아는 올림픽 시상대에 열다섯 번 올랐습니다 — 그리고 그때마다 매번 다른 나라의 국가가 울려 퍼지는 것을 들었습니다.

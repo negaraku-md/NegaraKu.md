@@ -87,6 +87,7 @@ faq:
     a: Không. Kế hoạch Malaysia được trình và thông qua dưới dạng một kiến nghị chính sách để Quốc hội tranh luận, chứ không phải dưới dạng một dự luật. Ngược lại, Ngân sách phải thông qua Dự luật Cung ứng (Supply Bill), trải qua toàn bộ quy trình lập pháp trước khi được ban hành thành Đạo luật Cung ứng (Supply Act). Chẳng hạn, Kế hoạch Malaysia lần thứ 13 (RMK13) đã được trình dưới dạng kiến nghị tại Hạ viện (Dewan Rakyat) vào ngày 31 tháng 7 năm 2025 và tại Thượng viện (Dewan Negara) vào ngày 25 tháng 8 năm 2025.
   - q: Toàn bộ 611 tỷ RM của RMK13 có đến từ ngân sách Chính phủ không?
     a: Không. Trong ít nhất 611 tỷ RM vốn đầu tư của RMK13, chỉ 430 tỷ RM là phân bổ phát triển của Chính phủ. Phần còn lại đến từ 120 tỷ RM đầu tư trực tiếp trong nước của các Công ty Liên kết Chính phủ (GLC) và Công ty Đầu tư Liên kết Chính phủ (GLIC), cùng 61 tỷ RM thông qua hình thức đối tác công-tư (PPP).
+framework: explainer
 ---
 
 Ngày 31 tháng 7 năm 2025, Thủ tướng trình lên Hạ viện một kiến nghị phát triển đòi hỏi mức đầu tư ít nhất RM611 tỷ. Không phải Ngân sách — Ngân sách cho năm đó đã được trình từ nhiều tháng trước đó. Đây là một kiến nghị hoàn toàn khác: Kế hoạch Malaysia lần thứ Mười ba, kế hoạch đặt ra định hướng phát triển của quốc gia không phải cho một năm, mà cho năm năm sắp tới, 2026 đến 2030.

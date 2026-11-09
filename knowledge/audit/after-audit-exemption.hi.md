@@ -106,6 +106,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.245"
     consequence: "Fine up to RM500,000 or imprisonment up to three years or both"
+framework: rules
 ---
 
 Practice Directive 10/2024 के बारे में हर दूसरी पोस्ट वही एक पंक्ति बेचती है: ऑडिट छोड़ो, शुल्क बचाओ। शुल्क वास्तविक है। वैसे ही वास्तविक है उन कर्तव्यों की सूची जो रत्ती भर नहीं हिलते, और वह कारण जिससे बहुत-सी पात्र कंपनियाँ फिर भी अपना ऑडिटर रखती हैं।

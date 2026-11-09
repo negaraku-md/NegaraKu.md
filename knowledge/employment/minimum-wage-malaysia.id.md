@@ -108,6 +108,7 @@ relations:
   - { rel: "related-to", to: "payroll-rates-deadlines-malaysia" }
 related: ["labour-law-map-malaysia", "employment-act-1955", "payroll-rates-deadlines-malaysia", "payroll-compliance-malaysia"]
 keywords: ["gaji minimum Malaysia 2026", "RM1700 gaji minimum", "gaji minimum sejam Malaysia", "Akta Kerja seksyen 19", "potongan sah seksyen 24", "Perintah Gaji Minimum 2024"]
+framework: rules
 ---
 
 Mengetahui tarif itu adalah bagian yang mudah. Seorang pemberi kerja yang membayar

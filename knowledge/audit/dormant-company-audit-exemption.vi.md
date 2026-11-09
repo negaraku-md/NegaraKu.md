@@ -55,6 +55,7 @@ relations:
   - { rel: "part-of", to: "audit-exemption" }
 related: ["audit-exemption", "audit-exemption-thresholds", "after-audit-exemption"]
 keywords: ["dormant company audit exemption Malaysia", "dormant company SSM", "what breaks dormancy", "dormant since incorporation", "syarikat dorman audit"]
+framework: rules
 ---
 
 Một công ty vỏ bọc chỉ nắm giữ một cái tên và không gì khác không cần vượt qua bài kiểm tra doanh thu, bài kiểm tra tài sản hay bài kiểm tra số lao động. Đoạn 10 của Chỉ thị Thực hành 10/2024 (Practice Directive 10/2024) cho các công ty không hoạt động con đường riêng của chúng dẫn đến miễn kiểm toán, và hầu hết các hướng dẫn chôn vùi nó trong một dòng duy nhất dưới các ngưỡng — đó là nơi độc giả bỏ lỡ sự khác biệt trong kỳ rà soát ngược.

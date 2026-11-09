@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["tamil-in-malaysia", "chinese-dialects", "population-composition", "deepavali"]
 keywords: ["السيخ في ماليزيا", "Sikh Malaysia", "البنجاب في ماليزيا", "Punjabi Malaysia", "غوردوارا", "gurdwara", "فايساخي", "Vaisakhi", "الخالصة", "Khalsa", "لانغار", "langar", "Tatt Khalsa Diwan", "اللغة البنجابية"]
+framework: history-culture
 ---
 
 في صفوف الشرطة والحصون البريطانية في مالايا خلال القرن التاسع عشر، لم يكن كثير من أولئك الضباط ذوي العمائم واللحى الكثيفة من أهل البلاد — بل كانوا سيخًا جُلبوا آلاف الأميال من البنجاب في شمال غرب الهند. ومن واجب حفظ الأمن ذاك نمت واحدة من أصغر جاليات الأقليات في ماليزيا، وإن كانت من أكثرها تميّزًا للنظرة الأولى.

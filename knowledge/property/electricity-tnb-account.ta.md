@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "mobile-sim-plans" }
 related: ["moving-to-malaysia-first-steps", "mobile-sim-plans"]
 keywords: ["akaun elektrik TNB", "buka akaun TNB baru", "deposit elektrik TNB", "tukar nama akaun elektrik", "Change of Tenancy TNB", "SESB Sabah elektrik", "Sarawak Energy deposit", "myTNB Self Meter Reading", "bacaan meter elektrik", "Kedai Tenaga"]
+framework: how-to
 ---
 
 நீங்கள் புதிய வீட்டின் சாவியைப் பெற்றுவிட்டீர்கள், ஆனால் விளக்குச் சுவிட்ச்

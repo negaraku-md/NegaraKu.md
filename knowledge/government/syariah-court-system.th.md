@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "federal-state-division" }
 related: ["civil-and-syariah-courts", "kehakiman-mahkamah", "federal-constitution"]
 keywords: ["mahkamah syariah", "sistem mahkamah Malaysia", "Perkara 121(1A)", "bidang kuasa mahkamah syariah", "Mahkamah Tinggi Syariah", "Akta 355", "Akta 505", "undang-undang keluarga Islam"]
+framework: explainer
 ---
 
 ภริยาที่ยื่นขอฟาซัค (fasakh) และพ่อค้าที่เรียกร้องหนี้ RM60,000 ต่างเริ่มต้นคดีของตนด้วยแบบฟอร์มหนึ่งใบที่เคาน์เตอร์ศาล แต่พวกเขาไม่ได้ไปที่เคาน์เตอร์เดียวกัน คดีของพวกเขาไม่ได้พิจารณาโดยผู้พิพากษาประเภทเดียวกัน และกฎหมายที่กำหนดผลของพวกเขามาจากองค์กรตรากฎหมายที่ต่างกันสององค์กร

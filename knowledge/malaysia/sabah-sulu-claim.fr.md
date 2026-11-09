@@ -95,6 +95,7 @@ relations:
   - { rel: "located-in", to: "sabah" }
 related: ["sabah"]
 keywords: ["revendication sur le Sabah", "Sultanat de Sulu", "Lahad Datu", "accord de 1878", "Nord-Bornéo", "arbitrage de Sulu", "Philippines Sabah"]
+framework: explainer
 ---
 
 Un seul mot malais inscrit dans un contrat de l'époque coloniale en 1878 façonne encore un différend diplomatique vivace, une incursion armée meurtrière en 2013, et un arbitrage de plusieurs milliards de dollars qui a atteint les tribunaux de Madrid, du Luxembourg, de La Haye et de Paris. Ce mot est *padjak*, et la manière dont il est traduit est au cœur de la question de savoir si le Sabah a été loué ou cédé.

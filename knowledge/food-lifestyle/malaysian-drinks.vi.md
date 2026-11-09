@@ -102,6 +102,7 @@ verificationNeeded:
   - "Thành phần chuẩn chính xác của air mata kucing (long nhãn, luo han guo, bí đao, đường phèn theo tỷ lệ khác nhau) và cách đọc 'mata kucing' là long nhãn so với cách đọc dân gian 'nước mắt mèo' — xác nhận bằng nguồn ẩm thực hoặc từ điển."
   - "Tuyên bố rằng nước nhục đậu khấu Penang bắt nguồn từ việc người Anh du nhập trồng nhục đậu khấu vào cuối thế kỷ 18 — được truyền thông du lịch lặp lại nhưng chưa được xác nhận ở đây đối chiếu với nguồn lịch sử."
   - "Có nên quy việc bubble tea đến Malaysia cho một thập niên hay chuỗi cụ thể hay không — coi khung 'gốc Đài Loan, làn sóng về sau ở Malaysia' là khái quát cho đến khi xác nhận được nguồn có ghi ngày tháng."
+framework: explainer
 ---
 
 Hãy bảo một du khách kể tên một thức uống Malaysia và họ thường sẽ nói *teh tarik*

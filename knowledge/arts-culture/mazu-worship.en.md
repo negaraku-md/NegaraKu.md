@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "chinese-religion-in-malaysia" }
 related: ["chinese-religion-in-malaysia", "tua-pek-kong", "chinese-clan-associations", "nine-emperor-gods-festival", "buddhism-in-malaysia"]
 keywords: ["妈祖", "天后", "天上圣母", "天后宫", "乐圣岭天后宫", "海南会馆", "妈祖诞", "林默娘", "海神", "马来西亚妈祖信仰", "Mazu", "Tian Hou", "Thean Hou Temple"]
+framework: history-culture
 ---
 
 On a small hill at Robson Heights in Kuala Lumpur stands a six-storey temple of red pillars and glazed tiles that overlooks the city — this is the Thean Hou Temple, dedicated to the most famous sea goddess in the Chinese world: Mazu. In the past, Chinese people who came south by sea would pray to her for safety before and after crossing the ocean; today it is at once a temple where devotees offer incense, a gathering place for Hainanese kinsfolk, and a backdrop for tourists' photographs.

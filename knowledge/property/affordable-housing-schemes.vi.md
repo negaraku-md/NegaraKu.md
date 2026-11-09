@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "home-loan-financing" }
 related: []
 keywords: ["rumah mampu milik", "PR1MA", "Residensi Wilayah", "RUMAWIP", "Rumah Mesra Rakyat", "PPR", "Rumah Selangorku", "Residensi MADANI", "rumah mampu milik Malaysia"]
+framework: decision
 ---
 
 Lương của bạn RM4,000 mỗi tháng và giá nhà liền kề ở thành phố đã chạm nửa triệu ringgit — bạn nên bắt đầu tìm ở đâu? Câu trả lời không phải một chương trình, mà là một danh mục các chương trình của chính phủ mà mỗi cái nhắm đến một mức thu nhập khác nhau. Chọn sai nghĩa là lãng phí nhiều tháng chờ bốc thăm cho một căn nhà mà bạn vốn không đủ điều kiện.

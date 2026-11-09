@@ -77,6 +77,7 @@ social:
 verificationNeeded:
   - "The official name of the 1972 spelling system in Malaysia: different sources refer to 'Ejaan Rumi Baharu' and 'Ejaan Rumi Bersama' — to be confirmed against the official DBP guidelines"
   - "The year of the Za'ba spelling system: some sources state it was introduced in 1924 while others state it was fully compiled in 1933 — to be confirmed against primary sources"
+framework: history-culture
 ---
 
 When we read a Malay word today — on a road sign, in a newspaper, on a phone screen — we read it in the same letters as the English alphabet: a, b, c, d and so on. That script is called Rumi script. It is so ordinary that many are not aware that Rumi is not the original script of the Malay language, and that its neat and uniform form today is the result of a standardisation effort that took more than a hundred years.

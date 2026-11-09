@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "renewable-energy-malaysia" }
 related: ["tenaga-nasional"]
 keywords: ["बिजली टैरिफ", "tarif elektrik", "RP4", "AFA", "NETR", "ऊर्जा आयोग", "Suruhanjaya Tenaga", "TNB", "नवीकरणीय ऊर्जा", "ऊर्जा संक्रमण", "बिजली सब्सिडी"]
+framework: explainer
 ---
 
 आपका बिजली बिल अब अलग दिखता है — और यह कोई छपाई की गलती नहीं है। 1 July 2025

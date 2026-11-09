@@ -70,6 +70,7 @@ relations:
   - { rel: "governs", to: "akta-perkhidmatan-bomba-1988" }
 related: []
 keywords: ["keselamatan kebakaran", "pencegahan kebakaran", "perakuan bomba", "fire certificate", "JBPM", "Akta Perkhidmatan Bomba 1988"]
+framework: explainer
 ---
 
 Fire gives no warning. In a matter of minutes, a spark from an overloaded socket or an abandoned frying pan can level a house — and in 2025 alone, the [Fire and Rescue Department of Malaysia](/public-safety/fire-and-rescue-department-bomba) (JBPM) recorded 16,111 fire cases with 98 deaths and estimated property losses of RM2.09 billion. The good news: almost all of them are preventable, whether in your living room or on the factory floor.

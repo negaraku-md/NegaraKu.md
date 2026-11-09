@@ -79,6 +79,7 @@ social:
     - MOTAC
     - DoingBusinessInMalaysia
     - StartABusiness
+framework: how-to
 ---
 
 건물을 사고, 객실을 꾸미고, 첫 예약을 받는 것은 호텔 개설의 쉬운 부분입니다.

@@ -103,6 +103,7 @@ relations:
   - { rel: "part-of", to: "gdp-overview" }
 related: ["palm-oil-sector", "rubber", "gdp-overview"]
 keywords: ["sektor pertanian Malaysia", "agromakanan Malaysia", "Dasar Agromakanan Negara", "kadar sara diri makanan", "KPKM", "KPK", "minyak sawit padi getah", "keterjaminan makanan Malaysia"]
+framework: profile
 ---
 
 ในปี 2024 มาเลเซียผลิตทะลายปาล์มสดกว่า 100 ล้านตัน — ราว 100.2 ล้านตันตามกรมสถิติมาเลเซีย (DOSM) — เพียงพอที่จะรักษาตำแหน่งหนึ่งในสองผู้ผลิตน้ำมันปาล์มรายใหญ่ที่สุดของโลก ในปีเดียวกัน ประเทศนี้นำเข้าข้าวเกือบครึ่งหนึ่งของที่ประชาชนบริโภค

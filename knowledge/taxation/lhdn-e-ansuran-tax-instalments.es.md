@@ -76,6 +76,7 @@ social:
     - CP204
     - CP500
     - ByrHASiL
+framework: how-to
 ---
 
 Si llega una factura de impuestos que no puede saldar en un solo pago, la autoridad fiscal de Malasia ya no le obliga a hacer cola en una sucursal para concertar los plazos. Desde March 2025 puede solicitarlo en línea, con unos pocos clics, a través de **e-Ansuran** en el portal MyTax — y obtener la aprobación de forma automática. Pero «pagar el impuesto a plazos» en Malasia significa en realidad tres cosas distintas, y confundirlas es donde la gente se equivoca. Aquí se explica cómo funciona e-Ansuran y en qué se diferencia de los esquemas de plazos CP500 y CP204.

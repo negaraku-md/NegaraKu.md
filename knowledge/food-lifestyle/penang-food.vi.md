@@ -98,6 +98,7 @@ verificationNeeded:
   - "Vị trí của asam laksa Penang trên CNN (được đưa tin là thứ 7) đã xuất hiện trong nhiều bài tổng hợp ẩm thực của CNN ở các năm khác nhau (ban đầu khoảng 2011, sau đó được quảng bá lại); hãy xác nhận danh sách, thứ hạng và năm chính xác trực tiếp với nguồn CNN."
   - "White curry mee thường được gắn với Penang và Ipoh nhưng không được ghi nhận trong tổng quan ẩm thực Penang trên Wikipedia; hãy xác nhận việc quy nó về Penang và phần mô tả theo một nguồn địa phương."
   - "Việc quy cho các quầy cụ thể cùng những tuyên bố 'tốt nhất' hoặc 'lâu đời nhất' cho các địa điểm hàng rong (Gurney Drive, Lorong Selamat, New Lane, Air Itam, Chulia Street) đều gây tranh cãi và thay đổi theo thời gian; hãy kiểm tra các quầy và giờ mở cửa hiện tại trước khi trích dẫn bất kỳ điều gì như một khẳng định chắc chắn."
+framework: explainer
 ---
 
 Ít nơi nào nhồi nhét được nhiều món ăn vào một khoảnh đất nhỏ như Penang. Ở George Town,

@@ -124,6 +124,7 @@ entity: "Employment Pass (Malaysia)"
 relations: []
 related: ["labour-law-map-malaysia", ]
 keywords: ["employment pass malaysia", "ep category 1 salary", "employment pass salary 2026", "esd registration", "myxpats", "expatriate malaysia", "employment pass renewal"]
+framework: rules
 ---
 
 2026年6月1日，马来西亚外籍人员在顶端的价格翻了一倍。

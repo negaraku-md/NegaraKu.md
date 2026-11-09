@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "register-of-directors" }
 related: ["register-of-directors", "directors-duties", "remove-a-director", "director-shareholding-notification", "statutory-registers"]
 keywords: ["appoint director Malaysia", "resign as director Sdn Bhd", "section 196 Companies Act 2016", "section 208 vacation of office", "consent to act as director Malaysia", "letak jawatan pengarah syarikat", "minimum number of directors Malaysia"]
+framework: rules
 ---
 
 กรรมการของบริษัท Sdn Bhd ที่มีสองคนมีเรื่องบาดหมางกับผู้ถือหุ้นร่วม ลงนามในหนังสือลาออก ส่งมอบ แล้วเดินจากไป สิบแปดเดือนต่อมาบันทึกของ SSM ยังคงแสดงว่าเขาเป็นกรรมการ เจ้าหนี้ระบุชื่อเขาในหนังสือทวงถาม และเขาก็พบว่าการลาออกของเขาไม่เคยถูกยื่น — และตามข้อเท็จจริง ภายใต้มาตรา 196(3) ของ Companies Act 2016 การลาออกอาจไม่เคยมีผลเลยด้วยซ้ำ

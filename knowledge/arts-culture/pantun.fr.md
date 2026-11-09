@@ -74,6 +74,7 @@ social:
 verificationNeeded:
   - "La date exacte de l'origine de l'art du pantoun ne peut être établie avec certitude ; l'opinion savante la plus solide la situe autour du XVe siècle, soit avant le Sejarah Melayu (~1612). Ce chiffre reste débattu et n'est pas une date définitive."
   - "La limite de longueur maximale du pantoun à longues strophes varie selon les sources (certaines mentionnent jusqu'à 16 vers, d'autres jusqu'à environ 22 vers) ; le total exact n'est pas uniforme."
+framework: history-culture
 ---
 
 > Pisang emas dibawa belayar,

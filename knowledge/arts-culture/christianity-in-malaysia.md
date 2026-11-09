@@ -71,6 +71,7 @@ faq:
     a: 'No. The two differ by reach: Christmas is a nationwide public holiday, while Good Friday is a public holiday only in Sabah and Sarawak. This mirrors the faith''s geography, since more than two-thirds of Malaysian Christians — and Sarawak, where Christianity is the largest single religion — are in East Malaysia rather than the peninsula.'
   - q: What is the Christian Federation of Malaysia, and which bodies does it bring together?
     a: 'The Christian Federation of Malaysia (CFM), formed in 1985, is the main umbrella body. It unites the three streams of Malaysian Christianity: the Catholic Bishops'' Conference, the Council of Churches of Malaysia (mainline Protestant) and the National Evangelical Christian Fellowship. CFM says it represents more than 95% of the country''s churches, many of them Bahasa Malaysia-speaking congregations in Sabah and Sarawak.'
+framework: history-culture
 ---
 
 Malaysia's Christian story has two centres of gravity, and neither is in the

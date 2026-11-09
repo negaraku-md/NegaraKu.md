@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "appoint-resign-director" }
 related: ["disclosure-of-interest", "director-shareholding-notification", "appoint-resign-director", "remove-a-director", "loans-to-directors", "directors-fees-approval", "directors-report", "register-of-directors"]
 keywords: ["directors duties Malaysia", "section 213 Companies Act 2016", "director personal liability Malaysia", "business judgment rule Malaysia", "tanggungjawab pengarah syarikat", "shadow director Malaysia", "director fine RM3 million"]
+framework: rules
 ---
 
 The fine is three million ringgit and the sentence is five years. Not against the

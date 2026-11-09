@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "unfair-dismissal-malaysia" }
 related: ["termination-of-employment-malaysia", "unfair-dismissal-malaysia", "termination-benefits-malaysia"]
 keywords: ["domestic inquiry malaysia", "DI procedure malaysia", "show cause letter malaysia", "suspension pending inquiry", "section 14 employment act", "misconduct dismissal malaysia"]
+framework: how-to
 ---
 
 大多数马来西亚人力资源指南只用一句话打发内部调查（domestic inquiry，DI）：「因不当行为解雇前，先办一场 DI。」雇主输掉案件，正是输在这句话上。调查不是为已作出的决定补上的一个勾选项——它是雇主数月之后要在劳资法庭上据以站稳的证据基础，而它败在程序上的次数，远多于败在事实上。

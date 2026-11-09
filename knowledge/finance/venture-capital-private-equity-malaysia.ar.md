@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "equity-crowdfunding-p2p-malaysia" }
 related: ["kl20-startup-ecosystem", "securities-commission-malaysia"]
 keywords: ["رأس المال الجريء ماليزيا", "venture capital malaysia", "الأسهم الخاصة ماليزيا", "private equity malaysia", "VCC VCMC malaysia", "تسجيل هيئة الأوراق المالية", "SC registration venture capital", "جمع تمويل شركة ناشئة ماليزيا", "raise funding startup malaysia", "MAVCAP", "Penjana Kapital", "الحافز الضريبي لرأس المال الجريء", "VC tax incentive malaysia"]
+framework: explainer
 ---
 
 تنمو معظم الشركات الماليزية على الأرباح المحتجَزة، أو السحب على المكشوف المصرفي، أو قرض للمنشآت الصغيرة والمتوسطة (SME). أما مجموعة صغيرة لكن مهمّة فتنمو على حقوق ملكية شخص آخر بدلاً من ذلك — صندوق يشتري شريحة من الأعمال، ويدفعها إلى التوسّع، ويبيع الشريحة بعد سنوات بأضعاف. وهذا ما يفعله رأس المال الجريء والأسهم الخاصة، وماليزيا تنظّم هذا النشاط وتموّله وتفرض عليه الضريبة بطرق تفاجئ من يفترضون أنه يعمل كما في الولايات المتحدة.

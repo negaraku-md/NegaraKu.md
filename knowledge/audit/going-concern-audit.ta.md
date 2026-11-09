@@ -71,6 +71,7 @@ relations:
   - { rel: "affects", to: "audit-opinion-types" }
 related: ["statutory-audit-process", "audit-opinion-types", "emphasis-of-matter-kam", "audit-preparation-checklist"]
 keywords: ["going concern Malaysia audit", "material uncertainty related to going concern", "ISA 570 Malaysia", "management representation letter Malaysia", "ISA 580 written representations"]
+framework: explainer
 ---
 
 ஒரு மலேசிய தணிக்கையின் முடிவில் படிக்கப்படாமலேயே இரண்டு ஆவணங்கள்

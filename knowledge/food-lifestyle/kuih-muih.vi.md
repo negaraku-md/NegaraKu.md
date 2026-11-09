@@ -91,6 +91,7 @@ verificationNeeded:
   - "Nguồn gốc từ nguyên của 'kuih' (thường được truy về koé, 粿 trong tiếng Mân Nam / Phúc Kiến) — hãy xác nhận bằng nguồn ngôn ngữ học hoặc từ điển học thay vì truyền thông ẩm thực."
   - "Việc gán kuih ngọt so với kuih mặn cho các bang cụ thể theo vùng miền (ví dụ ngọt hơn ở các bang miền bắc, nhiều kuih mặn hơn ở miền trung và miền nam bán đảo) — do Wikipedia đưa tin nhưng đáng xác nhận với một nguồn di sản ẩm thực Malaysia."
   - "Liệu 'onde-onde' và 'buah melaka' có gọi chính xác cùng một loại kuih hay là các biến thể vùng miền — cách dùng khác nhau và các nguồn không hoàn toàn nhất quán; hãy xác nhận với một nguồn địa phương."
+framework: history-culture
 ---
 
 Đi ngang một quầy kuih vào buổi sáng và quầy trưng bày trông như một hộp màu:

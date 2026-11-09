@@ -93,6 +93,7 @@ keywords:
   - "section 46 Companies Act 2016"
   - "dirección comercial frente a domicilio registrado"
   - "business address vs registered office"
+framework: explainer
 ---
 
 Tres direcciones, y no son lo mismo.

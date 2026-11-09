@@ -83,6 +83,7 @@ social:
     - CommunityPharmacy
     - DoingBusinessInMalaysia
     - PoisonsAct
+framework: how-to
 ---
 
 Membuka apotek di Malaysia tidak sama seperti membuka toko biasa, dan sebabnya adalah satu keputusan desain tunggal dalam undang-undang: lisensi yang memperbolehkan apotek menjual obat terikat kepada seorang *individu* — seorang apoteker terdaftar — bukan kepada perusahaan atau toko. Anda boleh memiliki modal, lokasi, dan renovasi yang siap, tetapi sampai seorang apoteker yang berkualifikasi berdiri di balik lisensi, Anda hanya memiliki toko produk kesehatan, bukan apotek.

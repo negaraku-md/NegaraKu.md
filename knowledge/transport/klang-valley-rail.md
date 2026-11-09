@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["kuala-lumpur", "selangor"]
 keywords: ["Klang Valley rail", "Rapid KL", "MRT Kajang Line", "MRT Putrajaya Line", "LRT Kelana Jaya Line", "KL Monorail", "KTM Komuter", "Shah Alam Line", "LRT3", "KL Sentral", "getting around Kuala Lumpur without a car"]
+framework: explainer
 ---
 
 Look at a Klang Valley rail map for the first time and it reads like alphabet

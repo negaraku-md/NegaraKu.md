@@ -82,6 +82,7 @@ relations:
   - { rel: "part-of", to: "statutory-audit-process" }
 related: ["audit-opinion-types", "emphasis-of-matter-kam", "going-concern-audit", "statutory-audit-process", "appointing-an-auditor", "financial-statements-lodgement"]
 keywords: ["auditors report Malaysia", "independent auditors report sections", "AF number audit firm Malaysia", "audit partner approval number", "section 266 report to members", "how to read an audit report"]
+framework: explainer
 ---
 
 一份马来西亚审计师报告是格式固定的文件。MIA 刊载了示范——MFRS 框架用 AAPG 1，

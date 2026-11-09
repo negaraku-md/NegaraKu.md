@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "str-cash-aid" }
 related: ["i-saraan-epf-voluntary-contribution", "epf-socso-employees", "income-tax-individuals", "str-cash-aid"]
 keywords: ["i-Saraan", "i-Saraan Plus", "KWSP", "PERKESO", "Lindung Kendiri", "pekerja gig", "bekerja sendiri", "Akta Pekerja Gig 2025", "Akta 872", "SKSPS", "freelancer"]
+framework: explainer
 ---
 
 Habiskan hidup mengemudi e-hailing atau menerima pekerjaan freelance, dan satu hal tidak terjadi secara otomatis: tidak ada seorang pun memotong gaji Anda untuk KWSP atau PERKESO. Bagi karyawan tetap, iuran itu terjadi di balik layar setiap bulan. Bagi Anda yang bekerja mandiri, jaring pengaman itu tidak ada sampai Anda membangunnya sendiri — dan pada 2026, sebagian darinya baru saja berubah dari pilihan menjadi kewajiban.

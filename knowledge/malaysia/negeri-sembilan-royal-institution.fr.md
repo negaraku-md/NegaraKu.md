@@ -58,6 +58,7 @@ social:
 verificationNeeded:
   - "Le différend de succession de 2025-2026 est une affaire en développement avec des récits contradictoires ; le statut de l'Undang de Sungai Ujong, la déclaration de destitution du 19 avril 2026 et la proclamation rivale devraient être revérifiés auprès de sources officielles de l'État avant que tout détail ne soit considéré comme établi."
   - "La date exacte d'installation/proclamation de Tuanku Muhriz comme 11e Yang di-Pertuan Besar (communément donnée comme le 29 décembre 2008) devrait être confirmée auprès du portail royal de l'État."
+framework: history-culture
 ---
 
 Au cœur de la Malaisie péninsulaire se trouve un royaume qui enfreint toutes les règles de la monarchie malaise. Son souverain n'est pas né pour le trône mais choisi pour lui. Ses grandes familles font remonter leur descendance non par les pères mais par les mères. Et son nom même, Negeri Sembilan, l'« État des Neuf », se souvient non d'une seule maison royale mais d'une confédération de districts cousus ensemble à travers les collines de l'intérieur. Comprendre comment cette institution singulière vit le jour, c'est suivre une lignée de migrants minangkabau qui traversèrent le détroit de Malacca depuis Sumatra, emportèrent une coutume avec eux, et finirent par faire venir un prince pour les gouverner.

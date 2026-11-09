@@ -77,6 +77,7 @@ related:
   - "apam-balik"
 social:
   hashtags: ["#RavisApomManis", "#ApomManis", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 George Town-இல் Jalan Burma-வில், கிட்டத்தட்ட ஒரு நூற்றாண்டாக இனிப்பு அப்பங்களை

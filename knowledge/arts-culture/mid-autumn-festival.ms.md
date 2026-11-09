@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-new-year", "population-composition", "religion-statistics", "hungry-ghost-festival"]
 keywords: ["中秋节", "月饼节", "灯笼节", "月饼", "冰皮月饼", "灯笼", "嫦娥奔月", "赏月", "柚子", "团圆", "农历八月十五", "马来西亚华人", "Mid-Autumn Festival Malaysia", "Mooncake Festival"]
+framework: history-culture
 ---
 
 Menjelang malam hari kelima belas bulan kelapan kalendar lunar, atrium pusat membeli-belah dihiasi tanglung merah menyala, dan di taman kawasan kediaman, kanak-kanak berdua-dua bertiga berjalan ke sana ke mari membawa tanglung yang dinyalakan. Di meja makan rumah, sekotak kuih bulan yang dipotong kecil-kecil ditemani secerek teh panas, dengan sebiji limau bali yang sudah dikupas di sebelahnya. Satu keluarga membawa kerusi keluar rumah, mendongak menatap bulan paling bulat dalam setahun — inilah malam Pertengahan Musim Luruh yang tipikal dalam keluarga Cina Malaysia.

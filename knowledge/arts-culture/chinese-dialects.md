@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "peranakan" }
 related: ["population-composition", "tamil-in-malaysia", "peranakan", "chinese-new-year", "article-152-language"]
 keywords: ["马来西亚华人方言", "福建话", "广东话", "客家话", "潮州话", "海南话", "福州话", "方言群", "槟城福建话", "诗巫福州", "沙巴客家"]
+framework: explainer
 ---
 
 在槟城的咖啡店，你用福建话喊一杯 kopi；到了吉隆坡与怡保，同一杯咖啡换成广东话；再往砂拉越的诗巫去，招呼你的很可能是福州话。三处的人都是华人，说的却是三种互不相通的话。

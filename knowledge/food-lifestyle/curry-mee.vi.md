@@ -91,6 +91,7 @@ verificationNeeded:
   - "Tuyên bố rằng Penang dùng 'curry mee' cốt để tránh nhầm với asam laksa — đây là cách giải thích được lặp lại nhiều trên truyền thông ẩm thực chứ không phải một từ nguyên có tư liệu; hãy xác minh với một nguồn ngôn ngữ học hoặc di sản."
   - "Mối quan hệ giữa 'curry mee' của KL/miền trung với 'curry Hokkien mee' / Hokkien mee của Penang — cách gọi tên và việc chúng có phải cùng một tô hay không thay đổi theo từng địa phương; hãy xác minh với một nguồn địa phương."
   - "Liệu nước cốt dừa (santan) có thiết yếu cho mọi tô curry mee hay không — một số phiên bản Penang được mô tả là loãng hơn và ít béo hơn ('curry mee trắng'); hãy xác minh phạm vi này với một nguồn ẩm thực Penang."
+framework: explainer
 ---
 
 Gọi "curry mee" ở George Town, bạn sẽ nhận được một tô mì cốt dừa dịu nhẹ, thơm

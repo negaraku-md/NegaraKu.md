@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "chinese-religion-in-malaysia" }
 related: ["chinese-religion-in-malaysia", "buddhism-in-malaysia", "hungry-ghost-festival", "religion-statistics"]
 keywords: ["九皇爷诞", "九皇大帝", "九皇胜会", "斗母元君", "食斋", "斋戒", "请水", "送驾", "过火", "安邦南天宫", "香港巷斗母宫", "Nine Emperor Gods Festival", "Kaw Ong Ya"]
+framework: history-culture
 ---
 
 旧暦九月一日の前夜、白衣をまとい腰に黄色の帯を締めた信者の一列が、清らかな線香を手に廟から次々と出て、最も近い川辺や海辺へと向かう。前には鉦と太鼓、後ろには線香の煙――彼らは「請水」「迎駕」のため、九皇大帝を廟へ迎えに行くのだ。続く九日間、廟の中では香火が絶えず、廟の外では精進料理の香りが漂う。そして九日の夜には、同じ行列が再び水辺に並び、神を送り届ける。

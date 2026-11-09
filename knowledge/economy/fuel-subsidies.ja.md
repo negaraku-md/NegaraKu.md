@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["program-rahmah-cost-of-living", "cost-of-living-overview", "inflation-cpi", "ringgit", "gdp-overview"]
 keywords: ["subsidi bahan api Malaysia", "Mekanisme Harga Automatik", "APM harga minyak", "BUDI95", "BUDI Diesel", "subsidi bersasar", "harga RON95", "SKDS SKPS"]
+framework: explainer
 ---
 
 2026年7月23日から29日の週、二人のドライバーが同じ給油所の同じポンプに立ち、同じ燃料を入れながら、支払う価格がほぼ二倍近く異なるということが起こり得る。一人は1リットルRM1.99を支払う。もう一人はRM3.62を支払う。

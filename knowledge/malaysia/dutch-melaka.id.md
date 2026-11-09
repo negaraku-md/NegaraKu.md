@@ -74,6 +74,7 @@ faq:
     a: Karena VOC sudah memiliki ibu kota regional yang dibangun khusus di Batavia (Jakarta), didirikan jauh sebelum 1641, dan tidak pernah berniat membuat Melaka bersaing dengan markas besarnya sendiri. Prioritas perusahaan adalah mencegah kekuatan Eropa pesaing mengakses pelabuhan dan selatnya, bukan membangun pusat perdagangan tandingan. Kuota timah dialihkan ke Batavia, para gubernur Melaka ditolak keleluasaan dagang yang lebih besar, dan pelabuhan itu dipertahankan sebagai kota garnisun dan administrasi yang subordinat.
   - q: Apakah Melaka berpindah dari Belanda ke Inggris dalam satu serah terima yang mulus?
     a: Tidak. Secara administratif ia berpindah tangan empat kali dalam tiga puluh tahun. Inggris menduduki Melaka pada 1795 di bawah Surat-Surat Kew (Kew Letters) untuk mencegahnya jatuh ke tangan Prancis, Melaka dikembalikan kepada Belanda pada 1818, Perjanjian Inggris-Belanda 1824 (ditandatangani 17 Maret 1824) menyerahkannya secara permanen kepada Inggris sebagai ganti Bencoolen di Sumatra, dan pengalihan yang sesungguhnya berlaku pada 1 Maret 1825.
+framework: history-culture
 ---
 
 Sebuah perusahaan menghabiskan tujuh bulan dan sebuah aliansi dengan sebuah kesultanan asing untuk menaklukkan sebuah pelabuhan. Kemudian ia menghabiskan satu setengah abad berikutnya memastikan pelabuhan itu tidak pernah menjadi kaya.

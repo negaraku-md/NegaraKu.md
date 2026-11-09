@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["tamil-in-malaysia", "deepavali", "thaipusam"]
 keywords: ["Bharatanatyam", "Indian classical dance Malaysia", "Temple of Fine Arts", "Sutra Dance Theatre", "Ramli Ibrahim", "Malaysian Indian dance", "nritta nritya", "Carnatic music", "Malaysia Barathanatyam Dance Association"]
+framework: history-culture
 ---
 
 एक नर्तकी के पैर एक तीव्र, सटीक पैटर्न में फ़र्श पर प्रहार करते हैं। घंटियाँ mridangam ढोल की थाप के साथ ताल में बजती हैं। उसके हाथ एक आकार बनाते हैं — एक हिरण, एक कमल, एक प्रश्न — और उसकी आँखें उसका अनुसरण करती हैं, इससे पहले कि उसका चेहरा एक ऐसे भाव से उत्तर दे जिसे दर्शक केवल देखें नहीं, बल्कि महसूस करें। फिर लय का समाधान होता है, वह एक मूर्तिवत मुद्रा धारण करती है, और संगीत मौन में गिर जाता है।

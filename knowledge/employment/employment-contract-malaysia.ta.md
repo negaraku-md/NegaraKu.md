@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "non-compete-clause-malaysia" }
 related: ["employment-act-coverage", "termination-of-employment-malaysia", "stamp-duty-employment-contracts"]
 keywords: ["employment contract malaysia", "contract of service malaysia", "section 10 employment act", "notice period clause malaysia", "unenforceable clause employment contract"]
+framework: rules
 ---
 
 ஒப்பந்தம் என்பது சட்டம் அல்ல. அது சட்டத்திற்கு உள்ளே இயங்கும் ஒரு ஆவணம், மேலும்

@@ -95,6 +95,7 @@ relations:
   - { rel: "governs", to: "personal-data-protection-act-2010" }
 related: ["pdpa-compliance-malaysia", "online-business-licence-malaysia"]
 keywords: ["data protection officer malaysia", "dpo malaysia", "section 12a pdpa", "pdpa dpo threshold", "appoint dpo malaysia"]
+framework: rules
 ---
 
 多くのマレーシア企業は、DPOの閾値を読み、「20,000名のデータ主体」という文言を目にすると、自分たちには縁のない話だと判断して、そこで読むのをやめてしまう。第三の分岐はそのすぐ下の一行にあり、そこには数字がまったく含まれておらず、コミッショナー自身が示す実例は、商品を推薦するオンラインショップである。

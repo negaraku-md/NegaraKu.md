@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "double-deduction-list" }
 related: ["double-deduction-list", "corporate-tax-rates", "losses-and-group-relief"]
 keywords: ["elaun pelaburan semula Malaysia", "Jadual 7A projek layak", "RA 60% perbelanjaan modal", "elaun pelaburan semula 15 tahun", "tuntutan RA ditolak audit"]
+framework: rules
 ---
 
 Elaun pelaburan semula lebih kerap gagal semasa audit berbanding ditolak pada

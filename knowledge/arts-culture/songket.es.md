@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["batik", "wayang-kulit"]
 keywords: ["songket", "tejido songket", "kek tenun", "hilo de oro", "songket Terengganu", "songket Kelantan"]
+framework: history-culture
 ---
 
 El sonido que más se oye en un taller de songket no es el de una máquina. Es el de la madera que se presiona, el del hilo que se tira y el de una púa de bambú que se desliza hacia dentro y se saca, una y otra vez, una fila de dibujo cada vez, todo el día.

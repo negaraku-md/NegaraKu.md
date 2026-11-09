@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "jpj" }
 related: []
 keywords: ["e-hailing Malaysia", "Grab regulation Malaysia", "PSV licence e-hailing", "APAD e-hailing vehicle permit", "how does Grab work Malaysia", "e-hailing driver licence Malaysia"]
+framework: explainer
 ---
 
 เปิด Grab หรือ Bolt หรือ inDrive ในกัวลาลัมเปอร์แล้วแตะ "จอง" ไม่มีอะไรในช่วงเวลานั้นที่รู้สึกว่ามีการกำกับดูแล แต่รถที่มารับยืนอยู่บนใบอนุญาตสามใบที่แยกจากกันซึ่งต้องมีอยู่ก่อนที่ผู้ขับขี่ของคุณจะสามารถรับค่าโดยสารของคุณได้อย่างถูกกฎหมาย — และไม่มีใบใดเป็นของแอปเพียงอย่างเดียว

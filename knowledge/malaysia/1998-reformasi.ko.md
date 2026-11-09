@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["new-economic-policy", "13-may-1969", "independence-1957", "formation-of-malaysia-1963", "federal-constitution"]
 keywords: ["1998 Malaysia", "Asian Financial Crisis Malaysia", "capital controls", "ringgit peg RM3.80", "selective exchange controls", "Reformasi", "Anwar Ibrahim 1998", "National Economic Recovery Plan", "Danaharta", "Danamodal", "managed float 2005"]
+framework: history-culture
 ---
 
 1998년 9월의 단 한 주 동안, 말레이시아(Malaysia)는 각각 수년간 논쟁의 대상이 될 두 가지 일을 했습니다. 말레이시아는 자국 통화의 역외 시장을 폐쇄하고 링깃을 미국 달러에 고정하였는데 — 이는 국제통화기금(IMF)이 이 지역에 촉구하던 정통 노선과의 결별이었습니다. 그리고 부총리이자 재무장관이던 인물을 해임하여, 개혁운동(Reformasi)이라는 이름을 얻은 시위를 촉발하였습니다.

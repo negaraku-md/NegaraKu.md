@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "income-tax" }
 related: ["tax-audit"]
 keywords: ["siasatan cukai", "tax investigation", "कर जाँच मलेशिया", "LHDN", "Seksyen 114", "धारा 114", "pengelakan cukai", "कर-चोरी", "rangka kerja siasatan cukai", "audit cukai"]
+framework: explainer
 ---
 
 जब LHDN का आने वाला पत्र अब सहायक दस्तावेज़ नहीं माँगता बल्कि आपको सूचित करता है कि आपके परिसर की जाँच की जाएगी, तो हो सकता है कि आप लेखापरीक्षा और जाँच के बीच की रेखा पहले ही पार कर चुके हों। दोनों में अंतर्देशीय राजस्व बोर्ड (LHDN) शामिल है, पर इनमें से केवल एक ही आपराधिक न्यायालय में अभियोजन तक ले जा सकती है।

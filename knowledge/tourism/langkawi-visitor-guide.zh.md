@@ -104,6 +104,7 @@ relations:
   - { rel: "administered-by", to: "lembaga-pembangunan-langkawi" }
 related: ["kedah"]
 keywords: ["Langkawi", "duty-free island", "UNESCO Global Geopark", "SkyCab", "SkyBridge", "island hopping", "Kilim", "Dayang Bunting", "Andaman Sea", "Kedah"]
+framework: profile
 ---
 
 99座岛屿、比鱼类还古老的岩石、廉价威士忌，以及一座悬挂在由估计逾5.5亿年历史岩石构成的山侧的缆车——浮罗交怡在马来西亚西北端外海的这一个群岛里，塞进了异乎寻常之多的内容。它是这个国家旗舰级的西海岸度假岛屿，运作逻辑几乎与半岛另一侧那些棕榈环绕的潜水岛屿相反。本指南涵盖出发前真正要紧的事项：让人栽跟头的免税规则、为风景提供背景故事的联合国教科文组织地质公园、天空缆车与天空之桥、值得一去的船游，以及如何在浮罗交怡与东海岸之间抉择。

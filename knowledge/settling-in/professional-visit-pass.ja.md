@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "work-passes-malaysia", "dependant-social-visit-passes", "imigresen"]
 keywords: ["professional visit pass malaysia", "pvp malaysia", "pvp vs employment pass", "esd professional visit pass", "myxpats pvp", "foreign expert pass malaysia", "expert transfer pass malaysia", "short term work pass malaysia"]
+framework: explainer
 ---
 
 二人の外国人が、マレーシアの同じオフィスの同じ机に並んで座り、同じ仕事をしていながら、まったく異なる法的立場に置かれることがある。一人はエンプロイメントパスで、マレーシア企業から給与を受け取り、年ごとに更新できる。もう一人は専門訪問パス（Professional Visit Pass、PVP）で——給与は依然として自分を派遣した企業から支払われ、時計は12か月を刻み、それを超える更新はない。移民局が見ているのは二人の従業員ではない。雇用主と一人の客人（ゲスト）である。

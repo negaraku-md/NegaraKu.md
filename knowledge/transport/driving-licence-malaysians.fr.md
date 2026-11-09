@@ -73,6 +73,7 @@ keywords:
   - "CDL lesen memandu kompeten"
   - "ujian JPJ KPP"
   - "sistem KEJARA mata demerit"
+framework: explainer
 ---
 
 La plupart des gens considèrent le « permis de conduire » comme un document

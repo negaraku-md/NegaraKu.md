@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "unaudited-financial-statements" }
 related: ["companies-act-2016"]
 keywords: ["pengecualian audit", "audit exemption", "PD 10/2024", "Arahan Amalan 10/2024", "Sdn Bhd", "syarikat persendirian", "SSM", "seksyen 267", "penyata kewangan tidak diaudit"]
+framework: rules
 ---
 
 Durante años, a casi cada Sdn Bhd de Malasia se le obligaba a nombrar un auditor — independientemente de si se trataba de una tienda minorista de una sola persona o de una fábrica. A finales de 2023 había 666,767 empresas activas pero solo 1,919 auditores aprobados para dar el visto bueno a sus cuentas. La Directiva de Práctica 10/2024 de SSM cambia eso: desde el ejercicio financiero 2025, cientos de miles de pequeñas empresas pueden saltarse por completo la auditoría legal — si cumplen los criterios.

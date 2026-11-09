@@ -79,6 +79,7 @@ verificationNeeded:
   - "Ngày thành lập ASAS 50: đa số nguồn nêu ngày 6 tháng 8 năm 1950, nhưng có báo cáo nêu rằng quá trình hình thành của nó bắt đầu sớm nhất từ năm 1947"
   - "Tác giả và niên đại thật sự của các tác phẩm cổ điển như Hikayat Hang Tuah vẫn chưa thể xác định chính xác (ước tính thế kỷ 15 đến 17)"
   - "Năm trao giải cho A. Samad Said được ghi là 1985 trong danh sách chính nhưng 1986 trong hộp điều hướng của cùng nguồn — được xác nhận là 1985"
+framework: history-culture
 ---
 
 Trong một bản thảo cổ, khắc ghi câu chuyện về các vị vua của Melaka, hành trình của Hang Tuah, và sự sụp đổ của một đế chế — không phải như một ghi chép lịch sử khô khan, mà như một câu chuyện sống động với nhân vật, đối thoại và văn chương. Bản thảo đó, *Sejarah Melayu* hay *Sulalatus Salatin*, là một trong những tác phẩm sớm nhất chứng minh truyền thống chữ nghĩa của tiếng Mã Lai dài lâu và phong phú đến nhường nào.

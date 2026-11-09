@@ -77,6 +77,7 @@ related:
   - "apam-balik"
 social:
   hashtags: ["#RavisApomManis", "#ApomManis", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 En Jalan Burma, en George Town, un puesto que lleva casi un siglo cociendo crepes

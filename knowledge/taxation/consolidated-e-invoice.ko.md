@@ -85,6 +85,7 @@ relations:
   - { rel: "explained-in", to: "myinvois-phases" }
 related: ["e-invoicing", "myinvois-phases", "self-billed-e-invoice", "e-invoice-data-fields", "myinvois-integration"]
 keywords: ["consolidated e-Invoice", "e-invois disatukan", "RM10000 e-Invoice rule", "consolidated e-Invoice deadline", "General Public EI00000000010", "industries cannot consolidate e-Invoice"]
+framework: explainer
 ---
 
 통합은 마막(mamak), 미니마트, 진료소가 전자송장 발행을 감당할 수 있게 만드는 완화 조치입니다. 또한 RM10,000 기준점, 업종, 또는 월 29일에 정식 송장을 요청하는 단 한 명의 고객에 의해 발밑에서 가장 쉽게 철회될 수 있는 완화 조치이기도 합니다.

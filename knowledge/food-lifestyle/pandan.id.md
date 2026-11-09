@@ -92,6 +92,7 @@ verificationNeeded:
   - "Label 'vanila Asia Tenggara' adalah kerangka kuliner yang populer, bukan hubungan botani (pandan dan vanila adalah tanaman yang tidak berkaitan); konfirmasikan kata-katanya terhadap rujukan botani atau kuliner jika presisi penting."
   - "Asal usul kue pandan / chiffon pandan (dikaitkan secara beragam dengan pembuatan kue Hindia Belanda dan dengan kue chiffon Amerika abad ke-20 melalui CNN) — konfirmasikan dengan sumber sejarah kuliner, bukan media berita atau resep."
   - "Khasiat kesehatan atau pengobatan pandan yang umum disebut — banyak klaim rakyat beredar dan belum ditetapkan di sini; konfirmasikan setiap klaim semacam itu terhadap sumber yang ditelaah sejawat atau klinis sebelum menyatakannya."
+framework: explainer
 ---
 
 Angkat tutup panci nasi santan di dapur Malaysia dan hal pertama yang Anda sadari bukanlah nasinya

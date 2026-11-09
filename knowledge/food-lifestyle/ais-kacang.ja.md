@@ -96,6 +96,7 @@ social:
     - "#MalaysianDessert"
     - "#ShavedIce"
     - "#PasarMalam"
+framework: explainer
 ---
 
 マレーシアの暑い午後、氷を削る機械のうなりほど人を集めるものはほとんどありません。

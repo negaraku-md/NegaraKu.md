@@ -101,6 +101,7 @@ verificationNeeded:
   - "Đề xuất được đưa tin năm 2025 về việc xin UNESCO công nhận truyền thống open house của Malaysia — hãy xác nhận tình trạng hiện tại và liệu đã có đề cử nào được thực hiện hay chưa."
   - "Các bản tin cho rằng, như một biện pháp tiết kiệm chi phí, các bộ, cơ quan liên bang và các doanh nghiệp liên kết với chính phủ sẽ không tổ chức open house Hari Raya chính thức vào năm 2026 — điều này đến từ một nguồn duy nhất; hãy đối chiếu với tuyên bố chính thức của chính phủ trước khi dựa vào đó."
   - "Ngày nghỉ lễ chính xác của Kaamatan (thường là 30-31 tháng 5 ở Sabah) và Gawai Dayak (thường là 1-2 tháng 6 ở Sarawak), cùng việc quy gán các món cụ thể cho nhiều tiểu nhóm Dayak và Kadazan-Dusun; hãy xác nhận với nguồn của bang hoặc cơ quan văn hóa Sabah/Sarawak."
+framework: history-culture
 ---
 
 Ở nhiều quốc gia, một lễ hội thuộc về những người ăn mừng nó. Ở Malaysia, nó có xu hướng

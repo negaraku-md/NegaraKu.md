@@ -120,6 +120,7 @@ keywords:
   - "Johor Bahru premise licence fee"
   - "JS-SEZ Johor Bahru"
   - "foreign property purchase Johor"
+framework: profile
 ---
 
 ジョホールバルは、賃金の底値、人員計画、そして納期の窓がすべて、あなたが事業を

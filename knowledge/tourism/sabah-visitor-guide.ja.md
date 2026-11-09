@@ -93,6 +93,7 @@ relations:
   - { rel: "part-of", to: "malaysia-agreement-1963" }
 related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
 keywords: ["Sabah travel guide", "Kota Kinabalu", "Mount Kinabalu climb permit", "Kinabalu Park UNESCO", "Sipadan diving permit", "Sepilok orangutan", "Sabah immigration checkpoint", "Sabah entry requirements"]
+framework: explainer
 ---
 
 クアラルンプールからコタキナバルへは国境を越えることなく飛ぶことができるが、それでも着陸時には入境カウンターで列に並ぶことになる。この意外な事実は、多くの初めての訪問者を戸惑わせる——そしてこれこそが、サバ州への旅を計画する前に理解しておくべき最も重要な一点である。本ガイドでは、玄関口となる都市、目玉となる見どころ、そしてサバ州をあたかも独自の土地であるかのように感じさせる入境規則を順を追って見ていく。というのも、ある非常に現実的な意味において、サバ州はまさにそうだからである。

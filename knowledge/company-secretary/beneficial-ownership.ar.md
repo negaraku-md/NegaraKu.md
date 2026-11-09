@@ -140,6 +140,7 @@ relations:
   - { rel: "related-to", to: "annual-return" }
 related: ["who-is-a-beneficial-owner", "ebos-filing", "bo-register", "bo-non-cooperation", "ebos", "annual-return", "statutory-registers"]
 keywords: ["المالك المنتفِع ماليزيا", "beneficial ownership Malaysia", "الباب 8A قانون الشركات 2016", "Division 8A Companies Act 2016", "e-BOS SSM", "سجلّ المالكين المنتفِعين", "register of beneficial owners", "الموعد النهائي للمالك المنتفِع ماليزيا"]
+framework: rules
 ---
 
 تعتقد معظم الشركات الماليزية أنها فرغت من موضوع المالك المنتفِع في عام 2024. فقد

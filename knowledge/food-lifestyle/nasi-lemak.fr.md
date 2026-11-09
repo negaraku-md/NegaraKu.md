@@ -97,6 +97,7 @@ verificationNeeded:
   - "Les premières références écrites au plat — le dictionnaire français–malais de Pierre-Étienne-Lazare Favre de 1875 et The Circumstances of Malay Life de Richard Olaf Winstedt (1909, p. 62). Elles sont citées via Wikipedia ; il convient de confirmer la formulation d'origine exacte (et si le terme « nasi lemak » lui-même apparaît, ou s'il s'agit seulement d'une description de riz bouilli dans du lait de coco) en la confrontant aux textes primaires."
   - "L'affirmation précise selon laquelle le nasi lemak, le roti canai et le teh tarik auraient été inscrits au Journal officiel comme patrimoine national en vertu de la National Heritage Act 2005 en 2022 — vérifiez le Journal et l'année exacts auprès du Département du patrimoine national (Jabatan Warisan Negara) de la Malaisie."
   - "Le récit d'origine de la jeune fille de Malacca « Seri » / « Nasi le, mak » relève du folklore, et non d'une histoire documentée, et ne devrait être présenté que comme une légende."
+framework: explainer
 ---
 
 Avant même que le soleil ne soit tout à fait levé, l'odeur atteint la rue la première :

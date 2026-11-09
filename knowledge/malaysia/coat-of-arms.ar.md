@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "nine-royal-houses" }
 related: ["jalur-gemilang", "negaraku-anthem", "nine-royal-houses"]
 keywords: ["Jata Negara", "شعار ماليزيا الوطني", "Bersekutu Bertambah Mutu", "معنى جاتا نيغارا", "النمران حاملا الدرع", "خمسة نصال كريس", "Bunga Raya", "الهلال والنجمة ذات الأربعة عشر رأساً", "Malaysia coat of arms"]
+framework: explainer
 ---
 
 # جاتا نيغارا: قراءة شعار ماليزيا الوطني، عنصراً عنصراً

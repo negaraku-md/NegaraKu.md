@@ -87,6 +87,7 @@ faq:
     a: Tidak. Rencana Malaysia disampaikan dan disahkan sebagai mosi kebijakan untuk diperdebatkan di Parlemen, bukan sebagai rancangan undang-undang. Sebaliknya, Anggaran harus melalui Rancangan Undang-Undang Perbekalan (Supply Bill) yang menempuh seluruh proses legislasi sebelum diundangkan sebagai Undang-Undang Perbekalan (Supply Act). Sebagai contoh, Rencana Malaysia ke-13 (RMK13) disampaikan sebagai mosi di Dewan Rakyat pada 31 Juli 2025 dan di Dewan Negara pada 25 Agustus 2025.
   - q: Apakah seluruh RM611 miliar RMK13 berasal dari uang Pemerintah?
     a: Tidak. Dari sedikitnya RM611 miliar investasi RMK13, hanya RM430 miliar yang merupakan alokasi pembangunan Pemerintah. Sisanya berasal dari RM120 miliar investasi langsung dalam negeri oleh Perusahaan Terkait Pemerintah (GLC) dan Perusahaan Investasi Terkait Pemerintah (GLIC), serta RM61 miliar melalui skema kemitraan pemerintah-swasta (PPP).
+framework: explainer
 ---
 
 Pada 31 Juli 2025, Perdana Menteri menyampaikan di Dewan Rakyat satu usul

@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "hinduism-in-malaysia" }
 related: ["hinduism-in-malaysia", "deepavali", "thaipusam", "pongal", "mariamman-worship", "hindu-temple-architecture"]
 keywords: ["நவராத்திரி", "Navaratri", "Navratri", "கொலு", "Golu", "விஜயதசமி", "சரஸ்வதி பூஜை", "ஆயுத பூஜை", "வித்யாரம்பம்", "மலேசியா நவராத்திரி", "கர்பா தாண்டியா"]
+framework: history-culture
 ---
 
 During Navaratri, along one side wall of the reception room of a Malaysian Tamil Hindu home, steps are raised in an odd number. On these cloth-covered steps, deity figurines and dolls that recount scenes from the myths are arranged in rows. In the evening, relatives and neighbours come to view the **Golu**; songs ring out; and departing guests are given thamboolam and sweets. This is not a one-day event — it is the hallmark of a festival that stretches across nine nights.

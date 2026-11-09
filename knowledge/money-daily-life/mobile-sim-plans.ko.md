@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["moving-to-malaysia-first-steps", "mykad", "imigresen"]
 keywords: ["mobile sim malaysia", "prepaid sim registration malaysia", "MCMC sim registration", "postpaid vs prepaid malaysia", "buy sim card malaysia foreigner", "CelcomDigi Maxis U Mobile"]
+framework: explainer
 ---
 
 말레이시아의 어느 휴대폰 가게든 들어가 SIM 카드 값을 현금으로 건네도, 직원은 그것을 쓰기 전에 당신을 멈춰 세울 것입니다. 그들은 당신의 MyKad — 시민이 아니라면 원본 여권 — 를 봐야 합니다. 그 단계를 건너뛰면 회선은 그저 활성화되지 않습니다. 이것은 가게 방침이 아니라 통신 규제자가 집행하는 국가 규칙이며, 연결에 관한 거의 어떤 것보다도 새 입국자를 자주 걸려 넘어지게 합니다.

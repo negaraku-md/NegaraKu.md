@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
 related: ["federal-constitution"]
 keywords: ["native customary rights", "NCR", "Sarawak Land Code", "Sabah Land Ordinance", "native title", "temuda", "pemakai menoa", "East Malaysia land law"]
+framework: explainer
 ---
 
 கோலாலம்பூரில் (Kuala Lumpur) ஒரு வீட்டை வாங்குங்கள் — உங்கள் உரிமையை ஒரே ஒரு கூட்டரசு சட்டம் ஆளும். அதையே கூச்சிங்கிலோ (Kuching) அல்லது கோட்டா கினபாலுவிலோ (Kota Kinabalu) செய்யுங்கள் — முற்றிலும் வேறுபட்ட ஒரு சட்ட உலகத்திற்குள் நீங்கள் அடியெடுத்து வைக்கிறீர்கள்: தனக்கே உரிய ஆணைகள், தனக்கே உரிய நில வகைகள், மற்றும் எந்தத் தாளும் உருவாக்காத ஒரு வகை உடைமை — பூர்வீக வழக்காற்று உரிமைகள் (Native Customary Rights).

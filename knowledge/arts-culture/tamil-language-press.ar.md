@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "estate-tamil-community", "tamil-vernacular-schools", "chinese-language-press", "languages-spoken"]
 keywords: ["மலேசியத் தமிழ்ப் பத்திரிகைகள்", "தமிழ் நாளிதழ்கள் மலேசியா", "மலேசிய நண்பன்", "மக்கள் ஓசை", "தமிழ் நேசன்", "மின்னல் FM", "Tamil-language press in Malaysia", "Tamil newspapers Malaysia"]
+framework: history-culture
 ---
 
 صحيفة تاميلية إلى جانب قهوة الصباح أو الشاي في دكان الزاوية — بالنسبة إلى جيل من المجتمع التاميلي الماليزي، كان هذا مشهدًا مألوفًا. لم تكن تلك الصفحات تحمل أخبار اليوم فحسب، بل إعلانات أعياد المعابد، وأخبار المدارس التاميلية، وتهاني الأعراس، ونعوات الوفاة، ومراجعات الأفلام التاميلية — حياة مجتمع بأسرها اليومية مطبوعة على الورق.

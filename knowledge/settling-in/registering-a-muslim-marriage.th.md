@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "registering-a-civil-marriage" }
 related: ["registering-a-marriage-civil", "syariah-court-system"]
 keywords: ["muslim marriage malaysia", "nikah registration", "SPPIM", "wali hakim", "kursus pra perkahwinan", "akad nikah", "syariah court marriage", "islamic family law act 303"]
+framework: how-to
 ---
 
 สองคนพร้อมจะสมรส ครอบครัวได้พบกันแล้ว และกำหนดวันแล้ว — แต่ในมาเลเซีย การสมรสของมุสลิมไม่กลายเป็นการสมรสที่จดทะเบียนจนกว่าจะผ่านกระบวนการเชิงบริหารและทางศาสนาที่กำหนดซึ่งดำเนินการโดยรัฐ ศาสนาอิสลามเป็นเรื่องของรัฐภายใต้รัฐธรรมนูญสหพันธ์ ดังนั้นแต่ละรัฐและดินแดนสหพันธ์จึงมีบทบัญญัติกฎหมายครอบครัวอิสลามของตนเองและกรมศาสนาอิสลามของรัฐของตนเอง (Jabatan Agama Islam Negeri) ขั้นตอนด้านล่างคล้ายกันอย่างกว้าง ๆ ทั่วประเทศ; กฎหมายของดินแดนสหพันธ์ พระราชบัญญัติกฎหมายครอบครัวอิสลาม (ดินแดนสหพันธ์) 1984 (Act 303) ใช้ที่นี่สำหรับการอ้างอิงตามกฎหมายที่แน่นอน

@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "sector-licence-directory" }
 related: ["sector-licence-directory", "manufacturing-licence-malaysia"]
 keywords: ["anti-dumping duty malaysia", "countervailing duty malaysia", "act 504", "miti trade remedies", "anti dumping steel malaysia", "import hs code duty malaysia", "trade remedies petition malaysia"]
+framework: how-to
 ---
 
 한 수입업자가 베트남산 아연도금 강판 코일 화물을 통관하고 통상적인 수입 관세를

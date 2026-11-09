@@ -150,6 +150,7 @@ relations:
   - { rel: "related-to", to: "retrenchment-malaysia" }
 related: ["labour-law-map-malaysia", "domestic-inquiry-malaysia", "unfair-dismissal-malaysia", "retrenchment-malaysia", "termination-benefits-malaysia", "offboarding-statutory-checklist"]
 keywords: ["termination of employment malaysia", "notice period malaysia", "at will employment malaysia", "payment in lieu of notice", "just cause or excuse", "final salary after resignation malaysia", "section 12 employment act"]
+framework: rules
 ---
 
 쿠알라룸푸르(Kuala Lumpur)의 한 고용주가 월요일에 어느 관리자가 맞지 않는다고 결정합니다. 다른 나라의 법률 자문이라면 예고 조항을 물었을 것입니다. 말레이시아에서는 첫 번째 질문이 다르며, 그것이 사건을 결정합니다. **사유가 무엇이며, 그것을 입증할 수 있는가?**

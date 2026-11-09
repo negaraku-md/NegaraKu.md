@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-digital-services", "cp37-forms"]
 keywords: ["failure to withhold tax Malaysia", "section 39(1)(j)", "withholding tax penalty Malaysia", "10 percent increase withholding tax", "section 113(2) penalty"]
+framework: explainer
 ---
 
 தவறவிடப்பட்ட RM5,000 நிறுத்திவைப்பு வரிக்கு RM5,000 மட்டும் செலவாகாது. அது

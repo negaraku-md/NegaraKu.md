@@ -88,6 +88,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage", "minimum-wage-malaysia"]
 keywords: ["overtime pay malaysia", "overtime rate malaysia", "45 hour week malaysia", "rest day pay malaysia", "public holiday pay malaysia", "104 hours overtime"]
+framework: rules
 ---
 
 คู่มือค่าล่วงเวลาส่วนใหญ่หยุดที่ "1.5 เท่าปกติ 2 เท่าวันหยุดประจำสัปดาห์ 3 เท่าวันหยุดนักขัตฤกษ์" คำย่อนั้นผิดในเรื่องวันหยุดประจำสัปดาห์และวันหยุดนักขัตฤกษ์ และมันละเว้นสิ่งที่เจ้าพนักงานแรงงานออกหนังสือแจ้งจริง ๆ: **กำหนดเวลาในการจ่าย**

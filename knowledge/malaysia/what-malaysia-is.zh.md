@@ -54,6 +54,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["what is Malaysia", "federation of Malaysia", "13 states 3 federal territories", "elective monarchy Malaysia", "federal structure Malaysia", "Yang di-Pertuan Agong", "Federal Constitution"]
+framework: explainer
 ---
 
 马来西亚不是一个由单一政府治理的单一地方。它是一个联邦——一个由十三个州属与三个联邦直辖区拼合而成的单一国家，坐落在被数百公里南中国海分隔的两块陆地之上。先理解这一结构，会让这个国家的几乎其他一切都更容易理解。

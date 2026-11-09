@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "hinduism-in-malaysia" }
 related: ["hinduism-in-malaysia", "thaipusam", "mariamman-worship", "temple-music-nadaswaram", "indian-classical-arts-in-malaysia"]
 keywords: ["இந்துக் கோயில் கட்டடக்கலை", "கோபுரம்", "விமானம்", "கர்ப்பக்கிரகம்", "மண்டபம்", "திராவிடக் கட்டடக்கலை", "கும்பாபிஷேகம்", "மலேசியா கோயில்கள்", "Hindu temple architecture", "gopuram", "Dravidian architecture Malaysia"]
+framework: history-culture
 ---
 
 Lorsqu'on s'approche de n'importe quel quartier d'une ville malaisienne où une communauté tamoule a pris racine, une tour couverte de sculptures s'élançant vers le ciel attire l'œil de loin. Cette tour-porche, avec ses étages de figures de divinités colorées, n'est pas le fruit du hasard — c'est la continuation d'une tradition architecturale millénaire ; la marque d'un héritage culturel que les personnes d'ascendance tamoule du sud de l'Inde ont apporté avec elles en Malaisie.

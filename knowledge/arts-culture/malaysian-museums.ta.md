@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "orang-asli" }
 related: ["unesco-world-heritage", "peranakan", "orang-asli"]
 keywords: ["Muzium Negara", "Islamic Arts Museum Malaysia", "IAMM", "Perak Museum Taiping", "Sarawak Museum", "Sabah Museum", "Malaysia state museums"]
+framework: history-culture
 ---
 
 மலேசியாவின் மிகப் பழமையான அருங்காட்சியகம் எது என்று பெரும்பாலான பார்வையாளர்களிடம் கேளுங்கள்; அவர்கள் Muzium Negara என்று ஊகிப்பார்கள் — Kuala Lumpur-இன் அருங்காட்சியக வரிசையின் மையமாக அமைந்துள்ள, அரண்மனைக் கூரையுடன் கூடிய கட்டிடம். அவர்கள் எண்பது ஆண்டுகள் தவறாக இருப்பார்கள். அந்தப் பெருமை Taiping-இல் உள்ள ஒரு எளிமையான காட்சியகத்திற்கு உரியது; Muzium Negara-வின் இடத்தை அதன் முன்னோடி இன்னும் ஆக்கிரமித்திருந்த காலத்திலேயே அது கட்டப்பட்டது.

@@ -74,6 +74,7 @@ faq:
     a: Keduanya adalah dua puncak rekor yang berbeda di dua daratan yang berbeda, dipisahkan oleh Laut Tiongkok Selatan. Gunung Tahan, setinggi 2.187 meter di perbatasan Pahang–Kelantan di dalam Taman Negara, adalah titik tertinggi di Semenanjung Malaysia. Gunung Kinabalu di Sabah menjulang setinggi 4.095 meter — puncak tertinggi di seluruh Malaysia, dan yang tertinggi di mana pun antara Himalaya dan Nugini. Mengacaukan keduanya adalah kesalahan yang umum.
   - q: Mengapa sebagian besar warga Malaysia tinggal di dekat pantai alih-alih di pedalaman?
     a: Setiap daratan didominasi oleh tulang punggung pegunungan di tengah — Pegunungan Titiwangsa di Semenanjung, Pegunungan Crocker di Sabah — yang hanya diapit oleh dataran pantai yang sempit. Dataran tinggi itu mendorong permukiman keluar ke dataran pantai dan lembah sungai, sehingga pedalaman yang bergunung-gunung berpenduduk jarang. Dataran pantai barat Semenanjung yang terlindung, ditenangkan oleh Selat Malaka, menampung sebagian besar penduduknya dan kota-kota terbesar seperti Kuala Lumpur dan George Town.
+framework: explainer
 ---
 
 Terbang ke Kuala Lumpur dari Kota Kinabalu dan Anda melintasi lebih dari sekadar perbatasan internal — Anda melintasi beberapa ratus kilometer laut terbuka. Malaysia adalah satu negara yang disatukan melintasi dua daratan yang terpisah, dan kenyataan bentuk muka bumi yang sederhana ini telah diam-diam menentukan hampir segala hal lain: di mana kota-kota berada, di mana sawah padi berada, dan pantai mana yang dilanda banjir setiap bulan Desember.

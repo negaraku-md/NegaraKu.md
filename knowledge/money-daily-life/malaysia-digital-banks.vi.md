@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "pidm-deposit-insurance" }
 related: ["bank-negara-malaysia", "pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["bank digital", "digital bank Malaysia", "GXBank", "Boost Bank", "AEON Bank", "Ryt Bank", "KAF Digital Bank", "PIDM", "BNM"]
+framework: explainer
 ---
 
 Hôm nay bạn có thể mở một tài khoản ngân hàng tại Malaysia mà không cần một lần đặt chân đến chi nhánh, không cần gặp nhân viên, và không cần bất kỳ mẫu giấy nào — tất cả hoàn tất trong vài phút qua điện thoại thông minh. Đó là lời hứa của ngân hàng số, một hạng mục ngân hàng mới được Bank Negara Malaysia (BNM) trao giấy phép và nay phục vụ hàng triệu người dân Malaysia.

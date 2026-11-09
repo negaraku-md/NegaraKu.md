@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "jkkk-village-safety-committee" }
 related: ["pdrm"]
 keywords: ["rukun tetangga", "skim rondaan sukarela", "SRS", "KRT", "kepolisan komuniti", "JPNIN", "Akta 751", "keselamatan kejiranan"]
+framework: explainer
 ---
 
 Lampu jalan malam di taman perumahan sering terlindung sebahagiannya oleh dua atau tiga orang berbasikal atau berjalan kaki dengan lampu suluh — jiran yang meronda kawasan sendiri. Mereka bukan polis. Mereka anggota Skim Rondaan Sukarela, dan mereka mewakili lapisan pertama pencegahan jenayah di kebanyakan kejiranan Malaysia: komuniti yang menjaga komuniti sendiri, secara berterusan dengan Polis Diraja Malaysia (PDRM).

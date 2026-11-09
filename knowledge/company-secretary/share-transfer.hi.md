@@ -137,6 +137,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["stamp-duty-share-transfer", "register-of-members", "share-allotment", "share-transmission", "capital-gains-tax", "beneficial-ownership"]
 keywords: ["शेयर अंतरण मलेशिया", "share transfer Malaysia", "शेयर अंतरण Sdn Bhd", "transfer shares Sdn Bhd", "Form 32A शेयर अंतरण", "Form 32A share transfer", "धारा 106 कंपनी अधिनियम 2016", "section 106 Companies Act 2016", "शेयर अंतरण स्टाम्प शुल्क 30 दिन"]
+framework: how-to
 ---
 
 एक Sdn Bhd में शेयर अंतरण दो तरीकों में से किसी एक में विफल होता है। या तो कोई कागज़ी

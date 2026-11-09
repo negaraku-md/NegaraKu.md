@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "home-loan-financing" }
 related: []
 keywords: ["rumah mampu milik", "PR1MA", "Residensi Wilayah", "RUMAWIP", "Rumah Mesra Rakyat", "PPR", "Rumah Selangorku", "Residensi MADANI", "rumah mampu milik Malaysia"]
+framework: decision
 ---
 
 あなたの月給はRM4,000、そして都市部のテラスハウスの価格はすでに50万リンギに達している——どこから探し始めればよいのか。答えは一つの制度ではなく、それぞれが異なる所得区分を対象とする政府制度の「メニュー」である。間違ったものを選べば、そもそも資格のない住宅の抽選を何か月も待って無駄にすることになる。

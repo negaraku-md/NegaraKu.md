@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "hinduism-in-malaysia" }
 related: ["hinduism-in-malaysia", "thaipusam", "mariamman-worship", "temple-music-nadaswaram", "indian-classical-arts-in-malaysia"]
 keywords: ["இந்துக் கோயில் கட்டடக்கலை", "கோபுரம்", "விமானம்", "கர்ப்பக்கிரகம்", "மண்டபம்", "திராவிடக் கட்டடக்கலை", "கும்பாபிஷேகம்", "மலேசியா கோயில்கள்", "Hindu temple architecture", "gopuram", "Dravidian architecture Malaysia"]
+framework: history-culture
 ---
 
 말레이시아 어느 도시든 타밀 공동체가 뿌리를 내린 구역에 다가가면, 하늘을 향해 솟은 조각 가득한 탑이 멀리서부터 눈에 들어옵니다. 색색의 신상이 층층이 늘어선 그 문탑은 우연이 아닙니다 — 천 년 된 건축 전통의 이어짐이며, 남인도 타밀계 사람들이 말레이시아로 함께 가져온 문화 유산의 표식입니다.

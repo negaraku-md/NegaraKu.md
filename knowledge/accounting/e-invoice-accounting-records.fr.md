@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-vs-tax-invoice" }
 related: ["e-invoicing", "e-invoice-vs-tax-invoice", "consolidated-e-invoice", "myinvois-phases", "accounting-records-section-245"]
 keywords: ["conservation des registres de facture électronique Malaisie", "délai de conservation MyInvois", "section 245 facture électronique", "section 82 registres loi impôt sur le revenu", "registres légaux de facture électronique Malaisie", "e-invoice record keeping Malaysia", "MyInvois retention period", "section 82 Income Tax Act records"]
+framework: explainer
 ---
 
 L'idée fausse la plus répandue dans les fonctions financières malaisiennes en ce moment est

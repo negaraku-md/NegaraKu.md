@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
 related: []
 keywords: ["squash", "Nicol David", "SRAM", "squash malasio", "Ng Eain Yow", "Sivasangari Subramaniam", "Abierto Mundial"]
+framework: profile
 ---
 
 Durante nueve años seguidos, la mejor jugadora de squash del planeta venía de Penang. Nicol David no solo ganó en el deporte individual de mayor éxito de Malasia — reescribió cómo se ve el dominio en él, manteniendo el número 1 del mundo durante **108 meses consecutivos** hasta septiembre de 2015, el reinado ininterrumpido más largo que el juego ha visto jamás.

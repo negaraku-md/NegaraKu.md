@@ -137,6 +137,7 @@ keywords:
   - "trade licence Sarawak"
   - "LHDN business registration Kuching"
   - "lesen perniagaan Sarawak"
+framework: how-to
 ---
 
 சரவாக்கில் நீங்கள் ஒரு வணிகத்தைப் பதிவு செய்வதில்லை. நீங்கள் மூன்று விஷயங்களை,

@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "statutory-audit-process" }
 related: ["appointing-an-auditor", "changing-auditors", "statutory-audit-process", "audit-fees-malaysia"]
 keywords: ["استقلال المدقق", "تناوب الشركاء", "فترة الانقطاع", "كيان ذو مصلحة عامة", "اللوائح الداخلية MIA", "القسم 540", "الخدمات غير التوكيدية", "تهديد المراجعة الذاتية", "auditor independence", "partner rotation", "MIA By-Laws", "Section 540"]
+framework: rules
 ---
 
 شريك التدقيق الذي وقّع حسابات الشركة المدرجة نفسها طوال عقد يعرف أين دُفِن كل سرّ —

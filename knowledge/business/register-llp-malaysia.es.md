@@ -117,6 +117,7 @@ keywords:
   - "PLT Perkongsian Liabiliti Terhad"
   - "LLP registration fee RM500"
   - "LLP annual declaration"
+framework: how-to
 ---
 
 El oficial de cumplimiento es la parte que todos malinterpretan.

@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "federal-state-division" }
 related: ["civil-and-syariah-courts", "kehakiman-mahkamah", "federal-constitution"]
 keywords: ["mahkamah syariah", "sistem mahkamah Malaysia", "Perkara 121(1A)", "bidang kuasa mahkamah syariah", "Mahkamah Tinggi Syariah", "Akta 355", "Akta 505", "undang-undang keluarga Islam"]
+framework: explainer
 ---
 
 一名申请解除婚约（fasakh）的妻子，和一名追讨6万令吉欠款的商人，两人都是在法庭柜台以一纸表格开启各自的案件。然而他们并不去同一个柜台，案件也不由同一类法官审理，而决定他们结果的法律更是来自两个不同的立法机关。

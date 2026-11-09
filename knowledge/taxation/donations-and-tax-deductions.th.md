@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["waqf-islamic-endowment-malaysia", "income-tax-in-malaysia", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["tax deductible donation Malaysia", "section 44(6) approved institution", "10% aggregate income donation cap", "check LHDN approved charity", "derma potongan cukai"]
+framework: rules
 ---
 
 ใบเสร็จระบุว่า *ยกเว้นภาษีภายใต้ subsection 44(6)* ประโยคนั้นพิมพ์โดยองค์กรการกุศล ไม่ใช่โดย LHDN และ

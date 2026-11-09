@@ -79,6 +79,7 @@ relations:
   - { rel: "compares-with", to: "amanah-saham-bumiputera" }
 related: ["securities-commission-malaysia"]
 keywords: ["unit trust malaysia", "unit trust funds", "net asset value", "sales charge", "management fee", "securities commission", "FIMM", "equity fund", "money market fund", "EPF i-invest"]
+framework: explainer
 ---
 
 Giao tiền của bạn cho một người lạ để đầu tư, và bạn sẽ muốn ba thứ: quy tắc, một người ghi điểm, và một người khác giữ tiền mặt. Một quỹ tín thác đơn vị của Malaysia cho bạn cả ba. Ringgit của bạn được gộp với hàng nghìn nhà đầu tư khác, một công ty quản lý có giấy phép quyết định mua gì, và một người ủy thác độc lập giữ các tài sản để người quản lý không thể đơn giản cầm chúng bỏ đi. Toàn bộ sự sắp xếp nằm dưới Securities Commission Malaysia (SC).

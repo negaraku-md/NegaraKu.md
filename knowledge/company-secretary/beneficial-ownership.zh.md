@@ -133,6 +133,7 @@ entity: "Beneficial Ownership Reporting"
 relations: []
 related: []
 keywords: ["beneficial ownership Malaysia", "Division 8A Companies Act 2016", "e-BOS SSM", "register of beneficial owners", "pemilik benefisial SSM", "beneficial ownership deadline Malaysia"]
+framework: rules
 ---
 
 大多数马来西亚公司以为自己在2024年就已经把受益所有权的事情办完了。它们在

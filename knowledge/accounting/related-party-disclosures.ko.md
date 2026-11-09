@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016"]
 keywords: ["MFRS 124", "pihak berkaitan", "akaun semasa pengarah", "pinjaman pengarah", "MBRS", "IAS 24", "penyata kewangan"]
+framework: explainer
 ---
 
 말레이시아의 대부분의 가족 소유 Sdn Bhd에서 돈은 많은 서류 없이 드나듭니다: 자금 흐름이

@@ -80,6 +80,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage", "maternity-leave-malaysia", "paternity-leave-malaysia", "public-holidays-malaysia", "working-hours-overtime-malaysia"]
 keywords: ["cuti tahunan malaysia", "cuti sakit malaysia", "cuti hospitalisasi malaysia", "kelayakan cuti malaysia 2026", "60 hari cuti hospitalisasi"]
+framework: rules
 ---
 
 Kesilapan cuti yang paling mahal dalam penggajian di Malaysia masih dilakukan tiga tahun

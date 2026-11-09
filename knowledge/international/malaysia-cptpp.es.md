@@ -80,6 +80,7 @@ relations:
   - { rel: "affects", to: "bumiputera-equity-requirements" }
 related: ["external-trade", "matrade", "anti-dumping-countervailing-duties", "bumiputera-equity-requirements"]
 keywords: ["CPTPP Malaysia", "Trans-Pacific Partnership Malaysia", "CPTPP ratification", "CPTPP certificate of origin", "CPTPP tariff elimination", "CPTPP members", "Malaysia free trade agreement"]
+framework: explainer
 ---
 
 Un exportador malasio de confitería que envía a Vancouver dejó de pagar un arancel de importación del 15% el día en que entró en vigor el CPTPP, y esa sola línea arancelaria es una pequeña ventana a uno de los acuerdos comerciales más amplios que Malasia haya firmado jamás. El Acuerdo Integral y Progresista de Asociación Transpacífico reconfigura cómo se mueven los bienes, servicios e inversión malasios por una docena de economías a ambos lados del Pacífico. También compromete a Malasia con normas que llegan mucho más allá del mostrador de aduanas: a cómo compiten las empresas estatales, cómo se hace cumplir la propiedad intelectual y cómo se resuelven las disputas con inversores extranjeros.

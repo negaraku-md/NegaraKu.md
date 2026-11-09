@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "data-breach-notification-malaysia" }
 related: ["online-safety-act-malaysia", "debt-recovery-malaysia", "data-breach-notification-malaysia"]
 keywords: ["laporan polis", "cara buat laporan polis", "e-reporting PDRM", "997 NSRC", "999 kecemasan", "Seksyen 107 Kanun Tatacara Jenayah"]
+framework: how-to
 ---
 
 Your car is broken into, your wallet is snatched, or money moves out of your account without authorisation — in all three situations, the first document every next party will ask for, whether an insurer, a bank or a court, is your police report number. Knowing how to get it correctly, and in the right order, saves hours and sometimes saves your money.

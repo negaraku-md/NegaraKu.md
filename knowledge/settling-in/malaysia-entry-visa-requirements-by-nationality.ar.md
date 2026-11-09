@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "malaysia-digital-arrival-card-mdac" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["تأشيرة ماليزيا", "الدول المعفاة من التأشيرة في ماليزيا", "eVisa ماليزيا", "بطاقة الوصول الرقمية الماليزية", "تصريح الزيارة الاجتماعية", "malaysia visa", "visa-free countries malaysia", "malaysia evisa", "eNTRI", "malaysia digital arrival card", "social visit pass"]
+framework: rules
 ---
 
 قبل أن تحجز رحلة إلى كوالالمبور، فإن السؤال الأول ليس «أيّ فندق» — بل «هل يُدخلني جواز سفري من البوابة؟» وبالنسبة إلى معظم المسافرين الجواب مريح، لكن القواعد تنقسم بحدّة بحسب الجنسية، وثمة استمارة واحدة عبر الإنترنت تنطبق الآن على الجميع تقريباً.

@@ -96,6 +96,7 @@ verificationNeeded:
   - "L'année exacte de la promotion de Dewakan à deux Star——la presse l'exprime de manière variable comme la cérémonie de 2023 / l'édition du guide 2024 ; vérifiez l'édition précise auprès du MICHELIN Guide."
   - "Le chiffre selon lequel Au Jardin utilise environ 85 % de produits malaisiens provient d'un unique article de presse ; vérifiez-le auprès du restaurant."
   - "Les noms des chefs, les années d'ouverture et les détails des lieux de chaque restaurant (p. ex. Au Jardin, Gen, Terra Dining, Akar) devraient être revérifiés auprès des canaux propres à chaque restaurant avant d'être cités, car ils changent avec le temps."
+framework: profile
 ---
 
 La Malaisie mange admirablement depuis des générations——mais surtout dans les

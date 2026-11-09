@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "singapore-separation-1965" }
 related: ["malayan-union", "melaka-sultanate", "singapore-separation-1965"]
 keywords: ["Straits Settlements", "Penang colonial history", "Melaka British rule", "Singapore crown colony", "Pangkor Treaty 1874", "British Resident system", "Federated Malay States", "Unfederated Malay States", "Resident-General Kuala Lumpur", "Johor General Adviser"]
+framework: history-culture
 ---
 
 Tiga pelabuhan, empat perubahan taraf pentadbiran, dan empat puluh satu tahun. Itulah Negeri-Negeri Selat — sebelum ia langsung menyentuh negeri-negeri Melayu.

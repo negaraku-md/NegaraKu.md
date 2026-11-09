@@ -103,6 +103,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-non-compliance", "imported-taxable-services", "cp37-forms"]
 keywords: ["withholding tax SaaS Malaysia", "withholding tax on software", "digital advertising withholding tax", "Practice Note 1/2018", "cloud subscription royalty Malaysia", "imported taxable services vs withholding tax"]
+framework: rules
 ---
 
 A Malaysian SME pays a foreign hosting bill, a design-tool subscription, an ad

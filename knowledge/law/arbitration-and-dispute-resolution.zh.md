@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "contract-law" }
 related: []
 keywords: ["arbitration", "AIAC", "Arbitration Act 2005", "mediation", "dispute resolution", "New York Convention", "third-party funding", "UNCITRAL"]
+framework: explainer
 ---
 
 两家公司签订了一份供货合同，一方交货延迟，另一方想索赔数百万——但双方都不愿意让案卷、时间线或商业机密在公开的法庭上曝光。在马来西亚，这正是仲裁与调解从法院手中接过职责的地方。

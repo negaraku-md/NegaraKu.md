@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-digital-services", "cp37-forms"]
 keywords: ["failure to withhold tax Malaysia", "section 39(1)(j)", "withholding tax penalty Malaysia", "10 percent increase withholding tax", "section 113(2) penalty"]
+framework: explainer
 ---
 
 ภาษีหัก ณ ที่จ่ายที่พลาดไป RM5,000 ไม่ได้มีค่า RM5,000 มันมีค่า RM5,500 เป็นภาษี RM12,000 เป็นการหักที่สูญเสีย และโทษปรับที่ยังอยู่ในแฟ้มหลังจากคุณชำระทุกอย่างอื่นแล้ว เลขคณิตนี้ควรค่าแก่การทำครั้งเดียวอย่างถูกต้อง

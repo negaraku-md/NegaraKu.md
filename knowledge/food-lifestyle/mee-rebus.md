@@ -89,6 +89,7 @@ verificationNeeded:
   - "Whether Penang's mee Jawa is genuinely a distinct dish from mee rebus or a regional name for the same thing, and its characteristic sweeter, tomato-tinged gravy — confirm with a Penang heritage or food-history source."
   - "The relative role and presence of taucheo (fermented soybean paste) versus a dried-shrimp base in the gravy, which varies by region and cook (some versions reportedly omit taucheo) — confirm with multiple recipe or culinary sources."
   - "The claim that Johor Bahru is the 'mee rebus capital' and the use of beef stock in the Johor gravy, which come from a dated 2006 report — confirm with a current Johor food or heritage source."
+framework: explainer
 ---
 
 Ask for mee rebus in Malaysia and you get a plate, not a soup bowl: yellow

@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "pdpa-2010" }
 related: ["pdpa-2010"]
 keywords: ["Malaysia cybersecurity", "Cyber Security Act 2024", "Act 854", "NACSA", "National Critical Information Infrastructure", "Global Cybersecurity Index", "Malaysia Cyber Security Strategy"]
+framework: explainer
 ---
 
 Trong một thập kỷ, Malaysia đã yêu cầu hạ tầng trọng yếu của mình coi trọng an ninh mạng. Kể từ ngày 26 tháng 8 năm 2024, nó ra lệnh cho họ phải làm vậy — và gắn các án tù vào việc làm sai.

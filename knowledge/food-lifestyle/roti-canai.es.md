@@ -99,6 +99,7 @@ social:
     - "Mamak"
     - "MalaysianFood"
     - "NegaraKuMD"
+framework: explainer
 ---
 
 Pocos sonidos pertenecen a una mañana malasia tanto como el chasquido y el aleteo de la masa contra

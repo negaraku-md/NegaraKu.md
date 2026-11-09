@@ -54,6 +54,7 @@ relations:
   - { rel: "part-of", to: "audit-exemption" }
 related: ["audit-exemption", "audit-exemption-thresholds", "after-audit-exemption"]
 keywords: ["who cannot claim audit exemption", "audit exemption exclusions Malaysia", "exempt private company section 260", "subsidiary of public company audit", "foreign company audit Malaysia"]
+framework: rules
 ---
 
 Superar los umbrales no es la última barrera. El párrafo 12 de la Directiva de

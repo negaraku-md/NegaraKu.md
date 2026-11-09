@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "department-of-environment" }
 related: ["environmental-quality-act-1974"]
 keywords: ["pencemaran sungai", "indeks kualiti air", "WQI", "keselamatan air", "bekalan air", "Sungai Selangor", "Sungai Kim Kim", "rizab sungai", "Jabatan Alam Sekitar", "kawasan tadahan"]
+framework: explainer
 ---
 
 월요일 아침 수도꼭지를 틀었는데 물이 나오지 않습니다 — 꼭지가 고장 나서가 아니라, 상류의 어느 공장이 귀하의 도시에 원수를 공급하는 지류로 악취 나는 폐기물을 방류했기 때문입니다. 이것이 클랑밸리에서 반복되는 현실이며, 왜 "하천 수질"이 단순한 생태 문제가 아니라 수백만 가구를 위한 급수 안보 문제인지를 설명해 줍니다.

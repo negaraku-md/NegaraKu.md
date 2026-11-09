@@ -93,6 +93,7 @@ keywords:
   - "section 46 Companies Act 2016"
   - "adresse commerciale vs siège social"
   - "business address vs registered office"
+framework: explainer
 ---
 
 Trois adresses, et elles ne sont pas la même chose.

@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#WongMeiKee", "#SiewYok", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 كشكٌ في زاوية بحي Pudu يفتح بضع ساعات فقط وقت الغداء، والطابور يبدأ قبل ذلك بوقتٍ

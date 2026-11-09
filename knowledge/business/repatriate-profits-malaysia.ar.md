@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "foreign-exchange-policy-malaysia" }
 related: ["foreign-exchange-policy-malaysia", "foreign-ownership-malaysia"]
 keywords: ["إعادة الأرباح من ماليزيا", "repatriate profits malaysia", "ضريبة استقطاع توزيعات الأرباح ماليزيا", "dividend withholding tax malaysia", "نظام الطبقة الواحدة ماليزيا", "single tier system malaysia", "ضريبة توزيعات الأرباح 2% ماليزيا", "2% dividend tax malaysia", "تحويل الأرباح إلى الشركة الأم"]
+framework: explainer
 ---
 
 يصل المؤسّسون الأجانب وهم يتوقّعون ضريبة استقطاع على توزيعات الأرباح، لأنّ كل ولاية قضائية

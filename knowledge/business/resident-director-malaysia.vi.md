@@ -111,6 +111,7 @@ keywords:
   - "ordinarily resident director"
   - "foreign owned Sdn Bhd director"
   - "pengarah pemastautin Malaysia"
+framework: explainer
 ---
 
 Tìm kiếm cách thành lập một công ty Malaysia với tư cách một người nước ngoài và bạn sẽ được bán

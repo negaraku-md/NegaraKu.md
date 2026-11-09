@@ -98,6 +98,7 @@ relations:
   - { rel: "affects", to: "stamp-duty-employment-contracts" }
 related: ["stamp-duty-rates", "stamp-duty-employment-contracts", "stamp-duty-share-transfer"]
 keywords: ["STSDS", "स्टांप ड्यूटी स्व-निर्धारण मलेशिया", "sistem taksir sendiri duti setem", "STAMPS", "BNDS", "स्टांप ड्यूटी चरण 2026", "stamp duty self assessment Malaysia"]
+framework: explainer
 ---
 
 अब भी प्रचलन में मौजूद अधिकांश स्टांप ड्यूटी मार्गदर्शन एक ऐसी प्रणाली का वर्णन

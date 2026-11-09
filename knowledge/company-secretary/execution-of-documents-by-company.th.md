@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "company-contracts-section-64" }
 related: ["companies-act-2016"]
 keywords: ["penyempurnaan dokumen", "cop mohor", "common seal", "seksyen 66", "surat ikatan", "deed", "pegawai diberi kuasa", "Akta Syarikat 2016", "tandatangan syarikat"]
+framework: explainer
 ---
 
 ก่อนที่ Companies Act 2016 จะเริ่มมีผลบังคับใช้เมื่อวันที่ 31 มกราคม 2017 ตราประทับเป็นวิธีปกติที่บริษัทลงนามในเอกสารสำคัญในมาเลเซีย ทุกวันนี้ ตราประทับนั้นอาจไม่มีอยู่เลย — และบริษัทยังลงนามในสัญญา เงินกู้ และตราสาร deed ได้โดยชอบ การเปลี่ยนแปลงนี้มาจาก Companies Act 2016 โดยเฉพาะมาตรา 61 และมาตรา 66 และมักทำให้ผู้ลงนามที่ยังตามหา "ตราบริษัท" สับสน

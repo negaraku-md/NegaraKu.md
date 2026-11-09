@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "chinese-dialects"]
 keywords: ["冬至", "汤圆", "汤丸", "咸汤圆", "冬大过年", "冬至大如年", "添岁", "搓汤圆", "Tang Chek", "Dongzhi", "马来西亚华人", "节气", "Winter Solstice Festival"]
+framework: history-culture
 ---
 
 十二月下旬的一个傍晚，厨房里糯米粉的香气混着姜汤的甜味。一家人围在桌边，把一小团一小团的糯米搓成圆子——有白的，也有染成粉红、浅绿的。孩子手里的圆子大小不一，大人边搓边说：吃了汤圆，就又长了一岁。这一天是冬至。

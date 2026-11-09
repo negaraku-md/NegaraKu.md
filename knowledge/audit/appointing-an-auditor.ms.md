@@ -100,6 +100,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.267(4) and s.267(6)"
     consequence: "The company and every director commit an offence under s.267(7)"
+framework: rules
 ---
 
 Surat penglibatan yang ditandatangani bukanlah satu pelantikan. Begitu juga e-mel

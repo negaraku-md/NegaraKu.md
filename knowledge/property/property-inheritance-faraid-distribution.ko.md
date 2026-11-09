@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "property-real-property-gains-tax-rpgt" }
 related: []
 keywords: ["faraid", "harta pusaka", "Akta Pembahagian 1958", "Amanah Raya", "sijil faraid", "pewarisan hartanah", "harta pusaka kecil", "Pejabat Tanah"]
+framework: explainer
 ---
 
 말레이시아에서 누군가 사망하면, 누가 그의 주택을 상속하는지는 먼저 한 가지 기본적인 사실에 달려 있습니다: 사망자가 무슬림인지 비무슬림인지. 서로 다른 두 법 체계가 그 답을 규율하며, 어떤 토지 소유증서든 명의를 바꾸기 전에 두 체계 모두 서로 다른 관청을 거칩니다.

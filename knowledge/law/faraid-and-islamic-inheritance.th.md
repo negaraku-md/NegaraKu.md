@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "syariah-courts-malaysia" }
 related: []
 keywords: ["faraid", "harta pusaka", "pusaka islam", "waris", "mahkamah syariah", "baitulmal", "akta pembahagian 1958", "pusaka kecil"]
+framework: explainer
 ---
 
 เมื่อชาวมุสลิมเสียชีวิตในมาเลเซีย ทรัพย์สินของเขาไม่จำเป็นต้องตกแก่ทายาทที่ใกล้ชิดที่สุดหรือขัดสนที่สุด — มันถูกแบ่งตามอัตราส่วนตายตัวที่หลักชะรีอะฮ์กำหนดไว้ ระบบนี้เองที่รู้จักกันในชื่อ **ฟะรออิฎ (faraid)** และเป็นวิธีโดยปริยายสำหรับมรดกของชาวมุสลิม เว้นแต่ทายาททั้งหมดตกลงกับวิธีอื่น

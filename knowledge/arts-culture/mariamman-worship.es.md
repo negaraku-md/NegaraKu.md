@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["hinduism-in-malaysia", "thaipusam", "deepavali", "estate-tamil-community", "pongal", "tamil-in-malaysia"]
 keywords: ["மாரியம்மன் வழிபாடு", "மாரியம்மன்", "அம்மன் வழிபாடு", "Mariamman worship", "Mariamman Malaysia", "ஸ்ரீ மகாமாரியம்மன் கோயில்", "தீமிதி"]
+framework: history-culture
 ---
 
 Cerca de casi cualquier plantación de caucho antigua de Malasia, y a lo largo de las calles veteranas de los centros urbanos, se puede encontrar un templo de Mariamman. La estatua de Amman con su rostro de color amarillo ocre, y las fiestas que se celebran antes de la temporada de lluvias, no son casuales: llevan consigo más de un siglo y medio de historia y de tradición de fe de una comunidad tamil.

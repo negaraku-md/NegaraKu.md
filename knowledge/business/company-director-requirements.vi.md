@@ -107,6 +107,7 @@ keywords:
   - "director duties Malaysia"
   - "nominee director Malaysia"
   - "director disqualification Malaysia"
+framework: rules
 ---
 
 Một ngày nào đó ai đó sẽ yêu cầu bạn "chỉ làm một giám đốc thôi, chỉ là một chữ ký".

@@ -92,6 +92,7 @@ verificationNeeded:
   - "The etymology of the name (薄餅 / 'poh piah'), glossed as 'thin cake', 'thin wafer' or 'thin flatbread' — confirm with a lexicographic or linguistic source."
   - "Whether the Nyonya (Peranakan) popiah is best described as a distinct regional tradition or as the same Hokkien dish adopted by Straits-born Chinese households — current sources call it 'Peranakan heritage' without settling the point."
   - "The Penang-versus-Melaka stylistic distinctions described here (a wetter Penang roll moistened with sengkuang liquid; a Melaka roll finished with a palm-sugar sweet sauce) rest largely on local press and food blogs — confirm with a heritage or regional culinary source."
+framework: explainer
 ---
 
 Ask for a spring roll in Malaysia and you may get one of two very different things.

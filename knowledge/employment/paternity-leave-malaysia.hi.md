@@ -58,6 +58,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "maternity-leave-malaysia", "employment-act-coverage"]
 keywords: ["पितृत्व अवकाश मलेशिया", "धारा 60FA रोज़गार अधिनियम", "7 दिन पितृत्व अवकाश", "पितृत्व अवकाश पात्रता मलेशिया", "पितृत्व अवकाश पाँच प्रसव", "paternity leave malaysia", "section 60fa employment act"]
+framework: rules
 ---
 
 पितृत्व अवकाश 1 जनवरी 2023 को एक एकल छोटी धारा के रूप में रोज़गार अधिनियम 1955 में शामिल हुआ, और

@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["hinduism-in-malaysia", "thaipusam", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community", "navaratri"]
 keywords: ["ஐயப்பன் வழிபாடு", "சபரிமலை விரதம்", "மண்டல விரதம்", "இருமுடிக் கட்டு", "மலேசிய ஐயப்பன் கோயில்", "சுவாமியே சரணம் ஐயப்பா", "Ayyappan", "Sabarimala"]
+framework: history-culture
 ---
 
 Dans les derniers mois de l'année, une scène se répète dans de nombreuses villes de Malaisie : des hommes vêtus de noir ou de bleu, portant un chapelet de rudraksha autour du cou et laissant pousser leur barbe, s'appellent mutuellement « Swami ». Ce sont les dévots du vœu d'Ayyappan — beaucoup d'entre eux se préparant à partir pour Sabarimala, au Kerala. Cet article décrit cette dévotion et les traditions du vœu de manière neutre ; il n'explique ni n'évalue aucune croyance.

@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-government-debt-malaysia" }
 related: []
 keywords: ["Malaysia credit rating", "sovereign rating", "S&P Malaysia", "Moody's Malaysia", "Fitch Malaysia", "A3", "BBB+", "investment grade"]
+framework: explainer
 ---
 
 マレーシアの財務大臣がニューヨークのアナリストからの書簡を公に歓迎するとき、その利害が単なる象徴以上のものであることが分かる。ソブリン信用格付けが1段階上下するだけで、政府の借入コスト、企業の資金調達コスト、そしてリンギットの動きまでもが左右されかねない。S&Pグローバル、ムーディーズ、フィッチの3社が、マレーシアについてそのペンを握っている。

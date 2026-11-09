@@ -76,6 +76,7 @@ faq:
     a: Pour la plupart des comptes d'épargne ou comptes courants ordinaires, le seul document obligatoire pour un citoyen ou un résident permanent est le MyKad original. Selon les exigences publiées par CIMB, des justificatifs supplémentaires tels qu'une lettre d'emploi, un relevé de l'EPF, un bulletin de salaire ou des relevés bancaires récents ne sont demandés que dans des situations précises, comme un compte de niveau supérieur ou lorsque l'adresse que vous souhaitez enregistrer diffère de celle imprimée sur votre MyKad. Les mineurs ont besoin d'un acte de naissance ainsi que du MyKad d'un parent ou tuteur.
   - q: Pourquoi les banques demandent-elles des documents différents selon mon type de visa ?
     a: Parce que les banques rattachent les pièces justificatives à la raison précise de votre présence en Malaisie, ce que votre laissez-passer atteste. D'après les exigences publiées par CIMB, on demande généralement à un étranger travaillant avec un Permis d'emploi (Employment Pass) une lettre d'emploi et une preuve de salaire mensuel supérieur au seuil de la banque (CIMB indique RM10 000) ; à un titulaire d'un Permis d'étudiant (Student Pass), une carte d'étudiant et une lettre d'inscription ; et à un titulaire d'un Permis de personne à charge (Dependant Pass), un acte de mariage le cas échéant. Tous doivent disposer d'un passeport et d'un laissez-passer valables au moins six mois.
+framework: how-to
 ---
 
 Un citoyen malaisien entre dans une agence avec un MyKad, signe un formulaire et

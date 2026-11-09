@@ -88,6 +88,7 @@ relations:
   - { rel: "compares-with", to: "bahasa-melayu" }
 related: ["population-composition", "article-152-language", "bahasa-melayu", "languages-spoken", "federal-constitution"]
 keywords: ["Tamil in Malaysia", "SJKT", "Sekolah Jenis Kebangsaan Tamil", "Tamil schools Malaysia", "Malaysian Indians", "Article 152", "Tamil medium instruction", "vernacular schools"]
+framework: explainer
 ---
 
 บนสวนยางพาราเก่าของมลายา ห้องเรียนยุคแรก ๆ บางแห่งคือเพิงและกระท่อม และบทเรียนเป็นภาษาทมิฬ ตามงานศึกษาทางประวัติศาสตร์ที่ตีพิมพ์ในวารสารของสมาคมประวัติศาสตร์มาเลเซีย การศึกษาระดับประถมขั้นพื้นฐานเป็นภาษาทมิฬมีให้ในสวนตั้งแต่ต้นศตวรรษที่ยี่สิบ จัดให้ภายใต้ประมวลกฎหมายแรงงานสมัยนั้น และเป็นเวลานานสอนโดยเสมียนและคนทำงานพาร์ตไทม์แทนที่จะเป็นครูที่ได้รับการฝึกฝน

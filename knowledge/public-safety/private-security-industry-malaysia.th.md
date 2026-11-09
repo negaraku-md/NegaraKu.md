@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "royal-malaysia-police" }
 related: []
 keywords: ["agensi keselamatan swasta", "lesen agensi persendirian", "polis bantuan", "Akta Agensi Persendirian 1971", "pengawal keselamatan Malaysia", "KDN eSIMS", "kawasan berpagar"]
+framework: profile
 ---
 
 ในพื้นที่พักอาศัยแบบมีรั้วรอบขอบชิด โรงงาน และศูนย์การค้าส่วนใหญ่ในมาเลเซีย บุคคลแรกที่คุณพบไม่ใช่เจ้าหน้าที่ตำรวจ — แต่คือพนักงานรักษาความปลอดภัยเอกชน อุตสาหกรรมนี้ดำเนินงานใกล้ชิดกับการบังคับใช้กฎหมายภาครัฐ แต่ดำเนินไปบนกรอบกฎหมายที่แตกต่างกันโดยสิ้นเชิง และความสับสนเกี่ยวกับว่าใครสามารถทำอะไรได้อาจนำมาซึ่งความเสี่ยงทางกฎหมายแก่ธุรกิจที่ว่าจ้างพวกเขา

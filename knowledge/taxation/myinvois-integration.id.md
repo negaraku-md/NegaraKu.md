@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "myinvois-phases" }
 related: ["e-invoicing", "myinvois-phases", "e-invoice-data-fields", "consolidated-e-invoice", "self-billed-e-invoice"]
 keywords: ["integrasi MyInvois", "API MyInvois", "Portal MyInvois", "Peppol Malaysia", "middleware e-Invois", "pilih laluan e-Invois"]
+framework: decision
 ---
 
 Hampir semua yang ditulis tentang keputusan ini ditulis oleh seseorang yang

@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "moving-to-malaysia-first-steps" }
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka akaun air", "syarikat air negeri", "bil air Malaysia", "SPAN", "sambungan air baharu"]
+framework: explainer
 ---
 
 슬랑오르에서 조호르로 이사합니다. 은행 계좌는 그대로입니다. 전화번호도 함께 가져갈 수 있습니다. 그런데 수도 계정은? 따라오지 않습니다 — 새집에 물을 공급하는 회사가 아예 다른 회사이기 때문입니다.

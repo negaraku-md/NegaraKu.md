@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "contract-law" }
 related: []
 keywords: ["arbitration", "AIAC", "Arbitration Act 2005", "mediation", "dispute resolution", "New York Convention", "third-party funding", "UNCITRAL"]
+framework: explainer
 ---
 
 두 회사가 공급 계약을 체결하고, 한쪽이 인도를 지연하며, 다른 쪽은 수백만 달러의 손해배상을 원합니다 — 그러나 어느 쪽도 그 사건, 경위, 영업 비밀이 공개된 법정에서 드러나기를 원하지 않습니다. 말레이시아에서는 바로 이 지점에서 중재와 조정이 법원을 대신합니다.

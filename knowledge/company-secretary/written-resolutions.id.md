@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "minute-books-and-records" }
 related: ["remove-a-director", "minute-books-and-records", "resolution-notice-periods", "board-meetings-and-minutes"]
 keywords: ["resolusi bertulis Malaysia", "seksyen 297 Akta Syarikat 2016", "resolusi pusingan Sdn Bhd", "resolusi khas secara bertulis", "singkirkan pengarah resolusi bertulis"]
+framework: explainer
 ---
 
 Sebagian besar keputusan pemegang saham Sdn Bhd di Malaysia tidak pernah

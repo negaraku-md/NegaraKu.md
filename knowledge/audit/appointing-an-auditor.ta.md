@@ -99,6 +99,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.267(4) and s.267(6)"
     consequence: "The company and every director commit an offence under s.267(7)"
+framework: rules
 ---
 
 கையொப்பமிடப்பட்ட ஒரு ஈடுபாட்டு கடிதம் ஒரு நியமனம் அல்ல. கட்டணத்தை உறுதிப்படுத்தும்

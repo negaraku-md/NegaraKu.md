@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "singapore-separation-1965" }
 related: ["sabah", "sarawak", "ma63", "formation-of-malaysia-1963", "singapore-separation-1965"]
 keywords: ["Peninsular Malaysia", "East Malaysia", "Sabah Sarawak border", "South China Sea Malaysia", "Immigration Act 1959/63 Section 66", "Sarawak Land Code", "Sabah Land Ordinance", "Malaysian Standard Time 1982"]
+framework: explainer
 ---
 
 கோலாலம்பூரிலிருந்து கோட்டா கினபாலுவுக்கு உள்நாட்டு விமானத்தில் பறந்து செல்லுங்கள்; நீங்கள் புறப்பட்ட அதே நாட்டில்தான் இறங்குகிறீர்கள். அதே நாணயம், அதே கடவுச்சீட்டு, விமானத்தின் வால் பகுதியில் அதே கொடி. என்றாலும், வருகை மண்டபத்தில், ஒரு குடிவரவு பாணியிலான கவுண்ட்டரில் நீங்கள் வரிசையில் நிற்கிறீர்கள்; உங்களை உள்ளே அனுமதிப்பதற்கு முன் யாரோ ஒருவர் உங்கள் அடையாள அட்டையையோ கடவுச்சீட்டையோ சரிபார்க்கிறார். மலேசியாவுக்குள் வேறு எந்த விமானமும் அப்படி இயங்குவதில்லை.

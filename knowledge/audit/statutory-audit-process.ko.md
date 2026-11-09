@@ -108,6 +108,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.259"
     consequence: "최대 RM50,000의 벌금, 계속되는 위반에 대해 1일당 RM1,000 추가"
+framework: explainer
 ---
 
 말레이시아의 모든 감사 사무소는 왜 감사가 필요한지에 관한 페이지를 발행합니다.

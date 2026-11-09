@@ -70,6 +70,7 @@ verificationNeeded:
   - "SENSIBLE: atañe a las secuelas del 13 de mayo de 1969 y a la Nueva Política Económica / política malayo-bumiputera (raza). Resumido de forma neutral; reverifíquese frente a fuentes primarias y exíjase la aprobación de un revisor humano antes de la publicación."
   - "Confírmense las fechas exactas (mandato, nacimiento, muerte) frente a la Perdana Leadership Foundation y la Oficina del Primer Ministro."
   - "Las fuentes difieren sobre el año de fundación del Barisan Nasional (la coalición tomó forma en 1973 y se registró formalmente en 1974); confírmense la fecha y la redacción precisas antes de apoyarse en ello."
+framework: profile
 ---
 
 En el espacio de unos pocos años turbulentos, Tun Abdul Razak Hussein pasó de guardián constitucional de una nación bajo gobierno de emergencia a principal arquitecto de su orden económico moderno. El segundo primer ministro de Malasia gobernó apenas cinco años y, sin embargo, el marco que construyó —una economía de acción afirmativa, una coalición dominante y una política exterior pragmática— moldeó al país durante décadas después de su súbita muerte en el cargo. Para muchos malasios sigue siendo sencillamente **Bapa Pembangunan**, el Padre del Desarrollo.

@@ -92,6 +92,7 @@ verificationNeeded:
   - "La receta tradicional exacta de tostado del kopi O oscuro——descrita comúnmente como granos tostados con azúcar y margarina, y según algunos relatos también con trigo/maíz——es tratada como secreto comercial por las grandes marcas y varía de un tostador a otro; confírmense los detalles con una fuente primaria."
   - "El momento, los pioneros y los detalles actuales de cafeterías/tostadores del movimiento third wave de Kuala Lumpur se apoyan en parte en un relato de Time Out de 2014; las cafeterías y los tostadores nombrados pueden haber cambiado. Confírmese con fuentes actuales antes de fiarse de detalles concretos."
   - "El alcance y la producción del café cultivado en Malasia (p. ej. Liberica) y cualquier afirmación de 'single-origin malasio' deberían confirmarse con una fuente agrícola o del sector, no con medios de viajes."
+framework: history-culture
 ---
 
 Pide "kopi" en una vieja cafetería de Ipoh y recibirás una taza gruesa de café fuerte, oscuro y

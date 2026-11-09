@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-new-year", "hungry-ghost-festival", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["清明节", "Cheng Beng", "扫墓", "拜山", "祭祖", "慎终追远", "金银纸", "纸扎", "后土", "土地公", "灵骨塔", "骨灰龛", "三保山", "Bukit Cina", "富贵山庄", "Qingming Festival", "Tomb-Sweeping Day"]
+framework: history-culture
 ---
 
 4월 초의 어느 이른 아침, 묘지의 오솔길에 가족들이 하나둘 모습을 드러낸다. 양동이와 낫을 든 이도 있고, 음식과 과일, 지전을 가득 담은 바구니를 든 이도 있다. 자기 집안의 묘를 찾으면 젊은이들이 먼저 잡초를 뽑고 낙엽을 쓸며, 어른들은 묘비의 바랜 글자를 한 획씩 다시 칠하는 법을 일러준다. 묘가 깨끗해진 뒤에야 제물을 차리고 향을 피워 절하며, 마지막으로 옆의 빈터에서 지전을 태운다. 연기와 불길 속에서, 한 해에 한 번 오는 청명이 이렇게 지나간다.

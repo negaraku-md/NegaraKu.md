@@ -126,6 +126,7 @@ keywords:
   - "food handler certificate Malaysia"
   - "licencia de alcohol Malasia"
   - "liquor licence Malaysia"
+framework: rules
 ---
 
 La licencia de restaurante no existe. Lo que existe es un conjunto de cinco o seis

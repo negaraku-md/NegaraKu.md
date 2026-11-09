@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "income-tax" }
 related: ["tax-audit"]
 keywords: ["siasatan cukai", "tax investigation", "التحقيق الضريبي ماليزيا", "LHDN", "Seksyen 114", "المادة 114", "pengelakan cukai", "التهرّب الضريبي", "rangka kerja siasatan cukai", "audit cukai"]
+framework: explainer
 ---
 
 عندما لا يعود خطاب LHDN الوارد يطلب مستندات داعمة بل يبلغك بأن منشآتك ستُفحَص، فقد

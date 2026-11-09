@@ -92,6 +92,7 @@ verificationNeeded:
   - "La etiqueta «la vainilla del Sudeste Asiático» es un encuadre gastronómico popular, no una relación botánica (el pandan y la vainilla son plantas sin relación); confirma la redacción contra una referencia botánica o culinaria si la precisión importa."
   - "El origen del pastel de pandan / chiffon de pandan (atribuido de diversas formas a la repostería de las Indias Orientales Neerlandesas y, vía CNN, al pastel chiffon estadounidense del siglo XX): confírmalo contra una fuente de historia culinaria y no contra medios de noticias o de recetas."
   - "Las propiedades de salud o medicinales del pandan que suelen citarse: circulan muchas afirmaciones populares y aquí no se dan por establecidas; confirma cualquier afirmación de ese tipo contra una fuente revisada por pares o clínica antes de enunciarla."
+framework: explainer
 ---
 
 Levanta la tapa de una olla de arroz con leche de coco en una cocina de Malasia y lo primero

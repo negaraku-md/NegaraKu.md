@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: []
 keywords: ["franchise registration malaysia", "franchise act 1998", "MyFEX 2.0", "franchisor registration", "franchisee registration", "franchise disclosure document", "section 6 franchise act", "section 54 approval"]
+framework: how-to
 ---
 
 Anda tidak boleh menawarkan waralaba secara sah di Malaysia dengan cara yang biasa dilakukan di kebanyakan tempat di dunia — mula-mula mendaftar beberapa cabang secara diam-diam, kemudian meresmikan segalanya kemudian. Undang-undang membalikkan urutan itu. Pendaftaran datang sebelum tawaran pertama, dan sejak 2022 ia turut berlaku bagi penerima waralaba.

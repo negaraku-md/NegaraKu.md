@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "registering-a-birth" }
 related: ["imigresen", "mykad", "registering-a-birth"]
 keywords: ["pasport Malaysia", "renew pasport online", "MyOnline Passport", "pembaharuan pasport antarabangsa", "gantian pasport hilang", "kaunter UTC pasport", "Jabatan Imigresen Malaysia pasport", "yuran pasport Malaysia", "pasport 10 tahun Malaysia"]
+framework: how-to
 ---
 
 パスポートの有効期限まであと1か月、航空券はすでに購入済み、移民局に並ぶために仕事を休む必要があるのか確信が持てない。多くのマレーシア人にとって、答えは「不要」だ。しかし一部の場合——紛失、損傷、または初回申請——では、あの手軽なオンライン経路が実は完全に閉ざされている。

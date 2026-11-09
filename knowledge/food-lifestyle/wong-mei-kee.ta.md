@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#WongMeiKee", "#SiewYok", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Pudu-வில் ஒரு மூலையில் உள்ள கடை மதிய உணவு நேரத்தில் சில மணி நேரம் மட்டுமே திறக்கிறது,

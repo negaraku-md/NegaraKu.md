@@ -105,6 +105,7 @@ keywords:
   - "Forest City SFZ tax"
   - "Pulau 1 Forest City"
   - "zon kewangan khas Forest City"
+framework: explainer
 ---
 
 Hai chương trình nằm trên cùng một dải bờ biển Johor, và gần như mọi bản tóm tắt viết về chúng đều

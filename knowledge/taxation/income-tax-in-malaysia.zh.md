@@ -93,6 +93,7 @@ relations:
   - { rel: "explained-in", to: "corporate-tax-rates" }
 related: ["personal-tax-rates", "corporate-tax-rates", "personal-tax-reliefs", "pcb-monthly-tax-deduction"]
 keywords: ["income tax Malaysia", "cukai pendapatan Malaysia", "LHDN income tax", "182 day rule Malaysia", "self assessment system Malaysia", "chargeable income", "Malaysia tax residency", "year of assessment"]
+framework: explainer
 ---
 
 大多数人初识马来西亚的所得税，是薪水单上的一行字——「PCB」——以及一年一度在四月的手忙脚乱。在那一行字背后，坐落着这个国家最举足轻重的制度之一，而几乎所有相关文字都从错误的地方讲起：一张税率表。

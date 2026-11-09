@@ -107,6 +107,7 @@ relations:
   - { rel: "compares-with", to: "capital-allowances" }
 related: ["double-deduction-list", "capital-allowances", "section-33-deductibility", "tax-incentives-directory"]
 keywords: ["approved research allowance malaysia", "r&d double deduction malaysia", "section 34a income tax act", "section 34b double deduction", "r&d status mida", "borang 1 r&d lhdn"]
+framework: explainer
 ---
 
 Approved research allowance பற்றி மூன்று ஆலோசகர்களிடம் கேளுங்கள், மூன்று விடைகளைப் பெறுவீர்கள், ஏனெனில் அத்தகைய நிவாரணம் எதுவும் இல்லை. Income Tax Act 1967-இல் எதுவும் அந்தச் சொற்றொடரைப் பயன்படுத்தவில்லை. இருப்பது என்னவென்றால், வெவ்வேறு ஒப்புதல் வழிகளும் வெவ்வேறு காலக்கெடுக்களும் கொண்ட மூன்று தனித்தனிக் கழிவுகள், மேலும் MIDA நடத்தும் நான்காவது, முற்றிலும் வேறுபட்ட ஒரு முறை. இவற்றை ஒன்றாகக் குழப்புவதுதான் ஒரு கம்பெனி தாங்க முடியாத ஒரு இரட்டைக் கழிவுடன் முடிவடையும் வழி.

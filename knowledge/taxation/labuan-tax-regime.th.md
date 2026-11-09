@@ -141,6 +141,7 @@ relations:
   - { rel: "located-in", to: "labuan" }
 related: ["corporate-tax-rates"]
 keywords: ["Labuan tax", "Labuan 3% tax rate", "Labuan substance requirements", "LBATA 1990", "cukai Labuan", "Labuan company Malaysia tax", "section 39(1)(r)"]
+framework: explainer
 ---
 
 โบรชัวร์ลาบวนทุกฉบับเปิดด้วยตัวเลขเดียวกัน: 3% มันถูกต้อง และเป็นข้อเท็จจริงที่สำคัญน้อยที่สุดเกี่ยวกับระบบ

@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "fifa-eligibility-rules" }
 related: []
 keywords: ["naturalisasi", "pemain warisan", "FAM", "FIFA", "CAS", "Harimau Malaya", "dokumen palsu", "Artikel 22", "Piala Asia 2027"]
+framework: explainer
 ---
 
 7名の外国生まれの選手が、2025年6月にハリマウ・マラヤのジャージーに袖を通した。それから1年も経たないうちに、世界最高峰のスポーツ仲裁機関が、彼らにマレーシアでのプレー資格を与えた書類が偽造されていたことを確認した。この事件は、一連のFIFAの規律手続き、スポーツ仲裁裁判所（CAS）への上訴、そしてマレーシアでの警察への通報を引き起こした。

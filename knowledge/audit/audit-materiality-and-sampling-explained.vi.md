@@ -71,6 +71,7 @@ relations:
   - { rel: "administered-by", to: "malaysian-institute-of-accountants" }
 related: ["malaysian-institute-of-accountants"]
 keywords: ["materiality", "audit sampling", "ISA 320", "ISA 530", "ISA 450", "performance materiality", "tolerable misstatement", "statutory audit Malaysia"]
+framework: explainer
 ---
 
 Một kiểm toán viên ký một bộ báo cáo tài chính gần như không bao giờ xem xét mọi giao dịch đằng sau chúng — và các chuẩn mực nói rằng đó chính xác là cách làm việc đúng đắn.

@@ -134,6 +134,7 @@ keywords:
   - "MCKIP Kuantan incentives"
   - "Kuantan Port free zone"
   - "ECRL completion date"
+framework: profile
 ---
 
 ECER是那个做得规矩到位的走廊。北部经济走廊透过未经文书记录的部长酌情权提供奖掖，柔佛-新加坡经济特区至今仍全无宪报颁布的法律文书，而ECER拥有**八项已颁布的命令**，你可以自行下载、阅读并查核。

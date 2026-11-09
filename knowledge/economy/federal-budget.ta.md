@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["parliament", "federal-constitution", "gdp-overview", "sst-explained"]
 keywords: ["belanjawan persekutuan", "Akta Perbekalan", "Rang Undang-Undang Perbekalan", "peringkat jawatankuasa belanjawan", "kitaran belanjawan Malaysia", "Akta 850"]
+framework: explainer
 ---
 
 2025 டிசம்பர் 31 அன்று, வழங்கல் சட்டம் 2026 (Supply Act 2026) வர்த்தமானியில்

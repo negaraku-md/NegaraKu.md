@@ -207,6 +207,7 @@ keywords:
   - "कंपनी सचिव 30 दिन"
   - "नई कंपनी अनुपालन जाँच-सूची"
   - "post incorporation Malaysia"
+framework: journey-hub
 ---
 
 निगमन एक लेन-देन है। अनुपालन एक सदस्यता है।

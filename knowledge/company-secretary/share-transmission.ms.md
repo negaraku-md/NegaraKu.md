@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "share-transfer" }
 related: ["share-transfer", "register-of-members", "stamp-duty-share-transfer", "beneficial-ownership"]
 keywords: ["peralihan saham Malaysia", "saham selepas pemegang saham meninggal dunia", "seksyen 109 Akta Syarikat 2016", "probet saham Sdn Bhd", "pemegang amanah kebankrapan saham"]
+framework: how-to
 ---
 
 Seorang pemegang saham dalam sebuah Sdn Bhd dua orang meninggal dunia. Pengarah yang

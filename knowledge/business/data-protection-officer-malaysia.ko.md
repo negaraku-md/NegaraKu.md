@@ -95,6 +95,7 @@ relations:
   - { rel: "governs", to: "personal-data-protection-act-2010" }
 related: ["pdpa-compliance-malaysia", "online-business-licence-malaysia"]
 keywords: ["data protection officer malaysia", "dpo malaysia", "section 12a pdpa", "pdpa dpo threshold", "appoint dpo malaysia"]
+framework: rules
 ---
 
 대부분의 말레이시아 사업체는 DPO 기준을 읽고 "정보주체 20,000명"을 보고는 자신은 그 근처에도

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "malaysia-sales-and-service-tax" }
 related: ["sales-and-service-tax"]
 keywords: ["tourism tax", "TTx", "Malaysia", "MyTTx", "RM10 per room", "DPSP", "hotel tax", "RMCD"]
+framework: rules
 ---
 
 Lapor masuk ke hampir mana pun hotel di Kuala Lumpur dengan paspor asing dan satu baris yang menarik perhatian akan muncul pada tagihan: RM10, rata, untuk setiap malam Anda menginap. Itulah pajak pariwisata (TTx) Malaysia — pungutan kecil yang tetap dan berperilaku sangat berbeda dari pajak hotel berbasis persentase yang ditemui wisatawan di tempat lain.

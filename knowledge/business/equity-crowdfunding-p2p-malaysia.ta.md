@@ -86,6 +86,7 @@ relations:
   - { rel: "compares-with", to: "sme-financing-malaysia" }
 related: ["sme-financing-malaysia", "share-capital-malaysia", "shareholders-agreement-malaysia"]
 keywords: ["equity crowdfunding malaysia", "p2p financing malaysia", "ecf malaysia", "sc recognized market operator", "raise funds sme malaysia", "invoice financing p2p malaysia", "startup funding malaysia"]
+framework: decision
 ---
 
 பிணையம் (collateral) இல்லாமையால் மூன்று வங்கிகளால் நிராகரிக்கப்பட்ட ஒரு மலேசிய SME-க்கு

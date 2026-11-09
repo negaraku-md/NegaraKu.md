@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "appoint-company-secretary" }
 related: ["statutory-registers", "register-of-members", "appoint-company-secretary", "annual-return"]
 keywords: ["سجل المديرين ماليزيا", "register of directors Malaysia", "المادة 57 قانون الشركات 2016", "section 57 Companies Act 2016", "إخطار المادة 58 SSM", "section 58 notification SSM", "daftar pengarah syarikat", "تغيير المدير SSM 14 يومًا", "عنوان التبليغ للمدير"]
+framework: rules
 ---
 
 يستقيل مدير في 3 مارس. يقدّم أمين سر الشركة إخطار المادة 58 إلى SSM في 14 مارس، في حدود الموعد النهائي بأريحية، ويغلق الملف. وبعد أحد عشر شهرًا يطلب محامي أحد المشترين الاطلاع على سجل المديرين فيجد المدير المستقيل ما زال مُدرَجًا. وقد امتثلت الشركة لواجب وخالفت الآخر — والمخالفة ذات العقوبة الأعلى هي التي لم ينتبه إليها أحد.

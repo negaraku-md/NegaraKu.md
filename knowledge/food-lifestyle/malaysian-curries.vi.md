@@ -99,6 +99,7 @@ verificationNeeded:
   - "Từ nguyên và nguồn gốc của kari kapitan (liên hệ với các thủ lĩnh cộng đồng Kapitan Cina thời thuộc địa, và truyền thuyết 'Curry, Kapitan!' thường được nhắc lại) — giới học thuật xem đây là văn hóa dân gian còn tranh cãi chứ không phải sự kiện được ghi chép. Xác minh bằng một nguồn hàn lâm hoặc di sản."
   - "Liệu rendang có nên được xếp là cà ri hay không — một số người viết khẳng định món đã hoàn tất và cạn hoàn toàn là khô và không phải cà ri, trong khi những người khác xem nó là điểm cuối của chuỗi liên tục gulai–kalio–rendang — cùng nguồn gốc Minangkabau/Tây Sumatra của nó đối lại các tuyên bố di sản của Malaysia. Xác minh bằng một nguồn lịch sử ẩm thực."
   - "Ranh giới chính xác giữa gulai, masak lemak, asam pedas và gulai tumis — các tên này chồng lấn, thay đổi theo vùng (ví dụ asam pedas được gọi là gulai ở một số nơi tại Johor) và được dùng không nhất quán. Xác minh cách đặt tên theo vùng này bằng một nguồn ẩm thực Malaysia."
+framework: explainer
 ---
 
 Hãy gọi "cà ri" tại một gian bếp kampung Mã Lai, một tiệm cơm lá chuối Ấn-Malaysia và một

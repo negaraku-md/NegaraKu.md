@@ -68,6 +68,7 @@ relations:
   - { rel: "administered-by", to: "perkeso" }
 related: ["labour-law-map-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "payroll-compliance-malaysia", "payroll-rates-deadlines-malaysia", "epf-foreign-workers-malaysia", "new-hire-statutory-checklist"]
 keywords: ["EPF SOCSO EIS Malaysia", "वैधानिक अंशदान नियोक्ता मलेशिया", "KWSP PERKESO नियोक्ता", "KWSP अंशदान नियोक्ता", "पेरोल वैधानिक मलेशिया"]
+framework: journey-hub
 ---
 
 नियोक्ता इसे बार-बार एक ही दायित्व कहते रहते हैं। यह तीन हैं, और ये कोई क़ानून, कोई

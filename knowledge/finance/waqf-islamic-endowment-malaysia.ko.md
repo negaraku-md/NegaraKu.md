@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "donations-and-tax-deductions" }
 related: ["islamic-finance", "state-islamic-religious-councils", "zakat", "donations-and-tax-deductions"]
 keywords: ["waqf", "wakaf", "Islamic endowment Malaysia", "cash waqf", "corporate waqf", "JAWHAR", "Yayasan Waqaf Malaysia", "waqf land Malaysia"]
+framework: explainer
 ---
 
 사람에게 물고기 한 마리를 주면 하루를 먹는다. 결코 팔 수 없는 연못을 기부하면 온 마을이 영원히 먹는다. 한 문장으로 말하면, 그것이 와크프입니다.

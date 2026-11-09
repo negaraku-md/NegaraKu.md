@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["opening-bank-account"]
 keywords: ["PTPTN", "pinjaman pendidikan", "kelayakan PTPTN", "bayaran balik PTPTN", "Akta 566", "pembiayaan pengajian tinggi Malaysia", "SSPN"]
+framework: explainer
 ---
 
 Ramai pelajar menandatangani dokumen tawaran PTPTN dengan andaian yang sama:

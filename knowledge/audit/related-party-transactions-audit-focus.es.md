@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "going-concern-audit" }
 related: ["statutory-audit-process", "audit-opinion-types", "going-concern-audit"]
 keywords: ["transacciones con partes vinculadas", "related party transactions", "ISA 550", "MFRS 124", "arm's length", "Capítulo 10 de Bursa", "Bursa Chapter 10", "transacciones recurrentes con partes vinculadas", "riesgo de auditoría"]
+framework: explainer
 ---
 
 Una empresa vende aceite de palma crudo a otra empresa propiedad de su propio accionista principal. Nada en la factura dice si eso es un acuerdo de suministro ordinario o el primer paso para drenar valor de los accionistas minoritarios. La labor del auditor es averiguar cuál de las dos cosas es, y para eso exactamente está escrita la Norma Internacional de Auditoría 550, *Partes vinculadas*.

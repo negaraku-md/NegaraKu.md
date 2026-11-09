@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-dialects", "chinese-clan-associations", "chinese-cemeteries", "chinese-new-villages", "population-composition"]
 keywords: ["帮群", "方言群", "籍贯", "福建帮", "广府帮", "客家帮", "潮州帮", "海南帮", "会馆", "义山", "马来西亚华人", "海南咖啡", "锡矿", "Chinese bang communities Malaysia"]
+framework: history-culture
 ---
 
 페낭의 옛 거리에서 한 상점가를 통째로 떠받치는 것은 대개 푸젠인이 연 상점들입니다. 쿠알라룸푸르나 이포처럼 주석으로 흥한 도시에서는 광산과 동업 조합이 광부인과 커자인으로 북적였습니다. 그리고 어느 도시에 들어서든, 하이난 커피와 버터·카야를 바른 토스트를 파는 오래된 커피점 간판 뒤에는 흔히 하이난인이 서 있습니다.

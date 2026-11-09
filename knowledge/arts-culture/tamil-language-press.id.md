@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "estate-tamil-community", "tamil-vernacular-schools", "chinese-language-press", "languages-spoken"]
 keywords: ["மலேசியத் தமிழ்ப் பத்திரிகைகள்", "தமிழ் நாளிதழ்கள் மலேசியா", "மலேசிய நண்பன்", "மக்கள் ஓசை", "தமிழ் நேசன்", "மின்னல் FM", "Tamil-language press in Malaysia", "Tamil newspapers Malaysia"]
+framework: history-culture
 ---
 
 Sebuah surat kabar Tamil bersama kopi atau teh pagi di kedai sudut jalan — bagi satu generasi komunitas Tamil Malaysia, inilah pemandangan yang akrab. Lembar-lembar itu bukan hanya memuat berita hari itu, melainkan juga pengumuman perayaan kuil, berita sekolah Tamil, ucapan pernikahan, berita duka, dan ulasan film Tamil — kehidupan sehari-hari sebuah komunitas, tercetak di atas kertas.

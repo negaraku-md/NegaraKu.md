@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-accounting-records" }
 related: ["accounting-records-section-245"]
 keywords: ["registros contables fuera de Malasia", "sección 245(5) Companies Act", "registros contables en la nube Malasia", "registros de centro de servicios compartidos Malasia", "conservar registros en Malasia LHDN"]
+framework: rules
 ---
 
 Una subsidiaria malasia que ejecuta SAP desde un centro de datos de Singapur, con

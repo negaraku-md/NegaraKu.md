@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "directors-duties" }
 related: ["accounting-records-section-245", "directors-duties"]
 keywords: ["director right to inspect accounting records Malaysia", "section 245(4) Companies Act 2016", "director inspection subsidiary records", "shareholder dispute company records Malaysia"]
+framework: explainer
 ---
 
 ஒரு பங்குதாரர் தகராறில், முதல் குண்டு அரிதாகவே ஒரு மனுவாக இருக்கும். அது பொதுவாகக்

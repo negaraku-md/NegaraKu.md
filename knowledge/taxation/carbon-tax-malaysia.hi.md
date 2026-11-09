@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "national-energy-transition-roadmap" }
 related: []
 keywords: ["मलेशिया कार्बन कर", "कार्बन-मूल्य-निर्धारण", "लोहा इस्पात ऊर्जा कार्बन कर", "carbon tax Malaysia", "carbon pricing Malaysia", "National Carbon Market Policy", "Climate Change Bill Malaysia", "cukai karbon"]
+framework: explainer
 ---
 
 मलेशिया पहली बार कार्बन पर कीमत रखने की तैयारी कर रहा है, और वह उन उद्योगों से

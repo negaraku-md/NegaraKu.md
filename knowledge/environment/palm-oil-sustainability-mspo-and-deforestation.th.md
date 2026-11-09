@@ -91,6 +91,7 @@ relations:
   - { rel: "affects", to: "eu-deforestation-regulation-eudr" }
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "palm oil sustainability", "deforestation", "EUDR", "RSPO", "certification", "smallholders", "MPOB", "Malaysia palm oil"]
+framework: explainer
 ---
 
 มาเลเซียปลูกปาล์มน้ำมันราวหนึ่งในห้าของโลก และอุตสาหกรรมนี้ถูกวิพากษ์วิจารณ์จากนักรณรงค์ในยุโรปและองค์กรพัฒนาเอกชนมานานเรื่องความเชื่อมโยงกับการตัดไม้ทำลายป่า เพื่อตอบสนอง ประเทศในปัจจุบันดำเนินระบบการรับรองภาคบังคับที่รัฐหนุนหลัง และเมื่อ 5 กันยายน 2025 สหภาพยุโรปยอมรับระบบนั้นในแถลงการณ์ร่วม นี่คือวิธีที่ MSPO ทำงาน สิ่งที่มันพิสูจน์และไม่พิสูจน์ และปัญหาที่ยากลำบากยังคงอยู่ที่ใด

@@ -71,6 +71,7 @@ relations:
   - { rel: "administered-by", to: "malaysian-institute-of-accountants" }
 related: ["malaysian-institute-of-accountants"]
 keywords: ["materiality", "audit sampling", "ISA 320", "ISA 530", "ISA 450", "performance materiality", "tolerable misstatement", "statutory audit Malaysia"]
+framework: explainer
 ---
 
 ผู้สอบบัญชีที่ลงนามในชุดบัญชีแทบจะไม่เคยดูทุกรายการที่อยู่เบื้องหลังบัญชีเหล่านั้น — และมาตรฐานระบุว่านั่นเป็นวิธีการทำงานที่ถูกต้องพอดี

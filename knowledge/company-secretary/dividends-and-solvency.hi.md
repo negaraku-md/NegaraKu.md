@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "directors-duties" }
 related: ["directors-duties", "capital-reduction", "share-capital-malaysia", "loans-to-directors", "corporate-tax-rates"]
 keywords: ["लाभांश मलेशिया Sdn Bhd", "dividend Malaysia Sdn Bhd", "धारा 131 कंपनी अधिनियम 2016", "section 131 Companies Act 2016", "शोधनक्षमता परीक्षण लाभांश", "अवैध लाभांश निदेशक दायित्व", "लाभ में से वितरण"]
+framework: rules
 ---
 
 RM800,000 की प्रतिधारित आय वाली एक लाभदायक Sdn Bhd दिसंबर में अपने दो शेयरधारकों

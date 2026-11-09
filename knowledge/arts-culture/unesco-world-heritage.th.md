@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "George Town Melaka inscription criteria", "Gunung Mulu World Heritage", "Lenggong Valley Perak Man", "Niah Caves UNESCO 2024"]
+framework: data-reference
 ---
 
 ถามว่ามาเลเซียมีแหล่งมรดกโลกกี่แห่ง แล้วแหล่งข้อมูลส่วนใหญ่จะบอกคุณว่าสี่ นั่นเป็นจริงจนถึงปี 2024 กลุ่มถ้ำเนียะฮ์ได้รับการขึ้นทะเบียนในเดือนกรกฎาคมปีนั้น และสวนป่าสถาบันวิจัยป่าไม้มาเลเซียสลังงอร์ตามมาในปี 2025 — ทำให้ยอดรวมเป็นหก

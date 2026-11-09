@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "consumer-rights-and-tribunal" }
 related: ["opening-bank-account", "duitnow-qr-payments", "consumer-rights-and-tribunal"]
 keywords: ["999 मलेशिया आपातकालीन नंबर", "997 NSRC हॉटलाइन", "राष्ट्रीय धोखाधड़ी प्रतिक्रिया केंद्र", "मकाऊ स्कैम मलेशिया", "999 Malaysia emergency number", "997 NSRC hotline", "National Scam Response Centre", "Macau scam Malaysia", "Semak Mule CCID", "Cyber999 MyCERT", "how to report a scam Malaysia", "phone scam Malaysia", "APK scam parcel"]
+framework: explainer
 ---
 
 फ़ोन करने वाला पहले से ही आपका नाम और आपका MyKad नंबर जानता है। वह कहता है कि वह

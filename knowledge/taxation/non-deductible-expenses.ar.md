@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "entertainment-expenses" }
 related: ["section-33-deductibility", "labuan-tax-regime", "withholding-tax-non-compliance", "withholding-tax-rates"]
 keywords: ["المادة 39 قانون ضريبة الدخل 1967", "النفقات غير القابلة للخصم في ماليزيا", "النفقات المرفوضة في حساب الضريبة", "39(1)(j) ضريبة الاستقطاع", "39(1)(r) لابوان", "الإضافات في حساب الضريبة في ماليزيا", "section 39 income tax act 1967", "non deductible expenses malaysia"]
+framework: rules
 ---
 
 تُبنى معظم جداول الإضافات من العادة. الإهلاك، والضيافة، والغرامات، والتبرّعات — البنود الستّة نفسها كل سنة، منسوخة إلى الأمام. والواقع أن المادة 39(1) تتضمّن ثمانية عشر حظرًا قائمًا، وأكثرها كلفةً للمال ليست في قائمة أحدٍ المعتادة.

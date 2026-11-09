@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "statutory-registers" }
 related: ["beneficial-ownership", "ebos-filing", "who-is-a-beneficial-owner", "bo-non-cooperation", "statutory-registers"]
 keywords: ["लाभकारी स्वामियों का रजिस्टर मलेशिया", "register of beneficial owners Malaysia", "धारा 60B कंपनी अधिनियम", "section 60B Companies Act", "BO रजिस्टर पंजीकृत कार्यालय", "लाभकारी स्वामित्व प्रतिधारण 7 वर्ष", "सांविधिक रजिस्टर लाभकारी स्वामी"]
+framework: rules
 ---
 
 किसी मलेशियाई कंपनी सचिव से लाभकारी स्वामियों का रजिस्टर प्रस्तुत करने को कहें, और एक

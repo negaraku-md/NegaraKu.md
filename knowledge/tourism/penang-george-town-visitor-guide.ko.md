@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["Penang travel guide", "George Town UNESCO", "Penang street art", "Penang Hill funicular", "Penang hawker food", "George Town heritage core", "Batu Ferringhi", "things to do in Penang"]
+framework: explainer
 ---
 
 섬에 내려 냉방에서 걸어 나오면, 가장 먼저 덮쳐 오는 것은 냄새입니다 — 웍의 연기, 중국 사원의 향, 프랑기파니, 그리고 믈라카 해협의 소금기. 조지타운은 발로 읽는 곳입니다. 모스크, 클랜 하우스, 식민지 시대 교회가 한 블록을 함께 나눌 수 있는, 백 년 된 숍하우스의 아담한 격자입니다. 이 가이드는 무엇을 볼지, 어디서 먹을지, 해변과 언덕에 어떻게 닿을지, 그리고 느긋함에 보답하는 도시에 얼마나 시간을 줄지를 다룹니다.

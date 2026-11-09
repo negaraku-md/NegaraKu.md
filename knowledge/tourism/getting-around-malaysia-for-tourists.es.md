@@ -118,6 +118,7 @@ relations:
   - { rel: "related-to", to: "visiting-sabah-and-sarawak" }
 related: []
 keywords: ["desplazarse por Malasia", "KLIA Ekspres", "tren KTM ETS", "vuelos domésticos Malasia", "AirBorneo", "Grab Malasia", "ferri Malasia", "conducir en Malasia", "Touch n Go"]
+framework: explainer
 ---
 
 Aterriza en el Aeropuerto Internacional de Kuala Lumpur a medianoche, con el desfase horario a cuestas, y los captadores de taxis ya están dando vueltas. La buena noticia: Malasia tiene uno de los sistemas de transporte más amables con el turista del Sudeste Asiático, y puede saltarse el engorro por completo: un tren rápido y de precio fijo desde el aeropuerto, una app en el móvil que llama a un coche con tarifa cerrada, y vuelos domésticos baratos que convierten Borneo en una escapada de fin de semana. El truco está en saber qué modo elegir, y cuándo.

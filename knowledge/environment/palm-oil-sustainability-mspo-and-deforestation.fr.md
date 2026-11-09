@@ -91,6 +91,7 @@ relations:
   - { rel: "affects", to: "eu-deforestation-regulation-eudr" }
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "durabilité huile de palme", "palm oil sustainability", "déforestation", "deforestation", "EUDR", "RSPO", "certification", "petits exploitants", "smallholders", "MPOB", "huile de palme Malaisie", "Malaysia palm oil"]
+framework: explainer
 ---
 
 La Malaisie produit environ un cinquième de l'huile de palme mondiale, et l'industrie suscite depuis longtemps les critiques des militants européens et des ONG en raison de ses liens avec la déforestation. En réponse, le pays gère désormais un dispositif de certification obligatoire et adossé à l'État, et le 5 septembre 2025 l'Union européenne a reconnu ce dispositif dans une déclaration conjointe. Voici comment fonctionne le MSPO, ce qu'il prouve et ce qu'il ne prouve pas, et où résident encore les problèmes difficiles.

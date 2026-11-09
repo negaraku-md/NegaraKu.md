@@ -96,6 +96,7 @@ verificationNeeded:
   - "Kisah asal usul chicken rice balls (bahawa pekerja atau pelaut membentuk nasi menjadi bola untuk kemudahan dibawa) dan sama ada hidangan ini benar-benar berasal dari Melaka dan bukan tempat lain — ini legenda popular, bukan terdokumentasi dengan kukuh; sahkan dengan sumber sejarah makanan."
   - "Sama ada cendol dan gula Melaka benar-benar berasal dari Melaka — penamaan gula enau sempena Melaka ialah dakwaan yang paling disokong, tetapi asal usul cendol sendiri belum selesai (Jawa dan Peranakan Melaka/Pulau Pinang kedua-duanya dicadangkan); sahkan dengan sumber sejarah kulinari."
   - "Asal usul tepat dan pembuat pertama tart nanas (lazimnya dikaitkan dengan tukang masak Nyonya Peranakan dengan pengaruh pastri Portugis) serta permainan kata Hokkien 'ong lai'/kemakmuran di sebalik peranannya dalam Tahun Baru Cina — sahkan dengan sumber kulinari atau linguistik."
+framework: history-culture
 ---
 
 Sedikit sahaja bandar di Malaysia yang memaparkan sejarahnya di atas pinggan

@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "tax-penalties" }
 related: ["offboarding-statutory-checklist", "pcb-monthly-tax-deduction", "expatriate-and-non-resident-tax", "tax-penalties", "tax-appeal"]
 keywords: ["tax clearance Malaysia", "SPC LHDN", "surat penyelesaian cukai", "CP21 form", "CP22A form", "e-SPC MyTax", "90 day withholding tax clearance", "section 83(5) Income Tax Act"]
+framework: rules
 ---
 
 ทีมเงินเดือนปฏิบัติต่อการเคลียร์ภาษีในฐานะแบบฟอร์ม มันไม่ใช่แบบฟอร์ม — มันเป็น **หน้าที่การกันเงินที่มีความรับผิดผูกมาด้วย** และความรับผิดนั้นไม่ใช่ของลูกจ้าง

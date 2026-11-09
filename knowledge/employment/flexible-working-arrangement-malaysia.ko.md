@@ -72,6 +72,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-act-1955-guide", "working-hours-overtime-malaysia", "employment-contract-malaysia"]
 keywords: ["flexible working arrangement malaysia", "fwa malaysia employment act", "section 60p 60q", "work from home request malaysia", "flexible work application malaysia"]
+framework: rules
 ---
 
 말레이시아의 유연근무에 관한 보도 대부분은 이를 고용주가 제공하기로 선택할 수 있는 혜택으로

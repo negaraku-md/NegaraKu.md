@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-china-relations", "malaysia-asean-membership"]
 keywords: ["Malaysia US relations", "Comprehensive Strategic Partnership", "reciprocal trade agreement", "US tariff Malaysia", "semiconductors", "defence cooperation"]
+framework: explainer
 ---
 
 Barack Obama 2014-இல் Kuala Lumpur-இன் தேசிய மசூதியான Masjid Negara-வைச் சுற்றிப் பார்த்தார்; Anwar Ibrahim 2025-இல் கையெழுத்திடப்பட்ட ஒரு வர்த்தக ஒப்பந்தத்தின் மீது Donald Trump-உடன் கைகுலுக்கினார். மிகவும் வேறுபட்ட இரு அமெரிக்க ஜனாதிபதிகள், ஆனால் ஒரே நீடித்த உறவு — மேலும் Washington-இன் பாதுகாப்பு குடையின் கீழ் ஒருபோதும் நிற்காமல் அதனுடன் நெருங்கிப் பழகும் ஒரு மலேசிய பழக்கம்.

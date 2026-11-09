@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "remove-a-director" }
 related: ["remove-a-director", "agm-requirements", "resolution-notice-periods", "written-resolutions"]
 keywords: ["EGM requisition Malaysia", "section 311 Companies Act 2016", "shareholders call meeting", "10 per cent requisition", "minority shareholder meeting"]
+framework: how-to
 ---
 
 Toda firma de servicios secretariales malasia escribe sobre las juntas desde el lado

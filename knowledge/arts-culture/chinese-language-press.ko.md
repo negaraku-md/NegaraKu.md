@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "tamil-language-press" }
 related: ["chinese-education-in-malaysia", "chinese-clan-associations", "tamil-language-press", "languages-spoken"]
 keywords: ["华文报", "华文报业", "星洲日报", "中国报", "南洋商报", "光明日报", "东方日报", "世华媒体", "明报", "华教", "印刷机与出版物法令", "数码转型", "Chinese-language press Malaysia", "Sin Chew Daily", "Media Chinese International"]
+framework: history-culture
 ---
 
 이른 아침 코피티암(kopitiam, 찻집)에서, 활짝 펼쳐진 중국어 신문은 흔히 커피 한 잔과 나란히 놓여 있다. 독자는 1면의 국내외 큰 뉴스를 넘긴 뒤, 대개 가장 익숙한 지면으로 곧장 향한다——어느 화문 초등학교가 또 바자회를 열었는지 지역 뉴스를 먼저 보는 사람, 부간(문예면)과 논설면을 넘기는 사람, 그리고 부고·안내 광고·복권 결과만을 위해 신문을 보는 사람도 있다. 많은 말레이시아 화인에게 중국어 신문은 단순한 뉴스가 아니라, 날마다 이어지는 중국어 읽기 습관이기도 하다.

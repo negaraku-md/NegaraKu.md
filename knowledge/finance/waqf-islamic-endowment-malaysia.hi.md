@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "donations-and-tax-deductions" }
 related: ["islamic-finance", "state-islamic-religious-councils", "zakat", "donations-and-tax-deductions"]
 keywords: ["waqf", "wakaf", "Islamic endowment Malaysia", "cash waqf", "corporate waqf", "JAWHAR", "Yayasan Waqaf Malaysia", "waqf land Malaysia"]
+framework: explainer
 ---
 
 किसी आदमी को एक मछली दो तो वह एक दिन खाता है। एक ऐसा मछली-तालाब बंदोबस्त कर दो जिसे कभी बेचा न जा सके, और पूरा गाँव हमेशा खाता है। यही, एक वाक्य में, वक़्फ़ है।

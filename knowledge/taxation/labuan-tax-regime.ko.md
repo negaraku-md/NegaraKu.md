@@ -141,6 +141,7 @@ relations:
   - { rel: "located-in", to: "labuan" }
 related: ["corporate-tax-rates"]
 keywords: ["Labuan tax", "Labuan 3% tax rate", "Labuan substance requirements", "LBATA 1990", "cukai Labuan", "Labuan company Malaysia tax", "section 39(1)(r)"]
+framework: explainer
 ---
 
 모든 라부안 안내 책자는 같은 수치로 시작합니다. 3%입니다. 정확하며, 이 제도에 관해 가장 덜 중요한 사실입니다.

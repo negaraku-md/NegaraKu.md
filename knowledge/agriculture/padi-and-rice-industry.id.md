@@ -100,6 +100,7 @@ entity: "Padi and rice industry in Malaysia"
 relations: []
 related: []
 keywords: ["padi", "rice industry Malaysia", "rice self-sufficiency level Malaysia", "SSL rice", "BERNAS", "Padiberas Nasional", "guaranteed minimum price padi", "Harga Minimum Terjamin", "MADA", "kawasan jelapang padi", "subsidi harga padi", "SSHP", "Dasar Agromakanan Negara 2.0", "National Agrofood Policy", "rice import Malaysia", "padi farmers Malaysia"]
+framework: profile
 ---
 
 Beras adalah satu-satunya pangan yang Malaysia enggan biarkan kepada pasar bebas. Negara memusatkan tempat ia ditanam, melindungi petani yang menanamnya, memberi lisensi kepada satu perusahaan untuk mengimpor kekurangan, dan memegang cadangan darurat terhadap guncangan pasokan. Namun setelah berdekade-dekade pengaturan ini, negara masih menanam hanya sekitar separuh dari beras yang dikonsumsinya.

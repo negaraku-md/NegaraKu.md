@@ -68,6 +68,7 @@ relations:
   - { rel: "part-of", to: "jendela" }
 related: ["mobile-sim-plans"]
 keywords: ["unifi malaysia", "maxis fibre home", "time fibre broadband", "internet par fibre Malaisie", "JENDELA MCMC", "vérification couverture haut débit domicile Malaisie", "installer internet par fibre Malaisie", "unifi vs maxis vs time"]
+framework: decision
 ---
 
 Avant de comparer le moindre ringgit de prix, il y a une question qui compte

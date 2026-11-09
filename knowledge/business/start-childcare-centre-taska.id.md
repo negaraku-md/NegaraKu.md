@@ -73,6 +73,7 @@ social:
     - StartABusiness
     - DoingBusinessInMalaysia
     - JKM
+framework: how-to
 ---
 
 Membuka pusat penitipan anak terasa seperti usaha yang penuh kasih dan berhambatan rendah — sebuah rumah, beberapa ayunan, beberapa tangan yang ramah. Di Malaysia ia bukan salah satu dari semua itu secara hukum. Saat Anda menerima empat anak kecil atau lebih dari keluarga yang berbeda dengan bayaran, Anda sedang mengelola sebuah **TASKA** (taman asuhan kanak-kanak), dan sebuah TASKA tidak boleh dibuka sampai ia didaftarkan dengan pemerintah. Lewati langkah itu dan Anda bukan seorang pemilik usaha kecil; Anda sedang melakukan suatu tindak pidana.

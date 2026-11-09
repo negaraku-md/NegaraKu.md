@@ -96,6 +96,7 @@ verificationNeeded:
   - "L'histoire de l'origine des chicken rice balls (selon laquelle des ouvriers ou des marins façonnaient le riz en boules faciles à emporter) et la question de savoir si le plat est réellement né à Melaka plutôt qu'ailleurs — ce sont des légendes populaires, non solidement documentées ; à confirmer auprès d'une source d'histoire de l'alimentation."
   - "Si le cendol et le gula Melaka sont réellement nés à Melaka — le baptême du sucre de palme d'après Melaka est l'affirmation la mieux étayée, mais l'origine propre du cendol reste non tranchée (Java comme les peranakan de Melaka/Penang sont tous deux proposés) ; à confirmer auprès d'une source d'histoire culinaire."
   - "L'origine précise et le premier fabricant de la tartelette à l'ananas (communément attribuée aux cuisinières nyonya peranakan avec une influence pâtissière portugaise) et le jeu de mots hokkien « ong lai »/prospérité derrière son rôle au Nouvel An chinois — à confirmer auprès d'une source culinaire ou linguistique."
+framework: history-culture
 ---
 
 Peu de villes de Malaisie mettent leur histoire dans une assiette aussi

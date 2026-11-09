@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "malaysian-institute-of-accountants" }
 related: ["malaysian-institute-of-accountants"]
 keywords: ["ISA 600", "group audit", "component auditor", "group engagement partner", "Malaysia subsidiary audit", "MIA", "مراجعة المجموعة", "مراجع المكوّن", "خطر التجميع"]
+framework: explainer
 ---
 
 تُوحِّد شركة أم ألمانية ذراعها التجارية في كوالالمبور، لكن شريك مراجعة المجموعة في فرانكفورت لم تطأ قدمه ماليزيا قط ولا يقرأ الدفاتر المحلية. فثمة من يؤدي العمل الميداني في ماليزيا — ومع ذلك يظل التوقيع على رأي المجموعة لشريك المجموعة وحده. وذلك الانقسام بالضبط هو ما وُضِع معيار مراجعة المجموعات لتنظيمه.

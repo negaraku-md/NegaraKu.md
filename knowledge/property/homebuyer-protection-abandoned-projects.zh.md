@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "sale-and-purchase-agreement-property" }
 related: []
 keywords: ["HDA", "Akta 118", "APDL", "lesen pemaju", "Tribunal Tuntutan Pembeli Rumah", "projek terbengkalai", "SPNB", "KPKT", "perlindungan pembeli rumah"]
+framework: explainer
 ---
 
 你已经付了订金、签了买卖合约、等着领取房屋钥匙——然后建筑工地却接连数月悄无声息。对于西马购买新住宅的购房者而言，法律实际上在这类情况发生之前、期间和之后都提供了数层保护。关键在于了解哪些受到保护，以及当事情不对劲时该往何处求助。

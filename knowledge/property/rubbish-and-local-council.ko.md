@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
+framework: explainer
 ---
 
 당신의 쓰레기통은 주 2회 비워지지만, 누가 실제로 그것을 가져가는지 물어본 적이 있습니까 — 지방 의회입니까, 아니면 의회가 지정한 다른 회사입니까? 그리고 왜 옆 주의 이웃은 플라스틱 병을 음식물 쓰레기와 분리하지 않았다고 벌금을 물 수 있는데, 당신은 그렇지 않습니까?

@@ -67,6 +67,7 @@ sources:
 
 related: ["muhyiddin-yassin", "2022-general-election", "prime-ministers-of-malaysia", "anwar-ibrahim", "najib-razak"]
 keywords: ["依斯迈沙比里·雅各", "马来西亚第九任首相", "Keluarga Malaysia", "2021 稳定谅解备忘录", "UMNO"]
+framework: profile
 ---
 
 > **草稿——敏感。** 本文为中立、仍在撰写中的摘要，尚未经审阅以供发布。它提及

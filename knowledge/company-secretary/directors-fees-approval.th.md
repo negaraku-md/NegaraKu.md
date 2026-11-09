@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "directors-report" }
 related: ["directors-duties", "directors-report", "loans-to-directors", "disclosure-of-interest"]
 keywords: ["directors fees Malaysia", "section 230 Companies Act 2016", "compensation for loss of office Malaysia", "yuran pengarah syarikat", "director remuneration approval Sdn Bhd", "section 227 payment loss of office"]
+framework: rules
 ---
 
 ในบริษัท Sdn Bhd ของครอบครัว ค่าตอบแทนมักตัดสินในการสนทนาแล้วเขียนขึ้นภายหลัง หากมีการเขียนเลย นั่นใกล้เคียงกับสิ่งที่มาตรา 230(2) ของ Companies Act 2016 อนุญาต — แต่เพียงใกล้เคียง อนุมาตราที่ตามมากำหนดหน้าที่ **สิบสี่วัน** ในการบอกผู้ถือหุ้น โดยมีโทษ RM250,000 และอนุมาตราถัดไปให้เสียงข้างน้อยสิบเปอร์เซ็นต์มีอำนาจเปลี่ยนค่าตอบแทนเป็น **หนี้ที่ต้องชำระคืนบริษัท**

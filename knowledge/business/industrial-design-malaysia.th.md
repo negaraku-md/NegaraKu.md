@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["patent-malaysia", "trademark-registration-malaysia", "ip-ownership-malaysia"]
 keywords: ["industrial design registration malaysia", "myipo industrial design", "industrial designs act 1996", "design protection malaysia", "product design ip malaysia"]
+framework: explainer
 ---
 
 ความผิดพลาดที่แพงที่สุดเพียงประการเดียวในทรัพย์สินทางปัญญาของผลิตภัณฑ์มาเลเซียคือการเปิดตัวก่อน ผู้ยื่นสิทธิบัตรที่แสดงการประดิษฐ์เมื่อเดือนที่แล้วยังคงไม่เป็นไร มาตรา 14(3) ของพระราชบัญญัติสิทธิบัตร 1983 ให้ระยะผ่อนผันสิบสองเดือน ผู้ยื่นการออกแบบในสถานการณ์เดียวกันมักสูญเสียสิทธิไปแล้ว เพราะพระราชบัญญัติการออกแบบผลิตภัณฑ์ทางอุตสาหกรรม 1996 ไม่ให้สิ่งที่เทียบเท่า

@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["independence-1957", "formation-of-malaysia-1963", "melaka-sultanate"]
 keywords: ["pendudukan Jepun", "Tanah Melayu 1941-1945", "duit pisang", "Kota Bharu 1941", "pentadbiran tentera Jepun", "Perang Dunia Kedua Malaysia"]
+framework: history-culture
 ---
 
 แปดสัปดาห์ นั่นคือระยะห่างระหว่างการขึ้นบกครั้งแรกของกองทัพญี่ปุ่นบนชายฝั่งกลันตัน (Kelantan) กับวันที่แผ่นดินมลายูทั้งหมดอยู่ในมือของญี่ปุ่น ดินแดนที่ถูกปกครองโดยอังกฤษในรูปแบบต่าง ๆ มากว่าหนึ่งศตวรรษครึ่ง

@@ -72,6 +72,7 @@ entity: "Companies Act 2016 (Malaysia)"
 relations: []
 related: []
 keywords: ["special resolution", "ordinary resolution", "special resolution vs ordinary resolution", "Companies Act 2016", "special resolution 75%", "ordinary resolution simple majority", "section 292 Companies Act 2016", "section 291 Companies Act 2016", "written resolution private company Malaysia", "special resolution notice period", "members resolution Malaysia", "resolusi khas", "SSM resolution Malaysia"]
+framework: explainer
 ---
 
 Hai con số phân tách một quyết định thường lệ của cổ đông với một quyết định về cơ cấu: 50% và 75%. Chọn sai loại

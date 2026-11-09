@@ -54,6 +54,7 @@ relations:
   - { rel: "part-of", to: "audit-exemption" }
 related: ["audit-exemption", "audit-exemption-thresholds", "after-audit-exemption"]
 keywords: ["dormant company audit exemption Malaysia", "dormant company SSM", "what breaks dormancy", "dormant since incorporation", "syarikat dorman audit"]
+framework: rules
 ---
 
 A shelf company holding a name and nothing else does not need to pass the revenue

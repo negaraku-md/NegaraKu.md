@@ -70,6 +70,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["AnakBaba", "Peranakan", "BibGourmand", "MichelinGuideMalaysia", "Brickfields"]
+framework: profile
 ---
 
 Anak Baba 是一家坐落于 Brickfields（十五碑，吉隆坡的 Little India／小印度）的娘惹（Peranakan）餐馆，并以 Bib Gourmand 之姿出现在 [MICHELIN Guide Malaysia](/zh/food-lifestyle/michelin-guide-malaysia) 中。MICHELIN Guide 称它为一颗「温馨的小宝石」。

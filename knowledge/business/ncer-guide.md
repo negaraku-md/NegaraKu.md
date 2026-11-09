@@ -99,6 +99,7 @@ keywords:
   - "NTAX NCER closed"
   - "Kulim Hi-Tech Park incentives"
   - "koridor utara NCER"
+framework: explainer
 ---
 
 Ask what the Northern Corridor gives an investor and you will be handed a list of tax exemptions.

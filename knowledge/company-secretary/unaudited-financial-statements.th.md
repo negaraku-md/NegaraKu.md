@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "mbrs-2" }
 related: ["audit-exemption", "financial-statements-lodgement", "mbrs-2", "sdn-bhd-filing-calendar", "mfrs-vs-mpers"]
 keywords: ["unaudited financial statements Malaysia", "audit exemption certificate", "Practice Directive 10/2024 lodgement", "lodge unaudited accounts SSM", "exempt private company certificate section 260"]
+framework: rules
 ---
 
 การมีคุณสมบัติได้รับยกเว้นการตรวจสอบให้ความรู้สึกเหมือนจุดสิ้นสุดของปัญหาการปฏิบัติตามข้อกำหนด แต่มันคือจุดเริ่มต้นของอีกปัญหาหนึ่ง เพราะหน้าที่การยื่นไม่ได้เคลื่อนไป

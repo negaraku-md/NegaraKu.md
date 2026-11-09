@@ -70,6 +70,7 @@ keywords:
   - "liabiliti bersama dan berasingan perkongsian"
   - "daftar perkongsian SSM"
   - "perkongsian vs Sdn Bhd"
+framework: explainer
 ---
 
 Dua orang teman mendaftarkan persekutuan karena biayanya hanya RM60 setahun dan

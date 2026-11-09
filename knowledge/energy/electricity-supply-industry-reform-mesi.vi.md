@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "seda-malaysia" }
 related: ["tenaga-nasional", "energy-commission-suruhanjaya-tenaga", "seda-malaysia"]
 keywords: ["MESI", "MESI 2.0", "electricity market reform Malaysia", "third-party access", "single buyer", "CRESS", "TNB unbundling", "retail competition electricity"]
+framework: explainer
 ---
 
 Đối với hầu hết người Malaysia, mua điện nghĩa là một hóa đơn từ một công ty. Đằng sau sự đơn giản đó là một cuộc tranh luận thầm lặng, kéo dài cả thập kỷ về việc liệu thị trường điện của đất nước có bao giờ nên trông khác đi hay không — và câu trả lời cứ lặp lại là "chưa phải bây giờ, nhưng thêm một chút mỗi năm."

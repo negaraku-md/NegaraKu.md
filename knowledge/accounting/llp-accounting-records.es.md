@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "accounting-records-section-245" }
 related: ["llp-vs-sdn-bhd", "register-llp-malaysia", "accounting-records-section-245", "sdn-bhd-bookkeeping"]
 keywords: ["registros contables LLP", "sección 69 Ley de LLP de 2012", "declaración anual LLP", "declaración de solvencia LLP", "LLP frente a Sdn Bhd", "Akta 743"]
+framework: rules
 ---
 
 Una LLP puede operar durante años sin presentar un solo estado financiero ante la SSM — y aquí reside un malentendido común sobre esta estructura. La ausencia de una obligación de presentación no significa la ausencia de responsabilidad. La sección 69 de la Ley de Sociedades de Responsabilidad Limitada de 2012 (Limited Liability Partnerships Act 2012) sigue vinculando a toda sociedad de responsabilidad limitada (LLP) a un estándar de llevanza de registros tan estricto como el de una sociedad, y la sección 68 sustituye el estado financiero público por otro instrumento que acarrea responsabilidad personal para los socios: la declaración de solvencia.

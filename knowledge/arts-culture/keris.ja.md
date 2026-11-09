@@ -99,6 +99,7 @@ relations:
   - { rel: "governs", to: "akta-warisan-kebangsaan-2005" }
 related: ["batik", "songket", "wau"]
 keywords: ["keris", "empu", "pamor", "luk", "warisan Melayu", "Taming Sari", "keris Melayu", "Akta Warisan Kebangsaan 2005", "budaya Nusantara"]
+framework: history-culture
 ---
 
 炎の舌のようにぎざぎざとした刃――鉄とニッケルを幾百回も折り重ねて打ち延ばした、エンプ（empu、熟練の鍛冶職人）の手による一振り。クリス（keris、短剣）は単なる武器ではなく、マレー文明の脈動そのものである。それは戦士の腰に差され、王室の儀式で高く掲げられ、一族の家宝として代々受け継がれてきた。今日に至るまで、クリスは主権と勇気、そして民族のアイデンティティの象徴であり続けている。

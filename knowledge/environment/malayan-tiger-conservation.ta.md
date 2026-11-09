@@ -78,6 +78,7 @@ relations:
   - { rel: "located-in", to: "taman-negara" }
 related: []
 keywords: ["Malayan tiger", "Harimau Malaya", "Panthera tigris jacksoni", "Critically Endangered", "National Tiger Survey", "Perhilitan", "MYCAT", "tiger conservation", "Al-Sultan Abdullah Royal Tiger Reserve"]
+framework: explainer
 ---
 
 புலி மலேசியாவின் அரச சின்னத்தில் (coat of arms) இடம்பெறுகிறது; ஆனால் அந்த விலங்கு இன்று உலகிலேயே மிக அரிதான பெரிய பூனை இனங்களில் ஒன்றாகிவிட்டது. மலேசியா தனது முதல் தேசிய காட்டுப் புலி கணக்கெடுப்பை முடித்தபோது, முடிவு பலர் எதிர்பார்த்ததை விடக் குறைவாக இருந்தது: 150-க்கும் குறைவு.

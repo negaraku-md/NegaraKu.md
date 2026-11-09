@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
 related: []
 keywords: ["squash", "Nicol David", "SRAM", "Malaysian squash", "Ng Eain Yow", "Sivasangari Subramaniam", "World Open"]
+framework: profile
 ---
 
 9年連続で、世界最高のスカッシュ選手はペナン出身だった。ニコル・デビッドはマレーシアで最も成功した個人競技で勝ち続けただけではない——彼女はこの競技における支配とは何かを塗り替え、2015年9月まで **108か月連続** で世界ランキング1位を守り、これはこの競技が経験した中で最も長い途切れない在位となった。

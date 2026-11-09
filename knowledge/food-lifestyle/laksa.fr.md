@@ -93,6 +93,7 @@ verificationNeeded:
   - "La légende de l'origine du laksa de Johor (le sultan Abu Bakar adoptant les spaghettis après un voyage en Europe), les dates exactes de règne du sultan (les sources donnent aussi bien 1862–1895 que 1886–1895) et l'année où le laksa de Johor a été classé au patrimoine au journal officiel (les sources citent 2009, 2013 et 2023) — à confirmer auprès d'une source historique primaire ou du Jabatan Warisan Negara."
   - "L'étymologie du mot « laksa » (des théories persane, sanskrite et hokkien circulent toutes) — à confirmer auprès d'une source linguistique ou lexicographique plutôt que des médias gastronomiques."
   - "L'attribution régionale du laksam au Kelantan et au Terengganu ainsi que la description exacte de sa nouille/sa sauce — à confirmer auprès d'une source locale."
+framework: explainer
 ---
 
 Commandez un « laksa » à Penang et l'on vous sert un bouillon de poisson vif et

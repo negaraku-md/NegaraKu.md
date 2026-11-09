@@ -102,6 +102,7 @@ keywords:
   - "JS-SEZ flagship zones"
   - "MIDA JS-SEZ application"
   - "zon ekonomi khas Johor Singapura"
+framework: rules
 ---
 
 조호르-싱가포르 경제특구에 대한 모든 요약은 같은 숫자로 시작합니다: 15년간 5%. 실제 숫자입니다. 그러나 이 패키지에서 가장 쓸모없는 사실이기도 합니다. 그것을 읽는 사람 거의 아무도 자격을 갖추지 못하기 때문입니다.

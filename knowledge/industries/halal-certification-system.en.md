@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "trade-descriptions-act-2011" }
 related: ["jakim"]
 keywords: ["pensijilan halal Malaysia", "SPHM", "JAKIM halal", "MYeHALAL", "MS 1500", "logo halal Malaysia", "sijil halal", "e-Cert halal", "Manual Prosedur Pensijilan Halal Malaysia", "skim pensijilan halal"]
+framework: how-to
 ---
 
 The eight-pointed star halal logo with Arabic script at its centre is among the most recognisable marks on Malaysian supermarket shelves — and only one party in the entire country has the right to place it there. Not the product manufacturer, not a private advisor, and not any international certification body, but the government itself, through JAKIM and its state-level counterparts.

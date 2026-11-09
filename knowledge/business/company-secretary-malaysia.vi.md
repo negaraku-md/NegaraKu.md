@@ -105,6 +105,7 @@ keywords:
   - "section 236 Companies Act 2016"
   - "do I need a company secretary"
   - "company secretary requirements Malaysia"
+framework: explainer
 ---
 
 Gần như mọi điều được viết về thư ký công ty ở Malaysia đều do các thư ký công ty viết.

@@ -113,6 +113,7 @@ relations:
   - { rel: "governs", to: "employment" }
 related: ["labour-law-map-malaysia", "new-hire-statutory-checklist", "employee-vs-contractor-malaysia"]
 keywords: ["OSHA 1994 Malaisie", "coordinateur SST Malaisie", "obligations de l'employeur Occupational Safety and Health Act", "comité de sécurité et de santé 40 employés", "amendement OSHA 2022", "osha 1994 malaysia", "osh coordinator malaysia", "osha amendment 2022"]
+framework: rules
 ---
 
 Demandez à une PME malaisienne si l'OSHA lui est applicable et la réponse est généralement non — c'est une loi sur les usines, et nous tenons un bureau. Cette réponse était défendable jusqu'au **1er juin 2024**. Elle est erronée depuis, et l'obligation que la plupart de ces employeurs enfreignent désormais coûte jusqu'à RM50,000 : nommer un coordinateur de la sécurité et de la santé dès que l'on compte cinq personnes.

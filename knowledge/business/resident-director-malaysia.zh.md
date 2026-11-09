@@ -112,6 +112,7 @@ keywords:
   - "ordinarily resident director"
   - "foreign owned Sdn Bhd director"
   - "pengarah pemastautin Malaysia"
+framework: explainer
 ---
 
 搜索外国人如何注册成立马来西亚公司，三次点击之内就会有人向你推销挂名董事。推销词的

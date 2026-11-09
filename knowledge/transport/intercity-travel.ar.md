@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "e-hailing-grab" }
 related: ["klang-valley-rail", "e-hailing-grab"]
 keywords: ["التنقل بين المدن ماليزيا", "قطار KTM ETS", "KTM Intercity", "حافلات سريعة ماليزيا", "Terminal Bersepadu Selatan", "TBS", "رحلات داخلية ماليزيا", "AirBorneo", "MASwings", "Rural Air Service", "رحلات صباح ساراواك", "intercity travel Malaysia"]
+framework: explainer
 ---
 
 طِر إلى كوتشينغ، أو استقلّ حافلة إلى كوانتان، أو اركب قطارًا إلى

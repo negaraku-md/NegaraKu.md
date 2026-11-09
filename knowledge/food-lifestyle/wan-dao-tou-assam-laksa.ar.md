@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#AssamLaksa", "#Penang", "#BibGourmand", "#MalaysianFood", "#Malaysia"]
+framework: profile
 ---
 
 في مدينة تعدّ assam laksa مصدر فخر، نال Wan Dao Tou مكانًا على خريطة MICHELIN

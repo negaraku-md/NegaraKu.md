@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["moving-to-malaysia-first-steps", "mykad", "imigresen"]
 keywords: ["mobile sim malaysia", "prepaid sim registration malaysia", "MCMC sim registration", "postpaid vs prepaid malaysia", "buy sim card malaysia foreigner", "CelcomDigi Maxis U Mobile"]
+framework: explainer
 ---
 
 เดินเข้าร้านโทรศัพท์ร้านใดในมาเลเซีย จ่ายเงินสดซื้อซิมการ์ด แล้วพนักงานก็ยังจะหยุดคุณก่อนที่คุณจะใช้งานได้ พวกเขาต้องเห็น MyKad ของคุณ หรือหากคุณไม่ใช่พลเมือง หนังสือเดินทางตัวจริงของคุณ ข้ามขั้นตอนนั้นไป แล้วซิมก็จะเปิดใช้งานไม่ได้ นี่ไม่ใช่นโยบายของร้าน แต่เป็นกฎระดับชาติที่บังคับใช้โดยหน่วยงานกำกับดูแลด้านโทรคมนาคม และมันจับผู้เดินทางมาใหม่ได้บ่อยกว่าแทบทุกเรื่องเกี่ยวกับการเชื่อมต่อ

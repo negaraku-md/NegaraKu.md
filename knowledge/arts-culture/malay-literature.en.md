@@ -79,6 +79,7 @@ verificationNeeded:
   - "The founding date of ASAS 50: the majority of sources state 6 August 1950, but some reports state that the process of its formation began as early as 1947"
   - "The author and the actual date of classical works such as Hikayat Hang Tuah still cannot be ascertained precisely (estimated 15th to 17th century)"
   - "The year of A. Samad Said's award is recorded as 1985 in the main list but 1986 in the navigation box of the same source — confirmed as 1985"
+framework: history-culture
 ---
 
 In an old manuscript is engraved the tale of the kings of Melaka, the journey of Hang Tuah, and the fall of an empire — not as a dry historical record, but as a story alive with characters, dialogue and literary art. That manuscript, the *Sejarah Melayu* or *Sulalatus Salatin*, is among the earliest works that attest to how long and how rich the tradition of Malay letters is.

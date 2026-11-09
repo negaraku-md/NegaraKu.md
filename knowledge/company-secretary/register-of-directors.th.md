@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "appoint-company-secretary" }
 related: ["statutory-registers", "register-of-members", "appoint-company-secretary", "annual-return"]
 keywords: ["register of directors Malaysia", "section 57 Companies Act 2016", "section 58 notification SSM", "daftar pengarah syarikat", "change of director SSM 14 days", "service address director Malaysia"]
+framework: rules
 ---
 
 กรรมการลาออกเมื่อวันที่ 3 มีนาคม เลขานุการยื่นการแจ้งตามมาตรา 58 ต่อ SSM เมื่อวันที่ 14 มีนาคม ภายในกำหนดพอดี และปิดแฟ้ม สิบเอ็ดเดือนต่อมาทนายความของผู้ซื้อขอตรวจทะเบียนกรรมการและพบว่ากรรมการที่ลาออกยังอยู่ในรายชื่อ บริษัทได้ปฏิบัติตามหน้าที่หนึ่งและฝ่าฝืนอีกหน้าที่ — และการฝ่าฝืนที่มีโทษสูงกว่าคือหน้าที่ที่ไม่มีใครสังเกต

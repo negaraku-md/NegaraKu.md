@@ -95,6 +95,7 @@ relations:
   - { rel: "governs", to: "personal-data-protection-act-2010" }
 related: ["pdpa-compliance-malaysia", "online-business-licence-malaysia"]
 keywords: ["data protection officer malaysia", "dpo malaysia", "section 12a pdpa", "pdpa dpo threshold", "appoint dpo malaysia"]
+framework: rules
 ---
 
 ธุรกิจมาเลเซียส่วนใหญ่อ่านเกณฑ์ DPO เห็น "เจ้าของข้อมูล 20,000 คน" ตัดสินว่าตนอยู่ห่างไกลจากนั้น และหยุดอ่าน องค์ประกอบที่สามอยู่ถัดลงไปหนึ่งบรรทัด ไม่มีตัวเลขอยู่ในนั้นเลย และตัวอย่างที่ทำไว้ของคณะกรรมการเองคือร้านค้าออนไลน์ที่แนะนำสินค้า

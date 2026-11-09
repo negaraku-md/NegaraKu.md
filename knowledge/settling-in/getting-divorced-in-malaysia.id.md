@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "registering-a-marriage-civil" }
 related: ["getting-married-in-malaysia", "registering-a-marriage-civil"]
 keywords: ["divorce Malaysia", "civil divorce", "Syariah divorce", "talak", "fasakh", "khuluk", "Law Reform Marriage and Divorce Act 1976", "Section 51 conversion to Islam", "Syariah court"]
+framework: explainer
 ---
 
 Dua pasangan Malaysia mengajukan untuk mengakhiri pernikahan mereka pada pagi yang sama. Seorang masuk ke kantor pendaftaran Mahkamah Tinggi sipil; seorang lagi melapor ke kantor agama Islam negeri. Tidak seorang pun dapat menggunakan pintu yang satu lagi. Di Malaysia, mengakhiri pernikahan — seperti memulainya — berjalan melalui dua sistem hukum yang terpisah, dan agama pihak-pihak yang terlibat, bukan pilihan mereka, yang menentukan sistem mana yang berlaku.

@@ -71,6 +71,7 @@ social:
     - NGO
     - Persatuan
     - CivilSociety
+framework: how-to
 ---
 
 Seven friends who want to run a residents' association, an alumni group, a sports club, a religious body or a welfare NGO all reach for the same legal vehicle in Malaysia: the **society**, or *persatuan*. It is the country's default non-profit membership structure — cheap to set up and lightly capitalised — but it lives under its own statute, the Societies Act 1966, and its own regulator, and getting the paperwork wrong can leave you running an *unlawful* body without realising it.

@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "statutory-audit-process" }
 related: ["appointing-an-auditor", "changing-auditors", "statutory-audit-process", "audit-fees-malaysia"]
 keywords: ["auditor independence", "partner rotation", "cooling-off period", "public interest entity", "MIA By-Laws", "Section 540", "non-audit services", "self-review threat"]
+framework: rules
 ---
 
 หุ้นส่วนสอบบัญชีที่ลงนามในบัญชีของบริษัทจดทะเบียนเดียวกันมาทศวรรษหนึ่งรู้ว่าโครงกระดูกทุกโครงถูกฝังไว้ที่ไหน — และนั่นคือปัญหาพอดี ยิ่งความสัมพันธ์ยาวนานเท่าใด ก็ยิ่งยากที่บุคคลภายนอกที่มีเหตุผลจะเชื่อว่าความเห็นเป็นอิสระอย่างแท้จริง มาเลเซียตอบสนองต่อความเสี่ยงนั้นด้วยนาฬิกาที่ตายตัวและการหยุดพักภาคบังคับ

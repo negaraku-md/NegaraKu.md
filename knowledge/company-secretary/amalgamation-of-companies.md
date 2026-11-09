@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "members-voluntary-winding-up" }
 related: ["companies-act-2016", "ssm"]
 keywords: ["amalgamation", "scheme of arrangement", "section 366", "section 370", "Companies Act 2016", "reconstruction", "merger Malaysia", "SSM", "75 percent threshold", "vesting order"]
+framework: explainer
 ---
 
 If you expect two Malaysian companies to merge the way they do in Singapore or New Zealand — boards pass a resolution, one legal entity absorbs the other overnight — you will be looking for a provision that does not exist. The Companies Act 2016 has no short-form statutory amalgamation. To combine two or more companies here, you go through the High Court.

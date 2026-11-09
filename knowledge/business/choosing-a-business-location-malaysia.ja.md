@@ -137,6 +137,7 @@ keywords:
   - "Kuala Lumpur vs Penang vs Johor business"
   - "Sabah Sarawak business setup difference"
   - "Malaysia economic corridor incentives location"
+framework: decision
 ---
 
 その問いはいつも、すでに完成した形でやってくる。*クアラルンプール、ペナン、それともジョホール？* 時にはスプレッドシートが添えられ、オフィス賃料や空港へのアクセスを比較し、*税金* とラベル付けされた列まである。

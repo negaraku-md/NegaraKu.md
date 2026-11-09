@@ -104,6 +104,7 @@ keywords:
   - "WRT चुकता पूँजी"
   - "WRT paid up capital"
   - "WRT employment pass"
+framework: rules
 ---
 
 WRT लाइसेंस के बारे में खोजिए और आपको आत्मविश्वास से और बार-बार बताया जाएगा कि इसके लिए

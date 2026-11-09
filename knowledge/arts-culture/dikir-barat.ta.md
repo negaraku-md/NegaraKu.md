@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "wau" }
 related: ["kelantan", "mak-yong", "wayang-kulit", "wau"]
 keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", "pantun berbalas", "seni persembahan", "warisan kebangsaan"]
+framework: history-culture
 ---
 
 இரு குழுக்கள் மேடையில் ஒன்றையொன்று பார்த்தபடி சம்மணமிட்டு அமர்ந்திருக்கின்றன. எந்த எழுத்துப் பிரதியும் இல்லை. விலைவாசி உயர்வு பற்றிய கிண்டல் நிறைந்த பந்தூன் ஒன்றை முதல் குழு பாடி முடித்ததும், பதிலைப் பாட இரண்டாவது குழுவிற்கு சில வினாடிகள் மட்டுமே இருக்கும் — அது எதுகை மோனையுடன் இருக்க வேண்டும், தாளத்திற்குப் பொருந்த வேண்டும், முடிந்தால் மூல பந்தூனை விடக் கூர்மையாகவும் இருக்க வேண்டும்.

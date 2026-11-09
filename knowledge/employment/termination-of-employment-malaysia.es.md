@@ -150,6 +150,7 @@ relations:
   - { rel: "related-to", to: "retrenchment-malaysia" }
 related: ["labour-law-map-malaysia", "domestic-inquiry-malaysia", "unfair-dismissal-malaysia", "retrenchment-malaysia", "termination-benefits-malaysia", "offboarding-statutory-checklist"]
 keywords: ["terminación del empleo malasia", "período de preaviso malasia", "empleo a voluntad malasia", "pago en lugar de preaviso", "causa o motivo justo", "salario final tras la renuncia malasia", "artículo 12 ley de empleo", "termination of employment malaysia", "section 12 employment act"]
+framework: rules
 ---
 
 Un empleador en Kuala Lumpur decide un lunes que un gerente no está funcionando. Un asesor jurídico de otro lugar preguntaría por la cláusula de preaviso. En Malasia la primera pregunta es distinta, y es la que decide el caso: **¿cuál es el motivo, y puede probarlo?**

@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "directors-duties" }
 related: ["directors-duties", "capital-reduction", "share-capital-malaysia", "loans-to-directors", "corporate-tax-rates"]
 keywords: ["dividend Malaysia Sdn Bhd", "section 131 Companies Act 2016", "solvency test dividend", "unlawful dividend director liability", "distribution out of profits"]
+framework: rules
 ---
 
 บริษัท Sdn Bhd ที่ทำกำไรและมีกำไรสะสม RM800,000 จ่ายเงินปันผล RM600,000 ให้ผู้ถือหุ้นสองคนในเดือนธันวาคม ในเดือนมีนาคม ลูกค้าหลักล้ม บริษัทไม่สามารถปฏิบัติตามเงื่อนไขซัพพลายเออร์ และเมื่อถึงเดือนสิงหาคมก็ถูกเลิกกิจการ

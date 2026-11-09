@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "dta-network" }
 related: ["dta-network", "company-tax-residence", "transfer-pricing-documentation", "withholding-tax-rates"]
 keywords: ["permanent establishment Malaysia", "seksyen 12(3) Akta Cukai Pendapatan", "tempat perniagaan cukai Malaysia", "pekerja jarak jauh permanent establishment Malaysia", "ejen bersandar PE Malaysia"]
+framework: explainer
 ---
 
 Malaysia menulis peraturan permanent establishment-nya dua kali, dan kedua-dua

@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "creditors-voluntary-winding-up" }
 related: ["close-a-company", "strike-off-company-malaysia", "creditors-voluntary-winding-up", "corporate-rescue-malaysia", "company-director-requirements"]
 keywords: ["members voluntary winding up malaysia", "declaration of solvency section 443", "liquidator sdn bhd", "voluntary liquidation malaysia", "penggulungan sukarela ahli", "section 439 companies act 2016"]
+framework: how-to
 ---
 
 เอกสารที่นิยามการเลิกโดยสมัครใจของสมาชิกไม่ใช่มติ มันคือคำแถลงหน้าเดียวที่กรรมการลงนาม และการลงนามโดยไม่มีเหตุอันสมควรเพียงพอมีโทษจำคุกสูงสุดห้าปีหรือค่าปรับ RM3 ล้าน ความไม่สมมาตรนั้นคือเรื่องราวทั้งหมด: ลงนามได้ง่าย แต่ผิดพลาดแล้วราคาแพง

@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "sector-licence-directory" }
 related: ["sector-licence-directory", "manufacturing-licence-malaysia"]
 keywords: ["एंटी-डंपिंग शुल्क मलेशिया", "प्रतिकारी शुल्क मलेशिया", "Act 504", "MITI व्यापार उपचार", "एंटी-डंपिंग इस्पात मलेशिया", "आयात HS कोड शुल्क मलेशिया", "व्यापार उपचार याचिका मलेशिया", "anti-dumping duty malaysia", "countervailing duty malaysia", "miti trade remedies"]
+framework: how-to
 ---
 
 एक आयातक वियतनाम से जस्ती इस्पात कुंडलियों (galvanised steel coil) की एक खेप की निकासी करता है, सामान्य आयात शुल्क चुकाता है, और बाद में सीमा-शुल्क से लेन-देन मूल्य के एक और हिस्से का बिल पाता है। माल के बारे में कुछ नहीं बदला। जो बदला वह यह है कि टैरिफ लाइन और मूल देश एक राजपत्रित सीमा-शुल्क आदेश में एक साथ प्रकट होते हैं जिसे शृंखला में किसी ने नहीं पढ़ा।

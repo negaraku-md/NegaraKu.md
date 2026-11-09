@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "payroll-compliance-malaysia" }
 related: ["epf-employer-guide", "payroll-compliance-malaysia", "socso-eis-employer-guide"]
 keywords: ["KWSP pekerja asing Malaysia", "KWSP bukan warganegara 2 peratus", "KWSP pekerja asing caruman", "Third Schedule Part F", "KWSP caruman ekspatriat"]
+framework: rules
 ---
 
 Selama dua puluh tujuh tahun, KWSP bagi pekerja asing merupakan sesuatu yang

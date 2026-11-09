@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "George Town Melaka inscription criteria", "Gunung Mulu World Heritage", "Lenggong Valley Perak Man", "Niah Caves UNESCO 2024"]
+framework: data-reference
 ---
 
 Ask how many World Heritage Sites Malaysia has and most sources will tell you four. That was true until 2024. The Niah Caves Complex was inscribed that July, and Forest Research Institute Malaysia Forest Park Selangor followed in 2025 — bringing the total to six.

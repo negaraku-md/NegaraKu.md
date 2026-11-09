@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["new-economic-policy", "13-may-1969", "independence-1957", "formation-of-malaysia-1963", "federal-constitution"]
 keywords: ["1998 Malasia", "Crisis Financiera Asiática Malasia", "controles de capital", "paridad del ringgit RM3.80", "controles selectivos de cambio", "Reformasi", "Anwar Ibrahim 1998", "Plan Nacional de Recuperación Económica", "Danaharta", "Danamodal", "flotación administrada 2005"]
+framework: history-culture
 ---
 
 En una sola semana de septiembre de 1998, Malasia hizo dos cosas que serían objeto de debate durante años. Cerró el mercado extraterritorial de su propia moneda y fijó el ringgit al dólar estadounidense, una ruptura con la ortodoxia que el Fondo Monetario Internacional instaba a aplicar en la región. Y destituyó al hombre que era a la vez Viceprimer Ministro y Ministro de Finanzas, lo que puso en marcha un movimiento de protesta que adoptó el nombre de Reformasi.

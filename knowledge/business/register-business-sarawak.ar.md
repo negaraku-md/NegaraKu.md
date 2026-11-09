@@ -140,6 +140,7 @@ keywords:
   - "trade licence Sarawak"
   - "LHDN business registration Kuching"
   - "lesen perniagaan Sarawak"
+framework: how-to
 ---
 
 في ساراواك لا تسجّل عملاً واحداً. بل تسجّل ثلاثة أشياء، لدى ما يصل إلى ثلاث سلطات مختلفة، وSSM ليست إحداها.

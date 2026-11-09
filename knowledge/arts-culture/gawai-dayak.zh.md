@@ -77,6 +77,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["kaamatan", "sarawak"]
 keywords: ["Gawai Dayak", "Hari Gawai", "harvest festival Sarawak", "Dayak", "Iban", "Bidayuh", "Orang Ulu", "miring", "ngajat", "tuak", "Tuai Rumah", "Gayu Guru Gerai Nyamai"]
+framework: history-culture
 ---
 
 5月的最后一天，时钟尚未敲响午夜，在砂拉越某条河边的一座长屋里，铜锣已在等待。稻米已经收成入仓。长廊已经打扫干净，挂上了新的草席。一坛 tuak（米酒）已备妥待用。当铜锣终于敲响，长屋头人便会举杯，沿着长长的公共走廊，众人齐声为同样的三个字祝酒：长寿、健康、繁荣。

@@ -120,6 +120,7 @@ keywords:
   - "expatriate pass Malaysia director"
   - "employment pass category I II III"
   - "pas penggajian Malaysia"
+framework: how-to
 ---
 
 Thứ tự các thao tác đánh bại nhiều người sáng lập nước ngoài hơn bất kỳ quy tắc đơn lẻ nào.

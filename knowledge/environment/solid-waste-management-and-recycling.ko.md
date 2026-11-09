@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "circular-economy-blueprint" }
 related: []
 keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusan", "pengasingan sisa di punca", "ekonomi kitaran"]
+framework: explainer
 ---
 
 조호르에서 쓰레기를 버리면 연방정부의 소관이 되고, 페낭에서 똑같은 쓰레기를 버리면 여전히 지방의회의 소관입니다. 그것이 말레이시아가 고형폐기물을 관리하는 방식의 핵심적 특이함입니다 — 위풍당당한 하나의 연방법이 있지만, 오직 채택에 동의한 곳에서만 발효됩니다.

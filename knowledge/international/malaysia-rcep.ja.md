@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "asean-free-trade-area" }
 related: ["miti", "malaysia-cptpp"]
 keywords: ["RCEP", "Malaysia trade agreement", "rules of origin", "Form RCEP", "tariff elimination", "ASEAN", "MITI", "free trade agreement"]
+framework: explainer
 ---
 
 原産地証明書に一度署名するだけで、マレーシア製品はオークランドから北京、そしてクアラルンプールまで広がる市場を無税で移動できるようになる。一言で言えば、これがRCEPによってマレーシアの輸出者にもたらされた変化である。

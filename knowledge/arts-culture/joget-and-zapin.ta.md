@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "songket" }
 related: ["mak-yong", "wayang-kulit", "songket"]
 keywords: ["Joget", "Zapin", "tarian tradisional Melayu", "Joget Melaka", "Zapin Johor", "gambus", "marwas", "branyo Portugis", "tarian rakyat Melayu"]
+framework: history-culture
 ---
 
 இரண்டு நடனக் கலைஞர்கள் gendang தாளத்திற்கேற்ப வேகமாக அசைகிறார்கள் — கால்கள் தட்டுகின்றன, கைகள் மென்மையாக நடனமாடுகின்றன. இதைப் பார்க்கும் பலர், எது Joget எது Zapin என்று வேறுபடுத்தாமல் அதை வெறுமனே “மலாய் நடனம்” என்றே அழைக்கிறார்கள். ஒவ்வொன்றும் எங்கிருந்து வந்தது என்று கேளுங்கள், அந்தப் பதில் நம்மை உலகின் இரு மூலைகளுக்கு அழைத்துச் செல்கிறது: ஒன்று Melaka-வில் இருந்த போர்த்துகீசிய வணிகக் கப்பலின் தளத்திலிருந்து, மற்றொன்று Hadhramaut-இலிருந்து வந்த அரபு மறைப்பணியாளர்களின் ஒட்டகக் கூட்டத்திலிருந்து.

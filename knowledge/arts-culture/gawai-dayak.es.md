@@ -77,6 +77,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["kaamatan", "sarawak"]
 keywords: ["Gawai Dayak", "Hari Gawai", "festival de la cosecha Sarawak", "Dayak", "Iban", "Bidayuh", "Orang Ulu", "miring", "ngajat", "tuak", "Tuai Rumah", "Gayu Guru Gerai Nyamai"]
+framework: history-culture
 ---
 
 El reloj aún no ha dado la medianoche del último día de mayo, y en una casa comunal en algún punto a lo largo de un río de Sarawak el gong espera. El arroz ya está recogido. La galería ha sido barrida y colgada con esteras nuevas. Una jarra de tuak aguarda lista. Cuando el gong suene por fin, el jefe de la casa comunal alzará una copa, y todos a lo largo del extenso porche comunal brindarán por las mismas tres palabras: larga vida, salud, prosperidad.

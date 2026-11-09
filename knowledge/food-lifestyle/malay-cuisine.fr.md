@@ -95,6 +95,7 @@ verificationNeeded:
   - "L'affirmation selon laquelle le riz n'est devenu l'aliment de base quotidien des Malais que relativement tard (le sagou prédominant avant le XVe siècle environ) repose sur des récits d'historiens de l'alimentation ; confirmez-la auprès d'une source historique primaire ou universitaire."
   - "La question de savoir si la « culture du petit-déjeuner de la Malaisie » — inscrite sur la Liste représentative de l'UNESCO en décembre 2024 — doit être présentée comme une reconnaissance de la cuisine malaise en particulier plutôt que de la table de petit-déjeuner multiethnique ; il s'agit de la première entrée du pays liée à l'alimentation à l'UNESCO et elle est explicitement multiculturelle."
   - "Les limites régionales précises des profils de saveur (p. ex. la côte est « plus sucrée », le sud privilégiant les sauces riches en coco) sont des généralisations ; confirmez l'attribution de plats précis auprès de sources locales."
+framework: history-culture
 ---
 
 Attablez-vous devant un repas malais et sa forme est claire avant même d'y goûter :

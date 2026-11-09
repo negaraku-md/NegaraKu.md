@@ -74,6 +74,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["Aliyaa", "SriLankanFood", "BibGourmand", "MichelinGuideMalaysia", "KualaLumpur"]
+framework: profile
 ---
 
 Aliyaa はクアラルンプールの Bukit Damansara にあるスリランカ料理店で、市内でその料理に専念する比較的数少ない店の一つです。Bib Gourmand とともに [MICHELIN Guide Malaysia](/ja/food-lifestyle/michelin-guide-malaysia) に掲載されています。

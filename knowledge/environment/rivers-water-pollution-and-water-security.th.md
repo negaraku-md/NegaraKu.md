@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "department-of-environment" }
 related: ["environmental-quality-act-1974"]
 keywords: ["pencemaran sungai", "indeks kualiti air", "WQI", "keselamatan air", "bekalan air", "Sungai Selangor", "Sungai Kim Kim", "rizab sungai", "Jabatan Alam Sekitar", "kawasan tadahan"]
+framework: explainer
 ---
 
 เปิดก๊อกน้ำในเช้าวันจันทร์แล้วพบว่ามันแห้ง ไม่ใช่เพราะก๊อกเสีย แต่เพราะโรงงานแห่งหนึ่งเหนือน้ำได้ปล่อยของเสียที่มีกลิ่นเหม็นลงลำน้ำสาขาที่ป้อนน้ำดิบให้เมืองของท่าน นี่คือความเป็นจริงที่เกิดซ้ำในหุบเขากลัง และมันอธิบายว่าเหตุใด "คุณภาพแม่น้ำ" จึงไม่ใช่เพียงประเด็นทางระบบนิเวศ แต่เป็นประเด็นความมั่นคงของการจ่ายน้ำสำหรับบ้านหลายล้านหลัง

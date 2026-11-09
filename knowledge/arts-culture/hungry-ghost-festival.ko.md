@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "qingming-festival" }
 related: ["qingming-festival", "chinese-religion-in-malaysia", "mid-autumn-festival", "chinese-new-year"]
 keywords: ["中元节", "鬼节", "盂兰胜会", "盂兰盆", "农历七月", "鬼门开", "好兄弟", "普度", "大士爷", "鬼王", "歌台", "喊标", "标福物", "烧街衣", "金银纸", "马来西亚华人", "槟城", "Hungry Ghost Festival"]
+framework: history-culture
 ---
 
 음력 칠월에 접어들면, 페낭, 클랑, 조호르의 적지 않은 길모퉁이의 밤 풍경이 슬그머니 달라집니다. 길가에 작은 상이 차려지고, 그 위에는 과일, 밥, 찻물과 겹겹이 쌓인 금은지가 놓이며, 향과 촛불이 땅거미 속에서 깜박입니다. 동네 공터에는 높이 수 미터의 위엄 어린 얼굴을 한 종이 신상이 세워지고, 그 맞은편에 무대가 설치됩니다. 밤이 되면 조명이 환히 켜지고 노랫소리가 울려 퍼지지만 — 무대 아래 맨 앞줄 의자는 한 줄 통째로 내내 비어 있습니다.

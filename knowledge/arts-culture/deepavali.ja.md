@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-malaysia" }
 related: ["religion-statistics", "public-holidays-malaysia", "batik"]
 keywords: ["deepavali malaysia", "festival of lights malaysia", "hindu festival malaysia", "deepavali public holiday", "deepavali sarawak", "hari deepavali", "diwali malaysia"]
+framework: history-culture
 ---
 
 その一夜、語るのは灯りである。小さな素焼きの灯明が戸口や窓辺に一列に並べられ、戸口の敷居には彩色した米や粉で描いた床模様が置かれ、一時間前まで暗闇だった家が炎の輪郭に浮かび上がる。これこそがこの祭りの名の由来である——*ディーパバリ（Deepavali）*は、サンスクリット語で「一列、あるいは連なる灯り」を意味する言葉に由来する。

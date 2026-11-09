@@ -78,6 +78,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["CharKoayKak", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 char koay kak은 노점 내부자의 요리입니다 — 포효하는 웍에서 그을린 쌀떡 큐브를 이르고

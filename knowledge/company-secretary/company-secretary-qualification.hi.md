@@ -111,6 +111,7 @@ relations:
   - { rel: "explained-in", to: "practising-certificate" }
 related: ["appoint-company-secretary", "maicsa", "changing-company-secretary", "secretary-resignation"]
 keywords: ["मलेशिया में कौन कंपनी सचिव बन सकता है", "कंपनी सचिव योग्यता", "company secretary qualification Malaysia", "section 235 Companies Act 2016", "अभ्यास प्रमाणपत्र", "practising certificate SSM", "section 241", "MAICSA MIA", "CSID SSM"]
+framework: rules
 ---
 
 अधिकांश लोगों से पूछें कि मलेशिया में कंपनी सचिव बनने के लिए क्या चाहिए और आपको पाँच शब्द मिलते हैं: «MAICSA, MIA, या SSM-अनुज्ञप्त।» वह उत्तर गलत नहीं है, पर उसमें वह कदम छूट जाता है जो वास्तव में यह तय करता है कि मेज़ के उस पार बैठा व्यक्ति आपके प्रस्तावों पर वैध रूप से हस्ताक्षर कर सकता है या नहीं। s.235 के तहत योग्य होना और s.241 के तहत *कार्य करने का अधिकार रखना* दो भिन्न बातें हैं, और एक सचिव पहले को संतुष्ट करते हुए दूसरे में विफल हो सकता है।

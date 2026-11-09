@@ -67,6 +67,7 @@ sources:
 
 related: ["sheraton-move-2020", "prime-ministers-of-malaysia", "2022-general-election", "ismail-sabri-yaakob", "mahathir-mohamad"]
 keywords: ["Muhyiddin Yassin", "Mahiaddin Md Yassin", "perdana menteri kelapan Malaysia", "Perikatan Nasional", "BERSATU"]
+framework: profile
 ---
 
 > **Draf — sensitif.** Artikel ini adalah ringkasan netral yang masih dalam

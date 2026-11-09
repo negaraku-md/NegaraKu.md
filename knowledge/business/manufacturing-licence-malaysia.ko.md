@@ -103,6 +103,7 @@ keywords:
   - "MIDA manufacturing licence"
   - "shareholders funds RM250만"
   - "exempted from manufacturing licence"
+framework: rules
 ---
 
 대부분의 말레이시아 중소기업 제조업체는 제조 라이선스가 필요하지 않습니다. 거의 모든 안내는 마치 면제되는 것이 할 일이 없는 것과 같다는 듯이 거기서 멈춥니다.

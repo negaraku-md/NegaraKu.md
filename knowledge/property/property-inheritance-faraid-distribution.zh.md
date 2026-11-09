@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "property-real-property-gains-tax-rpgt" }
 related: []
 keywords: ["faraid", "harta pusaka", "Akta Pembahagian 1958", "Amanah Raya", "sijil faraid", "pewarisan hartanah", "harta pusaka kecil", "Pejabat Tanah"]
+framework: explainer
 ---
 
 在马来西亚，当一个人去世后，谁继承他的房子首先取决于一个根本问题：死者是穆斯林还是非穆斯林。两套不同的法律体系主导着这个答案，而且在任何土地地契能够转名之前，两者都要经过不同的主管机构处理。

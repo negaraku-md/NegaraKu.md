@@ -41,6 +41,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "melaka-sultanate" }
 keywords: ["Langkasuka", "kerajaan Melayu awal", "sejarah purba Kedah", "Lang-ya-xiu", "Malaysia pra-Islam"]
+framework: history-culture
 ---
 
 7세기에, 양서(梁書, Kitab Liang)를 편찬하던 한 중국 궁정 사관은 앞선 사절들이 보고한, 남쪽 먼 곳의 어느 왕국에 관한 내용을 기록했습니다. 성벽으로 둘러싸인 도성, 코끼리를 탄 왕, 관리들이 왕 앞에서 두 손을 맞잡고 머리를 숙이는 궁전. 그 사관은 그곳을 "랑야슈(Lang-ya-xiu)"라 불렀습니다. 그는 거의 틀림없이 랑카수카(Langkasuka)를 묘사하고 있었던 것이며 — 전혀 다른 목적으로 편찬된 왕조사 속에 묻힌 그 문장은, 이곳에 관해 그 어디에라도 살아남은 몇 안 되는 상세한 묘사 가운데 하나입니다.

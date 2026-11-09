@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "registering-a-marriage-civil" }
 related: ["getting-married-in-malaysia", "registering-a-marriage-civil"]
 keywords: ["तलाक़ मलेशिया", "सिविल तलाक़", "शरीयत तलाक़", "talak", "fasakh", "khuluk", "Law Reform Marriage and Divorce Act 1976", "Section 51 conversion to Islam", "शरीयत अदालत"]
+framework: explainer
 ---
 
 दो मलेशियाई दंपति एक ही सुबह अपने विवाह समाप्त करने के लिए आवेदन करते हैं। एक सिविल हाई कोर्ट की रजिस्ट्री में जाता है; दूसरा किसी राज्य इस्लामी धार्मिक कार्यालय में हाज़िर होता है। कोई भी दूसरे का दरवाज़ा इस्तेमाल नहीं कर सकता। मलेशिया में, विवाह समाप्त करना — उसे शुरू करने की तरह — दो अलग क़ानूनी प्रणालियों से होकर चलता है, और पक्षों का धर्म, न कि उनकी पसंद, तय करता है कि कौन-सी लागू होती है।

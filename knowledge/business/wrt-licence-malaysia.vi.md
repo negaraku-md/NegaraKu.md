@@ -100,6 +100,7 @@ keywords:
   - "foreign owned company Malaysia licence"
   - "WRT paid up capital"
   - "WRT employment pass"
+framework: rules
 ---
 
 Tìm kiếm về giấy phép WRT và bạn sẽ được cho biết, một cách tự tin và lặp đi lặp lại, rằng nó

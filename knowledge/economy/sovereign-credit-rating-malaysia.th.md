@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-government-debt-malaysia" }
 related: []
 keywords: ["Malaysia credit rating", "sovereign rating", "S&P Malaysia", "Moody's Malaysia", "Fitch Malaysia", "A3", "BBB+", "investment grade"]
+framework: explainer
 ---
 
 เมื่อรัฐมนตรีว่าการกระทรวงการคลังของมาเลเซียแสดงความยินดีต่อสาธารณะกับจดหมายจาก

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-vs-tax-invoice" }
 related: ["online-business-licence-malaysia"]
 keywords: ["iniciar negocio en línea malasia", "negocio de comercio electrónico malasia", "vender en línea malasia registro", "SSM negocio en línea", "impuesto bienes de bajo valor malasia", "normas de transacciones de comercio electrónico", "factura electrónica pequeña empresa malasia"]
+framework: how-to
 ---
 
 El comercio electrónico se siente informal — puedes estar vendiendo en un marketplace a la hora de cenar — lo que engaña a mucha gente haciéndole creer que las reglas no aplican. Sí aplican. Malasia trata a un vendedor en línea como a cualquier otro negocio: debes registrarte, divulgar quién eres, proteger los datos de los clientes y pagar el impuesto correcto. Las reglas también cambiaron hace poco, así que incluso los vendedores que se establecieron hace unos años pueden estar operando con información obsoleta.

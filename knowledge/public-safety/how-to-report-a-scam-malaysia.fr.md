@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["staying-safe-scams-and-emergencies", "duitnow-qr-payments", "opening-bank-account", "consumer-rights-and-tribunal"]
 keywords: ["comment signaler une escroquerie en Malaisie", "ligne 997 NSRC", "Centre national de réponse aux escroqueries", "SemakMule PDRM", "CCID Infoline 013-211 1222", "geler le compte d'un escroc", "scam call center Malaysia", "signalement de criminalité financière"]
+framework: how-to
 ---
 
 Le solde de votre application bancaire chute soudainement, ou vous venez

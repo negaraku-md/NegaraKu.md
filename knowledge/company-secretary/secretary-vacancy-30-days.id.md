@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "appoint-company-secretary" }
 related: ["secretary-resignation", "appoint-company-secretary", "changing-company-secretary"]
 keywords: ["kekosongan setiausaha syarikat 30 hari", "seksyen 240 Akta Syarikat 2016", "jawatan setiausaha kosong Malaysia", "penalti tiada setiausaha syarikat Malaysia", "seksyen 235 Akta Syarikat 2016"]
+framework: rules
 ---
 
 Sebagian besar direktur Sdn Bhd menemukan aturan ini seperti cara Anda menyadari

@@ -74,6 +74,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["Aliyaa", "SriLankanFood", "BibGourmand", "MichelinGuideMalaysia", "KualaLumpur"]
+framework: profile
 ---
 
 Aliyaa는 쿠알라룸푸르 Bukit Damansara에 있는 스리랑카 음식점으로, 이 도시에서 그 요리에 전념하는 비교적 드문 곳 중 하나입니다. Bib Gourmand와 함께 [MICHELIN Guide Malaysia](/ko/food-lifestyle/michelin-guide-malaysia)에 실려 있습니다.

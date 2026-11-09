@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "having-a-baby-in-malaysia" }
 related: ["klinik-kesihatan", "having-a-baby-in-malaysia"]
 keywords: ["imunisasi kanak-kanak Malaysia", "Jadual Imunisasi Kebangsaan", "Program Imunisasi Kebangsaan KKM", "vaksin percuma klinik kesihatan", "buku rekod kesihatan bayi dan kanak-kanak", "vaksin kanak-kanak KKM", "Immunise4Life Malaysia", "imunisasi percuma Malaysia"]
+framework: explainer
 ---
 
 மலேசியாவின் ஒரு அரசாங்க கிளினிக்கிலோ மருத்துவமனையிலோ பிறக்கும் ஒவ்வொரு குழந்தையும் ஒரு தற்காலிக பிறப்புச் சான்றிதழை மட்டும் அல்ல — அடுத்த ஆறு ஆண்டுகளுக்கு *ஒவ்வொரு* கிளினிக் வருகைக்கும் கொண்டு செல்லப்படும் ஒரு சிறிய புத்தகத்தையும் எடுத்துச் செல்கிறது. அந்தப் புத்தகமும், அது பதிவு செய்யும் தடுப்பூசி அட்டவணையும், நாட்டின் மிக நீண்ட காலமாக இயங்கி வரும் பொதுச் சுகாதார திட்டங்களில் ஒன்றின் ஒரு பகுதியாகும்.

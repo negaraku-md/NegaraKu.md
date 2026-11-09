@@ -142,6 +142,7 @@ relations:
   - { rel: "requires", to: "sst-registration" }
 related: ["sst-explained", "sst-registration", "sst-rate-table", "sst-b2b-exemption", "sst-02-filing"]
 keywords: ["SST विस्तार 2025", "SST expansion 2025", "सेवा कर विस्तार मलेशिया", "समूह K किराया पट्टा सेवा कर", "निर्माण सेवा कर 6%", "गैर-पुनरीक्षणीय अनुबंध छूट", "निजी स्वास्थ्य-सेवा सेवा कर"]
+framework: rules
 ---
 
 2025 विस्तार के बारे में प्रचलन में सबसे आम एकल त्रुटि यह है कि निर्माण समूह K में

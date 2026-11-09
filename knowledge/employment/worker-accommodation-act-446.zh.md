@@ -121,6 +121,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: []
 keywords: ["act 446", "certificate for accommodation", "worker accommodation malaysia", "workers minimum standards housing", "centralised accommodation", "pekerja penginapan akta 446"]
+framework: rules
 ---
 
 先从名字说起，因为这个课题上几乎每一篇文章都把它写错。这部法规是 **Employees' Minimum Standards of Housing, Accommodations and Amenities Act 1990**（Act 446）。它从前叫 *Workers'* Minimum Standards of Housing and Amenities Act，而 Act A1604 的 paragraph 4(a) 自 2020 年 6 月 1 日起更改了这个简称。

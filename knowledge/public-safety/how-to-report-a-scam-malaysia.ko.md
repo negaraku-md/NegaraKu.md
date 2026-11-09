@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["staying-safe-scams-and-emergencies", "duitnow-qr-payments", "opening-bank-account", "consumer-rights-and-tribunal"]
 keywords: ["cara lapor penipuan Malaysia", "talian 997 NSRC", "Pusat Respons Penipuan Kebangsaan", "SemakMule PDRM", "CCID Infoline 013-211 1222", "bekukan akaun penipu", "scam call center Malaysia", "laporan jenayah kewangan"]
+framework: how-to
 ---
 
 뱅킹 앱의 잔액이 갑자기 줄어들거나, 방금 너무나도 잘못되었다고 느껴지는 이체에 "확인"을 눌렀습니다. 심장이 뜁니다. 그 순간, 결과를 정말로 바꾸는 것은 단 하나입니다. 즉, 당황이 아니라, 어느 회선에 연락해야 하는지 아는 것 — 그리고 내일이 아니라 지금 이 몇 분 안에 연락하는 것입니다.

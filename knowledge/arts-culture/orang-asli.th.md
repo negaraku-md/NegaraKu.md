@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["population-composition", "languages-spoken", "federal-constitution"]
 keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Proto", "18 suku kaum", "JAKOA", "Akta Orang Asli 1954", "Akta 134"]
+framework: explainer
 ---
 
 นานก่อนที่ชื่อมาเลเซียจะปรากฏบนแผนที่ ก็มีชุมชนที่อาศัยอยู่ในป่า ที่สูง และชายฝั่งของคาบสมุทร ปัจจุบันพวกเขาเป็นที่รู้จักโดยรวมในชื่อโอรังอัสลี — คำภาษามลายูที่แปลว่า "มนุษย์ดั้งเดิม" หรือ "ผู้อยู่อาศัยดั้งเดิม"

@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "import-duty" }
 related: ["sales-and-service-tax"]
 keywords: ["duti eksais", "excise duty", "Akta Eksais 1976", "cukai kereta", "duti eksais rokok", "cukai gula", "minuman bergula", "JKDM", "kastam"]
+framework: explainer
 ---
 
 Mua một chiếc ô tô tại Malaysia và bạn có thể phải trả một khoản thuế gần bằng chính giá của chiếc ô tô đó. Nguyên nhân chính là một loại thuế hiếm khi được bàn đến nhưng rất mạnh: **thuế tiêu thụ đặc biệt**.

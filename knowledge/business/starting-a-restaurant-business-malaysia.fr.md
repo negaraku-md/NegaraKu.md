@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "sst-explained" }
 related: ["fnb-licence-malaysia"]
 keywords: ["ouvrir un restaurant malaisie", "comment ouvrir un restaurant malaisie", "licence F&B malaisie", "licence de restaurant DBKL", "certificat de manipulateur d'aliments malaisie", "taxe sur les services restaurant malaisie", "ouvrir un café malaisie", "start a restaurant malaysia", "F&B licence malaysia", "food handler certificate malaysia"]
+framework: how-to
 ---
 
 Ouvrir un restaurant est l'une des façons les plus populaires de se lancer en affaires en Malaisie — et l'une des plus chargées en licences. Entre le conseil local, le ministère de la Santé, le bureau des impôts et les autorités du travail, une entreprise alimentaire touche plus de régulateurs que presque toute autre petite entreprise. La bonne nouvelle, c'est que la séquence est bien rodée ; faites-la dans le bon ordre et elle est gérable.

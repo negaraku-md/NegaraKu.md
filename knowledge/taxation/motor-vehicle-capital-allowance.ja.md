@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "benefits-in-kind" }
 related: ["benefits-in-kind", "corporate-tax-rates"]
 keywords: ["motor vehicle capital allowance Malaysia", "RM50000 RM100000 car capital allowance", "Schedule 3 paragraph 2(2)", "company car tax deduction Malaysia", "EV lease tax deduction Malaysia"]
+framework: rules
 ---
 
 ある会社がRM320,000の役員用セダンを購入し、これを機械設備として計上し、RM320,000について資本控除を受けられると見込む。だが実際に受けられるのはRM50,000についてである。この車は新車だが、価格がRM150,000を超えるため、より高い上限は開かれることがなく——差額のRM270,000は、そのまま永遠に控除されない。

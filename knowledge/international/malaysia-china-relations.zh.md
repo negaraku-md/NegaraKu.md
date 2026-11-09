@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "wisma-putra" }
 related: []
 keywords: ["Malaysia China relations", "largest trading partner", "South China Sea", "comprehensive strategic partnership", "1974 diplomatic relations", "Wisma Putra", "nine-dash line"]
+framework: explainer
 ---
 
 1974年，当东南亚大部分地区仍以冷战时期的猜疑眼光看待北京时，马来西亚首相敦阿都拉萨（Tun Abdul Razak）飞抵中国，与毛泽东握手。那次访问使马来西亚成为第一个与中华人民共和国建立外交关系的东盟国家——并为一段关系奠定了范式，这段关系如今是马来西亚在经济上最为举足轻重、而在其边缘处又最为微妙难处理的关系。

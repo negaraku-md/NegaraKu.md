@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: ["trademark-registration-malaysia"]
 keywords: ["intellectual property Malaysia", "trademark registration Malaysia", "patent Malaysia", "copyright Malaysia", "MyIPO", "Trademarks Act 2019", "Patents Act 1983", "Copyright Act 1987"]
+framework: explainer
 ---
 
 一个标志、一道配方、一段代码、一个品牌名称——它们中的任何一个一旦开始赚钱，别人就有了模仿它的理由。马来西亚法律给了你一种方式，让你能说「那是我的，这是证明的凭据。」问题在于，三种主要的知识产权以三种完全不同的方式运作，弄错其中一种，可能让企业失去它最宝贵的资产。

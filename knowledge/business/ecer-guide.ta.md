@@ -133,6 +133,7 @@ keywords:
   - "MCKIP Kuantan incentives"
   - "Kuantan Port free zone"
   - "ECRL completion date"
+framework: profile
 ---
 
 ECER தான் அதைச் சரியான முறையில் செய்த வழித்தடம். வடக்குப் பொருளாதார வழித்தடம் (Northern Corridor)

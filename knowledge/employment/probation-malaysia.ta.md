@@ -59,6 +59,7 @@ relations:
   - { rel: "governs", to: "employment-contract-malaysia" }
 related: ["unfair-dismissal-malaysia", "employment-contract-malaysia", "termination-of-employment-malaysia"]
 keywords: ["probation malaysia", "terminate probationer malaysia", "confirmation of employment malaysia", "probation period malaysia law", "extend probation malaysia"]
+framework: explainer
 ---
 
 “அவர் இன்னும் தொழில் சோதனைக் காலத்தில்தான் இருக்கிறார், எனவே நாம் அவரை வெறுமனே அனுப்பிவிடலாம்.”

@@ -96,6 +96,7 @@ social:
     - "#MalaysianDessert"
     - "#ShavedIce"
     - "#PasarMalam"
+framework: explainer
 ---
 
 Vào một buổi chiều oi bức ở Malaysia, hiếm có thứ gì lôi kéo đám đông như tiếng

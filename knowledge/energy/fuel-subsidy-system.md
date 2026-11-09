@@ -131,6 +131,7 @@ relations:
   - { rel: "related-to", to: "cost-of-living-malaysia" }
 related: ["padu-central-database", "petronas"]
 keywords: ["subsidi bahan api", "BUDI95", "RON95", "subsidi diesel", "PADU", "subsidi bersasar", "BUDI MADANI", "RM1.99", "rasionalisasi subsidi"]
+framework: explainer
 ---
 
 Selama berdekad, setiap orang di Malaysia — jutawan mahupun penoreh getah — membayar harga petrol yang sama di pam. Pada 30 September 2025, susunan itu berakhir. Kini seliter RON95 boleh berharga RM1.99 untuk anda tetapi hampir dua kali ganda untuk jiran anda, dan yang menentukannya bukan harga minyak dunia, tetapi kad pengenalan yang anda selit ke terminal.

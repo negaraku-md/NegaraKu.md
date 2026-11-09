@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "recognition-of-foreign-qualifications-malaysia" }
 related: []
 keywords: ["legalisasi dokumen", "apostille Malaysia", "pengesahan konsular", "Wisma Putra", "sijil kelahiran asing", "sijil perkahwinan luar negara", "pengesahan ijazah", "JPN dokumen asing"]
+framework: how-to
 ---
 
 해외에서 발급된 혼인 증명서를 들고 JPN 창구에 갔더니, 담당관이 이를 거부합니다 — 위조여서가 아니라 아직 「인증(legalisasi)」되지 않았기 때문입니다. 많은 사람이 바로 여기서 발목을 잡힙니다. 문서가 원산지 국가에서 유효하다고 해서 말레이시아에서 바로 접수되는 것은 아닙니다. 먼저 거쳐야 하는 확인의 사슬이 있습니다.

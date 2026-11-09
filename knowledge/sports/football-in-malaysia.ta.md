@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "malaysia-cup" }
 related: []
 keywords: ["bola sepak malaysia", "piala malaysia", "harimau malaya", "FAM", "liga super", "AFF", "football malaysia"]
+framework: history-culture
 ---
 
 1921-இல், Malaya-வில் ஒரு புதிய கால்பந்துப் போட்டியின் இறுதியில் Singapore, Selangor-ஐ 2-1 என்று வென்றது. ஒரு நூற்றாண்டுக்கும் மேலாகிய பின்னரும், அந்தப் போட்டி — இப்போது Malaysia Cup என அறியப்படுவது — நாட்டின் மிகவும் நேசிக்கப்படும் விளையாட்டின் மிகவும் மதிப்புமிக்க மகுடமாக இன்னும் திகழ்கிறது.

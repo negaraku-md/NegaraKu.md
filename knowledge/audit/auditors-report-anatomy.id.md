@@ -82,6 +82,7 @@ relations:
   - { rel: "part-of", to: "statutory-audit-process" }
 related: ["audit-opinion-types", "emphasis-of-matter-kam", "going-concern-audit", "statutory-audit-process", "appointing-an-auditor", "financial-statements-lodgement"]
 keywords: ["laporan juruaudit Malaysia", "bahagian laporan juruaudit bebas", "nombor AF firma audit Malaysia", "nombor kelulusan rakan kongsi audit", "seksyen 266 laporan kepada ahli syarikat", "cara membaca laporan audit"]
+framework: explainer
 ---
 
 Laporan auditor di Malaysia adalah dokumen berformat tetap. MIA menerbitkan

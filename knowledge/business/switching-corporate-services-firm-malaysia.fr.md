@@ -71,6 +71,7 @@ sources:
 relations: []
 related: ["choosing-accounting-secretarial-audit-tax-firm-malaysia", "company-secretary-malaysia", "audit-exemption-criteria", "accounting-records-section-245"]
 keywords: ["changer de secrétaire général Malaisie", "révoquer un auditeur Malaisie", "changer d'agent fiscal LHDN", "changer de cabinet comptable Malaisie", "démission secrétaire général article 237", "préavis spécial révocation auditeur", "changer de prestataire de services aux entreprises Malaisie", "comment changer de secrétaire général SSM", "remplacer un auditeur Companies Act 2016", "changer de teneur de livres Malaisie"]
+framework: how-to
 ---
 
 Tôt ou tard, une entreprise dépasse un prestataire — les honoraires grimpent, le service devient silencieux, ou vous trouvez simplement une meilleure adéquation. L'instinct est d'envoyer un courriel et de passer à autre chose. Mais la Malaisie ne traite pas ces quatre professionnels de la même manière : laisser tomber votre teneur de livres est un coup de téléphone, tandis que révoquer votre auditeur est un processus formel et légalement protégé. Voici comment chacun fonctionne réellement, et comment changer sans laisser de lacune de conformité.

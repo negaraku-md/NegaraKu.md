@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "singapore-separation-1965" }
 related: ["sabah", "sarawak", "ma63", "formation-of-malaysia-1963", "singapore-separation-1965"]
 keywords: ["Peninsular Malaysia", "East Malaysia", "Sabah Sarawak border", "South China Sea Malaysia", "Immigration Act 1959/63 Section 66", "Sarawak Land Code", "Sabah Land Ordinance", "Malaysian Standard Time 1982"]
+framework: explainer
 ---
 
 Bay nội địa từ Kuala Lumpur đến Kota Kinabalu và bạn hạ cánh ở chính đất nước mà bạn đã rời đi. Cùng đồng tiền, cùng hộ chiếu, cùng lá cờ trên đuôi máy bay. Vậy mà, tại sảnh đến, bạn xếp hàng ở một quầy kiểu nhập cư và ai đó kiểm tra thẻ căn cước hoặc hộ chiếu của bạn trước khi bạn được đi qua. Không một chuyến bay nào khác bên trong Malaysia hoạt động theo cách đó.

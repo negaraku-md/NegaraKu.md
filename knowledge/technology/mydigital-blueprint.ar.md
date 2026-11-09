@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "malaysias-telcos-and-5g" }
 related: ["digital-free-trade-zone", "cyberjaya-tech-hub", "malaysias-telcos-and-5g"]
 keywords: ["MyDIGITAL", "مخطط الاقتصاد الرقمي الماليزي", "Blueprint Ekonomi Digital Malaysia", "Malaysia Digital Economy Blueprint", "الاقتصاد الرقمي الماليزي", "Malaysia Digital", "MDEC", "مكانة Malaysia Digital", "MD2030"]
+framework: explainer
 ---
 
 في فبراير 2021، وفي خضمّ جائحة كوفيد-19 التي دفعت ملايين الماليزيين إلى الإنترنت، وضعت الحكومة هدفاً طموحاً على الورق: جعل الاقتصاد الرقمي يسهم بنسبة 22.6% في الناتج المحلي الإجمالي بحلول 2025. والوثيقة التي حملت ذلك الهدف كانت مخطط الاقتصاد الرقمي الماليزي — العمود الفقري للمبادرة المعروفة أكثر باسم MyDIGITAL.

@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["dewan-bahasa-dan-pustaka", "bahasa-melayu"]
 keywords: ["sastera Malaysia", "Sasterawan Negara", "Anugerah Sastera Negara", "sastera kebangsaan", "Dewan Bahasa dan Pustaka", "Sejarah Melayu", "hikayat", "syair"]
+framework: history-culture
 ---
 
 Trước khi có tiểu thuyết và trước khi có viện ngôn ngữ, một người kể chuyện rong đã sáng tác về các anh hùng Mã Lai ở sân triều Malacca. Chính từ truyền thống truyền khẩu ấy mà lớn lên một trong những di sản văn học phong phú nhất của vùng này — một truyền thống mà ngày nay được tôn vinh bằng danh hiệu quốc gia, hàng trăm nghìn ringgit tiền thưởng và một ghế danh dự trong nền văn minh của dân tộc.

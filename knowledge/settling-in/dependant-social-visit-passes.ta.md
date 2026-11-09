@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "employment-pass-malaysia" }
 related: ["moving-to-malaysia-first-steps", "imigresen", "employment-pass-malaysia", "work-passes-malaysia", "opening-bank-account"]
 keywords: ["Dependant Pass Malaysia", "Long-Term Social Visit Pass", "LTSVP Malaysia", "Employment Pass family", "sponsor spouse Malaysia visa", "parents visa Malaysia expatriate", "Malaysia family visa options"]
+framework: explainer
 ---
 
 மலேசியாவுக்கு இடம்பெயரும் Employment Pass வைத்திருப்பவர் ஒரு பாஸில் வாழ்க்கைத் துணையையும் இளம் குழந்தைகளையும் அழைத்து வர முடியும். அவர்களின் பெற்றோர், அல்லது இப்போதுதான் 18 வயதை எட்டிய குழந்தை, முற்றிலும் வேறுபட்ட ஒன்று தேவைப்படுகிறார்கள். ஒரே முதன்மை நபர், ஒரே குடும்பம், ஆனால் இரண்டு தனித்தனி குடிவரவு வகைகள் — இவ்விரண்டையும் குழப்பிக்கொள்வதுதான் ஒரு குடும்ப ஆதரவளிப்பு விண்ணப்பம் தடைபடுவதற்கான ஒற்றை மிகப் பொதுவான வழி.

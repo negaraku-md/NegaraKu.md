@@ -81,6 +81,7 @@ relations:
   - { rel: "affects", to: "deforestation-and-forest-loss-in-malaysia" }
 related: ["palm-oil-sustainability-mspo-and-deforestation", "palm-oil-industry", "palm-oil-sustainability-certification", "deforestation-and-forest-loss-in-malaysia"]
 keywords: ["oil palm smallholders", "MSPO certification", "independent smallholders", "MS 2530:2022", "EUDR palm oil", "sustainable palm oil Malaysia"]
+framework: explainer
 ---
 
 เกษตรกรในบินตูลู (Bintulu) ที่สามารถเดินไปตามแนวเขตทุกด้านของแปลงปาล์มน้ำมันของตนได้จากความจำ ในตอนนี้ต้องเปลี่ยน "แผนที่ในใจ" เหล่านั้นให้เป็นรูปหลายเหลี่ยม GPS ก่อนที่ผู้ซื้อในยุโรปจะยอมแตะผลผลิตของเขา ช่องว่างนั้น — ระหว่างการรู้จักที่ดินของตนกับการจัดทำเอกสารให้เป็นที่พอใจของผู้ตรวจสอบ — คือเรื่องราวที่เงียบงันเบื้องหลังเศรษฐกิจปาล์มน้ำมันของเกษตรกรรายย่อยในมาเลเซีย

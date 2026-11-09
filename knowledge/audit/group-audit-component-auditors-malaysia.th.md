@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "malaysian-institute-of-accountants" }
 related: ["malaysian-institute-of-accountants"]
 keywords: ["ISA 600", "group audit", "component auditor", "group engagement partner", "Malaysia subsidiary audit", "MIA", "consolidated financial statements", "aggregation risk"]
+framework: explainer
 ---
 
 บริษัทแม่เยอรมันรวมงบสาขาการค้าในกัวลาลัมเปอร์ (Kuala Lumpur) แต่หุ้นส่วนสอบบัญชีของกลุ่มในแฟรงก์เฟิร์ตไม่เคยเหยียบมาเลเซียและไม่อ่านบัญชีแยกประเภทในประเทศ มีใครบางคนในมาเลเซียทำการตรวจสอบภาคสนาม — แต่ลายมือชื่อในความเห็นกลุ่มยังคงเป็นของหุ้นส่วนกลุ่มแต่เพียงผู้เดียว การแบ่งแยกนั้นคือสิ่งที่มาตรฐานการสอบบัญชีกลุ่มถูกสร้างขึ้นมาเพื่อกำกับพอดี

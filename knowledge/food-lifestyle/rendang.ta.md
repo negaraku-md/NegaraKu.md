@@ -96,6 +96,7 @@ social:
     - "#MalaysianFood"
     - "#HariRaya"
     - "#Minangkabau"
+framework: explainer
 ---
 
 ஹரி ராயாவுக்கு முந்தைய நாட்களில் ஒரு மலாய் சமையலறையைக் கடந்து செல்லும்போது,

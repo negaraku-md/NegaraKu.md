@@ -87,6 +87,7 @@ relations:
   - { rel: "compares-with", to: "malaysia-indonesia-relations" }
 related: []
 keywords: ["hubungan Malaysia Singapura", "perjanjian air 1962", "RTS Link", "Tambak Johor", "Pulau Batu Puteh", "JS-SEZ", "perpisahan 1965", "dagangan dua hala"]
+framework: explainer
 ---
 
 두 국가가 하나의 코즈웨이, 하나의 물 공급, 매일 수십만 명의 통근 근로자 — 그리고 감정으로 가득 찬 분리의 역사를 공유합니다. 말레이시아의 어떤 양자 관계도 싱가포르와의 관계보다 더 긴밀하거나, 더 복잡하거나, 이해하기에 더 중요하지 않습니다.

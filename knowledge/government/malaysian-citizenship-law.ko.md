@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["federal-constitution", "jpn", "constitutional-amendment", "imigresen"]
 keywords: ["kewarganegaraan Malaysia", "Malaysian citizenship", "Perkara 14 Perlembagaan", "Bahagian III Perlembagaan Persekutuan", "kewarganegaraan secara pendaftaran", "penaturalisasian Malaysia", "Perkara 19 naturalisation", "pasangan asing kewarganegaraan", "anak tanpa kewarganegaraan", "pindaan Perlembagaan 2024 kewarganegaraan"]
+framework: rules
 ---
 
 쿠알라룸푸르(Kuala Lumpur)에서 태어난 아기와 말레이시아인 부모에게서 런던(London)에서 태어난 아기가 반드시 같은 시민권 지위로 출발하는 것은 아닙니다. 그 이유는 연방헌법 제2부칙의 몇 마디에 — 그리고 최근까지는, 단 한 단어에 — 있습니다. 바로 "부(bapa)"입니다.

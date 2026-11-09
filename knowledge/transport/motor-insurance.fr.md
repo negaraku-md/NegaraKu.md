@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "road-tax-renewal" }
 related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["assurance automobile Malaisie", "assurance au tiers", "loi sur les transports routiers 1987", "assurance tous risques", "taxe de circulation", "Section 90", "PIAM", "assurance moto", "Road Transport Act 1987", "insurans kenderaan Malaysia"]
+framework: explainer
 ---
 
 Vous pouvez légalement conduire une voiture qui n'a jamais été lavée, dont les pneus sont usés et la climatisation en panne. Mais conduire sans un seul bout de papier — une police d'assurance au tiers — est une infraction pénale.

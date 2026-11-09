@@ -100,6 +100,7 @@ entity: "Padi and rice industry in Malaysia"
 relations: []
 related: []
 keywords: ["padi", "rice industry Malaysia", "rice self-sufficiency level Malaysia", "SSL rice", "BERNAS", "Padiberas Nasional", "guaranteed minimum price padi", "Harga Minimum Terjamin", "MADA", "kawasan jelapang padi", "subsidi harga padi", "SSHP", "Dasar Agromakanan Negara 2.0", "National Agrofood Policy", "rice import Malaysia", "padi farmers Malaysia"]
+framework: profile
 ---
 
 Gạo là loại thực phẩm duy nhất mà Malaysia từ chối để cho thị trường tự do quyết định. Nhà nước tập trung nơi nó được trồng, đệm cho những nông dân trồng nó, cấp phép cho một công ty duy nhất nhập khẩu phần thiếu hụt, và giữ một kho dự trữ khẩn cấp phòng các cú sốc nguồn cung. Vậy mà sau nhiều thập kỷ với sự sắp xếp này, đất nước vẫn chỉ trồng khoảng một nửa lượng gạo mà mình ăn.

@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["program-rahmah-cost-of-living", "cost-of-living-overview", "inflation-cpi", "ringgit", "gdp-overview"]
 keywords: ["subsidi bahan api Malaysia", "Mekanisme Harga Automatik", "APM harga minyak", "BUDI95", "BUDI Diesel", "subsidi bersasar", "harga RON95", "SKDS SKPS"]
+framework: explainer
 ---
 
 在2026年7月23日至29日这一周，两名驾驶人士可以站在同一个油站的同一个油泵前，加同一种燃油，付出的价格却相差近一倍。一人付每公升RM1.99，另一人付RM3.62。

@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "circular-economy-blueprint" }
 related: []
 keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusan", "pengasingan sisa di punca", "ekonomi kitaran"]
+framework: explainer
 ---
 
 在柔佛丢一袋垃圾，它便成了联邦政府的事务；把同一袋垃圾丢在槟城，它却仍是地方议会的事务。这正是马来西亚管理其固体废物方式的核心怪象——一部气派的联邦法律，却只在同意采纳它的地方生效。

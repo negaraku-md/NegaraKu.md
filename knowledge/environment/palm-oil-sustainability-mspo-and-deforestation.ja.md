@@ -91,6 +91,7 @@ relations:
   - { rel: "affects", to: "eu-deforestation-regulation-eudr" }
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "palm oil sustainability", "deforestation", "EUDR", "RSPO", "certification", "smallholders", "MPOB", "Malaysia palm oil"]
+framework: explainer
 ---
 
 マレーシアは世界のパーム油の概ね5分の1を生産しており、この産業は森林減少との関わりをめぐって、長らく欧州やNGOの活動家から批判を受けてきた。これに対応する形で、同国は現在、義務的で国家が後ろ盾となる認証制度を運営しており、2025年9月5日、欧州連合（EU）は共同声明の中でこの制度を認めた。本稿では、MSPOがどのように機能するのか、それが何を証明し何を証明しないのか、そして依然として困難な問題がどこにあるのかを説明する。

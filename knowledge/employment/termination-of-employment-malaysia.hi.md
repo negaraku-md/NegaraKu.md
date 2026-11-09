@@ -150,6 +150,7 @@ relations:
   - { rel: "related-to", to: "retrenchment-malaysia" }
 related: ["labour-law-map-malaysia", "domestic-inquiry-malaysia", "unfair-dismissal-malaysia", "retrenchment-malaysia", "termination-benefits-malaysia", "offboarding-statutory-checklist"]
 keywords: ["रोज़गार-समाप्ति मलेशिया", "नोटिस-अवधि मलेशिया", "इच्छानुसार रोज़गार मलेशिया", "नोटिस के बदले भुगतान", "उचित कारण या बहाना", "इस्तीफ़े के बाद अंतिम वेतन मलेशिया", "धारा 12 रोज़गार अधिनियम", "termination of employment malaysia", "section 12 employment act"]
+framework: rules
 ---
 
 कुआलालंपुर का एक नियोक्ता सोमवार को तय करता है कि एक प्रबंधक काम नहीं बन रहा। अन्यत्र का क़ानूनी सलाहकार नोटिस-खंड के बारे में पूछेगा। मलेशिया में पहला प्रश्न भिन्न है, और यही वह है जो मामला तय करता है: **कारण क्या है, और क्या आप उसे सिद्ध कर सकते हैं?**

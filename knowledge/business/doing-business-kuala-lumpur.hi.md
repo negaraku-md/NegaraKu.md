@@ -111,6 +111,7 @@ keywords:
   - "TRX Marquee दर्जा प्रोत्साहन"
   - "doing business in Kuala Lumpur"
   - "DBKL business licence"
+framework: profile
 ---
 
 कुआलालंपुर मलेशिया में वह एक जगह है जहां आप अपना लाइसेंस-शुल्क संघीय राजपत्र से पढ़ सकते

@@ -67,6 +67,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-expansion-2025", "sst-registration", "sst-02-filing"]
 keywords: ["إعفاء SST B2B", "ضريبة الخدمات بين الشركات ماليزيا", "service tax B2B Malaysia", "إعفاء الخدمة الخاضعة للضريبة نفسها", "same taxable service exemption"]
+framework: rules
 ---
 
 يفشل إعفاء B2B على الشرط نفسه في كلّ مرة تقريباً: يجب أن تكون الخدمة المُقتناة هي

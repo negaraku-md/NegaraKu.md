@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "retrenchment-malaysia" }
 related: ["termination-of-employment-malaysia", "retrenchment-malaysia", "offboarding-statutory-checklist"]
 keywords: ["termination benefits malaysia", "retrenchment benefit calculation", "TBLB regulations 1980", "severance pay malaysia", "lay off benefits malaysia", "10 15 20 days wages"]
+framework: rules
 ---
 
 두 고용주가 같은 날 같은 근로자를 정리해고합니다. 한 곳은 한 달치 급여를 지급하고 이를 넉넉하다고 부릅니다. 다른 곳은 9년 각 해에 대해 20일분의 임금 — 대략 6개월치 급여 — 을 지급하는데, 법이 그렇게 요구하기 때문입니다. 차이는 두 번째 고용주가 고용(고용 종료 및 일시 해고 급여) 규정 1980을 읽었다는 데 있습니다.

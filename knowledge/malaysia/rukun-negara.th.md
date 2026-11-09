@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["federal-constitution", "independence-1957", "formation-of-malaysia-1963", "parliament"]
 keywords: ["Rukun Negara", "lima prinsip Rukun Negara", "ikrar Rukun Negara", "Majlis Perundingan Negara", "MAGERAN", "Pengisytiharan Diraja 1970"]
+framework: history-culture
 ---
 
 ในแฟ้มคณะกรรมการรูกุนเนอการาที่หอจดหมายเหตุแห่งชาติมาเลเซียมีจดหมายฉบับหนึ่งลงวันที่ 19 มีนาคม 1970 มันแจ้งว่าการประชุมครั้งแรกของคณะกรรมการรูกุนเนอการาจะจัดขึ้นในวันที่ 31 มีนาคม 1970 เวลา 10.00 น. ที่ห้องปฏิบัติการ กระทรวงการคลังมาเลเซีย มีสิบสามชื่อในรายการเวียน อีกสี่คนได้รับสำเนา

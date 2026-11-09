@@ -66,6 +66,7 @@ faq:
     a: Không. Malaysia neo ringgit ở mức 3.80 so với đô la Mỹ vào tháng 9 năm 1998 trong cuộc Khủng hoảng Tài chính châu Á, cùng với các biện pháp kiểm soát vốn, và mức neo này duy trì gần bảy năm. Nó được dỡ bỏ vào năm 2005, và ringgit trở lại chế độ thả nổi có quản lý — do thị trường quyết định, với Ngân hàng Trung ương Malaysia (BNM) chỉ hiện diện để làm dịu các biến động hỗn loạn chứ không để bảo vệ một mức cụ thể. Ngày nay không có mức "đúng" chính thức nào.
   - q: Vì sao tỷ giá mà ngân hàng hay quầy đổi tiền của tôi đưa ra lại tệ hơn tỷ giá BNM công bố?
     a: Bởi vì tỷ giá tham chiếu USD/MYR tại KL của BNM là một chuẩn mực thị trường được tính từ thị trường liên ngân hàng, dùng cho hợp đồng và định giá — không phải giá bán lẻ. Ngân hàng và quầy đổi tiền cộng thêm phần chênh lệch (spread) riêng của họ lên trên, nên bạn luôn giao dịch ở mức tệ hơn tỷ giá tham chiếu. Tỷ giá tham chiếu là 4.0841 tính đến ngày 23 tháng 10 năm 2026, nhưng đó là chuẩn mực, không phải cái mà khách hàng thực sự trả tại quầy.
+framework: explainer
 ---
 
 ## Tổng quan nhanh

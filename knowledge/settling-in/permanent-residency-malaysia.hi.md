@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysian-citizenship" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["मलेशिया में स्थायी निवास", "permanent residency Malaysia", "MyPR", "लाल पहचान पत्र", "red IC Malaysia", "प्रवेश परमिट", "Entry Permit Malaysia", "Immigration Act 1959/63", "Regulation 4 Immigration Regulations 1963"]
+framework: explainer
 ---
 
 एक लाल MyKad मलेशिया में कई लंबी-यात्रा वाले जीवनों के लिए वह शांत अंतिम रेखा है — वह विदेशी पत्नी जिसने एक दशक से वही भ्रमण पास बार-बार नवीनीकृत किया है, वह इंजीनियर जो फिर कभी कार्य-परमिट विस्तार दाखिल नहीं करना चाहता, वह सेवानिवृत्त व्यक्ति जो हमेशा के लिए कहीं का होना चाहता है। वह कार्ड, MyPR, वही है जो आपके बटुए में मलेशियाई स्थायी निवास का असली रूप है।

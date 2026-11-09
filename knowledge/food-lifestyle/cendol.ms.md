@@ -93,6 +93,7 @@ social:
     - "gulamelaka"
     - "penangfood"
     - "malaysianfood"
+framework: explainer
 ---
 
 Pada petang Malaysia yang panas, sedikit perkara yang seboleh dipercayai semangkuk

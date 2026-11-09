@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-labour-ordinance" }
 related: ["labour-law-map-malaysia", "employment-act-coverage", "working-hours-overtime-malaysia", "minimum-wage-malaysia"]
 keywords: ["रोज़गार अधिनियम 1955", "रोज़गार अधिनियम मलेशिया", "act 265", "रोज़गार संशोधन अधिनियम 2022", "मलेशिया श्रम क़ानून", "45 घंटे सप्ताह मलेशिया", "employment act 1955"]
+framework: data-reference
 ---
 
 मलेशिया का कोई भी HR ब्लॉग खोलिए और आपको रोज़गार अधिनियम अब भी कम-वेतन श्रमिकों के लिए एक

@@ -137,6 +137,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["stamp-duty-share-transfer", "register-of-members", "share-allotment", "share-transmission", "capital-gains-tax", "beneficial-ownership"]
 keywords: ["share transfer Malaysia", "transfer shares Sdn Bhd", "Form 32A share transfer", "section 106 Companies Act 2016", "share transfer stamp duty 30 days"]
+framework: how-to
 ---
 
 私人有限公司（Sdn Bhd）的股份转让通常以两种方式之一失败。要么有人以错误的顺序提交文件，导致公司凭一份未盖印花的文书登记转让；要么有人花上一周去寻找 Form 32A——一份自 2017 年起就不再作为法定文件存在的表格。

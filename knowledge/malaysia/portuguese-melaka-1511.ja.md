@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["kejatuhan Melaka 1511", "Afonso de Albuquerque", "Melaka Portugis", "A Famosa", "penjajahan Eropah Nusantara", "Kesultanan Johor 1528"]
+framework: history-culture
 ---
 
 十日間。これが、ポルトガル艦隊が1511年8月10日にマラッカ海域へ到着してから、8月24日にこの都市が陥落するまでの間隔である。

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "equity-crowdfunding-p2p-malaysia" }
 related: ["kl20-startup-ecosystem", "securities-commission-malaysia"]
 keywords: ["venture capital malaysia", "private equity malaysia", "VCC VCMC malaysia", "SC registration venture capital", "raise funding startup malaysia", "MAVCAP", "Penjana Kapital", "VC tax incentive malaysia"]
+framework: explainer
 ---
 
 Hầu hết các công ty Malaysia tăng trưởng trên lợi nhuận giữ lại, một khoản thấu chi ngân hàng, hoặc một khoản vay doanh nghiệp vừa và nhỏ. Một nhóm nhỏ nhưng quan trọng tăng trưởng trên vốn cổ phần của người khác thay vào đó — một quỹ mua một phần của doanh nghiệp, đẩy nó đến quy mô, và bán phần đó nhiều năm sau với một hệ số bội. Đó là điều mà vốn mạo hiểm và vốn tư nhân làm, và Malaysia quản lý, tài trợ và đánh thuế hoạt động này theo những cách khiến những người cho rằng nó hoạt động như Hoa Kỳ bất ngờ.

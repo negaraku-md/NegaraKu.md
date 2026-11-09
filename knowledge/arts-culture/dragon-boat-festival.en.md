@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "winter-solstice-festival"]
 keywords: ["端午节", "端阳节", "五月节", "粽子", "bak chang", "娘惹粽", "咸肉粽", "碱水粽", "龙舟", "赛龙舟", "屈原", "艾草", "菖蒲", "立蛋", "直落巴巷水坝", "马来西亚华人", "Dragon Boat Festival Malaysia", "Duanwu"]
+framework: history-culture
 ---
 
 As the fifth day of the fifth lunar month draws near, the scent of bamboo leaves and glutinous rice drifts from the kitchens of Chinese families. Homemakers pack soaked glutinous rice and fragrant stir-fried fillings layer by layer into leaves folded into a funnel shape, tie them tight with reed string, and lower string after string into the pot for a long boil. Meanwhile, at the Teluk Bahang Dam on the northwestern tip of Penang Island, slender dragon boats slice across the water; a drummer stands at the bow beating out the rhythm, and dozens of paddlers stroke in unison to the beat — these are the two faces of the Dragon Boat Festival in Malaysia: on one side the fragrance of zongzi in the kitchen, on the other the race on the water.

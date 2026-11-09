@@ -77,6 +77,7 @@ related:
   - "apam-balik"
 social:
   hashtags: ["#RavisApomManis", "#ApomManis", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 บน Jalan Burma ใน George Town ร้านที่ทอดแพนเค้กหวานมาเกือบศตวรรษ บัดนี้ถือครอง

@@ -145,6 +145,7 @@ relations:
   - { rel: "compares-with", to: "employment-pass-malaysia" }
 related: ["labour-law-map-malaysia", "worker-accommodation-act-446", "employment-pass-malaysia"]
 keywords: ["hiring foreign workers malaysia", "section 60k", "plks", "eppax", "fwcms", "fomema", "visa dengan rujukan", "foreign worker quota malaysia"]
+framework: how-to
 ---
 
 மலேசியாவில் வெளிநாட்டுத் தொழிலாளர்களைப் பணியமர்த்துவது குறித்த கிட்டத்தட்ட ஒவ்வொரு வழிகாட்டியும் ஒதுக்கீட்டில் (quota) தொடங்குகிறது. ஒதுக்கீடு மூன்றாவது படிநிலை.

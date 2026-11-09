@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "royal-malaysia-police" }
 related: []
 keywords: ["agencia de seguridad privada", "licencia de agencia privada", "policía auxiliar", "Private Agencies Act 1971", "guardia de seguridad Malasia", "KDN eSIMS", "área cerrada"]
+framework: profile
 ---
 
 En la mayoría de las zonas residenciales cerradas, fábricas y centros comerciales de Malasia, la primera persona con la que se encuentra no es un oficial de policía — sino un guardia de seguridad privada. Esta industria opera en estrecha colaboración con las fuerzas públicas del orden, pero se rige por un marco legal completamente distinto, y la confusión sobre quién puede hacer qué puede exponer a riesgo legal a las empresas que los contratan.

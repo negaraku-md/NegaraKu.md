@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "dependant-social-visit-passes", "student-pass"]
 keywords: ["overstay Malaysia", "immigration blacklist", "Special Pass", "Immigration Act 1959/63", "compound fine", "re-entry ban", "section 15", "Overstay Management Programme"]
+framework: rules
 ---
 
 Sebuah pas yang kedaluwarsa hanya sehari, dalam pandangan undang-undang Malaysia, merupakan pelanggaran yang sama seperti pas yang kedaluwarsa seratus hari. Itulah titik awal yang tidak nyaman bagi siapa pun yang menyadari pas kunjungan, penggajian, tanggungan, pelajar, atau profesional mereka telah habis masa — dan hal itu membentuk segala hal tentang apa yang terjadi selanjutnya.

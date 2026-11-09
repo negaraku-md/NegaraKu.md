@@ -91,6 +91,7 @@ relations:
   - { rel: "compares-with", to: "akpk-debt-management-programme" }
 related: []
 keywords: ["kebankrapan", "bankrap", "insolvensi", "Akta Insolvensi 1967", "MDI", "Ketua Pengarah Insolvensi", "pelepasan bankrap", "seksyen 33C", "AKPK", "DMP"]
+framework: explainer
 ---
 
 A single unpaid invoice can end up as a court order that changes almost every financial dealing in a person's life — from their bank account to their permission to leave the country. In Malaysia, that dividing line is defined by a single law: the Insolvency Act 1967 (Act 360). This article describes the process descriptively, without taking sides.

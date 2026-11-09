@@ -78,6 +78,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-registration", "imported-taxable-services", "sales-tax-explained"]
 keywords: ["SST-02", "SST दाखिल करने की समय-सीमा मलेशिया", "SST विलंबित भुगतान दंड", "कर-योग्य अवधि SST", "MySST रिटर्न", "SST filing deadline Malaysia"]
+framework: rules
 ---
 
 दंड सीढ़ी नब्बे दिनों पर चढ़ना बंद कर देती है। उस बिंदु के बाद यह 40% पर स्थिर है,

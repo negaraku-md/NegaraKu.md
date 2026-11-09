@@ -79,6 +79,7 @@ faq:
     a: No. The Immigration Department states the Employment Pass is valid only in Peninsular Malaysia. Sabah and Sarawak run their own immigration control under state autonomy, so a posting there needs its own separate pass or endorsement. The EP also ties you to the sponsoring company only — change jobs and your new employer must file a fresh application from scratch.
   - q: Can my spouse work in Malaysia on a Dependant Pass?
     a: Yes, but not automatically. The Dependant Pass itself carries no work rights, and the principal must hold a valid Employment Pass first because the dependant application rides on it. Per Immigration's own FAQ, a spouse can then work under an endorsement for work from the Immigration Department, without converting to a full Employment Pass in their own name — a materially faster and cheaper route than a fresh EP application.
+framework: explainer
 ---
 
 You have a signed job offer in Malaysia. You have a passport, a degree, years of relevant experience. And there is still nothing you, personally, can go and file.

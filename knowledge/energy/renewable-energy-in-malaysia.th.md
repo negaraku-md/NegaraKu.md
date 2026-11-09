@@ -111,6 +111,7 @@ entity: "Renewable energy in Malaysia"
 relations: []
 related: []
 keywords: ["renewable energy Malaysia", "NETR", "National Energy Transition Roadmap", "MyRER", "NEM 3.0", "Net Energy Metering Malaysia", "SEDA", "Large Scale Solar", "LSS Malaysia", "CGPP", "CRESS", "solar panel Malaysia", "feed-in tariff Malaysia", "TNB solar", "renewable energy target 2050", "Energy Commission Malaysia"]
+framework: explainer
 ---
 
 หากท่านเคยพยายามศึกษาเรื่องพลังงานหมุนเวียน (RE) ในมาเลเซีย ท่านคงเจอตัวเลขเป้าหมายที่แตกต่างกันสามตัว ได้แก่ 31%, 40% และ 70% และกำแพงของตัวย่อ FiT, NEM, LSS, CGPP, CRESS, SELCO ไม่มีสิ่งใดขัดแย้งกัน มันเพียงกระจายอยู่ทั่วหน่วยงานหลายแห่ง แต่ละแห่งบันทึกเฉพาะมุมของตนเอง คู่มือนี้ดึงภูมิทัศน์ทั้งหมดมาไว้ในที่เดียว ได้แก่ เป้าหมายระดับชาติและแผนที่นำทางเบื้องหลัง กลุ่มโครงการ และส่วนที่แหล่งข้อมูลส่วนใหญ่ข้ามไป คือโครงการใดที่มุ่งหมายสำหรับเจ้าของบ้าน ธุรกิจ หรือผู้พัฒนาจริง ๆ

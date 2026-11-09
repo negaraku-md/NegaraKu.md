@@ -90,6 +90,7 @@ keywords:
   - "drag along tag along Sdn Bhd"
   - "shareholders agreement Malaysia"
   - "section 346 oppression"
+framework: explainer
 ---
 
 Deux fondateurs signent un pacte d'actionnaires de vingt pages. Il donne à chacun un siège au

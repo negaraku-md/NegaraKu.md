@@ -73,6 +73,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-act-1955-guide", "working-hours-overtime-malaysia", "employment-contract-malaysia"]
 keywords: ["modalité travail flexible malaisie", "fwa malaisie employment act", "article 60p 60q", "demande télétravail malaisie", "demande travail flexible malaisie"]
+framework: rules
 ---
 
 La plupart des articles malaisiens sur le travail flexible le décrivent comme un avantage que l'employeur peut choisir d'offrir. Cette lecture passe complètement à côté du sens de la Partie XIIC. La loi ne crée pas un droit de travailler de façon flexible. Elle crée une **obligation de répondre**, par écrit, dans un délai fixe — et cette obligation est exécutoire que la réponse soit oui ou non.

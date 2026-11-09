@@ -83,6 +83,7 @@ social:
     - CommunityPharmacy
     - DoingBusinessInMalaysia
     - PoisonsAct
+framework: how-to
 ---
 
 Ouvrir une pharmacie en Malaisie n'est pas comme ouvrir une boutique ordinaire, et la raison tient à un unique choix de conception dans la loi : la licence qui permet à une pharmacie de vendre des médicaments est liée à une *personne* - un pharmacien enregistré - et non à une société ni à un local. Vous pouvez avoir le capital, l'emplacement et l'aménagement prêts, mais tant qu'un pharmacien qualifié n'est pas derrière la licence, vous avez une boutique de produits de santé, pas une pharmacie.

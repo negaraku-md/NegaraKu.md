@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "representative-regional-office-malaysia" }
 related: ["mida"]
 keywords: ["principal hub malaysia", "global services hub malaysia", "regional headquarters malaysia", "MIDA principal hub incentive", "GSH tax incentive malaysia", "headquarters incentive malaysia"]
+framework: explainer
 ---
 
 Multinationals do not put their regional headquarters just anywhere — they follow the incentives. For years, Malaysia's pitch to companies deciding where to base their regional management, finance and shared-services operations was the **Principal Hub** incentive. That scheme has closed, and a lot of advice online has not caught up. If you are scoping Malaysia as an operations base today, the route that actually exists is the **Global Services Hub**.

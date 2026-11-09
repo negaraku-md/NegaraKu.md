@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "chinese-dialects", "chinese-clan-associations", "chinese-religion-in-malaysia"]
 keywords: ["华人婚礼", "传统婚礼", "过大礼", "下聘", "聘金", "嫁妆", "安床", "上头", "迎亲", "接新娘", "姐妹玩新郎", "闯门", "奉茶", "敬酒", "喜酒", "回门", "囍", "双喜", "马来西亚华人", "Chinese wedding customs Malaysia"]
+framework: history-culture
 ---
 
 날이 채 밝기도 전에, 한 줄로 늘어선 차들이 이미 신부 집 앞에 멈춰 섰다. 신랑은 꽃다발을 안고 뒤에 몇 명의 '형제'를 거느렸지만, 문 안에서 고개를 내민 몇몇 '자매'에게 가로막힌다. 먼저 질문에 답하고, 한 소절 노래하고, 아주 얇게 썬 라임 몇 조각을 먹고, 마지막으로 문틈으로 앙파우 몇 개를 밀어 넣는다——이 '문 통과'(闖門) 관문을 넘어야 비로소 문이 열리고, 신랑은 온통 붉은 차림의 신부를 만날 수 있다. 장난과 흥겨움으로 가득한 이런 아침이 말레이시아의 많은 중국계 혼례 당일의 서막이다.

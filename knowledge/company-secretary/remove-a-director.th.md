@@ -78,6 +78,7 @@ relations:
   - { rel: "part-of", to: "directors-duties" }
 related: ["appoint-resign-director", "directors-duties", "register-of-directors"]
 keywords: ["remove a director Malaysia", "section 206 Companies Act 2016", "written resolution remove director", "pecat pengarah syarikat", "section 297 written resolution Malaysia", "special notice remove director"]
+framework: how-to
 ---
 
 ผู้ถือหุ้นข้างมากมีคะแนนเสียง เลขานุการร่างมติเป็นหนังสือถอดถอนกรรมการ เวียน เก็บลายมือชื่อ และยื่นการเปลี่ยนแปลงกับ SSM ดูสะอาด ดูรวดเร็ว และมีข้อบกพร่องเห็นได้ชัดในตัวพระราชบัญญัติ

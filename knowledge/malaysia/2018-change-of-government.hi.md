@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
 related: ["spr-election-commission", "dewan-rakyat", "how-elections-work", "federal-constitution", "independence-1957"]
 keywords: ["14वाँ आम चुनाव", "GE14", "PRU14", "2018 मलेशियाई आम चुनाव", "मलेशिया में सरकार परिवर्तन", "Pakatan Harapan", "Barisan Nasional", "Dewan Rakyat 222 सीटें", "अनुच्छेद 43 संघीय संविधान", "महाथिर सातवें प्रधानमंत्री"]
+framework: history-culture
 ---
 
 61 वर्षों तक, 1957 में स्वतंत्रता के बाद पहले संघीय चुनाव से लेकर 2018 तक, मलेशिया की हर संघीय सरकार एक ही गठबंधन द्वारा बनाई गई — [गठबंधन (the Alliance)](/malaysia/the-alliance), और 1970 के दशक से उसका उत्तराधिकारी, [बारिसन नेशनल](/malaysia/barisan-nasional)। 14वें आम चुनाव में, वह निरंतरता समाप्त हो गई: एक भिन्न गठबंधन ने देवान राक्यात (Dewan Rakyat) में सीटों का बहुमत जीता।

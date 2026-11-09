@@ -93,6 +93,7 @@ social:
     - "gulamelaka"
     - "penangfood"
     - "malaysianfood"
+framework: explainer
 ---
 
 Par un après-midi malaisien torride, peu de choses sont aussi fiables qu'un bol de cendol : un monticule de glace pilée rendu luisant sous une couche de lait de coco, parcouru de gelée verte molle, et assombri par un lent filet de sirop de sucre de palme. C'est bon marché, c'est partout, et c'est sucré sans complexe — le genre de dessert pour lequel on fait la queue au soleil et que l'on termine avant qu'il ne fonde.

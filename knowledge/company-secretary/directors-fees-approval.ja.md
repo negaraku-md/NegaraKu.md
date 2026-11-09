@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "directors-report" }
 related: ["directors-duties", "directors-report", "loans-to-directors", "disclosure-of-interest"]
 keywords: ["directors fees Malaysia", "section 230 Companies Act 2016", "compensation for loss of office Malaysia", "yuran pengarah syarikat", "director remuneration approval Sdn Bhd", "section 227 payment loss of office"]
+framework: rules
 ---
 
 家族経営のSdn Bhdでは、報酬は普段、話し合いの中で決められ、後から――もし記録されるとしても――書面化されるにすぎない。それは2016年会社法s.230(2)が認めるところに近い――だが、近いだけである。それに続く項は、RM250,000の罰則付きで株主に告知する**14日**の義務を課しており、さらにその次の項は、10％の少数派に、その報酬を**会社に対する債務**に変える権限を与えている。

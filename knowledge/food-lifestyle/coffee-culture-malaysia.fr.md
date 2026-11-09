@@ -92,6 +92,7 @@ verificationNeeded:
   - "La recette de torréfaction traditionnelle exacte du kopi O foncé——couramment décrite comme des grains torréfiés avec du sucre et de la margarine, et selon certains récits aussi du blé/maïs——est tenue pour un secret commercial par les grandes marques et varie d'un torréfacteur à l'autre ; à confirmer dans le détail auprès d'une source primaire."
   - "La chronologie, les pionniers et les détails actuels des cafés/torréfacteurs du mouvement third wave de Kuala Lumpur reposent en partie sur un récit de Time Out de 2014 ; les cafés et torréfacteurs nommés ont pu changer. À confirmer auprès de sources actuelles avant de se fier à des détails précis."
   - "L'ampleur et la production du café cultivé en Malaisie (p. ex. Liberica) et toute affirmation de « single-origin malaisien » devraient être confirmées auprès d'une source agricole ou du secteur, et non des médias de voyage."
+framework: history-culture
 ---
 
 Commandez un « kopi » dans un vieux café d'Ipoh et l'on vous apporte une tasse épaisse de café

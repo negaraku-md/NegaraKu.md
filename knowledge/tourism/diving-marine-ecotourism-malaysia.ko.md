@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "sabah-travel-guide" }
 related: []
 keywords: ["Sipadan diving permit", "Malaysia marine park fees", "Sabah Parks", "Department of Fisheries marine park", "scuba diving Malaysia", "marine ecotourism"]
+framework: rules
 ---
 
 말레이시아에서 가장 맑은 물은 또한 가장 다다르기 어렵습니다. 시파단(Sipadan)의 벽면으로 뛰어들려면 아무리 많은 돈을 내도 직접 살 수 없는 정부 허가증이 필요합니다. 이 하나의 사실이 이 나라가 다이빙 관광을 운영하는 방식을 잘 보여줍니다 — 출입은 배분되고, 요금이 매겨지며, 어느 바다로 내려가고 싶은지에 따라 매우 다른 두 관할권으로 나뉩니다.

@@ -103,6 +103,7 @@ keywords:
   - "section 31 Companies Act 2016"
   - "do I need a constitution Sdn Bhd"
   - "M&A replaced by constitution"
+framework: explainer
 ---
 
 The Companies Act 2016 made the company constitution optional, and the entire industry

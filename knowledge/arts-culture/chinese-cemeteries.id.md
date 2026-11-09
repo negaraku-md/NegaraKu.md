@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "qingming-festival" }
 related: ["qingming-festival", "chinese-clan-associations", "tua-pek-kong", "chinese-religion-in-malaysia"]
 keywords: ["义山", "华人义山", "坟山", "华人墓园", "三宝山", "Bukit Cina", "广东义山", "Kwong Tong Cemetery", "后土", "大伯公", "福德正神", "风水", "灵骨塔", "骨灰龛", "纪念花园", "清明", "拜山", "起骨", "马来西亚华人", "Chinese cemeteries Malaysia"]
+framework: history-culture
 ---
 
 Menjelang Qingming, sebelum langit benar-benar terang, kaki Bukit Cina di Melaka sudah dipenuhi kendaraan yang terparkir. Keluarga demi keluarga membawa bunga segar, hio, lilin, dan sesaji sambil mendaki lereng yang berbukit-bukit menuju makam leluhur mereka. Ada yang lebih dulu membakar hio di sebuah relung batu kecil di sisi makam yang berukir aksara "Houtu", lalu berpaling membersihkan batu nisan leluhur — mencabut rumput, mewarnai ulang ukiran aksara yang pudar, lalu menata sesaji. Makam-makam yang padat di sepanjang lereng, semuanya menghadap arah yang sama, adalah tempat peristirahatan generasi demi generasi orang Tionghoa yang merantau ke selatan.

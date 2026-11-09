@@ -107,6 +107,7 @@ relations:
   - { rel: "compares-with", to: "capital-allowances" }
 related: ["double-deduction-list", "capital-allowances", "section-33-deductibility", "tax-incentives-directory"]
 keywords: ["approved research allowance malaysia", "r&d double deduction malaysia", "section 34a income tax act", "section 34b double deduction", "r&d status mida", "borang 1 r&d lhdn"]
+framework: explainer
 ---
 
 「承認研究控除」について三人の顧問に尋ねれば、三通りの答えが返ってくるだろう。そのような減免は存在しないからである。1967年所得税法（Income Tax Act 1967）のどこにもこの語句は使われていない。実際に存在するのは、承認の経路も期限も異なる三つの別個の控除、そしてMIDAが運営するまったく別の第四の制度である。これらを混同することが、企業が自ら裏付けられない二重控除を抱え込む結果につながる。

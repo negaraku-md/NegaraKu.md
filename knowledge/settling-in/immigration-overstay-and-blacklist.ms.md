@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "dependant-social-visit-passes", "student-pass"]
 keywords: ["overstay Malaysia", "immigration blacklist", "Special Pass", "Immigration Act 1959/63", "compound fine", "re-entry ban", "section 15", "Overstay Management Programme"]
+framework: rules
 ---
 
 Sebuah pas yang luput hanya sehari, pada pandangan undang-undang Malaysia, merupakan kesalahan yang sama seperti pas yang luput seratus hari. Itulah titik permulaan yang tidak selesa bagi sesiapa yang menyedari pas lawatan, penggajian, tanggungan, pelajar, atau profesional mereka telah tamat tempoh — dan ia membentuk segala-galanya tentang apa yang berlaku seterusnya.

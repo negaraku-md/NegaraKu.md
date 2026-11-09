@@ -121,6 +121,7 @@ keywords:
   - "Medini incentives expired"
   - "Iskandar vs JS-SEZ"
   - "Wilayah Pembangunan Iskandar"
+framework: explainer
 ---
 
 几乎每一篇关于柔佛激励历史的叙述都在讲同一件事：JS-SEZ 取代了旧的依斯干达配套。这听起来顺理成章，却是错的，而更正之精确足以逐一核对。

@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "appoint-resign-director" }
 related: ["disclosure-of-interest", "director-shareholding-notification", "appoint-resign-director", "remove-a-director", "loans-to-directors", "directors-fees-approval", "directors-report", "register-of-directors"]
 keywords: ["directors duties Malaysia", "section 213 Companies Act 2016", "director personal liability Malaysia", "business judgment rule Malaysia", "tanggungjawab pengarah syarikat", "shadow director Malaysia", "director fine RM3 million"]
+framework: rules
 ---
 
 La multa es de tres millones de ringgit y la condena es de cinco años. No contra la empresa, contra usted. La Sección 213(3) de la Ley de Sociedades de 2016 convierte el incumplimiento de los deberes de los directores en un delito penal cometido por el individuo, y el mismo tope reaparece en los s.217, s.218, s.221, s.222, s.223, s.224, s.225 y s.228.

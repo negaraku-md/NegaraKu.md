@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-government-debt-malaysia" }
 related: []
 keywords: ["calificación crediticia de Malasia", "calificación soberana", "grado de inversión", "Malaysia credit rating", "sovereign rating", "S&P Malaysia", "Moody's Malaysia", "Fitch Malaysia", "A3", "BBB+", "investment grade"]
+framework: explainer
 ---
 
 Cuando el ministro de finanzas de Malasia da públicamente la bienvenida a una carta de un analista de Nueva York, sabes que lo que está en juego es más que simbólico. Un solo escalón arriba o abajo en una calificación crediticia soberana puede cambiar lo que el gobierno paga por endeudarse, propagarse a los costos de financiación corporativa, y tirar del ringgit. Tres firmas —S&P Global, Moody's y Fitch— sostienen esa pluma para Malasia.

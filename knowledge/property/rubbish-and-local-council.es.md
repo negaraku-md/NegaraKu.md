@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["basura Malasia", "reciclaje Malasia", "separación de residuos en origen", "consejo local basura", "sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
+framework: explainer
 ---
 
 Tu contenedor de basura se recoge dos veces por semana, pero ¿alguna vez te has preguntado quién la recoge realmente — el consejo local u otra empresa que el consejo ha nombrado? ¿Y por qué tu vecino del estado de al lado puede ser multado por no separar las botellas de plástico de los restos de comida, mientras que tú no?

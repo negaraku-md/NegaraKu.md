@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: ["langkasuka", "johor"]
 keywords: ["Melaka Sultanate", "Parameswara", "Malacca history", "Hukum Kanun Melaka", "Malay sultanate origins"]
+framework: history-culture
 ---
 
 한 왕자가 불타는 도시에서 달아납니다. 그는 해협을 건너, 자신을 숨겨 준 지역 우두머리를 죽이고, 계속 달아납니다 — 무아르(Muar)를 지나, 우종 타나(Ujong Tanah)를 지나 — 그러다 강가의 한 나무 아래에 멈춰 개들을 쉬게 합니다. 그중 한 마리가 애기사슴(mouse deer) 한 마리를 궁지로 몰자, 궁지에 몰린 애기사슴이 돌아서서 개를 물속으로 걷어차 버립니다. 왕자는 이를 징조로 받아들입니다. 이곳에서는 가장 작은 짐승조차 맞서 싸운다는 것입니다. 그는 이곳에 자신의 도시를 세우기로 하고, 자신이 앉아 있던 나무 — *믈라카(melaka)* 나무 — 의 이름을 따서 도시를 명명합니다.

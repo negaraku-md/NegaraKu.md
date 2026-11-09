@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "entertainment-expenses" }
 related: ["section-33-deductibility", "labuan-tax-regime", "withholding-tax-non-compliance", "withholding-tax-rates"]
 keywords: ["section 39 income tax act 1967", "non deductible expenses malaysia", "disallowed expenses tax computation", "39(1)(j) withholding tax", "39(1)(r) labuan", "add back tax computation malaysia"]
+framework: rules
 ---
 
 多数加回明细表是靠习惯搭起来的。折旧、交际应酬、罚款、捐款——年年同样那六行，一路抄下去。第 39(1) 条实际上载有十八项现行禁令，而最花钱的那几项，不在任何人的习惯清单上。

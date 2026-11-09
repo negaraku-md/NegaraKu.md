@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-labour-ordinance" }
 related: ["labour-law-map-malaysia", "employment-act-coverage", "working-hours-overtime-malaysia", "minimum-wage-malaysia"]
 keywords: ["employment act 1955", "employment act malaysia", "act 265", "employment amendment act 2022", "malaysia labour law", "45 hour week malaysia"]
+framework: data-reference
 ---
 
 Mở bất kỳ blog nhân sự Malaysia nào và bạn vẫn sẽ thấy Employment Act được mô tả là một đạo luật cho người lao động lương thấp, với một mốc bao phủ RM2,000 và một tuần làm việc 48 giờ. Cả hai con số đều đã chết. Employment (Amendment) Act 2022 (Act A1651) đã viết lại Act 265 có hiệu lực từ ngày **1 tháng 1 năm 2023**, và bản in lại mà Attorney General's Chambers công bố nay có tiêu đề *tính đến ngày 1 tháng 1 năm 2023*. Tuy nhiên hầu hết các bình luận được xếp hạng cao vẫn là chu kỳ tin tức "có gì thay đổi năm 2023" — được viết một lần, không bao giờ xem lại.

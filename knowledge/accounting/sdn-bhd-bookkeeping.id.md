@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "e-invoice" }
 related: ["mbrs-2-filing-guide", "mbrs-tagging-errors", "form-c-and-cp204", "financial-year-end", "e-invoice", "mfrs-vs-mpers", "corporate-tax-rates"]
 keywords: ["pembukuan Sdn Bhd", "carta akaun Malaysia", "tutup bulanan Malaysia", "rekod perakaunan seksyen 245", "tambah balik pengiraan cukai", "daftar elaun modal", "pemetaan SSMxT carta akaun"]
+framework: how-to
 ---
 
 Kebanyakan nasihat pembukuan untuk Sdn Bhd berhenti sampai debit dan kredit.

@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "unesco-world-heritage" }
 related: ["wayang-kulit", "mak-yong", "unesco-world-heritage"]
 keywords: ["华人大戏", "酬神戏", "粤剧 马来西亚", "潮剧 马来西亚", "闽剧", "歌仔戏", "布袋戏", "潮州铁枝木偶", "槟城 中元节", "Chinese opera Malaysia", "Wayang Cina"]
+framework: history-culture
 ---
 
 징과 북이 울리고 무대 위에서는 수수(水袖, 긴 소맷자락)가 나부끼지만, 무대 아래 객석에는 흔히 몇 사람만이 앉아 있을 뿐 — 때로는 한 사람도 없습니다. 이는 공연의 실패가 아닙니다. 이 연극은 본래 사람에게 보이기 위한 것이 아니었기 때문입니다.

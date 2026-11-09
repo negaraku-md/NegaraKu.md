@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "tourism-malaysia" }
 related: ["tourism"]
 keywords: ["medical tourism Malaysia", "healthcare travel", "MHTC", "Malaysia Healthcare Travel Council", "JCI hospitals Malaysia", "IVF Malaysia", "cardiac care Malaysia"]
+framework: profile
 ---
 
 Sebuah keluarga Indonesia terbang ke Pulau Pinang untuk pembedahan pintasan jantung, sepasang suami isteri dari Teluk datang untuk IVF, dan seorang pesara dari Australia menempah pemeriksaan seluruh badan yang harganya tiga kali ganda di negara sendiri. Bersama-sama, mereka adalah sebahagian daripada industri senyap yang membawa lebih 1.6 juta orang ke Malaysia dalam satu tahun — bukan untuk melancong, tetapi untuk mendapatkan rawatan.

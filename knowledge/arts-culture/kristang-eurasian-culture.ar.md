@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "christmas-malaysia" }
 related: ["peranakan", "unesco-world-heritage", "christmas-malaysia"]
 keywords: ["الكريستانغ", "البابيا كريستانغ", "المستوطنة البرتغالية في ملقا", "الأوراسيون في ماليزيا", "الإنترودو", "البرانيو", "Kristang", "Papia Kristang", "Intrudu", "branyo"]
+framework: history-culture
 ---
 
 في أوجونغ باسير (Ujong Pasir) بملقا، توجد مستوطنة ساحلية يتبادل أهلها التحية بلغة ليست ملايوية، ولا إنجليزية، ولا حتى برتغالية حديثة — بل بقية حيّة من لسان الفاتحين الذين وصلوا قبل خمسة قرون. هذا هو عالم مجتمع الكريستانغ.

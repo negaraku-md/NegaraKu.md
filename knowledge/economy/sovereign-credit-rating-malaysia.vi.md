@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-government-debt-malaysia" }
 related: []
 keywords: ["Malaysia credit rating", "sovereign rating", "S&P Malaysia", "Moody's Malaysia", "Fitch Malaysia", "A3", "BBB+", "investment grade"]
+framework: explainer
 ---
 
 Khi bộ trưởng tài chính của Malaysia công khai hoan nghênh một lá thư từ một nhà phân tích ở New York, bạn biết rằng những gì được đặt cược không chỉ mang tính biểu tượng. Một bậc lên hay xuống trên một xếp hạng tín nhiệm quốc gia có thể làm dịch chuyển những gì chính phủ phải trả để vay, lan vào chi phí tài trợ doanh nghiệp, và kéo giật đồng ringgit. Ba hãng — S&P Global, Moody's và Fitch — giữ cây bút đó cho Malaysia.

@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "kabinet-perdana-menteri" }
 related: ["ekonomi-madani-framework", "konfrontasi", "miti", "matrade"]
 keywords: ["dasar luar Malaysia", "Wisma Putra", "Kementerian Luar Negeri", "ZOPFAN", "dasar berkecuali", "diplomasi Malaysia", "ASEAN", "Pelan Strategik 2026-2030", "non-alignment"]
+framework: explainer
 ---
 
 アメリカがマレーシア経済における最大の外国投資家であり、一方で中国が最大の貿易相手国であるとき、開放的な小国にはどちらかに肩入れする余裕はない。だからこそ、マレーシアの外交政策は何十年もの間、口にするのはたやすいが守るのは難しい一つの言葉——中立——に基づいてきた。その均衡を日々守る任務を担う省庁が、Wisma Putraである。

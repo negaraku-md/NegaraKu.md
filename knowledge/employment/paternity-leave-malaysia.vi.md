@@ -57,6 +57,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "maternity-leave-malaysia", "employment-act-coverage"]
 keywords: ["paternity leave malaysia", "section 60fa employment act", "7 days paternity leave", "paternity leave eligibility malaysia", "paternity leave five confinements"]
+framework: rules
 ---
 
 Nghỉ chăm con của người cha đi vào Employment Act 1955 vào ngày 1 tháng 1 năm 2023 như một mục ngắn

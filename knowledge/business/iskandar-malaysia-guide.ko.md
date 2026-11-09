@@ -121,6 +121,7 @@ keywords:
   - "Medini incentives expired"
   - "Iskandar vs JS-SEZ"
   - "Wilayah Pembangunan Iskandar"
+framework: explainer
 ---
 
 조호르(Johor)의 인센티브 역사에 대한 거의 모든 설명은 같은 것을 말합니다: JS-SEZ가 옛 이스칸다르 패키지를 대체했다고. 그럴듯하게 읽히지만 틀렸으며, 그 정정은 확인할 수 있을 만큼 정확합니다.

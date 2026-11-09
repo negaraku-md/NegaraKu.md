@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "straits-settlements" }
 related: ["melaka-sultanate", "portuguese-melaka-1511", "straits-settlements", "singapore-separation-1965"]
 keywords: ["Kesultanan Johor-Riau", "Kesultanan Johor", "Sultan Alauddin Riayat Shah II", "Sultan Mahmud Shah", "waris Kesultanan Melaka", "Johor Lama", "Dinasti Bendahara", "Riau-Lingga", "institusi diraja Melayu"]
+framework: history-culture
 ---
 
 1511年、ポルトガルの大砲が一つの都市を打ち崩した——しかし王位までは崩さなかった。マラッカの城塞が陥落したとき、末代マラッカ・スルタンであったスルタン・マームード・シャーは降伏しなかった。王族、重臣たち、そして何より、マラッカを一つの王国たらしめていた制度の全体を伴って、王は南へと退いた。都市は失われたが、王国は動いただけだった。

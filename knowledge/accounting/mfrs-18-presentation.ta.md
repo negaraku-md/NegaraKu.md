@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "mfrs-vs-mpers" }
 related: ["mfrs-vs-mpers"]
 keywords: ["MFRS 18 Malaysia", "MFRS 18 effective date", "operating profit subtotal MFRS 18", "management-defined performance measures", "MFRS 18 five categories", "MFRS 101 replaced"]
+framework: explainer
 ---
 
 MFRS 18 குறித்து இதுவரை எழுதப்பட்ட ஒவ்வொரு அறிவிப்பும் ஒரு முதலீட்டாளர்

@@ -108,6 +108,7 @@ relations:
   - { rel: "compares-with", to: "capital-allowances" }
 related: ["double-deduction-list", "capital-allowances", "section-33-deductibility", "tax-incentives-directory"]
 keywords: ["approved research allowance malaysia", "R&D दोहरी कटौती मलेशिया", "धारा 34A आयकर अधिनियम", "धारा 34B दोहरी कटौती", "R&D स्थिति MIDA", "Form 1 R&D LHDN"]
+framework: explainer
 ---
 
 approved research allowance के बारे में तीन सलाहकारों से पूछिए और आपको तीन उत्तर मिलेंगे, क्योंकि ऐसी कोई राहत है ही नहीं। Income Tax Act 1967 में कुछ भी इस वाक्यांश का उपयोग नहीं करता। जो मौजूद है वह है अलग-अलग अनुमोदन मार्गों और अलग-अलग समय-सीमाओं वाली तीन अलग कटौतियाँ, साथ ही MIDA द्वारा चलाया जाने वाला एक चौथा, पूर्णतः भिन्न तंत्र। इनका घालमेल ही वह तरीका है जिससे कोई कंपनी एक ऐसी दोहरी कटौती के साथ समाप्त होती है जिसका वह समर्थन नहीं कर सकती।

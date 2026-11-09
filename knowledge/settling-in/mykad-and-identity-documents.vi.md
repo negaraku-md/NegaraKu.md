@@ -82,6 +82,7 @@ keywords:
   - "kad pengenalan JPN warna"
   - "MyKid kanak-kanak"
   - "kad pengenalan warga asing Malaysia"
+framework: explainer
 ---
 
 Nhiều người nước ngoài đã ở Malaysia nhiều năm — kết hôn với người bản địa, nuôi con ở đây, giữ một Employment Pass được gia hạn nhiều năm — vẫn tự hỏi khi nào họ sẽ "có MyKad." Câu trả lời: sẽ không, không phải vì thời gian lưu trú, mà vì MyKad vốn không dành cho họ. JPN cấp một số thẻ khác nhau theo **tình trạng** của một người, và hầu hết người nước ngoài tại Malaysia không giữ bất kỳ thẻ nào trong số đó cho đến khi tình trạng đó thay đổi trước.

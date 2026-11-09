@@ -91,6 +91,7 @@ keywords:
   - "Malaysian students international school quota"
   - "Education Act 1996 international school"
   - "service tax international school Malaysia"
+framework: explainer
 ---
 
 Une école à programme britannique et une école à programme américain situées aux deux extrémités d'une même ville sont, sur le papier, agréées par exactement le même bureau à Putrajaya. Aucune des deux n'est légalement autorisée à facturer aux parents un « fonds de construction ». Aucune des deux ne peut augmenter ses frais de plus de 30% à la fois. Et aucune des deux n'est tenue de publier le moindre chiffre que le ministère fixerait lui-même — car, pour toutes les règles que le ministère rédige bel et bien, le prix réel d'une place n'en fait pas partie.

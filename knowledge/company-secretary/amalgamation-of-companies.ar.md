@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "members-voluntary-winding-up" }
 related: ["companies-act-2016", "ssm"]
 keywords: ["اندماج الشركات", "amalgamation", "خطة الترتيب", "scheme of arrangement", "المادة 366", "section 366", "section 370", "Companies Act 2016", "إعادة الهيكلة", "اندماج ماليزيا", "merger Malaysia", "SSM", "عتبة 75%", "75 percent threshold", "أمر النقل"]
+framework: explainer
 ---
 
 إذا توقّعت أن تندمج شركتان ماليزيتان بالطريقة التي يحدث بها ذلك في سنغافورة أو نيوزيلندا — يمرّر المجلس قراراً، فيبتلع كيان قانوني واحد الآخر بين عشية وضحاها — فستبحث عن حكم غير موجود. فقانون الشركات لسنة 2016 (Companies Act 2016) لا يتضمن اندماجاً قانونياً بالصيغة المختصرة. ولدمج شركتين أو أكثر هنا، عليك المرور بالمحكمة العليا (High Court).

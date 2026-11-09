@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "jpn" }
 related: ["jpn", "mykad"]
 keywords: ["daftar kematian Malaysia", "sijil kematian JPN", "borang JPN.LM02", "pendaftaran kematian JPN", "sijil kematian waris", "pusaka kecil JKPTG", "tempoh daftar kematian Malaysia"]
+framework: how-to
 ---
 
 在银行能够冻结死者户头之前，在公积金局（EPF）能够发放存款之前，也在任何一位

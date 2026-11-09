@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "dta-network" }
 related: ["company-tax-residence", "dta-network", "withholding-tax-rates"]
 keywords: ["certificate of residence Malaysia", "e-Residence LHDN", "sijil taraf mastautin", "COR Malaysia tax", "Form STM1"]
+framework: how-to
 ---
 
 증명서는 당신이 말레이시아 사람이라는 증거가 아닙니다. 특정 조약 상대국이 당신을 특정 조약에 들여보내야 한다는 증거입니다. LHDN은 자체 페이지에서 그렇게 밝힙니다. 증명서는 이중과세방지협정에 따른 혜택을 청구하고 동일 소득에 대한 이중과세를 피하기 위해 발급되며, 따라서 **오직** 그 목적으로, 그리고 말레이시아의 조약 상대국에 대해서만 발급됩니다. 그 한 문장이 대부분의 거부를 설명합니다.

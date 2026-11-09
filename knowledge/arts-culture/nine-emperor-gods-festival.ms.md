@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "chinese-religion-in-malaysia" }
 related: ["chinese-religion-in-malaysia", "buddhism-in-malaysia", "hungry-ghost-festival", "religion-statistics"]
 keywords: ["九皇爷诞", "九皇大帝", "九皇胜会", "斗母元君", "食斋", "斋戒", "请水", "送驾", "过火", "安邦南天宫", "香港巷斗母宫", "Nine Emperor Gods Festival", "Kaw Ong Ya"]
+framework: history-culture
 ---
 
 Pada malam sebelum hari pertama bulan sembilan kalendar lunar, sebaris penganut berpakaian putih dengan ikat pinggang kuning keluar beratur dari tokong, sambil memegang colok, menuju ke tepi sungai atau pantai yang terdekat. Gong dan gendang di hadapan, asap colok di belakang — mereka pergi untuk "menjemput air" dan "menyambut dewa", mengiringi Sembilan Maharaja Dewa pulang ke tokong. Sepanjang sembilan hari berikutnya, colok tidak putus-putus di dalam tokong, dan bau makanan vegetarian berbau harum di luar; pada malam hari kesembilan, barisan yang sama akan beratur semula ke tepi air untuk menghantar pulang dewa.

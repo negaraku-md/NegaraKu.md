@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "indian-classical-arts-in-malaysia", "thaipusam", "estate-tamil-community", "temple-music-nadaswaram"]
 keywords: ["சிலம்பம்", "Silambam", "மலேசியா சிலம்பம்", "தமிழ் தற்காப்புக் கலை", "நீண்ட தடி", "அடவுகள்", "குத்து வரிசை", "Silambam Malaysia"]
+framework: history-culture
 ---
 
 En una festividad de un templo o en una celebración del Año Nuevo tamil en Malasia, puede que vea a un joven hacer girar un largo bastón de bambú por encima de la cabeza y alrededor del cuerpo a una velocidad de vértigo, al compás de los tambores. Ese giro no es solo por vistosidad — es el emblema del silambam, un arte marcial tamil con más de mil quinientos años de antigüedad.

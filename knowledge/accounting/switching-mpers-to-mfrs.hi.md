@@ -81,6 +81,7 @@ relations:
   - { rel: "affects", to: "mpers-2025-revision" }
 related: ["mfrs-vs-mpers"]
 keywords: ["MPERS से MFRS में परिवर्तन", "MFRS 1 पहली-बार-अपनाना मलेशिया", "निजी-कंपनी परिभाषा MASB", "मलेशिया में लेखांकन ढाँचा बदलना", "वापस MPERS पर"]
+framework: explainer
 ---
 
 हर मलेशियाई फ़र्म का ब्लॉग MPERS और MFRS के बीच का *अंतर* समझाता है। लगभग कोई भी वह बात

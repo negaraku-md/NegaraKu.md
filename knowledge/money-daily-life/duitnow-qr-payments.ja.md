@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "payment-regulation-malaysia" }
 related: ["bank-negara-malaysia", "payment-regulation-malaysia"]
 keywords: ["DuitNow", "DuitNow QR", "PayNet", "pembayaran segera Malaysia", "kod QR Malaysia", "pindahan wang guna nombor telefon", "Bank Negara Malaysia pembayaran digital"]
+framework: explainer
 ---
 
 ある夜市の屋台の店主は、QRコードを 1 つだけ掲示しています。Maybank のアプリを使う客がそれを読み取ります。次の客は Touch 'n Go eWallet を使い、**同じ** QRコードを読み取ります。どちらの支払いも数秒で店主の口座に届きます。銀行や電子ウォレットごとに別々の QRコードを用意する必要はありません——これが、DuitNow QR が舞台裏で静かに機能している仕組みです。

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "foreign-company-branch-malaysia" }
 related: ["mida"]
 keywords: ["representative office malaysia", "regional office malaysia", "MIDA RE RO", "foreign company presence malaysia", "market entry malaysia", "non-trading office"]
+framework: explainer
 ---
 
 Perusahaan asing yang menginginkan staf bertapak di Malaysia — untuk menilai pasar, menjalankan penelitian produk, atau mengoordinasikan afiliasi regionalnya — tidak perlu mendirikan perusahaan dagang yang dikenakan pajak untuk melakukannya. Malaysia menawarkan status non-perdagangan yang dibangun khusus untuk tujuan ini: Kantor Perwakilan (RE) atau Kantor Regional (RO), yang disetujui oleh Badan Pembangunan Investasi Malaysia (MIDA).

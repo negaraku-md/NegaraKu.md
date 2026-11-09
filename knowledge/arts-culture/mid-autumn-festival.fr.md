@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-new-year", "population-composition", "religion-statistics", "hungry-ghost-festival"]
 keywords: ["中秋节", "月饼节", "灯笼节", "月饼", "冰皮月饼", "灯笼", "嫦娥奔月", "赏月", "柚子", "团圆", "农历八月十五", "马来西亚华人", "Mid-Autumn Festival Malaysia", "Mooncake Festival"]
+framework: history-culture
 ---
 
 À la tombée de la nuit du quinzième jour du huitième mois lunaire, l'atrium du centre commercial se couvre de lanternes rouges rougeoyantes, et dans le parc du quartier résidentiel, les enfants, par deux ou trois, vont et viennent en portant des lanternes allumées. Sur la table de la maison, une boîte de gâteaux de lune découpés en petits morceaux côtoie une théière de thé chaud, un pomélo épluché posé à côté. La famille sort des chaises devant la maison et lève les yeux vers la lune la plus ronde de l'année : voilà une soirée de mi-automne typique dans un foyer chinois de Malaisie.

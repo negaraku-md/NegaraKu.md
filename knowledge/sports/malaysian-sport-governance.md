@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "malaysia-olympic-history" }
 related: []
 keywords: ["tadbir urus sukan Malaysia", "Majlis Sukan Negara", "Pesuruhjaya Sukan", "Akta Pembangunan Sukan 1997", "Majlis Olimpik Malaysia", "Kementerian Belia dan Sukan", "Institut Sukan Negara"]
+framework: explainer
 ---
 
 Sebuah kelab bola sepak baharu di Johor boleh membeli jersi, menyewa padang dan mendaftarkan pemain — tetapi ia masih tidak boleh secara sah menghantar sesiapa mewakili "Malaysia" ke mana-mana pertandingan. Sebabnya bukan wang atau bakat. Ia soal siapa yang memberi kebenaran. Di Malaysia, hak untuk wujud sebagai badan sukan, hak untuk dibiayai, dan hak untuk memakai nama negara datang daripada empat institusi berlainan yang sering dikelirukan sebagai satu.

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["sst-explained", "sst-registration"]
 keywords: ["tourism tax", "TTx", "Tourism Tax Act 2017", "RM10 per room", "MyTTx", "RMCD", "Agoda tax", "hotel tax Malaysia"]
+framework: explainer
 ---
 
 Check out dari sebuah hotel di Malaysia dan Anda mungkin memperhatikan satu baris kecil bertarif tetap pada tagihan yang tidak berkaitan dengan tarif kamar: RM10, sekali per malam, per kamar. Itulah Pajak Pariwisata — dan apakah Anda perlu membayarnya bergantung pada satu pertanyaan yang tidak dapat dibebaskan oleh meja penerima tamu: paspor mana yang Anda pegang?

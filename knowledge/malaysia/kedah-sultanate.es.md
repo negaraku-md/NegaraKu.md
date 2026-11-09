@@ -62,6 +62,7 @@ social:
 verificationNeeded:
   - "La fecha de fundación tradicional de 1136 d. C. y la conversión de Phra Ong Mahawangsa en el Sultán Mudzaffar Shah I proceden de los Anales de Kedah (Hikayat Merong Mahawangsa) y del At-Tarikh Salasilah Negeri Kedah; los historiadores consideran improbable la fecha temprana, y Richard Winstedt, citando un relato acehnés, fija la conversión en 1474."
   - "La frecuente descripción de Kedah como «el sultanato malayo más antiguo» es una caracterización tradicional/popular y no está confirmada de forma independiente por las fuentes citadas aquí."
+framework: history-culture
 ---
 
 Pocos lugares de Malasia llevan su pasado tan a la vista como Kedah. Mucho antes de que los alminares se alzaran sobre Alor Setar, la llanura verde de arrozales entre los ríos Merbok y Muda era un punto de arribada para los comerciantes que surcaban los vientos monzónicos entre la India, China y el mundo malayo. Marineros y eruditos conocían esta costa como Kadaram o Kataha; los arqueólogos la conocen hoy por los montículos de templos del valle de Bujang. De aquel comienzo cosmopolita e hindú-budista surgió una monarquía malaya que resistiría a Srivijaya y Chola, a Ayutthaya y Bangkok, y finalmente al Imperio británico.

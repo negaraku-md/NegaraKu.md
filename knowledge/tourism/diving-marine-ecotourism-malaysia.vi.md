@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "sabah-travel-guide" }
 related: []
 keywords: ["Sipadan diving permit", "Malaysia marine park fees", "Sabah Parks", "Department of Fisheries marine park", "scuba diving Malaysia", "marine ecotourism"]
+framework: rules
 ---
 
 Vùng nước trong nhất Malaysia cũng là nơi khó đến nhất: để thả mình xuống bức tường của Sipadan bạn cần một giấy phép của chính phủ mà không số tiền nào cho phép bạn mua trực tiếp. Một dữ kiện đơn lẻ đó nắm bắt cách đất nước vận hành du lịch lặn biển của mình — việc tiếp cận được phân phối hạn chế, định giá, và chia giữa hai cơ quan rất khác nhau tùy thuộc vào vùng biển nào bạn muốn lặn xuống.

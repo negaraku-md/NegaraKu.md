@@ -128,6 +128,7 @@ relations:
   - { rel: "compares-with", to: "malaysia-singapore-relations" }
 related: ["malaysia-singapore-relations"]
 keywords: ["hubungan Malaysia Indonesia", "serumpun", "pekerja migran Indonesia", "One Channel System", "Pulau Sebatik", "Ambalat", "Sipadan Ligitan", "sempadan Malaysia Indonesia", "Perundingan Tahunan"]
+framework: explainer
 ---
 
 この二つの国は、同じ言語、同じ宗教、そして同じ出自を分かち合っている——だが同時に、ボルネオ島で最も長い陸上国境、スラウェシ海の海底に眠る油田、そして生計を求めて国境を越える数百万人の労働者をも分かち合っている。マレーシア・インドネシア関係は単なる通常の外交関係ではない。それは複雑な家族関係であり、その近さ自体が協力の源であると同時に緊張の源でもある。

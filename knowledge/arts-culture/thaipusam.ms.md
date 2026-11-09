@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["selangor", "penang", "religion-statistics", "article-3-religion"]
 keywords: ["Thaipusam Malaysia", "Batu Caves Thaipusam", "kavadi", "silver chariot procession", "Lord Murugan", "272 steps", "paal kudam", "Waterfall Hilltop Temple Penang", "Thaipusam public holiday"]
+framework: history-culture
 ---
 
 Sebelum subuh, sebuah bukit batu kapur di pinggir utara Kuala Lumpur dipenuhi bunyi — gendang, nyanyian, hentakan beratus ribu kaki ayam di atas batu. Di kaki tangga bertingkat 272, berdiri sebuah patung emas yang lebih tinggi daripada bangunan empat belas tingkat. Pendakian bermula, dan ia tidak akan berhenti hampir sepanjang hari.

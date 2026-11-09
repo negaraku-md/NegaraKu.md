@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-state-division" }
 related: ["rulers-and-governors", "state-assemblies-dun", "kabinet-perdana-menteri", "three-tiers-of-government", "federal-state-division", "sabah-sarawak-safeguards"]
 keywords: ["state government Malaysia", "Menteri Besar", "Chief Minister Malaysia", "State Executive Council", "EXCO", "Dewan Undangan Negeri", "state assembly Malaysia", "Yang di-Pertua Negeri", "Eighth Schedule", "Ninth Schedule", "State List", "Federal Constitution Malaysia"]
+framework: explainer
 ---
 
 Istana Negara-வை அகற்றிவிடுங்கள், பிரதமர் (Prime Minister) என்ற பெயரை மாற்றுங்கள், பாராளுமன்றத்தை (Parliament) ஒரே அவைக்குச் சுருக்குங்கள் — அப்போது நீங்கள் பார்ப்பது ஒரு மலேசிய மாநில அரசைத்தான். மொத்தமுள்ள 13 மாநிலங்களும் கூட்டரசு அமைப்பின் (federal system) ஒரு சிறிதாக்கப்பட்ட நகலின் அடிப்படையில் இயங்குகின்றன: ஆட்சி செய்யாமல் முடிசூடியிருக்கும் ஒரு மாநிலத் தலைவர் (head of state), பெரும்பான்மையைக் கட்டளையிடும் திறன் காரணமாகத் தேர்ந்தெடுக்கப்படும் ஒரு அரசுத் தலைவர் (head of government), தேர்ந்தெடுக்கப்பட்ட உறுப்பினர்களுக்குக் கூட்டாகப் பதிலளிக்கும் ஒரு நிர்வாகக் குழு, மற்றும் கலைக்கப்பட்டு வாக்காளர்களிடம் மீண்டும் அனுப்பப்படக்கூடிய ஒரு சட்டமன்றம். பட்டப்பெயர்கள் மாநிலத்துக்கு மாநிலம் மாறுகின்றன. வரைபடம் மாறுவதில்லை.

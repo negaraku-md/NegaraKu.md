@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["tax-incentives-directory", "personal-tax-reliefs", "new-incentive-framework"]
 keywords: ["incentivo fiscal ángel malasia", "exención fiscal inversor ángel", "angel tax incentive malaysia", "pu a 167 2014", "acreditación MBAN", "desgravación fiscal inversor startup malasia"]
+framework: rules
 ---
 
 Cada presentación de startup que menciona el incentivo fiscal para inversores ángeles afirma que se extiende hasta 2026. El boletín oficial dice lo contrario. El instrumento vigente es la Income Tax (Exemption) (No. 3) Order 2014, P.U.(A) 167/2014, dictada al amparo del art. 127(3)(b) de la Income Tax Act 1967 y considerada en vigor desde el 1 de enero de 2013. Su párrafo 5(a)(ii) exige que el inversor haya presentado la solicitud al Ministro **a más tardar en una fecha fija**, y esa fecha se ha movido exactamente dos veces.

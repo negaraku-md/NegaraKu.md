@@ -90,6 +90,7 @@ keywords:
   - "Malaysian students international school quota"
   - "Education Act 1996 international school"
   - "service tax international school Malaysia"
+framework: explainer
 ---
 
 A British curriculum school and an American curriculum school on opposite sides of the same town are, on paper, licensed by the exact same office in Putrajaya. Neither one is legally allowed to charge parents a "building fund." Neither one can raise fees by more than 30% at a time. And neither one is required to publish a single figure the Ministry itself sets — because for all the rules the Ministry does write, the actual price of a seat is not one of them.

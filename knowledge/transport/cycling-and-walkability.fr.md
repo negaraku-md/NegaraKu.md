@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "e-hailing-grab" }
 related: []
 keywords: ["marchabilité Malaisie", "vélo villes Malaisie", "infrastructures piétonnes Malaisie", "Plan directeur piétons et cyclistes KL", "dépendance à la voiture Malaisie", "mobilité active Malaisie"]
+framework: explainer
 ---
 
 Sortez d'une station de LRT de la vallée de Klang à 13 h et essayez de

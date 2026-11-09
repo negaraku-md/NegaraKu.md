@@ -134,6 +134,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["stamp-duty-share-transfer", "register-of-members", "share-allotment", "share-transmission", "capital-gains-tax", "beneficial-ownership"]
 keywords: ["share transfer Malaysia", "transfer shares Sdn Bhd", "Form 32A share transfer", "section 106 Companies Act 2016", "share transfer stamp duty 30 days"]
+framework: how-to
 ---
 
 Sdn Bhd의 주식 양도는 두 가지 방식 중 하나로 실패합니다. 누군가가 서류를 잘못된 순서로

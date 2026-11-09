@@ -84,6 +84,7 @@ keywords:
   - "Malaysia student pass application"
   - "public vs private university Malaysia"
   - "MOHE approved institution Malaysia"
+framework: explainer
 ---
 
 Một thư mời từ loại cơ sở sai là vô giá trị đối với một thị thực, ngay cả khi bản thân chương trình được kiểm định hoàn hảo. Sự phân biệt đó — chương trình được kiểm định so với cơ sở được phê duyệt cho sinh viên quốc tế — là nơi hầu hết sự bối rối bắt đầu, từ rất lâu trước khi ai đó điền một mẫu EMGS.

@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "contract-law" }
 related: []
 keywords: ["arbitration", "AIAC", "Arbitration Act 2005", "mediation", "dispute resolution", "New York Convention", "third-party funding", "UNCITRAL"]
+framework: explainer
 ---
 
 二つの企業が供給契約を締結し、一方が納入を遅延させ、もう一方が数百万規模の損害賠償を求める——しかしどちらも、案件の記録やタイムライン、営業秘密が公開法廷で明らかになることを望まない。マレーシアでは、まさにそこで仲裁と調停が裁判所に代わって役割を引き継ぐ。

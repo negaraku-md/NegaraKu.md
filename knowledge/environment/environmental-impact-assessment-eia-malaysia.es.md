@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "prescribed-activities-eia-order-2015" }
 related: ["environmental-quality-act-1974"]
 keywords: ["EIA Malaysia", "environmental impact assessment", "prescribed activities", "Section 34A", "Order 2015", "Department of Environment", "First Schedule", "Second Schedule", "public display", "evaluación de impacto ambiental", "actividades prescritas", "sección 34A"]
+framework: rules
 ---
 
 Inicie las obras del tipo de proyecto equivocado sin luz verde, y no solo se enfrenta a una multa — puede verse obligado a detenerse mientras su capital queda inactivo. En Malasia, una lista definida de «actividades prescritas» no puede comenzar legalmente hasta que un informe de Evaluación de Impacto Ambiental (EIA) se haya presentado al Director General de Medio Ambiente, y este lo haya aprobado. Para promotores e inversores, la EIA no es un trámite al final de la planificación; es una puerta al inicio.

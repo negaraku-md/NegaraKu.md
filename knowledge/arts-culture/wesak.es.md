@@ -63,6 +63,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["religion-statistics", "article-3-religion", "kuala-lumpur"]
 keywords: ["Wesak Day Malaysia", "Vesak Day Malaysia", "Hari Wesak 2026", "Wesak Day date Malaysia", "Buddhist public holiday Malaysia", "Wesak procession Kuala Lumpur", "Buddha's birthday Malaysia", "Día de Wesak Malasia"]
+framework: history-culture
 ---
 
 Pregunta cuándo cae el Día de Wesak y no hay una respuesta fija: se mueve. En 2026 recae el 31 de mayo, en 2027 el 20 de mayo y en 2028 el 9 de mayo. La razón es sencilla: Wesak lo fija la luna, no una fecha del calendario, y el calendario lunar y el gregoriano se desplazan uno respecto al otro cada año.

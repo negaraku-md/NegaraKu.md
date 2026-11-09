@@ -84,6 +84,7 @@ relations:
 related: ["batik", "wayang-kulit", "kelantan"]
 entity: "Wau"
 keywords: ["wau", "wau bulan", "layang-layang tradisional", "kraf Kelantan", "Adiguru Kraf wau"]
+framework: history-culture
 ---
 
 Before you see a wau, you hear it. A properly made traditional wau hums the whole time it is in the air — not the sound of the wind, but a note deliberately built into its construction.

@@ -64,6 +64,7 @@ relations:
   - { rel: "part-of", to: "settling-in" }
 related: ["moving-to-malaysia-first-steps", "dependant-social-visit-passes"]
 keywords: ["bringing pets to Malaysia", "MAQIS import permit", "DVS pet import rules", "dog cat quarantine Malaysia", "restricted dog breeds Malaysia", "ISO microchip pet import"]
+framework: how-to
 ---
 
 Chuyến bay của bạn đã đặt, các thùng đồ đã đóng gói, và rồi bạn chợt nhận ra: còn con chó thì sao. Tại Malaysia, một con thú cưng không chỉ đi cùng trong khoang hàng — nó cần một giấy phép được phê duyệt trước khi nó rời mặt đất, một chip vi mạch đáp ứng một tiêu chuẩn ISO cụ thể, và rất có thể một tuần hoặc hơn trong cách ly trước khi bạn nhận lại nó.

@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "dta-network" }
 related: ["dta-network", "company-tax-residence", "transfer-pricing-documentation", "withholding-tax-rates"]
 keywords: ["permanent establishment Malaysia", "section 12(3) Income Tax Act", "place of business Malaysia tax", "remote employee permanent establishment Malaysia", "dependent agent PE Malaysia"]
+framework: explainer
 ---
 
 มาเลเซียเขียนกฎสถานประกอบการถาวรของตนไว้สองครั้ง และทั้งสองฉบับไม่ตรงกัน ฉบับกฎหมายภายในประเทศใน s.12(4) แห่งพระราชบัญญัติภาษีเงินได้ (Income Tax Act 1967) เป็นรายการ — สถานที่บริหารจัดการ สาขา สำนักงาน โรงงาน โรงประกอบการ คลังสินค้า สถานที่ก่อสร้าง ฟาร์ม เหมืองแร่ — โดยไม่มีระยะเวลาขั้นต่ำและไม่มีข้อยกเว้นสำหรับการเก็บสินค้า การจัดซื้อ หรือการรวบรวมข้อมูล ฉบับอนุสัญญาใน Article 5 ของความตกลงส่วนใหญ่เป็นรายการเดียวกันบวกเกณฑ์หกเดือนสำหรับการก่อสร้างและข้อยกเว้นสำหรับกิจกรรมเตรียมการหรือสนับสนุน

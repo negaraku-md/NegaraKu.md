@@ -87,6 +87,7 @@ relations:
   - { rel: "explained-in", to: "national-heritage-act-2005" }
 related: ["teh-tarik"]
 keywords: ["nasi lemak", "roti canai", "char kuey teow", "laksa", "asam laksa", "hidangan kebangsaan Malaysia", "makanan warisan", "UNESCO warisan tidak ketara", "makanan Malaysia"]
+framework: explainer
 ---
 
 マレーシア人10人に国の「国民食」を挙げてもらえば、質問を言い終わらないうちに9人がナシ・レマクと答えるだろう。しかし本当の答えはもっと興味深い——マレーシアはこれまで一度も、法的に単一の料理を国民食と宣言したことがない。その代わりにこの国は、いくつかの料理を持ち、それらが集合的にこの国のアイデンティティを世界の舞台へと運んでいる。

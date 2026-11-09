@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: ["federal-constitution", "melaka-sultanate", "independence-1957"]
 keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Kebangsaan 1963/67", "tulisan Jawi Rumi", "Ejaan Rumi Baharu 1972"]
+framework: explainer
 ---
 
 In Kuala Berang, Terengganu, a stone inscription was found bearing Malay words — not in the letters we know today, but in Arabic script adapted for Malay sounds. According to Arkib Negara Malaysia (the National Archives of Malaysia), the inscription is dated 1303 CE.

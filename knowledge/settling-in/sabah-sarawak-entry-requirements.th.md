@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "mykad-guide" }
 related: ["immigration-act-1959-63"]
 keywords: ["masuk sabah", "masuk sarawak", "imigresen sabah sarawak", "dokumen perjalanan terhad", "pas lawatan sosial", "MA63 imigresen"]
+framework: rules
 ---
 
 บินจากกัวลาลัมเปอร์ (Kuala Lumpur) ไปกูชิง (Kuching) และทันทีที่คุณลงจอด ก็มีเคาน์เตอร์ตรวจคนเข้าเมืองรออยู่ — ภายในประเทศของตัวเอง สำหรับพลเมืองคาบสมุทรจำนวนมาก นี่เป็นครั้งแรกที่พวกเขาแสดงบัตรประจำตัวต่อเจ้าหน้าที่ตรวจคนเข้าเมืองโดยไม่เคยข้ามพรมแดนระหว่างประเทศ นี่ไม่ใช่ความผิดพลาดทางปกครอง ซาบาห์และซาราวักควบคุมการตรวจคนเข้าเมืองของตนเอง และกฎนั้นใช้กับทุกคน รวมถึงพลเมืองมาเลเซีย

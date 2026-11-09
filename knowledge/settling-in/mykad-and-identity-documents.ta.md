@@ -81,6 +81,7 @@ keywords:
   - "kad pengenalan JPN warna"
   - "MyKid kanak-kanak"
   - "kad pengenalan warga asing Malaysia"
+framework: explainer
 ---
 
 மலேசியாவில் பல ஆண்டுகளாக வாழ்ந்து வரும் — உள்ளூர்வாசி ஒருவரை மணந்து,

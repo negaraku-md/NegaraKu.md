@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "healthcare-for-seniors" }
 related: ["klinik-kesihatan", "healthcare-for-seniors"]
 keywords: ["PeKa B40", "skim kesihatan B40", "mySalam", "Sumbangan Tunai Rahmah kesihatan", "bantuan kesihatan B40 Malaysia", "ProtectHealth", "skim peduli kesihatan", "insentif rawatan kanser B40", "semakan kelayakan PeKa B40"]
+framework: explainer
 ---
 
 หลายคนได้ยินชื่อ "PeKa B40" แต่เข้าใจแตกต่างกันไป — บางคนคิดว่ามันครอบคลุมค่าใช้จ่ายโรงพยาบาลทั้งหมด บางคนสับสนกับ mySalam และบางคนละเลยไปเพราะคิดว่าต้องยื่นขอแยกต่างหาก การเข้าใจทั้งสามข้อนั้นไม่ถูกต้อง PeKa B40 มีขอบเขตที่ชัดเจนและจำกัด — และการรู้ขอบเขตของมันหมายถึงการรู้ว่าเมื่อใดควรใช้ และเมื่อใดต้องหาความช่วยเหลืออื่น

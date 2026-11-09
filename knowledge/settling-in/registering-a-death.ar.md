@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "jpn" }
 related: ["jpn", "mykad"]
 keywords: ["تسجيل الوفاة ماليزيا", "daftar kematian Malaysia", "شهادة الوفاة JPN", "sijil kematian JPN", "استمارة JPN.LM02", "borang JPN.LM02", "pendaftaran kematian JPN", "shahadat alwafah warith", "التركة الصغيرة JKPTG", "pusaka kecil JKPTG", "مهلة تسجيل الوفاة ماليزيا", "tempoh daftar kematian Malaysia"]
+framework: how-to
 ---
 
 قبل أن يتمكن أي بنك من تجميد حساب شخص متوفى، وقبل أن يتمكن صندوق ادخار الموظفين (EPF / KWSP) من

@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "sst-explained" }
 related: ["fnb-licence-malaysia"]
 keywords: ["start a restaurant malaysia", "how to open a restaurant malaysia", "F&B licence malaysia", "restaurant licence DBKL", "food handler certificate malaysia", "restaurant service tax malaysia", "open a cafe malaysia"]
+framework: how-to
 ---
 
 Membuka restoran adalah salah satu cara paling populer untuk memulai usaha di Malaysia — dan salah satu yang paling banyak memerlukan lisensi. Antara otoritas lokal, Kementerian Kesehatan, kantor pajak, dan otoritas ketenagakerjaan, sebuah usaha makanan menyentuh lebih banyak regulator daripada hampir usaha kecil lain mana pun. Kabar baiknya, urutannya sudah lazim; lakukan dalam urutan yang benar dan ia dapat dikelola.

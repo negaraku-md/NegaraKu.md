@@ -119,6 +119,7 @@ keywords:
   - "lesen perniagaan online"
   - "regulaciones de comercio electrónico Malasia 2024"
   - "requisitos legales vendedor en línea Malasia"
+framework: rules
 ---
 
 No existe tal cosa como una licencia de comercio electrónico en Malasia. Ninguna ley crea una, ninguna

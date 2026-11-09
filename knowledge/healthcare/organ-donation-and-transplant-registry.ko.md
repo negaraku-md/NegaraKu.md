@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "how-malaysian-healthcare-works" }
 related: ["how-malaysian-healthcare-works", "government-hospitals"]
 keywords: ["pendermaan organ", "derma organ", "transplan", "NTRC", "ikrar penderma", "fatwa organ", "kematian otak", "MySejahtera"]
+framework: explainer
 ---
 
 해마다 말레이시아의 수천 명 환자가 결코 오지 않을지도 모르는 한 통의 전화를 기다립니다 — 그들의 생명을 구할 장기가 마침내 마련되었다는 전화입니다. 그 긴 대기자 명단 뒤에는 하나의 역설이 있습니다. 수십만 명이 장기 기증을 서약했지만, 그 서약 중 실제로 이행되는 것은 극소수에 불과합니다.

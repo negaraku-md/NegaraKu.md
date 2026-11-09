@@ -107,6 +107,7 @@ keywords:
   - "MBPJ lesen komposit"
   - "MBSA lesen komposit"
   - "DBKK lesen berniaga"
+framework: rules
 ---
 
 귀하의 사업장 영업 허가는 아무런 이유 없이 내일 당장 취소될 수 있으며, 지방의회는 어떠한

@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "consumer-rights-and-tribunal" }
 related: ["opening-bank-account", "duitnow-qr-payments", "consumer-rights-and-tribunal"]
 keywords: ["999 número de emergencia Malasia", "997 línea NSRC", "Centro Nacional de Respuesta a Estafas", "estafa de Macao Malasia", "999 Malaysia emergency number", "997 NSRC hotline", "National Scam Response Centre", "Macau scam Malaysia", "Semak Mule CCID", "Cyber999 MyCERT", "how to report a scam Malaysia", "phone scam Malaysia", "APK scam parcel"]
+framework: explainer
 ---
 
 L'appelant connaît déjà votre nom et votre numéro de MyKad. Il dit être de la

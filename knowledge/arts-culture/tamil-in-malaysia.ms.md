@@ -88,6 +88,7 @@ relations:
   - { rel: "compares-with", to: "bahasa-melayu" }
 related: ["population-composition", "article-152-language", "bahasa-melayu", "languages-spoken", "federal-constitution"]
 keywords: ["Tamil in Malaysia", "SJKT", "Sekolah Jenis Kebangsaan Tamil", "Tamil schools Malaysia", "Malaysian Indians", "Article 152", "Tamil medium instruction", "vernacular schools"]
+framework: explainer
 ---
 
 Di ladang-ladang getah lama Malaya, sebahagian daripada bilik darjah paling awal adalah bangsal dan pondok, dan pengajarannya dalam bahasa Tamil. Menurut satu kajian sejarah yang diterbitkan dalam jurnal Persatuan Sejarah Malaysia, pendidikan rendah asas dalam bahasa Tamil ditawarkan di ladang-ladang sejak awal abad kedua puluh, diperuntukkan di bawah kanun buruh pada masa itu dan, untuk tempoh yang lama, diajar oleh kerani dan pekerja sambilan dan bukannya guru terlatih.

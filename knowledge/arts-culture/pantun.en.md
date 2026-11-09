@@ -74,6 +74,7 @@ social:
 verificationNeeded:
   - "The exact date of the origin of the art of the pantun cannot be ascertained; the strongest scholarly view associates it with around the 15th century, that is, before the Sejarah Melayu (~1612). This figure is still debated and is not a definitive date."
   - "The maximum length of a long multi-stanza pantun differs between sources (some state up to 16 lines, others up to around 22 lines); the exact number is not uniform."
+framework: history-culture
 ---
 
 > Pisang emas dibawa belayar,

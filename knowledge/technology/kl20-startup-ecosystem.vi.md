@@ -91,6 +91,7 @@ relations:
   - { rel: "part-of", to: "mydigital-blueprint" }
 related: ["malaysia-startup-ecosystem", "cradle-cip-grant", "malaysia-digital-economy-in-numbers", "mydigital-blueprint"]
 keywords: ["KL20", "KL20 Summit 2024", "KL20 Action Paper", "Malaysia startup ecosystem", "top 20 global startup hub", "Golden Pass", "pelan tindakan KL20", "Cradle Fund startup"]
+framework: explainer
 ---
 
 Vào tháng 4 năm 2024, Malaysia ngừng nói về các startup của mình bằng ngôn ngữ của hy vọng và bắt đầu nói bằng ngôn ngữ của thứ hạng. Lời chào mời thẳng thắn: đưa Kuala Lumpur vào top 20 hệ sinh thái khởi nghiệp của thế giới vào năm 2030, hoặc thừa nhận rằng đất nước đã và đang đủng đỉnh.

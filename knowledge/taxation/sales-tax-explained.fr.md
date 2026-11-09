@@ -106,6 +106,7 @@ relations:
   - { rel: "compares-with", to: "sst-expansion-2025" }
 related: ["sst-explained", "sst-registration", "sst-02-filing", "sst-rate-table"]
 keywords: ["sales tax Malaysia", "sales tax rate 2025", "Schedule C exemption", "CJ5 CJ5A", "sales tax deduction facility", "manufacturer sales tax"]
+framework: explainer
 ---
 
 Si votre consultant vous a dit de déposer un CJ5 pour acheter des matières premières en franchise de taxe, il cite un formulaire qui a été aboli en 2018. CJ5, CJ5A et CJ5B étaient des certificats au titre de la Sales Tax Act 1972. Au titre de la Sales Tax Act 2018, la facilité équivalente est le **Schedule C** de la Sales Tax (Persons Exempted from Payment of Tax) Order 2018, et la FAQ même du RMCD le dit en ces termes.

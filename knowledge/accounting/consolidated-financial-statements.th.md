@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "mbrs-xbrl-filing" }
 related: ["companies-act-2016"]
 keywords: ["MFRS 10", "consolidated financial statements", "control", "subsidiary", "holding company", "Companies Act 2016", "MBRS", "group accounts", "Malaysia"]
+framework: explainer
 ---
 
 ซื้อหุ้นในสัดส่วนที่มีอำนาจควบคุมของอีกบริษัทหนึ่ง แล้วท่านไม่ได้เพียงเพิ่มรายการหนึ่งลงในงบดุลของท่าน แต่ได้สร้างกลุ่มบริษัทที่กฎการบัญชีของมาเลเซียยืนกรานให้ปฏิบัติในฐานะกิจการหนึ่งเดียว นั่นคือแรงที่เงียบงันเบื้องหลัง MFRS 10 *งบการเงินรวม* คือทันทีที่บริษัทหนึ่งควบคุมอีกบริษัทหนึ่ง ทั้งสองต้องรายงานต่อโลกภายนอกในฐานะหนึ่งเดียว

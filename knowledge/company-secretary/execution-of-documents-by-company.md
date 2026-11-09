@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "company-contracts-section-64" }
 related: ["companies-act-2016"]
 keywords: ["penyempurnaan dokumen", "cop mohor", "common seal", "seksyen 66", "surat ikatan", "deed", "pegawai diberi kuasa", "Akta Syarikat 2016", "tandatangan syarikat"]
+framework: explainer
 ---
 
 Sebelum Akta Syarikat 2016 mula berkuat kuasa pada 31 Januari 2017, cop mohor merupakan cara lazim sebuah syarikat menyempurnakan dokumen penting di Malaysia. Hari ini, cop mohor itu boleh langsung tidak wujud — dan syarikat tetap boleh menandatangani kontrak, pinjaman, dan surat ikatan dengan sah. Perubahan ini datang daripada Akta Syarikat 2016, khususnya Seksyen 61 dan Seksyen 66, dan ia sering mengelirukan penandatangan yang masih mencari "cop syarikat".

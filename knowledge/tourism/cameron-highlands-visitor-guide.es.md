@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["pahang"]
 keywords: ["Cameron Highlands", "Tanah Rata", "Brinchang", "Ringlet", "té BOH", "granja de fresas", "Orang Asli", "Semai", "estación de montaña", "Pahang"]
+framework: profile
 ---
 
 Baja del autobús en Tanah Rata y lo primero que notas es tu propio aliento — el aire es lo bastante fresco como para que un suéter deje de parecer ridículo, incluso en el ecuador. Ese es todo el sentido de Cameron Highlands: un bloque de montaña templada apilado sobre la Malasia tropical, donde el té crece en pulcra pana verde sobre las lomas y las fresas maduran en túneles de plástico al borde de la carretera.

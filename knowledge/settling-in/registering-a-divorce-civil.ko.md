@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "getting-married-in-malaysia" }
 related: ["getting-divorced-in-malaysia", "getting-married-in-malaysia"]
 keywords: ["civil divorce Malaysia", "Law Reform Marriage and Divorce Act 1976", "Act 164", "marriage tribunal JPN", "decree nisi", "decree absolute", "joint petition divorce", "Section 106 conciliatory body", "non-Muslim divorce Malaysia"]
+framework: explainer
 ---
 
 JPN에서 혼인을 등록한 비무슬림 부부는 흔히 같은 사무소가 그것을 끝낼 수 있다고 가정합니다. 그럴 수 없습니다. 말레이시아에서 민사 혼인은 행정적으로 등록되지만, 오직 법원 명령에 의해서만 해소됩니다 — 그리고 소원해진 혼인에서 인장이 찍힌 판결까지의 경로는 화해 심판원, 고등법원 청원, 그리고 이혼이 최종화되기 전 내장된 3개월의 유예를 거칩니다.

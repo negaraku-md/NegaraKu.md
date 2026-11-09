@@ -80,6 +80,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: explainer
 ---
 
 Rencanakan sebuah perjalanan, peluncuran produk, atau proses penggajian lintas Malaysia, dan Anda akan segera menemukan sesuatu yang mengejutkan orang luar: hari yang menjadi hari libur umum di Kuala Lumpur bisa jadi merupakan hari kerja biasa di Kuching, dan sebaliknya. Malaysia tidak memiliki satu daftar hari libur nasional, melainkan satu lapisan nasional dan tiga belas lapisan negara bagian yang ditumpuk di atasnya.

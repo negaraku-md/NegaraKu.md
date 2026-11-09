@@ -92,6 +92,7 @@ verificationNeeded:
   - "La expresión 'rempah empat beradik' ('las cuatro especias hermanas') y su composición exacta: se usa coloquialmente para un grupo central de especias secas, pero las listas varían (cilantro, comino e hinojo se repiten, y la cuarta se da de forma diversa como fenogreco, pimienta blanca u otra especia). Confirmar el término y sus miembros canónicos con una fuente culinaria o lexicográfica malaya."
   - "Qué aromáticos cuentan como el 'núcleo' irreducible de un rempah frente a las adiciones regionales o propias de un plato: fuentes gastronómicas de prestigio describen el chile, el ajo, la chalota y el jengibre como la base, con la galanga, la cúrcuma, la nuez de la India, la hierba limón y el belacan como adiciones comunes pero variables. Confirmar frente a una autoridad culinaria malasia."
   - "El vínculo causal entre el histórico comercio de especias del Estrecho de Melaka y el desarrollo de la cocina malasia basada en el rempah/la pasta de especias es una inferencia razonable extraída de las historias comercial y culinaria, más que una única afirmación documentada; confirmar con una fuente especializada en historia de la alimentación."
+framework: explainer
 ---
 
 Levanta la tapa de casi cualquier olla de curri, *gulai* o *sambal* malasio y

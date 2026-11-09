@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "subsidy-rationalisation-padu" }
 related: ["malaysia-plans", "new-industrial-master-plan-2030", "national-energy-transition-roadmap-netr", "subsidy-rationalisation-padu"]
 keywords: ["Ekonomi MADANI", "MADANI Economy framework", "Ekonomi MADANI Memperkasa Rakyat", "MADANI values acronym", "Malaysia economic framework Anwar", "MADANI economy seven targets", "Malaysia MADANI"]
+framework: explainer
 ---
 
 Vào ngày 27 tháng 7 năm 2023, vài tháng sau khi nhậm chức thủ tướng, Anwar Ibrahim đứng lên không phải để công bố một ngân sách hay một dự án đơn lẻ, mà để trao cho nền kinh tế Malaysia một câu chuyện để kể về chính mình.

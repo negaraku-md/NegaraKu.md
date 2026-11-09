@@ -102,6 +102,7 @@ keywords:
   - "JS-SEZ flagship zones"
   - "MIDA JS-SEZ application"
   - "zon ekonomi khas Johor Singapura"
+framework: rules
 ---
 
 关于柔佛-新加坡经济特区的每一份摘要，开头都用同一个数字：15 年 5%。这是个真实的数字。但它也是整个配套中最没用的一个事实，因为几乎没有读到它的人能够符合资格。

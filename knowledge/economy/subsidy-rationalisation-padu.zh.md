@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "sumbangan-tunai-rahmah-str" }
 related: ["program-rahmah-cost-of-living"]
 keywords: ["PADU", "Pangkalan Data Utama", "rasionalisasi subsidi", "subsidi bersasar", "BUDI MADANI", "RON95", "subsidi diesel", "subsidi elektrik", "T15"]
+framework: explainer
 ---
 
 多年来，马来西亚政府对石油、电力和粮食一律实行普惠式补贴——不论领取者是割胶工人还是豪车车主。真正改变一切的问题，不是补贴给了*多少*，而是给了*谁*。而要回答这个问题，政府需要一样它长期以来所欠缺的东西：对马来西亚人究竟是谁的精确画像。这正是 PADU 的任务。

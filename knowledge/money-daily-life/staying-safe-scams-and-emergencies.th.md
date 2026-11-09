@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "consumer-rights-and-tribunal" }
 related: ["opening-bank-account", "duitnow-qr-payments", "consumer-rights-and-tribunal"]
 keywords: ["999 Malaysia emergency number", "997 NSRC hotline", "National Scam Response Centre", "Macau scam Malaysia", "Semak Mule CCID", "Cyber999 MyCERT", "how to report a scam Malaysia", "phone scam Malaysia", "APK scam parcel"]
+framework: explainer
 ---
 
 ผู้โทรรู้ชื่อคุณและหมายเลข MyKad ของคุณอยู่แล้ว เขาบอกว่าเขามาจากตำรวจ หรือธนาคารกลาง หรือศาล และบอกว่าบัญชีของคุณเชื่อมโยงกับคดีฟอกเงินที่อยู่ระหว่างการสอบสวน วิธีเดียวที่จะพิสูจน์ความบริสุทธิ์ของคุณ เขาบอก คือการย้ายเงินออมของคุณไปยัง "บัญชีปลอดภัย" ในขณะที่พวกเขาตรวจสอบ มันฟังดูไร้สาระเมื่อเขียนออกมา แต่ทางโทรศัพท์ พร้อมหมายเลขคดีจริงและเสียงที่ไม่เคยขึ้นเสียง มันไม่ไร้สาระ

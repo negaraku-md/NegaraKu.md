@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "consumer-protection-act-1999" }
 related: ["court-hierarchy"]
 keywords: ["tuntutan kecil", "small claims", "mahkamah majistret", "aturan 93", "borang 198", "saman hutang", "tanpa peguam"]
+framework: how-to
 ---
 
 Seseorang berhutang RM3,000 dengan anda, enggan menjelaskannya, dan mengendahkan setiap panggilan. Melantik peguam mungkin menelan belanja lebih daripada jumlah hutang itu sendiri. Di sinilah prosedur **tuntutan kecil** wujud: satu jalan yang direka khusus supaya orang biasa boleh membawa pertikaian kecil ke mahkamah — sendirian, murah, dan tanpa jubah peguam.

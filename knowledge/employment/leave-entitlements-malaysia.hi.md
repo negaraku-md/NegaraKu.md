@@ -80,6 +80,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage", "maternity-leave-malaysia", "paternity-leave-malaysia", "public-holidays-malaysia", "working-hours-overtime-malaysia"]
 keywords: ["मलेशिया वार्षिक छुट्टी annual leave", "मलेशिया बीमारी छुट्टी sick leave", "मलेशिया अस्पताल छुट्टी hospitalisation leave", "मलेशिया छुट्टी हक़ 2026", "60 दिन अस्पताल छुट्टी"]
+framework: rules
 ---
 
 मलेशियाई पेरोल में सबसे महँगी छुट्टी-ग़लती कानून बदलने के तीन साल बाद भी की जा रही है: अस्पताल में भर्ती की 60 दिन की छुट्टी को एक ऐसी सीमा मानना जो सामान्य बीमारी की छुट्टी को सोख ले। यह ऐसी नहीं है, और 1 जनवरी 2023 से नहीं रही है।

@@ -74,6 +74,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-health" }
 related: []
 keywords: ["diabète", "obésité", "MNT", "maladies non transmissibles", "NHMS 2023", "taxe sur le sucre", "PeKa B40", "Logo du choix plus sain", "dépistage de santé"]
+framework: explainer
 ---
 
 Plus de la moitié des adultes de Malaisie portent aujourd'hui un poids qui pourrait raccourcir leur vie — et un sur six vit déjà avec le diabète, souvent sans s'en rendre compte. C'est l'épidémie silencieuse qui pèse sur les hôpitaux, les familles et l'économie nationale bien plus que n'importe quelle maladie infectieuse.

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
 related: []
 keywords: ["keterjaminan makanan", "tahap sara diri", "SSL", "SSR", "Dasar Agromakanan Negara", "DAN 2.0", "food security Malaysia", "beras"]
+framework: explainer
 ---
 
 ตามสำมะโนการเกษตร 2024 สำหรับข้าวทุก ๆ หนึ่งกิโลกรัมที่บริโภคในมาเลเซีย ประมาณ 400 กรัมเป็นข้าวนำเข้า ตัวเลขนั้นสรุปความท้าทายด้านความมั่นคงทางอาหารของประเทศ กล่าวคือ ประเทศเกษตรกรรมที่ยังคงนำเข้าอาหารหลักส่วนใหญ่

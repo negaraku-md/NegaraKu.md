@@ -106,6 +106,7 @@ keywords:
   - "section 236 Companies Act 2016"
   - "do I need a company secretary"
   - "company secretary requirements Malaysia"
+framework: explainer
 ---
 
 在马来西亚，关于公司秘书所写的东西，几乎全部是公司秘书写的。

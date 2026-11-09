@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "department-of-environment" }
 related: ["environmental-quality-act-1974"]
 keywords: ["pencemaran sungai", "indeks kualiti air", "WQI", "keselamatan air", "bekalan air", "Sungai Selangor", "Sungai Kim Kim", "rizab sungai", "Jabatan Alam Sekitar", "kawasan tadahan"]
+framework: explainer
 ---
 
 Mở vòi vào sáng thứ Hai và thấy nó khô — không phải vì vòi hỏng, mà vì một nhà máy ở thượng nguồn đã xả chất thải có mùi hôi thối vào con nhánh sông cung cấp nước thô cho thành phố của bạn. Đây là thực tế lặp đi lặp lại ở Thung lũng Klang, và nó giải thích vì sao "chất lượng sông" không chỉ là một vấn đề sinh thái, mà là một vấn đề an ninh cấp nước cho hàng triệu ngôi nhà.

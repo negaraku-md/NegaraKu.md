@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "wisma-putra" }
 related: []
 keywords: ["Malaysia China relations", "largest trading partner", "South China Sea", "comprehensive strategic partnership", "1974 diplomatic relations", "Wisma Putra", "nine-dash line"]
+framework: explainer
 ---
 
 1974년, 동남아시아 상당 지역이 여전히 냉전의 의심으로 베이징을 바라보고 있던 때, 말레이시아의 툰 압둘 라작(Tun Abdul Razak) 총리는 중국으로 날아가 마오쩌둥과 악수를 나누었습니다. 그 방문으로 말레이시아는 중화인민공화국과 외교 관계를 연 최초의 아세안 국가가 되었으며 — 오늘날 말레이시아에 경제적으로 가장 중대하면서도, 그 가장자리에서는 관리하기 가장 미묘한 관계의 본보기를 세웠습니다.

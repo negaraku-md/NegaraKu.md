@@ -97,6 +97,7 @@ relations:
   - { rel: "located-in", to: "malaysia" }
 related: []
 keywords: ["kuala lumpur", "petronas twin towers", "kl tower", "batu caves", "bukit bintang", "chinatown kuala lumpur", "klia ekspres", "kuala lumpur transport", "malaysia digital arrival card", "kl travel guide"]
+framework: profile
 ---
 
 在拂晓时分降落吉隆坡国际机场，一小时之内，你就可以站在两座曾经称霸全球天际线的银色高塔之下——不需要租车，不需要复杂的规划，只需一趟列车和一张刷卡即可。这份从容正是吉隆坡的意义所在：它是马来西亚的大门，一座紧凑而经济实惠的首都，主要景点之间只隔着一小段轨道车程，而这个国家几乎每一段后续旅程都从这里开始。

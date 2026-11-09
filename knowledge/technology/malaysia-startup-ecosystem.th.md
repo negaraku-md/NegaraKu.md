@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "digital-economy-overview" }
 related: ["mdec-digital-status", "sme-financing-malaysia", "equity-crowdfunding-p2p-malaysia", "cyberjaya-tech-hub", "digital-economy-overview"]
 keywords: ["Malaysia startup ecosystem", "Cradle Fund CIP Spark", "MRANTI", "MYStartup single window", "MAVCAP", "Jelawang Capital", "Malaysia venture capital", "KL20"]
+framework: explainer
 ---
 
 ถามผู้ก่อตั้งชาวมาเลเซียสิบคนว่าเงินสตาร์ทอัพของรัฐบาลมาจากไหน แล้วคุณจะได้ตัวย่อสิบตัวที่ต่างกัน กลไกเป็นจริงและใจดี แต่มันกระจายอยู่ในหน่วยงานที่แต่ละแห่งเป็นเจ้าของส่วนหนึ่ง — เงินอุดหนุนที่นี่ พื้นที่ห้องปฏิบัติการที่นั่น เงินร่วมลงทุนที่อื่นอีก — และการรู้ว่าควรเคาะประตูใดช่วยประหยัดเวลาหลายเดือน

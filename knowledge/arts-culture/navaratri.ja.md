@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "hinduism-in-malaysia" }
 related: ["hinduism-in-malaysia", "deepavali", "thaipusam", "pongal", "mariamman-worship", "hindu-temple-architecture"]
 keywords: ["நவராத்திரி", "Navaratri", "Navratri", "கொலு", "Golu", "விஜயதசமி", "சரஸ்வதி பூஜை", "ஆயுத பூஜை", "வித்யாரம்பம்", "மலேசியா நவராத்திரி", "கர்பா தாண்டியா"]
+framework: history-culture
 ---
 
 ナヴァラートリの期間、マレーシアのあるタミル系ヒンドゥー教徒の家庭の客間では、片側の壁に沿って奇数段の台が組まれます。布で覆われたその段には、神像と神話の場面を伝える人形が並べて飾られます。夕刻になると、親族や近所の人々が**ゴールー**を見に訪れ、歌声が響き、帰る客にはタンブーラムと菓子が手渡されます。これは一日限りの行事ではなく、九つの夜にわたる祭りの象徴なのです。

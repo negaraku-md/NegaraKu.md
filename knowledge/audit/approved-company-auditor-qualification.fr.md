@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "statutory-audit-requirement" }
 related: ["companies-act-2016", "malaysian-institute-of-accountants"]
 keywords: ["juruaudit syarikat diluluskan", "approved company auditor", "seksyen 263", "lesen audit Malaysia", "sijil amalan MIA", "Akauntan Negara"]
+framework: rules
 ---
 
 Vous pouvez être Comptable Agréé avec le titre complet, détenir une licence en comptabilité et avoir des années d'expérience — et ne toujours pas être autorisé à signer seul le rapport d'audit d'une société. En Malaisie, le droit d'auditer une société est une licence distincte et strictement encadrée, et non quelque chose qui vient automatiquement avec la qualité de membre professionnel.

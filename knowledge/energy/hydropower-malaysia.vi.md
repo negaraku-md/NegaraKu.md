@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "score-sarawak" }
 related: ["tenaga-nasional"]
 keywords: ["hidrokuasa", "empangan Bakun", "Murum", "Baleh", "Kenyir", "Temengor", "Sarawak Energy", "tenaga boleh baharu", "hydropower Malaysia"]
+framework: explainer
 ---
 
 Nước chảy xuống từ các dãy núi rừng mưa của Borneo nay quay các tuabin cung cấp cho các nhà máy nhôm — và đó là cốt lõi của chiến lược năng lượng tái tạo của Malaysia. Nhưng con đường đến đó được đánh dấu bởi các đập siêu lớn, các hồ rộng hàng trăm kilômét vuông, và hàng nghìn gia đình bản địa buộc phải di dời.

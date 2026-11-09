@@ -112,6 +112,7 @@ keywords:
   - "PK 1.5 Bumiputera procurement"
   - "BCPLC status"
   - "distributive trade Bumiputera equity"
+framework: data-reference
 ---
 
 부미푸트라(Bumiputera) 지분 및 참여 조건은 말레이시아 사업 준수의 살아 있는

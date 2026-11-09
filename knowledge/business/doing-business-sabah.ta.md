@@ -124,6 +124,7 @@ keywords:
   - "DBKK trading licence fee"
   - "SEDIA Sabah Development Corridor"
   - "Sabah state sales tax"
+framework: profile
 ---
 
 மலேசியாவில் வணிகம் செய்வது குறித்த கிட்டத்தட்ட ஒவ்வொரு தேசிய வழிகாட்டியும் சபாவைப் பற்றி

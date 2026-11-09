@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["malaysian-education-system", "enrolling-in-a-government-school", "private-and-chinese-independent-schools"]
 keywords: ["sekolah kebangsaan", "SJKC", "SJKT", "sekolah jenis kebangsaan", "bahasa pengantar", "KPM", "KSSR", "sekolah rendah Malaysia"]
+framework: explainer
 ---
 
 毎年、登録期間が始まると、マレーシア全土の保護者はマレーシア教育省（KPM）のidMeポータルを開き、子どもを小学1年生として登録する。そこで最初に下さなければならない選択の一つが、SK、SJKC、SJKTのいずれにするかである。

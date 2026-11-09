@@ -66,6 +66,7 @@ faq:
     a: Tidak. Malaysia menambat ringgit pada 3.80 kepada dolar AS pada September 1998 semasa Krisis Kewangan Asia, bersama kawalan modal, dan tambatan itu kekal hampir tujuh tahun. Ia dimansuhkan pada 2005, dan ringgit kembali kepada apungan terurus — ditentukan pasaran, dengan Bank Negara Malaysia hadir hanya untuk melicinkan pergerakan yang tidak teratur dan bukan untuk mempertahankan sesuatu paras tertentu. Tiada paras "betul" yang rasmi hari ini.
   - q: Mengapa kadar yang diberikan oleh bank atau pengurup wang saya lebih buruk daripada kadar yang diterbitkan BNM?
     a: Kerana kadar rujukan USD/MYR KL BNM ialah penanda aras pasaran yang dikira daripada pasaran antara bank, digunakan untuk kontrak dan penilaian — bukan harga runcit. Bank dan pengurup wang menambah spread mereka sendiri di atasnya, jadi anda akan sentiasa berurus niaga pada kadar yang lebih buruk daripada rujukan. Kadar rujukan ialah 4.0841 pada 23 Oktober 2026, tetapi itu penanda aras, bukan apa yang pelanggan sebenarnya bayar di kaunter.
+framework: explainer
 ---
 
 ## Sekilas pandang

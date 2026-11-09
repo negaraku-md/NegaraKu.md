@@ -65,6 +65,7 @@ keywords:
   - "megadiverse country"
   - "MetMalaysia"
   - "MyBIS"
+framework: explainer
 ---
 
 # لماذا تُعَدّ ماليزيا واحدةً من أكثر بلدان العالم تنوّعاً حيوياً

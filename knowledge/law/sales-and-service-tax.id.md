@@ -113,6 +113,7 @@ relations:
   - { rel: "related-to", to: "income-tax-act-1967" }
 related: ["income-tax-act-1967", "companies-act-2016"]
 keywords: ["SST", "sales tax", "service tax", "RMCD", "MySST", "SST registration", "Sales Tax Act 2018", "Service Tax Act 2018", "SST rates", "SST threshold"]
+framework: rules
 ---
 
 Jika Anda pernah bertanya-tanya mengapa tagihan restoran Anda memiliki satu baris untuk "SST" tetapi struk barang eceran Anda biasanya tidak, Anda telah berhadapan dengan dua bagian yang sangat berbeda dari pajak yang sama. Malaysia tidak menjalankan satu pajak konsumsi berbasis luas seperti GST atau VAT. Sebaliknya ia menjalankan dua pajak yang lebih sempit — Pajak Penjualan atas barang dan Pajak Jasa atas jasa — digabungkan di bawah label **SST** dan dikelola oleh Jabatan Kastam Diraja Malaysia (RMCD).

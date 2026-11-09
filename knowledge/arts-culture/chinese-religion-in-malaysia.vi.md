@@ -68,6 +68,7 @@ faq:
     a: 'Trong thực hành thường ngày của người Hoa Malaysia thì không. Với nhiều gia đình, Phật giáo, Đạo giáo, tư tưởng Nho gia và thờ cúng tổ tiên không phải là những lựa chọn loại trừ lẫn nhau, mà là một tập hợp thực hành được tiến hành song song: cùng một người có thể thắp hương vào mùng một và rằm âm lịch, tảo mộ vào tiết Thanh Minh (清明), và cũng đến chùa lễ Phật vào ngày Phật Đản (Wesak). Chính sự hòa trộn này là đặc trưng cốt lõi của tín ngưỡng dân gian người Hoa, và vì vậy Phật giáo cùng tín ngưỡng dân gian thường rất khó tách bạch rạch ròi.'
   - q: Đại Bá Công (Tua Pek Kong) là ai, và ngôi miếu Tua Pek Kong cổ nhất nằm ở đâu?
     a: Tua Pek Kong (大伯公) là một vị thần mang đậm màu sắc bản địa, được thờ phụng rộng rãi tại các miếu người Hoa khắp Malaysia. Ngôi miếu Tua Pek Kong cổ nhất được cho là ở Tanjung Tokong, Penang, và tín ngưỡng này về sau lan rộng khắp Malaysia, Singapore và Indonesia. Trong tiếng Mã Lai, loại miếu này gọi là tokong; các ngôi miếu nổi tiếng khác gồm Thanh Vân Đình (Cheng Hoon Teng) ở Malacca và Thiên Hậu Cung (Thean Hou) ở Kuala Lumpur.
+framework: history-culture
 ---
 
 Bước vào bất kỳ ngôi miếu người Hoa nào ở Malaysia, bạn rất có thể thấy Phật,

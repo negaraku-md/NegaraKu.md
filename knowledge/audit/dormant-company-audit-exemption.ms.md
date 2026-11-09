@@ -56,6 +56,7 @@ relations:
   - { rel: "part-of", to: "audit-exemption" }
 related: ["audit-exemption", "audit-exemption-thresholds", "after-audit-exemption"]
 keywords: ["pengecualian audit syarikat dorman Malaysia", "syarikat dorman SSM", "apa yang mematahkan status dorman", "dorman sejak pemerbadanan", "syarikat dorman audit"]
+framework: rules
 ---
 
 Sebuah syarikat rak (shelf company) yang hanya memegang nama dan tiada apa-apa

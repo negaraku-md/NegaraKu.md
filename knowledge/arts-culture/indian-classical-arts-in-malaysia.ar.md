@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "temple-music-nadaswaram" }
 related: ["tamil-in-malaysia", "temple-music-nadaswaram", "hinduism-in-malaysia", "deepavali", "estate-tamil-community", "silambam"]
 keywords: ["இந்திய செம்மொழிக் கலைகள்", "பரதநாட்டியம்", "கர்நாடக இசை", "அரங்கேற்றம்", "ஒடிசி", "Temple of Fine Arts", "Sutra Dance Theatre", "Indian classical arts Malaysia", "Bharatanatyam Malaysia", "Carnatic music Malaysia"]
+framework: history-culture
 ---
 
 في أيّ مدينة كبرى من مدن ماليزيا، في مساء ديبافالي أو في يوم احتفال بأحد المعابد، يمكنك أن ترى فنان بهاراتاناتيام يصعد إلى المسرح، وأجراس كاحليه ترنّ، وهو يتحرّك على إيقاع المريدانغام. وتلك الخطوات والإيماءات ليست وليدة الصدفة — إنها تحكي عن تقليد فنّي هندي جنوبي يتجاوز عمره ألف عام، وعن الطريقة التي حمله بها مجتمع التاميل الماليزي طوال أكثر من قرن ونصف.

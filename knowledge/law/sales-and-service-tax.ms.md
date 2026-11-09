@@ -113,6 +113,7 @@ relations:
   - { rel: "related-to", to: "income-tax-act-1967" }
 related: ["income-tax-act-1967", "companies-act-2016"]
 keywords: ["SST", "sales tax", "service tax", "RMCD", "MySST", "SST registration", "Sales Tax Act 2018", "Service Tax Act 2018", "SST rates", "SST threshold"]
+framework: rules
 ---
 
 Jika anda pernah tertanya-tanya mengapa bil restoran anda mempunyai satu baris untuk "SST" tetapi resit barangan runcit anda biasanya tidak, anda telah bertembung dengan dua bahagian yang sangat berbeza daripada cukai yang sama. Malaysia tidak menjalankan satu cukai penggunaan berasaskan luas seperti GST atau VAT. Sebaliknya ia menjalankan dua cukai yang lebih sempit — Cukai Jualan ke atas barangan dan Cukai Perkhidmatan ke atas perkhidmatan — digabungkan di bawah label **SST** dan ditadbir oleh Jabatan Kastam Diraja Malaysia (RMCD).

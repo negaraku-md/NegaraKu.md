@@ -85,6 +85,7 @@ relations:
 related: ["federal-constitution", "bahasa-melayu", "population-composition", "formation-of-malaysia-1963", "independence-1957", "ma63"]
 keywords: ["languages of Malaysia", "Bahasa Melayu", "national language Malaysia", "Article 152 Federal Constitution", "Chinese dialects Malaysia", "Tamil Malaysia", "Orang Asli languages", "Kadazan-Dusun", "Iban language", "vernacular schools Malaysia", "SJKC SJKT"]
 sponsor: "none"
+framework: explainer
 ---
 
 沙巴州政府这样概括自己的人口：33个原住民族群，使用超过50种语言与约80种方言。这仅仅是十三个州属之一，加上三个联邦直辖区。放眼整个国家，情况只会更为复杂——然而《联邦宪法》明确只订定了一种国家语言。

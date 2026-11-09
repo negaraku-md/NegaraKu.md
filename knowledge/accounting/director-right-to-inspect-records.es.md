@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "directors-duties" }
 related: ["accounting-records-section-245", "directors-duties"]
 keywords: ["derecho del director a inspeccionar registros contables Malasia", "artículo 245(4) Ley de Sociedades 2016", "inspección por el director de registros de filiales", "disputa entre accionistas registros de la sociedad Malasia", "director right to inspect accounting records Malaysia", "section 245(4) Companies Act 2016"]
+framework: explainer
 ---
 
 En una disputa entre accionistas, el primer disparo rara vez es una demanda. Es una

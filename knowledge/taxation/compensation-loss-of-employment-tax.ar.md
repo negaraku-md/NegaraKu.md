@@ -71,6 +71,7 @@ social:
     - LHDN
     - PersonalTax
     - VSS
+framework: explainer
 ---
 
 فقدان العمل يأتي عادةً مع مبلغ، والسؤال الأول هو غالبًا السؤال الخطأ: «كم ضريبة

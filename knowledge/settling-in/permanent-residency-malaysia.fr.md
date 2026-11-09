@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysian-citizenship" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["permanent residency Malaysia", "MyPR", "red IC Malaysia", "Entry Permit Malaysia", "PR spouse Malaysian", "Immigration Act 1959/63", "Regulation 4 Immigration Regulations 1963"]
+framework: explainer
 ---
 
 Une MyKad rouge est la discrète ligne d'arrivée de bien des vies au long cours en Malaisie — l'épouse étrangère qui a renouvelé le même pass de visite pendant une décennie, l'ingénieur qui ne veut plus jamais déposer une autre prolongation de permis de travail, le retraité qui veut appartenir à un lieu pour de bon. Cette carte, la MyPR, est ce à quoi ressemble réellement la résidence permanente malaisienne dans votre portefeuille.

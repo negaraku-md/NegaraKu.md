@@ -80,6 +80,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: explainer
 ---
 
 Hãy lên kế hoạch cho một chuyến đi, một đợt ra mắt sản phẩm hoặc một kỳ trả lương trên khắp Malaysia và bạn sẽ nhanh chóng phát hiện ra điều khiến người ngoài bất ngờ: một ngày là ngày lễ công ở Kuala Lumpur có thể là một ngày làm việc bình thường ở Kuching, và ngược lại. Malaysia không có một danh sách ngày lễ quốc gia duy nhất mà đúng hơn là một lớp quốc gia và mười ba lớp tiểu bang chồng lên nhau.

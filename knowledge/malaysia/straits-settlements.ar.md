@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "singapore-separation-1965" }
 related: ["malayan-union", "melaka-sultanate", "singapore-separation-1965"]
 keywords: ["مستوطنات المضائق", "تاريخ بينانغ الاستعماري", "ملقا تحت الحكم البريطاني", "معاهدة بانكور 1874", "نظام المقيم البريطاني", "الولايات الملايوية المتحدة", "الولايات الملايوية غير المتحدة", "Straits Settlements", "Pangkor Treaty 1874", "British Resident system", "Federated Malay States", "Unfederated Malay States"]
+framework: history-culture
 ---
 
 ثلاثة موانئ، وأربعة تغييرات في الوضع الإداري، وواحد وأربعون عامًا. ذلك هو حال مستوطنات المضائق قبل أن تمسّ الولايات الملايوية على الإطلاق.

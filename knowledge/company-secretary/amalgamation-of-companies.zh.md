@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "members-voluntary-winding-up" }
 related: ["companies-act-2016", "ssm"]
 keywords: ["amalgamation", "scheme of arrangement", "section 366", "section 370", "Companies Act 2016", "reconstruction", "merger Malaysia", "SSM", "75 percent threshold", "vesting order"]
+framework: explainer
 ---
 
 如果你期望两家马来西亚公司能像在新加坡或新西兰那样合并——董事会通过一项决议，一个法律实体一夜之间吸收另一个——那么你会发现你要找的条文根本不存在。《2016年公司法令》没有简式的法定合并程序。要在这里合并两家或以上公司，你得走高等法院这条路。

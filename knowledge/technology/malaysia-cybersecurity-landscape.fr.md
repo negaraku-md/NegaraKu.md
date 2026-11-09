@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "pdpa-2010" }
 related: ["pdpa-2010"]
 keywords: ["Malaysia cybersecurity", "cybersécurité Malaisie", "Cyber Security Act 2024", "loi sur la cybersécurité 2024", "Act 854", "NACSA", "National Critical Information Infrastructure", "infrastructure nationale d'information critique", "Global Cybersecurity Index", "Malaysia Cyber Security Strategy"]
+framework: explainer
 ---
 
 Pendant une décennie, la Malaisie a demandé à ses infrastructures critiques de prendre la cybersécurité au sérieux. Depuis le 26 août 2024, elle le leur ordonne — et assortit de peines de prison le fait de mal s'y prendre.

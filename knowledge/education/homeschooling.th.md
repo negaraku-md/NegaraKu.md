@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "public-vs-private-universities" }
 related: ["public-vs-private-universities", "warta-kerajaan", "akta"]
 keywords: ["homeschooling Malaysia", "Education Act 1996", "Section 29A", "Section 32A", "compulsory education Malaysia", "homeschool exemption", "pendidikan di rumah", "MOE exemption letter"]
+framework: explainer
 ---
 
 ทุกเดือนมกราคม เด็กมาเลเซียวัยหกขวบหลายหมื่นคนเริ่มเรียนชั้นปีที่ 1 เพราะกฎหมายกำหนดให้ต้องเรียน มีผู้ปกครองกลุ่มเล็กกว่าและเงียบกว่าที่เลือกไม่ส่งบุตรเข้าเรียน — และยังคงอยู่ในฝั่งที่ถูกต้องของกฎหมายได้เพียงเพราะบทบัญญัติข้อเดียวที่ซ่อนอยู่ในพระราชบัญญัติการศึกษา ซึ่งให้อำนาจรัฐมนตรีลงนามให้ทางเลือกนั้นเป็นข้อยกเว้น ทีละครอบครัว

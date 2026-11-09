@@ -140,6 +140,7 @@ entity: The Progressive Wage Policy (Dasar Gaji Progresif)
 related:
   - minimum-wage-malaysia
 sourceContentHash: "ccffdcacb9538b8a"
+framework: explainer
 ---
 
 ## முற்போக்கு ஊதியக் கொள்கை என்ன — என்ன அல்ல

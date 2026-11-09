@@ -100,6 +100,7 @@ relations:
   - { rel: "related-to", to: "annual-return" }
 related: ["mbrs-2", "extension-of-time-ssm", "unaudited-financial-statements", "sdn-bhd-filing-calendar", "annual-return", "audit-exemption"]
 keywords: ["financial statements deadline Malaysia", "section 258 Companies Act 2016", "section 259 lodge financial statements", "circulate financial statements members", "6 months financial year end SSM", "30 days lodge financial statements"]
+framework: rules
 ---
 
 マレーシアの取締役に、その会計書類がSSM（企業委員会）にいつ提出期限を迎えるのか尋ねて

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "syariah-courts-malaysia" }
 related: []
 keywords: ["faraid", "harta pusaka", "pusaka islam", "waris", "mahkamah syariah", "baitulmal", "akta pembahagian 1958", "pusaka kecil"]
+framework: explainer
 ---
 
 マレーシアでムスリムが亡くなったとき、その財産は必ずしも最も近しい相続人や最も困窮している相続人の手に渡るわけではない——イスラム教法（Syarak）があらかじめ定めた定分に従って分配される。この制度こそが**ファラーイド（faraid）**として知られており、すべての相続人が別の方法に合意しない限り、ムスリムの遺産のデフォルトの分配方法となる。

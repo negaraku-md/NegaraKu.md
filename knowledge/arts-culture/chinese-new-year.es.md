@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["population-composition", "religion-statistics", "languages-spoken", "batik"]
 keywords: ["农历新年", "华人新年", "春节", "团圆饭", "红包", "压岁钱", "舞狮", "捞生", "鱼生", "十五暝", "Chap Goh Meh", "开放门户", "马来西亚华人", "公共假期", "Chinese New Year Malaysia"]
+framework: history-culture
 ---
 
 En la víspera de Año Nuevo, muchas tiendas cierran temprano y las autopistas se llenan de coches que ponen rumbo a los pueblos natales. Al caer la tarde, la familia se reúne en torno a una misma mesa, con pescado encima (por lo de «excedente cada año»), un pollo entero, albóndigas que simbolizan la reunión y un plato frío de yee sang, pensado para levantarlo bien alto con los palillos. Muchas familias chinas de Malasia consideran esta cena de reunión de la víspera más importante que el primer día del nuevo año en sí.

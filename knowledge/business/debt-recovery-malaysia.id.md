@@ -105,6 +105,7 @@ keywords:
   - "petisyen penggulungan hutang belum dibayar Malaysia"
   - "tempoh had masa hutang Malaysia"
   - "tuntutan hutang syarikat"
+framework: how-to
 ---
 
 Kebanyakan nasihat mengenai pemulihan utang dagang Malaysia berakhir dengan satu

@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "malaysia-cup" }
 related: []
 keywords: ["bola sepak malaysia", "piala malaysia", "harimau malaya", "FAM", "liga super", "AFF", "football malaysia"]
+framework: history-culture
 ---
 
 Vào năm 1921, Singapore đánh bại Selangor 2-1 trong trận chung kết của một giải bóng đá mới ở Malaya. Hơn một thế kỷ sau, giải đấu đó — nay được biết đến là Cúp Malaysia — vẫn là vương miện danh giá nhất trong môn thể thao được yêu thích nhất của đất nước.

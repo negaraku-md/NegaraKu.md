@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "malaysia-digital-arrival-card-mdac" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["malaysia visa", "visa-free countries malaysia", "malaysia evisa", "eNTRI", "malaysia digital arrival card", "social visit pass"]
+framework: rules
 ---
 
 Trước khi bạn đặt một chuyến bay đến Kuala Lumpur, câu hỏi đầu tiên không phải là "khách sạn nào" — mà là "hộ chiếu của tôi có đưa tôi qua cổng không?" Đối với hầu hết du khách câu trả lời là một sự nhẹ nhõm, nhưng các quy tắc chia rõ rệt theo quốc tịch, và một mẫu trực tuyến nay áp dụng cho gần như mọi người.

@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "payroll-compliance-malaysia" }
 related: ["epf-employer-guide", "payroll-compliance-malaysia", "socso-eis-employer-guide"]
 keywords: ["EPF foreign worker Malaysia", "EPF non-citizen 2 percent", "KWSP pekerja asing caruman", "Third Schedule Part F", "EPF expatriate contribution"]
+framework: rules
 ---
 
 27년 동안, 외국인 근로자에 대한 EPF는 고용주가 대체로 무시할 수 있는 것이었습니다. 근로자가

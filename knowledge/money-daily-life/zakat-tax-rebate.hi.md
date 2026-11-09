@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "zakat-pendapatan" }
 related: []
 keywords: ["ज़कात कर छूट", "zakat rebat cukai", "धारा 6A", "Seksyen 6A", "Income Tax Act 1967", "ज़कात कर छूट LHDN", "ज़कात बनाम कर राहत", "राज्य ज़कात निकाय", "badan zakat negeri"]
+framework: explainer
 ---
 
 RM1,000 ज़कात चुकाइए, और आपका आयकर ठीक RM1,000 घट जाता है — न कि उसका बस एक छोटा-सा अंश, जैसा अधिकांश अन्य कर कटौतियों में होता है। यही अंतर मलेशिया के मुस्लिम करदाताओं को अकसर भ्रमित करता है, और यह एक ही शब्द पर टिका है: *छूट (rebate)*, न कि *राहत (relief)*।

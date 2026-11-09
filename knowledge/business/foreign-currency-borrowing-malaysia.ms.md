@@ -65,6 +65,7 @@ relations:
   - { rel: "part-of", to: "foreign-exchange-policy-malaysia" }
 related: ["foreign-exchange-policy-malaysia", "share-capital-malaysia"]
 keywords: ["pinjaman mata wang asing malaysia", "pinjaman pemegang saham malaysia BNM", "had pinjaman luar pesisir malaysia", "had pinjaman RM100 juta", "notis FEP 2"]
+framework: rules
 ---
 
 Sebuah induk asing ingin membiayai anak syarikatnya di Malaysia dengan pinjaman pemegang

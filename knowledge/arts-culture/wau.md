@@ -82,6 +82,7 @@ relations:
 related: ["batik", "wayang-kulit", "kelantan"]
 entity: "Wau"
 keywords: ["wau", "wau bulan", "layang-layang tradisional", "kraf Kelantan", "Adiguru Kraf wau"]
+framework: history-culture
 ---
 
 Sebelum anda nampak wau itu, anda dengar dahulu. Sebuah wau tradisional yang dibuat betul-betul akan berdengung sepanjang masa ia di udara — bukan bunyi angin, tetapi nada yang sengaja direka masuk ke dalam binaannya.

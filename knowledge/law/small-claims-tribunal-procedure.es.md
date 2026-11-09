@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "consumer-protection-act-1999" }
 related: ["court-hierarchy"]
 keywords: ["pequeños reclamos", "small claims", "tribunal de magistrados", "Order 93", "Form 198", "demanda por deuda", "sin abogado", "TTPM"]
+framework: how-to
 ---
 
 Alguien le debe RM3,000, se niega a saldar la deuda e ignora cada llamada. Contratar a un abogado podría costar más que la propia deuda. Aquí es donde existe el procedimiento de **pequeños reclamos**: una vía diseñada específicamente para que la gente común pueda llevar pequeñas disputas al tribunal — sola, de forma económica y sin la toga de un abogado.

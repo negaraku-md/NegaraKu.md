@@ -97,6 +97,7 @@ relations:
   - { rel: "affects", to: "after-audit-exemption" }
 related: ["after-audit-exemption", "audit-exemption", "minute-books-and-records", "unaudited-financial-statements"]
 keywords: ["seksyen 245 Akta Syarikat 2016", "rekod perakaunan Malaysia", "simpan rekod perakaunan 7 tahun", "60 hari kemasukan perakaunan Malaysia", "penalti rekod perakaunan Malaysia"]
+framework: rules
 ---
 
 Hampir setiap panduan Malaysia tentang rekod perakaunan menyatakan dua perkara yang

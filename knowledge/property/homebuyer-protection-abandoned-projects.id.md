@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "sale-and-purchase-agreement-property" }
 related: []
 keywords: ["HDA", "Akta 118", "APDL", "lesen pemaju", "Tribunal Tuntutan Pembeli Rumah", "projek terbengkalai", "SPNB", "KPKT", "perlindungan pembeli rumah"]
+framework: explainer
 ---
 
 Anda sudah membayar deposit, menandatangani Perjanjian Jual Beli, dan menunggu kunci rumah — kemudian lokasi pembangunan senyap selama berbulan-bulan. Untuk pembeli rumah hunian baru di Semenanjung Malaysia, undang-undang sebenarnya menyediakan beberapa lapisan perlindungan sebelum, selama, dan setelah keadaan seperti ini terjadi. Kuncinya adalah mengetahui apa yang dilindungi dan ke mana harus pergi ketika sesuatu tidak beres.

@@ -120,6 +120,7 @@ keywords:
   - "halal certification Malaysia"
   - "food handler certificate Malaysia"
   - "liquor licence Malaysia"
+framework: rules
 ---
 
 「餐厅执照」并不存在。真正存在的，是一叠五六项来自四五个不同当局、须按特定顺序组合的独立批准；而最常令开业受阻的，往往根本不是食品执照——而是招牌。

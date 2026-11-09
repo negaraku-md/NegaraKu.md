@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["new-economic-policy", "13-may-1969", "independence-1957", "formation-of-malaysia-1963", "federal-constitution"]
 keywords: ["1998 Malaysia", "Asian Financial Crisis Malaysia", "capital controls", "ringgit peg RM3.80", "selective exchange controls", "Reformasi", "Anwar Ibrahim 1998", "National Economic Recovery Plan", "Danaharta", "Danamodal", "managed float 2005"]
+framework: history-culture
 ---
 
 1998 செப்டம்பரின் ஒரே வாரத்திற்குள், மலேசியா இரண்டு காரியங்களைச் செய்தது — அவை ஒவ்வொன்றும் பல ஆண்டுகளுக்கு விவாதத்திற்கு உள்ளாகின. அது தன் சொந்த நாணயத்திற்கான கடல்கடந்த (offshore) சந்தையை மூடி, ரிங்கிட்டை அமெரிக்க டாலருடன் நிலைப்படுத்தியது — இது சர்வதேச நாணய நிதியம் (International Monetary Fund, IMF) அப்பகுதிக்கு வலியுறுத்திவந்த மரபுவழிக் கொள்கையிலிருந்து ஒரு விலகலாகும். மேலும், துணைப் பிரதமராகவும் நிதி அமைச்சராகவும் இருந்தவரை அது பதவியிலிருந்து நீக்கியது, இது Reformasi எனும் பெயரைப் பெற்ற ஓர் எதிர்ப்பு இயக்கத்தைத் தூண்டிவிட்டது.

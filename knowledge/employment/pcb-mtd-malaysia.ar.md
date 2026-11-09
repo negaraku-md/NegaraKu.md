@@ -132,6 +132,7 @@ relations:
   - { rel: "part-of", to: "payroll-compliance-malaysia" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide"]
 keywords: ["PCB ماليزيا", "PCB Malaysia", "خصم الضريبة الشهري", "MTD monthly tax deduction", "CP38 CP39 CP22", "e-PCB LHDN صاحب العمل", "ضريبة دخل الموظف"]
+framework: rules
 ---
 
 PCB هو السطر الوحيد في قسيمة الراتب الماليزية الذي يمسك فيه صاحب العمل بمال شخص آخر

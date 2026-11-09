@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "chinese-dialects"]
 keywords: ["冬至", "汤圆", "汤丸", "咸汤圆", "冬大过年", "冬至大如年", "添岁", "搓汤圆", "Tang Chek", "Dongzhi", "马来西亚华人", "节气", "Winter Solstice Festival"]
+framework: history-culture
 ---
 
 On an evening in late December, the scent of glutinous rice flour mingles with the sweetness of ginger soup in the kitchen. The family gathers round the table, rolling little lumps of glutinous rice dough into balls — some white, some dyed pink or pale green. The balls in the children's hands come in all sizes, and as the adults roll they say: once you have eaten the tangyuan, you have grown a year older. This day is the Winter Solstice.

@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
 related: ["spr-election-commission", "dewan-rakyat", "how-elections-work", "federal-constitution", "independence-1957"]
 keywords: ["الانتخابات العامة الرابعة عشرة", "14th general election", "GE14", "PRU14", "تغيير الحكومة في ماليزيا", "change of government Malaysia", "Pakatan Harapan", "Barisan Nasional", "مجلس النواب 222 مقعدًا", "Dewan Rakyat 222 seats", "المادة 43 الدستور الاتحادي", "مهاتير رئيس الوزراء السابع"]
+framework: history-culture
 ---
 
 طوال 61 عامًا، من أول انتخابات اتحادية بعد الاستقلال سنة 1957 حتى 2018، كانت كل حكومة اتحادية في ماليزيا يشكّلها ائتلاف واحد — [حلف بيريكاتان](/malaysia/the-alliance)، ومنذ سبعينيات القرن العشرين خلفه [باريسان ناسيونال](/malaysia/barisan-nasional). في الانتخابات العامة الرابعة عشرة، انتهت تلك الاستمرارية: فاز ائتلاف مختلف بأغلبية مقاعد مجلس النواب (Dewan Rakyat).

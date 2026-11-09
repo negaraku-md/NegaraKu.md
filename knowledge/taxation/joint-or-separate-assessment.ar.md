@@ -65,6 +65,7 @@ relations:
   - { rel: "affects", to: "personal-tax-reliefs" }
 related: ["income-tax-in-malaysia", "personal-tax-reliefs", "personal-tax-rates", "which-tax-form", "pcb-monthly-tax-deduction"]
 keywords: ["التقدير المشترك في ماليزيا", "joint assessment Malaysia", "التقدير المنفصل للضريبة في ماليزيا", "separate assessment tax Malaysia", "خيار المادة 45(2)", "section 45(2) election", "إعفاء الزوج RM4000", "spouse relief RM4000", "هل نقدّم الإقرار معاً في ماليزيا"]
+framework: decision
 ---
 
 التقدير المشترك ليس خصماً. إنه مقايضة، والحساب الكامن وراءه قصير بما يكفي

@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "kabinet-perdana-menteri" }
 related: ["ekonomi-madani-framework", "konfrontasi", "miti", "matrade"]
 keywords: ["dasar luar Malaysia", "Wisma Putra", "Kementerian Luar Negeri", "ZOPFAN", "dasar berkecuali", "diplomasi Malaysia", "ASEAN", "Pelan Strategik 2026-2030", "non-alignment"]
+framework: explainer
 ---
 
 Apabila Amerika Syarikat ialah pelabur asing terbesar dalam ekonomi Malaysia, tetapi China pula rakan dagang terbesarnya, sebuah negara kecil dan terbuka tidak mampu memihak. Itulah sebabnya dasar luar Malaysia sejak berdekad-dekad berpaut pada satu perkataan yang mudah disebut tetapi sukar dijaga: berkecuali. Kementerian yang bertugas menjaga imbangan itu setiap hari ialah Wisma Putra.

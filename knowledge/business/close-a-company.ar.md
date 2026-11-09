@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "register-sdn-bhd" }
 related: ["strike-off-company-malaysia", "members-voluntary-winding-up", "creditors-voluntary-winding-up", "corporate-rescue-malaysia", "sell-business-malaysia", "register-sdn-bhd", "annual-return", "statutory-registers"]
 keywords: ["إغلاق شركة Sdn Bhd", "شطب شركة في ماليزيا", "تصفية شركة", "close sdn bhd", "strike off company Malaysia", "winding up company", "إلغاء تسجيل شركة SSM", "close company malaysia"]
+framework: decision
 ---
 
 التوقف عن التجارة ليس إغلاقًا لشركة. فشركة Sdn Bhd الصامتة لا تزال قائمة، ولا تزال

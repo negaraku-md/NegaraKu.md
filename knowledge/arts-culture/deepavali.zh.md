@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-malaysia" }
 related: ["religion-statistics", "public-holidays-malaysia", "batik"]
 keywords: ["deepavali malaysia", "festival of lights malaysia", "hindu festival malaysia", "deepavali public holiday", "deepavali sarawak", "hari deepavali", "diwali malaysia"]
+framework: history-culture
 ---
 
 这一晚，说话的是灯火。一排排小陶灯沿着门口与窗台摆放，门槛上铺着彩色米粒或粉末拼成的地板图案，一个小时前还漆黑一片的房子，如今被火光勾勒出轮廓。这正是这个节日名称的由来：*屠妖节（Deepavali）*一词源自梵文「一排或一系列灯火」。

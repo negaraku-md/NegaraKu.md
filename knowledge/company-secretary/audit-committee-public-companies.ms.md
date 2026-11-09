@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "appointing-an-auditor" }
 related: ["directors-duties", "appointing-an-auditor", "sdn-bhd-vs-berhad"]
 keywords: ["jawatankuasa audit malaysia", "keperluan penyenaraian bursa bab 15", "komposisi jawatankuasa audit malaysia", "pengarah bebas jawatankuasa audit", "mccg amalan 9", "fungsi audit dalaman syarikat tersenarai"]
+framework: rules
 ---
 
 Tanya kebanyakan pengarah Malaysia dari mana datangnya keperluan jawatankuasa audit, dan

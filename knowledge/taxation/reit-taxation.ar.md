@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["income-tax-act-1967", "lhdn"]
 keywords: ["ضريبة REIT ماليزيا", "صندوق الأمانة العقارية", "القسم 61A", "REIT tax Malaysia", "property trust fund", "section 61A", "withholding tax REIT", "YA 2026 REIT tax", "توزيع حامل الوحدة"]
+framework: explainer
 ---
 
 اشترِ وحدة في صندوق استثمار عقاري ماليزي، وستكون عمليًا مالك عقار لا يصله قطّ طلب

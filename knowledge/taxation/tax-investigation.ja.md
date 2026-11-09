@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "income-tax" }
 related: ["tax-audit"]
 keywords: ["siasatan cukai", "tax investigation", "LHDN", "Seksyen 114", "pengelakan cukai", "rangka kerja siasatan cukai", "audit cukai"]
+framework: explainer
 ---
 
 届いたLHDNからの書簡が、もはや裏付け書類の提出を求めるものではなく、あなたの処所が検査されることを通知するものであるなら、あなたはすでに監査と調査の境界線を越えている可能性がある。いずれも内国歳入庁（Lembaga Hasil Dalam Negeri、LHDN）が関わるものであるが、そのうち一方だけが刑事法廷での訴追につながり得る。

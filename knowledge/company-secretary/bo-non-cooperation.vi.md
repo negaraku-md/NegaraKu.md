@@ -62,6 +62,7 @@ relations:
   - { rel: "administered-by", to: "ssm" }
 related: ["beneficial-ownership", "bo-register", "who-is-a-beneficial-owner", "ebos-filing"]
 keywords: ["shareholder refuses beneficial ownership notice", "section 60C notice no reply", "senior management in place of beneficial owner", "BO non-compliance Malaysia"]
+framework: how-to
 ---
 
 Một cổ đông phớt lờ thông báo. Đồng hồ ghi chép 14 ngày đang chạy, tờ khai thường niên

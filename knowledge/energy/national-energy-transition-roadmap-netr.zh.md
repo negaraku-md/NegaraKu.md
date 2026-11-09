@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "energy-commission-malaysia" }
 related: ["petronas", "tenaga-nasional"]
 keywords: ["NETR", "National Energy Transition Roadmap", "Malaysia energy transition", "renewable energy Malaysia", "net zero 2050", "coal phase out Malaysia", "green hydrogen Malaysia", "CCUS Malaysia", "NETF seed fund", "ENEGEM"]
+framework: explainer
 ---
 
 在过去一个世纪的大部分时间里，马来西亚的经济故事都靠碳氢化合物驱动——海床下的石油、输往发电站的天然气，以及为维持电网廉价运行而进口的煤炭。国家能源转型路线图（NETR）正是要在2050年前改写这个故事的计划，它带来了具体的数字、有名有姓的项目，以及一个以万亿令吉计的价格标签。

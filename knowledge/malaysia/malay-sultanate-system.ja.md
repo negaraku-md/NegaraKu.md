@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "srivijaya" }
 related: ["melaka-sultanate", "langkasuka", "srivijaya", "independence-1957"]
 keywords: ["kesultanan Melayu", "sistem pembesar", "daulat", "waadat", "adat perpatih", "adat temenggung", "Bendahara", "Majlis Raja-Raja", "Yang di-Pertuan Agong", "raja berperlembagaan"]
+framework: explainer
 ---
 
 ファイルもなく、書式もなく、番号のついた部局もない国家を想像してほしい。命令は口伝えで下され、正義は王廷（balairung）で言い渡され、社会全体の秩序は、現代の言語には正確に訳しきれない一つの言葉——*daulat*——にかかっていた。それがマレー・スルタン国の世界である。数世紀にわたり、海岸と川筋に沿って幾千もの命を秩序づけてきた体系であり、その影は今日のマレーシア憲法にもなお見て取れる。

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "statutory-audit-requirement" }
 related: ["companies-act-2016", "malaysian-institute-of-accountants"]
 keywords: ["juruaudit syarikat diluluskan", "approved company auditor", "seksyen 263", "lesen audit Malaysia", "sijil amalan MIA", "Akauntan Negara"]
+framework: rules
 ---
 
 あなたは、正式な肩書きと会計学の学位、そして長年の経験を備えた勅許会計士になることができる——それでもなお、一社の監査報告書に単独で署名することは許されないかもしれない。マレーシアでは、会社を監査する権利は独立した、厳格に管理された免許であり、専門職の会員資格に自動的に付随するものではない。

@@ -113,6 +113,7 @@ relations:
   - { rel: "compares-with", to: "stamp-duty-self-assessment" }
 related: ["tax-audit", "tax-penalties", "tax-clearance", "stamp-duty-self-assessment", "rpgt-rates"]
 keywords: ["الطعن الضريبي ماليزيا", "استمارة Q LHDN", "borang Q rayuan", "المفوضون الخاصون لضريبة الدخل", "Pesuruhjaya Khas Cukai Pendapatan", "المادة 99 قانون ضريبة الدخل", "استمارة N تمديد المهلة", "Prosiding Resolusi Pertikaian", "tax appeal Malaysia"]
+framework: how-to
 ---
 
 الحقيقة الوحيدة التي تحسم معظم الطعون الضريبية الماليزية لا ترد في أحكام الطعن

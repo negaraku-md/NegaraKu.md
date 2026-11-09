@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "duitnow-qr" }
 related: ["pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["e-wallet Malaysia", "e-money", "Touch n Go eWallet", "Boost", "GrabPay", "ShopeePay", "BNM", "PIDM", "akaun amanah", "safeguarding"]
+framework: explainer
 ---
 
 Bạn bấm "thanh toán" tại quầy, số dư ví điện tử giảm vài ringgit, và giao dịch hoàn tất trong một giây. Nhưng thực sự số tiền RM200 mà bạn "nạp" sáng nay được giữ ở đâu — và điều gì xảy ra với nó nếu công ty đứng sau ứng dụng đó bất ngờ phá sản? Câu trả lời khác với điều xảy ra với tiền trong tài khoản ngân hàng của bạn, và sự khác biệt đó rất quan trọng.

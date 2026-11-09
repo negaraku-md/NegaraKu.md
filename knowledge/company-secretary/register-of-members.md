@@ -100,6 +100,7 @@ relations:
   - { rel: "related-to", to: "registered-office" }
 related: ["statutory-registers", "registered-office", "register-of-directors", "annual-return"]
 keywords: ["register of members Malaysia", "section 50 Companies Act 2016", "section 51 notification SSM", "daftar ahli syarikat", "share transfer register Sdn Bhd", "ROM lodgement 14 days"]
+framework: rules
 ---
 
 A shareholder waves a share certificate at a lawyer and says he owns 30% of the

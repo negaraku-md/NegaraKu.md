@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-vs-tax-invoice" }
 related: ["e-invoicing", "e-invoice-vs-tax-invoice", "consolidated-e-invoice", "myinvois-phases", "accounting-records-section-245"]
 keywords: ["rekod perakaunan e-Invois Malaysia", "tempoh penyimpanan MyInvois", "seksyen 245 e-Invois", "rekod seksyen 82 Akta Cukai Pendapatan", "rekod berkanun e-Invois Malaysia"]
+framework: explainer
 ---
 
 Kesalahpahaman paling lazim dalam fungsi keuangan Malaysia sekarang adalah anggapan

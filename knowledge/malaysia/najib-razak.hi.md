@@ -70,6 +70,7 @@ sources:
 
 related: ["1mdb-scandal", "prime-ministers-of-malaysia", "2018-change-of-government", "mahathir-mohamad", "anwar-ibrahim"]
 keywords: ["नजीब रज़ाक", "Najib Razak", "Mohd Najib Abdul Razak", "मलेशिया के छठे प्रधानमंत्री", "1MDB", "SRC International"]
+framework: profile
 ---
 
 > **मसौदा — संवेदनशील।** यह लेख एक तटस्थ, कार्य-प्रगति-पर सारांश है और इसकी

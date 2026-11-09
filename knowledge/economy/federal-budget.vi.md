@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["parliament", "federal-constitution", "gdp-overview", "sst-explained"]
 keywords: ["belanjawan persekutuan", "Akta Perbekalan", "Rang Undang-Undang Perbekalan", "peringkat jawatankuasa belanjawan", "kitaran belanjawan Malaysia", "Akta 850"]
+framework: explainer
 ---
 
 Ngày 31 tháng 12 năm 2025, Đạo luật Cấp phát 2026 được đăng công báo. Số tiền mà nó cấp phép: **RM229,080,812,700**.

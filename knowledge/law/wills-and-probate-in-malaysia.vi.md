@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "estate-planning-in-malaysia" }
 related: []
 keywords: ["wasiat", "probet", "pusaka", "Akta Pembahagian 1958", "Akta Wasiat 1959", "surat kuasa mentadbir", "bukan Islam"]
+framework: explainer
 ---
 
 Để lại tài sản mà không có di chúc không có nghĩa là gia đình bạn được tự do quyết định ai nhận gì. Ở Malaysia, một công thức pháp lý cứng nhắc sẽ tiếp quản — và nó có thể không khớp với ý nguyện của bạn. Đối với người ngoài Hồi giáo, ba đạo luật quyết định tất cả: Luật Di chúc (Wills Act 1959) (cách lập di chúc), Luật Chứng thực và Quản lý Di sản (Probate and Administration Act 1959) (cách di sản được quản lý), và Luật Phân chia (Distribution Act 1958) (ai thừa kế khi không có di chúc).

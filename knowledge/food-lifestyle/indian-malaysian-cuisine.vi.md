@@ -92,6 +92,7 @@ verificationNeeded:
   - "Việc kính ngữ 'mamak' có xuất phát cụ thể từ từ Tamil chỉ người cậu bên ngoại (maa-ma) hay không, và ghi chú rằng thuật ngữ này có thể mang nghĩa miệt thị — hãy xác nhận với một nguồn tiếng Tamil hoặc từ điển học."
   - "Ngày Brickfields chính thức được chỉ định là 'Little India' của Kuala Lumpur (các nguồn đưa ra cả 2009 lẫn 2010) và vị trí trước đó của Little India gần Jalan Masjid India — hãy xác nhận với nguồn của Tòa thị chính Kuala Lumpur (DBKL) hoặc cơ quan du lịch."
   - "Khu định cư buôn bán Chulia / Tamil-Hồi giáo thời kỳ đầu ở các cảng Eo biển (Penang, Melaka) với tư cách một cộng đồng riêng biệt so với lao động đồn điền về sau — hãy xác nhận với nguồn lịch sử Penang hoặc Eo biển, vì các mục bách khoa toàn thư phổ thông gộp cả hai lại với nhau."
+framework: history-culture
 ---
 
 Hãy hỏi "món ăn Ấn Độ" nghĩa là gì ở Malaysia và bạn sẽ nhận được vài câu trả lời

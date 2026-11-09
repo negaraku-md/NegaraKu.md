@@ -81,6 +81,7 @@ relations:
   - { rel: "requires", to: "special-resolution" }
 related: ["companies-act-2016", "company-limited-by-guarantee-malaysia"]
 keywords: ["estatuto de la empresa", "perlembagaan syarikat", "company constitution", "resolución especial", "sección 32", "sección 36", "entrenchment", "Companies Act 2016", "Akta Syarikat 2016", "SSM"]
+framework: how-to
 ---
 
 Una Sdn Bhd puede operar durante años sin un solo documento titulado «estatuto» — y eso es enteramente lícito bajo la ley malasia. La Companies Act 2016 hizo que el estatuto fuera opcional para la mayoría de las empresas, un cambio importante respecto de la era del Memorándum y los Estatutos de Asociación (M&A) obligatorios. La pregunta ya no es «qué debe contener nuestro estatuto», sino «¿necesitamos uno en absoluto, y si es así, cómo lo adoptamos, lo enmendamos o lo blindamos?».

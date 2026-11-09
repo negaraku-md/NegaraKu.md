@@ -108,6 +108,7 @@ relations:
   - { rel: "governs", to: "personal-data-protection-act-2010" }
 related: ["pdpa-compliance-malaysia", "data-protection-officer-malaysia"]
 keywords: ["data breach notification malaysia", "72 hours pdpa", "section 12b pdpa", "significant harm pdpa", "report data breach malaysia"]
+framework: rules
 ---
 
 Les 72 heures ne figurent pas dans la Loi.

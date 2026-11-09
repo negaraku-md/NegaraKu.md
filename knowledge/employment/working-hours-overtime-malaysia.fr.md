@@ -89,6 +89,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage", "minimum-wage-malaysia"]
 keywords: ["paiement heures supplémentaires malaisie", "taux heures supplémentaires malaisie", "semaine de 45 heures malaisie", "paiement jour de repos malaisie", "paiement jour férié malaisie", "overtime pay malaysia", "104 hours overtime"]
+framework: rules
 ---
 
 La plupart des guides sur les heures supplémentaires s'arrêtent à « 1.5× ordinaire, 2× jour de repos, 3× jour férié ». Ce raccourci est erroné pour le jour de repos et le jour férié, et il laisse de côté ce pour quoi les inspecteurs du travail émettent réellement des avis : **le délai pour les payer.**

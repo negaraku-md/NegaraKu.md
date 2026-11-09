@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "consumer-protection-act" }
 related: ["sedition-act", "consumer-protection-act"]
 keywords: ["censure des films", "Commission de censure des films", "LPF", "classification des films", "P12", "P13", "Film Censorship Act 2002", "licence de divertissement", "karaoké", "cinéma", "DBKL", "autorité locale", "film classification Malaysia"]
+framework: explainer
 ---
 
 Un film qui devient viral sur YouTube peut ne jamais passer par la Commission de censure des films — mais le même film, s'il doit être projeté dans une salle de cinéma, doit d'abord obtenir son sceau d'approbation. Cette différence n'est pas une faille accidentelle ; elle est inscrite dans la manière dont le droit malaisien contrôle ce que le public peut voir.

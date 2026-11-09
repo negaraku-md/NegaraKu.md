@@ -62,6 +62,7 @@ relations:
   - { rel: "administered-by", to: "ssm" }
 related: ["beneficial-ownership", "bo-register", "who-is-a-beneficial-owner", "ebos-filing"]
 keywords: ["shareholder refuses beneficial ownership notice", "section 60C notice no reply", "senior management in place of beneficial owner", "BO non-compliance Malaysia"]
+framework: how-to
 ---
 
 ஒரு பங்குதாரர் அறிவிப்பைப் புறக்கணிக்கிறார். 14 நாள் பதிவு செய்யும் காலக்கெடு

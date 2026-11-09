@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "wisma-putra" }
 related: []
 keywords: ["Malaysia China relations", "largest trading partner", "South China Sea", "comprehensive strategic partnership", "1974 diplomatic relations", "Wisma Putra", "nine-dash line"]
+framework: explainer
 ---
 
 1974 में, जब दक्षिण-पूर्व एशिया का अधिकांश हिस्सा अब भी बीजिंग को शीत युद्ध की आशंका से देखता था, मलेशिया के प्रधानमंत्री तुन अब्दुल रज़ाक चीन उड़ गए और माओ ज़ेदोंग से हाथ मिलाया। उस यात्रा ने मलेशिया को जनवादी गणराज्य चीन के साथ राजनयिक संबंध खोलने वाला पहला आसियान देश बनाया — और एक ऐसे संबंध के लिए नमूना तय किया जो आज मलेशिया का सबसे अधिक आर्थिक रूप से परिणामी और, अपने किनारों पर, प्रबंधित करने में सबसे नाज़ुक है।

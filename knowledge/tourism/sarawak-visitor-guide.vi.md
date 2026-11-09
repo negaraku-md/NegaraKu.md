@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "sabah-visitor-guide" }
 related: ["sabah-visitor-guide"]
 keywords: ["Sarawak travel", "Sarawak immigration", "Kuching guide", "Gunung Mulu National Park", "Iban longhouse", "Bidayuh longhouse", "Sarawak entry pass", "Borneo travel"]
+framework: explainer
 ---
 
 Bạn có thể bay từ Kuala Lumpur đến Kuching trong chưa đầy hai giờ, không hề rời khỏi đất nước của mình, và vẫn được đóng dấu qua di trú ở đầu bên kia. Điều bất ngờ ở sảnh đến đó là điều quan trọng nhất cần hiểu về Sarawak: đó là một bang Malaysia vận hành biên giới riêng của mình.

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "mbrs-xbrl-filing" }
 related: ["companies-act-2016"]
 keywords: ["MFRS 10", "consolidated financial statements", "control", "subsidiary", "holding company", "Companies Act 2016", "MBRS", "group accounts", "Malaysia"]
+framework: explainer
 ---
 
 Beli pegangan mengawal dalam syarikat lain dan anda bukan sekadar menambah satu butiran ke dalam kunci kira-kira anda — anda telah mewujudkan sebuah kumpulan yang, di sisi peraturan perakaunan Malaysia, mesti dilayan sebagai satu entiti. Itulah daya senyap di sebalik MFRS 10 *Penyata Kewangan Disatukan*: saat sesebuah syarikat mengawal syarikat yang lain, kedua-duanya mesti melapor kepada dunia luar sebagai satu.

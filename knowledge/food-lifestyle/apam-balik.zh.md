@@ -88,6 +88,7 @@ verificationNeeded:
   - "Apam balik 与印尼 martabak manis／terang bulan 之间的确切关系（究竟它们严格来说是同一道菜，还是各自独立的地区发展）——请以可靠的厨艺参考资料核实。"
   - "各地区名称（ban jian kueh、min chiang kueh、hok lo pan、kuih haji、apom balek 等）传播以及对应到特定社群与方言的确切情形——请以语言学或文化遗产来源核实；美食媒体中的名称归属并不一致。"
   - "薄脆版是否普遍等同于 ban jian kueh／min chiang kueh，还是一种相关但有别的小食——各来源有重叠但不一致；请以本地文化遗产来源核实。"
+framework: explainer
 ---
 
 傍晚时分走过马来西亚几乎任何一个[夜市](/zh/food-lifestyle/pasar-malam-and-street-food)，

@@ -88,6 +88,7 @@ relations:
   - { rel: "compares-with", to: "bahasa-melayu" }
 related: ["population-composition", "article-152-language", "bahasa-melayu", "languages-spoken", "federal-constitution"]
 keywords: ["Tamil in Malaysia", "SJKT", "Sekolah Jenis Kebangsaan Tamil", "Tamil schools Malaysia", "Malaysian Indians", "Article 152", "Tamil medium instruction", "vernacular schools"]
+framework: explainer
 ---
 
 在马来亚旧日的橡胶种植园里，最早的一些课堂设于工棚与茅屋之中，授课语言正是淡米尔文。根据马来西亚历史学会期刊上发表的一项历史研究，早在二十世纪初，种植园便依据当时的劳工法典，提供淡米尔文基础小学教育，而且在很长一段时间里，授课者是文员与兼职人员，而非受过训练的教师。

@@ -104,6 +104,7 @@ relations:
   - { rel: "affects", to: "transfer-pricing-documentation" }
 related: ["transfer-pricing-documentation", "form-c-and-cp204", "withholding-tax-non-compliance"]
 keywords: ["التدقيق الضريبي LHDN", "audit cukai LHDN", "إطار التدقيق الضريبي ماليزيا", "الإفصاح الطوعي LHDN", "غرامة التدقيق الضريبي", "rangka kerja audit cukai", "tax audit Malaysia"]
+framework: explainer
 ---
 
 يصف معظم إرشادات التدقيق الضريبي الماليزي **تدقيقًا مكتبيًّا** و**تدقيقًا

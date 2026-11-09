@@ -71,6 +71,7 @@ sources:
 
 related: ["wawasan-2020", "ops-lalang-1987", "1998-reformasi", "new-economic-policy", "2018-change-of-government"]
 keywords: ["مهاتير محمد", "Mahathir Mohamad", "تون مهاتير", "Tun Mahathir", "رئيس الوزراء الرابع ماليزيا", "fourth prime minister Malaysia", "رؤية 2020", "Vision 2020", "Wawasan 2020"]
+framework: profile
 ---
 
 مهاتير محمد (وُلد في 10 يوليو 1925) هو رئيس وزراء ماليزيا الأطول خدمةً وأحد

@@ -122,6 +122,7 @@ relations:
   - { rel: "related-to", to: "company-tax-calendar" }
 related: ["corporate-tax-rates", "sdn-bhd-filing-calendar", "lhdn", "income-tax-act-1967"]
 keywords: ["CP204", "CP204A", "Formulaire C Malaisie", "Form C Malaysia", "pénalité de sous-estimation", "underestimation penalty", "section 107C", "estimation impôt sociétés", "anggaran cukai syarikat"]
+framework: how-to
 ---
 
 La partie coûteuse de l'impôt des sociétés malaisien n'est pas le taux. C'est la

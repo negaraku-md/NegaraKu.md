@@ -80,6 +80,7 @@ relations:
   - { rel: "affects", to: "bumiputera-equity-requirements" }
 related: ["external-trade", "matrade", "anti-dumping-countervailing-duties", "bumiputera-equity-requirements"]
 keywords: ["CPTPP Malaysia", "Trans-Pacific Partnership Malaysia", "CPTPP ratification", "CPTPP certificate of origin", "CPTPP tariff elimination", "CPTPP members", "Malaysia free trade agreement"]
+framework: explainer
 ---
 
 밴쿠버로 수출하는 말레이시아 제과 수출업체는 CPTPP가 발효된 날 15%의 수입 관세를 더 이상 내지 않게 되었습니다 — 그리고 그 하나의 관세 항목은 말레이시아가 지금껏 체결한 가장 폭넓은 무역 협정 중 하나를 들여다보는 작은 창입니다. 포괄적·점진적 환태평양 동반자협정은 말레이시아의 상품, 서비스, 투자가 태평양 양쪽의 십여 개 경제권을 넘나드는 방식을 새로 짭니다. 또한 그것은 말레이시아를 세관 창구를 훨씬 넘어서는 규정 — 국영기업이 어떻게 경쟁하는지, 지식재산이 어떻게 집행되는지, 외국인 투자자와의 분쟁이 어떻게 해결되는지에까지 이르는 규정 — 에 구속시킵니다.

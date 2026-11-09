@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-digital-services", "withholding-tax-non-compliance"]
 keywords: ["CP37", "CP37A", "CP37D", "CP37DS", "CP37S", "withholding tax form Malaysia", "LHDN withholding tax payment form"]
+framework: data-reference
 ---
 
 Nobody chooses a withholding tax form from a description of the payment. You

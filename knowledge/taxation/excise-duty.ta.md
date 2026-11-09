@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "import-duty" }
 related: ["sales-and-service-tax"]
 keywords: ["duti eksais", "excise duty", "Akta Eksais 1976", "cukai kereta", "duti eksais rokok", "cukai gula", "minuman bergula", "JKDM", "kastam"]
+framework: explainer
 ---
 
 மலேசியாவில் ஒரு காரை வாங்குங்கள் — நீங்கள் செலுத்தும் வரி அந்தக் காரின் விலைக்கு கிட்டத்தட்ட சமமாக இருக்கக்கூடும். இதற்கு முக்கியக் காரணம், அரிதாகவே பேசப்படும் ஆனால் மிகவும் சக்திவாய்ந்த ஒரு வரி: **கலால் வரி (excise duty)**.

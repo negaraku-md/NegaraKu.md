@@ -81,6 +81,7 @@ relations:
   - { rel: "requires", to: "special-resolution" }
 related: ["companies-act-2016", "company-limited-by-guarantee-malaysia"]
 keywords: ["perlembagaan syarikat", "company constitution", "resolusi khas", "seksyen 32", "seksyen 36", "entrenchment", "Akta Syarikat 2016", "SSM"]
+framework: how-to
 ---
 
 一家Sdn Bhd可以运作多年而没有任何一份名为「章程」的文件——在马来西亚法律下这完全合法。《2016年公司法》令章程对大多数公司而言成为可选项，这与从前组织章程大纲及细则（M&A）为强制要求的年代相比是一大转变。问题不再是「我们的章程里必须有什么」，而是「我们是否需要一份，若需要，如何采纳、修订或将其锁定？」

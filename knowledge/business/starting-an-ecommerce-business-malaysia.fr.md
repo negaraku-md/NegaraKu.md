@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-vs-tax-invoice" }
 related: ["online-business-licence-malaysia"]
 keywords: ["lancer entreprise en ligne malaisie", "entreprise de commerce électronique malaisie", "vendre en ligne malaisie enregistrement", "SSM entreprise en ligne", "taxe biens de faible valeur malaisie", "règles sur les transactions commerciales électroniques", "facture électronique petite entreprise malaisie"]
+framework: how-to
 ---
 
 Le commerce électronique semble informel — vous pouvez être en train de vendre sur un marketplace à l'heure du dîner — ce qui trompe beaucoup de gens en leur faisant croire que les règles ne s'appliquent pas. Elles s'appliquent. La Malaisie traite un vendeur en ligne comme toute autre entreprise : vous devez vous enregistrer, divulguer qui vous êtes, protéger les données des clients et payer le bon impôt. Les règles ont aussi changé récemment, de sorte que même les vendeurs qui se sont établis il y a quelques années peuvent fonctionner avec des informations périmées.

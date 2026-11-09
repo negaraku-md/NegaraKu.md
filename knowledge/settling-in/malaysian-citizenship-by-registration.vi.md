@@ -84,6 +84,7 @@ relations:
   - { rel: "compares-with", to: "malaysian-citizenship-by-naturalisation" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["kewarganegaraan", "pendaftaran", "Perkara 15", "pasangan asing", "Perlembagaan Persekutuan", "JPN", "warganegara Malaysia"]
+framework: explainer
 ---
 
 Kết hôn với một công dân Malaysia không tự nó biến một người thành công dân. Đối với người vợ/chồng nước ngoài và đối với con của một công dân, lối đi thường được nhắc đến là "đăng ký" — một trong những cách có được quốc tịch được liệt kê trong Phần III của Hiến pháp Liên bang. Trang này giải thích khung pháp lý đó một cách trung lập và mô tả; nó không phải là lời khuyên pháp lý.

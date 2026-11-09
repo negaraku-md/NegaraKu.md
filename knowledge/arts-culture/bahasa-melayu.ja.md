@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: ["federal-constitution", "melaka-sultanate", "independence-1957"]
 keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Kebangsaan 1963/67", "tulisan Jawi Rumi", "Ejaan Rumi Baharu 1972"]
+framework: explainer
 ---
 
 トレンガヌ州クアラ・ブランで、マレー語の言葉が刻まれた一枚の石碑が発見された——今日わたしたちが見慣れている文字ではなく、マレー語の音に合わせて調整されたアラビア文字によってである。マレーシア国家公文書館（Arkib Negara Malaysia）によれば、この碑文の年代は西暦1303年である。

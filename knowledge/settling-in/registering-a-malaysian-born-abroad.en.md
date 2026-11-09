@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "applying-for-malaysian-citizenship-article-15" }
 related: []
 keywords: ["kewarganegaraan keturunan", "Perkara 14(1)(b)", "Borang D", "lahir luar negara", "JPN", "Jadual Kedua", "pindaan perlembagaan 2024", "Perkara 15(2)"]
+framework: explainer
 ---
 
 A baby is born in a London hospital to a Malaysian couple posted there. The local birth certificate states that the baby was born in the United Kingdom, yet under Malaysian law the child may already be a citizen — provided the status is properly recorded. How that status is confirmed, and who qualifies, are questions that touch on fundamental provisions of the Federal Constitution.

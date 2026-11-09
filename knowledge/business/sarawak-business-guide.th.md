@@ -112,6 +112,7 @@ keywords:
   - "Sarawak Land Code Cap 81"
   - "Samalaju Industrial Park"
   - "perniagaan di Sarawak"
+framework: explainer
 ---
 
 เริ่มด้วยตัวเลขที่บอกคุณว่านี่เป็นสถานที่แบบใด ซาราวักใช้**ชุดการจัดเลข Chapter คู่ขนานสองชุด** และ

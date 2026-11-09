@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "department-of-environment-doe" }
 related: ["department-of-environment-doe", "malaysias-rainforests-and-permanent-forest-reserves"]
 keywords: ["Malaysia NDC 3.0", "net zero 2050 Malaysia", "Climate Change Act Malaysia", "National Climate Change Policy 2.0", "Paris Agreement Malaysia", "emissions trading scheme", "carbon tax Malaysia", "NRES", "UNFCCC"]
+framework: explainer
 ---
 
 近十年来，马来西亚以一种几乎没有公民能切身感受到的方式来衡量其气候承诺：单位GDP排放量。2025年10月，这一切发生了改变。该国向联合国表示，将从其排放达峰的水平上削减固定吨位的温室气体——1500万至3000万吨。这是马来西亚首次拿出一个绝对数字，它围绕一个核心问题重新构建了该国气候架构的其他各个部分：一个快速增长、生产石油天然气的发展中经济体，如何在不使经济停滞的情况下让排放曲线向下弯折？

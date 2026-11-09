@@ -93,6 +93,7 @@ relations:
   - { rel: "part-of", to: "malaysia-agreement-1963" }
 related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
 keywords: ["Sabah travel guide", "Kota Kinabalu", "Mount Kinabalu climb permit", "Kinabalu Park UNESCO", "Sipadan diving permit", "Sepilok orangutan", "Sabah immigration checkpoint", "Sabah entry requirements"]
+framework: explainer
 ---
 
 Bạn có thể bay từ Kuala Lumpur đến Kota Kinabalu mà không rời khỏi đất nước và vẫn xếp hàng tại một quầy di trú khi hạ cánh. Điều bất ngờ đó khiến nhiều du khách lần đầu bối rối — và đó là điều quan trọng nhất cần hiểu trước khi bạn lên kế hoạch cho chuyến đi đến Sabah. Cẩm nang này đi qua cửa ngõ, các điểm thu hút hàng đầu, và các quy định nhập cảnh khiến Sabah cảm thấy như một nơi riêng của nó, bởi vì theo một nghĩa rất thực, nó đúng là như vậy.

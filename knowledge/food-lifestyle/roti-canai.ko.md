@@ -99,6 +99,7 @@ social:
     - "Mamak"
     - "MalaysianFood"
     - "NegaraKuMD"
+framework: explainer
 ---
 
 뜨거운 강철 철판에 반죽을 철썩철썩 치고 펄럭이는 소리만큼 말레이시아의 아침에 꼭 어울리는 소리는

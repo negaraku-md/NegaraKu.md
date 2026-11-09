@@ -98,6 +98,7 @@ relations:
   - { rel: "explained-in", to: "epf-foreign-workers-malaysia" }
 related: ["payroll-compliance-malaysia", "epf-foreign-workers-malaysia", "socso-eis-employer-guide"]
 keywords: ["معدل اشتراك EPF ماليزيا", "EPF Third Schedule", "اشتراك صاحب العمل KWSP", "EPF 13 في المئة 12 في المئة", "EPF contribution rate Malaysia"]
+framework: rules
 ---
 
 اسأل أيَّ مديرِ رواتبٍ ماليزيٍّ عن معدّل EPF لصاحب العمل، وسيُجيبك بـ 13 في المئة.

@@ -106,6 +106,7 @@ keywords:
   - "DBP Sah Bahasa"
   - "Bahasa Malaysia signboard rule"
   - "signboard licence fee DBKL"
+framework: rules
 ---
 
 பெரும்பாலான வழிகாட்டிகள் கோலாலம்பூர் தான் [தேசிய மொழி நிறுவனம் (Dewan Bahasa dan Pustaka)](/ta/arts-culture/dewan-bahasa-dan-pustaka) உங்கள் விளம்பரப் பலகை

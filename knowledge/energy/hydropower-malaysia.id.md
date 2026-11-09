@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "score-sarawak" }
 related: ["tenaga-nasional"]
 keywords: ["hidrokuasa", "empangan Bakun", "Murum", "Baleh", "Kenyir", "Temengor", "Sarawak Energy", "tenaga boleh baharu", "hydropower Malaysia"]
+framework: explainer
 ---
 
 Air yang mengalir turun dari pegunungan hujan Borneo kini memutar turbin yang memasok pabrik aluminium — dan itulah inti strategi energi terbarukan Malaysia. Namun jalan menuju ke sana ditandai bendungan mega, danau seluas ratusan kilometer persegi, dan ribuan keluarga adat yang terpaksa berpindah.

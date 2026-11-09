@@ -98,6 +98,7 @@ verificationNeeded:
   - "Porsi pasti Kedah dari total produksi beras nasional Malaysia — sumber memberikan sekitar 40%, kira-kira 43%, dan hampir separuh, sementara satu angka akademis berbasis MADA menempatkan kawasan Muda di sekitar 38,9%. Konfirmasikan dengan data primer MADA atau Departemen Statistik Malaysia untuk tahun tertentu."
   - "Seberapa jauh laksa Kedah / laksa utara benar-benar menyimpang dari asam laksa Penang — sebagian sumber menganggap perbedaannya terutama pada pelengkap (mis. tambahan telur rebus), sebagian lain pada kuah yang lebih kental dan rasa yang lebih lembut serta kurang asam — dan ikan mana yang baku (ikan kembung vs varian ikan termenung). Konfirmasikan dengan sumber kuliner atau warisan Kedah."
   - "Bobot relatif pengaruh Thailand Selatan dibanding Sumatra terhadap masakan Melayu Kedah, dan apakah budu benar-benar bagian dari meja makan Kedah — budu paling kuat dikaitkan dengan pantai timur (Kelantan/Terengganu), sementara Kedah bersandar pada pekasam. Konfirmasikan dengan sumber sejarah makanan daerah."
+framework: history-culture
 ---
 
 Berkendara ke utara menyusuri Semenanjung, daratan memipih menjadi lembar hijau dan keemasan

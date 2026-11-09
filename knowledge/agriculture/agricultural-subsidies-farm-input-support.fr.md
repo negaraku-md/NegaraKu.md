@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
 related: []
 keywords: ["subvention d'engrais pour le riz", "SBPKP", "SIPP", "incitation à la production de riz", "subventions agricoles", "aide aux intrants pour agriculteurs"]
+framework: explainer
 ---
 
 Le sac d'engrais qu'un riziculteur charge sur son épaule vers le champ ce

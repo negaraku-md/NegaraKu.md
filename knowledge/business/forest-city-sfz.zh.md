@@ -106,6 +106,7 @@ keywords:
   - "Forest City SFZ tax"
   - "Pulau 1 Forest City"
   - "zon kewangan khas Forest City"
+framework: explainer
 ---
 
 两个计划坐落在柔佛同一段海岸线上，而几乎每一份关于它们的摘要都把两者混为一谈。结果就是

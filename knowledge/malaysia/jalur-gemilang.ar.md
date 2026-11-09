@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "negaraku-anthem" }
 related: ["formation-of-malaysia-1963", "independence-1957", "negaraku-anthem"]
 keywords: ["Jalur Gemilang", "جالور جميلانغ", "علم ماليزيا", "Malaysian flag", "14 شريطًا", "النجمة ذات 14 رأسًا", "الهلال", "Mohamed bin Hamzah", "معنى ألوان العلم الماليزي"]
+framework: history-culture
 ---
 
 # جالور جميلانغ: لماذا 14 شريطًا مقابل 13 ولاية

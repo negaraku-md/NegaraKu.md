@@ -106,6 +106,7 @@ keywords:
   - "DBP Sah Bahasa"
   - "Bahasa Malaysia signboard rule"
   - "signboard licence fee DBKL"
+framework: rules
 ---
 
 대부분의 안내는 쿠알라룸푸르가 [국립언어원(Dewan Bahasa dan Pustaka)](/arts-culture/dewan-bahasa-dan-pustaka)이 간판 문구를 승인해야 하는

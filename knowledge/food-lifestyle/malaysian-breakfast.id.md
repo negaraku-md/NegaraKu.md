@@ -93,6 +93,7 @@ verificationNeeded:
   - "Etimologi 'roti canai' masih diperdebatkan (satu versi menelusurinya ke Chennai/Madras, versi lain ke kata Melayu 'canai' yang berarti memipihkan atau menggilas adonan); pastikan dengan sumber linguistik atau leksikografis, bukan media kuliner."
   - "Versi populer bahwa teh tarik muncul dari budaya gerai Muslim-India pada masa pascaperang tidak terdokumentasikan dengan kuat; pastikan asal-usul dan garis waktu minuman ini dengan sumber sejarah."
   - "Pengaitan tradisi kopitiam dengan juru masak Tionghoa keturunan Hainan dan klaim bahwa kaya toast dengan telur setengah matang adalah sarapan khasnya perlu dipastikan dengan sumber kuliner atau warisan Malaysia, karena sebagian sejarah ini dibagi dan diperdebatkan dengan Singapura."
+framework: history-culture
 ---
 
 Tanyakan apa yang disantap orang Malaysia untuk sarapan dan jawaban yang jujur

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "property-real-property-gains-tax-rpgt" }
 related: []
 keywords: ["faraid", "harta pusaka", "Akta Pembahagian 1958", "Amanah Raya", "sijil faraid", "pewarisan hartanah", "harta pusaka kecil", "Pejabat Tanah"]
+framework: explainer
 ---
 
 When someone dies in Malaysia, who inherits their house depends first on one fundamental matter: whether the deceased was a Muslim or a non-Muslim. Two different legal systems govern the answer, and both run through different authorities before any land title can change name.

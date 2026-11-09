@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016"]
 keywords: ["MFRS 124", "pihak berkaitan", "akaun semasa pengarah", "pinjaman pengarah", "MBRS", "IAS 24", "penyata kewangan"]
+framework: explainer
 ---
 
 Dalam kebanyakan Sdn Bhd milik keluarga di Malaysia, wang bergerak masuk dan keluar tanpa banyak kertas kerja: bapa menyuntik tunai apabila aliran ketat, seorang anak mengambil pendahuluan untuk perkara peribadi, dan sebuah syarikat berkaitan menyelesaikan bil untuk yang lain. Semua itu berkumpul dalam satu baris yang senyap pada kunci kira-kira — "akaun semasa pengarah" — dan baris inilah yang paling kerap tersandung apabila juruaudit tiba dan apabila penyata kewangan ditag untuk SSM.

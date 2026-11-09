@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "statutory-registers" }
 related: ["directors-duties", "statutory-registers", "register-of-members", "directors-report", "disclosure-of-interest"]
 keywords: ["section 219 Companies Act 2016", "director shareholding notification Malaysia", "register of directors shareholdings", "section 59 register Malaysia", "notis kepentingan saham pengarah", "director interest in shares 14 days"]
+framework: rules
 ---
 
 ஒரு மலேசிய இயக்குநரிடம், அவர் தன் சொந்தப் பங்கு உடைமை குறித்து நிறுவனத்திற்குக்

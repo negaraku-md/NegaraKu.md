@@ -82,6 +82,7 @@ relations:
   - { rel: "part-of", to: "statutory-audit-process" }
 related: ["audit-opinion-types", "emphasis-of-matter-kam", "going-concern-audit", "statutory-audit-process", "appointing-an-auditor", "financial-statements-lodgement"]
 keywords: ["लेखा परीक्षक रिपोर्ट मलेशिया", "स्वतंत्र लेखा परीक्षक रिपोर्ट के खंड", "AF संख्या लेखा परीक्षा फर्म मलेशिया", "लेखा परीक्षा भागीदार अनुमोदन संख्या", "धारा 266 सदस्यों को रिपोर्ट", "लेखा परीक्षा रिपोर्ट कैसे पढ़ें", "auditors report Malaysia", "how to read an audit report"]
+framework: explainer
 ---
 
 एक मलेशियाई लेखा परीक्षक रिपोर्ट एक निश्चित-प्रारूप दस्तावेज़ है। MIA दृष्टांत प्रकाशित करता है — MFRS ढाँचे के लिए AAPG 1, MPERS के लिए AAPG 2, दोनों कंपनी अधिनियम 2016 के साथ पढ़े जाते हैं — और फर्में उनका निकटता से पालन करती हैं। यह समुचित जाँच को तेज़ बनाता है, क्योंकि जो कुछ भी अपनी जगह से बाहर हो वह दिखाई देता है।

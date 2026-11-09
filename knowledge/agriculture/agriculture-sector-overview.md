@@ -102,6 +102,7 @@ relations:
   - { rel: "part-of", to: "gdp-overview" }
 related: ["palm-oil-sector", "rubber", "gdp-overview"]
 keywords: ["sektor pertanian Malaysia", "agromakanan Malaysia", "Dasar Agromakanan Negara", "kadar sara diri makanan", "KPKM", "KPK", "minyak sawit padi getah", "keterjaminan makanan Malaysia"]
+framework: profile
 ---
 
 Pada 2024, Malaysia mengeluarkan lebih 100 juta tan buah tandan segar sawit — kira-kira 100.2 juta tan menurut Jabatan Perangkaan Malaysia (DOSM) — cukup untuk mengekalkan kedudukannya antara dua pengeluar minyak sawit terbesar dunia. Pada tahun yang sama, negara ini mengimport hampir separuh daripada beras yang dimakan rakyatnya.

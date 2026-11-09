@@ -63,6 +63,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["religion-statistics", "article-3-religion", "kuala-lumpur"]
 keywords: ["Wesak Day Malaysia", "يوم ويساك ماليزيا", "عيد ويساك", "Vesak Day Malaysia", "Hari Wesak 2026", "تاريخ ويساك ماليزيا", "عطلة البوذيين الرسمية ماليزيا", "Buddhist public holiday Malaysia", "موكب ويساك كوالالمبور", "عيد ميلاد بوذا ماليزيا"]
+framework: history-culture
 ---
 
 اسأل متى يقع يوم ويساك، فلا جواب ثابت — إنه يتحرّك. ففي 2026 يقع في 31 مايو، وفي 2027 في 20 مايو، وفي 2028 في 9 مايو. والسبب بسيط: ويساك يحدّده القمر لا تاريخ التقويم، والتقويمان القمري والميلادي ينحرف أحدهما عن الآخر كل عام.

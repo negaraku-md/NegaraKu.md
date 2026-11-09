@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016"]
 keywords: ["Section 17A", "MACC Act", "corporate liability", "adequate procedures", "T.R.U.S.T.", "anti-corruption Malaysia", "corporate bribery", "GIACC"]
+framework: rules
 ---
 
 एक कनिष्ठ विक्रय एजेंट कोई ठेका जीतने के लिए कमीशन के रूप में रिश्वत देता है, और बोर्ड को कभी नहीं बताता। 2020 से मलेशियाई कानून के तहत, वह कृत्य स्वयं कंपनी को अभियोजन के दायरे में ला सकता है — और उसके साथ निदेशकों को भी। यही मलेशियाई भ्रष्टाचार-रोधी आयोग अधिनियम 2009 की धारा 17A की पहुँच है।

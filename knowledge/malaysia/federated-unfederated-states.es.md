@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "nine-royal-houses" }
 related: ["straits-settlements", "malayan-union", "nine-royal-houses", "malay-sultanate-system"]
 keywords: ["Estados Malayos Federados", "Estados Malayos No Federados", "sistema de Residentes británicos", "sistema de Asesores británicos", "Tratado de Pangkor 1874", "Residente General Kuala Lumpur", "Tratado Anglo-Siamés 1909", "Asesor General de Johor", "Gobernantes Malayos protección británica", "Malaya colonial"]
+framework: explainer
 ---
 
 Nueve estados malayos, una sola potencia imperial — y, sin embargo, no un solo arreglo, sino dos. Esa división es lo que la mayoría de los resúmenes de la Malaya colonial pasan por alto, y es el objeto entero de este artículo.

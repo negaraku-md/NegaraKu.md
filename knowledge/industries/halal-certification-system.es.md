@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "trade-descriptions-act-2011" }
 related: ["jakim"]
 keywords: ["pensijilan halal Malaysia", "SPHM", "JAKIM halal", "MYeHALAL", "MS 1500", "logo halal Malaysia", "sijil halal", "e-Cert halal", "Manual Prosedur Pensijilan Halal Malaysia", "skim pensijilan halal"]
+framework: how-to
 ---
 
 El logotipo halal de estrella de ocho puntas con escritura árabe en su centro está entre las marcas más reconocibles de las estanterías de los supermercados malasios — y solo una parte en todo el país tiene derecho a colocarlo allí. Ni el fabricante del producto, ni un asesor privado, ni ningún organismo de certificación internacional, sino el propio gobierno, a través de JAKIM y sus homólogos a nivel estatal.

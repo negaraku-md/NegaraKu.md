@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "income-tax" }
 related: ["tax-audit"]
 keywords: ["siasatan cukai", "tax investigation", "LHDN", "Seksyen 114", "pengelakan cukai", "rangka kerja siasatan cukai", "audit cukai"]
+framework: explainer
 ---
 
 当 LHDN 寄来的信件不再是索取佐证文件，而是通知你的处所将被检查时，你可能已经跨过了审计与调查之间的那条界线。两者都涉及内陆税收局（Lembaga Hasil Dalam Negeri，LHDN），但只有其中一项可能把你带上刑事法庭受审。

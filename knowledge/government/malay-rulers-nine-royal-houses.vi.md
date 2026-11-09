@@ -85,6 +85,7 @@ relations:
   - { rel: "explained-in", to: "federal-constitution-malaysia" }
 related: ["yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["raja melayu", "sultan", "yang di-pertuan besar", "raja perlis", "pewarisan takhta", "raja berperlembagaan", "adat perpatih", "perlembagaan negeri", "majlis raja-raja"]
+framework: explainer
 ---
 
 Đằng sau một Liên bang, Malaysia lưu giữ chín ngai vàng còn lâu đời hơn cả chính quốc gia. Mỗi ngai vàng có cung điện, phong tục kế vị và hiến pháp bang riêng, và mỗi Quốc vương trị vì bang của mình với tư cách quốc vương lập hiến — không phải với tư cách người cai trị tuyệt đối.

@@ -111,6 +111,7 @@ relations:
   - { rel: "related-to", to: "losses-and-group-relief" }
 related: ["income-tax-in-malaysia", "form-c-and-cp204", "company-tax-residence", "losses-and-group-relief"]
 keywords: ["Malaysia corporate tax rate", "SME tax rate Malaysia", "kadar cukai syarikat", "corporate tax 2026", "cukai pendapatan syarikat"]
+framework: rules
 ---
 
 大多数指南告诉你 SME 税率从 15% 起跳，然后就没有下文了。有意思的问题不是税率——

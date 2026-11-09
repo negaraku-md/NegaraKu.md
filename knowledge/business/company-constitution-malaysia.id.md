@@ -105,6 +105,7 @@ keywords:
   - "seksyen 31 Akta Syarikat 2016"
   - "adakah saya perlu perlembagaan Sdn Bhd"
   - "M&A digantikan dengan perlembagaan"
+framework: explainer
 ---
 
 Akta Syarikat 2016 menjadikan konstitusi perusahaan sebagai pilihan, dan seluruh industri

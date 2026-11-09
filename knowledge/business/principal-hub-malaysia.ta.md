@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "representative-regional-office-malaysia" }
 related: ["mida"]
 keywords: ["principal hub malaysia", "global services hub malaysia", "regional headquarters malaysia", "MIDA principal hub incentive", "GSH tax incentive malaysia", "headquarters incentive malaysia"]
+framework: explainer
 ---
 
 பன்னாட்டு நிறுவனங்கள் தங்கள் பிராந்திய தலைமையகங்களை எங்கு வேண்டுமானாலும் அமைப்பதில்லை — அவை ஊக்கத்தொகைகளைப் பின்தொடர்கின்றன. பல ஆண்டுகளாக, தங்கள் பிராந்திய நிர்வாகம், நிதி மற்றும் பகிரப்பட்ட-சேவை செயல்பாடுகளை எங்கு அமைப்பது என்பதைத் தீர்மானிக்கும் நிறுவனங்களுக்கு மலேசியாவின் முன்மொழிவு **Principal Hub** ஊக்கத்தொகையாக இருந்தது. அந்தத் திட்டம் மூடப்பட்டுவிட்டது, மேலும் ஆன்லைனில் உள்ள பல ஆலோசனைகள் இதைப் பிடிக்கவில்லை. இன்று நீங்கள் மலேசியாவை ஒரு செயல்பாட்டுத் தளமாக ஆராய்ந்துகொண்டிருந்தால், உண்மையில் இருக்கும் வழி **Global Services Hub** ஆகும்.

@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-china-relations", "malaysia-asean-membership"]
 keywords: ["Malaysia US relations", "Comprehensive Strategic Partnership", "reciprocal trade agreement", "US tariff Malaysia", "semiconductors", "defence cooperation"]
+framework: explainer
 ---
 
 Barack Obama tham quan Masjid Negara, Nhà thờ Hồi giáo Quốc gia của Kuala Lumpur, vào năm 2014; Anwar Ibrahim bắt tay Donald Trump trên một hiệp định thương mại đã ký vào năm 2025. Hai vị tổng thống Mỹ rất khác nhau, một mối quan hệ bền bỉ — và một thói quen của Malaysia là xích lại gần Washington mà không bao giờ đứng dưới chiếc ô an ninh của nó.

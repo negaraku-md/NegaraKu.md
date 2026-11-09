@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "duitnow-qr" }
 related: ["pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["e-wallet Malaysia", "e-money", "Touch n Go eWallet", "Boost", "GrabPay", "ShopeePay", "BNM", "PIDM", "akaun amanah", "safeguarding"]
+framework: explainer
 ---
 
 Anda tekan "bayar" di kasir, saldo e-wallet berkurang beberapa ringgit, dan transaksi selesai dalam satu detik. Tetapi ke mana sebenarnya uang RM200 yang Anda "top up" pagi tadi disimpan — dan apa yang terjadi padanya jika perusahaan di balik aplikasi itu tiba-tiba bangkrut? Jawabannya berbeda dengan apa yang terjadi pada uang dalam rekening bank Anda, dan perbedaan itu penting.

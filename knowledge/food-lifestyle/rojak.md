@@ -89,6 +89,7 @@ verificationNeeded:
   - "The origin of rojak. Reference works trace the word and dish to Old Javanese (Zoetmulder derives it from anrujak/rinujak, 'to chop into little pieces'), but as it exists in Malaysia the dish is cross-cultural and no single inventor or firm date is documented — confirm with a culinary-history or lexicographic source rather than food media."
   - "The origin and age of Indian/mamak rojak (pasembur) specifically. Food writers note there are no firm references for when or where the mamak version arose — do not state a confident date or inventor."
   - "Whether fermented prawn paste (hae ko) is universal to fruit rojak. Some sources describe the dressing simply as shrimp paste, sugar, chilli and lime juice, with tamarind or black bean paste added by some vendors; the specific use and naming of hae ko varies — confirm against a regional source."
+framework: explainer
 ---
 
 Ask for "rojak" at one stall and you get a cold tumble of fruit and dough

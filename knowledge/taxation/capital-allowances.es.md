@@ -136,6 +136,7 @@ relations:
   - { rel: "related-to", to: "non-deductible-expenses" }
 related: ["losses-and-group-relief", "form-c-and-cp204", "basis-period-and-accounting-date"]
 keywords: ["capital allowance malasia", "anexo 3 income tax act 1967", "allowance inicial allowance anual", "cargo de ajuste malasia", "activo de bajo valor RM2000", "gasto computable en maquinaria"]
+framework: explainer
 ---
 
 La línea de amortización de sus cuentas no vale nada para la LHDN. El párrafo 39(1)(e) de la Income Tax Act 1967 no admite ningún gasto que sea gasto computable a efectos del Anexo 3 — así que el cargo contable se vuelve a sumar por completo, y el Anexo 3 decide, en sus propios términos, cuánta desgravación gana realmente el activo y cuándo.

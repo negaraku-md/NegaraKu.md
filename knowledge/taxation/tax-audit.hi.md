@@ -104,6 +104,7 @@ relations:
   - { rel: "affects", to: "transfer-pricing-documentation" }
 related: ["transfer-pricing-documentation", "form-c-and-cp204", "withholding-tax-non-compliance"]
 keywords: ["LHDN कर-ऑडिट", "audit cukai LHDN", "कर-ऑडिट फ्रेमवर्क मलेशिया", "स्वैच्छिक प्रकटन LHDN", "penalti audit cukai", "rangka kerja audit cukai", "tax audit Malaysia"]
+framework: explainer
 ---
 
 मलेशियाई कर-ऑडिट पर अधिकांश मार्गदर्शन एक **desk audit** और एक **field audit** का

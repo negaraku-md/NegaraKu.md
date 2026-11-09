@@ -101,6 +101,7 @@ relations:
   - { rel: "located-in", to: "johor" }
 related: ["tenaga-nasional", "johor"]
 keywords: ["data centre Malaysia", "Johor data centre", "TNB data centre", "non-AI data centre restriction", "data sovereignty Malaysia", "National Cloud Computing Policy", "Green Lane TNB", "Johor water data centre"]
+framework: explainer
 ---
 
 3년도 채 되지 않아, 싱가포르 코즈웨이 건너편 남부 조호르(Johor)의 한 지대는 서버를 연결하기에 지구상에서 가장 인기 있는 장소 중 하나가 되었습니다. 클라우드 대기업, 코로케이션 사업자, AI 스타트업이 몰려들었고 — 이제 말레이시아는 그 붐 아래에 깔린 전력선과 수도관에 한계가 있음을 깨닫고 있습니다.

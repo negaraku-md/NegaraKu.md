@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "subsidy-rationalisation-padu" }
 related: ["malaysia-plans", "new-industrial-master-plan-2030", "national-energy-transition-roadmap-netr", "subsidy-rationalisation-padu"]
 keywords: ["Ekonomi MADANI", "MADANI Economy framework", "Ekonomi MADANI Memperkasa Rakyat", "MADANI values acronym", "Malaysia economic framework Anwar", "MADANI economy seven targets", "Malaysia MADANI"]
+framework: explainer
 ---
 
 2023 ஜூலை 27 அன்று, தனது பிரதமர் பதவியில் சில மாதங்களுக்குப் பிறகு, அன்வர் இப்ராஹிம் ஒரு பட்ஜெட்டையோ ஒரு தனித் திட்டத்தையோ அறிவிக்க அல்ல, மாறாக மலேசியாவின் பொருளாதாரத்திற்குத் தன்னைப் பற்றிச் சொல்லிக்கொள்ள ஒரு கதையைக் கொடுக்க எழுந்து நின்றார்.

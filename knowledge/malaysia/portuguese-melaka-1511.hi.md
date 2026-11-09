@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["मलक्का का पतन 1511", "fall of Melaka 1511", "Afonso de Albuquerque", "अफोंसो दी अल्बुकर्क", "पुर्तगाली मलक्का", "Portuguese Melaka", "A Famosa", "दक्षिण-पूर्व एशिया में यूरोपीय उपनिवेशीकरण", "जोहोर सल्तनत 1528"]
+framework: history-culture
 ---
 
 दस दिन। यही वह अंतर है जो 10 अगस्त 1511 को मलक्का के जलक्षेत्र में पुर्तगाली बेड़े के आगमन और 24 अगस्त को शहर के हाथ बदलने के बीच का है।

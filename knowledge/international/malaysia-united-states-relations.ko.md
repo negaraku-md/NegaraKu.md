@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-china-relations", "malaysia-asean-membership"]
 keywords: ["Malaysia US relations", "Comprehensive Strategic Partnership", "reciprocal trade agreement", "US tariff Malaysia", "semiconductors", "defence cooperation"]
+framework: explainer
 ---
 
 버락 오바마는 2014년 쿠알라룸푸르의 국립 모스크인 마스지드 느가라(Masjid Negara)를 둘러보았고, 안와르 이브라힘은 2025년 서명된 무역 협정을 두고 도널드 트럼프와 악수를 나누었습니다. 매우 다른 두 미국 대통령, 하나의 지속적인 관계 — 그리고 결코 그 안보 우산 아래 서지 않으면서도 워싱턴에 가까워지는 말레이시아의 습관입니다.

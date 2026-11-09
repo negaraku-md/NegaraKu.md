@@ -101,6 +101,7 @@ relations:
   - { rel: "requires", to: "annual-return" }
 related: ["close-a-company", "members-voluntary-winding-up", "creditors-voluntary-winding-up", "ssm-fees-malaysia", "annual-return"]
 keywords: ["radier société malaisie", "article 550 companies act 2016", "article 555 réinscription", "tutup syarikat ssm", "radier sdn bhd", "directives de radiation SSM"]
+framework: explainer
 ---
 
 La plupart des gens qui demandent comment radier une société demandent en réalité comment cesser de payer pour une société. C'est un objectif raisonnable, et la radiation est le moyen le moins coûteux d'y parvenir — RM100, sans liquidateur, sans comptes finaux. C'est aussi la voie que SSM rejette le plus souvent, car les dix conditions des directives du Registraire sont plus strictes que les deux ou trois qui circulent en ligne.

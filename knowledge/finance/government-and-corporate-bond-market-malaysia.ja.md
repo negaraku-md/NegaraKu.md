@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["bank-negara-malaysia", "bursa-malaysia", "federal-budget", "epf-as-investor"]
 keywords: ["MGS", "GII", "sukuk", "Malaysian government securities", "corporate bonds", "RENTAS", "Sukuk Simpanan Rakyat", "bond market Malaysia"]
+framework: explainer
 ---
 
 マレーシア政府が高速道路や病院を建設するとき、その場で現金を支払うことはめったにない。政府は借り入れる——そして手渡す借用証書こそが債券である。これを数十年にわたる開発支出の規模に掛け合わせ、同じ方法で借り入れるすべての企業を加えると、アジアで最も厚みのある自国通貨建て債券市場の一つが姿を現す。それは伝統的債務とシャリーア準拠のスクークという、二つの並行した軌道の上を走っている。

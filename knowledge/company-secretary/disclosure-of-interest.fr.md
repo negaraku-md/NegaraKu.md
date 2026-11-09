@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "minute-books-and-records" }
 related: ["directors-duties", "minute-books-and-records", "loans-to-directors", "directors-fees-approval"]
 keywords: ["disclosure of interest Malaysia", "section 221 Companies Act 2016", "section 222 interested director", "conflict of interest director Sdn Bhd", "pengisytiharan kepentingan pengarah", "director interested in contract Malaysia"]
+framework: rules
 ---
 
 La déclaration a été faite. Tout le monde dans la salle l'a entendue. Deux ans plus tard, un actionnaire minoritaire demande le procès-verbal du conseil de cette réunion, et le procès-verbal ne consigne que l'approbation du contrat d'approvisionnement. Rien sur l'intérêt.

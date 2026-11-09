@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "mykad-guide" }
 related: ["immigration-act-1959-63"]
 keywords: ["masuk sabah", "masuk sarawak", "imigresen sabah sarawak", "dokumen perjalanan terhad", "pas lawatan sosial", "MA63 imigresen"]
+framework: rules
 ---
 
 Terbang dari Kuala Lumpur ke Kuching, dan sebaik sahaja anda mendarat, ada kaunter imigresen menanti — di dalam negara sendiri. Bagi ramai rakyat Semenanjung, inilah kali pertama mereka menunjukkan kad pengenalan kepada pegawai imigresen tanpa pernah melintasi sempadan antarabangsa. Ini bukan kesilapan pentadbiran. Sabah dan Sarawak mengawal imigresen mereka sendiri, dan peraturan itu terpakai kepada semua orang, termasuk warganegara Malaysia.

@@ -102,6 +102,7 @@ relations:
   - { rel: "affects", to: "transfer-pricing-documentation" }
 related: ["transfer-pricing-documentation", "form-c-and-cp204", "withholding-tax-non-compliance"]
 keywords: ["LHDN tax audit", "audit cukai LHDN", "tax audit framework Malaysia", "voluntary disclosure LHDN", "penalti audit cukai", "rangka kerja audit cukai"]
+framework: explainer
 ---
 
 Most guidance on Malaysian tax audits describes a **desk audit** and a **field

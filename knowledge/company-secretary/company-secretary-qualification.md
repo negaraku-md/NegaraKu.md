@@ -109,6 +109,7 @@ relations:
   - { rel: "explained-in", to: "practising-certificate" }
 related: ["appoint-company-secretary", "maicsa", "changing-company-secretary", "secretary-resignation"]
 keywords: ["who can be a company secretary Malaysia", "company secretary qualification Malaysia", "section 235 Companies Act 2016", "practising certificate secretary SSM", "section 241 practising certificate", "MAICSA MIA company secretary", "CSID SSM"]
+framework: rules
 ---
 
 Ask most people what it takes to be a company secretary in Malaysia and you get

@@ -95,6 +95,7 @@ verificationNeeded:
   - "Dewakan's exact year of promotion to two Stars — reporting phrases it variously as the 2023 ceremony / the 2024 guide edition; confirm the precise edition against the MICHELIN Guide."
   - "The figure that Au Jardin uses roughly 85% Malaysian produce comes from a single press report; confirm with the restaurant."
   - "Chef names, opening years and venue details for individual restaurants (e.g. Au Jardin, Gen, Terra Dining, Akar) should be re-checked against each restaurant's own channels before being quoted, as these change over time."
+framework: profile
 ---
 
 Malaysia has eaten brilliantly for generations — but mostly at hawker stalls,

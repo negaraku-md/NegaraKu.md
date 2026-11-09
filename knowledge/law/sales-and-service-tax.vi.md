@@ -113,6 +113,7 @@ relations:
   - { rel: "related-to", to: "income-tax-act-1967" }
 related: ["income-tax-act-1967", "companies-act-2016"]
 keywords: ["SST", "sales tax", "service tax", "RMCD", "MySST", "SST registration", "Sales Tax Act 2018", "Service Tax Act 2018", "SST rates", "SST threshold"]
+framework: rules
 ---
 
 Nếu bạn từng thắc mắc vì sao hóa đơn nhà hàng của bạn có một dòng cho "SST" nhưng hóa đơn tạp hóa thường không có, bạn đã va vào hai nửa rất khác nhau của cùng một loại thuế. Malaysia không vận hành một loại thuế tiêu dùng diện rộng đơn nhất như GST hay VAT. Thay vào đó, nó vận hành hai loại thuế hẹp hơn — một Thuế Bán hàng trên hàng hóa và một Thuế Dịch vụ trên dịch vụ — được gộp lại dưới nhãn **SST** và do Cục Hải quan Hoàng gia Malaysia (RMCD) quản lý.

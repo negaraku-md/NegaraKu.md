@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "appoint-company-secretary" }
 related: ["secretary-resignation", "appoint-company-secretary", "changing-company-secretary"]
 keywords: ["company secretary vacancy 30 days", "section 240 Companies Act 2016", "office of secretary vacant Malaysia", "no company secretary penalty Malaysia", "section 235 Companies Act 2016"]
+framework: rules
 ---
 
 กรรมการบริษัท Sdn Bhd ส่วนใหญ่ค้นพบกฎนี้แบบเดียวกับที่คุณค้นพบแบตเตอรี่เครื่องตรวจควัน: สาย และเพราะมีสิ่งอื่นผิดพลาดไปแล้ว เลขานุการลาออก ใบเสนอราคาผู้มาแทนดูแพง และสามเดือนต่อมาบริษัทยังเลือกอยู่

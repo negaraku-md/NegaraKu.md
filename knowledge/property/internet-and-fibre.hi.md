@@ -68,6 +68,7 @@ relations:
   - { rel: "part-of", to: "jendela" }
 related: ["mobile-sim-plans"]
 keywords: ["unifi malaysia", "maxis fibre home", "time fibre broadband", "फ़ाइबर इंटरनेट मलेशिया", "JENDELA MCMC", "घरेलू ब्रॉडबैंड कवरेज जाँच मलेशिया", "फ़ाइबर इंटरनेट इंस्टॉल मलेशिया", "unifi vs maxis vs time"]
+framework: decision
 ---
 
 इससे पहले कि आप कीमत का एक भी रिंगिट तुलना करें, एक सवाल और भी अहम है: क्या फ़ाइबर आपके दरवाज़े तक पहुँचता भी है? इसे जाँचे बिना दो साल का अनुबंध कर लें, और इंस्टॉलेशन के दिन आपको पता चल सकता है कि तकनीशियन असल में आपकी इकाई तक लाइन खींच ही नहीं सकता।

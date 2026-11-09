@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
+framework: explainer
 ---
 
 Thùng rác của bạn được lấy hai lần một tuần, nhưng bạn có bao giờ hỏi ai thực sự lấy nó — hội đồng địa phương, hay một công ty khác mà hội đồng thuê? Và vì sao hàng xóm của bạn ở bang bên cạnh có thể bị phạt vì không tách chai nhựa khỏi rác thực phẩm, trong khi bạn thì không?

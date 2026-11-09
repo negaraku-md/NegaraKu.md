@@ -115,6 +115,7 @@ keywords:
   - "foreign ownership Malaysia"
   - "قيود الملكية الأجنبية في ماليزيا"
   - "WRT foreign equity"
+framework: rules
 ---
 
 كل دليل حول هذا الموضوع يقول الشيء نفسه: *معظم القطاعات تسمح بملكية أجنبية بنسبة 100

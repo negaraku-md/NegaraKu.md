@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "chinese-dialects", "chinese-clan-associations", "chinese-religion-in-malaysia"]
 keywords: ["华人婚礼", "传统婚礼", "过大礼", "下聘", "聘金", "嫁妆", "安床", "上头", "迎亲", "接新娘", "姐妹玩新郎", "闯门", "奉茶", "敬酒", "喜酒", "回门", "囍", "双喜", "马来西亚华人", "Chinese wedding customs Malaysia"]
+framework: history-culture
 ---
 
 Antes de que haya amanecido del todo, una hilera de coches ya se ha detenido frente a la casa de la novia. El novio sostiene un ramo, con varios "hermanos" detrás, pero lo detienen unas cuantas "hermanas" que se asoman por la puerta: primero responde las preguntas, luego canta una estrofa, come unas rodajas de lima cortadas finísimas y, por último, desliza unos sobres rojos por la rendija de la puerta. Solo tras superar este obstáculo de "forzar la puerta" (chuang men) se abre esta y el novio puede ver a la novia, vestida toda de rojo. Una mañana así, llena de bromas y bullicio, es el comienzo del día en muchas bodas chinas de Malasia.

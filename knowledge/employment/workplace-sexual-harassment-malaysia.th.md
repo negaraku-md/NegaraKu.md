@@ -106,6 +106,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-act-1955-guide"]
 keywords: ["sexual harassment malaysia", "anti-sexual harassment act 2022", "section 81h notice", "part xva employment act", "tribunal anti sexual harassment", "workplace harassment employer duty"]
+framework: rules
 ---
 
 การรายงานเรื่องการล่วงละเมิดในที่ทำงานในมาเลเซียส่วนใหญ่พูดถึงพระราชบัญญัติต่อต้านการล่วงละเมิดทางเพศ 2022 ในฐานะเหตุการณ์ทางนิติบัญญัติ มีน้อยมากที่บอกนายจ้างว่าจริง ๆ แล้วมีหน้าที่ต้องทำอะไรในวันอังคารธรรมดา ๆ มีสองสิ่ง และทั้งสองบังคับใช้ได้โดยไม่ต้องมีผู้ใดยื่นเรื่องใด ๆ

@@ -91,6 +91,7 @@ relations:
   - { rel: "part-of", to: "mydigital-blueprint" }
 related: ["malaysia-startup-ecosystem", "cradle-cip-grant", "malaysia-digital-economy-in-numbers", "mydigital-blueprint"]
 keywords: ["KL20", "KL20 Summit 2024", "KL20 Action Paper", "Malaysia startup ecosystem", "top 20 global startup hub", "Golden Pass", "pelan tindakan KL20", "Cradle Fund startup"]
+framework: explainer
 ---
 
 Pada April 2024, Malaysia berhenti bercakap tentang startupnya dalam bahasa harapan dan mula bercakap dalam bahasa kedudukan. Pitchnya terus terang: bawa Kuala Lumpur ke dalam 20 ekosistem startup teratas dunia menjelang 2030, atau mengaku negara telah hanya meluncur tanpa usaha.

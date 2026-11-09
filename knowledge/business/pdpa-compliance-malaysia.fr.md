@@ -139,6 +139,7 @@ relations:
   - { rel: "explained-in", to: "pdpa-registration-classes" }
 related: ["online-business-licence-malaysia"]
 keywords: ["pdpa malaysia", "personal data protection act 2010", "act a1727", "data controller malaysia", "pdpa amendment 2024", "pdpa compliance"]
+framework: rules
 ---
 
 Si votre avis de confidentialité dit encore «utilisateur de données», il décrit une catégorie de personne qui a cessé d'exister le 1er avril 2025.

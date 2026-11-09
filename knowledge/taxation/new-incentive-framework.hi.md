@@ -92,6 +92,7 @@ relations:
   - { rel: "affects", to: "global-minimum-tax-pillar-two" }
 related: ["corporate-tax-rates", "global-minimum-tax-pillar-two", "reinvestment-allowance"]
 keywords: ["मलेशिया नया प्रोत्साहन ढाँचा", "NIF मलेशिया कर प्रोत्साहन", "पायनियर स्टेटस मलेशिया 2026", "मलेशिया विशेष कर दर", "NIA स्कोरकार्ड", "PIA 1986 समय-सीमा", "New Incentive Framework Malaysia", "NIA Scorecard"]
+framework: explainer
 ---
 
 पायनियर स्टेटस (Pioneer Status) धीरे-धीरे समाप्त नहीं हुआ। यह एक निश्चित दोपहर को, एक

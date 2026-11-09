@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "mykad" }
 related: ["program-rahmah-cost-of-living", "i-saraan-epf-voluntary-contribution", "lhdn", "income-tax-individuals", "mykad"]
 keywords: ["Sumbangan Tunai Rahmah", "STR", "bantuan tunai kerajaan Malaysia", "MySTR", "bantuantunai.hasil.gov.my", "semakan STR", "permohonan STR", "bantuan kos sara hidup Malaysia"]
+framework: how-to
 ---
 
 หลายคนรู้จักชื่อ "STR" จากข่าวหรือจากเพื่อนบ้านที่พูดถึงเงินที่เข้าธนาคาร น้อยกว่านั้นที่รู้ว่าบัญชีเก่าของพวกเขาอาจใช้ไม่ได้แล้ว หรือแบบฟอร์มที่ต้องกรอกไม่ใช่แบบฟอร์มภาษีทั่วไป แม้จะจัดการโดยหน่วยงานเดียวกันที่จัดการภาษีเงินได้ของคุณ

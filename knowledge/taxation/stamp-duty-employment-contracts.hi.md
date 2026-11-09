@@ -88,6 +88,7 @@ relations:
   - { rel: "affects", to: "employment-act-1955" }
 related: ["stamp-duty-rates", "stamp-duty-self-assessment", "employment-act-1955"]
 keywords: ["रोज़गार-अनुबंध स्टाम्प शुल्क मलेशिया", "stamp duty employment contract Malaysia", "kontrak penggajian duti setem", "RM10 स्टाम्प शुल्क प्रस्ताव-पत्र", "STAMPS employment contract", "मद 4 प्रथम अनुसूची item 4"]
+framework: rules
 ---
 
 जून 2025 में LHDN ने नियोक्ताओं को कुछ ऐसा बताया जिस पर अधिकांश ने कभी विचार नहीं

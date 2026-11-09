@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
 keywords: ["shipping belongings to Malaysia", "import household goods Malaysia customs", "Customs Form K1 Malaysia", "import car to Malaysia", "Approved Permit AP Malaysia", "MITI AP vehicle import", "JPJ import vehicle registration", "PUSPAKOM imported car", "expatriate moving to Malaysia car"]
+framework: explainer
 ---
 
 รายการตรวจสอบการย้ายถิ่นสำหรับมาเลเซียทุกฉบับพูดสิ่งเดียวกันเมื่อคุณเลื่อนลงไปไกลพอ: ขนส่งเฟอร์นิเจอร์ของคุณ ขายรถของคุณ ไม่มีใครอธิบายว่าเหตุใดคำสั่งสองข้อนั้นจึงแตกต่างกันมาก — อันหนึ่งเป็นเอกสาร อีกอันเป็นกำแพง

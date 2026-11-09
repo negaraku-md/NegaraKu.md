@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "siddha-medicine" }
 related: ["siddha-medicine", "chinese-dialects", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["马来西亚中医", "中药行", "中药店", "针灸", "推拿", "拔罐", "余仁生", "传统与辅助医药法令", "第775号法令", "传统与辅助医药理事会", "中医注册", "中医教育", "Traditional Chinese Medicine Malaysia", "T&CM Act 2016"]
+framework: history-culture
 ---
 
 Ở góc phố của nhiều thị trấn cũ, bao giờ cũng có một tiệm thuốc Bắc: bức tường tủ gỗ xếp dày đặc những ngăn kéo nhỏ, trong không khí thoảng mùi đương quy (当归), trần bì (陈皮) và cam thảo (甘草) hòa lẫn; sau quầy, ông thầy già vừa nghe khách kể chỗ nào khó chịu vừa cân từng vị dược liệu vào tờ giấy, rồi gói thành một gói thuốc. Những tiệm như thế đã tồn tại trong cộng đồng người Hoa Malaysia hơn một trăm năm.

@@ -85,6 +85,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["foreign-exchange-policy-malaysia", "resident-director-malaysia", "registered-office-malaysia"]
 keywords: ["akaun bank syarikat malaysia", "buka akaun bank syarikat malaysia", "syarikat milik asing ditolak akaun bank", "kyc akaun bank malaysia", "uji tuntas dipertingkat malaysia"]
+framework: explainer
 ---
 
 Setiap laman saingan mengenai topik ini adalah senarai semak lima langkah yang berakhir

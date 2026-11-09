@@ -95,6 +95,7 @@ verificationNeeded:
   - "Asal-usul Timur Tengah (sering disebut ful medames Mesir) dari kacang pool, serta akar Indonesia/Betawi dan Jawa yang dikaitkan dengan lontong, lodeh, soto dan nasi ambeng di Johor — ini adalah kaitan anekdotal dari media makanan dan perjalanan, bukan sejarah yang terdokumentasi."
   - "Kuatnya bingkai 'masakan keraton' dan Jawa/Bugis untuk makanan Johor secara keseluruhan — masuk akal dan banyak dinyatakan, tetapi pastikan klaim demografi dan sejarah kuliner dengan sumber ilmiah atau warisan, bukan daftar artikel ringkas."
   - "Kaitan kota tertentu (mee bandung dan otak-otak dengan Muar; nasi beriani gam dengan Batu Pahat; durian dengan Muar dan Segamat) mencerminkan reputasi populer; pastikan klaim 'asal-usul' apa pun dengan sumber lokal atau resmi sebelum menyatakannya sebagai fakta."
+framework: history-culture
 ---
 
 Seberangi jalan lintas (causeway) dari Singapura dan negeri bagian Malaysia

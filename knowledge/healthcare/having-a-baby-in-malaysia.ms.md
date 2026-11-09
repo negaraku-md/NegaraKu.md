@@ -62,6 +62,7 @@ relations:
   - { rel: "explained-in", to: "registering-a-birth" }
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "registering-a-birth"]
 keywords: ["having a baby in Malaysia", "pregnancy Malaysia", "antenatal care Malaysia", "Pink Book pregnancy", "Rekod Kesihatan Ibu", "klinik kesihatan pregnant", "public vs private delivery Malaysia", "birth registration JPN", "maternity Malaysia", "government hospital delivery Malaysia"]
+framework: explainer
 ---
 
 Keputusan ujian kehamilan yang positif memulakan dua "jam" pada masa yang sama, dan hampir tiada sesiapa menjelaskan perkara ini terlebih dahulu. Satu jam berkaitan dengan kehamilan itu sendiri — bila hendak mendaftar, di mana, dan apa berlaku pada setiap lawatan. Satu lagi hanya bermula selepas bayi lahir, dan ia tiada kaitan langsung dengan hospital: ia adalah pendaftaran undang-undang dengan jabatan yang sama sekali berbeza.

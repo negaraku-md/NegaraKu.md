@@ -120,6 +120,7 @@ keywords:
   - "halal certification Malaysia"
   - "food handler certificate Malaysia"
   - "liquor licence Malaysia"
+framework: rules
 ---
 
 Lesen restoran itu tidak wujud. Apa yang wujud ialah satu susunan lima atau enam kelulusan

@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "statutory-registers" }
 related: ["directors-duties", "statutory-registers", "register-of-members", "directors-report", "disclosure-of-interest"]
 keywords: ["section 219 Companies Act 2016", "director shareholding notification Malaysia", "register of directors shareholdings", "section 59 register Malaysia", "notis kepentingan saham pengarah", "director interest in shares 14 days"]
+framework: rules
 ---
 
 ถามกรรมการมาเลเซียว่าครั้งสุดท้ายที่เขาแจ้งบริษัทเป็นหนังสือถึงการถือหุ้นของตนเองคือเมื่อใด แล้วคุณมักได้สีหน้าว่างเปล่า หุ้นออกให้เขาตอนจดทะเบียนจัดตั้ง เลขานุการมีอยู่ในทะเบียนแล้ว มีอะไรต้องแจ้ง?

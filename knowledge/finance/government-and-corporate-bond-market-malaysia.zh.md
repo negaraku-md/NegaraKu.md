@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["bank-negara-malaysia", "bursa-malaysia", "federal-budget", "epf-as-investor"]
 keywords: ["MGS", "GII", "sukuk", "Malaysian government securities", "corporate bonds", "RENTAS", "Sukuk Simpanan Rakyat", "bond market Malaysia"]
+framework: explainer
 ---
 
 当马来西亚政府修建一条高速公路或一所医院时，它很少当场付现金。它借钱——而它开出的借据就是债券。将这一做法乘以数十年的发展开支，再加上每一家以同样方式借款的公司，就构成了亚洲最具深度的本币债券市场之一，它沿着两条平行轨道运行：传统债务与符合伊斯兰教义的伊斯兰债券（sukuk）。

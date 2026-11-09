@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "zakat-pendapatan" }
 related: []
 keywords: ["zakat rebat cukai", "Seksyen 6A", "Akta Cukai Pendapatan 1967", "rebat cukai zakat LHDN", "zakat vs pelepasan cukai", "badan zakat negeri"]
+framework: explainer
 ---
 
 ザカートをRM1,000納めれば、あなたの所得税はちょうどRM1,000下がる——ほかの多くの税額控除のように、そのうちのわずかな部分だけが下がるのではない。この違いこそがマレーシアのムスリム納税者をいつも混乱させるものであり、それは一つの言葉に懸かっている——*税額軽減*ではなく*税額控除*である、という点だ。

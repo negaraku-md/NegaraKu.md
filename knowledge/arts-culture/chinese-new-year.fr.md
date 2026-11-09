@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["population-composition", "religion-statistics", "languages-spoken", "batik"]
 keywords: ["农历新年", "华人新年", "春节", "团圆饭", "红包", "压岁钱", "舞狮", "捞生", "鱼生", "十五暝", "Chap Goh Meh", "开放门户", "马来西亚华人", "公共假期", "Chinese New Year Malaysia"]
+framework: history-culture
 ---
 
 Au réveillon du Nouvel An, beaucoup de commerces ferment tôt et les autoroutes se remplissent de voitures qui prennent la route des villages natals. À la tombée du soir, la famille se réunit autour d'une même table, avec du poisson dessus (pour « un surplus chaque année »), un poulet entier, des boulettes qui symbolisent la réunion et un plat froid de yee sang, conçu pour être soulevé bien haut avec les baguettes. Beaucoup de familles chinoises de Malaisie considèrent ce repas de réunion du réveillon comme plus important que le premier jour de la nouvelle année lui-même.

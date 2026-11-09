@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["trademark-classes-fees-malaysia", "ip-ownership-malaysia", "company-name-search-ssm"]
 keywords: ["enregistrement de marques malaisie", "marque myipo", "taxe de marque malaisie", "trademarks act 2019", "protocole de madrid malaisie", "enregistrer marque malaisie"]
+framework: explainer
 ---
 
 Réserver le nom d'une société auprès de SSM ne protège rien. Cela empêche qu'une autre société soit

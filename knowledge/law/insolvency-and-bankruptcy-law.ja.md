@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016", "contracts-act-1950", "court-hierarchy"]
 keywords: ["bankruptcy Malaysia", "insolvency act 1967", "winding up company Malaysia", "judicial management", "department of insolvency", "RM100000 bankruptcy threshold", "social guarantor", "discharge from bankruptcy"]
+framework: explainer
 ---
 
 マレーシアでは、単にお金を借りているというだけでは破産させられることはない。債務は多額でなければならず、債権者は特定の裁判所手続に従わなければならない——そして、あなたが友人の学資ローンや自宅の住宅ローンの保証人になったにすぎない場合、法律はあなたを完全に保護することさえある。マレーシアには二つの別個の倒産制度がある——一つは個人向け、もう一つは会社向けである。自分がどちらの制度のもとにあるのか、そしてそれぞれが何を許すのかを知ることが、すべてを変える。

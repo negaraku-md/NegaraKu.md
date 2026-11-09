@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "minute-books-and-records" }
 related: ["directors-duties", "minute-books-and-records", "loans-to-directors", "directors-fees-approval"]
 keywords: ["الإفصاح عن المصلحة ماليزيا", "disclosure of interest Malaysia", "المادة 221 قانون الشركات", "section 221 Companies Act 2016", "المادة 222 المدير ذو المصلحة", "section 222 interested director", "تعارض مصالح المدير Sdn Bhd", "المدير ذو المصلحة في العقد"]
+framework: rules
 ---
 
 أُجري الإفصاح. وسمعه كل من في القاعة. وبعد سنتين يطلب مساهم أقلّية محضر جلسة المجلس

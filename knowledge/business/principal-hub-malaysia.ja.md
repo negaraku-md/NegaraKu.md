@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "representative-regional-office-malaysia" }
 related: ["mida"]
 keywords: ["principal hub malaysia", "global services hub malaysia", "regional headquarters malaysia", "MIDA principal hub incentive", "GSH tax incentive malaysia", "headquarters incentive malaysia"]
+framework: explainer
 ---
 
 多国籍企業は、地域本部をどこにでも置くわけではない——彼らは優遇措置を追いかける。長年、地域の経営管理、財務及び共有サービス業務の拠点をどこに置くか検討する企業に対するマレーシアの売り込みは、**プリンシパルハブ（Principal Hub）**優遇であった。この制度はすでに閉鎖されており、ネット上の多くの助言はそれに追いついていない。今日、マレーシアを事業拠点として検討しているなら、実際に存在するルートは**グローバル・サービス・ハブ（Global Services Hub、GSH）**である。

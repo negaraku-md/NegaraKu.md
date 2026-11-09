@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "malaysia-national-football-team" }
 related: []
 keywords: ["Liga Super", "Piala Malaysia", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "bola sepak Malaysia"]
+framework: explainer
 ---
 
 เกือบหนึ่งศตวรรษที่องค์กรเดียว คือสมาคมฟุตบอลมาเลเซีย (Persatuan Bola Sepak Malaysia, FAM) จัดทุกการแข่งขันลีกของประเทศ จากนั้นในก้าวที่เปลี่ยนรูปแบบของกีฬานี้ อำนาจในการดำเนินลีกถูกส่งมอบให้บริษัทเชิงพาณิชย์ นี่คือรากฐานของวิธีที่ฟุตบอลในประเทศของมาเลเซียทำงานในปัจจุบัน

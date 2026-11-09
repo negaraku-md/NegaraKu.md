@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "appoint-resign-director" }
 related: ["disclosure-of-interest", "director-shareholding-notification", "appoint-resign-director", "remove-a-director", "loans-to-directors", "directors-fees-approval", "directors-report", "register-of-directors"]
 keywords: ["directors duties Malaysia", "section 213 Companies Act 2016", "director personal liability Malaysia", "business judgment rule Malaysia", "tanggungjawab pengarah syarikat", "shadow director Malaysia", "director fine RM3 million"]
+framework: rules
 ---
 
 ค่าปรับคือสามล้านริงกิตและโทษคือจำคุกห้าปี ไม่ใช่ต่อบริษัท — แต่ต่อตัวคุณ มาตรา 213(3) ของ Companies Act 2016 ทำให้การฝ่าฝืนหน้าที่ของกรรมการเป็นความผิดอาญาที่ตัวบุคคลกระทำ และเพดานเดียวกันปรากฏซ้ำในมาตรา 217, 218, 221, 222, 223, 224, 225 และ 228

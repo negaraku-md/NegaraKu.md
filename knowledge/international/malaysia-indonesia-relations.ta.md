@@ -129,6 +129,7 @@ relations:
   - { rel: "compares-with", to: "malaysia-singapore-relations" }
 related: ["malaysia-singapore-relations"]
 keywords: ["hubungan Malaysia Indonesia", "serumpun", "pekerja migran Indonesia", "One Channel System", "Pulau Sebatik", "Ambalat", "Sipadan Ligitan", "sempadan Malaysia Indonesia", "Perundingan Tahunan"]
+framework: explainer
 ---
 
 இந்த இரு நாடுகளும் ஒரே மொழி, ஒரே மதம் மற்றும் ஒரே மூலத்தைப் பகிர்ந்து கொள்கின்றன — ஆனால் Borneo-வில் மிக நீளமான தரை எல்லையையும், Sulawesi கடலின் அடித்தளத்திலுள்ள எண்ணெய் வளங்களையும், பிழைப்பைத் தேடிக் கடந்து செல்லும் மில்லியன் கணக்கான தொழிலாளர்களையும் பகிர்ந்து கொள்கின்றன. மலேசியா–இந்தோனேசியா உறவு வெறும் சாதாரண இராஜதந்திர உறவல்ல; இது ஒரு சிக்கலான குடும்ப உறவு, இதில் நெருக்கமே ஒரே நேரத்தில் ஒத்துழைப்புக்கும் பதற்றத்துக்கும் காரணமாகிறது.

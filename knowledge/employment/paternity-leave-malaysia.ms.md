@@ -58,6 +58,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "maternity-leave-malaysia", "employment-act-coverage"]
 keywords: ["cuti paterniti malaysia", "seksyen 60fa akta kerja", "cuti paterniti 7 hari", "kelayakan cuti paterniti malaysia", "cuti paterniti lima kali persalinan"]
+framework: rules
 ---
 
 Cuti paterniti dimasukkan ke dalam Akta Kerja 1955 (Employment Act 1955) pada 1 Januari

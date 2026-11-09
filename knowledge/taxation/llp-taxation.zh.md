@@ -95,6 +95,7 @@ relations:
   - { rel: "compares-with", to: "corporate-tax-rates" }
 related: ["corporate-tax-rates"]
 keywords: ["LLP tax Malaysia", "PLT tax", "limited liability partnership tax rate", "cukai PLT", "LLP vs Sdn Bhd tax", "Form PT"]
+framework: explainer
 ---
 
 LLP 是马来西亚最少被讲清楚的一种商业形式，而混乱从法令本身就开始了。Income Tax

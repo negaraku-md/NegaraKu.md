@@ -71,6 +71,7 @@ sources:
 
 related: ["wawasan-2020", "ops-lalang-1987", "1998-reformasi", "new-economic-policy", "2018-change-of-government"]
 keywords: ["马哈迪·莫哈末", "敦马哈迪", "马来西亚第四任首相", "2020宏愿", "Wawasan 2020"]
+framework: profile
 ---
 
 马哈迪·莫哈末（1925 年 7 月 10 日出生）是马来西亚在任最久的首相，也是现代国家

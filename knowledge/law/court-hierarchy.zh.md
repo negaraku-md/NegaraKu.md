@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution", "companies-act-2016", "employment-act-1955"]
 keywords: ["Malaysia court hierarchy", "Sessions Court jurisdiction RM1 million", "Magistrates Court limit RM100,000", "Courts of Judicature Act 1964", "Subordinate Courts Act 1948", "hierarki mahkamah Malaysia"]
+framework: data-reference
 ---
 
 在地庭（Sessions Court）提起一宗 RM1.2 million 的违约索偿，无论你的案情多么充分都无关紧要——该法院根本无权审理。反过来，把同一宗索偿改为 RM80,000 提交至高庭（High Court），你多半会被告知走错了地方——还得为这趟绕路付出代价。

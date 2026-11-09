@@ -100,6 +100,7 @@ keywords:
   - "foreign owned company Malaysia licence"
   - "WRT paid up capital"
   - "WRT employment pass"
+framework: rules
 ---
 
 WRT உரிமத்தைத் தேடுங்கள், அதற்கு RM1 million செலுத்தப்பட்ட மூலதனம் தேவை என்று

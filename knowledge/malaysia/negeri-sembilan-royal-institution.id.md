@@ -58,6 +58,7 @@ social:
 verificationNeeded:
   - "Sengketa suksesi 2025-2026 adalah perkara yang masih berkembang dengan catatan yang saling bertentangan; status Undang Sungai Ujong, deklarasi pemakzulan 19 April 2026, dan proklamasi saingan sebaiknya diverifikasi ulang terhadap sumber-sumber resmi negeri sebelum rincian apa pun diperlakukan sebagai final."
   - "Tanggal pelantikan/proklamasi pasti Tuanku Muhriz sebagai Yang di-Pertuan Besar ke-11 (umumnya diberikan sebagai 29 Desember 2008) sebaiknya dikonfirmasi terhadap portal raja negeri."
+framework: history-culture
 ---
 
 Di jantung semenanjung Malaysia terletak sebuah kerajaan yang melanggar setiap aturan monarki Melayu. Penguasanya tidak terlahir untuk takhta melainkan dipilih untuknya. Keluarga-keluarga besarnya menelusuri keturunannya bukan melalui ayah melainkan melalui ibu. Dan namanya sendiri, Negeri Sembilan, "Negeri yang Sembilan", mengenang bukan sebuah wangsa raja tunggal melainkan sebuah konfederasi daerah yang dirajut menjadi satu melintasi perbukitan pedalaman. Memahami bagaimana lembaga yang unik ini terwujud adalah mengikuti sebuah garis migran Minangkabau yang menyeberangi Selat Melaka dari Sumatra, membawa serta sebuah adat, dan pada waktunya mengirim utusan pulang untuk meminta seorang pangeran memerintah mereka.

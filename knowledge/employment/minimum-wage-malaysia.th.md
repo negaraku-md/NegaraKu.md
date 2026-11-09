@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "payroll-rates-deadlines-malaysia" }
 related: ["labour-law-map-malaysia", "employment-act-1955", "payroll-rates-deadlines-malaysia", "payroll-compliance-malaysia"]
 keywords: ["minimum wage Malaysia 2026", "RM1700 gaji minimum", "hourly minimum wage Malaysia", "Employment Act section 19", "lawful deductions section 24", "Minimum Wages Order 2024"]
+framework: rules
 ---
 
 การรู้อัตราเป็นส่วนที่ง่าย นายจ้างที่จ่าย RM1,700 ในวันที่ 20 ของเดือนถัดไป หลังจากหักค่าจ้างหนึ่งสัปดาห์สำหรับแล็ปท็อปที่พัง ได้ปฏิบัติตามคำสั่งค่าจ้างขั้นต่ำและละเมิดพระราชบัญญัติการจ้างงานสองครั้ง

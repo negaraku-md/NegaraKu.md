@@ -80,6 +80,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage", "maternity-leave-malaysia", "paternity-leave-malaysia", "public-holidays-malaysia", "working-hours-overtime-malaysia"]
 keywords: ["annual leave malaysia", "sick leave malaysia", "hospitalisation leave malaysia", "leave entitlement malaysia 2026", "60 days hospitalisation leave"]
+framework: rules
 ---
 
 马来西亚薪资中代价最高的那个假期错误，在法律修改三年之后仍在被犯下：把 60 天的

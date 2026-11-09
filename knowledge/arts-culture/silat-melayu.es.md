@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["silat", "silat melayu", "seni silat", "silat pulut", "silat gayung", "PESAKA", "patrimonio cultural inmaterial", "UNESCO Malasia", "arte marcial", "silat harimau"]
+framework: history-culture
 ---
 
 Un buen pesilat puede romperle los huesos a un adversario, o danzar ante una novia sin tocar a nadie. Ambas cosas son silat. Eso es lo más difícil de captar sobre este arte: no es meramente un método de lucha, ni meramente una danza ceremonial. Es ambas cosas, en el mismo cuerpo, movido por los mismos pasos.

@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "electricity-supply-tnb" }
 related: []
 keywords: ["gas paip asli", "Gas Malaysia", "tong gas", "LPG", "gas domestik", "subsidi gas", "gas memasak", "harga tong gas 14kg"]
+framework: explainer
 ---
 
 จุดเตาที่บ้านใหม่ของคุณ แล้วคุณจะตระหนักได้อย่างรวดเร็ว: ชาวมาเลเซียส่วนใหญ่หุงต้มด้วยถังก๊าซที่ส่งถึงหน้าประตู ไม่ใช่ก๊าซที่ไหลผ่านท่อ ก๊าซธรรมชาติแบบท่อมีอยู่จริง แต่เฉพาะในเขตเมืองส่วนน้อย คู่มือนี้อธิบายทั้งสองทางเลือก ราคา กฎเกณฑ์เงินอุดหนุน และวิธีจัดการก๊าซอย่างปลอดภัย

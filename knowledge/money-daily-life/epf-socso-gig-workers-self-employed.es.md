@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "str-cash-aid" }
 related: ["i-saraan-epf-voluntary-contribution", "epf-socso-employees", "income-tax-individuals", "str-cash-aid"]
 keywords: ["i-Saraan", "i-Saraan Plus", "KWSP", "PERKESO", "Lindung Kendiri", "trabajadores gig", "pekerja gig", "trabajo por cuenta propia", "Ley de Trabajadores Gig 2025", "Akta Pekerja Gig 2025", "Akta 872", "SKSPS", "freelancer"]
+framework: explainer
 ---
 
 Pásate la vida conduciendo para plataformas de e-hailing o aceptando trabajos freelance, y hay una cosa que nunca ocurre automáticamente: nadie deduce de tu paga para el EPF o SOCSO. Para los empleados asalariados, esas aportaciones se producen tras bambalinas cada mes. Para ti como persona por cuenta propia, esa red de seguridad no existe hasta que la construyes tú mismo —y en 2026, parte de ella acaba de pasar de opcional a obligatoria.

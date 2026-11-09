@@ -102,6 +102,7 @@ verificationNeeded:
   - "Sama ada amalan menempah meja berkongsi dengan sepaket tisu atau barang peribadi kecil (choping) adalah sebiasa dan setara dikenali di food court dan kopitiam Malaysia sebagaimana ia didokumentasikan di Singapura — adat ini diperihalkan dengan baik untuk Singapura tetapi terdapat sedikit sahaja dokumentasi rasmi tentang kelazimannya di Malaysia. Sahkan dengan sumber Malaysia."
   - "Peraturan pemilihan gerai Lot 10 Hutong — Free Malaysia Today melaporkan gerai perlu mempunyai rekod sekurang-kurangnya 40 tahun, manakala akaun promosi lain memetik kira-kira 50 tahun; angka itu datang daripada media dan perihalan pengendali dan bukan sumber rasmi. Sahkan kriteria tepatnya."
   - "Julat markah gred kebersihan A/B/C yang dipetik adalah daripada majlis tempatan individu (cth. Majlis Bandaraya Kuantan) dan tidak seragam di peringkat nasional; julat tepat dan ambang penutupan berbeza antara pihak berkuasa tempatan. Sahkan skala dengan majlis khusus bagi mana-mana premis tertentu."
+framework: explainer
 ---
 
 Masuklah ke hampir mana-mana kejiranan Malaysia pada waktu tengah hari dan anda

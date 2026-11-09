@@ -111,6 +111,7 @@ keywords:
   - "حوافز وضع TRX Marquee"
   - "doing business in Kuala Lumpur"
   - "DBKL business licence"
+framework: profile
 ---
 
 كوالالمبور هي المكان الوحيد في ماليزيا الذي يمكنك فيه قراءة رسم رخصتك من الجريدة

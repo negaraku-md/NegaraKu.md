@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "extension-of-time-ssm" }
 related: ["mbrs-2", "mbrs-tagging-errors", "financial-statement-pack", "financial-statements-lodgement", "unaudited-financial-statements", "extension-of-time-ssm", "mfrs-vs-mpers"]
 keywords: ["MBRS 2.0 filing guide", "mTool 2.2", "SSMxT taxonomy", "وسم XBRL ماليزيا", "نقطة دخول MBRS", "mPortal maker lodger", "رفض MBRS", "إعداد البيانات المالية XBRL SSM"]
+framework: how-to
 ---
 
 نتائج البحث عن «MBRS 2.0» كلها تقريبًا أشخاص يبيعونك طريقة لتجنّب القيام به. بائعو التحويل، وخدمات الوسم المُسنَدة خارجيًّا، ومُغريات الجاهزية من الأربع الكبرى التي تنتهي بـ«تحدّث إلينا». ولا أحد ينشر ما يحدث فعلًا بين مجموعة حسابات موقَّعة وإقرار باستلامها من SSM.

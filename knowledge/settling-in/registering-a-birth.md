@@ -69,6 +69,7 @@ keywords:
   - "cabutan sijil kelahiran"
   - "JPN.LM01"
   - "JPN.LM12"
+framework: how-to
 ---
 
 Ramai ibu bapa baharu menganggap mendaftar kelahiran anak sebagai kerja

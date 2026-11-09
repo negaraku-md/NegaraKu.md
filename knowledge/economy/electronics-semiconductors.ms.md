@@ -66,6 +66,7 @@ faq:
     a: 'Kerana satu kategori produk yang membawa kira-kira separuh daripada asas eksport memusatkan risiko dalam tiga cara. Kitaran: semikonduktor bersifat naik-turun, jadi sektor yang berkembang 69.2% dalam setahun boleh mengecut dengan mendadak. Kedudukan dalam rantaian: pemasangan dan pengujian hiliran lebih mudah dicabar berbanding fabrikasi, jadi pesaing boleh membina kapasiti yang sama. Geopolitik: kawalan eksport dan dasar pemindahan semula pengeluaran (reshoring) yang digubal di ekonomi lain memberi kesan langsung kepada kilang di Malaysia.'
   - q: Mengapa Pulau Pinang, khususnya, menjadi pusat industri cip Malaysia?
     a: Ia berpunca daripada keputusan dasar pada 1972. Pulau Pinang menubuhkan zon perdagangan bebas dan menarik firma elektronik asing dengan insentif cukai, import komponen bebas duti dan tenaga kerja yang tersedia. Syarikat semikonduktor Amerika dan Jepun menubuhkan operasi pemasangan, lalu terbentuklah satu kelompok (cluster). Kelompok semakin mendalam dari semasa ke semasa — pembekal, penyelenggaraan peralatan, jurutera terlatih tempatan — sebab itulah Pulau Pinang dan Kulim masih menumpukan begitu banyak sektor ini setengah abad kemudian.
+framework: profile
 ---
 
 ## Sepintas lalu

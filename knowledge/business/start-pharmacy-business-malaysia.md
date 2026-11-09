@@ -82,6 +82,7 @@ social:
     - CommunityPharmacy
     - DoingBusinessInMalaysia
     - PoisonsAct
+framework: how-to
 ---
 
 Opening a pharmacy in Malaysia is not like opening a normal shop, and the reason is a single design choice in the law: the licence that lets a pharmacy sell medicines is tied to a *person* — a registered pharmacist — not to a company or a storefront. You can have the capital, the location and the fit-out ready, but until a qualified pharmacist stands behind the licence, you have a health-product shop, not a pharmacy.

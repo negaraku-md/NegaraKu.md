@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "employment" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage"]
 keywords: ["सबाह श्रम अध्यादेश", "sabah labour ordinance", "सारावाक श्रम अध्यादेश", "sarawak labour ordinance", "cap 67", "cap 76", "पूर्वी मलेशिया रोज़गार क़ानून", "jtk sabah", "jtk sarawak"]
+framework: explainer
 ---
 
 "मलेशिया रोज़गार क़ानून" खोजिए और आपको मिलने वाला हर परिणाम प्रायद्वीपीय मलेशिया का वर्णन करता है और कहीं यह बताता नहीं। उस चुप्पी की एक क़ीमत है: रोज़गार अधिनियम 1955 के विरुद्ध लिखी गई राष्ट्रीय HR नीति कोटा किनाबालु, सानडाकान, कुचिंग या मिरी में नियुक्त किसी भी व्यक्ति के लिए बस ग़लत क़ानून है।

@@ -81,6 +81,7 @@ relations:
   - { rel: "part-of", to: "financial-year-end" }
 related: ["financial-year-end", "financial-reporting-deadlines", "audit-exemption-thresholds", "audit-exemption", "sdn-bhd-first-year-compliance", "basis-period-and-accounting-date", "sdn-bhd-bookkeeping"]
 keywords: ["premier exercice Sdn Bhd", "18 mois premiers états financiers Malaisie", "section 248 loi sur les sociétés 2016", "clôture d'exercice société nouvelle Malaisie", "premier audit Sdn Bhd", "exemption d'audit première année", "section 248 Companies Act 2016"]
+framework: explainer
 ---
 
 On dit à toute nouvelle Sdn Bhd qu'elle dispose de dix-huit mois avant que ses premiers

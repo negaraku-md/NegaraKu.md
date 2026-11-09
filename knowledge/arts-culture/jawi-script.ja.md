@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: ["bahasa-melayu", "melaka-sultanate", "article-3-religion"]
 keywords: ["tulisan Jawi", "aksara Arab Melayu", "Batu Bersurat Terengganu", "sejarah tulisan Jawi", "seni khat", "ejaan Jawi", "Seksyen 9 Akta Bahasa Kebangsaan"]
+framework: history-culture
 ---
 
 トレンガヌ州で発見された一枚の石碑には、マレー語の言葉が刻まれている——今日わたしたちが使う文字ではなく、マレー語の音に合わせて調整されたアラビア文字によってである。この碑文、トレンガヌ碑文石（Batu Bersurat Terengganu）は、ヒジュラ暦702年の年代を持ち、これは通常西暦1303年に対応するとされる。

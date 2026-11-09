@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "sabah-travel-guide" }
 related: []
 keywords: ["Sipadan diving permit", "Malaysia marine park fees", "Sabah Parks", "Department of Fisheries marine park", "scuba diving Malaysia", "marine ecotourism"]
+framework: rules
 ---
 
 マレーシアで最も澄んだ海は、同時に最もたどり着きにくい：シパダン（Sipadan）の壁に飛び込むには、いくら金を積んでも直接は買えない政府の許可が必要だ。この一点が、この国のダイブ観光の運営のされ方を言い尽くしている——立ち入りは配給され、値付けされ、そしてあなたがどの海に潜り込みたいかに応じて、二つのまったく異なる当局に分けられている。

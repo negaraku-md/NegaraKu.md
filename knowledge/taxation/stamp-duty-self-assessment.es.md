@@ -97,6 +97,7 @@ relations:
   - { rel: "affects", to: "stamp-duty-employment-contracts" }
 related: ["stamp-duty-rates", "stamp-duty-employment-contracts", "stamp-duty-share-transfer"]
 keywords: ["STSDS", "stamp duty self assessment Malaysia", "sistem taksir sendiri duti setem", "STAMPS", "BNDS", "stamp duty phases 2026"]
+framework: explainer
 ---
 
 La mayoría de las orientaciones sobre el impuesto del timbre que aún circulan describen un sistema en el que usted envía el documento a LHDN, el Recaudador calcula el impuesto, y usted paga lo que dice la notificación. Para una parte grande y creciente de los instrumentos, ese modelo terminó el 1 de enero de 2026 — y, con él, la cómoda posición de que el importe de la notificación era problema de otro.

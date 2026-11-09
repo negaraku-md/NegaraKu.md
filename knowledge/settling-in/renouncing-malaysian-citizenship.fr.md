@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "dual-citizenship-malaysia" }
 related: []
 keywords: ["renonciation à la citoyenneté", "double citoyenneté Malaisie", "dual citizenship Malaysia", "article 23", "article 24", "Constitution fédérale", "Formulaire K", "Form K", "privation de citoyenneté", "JPN"]
+framework: explainer
 ---
 
 Un Malaisien qui prête serment pour devenir citoyen d'un autre pays est souvent surpris de découvrir que son passeport bleu et son MyKad ne sont plus valides — non pas à cause d'un acte administratif caché, mais parce que la Constitution fédérale (Federal Constitution) elle-même traite la double citoyenneté comme quelque chose qui n'est pas reconnu. La question tourne autour de deux dispositions étroitement liées : l'article 23 (renonciation volontaire) et l'article 24 (privation lors de l'acquisition d'une citoyenneté étrangère).

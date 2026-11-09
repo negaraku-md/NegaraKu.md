@@ -65,6 +65,7 @@ faq:
     a: 'Vì việc một nhóm sản phẩm duy nhất gánh khoảng một nửa nền tảng xuất khẩu khiến rủi ro tập trung theo ba cách. Tính chu kỳ: chất bán dẫn lên xuống thất thường, nên một ngành tăng trưởng 69,2% trong một năm cũng có thể co lại mạnh. Vị trí trong chuỗi: lắp ráp và kiểm tra ở công đoạn cuối dễ bị cạnh tranh hơn chế tạo, nên các đối thủ có thể dựng lên cùng một năng lực. Địa chính trị: các biện pháp kiểm soát xuất khẩu và chính sách đưa sản xuất về nước (reshoring) được soạn ra ở các nền kinh tế khác lại tác động trực tiếp đến các nhà máy ở Malaysia.'
   - q: Vì sao cụ thể là Penang lại trở thành trung tâm của ngành công nghiệp chip Malaysia?
     a: Điều này bắt nguồn từ một quyết định chính sách năm 1972. Penang đã lập một khu thương mại tự do và thu hút các công ty điện tử nước ngoài bằng ưu đãi thuế, nhập khẩu linh kiện miễn thuế và lực lượng lao động sẵn có. Các công ty bán dẫn của Mỹ và Nhật Bản đã lập các hoạt động lắp ráp, và một cụm ngành đã hình thành. Các cụm ngành ngày càng sâu rễ theo thời gian — nhà cung cấp, dịch vụ bảo trì thiết bị, kỹ sư được đào tạo tại chỗ — đó là lý do vì sao nửa thế kỷ sau Penang và Kulim vẫn tập trung phần lớn của ngành này.
+framework: profile
 ---
 
 ## Tổng quan nhanh

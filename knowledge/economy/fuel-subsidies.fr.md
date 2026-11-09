@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["program-rahmah-cost-of-living", "cost-of-living-overview", "inflation-cpi", "ringgit", "gdp-overview"]
 keywords: ["subsidi bahan api Malaysia", "Mekanisme Harga Automatik", "APM harga minyak", "BUDI95", "BUDI Diesel", "subsidi bersasar", "harga RON95", "SKDS SKPS"]
+framework: explainer
 ---
 
 Dans la semaine du 23 au 29 juillet 2026, deux conducteurs pouvaient se tenir à la même pompe, faire le plein avec le même carburant et payer des prix presque du simple au double. L'un a payé RM1.99 par litre. L'autre a payé RM3.62.

@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "mykad" }
 related: ["program-rahmah-cost-of-living", "i-saraan-epf-voluntary-contribution", "lhdn", "income-tax-individuals", "mykad"]
 keywords: ["Sumbangan Tunai Rahmah", "STR", "asistencia en efectivo del gobierno de Malasia", "MySTR", "bantuantunai.hasil.gov.my", "consulta STR", "solicitud STR", "ayuda por costo de vida Malasia"]
+framework: how-to
 ---
 
 Beaucoup de gens connaissent le nom « STR » par les informations, ou par un

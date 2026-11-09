@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "remove-a-director" }
 related: ["remove-a-director", "agm-requirements", "resolution-notice-periods", "written-resolutions"]
 keywords: ["EGM requisition Malaysia", "section 311 Companies Act 2016", "shareholders call meeting", "10 per cent requisition", "minority shareholder meeting"]
+framework: how-to
 ---
 
 말레이시아의 모든 회사 비서 회사는 이사회가 고객이기 때문에 회의를 이사회 측면에서

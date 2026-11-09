@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "consumer-protection-act-1999" }
 related: ["court-hierarchy"]
 keywords: ["tuntutan kecil", "small claims", "mahkamah majistret", "aturan 93", "borang 198", "saman hutang", "tanpa peguam"]
+framework: how-to
 ---
 
 Seseorang berutang RM3,000 kepada Anda, enggan melunasinya, dan mengabaikan setiap panggilan. Menyewa pengacara mungkin menelan biaya lebih dari jumlah utang itu sendiri. Di sinilah prosedur **tuntutan kecil** ada: sebuah jalur yang dirancang khusus agar orang biasa dapat membawa sengketa kecil ke pengadilan — sendirian, murah, dan tanpa jubah pengacara.

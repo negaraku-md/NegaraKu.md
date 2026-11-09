@@ -87,6 +87,7 @@ faq:
     a: Non. Le Plan de la Malaisie est présenté et adopté sous forme de motion de politique soumise au débat parlementaire, et non sous forme de projet de loi. Le Budget, en revanche, doit passer par un projet de loi de finances (Supply Bill) qui suit l'ensemble du processus législatif avant d'être promulgué en loi de finances (Supply Act). Le 13e Plan de la Malaisie (RMK13), par exemple, a été présenté sous forme de motion à la Chambre des représentants (Dewan Rakyat) le 31 juillet 2025 et au Sénat (Dewan Negara) le 25 août 2025.
   - q: La totalité des 611 milliards de RM du RMK13 provient-elle de l'argent de l'État ?
     a: Non. Sur les quelque 611 milliards de RM d'investissement du RMK13, seuls 430 milliards de RM constituent l'allocation de développement de l'État. Le reste provient de 120 milliards de RM d'investissement direct national réalisé par les sociétés liées à l'État (GLC) et les sociétés d'investissement liées à l'État (GLIC), ainsi que de 61 milliards de RM via le mécanisme de partenariat public-privé (PPP).
+framework: explainer
 ---
 
 Le 31 juillet 2025, le Premier ministre a présenté devant la Chambre des

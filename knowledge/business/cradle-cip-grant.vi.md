@@ -76,6 +76,7 @@ social:
     - MalaysiaStartup
     - TechStartup
     - MOSTI
+framework: profile
 ---
 
 Hầu hết những người sáng lập lần đầu đều gặp cùng một bức tường: ý tưởng thì tốt, nhưng chưa có doanh thu, chưa có thành tích cho một ngân hàng, và cho đi cổ phần sớm thế này có vẻ non nớt. Câu trả lời của Malaysia cho khoảng trống đó là Cradle Fund — cơ quan chính phủ mà toàn bộ công việc là đưa tiền vào các startup công nghệ trước khi bất kỳ ai khác làm. Các khoản tài trợ Cradle Investment Programme (CIP) của nó là, đối với nhiều người sáng lập Malaysia, nguồn tài trợ bên ngoài đầu tiên mà họ từng huy động.

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "syariah-courts-malaysia" }
 related: []
 keywords: ["faraid", "harta pusaka", "pusaka islam", "waris", "mahkamah syariah", "baitulmal", "akta pembahagian 1958", "pusaka kecil"]
+framework: explainer
 ---
 
 Lorsqu'un musulman décède en Malaisie, ses biens ne passent pas nécessairement à l'héritier le plus proche ou le plus nécessiteux : ils sont distribués selon des quotes-parts fixes déterminées par la Syarak. Ce système est connu sous le nom de **faraid** et il constitue la méthode par défaut pour le patrimoine d'un musulman, sauf si tous les héritiers conviennent d'une autre disposition.

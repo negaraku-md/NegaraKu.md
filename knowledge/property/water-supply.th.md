@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "moving-to-malaysia-first-steps" }
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka akaun air", "syarikat air negeri", "bil air Malaysia", "SPAN", "sambungan air baharu"]
+framework: explainer
 ---
 
 คุณย้ายจากสลังงอร์ (Selangor) ไปยะโฮร์ (Johor) บัญชีธนาคารเหมือนเดิม เบอร์โทรศัพท์ก็ย้ายตามไปได้ แต่บัญชีน้ำประปาของคุณล่ะ? มันไม่ตามไปด้วย เพราะบริษัทที่จ่ายน้ำให้บ้านใหม่ของคุณไม่ใช่บริษัทเดียวกันเลย

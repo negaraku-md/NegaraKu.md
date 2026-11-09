@@ -78,6 +78,7 @@ faq:
     a: Có, một khi thu nhập của bạn vượt ngưỡng đăng ký. Khấu trừ hằng tháng (PCB/MTD) chỉ là một khoản ước tính được trừ trước. Tờ khai hằng năm mới là bước quyết toán — nơi các khoản giảm trừ được yêu cầu, các khoản thu nhập khác được khai báo, và tình trạng thực tế được giải quyết, dù điều đó nghĩa là được hoàn thuế hay phải nộp thêm. Việc có một hồ sơ thuế và nộp tờ khai là bắt buộc, độc lập với việc chủ lao động của bạn đã khấu trừ thuế mỗi tháng hay chưa.
   - q: Tôi đã có Mã số Thuế (Tax Identification Number) rồi — tôi có thể đăng nhập thẳng vào MyTax và nộp tờ khai không?
     a: Chưa được. Người khai thuế lần đầu cần hai thông tin xác thực theo thứ tự. Mã số thuế (TIN) có được qua e-Daftar (nhiều công dân và thường trú nhân đã tự động có một mã), tự nó không mở được e-Filing. LHDN (Cục Thuế Nội địa) yêu cầu một mã PIN riêng để kích hoạt tài khoản e-Filing gắn với TIN đó — trước đây phải qua chi nhánh, gần đây có thể yêu cầu qua cổng trực tuyến. Chỉ sau cả hai bước này, bạn mới có thể mở và nộp đúng mẫu tờ khai thuế.
+framework: rules
 ---
 
 Một nhân viên mới chuyển đến Kuala Lumpur bằng thị thực lao động (Employment Pass)

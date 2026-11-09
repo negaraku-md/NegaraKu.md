@@ -72,6 +72,7 @@ social:
     - StartABusiness
     - DoingBusinessInMalaysia
     - JKM
+framework: how-to
 ---
 
 Opening a childcare centre feels like a caring, low-barrier business — a house, a few cots, some warm hands. In Malaysia it is none of those things legally. The moment you take in four or more young children from different families for payment, you are running a **TASKA** (taman asuhan kanak-kanak), and a TASKA cannot open until it is registered with the government. Skip that step and you are not a small business owner; you are committing a criminal offence.

@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "emergencies-999" }
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "peka-b40-and-health-schemes", "healthcare-for-seniors", "emergencies-999"]
 keywords: ["hospital público Malasia", "cargos hospital público", "sistema de derivación hospitalaria", "cargo sala Clase 3", "cargos no ciudadanos hospital", "Akta Fee 1951", "hospital especializado de derivación", "tiempos de espera hospital público"]
+framework: explainer
 ---
 
 Con el tiquet de cola en la mano, el número ya con más de 80 personas por

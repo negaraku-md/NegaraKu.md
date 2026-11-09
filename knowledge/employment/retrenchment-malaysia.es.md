@@ -122,6 +122,7 @@ relations:
   - { rel: "requires", to: "termination-benefits-malaysia" }
 related: ["termination-of-employment-malaysia", "termination-benefits-malaysia", "unfair-dismissal-malaysia", "offboarding-statutory-checklist"]
 keywords: ["retrenchment malaysia", "form pk malaysia", "borang pk", "redundancy malaysia procedure", "retrenchment notification 30 days", "VSS malaysia", "LIFO retrenchment malaysia"]
+framework: rules
 ---
 
 Busque el plazo del Formulario PK y encontrará «30 días» repetido en docenas de páginas de RR. HH. malasias como si fuera la respuesta completa. Es más o menos un tercio de la respuesta. El propio formulario — el PDF real que publica el JTKSM — fija **tres plazos distintos**, y dos de ellos vencen *después* de que la reducción de plantilla ya haya ocurrido.

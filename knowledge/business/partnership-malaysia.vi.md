@@ -69,6 +69,7 @@ keywords:
   - "partner liability Malaysia"
   - "joint and several liability partnership"
   - "register partnership SSM"
+framework: explainer
 ---
 
 Hai người bạn đăng ký một công ty hợp danh vì nó tốn RM60 một năm và không ai đề cập đến một lựa chọn

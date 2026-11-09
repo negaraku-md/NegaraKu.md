@@ -116,6 +116,7 @@ relations:
   - { rel: "related-to", to: "dividends-and-solvency" }
 related: ["dividends-and-solvency", "share-allotment", "share-capital-malaysia", "written-resolutions", "resolution-notice-periods"]
 keywords: ["pengurangan modal Malaysia", "penyata kesolvenan seksyen 117", "kurangkan modal saham Sdn Bhd", "pengesahan mahkamah seksyen 116", "bantahan pemiutang enam minggu"]
+framework: decision
 ---
 
 Kandungan kesetiausahaan syarikat di Malaysia melayan modal berbayar sebagai satu angka

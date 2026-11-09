@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["income-tax-act-1967", "lhdn"]
 keywords: ["REIT tax Malaysia", "property trust fund", "section 61A", "withholding tax REIT", "YA 2026 REIT tax", "unit holder distribution"]
+framework: explainer
 ---
 
 말레이시아 부동산투자신탁(REIT)의 수익증권을 사면, 사실상 건물로부터 세금 고지서를 결코 받지 않는 임대인이 됩니다. 건물을 소유한 신탁이 세무당국이 손대기 전에 거의 모든 것을 여러분에게 넘겨주기 때문입니다. 소득세법(Income Tax Act 1967) 제61A조에 명시된 이 단 하나의 설계 선택이 부동산투자신탁(REIT)과 부동산 신탁 펀드(PTF)를 작동하게 합니다. 그러나 과세연도(YA) 2026에 그 거래의 나머지 절반 — *여러분*, 즉 수익증권 보유자가 어떻게 과세되는지 — 이 수년 만에 처음으로 바뀌었습니다.

@@ -73,6 +73,7 @@ social:
     - MalaysiaSME
     - CommercialProperty
     - DoingBusinessInMalaysia
+framework: rules
 ---
 
 Jika anda menyewa lot kedai, pejabat, gudang atau sekeping peralatan untuk perniagaan anda, penyewaan anda diam-diam berubah pada 1 Julai 2025. Pada tarikh itu, **SST yang diperluas** di Malaysia membawa sewaan atau pemajakan hartanah komersial dan aset ketara lain ke dalam skop **cukai perkhidmatan** — jadi seorang tuan tanah melebihi saiz tertentu kini perlu menambah **8%** kepada sewa. Namun begitu, pembaharuan yang sama dibina dengan satu pintu keluar yang sengaja untuk perniagaan kecil: ambang pendaftaran yang dinaikkan dan pengecualian khusus yang boleh dituntut oleh penyewa kecil. Berikut ialah siapa yang perlu mengenakan cukai, siapa yang dilindungi daripadanya, dan tarikh yang menentukan.

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "temple-music-nadaswaram" }
 related: ["tamil-in-malaysia", "temple-music-nadaswaram", "hinduism-in-malaysia", "deepavali", "estate-tamil-community", "silambam"]
 keywords: ["இந்திய செம்மொழிக் கலைகள்", "பரதநாட்டியம்", "கர்நாடக இசை", "அரங்கேற்றம்", "ஒடிசி", "Temple of Fine Arts", "Sutra Dance Theatre", "Indian classical arts Malaysia", "Bharatanatyam Malaysia", "Carnatic music Malaysia"]
+framework: history-culture
 ---
 
 Dans n'importe quelle grande ville de Malaisie, un soir de Deepavali ou un jour de fête dans un temple, on peut voir un artiste de bharatanatyam monter sur scène, les grelots de chevilles tintant, se mouvant au rythme du mridangam. Ces pas et ces gestes ne sont pas fortuits : ils racontent une tradition artistique de l'Inde du Sud vieille de plus de mille ans, et la manière dont la communauté tamoule de Malaisie l'a portée pendant plus d'un siècle et demi.

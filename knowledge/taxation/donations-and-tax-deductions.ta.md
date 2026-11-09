@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["waqf-islamic-endowment-malaysia", "income-tax-in-malaysia", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["tax deductible donation Malaysia", "section 44(6) approved institution", "10% aggregate income donation cap", "check LHDN approved charity", "derma potongan cukai"]
+framework: rules
 ---
 
 ரசீதில் *subsection 44(6) இன் கீழ் வரி விலக்கு* எனக் குறிப்பிடப்பட்டிருக்கும். அந்த

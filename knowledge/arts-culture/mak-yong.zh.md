@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["wayang-kulit", "batik"]
 keywords: ["Mak Yong", "teater tarian tradisional", "warisan budaya tidak ketara", "UNESCO Malaysia", "rebab", "Kelantan", "Pak Yong", "Mengadap Rebab"]
+framework: history-culture
 ---
 
 第一个声音并非来自演员。它来自一块梨形、张着三根弦的木头——rebab——在一座露天木造舞台边缘被缓缓拉奏。观众坐在三面。屋顶是棕榈叶搭成的。而在第一句台词说出之前，一位公主已经朝着这件乐器俯身，跳起一支光凭名字就足以说明一切的舞蹈：**Mengadap Rebab**。

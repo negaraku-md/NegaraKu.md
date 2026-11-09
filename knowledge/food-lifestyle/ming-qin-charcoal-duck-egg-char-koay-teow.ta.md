@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#MingQin", "#CharKoayTeow", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 பினாங்கு நிலப்பகுதியில் Bukit Mertajam-இல், ஒரு எளிய மாலை நூடுல் கடை, ஒரு

@@ -115,6 +115,7 @@ relations:
   - { rel: "related-to", to: "dividends-and-solvency" }
 related: ["dividends-and-solvency", "share-allotment", "share-capital-malaysia", "written-resolutions", "resolution-notice-periods"]
 keywords: ["capital reduction Malaysia", "solvency statement section 117", "reduce share capital Sdn Bhd", "section 116 court confirmation", "creditor objection six weeks"]
+framework: decision
 ---
 
 マレーシアの秘書実務に関するコンテンツは、払込済資本を固定された数字として扱う——設立時に定め、銀行に求められれば積み増し、その後は二度と触れないものとして。2016年会社法（Companies Act 2016、Act 777）は、それを取り戻すための完全な手続きを2つ用意しており、そのうち1つはそもそも裁判所を必要としない。同法はまた、支払能力の判断を誤ることに5年の禁錮刑を課しており、おそらくそれゆえに誰もこれについて書かないのだろう。

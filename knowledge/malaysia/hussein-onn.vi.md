@@ -68,6 +68,7 @@ verificationNeeded:
   - "Xác nhận các niên đại chính xác (nhiệm kỳ thủ tướng, ngày sinh, ngày mất) với Perdana Leadership Foundation và PMO."
   - "Ngày và nơi qua đời khác nhau giữa các nguồn: Perdana Leadership Foundation và hộp thông tin của Wikipedia đưa ra ngày 29 tháng 5 năm 1990 (Vùng Vịnh San Francisco, California), trong khi Encyclopædia Britannica ghi ngày 28 tháng 5 năm 1990 tại Daly City, California, và phần thân bài viết của Wikipedia dẫn Seton Medical Center, Hạt San Mateo — cần đối chiếu trước khi xuất bản."
   - "Về việc chọn cấp phó: Mahathir Mohamad được bổ nhiệm làm Phó Thủ tướng năm 1976, nhưng một số tường thuật (ví dụ Wikipedia) cho rằng Ghazali Shafie là ứng viên mà cá nhân Hussein Onn ưa thích — cần xác minh cách sự bổ nhiệm được khắc họa."
+framework: profile
 ---
 
 Ít nhà lãnh đạo Malaysia nào mang một di sản nặng nề hơn Hussein Onn. Ông là con của Onn Jaafar — người đã sáng lập UMNO, đảng sẽ thống trị nền chính trị của quốc gia trong hơn nửa thế kỷ — và ông đến với chức thủ tướng không phải qua tham vọng mà qua mất mát đột ngột, nhậm chức vào tháng 1 năm 1976 sau khi Thủ tướng qua đời ở London. Trong năm năm lặng lẽ nhưng hệ trọng, ông giành được một danh hiệu sống lâu hơn chính phủ của mình: **Bapa Perpaduan**, **Cha của Sự Đoàn kết**.

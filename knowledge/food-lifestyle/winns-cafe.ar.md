@@ -74,6 +74,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#WinnsCafe", "#Peranakan", "#Nyonya", "#Penang", "#BibGourmand"]
+framework: profile
 ---
 
 بينانغ هي القلب القديم لمطبخ الصينيين المولودين في المضايق، و Winn's Cafe يصون هذا

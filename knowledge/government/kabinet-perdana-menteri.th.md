@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "parliament", "dewan-rakyat", "dewan-negara", "yang-di-pertuan-agong"]
 keywords: ["Jemaah Menteri", "Kabinet Malaysia", "Perdana Menteri Malaysia", "Perkara 43 Perlembagaan Persekutuan", "kepercayaan majoriti Dewan Rakyat", "tanggungjawab bersama", "Yang di-Pertuan Agong", "Perkara 40(2)"]
+framework: explainer
 ---
 
 ไม่มีผู้มีสิทธิเลือกตั้งคนใดในมาเลเซียทำเครื่องหมายบนบัตรลงคะแนนที่เขียนว่า "นายกรัฐมนตรี" บัตรลงคะแนนในการเลือกตั้งทั่วไประบุชื่อผู้สมัครสำหรับเขตเลือกตั้ง Dewan Rakyat หนึ่งเขตเท่านั้น

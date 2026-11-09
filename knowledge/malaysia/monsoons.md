@@ -78,6 +78,7 @@ faq:
     a: Tidak. Banjir di pantai barat tidak selalu disebabkan Monsun Timur Laut — menurut Ketua Pengarah MetMalaysia, ia sering berpunca daripada sistem tekanan rendah yang berasingan, seperti yang menjejaskan Perak, Selangor dan Perlis pada November 2025. Selain itu, banjir kilat akibat sistem perparitan bandar yang tidak mencukupi adalah fenomena berasingan dan boleh berlaku pada bila-bila masa tanpa mengira monsun.
   - q: Adakah Monsun Timur Laut sama teruk sepanjang November hingga Mac?
     a: Tidak. Data rasmi Majlis Keselamatan Negara (MKN) bagi musim 2024/2025 menunjukkan kawasan berisiko tertinggi berubah mengikut fasa. Pada fasa awal (November–Disember) Kelantan, Terengganu, Pahang, Johor, Sarawak dan Sabah terjejas; pada fasa lewat (Januari–Februari) tumpuan beralih ke Pahang, Johor, Sarawak dan Sabah — Kelantan dan Terengganu tidak lagi disenaraikan berisiko tertinggi. Keseluruhan musim dijangka mencatat 5 hingga 7 episod hujan lebat.
+framework: explainer
 ---
 
 Setiap November, sebelum semak berita, ramai penduduk Kota Bharu, Kuala Terengganu dan Kuantan mula menyemak paras air sungai berhampiran rumah mereka. Ini bukan kebiasaan yang timbul daripada bencana luar jangka — ia satu jadual yang boleh diramal, berulang setiap tahun, dan puncanya ialah satu sistem angin bermusim yang sama yang juga menentukan bila pantai barat Semenanjung pula kering.

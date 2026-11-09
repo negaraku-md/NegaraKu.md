@@ -80,6 +80,7 @@ social:
     - TourOperator
     - DoingBusinessInMalaysia
     - MalaysiaLicensing
+framework: how-to
 ---
 
 Anda telah menemui pembekal, membina jadual perjalanan dan bersedia untuk mula menjual percutian — tetapi di Malaysia, penjualan itulah bahagian yang mula-mula dicapai oleh undang-undang. Sebelum satu pakej pelancongan diiklankan atau satu tiket dijual, perniagaan di sebaliknya mesti dilesenkan oleh Kementerian Pelancongan, Seni dan Budaya (MOTAC). Ini bukan formaliti yang ditambah kemudian; ia adalah pintu yang perlu anda lalui untuk berniaga langsung, dan mengendalikan pakej pelancongan tanpanya adalah satu kesalahan jenayah.

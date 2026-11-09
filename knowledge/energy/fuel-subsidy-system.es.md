@@ -132,6 +132,7 @@ relations:
   - { rel: "related-to", to: "cost-of-living-malaysia" }
 related: ["padu-central-database", "petronas"]
 keywords: ["subsidi bahan api", "BUDI95", "RON95", "subsidi diesel", "PADU", "subsidi bersasar", "BUDI MADANI", "RM1.99", "rasionalisasi subsidi"]
+framework: explainer
 ---
 
 Durante décadas, todos en Malasia —millonarios o recolectores de caucho— pagaban el mismo precio por la gasolina en el surtidor. El 30 de septiembre de 2025, ese arreglo terminó. Un litro de RON95 ahora puede costarle a usted RM1.99 pero casi el doble a su vecino, y lo que lo decide no es el precio mundial del petróleo, sino el documento de identidad que introduce en el terminal.

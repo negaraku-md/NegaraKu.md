@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["imigresen", "employment-act-1955", "opening-bank-account"]
 keywords: ["hiring a maid in Malaysia", "foreign domestic helper Malaysia", "confinement nanny Malaysia", "confinement centre Malaysia", "pembantu rumah asing", "domestic worker rules Malaysia", "part time maid Malaysia", "postnatal care Malaysia"]
+framework: explainer
 ---
 
 聘请一名住家帮佣的家庭，与产后预订坐月子中心一个月的家庭，做的事情感觉上很相似——都是把有偿的帮手带进家里——但两者所受的政府监管程度几乎完全相反。前者要走完一套全国性的移民程序，涉及收入门槛与严格的「每户一名」上限。后者在全国大部分地方，领牌方式和一间美发沙龙没有分别。

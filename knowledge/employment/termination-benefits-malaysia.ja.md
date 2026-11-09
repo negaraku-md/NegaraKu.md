@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "retrenchment-malaysia" }
 related: ["termination-of-employment-malaysia", "retrenchment-malaysia", "offboarding-statutory-checklist"]
 keywords: ["termination benefits malaysia", "retrenchment benefit calculation", "TBLB regulations 1980", "severance pay malaysia", "lay off benefits malaysia", "10 15 20 days wages"]
+framework: rules
 ---
 
 二社の使用者が同じ日に同じ従業員を整理解雇する。一方は1か月分の給与を支払い、それを気前がよいと称する。もう一方は9年分の勤続年数それぞれについて20日分の賃金を支払う——およそ6か月分の給与に相当する——なぜなら、それが法律の求めるところだからである。その違いは、後者が1980年雇用（雇用終了・一時解雇給付）規則（Employment (Termination and Lay-Off Benefits) Regulations 1980、以下「TBLB規則」）を読んでいたことにある。

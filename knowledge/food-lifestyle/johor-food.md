@@ -94,6 +94,7 @@ verificationNeeded:
   - "The Middle Eastern (often said to be Egyptian ful medames) origin of kacang pool, and the Indonesian/Betawi and Javanese roots attributed to lontong, lodeh, soto and nasi ambeng in Johor — these are anecdotal attributions from food and travel media rather than documented histories."
   - "The strength of the 'royal cuisine' and Javanese/Bugis framing for Johor food overall — plausible and widely stated, but confirm the demographic and culinary-history claims against a scholarly or heritage source rather than listicles."
   - "The specific town associations (mee bandung and otak-otak with Muar; nasi beriani gam with Batu Pahat; durians with Muar and Segamat) reflect popular reputation; confirm any 'origin' claims with a local or official source before stating them as fact."
+framework: history-culture
 ---
 
 Cross the causeway from Singapore and the first Malaysian state you reach is

@@ -79,6 +79,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaTax
     - MalaysiaCompanyLaw
+framework: explainer
 ---
 
 Dès qu'une entreprise en détient plusieurs — une branche commerciale et une branche immobilière, deux marques, une société d'exploitation et les investissements de la famille — la question n'est plus «comment diriger mon entreprise ?» mais «comment structurer le groupe ?». Une société holding se place au sommet, détenant les autres, et elle peut apporter une propriété plus claire, une protection des actifs et une sortie plus fluide. Elle apporte aussi des comptes consolidés, son propre régime fiscal et des frais auxquels on ne s'attend pas forcément lorsqu'on déplace les pièces.

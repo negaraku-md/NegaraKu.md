@@ -110,6 +110,7 @@ keywords:
   - "ordinarily resident director"
   - "foreign owned Sdn Bhd director"
   - "pengarah pemastautin Malaysia"
+framework: explainer
 ---
 
 Search for how to incorporate a Malaysian company as a foreigner and you will be sold

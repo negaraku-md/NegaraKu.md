@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "mobile-sim-plans" }
 related: ["moving-to-malaysia-first-steps", "mobile-sim-plans"]
 keywords: ["akaun elektrik TNB", "buka akaun TNB baru", "deposit elektrik TNB", "tukar nama akaun elektrik", "Change of Tenancy TNB", "SESB Sabah elektrik", "Sarawak Energy deposit", "myTNB Self Meter Reading", "bacaan meter elektrik", "Kedai Tenaga"]
+framework: how-to
 ---
 
 新居の鍵は手に入れたのに、照明のスイッチは何も反応しない。屋外のメーターは

@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["program-rahmah-cost-of-living", "cost-of-living-overview", "inflation-cpi", "ringgit", "gdp-overview"]
 keywords: ["subsidi bahan api Malaysia", "Mekanisme Harga Automatik", "APM harga minyak", "BUDI95", "BUDI Diesel", "subsidi bersasar", "harga RON95", "SKDS SKPS"]
+framework: explainer
 ---
 
 Trong tuần 23 đến 29 tháng 7 năm 2026, hai người lái xe có thể đứng ở cùng một trạm bơm, đổ cùng một loại nhiên liệu, và trả những mức giá chênh nhau gần gấp đôi. Một người trả RM1.99 mỗi lít. Người kia trả RM3.62.

@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "free-trade-agreements" }
 related: ["sales-and-service-tax", "malaysia-free-trade-agreements"]
 keywords: ["import duty", "customs duty", "HS code", "AHTN", "tariff classification", "ATIGA", "Form D", "CIF", "sales tax on imports", "Customs Act 1967"]
+framework: explainer
 ---
 
 Dua kiriman yang serupa bisa mendarat di Pelabuhan Klang dan membayar bea yang jauh berbeda — bukan karena isinya, tetapi karena kode delapan-digit yang diketik seseorang pada deklarasi. Kode itulah keseluruhan permainannya.

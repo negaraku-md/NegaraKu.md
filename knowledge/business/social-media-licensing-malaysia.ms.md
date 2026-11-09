@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "online-business-licence-malaysia" }
 related: ["online-safety-act-malaysia", "online-business-licence-malaysia"]
 keywords: ["lesen media sosial Malaysia", "lesen kelas ASP MCMC", "lesen 8 juta pengguna Malaysia", "pelesenan platform media sosial MCMC", "adakah saya perlu lesen media sosial Malaysia"]
+framework: explainer
 ---
 
 Setiap beberapa bulan, seorang penjual Malaysia diberitahu bahawa mereka memerlukan lesen

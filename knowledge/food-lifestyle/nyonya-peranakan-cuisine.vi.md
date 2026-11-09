@@ -98,6 +98,7 @@ verificationNeeded:
   - "Nguồn gốc của cái tên 'kari kapitan' (một câu chuyện phổ biến gắn nó với một Kapitan China / một 'thuyền trưởng' hỏi người đầu bếp bữa tối có gì) — từ nguyên này mang tính giai thoại và chưa được kiểm chứng; hãy xác nhận với một nguồn lịch sử ẩm thực."
   - "Việc inchi kabin (gà rán tẩm gia vị kiểu Penang) có đúng là món Nyonya, món Hải Nam hay có nguồn gốc lai thời thuộc địa hay không — các cách quy gán khác nhau; hãy xác nhận với một nguồn di sản hoặc ẩm thực của Penang."
   - "Khẳng định chính xác rằng lối nấu Nyonya Penang có vị chua và cay bắt nguồn từ ảnh hưởng Thái trong khi lối nấu Melaka/Singapore chịu ảnh hưởng Indonesia nhiều hơn — khung vùng miền này tái diễn trong các nguồn nhưng nên được xác nhận với công trình học thuật như các nghiên cứu của Journal of Ethnic Foods đã trích dẫn."
+framework: history-culture
 ---
 
 Múc một thìa vào bát món Nyonya, bạn nếm thấy hai thế giới cùng một lúc: chiều sâu lên men,

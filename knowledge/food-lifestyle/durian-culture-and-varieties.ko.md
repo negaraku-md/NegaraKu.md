@@ -93,6 +93,7 @@ keywords:
   - "varieti durian"
   - "musim durian"
   - "eksport durian China"
+framework: explainer
 ---
 
 말레이시아에서 두리안은 단순한 과일이 아닙니다 — 과일의 왕이라 불리며, 절정기에는

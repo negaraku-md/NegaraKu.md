@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "corporate-rescue-malaysia" }
 related: ["close-a-company", "members-voluntary-winding-up", "strike-off-company-malaysia", "corporate-rescue-malaysia", "company-director-requirements"]
 keywords: ["التصفية الطوعية بمبادرة الدائنين ماليزيا", "شركة Sdn Bhd معسرة", "المادة 539 قانون الشركات 2016", "التجارة الخاطئة ماليزيا", "الأفضلية غير المستحقة المادة 528", "creditors voluntary winding up malaysia", "insolvent sdn bhd", "section 539 companies act 2016"]
+framework: how-to
 ---
 
 في اللحظة التي يدرك فيها مجلس الإدارة أن الشركة لا تستطيع سداد ديونها، يتوقف السؤال القانوني

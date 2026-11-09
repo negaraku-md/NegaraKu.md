@@ -105,6 +105,7 @@ keywords:
   - "winding up petition unpaid debt Malaysia"
   - "limitation period debt Malaysia"
   - "tuntutan hutang syarikat"
+framework: how-to
 ---
 
 关于追讨马来西亚商业债务的建议，多数最后都塌缩成一个字：告。那是阶梯上最贵的一级，

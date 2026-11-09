@@ -70,6 +70,7 @@ sources:
 relations: []
 related: ["choosing-accounting-secretarial-audit-tax-firm-malaysia", "company-secretary-malaysia", "audit-exemption-criteria", "accounting-records-section-245"]
 keywords: ["change company secretary Malaysia", "remove auditor Malaysia", "change tax agent LHDN", "switch accounting firm Malaysia", "resign company secretary section 237", "special notice remove auditor", "change corporate services firm Malaysia", "how to change company secretary SSM", "replace auditor Companies Act 2016", "switch bookkeeper Malaysia"]
+framework: how-to
 ---
 
 Sooner or later a company outgrows a provider — the fees creep up, the service goes quiet, or you simply find a better fit. The instinct is to send one email and move on. But Malaysia does not treat these four professionals the same way: dropping your bookkeeper is a phone call, while removing your auditor is a formal, legally protected process. Here is how each one actually works, and how to switch without leaving a compliance gap.

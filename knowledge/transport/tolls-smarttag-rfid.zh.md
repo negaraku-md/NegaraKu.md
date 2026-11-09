@@ -75,6 +75,7 @@ relations:
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["tol lebuh raya Malaysia", "SmartTAG", "RFID Touch n Go", "JustGO PLUS", "ANPR tol", "MLFF tol tanpa palang", "lorong tol Malaysia"]
 sourceContentHash: "c1392d940afe3b99"
+framework: explainer
 ---
 
 你前方 RFID 车道上的车突然刹停，因为它车头灯上的贴纸没有被侦测到——尽管许多人以为 RFID 代表「完全不需要做任何事」。事实是，马来西亚目前在不同的高速公路上同时运行着至少四代收费技术，而把其中一种误认成另一种，正是车辆卡在闸口的常见原因。

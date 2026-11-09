@@ -87,6 +87,7 @@ relations:
   - { rel: "compares-with", to: "malaysia-indonesia-relations" }
 related: []
 keywords: ["hubungan Malaysia Singapura", "perjanjian air 1962", "RTS Link", "Tambak Johor", "Pulau Batu Puteh", "JS-SEZ", "perpisahan 1965", "dagangan dua hala"]
+framework: explainer
 ---
 
 இரு நாடுகள் ஒரே காஸ்வேயை, ஒரே நீர் வழங்கலை, ஒவ்வொரு நாளும் கடந்து செல்லும் நூறாயிரக்கணக்கான பயணிகளைப் பகிர்ந்துகொள்கின்றன — மேலும் உணர்ச்சிமிக்க ஒரு பிரிவினை வரலாற்றையும். சிங்கப்பூருடனான உறவை விட நெருக்கமான, சிக்கலான, புரிந்துகொள்ள முக்கியமான வேறு எந்த மலேசிய இருதரப்பு உறவும் இல்லை.

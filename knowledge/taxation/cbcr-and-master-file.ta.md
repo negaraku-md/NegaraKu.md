@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "transfer-pricing-documentation" }
 related: ["transfer-pricing-documentation", "global-minimum-tax-pillar-two", "permanent-establishment"]
 keywords: ["CbCR Malaysia", "country by country reporting Malaysia", "CbCR threshold RM3 billion", "master file Malaysia transfer pricing", "P.U.(A) 357/2016"]
+framework: rules
 ---
 
 குழுமங்களைத் தடுக்கும் காலக்கெடு தாக்கல் காலக்கெடு அல்ல. அது அறிவிப்பு, மேலும் அது **அறிக்கையிடும் நிதியாண்டின் கடைசி நாளில்** விழுகிறது — ஆண்டு இன்னும் முடிவடையும் முன்பே, மேலும் அறிக்கையே செலுத்தப்பட வேண்டிய நாளுக்கு முழு பன்னிரண்டு மாதங்களுக்கு முன்பே.

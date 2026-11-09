@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "accounting-records-section-245" }
 related: ["llp-vs-sdn-bhd", "register-llp-malaysia", "accounting-records-section-245", "sdn-bhd-bookkeeping"]
 keywords: ["rekod perakaunan PLT", "seksyen 69 Akta PLT 2012", "perakuan tahunan PLT", "solvency declaration LLP", "PLT vs Sdn Bhd", "Akta 743"]
+framework: rules
 ---
 
 ஒரு LLP, SSM-க்கு ஒரு நிதிநிலை அறிக்கையைக்கூடச் சமர்ப்பிக்காமல் பல ஆண்டுகள் இயங்க முடியும் — இந்தக் கட்டமைப்பைப் பற்றிய ஒரு பொதுவான தவறான புரிதல் இங்குதான் உள்ளது. தாக்கல் தேவை இல்லாதது என்பது பொறுப்பு இல்லாதது என்று அர்த்தமல்ல. Limited Liability Partnerships Act 2012-ன் பிரிவு 69, ஒவ்வொரு வரையறுக்கப்பட்ட பொறுப்புக் கூட்டாண்மையையும் ஒரு கம்பெனியின் அளவுக்கு இறுக்கமான ஒரு பதிவு வைத்திருக்கும் தரநிலைக்கு இன்னும் கட்டுப்படுத்துகிறது, மேலும் பிரிவு 68, பொது நிதிநிலை அறிக்கையை, கூட்டாளர்களுக்குத் தனிப்பட்ட பொறுப்பைச் சுமக்கும் மற்றொரு கருவியால் மாற்றுகிறது: கடன் செலுத்தும் திறன் பிரகடனம்.

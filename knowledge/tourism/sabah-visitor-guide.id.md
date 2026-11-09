@@ -93,6 +93,7 @@ relations:
   - { rel: "part-of", to: "malaysia-agreement-1963" }
 related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
 keywords: ["Sabah travel guide", "Kota Kinabalu", "Mount Kinabalu climb permit", "Kinabalu Park UNESCO", "Sipadan diving permit", "Sepilok orangutan", "Sabah immigration checkpoint", "Sabah entry requirements"]
+framework: explainer
 ---
 
 Anda bisa terbang dari Kuala Lumpur ke Kota Kinabalu tanpa meninggalkan negara ini dan tetap mengantre di loket imigrasi saat mendarat. Kejutan itu menimpa banyak pengunjung pertama kali — dan merupakan hal paling penting untuk dipahami sebelum Anda merencanakan perjalanan ke Sabah. Panduan ini menjelaskan pintu masuk, daya tarik utama, dan aturan masuk yang menjadikan Sabah seolah-olah tempat tersendiri, karena dalam satu arti yang sangat nyata, memang begitulah keadaannya.

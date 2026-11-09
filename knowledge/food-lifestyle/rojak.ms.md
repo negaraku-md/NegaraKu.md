@@ -90,6 +90,7 @@ verificationNeeded:
   - "Asal usul rojak. Karya rujukan menjejaki perkataan dan hidangan ini kepada bahasa Jawa Kuno (Zoetmulder mengaitkannya dengan anrujak/rinujak, 'memotong menjadi cebisan kecil'), tetapi sebagaimana ia wujud di Malaysia, hidangan ini merentas budaya dan tiada pencipta tunggal atau tarikh pasti yang didokumentasikan — sahkan dengan sumber sejarah masakan atau leksikografi, bukan media makanan."
   - "Asal usul dan usia rojak India/mamak (pasembur) secara khusus. Penulis makanan mencatatkan tiada rujukan pasti tentang bila atau di mana versi mamak ini muncul — jangan nyatakan tarikh atau pencipta dengan yakin."
   - "Sama ada belacan udang yang diperam (hae ko) digunakan secara universal dalam rojak buah. Sesetengah sumber menggambarkan kuahnya sebagai belacan udang, gula, cili dan jus limau sahaja, dengan asam jawa atau taucu ditambah oleh sesetengah penjaja; penggunaan dan penamaan hae ko secara khusus berbeza-beza — sahkan dengan sumber serantau."
+framework: explainer
 ---
 
 Minta "rojak" di satu gerai, anda akan dapat timbunan sejuk buah dan cucur

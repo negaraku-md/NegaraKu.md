@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "motor-insurance" }
 related: ["klang-valley-rail", "e-hailing-grab", "touch-n-go", "driving-licence-malaysians", "driving-licence-foreigners", "road-tax-renewal", "motor-insurance"]
 keywords: ["getting around Malaysia", "Malaysia transport overview", "public transport Malaysia", "how to travel in Malaysia", "Klang Valley transport", "domestic flights Malaysia", "driving in Malaysia", "Malaysia without a car", "KTM ETS", "express bus Malaysia"]
+framework: journey-hub
 ---
 
 ถามคนที่เคยอาศัยอยู่ทั้งในกัวลาลัมเปอร์และ เช่น Ipoh ว่าพวกเขาเดินทางอย่างไร แล้วคุณจะได้รับคำตอบที่แตกต่างกันโดยสิ้นเชิงสองแบบ คนหนึ่งพูดถึงการแตะเข้าที่ประตู LRT และเรียก Grab สำหรับกิโลเมตรสุดท้าย อีกคนหนึ่งพูดถึงว่าจะใช้ทางด่วนสายไหนและจอดรถที่ไหน ทั้งคู่กำลังอธิบายประเทศเดียวกัน มาเลเซียไม่มีระบบขนส่งเพียงระบบเดียว — มันมีระบบขนาดเล็กที่หนาแน่นในหุบเขากลัง และระบบที่ใหญ่กว่ามากในรูปแบบรถยนต์ในที่อื่น ๆ ทั้งหมด เย็บรวมกันด้วยรถไฟระหว่างเมือง รถประจำทาง และเมื่อระยะทางเริ่มไกลจริง ๆ ก็เครื่องบิน

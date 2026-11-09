@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-special-rights-ma63" }
 related: []
 keywords: ["hasil negeri", "geran perkapita", "geran jalan raya negeri", "Jadual Kesepuluh", "Perkara 109", "Perkara 110", "kewangan persekutuan-negeri", "royalti", "cukai jualan negeri"]
+framework: explainer
 ---
 
 மலேசியாவில் ஒரு மாநில அரசு தனது வரவுசெலவுத் திட்டத்தை (பட்ஜெட்) வகுக்கும்போது, அது அரிதாகவே குறிப்பிடப்படும் ஒரு உண்மையிலிருந்து தொடங்குகிறது: அதிக வருவாய் தரும் வரிகள் — வருமான வரி, விற்பனை மற்றும் சேவை வரி, சுங்கம் — அது வசூலிக்கக்கூடியவை அல்ல. அந்த ஆதாரங்கள் கூட்டரசின் (Persekutuan) அதிகார எல்லைக்குள் அடங்குகின்றன. மாநிலங்களுக்கு எஞ்சியிருப்பது என்ன, அந்த இடைவெளி எவ்வாறு நிரப்பப்படுகிறது என்பது கூட்டரசு அரசியலமைப்பில் (Perlembagaan Persekutuan) தெள்ளத் தெளிவாக நிர்ணயிக்கப்பட்டுள்ளது.

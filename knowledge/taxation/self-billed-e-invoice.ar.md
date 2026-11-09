@@ -86,6 +86,7 @@ relations:
   - { rel: "requires", to: "e-invoice-data-fields" }
 related: ["e-invoicing", "myinvois-phases", "consolidated-e-invoice", "e-invoice-data-fields", "e-invoice-vs-tax-invoice"]
 keywords: ["الفاتورة الإلكترونية ذاتية الإصدار", "self-billed e-Invoice", "فاتورة ذاتية الإصدار ماليزيا", "فاتورة إلكترونية مورِّد أجنبي", "رقم التعريف الضريبي العام EI00000000030", "e-invois belian sendiri", "فاتورة إلكترونية عمولة الوكيل"]
+framework: rules
 ---
 
 الشركة الأكثر عرضةً للوقوع في فخّ الفوترة الإلكترونية ليست تلك ذات دفتر المبيعات

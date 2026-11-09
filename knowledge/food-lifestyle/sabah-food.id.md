@@ -94,6 +94,7 @@ verificationNeeded:
   - "Apakah pinasakan dipanggang atau dimasak berkuah: sumber menggambarkan baik olahan basung (big-eye scad) yang dimasak dengan takob-akob dan kunyit maupun versi yang dipanggang — pastikan metode gaya rumahan yang baku dengan sumber setempat."
   - "Klaim bahwa sang nyuk mian berasal dari pantai timur Sabah (Tawau) sebelum menyebar ke Kota Kinabalu — banyak diulang dalam media makanan tetapi perlu dipastikan dengan sumber setempat atau historis."
   - "Pengaitan tradisi mi Sabah secara khusus kepada pendatang Hakka (dibandingkan pendatang Tionghoa secara lebih luas) — pastikan kaitan kelompok dialek yang dominan dengan sumber sejarah migrasi."
+framework: explainer
 ---
 
 Seberangi Laut China Selatan dari Semenanjung Malaysia dan meja makannya pun

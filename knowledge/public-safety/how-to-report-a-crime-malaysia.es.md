@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "data-breach-notification-malaysia" }
 related: ["online-safety-act-malaysia", "debt-recovery-malaysia", "data-breach-notification-malaysia"]
 keywords: ["denuncia policial", "cómo presentar una denuncia policial", "e-reporting PDRM", "997 NSRC", "999 emergencia", "Sección 107 Código de Procedimiento Penal"]
+framework: how-to
 ---
 
 Fuerzan la cerradura de su coche, le arrebatan la cartera, o sale dinero de su

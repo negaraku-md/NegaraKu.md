@@ -116,6 +116,7 @@ relations:
   - { rel: "related-to", to: "dividends-and-solvency" }
 related: ["dividends-and-solvency", "share-allotment", "share-capital-malaysia", "written-resolutions", "resolution-notice-periods"]
 keywords: ["capital reduction Malaysia", "solvency statement section 117", "reduce share capital Sdn Bhd", "section 116 court confirmation", "creditor objection six weeks"]
+framework: decision
 ---
 
 马来西亚的秘书事务内容把实缴资本当成一个固定数字——注册成立时定下来，银行开口时补上去，

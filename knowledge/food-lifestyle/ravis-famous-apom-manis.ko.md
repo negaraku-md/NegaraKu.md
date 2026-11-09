@@ -77,6 +77,7 @@ related:
   - "apam-balik"
 social:
   hashtags: ["#RavisApomManis", "#ApomManis", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 George Town의 Jalan Burma에서, 거의 한 세기 동안 달콤한 팬케이크를 구워 온 노점이

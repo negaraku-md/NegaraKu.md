@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysian-citizenship" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["permanent residency Malaysia", "MyPR", "red IC Malaysia", "Entry Permit Malaysia", "PR spouse Malaysian", "Immigration Act 1959/63", "Regulation 4 Immigration Regulations 1963"]
+framework: explainer
 ---
 
 对许多在马来西亚长期打拼的人来说，一张红色的马来西亚身份证是那道静悄悄的终点线——续了十年同一张探访准证的外籍妻子、再也不想申请工作准证延期的工程师、想要有个永久归属之地的退休人士。那张卡，也就是MyPR，正是马来西亚永久居留权在你钱包里的真实样子。

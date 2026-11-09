@@ -91,6 +91,7 @@ relations:
   - { rel: "part-of", to: "mydigital-blueprint" }
 related: ["malaysia-startup-ecosystem", "cradle-cip-grant", "malaysia-digital-economy-in-numbers", "mydigital-blueprint"]
 keywords: ["KL20", "KL20 Summit 2024", "KL20 Action Paper", "Malaysia startup ecosystem", "top 20 global startup hub", "Golden Pass", "pelan tindakan KL20", "Cradle Fund startup"]
+framework: explainer
 ---
 
 En avril 2024, la Malaisie a cessé de parler de ses startups dans le langage de l'espoir pour commencer à en parler dans celui des classements. L'annonce était directe : faire entrer Kuala Lumpur dans les 20 premiers écosystèmes de startups au monde d'ici 2030, ou admettre que le pays avait tourné au ralenti.

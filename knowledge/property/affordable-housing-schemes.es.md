@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "home-loan-financing" }
 related: []
 keywords: ["vivienda asequible", "rumah mampu milik", "PR1MA", "Residensi Wilayah", "RUMAWIP", "Rumah Mesra Rakyat", "PPR", "Rumah Selangorku", "Residensi MADANI", "vivienda asequible Malasia"]
+framework: decision
 ---
 
 Tu salario es de RM4,000 al mes y el precio de una casa adosada en la ciudad ya ha llegado a medio millón de ringgit — ¿por dónde deberías siquiera empezar a buscar? La respuesta no es un único programa, sino un menú de programas gubernamentales, cada uno dirigido a un tramo de ingresos distinto. Elegir el equivocado significa desperdiciar meses esperando un sorteo de una vivienda para la que nunca fuiste elegible desde el principio.

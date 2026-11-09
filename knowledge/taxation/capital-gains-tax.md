@@ -88,6 +88,7 @@ relations:
   - { rel: "explained-in", to: "capital-or-revenue" }
 related: ["capital-or-revenue", "rpgt-rates", "corporate-tax-rates", "income-tax-act-1967"]
 keywords: ["capital gains tax Malaysia", "CGT unlisted shares", "cukai keuntungan modal", "e-CKM", "section 15C", "2% gross disposal price"]
+framework: explainer
 ---
 
 For fifty-seven years Malaysia taxed income and left capital alone. That ended

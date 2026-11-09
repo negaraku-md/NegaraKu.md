@@ -76,6 +76,7 @@ keywords:
   - "London constitutional conference 1956"
   - "Alliance memorandum Reid Commission"
   - "Tunku Abdul Rahman"
+framework: profile
 ---
 
 英国がマラヤの自治準備が整っているかどうかを判断するにあたり、見たいと述べた事柄の一つが、この地域の異なる民族集団が一つの政府を共に運営できるという証拠であった。アライアンス（Alliance）は、まさにそれを示すと主張して交渉の場に現れた枠組みであった——それぞれが一つの民族集団を中心に組織された三つの政党が、単一の陣営として選挙を戦い、共同で独立を要求したのである。

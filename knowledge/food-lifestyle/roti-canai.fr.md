@@ -99,6 +99,7 @@ social:
     - "Mamak"
     - "MalaysianFood"
     - "NegaraKuMD"
+framework: explainer
 ---
 
 Peu de sons appartiennent autant à un matin malaisien que le claquement et le battement de la pâte

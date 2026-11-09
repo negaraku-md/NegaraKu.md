@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "christmas-malaysia" }
 related: ["peranakan", "unesco-world-heritage", "christmas-malaysia"]
 keywords: ["Kristang", "Papia Kristang", "Perkampungan Portugis Melaka", "Eurasia Malaysia", "Intrudu", "branyo"]
+framework: history-culture
 ---
 
 Ở Ujong Pasir, Malacca, có một ngôi làng ven biển nơi người ta chào hỏi nhau bằng một thứ tiếng không phải Mã Lai, không phải tiếng Anh, và cũng không phải tiếng Bồ Đào Nha hiện đại — mà là tàn dư còn sống của thứ tiếng của những kẻ chinh phục đến đây năm thế kỷ trước. Đây là thế giới của cộng đồng Kristang.

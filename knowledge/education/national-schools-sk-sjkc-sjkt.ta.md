@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["malaysian-education-system", "enrolling-in-a-government-school", "private-and-chinese-independent-schools"]
 keywords: ["sekolah kebangsaan", "SJKC", "SJKT", "sekolah jenis kebangsaan", "bahasa pengantar", "KPM", "KSSR", "sekolah rendah Malaysia"]
+framework: explainer
 ---
 
 ஒவ்வொரு ஆண்டும், பதிவுக் காலம் திறக்கப்படும்போது, மலேசியா முழுவதிலும் உள்ள பெற்றோர் தங்கள் பிள்ளையை முதலாம் ஆண்டுக்குப் (Tahun 1) பதிவு செய்ய மலேசியக் கல்வி அமைச்சின் (Kementerian Pendidikan Malaysia, KPM) idMe வலைவாயிலைத் திறக்கிறார்கள். செய்ய வேண்டிய முதல் தேர்வுகளில் ஒன்று: SK, SJKC அல்லது SJKT?

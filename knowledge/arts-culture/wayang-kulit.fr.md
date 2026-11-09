@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik"]
 keywords: ["Wayang Kulit", "shadow puppet Malaysia", "Tok Dalang", "Hikayat Seri Rama", "Kelantan traditional arts", "théâtre d'ombres Malaisie"]
+framework: history-culture
 ---
 
 La lampe s'allume d'abord. Derrière un écran de coton blanc tendu sur un châssis de bois, un homme est assis en tailleur, une pile de marionnettes plates de cuir à portée de main de part et d'autre, et un petit orchestre de tambours, de gongs et d'un serunai à double anche perçant qui attend derrière lui. Il ne quittera pas cette place pour le reste de la nuit. Le temps que la dernière ombre traverse l'écran, des heures plus tard, il aura donné voix à des rois, des démons, des bouffons et des princesses, aura narré les transitions entre les scènes et aura marqué l'entrée de chaque musicien : seul.

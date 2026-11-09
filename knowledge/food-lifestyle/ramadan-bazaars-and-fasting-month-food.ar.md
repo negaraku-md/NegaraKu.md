@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-jakim" }
 related: ["hari-raya-aidilfitri"]
 keywords: ["أسواق رمضان", "bazar ramadan", "ramadan bazaar malaysia", "أطعمة الإفطار", "آداب شهر الصيام", "رخصة بائع السوق"]
+framework: explainer
 ---
 
 كلما اقترب وقت العصر في رمضان، تنبت صفوف من الخيام البيضاء فجأة على جانب الطريق، ويتصاعد بخار ayam percik فوق الجمر، ورائحة roti john الممتزجة بشراب air bandung تستدرج الناس من بيوتهم. هذا هو سوق رمضان — سوق موسمي لا يوجد سوى شهر واحد في السنة، لكنه صار منذ زمن بعيد جزءًا من إيقاع الحياة الماليزية.

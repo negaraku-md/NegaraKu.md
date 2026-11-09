@@ -71,6 +71,7 @@ relations:
   - { rel: "administered-by", to: "malaysian-institute-of-accountants" }
 related: ["malaysian-institute-of-accountants"]
 keywords: ["जोहरीपन", "ऑडिट नमूनाकरण", "ISA 320", "ISA 530", "ISA 450", "प्रदर्शन-जोहरीपन", "सहनीय ग़लत-कथन", "वैधानिक ऑडिट मलेशिया", "materiality", "audit sampling"]
+framework: explainer
 ---
 
 जो ऑडिटर खातों के किसी समूह पर हस्ताक्षर करता है, उसने लगभग कभी उनके पीछे के हर लेन-देन को नहीं देखा होता — और मानक कहते हैं कि काम करने का यही बिल्कुल सही तरीका है।

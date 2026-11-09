@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "e-hailing-grab" }
 related: ["klang-valley-rail", "e-hailing-grab"]
 keywords: ["intercity travel Malaysia", "KTM ETS", "KTM Intercity", "express bus Malaysia", "Terminal Bersepadu Selatan", "TBS", "domestic flights Malaysia", "AirBorneo", "MASwings", "Rural Air Service", "Sabah Sarawak flights", "travelling between cities Malaysia"]
+framework: explainer
 ---
 
 쿠칭(Kuching)으로 날아가거나, 콴탄(Kuantan)으로 버스를 타거나, 버터워스

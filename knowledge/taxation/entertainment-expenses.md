@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["non-deductible-expenses", "section-33-deductibility"]
 keywords: ["entertainment expense malaysia tax", "39(1)(l) entertainment", "50% entertainment deduction", "public ruling 4/2015", "promotional gift tax deduction malaysia"]
+framework: rules
 ---
 
 Almost every Malaysian tax computation halves the entertainment line and moves on. That is wrong in both directions. Some of what is halved should be disallowed in full, and a good deal of it should not be halved at all.

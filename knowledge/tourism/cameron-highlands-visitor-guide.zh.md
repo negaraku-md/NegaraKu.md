@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["pahang"]
 keywords: ["Cameron Highlands", "Tanah Rata", "Brinchang", "Ringlet", "BOH tea", "strawberry farm", "Orang Asli", "Semai", "hill station", "Pahang"]
+framework: profile
 ---
 
 在丹那拉打（Tanah Rata）下了巴士，你首先注意到的是自己呼出的白气——空气凉爽到即便身处赤道，穿件毛衣也不再显得可笑。这正是金马仑高原的精髓所在：一块温带高地叠加在热带马来西亚之上，茶树在山脊上织出整齐的绿色灯芯绒，草莓则在路旁的塑料棚里成熟。

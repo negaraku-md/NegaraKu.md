@@ -91,6 +91,7 @@ verificationNeeded:
   - "The origin of otak-otak (commonly traced to Palembang, South Sumatra, and described as a Malay–Peranakan blend) — the claim is contested across Indonesia, Malaysia and Singapore; confirm with a food-history or heritage source rather than restaurant or recipe media."
   - "The folk etymology of 'otak' ('brains', from the mixture's brain-like appearance) — confirm with a linguistic or lexicographic source rather than food media."
   - "Whether candlenut (buah keras) belongs in the standard otak-otak rempah — some recipes include it and others (e.g. the Nyonya Cooking recipe cited) do not; confirm the typical paste composition with a Peranakan culinary source."
+framework: explainer
 ---
 
 Unwrap a parcel of otak-otak and the first thing you meet is the smell: charred

@@ -88,6 +88,7 @@ verificationNeeded:
   - "Dakwaan bahawa mee siam sampai ke Singapura melalui penghijrahan keluarga Cina Selat dari Pulau Pinang pada awal tahun 1800-an — sahkan dengan sumber sejarah."
   - "Sama ada asam jawa penting bagi setiap versi: sesetengah tukang masak menggantikan atau menambahnya dengan jus limau nipis atau lemon, dan sumber nada masam yang standard berbeza mengikut resipi. Sahkan asas kuah yang lazim merentas gaya basah dan kering."
   - "Hiasan standard (telur rebus, udang, tauhu goreng, kucai, taugeh, limau kasturi berbanding limau nipis) berbeza mengikut tukang masak dan wilayah — sahkan gubahan Malaysia yang paling lazim."
+framework: explainer
 ---
 
 Pesan "mee siam" dan hasilnya bergantung pada gerai. Di satu gerai anda mendapat

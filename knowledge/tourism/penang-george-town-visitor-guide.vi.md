@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["Penang travel guide", "George Town UNESCO", "Penang street art", "Penang Hill funicular", "Penang hawker food", "George Town heritage core", "Batu Ferringhi", "things to do in Penang"]
+framework: explainer
 ---
 
 Đặt chân lên đảo, bước ra khỏi không gian điều hòa, và điều đầu tiên đập vào bạn là mùi hương — khói chảo, hương trầm từ một ngôi đền Hoa, hoa đại, và vị mặn của Eo biển Malacca. George Town là một nơi bạn đọc bằng đôi chân của mình: một mạng lưới nhỏ gọn các nhà phố trăm năm tuổi nơi một nhà thờ Hồi giáo, một hội quán dòng họ và một nhà thờ thời thuộc địa có thể cùng chung một dãy phố. Cẩm nang này giới thiệu những gì để xem, nơi để ăn, cách đến các bãi biển và ngọn đồi, cùng nên dành bao nhiêu thời gian cho một thành phố tưởng thưởng sự chậm rãi.

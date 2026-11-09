@@ -76,6 +76,7 @@ social:
     - MalaysiaStartup
     - TechStartup
     - MOSTI
+framework: profile
 ---
 
 대부분의 초보 창업자는 같은 벽에 부딪힙니다: 아이디어는 좋지만 아직 매출이 없고, 은행에 보여줄

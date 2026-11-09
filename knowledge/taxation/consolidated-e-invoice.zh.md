@@ -86,6 +86,7 @@ relations:
   - { rel: "explained-in", to: "myinvois-phases" }
 related: ["e-invoicing", "myinvois-phases", "self-billed-e-invoice", "e-invoice-data-fields", "myinvois-integration"]
 keywords: ["consolidated e-Invoice", "e-invois disatukan", "RM10000 e-Invoice rule", "consolidated e-Invoice deadline", "General Public EI00000000010", "industries cannot consolidate e-Invoice"]
+framework: explainer
 ---
 
 合并是那项让 mamak 档、迷你市场或诊所在电子发票制度下活得下去的通融。它同时也是最可能在你脚下被抽走的那项通融——被 RM10,000 的分界线抽走、被你的行业抽走，或被某个在月底 29 号要求一张正式发票的客户抽走。

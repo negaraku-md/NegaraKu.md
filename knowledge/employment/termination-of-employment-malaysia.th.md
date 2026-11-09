@@ -150,6 +150,7 @@ relations:
   - { rel: "related-to", to: "retrenchment-malaysia" }
 related: ["labour-law-map-malaysia", "domestic-inquiry-malaysia", "unfair-dismissal-malaysia", "retrenchment-malaysia", "termination-benefits-malaysia", "offboarding-statutory-checklist"]
 keywords: ["termination of employment malaysia", "notice period malaysia", "at will employment malaysia", "payment in lieu of notice", "just cause or excuse", "final salary after resignation malaysia", "section 12 employment act"]
+framework: rules
 ---
 
 นายจ้างในกัวลาลัมเปอร์ตัดสินใจในวันจันทร์ว่าผู้จัดการคนหนึ่งไม่เข้าที่ ที่ปรึกษากฎหมายที่อื่นจะถามเกี่ยวกับข้อกำหนดการบอกกล่าว ในมาเลเซียคำถามแรกต่างออกไป และเป็นคำถามที่ตัดสินคดี: **เหตุผลคืออะไร และคุณพิสูจน์ได้หรือไม่?**

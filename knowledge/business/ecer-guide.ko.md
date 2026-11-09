@@ -133,6 +133,7 @@ keywords:
   - "MCKIP Kuantan incentives"
   - "Kuantan Port free zone"
   - "ECRL completion date"
+framework: profile
 ---
 
 ECER은 그것을 제대로 해낸 회랑입니다. 북부회랑(Northern Corridor)이 문서화되지 않은 장관 재량을 통해 인센티브를 제공하고 조호르-싱가포르 SEZ가 여전히 관보에 고시된 법령을 전혀 갖고 있지 않은 반면, ECER에는 당신이 직접 내려받아 읽고 확인할 수 있는 **여덟 개의 공표된 명령**이 있습니다.

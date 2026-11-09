@@ -96,6 +96,7 @@ social:
     - "#MalaysianFood"
     - "#HariRaya"
     - "#Minangkabau"
+framework: explainer
 ---
 
 开斋节前的那几天，走过马来人的厨房，你往往会先听见仁当，然后才看见它——木

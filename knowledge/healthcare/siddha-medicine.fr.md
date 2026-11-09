@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "traditional-chinese-medicine-in-malaysia" }
 related: ["tamil-in-malaysia", "estate-tamil-community", "traditional-chinese-medicine-in-malaysia", "hinduism-in-malaysia"]
 keywords: ["சித்த மருத்துவம்", "Siddha medicine", "மலேசியா சித்த மருத்துவம்", "Siddha medicine Malaysia", "பாரம்பரிய இந்திய மருத்துவம்", "சித்தர்கள்", "அகத்தியர்", "மூலிகை மருத்துவம்", "பாரம்பரிய மற்றும் நிரப்பு மருத்துவச் சட்டம் 2016", "Act 775"]
+framework: history-culture
 ---
 
 Sur les anciennes terres de plantation de la Malaisie, et dans les rues tamoules de ses villes, on peut trouver une boutique de plantes — des plantes séchées, des poudres (choornam) et des huiles alignées en rangées sur ses étagères. Elles ne sont pas là par hasard ; ce sont les traces d'une tradition médicale vieille de plus d'un siècle et demi.

@@ -82,6 +82,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaConstruction
     - ContractorMalaysia
+framework: how-to
 ---
 
 会社は午後のうちに登記できる。しかし、その会社は、第二の、別個のライセンスを取得するまでは、依然として合法的にスラブを打設し、建物の配線を行い、又は道路工事に入札することはできない。マレーシアでは、建設は規制された業種である：*会社*はSSMに登録され、*建設業者*はCIDBに登録される。第二の段階を飛ばせば、あなたが最初に請け負う仕事は契約ではなく刑事犯罪となる。

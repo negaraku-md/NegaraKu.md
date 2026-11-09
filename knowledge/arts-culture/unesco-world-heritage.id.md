@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "George Town Melaka inscription criteria", "Gunung Mulu World Heritage", "Lenggong Valley Perak Man", "Niah Caves UNESCO 2024"]
+framework: data-reference
 ---
 
 Tanyakan berapa banyak Situs Warisan Dunia yang dimiliki Malaysia, dan kebanyakan sumber akan memberi tahu Anda empat. Itu benar sampai 2024. Kompleks Gua Niah dimasukkan pada Juli tahun itu, dan Forest Research Institute Malaysia Forest Park Selangor menyusul pada 2025 — menjadikan jumlahnya enam.

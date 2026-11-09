@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "sales-and-service-tax-sst-explained" }
 related: []
 keywords: ["pourboire malaisie", "frais de service malaisie", "taxe sur les services restaurant", "étiquette à table malaisie", "SST restauration"]
+framework: explainer
 ---
 
 Vous terminez un bon repas à Kuala Lumpur, l'addition arrive sur la table, et deux lignes inconnues figurent sous votre total. Non, vous n'avez rien commandé de plus — et non, vous n'avez pas besoin d'ajouter un pourboire par-dessus. Voici comment fonctionne réellement la restauration en Malaisie.

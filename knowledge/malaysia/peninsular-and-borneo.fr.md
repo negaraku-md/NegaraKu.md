@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "singapore-separation-1965" }
 related: ["sabah", "sarawak", "ma63", "formation-of-malaysia-1963", "singapore-separation-1965"]
 keywords: ["Peninsular Malaysia", "East Malaysia", "Sabah Sarawak border", "South China Sea Malaysia", "Immigration Act 1959/63 Section 66", "Sarawak Land Code", "Sabah Land Ordinance", "Malaysian Standard Time 1982"]
+framework: explainer
 ---
 
 Prenez un vol intérieur de Kuala Lumpur à Kota Kinabalu et vous atterrirez dans le même pays que celui que vous avez quitté. Même monnaie, même passeport, même drapeau sur l'empennage. Et pourtant, à la salle d'arrivée, vous faites la queue à un guichet de type immigration et quelqu'un vérifie votre carte d'identité ou votre passeport avant de vous laisser passer. Aucun autre vol à l'intérieur de la Malaisie ne fonctionne ainsi.

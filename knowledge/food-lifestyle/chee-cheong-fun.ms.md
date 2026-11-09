@@ -91,6 +91,7 @@ verificationNeeded:
   - "Dakwaan bahawa chee cheong fun dibawa ke Tanah Melayu oleh pendatang Guangdong abad ke-19 — media makanan mengulanginya tetapi tidak memberikan tarikh atau rekod utama yang kukuh. Sahkan terhadap sumber penghijrahan atau sejarah masakan."
   - "Pembahagian wilayah antara versi 'kering' (sos merah manis) dan 'basah' (kuah kari atau cendawan) di Ipoh, dan sama ada kuah cendawan khusus menjadi tanda tersendiri Ipoh atau dikongsi dengan Kuala Lumpur. Sahkan terhadap sumber Perak atau tempatan."
   - "Sama ada padanan yong tau foo Kuala Lumpur menggunakan sos berasaskan kacang yang manis sebagai lalai, berbanding kari atau kicap — sumber memerihalkan pelbagai salutan dan amalan tempatan berbeza mengikut gerai."
+framework: explainer
 ---
 
 Pesan "chee cheong fun" di George Town dan anda akan mendapat gulungan mi beras

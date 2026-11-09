@@ -68,6 +68,7 @@ sources:
 
 related: ["sheraton-move-2020", "prime-ministers-of-malaysia", "2022-general-election", "ismail-sabri-yaakob", "mahathir-mohamad"]
 keywords: ["محيي الدين ياسين", "Muhyiddin Yassin", "Mahiaddin Md Yassin", "رئيس وزراء ماليزيا الثامن", "Perikatan Nasional", "BERSATU"]
+framework: profile
 ---
 
 > **مسودة — حساسة.** هذه المقالة ملخص محايد قيد الإعداد ولم تُراجَع للنشر.

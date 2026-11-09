@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "foreign-company-branch-malaysia" }
 related: ["mida"]
 keywords: ["representative office malaysia", "regional office malaysia", "MIDA RE RO", "foreign company presence malaysia", "market entry malaysia", "non-trading office"]
+framework: explainer
 ---
 
 Syarikat asing yang mahukan kakitangan bertapak di Malaysia — untuk menilai pasaran, menjalankan penyelidikan produk, atau menyelaras gabungan syarikat serantaunya — tidak perlu memperbadankan syarikat berdagang yang dikenakan cukai untuk berbuat demikian. Malaysia menawarkan status bukan berdagang yang dibina khas untuk tujuan ini: Pejabat Perwakilan (RE) atau Pejabat Serantau (RO), yang diluluskan oleh Lembaga Pembangunan Pelaburan Malaysia (MIDA).

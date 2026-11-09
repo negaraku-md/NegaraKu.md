@@ -115,6 +115,7 @@ keywords:
   - "allotment of shares Malaysia"
   - "increase paid up capital Malaysia"
   - "section 75 Companies Act 2016"
+framework: explainer
 ---
 
 RM1 的实缴资本合法、常见，而且悄悄地是注册成立时最昂贵的决定之一。

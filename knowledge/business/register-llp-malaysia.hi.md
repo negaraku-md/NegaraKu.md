@@ -117,6 +117,7 @@ keywords:
   - "PLT Perkongsian Liabiliti Terhad"
   - "LLP registration fee RM500"
   - "LLP annual declaration"
+framework: how-to
 ---
 
 अनुपालन अधिकारी ही वह हिस्सा है जिसमें हर कोई ग़लती करता है।

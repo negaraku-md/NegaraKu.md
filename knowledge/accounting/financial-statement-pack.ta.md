@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "audit-exemption" }
 related: ["mbrs-2-filing-guide", "mbrs-tagging-errors", "unaudited-financial-statements", "financial-statements-lodgement", "audit-exemption", "mfrs-vs-mpers"]
 keywords: ["financial statements Malaysia", "statement by directors", "statutory declaration financial statements", "directors report section 252", "auditors report section 266", "statutory accounts Sdn Bhd", "Fifth Schedule directors report"]
+framework: explainer
 ---
 
 ஒவ்வொரு ஆண்டும் SSM-க்கு என்ன செல்கிறது என்று ஒரு மலேசிய இயக்குநரிடம் கேளுங்கள்;

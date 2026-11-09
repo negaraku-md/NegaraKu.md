@@ -106,6 +106,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-act-1955-guide"]
 keywords: ["sexual harassment malaysia", "anti-sexual harassment act 2022", "section 81h notice", "part xva employment act", "tribunal anti sexual harassment", "workplace harassment employer duty"]
+framework: rules
 ---
 
 Hầu hết các bài viết về quấy rối tại nơi làm việc ở Malaysia là về Anti-Sexual Harassment Act

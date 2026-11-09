@@ -103,6 +103,7 @@ relations:
   - { rel: "part-of", to: "gdp-overview" }
 related: ["palm-oil-sector", "rubber", "gdp-overview"]
 keywords: ["sector agrícola de Malasia", "agroalimentario Malasia", "Política Nacional Agroalimentaria", "tasa de autosuficiencia alimentaria", "KPKM", "KPK", "aceite de palma arroz caucho", "seguridad alimentaria Malasia"]
+framework: profile
 ---
 
 En 2024, Malasia produjo más de 100 millones de toneladas de racimos de fruta

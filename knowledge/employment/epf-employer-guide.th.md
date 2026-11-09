@@ -97,6 +97,7 @@ relations:
   - { rel: "explained-in", to: "epf-foreign-workers-malaysia" }
 related: ["payroll-compliance-malaysia", "epf-foreign-workers-malaysia", "socso-eis-employer-guide"]
 keywords: ["EPF contribution rate Malaysia", "EPF Third Schedule", "KWSP employer contribution", "EPF 13 percent 12 percent", "caruman KWSP majikan"]
+framework: rules
 ---
 
 ถามผู้ดูแลบัญชีเงินเดือนชาวมาเลเซียว่าอัตรานายจ้าง EPF คือเท่าใด คุณจะได้รับคำตอบว่าร้อยละ 13 ขอให้เขาคำนวณเงินสมทบจากเงินเดือน RM3,250 และส่วนใหญ่จะคูณ การคูณนั้นไม่ได้รับอนุญาต และมันให้ตัวเลขที่ผิด

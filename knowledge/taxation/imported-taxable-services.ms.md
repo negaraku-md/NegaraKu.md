@@ -75,6 +75,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-registration", "sst-02-filing", "sst-rate-table"]
 keywords: ["perkhidmatan bercukai diimport", "SST-02A", "cukai perkhidmatan seksyen 26A", "cukai perkhidmatan perkhidmatan asing Malaysia", "akaun sendiri cukai perkhidmatan"]
+framework: rules
 ---
 
 Ini merupakan liabiliti yang paling kerap terlepas pandang dalam keseluruhan

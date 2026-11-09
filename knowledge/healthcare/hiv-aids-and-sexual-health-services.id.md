@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "klinik-kesihatan-services" }
 related: []
 keywords: ["HIV", "AIDS", "ujian HIV", "PrEP", "PEP", "ART", "kesihatan seksual", "Majlis AIDS Malaysia", "Kementerian Kesihatan"]
+framework: explainer
 ---
 
 Seseorang yang khawatir setelah satu malam berisiko dapat berjalan masuk ke sebuah Klinik Kesihatan pemerintah di Malaysia, melakukan tes HIV secara gratis dan rahasia, dan — jika perlu — pulang dengan obat pencegahan dalam waktu beberapa jam. Namun jalan yang sama itu juga bersilangan dengan soal kerahasiaan, hukum, agama dan stigma yang menjadikan HIV salah satu topik kesehatan paling sensitif di negara ini.

@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "sabah-travel-guide" }
 related: []
 keywords: ["permiso de buceo Sipadan", "tarifas de parques marinos Malasia", "Sabah Parks", "parque marino Departamento de Pesca", "buceo scuba Malasia", "ecoturismo marino"]
+framework: rules
 ---
 
 El agua más clara de Malasia es también la más difícil de alcanzar: para dejarte caer por la pared de Sipadan necesitas un permiso del gobierno que ninguna cantidad de dinero te permitirá comprar directamente. Ese solo hecho resume cómo el país gestiona su turismo de buceo — el acceso se raciona, se cobra y se reparte entre dos autoridades muy distintas según el mar al que quieras descender.

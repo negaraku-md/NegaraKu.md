@@ -97,6 +97,7 @@ relations:
   - { rel: "affects", to: "stamp-duty-employment-contracts" }
 related: ["stamp-duty-rates", "stamp-duty-employment-contracts", "stamp-duty-share-transfer"]
 keywords: ["STSDS", "stamp duty self assessment Malaysia", "sistem taksir sendiri duti setem", "STAMPS", "BNDS", "stamp duty phases 2026"]
+framework: explainer
 ---
 
 今なお出回っている印紙税に関する指針の多くは、文書をLHDNに送付し、徴収官（Collector）が税額を算出し、通知書に記された金額を納付するという仕組みを前提として説明している。相当数の、しかも増え続けている種類の文書について、その仕組みは2026年1月1日に終わった——それとともに、「通知書に記された金額は他人の問題である」という気楽な立場も終わった。

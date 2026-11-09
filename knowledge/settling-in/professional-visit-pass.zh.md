@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "work-passes-malaysia", "dependant-social-visit-passes", "imigresen"]
 keywords: ["professional visit pass malaysia", "pvp malaysia", "pvp vs employment pass", "esd professional visit pass", "myxpats pvp", "foreign expert pass malaysia", "expert transfer pass malaysia", "short term work pass malaysia"]
+framework: explainer
 ---
 
 两名外国人可以坐在同一间马来西亚办公室里的同一张办公桌前，做着同样的工作，法律地位却截然不同。一人持就业准证，由马来西亚公司支付薪金，年复一年可以续期。另一人持专业访问准证——薪金仍由派遣他来的公司支付，时钟只跑十二个月，超过就不能再续。移民局看到的不是两名雇员，而是一个雇主与一位访客。

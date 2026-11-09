@@ -76,6 +76,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["ApamBalik", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 페낭의 MICHELIN 인정은 조지타운에 몰리는 경향이 있지만, 주에서 가장 한 우물만 파는

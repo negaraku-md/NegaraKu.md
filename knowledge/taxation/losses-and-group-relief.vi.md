@@ -85,6 +85,7 @@ relations:
   - { rel: "affects", to: "capital-allowances" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "company-tax-residence", "income-tax-act-1967", "dormant-company-audit-exemption"]
 keywords: ["business loss carry forward Malaysia", "section 44A group relief", "unabsorbed capital allowances", "10 year loss limit", "substantial change in shareholding"]
+framework: explainer
 ---
 
 Hai công ty trong cùng một tập đoàn, cả hai đều đang lỗ, cả hai đều có các giám đốc

@@ -84,6 +84,7 @@ relations:
   - { rel: "compares-with", to: "malaysian-citizenship-by-naturalisation" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["kewarganegaraan", "pendaftaran", "Perkara 15", "pasangan asing", "Perlembagaan Persekutuan", "JPN", "warganegara Malaysia"]
+framework: explainer
 ---
 
 与马来西亚公民结婚，并不会因此自动成为公民。对于外籍配偶以及公民的子女而言，常被提及的途径就是"登记"（pendaftaran）——这是联邦宪法第三部分所列取得公民权的方式之一。本页以中立、描述性的方式说明这一法律框架；它并非法律意见。

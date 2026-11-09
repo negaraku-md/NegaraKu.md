@@ -95,6 +95,7 @@ verificationNeeded:
   - "Apakah masak lemak cili api pernah mengandung santan dalam jumlah yang berarti versus 'cili api' yang hanya berarti sangat pedas — sumber-sumber sepakat santan (lemak) adalah intinya, tetapi keseimbangan pastinya dan apakah pasta bumbu ditumis (tumis) lebih dulu berbeda-beda menurut keluarga dan juru masak; konfirmasikan dengan sumber kuliner Negeri Sembilan."
   - "Bagaimana rendang Negeri Sembilan berbeda dari rendang Malaysia/Minangkabau yang lebih luas (sebagian sumber mengatakan ia lebih bersandar pada jahe, lengkuas, serai, dan santan daripada campuran rempah kering yang berat) — konfirmasikan dengan sumber kuliner lokal atau ilmiah."
   - "Penisbahan daerah yang tepat atas daging salai kepada kota tertentu seperti Pedas dan Rembau, dan apakah pengasapan secara tradisional menggunakan jenis kayu tertentu — konfirmasikan dengan sumber lokal."
+framework: explainer
 ---
 
 Pesanlah makanan di Seremban atau Rembau dan satu warna terus kembali ke meja: kuah

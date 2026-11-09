@@ -85,6 +85,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["foreign-exchange-policy-malaysia", "resident-director-malaysia", "registered-office-malaysia"]
 keywords: ["corporate bank account malaysia", "open company bank account malaysia", "foreign owned company bank account rejected", "bank account KYC malaysia", "enhanced due diligence malaysia"]
+framework: explainer
 ---
 
 这个题目上的每一个同行页面，都是一份五步骤清单，结尾写着「你的账户几个工作天内就会

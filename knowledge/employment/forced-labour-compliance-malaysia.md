@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "worker-accommodation-act-446" }
 related: ["hiring-foreign-workers-malaysia", "worker-accommodation-act-446"]
 keywords: ["forced labour malaysia", "section 90b employment act", "passport retention malaysia", "withhold release order malaysia", "atipsom", "recruitment fees migrant workers"]
+framework: rules
 ---
 
 Between 2019 and 2022, US Customs and Border Protection blocked imports from eight Malaysian glove and palm oil producers. Companies repaid more than USD85 million in withheld wages to get the orders lifted. That is the commercial reality of forced labour compliance in Malaysia, and it is why this is a trade question before it is an HR one.

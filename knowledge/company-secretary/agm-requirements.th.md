@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "financial-statements-lodgement" }
 related: ["financial-statements-lodgement", "extension-of-time-ssm", "resolution-notice-periods", "sdn-bhd-filing-calendar", "egm-requisition"]
 keywords: ["AGM Malaysia", "annual general meeting Sdn Bhd", "section 340 Companies Act 2016", "does a private company need an AGM", "AGM deadline six months"]
+framework: rules
 ---
 
 "บริษัท Sdn Bhd ไม่จำเป็นต้องจัด AGM อีกต่อไป" เป็นคำพูดที่ได้ยินกันทั่วไป และสำหรับบริษัทส่วนใหญ่ก็ถูกต้อง แต่ก็เป็นจุดที่คำแนะนำของมาเลเซียเกือบทุกฉบับหยุดลง — ซึ่งทำให้บริษัทสองกลุ่มถือหน้าที่ที่ยังมีผลอยู่โดยที่ไม่มีใครบอกพวกเขา

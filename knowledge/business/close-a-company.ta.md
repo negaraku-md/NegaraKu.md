@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "register-sdn-bhd" }
 related: ["strike-off-company-malaysia", "members-voluntary-winding-up", "creditors-voluntary-winding-up", "corporate-rescue-malaysia", "sell-business-malaysia", "register-sdn-bhd", "annual-return", "statutory-registers"]
 keywords: ["close sdn bhd", "strike off company Malaysia", "winding up company", "tutup syarikat sdn bhd", "deregister company SSM", "close company malaysia"]
+framework: decision
 ---
 
 வர்த்தகத்தை நிறுத்துவது ஒரு நிறுவனத்தை மூடுவது அல்ல. அமைதியாக இருக்கும் ஒரு

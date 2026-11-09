@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "score-sarawak" }
 related: ["tenaga-nasional"]
 keywords: ["hidrokuasa", "empangan Bakun", "Murum", "Baleh", "Kenyir", "Temengor", "Sarawak Energy", "tenaga boleh baharu", "hydropower Malaysia"]
+framework: explainer
 ---
 
 Water flowing down from Borneo's rainforest ranges now spins turbines that power aluminium smelters — and that is the core of Malaysia's renewable energy strategy. But the road to get there is marked by mega-dams, lakes spanning hundreds of square kilometres, and thousands of indigenous families forced to relocate.

@@ -60,6 +60,7 @@ social:
   hashtags: ["PahangSultanate", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded:
   - "La fecha exacta de la proclamación de Wan Ahmad como sultán se da de forma inconsistente entre las fuentes: el título se asumió en 1881, con una proclamación formal reportada el 8 de septiembre de 1881 y una instalación formal posterior fechada en 1884; la secuencia precisa debería confirmarse frente a una fuente académica como A History of Pahang de Linehan."
+framework: history-culture
 ---
 
 A lo largo del río Pahang, donde la vieja ciudad real de Pekan aún se asienta cerca de la desembocadura, un trono que llevaba dos siglos en silencio volvió a alzarse. En 1881 los jefes de Pahang se reunieron no para coronar a un extraño, sino para restaurar un título que su tierra había ostentado en otro tiempo, y el hombre al que proclamaron sultán había ganado ese derecho por las malas, derrotando a su propio medio hermano en una guerra larga y amarga. Esta es la historia de cómo la corona de Pahang se perdió dentro de un imperio mayor, y de cómo el hijo de un primer ministro la trajo de vuelta.

@@ -55,6 +55,7 @@ relations:
   - { rel: "part-of", to: "audit-exemption" }
 related: ["audit-exemption", "audit-exemption-thresholds", "after-audit-exemption"]
 keywords: ["dormant company audit exemption Malaysia", "dormant company SSM", "what breaks dormancy", "dormant since incorporation", "syarikat dorman audit"]
+framework: rules
 ---
 
 名前だけを持ち、他に何も持たないシェルカンパニー（shelf company）は、営業収益テスト、資産テスト、従業員テストのいずれにも通る必要がない。実務指針10/2024号（Practice Directive 10/2024、PD 10/2024）のparagraph 10は、休眠会社に独自の監査免除ルートを与えているが、多くのガイドはこれを基準値の下にある一行に埋もれさせており、読者はそこで遡及期間の違いを見落とす。

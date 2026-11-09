@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "business-licence-malaysia" }
 related: ["fnb-licence-malaysia", "premise-licence-malaysia", "business-licence-malaysia"]
 keywords: ["sijil halal", "JAKIM", "MS 1500", "MYeHALAL", "logo Halal Malaysia", "pensijilan halal", "Verify Halal"]
+framework: explainer
 ---
 
 포장과 식품 시설에서 여러 로고와 「할랄」이라는 단어를 볼 수 있지만, 모두가 공식적 인정을 담고 있는 것은 아닙니다. 말레이시아에서 지정된 권한 기관이 뒷받침하는 할랄 표식은 단 하나입니다: JAKIM이 발급하는 Halal Malaysia 로고. 그 인증서가 어떻게 작동하는지를 이해하면 두 가지를 동시에 얻습니다 — 소비자가 어떤 제품의 할랄 상태를 확인하는 법, 그리고 사업자가 공식 인증 표식을 취득하는 법.

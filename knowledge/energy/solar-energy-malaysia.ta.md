@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
 related: []
 keywords: ["solar Malaysia", "NEM 3.0", "Net Energy Metering", "Large Scale Solar", "LSS5", "CGPP", "CRESS", "CREAM", "tenaga boleh baharu", "solar bumbung"]
+framework: explainer
 ---
 
 வீட்டுக் கூரையின் மேல் உள்ள சூரிய பலகைகள் இப்போது மலேசியாவில் அரசாங்கக் கொள்கையுடன் இறுக்கமாகப் பிணைக்கப்பட்ட ஒரு நிதி முடிவாக மாறிவிட்டன. ஆனால் "சூரியத்திற்கு மாறுவது" என்பது Ipoh இல் உள்ள ஒரு வீட்டு உரிமையாளருக்கும், Pasir Gudang இல் உள்ள ஒரு தொழிற்சாலைக்கும் அல்லது 100% பசுமை சக்தியை விரும்பும் ஒரு தரவு மையத்திற்கும் மிகவும் வேறுபட்ட ஒன்றைக் குறிக்கிறது. ஒவ்வொரு பயனர் குழுவுக்கும் அதற்கேயான திட்டம் உள்ளது.

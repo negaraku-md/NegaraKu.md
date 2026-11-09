@@ -90,6 +90,7 @@ relations:
   - { rel: "explained-in", to: "capital-or-revenue" }
 related: ["capital-or-revenue", "rpgt-rates", "corporate-tax-rates", "income-tax-act-1967"]
 keywords: ["पूंजीगत लाभ कर मलेशिया", "CGT गैर-सूचीबद्ध शेयर", "पूंजीगत लाभ कर", "capital gains tax Malaysia", "CGT unlisted shares", "e-CKM", "section 15C", "2% gross disposal price"]
+framework: explainer
 ---
 
 सत्तावन वर्षों तक मलेशिया ने आय पर कर लगाया और पूंजी को अछूता छोड़ दिया। यह 1

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "gunung-tahan" }
 related: ["orang-asli"]
 keywords: ["taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
+framework: explainer
 ---
 
 Đứng ở bến Kuala Tahan lúc bình minh, ngắm sương mù bốc lên khỏi một dòng sông già hơn dãy Himalaya, thật dễ quên rằng bạn chỉ cách Kuala Lumpur chưa đầy nửa ngày. Taman Negara không phải là một điểm thu hút được chế tạo. Đó là một khu rừng mưa nhiệt đới sống động đã tồn tại, gần như không bị xáo trộn, trong hàng chục triệu năm — và việc vào đó rẻ hơn và đơn giản hơn hầu như bất kỳ du khách nào tưởng.

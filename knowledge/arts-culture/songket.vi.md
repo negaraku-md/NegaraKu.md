@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["batik", "wayang-kulit"]
 keywords: ["songket", "tenunan songket", "kek tenun", "benang emas", "songket Terengganu", "songket Kelantan"]
+framework: history-culture
 ---
 
 Âm thanh nghe nhiều nhất trong xưởng songket không phải tiếng máy móc. Đó là tiếng gỗ được ấn xuống, sợi được kéo, và một que tre được luồn vào rồi rút ra — lặp đi lặp lại, một hàng hoa văn mỗi lần, suốt cả ngày.

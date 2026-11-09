@@ -84,6 +84,7 @@ relations:
   - { rel: "requires", to: "individual-tax-residence" }
 related: ["income-tax-in-malaysia", "individual-tax-residence", "personal-tax-rates", "which-tax-form", "epf-foreign-workers-malaysia"]
 keywords: ["expatriate tax Malaysia", "non-resident tax rate Malaysia 30", "60 day exemption Malaysia tax", "knowledge worker tax rate 15", "Returning Expert Programme tax", "Employment Pass tax residence"]
+framework: rules
 ---
 
 外国人駐在員としての赴任期間中で最も費用のかかる月は、たいてい到着した月であり、

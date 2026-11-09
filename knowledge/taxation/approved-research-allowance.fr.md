@@ -108,6 +108,7 @@ relations:
   - { rel: "compares-with", to: "capital-allowances" }
 related: ["double-deduction-list", "capital-allowances", "section-33-deductibility", "tax-incentives-directory"]
 keywords: ["approved research allowance malaysia", "double déduction R&D malaisie", "section 34A income tax act", "section 34B double déduction", "statut R&D mida", "formulaire 1 r&d lhdn"]
+framework: explainer
 ---
 
 Demandez à trois conseillers ce qu'est l'« approved research allowance » et vous obtiendrez trois réponses, parce que cet avantage n'existe pas. Rien dans l'Income Tax Act 1967 n'emploie cette expression. Ce qui existe, ce sont trois déductions distinctes, avec des voies d'agrément différentes et des délais différents, plus un quatrième régime, entièrement différent, géré par la MIDA. Les confondre, c'est ainsi qu'une société se retrouve avec une double déduction qu'elle ne peut pas soutenir.

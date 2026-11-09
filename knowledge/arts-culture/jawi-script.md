@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: ["bahasa-melayu", "melaka-sultanate", "article-3-religion"]
 keywords: ["tulisan Jawi", "aksara Arab Melayu", "Batu Bersurat Terengganu", "sejarah tulisan Jawi", "seni khat", "ejaan Jawi", "Seksyen 9 Akta Bahasa Kebangsaan"]
+framework: history-culture
 ---
 
 Pada sebuah prasasti batu yang ditemukan di Terengganu, terpahat perkataan-perkataan Melayu — bukan dalam huruf yang kita gunakan hari ini, tetapi dalam aksara Arab yang disesuaikan untuk bunyi bahasa Melayu. Prasasti itu, Batu Bersurat Terengganu, membawa tarikh 702 Hijrah, yang lazimnya dipadankan dengan tahun 1303 Masihi.

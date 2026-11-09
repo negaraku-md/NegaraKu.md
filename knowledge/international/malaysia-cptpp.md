@@ -79,6 +79,7 @@ relations:
   - { rel: "affects", to: "bumiputera-equity-requirements" }
 related: ["external-trade", "matrade", "anti-dumping-countervailing-duties", "bumiputera-equity-requirements"]
 keywords: ["CPTPP Malaysia", "Trans-Pacific Partnership Malaysia", "CPTPP ratification", "CPTPP certificate of origin", "CPTPP tariff elimination", "CPTPP members", "Malaysia free trade agreement"]
+framework: explainer
 ---
 
 A Malaysian confectionery exporter shipping to Vancouver stopped paying a 15% import duty the day the CPTPP took effect — and that single tariff line is a small window onto one of the widest trade deals Malaysia has ever signed. The Comprehensive and Progressive Agreement for Trans-Pacific Partnership rewires how Malaysian goods, services and investment move across a dozen economies on both sides of the Pacific. It also commits Malaysia to rules that reach well beyond the customs counter — into how state-owned companies compete, how intellectual property is enforced, and how disputes with foreign investors are settled.

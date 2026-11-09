@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-jakim" }
 related: []
 keywords: ["vaksin halal", "hukum vaksin", "gelatin dalam ubat", "fatwa vaksin COVID-19", "darurat", "maqasid syariah", "JAKIM", "Muzakarah Fatwa Kebangsaan"]
+framework: explainer
 ---
 
 一本のワクチンびんには、安定剤としてごく少量のゼラチンが含まれていることがある——そのわずかな成分から、マレーシアのムスリム家庭が最も頻繁に発する宗教上の問いの一つが生まれる。それはハラルなのか、という問いである。答えは単純な「はい」か「いいえ」ではなく、ファトワ機関、科学的研究、そしていくつかの特有のフィクフ（fiqh）原則が関わる、体系立った評価プロセスの結果として導かれる。

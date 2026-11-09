@@ -100,6 +100,7 @@ social:
     - "#Dewakan"
     - "#KualaLumpurFood"
     - "#PenangFood"
+framework: explainer
 ---
 
 クアラルンプールやペナンでどこで食べるべきかを十数人に尋ねれば、十数通りの答えが

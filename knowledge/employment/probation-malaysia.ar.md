@@ -60,6 +60,7 @@ relations:
   - { rel: "governs", to: "employment-contract-malaysia" }
 related: ["unfair-dismissal-malaysia", "employment-contract-malaysia", "termination-of-employment-malaysia"]
 keywords: ["فترة الاختبار ماليزيا", "probation malaysia", "فصل الموظف تحت الاختبار", "تثبيت التعيين ماليزيا", "confirmation of employment malaysia", "تمديد فترة الاختبار", "probation period malaysia law"]
+framework: explainer
 ---
 
 «ما زال تحت الاختبار، فيمكننا ببساطة إنهاء خدمته.» هذه الجملة أنتجت من أحكام المحكمة الصناعية (Industrial Court) ضد أصحاب العمل الماليزيين أكثر مما أنتجته أي جملة أخرى تقريباً، والنصّ القانوني يناقضها مباشرةً.

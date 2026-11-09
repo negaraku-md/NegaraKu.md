@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "prescribed-activities-eia-order-2015" }
 related: ["environmental-quality-act-1974"]
 keywords: ["EIA Malaysia", "environmental impact assessment", "prescribed activities", "Section 34A", "Order 2015", "Department of Environment", "First Schedule", "Second Schedule", "public display"]
+framework: rules
 ---
 
 承認を得ないまま誤った種類のプロジェクトに着工すれば、直面するのは罰金だけではない——資本を遊休させたまま工事の中断を強いられるおそれがある。マレーシアでは、明確に定義された「指定活動」の一覧は、環境影響評価（EIA）報告書が環境局長に提出され、承認されるまでは合法的に着手することができない。開発事業者や投資家にとって、EIAは計画の最後に行う事務作業ではなく、出発点に置かれた関門である。

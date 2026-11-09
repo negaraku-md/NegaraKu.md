@@ -97,6 +97,7 @@ verificationNeeded:
   - "Los meses exactos de la temporada del durián y de la fruta en general varían según la región y el año con las lluvias y la floración: confírmese el momento del año en curso con el Departamento de Agricultura de Malasia (DOA) o el MARDI en vez de fijar fechas concretas."
   - "Si el langsat, el duku y el dokong son grados/cultivares de una sola especie (Lansium parasiticum) o variedades distintas, y las diferencias precisas entre ellos: confírmese con una fuente hortícola como el MARDI."
   - "Las creencias populares de que el durián es «caliente» o peligroso al comerse con alcohol son tradicionales y no están firmemente establecidas por la evidencia: márquense como creencia, no como hecho."
+framework: explainer
 ---
 
 Recorra cualquier *pasar* (mercado) malasio a mediados de año y los puestos de

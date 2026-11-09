@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
 related: []
 keywords: ["solar Malaysia", "NEM 3.0", "Net Energy Metering", "Large Scale Solar", "LSS5", "CGPP", "CRESS", "CREAM", "tenaga boleh baharu", "solar bumbung"]
+framework: explainer
 ---
 
 屋顶上的太阳能板如今已成为一项被马来西亚政府政策紧密约束的财务决定。但对于怡保的一名屋主、巴西古当的一座工厂，或一座希望实现 100% 绿色能源的数据中心而言，「转向太阳能」意味着截然不同的事情。每一类用户都有各自的计划。

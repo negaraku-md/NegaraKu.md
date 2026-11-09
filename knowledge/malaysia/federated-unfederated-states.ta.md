@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "nine-royal-houses" }
 related: ["straits-settlements", "malayan-union", "nine-royal-houses", "malay-sultanate-system"]
 keywords: ["Federated Malay States", "Unfederated Malay States", "British Resident system", "British Adviser system", "Pangkor Treaty 1874", "Resident-General Kuala Lumpur", "Anglo-Siamese Treaty 1909", "Johor General Adviser", "Malay Rulers British protection", "colonial Malaya"]
+framework: explainer
 ---
 
 ஒன்பது மலாய் மாநிலங்கள், ஒரே ஏகாதிபத்திய சக்தி — இருப்பினும் ஒரே ஏற்பாடு அல்ல, இரண்டு. காலனித்துவ மலாயா பற்றிய பெரும்பாலான சுருக்கங்கள் தவிர்த்துச் செல்லும் விஷயம் இந்தப் பிரிவினைதான்; அதுவே இக்கட்டுரையின் முழுக் கருத்தும் ஆகும்.

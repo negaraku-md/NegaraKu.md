@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["selangor", "penang", "religion-statistics", "article-3-religion"]
 keywords: ["Thaipusam Malasia", "Batu Caves Thaipusam", "kavadi", "procesión del carro de plata", "Señor Murugan", "272 escalones", "paal kudam", "Templo de la Cima de la Cascada Penang", "Thaipusam festivo"]
+framework: history-culture
 ---
 
 Antes del amanecer, una colina de piedra caliza en el extremo norte de Kuala Lumpur se llena de sonido: tambores, cánticos, el roce de cientos de miles de pies descalzos sobre la piedra. Al pie de una escalinata de 272 escalones se alza una figura dorada más alta que un edificio de catorce plantas. La subida ha comenzado, y no se detendrá durante gran parte del día.

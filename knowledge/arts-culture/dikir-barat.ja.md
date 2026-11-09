@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "wau" }
 related: ["kelantan", "mak-yong", "wayang-kulit", "wau"]
 keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", "pantun berbalas", "seni persembahan", "warisan kebangsaan"]
+framework: history-culture
 ---
 
 二つのグループが舞台の上で向かい合い、あぐらをかいて座る。台本はない。最初のグループが物価上昇を皮肉ったパントゥンを歌い終えると、二番目のグループには返歌を作る時間がほんの数秒しか与えられない――しかも韻を踏み、拍に合わせ、できれば元の句よりも鋭くなければならない。

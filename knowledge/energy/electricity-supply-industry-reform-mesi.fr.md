@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "seda-malaysia" }
 related: ["tenaga-nasional", "energy-commission-suruhanjaya-tenaga", "seda-malaysia"]
 keywords: ["MESI", "MESI 2.0", "réforme marché électricité Malaisie", "accès des tiers", "acheteur unique", "CRESS", "dégroupage TNB", "concurrence au détail électricité"]
+framework: explainer
 ---
 
 Pour la plupart des Malaisiens, acheter de l'électricité signifie une seule facture d'une seule entreprise. Derrière cette simplicité se cache un débat discret, vieux d'une décennie, sur la question de savoir si le marché de l'électricité du pays devrait un jour ressembler à autre chose — et la réponse continue d'atterrir sur « pas encore, mais un peu plus chaque année ».

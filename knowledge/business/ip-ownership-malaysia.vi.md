@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "patent-malaysia" }
 related: ["copyright-malaysia", "patent-malaysia", "industrial-design-malaysia", "trademark-registration-malaysia"]
 keywords: ["ip ownership malaysia", "who owns copyright employee malaysia", "contractor ip malaysia", "ip assignment malaysia", "section 26 copyright act 1987"]
+framework: explainer
 ---
 
 Một người sáng lập Malaysia sắp ký một biên bản điều khoản (term sheet) được yêu cầu các sự

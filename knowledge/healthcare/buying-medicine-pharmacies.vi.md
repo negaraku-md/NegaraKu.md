@@ -54,6 +54,7 @@ relations:
   - { rel: "related-to", to: "healthcare-for-seniors" }
 related: ["medical-insurance", "healthcare-for-seniors"]
 keywords: ["beli ubat Malaysia", "farmasi Malaysia", "Akta Racun 1952", "ubat preskripsi", "ubat bebas", "Poisons Act 1952", "ahli farmasi berdaftar", "racun Kumpulan B", "Quest3+", "NPRA"]
+framework: explainer
 ---
 
 Một khách hàng xin thuốc ho ở quầy dược và được phục vụ ngay. Một khách hàng khác xin kháng sinh cho chứng đau họng và được yêu cầu trình đơn của bác sĩ trước. Cả hai giao dịch đó diễn ra tại cùng một nhà thuốc, trong cùng một ngày — sự khác biệt nằm ở luật phân loại thuốc đó, chứ không phải ở sự tùy nghi của dược sĩ.

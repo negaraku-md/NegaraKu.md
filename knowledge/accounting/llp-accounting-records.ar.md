@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "accounting-records-section-245" }
 related: ["llp-vs-sdn-bhd", "register-llp-malaysia", "accounting-records-section-245", "sdn-bhd-bookkeeping"]
 keywords: ["سجلات محاسبة LLP", "المادة 69 قانون LLP 2012", "الإقرار السنوي LLP", "solvency declaration LLP", "LLP مقابل Sdn Bhd", "Akta 743"]
+framework: rules
 ---
 
 يمكن لشركة LLP أن تعمل سنوات دون أن تقدّم بيانًا ماليًا واحدًا إلى SSM — وهنا يكمن سوء فهم شائع عن هذا الهيكل. فغياب اشتراط الإيداع لا يعني غياب المسؤولية. إذ تظل المادة 69 من قانون الشراكة ذات المسؤولية المحدودة لسنة 2012 (Limited Liability Partnerships Act 2012) تُلزِم كل شراكة ذات مسؤولية محدودة (LLP) بمعيار لحفظ السجلات صارم كمعيار الشركة، وتستبدل المادة 68 بالبيان المالي العام أداةً أخرى تحمل مسؤولية شخصية على الشركاء: إقرار الملاءة.

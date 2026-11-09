@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "manufacturing" }
 related: ["johor", "external-trade", "manufacturing"]
 keywords: ["JS-SEZ", "Johor Singapore Special Economic Zone", "JS-SEZ incentives", "JS-SEZ flagship zones", "Malaysia Singapore economic zone", "IMFC-J"]
+framework: explainer
 ---
 
 两个国家同意跨越一道边界共享一套税制。这正是柔佛-新加坡经济特区

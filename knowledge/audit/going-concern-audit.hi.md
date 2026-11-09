@@ -72,6 +72,7 @@ relations:
   - { rel: "affects", to: "audit-opinion-types" }
 related: ["statutory-audit-process", "audit-opinion-types", "emphasis-of-matter-kam", "audit-preparation-checklist"]
 keywords: ["गोइंग कंसर्न मलेशिया लेखापरीक्षा", "गोइंग कंसर्न से संबंधित जोखिमपूर्ण अनिश्चितता", "going concern Malaysia audit", "material uncertainty related to going concern", "ISA 570 Malaysia", "management representation letter"]
+framework: explainer
 ---
 
 एक मलेशियाई लेखापरीक्षा के अंत में दो दस्तावेज़ बिना पढ़े हस्ताक्षरित हो जाते हैं: गोइंग कंसर्न मूल्यांकन और प्रतिनिधित्व पत्र। दोनों बोर्ड के अपने ही कथन हैं, दोनों साक्ष्य हैं, और जब कंपनी बाद में विफल होती है तो दोनों ही पहली चीज़ें होती हैं जिन्हें कोई देखता है।

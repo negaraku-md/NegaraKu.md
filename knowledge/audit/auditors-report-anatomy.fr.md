@@ -82,6 +82,7 @@ relations:
   - { rel: "part-of", to: "statutory-audit-process" }
 related: ["audit-opinion-types", "emphasis-of-matter-kam", "going-concern-audit", "statutory-audit-process", "appointing-an-auditor", "financial-statements-lodgement"]
 keywords: ["rapport des auditeurs Malaisie", "sections du rapport d'auditeur indépendant", "numéro AF cabinet d'audit Malaisie", "numéro d'agrément de l'associé d'audit", "article 266 rapport aux membres", "comment lire un rapport d'audit", "auditors report Malaysia", "how to read an audit report"]
+framework: explainer
 ---
 
 Un rapport d'auditeur de Malaisie est un document à format fixe. La MIA publie les illustrations — AAPG 1 pour le référentiel MFRS, AAPG 2 pour le MPERS, les deux lues avec le Companies Act 2016 — et les cabinets les suivent de près. Cela rend la diligence rapide, car tout ce qui est hors de sa place est visible.

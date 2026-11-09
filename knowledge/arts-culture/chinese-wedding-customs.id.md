@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "chinese-dialects", "chinese-clan-associations", "chinese-religion-in-malaysia"]
 keywords: ["华人婚礼", "传统婚礼", "过大礼", "下聘", "聘金", "嫁妆", "安床", "上头", "迎亲", "接新娘", "姐妹玩新郎", "闯门", "奉茶", "敬酒", "喜酒", "回门", "囍", "双喜", "马来西亚华人", "Chinese wedding customs Malaysia"]
+framework: history-culture
 ---
 
 Sebelum fajar benar-benar menyingsing, serombongan mobil sudah berhenti di depan rumah pihak wanita. Mempelai pria memeluk seikat bunga, diikuti beberapa "saudara", tetapi dihadang beberapa "saudari" yang menjenguk dari pintu: pertama jawab pertanyaan, lalu nyanyikan satu bait, makan beberapa iris jeruk nipis yang diiris sangat tipis, dan akhirnya selipkan beberapa angpau melalui celah pintu — setelah melewati tantangan "menyerbu pintu" (chuang men) ini, barulah pintu terbuka, dan mempelai pria dapat menemui pengantin wanita yang berbusana serba merah. Pagi yang penuh gurauan dan kemeriahan seperti inilah pembuka hari pernikahan bagi banyak pernikahan Tionghoa di Malaysia.

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "asean-free-trade-area" }
 related: ["miti", "malaysia-cptpp"]
 keywords: ["RCEP", "Malaysia trade agreement", "rules of origin", "Form RCEP", "tariff elimination", "ASEAN", "MITI", "free trade agreement"]
+framework: explainer
 ---
 
 签一份原产地证书，一件马来西亚制造的商品就能免税进入一个从奥克兰延伸到北京、再到吉隆坡的市场。用一句话概括，这就是 RCEP 为马来西亚出口商带来的改变。

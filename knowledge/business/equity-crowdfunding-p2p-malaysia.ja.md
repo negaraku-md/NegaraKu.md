@@ -86,6 +86,7 @@ relations:
   - { rel: "compares-with", to: "sme-financing-malaysia" }
 related: ["sme-financing-malaysia", "share-capital-malaysia", "shareholders-agreement-malaysia"]
 keywords: ["equity crowdfunding malaysia", "p2p financing malaysia", "ecf malaysia", "sc recognized market operator", "raise funds sme malaysia", "invoice financing p2p malaysia", "startup funding malaysia"]
+framework: decision
 ---
 
 担保がないために3行の銀行から融資を断られたマレーシアの中小企業（SME）には、規制されたもう

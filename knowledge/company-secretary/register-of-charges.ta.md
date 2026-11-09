@@ -116,6 +116,7 @@ relations:
   - { rel: "related-to", to: "close-a-company" }
 related: ["statutory-registers", "registered-office", "close-a-company", "annual-return"]
 keywords: ["register of charges Malaysia", "section 352 Companies Act 2016", "charge registration 30 days SSM", "unregistered charge void liquidator", "daftar gadaian syarikat", "section 362 register of charges"]
+framework: rules
 ---
 
 Companies Act 2016-இல் உள்ள அனைத்துக் காலக்கெடுகளிலும், s.352 மிகக் கூர்மையான

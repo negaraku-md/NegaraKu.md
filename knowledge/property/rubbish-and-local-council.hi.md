@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["कचरा मलेशिया", "पुनर्चक्रण मलेशिया", "स्रोत पर कचरा पृथक्करण", "स्थानीय परिषद कचरा", "sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
+framework: explainer
 ---
 
 आपका कचरादान सप्ताह में दो बार उठाया जाता है, लेकिन क्या आपने कभी पूछा है कि इसे वास्तव में कौन उठाता है — स्थानीय परिषद, या कोई अन्य कंपनी जिसे परिषद ने नियुक्त किया है? और क्यों आपके पड़ोसी राज्य का पड़ोसी प्लास्टिक की बोतलों को खाद्य अपशिष्ट से अलग न करने पर दंडित हो सकता है, जबकि आप नहीं?

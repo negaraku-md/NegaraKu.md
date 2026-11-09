@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "mykad-guide" }
 related: ["immigration-act-1959-63"]
 keywords: ["masuk sabah", "masuk sarawak", "imigresen sabah sarawak", "dokumen perjalanan terhad", "pas lawatan sosial", "MA63 imigresen"]
+framework: rules
 ---
 
 クアラルンプールから古晋（クチン）へ飛ぶと、着陸するやいなや出入国カウンターが待っている——自分の国の中で、である。多くの半島マレーシアの国民にとって、これは国際的な境界を一度も越えることなく、出入国審査官に身分証を提示する初めての経験となる。これは行政上の手違いではない。サバ州とサラワク州は独自に出入国を管理しており、その規定はマレーシア国民を含むすべての人に適用される。

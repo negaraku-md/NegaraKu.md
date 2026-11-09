@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "directors-duties" }
 related: ["accounting-records-section-245", "directors-duties"]
 keywords: ["लेखांकन अभिलेख निरीक्षण का निदेशक अधिकार मलेशिया", "धारा 245(4) कंपनी अधिनियम 2016", "निदेशक निरीक्षण सहायक कंपनी अभिलेख", "शेयरधारक विवाद कंपनी अभिलेख मलेशिया", "director right to inspect accounting records Malaysia", "section 245(4) Companies Act 2016"]
+framework: explainer
 ---
 
 किसी शेयरधारक विवाद में पहला वार शायद ही कभी कोई याचिका होता है। यह अल्पमत निदेशक

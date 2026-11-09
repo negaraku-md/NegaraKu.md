@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "duitnow-qr" }
 related: ["pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["e-wallet Malaysia", "e-money", "Touch n Go eWallet", "Boost", "GrabPay", "ShopeePay", "BNM", "PIDM", "akaun amanah", "safeguarding"]
+framework: explainer
 ---
 
 レジで「支払う」を押すと、電子ウォレット残高が数リンギット減り、取引は一秒で完了する。しかし、あなたが今朝「チャージ（top up）」したRM200は、実際のところどこに保管されているのか——そして、そのアプリの背後にある会社が突然破産したら、そのお金はどうなるのか。答えは、あなたの銀行口座にあるお金に起こることとは異なり、その違いは重要だ。

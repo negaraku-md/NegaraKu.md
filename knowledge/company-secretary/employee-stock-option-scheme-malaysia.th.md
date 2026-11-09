@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "perquisites-and-benefits-in-kind-tax" }
 related: ["companies-act-2016"]
 keywords: ["ESOS malaysia", "employee share option scheme malaysia", "ESOP malaysia tax", "share option perquisite malaysia", "section 75 companies act 2016", "bursa 15% share scheme", "how ESOS is taxed malaysia"]
+framework: explainer
 ---
 
 สตาร์ทอัพที่ขาดเงินสดและบริษัทที่เติบโตเต็มที่ซึ่งไล่ตามการรักษาพนักงานเอื้อมมือไปหาเครื่องมือเดียวกัน: ให้พนักงานส่วนหนึ่งของหุ้น โครงการสิทธิซื้อหุ้นสำหรับพนักงาน (ESOS) ให้พนักงานซื้อหุ้นในภายหลังในราคาที่กำหนดในวันนี้ เพื่อให้พวกเขามีส่วนในมูลค่าที่เพิ่มขึ้นซึ่งพวกเขาช่วยสร้าง เป็นเครื่องมือที่ทรงพลัง — และยังเป็นที่ที่ผู้ก่อตั้งเข้าใจกฎหมายและภาษีผิดเงียบ ๆ โดยมักเป็นเรื่องภาษี

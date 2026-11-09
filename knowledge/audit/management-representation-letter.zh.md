@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "auditor-report" }
 related: []
 keywords: ["surat perwakilan pengurusan", "management representation letter", "ISA 580", "perwakilan bertulis", "written representations", "bukti audit", "juruaudit"]
+framework: explainer
 ---
 
 在每次审计接近尾声时，董事都会被要求签署一份容易被忽视却分量十足的文件：一封以他们自己的签名承认已将一切告知审计师的信函。这就是管理层声明书。

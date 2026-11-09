@@ -83,6 +83,7 @@ faq:
     a: No. Kuala Lumpur, Putrajaya and Labuan are Federal Territories, placed under direct federal administration by the Federal List (item 27) rather than governed by a state. They have no Ruler, Menteri Besar or State Legislative Assembly; KL and Putrajaya are administered through the Ministry of Federal Territories. Only the 13 states have their own State Constitutions and governments.
   - q: If local government is a State List matter, why does Parliament legislate it?
     a: Local government is State List item 4 of the Ninth Schedule, giving states the legislative label. But Parliament exercises that power uniformly for Peninsular Malaysia through the Local Government Act 1976 (Act 171), a federal statute the states adopted under the Constitution's uniformity mechanism. Article 95A also creates a National Council for Local Government whose decisions can bind states. Sabah and Sarawak instead use their own separate ordinances.
+framework: explainer
 ---
 
 Malaysians vote for a Member of Parliament. They vote for a state assemblyman. They have never voted for the mayor or councillors who set their assessment tax, license their hawker stall, or approve the extension on their house — because that election hasn't been held anywhere in Malaysia since 1965.

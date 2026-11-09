@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "malaysia-digital-arrival-card-mdac" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["malaysia visa", "visa-free countries malaysia", "malaysia evisa", "eNTRI", "malaysia digital arrival card", "social visit pass"]
+framework: rules
 ---
 
 在你订好飞往吉隆坡的机票之前，第一个问题不是"住哪家酒店"——而是"我的护照能不能过关？"对大多数旅客来说，答案让人松一口气，但规则会因国籍而截然不同，而如今有一份在线表格几乎适用于所有人。

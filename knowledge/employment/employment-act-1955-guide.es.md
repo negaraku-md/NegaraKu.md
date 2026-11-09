@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-labour-ordinance" }
 related: ["labour-law-map-malaysia", "employment-act-coverage", "working-hours-overtime-malaysia", "minimum-wage-malaysia"]
 keywords: ["ley de empleo 1955", "ley de empleo malasia", "act 265", "ley de empleo enmienda 2022", "derecho laboral malasia", "semana de 45 horas malasia", "employment act 1955"]
+framework: data-reference
 ---
 
 Abra cualquier blog de RR. HH. malasio y todavía encontrará la Ley de Empleo descrita como una ley para trabajadores de bajos ingresos, con un umbral de cobertura de RM2,000 y una semana de 48 horas. Ambas cifras están muertas. La Ley de Empleo (Enmienda) de 2022 (Ley A1651) reescribió la Ley 265 con efecto desde el **1 de enero de 2023**, y la reimpresión que publica la Cámara del Fiscal General se titula ahora *a 1 de enero de 2023*. Sin embargo, la mayor parte del comentario mejor posicionado sigue siendo el ciclo de noticias de «qué cambió en 2023» — escrito una vez y nunca revisado.

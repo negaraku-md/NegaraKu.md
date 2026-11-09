@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "wau" }
 related: ["wau", "kelantan", "terengganu"]
 keywords: ["gasing", "gasing uri", "gasing pangkah", "permainan tradisional Melayu", "warisan kebangsaan", "Kuala Nerus", "gasing Kelantan", "gasing Terengganu"]
+framework: history-culture
 ---
 
 เสียงมาถึงก่อน — เสียงกระแทกของไม้หนักปะทะไม้หนัก ตามด้วยเสียงเชียร์ ที่ลานกลางหมู่บ้านแห่งหนึ่งรอบกัวลาเนอรุส (Kuala Nerus) รัฐตรังกานู กลุ่มสองกลุ่มยืนประจันหน้ากัน คนหนึ่งขว้างลูกข่างของตนด้วยเชือก อีกลูกหนึ่งกำลังหมุนรออยู่บนพื้น ผู้ชนะไม่ใช่คนที่เร็วที่สุด — แต่คือคนที่ลูกข่างยังคงหมุนอยู่หลังถูกกระแทก

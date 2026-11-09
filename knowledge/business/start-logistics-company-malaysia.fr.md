@@ -87,6 +87,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaLicensing
     - SupplyChain
+framework: how-to
 ---
 
 Démarrer une entreprise de logistique en Malaisie n'est pas une seule décision mais une pile de décisions. La Sdn Bhd est la partie facile ; la valeur - et le délai - résident dans les licences. Un camion qui transporte le fret d'autrui, un commissionnaire de transport qui dépose une déclaration en douane et un chauffeur au volant répondent chacun à un régulateur différent, et la plus importante - la licence d'exploitant - est aussi là où la propriété étrangère se heurte à un mur. Voici le parcours de création de l'exploitant, dans l'ordre où vous en avez réellement besoin.

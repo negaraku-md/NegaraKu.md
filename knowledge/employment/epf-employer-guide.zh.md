@@ -98,6 +98,7 @@ relations:
   - { rel: "explained-in", to: "epf-foreign-workers-malaysia" }
 related: ["payroll-compliance-malaysia", "epf-foreign-workers-malaysia", "socso-eis-employer-guide"]
 keywords: ["EPF contribution rate Malaysia", "EPF Third Schedule", "KWSP employer contribution", "EPF 13 percent 12 percent", "caruman KWSP majikan"]
+framework: rules
 ---
 
 问一名马来西亚薪资管理人员 EPF 的雇主费率是多少，他会告诉你 13%。请他算一算月薪

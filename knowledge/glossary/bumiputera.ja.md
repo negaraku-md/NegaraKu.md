@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["federal-constitution", "orang-asli", "population-composition", "bumiputera-equity-requirements"]
 keywords: ["Bumiputera", "definisi Bumiputera", "Perkara 153", "Perkara 160", "Perkara 161A", "orang Melayu", "anak negeri Sabah Sarawak", "kedudukan istimewa", "Perlembagaan Persekutuan"]
+framework: explainer
 ---
 
 連邦憲法の条文の中で「ブミプトラ」という語を探しても、見つからないだろう。日常の会話、公式の書式、政府の政策の中でこれほど頻繁に耳にする用語であるにもかかわらず、それは国の最高法規である文書の中では実際には使用されていない。

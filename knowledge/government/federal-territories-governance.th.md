@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "dewan-negara" }
 related: ["federal-state-division", "state-assemblies-dun", "three-tiers-of-government", "dewan-rakyat", "dewan-negara"]
 keywords: ["Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "tiada Dewan Undangan Negeri", "Datuk Bandar dilantik", "DBKL Perbadanan Putrajaya Perbadanan Labuan", "Jabatan Wilayah Persekutuan", "Perkara 1 Perlembagaan Persekutuan", "pentadbiran wilayah persekutuan", "Federal Territory Malaysia governance"]
+framework: explainer
 ---
 
 ในรัฐหนึ่ง มีสุลต่านหรือผู้ว่าการรัฐ (Yang di-Pertua Negeri) มีมุขมนตรี (Menteri Besar) หรือหัวหน้าคณะรัฐมนตรีของรัฐ (Ketua Menteri) และมีสภานิติบัญญัติแห่งรัฐที่มาจากการเลือกตั้งของประชาชน ในกัวลาลัมเปอร์ ปุตราจายา และลาบวน ไม่มีสักอย่างในสิ่งเหล่านั้น สามที่นี้ไม่ใช่รัฐ — เป็นดินแดนสหพันธ์ และถูกปกครองโดยตรงโดยรัฐบาลสหพันธ์

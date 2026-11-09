@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-malaysia" }
 related: ["balik-kampung", "kampung", "public-holidays-malaysia", "religion-statistics"]
 keywords: ["Hari Raya Aidilfitri", "1 Syawal", "balik kampung", "duit raya", "rumah terbuka", "ziarah kubur", "zakat fitrah", "cuti umum Aidilfitri"]
+framework: history-culture
 ---
 
 En la última noche del Ramadán, todo el país parece ponerse en movimiento a la vez. La autopista Norte–Sur queda atascada durante horas, las estaciones de autobuses se llenan de bolsas y latas de galletas, y se encienden lámparas pelita en los porches, desde las ciudades hasta los rincones más remotos del kampung. Al día siguiente, 1 de Syawal, termina un mes de ayuno — y Malasia celebra el Hari Raya Aidilfitri.

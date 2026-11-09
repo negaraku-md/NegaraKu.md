@@ -85,6 +85,7 @@ relations:
   - { rel: "requires", to: "individual-tax-residence" }
 related: ["income-tax-in-malaysia", "individual-tax-residence", "personal-tax-rates", "which-tax-form", "epf-foreign-workers-malaysia"]
 keywords: ["impôt des expatriés Malaisie", "expatriate tax Malaysia", "taux non-résident Malaisie 30", "non-resident tax rate Malaysia 30", "exonération 60 jours impôt Malaisie", "60 day exemption Malaysia tax", "taux travailleur du savoir 15", "knowledge worker tax rate 15", "impôt Programme experts de retour", "Returning Expert Programme tax", "résidence fiscale Employment Pass", "Employment Pass tax residence"]
+framework: rules
 ---
 
 Le mois le plus cher d'une mission d'expatrié est généralement le mois d'arrivée,

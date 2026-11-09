@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "consumer-protection-act-1999" }
 related: ["court-hierarchy"]
 keywords: ["tuntutan kecil", "small claims", "mahkamah majistret", "aturan 93", "borang 198", "saman hutang", "tanpa peguam"]
+framework: how-to
 ---
 
 누군가가 여러분에게 RM3,000을 빚지고, 갚기를 거부하며, 모든 전화를 무시합니다. 변호사를 선임하면 그 빚 자체보다 더 많은 비용이 들 수 있습니다. 바로 여기에 **소액 청구** 절차가 존재합니다. 즉 평범한 사람이 작은 분쟁을 법원에 가져갈 수 있도록 — 혼자서, 저렴하게, 변호사 법복 없이 — 특별히 설계된 경로입니다.

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "registering-a-marriage-civil" }
 related: ["getting-married-in-malaysia", "registering-a-marriage-civil"]
 keywords: ["divorce Malaysia", "civil divorce", "Syariah divorce", "talak", "fasakh", "khuluk", "Law Reform Marriage and Divorce Act 1976", "Section 51 conversion to Islam", "Syariah court"]
+framework: explainer
 ---
 
 இரு மலேசியத் தம்பதிகள் ஒரே காலையில் தங்கள் திருமணங்களை முடிவுக்குக் கொண்டுவரத் தாக்கல் செய்கிறார்கள். ஒரு தம்பதி சிவில் உயர் நீதிமன்றம் (High Court) பதிவகத்திற்குள் நுழைகிறது; மற்றொன்று ஒரு மாநில இஸ்லாமிய மத அலுவலகத்திற்கு அறிக்கை செய்கிறது. எவரும் மற்றொருவரின் கதவைப் பயன்படுத்த முடியாது. மலேசியாவில், ஒரு திருமணத்தை முடிப்பது — அதைத் தொடங்குவது போலவே — இரு தனித்தனியான சட்ட அமைப்புகள் வழியாகச் செல்கிறது, மேலும் எந்த அமைப்பு பொருந்தும் என்பதைத் தரப்பினரின் மதம் தீர்மானிக்கிறது, அவர்களின் விருப்பம் அல்ல.

@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "appointing-an-auditor" }
 related: ["directors-duties", "appointing-an-auditor", "sdn-bhd-vs-berhad"]
 keywords: ["لجنة التدقيق ماليزيا", "audit committee malaysia", "اشتراطات الإدراج في بورصة ماليزيا الفصل 15", "bursa listing requirements chapter 15", "تشكيل لجنة التدقيق", "المدير المستقل لجنة التدقيق", "mccg الممارسة 9", "وظيفة التدقيق الداخلي شركة مُدرَجة"]
+framework: rules
 ---
 
 اسأل معظم المديرين الماليزيين عن مصدر اشتراط لجنة التدقيق فسيُقال لك إنه قانون

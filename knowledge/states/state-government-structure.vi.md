@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-state-division" }
 related: ["rulers-and-governors", "state-assemblies-dun", "kabinet-perdana-menteri", "three-tiers-of-government", "federal-state-division", "sabah-sarawak-safeguards"]
 keywords: ["state government Malaysia", "Menteri Besar", "Chief Minister Malaysia", "State Executive Council", "EXCO", "Dewan Undangan Negeri", "state assembly Malaysia", "Yang di-Pertua Negeri", "Eighth Schedule", "Ninth Schedule", "State List", "Federal Constitution Malaysia"]
+framework: explainer
 ---
 
 Bỏ đi Istana Negara, đổi tên Thủ tướng, và thu Nghị viện xuống thành một viện duy nhất — và bạn đang nhìn vào một chính quyền bang của Malaysia. Cả 13 bang vận hành trên một bản sao thu nhỏ của hệ thống liên bang: một người đứng đầu bang trị vì mà không cai trị, một người đứng đầu chính quyền được chọn vì có thể nắm một đa số, một hội đồng hành pháp chịu trách nhiệm tập thể trước các thành viên được bầu, và một cơ quan lập pháp có thể bị giải tán và trả lại cho cử tri. Các tước hiệu thay đổi từ bang này sang bang khác. Bản thiết kế thì không.

@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "manufacturing" }
 related: ["johor", "external-trade", "manufacturing"]
 keywords: ["JS-SEZ", "Johor Singapore Special Economic Zone", "JS-SEZ incentives", "JS-SEZ flagship zones", "Malaysia Singapore economic zone", "IMFC-J"]
+framework: explainer
 ---
 
 두 국가가 국경을 넘어 세제를 공유하기로 합의하였습니다. 그것이 바로 조호르-싱가포르 경제특구의 조용한 참신함입니다 — 새로운 산업단지가 아니라, 조호르 남부와 싱가포르가 세계 투자자들에게 하나의 사업 주소로 스스로를 홍보할 수 있게 하는 양자 간 합의입니다.

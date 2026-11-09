@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "singapore-separation-1965" }
 related: ["malayan-union", "melaka-sultanate", "singapore-separation-1965"]
 keywords: ["Établissements des Détroits", "histoire coloniale de Penang", "domination britannique à Melaka", "colonie de la Couronne de Singapour", "Traité de Pangkor 1874", "système des résidents britanniques", "États malais fédérés", "États malais non fédérés", "résident général Kuala Lumpur", "conseiller général de Johor"]
+framework: history-culture
 ---
 
 Trois ports, quatre changements de statut administratif et quarante et un ans. Voilà les Établissements des Détroits avant même de toucher aux États malais.

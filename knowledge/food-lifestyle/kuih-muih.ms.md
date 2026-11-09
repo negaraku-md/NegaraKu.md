@@ -91,6 +91,7 @@ verificationNeeded:
   - "Etimologi 'kuih' (biasanya dijejaki kepada koé Min Selatan / Hokkien, 粿) — sahkan dengan sumber linguistik atau leksikografi dan bukannya media makanan."
   - "Pengaitan serantau kuih manis berbanding masin kepada negeri tertentu (cth. lebih manis di negeri utara, lebih banyak kuih masin di semenanjung tengah dan selatan) — dilaporkan oleh Wikipedia tetapi wajar disahkan terhadap sumber warisan masakan Malaysia."
   - "Sama ada 'onde-onde' dan 'buah melaka' menamakan kuih yang sama persis atau varian serantau — penggunaannya berbeza dan sumber tidak sepenuhnya konsisten; sahkan dengan sumber tempatan."
+framework: history-culture
 ---
 
 Lalu di hadapan gerai kuih pada waktu pagi dan paparannya kelihatan seperti

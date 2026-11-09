@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "hinduism-in-malaysia" }
 related: ["hinduism-in-malaysia", "deepavali", "thaipusam", "pongal", "mariamman-worship", "hindu-temple-architecture"]
 keywords: ["நவராத்திரி", "Navaratri", "Navratri", "கொலு", "Golu", "விஜயதசமி", "சரஸ்வதி பூஜை", "ஆயுத பூஜை", "வித்யாரம்பம்", "மலேசியா நவராத்திரி", "கர்பா தாண்டியா"]
+framework: history-culture
 ---
 
 Trong dịp Navaratri, dọc theo một bức tường bên của phòng khách một gia đình Hindu Tamil ở Malaysia, người ta dựng lên các bậc tầng với số bậc lẻ. Trên những bậc phủ vải ấy, tượng thần và những con búp bê kể lại các cảnh trong thần thoại được xếp thành hàng. Về chiều, họ hàng và hàng xóm đến xem **Golu**; tiếng hát vang lên; và khách ra về được tặng thamboolam cùng đồ ngọt. Đây không phải sự kiện một ngày — mà là dấu hiệu của một lễ hội trải dài suốt chín đêm.

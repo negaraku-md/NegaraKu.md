@@ -85,6 +85,7 @@ relations:
   - { rel: "explained-in", to: "myinvois-phases" }
 related: ["e-invoicing", "myinvois-phases", "self-billed-e-invoice", "e-invoice-data-fields", "myinvois-integration"]
 keywords: ["consolidated e-Invoice", "e-invois disatukan", "RM10000 e-Invoice rule", "consolidated e-Invoice deadline", "General Public EI00000000010", "industries cannot consolidate e-Invoice"]
+framework: explainer
 ---
 
 統合は、電子インボイス制度のもとでマーマッ食堂（mamak）やミニマーケット、クリニックが生き延びられるようにしてくれる譲歩措置である。同時に、それはあなたの足元から真っ先に取り上げられる可能性が高い譲歩措置でもある——RM10,000の分界線によって、あなたの業種によって、あるいは月の29日に正式なインボイスを求めてくる一人の顧客によって。

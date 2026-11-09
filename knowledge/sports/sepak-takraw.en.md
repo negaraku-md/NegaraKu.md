@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "sukan-tradisional-malaysia" }
 related: []
 keywords: ["sepak takraw", "sepak raga", "sukan kebangsaan malaysia", "peraturan sepak takraw", "piala raja sepak takraw", "persekutuan sepaktakraw malaysia"]
+framework: history-culture
 ---
 
 Picture volleyball, then take away every player's hands. What remains — the

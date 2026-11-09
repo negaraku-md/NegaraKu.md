@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-state-division" }
 related: ["rulers-and-governors", "state-assemblies-dun", "kabinet-perdana-menteri", "three-tiers-of-government", "federal-state-division", "sabah-sarawak-safeguards"]
 keywords: ["state government Malaysia", "Menteri Besar", "Chief Minister Malaysia", "State Executive Council", "EXCO", "Dewan Undangan Negeri", "state assembly Malaysia", "Yang di-Pertua Negeri", "Eighth Schedule", "Ninth Schedule", "State List", "Federal Constitution Malaysia"]
+framework: explainer
 ---
 
 ลองนำอิสตานาเนอการา (Istana Negara) ออกไป เปลี่ยนชื่อนายกรัฐมนตรี และย่อรัฐสภาลงเหลือเพียงสภาเดียว — แล้วสิ่งที่คุณกำลังมองอยู่ก็คือรัฐบาลของรัฐในมาเลเซีย ทั้ง 13 รัฐดำเนินการบนสำเนาขนาดย่อของระบบสหพันธรัฐ คือ ประมุขของรัฐที่ครองราชย์โดยไม่ปกครอง หัวหน้ารัฐบาลที่ได้รับเลือกเพราะสามารถกุมเสียงข้างมาก สภาบริหารที่รับผิดชอบร่วมกันต่อสมาชิกที่มาจากการเลือกตั้ง และสภานิติบัญญัติที่สามารถถูกยุบและส่งกลับไปยังผู้ออกเสียงได้ ชื่อตำแหน่งเปลี่ยนไปในแต่ละรัฐ แต่พิมพ์เขียวไม่เปลี่ยน

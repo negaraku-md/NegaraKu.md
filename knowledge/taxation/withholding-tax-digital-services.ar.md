@@ -104,6 +104,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-non-compliance", "imported-taxable-services", "cp37-forms"]
 keywords: ["ضريبة الاستقطاع على البرمجيات كخدمة ماليزيا", "withholding tax SaaS Malaysia", "ضريبة الاستقطاع على البرمجيات", "withholding tax on software", "ضريبة الاستقطاع على الإعلان الرقمي", "Practice Note 1/2018", "إتاوة الاشتراك السحابي", "imported taxable services vs withholding tax"]
+framework: rules
 ---
 
 تدفع شركة ماليزية صغيرة أو متوسطة فاتورة استضافة أجنبية، واشتراك أداة تصميم، ومنصة

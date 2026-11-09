@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "malaysia-mm2h-program" }
 related: []
 keywords: ["visado Malasia", "MDAC", "Tarjeta Digital de Llegada a Malasia", "eVISA Malasia", "MYVISA", "Malasia sin visado", "requisitos de entrada a Malasia", "puerta automática Malasia", "validez del pasaporte Malasia"]
+framework: rules
 ---
 
 Reservó el vuelo, hizo la maleta, y solo en la puerta de embarque surge la pregunta: ¿Malasia quiere algo de usted antes de que llegue? Para la mayoría de los viajeros la sorpresa corta por los dos lados — probablemente no necesite visado, pero casi con certeza necesita presentar un pequeño formulario en línea llamado MDAC, y confundir esas dos cosas es la vía más rápida a una sala de llegadas estresante.

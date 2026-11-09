@@ -99,6 +99,7 @@ keywords:
   - "MalaysiaBiz"
   - "who issues business licences Malaysia"
   - "premise licence federal state local"
+framework: explainer
 ---
 
 Giấy chứng nhận SSM của bạn đến nơi, công ty tồn tại, và bạn có quyền làm chính xác

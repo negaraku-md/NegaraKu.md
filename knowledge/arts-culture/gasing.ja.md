@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "wau" }
 related: ["wau", "kelantan", "terengganu"]
 keywords: ["gasing", "gasing uri", "gasing pangkah", "permainan tradisional Melayu", "warisan kebangsaan", "Kuala Nerus", "gasing Kelantan", "gasing Terengganu"]
+framework: history-culture
 ---
 
 先に届くのは音だった——重い木片が重い木片にぶつかる音、そして沸き起こる歓声。トレンガヌ州クアラ・ヌルス周辺のある村の広場で、二つの集団が向かい合って立つ。一人が紐でガシン（gasing、伝統的な木製のコマ）を投げ放つ。もう一つはすでに地面の上で回転しながら待っている。勝つのは最も速い者ではない——打たれたあとも、なお回転を続けているガシンを持つ者だ。

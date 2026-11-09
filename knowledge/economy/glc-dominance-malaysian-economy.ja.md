@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "epf-kwsp-retirement-savings" }
 related: []
 keywords: ["GLC", "GLIC", "Khazanah", "government-linked companies", "Bursa Malaysia", "PERKUKUH", "state ownership", "Malaysian economy"]
+framework: explainer
 ---
 
 Bursa Malaysiaでほぼどのブルーチップ銘柄を買っても、あなたは間接的にマレーシア政府と取引していることになる。国家送電網、最大手銀行、老舗電信会社、そして世界最大級のパーム油グループの一つ——これらはすべて同じ最終的な所有者群を共有している。すなわち、地元株式市場全体の約4分の1を合わせて操る、一握りの国家投資ファンド群である。

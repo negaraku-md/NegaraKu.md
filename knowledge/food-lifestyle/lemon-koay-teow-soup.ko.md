@@ -73,6 +73,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#LemonKoayTeowSoup", "#KoayTeowSoup", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 George Town에서 해협 건너편, 페낭 본토 쪽에서 Lemon Koay Teow Soup는 돼지뼈 육수에

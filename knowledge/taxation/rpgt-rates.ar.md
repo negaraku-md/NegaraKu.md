@@ -88,6 +88,7 @@ relations:
   - { rel: "explained-in", to: "rpgt-exemptions" }
 related: ["rpgt-exemptions", "capital-gains-tax", "capital-or-revenue", "lhdn"]
 keywords: ["معدلات ضريبة أرباح العقارات ماليزيا", "RPGT rates Malaysia", "ضريبة أرباح العقارات", "حساب RPGT", "RPGT السنة السادسة", "Schedule 5 RPGTA", "CKHT"]
+framework: data-reference
 ---
 
 يكاد كل دليل متداوَل عن ضريبة أرباح العقارات يطبع سلّماً واحداً للمعدلات: 30، 30،

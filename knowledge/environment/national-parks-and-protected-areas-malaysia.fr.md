@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "unesco-world-heritage-sites-malaysia" }
 related: []
 keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Taman Kinabalu", "Gunung Mulu", "Sabah Parks", "Sarawak Forestry", "taman laut", "PERHILITAN", "Warisan Dunia UNESCO", "parcs nationaux", "aires protégées", "loi sur les parcs nationaux 1980", "parc de Kinabalu", "parcs marins", "patrimoine mondial UNESCO"]
+framework: explainer
 ---
 
 Demandez à n'importe qui où se trouve «le parc national de la Malaisie» et il désignera un seul endroit. En réalité, la Malaisie n'a pas un parc national unique — elle a trois systèmes juridiques entièrement distincts, et l'un d'eux ne couvre même pas le lieu le plus célèbre sous le nom de «Taman Negara». Comprendre cette carte juridique est la clé pour planifier une visite, mener une recherche ou simplement saisir comment la Malaisie protège ses forêts tropicales vieilles de 130 millions d'années.

@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["tamil-in-malaysia", "deepavali", "thaipusam"]
 keywords: ["Bharatanatyam", "Indian classical dance Malaysia", "Temple of Fine Arts", "Sutra Dance Theatre", "Ramli Ibrahim", "Malaysian Indian dance", "nritta nritya", "Carnatic music", "Malaysia Barathanatyam Dance Association"]
+framework: history-culture
 ---
 
 Kaki seorang penari menghentak lantai dalam pola yang cepat dan tepat. Lonceng berbunyi seiring dengan irama gendang mridangam. Tangannya membentuk sesuatu — seekor rusa, sekuntum teratai, sebuah pertanyaan — dan matanya mengikutinya sebelum wajahnya membalas dengan emosi yang seharusnya dirasakan oleh penonton, bukan sekadar ditonton. Kemudian iramanya selesai, ia memegang satu postur seperti arca, dan musiknya senyap sepenuhnya.

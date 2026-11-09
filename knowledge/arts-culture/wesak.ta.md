@@ -63,6 +63,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["religion-statistics", "article-3-religion", "kuala-lumpur"]
 keywords: ["Wesak Day Malaysia", "Vesak Day Malaysia", "Hari Wesak 2026", "Wesak Day date Malaysia", "Buddhist public holiday Malaysia", "Wesak procession Kuala Lumpur", "Buddha's birthday Malaysia"]
+framework: history-culture
 ---
 
 வெசாக் தினம் எப்போது விழுகிறது என்று கேட்டால் நிலையான பதில் எதுவும் இல்லை — அது மாறுகிறது. 2026ல் அது 31 மே அன்றும், 2027ல் 20 மே அன்றும், 2028ல் 9 மே அன்றும் விழுகிறது. காரணம் எளிது: வெசாக் நிலவால் நிர்ணயிக்கப்படுகிறது, நாட்காட்டித் தேதியால் அல்ல; சந்திர மற்றும் கிரிகோரியன் நாட்காட்டிகள் ஒவ்வொரு ஆண்டும் ஒன்றுக்கொன்று விலகிச் செல்கின்றன.

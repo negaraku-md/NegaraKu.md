@@ -91,6 +91,7 @@ verificationNeeded:
   - "Klaim bahwa Penang memakai 'curry mee' khususnya untuk menghindari kebingungan dengan asam laksa — ini penjelasan yang sering diulang di media kuliner, bukan etimologi yang terdokumentasi; pastikan dengan sumber linguistik atau warisan."
   - "Hubungan antara 'curry mee' KL/tengah dengan 'curry Hokkien mee' / Hokkien mee Penang — penamaan dan apakah ini mangkuk yang sama beragam menurut lokalitas; pastikan dengan sumber setempat."
   - "Apakah santan penting bagi setiap curry mee — sebagian versi Penang digambarkan lebih encer dan kurang bersantan ('curry mee putih'); pastikan rentangnya dengan sumber kuliner Penang."
+framework: explainer
 ---
 
 Pesan "curry mee" di George Town dan Anda akan mendapat semangkuk mi santan yang

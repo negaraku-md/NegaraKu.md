@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
+framework: explainer
 ---
 
 你家的垃圾桶每周被收走两次，但你是否曾想过，实际上是谁在收——是地方政府，还是地方政府委托的另一家公司？还有，为何隔壁州属的邻居会因为没有把塑料瓶与厨余分开而遭罚款，你却不会？

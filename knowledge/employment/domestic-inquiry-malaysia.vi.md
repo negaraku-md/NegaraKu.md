@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "unfair-dismissal-malaysia" }
 related: ["termination-of-employment-malaysia", "unfair-dismissal-malaysia", "termination-benefits-malaysia"]
 keywords: ["domestic inquiry malaysia", "DI procedure malaysia", "show cause letter malaysia", "suspension pending inquiry", "section 14 employment act", "misconduct dismissal malaysia"]
+framework: how-to
 ---
 
 Hầu hết các hướng dẫn nhân sự tại Malaysia dành cho điều tra nội bộ một câu duy nhất: "tiến hành một cuộc điều tra nội bộ (DI) trước khi sa thải vì hành vi sai trái." Chính câu đó là nơi người sử dụng lao động thua kiện. Cuộc điều tra không phải là một ô để đánh dấu trước một quyết định đã được đưa ra — nó là nền tảng chứng cứ mà người sử dụng lao động sẽ đứng trên đó nhiều tháng sau tại Tòa án Lao động, và nó thất bại vì thủ tục nhiều hơn hẳn so với vì sự việc.

@@ -88,6 +88,7 @@ keywords:
   - "minority shareholder rights Malaysia"
   - "drag along tag along Sdn Bhd"
   - "perjanjian pemegang saham"
+framework: explainer
 ---
 
 ผู้ก่อตั้งสองคนเซ็นสัญญาผู้ถือหุ้นยี่สิบหน้า มันให้แต่ละคนมีที่นั่งในคณะกรรมการ มีสิทธิยับยั้งการออกหุ้นใหม่

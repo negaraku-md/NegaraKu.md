@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "logistics-ports-industry" }
 related: ["ecer-guide", "kl-singapore-high-speed-rail", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["East Coast Rail Link", "ECRL", "Laluan Rel Pantai Timur", "Malaysia Rail Link", "CCCC railway Malaysia", "ECRL cost completion", "Kota Bharu Port Klang rail", "ECER rail"]
+framework: profile
 ---
 
 수십 년 동안 쿠알라룸푸르와 동해안 주들 사이를 오가는 가장 빠른 길은 산을 넘는 긴 도로 여행을 뜻했습니다. 동해안철도연결선은 단 하나의 선로가 그것을 바꿀 수 있다는 — 그리고 그 과정에서 이 나라의 성장이 일어나는 곳을 재조정할 수 있다는 — 말레이시아의 베팅입니다.

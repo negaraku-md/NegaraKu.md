@@ -58,6 +58,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "maternity-leave-malaysia", "employment-act-coverage"]
 keywords: ["congé de paternité Malaisie", "section 60fa employment act", "7 jours congé de paternité", "éligibilité congé de paternité Malaisie", "congé de paternité cinq accouchements"]
+framework: rules
 ---
 
 Le congé de paternité est entré dans l'Employment Act 1955 le 1er janvier 2023 sous la forme d'une seule section brève, et presque tous les résumés s'arrêtent à « sept jours ». Les conditions attachées à ces sept jours sont là où les employeurs se trompent réellement, car deux d'entre elles sont remplies — ou manquées — bien avant l'arrivée du bébé.

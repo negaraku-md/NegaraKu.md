@@ -104,6 +104,7 @@ keywords:
   - "section 31 Companies Act 2016"
   - "do I need a constitution Sdn Bhd"
   - "M&A replaced by constitution"
+framework: explainer
 ---
 
 회사법 2016은 회사 정관을 선택 사항으로 만들었고, 업계 전체는 이를 "정관은 필요

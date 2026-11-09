@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "thaipusam", "hinduism-in-malaysia", "estate-tamil-community"]
 keywords: ["செட்டியார் சமூகம்", "நாட்டுக்கோட்டை நகரத்தார்", "நகரத்தார் மலேசியா", "செட்டிநாடு", "கிட்டங்கி", "பினாங்கு செட்டியார் கோயில்", "Chettiar community Malaysia", "Nattukottai Chettiar", "Nagarathar"]
+framework: history-culture
 ---
 
 Le jour du Thaipusam à Penang, un magnifique char fait d'argent s'élance de la rue Lebuh Penang en direction du temple de Murugan, en haut de la colline. Ni ce char ni la communauté qui le mène depuis plus d'un siècle ne sont le fruit du hasard : tous deux racontent l'histoire d'une tradition marchande-bancaire qui a fait le voyage du Chettinad à la Malaisie.

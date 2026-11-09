@@ -91,6 +91,7 @@ verificationNeeded:
   - "Cerita rakyat bahawa nasi tumpang dicipta sebagai makanan mudah alih untuk petani, nelayan dan pengembara, serta usianya yang didakwa — Wikipedia membingkainya sebagai cerita rakyat; sahkan dengan sumber warisan Kelantan."
   - "Sama ada solok lada diisi dengan ikan atau dengan kelapa muda diparut — sumber rujukan (termasuk Wikipedia sendiri) tidak konsisten; sahkan dengan resipi tempatan atau sumber kulinari."
   - "Tempoh penapaian budu yang tepat (sumber rujukan memetik kira-kira 140–200 hari, satu angka yang ditandakan memerlukan petikan) dan butiran bahawa Pasar Besar Siti Khadijah di Kota Bharu kebanyakannya dikendalikan oleh peniaga wanita — sahkan masing-masing dengan sumber sains makanan dan sumber pasar/warisan."
+framework: history-culture
 ---
 
 Seberangi Sungai Kelantan masuk ke Kota Bharu dan makanan bertukar nada. Kari

@@ -63,6 +63,7 @@ keywords:
   - "monsoon Malaysia"
   - "MetMalaysia"
   - "MyBIS"
+framework: explainer
 ---
 
 # Mengapa Malaysia Termasuk dalam Kelompok Negara Megadiverse Dunia

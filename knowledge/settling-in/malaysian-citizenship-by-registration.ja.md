@@ -84,6 +84,7 @@ relations:
   - { rel: "compares-with", to: "malaysian-citizenship-by-naturalisation" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["kewarganegaraan", "pendaftaran", "Perkara 15", "pasangan asing", "Perlembagaan Persekutuan", "JPN", "warganegara Malaysia"]
+framework: explainer
 ---
 
 マレーシア国民と結婚しても、それだけで自動的にその人が国民になるわけではない。外国人配偶者と国民の子にとって、一般に「登録（pendaftaran）」と呼ばれる道は、連邦憲法第3編に列挙された市民権取得方法の一つである。本ページはこの法的枠組みを中立的かつ記述的に説明するものであり、法律上の助言ではない。

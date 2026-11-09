@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "temple-music-nadaswaram" }
 related: ["tamil-in-malaysia", "temple-music-nadaswaram", "hinduism-in-malaysia", "deepavali", "estate-tamil-community", "silambam"]
 keywords: ["இந்திய செம்மொழிக் கலைகள்", "பரதநாட்டியம்", "கர்நாடக இசை", "அரங்கேற்றம்", "ஒடிசி", "Temple of Fine Arts", "Sutra Dance Theatre", "Indian classical arts Malaysia", "Bharatanatyam Malaysia", "Carnatic music Malaysia"]
+framework: history-culture
 ---
 
 मलेशिया के किसी भी बड़े नगर में, दीपावली की किसी शाम या किसी मंदिर उत्सव के दिन, पायल की झंकार के साथ, मृदंगम की ताल पर थिरकते हुए किसी भरतनाट्यम कलाकार को मंच पर चढ़ते देखा जा सकता है। वे पदचाप और मुद्राएँ संयोगवश नहीं हैं — वे एक हज़ार वर्ष से भी पुरानी दक्षिण भारतीय कला-परंपरा की, और उस तरीक़े की कहानी कहती हैं जिससे मलेशियाई तमिल समुदाय ने उसे डेढ़ शताब्दी से अधिक समय तक सँजोए रखा है।

@@ -93,6 +93,7 @@ social:
     - "gulamelaka"
     - "penangfood"
     - "malaysianfood"
+framework: explainer
 ---
 
 Pada sore hari yang panas di Malaysia, sedikit hal yang seandal semangkuk cendol: segunung es serut yang berkilau di bawah lapisan santan, dijalin dengan jeli hijau lembut, dan digelapkan oleh siraman perlahan sirup gula aren. Ia murah, ia ada di mana-mana, dan ia manis tanpa malu-malu — jenis hidangan penutup yang Anda antre di bawah terik matahari dan habiskan sebelum meleleh.

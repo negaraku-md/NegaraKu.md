@@ -60,6 +60,7 @@ social:
   hashtags: ["TerengganuSultanate", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded:
   - "술탄국의 정확한 건국 연도 — 자료들은 1708년(조호르 종주에 의한 즉위)과 1724/1725년(완전한 독립)을 다양하게 제시합니다; 정확한 날짜는 하지 부용 아딜(Haji Buyong Adil)의 《트렝가누의 역사(Sejarah Terengganu)》와 같은 학술 역사서와 대조하여 확인해야 합니다."
+framework: history-culture
 ---
 
 어떤 술탄도 그 왕좌에 앉기 훨씬 전에, 트렝가누 내륙의 한 강가에 놓인 화강암 석판은 이미 그 주의 운명을 돌에 새겨 두었습니다. 바투 브르수랏 트렝가누(Batu Bersurat Terengganu) — 트렝가누 비문석(Inscribed Stone of Terengganu) — 는 1303년으로 읽히는 연대를 지니고 있으며, 풍화된 면에는 [자위(Jawi) 문자](/ko/arts-culture/jawi-script)의 아라비아 유래 둥근 글자로 한 통치자가 백성에게 이슬람을 굳게 지키라고 명합니다. 그것은 말레이 세계 어디에서든 자위 문자와 이슬람법의 가장 이른, 연대가 매겨진 증거입니다. 결국 이 땅의 이름을 지니게 될 술탄국은 그로부터 네 세기도 더 지나 등장했지만 — 그것이 수호하게 될 신앙은 이곳에 먼저 새겨졌습니다.

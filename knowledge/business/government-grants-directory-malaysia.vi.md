@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "mdec-digital-status" }
 related: ["sme-financing-malaysia"]
 keywords: ["government grants malaysia", "SME grant malaysia", "startup grant malaysia", "cradle CIP grant", "MDEC digital grant", "MSME digital grant madani", "matching grant malaysia", "business funding malaysia"]
+framework: data-reference
 ---
 
 Tìm «trợ cấp chính phủ Malaysia» và bạn sẽ nhận được hàng chục bài liệt kê hứa hẹn tiền miễn phí cho doanh nghiệp của bạn. Thực tế hữu ích hơn và phức tạp hơn: tiền có tồn tại, nhưng một nửa những gì được gọi là «trợ cấp» thực ra là một khoản vay, một khoản đầu tư vốn cổ phần, hoặc một khoản hoàn trả tiền mặt mà bạn phải chi trước. Điều giá trị nhất bạn có thể học trước khi nộp đơn là cách phân biệt chúng.

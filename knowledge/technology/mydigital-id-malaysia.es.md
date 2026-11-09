@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "pdpa-2010" }
 related: ["mykad", "jpn", "pdpa-2010"]
 keywords: ["mydigital id", "identidad digital nacional malasia", "identiti digital nasional malaysia", "myniise", "myjpj mydigital id", "registro mydigital id"]
+framework: explainer
 ---
 
 Puede que ya te hayas topado con ello sin darte cuenta: una nueva pantalla de inicio de sesión que aparece cuando abres MyJPJ o intentas renovar tu impuesto de circulación. Eso es MyDigital ID, y a lo largo de 2026 está pasando de ser algo opcional a la única puerta de entrada a un número creciente de servicios gubernamentales.

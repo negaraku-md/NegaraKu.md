@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "directors-report" }
 related: ["directors-duties", "directors-report", "loans-to-directors", "disclosure-of-interest"]
 keywords: ["directors fees Malaysia", "section 230 Companies Act 2016", "compensation for loss of office Malaysia", "yuran pengarah syarikat", "director remuneration approval Sdn Bhd", "section 227 payment loss of office"]
+framework: rules
 ---
 
 ஒரு குடும்ப Sdn Bhd-இல் கட்டணங்கள் பொதுவாக உரையாடல் மூலம் தீர்மானிக்கப்பட்டு, அதன்

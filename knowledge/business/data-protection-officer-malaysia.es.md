@@ -96,6 +96,7 @@ relations:
   - { rel: "governs", to: "personal-data-protection-act-2010" }
 related: ["pdpa-compliance-malaysia", "online-business-licence-malaysia"]
 keywords: ["data protection officer malaysia", "dpo malaysia", "section 12a pdpa", "pdpa dpo threshold", "appoint dpo malaysia"]
+framework: rules
 ---
 
 La mayoría de los negocios malasios leen el umbral del DPO, ven «20,000 sujetos de datos», deciden que no están ni cerca, y dejan de leer. El tercer supuesto está una línea más abajo, no tiene ninguna cifra en absoluto, y el propio ejemplo trabajado del Comisionado es una tienda en línea que recomienda productos.

@@ -96,6 +96,7 @@ verificationNeeded:
   - "Nguồn gốc và từ nguyên của nasi kandar (thường gắn với những người bán rong gánh nồi trên đòn gánh vai, 'kandar') — hãy xác nhận câu chuyện này với nguồn di sản hoặc lịch sử ẩm thực của Penang, chứ không chỉ truyền thông ẩm thực."
   - "Việc quy thuộc vùng miền của nasi dagang (gắn với Terengganu và Kelantan, với các phiên bản địa phương khác nhau) và màu xanh của nasi kerabu từ hoa đậu biếc (butterfly-pea) — hãy xác nhận với nguồn địa phương hoặc cấp bang."
   - "Khẳng định rằng truyền thống nasi beriani/nasi minyak du nhập vào Malaysia chủ yếu qua bếp Hồi giáo gốc Ấn và bếp cung đình Mã Lai — hãy xác nhận với nguồn lịch sử ẩm thực, vì các câu chuyện phổ biến khác nhau."
+framework: explainer
 ---
 
 Hỏi người Malaysia ăn gì, và câu trả lời thành thật thường là *cơm* — chỉ là

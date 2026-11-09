@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "pakatan-harapan" }
 related: []
 keywords: ["Barisan Nasional", "National Front", "BN", "Alliance Party", "UMNO", "MCA", "MIC", "GE14", "Malaysian coalition"]
+framework: profile
 ---
 
 Bagi sebagian besar rakyat Malaysia yang masih hidup hari ini, "pemerintah" dan "Barisan Nasional" pernah, untuk waktu yang sangat lama, nyaris menjadi ungkapan yang sama. Dari pemilihan umum pertamanya pada 1974 hingga kekalahannya pada 2018, National Front menguasai pemerintah federal tanpa putus — satu penguasaan terus-menerus selama 44 tahun. Artikel ini menelusuri bagaimana koalisi ini terbentuk, siapa saja anggotanya, dan bagaimana penguasaan yang panjang itu berakhir, dengan berpegang pada catatan yang terdokumentasi.

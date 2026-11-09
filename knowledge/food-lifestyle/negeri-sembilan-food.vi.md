@@ -95,6 +95,7 @@ verificationNeeded:
   - "Liệu masak lemak cili api có bao giờ chứa nước cốt dừa với lượng đáng kể hay 'cili api' chỉ đơn thuần nghĩa là rất cay — các nguồn đồng ý rằng nước cốt dừa (lemak) là cốt lõi, nhưng tỷ lệ chính xác và việc hỗn hợp gia vị có được xào (tumis) trước hay không thì khác nhau tùy từng gia đình và người nấu; hãy xác nhận với một nguồn ẩm thực của Negeri Sembilan."
   - "Rendang của Negeri Sembilan khác với rendang Malaysia/Minangkabau nói chung như thế nào (một số nguồn nói nó dựa nhiều vào gừng, riềng, sả và nước cốt dừa hơn là một hỗn hợp gia vị khô nặng) — hãy xác nhận với một nguồn ẩm thực địa phương hoặc hàn lâm."
   - "Việc quy daging salai một cách chính xác về mặt địa phương cho các thị trấn cụ thể như Pedas và Rembau, và liệu việc hun khói theo truyền thống có dùng một loại gỗ nhất định hay không — hãy xác nhận với một nguồn địa phương."
+framework: explainer
 ---
 
 Gọi món ở Seremban hay Rembau và một màu sắc cứ trở lại trên mâm cơm: một thứ nước

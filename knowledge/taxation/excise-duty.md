@@ -116,6 +116,7 @@ relations:
   - { rel: "related-to", to: "import-duty" }
 related: ["sales-and-service-tax"]
 keywords: ["duti eksais", "excise duty", "Akta Eksais 1976", "cukai kereta", "duti eksais rokok", "cukai gula", "minuman bergula", "JKDM", "kastam"]
+framework: explainer
 ---
 
 Beli sebuah kereta di Malaysia dan anda mungkin membayar cukai yang hampir menyamai harga kereta itu sendiri. Punca utamanya ialah satu cukai yang jarang dibincangkan tetapi sangat berkuasa: **duti eksais**.

@@ -118,6 +118,7 @@ keywords:
   - "Penang signboard Bahasa Malaysia rule"
   - "PDC industrial land Penang"
   - "Bayan Lepas free industrial zone"
+framework: profile
 ---
 
 ペナンでのビジネスについて最初に問うべきは、何を登記するかではない。海峡のどちら側にいるかである。

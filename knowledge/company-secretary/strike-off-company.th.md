@@ -75,6 +75,7 @@ relations:
   - { rel: "compares-with", to: "members-voluntary-winding-up" }
 related: ["companies-act-2016", "ssm", "members-voluntary-winding-up"]
 keywords: ["strike off syarikat", "seksyen 550 Akta Syarikat 2016", "potong nama syarikat SSM", "syarikat dorman", "pembubaran syarikat", "voluntary dissolution Malaysia"]
+framework: how-to
 ---
 
 บริษัทที่ไม่มีการดำเนินงานซึ่งหยุดประกอบธุรกิจมานานยังคง "มีชีวิต" ในทางกฎหมาย — ยังต้องยื่นแบบแสดงรายการประจำปี ยังเสี่ยงต่อค่าปรับ และกรรมการยังแบกความรับผิดชอบต่อ SSM การถอนชื่อบริษัทออกจากทะเบียนเป็นวิธีทางการในการยุติการดำรงอยู่นั้น แต่มันเปิดให้เฉพาะบริษัทที่สะอาดจากทรัพย์สิน หนี้ และข้อพิพาทอย่างแท้จริง

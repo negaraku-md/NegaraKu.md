@@ -81,6 +81,7 @@ relations:
   - { rel: "part-of", to: "financial-year-end" }
 related: ["financial-year-end", "financial-reporting-deadlines", "audit-exemption-thresholds", "audit-exemption", "sdn-bhd-first-year-compliance", "basis-period-and-accounting-date", "sdn-bhd-bookkeeping"]
 keywords: ["السنة المالية الأولى Sdn Bhd", "البيانات المالية الأولى 18 شهرًا في ماليزيا", "المادة 248 قانون الشركات 2016", "نهاية السنة المالية للشركة الجديدة في ماليزيا", "التدقيق الأول Sdn Bhd", "الإعفاء من التدقيق السنة الأولى"]
+framework: explainer
 ---
 
 يُقال لكل شركة Sdn Bhd جديدة إن لديها ثمانية عشر شهرًا قبل استحقاق أول حساباتها، ويُعرض

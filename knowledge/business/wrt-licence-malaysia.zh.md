@@ -100,6 +100,7 @@ keywords:
   - "foreign owned company Malaysia licence"
   - "WRT paid up capital"
   - "WRT employment pass"
+framework: rules
 ---
 
 搜索 WRT 执照，你会一而再、再而三地被斩钉截铁地告知：它需要 RM1 million 的实收资本。

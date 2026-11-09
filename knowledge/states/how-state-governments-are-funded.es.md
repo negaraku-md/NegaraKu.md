@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-special-rights-ma63" }
 related: []
 keywords: ["hasil negeri", "ingresos estatales", "geran perkapita", "subvención por habitante", "geran jalan raya negeri", "Jadual Kesepuluh", "Décimo Anexo", "Perkara 109", "Perkara 110", "kewangan persekutuan-negeri", "royalti", "regalías", "cukai jualan negeri"]
+framework: explainer
 ---
 
 Cuando un gobierno estatal de Malasia elabora su presupuesto, parte de una realidad que rara vez se menciona: los impuestos que más recaudan —el impuesto sobre la renta, el impuesto sobre ventas y servicios, los aranceles aduaneros— no le corresponde recaudarlos a él. Esas fuentes caen dentro de la jurisdicción federal. Lo que queda para los estados, y cómo se cubre la diferencia, está escrito con todas sus letras en la Constitución Federal.

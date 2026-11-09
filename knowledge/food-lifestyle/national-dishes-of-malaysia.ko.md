@@ -87,6 +87,7 @@ relations:
   - { rel: "explained-in", to: "national-heritage-act-2005" }
 related: ["teh-tarik"]
 keywords: ["nasi lemak", "roti canai", "char kuey teow", "laksa", "asam laksa", "hidangan kebangsaan Malaysia", "makanan warisan", "UNESCO warisan tidak ketara", "makanan Malaysia"]
+framework: explainer
 ---
 
 말레이시아인 열 명에게 나라의 「대표 음식」을 물으면, 질문을 미처 끝내기도 전에 아홉은 나시 르막을 말할 것입니다. 그러나 진짜 답은 더 흥미롭습니다: 말레이시아는 단 하나의 음식을 법적으로 선포한 적이 없습니다 — 대신 이 나라는, 통틀어, 그 정체성을 세계 무대로 실어 나르는 몇 가지 음식을 가지고 있습니다.

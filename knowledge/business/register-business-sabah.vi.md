@@ -129,6 +129,7 @@ keywords:
   - "DBKK business licence"
   - "SSM Sabah sole proprietorship"
   - "business registration Kota Kinabalu"
+framework: how-to
 ---
 
 Mọi hướng dẫn cấp quốc gia về đăng ký một doanh nghiệp ở Malaysia đều bảo bạn mở EzBiz và

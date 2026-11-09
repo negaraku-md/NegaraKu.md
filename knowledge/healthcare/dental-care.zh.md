@@ -75,6 +75,7 @@ keywords:
   - "klinik pergigian pakar hospital"
   - "Akta Pergigian 2018"
   - "carian klinik pergigian kerajaan"
+framework: explainer
 ---
 
 许多人以为「牙科诊所」只是一回事——补蛀牙或拔智齿的地方。但在马来西亚，

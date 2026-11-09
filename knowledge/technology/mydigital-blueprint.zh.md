@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "malaysias-telcos-and-5g" }
 related: ["digital-free-trade-zone", "cyberjaya-tech-hub", "malaysias-telcos-and-5g"]
 keywords: ["MyDIGITAL", "Blueprint Ekonomi Digital Malaysia", "Malaysia Digital Economy Blueprint", "ekonomi digital Malaysia", "Malaysia Digital", "MDEC", "Status Malaysia Digital", "MD2030"]
+framework: explainer
 ---
 
 2021年2月，在 COVID-19 疫情迫使数以百万计的马来西亚人转向线上之际，政府在纸面上立下一个大胆目标：在2025年前让数字经济贡献国内生产总值（GDP）的22.6%。承载这个目标的文件，就是《马来西亚数字经济蓝图》——那项更广为人知、名为 MyDIGITAL 的倡议的骨干。

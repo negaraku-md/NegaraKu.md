@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "asean-free-trade-area" }
 related: ["miti", "malaysia-cptpp"]
 keywords: ["RCEP", "Malaysia trade agreement", "rules of origin", "Form RCEP", "tariff elimination", "ASEAN", "MITI", "free trade agreement"]
+framework: explainer
 ---
 
 Tandatangani satu sijil asal usul, dan sesuatu barangan buatan Malaysia boleh bergerak bebas cukai merentasi pasaran yang terbentang dari Auckland ke Beijing ke Kuala Lumpur. Itulah, dalam satu ayat, apa yang diubah oleh RCEP bagi pengeksport Malaysia.

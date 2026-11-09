@@ -140,6 +140,7 @@ relations:
   - { rel: "related-to", to: "annual-return" }
 related: ["who-is-a-beneficial-owner", "ebos-filing", "bo-register", "bo-non-cooperation", "ebos", "annual-return", "statutory-registers"]
 keywords: ["beneficial ownership Malaysia", "Division 8A Companies Act 2016", "e-BOS SSM", "register of beneficial owners", "pemilik benefisial SSM", "beneficial ownership deadline Malaysia"]
+framework: rules
 ---
 
 பெரும்பாலான மலேசிய நிறுவனங்கள், 2024 இல் பயனாளி உரிமையுடன் தங்களுக்கான வேலை

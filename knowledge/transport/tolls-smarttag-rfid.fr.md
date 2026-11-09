@@ -76,6 +76,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["tol lebuh raya Malaysia", "SmartTAG", "RFID Touch n Go", "JustGO PLUS", "ANPR tol", "MLFF tol tanpa palang", "lorong tol Malaysia"]
+framework: explainer
 ---
 
 La voiture devant vous dans la voie RFID freine brusquement parce que la vignette sur son phare n'a pas été détectée — alors que beaucoup de gens supposent que RFID signifie « vous n'avez absolument rien à faire ». En réalité, la Malaisie exploite actuellement au moins quatre générations de technologie de péage simultanément sur différentes autoroutes, et confondre l'une avec l'autre est une cause fréquente de voitures bloquées à la barrière.

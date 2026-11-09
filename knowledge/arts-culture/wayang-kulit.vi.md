@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik"]
 keywords: ["Wayang Kulit", "shadow puppet Malaysia", "Tok Dalang", "Hikayat Seri Rama", "Kelantan traditional arts"]
+framework: history-culture
 ---
 
 Ngọn đèn được thắp trước. Đằng sau một tấm màn bông trắng căng chặt trên một khung gỗ, một người đàn ông ngồi xếp bằng, một chồng các con rối da phẳng nằm trong tầm với ở hai bên, một dàn nhạc nhỏ gồm trống, cồng và một cây serunai hai lưỡi gà chói tai chờ sau lưng ông. Ông sẽ không rời chỗ đó trong suốt cả đêm còn lại. Đến lúc chiếc bóng cuối cùng lướt qua màn, nhiều giờ sau đó, ông sẽ đã lồng tiếng cho vua chúa, quỷ dữ, hề và công chúa, dẫn chuyện chuyển cảnh, và ra hiệu cho từng nhạc công — một mình.

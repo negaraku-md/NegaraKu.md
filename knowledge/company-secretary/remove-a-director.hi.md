@@ -79,6 +79,7 @@ relations:
   - { rel: "part-of", to: "directors-duties" }
 related: ["appoint-resign-director", "directors-duties", "register-of-directors"]
 keywords: ["निदेशक हटाना मलेशिया", "धारा 206 कंपनी अधिनियम 2016", "लिखित संकल्प निदेशक हटाना", "remove a director Malaysia", "section 206 Companies Act 2016", "section 297 written resolution Malaysia", "विशेष सूचना निदेशक हटाना"]
+framework: how-to
 ---
 
 बहुसंख्यक शेयरधारक के पास मत हैं। सचिव निदेशक को हटाने वाला एक लिखित संकल्प तैयार

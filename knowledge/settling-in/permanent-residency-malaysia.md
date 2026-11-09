@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "malaysian-citizenship" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["permanent residency Malaysia", "MyPR", "red IC Malaysia", "Entry Permit Malaysia", "PR spouse Malaysian", "Immigration Act 1959/63", "Regulation 4 Immigration Regulations 1963"]
+framework: explainer
 ---
 
 A red MyKad is the quiet finish line for a lot of long-haul lives in Malaysia — the foreign wife who has renewed the same visit pass for a decade, the engineer who never wants to file another work-permit extension, the retiree who wants to belong somewhere for good. That card, the MyPR, is what Malaysian permanent residency actually looks like in your wallet.

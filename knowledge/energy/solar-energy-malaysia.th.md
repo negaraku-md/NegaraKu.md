@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
 related: []
 keywords: ["solar Malaysia", "NEM 3.0", "Net Energy Metering", "Large Scale Solar", "LSS5", "CGPP", "CRESS", "CREAM", "tenaga boleh baharu", "solar bumbung"]
+framework: explainer
 ---
 
 แผงโซลาร์บนหลังคาบ้านในปัจจุบันกลายเป็นการตัดสินใจทางการเงินที่ถูกผูกไว้อย่างแน่นหนาโดยนโยบายของรัฐบาลในมาเลเซีย แต่ "หันไปใช้โซลาร์" หมายถึงสิ่งที่แตกต่างกันมากสำหรับเจ้าของบ้านในอีโปห์เทียบกับโรงงานใน Pasir Gudang หรือศูนย์ข้อมูลที่ต้องการพลังงานสีเขียว 100% ผู้ใช้แต่ละกลุ่มมีโครงการของตนเอง

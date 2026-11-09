@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "iskandar-malaysia-economic-corridor" }
 related: []
 keywords: ["foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "education hub", "transnational education"]
+framework: explainer
 ---
 
 1998年、クアラルンプールの学生は自国を離れることなくオーストラリアのMonash大学の学位を取得できるようになった——しかも費用はマレーシア国内価格で済んだ。この一つの取り決めが、同国がそれ以来築き続けてきたモデルの出発点となった。すなわち、学生ではなく大学そのものを輸入するという発想である。

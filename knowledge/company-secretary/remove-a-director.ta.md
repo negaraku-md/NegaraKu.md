@@ -78,6 +78,7 @@ relations:
   - { rel: "part-of", to: "directors-duties" }
 related: ["appoint-resign-director", "directors-duties", "register-of-directors"]
 keywords: ["remove a director Malaysia", "section 206 Companies Act 2016", "written resolution remove director", "pecat pengarah syarikat", "section 297 written resolution Malaysia", "special notice remove director"]
+framework: how-to
 ---
 
 பெரும்பான்மைப் பங்குதாரரிடம் வாக்குகள் உள்ளன. செயலாளர் இயக்குநரை நீக்கும் ஒரு

@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik", "borneo-indigenous-languages"]
 keywords: ["masakan Peranakan Nyonya", "masakan pantai timur Kelantan Terengganu", "masakan Sarawak Sabah", "masakan Mamak nasi kandar", "kari debal Kristang", "budaya sarapan Malaysia UNESCO"]
+framework: explainer
 ---
 
 பத்து மலேசியர்களிடம் ‘மலேசிய உணவு’ என்றால் என்ன என்று கேளுங்கள், பத்து வெவ்வேறு வரைபடங்களைப் பெறக்கூடும். Kota Bharu-வைச் சேர்ந்த ஒருவர் நீல நிற nasi kerabu மற்றும் budu-வுடன் தொடங்குவார்; Kuching-ஐச் சேர்ந்த ஒருவர் laksa Sarawak மற்றும் kolo mee-ஐக் குறிப்பிடுவார்; Melaka-வைச் சேர்ந்த ஒருவர் Nyonya ayam pongteh அல்லது [Kristang](/ta/arts-culture/kristang-eurasian-culture) kari debal பற்றிப் பேசக்கூடும்; இன்னொருவர் தெருமுனையில் உள்ள மாமாக் கடையை நேரடியாகச் சுட்டிக்காட்டுவார். இவர்களில் யாருமே தவறல்ல. மலேசியாவுக்கு ஒற்றை தேசிய உணவு வகை என்று எதுவும் இல்லை — வெவ்வேறு வட்டாரங்களிலும் சமூகங்களிலும் வளர்ந்து, பின்னர் நூற்றாண்டுகளாக ஒன்றையொன்று கடன்வாங்கிக் கொண்டே வந்த ஒரு சமையலறை குடும்பம் அதற்கு உண்டு.

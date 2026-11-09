@@ -76,6 +76,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["kaamatan", "sarawak"]
 keywords: ["Gawai Dayak", "Hari Gawai", "harvest festival Sarawak", "Dayak", "Iban", "Bidayuh", "Orang Ulu", "miring", "ngajat", "tuak", "Tuai Rumah", "Gayu Guru Gerai Nyamai"]
+framework: history-culture
 ---
 
 5月最後の日、時計はまだ真夜中を告げていない。サラワク州のある川沿いのロングハウスでは、銅鑼が出番を待っている。稲はすでに収穫され、倉に納められた。回廊は掃き清められ、新しい敷物が掛けられた。一瓶のトゥアックが用意され、その時を待っている。銅鑼がついに鳴り響くと、ロングハウスの頭人が杯を掲げ、長い共同の回廊に並ぶ人々はみな、同じ三つの言葉に杯を捧げる——長寿、健康、繁栄。

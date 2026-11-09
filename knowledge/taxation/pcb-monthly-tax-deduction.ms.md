@@ -80,6 +80,7 @@ relations:
   - { rel: "affects", to: "personal-tax-reliefs" }
 related: ["income-tax-in-malaysia", "pcb-mtd-malaysia", "personal-tax-reliefs", "personal-tax-rates", "which-tax-form"]
 keywords: ["PCB cukai muktamad", "potongan cukai bulanan Malaysia", "potongan cukai bulanan", "seksyen 77C Akta Cukai Pendapatan", "adakah saya perlu memfailkan jika PCB dipotong", "bayaran balik PCB Malaysia"]
+framework: explainer
 ---
 
 Setiap tahun ramai pekerja Malaysia dengan senyap-senyap memilih untuk membayar

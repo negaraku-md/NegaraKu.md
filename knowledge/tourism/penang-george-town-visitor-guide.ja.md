@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["Penang travel guide", "George Town UNESCO", "Penang street art", "Penang Hill funicular", "Penang hawker food", "George Town heritage core", "Batu Ferringhi", "things to do in Penang"]
+framework: explainer
 ---
 
 島に降り立ち、冷房から一歩外へ出ると、まず押し寄せてくるのは匂いだ——中華鍋の煙、華人寺院の線香、プルメリア、そしてマラッカ海峡の潮の香り。ジョージタウンは足で読む街である。築百年の店屋が密に並ぶ一角では、モスクと宗祠と植民地時代の教会がひとつの街区を分かち合っていることもある。本ガイドは、何を見るか、どこで食べるか、ビーチと丘へどう向かうか、そして、ゆっくり過ごす者に報いるこの街にどれだけの時間を割くべきかを取り上げる。

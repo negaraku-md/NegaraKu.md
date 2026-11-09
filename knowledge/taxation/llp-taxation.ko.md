@@ -94,6 +94,7 @@ relations:
   - { rel: "compares-with", to: "corporate-tax-rates" }
 related: ["corporate-tax-rates"]
 keywords: ["LLP tax Malaysia", "PLT tax", "limited liability partnership tax rate", "cukai PLT", "LLP vs Sdn Bhd tax", "Form PT"]
+framework: explainer
 ---
 
 유한책임조합(LLP)은 말레이시아에서 가장 설명이 부족한 사업 형태이며, 혼동은 법률에서 시작됩니다. 소득세법 1967(Income Tax Act 1967)은 **회사(company)**를 법인으로 정의하며 — LLP를 포함하지 **않습니다**. **조합(partnership)**을 정의하고 LLP를 명시적으로 **배제**합니다. LLP는 대신 **인(person)**의 정의에 포섭되어 그 자체로 과세됩니다.

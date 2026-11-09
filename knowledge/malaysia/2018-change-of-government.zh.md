@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
 related: ["spr-election-commission", "dewan-rakyat", "how-elections-work", "federal-constitution", "independence-1957"]
 keywords: ["14th general election", "GE14", "PRU14", "2018 Malaysian general election", "change of government Malaysia", "Pakatan Harapan", "Barisan Nasional", "Dewan Rakyat 222 seats", "Article 43 Federal Constitution", "Mahathir seventh Prime Minister"]
+framework: history-culture
 ---
 
 61年来，从1957年独立后的首次联邦选举到2018年，马来西亚历届联邦政府都由同一个执政联盟组建——先是[联盟党](/malaysia/the-alliance)（Alliance Party），自1970年代起由其继承者[国阵](/malaysia/barisan-nasional)（Barisan Nasional）接续。在第14届大选中，这一连续性告终：一个不同的联盟赢得了下议院多数议席。

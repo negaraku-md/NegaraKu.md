@@ -77,6 +77,7 @@ related:
   - "apam-balik"
 social:
   hashtags: ["#RavisApomManis", "#ApomManis", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 George Town के Jalan Burma पर, लगभग एक सदी से मीठे पैनकेक सेंकता आ रहा एक स्टॉल अब

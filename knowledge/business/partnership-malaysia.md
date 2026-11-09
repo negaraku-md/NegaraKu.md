@@ -68,6 +68,7 @@ keywords:
   - "partner liability Malaysia"
   - "joint and several liability partnership"
   - "register partnership SSM"
+framework: explainer
 ---
 
 Two friends register a partnership because it costs RM60 a year and nobody

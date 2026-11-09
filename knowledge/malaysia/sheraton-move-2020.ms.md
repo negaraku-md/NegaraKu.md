@@ -65,6 +65,7 @@ sources:
 
 related: ["muhyiddin-yassin", "mahathir-mohamad", "anwar-ibrahim", "2018-change-of-government", "2022-general-election"]
 keywords: ["Langkah Sheraton", "Sheraton Move", "krisis politik Malaysia 2020", "Perikatan Nasional", "perubahan kerajaan 2020"]
+framework: history-culture
 ---
 
 > **Draf — sensitif.** Artikel ini ialah ringkasan neutral yang masih dalam

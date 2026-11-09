@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "sukan-tradisional-malaysia" }
 related: []
 keywords: ["sepak takraw", "sepak raga", "sukan kebangsaan malaysia", "peraturan sepak takraw", "piala raja sepak takraw", "persekutuan sepaktakraw malaysia"]
+framework: history-culture
 ---
 
 배구를 떠올린 다음, 모든 선수의 손을 빼앗아 보십시오. 남는 것 — 머리 높이의 백플립 스파이크, 가슴으로 하는 세트, 공중으로 높이 띄웠다가 발뒤꿈치로 차는 서브 — 그것이 세팍타크로입니다. 세계에서 가장 곡예에 가까운 스포츠 중 하나이자, 말레이 세계의 정체성과 가장 밀접하게 얽힌 스포츠 중 하나입니다.

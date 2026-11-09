@@ -65,6 +65,7 @@ sources:
 
 related: ["najib-razak", "anwar-ibrahim", "barisan-nasional", "2018-change-of-government", "how-elections-work"]
 keywords: ["GE13", "PRU13", "الانتخابات العامة 2013 ماليزيا", "Barisan Nasional", "Pakatan Rakyat", "الأصوات الشعبية"]
+framework: history-culture
 ---
 
 > **مسودة — حساسة.** هذه المقالة ملخّص محايد قيد الإعداد ولم تُراجَع للنشر. تتعلق

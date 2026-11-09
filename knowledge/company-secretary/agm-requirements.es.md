@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "financial-statements-lodgement" }
 related: ["financial-statements-lodgement", "extension-of-time-ssm", "resolution-notice-periods", "sdn-bhd-filing-calendar", "egm-requisition"]
 keywords: ["AGM Malasia", "AGM Malaysia", "junta general anual Sdn Bhd", "artículo 340 Companies Act 2016", "section 340 Companies Act 2016", "necesita una sociedad privada una junta general anual", "plazo junta general anual seis meses"]
+framework: rules
 ---
 
 «Las Sdn Bhd ya no necesitan juntas generales anuales» es la frase habitual, y para la

@@ -101,6 +101,7 @@ relations:
   - { rel: "located-in", to: "johor" }
 related: ["tenaga-nasional", "johor"]
 keywords: ["data centre Malaysia", "Johor data centre", "TNB data centre", "non-AI data centre restriction", "data sovereignty Malaysia", "National Cloud Computing Policy", "Green Lane TNB", "Johor water data centre"]
+framework: explainer
 ---
 
 ในเวลาไม่ถึงสามปี แถบหนึ่งของยะโฮร์ตอนใต้ที่อยู่ข้ามสะพานเชื่อมจากสิงคโปร์ได้กลายเป็นหนึ่งในสถานที่ที่เป็นที่ต้องการมากที่สุดบนโลกในการเสียบเซิร์ฟเวอร์ ยักษ์ใหญ่คลาวด์ ผู้ดำเนินการโคโลเคชัน และสตาร์ทอัป AI หลั่งไหลเข้ามา — และปัจจุบันมาเลเซียกำลังค้นพบว่าสายไฟและท่อน้ำใต้การเฟื่องฟูนั้นมีขีดจำกัด

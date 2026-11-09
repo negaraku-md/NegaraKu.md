@@ -78,6 +78,7 @@ relations:
   - { rel: "located-in", to: "taman-negara" }
 related: []
 keywords: ["Malayan tiger", "Harimau Malaya", "Panthera tigris jacksoni", "Critically Endangered", "National Tiger Survey", "Perhilitan", "MYCAT", "tiger conservation", "Al-Sultan Abdullah Royal Tiger Reserve"]
+framework: explainer
 ---
 
 Con hổ xuất hiện trên quốc huy của Malaysia, nhưng bản thân con vật nay nằm trong số các loài mèo lớn hiếm nhất thế giới. Khi Malaysia hoàn thành cuộc khảo sát quốc gia đầu tiên về hổ hoang dã, kết quả thấp hơn nhiều người mong đợi: chưa đến 150 con.

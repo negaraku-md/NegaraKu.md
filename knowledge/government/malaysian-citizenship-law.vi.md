@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["federal-constitution", "jpn", "constitutional-amendment", "imigresen"]
 keywords: ["kewarganegaraan Malaysia", "Malaysian citizenship", "Perkara 14 Perlembagaan", "Bahagian III Perlembagaan Persekutuan", "kewarganegaraan secara pendaftaran", "penaturalisasian Malaysia", "Perkara 19 naturalisation", "pasangan asing kewarganegaraan", "anak tanpa kewarganegaraan", "pindaan Perlembagaan 2024 kewarganegaraan"]
+framework: rules
 ---
 
 Một trẻ sơ sinh sinh ra ở Kuala Lumpur và một trẻ sơ sinh sinh ra ở London cho cha mẹ Malaysia không nhất thiết bắt đầu với cùng một tư cách quốc tịch. Lý do nằm ở vài từ trong Phụ lục thứ Hai của Hiến pháp Liên bang — và cho đến gần đây, ở chỉ một từ: "cha".

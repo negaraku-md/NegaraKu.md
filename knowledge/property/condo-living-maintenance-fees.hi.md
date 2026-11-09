@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "मलेशिया रखरखाव फ़ीस", "maintenance fee Malaysia", "सिंकिंग फ़ंड", "sinking fund Malaysia", "JMB Malaysia", "Management Corporation Malaysia", "शेयर यूनिट", "स्ट्रेटा प्रबंधन ट्रिब्यूनल", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
+framework: explainer
 ---
 
 आपने यूनिट खरीदी। आपने लिफ़्ट, गार्डहाउस, स्विमिंग पूल, या उस पाइप को नहीं खरीदा जो उस दीवार से होकर गुज़रता है जिसे आप अपने पड़ोसी के साथ साझा करते हैं। फिर भी किसी को उस सबके लिए भुगतान करना ही पड़ता है — और क़ानून इस बिल को दो खातों में बाँट देता है जिन्हें अलग रखने के लिए आप कानूनी रूप से बाध्य हैं।

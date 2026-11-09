@@ -91,6 +91,7 @@ verificationNeeded:
   - "Whether the honorific 'mamak' derives specifically from the Tamil word for maternal uncle (maa-ma), and the note that the term can be used pejoratively — confirm with a Tamil-language or lexicographic source."
   - "The date Brickfields was officially designated Kuala Lumpur's 'Little India' (sources give both 2009 and 2010) and the earlier siting of Little India near Jalan Masjid India — confirm with a Kuala Lumpur City Hall (DBKL) or tourism-authority source."
   - "Early Chulia / Tamil-Muslim trading settlement in the Straits ports (Penang, Melaka) as a distinct community from later estate labour — confirm with a Penang or Straits-history source, as the general encyclopedia entries treat the two together."
+framework: history-culture
 ---
 
 Ask what "Indian food" means in Malaysia and you will get several different

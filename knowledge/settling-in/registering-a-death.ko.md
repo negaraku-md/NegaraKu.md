@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "jpn" }
 related: ["jpn", "mykad"]
 keywords: ["daftar kematian Malaysia", "sijil kematian JPN", "borang JPN.LM02", "pendaftaran kematian JPN", "sijil kematian waris", "pusaka kecil JKPTG", "tempoh daftar kematian Malaysia"]
+framework: how-to
 ---
 
 은행이 고인의 계좌를 동결할 수 있기 전에, KWSP가 그 저축을 방출할 수 있기 전에, 그리고 상속인이 상속 절차를 시작할 수 있기 전에 — 먼저 존재해야 하는 서류가 하나 있습니다. 사망 증명서입니다. 그리고 그 증명서는 저절로 나오지 않습니다. 그것은 제한된 기간 내에 국가등록청(JPN) 창구에 도달해야 하는 파란색 양식 하나로 시작되며, 흔히 가족이 아직 슬픔에 잠겨 관료 업무를 처리할 준비가 가장 안 된 때입니다.

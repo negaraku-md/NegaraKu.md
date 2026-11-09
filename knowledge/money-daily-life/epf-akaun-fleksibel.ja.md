@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "epf-members-investment-scheme" }
 related: ["i-saraan-epf-voluntary-contribution", "epf", "epf-socso-employees", "epf-members-investment-scheme"]
 keywords: ["akaun fleksibel", "EPF account 3", "KWSP akaun 3", "akaun persaraan sejahtera fleksibel", "EPF account restructuring", "akaun fleksibel withdrawal", "KWSP three accounts"]
+framework: explainer
 ---
 
 ほぼ40年の間、あなたのEPF貯蓄は2つの箱に収まっていました。退職まで手をつけられない口座1と、住宅・健康・子どもの教育のために引き出せる口座2です。**2024年5月11日**、それが変わりました。従業員積立基金（[EPF](/ja/glossary/epf)、またはKWSP）は、55歳未満の全加入者を**3つ**の口座に分割し、さらに重要なことに、今後のすべての拠出金から、好きなときに引き出せる一部分を切り出したのです。

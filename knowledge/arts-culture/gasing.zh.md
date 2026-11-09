@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "wau" }
 related: ["wau", "kelantan", "terengganu"]
 keywords: ["gasing", "gasing uri", "gasing pangkah", "permainan tradisional Melayu", "warisan kebangsaan", "Kuala Nerus", "gasing Kelantan", "gasing Terengganu"]
+framework: history-culture
 ---
 
 声音总是先到——沉重木块撞击沉重木块的响声，紧接而来的是欢呼。在登嘉楼 Kuala Nerus 一带村庄的空地上，两队人马面对面站立。一人用绳索把陀螺甩出；另一颗陀螺早已在地上旋转等候。获胜的不是最快的那一方——而是被撞击之后，陀螺仍在旋转的那一方。

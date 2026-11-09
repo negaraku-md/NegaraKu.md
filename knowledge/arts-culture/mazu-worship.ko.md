@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "chinese-religion-in-malaysia" }
 related: ["chinese-religion-in-malaysia", "tua-pek-kong", "chinese-clan-associations", "nine-emperor-gods-festival", "buddhism-in-malaysia"]
 keywords: ["妈祖", "天后", "天上圣母", "天后宫", "乐圣岭天后宫", "海南会馆", "妈祖诞", "林默娘", "海神", "马来西亚妈祖信仰", "Mazu", "Tian Hou", "Thean Hou Temple"]
+framework: history-culture
 ---
 
 쿠알라룸푸르 롭슨 하이츠(Robson Heights)의 작은 언덕 위에, 붉은 기둥과 유리기와를 얹은 6층 사원이 도시를 내려다보며 서 있다 — 이곳이 바로 톈허우궁(Thean Hou Temple)으로, 화인 세계에서 가장 이름난 바다의 여신 마조를 모신다. 예전에 바닷길로 남하한 화인들은 바다를 건너기 전후로 안녕을 빌며 그녀에게 기원했다. 오늘날 이곳은 참배객이 향을 올리는 사원이자, 하이난 동향 사람들이 모이는 자리이며, 관광객이 사진을 찍는 명소이기도 하다.

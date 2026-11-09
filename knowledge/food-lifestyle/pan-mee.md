@@ -88,6 +88,7 @@ verificationNeeded:
   - "Whether dry chilli pan mee was 'invented' at Restoran Kin Kin specifically or, more broadly, in the Chow Kit area of Kuala Lumpur — Wikipedia places its origin in Chow Kit, while the Kin Kin attribution circulates widely in food media and recipe blogs but is not firmly documented."
   - "The standard toppings, in particular whether wood-ear mushroom (rather than dried shiitake or other mushrooms) is traditional — reputable recipes and stalls vary; confirm with a Malaysian culinary source."
   - "The relationship and naming between pan mee and mee hoon kueh, and the claim that Hokkien-speaking areas (including Singapore) prefer the name mee hoon kueh — sources describe them as closely related or the same dish under different dialect labels; confirm with a regional source."
+framework: explainer
 ---
 
 Walk into a coffee shop in Kuala Lumpur, Seremban or Ipoh and you will find a

@@ -111,6 +111,7 @@ relations:
   - { rel: "related-to", to: "losses-and-group-relief" }
 related: ["income-tax-in-malaysia", "form-c-and-cp204", "company-tax-residence", "losses-and-group-relief"]
 keywords: ["मलेशिया कॉर्पोरेट कर दर", "मलेशिया SME कर दर", "Malaysia corporate tax rate", "SME tax rate Malaysia", "कंपनी आयकर"]
+framework: rules
 ---
 
 अधिकांश मार्गदर्शिकाएँ आपको बताती हैं कि SME दर 15% से शुरू होती है और वहीं रुक जाती

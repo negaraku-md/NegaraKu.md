@@ -77,6 +77,7 @@ related:
   - "apam-balik"
 social:
   hashtags: ["#RavisApomManis", "#ApomManis", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 Trên Jalan Burma ở George Town, một quầy đã rán bánh kếp ngọt gần một thế kỷ nay

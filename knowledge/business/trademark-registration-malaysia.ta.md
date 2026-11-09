@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["trademark-classes-fees-malaysia", "ip-ownership-malaysia", "company-name-search-ssm"]
 keywords: ["trademark registration malaysia", "myipo trademark", "trademark fee malaysia", "trademarks act 2019", "madrid protocol malaysia", "register trademark malaysia"]
+framework: explainer
 ---
 
 SSM-இல் ஒரு கம்பெனிப் பெயரை ஒதுக்கீடு செய்வது எதையும் பாதுகாக்காது. குழப்பம்

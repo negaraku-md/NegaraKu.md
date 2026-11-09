@@ -83,6 +83,7 @@ relations:
   - { rel: "compares-with", to: "palm-oil-sector" }
 related: ["gdp-overview", "external-trade", "electronics-semiconductors", "palm-oil-sector"]
 keywords: ["Ley de Desarrollo del Petróleo de 1974", "propiedad de Petronas", "petróleo y gas de Malasia", "ingresos del petróleo presupuesto federal", "regalía petrolera de Sarawak", "pago en efectivo por petróleo de Sabah", "Petroleum Development Act 1974", "Petronas ownership"]
+framework: explainer
 ---
 
 ## En un coup d'œil

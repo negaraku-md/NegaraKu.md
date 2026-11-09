@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "singapore-separation-1965" }
 related: ["malayan-union", "melaka-sultanate", "singapore-separation-1965"]
 keywords: ["Straits Settlements", "Penang colonial history", "Melaka British rule", "Singapore crown colony", "Pangkor Treaty 1874", "British Resident system", "Federated Malay States", "Unfederated Malay States", "Resident-General Kuala Lumpur", "Johor General Adviser"]
+framework: history-culture
 ---
 
 세 개의 항구, 네 차례의 행정적 지위 변경, 그리고 41년. 이것이 말레이 국가들에 닿기 전 해협식민지의 모습입니다.

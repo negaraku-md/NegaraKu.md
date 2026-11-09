@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "zakat-pendapatan" }
 related: []
 keywords: ["zakat rebat cukai", "Seksyen 6A", "Akta Cukai Pendapatan 1967", "rebat cukai zakat LHDN", "zakat vs pelepasan cukai", "badan zakat negeri"]
+framework: explainer
 ---
 
 จ่ายซะกาต RM1,000 แล้วภาษีเงินได้ของคุณลดลงพอดี RM1,000 ไม่ใช่เพียงเศษเสี้ยวเล็กน้อยของมันเหมือนการหักภาษีอื่น ๆ ส่วนใหญ่ ความแตกต่างนั้นเองที่มักทำให้ผู้เสียภาษีมุสลิมในมาเลเซียสับสน และมันอยู่ที่คำเดียว: *เงินคืน (rebat)* ไม่ใช่ *การลดหย่อน (pelepasan)*

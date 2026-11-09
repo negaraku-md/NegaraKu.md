@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "kpdn" }
 related: ["jakim"]
 keywords: ["halal", "JAKIM", "certificado halal", "certificación halal", "MYeHALAL", "logotipo halal", "Akta Perihal Dagangan 2011", "MAIN", "JAIN"]
+framework: explainer
 ---
 
 El logotipo halal oficial, con su escritura caligráfica, puede parecer pequeño en un envase de alimentos, pero detrás de él hay un sistema federal, leyes que conllevan multas de millones de ringgit y un único organismo que determina si un producto puede declararse halal en Malasia. Ese organismo es JAKIM.

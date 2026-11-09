@@ -75,6 +75,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["tol lebuh raya Malaysia", "SmartTAG", "RFID Touch n Go", "JustGO PLUS", "ANPR tol", "MLFF tol tanpa palang", "lorong tol Malaysia"]
+framework: explainer
 ---
 
 Kereta di depan anda di lorong RFID berhenti mengejut kerana pelekat pada lampu utamanya tidak dikesan — padahal ramai orang menyangka RFID bermakna "tidak perlu buat apa-apa langsung." Kenyataannya, Malaysia kini menjalankan sekurang-kurangnya empat generasi teknologi tol serentak di lebuh raya yang berbeza, dan mengelirukan satu dengan yang lain punca biasa kereta tersekat di gerbang.

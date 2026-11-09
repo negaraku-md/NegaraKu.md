@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "capital-allowances" }
 related: ["motor-vehicle-capital-allowance", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["benefits in kind Malaysia", "BIK prescribed value table", "company car tax Malaysia employee", "paragraph 13(1)(b) 13(1)(c)", "living accommodation benefit Malaysia"]
+framework: explainer
 ---
 
 현물급여에 관한 모든 안내서는 한쪽 편을 택합니다. 급여 관련 블로그는 근로자가 무엇을 납부하는지 설명합니다. 세무 블로그는 회사가 무엇을 공제하는지 설명합니다. 그 둘을 같은 페이지에 놓는 곳은 없습니다 — 이것이 이사회가 회사가 임원이 과세받는 금액과 같은 공제를 받는다고 믿으며 차량 정책을 승인하는 이유입니다. 그렇지 않습니다. 두 금액은 서로 다른 규정에 따라 산정되며 거의 결코 같지 않습니다.

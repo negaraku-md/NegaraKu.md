@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "pdpa-2010" }
 related: ["pdpa-2010"]
 keywords: ["Malaysia cybersecurity", "मलेशिया साइबर सुरक्षा", "Cyber Security Act 2024", "साइबर सुरक्षा अधिनियम 2024", "Act 854", "NACSA", "National Critical Information Infrastructure", "राष्ट्रीय महत्वपूर्ण सूचना अवसंरचना", "Global Cybersecurity Index", "Malaysia Cyber Security Strategy"]
+framework: explainer
 ---
 
 एक दशक तक, मलेशिया ने अपनी महत्वपूर्ण अवसंरचना से साइबर सुरक्षा को गंभीरता से लेने को कहा। 26 अगस्त 2024 से, यह उन्हें ऐसा करने का आदेश देता है — और गलत करने के साथ जेल की सजाएँ जोड़ता है।

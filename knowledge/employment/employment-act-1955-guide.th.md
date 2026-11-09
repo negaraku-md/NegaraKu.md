@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-labour-ordinance" }
 related: ["labour-law-map-malaysia", "employment-act-coverage", "working-hours-overtime-malaysia", "minimum-wage-malaysia"]
 keywords: ["employment act 1955", "employment act malaysia", "act 265", "employment amendment act 2022", "malaysia labour law", "45 hour week malaysia"]
+framework: data-reference
 ---
 
 เปิดบล็อก HR ของมาเลเซียเล่มใด คุณก็ยังจะพบพระราชบัญญัติการจ้างงานถูกอธิบายว่าเป็นกฎหมายสำหรับแรงงานค่าจ้างต่ำ โดยมีเส้นความคุ้มครองที่ RM2,000 และสัปดาห์ทำงาน 48 ชั่วโมง ตัวเลขทั้งสองตายไปแล้ว พระราชบัญญัติการจ้างงาน (แก้ไขเพิ่มเติม) 2022 (Employment (Amendment) Act 2022, Act A1651) ได้เขียน Act 265 ขึ้นใหม่โดยมีผลตั้งแต่วันที่ **1 มกราคม 2023** และฉบับพิมพ์ซ้ำที่สำนักงานอัยการสูงสุด (Attorney General's Chambers) เผยแพร่ปัจจุบันมีชื่อว่า *ณ วันที่ 1 มกราคม 2023* กระนั้น คำวิจารณ์ที่ติดอันดับส่วนใหญ่ยังคงอยู่ในวงจรข่าว "อะไรเปลี่ยนไปในปี 2023" — เขียนขึ้นครั้งเดียว ไม่เคยกลับมาทบทวน

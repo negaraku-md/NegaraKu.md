@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "accounting-records-section-245" }
 related: ["llp-vs-sdn-bhd", "register-llp-malaysia", "accounting-records-section-245", "sdn-bhd-bookkeeping"]
 keywords: ["rekod perakaunan PLT", "seksyen 69 Akta PLT 2012", "perakuan tahunan PLT", "solvency declaration LLP", "PLT vs Sdn Bhd", "Akta 743"]
+framework: rules
 ---
 
 LLPは、SSMに一枚の財務諸表も提出することなく何年も事業を続けることができる——そして、まさにここにこの仕組みについてのよくある誤解がある。提出義務がないことは、責任がないことを意味しない。LLP Act 2012第69条は、今なお全てのLLPを、会社と同様に厳格な記録基準に拘束しており、第68条は、公開される財務諸表を、組合員に個人的責任をもたらすもう一つの手段——支払能力宣言——に置き換えている。

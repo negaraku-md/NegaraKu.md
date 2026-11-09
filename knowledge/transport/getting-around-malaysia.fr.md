@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "motor-insurance" }
 related: ["klang-valley-rail", "e-hailing-grab", "touch-n-go", "driving-licence-malaysians", "driving-licence-foreigners", "road-tax-renewal", "motor-insurance"]
 keywords: ["se déplacer en Malaisie", "transport en Malaisie aperçu", "transports en commun Malaisie", "comment voyager en Malaisie", "transport vallée de Klang", "vols intérieurs Malaisie", "conduire en Malaisie", "Malaisie sans voiture", "KTM ETS", "express bus Malaysia"]
+framework: journey-hub
 ---
 
 Demandez à quelqu'un qui a vécu à la fois à Kuala Lumpur et, disons, à Ipoh

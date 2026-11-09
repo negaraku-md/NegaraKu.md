@@ -73,6 +73,7 @@ relations:
   - { rel: "governs", to: "real-property-gains-tax-act-1976" }
 related: ["rpgt-rates", "capital-gains-tax", "capital-or-revenue"]
 keywords: ["pengecualian RPGT", "pengecualian kediaman persendirian Malaysia", "CKHT 3", "CKHT 1A", "pemindahan kasih sayang RPGT", "pemindahan keluarga RPGT"]
+framework: rules
 ---
 
 Keringanan RPGT yang paling bernilai dalam Undang-Undang ini hanya dapat

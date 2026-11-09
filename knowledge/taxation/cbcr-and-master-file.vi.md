@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "transfer-pricing-documentation" }
 related: ["transfer-pricing-documentation", "global-minimum-tax-pillar-two", "permanent-establishment"]
 keywords: ["CbCR Malaysia", "country by country reporting Malaysia", "CbCR threshold RM3 billion", "master file Malaysia transfer pricing", "P.U.(A) 357/2016"]
+framework: rules
 ---
 
 Thời hạn bắt được các tập đoàn không phải là thời hạn nộp báo cáo. Đó là

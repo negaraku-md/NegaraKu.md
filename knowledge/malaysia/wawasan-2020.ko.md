@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "new-economic-policy" }
 related: ["new-economic-policy"]
 keywords: ["Wawasan 2020", "Vision 2020", "Mahathir Mohamad", "Bangsa Malaysia", "negara maju", "sembilan cabaran", "Wawasan Kemakmuran Bersama 2030"]
+framework: explainer
 ---
 
 1991년 2월 어느 아침, 한 총리가 나라의 주요 기업인들 앞에 서서 앞으로 30년을 위한 하나의 목표를 세웠습니다. 2020년까지 말레이시아(Malaysia)는 완전한 선진국이 되어야 한다 — 단지 경제적 측면뿐만 아니라, 통합, 사회 정의, 시민적 성숙의 측면에서도. 그 구상이 바로 훗날 와와산 2020으로 알려지게 된 것입니다.

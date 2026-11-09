@@ -117,6 +117,7 @@ keywords:
   - "PLT Perkongsian Liabiliti Terhad"
   - "fi pendaftaran PLT RM500"
   - "pengisytiharan tahunan PLT"
+framework: how-to
 ---
 
 Pegawai pematuhan ialah bahagian yang paling kerap disalahfahami oleh semua orang.

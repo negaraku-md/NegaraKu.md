@@ -85,6 +85,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["foreign-exchange-policy-malaysia", "resident-director-malaysia", "registered-office-malaysia"]
 keywords: ["حساب مصرفي للشركات في ماليزيا", "فتح حساب شركة ماليزيا", "رفض حساب مصرفي شركة مملوكة للأجانب", "العناية الواجبة تجاه العميل KYC ماليزيا", "العناية الواجبة المعزّزة ماليزيا", "corporate bank account malaysia", "beneficial owner", "enhanced due diligence"]
+framework: explainer
 ---
 
 كل صفحة منافِسة حول هذا الموضوع هي قائمة من خمس خطوات تنتهي بعبارة «وسيكون حسابك جاهزًا

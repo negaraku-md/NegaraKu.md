@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "nine-royal-houses" }
 related: ["jalur-gemilang", "negaraku-anthem", "nine-royal-houses"]
 keywords: ["Jata Negara", "emblema nacional de Malasia", "Bersekutu Bertambah Mutu", "significado del Jata Negara", "dos tigres sosteniendo el escudo", "cinco hojas de kris", "Bunga Raya", "luna creciente y estrella de 14 puntas", "Malaysia coat of arms"]
+framework: explainer
 ---
 
 # Jata Negara: leer el escudo nacional de Malasia, elemento por elemento

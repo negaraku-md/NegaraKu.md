@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "nine-royal-houses" }
 related: ["straits-settlements", "malayan-union", "nine-royal-houses", "malay-sultanate-system"]
 keywords: ["Federated Malay States", "Unfederated Malay States", "British Resident system", "British Adviser system", "Pangkor Treaty 1874", "Resident-General Kuala Lumpur", "Anglo-Siamese Treaty 1909", "Johor General Adviser", "Malay Rulers British protection", "colonial Malaya"]
+framework: explainer
 ---
 
 아홉 개의 말레이 국가, 하나의 제국 열강 — 그러나 하나의 방식이 아니라 둘이었습니다. 그 분할은 식민지 말라야(Malaya)에 대한 대부분의 요약이 지나쳐 버리는 것이며, 이 글의 온전한 요점입니다.

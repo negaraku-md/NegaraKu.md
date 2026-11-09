@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#MingQin", "#CharKoayTeow", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 在槟城大陆部分的大山脚，一家朴素的晚市粿条摊凭着以老方法做一件事——用鸭蛋在明火

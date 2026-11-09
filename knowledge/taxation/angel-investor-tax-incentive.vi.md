@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["tax-incentives-directory", "personal-tax-reliefs", "new-incentive-framework"]
 keywords: ["angel tax incentive malaysia", "angel investor tax exemption", "pu a 167 2014", "cradle angel tax incentive", "mban accreditation", "startup investor tax relief malaysia"]
+framework: rules
 ---
 
 Mỗi bản thuyết trình startup nhắc đến ưu đãi thuế thiên thần đều nói rằng nó kéo dài đến 2026. Công báo nói khác. Văn bản có hiệu lực là Income Tax (Exemption) (No. 3) Order 2014, P.U.(A) 167/2014, được ban hành theo s.127(3)(b) của Luật Thuế thu nhập (Income Tax Act 1967) và được coi là có hiệu lực từ ngày 1 tháng 1 năm 2013. Đoạn 5(a)(ii) của nó yêu cầu nhà đầu tư phải đã nộp đơn cho Bộ trưởng **không muộn hơn một ngày cố định**, và ngày đó đã dịch chuyển đúng hai lần.

@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "srivijaya" }
 related: ["melaka-sultanate", "langkasuka", "srivijaya", "independence-1957"]
 keywords: ["kesultanan Melayu", "sistem pembesar", "daulat", "waadat", "adat perpatih", "adat temenggung", "Bendahara", "Majlis Raja-Raja", "Yang di-Pertuan Agong", "raja berperlembagaan"]
+framework: explainer
 ---
 
 Bayangkan sebuah negeri tanpa berkas, tanpa formulir, tanpa departemen bernomor. Perintah dibawa dengan lidah, keadilan dijatuhkan di balairung, dan seluruh susunan masyarakat bergantung pada satu kata yang tidak dapat diterjemahkan dengan tepat ke dalam bahasa modern: *daulat*. Itulah dunia kesultanan Melayu — sebuah sistem yang menyusun ribuan jiwa di sepanjang pantai dan sungai selama berabad-abad, dan yang bayangnya masih tampak dalam Konstitusi Malaysia hari ini.

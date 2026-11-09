@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "songket" }
 related: ["mak-yong", "wayang-kulit", "songket"]
 keywords: ["Joget", "Zapin", "tarian tradisional Melayu", "Joget Melaka", "Zapin Johor", "gambus", "marwas", "branyo Portugis", "tarian rakyat Melayu"]
+framework: history-culture
 ---
 
 Dua penari bergerak cepat mengikuti irama gendang — kaki menghentak, tangan menari lembut. Banyak yang menontonnya langsung menyebutnya "tarian Melayu" tanpa membedakan mana Joget dan mana Zapin. Tanyakan dari mana masing-masing datang, dan jawabannya membawa kita ke dua penjuru dunia: satu dari geladak kapal dagang Portugis di Melaka, satu lagi dari kafilah pendakwah Arab dari Hadhramaut.

@@ -70,6 +70,7 @@ social:
     - LHDN
     - PersonalTax
     - VSS
+framework: explainer
 ---
 
 Losing your job usually comes with a payout, and the first question is often the wrong one: "how much tax will I pay on it?" The right question is "how much of this is actually *compensation for losing my job* — and how much is just my normal pay in disguise?" Malaysian tax law draws a hard line between the two, and only one side of that line gets the generous exemption. Get the split wrong and you either overpay tax or get a nasty assessment later.

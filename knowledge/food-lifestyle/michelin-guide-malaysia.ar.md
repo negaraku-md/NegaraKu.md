@@ -100,6 +100,7 @@ social:
     - "#Dewakan"
     - "#KualaLumpurFood"
     - "#PenangFood"
+framework: explainer
 ---
 
 اسأل عشرات الناس عن المكان الذي ينبغي أن تأكل فيه في كوالالمبور أو بينانغ، وستحصل على

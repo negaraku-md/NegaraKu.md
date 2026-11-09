@@ -67,6 +67,7 @@ relations:
   - { rel: "administered-by", to: "perkeso" }
 related: ["labour-law-map-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "payroll-compliance-malaysia", "payroll-rates-deadlines-malaysia", "epf-foreign-workers-malaysia", "new-hire-statutory-checklist"]
 keywords: ["EPF SOCSO EIS Malaysia", "statutory contributions employer Malaysia", "KWSP PERKESO employer", "caruman KWSP majikan", "payroll statutory Malaysia"]
+framework: journey-hub
 ---
 
 고용주들은 이것을 하나의 의무라고 계속 부릅니다. 실은 셋이며, 이들은 법률, 기관, 요율 구조,

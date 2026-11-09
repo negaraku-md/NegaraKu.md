@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "personal-income-tax" }
 related: ["real-property-gains-tax"]
 keywords: ["inheritance tax Malaysia", "estate duty Malaysia", "no inheritance tax", "deceased estate income tax", "RPGT inherited property", "stamp duty inheritance", "executor tax Malaysia", "death tax Malaysia"]
+framework: explainer
 ---
 
 クアラルンプールで親が亡くなり、家と多少の貯蓄を残した場合、家族がまず心配するのは、多くの場合、相続そのものに対する税金の請求書である。マレーシアでは、その種の請求書は存在しない。誰かが残した財産に対して、相続税も、遺産税（estate duty）も、死亡税もない。

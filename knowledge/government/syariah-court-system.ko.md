@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "federal-state-division" }
 related: ["civil-and-syariah-courts", "kehakiman-mahkamah", "federal-constitution"]
 keywords: ["mahkamah syariah", "sistem mahkamah Malaysia", "Perkara 121(1A)", "bidang kuasa mahkamah syariah", "Mahkamah Tinggi Syariah", "Akta 355", "Akta 505", "undang-undang keluarga Islam"]
+framework: explainer
 ---
 
 파사크(fasakh, 혼인 해소)를 신청하는 아내와 RM60,000의 빚을 청구하는 상인은 둘 다 법원 창구의 서식 한 장으로 사건을 시작합니다. 그러나 그들은 같은 창구로 가지 않고, 그들의 사건은 같은 종류의 판사가 심리하지 않으며, 그들의 결과를 정하는 법은 서로 다른 두 입법 기관에서 나옵니다.

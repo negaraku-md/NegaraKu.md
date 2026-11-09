@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "malaysia-mm2h-program" }
 related: []
 keywords: ["Malaysia visa", "MDAC", "Malaysia Digital Arrival Card", "eVISA Malaysia", "MYVISA", "visa-free Malaysia", "Malaysia entry requirements", "autogate Malaysia", "passport validity Malaysia"]
+framework: rules
 ---
 
 你订好了机票，收拾好了行李，直到登机口那一刻才想起这个问题：在你抵达之前，马来西亚是否需要你先办点什么？对大多数旅客来说，答案两头都出人意料——你多半不需要签证，但你几乎肯定得填一份叫作 MDAC 的小型在线表格，而把这两者混为一谈，正是让入境大厅变得手忙脚乱的最快方式。

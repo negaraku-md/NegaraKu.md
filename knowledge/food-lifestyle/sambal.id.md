@@ -94,6 +94,7 @@ verificationNeeded:
   - "Asal-usul dan etimologi sambal — kata ini banyak ditelusuri ke 'sambel' Jawa/Jawa Kuno dan pelengkapnya ke Asia Tenggara maritim, tetapi sumber-sumber tepercaya menyebut kemunculan pastinya tidak pasti dan menggambarkan sambal secara beragam sebagai 'Indonesia' atau 'Malaysia' tergantung sumbernya. Konfirmasikan dengan sumber linguistik atau sejarah kuliner alih-alih media makanan, dan jaga klaim tetap berhati-hati."
   - "Artikel 'Sambal' di Wikipedia bahasa Inggris pernah membawa spanduk pemeliharaan yang menyatakan ia memuat teks buatan mesin yang sedang ditinjau; atribusi tertentu yang diambil darinya (mis. penyebaran kedaerahan sambal tempoyak ke Pahang, Perak, dan Brunei) sebaiknya dikonfirmasi ulang terhadap sumber independen."
   - "Apakah sambal matah benar-benar sambal Malaysia atau barang impor Bali/Indonesia yang telah masuk ke menu Malaysia — sumber-sumber menyajikannya sebagai berasal dari Bali; konfirmasikan statusnya sebelum menggambarkannya sebagai bagian dari khazanah Malaysia."
+framework: explainer
 ---
 
 Tanyakan kepada orang Malaysia apa yang membuat sebuah santapan terasa seperti

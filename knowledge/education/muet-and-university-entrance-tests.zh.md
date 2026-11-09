@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "stpm" }
 related: []
 keywords: ["MUET", "Majlis Peperiksaan Malaysia", "MPM", "band MUET", "kemasukan universiti", "STPM", "kemahiran bahasa Inggeris", "ijazah sarjana muda"]
+framework: explainer
 ---
 
 你可以在 STPM 或大学预科中表现优异，但若少了另一项成绩，你的学位申请表仍然不完整。那项成绩就是 MUET——而许多学生往往要等到大学申请截止日期逼近时，才意识到它的重要性。

@@ -78,6 +78,7 @@ faq:
     a: 'Oui, dès que vos revenus dépassent le seuil d''enregistrement. La retenue mensuelle (PCB/MTD) n''est qu''une estimation prélevée à l''avance. La déclaration annuelle est la régularisation : c''est là que les abattements sont demandés, que les autres revenus sont déclarés et que la situation réelle est soldée, qu''il s''agisse d''un remboursement ou d''un complément à payer. Détenir un dossier fiscal et déposer une déclaration est obligatoire, indépendamment du fait que votre employeur prélève déjà l''impôt chaque mois.'
   - q: J'ai déjà un numéro d'identification fiscale (Tax Identification Number) — puis-je simplement me connecter à MyTax et déposer ma déclaration ?
     a: Pas encore. Les primo-déclarants ont besoin de deux identifiants, dans l'ordre. Un TIN, obtenu via e-Daftar (de nombreux citoyens et résidents permanents en ont déjà un automatiquement), n'ouvre pas à lui seul l'e-Filing. La LHDN (l'administration fiscale) exige un PIN distinct pour activer le compte e-Filing lié à ce TIN — autrefois auprès d'une agence, plus récemment sur demande via le portail. Ce n'est qu'après ces deux étapes que vous pouvez ouvrir et soumettre le bon formulaire de déclaration.
+framework: rules
 ---
 
 Une nouvelle employée s'installe à Kuala Lumpur avec un Permis d'emploi

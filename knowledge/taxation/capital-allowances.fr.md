@@ -136,6 +136,7 @@ relations:
   - { rel: "related-to", to: "non-deductible-expenses" }
 related: ["losses-and-group-relief", "form-c-and-cp204", "basis-period-and-accounting-date"]
 keywords: ["capital allowance malaisie", "annexe 3 income tax act 1967", "allowance initiale allowance annuelle", "charge d'ajustement malaisie", "actif de faible valeur RM2000", "dépense admissible en machines"]
+framework: explainer
 ---
 
 La ligne d'amortissement de vos comptes ne vaut rien pour la LHDN. L'alinéa 39(1)(e) de la loi relative à l'impôt sur le revenu de 1967 refuse toute dépense qui est une dépense admissible aux fins de l'annexe 3 — de sorte que la charge comptable est réintégrée en totalité, et l'annexe 3 décide, selon ses propres termes, du montant de dégrèvement que l'actif gagne réellement et du moment.

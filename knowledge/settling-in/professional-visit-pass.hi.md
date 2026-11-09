@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "work-passes-malaysia", "dependant-social-visit-passes", "imigresen"]
 keywords: ["professional visit pass malaysia", "मलेशिया व्यावसायिक भ्रमण पास", "pvp malaysia", "pvp vs employment pass", "esd professional visit pass", "myxpats pvp", "foreign expert pass malaysia", "मलेशिया विदेशी विशेषज्ञ पास", "expert transfer pass malaysia", "short term work pass malaysia", "मलेशिया अल्पकालिक कार्य पास"]
+framework: explainer
 ---
 
 दो विदेशी एक ही मलेशियाई कार्यालय में एक ही मेज़ पर बैठ सकते हैं, वही काम कर सकते हैं, और फिर भी पूरी तरह अलग कानूनी आधार पर हो सकते हैं। एक रोज़गार पास पर है, जिसे मलेशियाई कंपनी वेतन देती है, साल-दर-साल नवीकरणीय। दूसरा व्यावसायिक भ्रमण पास पर है — अब भी, उसी कंपनी द्वारा वेतन दिया जाता है जिसने उसे भेजा, घड़ी पर बारह महीने और उसके आगे कोई नवीनीकरण नहीं। आव्रजन दो कर्मचारी नहीं देखता। वह एक नियोक्ता और एक अतिथि देखता है।

@@ -95,6 +95,7 @@ verificationNeeded:
   - "Asal warna kemerahan char siu——berbagai keterangan mengaitkannya dengan bumbu ungkep dan karamelisasi, tahu merah fermentasi, atau pewarna makanan yang ditambahkan——mohon dipastikan dengan sumber ilmu pangan atau kuliner yang tepercaya."
   - "Penggambaran media kuliner tentang char siu 'gaya KL' yang khas (lebih berlemak, lebih gosong, kadang dibuat dari perut babi) dibandingkan gaya daerah lain——mohon dipastikan dengan sumber kuliner spesialis, karena ini diambil dari ulasan restoran."
   - "Romanisasi dan aksara Kanton yang tepat untuk daging panggang sebagaimana digunakan di Malaysia (siu ngap 燒鴨 bebek panggang, siu ngo 燒鵝 angsa panggang, serta ejaan lokal seperti 'siew yoke')——mohon dipastikan dengan sumber leksikal Kanton atau sumber bahasa lokal."
+framework: explainer
 ---
 
 Dorong terbuka kaca sebuah kedai daging panggang Tionghoa, dan etalasenya

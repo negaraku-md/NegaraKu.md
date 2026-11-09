@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "extension-of-time-ssm" }
 related: ["mbrs-2", "mbrs-tagging-errors", "financial-statement-pack", "financial-statements-lodgement", "unaudited-financial-statements", "extension-of-time-ssm", "mfrs-vs-mpers"]
 keywords: ["guide de dépôt MBRS 2.0", "mTool 2.2", "taxonomie SSMxT", "balisage XBRL Malaisie", "point d'entrée MBRS", "mPortal maker lodger", "rejet MBRS", "préparer états financiers XBRL SSM"]
+framework: how-to
 ---
 
 Les résultats de recherche pour « MBRS 2.0 » sont presque entièrement des gens qui vous vendent un moyen de ne pas le faire. Prestataires de conversion, services de balisage externalisés et accroches de préparation des Big Four qui se terminent par « parlez-nous ». Personne ne publie ce qui se passe réellement entre un jeu de comptes signé et un accusé de réception de la SSM.

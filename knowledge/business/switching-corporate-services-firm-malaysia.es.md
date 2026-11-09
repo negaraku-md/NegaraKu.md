@@ -71,6 +71,7 @@ sources:
 relations: []
 related: ["choosing-accounting-secretarial-audit-tax-firm-malaysia", "company-secretary-malaysia", "audit-exemption-criteria", "accounting-records-section-245"]
 keywords: ["cambiar secretario de empresa Malasia", "destituir auditor Malasia", "cambiar agente fiscal LHDN", "cambiar de firma contable Malasia", "dimitir secretario de empresa artículo 237", "notificación especial destituir auditor", "cambiar firma de servicios corporativos Malasia", "cómo cambiar secretario de empresa SSM", "sustituir auditor Companies Act 2016", "cambiar de tenedor de libros Malasia"]
+framework: how-to
 ---
 
 Tarde o temprano una empresa supera a un proveedor: los honorarios suben poco a poco, el servicio se apaga, o simplemente encuentra una opción mejor. El instinto es enviar un correo y seguir adelante. Pero Malasia no trata del mismo modo a estos cuatro profesionales: dejar a su tenedor de libros es una llamada de teléfono, mientras que destituir a su auditor es un proceso formal y protegido por ley. Aquí está cómo funciona realmente cada uno, y cómo cambiar sin dejar un vacío de cumplimiento.

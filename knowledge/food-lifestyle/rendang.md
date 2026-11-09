@@ -95,6 +95,7 @@ social:
     - "#MalaysianFood"
     - "#HariRaya"
     - "#Minangkabau"
+framework: explainer
 ---
 
 Walk past a Malay kitchen in the days before Hari Raya and you will often hear

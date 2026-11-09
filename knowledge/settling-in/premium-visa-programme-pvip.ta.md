@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["mm2h-long-stay-visa", "employment-pass", "dependant-social-visit-passes", "moving-to-malaysia-first-steps"]
 keywords: ["PVIP", "Premium Visa Programme", "Program Visa Premium", "Malaysia residency visa", "residency by investment", "20-year visa Malaysia", "PVIP fixed deposit", "PVIP requirements"]
+framework: explainer
 ---
 
 ஒரு வீட்டை வாங்குங்கள், ஊழியர்களை பணியமர்த்துங்கள், குழந்தைகளை பள்ளியில் சேர்க்கவும், மேலும் ஒரு வருடத்தில் நாட்டில் எத்தனை நாட்கள் கழிக்கிறீர்கள் என்று ஒருபோதும் கணக்கிட வேண்டியதில்லை: இவை பிரீமியம் விசா திட்டத்தின் மூலம் மலேசியா செல்வந்த வெளிநாட்டினருக்கு வழங்கும் அடிப்படை உரிமைகள். 2022 செப்டம்பரில் உள்துறை அமைச்சால் அறிவிக்கப்பட்டு, 1 அக்டோபர் 2022 முதல் விண்ணப்பதாரர்களுக்குத் திறக்கப்பட்ட PVIP (Program Visa Premium) என்பது ஒரு முதலீடு-வழி-குடியிருப்பு விசா ஆகும், இது தகுதியுடைய விண்ணப்பதாரர்களுக்கு மலேசியாவில் இரண்டு தசாப்தங்கள் வரையிலான நிலையான குடியிருப்பை வழங்குகிறது. இதை பழைய Malaysia My Second Home (MM2H) திட்டத்துடன் எளிதில் குழப்பிக்கொள்ளலாம், ஆனால் இவை இரண்டும் வெவ்வேறு அமைச்சுகளால் நடத்தப்பட்டு வெவ்வேறு விண்ணப்பதாரர்களை இலக்காகக் கொண்டவை.

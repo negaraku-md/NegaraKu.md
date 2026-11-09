@@ -91,6 +91,7 @@ verificationNeeded:
   - "Si les kopitiam malaisiens assaisonnent habituellement les œufs mollets à la sauce soja foncée ou claire : les sources fiables ne s'accordent pas (la plupart décrivent de la sauce soja foncée avec du poivre blanc ; certaines décrivent de la sauce soja claire), et la pratique peut varier selon l'établissement et la région."
   - "L'origine précise de la kaya : la tradition malaise du serikaya, l'influence du sericaia portugais et la transmission aux cuisiniers hainanais sont toutes citées par différents historiens de l'alimentation ; traitez l'origine comme débattue plutôt que tranchée."
   - "La période exacte où les cafés hainanais se sont implantés spécifiquement en Malaisie (Malaya) : la fenêtre des années 1920 à 1950 souvent citée et le récit du petit-déjeuner Nanyang proviennent en grande partie de sources patrimoniales centrées sur Singapour."
+framework: history-culture
 ---
 
 Partout en Malaisie, la journée commence souvent de la même manière : une table au plateau de marbre, une

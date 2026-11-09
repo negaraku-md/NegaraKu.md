@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "unesco-world-heritage" }
 related: ["wayang-kulit", "mak-yong", "unesco-world-heritage"]
 keywords: ["华人大戏", "酬神戏", "粤剧 马来西亚", "潮剧 马来西亚", "闽剧", "歌仔戏", "布袋戏", "潮州铁枝木偶", "槟城 中元节", "Chinese opera Malaysia", "Wayang Cina"]
+framework: history-culture
 ---
 
 锣鼓响起，戏台上水袖翻飞，台下的观众席却常常只坐着寥寥几人——有时甚至一个人也没有。这不是演出失败，因为这场戏原本就不是演给人看的。

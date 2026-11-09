@@ -119,6 +119,7 @@ relations:
   - { rel: "related-to", to: "entertainment-expenses" }
 related: ["losses-and-group-relief", "form-c-and-cp204", "withholding-tax-non-compliance"]
 keywords: ["المادة 33 قانون ضريبة الدخل", "section 33 income tax act", "كلياً وحصرياً ماليزيا", "wholly and exclusively malaysia", "نفقات العمل القابلة للخصم ماليزيا", "خصم المادة 33(1)", "النفقات المرفوضة LHDN"]
+framework: explainer
 ---
 
 كل دليل عن خصومات الأعمال الماليزية ينشر قائمة. الإيجار، نعم. الرواتب، نعم.

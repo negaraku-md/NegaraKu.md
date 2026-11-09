@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "credit-reporting-agencies-act-2010" }
 related: []
 keywords: ["CCRIS", "CTOS", "تقرير الائتمان", "credit report", "درجة الائتمان", "credit score", "eCCRIS", "بنك نيغارا ماليزيا", "Bank Negara Malaysia", "قانون وكالات الإبلاغ الائتماني 2010", "Credit Reporting Agencies Act 2010"]
+framework: explainer
 ---
 
 تتقدم بطلب قرض سكني، ويبدو كل شيء مرتبًا، لكن البنك يرفض الطلب دون كثير من التوضيح. وخلف ذلك القرار غالبًا ما يوجد اسمان نادرًا ما يُذكران لك صراحة: CCRIS وCTOS. يحمل كلاهما صورة عن كيفية إدارتك لأموالك، ولك الحق في الاطلاع على ما هو مكتوب فيهما.

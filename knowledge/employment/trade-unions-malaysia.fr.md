@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "industrial-relations-act-malaysia" }
 related: []
 keywords: ["syndicats en malaisie", "syndicat", "loi sur les syndicats de 1959", "loi 262", "JHEKS", "e-TUIS", "amendement de 2024", "négociation collective", "directeur général des syndicats", "kesatuan sekerja", "trade union", "Akta 262"]
+framework: explainer
 ---
 
 Pendant des décennies, un ouvrier d'usine en Malaisie ne pouvait adhérer qu'au seul syndicat « valide » de son lieu de travail — et si ce syndicat existait déjà, aucun autre groupe de travailleurs ne pouvait en créer un nouveau. La réforme juridique entrée en vigueur le 15 septembre 2024 a changé ce postulat fondamental.

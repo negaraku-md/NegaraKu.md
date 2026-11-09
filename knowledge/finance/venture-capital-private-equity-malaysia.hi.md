@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "equity-crowdfunding-p2p-malaysia" }
 related: ["kl20-startup-ecosystem", "securities-commission-malaysia"]
 keywords: ["वेंचर कैपिटल मलेशिया", "venture capital malaysia", "प्राइवेट इक्विटी मलेशिया", "private equity malaysia", "VCC VCMC malaysia", "SC पंजीकरण वेंचर कैपिटल", "SC registration venture capital", "स्टार्टअप फंडिंग जुटाना मलेशिया", "raise funding startup malaysia", "MAVCAP", "Penjana Kapital", "VC कर प्रोत्साहन मलेशिया", "VC tax incentive malaysia"]
+framework: explainer
 ---
 
 अधिकांश मलेशियाई कंपनियाँ प्रतिधारित लाभ, बैंक ओवरड्राफ्ट या किसी SME ऋण पर बढ़ती हैं। एक छोटा लेकिन महत्वपूर्ण समूह इसके बजाय किसी और की इक्विटी पर बढ़ता है — एक फंड जो व्यवसाय का एक हिस्सा खरीदता है, उसे पैमाने तक धकेलता है, और वर्षों बाद उस हिस्से को कई गुना में बेच देता है। यही वेंचर कैपिटल और प्राइवेट इक्विटी करते हैं, और मलेशिया इस गतिविधि को ऐसे तरीकों से नियंत्रित, वित्तपोषित और कर-अधीन करता है जो उन लोगों को आश्चर्यचकित करते हैं जो मानते हैं कि यह संयुक्त राज्य अमेरिका की तरह काम करता है।

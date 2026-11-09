@@ -75,6 +75,7 @@ keywords:
   - "is a director an employee Malaysia"
   - "directors fees approval Sdn Bhd"
   - "compensation for loss of office section 227"
+framework: explainer
 ---
 
 Hãy hỏi một công ty Malaysia về hợp đồng lao động của giám đốc điều hành của nó và bạn sẽ

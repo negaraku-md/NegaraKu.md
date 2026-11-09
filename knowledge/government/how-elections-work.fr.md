@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["three-tiers-of-government", "dewan-rakyat", "parliament", "federal-constitution", "yang-di-pertuan-agong", "majlis-raja-raja"]
 keywords: ["élections Malaisie", "pilihan raya Malaysia", "first-past-the-post", "circonscription électorale", "Commission électorale", "Suruhanjaya Pilihan Raya", "SPR", "Dewan Rakyat", "Assemblée législative d'État", "Article 113", "Article 119", "éligibilité de l'électeur", "how Malaysian elections work"]
+framework: explainer
 ---
 
 ## En un coup d'œil

@@ -137,6 +137,7 @@ keywords:
   - "trade licence Sarawak"
   - "LHDN business registration Kuching"
   - "lesen perniagaan Sarawak"
+framework: how-to
 ---
 
 在砂拉越，你不是"注册一门营业"。你要注册三样东西，向多达三个不同的当局办理，而 SSM

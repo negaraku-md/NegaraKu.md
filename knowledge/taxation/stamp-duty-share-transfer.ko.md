@@ -90,6 +90,7 @@ relations:
   - { rel: "part-of", to: "stamp-duty-rates" }
 related: ["stamp-duty-rates", "capital-gains-tax", "stamp-duty-self-assessment", "share-capital-malaysia"]
 keywords: ["stamp duty share transfer Malaysia", "Form 32A", "Form of Transfer of Securities section 105", "NTA valuation stamp duty", "0.3% share transfer duty"]
+framework: rules
 ---
 
 주식 이전 날인에 관해 대부분의 말레이시아 실무 안내에서 여전히 잘못된 두 가지가

@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "contract-law" }
 related: []
 keywords: ["arbitration", "AIAC", "Arbitration Act 2005", "mediation", "dispute resolution", "New York Convention", "third-party funding", "UNCITRAL"]
+framework: explainer
 ---
 
 บริษัทสองแห่งลงนามในสัญญาจัดหาสินค้า ฝ่ายหนึ่งส่งมอบล่าช้า และอีกฝ่ายต้องการค่าเสียหายหลายล้าน — แต่ทั้งสองฝ่ายไม่ต้องการให้เอกสาร ลำดับเหตุการณ์ หรือความลับทางการค้าถูกเปิดเผยในห้องพิจารณาคดีที่เปิดต่อสาธารณะ ในมาเลเซีย นี่คือจุดที่อนุญาโตตุลาการและการไกล่เกลี่ยเข้ามาแทนที่ศาล

@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["اتفاقيات التجارة الحرة ماليزيا", "Malaysia FTA", "CPTPP Malaysia", "RCEP Malaysia", "اتفاقية تجارة حرة", "MITI", "إلغاء التعريفات", "ASEAN Free Trade Area", "اتفاقية ثنائية"]
+framework: explainer
 ---
 
 تتحرك معظم واردات ماليزيا وصادراتها عبر حدود جرى التفاوض فيها بالفعل على خفض التعريفات.

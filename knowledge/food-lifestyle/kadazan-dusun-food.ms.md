@@ -91,6 +91,7 @@ verificationNeeded:
   - "Dakwaan bahawa Kadazan-Dusun ialah kumpulan peribumi tunggal terbesar di Sabah, dan hubungan tepat antara label Kadazan dengan Dusun (kadangkala dianggap satu bangsa, kadangkala berasingan) — sahkan dengan banci (DOSM) atau sumber etnografi."
   - "Tarikh tepat dan status cuti umum bagi pesta Kaamatan (Tadau Kaamatan) (lazimnya diberikan sepanjang bulan Mei, dengan cuti negeri Sabah pada 30–31 Mei) — sahkan dengan sumber rasmi kerajaan negeri Sabah."
   - "Sama ada tradisi sagu/ambuyat sebenar merupakan sebahagian daripada masakan Kadazan-Dusun secara khusus, memandangkan ambuyat lebih kuat dikaitkan dengan Brunei dan komuniti Borneo yang lain — sahkan sejauh mana penggunaan kanji sagu dalam diet Kadazan-Dusun."
+framework: history-culture
 ---
 
 Pesanlah sepinggan *hinava* di Kota Kinabalu, maka anda akan dapat sesuatu yang

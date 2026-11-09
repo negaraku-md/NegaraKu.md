@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "wau" }
 related: ["kelantan", "mak-yong", "wayang-kulit", "wau"]
 keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", "pantun berbalas", "artes escénicas", "patrimonio nacional"]
+framework: history-culture
 ---
 
 Dos grupos se sientan con las piernas cruzadas, frente a frente en el escenario. No hay guion. Cuando el primer grupo termina una ronda de pantun satírico sobre la subida de precios, el segundo grupo tiene apenas unos segundos para componer una réplica — y debe rimar, debe caer en el compás e, idealmente, debe ser más afilada que el verso original.

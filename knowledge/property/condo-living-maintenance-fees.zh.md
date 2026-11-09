@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "maintenance fee Malaysia", "sinking fund Malaysia", "JMB Malaysia", "Management Corporation Malaysia", "MC strata", "share units", "condo maintenance Malaysia", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
+framework: explainer
 ---
 
 你买下的是这个单位。你并没有买下电梯、警卫亭、游泳池，或是那条穿过你与邻居共用墙壁的管道。总得有人为这一切付费——而法律把这笔账单分成两个账户，并且规定你必须将它们分开处理。

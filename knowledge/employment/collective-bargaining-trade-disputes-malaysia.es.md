@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "department-of-industrial-relations-malaysia" }
 related: ["trade-unions-malaysia", "employment-act-1955"]
 keywords: ["rundingan kolektif", "perjanjian kolektif", "pertikaian perusahaan", "hak rundingan tunggal", "pengiktirafan kesatuan", "mogok", "sekat masuk", "piket", "Akta Perhubungan Perusahaan 1967", "Mahkamah Perusahaan"]
+framework: rules
 ---
 
 Un trabajador que quiere que su empleador se siente a la mesa a negociar los salarios no puede simplemente pedirlo: hay un flujo legal que debe seguirse, y cada paso tiene su propio plazo. Ese flujo está contenido en la [Industrial Relations Act 1967](/law/industrial-relations-act-1967) (Act 177), aplicada por el Department of Industrial Relations Malaysia (JPPM), y determina quién puede negociar, qué puede negociarse y cuándo se permite una acción colectiva como una huelga.

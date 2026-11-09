@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["patent-malaysia", "trademark-registration-malaysia", "ip-ownership-malaysia"]
 keywords: ["industrial design registration malaysia", "myipo industrial design", "industrial designs act 1996", "design protection malaysia", "product design ip malaysia"]
+framework: explainer
 ---
 
 மலேசிய தயாரிப்பு அறிவுசார் சொத்தில் மிகவும் விலையுயர்ந்த ஒற்றைத் தவறு, முதலில்

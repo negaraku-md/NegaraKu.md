@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "directors-duties" }
 related: ["accounting-records-section-245", "directors-duties"]
 keywords: ["director right to inspect accounting records Malaysia", "section 245(4) Companies Act 2016", "director inspection subsidiary records", "shareholder dispute company records Malaysia"]
+framework: explainer
 ---
 
 在股东纠纷中，第一枪很少是入禀呈请。那通常是一封少数派董事要求查阅会计记录的信件

@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["imigresen", "employment-act-1955", "opening-bank-account"]
 keywords: ["contratar una criada en Malasia", "hiring a maid in Malaysia", "empleada doméstica extranjera Malasia", "foreign domestic helper Malaysia", "cuidadora de posparto Malasia", "confinement nanny Malaysia", "centro de posparto Malasia", "confinement centre Malaysia", "pembantu rumah asing", "normas sobre trabajadores domésticos Malasia", "part time maid Malaysia", "cuidados posnatales Malasia"]
+framework: explainer
 ---
 
 Un hogar que contrata a una empleada interna y un hogar que reserva un centro de posparto para

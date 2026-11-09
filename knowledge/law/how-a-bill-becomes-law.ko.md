@@ -84,6 +84,7 @@ relations:
   - { rel: "explained-in", to: "akta" }
 related: ["federal-constitution", "parliament", "dewan-negara", "warta-kerajaan"]
 keywords: ["rang undang-undang menjadi akta", "proses penggubalan undang-undang Malaysia", "bacaan pertama kedua ketiga", "perkenan diraja Yang di-Pertuan Agong", "Perkara 66 Perlembagaan Persekutuan", "Dewan Negara rang undang-undang", "pewartaan akta", "Perkara 68 rang undang-undang wang"]
+framework: explainer
 ---
 
 어떤 법안은 하원(Dewan Rakyat)에서 통과되고, 상원(Dewan Negara)에서 동의되며, 국새(Mohor Besar)가 날인될 수 있습니다 — 그럼에도 여전히 그 누구도 구속하지 못할 수 있습니다.

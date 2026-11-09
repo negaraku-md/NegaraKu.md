@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "asean-free-trade-area" }
 related: ["miti", "malaysia-cptpp"]
 keywords: ["RCEP", "اتفاقية ماليزيا التجارية", "قواعد المنشأ", "Form RCEP", "إلغاء التعريفات الجمركية", "ASEAN", "MITI", "اتفاقية التجارة الحرة"]
+framework: explainer
 ---
 
 وقّع شهادة منشأ واحدة، وتستطيع سلعة مصنوعة في ماليزيا أن تنتقل معفاة من الرسوم

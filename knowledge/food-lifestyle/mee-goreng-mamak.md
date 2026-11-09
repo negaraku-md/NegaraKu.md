@@ -89,6 +89,7 @@ verificationNeeded:
   - "Whether mutton is a standard rather than occasional addition — sources confirm prawn but are less specific about mutton for this dish; confirm with a Malaysian culinary source."
   - "The precise naming and definition of stall variations 'mee goreng basah' (wet) and 'mee goreng kering' (dry): 'basah/wet' is attested, but a reliable definition of a distinct 'kering/dry' style was not located. Confirm with a Malaysian food reference."
   - "The claim that Singapore mamak versions are typically redder (added colouring) than Malaysian ones — reported by food media; confirm with a stronger source."
+framework: explainer
 ---
 
 Walk up to almost any mamak stall in Malaysia after dark and you will hear it

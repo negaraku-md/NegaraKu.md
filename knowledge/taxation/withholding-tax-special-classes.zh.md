@@ -90,6 +90,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
 keywords: ["section 109B", "section 4A income", "technical fees withholding tax Malaysia", "special classes of income", "PR 10/2019", "derived from Malaysia"]
+framework: rules
 ---
 
 问一支马来西亚财务团队为什么没有就外国顾问的发票预扣，答案几乎总是同一句：*工作是在

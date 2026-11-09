@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["dewan-bahasa-dan-pustaka", "bahasa-melayu"]
 keywords: ["الأدب الماليزي", "sastera Malaysia", "أديب الأمة", "Sasterawan Negara", "جائزة الأدب الوطني", "Anugerah Sastera Negara", "الأدب الوطني", "مجلس اللغة والأدب", "Dewan Bahasa dan Pustaka", "Sejarah Melayu", "hikayat", "syair"]
+framework: history-culture
 ---
 
 قبل أن تُوجد الروايات وقبل أن يُوجد مجلس للغة، كان راوٍ قد صاغ بالفعل أبطالاً ملايويين في باحة قصر ملقا. ومن ذلك التقليد الشفوي نما واحد من أغنى الموروثات الأدبية في المنطقة — تقليد يُحتفى به اليوم بلقب وطني، وبمئات الآلاف من الرينغيت، وبمقعد تشريف في حضارة الأمة.

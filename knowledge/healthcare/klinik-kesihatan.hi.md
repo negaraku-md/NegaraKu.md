@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "peka-b40" }
 related: ["dental-care"]
 keywords: ["Klinik Kesihatan मलेशिया", "सरकारी क्लीनिक मलेशिया", "MySejahtera क्लीनिक अपॉइंटमेंट", "PeKa B40", "मलेशिया प्राथमिक स्वास्थ्य सेवा", "KKM klinik kesihatan", "klinik komuniti vs klinik kesihatan", "klinik kesihatan में पंजीकरण कैसे करें", "Klinik Kesihatan Malaysia"]
+framework: explainer
 ---
 
 एक बुखार जो उतरता नहीं, एक बच्चा जिसका टीकाकरण होना है, या रक्तचाप जिसकी मासिक निगरानी चाहिए — और जो पहला सवाल आमतौर पर उठता है वह «इलाज क्या है» नहीं होता, बल्कि «मैं किस क्लीनिक जाऊँ» होता है। निजी क्लीनिक तेज़ हैं पर महँगे। सरकारी अस्पताल छोटी समस्याओं के लिए भीड़-भरे हैं। और «सरकारी क्लीनिक» स्वयं वास्तव में एक ही प्रकार की सुविधा नहीं है — बहुत से लोगों को यह एहसास नहीं कि Klinik Kesihatan, Klinik Komuniti और Klinik Pergigian एक ही छत के नीचे तीन अलग सुविधाएँ हैं।

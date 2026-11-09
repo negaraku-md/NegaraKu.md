@@ -78,6 +78,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["CharKoayKak", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 char koay kak फेरीवाले-दुनिया के भीतर के जानकारों का व्यंजन है — चिल्लाती कड़ाही

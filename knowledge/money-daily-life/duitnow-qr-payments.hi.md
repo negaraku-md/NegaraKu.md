@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "payment-regulation-malaysia" }
 related: ["bank-negara-malaysia", "payment-regulation-malaysia"]
 keywords: ["DuitNow", "DuitNow QR", "PayNet", "मलेशिया तत्काल भुगतान", "मलेशिया QR कोड", "फ़ोन नंबर से पैसे हस्तांतरण", "बैंक नेगारा मलेशिया डिजिटल भुगतान", "Bank Negara Malaysia pembayaran digital"]
+framework: explainer
 ---
 
 एक रात-बाज़ार के स्टॉल का मालिक एक ही QR कोड प्रदर्शित करता है। Maybank ऐप का

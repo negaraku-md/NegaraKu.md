@@ -75,6 +75,7 @@ keywords:
   - "is a director an employee Malaysia"
   - "directors fees approval Sdn Bhd"
   - "compensation for loss of office section 227"
+framework: explainer
 ---
 
 ஒரு மலேசிய நிறுவனத்திடம் அதன் நிர்வாக இயக்குநரின் வேலைவாய்ப்பு ஒப்பந்தத்தைக் கேளுங்கள்,

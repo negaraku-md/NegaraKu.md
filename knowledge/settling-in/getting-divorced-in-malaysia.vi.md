@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "registering-a-marriage-civil" }
 related: ["getting-married-in-malaysia", "registering-a-marriage-civil"]
 keywords: ["divorce Malaysia", "civil divorce", "Syariah divorce", "talak", "fasakh", "khuluk", "Law Reform Marriage and Divorce Act 1976", "Section 51 conversion to Islam", "Syariah court"]
+framework: explainer
 ---
 
 Hai cặp vợ chồng Malaysia nộp đơn để chấm dứt hôn nhân của mình vào cùng một buổi sáng. Một cặp bước vào phòng đăng ký của một Tòa Thượng thẩm dân sự; cặp kia trình diện tại một văn phòng tôn giáo Hồi giáo cấp bang. Không cặp nào có thể dùng cánh cửa của cặp kia. Tại Malaysia, chấm dứt một cuộc hôn nhân — cũng như bắt đầu một cuộc hôn nhân — đi qua hai hệ thống pháp lý riêng biệt, và tôn giáo của các bên, chứ không phải sở thích của họ, quyết định hệ thống nào áp dụng.

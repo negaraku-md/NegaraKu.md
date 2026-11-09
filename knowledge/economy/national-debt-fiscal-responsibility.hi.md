@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["federal-budget", "gdp-overview", "sovereign-credit-rating-malaysia", "subsidy-rationalisation-padu"]
 keywords: ["मलेशियाई संघीय ऋण", "Akta 850", "राजकोषीय उत्तरदायित्व अधिनियम", "वैधानिक ऋण", "GDP का 60%", "राजकोषीय घाटा", "MGS", "JRFL"]
+framework: explainer
 ---
 
 मलेशिया की संघीय सरकार का ऋण 2025 में RM1.3 ट्रिलियन के पार चला गया — फिर भी बार-बार उद्धृत "GDP का 64.7%" आँकड़ा और अक्सर उल्लिखित "60% की सीमा" वास्तव में दो अलग चीज़ें मापते हैं। इस भेद को समझना देश के राजकोषीय स्वास्थ्य को सटीक रूप से पढ़ने की कुंजी है।

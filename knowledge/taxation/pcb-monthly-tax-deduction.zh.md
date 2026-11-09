@@ -80,6 +80,7 @@ relations:
   - { rel: "affects", to: "personal-tax-reliefs" }
 related: ["income-tax-in-malaysia", "pcb-mtd-malaysia", "personal-tax-reliefs", "personal-tax-rates", "which-tax-form"]
 keywords: ["PCB final tax", "monthly tax deduction Malaysia", "potongan cukai bulanan", "section 77C Income Tax Act", "do I need to file if PCB deducted", "PCB refund Malaysia"]
+framework: explainer
 ---
 
 每一年都有大量马来西亚雇员默默选择多缴所得税。他们靠什么都不做来做到这件事——因为

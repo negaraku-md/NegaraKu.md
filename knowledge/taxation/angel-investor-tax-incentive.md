@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["tax-incentives-directory", "personal-tax-reliefs", "new-incentive-framework"]
 keywords: ["angel tax incentive malaysia", "angel investor tax exemption", "pu a 167 2014", "cradle angel tax incentive", "mban accreditation", "startup investor tax relief malaysia"]
+framework: rules
 ---
 
 Every startup deck that mentions the angel tax incentive says it runs to 2026. The gazette says otherwise. The operative instrument is the Income Tax (Exemption) (No. 3) Order 2014, P.U.(A) 167/2014, made under s.127(3)(b) of the Income Tax Act 1967 and deemed in operation from 1 January 2013. Its paragraph 5(a)(ii) requires the investor to have applied to the Minister **not later than a fixed date**, and that date has moved exactly twice.

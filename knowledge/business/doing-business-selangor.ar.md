@@ -116,6 +116,7 @@ keywords:
   - "ترخيص مجالس سيلانغور"
   - "doing business in Selangor"
   - "Port Klang TEU"
+framework: profile
 ---
 
 لدى كوالالمبور سلطة ترخيص واحدة. أما سيلانغور، التي تحيط بها، فلديها اثنتا عشرة —

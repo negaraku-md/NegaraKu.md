@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "freelancer-and-gig-tax" }
 related: ["sole-prop-vs-sdn-bhd"]
 keywords: ["start a consultancy malaysia", "consulting business malaysia", "professional services firm malaysia", "freelance consultant register malaysia", "service tax consultancy malaysia", "LLP vs sdn bhd consulting", "regulated profession licence malaysia"]
+framework: how-to
 ---
 
 Tư vấn trông giống doanh nghiệp dễ khởi nghiệp nhất — không có cơ sở, không có hàng tồn kho, chỉ có chuyên môn của bạn và một chiếc laptop. Và đối với một nhà tư vấn quản lý chung, nó gần như là vậy: đăng ký với SSM và bạn đang kinh doanh. Nhưng hai điều làm người ta vấp. Thứ nhất, nếu "tư vấn" của bạn thực sự là một *nghề được quản lý*, một đăng ký kinh doanh không đủ — bạn cần một giấy phép để hành nghề. Thứ hai, pháp nhân bạn chọn và thuế bạn thuộc quan trọng đối với một hãng dịch vụ hơn gần như bất kỳ doanh nghiệp nào khác, vì thu nhập của bạn *chính là* doanh nghiệp.

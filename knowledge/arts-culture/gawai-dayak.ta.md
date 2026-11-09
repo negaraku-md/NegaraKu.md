@@ -77,6 +77,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["kaamatan", "sarawak"]
 keywords: ["Gawai Dayak", "Hari Gawai", "harvest festival Sarawak", "Dayak", "Iban", "Bidayuh", "Orang Ulu", "miring", "ngajat", "tuak", "Tuai Rumah", "Gayu Guru Gerai Nyamai"]
+framework: history-culture
 ---
 
 மே மாதத்தின் கடைசி நாளில் நள்ளிரவு இன்னும் அடிக்கவில்லை; சரவாக் (Sarawak) ஆற்றின் ஓரத்தில் எங்கோ ஒரு நீள்வீட்டில் (longhouse) கோங் காத்திருக்கிறது. நெல் அறுவடையாகிவிட்டது. கூடம் பெருக்கப்பட்டு, புதிய பாய்கள் விரிக்கப்பட்டுள்ளன. ஒரு ஜாடி துவாக் (tuak) தயாராக வைக்கப்பட்டுள்ளது. கோங் இறுதியாக ஒலிக்கும்போது, நீள்வீட்டுத் தலைவர் ஒரு கிண்ணத்தை உயர்த்துவார்; நீண்ட பொதுத் திண்ணையில் இருக்கும் அனைவரும் ஒரே மூன்று சொற்களுக்காக அருந்துவார்கள்: நீண்ட ஆயுள், ஆரோக்கியம், செழிப்பு.

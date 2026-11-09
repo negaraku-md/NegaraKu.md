@@ -53,6 +53,7 @@ relations:
   - { rel: "related-to", to: "healthcare-for-seniors" }
 related: ["medical-insurance", "healthcare-for-seniors"]
 keywords: ["beli ubat Malaysia", "farmasi Malaysia", "Akta Racun 1952", "ubat preskripsi", "ubat bebas", "Poisons Act 1952", "ahli farmasi berdaftar", "racun Kumpulan B", "Quest3+", "NPRA"]
+framework: explainer
 ---
 
 Seorang pelanggan meminta ubat batuk di kaunter farmasi dan terus dilayan. Seorang lagi meminta antibiotik untuk sakit tekak dan diminta menunjukkan preskripsi doktor dahulu. Kedua-dua urus niaga itu berlaku di farmasi yang sama, pada hari yang sama — bezanya terletak pada undang-undang yang mengelaskan ubat itu, bukan pada budi bicara ahli farmasi.

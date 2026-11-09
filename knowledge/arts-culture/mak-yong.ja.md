@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["wayang-kulit", "batik"]
 keywords: ["Mak Yong", "teater tarian tradisional", "warisan budaya tidak ketara", "UNESCO Malaysia", "rebab", "Kelantan", "Pak Yong", "Mengadap Rebab"]
+framework: history-culture
 ---
 
 最初の音は演者から発せられるものではない。それは、洋梨形をした木片に三本の弦を張った楽器——ルバブ（rebab）——から生まれる。開かれた木造の舞台の縁で、ゆっくりと弓で弾かれるのだ。観客は三方に座る。屋根はヤシの葉で葺かれている。そして、ひと言のせりふが発せられるより前に、一人の王女がすでにその楽器に向かって身をかがめ、名前そのものがすべてを物語る舞を舞っている——**ムンガダップ・ルバブ（Mengadap Rebab）**。

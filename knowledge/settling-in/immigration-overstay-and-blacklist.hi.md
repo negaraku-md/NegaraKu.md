@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "dependant-social-visit-passes", "student-pass"]
 keywords: ["ओवरस्टे मलेशिया", "आव्रजन ब्लैकलिस्ट", "स्पेशल पास", "Immigration Act 1959/63", "कंपाउंड जुर्माना", "पुनः-प्रवेश प्रतिबंध", "section 15", "Overstay Management Programme"]
+framework: rules
 ---
 
 एक पास जो एक ही दिन से समाप्त हुआ हो, मलेशियाई क़ानून की नज़र में, वही अपराध है जो सौ दिन से समाप्त हुआ हो। यह उस किसी भी व्यक्ति के लिए असहज शुरुआती बिंदु है जो यह महसूस करता है कि उसका विज़िट, रोज़गार, आश्रित, छात्र, या पेशेवर पास समाप्त हो गया है — और यह इस बात का हर पहलू तय करता है कि आगे क्या होता है।

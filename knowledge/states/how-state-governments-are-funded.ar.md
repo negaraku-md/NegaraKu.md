@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-special-rights-ma63" }
 related: []
 keywords: ["hasil negeri", "إيرادات الولاية", "geran perkapita", "منحة الرؤوس", "geran jalan raya negeri", "Jadual Kesepuluh", "الجدول العاشر", "Perkara 109", "Perkara 110", "kewangan persekutuan-negeri", "royalti", "الإتاوات", "cukai jualan negeri"]
+framework: explainer
 ---
 
 حين تضع حكومة ولاية في ماليزيا ميزانيتها، تنطلق من واقع نادراً ما يُذكَر: الضرائب الأوفر حصيلةً — ضريبة الدخل، وضريبة المبيعات والخدمات، والجمارك — ليست من اختصاصها لتحصّلها. فتلك المصادر تقع ضمن الولاية القضائية الاتحادية. وما يتبقّى للولايات، وكيف تُسدّ الفجوة، مبيَّن بالحبر الأسود في الدستور الاتحادي.

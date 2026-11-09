@@ -80,6 +80,7 @@ relations:
   - { rel: "affects", to: "bumiputera-equity-requirements" }
 related: ["external-trade", "matrade", "anti-dumping-countervailing-duties", "bumiputera-equity-requirements"]
 keywords: ["CPTPP Malaysia", "Trans-Pacific Partnership Malaysia", "CPTPP ratification", "CPTPP certificate of origin", "CPTPP tariff elimination", "CPTPP members", "Malaysia free trade agreement"]
+framework: explainer
 ---
 
 ผู้ส่งออกขนมหวานของมาเลเซียที่ส่งสินค้าไปแวนคูเวอร์ (Vancouver) เลิกจ่ายอากรนำเข้าร้อยละ 15 ในวันที่ CPTPP มีผลบังคับใช้ และพิกัดภาษีเดียวนั้นเป็นหน้าต่างบานเล็กที่เปิดสู่หนึ่งในความตกลงการค้าที่กว้างที่สุดที่มาเลเซียเคยลงนาม ความตกลงที่ครอบคลุมและก้าวหน้าสำหรับหุ้นส่วนทางเศรษฐกิจภาคพื้นแปซิฟิกเดินสายใหม่ในวิธีที่สินค้า บริการ และการลงทุนของมาเลเซียเคลื่อนย้ายข้ามเศรษฐกิจสิบสองแห่งบนสองฟากของมหาสมุทรแปซิฟิก อีกทั้งยังผูกพันมาเลเซียกับกฎเกณฑ์ที่ไปไกลกว่าเคาน์เตอร์ศุลกากร คือถึงวิธีที่บริษัทของรัฐแข่งขัน วิธีการบังคับใช้ทรัพย์สินทางปัญญา และวิธีการระงับข้อพิพาทกับนักลงทุนต่างชาติ

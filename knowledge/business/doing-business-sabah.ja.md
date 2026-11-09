@@ -123,6 +123,7 @@ keywords:
   - "DBKK trading licence fee"
   - "SEDIA Sabah Development Corridor"
   - "Sabah state sales tax"
+framework: profile
 ---
 
 マレーシアでのビジネスに関する全国的なガイドのほぼすべてが、サバについて誤っており、しかも毎回同じ誤り方をしている——SSMがあなたの企業を登録し、1976年地方政府法（Local Government Act 1976）があなたの営業場所に発行し、走廊主管機関が連邦の法定機関であると想定しているのである。南シナ海の東側では、この三つのどれも真実ではない。

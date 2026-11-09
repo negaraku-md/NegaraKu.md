@@ -115,6 +115,7 @@ keywords:
   - "pemilikan asing Malaysia"
   - "foreign ownership restrictions Malaysia"
   - "WRT foreign equity"
+framework: rules
 ---
 
 இந்த விஷயம் குறித்த ஒவ்வொரு வழிகாட்டியும் ஒரே விஷயத்தைச் சொல்கிறது: *பெரும்பாலான

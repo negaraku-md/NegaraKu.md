@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "disclosure-of-interest" }
 related: ["directors-duties", "disclosure-of-interest", "directors-fees-approval"]
 keywords: ["pinjaman kepada pengarah Malaysia", "seksyen 224 Akta Syarikat 2016", "akaun semasa pengarah Sdn Bhd", "pengecualian exempt private company pinjaman pengarah", "pinjaman kepada pengarah syarikat", "seksyen 225 pinjaman orang berkaitan"]
+framework: rules
 ---
 
 Akaun syarikat membayar ansuran kereta pengarah. Ia dikodkan sebagai "akaun

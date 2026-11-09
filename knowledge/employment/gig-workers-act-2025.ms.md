@@ -104,6 +104,7 @@ relations:
   - { rel: "compares-with", to: "employment-act-1955-guide" }
 related: ["i-saraan-epf-voluntary-contribution", "employment-act-1955-guide", "socso-eis-employer-guide"]
 keywords: ["akta pekerja gig 2025", "akta 872", "tribunal pekerja gig", "socso pekerja gig", "penyedia platform malaysia", "undang-undang ekonomi gig malaysia"]
+framework: explainer
 ---
 
 Akta 872 sedang dilaporkan sebagai kisah keselamatan sosial: platform kini perlu memotong

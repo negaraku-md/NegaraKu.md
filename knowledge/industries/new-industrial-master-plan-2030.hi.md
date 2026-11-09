@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "madani-economy" }
 related: ["ekonomi-madani-framework"]
 keywords: ["NIMP 2030", "नई औद्योगिक मास्टर योजना", "New Industrial Master Plan", "MITI", "मलेशिया औद्योगिक नीति", "Malaysia industrial policy", "मिशन-आधारित दृष्टिकोण", "mission-based approach", "विनिर्माण", "manufacturing", "आर्थिक जटिलता", "economic complexity", "नेट ज़ीरो", "Net Zero", "MADANI अर्थव्यवस्था", "MADANI economy"]
+framework: explainer
 ---
 
 लगभग आधी सदी तक, मलेशिया ने अपने कारख़ानों की योजना वैसे बनाई जैसे आप एक अलमारी की योजना बनाएँ — एक समय में एक क्षेत्र, हर एक के अपने लक्ष्यों के साथ। NIMP 2030 उस अलमारी को फेंक देती है। "इलेक्ट्रॉनिक्स या रसायन कितना बड़ा होना चाहिए?" पूछने के बजाय, यह एक कठिन सवाल पूछती है: पूरी अर्थव्यवस्था को अधिक परिष्कृत, हरित, डिजिटल और सुरक्षित बनने के लिए क्या चाहिए — और फिर यह हर उद्योग को उस उत्तर की ओर एक साथ दिशा देती है।

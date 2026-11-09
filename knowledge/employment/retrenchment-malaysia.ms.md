@@ -122,6 +122,7 @@ relations:
   - { rel: "requires", to: "termination-benefits-malaysia" }
 related: ["termination-of-employment-malaysia", "termination-benefits-malaysia", "unfair-dismissal-malaysia", "offboarding-statutory-checklist"]
 keywords: ["pemberhentian pekerja malaysia", "borang pk malaysia", "borang pk", "prosedur lebihan tenaga kerja malaysia", "pemberitahuan pemberhentian pekerja 30 hari", "VSS malaysia", "LIFO pemberhentian pekerja malaysia"]
+framework: rules
 ---
 
 Buat carian tentang tarikh akhir Borang PK dan anda akan menemui "30 hari" diulang di puluhan laman web HR Malaysia seolah-olah itu jawapan yang lengkap. Sebenarnya itu hanya kira-kira satu pertiga daripada jawapan sebenar. Borang itu sendiri — PDF sebenar yang diterbitkan oleh JTKSM — menetapkan **tiga tarikh akhir yang berasingan**, dan dua daripadanya jatuh *selepas* pemberhentian pekerja itu berlaku.

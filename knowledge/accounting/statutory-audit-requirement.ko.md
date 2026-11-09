@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "sdn-bhd-financial-statements-filing" }
 related: []
 keywords: ["audit statutori", "pengecualian audit", "Akta Syarikat 2016", "seksyen 267", "PD 10/2024", "juruaudit Sdn Bhd", "SSM audit exemption"]
+framework: rules
 ---
 
 Sdn Bhd을 막 등록했고, 사업은 아직 작으며, 회사 비서가 방금 감사 수수료 송장을 보냈습니다.

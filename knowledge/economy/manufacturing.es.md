@@ -82,6 +82,7 @@ faq:
     a: No — es una cita errónea frecuente. La Encuesta Trimestral de Empleo del DOSM contabiliza únicamente los establecimientos registrados del sector privado, 9.21 millones de empleos en el 4.º trimestre de 2025, y los 2.54 millones de la manufactura son el 27.5% de ese subconjunto. La encuesta excluye el sector público, los trabajadores por cuenta propia y el empleo informal, por lo que la participación de la manufactura en el total de ocupados es materialmente menor. Para esa pregunta use la Encuesta de Población Activa (Labour Force Survey).
   - q: Si la participación en el PIB está estancada, ¿no estará la manufactura atrapada haciendo solo trabajo de ensamblaje de bajo valor?
     a: 'Los datos de productividad indican lo contrario. El valor añadido de la manufactura alcanzó RM59.0 por hora trabajada en 2025 frente a RM42.0 en servicios — alrededor de un 40% más por hora, y aproximadamente un tercio por encima del promedio nacional de RM44.5. Una participación estancada es en parte aritmética: los servicios crecieron más rápido (5.4% frente al 4.5% de la manufactura), por lo que la participación del sector más pequeño cae aun cuando su producción aumenta. La composición dentro de la manufactura está cambiando, algo que la participación en el PIB no puede mostrar.'
+framework: explainer
 ---
 
 ## De un vistazo

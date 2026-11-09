@@ -73,6 +73,7 @@ social:
     - MalaysiaSME
     - CommercialProperty
     - DoingBusinessInMalaysia
+framework: rules
 ---
 
 Si vous louez un local commercial, un bureau, un entrepôt ou un équipement pour votre entreprise, votre bail a discrètement changé le 1er juillet 2025. Ce jour-là, la **SST étendue** de la Malaisie a fait entrer la location ou le crédit-bail de biens commerciaux et d'autres actifs corporels dans le champ de la **taxe sur les services** — de sorte qu'un bailleur au-dessus d'une certaine taille doit désormais ajouter **8%** au loyer. Cette même réforme a cependant été conçue avec une porte de sortie délibérée pour les petites entreprises : un seuil d'enregistrement relevé et une exonération spécifique qu'un petit locataire peut réclamer. Voici qui doit facturer la taxe, qui en est protégé, et les dates qui décident.

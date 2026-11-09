@@ -96,6 +96,7 @@ social:
     - "#MalaysianFood"
     - "#HariRaya"
     - "#Minangkabau"
+framework: explainer
 ---
 
 เดินผ่านครัวของชาวมลายูในช่วงไม่กี่วันก่อนฮารีรายอ แล้วคุณมักจะได้ยินเสียงเรินดังก่อนจะเห็นมัน

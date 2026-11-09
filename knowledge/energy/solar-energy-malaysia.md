@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
 related: []
 keywords: ["solar Malaysia", "NEM 3.0", "Net Energy Metering", "Large Scale Solar", "LSS5", "CGPP", "CRESS", "CREAM", "tenaga boleh baharu", "solar bumbung"]
+framework: explainer
 ---
 
 Panel solar di atas bumbung rumah kini menjadi satu keputusan kewangan yang diikat kemas oleh dasar kerajaan di Malaysia. Tetapi "pergi solar" bermaksud perkara yang sangat berbeza bagi seorang pemilik rumah di Ipoh berbanding sebuah kilang di Pasir Gudang atau sebuah pusat data yang mahu 100% tenaga hijau. Setiap kumpulan pengguna mempunyai skim tersendiri.

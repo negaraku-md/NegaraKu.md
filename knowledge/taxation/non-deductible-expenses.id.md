@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "entertainment-expenses" }
 related: ["section-33-deductibility", "labuan-tax-regime", "withholding-tax-non-compliance", "withholding-tax-rates"]
 keywords: ["seksyen 39 akta cukai pendapatan 1967", "perbelanjaan tidak boleh ditolak malaysia", "perbelanjaan ditolak pengiraan cukai", "39(1)(j) cukai pegangan", "39(1)(r) labuan", "campuran semula pengiraan cukai malaysia"]
+framework: rules
 ---
 
 Kebanyakan jadwal koreksi fiskal dibangun dari kebiasaan. Penyusutan, hiburan, denda, sumbangan — enam baris yang sama setiap tahun, disalin ke depan. Pasal 39(1) sebenarnya mengandung delapan belas larangan yang masih berlaku, dan yang paling banyak menelan biaya bukanlah yang berada dalam daftar kebiasaan siapa pun.

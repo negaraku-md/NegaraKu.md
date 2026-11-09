@@ -130,6 +130,7 @@ keywords:
   - "DBKK business licence"
   - "SSM Sabah sole proprietorship"
   - "business registration Kota Kinabalu"
+framework: how-to
 ---
 
 每一份关于在马来西亚注册生意的全国性指南都告诉你打开 EzBiz、缴付 RM60。在沙巴，这个建议不只是不完整，而是错误的；照着做，会让你在非法经营的同时，手里握着一张在你所在之地毫无意义的证书。

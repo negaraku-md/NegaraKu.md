@@ -73,6 +73,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#LemonKoayTeowSoup", "#KoayTeowSoup", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 على الضفة المقابلة من George Town عبر المضيق، على برّ بينانغ، حوّل Lemon Koay Teow

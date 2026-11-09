@@ -126,6 +126,7 @@ keywords:
   - "ضريبة المبيعات الولائية في صباح"
   - "doing business in Sabah"
   - "Trades Licensing Ordinance Sabah Cap 144"
+framework: profile
 ---
 
 تقريبًا كل دليل وطني لممارسة الأعمال في ماليزيا مخطئ بشأن صباح، ومخطئ بالطريقة نفسها في

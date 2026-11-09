@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-special-rights-ma63" }
 related: []
 keywords: ["hasil negeri", "geran perkapita", "geran jalan raya negeri", "Jadual Kesepuluh", "Perkara 109", "Perkara 110", "kewangan persekutuan-negeri", "royalti", "cukai jualan negeri"]
+framework: explainer
 ---
 
 เมื่อรัฐบาลของรัฐในมาเลเซียจัดทำงบประมาณ มันเริ่มต้นด้วยความจริงข้อหนึ่งที่แทบไม่ถูกพูดถึง คือ ภาษีที่ให้ผลตอบแทนมากที่สุด — ภาษีเงินได้ ภาษีขายและบริการ ศุลกากร — ไม่ใช่ของรัฐที่จะจัดเก็บ แหล่งเหล่านั้นจัดอยู่ในเขตอำนาจของสหพันธรัฐ สิ่งที่เหลือให้แก่รัฐ และวิธีการเติมเต็มช่องว่างนั้น ถูกกำหนดไว้เป็นลายลักษณ์อักษรในรัฐธรรมนูญแห่งสหพันธรัฐ

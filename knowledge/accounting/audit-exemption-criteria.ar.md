@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "unaudited-financial-statements" }
 related: ["companies-act-2016"]
 keywords: ["الإعفاء من التدقيق", "audit exemption", "pengecualian audit", "PD 10/2024", "Sdn Bhd", "الشركات الخاصة", "SSM", "المادة 267", "البيانات المالية غير المدققة"]
+framework: rules
 ---
 
 لسنوات، كانت كل شركة Sdn Bhd في ماليزيا تقريباً مُجبرة على تعيين مدقّق — بغضّ

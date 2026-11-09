@@ -109,6 +109,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.259"
     consequence: "Fine up to RM50,000, plus RM1,000 a day for a continuing offence"
+framework: explainer
 ---
 
 马来西亚每一家审计事务所都刊出一页文章，讲你为什么需要审计。几乎没有一家刊出审计期间

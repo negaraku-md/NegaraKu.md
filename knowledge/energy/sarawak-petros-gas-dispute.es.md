@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "malaysia-agreement-1963" }
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["Petros", "Sarawak", "gas", "agregator gas", "Ordinan Pengagihan Gas 2016", "Ordinan Pengagihan Gas (Pindaan) 2023", "Petronas", "Akta Kemajuan Petroleum 1974", "MA63"]
+framework: explainer
 ---
 
 En una mesa de negociación en Kuala Lumpur, dos entidades energéticas de propiedad gubernamental —una Federal, otra estatal— intentaban ponerse de acuerdo sobre quién controla el flujo de gas en Sarawak. Detrás de ello había una cuestión mayor: ¿qué ley prevalece cuando los derechos estatales y los poderes federales chocan?

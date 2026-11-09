@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["federal-constitution", "orang-asli", "population-composition", "bumiputera-equity-requirements"]
 keywords: ["Bumiputera", "definisi Bumiputera", "Perkara 153", "Perkara 160", "Perkara 161A", "orang Melayu", "anak negeri Sabah Sarawak", "kedudukan istimewa", "Perlembagaan Persekutuan"]
+framework: explainer
 ---
 
 Busque la palabra «Bumiputera» en el texto de la Constitución Federal y no la encontrará. El término que tan a menudo se oye en la conversación cotidiana, en los formularios oficiales y en la política gubernamental, en realidad no se emplea en el documento jurídico supremo de la nación.

@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["bank-negara-malaysia", "bursa-malaysia", "federal-budget", "epf-as-investor"]
 keywords: ["MGS", "GII", "sukuk", "Malaysian government securities", "corporate bonds", "RENTAS", "Sukuk Simpanan Rakyat", "bond market Malaysia"]
+framework: explainer
 ---
 
 Apabila kerajaan Malaysia membina lebuh raya atau hospital, ia jarang membayar tunai serta-merta. Ia meminjam — dan surat akuan hutang yang dikeluarkannya ialah bon. Gandakan itu merentasi berdekad-dekad perbelanjaan pembangunan, tambah setiap syarikat yang meminjam dengan cara yang sama, dan anda memperoleh salah satu pasaran bon mata wang tempatan yang paling mendalam di Asia, berjalan di atas dua landasan selari: hutang konvensional dan sukuk patuh Syariah.

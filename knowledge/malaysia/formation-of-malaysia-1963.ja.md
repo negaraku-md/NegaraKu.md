@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["independence-1957", "federal-constitution", "sarawak"]
 keywords: ["formation of Malaysia 1963", "Cobbold Commission", "Konfrontasi", "Singapore separation 1965", "Sabah Sarawak merger"]
+framework: history-culture
 ---
 
 四つの領域が1963年9月16日に一つの国となり、その2年以内に、そのうちの一つはすでに離脱していた。この事実だけでも、1963年の合併が整然とした行政上の手続きではなかったことを物語っている——それは、二つの近隣政府から反対され、成功するとほぼ同時に内部の緊張によって崩れ始めた、争いに満ちた政治的プロジェクトであった。

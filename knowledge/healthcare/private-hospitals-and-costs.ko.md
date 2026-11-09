@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "sst-expansion-2025" }
 related: ["sst-expansion-2025"]
 keywords: ["private hospital Malaysia", "private hospital bill", "specialist consultation fee Malaysia", "guarantee letter hospital", "hospital deposit Malaysia", "itemised bill private hospital", "Act 586", "National Specialist Register", "private healthcare costs Malaysia"]
+framework: explainer
 ---
 
 한 번의 시술을 받으러 들어갔다가 두 장의 청구서가 함께 스테이플로 묶인 듯한 것을 들고 나옵니다. 하나는 집도의로부터, 하나는 병원으로부터. 둘의 크기는 좀처럼 일치하지 않으며, 애초에 왜 별개인지를 설명해 주는 사람은 거의 없습니다.

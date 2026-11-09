@@ -76,6 +76,7 @@ keywords:
   - "clinique dentaire spécialisée d'hôpital"
   - "Akta Pergigian 2018"
   - "recherche de cliniques dentaires publiques"
+framework: explainer
 ---
 
 Beaucoup de gens tiennent pour acquis qu'une « clinique dentaire » est une seule et même chose — un endroit pour obturer une carie ou arracher une dent de sagesse. Mais en Malaisie, les soins dentaires empruntent en réalité deux filières distinctes : l'une exploitée par le gouvernement à travers le ministère de la Santé de Malaisie (KKM), et l'autre par le secteur privé — et l'éventail de soins entre les deux n'est pas le même.

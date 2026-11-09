@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "mbrs-xbrl-filing" }
 related: ["companies-act-2016"]
 keywords: ["MFRS 10", "consolidated financial statements", "control", "subsidiary", "holding company", "Companies Act 2016", "MBRS", "group accounts", "Malaysia"]
+framework: explainer
 ---
 
 Buy a controlling stake in another company and you have not just added a line item to your balance sheet — you have created a group that Malaysian accounting rules insist on treating as a single entity. That is the quiet force behind MFRS 10 *Consolidated Financial Statements*: the moment one company controls another, the two must report to the outside world as one.

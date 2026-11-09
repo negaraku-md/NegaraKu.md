@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "tourism-malaysia" }
 related: ["tourism"]
 keywords: ["medical tourism Malaysia", "healthcare travel", "MHTC", "Malaysia Healthcare Travel Council", "JCI hospitals Malaysia", "IVF Malaysia", "cardiac care Malaysia"]
+framework: profile
 ---
 
 Một gia đình Indonesia bay đến Penang để làm phẫu thuật bắc cầu tim, một cặp đôi từ vùng Vịnh đến để thụ tinh trong ống nghiệm, và một người về hưu từ Úc đặt một buổi khám toàn thân mà sẽ tốn gấp ba lần ở quê nhà. Cùng nhau họ là một phần của một ngành thầm lặng đã đưa hơn 1.6 triệu người đến Malaysia trong một năm — không phải để ngắm cảnh, mà để khỏe lại.

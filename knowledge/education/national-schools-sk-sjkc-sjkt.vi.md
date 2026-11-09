@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["malaysian-education-system", "enrolling-in-a-government-school", "private-and-chinese-independent-schools"]
 keywords: ["sekolah kebangsaan", "SJKC", "SJKT", "sekolah jenis kebangsaan", "bahasa pengantar", "KPM", "KSSR", "sekolah rendah Malaysia"]
+framework: explainer
 ---
 
 Mỗi năm, khi thời gian đăng ký mở ra, các cha mẹ trên khắp Malaysia mở cổng idMe của Bộ Giáo dục Malaysia (KPM) để đăng ký con vào Lớp 1. Một trong những lựa chọn đầu tiên phải đưa ra: SK, SJKC hay SJKT?

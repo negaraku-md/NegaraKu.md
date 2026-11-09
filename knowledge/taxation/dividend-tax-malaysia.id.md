@@ -69,6 +69,7 @@ social:
     - LHDN
     - YA2025
     - InvestingMalaysia
+framework: rules
 ---
 
 Selama bertahun-tahun, jawaban atas "apakah dividen Malaysia saya dikenakan pajak?" adalah tidak yang jelas — sistem satu tingkat mengenakan pajak atas keuntungan sekali saja, di tingkat perusahaan, dan membayar dividen tanpa pajak. Mulai tahun taksiran 2025, itu bukan lagi keseluruhan ceritanya bagi pemegang saham besar: seorang individu yang dividen Malaysianya melebihi RM100,000 dalam setahun kini membayar pajak 2% atas kelebihan tersebut.

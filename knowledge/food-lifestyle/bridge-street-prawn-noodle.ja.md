@@ -79,6 +79,7 @@ related:
   - "malaysian-noodles"
 social:
   hashtags: ["PrawnMee", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 prawn mee はペナンを象徴する一杯のひとつで、Lebuh Pantai では長く続く屋台がそれを

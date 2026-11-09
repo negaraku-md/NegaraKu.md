@@ -113,6 +113,7 @@ relations:
   - { rel: "affects", to: "permanent-establishment" }
 related: ["transfer-pricing-documentation", "cbcr-and-master-file", "dta-network", "permanent-establishment"]
 keywords: ["advance pricing arrangement malaysia", "apa malaysia lhdn", "bilateral apa malaysia", "apa application fee malaysia", "pu a 166 2023", "apa rollback malaysia"]
+framework: how-to
 ---
 
 多くのアドバイザーは事前価格取決めをメニューのように説明する——安く早く済ませたいなら一国間、租税条約による保護がほしいなら二国間、というように。マレーシアにメニューはない。2023年所得税（事前価格取決め）規則（Income Tax (Advance Pricing Arrangement) Rules 2023、P.U.(A) 166/2023）の rule 2(2) があなたに代わって決定し、それはただ一つの事実——あなたの関連者が所在する国が、1967年所得税法（Income Tax Act 1967、Act 53）の s.132 に基づきマレーシアと取決めを結んでいるかどうか——によって決まる。

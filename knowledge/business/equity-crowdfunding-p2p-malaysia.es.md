@@ -87,6 +87,7 @@ relations:
   - { rel: "compares-with", to: "sme-financing-malaysia" }
 related: ["sme-financing-malaysia", "share-capital-malaysia", "shareholders-agreement-malaysia"]
 keywords: ["crowdfunding de capital Malasia", "equity crowdfunding malaysia", "financiación P2P Malasia", "p2p financing malaysia", "ECF Malasia", "operador de mercado reconocido SC", "captar fondos pyme Malasia", "financiación de facturas P2P"]
+framework: decision
 ---
 
 Una pyme malasia a la que tres bancos han rechazado por falta de garantías tiene una

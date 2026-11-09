@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "tourism-malaysia" }
 related: ["tourism"]
 keywords: ["medical tourism Malaysia", "healthcare travel", "MHTC", "Malaysia Healthcare Travel Council", "JCI hospitals Malaysia", "IVF Malaysia", "cardiac care Malaysia"]
+framework: profile
 ---
 
 Una familia indonesia vuela a Penang para un baipás cardíaco, una pareja del Golfo viene por un tratamiento de FIV y un jubilado de Australia reserva un chequeo de cuerpo entero que en su país costaría tres veces más. Juntos forman parte de una industria silenciosa que, en un solo año, trajo a más de 1,6 millones de personas a Malasia: no a hacer turismo, sino a recuperar la salud.

@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
 related: []
 keywords: ["subsidi baja padi", "SBPKP", "SIPP", "insentif pengeluaran padi", "subsidi pertanian", "bantuan input pesawah"]
+framework: explainer
 ---
 
 那天清晨，稻农扛到田里的一袋袋肥料并非用自己的钱买来——它们是免费的，由联邦政府承担了数十年之久。这正是马来西亚水稻农业补贴的真实面貌：不是支票，也不是进账的现金，而是承担田间大部分成本的肥料、农药和奖励。

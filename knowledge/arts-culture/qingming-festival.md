@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-new-year", "hungry-ghost-festival", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["清明节", "Cheng Beng", "扫墓", "拜山", "祭祖", "慎终追远", "金银纸", "纸扎", "后土", "土地公", "灵骨塔", "骨灰龛", "三保山", "Bukit Cina", "富贵山庄", "Qingming Festival", "Tomb-Sweeping Day"]
+framework: history-culture
 ---
 
 四月初的一个清晨，义山的小路上开始出现一家家的人。有人提着水桶和镰刀，有人拎着装满饭菜、水果和纸钱的篮子。找到自家的墓，年轻的先动手除草、扫落叶，年长的指点着把墓碑上褪色的字一笔一笔重新描过；等墓地清理干净，才摆上供品、点香、叩拜，最后在一旁的空地焚烧金银纸。烟火之间，一年一度的清明就这样过去了。

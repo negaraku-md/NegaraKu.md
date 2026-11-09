@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "parliament", "dewan-rakyat", "dewan-negara", "yang-di-pertuan-agong"]
 keywords: ["Jemaah Menteri", "Kabinet Malaysia", "Perdana Menteri Malaysia", "Perkara 43 Perlembagaan Persekutuan", "kepercayaan majoriti Dewan Rakyat", "tanggungjawab bersama", "Yang di-Pertuan Agong", "Perkara 40(2)"]
+framework: explainer
 ---
 
 マレーシアの有権者のうち、「首相」と書かれた投票用紙に印を付ける者は一人もいない。

@@ -95,6 +95,7 @@ verificationNeeded:
   - "Si le masak lemak cili api contient jamais du lait de coco en quantité notable, par opposition à « cili api » signifiant simplement très piquant — les sources s'accordent à dire que le lait de coco (lemak) est central, mais l'équilibre exact et le fait qu'une pâte d'épices soit ou non d'abord sautée (tumis) varient selon la famille et le cuisinier ; à confirmer auprès d'une source culinaire de Negeri Sembilan."
   - "En quoi le rendang de Negeri Sembilan diffère du rendang malaisien/minangkabau plus largement (certaines sources affirment qu'il s'appuie davantage sur le gingembre, le galanga, la citronnelle et le lait de coco que sur un mélange lourd d'épices sèches) — à confirmer auprès d'une source culinaire locale ou savante."
   - "L'attribution régionale précise du daging salai à des villes particulières comme Pedas et Rembau, et si le fumage emploie traditionnellement un bois particulier — à confirmer auprès d'une source locale."
+framework: explainer
 ---
 
 Commandez à manger à Seremban ou à Rembau et une couleur ne cesse de revenir sur la table :

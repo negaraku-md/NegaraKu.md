@@ -104,6 +104,7 @@ keywords:
   - "section 31 Companies Act 2016"
   - "do I need a constitution Sdn Bhd"
   - "M&A replaced by constitution"
+framework: explainer
 ---
 
 Companies Act 2016 ทำให้ข้อบังคับบริษัทเป็นทางเลือก และทั้งวงการก็แปลความนั้นว่า "คุณไม่จำเป็นต้องมี"

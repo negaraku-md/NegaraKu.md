@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "songket" }
 related: ["mak-yong", "wayang-kulit", "songket"]
 keywords: ["Joget", "Zapin", "tarian tradisional Melayu", "Joget Melaka", "Zapin Johor", "gambus", "marwas", "branyo Portugis", "tarian rakyat Melayu"]
+framework: history-culture
 ---
 
 二人の踊り手が gendang の拍子に合わせて素早く動く——足は力強く踏み鳴らし、手はやわらかく舞う。これを見る多くの人は、ジョゲット（Joget）とザピン（Zapin）を区別せず、ただ「マレー舞踊」と呼ぶ。それぞれがどこから来たのかを尋ねれば、答えは世界の二つの隅へと私たちを導く——一方はマラッカのポルトガル貿易船の甲板から、もう一方はハドラマウトから来たアラブ人布教師の隊商から。

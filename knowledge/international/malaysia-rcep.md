@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "asean-free-trade-area" }
 related: ["miti", "malaysia-cptpp"]
 keywords: ["RCEP", "Malaysia trade agreement", "rules of origin", "Form RCEP", "tariff elimination", "ASEAN", "MITI", "free trade agreement"]
+framework: explainer
 ---
 
 Sign one certificate of origin, and a Malaysian-made good can move duty-free across a market that stretches from Auckland to Beijing to Kuala Lumpur. That, in one line, is what RCEP changed for Malaysian exporters.

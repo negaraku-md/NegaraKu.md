@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-malaysia" }
 related: ["balik-kampung", "kampung", "public-holidays-malaysia", "religion-statistics"]
 keywords: ["Hari Raya Aidilfitri", "1 Syawal", "balik kampung", "duit raya", "rumah terbuka", "ziarah kubur", "zakat fitrah", "cuti umum Aidilfitri"]
+framework: history-culture
 ---
 
 라마단의 마지막 밤, 온 나라가 한꺼번에 움직이는 듯합니다. 남북 고속도로는 몇 시간씩 막히고, 버스 정류장은 가방과 과자 통으로 가득하며, 도시에서 시골 구석까지 집 베란다에 플리타 등불이 켜집니다. 이튿날인 샤왈 1일, 한 달간의 단식이 끝나고 — 말레이시아는 하리 라야 아이딜피트리를 맞이합니다.

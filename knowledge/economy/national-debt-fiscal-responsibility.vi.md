@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["federal-budget", "gdp-overview", "sovereign-credit-rating-malaysia", "subsidy-rationalisation-padu"]
 keywords: ["hutang persekutuan", "Akta 850", "Akta Tanggungjawab Fiskal", "hutang berkanun", "60% KDNK", "defisit fiskal", "MGS", "JRFL"]
+framework: explainer
 ---
 
 Nợ Chính phủ Liên bang của Malaysia vượt RM1.3 nghìn tỷ vào năm 2025 — thế nhưng con số «64,7% GDP» thường được trích dẫn và «giới hạn 60%» thường được nhắc tới thực ra đo lường hai điều khác nhau. Hiểu sự khác biệt này là chìa khóa để đọc sức khỏe tài khóa của quốc gia một cách chính xác.

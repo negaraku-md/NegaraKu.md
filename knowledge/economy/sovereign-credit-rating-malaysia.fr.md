@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-government-debt-malaysia" }
 related: []
 keywords: ["notation de crédit Malaisie", "notation souveraine", "catégorie investissement", "Malaysia credit rating", "sovereign rating", "S&P Malaysia", "Moody's Malaysia", "Fitch Malaysia", "A3", "BBB+", "investment grade"]
+framework: explainer
 ---
 
 Lorsque le ministre des Finances de la Malaisie accueille publiquement une lettre d'un analyste new-yorkais, on comprend que les enjeux sont plus que symboliques. Un seul cran à la hausse ou à la baisse sur une notation souveraine peut modifier ce que l'État paie pour emprunter, se répercuter sur les coûts de financement des entreprises et tirer sur le ringgit. Trois firmes — S&P Global, Moody's et Fitch — tiennent cette plume pour la Malaisie.

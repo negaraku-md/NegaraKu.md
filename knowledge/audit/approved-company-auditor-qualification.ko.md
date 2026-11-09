@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "statutory-audit-requirement" }
 related: ["companies-act-2016", "malaysian-institute-of-accountants"]
 keywords: ["juruaudit syarikat diluluskan", "approved company auditor", "seksyen 263", "lesen audit Malaysia", "sijil amalan MIA", "Akauntan Negara"]
+framework: rules
 ---
 
 완전한 직함과 회계 학위, 그리고 수년간의 경력을 갖춘 공인회계사가 될 수는

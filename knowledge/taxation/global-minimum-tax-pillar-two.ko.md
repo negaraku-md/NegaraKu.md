@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "cbcr-and-master-file" }
 related: ["corporate-tax-rates"]
 keywords: ["global minimum tax Malaysia", "domestic top-up tax", "multinational top-up tax", "Pillar Two Malaysia", "QDMTT Malaysia", "GloBE Malaysia", "cukai minimum global"]
+framework: rules
 ---
 
 필라 2에 관해 쓰인 거의 모든 것은 최종 모회사를 위해 쓰였습니다. 외국 그룹의 말레이시아 자회사 재무를 담당한다면, 그것은 잘못된 독자입니다 — 모회사가 그룹의 입장을 결정하지만, LHDN이 신고서를 기대하는 대상은 **귀하**입니다.

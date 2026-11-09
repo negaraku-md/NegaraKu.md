@@ -79,6 +79,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaTax
     - MalaysiaCompanyLaw
+framework: explainer
 ---
 
 Begitu sebuah bisnis memiliki lebih dari satu perusahaan — satu lini perdagangan dan satu lini properti, dua merek, sebuah perusahaan operasi dan investasi keluarga — pertanyaannya bukan lagi "bagaimana saya menjalankan perusahaan saya?" melainkan menjadi "bagaimana saya menyusun grup?". Sebuah perusahaan induk berada di atas, memiliki yang lain, dan dapat menghadirkan kepemilikan yang lebih rapi, perlindungan aset, serta pelepasan yang lebih mulus. Ia juga membawa laporan keuangan konsolidasi, rezim pajaknya sendiri, dan pungutan yang mungkin tidak Anda perkirakan ketika memindahkan setiap bagian.

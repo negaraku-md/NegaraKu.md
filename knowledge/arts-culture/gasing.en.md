@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "wau" }
 related: ["wau", "kelantan", "terengganu"]
 keywords: ["gasing", "gasing uri", "gasing pangkah", "permainan tradisional Melayu", "warisan kebangsaan", "Kuala Nerus", "gasing Kelantan", "gasing Terengganu"]
+framework: history-culture
 ---
 
 The sound arrives first — heavy wood striking heavy wood, followed by cheers. On a village field around Kuala Nerus, Terengganu, two groups stand facing each other. One player throws his top with a cord; another is already spinning, waiting on the ground. The winner is not the fastest — it is the one whose top is still spinning after the strike.

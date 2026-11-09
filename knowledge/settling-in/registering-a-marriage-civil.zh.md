@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "mykad" }
 related: ["jpn", "mykad"]
 keywords: ["civil marriage Malaysia", "JPN marriage registration", "Act 164", "Law Reform Marriage and Divorce Act 1976", "non-Muslim marriage Malaysia", "JPN.KC02", "marriage notice 21 days", "special marriage licence Malaysia"]
+framework: how-to
 ---
 
 两个人可以摆婚宴、交换戒指、在签名簿上签名——却仍然可能在马来西亚法律上

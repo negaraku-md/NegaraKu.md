@@ -115,6 +115,7 @@ keywords:
   - "Sarawak Land Code Cap 81"
   - "Samalaju Industrial Park"
   - "perniagaan di Sarawak"
+framework: explainer
 ---
 
 Empieza por un número que te dice qué clase de lugar es este. Sarawak lleva **dos series

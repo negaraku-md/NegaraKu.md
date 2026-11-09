@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "malaysian-institute-of-accountants" }
 related: ["malaysian-institute-of-accountants"]
 keywords: ["ISA 600", "group audit", "component auditor", "group engagement partner", "Malaysia subsidiary audit", "MIA", "consolidated financial statements", "aggregation risk"]
+framework: explainer
 ---
 
 Một công ty mẹ Đức hợp nhất chi nhánh thương mại tại Kuala Lumpur của mình, nhưng thành viên hợp danh kiểm toán của tập đoàn ở Frankfurt chưa bao giờ đặt chân đến Malaysia và không đọc các sổ cái địa phương. Ai đó tại Malaysia làm công việc tại chỗ — nhưng chữ ký trên ý kiến tập đoàn vẫn là của riêng thành viên hợp danh tập đoàn. Sự phân chia đó chính xác là điều mà chuẩn mực kiểm toán tập đoàn được xây dựng để điều chỉnh.

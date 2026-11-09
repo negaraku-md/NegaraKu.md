@@ -133,6 +133,7 @@ keywords:
   - "MCKIP Kuantan incentives"
   - "Kuantan Port free zone"
   - "ECRL completion date"
+framework: profile
 ---
 
 ECERは、きちんとやり遂げた回廊である。北部回廊が文書化されていない大臣の裁量によって奨励措置を提供し、ジョホール・シンガポール経済特区（Johor-Singapore SEZ）が今なお官報告示された法文書を一切持たないのに対し、ECERには自分でダウンロードし、読み、確認できる**八つの公布された命令**がある。

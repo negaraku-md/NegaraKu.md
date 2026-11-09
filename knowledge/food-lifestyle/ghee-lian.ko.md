@@ -72,6 +72,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#GheeLian", "#Penang", "#BibGourmand", "#StreetFood", "#Malaysia"]
+framework: profile
 ---
 
 tom yum은 본디 태국에서 났지만, 조지타운의 옛 Esplanade 근처 노점에서는 뜻밖의

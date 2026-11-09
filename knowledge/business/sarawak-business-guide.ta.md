@@ -112,6 +112,7 @@ keywords:
   - "Sarawak Land Code Cap 81"
   - "Samalaju Industrial Park"
   - "perniagaan di Sarawak"
+framework: explainer
 ---
 
 இது எப்படிப்பட்ட இடம் என்பதைச் சொல்லும் ஒரு எண்ணுடன் தொடங்குங்கள். சரவாக் **இரண்டு இணையான

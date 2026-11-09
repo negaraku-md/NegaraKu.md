@@ -122,6 +122,7 @@ keywords:
   - "foreign company local agent Malaysia"
   - "branch registration fee SSM"
   - "foreign company annual return Malaysia"
+framework: how-to
 ---
 
 பதிவுக் கட்டணம்தான் எல்லோரும் தங்கள் வரவுசெலவுத் திட்டத்தில் சேர்க்கும் பகுதி. அது வலிக்கச் செய்யும் பகுதி அல்ல.

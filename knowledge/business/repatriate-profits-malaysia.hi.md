@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "foreign-exchange-policy-malaysia" }
 related: ["foreign-exchange-policy-malaysia", "foreign-ownership-malaysia"]
 keywords: ["मलेशिया से लाभ प्रत्यावर्तन", "repatriate profits malaysia", "मलेशिया लाभांश रोक-कर", "dividend withholding tax malaysia", "मलेशिया एकल-स्तर प्रणाली", "single tier system malaysia", "मलेशिया 2% लाभांश कर", "2% dividend tax malaysia", "मूल कंपनी को लाभ भेजना"]
+framework: explainer
 ---
 
 विदेशी संस्थापक यह अपेक्षा करते हुए आते हैं कि लाभांश पर एक रोक-कर होगा, क्योंकि लगभग हर तुलनीय अधिकार-क्षेत्र में ऐसा होता है। मलेशिया में नहीं होता, और यह भ्रम वास्तविक पैसा खर्च कराता है — उन संरचनाओं में जो एक ऐसे कर से बचने के लिए बनाई गईं जिसे समाप्त कर दिया गया था, और उस मूल्य-निर्धारण में जो एक ऐसे रिसाव को मान लेता है जो कभी होता ही नहीं।

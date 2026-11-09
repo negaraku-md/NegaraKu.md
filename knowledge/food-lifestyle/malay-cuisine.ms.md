@@ -95,6 +95,7 @@ verificationNeeded:
   - "Dakwaan bahawa nasi hanya menjadi makanan ruji harian Melayu agak lewat (dengan sagu dominan sebelum kira-kira abad ke-15) bersandar pada catatan ahli sejarah makanan; sahkan terhadap sumber sejarah atau akademik primer."
   - "Sama ada 'Budaya Sarapan Malaysia' — yang disenaraikan dalam Senarai Perwakilan UNESCO pada Disember 2024 — patut dirangka sebagai pengiktirafan masakan Melayu secara khusus dan bukannya hidangan sarapan berbilang kaum; ia merupakan catatan UNESCO berkaitan makanan pertama negara dan secara jelas bersifat berbilang budaya."
   - "Sempadan wilayah yang tepat bagi profil perisa (cth. pantai timur yang 'lebih manis', selatan yang gemar kuah berasaskan santan) ialah generalisasi; sahkan pengaitan hidangan tertentu terhadap sumber tempatan."
+framework: history-culture
 ---
 
 Duduk menikmati hidangan Melayu dan bentuknya sudah jelas sebelum anda merasainya:

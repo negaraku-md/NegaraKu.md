@@ -133,6 +133,7 @@ keywords:
   - "MCKIP Kuantan incentives"
   - "Kuantan Port free zone"
   - "ECRL completion date"
+framework: profile
 ---
 
 ECER là hành lang đã làm điều đó đúng cách. Ở nơi Northern Corridor cung cấp các ưu đãi thông qua

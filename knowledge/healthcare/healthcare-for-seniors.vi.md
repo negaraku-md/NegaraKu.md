@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "mm2h-long-stay-visa" }
 related: ["mm2h-long-stay-visa"]
 keywords: ["elderly care Malaysia", "nursing home Malaysia", "Rumah Seri Kenangan", "Rumah Ehsan", "geriatric care Malaysia", "PeKa B40", "aged care Malaysia", "Care Centres Act 1993", "warga emas", "long-term care Malaysia"]
+framework: explainer
 ---
 
 Khoảnh khắc đó thường đến trong lặng lẽ. Một người cha, người mẹ vốn tự lo được ổn thỏa bắt đầu quên tắt bếp, hoặc ngã quá nhiều lần, và một gia đình chưa bao giờ lên kế hoạch cho việc này buộc phải quyết định, một cách vội vàng, điều gì tiếp theo. Malaysia thật sự có một hệ thống cho việc này — chỉ là nó bị chia ra giữa một phòng khám y tế vốn đã tiếp nhận người cao tuổi và một hệ thống phúc lợi mà hầu hết các gia đình chỉ phát hiện ra khi họ đi tìm.

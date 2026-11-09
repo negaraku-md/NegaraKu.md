@@ -107,6 +107,7 @@ keywords:
   - "MBPJ lesen komposit"
   - "MBSA lesen komposit"
   - "DBKK lesen berniaga"
+framework: rules
 ---
 
 يمكن إلغاء رخصة مقرّك غدًا، دون سبب، ولا يدين لك المجلس بأي تفسير. وليست تلك قصة

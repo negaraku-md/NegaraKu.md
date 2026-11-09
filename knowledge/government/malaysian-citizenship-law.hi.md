@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["federal-constitution", "jpn", "constitutional-amendment", "imigresen"]
 keywords: ["kewarganegaraan Malaysia", "Malaysian citizenship", "Perkara 14 Perlembagaan", "Bahagian III Perlembagaan Persekutuan", "kewarganegaraan secara pendaftaran", "penaturalisasian Malaysia", "Perkara 19 naturalisation", "pasangan asing kewarganegaraan", "anak tanpa kewarganegaraan", "pindaan Perlembagaan 2024 kewarganegaraan"]
+framework: rules
 ---
 
 कुआलालंपुर में जन्मा एक शिशु और लंदन में मलेशियाई माता-पिता से जन्मा एक शिशु

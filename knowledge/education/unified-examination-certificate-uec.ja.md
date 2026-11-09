@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "sistem-pendidikan-malaysia" }
 related: []
 keywords: ["UEC", "Sijil Peperiksaan Bersama", "Dong Zong", "sekolah menengah persendirian Cina", "pengiktirafan UEC", "IPTA", "bahasa kebangsaan"]
+framework: explainer
 ---
 
 UECというわずか3文字が、マレーシアの教育政治において半世紀以上続く論争を引き起こしてきた。ある人々にとって、それは世界の有力大学への扉を開く国際水準の証明書である。別の人々にとって、それは国語の地位と国の教育政策に関わる問題である。この二つの見方は同時に存在しており、全体像を理解するにはその両方を知る必要がある。

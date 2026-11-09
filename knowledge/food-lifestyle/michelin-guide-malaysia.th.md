@@ -100,6 +100,7 @@ social:
     - "#Dewakan"
     - "#KualaLumpurFood"
     - "#PenangFood"
+framework: explainer
 ---
 
 ลองถามสักสิบกว่าคนว่าควรไปกินที่ไหนในกัวลาลัมเปอร์หรือปีนัง แล้วคุณจะได้คำตอบสิบกว่า

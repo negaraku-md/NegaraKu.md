@@ -77,6 +77,7 @@ sources:
 relations: []
 related: ["company-secretary-malaysia", "audit-exemption-criteria"]
 keywords: ["choose company secretary Malaysia", "accounting firm Malaysia", "audit firm Malaysia", "tax agent Malaysia", "corporate services firm Malaysia", "Big Four Malaysia", "MIA licensed firm", "SSM company secretary licence", "how to choose accountant Malaysia", "company secretary firm vs individual"]
+framework: decision
 ---
 
 تتكئ كل شركة ماليزية على دائرة صغيرة من المهنيين لا تراهم قط في الهيكل التنظيمي: أمين سر الشركة الذي يبقيها قانونية، والمحاسب الذي يمسك دفاترها، والمدقق الذي يعتمد أرقامها، ووكيل الضرائب الذي يقدّم إقراراتها إلى LHDN. وحسن اختيارهم يوفّر المال ويجنّبك ليالي الأرق. ومع ذلك، ابحث عن «أفضل أمين سر شركة في ماليزيا» تجد أن كل دليل تقريبًا كتبته شركة تبيع الخدمة. أما هذا الدليل فليس كذلك.

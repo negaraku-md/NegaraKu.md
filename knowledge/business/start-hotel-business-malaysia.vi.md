@@ -79,6 +79,7 @@ social:
     - MOTAC
     - DoingBusinessInMalaysia
     - StartABusiness
+framework: how-to
 ---
 
 Mua tòa nhà, lắp đặt các phòng và nhận đặt phòng đầu tiên là phần dễ của việc mở một khách sạn. Phần khiến người ta dừng lại là một doanh nghiệp lưu trú du lịch ở Malaysia chịu trách nhiệm trước nhiều cơ quan cùng lúc — cơ quan đăng ký công ty, hội đồng địa phương, bộ du lịch và cục phòng cháy — và một trong số đó, MOTAC, yêu cầu bạn đăng ký cơ sở **trước** khi bạn hoạt động. Bỏ qua nó và bạn không chỉ đơn thuần chưa được xếp hạng; bạn đang vận hành một doanh nghiệp du lịch không có giấy phép, một hành vi phạm tội có thể tốn đến RM500,000 hoặc mười năm tù.

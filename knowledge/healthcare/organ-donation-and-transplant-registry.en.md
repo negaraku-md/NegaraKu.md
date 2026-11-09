@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "how-malaysian-healthcare-works" }
 related: ["how-malaysian-healthcare-works", "government-hospitals"]
 keywords: ["pendermaan organ", "derma organ", "transplan", "NTRC", "ikrar penderma", "fatwa organ", "kematian otak", "MySejahtera"]
+framework: explainer
 ---
 
 Every year, thousands of patients in Malaysia wait for a phone call that may never come — the call telling them that an organ to save their life is finally available. Behind that long waiting list lies a paradox: hundreds of thousands of citizens have pledged to donate their organs, yet only a tiny fraction of those pledges are ever carried out.

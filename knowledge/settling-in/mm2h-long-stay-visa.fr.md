@@ -85,6 +85,7 @@ faq:
     a: 'Non. Le MOTAC autorise un retrait maximal de 50% du capital du dépôt à terme après approbation, et uniquement à des fins précises : l''achat de la résidence requise, ou pour l''éducation, les soins médicaux ou les activités touristiques en Malaisie. Il s''agit d''une libération conditionnelle, et non d''un compte à usage général. Le solde restant doit demeurer dans la banque malaisienne ; les fonds étrangers et les gains tirés du dépôt pendant qu''il y est placé bénéficient d''une exonération fiscale prévue.'
   - q: Qui approuve réellement une demande de MM2H — le MOTAC ou l'Immigration ?
     a: Les deux, dans des rôles différents. Le MOTAC gère le programme et fixe les conditions de chaque niveau, mais l'approbation finale de l'immigration, le visa apposé sur le pass et tout recours relèvent du ministère de l'Intérieur par l'intermédiaire du Département de l'immigration (Jabatan Imigresen Malaysia). Les demandes sont déposées par un agent MM2H agréé via le Guichet unique (One Stop Centre). Contactez donc le MOTAC pour les questions relatives aux conditions de niveau et l'Immigration pour les questions d'approbation ou de visa — deux autorités, deux compétences.
+framework: explainer
 ---
 
 Cherchez « combien de temps dure un pass Silver de MM2H » et vous trouverez des guides

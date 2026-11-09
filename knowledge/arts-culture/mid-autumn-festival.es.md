@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-new-year", "population-composition", "religion-statistics", "hungry-ghost-festival"]
 keywords: ["中秋节", "月饼节", "灯笼节", "月饼", "冰皮月饼", "灯笼", "嫦娥奔月", "赏月", "柚子", "团圆", "农历八月十五", "马来西亚华人", "Mid-Autumn Festival Malaysia", "Mooncake Festival"]
+framework: history-culture
 ---
 
 Al caer la noche del decimoquinto día del octavo mes lunar, el atrio del centro comercial se llena de farolillos rojos encendidos, y en el parque de la zona residencial los niños, de dos en dos y de tres en tres, van de aquí para allá con farolillos encendidos. En la mesa de casa, una caja de pasteles de luna cortados en trozos pequeños acompaña una tetera de té caliente, con un pomelo pelado al lado. La familia saca sillas al exterior y alza la vista hacia la luna más redonda del año: esta es una típica noche de Medio Otoño en un hogar chino de Malasia.

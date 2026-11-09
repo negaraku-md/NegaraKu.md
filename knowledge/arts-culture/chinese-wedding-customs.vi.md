@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "chinese-dialects", "chinese-clan-associations", "chinese-religion-in-malaysia"]
 keywords: ["华人婚礼", "传统婚礼", "过大礼", "下聘", "聘金", "嫁妆", "安床", "上头", "迎亲", "接新娘", "姐妹玩新郎", "闯门", "奉茶", "敬酒", "喜酒", "回门", "囍", "双喜", "马来西亚华人", "Chinese wedding customs Malaysia"]
+framework: history-culture
 ---
 
 Trời còn chưa sáng hẳn, một đoàn xe đã đỗ trước cửa nhà cô dâu. Chú rể ôm bó hoa, phía sau là mấy người "anh em", nhưng bị mấy cô "chị em" ló ra từ sau cánh cửa chặn lại: trước hết hãy trả lời câu hỏi, rồi hát một đoạn, ăn vài lát chanh thái mỏng dính, cuối cùng nhét vài bao lì xì qua khe cửa — vượt qua được ải "vượt cửa" (xung môn) này thì cửa mới mở, chú rể mới được gặp cô dâu trong bộ đồ đỏ rực. Một buổi sáng đầy trêu đùa và náo nhiệt như thế chính là khúc mở màn ngày cưới của nhiều hôn lễ người Hoa tại Malaysia.

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "local-government-in-malaysia" }
 related: []
 keywords: ["pentadbiran daerah", "إدارة المقاطعة", "pejabat daerah", "مكتب المقاطعة", "pegawai daerah", "ضابط المقاطعة", "mukim", "الموكيم", "pentadbir tanah", "daerah pentadbiran", "Kanun Tanah Negara"]
+framework: explainer
 ---
 
 بين الولاية التي تصوّت لها والقرية التي تسكن فيها، توجد طبقة واحدة من الحكم نادراً ما يُذكَر اسمها، لكنها الطبقة التي تلتقيها أكثر من غيرها حين تتعامل في شؤون الأراضي أو مشاريع التنمية أو المساعدات الطارئة: المقاطعة. فهنا تتحوّل سياسة الولاية إلى خدمات فعلية، ومركزها مكتب المقاطعة.

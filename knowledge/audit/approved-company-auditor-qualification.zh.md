@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "statutory-audit-requirement" }
 related: ["companies-act-2016", "malaysian-institute-of-accountants"]
 keywords: ["juruaudit syarikat diluluskan", "approved company auditor", "seksyen 263", "lesen audit Malaysia", "sijil amalan MIA", "Akauntan Negara"]
+framework: rules
 ---
 
 你可以是一位拥有完整头衔、会计学位和多年经验的特许会计师——却仍然不被允许独自签署一家公司的审计报告。在马来西亚，审计一家公司的权利是一项独立且受到严密管控的执照，而不是随专业会员资格自动附带的东西。

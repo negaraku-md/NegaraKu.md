@@ -71,6 +71,7 @@ sources:
 
 related: ["1998-reformasi", "2018-change-of-government", "prime-ministers-of-malaysia", "mahathir-mohamad"]
 keywords: ["Anwar Ibrahim", "décimo primer ministro Malasia", "Reformasi", "gobierno MADANI", "Pakatan Harapan"]
+framework: profile
 ---
 
 Anwar Ibrahim (nacido el 10 de agosto de 1947) es el **décimo primer ministro** de

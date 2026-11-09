@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#WongMeiKee", "#SiewYok", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Một quầy ở góc phố Pudu chỉ mở vài giờ vào buổi trưa, và hàng người xếp hàng bắt đầu

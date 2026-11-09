@@ -96,6 +96,7 @@ verificationNeeded:
   - "La fórmula exacta de arroz del nasi dagang de Terengganu (arroz blanco sin más frente a una mezcla de arroz corriente con glutinoso o jazmín): los medios gastronómicos y las fuentes turísticas la describen de forma diversa. Confírmese con una fuente culinaria local."
   - "El relato de origen común de que el keropok lekor lo crearon los pescadores de la costa este para conservar el excedente de pescado durante la estación del monzón: se repite mucho en los medios gastronómicos, pero no está bien documentado históricamente. Confírmese con una fuente de historia de la alimentación o patrimonial."
   - "La generalización de que el paladar de Terengganu «tiende a lo dulce» (incluido el endulzamiento del gulai ikan tongkol con azúcar de palma): es una caracterización común más que una afirmación medida. Confírmese con una referencia culinaria regional."
+framework: explainer
 ---
 
 Pregunte a cualquier malasio dónde comer el mejor nasi dagang y el mejor keropok

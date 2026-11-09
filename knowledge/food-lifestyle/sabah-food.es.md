@@ -94,6 +94,7 @@ verificationNeeded:
   - "Si el pinasakan va asado o guisado: las fuentes describen tanto una preparación de basung (big-eye scad) guisado con takob-akob y cúrcuma como una versión a la brasa; confírmese el método casero estándar con una fuente local."
   - "La afirmación de que el sang nyuk mian se originó en la localidad costera oriental de Tawau antes de extenderse a Kota Kinabalu, muy repetida en los medios gastronómicos, pero conviene confirmarla con una fuente local o histórica."
   - "La atribución de las tradiciones de fideos de Sabah específicamente a los colonos Hakka (frente a los colonos chinos en sentido más amplio); confírmese la asociación con el grupo dialectal predominante mediante una fuente de historia migratoria."
+framework: explainer
 ---
 
 Cruza el mar de la China Meridional desde la Malasia peninsular y la mesa cambia. En Sabah —el

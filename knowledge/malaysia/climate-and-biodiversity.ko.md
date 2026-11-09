@@ -62,6 +62,7 @@ keywords:
   - "monsoon Malaysia"
   - "MetMalaysia"
   - "MyBIS"
+framework: explainer
 ---
 
 # 말레이시아가 세계에서 손꼽히는 초다양성 국가인 이유

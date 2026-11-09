@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["imigresen", "employment-act-1955", "opening-bank-account"]
 keywords: ["hiring a maid in Malaysia", "foreign domestic helper Malaysia", "confinement nanny Malaysia", "confinement centre Malaysia", "pembantu rumah asing", "domestic worker rules Malaysia", "part time maid Malaysia", "postnatal care Malaysia"]
+framework: explainer
 ---
 
 住み込みの手伝いを雇う家庭と、出産後の一か月間、産後ケア施設を予約する家庭は、感覚としては似たこと——有償の手伝いを家庭内に迎えること——をしている。しかし両者は、政府による監督の量がほとんど正反対の世界に置かれている。一方は、収入要件と厳格な「一世帯につき一人」の上限を伴う、全国的な移民手続きを経る。もう一方は、国内の大半で、美容室と同じ方法で許可を受ける。

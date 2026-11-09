@@ -106,6 +106,7 @@ keywords:
   - "MBPJ lesen komposit"
   - "MBSA lesen komposit"
   - "DBKK lesen berniaga"
+framework: rules
 ---
 
 Your premise licence can be cancelled tomorrow, without a reason, and the council owes

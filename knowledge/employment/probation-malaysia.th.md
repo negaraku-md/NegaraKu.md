@@ -59,6 +59,7 @@ relations:
   - { rel: "governs", to: "employment-contract-malaysia" }
 related: ["unfair-dismissal-malaysia", "employment-contract-malaysia", "termination-of-employment-malaysia"]
 keywords: ["probation malaysia", "terminate probationer malaysia", "confirmation of employment malaysia", "probation period malaysia law", "extend probation malaysia"]
+framework: explainer
 ---
 
 "เขายังทดลองงานอยู่ เราจึงให้เขาออกได้เลย" ประโยคนั้นก่อให้เกิดคำชี้ขาดของศาลแรงงานต่อนายจ้างมาเลเซียมากกว่าเกือบทุกประโยค และกฎหมายขัดแย้งกับมันโดยตรง

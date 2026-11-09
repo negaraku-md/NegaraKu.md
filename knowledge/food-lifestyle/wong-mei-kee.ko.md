@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#WongMeiKee", "#SiewYok", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Pudu 모퉁이의 한 노점은 점심 무렵 몇 시간만 열고, 줄은 그보다 훨씬 전부터 시작된다.

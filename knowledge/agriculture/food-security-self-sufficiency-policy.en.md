@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
 related: []
 keywords: ["keterjaminan makanan", "tahap sara diri", "SSL", "SSR", "Dasar Agromakanan Negara", "DAN 2.0", "food security Malaysia", "beras"]
+framework: explainer
 ---
 
 According to the Agriculture Census 2024, for every kilogram of rice consumed in Malaysia, roughly 400 grams is imported rice. That figure sums up the country's food security challenge: an agricultural nation that still imports a large share of its staple food.

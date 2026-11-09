@@ -93,6 +93,7 @@ relations:
   - { rel: "explained-in", to: "corporate-tax-rates" }
 related: ["personal-tax-rates", "corporate-tax-rates", "personal-tax-reliefs", "pcb-monthly-tax-deduction"]
 keywords: ["income tax Malaysia", "cukai pendapatan Malaysia", "LHDN income tax", "182 day rule Malaysia", "self assessment system Malaysia", "chargeable income", "Malaysia tax residency", "year of assessment"]
+framework: explainer
 ---
 
 La plupart des gens rencontrent l'impôt sur le revenu de la Malaisie sous la forme d'une seule ligne sur une fiche de paie — « PCB » — et d'une course effrénée une fois par an en avril. Derrière cette ligne se trouve l'un des systèmes les plus importants du pays, et presque tout ce qui s'écrit à son sujet commence au mauvais endroit : un tableau de taux.

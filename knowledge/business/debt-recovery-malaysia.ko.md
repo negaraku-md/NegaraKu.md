@@ -104,6 +104,7 @@ keywords:
   - "winding up petition unpaid debt Malaysia"
   - "limitation period debt Malaysia"
   - "tuntutan hutang syarikat"
+framework: how-to
 ---
 
 말레이시아의 상사 채권 회수에 관한 대부분의 조언은 한 단어로 귀결됩니다. 바로 소송입니다.

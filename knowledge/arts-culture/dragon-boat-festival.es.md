@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "winter-solstice-festival"]
 keywords: ["端午节", "端阳节", "五月节", "粽子", "bak chang", "娘惹粽", "咸肉粽", "碱水粽", "龙舟", "赛龙舟", "屈原", "艾草", "菖蒲", "立蛋", "直落巴巷水坝", "马来西亚华人", "Dragon Boat Festival Malaysia", "Duanwu"]
+framework: history-culture
 ---
 
 Cuando se acerca el quinto día del quinto mes lunar, de las cocinas de las familias chinas se eleva el aroma de las hojas de bambú y del arroz glutinoso. Las amas de casa rellenan, capa tras capa, hojas dobladas en forma de embudo con arroz glutinoso remojado y relleno salteado y fragante, luego lo atan firmemente con cuerda de junco y bajan a la olla, ristra tras ristra, para una larga cocción. Al mismo tiempo, en la presa de Teluk Bahang, en el extremo noroeste de la isla de Penang, esbeltos botes del dragón hienden la superficie del agua; un tamborilero de pie en la proa marca el ritmo, y decenas de remeros baten los remos al unísono siguiendo el compás: estas son las dos caras del Festival del Bote del Dragón en Malasia: por un lado, la fragancia del zongzi en la cocina; por otro, la regata sobre el agua.

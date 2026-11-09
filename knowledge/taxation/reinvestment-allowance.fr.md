@@ -84,6 +84,7 @@ relations:
   - { rel: "compares-with", to: "double-deduction-list" }
 related: ["double-deduction-list", "corporate-tax-rates", "losses-and-group-relief"]
 keywords: ["reinvestment allowance Malaysia", "Schedule 7A projet admissible", "RA 60% dépenses d'investissement", "déduction pour réinvestissement 15 ans", "demande RA rejetée contrôle"]
+framework: rules
 ---
 
 La déduction pour réinvestissement échoue en contrôle bien plus souvent qu'elle n'est refusée d'emblée, et presque jamais parce que l'argent n'a pas été dépensé. Elle échoue parce que l'entreprise a acheté le bon actif pour le mauvais projet. Une machine qui emballe des boîtes finies dans des cartons est une vraie machine, réellement installée dans une vraie usine — et elle n'est pas admissible, car la fabrication était déjà achevée lorsque les crayons ont été mis dans les boîtes.

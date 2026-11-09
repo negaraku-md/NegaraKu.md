@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["ekonomi-madani-framework", "khazanah", "bursa-malaysia"]
 keywords: ["GLC", "GLIC", "Khazanah", "KWSP", "PNB", "KWAP", "LTAT", "Tabung Haji", "GEAR-uP", "PERKUKUH", "Program Transformasi GLC", "Bursa Malaysia"]
+framework: explainer
 ---
 
 Mở danh mục của bất kỳ quỹ chỉ số Bursa Malaysia nào, và bàn tay của chính phủ Liên bang gần như chắc chắn nằm trong đó. Ngân hàng lớn nhất nước, các công ty tiện ích, viễn thông, hãng hàng không và các tập đoàn đồn điền — tất cả đều chia sẻ cùng một chủ sở hữu cuối cùng: người dân Malaysia, thông qua một số ít định chế đầu tư nhà nước. Chính cơ cấu này khiến Malaysia trở thành một trong những nền kinh tế chịu ảnh hưởng nhà nước nhiều nhất ở Đông Nam Á, và nó được tóm gọn trong hai chữ viết tắt thường bị nhầm lẫn: GLC và GLIC.

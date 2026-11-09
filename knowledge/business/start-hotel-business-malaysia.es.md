@@ -79,6 +79,7 @@ social:
     - MOTAC
     - DoingBusinessInMalaysia
     - StartABusiness
+framework: how-to
 ---
 
 Comprar el edificio, acondicionar las habitaciones y recibir la primera reserva es la parte fácil de abrir un hotel. La parte que detiene a la gente es que un negocio de alojamiento turístico en Malasia responde ante varias autoridades a la vez —el registro de sociedades, el consejo local, el ministerio de turismo y el departamento de bomberos— y una de ellas, el MOTAC, exige registrar el local **antes** de operar. Sáltelo y no solo estará sin clasificar; estará operando un negocio turístico sin licencia, un delito que puede costar hasta RM500,000 o diez años de prisión.

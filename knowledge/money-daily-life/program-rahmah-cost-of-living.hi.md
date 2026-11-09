@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "inflation-cpi" }
 related: ["str-cash-aid", "fuel-subsidies", "subsidy-rationalisation-padu", "inflation-cpi"]
 keywords: ["Payung Rahmah", "Menu Rahmah", "Jualan Rahmah Madani", "PJRM", "Bakul Rahmah", "KPDN", "मलेशिया जीवन-यापन लागत कार्यक्रम", "RM5 भोजन", "सस्ती आवश्यक वस्तुओं की बिक्री"]
+framework: explainer
 ---
 
 बहुत से लोगों ने भोजनालय की खिड़की पर या सप्ताहांत की बिक्री के तंबू में «RAHMAH» छतरी-लोगो देखा है, पर कम लोग जानते हैं कि RAHMAH कोई एकल कार्यक्रम नहीं है। यह असल में एक **छतरी-ब्रांड** है जो कई अलग-अलग जीवन-यापन-लागत पहलों को अपने नीचे समेटता है — और इसे अक्सर एक लगभग वैसे ही नाम वाली नकद सहायता से भी भ्रमित किया जाता है।

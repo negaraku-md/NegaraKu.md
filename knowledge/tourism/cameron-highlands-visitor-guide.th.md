@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["pahang"]
 keywords: ["Cameron Highlands", "Tanah Rata", "Brinchang", "Ringlet", "BOH tea", "strawberry farm", "Orang Asli", "Semai", "hill station", "Pahang"]
+framework: profile
 ---
 
 ก้าวลงจากรถบัสที่ตานะฮ์ราตา สิ่งแรกที่คุณสังเกตเห็นคือลมหายใจของตัวเอง อากาศเย็นพอที่เสื้อกันหนาวไม่รู้สึกไร้สาระ แม้อยู่ที่เส้นศูนย์สูตร นั่นคือประเด็นทั้งหมดของคาเมรอนไฮแลนด์ส แผ่นดินเนินเขาเขตอบอุ่นที่ซ้อนอยู่เหนือมาเลเซียเขตร้อน ที่ซึ่งชาเติบโตเป็นลายริ้วสีเขียวเรียบร้อยตามสันเขา และสตรอว์เบอร์รีสุกงอมในโรงเรือนพลาสติกริมถนน

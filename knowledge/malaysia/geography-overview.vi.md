@@ -74,6 +74,7 @@ faq:
     a: Chúng là hai đỉnh núi kỷ lục khác nhau trên hai khối đất liền khác nhau, ngăn cách bởi Biển Đông. Gunung Tahan, cao 2.187 mét trên ranh giới Pahang–Kelantan bên trong Taman Negara (Vườn Quốc gia), là điểm cao nhất của Bán đảo Malaysia. Núi Kinabalu ở Sabah vươn cao 4.095 mét — là đỉnh cao nhất của toàn Malaysia, và là đỉnh cao nhất ở bất cứ đâu giữa dãy Himalaya và New Guinea. Nhầm lẫn hai đỉnh này là một sai lầm thường gặp.
   - q: Tại sao phần lớn người Malaysia sống gần bờ biển hơn là trong nội địa?
     a: Mỗi khối đất liền bị chi phối bởi một sống núi trung tâm — Dãy Titiwangsa ở Bán đảo, Dãy Crocker ở Sabah — hai bên chỉ có những đồng bằng ven biển hẹp. Những vùng cao đó đẩy việc định cư ra phía ngoài, đến các đồng bằng ven biển và thung lũng sông, để lại vùng nội địa nhiều núi non thưa thớt dân cư. Đồng bằng ven biển phía tây của Bán đảo, được che chắn và êm dịu nhờ Eo biển Malacca, chứa phần lớn dân số và những thành phố lớn nhất như Kuala Lumpur và George Town.
+framework: explainer
 ---
 
 Bay vào Kuala Lumpur từ Kota Kinabalu và bạn vượt qua nhiều hơn một biên giới nội bộ — bạn vượt qua vài trăm kilômét biển mở. Malaysia là một đất nước được ghim lại với nhau qua hai khối đất riêng biệt, và sự thật giản đơn về hình dạng đó đã lặng lẽ quyết định gần như mọi thứ khác: các thành phố ở đâu, các cánh đồng lúa ở đâu, và bờ biển nào ngập lụt vào mỗi tháng Mười Hai.

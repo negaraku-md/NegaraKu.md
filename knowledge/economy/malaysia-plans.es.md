@@ -87,6 +87,7 @@ faq:
     a: No. El Plan de Malasia se presenta y se aprueba como una moción de política para el debate parlamentario, no como un proyecto de ley. El Presupuesto, en cambio, debe pasar por un Proyecto de Ley de Suministros (Supply Bill) que atraviesa todo el proceso legislativo antes de ser promulgado como Ley de Suministros (Supply Act). El 13.º Plan de Malasia (RMK13), por ejemplo, se presentó como moción en la Cámara de Representantes (Dewan Rakyat) el 31 de julio de 2025 y en el Senado (Dewan Negara) el 25 de agosto de 2025.
   - q: ¿Proviene del dinero del Gobierno la totalidad de los RM611 mil millones del RMK13?
     a: No. De los al menos RM611 mil millones de inversión del RMK13, solo RM430 mil millones corresponden a la asignación de desarrollo del Gobierno. El resto proviene de RM120 mil millones en inversión directa nacional por parte de Empresas Vinculadas al Gobierno (GLC) y Empresas de Inversión Vinculadas al Gobierno (GLIC), más RM61 mil millones mediante el esquema de asociación público-privada (PPP).
+framework: explainer
 ---
 
 El 31 de julio de 2025, el Primer Ministro presentó ante la Cámara de

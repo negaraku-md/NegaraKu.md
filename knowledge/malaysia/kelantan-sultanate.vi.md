@@ -60,6 +60,7 @@ social:
   hashtags: ["KelantanSultanate", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded:
   - "Năm chính xác Long Yunus lên ngôi Kelantan được đưa ra khác nhau giữa các nguồn (khoảng 1760, 1763, 1764 và khoảng 1774 đều xuất hiện); bài viết này dùng 「thập niên 1760」 và cần được hòa giải với một nghiên cứu lịch sử chuyên biệt trước khi khẳng định bất kỳ năm cụ thể nào."
+framework: history-culture
 ---
 
 Trên vai đông bắc của Bán đảo Mã Lai, nơi các con sông chảy xuống Biển Đông và bờ biển từng hướng về vương quốc Patani cổ cũng nhiều như hướng về vùng lõi Mã Lai, một ngai vàng được rèn ra từ nội chiến. Người sáng lập nó không sinh ra đã là vua. Ông là một thủ lĩnh quân sự gốc Patani đã trụ lâu hơn các đối thủ của mình, và vương triều ông khởi đầu — Vương tộc Long Yunus — vẫn trị vì ở Kelantan ngày nay, hơn hai thế kỷ rưỡi sau.

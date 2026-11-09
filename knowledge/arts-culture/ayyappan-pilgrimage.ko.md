@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["hinduism-in-malaysia", "thaipusam", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community", "navaratri"]
 keywords: ["ஐயப்பன் வழிபாடு", "சபரிமலை விரதம்", "மண்டல விரதம்", "இருமுடிக் கட்டு", "மலேசிய ஐயப்பன் கோயில்", "சுவாமியே சரணம் ஐயப்பா", "Ayyappan", "Sabarimala"]
+framework: history-culture
 ---
 
 한 해가 저무는 몇 달 동안, 말레이시아의 여러 고장에서 한 광경이 눈에 띈다. 검은색 또는 파란색 옷을 입고 목에 루드라크샤 말라를 걸친 채 수염을 기른 남자들이 서로를 "스와미"라고 부른다. 이들은 아야판 서원을 지키는 사람들이며, 그 가운데 다수는 케랄라주의 사바리말라로 떠날 준비를 하고 있다. 이 글은 그 신앙과 서원의 전통을 중립적으로 서술한다. 어떤 믿음도 해설하거나 평가하지 않는다.

@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "registering-a-civil-marriage" }
 related: ["registering-a-marriage-civil", "syariah-court-system"]
 keywords: ["muslim marriage malaysia", "nikah registration", "SPPIM", "wali hakim", "kursus pra perkahwinan", "akad nikah", "syariah court marriage", "islamic family law act 303"]
+framework: how-to
 ---
 
 Dua orang sudah bersedia untuk berkahwin, kedua-dua keluarga telah bertemu, dan tarikh telah ditetapkan — tetapi di Malaysia sesuatu perkahwinan Islam tidak menjadi perkahwinan yang berdaftar sehingga ia melalui satu proses pentadbiran dan keagamaan yang tertakrif yang dikendalikan oleh negeri. Islam ialah perkara negeri di bawah Perlembagaan Persekutuan, jadi setiap negeri dan Wilayah-Wilayah Persekutuan mempunyai enakmen undang-undang keluarga Islam sendiri dan Jabatan Agama Islam Negeri sendiri. Langkah-langkah di bawah adalah lebih kurang sama di seluruh negara; undang-undang Wilayah-Wilayah Persekutuan, iaitu Akta Undang-Undang Keluarga Islam (Wilayah-Wilayah Persekutuan) 1984 (Akta 303), digunakan di sini untuk rujukan statutori yang tepat.

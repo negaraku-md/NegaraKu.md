@@ -104,6 +104,7 @@ keywords:
   - "winding up petition unpaid debt Malaysia"
   - "limitation period debt Malaysia"
   - "tuntutan hutang syarikat"
+framework: how-to
 ---
 
 Hầu hết lời khuyên về việc thu hồi một khoản nợ thương mại Malaysia sụp đổ thành một từ:

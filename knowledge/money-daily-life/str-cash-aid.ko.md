@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "mykad" }
 related: ["program-rahmah-cost-of-living", "i-saraan-epf-voluntary-contribution", "lhdn", "income-tax-individuals", "mykad"]
 keywords: ["Sumbangan Tunai Rahmah", "STR", "bantuan tunai kerajaan Malaysia", "MySTR", "bantuantunai.hasil.gov.my", "semakan STR", "permohonan STR", "bantuan kos sara hidup Malaysia"]
+framework: how-to
 ---
 
 많은 사람이 뉴스나 은행 입금 이야기를 하는 이웃에게서 'STR'이라는 이름을 압니다. 그들의 오래된 계정이 이미 유효하지 않을 수 있다는 것, 또는 채워야 할 양식이 일반 세금 양식이 아니라는 것 — 당신의 소득세를 관리하는 같은 기관이 이를 관리함에도 — 을 아는 사람은 더 적습니다.

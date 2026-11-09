@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "going-concern-audit" }
 related: ["statutory-audit-process", "audit-opinion-types", "going-concern-audit"]
 keywords: ["related party transactions", "ISA 550", "MFRS 124", "arm's length", "Bursa Chapter 10", "recurrent related party transactions", "audit risk"]
+framework: explainer
 ---
 
 Sebuah syarikat menjual minyak sawit mentah kepada syarikat lain yang dimiliki oleh pemegang saham utamanya sendiri. Tiada apa-apa pada invois itu yang menunjukkan sama ada ia merupakan pengaturan bekalan biasa atau langkah pertama untuk menyalirkan nilai daripada pemegang saham minoriti. Tugas juruaudit adalah untuk mengetahui yang mana satu — dan itulah tepatnya tujuan Piawaian Antarabangsa mengenai Pengauditan 550, *Pihak Berkaitan*, ditulis.

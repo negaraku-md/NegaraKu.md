@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "close-a-company" }
 related: ["statutory-registers", "registered-office", "close-a-company", "annual-return"]
 keywords: ["daftar gadaian Malaysia", "seksyen 352 Akta Syarikat 2016", "pendaftaran gadaian 30 hari SSM", "gadaian tidak didaftar terbatal pelikuidasi", "daftar gadaian syarikat", "seksyen 362 daftar gadaian"]
+framework: rules
 ---
 
 Daripada semua tempoh akhir dalam Akta Syarikat 2016, s.352 ialah tempoh akhir

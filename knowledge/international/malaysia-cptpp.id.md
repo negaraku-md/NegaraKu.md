@@ -80,6 +80,7 @@ relations:
   - { rel: "affects", to: "bumiputera-equity-requirements" }
 related: ["external-trade", "matrade", "anti-dumping-countervailing-duties", "bumiputera-equity-requirements"]
 keywords: ["CPTPP Malaysia", "Trans-Pacific Partnership Malaysia", "CPTPP ratification", "CPTPP certificate of origin", "CPTPP tariff elimination", "CPTPP members", "Malaysia free trade agreement"]
+framework: explainer
 ---
 
 Seorang eksportir permen Malaysia yang mengirim produk ke Vancouver berhenti membayar bea impor 15% pada hari CPTPP berlaku — dan satu baris tarif itu saja merupakan jendela kecil ke salah satu perjanjian perdagangan paling luas yang pernah ditandatangani Malaysia. Perjanjian Komprehensif dan Progresif bagi Kemitraan Trans-Pasifik menyusun ulang cara barang, jasa dan investasi Malaysia bergerak lintas belasan ekonomi di kedua sisi Pasifik. Ia juga mengikat Malaysia kepada aturan yang menjangkau jauh melampaui loket bea cukai — ke cara perusahaan milik negara bersaing, cara kekayaan intelektual ditegakkan, dan cara sengketa dengan investor asing diselesaikan.

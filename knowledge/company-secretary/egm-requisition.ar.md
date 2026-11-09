@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "remove-a-director" }
 related: ["remove-a-director", "agm-requirements", "resolution-notice-periods", "written-resolutions"]
 keywords: ["طلب عقد اجتماع عام غير عادي ماليزيا", "EGM requisition Malaysia", "المادة 311 قانون الشركات 2016", "section 311 Companies Act 2016", "المساهمون يدعون إلى اجتماع", "طلب 10 بالمئة", "اجتماع المساهم الأقلية"]
+framework: how-to
 ---
 
 تكتب كل شركة أمانة سرّ ماليزية عن الاجتماعات من جانب المجلس، لأن المجلس هو العميل.

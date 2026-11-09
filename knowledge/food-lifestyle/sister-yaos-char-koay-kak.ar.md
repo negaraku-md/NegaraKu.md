@@ -78,6 +78,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["CharKoayKak", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 ‏char koay kak طبق يعرفه أهل عالم الباعة الجائلين — مكعّبات كعكة أرز محمّرة في

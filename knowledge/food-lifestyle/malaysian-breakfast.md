@@ -92,6 +92,7 @@ verificationNeeded:
   - "The etymology of 'roti canai' is contested (one account traces it to Chennai/Madras, another to the Malay 'canai' meaning to flatten or roll the dough); confirm with a linguistic or lexicographic source rather than food media."
   - "The popular account that teh tarik emerged from Indian-Muslim stall culture in the post-war period is not firmly documented; confirm the drink's origin and timeline with a historical source."
   - "The attribution of the kopitiam tradition to Hainanese Chinese cooks and the claim that kaya toast with soft-boiled eggs is its defining breakfast should be confirmed with a Malaysian culinary or heritage source, as some of this history is shared and contested with Singapore."
+framework: history-culture
 ---
 
 Ask what Malaysians eat for breakfast and the honest answer is: it depends on

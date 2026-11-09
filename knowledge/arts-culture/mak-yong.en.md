@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["wayang-kulit", "batik"]
 keywords: ["Mak Yong", "teater tarian tradisional", "warisan budaya tidak ketara", "UNESCO Malaysia", "rebab", "Kelantan", "Pak Yong", "Mengadap Rebab"]
+framework: history-culture
 ---
 
 The first sound doesn't come from a performer. It comes from a pear-shaped piece of wood with three strings — a rebab — bowed slowly at the edge of an open wooden stage. The audience sits on three sides. The roof is palm thatch. And before a single line of dialogue is spoken, a princess has already bowed toward the instrument in a dance whose name alone explains everything: **Mengadap Rebab**.

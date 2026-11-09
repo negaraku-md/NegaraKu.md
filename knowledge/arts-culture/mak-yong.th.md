@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["wayang-kulit", "batik"]
 keywords: ["Mak Yong", "teater tarian tradisional", "warisan budaya tidak ketara", "UNESCO Malaysia", "rebab", "Kelantan", "Pak Yong", "Mengadap Rebab"]
+framework: history-culture
 ---
 
 เสียงแรกไม่ได้มาจากนักแสดง มันมาจากไม้รูปทรงลูกแพร์ที่มีสายสามเส้น — เรอบับ (rebab) — ที่ถูกสีอย่างช้า ๆ ที่ริมเวทีไม้เปิดโล่ง ผู้ชมนั่งอยู่สามด้าน หลังคาเป็นใบปาล์ม และก่อนที่บทสนทนาสักคำจะถูกเปล่งออกมา เจ้าหญิงคนหนึ่งได้ค้อมกายเข้าหาเครื่องดนตรีนั้นในการรำที่ชื่อของมันเองอธิบายทุกอย่าง กล่าวคือ **เมิงาดับเรอบับ (Mengadap Rebab, การค้อมเข้าหาเรอบับ)**

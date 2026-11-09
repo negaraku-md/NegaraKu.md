@@ -66,6 +66,7 @@ relations:
   - { rel: "administered-by", to: "perkeso" }
 related: ["labour-law-map-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "payroll-compliance-malaysia", "payroll-rates-deadlines-malaysia", "epf-foreign-workers-malaysia", "new-hire-statutory-checklist"]
 keywords: ["EPF SOCSO EIS Malaysia", "statutory contributions employer Malaysia", "KWSP PERKESO employer", "caruman KWSP majikan", "payroll statutory Malaysia"]
+framework: journey-hub
 ---
 
 Employers keep calling this one obligation. It is three, and they do not share a

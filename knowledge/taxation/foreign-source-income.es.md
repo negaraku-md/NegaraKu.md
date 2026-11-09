@@ -129,6 +129,7 @@ relations:
   - { rel: "compares-with", to: "capital-gains-tax" }
 related: ["income-tax-in-malaysia", "company-tax-residence", "capital-gains-tax", "labuan-tax-regime", "corporate-tax-rates"]
 keywords: ["renta de fuente extranjera Malasia", "foreign source income Malaysia", "exención FSI Malasia", "FSI exemption Malaysia", "exención dividendos extranjeros", "foreign dividend exemption Malaysia", "P.U.(A) 235/2022", "sustancia económica FSI Malasia", "economic substance Malaysia FSI", "impuesto sobre remesas Malasia", "remittance tax Malaysia"]
+framework: rules
 ---
 
 Lee la fecha de caducidad en el Boletín, no en un blog. A 14 de agosto de 2026, la

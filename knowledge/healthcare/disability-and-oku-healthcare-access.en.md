@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "public-healthcare-system" }
 related: []
 keywords: ["OKU", "kad OKU", "penjagaan kesihatan OKU", "PDK", "pemulihan dalam komuniti", "alat bantuan", "JKM", "KKM", "EPOKU", "BTB"]
+framework: explainer
 ---
 
 A single plastic card determines whether a child with autism receives early therapy, or whether an adult who has lost a leg can afford a prosthetic. In Malaysia, that OKU card is the gateway to almost every service and form of aid designed for persons with disabilities — and understanding how it works saves time, money and delayed treatment.

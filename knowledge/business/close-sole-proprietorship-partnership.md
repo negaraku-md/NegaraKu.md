@@ -75,6 +75,7 @@ social:
     - SoleProprietor
     - DoingBusinessInMalaysia
     - MalaysiaTax
+framework: how-to
 ---
 
 Registering a sole proprietorship or partnership takes ten minutes on the ezBiz portal, so most people assume that closing one is just as informal — you stop trading and it quietly lapses. It does not. A business registered under the **Registration of Businesses Act 1956** stays on SSM's register until you actively terminate it, and while it sits there it keeps needing renewal, exposes you to penalties, and can be revoked by the Registrar. There is a proper way to close it, it is free, and there is a clock on it.

@@ -74,6 +74,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
 related: []
 keywords: ["kertas putih kesihatan", "reformasi kesihatan", "pembiayaan kesihatan", "KKM", "insurans kesihatan nasional", "Rakan KKM"]
+framework: explainer
 ---
 
 Klinik pemerintah menampung hampir dua pertiga kunjungan pasien rawat jalan nasional — tetapi hanya mewakili sekitar satu dari empat fasilitas perawatan primer. Ketidakseimbangan inilah, antara lain, yang mendorong Kementerian Kesehatan Malaysia (KKM) menulis dokumen kebijakan paling penting dalam satu generasi: Kertas Putih Kesihatan.

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "gunung-tahan" }
 related: ["orang-asli"]
 keywords: ["تامان نيغارا", "كوالا تاهان", "ممر المظلة", "جبل تاهان", "حديقة وطنية ماليزيا", "taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
+framework: explainer
 ---
 
 وأنت واقف عند رصيف كوالا تاهان عند الفجر، تراقب الضباب يتصاعد عن نهر أقدم من جبال الهيمالايا، يسهل أن تنسى أنك لا تبعد عن كوالالمبور سوى نصف يوم. ليست تامان نيغارا معلماً مصطنعاً. إنها غابة مطيرة استوائية حية ظلّت قائمة، دون أن تُمَس في الجملة، على مدى عشرات الملايين من السنين — والدخول إليها أرخص وأيسر مما يتوقعه كل مسافر تقريباً.

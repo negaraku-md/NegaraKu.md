@@ -106,6 +106,7 @@ keywords:
   - "cukai SFZ Forest City"
   - "Pulau 1 Forest City"
   - "zon kewangan khas Forest City"
+framework: explainer
 ---
 
 Dua skema terletak di sepanjang pantai Johor yang sama, dan hampir setiap ringkasan yang ditulis

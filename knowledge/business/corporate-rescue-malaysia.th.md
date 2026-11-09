@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "debt-recovery-malaysia" }
 related: ["close-a-company", "creditors-voluntary-winding-up", "members-voluntary-winding-up", "strike-off-company-malaysia", "company-director-requirements"]
 keywords: ["corporate rescue malaysia", "judicial management malaysia", "scheme of arrangement section 366", "corporate voluntary arrangement", "restraining order section 368", "companies amendment act 2024 rescue"]
+framework: decision
 ---
 
 ถามเนื้อหาธุรกิจของมาเลเซียส่วนใหญ่ว่าจะทำอย่างไรกับบริษัทที่ไม่สามารถชำระหนี้ได้ แล้วคุณจะได้คำตอบเดียว: ปิดมัน Companies Act 2016 สร้างทั้งหมวดสำหรับคำตอบอีกทาง และ Companies (Amendment) Act 2024 สร้างส่วนใหญ่ของมันขึ้นใหม่ แทบไม่มีสิ่งนั้นถึงหน้าที่ผู้ก่อตั้งอ่านจริง

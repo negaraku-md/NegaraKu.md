@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "malaysia-homestay-programme" }
 related: []
 keywords: ["Malaysia UNESCO World Heritage", "heritage tourism Malaysia", "homestay programme Malaysia", "George Town Melaka", "mosque etiquette Malaysia", "cultural tourism"]
+framework: explainer
 ---
 
 Sáu địa điểm trong một quốc gia nay mang dấu ấn của UNESCO — và bạn có thể đi dạo qua một quảng trường thuộc địa Hà Lan hàng thế kỷ tuổi vào buổi sáng và đứng bên trong một hang động rộng lớn của Borneo sau một chuyến bay. Di sản của Malaysia không phải một bảo tàng để bạn ngắm nhìn; nó là một con phố sống động mà bạn có thể ăn, ngủ và cầu nguyện xuyên qua nó.

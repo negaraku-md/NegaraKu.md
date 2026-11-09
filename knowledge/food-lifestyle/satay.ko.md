@@ -90,6 +90,7 @@ keywords:
   - "charcoal grilled skewers"
 social:
   hashtags: ["#Satay", "#SatayKajang", "#SatayCelup", "#MalaysianFood", "#Malaysia"]
+framework: explainer
 ---
 
 먼저 소리가 온다: 벌겋게 달아오른 숯불 고랑 위로 부채가 부쳐지고, 떨어지는 기름이 치익

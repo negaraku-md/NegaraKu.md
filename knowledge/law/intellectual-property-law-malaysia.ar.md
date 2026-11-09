@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: ["trademark-registration-malaysia"]
 keywords: ["الملكية الفكرية ماليزيا", "intellectual property Malaysia", "تسجيل العلامة التجارية", "trademark registration Malaysia", "براءة اختراع ماليزيا", "حق المؤلف ماليزيا", "MyIPO", "Trademarks Act 2019", "Patents Act 1983", "Copyright Act 1987"]
+framework: explainer
 ---
 
 شعار، أو صيغة، أو قطعة من الشِّفرة البرمجية، أو اسم علامة تجارية — لحظة أن يبدأ أيٌّ منها في جني المال، يصبح لدى شخص آخر سبب لنسخه. ويمنحك القانون الماليزي وسيلة لتقول «هذا ملكي، وهذه هي الوثيقة التي تثبته». والمشكلة أن الأنواع الرئيسية الثلاثة للملكية الفكرية تعمل بثلاث طرق مختلفة تمامًا، وأن إساءة التعامل مع أحدها قد تكلّف الأعمال أثمن أصولها.

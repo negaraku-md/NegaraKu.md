@@ -73,6 +73,7 @@ keywords:
   - "CDL lesen memandu kompeten"
   - "ujian JPJ KPP"
   - "sistem KEJARA mata demerit"
+framework: explainer
 ---
 
 多数人把「驾驶执照」当成单一一份文件。实际上它是三张各自独立的驾照——L、P 与 CDL——由严格的时限串连起来，再加上一套扣分制度，能在 P 驾照还未来得及转成全牌之前，就将它即刻撤销。以下是这套流程实际的运作方式，根据 JPJ 官方门户网站与马来西亚政府官方门户网站（Portal Rasmi Kerajaan Malaysia）。

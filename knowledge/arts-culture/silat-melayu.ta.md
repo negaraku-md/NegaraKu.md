@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["silat", "silat melayu", "seni silat", "silat pulut", "silat gayung", "PESAKA", "warisan budaya tidak ketara", "UNESCO Malaysia", "seni bela diri", "silat harimau"]
+framework: history-culture
 ---
 
 ஒரு திறமையான சிலாட் வீரர் (pesilat) எதிரியின் எலும்பை முறிக்க முடியும் — அல்லது யாரையும் தொடாமல் மணமகள் முன் நடனமாடவும் முடியும். இரண்டுமே சிலாட்தான். இக்கலையைப் பற்றிப் புரிந்துகொள்ள மிகக் கடினமானது இதுவே: இது வெறும் சண்டையிடும் முறையும் அல்ல, வெறும் விழா நடனமும் அல்ல. இது ஒரே உடலில், ஒரே அடிச்சுவடுகளால் இயக்கப்படும், இரண்டுமே ஆகும்.

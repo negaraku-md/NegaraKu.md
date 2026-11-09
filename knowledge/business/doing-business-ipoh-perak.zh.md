@@ -98,6 +98,7 @@ keywords:
   - "Perak industrial land price"
   - "Perak GDP"
   - "Ipoh cost of doing business"
+framework: profile
 ---
 
 这一页是刻意写短的。霹雳的法律制度与雪兰莪相同，它的地方政府公布的资料很少，而诚实

@@ -84,6 +84,7 @@ relations:
   - { rel: "compares-with", to: "double-deduction-list" }
 related: ["double-deduction-list", "corporate-tax-rates", "losses-and-group-relief"]
 keywords: ["reinvestment allowance Malaysia", "Schedule 7A qualifying project", "RA 60% capital expenditure", "reinvestment allowance 15 years", "RA claim rejected audit"]
+framework: rules
 ---
 
 재투자공제는 사전에 거부되기보다 세무조사에서 훨씬 더 자주 실패하며, 돈을 쓰지 않아서

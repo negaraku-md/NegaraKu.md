@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "domestic-inquiry-malaysia" }
 related: ["labour-law-map-malaysia", "termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
 keywords: ["الفصل التعسفي في ماليزيا", "المادة 20 قانون العلاقات الصناعية", "تقديم مطالبة الفصل خلال 60 يومًا", "المحكمة الصناعية في ماليزيا", "سقف الأجور المتأخرة 24 شهرًا", "التعويض بدل الإعادة إلى العمل", "unfair dismissal malaysia", "section 20 industrial relations act"]
+framework: how-to
 ---
 
 ستون يومًا. تلك هي اللعبة كلها، وهناك تموت معظم مطالبات الفصل التعسفي الماليزية —

@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik", "borneo-indigenous-languages"]
 keywords: ["masakan Peranakan Nyonya", "masakan pantai timur Kelantan Terengganu", "masakan Sarawak Sabah", "masakan Mamak nasi kandar", "kari debal Kristang", "budaya sarapan Malaysia UNESCO"]
+framework: explainer
 ---
 
 Hỏi mười người Malaysia "ẩm thực Malaysia" là gì, và bạn có thể nhận được mười tấm bản đồ khác nhau. Một người từ Kota Bharu sẽ bắt đầu với nasi kerabu màu xanh và budu; một người từ Kuching sẽ nhắc đến laksa Sarawak và kolo mee; một người từ Melaka có thể nói về ayam pongteh Nyonya hoặc kari debal [Kristang](/vi/arts-culture/kristang-eurasian-culture); và một người nữa sẽ chỉ thẳng đến quầy mamak ở cuối đường. Không ai trong số họ sai. Malaysia không có một nền ẩm thực quốc gia đơn lẻ — nó có cả một gia đình các căn bếp phát triển ở các vùng và cộng đồng khác nhau, rồi dành hàng thế kỷ vay mượn lẫn nhau.

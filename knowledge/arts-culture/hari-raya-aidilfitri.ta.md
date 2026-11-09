@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-malaysia" }
 related: ["balik-kampung", "kampung", "public-holidays-malaysia", "religion-statistics"]
 keywords: ["Hari Raya Aidilfitri", "1 Syawal", "balik kampung", "duit raya", "rumah terbuka", "ziarah kubur", "zakat fitrah", "cuti umum Aidilfitri"]
+framework: history-culture
 ---
 
 ரமலானின் கடைசி இரவில், நாடு முழுவதும் ஒரே நேரத்தில் நகர்வது போலத் தோன்றுகிறது. வடக்கு–தெற்கு நெடுஞ்சாலை (North–South Expressway) மணிக்கணக்கில் நெரிசலில் சிக்குகிறது, பேருந்து நிலையங்கள் பைகளும் குயி (kuih) டப்பாக்களும் நிறைந்திருக்கின்றன, மேலும் நகரங்களிலிருந்து கிராமங்களின் (kampung) தொலைதூர மூலைகள் வரை வீட்டுத் திண்ணைகளில் பெலிட்டா (pelita) விளக்குகள் எரிகின்றன. மறுநாள், 1 ஷவ்வால், ஒரு மாத நோன்பு நிறைவடைகிறது — மேலும் மலேசியா ஹரி ராயா ஐதில்ஃபித்ரியைக் கொண்டாடுகிறது.

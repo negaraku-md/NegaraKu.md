@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-malaysia" }
 related: ["religion-statistics", "public-holidays-malaysia", "batik"]
 keywords: ["deepavali malasia", "festival de las luces malasia", "festival hindú malasia", "deepavali feriado público", "deepavali sarawak", "hari deepavali", "diwali malasia"]
+framework: history-culture
 ---
 
 Por una noche, es la lámpara la que habla. Se disponen hileras de pequeñas lámparas de arcilla a lo largo de puertas y alféizares, se traza en el umbral un dibujo de suelo hecho con arroz o polvo de colores, y una casa que una hora antes estaba a oscuras queda perfilada por las llamas. De ahí toma el festival su nombre: *Deepavali* viene del sánscrito «una hilera o serie de luces».

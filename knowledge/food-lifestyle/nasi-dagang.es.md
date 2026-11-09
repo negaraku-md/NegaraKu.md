@@ -94,6 +94,7 @@ verificationNeeded:
   - "Si el curri de Kelantan difiere de forma significativa del gulai ikan tongkol de Terengganu, y el pescado estándar: la mayoría de las fuentes nombran el atún (ikan tongkol / aya), citándose también la caballa (mackerel) y el tenggiri. Confírmese con una fuente local."
   - "La etimología de 'arroz del comerciante' y las leyendas de origen (comerciantes bugis o pescadores que lo llevaban al mar): circulan ampliamente pero están documentadas de forma imprecisa; confírmense con una fuente histórica o lexicográfica."
   - "La inclusión como comida del patrimonio nacional en 2009: confírmense el año y el organismo que la inscribió con un registro primario de Jabatan Warisan Negara o JKKN."
+framework: explainer
 ---
 
 Pide el desayuno en la costa este de Malasia y es posible que te entreguen un pequeño paquete de

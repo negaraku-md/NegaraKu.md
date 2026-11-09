@@ -107,6 +107,7 @@ relations:
   - { rel: "compares-with", to: "capital-allowances" }
 related: ["double-deduction-list", "capital-allowances", "section-33-deductibility", "tax-incentives-directory"]
 keywords: ["approved research allowance malaysia", "r&d double deduction malaysia", "section 34a income tax act", "section 34b double deduction", "r&d status mida", "borang 1 r&d lhdn"]
+framework: explainer
 ---
 
 승인연구공제에 관해 세 명의 자문가에게 물으면 세 가지 답변을 얻게 되는데, 그런 세제 혜택이 존재하지 않기 때문입니다. 소득세법 1967(Income Tax Act 1967)의 어디에도 그 표현은 쓰이지 않습니다. 존재하는 것은 서로 다른 승인 경로와 서로 다른 기한을 가진 세 가지 별개의 공제, 그리고 MIDA가 운영하는 전혀 다른 네 번째 제도입니다. 이들을 혼동하는 것이 바로 기업이 뒷받침할 수 없는 이중 공제를 안게 되는 경위입니다.

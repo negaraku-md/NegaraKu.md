@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "prescribed-activities-eia-order-2015" }
 related: ["environmental-quality-act-1974"]
 keywords: ["EIA Malaysia", "environmental impact assessment", "prescribed activities", "Section 34A", "Order 2015", "Department of Environment", "First Schedule", "Second Schedule", "public display", "पर्यावरणीय प्रभाव आकलन", "निर्धारित गतिविधियाँ", "धारा 34A"]
+framework: rules
 ---
 
 बिना हरी झंडी के ग़लत प्रकार की परियोजना पर ज़मीन तोड़ें, और आप केवल जुर्माने का सामना नहीं करते — आपको रुकने के लिए मजबूर किया जा सकता है जबकि आपकी पूँजी निष्क्रिय पड़ी रहे। मलेशिया में, «निर्धारित गतिविधियों» की एक परिभाषित सूची तब तक कानूनी रूप से शुरू नहीं हो सकती जब तक एक पर्यावरणीय प्रभाव आकलन (EIA) रिपोर्ट पर्यावरण महानिदेशक को प्रस्तुत न हो जाए, और उससे मंज़ूर न हो जाए। विकासकर्ताओं और निवेशकों के लिए, EIA योजना के अंत में काग़ज़ी काम नहीं है; यह शुरुआत में एक द्वार है।

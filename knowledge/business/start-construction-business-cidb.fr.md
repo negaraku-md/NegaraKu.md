@@ -82,6 +82,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaConstruction
     - ContractorMalaysia
+framework: how-to
 ---
 
 Vous pouvez enregistrer une société en un après-midi, mais cette société ne peut toujours pas légalement couler une dalle, câbler un bâtiment ni soumissionner pour un contrat routier tant qu'elle n'a pas une seconde licence, distincte. En Malaisie, la construction est un métier réglementé : la *société* est enregistrée auprès de la SSM, et l'*entrepreneur* est enregistré auprès de la CIDB. Sautez la seconde étape et le premier chantier que vous acceptez est une infraction pénale, pas un contrat.

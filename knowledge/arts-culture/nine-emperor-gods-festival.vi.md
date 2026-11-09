@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "chinese-religion-in-malaysia" }
 related: ["chinese-religion-in-malaysia", "buddhism-in-malaysia", "hungry-ghost-festival", "religion-statistics"]
 keywords: ["九皇爷诞", "九皇大帝", "九皇胜会", "斗母元君", "食斋", "斋戒", "请水", "送驾", "过火", "安邦南天宫", "香港巷斗母宫", "Nine Emperor Gods Festival", "Kaw Ong Ya"]
+framework: history-culture
 ---
 
 Vào đêm trước mùng 1 tháng Chín âm lịch, một hàng tín đồ mặc áo trắng thắt dải vàng ngang lưng, tay cầm hương, nối nhau ra khỏi miếu, hướng về con sông hoặc bờ biển gần nhất. Phía trước là chiêng trống, phía sau là khói hương — họ đi 'thỉnh nước', 'nghênh giá', để cung thỉnh Cửu Hoàng Đại Đế về miếu. Suốt chín ngày tiếp theo, trong miếu hương khói không dứt, ngoài miếu thoảng mùi đồ chay; đến đêm mùng 9, chính hàng người ấy lại xếp thành đoàn ra bờ nước để tiễn thần về.

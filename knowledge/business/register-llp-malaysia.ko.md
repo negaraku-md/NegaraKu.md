@@ -116,6 +116,7 @@ keywords:
   - "PLT Perkongsian Liabiliti Terhad"
   - "LLP registration fee RM500"
   - "LLP annual declaration"
+framework: how-to
 ---
 
 준법감시인은 모두가 잘못 이해하는 부분입니다.

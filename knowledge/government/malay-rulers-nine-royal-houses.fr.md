@@ -85,6 +85,7 @@ relations:
   - { rel: "explained-in", to: "federal-constitution-malaysia" }
 related: ["yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["raja melayu", "sultan", "yang di-pertuan besar", "raja perlis", "pewarisan takhta", "raja berperlembagaan", "adat perpatih", "perlembagaan negeri", "majlis raja-raja"]
+framework: explainer
 ---
 
 Derrière une Fédération unique, la Malaisie abrite neuf trônes plus anciens que la nation elle-même. Chacun a son propre palais, ses coutumes de succession et sa constitution d'État, et chaque Souverain gouverne son État comme un monarque constitutionnel — non comme un souverain absolu.

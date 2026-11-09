@@ -74,6 +74,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
 related: []
 keywords: ["kertas putih kesihatan", "reformasi kesihatan", "pembiayaan kesihatan", "KKM", "insurans kesihatan nasional", "Rakan KKM"]
+framework: explainer
 ---
 
 政府诊所承接了将近三分之二的全国门诊就诊量——但它们只占约四分之一的初级医疗设施。正是这种失衡（连同其他因素），促使马来西亚卫生部（KKM）撰写了一代人以来最重要的政策文件：医疗卫生白皮书。

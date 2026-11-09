@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "kinabatangan-floodplain" }
 related: ["sabah"]
 keywords: ["Bornean orangutan", "Sabah", "Wildlife Conservation Enactment 1997", "Sepilok", "Kinabatangan", "habitat protection", "totally protected species", "wildlife corridor"]
+framework: explainer
 ---
 
 A wild orangutan needs a lot of forest, and a connected forest. In the lowlands of eastern Sabah, that has become the rarest thing of all: the trees that once let an ape travel for kilometres without touching the ground now stop at the edge of an oil palm estate. Whether the Bornean orangutan survives in this landscape is, in large part, a question of law, land, and corridors.

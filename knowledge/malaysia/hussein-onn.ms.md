@@ -76,6 +76,7 @@ verificationNeeded:
   - "Sahkan tarikh tepat (keperdanaan, kelahiran, kematian) dengan Perdana Leadership Foundation dan PMO."
   - "Tarikh dan tempat kematian berbeza merentasi sumber: Perdana Leadership Foundation dan kotak info Wikipedia memberikan 29 Mei 1990 (Kawasan Teluk San Francisco, California), manakala Encyclopædia Britannica merekodkan 28 Mei 1990 di Daly City, California, dan badan rencana Wikipedia memetik Seton Medical Center, Daerah San Mateo — selaraskan sebelum penerbitan."
   - "Tentang pemilihan timbalan: Mahathir Mohamad dilantik sebagai Timbalan Perdana Menteri pada 1976, tetapi sesetengah riwayat (contohnya Wikipedia) melaporkan Ghazali Shafie ialah calon pilihan peribadi Hussein Onn — sahkan bagaimana pelantikan itu dicirikan."
+framework: profile
 ---
 
 Sedikit pemimpin Malaysia yang memikul warisan seberat Hussein Onn. Beliau

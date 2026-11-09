@@ -207,6 +207,7 @@ keywords:
   - "company secretary 30 days"
   - "senarai semak pematuhan syarikat baharu"
   - "post incorporation Malaysia"
+framework: journey-hub
 ---
 
 注册公司是一笔交易，合规却是一份长期订阅。

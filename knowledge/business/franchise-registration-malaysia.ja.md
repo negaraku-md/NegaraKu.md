@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: []
 keywords: ["franchise registration malaysia", "franchise act 1998", "MyFEX 2.0", "franchisor registration", "franchisee registration", "franchise disclosure document", "section 6 franchise act", "section 54 approval"]
+framework: how-to
 ---
 
 マレーシアでは、世界の大半の地域でよく見られるやり方——まず静かにいくつかの店舗と契約し、後から手続きを整える——でフランチャイズを合法的に提供することはできない。法律はこの順序を逆転させている。登録は最初の要約に先立って行われ、2022年以降はフランチャイジーにも適用される。

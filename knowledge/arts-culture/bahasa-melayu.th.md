@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: ["federal-constitution", "melaka-sultanate", "independence-1957"]
 keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Kebangsaan 1963/67", "tulisan Jawi Rumi", "Ejaan Rumi Baharu 1972"]
+framework: explainer
 ---
 
 ที่กัวลาเบอรัง (Kuala Berang) ตรังกานู มีการค้นพบจารึกหินก้อนหนึ่งที่บนนั้นสลักคำมลายู — ไม่ใช่ในอักษรที่เรารู้จักในปัจจุบัน แต่ในอักษรอาหรับที่ปรับให้เข้ากับเสียงมลายู ตามหอจดหมายเหตุแห่งชาติมาเลเซีย จารึกนั้นมีอายุ ค.ศ. 1303

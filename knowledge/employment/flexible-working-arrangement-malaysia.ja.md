@@ -72,6 +72,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-act-1955-guide", "working-hours-overtime-malaysia", "employment-contract-malaysia"]
 keywords: ["flexible working arrangement malaysia", "fwa malaysia employment act", "section 60p 60q", "work from home request malaysia", "flexible work application malaysia"]
+framework: rules
 ---
 
 マレーシアにおける柔軟な勤務形態の報道の多くは、これを使用者が任意に提供できる福利厚生として描いている。しかし、その理解はPart XIICの要点を完全に見誤っている。同法は柔軟に働く権利を創設しているのではない。同法が創設しているのは、定められた期間内に書面で**回答する義務**である——そして、その回答が「可」であるか否かにかかわらず、この義務は執行可能である。

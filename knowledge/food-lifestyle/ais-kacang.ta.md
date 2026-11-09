@@ -96,6 +96,7 @@ social:
     - "#MalaysianDessert"
     - "#ShavedIce"
     - "#PasarMalam"
+framework: explainer
 ---
 
 மலேசியாவின் வெப்பமான பிற்பகலில், பனிக்கட்டி சீவும் இயந்திரத்தின் சுழற்சி ஒலியைப்

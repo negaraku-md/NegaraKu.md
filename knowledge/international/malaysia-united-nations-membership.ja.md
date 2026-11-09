@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malaysia PBB", "United Nations Malaysia", "Majlis Keselamatan PBB", "pasukan pengaman", "UNIFIL", "keahlian PBB", "diplomasi Malaysia"]
+framework: explainer
 ---
 
 トゥンク・アブドゥル・ラーマンがムルデカ・スタジアムで「メルデカ（独立）」と叫んでからわずか17日後、マラヤ連邦の国旗がニューヨークの国連本部に掲げられた。1957年9月17日、この若い国家は正式に国際連合（国連）の加盟国として受け入れられた——その誕生とほぼ同時に、世界の舞台でその主権を確認する一歩であった。

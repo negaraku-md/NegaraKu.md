@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#CurryMee", "#Penang", "#SeberangPerai", "#BibGourmand", "#Malaysia"]
+framework: profile
 ---
 
 பினாங்கின் MICHELIN புகழ் பெரும்பாலும் ஜார்ஜ் டவுன் தீவின் தெருக்களில் குழுமியுள்ளது.

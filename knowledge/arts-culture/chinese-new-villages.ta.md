@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["population-composition", "chinese-dialects", "chinese-clan-associations", "chinese-education-in-malaysia", "chinese-new-year"]
 keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划", "Briggs Plan", "马共", "重新安置", "临时地契", "TOL", "Chinese New Villages", "New Villages Malaysia"]
+framework: history-culture
 ---
 
 இன்று செமெனியே, கம்பார் அல்லது செகின்சான் (Sekinchan) போன்ற இடங்களுக்குள் நுழைந்தால், பெரும்பாலும் நீங்கள் காண்பது ஒரு சிறிய நகரத்தின் சாதாரண காட்சிதான்: வரிசையான கடைவீடுகள், ஒரு சீனத் தொடக்கப் பள்ளி, கோயில்களும் சங்கங்களும், சாலையோரக் காபிக்கடைகளும் மளிகைக் கடைகளும். ஆனால் இந்த இடங்களில் பல ஒரு பொதுவான அடையாளத்தைப் பகிர்ந்துகொள்கின்றன — அவை "புதுக் கிராமங்கள்". இந்த சாதாரணமாகத் தோன்றும் பெயருக்குப் பின்னால் மலாயா அவசரகாலம், கிளர்ச்சி ஒடுக்கல், பேரளவிலான இடப்பெயர்வு பற்றிய ஒரு வரலாறு உள்ளது.

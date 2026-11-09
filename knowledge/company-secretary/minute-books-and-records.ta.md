@@ -120,6 +120,7 @@ relations:
   - { rel: "related-to", to: "beneficial-ownership" }
 related: ["statutory-registers", "registered-office", "register-of-members", "annual-return"]
 keywords: ["minute book Malaysia", "section 341 Companies Act 2016", "section 245 accounting records seven years", "document retention Malaysia company", "buku minit syarikat", "board minutes Malaysia Third Schedule"]
+framework: rules
 ---
 
 ஒரு மலேசிய நிறுவனச் செயலாளரிடம் ஒரு கூட்ட நடவடிக்கைப் பதிவேடு எவ்வளவு காலம்

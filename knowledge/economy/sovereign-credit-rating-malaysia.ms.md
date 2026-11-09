@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-government-debt-malaysia" }
 related: []
 keywords: ["Malaysia credit rating", "sovereign rating", "S&P Malaysia", "Moody's Malaysia", "Fitch Malaysia", "A3", "BBB+", "investment grade"]
+framework: explainer
 ---
 
 Apabila Menteri Kewangan Malaysia secara terbuka mengalu-alukan sepucuk surat daripada seorang penganalisis New York, anda tahu tarohannya lebih daripada sekadar simbolik. Satu takuk naik atau turun pada penarafan kredit berdaulat boleh mengubah apa yang dibayar kerajaan untuk meminjam, menular ke dalam kos pembiayaan korporat, dan menarik-narik ringgit. Tiga firma — S&P Global, Moody's dan Fitch — memegang pena itu untuk Malaysia.

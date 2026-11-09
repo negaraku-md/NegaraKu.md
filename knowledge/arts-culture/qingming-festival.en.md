@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-new-year", "hungry-ghost-festival", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["清明节", "Cheng Beng", "扫墓", "拜山", "祭祖", "慎终追远", "金银纸", "纸扎", "后土", "土地公", "灵骨塔", "骨灰龛", "三保山", "Bukit Cina", "富贵山庄", "Qingming Festival", "Tomb-Sweeping Day"]
+framework: history-culture
 ---
 
 One early April morning, families begin to appear along the paths of the cemetery. Some carry buckets and sickles; others carry baskets filled with cooked food, fruit and joss paper. Finding their family's grave, the younger ones set to clearing the weeds and sweeping away the leaves while the elders point out how to repaint, stroke by stroke, the faded characters on the headstone; only once the grave is clean are the offerings laid out, incense lit and respects paid, and finally the joss paper burned on a clear patch of ground nearby. Amid the smoke and flame, another year's Qingming passes.

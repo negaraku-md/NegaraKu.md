@@ -95,6 +95,7 @@ relations:
   - { rel: "compares-with", to: "corporate-tax-rates" }
 related: ["corporate-tax-rates"]
 keywords: ["LLP tax Malaysia", "PLT tax", "limited liability partnership tax rate", "cukai PLT", "LLP vs Sdn Bhd tax", "Form PT"]
+framework: explainer
 ---
 
 La LLP est la forme d'entreprise la plus mal expliquée de Malaisie, et la confusion commence dans la loi elle-même. L'Income Tax Act 1967 définit la **société** (company) comme une personne morale — et n'y **inclut pas** une LLP. Elle définit le **partnership** et en **exclut** expressément une LLP. Une LLP est en revanche saisie par la définition de **personne**, et imposée en son nom propre.

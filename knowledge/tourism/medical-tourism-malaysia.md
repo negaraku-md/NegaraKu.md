@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "tourism-malaysia" }
 related: ["tourism"]
 keywords: ["medical tourism Malaysia", "healthcare travel", "MHTC", "Malaysia Healthcare Travel Council", "JCI hospitals Malaysia", "IVF Malaysia", "cardiac care Malaysia"]
+framework: profile
 ---
 
 An Indonesian family flies into Penang for a heart bypass, a couple from the Gulf comes for IVF, and a retiree from Australia books a full-body screening that would cost three times as much at home. Together they are part of a quiet industry that brought more than 1.6 million people to Malaysia in a single year — not to sightsee, but to get well.

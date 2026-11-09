@@ -71,6 +71,7 @@ social:
     - OnlineSeller
     - SSM
     - MicroEntrepreneur
+framework: how-to
 ---
 
 Anda membakar biskut, menjual semula produk penjagaan kulit, atau melakukan dropship sarung telefon dari bilik simpanan anda, dan jualannya nyata. Di suatu tempat antara pesanan pertama dan kesepuluh, satu persoalan timbul: adakah semua ini *sah*, atau adakah perniagaan dari rumah satu-satunya jenis yang boleh anda… jalankan begitu sahaja? Jawapan jujurnya ialah perniagaan dari rumah tetap sebuah perniagaan — negara mengharapkan pendaftaran yang sama seperti sebuah kedai, ditambah satu kebenaran tambahan yang jarang difikirkan orang: keizinan daripada pihak berkuasa tempatan anda untuk menjalankan perniagaan dari sebuah rumah langsung.

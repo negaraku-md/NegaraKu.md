@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "e-hailing-grab" }
 related: []
 keywords: ["قابلية المشي في ماليزيا", "ركوب الدراجات في المدن الماليزية", "بنية المشاة في ماليزيا", "الخطة الرئيسية للمشاة والدراجات في KL", "الاعتماد على السيارة في ماليزيا", "التنقل النشط في ماليزيا", "walkability Malaysia", "cycling Malaysia cities", "pedestrian infrastructure Malaysia", "KL Pedestrian and Cycling Masterplan", "car dependency Malaysia", "active mobility Malaysia"]
+framework: explainer
 ---
 
 اخرج من محطة LRT في وادي كلانغ عند الساعة الواحدة ظهراً وحاول أن تمشي

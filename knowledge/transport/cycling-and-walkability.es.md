@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "e-hailing-grab" }
 related: []
 keywords: ["caminabilidad Malasia", "ciclismo ciudades Malasia", "infraestructura peatonal Malasia", "Plan Maestro Peatonal y Ciclista KL", "dependencia del coche Malasia", "movilidad activa Malasia"]
+framework: explainer
 ---
 
 Sal de una estación de LRT del Klang Valley a la 1 de la tarde e intenta

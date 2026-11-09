@@ -129,6 +129,7 @@ keywords:
   - "DBKK business licence"
   - "SSM Sabah sole proprietorship"
   - "business registration Kota Kinabalu"
+framework: how-to
 ---
 
 말레이시아에서 사업체를 등록하는 방법을 다루는 전국 단위 안내서는 모두 EzBiz에 접속해

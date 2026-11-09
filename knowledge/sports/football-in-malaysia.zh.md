@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "malaysia-cup" }
 related: []
 keywords: ["bola sepak malaysia", "piala malaysia", "harimau malaya", "FAM", "liga super", "AFF", "football malaysia"]
+framework: history-culture
 ---
 
 1921年，新加坡在马来亚一项全新足球赛事的决赛中以2比1击败雪兰莪。一个多世纪之后，这项赛事——如今称为马来西亚杯——依然是这个国家最受喜爱运动中最负盛名的桂冠。

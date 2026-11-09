@@ -122,6 +122,7 @@ keywords:
   - "foreign company local agent Malaysia"
   - "branch registration fee SSM"
   - "foreign company annual return Malaysia"
+framework: how-to
 ---
 
 登録費は誰もが予算に組み込む部分である。しかし、それは痛手となる部分ではない。

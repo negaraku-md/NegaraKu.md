@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "employment-pass-malaysia" }
 related: ["moving-to-malaysia-first-steps", "imigresen", "employment-pass-malaysia", "work-passes-malaysia", "opening-bank-account"]
 keywords: ["Dependant Pass", "Long-Term Social Visit Pass", "LTSVP", "تصريح المرافق ماليزيا", "تصريح الزيارة الاجتماعية طويلة الأمد", "كفالة الزوج تأشيرة ماليزيا", "تأشيرة عائلة المغترب ماليزيا", "Employment Pass family"]
+framework: explainer
 ---
 
 يمكن لحامل تصريح العمل (Employment Pass) المنتقل إلى ماليزيا أن يجلب زوجه وأطفاله الصغار على تصريح واحد. أما والداه، أو ابنٌ بلغ للتوّ سن 18 عامًا، فيحتاجون إلى تصريح مختلف تمامًا. الحامل الأساسي نفسه، والأسرة نفسها، لكن فئتان منفصلتان في الهجرة — والخلط بينهما هو أكثر الأسباب شيوعًا لتعثّر طلب كفالة الأسرة.

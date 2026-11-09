@@ -85,6 +85,7 @@ relations:
   - { rel: "explained-in", to: "federal-constitution-malaysia" }
 related: ["yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["raja melayu", "sultan", "yang di-pertuan besar", "raja perlis", "pewarisan takhta", "raja berperlembagaan", "adat perpatih", "perlembagaan negeri", "majlis raja-raja"]
+framework: explainer
 ---
 
 Di balik satu Persekutuan, Malaysia menyimpan sembilan takhta yang lebih tua dari negara itu sendiri. Masing-masing memiliki istana, adat pewarisan dan konstitusi negeri yang tersendiri, dan setiap Raja memerintah negerinya sebagai raja konstitusional — bukan sebagai penguasa mutlak.

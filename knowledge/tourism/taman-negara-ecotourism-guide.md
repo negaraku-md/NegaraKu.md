@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "gunung-tahan" }
 related: ["orang-asli"]
 keywords: ["taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
+framework: explainer
 ---
 
 Standing at the Kuala Tahan jetty at dawn, watching mist lift off a river older than the Himalayas, it is easy to forget you are barely a half-day from Kuala Lumpur. Taman Negara is not a manufactured attraction. It is a living tropical rainforest that has stood, roughly undisturbed, for tens of millions of years — and getting into it is cheaper and simpler than almost any traveller expects.

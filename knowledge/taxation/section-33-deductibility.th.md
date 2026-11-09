@@ -119,6 +119,7 @@ relations:
   - { rel: "related-to", to: "entertainment-expenses" }
 related: ["losses-and-group-relief", "form-c-and-cp204", "withholding-tax-non-compliance"]
 keywords: ["section 33 income tax act", "wholly and exclusively malaysia", "allowable business expenses malaysia", "tax deductible expenses sdn bhd", "section 33(1) deduction", "lhdn disallowed expenses"]
+framework: explainer
 ---
 
 คู่มือการหักรายจ่ายทางธุรกิจของมาเลเซียทุกฉบับเผยแพร่รายการหนึ่ง ค่าเช่า ใช่ เงินเดือน ใช่ ค่ารับรอง ครึ่งหนึ่ง รายการนี้ใช้ได้จนถึงวันที่รายจ่ายมาถึงซึ่งไม่อยู่ในรายการ — การจ่ายเงินให้รัฐบาลของรัฐเพื่อหลุดพ้นจากภาระผูกพัน การศึกษาความเป็นไปได้สำหรับโครงการที่ไม่เคยเกิดขึ้น ภาษีบริการที่บริษัทรับภาระเองแทนที่จะผลักออกไป — แล้วรายการนั้นก็ไร้ค่า เพราะรายการไม่เคยเป็นกฎหมาย

@@ -54,6 +54,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["मलेशिया क्या है", "what is Malaysia", "मलेशिया का संघ", "federation of Malaysia", "13 राज्य 3 संघीय क्षेत्र", "निर्वाचनात्मक राजशाही", "elective monarchy Malaysia", "मलेशिया की संघीय संरचना", "Yang di-Pertuan Agong", "संघीय संविधान", "Federal Constitution"]
+framework: explainer
 ---
 
 मलेशिया एक सरकार वाला कोई एक स्थान नहीं है। यह एक संघ है — एक ऐसा देश जो तेरह राज्यों और तीन संघीय क्षेत्रों को जोड़कर बुना गया है, और जो दो भूभागों पर स्थित है जिनके बीच दक्षिण चीन सागर के कई सौ किलोमीटर की दूरी है। इस संरचना को पहले समझ लेने से इस देश के बारे में लगभग हर दूसरी बात का अनुसरण करना कहीं आसान हो जाता है।

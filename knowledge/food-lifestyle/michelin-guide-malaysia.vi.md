@@ -100,6 +100,7 @@ social:
     - "#Dewakan"
     - "#KualaLumpurFood"
     - "#PenangFood"
+framework: explainer
 ---
 
 Hỏi một tá người nên ăn ở đâu tại Kuala Lumpur hay Penang và bạn sẽ nhận được một tá

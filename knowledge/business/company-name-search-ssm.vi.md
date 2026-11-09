@@ -85,6 +85,7 @@ keywords:
   - "section 26 Companies Act 2016 name"
   - "SSM controlled words company name"
   - "company name rejected SSM"
+framework: rules
 ---
 
 Lý do phổ biến nhất khiến một tên bị từ chối không phải là ai đó đã có nó rồi. Đó là

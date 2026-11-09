@@ -78,6 +78,7 @@ relations:
   - { rel: "part-of", to: "directors-duties" }
 related: ["appoint-resign-director", "directors-duties", "register-of-directors"]
 keywords: ["remove a director Malaysia", "section 206 Companies Act 2016", "written resolution remove director", "pecat pengarah syarikat", "section 297 written resolution Malaysia", "special notice remove director"]
+framework: how-to
 ---
 
 大株主が票を握っている。秘書役はその取締役を解任する書面決議を起案し、これを回覧して署名を集め、

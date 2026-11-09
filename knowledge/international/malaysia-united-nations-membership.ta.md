@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malaysia PBB", "United Nations Malaysia", "Majlis Keselamatan PBB", "pasukan pengaman", "UNIFIL", "keahlian PBB", "diplomasi Malaysia"]
+framework: explainer
 ---
 
 Tunku Abdul Rahman ஸ்டேடியம் மெர்டேகாவில் (Stadium Merdeka) “மெர்டேகா” (Merdeka) என முழங்கிய வெறும் 17 நாட்களில், நியூயார்க்கில் உள்ள ஐ.நா. தலைமையகத்தில் மலாயா கூட்டமைப்பின் (Federation of Malaya) கொடி ஏற்றப்பட்டது. 1957 செப்டம்பர் 17 அன்று, இந்த இளம் நாடு ஐக்கிய நாடுகள் சபையின் (United Nations, UN) உறுப்பினராக அதிகாரப்பூர்வமாக ஏற்றுக்கொள்ளப்பட்டது — இது அதன் பிறப்போடு கிட்டத்தட்ட ஒரே நேரத்தில் உலக அரங்கில் அதன் இறையாண்மையை உறுதிப்படுத்திய ஒரு நடவடிக்கையாகும்.

@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "srivijaya" }
 related: ["melaka-sultanate", "langkasuka", "srivijaya", "independence-1957"]
 keywords: ["kesultanan Melayu", "sistem pembesar", "daulat", "waadat", "adat perpatih", "adat temenggung", "Bendahara", "Majlis Raja-Raja", "Yang di-Pertuan Agong", "raja berperlembagaan"]
+framework: explainer
 ---
 
 Hãy hình dung một bang không có hồ sơ, không có biểu mẫu, không có các phòng ban được đánh số. Mệnh lệnh được truyền đi bằng lời, công lý được tuyên tại điện thiết triều, và toàn bộ trật tự xã hội phụ thuộc vào một từ không thể dịch chính xác sang ngôn ngữ hiện đại: *daulat*. Đó là thế giới của vương triều Mã Lai — một hệ thống đã sắp xếp hàng nghìn sinh mạng dọc các bờ biển và con sông trong nhiều thế kỷ, và mà bóng dáng của nó vẫn còn nhìn thấy trong Hiến pháp Malaysia ngày nay.

@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["non-deductible-expenses", "section-33-deductibility"]
 keywords: ["मनोरंजन व्यय मलेशिया टैक्स", "entertainment expense malaysia tax", "39(1)(l) मनोरंजन", "50% मनोरंजन कटौती", "public ruling 4/2015", "प्रचारात्मक उपहार टैक्स कटौती मलेशिया"]
+framework: rules
 ---
 
 मलेशिया का लगभग हर टैक्स संगणन मनोरंजन की पंक्ति को आधा करता है और आगे बढ़ जाता है। यह दोनों दिशाओं में ग़लत है। जो आधा किया जाता है उसमें से कुछ को पूरी तरह अस्वीकृत किया जाना चाहिए, और इसका बड़ा हिस्सा बिल्कुल आधा नहीं किया जाना चाहिए।

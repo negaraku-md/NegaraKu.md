@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["selangor", "penang", "religion-statistics", "article-3-religion"]
 keywords: ["Thaipusam Malaysia", "Batu Caves Thaipusam", "kavadi", "silver chariot procession", "Lord Murugan", "272 steps", "paal kudam", "Waterfall Hilltop Temple Penang", "Thaipusam public holiday"]
+framework: history-culture
 ---
 
 ก่อนรุ่งอรุณ เนินหินปูนที่ขอบด้านเหนือของกัวลาลัมเปอร์เต็มไปด้วยเสียง — กลอง การสวด เสียงเท้าเปล่าหลายแสนคู่ที่ย่ำบนหิน ที่เชิงบันได 272 ขั้นยืนตระหง่านรูปทองคำที่สูงกว่าตึกสิบสี่ชั้น การปีนได้เริ่มขึ้น และมันจะไม่หยุดตลอดเกือบทั้งวัน

@@ -93,6 +93,7 @@ relations:
   - { rel: "administered-by", to: "nadma-malaysia" }
 related: []
 keywords: ["persediaan banjir", "beg kecemasan", "banjir monsun", "PPS", "Bantuan Wang Ihsan", "NADMA", "amaran cuaca MetMalaysia", "tanah runtuh", "gempa bumi Sabah", "bencana"]
+framework: how-to
 ---
 
 Nước sông dâng lên ngang mặt đường lúc hai giờ sáng không phải là lúc để bắt đầu tìm giấy khai sinh và đổ đầy chai nước — đó là lúc để rời đi. Ở Malaysia, thảm họa có nhiều khả năng nhất buộc gia đình bạn rời khỏi nhà không phải là động đất lớn hay bão nhiệt đới, mà là lũ lụt gió mùa đến gần như mỗi năm. Hướng dẫn này sắp xếp những gì bạn cần làm trước, trong và sau lũ, cùng các rủi ro khác như sạt lở đất, khói mù và động đất ở Sabah, để các quyết định quan trọng đã được đưa ra từ lâu trước khi nước đến cửa.

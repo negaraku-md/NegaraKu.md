@@ -100,6 +100,7 @@ social:
     - "#Dewakan"
     - "#KualaLumpurFood"
     - "#PenangFood"
+framework: explainer
 ---
 
 随便问十来个人在吉隆坡或槟城哪里吃饭，你会得到十来个答案，大多来自满是匿名五星

@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["kejatuhan Melaka 1511", "Afonso de Albuquerque", "Melaka Portugis", "A Famosa", "penjajahan Eropah Nusantara", "Kesultanan Johor 1528"]
+framework: history-culture
 ---
 
 பத்து நாட்கள். போர்த்துகீசியப் படை 1511 ஆகஸ்ட் 10 அன்று மலாக்கா நீர்ப்பரப்பில் வந்ததற்கும், அந்த நகரம் ஆகஸ்ட் 24 அன்று கைமாறியதற்கும் இடையிலான இடைவெளி அதுதான்.

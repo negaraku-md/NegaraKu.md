@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "road-tax-and-vehicle-registration" }
 related: []
 keywords: ["letak kereta", "e-parking", "kompaun letak kereta", "DBKL", "Smart Selangor Parking", "EZ Smart Park"]
+framework: explainer
 ---
 
 あなたは発券機に入れる小銭を車内で探している——だがその機械は2020年からもう存在しない。マレーシアの大都市での駐車は、今や路肩の小銭入れではなく、スマートフォンから始まる。

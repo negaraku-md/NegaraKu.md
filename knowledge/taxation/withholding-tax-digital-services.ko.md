@@ -104,6 +104,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-non-compliance", "imported-taxable-services", "cp37-forms"]
 keywords: ["withholding tax SaaS Malaysia", "withholding tax on software", "digital advertising withholding tax", "Practice Note 1/2018", "cloud subscription royalty Malaysia", "imported taxable services vs withholding tax"]
+framework: rules
 ---
 
 말레이시아 중소기업은 매달 해외 호스팅 요금, 디자인 도구 구독, 광고 플랫폼, 마켓플레이스

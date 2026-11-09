@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "inflation-cpi" }
 related: ["str-cash-aid", "fuel-subsidies", "subsidy-rationalisation-padu", "inflation-cpi"]
 keywords: ["Payung Rahmah", "Menu Rahmah", "Jualan Rahmah Madani", "PJRM", "Bakul Rahmah", "KPDN", "برنامج كلفة المعيشة ماليزيا", "طعام بـ RM5", "بيع السلع الأساسية الرخيصة"]
+framework: explainer
 ---
 
 كثيرون رأوا شعار مظلة «RAHMAH» على واجهة مطعم أو في خيمة بيع في نهاية الأسبوع، لكن قلّةً يعرفون أن RAHMAH ليست برنامجاً واحداً. فهي في الواقع **علامة مظلة** تظلّل عدة مبادرات مختلفة لكلفة المعيشة — وكثيراً ما يُخلَط بينها وبين مساعدة نقدية يكاد اسمها يشبه اسمها.

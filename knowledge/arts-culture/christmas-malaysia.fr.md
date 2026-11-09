@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "sabah" }
 related: ["religion-statistics", "article-3-religion", "sarawak", "sabah"]
 keywords: ["Christmas in Malaysia", "Christmas Day public holiday Malaysia", "Christmas Eve Sabah holiday", "Malaysian open house Christmas", "Christians in Malaysia", "Midnight Mass Malaysia", "Holidays Act 1951 Christmas"]
+framework: history-culture
 ---
 
 Le soir du 24 décembre, une église de Kota Kinabalu ou de Kuching se remplit pour un office nocturne, tandis qu'à quelques centaines de kilomètres de là, dans la péninsule, cette même date est un jeudi ouvrable ordinaire. Le lendemain matin, le 25 décembre, tout le pays est en congé. Ce clivage — une date, deux statuts très différents — est la manière la plus nette de comprendre la place de Noël en Malaisie : une fête religieuse pour une communauté, un jour férié pour tous, et une saison de portes ouvertes à laquelle beaucoup participent, quelle que soit leur foi.

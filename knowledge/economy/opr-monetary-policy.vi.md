@@ -66,6 +66,7 @@ faq:
     a: 'Cả hai di chuyển cùng chiều, nhưng không đối xứng. Bài viết nêu bật một sự bất đối xứng đáng lưu ý: lãi suất cho vay thường tăng nhanh và giảm chậm, trong khi lãi suất tiền gửi thường ngược lại, điều chỉnh chậm hơn và ít trọn vẹn hơn so với lãi suất cho vay. Bài viết mô tả đây là một thực tế thương mại về biên lợi nhuận của ngân hàng, chứ không phải một quy tắc.'
   - q: Quyết định 'giữ nguyên' OPR có nghĩa là Ủy ban Chính sách Tiền tệ đã không làm gì không?
     a: Không — quyết định giữ nguyên vẫn là một quyết định. Ủy ban Chính sách Tiền tệ họp sáu lần một năm theo lịch đã công bố, và một chuỗi dài các quyết định giữ nguyên phản ánh nhận định rằng lạm phát đã được kiểm soát đủ để không cần thắt chặt và tăng trưởng đủ vững để không cần hỗ trợ. Tuyên bố kèm theo thường phát tín hiệu về xu hướng của ủy ban.
+framework: explainer
 ---
 
 ## Tổng quan nhanh

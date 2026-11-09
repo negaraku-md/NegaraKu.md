@@ -65,6 +65,7 @@ relations:
   - { rel: "affects", to: "personal-tax-reliefs" }
 related: ["income-tax-in-malaysia", "personal-tax-reliefs", "personal-tax-rates", "which-tax-form", "pcb-monthly-tax-deduction"]
 keywords: ["joint assessment Malaysia", "separate assessment tax Malaysia", "taksiran bersama", "section 45(2) election", "spouse relief RM4000", "should we file jointly Malaysia"]
+framework: decision
 ---
 
 संयुक्त निर्धारण कोई छूट नहीं है। यह एक सौदा है, और इसके पीछे का अंकगणित

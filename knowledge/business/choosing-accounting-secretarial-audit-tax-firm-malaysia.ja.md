@@ -77,6 +77,7 @@ sources:
 relations: []
 related: ["company-secretary-malaysia", "audit-exemption-criteria"]
 keywords: ["choose company secretary Malaysia", "accounting firm Malaysia", "audit firm Malaysia", "tax agent Malaysia", "corporate services firm Malaysia", "Big Four Malaysia", "MIA licensed firm", "SSM company secretary licence", "how to choose accountant Malaysia", "company secretary firm vs individual"]
+framework: decision
 ---
 
 どのマレーシア企業も、組織図には決して現れない少数の専門家たちに頼っている——会社を法的に保つ会社秘書役、帳簿を保つ会計士、数字を承認する監査人、そしてLHDNに申告する税務代理人である。これらを適切に選べば、お金も眠れない夜も節約できる。それにもかかわらず、「マレーシアで最良の会社秘書役」を検索すると、見つかるガイドのほぼすべてが、そのサービスを売る事務所によって書かれている。これは違う。

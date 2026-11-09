@@ -115,6 +115,7 @@ keywords:
   - "Selangor home business licence fee"
   - "Selangor council licensing"
   - "Port Klang TEU"
+framework: profile
 ---
 
 Kuala Lumpur-ல் ஒரே உரிம அதிகார அமைப்பு உள்ளது. அதைச் சூழ்ந்துள்ள செலாங்கூரில்

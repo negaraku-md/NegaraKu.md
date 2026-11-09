@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "financial-statements-lodgement" }
 related: ["financial-statements-lodgement", "extension-of-time-ssm", "resolution-notice-periods", "sdn-bhd-filing-calendar", "egm-requisition"]
 keywords: ["AGM Malaysia", "mesyuarat agung tahunan Sdn Bhd", "seksyen 340 Akta Syarikat 2016", "adakah syarikat persendirian perlu AGM", "tarikh akhir AGM enam bulan"]
+framework: rules
 ---
 
 "Sdn Bhd tidak lagi perlu mengadakan AGM" adalah pernyataan baku, dan bagi

@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "unfair-dismissal-malaysia" }
 related: ["termination-of-employment-malaysia", "unfair-dismissal-malaysia", "termination-benefits-malaysia"]
 keywords: ["domestic inquiry malaysia", "DI procedure malaysia", "show cause letter malaysia", "suspension pending inquiry", "section 14 employment act", "misconduct dismissal malaysia"]
+framework: how-to
 ---
 
 பெரும்பாலான மலேசிய மனிதவள வழிகாட்டிகள் உள் விசாரணைக்கு (Domestic Inquiry, DI) ஒரே ஒரு வாக்கியத்தையே தருகின்றன: “ஒழுங்கு மீறலுக்காக பணிநீக்கம் செய்வதற்கு முன் ஒரு DI நடத்துங்கள்.” அந்த வாக்கியத்தில்தான் முதலாளிகள் வழக்குகளை இழக்கிறார்கள். ஏற்கனவே எடுக்கப்பட்ட முடிவுக்கு முன் குறிக்க வேண்டிய ஒரு பெட்டி அல்ல இந்த விசாரணை — மாதங்களுக்குப் பின் தொழில் நீதிமன்றத்தில் (Industrial Court) முதலாளி நிற்கப் போகும் சான்று அடித்தளம் இது; இது உண்மைகளில் தோற்பதைவிட நடைமுறையில் அதிகம் தோல்வியடைகிறது.

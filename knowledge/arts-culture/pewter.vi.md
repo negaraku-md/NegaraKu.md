@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
+framework: history-culture
 ---
 
 Một thành phố dựng nên trên thiếc rốt cuộc lại cho thế giới một nghề thủ công kim loại. Kuala Lumpur tồn tại vì những người thăm dò tìm thấy quặng thiếc nơi sông Klang và sông Gombak gặp nhau. Nhiều thập niên sau, một thợ thiếc tuổi thiếu niên đến làm việc trong chính nền kinh tế thiếc ấy bắt đầu gò những chiếc lư hương cho bàn thờ đền miếu — và xưởng mà anh mở nay là nhà sản xuất pewter lớn nhất hành tinh.

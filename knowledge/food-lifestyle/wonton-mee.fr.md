@@ -99,6 +99,7 @@ verificationNeeded:
   - "L'attribution de l'arrivée du wonton mee en Malaya spécifiquement aux migrants cantonais et hakka du XIXe siècle ; confirmez-la avec une source sur la migration ou le patrimoine au-delà de la fiche culturelle du JKKN."
   - "Les variantes de wonton mee de Sarawak et leur rapport (ou leur différence) avec le kolo mee de l'État — les sources sont minces et les deux plats se confondent facilement ; confirmez avec une source culinaire ou patrimoniale de Sarawak."
   - "L'affirmation régionale selon laquelle le wantan mee sec façon Penang s'appuie sur une sauce plus foncée/sucrée (et parfois du sambal) par rapport au style plus léger de KL — vérifiez avec une source locale, car les descriptions varient d'un blog culinaire à l'autre."
+framework: explainer
 ---
 
 Commandez un wonton mee à Kuala Lumpur et vous recevez un petit monticule de

@@ -72,6 +72,7 @@ relations:
   - { rel: "governs", to: "real-property-gains-tax-act-1976" }
 related: ["rpgt-rates", "capital-gains-tax", "capital-or-revenue"]
 keywords: ["RPGT exemption", "private residence exemption Malaysia", "CKHT 3", "CKHT 1A", "love and affection transfer", "RPGT family transfer"]
+framework: rules
 ---
 
 同法の中で最も価値あるRPGTの減免は、ちょうど一度しか使うことができず、大多数の人はそれを間違った物件に使ってしまう——たいていは最初に売却する物件であり、それが最大の利得を生む物件であることはめったにない。

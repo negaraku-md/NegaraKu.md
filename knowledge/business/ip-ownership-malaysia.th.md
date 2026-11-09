@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "patent-malaysia" }
 related: ["copyright-malaysia", "patent-malaysia", "industrial-design-malaysia", "trademark-registration-malaysia"]
 keywords: ["ip ownership malaysia", "who owns copyright employee malaysia", "contractor ip malaysia", "ip assignment malaysia", "section 26 copyright act 1987"]
+framework: explainer
 ---
 
 ผู้ก่อตั้งชาวมาเลเซียที่กำลังจะลงนามในหนังสือแสดงเจตจำนงถูกขอเอกสารการโอนสิทธิในทรัพย์สินทางปัญญา แต่ไม่มีเลย ผู้ออกแบบเป็นฟรีแลนซ์ เวอร์ชันแรกของแพลตฟอร์มเขียนโดยเพื่อนก่อนบริษัทมีอยู่ โลโก้มาจากเอเจนซีที่ไม่มีใครอ่านข้อกำหนด และเครื่องหมายการค้าจดทะเบียนในชื่อส่วนตัวของผู้ก่อตั้ง ทุกคนสันนิษฐานว่าการจ่ายเงินซื้อบางสิ่งหมายถึงการเป็นเจ้าของมัน

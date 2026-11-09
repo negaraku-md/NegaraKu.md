@@ -94,6 +94,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "paternity-leave-malaysia", "employment-act-coverage", "termination-of-employment-malaysia"]
 keywords: ["maternity leave malaysia", "98 days maternity leave", "maternity allowance malaysia", "pregnant employee termination malaysia", "section 41a employment act"]
+framework: rules
 ---
 
 เนื้อหาเรื่องการคลอดบุตรของมาเลเซียส่วนใหญ่เป็นเพียงตัวเลข เก้าสิบแปดวัน เพิ่มจากหกสิบ มีผลตั้งแต่ 1 มกราคม 2023 จบบทความ ตัวเลขคือส่วนที่น่าสนใจน้อยที่สุดของภาค IX ส่วนที่ตัดสินคดีคือ **มาตรา 41A** ซึ่งทำให้การเลิกจ้างลูกจ้างที่ตั้งครรภ์เป็นความผิดทางอาญาแล้วให้นายจ้างพิสูจน์ว่ามันไม่ได้เกิดขึ้นด้วยเหตุนั้น

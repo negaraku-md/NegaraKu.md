@@ -88,6 +88,7 @@ keywords:
   - "رفض اسم الشركة SSM"
   - "SSM name search"
   - "company name reservation Malaysia"
+framework: rules
 ---
 
 إن السبب الأكثر شيوعًا لرفض اسمٍ ما ليس أن شخصًا آخر يملكه بالفعل. بل هو أن SSM تعتبره

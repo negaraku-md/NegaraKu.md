@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "worker-accommodation-act-446" }
 related: ["hiring-foreign-workers-malaysia", "worker-accommodation-act-446"]
 keywords: ["forced labour malaysia", "section 90b employment act", "passport retention malaysia", "withhold release order malaysia", "atipsom", "recruitment fees migrant workers"]
+framework: rules
 ---
 
 2019年から2022年にかけて、米国税関・国境警備局（CBP）はマレーシアの手袋メーカーとパーム油生産者8社からの輸入を差し止めた。各社は命令の解除を得るため、未払い賃金として8,500万米ドルを超える額を支払った。これがマレーシアにおける強制労働コンプライアンスの商業的現実であり、これがHRの問題である以前に貿易の問題である理由である。

@@ -83,6 +83,7 @@ social:
     - CommunityPharmacy
     - DoingBusinessInMalaysia
     - PoisonsAct
+framework: how-to
 ---
 
 在马来西亚开药房不像开一家普通店铺，原因在于法律中的一个设计抉择：让药房得以售卖药物的执照，绑定于一个*人*——一名注册药剂师——而非一家公司或一间店面。你可以备好资金、地点和装修，但在一名合资格的药剂师站到执照背后之前，你拥有的只是一家保健品店，而非药房。

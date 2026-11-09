@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
 related: []
 keywords: ["subsidi baja padi", "SBPKP", "SIPP", "insentif pengeluaran padi", "subsidi pertanian", "bantuan input pesawah"]
+framework: explainer
 ---
 
 Sekarung pupuk yang dipikul petani ke sawahnya pagi itu tidak dibeli dengan uangnya sendiri — ia datang tanpa bayaran, ditanggung Pemerintah Federal selama berpuluh-puluh tahun. Inilah wajah sebenarnya subsidi pertanian Malaysia untuk padi: bukan cek atau uang masuk rekening, melainkan pupuk, pestisida dan insentif yang menutup sebagian besar biaya di ladang.

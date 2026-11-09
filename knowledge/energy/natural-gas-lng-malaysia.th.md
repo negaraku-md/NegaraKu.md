@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "energy-commission-malaysia" }
 related: ["petronas"]
 keywords: ["natural gas Malaysia", "LNG Malaysia", "Bintulu LNG", "Peninsular Gas Utilisation", "PGU pipeline", "regasification terminal", "Third Party Access", "Malaysia Reference Price"]
+framework: explainer
 ---
 
 ทุกครั้งที่โรงไฟฟ้าในสลังงอร์เริ่มเดินเครื่องหรือโรงงานถุงมือในปีนังอุ่นเตาของมัน ก๊าซนั้นน่าจะเริ่มการเดินทางจากที่ห่างออกไปหลายร้อยกิโลเมตร นอกชายฝั่งตรังกานูหรือข้ามทะเลจีนใต้ในซาราวัก มาเลเซียเป็นทั้งผู้ส่งออกก๊าซระดับหนักและ ในเวลาเดียวกัน ผู้นำเข้าก๊าซที่เพิ่มขึ้น และท่อและเทอร์มินัลที่ประสานสองข้อเท็จจริงนั้นเป็นสินทรัพย์พลังงานที่มีค่าที่สุดของประเทศ

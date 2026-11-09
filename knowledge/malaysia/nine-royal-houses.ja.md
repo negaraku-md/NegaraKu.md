@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["majlis-raja-raja", "yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["negeri beraja Malaysia", "sembilan Raja Melayu", "Sultan Raja Yang di-Pertuan Besar", "Majlis Raja-Raja", "Ketua agama Islam negeri", "Undang Yang Empat Negeri Sembilan"]
+framework: explainer
 ---
 
 マレーシアには十三の州があるが、統治者（Raja）を有するのはそのうち九州のみである。残る四州——マラッカ、ペナン、サバ及びサラワク——は、統治者ではなく、任命された州元首（Yang di-Pertua Negeri）によって統治されている。

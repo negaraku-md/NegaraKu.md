@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "national-education-system" }
 related: ["jakim"]
 keywords: ["SABK", "sekolah agama", "tahfiz", "KAFA", "JAKIM", "pendidikan Islam", "sekolah agama rakyat", "jabatan agama negeri"]
+framework: explainer
 ---
 
 A child in Malaysia might spend the morning at a national school, the afternoon in a mosque KAFA class, and their teenage years in a tahfiz dormitory — three different educational environments with different supervisors, curricula and laws. The Islamic religious education stream runs parallel to the national system, but it is not a single bloc. Understanding who registers what, and who is responsible for what, is the key to reading public debate on this topic fairly.

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "mbrs-xbrl-filing" }
 related: ["companies-act-2016"]
 keywords: ["MFRS 10", "consolidated financial statements", "control", "subsidiary", "holding company", "Companies Act 2016", "MBRS", "group accounts", "Malaysia"]
+framework: explainer
 ---
 
 Compra una participación de control en otra empresa y no solo has añadido una partida a tu balance — has creado un grupo que las reglas contables malasias insisten en tratar como una sola entidad. Esa es la fuerza silenciosa que hay detrás de MFRS 10 *Estados financieros consolidados*: en el momento en que una empresa controla a otra, las dos deben informar al mundo exterior como una sola.

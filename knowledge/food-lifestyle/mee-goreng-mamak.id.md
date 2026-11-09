@@ -90,6 +90,7 @@ verificationNeeded:
   - "Apakah daging kambing merupakan tambahan standar dan bukan sesekali — sumber memastikan udang tetapi kurang spesifik soal daging kambing untuk hidangan ini; verifikasi dengan sumber kuliner Malaysia."
   - "Penamaan dan definisi tepat dari varian gerai 'mee goreng basah' (basah) dan 'mee goreng kering' (kering): 'basah' terdokumentasi, tetapi definisi yang andal untuk gaya 'kering' yang tersendiri tidak ditemukan. Verifikasi dengan rujukan makanan Malaysia."
   - "Klaim bahwa versi mamak di Singapura biasanya lebih merah (ditambah pewarna) daripada versi Malaysia — dilaporkan oleh media makanan; verifikasi dengan sumber yang lebih kuat."
+framework: explainer
 ---
 
 Hampirilah hampir gerai mamak mana pun di Malaysia setelah gelap, dan Anda akan

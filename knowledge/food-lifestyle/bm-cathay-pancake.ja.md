@@ -76,6 +76,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["ApamBalik", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 ペナンの MICHELIN の評価はジョージタウンに集まりがちですが、州でもっとも一途な Bib

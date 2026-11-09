@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "free-trade-agreements" }
 related: ["sales-and-service-tax", "malaysia-free-trade-agreements"]
 keywords: ["import duty", "customs duty", "HS code", "AHTN", "tariff classification", "ATIGA", "Form D", "CIF", "sales tax on imports", "Customs Act 1967"]
+framework: explainer
 ---
 
 ของสองชิปเมนต์ที่เหมือนกันสามารถมาถึง Port Klang และจ่ายอากรที่แตกต่างกันอย่างมหาศาล — ไม่ใช่เพราะ

@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["bank-negara-malaysia", "bursa-malaysia", "federal-budget", "epf-as-investor"]
 keywords: ["MGS", "GII", "sukuk", "Malaysian government securities", "corporate bonds", "RENTAS", "Sukuk Simpanan Rakyat", "bond market Malaysia"]
+framework: explainer
 ---
 
 เมื่อรัฐบาลมาเลเซียสร้างทางหลวงหรือโรงพยาบาล มันไม่ค่อยจ่ายเงินสดทันที มันกู้ยืม — และใบรับสภาพหนี้ที่มันมอบให้คือพันธบัตร คูณสิ่งนั้นตลอดหลายทศวรรษของการใช้จ่ายเพื่อการพัฒนา เพิ่มทุกบริษัทที่กู้ยืมด้วยวิธีเดียวกัน แล้วคุณจะได้ตลาดตราสารหนี้สกุลเงินท้องถิ่นที่ลึกที่สุดแห่งหนึ่งของเอเชีย ซึ่งดำเนินไปบนสองเส้นทางคู่ขนาน: ตราสารหนี้แบบดั้งเดิมและศุกูก (sukuk) ที่สอดคล้องกับหลักชะรีอะฮ์

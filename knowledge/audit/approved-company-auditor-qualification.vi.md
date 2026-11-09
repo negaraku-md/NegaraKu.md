@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "statutory-audit-requirement" }
 related: ["companies-act-2016", "malaysian-institute-of-accountants"]
 keywords: ["juruaudit syarikat diluluskan", "approved company auditor", "seksyen 263", "lesen audit Malaysia", "sijil amalan MIA", "Akauntan Negara"]
+framework: rules
 ---
 
 Bạn có thể là một Kế toán viên Công chứng với danh hiệu đầy đủ, bằng cấp kế toán, và nhiều năm kinh nghiệm — mà vẫn không được phép tự mình ký báo cáo kiểm toán của một công ty. Tại Malaysia, quyền kiểm toán một công ty là một giấy phép riêng biệt và được quản lý chặt chẽ, không phải là điều tự động đi kèm với tư cách hội viên nghề nghiệp.

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "sales-and-service-tax-sst-explained" }
 related: []
 keywords: ["propinas malasia", "cargo por servicio malasia", "impuesto sobre servicios restaurante", "etiqueta en la mesa malasia", "SST comidas y bebidas"]
+framework: explainer
 ---
 
 Terminas una buena comida en Kuala Lumpur, la cuenta llega a la mesa y bajo tu total aparecen dos líneas poco familiares. No, no pediste nada extra — y no, no necesitas añadir una propina encima. Así es como funciona realmente comer fuera en Malasia.

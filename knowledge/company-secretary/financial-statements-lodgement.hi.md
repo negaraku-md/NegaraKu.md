@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "annual-return" }
 related: ["mbrs-2", "extension-of-time-ssm", "unaudited-financial-statements", "sdn-bhd-filing-calendar", "annual-return", "audit-exemption"]
 keywords: ["वित्तीय विवरण समय-सीमा मलेशिया", "financial statements deadline Malaysia", "धारा 258 कंपनी अधिनियम 2016", "धारा 259 वित्तीय विवरण जमा", "सदस्यों को वित्तीय विवरण परिचालन", "6 महीने वित्तीय वर्ष अंत SSM", "30 दिन वित्तीय विवरण जमा"]
+framework: rules
 ---
 
 एक मलेशियाई निदेशक से पूछिए कि उनके खाते SSM के पास कब देय हैं और आपको दो में से

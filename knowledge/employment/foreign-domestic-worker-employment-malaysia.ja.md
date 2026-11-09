@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "foreign-worker-levy-malaysia" }
 related: ["employment-act-1955", "foreign-worker-levy-malaysia", "minimum-wage-malaysia"]
 keywords: ["pembantu rumah asing", "foreign domestic helper", "FDH Malaysia", "maid Malaysia", "MoU Indonesia pembantu rumah", "bon keselamatan pekerja asing", "pengecualian KWSP pembantu rumah"]
+framework: rules
 ---
 
 外国人家事労働者は、工場労働者や農園労働者とはまったく異なる扉からマレーシアに入国する——業種別クォータ制度によってでもなく、外国人労働者向けのワンストップセンター（Pusat Setempat）によってでもなく、また労働法の全面的な保護の下にあるわけでもない。この制度は独自のものであり、一般の労働者を雇用するのと同じ手続きだと思い込む使用者は、しばしば見込み違いをする。

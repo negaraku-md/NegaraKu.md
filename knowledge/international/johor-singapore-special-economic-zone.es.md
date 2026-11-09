@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "manufacturing" }
 related: ["johor", "external-trade", "manufacturing"]
 keywords: ["JS-SEZ", "Johor Singapore Special Economic Zone", "JS-SEZ incentives", "JS-SEZ flagship zones", "Malaysia Singapore economic zone", "IMFC-J"]
+framework: explainer
 ---
 
 Dos países acordaron compartir un código fiscal a través de una frontera. Esa es la silenciosa novedad de la Zona Económica Especial Johor-Singapur — no un nuevo parque industrial, sino un pacto bilateral que permite al sur de Johor y a Singapur promocionarse ante los inversores globales como una única dirección de negocio.

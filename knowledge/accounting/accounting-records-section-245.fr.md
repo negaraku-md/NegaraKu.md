@@ -97,6 +97,7 @@ relations:
   - { rel: "affects", to: "after-audit-exemption" }
 related: ["after-audit-exemption", "audit-exemption", "minute-books-and-records", "unaudited-financial-statements"]
 keywords: ["section 245 Companies Act 2016", "accounting records Malaysia", "keep accounting records 7 years", "60 days accounting entries Malaysia", "accounting records penalty Malaysia"]
+framework: rules
 ---
 
 Presque tous les guides malaisiens sur les registres comptables disent les deux

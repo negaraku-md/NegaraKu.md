@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "parliament", "dewan-rakyat", "dewan-negara", "yang-di-pertuan-agong"]
 keywords: ["Jemaah Menteri", "Cabinet de Malaisie", "Cabinet Malaysia", "Premier ministre de Malaisie", "Prime Minister", "Article 43 de la Constitution fédérale", "Article 43", "confiance de la majorité du Dewan Rakyat", "responsabilité collective", "Yang di-Pertuan Agong", "Article 40(2)"]
+framework: explainer
 ---
 
 Aucun électeur en Malaisie ne coche un bulletin portant la mention « Premier

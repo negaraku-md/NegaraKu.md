@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "e-hailing-grab" }
 related: ["klang-valley-rail", "e-hailing-grab"]
 keywords: ["intercity travel Malaysia", "KTM ETS", "KTM Intercity", "express bus Malaysia", "Terminal Bersepadu Selatan", "TBS", "domestic flights Malaysia", "AirBorneo", "MASwings", "Rural Air Service", "Sabah Sarawak flights", "travelling between cities Malaysia"]
+framework: explainer
 ---
 
 บินไปกูชิง (Kuching) นั่งรถประจำทางไปกวนตัน (Kuantan) หรือขึ้นรถไฟไป Butterworth — สามการเดินทางภายในประเทศเดียวกันที่ทำงานในสามวิธีที่แตกต่างกันโดยสิ้นเชิง มาเลเซียไม่มีระบบ "การเดินทางระหว่างเมือง" เพียงหนึ่งเดียว แต่มีเครือข่ายคู่ขนานสามเครือข่าย และนักเดินทางจะเลือกใช้เครือข่ายใดขึ้นอยู่กับว่าเริ่มต้นจากที่ไหนและมุ่งหน้าไปที่ใดโดยสิ้นเชิง

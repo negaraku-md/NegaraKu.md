@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["bangsawan", "opera Melayu", "teater Parsi", "Wayang Parsi", "Pushi Indera Bangsawan", "teater peralihan", "filem Melayu"]
+framework: history-culture
 ---
 
 Sebelum ada film, ada panggung berlampu, tirai bercat tangan, dan sebuah orkestra yang mampu beralih dari lagu berirama istana Melayu ke irama Timur Tengah dalam satu malam pertunjukan yang sama. Itulah bangsawan — opera panggung yang pernah menjadi hiburan kota paling meriah di Semenanjung, dan yang kemudian menyerahkan aktor serta penyanyinya kepada industri film Melayu yang baru lahir.

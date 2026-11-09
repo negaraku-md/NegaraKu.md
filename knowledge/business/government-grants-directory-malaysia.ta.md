@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "mdec-digital-status" }
 related: ["sme-financing-malaysia"]
 keywords: ["government grants malaysia", "SME grant malaysia", "startup grant malaysia", "cradle CIP grant", "MDEC digital grant", "MSME digital grant madani", "matching grant malaysia", "business funding malaysia"]
+framework: data-reference
 ---
 
 "government grant Malaysia" என்று தேடுங்கள், உங்கள் வணிகத்துக்கு இலவசப் பணம் என்று உறுதியளிக்கும் டஜன் கணக்கான பட்டியல்-கட்டுரைகளைப் பெறுவீர்கள். உண்மை மேலும் பயனுள்ளதும் மேலும் சிக்கலானதும் ஆகும்: பணம் இருக்கிறது, ஆனால் "மானியம்" என்று அழைக்கப்படுவதில் பாதி உண்மையில் ஒரு கடன், ஒரு பங்கு முதலீடு, அல்லது நீங்கள் முதலில் செலவழிக்க வேண்டிய பணத்தை மீளச்செலுத்துதல். விண்ணப்பிக்கும் முன் நீங்கள் கற்றுக்கொள்ளக்கூடிய மிக மதிப்புமிக்க ஒரே விஷயம், அவற்றை எப்படி வேறுபடுத்துவது என்பதே.

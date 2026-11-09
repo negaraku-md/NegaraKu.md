@@ -131,6 +131,7 @@ relations:
   - { rel: "related-to", to: "cost-of-living-malaysia" }
 related: ["padu-central-database", "petronas"]
 keywords: ["subsidi bahan api", "BUDI95", "RON95", "subsidi diesel", "PADU", "subsidi bersasar", "BUDI MADANI", "RM1.99", "rasionalisasi subsidi"]
+framework: explainer
 ---
 
 数十年にわたり、マレーシアのすべての人——大富豪であろうとゴム樹液採取者であろうと——は給油所で同じ価格のガソリンを支払ってきた。2025年9月30日、その仕組みは終わりを迎えた。今では1リットルのRON95があなたにとってはRM1.99でも、隣人にとってはほぼ倍の価格になり得る。それを決めるのは世界の原油価格ではなく、あなたが端末に挿入する身分証明書である。

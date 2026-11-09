@@ -92,6 +92,7 @@ verificationNeeded:
   - "Mức độ phổ biến của podi thosai (thosai được rắc hoặc phết bột gia vị idli/dosa) trên thực đơn Malaysia nói riêng — loại này đã khá ổn định tại các quán ăn Nam Ấn và Singapore, nhưng tài liệu về Malaysia thì ít hơn; cần xác minh với nguồn địa phương."
   - "Cách viết tiếng Mã Lai chính thức hoặc chuẩn của món ăn — 'tosai', 'thosai' và 'tose' đều lưu hành, và dạng được Dewan Bahasa dan Pustaka khuyến nghị từng bị công khai tranh cãi; cần xác minh với một tài liệu tham khảo DBP có thẩm quyền."
   - "Liệu nước cốt dừa có xuất hiện trong bất kỳ loại bột thosai phổ biến nào ở Malaysia hay không — hầu hết các công thức chỉ dùng gạo, urad dal, nước và muối; cần đối chiếu công thức địa phương chuẩn với một nguồn ẩm thực đáng tin cậy."
+framework: explainer
 ---
 
 Bước vào một quầy mamak lúc tờ mờ sáng, hay một nhà hàng lá chuối vào giờ trưa, và ở đâu đó

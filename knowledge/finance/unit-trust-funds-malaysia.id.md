@@ -79,6 +79,7 @@ relations:
   - { rel: "compares-with", to: "amanah-saham-bumiputera" }
 related: ["securities-commission-malaysia"]
 keywords: ["unit trust malaysia", "unit trust funds", "net asset value", "sales charge", "management fee", "securities commission", "FIMM", "equity fund", "money market fund", "EPF i-invest"]
+framework: explainer
 ---
 
 Serahkan uang Anda kepada orang yang tidak dikenal untuk diinvestasikan, dan Anda pasti menginginkan tiga hal: aturan, pencatat skor, dan orang lain yang memegang uang tunai itu. Sebuah reksa dana Malaysia memberi Anda ketiganya. Ringgit Anda dikumpulkan bersama ribuan investor lain, sebuah perusahaan manajemen berlisensi memutuskan apa yang hendak dibeli, dan wali amanah independen memegang aset agar manajer tidak bisa sekadar melarikan diri dengannya. Keseluruhan susunan ini berada di bawah Suruhanjaya Sekuriti Malaysia (SC).

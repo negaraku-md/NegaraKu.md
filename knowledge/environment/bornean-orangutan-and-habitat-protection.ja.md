@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "kinabatangan-floodplain" }
 related: ["sabah"]
 keywords: ["Bornean orangutan", "Sabah", "Wildlife Conservation Enactment 1997", "Sepilok", "Kinabatangan", "habitat protection", "totally protected species", "wildlife corridor"]
+framework: explainer
 ---
 
 野生のオランウータンには広大な森林、しかも連結した森林が必要である。サバ東部の低地では、それが最も希少なものとなってしまった。かつて類人猿が地面に触れることなく数キロメートルを移動できた樹木は、今やアブラヤシ農園の縁で途切れている。ボルネオオランウータンがこの景観の中で生き延びられるかどうかは、多くの部分において、法律、土地、そして回廊の問題である。

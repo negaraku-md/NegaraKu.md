@@ -77,6 +77,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["Thara", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 தனது சொந்த சிற்றுண்டி வரலாற்றுடன் ஒன்றிணைந்த ஒரு நகரமான ஜார்ஜ் டவுனில், தாய்

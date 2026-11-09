@@ -86,6 +86,7 @@ relations:
   - { rel: "requires", to: "e-invoice-data-fields" }
 related: ["e-invoicing", "myinvois-phases", "consolidated-e-invoice", "e-invoice-data-fields", "e-invoice-vs-tax-invoice"]
 keywords: ["e-Invois belian sendiri", "invois belian sendiri Malaysia", "e-Invois pembekal asing", "TIN umum EI00000000030", "self-billed e-Invoice", "e-Invois komisen ejen"]
+framework: rules
 ---
 
 Syarikat yang paling berkemungkinan tersepit oleh e-Invois bukanlah syarikat yang

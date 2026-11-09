@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "klinik-kesihatan-services" }
 related: []
 keywords: ["HIV", "AIDS", "ujian HIV", "PrEP", "PEP", "ART", "kesihatan seksual", "Majlis AIDS Malaysia", "Kementerian Kesihatan"]
+framework: explainer
 ---
 
 Một người lo lắng sau một đêm có nguy cơ có thể bước vào một Phòng khám Y tế nhà nước tại Malaysia, làm xét nghiệm HIV miễn phí và bảo mật, và — nếu cần — ra về với thuốc dự phòng trong vòng vài giờ. Tuy nhiên chính con đường đó cũng giao cắt với các vấn đề bảo mật, pháp lý, tôn giáo và kỳ thị khiến HIV trở thành một trong những chủ đề sức khỏe nhạy cảm nhất tại đất nước này.

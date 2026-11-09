@@ -91,6 +91,7 @@ relations:
   - { rel: "compares-with", to: "akpk-debt-management-programme" }
 related: []
 keywords: ["kebankrapan", "bankrap", "insolvensi", "Akta Insolvensi 1967", "MDI", "Ketua Pengarah Insolvensi", "pelepasan bankrap", "seksyen 33C", "AKPK", "DMP"]
+framework: explainer
 ---
 
 Satu faktur yang tidak dilunasi dapat berakhir sebagai satu perintah pengadilan yang mengubah hampir setiap urusan keuangan seseorang — dari rekening bank hingga izin untuk ke luar negeri. Di Malaysia, garis pemisah itu didefinisikan oleh satu undang-undang tunggal: Insolvency Act 1967 (Act 360). Artikel ini menguraikan proses tersebut secara deskriptif, tanpa memihak pada pandangan mana pun.

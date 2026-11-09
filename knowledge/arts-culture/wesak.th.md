@@ -63,6 +63,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["religion-statistics", "article-3-religion", "kuala-lumpur"]
 keywords: ["Wesak Day Malaysia", "Vesak Day Malaysia", "Hari Wesak 2026", "Wesak Day date Malaysia", "Buddhist public holiday Malaysia", "Wesak procession Kuala Lumpur", "Buddha's birthday Malaysia"]
+framework: history-culture
 ---
 
 ถามว่าวันวิสาขบูชาตรงกับวันใด แล้วจะไม่มีคำตอบที่ตายตัว — มันเปลี่ยนไป ในปี 2026 ตกวันที่ 31 พฤษภาคม ในปี 2027 วันที่ 20 พฤษภาคม ในปี 2028 วันที่ 9 พฤษภาคม เหตุผลนั้นเรียบง่าย กล่าวคือ วิสาขบูชากำหนดด้วยดวงจันทร์ ไม่ใช่ด้วยวันที่ในปฏิทิน และปฏิทินจันทรคติกับปฏิทินเกรกอเรียนเลื่อนสวนกันทุกปี

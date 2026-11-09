@@ -106,6 +106,7 @@ relations:
   - { rel: "compares-with", to: "capital-allowances" }
 related: ["double-deduction-list", "capital-allowances", "section-33-deductibility", "tax-incentives-directory"]
 keywords: ["approved research allowance malaysia", "r&d double deduction malaysia", "section 34a income tax act", "section 34b double deduction", "r&d status mida", "borang 1 r&d lhdn"]
+framework: explainer
 ---
 
 Ask three advisors about the approved research allowance and you will get three answers, because there is no such relief. Nothing in the Income Tax Act 1967 uses the phrase. What exists is three separate deductions with different approval routes and different deadlines, plus a fourth, entirely different regime run by MIDA. Conflating them is how a company ends up with a double deduction it cannot support.

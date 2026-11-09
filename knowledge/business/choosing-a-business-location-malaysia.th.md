@@ -138,6 +138,7 @@ keywords:
   - "Kuala Lumpur vs Penang vs Johor business"
   - "Sabah Sarawak business setup difference"
   - "Malaysia economic corridor incentives location"
+framework: decision
 ---
 
 คำถามมาถึงในรูปแบบที่สมบูรณ์เสมอ *กัวลาลัมเปอร์ ปีนัง หรือยะโฮร์?* บางครั้งมีสเปรดชีตแนบมาด้วย เปรียบเทียบค่าเช่าสำนักงานและการเชื่อมต่อสนามบิน และคอลัมน์ที่ชื่อว่า *ภาษี*

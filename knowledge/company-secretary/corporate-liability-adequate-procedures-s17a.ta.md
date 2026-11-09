@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016"]
 keywords: ["Section 17A", "MACC Act", "corporate liability", "adequate procedures", "T.R.U.S.T.", "anti-corruption Malaysia", "corporate bribery", "GIACC"]
+framework: rules
 ---
 
 ஒரு கீழ்நிலை விற்பனை முகவர் ஒரு ஒப்பந்தத்தை வெல்ல ஒரு தரகுத்தொகையை (kickback) செலுத்துகிறார், அதை இயக்குநர் குழுவிடம் ஒருபோதும் சொல்வதில்லை. 2020 முதல் மலேசியச் சட்டத்தின் கீழ், அந்தச் செயல் கம்பெனியையே வழக்குக்கு உள்ளாக்கக்கூடும் — அதனுடன் இயக்குநர்களையும். இதுதான் Malaysian Anti-Corruption Commission Act 2009-இன் Section 17A-இன் வீச்சு.

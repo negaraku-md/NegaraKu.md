@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "George Town Melaka inscription criteria", "Gunung Mulu World Heritage", "Lenggong Valley Perak Man", "Niah Caves UNESCO 2024"]
+framework: data-reference
 ---
 
 マレーシアにいくつの世界遺産があるかと尋ねれば、多くの情報源は「四つ」と答えるだろう。それは2024年までは正しかった。ニア洞窟群は同年7月に登録され、Forest Research Institute Malaysia Forest Park Selangorが2025年にこれに続き——合計は六件となった。

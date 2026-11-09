@@ -99,6 +99,7 @@ verificationNeeded:
   - "Iban-specific kasam fermentation methods (fermentation times, the use of rice and kepayang leaves, and how kasam differs from Peninsular pekasam or Sarawak balur) — available sources describe general Sarawak and Malay practice rather than documented Iban technique; confirm with a culinary-heritage or academic source."
   - "Whether the midin fern (Stenochlaena palustris) is genuinely found only in Sarawak. Sarawak tourism material calls it unique to the state, but produce and botanical sources describe it as a wild fern of tropical swampy regions more broadly — confirm with a botanical source."
   - "The precise ritual and religious role of tuak at Gawai Dayak (offerings to rice spirits or Petara, and customary serving to guests). Popular and news accounts differ in detail and some describe evolving or commercialised practice — confirm with an anthropological or community source."
+framework: history-culture
 ---
 
 Step into an Iban longhouse kitchen in the Sarawak interior and the pantry is

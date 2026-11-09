@@ -96,6 +96,7 @@ social:
     - "#MalaysianDessert"
     - "#ShavedIce"
     - "#PasarMalam"
+framework: explainer
 ---
 
 En una calurosa tarde malasia, pocas cosas atraen a una multitud como el zumbido

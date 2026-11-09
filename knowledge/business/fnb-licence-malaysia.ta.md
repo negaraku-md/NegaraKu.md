@@ -119,6 +119,7 @@ keywords:
   - "halal certification Malaysia"
   - "food handler certificate Malaysia"
   - "liquor licence Malaysia"
+framework: rules
 ---
 
 உணவக உரிமம் என்று ஒன்று இல்லை. இருப்பது நான்கு அல்லது ஐந்து வெவ்வேறு

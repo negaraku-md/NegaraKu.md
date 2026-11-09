@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malaysia FTA", "CPTPP Malaysia", "RCEP Malaysia", "free trade agreement", "MITI", "tariff elimination", "ASEAN Free Trade Area", "bilateral FTA"]
+framework: explainer
 ---
 
 La plupart des importations et exportations de la Malaisie franchissent des frontières où les droits de douane ont déjà été négociés à la baisse. Ce réseau s'est assemblé accord par accord depuis le début des années 1990 — de la Zone de libre-échange de l'ANASE aux deux méga-accords, RCEP et CPTPP, qui en occupent aujourd'hui le centre.

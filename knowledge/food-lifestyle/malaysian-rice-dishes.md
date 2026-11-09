@@ -95,6 +95,7 @@ verificationNeeded:
   - "The origin and etymology of nasi kandar (commonly linked to itinerant vendors who carried pots on a shoulder pole, 'kandar') — confirm the account against a Penang heritage or culinary-history source rather than food media alone."
   - "The regional attribution of nasi dagang (associated with Terengganu and Kelantan, with differing local versions) and of nasi kerabu's blue colouring from butterfly-pea flower — confirm with local or state sources."
   - "The claim that nasi beriani/nasi minyak traditions entered Malaysia chiefly through Indian-Muslim and Malay royal-court kitchens — confirm with a culinary-history source, as popular accounts vary."
+framework: explainer
 ---
 
 Ask what Malaysians eat and the honest answer is usually *rice* — just rarely

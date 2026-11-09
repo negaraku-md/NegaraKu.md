@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "entertainment-expenses" }
 related: ["section-33-deductibility", "labuan-tax-regime", "withholding-tax-non-compliance", "withholding-tax-rates"]
 keywords: ["section 39 income tax act 1967", "dépenses non déductibles Malaisie", "dépenses refusées calcul fiscal", "39(1)(j) retenue à la source", "39(1)(r) labuan", "réintégration calcul fiscal Malaisie", "non deductible expenses malaysia"]
+framework: rules
 ---
 
 La plupart des tableaux de réintégrations sont construits par habitude. Amortissement, accueil, amendes, dons — les mêmes six lignes chaque année, recopiées d'un exercice à l'autre. La section 39(1) contient en réalité dix-huit interdictions en vigueur, et celles qui coûtent le plus d'argent ne figurent sur la liste habituelle de personne.

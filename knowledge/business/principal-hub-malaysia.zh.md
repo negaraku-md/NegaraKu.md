@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "representative-regional-office-malaysia" }
 related: ["mida"]
 keywords: ["principal hub malaysia", "global services hub malaysia", "regional headquarters malaysia", "MIDA principal hub incentive", "GSH tax incentive malaysia", "headquarters incentive malaysia"]
+framework: explainer
 ---
 
 跨国企业不会随便把区域总部设在任何地方——它们追随优惠。多年来，马来西亚向那些正在决定区域管理、财务及共享服务业务落户何处的公司所提供的卖点，是 **Principal Hub**（主要枢纽）优惠。该计划已经关闭，而网上许多建议尚未跟上。如果你今天正把马来西亚作为业务基地进行考察，真正存在的路径是 **Global Services Hub**（全球服务枢纽）。

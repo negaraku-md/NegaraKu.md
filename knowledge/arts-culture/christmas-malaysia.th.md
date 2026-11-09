@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "sabah" }
 related: ["religion-statistics", "article-3-religion", "sarawak", "sabah"]
 keywords: ["Christmas in Malaysia", "Christmas Day public holiday Malaysia", "Christmas Eve Sabah holiday", "Malaysian open house Christmas", "Christians in Malaysia", "Midnight Mass Malaysia", "Holidays Act 1951 Christmas"]
+framework: history-culture
 ---
 
 ในเย็นวันที่ 24 ธันวาคม โบสถ์แห่งหนึ่งในโกตากินาบาลู (Kota Kinabalu) หรือกูจิง (Kuching) เต็มไปด้วยผู้คนสำหรับพิธีค่ำ ขณะที่ห่างออกไปไม่กี่ร้อยกิโลเมตรบนคาบสมุทร วันเดียวกันนั้นเป็นวันพฤหัสบดีทำงานปกติ เช้าวันรุ่งขึ้น 25 ธันวาคม ทั้งประเทศหยุดงาน การแยกกันนั้น — วันเดียวกัน สองสถานะที่ต่างกันมาก — เป็นวิธีที่ชัดเจนที่สุดในการเข้าใจว่าคริสต์มาสมีที่ทางอย่างไรในมาเลเซีย กล่าวคือ เทศกาลทางศาสนาสำหรับชุมชนหนึ่ง วันหยุดราชการสำหรับทุกคน และฤดูกาลของการเปิดประตูต้อนรับที่หลายคนเข้าร่วมโดยไม่คำนึงถึงศาสนา

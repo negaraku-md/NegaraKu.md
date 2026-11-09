@@ -87,6 +87,7 @@ relations:
   - { rel: "explained-in", to: "national-heritage-act-2005" }
 related: ["teh-tarik"]
 keywords: ["nasi lemak", "roti canai", "char kuey teow", "laksa", "asam laksa", "platos nacionales de Malasia", "comida patrimonial", "patrimonio inmaterial UNESCO", "comida malasia"]
+framework: explainer
 ---
 
 Pídele a diez malasios que nombren el «plato nacional» del país, y nueve de ellos dirán nasi lemak antes de que termines la pregunta. Sin embargo, la verdadera respuesta es más interesante: Malasia nunca ha declarado legalmente un único plato — en su lugar, el país tiene un puñado de platos que, en conjunto, llevan su identidad al escenario mundial.

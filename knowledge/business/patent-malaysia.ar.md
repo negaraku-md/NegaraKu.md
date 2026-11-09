@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["industrial-design-malaysia", "ip-ownership-malaysia", "trademark-registration-malaysia"]
 keywords: ["براءة اختراع ماليزيا", "الابتكار النفعي ماليزيا", "رسوم براءة myipo", "patents act 1983", "utility innovation vs patent", "patent malaysia"]
+framework: decision
 ---
 
 معظم الشركات الماليزية الصغيرة والمتوسطة التي تسأل عن براءة اختراع لا تملك في

@@ -113,6 +113,7 @@ relations:
   - { rel: "related-to", to: "income-tax-act-1967" }
 related: ["income-tax-act-1967", "companies-act-2016"]
 keywords: ["SST", "sales tax", "service tax", "RMCD", "MySST", "SST registration", "Sales Tax Act 2018", "Service Tax Act 2018", "SST rates", "SST threshold"]
+framework: rules
 ---
 
 Si vous vous êtes déjà demandé pourquoi votre addition au restaurant comporte une ligne «SST» alors que votre ticket de supermarché n'en comporte généralement pas, vous êtes tombé sur les deux moitiés très différentes de la même taxe. La Malaisie n'applique pas une taxe à la consommation unique et à large assiette comme la GST ou la TVA. Elle applique plutôt deux taxes plus étroites — une Taxe sur les ventes sur les biens et une Taxe sur les services sur les services — regroupées sous l'appellation **SST** et administrées par le Département royal des douanes de Malaisie (RMCD).

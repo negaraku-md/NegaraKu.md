@@ -142,6 +142,7 @@ relations:
   - { rel: "requires", to: "sst-registration" }
 related: ["sst-explained", "sst-registration", "sst-rate-table", "sst-b2b-exemption", "sst-02-filing"]
 keywords: ["SST expansion 2025", "service tax expansion Malaysia", "Group K rental leasing service tax", "construction service tax 6%", "non-reviewable contract exemption", "private healthcare service tax"]
+framework: rules
 ---
 
 ข้อผิดพลาดที่พบบ่อยที่สุดที่หมุนเวียนอยู่เกี่ยวกับการขยายปี 2025 คือการก่อสร้างอยู่ใน Group K มันไม่ใช่ Group K คือการเช่าหรือให้เช่า Group L คืองานก่อสร้าง และ Group M คือการศึกษา — และหากคุณยื่นเทียบกับกลุ่มที่ผิด คุณจะใช้อัตราที่ผิดและเกณฑ์ที่ผิดในแบบแสดงรายการเดียวกัน

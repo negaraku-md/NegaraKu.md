@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "dependant-social-visit-passes", "student-pass"]
 keywords: ["تجاوز المدة في ماليزيا", "القائمة السوداء للهجرة", "التصريح الخاص", "حظر إعادة الدخول", "overstay Malaysia", "immigration blacklist", "Special Pass", "Immigration Act 1959/63", "compound fine", "re-entry ban", "section 15", "Overstay Management Programme"]
+framework: rules
 ---
 
 التصريح الذي انتهت صلاحيته بيوم واحد هو، في نظر القانون الماليزي، المخالفة نفسها التي انتهت صلاحيتها بمئة يوم. تلك هي نقطة الانطلاق غير المريحة لكل من يدرك أن تصريح زيارته أو عمله أو إعالته أو دراسته أو تصريحه المهني قد انتهى — وهي تحدد كل شيء بشأن ما يحدث بعد ذلك.

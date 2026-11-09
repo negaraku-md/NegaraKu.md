@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "pewter" }
 related: ["songket", "jawi-script", "pewter", "terengganu", "kelantan"]
 keywords: ["ukiran kayu", "ukiran kayu Melayu", "awan larat", "Desa Ukiran Kayu Besut", "motif ukiran kayu", "kraf kayu Terengganu"]
+framework: history-culture
 ---
 
 Lihat baik-baik pada panel kayu di jendela sebuah rumah Melayu lama, dan coba cari di mana coraknya bermula. Anda tidak akan menemukannya. Itu bukan kesalahan mata Anda — ia memang dirancang demikian.

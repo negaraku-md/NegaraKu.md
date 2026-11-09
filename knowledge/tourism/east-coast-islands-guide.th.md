@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "northeast-monsoon" }
 related: []
 keywords: ["Perhentian", "Redang", "Tioman", "Kapas", "marine park", "conservation fee", "northeast monsoon", "Malaysia islands", "snorkelling", "diving"]
+framework: explainer
 ---
 
 หากคุณไปถึงรีสอร์ตชายหาดในเรดังเดือนธันวาคม คุณมีแนวโน้มจะพบว่าเรือหายไป ท่าเรือเงียบสงบ และร้านดำน้ำปิดสนิท หมู่เกาะชายฝั่งตะวันออกดำเนินตามปฏิทินที่เขียนขึ้นโดยท้องทะเล ไม่ใช่โบรชัวร์ท่องเที่ยว และดำเนินตามชุดกฎอุทยานทางทะเลที่ผู้มาเยือนครั้งแรกส่วนใหญ่เพิ่งค้นพบที่เคาน์เตอร์จำหน่ายตั๋ว

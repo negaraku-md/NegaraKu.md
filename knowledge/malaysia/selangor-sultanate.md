@@ -61,6 +61,7 @@ verificationNeeded:
   - "The formal date Selangor entered the Federated Malay States: sources vary between the 1895 federation agreement and the FMS coming into force on 1 July 1896. The article uses 1896; confirm against the Federation of Malay States treaty text or Arkib Negara Malaysia."
   - "The exact year the first British Resident of Selangor (James Guthrie Davidson) took up the post: sources give both 1874 and 1875. Confirm with an academic history such as J.M. Gullick's work on Selangor."
   - "The death date of Sultan Salehuddin Shah (sources give 1778 and 1782) and the precise 1766 coronation details at Kota Lumut; confirm with a scholarly history of Selangor."
+framework: history-culture
 ---
 
 On the west coast of the Malay Peninsula, where the Klang and Selangor rivers drain into the Strait of Malacca, a seafaring people from the far side of the archipelago built one of the peninsula's wealthiest states. Their fortune was not built on spice or gold but on tin — the grey ore buried in the valleys that would, within a century, drag the young sultanate into a war over its own riches and, eventually, under the shadow of a British Resident. This is the story of the Selangor Sultanate, a Bugis dynasty whose line still sits on the throne today.

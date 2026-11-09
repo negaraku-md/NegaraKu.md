@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "mdec-digital-status" }
 related: ["sme-financing-malaysia"]
 keywords: ["government grants malaysia", "SME grant malaysia", "startup grant malaysia", "cradle CIP grant", "MDEC digital grant", "MSME digital grant madani", "matching grant malaysia", "business funding malaysia"]
+framework: data-reference
 ---
 
 Cari "geran kerajaan Malaysia" dan anda akan mendapat berpuluh-puluh senarai yang menjanjikan wang percuma untuk perniagaan anda. Realitinya lebih berguna dan lebih rumit: wang itu wujud, tetapi separuh daripada apa yang dipanggil "geran" sebenarnya adalah pinjaman, pelaburan ekuiti, atau bayaran balik wang yang perlu anda belanjakan dahulu. Perkara paling berharga yang boleh anda pelajari sebelum memohon ialah cara membezakannya.

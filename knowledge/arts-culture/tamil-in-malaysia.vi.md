@@ -88,6 +88,7 @@ relations:
   - { rel: "compares-with", to: "bahasa-melayu" }
 related: ["population-composition", "article-152-language", "bahasa-melayu", "languages-spoken", "federal-constitution"]
 keywords: ["Tamil in Malaysia", "SJKT", "Sekolah Jenis Kebangsaan Tamil", "Tamil schools Malaysia", "Malaysian Indians", "Article 152", "Tamil medium instruction", "vernacular schools"]
+framework: explainer
 ---
 
 Trên các đồn điền cao su xưa của Mã Lai, một số lớp học sớm nhất là những chiếc lán và túp lều, và các bài học được dạy bằng tiếng Tamil. Theo một nghiên cứu lịch sử đăng trên tạp chí của Hội Lịch sử Malaysia, một nền giáo dục tiểu học cơ bản bằng tiếng Tamil được cung cấp trên các đồn điền từ đầu thế kỷ 20, theo các bộ luật lao động thời bấy giờ và, trong một thời gian dài, được các nhân viên văn thư và người dạy bán thời gian đảm nhận thay vì giáo viên được đào tạo.

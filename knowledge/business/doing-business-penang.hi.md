@@ -121,6 +121,7 @@ keywords:
   - "बायन लेपस मुक्त औद्योगिक क्षेत्र"
   - "doing business in Penang"
   - "MBPP business licence"
+framework: profile
 ---
 
 पेनांग में व्यापार करने के बारे में पहला सवाल यह नहीं है कि क्या पंजीकृत करें। यह है कि

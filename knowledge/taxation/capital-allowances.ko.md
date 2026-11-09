@@ -136,6 +136,7 @@ relations:
   - { rel: "related-to", to: "non-deductible-expenses" }
 related: ["losses-and-group-relief", "form-c-and-cp204", "basis-period-and-accounting-date"]
 keywords: ["capital allowance malaysia", "schedule 3 income tax act 1967", "initial allowance annual allowance", "balancing charge malaysia", "small value asset RM2000", "qualifying plant expenditure"]
+framework: explainer
 ---
 
 회계장부의 감가상각 항목은 LHDN에게 아무런 가치가 없습니다. 소득세법 1967(Income Tax Act 1967) 제39(1)(e)항은 부칙 3(Schedule 3)의 목적상 적격 지출인 어떤 지출도 부인합니다 — 따라서 회계상의 상각액은 전액 가산 조정되고, 부칙 3이 자체 기준으로 그 자산이 실제로 얼마의 공제를 언제 받는지 결정합니다.

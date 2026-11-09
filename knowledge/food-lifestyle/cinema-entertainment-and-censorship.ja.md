@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "consumer-protection-act" }
 related: ["sedition-act", "consumer-protection-act"]
 keywords: ["penapisan filem", "Lembaga Penapisan Filem", "LPF", "klasifikasi filem", "P12", "P13", "Akta Penapisan Filem 2002", "lesen hiburan", "karaoke", "pawagam", "DBKL", "pihak berkuasa tempatan"]
+framework: explainer
 ---
 
 YouTubeでバイラルになった映画は、映画検閲委員会を一度も通っていないかもしれない——しかし同じ映画であっても、映画館で上映しようとすれば、まずその承認の印を得なければならない。この違いは偶然生まれた緩さではない。それはマレーシアの法律が、公衆が何を見ることができるかを管理する仕組みそのものに組み込まれている。

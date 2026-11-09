@@ -100,6 +100,7 @@ keywords:
   - "foreign owned company Malaysia licence"
   - "WRT paid up capital"
   - "WRT employment pass"
+framework: rules
 ---
 
 Cari informasi tentang izin WRT dan Anda akan diberi tahu, dengan yakin dan berulang kali,

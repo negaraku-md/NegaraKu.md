@@ -93,6 +93,7 @@ relations:
   - { rel: "part-of", to: "malaysia-agreement-1963" }
 related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
 keywords: ["Sabah travel guide", "Kota Kinabalu", "Mount Kinabalu climb permit", "Kinabalu Park UNESCO", "Sipadan diving permit", "Sepilok orangutan", "Sabah immigration checkpoint", "Sabah entry requirements"]
+framework: explainer
 ---
 
 คุณบินจากกัวลาลัมเปอร์ไปโกตากีนาบาลูได้โดยไม่ต้องออกนอกประเทศ และยังต้องต่อคิวที่เคาน์เตอร์ตรวจคนเข้าเมืองเมื่อลงเครื่อง ความประหลาดใจนั้นทำให้ผู้มาเยือนครั้งแรกหลายคนสะดุด และเป็นสิ่งสำคัญที่สุดที่ต้องเข้าใจก่อนคุณวางแผนทริปสู่ซาบาห์ คู่มือนี้เดินผ่านประตู แหล่งท่องเที่ยวพาดหัว และกฎการเข้าที่ทำให้ซาบาห์รู้สึกเหมือนเป็นที่ของตัวเอง เพราะในแง่หนึ่งที่เป็นจริงมาก มันเป็นเช่นนั้น

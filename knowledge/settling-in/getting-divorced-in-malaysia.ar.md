@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "registering-a-marriage-civil" }
 related: ["getting-married-in-malaysia", "registering-a-marriage-civil"]
 keywords: ["الطلاق في ماليزيا", "الطلاق المدني", "الطلاق الشرعي", "talak", "fasakh", "khuluk", "Law Reform Marriage and Divorce Act 1976", "Section 51 conversion to Islam", "محكمة الشريعة"]
+framework: explainer
 ---
 
 يتقدّم زوجان ماليزيان لإنهاء زواجهما في الصباح نفسه. يدخل أحدهما سجلّ المحكمة العليا المدنية؛ ويتوجّه الآخر إلى مكتب شؤون دينية إسلامية بالولاية. ولا يستطيع أيٌّ منهما استخدام باب الآخر. ففي ماليزيا، إنهاء الزواج — كبدئه — يجري عبر نظامين قانونيين منفصلين، ودين الطرفين، لا تفضيلهما، هو ما يحدّد النظام المنطبق.

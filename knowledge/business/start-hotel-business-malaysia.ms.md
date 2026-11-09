@@ -79,6 +79,7 @@ social:
     - MOTAC
     - DoingBusinessInMalaysia
     - StartABusiness
+framework: how-to
 ---
 
 Membeli bangunan, melengkapkan bilik dan menerima tempahan pertama ialah bahagian yang mudah dalam membuka hotel. Bahagian yang menghentikan orang ialah perniagaan penginapan pelancong di Malaysia bertanggungjawab kepada beberapa pihak berkuasa serentak — pendaftaran syarikat, pihak berkuasa tempatan, kementerian pelancongan dan jabatan bomba — dan salah satu daripadanya, MOTAC, menghendaki anda mendaftarkan premis **sebelum** anda beroperasi. Langkau ia dan anda bukan sekadar tidak digred; anda mengendalikan perniagaan pelancongan tanpa lesen, satu kesalahan yang boleh menelan sehingga RM500,000 atau penjara sepuluh tahun.

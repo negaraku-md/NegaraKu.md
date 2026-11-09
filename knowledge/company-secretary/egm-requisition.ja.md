@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "remove-a-director" }
 related: ["remove-a-director", "agm-requirements", "resolution-notice-periods", "written-resolutions"]
 keywords: ["EGM requisition Malaysia", "section 311 Companies Act 2016", "shareholders call meeting", "10 per cent requisition", "minority shareholder meeting"]
+framework: how-to
 ---
 
 マレーシアの秘書事務所はどこも、会議について取締役会側の視点から書く。取締役会こそが顧客だからだ。その結果、少数株主が実際に必要としているただ一つの手続——取締役が望まない会議を強制的に開かせること——は、市場からほぼ姿を消している。

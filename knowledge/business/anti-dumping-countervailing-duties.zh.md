@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "sector-licence-directory" }
 related: ["sector-licence-directory", "manufacturing-licence-malaysia"]
 keywords: ["anti-dumping duty malaysia", "countervailing duty malaysia", "act 504", "miti trade remedies", "anti dumping steel malaysia", "import hs code duty malaysia", "trade remedies petition malaysia"]
+framework: how-to
 ---
 
 一名进口商清关了一批来自越南的镀锌钢卷，缴了普通进口税，事后却收到关税局寄来的账单，

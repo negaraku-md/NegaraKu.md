@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#Leens", "#BibGourmand", "#MichelinGuide", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 在 Taman Tun Dr Ismail 的一间店屋里，新鲜出炉面包的香气在招牌之前就先把 Leen's

@@ -104,6 +104,7 @@ relations:
   - { rel: "compares-with", to: "sst-expansion-2025" }
 related: ["sst-explained", "sst-registration", "sst-02-filing", "sst-rate-table"]
 keywords: ["sales tax Malaysia", "sales tax rate 2025", "Schedule C exemption", "CJ5 CJ5A", "sales tax deduction facility", "manufacturer sales tax"]
+framework: explainer
 ---
 
 もしあなたの顧問が、原材料を免税で購入するためにCJ5を提出するよう言っているなら、それは2018年に廃止された様式を指している。CJ5、CJ5A及びCJ5Bは、1972年売上税法（Sales Tax Act 1972）のもとでの証明書であった。2018年売上税法（Sales Tax Act 2018、Act 806）のもとでは、これに相当する制度はSales Tax (Persons Exempted from Payment of Tax) Order 2018の**Schedule C**であり、RMCD自身のFAQもその旨を明言している。

@@ -121,6 +121,7 @@ keywords:
   - "Medini incentives expired"
   - "Iskandar vs JS-SEZ"
   - "Wilayah Pembangunan Iskandar"
+framework: explainer
 ---
 
 Hampir setiap catatan tentang sejarah insentif Johor menyebut hal yang sama: JS-SEZ menggantikan

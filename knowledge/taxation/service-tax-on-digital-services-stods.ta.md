@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["service-tax-act-2018", "withholding-tax-digital-services", "low-value-goods-sales-tax", "sst-registration"]
 keywords: ["service tax on digital services", "SToDS Malaysia", "digital service tax Malaysia 8%", "foreign registered person FRP", "MySToDS DST-01 DST-02", "cukai perkhidmatan digital", "foreign SaaS tax Malaysia", "online services service tax"]
+framework: explainer
 ---
 
 உங்கள் Netflix ரசீதில் உள்ள வரிப்பொருள், உங்கள் நிறுவனத்தின் AWS விலைப்பட்டியலில் உள்ள வரி, ஒரு Canva அல்லது Adobe சந்தாவில் கூடுதலாக உள்ள சில ரிங்கிட் — அது ஒரு குறிப்பிட்ட மலேசிய வரி வேலை செய்வதே, மேலும் பெரும்பாலானோர் கேள்விப்படாத ஒரு பெயர் அதற்கு உள்ளது: SToDS.

@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["service-tax-act-2018", "withholding-tax-digital-services", "low-value-goods-sales-tax", "sst-registration"]
 keywords: ["service tax on digital services", "SToDS Malaysia", "digital service tax Malaysia 8%", "foreign registered person FRP", "MySToDS DST-01 DST-02", "cukai perkhidmatan digital", "foreign SaaS tax Malaysia", "online services service tax"]
+framework: explainer
 ---
 
 Dòng chi phí trên hóa đơn Netflix của bạn, khoản thuế trên hóa đơn AWS của công ty bạn, vài ringgit cộng thêm vào một đăng ký Canva hay Adobe — đó là một loại thuế cụ thể của Malaysia đang vận hành, và nó có một cái tên mà hầu hết mọi người chưa từng nghe: SToDS.

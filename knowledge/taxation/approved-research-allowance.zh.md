@@ -108,6 +108,7 @@ relations:
   - { rel: "compares-with", to: "capital-allowances" }
 related: ["double-deduction-list", "capital-allowances", "section-33-deductibility", "tax-incentives-directory"]
 keywords: ["approved research allowance malaysia", "r&d double deduction malaysia", "section 34a income tax act", "section 34b double deduction", "r&d status mida", "borang 1 r&d lhdn"]
+framework: explainer
 ---
 
 拿「经批准研究减免」去问三位顾问，你会得到三个答案，因为根本没有这项减免。Income Tax Act 1967 里没有任何地方用过这个词。实际存在的是三项各自独立、批准途径不同、期限也不同的扣除，外加第四套完全不同、由 MIDA 运作的制度。把它们混为一谈，正是一家公司最后拿到一项自己撑不住的双倍扣除的原因。

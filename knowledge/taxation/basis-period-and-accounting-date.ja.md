@@ -72,6 +72,7 @@ relations:
   - { rel: "affects", to: "form-c-and-cp204" }
 related: ["form-c-and-cp204", "corporate-tax-rates", "income-tax-act-1967"]
 keywords: ["basis period Malaysia", "section 21A", "failure year", "CP204B", "change accounting date Malaysia", "tempoh asas"]
+framework: explainer
 ---
 
 3月に設立され、翌年6月30日に最初の決算を締めるSdn Bhdには、**最初の暦年について賦課年度が全く存在しない**。基準期間もなく、Form Cもなく、課税所得もない。会社は毎年申告するものだと聞かされてきた取締役たちはこれに驚くが、これは単にsection 21Aの仕組みにすぎない。

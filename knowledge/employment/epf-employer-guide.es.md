@@ -98,6 +98,7 @@ relations:
   - { rel: "explained-in", to: "epf-foreign-workers-malaysia" }
 related: ["payroll-compliance-malaysia", "epf-foreign-workers-malaysia", "socso-eis-employer-guide"]
 keywords: ["tarifa cotización EPF Malasia", "EPF Third Schedule", "cotización empleador KWSP", "EPF 13 por ciento 12 por ciento", "caruman KWSP majikan"]
+framework: rules
 ---
 
 Pregunte a un administrador de nóminas malasio cuál es la tarifa patronal del EPF y le dirá 13 por ciento. Pídale que calcule la cotización sobre un salario de RM3,250 y la mayoría multiplicará. Esa multiplicación no está permitida, y da el número equivocado.

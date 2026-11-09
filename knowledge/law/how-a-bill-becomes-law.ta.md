@@ -84,6 +84,7 @@ relations:
   - { rel: "explained-in", to: "akta" }
 related: ["federal-constitution", "parliament", "dewan-negara", "warta-kerajaan"]
 keywords: ["rang undang-undang menjadi akta", "proses penggubalan undang-undang Malaysia", "bacaan pertama kedua ketiga", "perkenan diraja Yang di-Pertuan Agong", "Perkara 66 Perlembagaan Persekutuan", "Dewan Negara rang undang-undang", "pewartaan akta", "Perkara 68 rang undang-undang wang"]
+framework: explainer
 ---
 
 ஒரு மசோதா (Bill) Dewan Rakyat-ஆல் (மக்கள் அவை) நிறைவேற்றப்படலாம், Dewan Negara-வால் (மேலவை) இணங்கப்படலாம், மேலும் பேரிலச்சினையால் (Mohor Besar / Great Seal) பொறிக்கப்படலாம் — இருப்பினும் அது இன்னும் எவரையும் கட்டுப்படுத்தாது.

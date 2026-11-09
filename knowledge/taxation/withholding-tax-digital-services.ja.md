@@ -104,6 +104,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-non-compliance", "imported-taxable-services", "cp37-forms"]
 keywords: ["withholding tax SaaS Malaysia", "withholding tax on software", "digital advertising withholding tax", "Practice Note 1/2018", "cloud subscription royalty Malaysia", "imported taxable services vs withholding tax"]
+framework: rules
 ---
 
 マレーシアの中小企業は毎月、外国のホスティング料金、デザインツールのサブスクリプション、広告プラットフォーム及びマーケットプレイス手数料を支払い、そのいずれについても源泉徴収を行っていない。そこへ税務調査が入ると、問題は税が発生していたかどうかではない——二つのまったく別個の税のうち、どちらが発生していたかである。なぜなら、答えは往々にして両方だからである。

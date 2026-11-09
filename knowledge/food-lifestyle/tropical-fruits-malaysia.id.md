@@ -97,6 +97,7 @@ verificationNeeded:
   - "Bulan persis musim durian dan buah secara umum berbeda menurut wilayah dan tahun bersama curah hujan serta pembungaan — pastikan waktu untuk tahun berjalan dengan Jabatan Pertanian Malaysia (DOA) atau MARDI, alih-alih menetapkan tanggal tertentu."
   - "Apakah langsat, duku, dan dokong merupakan gradasi/kultivar dari satu spesies (Lansium parasiticum) atau varietas terpisah, dan perbedaan persis di antaranya — pastikan dengan sumber hortikultura seperti MARDI."
   - "Kepercayaan rakyat bahwa durian 'panas' atau berbahaya bila dimakan bersama alkohol bersifat tradisional dan tidak terbukti kuat oleh bukti — tandai sebagai kepercayaan, bukan fakta."
+framework: explainer
 ---
 
 Berjalan melintasi *pasar* mana pun di Malaysia pada pertengahan tahun, lapak buah

@@ -91,6 +91,7 @@ relations:
   - { rel: "compares-with", to: "akpk-debt-management-programme" }
 related: []
 keywords: ["kebankrapan", "bankrap", "insolvensi", "Akta Insolvensi 1967", "MDI", "Ketua Pengarah Insolvensi", "pelepasan bankrap", "seksyen 33C", "AKPK", "DMP"]
+framework: explainer
 ---
 
 변제되지 않은 청구서 하나가, 은행 계좌에서부터 출국 허가에 이르기까지 한 사람의 거의 모든 금융 거래를 바꾸어 놓는 법원 명령으로 끝날 수 있습니다. 말레이시아에서 그 경계선은 단 하나의 법률로 정의됩니다: 파산법(Insolvency Act 1967, 제360호법). 이 글은 그 절차를 어느 한쪽에 치우치지 않고 설명하는 방식으로 서술합니다.

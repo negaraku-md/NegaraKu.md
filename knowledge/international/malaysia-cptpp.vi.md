@@ -80,6 +80,7 @@ relations:
   - { rel: "affects", to: "bumiputera-equity-requirements" }
 related: ["external-trade", "matrade", "anti-dumping-countervailing-duties", "bumiputera-equity-requirements"]
 keywords: ["CPTPP Malaysia", "Trans-Pacific Partnership Malaysia", "CPTPP ratification", "CPTPP certificate of origin", "CPTPP tariff elimination", "CPTPP members", "Malaysia free trade agreement"]
+framework: explainer
 ---
 
 Một nhà xuất khẩu bánh kẹo Malaysia vận chuyển hàng đến Vancouver đã ngừng phải trả thuế nhập khẩu 15% vào ngày CPTPP có hiệu lực — và một dòng thuế duy nhất đó là một ô cửa nhỏ nhìn vào một trong những hiệp định thương mại rộng nhất mà Malaysia từng ký. Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương tái cấu trúc cách hàng hóa, dịch vụ và đầu tư của Malaysia dịch chuyển khắp một tá nền kinh tế ở cả hai bờ Thái Bình Dương. Nó cũng cam kết Malaysia tuân theo các quy tắc vươn xa hơn nhiều so với quầy hải quan — đến cách các công ty nhà nước cạnh tranh, cách sở hữu trí tuệ được thực thi, và cách các tranh chấp với nhà đầu tư nước ngoài được giải quyết.

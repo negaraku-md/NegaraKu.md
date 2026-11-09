@@ -137,6 +137,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["stamp-duty-share-transfer", "register-of-members", "share-allotment", "share-transmission", "capital-gains-tax", "beneficial-ownership"]
 keywords: ["share transfer Malaysia", "transfer shares Sdn Bhd", "Form 32A share transfer", "section 106 Companies Act 2016", "share transfer stamp duty 30 days"]
+framework: how-to
 ---
 
 Pengalihan saham dalam Sdn Bhd gagal dalam salah satu dari dua cara. Entah

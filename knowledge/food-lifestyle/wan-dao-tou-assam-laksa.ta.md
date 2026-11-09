@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#AssamLaksa", "#Penang", "#BibGourmand", "#MalaysianFood", "#Malaysia"]
+framework: profile
 ---
 
 assam laksa-வை ஒரு பெருமையாகக் கருதும் ஒரு நகரத்தில், Wan Dao Tou ஆனது MICHELIN

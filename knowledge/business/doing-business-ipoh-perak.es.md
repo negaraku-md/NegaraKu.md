@@ -98,6 +98,7 @@ keywords:
   - "Perak industrial land price"
   - "Perak GDP"
   - "Ipoh cost of doing business"
+framework: profile
 ---
 
 Esta es una página corta a propósito. El régimen jurídico de Perak es el mismo que el de

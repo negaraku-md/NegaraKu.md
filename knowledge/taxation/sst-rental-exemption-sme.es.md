@@ -73,6 +73,7 @@ social:
     - MalaysiaSME
     - CommercialProperty
     - DoingBusinessInMalaysia
+framework: rules
 ---
 
 Si alquila un local comercial, una oficina, un almacén o un equipo para su negocio, su arrendamiento cambió discretamente el 1 de julio de 2025. Ese día, el **SST ampliado** de Malasia incorporó el arrendamiento o leasing de propiedad comercial y de otros activos tangibles al ámbito del **impuesto sobre servicios** — de modo que un arrendador por encima de cierto tamaño ahora debe añadir un **8%** al alquiler. Esa misma reforma, sin embargo, se diseñó con una vía de escape deliberada para las pequeñas empresas: un umbral de registro elevado y una exención específica que un pequeño arrendatario puede reclamar. Aquí se explica quién debe cobrar el impuesto, quién está protegido de él y las fechas que deciden.

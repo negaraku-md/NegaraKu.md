@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "qingming-festival" }
 related: ["qingming-festival", "chinese-clan-associations", "tua-pek-kong", "chinese-religion-in-malaysia"]
 keywords: ["义山", "华人义山", "坟山", "华人墓园", "三宝山", "Bukit Cina", "广东义山", "Kwong Tong Cemetery", "后土", "大伯公", "福德正神", "风水", "灵骨塔", "骨灰龛", "纪念花园", "清明", "拜山", "起骨", "马来西亚华人", "Chinese cemeteries Malaysia"]
+framework: history-culture
 ---
 
 Vào dịp Thanh Minh, khi trời còn chưa sáng hẳn, dưới chân đồi Bukit Cina ở Melaka đã đỗ chật xe. Hết gia đình này đến gia đình khác tay cầm hoa tươi, nhang, nến và lễ vật, men theo sườn đồi nhấp nhô đi về phía mộ tổ tiên nhà mình. Có người trước tiên thắp nhang tại một khám đá nhỏ bên cạnh mộ khắc chữ "Hậu Thổ", rồi quay sang chăm sóc bia mộ của người đã khuất — nhổ cỏ, tô lại những chữ khắc đã phai, rồi bày biện lễ vật. Những ngôi mộ dày đặc trải dọc sườn đồi, tất cả cùng một hướng, là chốn yên nghỉ của hết thế hệ này đến thế hệ khác người Hoa di cư xuống phương nam.

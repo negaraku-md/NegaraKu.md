@@ -84,6 +84,7 @@ faq:
     a: Tidak. Kuala Lumpur, Putrajaya dan Labuan ialah Wilayah Persekutuan, yang diletakkan di bawah pentadbiran persekutuan secara langsung oleh Senarai Persekutuan (perkara 27) dan bukannya ditadbir oleh sesebuah negeri. Ia tidak mempunyai Raja, Menteri Besar mahupun Dewan Undangan Negeri; KL dan Putrajaya ditadbir melalui Kementerian Wilayah Persekutuan. Hanya 13 buah negeri yang mempunyai Perlembagaan Negeri dan kerajaan mereka sendiri.
   - q: Jika kerajaan tempatan merupakan perkara Senarai Negeri, mengapa Parlimen membuat undang-undang mengenainya?
     a: Kerajaan tempatan ialah perkara 4 Senarai Negeri dalam Jadual Kesembilan, yang memberi negeri label perundangan itu. Tetapi Parlimen melaksanakan kuasa itu secara seragam untuk Semenanjung Malaysia melalui Akta Kerajaan Tempatan 1976 (Akta 171), iaitu statut persekutuan yang diterima pakai oleh negeri-negeri di bawah mekanisme keseragaman dalam Perlembagaan. Perkara 95A juga mewujudkan Majlis Negara bagi Kerajaan Tempatan yang keputusannya boleh mengikat negeri. Sabah dan Sarawak pula menggunakan ordinan mereka sendiri yang berasingan.
+framework: explainer
 ---
 
 Rakyat Malaysia mengundi seorang Ahli Parlimen. Mereka mengundi seorang ahli dewan undangan negeri. Mereka tidak pernah mengundi datuk bandar atau ahli-ahli majlis yang menetapkan cukai taksiran mereka, melesenkan gerai penjaja mereka, atau meluluskan tambahan rumah mereka — kerana pilihan raya itu tidak pernah diadakan di mana-mana pun di Malaysia sejak 1965.

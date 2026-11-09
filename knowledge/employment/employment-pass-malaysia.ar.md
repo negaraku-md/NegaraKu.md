@@ -124,6 +124,7 @@ entity: "Employment Pass (Malaysia)"
 relations: []
 related: ["labour-law-map-malaysia", ]
 keywords: ["employment pass malaysia", "راتب Employment Pass 2026", "فئات راتب EP", "تسجيل ESD", "myxpats", "المغتربون في ماليزيا", "تجديد Employment Pass"]
+framework: rules
 ---
 
 في 1 يونيو 2026 تضاعف سعر المغترب في ماليزيا عند القمّة.

@@ -72,6 +72,7 @@ social:
     - NGO
     - Persatuan
     - CivilSociety
+framework: how-to
 ---
 
 Bảy người bạn muốn vận hành một hiệp hội cư dân, một nhóm cựu sinh viên, một câu lạc bộ thể thao, một tổ chức tôn giáo hay một tổ chức phi chính phủ phúc lợi đều tìm đến cùng một mô hình pháp lý ở Malaysia: **hội**, hay *persatuan*. Nó là cấu trúc thành viên phi lợi nhuận mặc định của đất nước — rẻ để thiết lập và vốn hóa nhẹ — nhưng nó sống dưới luật riêng của mình, Luật Hội đoàn (Societies Act 1966), và cơ quan quản lý riêng của mình, và làm sai giấy tờ có thể khiến bạn vận hành một tổ chức *bất hợp pháp* mà không nhận ra.

@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "duitnow-qr" }
 related: ["pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["e-wallet Malaysia", "e-money", "Touch n Go eWallet", "Boost", "GrabPay", "ShopeePay", "BNM", "PIDM", "akaun amanah", "safeguarding"]
+framework: explainer
 ---
 
 계산대에서 "결제"를 누르면, 전자지갑 잔액이 몇 링깃 줄고, 거래가 1초 만에 끝납니다. 그런데 오늘 아침 "충전"한 RM200은 실제로 어디에 보관될까요 — 그리고 그 앱 뒤의 회사가 갑자기 파산하면 그 돈은 어떻게 될까요? 그 답은 당신의 은행 계좌 속 돈에 일어나는 일과 다르며, 그 차이가 중요합니다.

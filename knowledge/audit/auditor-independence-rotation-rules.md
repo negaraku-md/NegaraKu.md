@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "statutory-audit-process" }
 related: ["appointing-an-auditor", "changing-auditors", "statutory-audit-process", "audit-fees-malaysia"]
 keywords: ["auditor independence", "partner rotation", "cooling-off period", "public interest entity", "MIA By-Laws", "Section 540", "non-audit services", "self-review threat"]
+framework: rules
 ---
 
 An audit partner who has signed the same listed company's accounts for a decade knows where every skeleton is buried — and that is exactly the problem. The longer the relationship, the harder it is for a reasonable outsider to believe the opinion is truly independent. Malaysia answers that risk with a hard clock and a mandatory break.

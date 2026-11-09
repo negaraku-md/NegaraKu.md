@@ -98,6 +98,7 @@ relations:
   - { rel: "affects", to: "stamp-duty-employment-contracts" }
 related: ["stamp-duty-rates", "stamp-duty-employment-contracts", "stamp-duty-share-transfer"]
 keywords: ["STSDS", "التقييم الذاتي لرسم الدمغة ماليزيا", "نظام التقييم الذاتي لرسم الدمغة", "STAMPS", "BNDS", "مراحل رسم الدمغة 2026", "stamp duty self assessment Malaysia"]
+framework: explainer
 ---
 
 لا يزال معظم إرشادات رسم الدمغة المتداولة يصف نظامًا تُرسل فيه المستند إلى LHDN،

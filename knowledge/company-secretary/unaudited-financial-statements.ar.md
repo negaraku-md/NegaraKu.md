@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "mbrs-2" }
 related: ["audit-exemption", "financial-statements-lodgement", "mbrs-2", "sdn-bhd-filing-calendar", "mfrs-vs-mpers"]
 keywords: ["البيانات المالية غير المدقَّقة", "unaudited financial statements Malaysia", "شهادة إعفاء التدقيق", "audit exemption certificate", "Practice Directive 10/2024", "إيداع الحسابات غير المدققة SSM", "شهادة الشركة الخاصة المعفاة المادة 260", "exempt private company certificate section 260"]
+framework: rules
 ---
 
 التأهّل لإعفاء التدقيق يبدو كنهاية لمشكلة امتثال. وهو في الحقيقة بداية مشكلة

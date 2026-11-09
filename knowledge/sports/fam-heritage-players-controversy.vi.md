@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "fifa-eligibility-rules" }
 related: []
 keywords: ["naturalisasi", "pemain warisan", "FAM", "FIFA", "CAS", "Harimau Malaya", "dokumen palsu", "Artikel 22", "Piala Asia 2027"]
+framework: explainer
 ---
 
 Bảy cầu thủ sinh ở nước ngoài khoác lên chiếc áo Harimau Malaya vào tháng 6 năm 2025. Chưa đầy một năm sau, cơ quan trọng tài thể thao cao nhất thế giới xác nhận rằng các giấy tờ giúp họ đủ tư cách chơi cho Malaysia đã bị giả mạo. Vụ việc này đã khởi động một chuỗi các thủ tục kỷ luật của FIFA, một kháng cáo lên Tòa Trọng tài Thể thao (CAS), và một bản trình báo cảnh sát tại Malaysia.

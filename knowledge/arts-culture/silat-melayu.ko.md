@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["silat", "silat melayu", "seni silat", "silat pulut", "silat gayung", "PESAKA", "warisan budaya tidak ketara", "UNESCO Malaysia", "seni bela diri", "silat harimau"]
+framework: history-culture
 ---
 
 훌륭한 프실랏(pesilat, 실랏 수련자)은 상대의 뼈를 부러뜨릴 수도, 누구도 건드리지 않고 신랑 신부 앞에서 춤출 수도 있습니다. 둘 다 실랏입니다. 그것이 이 예술에서 가장 이해하기 어려운 점입니다. 그것은 단지 싸우는 방법도, 단지 잔치의 춤도 아닙니다. 그것은 같은 몸 안에서, 같은 스텝으로 움직이는 둘 다입니다.

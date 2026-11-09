@@ -86,6 +86,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaLicensing
     - SupplyChain
+framework: how-to
 ---
 
 Khởi nghiệp một công ty logistics ở Malaysia không phải là một quyết định mà là một chồng các quyết định. Sdn Bhd là phần dễ; giá trị — và sự chậm trễ — nằm ở các giấy phép. Một chiếc xe tải chở hàng của người khác, một người giao nhận nộp một tờ khai hải quan, và một tài xế sau tay lái đều chịu trách nhiệm trước một cơ quan quản lý khác nhau, và cái lớn nhất — giấy phép người vận hành — cũng là nơi sở hữu nước ngoài đụng phải một bức tường. Đây là lộ trình thiết lập của người vận hành, theo thứ tự bạn thực sự cần nó.

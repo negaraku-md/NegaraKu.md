@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "statutory-audit-requirement" }
 related: ["companies-act-2016", "malaysian-institute-of-accountants"]
 keywords: ["juruaudit syarikat diluluskan", "approved company auditor", "seksyen 263", "lesen audit Malaysia", "sijil amalan MIA", "Akauntan Negara"]
+framework: rules
 ---
 
 நீங்கள் முழுப் பட்டத்துடன் ஒரு பட்டயக் கணக்காளராக, கணக்கியல் பட்டப்படிப்புடன், பல ஆண்டுகள் அனுபவத்துடன் இருக்கலாம் — இருப்பினும் ஒரு நிறுவனத்தின் தணிக்கை அறிக்கையைத் தனியாகக் கையொப்பமிட இன்னும் அனுமதிக்கப்படாமல் இருக்கலாம். மலேசியாவில், ஒரு நிறுவனத்தைத் தணிக்கை செய்யும் உரிமை என்பது ஒரு தனித்த, இறுக்கமாகக் கட்டுப்படுத்தப்பட்ட உரிமம்; அது தொழில்முறை உறுப்புரிமையுடன் தானாகவே வந்துவிடுவதன்று.

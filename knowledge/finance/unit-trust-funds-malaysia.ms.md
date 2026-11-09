@@ -79,6 +79,7 @@ relations:
   - { rel: "compares-with", to: "amanah-saham-bumiputera" }
 related: ["securities-commission-malaysia"]
 keywords: ["unit trust malaysia", "unit trust funds", "net asset value", "sales charge", "management fee", "securities commission", "FIMM", "equity fund", "money market fund", "EPF i-invest"]
+framework: explainer
 ---
 
 Serahkan wang anda kepada orang yang tidak dikenali untuk dilaburkan, dan anda pasti mahukan tiga perkara: peraturan, pencatat markah, dan seseorang lain yang memegang wang tunai itu. Sebuah unit amanah Malaysia memberikan anda ketiga-tiganya. Ringgit anda dikumpulkan bersama ribuan pelabur lain, sebuah syarikat pengurusan berlesen memutuskan apa yang hendak dibeli, dan pemegang amanah bebas memegang aset supaya pengurus tidak boleh sekadar melarikan diri dengannya. Keseluruhan susunan ini berada di bawah Suruhanjaya Sekuriti Malaysia (SC).

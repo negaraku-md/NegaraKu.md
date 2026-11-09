@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "foreign-exchange-policy-malaysia" }
 related: ["foreign-exchange-policy-malaysia", "foreign-ownership-malaysia"]
 keywords: ["repatriate profits malaysia", "dividend withholding tax malaysia", "single tier system malaysia", "2% dividend tax malaysia", "remit profits to parent company"]
+framework: explainer
 ---
 
 外国の創業者は、配当源泉徴収税があるものと思ってマレーシアにやって来る。ほぼすべての

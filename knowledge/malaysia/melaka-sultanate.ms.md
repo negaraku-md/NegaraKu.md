@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: ["langkasuka", "johor"]
 keywords: ["Kesultanan Melaka", "Parameswara", "sejarah Melaka", "Hukum Kanun Melaka", "asal usul kesultanan Melayu"]
+framework: history-culture
 ---
 
 Seorang putera lari dari sebuah kota yang terbakar. Dia menyeberangi sebuah selat, membunuh seorang ketua tempatan yang melindunginya, dan terus lari — melalui Muar, melalui Ujong Tanah — sehingga dia berhenti di bawah sebatang pokok di tebing sungai untuk merehatkan anjing-anjingnya. Salah seekur daripadanya menyudutkan seekor pelanduk, dan pelanduk itu, apabila tersudut, berpaling dan menendangnya ke dalam air. Putera itu menganggap ini sebagai alamat: makhluk sekecil-kecilnya di sini pun melawan. Dia memutuskan bahawa di sinilah dia akan membina kotanya, dan menamakannya sempena pokok tempat dia sedang duduk — sebatang pokok *melaka*.

@@ -107,6 +107,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-act-1955-guide"]
 keywords: ["gangguan seksual malaysia", "akta anti-gangguan seksual 2022", "notis seksyen 81h", "bahagian xva akta kerja", "tribunal anti-gangguan seksual", "kewajipan majikan gangguan tempat kerja"]
+framework: rules
 ---
 
 Sebagian besar liputan mengenai pelecehan di tempat kerja di Malaysia terfokus pada

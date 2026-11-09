@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "myinvois-phases" }
 related: ["e-invoicing", "myinvois-phases", "e-invoice-data-fields", "consolidated-e-invoice", "self-billed-e-invoice"]
 keywords: ["تكامل MyInvois", "واجهة MyInvois API", "بوابة MyInvois", "Peppol ماليزيا", "وسيط برمجي للفوترة الإلكترونية", "اختيار مسار الفوترة الإلكترونية", "MyInvois integration", "MyInvois API"]
+framework: decision
 ---
 
 كُتب جُلّ ما قيل عن هذا القرار على يد من يبيع أحد الأجوبة. فابدأ إذن من الآليتين

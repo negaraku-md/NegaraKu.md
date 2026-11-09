@@ -103,6 +103,7 @@ relations:
   - { rel: "part-of", to: "directors-duties" }
 related: ["financial-statements-lodgement", "unaudited-financial-statements", "directors-duties", "directors-fees-approval", "director-shareholding-notification"]
 keywords: ["تقرير المديرين ماليزيا", "directors report Malaysia", "المادة 252 قانون الشركات", "section 252 Companies Act 2016", "الجدول الخامس تقرير المديرين", "Fifth Schedule directors report", "الإقرار القانوني للبيانات المالية", "statutory declaration financial statements"]
+framework: rules
 ---
 
 ابدأ بتصحيح، لأنه يغيّر ما تفعله.

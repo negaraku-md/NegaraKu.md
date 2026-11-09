@@ -108,6 +108,7 @@ keywords:
   - "MDEC MD दर्जा पात्रता"
   - "MD कर प्रोत्साहन मलेशिया"
   - "Malaysia Digital bill of guarantees"
+framework: explainer
 ---
 
 Malaysia Digital के बारे में समझने योग्य सबसे परिणामी बात यह है कि यह क्या *नहीं* है।

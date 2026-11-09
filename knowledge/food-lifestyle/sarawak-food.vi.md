@@ -95,6 +95,7 @@ verificationNeeded:
   - "Liệu laksa Sarawak có chứa nước cốt dừa hay không — các nguồn mâu thuẫn nhau (một số mô tả nước dùng được tăng vị nhẹ bằng nước cốt dừa; số khác nói có rất ít hoặc không có). Cần xác nhận với một nguồn ẩm thực hoặc di sản của Sarawak."
   - "Nguồn gốc của kek lapis Sarawak (một số lời kể nói chiếc bánh nhiều lớp này được những người di cư Betawi/Indonesia đưa đến Sarawak vào những năm 1970 trước khi được bản địa hóa) — cần xác nhận bằng nguồn di sản ẩm thực thay vì truyền thông ẩm thực."
   - "Việc Kuching được công nhận là Thành phố Sáng tạo về Ẩm thực của UNESCO, được đưa tin là vào năm 2021 và là thành phố Malaysia đầu tiên được công nhận như vậy — cần xác nhận với danh sách sơ cấp của Mạng lưới các Thành phố Sáng tạo UNESCO."
+framework: explainer
 ---
 
 Vượt Biển Đông từ bán đảo Malaysia sang Sarawak, món ăn đã đổi khác trước cả khi

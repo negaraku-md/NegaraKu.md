@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "malaysia-national-football-team" }
 related: []
 keywords: ["Liga Super", "Piala Malaysia", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "bola sepak Malaysia"]
+framework: explainer
 ---
 
 ほぼ一世紀にわたり、単一の団体——マレーシアサッカー協会（FAM）——が国内のすべてのリーグ戦を主催していた。その後、このスポーツの形を変える一手として、リーグを運営する権限が商業会社に移譲された。これが今日のマレーシア国内サッカーの仕組みの基礎である。

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "investing-in-bursa" }
 related: ["securities-commission-malaysia"]
 keywords: ["IPO malaysia", "list on bursa malaysia", "bursa listing requirements", "main market ace market leap market", "how to go public malaysia", "listing criteria bursa", "bumiputera equity requirement IPO"]
+framework: explainer
 ---
 
 기업을 상장하는 것은 소유주가 내릴 가장 큰 자금 조달 결정 중 하나입니다 — 영구 자본을 조달하고, 사업에 시장 가격을 매기며, 주주에게 출구를 줍니다. 또한 많은 창업자를 놀라게 하는 수준의 조사와 비용을 기업에 부과합니다. 말레이시아에서 기업공개(IPO)는 Bursa Malaysia에 상장하는 것을 의미하며, 여러분이 택하는 경로는 기업이 얼마나 크고 얼마나 검증되었는지에 전적으로 달려 있습니다.

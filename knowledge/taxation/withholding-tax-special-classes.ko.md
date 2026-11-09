@@ -89,6 +89,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
 keywords: ["section 109B", "section 4A income", "technical fees withholding tax Malaysia", "special classes of income", "PR 10/2019", "derived from Malaysia"]
+framework: rules
 ---
 
 말레이시아 재무팀에게 외국 컨설턴트의 송장에 왜 원천징수하지 않았는지 물으면 답은 거의

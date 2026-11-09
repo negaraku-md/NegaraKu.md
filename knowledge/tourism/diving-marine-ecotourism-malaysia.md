@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "sabah-travel-guide" }
 related: []
 keywords: ["Sipadan diving permit", "Malaysia marine park fees", "Sabah Parks", "Department of Fisheries marine park", "scuba diving Malaysia", "marine ecotourism"]
+framework: rules
 ---
 
 The clearest water in Malaysia is also the hardest to reach: to drop into Sipadan's wall you need a government permit that no amount of money will let you buy directly. That single fact captures how the country runs its dive tourism — access is rationed, priced, and split between two very different authorities depending on which sea you want to descend into.

@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "mak-yong" }
 related: ["sabah", "population-composition", "wau"]
 keywords: ["Pesta Kaamatan", "Tadau Kaamatan", "Kadazandusun harvest festival", "Unduk Ngadau", "Bambaazon", "Huminodun", "Magavau", "KDCA", "Sabah"]
+framework: history-culture
 ---
 
 இத்திருவிழா ஒரே ஒரு கருத்தின் அடிப்படையில் பெயரிடப்பட்டுள்ளது: அறுவடை. Kadazandusun மொழியில் *Kaamatan* என்றால் சரியாக அதுவேதான் பொருள்; கொண்டாட்டத்தின் மற்ற அனைத்தும் — சடங்கு, நெல் மது, இறுதி மாலையில் மணிமுடி சூட்டப்படும் அணிவகுப்பு — நெல்லை அறுவடை செய்யும் அந்த ஒரே செயலிலிருந்து வளர்கின்றன.

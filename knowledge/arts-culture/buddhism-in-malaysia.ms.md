@@ -69,6 +69,7 @@ faq:
     a: Tidak tepat. Orang Cina memang majoriti penganutnya, kebanyakannya menganut Buddhisme Mahayana; tetapi masyarakat berketurunan Siam, Sri Lanka dan Myanmar mengamalkan aliran tersendiri yang berasingan — Buddhisme Theravada, yang kuilnya dipanggil Wat, dengan masyarakat Siam di negeri-negeri utara mempunyai sejarah paling lama. Terdapat juga Vajrayana yang lebih kecil. Menyamakan Buddhisme di Malaysia dengan agama orang Cina mengabaikan tradisi-tradisi selari ini.
   - q: Apakah yang diperingati pada Hari Wesak? Adakah ia cuti umum?
     a: Wesak (Hari Wesak) memperingati kelahiran, pencerahan dan pemergian Buddha ke nirvana, dan merupakan cuti umum di seluruh negara di Malaysia. Penganut pergi ke kuil untuk mempersembahkan bunga, menyalakan pelita dan memberi sedekah. Kebebasan beragama dilindungi oleh Perkara 11 Perlembagaan Persekutuan; walaupun Perkara 3 menetapkan Islam sebagai agama Persekutuan, ia tidak menghalang agama lain daripada diamalkan dengan aman.
+framework: history-culture
 ---
 
 Di lereng bukit Pulau Pinang, bayang pagoda Kek Lok Si meninjau Georgetown; di

@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "mfrs-vs-mpers" }
 related: ["financial-statement-pack", "financial-year-end", "mfrs-vs-mpers", "mbrs-2-filing-guide"]
 keywords: ["NSRF Malaysia", "IFRS S1 S2 ماليزيا", "الإبلاغ عن الاستدامة ماليزيا", "الشركات الكبيرة غير المدرجة RM2 مليار", "تأكيد النطاق 1 النطاق 2 ماليزيا", "ACSR", "الجدول الزمني للإبلاغ عن الاستدامة", "sustainability reporting Malaysia"]
+framework: rules
 ---
 
 وصل الإبلاغ عن الاستدامة إلى ماليزيا بوصفه موضوع تواصل، وقد صار الآن موضوعًا محاسبيًّا.

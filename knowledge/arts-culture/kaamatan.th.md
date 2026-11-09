@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "mak-yong" }
 related: ["sabah", "population-composition", "wau"]
 keywords: ["Pesta Kaamatan", "Tadau Kaamatan", "Kadazandusun harvest festival", "Unduk Ngadau", "Bambaazon", "Huminodun", "Magavau", "KDCA", "Sabah"]
+framework: history-culture
 ---
 
 เทศกาลนี้ตั้งชื่อตามแนวคิดเดียว กล่าวคือ การเก็บเกี่ยว *กามาตัน (Kaamatan)* หมายความเช่นนั้นพอดีในภาษากาดาซันดูซุน และทุกสิ่งอื่นในการฉลอง — พิธีกรรม สุราข้าว การประกวดที่สวมมงกุฎในค่ำสุดท้าย — ล้วนงอกออกมาจากการกระทำหนึ่งนั้นคือการนำข้าวเข้าฉาง

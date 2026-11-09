@@ -111,6 +111,7 @@ relations:
   - { rel: "explained-in", to: "practising-certificate" }
 related: ["appoint-company-secretary", "maicsa", "changing-company-secretary", "secretary-resignation"]
 keywords: ["siapa boleh jadi setiausaha syarikat Malaysia", "kelayakan setiausaha syarikat Malaysia", "seksyen 235 Akta Syarikat 2016", "sijil amalan setiausaha SSM", "seksyen 241 sijil amalan", "MAICSA MIA setiausaha syarikat", "CSID SSM"]
+framework: rules
 ---
 
 Tanya kebanyakan orang apa yang diperlukan untuk menjadi setiausaha syarikat di

@@ -62,6 +62,7 @@ verificationNeeded:
   - "Tarikh rasmi Selangor memasuki Negeri-Negeri Melayu Bersekutu: sumber berbeza antara perjanjian persekutuan 1895 dan NNMB berkuat kuasa pada 1 Julai 1896. Rencana ini menggunakan 1896; sahkan dengan teks perjanjian Negeri-Negeri Melayu Bersekutu atau Arkib Negara Malaysia."
   - "Tahun tepat Residen British pertama Selangor (James Guthrie Davidson) menyandang jawatan itu: sumber memberikan kedua-dua 1874 dan 1875. Sahkan dengan sebuah sejarah akademik seperti karya J.M. Gullick tentang Selangor."
   - "Tarikh kemangkatan Sultan Salehuddin Shah (sumber memberikan 1778 dan 1782) dan butiran tepat pertabalan 1766 di Kota Lumut; sahkan dengan sebuah sejarah ilmiah Selangor."
+framework: history-culture
 ---
 
 Di pantai barat Semenanjung Tanah Melayu, di mana Sungai Klang dan Sungai Selangor mengalir ke dalam Selat Melaka, satu bangsa pelaut dari seberang kepulauan membina salah satu negeri terkaya di semenanjung. Harta mereka tidak dibina atas rempah atau emas tetapi atas bijih timah — bijih kelabu yang terkubur dalam lembah-lembah yang, dalam satu abad, akan menyeret kesultanan muda itu ke dalam satu perang merebut kekayaannya sendiri dan, akhirnya, di bawah bayang seorang Residen British. Inilah kisah Kesultanan Selangor, sebuah dinasti Bugis yang barisannya masih bersemayam di atas takhta hari ini.

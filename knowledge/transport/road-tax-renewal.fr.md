@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "traffic-summons-saman" }
 related: ["road-transport-act-1987", "traffic-summons-saman"]
 keywords: ["cukai jalan", "LKM", "Lesen Kenderaan Motor", "renew roadtax", "MyJPJ", "e-LKM", "Pos Malaysia JPJ", "MyEG roadtax", "Puspakom B2"]
+framework: explainer
 ---
 
 Beaucoup de gens l'appellent « taxe de circulation » et la traitent comme l'impôt sur le revenu ou la taxe sur les ventes : on la paie, c'est fait, et on n'y repense plus jusqu'à l'année suivante. Mais son nom officiel au JPJ est la licence de véhicule à moteur (LKM) : une sorte de **licence**, et non un impôt. Cette distinction n'est pas qu'une question de terminologie. Elle explique pourquoi il existe une fenêtre temporelle stricte pour la renouveler, et pourquoi un véhicule resté trop longtemps sans LKM ne peut pas simplement « payer et en être quitte ».

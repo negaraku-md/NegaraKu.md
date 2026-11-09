@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#SekYuen", "#BibGourmand", "#MichelinGuide", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Jalan Pudu에 있는 Sek Yuen의 가운데 집에 들어서면 수십 년의 세월이 보인다 — 닳은

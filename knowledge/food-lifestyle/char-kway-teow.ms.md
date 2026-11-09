@@ -97,6 +97,7 @@ social:
     - "#PenangFood"
     - "#MalaysianFood"
     - "#StreetFood"
+framework: explainer
 ---
 
 Tidak banyak hidangan yang menggambarkan makanan jalanan Malaysia selengkap char

@@ -93,6 +93,7 @@ verificationNeeded:
   - "Whether the Kelantan curry differs meaningfully from the Terengganu gulai ikan tongkol, and the standard fish — most sources name tuna (ikan tongkol / aya), with mackerel and tenggiri also cited. Confirm with a local source."
   - "The 'trader's rice' etymology and origin legends (Bugis traders, or fishermen carrying it to sea) — these circulate widely but are loosely documented; confirm with a historical or lexicographic source."
   - "The 2009 national-heritage-food listing — confirm the year and listing body against a primary Jabatan Warisan Negara or JKKN record."
+framework: explainer
 ---
 
 Order breakfast on Malaysia's east coast and you may be handed a small banana-leaf

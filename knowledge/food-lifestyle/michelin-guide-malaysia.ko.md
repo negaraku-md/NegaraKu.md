@@ -100,6 +100,7 @@ social:
     - "#Dewakan"
     - "#KualaLumpurFood"
     - "#PenangFood"
+framework: explainer
 ---
 
 쿠알라룸푸르나 페낭에서 어디서 먹어야 하냐고 열두 명에게 물으면 열두 가지 답이

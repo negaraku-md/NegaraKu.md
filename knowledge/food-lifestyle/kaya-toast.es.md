@@ -91,6 +91,7 @@ verificationNeeded:
   - "Si los kopitiam malasios suelen sazonar los huevos pasados por agua con salsa de soja oscura o clara: las fuentes fiables no coinciden (la mayoría describe salsa de soja oscura con pimienta blanca; algunas describen salsa de soja clara), y la práctica puede variar según el local y la región."
   - "El origen preciso de la kaya: la tradición malaya del serikaya, la influencia del sericaia portugués y la transmisión a los cocineros hainaneses son citados todos por distintos historiadores de la gastronomía; trate el origen como objeto de debate y no como algo zanjado."
   - "El período exacto en que las cafeterías hainanesas se establecieron concretamente en Malaya: la ventana de las décadas de 1920 a 1950 que suele citarse y el relato del desayuno Nanyang proceden en gran medida de fuentes patrimoniales centradas en Singapur."
+framework: history-culture
 ---
 
 En toda Malasia, el día suele empezar igual: una mesa con tablero de mármol, una taza de café oscuro que se

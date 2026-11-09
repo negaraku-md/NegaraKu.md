@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["parliament", "federal-constitution", "gdp-overview", "sst-explained"]
 keywords: ["budget fédéral", "loi de crédits", "Supply Act", "projet de loi de crédits", "Supply Bill", "étape de la commission du budget", "cycle budgétaire de la Malaisie", "Akta 850", "Dewan Rakyat"]
+framework: explainer
 ---
 
 Le 31 décembre 2025, la loi de crédits de 2026 a été publiée au journal

@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "appoint-company-secretary" }
 related: ["statutory-registers", "register-of-members", "minute-books-and-records", "appoint-company-secretary"]
 keywords: ["registered office Malaysia", "section 46 Companies Act 2016", "change registered office SSM 14 days", "alamat berdaftar syarikat", "registered office public access", "section 47 documents registered office"]
+framework: rules
 ---
 
 மலேசியாவில் உள்ள ஒவ்வொரு நிறுவனச் செயலகச் சேவை நிறுவனமும் ஒரு பதிவு அலுவலகச் சேவையை

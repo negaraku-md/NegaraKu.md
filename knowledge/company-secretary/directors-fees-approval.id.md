@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "directors-report" }
 related: ["directors-duties", "directors-report", "loans-to-directors", "disclosure-of-interest"]
 keywords: ["fi pengarah Malaysia", "seksyen 230 Akta Syarikat 2016", "pampasan kehilangan jawatan Malaysia", "kelulusan fi pengarah Sdn Bhd", "seksyen 227 bayaran kehilangan jawatan"]
+framework: rules
 ---
 
 Dalam Sdn Bhd keluarga, honorarium direktur biasanya diputuskan dalam percakapan dan baru

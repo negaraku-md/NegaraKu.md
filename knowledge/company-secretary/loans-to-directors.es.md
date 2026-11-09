@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "disclosure-of-interest" }
 related: ["directors-duties", "disclosure-of-interest", "directors-fees-approval"]
 keywords: ["préstamo a administrador Malasia", "artículo 224 Ley de Sociedades 2016", "loan to director Malaysia", "section 224 Companies Act 2016", "cuenta corriente administrador Sdn Bhd", "director current account Sdn Bhd", "sociedad privada exenta préstamo administrador", "exempt private company loan director", "artículo 225 préstamo persona vinculada", "section 225 connected person loan"]
+framework: rules
 ---
 
 La cuenta de la empresa paga la cuota del coche del administrador. Se contabiliza en

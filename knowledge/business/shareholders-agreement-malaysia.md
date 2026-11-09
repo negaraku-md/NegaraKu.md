@@ -87,6 +87,7 @@ keywords:
   - "minority shareholder rights Malaysia"
   - "drag along tag along Sdn Bhd"
   - "perjanjian pemegang saham"
+framework: explainer
 ---
 
 Two founders sign a twenty-page shareholders agreement. It gives each of them a board

@@ -100,6 +100,7 @@ relations:
   - { rel: "related-to", to: "register-of-directors" }
 related: ["register-of-directors", "directors-duties", "remove-a-director", "director-shareholding-notification", "statutory-registers"]
 keywords: ["appoint director Malaysia", "resign as director Sdn Bhd", "section 196 Companies Act 2016", "section 208 vacation of office", "consent to act as director Malaysia", "letak jawatan pengarah syarikat", "minimum number of directors Malaysia"]
+framework: rules
 ---
 
 2인 Sdn Bhd의 한 이사가 공동 주주와 사이가 틀어져 사임서에 서명하고, 이를 넘겨준 뒤

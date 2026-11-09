@@ -108,6 +108,7 @@ relations:
   - { rel: "governs", to: "personal-data-protection-act-2010" }
 related: ["pdpa-compliance-malaysia", "data-protection-officer-malaysia"]
 keywords: ["pemberitahuan pelanggaran data malaysia", "72 jam pdpa", "seksyen 12b pdpa", "kemudaratan ketara pdpa", "lapor pelanggaran data malaysia"]
+framework: rules
 ---
 
 72 jam itu tidak terkandung dalam Akta.

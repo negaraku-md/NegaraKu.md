@@ -85,6 +85,7 @@ relations:
   - { rel: "explained-in", to: "federal-constitution-malaysia" }
 related: ["yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["الحكام الملايو", "raja melayu", "سلطان", "sultan", "yang di-pertuan besar", "راجا بيرليس", "raja perlis", "وراثة العرش", "pewarisan takhta", "الملك الدستوري", "raja berperlembagaan", "عادات برباتيه", "adat perpatih", "دستور الولاية", "perlembagaan negeri", "مجلس الحكام", "majlis raja-raja"]
+framework: explainer
 ---
 
 خلف اتحاد واحد، تحتفظ ماليزيا بتسعة عروش أقدم من الدولة نفسها. ولكلٍّ منها قصره الخاص، وأعراف وراثته، ودستور ولايته، ويحكم كل حاكم ولايته بوصفه ملكًا دستوريًا — لا حاكمًا مطلقًا.

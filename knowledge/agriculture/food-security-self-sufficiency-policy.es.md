@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
 related: []
 keywords: ["seguridad alimentaria", "food security Malaysia", "nivel de autosuficiencia", "SSL", "SSR", "Política Agroalimentaria Nacional", "Dasar Agromakanan Negara", "DAN 2.0", "arroz", "beras"]
+framework: explainer
 ---
 
 Según el Censo Agrícola 2024, por cada kilogramo de arroz que se consume en Malasia, aproximadamente 400 gramos son arroz importado. Esa cifra resume el desafío de seguridad alimentaria del país: una nación agrícola que todavía importa una gran parte de su alimento básico.

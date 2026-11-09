@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "srivijaya" }
 related: ["melaka-sultanate", "langkasuka", "srivijaya", "independence-1957"]
 keywords: ["kesultanan Melayu", "sistem pembesar", "daulat", "waadat", "adat perpatih", "adat temenggung", "Bendahara", "Majlis Raja-Raja", "Yang di-Pertuan Agong", "raja berperlembagaan"]
+framework: explainer
 ---
 
 एक ऐसे राज्य की कल्पना कीजिए जहाँ कोई फ़ाइल नहीं, कोई फ़ॉर्म नहीं, कोई क्रमांकित विभाग नहीं। आदेश मौखिक रूप से पहुँचाए जाते थे, न्याय बालाईरुंग (दरबार) में सुनाया जाता था, और समाज की समूची व्यवस्था एक ही शब्द पर टिकी थी जिसका आधुनिक भाषा में ठीक-ठीक अनुवाद नहीं हो सकता: *daulat*। वह मलय सल्तनत की दुनिया थी — एक ऐसी व्यवस्था जिसने सदियों तक तटों और नदियों के किनारे हज़ारों जीवनों को व्यवस्थित किया, और जिसकी छाया आज भी मलेशिया के संविधान में दिखाई देती है।

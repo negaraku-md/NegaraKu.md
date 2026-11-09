@@ -140,6 +140,7 @@ relations:
   - { rel: "related-to", to: "annual-return" }
 related: ["who-is-a-beneficial-owner", "ebos-filing", "bo-register", "bo-non-cooperation", "ebos", "annual-return", "statutory-registers"]
 keywords: ["beneficial ownership Malaysia", "Division 8A Companies Act 2016", "e-BOS SSM", "register of beneficial owners", "pemilik benefisial SSM", "beneficial ownership deadline Malaysia"]
+framework: rules
 ---
 
 अधिकांश मलेशियाई कंपनियाँ मानती हैं कि उन्होंने 2024 में लाभकारी स्वामित्व का काम समाप्त कर लिया। उन्होंने संक्रमणकालीन खिड़की के दौरान e-BOS में लॉग इन किया, अपने शेयरधारकों को नामित किया, पावती प्राप्त की, और फ़ाइल बंद कर दी।

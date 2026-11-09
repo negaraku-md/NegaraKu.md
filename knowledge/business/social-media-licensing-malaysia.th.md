@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "online-business-licence-malaysia" }
 related: ["online-safety-act-malaysia", "online-business-licence-malaysia"]
 keywords: ["social media licence Malaysia", "ASP class licence MCMC", "8 million users Malaysia licence", "MCMC licensing social media platform", "do I need a social media licence Malaysia"]
+framework: explainer
 ---
 
 ทุกไม่กี่เดือน ผู้ขายชาวมาเลเซียถูกบอกว่าต้องมีใบอนุญาตโซเชียลมีเดีย พวกเขาไม่ต้อง กรอบนี้ออกใบอนุญาต

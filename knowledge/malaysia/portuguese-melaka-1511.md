@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["kejatuhan Melaka 1511", "Afonso de Albuquerque", "Melaka Portugis", "A Famosa", "penjajahan Eropah Nusantara", "Kesultanan Johor 1528"]
+framework: history-culture
 ---
 
 Sepuluh hari. Itulah jarak antara ketibaan angkatan Portugis di perairan Melaka pada 10 Ogos 1511 dan detik kota itu bertukar tangan pada 24 Ogos.

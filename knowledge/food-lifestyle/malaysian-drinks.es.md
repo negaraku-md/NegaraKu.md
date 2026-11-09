@@ -102,6 +102,7 @@ verificationNeeded:
   - "La composición estándar exacta del air mata kucing (longan, luo han guo, melón de invierno, azúcar de roca en proporciones variables) y la lectura de 'mata kucing' como longan frente a la lectura popular de 'lágrimas de gato' — confirmar con una fuente culinaria o lexicográfica."
   - "La afirmación de que el zumo de nuez moscada de Penang se remonta al cultivo de nuez moscada introducido por los británicos a finales del siglo XVIII — repetida por los medios de viajes pero no confirmada aquí frente a una fuente histórica."
   - "Si atribuir la llegada del bubble tea a Malasia a una década o cadena concreta — tratar el encuadre de 'origen taiwanés, oleada posterior en Malasia' como general hasta confirmar una fuente datada."
+framework: explainer
 ---
 
 Pida a un visitante que nombre una bebida malasia y normalmente dirá *teh tarik*

@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "digital-economy-overview" }
 related: ["mdec-digital-status", "sme-financing-malaysia", "equity-crowdfunding-p2p-malaysia", "cyberjaya-tech-hub", "digital-economy-overview"]
 keywords: ["Malaysia startup ecosystem", "Cradle Fund CIP Spark", "MRANTI", "MYStartup single window", "MAVCAP", "Jelawang Capital", "Malaysia venture capital", "KL20"]
+framework: explainer
 ---
 
 问十位马来西亚创办人政府的创业资金从哪里来，你会得到十个不同的缩写。这套机制真实存在，也相当慷慨，但它分散在各个机构手中，每个机构只掌管其中一块 —— 拨款在这里、实验室空间在那里、创投资金又在别处 —— 而知道该敲哪一扇门，能省下好几个月。

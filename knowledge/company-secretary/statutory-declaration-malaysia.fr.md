@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "members-voluntary-winding-up-malaysia" }
 related: []
 keywords: ["statutory declaration malaysia", "akuan berkanun", "commissioner for oaths malaysia", "statutory declarations act 1960", "false statutory declaration penalty", "declaration of solvency section 443"]
+framework: explainer
 ---
 
 Tôt ou tard, on remet à un propriétaire d'entreprise un document en lui disant : « ceci doit être une déclaration sous serment ». C'est l'une de ces formalités juridiques qui paraissent plus lourdes qu'elles ne le sont — une déclaration écrite que vous jurez être vraie devant une personne autorisée —, mais le poids est réel : signez-en une fausse et vous avez commis une infraction pénale. Voici ce qu'est une déclaration sous serment, qui peut la recevoir, et les domaines où elle apparaît dans la vie sociale.

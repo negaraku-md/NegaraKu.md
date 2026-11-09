@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "driving-licence-in-malaysia" }
 related: []
 keywords: ["keselamatan jalan raya", "kemalangan jalan raya Malaysia", "pemanduan mabuk", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
+framework: explainer
 ---
 
 ஒவ்வொரு நாளும், மலேசியச் சாலைகளில் ஏறத்தாழ 18 உயிர்கள் பறிபோகின்றன. இந்த எண்ணிக்கை சாலைகளை நாட்டின் மிக முக்கியமான இயற்கைக்கு மாறான மரணக் காரணங்களில் ஒன்றாக ஆக்குகிறது, மேலும் இதை எதிர்கொள்ளச் சிறப்புச் சட்டங்கள், கேமராக்கள் மற்றும் முகமைகள் களமிறக்கப்படுவதற்கான முதன்மைக் காரணமும் இதுவே.

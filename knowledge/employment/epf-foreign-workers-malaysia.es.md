@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "payroll-compliance-malaysia" }
 related: ["epf-employer-guide", "payroll-compliance-malaysia", "socso-eis-employer-guide"]
 keywords: ["EPF trabajador extranjero Malasia", "EPF no ciudadano 2 por ciento", "KWSP pekerja asing caruman", "Third Schedule Part F", "cotización EPF expatriado"]
+framework: rules
 ---
 
 Durante veintisiete años, el EPF para un trabajador extranjero fue algo que un empleador podía en gran medida ignorar: el empleado podía optar por afiliarse y, si lo hacía, la cuota patronal era una suma fija de RM5 al mes con independencia del salario. Ese arreglo ya no existe. No se modificó — se eliminó.

@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "auditor-report" }
 related: []
 keywords: ["surat perwakilan pengurusan", "management representation letter", "ISA 580", "perwakilan bertulis", "written representations", "bukti audit", "juruaudit"]
+framework: explainer
 ---
 
 เมื่อใกล้สิ้นสุดการสอบบัญชีทุกครั้ง กรรมการถูกขอให้ลงนามในเอกสารหนึ่งที่มองข้ามได้ง่ายแต่มีน้ำหนัก: หนังสือที่ยอมรับด้วยลายมือชื่อของตนเองว่าพวกเขาได้บอกผู้สอบบัญชีทุกสิ่งแล้ว นั่นคือหนังสือรับรองของผู้บริหาร

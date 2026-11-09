@@ -93,6 +93,7 @@ relations:
   - { rel: "administered-by", to: "nadma-malaysia" }
 related: []
 keywords: ["préparation aux inondations", "kit d'urgence", "inondation de mousson", "PPS", "Bantuan Wang Ihsan", "NADMA", "avertissement météorologique MetMalaysia", "glissement de terrain", "séisme de Sabah", "catastrophe"]
+framework: how-to
 ---
 
 Voir l'eau de la rivière monter jusqu'au niveau de la route à deux heures du

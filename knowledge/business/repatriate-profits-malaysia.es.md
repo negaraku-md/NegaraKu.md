@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "foreign-exchange-policy-malaysia" }
 related: ["foreign-exchange-policy-malaysia", "foreign-ownership-malaysia"]
 keywords: ["repatriar beneficios Malasia", "repatriate profits malaysia", "retención sobre dividendos Malasia", "dividend withholding tax malaysia", "sistema de nivel único Malasia", "single tier system malaysia", "impuesto del 2% sobre dividendos Malasia", "2% dividend tax malaysia", "remitir beneficios a la matriz"]
+framework: explainer
 ---
 
 Los fundadores extranjeros llegan esperando una retención sobre los dividendos, porque

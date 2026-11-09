@@ -98,6 +98,7 @@ keywords:
   - "MalaysiaBiz"
   - "who issues business licences Malaysia"
   - "premise licence federal state local"
+framework: explainer
 ---
 
 Your SSM certificate arrives, the company exists, and you have permission to do exactly

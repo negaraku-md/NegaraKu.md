@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "nine-royal-houses" }
 related: ["independence-1957", "malayan-union", "formation-of-malaysia-1963"]
 keywords: ["Reid Commission", "Federation of Malaya Constitution", "Lord Reid", "Ivor Jennings", "1957 constitution", "Malayan independence"]
+framework: profile
 ---
 
 1956년 초, 말라야의 지도자들과 영국 정부가 독립을 1957년 8월까지 이루기로 합의했을 때, 마감 시한만으로는 해결할 수 없는 문제가 하나 있었습니다. 새 나라에는 헌법이 없었던 것입니다. 그들은 헌법을 직접 쓰는 대신, 법률가 다섯 명 — 그 누구도 말라야 사람이 아니었습니다 — 에게 그 일을 맡겨, 자신들이 살지 않을 국가의 법적 기틀을 바깥에서 설계하도록 요청했습니다.

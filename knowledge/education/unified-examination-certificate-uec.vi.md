@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "sistem-pendidikan-malaysia" }
 related: []
 keywords: ["UEC", "Sijil Peperiksaan Bersama", "Dong Zong", "sekolah menengah persendirian Cina", "pengiktirafan UEC", "IPTA", "bahasa kebangsaan"]
+framework: explainer
 ---
 
 Ba chữ cái — UEC — có thể châm ngòi cho một cuộc tranh luận đã kéo dài hơn nửa thế kỷ trong nền chính trị giáo dục của Malaysia. Với một số bên, đó là một chứng chỉ tầm quốc tế mở cánh cửa vào các trường đại học hàng đầu thế giới; với những người khác, nó chạm đến vị trí của ngôn ngữ quốc gia và chính sách giáo dục của đất nước. Cả hai quan điểm cùng tồn tại, và cả hai đều cần được hiểu để thấy bức tranh đầy đủ.

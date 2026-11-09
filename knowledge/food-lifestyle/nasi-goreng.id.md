@@ -91,6 +91,7 @@ verificationNeeded:
   - "Apakah nasi goreng pattaya berasal dari Malaysia (seperti yang umum dinyatakan) meski bernama terdengar Thailand — verifikasi dengan sumber sejarah makanan yang terdokumentasi, bukan artikel listicle."
   - "Daftar bahan yang persis dan terstandar untuk varian bernama (USA, paprik, ikan masin, hailam, kerabu, dabai) — sebagian besar diambil dari media makanan dan sumber suntingan komunitas serta bervariasi dari gerai ke gerai; verifikasi kekhasan daerah dengan rujukan kuliner setempat."
   - "Apakah nasi goreng secara resmi diwartakan sebagai warisan kuliner nasional Malaysia, dan di bawah pendaftaran yang mana — verifikasi dengan Jabatan Warisan Negara atau sumber resmi, bukan media makanan sekunder."
+framework: explainer
 ---
 
 Pesan nasi goreng di gerai mamak pada pukul satu pagi, dan Anda bukan sekadar

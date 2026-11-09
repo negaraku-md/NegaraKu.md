@@ -112,6 +112,7 @@ keywords:
   - "PK 1.5 Bumiputera procurement"
   - "BCPLC status"
   - "distributive trade Bumiputera equity"
+framework: data-reference
 ---
 
 Các điều kiện về vốn cổ phần và sự tham gia của Bumiputera là một phần đang có hiệu lực của

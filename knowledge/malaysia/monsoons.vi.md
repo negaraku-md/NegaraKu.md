@@ -78,6 +78,7 @@ faq:
     a: Không. Lũ lụt ở bờ biển phía tây không phải lúc nào cũng do Gió mùa Đông Bắc gây ra — theo Tổng Giám đốc MetMalaysia, nó thường bắt nguồn từ các hệ thống áp thấp riêng biệt, chẳng hạn như hệ thống đã ảnh hưởng đến Perak, Selangor và Perlis vào tháng 11 năm 2025. Ngoài ra, lũ quét do hệ thống thoát nước đô thị không đầy đủ là một hiện tượng riêng biệt và có thể xảy ra bất cứ lúc nào, bất kể có gió mùa hay không.
   - q: Gió mùa Đông Bắc có dữ dội như nhau suốt từ tháng 11 đến tháng 3 không?
     a: Không. Dữ liệu chính thức của Hội đồng An ninh Quốc gia (MKN) cho mùa 2024/2025 cho thấy các khu vực có nguy cơ cao nhất thay đổi theo từng giai đoạn. Trong giai đoạn đầu (tháng 11–tháng 12), Kelantan, Terengganu, Pahang, Johor, Sarawak và Sabah bị ảnh hưởng; trong giai đoạn cuối (tháng 1–tháng 2), trọng tâm chuyển sang Pahang, Johor, Sarawak và Sabah — Kelantan và Terengganu không còn được liệt kê là khu vực có nguy cơ cao nhất. Dự kiến cả mùa sẽ ghi nhận 5 đến 7 đợt mưa lớn.
+framework: explainer
 ---
 
 Mỗi tháng Mười Một, trước khi xem tin tức, nhiều cư dân Kota Bharu, Kuala Terengganu và Kuantan bắt đầu kiểm tra mực nước sông gần nhà mình. Đây không phải là một thói quen nảy sinh từ một thảm họa bất ngờ — nó là một lịch trình có thể dự đoán, lặp lại mỗi năm, và nguyên nhân của nó là cùng một hệ thống gió theo mùa vốn cũng quyết định khi nào bờ tây Bán đảo lại khô.

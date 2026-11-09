@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "circular-economy-blueprint" }
 related: []
 keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusan", "pengasingan sisa di punca", "ekonomi kitaran"]
+framework: explainer
 ---
 
 Vứt rác ở Johor và nó trở thành công việc của chính phủ liên bang; vứt cùng loại rác đó ở Penang và nó vẫn là công việc của hội đồng địa phương. Đó là điều kỳ lạ cốt lõi của cách Malaysia quản lý chất thải rắn của mình — một luật liên bang hoành tráng, nhưng chỉ có hiệu lực ở nơi đồng ý áp dụng nó.

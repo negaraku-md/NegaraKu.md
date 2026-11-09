@@ -59,6 +59,7 @@ keywords: ["Brunei Sultanate", "Sultan Bolkiah", "Borneo empire", "Sarawak cessi
 social:
   hashtags: ["BruneiSultanate", "BorneoHistory", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded: []
+framework: history-culture
 ---
 
 오늘날 반다르스리브가완(Bandar Seri Begawan)의 물가에 서 보면 브루나이는 작아 보입니다: 보르네오(Borneo) 해안의 두 자락을 감싼, 오후 한나절이면 차로 가로지를 만큼 가까운 부유한 산유 술탄국입니다. 이것이 한 제국의 살아남은 조각이라는 사실 — 다섯 세기 전 브루나이의 술탄이 그 섬 북·서 해안의 대부분에 늘어선 항구들에서 공물을 받을 수 있었고, 여기서 차로 닿을 수 있는 두 말레이시아 주 사라왁(Sarawak)과 사바(Sabah)가 한때 그가 떼어 줄 수 있는 그의 것이었다는 사실 — 은 잊히기 쉽습니다. 보르네오의 한 해상 왕국이 어떻게 일어나 정점에 이르고, 그 뒤 그 해안들을 조각조각 넘겨주었는지에 관한 이야기는 — 브루나이 자신은 결코 말레이시아의 일부가 되지 않았음에도 — 말레이시아 역사의 핵심 실 가운데 하나입니다.

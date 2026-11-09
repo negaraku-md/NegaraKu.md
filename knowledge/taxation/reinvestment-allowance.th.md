@@ -84,6 +84,7 @@ relations:
   - { rel: "compares-with", to: "double-deduction-list" }
 related: ["double-deduction-list", "corporate-tax-rates", "losses-and-group-relief"]
 keywords: ["reinvestment allowance Malaysia", "Schedule 7A qualifying project", "RA 60% capital expenditure", "reinvestment allowance 15 years", "RA claim rejected audit"]
+framework: rules
 ---
 
 เงินอุดหนุนการลงทุนซ้ำล้มเหลวในการตรวจสอบบ่อยกว่าที่ถูกปฏิเสธตั้งแต่แรกมาก และแทบไม่เคยเป็นเพราะไม่ได้ใช้จ่ายเงิน มันล้มเหลวเพราะบริษัทซื้อสินทรัพย์ที่ถูกต้องสำหรับโครงการที่ผิด เครื่องจักรที่บรรจุกล่องสำเร็จรูปลงในลังเป็นเครื่องจักรจริง ติดตั้งจริงในโรงงานจริง — และมันไม่มีคุณสมบัติ เพราะการผลิตเสร็จสิ้นไปแล้วเมื่อดินสอถูกใส่ลงในกล่อง

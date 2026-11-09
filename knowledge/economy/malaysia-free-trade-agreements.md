@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malaysia FTA", "CPTPP Malaysia", "RCEP Malaysia", "free trade agreement", "MITI", "tariff elimination", "ASEAN Free Trade Area", "bilateral FTA"]
+framework: explainer
 ---
 
 Most of Malaysia's imports and exports move across borders where tariffs have already been negotiated down. That network has been assembled deal by deal since the early 1990s — from the ASEAN Free Trade Area to the two mega-agreements, RCEP and CPTPP, that now sit at its centre.

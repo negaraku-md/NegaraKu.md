@@ -75,6 +75,7 @@ keywords:
   - "KEJARA डिमेरिट पॉइंट प्रणाली"
   - "lesen memandu Malaysia"
   - "sistem KEJARA"
+framework: explainer
 ---
 
 अधिकांश लोग «ड्राइविंग लाइसेंस» को एक अकेला दस्तावेज़ मानते हैं। यह असल में तीन

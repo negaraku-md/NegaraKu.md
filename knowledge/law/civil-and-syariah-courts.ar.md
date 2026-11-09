@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["court-hierarchy", "federal-constitution", "article-3-religion", "fundamental-liberties"]
 keywords: ["المحكمة المدنية مقابل المحكمة الشرعية ماليزيا", "المادة 121(1A) الدستور الاتحادي", "اختصاص المحكمة الشرعية العالية", "civil court vs Syariah court Malaysia", "Article 121(1A) Federal Constitution", "Ninth Schedule State List item 1", "Act 355", "المحاكم المدنية والشرعية"]
+framework: explainer
 ---
 
 لا سُلّم بينهما.

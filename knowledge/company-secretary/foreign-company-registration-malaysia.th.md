@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "incorporate-company-malaysia-sdn-bhd" }
 related: ["companies-act-2016"]
 keywords: ["foreign company registration Malaysia", "branch office Malaysia", "section 562 Companies Act 2016", "SSM foreign company", "local agent Malaysia", "branch vs Sdn Bhd"]
+framework: how-to
 ---
 
 บริษัทต่างประเทศสามารถขายเข้ามาในมาเลเซียจากต่างประเทศได้เป็นเวลานาน — แต่เมื่อใดที่เปิดสำนักงาน ลงนามในสัญญาเช่าท้องถิ่น หรือจัดตั้งพนักงานในพื้นที่ ก็ข้ามเส้นแล้ว เมื่อ *ประกอบกิจการ* ในมาเลเซีย Companies Act 2016 ระบุว่าต้องจดทะเบียนก่อน และการทำเช่นนั้นเปลี่ยนบริษัทต่างประเทศเดียวกันให้เป็นสาขาที่จดทะเบียนในมาเลเซีย

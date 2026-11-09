@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-china-relations", "malaysia-asean-membership"]
 keywords: ["Malaysia US relations", "Comprehensive Strategic Partnership", "reciprocal trade agreement", "US tariff Malaysia", "semiconductors", "defence cooperation"]
+framework: explainer
 ---
 
 บารัค โอบามา (Barack Obama) เยี่ยมชมมัสยิดแห่งชาติ (Masjid Negara) ของกัวลาลัมเปอร์ (Kuala Lumpur) ในปี 2014 ส่วนอันวาร์ อิบราฮิม (Anwar Ibrahim) จับมือกับโดนัลด์ ทรัมป์ (Donald Trump) เหนือความตกลงการค้าที่ลงนามในปี 2025 ประธานาธิบดีอเมริกันสองคนที่แตกต่างกันมาก แต่ความสัมพันธ์ที่ยั่งยืนหนึ่งเดียว และนิสัยของมาเลเซียที่เข้าใกล้วอชิงตันโดยไม่เคยยืนอยู่ใต้ร่มความมั่นคงของสหรัฐฯ

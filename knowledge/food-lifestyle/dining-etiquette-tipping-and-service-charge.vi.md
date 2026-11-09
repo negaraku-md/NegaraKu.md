@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "sales-and-service-tax-sst-explained" }
 related: []
 keywords: ["tipping malaysia", "service charge malaysia", "service tax restaurant", "dining etiquette malaysia", "SST food and beverage"]
+framework: explainer
 ---
 
 Bạn kết thúc một bữa ăn ngon ở Kuala Lumpur, hóa đơn được đặt lên bàn, và hai dòng lạ lẫm nằm dưới tổng số của bạn. Không, bạn không gọi thêm gì cả — và không, bạn không cần cộng thêm một khoản tip lên trên. Đây là cách ăn ngoài ở Malaysia thực sự vận hành.

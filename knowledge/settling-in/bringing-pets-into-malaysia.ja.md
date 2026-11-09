@@ -62,6 +62,7 @@ relations:
   - { rel: "part-of", to: "settling-in" }
 related: ["moving-to-malaysia-first-steps", "dependant-social-visit-passes"]
 keywords: ["bringing pets to Malaysia", "MAQIS import permit", "DVS pet import rules", "dog cat quarantine Malaysia", "restricted dog breeds Malaysia", "ISO microchip pet import"]
+framework: how-to
 ---
 
 航空券は予約済み、荷物も詰め終えた——そこでふと気づく。犬はどうする。マレーシアでは、ペットはただ貨物室に乗せればよいというわけではない。地上を離れる前に承認された許可、特定のISO規格を満たすマイクロチップ、そしておそらくは取り戻すまでに1週間以上の検疫が必要になる。

@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "driving-licence-in-malaysia" }
 related: []
 keywords: ["seguridad vial", "accidentes de tráfico Malasia", "conducción bajo los efectos del alcohol", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
+framework: explainer
 ---
 
 Cada día se pierden unas 18 vidas en las carreteras de Malasia. Esa cifra convierte a las carreteras en una de las causas más significativas de muerte no natural del país, y es la principal razón por la que se han desplegado leyes, cámaras y agencias dedicadas a abordarla.

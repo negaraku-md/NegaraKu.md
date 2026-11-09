@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "worker-accommodation-act-446" }
 related: ["hiring-foreign-workers-malaysia", "worker-accommodation-act-446"]
 keywords: ["forced labour malaysia", "section 90b employment act", "passport retention malaysia", "withhold release order malaysia", "atipsom", "recruitment fees migrant workers"]
+framework: rules
 ---
 
 Giữa năm 2019 và 2022, Cơ quan Hải quan và Bảo vệ Biên giới Hoa Kỳ (US Customs and Border Protection) đã chặn hàng nhập khẩu từ tám nhà sản xuất găng tay và dầu cọ của Malaysia. Các công ty đã hoàn trả hơn 85 triệu USD tiền lương bị giữ lại để được dỡ bỏ các lệnh. Đó là thực tế thương mại của việc tuân thủ về lao động cưỡng bức tại Malaysia, và đó là lý do đây là một câu hỏi về thương mại trước khi nó là một câu hỏi về nhân sự.

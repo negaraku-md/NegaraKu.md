@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "dependant-social-visit-passes", "student-pass"]
 keywords: ["overstay Malaysia", "immigration blacklist", "Special Pass", "Immigration Act 1959/63", "compound fine", "re-entry ban", "section 15", "Overstay Management Programme"]
+framework: rules
 ---
 
 ஒரே ஒரு நாள் காலாவதியாகிவிட்ட ஒரு அனுமதிச்சீட்டு, மலேசியச் சட்டத்தின் பார்வையில், நூறு நாட்கள் காலாவதியானதுடன் அதே குற்றமாகும். தங்கள் வருகை, வேலைவாய்ப்பு, சார்பு, மாணவர், அல்லது தொழில்முறை அனுமதிச்சீட்டு முடிந்துவிட்டது என்பதை உணரும் எவருக்கும் இதுவே அந்த சங்கடமான தொடக்கப் புள்ளி — மேலும் அடுத்து என்ன நடக்கிறது என்பதைப் பற்றிய எல்லாவற்றையும் இது வடிவமைக்கிறது.

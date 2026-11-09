@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-state-division" }
 related: ["rulers-and-governors", "state-assemblies-dun", "kabinet-perdana-menteri", "three-tiers-of-government", "federal-state-division", "sabah-sarawak-safeguards"]
 keywords: ["حكومة الولاية ماليزيا", "منتري بيسار Menteri Besar", "كبير الوزراء Chief Minister", "المجلس التنفيذي للولاية EXCO", "ديوان أوندانغان نيغري Dewan Undangan Negeri", "جمعية الولاية", "يانغ دي-بيرتوا نيغري Yang di-Pertua Negeri", "الجدول الثامن", "الجدول التاسع", "قائمة الولاية State List", "الدستور الاتحادي ماليزيا"]
+framework: explainer
 ---
 
 انزع إستانا نيغارا، وأعد تسمية رئيس الوزراء، وقلّص البرلمان إلى غرفة واحدة — عندئذٍ

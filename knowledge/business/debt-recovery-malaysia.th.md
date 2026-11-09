@@ -104,6 +104,7 @@ keywords:
   - "winding up petition unpaid debt Malaysia"
   - "limitation period debt Malaysia"
   - "tuntutan hutang syarikat"
+framework: how-to
 ---
 
 คำแนะนำส่วนใหญ่ในการทวงหนี้การค้ามาเลเซียย่นลงเหลือคำเดียว: ฟ้อง นั่นคือขั้นบันไดที่แพงที่สุดและมักเป็นขั้นที่ไม่ควรไขว่คว้าเป็นอันดับแรก

@@ -90,6 +90,7 @@ relations:
   - { rel: "part-of", to: "stamp-duty-rates" }
 related: ["stamp-duty-rates", "capital-gains-tax", "stamp-duty-self-assessment", "share-capital-malaysia"]
 keywords: ["stamp duty share transfer Malaysia", "Form 32A", "Form of Transfer of Securities section 105", "NTA valuation stamp duty", "0.3% share transfer duty"]
+framework: rules
 ---
 
 株式譲渡の印紙貼付について、マレーシアの実務ノートの多くには、今なお誤りが二つある。一つは、そこで使うよう指示している様式が1965年会社法（Companies Act 1965）とともに廃止されていること、もう一つは、税額が買主が実際に支払った金額に対して課されるのではないということである。

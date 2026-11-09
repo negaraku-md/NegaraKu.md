@@ -70,6 +70,7 @@ keywords:
   - "cabutan sijil kelahiran"
   - "JPN.LM01"
   - "JPN.LM12"
+framework: how-to
 ---
 
 Nhiều bậc cha mẹ mới xem việc đăng ký khai sinh cho con là thủ tục giấy tờ

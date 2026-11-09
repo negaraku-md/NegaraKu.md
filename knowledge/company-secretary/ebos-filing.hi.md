@@ -102,6 +102,7 @@ relations:
   - { rel: "explained-in", to: "ebos" }
 related: ["beneficial-ownership", "bo-register", "ebos", "who-is-a-beneficial-owner", "annual-return"]
 keywords: ["e-BOS दाखिला मलेशिया", "e-BOS filing Malaysia", "हिताधिकारी स्वामित्व दाखिल SSM", "Practice Directive 9/2024", "SSM4U e-BOS", "हिताधिकारी स्वामित्व 14 दिन"]
+framework: how-to
 ---
 
 दाखिला वह भाग है जिसे हर कोई याद रखता है, क्योंकि यह एक अभिस्वीकृति उत्पन्न करता

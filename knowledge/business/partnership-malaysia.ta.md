@@ -69,6 +69,7 @@ keywords:
   - "partner liability Malaysia"
   - "joint and several liability partnership"
   - "register partnership SSM"
+framework: explainer
 ---
 
 இரண்டு நண்பர்கள் ஒரு கூட்டாண்மையைப் பதிவு செய்கிறார்கள், ஏனெனில் அது ஆண்டுக்கு

@@ -89,6 +89,7 @@ keywords:
   - "is a non-compete enforceable in Malaysia"
   - "liquidated damages Malaysia section 75"
   - "Akta Kontrak 1950"
+framework: explainer
 ---
 
 한 말레이시아 회사가 런던에서 작성된 유통 계약서에 서명합니다. 그 계약서에는 정해진 지역과

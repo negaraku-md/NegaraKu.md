@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "internet-and-fibre" }
 related: ["malaysias-telcos-and-5g", "internet-and-fibre"]
 keywords: ["JENDELA", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "second 5G network", "U Mobile", "MCMC", "national broadband plan", "spectrum allocation", "700MHz", "3.5GHz"]
+framework: explainer
 ---
 
 问两个马来西亚人这个国家的移动网络是如何运营的，你往往会得到两个不同的、各对一半的答案——因为实际上有两个彼此纠缠的独立故事。一个是宽带覆盖计划，大多数人都在政府横幅上见过它的名字。另一个则是关于谁能拥有 5G 管道的一场快速演变的争夺。要理解现代马来西亚的连接状况，就必须把这两个故事分辨清楚。

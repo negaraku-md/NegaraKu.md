@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["ekonomi-madani-framework", "malaysia-plans", "bumiputera-equity-requirements", "gdp-overview", "federal-budget"]
 keywords: ["السياسة الاقتصادية للبوميبوترا", "Dasar Ekonomi Baru", "DEB", "إعادة هيكلة المجتمع", "PuTERA35", "Pelan Transformasi Ekonomi Bumiputera 2035", "Majlis Ekonomi Bumiputera", "اقتصاد MADANI", "المشاركة والملكية والتحكّم"]
+framework: explainer
 ---
 
 في 19 أغسطس 2024، أطلقت الحكومة خطة التحول الاقتصادي للبوميبوترا 2035 (PuTERA35). واسم الخطة جديد، لكن هدفها الأساسي — زيادة مشاركة البوميبوترا (Bumiputera) في الاقتصاد وملكيتهم وتحكّمهم فيه — ليس فكرة جديدة.

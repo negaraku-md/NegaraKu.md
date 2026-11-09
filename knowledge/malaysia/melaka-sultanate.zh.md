@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: ["langkasuka", "johor"]
 keywords: ["马六甲苏丹国", "拜里米苏拉", "Parameswara", "马六甲历史", "Hukum Kanun Melaka", "马来苏丹国起源"]
+framework: history-culture
 ---
 
 一名王子从一座燃烧的城市逃出。他渡过一道海峡，杀死了曾收留他的当地首领，然后一路奔逃——经过麻坡，经过 Ujong Tanah——直到在一条河岸边的树下停下来，让他的猎狗歇息。其中一只猎狗把一只鼠鹿逼入绝境，而这只走投无路的鼠鹿转过身来，一脚把它踢进了水里。王子将此视为一个预兆：在这里，连最弱小的生物也会反击。他决定就在此地建立他的城市，并以他所坐的那棵树为它命名——一棵 *melaka* 树。

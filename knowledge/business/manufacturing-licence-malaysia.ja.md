@@ -102,6 +102,7 @@ keywords:
   - "MIDA manufacturing licence"
   - "shareholders funds RM2.5 million"
   - "exempted from manufacturing licence"
+framework: rules
 ---
 
 マレーシアの中小型製造業者の大半は、製造ライセンスを必要としない。ほとんどすべてのガイドがそこで止まってしまい、あたかも免除されることが何もしなくてよいことと同じであるかのように扱う。

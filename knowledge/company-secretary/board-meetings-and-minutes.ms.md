@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "directors-duties" }
 related: ["minute-books-and-records", "directors-duties", "disclosure-of-interest", "written-resolutions", "company-tax-residence"]
 keywords: ["mesyuarat lembaga pengarah malaysia", "jadual ketiga akta syarikat 2016", "resolusi pusingan pengarah", "kuorum lembaga pengarah sdn bhd", "seksyen 212 prosiding lembaga pengarah"]
+framework: rules
 ---
 
 Kebanyakan Sdn Bhd di Malaysia tiada perlembagaan. Di bawah Akta Syarikat 2016 mereka

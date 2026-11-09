@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-jakim" }
 related: ["hari-raya-aidilfitri"]
 keywords: ["bazar ramadan", "ramadan bazaar malaysia", "juadah berbuka puasa", "etika bulan puasa", "lesen penjaja bazar"]
+framework: explainer
 ---
 
 ラマダン月のアスルの礼拝時刻が近づくたびに、白いテントの列が道端に次々と現れ、アヤム・プルチックの煙が炭火の上に立ちのぼり、ロティ・ジョン（roti john）の香りとシラップ・バンダン（air bandung）の匂いが人々を家の外へと誘う。これがラマダン・バザールである——一年のうち一か月しか存在しない季節限定の市場でありながら、マレーシア社会の生活のリズムの一部として長らく根づいてきた。

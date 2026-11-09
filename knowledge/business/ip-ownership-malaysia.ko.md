@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "patent-malaysia" }
 related: ["copyright-malaysia", "patent-malaysia", "industrial-design-malaysia", "trademark-registration-malaysia"]
 keywords: ["ip ownership malaysia", "who owns copyright employee malaysia", "contractor ip malaysia", "ip assignment malaysia", "section 26 copyright act 1987"]
+framework: explainer
 ---
 
 텀시트에 막 서명하려는 말레이시아 창업자가 지식재산 양도서를 요청받습니다. 하나도 없습니다. 디자이너는 프리랜서였고, 플랫폼의 첫 버전은 회사가 존재하기 전에 친구가 작성했으며, 로고는 아무도 약관을 읽지 않은 에이전시에서 나왔고, 상표는 창업자 개인 명의로 등록되어 있습니다. 모두가 무언가에 대금을 지급하는 것이 곧 그것을 소유하는 것이라고 가정했습니다.

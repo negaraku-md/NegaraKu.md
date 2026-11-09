@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "malaysia-homestay-programme" }
 related: []
 keywords: ["Patrimonio Mundial UNESCO Malasia", "turismo patrimonial Malasia", "programa de homestay Malasia", "George Town Melaka", "etiqueta en mezquitas Malasia", "turismo cultural"]
+framework: explainer
 ---
 
 Seis sitios en un solo país llevan hoy el sello de la UNESCO — y puedes recorrer por la mañana una plaza colonial neerlandesa de siglos de antigüedad y, a un vuelo de distancia, plantarte dentro de una vasta cámara de cueva borneana. El patrimonio de Malasia no es un museo que se mira; es una calle viva por la que puedes comer, dormir y rezar a tu paso.

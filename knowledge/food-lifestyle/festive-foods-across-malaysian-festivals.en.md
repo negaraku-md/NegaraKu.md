@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "kaamatan" }
 related: ["hari-raya-aidilfitri", "chinese-new-year", "deepavali", "christmas-malaysia", "gawai-dayak", "kaamatan"]
 keywords: ["juadah perayaan", "makanan raya", "ketupat", "rendang", "lemang", "yee sang", "lou sang", "murukku", "manok pansuh", "hinava", "tuak", "tumpung", "rumah terbuka", "kuih raya"]
+framework: history-culture
 ---
 
 Follow the Malaysian calendar from one end of the year to the other, and you are not merely changing dates — you are changing kitchens. This month it is the scent of rendang and lemang's coconut milk; a few months later, the table is full of raw-fish salad lifted high while people cheer; then it is the turn of crunchy murukku spirals, and finally a split bamboo section cracked open to release steaming chicken.

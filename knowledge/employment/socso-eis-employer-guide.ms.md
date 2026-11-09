@@ -109,6 +109,7 @@ relations:
   - { rel: "compares-with", to: "epf-employer-guide" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "pcb-mtd-malaysia"]
 keywords: ["kadar caruman SOCSO Malaysia", "kadar EIS majikan", "siling gaji PERKESO RM6000", "SOCSO Kategori 1 Kategori 2", "LINDUNG 24 Jam SKBBK"]
+framework: rules
 ---
 
 Sebelum anda menyemak kadar SOCSO, semak dahulu siling yang dikenakan

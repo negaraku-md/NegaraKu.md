@@ -95,6 +95,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "paternity-leave-malaysia", "employment-act-coverage", "termination-of-employment-malaysia"]
 keywords: ["मलेशिया मातृत्व अवकाश maternity leave", "98 दिन मातृत्व अवकाश", "मलेशिया मातृत्व भत्ता maternity allowance", "मलेशिया गर्भवती कर्मचारी सेवा-समाप्ति", "Employment Act की धारा 41A"]
+framework: rules
 ---
 
 मलेशिया में मातृत्व अवकाश की अधिकांश सामग्री बस एक संख्या है। अट्ठानबे दिन, साठ से बढ़े हुए, 1 जनवरी 2023 से प्रभावी, लेख समाप्त। यह संख्या Part IX का सबसे कम दिलचस्प हिस्सा है। जो हिस्सा मामलों का फ़ैसला करता है वह है **धारा 41A**, जो गर्भवती कर्मचारी की सेवा समाप्त करना एक आपराधिक अपराध बनाती है और फिर नियोक्ता को यह साबित करने के लिए बाध्य करती है कि यह उस कारण से नहीं हुआ।

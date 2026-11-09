@@ -84,6 +84,7 @@ relations:
 related: ["batik", "wayang-kulit", "kelantan"]
 entity: "Wau"
 keywords: ["wau", "wau bulan", "layang-layang tradisional", "kraf Kelantan", "Adiguru Kraf wau"]
+framework: history-culture
 ---
 
 在你看见wau之前，你会先听见它。一个做得恰到好处的传统wau，在空中飞行的整段时间里都会持续发出嗡嗡声——那不是风声，而是刻意设计进其构造里的音调。

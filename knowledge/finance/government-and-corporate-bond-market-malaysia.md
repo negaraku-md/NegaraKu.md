@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["bank-negara-malaysia", "bursa-malaysia", "federal-budget", "epf-as-investor"]
 keywords: ["MGS", "GII", "sukuk", "Malaysian government securities", "corporate bonds", "RENTAS", "Sukuk Simpanan Rakyat", "bond market Malaysia"]
+framework: explainer
 ---
 
 When the Malaysian government builds a highway or a hospital, it rarely pays cash on the spot. It borrows — and the IOU it hands out is a bond. Multiply that across decades of development spending, add every company that borrows the same way, and you get one of Asia's deepest local-currency bond markets, running on two parallel tracks: conventional debt and Shariah-compliant sukuk.

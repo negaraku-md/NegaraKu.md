@@ -79,6 +79,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-registration", "imported-taxable-services", "sales-tax-explained"]
 keywords: ["SST-02", "tarikh akhir SST", "penalti bayaran lewat SST", "tempoh bercukai SST", "penyata MySST"]
+framework: rules
 ---
 
 Tangga penalti berhenti meningkat pada hari kesembilan puluh. Selepas itu ia

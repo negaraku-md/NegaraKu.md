@@ -112,6 +112,7 @@ relations:
   - { rel: "requires", to: "register-of-directors" }
 related: ["secretary-vacancy-30-days", "changing-company-secretary", "company-secretary-qualification", "appoint-company-secretary"]
 keywords: ["resign company secretary Malaysia", "section 237 Companies Act 2016", "secretary resignation 30 days", "Practice Note 4/2018", "directors cannot be contacted secretary resign", "notice of intention to vacate office of secretary"]
+framework: how-to
 ---
 
 คู่มือทุกฉบับเกี่ยวกับหัวข้อนี้เขียนจากด้านของบริษัท: เลขานุการของคุณลาออก นี่คือสิ่งที่คุณยื่น นั่นเป็นกลุ่มเป้าหมายที่ผิด บุคคลที่ค้นหาจริง ๆ ตอนห้าทุ่มคือเลขานุการที่ต้องการออกจากลูกค้าที่หยุดตอบอีเมล หยุดจ่ายเงิน และแน่นอนว่าจะไม่ยื่นสิ่งใดกับ SSM ในนามของพวกเขา

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "temple-music-nadaswaram" }
 related: ["tamil-in-malaysia", "temple-music-nadaswaram", "hinduism-in-malaysia", "deepavali", "estate-tamil-community", "silambam"]
 keywords: ["இந்திய செம்மொழிக் கலைகள்", "பரதநாட்டியம்", "கர்நாடக இசை", "அரங்கேற்றம்", "ஒடிசி", "Temple of Fine Arts", "Sutra Dance Theatre", "Indian classical arts Malaysia", "Bharatanatyam Malaysia", "Carnatic music Malaysia"]
+framework: history-culture
 ---
 
 ในเมืองใหญ่เมืองใดก็ตามของมาเลเซีย ในค่ำคืนดีปาวลีหรือในวันงานวัด เราจะได้เห็นนักรำภารตนาฏยัมขึ้นสู่เวที พร้อมเสียงกำไลข้อเท้าดังกังวาน เคลื่อนไหวไปตามจังหวะมฤทังคัม ท่าเท้าและท่ามือเหล่านั้นมิใช่สิ่งที่เกิดขึ้นโดยบังเอิญ — มันบอกเล่าถึงธรรมเนียมศิลปะอินเดียใต้ที่มีอายุมากกว่าหนึ่งพันปี และถึงวิธีที่ชุมชนทมิฬมาเลเซียแบกรับมันมานานกว่าหนึ่งศตวรรษครึ่ง

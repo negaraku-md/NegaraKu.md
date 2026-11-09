@@ -108,6 +108,7 @@ keywords:
   - "कंपनी सचिव आवश्यकताएँ मलेशिया"
   - "company secretary Malaysia"
   - "cosec fees Malaysia"
+framework: explainer
 ---
 
 मलेशिया में कंपनी सचिवों के बारे में लगभग जो कुछ भी लिखा गया है, वह कंपनी सचिवों ने ही लिखा है।

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-malaysia" }
 related: ["balik-kampung", "kampung", "public-holidays-malaysia", "religion-statistics"]
 keywords: ["हरि राया आइदिलफित्री", "1 Syawal", "balik kampung", "duit raya", "rumah terbuka", "ziarah kubur", "zakat fitrah", "आइदिलफित्री सार्वजनिक अवकाश", "Hari Raya Aidilfitri"]
+framework: history-culture
 ---
 
 रमज़ान की आख़िरी रात, पूरा देश मानो एक साथ हरकत में आ जाता है। उत्तर–दक्षिण एक्सप्रेसवे (North–South Expressway) घंटों जाम रहता है, बस अड्डे थैलों और कुकीज़ के डिब्बों से भरे रहते हैं, और शहरों से लेकर कम्पुंग (kampung) के दूर-दराज़ कोनों तक बरामदों में पेलिता (pelita) दीप जलाए जाते हैं। अगले दिन, 1 शव्वाल, रोज़ों का एक महीना समाप्त होता है — और मलेशिया हरि राया आइदिलफित्री मनाता है।

@@ -66,6 +66,7 @@ social:
 verificationNeeded:
   - "SENSITIF: menyentuh pergolakan kaum 13 Mei 1969 (kaum) dan Raja-Raja Melayu (kedaulatan raja). Semua pencirian diringkaskan secara neutral; semak semula dengan sumber primer dan dapatkan kelulusan seorang penyemak manusia yang layak sebelum penerbitan."
   - "Sahkan tarikh tepat (keperdanaan, kelahiran, kematian) dengan Perdana Leadership Foundation dan Pejabat Perdana Menteri."
+framework: profile
 ---
 
 Pada pagi 31 Ogos 1957, di hadapan Stadium Merdeka yang sesak di Kuala

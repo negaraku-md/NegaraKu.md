@@ -68,6 +68,7 @@ faq:
     a: 'Non, pas dans la pratique quotidienne des Chinois de Malaisie. Pour beaucoup de familles, le bouddhisme, le taoïsme, la pensée confucéenne et le culte des ancêtres ne sont pas des choix mutuellement exclusifs, mais un seul ensemble de pratiques menées de front : une même personne peut brûler de l''encens le premier et le quinzième jour du mois lunaire, nettoyer les tombes à Qingming (清明) et aussi se rendre au temple pour rendre hommage au Bouddha le jour du Vesak. Ce mélange est le trait essentiel des croyances populaires chinoises, et c''est pourquoi le bouddhisme et la religion populaire sont souvent difficiles à séparer nettement.'
   - q: Qui est Tua Pek Kong, et où se trouve le plus ancien temple de Tua Pek Kong ?
     a: Tua Pek Kong (大伯公) est une divinité au fort caractère local, largement vénérée dans les temples chinois de toute la Malaisie. Le plus ancien temple de Tua Pek Kong se trouverait à Tanjung Tokong, à Penang, et le culte s'est ensuite répandu dans toute la Malaisie, à Singapour et en Indonésie. En malais, un tel temple s'appelle tokong ; parmi les autres temples réputés figurent Cheng Hoon Teng à Malacca et le temple Thean Hou à Kuala Lumpur.
+framework: history-culture
 ---
 
 En entrant dans n'importe quel temple chinois de Malaisie, vous verrez très

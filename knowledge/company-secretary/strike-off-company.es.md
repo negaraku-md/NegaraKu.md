@@ -75,6 +75,7 @@ relations:
   - { rel: "compares-with", to: "members-voluntary-winding-up" }
 related: ["companies-act-2016", "ssm", "members-voluntary-winding-up"]
 keywords: ["strike off syarikat", "seksyen 550 Akta Syarikat 2016", "potong nama syarikat SSM", "syarikat dorman", "pembubaran syarikat", "voluntary dissolution Malaysia"]
+framework: how-to
 ---
 
 Una empresa inactiva que dejó de operar hace mucho sigue estando legalmente «viva»: aún debe presentar declaraciones anuales, sigue expuesta a sanciones y sus directores siguen soportando responsabilidades ante SSM. Dar de baja el nombre de la empresa del registro es la forma oficial de poner fin a esa existencia, pero solo está abierta a las empresas que están genuinamente limpias de activos, deudas y disputas.

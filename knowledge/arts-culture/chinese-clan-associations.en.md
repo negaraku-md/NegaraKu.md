@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-education-in-malaysia", "chinese-dialects", "chinese-new-villages", "population-composition"]
 keywords: ["华人会馆", "宗亲会", "会馆", "公司", "地缘性", "血缘性", "业缘性", "福建会馆", "客家公会", "邱公司", "龙山堂", "华总", "中华总商会", "姓氏桥", "新客", "义山", "Chinese clan associations Malaysia", "huiguan", "kongsi"]
+framework: history-culture
 ---
 
 Walk into the area around Fort Cornwallis in George Town, Penang, and amid the rows of shophouses a clan temple with soaring, ornately carved eaves and painted beams suddenly appears — that is the Leong San Tong Khoo Kongsi. Head further toward the sea and you find rows of wooden stilt houses extending out over the water, each village named after a single surname: the Chew Jetty, the Lim Jetty, the Tan Jetty. These buildings are neither temples nor merely dwellings, but the physical remains of one of the oldest forms of organisation in Chinese immigrant society — the clan and hometown associations.

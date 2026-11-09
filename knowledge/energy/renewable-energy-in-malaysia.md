@@ -110,6 +110,7 @@ entity: "Renewable energy in Malaysia"
 relations: []
 related: []
 keywords: ["renewable energy Malaysia", "NETR", "National Energy Transition Roadmap", "MyRER", "NEM 3.0", "Net Energy Metering Malaysia", "SEDA", "Large Scale Solar", "LSS Malaysia", "CGPP", "CRESS", "solar panel Malaysia", "feed-in tariff Malaysia", "TNB solar", "renewable energy target 2050", "Energy Commission Malaysia"]
+framework: explainer
 ---
 
 If you have tried to read up on renewable energy (RE) in Malaysia, you have probably hit three different target numbers — 31%, 40% and 70% — and a wall of acronyms: FiT, NEM, LSS, CGPP, CRESS, SELCO. None of it is contradictory; it is just spread across half a dozen agencies, each documenting only its own corner. This guide pulls the whole landscape into one place: the national targets and the roadmaps behind them, the family of schemes, and — the part most sources skip — which programme is actually meant for a homeowner, a business, or a developer.

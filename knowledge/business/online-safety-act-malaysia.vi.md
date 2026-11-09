@@ -121,6 +121,7 @@ relations:
   - { rel: "related-to", to: "communications-and-multimedia-act-1998" }
 related: []
 keywords: ["online safety act 2025", "act 866 malaysia", "online safety plan malaysia", "harmful content malaysia", "mcmc online safety"]
+framework: rules
 ---
 
 Luật An toàn Trực tuyến năm 2025 của Malaysia thường được mô tả là một luật về mạng xã hội. Không hẳn vậy. Nó là một luật về **hành vi của người được cấp phép**, và sự khác biệt quyết định liệu nó có ảnh hưởng đến bạn hay không.

@@ -113,6 +113,7 @@ relations:
   - { rel: "requires", to: "register-of-directors" }
 related: ["secretary-vacancy-30-days", "changing-company-secretary", "company-secretary-qualification", "appoint-company-secretary"]
 keywords: ["letak jawatan setiausaha syarikat Malaysia", "seksyen 237 Akta Syarikat 2016", "peletakan jawatan setiausaha 30 hari", "Practice Note 4/2018", "pengarah tidak dapat dihubungi setiausaha letak jawatan", "notis niat meletak jawatan setiausaha"]
+framework: how-to
 ---
 
 Setiap panduan mengenai topik ini ditulis daripada sudut pandang syarikat: setiausaha anda telah meletakkan jawatan, inilah apa yang perlu difailkan. Itu adalah khalayak yang salah. Orang yang sebenarnya mencari pada pukul 11 malam ialah setiausaha yang mahu keluar daripada klien yang telah berhenti menjawab e-mel, berhenti membayar, dan pastinya tidak akan memfailkan apa-apa dengan SSM bagi pihak mereka.

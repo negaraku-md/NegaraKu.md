@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "mak-yong" }
 related: ["sabah", "population-composition", "wau"]
 keywords: ["Pesta Kaamatan", "Tadau Kaamatan", "Kadazandusun harvest festival", "Unduk Ngadau", "Bambaazon", "Huminodun", "Magavau", "KDCA", "Sabah"]
+framework: history-culture
 ---
 
 この祭りは、たった一つの概念にちなんで名付けられている——収穫である。*カアマタン*はカダザンドゥスン語でまさにそれを意味しており、儀式、米酒、そして最終日の夜に戴冠される美人コンテストといった祝賀の他のすべての要素は、稲を取り入れるというこの一つの行為から生まれている。

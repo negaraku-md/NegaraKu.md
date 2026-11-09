@@ -79,6 +79,7 @@ related:
   - "malaysian-noodles"
 social:
   hashtags: ["PrawnMee", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 prawn mee என்பது பினாங்கின் அடையாளக் கிண்ணங்களில் ஒன்று; Lebuh Pantai-இல் நீண்ட

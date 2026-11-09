@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "singapore-separation-1965" }
 related: ["sabah", "sarawak", "ma63", "formation-of-malaysia-1963", "singapore-separation-1965"]
 keywords: ["Peninsular Malaysia", "East Malaysia", "Sabah Sarawak border", "South China Sea Malaysia", "Immigration Act 1959/63 Section 66", "Sarawak Land Code", "Sabah Land Ordinance", "Malaysian Standard Time 1982"]
+framework: explainer
 ---
 
 Naik penerbangan domestik dari Kuala Lumpur ke Kota Kinabalu, dan Anda mendarat di negara yang sama seperti yang Anda tinggalkan. Mata uang yang sama, paspor yang sama, bendera yang sama pada sirip ekor pesawat. Namun demikian, di aula kedatangan, Anda mengantre di sebuah loket bergaya imigrasi dan seseorang memeriksa kartu identitas atau paspor Anda sebelum Anda diizinkan lewat. Tidak ada penerbangan lain di dalam Malaysia yang bekerja seperti itu.

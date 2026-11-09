@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "sabah-visitor-guide" }
 related: ["sabah-visitor-guide"]
 keywords: ["Sarawak travel", "Sarawak immigration", "Kuching guide", "Gunung Mulu National Park", "Iban longhouse", "Bidayuh longhouse", "Sarawak entry pass", "Borneo travel"]
+framework: explainer
 ---
 
 クアラルンプールからクチンまで二時間足らずで飛べて、自分の国を一度も出ないのに、到着した先ではやはり移民審査でスタンプを押される。到着ロビーでのその驚きこそ、サラワク州について理解すべき最も重要な一点である。すなわち、それは独自の国境を運用するマレーシアの州なのだ。

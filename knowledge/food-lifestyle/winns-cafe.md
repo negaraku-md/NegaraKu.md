@@ -73,6 +73,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#WinnsCafe", "#Peranakan", "#Nyonya", "#Penang", "#BibGourmand"]
+framework: profile
 ---
 
 Penang is the old heartland of Straits-Chinese cooking, and Winn's Cafe keeps that

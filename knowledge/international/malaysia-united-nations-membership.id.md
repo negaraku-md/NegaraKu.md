@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malaysia PBB", "United Nations Malaysia", "Majlis Keselamatan PBB", "pasukan pengaman", "UNIFIL", "keahlian PBB", "diplomasi Malaysia"]
+framework: explainer
 ---
 
 Hanya 17 hari setelah Tunku Abdul Rahman meneriakkan "Merdeka" di Stadium Merdeka, bendera Persekutuan Tanah Melayu dikibarkan di markas besar PBB di New York. Pada 17 September 1957, negara muda ini secara resmi diterima sebagai anggota Perserikatan Bangsa-Bangsa — sebuah langkah yang mengukuhkan kedaulatannya di pentas dunia hampir bersamaan dengan kelahirannya.

@@ -92,6 +92,7 @@ verificationNeeded:
   - "Resipi menyangai tradisional yang tepat untuk kopi O gelap — lazimnya digambarkan sebagai biji yang disangai dengan gula dan marjerin, dan menurut sesetengah riwayat turut dengan gandum/jagung — dianggap sebagai rahsia perniagaan oleh jenama utama dan berbeza mengikut penyangai; sahkan butirannya dengan sumber primer."
   - "Masa, perintis dan butiran kafe/penyangai semasa bagi gerakan third wave Kuala Lumpur sebahagiannya bergantung pada laporan Time Out 2014. Kafe dan penyangai yang dinamakan mungkin telah berubah. Sahkan dengan sumber semasa sebelum bergantung pada butiran tertentu."
   - "Skala dan pengeluaran kopi tanaman Malaysia (cth. Liberica) serta sebarang dakwaan 'single-origin Malaysia' patut disahkan dengan sumber pertanian atau industri, bukan media pelancongan."
+framework: history-culture
 ---
 
 Minta "kopi" di sebuah kedai kopi lama di Ipoh, dan anda akan menerima secawan

@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016"]
 keywords: ["MFRS 124", "pihak berkaitan", "akaun semasa pengarah", "pinjaman pengarah", "MBRS", "IAS 24", "penyata kewangan"]
+framework: explainer
 ---
 
 マレーシアの家族経営Sdn Bhd（非公開有限会社）の多くでは、資金があまり書類も残さずに出入りする——資金繰りが厳しくなると父親が現金を注入し、子どもの一人が私的な用件のために前渡金を受け取り、関連会社が別の会社の請求書を立て替えて支払う。そのすべてが貸借対照表上の一つの静かな科目——「取締役貸借勘定」——に集約される。そして、監査人が到着したとき、そして財務諸表がSSM向けにタグ付けされるとき、最もつまずきやすいのがまさにこの科目である。

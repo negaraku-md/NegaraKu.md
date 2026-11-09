@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "new-economic-policy" }
 related: ["new-economic-policy"]
 keywords: ["Wawasan 2020", "Vision 2020", "Mahathir Mohamad", "Bangsa Malaysia", "negara maju", "sembilan cabaran", "Wawasan Kemakmuran Bersama 2030"]
+framework: explainer
 ---
 
 1991ஆம் ஆண்டு பெப்ரவரி மாதத்தின் ஒரு காலை நேரத்தில், ஒரு பிரதமர் நாட்டின் முன்னணி வணிகப் பிரமுகர்கள் முன் நின்று அடுத்த 30 ஆண்டுகளுக்கான ஓர் இலக்கை வைத்தார்: 2020ஆம் ஆண்டுக்குள் மலேசியா முழுமையாக வளர்ச்சியடைந்த நாடாக மாற வேண்டும் — வெறும் பொருளாதார அளவில் மட்டுமல்ல, ஒற்றுமை, சமூக நீதி மற்றும் குடிமைச் சார் முதிர்ச்சி ஆகியவற்றிலும் கூட. அந்தத் தொலைநோக்குப் பார்வையே பின்னர் Wawasan 2020 என்று அறியப்பட்டது.

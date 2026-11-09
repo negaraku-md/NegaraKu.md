@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["capital-allowances", "losses-and-group-relief"]
 keywords: ["industrial building allowance malaysia", "IBA schedule 3", "paragraph 63 schedule 3", "qualifying building expenditure", "factory tax allowance malaysia", "IBA rate 10% 3%"]
+framework: explainer
 ---
 
 ஒரு நிறுவனம் RM1.2 மில்லியனுக்கு ஒரு தொழிற்சாலையை வாங்கி, RM1.2 மில்லியன் மீது தொழில்துறைக் கட்டிடக் கொடுப்பனவு (industrial building allowance) கோருகிறது. இரண்டு ஆண்டுகளுக்குப் பிறகு தணிக்கை அந்தக் கோரிக்கையை RM500,000 ஐ சற்றே தாண்டிய தொகைக்குச் சரிசெய்து, அன்று முதல் ஒவ்வொரு ஆண்டுக்குமான உபரியை மீண்டும் சேர்த்து, ஒரு அபராதத்தையும் விதிக்கிறது. கட்டிடத்தைப் பற்றி எதுவும் மாறவில்லை. சட்டம் ஒருபோதும் பயன்படுத்த அனுமதிக்காத ஒரு எண்ணின் மீது நிறுவனம் வெறுமனே கோரிக்கை வைத்தது.

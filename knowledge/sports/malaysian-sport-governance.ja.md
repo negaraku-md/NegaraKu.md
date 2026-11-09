@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "malaysia-olympic-history" }
 related: []
 keywords: ["tadbir urus sukan Malaysia", "Majlis Sukan Negara", "Pesuruhjaya Sukan", "Akta Pembangunan Sukan 1997", "Majlis Olimpik Malaysia", "Kementerian Belia dan Sukan", "Institut Sukan Negara"]
+framework: explainer
 ---
 
 ジョホールの新設サッカークラブは、ユニフォームを購入し、グラウンドを借り、選手を登録することができる——しかし、それでもなお、「マレーシア」を代表して誰かをいかなる大会にも合法的に送り出すことはできない。その理由は金でも才能でもない。誰が許可を与えるか、という問題である。マレーシアでは、スポーツ団体として存在する権利、資金を受ける権利、そして国名を名乗る権利は、しばしば一つと混同される四つの異なる機関から来ている。

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "stamp-duty" }
 related: []
 keywords: ["RPGT", "cukai keuntungan harta tanah", "CKHT", "LHDN", "pelupusan hartanah", "kadar RPGT", "pengecualian RPGT"]
+framework: rules
 ---
 
 집을 이익을 남기고 팔았습니다 — 그러나 돈이 계좌에 들어오기 전에, 정부가 자기 몫을 원합니다. 그것이 RPGT이며, 변호사가 정산 테이블에서 수천 링깃을 원천징수할 때까지 매도인이 흔히 간과하는 세금입니다.

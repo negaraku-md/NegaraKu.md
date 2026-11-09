@@ -83,6 +83,7 @@ relations:
 related: ["batik", "wayang-kulit", "kelantan"]
 entity: "Wau"
 keywords: ["wau", "wau bulan", "الواو", "واو بولان", "الطائرة الورقية التقليدية", "layang-layang tradisional", "حرف كلنتان", "Adiguru Kraf wau"]
+framework: history-culture
 ---
 
 قبل أن ترى الواو، تسمعه. فالواو التقليدي المصنوع على نحوٍ سليم يدندن طوال وجوده في الهواء — وليست دندنته صوت الريح، بل نغمةً مبنيّةً عمداً في صناعته.

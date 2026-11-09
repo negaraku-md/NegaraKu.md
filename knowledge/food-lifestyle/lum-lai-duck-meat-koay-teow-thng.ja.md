@@ -78,6 +78,7 @@ related:
   - "malaysian-noodles"
 social:
   hashtags: ["KoayTeowThng", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 ジョージタウンの数あるアヒル麺の屋台のなかで、ある一軒が行列を引き寄せる磁石と

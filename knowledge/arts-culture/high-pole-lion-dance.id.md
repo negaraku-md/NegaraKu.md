@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "chinese-clan-associations", "chinese-dialects", "population-composition"]
 keywords: ["高桩舞狮", "梅花桩舞狮", "南狮", "醒狮", "采青", "锣鼓钹", "关圣宫", "麻坡", "云顶世界狮王争霸赛", "舞狮", "High Pole Lion Dance", "Kun Seng Keng"]
+framework: history-culture
 ---
 
 Begitu tabuhan gendang mengetat, singa itu melesat ke udara, kaki depannya mendarat kokoh di atas sebatang tiang baja yang hanya setipis bibir mangkuk, dan ekor singa segera menyusul — dua penari melompat dan berpose di antara sederet tiang dengan ketinggian berbeda, dua tiga meter dari tanah, penonton menahan napas, hingga singa yang seolah telah 'hidup' itu berdiri mantap di atas tiang tertinggi, barulah tepuk tangan membahana. Ini bukan tarian singa perayaan di atas tanah, melainkan olahraga yang memiliki penilaian, juara, dan peringkat dunia — tarian singa tiang tinggi.

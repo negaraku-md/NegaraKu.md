@@ -79,6 +79,7 @@ relations:
   - { rel: "compares-with", to: "amanah-saham-bumiputera" }
 related: ["securities-commission-malaysia"]
 keywords: ["unit trust malaysia", "unit trust funds", "net asset value", "sales charge", "management fee", "securities commission", "FIMM", "equity fund", "money market fund", "EPF i-invest"]
+framework: explainer
 ---
 
 உங்கள் பணத்தை முதலீடு செய்ய ஒரு அந்நியரிடம் ஒப்படைத்தால், நீங்கள் மூன்று விஷயங்களை விரும்புவீர்கள்: விதிகள், ஒரு மதிப்பெண் பதிவாளர், மற்றும் பணத்தை வைத்திருக்க வேறொருவர். ஒரு மலேசிய யூனிட் அறக்கட்டளை உங்களுக்கு மூன்றையும் தருகிறது. உங்கள் ரிங்கிட் ஆயிரக்கணக்கான பிற முதலீட்டாளர்களின் பணத்துடன் ஒன்றுதிரட்டப்படுகிறது, உரிமம் பெற்ற ஒரு நிர்வாக நிறுவனம் எதை வாங்குவது என்று முடிவு செய்கிறது, மேலும் ஒரு சுயாதீன அறங்காவலர் சொத்துக்களை வைத்திருப்பதால் நிர்வாகி வெறுமனே அவற்றுடன் கடந்து செல்ல முடியாது. முழு ஏற்பாடும் மலேசிய பங்குகள் ஆணையம் (Securities Commission Malaysia, SC) கீழ் அமைந்துள்ளது.

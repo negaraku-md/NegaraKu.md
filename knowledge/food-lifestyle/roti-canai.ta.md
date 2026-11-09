@@ -99,6 +99,7 @@ social:
     - "Mamak"
     - "MalaysianFood"
     - "NegaraKuMD"
+framework: explainer
 ---
 
 சூடான எஃகுத் தட்டின் மேல் மாவு அறையப்படும், படபடக்கும் ஓசையைப் போல் மலேசியக் காலைக்குச் சொந்தமான

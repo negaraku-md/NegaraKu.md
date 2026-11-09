@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "registering-a-marriage-civil" }
 related: ["getting-married-in-malaysia", "registering-a-marriage-civil"]
 keywords: ["divorce Malaysia", "civil divorce", "Syariah divorce", "talak", "fasakh", "khuluk", "Law Reform Marriage and Divorce Act 1976", "Section 51 conversion to Islam", "Syariah court"]
+framework: explainer
 ---
 
 두 말레이시아 부부가 같은 날 아침에 혼인을 끝내려고 신청합니다. 한 쪽은 민사 고등법원 등기소로 걸어 들어가고, 다른 쪽은 주 이슬람 종교국에 신고합니다. 어느 쪽도 상대의 문을 사용할 수 없습니다. 말레이시아에서 혼인을 끝내는 것은 — 시작하는 것과 마찬가지로 — 두 개의 별도 법 제도를 통해 진행되며, 당사자의 선호가 아니라 종교가 어느 것이 적용되는지를 결정합니다.

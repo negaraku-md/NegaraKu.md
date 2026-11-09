@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["silat", "silat melayu", "seni silat", "silat pulut", "silat gayung", "PESAKA", "warisan budaya tidak ketara", "UNESCO Malaysia", "seni bela diri", "silat harimau"]
+framework: history-culture
 ---
 
 ผู้เล่นซีลัตที่ดีสามารถหักกระดูกของคู่ต่อสู้ได้ — หรือรำอยู่หน้าคู่บ่าวสาวโดยไม่แตะต้องใครเลย ทั้งสองคือซีลัต นั่นคือสิ่งที่เข้าใจยากที่สุดเกี่ยวกับศิลปะนี้ กล่าวคือ มันไม่ใช่เพียงวิธีการต่อสู้ และไม่ใช่เพียงการรำในงานพิธี มันเป็นทั้งสองอย่าง ในร่างกายเดียวกัน ขับเคลื่อนด้วยลีลาก้าวเท้าเดียวกัน

@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "pidm-deposit-insurance" }
 related: ["bank-negara-malaysia", "pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["bank digital", "digital bank Malaysia", "GXBank", "Boost Bank", "AEON Bank", "Ryt Bank", "KAF Digital Bank", "PIDM", "BNM"]
+framework: explainer
 ---
 
 오늘날 말레이시아에서는 지점에 한 번도 발을 들이지 않고, 직원을 만나지 않고, 어떤 종이 양식도 없이 은행 계좌를 열 수 있습니다 — 모두 스마트폰으로 몇 분 안에 끝납니다. 그것이 디지털 은행의 약속입니다. 말레이시아 중앙은행(BNM)이 면허를 부여했고 이제 수백만 명의 말레이시아인을 서비스하는 새로운 은행 범주입니다.

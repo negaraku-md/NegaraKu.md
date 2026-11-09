@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["tamil-in-malaysia", "deepavali", "thaipusam"]
 keywords: ["Bharatanatyam", "البهاراتاناتيام", "الرقص الهندي الكلاسيكي في ماليزيا", "Temple of Fine Arts", "Sutra Dance Theatre", "Ramli Ibrahim", "الرقص الهندي الماليزي", "nritta nritya", "الموسيقى الكارناتيكية", "Malaysia Barathanatyam Dance Association"]
+framework: history-culture
 ---
 
 تضرب قدما الراقصة الأرض في نمط سريع دقيق. ترنّ الأجراس على وقع طبل الـ mridangam. تشكّل يداها هيئةً — غزالاً أو زهرة لوتس أو سؤالاً — وتتبعها عيناها قبل أن يجيب وجهها بعاطفةٍ يُفترَض بالجمهور أن يشعر بها لا أن يراها فحسب. ثم يتحلّل الإيقاع، فتثبت على وضعية أشبه بالتمثال، وتهبط الموسيقى إلى صمت.

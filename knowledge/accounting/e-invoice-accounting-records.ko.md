@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-vs-tax-invoice" }
 related: ["e-invoicing", "e-invoice-vs-tax-invoice", "consolidated-e-invoice", "myinvois-phases", "accounting-records-section-245"]
 keywords: ["e-invoice record keeping Malaysia", "MyInvois retention period", "section 245 e-invoice", "section 82 Income Tax Act records", "e-invoice statutory records Malaysia"]
+framework: explainer
 ---
 
 지금 말레이시아 재무 부서에서 가장 흔한 오해는 MyInvois가 서류함을 대체했다는 것입니다.

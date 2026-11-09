@@ -103,6 +103,7 @@ relations:
   - { rel: "administered-by", to: "lembaga-pembangunan-langkawi" }
 related: ["kedah"]
 keywords: ["Langkawi", "duty-free island", "UNESCO Global Geopark", "SkyCab", "SkyBridge", "island hopping", "Kilim", "Dayang Bunting", "Andaman Sea", "Kedah"]
+framework: profile
 ---
 
 99の島々、魚類よりも古い岩石、安いウイスキー、そして推定5.5億年超の岩石でできた山の斜面から吊り下げられたケーブルカー——ランカウイは、マレーシア北西端の沖にあるこの一つの群島に、並外れて多くのものを詰め込んでいます。それはこの国の旗艦とも言える西海岸の休暇の島であり、半島の反対側にあるヤシに縁取られたダイビングの島々とはほとんど逆の論理で成り立っています。本ガイドは、出かける前に本当に大切なことを扱います：人がつまずく免税ルール、風景に背景の物語を与えるユネスコ・ジオパーク、スカイキャブとスカイブリッジ、行く価値のあるボートツアー、そしてランカウイと東海岸のどちらを選ぶか、です。

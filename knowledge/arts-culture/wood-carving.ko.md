@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "pewter" }
 related: ["songket", "jawi-script", "pewter", "terengganu", "kelantan"]
 keywords: ["ukiran kayu", "ukiran kayu Melayu", "awan larat", "Desa Ukiran Kayu Besut", "motif ukiran kayu", "kraf kayu Terengganu"]
+framework: history-culture
 ---
 
 옛 말레이 가옥 창문의 나무 판을 자세히 들여다보고, 그 문양이 어디에서 시작하는지 찾아보십시오. 찾지 못할 것입니다. 당신의 눈 탓이 아니라 — 원래 그렇게 만들어진 것입니다.

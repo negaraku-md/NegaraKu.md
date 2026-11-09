@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["hinduism-in-malaysia", "thaipusam", "deepavali", "estate-tamil-community", "pongal", "tamil-in-malaysia"]
 keywords: ["மாரியம்மன் வழிபாடு", "மாரியம்மன்", "அம்மன் வழிபாடு", "Mariamman worship", "Mariamman Malaysia", "ஸ்ரீ மகாமாரியம்மன் கோயில்", "தீமிதி"]
+framework: history-culture
 ---
 
 Near almost any old rubber estate in Malaysia, and along the time-worn streets of the town centres, you can find a Mariamman temple. The Amman statue with its ochre-yellow face, and the festivals held before the rainy season, are not accidental — they carry more than a century and a half of a Tamil community's history and tradition of faith.

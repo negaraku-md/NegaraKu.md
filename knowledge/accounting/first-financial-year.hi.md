@@ -81,6 +81,7 @@ relations:
   - { rel: "part-of", to: "financial-year-end" }
 related: ["financial-year-end", "financial-reporting-deadlines", "audit-exemption-thresholds", "audit-exemption", "sdn-bhd-first-year-compliance", "basis-period-and-accounting-date", "sdn-bhd-bookkeeping"]
 keywords: ["पहला वित्तीय वर्ष Sdn Bhd", "18 महीने पहले वित्तीय विवरण मलेशिया", "धारा 248 कंपनी अधिनियम 2016", "नई कंपनी वित्तीय वर्ष-समाप्ति मलेशिया", "पहली लेखा परीक्षा Sdn Bhd", "लेखा परीक्षा छूट पहला वर्ष", "section 248 Companies Act 2016"]
+framework: explainer
 ---
 
 हर नई Sdn Bhd को बताया जाता है कि उसके पहले लेखे देय होने से पहले उसके पास अठारह

@@ -93,6 +93,7 @@ verificationNeeded:
   - "Etimologi nama itu (薄餅 / 'poh piah'), yang diartikan sebagai 'kue tipis', 'wafer tipis', atau 'roti pipih tipis' — verifikasi dengan sumber leksikografis atau linguistik."
   - "Apakah popiah Nyonya (Peranakan) paling tepat digambarkan sebagai tradisi kedaerahan yang khas atau sebagai hidangan Hokkien yang sama yang diadopsi oleh keluarga Tionghoa Selat — sumber saat ini menyebutnya 'warisan Peranakan' tanpa memutuskan hal ini."
   - "Perbedaan gaya Penang versus Melaka yang digambarkan di sini (gulungan Penang yang lebih basah dilembapkan dengan air sengkuang; gulungan Melaka yang diselesaikan dengan saus manis bernuansa gula aren) sebagian besar bersandar pada pers lokal dan blog kuliner — verifikasi dengan sumber kuliner warisan atau kedaerahan."
+framework: explainer
 ---
 
 Minta sebuah spring roll di Malaysia dan Anda mungkin mendapat salah satu dari dua hal yang

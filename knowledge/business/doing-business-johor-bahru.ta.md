@@ -120,6 +120,7 @@ keywords:
   - "Johor Bahru premise licence fee"
   - "JS-SEZ Johor Bahru"
   - "foreign property purchase Johor"
+framework: profile
 ---
 
 Johor Bahru என்பது மலேசியாவில் அதன் ஊதிய அடித்தளம், பணியாளர் திட்டம் மற்றும் வழங்கல்

@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: ["trademark-registration-malaysia"]
 keywords: ["intellectual property Malaysia", "trademark registration Malaysia", "patent Malaysia", "copyright Malaysia", "MyIPO", "Trademarks Act 2019", "Patents Act 1983", "Copyright Act 1987"]
+framework: explainer
 ---
 
 Un logo, une formule, un fragment de code, le nom d'une marque : dès que l'un d'eux commence à générer de l'argent, une autre personne a une raison de le copier. Le droit malaisien vous offre un moyen de dire «cela m'appartient, et voici le papier qui le prouve». Le problème est que les trois principaux types de propriété intellectuelle fonctionnent de trois manières complètement différentes, et se tromper sur l'un d'eux peut coûter à une entreprise son actif le plus précieux.

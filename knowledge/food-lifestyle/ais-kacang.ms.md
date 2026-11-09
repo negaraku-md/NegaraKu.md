@@ -96,6 +96,7 @@ social:
     - "#MalaysianDessert"
     - "#ShavedIce"
     - "#PasarMalam"
+framework: explainer
 ---
 
 Pada petang panas di Malaysia, sedikit sahaja perkara yang dapat menarik orang

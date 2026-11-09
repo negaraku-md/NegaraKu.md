@@ -140,6 +140,7 @@ relations:
   - { rel: "related-to", to: "annual-return" }
 related: ["who-is-a-beneficial-owner", "ebos-filing", "bo-register", "bo-non-cooperation", "ebos", "annual-return", "statutory-registers"]
 keywords: ["beneficial ownership Malaysia", "Division 8A Companies Act 2016", "e-BOS SSM", "register of beneficial owners", "pemilik benefisial SSM", "beneficial ownership deadline Malaysia"]
+framework: rules
 ---
 
 บริษัทมาเลเซียส่วนใหญ่เชื่อว่าตนจัดการเรื่องเจ้าของผู้รับผลประโยชน์เสร็จสิ้นแล้วในปี 2024 พวกเขาเข้าสู่ระบบ e-BOS ในช่วงเปลี่ยนผ่าน ระบุชื่อผู้ถือหุ้น ได้รับหลักฐานการรับ แล้วปิดแฟ้ม

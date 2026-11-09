@@ -76,6 +76,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["ApamBalik", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 槟城的 MICHELIN 认可大多聚集在乔治市，但本州最专一的 Bib Gourmand 持有者之一却坐落于

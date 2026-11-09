@@ -108,6 +108,7 @@ relations:
   - { rel: "related-to", to: "payroll-rates-deadlines-malaysia" }
 related: ["payroll-rates-deadlines-malaysia", "payroll-compliance-malaysia", "epf-employer-guide"]
 keywords: ["معدّل رسم HRD Corp", "HRD Corp levy rate", "عتبة تسجيل HRDF", "رسم 1% في ماليزيا", "الجدول الأول لـ PSMB Act", "دورات HRD Corp القابلة للمطالبة", "إسقاط الرسم", "levy forfeiture"]
+framework: rules
 ---
 
 سؤالان يحدّدان موقفك إزاء HRD Corp، وتكاد كل الأدلّة على الإنترنت لا تجيب إلا عن

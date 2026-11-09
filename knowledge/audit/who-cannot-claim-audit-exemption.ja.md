@@ -53,6 +53,7 @@ relations:
   - { rel: "part-of", to: "audit-exemption" }
 related: ["audit-exemption", "audit-exemption-thresholds", "after-audit-exemption"]
 keywords: ["who cannot claim audit exemption", "audit exemption exclusions Malaysia", "exempt private company section 260", "subsidiary of public company audit", "foreign company audit Malaysia"]
+framework: rules
 ---
 
 基準値をクリアすることは最後の関門ではない。Practice Directive 10/2024のparagraph 12は、

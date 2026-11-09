@@ -89,6 +89,7 @@ verificationNeeded:
   - "Apakah chilli pan mee kering 'diciptakan' secara khusus di Restoran Kin Kin atau, lebih luas, di kawasan Chow Kit Kuala Lumpur — Wikipedia menempatkan asalnya di Chow Kit, sementara atribusi Kin Kin beredar luas di media kuliner dan blog resep tetapi tidak terdokumentasi dengan kokoh."
   - "Topping standar, khususnya apakah jamur kuping (bukan jamur shiitake kering atau jamur lain) bersifat tradisional — resep dan kedai tepercaya berbeda-beda; pastikan dengan sumber kuliner Malaysia."
   - "Hubungan dan penamaan antara pan mee dan mee hoon kueh, serta klaim bahwa kawasan berbahasa Hokkien (termasuk Singapura) lebih menyukai nama mee hoon kueh — sumber menggambarkannya sebagai erat kaitannya atau hidangan yang sama dengan label dialek berbeda; pastikan dengan sumber regional."
+framework: explainer
 ---
 
 Masuklah ke sebuah kedai kopi di Kuala Lumpur, Seremban, atau Ipoh dan Anda akan

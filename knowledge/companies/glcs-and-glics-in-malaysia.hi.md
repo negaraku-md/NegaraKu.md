@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["ekonomi-madani-framework", "khazanah", "bursa-malaysia"]
 keywords: ["GLC", "GLIC", "Khazanah", "KWSP", "PNB", "KWAP", "LTAT", "Tabung Haji", "GEAR-uP", "PERKUKUH", "GLC परिवर्तन कार्यक्रम", "Bursa Malaysia"]
+framework: explainer
 ---
 
 किसी भी Bursa Malaysia इंडेक्स फंड का पोर्टफोलियो खोलें, और संघीय सरकार का हाथ लगभग निश्चित रूप से उसके अंदर है। देश के सबसे बड़े बैंक, उपयोगिताएँ, दूरसंचार फर्में, एयरलाइनें और बागान समूह — सभी का एक ही अंतिम मालिक है: मलेशिया के लोग, मुट्ठी भर राज्य निवेश संस्थाओं के माध्यम से। यही संरचना है जो मलेशिया को दक्षिण-पूर्व एशिया की सबसे अधिक राज्य-प्रभावित अर्थव्यवस्थाओं में से एक बनाती है, और इसे दो अक्सर भ्रमित किए जाने वाले संक्षिप्त नामों में समेटा गया है: GLC और GLIC।

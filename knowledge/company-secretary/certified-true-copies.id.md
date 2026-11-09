@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "statutory-registers" }
 related: ["statutory-registers", "appoint-company-secretary", "register-of-members"]
 keywords: ["salinan diakui sah Malaysia", "asal disaksikan setiausaha syarikat", "CTC setiausaha syarikat Malaysia", "amalan terbaik MAICSA pengesahan dokumen", "salinan diakui sah", "seksyen 599 Akta Syarikat 2016"]
+framework: explainer
 ---
 
 Sebuah bank meminta salinan yang disahkan benar bagi konstitusi perusahaan. Seseorang di

@@ -117,6 +117,7 @@ keywords:
   - "section 75 Companies Act 2016"
   - "share capital Malaysia"
   - "paid-up capital Sdn Bhd"
+framework: explainer
 ---
 
 Un capital desembolsado de RM1 es legal, común, y silenciosamente una de las decisiones

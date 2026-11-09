@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["النفايات ماليزيا", "إعادة التدوير ماليزيا", "فصل النفايات من المنبع", "المجلس المحلي النفايات", "sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
+framework: explainer
 ---
 
 تُجمع حاوية نفاياتك مرتين أسبوعيًا، لكن هل سألت يومًا من الذي يجمعها فعلاً — المجلس المحلي، أم شركة أخرى عيّنها المجلس؟ ولماذا قد يُغرَّم جارك في الولاية المجاورة لعدم فصله زجاجات البلاستيك عن بقايا الطعام، بينما لا تُغرَّم أنت؟

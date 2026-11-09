@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "financial-year-end" }
 related: ["audit-exemption-thresholds", "who-cannot-claim-audit-exemption", "dormant-company-audit-exemption", "after-audit-exemption"]
 keywords: ["الإعفاء من التدقيق ماليزيا", "audit exemption Malaysia", "pengecualian audit syarikat", "التوجيه العملي 10/2024", "Practice Directive 10/2024", "معايير الإعفاء من التدقيق SSM", "تدقيق الشركات الصغيرة ماليزيا"]
+framework: rules
 ---
 
 ليست كل شركة Sdn Bhd بحاجة إلى تدقيق سنوي. والاختبار أكثر سخاءً مما يفترضه معظم

@@ -79,6 +79,7 @@ relations:
   - { rel: "compares-with", to: "amanah-saham-bumiputera" }
 related: ["securities-commission-malaysia"]
 keywords: ["صناديق الوحدات الاستثمارية ماليزيا", "unit trust malaysia", "unit trust funds", "صافي قيمة الأصول", "net asset value", "رسم البيع", "sales charge", "رسم الإدارة", "management fee", "هيئة الأوراق المالية", "securities commission", "FIMM", "صندوق الأسهم", "equity fund", "صندوق سوق النقد", "money market fund", "EPF i-invest"]
+framework: explainer
 ---
 
 سلّم أموالك إلى شخص غريب ليستثمرها، وستريد ثلاثة أشياء: قواعد، ومُمسِكاً بالحساب، وطرفاً آخر يحتفظ بالنقود. وصندوق الوحدات الاستثمارية الماليزي يمنحك الثلاثة جميعاً. فرينغيتك مُجمَّع مع آلاف المستثمرين الآخرين، وشركة إدارة مرخَّصة تقرّر ماذا تشتري، وأمين عهدة (trustee) مستقلّ يحتفظ بالأصول حتى لا يستطيع المدير ببساطة أن يفرّ بها. وتقع المنظومة بأسرها تحت هيئة الأوراق المالية الماليزية (SC).

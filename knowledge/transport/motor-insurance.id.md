@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "road-tax-renewal" }
 related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengangkutan Jalan 1987", "insurans komprehensif", "cukai jalan", "Seksyen 90", "PIAM", "insurans motosikal"]
+framework: explainer
 ---
 
 Anda boleh mengemudikan mobil yang tidak pernah dicuci, berban aus dan AC-nya rusak — dan itu semua sah di sisi undang-undang. Tetapi mengemudi tanpa satu lembar dokumen, yaitu polis asuransi pihak ketiga, adalah tindak pidana.

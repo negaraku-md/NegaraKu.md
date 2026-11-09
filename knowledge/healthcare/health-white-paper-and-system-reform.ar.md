@@ -74,6 +74,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
 related: []
 keywords: ["kertas putih kesihatan", "الورقة البيضاء للصحة", "reformasi kesihatan", "إصلاح النظام الصحي", "تمويل الصحة", "KKM", "insurans kesihatan nasional", "التأمين الصحي الوطني", "Rakan KKM"]
+framework: explainer
 ---
 
 تتولّى العيادات الحكومية قرابة ثُلثَي زيارات المرضى الخارجيين في البلاد — ومع ذلك لا تمثّل سوى نحو واحدة من كل أربع منشآت للرعاية الأولية. هذا الاختلال، من بين أمور أخرى، هو ما دفع وزارة الصحة الماليزية (MOH) إلى كتابة أهمّ وثيقة سياسات منذ جيل: الورقة البيضاء للصحة.

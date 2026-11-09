@@ -81,6 +81,7 @@ relations:
   - { rel: "explained-in", to: "bo-register" }
 related: ["beneficial-ownership", "bo-register", "ebos-filing", "bo-non-cooperation"]
 keywords: ["siapa pemilik benefisial Malaysia", "kriteria pemilik benefisial SSM", "pegangan saham 20% pemilik benefisial", "kawalan berkesan muktamad Malaysia", "pemegang saham penama pemilik benefisial"]
+framework: explainer
 ---
 
 Bagian yang sulit dalam pelaporan kepemilikan manfaat bukanlah proses

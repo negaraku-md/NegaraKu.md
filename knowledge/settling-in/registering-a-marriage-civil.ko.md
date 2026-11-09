@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "mykad" }
 related: ["jpn", "mykad"]
 keywords: ["civil marriage Malaysia", "JPN marriage registration", "Act 164", "Law Reform Marriage and Divorce Act 1976", "non-Muslim marriage Malaysia", "JPN.KC02", "marriage notice 21 days", "special marriage licence Malaysia"]
+framework: how-to
 ---
 
 두 사람이 결혼 피로연을 열고, 반지를 교환하고, 방명록에 서명해도 — 여전히 말레이시아에서 법적으로 혼인한 것이 아닐 수 있습니다. 비무슬림에게 법적으로 인정되는 혼인은 특정 법령에 따라 국가등록청(Jabatan Pendaftaran Negara, JPN)에 등록된 것이며, 그 시계는 공고를 제출하는 날 시작됩니다.

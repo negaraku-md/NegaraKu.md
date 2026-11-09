@@ -67,6 +67,7 @@ sources:
 
 related: ["sheraton-move-2020", "prime-ministers-of-malaysia", "2022-general-election", "ismail-sabri-yaakob", "mahathir-mohamad"]
 keywords: ["Muhyiddin Yassin", "Mahiaddin Md Yassin", "eighth prime minister Malaysia", "Perikatan Nasional", "BERSATU"]
+framework: profile
 ---
 
 > **초안 — 민감.** 이 글은 중립적이며 작성 중인 요약으로, 발행을 위한 검토를 거치지 않았습니다. 법적 절차와 3R+1 주제를 언급하며 공개되지 않았습니다.

@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["bank-negara-malaysia", "payment-regulation-malaysia", "opening-bank-account"]
 keywords: ["إرسال الأموال إلى الوطن من ماليزيا", "تحويل الأموال في ماليزيا", "شركة خدمات أموال مرخّصة", "send money home Malaysia", "remittance Malaysia", "licensed money services business Malaysia", "Bank Negara Malaysia remittance", "Money Services Business Act 2011", "MSB licence Malaysia", "foreign worker remittance Malaysia", "BNMTELELINK"]
+framework: explainer
 ---
 
 تمشِّ على امتداد صف من المحال التجارية (shoplots) في أي بلدة ماليزية تقريباً تضم قوة عاملة مهاجرة كبيرة، وسترى عدة منافذ تعرض «hantar wang» — إرسال الأموال — إلى البلدان نفسها، وبأسعار تبدو متشابهة. أحدها يعلّق ترخيص بنك نيغارا ماليزيا على الجدار. والآخر ليس سوى طاولة ووعد. ومن جانب العميل، قد يبدوان متطابقين. والفرق بينهما هو الشيء الوحيد الذي يهمّ فعلاً إذا ساء التحويل.

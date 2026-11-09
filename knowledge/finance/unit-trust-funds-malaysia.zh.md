@@ -79,6 +79,7 @@ relations:
   - { rel: "compares-with", to: "amanah-saham-bumiputera" }
 related: ["securities-commission-malaysia"]
 keywords: ["unit trust malaysia", "unit trust funds", "net asset value", "sales charge", "management fee", "securities commission", "FIMM", "equity fund", "money market fund", "EPF i-invest"]
+framework: explainer
 ---
 
 把钱交给陌生人去投资，你会想要三样东西：规则、一个记分员，以及一个替你保管现金的人。马来西亚的单位信托三者兼备。你的令吉与成千上万名其他投资者的资金汇集在一起，一家持牌管理公司决定买什么，一名独立受托人持有资产，让管理者无法直接卷款走人。整个安排由马来西亚证券委员会（Securities Commission Malaysia，SC）监管。

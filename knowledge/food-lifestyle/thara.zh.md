@@ -77,6 +77,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["Thara", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 在乔治市，泰国餐厅并不是人们最先想到的——这座城市向来与自己的小贩美食经典画上等

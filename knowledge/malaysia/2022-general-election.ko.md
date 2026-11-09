@@ -65,6 +65,7 @@ sources:
 
 related: ["anwar-ibrahim", "ismail-sabri-yaakob", "muhyiddin-yassin", "prime-ministers-of-malaysia", "how-elections-work"]
 keywords: ["GE15", "2022 general election Malaysia", "hung parliament", "unity government", "Undi18"]
+framework: history-culture
 ---
 
 > **초안 — 민감.** 이 글은 중립적이고 작성 중인 요약이며 발행을 위한 검토를

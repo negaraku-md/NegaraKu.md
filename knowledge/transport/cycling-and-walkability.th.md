@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "e-hailing-grab" }
 related: []
 keywords: ["walkability Malaysia", "cycling Malaysia cities", "pedestrian infrastructure Malaysia", "KL Pedestrian and Cycling Masterplan", "car dependency Malaysia", "active mobility Malaysia"]
+framework: explainer
 ---
 
 ก้าวออกจากสถานี LRT ในหุบเขากลังตอนบ่ายโมงและลองเดินระยะ 500 เมตรสุดท้ายไปยังที่ทำงานของคุณ มีความเป็นไปได้สูงที่ทางเท้าจะสิ้นสุดลงเฉย ๆ กลางช่วงถนน ตรงคูระบายน้ำ และยังมีความเป็นไปได้สูงที่แสงแดดจะทำให้คำถามนี้ไร้ความหมายก่อนที่คุณจะเดินไปได้ร้อยเมตรของระยะทางนั้นด้วยซ้ำ

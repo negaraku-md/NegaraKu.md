@@ -142,6 +142,7 @@ relations:
   - { rel: "requires", to: "sst-registration" }
 related: ["sst-explained", "sst-registration", "sst-rate-table", "sst-b2b-exemption", "sst-02-filing"]
 keywords: ["SST expansion 2025", "service tax expansion Malaysia", "Group K rental leasing service tax", "construction service tax 6%", "non-reviewable contract exemption", "private healthcare service tax"]
+framework: rules
 ---
 
 2025年拡大について流布している最も多い誤りは、建設工事がK組に属するというものである。それは誤りである。K組は賃貸借（rental or leasing）、L組は建設工事、M組は教育であり——誤ったグループで申告すれば、同じ申告書の中で誤った税率と誤った基準額を適用することになる。

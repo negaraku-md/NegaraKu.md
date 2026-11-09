@@ -93,6 +93,7 @@ verificationNeeded:
   - "L'étymologie de « roti canai » est contestée (une version la fait remonter à Chennai/Madras, une autre au mot malais « canai » signifiant aplatir ou rouler la pâte) ; à confirmer par une source linguistique ou lexicographique plutôt que par les médias culinaires."
   - "Le récit populaire selon lequel le teh tarik aurait émergé de la culture des échoppes indo-musulmanes dans l'après-guerre n'est pas solidement documenté ; confirmer l'origine et la chronologie de la boisson par une source historique."
   - "L'attribution de la tradition du kopitiam à des cuisiniers chinois d'origine hainanaise et l'affirmation selon laquelle le kaya toast avec œufs à la coque en est le petit-déjeuner caractéristique devraient être confirmées par une source culinaire ou patrimoniale malaisienne, car une partie de cette histoire est partagée et disputée avec Singapour."
+framework: history-culture
 ---
 
 Demandez ce que les Malaisiens mangent au petit-déjeuner et la réponse honnête

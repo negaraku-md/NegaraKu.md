@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "audit-exemption" }
 related: ["mbrs-2-filing-guide", "mbrs-tagging-errors", "unaudited-financial-statements", "financial-statements-lodgement", "audit-exemption", "mfrs-vs-mpers"]
 keywords: ["वित्तीय विवरण मलेशिया", "निदेशकों का कथन", "वित्तीय विवरणों की वैधानिक घोषणा", "निदेशकों की रिपोर्ट धारा 252", "लेखा परीक्षकों की रिपोर्ट धारा 266", "वैधानिक लेखे Sdn Bhd", "निदेशकों की रिपोर्ट पाँचवीं अनुसूची", "financial statements Malaysia", "statement by directors", "statutory declaration"]
+framework: explainer
 ---
 
 किसी मलेशियाई निदेशक से पूछें कि हर साल SSM को क्या जाता है और उत्तर आमतौर पर होता

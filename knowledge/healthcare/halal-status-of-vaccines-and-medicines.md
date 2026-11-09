@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-jakim" }
 related: []
 keywords: ["vaksin halal", "hukum vaksin", "gelatin dalam ubat", "fatwa vaksin COVID-19", "darurat", "maqasid syariah", "JAKIM", "Muzakarah Fatwa Kebangsaan"]
+framework: explainer
 ---
 
 Sebotol vaksin boleh mengandungi sedikit gelatin sebagai penstabil — dan daripada butiran kecil itulah timbul salah satu persoalan agama yang paling kerap ditanya keluarga Muslim di Malaysia: adakah ia halal? Jawapannya bukan sekadar "ya" atau "tidak", tetapi hasil satu proses penilaian berstruktur yang melibatkan badan fatwa, kajian saintifik, dan beberapa prinsip fiqh yang khusus.

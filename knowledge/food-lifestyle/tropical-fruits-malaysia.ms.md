@@ -97,6 +97,7 @@ verificationNeeded:
   - "Bulan tepat musim durian dan buah secara umum berbeza mengikut wilayah dan tahun bersama hujan serta pembungaan — sahkan masa bagi tahun semasa dengan Jabatan Pertanian Malaysia (DOA) atau MARDI dan bukannya menetapkan tarikh tertentu."
   - "Sama ada langsat, duku dan dokong ialah gred/kultivar bagi satu spesies (Lansium parasiticum) berbanding varieti berasingan, dan perbezaan tepat antaranya — sahkan dengan sumber hortikultur seperti MARDI."
   - "Kepercayaan rakyat bahawa durian 'panas' atau berbahaya apabila dimakan bersama alkohol adalah tradisi dan tidak dibuktikan dengan kukuh oleh bukti — tandakan sebagai kepercayaan, bukan fakta."
+framework: explainer
 ---
 
 Menyusuri mana-mana *pasar* di Malaysia pada pertengahan tahun, gerai buah

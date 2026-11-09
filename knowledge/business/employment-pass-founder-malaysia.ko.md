@@ -120,6 +120,7 @@ keywords:
   - "expatriate pass Malaysia director"
   - "employment pass category I II III"
   - "pas penggajian Malaysia"
+framework: how-to
 ---
 
 작업 순서야말로 그 어떤 단일 규정보다 더 많은 외국인 창업자를 좌절시킵니다.

@@ -65,6 +65,7 @@ sources:
 
 related: ["muhyiddin-yassin", "mahathir-mohamad", "anwar-ibrahim", "2018-change-of-government", "2022-general-election"]
 keywords: ["حركة شيراتون", "لانغكاه شيراتون", "الأزمة السياسية الماليزية 2020", "بريكاتان ناسيونال", "تغيير الحكومة 2020", "Sheraton Move", "Langkah Sheraton", "Perikatan Nasional"]
+framework: history-culture
 ---
 
 > **مسودّة — حسّاسة.** هذه المقالة ملخّص محايد لا يزال قيد الإعداد ولم تُراجَع

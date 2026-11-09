@@ -60,6 +60,7 @@ relations:
   - { rel: "explained-in", to: "register-sdn-bhd" }
 related: ["business-structures-malaysia", "sole-prop-vs-sdn-bhd", "sdn-bhd-vs-berhad", "register-sdn-bhd", "share-capital-malaysia", "company-constitution-malaysia"]
 keywords: ["what is sdn bhd", "sdn bhd meaning", "sendirian berhad", "private limited company Malaysia", "apa itu sdn bhd"]
+framework: explainer
 ---
 
 "Sdn Bhd"는 **Sendirian Berhad**의 줄임말로, 말레이어로 "비공개의, 유한한"이라는

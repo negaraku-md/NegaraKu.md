@@ -55,6 +55,7 @@ relations:
   - { rel: "part-of", to: "audit-exemption" }
 related: ["audit-exemption", "audit-exemption-thresholds", "after-audit-exemption"]
 keywords: ["dormant company audit exemption Malaysia", "dormant company SSM", "what breaks dormancy", "dormant since incorporation", "syarikat dorman audit"]
+framework: rules
 ---
 
 ஒரு பெயரை மட்டும் வைத்திருந்து வேறு எதுவும் இல்லாத ஒரு ‘அடுக்கு நிறுவனம்’ (shelf

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "mykad-guide" }
 related: ["immigration-act-1959-63"]
 keywords: ["masuk sabah", "masuk sarawak", "imigresen sabah sarawak", "dokumen perjalanan terhad", "pas lawatan sosial", "MA63 imigresen"]
+framework: rules
 ---
 
 Terbang dari Kuala Lumpur ke Kuching, dan begitu Anda mendarat, ada loket imigrasi menunggu — di dalam negeri sendiri. Bagi banyak warga Semenanjung, inilah kali pertama mereka menunjukkan kartu identitas kepada petugas imigrasi tanpa pernah melintasi perbatasan internasional. Ini bukan kesalahan administratif. Sabah dan Sarawak mengendalikan imigrasi mereka sendiri, dan aturan itu berlaku untuk semua orang, termasuk warga negara Malaysia.

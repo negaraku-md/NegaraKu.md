@@ -81,6 +81,7 @@ relations:
   - { rel: "affects", to: "mpers-2025-revision" }
 related: ["mfrs-vs-mpers"]
 keywords: ["passer des MPERS aux MFRS", "MFRS 1 première adoption Malaisie", "définition entité privée MASB", "changer de référentiel comptable en Malaisie", "revenir aux MPERS"]
+framework: explainer
 ---
 
 Le blog de tout cabinet malaisien explique la *différence* entre les MPERS et les

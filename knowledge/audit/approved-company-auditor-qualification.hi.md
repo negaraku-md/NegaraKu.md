@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "statutory-audit-requirement" }
 related: ["companies-act-2016", "malaysian-institute-of-accountants"]
 keywords: ["juruaudit syarikat diluluskan", "approved company auditor", "seksyen 263", "lesen audit Malaysia", "sijil amalan MIA", "Akauntan Negara"]
+framework: rules
 ---
 
 आप पूरे खिताब के साथ चार्टर्ड अकाउंटेंट हो सकते हैं, लेखांकन की डिग्री और वर्षों का अनुभव रख सकते हैं — और फिर भी अकेले किसी कंपनी की ऑडिट रिपोर्ट पर हस्ताक्षर करने की अनुमति न हो। मलेशिया में, किसी कंपनी का ऑडिट करने का अधिकार एक अलग और कसकर नियंत्रित लाइसेंस है, न कि कुछ ऐसा जो व्यावसायिक सदस्यता के साथ स्वतः आ जाता है।

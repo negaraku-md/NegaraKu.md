@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "madani-economy" }
 related: ["ekonomi-madani-framework"]
 keywords: ["NIMP 2030", "New Industrial Master Plan", "MITI", "Malaysia industrial policy", "mission-based approach", "manufacturing", "economic complexity", "Net Zero", "MADANI economy"]
+framework: explainer
 ---
 
 Trong phần lớn nửa thế kỷ, Malaysia lập kế hoạch cho các nhà máy của mình theo cách bạn sắp xếp một kệ hàng — mỗi lần một ngành, mỗi ngành với mục tiêu riêng. NIMP 2030 vứt bỏ chiếc kệ. Thay vì hỏi "điện tử hay hóa chất nên lớn đến mức nào?", nó đặt một câu hỏi khó hơn: toàn bộ nền kinh tế cần gì để trở nên tinh vi hơn, xanh hơn, số hơn và an toàn hơn — và rồi nó hướng mọi ngành công nghiệp vào câu trả lời đó cùng nhau.

@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["dewan-bahasa-dan-pustaka", "bahasa-melayu"]
 keywords: ["sastera Malaysia", "Sasterawan Negara", "Anugerah Sastera Negara", "sastera kebangsaan", "Dewan Bahasa dan Pustaka", "Sejarah Melayu", "hikayat", "syair"]
+framework: history-culture
 ---
 
 小説が世に出るよりも早く、そして語文局が設立されるよりも早く、ひとりの語り部（penglipur lara）は、すでにマラッカの宮廷の庭でマレーの英雄を語っていた。その口承の伝統からこそ、この地域で最も豊かな文学遺産の一つが育まれた——今日では国家の称号、数十万リンギットの賞金、そして民族の文明における名誉の席によって讃えられている伝統である。

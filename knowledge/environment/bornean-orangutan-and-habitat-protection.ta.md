@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "kinabatangan-floodplain" }
 related: ["sabah"]
 keywords: ["Bornean orangutan", "Sabah", "Wildlife Conservation Enactment 1997", "Sepilok", "Kinabatangan", "habitat protection", "totally protected species", "wildlife corridor"]
+framework: explainer
 ---
 
 ஒரு காட்டு ஒராங்குட்டானுக்கு நிறைய காடு தேவை — அதுவும் ஒன்றோடொன்று இணைந்த காடு. கிழக்கு சபாவின் தாழ்நிலங்களில், அதுவே எல்லாவற்றிலும் அரிதான ஒன்றாகிவிட்டது: ஒருகாலத்தில் ஒரு குரங்கை நிலத்தைத் தொடாமல் கிலோமீட்டர்கள் தூரம் பயணிக்க அனுமதித்த மரங்கள், இப்போது ஓர் எண்ணெய்ப் பனைத் தோட்டத்தின் விளிம்பில் நின்றுவிடுகின்றன. இந்த நிலப்பரப்பில் போர்னியோ ஒராங்குட்டான் தப்பிப்பிழைக்குமா என்பது, பெருமளவில், சட்டம், நிலம் மற்றும் வழித்தடங்களைப் பொறுத்த ஒரு கேள்வியாகும்.

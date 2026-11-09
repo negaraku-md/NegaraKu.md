@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["tamil-in-malaysia", "chinese-dialects", "population-composition", "deepavali"]
 keywords: ["सिख मलेशिया", "Sikh Malaysia", "पंजाबी मलेशिया", "Punjabi Malaysia", "गुरुद्वारा", "gurdwara", "वैसाखी", "Vaisakhi", "खालसा", "Khalsa", "लंगर", "langar", "Tatt Khalsa Diwan", "पंजाबी भाषा"]
+framework: history-culture
 ---
 
 उन्नीसवीं सदी के मलाया की पुलिस की पंक्तियों और ब्रिटिश किलों में, पगड़ी और घनी दाढ़ी वाले उन अधिकारियों में से कई स्थानीय नहीं थे — वे सिख थे जिन्हें उत्तर-पश्चिमी भारत के पंजाब से हज़ारों मील दूर लाया गया था। सुरक्षा बनाए रखने के उस कर्तव्य से मलेशिया के सबसे छोटे किंतु सबसे तुरंत पहचाने जाने वाले अल्पसंख्यक समुदायों में से एक का उदय हुआ।

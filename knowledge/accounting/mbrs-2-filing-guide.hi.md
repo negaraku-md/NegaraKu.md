@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "extension-of-time-ssm" }
 related: ["mbrs-2", "mbrs-tagging-errors", "financial-statement-pack", "financial-statements-lodgement", "unaudited-financial-statements", "extension-of-time-ssm", "mfrs-vs-mpers"]
 keywords: ["MBRS 2.0 फाइलिंग गाइड", "mTool 2.2", "SSMxT टैक्सोनॉमी", "XBRL टैगिंग मलेशिया", "MBRS प्रवेश बिंदु", "mPortal maker lodger", "MBRS अस्वीकृति", "वित्तीय विवरणियाँ तैयार करना XBRL SSM"]
+framework: how-to
 ---
 
 "MBRS 2.0" के लिए खोज परिणाम लगभग पूरी तरह से वे लोग हैं जो आपको इसे न करने का एक तरीका बेच रहे हैं। रूपांतरण विक्रेता, आउटसोर्स की गई टैगिंग सेवाएँ, और "हमसे बात करें" पर समाप्त होने वाले बिग फोर तत्परता झलक। कोई भी यह प्रकाशित नहीं करता कि हस्ताक्षरित खातों के एक सेट और SSM से एक स्वीकृति के बीच वास्तव में क्या होता है।

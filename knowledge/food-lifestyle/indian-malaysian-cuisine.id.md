@@ -92,6 +92,7 @@ verificationNeeded:
   - "Apakah sebutan hormat 'mamak' berasal khusus dari kata Tamil untuk paman dari pihak ibu (maa-ma), dan catatan bahwa istilah itu dapat dipakai secara merendahkan — periksa dengan sumber bahasa Tamil atau leksikografi."
   - "Tanggal Brickfields secara resmi ditetapkan sebagai 'Little India' Kuala Lumpur (sumber memberikan baik 2009 maupun 2010) dan lokasi Little India yang lebih awal di dekat Jalan Masjid India — periksa dengan sumber Dewan Bandaraya Kuala Lumpur (DBKL) atau otoritas pariwisata."
   - "Permukiman dagang Chulia / Tamil-Muslim awal di pelabuhan Selat (Penang, Melaka) sebagai komunitas yang berbeda dari tenaga kerja perkebunan belakangan — periksa dengan sumber sejarah Penang atau Selat, karena entri ensiklopedia umum memperlakukan keduanya bersama."
+framework: history-culture
 ---
 
 Tanyakan apa arti "makanan India" di Malaysia, dan Anda akan mendapat beberapa

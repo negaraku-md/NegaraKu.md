@@ -79,6 +79,7 @@ related:
   - "malaysian-noodles"
 social:
   hashtags: ["PrawnMee", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 ‏prawn mee أحد الأطباق المميِّزة لبينانغ، وفي Lebuh Pantai حوّله كشك عريق إلى

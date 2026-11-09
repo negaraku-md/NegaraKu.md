@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "thaipusam", "hinduism-in-malaysia", "estate-tamil-community"]
 keywords: ["செட்டியார் சமூகம்", "நாட்டுக்கோட்டை நகரத்தார்", "நகரத்தார் மலேசியா", "செட்டிநாடு", "கிட்டங்கி", "பினாங்கு செட்டியார் கோயில்", "Chettiar community Malaysia", "Nattukottai Chettiar", "Nagarathar"]
+framework: history-culture
 ---
 
 पिनांग के थाईपुसम के दिन, चाँदी से बना एक भव्य रथ लेबुह पिनांग सड़क से चलकर पहाड़ी पर स्थित मुरुगन मंदिर की ओर प्रस्थान करता है। वह रथ, और एक सदी से अधिक समय से उसे चलाता आया समुदाय, संयोगमात्र नहीं हैं — दोनों चेट्टिनाड से मलाया तक की यात्रा करने वाली एक व्यापार-बैंकिंग परंपरा की कहानी कहते हैं।

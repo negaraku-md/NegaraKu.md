@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "capital-allowances" }
 related: ["motor-vehicle-capital-allowance", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["benefits in kind Malaysia", "BIK prescribed value table", "company car tax Malaysia employee", "paragraph 13(1)(b) 13(1)(c)", "living accommodation benefit Malaysia"]
+framework: explainer
 ---
 
 每一份讲实物福利的指南都只站一边。薪资类的博客解释雇员要缴什么。税务类的博客解释公司能扣什么。没有人把它们放在同一页上——这就是为什么董事会批准一份用车政策时，以为公司拿到的扣除等同于高层被课税的金额。并不是。这两个数字依不同条文计算，而且几乎从不相同。

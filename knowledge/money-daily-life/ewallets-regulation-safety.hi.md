@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "duitnow-qr" }
 related: ["pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["मलेशिया ई-वॉलेट", "ई-मनी", "e-wallet Malaysia", "e-money", "Touch n Go eWallet", "Boost", "GrabPay", "ShopeePay", "BNM", "PIDM", "न्यास खाता", "सुरक्षण safeguarding"]
+framework: explainer
 ---
 
 आप काउंटर पर «भुगतान» टैप करते हैं, आपका ई-वॉलेट शेष कुछ रिंगिट घट जाता है, और लेनदेन एक सेकंड में पूरा हो जाता है। पर आज सुबह जो RM200 आपने «टॉप-अप» किए, वे वास्तव में कहाँ रखे जाते हैं — और यदि ऐप के पीछे की कंपनी अचानक दिवालिया हो जाए तो उनका क्या होता है? इसका उत्तर उससे भिन्न है जो आपके बैंक खाते के पैसे के साथ होता है, और यह अंतर मायने रखता है।

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "foreign-company-branch-malaysia" }
 related: ["mida"]
 keywords: ["representative office malaysia", "regional office malaysia", "MIDA RE RO", "foreign company presence malaysia", "market entry malaysia", "non-trading office"]
+framework: explainer
 ---
 
 மலேசியாவில் தரையில் ஆட்கள் வேண்டும் என விரும்பும் ஒரு வெளிநாட்டு நிறுவனம் — சந்தையை மதிப்பிடவும், தயாரிப்பு ஆராய்ச்சியை நடத்தவும், அல்லது தனது வட்டார துணை நிறுவனங்களை ஒருங்கிணைக்கவும் — அதற்காக வரி விதிக்கத்தக்க ஒரு வர்த்தக நிறுவனத்தைப் பதிவு செய்ய வேண்டியதில்லை. மலேசியா இதற்கென்றே கட்டமைக்கப்பட்ட, வர்த்தகம் அல்லாத ஒரு தகுதியை வழங்குகிறது: மலேசிய முதலீட்டு மேம்பாட்டு ஆணையத்தால் (Malaysian Investment Development Authority, MIDA) அனுமதிக்கப்படும் பிரதிநிதி அலுவலகம் (RE) அல்லது வட்டார அலுவலகம் (RO).

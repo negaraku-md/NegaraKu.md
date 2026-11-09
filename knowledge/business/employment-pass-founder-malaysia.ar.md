@@ -121,6 +121,7 @@ keywords:
   - "تصريح الأجانب للمدير في ماليزيا"
   - "Employment Pass Malaysia founder"
   - "employment pass category I II III"
+framework: how-to
 ---
 
 ترتيب العمليات يهزم من المؤسِّسين الأجانب أكثر مما تهزمه أي قاعدة منفردة.

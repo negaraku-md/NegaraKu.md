@@ -111,6 +111,7 @@ keywords:
   - "Sarawak Land Code Cap 81"
   - "Samalaju Industrial Park"
   - "perniagaan di Sarawak"
+framework: explainer
 ---
 
 まず、この地がどのような場所かを物語る一つの数字から始めよう。サラワクでは**二つの並行する章番号シリーズ**が、同時に生きている。1958年版のCap. 64は商号条例（Business Names Ordinance）である。現行シリーズのCap. 64は**2006年地域回廊開発局条例（Regional Corridors Development Authorities Ordinance 2006）**——SCOREの背後にある法規である。

@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "register-sdn-bhd" }
 related: ["strike-off-company-malaysia", "members-voluntary-winding-up", "creditors-voluntary-winding-up", "corporate-rescue-malaysia", "sell-business-malaysia", "register-sdn-bhd", "annual-return", "statutory-registers"]
 keywords: ["fermer sdn bhd", "close sdn bhd", "radiation de société Malaisie", "strike off company Malaysia", "liquidation de société", "tutup syarikat sdn bhd", "radier société SSM", "close company malaysia"]
+framework: decision
 ---
 
 Cesser d'exploiter n'est pas fermer une société. Une Sdn Bhd silencieuse continue

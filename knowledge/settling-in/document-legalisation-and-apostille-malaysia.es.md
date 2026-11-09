@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "recognition-of-foreign-qualifications-malaysia" }
 related: []
 keywords: ["legalización de documentos", "apostille Malaysia", "atestación consular", "Wisma Putra", "certificado de nacimiento extranjero", "certificado de matrimonio del extranjero", "atestación de título", "JPN documentos extranjeros"]
+framework: how-to
 ---
 
 Llega al mostrador del JPN con un certificado de matrimonio emitido en el extranjero, y el funcionario lo rechaza, no porque sea falso, sino porque no ha sido «legalizado». Mucha gente tropieza aquí: que un documento sea válido en su país de origen no significa que se acepte directamente en Malasia. Hay una cadena de atestación por la que primero hay que pasar.

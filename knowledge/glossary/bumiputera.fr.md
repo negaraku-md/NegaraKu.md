@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["federal-constitution", "orang-asli", "population-composition", "bumiputera-equity-requirements"]
 keywords: ["Bumiputera", "definisi Bumiputera", "Perkara 153", "Perkara 160", "Perkara 161A", "orang Melayu", "anak negeri Sabah Sarawak", "kedudukan istimewa", "Perlembagaan Persekutuan"]
+framework: explainer
 ---
 
 Cherchez le mot « Bumiputera » dans le texte de la Constitution fédérale, et vous ne le trouverez pas. Le terme que l'on entend si souvent dans la conversation quotidienne, sur les formulaires officiels et dans la politique gouvernementale n'est, en réalité, pas employé dans le document juridique suprême de la nation.

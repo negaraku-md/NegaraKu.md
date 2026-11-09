@@ -73,6 +73,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-health" }
 related: []
 keywords: ["diabetes", "obesiti", "NCD", "penyakit tidak berjangkit", "NHMS 2023", "cukai gula", "PeKa B40", "Logo Pilihan Sihat", "saringan kesihatan"]
+framework: explainer
 ---
 
 Lebih separuh orang dewasa Malaysia hari ini membawa berat badan yang boleh memendekkan hayat mereka — dan seorang daripada enam sudah pun hidup dengan diabetes, ramai tanpa menyedarinya. Inilah wabak senyap yang membebankan hospital, keluarga dan ekonomi negara jauh lebih daripada mana-mana penyakit berjangkit.

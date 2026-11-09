@@ -76,6 +76,7 @@ keywords:
   - "klinik pergigian pakar hospital"
   - "Akta Pergigian 2018"
   - "carian klinik pergigian kerajaan"
+framework: explainer
 ---
 
 Many people assume "dental clinic" is one single thing — a place to fill a

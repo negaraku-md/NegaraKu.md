@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["Penang travel guide", "George Town UNESCO", "Penang street art", "Penang Hill funicular", "Penang hawker food", "George Town heritage core", "Batu Ferringhi", "things to do in Penang"]
+framework: explainer
 ---
 
 Mendarat di pulau, melangkah keluar dari pendingin udara, dan hal pertama yang menerpa Anda adalah bau — asap wajan, wangi dupa dari kelenteng Tionghoa, kamboja, dan garam Selat Melaka. George Town adalah tempat yang Anda baca dengan kaki: satu grid padat rumah toko berusia seabad tempat masjid, rumah kongsi dan gereja kolonial bisa berbagi satu blok yang sama. Panduan ini merangkum apa yang perlu dilihat, di mana makan, cara mencapai pantai dan bukit, dan berapa lama waktu yang perlu diberikan kepada sebuah kota yang menghargai kelambatan.

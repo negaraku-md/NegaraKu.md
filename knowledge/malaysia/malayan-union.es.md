@@ -81,6 +81,7 @@ keywords:
   - "kedudukan Raja-Raja Melayu"
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
+framework: history-culture
 ---
 
 Durante un año y diez meses, Malaya se rigió por una constitución que hoy apenas conoce nadie más allá de su nombre. La Unión Malaya comenzó el 1 de abril de 1946 y terminó el 31 de enero de 1948 — tan breve que nunca llegó a dejar tras de sí edificios, una moneda ni una generación propia de administradores.

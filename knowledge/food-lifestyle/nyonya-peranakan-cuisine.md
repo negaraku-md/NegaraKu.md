@@ -97,6 +97,7 @@ verificationNeeded:
   - "The origin of the name 'kari kapitan' (one popular story ties it to a Kapitan China / a 'captain' who asked a cook what was for dinner) — the etymology is anecdotal and unverified; confirm with a culinary-history source."
   - "Whether inchi kabin (Penang spiced fried chicken) is properly Nyonya, Hainanese or of mixed colonial origin — attributions differ; confirm with a Penang heritage or culinary source."
   - "The precise claim that Penang Nyonya cooking derives its sourness and heat from Thai influence while Melaka/Singapore cooking is more Indonesian-influenced — this regional framing recurs in the sources but should be confirmed against scholarly work such as the Journal of Ethnic Foods studies cited."
+framework: history-culture
 ---
 
 Spoon into a bowl of Nyonya cooking and you taste two worlds at once: the

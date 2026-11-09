@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["mm2h-long-stay-visa", "employment-pass", "dependant-social-visit-passes", "moving-to-malaysia-first-steps"]
 keywords: ["PVIP", "برنامج التأشيرة المميزة", "Premium Visa Programme", "Program Visa Premium", "تأشيرة الإقامة في ماليزيا", "Malaysia residency visa", "الإقامة مقابل الاستثمار", "residency by investment", "تأشيرة 20 عامًا ماليزيا", "20-year visa Malaysia", "وديعة PVIP الثابتة", "PVIP fixed deposit", "شروط PVIP", "PVIP requirements"]
+framework: explainer
 ---
 
 اشترِ منزلًا، ووظِّف موظفين، وسجِّل الأبناء في المدرسة، ولا تَعُدّ كم يومًا تقضيه في البلد في السنة: تلك هي الحقوق الأساسية التي تمنحها ماليزيا للأجانب الأثرياء من خلال برنامج التأشيرة المميزة. أعلنته وزارة الداخلية في سبتمبر 2022 وفتحته أمام المتقدمين اعتبارًا من 1 أكتوبر 2022، وبرنامج PVIP (Program Visa Premium) هو تأشيرة إقامة مقابل الاستثمار تمنح المتقدمين المؤهَّلين ما يصل إلى عقدين من الإقامة المستقرة في ماليزيا. ومن السهل الخلط بينه وبين برنامج ماليزيا موطني الثاني (MM2H) الأقدم، لكن البرنامجين تديرهما وزارتان مختلفتان ويستهدفان متقدمين مختلفين.

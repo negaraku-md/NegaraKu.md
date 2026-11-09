@@ -107,6 +107,7 @@ relations:
   - { rel: "compares-with", to: "epf-employer-guide" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "pcb-mtd-malaysia"]
 keywords: ["SOCSO contribution rate Malaysia", "EIS rate employer", "PERKESO wage ceiling RM6000", "SOCSO Category 1 Category 2", "LINDUNG 24 Jam SKBBK"]
+framework: rules
 ---
 
 Before you check a SOCSO rate, check the ceiling it is applied to. That is where

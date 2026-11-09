@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-vs-tax-invoice" }
 related: ["e-invoicing", "e-invoice-vs-tax-invoice", "consolidated-e-invoice", "myinvois-phases", "accounting-records-section-245"]
 keywords: ["e-invoice record keeping Malaysia", "MyInvois retention period", "section 245 e-invoice", "section 82 Income Tax Act records", "e-invoice statutory records Malaysia"]
+framework: explainer
 ---
 
 眼下马来西亚财务部门里最常见的误解，是以为 MyInvois 已经取代了文件柜。它并没有。

@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "home-loan-financing" }
 related: []
 keywords: ["rumah mampu milik", "PR1MA", "Residensi Wilayah", "RUMAWIP", "Rumah Mesra Rakyat", "PPR", "Rumah Selangorku", "Residensi MADANI", "rumah mampu milik Malaysia"]
+framework: decision
 ---
 
 Your salary is RM4,000 a month and the price of a terrace house in the city has already hit half a million ringgit — where should you even start looking? The answer is not a single scheme, but a menu of government schemes, each targeting a different income band. Picking the wrong one means wasting months waiting for a ballot on a home you were never eligible for in the first place.

@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["program-rahmah-cost-of-living", "cost-of-living-overview", "inflation-cpi", "ringgit", "gdp-overview"]
 keywords: ["subsidi bahan api Malaysia", "Mekanisme Harga Automatik", "APM harga minyak", "BUDI95", "BUDI Diesel", "subsidi bersasar", "harga RON95", "SKDS SKPS"]
+framework: explainer
 ---
 
 2026 ஜூலை 23 முதல் 29 வரையிலான வாரத்தில், இரண்டு ஓட்டுநர்கள் ஒரே பம்பில் நின்று, ஒரே எரிபொருளை நிரப்பி, கிட்டத்தட்ட இரண்டு மடங்கு வேறுபட்ட விலைகளைச் செலுத்த முடியும். ஒருவர் ஒரு லிட்டருக்கு RM1.99 செலுத்தினார். மற்றொருவர் RM3.62 செலுத்தினார்.

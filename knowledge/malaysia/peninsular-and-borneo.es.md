@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "singapore-separation-1965" }
 related: ["sabah", "sarawak", "ma63", "formation-of-malaysia-1963", "singapore-separation-1965"]
 keywords: ["Peninsular Malaysia", "East Malaysia", "Sabah Sarawak border", "South China Sea Malaysia", "Immigration Act 1959/63 Section 66", "Sarawak Land Code", "Sabah Land Ordinance", "Malaysian Standard Time 1982"]
+framework: explainer
 ---
 
 Vuele por ruta nacional de Kuala Lumpur a Kota Kinabalu y aterrizará en el mismo país del que salió. La misma moneda, el mismo pasaporte, la misma bandera en la cola del avión. Y, sin embargo, en la sala de llegadas se pone en fila ante un mostrador de tipo migratorio y alguien verifica su documento de identidad o pasaporte antes de dejarle pasar. Ningún otro vuelo dentro de Malasia funciona así.

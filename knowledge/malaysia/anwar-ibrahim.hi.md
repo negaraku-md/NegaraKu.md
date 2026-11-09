@@ -71,6 +71,7 @@ sources:
 
 related: ["1998-reformasi", "2018-change-of-government", "prime-ministers-of-malaysia", "mahathir-mohamad"]
 keywords: ["अनवर इब्राहिम", "Anwar Ibrahim", "मलेशिया के दसवें प्रधानमंत्री", "tenth prime minister Malaysia", "Reformasi", "MADANI सरकार", "MADANI government", "Pakatan Harapan"]
+framework: profile
 ---
 
 अनवर इब्राहिम (जन्म 10 अगस्त 1947) मलेशिया के **दसवें प्रधानमंत्री** हैं, जो

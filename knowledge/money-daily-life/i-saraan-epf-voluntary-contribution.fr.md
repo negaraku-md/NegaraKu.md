@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "str-cash-aid" }
 related: ["epf", "epf-akaun-fleksibel", "epf-socso-gig-workers-self-employed", "str-cash-aid"]
 keywords: ["i-Saraan", "i-Saraan Plus", "KWSP i-Saraan", "cotisation volontaire EPF", "EPF indépendant", "épargne-retraite travailleur gig", "incitation d'abondement EPF", "caruman sukarela KWSP"]
+framework: explainer
 ---
 
 Si vous conduisez pour une application d'e-hailing, vendez des plats à un étal,

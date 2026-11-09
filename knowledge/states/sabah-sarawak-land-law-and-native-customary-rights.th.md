@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
 related: ["federal-constitution"]
 keywords: ["native customary rights", "NCR", "Sarawak Land Code", "Sabah Land Ordinance", "native title", "temuda", "pemakai menoa", "East Malaysia land law"]
+framework: explainer
 ---
 
 ซื้อบ้านในกัวลาลัมเปอร์แล้วกฎหมายของสหพันธรัฐฉบับเดียวกำกับกรรมสิทธิ์ของคุณ ทำเช่นเดียวกันในกูจิงหรือโกตากีนาบาลู แล้วคุณก็ก้าวเข้าสู่โลกทางกฎหมายที่แตกต่างไปโดยสิ้นเชิง — โลกที่มีพระราชกำหนดของตนเอง มีหมวดของที่ดินของตนเอง และมีรูปแบบการถือครองที่ไม่มีกระดาษแผ่นใดสร้างขึ้น คือสิทธิตามจารีตประเพณีของชนพื้นเมือง

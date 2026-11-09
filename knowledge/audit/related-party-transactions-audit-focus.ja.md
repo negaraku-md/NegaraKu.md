@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "going-concern-audit" }
 related: ["statutory-audit-process", "audit-opinion-types", "going-concern-audit"]
 keywords: ["related party transactions", "ISA 550", "MFRS 124", "arm's length", "Bursa Chapter 10", "recurrent related party transactions", "audit risk"]
+framework: explainer
 ---
 
 ある企業が、自社の主要株主が所有する別の会社に粗パーム油を販売する。請求書のどこにも、それが通常の供給契約なのか、それとも少数株主から価値を抜き取る第一歩なのかは書かれていない。監査人の仕事は、そのどちらであるかを突き止めることである——そしてそれこそが、国際監査基準第550号「関連当事者」（International Standard on Auditing 550, *Related Parties*）が書かれた目的そのものである。

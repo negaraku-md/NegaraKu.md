@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "appoint-company-secretary" }
 related: ["statutory-registers", "register-of-members", "appoint-company-secretary", "annual-return"]
 keywords: ["daftar pengarah Malaysia", "seksyen 57 Akta Syarikat 2016", "pemberitahuan seksyen 58 SSM", "daftar pengarah syarikat", "perubahan pengarah SSM 14 hari", "alamat perkhidmatan pengarah Malaysia"]
+framework: rules
 ---
 
 Seorang pengarah meletakkan jawatan pada 3 Mac. Setiausaha syarikat memfailkan

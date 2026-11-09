@@ -76,6 +76,7 @@ social:
   hashtags: ["#DialekMelayu", "#LoghatMelayu", "#BahasaMelayu", "#Malaysia", "#Bahasa"]
 verificationNeeded:
   - "Số lượng và ranh giới của các nhóm phương ngữ khác nhau tùy theo sơ đồ của từng nhà phương ngữ học (bốn cụm của Ismail Hussein 1973; bảy nhóm của Asmah Haji Omar; những danh sách chi tiết hơn) và không hoàn toàn được nhất trí. Vị thế của tiếng Mã Lai chuẩn với tư cách 「dựa trên Johor-Riau」 cùng lịch sử chính sách phát âm chuẩn so với phát âm Johor-Riau cần được đối chiếu với các ấn phẩm chính thức của DBP. Mối quan hệ giữa phương ngữ Negeri Sembilan với tiếng Minangkabau (gốc gác di dân so với sự gần gũi ngôn ngữ với tiếng Mã Lai chuẩn) và vị thế của Baba Melayu như một ngôn ngữ creole vẫn còn được tranh luận trong giới học giả."
+framework: explainer
 ---
 
 Một người nói từ Kota Bharu, một người từ Alor Setar và một người từ Kuching có thể cùng nói rằng họ nói tiếng Mã Lai — nhưng khi họ trò chuyện thoải mái tại làng quê của mình, âm thanh có thể rất khác nhau đến mức cần một chút điều chỉnh để hiểu được lẫn nhau. Chính sự khác biệt này được gọi là phương ngữ, hay trong tiếng nói hằng ngày, loghat (giọng).

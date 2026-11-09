@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "malaysia-national-football-team" }
 related: []
 keywords: ["Liga Super", "Piala Malaysia", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "bola sepak Malaysia"]
+framework: explainer
 ---
 
 For nearly a century, a single body — the Football Association of Malaysia (FAM) — organised every national league match. Then, in a move that reshaped the sport, the power to run the leagues was handed over to a commercial company. This is the foundation of how Malaysian domestic football works today.

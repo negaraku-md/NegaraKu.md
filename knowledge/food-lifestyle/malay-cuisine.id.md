@@ -95,6 +95,7 @@ verificationNeeded:
   - "Klaim bahwa nasi baru menjadi makanan pokok harian Melayu relatif belakangan (dengan sagu dominan sebelum sekitar abad ke-15) bersandar pada keterangan sejarawan makanan; konfirmasikan terhadap sumber sejarah primer atau akademik."
   - "Apakah 'Budaya Sarapan Malaysia' — yang dicatatkan dalam Daftar Representatif UNESCO pada Desember 2024 — sepatutnya dibingkai sebagai pengakuan terhadap masakan Melayu secara khusus alih-alih meja sarapan berbilang etnis; ini adalah entri UNESCO terkait makanan pertama negeri ini dan secara eksplisit bersifat multikultural."
   - "Batas wilayah yang tepat dari profil rasa (mis. pantai timur yang 'lebih manis', selatan yang menggemari kuah bersantan kental) adalah generalisasi; konfirmasikan atribusi hidangan tertentu terhadap sumber lokal."
+framework: history-culture
 ---
 
 Duduk menghadap santapan Melayu dan bentuknya sudah jelas sebelum Anda mencicipi

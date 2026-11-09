@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "str-cash-aid" }
 related: ["epf", "epf-akaun-fleksibel", "epf-socso-gig-workers-self-employed", "str-cash-aid"]
 keywords: ["i-Saraan", "i-Saraan Plus", "KWSP i-Saraan", "EPF स्वैच्छिक अंशदान", "स्व-रोज़गार EPF", "गिग कामगार सेवानिवृत्ति बचत", "EPF मिलान-प्रोत्साहन", "caruman sukarela KWSP"]
+framework: explainer
 ---
 
 यदि आप किसी e-hailing ऐप के लिए गाड़ी चलाते हैं, किसी गुमटी से खाना बेचते हैं, फ्रीलांस डिज़ाइन का काम लेते हैं या एक-व्यक्ति का व्यवसाय चलाते हैं, तो वेतन-दिवस पर एक चीज़ कभी नहीं होती: कोई नियोक्ता आपकी आय का एक हिस्सा [EPF](/hi/glossary/epf) (Kumpulan Wang Simpanan Pekerja, या KWSP) के लिए नहीं काटता। वेतनभोगी कर्मचारियों के लिए वह सेवानिवृत्ति-अंशदान हर महीने अपने-आप होता है। औपचारिक वेतन-प्रणाली के बाहर रहने वाले सभी लोगों के लिए, सेवानिवृत्ति का कोष अपने-आप नहीं बनता — जब तक कि आप उसे बनाने का चुनाव न करें। वह चुनाव ही **i-Saraan** के लिए है।

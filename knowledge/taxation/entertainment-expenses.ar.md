@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["non-deductible-expenses", "section-33-deductibility"]
 keywords: ["مصروفات الترفيه ضريبة ماليزيا", "entertainment expense malaysia tax", "39(1)(l) الترفيه", "خصم الترفيه 50%", "public ruling 4/2015", "خصم ضريبي هدية ترويجية ماليزيا"]
+framework: rules
 ---
 
 يكاد كل حساب ضريبي في ماليزيا ينصّف بند الترفيه ويمضي. وذلك خطأ في الاتجاهين. فبعض ما يُنصَّف ينبغي أن يُمنَع بالكامل، وكثير منه لا ينبغي أن يُنصَّف إطلاقاً.

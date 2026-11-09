@@ -65,6 +65,7 @@ sources:
 
 related: ["muhyiddin-yassin", "mahathir-mohamad", "anwar-ibrahim", "2018-change-of-government", "2022-general-election"]
 keywords: ["शेरेटन मूव", "लांगकाह शेरेटन", "2020 मलेशिया राजनीतिक संकट", "परिकातान नासिओनाल", "सरकार परिवर्तन 2020", "Sheraton Move", "Langkah Sheraton", "Perikatan Nasional"]
+framework: history-culture
 ---
 
 > **मसौदा — संवेदनशील।** यह लेख एक तटस्थ, कार्य-प्रगति-पर सारांश है और इसकी

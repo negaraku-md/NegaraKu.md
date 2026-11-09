@@ -100,6 +100,7 @@ keywords:
   - "NTAX NCER closed"
   - "Kulim Hi-Tech Park incentives"
   - "koridor utara NCER"
+framework: explainer
 ---
 
 ถามว่าระเบียงภาคเหนือให้อะไรแก่นักลงทุน แล้วท่านจะได้รับรายการการยกเว้นภาษี เกือบทั้งหมดล้าสมัย และส่วนที่ไม่ล้าสมัยไม่เคยเป็นของ NCIA ที่จะให้

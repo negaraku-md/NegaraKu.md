@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: []
 keywords: ["Laut China Selatan", "Batu Puteh", "Pedra Branca", "Sabah", "UNCLOS", "kedaulatan", "pertikaian maritim", "Spratly"]
+framework: explainer
 ---
 
 Tấm bản đồ Malaysia treo trên tường trường học trông có vẻ yên bình và chắc chắn — nhưng ở các đường biên giới trên biển của nó, những đường ranh đó vẫn còn được bàn bạc ở bàn đàm phán và tại các tòa án quốc tế. Malaysia có ba vấn đề lãnh thổ và hàng hải chưa được giải quyết hoàn toàn, và mỗi vấn đề được xử lý theo một cách khác nhau: một ở tòa án, một ở ủy ban của Liên Hợp Quốc, và một được cố ý để âm ỉ.

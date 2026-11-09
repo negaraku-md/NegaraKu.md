@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "stpm" }
 related: []
 keywords: ["MUET", "Majlis Peperiksaan Malaysia", "MPM", "band MUET", "kemasukan universiti", "STPM", "kemahiran bahasa Inggeris", "ijazah sarjana muda"]
+framework: explainer
 ---
 
 Bạn có thể xuất sắc trong STPM hoặc matriculation, nhưng thiếu một kết quả nữa, đơn xin bằng cử nhân của bạn vẫn chưa đầy đủ. Kết quả đó là MUET — và nhiều học sinh chỉ nhận ra tầm quan trọng của nó khi hạn chót nộp đơn đại học đã đến gần.

@@ -62,6 +62,7 @@ social:
 verificationNeeded:
   - "传统认定的公元1136年立国日期，以及 Phra Ong Mahawangsa 改奉伊斯兰、成为 Sultan Mudzaffar Shah I 的说法，源自《吉打纪年》（Hikayat Merong Mahawangsa）与《At-Tarikh Salasilah Negeri Kedah》；史家认为如此早的日期不大可能，而 Richard Winstedt 援引一则亚齐（Acehnese）记载，将改奉之年定于1474年。"
   - "将吉打形容为「最古老的马来苏丹王朝」是一种传统／通俗说法，本文所引的资料来源并未对此作独立证实。"
+framework: history-culture
 ---
 
 马来西亚少有地方像吉打这样坦然承载自己的过去。早在宣礼塔尚未矗立于亚罗士打（Alor Setar）之前，Merbok 河与 Muda 河之间那片稻绿的平原，便已是商旅乘着季风、往返于印度、中国与马来世界之间的登陆之地。水手与学者称这片海岸为 Kadaram 或 Kataha；今日的考古学家则以布央谷（Bujang Valley）的寺庙遗丘来辨认它。正是从那样一个世界主义的、印度教—佛教的起点，成长出一个马来君主政体——它将挨过室利佛逝（Srivijaya）与朱罗（Chola）、大城（Ayutthaya）与曼谷，最终还要挨过大英帝国。

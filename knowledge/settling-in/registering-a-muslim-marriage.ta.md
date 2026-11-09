@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "registering-a-civil-marriage" }
 related: ["registering-a-marriage-civil", "syariah-court-system"]
 keywords: ["muslim marriage malaysia", "nikah registration", "SPPIM", "wali hakim", "kursus pra perkahwinan", "akad nikah", "syariah court marriage", "islamic family law act 303"]
+framework: how-to
 ---
 
 இரண்டு பேர் திருமணம் செய்யத் தயாராக உள்ளனர், குடும்பங்கள் சந்தித்துவிட்டன, திகதியும் நிர்ணயிக்கப்பட்டுவிட்டது — ஆனால் மலேசியாவில் ஒரு முஸ்லிம் திருமணம், மாநிலத்தால் இயக்கப்படும் ஒரு வரையறுக்கப்பட்ட நிர்வாக மற்றும் சமய செயல்முறையின் வழியாகக் கடந்து செல்லும் வரை பதிவு செய்யப்பட்ட திருமணமாக ஆகாது. கூட்டாட்சி அரசியலமைப்பின் (Federal Constitution) கீழ் இஸ்லாம் ஒரு மாநிலப் பொருள், எனவே ஒவ்வொரு மாநிலமும் கூட்டாட்சிப் பிரதேசங்களும் தமது சொந்த இஸ்லாமிய குடும்பச் சட்ட சட்டமியற்றலையும், தமது சொந்த மாநில இஸ்லாமிய சமய திணைக்களத்தையும் (Jabatan Agama Islam Negeri) கொண்டுள்ளன. கீழேயுள்ள படிநிலைகள் நாடு முழுவதும் பரவலாக ஒத்தவை; சரியான சட்டப்பூர்வ மேற்கோள்களுக்காக கூட்டாட்சிப் பிரதேசங்களின் சட்டமான Islamic Family Law (Federal Territories) Act 1984 (Act 303) இங்கே பயன்படுத்தப்படுகிறது.

@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "consumer-protection-act" }
 related: ["sedition-act", "consumer-protection-act"]
 keywords: ["penapisan filem", "Lembaga Penapisan Filem", "LPF", "klasifikasi filem", "P12", "P13", "Akta Penapisan Filem 2002", "lesen hiburan", "karaoke", "pawagam", "DBKL", "pihak berkuasa tempatan"]
+framework: explainer
 ---
 
 YouTube இல் வைரலாகும் ஒரு திரைப்படம் திரைப்பட தணிக்கை வாரியத்தின் வழியாக ஒருபோதும் சென்றிருக்காது — ஆனால் அதே திரைப்படம், திரையரங்கில் திரையிடப்பட வேண்டுமானால், முதலில் அதன் அங்கீகார முத்திரையைப் பெற வேண்டும். அந்த வேறுபாடு தற்செயலான ஒரு சட்ட ஓட்டை அல்ல; பொதுமக்கள் என்ன பார்க்கலாம் என்பதை மலேசிய சட்டம் கட்டுப்படுத்தும் விதத்திலேயே அது கட்டமைக்கப்பட்டுள்ளது.

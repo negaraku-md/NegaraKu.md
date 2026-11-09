@@ -87,6 +87,7 @@ keywords:
   - "código de adquisiciones Malasia"
   - "usaha gabungan dan pengambilalihan"
   - "due diligence perniagaan"
+framework: decision
 ---
 
 La mayoría imagina una fusión o adquisición como una única firma dramática. En la práctica, un acuerdo malasio es una secuencia de decisiones más pequeñas, y la primera de ellas —*cómo* compra, no si compra— moldea calladamente todo lo que sigue: su factura fiscal, los pasivos que hereda, las aprobaciones que necesita y cuánto acaban cobrando los abogados. Acierte con la estructura y la due diligence se convierte en un ejercicio de fijación de precios; equivóquese y puede comprar una demanda, un pasivo fiscal o una licencia que nunca tuvo derecho a poseer. Esta guía recorre todo el camino, desde la elección entre una venta de acciones y una venta de activos hasta los puntos de contacto regulatorios que deciden si un acuerdo se cierra limpiamente.

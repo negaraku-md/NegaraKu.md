@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik", "borneo-indigenous-languages"]
 keywords: ["masakan Peranakan Nyonya", "masakan pantai timur Kelantan Terengganu", "masakan Sarawak Sabah", "masakan Mamak nasi kandar", "kari debal Kristang", "budaya sarapan Malaysia UNESCO"]
+framework: explainer
 ---
 
 Tanya sepuluh orang Malaysia apakah "makanan Malaysia", dan anda mungkin dapat sepuluh peta yang berbeza. Seorang dari Kota Bharu akan mula dengan nasi kerabu yang biru dan budu; seorang dari Kuching akan menyebut laksa Sarawak dan kolo mee; seorang dari Melaka mungkin bercakap tentang ayam pongteh Nyonya atau kari debal [Kristang](/arts-culture/kristang-eurasian-culture); dan seorang lagi akan menuding terus ke gerai mamak di hujung jalan. Tidak seorang pun daripada mereka salah. Malaysia tidak mempunyai satu masakan kebangsaan yang tunggal — ia mempunyai sekeluarga dapur yang tumbuh di wilayah dan komuniti berbeza, kemudian menghabiskan berabad-abad saling meminjam.

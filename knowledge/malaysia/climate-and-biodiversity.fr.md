@@ -62,6 +62,7 @@ keywords:
   - "mousson Malaisie"
   - "MetMalaysia"
   - "MyBIS"
+framework: explainer
 ---
 
 # Pourquoi la Malaisie est l'un des pays mégadivers du monde

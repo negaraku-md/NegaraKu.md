@@ -84,6 +84,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["foreign-exchange-policy-malaysia", "resident-director-malaysia", "registered-office-malaysia"]
 keywords: ["corporate bank account malaysia", "open company bank account malaysia", "foreign owned company bank account rejected", "bank account KYC malaysia", "enhanced due diligence malaysia"]
+framework: explainer
 ---
 
 หน้าของคู่แข่งทุกหน้าในหัวข้อนี้เป็นรายการตรวจสอบห้าขั้นตอนที่ลงท้ายด้วย "และบัญชีของคุณจะพร้อมภายในไม่กี่วันทำการ" ฉบับนั้นไร้ประโยชน์สำหรับคนที่ต้องการความช่วยเหลือจริง ๆ: ผู้ก่อตั้งชาวต่างชาติที่คำขอค้างอยู่มาหกสัปดาห์ หรือที่ถูกปฏิเสธสองครั้งจากธนาคารต่างแห่งโดยไม่ได้ให้เหตุผล

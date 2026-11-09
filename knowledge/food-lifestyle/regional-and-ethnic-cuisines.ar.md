@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik", "borneo-indigenous-languages"]
 keywords: ["مطبخ Peranakan Nyonya", "مطبخ الساحل الشرقي كلنتان ترينغانو", "مطبخ ساراواك صباح", "مطبخ Mamak nasi kandar", "kari debal Kristang", "ثقافة الإفطار الماليزية UNESCO"]
+framework: explainer
 ---
 
 اسأل عشرة ماليزيين عن معنى «الطعام الماليزي»، وقد تحصل على عشر خرائط مختلفة. فأحدهم من كوتا بهرو سيبدأ بـnasi kerabu الأزرق وbudu؛ وآخر من كوتشينغ سيذكر laksa ساراواك وkolo mee؛ وثالث من ملقا قد يتحدّث عن ayam pongteh النيونيّ أو kari debal [Kristang](/arts-culture/kristang-eurasian-culture)؛ ورابع سيشير مباشرة إلى كشك mamak في آخر الشارع. ولا أحد منهم مخطئ. ليس لماليزيا مطبخ وطني واحد — بل لديها عائلة من المطابخ نشأت في مناطق ومجتمعات مختلفة، ثم أمضت قرونًا تستعير بعضها من بعض.

@@ -86,6 +86,7 @@ relations:
   - { rel: "requires", to: "e-invoice-data-fields" }
 related: ["e-invoicing", "myinvois-phases", "consolidated-e-invoice", "e-invoice-data-fields", "e-invoice-vs-tax-invoice"]
 keywords: ["self-billed e-Invoice", "facture autofacturée Malaisie", "facture électronique fournisseur étranger", "TIN général EI00000000030", "e-invois belian sendiri", "facture électronique commission agent"]
+framework: rules
 ---
 
 L'entreprise la plus susceptible d'être prise au dépourvu par la facturation électronique n'est pas celle qui a un gros livre de ventes. C'est celle qui achète — commissions aux agents, un bailleur personne physique, un abonnement SaaS singapourien, un paiement d'intérêts à la société mère. Dans chacun de ces cas, **l'acheteur émet la facture**, et le fournisseur ne fait absolument rien.

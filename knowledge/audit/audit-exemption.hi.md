@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "financial-year-end" }
 related: ["audit-exemption-thresholds", "who-cannot-claim-audit-exemption", "dormant-company-audit-exemption", "after-audit-exemption"]
 keywords: ["ऑडिट छूट मलेशिया", "audit exemption Malaysia", "pengecualian audit syarikat", "प्रैक्टिस डायरेक्टिव 10/2024", "Practice Directive 10/2024", "SSM ऑडिट छूट कसौटी", "छोटी कंपनी ऑडिट मलेशिया"]
+framework: rules
 ---
 
 हर Sdn Bhd को वार्षिक ऑडिट की ज़रूरत नहीं होती। यह कसौटी एक पहलू में अधिकांश

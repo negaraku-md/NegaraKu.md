@@ -114,6 +114,7 @@ keywords:
   - "allotment of shares Malaysia"
   - "increase paid up capital Malaysia"
   - "section 75 Companies Act 2016"
+framework: explainer
 ---
 
 RM1 납입자본은 합법이고, 흔하며, 조용히 설립 시점에 내려지는 가장 비싼 결정 중

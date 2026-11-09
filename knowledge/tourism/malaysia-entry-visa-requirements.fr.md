@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "malaysia-mm2h-program" }
 related: []
 keywords: ["visa Malaisie", "MDAC", "Carte d'arrivée numérique de Malaisie", "eVISA Malaisie", "MYVISA", "Malaisie sans visa", "conditions d'entrée en Malaisie", "portique automatique Malaisie", "validité du passeport Malaisie"]
+framework: rules
 ---
 
 Vous avez réservé le vol, bouclé la valise, et ce n'est qu'à la porte d'embarquement que la question surgit : la Malaisie attend-elle quelque chose de vous avant votre arrivée ? Pour la plupart des voyageurs, la surprise joue dans les deux sens — vous n'avez probablement pas besoin de visa, mais vous devez presque certainement soumettre un petit formulaire en ligne appelé MDAC, et confondre ces deux choses est le moyen le plus rapide de se retrouver dans un hall d'arrivée stressant.

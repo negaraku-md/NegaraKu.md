@@ -86,6 +86,7 @@ relations:
 related: ["federal-constitution", "bahasa-melayu", "population-composition", "formation-of-malaysia-1963", "independence-1957", "ma63"]
 keywords: ["languages of Malaysia", "Bahasa Melayu", "national language Malaysia", "Article 152 Federal Constitution", "Chinese dialects Malaysia", "Tamil Malaysia", "Orang Asli languages", "Kadazan-Dusun", "Iban language", "vernacular schools Malaysia", "SJKC SJKT"]
 sponsor: "none"
+framework: explainer
 ---
 
 சபா (Sabah) மாநில அரசாங்கம் தனது சொந்த மக்கள்தொகையை இவ்வாறு சுருக்கமாகக் கூறுகிறது: 50க்கும் மேற்பட்ட மொழிகளிலும் தோராயமாக 80 கிளைமொழிகளிலும் தொடர்பு கொள்ளும் 33 பழங்குடி இனக்குழுக்கள். இது பதின்மூன்று மாநிலங்களில் ஒன்று மட்டுமே, மேலும் மூன்று கூட்டரசுப் பிரதேசங்களும் உண்டு. முழு நாட்டையும் நோக்கினால் இந்தச் சித்திரம் இன்னும் அடுக்கடுக்காகவே மாறுகிறது — இருப்பினும், கூட்டரசு அரசியலமைப்பு (Federal Constitution) சரியாக ஒரே ஒரு தேசிய மொழியையே பெயரிடுகிறது.

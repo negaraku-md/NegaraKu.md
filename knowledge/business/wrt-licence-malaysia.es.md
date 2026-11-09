@@ -100,6 +100,7 @@ keywords:
   - "licencia empresa capital extranjero Malasia"
   - "capital desembolsado WRT"
   - "WRT employment pass"
+framework: rules
 ---
 
 Busque la licencia WRT y le dirán, con seguridad y de forma repetida, que exige

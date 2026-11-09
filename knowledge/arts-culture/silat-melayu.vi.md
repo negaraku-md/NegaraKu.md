@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["silat", "silat melayu", "seni silat", "silat pulut", "silat gayung", "PESAKA", "warisan budaya tidak ketara", "UNESCO Malaysia", "seni bela diri", "silat harimau"]
+framework: history-culture
 ---
 
 Một võ sĩ silat giỏi có thể bẻ gãy xương đối thủ — hoặc múa trước cô dâu chú rể mà không chạm vào ai. Cả hai đều là silat. Đó là điều khó hiểu nhất về nghệ thuật này: nó không chỉ là một phương pháp giao đấu, và cũng không chỉ là một điệu múa lễ. Nó là cả hai, trong cùng một thân thể, được vận hành bởi cùng những bước chân.

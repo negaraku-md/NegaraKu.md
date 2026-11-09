@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "motor-insurance" }
 related: ["klang-valley-rail", "e-hailing-grab", "touch-n-go", "driving-licence-malaysians", "driving-licence-foreigners", "road-tax-renewal", "motor-insurance"]
 keywords: ["मलेशिया में आना-जाना", "मलेशिया परिवहन अवलोकन", "मलेशिया में सार्वजनिक परिवहन", "मलेशिया में यात्रा कैसे करें", "क्लांग घाटी परिवहन", "मलेशिया में घरेलू उड़ानें", "मलेशिया में गाड़ी चलाना", "getting around Malaysia", "KTM ETS", "express bus Malaysia"]
+framework: journey-hub
 ---
 
 कुआलालंपुर और, मान लीजिए, Ipoh — दोनों में रह चुके किसी व्यक्ति से पूछिए कि वे कैसे आते-जाते

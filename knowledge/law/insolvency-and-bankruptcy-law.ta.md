@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016", "contracts-act-1950", "court-hierarchy"]
 keywords: ["bankruptcy Malaysia", "insolvency act 1967", "winding up company Malaysia", "judicial management", "department of insolvency", "RM100000 bankruptcy threshold", "social guarantor", "discharge from bankruptcy"]
+framework: explainer
 ---
 
 மலேசியாவில் பணம் கடன்பட்டிருப்பது, அது மட்டுமே ஒருவரைத் திவால்நிலைக்குக் கொண்டுவரப் போதுமானதல்ல. கடன் பெரியதாக இருக்க வேண்டும், கடன்தந்தோர் ஒரு குறிப்பிட்ட நீதிமன்ற நடைமுறையைப் பின்பற்ற வேண்டும் — மேலும், நீங்கள் ஒரு நண்பரின் படிப்புக் கடனுக்கோ உங்கள் குடும்ப வீட்டுக்கோ மட்டுமே உத்தரவாதம் அளித்திருந்தால், சட்டம் உங்களை முழுமையாகக் காக்கக்கூடும். மலேசியா இரு தனித்தனித் திவால்நிலை ஆட்சிமுறைகளை நடத்துகிறது: ஒன்று மக்களுக்கு, மற்றொன்று நிறுவனங்களுக்கு. நீங்கள் எந்த முறையில் உள்ளீர்கள், ஒவ்வொன்றும் எதை அனுமதிக்கிறது என்பதை அறிவது எல்லாவற்றையும் மாற்றுகிறது.

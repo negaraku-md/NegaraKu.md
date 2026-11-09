@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["ekonomi-madani-framework", "khazanah", "bursa-malaysia"]
 keywords: ["GLC", "GLIC", "Khazanah", "KWSP", "PNB", "KWAP", "LTAT", "Tabung Haji", "GEAR-uP", "PERKUKUH", "Program Transformasi GLC", "Bursa Malaysia"]
+framework: explainer
 ---
 
 เปิดพอร์ตโฟลิโอของกองทุนดัชนี Bursa Malaysia ใดก็ตาม แล้วมือของรัฐบาลกลางแทบจะอยู่ในนั้นแน่นอน ธนาคารที่ใหญ่ที่สุดของประเทศ บริษัทสาธารณูปโภค โทรคมนาคม สายการบิน และกลุ่มบริษัทสวนปาล์ม ทั้งหมดมีเจ้าของสุดท้ายเดียวกัน คือประชาชนชาวมาเลเซีย ผ่านสถาบันการลงทุนของรัฐเพียงไม่กี่แห่ง โครงสร้างนี้เองที่ทำให้มาเลเซียเป็นหนึ่งในเศรษฐกิจที่ได้รับอิทธิพลจากรัฐมากที่สุดในเอเชียตะวันออกเฉียงใต้ และมันถูกสรุปในตัวย่อสองคำที่มักถูกสับสน คือ GLC และ GLIC

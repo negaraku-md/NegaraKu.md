@@ -105,6 +105,7 @@ keywords:
   - "section 236 Companies Act 2016"
   - "do I need a company secretary"
   - "company secretary requirements Malaysia"
+framework: explainer
 ---
 
 말레이시아에서 회사 비서에 관해 쓰인 거의 모든 글은 회사 비서가 쓴 것입니다.

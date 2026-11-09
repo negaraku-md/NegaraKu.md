@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "hs-code-classification-malaysia" }
 related: ["sales-and-service-tax"]
 keywords: ["import licence Malaysia", "export permit Malaysia", "Approved Permit AP", "SIRIM import permit", "MAQIS permit", "customs registration Malaysia", "ePermit", "uCustoms", "MyTRADELINK"]
+framework: rules
 ---
 
 Your container is sitting at Port Klang and it will not move — because somewhere between the invoice and the manifest, one permit is missing. In Malaysia there is no single "import-export licence" you can frame on the wall. What clears goods is a *stack* of registrations and approvals, each owned by a different agency, and each keyed to what you are actually shipping.

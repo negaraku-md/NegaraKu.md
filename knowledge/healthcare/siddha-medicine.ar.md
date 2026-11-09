@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "traditional-chinese-medicine-in-malaysia" }
 related: ["tamil-in-malaysia", "estate-tamil-community", "traditional-chinese-medicine-in-malaysia", "hinduism-in-malaysia"]
 keywords: ["சித்த மருத்துவம்", "Siddha medicine", "மலேசியா சித்த மருத்துவம்", "Siddha medicine Malaysia", "பாரம்பரிய இந்திய மருத்துவம்", "சித்தர்கள்", "அகத்தியர்", "மூலிகை மருத்துவம்", "பாரம்பரிய மற்றும் நிரப்பு மருத்துவச் சட்டம் 2016", "Act 775"]
+framework: history-culture
 ---
 
 في أراضي المزارع القديمة بماليزيا، وفي أزقة التاميل في مدنها، يمكنك أن تجد متجرًا للأعشاب — أعشاب مجففة ومساحيق (choornam) وزيوت مرصوفة صفوفًا على رفوفه. وليست هذه من قبيل المصادفة؛ بل هي آثار تقليد طبي يتجاوز عمره قرنًا ونصف القرن.

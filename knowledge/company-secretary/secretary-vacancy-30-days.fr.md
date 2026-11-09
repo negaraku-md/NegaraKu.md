@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "appoint-company-secretary" }
 related: ["secretary-resignation", "appoint-company-secretary", "changing-company-secretary"]
 keywords: ["vacance de secrétaire de société 30 jours", "section 240 Companies Act 2016", "poste de secrétaire vacant Malaisie", "sanction absence de secrétaire de société Malaisie", "section 235 Companies Act 2016"]
+framework: rules
 ---
 
 La plupart des administrateurs d'une Sdn Bhd découvrent cette règle comme on

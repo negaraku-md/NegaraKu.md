@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "unit-trust-funds-malaysia" }
 related: ["bursa-malaysia", "securities-commission-malaysia", "unit-trust-funds-malaysia"]
 keywords: ["CDS account", "Bursa Anywhere", "stockbroker Malaysia", "how to buy shares", "brokerage fees", "clearing fee", "stamp duty shares"]
+framework: how-to
 ---
 
 Memiliki sebagian kecil dari Maybank atau Tenaga dimulai dengan dua akun, bukan satu — dan keduanya bukan akun bank. Sebelum Anda dapat membeli satu saham pun di Bursa Malaysia, Anda memerlukan tempat untuk *menyimpan* saham dan tempat untuk *membuat pesanan*. Berikut adalah cara keduanya berpadu, dan berapa sebenarnya biaya setiap transaksi.

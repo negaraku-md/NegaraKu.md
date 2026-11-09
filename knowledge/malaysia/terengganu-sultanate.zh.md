@@ -60,6 +60,7 @@ social:
   hashtags: ["TerengganuSultanate", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded:
   - "苏丹王朝确切的立国年份——各资料分别给出1708年（由柔佛宗主扶立）与1724／1725年（完全独立）；其确切日期应对照一部学术史著加以查证，例如 Haji Buyong Adil 的《登嘉楼史》（Sejarah Terengganu）。"
+framework: history-culture
 ---
 
 早在任何苏丹坐上它的王座之前，登嘉楼内陆一处河畔的一方花岗岩，便已把这个州的命运刻进了石头里。登嘉楼碑文石（Batu Bersurat Terengganu）——登嘉楼的铭刻之石——带着一个读作1303年的纪年，在它那风化的石面上，以[爪夷文](/zh/arts-culture/jawi-script)那源自阿拉伯、盘绕回环的字母，一位统治者命令他的子民坚守伊斯兰。它是马来世界任何地方中，爪夷书写与伊斯兰教法有确切纪年的最古老证据。那个最终将以这片土地为名的苏丹王朝，要在四个多世纪之后才会到来——但它将要捍卫的那份信仰，早已先在此处被刻下。

@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "pdpa-2010" }
 related: ["mykad", "jpn", "pdpa-2010"]
 keywords: ["mydigital id", "identiti digital nasional malaysia", "myniise", "myjpj mydigital id", "daftar mydigital id"]
+framework: explainer
 ---
 
 你或许已经在不知不觉中遇见过它：当你打开 MyJPJ 或尝试更新路税时，出现的一个新的登录画面。那就是 MyDigital ID，而在整个 2026 年，它正从一个可选项转变为通往越来越多政府服务的唯一入口。

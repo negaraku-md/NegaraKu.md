@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#PenangRoadFamousLaksa", "#AssamLaksa", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 George Town-இல் Penang Road Famous Laksa-ஐப் போல் பழக்கப்பட்ட தெரு உணவுப் பெயர்கள்

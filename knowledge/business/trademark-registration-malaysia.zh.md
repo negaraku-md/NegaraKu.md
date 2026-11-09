@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["trademark-classes-fees-malaysia", "ip-ownership-malaysia", "company-name-search-ssm"]
 keywords: ["trademark registration malaysia", "myipo trademark", "trademark fee malaysia", "trademarks act 2019", "madrid protocol malaysia", "register trademark malaysia"]
+framework: explainer
 ---
 
 在 SSM 保留一个公司名称，什么也保护不了。它能阻止另一家公司以令人混淆的相似名称注册

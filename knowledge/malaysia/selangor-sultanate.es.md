@@ -62,6 +62,7 @@ verificationNeeded:
   - "La fecha formal en que Selangor ingresó en los Estados Malayos Federados: las fuentes varían entre el acuerdo de federación de 1895 y la entrada en vigor de los EMF el 1 de julio de 1896. El artículo usa 1896; confírmese frente al texto del tratado de la Federación de Estados Malayos o al Archivo Nacional de Malasia (Arkib Negara Malaysia)."
   - "El año exacto en que el primer Residente británico de Selangor (James Guthrie Davidson) asumió el cargo: las fuentes dan tanto 1874 como 1875. Confírmese con una historia académica como la obra de J. M. Gullick sobre Selangor."
   - "La fecha de la muerte del Sultán Salehuddin Shah (las fuentes dan 1778 y 1782) y los detalles precisos de la coronación de 1766 en Kota Lumut; confírmese con una historia académica de Selangor."
+framework: history-culture
 ---
 
 En la costa occidental de la península malaya, donde los ríos Klang y Selangor desembocan en el Estrecho de Malaca, un pueblo marinero del extremo opuesto del archipiélago construyó uno de los estados más prósperos de la península. Su fortuna no se construyó sobre especias ni oro, sino sobre el estaño —el mineral gris enterrado en los valles que, en el plazo de un siglo, arrastraría al joven sultanato a una guerra por sus propias riquezas y, con el tiempo, bajo la sombra de un Residente británico—. Esta es la historia del Sultanato de Selangor, una dinastía bugis cuyo linaje aún se sienta hoy en el trono.

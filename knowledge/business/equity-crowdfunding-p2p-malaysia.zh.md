@@ -87,6 +87,7 @@ relations:
   - { rel: "compares-with", to: "sme-financing-malaysia" }
 related: ["sme-financing-malaysia", "share-capital-malaysia", "shareholders-agreement-malaysia"]
 keywords: ["equity crowdfunding malaysia", "p2p financing malaysia", "ecf malaysia", "sc recognized market operator", "raise funds sme malaysia", "invoice financing p2p malaysia", "startup funding malaysia"]
+framework: decision
 ---
 
 一家因为没有抵押品而被三家银行拒绝的马来西亚中小型企业，还有第二道受规管的门，而多数

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "how-malaysian-healthcare-works" }
 related: ["how-malaysian-healthcare-works", "government-hospitals"]
 keywords: ["pendermaan organ", "derma organ", "transplan", "NTRC", "ikrar penderma", "fatwa organ", "kematian otak", "MySejahtera"]
+framework: explainer
 ---
 
 Mỗi năm, hàng nghìn bệnh nhân tại Malaysia chờ đợi một cuộc gọi điện thoại có thể không bao giờ đến — cuộc gọi báo rằng một tạng để cứu mạng họ cuối cùng đã sẵn sàng. Đằng sau danh sách chờ dài đó là một nghịch lý: hàng trăm nghìn người dân đã đăng ký nguyện vọng hiến tạng, nhưng chỉ một phần rất nhỏ trong số đó thực sự được thực hiện.

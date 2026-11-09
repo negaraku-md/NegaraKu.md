@@ -80,6 +80,7 @@ relations:
   - { rel: "affects", to: "bumiputera-equity-requirements" }
 related: ["external-trade", "matrade", "anti-dumping-countervailing-duties", "bumiputera-equity-requirements"]
 keywords: ["CPTPP Malaysia", "Trans-Pacific Partnership Malaysia", "CPTPP ratification", "CPTPP certificate of origin", "CPTPP tariff elimination", "CPTPP members", "Malaysia free trade agreement"]
+framework: explainer
 ---
 
 バンクーバー向けに出荷するマレーシアの菓子輸出業者は、CPTPPが発効したその日から15%の輸入関税の支払いを止めた——そしてこの一つの税目こそが、マレーシアがこれまでに締結した中で最も広範な貿易協定の一つを垣間見せる小さな窓である。環太平洋パートナーシップに関する包括的及び先進的な協定（CPTPP）は、マレーシアの物品、サービス及び投資が太平洋の両岸にまたがる十数の経済圏の間をどのように移動するかを作り替える。同協定はまた、税関の窓口をはるかに超えた規律——国有企業がどのように競争するか、知的財産がどのように執行されるか、そして外国投資家との紛争がどのように解決されるか——にマレーシアを従わせるものでもある。

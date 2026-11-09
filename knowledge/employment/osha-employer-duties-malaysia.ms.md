@@ -113,6 +113,7 @@ relations:
   - { rel: "governs", to: "employment" }
 related: ["labour-law-map-malaysia", "new-hire-statutory-checklist", "employee-vs-contractor-malaysia"]
 keywords: ["osha 1994 malaysia", "penyelaras osh malaysia", "kewajipan majikan akta keselamatan dan kesihatan pekerjaan", "jawatankuasa keselamatan dan kesihatan 40 pekerja", "pindaan osha 2022"]
+framework: rules
 ---
 
 Tanya mana-mana PKS Malaysia sama ada OSHA terpakai kepadanya, dan jawapannya biasanya

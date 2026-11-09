@@ -84,6 +84,7 @@ relations:
 related: ["batik", "wayang-kulit", "kelantan"]
 entity: "Wau"
 keywords: ["wau", "wau bulan", "layang-layang tradisional", "kraf Kelantan", "Adiguru Kraf wau", "cerf-volant traditionnel"]
+framework: history-culture
 ---
 
 Avant de voir un wau, on l'entend. Un wau traditionnel bien fait bourdonne tout le temps qu'il est dans les airs : ce n'est pas le bruit du vent, mais une note délibérément intégrée à sa construction.

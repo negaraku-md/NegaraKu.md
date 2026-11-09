@@ -86,6 +86,7 @@ relations:
   - { rel: "affects", to: "capital-allowances" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "company-tax-residence", "income-tax-act-1967", "dormant-company-audit-exemption"]
 keywords: ["ترحيل الخسائر التجارية في ماليزيا", "business loss carry forward Malaysia", "إعفاء المجموعة المادة 44A", "section 44A group relief", "بدلات رأس المال غير المستوعبة", "unabsorbed capital allowances", "سقف الخسائر 10 سنوات", "التغيّر الجوهري في المساهمة"]
+framework: explainer
 ---
 
 شركتان في المجموعة نفسها، كلتاهما تحقّق خسائر، ولدى كلتيهما مديرون يفترضون أن

@@ -111,6 +111,7 @@ relations:
   - { rel: "related-to", to: "tax-penalties" }
 related: ["offboarding-statutory-checklist", "pcb-monthly-tax-deduction", "expatriate-and-non-resident-tax", "tax-penalties", "tax-appeal"]
 keywords: ["penyelesaian cukai Malaysia", "SPC LHDN", "surat penyelesaian cukai", "borang CP21", "borang CP22A", "e-SPC MyTax", "tahanan 90 hari penyelesaian cukai", "seksyen 83(5) Akta Cukai Pendapatan"]
+framework: rules
 ---
 
 Tim penggajian menganggap penyelesaian pajak sebagai sekadar suatu formulir. Ia

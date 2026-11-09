@@ -114,6 +114,7 @@ relations:
   - { rel: "related-to", to: "cbcr-and-master-file" }
 related: ["cbcr-and-master-file", "permanent-establishment", "corporate-tax-rates", "losses-and-group-relief"]
 keywords: ["अंतरण-मूल्यन दस्तावेज़ीकरण मलेशिया", "transfer pricing documentation Malaysia", "समकालीन TPD", "contemporaneous TPD Malaysia", "धारा 113B शास्ति", "section 113B penalty", "अधिभार 140A(3C)", "P.U.(A) 165/2023", "अंतरण-मूल्यन सीमा"]
+framework: rules
 ---
 
 14 दिन वह हिस्सा है जो लोगों को बर्बाद कर देता है। LHDN, Income Tax (Transfer

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "asean-free-trade-area" }
 related: ["miti", "malaysia-cptpp"]
 keywords: ["RCEP", "Malaysia trade agreement", "rules of origin", "Form RCEP", "tariff elimination", "ASEAN", "MITI", "free trade agreement"]
+framework: explainer
 ---
 
 Ký một giấy chứng nhận xuất xứ, và một hàng hóa sản xuất tại Malaysia có thể dịch chuyển miễn thuế khắp một thị trường trải dài từ Auckland đến Bắc Kinh đến Kuala Lumpur. Đó, trong một dòng, là điều RCEP đã thay đổi đối với các nhà xuất khẩu Malaysia.

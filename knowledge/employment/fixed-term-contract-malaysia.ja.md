@@ -78,6 +78,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-contract-malaysia", "unfair-dismissal-malaysia", "termination-benefits-malaysia", "employee-vs-contractor-malaysia"]
 keywords: ["fixed term contract malaysia", "contract renewal malaysia employment", "non renewal dismissal malaysia", "project contract employee malaysia", "temporary contract malaysia law"]
+framework: explainer
 ---
 
 有期雇用契約は、マレーシア市場では一種の安全装置として売り込まれている——1年間雇い、期末に判断し、解雇も給付もなしに手を引く。その手法が通用するのはちょうど一度だけである。この仕掛けは反復使用で破綻し、しかも遡及的に破綻する——12件目の1年契約を履行していると思っていた従業員が、実は2年目からずっと無期従業員であったことが判明する。

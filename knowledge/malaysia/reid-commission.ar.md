@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "nine-royal-houses" }
 related: ["independence-1957", "malayan-union", "formation-of-malaysia-1963"]
 keywords: ["لجنة ريد", "Reid Commission", "دستور اتحاد الملايو", "Federation of Malaya Constitution", "اللورد ريد", "Lord Reid", "إيفور جينينغز", "Ivor Jennings", "دستور 1957", "1957 constitution", "استقلال الملايو", "Malayan independence"]
+framework: profile
 ---
 
 عندما اتفق قادة الملايو والحكومة البريطانية، في مطلع عام 1956، على أن يحلَّ الاستقلال بحلول أغسطس 1957، واجهوا مشكلة لم يكن الموعد النهائي قادرًا على حلِّها وحده: لم يكن للبلد الجديد دستور. وبدلًا من أن يكتبوه بأنفسهم، أسندوا المهمة إلى خمسة من فقهاء القانون — لم يكن أيٌّ منهم من الملايو — وطلبوا إليهم أن يصمِّموا، من الخارج، الآلية القانونية لدولة لن يعيشوا فيها.

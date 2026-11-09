@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "mbrs-2" }
 related: ["audit-exemption", "financial-statements-lodgement", "mbrs-2", "sdn-bhd-filing-calendar", "mfrs-vs-mpers"]
 keywords: ["unaudited financial statements Malaysia", "audit exemption certificate", "Practice Directive 10/2024 lodgement", "lodge unaudited accounts SSM", "exempt private company certificate section 260"]
+framework: rules
 ---
 
 감사 면제 자격을 얻는 것은 준수 문제의 끝처럼 느껴집니다. 그것은 다른 문제의 시작인데,

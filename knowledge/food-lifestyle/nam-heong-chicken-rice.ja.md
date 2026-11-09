@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#NamHeong", "#ChickenRice", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Jalan Sultan、クアラルンプール旧市街の只中で、香ばしい飯の上にのった茹で鶏の一皿が、

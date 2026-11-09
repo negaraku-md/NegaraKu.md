@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "zakat-pendapatan" }
 related: []
 keywords: ["zakat rebat cukai", "Seksyen 6A", "Akta Cukai Pendapatan 1967", "rebat cukai zakat LHDN", "zakat vs pelepasan cukai", "badan zakat negeri"]
+framework: explainer
 ---
 
 RM1,000 ஜகாத் (zakat) செலுத்துங்கள், உங்கள் வருமான வரி சரியாக RM1,000 குறையும் — மற்ற பெரும்பாலான வரிக் கழிவுகளைப் போல அதில் ஒரு சிறு பகுதி மட்டும் அல்ல. இந்த வேறுபாடே மலேசியாவில் முஸ்லிம் வரி செலுத்துவோரை எப்போதும் குழப்புகிறது; அது ஒரே ஒரு சொல்லில் அடங்கியுள்ளது: *தள்ளுபடி* (rebat), *நிவாரணம்* (pelepasan) அல்ல.

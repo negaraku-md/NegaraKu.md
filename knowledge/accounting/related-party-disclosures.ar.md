@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016"]
 keywords: ["MFRS 124", "الأطراف ذات العلاقة", "الحساب الجاري للمدير", "قرض المدير", "MBRS", "IAS 24", "القوائم المالية", "related party disclosures Malaysia"]
+framework: explainer
 ---
 
 في معظم شركات Sdn Bhd المملوكة لعائلات في ماليزيا، يتحرّك المال دخولًا وخروجًا دون كثير من

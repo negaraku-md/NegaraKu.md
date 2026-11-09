@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "applying-for-malaysian-citizenship-article-15" }
 related: []
 keywords: ["kewarganegaraan keturunan", "Perkara 14(1)(b)", "Borang D", "lahir luar negara", "JPN", "Jadual Kedua", "pindaan perlembagaan 2024", "Perkara 15(2)"]
+framework: explainer
 ---
 
 一名婴儿在伦敦一家医院出生，父母是在当地工作的马来西亚人。当地的出生证明写着婴儿在英国出生，然而在马来西亚法律下，他可能已经是一名公民——前提是这一身份被正确记录。这一身份如何得到确认、谁符合资格，都是触及《联邦宪法》根本条文的问题。

@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-jakim" }
 related: []
 keywords: ["vaksin halal", "hukum vaksin", "gelatin dalam ubat", "fatwa vaksin COVID-19", "darurat", "maqasid syariah", "JAKIM", "Muzakarah Fatwa Kebangsaan"]
+framework: explainer
 ---
 
 วัคซีนหนึ่งขวดอาจมีเจลาตินเล็กน้อยเป็นสารคงสภาพ — และจากรายละเอียดเล็ก ๆ นั้นเองที่ก่อให้เกิดหนึ่งในคำถามทางศาสนาที่ครอบครัวมุสลิมในมาเลเซียถามบ่อยที่สุด คือ มันฮาลาลหรือไม่ คำตอบไม่ใช่เพียง "ใช่" หรือ "ไม่ใช่" แต่เป็นผลของกระบวนการประเมินที่มีโครงสร้างซึ่งเกี่ยวข้องกับองค์กรฟัตวา การศึกษาทางวิทยาศาสตร์ และหลักการฟิกฮ์เฉพาะหลายประการ

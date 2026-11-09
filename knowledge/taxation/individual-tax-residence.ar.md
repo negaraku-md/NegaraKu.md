@@ -80,6 +80,7 @@ relations:
   - { rel: "compares-with", to: "company-tax-residence" }
 related: ["personal-tax-rates", "company-tax-residence", "personal-tax-reliefs"]
 keywords: ["الإقامة الضريبية للأفراد ماليزيا", "182 يومًا ضريبة ماليزيا", "section 7(1) Income Tax Act", "taraf mastautin individu", "هل أنا مقيم ضريبي في ماليزيا", "غير المقيم 30% ماليزيا"]
+framework: explainer
 ---
 
 يهبط مغترب في كوالالمبور في 1 أكتوبر، ويعمل حتى نهاية السنة، فيقتطع فريق الرواتب

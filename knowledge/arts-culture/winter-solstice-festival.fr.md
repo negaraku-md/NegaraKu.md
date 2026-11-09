@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "chinese-dialects"]
 keywords: ["冬至", "汤圆", "汤丸", "咸汤圆", "冬大过年", "冬至大如年", "添岁", "搓汤圆", "Tang Chek", "Dongzhi", "马来西亚华人", "节气", "Winter Solstice Festival"]
+framework: history-culture
 ---
 
 Un soir de fin décembre, dans la cuisine, le parfum de la farine de riz gluant se mêle à la douceur du bouillon de gingembre. La famille se rassemble autour de la table et roule, un à un, de petits morceaux de pâte de riz en boules — certaines blanches, d'autres teintes en rose et en vert tendre. Les boules dans les mains des enfants sont de toutes les tailles, et les adultes, tout en roulant, disent : une fois les tangyuan mangés, on a pris un an de plus. Ce jour est le solstice d'hiver.

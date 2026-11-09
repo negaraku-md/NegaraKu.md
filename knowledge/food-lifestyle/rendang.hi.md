@@ -96,6 +96,7 @@ social:
     - "#MalaysianFood"
     - "#HariRaya"
     - "#Minangkabau"
+framework: explainer
 ---
 
 हरि राया से पहले के दिनों में किसी मलय रसोई के पास से गुज़रिए तो आप रेंदांग को

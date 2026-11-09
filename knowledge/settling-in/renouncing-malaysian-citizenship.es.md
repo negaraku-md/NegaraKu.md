@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "dual-citizenship-malaysia" }
 related: []
 keywords: ["renuncia a la ciudadanía", "doble ciudadanía Malasia", "dual citizenship Malaysia", "artículo 23", "artículo 24", "Constitución Federal", "Formulario K", "Form K", "privación de ciudadanía", "JPN"]
+framework: explainer
 ---
 
 Un malasio que presta juramento para convertirse en ciudadano de otro país a menudo se sorprende al descubrir que su pasaporte azul y su MyKad ya no son válidos; no por algún acto administrativo oculto, sino porque la propia Constitución Federal (Federal Constitution) trata la doble ciudadanía como algo que no está reconocido. La cuestión gira en torno a dos disposiciones estrechamente relacionadas: el artículo 23 (renuncia voluntaria) y el artículo 24 (privación al adquirir una ciudadanía extranjera).

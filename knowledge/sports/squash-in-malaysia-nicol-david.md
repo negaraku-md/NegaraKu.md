@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
 related: []
 keywords: ["squash", "Nicol David", "SRAM", "Malaysian squash", "Ng Eain Yow", "Sivasangari Subramaniam", "World Open"]
+framework: profile
 ---
 
 For nine straight years, the best squash player on the planet came from Penang. Nicol David did not just win in Malaysia's most successful individual sport — she rewrote what dominance in it looks like, holding the world No. 1 ranking for **108 consecutive months** until September 2015, the longest unbroken reign the game has ever seen.

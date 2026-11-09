@@ -84,6 +84,7 @@ relations:
   - { rel: "compares-with", to: "malaysian-citizenship-by-naturalisation" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["الجنسية", "التسجيل", "المادة 15", "الزوج الأجنبي", "الدستور الاتحادي", "citizenship by registration", "Article 15", "Federal Constitution", "JPN", "مواطن ماليزي"]
+framework: explainer
 ---
 
 الزواج من مواطن ماليزي لا يجعل المرء مواطنًا بحد ذاته. بالنسبة للأزواج الأجانب ولابن المواطن، فإن المسار الذي يُشار إليه عادةً هو «التسجيل» — وهو أحد سبل اكتساب الجنسية المدرجة في الباب الثالث من الدستور الاتحادي. تشرح هذه الصفحة ذلك الإطار القانوني بأسلوب محايد ووصفي؛ وهي ليست مشورة قانونية.

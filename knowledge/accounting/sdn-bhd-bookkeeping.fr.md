@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "e-invoice" }
 related: ["mbrs-2-filing-guide", "mbrs-tagging-errors", "form-c-and-cp204", "financial-year-end", "e-invoice", "mfrs-vs-mpers", "corporate-tax-rates"]
 keywords: ["comptabilité Sdn Bhd", "plan comptable Malaisie", "clôture mensuelle Malaisie", "registres comptables section 245", "réintégration dans la computation fiscale", "registre des déductions pour amortissement fiscal", "rattachement SSMxT plan comptable", "Sdn Bhd bookkeeping", "chart of accounts Malaysia"]
+framework: how-to
 ---
 
 La plupart des conseils de comptabilité pour une Sdn Bhd s'arrêtent aux débits et

@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "orang-asli" }
 related: ["unesco-world-heritage", "peranakan", "orang-asli"]
 keywords: ["Muzium Negara", "Islamic Arts Museum Malaysia", "IAMM", "Perak Museum Taiping", "Sarawak Museum", "Sabah Museum", "Malaysia state museums"]
+framework: history-culture
 ---
 
 マレーシアで最も古い博物館はどこかと大半の旅行者に尋ねれば、クアラルンプールの博物館通りの中心に建つ、宮殿風の屋根を持つ建物——国立博物館（Muzium Negara）——と答えるだろう。しかしその推測は80年もずれている。その称号は、太平にあるささやかな展示館のものであり、それが建てられた当時、国立博物館の敷地にはまだその前身の建物があった。

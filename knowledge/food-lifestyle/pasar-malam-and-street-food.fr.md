@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "malaysian-street-food" }
 related: []
 keywords: ["pasar malam", "pasar tani", "pasar basah", "cuisine de rue", "FAMA", "notation de l'hygiène des établissements de restauration", "marchand ambulant"]
+framework: explainer
 ---
 
 À la tombée de la nuit, une rue tranquille se transforme soudain en une allée de fumée de satay, de monceaux de fruits et de rangées de lumières fluorescentes — c'est le pasar malam, l'une des institutions les plus proches des gens en Malaisie. Avec le pasar tani et le marché de produits frais, il forme un réseau de marchés populaires où les Malaisiens font leurs courses et mangent chaque jour.

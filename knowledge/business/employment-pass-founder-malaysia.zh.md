@@ -121,6 +121,7 @@ keywords:
   - "expatriate pass Malaysia director"
   - "employment pass category I II III"
   - "pas penggajian Malaysia"
+framework: how-to
 ---
 
 击倒外国创办人的，不是任何单一规则，而是操作的先后次序。

@@ -81,6 +81,7 @@ relations:
   - { rel: "part-of", to: "financial-year-end" }
 related: ["financial-year-end", "financial-reporting-deadlines", "audit-exemption-thresholds", "audit-exemption", "sdn-bhd-first-year-compliance", "basis-period-and-accounting-date", "sdn-bhd-bookkeeping"]
 keywords: ["first financial year Sdn Bhd", "18 months first financial statements Malaysia", "section 248 Companies Act 2016", "new company financial year end Malaysia", "first audit Sdn Bhd", "audit exemption first year"]
+framework: explainer
 ---
 
 每一家新 Sdn Bhd 都被告知，它有十八个月才要交出第一份账目，而这被说成是一项宽待——

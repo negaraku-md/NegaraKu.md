@@ -74,6 +74,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
 related: []
 keywords: ["kertas putih kesihatan", "reformasi kesihatan", "pembiayaan kesihatan", "KKM", "insurans kesihatan nasional", "Rakan KKM"]
+framework: explainer
 ---
 
 Phòng khám nhà nước tiếp nhận gần hai phần ba số lượt khám ngoại trú của cả nước — nhưng chỉ chiếm khoảng một trong bốn cơ sở chăm sóc ban đầu. Chính sự mất cân đối này, cùng nhiều yếu tố khác, đã thúc đẩy Bộ Y tế Malaysia (Kementerian Kesihatan Malaysia, KKM) soạn thảo văn kiện chính sách quan trọng nhất trong một thế hệ: Sách Trắng Y tế.

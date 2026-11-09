@@ -84,6 +84,7 @@ keywords:
   - "Malaysia student pass application"
   - "public vs private university Malaysia"
   - "MOHE approved institution Malaysia"
+framework: explainer
 ---
 
 गलत प्रकार के संस्थान का प्रस्ताव-पत्र वीज़ा के लिए बेकार है, भले ही कार्यक्रम स्वयं पूरी तरह मान्यता-प्राप्त हो। वही अंतर — मान्यता-प्राप्त कार्यक्रम बनाम अंतरराष्ट्रीय-विद्यार्थियों-के-लिए-स्वीकृत संस्थान — वहाँ है जहाँ से अधिकांश उलझन शुरू होती है, किसी के EMGS फ़ॉर्म भरने से काफ़ी पहले।

@@ -119,6 +119,7 @@ keywords:
   - "lesen perniagaan online"
   - "e-commerce regulations Malaysia 2024"
   - "online seller legal requirements Malaysia"
+framework: rules
 ---
 
 ในมาเลเซียไม่มีสิ่งที่เรียกว่าใบอนุญาตอีคอมเมิร์ซ ไม่มีกฎหมายฉบับใดสร้างมันขึ้น ไม่มี

@@ -72,6 +72,7 @@ relations:
   - { rel: "governs", to: "financial-services-act-2013" }
 related: ["foreign-exchange-policy-malaysia", "online-business-licence-malaysia"]
 keywords: ["ترخيص المدفوعات ماليزيا", "ترخيص النقود الإلكترونية ماليزيا", "موافقة BNM للمدفوعات", "الاستحواذ التجاري ماليزيا", "النقود الإلكترونية محدودة الغرض", "FSA 2013 schedule 1"]
+framework: rules
 ---
 
 يضيف مؤسس محفظة ليتمكن العملاء من الشحن والدفع بشكل أسرع. يذكر أحدهم ترخيص BNM

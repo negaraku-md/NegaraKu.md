@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "northeast-monsoon" }
 related: []
 keywords: ["Perhentian", "Redang", "Tioman", "Kapas", "parc marin", "droit de conservation", "mousson du nord-est", "îles de Malaisie", "snorkeling", "plongée"]
+framework: explainer
 ---
 
 Présentez-vous dans un complexe balnéaire de Redang en décembre et vous trouverez probablement les embarcations absentes, l'embarcadère silencieux et le centre de plongée fermé. Les îles de la côte est suivent un calendrier écrit par la mer, et non par la brochure touristique, et un ensemble de règles de parc marin que la plupart des nouveaux venus ne découvrent qu'au guichet.

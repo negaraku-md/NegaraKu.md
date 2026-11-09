@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["non-deductible-expenses", "section-33-deductibility"]
 keywords: ["entertainment expense malaysia tax", "39(1)(l) entertainment", "50% entertainment deduction", "public ruling 4/2015", "promotional gift tax deduction malaysia"]
+framework: rules
 ---
 
 マレーシアの税務計算のほとんどは、交際費の行を機械的に半分にして先へ進んでしまう。これは両方向で誤りである。半分にされているものの一部は全額不算入とすべきであり、そのかなりの部分はそもそも半分にすべきではない。

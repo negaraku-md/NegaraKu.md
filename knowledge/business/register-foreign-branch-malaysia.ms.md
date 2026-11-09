@@ -123,6 +123,7 @@ keywords:
   - "ejen tempatan syarikat asing Malaysia"
   - "yuran pendaftaran cawangan SSM"
   - "penyata tahunan syarikat asing Malaysia"
+framework: how-to
 ---
 
 Yuran pendaftaran ialah bahagian yang dibajet oleh semua orang. Ia bukan bahagian yang menyakitkan.

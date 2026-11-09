@@ -88,6 +88,7 @@ verificationNeeded:
   - "La relación precisa entre el apam balik y el martabak manis / terang bulan de Indonesia (si son estrictamente el mismo plato o desarrollos regionales distintos): verificar con una referencia culinaria fiable."
   - "La difusión y correspondencia exacta de los nombres regionales (ban jian kueh, min chiang kueh, hok lo pan, kuih haji, apom balek y otros) con comunidades y dialectos concretos: verificar con una fuente lingüística o patrimonial; la atribución de nombres en los medios gastronómicos es inconsistente."
   - "Si la versión fina y crujiente es universalmente el mismo artículo que el ban jian kueh / min chiang kueh o un aperitivo relacionado pero distinto: las fuentes se solapan pero no son consistentes; verificar con una fuente patrimonial local."
+framework: explainer
 ---
 
 Camina por casi cualquier [mercado nocturno](/es/food-lifestyle/pasar-malam-and-street-food) de

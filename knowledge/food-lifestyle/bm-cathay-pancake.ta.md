@@ -76,6 +76,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["ApamBalik", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 பினாங்கில் MICHELIN அங்கீகாரம் பெரும்பாலும் ஜார்ஜ் டவுனில் குவிந்திருக்கிறது,

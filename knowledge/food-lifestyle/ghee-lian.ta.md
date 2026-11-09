@@ -72,6 +72,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#GheeLian", "#Penang", "#BibGourmand", "#StreetFood", "#Malaysia"]
+framework: profile
 ---
 
 tom yum பிறப்பால் தாய்லாந்தைச் சேர்ந்தது; ஆனால் ஜார்ஜ் டவுனின் பழைய Esplanade

@@ -96,6 +96,7 @@ verificationNeeded:
   - "El origen del bak kut teh (Klang es el lugar de nacimiento más citado, con estilos hokkien y teochew reivindicados por ambos) y del arroz con pollo hainanés (adaptado del pollo de Wenchang de Hainan, con reivindicaciones rivales de Malasia y Singapur) — estos puntos son disputados y deberían confirmarse con fuentes de historia culinaria o patrimonio."
   - "La atribución dialectal precisa de platos concretos (por ejemplo, si un determinado estilo de Hokkien mee es la versión de salsa oscura de KL o la de sopa de Penang, y qué comunidad localizó primero la cocina en cazuela y el tai chow) — la nomenclatura regional se superpone, así que confírmelo con fuentes locales."
   - "Si locales o platos concretos mencionados son sin cerdo o con certificación halal — esto varía según el operador y cambia con el tiempo; verifíquelo por establecimiento en lugar de generalizar."
+framework: explainer
 ---
 
 Pregunta qué significa "comida china" en Malasia y no obtendrás una sola respuesta.

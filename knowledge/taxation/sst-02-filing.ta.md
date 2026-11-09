@@ -78,6 +78,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-registration", "imported-taxable-services", "sales-tax-explained"]
 keywords: ["SST-02", "SST filing deadline Malaysia", "SST late payment penalty", "taxable period SST", "MySST return"]
+framework: rules
 ---
 
 அபராத ஏணி தொண்ணூறு நாட்களில் ஏறுவதை நிறுத்திவிடுகிறது. அந்தப் புள்ளியைத்

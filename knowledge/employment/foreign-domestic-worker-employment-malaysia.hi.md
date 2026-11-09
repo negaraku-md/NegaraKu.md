@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "foreign-worker-levy-malaysia" }
 related: ["employment-act-1955", "foreign-worker-levy-malaysia", "minimum-wage-malaysia"]
 keywords: ["विदेशी घरेलू कामगार मलेशिया", "foreign domestic helper", "FDH Malaysia", "घरेलू नौकरानी मलेशिया", "MoU इंडोनेशिया घरेलू कामगार", "bon keselamatan pekerja asing", "KWSP छूट घरेलू कामगार"]
+framework: rules
 ---
 
 एक विदेशी घरेलू कामगार मलेशिया में किसी कारख़ाने या बाग़ान के श्रमिक से बिल्कुल अलग दरवाज़े से प्रवेश करता है — न किसी क्षेत्र-कोटा के माध्यम से, न विदेशी-श्रमिक One-Stop Centre के माध्यम से, और न श्रम-क़ानून के पूर्ण संरक्षण के तहत। यह व्यवस्था अपने आप में खड़ी है, और जो नियोक्ता यह मान लेते हैं कि प्रक्रिया किसी सामान्य श्रमिक को नियुक्त करने जैसी ही है, वे अक्सर ग़लती कर बैठते हैं।

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "traffic-summons-saman" }
 related: ["road-transport-act-1987", "traffic-summons-saman"]
 keywords: ["cukai jalan", "LKM", "Lesen Kenderaan Motor", "renew roadtax", "MyJPJ", "e-LKM", "Pos Malaysia JPJ", "MyEG roadtax", "Puspakom B2"]
+framework: explainer
 ---
 
 Banyak orang menyebutnya "pajak jalan" dan menganggapnya serupa dengan pajak penghasilan atau pajak penjualan — dibayar, selesai, tidak perlu dipikirkan lagi sampai tahun depan. Tetapi nama resminya di JPJ adalah Lesen Kenderaan Motor (LKM): sejenis **lisensi**, bukan pajak. Perbedaan ini bukan sekadar soal istilah. Ia menjelaskan kenapa ada jendela waktu yang ketat untuk memperbaruinya, dan kenapa kendaraan yang terlalu lama tanpa LKM tidak dapat sekadar "bayar dan selesai."

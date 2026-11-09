@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: []
 keywords: ["mer de Chine méridionale", "Batu Puteh", "Pedra Branca", "Sabah", "UNCLOS", "souveraineté", "différend maritime", "Spratly"]
+framework: explainer
 ---
 
 La carte de la Malaisie accrochée au mur d'une école paraît calme et bien établie — mais à ses frontières maritimes, ces lignes se discutent encore à la table des négociations et devant les cours internationales. La Malaisie a trois questions territoriales et maritimes qui ne sont pas encore pleinement réglées, et chacune est traitée différemment : l'une devant une cour, l'autre devant une commission de l'ONU, et une autre laissée délibérément en sommeil.

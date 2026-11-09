@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "nine-royal-houses" }
 related: ["independence-1957", "malayan-union", "formation-of-malaysia-1963"]
 keywords: ["Reid Commission", "Federation of Malaya Constitution", "Lord Reid", "Ivor Jennings", "1957 constitution", "Malayan independence"]
+framework: profile
 ---
 
 Apabila para pemimpin Tanah Melayu dan kerajaan British bersetuju, pada awal 1956, bahawa kemerdekaan harus tiba menjelang Ogos 1957, mereka menghadapi satu masalah yang tidak dapat diselesaikan oleh tarikh akhir semata-mata: negara baharu itu tidak mempunyai perlembagaan. Daripada menulisnya sendiri, mereka menyerahkan tugas itu kepada lima ahli kehakiman — tiada seorang pun daripada mereka orang Tanah Melayu — dan meminta mereka mereka bentuk, dari luar, jentera perundangan sebuah negara yang tidak akan mereka diami.

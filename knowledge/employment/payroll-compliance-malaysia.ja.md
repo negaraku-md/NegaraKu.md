@@ -194,6 +194,7 @@ relations:
   - { rel: "governs", to: "income-tax-act-1967" }
 related: ["labour-law-map-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "pcb-mtd-malaysia", "epf-foreign-workers-malaysia"]
 keywords: ["payroll compliance Malaysia", "statutory contribution deadline Malaysia", "EPF SOCSO EIS PCB due date", "employer payroll obligations Malaysia", "HRD Corp levy deadline"]
+framework: rules
 ---
 
 マレーシアの給与計算が狂う原因は、ほとんど算術にはない。5つの異なる機関がそれぞれ、自分こそが唯一報告すべき相手だと思い込んでおり、しかもどの機関も、残る4つが何を求めているかを教えてはくれない、というのがその理由である。

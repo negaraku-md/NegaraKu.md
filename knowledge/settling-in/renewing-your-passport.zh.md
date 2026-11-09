@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "registering-a-birth" }
 related: ["imigresen", "mykad", "registering-a-birth"]
 keywords: ["pasport Malaysia", "renew pasport online", "MyOnline Passport", "pembaharuan pasport antarabangsa", "gantian pasport hilang", "kaunter UTC pasport", "Jabatan Imigresen Malaysia pasport", "yuran pasport Malaysia", "pasport 10 tahun Malaysia"]
+framework: how-to
 ---
 
 你的护照还有一个月就到期，机票已经买好，你也不确定是否需要请假去移民局排队。对多数大马人来说，答案是：不需要。但对某些情况——遗失、损毁，或首次申请——那条简便的在线途径其实完全走不通。

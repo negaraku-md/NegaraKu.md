@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "sst-explained" }
 related: ["fnb-licence-malaysia"]
 keywords: ["start a restaurant malaysia", "how to open a restaurant malaysia", "F&B licence malaysia", "restaurant licence DBKL", "food handler certificate malaysia", "restaurant service tax malaysia", "open a cafe malaysia"]
+framework: how-to
 ---
 
 Mở một nhà hàng là một trong những cách phổ biến nhất để vào kinh doanh ở Malaysia — và là một trong những cách nặng về giấy phép nhất. Giữa hội đồng địa phương, Bộ Y tế, cơ quan thuế và các cơ quan lao động, một doanh nghiệp thực phẩm chạm vào nhiều cơ quan quản lý hơn gần như bất kỳ doanh nghiệp nhỏ nào khác. Tin tốt là trình tự đã quen thuộc; làm nó theo thứ tự đúng và nó có thể quản lý được.

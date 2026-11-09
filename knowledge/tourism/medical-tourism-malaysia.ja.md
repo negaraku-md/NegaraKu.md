@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "tourism-malaysia" }
 related: ["tourism"]
 keywords: ["medical tourism Malaysia", "healthcare travel", "MHTC", "Malaysia Healthcare Travel Council", "JCI hospitals Malaysia", "IVF Malaysia", "cardiac care Malaysia"]
+framework: profile
 ---
 
 インドネシアのある家族が心臓バイパス手術のためにペナンへ飛来し、湾岸地域のある夫婦は体外受精のために訪れ、オーストラリアのある退職者は自国では3倍の費用がかかる全身健康診断を予約する。彼らはみな、1年間で160万人を超える人々をマレーシアへ呼び寄せた、ある静かな産業の一部である——観光のためではなく、健康を取り戻すために。

@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "registering-a-civil-marriage" }
 related: ["registering-a-marriage-civil", "syariah-court-system"]
 keywords: ["matrimonio musulmán Malasia", "muslim marriage malaysia", "registro de nikah", "nikah registration", "SPPIM", "wali hakim", "kursus pra perkahwinan", "akad nikah", "matrimonio tribunal syariah", "islamic family law act 303"]
+framework: how-to
 ---
 
 Dos personas están listas para casarse, las familias se han conocido, y la fecha está fijada — pero en Malasia un matrimonio musulmán no se convierte en matrimonio registrado hasta que ha pasado por un proceso administrativo y religioso definido, gestionado por el estado. El islam es un asunto estatal bajo la Constitución Federal, por lo que cada estado y los Territorios Federales tienen su propia promulgación de derecho de familia islámico y su propio Departamento Religioso Islámico Estatal (Jabatan Agama Islam Negeri). Los pasos que siguen son en términos generales similares en todo el país; aquí se usa la ley de los Territorios Federales, la Ley de Derecho de Familia Islámico (Territorios Federales) de 1984 (Islamic Family Law (Federal Territories) Act 1984, Act 303), para las referencias legales exactas.

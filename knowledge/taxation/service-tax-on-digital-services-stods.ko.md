@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["service-tax-act-2018", "withholding-tax-digital-services", "low-value-goods-sales-tax", "sst-registration"]
 keywords: ["service tax on digital services", "SToDS Malaysia", "digital service tax Malaysia 8%", "foreign registered person FRP", "MySToDS DST-01 DST-02", "cukai perkhidmatan digital", "foreign SaaS tax Malaysia", "online services service tax"]
+framework: explainer
 ---
 
 넷플릭스 영수증의 한 줄, 회사의 AWS 청구서에 붙은 세금, Canva나 Adobe 구독에 더해진 몇 링깃 — 이것은 하나의 특정한 말레이시아 세금이 작동하는 것이며, 대부분의 사람이 들어본 적 없는 이름을 가지고 있습니다. 바로 SToDS입니다.

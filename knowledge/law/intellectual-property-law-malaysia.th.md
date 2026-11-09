@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: ["trademark-registration-malaysia"]
 keywords: ["intellectual property Malaysia", "trademark registration Malaysia", "patent Malaysia", "copyright Malaysia", "MyIPO", "Trademarks Act 2019", "Patents Act 1983", "Copyright Act 1987"]
+framework: explainer
 ---
 
 โลโก้ สูตร โค้ดชิ้นหนึ่ง ชื่อแบรนด์ — ทันทีที่สิ่งใดเริ่มทำเงิน คนอื่นก็มีเหตุที่จะลอกเลียน กฎหมายมาเลเซียให้วิธีที่คุณจะพูดว่า "นั่นเป็นของฉัน และนี่คือเอกสารพิสูจน์" ปัญหาคือทรัพย์สินทางปัญญาสามประเภทหลักทำงานในสามวิธีที่ต่างกันโดยสิ้นเชิง และการทำผิดเพียงอย่างเดียวสามารถทำให้ธุรกิจสูญเสียสินทรัพย์ที่มีค่าที่สุด

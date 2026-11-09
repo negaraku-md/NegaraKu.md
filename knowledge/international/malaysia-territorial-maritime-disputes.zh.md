@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: []
 keywords: ["Laut China Selatan", "Batu Puteh", "Pedra Branca", "Sabah", "UNCLOS", "kedaulatan", "pertikaian maritim", "Spratly"]
+framework: explainer
 ---
 
 挂在学校墙上的马来西亚地图看起来平静而确定——但在其海洋边界上，那些线条仍在谈判桌上和国际法庭中被讨论。马来西亚有三项尚未完全解决的领土与海洋问题，每一项都以不同的方式处理：一项在法庭，一项在联合国委员会，还有一项被刻意搁置为休眠状态。

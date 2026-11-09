@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "qingming-festival" }
 related: ["qingming-festival", "chinese-religion-in-malaysia", "mid-autumn-festival", "chinese-new-year"]
 keywords: ["中元节", "鬼节", "盂兰胜会", "盂兰盆", "农历七月", "鬼门开", "好兄弟", "普度", "大士爷", "鬼王", "歌台", "喊标", "标福物", "烧街衣", "金银纸", "马来西亚华人", "槟城", "Hungry Ghost Festival"]
+framework: history-culture
 ---
 
 农历七月一到，槟城、巴生与柔佛不少街角的入夜景象会悄悄改变：路边摆起小桌，上面是水果、米饭、茶水与成叠的金银纸，香烛在暮色里明灭。到了社区空地上，一座数米高、面目威严的纸扎神像被搭了起来，对面架起戏台，入夜后灯光大亮、歌声响起——而台下最前排的一整排椅子，却始终空着。

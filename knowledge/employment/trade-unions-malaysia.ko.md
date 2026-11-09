@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "industrial-relations-act-malaysia" }
 related: []
 keywords: ["kesatuan sekerja", "trade union", "Akta Kesatuan Sekerja 1959", "Akta 262", "JHEKS", "e-TUIS", "pindaan 2024", "perundingan kolektif", "Ketua Pengarah Kesatuan Sekerja"]
+framework: explainer
 ---
 
 수십 년 동안 말레이시아의 공장 근로자는 자신의 사업장을 위한 하나의 "합법적인" 조합에만 가입할 수 있었으며 — 그 조합이 이미 존재하면 다른 어떤 근로자 집단도 새 조합을 설립할 수 없었습니다. 2024년 9월 15일에 발효된 법 개정은 그 근본 전제를 바꾸었습니다.

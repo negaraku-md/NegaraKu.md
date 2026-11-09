@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["court-hierarchy", "federal-constitution", "article-3-religion", "fundamental-liberties"]
 keywords: ["मलेशिया में दीवानी अदालत बनाम शरीयत अदालत", "अनुच्छेद 121(1A) संघीय संविधान", "Mahkamah Tinggi Syariah क्षेत्राधिकार", "civil court vs Syariah court Malaysia", "Article 121(1A) Federal Constitution", "Ninth Schedule State List item 1", "Act 355", "mahkamah sivil dan mahkamah syariah"]
+framework: explainer
 ---
 
 उनके बीच कोई सीढ़ी नहीं है।

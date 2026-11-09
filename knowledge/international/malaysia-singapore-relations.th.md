@@ -87,6 +87,7 @@ relations:
   - { rel: "compares-with", to: "malaysia-indonesia-relations" }
 related: []
 keywords: ["hubungan Malaysia Singapura", "perjanjian air 1962", "RTS Link", "Tambak Johor", "Pulau Batu Puteh", "JS-SEZ", "perpisahan 1965", "dagangan dua hala"]
+framework: explainer
 ---
 
 สองประเทศใช้สะพานร่วมกันหนึ่งสะพาน แหล่งน้ำร่วมกันหนึ่งแหล่ง แรงงานหลายแสนคนที่ไปกลับทุกวัน และประวัติศาสตร์การแยกตัวที่เต็มไปด้วยอารมณ์ ไม่มีความสัมพันธ์ทวิภาคีของมาเลเซียใดที่ใกล้ชิด ซับซ้อน และสำคัญต่อการทำความเข้าใจไปกว่าความสัมพันธ์กับสิงคโปร์

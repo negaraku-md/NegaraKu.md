@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "e-hailing-grab" }
 related: ["klang-valley-rail", "e-hailing-grab"]
 keywords: ["मलेशिया में अंतरनगरीय यात्रा", "KTM ETS", "KTM Intercity", "मलेशिया में एक्सप्रेस बस", "Terminal Bersepadu Selatan", "TBS", "मलेशिया में घरेलू उड़ानें", "AirBorneo", "MASwings", "Rural Air Service", "साबाह सारावाक उड़ानें", "intercity travel Malaysia"]
+framework: explainer
 ---
 
 कुचिंग के लिए उड़ान भरिए, Kuantan के लिए बस लीजिए, या Butterworth के लिए ट्रेन पकड़िए — एक ही

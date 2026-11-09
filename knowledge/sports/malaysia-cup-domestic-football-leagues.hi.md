@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "malaysia-national-football-team" }
 related: []
 keywords: ["Liga Super", "Piala Malaysia", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "bola sepak Malaysia"]
+framework: explainer
 ---
 
 लगभग एक सदी तक, एक ही निकाय — मलेशिया फुटबॉल एसोसिएशन (FAM) — प्रत्येक राष्ट्रीय लीग मैच का आयोजन करता था। फिर, खेल को नया रूप देने वाले एक कदम में, लीगों को चलाने की शक्ति एक वाणिज्यिक कंपनी को सौंप दी गई। यही वह नींव है जिस पर मलेशियाई घरेलू फुटबॉल आज काम करता है।

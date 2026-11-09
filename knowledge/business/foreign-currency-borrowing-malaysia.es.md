@@ -65,6 +65,7 @@ relations:
   - { rel: "part-of", to: "foreign-exchange-policy-malaysia" }
 related: ["foreign-exchange-policy-malaysia", "share-capital-malaysia"]
 keywords: ["endeudamiento en moneda extranjera Malasia", "foreign currency borrowing malaysia", "préstamo de accionista Malasia BNM", "shareholder loan malaysia BNM", "límite préstamo offshore Malasia", "límite de endeudamiento RM100 millones", "Aviso FEP 2"]
+framework: rules
 ---
 
 Una matriz extranjera quiere financiar a su filial malasia con un préstamo de accionista en

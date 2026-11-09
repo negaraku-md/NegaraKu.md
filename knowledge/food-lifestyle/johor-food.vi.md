@@ -95,6 +95,7 @@ verificationNeeded:
   - "Nguồn gốc Trung Đông (thường được nói là ful medames của Ai Cập) của kacang pool, cùng các gốc rễ Indonesia/Betawi và Java gán cho lontong, lodeh, soto và nasi ambeng ở Johor — đây là những gán ghép mang tính giai thoại từ truyền thông ẩm thực và du lịch, chứ không phải lịch sử được ghi chép."
   - "Mức độ vững chắc của khung 'ẩm thực hoàng gia' và Java/Bugis cho ẩm thực Johor nói chung — hợp lý và được nêu rộng rãi, nhưng hãy xác nhận các khẳng định về nhân khẩu và lịch sử ẩm thực với một nguồn học thuật hoặc di sản chứ không phải các bài liệt kê."
   - "Những gắn kết với thị trấn cụ thể (mee bandung và otak-otak với Muar; nasi beriani gam với Batu Pahat; sầu riêng với Muar và Segamat) phản ánh danh tiếng phổ biến; hãy xác nhận bất kỳ khẳng định 'nguồn gốc' nào với một nguồn địa phương hoặc chính thức trước khi nêu như sự thật."
+framework: history-culture
 ---
 
 Băng qua cầu đường bộ từ Singapore và bang Malaysia đầu tiên bạn đặt chân tới là

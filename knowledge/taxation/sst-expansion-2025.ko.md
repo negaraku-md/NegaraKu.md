@@ -142,6 +142,7 @@ relations:
   - { rel: "requires", to: "sst-registration" }
 related: ["sst-explained", "sst-registration", "sst-rate-table", "sst-b2b-exemption", "sst-02-filing"]
 keywords: ["SST expansion 2025", "service tax expansion Malaysia", "Group K rental leasing service tax", "construction service tax 6%", "non-reviewable contract exemption", "private healthcare service tax"]
+framework: rules
 ---
 
 2025년 확대에 관해 유통되는 가장 흔한 단일 오류는 건설이 Group K에 있다는 것입니다. 그렇지

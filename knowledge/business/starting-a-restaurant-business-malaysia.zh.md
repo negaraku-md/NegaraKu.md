@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "sst-explained" }
 related: ["fnb-licence-malaysia"]
 keywords: ["start a restaurant malaysia", "how to open a restaurant malaysia", "F&B licence malaysia", "restaurant licence DBKL", "food handler certificate malaysia", "restaurant service tax malaysia", "open a cafe malaysia"]
+framework: how-to
 ---
 
 开餐厅是在马来西亚进入商界最受欢迎的方式之一——也是执照最繁多的方式之一。在地方政府、卫生部、税务局和劳工当局之间，一门食品生意所接触的监管机构比几乎任何其他小型企业都多。好消息是，这套流程早已成熟；按正确的顺序办理，它是可以应对的。

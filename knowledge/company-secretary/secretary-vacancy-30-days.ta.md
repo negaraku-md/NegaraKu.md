@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "appoint-company-secretary" }
 related: ["secretary-resignation", "appoint-company-secretary", "changing-company-secretary"]
 keywords: ["company secretary vacancy 30 days", "section 240 Companies Act 2016", "office of secretary vacant Malaysia", "no company secretary penalty Malaysia", "section 235 Companies Act 2016"]
+framework: rules
 ---
 
 பெரும்பாலான Sdn Bhd இயக்குநர்கள் இந்த விதியை, புகை எச்சரிக்கை (smoke alarm)

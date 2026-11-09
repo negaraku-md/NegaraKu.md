@@ -88,6 +88,7 @@ verificationNeeded:
   - "Mối quan hệ chính xác giữa apam balik và martabak manis / terang bulan của Indonesia (liệu chúng là cùng một món một cách nghiêm ngặt hay là những phát triển riêng biệt theo vùng) — hãy xác minh với một tài liệu ẩm thực đáng tin cậy."
   - "Sự lan tỏa và ánh xạ chính xác của các tên gọi theo vùng (ban jian kueh, min chiang kueh, hok lo pan, kuih haji, apom balek và những tên khác) tới các cộng đồng và phương ngữ cụ thể — hãy xác minh với nguồn ngôn ngữ học hay di sản; việc quy tên trong truyền thông ẩm thực không nhất quán."
   - "Liệu phiên bản mỏng, giòn có phổ quát là cùng một thứ với ban jian kueh / min chiang kueh hay là một món ăn vặt liên quan nhưng riêng biệt — các nguồn chồng lấn nhưng không nhất quán; hãy xác minh với nguồn di sản địa phương."
+framework: explainer
 ---
 
 Đi qua gần như bất kỳ [chợ đêm](/vi/food-lifestyle/pasar-malam-and-street-food) nào ở Malaysia

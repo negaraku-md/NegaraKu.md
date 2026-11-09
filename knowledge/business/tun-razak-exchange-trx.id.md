@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "investment-agency-directory" }
 related: ["doing-business-kuala-lumpur", "principal-hub-malaysia", "labuan-company-vs-sdn-bhd", "investment-agency-directory"]
 keywords: ["Tun Razak Exchange", "TRX Kuala Lumpur", "Exchange 106", "Malaysia international financial centre", "TRX Marquee incentives", "The Exchange TRX", "pusat kewangan antarabangsa TRX", "TRX City Sdn Bhd"]
+framework: profile
 ---
 
 Naik dari stasiun MRT Tun Razak Exchange dan cakrawala memberi tahu Anda bahwa ini direncanakan, bukan tumbuh begitu saja. Gugusan menara di atas 70 acre di tepi timur pusat Kuala Lumpur, salah satunya menembus lebih dari 450 meter, ditata mengelilingi taman yang berada di atap sebuah pusat perbelanjaan. Inilah upaya Malaysia membangun distrik keuangan dari nol.

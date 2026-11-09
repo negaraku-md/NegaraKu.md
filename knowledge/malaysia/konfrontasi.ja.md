@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["formation-of-malaysia-1963", "singapore-separation-1965", "ma63"]
 keywords: ["Konfrontasi", "Konfrontasi Indonesia Malaysia", "Ganyang Malaysia", "Perjanjian Jakarta 1966", "pembentukan Malaysia 1963", "Sukarno Suharto"]
+framework: history-culture
 ---
 
 マレーシアは1963年9月16日、平和にそれを迎え入れない地域の中に誕生した。はるかに大きな隣国はすでにその反対を表明しており、数か月のうちに、新しいボルネオの国境線は、正式に戦争と宣言されることのなかった——しかしほぼ4年間続いた——武力紛争の前線となった。この紛争は対決（Konfrontasi）として知られている。

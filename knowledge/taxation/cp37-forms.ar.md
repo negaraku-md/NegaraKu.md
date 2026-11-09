@@ -75,6 +75,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-digital-services", "withholding-tax-non-compliance"]
 keywords: ["CP37", "CP37A", "CP37D", "CP37DS", "CP37S", "نموذج ضريبة الاستقطاع ماليزيا", "withholding tax form Malaysia", "نموذج دفع ضريبة الاستقطاع LHDN"]
+framework: data-reference
 ---
 
 لا أحد يختار نموذج ضريبة استقطاع انطلاقًا من وصف الدفعة. فأنت تحدد المادة أولًا،

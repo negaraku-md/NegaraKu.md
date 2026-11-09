@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "equity-crowdfunding-p2p-malaysia" }
 related: ["kl20-startup-ecosystem", "securities-commission-malaysia"]
 keywords: ["venture capital malaysia", "private equity malaysia", "VCC VCMC malaysia", "SC registration venture capital", "raise funding startup malaysia", "MAVCAP", "Penjana Kapital", "VC tax incentive malaysia"]
+framework: explainer
 ---
 
 Most Malaysian companies grow on retained profit, a bank overdraft, or an SME loan. A small but important group grows on somebody else's equity instead — a fund that buys a slice of the business, pushes it to scale, and sells the slice years later for a multiple. That is what venture capital and private equity do, and Malaysia regulates, funds and taxes the activity in ways that surprise people who assume it works like the United States.

@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "company-contracts-section-64" }
 related: ["companies-act-2016"]
 keywords: ["दस्तावेज़ों का निष्पादन", "सामान्य मुहर", "common seal", "cop mohor", "धारा 66", "seksyen 66", "विलेख", "deed", "प्राधिकृत अधिकारी", "Companies Act 2016", "कंपनी अधिनियम 2016", "कंपनी हस्ताक्षर"]
+framework: explainer
 ---
 
 31 जनवरी 2017 को कंपनी अधिनियम 2016 (Companies Act 2016) के प्रवृत्त होने से पहले,

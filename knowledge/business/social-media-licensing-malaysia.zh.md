@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "online-business-licence-malaysia" }
 related: ["online-safety-act-malaysia", "online-business-licence-malaysia"]
 keywords: ["social media licence Malaysia", "ASP class licence MCMC", "8 million users Malaysia licence", "MCMC licensing social media platform", "do I need a social media licence Malaysia"]
+framework: explainer
 ---
 
 每隔几个月，就会有马来西亚卖家被告知他们需要一张社交媒体执照。他们不需要。这套框架发照

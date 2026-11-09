@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "epf-socso-employees" }
 related: ["lhdn", "tax-clearance", "offboarding-statutory-checklist", "employment-pass-malaysia", "moving-to-malaysia-first-steps", "epf-socso-employees"]
 keywords: ["tax clearance Malaysia", "Surat Penyelesaian Cukai", "SPC LHDN", "CP21 form Malaysia", "leaving Malaysia tax clearance", "expatriate tax clearance Malaysia", "e-SPC MyTax", "EPF leaving country withdrawal"]
+framework: rules
 ---
 
 คุณยื่นใบลาออก จองเที่ยวบิน และเริ่มยกเฟอร์นิเจอร์ให้คนอื่นแล้ว จากนั้น HR ขอบางอย่างที่คุณไม่เคยได้ยิน: หนังสือรับรองการชำระภาษี หากไม่มีมัน เงินเดือนงวดสุดท้ายส่วนหนึ่งของคุณจะไม่เคลื่อน — และไม่ใช่คุณด้วยซ้ำที่ควรจะขอ

@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "statutory-registers" }
 related: ["statutory-registers", "appoint-company-secretary", "register-of-members"]
 keywords: ["certified true copy Malaysia", "original sighted company secretary", "CTC company secretary Malaysia", "MAICSA best practice certification", "salinan diakui sah", "section 599 Companies Act 2016"]
+framework: explainer
 ---
 
 ธนาคารขอสำเนารับรองถูกต้องของข้อบังคับ มีคนในสำนักงานประทับตราบนไฟล์สแกน ลงนาม และส่งไป ไม่มีใครเห็นต้นฉบับมาสี่ปีแล้ว

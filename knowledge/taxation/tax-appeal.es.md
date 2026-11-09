@@ -112,6 +112,7 @@ relations:
   - { rel: "compares-with", to: "stamp-duty-self-assessment" }
 related: ["tax-audit", "tax-penalties", "tax-clearance", "stamp-duty-self-assessment", "rpgt-rates"]
 keywords: ["apelación tributaria Malasia", "Form Q LHDN", "borang Q rayuan", "Comisionados Especiales del Impuesto sobre la Renta", "Pesuruhjaya Khas Cukai Pendapatan", "sección 99 Income Tax Act", "prórroga Form N", "Prosiding Resolusi Pertikaian"]
+framework: how-to
 ---
 
 El único hecho que decide la mayoría de las apelaciones tributarias malasias no

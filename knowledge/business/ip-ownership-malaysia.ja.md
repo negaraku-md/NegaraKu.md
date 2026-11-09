@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "patent-malaysia" }
 related: ["copyright-malaysia", "patent-malaysia", "industrial-design-malaysia", "trademark-registration-malaysia"]
 keywords: ["ip ownership malaysia", "who owns copyright employee malaysia", "contractor ip malaysia", "ip assignment malaysia", "section 26 copyright act 1987"]
+framework: explainer
 ---
 
 あるマレーシアの創業者が、投資条件書（term sheet）に署名しようとしたところ、知的財産の譲渡書類を求められた。

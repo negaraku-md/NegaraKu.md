@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "estate-tamil-community", "tamil-vernacular-schools", "chinese-language-press", "languages-spoken"]
 keywords: ["மலேசியத் தமிழ்ப் பத்திரிகைகள்", "தமிழ் நாளிதழ்கள் மலேசியா", "மலேசிய நண்பன்", "மக்கள் ஓசை", "தமிழ் நேசன்", "மின்னல் FM", "Tamil-language press in Malaysia", "Tamil newspapers Malaysia"]
+framework: history-culture
 ---
 
 在街角小店就着早晨的咖啡或奶茶读一份淡米尔文报纸——对马来西亚淡米尔社群的一代人而言，这是熟悉的画面。那些版面上不仅有当天的新闻，还有庙会通告、淡米尔学校消息、结婚贺词、讣告以及淡米尔电影影评——一个社群的日常生活，就这样化作铅字呈现。

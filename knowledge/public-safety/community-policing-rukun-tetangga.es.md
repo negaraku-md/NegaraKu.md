@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "jkkk-village-safety-committee" }
 related: ["pdrm"]
 keywords: ["rukun tetangga", "programa de patrullas voluntarias", "skim rondaan sukarela", "SRS", "KRT", "policía comunitaria", "JPNIN", "Akta 751", "seguridad vecinal"]
+framework: explainer
 ---
 
 Las farolas nocturnas de una urbanización suelen quedar parcialmente tapadas por las siluetas de dos o tres personas en bicicleta o a pie con linternas — vecinos patrullando su propia zona. No son policías. Son miembros del Programa de Patrullas Voluntarias, y representan la primera capa de prevención de la delincuencia en la mayoría de los barrios malasios: una comunidad velando por su propia comunidad, de forma continua y junto a la Real Policía de Malasia (PDRM).

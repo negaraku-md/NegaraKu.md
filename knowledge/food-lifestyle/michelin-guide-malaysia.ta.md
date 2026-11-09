@@ -100,6 +100,7 @@ social:
     - "#Dewakan"
     - "#KualaLumpurFood"
     - "#PenangFood"
+framework: explainer
 ---
 
 கோலாலம்பூரில் அல்லது பினாங்கில் எங்கே சாப்பிடுவது என்று ஒரு டஜன் பேரிடம்

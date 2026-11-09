@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "George Town Melaka inscription criteria", "Gunung Mulu World Heritage", "Lenggong Valley Perak Man", "Niah Caves UNESCO 2024", "patrimoine mondial UNESCO Malaisie"]
+framework: data-reference
 ---
 
 Demandez combien de sites du patrimoine mondial compte la Malaisie et la plupart des sources vous diront quatre. C'était vrai jusqu'en 2024. Le complexe de grottes de Niah a été inscrit en juillet de cette année-là, et le parc forestier de l'Institut de recherche forestière de Malaisie à Selangor a suivi en 2025, portant le total à six.

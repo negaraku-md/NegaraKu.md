@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "traditional-chinese-medicine-in-malaysia" }
 related: ["tamil-in-malaysia", "estate-tamil-community", "traditional-chinese-medicine-in-malaysia", "hinduism-in-malaysia"]
 keywords: ["சித்த மருத்துவம்", "Siddha medicine", "மலேசியா சித்த மருத்துவம்", "Siddha medicine Malaysia", "பாரம்பரிய இந்திய மருத்துவம்", "சித்தர்கள்", "அகத்தியர்", "மூலிகை மருத்துவம்", "பாரம்பரிய மற்றும் நிரப்பு மருத்துவச் சட்டம் 2016", "Act 775"]
+framework: history-culture
 ---
 
 在马来西亚古老的园丘土地上，在城镇的泰米尔街巷里，你能找到一家草药店——晒干的草药、散剂（choornam）和油摆满一排排的货架。这些并非偶然；它们是一门逾一个半世纪的医学传统留下的痕迹。

@@ -207,6 +207,7 @@ keywords:
   - "company secretary 30 days"
   - "senarai semak pematuhan syarikat baharu"
   - "post incorporation Malaysia"
+framework: journey-hub
 ---
 
 நிறுவனப் பதிவு என்பது ஒரு பரிவர்த்தனை. இணக்கம் என்பது ஒரு சந்தா.

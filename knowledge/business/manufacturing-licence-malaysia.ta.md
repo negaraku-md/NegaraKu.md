@@ -103,6 +103,7 @@ keywords:
   - "MIDA manufacturing licence"
   - "shareholders funds RM2.5 million"
   - "exempted from manufacturing licence"
+framework: rules
 ---
 
 பெரும்பாலான மலேசிய SME உற்பத்தியாளர்களுக்கு உற்பத்தி உரிமம் தேவையில்லை. கிட்டத்தட்ட

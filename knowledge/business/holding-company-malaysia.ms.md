@@ -79,6 +79,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaTax
     - MalaysiaCompanyLaw
+framework: explainer
 ---
 
 Sebaik sahaja sebuah perniagaan memiliki lebih daripada satu syarikat — satu lengan perdagangan dan satu lengan hartanah, dua jenama, sebuah syarikat operasi dan pelaburan keluarga — persoalannya tidak lagi "bagaimana saya menjalankan syarikat saya?" tetapi menjadi "bagaimana saya menyusun kumpulan?". Sebuah syarikat pemegangan duduk di atas, memiliki yang lain, dan ia boleh membawa pemilikan yang lebih kemas, perlindungan aset dan pelupusan yang lebih lancar. Ia juga membawa akaun disatukan, rejim cukainya sendiri, dan caj yang mungkin tidak anda jangkakan apabila anda memindahkan setiap bahagian.

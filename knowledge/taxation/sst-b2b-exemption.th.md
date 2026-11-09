@@ -66,6 +66,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-expansion-2025", "sst-registration", "sst-02-filing"]
 keywords: ["SST B2B exemption", "service tax B2B Malaysia", "business to business exemption service tax", "same taxable service exemption"]
+framework: rules
 ---
 
 การยกเว้นแบบ B2B ล้มเหลวด้วยเงื่อนไขเดียวกันแทบทุกครั้ง: บริการที่ได้มาต้องเป็น **บริการที่ต้องเสียภาษีเดียวกัน** กับที่ผู้ได้มาให้ต่อไป ไม่ใช่บริการที่เกี่ยวข้อง ไม่ใช่บริการในกลุ่มเดียวกัน — รายการเดียวกัน

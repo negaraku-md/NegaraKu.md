@@ -76,6 +76,7 @@ social:
     - MalaysiaStartup
     - TechStartup
     - MOSTI
+framework: profile
 ---
 
 Kebanyakan pendiri pertama kali menabrak dinding yang sama: idenya bagus, tetapi belum ada pendapatan, tidak ada rekam jejak untuk bank, dan menyerahkan ekuitas sedini ini terasa terlalu awal. Jawaban Malaysia atas celah itu adalah Cradle Fund — agensi pemerintah yang seluruh tugasnya adalah menyalurkan dana ke dalam startup teknologi sebelum siapa pun bersedia. Hibah Cradle Investment Programme (CIP)-nya, bagi banyak pendiri Malaysia, adalah pembiayaan eksternal pertama yang pernah mereka kumpulkan.

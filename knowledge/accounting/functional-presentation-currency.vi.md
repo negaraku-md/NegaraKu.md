@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "financial-statement-pack" }
 related: ["accounting-standards-index", "financial-statement-pack", "financial-reporting-deadlines"]
 keywords: ["functional currency", "presentation currency", "MFRS 121", "IAS 21", "foreign currency translation", "MYR reporting", "MBRS", "foreign exchange"]
+framework: explainer
 ---
 
 Một công ty Malaysia được thành lập tại Kuala Lumpur vẫn có thể ghi sổ bằng đô la Mỹ — và hoàn toàn đúng khi làm vậy. Điều đó khiến những người cho rằng một thực thể Malaysia báo cáo bằng Ringgit vì nó là Malaysia bất ngờ. Theo MFRS 121, đồng tiền bạn đo lường bằng nó là một câu hỏi về dữ kiện kinh tế, không phải địa lý, trong khi đồng tiền bạn trình bày bằng nó là một câu hỏi riêng với câu trả lời riêng của nó.

@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: ["langkasuka", "johor"]
 keywords: ["Melaka Sultanate", "Parameswara", "Malacca history", "Hukum Kanun Melaka", "Malay sultanate origins"]
+framework: history-culture
 ---
 
 Một hoàng tử chạy trốn khỏi một thành phố đang bốc cháy. Ông vượt một eo biển, giết một thủ lĩnh địa phương đã che chở cho ông, và cứ tiếp tục chạy — qua Muar, qua Ujong Tanah — cho đến khi ông dừng lại dưới một gốc cây bên bờ sông để cho đàn chó của mình nghỉ. Một con dồn một con hoẵng chuột vào góc, và con hoẵng chuột, bị dồn vào chân tường, quay lại đá nó xuống nước. Vị hoàng tử coi đây là một điềm báo: ngay cả sinh vật nhỏ nhất ở đây cũng biết chống trả. Ông quyết định đây là nơi ông sẽ xây thành phố của mình, và đặt tên nó theo cái cây ông đang ngồi dưới — một cây *melaka*.

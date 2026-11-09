@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["population-composition", "languages-spoken", "federal-constitution"]
 keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Proto", "18 suku kaum", "JAKOA", "Akta Orang Asli 1954", "Akta 134"]
+framework: explainer
 ---
 
 மலேசியா என்ற பெயர் எந்த வரைபடத்திலும் தோன்றுவதற்கு நெடுங்காலத்திற்கு முன்பே, தீபகற்பத்தின் காடுகள், மேட்டு நிலங்கள் மற்றும் கடற்கரைப் பகுதிகளில் வாழ்ந்த சமூகங்கள் இருந்தன. இன்று அவர்கள் கூட்டாக Orang Asli என அறியப்படுகிறார்கள் — இது “மூல மனிதர்கள்” அல்லது “மூலக் குடிமக்கள்” எனப் பொருள்படும் மலாய் மொழிச் சொல்.

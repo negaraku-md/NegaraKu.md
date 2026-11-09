@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "electricity-supply-tnb" }
 related: []
 keywords: ["gaz naturel de ville", "Gas Malaysia", "bouteille de gaz", "LPG", "gaz domestique", "subsidi gas", "gaz de cuisson", "prix bouteille de gaz 14kg"]
+framework: explainer
 ---
 
 Allumez le feu dans votre nouvelle maison et vous vous en rendrez vite compte : la plupart des Malaisiens cuisinent avec des bouteilles de gaz livrées à domicile, et non avec du gaz qui circule dans des canalisations. Le gaz naturel de ville existe bel et bien — mais seulement dans un petit nombre de zones urbaines. Ce guide explique les deux options, leurs prix, les règles de la subvention et comment manipuler le gaz en toute sécurité.

@@ -92,6 +92,7 @@ relations:
   - { rel: "affects", to: "global-minimum-tax-pillar-two" }
 related: ["corporate-tax-rates", "global-minimum-tax-pillar-two", "reinvestment-allowance"]
 keywords: ["New Incentive Framework Malaysia", "NIF Malaysia tax incentive", "Pioneer Status Malaysia 2026", "Special Tax Rate Malaysia", "NIA Scorecard", "PIA 1986 deadline"]
+framework: explainer
 ---
 
 Pioneer Status ไม่ได้ค่อย ๆ เลือนหายไป มันปิดตัวลงในบ่ายวันหนึ่งที่เจาะจง พร้อมกำหนดเวลาที่ประกาศไว้: **15.00 น. ของวันที่ 28 กุมภาพันธ์ 2026** ตั้งแต่เช้าวันถัดมา ใบสมัครสิทธิประโยชน์สำหรับภาคการผลิตภายใต้พระราชบัญญัติส่งเสริมการลงทุน (Promotion of Investments Act 1986) ไม่เป็นที่ยอมรับอีกต่อไป และทุกอย่างที่เป็นเรื่องใหม่ต้องผ่าน **กรอบสิทธิประโยชน์ใหม่ (New Incentive Framework, NIF)**

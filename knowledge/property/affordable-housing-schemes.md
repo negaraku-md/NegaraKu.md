@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "home-loan-financing" }
 related: []
 keywords: ["rumah mampu milik", "PR1MA", "Residensi Wilayah", "RUMAWIP", "Rumah Mesra Rakyat", "PPR", "Rumah Selangorku", "Residensi MADANI", "rumah mampu milik Malaysia"]
+framework: decision
 ---
 
 Gaji anda RM4,000 sebulan dan harga rumah teres di bandar sudah cecah setengah juta ringgit — di mana sepatutnya anda mula mencari? Jawapannya bukan satu skim, tetapi sebuah menu skim kerajaan yang setiap satunya menyasarkan jalur pendapatan berbeza. Memilih yang salah bererti membazir bulan menunggu undian untuk rumah yang anda memang tidak layak.

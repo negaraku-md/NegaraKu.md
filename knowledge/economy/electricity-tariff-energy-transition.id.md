@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "renewable-energy-malaysia" }
 related: ["tenaga-nasional"]
 keywords: ["tarif elektrik", "RP4", "AFA", "NETR", "Suruhanjaya Tenaga", "TNB", "tenaga boleh diperbaharui", "peralihan tenaga", "subsidi elektrik"]
+framework: explainer
 ---
 
 Tagihan listrik Anda kini tampak berbeda — dan itu bukan salah cetak. Sejak 1 Juli 2025, setiap kilowatt-jam yang mengalir ke rumah dan pabrik Malaysia dihitung menurut satu formula yang jauh lebih terperinci, hasil reformasi besar sektor ketenagalistrikan. Perubahan ini bukan sekadar soal biaya tagihan, tetapi berkaitan erat dengan arah negara menuju energi terbarukan.

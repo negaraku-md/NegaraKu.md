@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "prescribed-activities-eia-order-2015" }
 related: ["environmental-quality-act-1974"]
 keywords: ["EIA Malaysia", "environmental impact assessment", "prescribed activities", "Section 34A", "Order 2015", "Department of Environment", "First Schedule", "Second Schedule", "public display"]
+framework: rules
 ---
 
 승인 없이 잘못된 종류의 사업을 착공하면, 벌금에 직면하는 것으로 그치지 않습니다 — 자본이 놀고 있는 동안 공사를 멈추도록 강제될 수 있습니다. 말레이시아에서는 규정된 목록의 「규제 대상 활동」이 환경영향평가(EIA) 보고서가 환경 국장에게 제출되어 승인될 때까지 법적으로 시작될 수 없습니다. 개발자와 투자자에게 EIA는 계획의 끝에 붙는 서류 작업이 아니라 시작에 놓인 관문입니다.

@@ -121,6 +121,7 @@ keywords:
   - "मेदिनी प्रोत्साहन समाप्त"
   - "इस्कंदर बनाम JS-SEZ"
   - "Iskandar Malaysia incentives"
+framework: explainer
 ---
 
 जोहोर के प्रोत्साहन इतिहास का लगभग हर विवरण एक ही बात कहता है: JS-SEZ ने पुराने इस्कंदर पैकेज का

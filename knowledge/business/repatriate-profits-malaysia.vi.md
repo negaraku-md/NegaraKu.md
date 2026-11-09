@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "foreign-exchange-policy-malaysia" }
 related: ["foreign-exchange-policy-malaysia", "foreign-ownership-malaysia"]
 keywords: ["repatriate profits malaysia", "dividend withholding tax malaysia", "single tier system malaysia", "2% dividend tax malaysia", "remit profits to parent company"]
+framework: explainer
 ---
 
 Các nhà sáng lập nước ngoài đến với kỳ vọng về một khoản thuế khấu trừ tại nguồn đối với cổ tức, vì gần như mọi

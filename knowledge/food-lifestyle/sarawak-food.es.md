@@ -95,6 +95,7 @@ verificationNeeded:
   - "Si el laksa de Sarawak contiene leche de coco: las fuentes se contradicen (unas describen un caldo ligeramente enriquecido con leche de coco; otras dicen que tiene poca o ninguna). Confirmar con una fuente culinaria o patrimonial de Sarawak."
   - "El origen del kek lapis Sarawak (varios relatos dicen que el pastel en capas fue introducido en Sarawak por migrantes betawi/indonesios en la década de 1970 antes de localizarse): confirmar con una fuente de patrimonio culinario, no con medios de comida."
   - "La designación de Kuching como Ciudad Creativa de la Gastronomía de la UNESCO, reportada como de 2021 y como la primera ciudad malasia así reconocida: confirmar con el listado primario de la Red de Ciudades Creativas de la UNESCO."
+framework: explainer
 ---
 
 Cruza el mar de China Meridional desde la Malasia peninsular hacia Sarawak y la comida cambia antes de que termines tu primer cuenco. Los fideos se saltean en seco en lugar de ahogarse en caldo; un pollo llega humeante desde un trozo de bambú; la "ensalada" resulta ser pescado crudo curado en lima; y la verdura sobre la mesa es un helecho de selva que ningún supermercado de la península tiene en existencia. El estado más grande de Malasia, en la isla de Borneo, cocina según su propio mapa de ingredientes y pueblos, y eso es lo primero que hay que entender sobre la comida de Sarawak.

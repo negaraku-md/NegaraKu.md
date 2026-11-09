@@ -56,6 +56,7 @@ relations:
   - { rel: "part-of", to: "audit-exemption" }
 related: ["audit-exemption", "audit-exemption-thresholds", "after-audit-exemption"]
 keywords: ["exemption d'audit société dormante Malaisie", "société dormante SSM", "ce qui rompt la dormance", "dormant company audit exemption Malaysia", "what breaks dormancy", "dormant since incorporation"]
+framework: rules
 ---
 
 Une société de portage détenant un nom et rien d'autre n'a pas besoin de passer le test des revenus, le test des actifs ni le test des employés. Le paragraphe 10 de la Directive de pratique 10/2024 accorde aux sociétés dormantes leur propre voie vers l'exemption d'audit, et la plupart des guides l'enterrent dans une seule ligne sous les seuils — ce qui est précisément là où les lecteurs manquent la différence dans la période de rétrospective.

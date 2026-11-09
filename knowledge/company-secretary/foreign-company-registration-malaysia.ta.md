@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "incorporate-company-malaysia-sdn-bhd" }
 related: ["companies-act-2016"]
 keywords: ["foreign company registration Malaysia", "branch office Malaysia", "section 562 Companies Act 2016", "SSM foreign company", "local agent Malaysia", "branch vs Sdn Bhd"]
+framework: how-to
 ---
 
 ஒரு வெளிநாட்டு கம்பெனி நீண்ட காலம் வெளிநாட்டிலிருந்தே மலேசியாவிற்குள் விற்பனை செய்ய முடியும் — ஆனால் அது ஒரு அலுவலகத்தைத் திறக்கும், உள்ளூர் குத்தகைகளில் கையெழுத்திடும், அல்லது தரையில் பணியாளர்களை அமர்த்தும் தருணத்தில், அது ஒரு எல்லையைக் கடக்கிறது. அது மலேசியாவில் *வணிகம் நடத்தத்* தொடங்கியவுடன், அது முதலில் பதிவு செய்ய வேண்டும் என்று Companies Act 2016 கூறுகிறது, மேலும் அவ்வாறு செய்வது அதே வெளிநாட்டு கம்பெனியை ஒரு மலேசிய-பதிவுசெய்யப்பட்ட கிளையாக மாற்றுகிறது.

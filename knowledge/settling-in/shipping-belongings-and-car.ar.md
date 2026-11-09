@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
 keywords: ["شحن الأمتعة إلى ماليزيا", "استيراد الأمتعة المنزلية الجمارك", "نموذج الجمارك K1", "استيراد سيارة إلى ماليزيا", "Approved Permit AP", "MITI استيراد المركبات", "JPJ تسجيل المركبات المستوردة", "PUSPAKOM السيارة المستوردة", "انتقال المغترب إلى ماليزيا سيارة"]
+framework: explainer
 ---
 
 تقول كل قائمة مراجعة للانتقال إلى ماليزيا الشيء نفسه متى مضيتَ في التمرير بما يكفي: اشحن أثاثك، وبِع سيارتك. ولا أحد يوضّح لماذا هاتان التعليمتان مختلفتان إلى هذا الحد — إحداهما أوراق، والأخرى جدار.

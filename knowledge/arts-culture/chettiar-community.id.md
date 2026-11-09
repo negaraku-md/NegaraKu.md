@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "thaipusam", "hinduism-in-malaysia", "estate-tamil-community"]
 keywords: ["செட்டியார் சமூகம்", "நாட்டுக்கோட்டை நகரத்தார்", "நகரத்தார் மலேசியா", "செட்டிநாடு", "கிட்டங்கி", "பினாங்கு செட்டியார் கோயில்", "Chettiar community Malaysia", "Nattukottai Chettiar", "Nagarathar"]
+framework: history-culture
 ---
 
 Pada hari Thaipusam di Penang, sebuah kereta megah yang terbuat dari perak akan berangkat dari Jalan Lebuh Penang menuju kuil Murugan di atas bukit. Kereta itu, dan komunitas yang telah menjalankannya selama lebih dari satu abad, bukanlah kebetulan — keduanya menuturkan kisah sebuah tradisi perdagangan-perbankan yang menempuh perjalanan dari Chettinad ke Malaya.

@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "hire-purchase-act-1967-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["SBR Malaysia", "Standardised Base Rate", "debt service ratio", "DSR", "housing loan Malaysia", "Hire Purchase Act 1967", "BLR", "responsible financing", "OPR"]
+framework: explainer
 ---
 
 Dua pembeli rumah masuk ke dua bank berbeda dengan slip gaji yang sama dan keluar dengan dua jawaban berbeda. Tidak ada bank yang menciptakan suku bunganya sendiri, dan tidak ada yang bertindak sewenang-wenang. Sistem pemberian pinjaman ritel Malaysia berjalan atas satu set kecil aturan bersama — satu yang mengikat setiap pinjaman suku bunga mengambang pada satu tombol kebijakan tunggal di Kuala Lumpur, satu yang menentukan berapa banyak utang yang dapat Anda tanggung, dan, untuk mobil Anda, satu undang-undang yang sama sekali terpisah dari tahun 1967.

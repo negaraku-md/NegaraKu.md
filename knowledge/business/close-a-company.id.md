@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "register-sdn-bhd" }
 related: ["strike-off-company-malaysia", "members-voluntary-winding-up", "creditors-voluntary-winding-up", "corporate-rescue-malaysia", "sell-business-malaysia", "register-sdn-bhd", "annual-return", "statutory-registers"]
 keywords: ["tutup syarikat sdn bhd", "pembatalan syarikat malaysia", "penggulungan syarikat", "cara tutup sdn bhd", "batal pendaftaran syarikat ssm", "tutup syarikat malaysia"]
+framework: decision
 ---
 
 Berhenti berusaha bukanlah menutup sebuah perusahaan. Sebuah Sdn Bhd yang senyap

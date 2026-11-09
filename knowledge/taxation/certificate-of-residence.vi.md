@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "dta-network" }
 related: ["company-tax-residence", "dta-network", "withholding-tax-rates"]
 keywords: ["certificate of residence Malaysia", "e-Residence LHDN", "sijil taraf mastautin", "COR Malaysia tax", "Form STM1"]
+framework: how-to
 ---
 
 Giấy chứng nhận không phải là bằng chứng rằng bạn là người Malaysia. Nó là bằng chứng rằng một

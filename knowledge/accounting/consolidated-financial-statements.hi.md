@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "mbrs-xbrl-filing" }
 related: ["companies-act-2016"]
 keywords: ["MFRS 10", "consolidated financial statements", "control", "subsidiary", "holding company", "Companies Act 2016", "MBRS", "group accounts", "Malaysia"]
+framework: explainer
 ---
 
 किसी दूसरी कंपनी में एक नियंत्रक हिस्सेदारी ख़रीदिए और आपने अपने तुलन-पत्र में केवल एक मद नहीं जोड़ी है — आपने एक समूह बना दिया है जिसे मलेशियाई लेखांकन नियम एकल इकाई के रूप में मानने पर ज़ोर देते हैं। यही MFRS 10 *समेकित वित्तीय विवरण* के पीछे की शांत शक्ति है: जिस क्षण एक कंपनी दूसरी को नियंत्रित करती है, दोनों को बाहरी दुनिया के समक्ष एक के रूप में रिपोर्ट करना होता है।

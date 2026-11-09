@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["dewan-bahasa-dan-pustaka", "bahasa-melayu"]
 keywords: ["sastera Malaysia", "Sasterawan Negara", "Anugerah Sastera Negara", "sastera kebangsaan", "Dewan Bahasa dan Pustaka", "Sejarah Melayu", "hikayat", "syair"]
+framework: history-culture
 ---
 
 நாவல்கள் தோன்றுவதற்கு முன்பும், மொழி மன்றம் அமைவதற்கு முன்பும், ஒரு கதைசொல்லி (penglipur lara) ஏற்கனவே மலாக்கா அரண்மனையின் முற்றத்தில் மலாய் வீரர்களைப் பற்றிப் புனைந்து வந்தார். அந்த வாய்மொழி மரபிலிருந்துதான் இப்பகுதியின் மிகச் செழுமையான இலக்கிய மரபுகளில் ஒன்று வளர்ந்தது — இன்று தேசியப் பட்டம், நூறாயிரக்கணக்கான ரிங்கிட் பணம், மற்றும் தேசத்தின் நாகரிகத்தில் ஒரு கௌரவ இடம் ஆகியவற்றுடன் கொண்டாடப்படும் ஒரு மரபு.

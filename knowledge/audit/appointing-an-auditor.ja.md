@@ -99,6 +99,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.267(4) and s.267(6)"
     consequence: "The company and every director commit an offence under s.267(7)"
+framework: rules
 ---
 
 署名済みの委嘱状（engagement letter）は委任ではない。報酬を確認する電子メールも同様である。

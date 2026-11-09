@@ -81,6 +81,7 @@ social:
     - DoingBusinessInMalaysia
     - SupplyChain
     - MalaysiaTrade
+framework: explainer
 ---
 
 Tanya "bagaimana saya mendapatkan lesen gudang di Malaysia?" dan jawapan pertama yang jujur ialah satu soalan balas: apa yang anda simpan, dan untuk siapa? Kerana tiada satu "lesen gudang" tunggal. Sebuah bilik stok biasa untuk barang anda sendiri dilesenkan oleh pihak berkuasa tempatan seperti mana-mana premis perniagaan lain. Sebuah gudang berikat yang memegang barang import dengan dutinya dimatikan dilesenkan oleh Kastam di bawah satu seksyen khusus Akta Kastam. Dan sebuah kilang yang membuat serta menyimpan barang untuk eksport ialah haiwan ketiga yang berlainan sepenuhnya. Pilih yang salah dan anda sama ada mematuhi berlebihan — membayar bon Kastam yang tidak pernah anda perlukan — atau kurang mematuhi dan tertangkap memegang barang berkastam tanpa lesen.

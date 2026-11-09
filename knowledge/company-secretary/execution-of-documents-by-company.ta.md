@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "company-contracts-section-64" }
 related: ["companies-act-2016"]
 keywords: ["penyempurnaan dokumen", "cop mohor", "common seal", "seksyen 66", "surat ikatan", "deed", "pegawai diberi kuasa", "Akta Syarikat 2016", "tandatangan syarikat"]
+framework: explainer
 ---
 
 Companies Act 2016 மலேசியாவில் 31 January 2017 அன்று நடைமுறைக்கு வருவதற்கு முன், முக்கியமான ஆவணங்களை ஒரு கம்பெனி நிறைவேற்றுவதற்கான வழக்கமான வழி பொது முத்திரையாக (common seal) இருந்தது. இன்று, அந்தப் பொது முத்திரை அறவே இல்லாமலிருக்கலாம் — இருப்பினும் ஒரு கம்பெனி ஒப்பந்தங்கள், கடன்கள், மற்றும் deed-களைச் செல்லுபடியாகக் கையொப்பமிட முடியும். இந்த மாற்றம் Companies Act 2016-இலிருந்து, குறிப்பாக Section 61 மற்றும் Section 66-இலிருந்து வருகிறது, மேலும் இது இன்னும் “கம்பெனி முத்திரையைத்” தேடிக்கொண்டிருக்கும் கையொப்பமிடுவோரை அடிக்கடி குழப்புகிறது.

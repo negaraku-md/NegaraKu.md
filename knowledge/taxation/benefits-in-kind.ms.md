@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "capital-allowances" }
 related: ["motor-vehicle-capital-allowance", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["faedah bercorak barangan Malaysia", "jadual nilai ditetapkan BIK", "cukai kereta syarikat Malaysia pekerja", "perenggan 13(1)(b) 13(1)(c)", "faedah penginapan tempat tinggal Malaysia"]
+framework: explainer
 ---
 
 Setiap panduan mengenai faedah bercorak barangan memihak kepada satu pihak

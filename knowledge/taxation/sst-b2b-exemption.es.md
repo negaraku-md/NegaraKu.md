@@ -67,6 +67,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-expansion-2025", "sst-registration", "sst-02-filing"]
 keywords: ["exención SST B2B", "impuesto de servicios B2B Malasia", "exención de empresa a empresa impuesto de servicios", "exención mismo servicio imponible", "service tax B2B Malaysia"]
+framework: rules
 ---
 
 La exención B2B falla casi siempre por la misma condición: el servicio adquirido

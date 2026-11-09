@@ -100,6 +100,7 @@ relations:
   - { rel: "governs", to: "akta-warisan-kebangsaan-2005" }
 related: ["batik", "songket", "wau"]
 keywords: ["keris", "empu", "pamor", "luk", "warisan Melayu", "Taming Sari", "keris Melayu", "Akta Warisan Kebangsaan 2005", "budaya Nusantara"]
+framework: history-culture
 ---
 
 ใบมีดที่หยักดั่งลิ้นเปลวไฟ ตีขึ้นจากเหล็กและนิกเกิลที่พับหลายร้อยครั้งด้วยมือของเอิมปูคนหนึ่ง — กริชไม่ใช่เพียงอาวุธ แต่คือชีพจรของอารยธรรมมลายู มันถูกเหน็บไว้ที่เอวของนักรบ ถูกชูขึ้นในพระราชพิธี และสืบทอดกันมารุ่นต่อรุ่นในฐานะสมบัติของตระกูล จนถึงทุกวันนี้ กริชยังคงเป็นสัญลักษณ์ของอธิปไตย ความกล้าหาญ และอัตลักษณ์ของชาติพันธุ์

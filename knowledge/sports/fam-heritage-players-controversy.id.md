@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "fifa-eligibility-rules" }
 related: []
 keywords: ["naturalisasi", "pemain warisan", "FAM", "FIFA", "CAS", "Harimau Malaya", "dokumen palsu", "Artikel 22", "Piala Asia 2027"]
+framework: explainer
 ---
 
 Tujuh pemain kelahiran luar negeri mengenakan jersi Harimau Malaya pada Juni 2025. Kurang dari setahun kemudian, badan arbitrase olahraga tertinggi dunia menguatkan bahwa dokumen yang melayakkan mereka bermain untuk Malaysia telah dipalsukan. Kasus ini menggerakkan serangkaian proses disiplin FIFA, satu banding ke Court of Arbitration for Sport (CAS), dan sebuah laporan polisi di Malaysia.

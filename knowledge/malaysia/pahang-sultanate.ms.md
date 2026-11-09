@@ -60,6 +60,7 @@ social:
   hashtags: ["PahangSultanate", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded:
   - "Tarikh tepat pertabalan Wan Ahmad sebagai sultan diberikan secara tidak konsisten merentasi sumber — gelaran itu disandang pada 1881, dengan pengisytiharan rasmi dilaporkan pada 8 September 1881 dan satu pertabalan rasmi kemudian ditarikhkan kepada 1884; urutan tepatnya harus disahkan dengan sumber ilmiah seperti A History of Pahang karya Linehan."
+framework: history-culture
 ---
 
 Di sepanjang Sungai Pahang, di mana bandar diraja lama Pekan masih duduk berhampiran muara sungai, satu takhta yang telah sunyi selama dua abad diangkat semula. Pada 1881 ketua-ketua Pahang berhimpun bukan untuk menobatkan orang asing tetapi untuk memulihkan satu gelaran yang pernah dimiliki tanah mereka — dan lelaki yang mereka tabalkan sebagai sultan telah memenangi hak itu dengan susah payah, dengan menewaskan saudara seayahnya sendiri dalam satu perang yang panjang dan pahit. Inilah kisah bagaimana mahkota Pahang hilang di dalam sebuah empayar yang lebih besar, dan bagaimana anak seorang menteri besar membawanya kembali.

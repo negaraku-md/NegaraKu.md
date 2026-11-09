@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "mdec-digital-status" }
 related: ["sme-financing-malaysia"]
 keywords: ["government grants malaysia", "SME grant malaysia", "startup grant malaysia", "cradle CIP grant", "MDEC digital grant", "MSME digital grant madani", "matching grant malaysia", "business funding malaysia"]
+framework: data-reference
 ---
 
 ค้นหา "government grant Malaysia" แล้วท่านจะได้รายการสรุปนับสิบที่สัญญาว่าจะให้เงินฟรีแก่ธุรกิจของท่าน ความจริงมีประโยชน์กว่าและซับซ้อนกว่านั้น: เงินมีอยู่จริง แต่ครึ่งหนึ่งของสิ่งที่ถูกเรียกว่า "เงินอุดหนุน" แท้จริงแล้วเป็นเงินกู้ การลงทุนในหุ้น หรือการเบิกคืนเงินสดที่ท่านต้องใช้จ่ายไปก่อน สิ่งที่มีค่าที่สุดเพียงอย่างเดียวที่ท่านเรียนรู้ได้ก่อนยื่นขอคือวิธีแยกแยะสิ่งเหล่านี้ออกจากกัน

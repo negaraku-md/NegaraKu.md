@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "logistics-ports-industry" }
 related: ["ecer-guide", "kl-singapore-high-speed-rail", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["السكة الحديدية للساحل الشرقي", "ECRL", "Laluan Rel Pantai Timur", "Malaysia Rail Link", "قطار CCCC ماليزيا", "تكلفة وإنجاز ECRL", "قطار كوتا بهارو ميناء كلانغ", "East Coast Rail Link"]
+framework: profile
 ---
 
 على مدى عقود، كانت أسرع طريقة للتنقل بين كوالالمبور وولايات الساحل الشرقي تعني رحلة برية طويلة عبر الجبال. ومشروع السكة الحديدية للساحل الشرقي هو رهان ماليزيا على أن خطاً واحداً من القضبان قادر على تغيير ذلك — وأن يعيد في الوقت نفسه توزيع المواضع التي يتحقق فيها نمو البلاد.

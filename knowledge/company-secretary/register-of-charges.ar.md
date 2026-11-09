@@ -116,6 +116,7 @@ relations:
   - { rel: "related-to", to: "close-a-company" }
 related: ["statutory-registers", "registered-office", "close-a-company", "annual-return"]
 keywords: ["سجل الرهون ماليزيا", "register of charges Malaysia", "المادة 352 قانون الشركات 2016", "section 352 Companies Act 2016", "تسجيل الرهن 30 يومًا SSM", "الرهن غير المسجَّل باطل أمام المصفّي", "daftar gadaian syarikat", "المادة 362 سجل الرهون"]
+framework: rules
 ---
 
 من بين كل المواعيد النهائية في قانون الشركات 2016، المادة 352 هي صاحبة أحدّ عاقبة، وهي التي تتخطّاها مدوّنات أمانة سر الشركات أكثر من غيرها — عادةً بحجة أن الرهون مشكلة البنك أو المحامي.

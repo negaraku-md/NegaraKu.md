@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "labuan-company-formation" }
 related: []
 keywords: ["redomiciliation", "re-domiciliation", "continuance", "Labuan", "Labuan Companies Act 1990", "section 16", "foreign company", "domicile", "Companies Act 2016", "Labuan FSA"]
+framework: explainer
 ---
 
 海外で解散し一から出直すことなくマレーシアの会社になりたいと望む会社にとって、この国へ入る扉はただ一つしかない——そしてその扉は半島には開いていない。

@@ -74,6 +74,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
 related: []
 keywords: ["kertas putih kesihatan", "reformasi kesihatan", "pembiayaan kesihatan", "KKM", "insurans kesihatan nasional", "Rakan KKM"]
+framework: explainer
 ---
 
 คลินิกของรัฐรองรับการมาตรวจของผู้ป่วยนอกเกือบสองในสามของประเทศ — แต่คิดเป็นเพียงราวหนึ่งในสี่ของสถานพยาบาลปฐมภูมิ ความไม่สมดุลนี้เอง เป็นต้น ที่ผลักดันให้กระทรวงสาธารณสุขมาเลเซีย (KKM) เขียนเอกสารนโยบายที่สำคัญที่สุดในหนึ่งชั่วอายุคน คือ สมุดปกขาวด้านสุขภาพ

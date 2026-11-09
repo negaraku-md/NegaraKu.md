@@ -120,6 +120,7 @@ keywords:
   - "Johor Bahru premise licence fee"
   - "JS-SEZ Johor Bahru"
   - "foreign property purchase Johor"
+framework: profile
 ---
 
 ยะโฮร์บาห์รูเป็นเมืองมาเลเซียเพียงแห่งเดียวที่เพดานค่าจ้าง แผนการจัดพนักงาน และกรอบเวลาการส่งมอบ ล้วนถูกกำหนดโดยประเทศที่คุณไม่ได้ดำเนินการอยู่

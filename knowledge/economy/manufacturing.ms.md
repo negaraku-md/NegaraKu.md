@@ -82,6 +82,7 @@ faq:
     a: Tidak — itu salah petik yang biasa. Tinjauan Guna Tenaga Suku Tahunan DOSM hanya mengira pertubuhan sektor swasta berdaftar, 9.21 juta pekerjaan pada S4 2025, dan 2.54 juta dalam perkilangan ialah 27.5% daripada subset itu. Tinjauan ini tidak merangkumi sektor awam, pekerja bekerja sendiri dan kerja tidak formal, jadi bahagian perkilangan daripada semua yang bekerja jauh lebih rendah. Gunakan Tinjauan Tenaga Buruh untuk soalan itu.
   - q: Jika bahagian KDNK mendatar, bukankah perkilangan terperangkap melakukan kerja pemasangan bernilai rendah sahaja?
     a: 'Data produktiviti menghujahkan sebaliknya. Nilai ditambah perkilangan mencapai RM59.0 sejam bekerja pada 2025 berbanding RM42.0 dalam perkhidmatan — kira-kira 40% lebih sejam, dan lebih kurang satu pertiga di atas purata negara RM44.5. Bahagian yang mendatar sebahagiannya aritmetik: perkhidmatan berkembang lebih pantas (5.4% berbanding 4.5% perkilangan), jadi bahagian sektor yang lebih kecil menurun walaupun pengeluarannya meningkat. Campuran di dalam perkilangan sedang beralih, sesuatu yang bahagian KDNK tidak mampu tunjukkan.'
+framework: explainer
 ---
 
 ## Sekilas pandang

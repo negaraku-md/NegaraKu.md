@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "malaysias-telcos-and-5g" }
 related: ["digital-free-trade-zone", "cyberjaya-tech-hub", "malaysias-telcos-and-5g"]
 keywords: ["MyDIGITAL", "Blueprint Ekonomi Digital Malaysia", "Malaysia Digital Economy Blueprint", "ekonomi digital Malaysia", "Malaysia Digital", "MDEC", "Status Malaysia Digital", "MD2030"]
+framework: explainer
 ---
 
 2021 பிப்ரவரியில், மில்லியன் கணக்கான மலேசியர்களை ஆன்லைனுக்கு மாறும்படி நிர்ப்பந்தித்த COVID-19 தொற்றுநோய்க்கு நடுவே, அரசாங்கம் காகிதத்தில் ஒரு துணிச்சலான இலக்கை நிர்ணயித்தது: 2025-க்குள் டிஜிட்டல் பொருளாதாரம் மொத்த உள்நாட்டு உற்பத்திக்கு (Gross Domestic Product, GDP) 22.6% பங்களிக்கும்படி செய்வது. அந்த இலக்கைச் சுமந்த ஆவணம் மலேசிய டிஜிட்டல் பொருளாதார வரைபடம் (Malaysia Digital Economy Blueprint) — MyDIGITAL என்று இன்னும் நன்கு அறியப்படும் முன்முயற்சியின் முதுகெலும்பு.

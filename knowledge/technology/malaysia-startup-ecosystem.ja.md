@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "digital-economy-overview" }
 related: ["mdec-digital-status", "sme-financing-malaysia", "equity-crowdfunding-p2p-malaysia", "cyberjaya-tech-hub", "digital-economy-overview"]
 keywords: ["Malaysia startup ecosystem", "Cradle Fund CIP Spark", "MRANTI", "MYStartup single window", "MAVCAP", "Jelawang Capital", "Malaysia venture capital", "KL20"]
+framework: explainer
 ---
 
 マレーシアの創業者10人に政府のスタートアップ資金がどこから来るのかを尋ねれば、10通りの異なる略語が返ってくるだろう。この仕組みは実在し、しかも手厚いが、それぞれが一部分——助成金はここ、実験室はそこ、ベンチャーキャピタルはまた別のところ——を担う複数の機関に分散しており、どの扉を叩くべきかを知っていれば数か月を節約できる。

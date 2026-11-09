@@ -116,6 +116,7 @@ keywords:
   - "सेलांगोर परिषद लाइसेंसिंग"
   - "doing business in Selangor"
   - "Port Klang TEU"
+framework: profile
 ---
 
 कुआलालंपुर में एक लाइसेंसिंग प्राधिकरण है। सेलांगोर, जो उसे घेरता है, में बारह हैं — और

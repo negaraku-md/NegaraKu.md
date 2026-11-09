@@ -69,6 +69,7 @@ faq:
     a: No. El artículo es explícito en que una reforma amplia del SST y las nuevas medidas de facturación electrónica fueron previsiones previas al presupuesto hechas por analistas, no anuncios del discurso del 9 de octubre de 2026. Deben tratarse como expectativas, no como política, hasta que el gobierno indique lo contrario. Los cambios fiscales reales del presupuesto se centran en el recorte de un punto porcentual en los tipos del impuesto sobre la renta de residentes y pymes (SME) y en el aumento de la desgravación general de 9.000 RM a 12.000 RM.
   - q: ¿A partir de cuándo queda exenta del impuesto de timbre la apertura de una cuenta de ahorro o corriente bajo el Presupuesto 2027?
     a: A partir del 1 de enero de 2027, la apertura de una cuenta de ahorro o corriente queda totalmente exenta del impuesto de timbre. Esa misma fecha trae también la reducción del impuesto sobre servicios de los servicios de cuidado de ancianos del 8% al 6% y el inicio de los derechos laborales del cónyuge expatriado con un pase de dependiente. Estas fechas son las anunciadas el 9 de octubre de 2026 y solo surten efecto una vez aprobadas la ley habilitante y las órdenes de publicación oficial.
+framework: explainer
 ---
 
 El 9 de octubre de 2026, el Primer Ministro y Ministro de Finanzas Anwar Ibrahim

@@ -88,6 +88,7 @@ verificationNeeded:
   - "Whether the Ampang that gives the style its name lies within Kuala Lumpur or in Selangor — sources describe it both as a KL district and as a town in the Klang Valley just outside KL, and the built-up Ampang area straddles the boundary; confirm the administrative attribution."
   - "The origin of the Ampang style and which stall popularised it — accounts credit a 1960s stall called Chew Kuan, while others treat the Foong Foong attribution as urban legend; confirm with a primary or local historical source."
   - "The broader origin legend — Hakka migrants substituting stuffed tofu for wheat-flour dumplings, and the rival 'indecisive diners' restaurant story — both circulate and are not firmly documented; confirm with a culinary-history source."
+framework: history-culture
 ---
 
 Walk up to a yong tau foo stall and you are not handed a menu so much as a

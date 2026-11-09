@@ -98,6 +98,7 @@ relations:
   - { rel: "explained-in", to: "epf-foreign-workers-malaysia" }
 related: ["payroll-compliance-malaysia", "epf-foreign-workers-malaysia", "socso-eis-employer-guide"]
 keywords: ["kadar caruman EPF Malaysia", "Third Schedule EPF", "caruman majikan KWSP", "EPF 13 peratus 12 peratus", "caruman KWSP majikan"]
+framework: rules
 ---
 
 Tanya seorang pentadbir gaji Malaysia apakah kadar majikan EPF, dan anda akan

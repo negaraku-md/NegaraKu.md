@@ -99,6 +99,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.267(4) and s.267(6)"
     consequence: "Công ty và mọi giám đốc phạm một tội theo s.267(7)"
+framework: rules
 ---
 
 Một thư giao kết đã ký không phải là một sự bổ nhiệm. Một email xác nhận khoản phí cũng

@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "singapore-separation-1965" }
 related: ["malayan-union", "melaka-sultanate", "singapore-separation-1965"]
 keywords: ["Asentamientos del Estrecho", "historia colonial de Penang", "dominio británico en Melaka", "colonia de la Corona de Singapur", "Tratado de Pangkor 1874", "sistema de residentes británicos", "Estados Malayos Federados", "Estados Malayos No Federados", "residente general Kuala Lumpur", "asesor general de Johor"]
+framework: history-culture
 ---
 
 Tres puertos, cuatro cambios de estatus administrativo y cuarenta y un años. Eso son los Asentamientos del Estrecho antes siquiera de tocar los estados malayos.

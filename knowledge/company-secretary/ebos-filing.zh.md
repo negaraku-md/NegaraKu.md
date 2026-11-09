@@ -101,6 +101,7 @@ relations:
   - { rel: "explained-in", to: "ebos" }
 related: ["beneficial-ownership", "bo-register", "ebos", "who-is-a-beneficial-owner", "annual-return"]
 keywords: ["e-BOS filing Malaysia", "lodge beneficial ownership SSM", "Practice Directive 9/2024", "SSM4U e-BOS", "beneficial ownership 14 days"]
+framework: how-to
 ---
 
 人人记得住的是提交这一步，因为它会产出一张回执。也正因如此，它才是掩盖违规的那一步：

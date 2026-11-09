@@ -108,6 +108,7 @@ keywords:
   - "Kuala Lumpur premise licence fee"
   - "Federal Territory Planning Act 1982"
   - "TRX Marquee status incentives"
+framework: profile
 ---
 
 クアラルンプールは、マレーシアで唯一、自分の免許料を連邦官報から直接読み取れる場所

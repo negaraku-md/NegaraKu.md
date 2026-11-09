@@ -83,6 +83,7 @@ relations:
 related: ["batik", "wayang-kulit", "kelantan"]
 entity: "Wau"
 keywords: ["wau", "wau bulan", "layang-layang tradisional", "kraf Kelantan", "Adiguru Kraf wau"]
+framework: history-culture
 ---
 
 ก่อนที่คุณจะเห็นวาว คุณได้ยินมันก่อน วาวดั้งเดิมที่ทำอย่างถูกต้องจะส่งเสียงหึ่งตลอดเวลาที่มันอยู่บนอากาศ — ไม่ใช่เสียงลม แต่เป็นเสียงที่จงใจออกแบบให้เข้าไปในโครงสร้างของมัน

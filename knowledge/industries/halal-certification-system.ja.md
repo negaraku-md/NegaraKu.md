@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "trade-descriptions-act-2011" }
 related: ["jakim"]
 keywords: ["pensijilan halal Malaysia", "SPHM", "JAKIM halal", "MYeHALAL", "MS 1500", "logo halal Malaysia", "sijil halal", "e-Cert halal", "Manual Prosedur Pensijilan Halal Malaysia", "skim pensijilan halal"]
+framework: how-to
 ---
 
 中央にアラビア文字が配された八角星形のハラルロゴは、マレーシアのスーパーマーケットの棚で最も広く知られたマークの一つである——そして、それを掲示する権利を持つのは、全国でただ一者だけである。製品メーカーではなく、民間のアドバイザーでもなく、いかなる国際的な認証機関でもなく、政府自身が、JAKIMおよび州レベルの提携機関を通じて、その権利を有している。

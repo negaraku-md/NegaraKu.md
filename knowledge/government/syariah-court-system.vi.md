@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "federal-state-division" }
 related: ["civil-and-syariah-courts", "kehakiman-mahkamah", "federal-constitution"]
 keywords: ["mahkamah syariah", "sistem mahkamah Malaysia", "Perkara 121(1A)", "bidang kuasa mahkamah syariah", "Mahkamah Tinggi Syariah", "Akta 355", "Akta 505", "undang-undang keluarga Islam"]
+framework: explainer
 ---
 
 Một người vợ nộp đơn xin fasakh và một thương nhân đòi món nợ RM60,000 đều bắt đầu vụ việc của mình bằng một tờ đơn tại quầy tòa án. Tuy nhiên, họ không đến cùng một quầy, vụ việc của họ không được cùng loại thẩm phán xét xử, và luật quyết định kết quả của họ đến từ hai cơ quan lập pháp khác nhau.

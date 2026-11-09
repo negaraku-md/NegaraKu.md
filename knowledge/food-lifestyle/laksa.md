@@ -92,6 +92,7 @@ verificationNeeded:
   - "The Johor laksa origin legend (Sultan Abu Bakar adopting spaghetti after a European trip), the sultan's exact reign dates (sources give both 1862–1895 and 1886–1895), and the year laksa Johor was gazetted as heritage (sources cite 2009, 2013 and 2023) — confirm with a primary historical or Jabatan Warisan Negara source."
   - "The etymology of the word 'laksa' (Persian, Sanskrit and Hokkien theories all circulate) — confirm with a linguistic or lexicographic source rather than food media."
   - "The regional attribution of laksam to Kelantan and Terengganu and the exact noodle/gravy description — confirm with a local source."
+framework: explainer
 ---
 
 Order "laksa" in Penang and you get a sharp, sour fish broth that makes you

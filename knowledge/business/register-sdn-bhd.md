@@ -136,6 +136,7 @@ keywords:
   - "cara daftar syarikat Sdn Bhd"
   - "how to open company Malaysia"
   - "CRS SSM4U registration"
+framework: how-to
 ---
 
 Most founders spend weeks worrying about incorporation. It is usually the easiest

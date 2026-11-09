@@ -119,6 +119,7 @@ keywords:
   - "halal certification Malaysia"
   - "food handler certificate Malaysia"
   - "liquor licence Malaysia"
+framework: rules
 ---
 
 Giấy phép nhà hàng không tồn tại. Cái tồn tại là một chồng năm hoặc sáu sự phê duyệt riêng biệt

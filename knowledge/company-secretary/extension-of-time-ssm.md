@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "ssm-late-lodgement-fees" }
 related: ["financial-statements-lodgement", "mbrs-2", "ssm-late-lodgement-fees", "sdn-bhd-filing-calendar", "annual-return"]
 keywords: ["extension of time SSM", "EOT SSM Malaysia", "Practice Note 3/2018", "section 259(2) Companies Act 2016", "extend financial statements deadline Malaysia", "EOT application company secretary"]
+framework: how-to
 ---
 
 Most rejected extension applications are not rejected on the merits. They are

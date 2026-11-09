@@ -139,6 +139,7 @@ relations:
   - { rel: "explained-in", to: "pdpa-registration-classes" }
 related: ["online-business-licence-malaysia"]
 keywords: ["pdpa मलेशिया", "व्यक्तिगत डेटा संरक्षण अधिनियम 2010", "act a1727", "डेटा नियंत्रक मलेशिया", "pdpa संशोधन 2024", "pdpa अनुपालन"]
+framework: rules
 ---
 
 यदि आपका गोपनीयता-नोटिस अब भी «डेटा उपयोगकर्ता» कहता है, तो वह व्यक्तियों की एक ऐसी श्रेणी का वर्णन कर रहा है जो 1 अप्रैल 2025 को अस्तित्व में रहना बंद कर चुकी है।

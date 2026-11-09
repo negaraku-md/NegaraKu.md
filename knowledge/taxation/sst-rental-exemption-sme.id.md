@@ -73,6 +73,7 @@ social:
     - MalaysiaSME
     - CommercialProperty
     - DoingBusinessInMalaysia
+framework: rules
 ---
 
 Jika Anda menyewa lot toko, kantor, gudang, atau sekeping peralatan untuk usaha Anda, penyewaan Anda diam-diam berubah pada 1 Juli 2025. Pada tanggal itu, **SST yang diperluas** di Malaysia membawa penyewaan atau sewa guna usaha properti komersial dan aset berwujud lain ke dalam cakupan **pajak jasa** — jadi seorang pemilik tanah melebihi ukuran tertentu kini perlu menambahkan **8%** kepada sewa. Namun demikian, pembaruan yang sama dibangun dengan satu pintu keluar yang sengaja untuk usaha kecil: ambang pendaftaran yang dinaikkan dan pengecualian khusus yang dapat diklaim oleh penyewa kecil. Berikut adalah siapa yang perlu mengenakan pajak, siapa yang dilindungi darinya, dan tanggal yang menentukan.

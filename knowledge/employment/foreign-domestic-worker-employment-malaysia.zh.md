@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "foreign-worker-levy-malaysia" }
 related: ["employment-act-1955", "foreign-worker-levy-malaysia", "minimum-wage-malaysia"]
 keywords: ["pembantu rumah asing", "foreign domestic helper", "FDH Malaysia", "maid Malaysia", "MoU Indonesia pembantu rumah", "bon keselamatan pekerja asing", "pengecualian KWSP pembantu rumah"]
+framework: rules
 ---
 
 外籍女佣进入马来西亚所走的门，与工厂或园丘工人截然不同——不通过行业配额，不通过外籍劳工一站式中心，也不在劳工法令的全面保障之下。这套制度自成一格，而以为流程和聘请普通劳工一样的雇主，往往会大失所望。

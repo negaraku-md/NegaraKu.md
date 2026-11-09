@@ -73,6 +73,7 @@ faq:
     a: Because the VOC already had a purpose-built regional capital at Batavia (Jakarta), established well before 1641, and never intended Melaka to compete with its own headquarters. The company's priority was denying the port and its strait to rival European powers, not building a rival entrepôt. Tin quotas were rerouted to Batavia, Melaka's governors were refused more trading latitude, and the port was kept a subordinate garrison and administrative town.
   - q: Did Melaka pass from the Dutch to the British in one clean handover?
     a: No. It changed hands administratively four times in thirty years. Britain occupied Melaka in 1795 under the Kew Letters to keep it from France, Melaka was restored to the Dutch in 1818, the Anglo-Dutch Treaty of 1824 (signed 17 March 1824) permanently ceded it to Britain in exchange for Bencoolen in Sumatra, and the actual transfer took effect on 1 March 1825.
+framework: history-culture
 ---
 
 A company spends seven months and an alliance with a foreign sultanate to conquer a port. Then it spends the next century and a half making sure that port never gets rich.

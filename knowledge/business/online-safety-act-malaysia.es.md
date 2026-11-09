@@ -122,6 +122,7 @@ relations:
   - { rel: "related-to", to: "communications-and-multimedia-act-1998" }
 related: []
 keywords: ["online safety act 2025", "ley de seguridad en línea 2025", "act 866 malaysia", "online safety plan Malasia", "contenido nocivo Malasia", "mcmc seguridad en línea"]
+framework: rules
 ---
 
 La Online Safety Act 2025 de Malasia se describe con frecuencia como una ley de redes sociales. No lo es, no del todo. Es una ley de **conducta de licenciatarios**, y la diferencia decide si le alcanza en absoluto.

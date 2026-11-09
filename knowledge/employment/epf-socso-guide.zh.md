@@ -68,6 +68,7 @@ relations:
   - { rel: "administered-by", to: "perkeso" }
 related: ["labour-law-map-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "payroll-compliance-malaysia", "payroll-rates-deadlines-malaysia", "epf-foreign-workers-malaysia", "new-hire-statutory-checklist"]
 keywords: ["EPF SOCSO EIS Malaysia", "statutory contributions employer Malaysia", "KWSP PERKESO employer", "caruman KWSP majikan", "payroll statutory Malaysia"]
+framework: journey-hub
 ---
 
 雇主总把这件事当成一项义务来问。它其实是三项，而且它们不共用法令、不共用机构、

@@ -60,6 +60,7 @@ relations:
   - { rel: "governs", to: "employment-contract-malaysia" }
 related: ["unfair-dismissal-malaysia", "employment-contract-malaysia", "termination-of-employment-malaysia"]
 keywords: ["tempoh percubaan malaysia", "pemecatan pekerja percubaan malaysia", "pengesahan jawatan malaysia", "undang-undang tempoh percubaan malaysia", "lanjutan tempoh percubaan malaysia"]
+framework: explainer
 ---
 
 "Dia masih dalam tempoh percubaan, jadi kita boleh terus lepaskan dia sahaja." Ayat itu

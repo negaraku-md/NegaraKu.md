@@ -69,6 +69,7 @@ verificationNeeded:
   - "SENSITIVE: touches the 13 May 1969 aftermath and the New Economic Policy / Malay-Bumiputera policy (race). Summarised neutrally; re-check against primary sources and require human reviewer sign-off before publication."
   - "Confirm exact dates (premiership, birth, death) against the Perdana Leadership Foundation and the Prime Minister's Office."
   - "Sources differ on the founding year of Barisan Nasional (the coalition took shape in 1973 and was formally registered in 1974); confirm the precise date and wording before relying on it."
+framework: profile
 ---
 
 In the space of a few turbulent years, Tun Abdul Razak Hussein moved from constitutional caretaker of a nation under emergency rule to the chief architect of its modern economic order. Malaysia's second Prime Minister governed for barely five years, yet the framework he built — an affirmative-action economy, a dominant coalition and a pragmatic foreign policy — shaped the country for decades after his sudden death in office. To many Malaysians he remains simply **Bapa Pembangunan**, the Father of Development.

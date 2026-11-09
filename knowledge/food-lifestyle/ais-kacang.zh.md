@@ -96,6 +96,7 @@ social:
     - "#MalaysianDessert"
     - "#ShavedIce"
     - "#PasarMalam"
+framework: explainer
 ---
 
 在马来西亚炎热的午后，很少有东西能像刨冰机的嗡嗡声那样引来人群。机器吐出一座

@@ -90,6 +90,7 @@ verificationNeeded:
   - "The claim that chee cheong fun was carried to Malaya by 19th-century Guangdong immigrants — food media repeat this but give no firm date or primary record. Confirm against a migration or culinary-history source."
   - "The regional split between Ipoh's 'dry' (sweet red sauce) and 'wet' (curry or mushroom gravy) versions, and whether mushroom gravy is specifically an Ipoh signature or shared with Kuala Lumpur. Confirm against a Perak or local source."
   - "Whether the Kuala Lumpur yong-tau-foo pairing uses a sweet bean-based sauce as the default, versus curry or soy — sources describe several dressings and local practice varies by stall."
+framework: explainer
 ---
 
 Order "chee cheong fun" in George Town and you get cool, silky rolls of rice

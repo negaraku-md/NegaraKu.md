@@ -83,6 +83,7 @@ relations:
   - { rel: "compares-with", to: "palm-oil-sector" }
 related: ["gdp-overview", "external-trade", "electronics-semiconductors", "palm-oil-sector"]
 keywords: ["पेट्रोलियम विकास अधिनियम 1974", "PETRONAS स्वामित्व", "मलेशिया तेल और गैस", "संघीय बजट में पेट्रोलियम राजस्व", "सारावाक तेल रॉयल्टी", "Petroleum Development Act 1974", "Petronas ownership"]
+framework: explainer
 ---
 
 ## एक नज़र में

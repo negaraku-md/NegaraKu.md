@@ -99,6 +99,7 @@ keywords:
   - "MalaysiaBiz"
   - "who issues business licences Malaysia"
   - "premise licence federal state local"
+framework: explainer
 ---
 
 உங்கள் SSM சான்றிதழ் வந்துவிடுகிறது, கம்பெனி இருப்புக்கு வருகிறது, மேலும் நீங்கள் செய்ய

@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "import-duty" }
 related: ["sales-and-service-tax"]
 keywords: ["duti eksais", "excise duty", "Akta Eksais 1976", "cukai kereta", "duti eksais rokok", "cukai gula", "minuman bergula", "JKDM", "kastam"]
+framework: explainer
 ---
 
 Beli sebuah mobil di Malaysia dan Anda mungkin membayar pajak yang hampir menyamai harga mobil itu sendiri. Penyebab utamanya adalah satu pajak yang jarang dibahas tetapi sangat berkuasa: **bea cukai**.

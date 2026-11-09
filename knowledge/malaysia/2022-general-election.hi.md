@@ -65,6 +65,7 @@ sources:
 
 related: ["anwar-ibrahim", "ismail-sabri-yaakob", "muhyiddin-yassin", "prime-ministers-of-malaysia", "how-elections-work"]
 keywords: ["GE15", "2022 आम चुनाव मलेशिया", "त्रिशंकु संसद", "एकता सरकार", "Undi18"]
+framework: history-culture
 ---
 
 > **मसौदा — संवेदनशील।** यह लेख एक तटस्थ, कार्य-प्रगति-में सारांश है और इसे प्रकाशन

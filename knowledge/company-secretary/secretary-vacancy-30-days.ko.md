@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "appoint-company-secretary" }
 related: ["secretary-resignation", "appoint-company-secretary", "changing-company-secretary"]
 keywords: ["company secretary vacancy 30 days", "section 240 Companies Act 2016", "office of secretary vacant Malaysia", "no company secretary penalty Malaysia", "section 235 Companies Act 2016"]
+framework: rules
 ---
 
 대부분의 Sdn Bhd 이사들은 이 규칙을 화재경보기 배터리를 발견하듯 알게 됩니다. 즉

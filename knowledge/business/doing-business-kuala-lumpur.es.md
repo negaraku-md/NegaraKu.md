@@ -109,6 +109,7 @@ keywords:
   - "Kuala Lumpur premise licence fee"
   - "Federal Territory Planning Act 1982"
   - "TRX Marquee status incentives"
+framework: profile
 ---
 
 Kuala Lumpur es el único lugar de Malasia donde puede leer su tasa de licencia en la gaceta

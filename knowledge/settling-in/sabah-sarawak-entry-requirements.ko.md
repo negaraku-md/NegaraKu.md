@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "mykad-guide" }
 related: ["immigration-act-1959-63"]
 keywords: ["masuk sabah", "masuk sarawak", "imigresen sabah sarawak", "dokumen perjalanan terhad", "pas lawatan sosial", "MA63 imigresen"]
+framework: rules
 ---
 
 쿠알라룸푸르에서 쿠칭으로 날아가면, 착륙하는 즉시 이민 창구가 기다리고 있습니다 — 자국 안에서 말입니다. 많은 말레이반도 국민에게 이는 국제 경계를 넘은 적도 없이 이민 담당관에게 신분증을 제시하는 첫 경험입니다. 이는 행정적 실수가 아닙니다. 사바와 사라왁은 자체 이민을 통제하며, 그 규정은 말레이시아 국민을 포함한 모든 사람에게 적용됩니다.

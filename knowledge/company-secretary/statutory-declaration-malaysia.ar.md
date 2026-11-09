@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "members-voluntary-winding-up-malaysia" }
 related: []
 keywords: ["الإقرار القانوني ماليزيا", "akuan berkanun", "مفوّض الأيمان ماليزيا", "statutory declaration malaysia", "commissioner for oaths malaysia", "statutory declarations act 1960", "عقوبة الإقرار القانوني الكاذب", "إقرار الملاءة المادة 443"]
+framework: explainer
 ---
 
 عاجلاً أو آجلاً يُسلَّم صاحب عمل مستنداً ويُقال له: «هذا يلزم أن يكون إقراراً قانونياً».

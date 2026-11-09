@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "dta-network" }
 related: ["dta-network", "company-tax-residence", "transfer-pricing-documentation", "withholding-tax-rates"]
 keywords: ["permanent establishment Malaysia", "section 12(3) Income Tax Act", "place of business Malaysia tax", "remote employee permanent establishment Malaysia", "dependent agent PE Malaysia"]
+framework: explainer
 ---
 
 மலேசியா தனது நிரந்தர நிறுவல் விதியை இரண்டு முறை எழுதுகிறது, மேலும் அந்த இரண்டு

@@ -65,6 +65,7 @@ sources:
 
 related: ["anwar-ibrahim", "ismail-sabri-yaakob", "muhyiddin-yassin", "prime-ministers-of-malaysia", "how-elections-work"]
 keywords: ["PRU15", "pilihan raya umum 2022 Malaysia", "parlimen tergantung", "kerajaan perpaduan", "Undi18"]
+framework: history-culture
 ---
 
 > **Draf — sensitif.** Artikel ini ialah ringkasan neutral yang masih dalam

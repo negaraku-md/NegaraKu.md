@@ -96,6 +96,7 @@ verificationNeeded:
   - "Năm chính xác Dewakan được nâng lên hai Star——báo chí diễn đạt khác nhau, khi thì là lễ trao năm 2023 / khi thì là ấn bản hướng dẫn 2024; hãy xác nhận ấn bản chính xác với MICHELIN Guide."
   - "Con số cho rằng Au Jardin dùng khoảng 85% nông sản Malaysia đến từ một bản tin duy nhất; hãy xác nhận với nhà hàng."
   - "Tên bếp trưởng, năm khai trương và chi tiết địa điểm của từng nhà hàng (ví dụ Au Jardin, Gen, Terra Dining, Akar) nên được kiểm tra lại với các kênh riêng của mỗi nhà hàng trước khi trích dẫn, vì những điều này thay đổi theo thời gian."
+framework: profile
 ---
 
 Malaysia đã ăn uống rực rỡ qua nhiều thế hệ——nhưng chủ yếu ở các sạp hàng rong,

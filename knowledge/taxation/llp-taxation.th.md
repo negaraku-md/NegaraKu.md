@@ -94,6 +94,7 @@ relations:
   - { rel: "compares-with", to: "corporate-tax-rates" }
 related: ["corporate-tax-rates"]
 keywords: ["LLP tax Malaysia", "PLT tax", "limited liability partnership tax rate", "cukai PLT", "LLP vs Sdn Bhd tax", "Form PT"]
+framework: explainer
 ---
 
 LLP เป็นรูปแบบธุรกิจที่ถูกอธิบายน้อยที่สุดของมาเลเซีย และความสับสนเริ่มที่ตัวบทกฎหมาย Income Tax Act 1967 นิยาม

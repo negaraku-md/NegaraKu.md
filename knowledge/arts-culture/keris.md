@@ -99,6 +99,7 @@ relations:
   - { rel: "governs", to: "akta-warisan-kebangsaan-2005" }
 related: ["batik", "songket", "wau"]
 keywords: ["keris", "empu", "pamor", "luk", "warisan Melayu", "Taming Sari", "keris Melayu", "Akta Warisan Kebangsaan 2005", "budaya Nusantara"]
+framework: history-culture
 ---
 
 Sehelai bilah yang bergerigi seperti lidah api, ditempa daripada besi dan nikel yang dilipat beratus kali oleh tangan seorang empu — keris bukan sekadar senjata, tetapi denyut nadi tamadun Melayu. Ia diselitkan di pinggang pahlawan, dijulang dalam adat istiadat diraja, dan diwarisi turun-temurun sebagai pusaka keluarga. Sehingga hari ini, keris tetap menjadi lambang kedaulatan, keberanian dan jati diri bangsa.

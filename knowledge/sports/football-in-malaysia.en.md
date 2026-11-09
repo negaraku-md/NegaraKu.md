@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "malaysia-cup" }
 related: []
 keywords: ["bola sepak malaysia", "piala malaysia", "harimau malaya", "FAM", "liga super", "AFF", "football malaysia"]
+framework: history-culture
 ---
 
 In 1921, Singapore beat Selangor 2-1 in the final of a new football tournament in Malaya. More than a century later, that competition — now known as the Malaysia Cup — remains the most prestigious crown in the country's most beloved sport.

@@ -91,6 +91,7 @@ verificationNeeded:
   - "Sama ada kopitiam Malaysia biasanya memerasakan telur separuh masak dengan kicap pekat atau kicap cair — sumber yang berwibawa tidak sependapat (kebanyakannya menggambarkan kicap pekat dengan lada putih; sesetengahnya menggambarkan kicap cair), dan amalannya mungkin berbeza mengikut kedai dan wilayah."
   - "Asal usul tepat kaya — tradisi serikaya Melayu, pengaruh sericaia Portugis, dan penyebaran kepada tukang masak Hainan semuanya dipetik oleh sejarawan makanan yang berbeza; anggaplah asal usul itu sebagai diperdebatkan dan bukannya muktamad."
   - "Tempoh tepat kedai kopi Hainan menjadi mantap di Tanah Melayu secara khususnya — tingkap 1920-an–1950-an yang biasa dipetik dan catatan sarapan Nanyang sebahagian besarnya datang daripada sumber warisan yang berpusat di Singapura."
+framework: history-culture
 ---
 
 Di seluruh Malaysia, hari sering kali bermula dengan cara yang sama: sebuah meja

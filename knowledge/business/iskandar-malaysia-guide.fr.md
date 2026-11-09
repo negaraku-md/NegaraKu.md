@@ -121,6 +121,7 @@ keywords:
   - "incitations Medini expirées"
   - "Iskandar face à JS-SEZ"
   - "Iskandar Malaysia incentives"
+framework: explainer
 ---
 
 Presque tous les récits de l'histoire des incitations du Johor disent la même chose : la JS-SEZ a

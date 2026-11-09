@@ -84,6 +84,7 @@ relations:
   - { rel: "compares-with", to: "malaysian-citizenship-by-naturalisation" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["kewarganegaraan", "pendaftaran", "Perkara 15", "pasangan asing", "Perlembagaan Persekutuan", "JPN", "warganegara Malaysia"]
+framework: explainer
 ---
 
 Casarse con un ciudadano malasio no convierte por sí solo a una persona en ciudadana. Para los cónyuges extranjeros y para el hijo de un ciudadano, la vía a la que se suele hacer referencia es el «registro» — una de las formas de adquirir la ciudadanía enumeradas en la Parte III de la Constitución Federal. Esta página explica ese marco legal de manera neutral y descriptiva; no es asesoramiento legal.

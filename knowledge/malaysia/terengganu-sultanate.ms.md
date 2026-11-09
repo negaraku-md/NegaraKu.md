@@ -60,6 +60,7 @@ social:
   hashtags: ["TerengganuSultanate", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded:
   - "Tahun pengasasan tepat kesultanan — sumber pelbagai memberikan 1708 (pertabalan oleh tuan punya Johor) dan 1724/1725 (kemerdekaan penuh); tarikh tepat harus disemak dengan sebuah sejarah ilmiah seperti Sejarah Terengganu karya Haji Buyong Adil."
+framework: history-culture
 ---
 
 Jauh sebelum mana-mana sultan bersemayam di atas takhtanya, sebongkah granit di tebing sungai di pedalaman Terengganu sudah pun menulis takdir negeri itu di atas batu. Batu Bersurat Terengganu — Batu Tersurat Terengganu — membawa satu tarikh yang terbaca sebagai tahun 1303, dan pada permukaannya yang lapuk, dalam huruf berbentuk gelung berasal Arab bagi [tulisan Jawi](/ms/arts-culture/jawi-script), seorang pemerintah memerintahkan rakyatnya berpegang teguh kepada Islam. Ia ialah bukti bertarikh tertua tulisan Jawi dan undang-undang Islam di mana-mana di dunia Melayu. Kesultanan yang akhirnya akan memikul nama tanah itu tiba lebih empat abad kemudian — tetapi iman yang akan dipertahankannya telah terukir di sini terlebih dahulu.

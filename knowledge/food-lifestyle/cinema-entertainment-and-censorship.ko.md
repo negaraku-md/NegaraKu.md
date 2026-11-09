@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "consumer-protection-act" }
 related: ["sedition-act", "consumer-protection-act"]
 keywords: ["penapisan filem", "Lembaga Penapisan Filem", "LPF", "klasifikasi filem", "P12", "P13", "Akta Penapisan Filem 2002", "lesen hiburan", "karaoke", "pawagam", "DBKL", "pihak berkuasa tempatan"]
+framework: explainer
 ---
 
 유튜브에서 화제가 된 영화는 영화검열위원회를 한 번도 거치지 않았을 수 있습니다. 그러나 같은 영화라도 영화관에서 상영하려면 먼저 그 승인 도장을 받아야 합니다. 그 차이는 우연히 생긴 느슨함이 아닙니다. 그것은 말레이시아 법이 대중이 무엇을 볼 수 있는지를 통제하는 방식에 내재되어 있습니다.

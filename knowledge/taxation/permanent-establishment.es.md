@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "dta-network" }
 related: ["dta-network", "company-tax-residence", "transfer-pricing-documentation", "withholding-tax-rates"]
 keywords: ["establecimiento permanente Malasia", "permanent establishment Malaysia", "sección 12(3) Income Tax Act", "section 12(3) Income Tax Act", "lugar de negocio impuesto Malasia", "empleado remoto establecimiento permanente Malasia", "agente dependiente PE Malasia"]
+framework: explainer
 ---
 
 Malasia escribe su regla de establecimiento permanente dos veces, y las dos

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "registering-a-marriage-civil" }
 related: ["getting-married-in-malaysia", "registering-a-marriage-civil"]
 keywords: ["divorce Malaysia", "civil divorce", "Syariah divorce", "talak", "fasakh", "khuluk", "Law Reform Marriage and Divorce Act 1976", "Section 51 conversion to Islam", "Syariah court"]
+framework: explainer
 ---
 
 同じ朝、二組のマレーシア人夫婦がそれぞれ婚姻の解消を申し立てる。一方は民事高等法院の登記処に足を運び、もう一方は州のイスラム宗教局に出頭する。どちらも相手側の扉を使うことはできない。マレーシアでは、婚姻を終えることも——結ぶことと同様に——二つの独立した法制度を通じて行われ、どちらが適用されるかを決めるのは当事者の宗教であって、その好みではない。

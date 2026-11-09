@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "registered-office" }
 related: ["statutory-registers", "registered-office", "register-of-directors", "annual-return"]
 keywords: ["सदस्य रजिस्टर मलेशिया", "register of members Malaysia", "धारा 50 कंपनी अधिनियम 2016", "section 50 Companies Act 2016", "धारा 51 सूचना SSM", "section 51 notification SSM", "daftar ahli syarikat", "शेयर हस्तांतरण रजिस्टर Sdn Bhd", "ROM दाखिल 14 दिन"]
+framework: rules
 ---
 
 एक शेयरधारक किसी वकील के सामने शेयर प्रमाणपत्र लहराता है और कहता है कि कंपनी में

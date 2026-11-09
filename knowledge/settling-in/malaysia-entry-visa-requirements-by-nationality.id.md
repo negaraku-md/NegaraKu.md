@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "malaysia-digital-arrival-card-mdac" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["malaysia visa", "visa-free countries malaysia", "malaysia evisa", "eNTRI", "malaysia digital arrival card", "social visit pass"]
+framework: rules
 ---
 
 Sebelum Anda memesan penerbangan ke Kuala Lumpur, pertanyaan pertama bukanlah "hotel yang mana" — melainkan "apakah paspor saya membolehkan saya melewati pintu masuk?" Bagi kebanyakan pelancong jawabannya melegakan, tetapi aturannya terbagi secara tegas menurut kewarganegaraan, dan satu formulir daring kini berlaku untuk hampir semua orang.

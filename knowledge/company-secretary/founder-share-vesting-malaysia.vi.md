@@ -78,6 +78,7 @@ social:
     - SdnBhd
     - VentureCapital
     - MalaysiaCompanyLaw
+framework: explainer
 ---
 
 Hai người thành lập một Sdn Bhd, chia cổ phần 50/50, và bắt đầu xây dựng. Sáu tháng sau, một trong số họ

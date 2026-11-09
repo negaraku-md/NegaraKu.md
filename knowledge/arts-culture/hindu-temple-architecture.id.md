@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "hinduism-in-malaysia" }
 related: ["hinduism-in-malaysia", "thaipusam", "mariamman-worship", "temple-music-nadaswaram", "indian-classical-arts-in-malaysia"]
 keywords: ["இந்துக் கோயில் கட்டடக்கலை", "கோபுரம்", "விமானம்", "கர்ப்பக்கிரகம்", "மண்டபம்", "திராவிடக் கட்டடக்கலை", "கும்பாபிஷேகம்", "மலேசியா கோயில்கள்", "Hindu temple architecture", "gopuram", "Dravidian architecture Malaysia"]
+framework: history-culture
 ---
 
 Saat Anda mendekati kawasan mana pun di sebuah kota Malaysia tempat komunitas Tamil telah berakar, sebuah menara penuh pahatan yang menjulang ke langit menarik perhatian dari kejauhan. Menara gerbang itu, dengan jenjang demi jenjang patung dewa-dewi beraneka warna, bukanlah kebetulan — ia adalah kelanjutan dari sebuah tradisi arsitektur berusia seribu tahun; tanda warisan budaya yang dibawa serta oleh mereka yang berketurunan Tamil India Selatan ke Malaysia.

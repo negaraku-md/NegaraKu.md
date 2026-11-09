@@ -102,6 +102,7 @@ verificationNeeded:
   - "Apakah praktik memesan meja bersama dengan satu bungkus tisu atau barang pribadi kecil (choping) sama umum dan dikenalnya di food court dan kopitiam Malaysia seperti yang terdokumentasi di Singapura — kebiasaan ini terdeskripsi dengan baik untuk Singapura tetapi hanya ada sedikit dokumentasi resmi tentang kelazimannya di Malaysia. Konfirmasikan dengan sumber Malaysia."
   - "Aturan seleksi gerai Lot 10 Hutong — Free Malaysia Today melaporkan gerai perlu memiliki rekam jejak setidaknya 40 tahun, sementara keterangan promosi lain menyebut sekitar 50 tahun; angka ini berasal dari media dan deskripsi pengelola, bukan sumber resmi. Konfirmasikan kriteria yang pasti."
   - "Rentang skor gradasi kebersihan A/B/C yang dikutip berasal dari masing-masing dewan setempat (mis. Majlis Bandaraya Kuantan) dan tidak seragam secara nasional; rentang yang pasti dan ambang penutupan berbeda antar otoritas setempat. Konfirmasikan skalanya dengan dewan tertentu untuk tempat mana pun."
+framework: explainer
 ---
 
 Masuklah ke hampir setiap lingkungan di Malaysia pada jam makan siang, dan Anda

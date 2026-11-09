@@ -70,6 +70,7 @@ relations:
   - { rel: "governs", to: "akta-perkhidmatan-bomba-1988" }
 related: []
 keywords: ["keselamatan kebakaran", "pencegahan kebakaran", "perakuan bomba", "fire certificate", "JBPM", "Akta Perkhidmatan Bomba 1988"]
+framework: explainer
 ---
 
 ไฟไม่เตือนล่วงหน้า ภายในเวลาไม่กี่นาที ประกายไฟจากปลั๊กที่รับภาระเกินหรือกระทะที่ถูกปล่อยทิ้งไว้อาจทำให้บ้านทั้งหลังราบเป็นหน้ากลอง — และในปี 2025 ปีเดียว [กรมดับเพลิงและกู้ภัยมาเลเซีย](/public-safety/fire-and-rescue-department-bomba) (JBPM) บันทึกคดีเพลิงไหม้ 16,111 คดี ผู้เสียชีวิต 98 ราย และความเสียหายทางทรัพย์สินประมาณ RM2.09 พันล้าน ข่าวดีคือ: เกือบทั้งหมดสามารถป้องกันได้ ไม่ว่าจะในห้องนั่งเล่นของคุณหรือบนพื้นโรงงาน

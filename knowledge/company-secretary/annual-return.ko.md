@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "mbrs-2" }
 related: ["sdn-bhd-filing-calendar", "financial-statements-lodgement", "ssm-late-lodgement-fees", "mbrs-2", "statutory-registers", "appoint-company-secretary", "close-a-company"]
 keywords: ["annual return Malaysia", "section 68 Companies Act 2016", "SSM annual return deadline", "annual return year of incorporation", "annual return vs financial statements"]
+framework: rules
 ---
 
 이 제출과 관련해 무엇보다 자주 틀리는 두 가지가 있습니다. 첫째는 기한을 회계연도 말에

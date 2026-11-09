@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "audit-exemption" }
 related: ["mbrs-2-filing-guide", "mbrs-tagging-errors", "unaudited-financial-statements", "financial-statements-lodgement", "audit-exemption", "mfrs-vs-mpers"]
 keywords: ["penyata kewangan Malaysia", "penyataan oleh pengarah", "deklarasi berkanun penyata kewangan", "laporan pengarah seksyen 252", "laporan juruaudit seksyen 266", "akaun berkanun Sdn Bhd", "Jadual Kelima laporan pengarah"]
+framework: explainer
 ---
 
 Tanya seorang pengarah Malaysia apa yang dihantar ke SSM setiap tahun dan

@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["waqf-islamic-endowment-malaysia", "income-tax-in-malaysia", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["tax deductible donation Malaysia", "section 44(6) approved institution", "10% aggregate income donation cap", "check LHDN approved charity", "derma potongan cukai"]
+framework: rules
 ---
 
 Biên lai ghi *được miễn thuế theo tiểu mục 44(6)*. Câu đó được in bởi

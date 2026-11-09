@@ -58,6 +58,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "maternity-leave-malaysia", "employment-act-coverage"]
 keywords: ["إجازة الأبوة ماليزيا", "المادة 60FA قانون العمل", "إجازة أبوة 7 أيام", "أهلية إجازة الأبوة ماليزيا", "إجازة الأبوة خمس ولادات", "paternity leave malaysia", "section 60fa employment act"]
+framework: rules
 ---
 
 دخلت إجازة الأبوة قانون العمل لسنة 1955 في 1 يناير 2023 بوصفها مادة واحدة قصيرة، ويكاد

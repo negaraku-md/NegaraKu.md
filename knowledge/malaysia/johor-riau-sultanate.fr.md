@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "straits-settlements" }
 related: ["melaka-sultanate", "portuguese-melaka-1511", "straits-settlements", "singapore-separation-1965"]
 keywords: ["Kesultanan Johor-Riau", "Sultanat de Johor", "Sultan Alauddin Riayat Shah II", "Sultan Mahmud Shah", "héritier du Sultanat de Melaka", "Johor Lama", "dynastie des Bendahara", "Riau-Lingga", "institution royale malaise"]
+framework: history-culture
 ---
 
 En 1511, les canons portugais abattirent une ville — mais non un trône. Lorsque la forteresse de Melaka tomba, le Sultan Mahmud Shah, le dernier sultan de Melaka, ne se rendit pas. Il se retira vers le sud avec la famille royale, les ministres principaux et — surtout — tout l'ordre institutionnel qui faisait de Melaka un sultanat. La ville fut perdue ; le sultanat se déplaça.

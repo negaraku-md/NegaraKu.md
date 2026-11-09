@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["capital-allowances", "losses-and-group-relief"]
 keywords: ["industrial building allowance malaysia", "IBA schedule 3", "paragraph 63 schedule 3", "qualifying building expenditure", "factory tax allowance malaysia", "IBA rate 10% 3%"]
+framework: explainer
 ---
 
 ある会社がRM120万で工場を購入し、RM120万について工業用建物控除を申請する。2年後、税務調査はその申索をRM500,000をやや上回る額へと修正し、それ以降の各年について超過分を加算して戻し、さらに罰金を課す。建築物について何も変わっていない。この会社は単に、法令が使用を認めたことのない数字で申索していただけである。

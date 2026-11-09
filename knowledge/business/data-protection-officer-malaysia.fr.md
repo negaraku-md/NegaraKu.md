@@ -96,6 +96,7 @@ relations:
   - { rel: "governs", to: "personal-data-protection-act-2010" }
 related: ["pdpa-compliance-malaysia", "online-business-licence-malaysia"]
 keywords: ["data protection officer malaysia", "dpo malaysia", "section 12a pdpa", "pdpa dpo threshold", "appoint dpo malaysia"]
+framework: rules
 ---
 
 La plupart des entreprises malaisiennes lisent le seuil du DPO, voient « 20,000 personnes », décident qu'elles en sont loin, et cessent de lire. Le troisième cas est une ligne plus bas, il ne comporte aucun chiffre, et l'exemple travaillé du Commissaire lui-même est une boutique en ligne qui recommande des produits.

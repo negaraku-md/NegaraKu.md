@@ -85,6 +85,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["foreign-exchange-policy-malaysia", "resident-director-malaysia", "registered-office-malaysia"]
 keywords: ["कॉर्पोरेट बैंक खाता मलेशिया", "मलेशिया में कंपनी बैंक खाता खोलना", "विदेशी-स्वामित्व कंपनी बैंक खाता अस्वीकृत", "बैंक खाता KYC मलेशिया", "संवर्धित सम्यक-तत्परता मलेशिया", "corporate bank account malaysia", "beneficial owner", "enhanced due diligence"]
+framework: explainer
 ---
 
 इस विषय पर हर प्रतिस्पर्धी पृष्ठ एक पाँच-चरणीय चेकलिस्ट है जो "और आपका खाता कुछ कार्य-दिवसों में

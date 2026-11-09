@@ -114,6 +114,7 @@ keywords:
   - "director residente habitual"
   - "director Sdn Bhd de propiedad extranjera"
   - "pengarah pemastautin Malaysia"
+framework: explainer
 ---
 
 Busca cómo constituir una compañía malasia siendo extranjero y te venderán un director

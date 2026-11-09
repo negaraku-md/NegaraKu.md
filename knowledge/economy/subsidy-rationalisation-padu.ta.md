@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "sumbangan-tunai-rahmah-str" }
 related: ["program-rahmah-cost-of-living"]
 keywords: ["PADU", "Pangkalan Data Utama", "rasionalisasi subsidi", "subsidi bersasar", "BUDI MADANI", "RON95", "subsidi diesel", "subsidi elektrik", "T15"]
+framework: explainer
 ---
 
 பல ஆண்டுகளாக, மலேசிய அரசாங்கம் எரிபொருள், மின்சாரம் மற்றும் உணவை அனைவருக்கும் மொத்தமாக மானியம் வழங்கியது — பயனாளி ஒரு ரப்பர் பால் எடுப்பவரா அல்லது ஆடம்பரக் கார் உரிமையாளரா என்பதைப் பொருட்படுத்தாமல். அனைத்தையும் மாற்றிய கேள்வி *எவ்வளவு* மானியம் வழங்கப்படுகிறது என்பதல்ல, மாறாக *யாருக்கு* என்பதே. அதற்குப் பதிலளிக்க, அரசாங்கத்திற்கு இதுவரை இல்லாத ஒன்று தேவைப்பட்டது: மலேசியர்கள் உண்மையில் யார் என்பதைப் பற்றிய துல்லியமான படம். அதுவே PADU-வின் பணி.

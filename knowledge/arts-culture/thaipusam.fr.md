@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["selangor", "penang", "religion-statistics", "article-3-religion"]
 keywords: ["Thaipusam Malaisie", "Batu Caves Thaipusam", "kavadi", "procession du char d'argent", "Seigneur Murugan", "272 marches", "paal kudam", "temple de la colline de la Cascade Penang", "Thaipusam jour férié"]
+framework: history-culture
 ---
 
 Avant l'aube, une colline de calcaire à l'extrémité nord de Kuala Lumpur se remplit de sons : tambours, chants, le frottement de centaines de milliers de pieds nus sur la pierre. Au pied d'un escalier de 272 marches se dresse une figure dorée plus haute qu'un immeuble de quatorze étages. L'ascension a commencé, et elle ne s'arrêtera pas pendant une grande partie de la journée.

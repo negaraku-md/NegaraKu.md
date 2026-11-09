@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "share-transfer" }
 related: ["share-transfer", "register-of-members", "stamp-duty-share-transfer", "beneficial-ownership"]
 keywords: ["انتقال الأسهم في ماليزيا", "الأسهم بعد وفاة المساهم", "المادة 109 قانون الشركات 2016", "probate الأسهم Sdn Bhd", "الوصي في الإفلاس الأسهم", "transmission of shares Malaysia", "section 109 Companies Act 2016"]
+framework: how-to
 ---
 
 يتوفّى أحد المساهمين في شركة خاصة (Sdn Bhd) مكوّنة من شخصين. فيطلب المدير الباقي

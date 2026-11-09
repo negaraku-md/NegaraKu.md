@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "share-transfer" }
 related: ["share-transfer", "register-of-members", "stamp-duty-share-transfer", "beneficial-ownership"]
 keywords: ["transmission of shares Malaysia", "shares after shareholder dies", "section 109 Companies Act 2016", "probate shares Sdn Bhd", "trustee in bankruptcy shares"]
+framework: how-to
 ---
 
 二人だけのSdn Bhdの株主が死亡した。生存する取締役は秘書役に「未亡人への株式譲渡をやってほしい」と依頼する。その指示はほぼすべての点で誤っている——条文が違い、書類が違い、期限が違い、しかも生じないかもしれない印紙税の課税を指し示している。

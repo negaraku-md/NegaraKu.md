@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "hinduism-in-malaysia" }
 related: ["hinduism-in-malaysia", "thaipusam", "mariamman-worship", "temple-music-nadaswaram", "indian-classical-arts-in-malaysia"]
 keywords: ["இந்துக் கோயில் கட்டடக்கலை", "கோபுரம்", "விமானம்", "கர்ப்பக்கிரகம்", "மண்டபம்", "திராவிடக் கட்டடக்கலை", "கும்பாபிஷேகம்", "மலேசியா கோயில்கள்", "Hindu temple architecture", "gopuram", "Dravidian architecture Malaysia"]
+framework: history-culture
 ---
 
 मलेशिया के किसी भी शहर के उस हिस्से के पास जाते ही जहाँ कोई तमिल समुदाय जड़ें जमा चुका है, आकाश की ओर उठता हुआ मूर्तियों से भरा एक गोपुर दूर से ही आँखों में बस जाता है। रंग-बिरंगी देव-मूर्तियों की परत-दर-परत सजी वह द्वार-मीनार कोई संयोग नहीं है — यह एक हज़ार वर्ष पुरानी स्थापत्य परंपरा का सिलसिला है; उस सांस्कृतिक विरासत का चिह्न जिसे दक्षिण भारतीय तमिल मूल के लोग अपने साथ मलेशिया लाए।

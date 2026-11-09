@@ -55,6 +55,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["what is Malaysia", "federation of Malaysia", "13 states 3 federal territories", "elective monarchy Malaysia", "federal structure Malaysia", "Yang di-Pertuan Agong", "Federal Constitution"]
+framework: explainer
 ---
 
 மலேசியா ஒரே அரசைக் கொண்ட ஒரே இடம் அல்ல. இது ஒரு கூட்டமைப்பு — பதின்மூன்று மாநிலங்கள் மற்றும் மூன்று கூட்டாட்சிப் பிரதேசங்களில் இருந்து ஒன்றாகத் தைக்கப்பட்ட ஒரே நாடு, தென் சீனக் கடலின் பல நூறு கிலோமீட்டர்களால் பிரிக்கப்பட்ட இரண்டு நிலப்பரப்புகளின் மேல் அமைந்துள்ளது. அந்தக் கட்டமைப்பை முதலில் புரிந்துகொள்வது, இந்த நாட்டைப் பற்றிய ஏறக்குறைய மற்ற எல்லாவற்றையும் பின்தொடர்வதை எளிதாக்குகிறது.

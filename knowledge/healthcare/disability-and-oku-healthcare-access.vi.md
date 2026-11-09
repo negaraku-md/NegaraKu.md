@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "public-healthcare-system" }
 related: []
 keywords: ["OKU", "kad OKU", "penjagaan kesihatan OKU", "PDK", "pemulihan dalam komuniti", "alat bantuan", "JKM", "KKM", "EPOKU", "BTB"]
+framework: explainer
 ---
 
 Một tấm thẻ nhựa quyết định liệu một đứa trẻ tự kỷ có được trị liệu sớm hay không, hoặc liệu một người trưởng thành mất chân có thể có được chân giả hay không. Tại Malaysia, chính tấm thẻ OKU đó là cửa ngõ dẫn đến gần như mọi dịch vụ và trợ cấp được thiết kế cho người khuyết tật — và việc hiểu cách nó vận hành giúp tiết kiệm thời gian, tiền bạc cũng như tránh việc điều trị bị trì hoãn.

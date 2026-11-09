@@ -128,6 +128,7 @@ relations:
   - { rel: "compares-with", to: "malaysia-singapore-relations" }
 related: ["malaysia-singapore-relations"]
 keywords: ["hubungan Malaysia Indonesia", "serumpun", "pekerja migran Indonesia", "One Channel System", "Pulau Sebatik", "Ambalat", "Sipadan Ligitan", "sempadan Malaysia Indonesia", "Perundingan Tahunan"]
+framework: explainer
 ---
 
 Dua negara ini berkongsi bahasa, agama, dan asal usul yang sama — namun juga berkongsi sempadan darat terpanjang di Borneo, lombong minyak di dasar Laut Sulawesi, dan jutaan pekerja yang menyeberang mencari rezeki. Hubungan Malaysia–Indonesia bukan sekadar hubungan diplomatik biasa; ia hubungan keluarga yang rumit, di mana kedekatan itu sendiri menjadi punca kerjasama sekaligus punca ketegangan.

@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-china-relations", "malaysia-asean-membership"]
 keywords: ["Malaysia US relations", "Comprehensive Strategic Partnership", "reciprocal trade agreement", "US tariff Malaysia", "semiconductors", "defence cooperation"]
+framework: explainer
 ---
 
 2014年，巴拉克·奥巴马参观了吉隆坡的国家清真寺（Masjid Negara）；2025年，安瓦尔·易卜拉欣就一份已签署的贸易协定与唐纳德·特朗普握手。两位截然不同的美国总统，一段历久弥坚的关系——以及马来西亚一种惯常的做法：与华盛顿走得很近，却从不站在其安全保护伞之下。

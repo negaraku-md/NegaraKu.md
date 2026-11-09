@@ -73,6 +73,7 @@ relations:
   - { rel: "affects", to: "form-c-and-cp204" }
 related: ["form-c-and-cp204", "corporate-tax-rates", "income-tax-act-1967"]
 keywords: ["période de base Malaisie", "article 21A", "année de défaillance", "CP204B", "changement date comptable Malaisie", "tempoh asas"]
+framework: explainer
 ---
 
 Une Sdn Bhd constituée en mars qui clôture ses premiers comptes le 30 juin de

@@ -58,6 +58,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "maternity-leave-malaysia", "employment-act-coverage"]
 keywords: ["permiso de paternidad malasia", "section 60fa employment act", "7 días permiso de paternidad", "elegibilidad permiso de paternidad malasia", "permiso de paternidad cinco partos"]
+framework: rules
 ---
 
 El permiso de paternidad se incorporó a la Employment Act 1955 el 1 de enero de 2023

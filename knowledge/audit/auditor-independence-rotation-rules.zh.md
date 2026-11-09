@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "statutory-audit-process" }
 related: ["appointing-an-auditor", "changing-auditors", "statutory-audit-process", "audit-fees-malaysia"]
 keywords: ["auditor independence", "partner rotation", "cooling-off period", "public interest entity", "MIA By-Laws", "Section 540", "non-audit services", "self-review threat"]
+framework: rules
 ---
 
 一位为同一家上市公司账目签字长达十年的审计合伙人，清楚地知道每一具骷髅埋在哪里——而这恰恰就是问题所在。关系越长久，一个理性的局外人就越难相信审计意见是真正独立的。马来西亚以一套硬性的计时器和一次强制性的中断来应对这一风险。

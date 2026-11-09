@@ -129,6 +129,7 @@ relations:
   - { rel: "related-to", to: "rcep-malaysia" }
 related: []
 keywords: ["ASEAN", "Malaysia ASEAN", "Deklarasi Bangkok", "Piagam ASEAN", "Komuniti ASEAN", "pengerusi ASEAN 2025", "Tun Abdul Razak", "Timor-Leste ASEAN"]
+framework: explainer
 ---
 
 เมื่อวันที่ 8 สิงหาคม 1967 ชายห้าคนรวมตัวกันในห้องโถงหลักของอาคารกระทรวงการต่างประเทศที่กรุงเทพฯ (Bangkok) และลงนามในเอกสารสองหน้ากระดาษ หนึ่งในนั้นคือรองนายกรัฐมนตรีมาเลเซีย ตุน อับดุล ราซัก ฮุสเซน (Tun Abdul Razak Hussein) ซึ่งกำลังวางมาเลเซียไว้ในองค์กรที่ต่อมากลายเป็นกรอบหลักของนโยบายต่างประเทศของประเทศนี้เป็นเวลาเกือบหกทศวรรษ และเป็นองค์กรที่มาเลเซียเองดำรงตำแหน่งประธานในปี 2025

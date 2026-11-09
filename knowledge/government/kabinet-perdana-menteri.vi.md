@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "parliament", "dewan-rakyat", "dewan-negara", "yang-di-pertuan-agong"]
 keywords: ["Jemaah Menteri", "Kabinet Malaysia", "Perdana Menteri Malaysia", "Perkara 43 Perlembagaan Persekutuan", "kepercayaan majoriti Dewan Rakyat", "tanggungjawab bersama", "Yang di-Pertuan Agong", "Perkara 40(2)"]
+framework: explainer
 ---
 
 Không một cử tri nào ở Malaysia đánh dấu một lá phiếu ghi "Thủ tướng". Lá phiếu tổng tuyển cử chỉ nêu tên ứng viên cho một khu vực bầu cử Dewan Rakyat.

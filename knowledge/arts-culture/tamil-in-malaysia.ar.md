@@ -88,6 +88,7 @@ relations:
   - { rel: "compares-with", to: "bahasa-melayu" }
 related: ["population-composition", "article-152-language", "bahasa-melayu", "languages-spoken", "federal-constitution"]
 keywords: ["التاميلية في ماليزيا", "Tamil in Malaysia", "SJKT", "Sekolah Jenis Kebangsaan Tamil", "المدارس التاميلية", "Tamil schools Malaysia", "الهنود الماليزيون", "Malaysian Indians", "المادة 152", "Article 152", "اللغة الوسيطة التاميلية", "vernacular schools"]
+framework: explainer
 ---
 
 في مزارع المطاط القديمة في الملايو، كانت بعض أوائل الفصول الدراسية حظائر وأكواخًا، وكانت الدروس تُلقى بالتاميلية. ووفقًا لدراسة تاريخية نُشرت في مجلة الجمعية التاريخية الماليزية، فقد كان تعليم ابتدائي أساسي بالتاميلية يُقدَّم في المزارع منذ أوائل القرن العشرين، بموجب قوانين العمل آنذاك، وظل لمدة طويلة يُدرَّس على يد كتبة وعاملين بدوام جزئي بدلًا من معلمين مدرَّبين.

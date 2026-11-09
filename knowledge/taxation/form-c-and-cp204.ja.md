@@ -121,6 +121,7 @@ relations:
   - { rel: "related-to", to: "company-tax-calendar" }
 related: ["corporate-tax-rates", "sdn-bhd-filing-calendar", "lhdn", "income-tax-act-1967"]
 keywords: ["CP204", "CP204A", "Form C Malaysia", "underestimation penalty", "section 107C", "anggaran cukai syarikat"]
+framework: how-to
 ---
 
 マレーシアの会社税で高くつくのは、税率ではない。答えを知る11か月前に立てる、その見積りである。

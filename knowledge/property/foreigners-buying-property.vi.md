@@ -81,6 +81,7 @@ faq:
     a: Không — vượt qua mức giá sàn chỉ đưa người mua đến bước nộp đơn. Một cửa ải thứ hai, riêng biệt, là sự đồng ý bằng văn bản của Cơ quan Bang theo mục 433B của Bộ luật Đất đai Quốc gia (National Land Code), bắt buộc đối với mọi giao dịch mua lại của người nước ngoài bất kể giá cả. Sự đồng ý này mang tính tùy quyền, không tự động, và có thể bị từ chối. Theo mục 433C, bất kỳ giao dịch nào hoàn tất mà không có sự phê duyệt bằng văn bản đó đều vô hiệu.
   - q: Người nước ngoài có thể mua bất kỳ bất động sản nào ở Malaysia nếu trả giá đủ cao không?
     a: 'Không. Một số bất động sản bị loại trừ hoàn toàn bất kể giá cả: Đất Dự trữ của Người Mã Lai (Malay Reserved Land) (nơi việc chuyển nhượng cho người không phải Mã Lai là vô hiệu theo các Đạo luật Dự trữ Mã Lai (Malay Reservation Enactments)), đất được phân loại cho nông nghiệp, và các căn hộ thuộc hạn ngạch Bumiputera hoặc nhà ở chi phí thấp và giá phải chăng. Những loại này nằm hoàn toàn ngoài khung giá và sự đồng ý, nên việc trả cao hơn mức tối thiểu của một bang không thay đổi điều gì. Sabah và Sarawak cũng vận hành luật đất đai riêng biệt của họ bên ngoài Bộ luật Đất đai Quốc gia.'
+framework: rules
 ---
 
 Một người mua từ Hồng Kông đồng ý trả RM1.8 triệu cho một căn nhà bán biệt lập ở Petaling Jaya. Tài trợ đã được thu xếp, người bán sẵn lòng, giá vượt mọi ngưỡng mà bất kỳ ai báo trên mạng. Giao dịch vẫn không thể hoàn tất cho đến khi một văn phòng của chính quyền bang ở Shah Alam quyết định — theo tùy nghi của mình — liệu có cho một người nước ngoài giữ quyền sở hữu đó hay không.

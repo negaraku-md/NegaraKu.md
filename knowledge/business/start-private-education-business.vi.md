@@ -80,6 +80,7 @@ social:
     - PrivateSchool
     - EducationMalaysia
     - MalaysiaLicensing
+framework: how-to
 ---
 
 Mở một trung tâm dạy thêm hoặc một trường tư, từ bên ngoài, trông giống như thuê một lô cửa hàng, thuê giáo viên giỏi và in một băng rôn. Ở Malaysia thì không phải vậy. Giáo dục là một hoạt động được quản lý, và đăng ký một công ty với SSM — bước mà hầu hết những người vận hành lần đầu nghĩ đến như "khởi nghiệp doanh nghiệp" — chỉ cho bạn một pháp nhân. Nó không cho bạn quyền dạy một học sinh trả tiền duy nhất.

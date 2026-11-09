@@ -77,6 +77,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["kaamatan", "sarawak"]
 keywords: ["Gawai Dayak", "Hari Gawai", "harvest festival Sarawak", "Dayak", "Iban", "Bidayuh", "Orang Ulu", "miring", "ngajat", "tuak", "Tuai Rumah", "Gayu Guru Gerai Nyamai"]
+framework: history-culture
 ---
 
 Jam belum lagi berdentum tengah malam pada hari terakhir bulan Mei, dan di sebuah rumah panjang di suatu tempat di tebing sungai Sarawak, gong sudah menanti. Padi sudah selamat dituai. Ruai sudah disapu bersih dan digantung dengan tikar baharu. Sebuah tempayan tuak sudah tersedia. Apabila gong akhirnya dipalu, ketua rumah panjang akan mengangkat cawan, dan semua orang di sepanjang ruai bersama akan minum untuk tiga perkataan yang sama: umur panjang, kesihatan, kesejahteraan.

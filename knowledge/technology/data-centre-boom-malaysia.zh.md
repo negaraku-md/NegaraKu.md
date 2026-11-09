@@ -101,6 +101,7 @@ relations:
   - { rel: "located-in", to: "johor" }
 related: ["tenaga-nasional", "johor"]
 keywords: ["data centre Malaysia", "Johor data centre", "TNB data centre", "non-AI data centre restriction", "data sovereignty Malaysia", "National Cloud Computing Policy", "Green Lane TNB", "Johor water data centre"]
+framework: explainer
 ---
 
 不到三年时间，柔佛南部这条隔着柔佛海峡与新加坡相望的地带，已成为全球最抢手的服务器落地之地之一。云计算巨头、托管运营商和人工智能初创企业纷纷涌入——如今马来西亚正意识到，这股热潮之下的电力线路与水管都是有极限的。

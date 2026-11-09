@@ -94,6 +94,7 @@ keywords:
   - "MalaysiaBiz"
   - "who issues business licences Malaysia"
   - "premise licence federal state local"
+framework: explainer
 ---
 
 Sertifikat SSM Anda tiba, perusahaan itu ada, dan Anda memiliki izin untuk melakukan

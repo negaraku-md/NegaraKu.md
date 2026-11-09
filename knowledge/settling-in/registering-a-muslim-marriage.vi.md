@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "registering-a-civil-marriage" }
 related: ["registering-a-marriage-civil", "syariah-court-system"]
 keywords: ["muslim marriage malaysia", "nikah registration", "SPPIM", "wali hakim", "kursus pra perkahwinan", "akad nikah", "syariah court marriage", "islamic family law act 303"]
+framework: how-to
 ---
 
 Hai người đã sẵn sàng kết hôn, hai gia đình đã gặp nhau, và ngày cưới đã được định — nhưng ở Malaysia, một cuộc hôn nhân Hồi giáo không trở thành một cuộc hôn nhân đã đăng ký cho đến khi nó đã đi qua một quy trình hành chính và tôn giáo được quy định do bang điều hành. Hồi giáo là vấn đề của bang theo Hiến pháp Liên bang, nên mỗi bang và Lãnh thổ Liên bang có sắc luật gia đình Hồi giáo riêng và Cục Tôn giáo Hồi giáo Bang riêng (Jabatan Agama Islam Negeri). Các bước dưới đây nhìn chung tương tự trên khắp cả nước; luật của Lãnh thổ Liên bang, Islamic Family Law (Federal Territories) Act 1984 (Act 303), được dùng ở đây cho các dẫn chiếu điều khoản chính xác.

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "registering-a-marriage-civil" }
 related: ["getting-married-in-malaysia", "registering-a-marriage-civil"]
 keywords: ["divorcio Malasia", "divorcio civil", "divorcio Syariah", "talak", "fasakh", "khuluk", "Law Reform Marriage and Divorce Act 1976", "Section 51 conversion to Islam", "tribunal Syariah"]
+framework: explainer
 ---
 
 Dos parejas malasias presentan la solicitud para poner fin a sus matrimonios la misma mañana. Una entra en un registro del Tribunal Superior civil; la otra se presenta en una oficina religiosa islámica estatal. Ninguna puede usar la puerta de la otra. En Malasia, poner fin a un matrimonio —igual que iniciarlo— discurre por dos sistemas legales separados, y la religión de las partes, no su preferencia, decide cuál se aplica.

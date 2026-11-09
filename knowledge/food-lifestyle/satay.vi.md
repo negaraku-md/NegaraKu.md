@@ -90,6 +90,7 @@ keywords:
   - "charcoal grilled skewers"
 social:
   hashtags: ["#Satay", "#SatayKajang", "#SatayCelup", "#MalaysianFood", "#Malaysia"]
+framework: explainer
 ---
 
 Thứ đến trước tiên là âm thanh: một chiếc quạt tay phe phẩy trên một rãnh than hồng rực,

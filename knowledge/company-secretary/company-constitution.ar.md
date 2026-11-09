@@ -81,6 +81,7 @@ relations:
   - { rel: "requires", to: "special-resolution" }
 related: ["companies-act-2016", "company-limited-by-guarantee-malaysia"]
 keywords: ["دستور الشركة", "company constitution", "قرار خاص", "المادة 32", "المادة 36", "الترسيخ", "entrenchment", "Companies Act 2016", "Akta Syarikat 2016", "SSM"]
+framework: how-to
 ---
 
 يمكن لشركة Sdn Bhd أن تعمل لسنوات دون أي وثيقة واحدة تحمل عنوان «دستور» — وهذا أمر مشروع تماماً بموجب القانون الماليزي. فقد جعل قانون الشركات لسنة 2016 (Companies Act 2016) الدستور اختيارياً لمعظم الشركات، في تحوّل كبير عن حقبة عقد التأسيس والنظام الأساسي (M&A) الإلزامي. ولم يعد السؤال «ماذا يجب أن يتضمّن دستورنا»، بل «هل نحتاج إليه أصلاً، وإن كنّا نحتاج، فكيف نعتمده أو نعدّله أو نُحكِم إغلاقه؟»

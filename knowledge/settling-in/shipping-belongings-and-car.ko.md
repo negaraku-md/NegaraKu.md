@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
 keywords: ["shipping belongings to Malaysia", "import household goods Malaysia customs", "Customs Form K1 Malaysia", "import car to Malaysia", "Approved Permit AP Malaysia", "MITI AP vehicle import", "JPJ import vehicle registration", "PUSPAKOM imported car", "expatriate moving to Malaysia car"]
+framework: explainer
 ---
 
 말레이시아를 위한 모든 이주 점검표는 충분히 스크롤하면 같은 말을 합니다: 가구는 운송하고, 차는 팔아라. 그 두 지시가 왜 그렇게 다른지는 아무도 설명하지 않습니다 — 하나는 서류 업무이고, 다른 하나는 벽입니다.

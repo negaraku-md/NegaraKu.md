@@ -81,6 +81,7 @@ relations:
   - { rel: "part-of", to: "statutory-audit-process" }
 related: ["audit-opinion-types", "emphasis-of-matter-kam", "going-concern-audit", "statutory-audit-process", "appointing-an-auditor", "financial-statements-lodgement"]
 keywords: ["auditors report Malaysia", "independent auditors report sections", "AF number audit firm Malaysia", "audit partner approval number", "section 266 report to members", "how to read an audit report"]
+framework: explainer
 ---
 
 Một báo cáo kiểm toán của Malaysia là một tài liệu có định dạng cố định. MIA công bố các minh họa — AAPG 1 cho khung MFRS, AAPG 2 cho MPERS, cả hai đều đọc cùng với Luật Công ty (Companies Act 2016) — và các hãng tuân theo chúng sát sao. Điều đó khiến việc thẩm định trở nên nhanh chóng, vì bất cứ điều gì sai vị trí đều dễ thấy.

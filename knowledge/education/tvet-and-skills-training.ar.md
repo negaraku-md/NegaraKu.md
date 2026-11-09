@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "hrd-corp-levy-malaysia" }
 related: ["public-vs-private-universities", "hrd-corp-levy-malaysia"]
 keywords: ["TVET ماليزيا", "شهادة المهارات الماليزية", "SKM", "Sijil Kemahiran Malaysia", "JPK إدارة تنمية المهارات", "ILP معهد التدريب الصناعي", "الكلية المجتمعية الماليزية", "الكلية المهنية", "kolej vokasional", "البوليتكنيك الماليزي", "Akta 652", "NOSS", "DKM DLKM", "ADTEC JMTI"]
+framework: explainer
 ---
 
 يرى كثير من طلاب الصف الثالث الثانوي (Form 3) وأولياء أمورهم طريقًا واحدًا فقط

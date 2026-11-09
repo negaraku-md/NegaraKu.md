@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["sales-tax-explained", "customs-import-duty", "sst-registration"]
 keywords: ["low value goods", "LVG sales tax", "online shopping tax Malaysia", "10% sales tax imported goods", "MyLVG", "cukai jualan barang bernilai rendah", "RMCD low value goods"]
+framework: explainer
 ---
 
 Pendant des années, un gadget à moins de RM500 commandé auprès d'une boutique en ligne étrangère arrivait sur votre palier en franchise de taxe. Depuis le 1er janvier 2024, ce n'est plus le cas.

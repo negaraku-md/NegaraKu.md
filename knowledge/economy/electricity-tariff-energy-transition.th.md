@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "renewable-energy-malaysia" }
 related: ["tenaga-nasional"]
 keywords: ["tarif elektrik", "RP4", "AFA", "NETR", "Suruhanjaya Tenaga", "TNB", "tenaga boleh diperbaharui", "peralihan tenaga", "subsidi elektrik"]
+framework: explainer
 ---
 
 บิลค่าไฟฟ้าของคุณตอนนี้ดูแตกต่างออกไป และนั่นไม่ใช่การพิมพ์ผิด ตั้งแต่วันที่ 1 กรกฎาคม 2025

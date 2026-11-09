@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "entertainment-expenses" }
 related: ["section-33-deductibility", "labuan-tax-regime", "withholding-tax-non-compliance", "withholding-tax-rates"]
 keywords: ["section 39 income tax act 1967", "non deductible expenses malaysia", "disallowed expenses tax computation", "39(1)(j) withholding tax", "39(1)(r) labuan", "add back tax computation malaysia"]
+framework: rules
 ---
 
 ほとんどの加算調整明細表は習慣で組み立てられている。減価償却、交際費、罰金、寄付金——毎年同じ六行を、そのまま転記しているだけだ。ところがSection 39(1)には実際には十八項の現行の禁止規定が存在し、最も金のかかるものほど、誰の習慣的なリストにも載っていない。

@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-accounting-records" }
 related: ["accounting-records-section-245"]
 keywords: ["accounting records outside Malaysia", "section 245(5) Companies Act", "cloud accounting records Malaysia", "shared service centre records Malaysia", "keep records in Malaysia LHDN"]
+framework: rules
 ---
 
 A Malaysian subsidiary running SAP out of a Singapore data centre, with the finance

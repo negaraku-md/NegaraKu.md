@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "klinik-kesihatan-services" }
 related: []
 keywords: ["VIH", "sida", "ujian HIV", "PrEP", "PEP", "ART", "kesihatan seksual", "Majlis AIDS Malaysia", "Kementerian Kesihatan"]
+framework: explainer
 ---
 
 Une personne angoissée après une nuit à risque peut entrer dans une Klinik Kesihatan publique en Malaisie, se faire dépister pour le VIH gratuitement et de façon confidentielle et — si besoin — rentrer chez elle avec un traitement préventif en quelques heures. Pourtant, ce même parcours croise aussi des questions de confidentialité, de droit, de religion et de stigmatisation qui font du VIH l'un des sujets de santé les plus sensibles du pays.

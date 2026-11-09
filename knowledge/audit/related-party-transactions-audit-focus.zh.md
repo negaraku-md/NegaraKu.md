@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "going-concern-audit" }
 related: ["statutory-audit-process", "audit-opinion-types", "going-concern-audit"]
 keywords: ["related party transactions", "ISA 550", "MFRS 124", "arm's length", "Bursa Chapter 10", "recurrent related party transactions", "audit risk"]
+framework: explainer
 ---
 
 一家公司将原棕榈油出售给另一家由其主要股东所拥有的公司。发票上没有任何内容能说明这究竟是一项寻常的供货安排，还是把价值从小股东手中抽走的第一步。审计师的工作就是查明属于哪一种——而这正是《国际审计准则第 550 号——关联方》（International Standard on Auditing 550, *Related Parties*）所要解决的问题。

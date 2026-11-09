@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "malaysia-digital-arrival-card-mdac" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["malaysia visa", "visa-free countries malaysia", "malaysia evisa", "eNTRI", "malaysia digital arrival card", "social visit pass"]
+framework: rules
 ---
 
 쿠알라룸푸르행 항공편을 예약하기 전에, 첫 질문은 「어느 호텔」이 아니라 — 「내 여권으로 게이트를 통과할 수 있는가」입니다. 대부분의 여행자에게 답은 안도이지만, 규정은 국적에 따라 뚜렷이 나뉘며, 이제 하나의 온라인 양식이 거의 모든 사람에게 적용됩니다.

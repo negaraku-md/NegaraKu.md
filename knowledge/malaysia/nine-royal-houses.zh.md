@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["majlis-raja-raja", "yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["negeri beraja Malaysia", "sembilan Raja Melayu", "Sultan Raja Yang di-Pertuan Besar", "Majlis Raja-Raja", "Ketua agama Islam negeri", "Undang Yang Empat Negeri Sembilan"]
+framework: explainer
 ---
 
 马来西亚共有十三个州属，但当中只有九个拥有统治者。其余四个州属——马六甲、槟城、沙巴与砂拉越——由委任产生的州元首（Yang di-Pertua Negeri）领导，而非由统治者领导。

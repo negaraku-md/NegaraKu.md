@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "iskandar-malaysia-economic-corridor" }
 related: []
 keywords: ["foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "education hub", "transnational education"]
+framework: explainer
 ---
 
 1998년, 쿠알라룸푸르의 한 학생은 나라를 떠나지 않고도 호주 모나시(Monash) 학위를 받을 수 있었고, 그 대가로 말레이시아 가격을 냈습니다. 이 하나의 방식이 이후 말레이시아가 계속 발전시켜 온 모델을 출범시켰습니다. 즉 학생이 아니라 대학교를 들여오는 것입니다.

@@ -111,6 +111,7 @@ relations:
   - { rel: "related-to", to: "tax-penalties" }
 related: ["offboarding-statutory-checklist", "pcb-monthly-tax-deduction", "expatriate-and-non-resident-tax", "tax-penalties", "tax-appeal"]
 keywords: ["मलेशिया कर-निस्तारण", "tax clearance Malaysia", "SPC LHDN", "surat penyelesaian cukai", "CP21 प्रपत्र", "CP22A प्रपत्र", "e-SPC MyTax", "90 दिन रोक कर-निस्तारण", "section 83(5) Income Tax Act"]
+framework: rules
 ---
 
 वेतन-टीमें कर-निस्तारण को एक प्रपत्र मानती हैं। यह एक प्रपत्र नहीं है — यह **एक

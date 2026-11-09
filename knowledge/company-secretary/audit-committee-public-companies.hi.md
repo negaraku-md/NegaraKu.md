@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "appointing-an-auditor" }
 related: ["directors-duties", "appointing-an-auditor", "sdn-bhd-vs-berhad"]
 keywords: ["audit committee malaysia", "bursa listing requirements chapter 15", "audit committee composition malaysia", "independent director audit committee", "mccg practice 9", "internal audit function listed company"]
+framework: rules
 ---
 
 अधिकांश मलेशियाई निदेशकों से पूछें कि लेखा-परीक्षा समिति की अपेक्षा कहाँ से आती है और आपको बताया जाएगा कि कंपनी अधिनियम से। ऐसा नहीं है। **वाक्यांश "लेखा-परीक्षा समिति" कंपनी अधिनियम 2016 (Companies Act 2016) में कहीं प्रकट नहीं होता** — 620 धाराओं में एक बार भी नहीं — और कंपनी (संशोधन) अधिनियम 2024 ने इसे नहीं जोड़ा।

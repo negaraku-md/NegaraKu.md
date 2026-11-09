@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "traditional-chinese-medicine-in-malaysia" }
 related: ["tamil-in-malaysia", "estate-tamil-community", "traditional-chinese-medicine-in-malaysia", "hinduism-in-malaysia"]
 keywords: ["சித்த மருத்துவம்", "Siddha medicine", "மலேசியா சித்த மருத்துவம்", "Siddha medicine Malaysia", "பாரம்பரிய இந்திய மருத்துவம்", "சித்தர்கள்", "அகத்தியர்", "மூலிகை மருத்துவம்", "பாரம்பரிய மற்றும் நிரப்பு மருத்துவச் சட்டம் 2016", "Act 775"]
+framework: history-culture
 ---
 
 ในพื้นที่สวนยางเก่าแก่ของมาเลเซีย และตามถนนย่านชาวทมิฬในเมืองต่าง ๆ คุณจะพบร้านสมุนไพร — สมุนไพรแห้ง ผงยา (choornam) และน้ำมันเรียงรายอยู่บนชั้นวาง สิ่งเหล่านี้ไม่ใช่เรื่องบังเอิญ หากเป็นร่องรอยของขนบการแพทย์ที่มีอายุกว่าหนึ่งศตวรรษครึ่ง

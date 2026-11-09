@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
+framework: history-culture
 ---
 
 一座建立在锡矿之上的城市，最终为世界带来了一门金属工艺。吉隆坡之所以存在，是因为探矿者在巴生河与鹅麦河（Gombak）交汇处发现了锡矿。数十年后，一名少年锡匠为投身同一锡矿经济而来到此地，开始敲制供庙宇神台使用的香炉——他所开设的作坊，如今已是全球最大的锡镴制造商。

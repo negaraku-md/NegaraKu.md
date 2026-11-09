@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "domestic-inquiry-malaysia" }
 related: ["labour-law-map-malaysia", "termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
 keywords: ["unfair dismissal malaysia", "section 20 industrial relations act", "60 days filing dismissal", "industrial court malaysia", "backwages cap 24 months", "compensation in lieu of reinstatement"]
+framework: how-to
 ---
 
 அறுபது நாட்கள். அதுவே முழு விளையாட்டு, மேலும் பெரும்பாலான மலேசிய நியாயமற்ற பணிநீக்கக் கோரிக்கைகள் அங்குதான் அழிகின்றன — தகுதியின் அடிப்படையில் அல்ல, மாறாக ஊழியர் HR-உடன் பேச்சுவார்த்தையில் ஏழு வாரங்களையும், ஒருபோதும் வராத ஒரு பதிலுக்குக் காத்திருந்து மேலும் இரண்டு வாரங்களையும் செலவழித்து, அறுபத்து மூன்றாம் நாளில் தாக்கல் செய்ததால்.

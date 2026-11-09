@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
 keywords: ["enviar pertenencias a Malasia", "importar enseres domésticos aduanas Malasia", "Formulario de Aduanas K1 Malasia", "importar coche a Malasia", "Permiso Aprobado AP Malasia", "MITI AP importación vehículo", "JPJ matriculación vehículo importado", "PUSPAKOM coche importado", "expatriado mudanza a Malasia coche"]
+framework: explainer
 ---
 
 Toda lista de reubicación para Malasia dice lo mismo en cuanto bajas lo suficiente: envía tus muebles, vende tu coche. Nadie explica por qué esas dos instrucciones son tan distintas: una es papeleo, la otra es un muro.

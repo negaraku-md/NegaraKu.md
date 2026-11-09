@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "sdn-bhd-financial-statements-filing" }
 related: []
 keywords: ["audit statutori", "pengecualian audit", "Akta Syarikat 2016", "seksyen 267", "PD 10/2024", "juruaudit Sdn Bhd", "SSM audit exemption"]
+framework: rules
 ---
 
 你刚注册了一家Sdn Bhd，业务仍然很小，而公司秘书刚发来一张审计费用发票。问题不在于「审计要花多少钱」——而是「我究竟是不是必须接受审计？」对马来西亚大多数私人有限公司而言，默认的答案是**必须**，只有一小部分公司才真正符合逃离这项义务的资格。

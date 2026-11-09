@@ -107,6 +107,7 @@ keywords:
   - "MBPJ lesen komposit"
   - "MBSA lesen komposit"
   - "DBKK lesen berniaga"
+framework: rules
 ---
 
 Lisensi premis Anda dapat dibatalkan besok, tanpa alasan, dan dewan kota tidak

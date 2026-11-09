@@ -107,6 +107,7 @@ keywords:
   - "director duties Malaysia"
   - "nominee director Malaysia"
   - "director disqualification Malaysia"
+framework: rules
 ---
 
 ஒரு நாள் யாரோ ஒருவர் உங்களிடம் “வெறுமனே ஒரு இயக்குநராக இருங்கள், இது ஒரு கையொப்பம் மட்டுமே” என்று கேட்பார்.

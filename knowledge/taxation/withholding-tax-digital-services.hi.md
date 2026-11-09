@@ -104,6 +104,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-non-compliance", "imported-taxable-services", "cp37-forms"]
 keywords: ["रोक-कर SaaS मलेशिया", "withholding tax SaaS Malaysia", "सॉफ़्टवेयर पर रोक-कर", "withholding tax on software", "डिजिटल विज्ञापन पर रोक-कर", "Practice Note 1/2018", "क्लाउड सदस्यता रॉयल्टी", "imported taxable services vs withholding tax"]
+framework: rules
 ---
 
 एक मलेशियाई SME हर माह एक विदेशी होस्टिंग बिल, एक डिज़ाइन-टूल सदस्यता, एक विज्ञापन प्लेटफ़ॉर्म और एक मार्केटप्लेस कमीशन चुकाता है, और इनमें से किसी पर कुछ भी नहीं रोकता। फिर एक कर लेखापरीक्षा आती है और प्रश्न यह नहीं रहता कि कर देय था या नहीं — प्रश्न यह होता है कि दो पूर्णतः पृथक करों में से कौन-सा देय था, क्योंकि उत्तर प्रायः दोनों होता है।

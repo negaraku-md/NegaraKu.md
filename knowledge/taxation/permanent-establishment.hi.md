@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "dta-network" }
 related: ["dta-network", "company-tax-residence", "transfer-pricing-documentation", "withholding-tax-rates"]
 keywords: ["स्थायी प्रतिष्ठान मलेशिया", "permanent establishment Malaysia", "धारा 12(3) आयकर अधिनियम", "section 12(3) Income Tax Act", "व्यवसाय-स्थल मलेशिया कर", "दूरस्थ कर्मचारी स्थायी प्रतिष्ठान मलेशिया", "आश्रित अभिकर्ता PE मलेशिया"]
+framework: explainer
 ---
 
 मलेशिया अपने स्थायी प्रतिष्ठान के नियम को दो बार लिखता है, और दोनों संस्करण आपस में

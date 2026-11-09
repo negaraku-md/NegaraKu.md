@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#Leens", "#BibGourmand", "#MichelinGuide", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 ในห้องแถวแห่งหนึ่งใน Taman Tun Dr Ismail กลิ่นขนมปังที่เพิ่งอบใหม่เผย Leen's ออกมา

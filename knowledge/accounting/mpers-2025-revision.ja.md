@@ -98,6 +98,7 @@ relations:
   - { rel: "explained-in", to: "accounting-standards-index" }
 related: ["mfrs-vs-mpers"]
 keywords: ["MPERS 2025", "MPERS revision Malaysia", "MPERS effective date 2027", "MPERS Section 34 property development", "IFRS for SMEs third edition Malaysia", "MPERS Section 23 revenue"]
+framework: explainer
 ---
 
 あなたが MPERS のもとで報告するマレーシアの不動産デベロッパーであるなら、今後2年間で最も重要な会計上の事実は、2016年以来使い続けてきた指針が削除されるということである。

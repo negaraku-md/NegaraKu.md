@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["staying-safe-scams-and-emergencies", "duitnow-qr-payments", "opening-bank-account", "consumer-rights-and-tribunal"]
 keywords: ["cómo denunciar una estafa en Malasia", "línea 997 NSRC", "Centro Nacional de Respuesta ante Estafas", "SemakMule PDRM", "CCID Infoline 013-211 1222", "congelar cuenta de estafador", "scam call center Malaysia", "denuncia de delito financiero"]
+framework: how-to
 ---
 
 El saldo de su aplicación bancaria cae de repente, o acaba de pulsar

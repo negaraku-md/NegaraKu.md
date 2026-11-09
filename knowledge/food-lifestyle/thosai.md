@@ -91,6 +91,7 @@ verificationNeeded:
   - "How common podi thosai (thosai dusted or spread with idli/dosa spice powder) is on Malaysian menus specifically — the variety is well established in South Indian and Singaporean eateries, but Malaysian coverage is thinner; confirm with a local source."
   - "The official or standard Malay spelling of the dish — 'tosai', 'thosai' and 'tose' all circulate, and Dewan Bahasa dan Pustaka's recommended form has been publicly contested; confirm with an authoritative DBP reference."
   - "Whether coconut milk features in any common Malaysian thosai batter — most recipes use only rice, urad dal, water and salt; confirm the standard local recipe against a reliable culinary source."
+framework: explainer
 ---
 
 Walk into a mamak stall at dawn, or a banana-leaf restaurant at lunch, and

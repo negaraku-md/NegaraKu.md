@@ -90,6 +90,7 @@ keywords:
   - "charcoal grilled skewers"
 social:
   hashtags: ["#Satay", "#SatayKajang", "#SatayCelup", "#MalaysianFood", "#Malaysia"]
+framework: explainer
 ---
 
 முதலில் வருவது ஒலிதான்: சிவந்து கனன்றுகொண்டிருக்கும் கரிப் பள்ளத்தின் மேல் ஒரு கைவிசிறி

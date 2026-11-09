@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "data-breach-notification-malaysia" }
 related: ["online-safety-act-malaysia", "debt-recovery-malaysia", "data-breach-notification-malaysia"]
 keywords: ["laporan polis", "cara buat laporan polis", "e-reporting PDRM", "997 NSRC", "999 kecemasan", "Seksyen 107 Kanun Tatacara Jenayah"]
+framework: how-to
 ---
 
 Xe của bạn bị đập kính đột nhập, ví bị giật, hoặc tiền bị chuyển ra khỏi tài khoản mà không được phép — trong cả ba tình huống đó, giấy tờ đầu tiên mà mỗi bên tiếp theo sẽ yêu cầu, dù là bảo hiểm, ngân hàng hay tòa án, là số báo cáo cảnh sát của bạn. Biết cách lấy nó đúng cách, và theo đúng thứ tự, sẽ tiết kiệm nhiều giờ đồng hồ và đôi khi cứu được tiền của bạn.

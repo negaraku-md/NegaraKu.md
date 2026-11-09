@@ -81,6 +81,7 @@ keywords:
   - "kedudukan Raja-Raja Melayu"
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
+framework: history-culture
 ---
 
 Pendant un an et dix mois, Malaya fut gouvernée selon une constitution qu'aujourd'hui presque personne ne connaît au-delà de son nom. L'Union malaise commença le 1er avril 1946 et prit fin le 31 janvier 1948 — assez brève pour ne jamais laisser derrière elle de bâtiments, de monnaie ni de génération d'administrateurs propres.

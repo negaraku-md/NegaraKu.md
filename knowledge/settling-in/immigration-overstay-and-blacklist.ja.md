@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "dependant-social-visit-passes", "student-pass"]
 keywords: ["overstay Malaysia", "immigration blacklist", "Special Pass", "Immigration Act 1959/63", "compound fine", "re-entry ban", "section 15", "Overstay Management Programme"]
+framework: rules
 ---
 
 わずか一日失効したパスも、百日失効したパスも、マレーシア法の目から見れば同じ犯罪である。これは、自分の訪問、就労、扶養家族、学生、または専門職のいずれかのパスが失効していたことに気づいた人にとって居心地の悪い出発点であり——その後に起きるすべてを左右する。

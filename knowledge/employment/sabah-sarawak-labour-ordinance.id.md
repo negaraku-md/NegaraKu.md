@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "employment" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage"]
 keywords: ["ordinan buruh sabah", "ordinan buruh sarawak", "bab 67", "bab 76", "undang-undang penggajian malaysia timur", "jtk sabah", "jtk sarawak"]
+framework: explainer
 ---
 
 Cari "undang-undang penggajian Malaysia" dan setiap hasil yang Anda dapati

@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "mak-yong" }
 related: ["sabah", "population-composition", "wau"]
 keywords: ["Pesta Kaamatan", "Tadau Kaamatan", "Kadazandusun harvest festival", "Unduk Ngadau", "Bambaazon", "Huminodun", "Magavau", "KDCA", "Sabah"]
+framework: history-culture
 ---
 
 이 축제는 하나의 관념 — 추수 — 에서 이름을 따왔습니다. *카아마탄(Kaamatan)*은 카다잔두순 말로 바로 그것을 뜻하며, 축하의 나머지 모든 것 — 의례, 쌀술, 마지막 저녁에 관을 씌우는 대회 — 은 벼를 거두어들이는 그 하나의 행위에서 자라납니다.

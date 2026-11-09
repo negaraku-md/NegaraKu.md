@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "members-voluntary-winding-up-malaysia" }
 related: []
 keywords: ["statutory declaration malaysia", "akuan berkanun", "commissioner for oaths malaysia", "statutory declarations act 1960", "false statutory declaration penalty", "declaration of solvency section 443"]
+framework: explainer
 ---
 
 머지않아 사업주는 어떤 문서를 건네받으며 "이것은 법정 선서서여야 한다"는 말을 듣게

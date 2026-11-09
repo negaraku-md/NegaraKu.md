@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "estate-tamil-community" }
 related: ["chinese-education-in-malaysia", "tamil-in-malaysia", "estate-tamil-community", "languages-spoken", "population-composition"]
 keywords: ["தமிழ்ப் பள்ளி", "மலேசியா தமிழ்க் கல்வி", "SJKT", "தமிழ்வழி பள்ளி", "தோட்டப் பள்ளி", "மாணவர் தாய்மொழி POL", "Tamil vernacular schools Malaysia", "Sekolah Jenis Kebangsaan Tamil"]
+framework: explainer
 ---
 
 ไม่ว่าจะมุมใดของมาเลเซีย — ริมสวนยางพาราเก่าแก่ หรือชานเมือง — เราสามารถพบโรงเรียนทมิฬเล็ก ๆ ได้ หลายโรงเรียนในนั้นมีประวัติยาวนานกว่าหนึ่งศตวรรษ โรงเรียนเหล่านี้ไม่ได้เป็นเพียงอาคาร แต่เป็นพยานแห่งการอพยพ แรงงาน และภาษาของชุมชนหนึ่ง

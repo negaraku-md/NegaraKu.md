@@ -96,6 +96,7 @@ keywords:
   - "study visa Malaysia international student"
   - "i-Kad Malaysia"
   - "Malaysia student visa process"
+framework: explainer
 ---
 
 あなたは自分のマレーシア学生ビザを自分で申請することはできません。入学許可書を手にし、学費を払い終えていても、申請はあなたの機関を通さなければなりません——なぜなら、それを審査する機関は、少なくとも当初は、移民局ではないからです。それは一つの会社です。

@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "contract-law" }
 related: []
 keywords: ["arbitration", "AIAC", "Arbitration Act 2005", "mediation", "dispute resolution", "New York Convention", "third-party funding", "UNCITRAL"]
+framework: explainer
 ---
 
 Dua perusahaan menandatangani kontrak pasokan, satu mengirim terlambat, dan yang lain menuntut ganti rugi jutaan — tetapi tidak ada yang ingin berkas, garis waktu, atau rahasia dagang diungkapkan di dalam ruang sidang yang terbuka. Di Malaysia, di situlah arbitrase dan mediasi mengambil alih dari pengadilan.

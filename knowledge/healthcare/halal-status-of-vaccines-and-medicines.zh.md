@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-jakim" }
 related: []
 keywords: ["vaksin halal", "hukum vaksin", "gelatin dalam ubat", "fatwa vaksin COVID-19", "darurat", "maqasid syariah", "JAKIM", "Muzakarah Fatwa Kebangsaan"]
+framework: explainer
 ---
 
 一小瓶疫苗可能含有少量作为稳定剂的明胶——正是从这一细微之处，衍生出马来西亚穆斯林家庭最常提出的宗教疑问之一：它清真吗？答案并非简单的『是』或『否』，而是一套有组织的评估过程的结果，其中涉及法特瓦机构、科学研究，以及若干特定的伊斯兰教法学（fiqh）原则。

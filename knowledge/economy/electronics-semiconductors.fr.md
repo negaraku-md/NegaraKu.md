@@ -66,6 +66,7 @@ faq:
     a: 'Parce qu''une seule catégorie de produits portant environ la moitié de la base exportatrice concentre le risque de trois façons. Cyclicité : les semi-conducteurs connaissent des hauts et des bas, de sorte qu''un secteur ayant crû de 69,2 % en un an peut se contracter brutalement. Position dans la chaîne : l''assemblage et le test en aval sont plus contestables que la fabrication, si bien que des concurrents peuvent bâtir la même capacité. Géopolitique : les contrôles à l''exportation et les politiques de relocalisation (reshoring) rédigés dans d''autres économies retombent directement sur les usines malaisiennes.'
   - q: Pourquoi est-ce précisément Penang qui est le centre de l'industrie des puces en Malaisie ?
     a: Cela remonte à une décision politique de 1972. Penang a créé une zone de libre-échange et a courtisé les entreprises électroniques étrangères avec des incitations fiscales, des importations de composants en franchise de droits et une main-d'œuvre disponible. Des entreprises de semi-conducteurs américaines et japonaises y ont installé des activités d'assemblage, et un pôle (cluster) s'est formé. Les pôles se renforcent avec le temps — fournisseurs, maintenance des équipements, ingénieurs formés localement —, c'est pourquoi, un demi-siècle plus tard, Penang et Kulim concentrent encore une grande partie du secteur.
+framework: profile
 ---
 
 ## En un coup d'œil

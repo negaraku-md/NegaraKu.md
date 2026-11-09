@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "maintenance fee Malaysia", "sinking fund Malaysia", "JMB Malaysia", "Management Corporation Malaysia", "MC strata", "share units", "condo maintenance Malaysia", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
+framework: explainer
 ---
 
 คุณซื้อหน่วยที่อยู่อาศัยแล้ว แต่คุณไม่ได้ซื้อลิฟต์ ป้อมยาม สระว่ายน้ำ หรือท่อที่วิ่งผ่านผนังที่คุณใช้ร่วมกับเพื่อนบ้าน ยังต้องมีคนจ่ายค่าทั้งหมดนั้น และกฎหมายแบ่งใบเรียกเก็บเงินออกเป็นสองบัญชีที่คุณมีหน้าที่ตามกฎหมายต้องแยกออกจากกัน

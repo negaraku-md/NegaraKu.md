@@ -90,6 +90,7 @@ keywords:
   - "Malaysian students international school quota"
   - "Education Act 1996 international school"
   - "service tax international school Malaysia"
+framework: explainer
 ---
 
 一所英国课程学校与一所美国课程学校，即便分处同一小镇的两端，在纸面上也是由布城同一个部门发牌照。两者在法律上都不得向家长收取「建校基金」。两者一次调涨学费都不得超过30%。而且两者都不必公布任何由教育部本身设定的数字——因为在教育部所订立的所有规则当中，学额的实际价格从来都不在其中。

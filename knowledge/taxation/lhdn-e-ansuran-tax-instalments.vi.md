@@ -76,6 +76,7 @@ social:
     - CP204
     - CP500
     - ByrHASiL
+framework: how-to
 ---
 
 Nếu một hóa đơn thuế đến mà bạn không thể thanh toán trong một lần, cơ quan thuế

@@ -93,6 +93,7 @@ verificationNeeded:
   - "Tỷ lệ muối trên tôm (một nguồn di sản của chính phủ dẫn khoảng 10:1) và bất kỳ mức trần pháp lý nào về hàm lượng nước (một nguồn dẫn tối đa 40% theo quy định thực phẩm Malaysia) — cần đối chiếu với Malaysian Food Regulations 1985 thay vì báo chí ẩm thực."
   - "Thứ hạng các trung tâm sản xuất belacan (Penang/Balik Pulau, Perlis, Pangkor và Malacca đều được dẫn ra) và liệu Pangkor có phải là một trung tâm hàng đầu trong lịch sử hay không — cần xác nhận với nguồn thủy sản, tiểu bang hoặc di sản."
   - "Thời gian lên men và phơi khô điển hình, mà các nguồn đưa ra từ hai đến ba tuần cho tới ba đến bốn tháng và thay đổi tùy nhà sản xuất lẫn thời tiết — cần xác nhận một khoảng tiêu biểu."
+framework: explainer
 ---
 
 Ít nguyên liệu nào tuyên bố sự hiện diện của mình lớn tiếng như belacan. Mở một khối ra, mùi bốc đầy gian bếp; thả một mẩu vào chảo nóng thì như cả con phố đều biết. Thế nhưng viên gạch nhỏ sẫm màu bằng tôm lên men này lại là một trong những nền móng thầm lặng của ẩm thực Malaysia — thứ cho một món sambal chiều sâu đậm đà, cho nước trộn rojak cái mùi lên men đặc trưng, và cho một tô asam laksa cái xương sống của nó.

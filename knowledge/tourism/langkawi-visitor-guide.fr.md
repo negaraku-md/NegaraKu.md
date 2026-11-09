@@ -103,6 +103,7 @@ relations:
   - { rel: "administered-by", to: "lembaga-pembangunan-langkawi" }
 related: ["kedah"]
 keywords: ["Langkawi", "île franche", "géoparc mondial de l'UNESCO", "SkyCab", "SkyBridge", "saut d'île en île", "Kilim", "Dayang Bunting", "mer d'Andaman", "Kedah"]
+framework: profile
 ---
 
 Quatre-vingt-dix-neuf îles, des roches plus anciennes que les poissons, du whisky bon marché et un téléphérique accroché au flanc d'une montagne bâtie de roche estimée à plus de 550 millions d'années — Langkawi concentre une quantité inhabituelle de choses dans un seul archipel au large de la pointe nord-ouest de la Malaisie. C'est l'île de vacances phare de la côte ouest du pays, et elle fonctionne selon une logique presque opposée à celle des îles de plongée bordées de palmiers de l'autre côté de la péninsule. Ce guide couvre ce qui compte réellement avant de partir : les règles de la zone franche qui font trébucher les gens, le géoparc de l'UNESCO qui donne au paysage son histoire, le SkyCab et le SkyBridge, les excursions en bateau qui valent la peine, et comment choisir entre Langkawi et la côte est.

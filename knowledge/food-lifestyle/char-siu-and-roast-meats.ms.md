@@ -95,6 +95,7 @@ verificationNeeded:
   - "Punca warna kemerahan char siu — pelbagai catatan mengaitkannya dengan perapan dan pengkaramelan, taufu merah yang ditapai, atau pewarna makanan yang ditambah — sahkan dengan sumber sains makanan atau masakan yang berwibawa."
   - "Pencirian media makanan tentang char siu 'gaya KL' yang tersendiri (lebih berlemak, lebih hangus, kadangkala dibuat daripada perut khinzir) berbanding gaya serantau lain — sahkan dengan sumber masakan pakar, kerana ini diambil daripada ulasan restoran."
   - "Romanisasi dan aksara Kantonis yang tepat untuk daging panggang seperti yang digunakan di Malaysia (siu ngap 燒鴨 itik panggang, siu ngo 燒鵝 angsa panggang, dan ejaan tempatan seperti 'siew yoke') — sahkan dengan sumber leksikal Kantonis atau bahasa tempatan."
+framework: explainer
 ---
 
 Tolak buka kaca kedai daging panggang Cina dan paparannya memberitahu anda

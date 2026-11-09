@@ -92,6 +92,7 @@ verificationNeeded:
   - "The salt-to-shrimp ratio (one government heritage source cites roughly 10:1) and any legal cap on water content (one source cites a 40% maximum under Malaysian food rules) — confirm against the Malaysian Food Regulations 1985 rather than food media."
   - "The ranking of belacan production centres (Penang/Balik Pulau, Perlis, Pangkor and Melaka are all cited) and whether Pangkor is historically a leading centre — confirm with a fisheries, state or heritage source."
   - "Typical fermentation and drying durations, which sources give as anywhere from two to three weeks up to three to four months and which vary by producer and weather — confirm a representative range."
+framework: explainer
 ---
 
 Few ingredients announce themselves as loudly as belacan. Unwrap a block and the

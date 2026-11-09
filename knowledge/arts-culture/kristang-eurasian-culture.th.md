@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "christmas-malaysia" }
 related: ["peranakan", "unesco-world-heritage", "christmas-malaysia"]
 keywords: ["Kristang", "Papia Kristang", "Perkampungan Portugis Melaka", "Eurasia Malaysia", "Intrudu", "branyo"]
+framework: history-culture
 ---
 
 ที่อูจงปาซีร์ (Ujong Pasir) มะละกา มีหมู่บ้านริมทะเลที่ผู้คนทักทายกันด้วยภาษาที่ไม่ใช่มลายู ไม่ใช่อังกฤษ และไม่ใช่โปรตุเกสสมัยใหม่ — แต่เป็นเศษที่มีชีวิตของภาษาของผู้พิชิตที่มาถึงเมื่อห้าศตวรรษก่อน นี่คือโลกของชุมชนกริสตัง

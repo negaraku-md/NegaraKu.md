@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "accounting-records-section-245" }
 related: ["llp-vs-sdn-bhd", "register-llp-malaysia", "accounting-records-section-245", "sdn-bhd-bookkeeping"]
 keywords: ["rekod perakaunan PLT", "seksyen 69 Akta PLT 2012", "perakuan tahunan PLT", "solvency declaration LLP", "PLT vs Sdn Bhd", "Akta 743"]
+framework: rules
 ---
 
 An LLP can operate for years without submitting a single financial statement to SSM — and this is where a common misconception about the structure lies. The absence of a filing requirement does not mean the absence of responsibility. Section 69 of the Limited Liability Partnerships Act 2012 still binds every Limited Liability Partnership to a record-keeping standard as strict as that of a company, and section 68 replaces the public financial statement with another instrument that carries personal liability for the partners: the solvency declaration.

@@ -71,6 +71,7 @@ relations:
   - { rel: "administered-by", to: "malaysian-institute-of-accountants" }
 related: ["malaysian-institute-of-accountants"]
 keywords: ["materiality", "audit sampling", "ISA 320", "ISA 530", "ISA 450", "performance materiality", "tolerable misstatement", "statutory audit Malaysia"]
+framework: explainer
 ---
 
 Seorang auditor yang menandatangani satu set akun hampir tidak pernah melihat setiap transaksi di baliknya — dan standar menyatakan itulah cara yang benar untuk bekerja.

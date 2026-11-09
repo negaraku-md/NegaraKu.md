@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-labour-ordinance" }
 related: ["labour-law-map-malaysia", "employment-act-coverage", "working-hours-overtime-malaysia", "minimum-wage-malaysia"]
 keywords: ["employment act 1955", "employment act malaysia", "act 265", "employment amendment act 2022", "malaysia labour law", "45 hour week malaysia"]
+framework: data-reference
 ---
 
 எந்த ஒரு மலேசிய HR வலைப்பதிவைத் திறந்தாலும், Employment Act ஆனது RM2,000 என்ற பொருந்தும்-எல்லை வரியுடனும் 48 மணி நேர வாரத்துடனும், குறைந்த ஊதியம் பெறும் தொழிலாளர்களுக்கான ஒரு சட்டமாக விவரிக்கப்படுவதை இன்னும் காண்பீர்கள். இரண்டு எண்களும் செல்லாதவை. Employment (Amendment) Act 2022 (Act A1651) ஆனது **2023 ஜனவரி 1** முதல் அமலுக்கு வரும் வகையில் Act 265 ஐ மறு-எழுதியது, மேலும் Attorney General's Chambers வெளியிடும் மறுபதிப்பு இப்போது *as at 1 January 2023* என்று தலைப்பிடப்பட்டுள்ளது. இருப்பினும், தரவரிசைப்படுத்தப்பட்ட விளக்கவுரையின் பெரும்பகுதி இன்னும் “2023 இல் என்ன மாறியது” என்ற செய்திச் சுழற்சிதான் — ஒருமுறை எழுதப்பட்டு, பின்னர் ஒருபோதும் மறுபரிசீலனை செய்யப்படாதது.

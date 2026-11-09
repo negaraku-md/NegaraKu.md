@@ -98,6 +98,7 @@ verificationNeeded:
   - "La proporción exacta de Kedah en la producción nacional de arroz de Malasia: las fuentes dan en torno al 40 %, alrededor del 43 % y cerca de la mitad, mientras que una cifra académica basada en MADA sitúa la región de Muda en torno al 38,9 %. Confírmese con datos primarios de MADA o del Departamento de Estadística de Malasia para un año dado."
   - "Cuánto se aparta realmente el laksa Kedah / laksa utara del asam laksa de Penang: algunas fuentes consideran la diferencia sobre todo de guarnición (p. ej., huevo cocido añadido), otras un caldo más espeso y un sabor más suave y menos ácido, y cuál es el pescado estándar (ikan kembung frente a la variante con ikan termenung). Confírmese con una fuente culinaria o patrimonial de Kedah."
   - "El peso relativo de la influencia del sur de Tailandia frente a la de Sumatra en la cocina malaya de Kedah, y si el budu forma realmente parte de la mesa de Kedah: el budu se asocia sobre todo con la costa este (Kelantan/Terengganu), mientras que Kedah se apoya en el pekasam. Confírmese con una fuente de historia gastronómica regional."
+framework: history-culture
 ---
 
 Conduce hacia el norte por la península y la tierra se aplana en una lámina casi ininterrumpida

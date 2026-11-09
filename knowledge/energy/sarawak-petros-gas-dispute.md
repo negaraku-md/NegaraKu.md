@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "malaysia-agreement-1963" }
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["Petros", "Sarawak", "gas", "agregator gas", "Ordinan Pengagihan Gas 2016", "Ordinan Pengagihan Gas (Pindaan) 2023", "Petronas", "Akta Kemajuan Petroleum 1974", "MA63"]
+framework: explainer
 ---
 
 Pada satu meja perundingan di Kuala Lumpur, dua entiti tenaga milik kerajaan — satu Persekutuan, satu negeri — cuba menyelaraskan siapa yang mengawal aliran gas di Sarawak. Di sebaliknya terletak soalan yang lebih besar: undang-undang manakah yang mengikat apabila hak negeri dan kuasa Persekutuan bertembung?

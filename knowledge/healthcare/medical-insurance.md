@@ -72,6 +72,7 @@ faq:
     a: 'Group Hospitalisation and Surgical (GHS) cover is tied to the job. If you resign, are retrenched, or retire, the policy stops the day employment does — there is no automatic personal continuation. A standalone personal medical card, by contrast, is portable: it stays yours regardless of employer as long as premiums are paid and the policy is renewed, which is why many people treat one as a backstop.'
   - q: Is a 'no co-payment' medical policy automatically better than one with co-payment?
     a: Not necessarily — the article lists this as a common mistake. A no-co-payment plan carries a higher premium for the same benefit limits. Under co-payment, you agree upfront to bear a defined share of each eligible hospital bill in exchange for a lower premium. Whether that trade-off is worth it depends on how much of a bill you could absorb yourself; check the product disclosure sheet for the percentage, any cap, and exempted treatments.
+framework: explainer
 ---
 
 Two employees walk into the same private hospital with the same broken arm. One hands over a card and walks out without paying a sen at discharge. The other pays a slice of the bill themselves, because the policy she bought six months ago was cheaper for exactly that reason.

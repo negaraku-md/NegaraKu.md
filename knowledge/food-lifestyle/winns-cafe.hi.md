@@ -74,6 +74,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#WinnsCafe", "#Peranakan", "#Nyonya", "#Penang", "#BibGourmand"]
+framework: profile
 ---
 
 पेनांग जलडमरूमध्य के चीनी भोजन का पुराना गढ़ है, और Winn's Cafe उस परंपरा को सबसे

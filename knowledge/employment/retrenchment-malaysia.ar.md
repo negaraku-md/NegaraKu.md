@@ -122,6 +122,7 @@ relations:
   - { rel: "requires", to: "termination-benefits-malaysia" }
 related: ["termination-of-employment-malaysia", "termination-benefits-malaysia", "unfair-dismissal-malaysia", "offboarding-statutory-checklist"]
 keywords: ["تسريح العمال ماليزيا", "retrenchment malaysia", "نموذج PK", "borang pk", "إجراء فائض العمالة", "redundancy malaysia procedure", "VSS malaysia", "LIFO retrenchment malaysia"]
+framework: rules
 ---
 
 ابحث عن الموعد النهائي لنموذج PK وستجد عبارة «30 يوماً» مكرّرة عبر عشرات من صفحات الموارد البشرية الماليزية وكأنها الجواب الكامل. وهي في الحقيقة نحو ثلث الجواب فحسب. فالنموذج نفسه — ملف PDF الفعلي الذي تنشره إدارة العمل في شبه جزيرة ماليزيا (JTKSM) — يحدّد **ثلاثة مواعيد نهائية منفصلة**، واثنان منها يقعان *بعد* أن يكون تسريح العمال قد حدث فعلاً.

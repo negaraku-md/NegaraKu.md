@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "retrenchment-malaysia" }
 related: ["termination-of-employment-malaysia", "retrenchment-malaysia", "offboarding-statutory-checklist"]
 keywords: ["مزايا إنهاء الخدمة في ماليزيا", "حساب مزية التسريح", "لوائح TBLB 1980", "تعويض نهاية الخدمة في ماليزيا", "مزايا التسريح المؤقت في ماليزيا", "أجر 10 15 20 يومًا", "termination benefits malaysia", "TBLB regulations 1980"]
+framework: rules
 ---
 
 يسرّح صاحبا عمل الموظفَ نفسه في اليوم نفسه. أحدهما يدفع راتب شهر ويعدّه سخاءً.

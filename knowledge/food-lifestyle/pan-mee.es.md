@@ -89,6 +89,7 @@ verificationNeeded:
   - "Si el pan mee seco con chile se «inventó» concretamente en el Restoran Kin Kin o, de forma más amplia, en la zona de Chow Kit de Kuala Lumpur: Wikipedia sitúa su origen en Chow Kit, mientras que la atribución a Kin Kin circula con amplitud en los medios gastronómicos y los blogs de recetas, pero no está firmemente documentada."
   - "Los aderezos estándar, en particular si la oreja de madera (y no el shiitake seco u otras setas) es la tradicional: recetas y puestos acreditados varían; confírmalo con una fuente culinaria malaya."
   - "La relación y la denominación entre el pan mee y el mee hoon kueh, y la afirmación de que las zonas de habla hokkien (incluida Singapur) prefieren el nombre mee hoon kueh: las fuentes los describen como estrechamente relacionados o como el mismo plato bajo etiquetas dialectales distintas; confírmalo con una fuente regional."
+framework: explainer
 ---
 
 Entra en un café de Kuala Lumpur, Seremban o Ipoh y encontrarás un puesto dando forma

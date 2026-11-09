@@ -88,6 +88,7 @@ relations:
   - { rel: "affects", to: "employment-act-1955" }
 related: ["stamp-duty-rates", "stamp-duty-self-assessment", "employment-act-1955"]
 keywords: ["stamp duty employment contract Malaysia", "kontrak penggajian duti setem", "RM10 stamp duty offer letter", "STAMPS employment contract", "item 4 First Schedule"]
+framework: rules
 ---
 
 En junio de 2025, LHDN dijo a los empleadores algo que la mayoría nunca había considerado: cada contrato de trabajo del archivador es un instrumento gravable, y las auditorías ya habían comenzado. La concesión que siguió ha expirado ya, y lo que la reemplazó es una obligación de cumplimiento ordinaria con una sanción ordinaria.

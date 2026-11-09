@@ -93,6 +93,7 @@ relations:
   - { rel: "explained-in", to: "corporate-tax-rates" }
 related: ["personal-tax-rates", "corporate-tax-rates", "personal-tax-reliefs", "pcb-monthly-tax-deduction"]
 keywords: ["income tax Malaysia", "cukai pendapatan Malaysia", "LHDN income tax", "182 day rule Malaysia", "self assessment system Malaysia", "chargeable income", "Malaysia tax residency", "year of assessment"]
+framework: explainer
 ---
 
 ほとんどの人は、マレーシアの所得税を給与明細の一行——「PCB」——と、年に一度の4月の慌ただしさとして出会う。その一行の背後には、国内で最も重大な制度の一つが横たわっており、それについて書かれたもののほとんどは誤った場所——税率表——から始まっている。

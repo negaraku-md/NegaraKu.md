@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "online-business-licence-malaysia" }
 related: ["online-safety-act-malaysia", "online-business-licence-malaysia"]
 keywords: ["सोशल मीडिया लाइसेंस मलेशिया", "social media licence Malaysia", "ASP क्लास लाइसेंस MCMC", "ASP class licence MCMC", "8 मिलियन उपयोगकर्ता मलेशिया लाइसेंस", "8 million users Malaysia licence", "क्या मुझे सोशल मीडिया लाइसेंस चाहिए मलेशिया"]
+framework: explainer
 ---
 
 हर कुछ महीनों में किसी मलेशियाई विक्रेता को बताया जाता है कि उसे एक सोशल मीडिया लाइसेंस की ज़रूरत है। उसे नहीं है।

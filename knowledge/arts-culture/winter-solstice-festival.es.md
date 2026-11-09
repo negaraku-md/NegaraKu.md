@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "chinese-dialects"]
 keywords: ["冬至", "汤圆", "汤丸", "咸汤圆", "冬大过年", "冬至大如年", "添岁", "搓汤圆", "Tang Chek", "Dongzhi", "马来西亚华人", "节气", "Winter Solstice Festival"]
+framework: history-culture
 ---
 
 Una tarde de finales de diciembre, en la cocina el aroma de la harina de arroz glutinoso se mezcla con el dulzor del caldo de jengibre. La familia se reúne alrededor de la mesa y amasa, uno a uno, pequeños trozos de masa de arroz hasta convertirlos en bolitas: algunas blancas, otras teñidas de rosa y verde claro. Las bolitas en manos de los niños son de todos los tamaños, y los adultos, mientras amasan, dicen: en cuanto comes el tangyuan, ya has cumplido un año más. Este día es el Solsticio de Invierno.

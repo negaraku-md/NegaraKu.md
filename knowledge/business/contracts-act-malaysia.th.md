@@ -89,6 +89,7 @@ keywords:
   - "is a non-compete enforceable in Malaysia"
   - "liquidated damages Malaysia section 75"
   - "Akta Kontrak 1950"
+framework: explainer
 ---
 
 บริษัทมาเลเซียลงนามในสัญญาการจัดจำหน่ายที่ร่างขึ้นในลอนดอน มันมีข้อห้ามแข่งขันหลังการเลิกสัญญาสิบสองเดือน จำกัดอย่างระมัดระวังไว้ที่พื้นที่ที่กำหนดและสายผลิตภัณฑ์ที่กำหนด พร้อมข้อการแยกส่วนได้ (severability clause) อยู่ด้านล่าง

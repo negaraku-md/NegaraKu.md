@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
 related: []
 keywords: ["subsidi baja padi", "SBPKP", "SIPP", "insentif pengeluaran padi", "subsidi pertanian", "bantuan input pesawah"]
+framework: explainer
 ---
 
 ปุ๋ยกระสอบที่ชาวนาแบกไปยังนาของตนในเช้าวันนั้น ไม่ได้ซื้อด้วยเงินของตนเอง — มันมาโดยไม่ต้องจ่าย เพราะรัฐบาลกลางรับภาระมานานหลายทศวรรษ นี่คือโฉมหน้าที่แท้จริงของเงินอุดหนุนการเกษตรของมาเลเซียสำหรับข้าว ไม่ใช่เช็คหรือเงินเข้าบัญชี แต่เป็นปุ๋ย ยา และแรงจูงใจที่รับภาระต้นทุนส่วนใหญ่ในไร่นา

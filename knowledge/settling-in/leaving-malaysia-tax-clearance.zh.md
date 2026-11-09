@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "epf-socso-employees" }
 related: ["lhdn", "tax-clearance", "offboarding-statutory-checklist", "employment-pass-malaysia", "moving-to-malaysia-first-steps", "epf-socso-employees"]
 keywords: ["tax clearance Malaysia", "Surat Penyelesaian Cukai", "SPC LHDN", "CP21 form Malaysia", "leaving Malaysia tax clearance", "expatriate tax clearance Malaysia", "e-SPC MyTax", "EPF leaving country withdrawal"]
+framework: rules
 ---
 
 你已经递交辞呈，订好机票，也开始把家具送人了。这时人力资源部却问起一样你从没听过的东西：税务清缴信。没有它，你最后一笔薪酬有一部分动不了——而且理应去申请它的人，根本不是你。

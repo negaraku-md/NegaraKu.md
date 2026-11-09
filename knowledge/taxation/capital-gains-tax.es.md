@@ -91,6 +91,7 @@ relations:
   - { rel: "explained-in", to: "capital-or-revenue" }
 related: ["capital-or-revenue", "rpgt-rates", "corporate-tax-rates", "income-tax-act-1967"]
 keywords: ["impuesto sobre ganancias de capital Malasia", "CGT acciones no cotizadas", "capital gains tax Malaysia", "CGT unlisted shares", "e-CKM", "section 15C", "2% gross disposal price"]
+framework: explainer
 ---
 
 Durante cincuenta y siete años Malasia gravó la renta y dejó intacto el capital.

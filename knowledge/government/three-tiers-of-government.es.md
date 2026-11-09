@@ -84,6 +84,7 @@ faq:
     a: No. Kuala Lumpur, Putrajaya y Labuan son Territorios Federales, puestos bajo la administración federal directa por la Lista Federal (punto 27) en lugar de ser gobernados por un estado. No tienen Soberano (Ruler), Menteri Besar ni Asamblea Legislativa Estatal; Kuala Lumpur y Putrajaya se administran a través del Ministerio de Territorios Federales. Solo los 13 estados tienen sus propias Constituciones estatales y gobiernos.
   - q: Si el gobierno local es una materia de la Lista Estatal, ¿por qué legisla sobre ello el Parlamento?
     a: El gobierno local es el punto 4 de la Lista Estatal del Noveno Anexo (Ninth Schedule), lo que otorga a los estados la condición legislativa. Pero el Parlamento ejerce esa facultad de manera uniforme para la Malasia Peninsular a través de la Ley de Gobierno Local de 1976 (Ley 171), una ley federal que los estados adoptaron en virtud del mecanismo de uniformidad de la Constitución. El Artículo 95A también crea un Consejo Nacional para el Gobierno Local (National Council for Local Government) cuyas decisiones pueden vincular a los estados. Sabah y Sarawak, en cambio, utilizan sus propias ordenanzas (ordinance) separadas.
+framework: explainer
 ---
 
 Los malasios votan por un diputado del Parlamento. Votan por un asambleísta estatal. Nunca han votado por el alcalde o los concejales que fijan su impuesto de valoración, autorizan su puesto ambulante o aprueban la ampliación de su casa — porque esa elección no se celebra en ningún lugar de Malasia desde 1965.

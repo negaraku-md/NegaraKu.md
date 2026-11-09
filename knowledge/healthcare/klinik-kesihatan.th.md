@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "peka-b40" }
 related: ["dental-care"]
 keywords: ["Klinik Kesihatan Malaysia", "klinik kerajaan Malaysia", "MySejahtera temujanji klinik", "PeKa B40", "penjagaan kesihatan primer Malaysia", "KKM klinik kesihatan", "klinik komuniti vs klinik kesihatan", "cara daftar klinik kesihatan"]
+framework: explainer
 ---
 
 ไข้ไม่ลด ลูกต้องฉีดวัคซีน หรือความดันโลหิตต้องติดตามทุกเดือน — และคำถามแรกที่เกิดขึ้นมักไม่ใช่ "รักษาอย่างไร" แต่คือ "จะไปคลินิกไหนดี" คลินิกเอกชนรวดเร็วแต่แพง โรงพยาบาลของรัฐแออัดสำหรับปัญหาเล็ก ๆ และ "คลินิกของรัฐ" เองจริง ๆ แล้วไม่ใช่สถานพยาบาลประเภทเดียว — หลายคนไม่รู้ว่าคลินิกสุขภาพ คลินิกชุมชน และคลินิกทันตกรรม เป็นสถานพยาบาลที่แยกต่างหากสามแห่งภายใต้หลังคาเดียวกัน

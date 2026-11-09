@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "employment" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage"]
 keywords: ["قانون العمل صباح", "sabah labour ordinance", "قانون العمل ساراواك", "sarawak labour ordinance", "cap 67", "cap 76", "قانون العمل ماليزيا الشرقية", "jtk sabah", "jtk sarawak"]
+framework: explainer
 ---
 
 ابحث عن «قانون العمل الماليزي» وستجد أن كل نتيجة تحصل عليها تصف شبه جزيرة ماليزيا ولا تقول ذلك في أي موضع. ولهذا الصمت كلفة: فسياسة موارد بشرية وطنية مكتوبة مقابل قانون العمل لسنة 1955 (Employment Act 1955) هي ببساطة القانون الخاطئ لأي شخص يعمل في كوتا كينابالو أو سانداكان أو كوتشينغ أو ميري.

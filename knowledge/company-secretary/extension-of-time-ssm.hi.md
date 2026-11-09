@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "ssm-late-lodgement-fees" }
 related: ["financial-statements-lodgement", "mbrs-2", "ssm-late-lodgement-fees", "sdn-bhd-filing-calendar", "annual-return"]
 keywords: ["समय-विस्तार SSM", "extension of time SSM", "EOT SSM Malaysia", "Practice Note 3/2018", "धारा 259(2) कंपनी अधिनियम 2016", "वित्तीय विवरण समय-सीमा विस्तार मलेशिया", "EOT आवेदन कंपनी सचिव"]
+framework: how-to
 ---
 
 अस्वीकृत किए गए अधिकांश विस्तार आवेदन अपने गुण-दोष के आधार पर अस्वीकृत नहीं होते।

@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "payroll-compliance-malaysia" }
 related: ["epf-employer-guide", "payroll-compliance-malaysia", "socso-eis-employer-guide"]
 keywords: ["EPF travailleur étranger Malaisie", "EPF non-citoyen 2 pour cent", "KWSP pekerja asing caruman", "Third Schedule Part F", "cotisation EPF expatrié"]
+framework: rules
 ---
 
 Pendant vingt-sept ans, l'EPF pour un travailleur étranger était une chose qu'un employeur pouvait largement ignorer : le salarié pouvait choisir d'y adhérer et, s'il le faisait, la part patronale était une somme forfaitaire de RM5 par mois, quel que soit le salaire. Ce dispositif n'existe plus. Il n'a pas été modifié — il a été supprimé.

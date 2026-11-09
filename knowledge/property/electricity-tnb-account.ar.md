@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "mobile-sim-plans" }
 related: ["moving-to-malaysia-first-steps", "mobile-sim-plans"]
 keywords: ["حساب كهرباء TNB", "فتح حساب TNB جديد", "وديعة كهرباء TNB", "تغيير اسم حساب الكهرباء", "Change of Tenancy TNB", "كهرباء SESB صباح", "وديعة Sarawak Energy", "myTNB Self Meter Reading", "قراءة عداد الكهرباء", "Kedai Tenaga", "electricity account Malaysia"]
+framework: how-to
 ---
 
 حصلتَ على مفاتيح منزلك الجديد، لكنّ مفتاح الإضاءة لا يفعل شيئًا.

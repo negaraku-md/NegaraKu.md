@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "logistics-ports-industry" }
 related: ["ecer-guide", "kl-singapore-high-speed-rail", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["East Coast Rail Link", "ECRL", "Laluan Rel Pantai Timur", "Malaysia Rail Link", "CCCC railway Malaysia", "ECRL cost completion", "Kota Bharu Port Klang rail", "ECER rail"]
+framework: profile
 ---
 
 Trong nhiều thập niên, cách nhanh nhất để đi lại giữa Kuala Lumpur và các bang bờ Đông là một chặng đường bộ dài băng qua núi. Tuyến đường sắt Bờ Đông là canh bạc của Malaysia rằng một tuyến đường ray duy nhất có thể thay đổi điều đó — và trong quá trình ấy, tái cân bằng nơi tăng trưởng của đất nước diễn ra.

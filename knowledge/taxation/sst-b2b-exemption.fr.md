@@ -67,6 +67,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-expansion-2025", "sst-registration", "sst-02-filing"]
 keywords: ["exonération SST B2B", "impôt de services B2B Malaisie", "exonération d'entreprise à entreprise impôt de services", "exonération même service imposable", "service tax B2B Malaysia"]
+framework: rules
 ---
 
 L'exonération B2B échoue presque toujours sur la même condition : le service acquis doit être **le même service imposable** que celui que l'acquéreur va fournir. Pas un service connexe, pas un service du même groupe — le même poste.

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "asean-free-trade-area" }
 related: ["miti", "malaysia-cptpp"]
 keywords: ["RCEP", "Malaysia trade agreement", "rules of origin", "Form RCEP", "tariff elimination", "ASEAN", "MITI", "free trade agreement"]
+framework: explainer
 ---
 
 Tandatangani satu sertifikat asal, dan sebuah barang buatan Malaysia dapat bergerak bebas pajak lintas pasar yang membentang dari Auckland ke Beijing ke Kuala Lumpur. Itulah, dalam satu kalimat, apa yang diubah oleh RCEP bagi eksportir Malaysia.

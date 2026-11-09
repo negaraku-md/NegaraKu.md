@@ -92,6 +92,7 @@ verificationNeeded:
   - "Asal-usul otak-otak (umumnya ditelusuri ke Palembang, Sumatra Selatan, dan digambarkan sebagai perpaduan Melayu–Peranakan) — klaim ini diperdebatkan antara Indonesia, Malaysia, dan Singapura; konfirmasikan dengan sumber sejarah makanan atau warisan, bukan media restoran atau resep."
   - "Etimologi rakyat 'otak' ('otak', dari penampilan adonan yang mirip otak) — konfirmasikan dengan sumber linguistik atau leksikografi, bukan media makanan."
   - "Apakah kemiri (buah keras) termasuk dalam rempah otak-otak yang standar — sebagian resep memasukkannya sementara yang lain (mis. resep Nyonya Cooking yang dikutip) tidak; konfirmasikan komposisi pasta yang khas dengan sumber kuliner Peranakan."
+framework: explainer
 ---
 
 Buka sebuah bungkusan otak-otak dan hal pertama yang Anda temui adalah aromanya:

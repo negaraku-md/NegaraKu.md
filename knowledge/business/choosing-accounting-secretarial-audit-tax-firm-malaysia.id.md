@@ -77,6 +77,7 @@ sources:
 relations: []
 related: ["company-secretary-malaysia", "audit-exemption-criteria"]
 keywords: ["choose company secretary Malaysia", "accounting firm Malaysia", "audit firm Malaysia", "tax agent Malaysia", "corporate services firm Malaysia", "Big Four Malaysia", "MIA licensed firm", "SSM company secretary licence", "how to choose accountant Malaysia", "company secretary firm vs individual"]
+framework: decision
 ---
 
 Setiap perusahaan Malaysia bersandar pada lingkaran kecil profesional yang tidak pernah terlihat dalam bagan organisasinya: sekretaris perusahaan yang menjaganya tetap sah, akuntan yang menjaga pembukuannya, auditor yang menandatangani angka-angkanya, dan agen pajak yang mengajukan ke LHDN. Memilih mereka dengan baik menghemat uang dan malam-malam tanpa tidur. Namun carilah "sekretaris perusahaan terbaik di Malaysia" dan hampir setiap panduan yang Anda temukan ditulis oleh firma yang menjual layanan itu. Yang ini tidak.

@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "singapore-separation-1965" }
 related: ["malayan-union", "melaka-sultanate", "singapore-separation-1965"]
 keywords: ["Straits Settlements", "स्ट्रेट्स सेटलमेंट्स", "पेनांग औपनिवेशिक इतिहास", "मेलाका ब्रिटिश शासन", "सिंगापुर क्राउन कॉलोनी", "Pangkor Treaty 1874", "British Resident system", "Federated Malay States", "Unfederated Malay States", "Resident-General Kuala Lumpur", "Johor General Adviser"]
+framework: history-culture
 ---
 
 तीन बंदरगाह, प्रशासनिक स्थिति में चार परिवर्तन, और इकतालीस वर्ष। यह स्ट्रेट्स सेटलमेंट्स का हाल है, मलय राज्यों को छूने से पहले ही।

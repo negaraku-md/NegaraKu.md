@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-digital-services", "cp37-forms"]
 keywords: ["failure to withhold tax Malaysia", "section 39(1)(j)", "withholding tax penalty Malaysia", "10 percent increase withholding tax", "section 113(2) penalty"]
+framework: explainer
 ---
 
 RM5,000の源泉徴収税を控除し忘れても、その代償はRM5,000では済まない。RM5,500の税、損金算入を失ったことによるRM12,000、そして他のすべてを払い終えた後もなお記録に残り続ける罰金がかかる。この算術は、一度きちんと計算しておく価値がある。

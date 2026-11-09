@@ -140,6 +140,7 @@ keywords:
   - "كيفية فتح شركة في ماليزيا"
   - "how to open company Malaysia"
   - "CRS SSM4U registration"
+framework: how-to
 ---
 
 يقضي معظم المؤسّسين أسابيع في القلق بشأن التأسيس. وهو عادةً أسهل شيء سيفعلونه طوال العام.

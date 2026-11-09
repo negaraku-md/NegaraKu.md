@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "employment-pass-malaysia" }
 related: ["moving-to-malaysia-first-steps", "imigresen", "employment-pass-malaysia", "work-passes-malaysia", "opening-bank-account"]
 keywords: ["Dependant Pass Malaysia", "Long-Term Social Visit Pass", "LTSVP Malaysia", "Employment Pass family", "sponsor spouse Malaysia visa", "parents visa Malaysia expatriate", "Malaysia family visa options"]
+framework: explainer
 ---
 
 マレーシアに移り住むエンプロイメントパス（EP）保有者は、配偶者と幼い子女を一枚のパスで帯同できる。その父母、あるいは十八歳になったばかりの子女には、まったく別のパスが必要となる。同じ主たる保有者、同じ世帯でありながら、二つの独立した移民カテゴリーが存在する——両者を混同することこそ、家族のスポンサー申請が滞る最も一般的な原因である。

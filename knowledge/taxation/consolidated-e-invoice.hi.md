@@ -86,6 +86,7 @@ relations:
   - { rel: "explained-in", to: "myinvois-phases" }
 related: ["e-invoicing", "myinvois-phases", "self-billed-e-invoice", "e-invoice-data-fields", "myinvois-integration"]
 keywords: ["समेकित e-Invoice", "e-invois disatukan", "RM10000 e-Invoice नियम", "समेकित e-Invoice समय-सीमा", "General Public EI00000000010", "वे उद्योग जो e-Invoice समेकित नहीं कर सकते"]
+framework: explainer
 ---
 
 समेकन वह रियायत है जो एक मामक, एक मिनीमार्ट या एक क्लिनिक के लिए e-Invoicing को

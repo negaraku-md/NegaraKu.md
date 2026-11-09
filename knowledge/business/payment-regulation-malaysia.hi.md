@@ -72,6 +72,7 @@ relations:
   - { rel: "governs", to: "financial-services-act-2013" }
 related: ["foreign-exchange-policy-malaysia", "online-business-licence-malaysia"]
 keywords: ["भुगतान लाइसेंस मलेशिया", "ई-मनी लाइसेंस मलेशिया", "BNM भुगतान मंज़ूरी", "व्यापारी अधिग्रहण मलेशिया", "सीमित उद्देश्य ई-मनी", "FSA 2013 schedule 1"]
+framework: rules
 ---
 
 एक संस्थापक एक वॉलेट जोड़ता है ताकि ग्राहक टॉप-अप करके तेज़ी से भुगतान कर सकें।

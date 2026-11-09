@@ -79,6 +79,7 @@ relations:
   - { rel: "compares-with", to: "amanah-saham-bumiputera" }
 related: ["securities-commission-malaysia"]
 keywords: ["unit trust malasia", "fondos unit trust", "valor liquidativo neto", "comisión de venta", "comisión de gestión", "comisión de valores", "FIMM", "fondo de renta variable", "fondo del mercado monetario", "EPF i-invest"]
+framework: explainer
 ---
 
 Entregue su dinero a un desconocido para que lo invierta y querrá tres cosas: reglas, un árbitro que lleve la cuenta y alguien más que guarde el efectivo. Un unit trust malasio le da las tres. Sus ringgit se agrupan con los de miles de otros inversores, una sociedad gestora con licencia decide qué comprar, y un fideicomisario independiente custodia los activos para que el gestor no pueda simplemente llevárselos. Todo el arreglo se sitúa bajo la Securities Commission Malaysia (SC).

@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "payroll-compliance-malaysia" }
 related: ["epf-employer-guide", "payroll-compliance-malaysia", "socso-eis-employer-guide"]
 keywords: ["EPF العمّال الأجانب ماليزيا", "EPF غير المواطنين 2 في المئة", "Third Schedule Part F", "اشتراك EPF للمغتربين", "EPF foreign worker Malaysia"]
+framework: rules
 ---
 
 طوال سبعةٍ وعشرين عاماً، كان EPF بالنسبة إلى العامل الأجنبي أمراً يمكن لصاحب العمل

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "pewter" }
 related: ["songket", "jawi-script", "pewter", "terengganu", "kelantan"]
 keywords: ["ukiran kayu", "ukiran kayu Melayu", "awan larat", "Desa Ukiran Kayu Besut", "motif ukiran kayu", "kraf kayu Terengganu"]
+framework: history-culture
 ---
 
 ஒரு பழைய மலாய் வீட்டின் ஜன்னலில் உள்ள மரப் பலகையை உற்றுப் பாருங்கள், அதன் வடிவம் எங்கே தொடங்குகிறது என்று கண்டுபிடிக்க முயலுங்கள். உங்களால் கண்டுபிடிக்க முடியாது. அது உங்கள் கண்களின் தவறு அல்ல — அது வேண்டுமென்றே அப்படி வடிவமைக்கப்பட்டது.

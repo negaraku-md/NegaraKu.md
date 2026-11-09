@@ -97,6 +97,7 @@ verificationNeeded:
   - "La atribución comunitaria del pan mee a los cocineros hakka y del loh shi fun/lai fun a grupos dialectales concretos: suele repetirse en la escritura gastronómica pero no está documentada de forma consistente; confírmese con una fuente culinaria o patrimonial local."
   - "Si 'mee hoon'/'mihun' y 'bihun' se usan de forma intercambiable en toda Malasia, o si el uso regional los distingue: compruébese contra un diccionario malasio o una fuente de estudios alimentarios."
   - "La afirmación de que la mayoría de las hebras de fideos de Malasia son de origen chino meridional (hokkien, teochew, cantonés, hakka) adaptadas localmente: ampliamente aceptada, pero confírmense las atribuciones concretas con una referencia de historia de la alimentación en vez de con medios gastronómicos."
+framework: explainer
 ---
 
 Pide "fideos" en un café de Malasia y la siguiente pregunta es casi siempre otra: ¿*qué* fideo? ¿Mee amarillo

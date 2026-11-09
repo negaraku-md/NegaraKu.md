@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "mfrs-vs-mpers" }
 related: ["financial-statement-pack", "financial-year-end", "mfrs-vs-mpers", "mbrs-2-filing-guide"]
 keywords: ["NSRF Malaysia", "IFRS S1 S2 Malaysia", "sustainability reporting Malaysia", "large non-listed company RM2 billion", "Scope 1 Scope 2 assurance Malaysia", "ACSR", "sustainability reporting timeline"]
+framework: rules
 ---
 
 Sustainability reporting arrived in Malaysia as a communications topic and is

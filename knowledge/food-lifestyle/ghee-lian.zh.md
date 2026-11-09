@@ -72,6 +72,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#GheeLian", "#Penang", "#BibGourmand", "#StreetFood", "#Malaysia"]
+framework: profile
 ---
 
 Tom yum 本是泰国出身，但在乔治市旧 Esplanade 附近的一个小贩摊上，它却染上了一抹

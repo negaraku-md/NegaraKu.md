@@ -73,6 +73,7 @@ social:
     - StartABusiness
     - DoingBusinessInMalaysia
     - JKM
+framework: how-to
 ---
 
 Mở một trung tâm giữ trẻ có vẻ như một doanh nghiệp giàu lòng quan tâm, rào cản thấp — một ngôi nhà, vài chiếc cũi, vài đôi bàn tay ấm áp. Ở Malaysia về mặt pháp lý nó không phải là bất kỳ điều nào trong số đó. Khoảnh khắc bạn nhận bốn trẻ nhỏ trở lên từ các gia đình khác nhau để lấy tiền, bạn đang vận hành một **TASKA** (taman asuhan kanak-kanak), và một TASKA không thể mở cho đến khi nó được đăng ký với chính phủ. Bỏ qua bước đó và bạn không phải là một chủ doanh nghiệp nhỏ; bạn đang phạm một hành vi phạm tội.

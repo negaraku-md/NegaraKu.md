@@ -100,6 +100,7 @@ keywords:
   - "NTAX NCER closed"
   - "Kulim Hi-Tech Park incentives"
   - "koridor utara NCER"
+framework: explainer
 ---
 
 북부 회랑이 투자자에게 무엇을 주는지 물으면 세제 감면 목록을 받게 될 것입니다. 그 거의 전부가 시대에 뒤떨어졌으며, 시대에 뒤떨어지지 않은 부분은 애초에 NCIA가 줄 수 있는 것이 아니었습니다.

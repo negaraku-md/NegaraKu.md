@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "payroll-compliance-malaysia" }
 related: ["epf-employer-guide", "payroll-compliance-malaysia", "socso-eis-employer-guide"]
 keywords: ["EPF विदेशी श्रमिक मलेशिया", "EPF गैर-नागरिक 2 प्रतिशत", "Third Schedule Part F", "प्रवासी कर्मचारी EPF अंशदान", "EPF foreign worker Malaysia"]
+framework: rules
 ---
 
 सत्ताईस वर्षों तक, किसी विदेशी श्रमिक के लिए EPF एक ऐसी चीज़ थी जिसे नियोक्ता

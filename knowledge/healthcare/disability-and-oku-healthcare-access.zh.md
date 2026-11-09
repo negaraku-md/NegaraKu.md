@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "public-healthcare-system" }
 related: []
 keywords: ["OKU", "kad OKU", "penjagaan kesihatan OKU", "PDK", "pemulihan dalam komuniti", "alat bantuan", "JKM", "KKM", "EPOKU", "BTB"]
+framework: explainer
 ---
 
 一张塑料卡片决定了一名自闭症儿童能否获得早期治疗，或一名失去腿部的成年人能否拥有假腿。在马来西亚，这张OKU卡正是通往几乎每一项为残障人士设计的服务与援助的入口——理解它如何运作，能省下时间、金钱，以及被延误的治疗。

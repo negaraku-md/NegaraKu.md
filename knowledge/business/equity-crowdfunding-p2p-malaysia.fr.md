@@ -87,6 +87,7 @@ relations:
   - { rel: "compares-with", to: "sme-financing-malaysia" }
 related: ["sme-financing-malaysia", "share-capital-malaysia", "shareholders-agreement-malaysia"]
 keywords: ["financement participatif en capital Malaisie", "equity crowdfunding malaysia", "financement P2P Malaisie", "p2p financing malaysia", "ECF Malaisie", "opérateur de marché reconnu SC", "lever des fonds PME Malaisie", "financement de factures P2P"]
+framework: decision
 ---
 
 Une PME malaisienne refusée par trois banques faute de garanties dispose d'une seconde

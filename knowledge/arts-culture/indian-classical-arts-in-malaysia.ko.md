@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "temple-music-nadaswaram" }
 related: ["tamil-in-malaysia", "temple-music-nadaswaram", "hinduism-in-malaysia", "deepavali", "estate-tamil-community", "silambam"]
 keywords: ["இந்திய செம்மொழிக் கலைகள்", "பரதநாட்டியம்", "கர்நாடக இசை", "அரங்கேற்றம்", "ஒடிசி", "Temple of Fine Arts", "Sutra Dance Theatre", "Indian classical arts Malaysia", "Bharatanatyam Malaysia", "Carnatic music Malaysia"]
+framework: history-culture
 ---
 
 말레이시아의 어느 대도시에서든 디파발리 저녁이나 사원 축제 날이면, 발목 방울을 울리며 므리당감의 박자에 맞춰 무대에 오르는 바라타나티얌 무용가를 볼 수 있습니다. 그 발놀림과 손짓은 우연한 것이 아닙니다 — 그것들은 천 년이 넘는 남인도 예술 전통과, 말레이시아 타밀 공동체가 한 세기 반이 넘도록 그것을 짊어져 온 방식을 들려줍니다.

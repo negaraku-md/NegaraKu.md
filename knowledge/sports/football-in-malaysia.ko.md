@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "malaysia-cup" }
 related: []
 keywords: ["bola sepak malaysia", "piala malaysia", "harimau malaya", "FAM", "liga super", "AFF", "football malaysia"]
+framework: history-culture
 ---
 
 1921년, 싱가포르가 말라야의 한 새로운 축구 대회 결승에서 슬랑오르를 2-1로 꺾었습니다. 그로부터 한 세기가 지난 지금도 그 대회는 — 이제 말레이시아 컵으로 알려진 — 나라에서 가장 사랑받는 스포츠의 가장 권위 있는 왕관으로 남아 있습니다.

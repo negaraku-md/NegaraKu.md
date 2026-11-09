@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["non-deductible-expenses", "section-33-deductibility"]
 keywords: ["entertainment expense malaysia tax", "39(1)(l) entertainment", "50% entertainment deduction", "public ruling 4/2015", "promotional gift tax deduction malaysia"]
+framework: rules
 ---
 
 கிட்டத்தட்ட ஒவ்வொரு மலேசிய வரிக் கணக்கீடும் விருந்தோம்பல் வரிசையைப் பாதியாக்கிவிட்டு அடுத்ததற்குச் செல்கிறது. அது இரு திசைகளிலும் தவறு. பாதியாக்கப்படுவதில் சில முழுமையாக நிராகரிக்கப்பட வேண்டியவை, மேலும் அதில் நல்ல பகுதி அறவே பாதியாக்கப்படக் கூடாதவை.

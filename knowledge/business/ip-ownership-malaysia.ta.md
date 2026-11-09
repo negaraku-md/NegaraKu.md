@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "patent-malaysia" }
 related: ["copyright-malaysia", "patent-malaysia", "industrial-design-malaysia", "trademark-registration-malaysia"]
 keywords: ["ip ownership malaysia", "who owns copyright employee malaysia", "contractor ip malaysia", "ip assignment malaysia", "section 26 copyright act 1987"]
+framework: explainer
 ---
 
 பங்கு ஒப்பந்தம் ஒன்றில் கையொப்பமிடப் போகும் ஒரு மலேசிய நிறுவனர், அறிவுசார் சொத்து

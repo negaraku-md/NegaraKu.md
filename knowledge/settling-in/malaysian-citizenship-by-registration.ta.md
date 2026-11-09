@@ -84,6 +84,7 @@ relations:
   - { rel: "compares-with", to: "malaysian-citizenship-by-naturalisation" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["kewarganegaraan", "pendaftaran", "Perkara 15", "pasangan asing", "Perlembagaan Persekutuan", "JPN", "warganegara Malaysia"]
+framework: explainer
 ---
 
 ஒரு மலேசியக் குடிமகனை மணப்பது தானாகவே ஒருவரைக் குடிமகனாக்கிவிடாது. வெளிநாட்டு வாழ்க்கைத் துணைக்கும் ஒரு குடிமகனின் குழந்தைக்கும், பொதுவாகக் குறிப்பிடப்படும் வழி "பதிவு" (registration) — கூட்டரசு அரசியலமைப்பின் (Federal Constitution) பாகம் III (Part III) இல் பட்டியலிடப்பட்டுள்ள குடியுரிமை பெறும் வழிகளில் ஒன்று. இந்தப் பக்கம் அந்தச் சட்ட கட்டமைப்பை நடுநிலையாகவும் விவரணப் பாணியிலும் விளக்குகிறது; இது சட்ட ஆலோசனை அல்ல.

@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "federal-state-division" }
 related: ["civil-and-syariah-courts", "kehakiman-mahkamah", "federal-constitution"]
 keywords: ["mahkamah syariah", "sistem mahkamah Malaysia", "Perkara 121(1A)", "bidang kuasa mahkamah syariah", "Mahkamah Tinggi Syariah", "Akta 355", "Akta 505", "undang-undang keluarga Islam"]
+framework: explainer
 ---
 
 Seorang istri yang mengajukan fasakh dan seorang pengusaha yang menuntut utang RM60,000 keduanya memulai perkara mereka dengan selembar formulir di loket mahkamah. Namun mereka tidak pergi ke loket yang sama, perkara mereka tidak didengar oleh jenis hakim yang sama, dan undang-undang yang menentukan hasil mereka datang dari dua badan pembuat undang-undang yang berbeda.

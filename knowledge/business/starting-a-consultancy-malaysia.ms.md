@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "freelancer-and-gig-tax" }
 related: ["sole-prop-vs-sdn-bhd"]
 keywords: ["start a consultancy malaysia", "consulting business malaysia", "professional services firm malaysia", "freelance consultant register malaysia", "service tax consultancy malaysia", "LLP vs sdn bhd consulting", "regulated profession licence malaysia"]
+framework: how-to
 ---
 
 Perundingan kelihatan seperti perniagaan paling mudah untuk dimulakan — tiada premis, tiada inventori, hanya kepakaran anda dan sebuah komputer riba. Dan bagi seorang perunding pengurusan am, ia hampir benar begitu: daftar dengan SSM dan anda sudah berniaga. Tetapi dua perkara menjadikan orang tersandung. Pertama, jika "perundingan" anda sebenarnya sebuah *profesion berkawal selia*, pendaftaran perniagaan tidak mencukupi — anda memerlukan lesen untuk mengamalkan. Kedua, entiti yang anda pilih dan cukai yang dikenakan lebih penting bagi firma perkhidmatan berbanding hampir mana-mana perniagaan lain, kerana pendapatan anda *ialah* perniagaan itu.

@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "road-tax-and-vehicle-registration" }
 related: []
 keywords: ["letak kereta", "e-parking", "kompaun letak kereta", "DBKL", "Smart Selangor Parking", "EZ Smart Park"]
+framework: explainer
 ---
 
 Anda cari duit syiling di dalam kereta untuk mesin tiket — tetapi mesin itu sudah tiada sejak 2020. Meletak kereta di bandar besar Malaysia kini bermula dengan telefon pintar, bukan lagi tabung syiling di tepi jalan.

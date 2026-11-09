@@ -100,6 +100,7 @@ social:
     - "#Dewakan"
     - "#KualaLumpurFood"
     - "#PenangFood"
+framework: explainer
 ---
 
 Tanyakan kepada selusin orang di mana sebaiknya makan di Kuala Lumpur atau Penang, dan

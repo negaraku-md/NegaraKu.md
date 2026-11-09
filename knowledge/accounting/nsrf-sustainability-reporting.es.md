@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "mfrs-vs-mpers" }
 related: ["financial-statement-pack", "financial-year-end", "mfrs-vs-mpers", "mbrs-2-filing-guide"]
 keywords: ["NSRF Malasia", "IFRS S1 S2 Malasia", "reporte de sostenibilidad Malasia", "gran empresa no cotizada RM2 mil millones", "aseguramiento Alcance 1 Alcance 2 Malasia", "ACSR", "calendario de reporte de sostenibilidad"]
+framework: rules
 ---
 
 El reporte de sostenibilidad llegó a Malasia como un tema de comunicación y se está

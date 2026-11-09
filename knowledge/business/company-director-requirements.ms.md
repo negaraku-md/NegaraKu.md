@@ -108,6 +108,7 @@ keywords:
   - "tanggungjawab pengarah Malaysia"
   - "pengarah nomini Malaysia"
   - "diskualifikasi pengarah Malaysia"
+framework: rules
 ---
 
 Suatu hari nanti ada orang akan meminta anda "sekadar menjadi pengarah, ia cuma

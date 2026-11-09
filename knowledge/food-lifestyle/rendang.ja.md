@@ -96,6 +96,7 @@ social:
     - "#MalaysianFood"
     - "#HariRaya"
     - "#Minangkabau"
+framework: explainer
 ---
 
 ハリ・ラヤを控えた数日間、マレー人の台所の前を通りかかると、ルンダンは目にする

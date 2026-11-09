@@ -138,6 +138,7 @@ relations:
   - { rel: "explained-in", to: "pdpa-registration-classes" }
 related: ["online-business-licence-malaysia"]
 keywords: ["pdpa malaysia", "personal data protection act 2010", "act a1727", "data controller malaysia", "pdpa amendment 2024", "pdpa compliance"]
+framework: rules
 ---
 
 여러분의 개인정보 처리방침이 아직 「데이터 사용자(data user)」라고 적고 있다면, 그것은 2025년 4월 1일에 존재하기를 멈춘 범주의 사람을 묘사하고 있는 것입니다.

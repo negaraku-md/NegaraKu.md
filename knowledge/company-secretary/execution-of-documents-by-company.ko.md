@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "company-contracts-section-64" }
 related: ["companies-act-2016"]
 keywords: ["penyempurnaan dokumen", "cop mohor", "common seal", "seksyen 66", "surat ikatan", "deed", "pegawai diberi kuasa", "Akta Syarikat 2016", "tandatangan syarikat"]
+framework: explainer
 ---
 
 회사법(Companies Act 2016)이 2017년 1월 31일에 시행되기 전까지, 회사 인장(common seal)은 말레이시아에서 회사가 중요한 문서를 집행하는 일반적인 방법이었습니다. 오늘날에는 회사 인장이 아예 존재하지 않을 수도 있으며, 그럼에도 회사는 계약, 대출, 날인증서를 유효하게 체결할 수 있습니다. 이 변화는 회사법, 특히 s.61과 s.66에서 비롯되었는데, 여전히 "회사 인장"을 찾는 서명인들을 자주 혼란스럽게 합니다.

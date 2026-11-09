@@ -136,6 +136,7 @@ relations:
   - { rel: "related-to", to: "non-deductible-expenses" }
 related: ["losses-and-group-relief", "form-c-and-cp204", "basis-period-and-accounting-date"]
 keywords: ["पूंजी भत्ता मलेशिया", "अनुसूची 3 आयकर अधिनियम 1967", "प्रारंभिक भत्ता वार्षिक भत्ता", "संतुलन-प्रभार मलेशिया", "capital allowance malaysia", "schedule 3 income tax act 1967", "balancing charge malaysia", "small value asset RM2000", "qualifying plant expenditure"]
+framework: explainer
 ---
 
 आपके खातों में मूल्यह्रास की पंक्ति LHDN के लिए कुछ भी मायने नहीं रखती। आयकर

@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "singapore-separation-1965" }
 related: ["malayan-union", "melaka-sultanate", "singapore-separation-1965"]
 keywords: ["Straits Settlements", "Penang colonial history", "Melaka British rule", "Singapore crown colony", "Pangkor Treaty 1874", "British Resident system", "Federated Malay States", "Unfederated Malay States", "Resident-General Kuala Lumpur", "Johor General Adviser"]
+framework: history-culture
 ---
 
 三つの港、四十一年間で四度の行政上の地位の変更。これが、マレー属邦に触れる以前の海峡植民地（Straits Settlements）の姿である。

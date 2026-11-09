@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "asean-agreement-on-transboundary-haze-pollution" }
 related: []
 keywords: ["jerebu", "transboundary haze", "API", "Indeks Pencemar Udara", "Sumatera", "Kalimantan", "ASEAN", "Jabatan Alam Sekitar", "kualiti udara"]
+framework: explainer
 ---
 
 ทุกครั้งที่ลมมรสุมเปลี่ยนทิศในฤดูแล้ง ท้องฟ้าในหุบเขากลัง ซาราวัก และคาบสมุทรส่วนใหญ่สามารถกลายเป็นสีเทาได้ในเวลาเพียงไม่กี่วัน ดวงอาทิตย์เลือนราง กลิ่นควันเข้ามาในบ้าน และโทรศัพท์ดังขึ้นพร้อมการแจ้งเตือน API นี่คือหมอกควันข้ามพรมแดน มลพิษที่ไม่ได้เกิดขึ้นในประเทศทั้งหมด แต่ถูกสูดหายใจทุกปีโดยชาวมาเลเซียหลายล้านคน

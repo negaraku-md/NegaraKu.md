@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "kabinet-perdana-menteri" }
 related: ["ekonomi-madani-framework", "konfrontasi", "miti", "matrade"]
 keywords: ["dasar luar Malaysia", "Wisma Putra", "Kementerian Luar Negeri", "ZOPFAN", "dasar berkecuali", "diplomasi Malaysia", "ASEAN", "Pelan Strategik 2026-2030", "non-alignment"]
+framework: explainer
 ---
 
 When the United States is the largest foreign investor in Malaysia's economy, but China is its largest trading partner, a small and open country cannot afford to take sides. That is why Malaysia's foreign policy has, for decades, clung to one word that is easy to say but hard to keep: neutrality. The ministry tasked with maintaining that balance day after day is Wisma Putra.

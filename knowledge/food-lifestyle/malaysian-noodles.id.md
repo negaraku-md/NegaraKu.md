@@ -97,6 +97,7 @@ verificationNeeded:
   - "Penisbatan komunitas pan mee kepada juru masak Hakka dan loh shi fun/lai fun kepada kelompok dialek tertentu — umumnya diulang dalam tulisan kuliner tetapi tidak terdokumentasi secara konsisten; konfirmasikan dengan sumber kuliner atau warisan setempat."
   - "Apakah 'mee hoon'/'mihun' dan 'bihun' dipakai bergantian di seluruh Malaysia, atau apakah penggunaan wilayah membedakannya — konfirmasikan terhadap kamus Malaysia atau sumber kajian pangan."
   - "Klaim bahwa sebagian besar helai mi Malaysia berasal dari Tiongkok selatan (Hokkien, Teochew, Kanton, Hakka) yang disesuaikan secara lokal — diterima luas tetapi konfirmasikan penisbatan spesifik dengan rujukan sejarah pangan, bukan media kuliner."
+framework: explainer
 ---
 
 Minta "mi" di sebuah kedai kopi Malaysia dan pertanyaan berikutnya hampir selalu satu lagi: mi *yang mana*?

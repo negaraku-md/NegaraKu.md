@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "nine-royal-houses" }
 related: ["independence-1957", "malayan-union", "formation-of-malaysia-1963"]
 keywords: ["Reid Commission", "Federation of Malaya Constitution", "Lord Reid", "Ivor Jennings", "1957 constitution", "Malayan independence"]
+framework: profile
 ---
 
 Cuando, a comienzos de 1956, los líderes de Malaya y el gobierno británico acordaron que la independencia debía llegar para agosto de 1957, tenían un problema que un plazo por sí solo no podía resolver: el nuevo país no tenía constitución. En lugar de escribirla ellos mismos, encomendaron el trabajo a cinco juristas —ninguno de ellos malayo— y les pidieron que diseñaran, desde fuera, la maquinaria jurídica de un Estado en el que no vivirían.

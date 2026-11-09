@@ -54,6 +54,7 @@ relations:
   - { rel: "related-to", to: "healthcare-for-seniors" }
 related: ["medical-insurance", "healthcare-for-seniors"]
 keywords: ["acheter des médicaments Malaisie", "pharmacies Malaisie", "Akta Racun 1952", "médicaments sur ordonnance", "médicaments en vente libre", "Poisons Act 1952", "pharmacien enregistré", "poisons du groupe B", "Quest3+", "NPRA"]
+framework: explainer
 ---
 
 Un client demande un sirop contre la toux au comptoir de la pharmacie et est servi immédiatement. Un autre demande des antibiotiques pour un mal de gorge et on lui demande de présenter d'abord l'ordonnance d'un médecin. Les deux transactions ont lieu dans la même pharmacie, le même jour — la différence tient à la façon dont la loi classe le médicament, et non à la discrétion du pharmacien.

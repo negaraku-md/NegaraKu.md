@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-registration", "sst-02-filing", "sst-rate-table"]
 keywords: ["imported taxable services", "SST-02A", "section 26A service tax", "service tax on foreign services Malaysia", "self-accounting service tax"]
+framework: rules
 ---
 
 นี่คือภาระที่ถูกพลาดบ่อยที่สุดในทั้งระบบ SST และเหตุผลเป็นเชิงโครงสร้าง: มันเป็นภาระภาษีบริการเพียงอย่างเดียว

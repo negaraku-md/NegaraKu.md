@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "energy-commission-malaysia" }
 related: ["petronas", "tenaga-nasional"]
 keywords: ["NETR", "National Energy Transition Roadmap", "Malaysia energy transition", "renewable energy Malaysia", "net zero 2050", "coal phase out Malaysia", "green hydrogen Malaysia", "CCUS Malaysia", "NETF seed fund", "ENEGEM"]
+framework: explainer
 ---
 
 கடந்த நூற்றாண்டின் பெரும்பகுதிக்கு, மலேசியாவின் பொருளாதாரக் கதை ஹைட்ரோகார்பன்களை நம்பியே ஓடியது — கடல் தளத்தின் கீழுள்ள எண்ணெய், மின் நிலையங்களுக்குக் குழாய் வழியே அனுப்பப்பட்ட வாயு, மற்றும் மின்வலையை மலிவாக இயங்க வைக்க கப்பலில் கொண்டுவரப்பட்ட நிலக்கரி. தேசிய ஆற்றல் மாற்றப் பாதை வரைபடம் (National Energy Transition Roadmap, NETR) என்பது 2050க்கு முன் அந்தக் கதையை மீண்டும் எழுதுவதற்கான திட்டமாகும், மேலும் அது கடினமான எண்கள், பெயரிடப்பட்ட திட்டங்கள் மற்றும் ஒரு டிரில்லியன்-ரிங்கிட் விலைச்சீட்டுடன் வருகிறது.

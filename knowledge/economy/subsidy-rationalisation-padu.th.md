@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "sumbangan-tunai-rahmah-str" }
 related: ["program-rahmah-cost-of-living"]
 keywords: ["PADU", "Pangkalan Data Utama", "rasionalisasi subsidi", "subsidi bersasar", "BUDI MADANI", "RON95", "subsidi diesel", "subsidi elektrik", "T15"]
+framework: explainer
 ---
 
 เป็นเวลาหลายปีที่รัฐบาลมาเลเซียอุดหนุนน้ำมัน ไฟฟ้า และอาหารให้ทุกคนแบบเหมารวม ไม่ว่าผู้รับ

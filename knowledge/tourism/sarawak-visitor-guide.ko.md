@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "sabah-visitor-guide" }
 related: ["sabah-visitor-guide"]
 keywords: ["Sarawak travel", "Sarawak immigration", "Kuching guide", "Gunung Mulu National Park", "Iban longhouse", "Bidayuh longhouse", "Sarawak entry pass", "Borneo travel"]
+framework: explainer
 ---
 
 쿠알라룸푸르에서 쿠칭(Kuching)까지 두 시간 이내에 날아가, 자기 나라를 떠난 적이 없으면서도 반대편에 도착해 출입국 스탬프를 받게 됩니다. 도착장에서의 그 의외의 일이 사라왁에 대해 이해해야 할 가장 중요한 한 가지입니다. 사라왁은 자체 국경을 운영하는 말레이시아 주입니다.

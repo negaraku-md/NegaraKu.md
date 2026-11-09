@@ -98,6 +98,7 @@ verificationNeeded:
   - "페낭 asam laksa의 CNN 순위(7위로 보도됨)는 서로 다른 해의 여러 CNN 음식 모음 기사에 등장해 왔다(처음에는 2011년경, 이후 다시 홍보됨). 정확한 리스트, 순위, 연도를 CNN 출처와 직접 대조해 확인할 것."
   - "White curry mee는 흔히 페낭 및 Ipoh와 연관되지만 Wikipedia의 페낭 요리 개관에는 기록되어 있지 않다. 그 페낭 귀속과 설명을 현지 출처와 대조해 확인할 것."
   - "특정 노점에 대한 귀속, 그리고 노점 위치(Gurney Drive, Lorong Selamat, New Lane, Air Itam, Chulia Street)에 관한 '최고'나 '가장 오래된'이라는 주장은 논쟁의 여지가 있고 시간이 지나며 바뀐다. 어느 것이든 확정적인 것으로 인용하기 전에 현재의 노점과 영업 시간을 확인할 것."
+framework: explainer
 ---
 
 페낭만큼 이토록 좁은 땅에 이토록 많은 먹거리를 밀어 넣는 곳은 드물다. 섬의 주도 George

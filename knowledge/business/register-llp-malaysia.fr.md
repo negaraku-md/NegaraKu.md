@@ -117,6 +117,7 @@ keywords:
   - "PLT Perkongsian Liabiliti Terhad"
   - "LLP registration fee RM500"
   - "LLP annual declaration"
+framework: how-to
 ---
 
 Le responsable de la conformité est la partie que tout le monde comprend de travers.

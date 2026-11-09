@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "capital-allowances" }
 related: ["motor-vehicle-capital-allowance", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["retribuciones en especie Malasia", "benefits in kind Malaysia", "tabla valor prescrito BIK", "impuesto coche empresa Malasia empleado", "párrafo 13(1)(b) 13(1)(c)", "retribución vivienda de habitación Malasia"]
+framework: explainer
 ---
 
 Cada guía sobre retribuciones en especie elige un lado. Los blogs de nóminas

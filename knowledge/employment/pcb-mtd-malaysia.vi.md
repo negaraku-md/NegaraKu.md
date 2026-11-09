@@ -131,6 +131,7 @@ relations:
   - { rel: "part-of", to: "payroll-compliance-malaysia" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide"]
 keywords: ["PCB Malaysia", "MTD monthly tax deduction", "CP38 CP39 CP22", "e-PCB LHDN employer", "potongan cukai bulanan"]
+framework: rules
 ---
 
 PCB là dòng duy nhất trên một phiếu lương Malaysia mà người sử dụng lao động đang nắm giữ

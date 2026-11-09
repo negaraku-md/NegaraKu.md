@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-jakim" }
 related: ["hari-raya-aidilfitri"]
 keywords: ["bazar ramadan", "ramadan bazaar malaysia", "juadah berbuka puasa", "etika bulan puasa", "lesen penjaja bazar"]
+framework: explainer
 ---
 
 रमज़ान के दौरान जब भी असर का समय नज़दीक आता है, सड़क किनारे अचानक सफ़ेद तंबुओं की कतारें उग आती हैं, अंगारों के ऊपर ayam percik की भाप लहराती है, और roti john की महक air bandung के साथ घुलकर लोगों को उनके घरों से बाहर खींच लाती है। यही है रमज़ान बाज़ार — एक मौसमी बाज़ार जो साल में केवल एक महीने के लिए मौजूद रहता है, फिर भी लंबे समय से मलेशियाई जीवन की लय का हिस्सा बन चुका है।

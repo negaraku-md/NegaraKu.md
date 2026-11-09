@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
 related: []
 keywords: ["keterjaminan makanan", "tahap sara diri", "SSL", "SSR", "Dasar Agromakanan Negara", "DAN 2.0", "food security Malaysia", "beras"]
+framework: explainer
 ---
 
 Menurut Banci Pertanian 2024, bagi setiap satu kilogram beras yang digunakan di Malaysia, kira-kira 400 gram adalah beras import. Angka itu merumuskan cabaran keterjaminan makanan negara: sebuah negara pertanian yang masih mengimport sebahagian besar makanan rujinya.

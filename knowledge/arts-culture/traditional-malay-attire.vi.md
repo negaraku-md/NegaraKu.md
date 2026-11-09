@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "hari-raya-aidilfitri" }
 related: ["songket", "batik", "hari-raya-aidilfitri"]
 keywords: ["baju Melayu", "baju kurung", "kebaya", "samping", "songkok", "cekak musang", "Teluk Belanga", "pakaian tradisional Melayu"]
+framework: history-culture
 ---
 
 Hãy quan sát một người đàn ông chuẩn bị cho ngày lễ hoặc đám cưới. Áo rộng đã mặc, quần đã xỏ vào — nhưng anh chưa xong. Còn lại là hai thứ quyết định anh trông đã ăn vận đầy đủ hay mới nửa chừng: một tấm kain samping quấn ở eo, và một chiếc songkok trên đầu. Thiếu hai thứ đó, baju Melayu vẫn chưa thực sự là baju Melayu.

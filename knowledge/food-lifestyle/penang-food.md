@@ -97,6 +97,7 @@ verificationNeeded:
   - "The CNN placement of Penang asam laksa (reported 7th) has appeared across several CNN food round-ups in different years (originally circa 2011, re-promoted later); confirm the exact list, rank and year against the CNN source directly."
   - "White curry mee is commonly associated with Penang and Ipoh but is not documented in the Wikipedia Penang cuisine overview; confirm its Penang attribution and description against a local source."
   - "Attribution of specific stalls and the best or oldest claims for hawker locations (Gurney Drive, Lorong Selamat, New Lane, Air Itam, Chulia Street) are contested and change over time; verify current stalls and hours before citing any as definitive."
+framework: explainer
 ---
 
 Few places pack as much eating into as little ground as Penang. In George Town,

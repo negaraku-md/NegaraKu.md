@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["hinduism-in-malaysia", "thaipusam", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community", "navaratri"]
 keywords: ["ஐயப்பன் வழிபாடு", "சபரிமலை விரதம்", "மண்டல விரதம்", "இருமுடிக் கட்டு", "மலேசிய ஐயப்பன் கோயில்", "சுவாமியே சரணம் ஐயப்பா", "Ayyappan", "Sabarimala"]
+framework: history-culture
 ---
 
 在一年将尽的那几个月里，马来西亚许多城镇都会出现这样一幅景象：身着黑衣或蓝衣、颈上佩戴 rudraksha 念珠、留着胡须的男子彼此以「Swami」相称。他们是奉行阿雅帕苦修的人——其中许多人正准备前往喀拉拉邦的萨巴里马拉。本文以中立的方式描述这一信仰与苦修传统；既不阐释，也不评断任何信仰。

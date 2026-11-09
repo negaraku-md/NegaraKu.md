@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "electricity-supply-tnb" }
 related: []
 keywords: ["gas paip asli", "Gas Malaysia", "tong gas", "LPG", "gas domestik", "subsidi gas", "gas memasak", "harga tong gas 14kg"]
+framework: explainer
 ---
 
 새집에서 가스레인지에 불을 켜 보면 곧 알게 됩니다: 대부분의 말레이시아인은 배관을 통해 흐르는 가스가 아니라 문 앞으로 배달되는 가스통으로 요리합니다. 배관 천연가스가 존재하기는 하지만 — 일부 도시 지역에만 있습니다. 이 안내는 두 선택지와 그 가격, 보조금 규칙, 그리고 가스를 안전하게 취급하는 방법을 설명합니다.

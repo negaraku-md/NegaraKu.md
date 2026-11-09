@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "worker-accommodation-act-446" }
 related: ["hiring-foreign-workers-malaysia", "worker-accommodation-act-446"]
 keywords: ["العمل القسري ماليزيا", "forced labour malaysia", "المادة 90B قانون العمل", "احتجاز جواز السفر ماليزيا", "withhold release order malaysia", "atipsom", "رسوم توظيف العمال المهاجرين"]
+framework: rules
 ---
 
 بين عامي 2019 و2022، حجبت هيئة الجمارك وحماية الحدود الأمريكية (US Customs and Border Protection، CBP) الواردات من ثمانية من منتجي القفازات وزيت النخيل الماليزيين. وسدّدت الشركات أكثر من 85 مليون دولار أمريكي من الأجور المحتجزة كي تُرفع الأوامر. تلك هي الحقيقة التجارية للامتثال في مسألة العمل القسري في ماليزيا، ولهذا فهي مسألة تجارية قبل أن تكون مسألة موارد بشرية.

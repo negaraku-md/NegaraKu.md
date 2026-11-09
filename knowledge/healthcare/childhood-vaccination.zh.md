@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "having-a-baby-in-malaysia" }
 related: ["klinik-kesihatan", "having-a-baby-in-malaysia"]
 keywords: ["imunisasi kanak-kanak Malaysia", "Jadual Imunisasi Kebangsaan", "Program Imunisasi Kebangsaan KKM", "vaksin percuma klinik kesihatan", "buku rekod kesihatan bayi dan kanak-kanak", "vaksin kanak-kanak KKM", "Immunise4Life Malaysia", "imunisasi percuma Malaysia"]
+framework: explainer
 ---
 
 在马来西亚，每一名在政府诊所或医院出生的婴儿，除了会拿到一张临时出生证明外，还会带回一本小册子——这本小册子在接下来六年内的*每一次*诊所就诊都必须携带。这本小册子，以及它所记录的接种时间表，是这个国家历史最悠久的公共卫生计划之一的一部分。

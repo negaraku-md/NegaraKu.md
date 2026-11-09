@@ -139,6 +139,7 @@ relations:
   - { rel: "explained-in", to: "pdpa-registration-classes" }
 related: ["online-business-licence-malaysia"]
 keywords: ["pdpa ماليزيا", "قانون حماية البيانات الشخصية 2010", "act a1727", "مراقب البيانات ماليزيا", "تعديل pdpa 2024", "الامتثال لـ pdpa"]
+framework: rules
 ---
 
 إذا كان إشعار الخصوصية لديك لا يزال يقول «مستخدم البيانات»، فهو يصف فئة من

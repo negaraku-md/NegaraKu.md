@@ -88,6 +88,7 @@ verificationNeeded:
   - "Tuyên bố rằng mee siam đến Singapore qua làn di cư của các gia đình người Hoa Eo biển từ Penang vào đầu những năm 1800 — hãy xác minh với một nguồn sử liệu."
   - "Liệu me có thiết yếu với mọi phiên bản hay không: một số đầu bếp thay thế hoặc bổ sung bằng nước cốt chanh hay chanh vàng, và nguồn vị chua tiêu chuẩn thay đổi theo công thức. Hãy xác minh nền nước sốt thông dụng ở cả kiểu ướt và khô."
   - "Đồ ăn kèm tiêu chuẩn (trứng luộc, tôm, đậu phụ chiên, hẹ, giá đỗ, tắc so với chanh) thay đổi theo đầu bếp và vùng miền — hãy xác minh cách kết hợp Malaysia điển hình nhất."
+framework: explainer
 ---
 
 Gọi "mee siam" thì món ra tùy quầy. Ở một quầy, bạn được một đĩa bún gạo sợi mảnh

@@ -98,6 +98,7 @@ keywords:
   - "Perak industrial land price"
   - "Perak GDP"
   - "Ipoh cost of doing business"
+framework: profile
 ---
 
 Ceci est une page courte à dessein. Le régime juridique du Perak est le même que celui du Selangor,

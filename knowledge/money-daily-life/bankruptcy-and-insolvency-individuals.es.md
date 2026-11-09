@@ -91,6 +91,7 @@ relations:
   - { rel: "compares-with", to: "akpk-debt-management-programme" }
 related: []
 keywords: ["quiebra", "kebankrapan", "bankrap", "insolvencia", "insolvensi", "Ley de Insolvencia 1967", "Insolvency Act 1967", "MDI", "Director General de Insolvencia", "rehabilitación de la quiebra", "artículo 33C", "AKPK", "DMP"]
+framework: explainer
 ---
 
 Una sola factura impaga puede acabar convertida en una orden judicial que cambia casi todas las operaciones financieras de la vida de una persona — desde su cuenta bancaria hasta su permiso para salir del país. En Malasia, esa línea divisoria está definida por una sola ley: la Ley de Insolvencia de 1967 (Act 360). Este artículo describe el proceso de forma descriptiva, sin tomar partido.

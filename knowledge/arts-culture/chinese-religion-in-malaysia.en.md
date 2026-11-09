@@ -68,6 +68,7 @@ faq:
     a: 'Not in the everyday practice of Malaysian Chinese. For many families, Buddhism, Taoism, Confucian thought and ancestor worship are not mutually exclusive choices but a single set of practices carried out side by side: the same person may burn incense on the first and fifteenth of the lunar month, sweep the graves at Qingming, and also visit a temple to pay homage to the Buddha on Vesak Day. This blending is the core feature of Chinese folk belief, which is why Buddhism and folk religion are often hard to separate cleanly.'
   - q: Who is Tua Pek Kong, and where is the oldest Tua Pek Kong temple?
     a: Tua Pek Kong (大伯公) is a deity with a strongly local character, widely worshipped in Chinese temples across Malaysia. The oldest Tua Pek Kong temple is said to be in Tanjung Tokong, Penang, and the belief later spread throughout Malaysia, Singapore and Indonesia. In Malay such a temple is called a tokong; other well-known temples include Cheng Hoon Teng in Malacca and the Thean Hou Temple in Kuala Lumpur.
+framework: history-culture
 ---
 
 Step into any Chinese temple in Malaysia and you will likely find Buddhist, Taoist

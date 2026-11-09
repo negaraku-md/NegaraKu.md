@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-dialects", "chinese-clan-associations", "chinese-cemeteries", "chinese-new-villages", "population-composition"]
 keywords: ["帮群", "方言群", "籍贯", "福建帮", "广府帮", "客家帮", "潮州帮", "海南帮", "会馆", "义山", "马来西亚华人", "海南咖啡", "锡矿", "Chinese bang communities Malaysia"]
+framework: history-culture
 ---
 
 ペナンの旧市街で、一本の商店街を丸ごと支えているのは、たいてい福建人が開いた商号です。クアラルンプールやイポーのように錫によって栄えた都市では、鉱場や同業組合に広府人と客家人がひしめいていました。そしてどの町に足を踏み入れても、海南コーヒーとバター・カヤを塗ったトーストを出す古いコーヒー店の看板の奥には、しばしば海南人が立っています。

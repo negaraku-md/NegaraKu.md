@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "unfair-dismissal-malaysia" }
 related: ["termination-of-employment-malaysia", "unfair-dismissal-malaysia", "termination-benefits-malaysia"]
 keywords: ["investigación interna malasia", "domestic inquiry malaysia", "procedimiento DI malasia", "carta de requerimiento de explicaciones malasia", "show cause letter malaysia", "suspensión pendiente de investigación", "sección 14 ley de empleo", "section 14 employment act", "despido por mala conducta malasia"]
+framework: how-to
 ---
 
 La mayoría de las guías de RR. HH. malasias dedican a la investigación interna una sola frase: «realice una DI antes de despedir por mala conducta». Esa frase es donde los empleadores pierden casos. La investigación no es una casilla que marcar antes de una decisión ya tomada: es la base probatoria sobre la que el empleador se apoyará meses después ante el Tribunal Industrial, y fracasa por motivos de procedimiento mucho más a menudo que por los hechos.

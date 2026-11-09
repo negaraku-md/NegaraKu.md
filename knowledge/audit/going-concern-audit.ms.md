@@ -72,6 +72,7 @@ relations:
   - { rel: "affects", to: "audit-opinion-types" }
 related: ["statutory-audit-process", "audit-opinion-types", "emphasis-of-matter-kam", "audit-preparation-checklist"]
 keywords: ["audit going concern Malaysia", "ketidakpastian material berkaitan going concern", "ISA 570 Malaysia", "surat representasi pengurusan Malaysia", "ISA 580 representasi bertulis"]
+framework: explainer
 ---
 
 Dua dokumen ditandatangani pada penghujung sesuatu audit di Malaysia tanpa dibaca:

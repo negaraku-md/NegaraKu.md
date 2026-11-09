@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "asean-free-trade-area" }
 related: ["miti", "malaysia-cptpp"]
 keywords: ["RCEP", "Malaysia trade agreement", "rules of origin", "Form RCEP", "tariff elimination", "ASEAN", "MITI", "free trade agreement"]
+framework: explainer
 ---
 
 ஒரு மூலஸ்தான சான்றிதழில் கையெழுத்திடுங்கள் — அப்போது மலேசியாவில் தயாரிக்கப்பட்ட ஒரு பொருள், ஆக்லண்ட் முதல் பெய்ஜிங் வழியாக கோலாலம்பூர் வரை நீளும் சந்தை முழுவதும் சுங்கவரியின்றி நகர முடியும். ஒரே வரியில் சொல்வதென்றால், மலேசிய ஏற்றுமதியாளர்களுக்கு RCEP கொண்டு வந்த மாற்றம் இதுவே.

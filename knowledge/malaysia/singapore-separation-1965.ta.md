@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
 related: ["formation-of-malaysia-1963", "ma63", "independence-1957"]
 keywords: ["Singapore separation 1965", "Independence of Singapore Agreement", "Singapore Day", "Constitution and Malaysia (Singapore Amendment) Act 1965", "Malaysian Malaysia", "Tunku Abdul Rahman", "Lee Kuan Yew"]
+framework: history-culture
 ---
 
 ஒரு நாடு ஒரே வார இறுதியில் ஒரு நிறுவனர் மாநிலத்தை இழந்தது. ஒப்பந்தம் ஒரு சனிக்கிழமை கையெழுத்திடப்பட்டது, அரசியலமைப்புத் திருத்தம் திங்கள்கிழமை நிறைவேற்றப்பட்டது, அதே திங்கள்கிழமை காலை 10 மணிக்குள் Radio Singapura வழியாக ஒரு சுதந்திரப் பிரகடனம் வாசிக்கப்பட்டுக் கொண்டிருந்தது. உடைந்து செல்லும் பெரும்பாலான கூட்டமைப்புகள் மெதுவாகவும் ஆரவாரத்துடனும் அவ்வாறு செய்கின்றன. இது — சட்டரீதியில் — சுமார் நாற்பத்தெட்டு மணி நேரத்தில், இரகசியமாக வரையப்பட்டு பதினைந்து அமைச்சர்களால் கையெழுத்திடப்பட்ட ஆவணங்களால் கலைக்கப்பட்டது.

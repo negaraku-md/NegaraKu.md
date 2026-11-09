@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["trademark-classes-fees-malaysia", "ip-ownership-malaysia", "company-name-search-ssm"]
 keywords: ["تسجيل العلامات التجارية ماليزيا", "العلامات التجارية myipo", "رسم العلامة التجارية ماليزيا", "قانون العلامات التجارية 2019", "بروتوكول مدريد ماليزيا", "trademark registration malaysia"]
+framework: explainer
 ---
 
 حجز اسم شركة لدى SSM لا يحمي شيئاً. فهو يمنع تأسيس شركة أخرى باسم مشابه إلى حدّ

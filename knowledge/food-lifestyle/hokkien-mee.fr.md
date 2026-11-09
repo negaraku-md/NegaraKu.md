@@ -87,6 +87,7 @@ verificationNeeded:
   - "L'histoire d'origine selon laquelle le Hokkien mee à la mode de KL aurait été créé par le marchand ambulant Ong Kim Lian dans la rue Petaling en 1927 — les récits se contredisent (certains médias culinaires l'attribuent à un « M. Ong » ayant ajouté de la sauce soja foncée à un plat de nouilles sautées, tandis qu'une version concurrente popularisée par un reportage de 1984 du Straits Times fait remonter les racines du plat aux années 1880). Vérifiez le nom du créateur et la date auprès d'une source historique ou patrimoniale primaire."
   - "L'affirmation selon laquelle les deux styles de Hokkien mee descendent du plat fujianais lor mee et ne sont pas connus au Fujian même — vérifiez-la auprès d'une source d'histoire culinaire ou universitaire plutôt que des médias culinaires."
   - "Si la soupe de crevettes épicée à la mode de Penang est appelée de façon cohérente et interchangeable « prawn mee » et « hae mee » dans toutes les régions (l'usage et l'orthographe varient localement) — vérifiez la dénomination régionale auprès d'une source culinaire de Penang ou sino-malaisienne."
+framework: explainer
 ---
 
 Commandez un « Hokkien mee » à Kuala Lumpur et vous obtenez une assiette d'épaisses nouilles

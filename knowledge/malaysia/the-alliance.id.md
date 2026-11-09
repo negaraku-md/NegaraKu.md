@@ -78,6 +78,7 @@ keywords:
   - "London constitutional conference 1956"
   - "Alliance memorandum Reid Commission"
   - "Tunku Abdul Rahman"
+framework: profile
 ---
 
 Ketika Britain duduk untuk memutuskan apakah Tanah Melayu sudah siap memerintah dirinya sendiri, salah satu hal yang dikatakannya ingin dilihat adalah bukti bahwa komunitas-komunitas berbeda di wilayah itu dapat menjalankan sebuah pemerintahan bersama-sama. Perikatan adalah wahana yang tampil ke meja rundingan mengklaim menunjukkan justru itu — tiga partai, masing-masing disusun berdasarkan satu komunitas, bertanding dalam pemilihan sebagai satu blok tunggal dan meminta, secara bersama, kemerdekaan.

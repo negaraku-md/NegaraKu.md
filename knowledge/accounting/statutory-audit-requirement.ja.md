@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "sdn-bhd-financial-statements-filing" }
 related: []
 keywords: ["audit statutori", "pengecualian audit", "Akta Syarikat 2016", "seksyen 267", "PD 10/2024", "juruaudit Sdn Bhd", "SSM audit exemption"]
+framework: rules
 ---
 
 あなたはSdn Bhdを登録したばかりで、事業はまだ小さく、会社秘書役から監査費用の請求書が届いたところだ。問題は「監査にいくらかかるか」ではなく、「自分は本当に監査を受けなければならないのか」である。マレーシアの私会社の大半にとって、デフォルトの答えは**はい**であり、実際にそこから逃れる資格があるのはごく一部の会社に限られる。

@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "employment-pass-malaysia" }
 related: ["moving-to-malaysia-first-steps", "imigresen", "employment-pass-malaysia", "work-passes-malaysia", "opening-bank-account"]
 keywords: ["Dependant Pass Malasia", "Long-Term Social Visit Pass", "LTSVP Malasia", "familia Employment Pass", "patrocinar cónyuge visado Malasia", "visado padres Malasia expatriado", "opciones de visado familiar Malasia"]
+framework: explainer
 ---
 
 Un titular de Employment Pass que se muda a Malasia puede traer a su cónyuge y a sus hijos pequeños en un solo pase. Sus padres, o un hijo que acaba de cumplir 18 años, necesitan uno completamente distinto. Mismo titular principal, mismo hogar, dos categorías migratorias separadas, y confundirlas es la forma más común en que se atasca una solicitud de patrocinio familiar.

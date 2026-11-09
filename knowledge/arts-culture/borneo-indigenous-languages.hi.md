@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "kaamatan" }
 related: ["languages-spoken", "sabah", "sarawak", "gawai-dayak", "kaamatan", "orang-asli"]
 keywords: ["सबा और सरावाक की स्वदेशी भाषाएँ", "indigenous languages Sabah Sarawak", "बोर्नियो की भाषाएँ", "Kadazandusun language", "Dusunic", "Murutic", "Paitanic", "Iban language", "Bidayuh", "Melanau", "Orang Ulu", "Austronesian", "North Bornean languages", "Sama-Bajau"]
+framework: explainer
 ---
 
 बोर्नियो के भीतरी हिस्से के ऊपर से उड़ें तो आप एक घंटे में इतनी भाषाओं को पार कर जाते हैं जितनी अधिकांश देशों में कुल मिलाकर होती हैं। सबा के उच्चभूमि की एक नदी-घाटी, सरावाक के ऊपरी बारम पर एक लॉन्गहाउस, एक तटीय मछुआरा गाँव — हर एक आपका अभिवादन ऐसी भाषा में कर सकता है जिसे अगली घाटी मुश्किल से समझती है।

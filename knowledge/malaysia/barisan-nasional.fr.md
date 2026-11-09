@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "pakatan-harapan" }
 related: []
 keywords: ["Barisan Nasional", "Front national", "National Front", "BN", "Alliance", "Alliance Party", "UMNO", "MCA", "MIC", "GE14", "coalition malaisienne"]
+framework: profile
 ---
 
 Pour la plupart des Malaisiens vivant aujourd'hui, « le gouvernement » et « Barisan Nasional » ont, pendant très longtemps, été presque la même expression. De ses premières élections en 1974 à sa défaite en 2018, le Front national a conservé le gouvernement fédéral sans interruption — une période continue de 44 ans. Cet article retrace comment il a été assemblé, qui en faisait partie et comment cette longue période a pris fin, en s'en tenant aux faits consignés.

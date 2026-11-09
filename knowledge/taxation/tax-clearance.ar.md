@@ -111,6 +111,7 @@ relations:
   - { rel: "related-to", to: "tax-penalties" }
 related: ["offboarding-statutory-checklist", "pcb-monthly-tax-deduction", "expatriate-and-non-resident-tax", "tax-penalties", "tax-appeal"]
 keywords: ["التسوية الضريبية ماليزيا", "tax clearance Malaysia", "SPC LHDN", "surat penyelesaian cukai", "نموذج CP21", "نموذج CP22A", "e-SPC MyTax", "حجز 90 يوماً التسوية الضريبية", "section 83(5) Income Tax Act"]
+framework: rules
 ---
 
 تعامل فرق كشوف الرواتب التسويةَ الضريبية على أنها مجرد نموذج. وهي ليست نموذجاً —

@@ -97,6 +97,7 @@ keywords:
   - "Perak industrial land price"
   - "Perak GDP"
   - "Ipoh cost of doing business"
+framework: profile
 ---
 
 이 페이지는 의도적으로 짧습니다. 페락(Perak)의 법제는 슬랑오르(Selangor)와 동일하고, 그

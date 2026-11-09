@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["ordures Malaisie", "recyclage Malaisie", "tri des déchets à la source", "ordures conseil local", "sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
+framework: explainer
 ---
 
 Votre poubelle est ramassée deux fois par semaine, mais vous êtes-vous déjà demandé qui la ramasse réellement — le conseil local, ou une autre entreprise que le conseil a désignée ? Et pourquoi votre voisin de l'État d'à côté peut être verbalisé pour ne pas avoir séparé les bouteilles en plastique des restes alimentaires, alors que vous ne l'êtes pas ?

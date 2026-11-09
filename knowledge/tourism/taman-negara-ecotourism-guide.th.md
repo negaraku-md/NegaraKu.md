@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "gunung-tahan" }
 related: ["orang-asli"]
 keywords: ["taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
+framework: explainer
 ---
 
 ยืนอยู่ที่ท่าเรือกัวลาตาฮันยามรุ่งสาง เฝ้ามองหมอกลอยขึ้นจากแม่น้ำที่แก่กว่าเทือกเขาหิมาลัย เป็นเรื่องง่ายที่จะลืมว่าคุณอยู่ห่างจากกัวลาลัมเปอร์เพียงครึ่งวัน ตามันเนอการาไม่ใช่แหล่งท่องเที่ยวที่สร้างขึ้น หากเป็นป่าฝนเขตร้อนที่มีชีวิตซึ่งยืนหยัดอยู่โดยแทบไม่ถูกรบกวนมาหลายสิบล้านปี และการเข้าไปในนั้นถูกและง่ายกว่าที่นักท่องเที่ยวเกือบทุกคนคาดคิด

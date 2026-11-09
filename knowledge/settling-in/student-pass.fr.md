@@ -99,6 +99,7 @@ keywords:
   - "eVAL Malaysia student"
   - "processus visa étudiant Malaisie"
   - "i-Kad Malaysia"
+framework: explainer
 ---
 
 Vous ne pouvez pas demander vous-même votre visa étudiant malaisien. Même avec la lettre d'admission en main et les frais payés, la demande doit passer par votre établissement, car l'organisme qui l'examine n'est pas du tout l'immigration, du moins pas au début. C'est une entreprise.

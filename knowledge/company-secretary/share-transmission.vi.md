@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "share-transfer" }
 related: ["share-transfer", "register-of-members", "stamp-duty-share-transfer", "beneficial-ownership"]
 keywords: ["transmission of shares Malaysia", "shares after shareholder dies", "section 109 Companies Act 2016", "probate shares Sdn Bhd", "trustee in bankruptcy shares"]
+framework: how-to
 ---
 
 Một cổ đông trong một Sdn Bhd hai người qua đời. Giám đốc sống sót yêu cầu thư ký «làm một sự chuyển nhượng cổ

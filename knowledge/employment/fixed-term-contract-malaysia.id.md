@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-contract-malaysia", "unfair-dismissal-malaysia", "termination-benefits-malaysia", "employee-vs-contractor-malaysia"]
 keywords: ["kontrak bertempoh tetap malaysia", "pembaharuan kontrak pekerjaan malaysia", "keengganan memperbaharui pemberhentian malaysia", "pekerja kontrak projek malaysia", "undang-undang kontrak sementara malaysia"]
+framework: explainer
 ---
 
 Kontrak berjangka tetap dijual di pasar Malaysia sebagai suatu mekanisme perlindungan: rekrut pekerja selama setahun, buat keputusan di akhirnya, dan akhiri tanpa pemberhentian dan tanpa tunjangan. Itu hanya berfungsi sekali saja. Mekanisme ini gagal ketika diulang, dan ia gagal secara retrospektif — pekerja yang Anda kira berada dalam kontrak setahun yang kedua belas ternyata telah menjadi pekerja tetap sejak tahun kedua.

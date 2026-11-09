@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "dependant-social-visit-passes", "student-pass"]
 keywords: ["overstay Malaysia", "immigration blacklist", "Special Pass", "Immigration Act 1959/63", "compound fine", "re-entry ban", "section 15", "Overstay Management Programme"]
+framework: rules
 ---
 
 ใบอนุญาตที่หมดอายุไปเพียงวันเดียวนั้น ในสายตาของกฎหมายมาเลเซีย เป็นความผิดเดียวกันกับใบอนุญาตที่หมดอายุไปร้อยวัน นั่นคือจุดเริ่มต้นที่ไม่สบายใจสำหรับทุกคนที่ตระหนักว่าใบอนุญาตเยือน การจ้างงาน ผู้อยู่ในอุปการะ นักเรียน หรือวิชาชีพของตนหมดอายุแล้ว — และมันกำหนดทุกอย่างเกี่ยวกับสิ่งที่จะเกิดขึ้นต่อไป

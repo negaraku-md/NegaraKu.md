@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "personal-income-tax" }
 related: ["real-property-gains-tax"]
 keywords: ["inheritance tax Malaysia", "estate duty Malaysia", "no inheritance tax", "deceased estate income tax", "RPGT inherited property", "stamp duty inheritance", "executor tax Malaysia", "death tax Malaysia"]
+framework: explainer
 ---
 
 Apabila seorang ibu bapa meninggal dunia di Kuala Lumpur dan meninggalkan sebuah rumah serta sedikit simpanan, kebimbangan pertama keluarga selalunya ialah bil cukai ke atas warisan itu sendiri. Di Malaysia, bil tertentu itu tidak wujud. Tiada cukai warisan, tiada duti harta pusaka, dan tiada cukai kematian ke atas kekayaan yang ditinggalkan seseorang.

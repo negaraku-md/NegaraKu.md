@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016", "contracts-act-1950", "court-hierarchy"]
 keywords: ["bankruptcy Malaysia", "insolvency act 1967", "winding up company Malaysia", "judicial management", "department of insolvency", "RM100000 bankruptcy threshold", "social guarantor", "discharge from bankruptcy"]
+framework: explainer
 ---
 
 Owing money in Malaysia is not, by itself, enough to be made bankrupt. The debt has to be large, the creditor has to follow a specific court process, and — if you only ever guaranteed a friend's study loan or your family home — the law may shield you entirely. Malaysia runs two separate insolvency regimes: one for people, one for companies. Knowing which one you are in, and what each allows, changes everything.

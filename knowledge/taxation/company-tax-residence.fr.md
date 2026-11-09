@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "permanent-establishment" }
 related: ["corporate-tax-rates", "income-tax-act-1967", "lhdn", "sdn-bhd"]
 keywords: ["résidence fiscale des sociétés Malaisie", "gestion et contrôle", "section 8 Income Tax Act", "taraf mastautin syarikat", "société résidente Malaisie"]
+framework: explainer
 ---
 
 Une Sdn Bhd malaisienne dont les trois administrateurs vivent tous à Singapour, se

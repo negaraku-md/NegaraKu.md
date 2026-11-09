@@ -71,6 +71,7 @@ faq:
     a: 'No. Thaipusam no es festivo a nivel nacional; solo es día festivo público en los estados que lo publican en el boletín oficial: Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan y Johor. En algunos años, Kedah lo concede como una declaración especial sin una publicación oficial fija. En cambio, Deepavali es día festivo público en todos los estados y territorios federales, salvo Sarawak.'
   - q: ¿Por qué viven más hindúes en estados como Negeri Sembilan, Selangor y Perak?
     a: Estos estados coinciden con las antiguas zonas de plantaciones de caucho y minería de estaño, donde los trabajadores indios se asentaron en gran número durante la época británica. En el censo de 2020, Negeri Sembilan (~13,1%), Selangor (~10,3%) y Perak (~9,7%) presentaban las proporciones más altas. La mayoría son descendientes de quienes llegaron del sur de la India para el trabajo en las plantaciones bajo el sistema kangani.
+framework: history-culture
 ---
 
 En cualquier ciudad de Malasia, al borde de una antigua plantación de caucho o en

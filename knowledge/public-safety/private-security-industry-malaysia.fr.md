@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "royal-malaysia-police" }
 related: []
 keywords: ["agence de sécurité privée", "licence d'agence privée", "police auxiliaire", "Private Agencies Act 1971", "garde de sécurité Malaisie", "KDN eSIMS", "zone fermée"]
+framework: profile
 ---
 
 Dans la plupart des zones résidentielles fermées, des usines et des centres commerciaux de Malaisie, la première personne que vous rencontrez n'est pas un officier de police — mais un garde de sécurité privée. Ce secteur opère en étroite collaboration avec les forces publiques de l'ordre, mais obéit à un cadre juridique entièrement distinct, et la confusion sur qui peut faire quoi peut exposer à un risque juridique les entreprises qui les emploient.

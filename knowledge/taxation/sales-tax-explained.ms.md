@@ -105,6 +105,7 @@ relations:
   - { rel: "compares-with", to: "sst-expansion-2025" }
 related: ["sst-explained", "sst-registration", "sst-02-filing", "sst-rate-table"]
 keywords: ["cukai jualan Malaysia", "kadar cukai jualan 2025", "pengecualian Schedule C", "CJ5 CJ5A", "kemudahan potongan cukai jualan", "cukai jualan pengilang"]
+framework: explainer
 ---
 
 Jika perunding cukai anda memberitahu anda untuk memfailkan CJ5 bagi membeli

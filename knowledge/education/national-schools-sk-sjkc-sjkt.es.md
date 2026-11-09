@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["malaysian-education-system", "enrolling-in-a-government-school", "private-and-chinese-independent-schools"]
 keywords: ["sekolah kebangsaan", "SJKC", "SJKT", "sekolah jenis kebangsaan", "bahasa pengantar", "KPM", "KSSR", "sekolah rendah Malaysia"]
+framework: explainer
 ---
 
 Cada año, cuando se abre el periodo de inscripción, los padres de toda Malasia entran en el portal idMe del Ministerio de Educación de Malasia (KPM) para matricular a su hijo en el 1.er año. Una de las primeras decisiones que deben tomar: ¿SK, SJKC o SJKT?

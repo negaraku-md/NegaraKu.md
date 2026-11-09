@@ -69,6 +69,7 @@ sources:
 
 related: ["1mdb-scandal", "prime-ministers-of-malaysia", "2018-change-of-government", "mahathir-mohamad", "anwar-ibrahim"]
 keywords: ["Najib Razak", "Mohd Najib Abdul Razak", "sixth prime minister Malaysia", "1MDB", "SRC International"]
+framework: profile
 ---
 
 > **Draft — sensitive.** This article is a neutral, work-in-progress summary and

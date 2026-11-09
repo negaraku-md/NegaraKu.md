@@ -65,6 +65,7 @@ relations:
   - { rel: "part-of", to: "foreign-exchange-policy-malaysia" }
 related: ["foreign-exchange-policy-malaysia", "share-capital-malaysia"]
 keywords: ["الاقتراض بالعملة الأجنبية ماليزيا", "foreign currency borrowing malaysia", "قرض المساهم ماليزيا BNM", "shareholder loan malaysia BNM", "حد القرض الخارجي ماليزيا", "offshore loan malaysia limit", "حد الاقتراض RM100 مليون", "إشعار FEP 2"]
+framework: rules
 ---
 
 تريد شركة أمّ أجنبية تمويل شركتها التابعة الماليزية بقرض مساهم بالدولار الأمريكي

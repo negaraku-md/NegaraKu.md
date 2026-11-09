@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["population-composition", "chinese-dialects", "chinese-clan-associations", "chinese-education-in-malaysia", "chinese-new-year"]
 keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划", "Briggs Plan", "马共", "重新安置", "临时地契", "TOL", "Chinese New Villages", "New Villages Malaysia"]
+framework: history-culture
 ---
 
 Melangkah masuk ke Semenyih, Kampar, atau Sekinchan hari ini, yang sebagian besar Anda lihat adalah wajah biasa sebuah kota kecil: deretan rumah toko, sebuah sekolah dasar Tionghoa, kelenteng dan perhimpunan, kedai kopi di tepi jalan serta toko kelontong. Namun banyak dari tempat-tempat ini berbagi satu identitas yang sama — ia adalah "Kampung Baru". Di balik label yang tampak biasa ini tersimpan sebuah sejarah tentang Darurat Malaya, antipemberontakan, dan perpindahan berskala besar.

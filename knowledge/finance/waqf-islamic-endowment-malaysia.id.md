@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "donations-and-tax-deductions" }
 related: ["islamic-finance", "state-islamic-religious-councils", "zakat", "donations-and-tax-deductions"]
 keywords: ["waqf", "wakaf", "Islamic endowment Malaysia", "cash waqf", "corporate waqf", "JAWHAR", "Yayasan Waqaf Malaysia", "waqf land Malaysia"]
+framework: explainer
 ---
 
 Beri seseorang seekor ikan, ia makan untuk sehari. Wakafkan sebuah kolam ikan yang tidak pernah dapat dijual, dan seluruh desa makan selamanya. Itu, dalam satu kalimat, adalah waqf.

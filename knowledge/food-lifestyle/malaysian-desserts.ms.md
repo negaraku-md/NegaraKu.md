@@ -96,6 +96,7 @@ verificationNeeded:
   - "Atribusi Peranakan (Nyonya) bagi bubur cha cha dan makna namanya — kerap diulang dalam media makanan tetapi kurang didokumentasikan; sahkan dengan sumber masakan atau warisan Peranakan."
   - "Sama ada pencuci mulut tertentu di sini (cth. cendol, pulut hitam) membawa pengiktirafan rasmi makanan Warisan Kebangsaan Malaysia, dan tarikhnya — sahkan dengan Jabatan Warisan Negara dan bukannya media makanan."
   - "Butiran ramuan dan penyediaan (cth. kanji tepat yang digunakan dalam jeli cendol, sama ada tau fu fah dibekukan dengan gipsum atau glucono-delta-lactone) berbeza mengikut resipi dan wilayah; anggap penerangan di sini sebagai lazim dan bukannya muktamad."
+framework: explainer
 ---
 
 Makanan masin Malaysia mendapat kebanyakan perhatian, tetapi negara ini mempunyai

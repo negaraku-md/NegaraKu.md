@@ -120,6 +120,7 @@ relations:
   - { rel: "related-to", to: "beneficial-ownership" }
 related: ["statutory-registers", "registered-office", "register-of-members", "annual-return"]
 keywords: ["minute book Malaysia", "section 341 Companies Act 2016", "section 245 accounting records seven years", "document retention Malaysia company", "buku minit syarikat", "board minutes Malaysia Third Schedule"]
+framework: rules
 ---
 
 Hãy hỏi một thư ký công ty Malaysia một sổ biên bản phải được giữ trong bao lâu và bạn sẽ nhận được «bảy

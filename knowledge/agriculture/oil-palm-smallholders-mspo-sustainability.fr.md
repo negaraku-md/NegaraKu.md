@@ -81,6 +81,7 @@ relations:
   - { rel: "affects", to: "deforestation-and-forest-loss-in-malaysia" }
 related: ["palm-oil-sustainability-mspo-and-deforestation", "palm-oil-industry", "palm-oil-sustainability-certification", "deforestation-and-forest-loss-in-malaysia"]
 keywords: ["oil palm smallholders", "petits exploitants de palmier à huile", "MSPO certification", "certification MSPO", "independent smallholders", "MS 2530:2022", "EUDR palm oil", "huile de palme durable Malaisie"]
+framework: explainer
 ---
 
 Un agriculteur de Bintulu qui peut parcourir de mémoire chaque limite de sa parcelle de palmier à huile doit désormais transformer ces « cartes mentales » en polygones GPS avant qu'un acheteur d'Europe ne touche à son fruit. Cet écart — entre connaître sa terre et la documenter à la satisfaction d'un auditeur — est l'histoire silencieuse derrière l'économie de l'huile de palme des petits exploitants de la Malaisie.

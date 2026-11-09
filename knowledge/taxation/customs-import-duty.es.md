@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "free-trade-agreements" }
 related: ["sales-and-service-tax", "malaysia-free-trade-agreements"]
 keywords: ["derecho de importación", "import duty", "customs duty", "HS code", "AHTN", "clasificación arancelaria", "ATIGA", "Form D", "CIF", "impuesto sobre ventas a la importación", "Customs Act 1967"]
+framework: explainer
 ---
 
 Dos envíos idénticos pueden llegar a Port Klang y pagar derechos radicalmente distintos — no por lo que contienen, sino por el código de ocho dígitos que alguien escribió en la declaración. Ese código es todo el juego.

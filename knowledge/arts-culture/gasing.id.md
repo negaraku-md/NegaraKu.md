@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "wau" }
 related: ["wau", "kelantan", "terengganu"]
 keywords: ["gasing", "gasing uri", "gasing pangkah", "permainan tradisional Melayu", "warisan kebangsaan", "Kuala Nerus", "gasing Kelantan", "gasing Terengganu"]
+framework: history-culture
 ---
 
 Suaranya yang lebih dulu sampai — hantaman kayu berat menabrak kayu berat, disusul sorakan. Di sebuah lapangan kampung sekitar Kuala Nerus, Terengganu, dua kelompok berdiri berhadapan. Seorang melemparkan gasingnya dengan tali; satu lagi sudah berputar menunggu di tanah. Yang menang bukan yang tercepat — melainkan yang gasingnya masih berputar setelah ditabrak.

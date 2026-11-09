@@ -77,6 +77,7 @@ social:
 verificationNeeded:
   - "Tên chính thức của hệ thống chính tả năm 1972 tại Malaysia: các nguồn khác nhau nêu 'Ejaan Rumi Baharu' và 'Ejaan Rumi Bersama' — cần được xác nhận đối chiếu với quy chuẩn chính thức của DBP"
   - "Năm của hệ thống chính tả Za'ba: một số nguồn nêu được giới thiệu năm 1924 và một số khác nêu được biên soạn hoàn chỉnh vào năm 1933 — cần được xác nhận đối chiếu với nguồn sơ cấp"
+framework: history-culture
 ---
 
 Khi chúng ta đọc một từ tiếng Mã Lai ngày nay — trên biển báo đường, trong báo chí, trên màn hình điện thoại — chúng ta đọc nó bằng những chữ cái giống với bảng chữ cái tiếng Anh: a, b, c, d và tiếp theo. Chữ viết đó được gọi là chữ Rumi. Nó quen thuộc đến mức nhiều người không nhận ra rằng Rumi không phải là văn tự nguyên thủy của tiếng Mã Lai, và rằng hình thức gọn gàng, thống nhất của nó ngày nay là kết quả của một nỗ lực chuẩn hóa kéo dài hơn một trăm năm.

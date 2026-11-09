@@ -115,6 +115,7 @@ keywords:
   - "Selangor home business licence fee"
   - "Selangor council licensing"
   - "Port Klang TEU"
+framework: profile
 ---
 
 쿠알라룸푸르에는 하나의 인허가 당국이 있습니다. 그것을 둘러싼 슬랑오르에는 열둘이 있으며 —

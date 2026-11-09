@@ -86,6 +86,7 @@ relations:
   - { rel: "affects", to: "capital-allowances" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "company-tax-residence", "income-tax-act-1967", "dormant-company-audit-exemption"]
 keywords: ["report des pertes d'exploitation Malaisie", "dégrèvement de groupe section 44A", "déductions pour amortissement du capital non absorbées", "limite de 10 ans des pertes", "changement substantiel de l'actionnariat"]
+framework: explainer
 ---
 
 Deux sociétés d'un même groupe, toutes deux déficitaires, toutes deux dirigées par des administrateurs qui tiennent pour acquis que les pertes seront là quand les bénéfices arriveront. L'une les aura encore en 2035. L'autre non, et rien dans son activité commerciale n'explique la différence.

@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "import-duty" }
 related: ["sales-and-service-tax"]
 keywords: ["duti eksais", "excise duty", "Akta Eksais 1976", "cukai kereta", "duti eksais rokok", "cukai gula", "minuman bergula", "JKDM", "kastam"]
+framework: explainer
 ---
 
 在马来西亚买一辆车，你所缴的税可能几乎与车价本身相当。主要原因是一项鲜少被讨论却极具威力的税项：**消费税（excise duty）**。

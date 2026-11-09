@@ -87,6 +87,7 @@ faq:
     a: No. A Malaysia Plan is tabled and passed as a policy motion for parliamentary debate, not as a bill. The Budget, by contrast, must go through a Supply Bill that passes the full legislative process before it is gazetted as a Supply Act. The 13th Malaysia Plan (RMK13), for instance, was tabled as a motion in the Dewan Rakyat on 31 July 2025 and in the Dewan Negara on 25 August 2025.
   - q: Does the entire RM611 billion of RMK13 come from Government money?
     a: No. Of the at least RM611 billion in RMK13 investment, only RM430 billion is Government development allocation. The rest comes from RM120 billion in domestic direct investment by Government-Linked Companies (GLCs) and Government-Linked Investment Companies (GLICs), plus RM61 billion through public-private partnership (PPP) arrangements.
+framework: explainer
 ---
 
 On 31 July 2025, the Prime Minister tabled in the Dewan Rakyat a development

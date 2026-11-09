@@ -90,6 +90,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
 keywords: ["धारा 109B", "section 109B", "धारा 4A आय", "section 4A income", "तकनीकी शुल्क रोक-कर मलेशिया", "आय की विशेष श्रेणियाँ", "PR 10/2019", "मलेशिया से प्राप्त", "derived from Malaysia"]
+framework: rules
 ---
 
 किसी मलेशियाई वित्त टीम से पूछिए कि उन्होंने किसी विदेशी सलाहकार के चालान पर क्यों नहीं रोका, और उत्तर लगभग हमेशा एक ही होता है: *काम विदेश में किया गया था*। वह उत्तर 17 जनवरी 2017 तक सही था, उस तिथि से 6 सितंबर 2017 तक ग़लत, और अब फिर से सही है — किंतु एक पूर्णतः भिन्न कारण से, और इसमें एक ऐसा छेद है जिसका उल्लेख अधिकांश मार्गदर्शिकाएँ नहीं करतीं।

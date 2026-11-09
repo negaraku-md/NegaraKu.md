@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "registering-a-marriage-civil" }
 related: ["getting-married-in-malaysia", "registering-a-marriage-civil"]
 keywords: ["divorce Malaysia", "civil divorce", "Syariah divorce", "talak", "fasakh", "khuluk", "Law Reform Marriage and Divorce Act 1976", "Section 51 conversion to Islam", "Syariah court"]
+framework: explainer
 ---
 
 Two Malaysian couples file to end their marriages on the same morning. One walks into a civil High Court registry; the other reports to a state Islamic religious office. Neither can use the other's door. In Malaysia, ending a marriage — like starting one — runs through two separate legal systems, and the religion of the parties, not their preference, decides which one applies.

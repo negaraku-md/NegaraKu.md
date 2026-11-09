@@ -79,6 +79,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-registration", "imported-taxable-services", "sales-tax-explained"]
 keywords: ["SST-02", "الموعد النهائي لتقديم SST ماليزيا", "غرامة التأخّر في دفع SST", "الفترة الضريبية SST", "إقرار MySST", "SST filing deadline Malaysia"]
+framework: rules
 ---
 
 يتوقّف سلّم الغرامات عن الارتفاع عند تسعين يوماً. وبعد تلك النقطة يثبت عند 40%،

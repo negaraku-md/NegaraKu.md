@@ -85,6 +85,7 @@ relations:
   - { rel: "governs", to: "political-parties-malaysia" }
 related: ["how-elections-work", "spr-election-commission", "dewan-rakyat", "parliament", "yang-di-pertuan-agong"]
 keywords: ["parti politik Malaysia", "Akta Pertubuhan 1966", "Pendaftar Pertubuhan", "Registrar of Societies", "ROS", "Barisan Nasional", "Pakatan Harapan", "Perikatan Nasional", "GPS", "kerajaan perpaduan", "PRU15", "gabungan politik", "political parties Malaysia"]
+framework: explainer
 ---
 
 在马来西亚，一个政党并非始于国会，也非始于竞选舞台。它始于社团注册局

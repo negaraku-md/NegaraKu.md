@@ -100,6 +100,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["industrial-design-malaysia", "ip-ownership-malaysia", "trademark-registration-malaysia"]
 keywords: ["patent malaysia", "utility innovation malaysia", "myipo patent fee", "patents act 1983", "utility innovation vs patent"]
+framework: decision
 ---
 
 SME มาเลเซียส่วนใหญ่ที่สอบถามเรื่องสิทธิบัตรไม่ได้มีการประดิษฐ์ที่จดสิทธิบัตรได้ พวกเขามีการ

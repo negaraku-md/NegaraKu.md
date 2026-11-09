@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["staying-safe-scams-and-emergencies", "duitnow-qr-payments", "opening-bank-account", "consumer-rights-and-tribunal"]
 keywords: ["cara lapor penipuan Malaysia", "talian 997 NSRC", "Pusat Respons Penipuan Kebangsaan", "SemakMule PDRM", "CCID Infoline 013-211 1222", "bekukan akaun penipu", "scam call center Malaysia", "laporan jenayah kewangan"]
+framework: how-to
 ---
 
 Số dư trong ứng dụng ngân hàng của bạn đột nhiên giảm, hoặc bạn vừa nhấn "Xác nhận" trên một giao dịch chuyển khoản mà giờ cảm thấy vô cùng sai lầm. Tim đập thình thịch. Trong khoảnh khắc đó, chỉ một điều thực sự thay đổi kết cục: không phải sự hoảng loạn, mà là biết đường dây nào để liên hệ — và liên hệ nó trong những phút gần kề, chứ không phải ngày mai.

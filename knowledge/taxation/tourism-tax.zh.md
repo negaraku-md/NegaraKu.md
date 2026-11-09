@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
 related: ["sst-explained", "sst-registration"]
 keywords: ["tourism tax", "TTx", "Tourism Tax Act 2017", "RM10 per room", "MyTTx", "RMCD", "Agoda tax", "hotel tax Malaysia"]
+framework: explainer
 ---
 
 在马来西亚酒店办理退房时，你可能会注意到账单上有一笔与房价无关的小额定额费用：每晚每间客房10令吉。这就是旅游税——而你是否需要缴纳它，取决于一个前台无法免除的问题：你持有的是哪一国的护照？

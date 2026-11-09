@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "cbcr-and-master-file" }
 related: ["corporate-tax-rates"]
 keywords: ["ضريبة الحد الأدنى العالمية ماليزيا", "domestic top-up tax", "multinational top-up tax", "Pillar Two Malaysia", "QDMTT Malaysia", "GloBE Malaysia", "ضريبة الحد الأدنى العالمية"]
+framework: rules
 ---
 
 يُكتب كل ما يُكتب تقريبًا عن الركيزة الثانية (Pillar Two) من أجل الكيان الأم

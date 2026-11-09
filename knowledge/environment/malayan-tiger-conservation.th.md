@@ -78,6 +78,7 @@ relations:
   - { rel: "located-in", to: "taman-negara" }
 related: []
 keywords: ["Malayan tiger", "Harimau Malaya", "Panthera tigris jacksoni", "Critically Endangered", "National Tiger Survey", "Perhilitan", "MYCAT", "tiger conservation", "Al-Sultan Abdullah Royal Tiger Reserve"]
+framework: explainer
 ---
 
 เสือโคร่งปรากฏบนตราแผ่นดินของมาเลเซีย แต่ตัวสัตว์เองในปัจจุบันอยู่ในกลุ่มแมวใหญ่ที่หายากที่สุดในโลก เมื่อมาเลเซียทำการสำรวจเสือโคร่งในธรรมชาติระดับชาติครั้งแรกเสร็จสิ้น ผลลัพธ์ต่ำกว่าที่หลายคนคาดไว้ คือน้อยกว่า 150 ตัว

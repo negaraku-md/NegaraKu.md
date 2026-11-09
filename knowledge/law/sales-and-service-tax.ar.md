@@ -113,6 +113,7 @@ relations:
   - { rel: "related-to", to: "income-tax-act-1967" }
 related: ["income-tax-act-1967", "companies-act-2016"]
 keywords: ["SST", "ضريبة المبيعات", "ضريبة الخدمات", "RMCD", "MySST", "تسجيل SST", "Sales Tax Act 2018", "Service Tax Act 2018", "معدلات SST", "عتبة SST", "sales tax", "service tax"]
+framework: rules
 ---
 
 إذا تساءلت يومًا عن سبب حمل فاتورة مطعمك بندًا باسم «SST» بينما لا يحمله عادةً إيصال

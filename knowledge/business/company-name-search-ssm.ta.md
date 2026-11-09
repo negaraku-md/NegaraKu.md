@@ -85,6 +85,7 @@ keywords:
   - "section 26 Companies Act 2016 name"
   - "SSM controlled words company name"
   - "company name rejected SSM"
+framework: rules
 ---
 
 ஒரு பெயர் நிராகரிக்கப்படுவதற்கான மிகவும் பொதுவான காரணம், அதை ஏற்கனவே யாராவது

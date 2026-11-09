@@ -59,6 +59,7 @@ keywords: ["Brunei Sultanate", "Sultan Bolkiah", "Borneo empire", "Sarawak cessi
 social:
   hashtags: ["BruneiSultanate", "BorneoHistory", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded: []
+framework: history-culture
 ---
 
 今日、バンダル・スリ・ブガワンの水辺に立つと、ブルネイは小さく見える——ボルネオ海岸の二つの細長い土地を囲む、裕福で石油に富むスルタン国で、午後のうちに車で横断できるほど近い。これが一つの帝国の残った断片であること——五世紀前には、ブルネイのスルタンが島の北岸と西岸のほぼ全域に連なる港から貢物を要求でき、ここから車で行けるマレーシアの二つの州、サラワクとサバが、かつては彼が与えることのできる領地であったこと——を忘れるのはたやすい。ボルネオの海の王国がいかに興り、その頂点に達し、そしてそれらの海岸を一つまた一つと引き渡していったかの物語は、マレーシア史の欠かせない筋道の一つである——ブルネイ自身がマレーシアの一部に決してならなかったとしても。

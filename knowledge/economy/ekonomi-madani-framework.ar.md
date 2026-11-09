@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "subsidy-rationalisation-padu" }
 related: ["malaysia-plans", "new-industrial-master-plan-2030", "national-energy-transition-roadmap-netr", "subsidy-rationalisation-padu"]
 keywords: ["Ekonomi MADANI", "MADANI Economy framework", "Ekonomi MADANI Memperkasa Rakyat", "MADANI values acronym", "Malaysia economic framework Anwar", "MADANI economy seven targets", "Malaysia MADANI"]
+framework: explainer
 ---
 
 في 27 يوليو 2023، بعد أشهر قليلة من رئاسته للوزراء، وقف أنور إبراهيم لا ليعلن ميزانيةً أو مشروعاً واحداً، بل ليمنح اقتصاد ماليزيا قصةً يرويها عن نفسه.

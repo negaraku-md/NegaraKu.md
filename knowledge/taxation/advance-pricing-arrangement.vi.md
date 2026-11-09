@@ -113,6 +113,7 @@ relations:
   - { rel: "affects", to: "permanent-establishment" }
 related: ["transfer-pricing-documentation", "cbcr-and-master-file", "dta-network", "permanent-establishment"]
 keywords: ["advance pricing arrangement malaysia", "apa malaysia lhdn", "bilateral apa malaysia", "apa application fee malaysia", "pu a 166 2023", "apa rollback malaysia"]
+framework: how-to
 ---
 
 Hầu hết các cố vấn mô tả thỏa thuận định giá trước như một thực đơn — đơn phương nếu bạn muốn nó rẻ và nhanh, song phương nếu bạn muốn sự bảo hộ theo hiệp định. Ở Malaysia không có thực đơn nào cả. Rule 2(2) của Income Tax (Advance Pricing Arrangement) Rules 2023, P.U.(A) 166/2023, quyết định thay cho bạn, và nó quyết định dựa trên một sự thật duy nhất: liệu nước mà bên liên kết của bạn đặt trụ sở có một thỏa thuận với Malaysia theo s.132 của Luật Thuế thu nhập (Income Tax Act 1967) hay không.

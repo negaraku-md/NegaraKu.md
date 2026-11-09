@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "wau" }
 related: ["wau", "kelantan", "terengganu"]
 keywords: ["gasing", "gasing uri", "gasing pangkah", "jeu traditionnel malais", "patrimoine national", "Kuala Nerus", "gasing Kelantan", "gasing Terengganu"]
+framework: history-culture
 ---
 
 Le son arrive d'abord — du bois lourd frappant du bois lourd, suivi d'acclamations. Sur un terrain de village autour de Kuala Nerus, au Terengganu, deux groupes se font face. Un joueur lance sa toupie à l'aide d'une cordelette ; une autre tourne déjà, en attente au sol. Le gagnant n'est pas le plus rapide — c'est celui dont la toupie tourne encore après la frappe.

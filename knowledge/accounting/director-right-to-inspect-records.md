@@ -56,6 +56,7 @@ relations:
   - { rel: "related-to", to: "directors-duties" }
 related: ["accounting-records-section-245", "directors-duties"]
 keywords: ["director right to inspect accounting records Malaysia", "section 245(4) Companies Act 2016", "director inspection subsidiary records", "shareholder dispute company records Malaysia"]
+framework: explainer
 ---
 
 In a shareholder dispute, the first shot is rarely a petition. It is a letter from a

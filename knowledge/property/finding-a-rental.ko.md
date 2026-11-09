@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["employment-pass", "opening-bank-account"]
 keywords: ["rental Malaysia", "iProperty", "PropertyGuru", "Mudah", "REN Malaysia", "registered estate negotiator", "BOVAEP", "LPPEH", "estate agent Malaysia", "rental commission Malaysia", "REN Tag"]
+framework: explainer
 ---
 
 포털에서 마음에 드는 매물을 찾아 거기 적힌 번호로 연락하면, 누군가 나타나 그 세대의 문을 열어 줍니다. 그 과정 어디에도, 당신에게 열쇠를 건네는 그 사람이 애초에 수수료를 받고 이 일을 할 법적 자격이 있는지는 나오지 않습니다 — 그리고 거의 아무도 묻지 않습니다.

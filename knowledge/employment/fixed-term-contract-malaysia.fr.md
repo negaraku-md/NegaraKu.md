@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-contract-malaysia", "unfair-dismissal-malaysia", "termination-benefits-malaysia", "employee-vs-contractor-malaysia"]
 keywords: ["contrat durée déterminée malaisie", "renouvellement contrat malaisie emploi", "non renouvellement licenciement malaisie", "salarié contrat projet malaisie", "contrat temporaire malaisie loi"]
+framework: explainer
 ---
 
 Le contrat à durée déterminée se vend sur le marché malaisien comme un dispositif de sécurité : embaucher pour un an, décider à la fin, partir sans licenciement et sans indemnités. Cela fonctionne exactement une fois. Le dispositif échoue à la répétition, et il échoue rétroactivement — le salarié que vous pensiez en être à son douzième contrat annuel se révèle avoir été un salarié permanent depuis l'année deux.

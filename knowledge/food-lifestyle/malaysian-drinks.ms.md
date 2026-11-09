@@ -102,6 +102,7 @@ verificationNeeded:
   - "Komposisi standard tepat air mata kucing (longan, luo han guo, kundur, gula batu dalam nisbah berbeza-beza) dan bacaan 'mata kucing' sebagai longan lawan bacaan rakyat 'air mata kucing' — sahkan dengan sumber kulinari atau leksikografi."
   - "Dakwaan bahawa jus buah pala Pulau Pinang berpunca daripada penanaman buah pala oleh British yang diperkenalkan pada akhir abad ke-18 — diulang oleh media pelancongan tetapi tidak disahkan di sini terhadap sumber sejarah."
   - "Sama ada untuk mengaitkan kedatangan bubble tea di Malaysia dengan dekad atau rangkaian tertentu — anggap bingkai 'asal Taiwan, gelombang kemudian di Malaysia' sebagai umum sehingga sumber bertarikh disahkan."
+framework: explainer
 ---
 
 Minta pelawat menamakan satu minuman Malaysia dan mereka biasanya akan menyebut

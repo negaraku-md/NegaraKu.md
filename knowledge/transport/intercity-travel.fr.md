@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "e-hailing-grab" }
 related: ["klang-valley-rail", "e-hailing-grab"]
 keywords: ["voyage interurbain Malaisie", "KTM ETS", "KTM Intercity", "autobus express Malaisie", "Terminal Bersepadu Selatan", "TBS", "vols intérieurs Malaisie", "AirBorneo", "MASwings", "Rural Air Service", "vols Sabah Sarawak", "intercity travel Malaysia"]
+framework: explainer
 ---
 
 Prenez l'avion pour Kuching, un autobus pour Kuantan ou un train pour

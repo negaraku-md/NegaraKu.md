@@ -129,6 +129,7 @@ relations:
   - { rel: "related-to", to: "rcep-malaysia" }
 related: []
 keywords: ["ASEAN", "Malaysia ASEAN", "Deklarasi Bangkok", "Piagam ASEAN", "Komuniti ASEAN", "pengerusi ASEAN 2025", "Tun Abdul Razak", "Timor-Leste ASEAN"]
+framework: explainer
 ---
 
 1967年8月8日，五个人聚集在曼谷外交部大楼的主厅，签署了一份两页的文件。其中一人——马来西亚副首相敦阿都拉萨·胡先——正将马来西亚置入一个日后将成为这个国家近六十年外交政策主要框架的组织，而马来西亚本身也在2025年担任了该组织的轮值主席国。

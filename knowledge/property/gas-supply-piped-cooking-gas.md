@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "electricity-supply-tnb" }
 related: []
 keywords: ["gas paip asli", "Gas Malaysia", "tong gas", "LPG", "gas domestik", "subsidi gas", "gas memasak", "harga tong gas 14kg"]
+framework: explainer
 ---
 
 Nyalakan dapur di rumah baharu anda dan anda akan cepat sedar: kebanyakan orang Malaysia memasak dengan tong gas yang dihantar ke pintu, bukan gas yang mengalir melalui paip. Gas paip asli memang wujud — tetapi hanya di sebahagian kecil kawasan bandar. Panduan ini menjelaskan kedua-dua pilihan, harganya, peraturan subsidi, dan cara mengendalikan gas dengan selamat.

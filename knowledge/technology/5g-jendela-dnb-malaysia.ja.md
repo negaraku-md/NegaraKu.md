@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "internet-and-fibre" }
 related: ["malaysias-telcos-and-5g", "internet-and-fibre"]
 keywords: ["JENDELA", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "second 5G network", "U Mobile", "MCMC", "national broadband plan", "spectrum allocation", "700MHz", "3.5GHz"]
+framework: explainer
 ---
 
 マレーシア人 2 人にこの国の携帯ネットワークがどのように運営されているかを尋ねると、しばしば異なる、それぞれ半分だけ正しい答えが返ってくる——実は、絡み合った 2 つの別々の物語があるからだ。1 つは、大半の人が政府の横断幕で見たことのある名前を持つブロードバンド・カバレッジ計画である。もう 1 つは、5G のパイプを誰が所有するのかをめぐる、急速に動く争いである。現代マレーシアの接続性を理解するとは、この 2 つの物語をきちんと区別し続けることを意味する。

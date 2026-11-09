@@ -195,6 +195,7 @@ relations:
   - { rel: "governs", to: "income-tax-act-1967" }
 related: ["labour-law-map-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "pcb-mtd-malaysia", "epf-foreign-workers-malaysia"]
 keywords: ["पेरोल अनुपालन मलेशिया", "payroll compliance Malaysia", "वैधानिक अंशदान समय-सीमा मलेशिया", "statutory contribution deadline Malaysia", "EPF SOCSO EIS PCB देय तिथि", "नियोक्ता पेरोल दायित्व मलेशिया", "HRD Corp लेवी समय-सीमा"]
+framework: rules
 ---
 
 मलेशियाई पेरोल के गलत होने का कारण लगभग कभी भी अंकगणित नहीं होता। कारण यह है कि पाँच अलग-अलग

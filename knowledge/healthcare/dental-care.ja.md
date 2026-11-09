@@ -74,6 +74,7 @@ keywords:
   - "klinik pergigian pakar hospital"
   - "Akta Pergigian 2018"
   - "carian klinik pergigian kerajaan"
+framework: explainer
 ---
 
 多くの人は「歯医者」をひとつのものだと考えている——虫歯を詰めたり、

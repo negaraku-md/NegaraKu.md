@@ -72,6 +72,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#GheeLian", "#Penang", "#BibGourmand", "#StreetFood", "#Malaysia"]
+framework: profile
 ---
 
 tom yum जन्म से थाई है, पर जॉर्ज टाउन के पुराने Esplanade के पास एक हॉकर स्टॉल पर वह

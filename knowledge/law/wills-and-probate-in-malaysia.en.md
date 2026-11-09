@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "estate-planning-in-malaysia" }
 related: []
 keywords: ["wasiat", "probet", "pusaka", "Akta Pembahagian 1958", "Akta Wasiat 1959", "surat kuasa mentadbir", "bukan Islam"]
+framework: explainer
 ---
 
 Leaving property without a will does not mean your family is free to decide who gets what. In Malaysia, a rigid legal formula takes over — and it may not match your wishes. For non-Muslims, three acts determine everything: the Wills Act 1959 (how to make a will), the Probate and Administration Act 1959 (how an estate is administered), and the Distribution Act 1958 (who inherits when there is no will).

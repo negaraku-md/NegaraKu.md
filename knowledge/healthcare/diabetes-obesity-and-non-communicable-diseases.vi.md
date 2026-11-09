@@ -74,6 +74,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-health" }
 related: []
 keywords: ["diabetes", "obesiti", "NCD", "penyakit tidak berjangkit", "NHMS 2023", "cukai gula", "PeKa B40", "Logo Pilihan Sihat", "saringan kesihatan"]
+framework: explainer
 ---
 
 Hơn một nửa người trưởng thành Malaysia ngày nay mang một trọng lượng cơ thể có thể rút ngắn tuổi thọ của họ — và cứ sáu người thì một người đã sống chung với tiểu đường, nhiều người mà không hề hay biết. Đây là dịch bệnh thầm lặng đè nặng lên các bệnh viện, gia đình và nền kinh tế của quốc gia nhiều hơn bất kỳ bệnh truyền nhiễm nào.

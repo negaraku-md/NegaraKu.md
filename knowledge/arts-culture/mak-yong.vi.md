@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["wayang-kulit", "batik"]
 keywords: ["Mak Yong", "teater tarian tradisional", "warisan budaya tidak ketara", "UNESCO Malaysia", "rebab", "Kelantan", "Pak Yong", "Mengadap Rebab"]
+framework: history-culture
 ---
 
 Âm thanh đầu tiên không đến từ diễn viên. Nó đến từ một mảnh gỗ hình quả lê với ba sợi dây — rebab — được kéo nhẹ bên rìa sân khấu gỗ mở. Khán giả ngồi ba phía. Mái là lá cọ. Và trước khi một câu thoại nào được cất lên, một công chúa đã cúi mình về phía nhạc cụ ấy trong một điệu múa mà chính cái tên đã nói lên tất cả: **Mengadap Rebab** (cúi chào cây rebab).

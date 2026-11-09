@@ -80,6 +80,7 @@ relations:
   - { rel: "affects", to: "personal-tax-reliefs" }
 related: ["income-tax-in-malaysia", "pcb-mtd-malaysia", "personal-tax-reliefs", "personal-tax-rates", "which-tax-form"]
 keywords: ["PCB अंतिम कर", "मलेशिया मासिक कर कटौती", "potongan cukai bulanan", "धारा 77C आयकर अधिनियम", "section 77C Income Tax Act", "क्या PCB कटने पर मुझे दाखिल करना होगा", "मलेशिया PCB धन-वापसी"]
+framework: explainer
 ---
 
 हर वर्ष बड़ी संख्या में मलेशियाई कर्मचारी चुपचाप अपनी आयकर का अधिक-भुगतान करना चुनते

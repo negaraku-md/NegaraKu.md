@@ -77,6 +77,7 @@ related:
   - "apam-balik"
 social:
   hashtags: ["#RavisApomManis", "#ApomManis", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 在 George Town 的 Jalan Burma 上，一家煎了近一个世纪甜薄饼的摊位，如今挂上了

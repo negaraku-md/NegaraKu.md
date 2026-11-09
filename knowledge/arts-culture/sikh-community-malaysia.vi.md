@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["tamil-in-malaysia", "chinese-dialects", "population-composition", "deepavali"]
 keywords: ["Sikh Malaysia", "Punjabi Malaysia", "gurdwara", "Vaisakhi", "Khalsa", "langar", "Tatt Khalsa Diwan", "komuniti Sikh", "bahasa Punjabi"]
+framework: history-culture
 ---
 
 Trong hàng ngũ cảnh sát và các đồn lũy của Anh ở Mã Lai thế kỷ 19, nhiều viên chức quấn khăn xếp và để râu rậm ấy không phải người địa phương — họ là người Sikh được đưa từ Punjab ở tây bắc Ấn Độ đến, cách hàng nghìn dặm. Chính từ nhiệm vụ giữ gìn an ninh ấy mà lớn lên một trong những cộng đồng thiểu số nhỏ nhất nhưng dễ nhận ra nhất của Malaysia.

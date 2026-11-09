@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "traffic-summons-saman" }
 related: ["road-transport-act-1987", "traffic-summons-saman"]
 keywords: ["cukai jalan", "LKM", "Lesen Kenderaan Motor", "renew roadtax", "MyJPJ", "e-LKM", "Pos Malaysia JPJ", "MyEG roadtax", "Puspakom B2"]
+framework: explainer
 ---
 
 Nhiều người gọi nó là "thuế đường bộ" và xem nó tương tự thuế thu nhập hay thuế bán hàng — trả xong, xong việc, không cần nghĩ đến nữa cho đến năm sau. Nhưng tên chính thức của nó ở JPJ là Giấy phép Phương tiện Cơ giới (LKM): một loại **giấy phép**, không phải thuế. Sự khác biệt này không chỉ là vấn đề thuật ngữ. Nó giải thích vì sao có một khung thời gian nghiêm ngặt để gia hạn nó, và vì sao một phương tiện quá lâu không có LKM không thể chỉ "trả tiền là xong".

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["tax-incentives-directory", "personal-tax-reliefs", "new-incentive-framework"]
 keywords: ["insentif cukai pelabur mangkin malaysia", "pengecualian cukai pelabur mangkin", "pu a 167 2014", "insentif cukai mangkin cradle", "akreditasi mban", "pelepasan cukai pelabur startup malaysia"]
+framework: rules
 ---
 
 Setiap dek startup yang menyebut insentif pajak malaikat mengatakan ia berjalan hingga 2026. Warta mengatakan sebaliknya. Instrumen yang berlaku adalah Income Tax (Exemption) (No. 3) Order 2014, P.U.(A) 167/2014, dibuat di bawah s.127(3)(b) Income Tax Act 1967 dan dianggap berlaku sejak 1 Januari 2013. Paragraf 5(a)(ii)-nya mengharuskan investor itu memohon kepada Menteri **tidak lewat dari tanggal tetap**, dan tanggal itu telah bergerak tepat dua kali.

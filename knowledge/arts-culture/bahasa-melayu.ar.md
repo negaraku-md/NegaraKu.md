@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: ["federal-constitution", "melaka-sultanate", "independence-1957"]
 keywords: ["bahasa Melayu", "اللغة الملايوية", "bahasa kebangsaan", "اللغة الوطنية", "Perkara 152", "المادة 152", "Akta Bahasa Kebangsaan 1963/67", "الحرف الجاوي والرومي", "Ejaan Rumi Baharu 1972"]
+framework: explainer
 ---
 
 في كوالا بيرانغ بترغكانو، عُثِر على نقش حجري يحمل كلمات ملايوية — لا بالحروف

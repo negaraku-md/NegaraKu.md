@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "kaamatan" }
 related: ["hari-raya-aidilfitri", "chinese-new-year", "deepavali", "christmas-malaysia", "gawai-dayak", "kaamatan"]
 keywords: ["juadah perayaan", "makanan raya", "ketupat", "rendang", "lemang", "yee sang", "lou sang", "murukku", "manok pansuh", "hinava", "tuak", "tumpung", "rumah terbuka", "kuih raya"]
+framework: history-culture
 ---
 
 말레이시아 달력을 한 해의 이 끝에서 저 끝까지 따라가 보면, 단지 날짜만 바뀌는 것이 아닙니다 — 주방이 바뀝니다. 이번 달은 른당과 르망 코코넛 밀크의 냄새가, 몇 달 뒤에는 사람들이 환호하며 높이 들어 올리는 생선회 샐러드가 식탁을 채웁니다. 그다음은 바삭한 무루쿠 나선의 차례이고, 끝으로 뜨거운 닭을 꺼내려 쪼개는 대나무 통입니다.

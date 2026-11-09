@@ -57,6 +57,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "maternity-leave-malaysia", "employment-act-coverage"]
 keywords: ["paternity leave malaysia", "section 60fa employment act", "7 days paternity leave", "paternity leave eligibility malaysia", "paternity leave five confinements"]
+framework: rules
 ---
 
 தந்தைமை விடுப்பு 1 January 2023 அன்று ஒரு தனிச் சிறு பிரிவாக Employment Act 1955 இல்

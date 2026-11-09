@@ -93,6 +93,7 @@ relations:
   - { rel: "part-of", to: "malaysia-agreement-1963" }
 related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
 keywords: ["Sabah travel guide", "Kota Kinabalu", "Mount Kinabalu climb permit", "Kinabalu Park UNESCO", "Sipadan diving permit", "Sepilok orangutan", "Sabah immigration checkpoint", "Sabah entry requirements"]
+framework: explainer
 ---
 
 நாட்டை விட்டு வெளியேறாமல் கோலாலம்பூரிலிருந்து கோட்டா கினபாலுவுக்குப் பறக்கலாம், ஆனாலும் நீங்கள் வந்திறங்கும்போது ஒரு குடிநுழைவுக் கவுண்டரில் வரிசையில் நிற்க வேண்டியிருக்கும். அந்த ஆச்சரியம் பல முதல்-முறை வருகையாளர்களைத் திணறடிக்கிறது — சபாவுக்கு ஒரு பயணத்தைத் திட்டமிடுவதற்கு முன் புரிந்துகொள்ள வேண்டிய மிக முக்கியமான ஒரே விஷயம் இதுதான். இந்த வழிகாட்டி, சபாவை அதன் சொந்த இடமாக உணரச் செய்யும் நுழைவாயில், தலைசிறந்த ஈர்ப்புகள் மற்றும் நுழைவு விதிகள் வழியாக உங்களை அழைத்துச் செல்கிறது, ஏனெனில் மிக நிஜமான ஒரு வகையில், அது அப்படித்தான்.

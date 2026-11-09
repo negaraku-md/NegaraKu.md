@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
 related: ["formation-of-malaysia-1963", "ma63", "independence-1957"]
 keywords: ["सिंगापुर पृथक्करण 1965", "सिंगापुर स्वतंत्रता समझौता", "सिंगापुर दिवस", "तुन्कू अब्दुल रहमान", "ली कुआन यू", "मलेशियाई मलेशिया", "Singapore separation 1965", "Independence of Singapore Agreement", "Singapore Day", "Constitution and Malaysia (Singapore Amendment) Act 1965", "Malaysian Malaysia"]
+framework: history-culture
 ---
 
 एक देश ने एक ही सप्ताहांत में एक संस्थापक राज्य खो दिया। समझौते पर शनिवार को हस्ताक्षर हुए, संवैधानिक संशोधन सोमवार को पारित हुआ, और उसी सोमवार सुबह 10 बजे तक रेडियो सिंगापुरा (Radio Singapura) पर एक स्वतंत्रता उद्घोषणा पढ़ी जा रही थी। जो अधिकांश महासंघ टूटते हैं वे धीरे-धीरे और शोर के साथ टूटते हैं। यह महासंघ — कानूनी अर्थ में — लगभग अड़तालीस घंटों में भंग कर दिया गया, गुप्त रूप से तैयार किए गए और पंद्रह मंत्रियों द्वारा हस्ताक्षरित दस्तावेज़ों द्वारा।

@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "indian-classical-arts-in-malaysia", "thaipusam", "estate-tamil-community", "temple-music-nadaswaram"]
 keywords: ["சிலம்பம்", "Silambam", "மலேசியா சிலம்பம்", "தமிழ் தற்காப்புக் கலை", "நீண்ட தடி", "அடவுகள்", "குத்து வரிசை", "Silambam Malaysia"]
+framework: history-culture
 ---
 
 في احتفال بمعبد أو في مناسبة رأس السنة التاميلية بماليزيا، قد ترى شابًّا يدوّر عصا خيزران طويلة فوق رأسه وحول جسده بسرعة البرق، على إيقاع الطبول. وهذا التدوير ليس للزينة فحسب — بل هو رمز السيلامبام، فنّ القتال التاميلي الذي يزيد عمره على ألف وخمسمئة عام.

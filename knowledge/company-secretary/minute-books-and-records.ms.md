@@ -121,6 +121,7 @@ relations:
   - { rel: "related-to", to: "beneficial-ownership" }
 related: ["statutory-registers", "registered-office", "register-of-members", "annual-return"]
 keywords: ["buku minit syarikat Malaysia", "seksyen 341 Akta Syarikat 2016", "seksyen 245 rekod perakaunan tujuh tahun", "penyimpanan dokumen syarikat Malaysia", "buku minit syarikat", "minit Lembaga Pengarah Jadual Ketiga"]
+framework: rules
 ---
 
 Tanya mana-mana setiausaha syarikat Malaysia berapa lama buku minit perlu

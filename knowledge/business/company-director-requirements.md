@@ -106,6 +106,7 @@ keywords:
   - "director duties Malaysia"
   - "nominee director Malaysia"
   - "director disqualification Malaysia"
+framework: rules
 ---
 
 Someone will one day ask you to "just be a director, it's only a signature".

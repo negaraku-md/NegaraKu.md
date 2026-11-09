@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016"]
 keywords: ["Section 17A", "MACC Act", "corporate liability", "adequate procedures", "T.R.U.S.T.", "anti-corruption Malaysia", "corporate bribery", "GIACC"]
+framework: rules
 ---
 
 Un agente comercial subalterno paga una comisión ilícita para ganar un contrato y nunca se lo cuenta al consejo. Conforme a la legislación malasia desde 2020, ese acto puede exponer a la propia empresa a un proceso penal, y a los directores junto con ella. Ese es el alcance de la Sección 17A de la Ley de la Comisión Anticorrupción de Malasia de 2009.

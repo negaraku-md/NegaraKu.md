@@ -90,6 +90,7 @@ verificationNeeded:
   - "The folklore that nasi tumpang was created as a portable meal for farmers, fishermen and travellers, and its claimed age — Wikipedia frames this as folklore; confirm with a Kelantan heritage source."
   - "Whether solok lada is stuffed with fish or with grated young coconut — reference sources (including Wikipedia itself) are inconsistent; confirm with a local recipe or culinary source."
   - "Budu's exact fermentation period (reference sources cite roughly 140–200 days, a figure flagged as needing a citation) and the detail that Kota Bharu's Pasar Besar Siti Khadijah is predominantly run by women traders — confirm with a food-science source and a market/heritage source respectively."
+framework: history-culture
 ---
 
 Cross the Sungai Kelantan into Kota Bharu and the food changes register. The

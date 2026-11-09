@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malaysia PBB", "United Nations Malaysia", "Majlis Keselamatan PBB", "pasukan pengaman", "UNIFIL", "keahlian PBB", "diplomasi Malaysia"]
+framework: explainer
 ---
 
 在东姑阿都拉曼于默迪卡体育场高呼「独立」（Merdeka）仅仅17天后，马来亚联合邦的国旗便在纽约的联合国总部升起。1957年9月17日，这个年轻的国家正式获接纳为联合国会员国——这一步几乎与它的诞生同步，在世界舞台上确认了它的主权。

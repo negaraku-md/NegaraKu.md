@@ -87,6 +87,7 @@ verificationNeeded:
   - "La historia de origen de que el Hokkien mee al estilo de KL lo creó el vendedor ambulante Ong Kim Lian en la calle Petaling en 1927 — los relatos se contradicen (algunos medios gastronómicos lo atribuyen a un 'señor Ong' que añadió salsa de soja oscura a un plato de fideos fritos, mientras que una versión rival popularizada por un reportaje de 1984 del Straits Times remonta las raíces del plato a la década de 1880). Verifica el nombre del creador y la fecha con una fuente histórica o patrimonial primaria."
   - "La afirmación de que ambos estilos de Hokkien mee descienden del plato fujianés lor mee y no se conocen en la propia Fujian — verifícala con una fuente de historia culinaria o académica, no con medios gastronómicos."
   - "Si la sopa picante de gambas al estilo de Penang se llama de forma coherente e intercambiable 'prawn mee' y 'hae mee' en todas las regiones (el uso y la grafía varían localmente) — verifica la denominación regional con una fuente culinaria de Penang o chino-malasia."
+framework: explainer
 ---
 
 Pide "Hokkien mee" en Kuala Lumpur y te sirven un plato de fideos amarillos gruesos

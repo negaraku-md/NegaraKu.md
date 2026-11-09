@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: ["bahasa-melayu", "melaka-sultanate", "article-3-religion"]
 keywords: ["tulisan Jawi", "aksara Arab Melayu", "Batu Bersurat Terengganu", "sejarah tulisan Jawi", "seni khat", "ejaan Jawi", "Seksyen 9 Akta Bahasa Kebangsaan"]
+framework: history-culture
 ---
 
 En una inscripción en piedra hallada en Terengganu, hay palabras malayas grabadas — no en las letras que usamos hoy, sino en una escritura árabe adaptada a los sonidos del malayo. La inscripción, la Piedra Inscrita de Terengganu (Batu Bersurat Terengganu), lleva la fecha de 702 de la Hégira, comúnmente equiparada con el año 1303 d. C.

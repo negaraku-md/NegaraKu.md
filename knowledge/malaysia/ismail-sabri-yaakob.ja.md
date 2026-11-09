@@ -67,6 +67,7 @@ sources:
 
 related: ["muhyiddin-yassin", "2022-general-election", "prime-ministers-of-malaysia", "anwar-ibrahim", "najib-razak"]
 keywords: ["Ismail Sabri Yaakob", "ninth prime minister Malaysia", "Keluarga Malaysia", "MOU stability 2021", "UMNO"]
+framework: profile
 ---
 
 > **下書き——機微な内容。** 本記事は中立的な、作業中の要約であり、公開に向けた審査をまだ経ていない。執筆時点で結果が未確定であった係争中の法的事項に言及しており、3R+1のテーマに触れるものであり、公開されていない。

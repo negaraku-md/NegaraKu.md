@@ -86,6 +86,7 @@ verificationNeeded:
   - "Kisah asal-usul dan komposisi feng/fongh (kari jeroan, warisan pelayaran/potongan sisa Portugis, kaitan Krismas) — tukang masak yang berwibawa mengingatkan bahawa sejarahnya kabur dan versinya berbeza-beza; sahkan dengan sumber masakan atau warisan Kristang."
   - "Etimologi dan klasifikasi kek sugee (kek perayaan semolina dan mentega; namanya lazim dijejak pada perkataan Asia Selatan bagi semolina dan resipinya dibandingkan dengan kek Madeira British) — sahkan dengan sumber sejarah masakan."
   - "Tahun penubuhan Portuguese Settlement (lazim diberikan sebagai 1933) dan dakwaan bahawa beberapa hidangan rumah seperti pang susi dan hidangan jeroan semakin jarang — sahkan dengan sumber utama atau sumber warisan."
+framework: history-culture
 ---
 
 Pesan kari di dapur Melayu Melaka, anda akan merasai santan dan serai.

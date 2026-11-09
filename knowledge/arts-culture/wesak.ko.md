@@ -62,6 +62,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["religion-statistics", "article-3-religion", "kuala-lumpur"]
 keywords: ["Wesak Day Malaysia", "Vesak Day Malaysia", "Hari Wesak 2026", "Wesak Day date Malaysia", "Buddhist public holiday Malaysia", "Wesak procession Kuala Lumpur", "Buddha's birthday Malaysia"]
+framework: history-culture
 ---
 
 웨삭절이 언제냐고 물으면 정해진 답이 없습니다 — 그것은 움직입니다. 2026년에는 5월 31일, 2027년에는 5월 20일, 2028년에는 5월 9일에 듭니다. 이유는 간단합니다. 웨삭은 달력의 날짜가 아니라 달로 정해지며, 음력과 그레고리력은 해마다 서로 어긋납니다.

@@ -54,6 +54,7 @@ relations:
   - { rel: "related-to", to: "healthcare-for-seniors" }
 related: ["medical-insurance", "healthcare-for-seniors"]
 keywords: ["beli ubat Malaysia", "farmasi Malaysia", "Akta Racun 1952", "ubat preskripsi", "ubat bebas", "Poisons Act 1952", "ahli farmasi berdaftar", "racun Kumpulan B", "Quest3+", "NPRA"]
+framework: explainer
 ---
 
 One customer asks for cough medicine at the pharmacy counter and is served immediately. Another asks for antibiotics for a sore throat and is asked to show a doctor's prescription first. Both transactions happen at the same pharmacy, on the same day — the difference lies in how the law classifies the medicine, not in the pharmacist's discretion.

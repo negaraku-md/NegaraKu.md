@@ -112,6 +112,7 @@ keywords:
   - "Sarawak Land Code Cap 81"
   - "Samalaju Industrial Park"
   - "perniagaan di Sarawak"
+framework: explainer
 ---
 
 Mulailah dengan satu angka yang memberi tahu Anda jenis tempat apa ini. Sarawak menjalankan **dua

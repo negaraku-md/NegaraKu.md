@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "str-cash-aid" }
 related: ["i-saraan-epf-voluntary-contribution", "epf-socso-employees", "income-tax-individuals", "str-cash-aid"]
 keywords: ["i-Saraan", "i-Saraan Plus", "KWSP", "PERKESO", "Lindung Kendiri", "travailleurs gig", "pekerja gig", "travail indépendant", "Loi sur les travailleurs gig 2025", "Akta Pekerja Gig 2025", "Akta 872", "SKSPS", "freelance"]
+framework: explainer
 ---
 
 Passez votre vie à conduire pour des plateformes d'e-hailing ou à accepter des missions freelance, et il y a une chose qui ne se produit jamais automatiquement : personne ne retient sur votre paie pour l'EPF ou SOCSO. Pour les employés salariés, ces cotisations se produisent en coulisses chaque mois. Pour vous en tant qu'indépendant, ce filet de sécurité n'existe pas tant que vous ne le construisez pas vous-même — et en 2026, une partie de ce filet vient de passer d'optionnelle à obligatoire.

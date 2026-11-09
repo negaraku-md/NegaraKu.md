@@ -78,6 +78,7 @@ social:
     - MDEC
     - MalaysiaDigital
     - TechFunding
+framework: explainer
 ---
 
 Kebanyakan pendiri yang mencari pembiayaan MDEC mencari "hibah MDEC" dan memperkirakan satu skema tunggal. Sebenarnya ada dua, ia membiayai ujung yang berlawanan dalam perjalanan sebuah perusahaan, dan keduanya berbagi satu pintu yang tidak kentara: Anda perlu sudah berada dalam Malaysia Digital untuk masuk. Tanpa itu, jumlah pada halaman itu tidak berarti apa-apa.

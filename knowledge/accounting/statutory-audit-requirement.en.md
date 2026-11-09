@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "sdn-bhd-financial-statements-filing" }
 related: []
 keywords: ["audit statutori", "pengecualian audit", "Akta Syarikat 2016", "seksyen 267", "PD 10/2024", "juruaudit Sdn Bhd", "SSM audit exemption"]
+framework: rules
 ---
 
 You have just registered a Sdn Bhd, the business is still small, and the company secretary has just sent over an invoice for audit fees. The question is not "how much does an audit cost" — but "am I actually required to be audited?" For most private limited companies in Malaysia, the default answer is **yes**, and only a small set of companies truly qualify to escape it.

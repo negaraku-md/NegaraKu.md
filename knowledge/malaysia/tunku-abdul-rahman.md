@@ -65,6 +65,7 @@ social:
 verificationNeeded:
   - "SENSITIVE: touches the 13 May 1969 racial unrest (race) and the Malay Rulers (royalty). All characterisations summarised neutrally; re-check against primary sources and have a qualified human reviewer sign off before publication."
   - "Confirm exact dates (premiership, birth, death) against the Perdana Leadership Foundation and the Prime Minister's Office."
+framework: profile
 ---
 
 On the morning of 31 August 1957, before a packed Merdeka Stadium in Kuala

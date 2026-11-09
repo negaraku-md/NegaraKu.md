@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "appointing-an-auditor" }
 related: ["directors-duties", "appointing-an-auditor", "sdn-bhd-vs-berhad"]
 keywords: ["audit committee malaysia", "bursa listing requirements chapter 15", "audit committee composition malaysia", "independent director audit committee", "mccg practice 9", "internal audit function listed company"]
+framework: rules
 ---
 
 말레이시아 이사 대부분에게 감사위원회 요건이 어디에서 나오는지 물으면 회사법이라고

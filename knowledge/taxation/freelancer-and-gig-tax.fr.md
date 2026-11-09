@@ -84,6 +84,7 @@ relations:
   - { rel: "affects", to: "e-invoicing" }
 related: ["gig-workers-act-2025", "which-tax-form", "personal-tax-rates", "e-invoicing", "myinvois-phases", "section-33-deductibility"]
 keywords: ["impôt indépendant Malaisie", "freelancer tax Malaysia", "impôt revenu travailleur de plateforme", "gig worker income tax", "section 4(a) vs 4(f)", "cukai pekerja gig", "déduction bureau à domicile Malaisie", "home office deduction Malaysia", "versement CP500 indépendant", "CP500 instalment freelancer", "impôt créateur de contenu Malaisie", "content creator tax Malaysia"]
+framework: explainer
 ---
 
 La question qui décide de la facture fiscale d'un indépendant n'est pas combien il a

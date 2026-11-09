@@ -97,6 +97,7 @@ verificationNeeded:
   - "この料理に関する最も古い文献上の言及——Pierre-Étienne-Lazare Favre の1875年のフランス語–マレー語辞典、および Richard Olaf Winstedt の The Circumstances of Malay Life（1909年、p. 62）。これらは Wikipedia を介して引用されている；正確な原文の表現（および『nasi lemak』という語そのものが現れるのか、それともココナッツミルクで炊いたご飯の記述なのか）は一次資料に照らして確認すべきである。"
   - "ナシ・レマク、roti canai、テー・タレが2022年に National Heritage Act 2005 のもとで国家遺産として官報告示されたという具体的な主張——正確な官報と年をマレーシアの国家遺産局（Jabatan Warisan Negara）に確認すること。"
   - "マラッカの娘『Seri』／『Nasi le, mak』の起源譚は民間伝承であり、記録された歴史ではないため、あくまで伝説として提示すべきである。"
+framework: explainer
 ---
 
 日が完全に昇りきる前に、匂いがまず通りへと届く——ココナッツの効いたご飯、ローストされた

@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "benefits-in-kind" }
 related: ["benefits-in-kind", "corporate-tax-rates"]
 keywords: ["déduction pour amortissement des véhicules à moteur Malaisie", "RM50000 RM100000 amortissement voiture", "Schedule 3 paragraphe 2(2)", "déduction fiscale voiture de société Malaisie", "déduction fiscale location VE Malaisie"]
+framework: rules
 ---
 
 Une société achète une berline de direction à RM320,000, la comptabilise comme matériel et attend des déductions pour amortissement sur RM320,000. Elle les obtiendra sur RM50,000. La voiture est neuve, mais elle coûte plus de RM150,000, de sorte que le plafond supérieur ne s'ouvre jamais — et la différence, RM270,000, n'est tout simplement jamais déduite.

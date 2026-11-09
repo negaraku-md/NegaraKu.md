@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "stamp-duty" }
 related: []
 keywords: ["RPGT", "cukai keuntungan harta tanah", "CKHT", "LHDN", "pelupusan hartanah", "kadar RPGT", "pengecualian RPGT"]
+framework: rules
 ---
 
 Bạn bán nhà có lãi — nhưng trước khi tiền vào tài khoản, chính phủ muốn phần của mình. Đó là RPGT, khoản thuế mà người bán thường bỏ sót cho đến khi luật sư giữ lại hàng nghìn ringgit tại bàn hoàn tất giao dịch.

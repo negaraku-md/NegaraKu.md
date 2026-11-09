@@ -90,6 +90,7 @@ verificationNeeded:
   - "Si la carne de cordero es un añadido estándar y no ocasional — las fuentes confirman las gambas pero son menos específicas sobre el cordero para este plato; verifíquese con una fuente culinaria malaya."
   - "La denominación y definición precisas de las variantes de puesto 'mee goreng basah' (húmedo) y 'mee goreng kering' (seco): 'basah/húmedo' está atestiguado, pero no se localizó una definición fiable de un estilo 'kering/seco' distinto. Verifíquese con una referencia gastronómica malaya."
   - "La afirmación de que las versiones mamak de Singapur suelen ser más rojas (con colorante añadido) que las malayas — reportada por medios gastronómicos; verifíquese con una fuente más sólida."
+framework: explainer
 ---
 
 Acércate a casi cualquier puesto mamak de Malasia al caer la noche y lo oirás

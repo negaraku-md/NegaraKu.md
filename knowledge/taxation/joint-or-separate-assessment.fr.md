@@ -65,6 +65,7 @@ relations:
   - { rel: "affects", to: "personal-tax-reliefs" }
 related: ["income-tax-in-malaysia", "personal-tax-reliefs", "personal-tax-rates", "which-tax-form", "pcb-monthly-tax-deduction"]
 keywords: ["joint assessment Malaysia", "separate assessment tax Malaysia", "taksiran bersama", "section 45(2) election", "spouse relief RM4000", "should we file jointly Malaysia"]
+framework: decision
 ---
 
 L'imposition commune n'est pas une réduction. C'est un arbitrage, et l'arithmétique

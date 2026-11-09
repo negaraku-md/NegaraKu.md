@@ -129,6 +129,7 @@ relations:
   - { rel: "compares-with", to: "capital-gains-tax" }
 related: ["income-tax-in-malaysia", "company-tax-residence", "capital-gains-tax", "labuan-tax-regime", "corporate-tax-rates"]
 keywords: ["foreign source income Malaysia", "FSI exemption Malaysia", "foreign dividend exemption Malaysia", "P.U.(A) 235/2022", "economic substance Malaysia FSI", "remittance tax Malaysia"]
+framework: rules
 ---
 
 만료일을 블로그가 아니라 관보에서 읽으십시오. 2026년 8월 14일 기준으로, 대부분의 말레이시아 지주회사가 의존하는 외국 배당 면제 — P.U.(A) 235/2022 — 는 여전히 자체 제1(2)항에서 "2022년 1월 1일부터 2026년 12월 31일까지" 효력이 있다고 규정하며, 관보 번호에 확정된 개정 명령이 아직 그 날짜를 옮기지 않았습니다. 실제로 존재했던 개정 명령 P.U.(A) 157/2024는 자격 조건을 다시 썼고 소득세법에 편입을 선택하는 라부안(Labuan) 회사를 추가했습니다. 만료일은 건드리지 않았습니다.

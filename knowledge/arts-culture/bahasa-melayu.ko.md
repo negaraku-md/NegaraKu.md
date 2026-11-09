@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: ["federal-constitution", "melaka-sultanate", "independence-1957"]
 keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Kebangsaan 1963/67", "tulisan Jawi Rumi", "Ejaan Rumi Baharu 1972"]
+framework: explainer
 ---
 
 트렝가누(Terengganu) 쿠알라 브랑(Kuala Berang)에서, 말레이어 낱말이 새겨진 한 돌 비문이 발견되었습니다 — 오늘날 우리가 아는 글자가 아니라, 말레이어 음에 맞게 조정된 아랍 문자로 말입니다. 말레이시아 국립 문서보관소(Arkib Negara Malaysia)에 따르면 그 비문은 서기 1303년의 연대를 지닙니다.

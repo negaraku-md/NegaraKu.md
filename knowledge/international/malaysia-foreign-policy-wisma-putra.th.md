@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "kabinet-perdana-menteri" }
 related: ["ekonomi-madani-framework", "konfrontasi", "miti", "matrade"]
 keywords: ["dasar luar Malaysia", "Wisma Putra", "Kementerian Luar Negeri", "ZOPFAN", "dasar berkecuali", "diplomasi Malaysia", "ASEAN", "Pelan Strategik 2026-2030", "non-alignment"]
+framework: explainer
 ---
 
 เมื่อสหรัฐอเมริกาเป็นนักลงทุนต่างชาติรายใหญ่ที่สุดในเศรษฐกิจมาเลเซีย แต่จีนกลับเป็นคู่ค้ารายใหญ่ที่สุด ประเทศเล็กและเปิดกว้างประเทศหนึ่งย่อมไม่สามารถเข้าข้างฝ่ายใดได้ นี่คือเหตุผลที่นโยบายต่างประเทศของมาเลเซียตลอดหลายทศวรรษยึดโยงอยู่กับคำหนึ่งที่พูดง่ายแต่รักษายาก นั่นคือความเป็นกลาง กระทรวงที่ทำหน้าที่รักษาการถ่วงดุลนั้นทุกวันคือ Wisma Putra

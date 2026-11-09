@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["imigresen", "employment-act-1955", "opening-bank-account"]
 keywords: ["embaucher une bonne en Malaisie", "hiring a maid in Malaysia", "employée de maison étrangère Malaisie", "foreign domestic helper Malaysia", "garde post-partum Malaisie", "confinement nanny Malaysia", "centre post-partum Malaisie", "confinement centre Malaysia", "pembantu rumah asing", "règles sur les travailleurs domestiques Malaisie", "part time maid Malaysia", "soins postnatals Malaisie"]
+framework: explainer
 ---
 
 Un ménage qui embauche une employée logée et un ménage qui réserve un centre post-partum pour

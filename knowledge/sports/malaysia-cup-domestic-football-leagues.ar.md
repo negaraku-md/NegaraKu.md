@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "malaysia-national-football-team" }
 related: []
 keywords: ["الدوري الممتاز", "كأس ماليزيا", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "كرة القدم الماليزية"]
+framework: explainer
 ---
 
 على مدى قرن تقريبًا، كانت هيئة واحدة — الاتحاد الكروي الماليزي (FAM) — تنظّم كل مباراة في الدوري الوطني. ثم، في خطوة أعادت تشكيل اللعبة، سُلِّمت سلطةُ إدارة الدوريات إلى شركة تجارية. هذا هو الأساس الذي تقوم عليه كرة القدم المحلية الماليزية اليوم.

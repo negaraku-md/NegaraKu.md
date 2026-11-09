@@ -100,6 +100,7 @@ relations:
   - { rel: "related-to", to: "ip-ownership-malaysia" }
 related: ["industrial-design-malaysia", "ip-ownership-malaysia", "trademark-registration-malaysia"]
 keywords: ["patent malaysia", "utility innovation malaysia", "myipo patent fee", "patents act 1983", "utility innovation vs patent"]
+framework: decision
 ---
 
 特許について尋ねてくるマレーシアの中小企業の大半は、特許を受けられる発明を持って

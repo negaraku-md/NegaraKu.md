@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "nine-royal-houses" }
 related: ["independence-1957", "malayan-union", "formation-of-malaysia-1963"]
 keywords: ["Reid Commission", "Federation of Malaya Constitution", "Lord Reid", "Ivor Jennings", "1957 constitution", "Malayan independence"]
+framework: profile
 ---
 
 Khi các nhà lãnh đạo Malaya và chính phủ Anh thống nhất, vào đầu năm 1956, rằng độc lập nên đến vào tháng 8 năm 1957, họ có một vấn đề mà một hạn chót không thể tự nó giải quyết: quốc gia mới chưa có hiến pháp. Thay vì tự mình viết một bản, họ giao công việc đó cho năm luật gia — không ai trong số họ là người Malaya — và yêu cầu họ thiết kế, từ bên ngoài, bộ máy pháp lý của một nhà nước mà họ sẽ không sinh sống trong đó.

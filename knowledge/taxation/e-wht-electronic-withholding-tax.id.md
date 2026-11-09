@@ -80,6 +80,7 @@ social:
     - MyTax
     - DoingBusinessInMalaysia
     - MalaysiaCompliance
+framework: how-to
 ---
 
 Selama bertahun-tahun, membayar pajak pemotongan berarti selembar formulir CP37 kertas, selembar cek atau slip bank, dan perjalanan ke loket LHDN — atau e-mail dokumen yang dipindai — dan kemudian menunggu untuk melihat pembayaran disesuaikan terhadap akun Anda. Keseluruhan ritual itu telah berpindah ke daring. **e-WHT** adalah saluran elektronik LHDN untuk melengkapi formulir pajak pemotongan dan membayar pajak di dalam portal **MyTax**, dan bagi formulir yang dicakupnya ia kini merupakan jalur yang diwajibkan, bukan kemudahan pilihan.

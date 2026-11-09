@@ -85,6 +85,7 @@ relations:
   - { rel: "explained-in", to: "federal-constitution-malaysia" }
 related: ["yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["raja melayu", "sultan", "yang di-pertuan besar", "raja perlis", "pewarisan takhta", "raja berperlembagaan", "adat perpatih", "perlembagaan negeri", "majlis raja-raja"]
+framework: explainer
 ---
 
 在同一个联邦之下，马来西亚保存着九个比国家本身更为古老的王位。每一个都拥有各自的王宫、继承习俗与州宪法，而每一位统治者都以立宪君主的身份治理其州属——而非绝对的统治者。

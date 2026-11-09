@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "appoint-company-secretary" }
 related: ["statutory-registers", "register-of-members", "minute-books-and-records", "appoint-company-secretary"]
 keywords: ["المكتب المسجَّل في ماليزيا", "المادة 46 قانون الشركات 2016", "تغيير المكتب المسجَّل SSM 14 يومًا", "registered office Malaysia", "section 46 Companies Act 2016", "وصول العموم إلى المكتب المسجَّل", "section 47 documents registered office"]
+framework: rules
 ---
 
 تبيع كل شركة لأمانة سر الشركات في ماليزيا خدمة مكتب مسجَّل. لكن قليلًا جدًا من

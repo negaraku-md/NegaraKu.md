@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
 related: ["formation-of-malaysia-1963", "ma63", "independence-1957"]
 keywords: ["Singapore separation 1965", "Independence of Singapore Agreement", "Singapore Day", "Constitution and Malaysia (Singapore Amendment) Act 1965", "Malaysian Malaysia", "Tunku Abdul Rahman", "Lee Kuan Yew"]
+framework: history-culture
 ---
 
 한 나라가 창립 주(州) 하나를 단 한 주말 사이에 잃었습니다. 협정은 토요일에 서명되었고, 헌법 개정은 월요일에 통과되었으며, 바로 그 월요일 오전 10시에는 라디오 싱가푸라(Radio Singapura)를 통해 독립 선언문이 낭독되고 있었습니다. 분열하는 대부분의 연방은 느리고 요란하게 그리합니다. 이 연방은 — 법적 의미에서 — 약 48시간 만에, 비밀리에 작성되어 열다섯 명의 각료가 서명한 문서들에 의해 해체되었습니다.

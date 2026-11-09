@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "zakat-pendapatan" }
 related: []
 keywords: ["zakat rebat cukai", "Seksyen 6A", "Akta Cukai Pendapatan 1967", "rebat cukai zakat LHDN", "zakat vs pelepasan cukai", "badan zakat negeri"]
+framework: explainer
 ---
 
 缴付RM1,000天课，你的所得税就恰好减少RM1,000——而不是像大多数其他税务扣减那样只减去其中的一小部分。这个差异一直让马来西亚的穆斯林纳税人感到困惑，而它的关键就在于一个词：*回扣*（rebat），而非*扣税*（pelepasan）。

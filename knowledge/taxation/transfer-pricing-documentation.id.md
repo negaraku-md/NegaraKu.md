@@ -114,6 +114,7 @@ relations:
   - { rel: "related-to", to: "cbcr-and-master-file" }
 related: ["cbcr-and-master-file", "permanent-establishment", "corporate-tax-rates", "losses-and-group-relief"]
 keywords: ["transfer pricing documentation Malaysia", "contemporaneous TPD Malaysia", "section 113B penalty", "section 140A(3C) surcharge", "P.U.(A) 165/2023", "transfer pricing threshold Malaysia"]
+framework: rules
 ---
 
 Jangka 14 hari itulah yang menghancurkan banyak orang. LHDN menyampaikan notis

@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "str-cash-aid" }
 related: ["i-saraan-epf-voluntary-contribution", "epf-socso-employees", "income-tax-individuals", "str-cash-aid"]
 keywords: ["i-Saraan", "i-Saraan Plus", "KWSP", "PERKESO", "Lindung Kendiri", "pekerja gig", "bekerja sendiri", "Akta Pekerja Gig 2025", "Akta 872", "SKSPS", "freelancer"]
+framework: explainer
 ---
 
 வாழ்நாள் முழுவதும் e-hailing ஓட்டுவதிலோ அல்லது ஃப்ரீலான்ஸ் வேலைகளை ஏற்பதிலோ செலவழியுங்கள், ஒரு விஷயம் மட்டும் தானாக நடப்பதில்லை: KWSP அல்லது PERKESO-க்காக உங்கள் சம்பளத்திலிருந்து யாரும் கழிப்பதில்லை. நிரந்தரப் பணியில் உள்ள தொழிலாளர்களுக்கு, அந்தப் பங்களிப்புகள் ஒவ்வொரு மாதமும் திரைக்குப் பின்னால் நடக்கின்றன. சுயதொழில் புரியும் உங்களுக்கு, அந்தப் பாதுகாப்பு வலை நீங்களே கட்டமைக்கும் வரை இருக்காது — மேலும் 2026-இல், அதன் ஒரு பகுதி இப்போதுதான் விருப்பத்திலிருந்து கடமையாக மாறியுள்ளது.

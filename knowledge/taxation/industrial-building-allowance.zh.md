@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["capital-allowances", "losses-and-group-relief"]
 keywords: ["industrial building allowance malaysia", "IBA schedule 3", "paragraph 63 schedule 3", "qualifying building expenditure", "factory tax allowance malaysia", "IBA rate 10% 3%"]
+framework: explainer
 ---
 
 一家公司以 RM1.2 million 买下一间厂房，并按 RM1.2 million 申索工业建筑物减免。两年后稽查把申索调整到五十万出头，把此后每一年的超额部分加回去，还处以罚款。建筑物本身什么都没变。这家公司只是按一个法令从来不容许它使用的数字申索而已。

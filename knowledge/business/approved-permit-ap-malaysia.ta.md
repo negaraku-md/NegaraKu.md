@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "miti" }
 related: ["import-export-licence-malaysia", "automotive-industry-malaysia", "miti"]
 keywords: ["approved permit", "AP Malaysia", "open AP", "franchise AP", "car import permit", "permit import kenderaan", "MITI AP", "parallel import car Malaysia"]
+framework: explainer
 ---
 
 மலேசியாவின் கார் சந்தையில் "AP" என்ற மூன்றெழுத்துச் சுருக்கம் சுமக்கும் அளவு எடையை வேறு சில சுருக்கங்களே சுமக்கின்றன. இறக்குமதி செய்யப்பட்ட ஒரு கார் வெளிநாட்டை விட இங்கே அதிக விலைக்கு விற்பதற்கான காரணம் இதுவே; பல பத்தாண்டுகளாகத் தொடரும் அரசியல் வாதத்திற்குரிய பொருளும் இதுவே; மேலும் பெரும்பாலான வாங்குபவர்கள் ஒருபோதும் பார்க்காத, ஆனால் எப்போதும் பணம் செலுத்தும் ஒரு பத்திரமும் இதுவே.

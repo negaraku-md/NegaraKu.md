@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
+framework: explainer
 ---
 
 あなたのごみ箱は週に2回回収されるが、実際に回収しているのが誰なのか——地方自治体なのか、それとも地方自治体が任命した別の会社なのか——を考えたことはあるだろうか。そして、なぜ隣の州に住むあなたの隣人は、プラスチックのボトルを生ごみと分別しなかったせいで罰金を科されうるのに、あなたはそうならないのだろうか。

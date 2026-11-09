@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["share-transfer", "register-of-members", "share-capital-malaysia", "capital-reduction", "beneficial-ownership"]
 keywords: ["تخصيص الأسهم ماليزيا", "share allotment Malaysia", "إقرار التخصيص 14 يوماً", "return of allotment 14 days", "القسم 75 قانون الشركات 2016", "section 75 Companies Act 2016", "حقوق الأولوية القسم 85", "pre-emptive rights section 85", "إصدار أسهم جديدة Sdn Bhd"]
+framework: how-to
 ---
 
 يبدو إصدار أسهم جديدة في شركة Sdn Bhd وكأنه قرار مجلس إدارة. وليس كذلك. فبموجب

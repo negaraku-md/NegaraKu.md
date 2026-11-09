@@ -107,6 +107,7 @@ keywords:
   - "MBPJ lesen komposit"
   - "MBSA lesen komposit"
   - "DBKK lesen berniaga"
+framework: rules
 ---
 
 ใบอนุญาตสถานประกอบการของคุณอาจถูกยกเลิกในวันพรุ่งนี้ โดยไม่มีเหตุผล และสภาไม่มีหน้าที่ต้อง

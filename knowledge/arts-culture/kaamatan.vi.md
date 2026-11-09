@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "mak-yong" }
 related: ["sabah", "population-composition", "wau"]
 keywords: ["Pesta Kaamatan", "Tadau Kaamatan", "Kadazandusun harvest festival", "Unduk Ngadau", "Bambaazon", "Huminodun", "Magavau", "KDCA", "Sabah"]
+framework: history-culture
 ---
 
 Lễ hội được đặt tên theo một ý duy nhất: mùa gặt. *Kaamatan* nghĩa đúng như vậy trong tiếng Kadazandusun, và mọi thứ khác trong lễ mừng — nghi lễ, rượu gạo, cuộc thi được đăng quang vào tối cuối cùng — đều mọc ra từ một hành động ấy là thu hoạch lúa về.

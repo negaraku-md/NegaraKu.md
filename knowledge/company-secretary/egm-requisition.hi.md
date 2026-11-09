@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "remove-a-director" }
 related: ["remove-a-director", "agm-requirements", "resolution-notice-periods", "written-resolutions"]
 keywords: ["EGM अध्यपेक्षा मलेशिया", "EGM requisition Malaysia", "धारा 311 कंपनी अधिनियम 2016", "section 311 Companies Act 2016", "शेयरधारक बैठक बुलाना", "10 प्रतिशत अध्यपेक्षा", "अल्पमत शेयरधारक बैठक"]
+framework: how-to
 ---
 
 हर मलेशियाई सचिवीय फर्म बैठकों के बारे में बोर्ड के पक्ष से लिखती है, क्योंकि

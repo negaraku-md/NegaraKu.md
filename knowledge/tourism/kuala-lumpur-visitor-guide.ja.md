@@ -96,6 +96,7 @@ relations:
   - { rel: "located-in", to: "malaysia" }
 related: []
 keywords: ["kuala lumpur", "petronas twin towers", "kl tower", "batu caves", "bukit bintang", "chinatown kuala lumpur", "klia ekspres", "kuala lumpur transport", "malaysia digital arrival card", "kl travel guide"]
+framework: profile
 ---
 
 夜明けにクアラルンプール国際空港に降り立てば、1時間以内に、かつて世界の摩天楼を支配した2本の銀色のタワーの足元に立つことができる——レンタカーも、複雑な計画も要らず、ただ列車1本とタップ式のカード1枚だけでよい。この手軽さこそがクアラルンプールの真骨頂である：ここはマレーシアの玄関口であり、主要な見どころが短い鉄道の乗車で隣り合う、コンパクトで安価な首都であり、そしてこの国のほぼすべての次なる旅がここから始まる。

@@ -60,6 +60,7 @@ social:
   hashtags: ["KelantanSultanate", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded:
   - "Long Yunus 登上吉兰丹王座的确切年份在各资料中说法不一（约1760年、1763年、1764年及约1774年皆有出现）；本文采用「1760年代」，在断言任何单一年份之前，应对照一部专门的历史研究加以调和。"
+framework: history-culture
 ---
 
 在马来半岛东北的肩部，河流向着南中国海奔流而下、海岸线一度既朝向古老的北大年（Patani）王国、也朝向马来心脏地带之处，一座王座从内战中被锻造出来。它的创建者并非生而为王。他是一名北大年裔的军阀，熬过了他的对手；而他所开创的王朝——Long Yunus 王室——两个半世纪多以后，至今仍在吉兰丹在位。

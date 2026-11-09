@@ -122,6 +122,7 @@ relations:
   - { rel: "related-to", to: "company-tax-calendar" }
 related: ["corporate-tax-rates", "sdn-bhd-filing-calendar", "lhdn", "income-tax-act-1967"]
 keywords: ["CP204", "CP204A", "Form C Malaysia", "penalti anggaran rendah", "seksyen 107C", "anggaran cukai syarikat"]
+framework: how-to
 ---
 
 Bagian pajak perusahaan Malaysia yang mahal bukanlah tarifnya. Ia adalah tebakan

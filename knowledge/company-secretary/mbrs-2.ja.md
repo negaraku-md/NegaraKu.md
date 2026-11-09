@@ -112,6 +112,7 @@ relations:
   - { rel: "related-to", to: "unaudited-financial-statements" }
 related: ["annual-return", "financial-statements-lodgement", "extension-of-time-ssm", "ssm-late-lodgement-fees", "unaudited-financial-statements", "audit-exemption"]
 keywords: ["MBRS 2.0", "MBRS Malaysia", "XBRL filing SSM", "mTool", "mPortal", "SSM taxonomy SSMxT", "lodge financial statements SSM", "annual return XBRL"]
+framework: explainer
 ---
 
 二十年にわたり、マレーシアの財務諸表一式は署名済みPDFとしてSSMへ提出されてきた。誰もその数字を読まなかった。それらは文書保管庫の中に置かれ、取り出すことはできても、生きた情報ではなかった。

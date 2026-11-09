@@ -104,6 +104,7 @@ relations:
   - { rel: "affects", to: "transfer-pricing-documentation" }
 related: ["transfer-pricing-documentation", "form-c-and-cp204", "withholding-tax-non-compliance"]
 keywords: ["audit cukai LHDN", "rangka kerja audit cukai", "pendedahan sukarela LHDN", "penalti audit cukai", "semakan umum semakan menyeluruh", "audit cukai Malaysia"]
+framework: explainer
 ---
 
 Kebanyakan panduan mengenai audit cukai Malaysia menerangkan **audit meja**

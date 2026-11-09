@@ -94,6 +94,7 @@ verificationNeeded:
   - "Pinasakan là nướng hay rim: các nguồn mô tả cả cách rim basung (big-eye scad) với takob-akob và nghệ lẫn phiên bản nướng — hãy xác nhận cách nấu kiểu nhà chuẩn mực với một nguồn địa phương."
   - "Tuyên bố rằng sang nyuk mian khởi nguồn ở thị trấn ven biển phía đông Sabah (Tawau) trước khi lan tới Kota Kinabalu — được nhắc lại rộng rãi trên truyền thông ẩm thực nhưng cần xác nhận với một nguồn địa phương hoặc lịch sử."
   - "Việc quy truyền thống mì của Sabah riêng cho di dân Hakka (thay vì di dân người Hoa nói chung) — hãy xác nhận mối liên hệ với nhóm phương ngữ chiếm ưu thế bằng một nguồn lịch sử di cư."
+framework: explainer
 ---
 
 Vượt Biển Đông từ bán đảo Malaysia sang, mâm cơm đã đổi khác. Ở Sabah — bang nằm ở mũi phía

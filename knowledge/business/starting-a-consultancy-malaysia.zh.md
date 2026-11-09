@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "freelancer-and-gig-tax" }
 related: ["sole-prop-vs-sdn-bhd"]
 keywords: ["start a consultancy malaysia", "consulting business malaysia", "professional services firm malaysia", "freelance consultant register malaysia", "service tax consultancy malaysia", "LLP vs sdn bhd consulting", "regulated profession licence malaysia"]
+framework: how-to
 ---
 
 咨询看起来是最容易起步的生意——没有场地、没有存货，只需你的专业知识和一台笔记本电脑。对于一名一般管理顾问来说，几乎确实如此：向SSM注册后你就可以开始经营了。但有两件事让人栽跟头。第一，如果你的"咨询"实际上是一门*受监管的专业*，企业注册并不足够——你需要执业执照。第二，对服务公司而言，你所选择的实体和适用的税务比几乎任何其他生意都更重要，因为你的收入*就是*这门生意本身。

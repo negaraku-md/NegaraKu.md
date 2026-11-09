@@ -93,6 +93,7 @@ relations:
   - { rel: "governs", to: "malaysia-para-athletics" }
 related: []
 keywords: ["Majlis Paralimpik Malaysia", "Paralympic Council Malaysia", "para sukan", "Sukan Paralimpik", "Bonnie Bunyau Gustin", "Cheah Liek Hou", "Abdul Latif Romly"]
+framework: explainer
 ---
 
 Ketika Cheah Liek Hou mempertahankan emas bulu tangkis SU5-nya di Paris 2024, keberhasilan itu menegaskan bahwa para olahraga Malaysia kini memiliki barisan juara yang lebih mantap, bukan lagi pencapaian sesekali. Di balik momen itu terdapat sebuah struktur tata kelola tersendiri, terpisah dari dunia Olimpik yang lebih terkenal.

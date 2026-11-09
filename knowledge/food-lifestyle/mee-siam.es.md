@@ -88,6 +88,7 @@ verificationNeeded:
   - "La afirmación de que el mee siam llegó a Singapur mediante la migración de familias chinas del Estrecho desde Penang a principios del siglo XIX: verifícala con una fuente histórica."
   - "Si el tamarindo es esencial en cada versión: algunos cocineros lo sustituyen o complementan con zumo de lima o limón, y la fuente estándar de la nota ácida varía según la receta. Verifica la base de salsa habitual en los estilos húmedo y seco."
   - "El acompañamiento estándar (huevo cocido, gambas, tofu frito, cebollino, brotes de soja, calamondín frente a lima) varía según el cocinero y la región: verifica la composición malaya más típica."
+framework: explainer
 ---
 
 Pide "mee siam" y el resultado depende del puesto. En uno te dan un plato de

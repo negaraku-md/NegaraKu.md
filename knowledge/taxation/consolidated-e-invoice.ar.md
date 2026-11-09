@@ -86,6 +86,7 @@ relations:
   - { rel: "explained-in", to: "myinvois-phases" }
 related: ["e-invoicing", "myinvois-phases", "self-billed-e-invoice", "e-invoice-data-fields", "myinvois-integration"]
 keywords: ["الفاتورة الإلكترونية الموحَّدة", "e-invois disatukan", "قاعدة RM10000 الفاتورة الإلكترونية", "موعد الفاتورة الإلكترونية الموحَّدة", "General Public EI00000000010", "القطاعات التي لا يمكنها توحيد الفاتورة الإلكترونية"]
+framework: explainer
 ---
 
 التوحيد هو الامتياز الذي يجعل الفوترة الإلكترونية محتمَلة لمطعم «مامَك» أو

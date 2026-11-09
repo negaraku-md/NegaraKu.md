@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "department-of-environment" }
 related: ["environmental-quality-act-1974"]
 keywords: ["pencemaran sungai", "indeks kualiti air", "WQI", "keselamatan air", "bekalan air", "Sungai Selangor", "Sungai Kim Kim", "rizab sungai", "Jabatan Alam Sekitar", "kawasan tadahan"]
+framework: explainer
 ---
 
 திங்கட்கிழமை காலையில் குழாயைத் திறந்தால் அது வறண்டு போயிருப்பதைக் காண்கிறீர்கள் — பீப்பாய் கெட்டதால் அல்ல, மாறாக மேல்முகத்தில் உள்ள ஒரு தொழிற்சாலை உங்கள் நகரத்திற்கு மூல நீரை வழங்கும் துணை ஆற்றில் துர்நாற்றம் வீசும் கழிவை வெளியேற்றியதால். இது கிள்ளான் பள்ளத்தாக்கில் (Klang Valley) மீண்டும் மீண்டும் நிகழும் யதார்த்தமாகும், மேலும் "ஆற்று தரம்" என்பது வெறும் சூழலியல் பிரச்சினை மட்டுமல்ல, மில்லியன் கணக்கான வீடுகளுக்கான நீர் வழங்கல் பாதுகாப்பின் விவகாரம் என்பதையும் இது விளக்குகிறது.

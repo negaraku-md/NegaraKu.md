@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "mobile-sim-plans" }
 related: ["moving-to-malaysia-first-steps", "mobile-sim-plans"]
 keywords: ["akaun elektrik TNB", "buka akaun TNB baru", "deposit elektrik TNB", "tukar nama akaun elektrik", "Change of Tenancy TNB", "SESB Sabah elektrik", "Sarawak Energy deposit", "myTNB Self Meter Reading", "bacaan meter elektrik", "Kedai Tenaga"]
+framework: how-to
 ---
 
 새집 열쇠를 받았는데 전등 스위치가 아무것도 하지 않습니다. 밖의 계량기는 여전히 이전 소유자의 이름으로 돌아가고 있고 — 그 계정이 명의를 바꾸기 전까지는 당신이 쓰는 모든 킬로와트가 기술적으로는 여전히 다른 사람의 책임에 걸려 있습니다. 많은 사람이 「TNB에 연락」하면 이 문제가 해결된다고 생각합니다. 반도에서는 맞습니다. 사바와 사라왁에서는, 그것은 완전히 잘못된 전화번호입니다.

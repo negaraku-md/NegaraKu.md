@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "التراث العالمي اليونسكو ماليزيا", "معايير إدراج جورج تاون ملقا", "George Town Melaka inscription criteria", "غونونغ مولو التراث العالمي", "وادي لنغونغ إنسان بيراك", "كهوف نياه اليونسكو 2024", "Niah Caves UNESCO 2024"]
+framework: data-reference
 ---
 
 اسأل كم عدد مواقع التراث العالمي التي تملكها ماليزيا، وسيجيبك معظم المصادر بأربعة. كان ذلك صحيحاً حتى عام 2024. فقد أُدرج مجمّع كهوف نياه (Niah Caves Complex) في يوليو من تلك السنة، وتبعته حديقة غابة معهد بحوث الغابات الماليزي في سلانغور (Forest Research Institute Malaysia Forest Park Selangor) عام 2025 — ليصل المجموع إلى ستة.

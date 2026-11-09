@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "income-tax" }
 related: ["tax-audit"]
 keywords: ["siasatan cukai", "tax investigation", "investigación fiscal Malasia", "LHDN", "Seksyen 114", "Sección 114", "pengelakan cukai", "evasión fiscal", "rangka kerja siasatan cukai", "audit cukai"]
+framework: explainer
 ---
 
 Cuando la carta del LHDN que llega ya no pide documentos de respaldo sino que le

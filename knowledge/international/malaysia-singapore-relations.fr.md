@@ -87,6 +87,7 @@ relations:
   - { rel: "compares-with", to: "malaysia-indonesia-relations" }
 related: []
 keywords: ["relations Malaisie Singapour", "accord sur l'eau 1962", "RTS Link", "Causeway de Johor", "Pulau Batu Puteh", "JS-SEZ", "séparation de 1965", "commerce bilatéral"]
+framework: explainer
 ---
 
 Deux pays partagent un seul pont-chaussée, un seul approvisionnement en eau, des centaines de milliers de navetteurs qui traversent chaque jour — et une histoire de séparation chargée d'émotion. Aucune relation bilatérale de la Malaisie n'est plus étroite, plus compliquée ni plus importante à comprendre que celle avec Singapour.

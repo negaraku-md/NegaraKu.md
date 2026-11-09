@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
 related: ["spr-election-commission", "dewan-rakyat", "how-elections-work", "federal-constitution", "independence-1957"]
 keywords: ["14.ª elecciones generales", "GE14", "PRU14", "elecciones generales de Malasia de 2018", "cambio de gobierno Malasia", "Pakatan Harapan", "Barisan Nasional", "Dewan Rakyat 222 escaños", "Artículo 43 Constitución Federal", "Mahathir séptimo primer ministro"]
+framework: history-culture
 ---
 
 Durante 61 años, desde las primeras elecciones federales tras la independencia en 1957 hasta 2018, todos los gobiernos federales de Malasia fueron formados por una única coalición — [la Alianza](/malaysia/the-alliance), y desde la década de 1970 su sucesora, [Barisan Nasional](/malaysia/barisan-nasional). En las 14.ª elecciones generales, esa continuidad terminó: una coalición distinta obtuvo la mayoría de los escaños del Dewan Rakyat.

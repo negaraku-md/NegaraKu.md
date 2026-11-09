@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "epf-socso-employees" }
 related: ["lhdn", "tax-clearance", "offboarding-statutory-checklist", "employment-pass-malaysia", "moving-to-malaysia-first-steps", "epf-socso-employees"]
 keywords: ["tax clearance Malaysia", "Surat Penyelesaian Cukai", "SPC LHDN", "CP21 form Malaysia", "leaving Malaysia tax clearance", "expatriate tax clearance Malaysia", "e-SPC MyTax", "EPF leaving country withdrawal"]
+framework: rules
 ---
 
 사직서를 제출했고, 항공편을 예약했으며, 가구를 나눠주기 시작했습니다. 그런데 인사팀이 한 번도 들어본 적 없는 것을 요청합니다. 세금 정산 확인서입니다. 이것 없이는 마지막 급여의 일부가 움직이지 않으며 — 게다가 그것을 요청해야 하는 사람은 당신조차 아닙니다.

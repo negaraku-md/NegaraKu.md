@@ -83,6 +83,7 @@ relations:
   - { rel: "compares-with", to: "palm-oil-sector" }
 related: ["gdp-overview", "external-trade", "electronics-semiconductors", "palm-oil-sector"]
 keywords: ["قانون تطوير البترول 1974", "ملكية PETRONAS", "النفط والغاز في ماليزيا", "إيرادات البترول في الميزانية الفيدرالية", "إتاوة نفط ساراواك", "Petroleum Development Act 1974", "Petronas ownership"]
+framework: explainer
 ---
 
 ## لمحة سريعة

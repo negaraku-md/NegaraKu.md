@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "patent-malaysia" }
 related: ["copyright-malaysia", "patent-malaysia", "industrial-design-malaysia", "trademark-registration-malaysia"]
 keywords: ["ip ownership malaysia", "who owns copyright employee malaysia", "contractor ip malaysia", "ip assignment malaysia", "section 26 copyright act 1987"]
+framework: explainer
 ---
 
 Un fondateur malaisien sur le point de signer une lettre d'intention se voit demander les cessions de PI. Il n'y en a aucune. Le graphiste était un indépendant, la première version de la plateforme a été écrite par un ami avant que l'entreprise n'existe, le logo provenait d'une agence dont personne n'a lu les conditions, et la marque est enregistrée au nom personnel du fondateur. Tout le monde a supposé que payer pour quelque chose signifiait en être propriétaire.

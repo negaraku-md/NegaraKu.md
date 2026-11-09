@@ -56,6 +56,7 @@ relations:
   - { rel: "part-of", to: "audit-exemption" }
 related: ["audit-exemption", "audit-exemption-thresholds", "after-audit-exemption"]
 keywords: ["निष्क्रिय कंपनी लेखा परीक्षा छूट मलेशिया", "निष्क्रिय कंपनी SSM", "निष्क्रियता को क्या तोड़ता है", "dormant company audit exemption Malaysia", "what breaks dormancy", "dormant since incorporation"]
+framework: rules
 ---
 
 एक शेल्फ कंपनी (shelf company) जो एक नाम और उसके सिवा कुछ नहीं रखती, उसे राजस्व परीक्षण, संपत्ति परीक्षण या कर्मचारी परीक्षण पास करने की आवश्यकता नहीं होती। अभ्यास निर्देश 10/2024 का पैराग्राफ 10 निष्क्रिय कंपनियों को लेखा परीक्षा छूट का अपना मार्ग देता है, और अधिकांश मार्गदर्शिकाएँ इसे सीमाओं के नीचे एक ही पंक्ति में दबा देती हैं — और यहीं पाठक लुकबैक अवधि (lookback) में अंतर चूक जाते हैं।

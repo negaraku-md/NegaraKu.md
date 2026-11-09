@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
+framework: history-culture
 ---
 
 เมืองที่สร้างขึ้นบนดีบุกกลับมอบงานหัตถกรรมโลหะให้แก่โลก กัวลาลัมเปอร์ (Kuala Lumpur) ดำรงอยู่ได้เพราะนักสำรวจแร่พบสินแร่ดีบุกตรงที่แม่น้ำกลัง (Klang) และกอมบัก (Gombak) บรรจบกัน หลายทศวรรษต่อมา ช่างดีบุกวัยรุ่นที่มาทำงานในเศรษฐกิจดีบุกเดียวกันนั้นได้เริ่มตีกระถางธูปสำหรับแท่นบูชาในศาลเจ้า — และโรงงานที่เขาเปิดขึ้นปัจจุบันเป็นผู้ผลิตพิวเตอร์ที่ใหญ่ที่สุดในโลก

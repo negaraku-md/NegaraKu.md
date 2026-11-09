@@ -82,6 +82,7 @@ relations:
 related: ["batik", "wayang-kulit", "kelantan"]
 entity: "Wau"
 keywords: ["wau", "wau bulan", "layang-layang tradisional", "kraf Kelantan", "Adiguru Kraf wau"]
+framework: history-culture
 ---
 
 ワウ（wau）を目にする前に、まずその音が聞こえてくる。正しく作られた伝統的なワウは、空中にある間ずっと唸り続ける——それは風の音ではなく、意図的にその構造に組み込まれた音である。

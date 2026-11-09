@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-china-relations", "malaysia-asean-membership"]
 keywords: ["मलेशिया अमेरिका संबंध", "व्यापक रणनीतिक भागीदारी", "पारस्परिक व्यापार समझौता", "मलेशिया पर अमेरिकी टैरिफ", "अर्धचालक", "रक्षा सहयोग", "Malaysia US relations", "Comprehensive Strategic Partnership", "reciprocal trade agreement", "US tariff Malaysia", "semiconductors", "defence cooperation"]
+framework: explainer
 ---
 
 बराक ओबामा ने 2014 में कुआलालंपुर की राष्ट्रीय मस्जिद, मस्जिद नेगारा, का दौरा किया; अनवर इब्राहिम ने 2025 में एक हस्ताक्षरित व्यापार समझौते पर डोनाल्ड ट्रंप से हाथ मिलाया। दो बहुत ही भिन्न अमेरिकी राष्ट्रपति, एक टिकाऊ संबंध—और वॉशिंगटन के करीब पहुँचने की एक मलेशियाई आदत, कभी उसकी सुरक्षा छतरी के नीचे खड़े हुए बिना।

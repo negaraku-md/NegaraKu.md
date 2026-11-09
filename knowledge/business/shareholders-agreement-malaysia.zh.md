@@ -89,6 +89,7 @@ keywords:
   - "minority shareholder rights Malaysia"
   - "drag along tag along Sdn Bhd"
   - "perjanjian pemegang saham"
+framework: explainer
 ---
 
 两位创办人签了一份二十页的股东协议。协议给了他们各自一个董事席位、对新股发行的否决权，

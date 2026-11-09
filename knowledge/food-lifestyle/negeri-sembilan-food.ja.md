@@ -95,6 +95,7 @@ verificationNeeded:
   - "masak lemak cili api が実質的な量のココナッツミルクを含むのか、それとも「cili api」が単に非常に辛いことを意味するだけなのか——資料はココナッツミルク（lemak）が中心であることで一致しているが、正確なバランス、およびスパイスペーストを炒める（tumis）かどうかは家庭や料理人によって異なる。Negeri Sembilan の料理資料で確認すること。"
   - "Negeri Sembilan の rendang が、より広いマレーシア／Minangkabau の rendang とどう異なるか（一部の資料は、重いドライスパイスの配合よりも、生姜、ガランガル、レモングラス、ココナッツミルクに依るとする）——地元または学術的な料理資料で確認すること。"
   - "daging salai を Pedas や Rembau などの特定の町へ帰する正確な地域的帰属、および薫製に伝統的に特定の木材が使われるかどうか——地元の資料で確認すること。"
+framework: explainer
 ---
 
 Seremban や Rembau で料理を注文すると、食卓にひとつの色が繰り返し戻ってくる。

@@ -102,6 +102,7 @@ keywords:
   - "JS-SEZ flagship zones"
   - "MIDA JS-SEZ application"
   - "zon ekonomi khas Johor Singapura"
+framework: rules
 ---
 
 Setiap ringkasan tentang Zon Ekonomi Khas Johor-Singapura dimulakan dengan nombor yang sama: 5

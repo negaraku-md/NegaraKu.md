@@ -87,6 +87,7 @@ keywords:
   - "bộ quy tắc thâu tóm Malaysia"
   - "usaha gabungan dan pengambilalihan"
   - "due diligence perniagaan"
+framework: decision
 ---
 
 Hầu hết mọi người hình dung sáp nhập hay mua lại là một lễ ký kết duy nhất đầy kịch tính. Trên thực tế, một giao dịch tại Malaysia là một chuỗi những quyết định nhỏ hơn, và quyết định đầu tiên — *cách* bạn mua, chứ không phải việc có mua hay không — lặng lẽ định hình mọi thứ tiếp theo: hóa đơn thuế của bạn, các nghĩa vụ nợ bạn thừa kế, các phê duyệt bạn cần, và cuối cùng các luật sư tính phí bao nhiêu. Chọn đúng cấu trúc thì thẩm định trở thành một bài toán định giá; chọn sai thì bạn có thể mua phải một vụ kiện, một nghĩa vụ thuế, hoặc một giấy phép mà bạn vốn không được quyền nắm giữ. Hướng dẫn này đi qua toàn bộ lộ trình, từ việc lựa chọn giữa mua bán cổ phần và mua bán tài sản cho đến các điểm chạm pháp lý quyết định liệu một giao dịch có hoàn tất suôn sẻ hay không.

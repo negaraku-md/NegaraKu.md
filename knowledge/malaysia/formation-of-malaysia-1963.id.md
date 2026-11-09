@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["independence-1957", "federal-constitution", "sarawak"]
 keywords: ["pembentukan Malaysia 1963", "Suruhanjaya Cobbold", "Konfrontasi", "perpisahan Singapura 1965", "penggabungan Sabah Sarawak"]
+framework: history-culture
 ---
 
 Empat wilayah menjadi satu negara pada 16 September 1963, dan dalam waktu dua tahun salah satunya telah keluar. Fakta itu saja memberi tahu Anda bahwa penggabungan 1963 bukanlah sebuah latihan administratif yang rapi — ia merupakan sebuah proyek politik yang dipersengketakan, ditentang oleh dua pemerintah tetangga dan terurai oleh ketegangan internal hampir segera setelah ia berhasil.

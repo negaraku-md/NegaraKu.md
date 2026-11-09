@@ -112,6 +112,7 @@ keywords:
   - "Sarawak Land Code Cap 81"
   - "Samalaju Industrial Park"
   - "الأعمال في ساراواك"
+framework: explainer
 ---
 
 ابدأ برقم يخبرك بأي نوع من الأماكن هذا. تدير ساراواك **سلسلتَي ترقيم أبواب متوازيتين**، وكلتاهما نافذتان. فالباب 64 من طبعة 1958 هو مرسوم أسماء الأعمال (Business Names Ordinance). والباب 64 من السلسلة الحالية هو **مرسوم هيئات تنمية الكوريدورات الإقليمية لسنة 2006 (Regional Corridors Development Authorities Ordinance 2006)** — القانون وراء SCORE.

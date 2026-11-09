@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "iskandar-malaysia-economic-corridor" }
 related: []
 keywords: ["foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "education hub", "transnational education"]
+framework: explainer
 ---
 
 ในปี 1998 นักศึกษาในกัวลาลัมเปอร์สามารถได้รับปริญญาจาก Monash ของออสเตรเลียโดยไม่ต้องออกนอกประเทศ — และจ่ายในราคาแบบมาเลเซีย ข้อตกลงเดียวนั้นได้จุดประกายโมเดลที่ประเทศได้พัฒนาต่อยอดมานับแต่นั้น: นำเข้ามหาวิทยาลัย ไม่ใช่นักศึกษา

@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#MingQin", "#CharKoayTeow", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 Di tanah besar Pulau Pinang di Bukit Mertajam, sebuah gerai mi petang yang biasa

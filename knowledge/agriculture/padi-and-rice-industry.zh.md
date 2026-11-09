@@ -100,6 +100,7 @@ entity: "Padi and rice industry in Malaysia"
 relations: []
 related: []
 keywords: ["padi", "rice industry Malaysia", "rice self-sufficiency level Malaysia", "SSL rice", "BERNAS", "Padiberas Nasional", "guaranteed minimum price padi", "Harga Minimum Terjamin", "MADA", "kawasan jelapang padi", "subsidi harga padi", "SSHP", "Dasar Agromakanan Negara 2.0", "National Agrofood Policy", "rice import Malaysia", "padi farmers Malaysia"]
+framework: profile
 ---
 
 稻米是马来西亚唯一不肯交给自由市场的粮食。国家集中管控种植地点、扶持种植稻米的农民、授权单一公司进口不足的部分，并持有应对供应冲击的应急储备。然而在这一安排实行数十年之后，全国种出的稻米仍仅够满足约一半的消费量。

@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "jpj" }
 related: []
 keywords: ["e-hailing Malaysia", "Grab regulation Malaysia", "PSV licence e-hailing", "APAD e-hailing vehicle permit", "how does Grab work Malaysia", "e-hailing driver licence Malaysia"]
+framework: explainer
 ---
 
 கோலாலம்பூரில் Grab-ஐயோ, Bolt-ஐயோ, அல்லது inDrive-ஐயோ திறந்து “பதிவு செய்”

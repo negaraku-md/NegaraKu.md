@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["imigresen", "employment-act-1955", "opening-bank-account"]
 keywords: ["hiring a maid in Malaysia", "foreign domestic helper Malaysia", "confinement nanny Malaysia", "confinement centre Malaysia", "pembantu rumah asing", "domestic worker rules Malaysia", "part time maid Malaysia", "postnatal care Malaysia"]
+framework: explainer
 ---
 
 வீட்டில் தங்கியிருக்கும் ஒரு உதவியாளரை வேலைக்கு அமர்த்தும் ஒரு குடும்பமும், பிரசவத்திற்குப் பிறகு ஒரு மாதத்திற்கு ஒரு சூதிகா மையத்தை முன்பதிவு செய்யும் ஒரு குடும்பமும், ஒத்த உணர்வைத் தரும் இரு காரியங்களைச் செய்கின்றன — சம்பளம் கொடுத்து உதவியை வீட்டிற்குள் கொண்டுவருதல் — ஆனால் அவை கிட்டத்தட்ட முற்றிலும் எதிரெதிர் அளவிலான அரசாங்க மேற்பார்வையின் கீழ் அமைந்துள்ளன. ஒன்று வருமான வரம்புகள் மற்றும் கடுமையான ஒரு-குடும்பத்திற்கு-ஒருவர் என்ற உச்சவரம்புடன் கூடிய தேசிய குடிவரவுச் செயல்முறையின் வழியாக இயங்குகிறது. மற்றொன்று, நாட்டின் பெரும்பாலான பகுதிகளில், ஒரு அழகுநிலையம் (hair salon) உரிமம் பெறும் அதே முறையில்தான் உரிமம் பெறுகிறது.

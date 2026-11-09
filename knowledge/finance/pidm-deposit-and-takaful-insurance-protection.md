@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "fixed-deposit-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["PIDM", "deposit insurance", "RM250000", "takaful protection", "TIPS", "Perbadanan Insurans Deposit Malaysia", "Malaysia Deposit Insurance Corporation Act 2011", "insurance benefits protection"]
+framework: explainer
 ---
 
 If a Malaysian bank collapsed tomorrow, the money in your savings account would not vanish with it. Up to RM250,000 of it is backed by a government-run protection scheme called PIDM — and you never signed up for it, never paid for it, and quite possibly never noticed it.

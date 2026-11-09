@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "orang-asli" }
 related: ["unesco-world-heritage", "peranakan", "orang-asli"]
 keywords: ["المتحف الوطني", "Muzium Negara", "متحف الفنون الإسلامية ماليزيا", "Islamic Arts Museum Malaysia", "IAMM", "Perak Museum Taiping", "Sarawak Museum", "Sabah Museum", "متاحف ماليزيا الولائية"]
+framework: history-culture
 ---
 
 اسأل معظم الزوار عن أقدم متحف في ماليزيا، وسيخمّنون المتحف الوطني (Muzium Negara) — المبنى ذو السقف القصري الذي يتصدّر صفّ متاحف كوالالمبور. سيخطئون بثمانين عاماً. فذلك اللقب يعود إلى رواق متواضع في تايبينغ (Taiping)، بُني بينما كان موقع المتحف الوطني لا يزال يشغله سلفه.

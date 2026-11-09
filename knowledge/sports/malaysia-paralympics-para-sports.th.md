@@ -93,6 +93,7 @@ relations:
   - { rel: "governs", to: "malaysia-para-athletics" }
 related: []
 keywords: ["Majlis Paralimpik Malaysia", "Paralympic Council Malaysia", "para sukan", "Sukan Paralimpik", "Bonnie Bunyau Gustin", "Cheah Liek Hou", "Abdul Latif Romly"]
+framework: explainer
 ---
 
 เมื่อ Cheah Liek Hou ป้องกันเหรียญทองแบดมินตัน SU5 ของเขาที่ปารีส 2024 ความสำเร็จนั้นยืนยันว่าพาราสปอร์ตของมาเลเซียปัจจุบันมีแนวนักกีฬาแชมป์ที่มั่นคงกว่า ไม่ใช่ความสำเร็จเป็นครั้งคราวอีกต่อไป เบื้องหลังช่วงเวลานั้นมีโครงสร้างการกำกับดูแลเฉพาะที่แยกจากโลกโอลิมปิกที่มีชื่อเสียงกว่า

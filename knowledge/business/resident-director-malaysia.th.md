@@ -111,6 +111,7 @@ keywords:
   - "ordinarily resident director"
   - "foreign owned Sdn Bhd director"
   - "pengarah pemastautin Malaysia"
+framework: explainer
 ---
 
 ค้นหาวิธีจดทะเบียนจัดตั้งบริษัทมาเลเซียในฐานะชาวต่างชาติ แล้วคุณจะถูกขายกรรมการตัวแทนเชิดภายใน

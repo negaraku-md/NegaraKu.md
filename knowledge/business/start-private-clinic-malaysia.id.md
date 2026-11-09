@@ -77,6 +77,7 @@ social:
     - MalaysiaHealthcare
     - Act586
     - MedicalPractice
+framework: how-to
 ---
 
 Membuka klinik sendiri terasa seperti langkah alami setelah bertahun-tahun pelatihan dan praktik — tetapi klinik bukan toko biasa yang boleh Anda dirikan pada hari Senin dan buka pada hari Jumat. Malaysia mengatur layanan kesehatan swasta dengan ketat, dan premis itu sendiri harus didaftarkan dengan Kementerian Kesehatan sebelum seorang pasien pun ditemui. Lewati langkah itu dan Anda bukan sekadar tidak berlisensi; Anda melakukan suatu pelanggaran.

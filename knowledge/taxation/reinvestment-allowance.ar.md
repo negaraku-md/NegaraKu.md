@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "double-deduction-list" }
 related: ["double-deduction-list", "corporate-tax-rates", "losses-and-group-relief"]
 keywords: ["بدل إعادة الاستثمار ماليزيا", "الجدول 7A مشروع مؤهَّل", "reinvestment allowance Malaysia", "Schedule 7A qualifying project", "RA 60% capital expenditure", "رفض مطالبة RA في التدقيق", "بدل إعادة الاستثمار 15 سنة"]
+framework: rules
 ---
 
 يفشل بدل إعادة الاستثمار عند التدقيق أكثر بكثير مما يُرفض ابتداءً، ويكاد لا يفشل

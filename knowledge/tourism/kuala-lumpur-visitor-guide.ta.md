@@ -97,6 +97,7 @@ relations:
   - { rel: "located-in", to: "malaysia" }
 related: []
 keywords: ["kuala lumpur", "petronas twin towers", "kl tower", "batu caves", "bukit bintang", "chinatown kuala lumpur", "klia ekspres", "kuala lumpur transport", "malaysia digital arrival card", "kl travel guide"]
+framework: profile
 ---
 
 விடியற்காலையில் Kuala Lumpur International Airport-இல் இறங்கினால், ஒரு மணி நேரத்திற்குள், உலகின் வான்கோட்டை ஒருகாலத்தில் ஆண்ட இரண்டு வெள்ளிக் கோபுரங்களின் அடியில் நீங்கள் நிற்க முடியும் — வாடகைக் கார் இல்லை, சிக்கலான திட்டமிடல் இல்லை, வெறும் ஒரு ரயிலும் ஒரு தட்டி-நுழையும் அட்டையும் மட்டுமே. அந்த எளிமையே கோலாலம்பூரின் முழு நோக்கமும் ஆகும்: இது மலேசியாவின் முகப்பு வாயில், முதன்மைக் காட்சிகள் ஒரு குறுகிய ரயில் பயணத்தில் அமர்ந்திருக்கும் ஒரு நெருக்கமான, மலிவான தலைநகரம், மேலும் நாட்டின் கிட்டத்தட்ட ஒவ்வொரு தொடர் பயணமும் தொடங்கும் இடம்.

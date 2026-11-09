@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "consumer-protection-act-1999" }
 related: ["court-hierarchy"]
 keywords: ["tuntutan kecil", "small claims", "mahkamah majistret", "aturan 93", "borang 198", "saman hutang", "tanpa peguam"]
+framework: how-to
 ---
 
 Someone owes you RM3,000, refuses to settle it, and ignores every call. Hiring a lawyer might cost more than the debt itself. This is where the **small claims** procedure exists: a route designed specifically so that ordinary people can bring small disputes to court — alone, cheaply, and without a lawyer's robe.

@@ -150,6 +150,7 @@ relations:
   - { rel: "related-to", to: "retrenchment-malaysia" }
 related: ["labour-law-map-malaysia", "domestic-inquiry-malaysia", "unfair-dismissal-malaysia", "retrenchment-malaysia", "termination-benefits-malaysia", "offboarding-statutory-checklist"]
 keywords: ["termination of employment malaysia", "notice period malaysia", "at will employment malaysia", "payment in lieu of notice", "just cause or excuse", "final salary after resignation malaysia", "section 12 employment act"]
+framework: rules
 ---
 
 Một người sử dụng lao động ở Kuala Lumpur quyết định vào thứ Hai rằng một quản lý không phù hợp. Cố vấn pháp lý ở nơi khác sẽ hỏi về điều khoản báo trước. Ở Malaysia câu hỏi đầu tiên thì khác, và nó là câu quyết định vụ việc: **lý do là gì, và bạn có thể chứng minh nó không?**

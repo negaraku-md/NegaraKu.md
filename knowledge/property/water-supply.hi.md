@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "moving-to-malaysia-first-steps" }
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["जल आपूर्ति मलेशिया", "Air Selangor", "Ranhill SAJ", "PBAPP", "जल खाता खोलना", "राज्य जल कंपनी", "जल बिल मलेशिया", "SPAN", "नया जल कनेक्शन"]
+framework: explainer
 ---
 
 आप सेलांगोर से जोहोर जाते हैं। आपका बैंक खाता वही रहता है। आपकी फ़ोन लाइन आपके साथ आ सकती है। लेकिन आपका जल खाता? वह आपका अनुसरण नहीं करता — क्योंकि आपके नए घर को पानी की आपूर्ति करने वाली कंपनी पूरी तरह से एक अलग कंपनी है।

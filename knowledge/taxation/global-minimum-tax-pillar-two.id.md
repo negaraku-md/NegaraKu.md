@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "cbcr-and-master-file" }
 related: ["corporate-tax-rates"]
 keywords: ["cukai minimum global Malaysia", "domestic top-up tax", "multinational top-up tax", "Pillar Two Malaysia", "QDMTT Malaysia", "GloBE Malaysia", "cukai minimum global"]
+framework: rules
 ---
 
 Hampir semua tulisan tentang Pillar Two ditujukan untuk entitas induk utama.

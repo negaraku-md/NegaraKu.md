@@ -81,6 +81,7 @@ keywords:
   - "kedudukan Raja-Raja Melayu"
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
+framework: history-culture
 ---
 
 Trong một năm mười tháng, Tanah Melayu được cai trị dưới một hiến pháp mà ngày nay hầu như không ai biết đến ngoài cái tên của nó. Malayan Union bắt đầu vào ngày 1 tháng 4 năm 1946 và kết thúc vào ngày 31 tháng 1 năm 1948 — đủ ngắn để không kịp để lại các tòa nhà, đồng tiền hay một thế hệ các nhà quản lý riêng của mình.

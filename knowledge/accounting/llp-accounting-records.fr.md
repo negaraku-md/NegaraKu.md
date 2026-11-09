@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "accounting-records-section-245" }
 related: ["llp-vs-sdn-bhd", "register-llp-malaysia", "accounting-records-section-245", "sdn-bhd-bookkeeping"]
 keywords: ["registres comptables LLP", "section 69 LLP Act 2012", "déclaration annuelle LLP", "déclaration de solvabilité LLP", "LLP contre Sdn Bhd", "Akta 743"]
+framework: rules
 ---
 
 Une LLP peut fonctionner pendant des années sans soumettre un seul état financier à la SSM — et c'est là que réside une idée fausse courante au sujet de cette structure. L'absence d'obligation de dépôt ne signifie pas l'absence de responsabilité. La section 69 de la Limited Liability Partnerships Act 2012 lie toujours toute société à responsabilité limitée (LLP) à une norme de tenue de registres aussi stricte que celle d'une société, et la section 68 remplace l'état financier public par un autre instrument qui engage la responsabilité personnelle des associés : la déclaration de solvabilité.

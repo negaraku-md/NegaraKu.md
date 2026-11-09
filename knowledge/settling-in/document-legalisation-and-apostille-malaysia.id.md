@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "recognition-of-foreign-qualifications-malaysia" }
 related: []
 keywords: ["legalisasi dokumen", "apostille Malaysia", "pengesahan konsular", "Wisma Putra", "sijil kelahiran asing", "sijil perkahwinan luar negara", "pengesahan ijazah", "JPN dokumen asing"]
+framework: how-to
 ---
 
 Anda datang ke loket JPN dengan akta pernikahan yang diterbitkan di luar negeri, dan petugas menolaknya — bukan karena palsu, tetapi karena belum "dilegalisasi". Banyak orang tersandung di sinilah: dokumen sah di negara asalnya tidak berarti langsung diterima di Malaysia. Ada satu rantai pengesahan yang harus dilalui dahulu.

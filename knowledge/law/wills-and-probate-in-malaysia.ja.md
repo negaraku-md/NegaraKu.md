@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "estate-planning-in-malaysia" }
 related: []
 keywords: ["wasiat", "probet", "pusaka", "Akta Pembahagian 1958", "Akta Wasiat 1959", "surat kuasa mentadbir", "bukan Islam"]
+framework: explainer
 ---
 
 遺言を残さずに財産を残すことは、家族が誰が何を得るかを自由に決められることを意味しない。マレーシアでは、硬直した法律上の公式が引き継ぐ——そしてそれはあなたの意向と一致しないかもしれない。非ムスリムにとって、三つの法律がすべてを決める。1959年遺言法（Wills Act 1959、Act 346、遺言の作り方）、1959年検認・遺産管理法（Probate and Administration Act 1959、遺産の管理方法）、そして1958年遺産分配法（Act 300、遺言がない場合に誰が相続するか）である。

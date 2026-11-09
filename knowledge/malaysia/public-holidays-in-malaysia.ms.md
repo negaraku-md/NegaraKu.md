@@ -80,6 +80,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: explainer
 ---
 
 Rancang satu perjalanan, pelancaran produk atau proses gaji merentasi Malaysia dan anda akan cepat mendapati sesuatu yang mengejutkan orang luar: hari yang menjadi cuti umum di Kuala Lumpur mungkin merupakan hari bekerja biasa di Kuching, dan sebaliknya. Malaysia bukannya mempunyai satu senarai cuti kebangsaan, sebaliknya satu lapisan kebangsaan dan tiga belas lapisan negeri yang bertindih antara satu sama lain.

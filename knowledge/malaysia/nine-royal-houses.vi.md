@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["majlis-raja-raja", "yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["negeri beraja Malaysia", "sembilan Raja Melayu", "Sultan Raja Yang di-Pertuan Besar", "Majlis Raja-Raja", "Ketua agama Islam negeri", "Undang Yang Empat Negeri Sembilan"]
+framework: explainer
 ---
 
 Malaysia có mười ba bang, nhưng chỉ chín bang trong số đó có Quân vương trị vì. Bốn bang còn lại — Melaka, Pulau Pinang, Sabah và Sarawak — do các Thống đốc bang (Yang di-Pertua Negeri) được bổ nhiệm đứng đầu, chứ không phải một Quân vương.

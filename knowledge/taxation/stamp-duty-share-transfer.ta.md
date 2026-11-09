@@ -90,6 +90,7 @@ relations:
   - { rel: "part-of", to: "stamp-duty-rates" }
 related: ["stamp-duty-rates", "capital-gains-tax", "stamp-duty-self-assessment", "share-capital-malaysia"]
 keywords: ["stamp duty share transfer Malaysia", "Form 32A", "Form of Transfer of Securities section 105", "NTA valuation stamp duty", "0.3% share transfer duty"]
+framework: rules
 ---
 
 பங்கு பரிமாற்ற முத்திரையிடல் குறித்து பெரும்பாலான மலேசிய நடைமுறைக்

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "asean-free-trade-area" }
 related: ["miti", "malaysia-cptpp"]
 keywords: ["RCEP", "Malaysia trade agreement", "rules of origin", "Form RCEP", "tariff elimination", "ASEAN", "MITI", "free trade agreement"]
+framework: explainer
 ---
 
 ลงนามในหนังสือรับรองแหล่งกำเนิดสินค้าฉบับเดียว แล้วสินค้าที่ผลิตในมาเลเซียก็สามารถเคลื่อนย้ายปลอดภาษีทั่วตลาดที่แผ่จากโอ๊คแลนด์ (Auckland) ถึงปักกิ่งถึงกัวลาลัมเปอร์ (Kuala Lumpur) นั่นคือสิ่งที่ RCEP เปลี่ยนสำหรับผู้ส่งออกมาเลเซีย ในหนึ่งบรรทัด

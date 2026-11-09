@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "malaysia-cup" }
 related: []
 keywords: ["bola sepak malaysia", "piala malaysia", "harimau malaya", "FAM", "liga super", "AFF", "football malaysia"]
+framework: history-culture
 ---
 
 1921年、シンガポールはマラヤで行われた新しいサッカー大会の決勝でスランゴールを2対1で破った。それから1世紀以上を経た今も、その大会——現在はマレーシアカップとして知られる——は、この国で最も愛されるスポーツにおける最も権威ある栄冠であり続けている。

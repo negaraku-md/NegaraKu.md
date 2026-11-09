@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "remove-a-director" }
 related: ["remove-a-director", "agm-requirements", "resolution-notice-periods", "written-resolutions"]
 keywords: ["EGM requisition Malaysia", "section 311 Companies Act 2016", "shareholders call meeting", "10 per cent requisition", "minority shareholder meeting"]
+framework: how-to
 ---
 
 สำนักงานเลขานุการมาเลเซียทุกแห่งเขียนเรื่องการประชุมจากด้านของคณะกรรมการ เพราะคณะกรรมการเป็นลูกค้า ผลคือขั้นตอนหนึ่งที่ผู้ถือหุ้นเสียงข้างน้อยต้องการจริง ๆ — การบังคับให้มีการประชุมที่กรรมการไม่ต้องการ — แทบหายไปจากตลาด

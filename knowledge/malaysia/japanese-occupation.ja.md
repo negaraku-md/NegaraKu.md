@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["independence-1957", "formation-of-malaysia-1963", "melaka-sultanate"]
 keywords: ["pendudukan Jepun", "Tanah Melayu 1941-1945", "duit pisang", "Kota Bharu 1941", "pentadbiran tentera Jepun", "Perang Dunia Kedua Malaysia"]
+framework: history-culture
 ---
 
 八週間。それが、日本軍がクランタンの海岸に最初に上陸してから、マラヤ全土が日本軍の手に落ちるまでの期間である——この地は、さまざまな形態で一世紀半以上にわたり英国に統治されてきた地域であった。

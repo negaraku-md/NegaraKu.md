@@ -56,6 +56,7 @@ relations:
   - { rel: "part-of", to: "audit-exemption" }
 related: ["audit-exemption", "audit-exemption-thresholds", "after-audit-exemption"]
 keywords: ["إعفاء الشركة الخاملة من المراجعة ماليزيا", "الشركة الخاملة SSM", "ما الذي يُنهي حالة الخمول", "dormant company audit exemption Malaysia", "what breaks dormancy", "dormant since incorporation"]
+framework: rules
 ---
 
 إن شركة الرف (shelf company) التي تحمل اسمًا ولا شيء سواه لا تحتاج إلى اجتياز

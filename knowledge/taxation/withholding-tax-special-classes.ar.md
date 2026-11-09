@@ -90,6 +90,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
 keywords: ["المادة 109B", "section 109B", "دخل المادة 4A", "section 4A income", "ضريبة الاستقطاع على الأتعاب الفنية في ماليزيا", "فئات الدخل الخاصة", "PR 10/2019", "مستمد من ماليزيا", "derived from Malaysia"]
+framework: rules
 ---
 
 اسأل فريقاً مالياً ماليزياً عن سبب عدم استقطاعه على فاتورة مستشار أجنبي، وسيكون

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "sales-and-service-tax-sst-explained" }
 related: []
 keywords: ["tipping malaysia", "service charge malaysia", "service tax restaurant", "dining etiquette malaysia", "SST food and beverage"]
+framework: explainer
 ---
 
 คุณรับประทานอาหารมื้ออร่อยเสร็จในกัวลาลัมเปอร์ (Kuala Lumpur) บิลถูกวางลงบนโต๊ะ และมีสองบรรทัดที่ไม่คุ้นเคยอยู่ใต้ยอดรวมของคุณ ไม่หรอก คุณไม่ได้สั่งอะไรเพิ่ม และไม่ คุณไม่จำเป็นต้องเพิ่มทิปเข้าไปอีก นี่คือวิธีที่การรับประทานอาหารนอกบ้านในมาเลเซียดำเนินไปจริง ๆ

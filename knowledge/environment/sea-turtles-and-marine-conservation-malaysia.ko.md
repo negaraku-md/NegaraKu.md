@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "terengganu-turtle-enactment" }
 related: []
 keywords: ["penyu", "penyu belimbing", "Rantau Abang", "taman laut", "Akta Perikanan 1985", "Enakmen Penyu Terengganu", "pemuliharaan marin", "telur penyu"]
+framework: explainer
 ---
 
 1960년대 말, 매년 약 2,000마리의 암컷 장수거북이 트렝가누 란타우 아방의 한 해변에 상륙해 모래 위에 거의 10,000개의 알 둥지를 남겼습니다. 오늘날에는 한 마리도 없습니다. 그 쇠락의 이야기는 이 지역에서 가장 두드러진 야생동물 보전 실패 중 하나이며 — 그것이 오늘날까지 말레이시아가 바다거북을 보호하는 방식을 빚어냈습니다.

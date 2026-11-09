@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "thaipusam", "hinduism-in-malaysia", "estate-tamil-community"]
 keywords: ["செட்டியார் சமூகம்", "நாட்டுக்கோட்டை நகரத்தார்", "நகரத்தார் மலேசியா", "செட்டிநாடு", "கிட்டங்கி", "பினாங்கு செட்டியார் கோயில்", "Chettiar community Malaysia", "Nattukottai Chettiar", "Nagarathar"]
+framework: history-culture
 ---
 
 在槟城大宝森节这一天，一座以白银打造的宏伟战车会从槟榔律（Lebuh Penang）启程，驶向山上的穆鲁甘庙。那座战车，以及一个多世纪以来掌管它的社群，都并非偶然——它们诉说着一段从哲智纳德远航至马来亚的商贸银行传统的故事。

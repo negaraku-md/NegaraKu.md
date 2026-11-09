@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "traffic-summons-saman" }
 related: ["road-transport-act-1987", "traffic-summons-saman"]
 keywords: ["cukai jalan", "LKM", "Lesen Kenderaan Motor", "renew roadtax", "MyJPJ", "e-LKM", "Pos Malaysia JPJ", "MyEG roadtax", "Puspakom B2"]
+framework: explainer
 ---
 
 Many people call it "road tax" and treat it the way they treat income tax or sales tax — pay it, done, don't think about it again until next year. But its official name at JPJ is the Motor Vehicle Licence (LKM): a kind of **licence**, not a tax. This distinction is not just a matter of terminology. It explains why there is a strict time window for renewing it, and why a vehicle that has gone too long without an LKM cannot simply "pay and be done."

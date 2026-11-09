@@ -78,6 +78,7 @@ social:
     - MDEC
     - MalaysiaDigital
     - TechFunding
+framework: explainer
 ---
 
 MDEC 자금을 찾는 대부분의 창업자는 "MDEC 보조금"을 검색하며 단일 제도를 기대합니다. 실제로는 두 가지가 있고, 이들은 기업 여정의 정반대 지점을 지원하며, 둘 다 눈에 잘 띄지 않는 하나의 관문을 공유합니다: 진입하려면 이미 말레이시아 디지털(Malaysia Digital) 안에 들어와 있어야 합니다. 이를 놓치면, 페이지에 적힌 금액은 무의미합니다.

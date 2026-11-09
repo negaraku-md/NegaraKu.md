@@ -91,6 +91,7 @@ relations:
   - { rel: "part-of", to: "mydigital-blueprint" }
 related: ["malaysia-startup-ecosystem", "cradle-cip-grant", "malaysia-digital-economy-in-numbers", "mydigital-blueprint"]
 keywords: ["KL20", "KL20 Summit 2024", "KL20 Action Paper", "Malaysia startup ecosystem", "top 20 global startup hub", "Golden Pass", "pelan tindakan KL20", "Cradle Fund startup"]
+framework: explainer
 ---
 
 2024年4月、マレーシアは自国のスタートアップを希望の言葉で語ることをやめ、ランキングの言葉で語り始めた。その売り口上は率直だった：2030年までにクアラルンプールを世界のトップ20スタートアップ・エコシステムに入れる、さもなければ国が惰性で過ごしてきたと認めよ、と。

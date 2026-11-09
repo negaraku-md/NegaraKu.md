@@ -126,6 +126,7 @@ keywords:
   - "section 561 Companies Act 2016"
   - "foreign company local agent Malaysia"
   - "foreign company annual return Malaysia"
+framework: how-to
 ---
 
 पंजीकरण शुल्क वह हिस्सा है जिसका बजट हर कोई बनाता है। यह वह हिस्सा नहीं है जो चोट पहुँचाता

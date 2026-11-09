@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "moving-to-malaysia-first-steps" }
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["approvisionnement en eau Malaisie", "Air Selangor", "Ranhill SAJ", "PBAPP", "ouvrir un compte d'eau", "compagnie des eaux d'État", "facture d'eau Malaisie", "SPAN", "nouveau raccordement d'eau"]
+framework: explainer
 ---
 
 Vous déménagez de Selangor à Johor. Votre compte bancaire reste le même. Votre ligne téléphonique peut vous suivre. Mais votre compte d'eau ? Lui ne vous suit pas — parce que la compagnie qui approvisionne votre nouveau logement en eau est une entreprise entièrement différente.

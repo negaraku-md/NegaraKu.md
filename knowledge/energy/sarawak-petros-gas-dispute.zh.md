@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "malaysia-agreement-1963" }
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["Petros", "Sarawak", "gas", "agregator gas", "Ordinan Pengagihan Gas 2016", "Ordinan Pengagihan Gas (Pindaan) 2023", "Petronas", "Akta Kemajuan Petroleum 1974", "MA63"]
+framework: explainer
 ---
 
 在吉隆坡的一张谈判桌上，两家政府所有的能源实体——一家属联邦、一家属州属——试图厘清由谁掌控砂拉越的天然气流向。其背后隐藏着一个更大的问题：当州权与联邦权力相撞时，究竟哪一部法律具有约束力？

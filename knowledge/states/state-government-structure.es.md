@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-state-division" }
 related: ["rulers-and-governors", "state-assemblies-dun", "kabinet-perdana-menteri", "three-tiers-of-government", "federal-state-division", "sabah-sarawak-safeguards"]
 keywords: ["gobierno estatal Malasia", "state government Malaysia", "Menteri Besar", "Chief Minister Malasia", "Chief Minister Malaysia", "Consejo Ejecutivo del Estado", "EXCO", "Dewan Undangan Negeri", "asamblea estatal Malasia", "Yang di-Pertua Negeri", "Octavo Anexo", "Noveno Anexo", "State List", "Federal Constitution Malaysia"]
+framework: explainer
 ---
 
 Quite el Istana Negara, cambie el nombre del Primer Ministro y reduzca el Parlamento a una sola cámara — y estará viendo el gobierno de un estado malasio. Los 13 estados funcionan sobre una copia a escala reducida del sistema federal: un jefe de estado que reina sin gobernar, un jefe de gobierno elegido porque puede contar con una mayoría, un consejo ejecutivo que responde colectivamente ante miembros electos, y un legislativo que puede ser disuelto y devuelto a los votantes. Los títulos cambian de estado a estado. El plano no.

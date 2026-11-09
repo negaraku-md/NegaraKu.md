@@ -84,6 +84,7 @@ relations:
   - { rel: "compares-with", to: "permanent-establishment" }
 related: ["corporate-tax-rates", "income-tax-act-1967", "lhdn", "sdn-bhd"]
 keywords: ["company tax residence Malaysia", "management and control", "section 8 Income Tax Act", "taraf mastautin syarikat", "resident company Malaysia"]
+framework: explainer
 ---
 
 3人の取締役全員がシンガポールに住み、ビデオ通話で会合し、回覧により決議に署名するマレーシアの Sdn Bhd は、マレーシアの税務上の居住者ではまったくない可能性がある。もし居住者でなければ、15% 及び 17% の SME 税率、集団救済、租税条約による保護、並びに1986年投資奨励法令（Promotion of Investments Act 1986）下のあらゆる優遇措置を失う——それでいてマレーシア国内所得については全額課税されたままである。

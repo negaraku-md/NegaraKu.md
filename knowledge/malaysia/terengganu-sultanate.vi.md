@@ -60,6 +60,7 @@ social:
   hashtags: ["TerengganuSultanate", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded:
   - "Năm thành lập chính xác của vương quốc Hồi giáo — các nguồn đưa ra khác nhau là 1708 (lễ tấn phong bởi các bá chủ Johor) và 1724/1725 (độc lập hoàn toàn); niên đại chính xác cần được kiểm chứng với một công trình lịch sử học thuật như Sejarah Terengganu của Haji Buyong Adil."
+framework: history-culture
 ---
 
 Rất lâu trước khi bất kỳ sultan nào ngồi trên ngai vàng của nó, một phiến đá granite trên một bờ sông trong vùng nội địa Terengganu đã khắc định mệnh của bang vào đá. Batu Bersurat Terengganu — Bia đá khắc chữ của Terengganu — mang một niên đại đọc là năm 1303, và trên những mặt đá đã phong hóa của nó, bằng những nét chữ uốn lượn phái sinh từ tiếng Ả Rập của [chữ Jawi](/vi/arts-culture/jawi-script), một vị vua ra lệnh cho dân chúng của mình giữ vững Hồi giáo. Đó là bằng chứng có niên đại cổ nhất về chữ viết Jawi và về luật Hồi giáo ở bất cứ đâu trong thế giới Mã Lai. Vương quốc Hồi giáo mà cuối cùng sẽ mang tên vùng đất này đến hơn bốn thế kỷ sau — nhưng đức tin mà nó sẽ bảo vệ đã được khắc ở đây trước tiên.

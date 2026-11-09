@@ -71,6 +71,7 @@ social:
     - LHDN
     - PersonalTax
     - VSS
+framework: explainer
 ---
 
 Perdre son emploi s'accompagne généralement d'une indemnité, et la première question est souvent la mauvaise : « combien d'impôt vais-je payer dessus ? » La bonne question est : « quelle part de cette somme est réellement une *indemnité pour la perte de mon emploi*, et quelle part n'est que mon salaire normal déguisé ? » Le droit fiscal malaisien trace une ligne nette entre les deux, et un seul côté de cette ligne bénéficie de l'exonération généreuse. Si vous vous trompez dans la répartition, soit vous payez trop d'impôt, soit vous recevez un redressement désagréable plus tard.

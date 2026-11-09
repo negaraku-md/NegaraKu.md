@@ -105,6 +105,7 @@ keywords:
   - "section 31 Companies Act 2016"
   - "do I need a constitution Sdn Bhd"
   - "M&A replaced by constitution"
+framework: explainer
 ---
 
 Companies Act 2016 让公司章程变成可选项，而整个行业把这一点翻译成了「你不需要一份」。

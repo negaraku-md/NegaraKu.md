@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["EPF", "KWSP", "SOCSO", "PERKESO", "SIP", "EIS", "caruman", "Akta KWSP 1991", "Akta Keselamatan Sosial Pekerja 1969", "persaraan", "insurans pekerjaan"]
+framework: rules
 ---
 
 เปิดสลิปเงินเดือนของคุณ แล้วเงินหักสามรายการจะปรากฏขึ้นก่อนที่เงินสตางค์แรกจะเข้าบัญชีธนาคาร: EPF, SOCSO และ SIP ทั้งสามไม่ใช่ทางเลือก — บังคับใช้โดยพระราชบัญญัติของรัฐสภาสามฉบับที่แยกจากกัน และนายจ้างที่ไม่จ่ายอาจถูกจำคุก นี่คือตาข่ายความมั่นคงทางสังคมของมาเลเซียสำหรับลูกจ้าง และทุกริงกิตที่ถูกหักซื้อความคุ้มครองที่แตกต่างกัน

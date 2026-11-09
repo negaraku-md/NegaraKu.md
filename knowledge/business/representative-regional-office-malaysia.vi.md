@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "foreign-company-branch-malaysia" }
 related: ["mida"]
 keywords: ["representative office malaysia", "regional office malaysia", "MIDA RE RO", "foreign company presence malaysia", "market entry malaysia", "non-trading office"]
+framework: explainer
 ---
 
 Một công ty nước ngoài muốn có người trên thực địa ở Malaysia — để đánh giá thị trường, tiến hành nghiên cứu sản phẩm, hoặc điều phối các chi nhánh liên kết khu vực của mình — không nhất thiết phải thành lập một công ty kinh doanh chịu thuế để làm điều đó. Malaysia cung cấp một tư cách không kinh doanh được thiết kế chuyên biệt cho đúng việc này: Văn phòng Đại diện (RE) hoặc Văn phòng Khu vực (RO), được Cơ quan Phát triển Đầu tư Malaysia (Malaysian Investment Development Authority, MIDA) phê duyệt.

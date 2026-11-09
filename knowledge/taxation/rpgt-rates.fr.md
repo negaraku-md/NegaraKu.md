@@ -88,6 +88,7 @@ relations:
   - { rel: "explained-in", to: "rpgt-exemptions" }
 related: ["rpgt-exemptions", "capital-gains-tax", "capital-or-revenue", "lhdn"]
 keywords: ["RPGT rates Malaysia", "cukai keuntungan harta tanah", "RPGT computation", "RPGT 6th year", "Schedule 5 RPGTA", "CKHT"]
+framework: data-reference
 ---
 
 Presque tous les guides du RPGT en circulation impriment une grille de taux unique : 30, 30, 30, 20, 15, 0. Cette grille est réelle, mais elle s'applique à exactement une des trois classes de cédant du Schedule 5. Appliquez-la à une Sdn Bhd et vous provisionnerez 10 % de trop peu sur l'intégralité du gain. Appliquez-la à un acheteur étranger qui revend la quatrième année et vous vous tromperez de quinze points de pourcentage.

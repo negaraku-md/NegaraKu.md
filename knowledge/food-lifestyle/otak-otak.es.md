@@ -92,6 +92,7 @@ verificationNeeded:
   - "El origen del otak-otak (que suele rastrearse hasta Palembang, en el sur de Sumatra, y se describe como una mezcla malaya-peranakan): la afirmación es disputada entre Indonesia, Malasia y Singapur; confírmala con una fuente de historia de la gastronomía o del patrimonio, no con medios de restaurantes o de recetas."
   - "La etimología popular de 'otak' ('sesos', por el aspecto cerebral de la mezcla): confírmala con una fuente lingüística o lexicográfica, no con medios gastronómicos."
   - "Si la nuez de la India (buah keras) forma parte del rempah estándar del otak-otak: algunas recetas la incluyen y otras (p. ej., la receta citada de Nyonya Cooking) no; confirma la composición habitual de la pasta con una fuente culinaria peranakan."
+framework: explainer
 ---
 
 Abre un paquetito de otak-otak y lo primero que te sale al encuentro es el olor:

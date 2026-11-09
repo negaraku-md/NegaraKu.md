@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "circular-economy-blueprint" }
 related: []
 keywords: ["Loi 672", "SWCorp", "recyclage", "déchets solides", "décharge", "séparation des déchets à la source", "économie circulaire", "Act 672", "recycling"]
+framework: explainer
 ---
 
 Jetez des ordures à Johor et cela devient une affaire du gouvernement fédéral ; jetez les mêmes ordures à Penang et cela reste du ressort du conseil local. Telle est la particularité centrale de la manière dont la Malaisie gère ses déchets solides — une grande loi fédérale, mais une loi qui n'entre en vigueur que dans les lieux qui ont accepté de l'adopter.

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "statutory-audit-requirement" }
 related: ["companies-act-2016", "malaysian-institute-of-accountants"]
 keywords: ["juruaudit syarikat diluluskan", "approved company auditor", "seksyen 263", "lesen audit Malaysia", "sijil amalan MIA", "Akauntan Negara"]
+framework: rules
 ---
 
 You can be a Chartered Accountant with the full title, an accounting degree, and years of experience — and still not be allowed to sign a company's audit report on your own. In Malaysia, the right to audit a company is a separate and tightly controlled licence, not something that comes automatically with professional membership.

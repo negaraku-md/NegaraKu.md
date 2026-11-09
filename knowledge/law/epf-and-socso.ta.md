@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["EPF", "KWSP", "SOCSO", "PERKESO", "SIP", "EIS", "caruman", "Akta KWSP 1991", "Akta Keselamatan Sosial Pekerja 1969", "persaraan", "insurans pekerjaan"]
+framework: rules
 ---
 
 உங்கள் சம்பளச் சீட்டைத் திறந்தால், முதல் சென் வங்கிக் கணக்கில் நுழையும் முன்பே மூன்று கழிவுகள் தோன்றுகின்றன: EPF, SOCSO மற்றும் SIP. இம்மூன்றும் விருப்பத்தேர்வு அல்ல — அவை பாராளுமன்றத்தின் மூன்று தனித்தனிச் சட்டங்களால் அமல்படுத்தப்படுகின்றன, அவற்றைச் செலுத்தாத முதலாளர்கள் சிறையில் அடைக்கப்படலாம். இது மலேசியாவின் பணியாளர்களுக்கான சமூகப் பாதுகாப்பு வலை, கழிக்கப்படும் ஒவ்வொரு ரிங்கிட்டும் வெவ்வேறு பாதுகாப்பை வாங்குகிறது.

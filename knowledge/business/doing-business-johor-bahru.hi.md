@@ -123,6 +123,7 @@ keywords:
   - "जोहोर में विदेशी संपत्ति-क्रय"
   - "doing business in Johor Bahru"
   - "MBJB business licence"
+framework: profile
 ---
 
 जोहोर बहरू एकमात्र मलेशियाई नगर है जिसकी मज़दूरी-तलहटी, कर्मचारी-योजना और वितरण-खिड़की सब

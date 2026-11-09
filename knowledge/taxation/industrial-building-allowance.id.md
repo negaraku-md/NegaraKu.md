@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["capital-allowances", "losses-and-group-relief"]
 keywords: ["elaun bangunan industri malaysia", "IBA jadual 3", "perenggan 63 jadual 3", "perbelanjaan bangunan layak", "elaun cukai kilang malaysia", "kadar IBA 10% 3%"]
+framework: explainer
 ---
 
 Sebuah perusahaan membeli sebuah pabrik dengan harga RM1.2 juta dan mengklaim industrial building allowance atas RM1.2 juta. Dua tahun kemudian, audit menyesuaikan klaim itu menjadi sedikit lebih dari RM500,000, menambahkan kembali kelebihan klaim bagi setiap tahun sejak itu, dan mengenakan penalti. Tidak ada yang berubah pada bangunan itu. Perusahaan itu hanya mengklaim atas suatu angka yang tidak pernah diizinkan oleh undang-undang.

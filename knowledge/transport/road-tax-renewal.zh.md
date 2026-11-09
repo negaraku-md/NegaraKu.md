@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "traffic-summons-saman" }
 related: ["road-transport-act-1987", "traffic-summons-saman"]
 keywords: ["cukai jalan", "LKM", "Lesen Kenderaan Motor", "renew roadtax", "MyJPJ", "e-LKM", "Pos Malaysia JPJ", "MyEG roadtax", "Puspakom B2"]
+framework: explainer
 ---
 
 许多人把它叫做「路税」，把它当成所得税或销售税那样看待——缴了，了事，一直到明年之前都不必再想。但它在 JPJ 的正式名称是机动车辆牌照（Lesen Kenderaan Motor，LKM）：一种**牌照**，不是税。这个分别不只是用词问题。它解释了为什么续期有严格的时间窗口，也解释了为什么一辆太久没有 LKM 的车不能只靠「缴钱了事」。

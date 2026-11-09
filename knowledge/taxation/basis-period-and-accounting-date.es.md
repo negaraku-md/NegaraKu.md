@@ -73,6 +73,7 @@ relations:
   - { rel: "affects", to: "form-c-and-cp204" }
 related: ["form-c-and-cp204", "corporate-tax-rates", "income-tax-act-1967"]
 keywords: ["periodo base Malasia", "sección 21A", "año de fallo", "CP204B", "cambio fecha cierre contable Malasia", "tempoh asas"]
+framework: explainer
 ---
 
 Una Sdn Bhd constituida en marzo que cierra sus primeras cuentas el 30 de junio

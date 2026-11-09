@@ -93,6 +93,7 @@ relations:
   - { rel: "governs", to: "malaysia-para-athletics" }
 related: []
 keywords: ["Majlis Paralimpik Malaysia", "Paralympic Council Malaysia", "para sukan", "Sukan Paralimpik", "Bonnie Bunyau Gustin", "Cheah Liek Hou", "Abdul Latif Romly"]
+framework: explainer
 ---
 
 Khi Cheah Liek Hou bảo vệ huy chương vàng cầu lông SU5 của mình tại Paris 2024, thành công đó xác nhận rằng thể thao người khuyết tật của Malaysia nay có một dàn nhà vô địch vững chắc hơn, không còn là một thành tích thi thoảng nữa. Đằng sau khoảnh khắc đó là một cấu trúc quản trị riêng biệt, tách khỏi thế giới Olympic nổi tiếng hơn.

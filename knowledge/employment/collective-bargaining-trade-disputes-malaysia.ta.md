@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "department-of-industrial-relations-malaysia" }
 related: ["trade-unions-malaysia", "employment-act-1955"]
 keywords: ["rundingan kolektif", "perjanjian kolektif", "pertikaian perusahaan", "hak rundingan tunggal", "pengiktirafan kesatuan", "mogok", "sekat masuk", "piket", "Akta Perhubungan Perusahaan 1967", "Mahkamah Perusahaan"]
+framework: rules
 ---
 
 தன் முதலாளியை மேசைக்கு வந்து ஊதியம் பற்றிப் பேரம் பேச வைக்க விரும்பும் ஒரு ஊழியர் வெறுமனே கேட்டுவிட முடியாது — பின்பற்றப்பட வேண்டிய ஒரு சட்ட ஓட்டம் உள்ளது, மேலும் ஒவ்வொரு படிக்கும் அதன் சொந்த கடைசி தேதி உண்டு. அந்த ஓட்டம் [தொழில் உறவுகள் சட்டம் 1967 (Industrial Relations Act 1967)](/law/industrial-relations-act-1967) (Act 177) இல் அடங்கியுள்ளது, இது மலேசிய தொழில் உறவுகள் திணைக்களத்தால் (Department of Industrial Relations Malaysia, JPPM) நடைமுறைப்படுத்தப்படுகிறது, மேலும் யார் பேரம் பேசலாம், எதைப் பேரம் பேசலாம், மற்றும் வேலைநிறுத்தம் போன்ற தொழில் நடவடிக்கை எப்போது அனுமதிக்கப்படுகிறது என்பதை அது தீர்மானிக்கிறது.

@@ -84,6 +84,7 @@ keywords:
   - "Malaysia student pass application"
   - "public vs private university Malaysia"
   - "MOHE approved institution Malaysia"
+framework: explainer
 ---
 
 Surat penawaran dari institusi yang salah jenis tidak bernilai untuk tujuan visa, meskipun program itu sendiri diakreditasi dengan sempurna. Perbedaan itu — program yang diakreditasi dibandingkan institusi yang disetujui untuk mahasiswa internasional — adalah penyebab kebanyakan kebingungan bermula, jauh sebelum siapa pun mengisi formulir EMGS.

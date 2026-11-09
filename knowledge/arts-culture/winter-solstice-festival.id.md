@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "chinese-new-year" }
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "chinese-dialects"]
 keywords: ["冬至", "汤圆", "汤丸", "咸汤圆", "冬大过年", "冬至大如年", "添岁", "搓汤圆", "Tang Chek", "Dongzhi", "马来西亚华人", "节气", "Winter Solstice Festival"]
+framework: history-culture
 ---
 
 Pada suatu petang di penghujung Desember, aroma tepung ketan di dapur berbaur dengan manisnya air jahe. Seluruh keluarga berkumpul di sekeliling meja, membentuk segumpal demi segumpal adonan ketan menjadi bola-bola — ada yang putih, ada yang diwarnai merah muda dan hijau muda. Bola-bola di tangan anak-anak beragam ukuran, dan sambil membentuknya orang dewasa berkata: setelah memakan tangyuan, kita bertambah satu tahun usia. Hari ini adalah Dongzhi.

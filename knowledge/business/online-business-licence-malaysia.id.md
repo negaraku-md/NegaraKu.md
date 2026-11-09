@@ -119,6 +119,7 @@ keywords:
   - "lesen perniagaan online"
   - "e-commerce regulations Malaysia 2024"
   - "online seller legal requirements Malaysia"
+framework: rules
 ---
 
 Tidak ada yang namanya izin e-dagang di Malaysia. Tidak ada undang-undang yang

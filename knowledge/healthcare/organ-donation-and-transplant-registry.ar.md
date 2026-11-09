@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "how-malaysian-healthcare-works" }
 related: ["how-malaysian-healthcare-works", "government-hospitals"]
 keywords: ["التبرع بالأعضاء", "زراعة الأعضاء", "transplan", "NTRC", "تعهد المتبرع", "فتوى الأعضاء", "الموت الدماغي", "MySejahtera", "organ donation"]
+framework: explainer
 ---
 
 في كل عام، ينتظر آلاف المرضى في ماليزيا مكالمة هاتفية قد لا تأتي أبداً — المكالمة التي تخبرهم بأن عضواً لإنقاذ حياتهم بات متاحاً أخيراً. وخلف قائمة الانتظار الطويلة تلك تكمن مفارقة: فمئات الآلاف من المواطنين قد تعهدوا بالتبرع بأعضائهم، ومع ذلك لا يُنفَّذ سوى جزء ضئيل من تلك التعهدات.

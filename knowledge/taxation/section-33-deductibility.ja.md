@@ -118,6 +118,7 @@ relations:
   - { rel: "related-to", to: "entertainment-expenses" }
 related: ["losses-and-group-relief", "form-c-and-cp204", "withholding-tax-non-compliance"]
 keywords: ["section 33 income tax act", "wholly and exclusively malaysia", "allowable business expenses malaysia", "tax deductible expenses sdn bhd", "section 33(1) deduction", "lhdn disallowed expenses"]
+framework: explainer
 ---
 
 マレーシアの業務控除に関するあらゆる案内書は、一つのリストを掲げている。賃料、可。給与、可。交際費、半分。このリストは、リストに載っていない費用が現れるその日まではうまく機能する——ある義務を免れるために州政府へ支払った金額、実現しなかったプロジェクトのための実行可能性調査、会社が転嫁せず自ら吸収したサービス税——そのとき、このリストは何の価値もなくなる。なぜなら、このリストは決して法律そのものではなかったからである。

@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "transfer-pricing-documentation" }
 related: ["transfer-pricing-documentation", "global-minimum-tax-pillar-two", "permanent-establishment"]
 keywords: ["CbCR Malaysia", "country by country reporting Malaysia", "CbCR threshold RM3 billion", "master file Malaysia transfer pricing", "P.U.(A) 357/2016"]
+framework: rules
 ---
 
 绊倒集团的那个期限不是呈报期限。是通知，而它落在**报告财政年的最后一天**——那时该年度还没结束，而且比报告本身的到期日整整早十二个月。

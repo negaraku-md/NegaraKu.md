@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "chinese-religion-in-malaysia" }
 related: ["chinese-religion-in-malaysia", "mazu-worship", "chinese-clan-associations", "chinese-new-year", "nine-emperor-gods-festival"]
 keywords: ["大伯公", "福德正神", "土地公", "伯公", "福神", "海珠屿大伯公庙", "宝福社", "请火", "Chneah Hoay", "张理", "南洋华人", "马来西亚华人信仰", "Tua Pek Kong", "Tua Pek Kong Malaysia"]
+framework: history-culture
 ---
 
 ペナンのタンジョン・トコン（丹絨道光、Tanjung Tokong）の海辺に、さほど大きくない廟が建っている。一年の大半は静かだが、元宵節のころになると様相は一変する。香擔、銅鑼と太鼓、人の列がジョージタウンから続々とやって来る。夜になると廟内の灯りとろうそくがすべて消され、人々が火鼎を囲み、息を詰めて火をあおぐ——炎がどれほど高く立ち上がるかが、来る年への一つの「予報」と見なされる。この廟こそ、多くの人にとって大伯公信仰の源とされる場所である。

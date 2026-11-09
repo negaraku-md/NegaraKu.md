@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "iskandar-malaysia-economic-corridor" }
 related: []
 keywords: ["foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "education hub", "transnational education"]
+framework: explainer
 ---
 
 Năm 1998, một sinh viên ở Kuala Lumpur có thể lấy một tấm bằng Monash của Úc mà không cần rời khỏi đất nước — và trả giá Malaysia cho nó. Sự sắp xếp duy nhất đó đã khởi động một mô hình mà đất nước đã xây dựng dựa vào kể từ đó: nhập khẩu đại học, không phải sinh viên.

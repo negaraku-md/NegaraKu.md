@@ -99,6 +99,7 @@ keywords:
   - "foreign owned company Malaysia licence"
   - "WRT paid up capital"
   - "WRT employment pass"
+framework: rules
 ---
 
 WRTライセンスを検索すると、それはRM100万の実払込資本を必要とすると、自信たっぷりに、しかも繰り返し告げられるだろう。

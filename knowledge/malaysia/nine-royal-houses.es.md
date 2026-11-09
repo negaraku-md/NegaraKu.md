@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["majlis-raja-raja", "yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["negeri beraja Malaysia", "sembilan Raja Melayu", "Sultan Raja Yang di-Pertuan Besar", "Majlis Raja-Raja", "Ketua agama Islam negeri", "Undang Yang Empat Negeri Sembilan"]
+framework: explainer
 ---
 
 Malasia tiene trece estados, pero solo nueve de ellos tienen un Gobernante reinante. Los otros cuatro estados — Melaka, Penang, Sabah y Sarawak — están encabezados por un Yang di-Pertua Negeri designado, no por un Gobernante.

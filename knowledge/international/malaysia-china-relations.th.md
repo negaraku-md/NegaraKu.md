@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "wisma-putra" }
 related: []
 keywords: ["Malaysia China relations", "largest trading partner", "South China Sea", "comprehensive strategic partnership", "1974 diplomatic relations", "Wisma Putra", "nine-dash line"]
+framework: explainer
 ---
 
 ในปี 1974 เมื่อเอเชียตะวันออกเฉียงใต้ส่วนใหญ่ยังมองปักกิ่งด้วยความหวาดระแวงในยุคสงครามเย็น นายกรัฐมนตรีมาเลเซีย ตุน อับดุล ราซัก (Tun Abdul Razak) ได้เดินทางไปจีนและจับมือกับเหมา เจ๋อตง (Mao Zedong) การเดินทางครั้งนั้นทำให้มาเลเซียเป็นประเทศอาเซียนประเทศแรกที่เปิดความสัมพันธ์ทางการทูตกับสาธารณรัฐประชาชนจีน และเป็นแม่แบบของความสัมพันธ์ที่ในปัจจุบันมีความสำคัญทางเศรษฐกิจที่สุดของมาเลเซีย และในส่วนขอบของมันก็เป็นความสัมพันธ์ที่ละเอียดอ่อนที่สุดในการบริหารจัดการ

@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-jakim" }
 related: ["hari-raya-aidilfitri"]
 keywords: ["bazar ramadan", "ramadan bazaar malaysia", "juadah berbuka puasa", "etika bulan puasa", "lesen penjaja bazar"]
+framework: explainer
 ---
 
 Setiap kali menjelang waktu Asar pada bulan Ramadan, deretan tenda putih tiba-tiba tumbuh di pinggir jalan, uap ayam percik mengepul naik di atas bara, dan aroma roti john bercampur air bandung menarik orang keluar dari rumah. Inilah bazar Ramadan — sebuah pasar musiman yang hanya ada sebulan setahun, tetapi sudah lama menjadi bagian dari irama hidup masyarakat Malaysia.

@@ -54,6 +54,7 @@ relations:
   - { rel: "related-to", to: "healthcare-for-seniors" }
 related: ["medical-insurance", "healthcare-for-seniors"]
 keywords: ["comprar medicamentos Malasia", "farmacias Malasia", "Akta Racun 1952", "medicamentos con receta", "medicamentos de venta libre", "Poisons Act 1952", "farmacéutico registrado", "venenos del Grupo B", "Quest3+", "NPRA"]
+framework: explainer
 ---
 
 Un cliente pide un jarabe para la tos en el mostrador de la farmacia y es atendido de inmediato. Otro pide antibióticos para un dolor de garganta y se le pide que muestre primero la receta de un médico. Ambas transacciones ocurren en la misma farmacia, el mismo día — la diferencia está en cómo la ley clasifica el medicamento, no en la discreción del farmacéutico.

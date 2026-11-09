@@ -61,6 +61,7 @@ relations:
   - { rel: "explained-in", to: "registering-a-birth" }
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "registering-a-birth"]
 keywords: ["having a baby in Malaysia", "pregnancy Malaysia", "antenatal care Malaysia", "Pink Book pregnancy", "Rekod Kesihatan Ibu", "klinik kesihatan pregnant", "public vs private delivery Malaysia", "birth registration JPN", "maternity Malaysia", "government hospital delivery Malaysia"]
+framework: explainer
 ---
 
 验孕结果呈阳性，会同时启动两个「时钟」，而几乎没有人事先把这一点说清楚。第一个时钟关乎怀孕本身——什么时候登记、去哪里登记、每次检查会发生什么。另一个则要等到婴儿出生后才开始，而且与医院完全无关：那是向另一个完全不同的部门办理的法定登记。

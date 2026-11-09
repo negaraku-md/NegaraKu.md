@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["EPF", "KWSP", "SOCSO", "PERKESO", "SIP", "EIS", "aportación", "jubilación", "seguro de empleo", "Akta KWSP 1991", "seguridad social"]
+framework: rules
 ---
 
 Abra su nómina y aparecen tres deducciones antes de que el primer sen llegue siquiera a su cuenta bancaria: EPF, SOCSO y EIS. Ninguna de las tres es opcional — cada una es aplicada por una ley del Parlamento distinta, y los empleadores que no las pagan pueden ir a prisión. Esta es la red de seguridad social de Malasia para los trabajadores, y cada ringgit deducido compra un tipo diferente de protección.

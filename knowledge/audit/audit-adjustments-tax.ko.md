@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "form-c-and-cp204" }
 related: ["statutory-audit-process", "audit-preparation-checklist", "form-c-and-cp204", "corporate-tax-rates", "company-tax-calendar"]
 keywords: ["audit adjustments tax Malaysia", "CP204 revision months", "section 107C(10) penalty", "under estimation of tax penalty Malaysia", "Form C audited accounts", "audited profit tax computation"]
+framework: explainer
 ---
 
 종결 회의에 있는 누구도 세금을 생각하지 않습니다. 논의는 재고 충당금, 기간

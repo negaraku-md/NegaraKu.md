@@ -77,6 +77,7 @@ keywords:
   - "London constitutional conference 1956"
   - "Alliance memorandum Reid Commission"
   - "Tunku Abdul Rahman"
+framework: profile
 ---
 
 When Britain sat down to decide whether Malaya was ready to govern itself, one of the things it said it wanted to see was evidence that the territory's different communities could work a government together. The Alliance was the vehicle that came to the table claiming to show exactly that — three parties, each organised around one community, contesting elections as a single bloc and asking, jointly, for independence.

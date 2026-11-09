@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "dta-network" }
 related: ["dta-network", "company-tax-residence", "transfer-pricing-documentation", "withholding-tax-rates"]
 keywords: ["établissement stable Malaisie", "permanent establishment Malaysia", "section 12(3) Income Tax Act", "lieu d'affaires impôt Malaisie", "salarié à distance établissement stable Malaisie", "agent dépendant PE Malaisie"]
+framework: explainer
 ---
 
 La Malaisie écrit sa règle de l'établissement stable deux fois, et les deux

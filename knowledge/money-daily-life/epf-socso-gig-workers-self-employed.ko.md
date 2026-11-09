@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "str-cash-aid" }
 related: ["i-saraan-epf-voluntary-contribution", "epf-socso-employees", "income-tax-individuals", "str-cash-aid"]
 keywords: ["i-Saraan", "i-Saraan Plus", "KWSP", "PERKESO", "Lindung Kendiri", "pekerja gig", "bekerja sendiri", "Akta Pekerja Gig 2025", "Akta 872", "SKSPS", "freelancer"]
+framework: explainer
 ---
 
 평생 차량 호출 운전을 하거나 프리랜스 일을 받으며 살다 보면, 한 가지 일은 자동으로 일어나지 않습니다: 아무도 여러분의 급여에서 KWSP나 PERKESO를 위해 공제하지 않습니다. 정규직 근로자에게 그 기여는 매달 무대 뒤에서 이루어집니다. 자영하는 여러분에게는 그 안전망이 스스로 구축하기 전까지 존재하지 않습니다 — 그리고 2026년, 그중 일부는 방금 선택 사항에서 의무로 바뀌었습니다.

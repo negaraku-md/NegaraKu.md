@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016"]
 keywords: ["MFRS 124", "pihak berkaitan", "akaun semasa pengarah", "pinjaman pengarah", "MBRS", "IAS 24", "penyata kewangan"]
+framework: explainer
 ---
 
 Trong hầu hết các Sdn Bhd gia đình tại Malaysia, tiền di chuyển vào và ra mà không mấy giấy tờ: người cha bơm tiền mặt khi dòng tiền eo hẹp, một người con lấy một khoản ứng trước cho việc cá nhân, và một công ty liên quan thanh toán hóa đơn cho công ty khác. Tất cả những thứ đó tụ lại trong một dòng lặng lẽ trên bảng cân đối — «tài khoản vãng lai của giám đốc» — và chính dòng này thường vấp phải nhất khi kiểm toán viên đến và khi báo cáo tài chính được gắn thẻ cho SSM.

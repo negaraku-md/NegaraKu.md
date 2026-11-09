@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "transfer-pricing-documentation" }
 related: ["transfer-pricing-documentation", "global-minimum-tax-pillar-two", "permanent-establishment"]
 keywords: ["CbCR Malaysia", "country by country reporting Malaysia", "CbCR threshold RM3 billion", "master file Malaysia transfer pricing", "P.U.(A) 357/2016"]
+framework: rules
 ---
 
 企業グループがつまずく期限は、提出期限ではない。通知の期限であり、それは**報告対象会計年度の最終日**——その年度がまだ終わってもいないうちに到来し、報告書自体の期限よりまるまる12か月早い。

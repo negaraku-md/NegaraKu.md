@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "chinese-religion-in-malaysia" }
 related: ["chinese-religion-in-malaysia", "mazu-worship", "chinese-clan-associations", "chinese-new-year", "nine-emperor-gods-festival"]
 keywords: ["大伯公", "福德正神", "土地公", "伯公", "福神", "海珠屿大伯公庙", "宝福社", "请火", "Chneah Hoay", "张理", "南洋华人", "马来西亚华人信仰", "Tua Pek Kong", "Tua Pek Kong Malaysia"]
+framework: history-culture
 ---
 
 Sur le rivage de Tanjung Tokong (丹絨道光), à Penang, se dresse un temple de taille modeste, silencieux la plus grande partie de l'année. Mais aux abords de la fête des Lanternes, la scène change du tout au tout : paniers de perches à encens, gongs et tambours, et longues files de gens arrivent de loin depuis George Town ; la nuit, toutes les lumières et bougies du temple sont éteintes, et une foule entoure un brasier, attisant le feu en retenant son souffle — la hauteur à laquelle jaillissent les flammes est tenue pour une « prévision » de l'année à venir. Ce temple est, dans l'esprit de beaucoup, la source du culte de Tua Pek Kong.

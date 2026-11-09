@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#SekYuen", "#BibGourmand", "#MichelinGuide", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 ادخل المحلَّ الأوسط من Sek Yuen في Jalan Pudu تظهرْ لك العقودُ — تجهيزاتٌ بالية،

@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["parliament", "federal-constitution", "gdp-overview", "sst-explained"]
 keywords: ["presupuesto federal", "Ley de Suministros", "Supply Act", "Proyecto de Ley de Suministros", "Supply Bill", "etapa de comisión del presupuesto", "ciclo presupuestario de Malasia", "Akta 850", "Dewan Rakyat"]
+framework: explainer
 ---
 
 El 31 de diciembre de 2025 se publicó en el boletín oficial la Ley de

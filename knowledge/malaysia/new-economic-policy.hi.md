@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["rukun-negara", "the-emergency", "independence-1957", "formation-of-malaysia-1963", "population-composition"]
 keywords: ["नई आर्थिक नीति", "New Economic Policy", "NEP", "Dasar Ekonomi Baru", "DEB", "Second Malaysia Plan", "समाज का पुनर्गठन", "गरीबी उन्मूलन", "राष्ट्रीय एकता", "30% बुमिपुत्र इक्विटी"]
+framework: explainer
 ---
 
 नई आर्थिक नीति को आमतौर पर एक ही शब्द से स्मरण किया जाता है — "पुनर्गठन" — और तब से उस पर बहस होती रही है। लेकिन नीति ने अपने लक्ष्य स्वयं लिखित रूप में बताए, संसद में प्रस्तुत एक सरकारी योजना में, और वे लक्ष्य दो थे, एक नहीं, जिनके ऊपर एक तीसरा विचार विराजमान था। यह लेख बताता है कि दस्तावेज़ क्या कहते हैं, उसी क्रम में जिसमें दस्तावेज़ उसे कहते हैं।

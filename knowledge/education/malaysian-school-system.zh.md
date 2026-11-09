@@ -80,6 +80,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: ashton-tan
+framework: explainer
 ---
 
 对一个在马来西亚成长的孩子来说，「上哪所学校？」这个问题所承载的意义，比在许多国家都要深。它一部分关乎距离与声誉，这一点各地皆然——但它同时也是在主要以马来语授课的国民学校，与以华文或淡米尔文授课的国民型学校之间的抉择。两者同属一个公立体制，遵循同一套国家课程，也通向相同的国家考试。理解这个体制如何环环相扣，是驾驭它的第一步。

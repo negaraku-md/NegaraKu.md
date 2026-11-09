@@ -93,6 +93,7 @@ relations:
   - { rel: "administered-by", to: "nadma-malaysia" }
 related: []
 keywords: ["persediaan banjir", "beg kecemasan", "banjir monsun", "PPS", "Bantuan Wang Ihsan", "NADMA", "amaran cuaca MetMalaysia", "tanah runtuh", "gempa bumi Sabah", "bencana"]
+framework: how-to
 ---
 
 午前2時に川の水が道路の高さまで上がってくるのは、出生証明書を探し始めたり水のボトルを満たしたりする時ではない——それは外へ出る時である。マレーシアで、あなたの家族に家を離れることを強いる可能性が最も高い災害は、大地震や台風ではなく、ほぼ毎年やってくるモンスーン洪水である。本ガイドは、洪水の前・最中・後にすべきこと、さらに土砂崩れ・ヘイズ・サバ州の地震といったその他のリスクを整理し、水が玄関に届くよりずっと前に重要な判断がすでに下されているようにするためのものである。

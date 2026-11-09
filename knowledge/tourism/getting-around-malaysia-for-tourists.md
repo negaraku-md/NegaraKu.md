@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "visiting-sabah-and-sarawak" }
 related: []
 keywords: ["getting around Malaysia", "KLIA Ekspres", "KTM ETS train", "domestic flights Malaysia", "AirBorneo", "Grab Malaysia", "Malaysia ferry", "driving in Malaysia", "Touch n Go"]
+framework: explainer
 ---
 
 You land at Kuala Lumpur International Airport at midnight, jet-lagged, and the taxi touts are already circling. The good news: Malaysia has one of the most tourist-friendly transport systems in Southeast Asia, and you can skip the hassle entirely — a fast, fixed-price airport train, a phone app that summons a metered car, and cheap domestic flights that make Borneo a weekend hop. The trick is knowing which mode to reach for, and when.

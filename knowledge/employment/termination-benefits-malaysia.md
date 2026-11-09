@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "retrenchment-malaysia" }
 related: ["termination-of-employment-malaysia", "retrenchment-malaysia", "offboarding-statutory-checklist"]
 keywords: ["termination benefits malaysia", "retrenchment benefit calculation", "TBLB regulations 1980", "severance pay malaysia", "lay off benefits malaysia", "10 15 20 days wages"]
+framework: rules
 ---
 
 Two employers retrench the same employee on the same day. One pays a month's salary and calls it generous. The other pays 20 days' wages for each of nine years — roughly six months' pay — because that is what the law requires. The difference is that the second read the Employment (Termination and Lay-Off Benefits) Regulations 1980.

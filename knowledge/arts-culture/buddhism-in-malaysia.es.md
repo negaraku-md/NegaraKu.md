@@ -69,6 +69,7 @@ faq:
     a: 'No es exacta. Los chinos son, en efecto, el grueso de los fieles, en su mayoría del budismo mahayana; pero las comunidades de origen siamés, cingalés y birmano siguen un linaje independiente y distinto: el budismo theravada, cuyos templos se llaman Wat, siendo las comunidades siamesas de los estados del norte las de historia más antigua. Existe además un vajrayana de menor tamaño. Equiparar el budismo de Malasia con la religión de los chinos ignora estas tradiciones paralelas.'
   - q: ¿Qué conmemora el Wesak? ¿Es un día festivo?
     a: El Wesak (Día de Wesak) conmemora el nacimiento, la iluminación y el paso al nirvana de Buda, y es un día festivo de ámbito nacional en Malasia. Los fieles acuden a los templos para ofrecer flores, encender lámparas y dar limosna. La libertad religiosa está protegida por el Artículo 11 de la Constitución Federal; aunque el Artículo 3 establece el islam como religión de la Federación, no impide que otras religiones se practiquen en paz.
+framework: history-culture
 ---
 
 En las laderas de Penang, la silueta de las pagodas del templo Kek Lok Si domina

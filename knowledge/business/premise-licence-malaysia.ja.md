@@ -106,6 +106,7 @@ keywords:
   - "MBPJ lesen komposit"
   - "MBSA lesen komposit"
   - "DBKK lesen berniaga"
+framework: rules
 ---
 
 あなたの施設許可は、明日にも理由なく取り消されることがあり、地方議会には説明する義務すらない。

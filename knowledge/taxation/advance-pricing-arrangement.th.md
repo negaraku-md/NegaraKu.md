@@ -113,6 +113,7 @@ relations:
   - { rel: "affects", to: "permanent-establishment" }
 related: ["transfer-pricing-documentation", "cbcr-and-master-file", "dta-network", "permanent-establishment"]
 keywords: ["advance pricing arrangement malaysia", "apa malaysia lhdn", "bilateral apa malaysia", "apa application fee malaysia", "pu a 166 2023", "apa rollback malaysia"]
+framework: how-to
 ---
 
 ที่ปรึกษาส่วนใหญ่อธิบายข้อตกลงการกำหนดราคาล่วงหน้าเป็นเหมือนเมนู — แบบฝ่ายเดียวหากคุณ

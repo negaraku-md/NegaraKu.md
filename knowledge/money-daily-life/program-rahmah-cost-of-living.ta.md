@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "inflation-cpi" }
 related: ["str-cash-aid", "fuel-subsidies", "subsidy-rationalisation-padu", "inflation-cpi"]
 keywords: ["Payung Rahmah", "Menu Rahmah", "Jualan Rahmah Madani", "PJRM", "Bakul Rahmah", "KPDN", "program kos sara hidup Malaysia", "makanan RM5", "jualan barangan keperluan murah"]
+framework: explainer
 ---
 
 பலர் உணவகத்தின் ஜன்னலிலோ அல்லது வார இறுதி விற்பனைக் கூடாரத்திலோ "RAHMAH" குடை

@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["malaysian-education-system", "enrolling-in-a-government-school", "private-and-chinese-independent-schools"]
 keywords: ["sekolah kebangsaan", "SJKC", "SJKT", "sekolah jenis kebangsaan", "शिक्षण माध्यम", "KPM", "KSSR", "मलेशिया प्राथमिक विद्यालय"]
+framework: explainer
 ---
 
 हर वर्ष, जब पंजीकरण अवधि खुलती है, पूरे मलेशिया में अभिभावक अपने बच्चे को वर्ष 1 के लिए पंजीकृत करने हेतु मलेशिया शिक्षा मंत्रालय (KPM) का idMe पोर्टल खोलते हैं। पहले जो चुनाव उन्हें करने होते हैं उनमें से एक है: SK, SJKC या SJKT?

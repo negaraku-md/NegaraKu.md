@@ -74,6 +74,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#WinnsCafe", "#Peranakan", "#Nyonya", "#Penang", "#BibGourmand"]
+framework: profile
 ---
 
 பினாங்கு நீரிணை-பிறப்பு சீனர் சமையலின் பழைய இதயநிலம்; Winn's Cafe அந்த மரபை முடிந்த

@@ -138,6 +138,7 @@ keywords:
   - "Kuala Lumpur vs Penang vs Johor business"
   - "Sabah Sarawak business setup difference"
   - "Malaysia economic corridor incentives location"
+framework: decision
 ---
 
 这个问题总是以完整的形态出现。*吉隆坡、槟城还是柔佛？* 有时还附带一份电子表格，比较办公室租金、机场连通性，以及一栏标着 *税* 的列。

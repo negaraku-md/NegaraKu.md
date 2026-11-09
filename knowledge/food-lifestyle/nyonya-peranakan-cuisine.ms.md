@@ -98,6 +98,7 @@ verificationNeeded:
   - "Asal usul nama 'kari kapitan' (satu cerita popular mengaitkannya dengan seorang Kapitan China / seorang 'kapten' yang bertanya kepada tukang masak apa makan malam) — etimologi ini bersifat anekdot dan tidak disahkan; sahkan dengan sumber sejarah kulinari."
   - "Sama ada inchi kabin (ayam goreng berempah Penang) betul-betul Nyonya, Hainan atau berasal usul kolonial bercampur — pengaitannya berbeza-beza; sahkan dengan sumber warisan atau kulinari Penang."
   - "Dakwaan tepat bahawa masakan Nyonya Penang mendapat rasa masam dan pedasnya daripada pengaruh Thai manakala masakan Melaka/Singapura lebih dipengaruhi Indonesia — kerangka serantau ini berulang dalam sumber tetapi harus disahkan terhadap kerja ilmiah seperti kajian Journal of Ethnic Foods yang dipetik."
+framework: history-culture
 ---
 
 Sudu sesudu masakan Nyonya ke dalam mangkuk dan anda merasai dua dunia sekali

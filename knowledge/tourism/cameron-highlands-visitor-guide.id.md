@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["pahang"]
 keywords: ["Cameron Highlands", "Tanah Rata", "Brinchang", "Ringlet", "BOH tea", "strawberry farm", "Orang Asli", "Semai", "hill station", "Pahang"]
+framework: profile
 ---
 
 Turun dari bus di Tanah Rata dan hal pertama yang Anda sadari adalah napas Anda sendiri — udaranya cukup sejuk sehingga sehelai jaket tidak lagi terasa janggal, meski di garis khatulistiwa. Itulah intisari Cameron Highlands: sebongkah dataran tinggi beriklim sedang yang bertumpuk di atas Malaysia tropis, tempat teh tumbuh berbaris hijau bagai korduroi di atas perbukitan dan stroberi matang dalam terowongan plastik di tepi jalan.

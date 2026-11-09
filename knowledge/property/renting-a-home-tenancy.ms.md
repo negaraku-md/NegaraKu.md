@@ -81,6 +81,7 @@ faq:
     a: 'Tidak — melangkau penyeteman tidak menjadikan penyewaan itu tidak sah antara kedua-dua pihak. Ia menyebabkan sesuatu yang lebih khusus: perjanjian yang tidak disetem atau disetem secara tidak mencukupi secara amnya tidak boleh diterima sebagai keterangan di mahkamah sehingga duti tertunggak dan sebarang penalti lewat dibayar. Perjanjian itu mesti dikemukakan untuk penyeteman dalam tempoh 30 hari selepas menandatangani di bawah Akta Setem 1949, dan menyedari jurang ini di tengah-tengah pertikaian adalah detik yang paling teruk.'
   - q: Bolehkah tuan rumah menukar kunci atau memutuskan utiliti jika penyewa enggan keluar?
     a: Tidak. Seksyen 7(2) Akta Relief Spesifik 1950 menghalang tuan rumah daripada pengusiran secara sendiri — tiada menukar kunci, memutuskan bekalan elektrik atau air, atau mengeluarkan barangan sementara penyewa masih menduduki premis. Mendapatkan semula pemilikan memerlukan perintah mahkamah. Bagi sewa tertunggak, tuan rumah memohon kepada mahkamah untuk waran sewa tahanan di bawah Akta Sewa Tahanan 1951 bagi merampas harta alih penyewa, dan bukannya berdepan dengan penyewa secara langsung.
+framework: explainer
 ---
 
 Tanya seorang tuan rumah dan seorang penyewa di Malaysia undang-undang mana yang melindungi mereka, dan kebanyakan akan meneka salah. Tiada "Akta Sewaan Kediaman" untuk dirujuk — tiada satu statut tunggal yang menetapkan tempoh notis, mengehadkan deposit, atau menyatakan dengan jelas apa yang tuan rumah boleh dan tidak boleh lakukan semasa pindah keluar.

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "equity-crowdfunding-p2p-malaysia" }
 related: ["kl20-startup-ecosystem", "securities-commission-malaysia"]
 keywords: ["capital-risque malaisie", "venture capital malaysia", "capital-investissement malaisie", "private equity malaysia", "VCC VCMC malaysia", "enregistrement SC capital-risque", "lever financement startup malaisie", "MAVCAP", "Penjana Kapital", "incitation fiscale VC malaisie"]
+framework: explainer
 ---
 
 La plupart des entreprises malaisiennes se développent grâce aux bénéfices non distribués, à un découvert bancaire ou à un prêt aux PME. Un groupe restreint mais important se développe en revanche grâce aux fonds propres d'autrui — un fonds qui achète une part de l'entreprise, la pousse à l'échelle et revend cette part des années plus tard pour un multiple. C'est ce que font le capital-risque et le capital-investissement, et la Malaisie réglemente, finance et impose cette activité d'une manière qui surprend ceux qui supposent qu'elle fonctionne comme aux États-Unis.

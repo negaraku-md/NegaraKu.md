@@ -93,6 +93,7 @@ social:
     - "gulamelaka"
     - "penangfood"
     - "malaysianfood"
+framework: explainer
 ---
 
 Vào một buổi chiều nóng nực ở Malaysia, ít thứ đáng tin cậy bằng một bát cendol: một đống đá bào bóng loáng dưới lớp nước cốt dừa, len lỏi những sợi thạch xanh mềm, và sẫm lại bởi dòng siro đường thốt nốt rưới chậm rãi. Nó rẻ, nó có mặt ở khắp nơi, và nó ngọt một cách không ngại ngần — loại tráng miệng mà bạn xếp hàng dưới nắng và ăn hết trước khi nó tan.

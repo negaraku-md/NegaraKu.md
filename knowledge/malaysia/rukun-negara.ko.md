@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["federal-constitution", "independence-1957", "formation-of-malaysia-1963", "parliament"]
 keywords: ["Rukun Negara", "lima prinsip Rukun Negara", "ikrar Rukun Negara", "Majlis Perundingan Negara", "MAGERAN", "Pengisytiharan Diraja 1970"]
+framework: history-culture
 ---
 
 말레이시아 국립문서보관소(Arkib Negara Malaysia)의 루쿤 느가라 위원회 파일 안에는 1970년 3월 19일자 편지 한 통이 있습니다. 그것은 루쿤 느가라 위원회의 첫 회의가 1970년 3월 31일 오전 10시, 말레이시아 재무부 상황실(Bilik Gerakan)에서 열린다는 것을 알립니다. 회람 명단에는 열세 명의 이름이, 그리고 사본을 받는 네 명이 더 있었습니다.

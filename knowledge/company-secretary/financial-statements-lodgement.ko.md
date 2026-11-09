@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "annual-return" }
 related: ["mbrs-2", "extension-of-time-ssm", "unaudited-financial-statements", "sdn-bhd-filing-calendar", "annual-return", "audit-exemption"]
 keywords: ["financial statements deadline Malaysia", "section 258 Companies Act 2016", "section 259 lodge financial statements", "circulate financial statements members", "6 months financial year end SSM", "30 days lodge financial statements"]
+framework: rules
 ---
 
 말레이시아의 이사에게 회계장부를 언제 SSM에 제출해야 하느냐고 물으면 두 가지 답 중 하나가 돌아옵니다. "회계연도 말로부터 6개월 후" 또는 "회계연도 말로부터 7개월 후". 둘 다 틀렸습니다. 그 질문에는 두 개의 답이 있고, 두 번째 답은 여러분이 첫 번째를 언제 했는지에 달려 있기 때문입니다.

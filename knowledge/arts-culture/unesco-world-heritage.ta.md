@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "George Town Melaka inscription criteria", "Gunung Mulu World Heritage", "Lenggong Valley Perak Man", "Niah Caves UNESCO 2024"]
+framework: data-reference
 ---
 
 மலேசியாவில் எத்தனை உலக பாரம்பரியத் தளங்கள் உள்ளன எனக் கேளுங்கள், பெரும்பாலான ஆதாரங்கள் நான்கு எனச் சொல்லும். அது 2024 வரை உண்மையாக இருந்தது. Niah குகைத் தொகுதி அந்த ஆண்டு ஜூலையில் சேர்க்கப்பட்டது, மேலும் Forest Research Institute Malaysia Forest Park Selangor 2025-ல் அதைத் தொடர்ந்தது — இதனால் மொத்தம் ஆறாக உயர்ந்தது.

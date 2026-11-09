@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#SekYuen", "#BibGourmand", "#MichelinGuide", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 ก้าวเข้าไปในคูหากลางของ Sek Yuen บน Jalan Pudu แล้วหลายทศวรรษก็ปรากฏให้เห็น —

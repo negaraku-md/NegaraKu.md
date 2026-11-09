@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "sabah-visitor-guide" }
 related: ["sabah-visitor-guide"]
 keywords: ["Sarawak travel", "Sarawak immigration", "Kuching guide", "Gunung Mulu National Park", "Iban longhouse", "Bidayuh longhouse", "Sarawak entry pass", "Borneo travel"]
+framework: explainer
 ---
 
 Anda boleh terbang dari Kuala Lumpur ke Kuching dalam masa kurang dua jam, tidak pernah meninggalkan negara anda sendiri, namun masih dicop melalui imigresen di hujung sana. Kejutan di dewan ketibaan itulah perkara paling penting yang perlu difahami tentang Sarawak: ia sebuah negeri Malaysia yang mengendalikan sempadannya sendiri.

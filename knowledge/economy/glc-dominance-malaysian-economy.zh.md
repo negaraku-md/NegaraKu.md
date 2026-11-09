@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "epf-kwsp-retirement-savings" }
 related: []
 keywords: ["GLC", "GLIC", "Khazanah", "government-linked companies", "Bursa Malaysia", "PERKUKUH", "state ownership", "Malaysian economy"]
+framework: explainer
 ---
 
 在马来西亚交易所（Bursa Malaysia）几乎买入任何一只蓝筹股，你其实都在间接地与马来西亚政府做生意。国家电网、最大的银行、老牌电信运营商，以及世界上最大的棕榈油集团之一，最终都共享同一批终极所有者：一小群国家投资基金，它们合计操控着约四分之一的整个本地股市。

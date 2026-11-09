@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: []
 keywords: ["franchise registration malaysia", "franchise act 1998", "MyFEX 2.0", "franchisor registration", "franchisee registration", "franchise disclosure document", "section 6 franchise act", "section 54 approval"]
+framework: how-to
 ---
 
 உலகின் பெரும்பாலான இடங்களில் நீங்கள் செய்வதுபோல — முதலில் அமைதியாக ஒரு சில கடைகளைப் பதிவு செய்துவிட்டு, பின்னர் விஷயங்களை முறைப்படுத்துவது — அப்படி மலேசியாவில் ஒரு உரிமையத்தைச் சட்டப்பூர்வமாக வழங்க முடியாது. சட்டம் அந்த வரிசையைத் தலைகீழாக்குகிறது. முதல் வாய்ப்பை வழங்குவதற்கு முன்பே பதிவு வருகிறது, மேலும் 2022 முதல் அது உரிமைபெறுநர்களுக்கும் பொருந்துகிறது.

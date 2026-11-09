@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "chinese-religion-in-malaysia" }
 related: ["chinese-religion-in-malaysia", "mazu-worship", "chinese-clan-associations", "chinese-new-year", "nine-emperor-gods-festival"]
 keywords: ["大伯公", "福德正神", "土地公", "伯公", "福神", "海珠屿大伯公庙", "宝福社", "请火", "Chneah Hoay", "张理", "南洋华人", "马来西亚华人信仰", "Tua Pek Kong", "Tua Pek Kong Malaysia"]
+framework: history-culture
 ---
 
 Di tepi laut di Tanjung Tokong (丹絨道光) di Penang berdiri sebuah kelenteng yang tidak seberapa besar, sunyi hampir sepanjang tahun. Namun menjelang Festival Lampion, suasananya berubah sama sekali: keranjang pikulan dupa, gong dan gendang, serta barisan panjang orang datang jauh-jauh dari George Town; pada malam hari setiap lampu dan lilin di dalam kelenteng dipadamkan, dan sekelompok orang mengerumuni tungku bara, menahan napas sambil mengipasi api — seberapa tinggi nyala api melonjak dipandang sebagai sebuah "ramalan" untuk tahun mendatang. Kelenteng inilah, dalam benak banyak orang, mata air pemujaan Tua Pek Kong.

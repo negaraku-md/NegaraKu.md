@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["batik", "wayang-kulit"]
 keywords: ["songket", "tenunan songket", "kek tenun", "benang emas", "songket Terengganu", "songket Kelantan"]
+framework: history-culture
 ---
 
 ソンケット（songket、手織りの金襴）の工房でもっともよく聞こえるのは、機械の音ではない。木が押される音、糸が引かれる音、そして一本の竹ひごが差し込まれては引き抜かれる音——それが何度も何度も、一日中、一行ずつ模様を進めながら繰り返される。

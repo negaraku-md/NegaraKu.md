@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "christmas-malaysia" }
 related: ["peranakan", "unesco-world-heritage", "christmas-malaysia"]
 keywords: ["Kristang", "Papia Kristang", "Perkampungan Portugis Melaka", "Eurasia Malaysia", "Intrudu", "branyo"]
+framework: history-culture
 ---
 
 En Ujong Pasir, Melaka, hay un asentamiento costero donde la gente se saluda en una lengua que no es ni malayo, ni inglés, ni siquiera portugués moderno — sino el vestigio vivo de la lengua de los conquistadores que llegaron hace cinco siglos. Este es el mundo de la comunidad kristang.

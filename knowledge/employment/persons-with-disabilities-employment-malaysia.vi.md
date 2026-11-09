@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["employment-act-1955", "socso-perkeso"]
 keywords: ["OKU", "orang kurang upaya", "Akta 685", "Seksyen 29", "kuota 1%", "Kad OKU", "potongan cukai berganda", "pekerjaan inklusif"]
+framework: explainer
 ---
 
 Nhiều OKU (người khuyết tật) đủ năng lực tại Malaysia đối mặt với một khoảng cách thực sự trong việc có được cơ hội việc làm và phỏng vấn — và đó là khoảng cách mà luật cố gắng lấp lại. Malaysia đã có một khuôn khổ quyền việc làm cho người khuyết tật (OKU) từ năm 2008, cộng thêm các ưu đãi thuế cho người sử dụng lao động, nhưng con số tuyển dụng vẫn dưới mục tiêu. Hướng dẫn này giải thích điều luật thực sự yêu cầu, và điều người sử dụng lao động có thể đòi.

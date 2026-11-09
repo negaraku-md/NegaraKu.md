@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "representative-regional-office-malaysia" }
 related: ["mida"]
 keywords: ["principal hub malaysia", "global services hub malaysia", "regional headquarters malaysia", "MIDA principal hub incentive", "GSH tax incentive malaysia", "headquarters incentive malaysia"]
+framework: explainer
 ---
 
 บริษัทข้ามชาติไม่ได้ตั้งสำนักงานใหญ่ระดับภูมิภาคที่ใดก็ได้ — พวกเขาตามสิทธิประโยชน์ เป็นเวลาหลายปีที่ข้อเสนอของมาเลเซียต่อบริษัทที่กำลังตัดสินใจว่าจะตั้งฐานการจัดการระดับภูมิภาค การเงิน และการดำเนินงานบริการร่วมที่ใดคือสิทธิประโยชน์ **Principal Hub** โครงการนั้นปิดตัวลงแล้ว และคำแนะนำจำนวนมากบนออนไลน์ยังตามไม่ทัน หากคุณกำลังศึกษามาเลเซียเป็นฐานการดำเนินงานในวันนี้ เส้นทางที่มีอยู่จริงคือ **Global Services Hub**

@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["batik", "borneo-indigenous-languages"]
 keywords: ["masakan Peranakan Nyonya", "masakan pantai timur Kelantan Terengganu", "masakan Sarawak Sabah", "masakan Mamak nasi kandar", "kari debal Kristang", "budaya sarapan Malaysia UNESCO"]
+framework: explainer
 ---
 
 ถามชาวมาเลเซียสิบคนว่า "อาหารมาเลเซีย" คืออะไร แล้วคุณอาจได้แผนที่สิบแบบที่แตกต่างกัน คนหนึ่งจากโกตาบารู (Kota Bharu) จะเริ่มด้วยนาซีเกอราบูสีน้ำเงินและบูดู คนหนึ่งจากกูจิง (Kuching) จะพูดถึงลักซาซาราวักและโกโลหมี่ (kolo mee) คนหนึ่งจากมะละกาอาจพูดถึงอายัมปงเต๊ะ (ayam pongteh) นอนยาหรือการีเดอบัล[คริสตัง](/arts-culture/kristang-eurasian-culture) และอีกคนหนึ่งจะชี้ตรงไปยังแผงมามักที่หัวถนน ไม่มีใครในนั้นผิด มาเลเซียไม่มีอาหารประจำชาติเพียงหนึ่งเดียว มันมีครอบครัวของครัวที่เติบโตในภูมิภาคและชุมชนต่างกัน แล้วใช้เวลาหลายศตวรรษหยิบยืมกันและกัน

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "royal-malaysia-police" }
 related: []
 keywords: ["agensi keselamatan swasta", "lesen agensi persendirian", "polis bantuan", "Akta Agensi Persendirian 1971", "pengawal keselamatan Malaysia", "KDN eSIMS", "kawasan berpagar"]
+framework: profile
 ---
 
 Ở hầu hết các khu dân cư có cổng rào, nhà máy và trung tâm mua sắm tại Malaysia, người đầu tiên bạn gặp không phải là cảnh sát — mà là một nhân viên bảo vệ tư nhân. Ngành này hoạt động sát cạnh hoạt động thực thi pháp luật công, nhưng vận hành trên một khung pháp lý hoàn toàn khác, và sự nhầm lẫn về việc ai được làm gì có thể gây rủi ro pháp lý cho doanh nghiệp thuê họ.

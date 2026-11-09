@@ -86,6 +86,7 @@ relations:
   - { rel: "compares-with", to: "sme-financing-malaysia" }
 related: ["sme-financing-malaysia", "share-capital-malaysia", "shareholders-agreement-malaysia"]
 keywords: ["equity crowdfunding malaysia", "p2p financing malaysia", "ecf malaysia", "sc recognized market operator", "raise funds sme malaysia", "invoice financing p2p malaysia", "startup funding malaysia"]
+framework: decision
 ---
 
 SME มาเลเซียที่ถูกธนาคารสามแห่งปฏิเสธเพราะขาดหลักประกันมีประตูที่กำกับที่สอง และเจ้าของส่วนใหญ่ไม่รู้ว่ามันเป็นประตูที่กำกับเลย Equity crowdfunding และ peer-to-peer financing ไม่ใช่ทางเลี่ยงแบบไม่เป็นทางการ — พวกมันดำเนินการบนแพลตฟอร์มที่จดทะเบียนกับคณะกรรมการกำกับหลักทรัพย์ ภายใต้กฎที่กำหนดว่าใครระดมทุนได้ เท่าใด และจากใคร

@@ -109,6 +109,7 @@ relations:
   - { rel: "compares-with", to: "epf-employer-guide" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "pcb-mtd-malaysia"]
 keywords: ["SOCSO contribution rate Malaysia", "EIS rate employer", "PERKESO wage ceiling RM6000", "SOCSO Category 1 Category 2", "LINDUNG 24 Jam SKBBK"]
+framework: rules
 ---
 
 Avant de consulter un taux du SOCSO, consultez le plafond auquel il s'applique. C'est là qu'échoue la plupart du contenu de paie malaisien publié, et il échoue en silence — un pourcentage correct appliqué à un plafond périmé produit un chiffre d'apparence plausible qui est tout simplement trop petit.

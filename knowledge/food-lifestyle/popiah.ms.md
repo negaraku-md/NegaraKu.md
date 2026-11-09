@@ -93,6 +93,7 @@ verificationNeeded:
   - "Etimologi nama itu (薄餅 / 'poh piah'), yang diertikan sebagai 'kuih nipis', 'wafer nipis' atau 'roti leper nipis' — sahkan dengan sumber leksikografi atau linguistik."
   - "Sama ada popiah Nyonya (Peranakan) paling baik digambarkan sebagai tradisi serantau yang tersendiri atau sebagai hidangan Hokkien yang sama yang diterima pakai oleh keluarga Cina Peranakan — sumber semasa menyebutnya 'warisan Peranakan' tanpa menyelesaikan persoalan ini."
   - "Perbezaan gaya Pulau Pinang berbanding Melaka yang digambarkan di sini (gulungan Pulau Pinang yang lebih basah dilembapkan dengan air sengkuang; gulungan Melaka yang disudahi dengan sos manis bergula melaka) sebahagian besarnya bersandar pada akhbar tempatan dan blog makanan — sahkan dengan sumber masakan warisan atau serantau."
+framework: explainer
 ---
 
 Minta spring roll di Malaysia dan anda mungkin mendapat salah satu daripada dua

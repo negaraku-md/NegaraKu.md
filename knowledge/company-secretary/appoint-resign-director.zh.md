@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "register-of-directors" }
 related: ["register-of-directors", "directors-duties", "remove-a-director", "director-shareholding-notification", "statutory-registers"]
 keywords: ["appoint director Malaysia", "resign as director Sdn Bhd", "section 196 Companies Act 2016", "section 208 vacation of office", "consent to act as director Malaysia", "letak jawatan pengarah syarikat", "minimum number of directors Malaysia"]
+framework: rules
 ---
 
 一家两人 Sdn Bhd 的董事与共同股东闹翻，签了一封辞职信，递交出去，转身走人。十八个月后，

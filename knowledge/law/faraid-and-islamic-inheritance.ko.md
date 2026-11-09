@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "syariah-courts-malaysia" }
 related: []
 keywords: ["faraid", "harta pusaka", "pusaka islam", "waris", "mahkamah syariah", "baitulmal", "akta pembahagian 1958", "pusaka kecil"]
+framework: explainer
 ---
 
 말레이시아에서 무슬림이 사망하면 그의 재산이 반드시 가장 가까운 상속인이나 가장 필요로 하는 상속인에게 돌아가는 것은 아닙니다 — 그것은 샤리아(Syarak)가 정한 고정 비율에 따라 분배됩니다. 이 제도가 바로 **파라이드(Faraid)**로 알려진 것이며, 모든 상속인이 다른 방식에 합의하지 않는 한 무슬림 상속 재산의 기본 방식이 됩니다.

@@ -105,6 +105,7 @@ keywords:
   - "section 236 Companies Act 2016"
   - "do I need a company secretary"
   - "company secretary requirements Malaysia"
+framework: explainer
 ---
 
 マレーシアの会社秘書役について書かれたもののほとんどは、会社秘書役自身によって書かれている。

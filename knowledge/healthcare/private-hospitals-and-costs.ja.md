@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "sst-expansion-2025" }
 related: ["sst-expansion-2025"]
 keywords: ["private hospital Malaysia", "private hospital bill", "specialist consultation fee Malaysia", "guarantee letter hospital", "hospital deposit Malaysia", "itemised bill private hospital", "Act 586", "National Specialist Register", "private healthcare costs Malaysia"]
+framework: explainer
 ---
 
 ある処置を受けるために入院し、退院するときには、まるで二枚の請求書がホチキス留めされているかのような感覚を味わう。一枚は執刀医から、もう一枚は病院からのものだ。両者の金額はめったに一致せず、そもそもなぜ別々になっているのかを説明してくれる人はほとんどいない。

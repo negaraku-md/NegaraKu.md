@@ -77,6 +77,7 @@ related:
   - "apam-balik"
 social:
   hashtags: ["#RavisApomManis", "#ApomManis", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 في Jalan Burma بـ George Town، يحمل كشكٌ ظلّ يقلي الفطائر الحلوة قرابة قرن الآن

@@ -63,6 +63,7 @@ relations:
   - { rel: "part-of", to: "settling-in" }
 related: ["moving-to-malaysia-first-steps", "dependant-social-visit-passes"]
 keywords: ["bringing pets to Malaysia", "MAQIS import permit", "DVS pet import rules", "dog cat quarantine Malaysia", "restricted dog breeds Malaysia", "ISO microchip pet import"]
+framework: how-to
 ---
 
 เที่ยวบินของคุณจองแล้ว กล่องของคุณแพ็คแล้ว จากนั้นคุณก็นึกขึ้นได้: แล้วสุนัขล่ะ ในมาเลเซีย สัตว์เลี้ยงไม่ได้แค่โดยสารไปในห้องเก็บสัมภาระ — มันต้องมีใบอนุญาตที่ได้รับอนุมัติก่อนที่มันจะออกจากพื้น ไมโครชิปที่ตรงตามมาตรฐาน ISO เฉพาะ และค่อนข้างเป็นไปได้ว่าต้องกักกันหนึ่งสัปดาห์หรือมากกว่านั้นก่อนที่คุณจะได้มันคืน

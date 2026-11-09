@@ -97,6 +97,7 @@ social:
     - "#PenangFood"
     - "#MalaysianFood"
     - "#StreetFood"
+framework: explainer
 ---
 
 Peu d'assiettes résument aussi complètement la cuisine de rue malaisienne que le

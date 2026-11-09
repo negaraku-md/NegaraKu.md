@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "consumer-rights-and-tribunal" }
 related: ["opening-bank-account", "duitnow-qr-payments", "consumer-rights-and-tribunal"]
 keywords: ["999 Malaysia emergency number", "997 NSRC hotline", "National Scam Response Centre", "Macau scam Malaysia", "Semak Mule CCID", "Cyber999 MyCERT", "how to report a scam Malaysia", "phone scam Malaysia", "APK scam parcel"]
+framework: explainer
 ---
 
 전화한 사람이 이미 당신의 이름과 MyKad 번호를 압니다. 그는 자신이 경찰, 또는 중앙은행, 또는 법원에서 왔다고 — 그리고 당신의 계좌가 수사 중인 자금세탁 사건과 연결되어 있다고 말합니다. 결백을 증명할 유일한 방법은, 그들이 확인하는 동안 당신의 저축을 '안전 계좌'로 옮기는 것이라고 그는 말합니다. 글로 적어 놓으면 터무니없게 들립니다. 전화상으로, 진짜 사건 번호와 결코 높아지지 않는 목소리와 함께라면, 그렇지 않습니다.

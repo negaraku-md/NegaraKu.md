@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "iskandar-malaysia-economic-corridor" }
 related: []
 keywords: ["foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "education hub", "transnational education"]
+framework: explainer
 ---
 
 En 1998, un estudiante en Kuala Lumpur podía obtener un título australiano de Monash sin salir del país, y pagar por él precios malasios. Ese único acuerdo puso en marcha un modelo sobre el que el país ha estado construyendo desde entonces: importar la universidad, no al estudiante.

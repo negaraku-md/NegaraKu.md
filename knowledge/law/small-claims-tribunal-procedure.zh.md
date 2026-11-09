@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "consumer-protection-act-1999" }
 related: ["court-hierarchy"]
 keywords: ["tuntutan kecil", "small claims", "mahkamah majistret", "aturan 93", "borang 198", "saman hutang", "tanpa peguam"]
+framework: how-to
 ---
 
 有人欠你 RM3,000，拒绝清还，并且对每一通电话置之不理。聘请律师所花费的钱，可能比债务本身还要多。这正是**小额索偿**程序存在的原因：一条专门设计的途径，让普通人能够将小额纠纷带上法庭——独自一人、费用低廉、无需律师袍。

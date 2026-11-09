@@ -89,6 +89,7 @@ relations:
   - { rel: "explained-in", to: "capital-or-revenue" }
 related: ["capital-or-revenue", "rpgt-rates", "corporate-tax-rates", "income-tax-act-1967"]
 keywords: ["capital gains tax Malaysia", "CGT unlisted shares", "cukai keuntungan modal", "e-CKM", "section 15C", "2% gross disposal price"]
+framework: explainer
 ---
 
 57년 동안 말레이시아는 소득에 과세하고 자본은 그대로 두었습니다. 그것이 2024년 1월 1일에 끝났고, 그 오랜 확실성을 대체한 세금은 여전히 이 제도에서 가장 문서화가 부족한 부과입니다 — 모든 매도인이 가장 먼저 묻는 하나의 질문, 즉 10%를 낼지 2%를 낼지에 관해서도 그렇습니다.

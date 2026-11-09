@@ -69,6 +69,7 @@ faq:
     a: Không. Bài viết nêu rõ rằng việc cải cách SST trên diện rộng và các biện pháp hóa đơn điện tử mới là những dự báo trước ngân sách của các nhà phân tích, chứ không phải các thông báo trong bài phát biểu ngày 9 tháng 10 năm 2026. Cần coi đó là kỳ vọng chứ không phải chính sách, cho đến khi chính phủ nói khác đi. Những thay đổi thuế thực sự của ngân sách tập trung vào việc giảm một điểm phần trăm thuế thu nhập đối với người cư trú và doanh nghiệp vừa và nhỏ (SME), cùng việc nâng mức miễn trừ chung từ 9.000 RM lên 12.000 RM.
   - q: Theo Ngân sách 2027, việc mở tài khoản tiết kiệm hoặc tài khoản vãng lai được miễn thuế tem từ khi nào?
     a: Kể từ ngày 1 tháng 1 năm 2027, việc mở tài khoản tiết kiệm hoặc tài khoản vãng lai được miễn hoàn toàn thuế tem. Cùng ngày đó cũng áp dụng việc giảm thuế dịch vụ đối với dịch vụ chăm sóc người cao tuổi từ 8% xuống 6%, và bắt đầu quyền làm việc của vợ/chồng là người nước ngoài giữ thẻ phụ thuộc (dependant pass). Những ngày này đúng như đã công bố ngày 9 tháng 10 năm 2026 và chỉ có hiệu lực khi luật và các lệnh công báo liên quan được thông qua.
+framework: explainer
 ---
 
 Vào ngày 9 tháng 10 năm 2026, Thủ tướng kiêm Bộ trưởng Tài chính Anwar Ibrahim

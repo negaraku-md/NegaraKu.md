@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-vs-tax-invoice" }
 related: ["myinvois-phases", "myinvois-integration", "e-invoice-data-fields", "consolidated-e-invoice", "self-billed-e-invoice", "e-invoice-vs-tax-invoice", "e-invoice-accounting-records"]
 keywords: ["facture électronique Malaisie", "MyInvois", "e-invois LHDN", "phases facturation électronique Malaisie", "validation MyInvois"]
+framework: journey-hub
 ---
 
 Autrefois, une facture était valable parce que vous l'émettiez. Sous le mandat de

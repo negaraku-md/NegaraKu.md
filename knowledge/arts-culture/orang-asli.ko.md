@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["population-composition", "languages-spoken", "federal-constitution"]
 keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Proto", "18 suku kaum", "JAKOA", "Akta Orang Asli 1954", "Akta 134"]
+framework: explainer
 ---
 
 말레이시아라는 이름이 지도에 있기 훨씬 전부터, 반도의 숲과 고지대와 해안에 살던 사람들이 있었습니다. 오늘날 그들은 통틀어 오랑 아슬리(Orang Asli)로 불리는데 — '본래의 사람' 또는 '원주민'을 뜻하는 말레이어 표현입니다.

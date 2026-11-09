@@ -72,6 +72,7 @@ relations:
   - { rel: "affects", to: "audit-opinion-types" }
 related: ["statutory-audit-process", "audit-opinion-types", "emphasis-of-matter-kam", "audit-preparation-checklist"]
 keywords: ["الاستمرارية مراجعة ماليزيا", "عدم التيقّن الجوهري المتعلق بالاستمرارية", "going concern Malaysia audit", "material uncertainty related to going concern", "ISA 570 Malaysia", "management representation letter"]
+framework: explainer
 ---
 
 يُوقَّع مستندان في نهاية مراجعة ماليزية دون أن يُقرَآ: تقييم الاستمرارية وخطاب

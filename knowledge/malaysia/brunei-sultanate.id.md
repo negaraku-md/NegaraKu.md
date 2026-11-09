@@ -59,6 +59,7 @@ keywords: ["Brunei Sultanate", "Sultan Bolkiah", "Borneo empire", "Sarawak cessi
 social:
   hashtags: ["BruneiSultanate", "BorneoHistory", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded: []
+framework: history-culture
 ---
 
 Berdirilah di tepi air di Bandar Seri Begawan hari ini dan Brunei tampak kecil: sebuah kesultanan kaya minyak yang membalut dua keping tipis pesisir Borneo, cukup dekat untuk diseberangi dengan berkendara dalam satu sore. Mudah untuk lupa bahwa inilah serpihan yang masih bertahan dari sebuah kekaisaran — bahwa lima abad lalu seorang Sultan Brunei dapat menuntut upeti dari pelabuhan-pelabuhan yang berjejer di sepanjang sebagian besar pesisir utara dan barat pulau itu, dan bahwa dua negeri Malaysia yang dapat Anda capai dari sini dengan jalan darat, Sarawak dan Sabah, dahulu adalah miliknya untuk dianugerahkan. Kisah bagaimana sebuah kerajaan-laut Borneo bangkit, mencapai puncaknya, lalu menyerahkan pesisir-pesisir itu sepotong demi sepotong adalah salah satu benang mendasar sejarah Malaysia — sekalipun Brunei sendiri tidak pernah menjadi bagian dari Malaysia.

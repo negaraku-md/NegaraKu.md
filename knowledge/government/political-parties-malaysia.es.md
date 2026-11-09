@@ -85,6 +85,7 @@ relations:
   - { rel: "governs", to: "political-parties-malaysia" }
 related: ["how-elections-work", "spr-election-commission", "dewan-rakyat", "parliament", "yang-di-pertuan-agong"]
 keywords: ["parti politik Malaysia", "Akta Pertubuhan 1966", "Pendaftar Pertubuhan", "Registrar of Societies", "ROS", "Barisan Nasional", "Pakatan Harapan", "Perikatan Nasional", "GPS", "kerajaan perpaduan", "PRU15", "gabungan politik", "partidos políticos Malasia"]
+framework: explainer
 ---
 
 En Malasia, un partido político no comienza dentro del Parlamento ni en un escenario de

@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#NamHeong", "#ChickenRice", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Trên Jalan Sultan, giữa lòng khu phố cổ Kuala Lumpur, một đĩa gà luộc trên nền cơm

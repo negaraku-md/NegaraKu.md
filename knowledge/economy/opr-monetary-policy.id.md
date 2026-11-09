@@ -66,6 +66,7 @@ faq:
     a: 'Keduanya bergerak ke arah yang sama, tetapi tidak simetris. Artikel ini menyoroti ketidaksimetrisan yang perlu diketahui: suku bunga pinjaman cenderung naik dengan cepat dan turun dengan lambat, sedangkan suku bunga simpanan cenderung sebaliknya, menyesuaikan harga lebih lambat dan tidak sepenuhnya dibandingkan pinjaman. Artikel ini menggambarkannya sebagai realitas komersial dari margin bank, bukan sebuah aturan.'
   - q: Apakah keputusan OPR 'tanpa perubahan' berarti Komite Kebijakan Moneter tidak melakukan apa-apa?
     a: Tidak — keputusan untuk mempertahankan tetaplah sebuah keputusan. Komite Kebijakan Moneter bersidang enam kali setahun sesuai jadwal yang dipublikasikan, dan rentetan panjang keputusan tanpa perubahan mencerminkan penilaian bahwa inflasi cukup terkendali sehingga tidak memerlukan pengetatan dan pertumbuhan cukup kuat sehingga tidak memerlukan dukungan. Pernyataan yang menyertainya biasanya memberi sinyal kecenderungan komite.
+framework: explainer
 ---
 
 ## Sekilas pandang

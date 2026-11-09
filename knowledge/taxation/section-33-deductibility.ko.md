@@ -119,6 +119,7 @@ relations:
   - { rel: "related-to", to: "entertainment-expenses" }
 related: ["losses-and-group-relief", "form-c-and-cp204", "withholding-tax-non-compliance"]
 keywords: ["section 33 income tax act", "wholly and exclusively malaysia", "allowable business expenses malaysia", "tax deductible expenses sdn bhd", "section 33(1) deduction", "lhdn disallowed expenses"]
+framework: explainer
 ---
 
 말레이시아 사업 공제에 관한 모든 안내는 목록을 게시합니다. 임차료, 예. 급여, 예. 접대비, 절반. 그 목록은 목록에 없는 비용이 도착하는 날까지는 괜찮습니다 — 의무에서 벗어나기 위해 주 정부에 하는 지급, 결코 일어나지 않은 프로젝트의 타당성 조사, 회사가 전가하지 않고 흡수한 서비스세 — 그러면 그 목록은 아무 가치가 없습니다. 목록이 애초에 법이 아니었기 때문입니다.

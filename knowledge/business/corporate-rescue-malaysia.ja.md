@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "debt-recovery-malaysia" }
 related: ["close-a-company", "creditors-voluntary-winding-up", "members-voluntary-winding-up", "strike-off-company-malaysia", "company-director-requirements"]
 keywords: ["corporate rescue malaysia", "judicial management malaysia", "scheme of arrangement section 366", "corporate voluntary arrangement", "restraining order section 368", "companies amendment act 2024 rescue"]
+framework: decision
 ---
 
 マレーシアのビジネス関連コンテンツのほとんどに、債務を支払えなくなった会社をどうすべきか尋ねれば、返ってくる答えは一つだけである——閉鎖せよ、というものだ。Companies Act 2016は、もう一つの答えのために一つのDivision全体を設けており、Act A1701はその大部分を作り直した。そのほぼすべてが、創業者が実際に読むページには届いていない。

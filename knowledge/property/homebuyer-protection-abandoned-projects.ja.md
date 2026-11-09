@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "sale-and-purchase-agreement-property" }
 related: []
 keywords: ["HDA", "Akta 118", "APDL", "lesen pemaju", "Tribunal Tuntutan Pembeli Rumah", "projek terbengkalai", "SPNB", "KPKT", "perlindungan pembeli rumah"]
+framework: explainer
 ---
 
 あなたは手付金を支払い、売買契約（SPA）に署名し、家の鍵を待っている——ところが建設現場は何か月も静まり返ったままだ。半島マレーシアで新築住宅を購入する人にとって、法律は実際、こうした事態が起こる前、その最中、そしてその後に、いくつかの層の保護を用意している。肝心なのは、何が保護されているのか、そして問題が起きたときにどこへ向かえばよいのかを知っておくことである。

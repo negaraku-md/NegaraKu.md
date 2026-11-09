@@ -111,6 +111,7 @@ relations:
   - { rel: "compares-with", to: "stamp-duty-self-assessment" }
 related: ["tax-audit", "tax-penalties", "tax-clearance", "stamp-duty-self-assessment", "rpgt-rates"]
 keywords: ["tax appeal Malaysia", "Form Q LHDN", "borang Q rayuan", "Special Commissioners of Income Tax", "Pesuruhjaya Khas Cukai Pendapatan", "section 99 Income Tax Act", "Form N extension of time", "Prosiding Resolusi Pertikaian"]
+framework: how-to
 ---
 
 ข้อเท็จจริงเดียวที่ตัดสินการอุทธรณ์ภาษีของมาเลเซียส่วนใหญ่ไม่ได้อยู่ในบทบัญญัติการอุทธรณ์เลย มันอยู่ใน **s.103(1)** แห่งพระราชบัญญัติภาษีเงินได้ (Income Tax Act 1967): ภาษีตามการประเมินถึงกำหนดชำระในวันที่กำหนด **ไม่ว่าบุคคลนั้นจะอุทธรณ์การประเมินหรือไม่** Section 103(2) กล่าวซ้ำสำหรับการประเมินจากการตรวจสอบ การประเมินตามดุลพินิจ และการประเมินที่เพิ่มขึ้น และ **s.106(3)** ปิดวงจร — ในกระบวนการเรียกเก็บ ศาล **จะไม่รับฟังการต่อสู้ใด** ว่าจำนวนสูงเกินไป ประเมินไม่ถูกต้อง หรือ *อยู่ระหว่างการอุทธรณ์*

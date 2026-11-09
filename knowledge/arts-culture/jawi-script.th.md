@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: ["bahasa-melayu", "melaka-sultanate", "article-3-religion"]
 keywords: ["tulisan Jawi", "aksara Arab Melayu", "Batu Bersurat Terengganu", "sejarah tulisan Jawi", "seni khat", "ejaan Jawi", "Seksyen 9 Akta Bahasa Kebangsaan"]
+framework: history-culture
 ---
 
 บนจารึกหินก้อนหนึ่งที่พบในตรังกานู มีคำมลายูสลักอยู่ — ไม่ใช่ในอักษรที่เราใช้ในปัจจุบัน แต่ในอักษรอาหรับที่ปรับให้เข้ากับเสียงของภาษามลายู จารึกนั้น คือศิลาจารึกตรังกานู (Batu Bersurat Terengganu) มีอายุ 702 ฮิจเราะฮ์ ซึ่งโดยทั่วไปตรงกับปี ค.ศ. 1303

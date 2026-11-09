@@ -88,6 +88,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage", "minimum-wage-malaysia"]
 keywords: ["overtime pay malaysia", "overtime rate malaysia", "45 hour week malaysia", "rest day pay malaysia", "public holiday pay malaysia", "104 hours overtime"]
+framework: rules
 ---
 
 多くの時間外労働ガイドは「通常1.5倍、休息日2倍、祝日3倍」で止まっている。この簡略化は休息日と祝日の部分で誤っており、しかも労働監督官が実際に是正通知を出す対象——**支払期限**——を見落としている。

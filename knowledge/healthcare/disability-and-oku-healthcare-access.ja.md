@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "public-healthcare-system" }
 related: []
 keywords: ["OKU", "kad OKU", "penjagaan kesihatan OKU", "PDK", "pemulihan dalam komuniti", "alat bantuan", "JKM", "KKM", "EPOKU", "BTB"]
+framework: explainer
 ---
 
 一枚のプラスチックカードが、自閉症の子どもが早期療育を受けられるかどうか、あるいは脚を失った大人が義足を手にできるかどうかを左右する。マレーシアでは、このOKUカードこそが、障害者（Orang Kurang Upaya、OKU）のために設計されたほぼすべてのサービスと援助への入り口であり——その仕組みを理解することが、時間、費用、そして治療の遅れを防ぐことにつながる。

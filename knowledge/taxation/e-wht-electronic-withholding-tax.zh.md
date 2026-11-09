@@ -80,6 +80,7 @@ social:
     - MyTax
     - DoingBusinessInMalaysia
     - MalaysiaCompliance
+framework: how-to
 ---
 
 多年来，缴付预扣税意味着一张纸本CP37表格、一张支票或银行缴款单，以及跑一趟LHDN柜台——或电邮一堆扫描文件——然后等待付款与您的账户对账。整套仪式如今已移到线上。**e-WHT**是LHDN在**MyTax**门户内填写预扣税表格并缴税的电子渠道，对于它所涵盖的表格，如今这是规定的途径，而非可选的便利。

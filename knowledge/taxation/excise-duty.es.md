@@ -118,6 +118,7 @@ relations:
   - { rel: "related-to", to: "import-duty" }
 related: ["sales-and-service-tax"]
 keywords: ["duti eksais", "excise duty", "Akta Eksais 1976", "cukai kereta", "duti eksais rokok", "cukai gula", "minuman bergula", "JKDM", "kastam"]
+framework: explainer
 ---
 
 Compra un coche en Malasia y podrías terminar pagando un impuesto que casi iguala el precio del propio coche. El principal culpable es un impuesto del que rara vez se habla pero que es sumamente poderoso: el **impuesto especial**.

@@ -78,6 +78,7 @@ social:
     - SdnBhd
     - VentureCapital
     - MalaysiaCompanyLaw
+framework: explainer
 ---
 
 Deux personnes constituent une Sdn Bhd, répartissent les actions 50/50 et se mettent à bâtir. Six mois plus tard, l'une d'elles se désintéresse et s'en va — en conservant la moitié de la société. Le fondateur qui reste porte désormais tout le travail tandis qu'un ex-associé passif est assis sur 50 % de la participation, bloquant la table de capitalisation que tout futur investisseur voudra voir propre. Ce problème de la « participation morte » est le désastre de fondateurs le plus courant, et la solution est le vesting : faire de la participation d'un fondateur quelque chose qu'il conserve en restant, et non quelque chose qu'il possède pleinement dès le premier jour.

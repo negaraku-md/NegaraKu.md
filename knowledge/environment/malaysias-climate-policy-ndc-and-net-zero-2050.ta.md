@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "department-of-environment-doe" }
 related: ["department-of-environment-doe", "malaysias-rainforests-and-permanent-forest-reserves"]
 keywords: ["Malaysia NDC 3.0", "net zero 2050 Malaysia", "Climate Change Act Malaysia", "National Climate Change Policy 2.0", "Paris Agreement Malaysia", "emissions trading scheme", "carbon tax Malaysia", "NRES", "UNFCCC"]
+framework: explainer
 ---
 
 கிட்டத்தட்ட ஒரு தசாப்தமாக மலேசியா தனது காலநிலை உறுதிமொழியை, குடிமக்களில் எவரும் உணரமுடியாத ஒரு வழியில் அளவிட்டு வந்தது: GDP ஒரு அலகுக்கான உமிழ்வுகள். 2025 அக்டோபரில் அது மாறியது. தனது உமிழ்வுகள் எந்த மட்டத்தில் உச்சத்தை அடைகிறதோ அதிலிருந்து ஒரு நிலையான அளவு பசுமை இல்ல வாயுக்களை — 15 முதல் 30 மில்லியன் டன் — குறைக்கப் போவதாக நாடு ஐக்கிய நாடுகளுக்குத் தெரிவித்தது. மலேசியா ஒரு முழுமையான எண்ணை மேசையில் வைத்தது இதுவே முதல் முறை; இது நாட்டின் காலநிலைக் கட்டமைப்பின் ஒவ்வொரு பகுதியையும் ஒரே ஒரு கேள்வியைச் சுற்றி மறுவடிவமைக்கிறது: வேகமாக வளர்ந்துவரும், எண்ணெய்-மற்றும்-எரிவாயு உற்பத்தி செய்யும் ஒரு வளரும் பொருளாதாரம், தேக்கமடையாமல் தனது உமிழ்வு வளைகோட்டை எவ்வாறு கீழ்நோக்கி வளைக்கிறது?

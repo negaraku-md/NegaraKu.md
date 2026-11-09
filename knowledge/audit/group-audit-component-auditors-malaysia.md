@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "malaysian-institute-of-accountants" }
 related: ["malaysian-institute-of-accountants"]
 keywords: ["ISA 600", "group audit", "component auditor", "group engagement partner", "Malaysia subsidiary audit", "MIA", "consolidated financial statements", "aggregation risk"]
+framework: explainer
 ---
 
 A German parent consolidates its Kuala Lumpur trading arm, but the group's audit partner in Frankfurt has never set foot in Malaysia and does not read the local ledgers. Someone in Malaysia does the fieldwork — yet the signature on the group opinion is still the group partner's alone. That split is exactly what the group-audit standard is built to govern.

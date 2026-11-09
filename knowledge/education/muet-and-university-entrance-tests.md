@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "stpm" }
 related: []
 keywords: ["MUET", "Majlis Peperiksaan Malaysia", "MPM", "band MUET", "kemasukan universiti", "STPM", "kemahiran bahasa Inggeris", "ijazah sarjana muda"]
+framework: explainer
 ---
 
 Anda boleh cemerlang dalam STPM atau matrikulasi, tetapi tanpa satu keputusan lagi, borang permohonan ijazah anda masih tidak lengkap. Keputusan itu ialah MUET — dan ramai pelajar hanya menyedari kepentingannya apabila tarikh tutup permohonan universiti sudah menjelang.

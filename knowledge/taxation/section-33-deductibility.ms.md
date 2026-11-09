@@ -119,6 +119,7 @@ relations:
   - { rel: "related-to", to: "entertainment-expenses" }
 related: ["losses-and-group-relief", "form-c-and-cp204", "withholding-tax-non-compliance"]
 keywords: ["section 33 income tax act", "wholly and exclusively malaysia", "allowable business expenses malaysia", "tax deductible expenses sdn bhd", "section 33(1) deduction", "lhdn disallowed expenses"]
+framework: explainer
 ---
 
 Setiap panduan mengenai potongan perniagaan Malaysia menerbitkan sebuah senarai. Sewa, ya. Gaji, ya. Hiburan, separuh. Senarai itu memadai sehinggalah tibanya hari suatu perbelanjaan muncul yang tidak ada dalam senarai — bayaran kepada kerajaan negeri untuk dilepaskan daripada suatu obligasi, kajian kebolehlaksanaan bagi projek yang tidak pernah berlaku, cukai perkhidmatan yang diserap syarikat dan bukannya dipindahkan — dan ketika itu senarai tersebut tidak bernilai langsung, kerana senarai itu tidak pernah menjadi undang-undang.

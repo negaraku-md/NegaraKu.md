@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "e-hailing-grab" }
 related: ["klang-valley-rail", "e-hailing-grab"]
 keywords: ["intercity travel Malaysia", "KTM ETS", "KTM Intercity", "express bus Malaysia", "Terminal Bersepadu Selatan", "TBS", "domestic flights Malaysia", "AirBorneo", "MASwings", "Rural Air Service", "Sabah Sarawak flights", "travelling between cities Malaysia"]
+framework: explainer
 ---
 
 Terbang ke Kuching, naik bus ke Kuantan, atau naik kereta api ke Butterworth —

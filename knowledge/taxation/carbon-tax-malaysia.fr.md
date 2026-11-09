@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "national-energy-transition-roadmap" }
 related: []
 keywords: ["taxe carbone Malaisie", "tarification du carbone Malaisie", "taxe carbone fer acier énergie", "carbon tax Malaysia", "carbon pricing Malaysia", "National Carbon Market Policy", "Climate Change Bill Malaysia", "cukai karbon"]
+framework: explainer
 ---
 
 La Malaisie se prépare à mettre un prix sur le carbone pour la première fois, et elle commence par les industries qui émettent le plus.

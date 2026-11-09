@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "department-of-environment" }
 related: ["environmental-quality-act-1974"]
 keywords: ["pencemaran sungai", "indeks kualiti air", "WQI", "keselamatan air", "bekalan air", "Sungai Selangor", "Sungai Kim Kim", "rizab sungai", "Jabatan Alam Sekitar", "kawasan tadahan"]
+framework: explainer
 ---
 
 在星期一清晨拧开水龙头，却发现无水可用——不是因为水龙头坏了，而是因为上游的一家工厂将散发恶臭的废料排入了向你所在城镇供应原水的支流。这是巴生谷反复上演的现实，它解释了为何"河流水质"不只是一个生态议题，而是关乎数百万家庭供水安全的问题。

@@ -72,6 +72,7 @@ relations:
   - { rel: "affects", to: "audit-opinion-types" }
 related: ["statutory-audit-process", "audit-opinion-types", "emphasis-of-matter-kam", "audit-preparation-checklist"]
 keywords: ["auditoría empresa en funcionamiento Malasia", "incertidumbre material relacionada con la empresa en funcionamiento", "ISA 570 Malasia", "carta de manifestaciones de la dirección Malasia", "ISA 580 manifestaciones escritas"]
+framework: explainer
 ---
 
 Al final de toda auditoría malasia se firman dos documentos sin leerlos: la

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["thaipusam", "hinduism-in-malaysia", "indian-classical-arts-in-malaysia", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community"]
 keywords: ["கோயில் இசை", "நாதஸ்வரம்", "தவில்", "மங்கள வாத்தியம்", "உறுமி மேளம்", "காவடி", "மலேசியா கோயில் இசை", "Nadaswaram", "Thavil", "Urumi Melam"]
+framework: history-culture
 ---
 
 ที่แถวหน้าสุดของขบวนแห่ไทปูซัม ในชั่วขณะที่รถศึกของเทวาลัยเริ่มเคลื่อน หรือที่ประตูทางเข้าหอจัดงานแต่งงาน — ในงานฮินดูทมิฬใด ๆ ของมาเลเซีย สิ่งแรกที่แทรกเข้ามาในอากาศคือเสียงเฉพาะอย่างหนึ่งเสมอ นั่นคือทำนองอันยาวของนาทัสวารัม (nadaswaram) และเสียงกระหึ่มของทวิล (thavil) เสียงนั้นไม่ได้เกิดขึ้นโดยบังเอิญ — มันคือเครื่องหมายของธรรมเนียม **mangala vadyam** (เครื่องดนตรีมงคล) ที่เดินทางมากับชุมชนนี้มากว่าศตวรรษ

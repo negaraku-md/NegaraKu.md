@@ -86,6 +86,7 @@ keywords:
   - "Ipoh chicken rice"
 social:
   hashtags: ["#HainaneseChickenRice", "#NasiAyam", "#ChickenRiceBalls", "#Melaka", "#MalaysianFood"]
+framework: history-culture
 ---
 
 اطلب صحن أرز دجاج في أحد الـ kopitiam (المقاهي التقليدية) في ماليزيا، فتصلك ثلاثة أشياء

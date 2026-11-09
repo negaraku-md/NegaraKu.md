@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "touch-n-go" }
 related: ["motor-insurance", "driving-licence-malaysians", "road-tax-renewal", "touch-n-go"]
 keywords: ["VEP سنغافورة ماليزيا", "تصريح دخول المركبة سنغافورة", "القيادة إلى تايلاند من ماليزيا", "VEP Singapore Malaysia", "Vehicle Entry Permit Singapore", "ازدحام Causeway Second Link", "تأمين المركبات العابر للحدود ماليزيا", "معبر Bukit Kayu Hitam", "بطاقة Autopass سنغافورة", "PIAM Endorsement 101", "استيراد المركبة المؤقت تايلاند"]
+framework: how-to
 ---
 
 جاران اثنان، وحدّان بريّان، ونظامان مختلفان تمامًا للسيارة نفسها.

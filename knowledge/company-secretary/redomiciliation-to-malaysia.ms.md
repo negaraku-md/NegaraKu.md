@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "labuan-company-formation" }
 related: []
 keywords: ["redomiciliation", "re-domiciliation", "continuance", "Labuan", "Labuan Companies Act 1990", "section 16", "foreign company", "domicile", "Companies Act 2016", "Labuan FSA"]
+framework: explainer
 ---
 
 Sebuah syarikat yang ingin menjadi syarikat Malaysia tanpa membubarkan diri di luar negara dan bermula semula mempunyai tepat satu pintu masuk ke dalam negara ini — dan pintu itu tidak terbuka ke arah semenanjung.

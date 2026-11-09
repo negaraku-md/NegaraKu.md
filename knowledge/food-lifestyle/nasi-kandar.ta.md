@@ -95,6 +95,7 @@ keywords:
   - "Malaysian rice dish"
 social:
   hashtags: ["#NasiKandar", "#Penang", "#Mamak", "#MalaysianFood", "#Banjir", "#GeorgeTown"]
+framework: explainer
 ---
 
 பினாங்கில் யாரிடமாவது இரவில் தாமதமாக எங்கே சாப்பிடலாம் என்று கேளுங்கள், பதில்

@@ -100,6 +100,7 @@ social:
     - "#Dewakan"
     - "#KualaLumpurFood"
     - "#PenangFood"
+framework: explainer
 ---
 
 कुआलालंपुर या पेनांग में कहाँ खाना चाहिए, यह एक दर्जन लोगों से पूछिए और आपको एक दर्जन

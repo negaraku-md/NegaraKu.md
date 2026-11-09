@@ -117,6 +117,7 @@ keywords:
   - "PLT Perkongsian Liabiliti Terhad"
   - "fi pendaftaran PLT RM500"
   - "pengisytiharan tahunan PLT"
+framework: how-to
 ---
 
 Petugas kepatuhan adalah bagian yang paling sering disalahpahami oleh semua orang.

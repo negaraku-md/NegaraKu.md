@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-vs-tax-invoice" }
 related: ["online-business-licence-malaysia"]
 keywords: ["start online business malaysia", "e-commerce business malaysia", "sell online malaysia registration", "SSM online business", "low value goods tax malaysia", "electronic trade transactions regulations", "e-invoice small business malaysia"]
+framework: how-to
 ---
 
 E-dagang terasa tidak formal — anda boleh mula menjual di pasaran dalam talian (marketplace) menjelang waktu makan malam — yang memperdaya ramai orang untuk menyangka peraturan tidak terpakai. Ia terpakai. Malaysia melayan penjual dalam talian seperti mana-mana perniagaan lain: anda mesti mendaftar, mendedahkan siapa anda, melindungi data pelanggan, dan membayar cukai yang betul. Peraturan juga baru-baru ini berubah, jadi walaupun penjual yang menyediakan perniagaan beberapa tahun lalu mungkin beroperasi dengan maklumat yang sudah lapuk.

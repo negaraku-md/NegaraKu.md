@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "sale-and-purchase-agreement-property" }
 related: []
 keywords: ["HDA", "Akta 118", "APDL", "lesen pemaju", "Tribunal Tuntutan Pembeli Rumah", "projek terbengkalai", "SPNB", "KPKT", "perlindungan pembeli rumah"]
+framework: explainer
 ---
 
 보증금을 이미 냈고, 매매계약에 서명했으며, 집 열쇠를 기다립니다 — 그런데 공사 현장이 몇 달째 조용합니다. 반도 말레이시아의 신규 주거용 주택 매수인에게, 법은 이런 상황이 벌어지기 전·도중·후에 걸쳐 실제로 여러 겹의 보호를 마련해 두고 있습니다. 관건은 무엇이 보호되는지, 그리고 일이 잘못되었을 때 어디로 가야 하는지를 아는 것입니다.

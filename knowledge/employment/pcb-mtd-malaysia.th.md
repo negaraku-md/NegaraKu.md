@@ -131,6 +131,7 @@ relations:
   - { rel: "part-of", to: "payroll-compliance-malaysia" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide"]
 keywords: ["PCB Malaysia", "MTD monthly tax deduction", "CP38 CP39 CP22", "e-PCB LHDN employer", "potongan cukai bulanan"]
+framework: rules
 ---
 
 PCB เป็นบรรทัดเดียวบนสลิปเงินเดือนของมาเลเซียที่นายจ้างถือเงินของคนอื่นและอาจต้องรับผิดเป็นการส่วนตัว EPF และ SOCSO เป็นเงินสมทบ การหักภาษี ณ ที่จ่ายรายเดือนเป็นภาษีเงินได้ของลูกจ้าง — ที่ถูกหัก ถือ และเป็นหนี้ที่ต้องส่งต่อ ไม่นำส่งมันแล้ว LHDN ไม่ไล่ตามลูกจ้าง แต่ไล่ตามคุณ และจำนวนนั้นเป็นหนี้ที่ถึงกำหนดต่อรัฐบาลที่เรียกคืนได้โดยการฟ้องคดีแพ่ง

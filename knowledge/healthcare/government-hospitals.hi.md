@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "emergencies-999" }
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "peka-b40-and-health-schemes", "healthcare-for-seniors", "emergencies-999"]
 keywords: ["मलेशिया सरकारी अस्पताल", "सरकारी अस्पताल शुल्क", "अस्पताल रेफरल प्रणाली", "श्रेणी 3 वार्ड शुल्क", "अस्पताल में गैर-नागरिक शुल्क", "Akta Fee 1951", "विशेषज्ञ रेफरल अस्पताल", "सरकारी अस्पताल प्रतीक्षा समय"]
+framework: explainer
 ---
 
 हाथ में कतार की पर्ची, नंबर आपसे पहले ही 80 से अधिक लोगों का, और दीवार पर लगा

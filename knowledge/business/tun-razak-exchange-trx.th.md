@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "investment-agency-directory" }
 related: ["doing-business-kuala-lumpur", "principal-hub-malaysia", "labuan-company-vs-sdn-bhd", "investment-agency-directory"]
 keywords: ["Tun Razak Exchange", "TRX Kuala Lumpur", "Exchange 106", "Malaysia international financial centre", "TRX Marquee incentives", "The Exchange TRX", "pusat kewangan antarabangsa TRX", "TRX City Sdn Bhd"]
+framework: profile
 ---
 
 ก้าวขึ้นจากสถานี Tun Razak Exchange MRT แล้วเส้นขอบฟ้าจะบอกคุณว่าที่นี่ถูกวางแผน ไม่ใช่เติบโตขึ้นเอง กลุ่มอาคารสูงบนพื้นที่ 70 เอเคอร์ที่ขอบด้านตะวันออกของใจกลางกัวลาลัมเปอร์ หนึ่งในนั้นทะลุความสูงกว่า 450 เมตร จัดวางรอบสวนสาธารณะที่ตั้งอยู่บนหลังคาของห้าง นี่คือความพยายามของมาเลเซียในการสร้างย่านการเงินขึ้นจากศูนย์

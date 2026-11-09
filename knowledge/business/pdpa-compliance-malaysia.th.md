@@ -138,6 +138,7 @@ relations:
   - { rel: "explained-in", to: "pdpa-registration-classes" }
 related: ["online-business-licence-malaysia"]
 keywords: ["pdpa malaysia", "personal data protection act 2010", "act a1727", "data controller malaysia", "pdpa amendment 2024", "pdpa compliance"]
+framework: rules
 ---
 
 หากประกาศความเป็นส่วนตัวของคุณยังคงระบุว่า "ผู้ใช้ข้อมูล" (data user) มันกำลังอธิบายประเภทของบุคคลที่หยุดมีอยู่ตั้งแต่วันที่ 1 เมษายน 2025

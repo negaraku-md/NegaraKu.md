@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "malaysia-cup" }
 related: []
 keywords: ["bola sepak malaysia", "piala malaysia", "harimau malaya", "FAM", "liga super", "AFF", "football malaysia"]
+framework: history-culture
 ---
 
 Pada 1921, Singapura menewaskan Selangor 2-1 dalam final sebuah kejohanan bola sepak baharu di Tanah Melayu. Lebih seabad kemudian, pertandingan itu — kini dikenali sebagai Piala Malaysia — masih menjadi mahkota paling berprestij dalam sukan paling digemari negara.

@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "malaysia-olympic-history" }
 related: []
 keywords: ["tadbir urus sukan Malaysia", "Majlis Sukan Negara", "Pesuruhjaya Sukan", "Akta Pembangunan Sukan 1997", "Majlis Olimpik Malaysia", "Kementerian Belia dan Sukan", "Institut Sukan Negara"]
+framework: explainer
 ---
 
 สโมสรฟุตบอลใหม่แห่งหนึ่งในยะโฮร์สามารถซื้อเสื้อ เช่าสนาม และลงทะเบียนผู้เล่นได้ แต่ยังไม่สามารถส่งใครเป็นตัวแทน "มาเลเซีย" ไปแข่งขันใด ๆ ได้อย่างถูกกฎหมาย เหตุผลไม่ใช่เงินหรือความสามารถ เป็นเรื่องว่าใครเป็นผู้ให้อนุญาต ในมาเลเซีย สิทธิ์ที่จะมีอยู่ในฐานะองค์กรกีฬา สิทธิ์ที่จะได้รับทุน และสิทธิ์ที่จะใช้ชื่อประเทศ มาจากสถาบันสี่แห่งที่แตกต่างกันซึ่งมักถูกสับสนว่าเป็นหนึ่งเดียว

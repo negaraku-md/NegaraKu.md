@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "prescribed-activities-eia-order-2015" }
 related: ["environmental-quality-act-1974"]
 keywords: ["EIA Malaysia", "environmental impact assessment", "prescribed activities", "Section 34A", "Order 2015", "Department of Environment", "First Schedule", "Second Schedule", "public display", "تقييم الأثر البيئي", "الأنشطة المقررة", "المادة 34A"]
+framework: rules
 ---
 
 ابدأ الإنشاء في النوع الخطأ من المشاريع دون ضوء أخضر، ولن تواجه غرامة فحسب — بل قد تُجبَر على التوقف بينما يبقى رأس مالك معطَّلاً. ففي ماليزيا، لا يمكن لقائمة محددة من «الأنشطة المقررة» أن تبدأ قانوناً حتى يُقدَّم تقرير تقييم الأثر البيئي (EIA) إلى المدير العام للبيئة ويحصل على موافقته. وبالنسبة إلى المطوّرين والمستثمرين، فإن EIA ليس أوراقاً في نهاية التخطيط؛ إنه بوابة في البداية.

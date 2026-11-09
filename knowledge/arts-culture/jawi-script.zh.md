@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: ["bahasa-melayu", "melaka-sultanate", "article-3-religion"]
 keywords: ["tulisan Jawi", "aksara Arab Melayu", "Batu Bersurat Terengganu", "sejarah tulisan Jawi", "seni khat", "ejaan Jawi", "Seksyen 9 Akta Bahasa Kebangsaan"]
+framework: history-culture
 ---
 
 在登嘉楼发现的一块石碑上，刻着马来语词句——不是用我们今天使用的字母，而是一种为马来语音调整过的阿拉伯字母。这块碑文，即登嘉楼碑文石（Batu Bersurat Terengganu），年代为回历702年，常被对应为公元1303年。

@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "fixed-deposit-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["PIDM", "जमा बीमा", "RM250000", "तकाफुल सुरक्षा", "TIPS", "Perbadanan Insurans Deposit Malaysia", "Malaysia Deposit Insurance Corporation Act 2011", "बीमा लाभ सुरक्षा"]
+framework: explainer
 ---
 
 यदि कोई मलेशियाई बैंक कल ढह जाए, तो आपके बचत खाते में रखा पैसा उसके साथ गायब नहीं हो जाएगा। उसमें से RM250,000 तक एक सरकार-संचालित सुरक्षा योजना द्वारा समर्थित है जिसे PIDM कहते हैं — और आपने कभी इसके लिए साइन-अप नहीं किया, कभी इसके लिए भुगतान नहीं किया, और बहुत संभव है कि कभी इस पर ध्यान भी नहीं दिया।

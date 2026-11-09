@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "parliament", "dewan-rakyat", "dewan-negara", "yang-di-pertuan-agong"]
 keywords: ["Jemaah Menteri", "मलेशिया मंत्रिमंडल", "Cabinet Malaysia", "मलेशिया के प्रधानमंत्री", "Prime Minister", "संघीय संविधान का अनुच्छेद 43", "Article 43", "देवान राक्यात के बहुमत का विश्वास", "सामूहिक उत्तरदायित्व", "Yang di-Pertuan Agong", "Article 40(2)"]
+framework: explainer
 ---
 
 मलेशिया में कोई मतदाता ऐसे मतपत्र पर निशान नहीं लगाता जिस पर «प्रधानमंत्री»

@@ -120,6 +120,7 @@ relations:
   - { rel: "related-to", to: "beneficial-ownership" }
 related: ["statutory-registers", "registered-office", "register-of-members", "annual-return"]
 keywords: ["minute book Malaysia", "section 341 Companies Act 2016", "section 245 accounting records seven years", "document retention Malaysia company", "buku minit syarikat", "board minutes Malaysia Third Schedule"]
+framework: rules
 ---
 
 マレーシアの会社秘書役に議事録簿をどれだけ保存しなければならないかと尋ねれば、間髪入れずに「七年」という答えが返ってくる。では、そもそも議事録を作成する期限は何日かと尋ねると、返ってくるのはたいてい自信たっぷりの数字だが、それは2016年会社法（Companies Act 2016、Act 777）のどこにも存在しない。

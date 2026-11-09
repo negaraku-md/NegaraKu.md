@@ -87,6 +87,7 @@ relations:
   - { rel: "affects", to: "employment-act-1955" }
 related: ["stamp-duty-rates", "stamp-duty-self-assessment", "employment-act-1955"]
 keywords: ["stamp duty employment contract Malaysia", "kontrak penggajian duti setem", "RM10 stamp duty offer letter", "STAMPS employment contract", "item 4 First Schedule"]
+framework: rules
 ---
 
 ในเดือนมิถุนายน 2025 LHDN บอกนายจ้างในสิ่งที่ส่วนใหญ่ไม่เคยพิจารณา: สัญญาจ้างงานทุกฉบับในตู้เก็บเอกสารเป็นตราสารที่ต้องเสียอากร และการตรวจสอบได้เริ่มไปแล้ว สิทธิประโยชน์ที่ตามมาบัดนี้หมดอายุแล้ว และสิ่งที่มาแทนคือภาระการปฏิบัติตามปกติพร้อมโทษปรับปกติ

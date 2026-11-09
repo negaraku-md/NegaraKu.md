@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "registering-a-marriage-civil" }
 related: ["getting-married-in-malaysia", "registering-a-marriage-civil"]
 keywords: ["divorce Malaysia", "civil divorce", "Syariah divorce", "talak", "fasakh", "khuluk", "Law Reform Marriage and Divorce Act 1976", "Section 51 conversion to Islam", "Syariah court"]
+framework: explainer
 ---
 
 同一个早晨，两对马来西亚夫妇都申请结束自己的婚姻。一对走进民事高等法院的登记处；另一对则向所属州属的伊斯兰宗教局报到。谁也不能走对方的那道门。在马来西亚，结束婚姻——正如缔结婚姻一样——要经过两套相互独立的法律制度，而决定适用哪一套的，是当事人的宗教，而非他们的意愿。

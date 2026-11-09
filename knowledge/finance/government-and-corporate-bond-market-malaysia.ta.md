@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["bank-negara-malaysia", "bursa-malaysia", "federal-budget", "epf-as-investor"]
 keywords: ["MGS", "GII", "sukuk", "Malaysian government securities", "corporate bonds", "RENTAS", "Sukuk Simpanan Rakyat", "bond market Malaysia"]
+framework: explainer
 ---
 
 மலேசிய அரசாங்கம் ஒரு நெடுஞ்சாலையையோ மருத்துவமனையையோ கட்டும்போது, அது அரிதாகவே அப்போதே பணம் செலுத்துகிறது. அது கடன் பெறுகிறது — அது வழங்கும் கடன்பத்திரமே ஒரு பத்திரம் (bond). இதைப் பல தசாப்தங்களின் வளர்ச்சிச் செலவினத்தில் பெருக்கி, அதே முறையில் கடன் பெறும் ஒவ்வொரு நிறுவனத்தையும் சேர்த்தால், ஆசியாவின் மிக ஆழமான உள்நாட்டு நாணயப் பத்திரச் சந்தைகளில் ஒன்று உருவாகிறது — இது இரண்டு இணை பாதைகளில் இயங்குகிறது: வழக்கமான கடன் மற்றும் ஷரியா-இணக்கமான சுக்குக்.

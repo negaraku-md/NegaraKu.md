@@ -57,6 +57,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "maternity-leave-malaysia", "employment-act-coverage"]
 keywords: ["paternity leave malaysia", "section 60fa employment act", "7 days paternity leave", "paternity leave eligibility malaysia", "paternity leave five confinements"]
+framework: rules
 ---
 
 วันลาเพื่อดูแลบุตรเข้าสู่พระราชบัญญัติการจ้างงาน 1955 เมื่อวันที่ 1 มกราคม 2023 ในฐานะมาตราสั้น ๆ เพียงมาตราเดียว และการสรุปเกือบทุกฉบับหยุดอยู่ที่ "เจ็ดวัน" เงื่อนไขที่ผูกกับเจ็ดวันนั้นคือจุดที่นายจ้างทำผิดจริง ๆ เพราะสองในนั้นได้บรรลุ — หรือพลาด — นานก่อนที่ทารกจะมาถึง

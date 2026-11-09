@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "mbrs-2" }
 related: ["audit-exemption", "financial-statements-lodgement", "mbrs-2", "sdn-bhd-filing-calendar", "mfrs-vs-mpers"]
 keywords: ["unaudited financial statements Malaysia", "audit exemption certificate", "Practice Directive 10/2024 lodgement", "lodge unaudited accounts SSM", "exempt private company certificate section 260"]
+framework: rules
 ---
 
 தணிக்கை விலக்குக்குத் தகுதி பெறுவது ஒரு இணக்கச் சிக்கலின் முடிவைப் போல்

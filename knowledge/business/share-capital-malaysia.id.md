@@ -115,6 +115,7 @@ keywords:
   - "peruntukan saham Malaysia"
   - "tingkatkan modal berbayar Malaysia"
   - "seksyen 75 Akta Syarikat 2016"
+framework: explainer
 ---
 
 Modal disetor RM1 sah secara hukum, lazim, dan secara diam-diam merupakan

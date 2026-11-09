@@ -104,6 +104,7 @@ relations:
   - { rel: "affects", to: "transfer-pricing-documentation" }
 related: ["transfer-pricing-documentation", "form-c-and-cp204", "withholding-tax-non-compliance"]
 keywords: ["LHDN tax audit", "audit cukai LHDN", "tax audit framework Malaysia", "voluntary disclosure LHDN", "penalti audit cukai", "rangka kerja audit cukai"]
+framework: explainer
 ---
 
 La plupart des orientations sur les audits fiscaux malaisiens décrivent un **audit sur pièces** (desk audit) et un **audit sur place** (field audit). Aucun de ces deux termes n'apparaît dans le cadre que la LHDN applique réellement. Le document actuel — le *Rangka Kerja Audit Cukai Pendapatan dan Majikan*, en vigueur depuis le **15 mars 2025** — utilise deux méthodes distinctes, et la distinction entre elles décide du préavis que vous recevez et de la durée de toute l'affaire.

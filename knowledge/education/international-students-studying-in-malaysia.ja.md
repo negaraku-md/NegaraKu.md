@@ -82,6 +82,7 @@ keywords:
   - "Malaysia student pass application"
   - "public vs private university Malaysia"
   - "MOHE approved institution Malaysia"
+framework: explainer
 ---
 
 誤った種類の教育機関から発行されたオファーレターは、たとえそのプログラム自体が完全に認定されていたとしても、ビザ申請においては何の役にも立たない。「認定されたプログラム」と「留学生受け入れを承認された教育機関」というこの区別こそが、EMGS（Education Malaysia Global Services）の申請書に誰かが記入するよりもずっと前の段階で、多くの混乱が生まれる起点となっている。

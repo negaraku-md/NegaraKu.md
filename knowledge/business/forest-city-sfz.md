@@ -104,6 +104,7 @@ keywords:
   - "Forest City SFZ tax"
   - "Pulau 1 Forest City"
   - "zon kewangan khas Forest City"
+framework: explainer
 ---
 
 Two schemes sit on the same stretch of Johor coastline, and almost every summary written about

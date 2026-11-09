@@ -64,6 +64,7 @@ keywords:
   - "megadiverse country"
   - "MetMalaysia"
   - "MyBIS"
+framework: explainer
 ---
 
 # मलेशिया विश्व के महा-जैवविविध देशों में से एक क्यों है

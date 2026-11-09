@@ -107,6 +107,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["employment-act-1955-guide"]
 keywords: ["harcèlement sexuel malaisie", "loi contre le harcèlement sexuel 2022", "avis article 81h", "partie xva loi sur l'emploi", "tribunal contre le harcèlement sexuel", "sexual harassment malaysia", "anti-sexual harassment act 2022"]
+framework: rules
 ---
 
 La plupart de ce qui est publié sur le harcèlement au travail en Malaisie traite de la Loi contre le harcèlement sexuel de 2022 comme d'un événement législatif. Très peu de cela dit à un employeur ce qui est réellement dû un mardi ordinaire. Deux choses le sont, et toutes deux sont exécutoires sans que quiconque ait déposé quoi que ce soit.

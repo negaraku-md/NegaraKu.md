@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "free-trade-agreements" }
 related: ["sales-and-service-tax", "malaysia-free-trade-agreements"]
 keywords: ["import duty", "customs duty", "HS code", "AHTN", "tariff classification", "ATIGA", "Form D", "CIF", "sales tax on imports", "Customs Act 1967"]
+framework: explainer
 ---
 
 ஒரே மாதிரியான இரண்டு சரக்குகள் Port Klang-இல் இறங்கி, மிகவும் வித்தியாசமான வரியைச் செலுத்தலாம் — அவற்றில் என்ன இருக்கிறது என்பதால் அல்ல, மாறாக அறிவிப்பில் யாரோ ஒருவர் தட்டச்சு செய்த எட்டு-இலக்க குறியீட்டால். அந்தக் குறியீடே முழு விளையாட்டு.

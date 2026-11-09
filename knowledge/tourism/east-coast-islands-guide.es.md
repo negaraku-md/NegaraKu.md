@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "northeast-monsoon" }
 related: []
 keywords: ["Perhentian", "Redang", "Tioman", "Kapas", "parque marino", "tasa de conservación", "monzón del noreste", "islas de Malasia", "snorkel", "buceo"]
+framework: explainer
 ---
 
 Preséntese en un complejo de playa de Redang en diciembre y probablemente encontrará las embarcaciones ausentes, el embarcadero en silencio y la tienda de buceo cerrada. Las islas de la costa este se rigen por un calendario escrito por el mar, no por el folleto turístico, y por un conjunto de normas de parque marino que la mayoría de los recién llegados solo descubren en la taquilla.

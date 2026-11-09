@@ -94,6 +94,7 @@ relations:
   - { rel: "governs", to: "malaysia-para-athletics" }
 related: []
 keywords: ["Majlis Paralimpik Malaysia", "Paralympic Council Malaysia", "para sukan", "Sukan Paralimpik", "Bonnie Bunyau Gustin", "Cheah Liek Hou", "Abdul Latif Romly"]
+framework: explainer
 ---
 
 Cuando Cheah Liek Hou defendió su oro de bádminton SU5 en París 2024, el triunfo confirmó que el deporte paralímpico malasio cuenta ahora con una nómina de campeones más sólida, y no ya con un logro ocasional. Detrás de aquel momento hay una estructura de gobernanza propia, separada del mundo olímpico más conocido.

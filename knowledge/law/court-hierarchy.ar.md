@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution", "companies-act-2016", "employment-act-1955"]
 keywords: ["Malaysia court hierarchy", "Sessions Court jurisdiction RM1 million", "Magistrates Court limit RM100,000", "Courts of Judicature Act 1964", "Subordinate Courts Act 1948", "التسلسل الهرمي للمحاكم في ماليزيا"]
+framework: data-reference
 ---
 
 ارفع مطالبة بالإخلال بعقد قيمتها RM1.2 مليون في محكمة الجلسات، ولن يهمَّ كم

@@ -80,6 +80,7 @@ social:
     - PrivateSchool
     - EducationMalaysia
     - MalaysiaLicensing
+framework: how-to
 ---
 
 Ouvrir un centre de soutien scolaire ou une école privée ressemble, vu de l'extérieur, à louer un local, embaucher de bons enseignants et imprimer une enseigne. En Malaisie, ce n'est pas le cas. L'éducation est une activité réglementée, et enregistrer une société auprès de la SSM — l'étape que la plupart des opérateurs débutants considèrent comme « lancer l'entreprise » — ne vous donne qu'une entité juridique. Elle ne vous donne pas le droit d'enseigner à un seul élève payant.

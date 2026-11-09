@@ -75,6 +75,7 @@ keywords:
   - "klinik pergigian pakar hospital"
   - "Akta Pergigian 2018"
   - "carian klinik pergigian kerajaan"
+framework: explainer
 ---
 
 많은 사람이 '치과'를 한 가지 — 충치를 때우거나 사랑니를 뽑는 곳 — 로만 여깁니다. 그러나 말레이시아에서 치과 진료는 실제로 두 개의 별개 궤도로 운영됩니다. 하나는 보건부(Ministry of Health, KKM)를 통해 정부가 운영하고, 다른 하나는 민간 부문이 운영하며 — 둘 사이의 진료 범위는 같지 않습니다.

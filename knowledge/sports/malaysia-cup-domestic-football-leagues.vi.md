@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "malaysia-national-football-team" }
 related: []
 keywords: ["Liga Super", "Piala Malaysia", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "bola sepak Malaysia"]
+framework: explainer
 ---
 
 Trong gần một thế kỷ, một cơ quan duy nhất — Hiệp hội Bóng đá Malaysia (FAM) — tổ chức mọi trận đấu giải quốc gia. Rồi, trong một bước đi làm thay đổi hình hài của môn thể thao đó, quyền điều hành giải đấu được trao cho một công ty thương mại. Đây là nền tảng cho cách bóng đá trong nước của Malaysia vận hành ngày nay.

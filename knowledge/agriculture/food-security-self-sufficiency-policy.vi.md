@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
 related: []
 keywords: ["keterjaminan makanan", "tahap sara diri", "SSL", "SSR", "Dasar Agromakanan Negara", "DAN 2.0", "food security Malaysia", "beras"]
+framework: explainer
 ---
 
 Theo Điều tra Nông nghiệp 2024, cứ mỗi một kilôgam gạo được tiêu thụ ở Malaysia, khoảng 400 gram là gạo nhập khẩu. Con số đó tóm tắt thách thức an ninh lương thực của đất nước: một quốc gia nông nghiệp vẫn nhập khẩu phần lớn lương thực chủ lực của mình.

@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#NamHeong", "#ChickenRice", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Jalan Sultan पर, कुआलालंपुर के पुराने शहर की गहमागहमी के बीच, सुगंधित चावल पर रखी

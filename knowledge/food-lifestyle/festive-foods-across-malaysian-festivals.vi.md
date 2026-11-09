@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "kaamatan" }
 related: ["hari-raya-aidilfitri", "chinese-new-year", "deepavali", "christmas-malaysia", "gawai-dayak", "kaamatan"]
 keywords: ["juadah perayaan", "makanan raya", "ketupat", "rendang", "lemang", "yee sang", "lou sang", "murukku", "manok pansuh", "hinava", "tuak", "tumpung", "rumah terbuka", "kuih raya"]
+framework: history-culture
 ---
 
 Đi theo lịch của Malaysia từ đầu năm này đến đầu năm khác, và bạn không chỉ đổi ngày tháng — bạn đổi cả căn bếp. Tháng này là mùi rendang và nước cốt dừa của lemang; vài tháng sau, bàn tiệc đầy salad cá sống được nâng cao lên trong khi mọi người reo hò; rồi đến lượt những vòng xoắn murukku giòn tan, và cuối cùng là những ống tre được chẻ ra để lấy gà nóng.

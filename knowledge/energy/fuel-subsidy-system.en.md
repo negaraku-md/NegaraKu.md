@@ -132,6 +132,7 @@ relations:
   - { rel: "related-to", to: "cost-of-living-malaysia" }
 related: ["padu-central-database", "petronas"]
 keywords: ["subsidi bahan api", "BUDI95", "RON95", "subsidi diesel", "PADU", "subsidi bersasar", "BUDI MADANI", "RM1.99", "rasionalisasi subsidi"]
+framework: explainer
 ---
 
 For decades, everyone in Malaysia — millionaire or rubber tapper — paid the same price for petrol at the pump. On 30 September 2025, that arrangement ended. A litre of RON95 can now cost RM1.99 for you but nearly double that for your neighbour, and what decides it is not the world oil price but the identity card you slot into the terminal.

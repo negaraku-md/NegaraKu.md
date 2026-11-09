@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["hinduism-in-malaysia", "thaipusam", "deepavali", "estate-tamil-community", "pongal", "tamil-in-malaysia"]
 keywords: ["மாரியம்மன் வழிபாடு", "மாரியம்மன்", "அம்மன் வழிபாடு", "Mariamman worship", "Mariamman Malaysia", "ஸ்ரீ மகாமாரியம்மன் கோயில்", "தீமிதி"]
+framework: history-culture
 ---
 
 À proximité de presque toutes les anciennes plantations d'hévéas de Malaisie, et le long des rues chargées d'histoire des centres-villes, on peut trouver un temple de Mariamman. La statue d'Amman au visage jaune ocre, et les fêtes qui se tiennent avant la saison des pluies, ne sont pas le fruit du hasard : elles portent plus d'un siècle et demi d'histoire et de tradition de foi d'une communauté tamoule.

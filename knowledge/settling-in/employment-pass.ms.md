@@ -80,6 +80,7 @@ faq:
     a: Tidak. Jabatan Imigresen menyatakan bahawa Pas Penggajian hanya sah di Semenanjung Malaysia. Sabah dan Sarawak mengendalikan kawalan imigresen mereka sendiri di bawah autonomi negeri, jadi penempatan di sana memerlukan pas atau pengesahan yang berasingan. Pas Penggajian juga mengikat anda kepada syarikat penaja sahaja — tukar pekerjaan dan majikan baharu anda mesti memfailkan permohonan baharu dari awal.
   - q: Bolehkah pasangan saya bekerja di Malaysia dengan Pas Tanggungan?
     a: Boleh, tetapi tidak secara automatik. Pas Tanggungan itu sendiri tidak membawa hak untuk bekerja, dan prinsipal mesti memegang Pas Penggajian yang sah terlebih dahulu kerana permohonan tanggungan bergantung kepadanya. Menurut Soalan Lazim Jabatan Imigresen sendiri, seorang pasangan kemudiannya boleh bekerja di bawah pengesahan untuk bekerja daripada Jabatan Imigresen, tanpa perlu menukar kepada Pas Penggajian penuh atas namanya sendiri — satu laluan yang jauh lebih pantas dan lebih murah berbanding permohonan Pas Penggajian baharu.
+framework: explainer
 ---
 
 Anda mempunyai tawaran kerja bertandatangan di Malaysia. Anda mempunyai pasport, ijazah, bertahun-tahun pengalaman berkaitan. Dan masih tiada apa-apa yang anda, secara peribadi, boleh pergi failkan.

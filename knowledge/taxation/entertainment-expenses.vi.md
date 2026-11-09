@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["non-deductible-expenses", "section-33-deductibility"]
 keywords: ["entertainment expense malaysia tax", "39(1)(l) entertainment", "50% entertainment deduction", "public ruling 4/2015", "promotional gift tax deduction malaysia"]
+framework: rules
 ---
 
 Gần như mọi bản tính thuế của Malaysia đều giảm một nửa dòng tiếp khách và đi tiếp. Điều đó sai theo cả hai chiều. Một phần trong cái bị giảm một nửa lẽ ra phải bị không cho phép toàn bộ, và khá nhiều trong đó lẽ ra không nên bị giảm một nửa gì cả.

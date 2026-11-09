@@ -123,6 +123,7 @@ keywords:
   - "foreign company local agent Malaysia"
   - "branch registration fee SSM"
   - "foreign company annual return Malaysia"
+framework: how-to
 ---
 
 La tarifa de registro es la parte que todos presupuestan. No es la parte que duele.

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "stamp-duty" }
 related: []
 keywords: ["RPGT", "cukai keuntungan harta tanah", "CKHT", "LHDN", "pelupusan hartanah", "kadar RPGT", "pengecualian RPGT"]
+framework: rules
 ---
 
 நீங்கள் ஒரு வீட்டை லாபத்துடன் விற்கிறீர்கள் — ஆனால் பணம் உங்கள் கணக்கிற்கு வருவதற்கு முன், அரசு தன் பங்கை விரும்புகிறது. அதுதான் RPGT; தீர்வு மேசையில் வழக்கறிஞர் ஆயிரக்கணக்கான ரிங்கிட்டைத் தடுத்து வைக்கும் வரை விற்பனையாளர்களால் அடிக்கடி கவனிக்கப்படாமல் போகும் வரி.

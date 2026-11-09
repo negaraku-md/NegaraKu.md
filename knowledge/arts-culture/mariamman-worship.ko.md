@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["hinduism-in-malaysia", "thaipusam", "deepavali", "estate-tamil-community", "pongal", "tamil-in-malaysia"]
 keywords: ["மாரியம்மன் வழிபாடு", "மாரியம்மன்", "அம்மன் வழிபாடு", "Mariamman worship", "Mariamman Malaysia", "ஸ்ரீ மகாமாரியம்மன் கோயில்", "தீமிதி"]
+framework: history-culture
 ---
 
 말레이시아의 오래된 고무 플랜테이션 거의 어디에서나, 그리고 도심의 세월이 밴 옛 거리를 따라 마리암만 사원을 볼 수 있습니다. 황토색 얼굴을 한 암만 신상, 그리고 우기(雨期)가 오기 전에 열리는 축제들은 우연이 아닙니다 — 그것들은 한 세기 반이 넘는 타밀 공동체의 역사와 신앙 전통을 담고 있습니다.

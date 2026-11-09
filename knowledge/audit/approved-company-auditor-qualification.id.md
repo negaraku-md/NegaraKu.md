@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "statutory-audit-requirement" }
 related: ["companies-act-2016", "malaysian-institute-of-accountants"]
 keywords: ["juruaudit syarikat diluluskan", "approved company auditor", "seksyen 263", "lesen audit Malaysia", "sijil amalan MIA", "Akauntan Negara"]
+framework: rules
 ---
 
 Anda dapat menjadi seorang Akuntan Bertauliah dengan gelar lengkap, ijazah akuntansi, dan bertahun-tahun pengalaman — dan masih tidak diperbolehkan menandatangani laporan audit sebuah perusahaan sendirian. Di Malaysia, hak untuk mengaudit sebuah perusahaan adalah lisensi yang terpisah dan diatur ketat, bukan sesuatu yang datang secara otomatis dengan keanggotaan profesional.

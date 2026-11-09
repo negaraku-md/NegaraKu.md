@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["population-composition", "languages-spoken", "federal-constitution"]
 keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Proto", "18 suku kaum", "JAKOA", "Akta Orang Asli 1954", "Akta 134"]
+framework: explainer
 ---
 
 मलेशिया नाम किसी भी मानचित्र पर अस्तित्व में आने से बहुत पहले ही, समुदाय प्रायद्वीप के जंगलों, ऊँचे पठारों और तटों में बस चुके थे। आज उन्हें सामूहिक रूप से Orang Asli के नाम से जाना जाता है — एक मलय शब्द जिसका अर्थ है "मूल लोग" या "मूल निवासी"।

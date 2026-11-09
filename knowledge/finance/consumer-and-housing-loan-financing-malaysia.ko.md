@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "hire-purchase-act-1967-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["SBR Malaysia", "Standardised Base Rate", "debt service ratio", "DSR", "housing loan Malaysia", "Hire Purchase Act 1967", "BLR", "responsible financing", "OPR"]
+framework: explainer
 ---
 
 두 명의 주택 구매자가 같은 급여명세서를 들고 서로 다른 두 은행에 들어가서 서로 다른 두 개의 답을 받고 나옵니다. 어느 은행도 자체 금리를 만들어내지 않았고, 어느 은행도 자의적이지 않습니다. 말레이시아의 소매 대출 시스템은 작은 공유 규칙 집합 위에서 운영됩니다 — 모든 변동금리 대출을 쿠알라룸푸르의 단일 정책 다이얼에 묶는 규칙 하나, 여러분이 얼마의 부채를 질 수 있는지 정하는 규칙 하나, 그리고 자동차에 대해서는 1967년의 완전히 별개인 법률입니다.

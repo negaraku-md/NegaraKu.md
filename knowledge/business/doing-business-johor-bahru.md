@@ -119,6 +119,7 @@ keywords:
   - "Johor Bahru premise licence fee"
   - "JS-SEZ Johor Bahru"
   - "foreign property purchase Johor"
+framework: profile
 ---
 
 Johor Bahru is the only Malaysian city whose wage floor, staffing plan and delivery

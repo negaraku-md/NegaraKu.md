@@ -68,6 +68,7 @@ verificationNeeded:
   - "Confírmense las fechas exactas (mandato, nacimiento, muerte) frente a la Perdana Leadership Foundation y la PMO."
   - "La fecha y el lugar de la muerte difieren entre las fuentes: la Perdana Leadership Foundation y la ficha de Wikipedia dan el 29 de mayo de 1990 (área de la bahía de San Francisco, California), mientras que la Encyclopædia Britannica registra el 28 de mayo de 1990 en Daly City, California, y el cuerpo del artículo de Wikipedia cita el Seton Medical Center, en el condado de San Mateo —reconcíliese antes de la publicación—."
   - "Sobre la elección del adjunto: Mahathir Mohamad fue nombrado viceprimer ministro en 1976, pero algunos relatos (p. ej., Wikipedia) señalan que Ghazali Shafie era el candidato personalmente preferido de Hussein Onn —verifíquese cómo se caracteriza el nombramiento—."
+framework: profile
 ---
 
 Pocos líderes malasios cargaron con una herencia más pesada que Hussein Onn. Era el

@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-vs-tax-invoice" }
 related: ["online-business-licence-malaysia"]
 keywords: ["start online business malaysia", "e-commerce business malaysia", "sell online malaysia registration", "SSM online business", "low value goods tax malaysia", "electronic trade transactions regulations", "e-invoice small business malaysia"]
+framework: how-to
 ---
 
 E-commerce feels informal — you can be selling on a marketplace by dinnertime — which fools a lot of people into thinking the rules do not apply. They do. Malaysia treats an online seller like any other business: you must register, disclose who you are, protect customer data, and pay the right tax. The rules also changed recently, so even sellers who set up a few years ago may be running on stale information.

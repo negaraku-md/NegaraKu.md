@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "trade-descriptions-act-2011" }
 related: ["jakim"]
 keywords: ["pensijilan halal Malaysia", "SPHM", "JAKIM halal", "MYeHALAL", "MS 1500", "logo halal Malaysia", "sijil halal", "e-Cert halal", "Manual Prosedur Pensijilan Halal Malaysia", "skim pensijilan halal"]
+framework: how-to
 ---
 
 가운데에 아랍어 글자가 새겨진 여덟 모서리 별 모양의 할랄 로고는 말레이시아 슈퍼마켓 진열대에서 가장 잘 알려진 표시 중 하나입니다 — 그리고 전국에서 오직 한 주체만이 그것을 그 자리에 붙일 권한이 있습니다. 제품 제조사도, 민간 자문가도, 어떤 국제 인증 기관도 아니라, 바로 정부 자신이 JAKIM과 주 차원의 동급 기관을 통해서입니다.

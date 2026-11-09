@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "terengganu-turtle-enactment" }
 related: []
 keywords: ["penyu", "penyu belimbing", "Rantau Abang", "taman laut", "Akta Perikanan 1985", "Enakmen Penyu Terengganu", "pemuliharaan marin", "telur penyu"]
+framework: explainer
 ---
 
 In the late 1960s, around 2,000 female leatherback turtles came ashore each year on a single stretch of beach at Rantau Abang, Terengganu, leaving nearly 10,000 nests of eggs in the sand. Today, there is not a single one. That story of decline is one of the region's most conspicuous wildlife conservation failures — and it has shaped how Malaysia protects sea turtles to this day.

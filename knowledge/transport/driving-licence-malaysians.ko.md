@@ -72,6 +72,7 @@ keywords:
   - "CDL lesen memandu kompeten"
   - "ujian JPJ KPP"
   - "sistem KEJARA mata demerit"
+framework: explainer
 ---
 
 대부분의 사람들은 「운전면허」를 하나의 단일 문서로 여깁니다. 그것은

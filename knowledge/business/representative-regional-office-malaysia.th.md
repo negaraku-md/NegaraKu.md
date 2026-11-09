@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "foreign-company-branch-malaysia" }
 related: ["mida"]
 keywords: ["representative office malaysia", "regional office malaysia", "MIDA RE RO", "foreign company presence malaysia", "market entry malaysia", "non-trading office"]
+framework: explainer
 ---
 
 บริษัทต่างชาติที่ต้องการมีคนอยู่ในมาเลเซีย — เพื่อประเมินตลาด ดำเนินการวิจัยผลิตภัณฑ์ หรือประสานงานบริษัทในเครือระดับภูมิภาค — ไม่จำเป็นต้องจดทะเบียนจัดตั้งบริษัทการค้าที่ต้องเสียภาษีเพื่อทำเช่นนั้น มาเลเซียเสนอสถานะแบบไม่ทำการค้าที่สร้างขึ้นเพื่อจุดประสงค์นี้โดยเฉพาะ: สำนักงานผู้แทน (RE) หรือสำนักงานภูมิภาค (RO) ที่อนุมัติโดยสำนักงานพัฒนาการลงทุนมาเลเซีย (MIDA)

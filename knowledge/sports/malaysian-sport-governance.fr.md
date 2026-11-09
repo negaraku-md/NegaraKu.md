@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "malaysia-olympic-history" }
 related: []
 keywords: ["tadbir urus sukan Malaysia", "Majlis Sukan Negara", "Pesuruhjaya Sukan", "Akta Pembangunan Sukan 1997", "Majlis Olimpik Malaysia", "Kementerian Belia dan Sukan", "Institut Sukan Negara"]
+framework: explainer
 ---
 
 Un nouveau club de football à Johor peut acheter des maillots, louer un terrain et inscrire des joueurs — et il ne peut toujours pas légalement envoyer qui que ce soit représenter la « Malaisie » dans une compétition. La raison n'est ni l'argent ni le talent. C'est une question de qui accorde la permission. En Malaisie, le droit d'exister en tant qu'organisme sportif, le droit d'être financé et le droit de porter le nom de la nation proviennent de quatre institutions différentes que l'on confond souvent avec une seule.

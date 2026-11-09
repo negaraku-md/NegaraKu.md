@@ -89,6 +89,7 @@ keywords:
   - "is a non-compete enforceable in Malaysia"
   - "liquidated damages Malaysia section 75"
   - "Akta Kontrak 1950"
+framework: explainer
 ---
 
 ஒரு மலேசியக் கம்பெனி லண்டனில் வரையப்பட்ட விநியோக ஒப்பந்தம் ஒன்றில் கையெழுத்திடுகிறது.

@@ -62,6 +62,7 @@ keywords:
   - "MetMalaysia"
   - "MyBIS"
 sourceContentHash: "9a6c3f25f0c58105"
+framework: explainer
 ---
 
 # 为什么马来西亚是世界超多样性国家之一

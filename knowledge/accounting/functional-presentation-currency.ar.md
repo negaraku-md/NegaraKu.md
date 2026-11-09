@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "financial-statement-pack" }
 related: ["accounting-standards-index", "financial-statement-pack", "financial-reporting-deadlines"]
 keywords: ["العملة الوظيفية", "عملة العرض", "MFRS 121", "IAS 21", "تحويل العملات الأجنبية", "الإبلاغ بالرينغيت MYR", "MBRS", "الصرف الأجنبي foreign exchange"]
+framework: explainer
 ---
 
 يمكن لشركة ماليزية مؤسَّسة في كوالالمبور أن تمسك دفاترها بالدولار الأمريكي — وتكون محقّة تمامًا في ذلك. وهذا يفاجئ من يفترضون أن المنشأة الماليزية تُبلِغ بالرينغيت لأنها ماليزية. فبموجب MFRS 121، العملة التي تقيس بها مسألة واقع اقتصادي لا جغرافيا، بينما العملة التي تعرض بها مسألة منفصلة لها جوابها الخاص.

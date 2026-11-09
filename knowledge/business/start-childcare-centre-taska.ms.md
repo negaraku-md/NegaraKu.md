@@ -73,6 +73,7 @@ social:
     - StartABusiness
     - DoingBusinessInMalaysia
     - JKM
+framework: how-to
 ---
 
 Membuka pusat jagaan kanak-kanak terasa seperti perniagaan yang penyayang dan berhalangan rendah — sebuah rumah, beberapa buaian, beberapa tangan yang mesra. Di Malaysia ia bukan mana-mana daripada semua itu dari segi undang-undang. Detik anda menerima empat orang kanak-kanak kecil atau lebih daripada keluarga yang berlainan dengan bayaran, anda sedang mengendalikan sebuah **TASKA** (taman asuhan kanak-kanak), dan sebuah TASKA tidak boleh dibuka sehingga ia didaftarkan dengan kerajaan. Langkau langkah itu dan anda bukan seorang pemilik perniagaan kecil; anda sedang melakukan satu kesalahan jenayah.

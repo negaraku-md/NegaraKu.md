@@ -71,6 +71,7 @@ relations:
   - { rel: "governs", to: "financial-services-act-2013" }
 related: ["foreign-exchange-policy-malaysia", "online-business-licence-malaysia"]
 keywords: ["payment licence malaysia", "e-money licence malaysia", "BNM approval payment", "merchant acquiring malaysia", "limited purpose e-money", "FSA 2013 schedule 1"]
+framework: rules
 ---
 
 ある創業者が、顧客がチャージして素早く支払えるようにウォレット機能を追加する。誰かが

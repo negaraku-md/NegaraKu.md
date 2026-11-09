@@ -80,6 +80,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: ashton-tan
+framework: explainer
 ---
 
 Bagi seorang kanak-kanak yang membesar di Malaysia, soalan "sekolah mana?" membawa makna yang lebih mendalam berbanding di banyak negara. Sebahagiannya tentang jarak dan reputasi, seperti di mana-mana sahaja — tetapi ia juga merupakan pilihan antara sekolah kebangsaan yang mengajar terutamanya dalam bahasa Melayu dan sekolah jenis kebangsaan yang mengajar dalam bahasa Cina atau Tamil. Kedua-duanya adalah sebahagian daripada sistem awam yang sama, mengikut kurikulum kebangsaan yang sama, dan membawa kepada peperiksaan kebangsaan yang sama. Memahami bagaimana sistem itu bergabung bersama ialah langkah pertama untuk menavigasinya.

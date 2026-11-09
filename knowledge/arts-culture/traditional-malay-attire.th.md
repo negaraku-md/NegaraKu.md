@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "hari-raya-aidilfitri" }
 related: ["songket", "batik", "hari-raya-aidilfitri"]
 keywords: ["baju Melayu", "baju kurung", "kebaya", "samping", "songkok", "cekak musang", "Teluk Belanga", "pakaian tradisional Melayu"]
+framework: history-culture
 ---
 
 สังเกตชายคนหนึ่งเตรียมตัวสำหรับวันฮารีรายาหรืองานแต่งงาน เสื้อหลวมสวมแล้ว กางเกงใส่แล้ว — แต่เขายังไม่เสร็จ ที่เหลือคือสองสิ่งที่กำหนดว่าเขาดูแต่งกายครบชุดหรือครึ่ง ๆ กลาง ๆ กล่าวคือ ผ้าซัมปิงหนึ่งผืนที่คาดที่เอว และซงก๊กหนึ่งใบบนศีรษะ หากปราศจากสองสิ่งนี้ บาจูมลายูก็ยังไม่ใช่บาจูมลายูจริง ๆ

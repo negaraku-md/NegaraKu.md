@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["chinese-dialects", "chinese-clan-associations", "chinese-cemeteries", "chinese-new-villages", "population-composition"]
 keywords: ["帮群", "方言群", "籍贯", "福建帮", "广府帮", "客家帮", "潮州帮", "海南帮", "会馆", "义山", "马来西亚华人", "海南咖啡", "锡矿", "Chinese bang communities Malaysia"]
+framework: history-culture
 ---
 
 Di lorong-lorong lama Pulau Pinang, kedai-kedai yang menyokong sebaris penuh deretan muka kedai kebanyakannya ialah perniagaan milik orang Hokkien; di bandar-bandar yang bangkit kerana bijih timah seperti Kuala Lumpur dan Ipoh, lombong dan persatuan kraf dipenuhi orang Kantonis dan Hakka; dan ke mana sahaja bandar yang anda masuki, kedai kopi lama yang menjual kopi Hainan serta roti bakar dengan mentega dan kaya itu, di belakang kaunternya sering berdiri seorang Hainan.

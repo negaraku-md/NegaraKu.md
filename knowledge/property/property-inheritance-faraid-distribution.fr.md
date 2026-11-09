@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "property-real-property-gains-tax-rpgt" }
 related: []
 keywords: ["faraid", "héritage immobilier", "Loi sur la distribution 1958", "Distribution Act 1958", "Amanah Raya", "certificat de faraid", "petite succession", "bureau foncier"]
+framework: explainer
 ---
 
 Lorsqu'une personne décède en Malaisie, celui qui hérite de son logement dépend d'abord d'une question fondamentale : le défunt était-il musulman ou non-musulman ? Deux systèmes juridiques distincts régissent la réponse, et les deux passent par des autorités différentes avant qu'un titre foncier puisse changer de nom.

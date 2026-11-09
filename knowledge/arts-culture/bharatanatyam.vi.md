@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["tamil-in-malaysia", "deepavali", "thaipusam"]
 keywords: ["Bharatanatyam", "Indian classical dance Malaysia", "Temple of Fine Arts", "Sutra Dance Theatre", "Ramli Ibrahim", "Malaysian Indian dance", "nritta nritya", "Carnatic music", "Malaysia Barathanatyam Dance Association"]
+framework: history-culture
 ---
 
 Đôi chân của một vũ công gõ xuống sàn theo một họa tiết nhanh, chính xác. Những chiếc chuông reo theo nhịp trống mridangam. Đôi tay cô tạo thành một hình dạng — một con nai, một bông sen, một câu hỏi — và đôi mắt cô dõi theo nó trước khi khuôn mặt cô đáp lại bằng một cảm xúc mà khán giả được kỳ vọng cảm nhận, không chỉ xem. Rồi nhịp điệu kết lại, cô giữ một tư thế như một pho tượng, và âm nhạc lắng xuống thành im lặng.

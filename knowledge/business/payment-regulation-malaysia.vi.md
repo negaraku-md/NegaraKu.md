@@ -71,6 +71,7 @@ relations:
   - { rel: "governs", to: "financial-services-act-2013" }
 related: ["foreign-exchange-policy-malaysia", "online-business-licence-malaysia"]
 keywords: ["payment licence malaysia", "e-money licence malaysia", "BNM approval payment", "merchant acquiring malaysia", "limited purpose e-money", "FSA 2013 schedule 1"]
+framework: rules
 ---
 
 Một người sáng lập thêm một ví để khách hàng có thể nạp tiền và thanh toán nhanh hơn. Có người đề cập

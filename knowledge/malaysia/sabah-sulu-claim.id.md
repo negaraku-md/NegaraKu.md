@@ -95,6 +95,7 @@ relations:
   - { rel: "located-in", to: "sabah" }
 related: ["sabah"]
 keywords: ["Sabah claim", "Sulu Sultanate", "Lahad Datu", "1878 agreement", "North Borneo", "Sulu arbitration", "Philippines Sabah"]
+framework: explainer
 ---
 
 Sepatah kata Melayu yang ditulis ke dalam suatu kontrak era penjajahan pada 1878 masih membentuk suatu perselisihan diplomatik yang hidup, sebuah pencerobohan bersenjata yang mematikan pada 2013, dan suatu arbitrase bernilai miliaran dolar yang sampai ke pengadilan di Madrid, Luxembourg, The Hague, dan Paris. Kata itu adalah *padjak*, dan cara ia diterjemahkan menjadi inti bagi apakah Sabah dipajak atau diserahkan.

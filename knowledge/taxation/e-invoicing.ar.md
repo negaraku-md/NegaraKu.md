@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "e-invoice-vs-tax-invoice" }
 related: ["myinvois-phases", "myinvois-integration", "e-invoice-data-fields", "consolidated-e-invoice", "self-billed-e-invoice", "e-invoice-vs-tax-invoice", "e-invoice-accounting-records"]
 keywords: ["الفاتورة الإلكترونية ماليزيا", "e-Invoice Malaysia", "MyInvois", "مراحل الفوترة الإلكترونية ماليزيا", "مصادقة MyInvois"]
+framework: journey-hub
 ---
 
 كانت الفاتورة فيما مضى صالحة لأنك أنت أصدرتها. أما بموجب تفويض الفاتورة

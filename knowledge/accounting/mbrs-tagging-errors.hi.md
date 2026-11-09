@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "sdn-bhd-bookkeeping" }
 related: ["mbrs-2-filing-guide", "mbrs-2", "financial-statement-pack", "sdn-bhd-bookkeeping", "mfrs-vs-mpers"]
 keywords: ["MBRS टैगिंग त्रुटि", "SSMxT सत्यापन", "XBRL सत्यापन विफलता मलेशिया", "mTool त्रुटि", "MBRS अस्वीकृत", "ब्लॉक टैगिंग टेक्स्ट ब्लॉक SSM", "MBRS decimals पैमाना", "MBRS tagging error"]
+framework: explainer
 ---
 
 जो विफलता पैसा खर्च कराती है वह वह नहीं है जो फ़ाइल को उत्पन्न होने से रोकती है। यह वह है जो साफ़-सुथरी उत्पन्न होती है, साफ़-सुथरी दाखिल होती है, और एक ऐसी संख्या वहन करती है जो एक हज़ार के गुणक से गलत है।

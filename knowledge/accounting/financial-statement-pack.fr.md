@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "audit-exemption" }
 related: ["mbrs-2-filing-guide", "mbrs-tagging-errors", "unaudited-financial-statements", "financial-statements-lodgement", "audit-exemption", "mfrs-vs-mpers"]
 keywords: ["états financiers Malaisie", "déclaration des administrateurs", "déclaration sous serment états financiers", "rapport des administrateurs section 252", "rapport des auditeurs section 266", "comptes légaux Sdn Bhd", "cinquième annexe rapport des administrateurs", "financial statements Malaysia", "statement by directors", "statutory declaration"]
+framework: explainer
 ---
 
 Demandez à un administrateur malaisien ce qui part à la SSM chaque année et la réponse est

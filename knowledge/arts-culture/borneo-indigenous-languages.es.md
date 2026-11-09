@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "kaamatan" }
 related: ["languages-spoken", "sabah", "sarawak", "gawai-dayak", "kaamatan", "orang-asli"]
 keywords: ["indigenous languages Sabah Sarawak", "Borneo languages", "Kadazandusun language", "Dusunic", "Murutic", "Paitanic", "Iban language", "Bidayuh", "Melanau", "Orang Ulu", "Austronesian", "North Bornean languages", "Sama-Bajau"]
+framework: explainer
 ---
 
 Sobrevuele el interior de Borneo y cruzará más lenguas en una hora que las que la mayoría de los países albergan en total. Un valle fluvial en las tierras altas de Sabah, una casa comunal en el curso alto del Baram, en Sarawak, un pueblo pesquero de la costa: cada uno puede saludarle en una lengua que el valle vecino apenas entiende.

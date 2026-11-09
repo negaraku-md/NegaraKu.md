@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#Leens", "#BibGourmand", "#MichelinGuide", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 Taman Tun Dr Ismail-இல் உள்ள ஒரு கடை வளாகத்தில், புதிதாகச் சுடப்பட்ட ரொட்டியின்

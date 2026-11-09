@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "wau" }
 related: ["kelantan", "mak-yong", "wayang-kulit", "wau"]
 keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", "pantun berbalas", "seni persembahan", "warisan kebangsaan"]
+framework: history-culture
 ---
 
 Two groups sit cross-legged, facing each other on stage. There is no script. When the first group finishes a round of satirical pantun about rising prices, the second group has only a few seconds to compose a reply — and it must rhyme, must land on the beat, and ideally must be sharper than the original verse.

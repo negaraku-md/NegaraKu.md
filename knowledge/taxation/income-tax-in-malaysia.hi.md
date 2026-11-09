@@ -93,6 +93,7 @@ relations:
   - { rel: "explained-in", to: "corporate-tax-rates" }
 related: ["personal-tax-rates", "corporate-tax-rates", "personal-tax-reliefs", "pcb-monthly-tax-deduction"]
 keywords: ["income tax Malaysia", "cukai pendapatan Malaysia", "LHDN income tax", "182 day rule Malaysia", "self assessment system Malaysia", "chargeable income", "Malaysia tax residency", "year of assessment"]
+framework: explainer
 ---
 
 अधिकांश लोग मलेशिया के आयकर से किसी पेस्लिप पर एक अकेली पंक्ति के रूप में मिलते हैं — PCB — और साल में एक बार अप्रैल की आपाधापी के रूप में। उस पंक्ति के पीछे देश की सबसे परिणामकारी प्रणालियों में से एक बैठी है, और इसके बारे में लिखी गई लगभग हर चीज़ ग़लत जगह से शुरू होती है: एक दर-तालिका।

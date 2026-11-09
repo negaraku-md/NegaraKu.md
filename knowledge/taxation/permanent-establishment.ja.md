@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "dta-network" }
 related: ["dta-network", "company-tax-residence", "transfer-pricing-documentation", "withholding-tax-rates"]
 keywords: ["permanent establishment Malaysia", "section 12(3) Income Tax Act", "place of business Malaysia tax", "remote employee permanent establishment Malaysia", "dependent agent PE Malaysia"]
+framework: explainer
 ---
 
 マレーシアは恒久的施設（PE）の規則を二重に書いており、その二つのバージョンは一致しない。1967年所得税法（Act 53）s.12(4)にある国内法版は一つのリストである——管理の場所、支店、事務所、工場、作業場、倉庫、建設現場、農場、鉱山——であり、最低期間もなく、倉庫保管、購入又は情報収集についての除外もない。多くの協定のArticle 5にある協定版は、同じリストに建設についての六か月の閾値と、準備的又は補助的な活動の除外を加えたものである。

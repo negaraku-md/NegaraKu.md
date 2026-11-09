@@ -90,6 +90,7 @@ verificationNeeded:
   - "Whether salt is essential to tempoyak: sources conflict, with some describing it as made with or without salt and others treating a low salt level as necessary for safe, good-tasting fermentation — confirm with a food-science source."
   - "The typical fermentation duration and optimal conditions (commonly cited as roughly four to seven days at around 27°C, but figures vary by durian variety and study) — confirm with a food-science reference."
   - "The origin story of tempoyak as a durian-preservation method and the account of its spread by Sumatran seafarers — confirm with a food-history source, as this is repeated in food media rather than documented primary history."
+framework: explainer
 ---
 
 Few foods divide a room as sharply as durian, and tempoyak takes that already

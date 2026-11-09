@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "str-cash-aid" }
 related: ["i-saraan-epf-voluntary-contribution", "epf-socso-employees", "income-tax-individuals", "str-cash-aid"]
 keywords: ["i-Saraan", "i-Saraan Plus", "KWSP", "PERKESO", "Lindung Kendiri", "pekerja gig", "bekerja sendiri", "Akta Pekerja Gig 2025", "Akta 872", "SKSPS", "freelancer"]
+framework: explainer
 ---
 
 配車サービスの運転手として、あるいはフリーランスの仕事を受けて一生を送っていると、ひとつだけ自動的には起こらないことがある。誰もあなたの収入からKWSPやPERKESOのために天引きしてくれないのだ。正規の職に就く働き手にとって、その拠出金は毎月、舞台裏で行われている。自ら働くあなたにとって、その安全網は自分で築くまで存在しない——そして2026年、その一部がちょうど「任意」から「義務」へと変わったばかりである。

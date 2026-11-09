@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["Penang travel guide", "George Town UNESCO", "Penang street art", "Penang Hill funicular", "Penang hawker food", "George Town heritage core", "Batu Ferringhi", "things to do in Penang"]
+framework: explainer
 ---
 
 登上海岛，走出冷气房，第一件扑面而来的便是气味——镬气、华人庙宇的香火、鸡蛋花，还有马六甲海峡的咸味。乔治市是一座要用双脚去阅读的城市：一片紧凑的百年店屋网格，一座清真寺、一座宗祠和一座殖民时期的教堂可以共享同一街区。本指南将介绍看什么、去哪里吃、如何前往海滩和升旗山，以及该给这座奖赏慢游者的城市留出多少时间。

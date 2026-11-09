@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "equity-crowdfunding-p2p-malaysia" }
 related: ["kl20-startup-ecosystem", "securities-commission-malaysia"]
 keywords: ["venture capital malaysia", "private equity malaysia", "VCC VCMC malaysia", "SC registration venture capital", "raise funding startup malaysia", "MAVCAP", "Penjana Kapital", "VC tax incentive malaysia"]
+framework: explainer
 ---
 
 บริษัทมาเลเซียส่วนใหญ่เติบโตด้วยกำไรสะสม เงินเบิกเกินบัญชีธนาคาร หรือสินเชื่อ SME กลุ่มเล็กแต่สำคัญกลุ่มหนึ่งเติบโตด้วยส่วนทุนของคนอื่นแทน — กองทุนที่ซื้อส่วนหนึ่งของธุรกิจ ผลักดันให้ขยายขนาด และขายส่วนนั้นในอีกหลายปีต่อมาเป็นทวีคูณ นั่นคือสิ่งที่เงินร่วมลงทุนและไพรเวทอิควิตี้ทำ และมาเลเซียกำกับดูแล จัดหาเงินทุน และเก็บภาษีกิจกรรมนี้ในวิธีที่ทำให้คนที่สันนิษฐานว่ามันทำงานเหมือนสหรัฐอเมริกาประหลาดใจ

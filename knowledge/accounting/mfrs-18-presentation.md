@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "mfrs-vs-mpers" }
 related: ["mfrs-vs-mpers"]
 keywords: ["MFRS 18 Malaysia", "MFRS 18 effective date", "operating profit subtotal MFRS 18", "management-defined performance measures", "MFRS 18 five categories", "MFRS 101 replaced"]
+framework: explainer
 ---
 
 Every alert written about MFRS 18 so far has been aimed at a listed-company CFO

@@ -91,6 +91,7 @@ relations:
   - { rel: "part-of", to: "mydigital-blueprint" }
 related: ["malaysia-startup-ecosystem", "cradle-cip-grant", "malaysia-digital-economy-in-numbers", "mydigital-blueprint"]
 keywords: ["KL20", "KL20 Summit 2024", "KL20 Action Paper", "Malaysia startup ecosystem", "top 20 global startup hub", "Golden Pass", "pelan tindakan KL20", "Cradle Fund startup"]
+framework: explainer
 ---
 
 2024년 4월, 말레이시아는 자국 스타트업을 희망의 언어로 말하기를 그만두고 순위의 언어로 말하기 시작했습니다. 그 제안은 직설적이었습니다. 2030년까지 쿠알라룸푸르를 세계 20대 스타트업 생태계에 진입시키거나, 아니면 나라가 그동안 타성에 젖어 있었음을 인정하라는 것이었습니다.

@@ -75,6 +75,7 @@ relations:
   - { rel: "compares-with", to: "members-voluntary-winding-up" }
 related: ["companies-act-2016", "ssm", "members-voluntary-winding-up"]
 keywords: ["strike off syarikat", "seksyen 550 Akta Syarikat 2016", "potong nama syarikat SSM", "syarikat dorman", "pembubaran syarikat", "voluntary dissolution Malaysia"]
+framework: how-to
 ---
 
 一家早已停止营业的休眠公司在法律上仍然"活着"——仍须提交常年申报表，仍面临罚款风险，其董事仍对 SSM 承担责任。将公司从注册册中除名是正式终止这种存续的方式，但它只对真正没有资产、债务与纠纷的公司开放。

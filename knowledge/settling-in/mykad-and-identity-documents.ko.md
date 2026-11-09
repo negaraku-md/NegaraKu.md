@@ -81,6 +81,7 @@ keywords:
   - "kad pengenalan JPN warna"
   - "MyKid kanak-kanak"
   - "kad pengenalan warga asing Malaysia"
+framework: explainer
 ---
 
 말레이시아에서 이미 여러 해를 지낸 많은 외국인 — 현지인과 혼인하고, 이곳에서 아이를 키우고, 여러 해 갱신된 취업 패스를 소지한 — 이 여전히 언제 「MyKad를 받게」 될지 궁금해합니다. 답은: 받지 못합니다. 체류 기간 때문이 아니라 MyKad가 애초에 그들을 위한 것이 아니기 때문입니다. JPN은 사람의 **지위**에 따라 여러 다른 카드를 발급하며, 말레이시아의 대부분 외국인은 그 지위가 먼저 바뀌기 전까지 이 중 어느 것도 소지하지 않습니다.

@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "sabah" }
 related: ["religion-statistics", "article-3-religion", "sarawak", "sabah"]
 keywords: ["Christmas in Malaysia", "Christmas Day public holiday Malaysia", "Christmas Eve Sabah holiday", "Malaysian open house Christmas", "Christians in Malaysia", "Midnight Mass Malaysia", "Holidays Act 1951 Christmas"]
+framework: history-culture
 ---
 
 Pada malam 24 Disember, sebuah gereja di Kota Kinabalu atau Kuching penuh sesak untuk satu ibadah lewat malam, sementara beberapa ratus kilometer jauhnya di Semenanjung, tarikh yang sama merupakan hari Khamis bekerja biasa. Pada pagi esoknya, 25 Disember, seluruh negara bercuti. Perbezaan itu — satu tarikh, dua status yang amat berbeza — adalah cara paling jelas untuk memahami kedudukan Krismas di Malaysia: satu perayaan keagamaan bagi satu komuniti, cuti umum bagi semua orang, dan satu musim pintu terbuka yang disertai ramai orang tanpa mengira agama.

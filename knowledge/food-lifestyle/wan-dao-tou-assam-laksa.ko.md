@@ -75,6 +75,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#AssamLaksa", "#Penang", "#BibGourmand", "#MalaysianFood", "#Malaysia"]
+framework: profile
 ---
 
 assam laksa를 자부심으로 여기는 도시에서, Wan Dao Tou는 MICHELIN Guide의 조지타운

@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "section-33-deductibility" }
 related: ["income-tax-in-malaysia", "section-33-deductibility", "non-deductible-expenses", "personal-tax-rates", "which-tax-form"]
 keywords: ["rental income tax Malaysia", "cukai pendapatan sewa", "pre-letting expenses Malaysia", "can I deduct agent commission rental", "Public Ruling 12/2018", "quit rent deduction"]
+framework: explainer
 ---
 
 L'erreur la plus courante dans un calcul de revenus locatifs malaisien est de déduire le coût de la recherche du premier locataire. La commission de l'agent, les frais juridiques du contrat de location, le droit de timbre, l'annonce du bien : tout cela, non admis.

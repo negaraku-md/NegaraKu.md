@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "kinabatangan-floodplain" }
 related: ["sabah"]
 keywords: ["Bornean orangutan", "Sabah", "Wildlife Conservation Enactment 1997", "Sepilok", "Kinabatangan", "habitat protection", "totally protected species", "wildlife corridor"]
+framework: explainer
 ---
 
 Un orangután salvaje necesita mucho bosque, y un bosque conectado. En las tierras bajas del este de Sabah, eso se ha convertido en lo más escaso de todo: los árboles que antes permitían a un simio recorrer kilómetros sin tocar el suelo ahora se detienen en el borde de una plantación de palma aceitera. Que el orangután de Borneo sobreviva o no en este paisaje es, en buena medida, una cuestión de ley, tierra y corredores.

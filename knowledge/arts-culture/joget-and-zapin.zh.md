@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "songket" }
 related: ["mak-yong", "wayang-kulit", "songket"]
 keywords: ["Joget", "Zapin", "tarian tradisional Melayu", "Joget Melaka", "Zapin Johor", "gambus", "marwas", "branyo Portugis", "tarian rakyat Melayu"]
+framework: history-culture
 ---
 
 两名舞者随着 gendang 的鼓点快速舞动——脚下踏点铿锵有力，手部则轻柔曼舞。许多人看了之后径直称之为「马来舞蹈」，并不区分哪个是 Joget、哪个是 Zapin。追问两者各自从何而来，答案会把我们带往世界的两端：一端来自马六甲葡萄牙商船的甲板，另一端则来自哈德拉毛阿拉伯传教士的商队。

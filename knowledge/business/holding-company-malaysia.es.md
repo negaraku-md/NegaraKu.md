@@ -79,6 +79,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaTax
     - MalaysiaCompanyLaw
+framework: explainer
 ---
 
 En cuanto un empresario posee más de una empresa — un brazo comercial y un brazo inmobiliario, dos marcas, una empresa operativa y las inversiones de la familia — la pregunta deja de ser «¿cómo dirijo mi empresa?» y pasa a ser «¿cómo estructuro el grupo?». Una sociedad holding se sitúa en la cúspide, poseyendo a las demás, y puede aportar una propiedad más limpia, protección de activos y una salida más fluida. También trae cuentas consolidadas, su propio régimen fiscal y cargos que quizá no espere cuando mueve las piezas de un lado a otro.

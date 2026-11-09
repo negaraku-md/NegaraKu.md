@@ -71,6 +71,7 @@ faq:
     a: 'Tidak. Keduanya berbeda dalam jangkauan: Natal adalah hari libur umum secara nasional, sedangkan Jumat Agung hanya merupakan hari libur umum di Sabah dan Sarawak. Hal ini mencerminkan geografi iman tersebut, karena lebih dari dua pertiga umat Kristen Malaysia — dan Sarawak, tempat Kekristenan menjadi agama tunggal terbesar — berada di Malaysia Timur, bukan di semenanjung.'
   - q: Apa itu Christian Federation of Malaysia, dan badan-badan apa saja yang dihimpunnya?
     a: 'Christian Federation of Malaysia (Federasi Kristen Malaysia, CFM), yang dibentuk pada 1985, adalah badan payung utama. Badan ini menyatukan tiga aliran Kekristenan Malaysia: Konferensi Para Uskup Katolik (Catholic Bishops'' Conference), Dewan Gereja-Gereja Malaysia (Council of Churches of Malaysia, Protestan arus utama), dan Persekutuan Kristen Evangelikal Nasional (National Evangelical Christian Fellowship). CFM menyatakan mewakili lebih dari 95% gereja di negara ini, banyak di antaranya jemaat berbahasa Melayu di Sabah dan Sarawak.'
+framework: history-culture
 ---
 
 Kisah Kristen Malaysia memiliki dua pusat gravitasi, dan tak satu pun berada di

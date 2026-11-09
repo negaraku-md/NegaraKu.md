@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "foreign-company-branch-malaysia" }
 related: ["mida"]
 keywords: ["representative office malaysia", "regional office malaysia", "MIDA RE RO", "foreign company presence malaysia", "market entry malaysia", "non-trading office"]
+framework: explainer
 ---
 
 A foreign company that wants people on the ground in Malaysia — to size up the market, run product research, or coordinate its regional affiliates — does not have to incorporate a taxable trading company to do it. Malaysia offers a purpose-built, non-trading status for exactly this: the Representative Office (RE) or Regional Office (RO), approved by the Malaysian Investment Development Authority (MIDA).

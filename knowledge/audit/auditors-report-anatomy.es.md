@@ -82,6 +82,7 @@ relations:
   - { rel: "part-of", to: "statutory-audit-process" }
 related: ["audit-opinion-types", "emphasis-of-matter-kam", "going-concern-audit", "statutory-audit-process", "appointing-an-auditor", "financial-statements-lodgement"]
 keywords: ["informe de auditores Malasia", "secciones del informe de auditor independiente", "número AF firma de auditoría Malasia", "número de aprobación del socio de auditoría", "artículo 266 informe a los socios", "cómo leer un informe de auditoría", "auditors report Malaysia", "how to read an audit report"]
+framework: explainer
 ---
 
 Un informe de auditor de Malasia es un documento de formato fijo. La MIA publica las

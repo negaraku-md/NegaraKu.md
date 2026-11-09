@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "national-education-system" }
 related: ["jakim"]
 keywords: ["SABK", "sekolah agama", "tahfiz", "KAFA", "JAKIM", "pendidikan Islam", "sekolah agama rakyat", "jabatan agama negeri"]
+framework: explainer
 ---
 
 Un enfant en Malaisie pourrait passer la matinée dans une école nationale, l'après-midi dans une classe KAFA d'une mosquée, et ses années d'adolescence dans un dortoir de tahfiz — trois cadres éducatifs distincts avec des superviseurs, des programmes et des lois différents. La filière de l'enseignement religieux islamique se déroule en parallèle du système national, mais elle ne forme pas un bloc unique. Comprendre qui enregistre quoi, et qui est responsable de quoi, est la clé pour lire équitablement le débat public sur ce sujet.

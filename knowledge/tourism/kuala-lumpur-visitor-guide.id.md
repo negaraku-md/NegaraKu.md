@@ -97,6 +97,7 @@ relations:
   - { rel: "located-in", to: "malaysia" }
 related: []
 keywords: ["kuala lumpur", "petronas twin towers", "kl tower", "batu caves", "bukit bintang", "chinatown kuala lumpur", "klia ekspres", "kuala lumpur transport", "malaysia digital arrival card", "kl travel guide"]
+framework: profile
 ---
 
 Mendarat di Bandara Internasional Kuala Lumpur pada waktu subuh dan, dalam waktu sejam, Anda bisa berdiri di bawah dua menara perak yang pernah menguasai langit dunia — tanpa mobil sewa, tanpa perencanaan rumit, hanya sebuah kereta api dan kartu tap. Kemudahan itulah yang menjadi intisari KL: ia adalah pintu depan Malaysia, sebuah ibu kota yang padat dan murah tempat daya tarik utama terletak berdekatan hanya dengan sekali perjalanan rel, dan tempat hampir setiap perjalanan selanjutnya di negara ini dimulai.

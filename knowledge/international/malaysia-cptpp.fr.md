@@ -80,6 +80,7 @@ relations:
   - { rel: "affects", to: "bumiputera-equity-requirements" }
 related: ["external-trade", "matrade", "anti-dumping-countervailing-duties", "bumiputera-equity-requirements"]
 keywords: ["CPTPP Malaysia", "Trans-Pacific Partnership Malaysia", "CPTPP ratification", "CPTPP certificate of origin", "CPTPP tariff elimination", "CPTPP members", "Malaysia free trade agreement"]
+framework: explainer
 ---
 
 Un exportateur malaisien de confiserie expédiant vers Vancouver a cessé de payer un droit d'importation de 15 % le jour où le CPTPP est entré en vigueur, et cette seule ligne tarifaire est une petite fenêtre sur l'un des accords commerciaux les plus larges que la Malaisie ait jamais signés. L'Accord de partenariat transpacifique global et progressiste reconfigure la façon dont les biens, les services et les investissements malaisiens circulent à travers une douzaine d'économies des deux côtés du Pacifique. Il engage aussi la Malaisie à l'égard de règles qui vont bien au-delà du guichet douanier : la manière dont les entreprises publiques se font concurrence, dont la propriété intellectuelle est protégée et dont les différends avec les investisseurs étrangers sont réglés.

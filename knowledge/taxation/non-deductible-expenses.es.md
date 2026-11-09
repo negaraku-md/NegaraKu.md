@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "entertainment-expenses" }
 related: ["section-33-deductibility", "labuan-tax-regime", "withholding-tax-non-compliance", "withholding-tax-rates"]
 keywords: ["sección 39 income tax act 1967", "gastos no deducibles malasia", "gastos denegados cálculo fiscal", "39(1)(j) retención en origen", "39(1)(r) labuan", "readición cálculo fiscal malasia", "section 39 income tax act 1967", "non deductible expenses malaysia"]
+framework: rules
 ---
 
 La mayoría de los cuadros de readiciones se construyen por costumbre. Amortización, entretenimiento, multas, donaciones — las mismas seis líneas cada año, copiadas de un ejercicio al siguiente. La sección 39(1) contiene en realidad dieciocho prohibiciones vigentes, y las que cuestan más dinero no están en la lista habitual de nadie.

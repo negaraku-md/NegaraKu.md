@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
 keywords: ["मलेशिया में सामान भेजना", "घरेलू सामान आयात मलेशिया जकात", "जकात फॉर्म K1 मलेशिया", "मलेशिया में कार आयात", "Approved Permit AP मलेशिया", "MITI AP वाहन आयात", "JPJ आयात वाहन पंजीकरण", "PUSPAKOM आयातित कार", "प्रवासी मलेशिया स्थानांतरण कार"]
+framework: explainer
 ---
 
 मलेशिया के लिए हर स्थानांतरण चेकलिस्ट, जैसे ही आप पर्याप्त नीचे स्क्रॉल करते हैं, वही एक बात कहती है: अपना फर्नीचर भेज दें, अपनी कार बेच दें। कोई यह नहीं समझाता कि वे दो निर्देश इतने अलग क्यों हैं — एक कागजी कार्रवाई है, दूसरा एक दीवार है।

@@ -70,6 +70,7 @@ relations:
   - { rel: "governs", to: "akta-perkhidmatan-bomba-1988" }
 related: []
 keywords: ["keselamatan kebakaran", "pencegahan kebakaran", "perakuan bomba", "fire certificate", "JBPM", "Akta Perkhidmatan Bomba 1988"]
+framework: explainer
 ---
 
 Lửa không cảnh báo. Chỉ trong vài phút, một tia lửa từ ổ cắm quá tải hoặc một chiếc chảo bị bỏ mặc có thể san bằng một ngôi nhà — và chỉ riêng năm 2025, [Cục Cứu hỏa và Cứu nạn Malaysia](/vi/public-safety/fire-and-rescue-department-bomba) (JBPM) đã ghi nhận 16,111 vụ cháy với 98 ca tử vong và thiệt hại tài sản ước tính RM2.09 tỷ. Tin tốt là: gần như tất cả đều có thể được ngăn ngừa, dù ở phòng khách của bạn hay trên sàn nhà máy.

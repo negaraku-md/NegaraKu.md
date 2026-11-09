@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: ["trademark-registration-malaysia"]
 keywords: ["intellectual property Malaysia", "trademark registration Malaysia", "patent Malaysia", "copyright Malaysia", "MyIPO", "Trademarks Act 2019", "Patents Act 1983", "Copyright Act 1987"]
+framework: explainer
 ---
 
 Một logo, một công thức, một đoạn mã, một tên thương hiệu — vào khoảnh khắc bất kỳ thứ nào trong số đó bắt đầu kiếm tiền, người khác có lý do để sao chép nó. Luật Malaysia cho bạn một cách để nói "cái đó là của tôi, và đây là giấy tờ để chứng minh." Vấn đề là ba loại sở hữu trí tuệ chính hoạt động theo ba cách hoàn toàn khác nhau, và làm sai một cái có thể khiến một doanh nghiệp mất tài sản giá trị nhất của mình.

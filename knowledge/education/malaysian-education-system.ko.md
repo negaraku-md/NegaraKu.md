@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "public-universities-malaysia" }
 related: []
 keywords: ["Malaysian education system", "Ministry of Education Malaysia", "KPM", "SPM", "STPM", "matriculation Malaysia", "TVET Malaysia", "Malaysian Qualifications Framework"]
+framework: explainer
 ---
 
 세 명의 말레이시아인에게 「교육 제도」를 설명해 달라고 하면 세 가지 서로 다른 지도를 얻게 됩니다. 한 사람은 SK 대 SJKC를 이야기합니다. 다른 사람은 STPM 대 매트리큘레이션을 이야기합니다. 세 번째 사람은 기술 훈련 밖의 누구도 들어 본 적 없는 SKM 자격증을 언급합니다. 세 사람 모두 같은 제도를 설명하고 있습니다 — 다만 서로 다른 가지에서일 뿐입니다.

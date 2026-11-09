@@ -71,6 +71,7 @@ sources:
 relations: []
 related: ["choosing-accounting-secretarial-audit-tax-firm-malaysia", "company-secretary-malaysia", "audit-exemption-criteria", "accounting-records-section-245"]
 keywords: ["thay đổi thư ký công ty Malaysia", "bãi nhiệm kiểm toán viên Malaysia", "thay đổi đại lý thuế LHDN", "đổi hãng kế toán Malaysia", "từ chức thư ký công ty mục 237", "thông báo đặc biệt bãi nhiệm kiểm toán viên", "thay đổi hãng dịch vụ doanh nghiệp Malaysia", "cách thay đổi thư ký công ty SSM", "thay thế kiểm toán viên Companies Act 2016", "đổi người ghi sổ Malaysia"]
+framework: how-to
 ---
 
 Sớm hay muộn một công ty cũng vượt quá một nhà cung cấp — phí cứ nhích lên, dịch vụ trở nên im ắng, hoặc bạn đơn giản tìm được một lựa chọn phù hợp hơn. Bản năng là gửi một email và bước tiếp. Nhưng Malaysia không đối xử với bốn chuyên gia này theo cùng một cách: bỏ người ghi sổ của bạn là một cuộc gọi điện thoại, trong khi bãi nhiệm kiểm toán viên của bạn là một quy trình chính thức, được pháp luật bảo vệ. Đây là cách mỗi người thực sự vận hành, và cách chuyển đổi mà không để lại một khoảng trống tuân thủ.

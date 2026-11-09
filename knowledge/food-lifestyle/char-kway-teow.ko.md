@@ -97,6 +97,7 @@ social:
     - "#PenangFood"
     - "#MalaysianFood"
     - "#StreetFood"
+framework: explainer
 ---
 
 char kway teow만큼 말레이시아의 길거리 음식을 이토록 온전히 담아내는 접시는 드물

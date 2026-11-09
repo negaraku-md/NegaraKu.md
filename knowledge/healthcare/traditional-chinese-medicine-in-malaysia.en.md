@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "siddha-medicine" }
 related: ["siddha-medicine", "chinese-dialects", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["马来西亚中医", "中药行", "中药店", "针灸", "推拿", "拔罐", "余仁生", "传统与辅助医药法令", "第775号法令", "传统与辅助医药理事会", "中医注册", "中医教育", "Traditional Chinese Medicine Malaysia", "T&CM Act 2016"]
+framework: history-culture
 ---
 
 On the corner of many an old town there is always a Chinese medicine shop: the wall of wooden cabinets is packed with its grid of tiny drawers, and the air is a mix of angelica root (当归), dried tangerine peel (陈皮) and liquorice (甘草); behind the counter, an old master listens to the customer describe where it hurts while weighing out the medicinal materials one by one into kraft paper, then folding them into a single packet. Shops like this have existed in Malaysia's Chinese communities for more than a hundred years.

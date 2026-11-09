@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "statutory-audit-requirement" }
 related: ["companies-act-2016", "malaysian-institute-of-accountants"]
 keywords: ["juruaudit syarikat diluluskan", "approved company auditor", "seksyen 263", "lesen audit Malaysia", "sijil amalan MIA", "Akauntan Negara"]
+framework: rules
 ---
 
 Puede ser Contador Colegiado con el título completo, tener una licenciatura en contabilidad y años de experiencia — y aun así no estar autorizado a firmar por su cuenta el informe de auditoría de una empresa. En Malasia, el derecho a auditar una empresa es una licencia separada y estrictamente controlada, no algo que llega automáticamente con la condición de miembro profesional.

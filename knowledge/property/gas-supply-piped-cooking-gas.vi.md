@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "electricity-supply-tnb" }
 related: []
 keywords: ["gas paip asli", "Gas Malaysia", "tong gas", "LPG", "gas domestik", "subsidi gas", "gas memasak", "harga tong gas 14kg"]
+framework: explainer
 ---
 
 Bật bếp trong ngôi nhà mới của bạn và bạn sẽ nhanh chóng nhận ra: phần lớn người Malaysia nấu ăn bằng bình gas được giao đến tận cửa, chứ không phải gas chảy qua đường ống. Gas thiên nhiên qua đường ống đúng là có tồn tại — nhưng chỉ ở một phần nhỏ các khu vực đô thị. Hướng dẫn này giải thích cả hai lựa chọn, giá cả, quy định trợ giá và cách xử lý gas một cách an toàn.

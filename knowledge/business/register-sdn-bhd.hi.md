@@ -140,6 +140,7 @@ keywords:
   - "मलेशिया में कंपनी कैसे खोलें"
   - "how to open company Malaysia"
   - "CRS SSM4U registration"
+framework: how-to
 ---
 
 अधिकांश संस्थापक निगमन को लेकर हफ़्तों चिंता करते हैं। यह आमतौर पर पूरे साल में उनके द्वारा

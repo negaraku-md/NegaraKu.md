@@ -93,6 +93,7 @@ keywords:
   - "varieti durian"
   - "musim durian"
   - "eksport durian China"
+framework: explainer
 ---
 
 Ở Malaysia, sầu riêng không chỉ là một loại trái cây — nó được gọi là vua của các loại trái cây, và vào mùa cao điểm nó có thể làm tắc đường, đẩy giá thuê quầy lên cao, và thu hút du khách từ bên kia biển chỉ để có một múi thịt vàng đậm.

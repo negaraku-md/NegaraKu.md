@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["independence-1957", "federal-constitution", "sarawak"]
 keywords: ["تشكيل ماليزيا 1963", "لجنة كوبولد", "المواجهة", "انفصال سنغافورة 1965", "دمج صباح وساراواك", "formation of Malaysia 1963", "Cobbold Commission", "Konfrontasi", "Singapore separation 1965", "Sabah Sarawak merger"]
+framework: history-culture
 ---
 
 صارت أربعة أقاليم بلداً واحداً في 16 سبتمبر 1963، وفي غضون عامين كان أحدها قد غادر بالفعل. وهذه الحقيقة وحدها تكشف أن دمج 1963 لم يكن تمريناً إدارياً مرتّباً — بل كان مشروعاً سياسياً مُتنازَعاً عليه، عارضته حكومتان مجاورتان، وتفكّك بفعل توترات داخلية بُعيد نجاحه مباشرة.

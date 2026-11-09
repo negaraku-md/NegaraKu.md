@@ -91,6 +91,7 @@ verificationNeeded:
   - "Apakah tambah nasi (dan sayur) benar-benar 'tanpa batas' di rumah makan nasi daun pisang Malaysia — ini banyak dinyatakan di media kuliner tetapi penjelasan India Selatan tradisional menyebut dua kali penyajian nasi. Kebijakan berbeda-beda menurut restoran; pastikan terhadap praktik restoran atau sumber kuliner yang tepercaya."
   - "Pentingnya Penang (dibandingkan Brickfields di Kuala Lumpur) sebagai pusat nasi daun pisang — tidak terkonfirmasi secara langsung dalam sumber yang dirujuk; verifikasi terhadap sumber kuliner atau pariwisata khusus Penang."
   - "Atribusi komunitas yang tepat ('Tamil' versus 'India Selatan' yang lebih luas) untuk asal-usul hidangan ini dan kedatangannya di Malaysia — pastikan dengan sumber sejarah migrasi atau warisan kuliner."
+framework: explainer
 ---
 
 Duduklah di sebuah rumah makan nasi daun pisang di Malaysia dan tak ada piring

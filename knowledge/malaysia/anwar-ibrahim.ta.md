@@ -71,6 +71,7 @@ sources:
 
 related: ["1998-reformasi", "2018-change-of-government", "prime-ministers-of-malaysia", "mahathir-mohamad"]
 keywords: ["Anwar Ibrahim", "tenth prime minister Malaysia", "Reformasi", "MADANI government", "Pakatan Harapan"]
+framework: profile
 ---
 
 அன்வர் இப்ராஹிம் (பிறப்பு 1947 ஆகஸ்ட் 10) மலேசியாவின் **பத்தாவது பிரதமர்**

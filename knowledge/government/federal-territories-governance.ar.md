@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "dewan-negara" }
 related: ["federal-state-division", "state-assemblies-dun", "three-tiers-of-government", "dewan-rakyat", "dewan-negara"]
 keywords: ["الأقاليم الاتحادية", "Wilayah Persekutuan", "كوالالمبور بوتراجايا لابوان", "لا مجلس تشريعي للولاية", "عمدة معيّن", "DBKL هيئة بوتراجايا هيئة لابوان", "دائرة الأقاليم الاتحادية", "المادة 1 من الدستور الاتحادي", "إدارة الأقاليم الاتحادية", "Federal Territory Malaysia governance"]
+framework: explainer
 ---
 
 في الولاية، هناك سلطان أو يانغ دي-بِرتوا نيݢري (Yang di-Pertua Negeri)، وهناك رئيس وزراء الولاية (Menteri Besar) أو كبير الوزراء (Chief Minister)، وهناك مجلس تشريعي للولاية ينتخبه الناس. أما في كوالالمبور وبوتراجايا ولابوان، فلا شيء من ذلك. فهذه الأماكن الثلاثة ليست ولايات — بل هي أقاليم اتحادية، وتديرها الحكومة الاتحادية مباشرةً.

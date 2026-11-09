@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "pakatan-harapan" }
 related: []
 keywords: ["Barisan Nasional", "National Front", "BN", "Alliance Party", "UMNO", "MCA", "MIC", "GE14", "Malaysian coalition"]
+framework: profile
 ---
 
 오늘날 살아 있는 대부분의 말레이시아인에게, "정부"와 "국민전선(Barisan Nasional)"은 아주 오랫동안 거의 같은 말이었습니다. 1974년 첫 선거부터 2018년 패배 때까지, 국민전선은 연방 정부를 중단 없이 유지하였으며 — 이는 44년의 연속적인 재임이었습니다. 이 글은 그것이 어떻게 짜여졌고, 누가 거기에 속했으며, 그 긴 재임이 어떻게 끝났는지를 기록된 바에 충실하게 추적합니다.

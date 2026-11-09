@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["independence-1957", "formation-of-malaysia-1963", "melaka-sultanate"]
 keywords: ["pendudukan Jepun", "Tanah Melayu 1941-1945", "duit pisang", "Kota Bharu 1941", "pentadbiran tentera Jepun", "Perang Dunia Kedua Malaysia"]
+framework: history-culture
 ---
 
 Delapan minggu. Itulah jarak antara pendaratan pertama tentara Jepang di pantai Kelantan dan hari seluruh Tanah Melayu berada dalam genggaman Jepang — sebuah wilayah yang telah diperintah Inggris, dalam berbagai bentuk, selama lebih dari satu setengah abad.

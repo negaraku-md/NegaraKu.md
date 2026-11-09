@@ -69,6 +69,7 @@ faq:
     a: 'Because one product category carrying roughly half the export base concentrates risk three ways. Cyclicality: semiconductors are boom-and-bust, so a sector that grew 69.2% in a year can contract sharply. Position in the chain: back-end assembly and test is more contestable than fabrication, so competitors can build the same capacity. Geopolitics: export controls and reshoring policies written in other economies land directly on Malaysian plants.'
   - q: Why is Penang, specifically, the centre of Malaysia's chip industry?
     a: It traces to a 1972 policy decision. Penang established a free trade zone and courted foreign electronics firms with tax incentives, duty-free component imports and an available workforce. American and Japanese semiconductor companies set up assembly operations, and a cluster formed. Clusters deepen over time — suppliers, equipment servicing, locally trained engineers — which is why Penang and Kulim still concentrate so much of the sector half a century later.
+framework: profile
 ---
 
 ## At a glance

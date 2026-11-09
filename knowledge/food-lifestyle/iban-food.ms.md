@@ -100,6 +100,7 @@ verificationNeeded:
   - "Kaedah pemeraman kasam yang khusus Iban (tempoh pemeraman, penggunaan beras dan daun kepayang, serta bagaimana kasam berbeza daripada pekasam semenanjung atau balur Sarawak) — sumber yang ada menggambarkan amalan umum Sarawak dan Melayu dan bukan teknik Iban yang terdokumentasi; sahkan dengan sumber warisan masakan atau akademik."
   - "Sama ada paku midin (Stenochlaena palustris) benar-benar hanya terdapat di Sarawak. Bahan pelancongan Sarawak menyifatkannya sebagai unik kepada negeri itu, tetapi sumber hasil tani dan botani menggambarkannya sebagai paku liar kawasan paya tropika secara lebih luas — sahkan dengan sumber botani."
   - "Peranan ritual dan agama tuak yang tepat pada Gawai Dayak (persembahan kepada semangat padi atau Petara, dan adat menghidangkannya kepada tetamu). Catatan popular dan berita berbeza dari segi perincian dan sesetengahnya menggambarkan amalan yang berkembang atau dikomersialkan — sahkan dengan sumber antropologi atau komuniti."
+framework: history-culture
 ---
 
 Melangkah masuk ke dapur rumah panjang Iban di pedalaman Sarawak, dan hampir

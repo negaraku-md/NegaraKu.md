@@ -97,6 +97,7 @@ social:
     - "#PenangFood"
     - "#MalaysianFood"
     - "#StreetFood"
+framework: explainer
 ---
 
 มีไม่กี่จานที่สื่อถึงอาหารริมทางมาเลเซียได้อย่างสมบูรณ์เท่า char kway teow:

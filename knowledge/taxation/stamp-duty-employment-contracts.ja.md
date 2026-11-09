@@ -87,6 +87,7 @@ relations:
   - { rel: "affects", to: "employment-act-1955" }
 related: ["stamp-duty-rates", "stamp-duty-self-assessment", "employment-act-1955"]
 keywords: ["stamp duty employment contract Malaysia", "kontrak penggajian duti setem", "RM10 stamp duty offer letter", "STAMPS employment contract", "item 4 First Schedule"]
+framework: rules
 ---
 
 2025年6月、LHDNは使用者に対し、ほとんどの者がそれまで考えたこともなかった事実を告げた。ファイルキャビネットの中にあるすべての雇用契約書は課税対象の法律文書であり、税務調査はすでに始まっていた、というものである。その後に続いた優遇措置は今や期限を終え、それに代わったのは、通常の罰則を伴う通常のコンプライアンス義務である。

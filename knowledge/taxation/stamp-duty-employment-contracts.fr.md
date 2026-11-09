@@ -87,6 +87,7 @@ relations:
   - { rel: "affects", to: "employment-act-1955" }
 related: ["stamp-duty-rates", "stamp-duty-self-assessment", "employment-act-1955"]
 keywords: ["stamp duty employment contract Malaysia", "kontrak penggajian duti setem", "RM10 stamp duty offer letter", "STAMPS employment contract", "item 4 First Schedule"]
+framework: rules
 ---
 
 En juin 2025, le LHDN a annoncé aux employeurs quelque chose que la plupart n'avaient jamais envisagé : chaque contrat de travail rangé dans le classeur est un instrument soumis au droit, et les audits avaient déjà commencé. La concession qui a suivi a désormais expiré, et ce qui l'a remplacée est une obligation de conformité ordinaire assortie d'une pénalité ordinaire.

@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["employment-act-1955", "socso-perkeso"]
 keywords: ["OKU", "orang kurang upaya", "Akta 685", "Seksyen 29", "kuota 1%", "Kad OKU", "potongan cukai berganda", "pekerjaan inklusif"]
+framework: explainer
 ---
 
 Ramai OKU yang berkelayakan di Malaysia menghadapi jurang nyata dalam mendapatkan peluang pekerjaan dan temu duga — dan itulah jurang yang undang-undang cuba tutup. Malaysia mempunyai rangka kerja hak pekerjaan untuk orang kurang upaya (OKU) sejak 2008, ditambah insentif cukai untuk majikan, namun angka pengambilan masih di bawah sasaran. Panduan ini menerangkan apa yang undang-undang benar-benar kehendaki, dan apa yang majikan boleh tuntut.

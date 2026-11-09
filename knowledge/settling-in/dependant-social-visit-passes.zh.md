@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "employment-pass-malaysia" }
 related: ["moving-to-malaysia-first-steps", "imigresen", "employment-pass-malaysia", "work-passes-malaysia", "opening-bank-account"]
 keywords: ["Dependant Pass Malaysia", "Long-Term Social Visit Pass", "LTSVP Malaysia", "Employment Pass family", "sponsor spouse Malaysia visa", "parents visa Malaysia expatriate", "Malaysia family visa options"]
+framework: explainer
 ---
 
 一名迁居马来西亚的 Employment Pass 持证人，可以用一张准证带上配偶与年幼子女。他们的父母，或一名刚满十八岁的子女，则需要一张完全不同的准证。同一位主要持证人，同一个家庭，却是两个各自独立的移民类别——把两者混为一谈，是家庭担保申请卡住最常见的原因。

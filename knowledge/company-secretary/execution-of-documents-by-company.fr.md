@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "company-contracts-section-64" }
 related: ["companies-act-2016"]
 keywords: ["penyempurnaan dokumen", "cop mohor", "common seal", "seksyen 66", "surat ikatan", "deed", "pegawai diberi kuasa", "Akta Syarikat 2016", "tandatangan syarikat"]
+framework: explainer
 ---
 
 Avant que la Companies Act 2016 entre en vigueur le 31 janvier 2017, le sceau commun était la manière habituelle pour une société de signer des documents importants en Malaisie. Aujourd'hui, ce sceau commun peut ne pas exister du tout — et une société peut toujours signer valablement des contrats, des prêts et des deeds. Ce changement provient de la Companies Act 2016, précisément de la Section 61 et de la Section 66, et il déroute souvent les signataires qui cherchent encore le « cachet de la société ».

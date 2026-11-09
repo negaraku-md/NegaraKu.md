@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "applying-for-malaysian-citizenship-article-15" }
 related: []
 keywords: ["kewarganegaraan keturunan", "Perkara 14(1)(b)", "Borang D", "lahir luar negara", "JPN", "Jadual Kedua", "pindaan perlembagaan 2024", "Perkara 15(2)"]
+framework: explainer
 ---
 
 그곳에 근무 중인 말레이시아인 부부에게서 런던의 한 병원에서 아기가 태어납니다. 현지 출생 증명서는 아기가 영국에서 태어났다고 명시하지만, 말레이시아 법에 따라 그 아기는 이미 시민일 수 있습니다 — 그 지위가 올바르게 기록되는 한 말입니다. 그 지위가 어떻게 확인되고, 누가 자격이 있는지는 연방헌법의 기본 규정에 닿는 질문입니다.

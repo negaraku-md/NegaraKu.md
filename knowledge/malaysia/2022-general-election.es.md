@@ -65,6 +65,7 @@ sources:
 
 related: ["anwar-ibrahim", "ismail-sabri-yaakob", "muhyiddin-yassin", "prime-ministers-of-malaysia", "how-elections-work"]
 keywords: ["GE15", "elecciones generales de Malasia 2022", "parlamento sin mayoría", "gobierno de unidad", "Undi18"]
+framework: history-culture
 ---
 
 > **Borrador — sensible.** Este artículo es un resumen neutral, en curso de

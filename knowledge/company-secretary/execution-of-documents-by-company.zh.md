@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "company-contracts-section-64" }
 related: ["companies-act-2016"]
 keywords: ["penyempurnaan dokumen", "cop mohor", "common seal", "seksyen 66", "surat ikatan", "deed", "pegawai diberi kuasa", "Akta Syarikat 2016", "tandatangan syarikat"]
+framework: explainer
 ---
 
 在2016年公司法令（Companies Act 2016）于2017年1月31日生效之前，公司印章是马来西亚公司签署重要文件的惯常方式。如今，公司印章可以根本不存在——而公司仍然可以合法地签署合约、贷款与契据。这项改变源自2016年公司法令，尤其是第61条与第66条，它常常令那些仍在寻找「公司印章」的签署人感到困惑。

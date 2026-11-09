@@ -78,6 +78,7 @@ social:
     - MDEC
     - MalaysiaDigital
     - TechFunding
+framework: explainer
 ---
 
 大多数寻找 MDEC 资金的创办人会搜索"MDEC 补助金"，并期待有一项单一的计划。其实有两项，它们资助一家公司旅程中相反的两端，而两者都有一个不那么显眼的共同门槛：你必须已经身处 Malaysia Digital 之内才能进入。错过这一点，页面上的金额就无关紧要了。

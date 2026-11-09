@@ -121,6 +121,7 @@ relations:
   - { rel: "related-to", to: "communications-and-multimedia-act-1998" }
 related: []
 keywords: ["online safety act 2025", "act 866 malaysia", "online safety plan malaysia", "harmful content malaysia", "mcmc online safety"]
+framework: rules
 ---
 
 พระราชบัญญัติความปลอดภัยออนไลน์ปี 2025 ของมาเลเซียมักถูกอธิบายว่าเป็นกฎหมายโซเชียลมีเดีย แต่ไม่ค่อยจะใช่ มันเป็นกฎหมายว่าด้วย**ความประพฤติของผู้รับใบอนุญาต** และความแตกต่างนี้เป็นตัวตัดสินว่ามันครอบคลุมถึงคุณหรือไม่เลย

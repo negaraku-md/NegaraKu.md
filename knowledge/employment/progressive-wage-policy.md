@@ -76,6 +76,7 @@ sources:
 
 entity: "The Progressive Wage Policy (Dasar Gaji Progresif)"
 related: ["minimum-wage-malaysia"]
+framework: explainer
 ---
 
 ## What the Progressive Wage Policy is — and is not

@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "withholding-tax-rates" }
 related: ["withholding-tax-rates", "withholding-tax-special-classes", "withholding-tax-digital-services", "cp37-forms"]
 keywords: ["कर रोकने में विफलता मलेशिया", "failure to withhold tax Malaysia", "धारा 39(1)(j)", "section 39(1)(j)", "रोक-कर दंड मलेशिया", "withholding tax penalty Malaysia", "10 प्रतिशत वृद्धि", "धारा 113(2) दंड"]
+framework: explainer
 ---
 
 RM5,000 का चूका हुआ रोक-कर RM5,000 की लागत नहीं रखता। इसकी लागत RM5,500 कर में, RM12,000 खोई हुई कटौती में, और एक ऐसा दंड है जो आपके बाक़ी सब कुछ चुका देने के बाद भी फ़ाइल पर बना रहता है। यह अंकगणित एक बार, ठीक से, करने योग्य है।

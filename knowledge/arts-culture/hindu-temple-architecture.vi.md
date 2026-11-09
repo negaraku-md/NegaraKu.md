@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "hinduism-in-malaysia" }
 related: ["hinduism-in-malaysia", "thaipusam", "mariamman-worship", "temple-music-nadaswaram", "indian-classical-arts-in-malaysia"]
 keywords: ["இந்துக் கோயில் கட்டடக்கலை", "கோபுரம்", "விமானம்", "கர்ப்பக்கிரகம்", "மண்டபம்", "திராவிடக் கட்டடக்கலை", "கும்பாபிஷேகம்", "மலேசியா கோயில்கள்", "Hindu temple architecture", "gopuram", "Dravidian architecture Malaysia"]
+framework: history-culture
 ---
 
 Khi bạn đến gần bất kỳ khu phố nào ở một đô thị Malaysia nơi một cộng đồng Tamil đã bén rễ, một ngọn tháp phủ đầy tượng vươn lên trời đập vào mắt từ xa. Ngọn tháp cổng ấy, với những tầng tượng thần đầy màu sắc xếp chồng lên nhau, không phải là ngẫu nhiên — đó là sự tiếp nối của một truyền thống kiến trúc nghìn năm tuổi; dấu ấn của một di sản văn hóa mà những người gốc Tamil Nam Ấn đã mang theo đến Malaysia.

@@ -102,6 +102,7 @@ verificationNeeded:
   - "Liệu tập quán giữ bàn dùng chung bằng một gói khăn giấy hay một vật dụng cá nhân nhỏ (choping) có phổ biến và được công nhận ở các khu ẩm thực và kopitiam Malaysia đến mức như đã được ghi chép ở Singapore hay không — tập quán này được mô tả rõ cho Singapore nhưng có rất ít tài liệu chính thức về mức độ phổ biến của nó ở Malaysia. Hãy xác nhận với một nguồn Malaysia."
   - "Quy tắc tuyển chọn quầy của Lot 10 Hutong — Free Malaysia Today đưa tin các quầy cần có bề dày hoạt động ít nhất 40 năm, trong khi các mô tả quảng bá khác nêu khoảng 50 năm; con số này đến từ truyền thông và mô tả của bên vận hành chứ không phải một nguồn chính thức. Hãy xác nhận tiêu chí chính xác."
   - "Các khung điểm hạng vệ sinh A/B/C được trích dẫn là của từng chính quyền địa phương riêng lẻ (ví dụ Majlis Bandaraya Kuantan) và không đồng nhất ở cấp quốc gia; khoảng điểm chính xác và ngưỡng đóng cửa khác nhau giữa các chính quyền địa phương. Hãy xác nhận thang điểm với hội đồng cụ thể cho bất kỳ địa điểm nào."
+framework: explainer
 ---
 
 Hãy bước vào gần như bất kỳ khu dân cư nào ở Malaysia vào giờ trưa, bạn sẽ không

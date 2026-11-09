@@ -97,6 +97,7 @@ relations:
   - { rel: "located-in", to: "malaysia" }
 related: []
 keywords: ["kuala lumpur", "torres gemelas petronas", "torre kl", "batu caves", "bukit bintang", "chinatown kuala lumpur", "klia ekspres", "transporte kuala lumpur", "tarjeta digital de llegada a malasia", "guía de viaje kl"]
+framework: profile
 ---
 
 Aterrice en el Aeropuerto Internacional de Kuala Lumpur al amanecer y, en una hora, puede estar de pie bajo dos torres plateadas que un día dominaron el perfil urbano del mundo — sin coche de alquiler, sin planificación complicada, solo un tren y una tarjeta de paso. Esa facilidad es la esencia de KL: es la puerta de entrada de Malasia, una capital compacta y económica donde los lugares principales están a un corto trayecto en tren unos de otros, y donde comienza casi todo viaje posterior por el país.

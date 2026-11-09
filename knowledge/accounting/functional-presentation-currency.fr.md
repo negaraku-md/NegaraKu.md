@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "financial-statement-pack" }
 related: ["accounting-standards-index", "financial-statement-pack", "financial-reporting-deadlines"]
 keywords: ["monnaie fonctionnelle", "monnaie de présentation", "MFRS 121", "IAS 21", "conversion de devises étrangères", "déclaration en MYR", "MBRS", "cours de change"]
+framework: explainer
 ---
 
 Une entreprise malaisienne constituée à Kuala Lumpur peut parfaitement tenir ses livres en dollars américains — et avoir entièrement raison de le faire. Cela surprend ceux qui supposent qu'une entité malaisienne déclare en ringgit parce qu'elle est malaisienne. Selon la MFRS 121, la monnaie dans laquelle vous mesurez est une question de fait économique, non de géographie, tandis que la monnaie dans laquelle vous présentez est une question distincte ayant sa propre réponse.

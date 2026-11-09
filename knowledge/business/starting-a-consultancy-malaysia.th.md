@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "freelancer-and-gig-tax" }
 related: ["sole-prop-vs-sdn-bhd"]
 keywords: ["start a consultancy malaysia", "consulting business malaysia", "professional services firm malaysia", "freelance consultant register malaysia", "service tax consultancy malaysia", "LLP vs sdn bhd consulting", "regulated profession licence malaysia"]
+framework: how-to
 ---
 
 การให้คำปรึกษาดูเหมือนธุรกิจที่เริ่มง่ายที่สุด — ไม่มีสถานประกอบการ ไม่มีสินค้าคงคลัง เพียงความเชี่ยวชาญของคุณและแล็ปท็อป และสำหรับที่ปรึกษาการจัดการทั่วไป มันเกือบเป็นเช่นนั้น: จดทะเบียนกับ SSM แล้วคุณก็ค้าขาย แต่สองสิ่งทำให้ผู้คนสะดุด ข้อแรก หาก "การให้คำปรึกษา" ของคุณจริง ๆ เป็น*วิชาชีพที่ถูกกำกับ* การจดทะเบียนธุรกิจไม่เพียงพอ — คุณต้องมีใบอนุญาตประกอบวิชาชีพ ข้อสอง นิติบุคคลที่คุณเลือกและภาษีที่คุณอยู่ภายใต้สำคัญต่อบริษัทบริการมากกว่าธุรกิจเกือบทุกประเภท เพราะรายได้ของคุณ*คือ*ธุรกิจ

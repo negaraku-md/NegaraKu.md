@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "emergencies-999" }
 related: ["klinik-kesihatan", "how-malaysian-healthcare-works", "private-hospitals-and-costs", "emergencies-999"]
 keywords: ["mental health services Malaysia", "Talian HEAL 15555", "Talian Kasih 15999", "Befrienders Malaysia", "MENTARI clinic Malaysia", "psychiatric hospital Malaysia", "MMHA Malaysian Mental Health Association", "counselling Malaysia", "where to get mental health help Malaysia", "Mental Health Act 2001 Malaysia"]
+framework: explainer
 ---
 
 உதவி கேட்க முடிவெடுப்பதே பெரும்பாலும் மிகவும் கடினமான பகுதி. *எங்கே* கேட்பது என்பதைக் கண்டுபிடிப்பது தான் கிட்டத்தட்ட யாரும் விளக்காத பகுதி — அந்த இடைவெளி மட்டுமே மக்களை ஒருபோதும் அந்த அழைப்பைச் செய்யாமல் தடுத்துவிடுகிறது.

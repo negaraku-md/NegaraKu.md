@@ -81,6 +81,7 @@ keywords:
   - "kedudukan Raja-Raja Melayu"
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
+framework: history-culture
 ---
 
 Selama satu tahun sepuluh bulan, Tanah Melayu diperintah di bawah sebuah konstitusi yang hari ini hampir tidak dikenal siapa pun selain namanya. Malayan Union bermula pada 1 April 1946 dan berakhir pada 31 Januari 1948 — cukup singkat untuk tidak sempat meninggalkan bangunan, mata uang, atau generasi administrator sendiri.

@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "population-composition" }
 related: ["federal-constitution", "orang-asli", "population-composition", "bumiputera-equity-requirements"]
 keywords: ["Bumiputera", "بوميبوترا", "تعريف بوميبوترا", "المادة 153", "المادة 160", "المادة 161A", "Perkara 153", "الملايو", "أبناء صباح وساراواك", "المكانة الخاصة", "الدستور الاتحادي"]
+framework: explainer
 ---
 
 ابحث عن كلمة «بوميبوترا» في نص الدستور الاتحادي، فلن تجدها. فالمصطلح الذي كثيراً

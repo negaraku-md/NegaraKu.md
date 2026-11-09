@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "retrenchment-malaysia" }
 related: ["termination-of-employment-malaysia", "retrenchment-malaysia", "offboarding-statutory-checklist"]
 keywords: ["beneficios por terminación malasia", "cálculo del beneficio por despido colectivo", "reglamento TBLB 1980", "indemnización por terminación malasia", "beneficios por despido temporal malasia", "10 15 20 días de salario", "termination benefits malaysia", "TBLB regulations 1980"]
+framework: rules
 ---
 
 Dos empleadores despiden al mismo empleado el mismo día. Uno paga un mes de salario y lo llama generoso. El otro paga 20 días de salario por cada uno de nueve años — aproximadamente seis meses de sueldo — porque eso es lo que exige la ley. La diferencia es que el segundo leyó el Reglamento de Empleo (Beneficios por Terminación y Despido Temporal) de 1980.

@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "representative-regional-office-malaysia" }
 related: ["mida"]
 keywords: ["principal hub malaysia", "global services hub malaysia", "regional headquarters malaysia", "MIDA principal hub incentive", "GSH tax incentive malaysia", "headquarters incentive malaysia"]
+framework: explainer
 ---
 
 Las multinacionales no ponen su sede regional en cualquier sitio — siguen los incentivos. Durante años, la propuesta de Malasia a las empresas que decidían dónde basar su gestión regional, sus finanzas y sus operaciones de servicios compartidos fue el incentivo **Principal Hub**. Ese esquema ha cerrado, y muchos consejos en línea no se han puesto al día. Si hoy está evaluando Malasia como base de operaciones, la vía que realmente existe es el **Global Services Hub**.

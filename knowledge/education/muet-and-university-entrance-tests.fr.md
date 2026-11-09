@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "stpm" }
 related: []
 keywords: ["MUET", "Majlis Peperiksaan Malaysia", "MPM", "band MUET", "kemasukan universiti", "STPM", "kemahiran bahasa Inggeris", "ijazah sarjana muda"]
+framework: explainer
 ---
 
 Vous pouvez exceller au STPM ou en matriculation, mais sans un résultat de plus, votre dossier de candidature en licence reste incomplet. Ce résultat, c'est le MUET — et de nombreux étudiants n'en mesurent l'importance que lorsque la date limite de candidature à l'université approche déjà.

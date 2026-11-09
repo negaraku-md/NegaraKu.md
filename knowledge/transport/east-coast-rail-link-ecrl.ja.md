@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "logistics-ports-industry" }
 related: ["ecer-guide", "kl-singapore-high-speed-rail", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["East Coast Rail Link", "ECRL", "Laluan Rel Pantai Timur", "Malaysia Rail Link", "CCCC railway Malaysia", "ECRL cost completion", "Kota Bharu Port Klang rail", "ECER rail"]
+framework: profile
 ---
 
 何十年もの間、クアラルンプールと東海岸の州々との間を最も速く移動する手段は、山越えの長い陸路だった。東海岸鉄道リンクは、ただ一本の線路がそれを変え、その過程でこの国の成長が起きる場所そのものを再配分できる——というマレーシアの賭けである。

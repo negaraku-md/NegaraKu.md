@@ -92,6 +92,7 @@ keywords:
   - "Sukan Untuk Semua"
   - "pembiayaan atlet elit"
   - "Institut Sukan Negara Podium"
+framework: explainer
 ---
 
 Mỗi khi một vận động viên Malaysia bước lên bục vinh quang Olympic, thực ra có hai hệ thống khác nhau đang làm việc phía sau người đó — một hệ thống cố gắng mời gọi cả dân tộc vận động, và một hệ thống khác dồn những nguồn lực lớn cho một số ít có khả năng chiến thắng. Cả hai đều tồn tại dưới cùng một văn kiện chính sách, nhưng được tài trợ và đo lường theo những cách rất khác nhau.

@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "orang-asli" }
 related: ["unesco-world-heritage", "peranakan", "orang-asli"]
 keywords: ["मुज़ियम नेगारा", "Muzium Negara", "इस्लामिक आर्ट्स म्यूज़ियम मलेशिया", "Islamic Arts Museum Malaysia", "IAMM", "Perak Museum Taiping", "Sarawak Museum", "Sabah Museum", "मलेशिया के राज्य संग्रहालय"]
+framework: history-culture
 ---
 
 अधिकांश आगंतुकों से पूछिए कि मलेशिया का सबसे पुराना संग्रहालय कौन-सा है, और वे मुज़ियम नेगारा (Muzium Negara) का अनुमान लगाएँगे — महल-जैसी छत वाली वह इमारत जो कुआलालंपुर की संग्रहालय-पंक्ति को आधार देती है। वे अस्सी वर्ष से चूक जाएँगे। वह लक्ष्य तायपिंग (Taiping) की एक साधारण दीर्घा को प्राप्त है, जो तब बनी थी जब मुज़ियम नेगारा का स्थल अब भी उसके पूर्ववर्ती के कब्ज़े में था।

@@ -86,6 +86,7 @@ keywords:
   - "section 26 Companies Act 2016 name"
   - "SSM controlled words company name"
   - "company name rejected SSM"
+framework: rules
 ---
 
 一个名称被拒的最常见原因，并不是已经有人用了它，而是 SSM 认为它与某个你根本不会

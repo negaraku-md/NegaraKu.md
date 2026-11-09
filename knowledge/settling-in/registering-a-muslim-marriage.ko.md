@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "registering-a-civil-marriage" }
 related: ["registering-a-marriage-civil", "syariah-court-system"]
 keywords: ["muslim marriage malaysia", "nikah registration", "SPPIM", "wali hakim", "kursus pra perkahwinan", "akad nikah", "syariah court marriage", "islamic family law act 303"]
+framework: how-to
 ---
 
 두 사람이 혼인할 준비가 되었고, 양가가 만났으며, 날짜가 정해졌습니다 — 그러나 말레이시아에서 무슬림 혼인은 주가 운영하는 정해진 행정적·종교적 절차를 거치기 전까지는 등록된 혼인이 되지 않습니다. 이슬람은 연방헌법상 주 사항이므로, 각 주와 연방 직할구는 자체 이슬람 가족법 법령과 자체 주 이슬람 종교국(Jabatan Agama Islam Negeri)을 가집니다. 아래 단계는 전국적으로 대체로 유사합니다. 정확한 법정 참조를 위해 여기서는 연방 직할구 법인 이슬람 가족법(연방 직할구)법 1984(Act 303)를 사용합니다.

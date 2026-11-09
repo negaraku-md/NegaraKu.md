@@ -66,6 +66,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-expansion-2025", "sst-registration", "sst-02-filing"]
 keywords: ["SST B2B exemption", "service tax B2B Malaysia", "business to business exemption service tax", "same taxable service exemption"]
+framework: rules
 ---
 
 B2B免除はほぼ毎回、同じ条件でつまずく。取得したサービスは、取得者が引き続き

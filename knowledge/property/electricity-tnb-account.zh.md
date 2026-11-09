@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "mobile-sim-plans" }
 related: ["moving-to-malaysia-first-steps", "mobile-sim-plans"]
 keywords: ["akaun elektrik TNB", "buka akaun TNB baru", "deposit elektrik TNB", "tukar nama akaun elektrik", "Change of Tenancy TNB", "SESB Sabah elektrik", "Sarawak Energy deposit", "myTNB Self Meter Reading", "bacaan meter elektrik", "Kedai Tenaga"]
+framework: how-to
 ---
 
 你已经拿到新家的钥匙，但电灯开关毫无反应。屋外的电表仍在旧屋主名下运转着——而在账户过户之前，你用的每一度电，名义上都还挂在别人的欠款责任上。许多人以为「打电话给 TNB」就能解决这个问题。在马来西亚半岛，没错。但在沙巴与砂拉越，那完全是打错电话。

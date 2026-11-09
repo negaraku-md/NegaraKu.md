@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["income-tax-act-1967", "lhdn"]
 keywords: ["REIT tax Malaysia", "property trust fund", "section 61A", "withholding tax REIT", "YA 2026 REIT tax", "unit holder distribution"]
+framework: explainer
 ---
 
 Beli satu unit dalam REIT Malaysia dan Anda pada dasarnya menjadi tuan tanah yang tidak pernah menerima tagihan pajak dari bangunan itu — karena amanah yang memilikinya menyerahkan hampir segalanya kepada Anda sebelum pihak pajak dapat menyentuhnya. Pilihan desain tunggal itu, yang termaktub dalam Pasal 61A Income Tax Act 1967, adalah apa yang membuat amanah investasi properti (REIT) dan dana perwalian properti (PTF) berfungsi. Tetapi pada tahun taksiran (TT) 2026, separuh lagi dari tawaran itu — bagaimana *Anda*, pemegang unit, dikenai pajak — berubah untuk pertama kalinya dalam beberapa tahun.

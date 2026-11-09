@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "e-invoice" }
 related: ["mbrs-2-filing-guide", "mbrs-tagging-errors", "form-c-and-cp204", "financial-year-end", "e-invoice", "mfrs-vs-mpers", "corporate-tax-rates"]
 keywords: ["Sdn Bhd बहीखाता", "खातों का चार्ट मलेशिया", "मासिक समापन मलेशिया", "धारा 245 लेखांकन अभिलेख", "कर-गणना वापस-जोड़", "पूँजी भत्ता रजिस्टर", "SSMxT मानचित्रण खातों का चार्ट", "Sdn Bhd bookkeeping", "chart of accounts Malaysia"]
+framework: how-to
 ---
 
 किसी Sdn Bhd के लिए अधिकांश बहीखाता सलाह नामे और जमा पर आकर रुक जाती है। वह समस्या

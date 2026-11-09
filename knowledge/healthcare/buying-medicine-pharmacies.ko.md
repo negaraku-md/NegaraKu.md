@@ -53,6 +53,7 @@ relations:
   - { rel: "related-to", to: "healthcare-for-seniors" }
 related: ["medical-insurance", "healthcare-for-seniors"]
 keywords: ["beli ubat Malaysia", "farmasi Malaysia", "Akta Racun 1952", "ubat preskripsi", "ubat bebas", "Poisons Act 1952", "ahli farmasi berdaftar", "racun Kumpulan B", "Quest3+", "NPRA"]
+framework: explainer
 ---
 
 한 손님이 약국 카운터에서 기침약을 요청하고 바로 응대를 받습니다. 또 다른 손님은 인후통에 항생제를 요청하고 먼저 의사 처방전을 보여 달라는 요청을 받습니다. 두 거래는 같은 약국에서, 같은 날 일어납니다 — 차이는 약사의 재량이 아니라 그 약을 분류하는 법에 있습니다.

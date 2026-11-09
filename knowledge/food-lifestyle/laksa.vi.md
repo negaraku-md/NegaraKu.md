@@ -93,6 +93,7 @@ verificationNeeded:
   - "Truyền thuyết về nguồn gốc laksa Johor (Sultan Abu Bakar tiếp nhận spaghetti sau một chuyến đi châu Âu), niên đại trị vì chính xác của vị sultan (các nguồn ghi cả 1862–1895 lẫn 1886–1895), và năm laksa Johor được công báo là di sản (các nguồn dẫn 2009, 2013 và 2023) — hãy xác nhận với một nguồn lịch sử sơ cấp hoặc nguồn của Jabatan Warisan Negara."
   - "Từ nguyên của từ 'laksa' (các giả thuyết Ba Tư, Phạn ngữ và Phúc Kiến đều lưu truyền) — hãy xác nhận với một nguồn ngôn ngữ học hoặc từ điển học chứ không phải truyền thông ẩm thực."
   - "Việc quy laksam cho Kelantan và Terengganu cùng mô tả chính xác về sợi/nước dùng của nó — hãy xác nhận với một nguồn địa phương."
+framework: explainer
 ---
 
 Gọi "laksa" ở Penang và bạn sẽ nhận được một bát nước dùng cá chua gắt khiến

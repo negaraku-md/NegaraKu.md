@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "srivijaya" }
 related: ["melaka-sultanate", "langkasuka", "srivijaya", "independence-1957"]
 keywords: ["kesultanan Melayu", "sistem pembesar", "daulat", "waadat", "adat perpatih", "adat temenggung", "Bendahara", "Majlis Raja-Raja", "Yang di-Pertuan Agong", "raja berperlembagaan"]
+framework: explainer
 ---
 
 서류도, 양식도, 번호가 붙은 부서도 없는 한 나라를 상상해 보십시오. 명령은 말로 전해지고, 정의는 궁정의 알현실에서 내려지며, 사회 전체의 질서가 현대어로 정확히 옮길 수 없는 한 단어에 달려 있습니다. 바로 *다울랏(daulat)*입니다. 그것이 말레이 술탄국의 세계였습니다. 수 세기 동안 해안과 강을 따라 수천의 삶을 짜 맞춘 체계이자, 그 그림자가 오늘날 말레이시아 헌법에서도 여전히 보이는 체계입니다.

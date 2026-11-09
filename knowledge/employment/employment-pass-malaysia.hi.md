@@ -124,6 +124,7 @@ entity: "Employment Pass (Malaysia)"
 relations: []
 related: ["labour-law-map-malaysia", ]
 keywords: ["employment pass malaysia", "EP category 1 वेतन", "Employment Pass वेतन 2026", "ESD पंजीकरण", "myxpats", "प्रवासी मलेशिया", "Employment Pass नवीनीकरण"]
+framework: rules
 ---
 
 1 जून 2026 को मलेशिया में एक प्रवासी की क़ीमत शिखर पर दोगुनी हो गई।

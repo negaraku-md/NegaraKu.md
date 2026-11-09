@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "perquisites-and-benefits-in-kind-tax" }
 related: ["companies-act-2016"]
 keywords: ["ESOS malaysia", "employee share option scheme malaysia", "ESOP malaysia tax", "share option perquisite malaysia", "section 75 companies act 2016", "bursa 15% share scheme", "how ESOS is taxed malaysia"]
+framework: explainer
 ---
 
 Perusahaan baru yang kekurangan kas dan perusahaan matang yang mengejar retensi karyawan menggunakan alat yang sama: berikan karyawan sepotong ekuitas. Skema Opsi Saham Karyawan (ESOS) memungkinkan staf membeli saham kemudian pada harga yang ditetapkan hari ini, supaya mereka berbagi keuntungan yang mereka bantu ciptakan. Ia berkuasa — dan ia juga tempat pendiri diam-diam keliru tentang hukum dan pajak, biasanya pajak.

@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["independence-1957", "formation-of-malaysia-1963", "melaka-sultanate"]
 keywords: ["pendudukan Jepun", "Tanah Melayu 1941-1945", "duit pisang", "Kota Bharu 1941", "pentadbiran tentera Jepun", "Perang Dunia Kedua Malaysia"]
+framework: history-culture
 ---
 
 8주. 이것이 일본군이 켈란탄(Kelantan) 해안에 처음 상륙한 날과, 말라야(Malaya) 전역이 일본의 손아귀에 들어간 날 사이의 간격입니다 — 영국이 여러 형태로 한 세기 반 넘게 통치해 온 영토가 말입니다.

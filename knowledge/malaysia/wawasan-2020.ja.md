@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "new-economic-policy" }
 related: ["new-economic-policy"]
 keywords: ["Wawasan 2020", "Vision 2020", "Mahathir Mohamad", "Bangsa Malaysia", "negara maju", "sembilan cabaran", "Wawasan Kemakmuran Bersama 2030"]
+framework: explainer
 ---
 
 1991年2月のある朝、一人の首相が国内有数の実業家たちの前に立ち、30年先を見据えた一つの目標を掲げた——2020年までに、マレーシアは完全な先進国とならなければならない。それは経済面だけでなく、団結、社会的公正、そして市民的成熟の面においてもである。この構想こそが、のちにワワサン2020として知られるようになった。

@@ -82,6 +82,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaConstruction
     - ContractorMalaysia
+framework: how-to
 ---
 
 Anda dapat mendaftarkan sebuah perusahaan dalam satu sore, tetapi perusahaan itu masih tidak dapat secara sah menuang pelat, memasang kabel bangunan, atau menender kontrak jalan sampai ia memiliki satu lisensi kedua yang terpisah. Di Malaysia, konstruksi adalah suatu perdagangan yang diatur: *perusahaan* itu didaftarkan dengan SSM, dan *kontraktor* itu didaftarkan dengan CIDB. Lewati langkah kedua dan kerja pertama yang Anda ambil adalah tindak pidana, bukan kontrak.

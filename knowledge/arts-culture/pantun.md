@@ -73,6 +73,7 @@ social:
 verificationNeeded:
   - "Tarikh tepat asal usul seni berpantun tidak dapat dipastikan; pandangan sarjana yang paling kuat mengaitkannya dengan sekitar abad ke-15, iaitu sebelum Sejarah Melayu (~1612). Angka ini masih diperdebatkan dan bukan tarikh yang muktamad."
   - "Had panjang maksimum pantun berangkap panjang berbeza antara sumber (sebahagian menyebut sehingga 16 baris, sebahagian lain hingga sekitar 22 baris); jumlah yang pasti tidak seragam."
+framework: history-culture
 ---
 
 > Pisang emas dibawa belayar,

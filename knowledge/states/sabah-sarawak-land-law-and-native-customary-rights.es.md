@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
 related: ["federal-constitution"]
 keywords: ["derechos consuetudinarios nativos", "native customary rights", "NCR", "Sarawak Land Code", "Sabah Land Ordinance", "título nativo", "native title", "temuda", "pemakai menoa", "derecho de la tierra de Malasia Oriental"]
+framework: explainer
 ---
 
 Compre una casa en Kuala Lumpur y una sola ley federal rige su título. Haga lo mismo en Kuching o Kota Kinabalu y entrará en un mundo jurídico enteramente distinto — uno con sus propias ordenanzas, sus propias categorías de tierra y una forma de tenencia que ningún papel creó: los Derechos Consuetudinarios Nativos.

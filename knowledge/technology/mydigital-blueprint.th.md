@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "malaysias-telcos-and-5g" }
 related: ["digital-free-trade-zone", "cyberjaya-tech-hub", "malaysias-telcos-and-5g"]
 keywords: ["MyDIGITAL", "Blueprint Ekonomi Digital Malaysia", "Malaysia Digital Economy Blueprint", "ekonomi digital Malaysia", "Malaysia Digital", "MDEC", "Status Malaysia Digital", "MD2030"]
+framework: explainer
 ---
 
 ในเดือนกุมภาพันธ์ 2021 ท่ามกลางการระบาดของ COVID-19 ที่บังคับให้ชาวมาเลเซียหลายล้านคนหันมาออนไลน์ รัฐบาลวางเป้าหมายที่กล้าหาญไว้บนกระดาษ: ทำให้เศรษฐกิจดิจิทัลมีส่วน 22.6% ต่อผลิตภัณฑ์มวลรวมภายในประเทศ (GDP) ภายในปี 2025 เอกสารที่นำเป้าหมายนั้นคือแผนแม่บทเศรษฐกิจดิจิทัลมาเลเซีย — กระดูกสันหลังของโครงการที่รู้จักกันดีในชื่อ MyDIGITAL

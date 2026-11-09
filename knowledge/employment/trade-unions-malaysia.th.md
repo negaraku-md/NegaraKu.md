@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "industrial-relations-act-malaysia" }
 related: []
 keywords: ["kesatuan sekerja", "trade union", "Akta Kesatuan Sekerja 1959", "Akta 262", "JHEKS", "e-TUIS", "pindaan 2024", "perundingan kolektif", "Ketua Pengarah Kesatuan Sekerja"]
+framework: explainer
 ---
 
 เป็นเวลาหลายทศวรรษ คนงานโรงงานในมาเลเซียสามารถเข้าร่วมได้เพียงสหภาพเดียวที่ "ชอบด้วยกฎหมาย" สำหรับสถานที่ทำงานของตน — และหากสหภาพนั้นมีอยู่แล้ว ไม่มีกลุ่มลูกจ้างอื่นสามารถจัดตั้งสหภาพใหม่ได้ การปฏิรูปกฎหมายที่มีผลบังคับใช้เมื่อวันที่ 15 กันยายน 2024 เปลี่ยนสมมติฐานพื้นฐานนั้น

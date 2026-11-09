@@ -91,6 +91,7 @@ relations:
   - { rel: "compares-with", to: "akpk-debt-management-programme" }
 related: []
 keywords: ["kebankrapan", "bankrap", "insolvensi", "Akta Insolvensi 1967", "MDI", "Ketua Pengarah Insolvensi", "pelepasan bankrap", "seksyen 33C", "AKPK", "DMP"]
+framework: explainer
 ---
 
 一张未清缴的发票，可能最终演变成一纸改变一个人几乎所有财务事务的法院命令——从银行账户到出国许可。在马来西亚，这条分界线由一部单一的法律所界定：《1967年无力偿债法令》（Akta 360）。本文以描述性方式阐述这项程序，不偏袒任何立场。

@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 social:
   hashtags: ["#NamHeong", "#ChickenRice", "#BibGourmand", "#KualaLumpur", "#Malaysia"]
+framework: profile
 ---
 
 在 Jalan Sultan，在吉隆坡老城区的热闹之中，一盘白斩鸡盖在香喷喷的饭上，自独立之前

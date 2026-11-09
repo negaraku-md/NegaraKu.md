@@ -90,6 +90,7 @@ keywords:
   - "is a non-compete enforceable in Malaysia"
   - "liquidated damages Malaysia section 75"
   - "Akta Kontrak 1950"
+framework: explainer
 ---
 
 一家马来西亚公司签下一份在伦敦草拟的分销协议。里面有一条为期十二个月的终止后竞业

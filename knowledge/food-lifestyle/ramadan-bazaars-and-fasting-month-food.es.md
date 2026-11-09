@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-jakim" }
 related: ["hari-raya-aidilfitri"]
 keywords: ["bazar ramadan", "ramadan bazaar malaysia", "juadah berbuka puasa", "etika bulan puasa", "lesen penjaja bazar"]
+framework: explainer
 ---
 
 Cada vez que se acerca la hora del Asar durante el Ramadán, hileras de carpas blancas brotan de repente junto a la carretera, el vapor del ayam percik se eleva sobre las brasas, y el olor del roti john mezclado con el air bandung saca a la gente de sus casas. Este es el bazar de Ramadán — un mercado estacional que existe solo un mes al año y que, sin embargo, hace tiempo que forma parte del ritmo de la vida malasia.

@@ -93,6 +93,7 @@ verificationNeeded:
   - "Legenda asal usul laksa Johor (Sultan Abu Bakar mengadopsi spageti setelah perjalanan ke Eropa), tanggal pemerintahan sultan yang persis (sumber memberikan 1862–1895 maupun 1886–1895), serta tahun laksa Johor diwartakan sebagai warisan (sumber menyebut 2009, 2013, dan 2023) — konfirmasikan dengan sumber sejarah primer atau sumber Jabatan Warisan Negara."
   - "Etimologi kata 'laksa' (teori Persia, Sanskerta, dan Hokkien semuanya beredar) — konfirmasikan dengan sumber linguistik atau leksikografis, bukan media kuliner."
   - "Atribusi kedaerahan laksam kepada Kelantan dan Terengganu serta deskripsi persis mi/kuahnya — konfirmasikan dengan sumber lokal."
+framework: explainer
 ---
 
 Pesan "laksa" di Penang dan Anda akan disuguhi kuah ikan yang tajam dan asam

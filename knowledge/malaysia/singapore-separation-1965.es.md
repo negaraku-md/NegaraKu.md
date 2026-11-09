@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
 related: ["formation-of-malaysia-1963", "ma63", "independence-1957"]
 keywords: ["Singapore separation 1965", "Independence of Singapore Agreement", "Singapore Day", "Constitution and Malaysia (Singapore Amendment) Act 1965", "Malaysian Malaysia", "Tunku Abdul Rahman", "Lee Kuan Yew"]
+framework: history-culture
 ---
 
 Un país perdió un estado fundador en un solo fin de semana. El acuerdo se firmó un sábado, la enmienda constitucional se aprobó el lunes, y a las 10 de la mañana de ese mismo lunes una proclamación de independencia se leía por Radio Singapura. La mayoría de las federaciones que se rompen lo hacen despacio y con estruendo. Esta se disolvió — en el sentido jurídico — en unas cuarenta y ocho horas, mediante documentos redactados en secreto y firmados por quince ministros.

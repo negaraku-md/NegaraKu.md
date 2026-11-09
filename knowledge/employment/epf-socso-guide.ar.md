@@ -68,6 +68,7 @@ relations:
   - { rel: "administered-by", to: "perkeso" }
 related: ["labour-law-map-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "payroll-compliance-malaysia", "payroll-rates-deadlines-malaysia", "epf-foreign-workers-malaysia", "new-hire-statutory-checklist"]
 keywords: ["EPF SOCSO EIS Malaysia", "اشتراكات قانونية صاحب العمل ماليزيا", "KWSP PERKESO صاحب العمل", "اشتراك KWSP صاحب العمل", "الرواتب القانونية ماليزيا"]
+framework: journey-hub
 ---
 
 كثيراً ما يسمّي أصحاب العمل هذا التزاماً واحداً. وهي في الحقيقة ثلاثة، ولا

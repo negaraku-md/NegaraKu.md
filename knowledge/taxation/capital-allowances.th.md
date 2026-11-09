@@ -136,6 +136,7 @@ relations:
   - { rel: "related-to", to: "non-deductible-expenses" }
 related: ["losses-and-group-relief", "form-c-and-cp204", "basis-period-and-accounting-date"]
 keywords: ["capital allowance malaysia", "schedule 3 income tax act 1967", "initial allowance annual allowance", "balancing charge malaysia", "small value asset RM2000", "qualifying plant expenditure"]
+framework: explainer
 ---
 
 บรรทัดค่าเสื่อมราคาในบัญชีของคุณไม่มีค่าอะไรต่อ LHDN Paragraph 39(1)(e) ของ Income Tax Act 1967 ไม่อนุญาตค่าใช้จ่ายใด ๆ ที่เป็นค่าใช้จ่ายที่เข้าเกณฑ์เพื่อวัตถุประสงค์ของ Schedule 3 — ดังนั้นค่าใช้จ่ายทางบัญชีจึงถูกบวกกลับเต็มจำนวน และ Schedule 3 ตัดสินตามหลักเกณฑ์ของตนเองว่าทรัพย์สินได้รับการบรรเทาภาระจริงเท่าใดและเมื่อใด

@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "data-breach-notification-malaysia" }
 related: ["online-safety-act-malaysia", "debt-recovery-malaysia", "data-breach-notification-malaysia"]
 keywords: ["laporan polis", "cara buat laporan polis", "e-reporting PDRM", "997 NSRC", "999 kecemasan", "Seksyen 107 Kanun Tatacara Jenayah"]
+framework: how-to
 ---
 
 Kereta anda dipecah masuk, dompet disamun, atau wang berpindah keluar akaun tanpa kebenaran — dalam ketiga-tiga keadaan itu, dokumen pertama yang akan diminta oleh setiap pihak seterusnya, sama ada insurans, bank atau mahkamah, ialah nombor laporan polis anda. Tahu cara mendapatkannya dengan betul, dan dalam urutan yang betul, menjimatkan berjam-jam dan kadangkala menyelamatkan wang anda.

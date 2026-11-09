@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "free-trade-agreements" }
 related: ["sales-and-service-tax", "malaysia-free-trade-agreements"]
 keywords: ["import duty", "customs duty", "HS code", "AHTN", "tariff classification", "ATIGA", "Form D", "CIF", "sales tax on imports", "Customs Act 1967"]
+framework: explainer
 ---
 
 동일한 두 화물이 포트클랑(Port Klang)에 도착하여 크게 다른 관세를 낼 수 있습니다 — 무엇을 담고 있는지 때문이 아니라, 누군가 신고서에 입력한 여덟 자리 코드 때문입니다. 그 코드가 전부입니다.

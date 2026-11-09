@@ -78,6 +78,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["CharKoayKak", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 char koay kak 是一道属于小贩圈内行人的菜——蒸好的粿块在呼啸的猛镬中炒至焦香，趁早趁

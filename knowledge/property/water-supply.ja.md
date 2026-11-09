@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "moving-to-malaysia-first-steps" }
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka akaun air", "syarikat air negeri", "bil air Malaysia", "SPAN", "sambungan air baharu"]
+framework: explainer
 ---
 
 あなたはセランゴールからジョホールへ引っ越す。銀行口座は同じ。電話番号もそのまま持っていける。しかし、あなたの水道口座は？それはついてこない——なぜなら、あなたの新居に水を供給する会社は、まったく別の会社だからだ。

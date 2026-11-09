@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "entertainment-expenses" }
 related: ["section-33-deductibility", "labuan-tax-regime", "withholding-tax-non-compliance", "withholding-tax-rates"]
 keywords: ["धारा 39 आयकर अधिनियम 1967", "मलेशिया गैर-कटौती-योग्य व्यय", "कर गणना में अस्वीकृत व्यय", "39(1)(j) रोक-कर", "39(1)(r) लाबुआन", "मलेशिया कर गणना में जोड़-वापसी", "section 39 income tax act 1967", "non deductible expenses malaysia"]
+framework: rules
 ---
 
 अधिकांश जोड़-वापसी अनुसूचियाँ आदत से बनाई जाती हैं। मूल्यह्रास, मनोरंजन, जुर्माने, दान — हर वर्ष वही छह पंक्तियाँ, आगे प्रतिलिपि की हुईं। वास्तव में धारा 39(1) में अठारह जीवंत प्रतिबंध हैं, और जो सबसे अधिक पैसा खर्च कराते हैं वे किसी की आदती सूची में नहीं होते।

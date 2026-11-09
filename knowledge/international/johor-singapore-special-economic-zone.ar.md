@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "manufacturing" }
 related: ["johor", "external-trade", "manufacturing"]
 keywords: ["JS-SEZ", "منطقة جوهور-سنغافورة الاقتصادية الخاصة", "Johor Singapore Special Economic Zone", "حوافز JS-SEZ", "JS-SEZ incentives", "المناطق الرئيسية JS-SEZ", "JS-SEZ flagship zones", "المنطقة الاقتصادية ماليزيا سنغافورة", "IMFC-J"]
+framework: explainer
 ---
 
 اتفقت دولتان على تقاسم قانون ضريبي عبر الحدود. تلك هي الطرافة الهادئة لمنطقة جوهور-سنغافورة الاقتصادية الخاصة — لا مجمَّع صناعي جديد، بل صفقة ثنائية تتيح لجنوب جوهور وسنغافورة أن يسوّقا نفسيهما للمستثمرين العالميين بوصفهما عنوان أعمال واحداً.

@@ -107,6 +107,7 @@ keywords:
   - "MD tax incentive Malaysia"
   - "Malaysia Digital bill of guarantees"
   - "taraf Malaysia Digital"
+framework: explainer
 ---
 
 Điều quan trọng nhất cần hiểu về Malaysia Digital là nó *không* phải là gì.

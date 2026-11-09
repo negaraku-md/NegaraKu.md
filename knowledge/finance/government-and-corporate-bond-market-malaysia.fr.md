@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["bank-negara-malaysia", "bursa-malaysia", "federal-budget", "epf-as-investor"]
 keywords: ["MGS", "GII", "sukuk", "titres du gouvernement de la Malaisie", "corporate bonds", "obligations d'entreprise", "RENTAS", "Sukuk Simpanan Rakyat", "marché obligataire Malaisie"]
+framework: explainer
 ---
 
 Lorsque le gouvernement malaisien construit une autoroute ou un hôpital, il paie rarement comptant sur-le-champ. Il emprunte — et la reconnaissance de dette qu'il remet est une obligation. Multipliez cela sur des décennies de dépenses de développement, ajoutez toutes les entreprises qui empruntent de la même manière, et vous obtenez l'un des marchés obligataires en monnaie locale les plus profonds d'Asie, qui circule sur deux voies parallèles : dette conventionnelle et sukuk conforme à la charia.

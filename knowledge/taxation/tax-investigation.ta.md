@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "income-tax" }
 related: ["tax-audit"]
 keywords: ["siasatan cukai", "tax investigation", "LHDN", "Seksyen 114", "pengelakan cukai", "rangka kerja siasatan cukai", "audit cukai"]
+framework: explainer
 ---
 
 LHDN-இடமிருந்து வரும் கடிதம் இனி ஆதார ஆவணங்களைக் கேட்காமல், உங்கள் வளாகம் பரிசோதிக்கப்படும் எனத் தெரிவிக்கும்போது, தணிக்கைக்கும் விசாரணைக்கும் இடையிலான கோட்டை நீங்கள் ஏற்கெனவே கடந்திருக்கக்கூடும். இரண்டுமே உள்நாட்டு வருவாய் வாரியத்தை (Inland Revenue Board, LHDN) உள்ளடக்கியவை, ஆனால் அவற்றில் ஒன்று மட்டுமே குற்றவியல் நீதிமன்றத்தில் வழக்குத் தொடுத்தலுக்கு இட்டுச்செல்லக்கூடும்.

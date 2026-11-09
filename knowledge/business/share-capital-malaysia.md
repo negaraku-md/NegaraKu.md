@@ -113,6 +113,7 @@ keywords:
   - "allotment of shares Malaysia"
   - "increase paid up capital Malaysia"
   - "section 75 Companies Act 2016"
+framework: explainer
 ---
 
 RM1 paid-up capital is legal, common, and quietly one of the most expensive decisions

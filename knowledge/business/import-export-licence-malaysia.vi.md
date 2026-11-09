@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "hs-code-classification-malaysia" }
 related: ["sales-and-service-tax"]
 keywords: ["import licence Malaysia", "export permit Malaysia", "Approved Permit AP", "SIRIM import permit", "MAQIS permit", "customs registration Malaysia", "ePermit", "uCustoms", "MyTRADELINK"]
+framework: rules
 ---
 
 Container của bạn đang nằm ở Port Klang và nó sẽ không nhúc nhích — vì đâu đó giữa hóa đơn và bản kê khai, một giấy phép bị thiếu. Tại Malaysia, không có một «giấy phép nhập khẩu-xuất khẩu» duy nhất nào để bạn treo lên tường. Cái thông quan hàng hóa là một *chồng* đăng ký và phê duyệt, mỗi cái do một cơ quan khác nhau sở hữu, và mỗi cái gắn với thứ bạn thực sự đang vận chuyển.

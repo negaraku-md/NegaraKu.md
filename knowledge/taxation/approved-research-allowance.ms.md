@@ -108,6 +108,7 @@ relations:
   - { rel: "compares-with", to: "capital-allowances" }
 related: ["double-deduction-list", "capital-allowances", "section-33-deductibility", "tax-incentives-directory"]
 keywords: ["elaun penyelidikan diluluskan malaysia", "potongan berganda r&d malaysia", "seksyen 34a akta cukai pendapatan", "potongan berganda seksyen 34b", "status r&d mida", "borang 1 r&d lhdn"]
+framework: explainer
 ---
 
 Tanya tiga penasihat tentang elaun penyelidikan diluluskan dan anda akan mendapat tiga jawapan, kerana tiada pelepasan sedemikian. Tiada apa-apa dalam Akta Cukai Pendapatan 1967 yang menggunakan frasa itu. Apa yang wujud ialah tiga potongan berasingan dengan laluan kelulusan dan tarikh akhir yang berbeza, ditambah satu lagi rejim yang sama sekali berbeza yang dikendalikan oleh MIDA. Mengelirukan ketiga-tiganya adalah bagaimana sesebuah syarikat berakhir dengan potongan berganda yang tidak dapat disokong.

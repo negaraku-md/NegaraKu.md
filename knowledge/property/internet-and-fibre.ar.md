@@ -68,6 +68,7 @@ relations:
   - { rel: "part-of", to: "jendela" }
 related: ["mobile-sim-plans"]
 keywords: ["unifi malaysia", "maxis fibre home", "time fibre broadband", "إنترنت الألياف ماليزيا", "JENDELA MCMC", "فحص تغطية النطاق العريض المنزلي ماليزيا", "تركيب إنترنت الألياف ماليزيا", "unifi vs maxis vs time"]
+framework: decision
 ---
 
 قبل أن تقارن حتى رينغيتًا واحدًا من السعر، هناك سؤال أهم: هل تصل الألياف أصلًا إلى باب منزلك؟ وقّع عقدًا لعامين قبل التحقق من ذلك، وقد تكتشف يوم التركيب أن الفنّي لا يستطيع فعلًا مدّ خط إلى وحدتك.

@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "minute-books-and-records" }
 related: ["remove-a-director", "minute-books-and-records", "resolution-notice-periods", "board-meetings-and-minutes"]
 keywords: ["written resolution Malaysia", "section 297 Companies Act 2016", "circular resolution Sdn Bhd", "special resolution in writing", "remove director written resolution"]
+framework: explainer
 ---
 
 การตัดสินใจของผู้ถือหุ้น Sdn Bhd ส่วนใหญ่ในมาเลเซียไม่เคยเกี่ยวข้องกับการประชุม เอกสารถูกลงนาม เลขานุการเก็บเข้าแฟ้ม และไม่มีใครคิดถึงมันอีก นั่นใช้ได้ — จนกว่าการตัดสินใจอย่างเดียวที่โดยกฎหมายทำด้วยวิธีนั้นไม่ได้กลับถูกทำด้วยวิธีนั้น และการถอดถอนกรรมการถูกโต้แย้งภายหลังว่าเป็นโมฆะ

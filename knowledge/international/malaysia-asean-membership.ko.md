@@ -129,6 +129,7 @@ relations:
   - { rel: "related-to", to: "rcep-malaysia" }
 related: []
 keywords: ["ASEAN", "Malaysia ASEAN", "Deklarasi Bangkok", "Piagam ASEAN", "Komuniti ASEAN", "pengerusi ASEAN 2025", "Tun Abdul Razak", "Timor-Leste ASEAN"]
+framework: explainer
 ---
 
 1967년 8월 8일, 다섯 명의 인사가 방콕 외무부 건물의 대회의장에 모여 두 쪽짜리 문서 한 장에 서명하였습니다. 그중 한 사람인 말레이시아 부총리 툰 압둘 라작 후세인(Tun Abdul Razak Hussein)은, 이후 거의 6십 년 동안 이 나라 외교 정책의 주된 틀이 될 — 그리고 말레이시아 자신이 2025년 의장국을 맡을 — 기구에 말레이시아를 두고 있었습니다.

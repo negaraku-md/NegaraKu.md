@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "accounting-records-section-245" }
 related: ["llp-vs-sdn-bhd", "register-llp-malaysia", "accounting-records-section-245", "sdn-bhd-bookkeeping"]
 keywords: ["rekod perakaunan PLT", "seksyen 69 Akta PLT 2012", "perakuan tahunan PLT", "solvency declaration LLP", "PLT vs Sdn Bhd", "Akta 743"]
+framework: rules
 ---
 
 Sebuah PLT dapat beroperasi bertahun-tahun tanpa mengirim satu pun laporan keuangan kepada SSM — dan di sinilah letaknya satu kesalahpahaman yang umum tentang struktur ini. Ketiadaan keharusan menyampaikan tidak berarti ketiadaan tanggung jawab. Pasal 69 Undang-Undang Perkongsian Liabiliti Terhad 2012 masih mengikat setiap Perkongsian Liabiliti Terhad pada satu standar pencatatan yang setegas sebuah perusahaan, dan Pasal 68 menggantikan laporan keuangan publik dengan satu instrumen lain yang membawa liabilitas pribadi kepada sekutu: deklarasi kemampuan membayar utang.

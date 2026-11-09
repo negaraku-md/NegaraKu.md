@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "malaysia-digital-arrival-card-mdac" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["मलेशिया वीज़ा", "मलेशिया वीज़ा-मुक्त देश", "मलेशिया eVisa", "Malaysia Digital Arrival Card", "सामाजिक यात्रा तस्दीक", "malaysia visa", "visa-free countries malaysia", "malaysia evisa", "eNTRI", "malaysia digital arrival card", "social visit pass"]
+framework: rules
 ---
 
 कुआलालंपुर की उड़ान बुक करने से पहले पहला सवाल «कौन-सा होटल» नहीं होता — बल्कि «क्या मेरा पासपोर्ट मुझे गेट से पार करा देगा?» होता है। अधिकांश यात्रियों के लिए इसका उत्तर राहत भरा है, लेकिन नियम राष्ट्रीयता के अनुसार तीखे ढंग से बँटते हैं, और अब एक ऑनलाइन फॉर्म लगभग हर किसी पर लागू होता है।

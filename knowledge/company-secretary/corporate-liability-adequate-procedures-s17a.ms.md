@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016"]
 keywords: ["Section 17A", "MACC Act", "corporate liability", "adequate procedures", "T.R.U.S.T.", "anti-corruption Malaysia", "corporate bribery", "GIACC"]
+framework: rules
 ---
 
 Seorang ejen jualan junior membayar wang komisen haram untuk memenangi sesuatu kontrak, dan tidak pernah memberitahu lembaga pengarah. Di bawah undang-undang Malaysia sejak 2020, perbuatan itu boleh mendedahkan syarikat itu sendiri kepada pendakwaan — dan para pengarahnya sekali. Itulah jangkauan Seksyen 17A Akta Suruhanjaya Pencegahan Rasuah Malaysia 2009.

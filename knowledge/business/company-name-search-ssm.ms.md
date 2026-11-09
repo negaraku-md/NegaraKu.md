@@ -86,6 +86,7 @@ keywords:
   - "seksyen 26 Akta Syarikat 2016 nama syarikat"
   - "perkataan terkawal nama syarikat SSM"
   - "nama syarikat ditolak SSM"
+framework: rules
 ---
 
 Sebab paling biasa nama syarikat ditolak bukanlah kerana ada pihak lain yang telah

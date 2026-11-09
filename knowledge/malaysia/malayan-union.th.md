@@ -81,6 +81,7 @@ keywords:
   - "kedudukan Raja-Raja Melayu"
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
+framework: history-culture
 ---
 
 เป็นเวลาหนึ่งปีสิบเดือน แผ่นดินมลายูถูกปกครองภายใต้รัฐธรรมนูญที่ในปัจจุบันแทบไม่มีใครรู้จักนอกจากชื่อ สหภาพมลายา (Malayan Union) เริ่มขึ้นเมื่อวันที่ 1 เมษายน 1946 และสิ้นสุดเมื่อวันที่ 31 มกราคม 1948 สั้นพอที่จะไม่ทันทิ้งอาคาร เงินตรา หรือรุ่นของนักบริหารของตนเองไว้

@@ -98,6 +98,7 @@ relations:
   - { rel: "explained-in", to: "epf-foreign-workers-malaysia" }
 related: ["payroll-compliance-malaysia", "epf-foreign-workers-malaysia", "socso-eis-employer-guide"]
 keywords: ["taux cotisation EPF Malaisie", "EPF Third Schedule", "cotisation employeur KWSP", "EPF 13 pour cent 12 pour cent", "caruman KWSP majikan"]
+framework: rules
 ---
 
 Demandez à un gestionnaire de paie malaisien quel est le taux patronal de l'EPF et il vous répondra 13 pour cent. Demandez-lui de calculer la cotisation sur un salaire de RM3,250 et la plupart multiplieront. Cette multiplication n'est pas autorisée, et elle donne le mauvais chiffre.

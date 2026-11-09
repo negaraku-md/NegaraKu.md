@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "capital-allowances" }
 related: ["motor-vehicle-capital-allowance", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["benefits in kind Malaysia", "BIK prescribed value table", "company car tax Malaysia employee", "paragraph 13(1)(b) 13(1)(c)", "living accommodation benefit Malaysia"]
+framework: explainer
 ---
 
 現物給付についてのガイドは、どれも一方の側だけを取り上げる。給与関連のブログは従業員が何を支払うかを説明する。税務関連のブログは会社が何を控除できるかを説明する。両者を同じページに並べる者はいない——これこそが、取締役会が、会社は役員が課税される金額と同額の控除を得られると思い込んだまま車両政策を承認してしまう理由である。実際にはそうならない。二つの数字は異なる条文のもとで計算されており、一致することはほとんどない。

@@ -103,6 +103,7 @@ keywords:
   - "MIDA manufacturing licence"
   - "shareholders funds RM2.5 million"
   - "exempted from manufacturing licence"
+framework: rules
 ---
 
 La mayoría de las PYME fabricantes malasias no necesitan una licencia de fabricación. Casi

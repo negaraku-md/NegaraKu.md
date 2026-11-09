@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "kaamatan" }
 related: ["hari-raya-aidilfitri", "chinese-new-year", "deepavali", "christmas-malaysia", "gawai-dayak", "kaamatan"]
 keywords: ["juadah perayaan", "makanan raya", "ketupat", "rendang", "lemang", "yee sang", "lou sang", "murukku", "manok pansuh", "hinava", "tuak", "tumpung", "rumah terbuka", "kuih raya"]
+framework: history-culture
 ---
 
 மலேசிய நாட்காட்டியை ஆண்டின் ஒரு முனையிலிருந்து மறு முனை வரை பின்தொடர்ந்து செல்லுங்கள் — நீங்கள் வெறுமனே தேதிகளை மாற்றவில்லை; சமையலறைகளையே மாற்றுகிறீர்கள். இந்த மாதம் rendang மணமும் lemang-இன் தேங்காய்ப் பால் மணமும்; சில மாதங்கள் கழித்து, மேசை நிறைய பச்சை மீன் சாலட், மக்கள் ஆரவாரிக்க உயரத் தூக்கப்படுகிறது; பிறகு மொறுமொறுப்பான முறுக்குச் சுருள்களின் முறை; இறுதியில், நீராவி பறக்கும் கோழியை வெளியிடப் பிளக்கப்படும் மூங்கில் துண்டு.

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "dependant-social-visit-passes" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "work-passes-malaysia", "dependant-social-visit-passes", "imigresen"]
 keywords: ["professional visit pass malaysia", "pvp malaysia", "pvp vs employment pass", "esd professional visit pass", "myxpats pvp", "foreign expert pass malaysia", "expert transfer pass malaysia", "short term work pass malaysia"]
+framework: explainer
 ---
 
 Deux étrangers peuvent être assis au même bureau dans le même bureau malaisien, faisant le même travail, et se trouver dans des situations juridiques totalement différentes. L'un est sur un Employment Pass, payé par l'entreprise malaisienne, renouvelable année après année. L'autre est sur un Professional Visit Pass — payé, encore, par l'entreprise qui l'a envoyé, avec douze mois au compteur et aucun renouvellement au-delà. L'Immigration ne voit pas deux salariés. Elle voit un employeur et un invité.

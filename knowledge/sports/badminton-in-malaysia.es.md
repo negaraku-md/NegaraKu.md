@@ -99,6 +99,7 @@ keywords:
   - "Lee Chong Wei"
   - "Lee Zii Jia"
   - "campeón All England Malasia"
+framework: history-culture
 ---
 
 En mayo de 1992, toda la nación se detuvo por un instante. En el Stadium Negara, Kuala Lumpur, un equipo de jóvenes liderado por los hermanos Sidek venció a Indonesia para levantar la Copa Thomas, y, como lo expresó Datuk Rashid Sidek, «toda Malasia se volvió viral y todo el mundo quería jugar al bádminton». Tres décadas después, el trofeo todavía no ha regresado. La historia del bádminton malasio es una historia de gloria temprana, una dolorosa sequía y uno o dos campeones que cargan sobre sus hombros las esperanzas de una nación.

@@ -91,6 +91,7 @@ verificationNeeded:
   - "The dish's precise origin, which is contested: sources variously trace murtabak to Yemen (with an onward Indian route), to Indian and Tamil-Muslim traders, and to a medieval Arab dish ('mutabbaq'/'mutbaq') recorded in a 13th-century Abbasid cookbook. Confirm with a food-history source rather than food media or encyclopaedia mirrors."
   - "The label and nature of the sweet variant. In Indonesia and Malaysia 'martabak Mesir' usually denotes a savoury egg-and-meat version, while the sweet folded pancake is generally called martabak manis (and, in Malaysia, apam balik). Whether a distinct sweet 'murtabak Mesir' or a banana ('pisang') murtabak is a genuine, widely sold Malaysian item — as opposed to a vendor-specific novelty or a naming overlap — needs a local culinary source."
   - "The claim that Malaysian murtabak carries proportionally more egg and less minced meat than Singaporean or Johorean versions — confirm with a comparative culinary source."
+framework: explainer
 ---
 
 Watch a murtabak being made at a Ramadan bazaar and the theatre is half the

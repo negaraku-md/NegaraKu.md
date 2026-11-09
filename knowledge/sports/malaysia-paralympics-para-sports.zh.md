@@ -93,6 +93,7 @@ relations:
   - { rel: "governs", to: "malaysia-para-athletics" }
 related: []
 keywords: ["Majlis Paralimpik Malaysia", "Paralympic Council Malaysia", "para sukan", "Sukan Paralimpik", "Bonnie Bunyau Gustin", "Cheah Liek Hou", "Abdul Latif Romly"]
+framework: explainer
 ---
 
 当Cheah Liek Hou在2024年巴黎残奥会成功卫冕羽毛球SU5金牌时，这一胜利印证了马来西亚残障运动如今拥有更稳固的冠军阵容，而不再是偶尔一现的成就。在那一刻的背后，是一套独特的治理架构，与更为知名的奥运世界彼此分离。

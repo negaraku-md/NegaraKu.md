@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
 related: ["spr-election-commission", "dewan-rakyat", "how-elections-work", "federal-constitution", "independence-1957"]
 keywords: ["14th general election", "GE14", "PRU14", "2018 Malaysian general election", "change of government Malaysia", "Pakatan Harapan", "Barisan Nasional", "Dewan Rakyat 222 seats", "Article 43 Federal Constitution", "Mahathir seventh Prime Minister"]
+framework: history-culture
 ---
 
 1957년 독립 이후 첫 연방 선거부터 2018년에 이르기까지 61년 동안, 말레이시아(Malaysia)의 모든 연방 정부는 단일 연합 — [동맹당](/malaysia/the-alliance), 그리고 1970년대부터는 그 후신인 [국민전선](/malaysia/barisan-nasional) — 에 의해 구성되었습니다. 제14대 총선에서 그 연속성은 끝났습니다. 다른 연합이 하원 의석의 다수를 차지하였습니다.

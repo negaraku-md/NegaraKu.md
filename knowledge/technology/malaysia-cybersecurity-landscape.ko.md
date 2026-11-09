@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "pdpa-2010" }
 related: ["pdpa-2010"]
 keywords: ["Malaysia cybersecurity", "Cyber Security Act 2024", "Act 854", "NACSA", "National Critical Information Infrastructure", "Global Cybersecurity Index", "Malaysia Cyber Security Strategy"]
+framework: explainer
 ---
 
 10년 동안 말레이시아는 자국의 핵심 인프라에 사이버보안을 진지하게 받아들이라고 요청했습니다. 2024년 8월 26일 이후, 이제는 그렇게 하라고 명령하며 — 이를 어기면 징역형을 결부시킵니다.

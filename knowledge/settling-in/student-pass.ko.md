@@ -97,6 +97,7 @@ keywords:
   - "study visa Malaysia international student"
   - "i-Kad Malaysia"
   - "Malaysia student visa process"
+framework: explainer
 ---
 
 당신은 본인의 말레이시아 유학 비자를 직접 신청할 수 없습니다. 입학 허가서를 손에 쥐고 수수료를 냈더라도, 신청은 당신의 기관을 거쳐야 합니다 — 그것을 심사하는 기관이 적어도 처음에는 이민국이 아니라 한 회사이기 때문입니다.

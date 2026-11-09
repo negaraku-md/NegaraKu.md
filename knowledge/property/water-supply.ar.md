@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "moving-to-malaysia-first-steps" }
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["إمدادات المياه ماليزيا", "فتح حساب مياه", "شركة مياه الولاية", "فاتورة المياه ماليزيا", "bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka akaun air", "syarikat air negeri", "bil air Malaysia", "SPAN", "sambungan air baharu"]
+framework: explainer
 ---
 
 تنتقل من سلانجور إلى جوهور. يبقى حسابك المصرفي كما هو. وخطك الهاتفي يمكن أن يأتي معك. لكن حساب مياهك؟ لا يتبعك — لأن الشركة التي تزوّد منزلك الجديد بالماء شركة مختلفة تمامًا.

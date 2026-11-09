@@ -81,6 +81,7 @@ social:
     - DoingBusinessInMalaysia
     - MalaysiaConstruction
     - ContractorMalaysia
+framework: how-to
 ---
 
 You can register a company in an afternoon, but that company still cannot legally pour a slab, wire a building, or bid for a road contract until it has a second, separate licence. In Malaysia, construction is a regulated trade: the *company* is registered with SSM, and the *contractor* is registered with CIDB. Skip the second step and the first job you take is a criminal offence, not a contract.

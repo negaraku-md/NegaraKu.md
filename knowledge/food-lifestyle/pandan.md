@@ -91,6 +91,7 @@ verificationNeeded:
   - "The 'vanilla of Southeast Asia' label is a popular culinary framing, not a botanical relationship (pandan and vanilla are unrelated plants); confirm wording against a botanical or culinary reference if precision matters."
   - "The origin of pandan cake / pandan chiffon (attributed variously to Dutch East Indies baking and to 20th-century American chiffon cake via CNN) — confirm with a culinary-history source rather than news or recipe media."
   - "Commonly cited health or medicinal properties of pandan — many folk claims circulate and are not established here; confirm any such claim against a peer-reviewed or clinical source before stating it."
+framework: explainer
 ---
 
 Lift the lid off a pot of coconut rice in a Malaysian kitchen and the first thing

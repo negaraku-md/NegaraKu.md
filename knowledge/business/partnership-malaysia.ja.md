@@ -69,6 +69,7 @@ keywords:
   - "partner liability Malaysia"
   - "joint and several liability partnership"
   - "register partnership SSM"
+framework: explainer
 ---
 
 二人の友人がパートナーシップ（組合）を登記した。年RM60しかかからず、ほかに選択肢が

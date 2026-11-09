@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "thaipusam" }
 related: ["hinduism-in-malaysia", "thaipusam", "deepavali", "estate-tamil-community", "pongal", "tamil-in-malaysia"]
 keywords: ["மாரியம்மன் வழிபாடு", "மாரியம்மன்", "அம்மன் வழிபாடு", "Mariamman worship", "Mariamman Malaysia", "ஸ்ரீ மகாமாரியம்மன் கோயில்", "தீமிதி"]
+framework: history-culture
 ---
 
 ใกล้ ๆ สวนยางเก่าแทบทุกแห่งในมาเลเซีย และตามถนนเก่าแก่ในย่านใจกลางเมือง คุณจะพบวัดมาริอัมมันได้ รูปเคารพอัมมันที่มีใบหน้าสีเหลืองดินเทศ และเทศกาลที่จัดขึ้นก่อนฤดูฝน ไม่ใช่เรื่องบังเอิญ—สิ่งเหล่านี้แบกรับประวัติศาสตร์และประเพณีความเชื่อของชุมชนทมิฬยาวนานกว่าหนึ่งศตวรรษครึ่ง

@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-china-relations", "malaysia-asean-membership"]
 keywords: ["relaciones Malasia EE. UU.", "Asociación Estratégica Integral", "acuerdo de comercio recíproco", "arancel estadounidense Malasia", "semiconductores", "cooperación en defensa", "Malaysia US relations", "Comprehensive Strategic Partnership", "reciprocal trade agreement", "US tariff Malaysia", "semiconductors", "defence cooperation"]
+framework: explainer
 ---
 
 Barack Obama recorrió la Masjid Negara, la Mezquita Nacional de Kuala Lumpur, en 2014; Anwar Ibrahim estrechó la mano de Donald Trump sobre un pacto comercial firmado en 2025. Dos presidentes estadounidenses muy diferentes, una relación duradera —y una costumbre malasia de acercarse a Washington sin colocarse nunca bajo su paraguas de seguridad.

@@ -63,6 +63,7 @@ keywords:
   - "MetMalaysia"
   - "MyBIS"
 sourceContentHash: "9a6c3f25f0c58105"
+framework: explainer
 ---
 
 # Mengapa Malaysia Tergolong dalam Kalangan Negara Megadiverse Dunia

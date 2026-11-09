@@ -113,6 +113,7 @@ relations:
   - { rel: "affects", to: "permanent-establishment" }
 related: ["transfer-pricing-documentation", "cbcr-and-master-file", "dta-network", "permanent-establishment"]
 keywords: ["advance pricing arrangement malaysia", "apa malaysia lhdn", "bilateral apa malaysia", "apa application fee malaysia", "pu a 166 2023", "apa rollback malaysia"]
+framework: how-to
 ---
 
 பெரும்பாலான ஆலோசகர்கள் முன்கூட்டிய விலை ஏற்பாட்டை (Advance Pricing Arrangement, APA) ஒரு பட்டியல் போல விவரிக்கிறார்கள் — மலிவாகவும் விரைவாகவும் வேண்டுமானால் ஒருதலைப்பட்சம், ஒப்பந்தப் பாதுகாப்பு வேண்டுமானால் இருதரப்பு. மலேசியாவில் பட்டியல் எதுவும் இல்லை. Income Tax (Advance Pricing Arrangement) Rules 2023, P.U.(A) 166/2023-இன் விதி 2(2) உங்களுக்காகத் தீர்மானிக்கிறது, மேலும் அது ஒரே ஒரு உண்மையின் அடிப்படையில் தீர்மானிக்கிறது: உங்கள் தொடர்புடைய தரப்பு அமர்ந்திருக்கும் நாடு, Income Tax Act 1967-இன் s.132-இன் கீழ் மலேசியாவுடன் ஒரு ஏற்பாட்டைக் கொண்டுள்ளதா என்பதே.

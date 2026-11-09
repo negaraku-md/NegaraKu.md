@@ -96,6 +96,7 @@ verificationNeeded:
   - "Atribusi Peranakan (Nyonya) untuk bubur cha cha dan arti namanya — sering diulang di media makanan tetapi kurang terdokumentasi; verifikasi dengan sumber kuliner atau warisan Peranakan."
   - "Apakah hidangan penutup tertentu di sini (mis. cendol, pulut hitam) memiliki penetapan resmi makanan Warisan Kebangsaan Malaysia, beserta tanggalnya — verifikasi dengan Jabatan Warisan Negara, bukan media makanan."
   - "Rincian bahan dan penyiapan (mis. pati tepat yang digunakan dalam jeli cendol, apakah tau fu fah dibekukan dengan gipsum atau glucono-delta-lactone) berbeda menurut resep dan daerah; perlakukan deskripsi di sini sebagai lazim, bukan definitif."
+framework: explainer
 ---
 
 Makanan gurih Malaysia mendapat sebagian besar perhatian, tetapi negara ini

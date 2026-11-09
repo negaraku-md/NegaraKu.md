@@ -69,6 +69,7 @@ social:
     - LHDN
     - YA2025
     - InvestingMalaysia
+framework: rules
 ---
 
 Durante años, la respuesta a «¿se grava mi dividendo malasio?» era un no rotundo — el sistema de nivel único gravaba los beneficios una sola vez, en la empresa, y pagaba los dividendos libres de impuestos. Desde el año de evaluación 2025 esa ya no es toda la historia para los grandes accionistas: una persona física cuyos dividendos malasios superen los RM100,000 en un año paga ahora un impuesto del 2% sobre el exceso.

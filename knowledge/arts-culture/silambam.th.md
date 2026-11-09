@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
 related: ["tamil-in-malaysia", "indian-classical-arts-in-malaysia", "thaipusam", "estate-tamil-community", "temple-music-nadaswaram"]
 keywords: ["சிலம்பம்", "Silambam", "மலேசியா சிலம்பம்", "தமிழ் தற்காப்புக் கலை", "நீண்ட தடி", "அடவுகள்", "குத்து வரிசை", "Silambam Malaysia"]
+framework: history-culture
 ---
 
 ในงานเทศกาลของวัดหรืองานปีใหม่ทมิฬในมาเลเซีย คุณอาจได้เห็นชายหนุ่มคนหนึ่งหมุนไม้พลองไผ่ยาวเหนือศีรษะและรอบลำตัวด้วยความเร็วปานสายฟ้า ตามจังหวะกลอง การหมุนนั้นมิใช่เพียงเพื่อความสวยงาม — หากแต่เป็นสัญลักษณ์ของศิลัมบัม ศิลปะการต่อสู้ของชาวทมิฬที่มีอายุกว่าหนึ่งพันห้าร้อยปี

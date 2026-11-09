@@ -78,6 +78,7 @@ related:
   - "malaysian-noodles"
 social:
   hashtags: ["KoayTeowThng", "BibGourmand", "PenangFood", "MichelinGuide", "Malaysia"]
+framework: profile
 ---
 
 在乔治市的众多鸭肉粉档口中，有一个成了人龙的磁石：一个市场摊位，以同样的方式烹制同

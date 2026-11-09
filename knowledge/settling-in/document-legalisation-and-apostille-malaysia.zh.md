@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "recognition-of-foreign-qualifications-malaysia" }
 related: []
 keywords: ["legalisasi dokumen", "apostille Malaysia", "pengesahan konsular", "Wisma Putra", "sijil kelahiran asing", "sijil perkahwinan luar negara", "pengesahan ijazah", "JPN dokumen asing"]
+framework: how-to
 ---
 
 你拿着在国外签发的结婚证走到国民登记局（JPN）的柜台，官员却拒绝受理——不是因为它是伪造的，而是因为它还没有经过"认证"（dilegalisasi）。许多人正是在这里栽了跟头：文件在原属国有效，并不代表它能在马来西亚直接被接受。在此之前，要先走完一条认证链。

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "gunung-tahan" }
 related: ["orang-asli"]
 keywords: ["taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
+framework: explainer
 ---
 
 새벽에 쿠알라 타한(Kuala Tahan) 부두에 서서 히말라야보다 오래된 강 위로 안개가 걷히는 것을 바라보면, 쿠알라룸푸르에서 반나절도 채 떨어져 있지 않다는 사실을 잊기 쉽습니다. 타만 네가라(Taman Negara)는 인위적으로 만든 명소가 아닙니다. 수천만 년 동안 대체로 손대지 않은 채 서 있던 살아 있는 열대우림이며 — 그 안으로 들어가는 것은 거의 모든 여행자가 예상하는 것보다 저렴하고 간단합니다.

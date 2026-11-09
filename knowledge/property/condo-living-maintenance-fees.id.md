@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "maintenance fee Malaysia", "sinking fund Malaysia", "JMB Malaysia", "Management Corporation Malaysia", "MC strata", "share units", "condo maintenance Malaysia", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
+framework: explainer
 ---
 
 Anda membeli unit itu. Anda tidak membeli lift, pos jaga, kolam renang, atau pipa yang melewati dinding yang Anda bagi bersama tetangga Anda. Seseorang tetap perlu membayar semua itu — dan undang-undang membagi tagihan itu menjadi dua akun yang menurut undang-undang harus Anda pisahkan.

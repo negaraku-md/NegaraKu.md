@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["EPF", "KWSP", "SOCSO", "PERKESO", "SIP", "EIS", "caruman", "Akta KWSP 1991", "Akta Keselamatan Sosial Pekerja 1969", "persaraan", "insurans pekerjaan"]
+framework: rules
 ---
 
 급여명세서를 열어 보면 첫 1센트가 은행 계좌에 들어오기 전에 세 가지 공제가 나타납니다. EPF, SOCSO, SIP입니다. 이 셋은 선택이 아닙니다. 각각 별개의 세 국회 제정법으로 강제되며, 이를 납입하지 않는 사용자는 징역에 처해질 수 있습니다. 이것이 근로자를 위한 말레이시아의 사회 안전망이며, 공제되는 링깃(RM)마다 서로 다른 보호를 사들이는 것입니다.

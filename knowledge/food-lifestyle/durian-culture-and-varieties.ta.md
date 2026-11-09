@@ -93,6 +93,7 @@ keywords:
   - "varieti durian"
   - "musim durian"
   - "eksport durian China"
+framework: explainer
 ---
 
 மலேசியாவில் துரியன் வெறும் ஒரு பழம் அல்ல — அது பழங்களின் ராஜா என்று அழைக்கப்படுகிறது;

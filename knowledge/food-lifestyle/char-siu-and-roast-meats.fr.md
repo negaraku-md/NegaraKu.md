@@ -95,6 +95,7 @@ verificationNeeded:
   - "L'origine de la teinte rougeâtre du char siu——les explications l'attribuent tantôt à la marinade et à la caramélisation, tantôt au tofu rouge fermenté, tantôt à un colorant alimentaire ajouté——à confirmer auprès d'une source fiable en science des aliments ou en cuisine."
   - "La caractérisation par les médias gastronomiques d'un char siu 'style KL' distinct (plus gras, plus grillé, parfois fait de poitrine de porc) par rapport à d'autres styles régionaux——à confirmer auprès d'une source culinaire spécialisée, car elle provient de critiques de restaurants."
   - "Les romanisations et les caractères cantonais exacts des viandes rôties tels qu'employés en Malaisie (siu ngap 燒鴨 canard rôti, siu ngo 燒鵝 oie rôtie, et des graphies locales comme 'siew yoke')——à confirmer auprès d'une source lexicale cantonaise ou en langue locale."
+framework: explainer
 ---
 
 Poussez la vitre d'une boutique chinoise de viandes rôties et sa vitrine vous dit

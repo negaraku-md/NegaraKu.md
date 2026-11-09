@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "form-c-and-cp204" }
 related: ["statutory-audit-process", "audit-preparation-checklist", "form-c-and-cp204", "corporate-tax-rates", "company-tax-calendar"]
 keywords: ["pelarasan audit cukai Malaysia", "bulan semakan CP204", "penalti seksyen 107C(10)", "penalti kurang anggaran cukai Malaysia", "Form C akaun diaudit", "pengiraan cukai untung diaudit"]
+framework: explainer
 ---
 
 Tiada sesiapa dalam mesyuarat penutup audit (clearance meeting) memikirkan hal cukai.

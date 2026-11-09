@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "employment-pass-malaysia" }
 related: ["moving-to-malaysia-first-steps", "imigresen", "employment-pass-malaysia", "work-passes-malaysia", "opening-bank-account"]
 keywords: ["Dependant Pass Malaysia", "Long-Term Social Visit Pass", "LTSVP Malaysia", "Employment Pass family", "sponsor spouse Malaysia visa", "parents visa Malaysia expatriate", "Malaysia family visa options"]
+framework: explainer
 ---
 
 말레이시아로 이주하는 취업 비자(Employment Pass) 소지자는 배우자와 어린 자녀를 하나의 패스로 데려올 수 있습니다. 그들의 부모, 또는 막 18세가 된 자녀에게는 완전히 다른 패스가 필요합니다. 같은 주 소지자, 같은 가구, 두 개의 별도 이민 범주 — 이것을 혼동하는 것이 가족 후원 신청이 막히는 가장 흔한 방식입니다.

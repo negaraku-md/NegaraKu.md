@@ -79,6 +79,7 @@ relations:
   - { rel: "part-of", to: "directors-duties" }
 related: ["appoint-resign-director", "directors-duties", "register-of-directors"]
 keywords: ["destituer un administrateur Malaisie", "section 206 Companies Act 2016", "résolution écrite destituer administrateur", "remove a director Malaysia", "section 297 written resolution Malaysia", "préavis spécial destituer administrateur"]
+framework: how-to
 ---
 
 L'actionnaire majoritaire a les voix. Le secrétaire rédige une résolution écrite

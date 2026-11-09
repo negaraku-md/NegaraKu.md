@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "estate-planning-in-malaysia" }
 related: []
 keywords: ["wasiat", "probet", "pusaka", "Akta Pembahagian 1958", "Akta Wasiat 1959", "surat kuasa mentadbir", "bukan Islam"]
+framework: explainer
 ---
 
 Meninggalkan harta tanpa wasiat tidak bermakna keluarga anda bebas memutuskan siapa mendapat apa. Di Malaysia, sebuah formula undang-undang yang tegar akan mengambil alih — dan ia mungkin tidak sepadan dengan kehendak anda. Bagi bukan Islam, tiga akta menentukan segala-galanya: Akta Wasiat 1959 (cara membuat wasiat), Akta Probet dan Pentadbiran 1959 (cara pusaka ditadbir), dan Akta Pembahagian 1958 (siapa mewarisi apabila tiada wasiat).
