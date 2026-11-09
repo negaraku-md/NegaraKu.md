@@ -7,6 +7,7 @@ import { localePath } from '@/lib/i18n';
 import { REPO, CONTRIBUTIONS_PAUSED } from '@/lib/site';
 import { newIssueUrl, articleMetaFooter } from '@/lib/feedback';
 import { subcatLabel } from '@/lib/subcategories';
+import { getFramework } from '@/lib/frameworks';
 import { imageLabel, needsRepresentativeBadge, reviewSourceLabel } from '@/lib/imageProvenance';
 import { FLOWER_D } from '@/lib/logo';
 import TrustBadge from './TrustBadge.astro';
@@ -131,6 +132,9 @@ const related = await relatedArticles(article, locale);
 const mins = readingTime(article);
 const pillar = getPillar(d.category);
 const pillarDef = pillar ? getPillarDef(pillar) : undefined;
+// Reader-need framework (Sprint 1b v2): a localized "what kind of article" chip.
+// Optional + absent-safe — an untagged article simply renders no chip.
+const fwDef = getFramework(d.framework);
 const sensitive = d.sensitivity !== 'none';
 // Disclosed sponsor CTA (sensitive content is never sponsored — see sponsors.ts).
 const sponsor = resolveSponsor(d.sponsor, pillar, sensitive, d.category, d.slug);
@@ -351,6 +355,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
             : L('🧭 Praktikal', '🧭 Practical', '🧭 实用', '🧭 நடைமுறை', '🧭 実用', '🧭 실용', '🧭 เชิงปฏิบัติ', '🧭 Thực tiễn', '🧭 Praktis', '🧭 عملي', '🧭 व्यावहारिक', '🧭 Práctico', "🧭 Pratique")
         }
       </span>
+      {fwDef && <span class="pill framework">{fwDef.icon} {loc(fwDef.name, locale)}</span>}
       <TrustBadge
         locale={locale}
         status={d.status}
@@ -1081,6 +1086,8 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   }
   .pill.tier { color: var(--gold); border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); background: color-mix(in srgb, var(--gold) 9%, transparent); }
   .pill.mode { color: #60a5fa; border-color: rgba(96, 165, 250, 0.35); background: rgba(96, 165, 250, 0.1); }
+  /* Reader-need framework chip — violet, distinct from mode (blue) and tier (gold). */
+  .pill.framework { color: #a78bfa; border-color: rgba(167, 139, 250, 0.35); background: rgba(167, 139, 250, 0.1); }
   /* Date metadata (Published / Next review): lighter weight so it reads as info, not a status. */
   .pill.pill-date { font-weight: 500; color: var(--muted); background: transparent; }
   /* Once the review date has passed the pill turns red (the sensitive colour)

@@ -1,4 +1,5 @@
 import type { Article } from './content';
+import { getFramework } from './frameworks';
 import type { ContentLocale, Locale, Category } from './categories';
 import { getCategory, loc } from './categories';
 import { subcatLabel, SUBCATEGORY_LABELS } from './subcategories';
@@ -140,11 +141,15 @@ function authorFor(d: Article['data']): Record<string, unknown> {
 export function articleJsonLd(article: Article, locale: Locale): Record<string, unknown> {
   const d = article.data;
   const url = pageUrl(`/${d.category}/${d.slug}`, locale);
+  // Reader-need framework (Sprint 1b v2) → a language-independent content-type
+  // signal for AI / answer engines: schema.org `genre` + `learningResourceType`.
+  const fw = getFramework(d.framework);
   return {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: d.title,
     description: d.summary,
+    ...(fw ? { genre: fw.genre, learningResourceType: fw.learningResourceType } : {}),
     // The 30-second direct answer, machine-readable. This is the concise,
     // liftable answer AI assistants and answer engines quote — previously it
     // only existed as on-page text, invisible to structured-data consumers.
