@@ -9,7 +9,6 @@ import { newIssueUrl, articleMetaFooter } from '@/lib/feedback';
 import { subcatLabel } from '@/lib/subcategories';
 import { getFramework } from '@/lib/frameworks';
 import { imageLabel, needsRepresentativeBadge, reviewSourceLabel } from '@/lib/imageProvenance';
-import { FLOWER_D } from '@/lib/logo';
 import TrustBadge from './TrustBadge.astro';
 import FeedbackBar from './FeedbackBar.astro';
 import BecomeContributor from './BecomeContributor.astro';
@@ -318,7 +317,8 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
 <header class="art-hero">
   <div class="container">
     <svg class="hero-bloom" viewBox="0 0 776 776" aria-hidden="true" data-pagefind-ignore>
-      <path fill="currentColor" fill-rule="evenodd" d={FLOWER_D} />
+      {/* One cached external sprite instead of inlining the ~17 KB path per page — see scripts/build-bloom-svg.mjs */}
+      <use href="/brand/bloom.svg#bloom" />
     </svg>
     <p class="crumb" data-pagefind-ignore>
       <a href={localePath('/', locale)}>{L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الرئيسية', 'मुखपृष्ठ', 'Inicio', "Accueil")}</a> /

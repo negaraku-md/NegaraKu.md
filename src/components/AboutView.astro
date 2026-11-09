@@ -3,7 +3,6 @@ import type { Locale } from '@/lib/categories';
 import { siteStats } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
 import { REPO, CONTRIBUTIONS_PAUSED } from '@/lib/site';
-import { FLOWER_D } from '@/lib/logo';
 import PageHero from './PageHero.astro';
 import { stat } from '@/lib/pageStats';
 
@@ -214,7 +213,8 @@ const more = [
   <div class="psec story">
     <header><span>{L('Kisah kami', 'Our story', '我们的故事', 'எங்கள் கதை', '私たちの物語', '우리 이야기', 'เรื่องราวของเรา', 'Câu chuyện của chúng tôi', 'Kisah kami', 'قصتنا', 'हमारी कहानी', 'Nuestra historia', 'Notre histoire')}</span></header>
     <svg class="story-bloom" viewBox="0 0 776 776" aria-hidden="true">
-      <path fill="currentColor" fill-rule="evenodd" d={FLOWER_D} />
+      {/* One cached external sprite instead of inlining the ~17 KB path — see scripts/build-bloom-svg.mjs */}
+      <use href="/brand/bloom.svg#bloom" />
     </svg>
     <div class="psec-body prose">
       <p>{L('NegaraKu.md dibina atas satu idea: pengetahuan tentang Malaysia patut mudah dibaca — oleh manusia dan oleh model bahasa besar. Namanya diambil daripada lagu kebangsaan Malaysia.', 'NegaraKu.md is built on one idea: knowledge about Malaysia should be easy to read — by people and by large language models alike. Its name comes from Malaysia\'s national anthem.', 'NegaraKu.md 建立在一个理念之上：关于马来西亚的知识应当便于阅读——无论是人，还是大型语言模型。它的名字取自马来西亚国歌。', 'NegaraKu.md ஒரே ஒரு எண்ணத்தின் அடிப்படையில் கட்டமைக்கப்பட்டது: மலேசியா பற்றிய அறிவு படிக்க எளிதாக இருக்க வேண்டும் — மனிதர்களாலும் பெரிய மொழி மாதிரிகளாலும் ஒருங்கே. அதன் பெயர் மலேசியாவின் தேசிய கீதத்திலிருந்து வந்தது.', 'NegaraKu.md は一つの理念に基づいています。マレーシアに関する知識は、人にも大規模言語モデルにも読みやすくあるべきだ、ということです。その名はマレーシアの国歌に由来します。', 'NegaraKu.md는 하나의 생각 위에 세워졌습니다. 말레이시아에 관한 지식은 사람과 대규모 언어 모델 모두에게 읽기 쉬워야 한다는 것입니다. 그 이름은 말레이시아 국가(國歌)에서 따왔습니다.', 'NegaraKu.md สร้างขึ้นบนแนวคิดเดียว: ความรู้เกี่ยวกับมาเลเซียควรอ่านง่าย — ทั้งสำหรับมนุษย์และสำหรับแบบจำลองภาษาขนาดใหญ่ ชื่อของมันมาจากเพลงชาติของมาเลเซีย', 'NegaraKu.md được xây dựng trên một ý tưởng: tri thức về Malaysia nên dễ đọc — với cả con người lẫn các mô hình ngôn ngữ lớn. Tên của nó bắt nguồn từ quốc ca của Malaysia.', 'NegaraKu.md dibangun atas satu gagasan: pengetahuan tentang Malaysia semestinya mudah dibaca — oleh manusia maupun oleh model bahasa besar. Namanya diambil dari lagu kebangsaan Malaysia.', 'بُنيت NegaraKu.md على فكرة واحدة: ينبغي أن تكون المعرفة عن ماليزيا سهلة القراءة — للبشر ولنماذج اللغة الكبيرة على حد سواء. اسمها مأخوذ من النشيد الوطني لماليزيا.', 'NegaraKu.md एक विचार पर बना है: मलेशिया के बारे में ज्ञान पढ़ने में आसान होना चाहिए — मनुष्यों और बड़े भाषा मॉडलों दोनों के लिए समान रूप से। इसका नाम मलेशिया के राष्ट्रगान से लिया गया है।', 'NegaraKu.md se construye sobre una idea: el conocimiento sobre Malasia debería ser fácil de leer, tanto por las personas como por los grandes modelos de lenguaje. Su nombre proviene del himno nacional de Malasia.', "NegaraKu.md repose sur une idée : les connaissances sur la Malaisie devraient être faciles à lire, aussi bien par les humains que par les grands modèles de langage. Son nom vient de l'hymne national de la Malaisie.")}</p>

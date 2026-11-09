@@ -2,7 +2,7 @@
 import type { Locale } from '@/lib/categories';
 import { t, localePath, LOCALES, LOCALE_NAMES } from '@/lib/i18n';
 import { NAV, CONTRIBUTOR_NAV } from '@/lib/nav';
-import { FLOWER_D, FLOWER_VB, FLOWER_CX, FLOWER_CY } from '@/lib/logo';
+import { FLOWER_VB, FLOWER_CX, FLOWER_CY } from '@/lib/logo';
 // Centre the traced Bunga Raya on its CENTROID in the 512 badge at ~300 units.
 const LOGO_S = 300 / FLOWER_VB;
 const LOGO_TX = 256 - FLOWER_CX * LOGO_S;
@@ -32,9 +32,10 @@ const NAV_GROUPS = [
       <svg class="brand-mark" aria-hidden="true" width="52" height="52" viewBox="0 0 512 512">
         <polygon points="256.00,23.50 54.65,139.75 54.65,372.25 256.00,488.50 457.35,372.25 457.35,139.75" fill="#0A0A0A" stroke="#0A0A0A" stroke-width="34" stroke-linejoin="round" />
         <polygon points="256.00,6.50 39.93,131.25 39.93,380.75 256.00,505.50 472.07,380.75 472.07,131.25" fill="none" stroke="#FFFFFF" stroke-width="11" stroke-linejoin="round" stroke-linecap="round" />
-        <g transform={`translate(${LOGO_TX} ${LOGO_TY}) scale(${LOGO_S})`}>
-          <path fill="var(--gold)" fill-rule="evenodd" d={FLOWER_D} />
-        </g>
+        {/* Flower referenced from one cached external sprite (public/brand/bloom.svg)
+            instead of inlining the ~17 KB path on every page — see scripts/build-bloom-svg.mjs.
+            fill="currentColor" in the sprite → gold here via `.brand-mark { color: var(--gold) }`. */}
+        <use href="/brand/bloom.svg#bloom" transform={`translate(${LOGO_TX} ${LOGO_TY}) scale(${LOGO_S})`} />
       </svg>
       <span class="brand-text">
         <span class="brand-name">NegaraKu<span class="dot">.md</span></span>
