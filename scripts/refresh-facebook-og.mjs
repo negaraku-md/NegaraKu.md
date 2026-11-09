@@ -99,17 +99,27 @@ async function rescrape(url, pageToken, lang) {
     const json = await res.json().catch(() => ({}));
     if (res.ok) return json; // { id, title, image: [...], updated_time, … }
     const e = json?.error || {};
-    const transient = e.is_transient || [4, 17, 32, 341, 613].includes(e.code);
+    // Code 4 = APP-level request limit, shared across every page and URL: retrying
+    // this (or any later URL) just burns time — surface it so main() stops cleanly.
+    if (e.code === 4) { const err = new Error('FB app-level request limit reached'); err.fbCode = 4; throw err; }
+    const transient = e.is_transient || [17, 32, 341, 613].includes(e.code);
     if (transient && attempt < 5) {
       await new Promise((r) => setTimeout(r, Math.min(60000, 5000 * 2 ** (attempt - 1))));
       continue;
     }
-    throw new Error(JSON.stringify(json));
+    const err = new Error(JSON.stringify(json)); err.fbCode = e.code; throw err;
   }
 }
 
 async function main() {
   let targets = await collectTargets();
+  // FB's app-level hourly limit caps how many URLs one run can scrape, so a single
+  // run usually can't finish all of them. Shuffle so repeated runs cover DIFFERENT
+  // URLs and the whole set gets refreshed across a few runs (scrape is idempotent).
+  for (let i = targets.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [targets[i], targets[j]] = [targets[j], targets[i]];
+  }
   if (LIMIT > 0) targets = targets.slice(0, LIMIT);
 
   console.log(`[fb-refresh] ${targets.length} affected posted URL(s) to re-scrape`);
@@ -130,20 +140,29 @@ async function main() {
     return tokenCache.get(lang);
   };
 
-  let ok = 0, fail = 0;
+  let ok = 0, fail = 0, consecFail = 0, stoppedEarly = false;
   for (const t of targets) {
     try {
       await rescrape(t.url, await pageToken(t.lang), t.lang);
-      ok++;
+      ok++; consecFail = 0;
       if (ok % 25 === 0) console.log(`[fb-refresh] …${ok}/${targets.length} refreshed`);
     } catch (err) {
-      fail++;
+      // Circuit-breaker: stop the whole run cleanly when Facebook is throttling —
+      // the explicit app-level limit (code 4), or a run of consecutive failures
+      // (page-level throttle). Thrashing every remaining URL through the full
+      // back-off would otherwise take hours and still mostly fail.
+      if (err.fbCode === 4 || consecFail + 1 >= 8) {
+        stoppedEarly = true;
+        console.log(`[fb-refresh] stopping early after ${ok} refreshed — ${err.fbCode === 4 ? 'FB app-level rate limit' : '8 consecutive failures (throttled)'}. Re-run later to continue; runs cover different URLs.`);
+        break;
+      }
+      fail++; consecFail++;
       console.error(`[fb-refresh] FAIL [${t.lang}] ${t.url}: ${err.message}`);
     }
     await new Promise((r) => setTimeout(r, 1200)); // pacing — FB scrape limits are strict
   }
-  console.log(`[fb-refresh] done — ${ok} refreshed, ${fail} failed, of ${targets.length}.`);
-  if (fail) process.exit(1);
+  console.log(`[fb-refresh] done — ${ok} refreshed, ${fail} failed${stoppedEarly ? ', stopped early at FB rate limit' : ''}, of ${targets.length}.`);
+  if (fail && !stoppedEarly) process.exit(1);
 }
 
 main().catch((err) => { console.error('[fb-refresh] error:', err); process.exit(1); });
