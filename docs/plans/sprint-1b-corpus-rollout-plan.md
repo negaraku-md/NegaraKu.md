@@ -50,6 +50,30 @@ shares a job). So the rollout is **not** "read every file." It is:
 | news | 3 | Case-by-case. |
 | (none) | 25 | Must read — no signal. |
 
+## Wave A — DONE (2026-11-09, held)
+
+250 families tagged (3,250 files), metadata-only — validator 0 errors,
+translation-sync 0 stale, lint 0 framework-signal warnings. Method as planned:
+reliable types (place/company→profile, data→data-reference, glossary→explainer,
+checklist→how-to) bulk-tagged + sample-verified; the two ⚠ flaky types
+reader-confirmed per family.
+
+**Key finding — `comparison` is a weak decision predictor.** Only **15 of 37**
+`comparison` families are genuine decisions (the reader picks one option *for
+themselves*: sole-prop-vs-sdn, share-vs-asset-sale, which work pass, which
+dispute forum). The other 22 explain a distinction the reader does **not** choose
+between — EPF vs SOCSO, Rulers vs Governors, e-Invoice vs tax-invoice, assessment
+vs quit-rent — which is **explainer**, not decision. (3 regional figure-tables →
+data-reference; paid-up-capital → rules; big-banks → profile.) **Rollout rule:**
+default `comparison` → explainer and promote to decision only when the article's
+job is "pick one for yourself," not "understand how two things differ."
+`timeline` held up better — 9 of 11 genuine dated history; the exceptions were a
+procedure (changing-auditors → how-to) and a deadline calendar (company-tax-
+calendar → data-reference).
+
+Corpus now: **282 families tagged** (32 pilot + 250 Wave A); **1,046 untagged**
+remain (Wave B 297 + Wave C 749). Preview regenerated accordingly.
+
 ## Rollout waves
 
 **Wave A — high-confidence narrow types (~268 families).**
