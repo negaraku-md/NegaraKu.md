@@ -213,6 +213,26 @@ const knowledge = defineCollection({
     tier: z.enum(['1', '2', '3', '4', 'S']).default('3'),
     /** Which template voice to render: answer-first vs story-led. */
     mode: z.enum(['practical', 'narrative']).default('practical'),
+    /**
+     * Reader-need framework — what the reader came to DO. Sets the opening
+     * emphasis, which sections earn their place, and the editorial checks the
+     * health scan applies. Orthogonal to `mode` (voice) and `foodType` (food
+     * subject). Optional and NON-rendering in v1: editorial guidance + lint only.
+     * NOT in translation-sync's TRANSLATED_FIELDS → tagging is freshness-neutral.
+     * An article family must be all-untagged or all-same-value (validate-frontmatter).
+     */
+    framework: z
+      .enum([
+        'explainer',
+        'history-culture',
+        'profile',
+        'how-to',
+        'decision',
+        'rules',
+        'data-reference',
+        'journey-hub',
+      ])
+      .optional(),
     /** What kind of thing this page is. */
     contentType: z
       .enum([

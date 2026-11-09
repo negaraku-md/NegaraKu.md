@@ -121,6 +121,10 @@ async function main() {
       // Editorial mode + chain-of-custody dates — surfaced for the OG social
       // cards (and any other consumer) so they need not re-parse frontmatter.
       mode: data.mode ?? 'practical',
+      // Reader-need framework (Sprint 1b) — optional, non-rendering. Surfaced so
+      // the health scan can apply its per-framework warn-level editorial checks
+      // without re-parsing frontmatter. See docs/ARTICLE-FRAMEWORKS.md.
+      framework: data.framework ?? null,
       published: data.published ? new Date(data.published).toISOString().slice(0, 10) : null,
       reviewed: data.reviewed ? new Date(data.reviewed).toISOString().slice(0, 10) : null,
       reviewDue: data.reviewDue ? new Date(data.reviewDue).toISOString().slice(0, 10) : null,

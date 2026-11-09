@@ -29,6 +29,27 @@ const SENSITIVITIES = new Set([
   'none', 'race', 'religion', 'royalty', 'constitution', 'elections', 'security',
   'health', 'legal-proceedings',
 ]);
+// Reader-need framework (Sprint 1b). Optional. See docs/ARTICLE-FRAMEWORKS.md.
+const FRAMEWORK_ENUM = new Set([
+  'explainer', 'history-culture', 'profile', 'how-to', 'decision', 'rules',
+  'data-reference', 'journey-hub',
+]);
+// Content/viewing locales used as the filename infix (foo.en.md). The bare
+// foo.md is also a family member (the master, often ms). Used to group an
+// article's language files into one family for the framework-consistency check.
+const LOCALES = new Set([
+  'ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar', 'hi', 'es', 'fr',
+]);
+// A family key is the article path with any trailing `.<locale>` infix removed:
+// knowledge/x/foo.md, foo.en.md, foo.zh.md all map to knowledge/x/foo.
+function familyKey(file) {
+  const base = file.replace(/\.md$/, '');
+  const dot = base.lastIndexOf('.');
+  if (dot > -1 && LOCALES.has(base.slice(dot + 1))) return base.slice(0, dot);
+  return base;
+}
+// family key -> [{ file, fw }] collected across the walk, checked after the loop.
+const frameworkByFamily = new Map();
 
 // Canonical state constitutional structure — the source of truth for the
 // "royalty" sensitivity on a state PROFILE. The nine states with a hereditary
@@ -141,6 +162,15 @@ for (const file of walk('knowledge')) {
 
   if (sens && !SENSITIVITIES.has(sens)) errors.push(`${file}: unknown sensitivity "${sens}"`);
 
+  // --- framework: valid value (per file) + family consistency (after loop) --
+  const fw = (fm.match(/^framework:\s*"?([\w-]+)"?/m) || [])[1];
+  if (fw && !FRAMEWORK_ENUM.has(fw)) {
+    errors.push(`${file}: unknown framework "${fw}" (see docs/ARTICLE-FRAMEWORKS.md)`);
+  }
+  const famKey = familyKey(file);
+  if (!frameworkByFamily.has(famKey)) frameworkByFamily.set(famKey, []);
+  frameworkByFamily.get(famKey).push({ file, fw: fw ?? null });
+
   // --- state-profile classification guardrail ------------------------------
   // A state profile lives at knowledge/states/<slug>[.lang].md. Enforce the
   // royalty rule from STATE_RULER so a mis-tagged classification (e.g. Melaka
@@ -183,6 +213,23 @@ for (const file of walk('knowledge')) {
           `use e.g. "ashton-tan" (see docs/CONTRIBUTOR-IDENTITY-STANDARD.md)`,
       );
     }
+  }
+}
+
+// --- framework family consistency ------------------------------------------
+// An article's language files must all omit `framework` OR all declare the SAME
+// valid value. A mix of tagged/untagged variants, or two different values, is a
+// classification error — name the family and the files so an editor can fix it.
+for (const [fam, members] of frameworkByFamily) {
+  const defined = members.filter((m) => m.fw);
+  const distinct = [...new Set(defined.map((m) => m.fw))];
+  const untagged = members.length - defined.length;
+  if (distinct.length > 1) {
+    const detail = members.map((m) => `${m.file.replace(/^.*[\\/]/, '')}=${m.fw ?? '∅'}`).join(', ');
+    errors.push(`${fam}: inconsistent framework across language files — ${detail}`);
+  } else if (distinct.length === 1 && untagged > 0) {
+    const missing = members.filter((m) => !m.fw).map((m) => m.file.replace(/^.*[\\/]/, '')).join(', ');
+    errors.push(`${fam}: framework "${distinct[0]}" on some files but missing on ${untagged} — tag all variants or none (missing: ${missing})`);
   }
 }
 

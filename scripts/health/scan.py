@@ -57,6 +57,20 @@ TIER_SOURCES = {"1": (3, 12), "2": (3, 8)}
 ANSWER_MIN, ANSWER_MAX = 40, 100
 TARGET_LANGS = ("en", "zh")
 
+# Reader-need frameworks (Sprint 1b, docs/ARTICLE-FRAMEWORKS.md). The scan only
+# AUTO-checks signals that are reliably detectable from the manifest and
+# language-agnostic (counts of sources and links). Prose signals — an explainer's
+# definition, a history's time/place context, a how-to's first action, a
+# profile's attribution — are editorial-checklist items (the reader tests in the
+# doc), NOT auto-warnings, so the warnings that do fire stay worth reading. These
+# fire once per family (on the master-language file) to avoid 13x duplication.
+FRAMEWORKS = {
+    "explainer", "history-culture", "profile", "how-to", "decision",
+    "rules", "data-reference", "journey-hub",
+}
+# A journey hub with fewer than this many outbound links isn't routing anywhere.
+HUB_MIN_LINKS = 3
+
 # Reviewers authorised to sign off content. A named reviewer renders a green
 # "Human-reviewed" badge, so an unrecognised name is a false claim of human
 # oversight — the one failure that discredits every other trust signal on the
@@ -331,6 +345,25 @@ def scan(articles: list[dict]) -> list[dict]:
         # on every substantive article, not just Tier 1.
         if tier in ("1", "2") and not a.get("faqCount"):
             add("WARN", "faq-missing", a, f"tier {tier} has no FAQ (loses FAQPage structured data)")
+        # per-framework editorial signals (warn-level, master file only). Only the
+        # manifest-detectable, language-agnostic checks run here; the rest are the
+        # reader-test checklist in docs/ARTICLE-FRAMEWORKS.md.
+        fw = a.get("framework")
+        if fw in FRAMEWORKS and a.get("lang", "ms") == a.get("masterLanguage", "ms"):
+            n_sources = a.get("sources", 0)
+            n_links = len(a.get("related", [])) + len(a.get("relations", []))
+            if fw == "data-reference" and n_sources == 0:
+                add("WARN", "framework-signal", a,
+                    "framework 'data-reference' cites no source — a figure or definition "
+                    "needs a period, unit and source; confirm in the body")
+            if fw == "rules" and n_sources == 0:
+                add("WARN", "framework-signal", a,
+                    "framework 'rules' cites no source — a rule needs its scope and a "
+                    "cited authority; confirm in the body")
+            if fw == "journey-hub" and n_links < HUB_MIN_LINKS:
+                add("WARN", "framework-signal", a,
+                    f"framework 'journey-hub' links only {n_links} step article(s) "
+                    f"(< {HUB_MIN_LINKS}) — a hub should route to the articles that own each step")
         # Typed graph edges may target an article OR a category (e.g. part-of:
         # malaysia). Anything else is a forward reference to content we haven't
         # written — which is a useful backlog signal, not a defect, so it is
