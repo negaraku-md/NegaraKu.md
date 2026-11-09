@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "petros-sarawak" }
 related: ["petroleum-development-act-1974"]
 keywords: ["Petronas", "Petroliam Nasional Berhad", "Akta Kemajuan Petroleum 1974", "PETROS", "royalti minyak", "gas aggregator", "Sarawak", "MISC", "PETRONAS Chemicals"]
+framework: profile
 ---
 
 석유개발법 1974는 말레이시아의 육상 및 해양에 있는 모든 석유에 대한 권리를 하나의 새로운 회사에 귀속시켰습니다. 그로부터 50여 년이 지난 지금도, 석유의 통제와 수익을 둘러싼 연방정부와 몇몇 주 사이의 관계는 여전히 해결되지 않은 문제로 남아 있습니다. 그 회사가 바로 Petroliam Nasional Berhad, 즉 Petronas입니다.

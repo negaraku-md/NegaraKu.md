@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "property-buying-guide" }
 related: []
 keywords: ["JMB", "MC", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Tribunal Pengurusan Strata", "Akta Pengurusan Strata 2013", "caj penyelenggaraan", "kumpulan wang penjelas", "COB", "strata"]
+framework: explainer
 ---
 
 콘도미니엄 세대를 샀는데, 엘리베이터, 수영장, 주차장 통로를 실제로 누가 소유하며 — 누가 당신에게 월 부과금을 징수할 권리가 있습니까? 답은 매수인이 분쟁이 생기기 전까지는 거의 읽지 않는 한 층위의 거버넌스에 있습니다: 구분소유관리법 2013(Strata Management Act 2013, Act 757)의 틀.

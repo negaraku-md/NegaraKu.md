@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "mykad" }
 related: ["registering-a-marriage-civil", "jpn", "mykad"]
 keywords: ["मलेशिया में विवाह", "मलेशिया विवाह क़ानून", "सिविल विवाह बनाम शरीयत विवाह", "मलेशिया में इस्लामी विवाह", "getting married in Malaysia", "Malaysia marriage law", "Act 164 Malaysia", "JAKIM marriage", "wali marriage Malaysia", "Syariah Court marriage permission", "kursus pra perkahwinan"]
+framework: explainer
 ---
 
 किसी मलेशियाई से पूछें कि विवाह कैसे किया जाए, और ईमानदार पहला जवाब आमतौर पर

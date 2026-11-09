@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "inflation-cpi" }
 related: ["inflation-cpi", "dosm"]
 keywords: ["إنفاق الأسرة ماليزيا", "household expenditure Malaysia", "مسح إنفاق الأسرة DOSM", "DOSM Household Expenditure Survey", "تفصيل تكلفة المعيشة ماليزيا", "كم ينفق الماليزيون", "فئات ميزانية الأسرة الماليزية"]
+framework: data-reference
 ---
 
 ## لمحة سريعة

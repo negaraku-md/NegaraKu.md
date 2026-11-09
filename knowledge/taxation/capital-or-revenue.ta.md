@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "lhdn" }
 related: ["capital-gains-tax", "rpgt-rates", "rpgt-exemptions", "corporate-tax-rates"]
 keywords: ["badges of trade Malaysia", "capital or revenue", "property flipping tax Malaysia", "share trading tax Malaysia", "adventure in the nature of trade", "RPGT or income tax"]
+framework: explainer
 ---
 
 ஒரு கடைவீட்டை RM500,000 ஆதாயத்திற்கு விற்றால் வரி RM150,000, RM50,000 அல்லது

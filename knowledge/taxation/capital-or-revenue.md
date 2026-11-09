@@ -84,6 +84,7 @@ relations:
   - { rel: "administered-by", to: "lhdn" }
 related: ["capital-gains-tax", "rpgt-rates", "rpgt-exemptions", "corporate-tax-rates"]
 keywords: ["badges of trade Malaysia", "capital or revenue", "property flipping tax Malaysia", "share trading tax Malaysia", "adventure in the nature of trade", "RPGT or income tax"]
+framework: explainer
 ---
 
 Sell a shophouse for a RM500,000 gain and the tax is either RM150,000, RM50,000

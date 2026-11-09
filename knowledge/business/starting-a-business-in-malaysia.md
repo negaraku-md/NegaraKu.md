@@ -99,8 +99,14 @@ sources:
     publisher: "DuitTools"
 entity: "Companies Commission of Malaysia (Suruhanjaya Syarikat Malaysia, SSM)"
 wikidata: "Q1121232"
-relations: []
-related: []
+relations:
+  - { rel: "related-to", to: "business-structures-malaysia" }
+  - { rel: "related-to", to: "appoint-company-secretary" }
+  - { rel: "related-to", to: "sst-explained" }
+  - { rel: "related-to", to: "sst-registration" }
+  - { rel: "related-to", to: "employment-act-coverage" }
+  - { rel: "related-to", to: "business-structure-tax-comparison" }
+related: ["business-structures-malaysia", "appoint-company-secretary", "sst-explained", "sst-registration", "employment-act-coverage", "business-structure-tax-comparison"]
 keywords:
   - "how to start a business in Malaysia"
   - "SSM registration"
@@ -117,6 +123,7 @@ keywords:
   - "SSM fees"
   - "LLP Malaysia"
   - "company secretary Malaysia"
+framework: journey-hub
 ---
 
 Search "how to start a business in Malaysia" and almost every result is an incorporation agency or accounting firm that will happily register the business for you for a fee — often five to ten times what the government actually charges. The truth is plainer: you can register most businesses yourself, online, for as little as RM30, and the harder part is not the paperwork but choosing the right structure and handling what comes *after* the certificate prints. This guide maps the whole path, from the four legal structures to the tax and compliance stack that registration alone does not cover.

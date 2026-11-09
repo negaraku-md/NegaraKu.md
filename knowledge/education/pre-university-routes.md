@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "ptptn-student-loan" }
 related: ["public-vs-private-universities", "ptptn-student-loan"]
 keywords: ["STPM vs Matrikulasi", "pre-university Malaysia", "Sijil Tinggi Persekolahan Malaysia", "Matrikulasi KPM", "A-Level Malaysia", "Foundation Asasi Malaysia", "Diploma to degree Malaysia", "UPU admission categories", "pre-u routes after SPM"]
+framework: decision
 ---
 
 Two students walk out of the same SPM hall with near-identical results. Eighteen

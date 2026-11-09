@@ -84,6 +84,7 @@ relations:
   - { rel: "explained-in", to: "sdn-bhd-filing-calendar" }
 related: ["ssm", "register-sdn-bhd", "sdn-bhd", "directors-duties", "annual-return"]
 keywords: ["Companies Act 2016", "Act 777", "Act A1701", "Malaysia corporate law", "SSM legal framework"]
+framework: data-reference
 ---
 
 หน้านี้เป็นบันทึกกฎหมายสำหรับ Act 777 — อัตลักษณ์ การบริหาร และห่วงโซ่การแก้ไขของมัน ขั้นตอนที่กฎหมายสร้างขึ้นถูกบันทึกไว้ทีละบทความในกลุ่มเลขานุการบริษัทและธุรกิจ; หน้านี้ไม่ได้กล่าวซ้ำ

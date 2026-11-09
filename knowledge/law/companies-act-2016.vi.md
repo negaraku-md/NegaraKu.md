@@ -84,6 +84,7 @@ relations:
   - { rel: "explained-in", to: "sdn-bhd-filing-calendar" }
 related: ["ssm", "register-sdn-bhd", "sdn-bhd", "directors-duties", "annual-return"]
 keywords: ["Companies Act 2016", "Act 777", "Act A1701", "Malaysia corporate law", "SSM legal framework"]
+framework: data-reference
 ---
 
 Trang này là hồ sơ luật định cho Act 777 — danh tính, việc quản lý và chuỗi sửa đổi của nó. Các quy trình mà nó tạo ra được ghi chép theo từng bài viết trong các cụm thư ký công ty và kinh doanh; trang này không lặp lại chúng.

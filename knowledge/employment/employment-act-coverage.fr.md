@@ -55,6 +55,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "working-hours-overtime-malaysia"]
 keywords: ["couverture loi sur l'emploi", "loi sur l'emploi RM4000", "loi sur l'emploi RM2000", "qui la loi sur l'emploi couvre malaisie", "premier barème loi sur l'emploi", "Employment Act coverage"]
+framework: rules
 ---
 
 Si vous avez cherché cette question au cours de la dernière année, on vous a probablement dit que la Loi sur l'emploi couvre les employés gagnant **RM2,000 ou moins**. Cette règle a été dépassée le **1 janvier 2023**, lorsque la Loi (modificative) de 2022 sur l'emploi est entrée en vigueur. Elle continue d'être publiée — ajobthing entre autres — et elle est erronée d'une manière qui coûte de l'argent dans les deux sens : les employeurs refusent des droits à ceux qui en ont, et versent des primes à ceux qui n'en ont pas.

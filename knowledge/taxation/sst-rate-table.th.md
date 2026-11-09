@@ -87,6 +87,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-expansion-2025", "sst-registration", "sst-02-filing"]
 keywords: ["SST rate table", "service tax groups Malaysia", "Group A to M service tax", "service tax threshold table", "6% 8% service tax"]
+framework: data-reference
 ---
 
 ตารางอ้างอิงสำหรับ First Schedule ของ Service Tax Regulations 2018 ที่แก้ไขเพิ่มเติม อัตรามาจาก Service Tax (Rate of Tax) Order 2018 ที่แทนที่โดย P.U.(A) 173/2025 และแก้ไขโดย P.U.(A) 125/2026

@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["wayang-kulit"]
 keywords: ["batik Malaysia", "batik canting", "batik Kelantan Terengganu", "kemeja batik pakaian rasmi", "tekstil rintangan lilin"]
+framework: history-culture
 ---
 
 Một tấm vải trắng trơn được đặt lên một khung. Một người thợ nhúng một cây bút đồng nhỏ — một cây canting, đầu vòi không rộng hơn đầu một cây bút chì — vào một nồi sáp lỏng, rồi bắt đầu vẽ trực tiếp lên vải: không phải bằng chất màu, mà bằng sáp sẽ từ chối tiếp nhận màu. Chỉ sau khi sáp nguội và cứng lại thì tấm vải mới được nhúng vào bể thuốc nhuộm. Nơi nào có sáp, thuốc nhuộm không thể chạm tới — và khi sáp về sau được luộc ra, điều còn lại là một họa tiết được vẽ không phải bằng màu, mà bằng sự vắng mặt của nó.

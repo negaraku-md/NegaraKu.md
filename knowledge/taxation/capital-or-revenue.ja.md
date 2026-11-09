@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "lhdn" }
 related: ["capital-gains-tax", "rpgt-rates", "rpgt-exemptions", "corporate-tax-rates"]
 keywords: ["badges of trade Malaysia", "capital or revenue", "property flipping tax Malaysia", "share trading tax Malaysia", "adventure in the nature of trade", "RPGT or income tax"]
+framework: explainer
 ---
 
 店舗兼住宅（ショップハウス）をRM500,000の収益で売却したとき、税額はRM150,000、RM50,000、あるいはゼロのいずれかになる。物件は同じであり、利益も同じであり、買主も同じである。答えを変えるのは、大半の売主が意識して問うことのない性質決定の問題である——そしてLHDNはそれを何年も後になって蒸し返すことができる。

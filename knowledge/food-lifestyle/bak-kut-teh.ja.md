@@ -95,6 +95,7 @@ social:
     - "#Klang"
     - "#MalaysianFood"
     - "#NegaraKu"
+framework: explainer
 ---
 
 これほど自らの存在を主張する料理はそうない。目にする前に、まず匂いでわかる——八角、シナモン、そしてじっくり煮

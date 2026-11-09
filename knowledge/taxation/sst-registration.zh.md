@@ -108,6 +108,7 @@ relations:
   - { rel: "explained-in", to: "sst-rate-table" }
 related: ["sst-explained", "sst-expansion-2025", "sst-rate-table", "sales-tax-explained", "sst-02-filing"]
 keywords: ["SST registration threshold", "service tax threshold Malaysia", "RM500000 SST", "sales tax registration Malaysia", "MySST registration"]
+framework: rules
 ---
 
 几乎每一份指南在回答「SST 注册门槛是多少？」时都说 RM500,000。对一家律师事务所

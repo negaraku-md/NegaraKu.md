@@ -88,6 +88,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-expansion-2025", "sst-registration", "sst-02-filing"]
 keywords: ["جدول أسعار SST", "مجموعات ضريبة الخدمات ماليزيا", "service tax groups Malaysia", "المجموعات من A إلى M", "عتبة ضريبة الخدمات", "service tax threshold", "ضريبة الخدمات 6% 8%"]
+framework: data-reference
 ---
 
 جدول مرجعي للجدول الأول (First Schedule) من لوائح ضريبة الخدمات لسنة 2018

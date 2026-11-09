@@ -90,6 +90,7 @@ social:
 verificationNeeded:
   - "The MICHELIN Guide Kuala Lumpur & Penang selection is revised annually; this profile reflects the 2026 edition (announced November 2025). A newer edition — for example a 2027 list — may add, drop or re-rank this restaurant, so reconfirm its current Bib Gourmand status on guide.michelin.com before relying on it."
   - "The exact number of herbs in the broth differs by source (16 on the restaurant listing versus about 15 in MICHELIN's feature); the stated 30-year age is approximate. Opening hours (roughly 08:30–15:30, closed Wednesdays) and the cash-only note vary between MICHELIN locale listings — confirm directly with the restaurant."
+framework: profile
 ---
 
 Bak kut teh rewards patience, and Ah Hei's day starts long before its first

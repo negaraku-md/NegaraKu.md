@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["three-tiers-of-government", "federal-constitution", "civil-and-syariah-courts", "constitutional-amendment", "parliament", "ma63"]
 keywords: ["Ninth Schedule Federal Constitution", "Federal List State List Concurrent List", "division of legislative power Malaysia", "Article 74 Federal Constitution", "Article 77 residual power", "List I List II List III Malaysia", "Sabah Sarawak legislative supplement", "Jadual Kesembilan", "who can make law Malaysia"]
+framework: explainer
 ---
 
 Tanah ialah perkara Negeri. Pertahanan ialah perkara persekutuan. Kesihatan awam pula terletak pada senarai ketiga yang boleh disentuh oleh kedua-duanya. Di Malaysia, sama ada Persekutuan atau sesuatu Negeri yang mempunyai kuasa untuk meluluskan sesuatu undang-undang bukanlah perkara pendapat atau rundingan — ia tertulis, subjek demi subjek, dalam satu jadual di bahagian belakang Perlembagaan Persekutuan.

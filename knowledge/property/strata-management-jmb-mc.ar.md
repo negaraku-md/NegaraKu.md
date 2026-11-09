@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "property-buying-guide" }
 related: []
 keywords: ["JMB", "MC", "مؤسسة الإدارة", "هيئة الإدارة المشتركة", "محكمة إدارة العقارات الطبقية", "قانون إدارة العقارات الطبقية 2013", "رسوم الصيانة", "صندوق الاحتياطي", "COB", "strata", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Akta Pengurusan Strata 2013"]
+framework: explainer
 ---
 
 تشتري وحدة كوندومينيوم، لكن من الذي يملك فعلاً المصعد وحمام السباحة وممر موقف السيارات — ومن له الحق في تحصيل رسم شهري منك؟ يكمن الجواب في طبقة من الحوكمة نادرًا ما يقرأ عنها المشترون حتى ينشأ نزاع: إطار قانون إدارة العقارات الطبقية لسنة 2013 (Strata Management Act 2013 / Act 757).

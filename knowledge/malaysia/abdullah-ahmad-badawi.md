@@ -68,6 +68,7 @@ social:
 verificationNeeded:
   - "Recent political figure; the Islam Hadhari concept (religion) and election outcomes are summarised neutrally — re-check against primary sources and require human reviewer sign-off before publication."
   - "CONFIRM his date of death (reported 14 April 2025, at the National Heart Institute in Kuala Lumpur, aged 85 — note: the originally supplied 20 April 2025 date appears incorrect) and all office dates against primary sources before publication."
+framework: profile
 ---
 
 After the long, forceful premiership of [Mahathir Mohamad](/malaysia/mahathir-mohamad), Malaysia in late 2003 inherited a very different kind of leader: a soft-spoken former civil servant from Penang who promised consultation over command, clean government over grand projects, and a gentler public tone. Abdullah Ahmad Badawi — known to almost everyone simply as **"Pak Lah"** — became the country's **fifth Prime Minister** on a wave of goodwill, won one of the largest electoral mandates in Malaysian history, and then, five years later, presided over the election that reshaped the nation's politics.

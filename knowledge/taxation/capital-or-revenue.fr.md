@@ -86,6 +86,7 @@ relations:
   - { rel: "administered-by", to: "lhdn" }
 related: ["capital-gains-tax", "rpgt-rates", "rpgt-exemptions", "corporate-tax-rates"]
 keywords: ["indices du commerce Malaisie", "capital ou revenu", "impôt revente immobilière Malaisie", "impôt négoce d'actions Malaisie", "badges of trade Malaysia", "adventure in the nature of trade", "RPGT or income tax"]
+framework: explainer
 ---
 
 Vendez une maison-boutique avec une plus-value de RM500,000 et l'impôt sera de

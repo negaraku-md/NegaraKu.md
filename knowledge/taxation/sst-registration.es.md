@@ -108,6 +108,7 @@ relations:
   - { rel: "explained-in", to: "sst-rate-table" }
 related: ["sst-explained", "sst-expansion-2025", "sst-rate-table", "sales-tax-explained", "sst-02-filing"]
 keywords: ["umbral de registro SST", "umbral del impuesto de servicios Malasia", "RM500000 SST", "registro del impuesto de ventas Malasia", "registro MySST", "service tax threshold Malaysia"]
+framework: rules
 ---
 
 Casi toda guía responde a «¿cuál es el umbral de registro SST?» con RM500,000. Para

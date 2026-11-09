@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "premise-licence-malaysia" }
 related: ["fnb-licence-malaysia", "premise-licence-malaysia"]
 keywords: ["kopitiam", "mamak", "teh tarik", "roti canai", "kopi", "budaya sarapan", "UNESCO", "medan selera", "nasi lemak"]
+framework: history-culture
 ---
 
 말레이시아인 아무나 새벽 세 시에 깨워 어디서 먹을 수 있는지 물어보면, 답은 거의 틀림없이 같습니다: 마막. 새벽부터 열고 언제 닫는지 모르는 마막, 그리고 할머니 할아버지 대부터 커피를 내 온 코피티암 — 다종족 국가의 국민이 매일 만나는 곳이 바로 이 두 공간 사이입니다. 공식 회관도, 연회장도 아닌, 얼룩진 대리석 탁자와 삐걱대는 플라스틱 의자 앞에서.

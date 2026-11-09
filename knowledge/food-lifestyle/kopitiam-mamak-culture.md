@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "premise-licence-malaysia" }
 related: ["fnb-licence-malaysia", "premise-licence-malaysia"]
 keywords: ["kopitiam", "mamak", "teh tarik", "roti canai", "kopi", "budaya sarapan", "UNESCO", "medan selera", "nasi lemak"]
+framework: history-culture
 ---
 
 Kejut mana-mana rakyat Malaysia jam tiga pagi dan tanya di mana boleh dapat makan, jawapannya hampir pasti sama: mamak. Bukanya sejak subuh, tutupnya entah bila, kopitiam pula sudah menghidang kopi sejak nenek moyang — dan di antara dua ruang inilah rakyat sebuah negara berbilang kaum bertemu setiap hari. Bukan di dewan rasmi, bukan di majlis, tetapi di meja marmar yang comot dan kerusi plastik yang senget.

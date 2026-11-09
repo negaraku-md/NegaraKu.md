@@ -107,6 +107,7 @@ relations:
   - { rel: "explained-in", to: "sst-rate-table" }
 related: ["sst-explained", "sst-expansion-2025", "sst-rate-table", "sales-tax-explained", "sst-02-filing"]
 keywords: ["SST registration threshold", "service tax threshold Malaysia", "RM500000 SST", "sales tax registration Malaysia", "MySST registration"]
+framework: rules
 ---
 
 「SST登録基準額はいくらか」という問いに対して、ほとんどすべてのガイドがRM500,000と答える。法律事務所であれば、それは正しい。私立病院、請負業者、家主、学校、あるいはレストランであれば、それは誤りである——そしてそのうち二つの場合、その誤りは登録が何年も遅れる方向に働く。

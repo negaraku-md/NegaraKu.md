@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "petros-sarawak" }
 related: ["petroleum-development-act-1974"]
 keywords: ["Petronas", "Petroliam Nasional Berhad", "Akta Kemajuan Petroleum 1974", "PETROS", "royalti minyak", "gas aggregator", "Sarawak", "MISC", "PETRONAS Chemicals"]
+framework: profile
 ---
 
 1974年石油開発法（Petroleum Development Act 1974、Act 144）は、マレーシア国内の陸上および沖合のすべての石油に対する権利を、新たに設立された一つの会社に与えた——そして50年以上を経た今なお、石油の統制と収益をめぐる連邦政府といくつかの州との関係は、未解決の問題であり続けている。その会社こそが、Petroliam Nasional Berhad、すなわちPetronasである。

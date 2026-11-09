@@ -88,6 +88,7 @@ social:
 verificationNeeded:
   - "La selección de la MICHELIN Guide Kuala Lumpur & Penang se revisa cada año; este perfil refleja la edición 2026 (anunciada en noviembre de 2025). Una edición más reciente — por ejemplo, una lista de 2027 — puede añadir, retirar o reclasificar este restaurante, así que vuelve a confirmar su estado actual de Bib Gourmand en guide.michelin.com antes de fiarte de él."
   - "El número exacto de hierbas del caldo difiere según la fuente (16 en la ficha del restaurante frente a unas 15 en el reportaje de MICHELIN); la antigüedad declarada de 30 años es aproximada. El horario (aproximadamente 08:30–15:30, cerrado los miércoles) y la nota de solo efectivo varían entre las fichas locales de MICHELIN — confirma directamente con el restaurante."
+framework: profile
 ---
 
 El bak kut teh premia la paciencia, y la jornada de Ah Hei empieza mucho antes

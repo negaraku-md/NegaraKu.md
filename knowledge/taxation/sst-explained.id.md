@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "sst-expansion-2025" }
 related: ["sales-tax-explained", "sst-registration", "sst-rate-table", "sst-02-filing", "sst-b2b-exemption", "sst-expansion-2025", "imported-taxable-services"]
 keywords: ["SST Malaysia", "cukai jualan dan perkhidmatan Malaysia", "cukai jualan dan perkhidmatan", "had pendaftaran SST", "MySST"]
+framework: explainer
 ---
 
 SST digambarkan di mana-mana saja sebagai "pengganti GST", yang merupakan

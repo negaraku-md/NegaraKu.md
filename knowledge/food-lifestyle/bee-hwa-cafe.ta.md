@@ -77,6 +77,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#BeeHwaCafe", "#Penang", "#BibGourmand", "#HalalFood", "#Malaysia"]
+framework: profile
 ---
 
 பினாங்கின் MICHELIN வரைபடத்தில் உள்ள புதிய பெயர்களில், 1990-களின் தொடக்கத்தில்

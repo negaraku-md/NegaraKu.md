@@ -62,6 +62,7 @@ relations:
   - { rel: "explained-in", to: "national-land-code" }
 related: ["buying-a-home-process", "national-land-code"]
 keywords: ["freehold vs leasehold Malaysia", "strata title Malaysia", "individual title vs strata title", "landed property Malaysia", "management corporation Malaysia", "National Land Code tenure", "Strata Titles Act 1985", "parcel tax Malaysia"]
+framework: explainer
 ---
 
 同じ通りに並ぶ、ほとんど瓜二つの二軒のテラスハウスが、州政府からまるで異なる約束を背負っていることがある。一方の権利証には「フリーホールド」とあり、もう一方には「リースホールド、99年、2118年満了」とある。もう一つの、これとは無関係な問いは、あなたが四十世帯の隣人とエレベーターホールやプールを共同所有することになるのか、それとも敷地内通路や屋根が完全にあなた自身の問題なのかを決める。買主はしばしばこの二つの問いを一つにまとめてしまう——「これはフリーホールドか、それともコンドミニアムか？」——が、物件は常にこの両方に、それぞれ独立して答えているのである。

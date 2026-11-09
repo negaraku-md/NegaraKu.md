@@ -76,6 +76,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#BeeHwaCafe", "#Penang", "#BibGourmand", "#HalalFood", "#Malaysia"]
+framework: profile
 ---
 
 Among the newest names on Penang's MICHELIN map is a George Town coffeeshop that

@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["wayang-kulit"]
 keywords: ["Malaysian batik", "batik canting", "Kelantan Terengganu batik", "batik shirt formal wear", "wax-resist textile"]
+framework: history-culture
 ---
 
 A length of plain white cloth goes onto a frame. A craftsperson dips a small copper pen — a canting, its spout no wider than a pencil tip — into a pot of melted wax, and begins drawing directly onto the fabric: not with pigment, but with wax that will refuse to take colour. Only after the wax has cooled and hardened does the cloth go into a dye bath. Wherever the wax sits, the dye can't reach — and when the wax is later boiled off, what's left is a pattern drawn not in colour, but in the absence of it.

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "ptptn-student-loan" }
 related: ["public-vs-private-universities", "ptptn-student-loan"]
 keywords: ["STPM vs Matrikulasi", "pre-university Malaysia", "Sijil Tinggi Persekolahan Malaysia", "Matrikulasi KPM", "A-Level Malaysia", "Foundation Asasi Malaysia", "Diploma to degree Malaysia", "UPU admission categories", "pre-u routes after SPM"]
+framework: decision
 ---
 
 นักเรียนสองคนเดินออกจากห้องสอบ SPM เดียวกันด้วยผลที่แทบเหมือนกัน สิบแปดเดือนต่อมา คนหนึ่งกำลังสอบข้อสอบของรัฐบาลที่ตรวจโดยสภาระดับชาติ อีกคนอยู่ในห้องเรียนวิทยาลัยตามหลักสูตรที่กำหนดในเคมบริดจ์ คนที่สามไม่ได้สอบข้อสอบระดับชาติเลย — คะแนนก่อนมหาวิทยาลัยทั้งหมดของเธอตัดสินโดยมหาวิทยาลัยที่เธอลงทะเบียนไว้แล้ว ไม่มีใครทำผิด พวกเขาเพียงเลือกคนละห้อง

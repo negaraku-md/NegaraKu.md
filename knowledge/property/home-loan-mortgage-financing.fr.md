@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "stamp-duty-property" }
 related: ["real-property-gains-tax"]
 keywords: ["prêt immobilier Malaisie", "financement hypothécaire", "marge de financement", "KWSP Akaun Sejahtera", "SJKP", "droit de timbre contrat de prêt", "MRTA", "MLTA"]
+framework: rules
 ---
 
 La maison de vos rêves coûte peut-être RM450,000, mais la banque ne débloquera cet argent qu'une fois convaincue que vous pouvez le rembourser au cours des 30 prochaines années. C'est là que commence l'univers du financement hypothécaire — marges, ratios de service de la dette, assurances, épargne EPF et droit de timbre, autant d'éléments qui déterminent si les clés de cette maison finiront entre vos mains.

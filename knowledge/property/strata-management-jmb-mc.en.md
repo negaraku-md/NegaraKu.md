@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "property-buying-guide" }
 related: []
 keywords: ["JMB", "MC", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Tribunal Pengurusan Strata", "Akta Pengurusan Strata 2013", "caj penyelenggaraan", "kumpulan wang penjelas", "COB", "strata"]
+framework: explainer
 ---
 
 You buy a condominium unit, but who actually owns the lift, the swimming pool and the car-park driveway — and who has the right to collect a monthly fee from you? The answer lies in a layer of governance that buyers rarely read about until a dispute arises: the framework of the Strata Management Act 2013 (Act 757).

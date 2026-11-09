@@ -109,6 +109,7 @@ relations:
   - { rel: "part-of", to: "sdn-bhd-first-year-compliance" }
 related: ["company-secretary-qualification", "secretary-vacancy-30-days", "secretary-resignation", "changing-company-secretary", "register-of-directors", "statutory-registers"]
 keywords: ["تعيين أمين سر الشركة ماليزيا", "appoint company secretary Malaysia", "المادة 236 قانون الشركات 2016", "section 236 Companies Act 2016", "أمين سر الشركة 30 يوماً من التأسيس", "قرار المجلس بتعيين أمين السر", "شهادة مزاولة أمين السر SSM"]
+framework: how-to
 ---
 
 من بين كل المواعيد النهائية التي تواجهها شركة Sdn Bhd جديدة، هذا هو الموعد الذي

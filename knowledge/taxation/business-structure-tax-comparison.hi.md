@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "llp-taxation" }
 related: ["sole-prop-vs-sdn-bhd", "corporate-tax-rates", "personal-tax-reliefs", "epf", "sdn-bhd"]
 keywords: ["Sdn Bhd बनाम एकमात्र स्वामी कर", "मलेशिया में कब निगमीकरण करें", "निदेशक वेतन कर कटौती", "LLP कर मलेशिया", "एकमात्र स्वामी कर-दर मलेशिया"]
+framework: decision
 ---
 
 मलेशियाई व्यावसायिक संरचनाओं की अधिकांश तुलनाएँ इस पर रुक जाती हैं कि "कंपनियाँ

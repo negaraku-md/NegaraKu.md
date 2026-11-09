@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "llp-taxation" }
 related: ["sole-prop-vs-sdn-bhd", "corporate-tax-rates", "personal-tax-reliefs", "epf", "sdn-bhd"]
 keywords: ["Sdn Bhd vs sole proprietor tax", "when to incorporate Malaysia", "director salary tax deduction", "LLP tax Malaysia", "sole prop tax rate Malaysia"]
+framework: decision
 ---
 
 การเปรียบเทียบโครงสร้างธุรกิจมาเลเซียส่วนใหญ่หยุดอยู่ที่ "บริษัทเสีย 15% และบุคคลธรรมดาเสียถึง

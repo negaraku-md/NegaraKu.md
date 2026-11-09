@@ -104,6 +104,7 @@ relations:
   - { rel: "part-of", to: "sdn-bhd-first-year-compliance" }
 related: ["company-secretary-qualification", "secretary-vacancy-30-days", "secretary-resignation", "changing-company-secretary", "register-of-directors", "statutory-registers"]
 keywords: ["appoint company secretary Malaysia", "section 236 Companies Act 2016", "company secretary 30 days incorporation", "board resolution appoint secretary", "SSM practising certificate secretary"]
+framework: how-to
 ---
 
 신설 Sdn Bhd가 마주하는 모든 기한 가운데, 이사들이 가장 자주 놓치는 것이 바로

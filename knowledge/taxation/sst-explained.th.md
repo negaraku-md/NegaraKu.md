@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "sst-expansion-2025" }
 related: ["sales-tax-explained", "sst-registration", "sst-rate-table", "sst-02-filing", "sst-b2b-exemption", "sst-expansion-2025", "imported-taxable-services"]
 keywords: ["SST Malaysia", "sales and service tax Malaysia", "cukai jualan dan perkhidmatan", "SST registration threshold", "MySST"]
+framework: explainer
 ---
 
 SST ถูกอธิบายทุกที่ว่าเป็น "ตัวแทน GST" ซึ่งเป็นสิ่งที่มีประโยชน์น้อยที่สุดที่คุณจะพูดถึงมันได้ GST เป็นภาษีเดียว อัตราเดียว เกณฑ์เดียว เก็บในทุกขั้นตอนพร้อมเครดิตสำหรับขั้นตอนก่อนหน้า SST เป็น **ภาษีสองประเภทที่ไม่เกี่ยวข้องกัน** แต่ละอย่างเป็นขั้นตอนเดียว ไม่มีอันใดให้เครดิตภาษีซื้อทั่วไป โดยมีอัตราและเกณฑ์ที่แตกต่างกันตามสิ่งที่คุณขาย

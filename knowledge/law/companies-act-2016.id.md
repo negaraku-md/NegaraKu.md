@@ -85,6 +85,7 @@ relations:
   - { rel: "explained-in", to: "sdn-bhd-filing-calendar" }
 related: ["ssm", "register-sdn-bhd", "sdn-bhd", "directors-duties", "annual-return"]
 keywords: ["Akta Syarikat 2016", "Akta 777", "Akta A1701", "undang-undang korporat Malaysia", "kerangka undang-undang SSM"]
+framework: data-reference
 ---
 
 Halaman ini adalah rekaman statuta bagi Act 777 — identitas, administrasi dan rantai

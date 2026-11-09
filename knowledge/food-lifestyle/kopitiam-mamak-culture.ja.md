@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "premise-licence-malaysia" }
 related: ["fnb-licence-malaysia", "premise-licence-malaysia"]
 keywords: ["kopitiam", "mamak", "teh tarik", "roti canai", "kopi", "budaya sarapan", "UNESCO", "medan selera", "nasi lemak"]
+framework: history-culture
 ---
 
 深夜3時にマレーシア人を誰でも起こして、どこで食事ができるか尋ねてみれば、答えはほぼ決まって同じである——ママックだ。夜明け前から開いていて、いつ閉まるかも分からない。一方コピティアムは、祖先の代からずっとコーヒーを出し続けてきた——そしてこの二つの空間の間で、多民族国家の人々は毎日出会う。公式なホールでも、式典でもなく、汚れた大理石のテーブルと傾いたプラスチックの椅子の間でである。

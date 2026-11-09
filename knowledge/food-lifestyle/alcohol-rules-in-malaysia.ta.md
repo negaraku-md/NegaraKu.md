@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "sst-explained" }
 related: ["civil-and-syariah-courts", "article-3-religion", "langkawi-visitor-guide", "labuan-tax-regime"]
 keywords: ["alcohol Malaysia", "liquor licence Malaysia", "Excise Act 1976", "drinking age Malaysia", "duty-free Langkawi Labuan", "Syariah alcohol"]
+framework: rules
 ---
 
 Kuala Lumpur நகரின் ஒரு மதுக்கூடத்தில் ஒரு பீர் கேட்பது முற்றிலும் சாதாரணமான ஒன்று. அதே பீரை Kelantan-இன் சில பகுதிகளில் வாங்க முயற்சித்தால், உரிமம் பெற்ற விற்பனை நிலையமே எதுவும் இல்லாமல் இருக்கலாம். மலேசியாவில் மதுபானத்திற்கு ஒரே ஒரு விதிநூல் இல்லை; அதற்கு ஒரு கூட்டாட்சி உரிம முறையும், முஸ்லிம்களுக்கு மட்டுமே பொருந்தும் தனி மத சட்டங்களின் தொகுப்பும், அதன் மேல் ஒவ்வொன்றும் தத்தமது நிபந்தனைகளைச் சேர்க்கும் மாநில அரசுகளும் உள்ளன. இதன் விளைவாக, ஒரு பயணி, ஒரு குடியிருப்பாளர் மற்றும் ஒரு உணவகம் உரிமையாளர் ஒவ்வொருவரும் வெவ்வேறு விதமாக அனுபவிக்கும் ஒரு ஒட்டுவேலைப் படம் உருவாகிறது.

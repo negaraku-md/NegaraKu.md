@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "petros-sarawak" }
 related: ["petroleum-development-act-1974"]
 keywords: ["Petronas", "Petroliam Nasional Berhad", "Akta Kemajuan Petroleum 1974", "PETROS", "royalti minyak", "gas aggregator", "Sarawak", "MISC", "PETRONAS Chemicals"]
+framework: profile
 ---
 
 พระราชบัญญัติพัฒนาปิโตรเลียม 1974 มอบสิทธิเหนือปิโตรเลียมทั้งหมดบนบกและนอกชายฝั่งมาเลเซียให้บริษัทใหม่ และกว่า 50 ปีต่อมา ความสัมพันธ์ระหว่างรัฐบาลกลางกับหลายรัฐเกี่ยวกับการควบคุมและรายได้ปิโตรเลียมยังคงเป็นประเด็นที่ยังไม่ยุติ บริษัทนั้นคือ Petroliam Nasional Berhad หรือ Petronas

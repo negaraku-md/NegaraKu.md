@@ -63,6 +63,7 @@ relations:
   - { rel: "explained-in", to: "national-land-code" }
 related: ["buying-a-home-process", "national-land-code"]
 keywords: ["freehold vs leasehold Malaysia", "strata title Malaysia", "individual title vs strata title", "landed property Malaysia", "management corporation Malaysia", "National Land Code tenure", "Strata Titles Act 1985", "parcel tax Malaysia"]
+framework: explainer
 ---
 
 같은 거리에 있는 거의 똑같은 두 테라스하우스가 주(州)로부터 매우 다른 약속을 담을 수 있습니다: 한 소유권 증서에는 「자유보유」라고 적혀 있고, 다른 하나에는 「임차보유, 99년, 2118년 만료」라고 적혀 있습니다. 그리고 이와 무관한 두 번째 질문이, 당신이 마흔 가구와 함께 엘리베이터 로비와 수영장을 공동 소유하는지, 아니면 진입로와 지붕이 전적으로 당신만의 문제인지를 결정합니다. 매수인은 부동산이 언제나 두 질문에 독립적으로 답하고 있는데도, 흔히 이 둘을 하나로 뭉뚱그립니다 — 「자유보유예요, 아니면 콘도예요?」라고.

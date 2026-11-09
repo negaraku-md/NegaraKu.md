@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "stamp-duty-property" }
 related: ["real-property-gains-tax"]
 keywords: ["pinjaman perumahan", "gadai janji", "margin pembiayaan", "KWSP Akaun Sejahtera", "SJKP", "duti setem perjanjian pinjaman", "MRTA", "MLTA"]
+framework: rules
 ---
 
 心仪的房子也许标价RM450,000，但在银行确信你有能力在未来30年内还清之前，它是不会把这笔钱交给你的。按揭融资的世界正是从这里开始——融资额度、偿债比率、保险、公积金储蓄和印花税，这一切都决定着那把房门钥匙能否落入你的手中。

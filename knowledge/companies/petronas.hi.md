@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "petros-sarawak" }
 related: ["petroleum-development-act-1974"]
 keywords: ["Petronas", "Petroliam Nasional Berhad", "Akta Kemajuan Petroleum 1974", "PETROS", "royalti minyak", "gas aggregator", "Sarawak", "MISC", "PETRONAS Chemicals"]
+framework: profile
 ---
 
 पेट्रोलियम विकास अधिनियम 1974 ने मलेशिया में तटीय और अपतटीय समस्त पेट्रोलियम पर अधिकार एक नई कंपनी में निहित कर दिए — और 50 वर्षों से अधिक बीतने के बाद भी, पेट्रोलियम के नियंत्रण और राजस्व को लेकर संघीय सरकार तथा कई राज्यों के बीच का संबंध एक अनसुलझा मुद्दा बना हुआ है। वह कंपनी Petroliam Nasional Berhad, यानी Petronas है।

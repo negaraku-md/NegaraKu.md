@@ -63,6 +63,7 @@ relations:
   - { rel: "explained-in", to: "national-land-code" }
 related: ["buying-a-home-process", "national-land-code"]
 keywords: ["freehold vs leasehold Malaysia", "strata title Malaysia", "individual title vs strata title", "landed property Malaysia", "management corporation Malaysia", "National Land Code tenure", "Strata Titles Act 1985", "parcel tax Malaysia"]
+framework: explainer
 ---
 
 同一条街上两间几乎一模一样的排屋，可能来自州政府当局截然不同的承诺：一份地契写着「永久地契」，另一份写着「租赁地契，99 年，2118 年到期」。另一个不相关的问题，则决定你是否要与另外四十户人家共同拥有电梯大堂与泳池，还是车道与屋顶完全是你自己的事。买家常把这两个问题混成一个——「这是永久地契，还是公寓？」——但一处房产其实永远同时、各自独立地回答着这两个问题。

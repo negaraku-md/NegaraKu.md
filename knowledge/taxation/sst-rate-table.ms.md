@@ -88,6 +88,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-expansion-2025", "sst-registration", "sst-02-filing"]
 keywords: ["jadual kadar SST", "kumpulan cukai perkhidmatan Malaysia", "Kumpulan A hingga M cukai perkhidmatan", "jadual ambang cukai perkhidmatan", "cukai perkhidmatan 6% 8%"]
+framework: data-reference
 ---
 
 Jadual rujukan bagi Jadual Pertama kepada Peraturan-Peraturan Cukai Perkhidmatan

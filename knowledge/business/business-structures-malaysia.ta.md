@@ -106,6 +106,7 @@ keywords:
   - "enterprise vs LLP vs Sdn Bhd"
   - "choose business structure Malaysia"
   - "compare Sdn Bhd Berhad LLP"
+framework: decision
 ---
 
 மற்ற ஒவ்வொரு வழிகாட்டியும் ஏழு அமைப்புகளை ஏழு உரைப் பிரிவுகளில் உங்களுக்கு

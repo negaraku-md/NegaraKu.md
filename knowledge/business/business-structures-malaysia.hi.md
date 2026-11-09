@@ -108,6 +108,7 @@ keywords:
   - "enterprise vs LLP vs Sdn Bhd"
   - "मलेशिया व्यवसाय-संरचना चुनें"
   - "Sdn Bhd Berhad LLP तुलना"
+framework: decision
 ---
 
 हर दूसरी मार्गदर्शिका आपको सात संरचनाओं से सात गद्य-खंडों में ले जाती है, और आप उसे

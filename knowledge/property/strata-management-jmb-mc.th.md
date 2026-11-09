@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "property-buying-guide" }
 related: []
 keywords: ["JMB", "MC", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Tribunal Pengurusan Strata", "Akta Pengurusan Strata 2013", "caj penyelenggaraan", "kumpulan wang penjelas", "COB", "strata"]
+framework: explainer
 ---
 
 คุณซื้อหน่วยคอนโดมิเนียมหนึ่งหน่วย แต่ใครเป็นเจ้าของลิฟต์ สระว่ายน้ำ และทางเดินที่จอดรถจริง และใครมีสิทธิเก็บค่าธรรมเนียมรายเดือนจากคุณ? คำตอบอยู่ที่ชั้นการบริหารจัดการหนึ่งที่ผู้ซื้อมักไม่ได้อ่านจนกว่าจะเกิดข้อพิพาท: กรอบพระราชบัญญัติการจัดการอาคารชุด 2013 (Act 757)

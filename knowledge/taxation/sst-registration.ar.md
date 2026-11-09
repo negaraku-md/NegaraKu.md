@@ -108,6 +108,7 @@ relations:
   - { rel: "explained-in", to: "sst-rate-table" }
 related: ["sst-explained", "sst-expansion-2025", "sst-rate-table", "sales-tax-explained", "sst-02-filing"]
 keywords: ["عتبة تسجيل SST", "عتبة ضريبة الخدمات ماليزيا", "service tax threshold Malaysia", "RM500000 SST", "تسجيل ضريبة المبيعات", "MySST registration"]
+framework: rules
 ---
 
 يجيب كل دليل تقريباً عن سؤال «ما عتبة تسجيل SST؟» بمبلغ RM500,000. وبالنسبة

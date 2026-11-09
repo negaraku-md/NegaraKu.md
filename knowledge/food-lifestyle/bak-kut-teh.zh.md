@@ -95,6 +95,7 @@ social:
     - "#Klang"
     - "#MalaysianFood"
     - "#NegaraKu"
+framework: explainer
 ---
 
 没有几道菜能像肉骨茶这样宣告自己的存在。还没见到它，你就先闻到了：八角、肉桂和慢炖猪肉凝成一团深色而馥郁的

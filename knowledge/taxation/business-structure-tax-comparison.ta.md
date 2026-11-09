@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "llp-taxation" }
 related: ["sole-prop-vs-sdn-bhd", "corporate-tax-rates", "personal-tax-reliefs", "epf", "sdn-bhd"]
 keywords: ["Sdn Bhd vs sole proprietor tax", "when to incorporate Malaysia", "director salary tax deduction", "LLP tax Malaysia", "sole prop tax rate Malaysia"]
+framework: decision
 ---
 
 மலேசிய வணிக அமைப்புகளின் பெரும்பாலான ஒப்பீடுகள் “நிறுவனங்கள் 15% செலுத்துகின்றன,

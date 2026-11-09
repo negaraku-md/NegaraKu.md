@@ -107,6 +107,7 @@ relations:
   - { rel: "explained-in", to: "sst-rate-table" }
 related: ["sst-explained", "sst-expansion-2025", "sst-rate-table", "sales-tax-explained", "sst-02-filing"]
 keywords: ["SST registration threshold", "service tax threshold Malaysia", "RM500000 SST", "sales tax registration Malaysia", "MySST registration"]
+framework: rules
 ---
 
 Gần như mọi hướng dẫn đều trả lời câu hỏi "ngưỡng đăng ký SST là bao nhiêu?"

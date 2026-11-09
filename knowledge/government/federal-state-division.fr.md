@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["three-tiers-of-government", "federal-constitution", "civil-and-syariah-courts", "constitutional-amendment", "parliament", "ma63"]
 keywords: ["Ninth Schedule Federal Constitution", "Federal List State List Concurrent List", "division of legislative power Malaysia", "Article 74 Federal Constitution", "Article 77 residual power", "List I List II List III Malaysia", "Sabah Sarawak legislative supplement", "Jadual Kesembilan", "who can make law Malaysia"]
+framework: explainer
 ---
 
 La terre est une matière étatique. La défense est fédérale. La santé publique se situe sur une troisième liste que les deux peuvent toucher. En Malaisie, le fait que la Fédération ou un État détienne le pouvoir d'adopter une loi donnée n'est pas une question d'opinion ni de négociation : c'est écrit, matière par matière, dans une unique annexe à la fin de la Constitution fédérale.

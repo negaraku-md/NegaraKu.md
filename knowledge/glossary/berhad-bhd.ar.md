@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "securities-commission-malaysia" }
 related: ["sdn-bhd", "companies-act-2016", "securities-commission-malaysia", "investing-in-bursa-malaysia-guide", "paid-up-capital"]
 keywords: ["Berhad", "Bhd", "الشركة العامة المحدودة ماليزيا", "public limited company Malaysia", "public company Companies Act 2016", "إدراج بورصة ماليزيا", "Bursa Malaysia listing"]
+framework: explainer
 ---
 
 **بهاسا ماليزيا:** Berhad · **الإنجليزية:** Public Limited Company · **الصينية:** 大众有限公司

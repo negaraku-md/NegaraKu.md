@@ -86,6 +86,7 @@ relations:
   - { rel: "administered-by", to: "lhdn" }
 related: ["capital-gains-tax", "rpgt-rates", "rpgt-exemptions", "corporate-tax-rates"]
 keywords: ["व्यापार के चिह्न मलेशिया", "पूंजीगत या राजस्व", "संपत्ति फ़्लिपिंग कर मलेशिया", "शेयर-व्यापार कर मलेशिया", "badges of trade Malaysia", "adventure in the nature of trade", "RPGT or income tax"]
+framework: explainer
 ---
 
 किसी दुकान-घर को RM500,000 के लाभ पर बेचें और कर या तो RM150,000 है, RM50,000 है

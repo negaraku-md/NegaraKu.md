@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "expatriate-and-non-resident-tax" }
 related: ["moving-to-malaysia-first-steps", "malaysia-business-visa-comparison", "expatriate-and-non-resident-tax"]
 keywords: ["driving licence foreigner Malaysia", "international driving permit Malaysia", "JPJ foreign licence conversion", "convert driving licence Malaysia expat", "MM2H driving licence", "driving in Malaysia as an expat"]
+framework: how-to
 ---
 
 Un retraité du MM2H qui a conduit trente ans à l'étranger, une nouvelle

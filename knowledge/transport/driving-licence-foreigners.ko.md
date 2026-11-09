@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "expatriate-and-non-resident-tax" }
 related: ["moving-to-malaysia-first-steps", "malaysia-business-visa-comparison", "expatriate-and-non-resident-tax"]
 keywords: ["driving licence foreigner Malaysia", "international driving permit Malaysia", "JPJ foreign licence conversion", "convert driving licence Malaysia expat", "MM2H driving licence", "driving in Malaysia as an expat"]
+framework: how-to
 ---
 
 해외에서 30년을 운전해 온 MM2H 은퇴자, 수동 변속기를 한 번도 만져 본 적

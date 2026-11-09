@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "stamp-duty-property" }
 related: ["real-property-gains-tax"]
 keywords: ["pinjaman perumahan", "gadai janji", "margin pembiayaan", "KWSP Akaun Sejahtera", "SJKP", "duti setem perjanjian pinjaman", "MRTA", "MLTA"]
+framework: rules
 ---
 
 Your dream home might cost RM450,000, but the bank will not hand over that money until it is confident you can pay it back over the next 30 years. That is where the world of mortgage financing begins — margins, debt-service ratios, insurance, EPF savings and stamp duty, all of which determine whether the keys to that house end up in your hands.

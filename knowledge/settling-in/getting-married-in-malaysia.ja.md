@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "mykad" }
 related: ["registering-a-marriage-civil", "jpn", "mykad"]
 keywords: ["getting married in Malaysia", "Malaysia marriage law", "civil marriage vs syariah marriage", "Islamic marriage Malaysia", "Act 164 Malaysia", "JAKIM marriage", "wali marriage Malaysia", "Syariah Court marriage permission", "Muslim marriage registration Malaysia", "kursus pra perkahwinan"]
+framework: explainer
 ---
 
 マレーシア人に結婚の仕方を尋ねると、正直な最初の答えは大抵、別の質問である——あなたたちのどちらかはムスリムですか、というものだ。

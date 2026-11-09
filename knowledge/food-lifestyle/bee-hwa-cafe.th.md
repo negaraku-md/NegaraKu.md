@@ -77,6 +77,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#BeeHwaCafe", "#Penang", "#BibGourmand", "#HalalFood", "#Malaysia"]
+framework: profile
 ---
 
 ในบรรดาชื่อใหม่ล่าสุดบนแผนที่ MICHELIN ของปีนัง มีร้านกาแฟในจอร์จทาวน์แห่งหนึ่ง

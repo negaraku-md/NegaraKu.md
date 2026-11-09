@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "corporate-bank-account-malaysia" }
 related: ["opr-monetary-policy", "ringgit", "foreign-exchange-policy-malaysia", "payment-regulation-malaysia"]
 keywords: ["Bank Negara Malaysia", "BNM", "Central Bank of Malaysia Act 2009", "banque centrale de la Malaisie", "Comité de politique monétaire Malaisie"]
+framework: profile
 ---
 
 ## En un coup d'oeil

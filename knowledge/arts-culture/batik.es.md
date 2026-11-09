@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["wayang-kulit"]
 keywords: ["Malaysian batik", "batik canting", "Kelantan Terengganu batik", "batik shirt formal wear", "wax-resist textile"]
+framework: history-culture
 ---
 
 Una pieza de tela blanca lisa se monta en un bastidor. Un artesano moja una pequeña pluma de cobre — un canting, cuya boquilla no es más ancha que la punta de un lápiz — en un recipiente de cera fundida, y empieza a dibujar directamente sobre el tejido: no con pigmento, sino con cera que se negará a tomar color. Solo después de que la cera se ha enfriado y endurecido pasa la tela a un baño de tinte. Dondequiera que esté la cera, el tinte no puede llegar — y cuando la cera se hierve más tarde para retirarla, lo que queda es un patrón dibujado no con color, sino con su ausencia.

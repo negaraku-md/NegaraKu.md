@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "sst-explained" }
 related: ["civil-and-syariah-courts", "article-3-religion", "langkawi-visitor-guide", "labuan-tax-regime"]
 keywords: ["الكحول ماليزيا", "alcohol Malaysia", "ترخيص الخمور ماليزيا", "liquor licence Malaysia", "Excise Act 1976", "سنّ الشرب ماليزيا", "drinking age Malaysia", "إعفاء من الرسوم لنكاوي لابوان", "duty-free Langkawi Labuan", "الكحول والشريعة", "Syariah alcohol"]
+framework: rules
 ---
 
 اطلب جعةً في حانة بكوالالمبور وسيكون الأمر روتينياً تماماً. وحاول شراء الجعة نفسها في أجزاء من كلنتان (Kelantan) فقد لا تجد منفذاً مرخَّصاً البتّة. فماليزيا لا تملك كتاب قواعد واحداً للكحول؛ بل تملك نظام ترخيص اتحادياً، ومجموعة منفصلة من القوانين الدينية التي لا تنطبق إلّا على المسلمين، وحكومات ولايات يضيف كلٌّ منها شروطه الخاصة فوق ذلك. والنتيجة رقعة متباينة يختبرها الزائر والمقيم وصاحب المطعم كلٌّ على نحو مختلف.

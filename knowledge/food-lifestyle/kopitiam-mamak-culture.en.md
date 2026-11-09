@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "premise-licence-malaysia" }
 related: ["fnb-licence-malaysia", "premise-licence-malaysia"]
 keywords: ["kopitiam", "mamak", "teh tarik", "roti canai", "kopi", "budaya sarapan", "UNESCO", "medan selera", "nasi lemak"]
+framework: history-culture
 ---
 
 Wake any Malaysian at three in the morning and ask where they can find food, and the answer is almost certainly the same: mamak. Opening at dawn and closing who-knows-when, while the kopitiam has been serving coffee since the days of our grandparents — and it is between these two spaces that the people of a multi-ethnic nation meet every day. Not in official halls, not at ceremonies, but at grimy marble tables and wobbly plastic chairs.

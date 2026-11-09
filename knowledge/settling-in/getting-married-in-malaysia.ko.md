@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "mykad" }
 related: ["registering-a-marriage-civil", "jpn", "mykad"]
 keywords: ["getting married in Malaysia", "Malaysia marriage law", "civil marriage vs syariah marriage", "Islamic marriage Malaysia", "Act 164 Malaysia", "JAKIM marriage", "wali marriage Malaysia", "Syariah Court marriage permission", "Muslim marriage registration Malaysia", "kursus pra perkahwinan"]
+framework: explainer
 ---
 
 말레이시아 사람에게 어떻게 혼인하느냐고 물으면, 솔직한 첫 대답은 대개 또 다른 질문입니다. 두 분 중 무슬림이신 분이 있습니까?

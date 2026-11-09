@@ -86,6 +86,7 @@ relations:
   - { rel: "administered-by", to: "lhdn" }
 related: ["capital-gains-tax", "rpgt-rates", "rpgt-exemptions", "corporate-tax-rates"]
 keywords: ["lambang perdagangan Malaysia", "modal atau hasil", "cukai membeli-jual hartanah Malaysia", "cukai perdagangan saham Malaysia", "usaha bersifat perdagangan", "RPGT atau cukai pendapatan"]
+framework: explainer
 ---
 
 Jual sebuah rumah kedai dengan keuntungan RM500,000 dan cukainya boleh jadi

@@ -84,6 +84,7 @@ faq:
     a: Dalam kebanyakan kes, tidak. Pas lawatan sosial jangka pendek (pelancong) yang biasa hanya mengesahkan bahawa anda dibenarkan melawat dan tidak boleh ditukar kepada status kerja atau tinggal jangka panjang dari dalam Malaysia. Jika kerja, tajaan keluarga atau tinggal jangka panjang yang dibiayai sendiri adalah rancangannya, permohonan pas secara amnya perlu diselesaikan, atau sekurang-kurangnya hampir selesai, sebelum berpindah, bukan dianggap sebagai urusan minggu pertama selepas anda mendarat.
   - q: Apakah Kad Ketibaan Digital Malaysia, dan adakah ia dikenakan bayaran?
     a: Kad Ketibaan Digital Malaysia (MDAC) ialah pendaftaran kemasukan percuma yang mesti dilengkapkan dalam talian oleh kebanyakan pendatang asing sebelum mendarat, dihantar hanya melalui portal rasmi Jabatan Imigresen sendiri. Ia bukan visa dan tidak menggantikan apa-apa pas atau visa yang telah anda pegang. Jabatan itu menegaskan ia adalah percuma kerana laman web tiruan tidak rasmi telah mengenakan bayaran kepada pengembara untuk borang yang tidak dikenakan apa-apa kos di sumbernya.
+framework: journey-hub
 ---
 
 Kebanyakan orang yang merancang perpindahan ke Malaysia bermula dengan soalan yang

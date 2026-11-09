@@ -100,8 +100,14 @@ sources:
     publisher: "DuitTools"
 entity: "Companies Commission of Malaysia (Suruhanjaya Syarikat Malaysia, SSM)"
 wikidata: "Q1121232"
-relations: []
-related: []
+relations:
+  - { rel: "related-to", to: "business-structures-malaysia" }
+  - { rel: "related-to", to: "appoint-company-secretary" }
+  - { rel: "related-to", to: "sst-explained" }
+  - { rel: "related-to", to: "sst-registration" }
+  - { rel: "related-to", to: "employment-act-coverage" }
+  - { rel: "related-to", to: "business-structure-tax-comparison" }
+related: ["business-structures-malaysia", "appoint-company-secretary", "sst-explained", "sst-registration", "employment-act-coverage", "business-structure-tax-comparison"]
 keywords:
   - "मलेशिया में व्यवसाय कैसे शुरू करें"
   - "SSM पंजीकरण"
@@ -118,6 +124,7 @@ keywords:
   - "SSM शुल्क"
   - "LLP Malaysia"
   - "कंपनी सचिव मलेशिया"
+framework: journey-hub
 ---
 
 «मलेशिया में व्यवसाय कैसे शुरू करें» खोजें और लगभग हर परिणाम एक निगमन एजेंसी या लेखा फ़र्म होती है जो एक शुल्क के बदले आपके लिए खुशी-खुशी व्यवसाय पंजीकृत कर देगी — अक्सर सरकार द्वारा वास्तव में लिए जाने वाले शुल्क से पाँच से दस गुना अधिक। सच्चाई अधिक सरल है: आप अधिकांश व्यवसायों को स्वयं, ऑनलाइन, RM30 जितने कम में पंजीकृत कर सकते हैं, और कठिन हिस्सा कागज़ी कार्रवाई नहीं बल्कि सही संरचना चुनना और प्रमाणपत्र छपने के *बाद* जो आता है उसे संभालना है। यह मार्गदर्शिका पूरे मार्ग का नक़्शा बनाती है, चार कानूनी संरचनाओं से लेकर उस कर एवं अनुपालन स्टैक तक जिसे पंजीकरण अकेले कवर नहीं करता।

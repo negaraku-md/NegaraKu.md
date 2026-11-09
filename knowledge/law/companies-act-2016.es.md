@@ -85,6 +85,7 @@ relations:
   - { rel: "explained-in", to: "sdn-bhd-filing-calendar" }
 related: ["ssm", "register-sdn-bhd", "sdn-bhd", "directors-duties", "annual-return"]
 keywords: ["Companies Act 2016", "Act 777", "Act A1701", "derecho de sociedades Malasia", "marco jurídico SSM"]
+framework: data-reference
 ---
 
 Esta página es el registro del estatuto para el Act 777 — su identidad, su administración y su cadena de enmiendas. Los procedimientos que crea están documentados artículo por artículo en los grupos de secretaría de sociedades y de negocios; esta página no los repite.

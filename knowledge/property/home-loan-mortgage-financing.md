@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "stamp-duty-property" }
 related: ["real-property-gains-tax"]
 keywords: ["pinjaman perumahan", "gadai janji", "margin pembiayaan", "KWSP Akaun Sejahtera", "SJKP", "duti setem perjanjian pinjaman", "MRTA", "MLTA"]
+framework: rules
 ---
 
 Rumah idaman mungkin RM450,000, tetapi bank tidak akan menyerahkan wang itu sehingga ia yakin anda mampu membayarnya balik selama 30 tahun akan datang. Di situlah bermulanya dunia pembiayaan gadai janji — margin, nisbah khidmat hutang, insurans, simpanan KWSP dan duti setem yang semuanya menentukan sama ada kunci rumah itu berpindah ke tangan anda.

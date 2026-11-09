@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "road-tax-renewal" }
 related: ["road-transport-act-1987", "motor-insurance", "road-tax-renewal"]
 keywords: ["buying a car Malaysia", "hire purchase Malaysia", "JPJ ownership transfer", "Puspakom B5 B7", "Proton Perodua national car", "used car transfer Malaysia", "Hire Purchase Act 1967", "Hire Purchase Amendment Act 2026", "car loan Malaysia"]
+framework: how-to
 ---
 
 Buy a car in Malaysia and you sign one deal, but you actually enter three separate relationships at once: one with whoever sold you the car, one with whoever is financing it, and one with JPJ, the department that decides whose name is actually on the vehicle. Miss a step in any of the three, and the car you paid for is legally still not fully yours.

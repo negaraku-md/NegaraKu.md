@@ -77,6 +77,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#BeeHwaCafe", "#Penang", "#BibGourmand", "#HalalFood", "#Malaysia"]
+framework: profile
 ---
 
 Trong số những cái tên mới nhất trên bản đồ MICHELIN của Penang có một quán cà phê

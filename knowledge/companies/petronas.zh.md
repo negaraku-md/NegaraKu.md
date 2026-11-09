@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "petros-sarawak" }
 related: ["petroleum-development-act-1974"]
 keywords: ["Petronas", "Petroliam Nasional Berhad", "Akta Kemajuan Petroleum 1974", "PETROS", "royalti minyak", "gas aggregator", "Sarawak", "MISC", "PETRONAS Chemicals"]
+framework: profile
 ---
 
 《1974 年石油开发法令》将马来西亚陆上和近海一切石油的权利赋予了一家新成立的公司——而在 50 多年后的今天，联邦政府与若干州属之间关于石油掌控权和收益的关系，仍是一个悬而未决的问题。这家公司就是马来西亚国家石油有限公司（Petroliam Nasional Berhad），即 Petronas。

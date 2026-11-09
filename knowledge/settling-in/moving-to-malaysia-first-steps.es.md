@@ -84,6 +84,7 @@ faq:
     a: En la mayoría de los casos, no. Un permiso estándar de visita social de corta duración (turista) solo certifica que usted está autorizado a visitar y no se convierte en un estatus de trabajo o de estancia prolongada desde dentro de Malasia. Si el plan es trabajar, el patrocinio familiar o una estancia prolongada autofinanciada, la solicitud del permiso por lo general debe quedar resuelta, o al menos bien encaminada, antes de la mudanza, y no tratarse como un trámite de la primera semana tras aterrizar.
   - q: ¿Qué es la Tarjeta de Llegada Digital de Malasia y tiene algún costo?
     a: La Tarjeta de Llegada Digital de Malasia (MDAC) es un registro de entrada gratuito que la mayoría de los extranjeros que llegan deben completar en línea antes de aterrizar, presentado únicamente a través del portal oficial del propio Departamento de Inmigración. No es un visado y no sustituye a ningún permiso o visado que usted ya posea. El Departamento recalca que es gratuita porque sitios no oficiales que la imitan han cobrado a los viajeros por un formulario que no cuesta nada en su origen.
+framework: journey-hub
 ---
 
 La mayoría de quienes planean mudarse a Malasia empiezan con la pregunta equivocada.

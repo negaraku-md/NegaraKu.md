@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["wayang-kulit"]
 keywords: ["batik Malaysia", "batik canting", "batik Kelantan Terengganu", "kemeja batik pakaian rasmi", "tekstil rintangan lilin"]
+framework: history-culture
 ---
 
 Sehelai kain putih polos diletakkan pada bingkai. Seorang perajin mencelup pena tembaga kecil — sebuah canting, moncongnya tidak lebih lebar dari ujung pensil — ke dalam periuk lilin cair, lalu mulai melukis langsung pada kain: bukan dengan pigmen, tetapi dengan lilin yang akan menolak menerima warna. Hanya setelah lilin mendingin dan mengeras barulah kain itu dimasukkan ke dalam bak pewarna. Di mana lilin berada, pewarna tidak dapat sampai — dan ketika lilin kemudian direbus keluar, apa yang tersisa adalah corak yang dilukis bukan dengan warna, tetapi dengan ketiadaannya.

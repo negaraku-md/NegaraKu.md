@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "petros-sarawak" }
 related: ["petroleum-development-act-1974"]
 keywords: ["Petronas", "Petroliam Nasional Berhad", "Akta Kemajuan Petroleum 1974", "PETROS", "royalti minyak", "gas aggregator", "Sarawak", "MISC", "PETRONAS Chemicals"]
+framework: profile
 ---
 
 Akta Kemajuan Petroleum 1974 (Petroleum Development Act 1974) மலேசியாவின் நிலப்பரப்பிலும் கடல்சார் பகுதிகளிலும் உள்ள அனைத்து பெட்ரோலியத்தின் மீதான உரிமையையும் ஒரு புதிய நிறுவனத்திடம் நிறுவியது — மேலும் 50 ஆண்டுகளுக்கும் மேலாகியும், பெட்ரோலியத்தின் கட்டுப்பாடு மற்றும் வருவாய் குறித்து கூட்டரசு அரசுக்கும் பல மாநிலங்களுக்கும் இடையிலான உறவு இன்னும் தீர்க்கப்படாத பிரச்சினையாகவே உள்ளது. அந்த நிறுவனம்தான் Petroliam Nasional Berhad, அல்லது Petronas.

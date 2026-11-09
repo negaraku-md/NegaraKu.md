@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "sst-explained" }
 related: ["civil-and-syariah-courts", "article-3-religion", "langkawi-visitor-guide", "labuan-tax-regime"]
 keywords: ["alcohol Malaysia", "liquor licence Malaysia", "Excise Act 1976", "drinking age Malaysia", "duty-free Langkawi Labuan", "Syariah alcohol"]
+framework: rules
 ---
 
 สั่งเบียร์สักแก้วในบาร์ที่กัวลาลัมเปอร์ (Kuala Lumpur) ก็เป็นเรื่องปกติธรรมดา แต่ลองซื้อเบียร์แก้วเดียวกันในบางส่วนของกลันตัน คุณอาจไม่พบร้านที่ได้รับใบอนุญาตเลย มาเลเซียไม่ได้มีคู่มือกฎแอลกอฮอล์เพียงเล่มเดียว แต่มีระบบการออกใบอนุญาตของรัฐบาลกลาง ชุดกฎหมายศาสนาที่แยกต่างหากซึ่งใช้กับชาวมุสลิมเท่านั้น และรัฐบาลของแต่ละรัฐที่เพิ่มเงื่อนไขของตนเองเข้าไปอีกชั้นหนึ่ง ผลลัพธ์คือภาพที่ปะติดปะต่อกันซึ่งนักท่องเที่ยว ผู้พำนัก และเจ้าของร้านอาหารต่างประสบต่างกัน

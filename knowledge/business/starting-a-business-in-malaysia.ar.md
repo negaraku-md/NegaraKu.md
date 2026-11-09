@@ -100,8 +100,14 @@ sources:
     publisher: "DuitTools"
 entity: "Companies Commission of Malaysia (Suruhanjaya Syarikat Malaysia, SSM)"
 wikidata: "Q1121232"
-relations: []
-related: []
+relations:
+  - { rel: "related-to", to: "business-structures-malaysia" }
+  - { rel: "related-to", to: "appoint-company-secretary" }
+  - { rel: "related-to", to: "sst-explained" }
+  - { rel: "related-to", to: "sst-registration" }
+  - { rel: "related-to", to: "employment-act-coverage" }
+  - { rel: "related-to", to: "business-structure-tax-comparison" }
+related: ["business-structures-malaysia", "appoint-company-secretary", "sst-explained", "sst-registration", "employment-act-coverage", "business-structure-tax-comparison"]
 keywords:
   - "كيفية بدء نشاط تجاري في ماليزيا"
   - "تسجيل SSM"
@@ -118,6 +124,7 @@ keywords:
   - "رسوم SSM"
   - "LLP Malaysia"
   - "أمين سر الشركة ماليزيا"
+framework: journey-hub
 ---
 
 ابحث عن «كيفية بدء نشاط تجاري في ماليزيا» وستجد أن كل نتيجة تقريبًا هي وكالة تأسيس أو مكتب محاسبة سيسجِّل لك النشاط التجاري بسرور مقابل رسم — غالبًا ما يكون خمسة إلى عشرة أضعاف ما تفرضه الحكومة فعليًا. والحقيقة أبسط: يمكنك تسجيل معظم الأنشطة التجارية بنفسك، إلكترونيًا، بمبلغ لا يتجاوز RM30، والجزء الأصعب ليس العمل الورقي بل اختيار الهيكل الصحيح والتعامل مع ما يأتي *بعد* طباعة الشهادة. ويرسم هذا الدليل المسار بأكمله، من الهياكل القانونية الأربعة إلى حزمة الضريبة والامتثال التي لا يغطيها التسجيل وحده.

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "ptptn-student-loan" }
 related: ["public-vs-private-universities", "ptptn-student-loan"]
 keywords: ["STPM vs Matrikulasi", "pre-university Malaysia", "Sijil Tinggi Persekolahan Malaysia", "Matrikulasi KPM", "A-Level Malaysia", "Foundation Asasi Malaysia", "Diploma to degree Malaysia", "UPU admission categories", "pre-u routes after SPM"]
+framework: decision
 ---
 
 两名学生从同一间 SPM 考场走出来，成绩几乎不相上下。十八个月后，一个正在

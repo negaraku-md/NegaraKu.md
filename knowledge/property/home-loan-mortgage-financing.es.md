@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "stamp-duty-property" }
 related: ["real-property-gains-tax"]
 keywords: ["préstamo de vivienda Malasia", "financiación hipotecaria", "margen de financiación", "KWSP Akaun Sejahtera", "SJKP", "impuesto de timbre contrato de préstamo", "MRTA", "MLTA"]
+framework: rules
 ---
 
 La casa de sus sueños puede costar RM450,000, pero el banco no entregará ese dinero hasta estar seguro de que usted puede devolverlo a lo largo de los próximos 30 años. Ahí empieza el mundo de la financiación hipotecaria — márgenes, ratios de servicio de la deuda, seguros, ahorros de la EPF e impuesto de timbre, todo lo cual determina si las llaves de esa casa acaban en sus manos.

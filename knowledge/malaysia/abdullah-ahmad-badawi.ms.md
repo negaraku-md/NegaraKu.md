@@ -69,6 +69,7 @@ social:
 verificationNeeded:
   - "Tokoh politik terkini; konsep Islam Hadhari (agama) dan keputusan pilihan raya diringkaskan secara neutral — semak semula dengan sumber primer dan wajibkan kelulusan penyemak manusia sebelum penerbitan."
   - "SAHKAN tarikh kematiannya (dilaporkan 14 April 2025, di Institut Jantung Negara di Kuala Lumpur, pada usia 85 — catatan: tarikh 20 April 2025 yang mula-mula dibekalkan nampaknya tidak betul) dan semua tarikh jawatan dengan sumber primer sebelum penerbitan."
+framework: profile
 ---
 
 Selepas keperdanaan yang panjang dan tegas [Mahathir Mohamad](/ms/malaysia/mahathir-mohamad), Malaysia pada akhir 2003 mewarisi seorang pemimpin yang amat berbeza: seorang bekas penjawat awam yang lembut bersuara dari Pulau Pinang yang menjanjikan perundingan mengatasi perintah, kerajaan bersih mengatasi projek besar, dan nada awam yang lebih lembut. Abdullah Ahmad Badawi — dikenali oleh hampir semua orang sekadar sebagai **"Pak Lah"** — menjadi **Perdana Menteri kelima** negara atas gelombang muhibah, memenangi salah satu mandat pilihan raya terbesar dalam sejarah Malaysia, dan kemudian, lima tahun kemudian, mempengerusikan pilihan raya yang membentuk semula politik negara.

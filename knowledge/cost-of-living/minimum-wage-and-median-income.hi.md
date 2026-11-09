@@ -63,6 +63,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["cost-of-living-overview", "minimum-wage-malaysia", "unemployment-labour-force", "gdp-overview"]
 keywords: ["मलेशिया न्यूनतम मज़दूरी", "Malaysia minimum wage", "gaji minimum Malaysia", "मलेशिया मध्यिका वेतन", "मलेशिया मध्यिका आय", "RM1700 minimum wage", "DOSM घरेलू आय", "सामान्य मलेशियाई वेतन"]
+framework: data-reference
 ---
 
 ## एक नज़र में

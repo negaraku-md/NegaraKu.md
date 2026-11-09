@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "stamp-duty-property" }
 related: ["real-property-gains-tax"]
 keywords: ["pinjaman perumahan", "gadai janji", "margin pembiayaan", "KWSP Akaun Sejahtera", "SJKP", "duti setem perjanjian pinjaman", "MRTA", "MLTA"]
+framework: rules
 ---
 
 Căn nhà mơ ước có thể có giá RM450,000, nhưng ngân hàng sẽ không trao số tiền đó cho đến khi tin chắc rằng bạn có khả năng trả lại trong 30 năm tới. Đó là nơi thế giới tài trợ thế chấp bắt đầu — biên độ, tỷ lệ phục vụ nợ, bảo hiểm, tiết kiệm KWSP và thuế trước bạ, tất cả đều quyết định liệu chiếc chìa khóa ngôi nhà đó có sang tay bạn hay không.

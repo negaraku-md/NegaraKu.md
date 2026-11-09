@@ -55,6 +55,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "working-hours-overtime-malaysia"]
 keywords: ["cobertura ley de empleo", "ley de empleo RM4000", "ley de empleo RM2000", "a quién cubre la ley de empleo malasia", "primer anexo ley de empleo", "Employment Act coverage"]
+framework: rules
 ---
 
 Si buscó esta pregunta en el último año, probablemente le dijeron que la Ley de Empleo cubre a los empleados que ganan **RM2,000 o menos**. Esa regla quedó superada el **1 de enero de 2023**, cuando entró en vigor la Ley de Empleo (Enmienda) de 2022. Se sigue publicando —ajobthing entre otros— y es errónea de una forma que cuesta dinero en ambas direcciones: los empleadores niegan derechos a quienes los tienen y pagan primas a quienes no los tienen.

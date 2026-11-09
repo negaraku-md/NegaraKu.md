@@ -85,6 +85,7 @@ relations:
   - { rel: "explained-in", to: "sdn-bhd-filing-calendar" }
 related: ["ssm", "register-sdn-bhd", "sdn-bhd", "directors-duties", "annual-return"]
 keywords: ["कंपनी अधिनियम 2016", "Companies Act 2016", "Act 777", "Act A1701", "मलेशिया कॉर्पोरेट कानून", "SSM कानूनी ढाँचा"]
+framework: data-reference
 ---
 
 यह पृष्ठ Act 777 के लिए क़ानून-रिकॉर्ड है — इसकी पहचान, प्रशासन और संशोधन-शृंखला।

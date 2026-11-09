@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "road-tax-renewal" }
 related: ["road-transport-act-1987", "motor-insurance", "road-tax-renewal"]
 keywords: ["मलेशिया में कार खरीदना", "मलेशिया में किराया-खरीद", "JPJ स्वामित्व हस्तांतरण", "Proton Perodua राष्ट्रीय कार", "मलेशिया में कार ऋण", "buying a car Malaysia", "hire purchase Malaysia", "JPJ ownership transfer", "Puspakom B5 B7", "Proton Perodua national car", "used car transfer Malaysia", "Hire Purchase Act 1967", "Hire Purchase Amendment Act 2026", "car loan Malaysia"]
+framework: how-to
 ---
 
 मलेशिया में कार खरीदिए तो आप एक सौदे पर हस्ताक्षर करते हैं, पर असल में आप एक साथ तीन अलग-अलग रिश्तों में प्रवेश करते हैं: एक उसके साथ जिसने आपको कार बेची, एक उसके साथ जो इसका वित्तपोषण कर रहा है, और एक JPJ के साथ, वह विभाग जो तय करता है कि वाहन पर असल में किसका नाम है। तीनों में से किसी में एक भी चरण चूक जाइए, और जिस कार के लिए आपने पैसे दिए वह कानूनी रूप से अब भी पूरी तरह आपकी नहीं है।

@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "llp-taxation" }
 related: ["sole-prop-vs-sdn-bhd", "corporate-tax-rates", "personal-tax-reliefs", "epf", "sdn-bhd"]
 keywords: ["Sdn Bhd vs sole proprietor tax", "when to incorporate Malaysia", "director salary tax deduction", "LLP tax Malaysia", "sole prop tax rate Malaysia"]
+framework: decision
 ---
 
 マレーシアの事業形態を比較する記事の多くは、「会社は15%、個人は最高30%」で

@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "property-buying-guide" }
 related: []
 keywords: ["JMB", "MC", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Tribunal Pengurusan Strata", "Akta Pengurusan Strata 2013", "caj penyelenggaraan", "kumpulan wang penjelas", "COB", "strata"]
+framework: explainer
 ---
 
 コンドミニアムの一室を購入したとして、エレベーター、プール、駐車通路を実際に所有するのは誰か——そして毎月の費用をあなたから徴収する権利を持つのは誰か。その答えは、紛争が生じるまで購入者がめったに読まないひとつのガバナンス階層にある。すなわち2013年区分所有管理法（Act 757）の枠組みである。

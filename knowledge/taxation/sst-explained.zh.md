@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "sst-expansion-2025" }
 related: ["sales-tax-explained", "sst-registration", "sst-rate-table", "sst-02-filing", "sst-b2b-exemption", "sst-expansion-2025", "imported-taxable-services"]
 keywords: ["SST Malaysia", "sales and service tax Malaysia", "cukai jualan dan perkhidmatan", "SST registration threshold", "MySST"]
+framework: explainer
 ---
 
 到处都把 SST 描述成「GST 的替代品」，而这是关于它最没有用的一句话。GST 是一种税、

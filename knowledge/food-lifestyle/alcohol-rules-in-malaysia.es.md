@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "sst-explained" }
 related: ["civil-and-syariah-courts", "article-3-religion", "langkawi-visitor-guide", "labuan-tax-regime"]
 keywords: ["alcohol Malasia", "alcohol Malaysia", "licencia de licor Malasia", "liquor licence Malaysia", "Excise Act 1976", "edad para beber Malasia", "libre de impuestos Langkawi Labuan", "alcohol Sharía"]
+framework: rules
 ---
 
 Pida una cerveza en un bar de Kuala Lumpur y es algo totalmente rutinario. Intente comprar la misma cerveza en partes de Kelantan y puede que no encuentre ningún establecimiento con licencia. Malasia no tiene un único reglamento sobre el alcohol; tiene un sistema federal de licencias, un conjunto aparte de leyes religiosas que se aplican solo a los musulmanes, y gobiernos estatales que cada uno añade sus propias condiciones encima. El resultado es un mosaico que un visitante, un residente y el dueño de un restaurante experimentan de forma distinta.

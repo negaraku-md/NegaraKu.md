@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["wayang-kulit"]
 keywords: ["Malaysian batik", "batik canting", "Kelantan Terengganu batik", "batik shirt formal wear", "wax-resist textile"]
+framework: history-culture
 ---
 
 一段素白的布料上了框。工匠把一支小铜笔——canting，笔嘴比铅笔尖还细——蘸进一锅融蜡里，开始直接在布上作画：画的不是颜料，而是拒绝上色的蜡。等蜡冷却变硬之后，布才下染缸。蜡在哪里，染料就到不了哪里——待到后来把蜡煮掉，留下的图案不是以颜色画成的，而是以颜色的缺席画成的。

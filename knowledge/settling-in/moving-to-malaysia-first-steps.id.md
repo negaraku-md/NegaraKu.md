@@ -84,6 +84,7 @@ faq:
     a: Dalam kebanyakan kasus, tidak. Izin kunjungan sosial jangka pendek (turis) standar hanya menyatakan bahwa Anda diizinkan berkunjung dan tidak dapat diubah menjadi status kerja atau tinggal jangka panjang dari dalam Malaysia. Jika rencananya adalah bekerja, disponsori keluarga, atau tinggal jangka panjang dengan biaya sendiri, permohonan izin umumnya perlu diselesaikan, atau setidaknya sudah berjalan jauh, sebelum pindah, bukan diperlakukan sebagai urusan minggu pertama setelah Anda mendarat.
   - q: Apa itu Kartu Kedatangan Digital Malaysia, dan apakah ada biayanya?
     a: Kartu Kedatangan Digital Malaysia (MDAC) adalah pendaftaran kedatangan gratis yang harus diselesaikan secara daring oleh sebagian besar pendatang asing sebelum mendarat, hanya diajukan melalui portal resmi Departemen Imigrasi sendiri. Ini bukan visa dan tidak menggantikan izin atau visa apa pun yang sudah Anda miliki. Departemen menekankan bahwa ini gratis karena situs tiruan tidak resmi telah membebankan biaya kepada para pelancong untuk formulir yang sebenarnya tidak berbiaya apa pun di sumbernya.
+framework: journey-hub
 ---
 
 Kebanyakan orang yang merencanakan kepindahan ke Malaysia memulai dengan pertanyaan yang

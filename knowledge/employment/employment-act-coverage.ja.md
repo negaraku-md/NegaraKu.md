@@ -55,6 +55,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "working-hours-overtime-malaysia"]
 keywords: ["employment act coverage", "rm4000 employment act", "employment act rm2000", "who is covered employment act malaysia", "first schedule employment act"]
+framework: rules
 ---
 
 この1年以内にこの疑問を検索したことがあるなら、おそらく1955年雇用法（Employment Act

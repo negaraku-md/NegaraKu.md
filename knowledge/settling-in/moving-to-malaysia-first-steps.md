@@ -83,6 +83,7 @@ faq:
     a: In most cases, no. A standard short-term social visit (tourist) pass certifies only that you are allowed to visit and does not convert into a work or long-stay status from inside Malaysia. If work, family sponsorship or a self-funded long stay is the plan, the pass application generally needs to be settled, or at least well underway, before the move, not treated as a first-week errand after you land.
   - q: What is the Malaysia Digital Arrival Card, and does it cost anything?
     a: The Malaysia Digital Arrival Card (MDAC) is a free entry registration most foreign arrivals must complete online before landing, submitted only through the Immigration Department's own portal. It is not a visa and does not replace whatever pass or visa you already hold. The Department stresses it is free because unofficial look-alike sites have charged travellers for a form that costs nothing at the source.
+framework: journey-hub
 ---
 
 Most people planning a move to Malaysia start with the wrong question. They ask

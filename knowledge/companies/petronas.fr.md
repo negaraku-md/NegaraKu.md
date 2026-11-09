@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "petros-sarawak" }
 related: ["petroleum-development-act-1974"]
 keywords: ["Petronas", "Petroliam Nasional Berhad", "Akta Kemajuan Petroleum 1974", "PETROS", "royalti minyak", "gas aggregator", "Sarawak", "MISC", "PETRONAS Chemicals"]
+framework: profile
 ---
 
 La loi de 1974 sur le développement pétrolier a conféré à une nouvelle entreprise les droits sur l'ensemble du pétrole à terre et au large de la Malaisie, et plus de 50 ans plus tard, la relation entre le gouvernement fédéral et plusieurs États autour du contrôle et des revenus du pétrole demeure une question non résolue. Cette entreprise est Petroliam Nasional Berhad, ou Petronas.

@@ -107,6 +107,7 @@ keywords:
   - "enterprise vs LLP vs Sdn Bhd"
   - "pilih struktur perniagaan Malaysia"
   - "banding Sdn Bhd Berhad LLP"
+framework: decision
 ---
 
 Setiap panduan lain membawa Anda menyusuri tujuh struktur dalam tujuh bagian

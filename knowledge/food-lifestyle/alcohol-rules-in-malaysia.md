@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "sst-explained" }
 related: ["civil-and-syariah-courts", "article-3-religion", "langkawi-visitor-guide", "labuan-tax-regime"]
 keywords: ["alcohol Malaysia", "liquor licence Malaysia", "Excise Act 1976", "drinking age Malaysia", "duty-free Langkawi Labuan", "Syariah alcohol"]
+framework: rules
 ---
 
 Order a beer in a Kuala Lumpur bar and it is entirely routine. Try to buy the same beer in parts of Kelantan and you may find no licensed outlet at all. Malaysia does not have one alcohol rulebook; it has a federal licensing system, a separate set of religious laws that apply only to Muslims, and state governments that each add their own conditions on top. The result is a patchwork that a visitor, a resident and a restaurant owner each experience differently.

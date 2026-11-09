@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "sst-expansion-2025" }
 related: ["sales-tax-explained", "sst-registration", "sst-rate-table", "sst-02-filing", "sst-b2b-exemption", "sst-expansion-2025", "imported-taxable-services"]
 keywords: ["SST Malaysia", "sales and service tax Malaysia", "cukai jualan dan perkhidmatan", "SST registration threshold", "MySST"]
+framework: explainer
 ---
 
 SSTはどこでも「GSTの代替」と説明されるが、それはSSTについて言えることの中で最も役に立たない説明である。GSTは単一の税、単一の税率、単一の基準額であり、各段階で課され、前段階の税額を控除できた。SSTは**互いに無関係な二つの税**であり、それぞれが単一段階で、いずれも一般的な仕入税額控除を提供せず、税率も基準額も何を売るかによって異なる。

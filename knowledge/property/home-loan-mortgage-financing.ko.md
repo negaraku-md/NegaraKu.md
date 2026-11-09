@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "stamp-duty-property" }
 related: ["real-property-gains-tax"]
 keywords: ["pinjaman perumahan", "gadai janji", "margin pembiayaan", "KWSP Akaun Sejahtera", "SJKP", "duti setem perjanjian pinjaman", "MRTA", "MLTA"]
+framework: rules
 ---
 
 꿈꾸던 집이 RM450,000일 수 있지만, 은행은 당신이 앞으로 30년 동안 갚을 수 있다고 확신하기 전까지 그 돈을 내주지 않습니다. 바로 여기서 모기지 금융의 세계가 시작됩니다 — 대출 한도, 부채상환비율, 보험, EPF 저축, 인지세, 이 모두가 그 집 열쇠가 당신 손으로 넘어올지를 결정합니다.

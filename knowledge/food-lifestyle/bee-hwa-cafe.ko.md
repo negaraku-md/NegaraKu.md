@@ -77,6 +77,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#BeeHwaCafe", "#Penang", "#BibGourmand", "#HalalFood", "#Malaysia"]
+framework: profile
 ---
 
 페낭의 MICHELIN 지도에서 가장 새로운 이름 가운데 1990년대 초부터 동네를 먹여온

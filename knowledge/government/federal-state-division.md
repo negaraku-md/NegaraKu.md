@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["three-tiers-of-government", "federal-constitution", "civil-and-syariah-courts", "constitutional-amendment", "parliament", "ma63"]
 keywords: ["Ninth Schedule Federal Constitution", "Federal List State List Concurrent List", "division of legislative power Malaysia", "Article 74 Federal Constitution", "Article 77 residual power", "List I List II List III Malaysia", "Sabah Sarawak legislative supplement", "Jadual Kesembilan", "who can make law Malaysia"]
+framework: explainer
 ---
 
 Land is a State matter. Defence is a federal one. Public health sits on a third list that both can touch. In Malaysia, whether the Federation or a State has the power to pass a given law is not a matter of opinion or negotiation — it is written down, subject by subject, in a single schedule at the back of the Federal Constitution.

@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "llp-taxation" }
 related: ["sole-prop-vs-sdn-bhd", "corporate-tax-rates", "personal-tax-reliefs", "epf", "sdn-bhd"]
 keywords: ["Sdn Bhd vs sole proprietor tax", "when to incorporate Malaysia", "director salary tax deduction", "LLP tax Malaysia", "sole prop tax rate Malaysia"]
+framework: decision
 ---
 
 말레이시아 사업 구조에 관한 대부분의 비교는 "회사는 15%를 내고 개인은 최고 30%를 낸다"에서 멈추는데, 이는 사실이지만 쓸모가 없습니다. 이익 RM100,000 지점에서는 개인사업자가 회사보다 세금을 적게 냅니다. 회사는 이익이 오르고 나서야 유리해지며, 얼마나 유리한지는 전적으로 그 돈으로 무엇을 하느냐에 달려 있습니다.

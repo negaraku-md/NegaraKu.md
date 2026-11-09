@@ -86,6 +86,7 @@ relations:
   - { rel: "administered-by", to: "lhdn" }
 related: ["capital-gains-tax", "rpgt-rates", "rpgt-exemptions", "corporate-tax-rates"]
 keywords: ["علامات التجارة ماليزيا", "رأسمالي أم إيرادي", "ضريبة المضاربة على العقارات ماليزيا", "ضريبة المتاجرة بالأسهم ماليزيا", "badges of trade Malaysia", "adventure in the nature of trade", "RPGT or income tax"]
+framework: explainer
 ---
 
 بِع محلاً تجارياً بربح RM500,000 فتكون الضريبة إما RM150,000 أو RM50,000 أو لا شيء إطلاقاً. العقار نفسه، والربح نفسه، والمشتري نفسه. وما يغيّر الجواب هو سؤال تصنيف لا يطرحه معظم البائعين على أنفسهم بوعي — وهو سؤال يمكن لـLHDN إعادة فتحه بعد سنوات.

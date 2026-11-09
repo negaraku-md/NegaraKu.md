@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "sst-explained" }
 related: ["civil-and-syariah-courts", "article-3-religion", "langkawi-visitor-guide", "labuan-tax-regime"]
 keywords: ["alcohol Malaysia", "liquor licence Malaysia", "Excise Act 1976", "drinking age Malaysia", "duty-free Langkawi Labuan", "Syariah alcohol"]
+framework: rules
 ---
 
 쿠알라룸푸르의 바에서 맥주 한 잔을 주문하는 것은 지극히 일상적인 일입니다. 그러나 클란탄 일부 지역에서 똑같은 맥주를 사려고 하면 허가된 판매처를 아예 찾지 못할 수도 있습니다. 말레이시아에는 하나의 주류 규정집이 있는 것이 아닙니다. 연방 면허 제도가 있고, 무슬림에게만 적용되는 별도의 종교법이 있으며, 각 주 정부가 그 위에 각자의 조건을 더합니다. 그 결과는 방문자, 거주자, 식당 주인이 저마다 다르게 경험하는 조각보와 같습니다.

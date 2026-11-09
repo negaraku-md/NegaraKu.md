@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "sst-expansion-2025" }
 related: ["sales-tax-explained", "sst-registration", "sst-rate-table", "sst-02-filing", "sst-b2b-exemption", "sst-expansion-2025", "imported-taxable-services"]
 keywords: ["SST Malaysia", "sales and service tax Malaysia", "cukai jualan dan perkhidmatan", "SST registration threshold", "MySST"]
+framework: explainer
 ---
 
 SST எங்கும் “GST-க்கு மாற்று” என்று விவரிக்கப்படுகிறது, இது அதைப் பற்றி நீங்கள்

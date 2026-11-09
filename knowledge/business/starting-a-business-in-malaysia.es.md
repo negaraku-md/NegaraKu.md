@@ -100,8 +100,14 @@ sources:
     publisher: "DuitTools"
 entity: "Companies Commission of Malaysia (Suruhanjaya Syarikat Malaysia, SSM)"
 wikidata: "Q1121232"
-relations: []
-related: []
+relations:
+  - { rel: "related-to", to: "business-structures-malaysia" }
+  - { rel: "related-to", to: "appoint-company-secretary" }
+  - { rel: "related-to", to: "sst-explained" }
+  - { rel: "related-to", to: "sst-registration" }
+  - { rel: "related-to", to: "employment-act-coverage" }
+  - { rel: "related-to", to: "business-structure-tax-comparison" }
+related: ["business-structures-malaysia", "appoint-company-secretary", "sst-explained", "sst-registration", "employment-act-coverage", "business-structure-tax-comparison"]
 keywords:
   - "cómo iniciar un negocio en Malasia"
   - "registro SSM"
@@ -118,6 +124,7 @@ keywords:
   - "tasas SSM"
   - "LLP Malaysia"
   - "secretario de empresa Malasia"
+framework: journey-hub
 ---
 
 Busca «cómo iniciar un negocio en Malasia» y casi todos los resultados son una agencia de constitución o una firma contable que con gusto registrará el negocio por ti a cambio de una tarifa — a menudo de cinco a diez veces lo que el gobierno cobra en realidad. La verdad es más sencilla: puedes registrar la mayoría de los negocios tú mismo, en línea, por tan solo RM30, y la parte difícil no es el papeleo sino elegir la estructura adecuada y gestionar lo que viene *después* de que se imprima el certificado. Esta guía traza todo el recorrido, desde las cuatro estructuras jurídicas hasta la pila fiscal y de cumplimiento que el registro por sí solo no cubre.

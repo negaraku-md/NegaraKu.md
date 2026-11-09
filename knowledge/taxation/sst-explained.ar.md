@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "sst-expansion-2025" }
 related: ["sales-tax-explained", "sst-registration", "sst-rate-table", "sst-02-filing", "sst-b2b-exemption", "sst-expansion-2025", "imported-taxable-services"]
 keywords: ["SST Malaysia", "ضريبة المبيعات والخدمات ماليزيا", "cukai jualan dan perkhidmatan", "عتبة تسجيل SST", "MySST"]
+framework: explainer
 ---
 
 تُوصَف SST في كلّ مكان بأنها «بديل GST»، وهو أقلّ ما يمكن قوله عنها فائدةً. فقد

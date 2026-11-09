@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "road-tax-renewal" }
 related: ["road-transport-act-1987", "motor-insurance", "road-tax-renewal"]
 keywords: ["buying a car Malaysia", "hire purchase Malaysia", "JPJ ownership transfer", "Puspakom B5 B7", "Proton Perodua national car", "used car transfer Malaysia", "Hire Purchase Act 1967", "Hire Purchase Amendment Act 2026", "car loan Malaysia"]
+framework: how-to
 ---
 
 ซื้อรถในมาเลเซียแล้วคุณลงนามในข้อตกลงหนึ่ง แต่แท้จริงแล้วคุณเข้าสู่ความสัมพันธ์สามอย่างที่แยกจากกันในคราวเดียว: หนึ่งกับผู้ที่ขายรถให้คุณ หนึ่งกับผู้ที่จัดหาเงินทุน และหนึ่งกับ JPJ ซึ่งเป็นกรมที่ตัดสินว่าชื่อของใครอยู่บนยานพาหนะจริง ๆ พลาดขั้นตอนใดในสามอย่างนี้ รถที่คุณจ่ายเงินไปตามกฎหมายก็ยังไม่เป็นของคุณอย่างสมบูรณ์

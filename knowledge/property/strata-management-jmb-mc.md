@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "property-buying-guide" }
 related: []
 keywords: ["JMB", "MC", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Tribunal Pengurusan Strata", "Akta Pengurusan Strata 2013", "caj penyelenggaraan", "kumpulan wang penjelas", "COB", "strata"]
+framework: explainer
 ---
 
 Anda beli sebuah unit kondominium, tetapi siapa sebenarnya yang memiliki lif, kolam renang dan lorong tempat letak kereta — dan siapa yang berhak mengutip yuran bulanan daripada anda? Jawapannya terletak pada satu lapisan tadbir urus yang jarang dibaca pembeli sehingga wujud pertikaian: rangka kerja Akta Pengurusan Strata 2013 (Akta 757).

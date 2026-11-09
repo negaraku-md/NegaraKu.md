@@ -91,6 +91,7 @@ social:
 verificationNeeded:
   - "MICHELIN Guide Kuala Lumpur & Penang 精选名单每年修订；本篇反映2026年版（于2025年11月公布）。更新的版本——例如2027年名单——可能新增、剔除或重新排列这家餐馆，因此在依据之前，请在 guide.michelin.com 上重新确认它当前的 Bib Gourmand 状态。"
   - "汤中药材的确切数目因来源而异（餐馆页面为16种，MICHELIN 专文约为15种）；所述30年店龄为约数。营业时间（约08:30–15:30，周三休息）与只收现金的说明在 MICHELIN 各地区页面之间有所不同——请直接向餐馆确认。"
+framework: profile
 ---
 
 Bak kut teh 回报耐心，而 Ah Hei 的一天远在第一位顾客之前便已开始：这家店大约

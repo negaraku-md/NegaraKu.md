@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "lhdn" }
 related: ["capital-gains-tax", "rpgt-rates", "rpgt-exemptions", "corporate-tax-rates"]
 keywords: ["badges of trade Malaysia", "capital or revenue", "property flipping tax Malaysia", "share trading tax Malaysia", "adventure in the nature of trade", "RPGT or income tax"]
+framework: explainer
 ---
 
 상가주택을 팔아 RM500,000의 이득을 얻으면 세금은 RM150,000이거나, RM50,000이거나, 아예 없습니다. 부동산은 같고, 이익도 같으며, 매수인도 같습니다. 답을 바꾸는 것은 대부분의 매도인이 의식적으로 결코 묻지 않는 성격 판단 문제 — 그리고 LHDN이 몇 년 후에도 다시 열 수 있는 문제입니다.

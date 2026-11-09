@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "property-buying-guide" }
 related: []
 keywords: ["JMB", "MC", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Tribunal Pengurusan Strata", "Akta Pengurusan Strata 2013", "caj penyelenggaraan", "kumpulan wang penjelas", "COB", "strata"]
+framework: explainer
 ---
 
 Bạn mua một căn chung cư, nhưng ai thực sự sở hữu thang máy, hồ bơi và lối đậu xe — và ai có quyền thu phí hàng tháng từ bạn? Câu trả lời nằm ở một lớp quản trị mà người mua hiếm khi đọc cho đến khi phát sinh tranh chấp: khuôn khổ của Luật Quản lý Phân tầng 2013 (Strata Management Act 2013) (Luật 757).

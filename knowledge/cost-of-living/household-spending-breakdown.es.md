@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "inflation-cpi" }
 related: ["inflation-cpi", "dosm"]
 keywords: ["household expenditure Malaysia", "DOSM Household Expenditure Survey", "cost of living breakdown Malaysia", "how much do Malaysians spend", "perbelanjaan isi rumah Malaysia", "Malaysia household budget categories"]
+framework: data-reference
 ---
 
 ## De un vistazo

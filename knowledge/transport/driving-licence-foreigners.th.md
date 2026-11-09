@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "expatriate-and-non-resident-tax" }
 related: ["moving-to-malaysia-first-steps", "malaysia-business-visa-comparison", "expatriate-and-non-resident-tax"]
 keywords: ["driving licence foreigner Malaysia", "international driving permit Malaysia", "JPJ foreign licence conversion", "convert driving licence Malaysia expat", "MM2H driving licence", "driving in Malaysia as an expat"]
+framework: how-to
 ---
 
 ผู้เกษียณ MM2H ที่ขับรถในต่างประเทศมาสามสิบปี พนักงานใหม่ที่ถือ Employment Pass ที่ไม่เคยจับเกียร์ธรรมดา และนักท่องเที่ยวที่มาเที่ยวสองสัปดาห์ ต่างถามคำถามเดียวกันกับ JPJ และได้รับคำตอบที่แตกต่างกันสามแบบ ตั้งแต่วันที่ 19 พฤษภาคม 2025 ช่องว่างนั้นกว้างขึ้น: JPJ หยุดการแปลงใบอนุญาตของชาวต่างชาติส่วนใหญ่ไปทั้งหมด และคำแนะนำจำนวนมากที่ยังคงหมุนเวียนอยู่ในออนไลน์ถูกเขียนขึ้นก่อนการเปลี่ยนแปลงนั้น

@@ -88,6 +88,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-expansion-2025", "sst-registration", "sst-02-filing"]
 keywords: ["tabla de tasas SST", "grupos del impuesto de servicios Malasia", "Grupo A a M impuesto de servicios", "tabla de umbrales del impuesto de servicios", "impuesto de servicios 6% 8%", "service tax groups Malaysia"]
+framework: data-reference
 ---
 
 Tabla de referencia para la Primera Lista de las Service Tax Regulations 2018, en

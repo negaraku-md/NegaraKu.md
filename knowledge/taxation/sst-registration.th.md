@@ -107,6 +107,7 @@ relations:
   - { rel: "explained-in", to: "sst-rate-table" }
 related: ["sst-explained", "sst-expansion-2025", "sst-rate-table", "sales-tax-explained", "sst-02-filing"]
 keywords: ["SST registration threshold", "service tax threshold Malaysia", "RM500000 SST", "sales tax registration Malaysia", "MySST registration"]
+framework: rules
 ---
 
 คู่มือเกือบทุกฉบับตอบ "เกณฑ์การจดทะเบียน SST คือเท่าใด?" ด้วย RM500,000 สำหรับสำนักงานกฎหมาย นั่นถูก สำหรับโรงพยาบาลเอกชน ผู้รับเหมา ผู้ให้เช่า โรงเรียน หรือร้านอาหาร มันผิด — และในสองกรณีเหล่านั้นมันผิดในทิศทางที่ทำให้คุณจดทะเบียนล่าช้าหลายปี

@@ -63,6 +63,7 @@ relations:
   - { rel: "explained-in", to: "national-land-code" }
 related: ["buying-a-home-process", "national-land-code"]
 keywords: ["freehold vs leasehold Malaysia", "strata title Malaysia", "individual title vs strata title", "landed property Malaysia", "management corporation Malaysia", "National Land Code tenure", "Strata Titles Act 1985", "parcel tax Malaysia"]
+framework: explainer
 ---
 
 Two near-identical terrace houses on the same street can carry very different promises from the State: one title says "freehold," the other "leasehold, 99 years, expiring 2118." A second, unrelated question decides whether you also co-own a lift lobby and pool with forty other households, or whether the driveway and roof are entirely your own problem. Buyers routinely collapse both questions into one — "is it freehold or is it a condo?" — when a property is always answering both, independently.

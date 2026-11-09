@@ -107,6 +107,7 @@ relations:
   - { rel: "explained-in", to: "sst-rate-table" }
 related: ["sst-explained", "sst-expansion-2025", "sst-rate-table", "sales-tax-explained", "sst-02-filing"]
 keywords: ["SST registration threshold", "service tax threshold Malaysia", "RM500000 SST", "sales tax registration Malaysia", "MySST registration"]
+framework: rules
 ---
 
 கிட்டத்தட்ட ஒவ்வொரு வழிகாட்டியும் “SST பதிவு வரம்பு என்ன?” என்பதற்கு

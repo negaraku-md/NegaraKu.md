@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "road-tax-renewal" }
 related: ["road-transport-act-1987", "motor-insurance", "road-tax-renewal"]
 keywords: ["buying a car Malaysia", "hire purchase Malaysia", "JPJ ownership transfer", "Puspakom B5 B7", "Proton Perodua national car", "used car transfer Malaysia", "Hire Purchase Act 1967", "Hire Purchase Amendment Act 2026", "car loan Malaysia"]
+framework: how-to
 ---
 
 在马来西亚买车，你签的是一份合约，但实际上同时进入了三段各自独立的关系：一段与卖车给你的人，一段与为你提供融资的人，还有一段与 JPJ——决定车辆登记在谁名下的部门。这三者之中任何一个环节漏掉，你已经付了钱的车，法律上仍不算完全属于你。

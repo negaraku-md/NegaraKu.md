@@ -72,6 +72,7 @@ faq:
     a: Menurut Jabatan Warisan Negara, tapak Sungai Batu menunjukkan peleburan besi berskala besar yang bermula sekitar abad pertama Masihi dan beroperasi berterusan sehingga abad kelapan, dengan jumlah pengeluaran yang menandakan eksport, bukan sekadar kegunaan tempatan. Ia menyimpan salah satu bukti perindustrian besi paling awal yang pernah direkodkan di Asia Tenggara, mendahului tapak seperti Angkor Wat dan Borobudur dari segi usia.
   - q: Adakah candi di Lembah Bujang masih dalam keadaan asal sejak zaman purba?
     a: Tidak. Kebanyakan candi yang boleh dilawat hari ini telah dibina semula (direkonstruksi) oleh arkeologis berdasarkan runtuhan asal, bukan struktur yang kekal utuh. Candi Bukit Batu Pahat ialah satu-satunya reruntuhan yang dibina semula di tapak asalnya, manakala Candi Pengkalan Bujang kini dibina semula berhampiran muzium. Menurut Arkib Negara Malaysia, candi-candi ini dianggarkan dibina antara abad keempat hingga kedua belas Masihi.
+framework: history-culture
 ---
 
 Di sebuah dataran rata berhampiran Gunung Jerai, di antara sawah padi dan ladang kelapa sawit, terdapat batu-bata purba yang disusun berabad-abad sebelum Melaka wujud sebagai sebuah pelabuhan. Sesetengahnya membentuk asas candi Hindu. Sesetengahnya lagi ialah relau peleburan besi. Tiada sultan yang pernah memerintah dari sini yang namanya dikenali hari ini — tetapi apa yang ditinggalkan oleh masyarakat yang membina candi dan relau itu menjadikan Lembah Bujang salah satu tapak arkeologi paling penting di Asia Tenggara.

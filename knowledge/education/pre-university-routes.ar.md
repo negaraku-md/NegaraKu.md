@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "ptptn-student-loan" }
 related: ["public-vs-private-universities", "ptptn-student-loan"]
 keywords: ["STPM مقابل Matrikulasi", "ما قبل الجامعة ماليزيا", "Sijil Tinggi Persekolahan Malaysia", "Matrikulasi KPM", "A-Level Malaysia", "Foundation Asasi Malaysia", "الدبلوم إلى الدرجة الجامعية", "فئات قبول UPU", "مسارات ما قبل الجامعة بعد SPM"]
+framework: decision
 ---
 
 يخرج طالبان من قاعة SPM نفسها بنتائج شبه متطابقة. وبعد ثمانية عشر شهرًا،

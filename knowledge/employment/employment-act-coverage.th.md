@@ -55,6 +55,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "working-hours-overtime-malaysia"]
 keywords: ["employment act coverage", "rm4000 employment act", "employment act rm2000", "who is covered employment act malaysia", "first schedule employment act"]
+framework: rules
 ---
 
 หากคุณค้นหาคำถามนี้ในปีที่ผ่านมา คุณอาจถูกบอกว่าพระราชบัญญัติการจ้างงานครอบคลุมลูกจ้างที่มีรายได้ **RM2,000 หรือน้อยกว่า** กฎนั้นถูกแทนที่เมื่อวันที่ **1 มกราคม 2023** เมื่อพระราชบัญญัติการจ้างงาน (แก้ไขเพิ่มเติม) 2022 มีผลบังคับใช้ มันยังคงถูกเผยแพร่อยู่ — โดย ajobthing และเว็บอื่น ๆ — และมันผิดในลักษณะที่ทำให้เสียเงินทั้งสองทาง: นายจ้างปฏิเสธสิทธิแก่ผู้ที่มีสิทธิ และจ่ายค่าจ้างพิเศษให้แก่ผู้ที่ไม่มีสิทธิ

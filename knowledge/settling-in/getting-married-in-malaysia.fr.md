@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "mykad" }
 related: ["registering-a-marriage-civil", "jpn", "mykad"]
 keywords: ["se marier en Malaisie", "loi malaisienne sur le mariage", "mariage civil contre mariage syariah", "mariage islamique Malaisie", "Act 164 Malaisie", "mariage JAKIM", "wali mariage Malaisie", "autorisation de mariage Tribunal Syariah", "enregistrement mariage musulman Malaisie", "kursus pra perkahwinan"]
+framework: explainer
 ---
 
 Demandez à un Malaisien comment se marier, et la première réponse honnête est

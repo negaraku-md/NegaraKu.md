@@ -74,6 +74,7 @@ faq:
     a: According to the Department of National Heritage (Jabatan Warisan Negara), the Sungai Batu site shows large-scale iron smelting that began around the first century CE and operated continuously until the eighth century, with output levels that point to export rather than merely local use. It holds some of the earliest evidence of iron industry ever recorded in Southeast Asia, predating sites such as Angkor Wat and Borobudur in age.
   - q: Are the candi (temples) in Bujang Valley still in their original state from ancient times?
     a: No. Most of the candi that can be visited today have been rebuilt (reconstructed) by archaeologists based on the original ruins, rather than being structures that have remained intact. Candi Bukit Batu Pahat is the only ruin reconstructed on its original site, while Candi Pengkalan Bujang has now been rebuilt near the museum. According to the National Archives of Malaysia (Arkib Negara Malaysia), these candi are estimated to have been built between the fourth and twelfth centuries CE.
+framework: history-culture
 ---
 
 On a flat plain near Gunung Jerai, among paddy fields and oil palm plantations, lie ancient bricks laid out centuries before Melaka existed as a port. Some of them form the base of Hindu temples. Others are iron-smelting furnaces. No sultan who ever ruled from here has a name known today — but what the society that built these temples and furnaces left behind makes the Bujang Valley one of the most important archaeological sites in Southeast Asia.

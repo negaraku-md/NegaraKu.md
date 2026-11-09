@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "sst-explained" }
 related: ["civil-and-syariah-courts", "article-3-religion", "langkawi-visitor-guide", "labuan-tax-regime"]
 keywords: ["alcohol Malaysia", "liquor licence Malaysia", "Excise Act 1976", "drinking age Malaysia", "duty-free Langkawi Labuan", "Syariah alcohol"]
+framework: rules
 ---
 
 Pesan segelas bir di sebuah bar di Kuala Lumpur, dan itu adalah hal biasa. Coba beli bir yang sama di sebagian wilayah Kelantan, dan mungkin Anda tidak menemukan satu pun gerai berizin. Malaysia tidak memiliki satu buku aturan alkohol; ia memiliki sistem perizinan federal, satu set hukum agama terpisah yang hanya berlaku bagi orang Islam, dan pemerintah negara bagian yang masing-masing menambahkan syarat tersendiri di atasnya. Hasilnya adalah tambalan aturan yang dialami secara berbeda oleh seorang pelancong, seorang penduduk, dan seorang pemilik restoran.

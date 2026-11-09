@@ -86,6 +86,7 @@ relations:
   - { rel: "administered-by", to: "lhdn" }
 related: ["capital-gains-tax", "rpgt-rates", "rpgt-exemptions", "corporate-tax-rates"]
 keywords: ["badges of trade Malaysia", "capital or revenue", "property flipping tax Malaysia", "share trading tax Malaysia", "adventure in the nature of trade", "RPGT or income tax"]
+framework: explainer
 ---
 
 卖掉一间店屋、赚 RM500,000，税可能是 RM150,000、RM50,000，也可能完全没有。房子是同一间，利润是同一笔，买家是同一个。改变答案的，是一个多数卖方从未有意识地问过的定性问题——而 LHDN 可以在多年之后把它重开。

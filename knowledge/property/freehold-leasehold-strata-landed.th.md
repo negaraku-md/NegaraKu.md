@@ -64,6 +64,7 @@ relations:
   - { rel: "explained-in", to: "national-land-code" }
 related: ["buying-a-home-process", "national-land-code"]
 keywords: ["freehold vs leasehold Malaysia", "strata title Malaysia", "individual title vs strata title", "landed property Malaysia", "management corporation Malaysia", "National Land Code tenure", "Strata Titles Act 1985", "parcel tax Malaysia"]
+framework: explainer
 ---
 
 บ้านทาวน์เฮาส์สองหลังที่แทบเหมือนกันบนถนนสายเดียวกันอาจมีคำมั่นสัญญาจากรัฐที่แตกต่างกันมาก: โฉนดหนึ่งระบุว่า "กรรมสิทธิ์สมบูรณ์" อีกโฉนดหนึ่งระบุว่า "สิทธิการเช่า 99 ปี หมดอายุ 2118" คำถามที่สองที่ไม่เกี่ยวข้องกันเป็นตัวกำหนดว่าคุณยังร่วมเป็นเจ้าของล็อบบี้ลิฟต์และสระว่ายน้ำกับอีกสี่สิบครัวเรือนหรือไม่ หรือว่าทางเข้ารถและหลังคาเป็นปัญหาของคุณเองทั้งหมด ผู้ซื้อมักยุบทั้งสองคำถามเป็นข้อเดียว "มันเป็นกรรมสิทธิ์สมบูรณ์หรือเป็นคอนโด?" ในเมื่ออสังหาริมทรัพย์ตอบทั้งสองข้ออย่างเป็นอิสระต่อกันเสมอ

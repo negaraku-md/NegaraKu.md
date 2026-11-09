@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "mykad" }
 related: ["registering-a-marriage-civil", "jpn", "mykad"]
 keywords: ["الزواج في ماليزيا", "قانون الزواج في ماليزيا", "الزواج المدني مقابل الزواج الشرعي", "الزواج الإسلامي في ماليزيا", "getting married in Malaysia", "Malaysia marriage law", "Act 164 Malaysia", "JAKIM marriage", "wali marriage Malaysia", "Syariah Court marriage permission", "kursus pra perkahwinan"]
+framework: explainer
 ---
 
 اسأل أيّ ماليزيٍّ عن كيفية الزواج، وغالباً ما يكون جوابه الصادق الأول

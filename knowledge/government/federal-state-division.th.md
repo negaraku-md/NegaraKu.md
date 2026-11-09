@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["three-tiers-of-government", "federal-constitution", "civil-and-syariah-courts", "constitutional-amendment", "parliament", "ma63"]
 keywords: ["Ninth Schedule Federal Constitution", "Federal List State List Concurrent List", "division of legislative power Malaysia", "Article 74 Federal Constitution", "Article 77 residual power", "List I List II List III Malaysia", "Sabah Sarawak legislative supplement", "Jadual Kesembilan", "who can make law Malaysia"]
+framework: explainer
 ---
 
 ที่ดินเป็นเรื่องของรัฐ การป้องกันประเทศเป็นเรื่องของสหพันธ์ สาธารณสุขอยู่ในบัญชีที่สามที่ทั้งสองฝ่ายเข้าถึงได้ ในมาเลเซีย การที่สหพันธ์หรือรัฐมีอำนาจในการผ่านกฎหมายฉบับหนึ่งหรือไม่นั้นมิใช่เรื่องของความเห็นหรือการเจรจา — หากแต่ถูกเขียนไว้เป็นเรื่อง ๆ ไปในบัญชีเดียวที่ท้ายรัฐธรรมนูญสหพันธ์

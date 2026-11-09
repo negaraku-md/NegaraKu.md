@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "llp-taxation" }
 related: ["sole-prop-vs-sdn-bhd", "corporate-tax-rates", "personal-tax-reliefs", "epf", "sdn-bhd"]
 keywords: ["Sdn Bhd vs sole proprietor tax", "when to incorporate Malaysia", "director salary tax deduction", "LLP tax Malaysia", "sole prop tax rate Malaysia"]
+framework: decision
 ---
 
 多数比较马来西亚商业架构的文章，都停在「公司缴 15%、个人最高缴 30%」——这话没错，但没用。盈利 RM100,000 时，独资经营者缴的税比公司少。公司要等盈利爬上去才赢，而赢多少，完全取决于你拿这笔钱去做什么。

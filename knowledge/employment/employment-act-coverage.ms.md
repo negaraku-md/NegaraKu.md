@@ -56,6 +56,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "working-hours-overtime-malaysia"]
 keywords: ["perlindungan akta kerja", "akta kerja rm4000", "akta kerja rm2000", "siapa dilindungi akta kerja malaysia", "jadual pertama akta kerja"]
+framework: rules
 ---
 
 Jika anda mencari soalan ini dalam tempoh setahun lepas, anda mungkin diberitahu bahawa Akta

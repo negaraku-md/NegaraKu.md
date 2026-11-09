@@ -100,8 +100,14 @@ sources:
     publisher: "DuitTools"
 entity: "Companies Commission of Malaysia (Suruhanjaya Syarikat Malaysia, SSM)"
 wikidata: "Q1121232"
-relations: []
-related: []
+relations:
+  - { rel: "related-to", to: "business-structures-malaysia" }
+  - { rel: "related-to", to: "appoint-company-secretary" }
+  - { rel: "related-to", to: "sst-explained" }
+  - { rel: "related-to", to: "sst-registration" }
+  - { rel: "related-to", to: "employment-act-coverage" }
+  - { rel: "related-to", to: "business-structure-tax-comparison" }
+related: ["business-structures-malaysia", "appoint-company-secretary", "sst-explained", "sst-registration", "employment-act-coverage", "business-structure-tax-comparison"]
 keywords:
   - "how to start a business in Malaysia"
   - "SSM registration"
@@ -118,6 +124,7 @@ keywords:
   - "SSM fees"
   - "LLP Malaysia"
   - "company secretary Malaysia"
+framework: journey-hub
 ---
 
 Hãy tìm "how to start a business in Malaysia" và gần như mọi kết quả là một đại lý thành lập hoặc hãng kế toán sẵn lòng đăng ký doanh nghiệp cho bạn với một khoản phí — thường gấp năm đến mười lần những gì chính phủ thực sự tính. Sự thật đơn giản hơn: bạn có thể tự đăng ký hầu hết các doanh nghiệp, trực tuyến, với chi phí chỉ RM30, và phần khó không phải giấy tờ mà là chọn cấu trúc đúng và xử lý những gì đến *sau* khi giấy chứng nhận được in. Hướng dẫn này lập bản đồ toàn bộ con đường, từ bốn cấu trúc pháp lý đến chồng thuế và tuân thủ mà chỉ riêng đăng ký không bao trùm.

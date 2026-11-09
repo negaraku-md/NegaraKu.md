@@ -100,8 +100,14 @@ sources:
     publisher: "DuitTools"
 entity: "Companies Commission of Malaysia (Suruhanjaya Syarikat Malaysia, SSM)"
 wikidata: "Q1121232"
-relations: []
-related: []
+relations:
+  - { rel: "related-to", to: "business-structures-malaysia" }
+  - { rel: "related-to", to: "appoint-company-secretary" }
+  - { rel: "related-to", to: "sst-explained" }
+  - { rel: "related-to", to: "sst-registration" }
+  - { rel: "related-to", to: "employment-act-coverage" }
+  - { rel: "related-to", to: "business-structure-tax-comparison" }
+related: ["business-structures-malaysia", "appoint-company-secretary", "sst-explained", "sst-registration", "employment-act-coverage", "business-structure-tax-comparison"]
 keywords:
   - "how to start a business in Malaysia"
   - "SSM registration"
@@ -118,6 +124,7 @@ keywords:
   - "SSM fees"
   - "LLP Malaysia"
   - "company secretary Malaysia"
+framework: journey-hub
 ---
 
 搜索「如何在马来西亚创业」，几乎每一条结果都是注册代理或会计师事务所，它们乐意收费替你注册企业——收费往往是政府实际收费的五到十倍。真相其实更朴素：大多数企业你都可以自己在线注册，最低只需 RM30，真正难的不是文书工作，而是选对结构以及处理证书打印*之后*才来的事。本指南梳理了整条路径，从四种法律结构，到注册本身并不涵盖的税务与合规环节。

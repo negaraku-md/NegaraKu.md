@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "sst-explained" }
 related: ["civil-and-syariah-courts", "article-3-religion", "langkawi-visitor-guide", "labuan-tax-regime"]
 keywords: ["alcohol Malaysia", "liquor licence Malaysia", "Excise Act 1976", "drinking age Malaysia", "duty-free Langkawi Labuan", "Syariah alcohol"]
+framework: rules
 ---
 
 Gọi một cốc bia ở một quán bar tại Kuala Lumpur thì hoàn toàn bình thường. Thử mua chính cốc bia đó ở một số nơi thuộc Kelantan và bạn có thể không tìm thấy một cửa hàng được cấp phép nào cả. Malaysia không có một bộ quy tắc rượu bia duy nhất; nó có một hệ thống cấp phép liên bang, một bộ luật tôn giáo riêng biệt chỉ áp dụng cho người Hồi giáo, và các chính quyền bang mỗi bang bổ sung điều kiện riêng của mình lên trên. Kết quả là một bức tranh chắp vá mà một du khách, một cư dân và một chủ nhà hàng mỗi người trải nghiệm khác nhau.

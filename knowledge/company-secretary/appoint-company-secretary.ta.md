@@ -108,6 +108,7 @@ relations:
   - { rel: "part-of", to: "sdn-bhd-first-year-compliance" }
 related: ["company-secretary-qualification", "secretary-vacancy-30-days", "secretary-resignation", "changing-company-secretary", "register-of-directors", "statutory-registers"]
 keywords: ["appoint company secretary Malaysia", "section 236 Companies Act 2016", "company secretary 30 days incorporation", "board resolution appoint secretary", "SSM practising certificate secretary"]
+framework: how-to
 ---
 
 ஒரு புதிய Sdn Bhd எதிர்கொள்ளும் அனைத்து காலக்கெடுக்களிலும், இயக்குநர்கள்

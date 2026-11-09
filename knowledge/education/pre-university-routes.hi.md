@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "ptptn-student-loan" }
 related: ["public-vs-private-universities", "ptptn-student-loan"]
 keywords: ["STPM बनाम Matrikulasi", "पूर्व-विश्वविद्यालय मलेशिया", "Sijil Tinggi Persekolahan Malaysia", "Matrikulasi KPM", "A-Level Malaysia", "Foundation Asasi Malaysia", "डिप्लोमा से डिग्री", "UPU प्रवेश श्रेणियाँ", "SPM के बाद पूर्व-विश्वविद्यालय मार्ग"]
+framework: decision
 ---
 
 दो छात्र लगभग समान परिणामों के साथ एक ही SPM कक्ष से बाहर निकलते हैं। अठारह

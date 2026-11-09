@@ -77,6 +77,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#BeeHwaCafe", "#Penang", "#BibGourmand", "#HalalFood", "#Malaysia"]
+framework: profile
 ---
 
 在槟城 MICHELIN 版图上最新的名字之中，有一家乔治市咖啡店，自 1990 年代初就喂饱

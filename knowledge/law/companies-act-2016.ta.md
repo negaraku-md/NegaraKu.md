@@ -84,6 +84,7 @@ relations:
   - { rel: "explained-in", to: "sdn-bhd-filing-calendar" }
 related: ["ssm", "register-sdn-bhd", "sdn-bhd", "directors-duties", "annual-return"]
 keywords: ["Companies Act 2016", "Act 777", "Act A1701", "Malaysia corporate law", "SSM legal framework"]
+framework: data-reference
 ---
 
 இப்பக்கம் Act 777-இன் சட்டப் பதிவு — அதன் அடையாளம், நிர்வாகம் மற்றும் திருத்தத்

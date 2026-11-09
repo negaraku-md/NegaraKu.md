@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["three-tiers-of-government", "federal-constitution", "civil-and-syariah-courts", "constitutional-amendment", "parliament", "ma63"]
 keywords: ["Ninth Schedule Federal Constitution", "Federal List State List Concurrent List", "division of legislative power Malaysia", "Article 74 Federal Constitution", "Article 77 residual power", "List I List II List III Malaysia", "Sabah Sarawak legislative supplement", "Jadual Kesembilan", "who can make law Malaysia"]
+framework: explainer
 ---
 
 土地是州事项。国防是联邦事项。公共卫生则落在第三份清单上，联邦与州都可以触及。在马来西亚，究竟是联邦还是某个州拥有通过某项法律的权力，并非见仁见智或可协商的问题——它逐项写明在联邦宪法末尾的一份附表之中。

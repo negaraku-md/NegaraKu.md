@@ -88,6 +88,7 @@ social:
 verificationNeeded:
   - "MICHELIN Guide Kuala Lumpur & Penang 선정은 매년 개정됩니다. 이 글은 2026년판(2025년 11월 발표)을 반영합니다. 더 새로운 판 — 예컨대 2027년 목록 — 은 이 식당을 추가·삭제·재배치할 수 있으므로, 의존하기 전에 guide.michelin.com에서 현재 Bib Gourmand 상태를 다시 확인하십시오."
   - "국물에 들어가는 약재의 정확한 수는 출처마다 다릅니다(식당 등재는 16가지, MICHELIN 특집은 약 15가지). 언급된 30년이라는 연수는 어림값입니다. 영업시간(대략 08:30–15:30, 수요일 휴무)과 현금만 받는다는 주석은 MICHELIN의 지역별 등재마다 다릅니다 — 식당에 직접 확인하십시오."
+framework: profile
 ---
 
 Bak kut teh는 인내에 보답하며, Ah Hei의 하루는 첫 손님보다 훨씬 전에 시작됩니다.

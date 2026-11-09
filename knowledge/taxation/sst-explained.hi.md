@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "sst-expansion-2025" }
 related: ["sales-tax-explained", "sst-registration", "sst-rate-table", "sst-02-filing", "sst-b2b-exemption", "sst-expansion-2025", "imported-taxable-services"]
 keywords: ["SST Malaysia", "मलेशिया बिक्री और सेवा कर", "cukai jualan dan perkhidmatan", "SST पंजीकरण सीमा", "MySST"]
+framework: explainer
 ---
 
 SST को हर जगह «GST का प्रतिस्थापन» बताया जाता है, जो इसके बारे में कही जा सकने

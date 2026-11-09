@@ -94,6 +94,7 @@ social:
     - "#Klang"
     - "#MalaysianFood"
     - "#NegaraKu"
+framework: explainer
 ---
 
 Few dishes announce themselves quite like bak kut teh. Before you see it, you smell

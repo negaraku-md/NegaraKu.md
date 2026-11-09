@@ -55,6 +55,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "working-hours-overtime-malaysia"]
 keywords: ["employment act coverage", "rm4000 employment act", "employment act rm2000", "who is covered employment act malaysia", "first schedule employment act"]
+framework: rules
 ---
 
 지난 한 해 동안 이 질문을 검색했다면 아마도 고용법이 **월 RM2,000 이하**를 버는 근로자를

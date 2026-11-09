@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["three-tiers-of-government", "federal-constitution", "civil-and-syariah-courts", "constitutional-amendment", "parliament", "ma63"]
 keywords: ["Ninth Schedule Federal Constitution", "Federal List State List Concurrent List", "division of legislative power Malaysia", "Article 74 Federal Constitution", "Article 77 residual power", "List I List II List III Malaysia", "Sabah Sarawak legislative supplement", "Jadual Kesembilan", "who can make law Malaysia"]
+framework: explainer
 ---
 
 நிலம் ஒரு மாநில விடயம். பாதுகாப்பு ஒரு கூட்டாட்சி விடயம். பொது சுகாதாரம், இரண்டும் தொடக்கூடிய மூன்றாவது பட்டியலில் அமர்ந்திருக்கிறது. மலேசியாவில், ஒரு குறிப்பிட்ட சட்டத்தை இயற்றும் அதிகாரம் கூட்டாட்சிக்கு உள்ளதா அல்லது ஒரு மாநிலத்திற்கு உள்ளதா என்பது கருத்து அல்லது பேச்சுவார்த்தையின் விடயம் அல்ல — அது கூட்டாட்சி அரசியலமைப்பின் (Federal Constitution) பின்பகுதியில் உள்ள ஒரே ஒரு அட்டவணையில், விடயம் வாரியாக எழுதப்பட்டுள்ளது.

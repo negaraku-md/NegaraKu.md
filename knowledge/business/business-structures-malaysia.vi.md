@@ -106,6 +106,7 @@ keywords:
   - "enterprise vs LLP vs Sdn Bhd"
   - "choose business structure Malaysia"
   - "compare Sdn Bhd Berhad LLP"
+framework: decision
 ---
 
 Mọi hướng dẫn khác dẫn bạn qua bảy cơ cấu trong bảy phần văn xuôi, và bạn kết thúc nó

@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "premise-licence-malaysia" }
 related: ["fnb-licence-malaysia", "premise-licence-malaysia"]
 keywords: ["kopitiam", "mamak", "teh tarik", "roti canai", "kopi", "culture du petit-déjeuner", "UNESCO", "aire de restauration", "nasi lemak"]
+framework: history-culture
 ---
 
 Réveillez n'importe quel Malaisien à trois heures du matin et demandez-lui où il peut trouver à manger, et la réponse est presque à coup sûr la même : mamak. Ouvert à l'aube et fermant on-ne-sait-quand, tandis que le kopitiam sert du café depuis l'époque de nos grands-parents — et c'est entre ces deux espaces que les habitants d'une nation multiethnique se retrouvent chaque jour. Non pas dans des salles officielles, non pas lors de cérémonies, mais à des tables de marbre crasseuses et sur des chaises en plastique bancales.

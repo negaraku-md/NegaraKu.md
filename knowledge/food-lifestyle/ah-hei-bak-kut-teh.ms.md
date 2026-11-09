@@ -88,6 +88,7 @@ social:
 verificationNeeded:
   - "Pemilihan MICHELIN Guide Kuala Lumpur & Penang disemak setiap tahun; profil ini mencerminkan edisi 2026 (diumumkan November 2025). Edisi yang lebih baharu — contohnya senarai 2027 — mungkin menambah, menggugurkan atau menyusun semula kedudukan restoran ini, jadi sahkan semula status Bib Gourmand semasanya di guide.michelin.com sebelum bergantung padanya."
   - "Bilangan tepat herba dalam sup berbeza mengikut sumber (16 pada penyenaraian restoran berbanding kira-kira 15 dalam rencana MICHELIN); usia 30 tahun yang dinyatakan ialah anggaran. Waktu operasi (kira-kira 08:30–15:30, tutup hari Rabu) dan nota hanya tunai berbeza antara penyenaraian lokal MICHELIN — sahkan terus dengan restoran."
+framework: profile
 ---
 
 Bak kut teh membalas kesabaran, dan hari Ah Hei bermula jauh sebelum pelanggan

@@ -88,6 +88,7 @@ social:
 verificationNeeded:
   - "La sélection du MICHELIN Guide Kuala Lumpur & Penang est revue chaque année ; ce profil reflète l'édition 2026 (annoncée en novembre 2025). Une édition plus récente — par exemple une liste 2027 — peut ajouter, retirer ou reclasser ce restaurant, aussi reconfirmez son statut Bib Gourmand actuel sur guide.michelin.com avant de vous y fier."
   - "Le nombre exact d'herbes dans le bouillon diffère selon la source (16 sur la fiche du restaurant contre environ 15 dans l'article de MICHELIN) ; l'âge de 30 ans indiqué est approximatif. Les horaires (environ 08:30–15:30, fermé le mercredi) et la mention espèces uniquement varient d'une fiche locale MICHELIN à l'autre — confirmez directement auprès du restaurant."
+framework: profile
 ---
 
 Le bak kut teh récompense la patience, et la journée d'Ah Hei commence bien avant

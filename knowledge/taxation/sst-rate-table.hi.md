@@ -88,6 +88,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-expansion-2025", "sst-registration", "sst-02-filing"]
 keywords: ["SST दर तालिका", "सेवा कर समूह मलेशिया", "service tax groups Malaysia", "समूह A से M", "सेवा कर सीमा", "service tax threshold", "सेवा कर 6% 8%"]
+framework: data-reference
 ---
 
 सेवा कर विनियम 2018 (Service Tax Regulations 2018) की प्रथम अनुसूची के संशोधित

@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "llp-taxation" }
 related: ["sole-prop-vs-sdn-bhd", "corporate-tax-rates", "personal-tax-reliefs", "epf", "sdn-bhd"]
 keywords: ["cukai Sdn Bhd vs pemilikan tunggal", "bila patut memperbadankan syarikat Malaysia", "potongan cukai gaji pengarah", "cukai LLP Malaysia", "kadar cukai pemilikan tunggal Malaysia"]
+framework: decision
 ---
 
 Kebanyakan perbandingan struktur usaha di Malaysia berhenti sebatas “perusahaan

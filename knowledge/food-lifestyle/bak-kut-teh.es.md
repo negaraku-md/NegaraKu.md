@@ -95,6 +95,7 @@ social:
     - "#Klang"
     - "#MalaysianFood"
     - "#NegaraKu"
+framework: explainer
 ---
 
 Pocos platos se anuncian como el bak kut teh. Antes de verlo, lo hueles: una nube oscura y

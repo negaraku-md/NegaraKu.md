@@ -77,6 +77,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#BeeHwaCafe", "#Penang", "#BibGourmand", "#HalalFood", "#Malaysia"]
+framework: profile
 ---
 
 पेनांग के MICHELIN नक्शे पर सबसे नए नामों में जॉर्ज टाउन की एक कॉफ़ीशॉप है जो 1990 के

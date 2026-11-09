@@ -108,6 +108,7 @@ relations:
   - { rel: "explained-in", to: "sst-rate-table" }
 related: ["sst-explained", "sst-expansion-2025", "sst-rate-table", "sales-tax-explained", "sst-02-filing"]
 keywords: ["ambang pendaftaran SST", "ambang cukai perkhidmatan Malaysia", "RM500000 SST", "pendaftaran cukai jualan Malaysia", "pendaftaran MySST"]
+framework: rules
 ---
 
 Hampir setiap panduan menjawab pertanyaan "berapa ambang pendaftaran SST?" dengan

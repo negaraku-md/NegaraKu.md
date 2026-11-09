@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["three-tiers-of-government", "federal-constitution", "civil-and-syariah-courts", "constitutional-amendment", "parliament", "ma63"]
 keywords: ["Ninth Schedule Federal Constitution", "Federal List State List Concurrent List", "division of legislative power Malaysia", "Article 74 Federal Constitution", "Article 77 residual power", "List I List II List III Malaysia", "Sabah Sarawak legislative supplement", "Jadual Kesembilan", "who can make law Malaysia"]
+framework: explainer
 ---
 
 土地は州の事項である。国防は連邦の事項である。公衆衛生は、両者が触れることのできる第三のリストに位置する。マレーシアにおいて、ある法律を制定する権限が連邦にあるのか州にあるのかは、意見や交渉によって決まる問題ではない——それは、連邦憲法の末尾にある一つの附則の中に、事項ごとに書き記されている。

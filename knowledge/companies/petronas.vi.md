@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "petros-sarawak" }
 related: ["petroleum-development-act-1974"]
 keywords: ["Petronas", "Petroliam Nasional Berhad", "Akta Kemajuan Petroleum 1974", "PETROS", "royalti minyak", "gas aggregator", "Sarawak", "MISC", "PETRONAS Chemicals"]
+framework: profile
 ---
 
 Đạo luật Phát triển Dầu khí 1974 trao quyền đối với toàn bộ dầu khí trên đất liền và ngoài khơi Malaysia cho một công ty mới — và hơn 50 năm sau, quan hệ giữa Chính phủ Liên bang với một số bang về việc kiểm soát cùng doanh thu dầu khí vẫn là một vấn đề chưa được giải quyết. Công ty đó là Petroliam Nasional Berhad, hay Petronas.

@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "sst-explained" }
 related: ["civil-and-syariah-courts", "article-3-religion", "langkawi-visitor-guide", "labuan-tax-regime"]
 keywords: ["शराब मलेशिया", "alcohol Malaysia", "शराब लाइसेंस मलेशिया", "liquor licence Malaysia", "Excise Act 1976", "शराब पीने की आयु मलेशिया", "drinking age Malaysia", "शुल्क-मुक्त Langkawi Labuan", "duty-free Langkawi Labuan", "शरिया शराब", "Syariah alcohol"]
+framework: rules
 ---
 
 कुआलालंपुर के किसी बार में बीयर का ऑर्डर दीजिए और यह पूरी तरह सामान्य बात है। वही बीयर Kelantan के कुछ हिस्सों में खरीदने की कोशिश कीजिए और आपको शायद कोई लाइसेंस-प्राप्त दुकान ही न मिले। मलेशिया में शराब के लिए एक ही नियम-पुस्तिका नहीं है; इसमें एक संघीय लाइसेंसिंग प्रणाली है, धार्मिक कानूनों का एक अलग समूह है जो केवल मुसलमानों पर लागू होता है, और ऐसी राज्य सरकारें हैं जो उसके ऊपर अपनी-अपनी शर्तें जोड़ती हैं। परिणाम एक पैबंद-कारी (patchwork) है जिसे एक आगंतुक, एक निवासी और एक रेस्तराँ मालिक अलग-अलग अनुभव करते हैं।

@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "llp-taxation" }
 related: ["sole-prop-vs-sdn-bhd", "corporate-tax-rates", "personal-tax-reliefs", "epf", "sdn-bhd"]
 keywords: ["impôt Sdn Bhd contre entreprise individuelle", "quand se constituer en société Malaisie", "déduction fiscale salaire administrateur", "impôt LLP Malaisie", "taux impôt entreprise individuelle Malaisie"]
+framework: decision
 ---
 
 La plupart des comparaisons des structures d'entreprise malaisiennes s'arrêtent à

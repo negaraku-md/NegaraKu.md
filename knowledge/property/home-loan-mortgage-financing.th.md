@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "stamp-duty-property" }
 related: ["real-property-gains-tax"]
 keywords: ["pinjaman perumahan", "gadai janji", "margin pembiayaan", "KWSP Akaun Sejahtera", "SJKP", "duti setem perjanjian pinjaman", "MRTA", "MLTA"]
+framework: rules
 ---
 
 บ้านในฝันอาจราคา RM450,000 แต่ธนาคารจะไม่ส่งมอบเงินนั้นจนกว่าจะมั่นใจว่าคุณสามารถชำระคืนได้ตลอด 30 ปีข้างหน้า นั่นคือจุดที่โลกของการจัดหาเงินทุนจำนองเริ่มต้นขึ้น ได้แก่ มาร์จิน อัตราส่วนภาระหนี้ ประกัน เงินออม KWSP และอากรแสตมป์ ซึ่งทั้งหมดเป็นตัวกำหนดว่ากุญแจบ้านหลังนั้นจะย้ายมาอยู่ในมือคุณหรือไม่

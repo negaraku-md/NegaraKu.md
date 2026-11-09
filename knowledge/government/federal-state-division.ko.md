@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["three-tiers-of-government", "federal-constitution", "civil-and-syariah-courts", "constitutional-amendment", "parliament", "ma63"]
 keywords: ["Ninth Schedule Federal Constitution", "Federal List State List Concurrent List", "division of legislative power Malaysia", "Article 74 Federal Constitution", "Article 77 residual power", "List I List II List III Malaysia", "Sabah Sarawak legislative supplement", "Jadual Kesembilan", "who can make law Malaysia"]
+framework: explainer
 ---
 
 토지는 주(state)의 사항입니다. 국방은 연방의 사항입니다. 공중보건은 양쪽 모두 손댈 수 있는 세 번째 목록에 자리합니다. 말레이시아에서 어느 특정 법을 제정할 권한이 연방에 있는지 주에 있는지는 의견이나 협상의 문제가 아니라 — 연방헌법(Federal Constitution) 뒤편의 단일 부칙에 사항별로 기재되어 있습니다.

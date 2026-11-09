@@ -69,6 +69,7 @@ social:
 verificationNeeded:
   - "Nhân vật chính trị gần đây; khái niệm Islam Hadhari (tôn giáo) và các kết quả bầu cử được tóm lược một cách trung lập — cần kiểm chứng lại với các nguồn sơ cấp và đòi hỏi sự phê duyệt của một người rà soát trước khi xuất bản."
   - "XÁC NHẬN ngày mất của ông (được đưa tin là ngày 14 tháng 4 năm 2025, tại Viện Tim Quốc gia ở Kuala Lumpur, thọ 85 tuổi — lưu ý: ngày 20 tháng 4 năm 2025 được cung cấp ban đầu dường như không chính xác) và tất cả các niên đại nhiệm chức với các nguồn sơ cấp trước khi xuất bản."
+framework: profile
 ---
 
 Sau nhiệm kỳ thủ tướng dài và mạnh mẽ của [Mahathir Mohamad](/vi/malaysia/mahathir-mohamad), Malaysia vào cuối năm 2003 thừa hưởng một kiểu nhà lãnh đạo rất khác: một cựu công chức nhỏ nhẹ đến từ Penang, người hứa hẹn tham vấn thay vì ra lệnh, chính phủ trong sạch thay vì các dự án hoành tráng, và một giọng điệu công chúng dịu dàng hơn. Abdullah Ahmad Badawi — được gần như mọi người biết đến đơn giản là **"Pak Lah"** — trở thành **Thủ tướng thứ năm** của đất nước trên một làn sóng thiện chí, giành được một trong những ủy nhiệm bầu cử lớn nhất trong lịch sử Malaysia, rồi, năm năm sau, chủ trì cuộc bầu cử đã tái định hình nền chính trị của quốc gia.

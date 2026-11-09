@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "sst-explained" }
 related: ["civil-and-syariah-courts", "article-3-religion", "langkawi-visitor-guide", "labuan-tax-regime"]
 keywords: ["alcohol Malaysia", "liquor licence Malaysia", "Excise Act 1976", "drinking age Malaysia", "duty-free Langkawi Labuan", "Syariah alcohol"]
+framework: rules
 ---
 
 在吉隆坡的酒吧点一杯啤酒完全稀松平常。若想在吉兰丹（Kelantan）某些地区买同一款啤酒，你可能连一家持牌店铺都找不到。马来西亚没有单一的酒类规则手册；它有一套联邦牌照制度、一套只适用于穆斯林的独立宗教法律，以及各自在此之上再叠加自身条件的州政府。其结果是一幅拼图，游客、居民与餐厅老板各自体验到的都不一样。

@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "inflation-cpi" }
 related: ["inflation-cpi", "dosm"]
 keywords: ["घरेलू व्यय मलेशिया", "household expenditure Malaysia", "DOSM घरेलू व्यय सर्वेक्षण", "DOSM Household Expenditure Survey", "मलेशिया रहन-सहन-लागत विभाजन", "मलेशियाई कितना खर्च करते हैं", "मलेशिया घरेलू बजट श्रेणियाँ"]
+framework: data-reference
 ---
 
 ## एक नज़र में

@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "premise-licence-malaysia" }
 related: ["fnb-licence-malaysia", "premise-licence-malaysia"]
 keywords: ["kopitiam", "mamak", "teh tarik", "roti canai", "kopi", "budaya sarapan", "UNESCO", "medan selera", "nasi lemak"]
+framework: history-culture
 ---
 
 Đánh thức bất kỳ người Malaysia nào lúc ba giờ sáng và hỏi ở đâu có thể ăn được, câu trả lời gần như chắc chắn giống nhau: mamak. Mở cửa từ tinh mơ, đóng cửa chẳng biết khi nào, kopitiam thì đã pha cà phê từ thời ông bà tổ tiên — và giữa hai không gian này là nơi người dân của một quốc gia đa sắc tộc gặp nhau mỗi ngày. Không phải ở sảnh chính thức, không phải ở các buổi lễ, mà ở những chiếc bàn đá cẩm thạch lấm lem và những chiếc ghế nhựa xiêu vẹo.

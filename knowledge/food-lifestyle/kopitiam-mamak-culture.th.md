@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "premise-licence-malaysia" }
 related: ["fnb-licence-malaysia", "premise-licence-malaysia"]
 keywords: ["kopitiam", "mamak", "teh tarik", "roti canai", "kopi", "budaya sarapan", "UNESCO", "medan selera", "nasi lemak"]
+framework: history-culture
 ---
 
 ปลุกชาวมาเลเซียคนใดก็ตามตอนตีสามแล้วถามว่าจะหาอะไรกินได้ที่ไหน คำตอบแทบจะแน่นอนว่าเหมือนกัน คือ มามัก มันเปิดตั้งแต่เช้ามืด ปิดเมื่อไรก็ไม่รู้ ส่วนโกปี๊เตี่ยมก็เสิร์ฟกาแฟมาตั้งแต่รุ่นปู่ย่าตายาย และระหว่างสองพื้นที่นี้เองที่ผู้คนของประเทศหลากหลายเชื้อชาติมาพบกันทุกวัน ไม่ใช่ในห้องประชุมทางการ ไม่ใช่ในงานพิธี แต่ที่โต๊ะหินอ่อนที่มอมแมมและเก้าอี้พลาสติกที่เอียง

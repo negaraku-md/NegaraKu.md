@@ -100,8 +100,14 @@ sources:
     publisher: "DuitTools"
 entity: "Companies Commission of Malaysia (Suruhanjaya Syarikat Malaysia, SSM)"
 wikidata: "Q1121232"
-relations: []
-related: []
+relations:
+  - { rel: "related-to", to: "business-structures-malaysia" }
+  - { rel: "related-to", to: "appoint-company-secretary" }
+  - { rel: "related-to", to: "sst-explained" }
+  - { rel: "related-to", to: "sst-registration" }
+  - { rel: "related-to", to: "employment-act-coverage" }
+  - { rel: "related-to", to: "business-structure-tax-comparison" }
+related: ["business-structures-malaysia", "appoint-company-secretary", "sst-explained", "sst-registration", "employment-act-coverage", "business-structure-tax-comparison"]
 keywords:
   - "how to start a business in Malaysia"
   - "SSM registration"
@@ -118,6 +124,7 @@ keywords:
   - "SSM fees"
   - "LLP Malaysia"
   - "company secretary Malaysia"
+framework: journey-hub
 ---
 
 Cari "cara memulakan perniagaan di Malaysia" dan hampir setiap hasil carian ialah agensi pemerbadanan atau firma perakaunan yang dengan senang hati akan mendaftarkan perniagaan itu untuk anda dengan bayaran — selalunya lima hingga sepuluh kali ganda daripada apa yang sebenarnya dikenakan oleh kerajaan. Hakikatnya lebih ringkas: anda boleh mendaftarkan kebanyakan perniagaan sendiri, secara dalam talian, dengan kos serendah RM30, dan bahagian yang lebih sukar bukanlah kertas kerja tetapi memilih struktur yang betul serta menguruskan perkara yang datang *selepas* sijil dicetak. Panduan ini memetakan keseluruhan laluan, daripada empat struktur perundangan sehinggalah kepada tindanan cukai dan pematuhan yang tidak diliputi oleh pendaftaran semata-mata.

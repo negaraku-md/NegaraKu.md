@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "petros-sarawak" }
 related: ["petroleum-development-act-1974"]
 keywords: ["Petronas", "Petroliam Nasional Berhad", "Akta Kemajuan Petroleum 1974", "PETROS", "royalti minyak", "gas aggregator", "Sarawak", "MISC", "PETRONAS Chemicals"]
+framework: profile
 ---
 
 منح قانون تطوير البترول لسنة 1974 (Petroleum Development Act 1974) الحقوق على كل البترول في البرّ وفي عرض البحر في ماليزيا لشركة جديدة — وبعد أكثر من 50 عاماً، لا تزال العلاقة بين الحكومة الاتحادية وعدة ولايات حول التحكّم في البترول وعائداته مسألة لم تُحسَم. تلك الشركة هي بتروليام ناسيونال برهاد (Petroliam Nasional Berhad)، أو بتروناس (Petronas).

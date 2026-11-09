@@ -95,6 +95,7 @@ social:
     - "#Klang"
     - "#MalaysianFood"
     - "#NegaraKu"
+framework: explainer
 ---
 
 Hiếm có món ăn nào tự giới thiệu bản thân rõ rệt như bak kut teh. Trước khi nhìn thấy nó,

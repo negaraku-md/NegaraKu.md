@@ -77,6 +77,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#BeeHwaCafe", "#Penang", "#BibGourmand", "#HalalFood", "#Malaysia"]
+framework: profile
 ---
 
 من بين أحدث الأسماء على خريطة MICHELIN في بينانغ مقهى في جورج تاون ظلّ يُطعم الحيّ

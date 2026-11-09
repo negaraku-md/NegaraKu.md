@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "ptptn-student-loan" }
 related: ["public-vs-private-universities", "ptptn-student-loan"]
 keywords: ["STPM vs Matrikulasi", "pre-university Malaysia", "Sijil Tinggi Persekolahan Malaysia", "Matrikulasi KPM", "A-Level Malaysia", "Foundation Asasi Malaysia", "Diploma to degree Malaysia", "UPU admission categories", "pre-u routes after SPM"]
+framework: decision
 ---
 
 Hai học sinh bước ra khỏi cùng một phòng thi SPM với kết quả gần như giống hệt nhau. Mười tám tháng sau, một người đang dự một kỳ thi của chính phủ được một hội đồng quốc gia chấm điểm. Một người khác đang ở trong một lớp học cao đẳng theo một giáo trình được ấn định ở Cambridge. Người thứ ba không bao giờ dự một kỳ thi quốc gia nào cả — toàn bộ điểm dự bị đại học của cô ấy được quyết định bởi đại học mà cô ấy đã ghi danh. Không ai trong số họ làm gì sai. Họ chỉ chọn những phòng khác nhau.

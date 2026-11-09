@@ -88,6 +88,7 @@ relations:
   - { rel: "part-of", to: "sst-explained" }
 related: ["sst-explained", "sst-expansion-2025", "sst-registration", "sst-02-filing"]
 keywords: ["table des taux SST", "groupes de la taxe sur les services Malaisie", "Groupe A à M taxe sur les services", "table des seuils de la taxe sur les services", "taxe sur les services 6% 8%", "service tax groups Malaysia"]
+framework: data-reference
 ---
 
 Table de référence pour la Première Annexe des Service Tax Regulations 2018, telle

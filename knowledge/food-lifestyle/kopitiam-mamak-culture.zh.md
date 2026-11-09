@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "premise-licence-malaysia" }
 related: ["fnb-licence-malaysia", "premise-licence-malaysia"]
 keywords: ["kopitiam", "mamak", "teh tarik", "roti canai", "kopi", "budaya sarapan", "UNESCO", "medan selera", "nasi lemak"]
+framework: history-culture
 ---
 
 凌晨三点叫醒任何一个马来西亚人，问哪里有得吃，答案几乎肯定一样：嘛嘛档。天未亮就开门，不知何时才打烊，而咖啡店从祖辈那一代起就已经在冲咖啡了——正是在这两个空间之间，一个多元族群国家的人民每天相遇。不是在正式殿堂，不是在典礼上，而是在油腻的大理石桌和歪斜的塑料椅之间。

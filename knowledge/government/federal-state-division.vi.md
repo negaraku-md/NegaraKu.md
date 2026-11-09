@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["three-tiers-of-government", "federal-constitution", "civil-and-syariah-courts", "constitutional-amendment", "parliament", "ma63"]
 keywords: ["Ninth Schedule Federal Constitution", "Federal List State List Concurrent List", "division of legislative power Malaysia", "Article 74 Federal Constitution", "Article 77 residual power", "List I List II List III Malaysia", "Sabah Sarawak legislative supplement", "Jadual Kesembilan", "who can make law Malaysia"]
+framework: explainer
 ---
 
 Đất đai là vấn đề của Bang. Quốc phòng là vấn đề của liên bang. Y tế công cộng nằm trên một danh mục thứ ba mà cả hai đều có thể chạm đến. Ở Malaysia, việc Liên bang hay một Bang có quyền thông qua một luật nhất định không phải là chuyện quan điểm hay thương lượng — nó được viết ra, theo từng đối tượng, trong một phụ lục duy nhất ở phía sau Hiến pháp Liên bang.

@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "sst-expansion-2025" }
 related: ["sales-tax-explained", "sst-registration", "sst-rate-table", "sst-02-filing", "sst-b2b-exemption", "sst-expansion-2025", "imported-taxable-services"]
 keywords: ["SST Malaisie", "taxe sur les ventes et les services Malaisie", "cukai jualan dan perkhidmatan", "seuil d'enregistrement SST", "MySST"]
+framework: explainer
 ---
 
 La SST est décrite partout comme « le remplacement de la GST », ce qui est la

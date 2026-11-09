@@ -64,6 +64,7 @@ relations:
   - { rel: "explained-in", to: "national-land-code" }
 related: ["buying-a-home-process", "national-land-code"]
 keywords: ["freehold vs leasehold Malaysia", "strata title Malaysia", "individual title vs strata title", "landed property Malaysia", "management corporation Malaysia", "National Land Code tenure", "Strata Titles Act 1985", "parcel tax Malaysia"]
+framework: explainer
 ---
 
 Dua buah rumah teres yang hampir sama di jalan yang sama boleh membawa janji yang sangat berbeza daripada pihak berkuasa negeri: satu hak milik menyatakan "pegangan bebas," manakala satu lagi menyatakan "pajakan, 99 tahun, tamat 2118." Satu soalan kedua yang tidak berkaitan pula menentukan sama ada anda turut berkongsi pemilikan lobi lif dan kolam renang dengan empat puluh isi rumah lain, atau sama ada laluan masuk kereta dan bumbung adalah sepenuhnya masalah anda sendiri. Pembeli sering mencampuradukkan kedua-dua soalan ini menjadi satu — "adakah ia pegangan bebas atau adakah ia kondominium?" — sedangkan sesebuah hartanah sentiasa menjawab kedua-duanya, secara berasingan.

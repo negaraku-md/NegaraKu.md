@@ -106,6 +106,7 @@ keywords:
   - "enterprise vs LLP vs Sdn Bhd"
   - "choose business structure Malaysia"
   - "compare Sdn Bhd Berhad LLP"
+framework: decision
 ---
 
 คู่มืออื่น ๆ ทุกฉบับพาคุณเดินผ่านเจ็ดโครงสร้างในเจ็ดหัวข้อของร้อยแก้ว และคุณอ่านจบโดยไม่สามารถเปรียบเทียบสองในนั้นได้เลย หน้านี้คือตารางที่คู่มือเหล่านั้นควรนำมาก่อน

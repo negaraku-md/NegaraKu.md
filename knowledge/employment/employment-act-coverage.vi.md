@@ -55,6 +55,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "working-hours-overtime-malaysia"]
 keywords: ["employment act coverage", "rm4000 employment act", "employment act rm2000", "who is covered employment act malaysia", "first schedule employment act"]
+framework: rules
 ---
 
 Nếu bạn tìm câu hỏi này trong năm qua, bạn có lẽ đã được cho biết rằng Employment Act bao trùm người lao động thu nhập **RM2,000 trở xuống**. Quy tắc đó đã bị thay thế vào ngày **1 tháng 1 năm 2023**, khi Employment (Amendment) Act 2022 có hiệu lực. Nó vẫn đang được công bố — ajobthing cùng những trang khác — và nó sai theo một cách tốn tiền theo cả hai hướng: người sử dụng lao động từ chối quyền lợi của những người có chúng, và trả lương ưu đãi cho những người không có.

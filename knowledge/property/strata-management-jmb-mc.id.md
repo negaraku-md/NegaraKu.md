@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "property-buying-guide" }
 related: []
 keywords: ["JMB", "MC", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Tribunal Pengurusan Strata", "Akta Pengurusan Strata 2013", "caj penyelenggaraan", "kumpulan wang penjelas", "COB", "strata"]
+framework: explainer
 ---
 
 Anda membeli sebuah unit kondominium, tetapi siapa sebenarnya yang memiliki lift, kolam renang dan lorong tempat parkir — dan siapa yang berhak memungut iuran bulanan dari Anda? Jawabannya terletak pada satu lapisan tata kelola yang jarang dibaca pembeli sampai muncul sengketa: kerangka Strata Management Act 2013 (Act 757).

@@ -64,6 +64,7 @@ relations:
   - { rel: "explained-in", to: "national-land-code" }
 related: ["buying-a-home-process", "national-land-code"]
 keywords: ["freehold vs leasehold Malaysia", "strata title Malaysia", "individual title vs strata title", "landed property Malaysia", "management corporation Malaysia", "National Land Code tenure", "Strata Titles Act 1985", "parcel tax Malaysia"]
+framework: explainer
 ---
 
 Dos casas en hilera casi idénticas en la misma calle pueden llevar promesas muy distintas del Estado: un título dice «freehold», el otro «leasehold, 99 años, caducidad 2118». Una segunda pregunta, sin relación con la anterior, decide si además compartes la propiedad de un vestíbulo de ascensores y una piscina con otras cuarenta familias, o si el camino de entrada y el techo son por completo problema tuyo. Los compradores suelen fusionar ambas preguntas en una — «¿es freehold o es un condominio?» — cuando una propiedad siempre está respondiendo a ambas, de forma independiente.

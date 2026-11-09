@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "securities-commission-malaysia" }
 related: ["sdn-bhd", "companies-act-2016", "securities-commission-malaysia", "investing-in-bursa-malaysia-guide", "paid-up-capital"]
 keywords: ["Berhad", "Bhd", "public limited company Malaysia", "public company Companies Act 2016", "Bursa Malaysia listing"]
+framework: explainer
 ---
 
 **Français :** Berhad · **English:** Public Limited Company · **中文:** 大众有限公司

@@ -108,6 +108,7 @@ relations:
   - { rel: "explained-in", to: "sst-rate-table" }
 related: ["sst-explained", "sst-expansion-2025", "sst-rate-table", "sales-tax-explained", "sst-02-filing"]
 keywords: ["SST पंजीकरण सीमा", "सेवा कर सीमा मलेशिया", "service tax threshold Malaysia", "RM500000 SST", "बिक्री कर पंजीकरण", "MySST registration"]
+framework: rules
 ---
 
 लगभग हर मार्गदर्शिका «SST पंजीकरण सीमा क्या है?» का उत्तर RM500,000 से देती है।

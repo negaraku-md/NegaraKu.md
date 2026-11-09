@@ -108,6 +108,7 @@ relations:
   - { rel: "explained-in", to: "sst-rate-table" }
 related: ["sst-explained", "sst-expansion-2025", "sst-rate-table", "sales-tax-explained", "sst-02-filing"]
 keywords: ["seuil d'enregistrement SST", "seuil de la taxe sur les services Malaisie", "RM500000 SST", "enregistrement taxe sur les ventes Malaisie", "enregistrement MySST", "service tax threshold Malaysia"]
+framework: rules
 ---
 
 Presque tous les guides répondent à « quel est le seuil d'enregistrement SST ? »

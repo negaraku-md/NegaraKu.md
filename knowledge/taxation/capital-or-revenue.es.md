@@ -86,6 +86,7 @@ relations:
   - { rel: "administered-by", to: "lhdn" }
 related: ["capital-gains-tax", "rpgt-rates", "rpgt-exemptions", "corporate-tax-rates"]
 keywords: ["indicios de comercio Malasia", "capital o renta", "impuesto reventa inmuebles Malasia", "impuesto operativa de acciones Malasia", "badges of trade Malaysia", "adventure in the nature of trade", "RPGT or income tax"]
+framework: explainer
 ---
 
 Venda una casa-tienda con una ganancia de RM500,000 y el impuesto será de

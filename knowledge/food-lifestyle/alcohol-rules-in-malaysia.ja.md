@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "sst-explained" }
 related: ["civil-and-syariah-courts", "article-3-religion", "langkawi-visitor-guide", "labuan-tax-regime"]
 keywords: ["alcohol Malaysia", "liquor licence Malaysia", "Excise Act 1976", "drinking age Malaysia", "duty-free Langkawi Labuan", "Syariah alcohol"]
+framework: rules
 ---
 
 クアラルンプールのバーでビールを注文するのは、まったくありふれたことである。しかし同じビールをクランタンの一部の地域で買おうとすると、免許を持つ販売店が一軒も見つからないかもしれない。マレーシアには単一の酒類ルールブックというものは存在しない——連邦の免許制度、ムスリムにのみ適用される別体系の宗教法、そしてそれぞれが独自の条件を上乗せする州政府がある。その結果生まれるのは寄せ集めのような状態であり、観光客、居住者、そしてレストランのオーナーはそれぞれ異なる形でこれを経験する。

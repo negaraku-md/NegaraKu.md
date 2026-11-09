@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "property-buying-guide" }
 related: []
 keywords: ["JMB", "MC", "société de gestion", "organe de gestion conjointe", "Tribunal de gestion de la copropriété", "Loi sur la gestion de la copropriété 2013", "charge d'entretien", "fonds de réserve", "COB", "strata", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Akta Pengurusan Strata 2013"]
+framework: explainer
 ---
 
 Vous achetez un lot de condominium, mais qui possède réellement l'ascenseur, la piscine et l'allée du parking — et qui a le droit de vous facturer une redevance mensuelle ? La réponse se trouve dans un niveau de gouvernance dont les acheteurs entendent rarement parler jusqu'à ce qu'un litige survienne : le cadre de la Loi sur la gestion de la copropriété de 2013 (loi 757).

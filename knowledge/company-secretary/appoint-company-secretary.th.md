@@ -108,6 +108,7 @@ relations:
   - { rel: "part-of", to: "sdn-bhd-first-year-compliance" }
 related: ["company-secretary-qualification", "secretary-vacancy-30-days", "secretary-resignation", "changing-company-secretary", "register-of-directors", "statutory-registers"]
 keywords: ["appoint company secretary Malaysia", "section 236 Companies Act 2016", "company secretary 30 days incorporation", "board resolution appoint secretary", "SSM practising certificate secretary"]
+framework: how-to
 ---
 
 ในบรรดากำหนดเวลาทั้งหมดที่บริษัท Sdn Bhd ใหม่ต้องเผชิญ นี่คือกำหนดที่กรรมการพลาดบ่อยที่สุด — ไม่ใช่เพราะยาก แต่เพราะไม่มีใครเตือนพวกเขาจนกระทั่ง SSM เตือน และรูปแบบของกฎที่ส่วนใหญ่เคยได้ยินมาเป็นเพียงครึ่งเดียวเท่านั้น: 30 วันไม่ใช่พิธีการครั้งเดียวของบริษัทใหม่ แต่กลับมาทุกครั้งที่ตำแหน่งว่าง ตลอดอายุของบริษัท

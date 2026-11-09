@@ -106,6 +106,7 @@ keywords:
   - "enterprise vs LLP vs Sdn Bhd"
   - "choose business structure Malaysia"
   - "compare Sdn Bhd Berhad LLP"
+framework: decision
 ---
 
 다른 모든 안내서는 일곱 가지 구조를 일곱 개의 산문 단락으로 안내하고, 여러분은 그

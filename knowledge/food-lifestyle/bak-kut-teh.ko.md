@@ -95,6 +95,7 @@ social:
     - "#Klang"
     - "#MalaysianFood"
     - "#NegaraKu"
+framework: explainer
 ---
 
 바쿠테만큼 자신의 존재를 또렷이 알리는 음식도 드물다. 보기도 전에 먼저 냄새로 안다——팔각, 계피, 그리고 뭉근

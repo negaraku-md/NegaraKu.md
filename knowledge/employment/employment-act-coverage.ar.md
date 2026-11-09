@@ -55,6 +55,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "working-hours-overtime-malaysia"]
 keywords: ["تغطية قانون العمل", "قانون العمل RM4000", "قانون العمل RM2000", "من يشمله قانون العمل ماليزيا", "الجدول الأول قانون العمل", "Employment Act coverage", "First Schedule employment act"]
+framework: rules
 ---
 
 إذا بحثتَ عن هذا السؤال خلال العام الماضي فالأرجح أنّه قيل لك إنّ قانون العمل يغطّي

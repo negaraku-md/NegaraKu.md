@@ -95,6 +95,7 @@ social:
     - "#Klang"
     - "#MalaysianFood"
     - "#NegaraKu"
+framework: explainer
 ---
 
 Sedikit hidangan yang mengumumkan kehadirannya seperti bak kut teh. Sebelum Anda

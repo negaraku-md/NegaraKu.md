@@ -88,6 +88,7 @@ social:
 verificationNeeded:
   - "Danh sách tuyển chọn MICHELIN Guide Kuala Lumpur & Penang được rà soát hằng năm; bài viết này phản ánh ấn bản 2026 (công bố tháng 11 năm 2025). Một ấn bản mới hơn — ví dụ danh sách 2027 — có thể thêm, loại bỏ hoặc xếp lại quán này, vì vậy hãy xác nhận lại tình trạng Bib Gourmand hiện tại tại guide.michelin.com trước khi dựa vào."
   - "Số loại thảo mộc chính xác trong nước dùng khác nhau theo nguồn (16 trên trang niêm yết của quán so với khoảng 15 trong bài của MICHELIN); tuổi 30 năm nêu ra là ước chừng. Giờ mở cửa (khoảng 08:30–15:30, đóng cửa thứ Tư) và lưu ý chỉ nhận tiền mặt khác nhau giữa các trang theo khu vực của MICHELIN — hãy xác nhận trực tiếp với quán."
+framework: profile
 ---
 
 Bak kut teh tưởng thưởng cho sự kiên nhẫn, và ngày của Ah Hei bắt đầu từ rất lâu

@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "property-buying-guide" }
 related: []
 keywords: ["JMB", "MC", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Tribunal Pengurusan Strata", "Akta Pengurusan Strata 2013", "caj penyelenggaraan", "kumpulan wang penjelas", "COB", "strata"]
+framework: explainer
 ---
 
 நீங்கள் ஒரு கான்டோமினியம் அலகை வாங்குகிறீர்கள், ஆனால் லிஃப்ட், நீச்சல் குளம் மற்றும் கார் நிறுத்துமிடச் சந்து ஆகியவற்றை உண்மையில் யார் வைத்திருக்கிறார்கள் — மேலும் உங்களிடமிருந்து மாதாந்திரக் கட்டணத்தை வசூலிக்க யாருக்கு உரிமை உண்டு? பதில் ஒரு நிர்வாக அடுக்கில் உள்ளது, தகராறு எழும் வரை வாங்குநர்கள் அரிதாகவே படிக்கும் அடுக்கு: 2013 ஆம் ஆண்டு அடுக்கு மேலாண்மைச் சட்டத்தின் (Akta Pengurusan Strata 2013, Akta 757) கட்டமைப்பு.

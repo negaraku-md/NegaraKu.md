@@ -69,6 +69,7 @@ social:
 verificationNeeded:
   - "Tokoh politik baru-baru ini; konsep Islam Hadhari (agama) dan hasil-hasil pemilu dirangkum secara netral — periksa ulang terhadap sumber primer dan wajibkan persetujuan peninjau manusia sebelum publikasi."
   - "KONFIRMASIKAN tanggal kematiannya (dilaporkan 14 April 2025, di Institut Jantung Negara di Kuala Lumpur, pada usia 85 — catatan: tanggal 20 April 2025 yang semula disediakan tampaknya keliru) dan semua tanggal jabatan terhadap sumber primer sebelum publikasi."
+framework: profile
 ---
 
 Setelah masa jabatan [Mahathir Mohamad](/id/malaysia/mahathir-mohamad) yang panjang dan kuat, Malaysia pada akhir 2003 mewarisi seorang pemimpin yang sangat berbeda jenisnya: seorang mantan pegawai negeri yang lembut bicaranya dari Penang yang menjanjikan permusyawaratan alih-alih perintah, pemerintahan yang bersih alih-alih proyek-proyek megah, dan nada publik yang lebih lembut. Abdullah Ahmad Badawi — yang dikenal oleh hampir semua orang hanya sebagai **"Pak Lah"** — menjadi **Perdana Menteri kelima** negara itu di atas gelombang niat baik, memenangkan salah satu mandat pemilu terbesar dalam sejarah Malaysia, dan kemudian, lima tahun kemudian, mengetuai pemilu yang membentuk ulang politik bangsa itu.

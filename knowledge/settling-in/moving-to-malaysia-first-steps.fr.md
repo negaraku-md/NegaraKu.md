@@ -84,6 +84,7 @@ faq:
     a: Dans la plupart des cas, non. Un permis de visite sociale de courte durée (touristique) standard atteste seulement que vous êtes autorisé à visiter et ne se convertit pas en statut de travail ou de séjour de longue durée depuis l'intérieur de la Malaisie. Si le projet est de travailler, d'être parrainé par la famille ou d'un séjour de longue durée autofinancé, la demande de permis doit en général être réglée, ou du moins bien avancée, avant le déménagement, et non traitée comme une démarche de la première semaine après l'atterrissage.
   - q: Qu'est-ce que la carte d'arrivée numérique de Malaisie, et a-t-elle un coût ?
     a: La carte d'arrivée numérique de Malaisie (MDAC) est un enregistrement d'entrée gratuit que la plupart des arrivants étrangers doivent remplir en ligne avant d'atterrir, soumis uniquement via le portail officiel du Département de l'immigration lui-même. Ce n'est pas un visa et elle ne remplace aucun permis ou visa que vous détenez déjà. Le Département insiste sur sa gratuité parce que des sites imitateurs non officiels ont facturé aux voyageurs un formulaire qui ne coûte rien à la source.
+framework: journey-hub
 ---
 
 La plupart des personnes qui planifient un déménagement en Malaisie commencent par la

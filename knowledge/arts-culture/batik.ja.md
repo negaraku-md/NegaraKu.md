@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "wayang-kulit" }
 related: ["wayang-kulit"]
 keywords: ["batik Malaysia", "batik canting", "batik Kelantan Terengganu", "kemeja batik pakaian rasmi", "tekstil rintangan lilin"]
+framework: history-culture
 ---
 
 一枚の無地の白い布が枠に張られる。職人が小さな銅製のペン——canting、その筆先は鉛筆の先ほどの太さしかない——を、溶けた蝋の入った鍋に浸し、布地に直接描き始める。顔料ではなく、色を受け付けない蝋で描くのだ。蝋が冷えて固まってはじめて、布は染め液の中に入れられる。蝋のある場所には、染料は届かない——そして後にその蝋を煮て取り除くと、そこに残るのは色によって描かれた模様ではなく、色の不在によって描かれた模様である。

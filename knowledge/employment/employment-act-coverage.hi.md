@@ -55,6 +55,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["labour-law-map-malaysia", "employment-act-1955-guide", "working-hours-overtime-malaysia"]
 keywords: ["रोज़गार अधिनियम कवरेज", "रोज़गार अधिनियम RM4000", "रोज़गार अधिनियम RM2000", "रोज़गार अधिनियम मलेशिया किसे समेटता है", "First Schedule रोज़गार अधिनियम", "Employment Act coverage"]
+framework: rules
 ---
 
 यदि आपने पिछले वर्ष में यह प्रश्न खोजा होगा तो संभवतः आपको बताया गया होगा कि रोज़गार अधिनियम

@@ -109,6 +109,7 @@ relations:
   - { rel: "part-of", to: "sdn-bhd-first-year-compliance" }
 related: ["company-secretary-qualification", "secretary-vacancy-30-days", "secretary-resignation", "changing-company-secretary", "register-of-directors", "statutory-registers"]
 keywords: ["lantik setiausaha syarikat Malaysia", "seksyen 236 Akta Syarikat 2016", "setiausaha syarikat 30 hari pemerbadanan", "resolusi lembaga pengarah lantik setiausaha", "sijil amalan setiausaha SSM"]
+framework: how-to
 ---
 
 Dari semua tenggat waktu yang dihadapi oleh Sdn Bhd yang baru, inilah salah satu

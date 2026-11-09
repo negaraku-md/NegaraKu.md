@@ -88,6 +88,7 @@ social:
 verificationNeeded:
   - "Seleksi MICHELIN Guide Kuala Lumpur & Penang direvisi setiap tahun; profil ini mencerminkan edisi 2026 (diumumkan November 2025). Edisi yang lebih baru — misalnya daftar 2027 — dapat menambah, menghapus, atau menyusun ulang peringkat restoran ini, jadi konfirmasikan kembali status Bib Gourmand terkininya di guide.michelin.com sebelum mengandalkannya."
   - "Jumlah herbal yang tepat dalam kaldu berbeda menurut sumber (16 pada daftar restoran versus sekitar 15 dalam fitur MICHELIN); usia 30 tahun yang disebutkan adalah perkiraan. Jam buka (sekitar 08:30–15:30, tutup Rabu) dan catatan hanya tunai berbeda antara daftar lokal MICHELIN — konfirmasikan langsung dengan restoran."
+framework: profile
 ---
 
 Bak kut teh memberi imbalan pada kesabaran, dan hari Ah Hei dimulai jauh sebelum

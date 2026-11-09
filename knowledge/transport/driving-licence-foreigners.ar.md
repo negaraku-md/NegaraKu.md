@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "expatriate-and-non-resident-tax" }
 related: ["moving-to-malaysia-first-steps", "malaysia-business-visa-comparison", "expatriate-and-non-resident-tax"]
 keywords: ["رخصة قيادة الأجانب في ماليزيا", "رخصة القيادة الدولية في ماليزيا", "تحويل الرخصة الأجنبية JPJ", "driving licence foreigner Malaysia", "international driving permit Malaysia", "JPJ foreign licence conversion", "رخصة القيادة MM2H", "القيادة في ماليزيا بوصفك مغتربًا"]
+framework: how-to
 ---
 
 متقاعدٌ في برنامج MM2H قاد ثلاثين عامًا في الخارج، وموظّفٌ جديد بتصريح عمل (Employment Pass) لم يلمس علبة تروس يدوية قطّ، وسائحٌ في رحلة أسبوعين — ثلاثتهم يطرحون على دائرة النقل البري (JPJ) السؤال نفسه فيتلقّون ثلاث إجابات مختلفة. ومنذ 19 مايو 2025 اتّسعت الفجوة: فقد توقّفت JPJ عن تحويل رخص معظم الأجانب بالكامل، وكثير من النصائح التي لا تزال تنتشر على الإنترنت كُتب قبل ذلك التغيير.
