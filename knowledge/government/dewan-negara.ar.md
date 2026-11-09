@@ -64,6 +64,7 @@ relations:
   - { rel: "compares-with", to: "dewan-rakyat" }
 related: ["parliament", "federal-constitution", "dewan-rakyat", "yang-di-pertuan-agong"]
 keywords: ["مجلس الشيوخ", "Dewan Negara", "سيناتور ماليزيا", "senator Malaysia", "المادة 45 من الدستور الاتحادي", "Perkara 45", "المادة 68", "الجدول السابع", "Jadual Ketujuh", "تعيين السيناتورات", "صلاحية التأجيل"]
+framework: profile
 ---
 
 # مجلس الشيوخ (Dewan Negara): كيف يُعيَّن السيناتورات، ولماذا يؤجّل هذا المجلس بدل أن يرفض نهائياً

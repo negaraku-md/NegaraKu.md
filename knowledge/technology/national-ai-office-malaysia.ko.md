@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "personal-data-protection-act-malaysia" }
 related: []
 keywords: ["national ai office", "naio", "ai malaysia", "ai action plan 2026-2030", "aige", "ai governance malaysia", "ai nation 2030"]
+framework: explainer
 ---
 
 어떤 나라가 인공지능을 조율하려 하면서도 법률을 위해 수년을 기다리고 싶지 않을 때, 먼저 사무소를 세웁니다. 말레이시아가 바로 그렇게 했습니다. AI법으로 시작하는 대신, 조율 기관을 세우고, 자발적 윤리 원칙 한 세트를 발표하며, 5개년 계획을 작성한 뒤 — 그다음에 법률 제정에 착수했습니다.

@@ -80,6 +80,7 @@ wikidata: "Q12698635"
 relations: []
 related: []
 keywords: ["MyIPO", "Intellectual Property Corporation of Malaysia", "Perbadanan Harta Intelek Malaysia", "trademark registration Malaysia", "patent registration Malaysia", "MyIPO trademark fees", "Trademarks Act 2019", "copyright Malaysia", "industrial design Malaysia", "geographical indication Malaysia", "IP registration Malaysia", "MyIPO online filing"]
+framework: profile
 ---
 
 如果你在马来西亚发明了某样东西、打造了一个品牌、设计了一款产品，或想保护某种地方特产，几乎所有这些事都只有一个办事窗口——而你很容易被一个只想向你推销单一服务的网页引到错误的服务上。**MyIPO**，即马来西亚知识产权局（马来文：*Perbadanan Harta Intelek Malaysia*），是负责发展和管理马来西亚整套知识产权体系的法定机构。这涵盖工业产权——专利、商标、工业设计和集成电路布图设计——以及版权和相关权利。

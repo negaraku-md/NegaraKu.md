@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "malaysian-accounting-standards-board" }
 related: []
 keywords: ["MIA", "Instituto Malasio de Contadores", "Accountants Act 1967", "Chartered Accountant Malaysia", "CA(M)", "certificado para ejercer", "licencia de auditoría"]
+framework: profile
 ---
 
 Llámese «contador» en Malasia sin registrarse en un organismo en particular y estará, de hecho, cometiendo un delito penal. Ese organismo es el Instituto Malasio de Contadores — MIA — y posee la única autoridad para decidir quién cuenta como contador en este país.

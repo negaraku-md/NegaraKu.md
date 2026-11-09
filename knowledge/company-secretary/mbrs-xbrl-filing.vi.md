@@ -85,6 +85,7 @@ entity: "Malaysian Business Reporting System (MBRS)"
 relations: []
 related: []
 keywords: ["MBRS", "MBRS 2.0", "XBRL", "SSM", "mTool", "mPortal", "SSMxT", "SSM taxonomy", "financial statements filing Malaysia", "Companies Act 2016", "annual return", "exempt private company", "Suruhanjaya Syarikat Malaysia", "MFRS", "MPERS"]
+framework: how-to
 ---
 
 Nếu công ty của bạn vẫn nghĩ rằng nó «nộp tài khoản cho SSM» bằng cách trao một PDF đã ký, thời đại đó đã

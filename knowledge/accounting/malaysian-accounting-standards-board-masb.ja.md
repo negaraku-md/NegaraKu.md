@@ -73,6 +73,7 @@ wikidata: "Q141851366"
 relations: []
 related: []
 keywords: ["MASB", "Malaysian Accounting Standards Board", "MFRS", "MPERS", "Financial Reporting Act 1997", "approved accounting standards Malaysia", "MFRS framework", "Financial Reporting Foundation", "IFRS Malaysia", "MFRS 18", "private entity reporting standard", "MASB standards force of law"]
+framework: profile
 ---
 
 マレーシアの企業が決算書に署名する際、従うべきルールを定めているのは、その監査人でも、税務当局でも、証券取引所でもない。ルールを定めているのは**マレーシア会計基準審議会（MASB）**であり——異例なことに、そのルールは法的効力を持つ。

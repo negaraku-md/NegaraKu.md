@@ -80,6 +80,7 @@ relations:
   - { rel: "part-of", to: "company-secretary" }
 related: ["company-secretary-qualification", "appoint-company-secretary", "ssm"]
 keywords: ["MAICSA", "Chartered Secretaries Malaysia", "Malaysian Institute of Chartered Secretaries and Administrators", "keahlian MAICSA setiausaha syarikat", "Jadual Keempat Akta Syarikat 2016 badan diluluskan"]
+framework: profile
 ---
 
 MAICSA adalah badan yang paling sering disebut oleh rakyat Malaysia apabila

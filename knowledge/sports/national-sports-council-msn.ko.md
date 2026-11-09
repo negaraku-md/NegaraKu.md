@@ -67,6 +67,7 @@ wikidata: "Q97208190"
 relations: []
 related: []
 keywords: ["Majlis Sukan Negara", "MSN", "National Sports Council of Malaysia", "NSC Malaysia", "MSN Bukit Jalil", "Akta Majlis Sukan Negara 1971", "Institut Sukan Negara", "ISN", "Kompleks Sukan Negara Bukit Jalil", "Majlis Sukan Negeri", "Kementerian Belia dan Sukan", "MSN atlet", "pembangunan sukan Malaysia"]
+framework: profile
 ---
 
 말레이시아의 단거리 선수가 올림픽 출발선에 서거나 어린 축구 선수가 국가 대표팀에 발탁될 때, 그들을 그 자리까지 이끈 훈련과 코칭, 시설을 뒷받침하는 단 하나의 정부 기관이 있습니다. 바로 말레이어로 **국가체육위원회(Majlis Sukan Negara, MSN)**로 알려진 **말레이시아 국가체육위원회(National Sports Council of Malaysia)**입니다. 이곳은 국가 스포츠 정책을 실제 선수로 바꾸어 내는 법정 기관입니다.

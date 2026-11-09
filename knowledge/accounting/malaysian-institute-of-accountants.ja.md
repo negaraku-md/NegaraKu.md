@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "malaysian-accounting-standards-board" }
 related: []
 keywords: ["MIA", "Institut Akauntan Malaysia", "Akta Akauntan 1967", "Chartered Accountant Malaysia", "CA(M)", "sijil amalan", "lesen audit"]
+framework: profile
 ---
 
 特定の機関に登録せずにマレーシアで自らを「会計士」と名乗れば、あなたは実際には刑事犯罪を犯していることになる。その機関の名は、マレーシア会計士協会（Malaysian Institute of Accountants）——MIA——であり、この国で誰が会計士として認められるかを決定する唯一の権限を握っている。

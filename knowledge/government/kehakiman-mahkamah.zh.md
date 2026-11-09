@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["Malaysia court hierarchy", "Federal Court of Malaysia", "Court of Appeal Malaysia", "High Court in Malaya", "Sessions Court jurisdiction", "Judicial Appointments Commission", "Article 122B"]
+framework: explainer
 ---
 
 一宗涉及 RM60,000 的合约纠纷，与一项针对某联邦成文法有效性的挑战，两者都始于在法院柜台提交的一张纸。它们不会前往同一个柜台，不会由同一类法官裁决，而其中只有一宗有可能最终摆在布城（Putrajaya）九名法官面前。

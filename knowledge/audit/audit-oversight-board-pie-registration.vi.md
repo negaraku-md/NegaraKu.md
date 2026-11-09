@@ -94,6 +94,7 @@ relations:
   - { rel: "governs", to: "statutory-audit-process" }
 related: ["appointing-an-auditor", "audit-opinion-types", "changing-auditors"]
 keywords: ["Audit Oversight Board", "AOB", "public interest entity", "PIE auditor registration", "Securities Commission Malaysia", "Part IIIA SCMA", "schedule fund", "EQCR", "auditor oversight Malaysia"]
+framework: profile
 ---
 
 Vượt qua giấy phép kiểm toán của Bộ trưởng Bộ Tài chính và gia nhập MIA vẫn không cho phép bạn ký duyệt sổ sách của một công ty niêm yết trên Bursa. Đối với một cuộc kiểm toán thị trường vốn còn có một yêu cầu nữa — đăng ký với Ban Giám sát Kiểm toán (Audit Oversight Board) — mà chỉ kiểm toán viên của các đơn vị có lợi ích công chúng và các quỹ theo danh mục mới cần đáp ứng.

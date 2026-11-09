@@ -73,6 +73,7 @@ related: []
 keywords: ["BOMBA", "Jabatan Bomba dan Penyelamat Malaysia", "Fire and Rescue Department", "999 emergency", "fire safety Malaysia", "JBPM", "fire certificate", "Perakuan Bomba", "Fire Services Act 1988", "MERS 999"]
 social:
   hashtags: ["#BOMBA", "#FireAndRescue", "#Malaysia", "#999", "#FireSafety"]
+framework: profile
 ---
 
 말레이시아에서 건물에 불이 났거나 누군가 갇혔을 때 누구에게 전화해야 하는지 아무에게나 물어보면, 대답은 한결같이 한 단어입니다: **봄바(Bomba)**. **말레이시아 소방구조청** — *Jabatan Bomba dan Penyelamat Malaysia*(**JBPM**), 거의 모두에게 그저 **BOMBA**로 알려진 — 는 전국의 소방, 구조, 유해물질 대응, 소방안전 집행을 담당하는 연방 기관입니다. **주택지방정부부**(*Kementerian Perumahan dan Kerajaan Tempatan*, KPKT) 산하 기관이며, 긴급 시 **999**를 눌러 연결됩니다.

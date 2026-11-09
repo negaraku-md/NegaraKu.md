@@ -94,6 +94,7 @@ relations:
   - { rel: "governs", to: "statutory-audit-process" }
 related: ["appointing-an-auditor", "audit-opinion-types", "changing-auditors"]
 keywords: ["Audit Oversight Board", "AOB", "public interest entity", "PIE auditor registration", "Securities Commission Malaysia", "Part IIIA SCMA", "schedule fund", "EQCR", "auditor oversight Malaysia"]
+framework: profile
 ---
 
 Lulus lisensi audit Menteri Keuangan dan bergabung dengan MIA masih tidak memungkinkan Anda menandatangani akun sebuah perusahaan tercatat di Bursa. Bagi audit pasar modal, ada satu syarat tambahan — pendaftaran pada Audit Oversight Board — yang hanya perlu dipenuhi oleh auditor entitas kepentingan publik dan dana berjadwal.

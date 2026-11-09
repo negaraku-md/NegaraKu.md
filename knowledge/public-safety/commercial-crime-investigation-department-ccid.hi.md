@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "national-scam-response-centre-nsrc" }
 related: ["pdrm"]
 keywords: ["CCID", "वाणिज्यिक अपराध जाँच विभाग", "Jabatan Siasatan Jenayah Komersil", "JSJK", "PDRM", "वाणिज्यिक अपराध", "ऑनलाइन धोखाधड़ी", "Semak Mule", "NSRC", "997"]
+framework: profile
 ---
 
 हर बार जब कोई व्यक्ति अपने पैसे की ठगी के बाद "997 पर कॉल करें" पढ़ता है, तो उस धोखाधड़ी के विरुद्ध अग्रिम पंक्ति में खड़ा RMP विभाग CCID होता है। वाणिज्यिक अपराध जाँच विभाग — मलय में Jabatan Siasatan Jenayah Komersil — रॉयल मलेशिया पुलिस की वह इकाई है जो सफेदपोश अपराधियों का पीछा करती है: वे जो हिंसा की धमकी के बजाय छल से चोरी करते हैं।

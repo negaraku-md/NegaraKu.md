@@ -67,6 +67,7 @@ wikidata: "Q97208190"
 relations: []
 related: []
 keywords: ["Majlis Sukan Negara", "MSN", "National Sports Council of Malaysia", "NSC Malaysia", "MSN Bukit Jalil", "Akta Majlis Sukan Negara 1971", "Institut Sukan Negara", "ISN", "Kompleks Sukan Negara Bukit Jalil", "Majlis Sukan Negeri", "Kementerian Belia dan Sukan", "MSN atlet", "pembangunan sukan Malaysia"]
+framework: profile
 ---
 
 Apabila seorang pelari pecut Malaysia bersiap sedia di Olimpik atau seorang pemain bola sepak muda dipilih ke dalam skuad kebangsaan, ada satu badan kerajaan yang berdiri di sebalik latihan, kejurulatihan dan kemudahan yang membawa mereka ke tahap itu: **Majlis Sukan Negara Malaysia**, yang dikenali dalam bahasa Inggeris sebagai **National Sports Council (MSN)**. Ia merupakan agensi berkanun yang menterjemahkan dasar sukan negara menjadi atlet sebenar.

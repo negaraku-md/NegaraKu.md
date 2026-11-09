@@ -75,6 +75,7 @@ wikidata: "Q4294304"
 relations: []
 related: []
 keywords: ["KDN", "Kementerian Dalam Negeri", "Ministère de l'Intérieur de la Malaisie", "Ministry of Home Affairs Malaysia", "MOHA", "agences du KDN", "départements du KDN", "agensi bawah KDN", "Menteri Dalam Negeri", "fungsi KDN", "JPN", "Jabatan Imigresen", "PDRM", "AKPS", "Registry of Societies", "Lembaga Penapisan Filem"]
+framework: profile
 ---
 
 Lorsqu'un Malaisien renouvelle un passeport, lorsque la police procède à une

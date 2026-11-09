@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "higher-education-in-malaysia" }
 related: []
 keywords: ["MQA", "MQA accreditation", "Malaysian Qualifications Framework", "MQF", "MQR", "degree recognition Malaysia", "provisional accreditation", "full accreditation"]
+framework: profile
 ---
 
 두 학생이 같은 이름의 디플로마로 졸업합니다. 한 명은 공직과 석사 자리에 자격이 있고, 다른 한 명은 문턱에서 돌아섭니다. 그 차이는 흔히 공개 등록부의 한 줄, 즉 말레이시아 학력인증원이 그 프로그램을 인증했는지에 있습니다.

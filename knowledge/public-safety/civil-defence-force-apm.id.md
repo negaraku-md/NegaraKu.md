@@ -72,6 +72,7 @@ relations:
   - { rel: "governs", to: "akta-pertahanan-awam-1951" }
 related: []
 keywords: ["APM", "JPAM", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "bantuan kecemasan", "PASPA", "Akta 221", "sukarelawan pertahanan awam"]
+framework: profile
 ---
 
 Ketika banjir besar melanda atau sebuah bangunan runtuh, salah satu pasukan pertama yang tiba dengan perahu, tali, dan peralatan penyelamat sering kali berseragam oranye APM. Angkatan Pertahanan Awam Malaysia (APM) adalah tulang punggung bantuan kemanusiaan negara — hadir sebelum, selama, dan setelah suatu bencana.

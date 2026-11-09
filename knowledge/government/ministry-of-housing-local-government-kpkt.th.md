@@ -77,6 +77,7 @@ wikidata: "Q6867161"
 relations: []
 related: []
 keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "Ministry of Housing and Local Government Malaysia", "KPKT fungsi", "KPKT agensi", "JBPM", "PLANMalaysia", "Jabatan Kerajaan Tempatan", "Jabatan Perumahan Negara", "Tribunal Perumahan dan Pengurusan Strata", "SWCorp", "Strata Management Act 2013", "Local Government Act 1976", "Nga Kor Ming", "affordable housing Malaysia B40 M40"]
+framework: profile
 ---
 
 เมื่อขยะของคุณไม่ถูกเก็บ เมื่อใบรับรองความปลอดภัยจากอัคคีภัยครบกำหนด และเมื่อนักพัฒนาส่งมอบแฟลตของคุณช้าไปสองปี — กระทรวงระดับสหพันธ์เดียวกันยืนอยู่เบื้องหลังทั้งสามเหตุการณ์ **กระทรวงการเคหะและการปกครองส่วนท้องถิ่น** *Kementerian Perumahan dan Kerajaan Tempatan* ที่รู้จักกันทั่วไปว่า **KPKT** เป็นกระทรวงระดับสหพันธ์ของมาเลเซียสำหรับที่อยู่อาศัยราคาย่อมเยา การปกครองส่วนท้องถิ่น การวางผังเมือง การดับเพลิงและกู้ภัย ขยะมูลฝอย การจัดภูมิทัศน์ และสินเชื่อชุมชน สำนักงานใหญ่อยู่ที่ No. 51, Persiaran Perdana, Precinct 4, ศูนย์บริหารราชการสหพันธ์, 62100 Putrajaya รัฐมนตรีคือ **Nga Kor Ming** และรองรัฐมนตรีคือ **Datuk Hajah Aiman Athirah binti Sabu**

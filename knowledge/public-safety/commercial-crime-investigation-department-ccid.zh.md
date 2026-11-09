@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "national-scam-response-centre-nsrc" }
 related: ["pdrm"]
 keywords: ["CCID", "Jabatan Siasatan Jenayah Komersil", "JSJK", "PDRM", "jenayah komersil", "penipuan dalam talian", "Semak Mule", "NSRC", "997"]
+framework: profile
 ---
 
 每当有人被骗走钱财后读到"拨打 997"，站在打击诈骗最前线的皇家警察部门就是 CCID。商业罪案调查部——英语称 Commercial Crime Investigation Department——是马来西亚皇家警察辖下追缉白领罪犯的单位：那些靠欺骗而非暴力威胁行窃的人。

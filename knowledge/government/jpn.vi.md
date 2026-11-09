@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "ssm" }
 related: ["federal-constitution", "imigresen", "lhdn", "ssm"]
 keywords: ["JPN", "Jabatan Pendaftaran Negara", "National Registration Department", "MyKad", "MyKid", "MyPR", "sijil kelahiran", "pendaftaran kematian", "perkahwinan sivil", "kewarganegaraan"]
+framework: profile
 ---
 
 Mỗi công dân Malaysia đều có một hồ sơ tại JPN được mở ra trước khi họ biết nói và

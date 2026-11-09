@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "special-needs-education" }
 related: []
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
+framework: profile
 ---
 
 Un enfant de 10 ans capable de résoudre des mathématiques de Form Five ne se distingue pas toujours dans une classe ordinaire — et en Malaisie, le seul centre national conçu pour trouver et cultiver des esprits comme ceux-ci est PERMATApintar.

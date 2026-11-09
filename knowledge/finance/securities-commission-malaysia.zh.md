@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "capital-markets-and-services-act-2007" }
 related: ["bursa-malaysia", "bank-negara-malaysia"]
 keywords: ["securities commission malaysia", "SC Malaysia", "capital market regulator", "CMSA 2007", "Securities Commission Act 1993", "equity crowdfunding", "P2P financing"]
+framework: profile
 ---
 
 当你购买单位信托、通过股权众筹平台投资，或在马来西亚交易所（Bursa Malaysia）买卖股票时，有一个机构为这一切设定规则：马来西亚证券监督委员会。它是国家资本市场唯一的法定守门人——清楚了解其职权从哪里开始、到哪里结束，能省去许多困惑。

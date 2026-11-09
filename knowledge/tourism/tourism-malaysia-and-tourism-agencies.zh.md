@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "sarawak-tourism-board" }
 related: []
 keywords: ["Tourism Malaysia", "MOTAC", "Malaysia Tourism Promotion Board", "Sarawak Tourism Board", "Sabah Tourism Board", "Penang Global Tourism", "tourism licensing Malaysia"]
+framework: profile
 ---
 
 当一则「马来西亚，亚洲魅力所在」（Malaysia Truly Asia）的广告吸引你的目光时，为它买单的是一个法定机构——但决定你行程背后那家旅游业者是否有资格销售它的，却是另一个部门。马来西亚旅游业依靠分工运作，弄清楚谁负责什么，能省去许多困惑。

@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "cyber-security-act-2024" }
 related: ["cyber-security-act-2024"]
 keywords: ["NACSA", "الوكالة الوطنية للأمن السيبراني", "National Cyber Security Agency", "CyberSecurity Malaysia", "MyCERT", "Cyber999", "قانون الأمن السيبراني لسنة 2024", "Cyber Security Act 2024", "Act 854", "ترخيص مقدّم خدمات الأمن السيبراني", "Ministry of Digital", "nacsa.gov.my"]
+framework: explainer
 ---
 
 تحمل هيئتان حكوميتان ماليزيتان عبارة «الأمن السيبراني» في اسميهما، والناس يوجّهون الأمر الخطأ إلى الجهة الخطأ طوال الوقت — سؤال ترخيص إلى الخط الساخن للحوادث، وبلاغ عن حساب مخترَق إلى وكالة السياسة. فالاسمان يبدوان قابلين للتبادل. أما وظيفتاهما فلا.

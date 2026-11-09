@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "ssm" }
 related: ["federal-constitution", "imigresen", "lhdn", "ssm"]
 keywords: ["JPN", "Jabatan Pendaftaran Negara", "National Registration Department", "MyKad", "MyKid", "MyPR", "sijil kelahiran", "pendaftaran kematian", "perkahwinan sivil", "kewarganegaraan"]
+framework: profile
 ---
 
 每一位马来西亚公民在JPN都有一份档案，从他还不会说话之前就已开立，直到他去世之后

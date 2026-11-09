@@ -125,6 +125,7 @@ wikidata: "Q4294352"
 relations: []
 related: []
 keywords: ["Malaysia public healthcare system", "Ministry of Health Malaysia", "MOH", "KKM", "klinik kesihatan", "government hospital Malaysia", "RM1 clinic fee", "public hospital fees Malaysia", "PeKa B40", "universal healthcare Malaysia", "healthcare in Malaysia", "Malaysia two-tier health system"]
+framework: explainer
 ---
 
 Melangkah masuk ke klinik pemerintah Malaysia dan tagihan di loket hampir tidak ada — **RM1** untuk pendaftaran pasien rawat jalan umum. Itu bukan sedekah — itu rancangan. Malaysia menjalankan **sistem perawatan kesehatan dua jenjang**: layanan publik yang dikelola pemerintah di bawah **Kementerian Kesehatan (MOH, *Kementerian Kesihatan Malaysia*, KKM)** di samping sektor swasta yang besar. Bagian publik **dibiayai sepenuhnya oleh pajak umum, tanpa iuran asuransi nasional wajib**, jadi perawatan disampaikan dengan biaya nominal yang disubsidi tinggi dan bukan premi. Model itu telah menghasilkan akses hampir universal dengan porsi pendapatan negara yang sederhana — tetapi ia kini membawa beban biaya rumah tangga yang meningkat serta tekanan pasokan yang nyata. Panduan ini menjelaskan, dalam istilah sederhana, cara Anda mengakses sistem ini, berapa biayanya, siapa yang dilindunginya, dan di mana ia tertekan.

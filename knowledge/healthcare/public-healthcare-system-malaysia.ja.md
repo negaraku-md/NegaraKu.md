@@ -124,6 +124,7 @@ wikidata: "Q4294352"
 relations: []
 related: []
 keywords: ["Malaysia public healthcare system", "Ministry of Health Malaysia", "MOH", "KKM", "klinik kesihatan", "government hospital Malaysia", "RM1 clinic fee", "public hospital fees Malaysia", "PeKa B40", "universal healthcare Malaysia", "healthcare in Malaysia", "Malaysia two-tier health system"]
+framework: explainer
 ---
 
 マレーシアの政府クリニックに足を踏み入れると、窓口での支払いはほとんどゼロに近い——一般外来登録で**RM1**である。これは慈善ではなく、制度設計である。マレーシアは**二層構造の医療制度**を運用している。**保健省（MOH、*Kementerian Kesihatan Malaysia*、KKM）**が管理する政府運営の公共サービスと、規模の大きい民間セクターが並存する構造である。公共側は**一般税収のみで財源が賄われ、強制的な国民保険料の拠出はない**ため、医療は保険料ではなく、大幅に補助された名目料金で提供される。このモデルは、国民所得に占める割合が控えめな中で、ほぼ全国民への医療アクセスを実現してきた——しかし今や、家庭の費用負担の増大と、実際の供給圧力を抱えている。本ガイドでは、この制度をどのように利用するか、費用はいくらか、誰が対象となるか、そしてどこに無理が生じているかを、平易な言葉で説明する。

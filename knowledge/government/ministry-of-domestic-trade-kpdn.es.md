@@ -79,6 +79,7 @@ wikidata: "Q12689906"
 relations: []
 related: []
 keywords: ["KPDN", "Ministry of Domestic Trade and Cost of Living", "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup", "KPDN aduan", "Price Control and Anti-Profiteering Act 2011", "Akta Kawalan Harga", "Ez ADU KPDN", "TTPM tribunal tuntutan pengguna", "KPDN hotline", "kawalan harga barang", "consumer protection Malaysia", "Armizan Mohd Ali", "SSM MyIPO MyCC", "Ops Pantau KPDN"]
+framework: profile
 ---
 
 Cuando un comerciante te cobra de más por el aceite de cocina, vende un artículo controlado por encima de su precio máximo o se niega a responder por un producto defectuoso, el organismo federal cuyo trabajo es actuar en tu favor es **KPDN** — el **Ministerio de Comercio Interior y Coste de Vida** (*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*). Desarrolla el comercio interior, mantiene a raya los precios de los esenciales cotidianos y protege a los consumidores, respaldado por leyes reales, canales de reclamación activos y un tribunal de pequeñas reclamaciones concebido para los compradores comunes.

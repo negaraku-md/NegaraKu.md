@@ -81,6 +81,7 @@ wikidata: "Q4294352"
 relations: []
 related: []
 keywords: ["Ministry of Health Malaysia", "وزارة الصحة الماليزية", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "وزير الصحة الماليزي", "Director-General of Health", "المدير العام للصحة", "klinik kesihatan", "moh.gov.my", "الرعاية الصحية العامة ماليزيا", "Dzulkefly Ahmad", "رسم العيادة RM1"]
+framework: profile
 ---
 
 حين تدخل عيادة حكومية ماليزية، وتسلّم ورقة من فئة RM1، وتخرج وقد غُطّيت استشارتك

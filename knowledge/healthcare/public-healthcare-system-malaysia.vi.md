@@ -125,6 +125,7 @@ wikidata: "Q4294352"
 relations: []
 related: []
 keywords: ["Malaysia public healthcare system", "Ministry of Health Malaysia", "MOH", "KKM", "klinik kesihatan", "government hospital Malaysia", "RM1 clinic fee", "public hospital fees Malaysia", "PeKa B40", "universal healthcare Malaysia", "healthcare in Malaysia", "Malaysia two-tier health system"]
+framework: explainer
 ---
 
 Bước vào một phòng khám nhà nước của Malaysia và hóa đơn tại quầy gần như bằng không — **RM1** cho đăng ký khám ngoại trú tổng quát. Đó không phải là từ thiện — đó là thiết kế. Malaysia vận hành một **hệ thống y tế hai tầng**: một dịch vụ công do nhà nước điều hành được **Bộ Y tế (MOH, *Kementerian Kesihatan Malaysia*, KKM)** quản lý bên cạnh một khu vực tư nhân lớn. Phía công được **tài trợ hoàn toàn bằng thuế chung, không có các khoản đóng góp bảo hiểm quốc gia bắt buộc**, nên việc chăm sóc được cung cấp với các khoản phí danh nghĩa, được trợ giá nhiều thay vì phí bảo hiểm. Mô hình đó đã tạo ra sự tiếp cận gần như phổ quát với một tỷ trọng khiêm tốn của thu nhập quốc gia — nhưng nay nó mang một gánh nặng chi phí hộ gia đình đang tăng và những áp lực thực sự về nguồn cung. Hướng dẫn này giải thích, bằng ngôn ngữ giản dị, cách bạn tiếp cận hệ thống, chi phí của nó, ai được bao phủ, và nó đang căng thẳng ở đâu.

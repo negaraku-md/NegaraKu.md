@@ -110,6 +110,7 @@ relations:
   - { rel: "compares-with", to: "investment-agency-directory" }
 related: ["economic-corridors-compared", "js-sez-guide", "ncer-guide", "ecer-guide", "sarawak-business-guide", "investment-agency-directory", "iskandar-malaysia-guide", "manufacturing-licence-malaysia"]
 keywords: ["state investment agency malaysia", "invest selangor nol", "investpenang no objection letter", "ncia ncer", "ecerdc", "sedia sabah", "recoda score", "irda iskandar", "investkl mida"]
+framework: explainer
 ---
 
 The agency everyone tells you to call first usually cannot approve the thing you need. That is not a criticism of the agencies — it is how the architecture is built. Malaysia's investment approvals are federal. The states promote, facilitate, and hold exactly one card.

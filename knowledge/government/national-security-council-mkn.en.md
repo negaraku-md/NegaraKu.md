@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: ["federal-constitution", "yang-di-pertuan-agong"]
 keywords: ["Majlis Keselamatan Negara", "MKN", "Akta 776", "kawasan keselamatan", "Perkara 150", "darurat", "kuasa keselamatan negara"]
+framework: profile
 ---
 
 When the Malaysian government needs to respond swiftly to a security threat, two distinct legal frameworks are often mentioned in the same breath: the National Security Council (MKN) and constitutional emergency powers. Both relate to national security, but they arise from different legal sources and carry different conditions. This article explains both neutrally and on the basis of the legal text.

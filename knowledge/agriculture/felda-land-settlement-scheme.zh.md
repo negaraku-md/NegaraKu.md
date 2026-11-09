@@ -89,6 +89,7 @@ relations:
   - { rel: "governs", to: "group-settlement-areas-act-1960" }
 related: []
 keywords: ["FELDA", "peneroka", "penempatan tanah", "kelapa sawit", "FGV Holdings", "Akta Tanah 1960", "kemiskinan luar bandar"]
+framework: profile
 ---
 
 想象一个贫困家庭被迁往一片刚被砍伐的森林，获分一块土地和一份月薪，然后被要求等上数年，直到他们的橡胶或油棕树成熟。这正是那份改变了马来西亚十多万乡村家庭生活的安排——而它的引擎就是FELDA。

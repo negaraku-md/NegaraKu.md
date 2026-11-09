@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["gdp-overview", "inflation-cpi", "unemployment-labour-force", "external-trade"]
 keywords: ["DOSM", "Jabatan Perangkaan Malaysia", "Department of Statistics Malaysia", "OpenDOSM", "Advance Release Calendar", "Malaysia official statistics"]
+framework: profile
 ---
 
 Hampir setiap angka ekonomi Malaysia yang pernah Anda baca — tingkat

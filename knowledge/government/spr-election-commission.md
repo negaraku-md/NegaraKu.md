@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "majlis-raja-raja" }
 related: ["three-tiers-of-government", "federal-constitution", "parliament", "dewan-rakyat", "yang-di-pertuan-agong", "majlis-raja-raja"]
 keywords: ["Suruhanjaya Pilihan Raya", "SPR", "Election Commission", "Perkara 113", "Perkara 114", "Perlembagaan Persekutuan", "persempadanan semula", "daftar pemilih", "Jadual Ketiga Belas"]
+framework: profile
 ---
 
 Badan yang mengendalikan pilihan raya di Malaysia tidak diwujudkan oleh sesuatu akta biasa, dan tidak boleh dibubarkan oleh sesuatu akta biasa. Ia diperuntukkan terus dalam Perlembagaan Persekutuan — dan dua Perkara, iaitu 113 dan 114, menetapkan apa yang boleh dilakukannya dan siapa yang boleh menganggotainya.

@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution"]
 keywords: ["برلمان ماليزيا", "Parliament of Malaysia", "مجلس النواب", "Dewan Rakyat", "مجلس الشيوخ", "Dewan Negara", "الهيئة التشريعية الماليزية", "Parlimen Malaysia"]
+framework: profile
 ---
 
 ## في لمحة

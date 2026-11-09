@@ -86,6 +86,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 詐欺における最悪の瞬間は、それが詐欺だったと気づいた直後である――資金が口座から出ていき、どうすればよいか、誰に電話すればよいか分からないときだ。マレーシアでは、その問いに対する唯一の答えがある。すなわち**997に電話する**ことだ。その番号は**国家詐欺対応センター（National Scam Response Centre、NSRC）**につながり、素早く電話することが、まさに文字どおり、資金を取り戻す最善の機会である。

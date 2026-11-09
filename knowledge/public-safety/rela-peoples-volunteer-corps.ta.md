@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "jabatan-imigresen-malaysia" }
 related: []
 keywords: ["RELA", "Pasukan Sukarelawan Malaysia", "Ikatan Relawan Rakyat", "Akta 752", "Akta Pasukan Sukarelawan Malaysia 2012", "PATI", "sukarelawan keselamatan"]
+framework: profile
 ---
 
 ஒரு பேரணி அல்லது பேரிடர் வேளையில் சீருடையணிந்து போக்குவரத்தை நெறிப்படுத்துபவர்களாக நீங்கள் அவர்களைப் பார்த்திருக்கலாம் — ஆனால் ஒரு RELA உறுப்பினர் சட்டப்படி உண்மையில் என்ன செய்ய முடியும், என்ன செய்ய முடியாது?

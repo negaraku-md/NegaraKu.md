@@ -75,6 +75,7 @@ wikidata: "Q7374434"
 relations: []
 related: []
 keywords: ["RMCD", "Royal Malaysian Customs Department", "Jabatan Kastam Diraja Malaysia", "JKDM", "Kastam Malaysia", "SST Malaysia", "sales and service tax", "import duty Malaysia", "customs clearance Malaysia", "MySST", "uCustoms", "excise duty Malaysia", "service tax registration"]
+framework: profile
 ---
 
 식당 계산서에 세금을 낼 때, 소포를 통관할 때, 수입 엔진으로 만든 자동차에 연료를 채울 때마다 그 부과 뒤에는 한 부처가 있습니다. 바로 **말레이시아 왕립관세청(RMCD)** — *Jabatan Kastam Diraja Malaysia*(JKDM), 흔히 *Kastam*이라 불리는 곳입니다. 이곳은 **재무부(Ministry of Finance)** 산하 정부 부처로서 간접세 징수, 무역 촉진, 관세법 집행을 담당하며, 말레이시아의 주요 간접세 징수 기관입니다.

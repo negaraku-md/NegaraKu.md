@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "malaysia-rice-industry" }
 related: []
 keywords: ["MARDI", "agricultural research", "rice varieties", "MR 297", "KADARIA", "SMART SBB", "Malaysia agriculture", "padi"]
+framework: profile
 ---
 
 马来西亚几乎每一碗本地米饭，都可以追溯到某个在 MARDI 试验站培育出来的品种。在这个国家的水稻、家禽、热带水果与加工食品货架背后，坐镇着一家联邦研究院，它的使命就是把科学转化为更高的产量。

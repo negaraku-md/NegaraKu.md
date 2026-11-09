@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "higher-education-in-malaysia" }
 related: []
 keywords: ["MQA", "MQA accreditation", "Malaysian Qualifications Framework", "MQF", "MQR", "degree recognition Malaysia", "provisional accreditation", "full accreditation"]
+framework: profile
 ---
 
 Hai sinh viên tốt nghiệp với một diploma nghe giống nhau. Một người đủ tư cách cho một công việc chính phủ và một suất thạc sĩ; người kia bị từ chối ngay trước cửa. Sự khác biệt thường là một dòng duy nhất trong một sổ đăng ký công khai: liệu Cơ quan Kiểm định Malaysia có kiểm định chương trình hay không.

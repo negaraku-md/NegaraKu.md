@@ -79,6 +79,7 @@ wikidata: "Q113543393"
 relations: []
 related: []
 keywords: ["JPDP", "Jabatan Perlindungan Data Peribadi", "Personal Data Protection Department", "PDPA Malaysia", "Personal Data Protection Act 2010", "Act 709", "data controller registration Malaysia", "Personal Data Protection Commissioner", "pdp.gov.my", "PDPA Amendment Act 2024", "data breach notification Malaysia", "DPO Malaysia", "Suruhanjaya Perlindungan Data Peribadi", "SPDP daftar"]
+framework: profile
 ---
 
 Almost every guide to Malaysian data privacy explains the *law*. Far fewer explain the *office that runs it*. That office is the **Personal Data Protection Department** — *Jabatan Perlindungan Data Peribadi* (**JPDP**) — established on **16 May 2011** after Parliament passed the Personal Data Protection Act 2010 (Act 709). It operates as an agency under the Digital Ministry, and its job is to assist the **Personal Data Protection Commissioner** in enforcing that Act. This is the department a Malaysian business registers with, and the one an ordinary citizen complains to.

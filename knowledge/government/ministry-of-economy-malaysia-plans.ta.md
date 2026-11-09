@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["malaysia-plans", "dosm", "federal-budget"]
 keywords: ["Kementerian Ekonomi", "Ministry of Economy Malaysia", "Unit Perancang Ekonomi", "EPU", "Rancangan Malaysia", "perancangan pembangunan", "DOSM", "Jawatankuasa Perancang Pembangunan Negara"]
+framework: profile
 ---
 
 நாட்டின் ஐந்தாண்டு வளர்ச்சித் திட்டத்தைச் சமர்ப்பிக்க பிரதமர் மக்கள் மன்றத்தில்

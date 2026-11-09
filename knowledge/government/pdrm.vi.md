@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "kehakiman-mahkamah" }
 related: ["federal-constitution", "macc-sprm", "kehakiman-mahkamah", "imigresen", "yang-di-pertuan-agong"]
 keywords: ["PDRM", "Polis Diraja Malaysia", "Royal Malaysia Police", "Akta Polis 1967", "Akta 344", "Ketua Polis Negara", "Inspector General of Police", "Suruhanjaya Pasukan Polis", "Perkara 140"]
+framework: profile
 ---
 
 Hầu hết các mô tả về PDRM dừng lại ở cụm từ "lực lượng cảnh sát quốc gia". Câu hỏi hữu

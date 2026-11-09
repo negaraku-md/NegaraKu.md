@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "digital-free-trade-zone" }
 related: ["lhdn", "sst-explained", "sst-registration", "sales-tax-explained", "anti-dumping-countervailing-duties"]
 keywords: ["RMCD", "Kastam", "Jabatan Kastam Diraja Malaysia", "customs duty Malaysia", "SST Customs", "excise duty Malaysia"]
+framework: profile
 ---
 
 两个机构，一个部门，还有一条几乎没有人第一次就能划对的界线。如果那项税

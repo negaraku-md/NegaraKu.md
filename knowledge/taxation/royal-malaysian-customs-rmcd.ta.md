@@ -75,6 +75,7 @@ wikidata: "Q7374434"
 relations: []
 related: []
 keywords: ["RMCD", "Royal Malaysian Customs Department", "Jabatan Kastam Diraja Malaysia", "JKDM", "Kastam Malaysia", "SST Malaysia", "sales and service tax", "import duty Malaysia", "customs clearance Malaysia", "MySST", "uCustoms", "excise duty Malaysia", "service tax registration"]
+framework: profile
 ---
 
 நீங்கள் ஒரு உணவகக் கட்டணத்தில் வரி செலுத்தும் ஒவ்வொரு முறையும், ஒரு பொதியைச் சுங்கம் வழியாக அனுமதி பெறச் செய்யும்போது, அல்லது இறக்குமதி செய்யப்பட்ட எஞ்சினில் கட்டப்பட்ட காரில் எரிபொருள் நிரப்பும்போது, அந்தக் கட்டணத்திற்குப் பின்னால் ஒரு துறை இருக்கிறது: **மலேசிய அரச சுங்கத் துறை (Royal Malaysian Customs Department, RMCD)** — *Jabatan Kastam Diraja Malaysia* (JKDM), பொதுவாக *Kastam* என்று அழைக்கப்படுகிறது. இது **நிதி அமைச்சின் (Ministry of Finance)** கீழுள்ள அரசாங்கத் துறையாகும், மறைமுக வரிகளைச் சேகரிப்பது, வர்த்தகத்தை எளிதாக்குவது மற்றும் சுங்கச் சட்டத்தை அமல்படுத்துவது ஆகியவற்றுக்குப் பொறுப்பானது, மேலும் இது நாட்டின் முதன்மை மறைமுக வரி சேகரிப்பாளர் ஆகும்.

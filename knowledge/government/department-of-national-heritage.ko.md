@@ -75,6 +75,7 @@ wikidata: "Q7354460"
 relations: []
 related: []
 keywords: ["Jabatan Warisan Negara", "JWN", "Department of National Heritage", "National Heritage Act 2005", "Act 645", "Warisan Kebangsaan", "National Heritage Register", "Commissioner of Heritage", "heritage.gov.my", "MOTAC", "gazette national heritage Malaysia", "Daftar Warisan Kebangsaan", "Warisan Orang Hidup"]
+framework: profile
 ---
 
 조지타운(George Town)의 한 상점가옥이 보호 명령을 받거나, *[막용(mak yong)](/arts-culture/mak-yong)* 무용수가 살아 있는 보물로 예우받을 때, 그 결정 뒤에는 하나의 연방 기관이 자리합니다. 바로 **국가유산청** — *Jabatan Warisan Negara*(**JWN**)입니다. **2006년 3월 1일**에 설립된 JWN은 말레이시아의 유산을 식별·보존·고시·보호하며, **문화관광부(Ministry of Tourism, Arts and Culture, MOTAC)** 소속으로 운영됩니다. JWN이 표방하는 비전은 국가 정체성을 확립하고 국가 경제를 창출하는 방향으로 유산이라는 보물을 탐구하고 보존하는 데 앞장서는 것입니다.

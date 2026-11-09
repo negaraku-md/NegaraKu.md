@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "state-assemblies-dun" }
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission"]
 keywords: ["الهيئات المحلية", "Pihak Berkuasa Tempatan", "PBT", "الحكومة المحلية", "kerajaan tempatan", "قانون الحكومة المحلية 1976", "Akta 171", "مجلس المدينة", "Majlis Bandaraya", "المجلس البلدي", "Majlis Perbandaran", "مجلس المقاطعة", "Majlis Daerah", "Datuk Bandar", "Yang Dipertua", "عضو المجلس", "انتخابات الحكومة المحلية", "Athi Nahappan", "KPKT"]
+framework: profile
 ---
 
 إن مستوى الحكومة الأقرب إلى الحياة اليومية — ذاك الذي يتولى جمع القمامة وإنارة الشوارع ورخص الأعمال والموافقة على مخططات البناء ومعدلات التقدير — ليس الحكومة الاتحادية ولا حكومة الولاية، بل **الهيئة المحلية (Pihak Berkuasa Tempatan, PBT)**. ومع ذلك، وعلى خلاف [مجلس النواب (Dewan Rakyat)](/government/dewan-rakyat) و[المجلس التشريعي للولاية (Dewan Undangan Negeri)](/government/state-assemblies-dun) اللذين يُختار أعضاؤهما عبر الانتخابات، فإن أعضاء الهيئات المحلية اليوم **معيَّنون** لا **منتخبون**.

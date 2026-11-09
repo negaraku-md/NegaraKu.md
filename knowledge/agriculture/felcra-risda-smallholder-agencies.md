@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "mspo-palm-oil-certification" }
 related: ["felda-land-settlement-scheme", "rubber-industry"]
 keywords: ["FELCRA", "RISDA", "pekebun kecil", "penyatuan tanah", "pemulihan tanah", "tanam semula getah", "pembangunan luar bandar", "Akta 85"]
+framework: profile
 ---
 
 Dua agensi yang jarang disebut serentak, tetapi menyentuh nasib ratusan ribu keluarga desa: satu memulihkan tanah yang terbiar, satu lagi memastikan pokok getah lama diganti sebelum pendapatan pekebun terhenti. Itulah FELCRA dan RISDA.

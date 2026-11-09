@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysian-armed-forces-atm" }
 related: ["pdrm"]
 keywords: ["APMM", "MMEA", "pengawal pantai Malaysia", "penguatkuasaan maritim", "carian dan menyelamat", "Zon Maritim Malaysia", "Akta APMM 2004"]
+framework: profile
 ---
 
 เมื่อเรือลากจูงลำหนึ่งจมกลางช่องแคบมะละกา หรือชาวประมงต่างชาติล่วงล้ำเข้าน่านน้ำซาบาห์ (Sabah) หน่วยงานพลเรือนในเครื่องแบบสีน้ำเงินทะเลที่เคลื่อนตัวเข้าไปก่อน — ไม่ใช่ทหาร นั่นคือหน่วยงานบังคับใช้กฎหมายทางทะเลมาเลเซีย (APMM) หน่วยยามฝั่งของประเทศ

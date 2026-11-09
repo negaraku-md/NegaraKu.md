@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "malaysia-rice-industry" }
 related: []
 keywords: ["MARDI", "agricultural research", "rice varieties", "MR 297", "KADARIA", "SMART SBB", "Malaysia agriculture", "padi"]
+framework: profile
 ---
 
 ข้าวท้องถิ่นเกือบทุกชามในมาเลเซียสืบย้อนกลับไปถึงพันธุ์ที่ปรับปรุงขึ้นในสถานีทดลองภาคสนามของ MARDI เบื้องหลังชั้นวางข้าวเปลือก สัตว์ปีก ผลไม้เมืองร้อน และอาหารแปรรูปของประเทศ คือสถาบันระดับสหพันธรัฐแห่งหนึ่งที่มีหน้าที่เปลี่ยนวิทยาศาสตร์ให้กลายเป็นผลผลิตที่สูงขึ้น

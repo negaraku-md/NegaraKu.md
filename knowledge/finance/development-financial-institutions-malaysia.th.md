@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "islamic-banking-malaysia" }
 related: ["bank-negara-malaysia", "sme-financing-malaysia"]
 keywords: ["development financial institutions", "DFI Malaysia", "DFIA 2002", "Bank Pembangunan", "Bank Rakyat", "Agrobank", "SME Bank", "Bank Simpanan Nasional", "EXIM Bank", "Bank Negara Malaysia"]
+framework: profile
 ---
 
 เมื่อเกษตรกรมาเลเซียต้องการสินเชื่อระยะห้าปีเพื่อปลูกสวนปาล์มน้ำมันใหม่ หรือผู้ส่งออกต้องการตะกาฟุลสินเชื่อ (credit takaful) เพื่อขายเข้าสู่ตลาดชายขอบ ธนาคารพาณิชย์มักปฏิเสธ ช่องว่างนั้นเองคือสิ่งที่สถาบันการเงินเพื่อการพัฒนาของมาเลเซียมีอยู่เพื่อเติมเต็ม

@@ -71,6 +71,7 @@ wikidata: "Q113541603"
 relations: []
 related: []
 keywords: ["HRD Corp", "HRDF", "HRD levy", "Pembangunan Sumber Manusia Berhad", "PSMB Act 2001", "HRDF registration", "HRD Corp claim", "HRD levy 1%", "HRD Corp claimable courses", "human resource development fund Malaysia", "HRDF levy calculation", "Akta 612"]
+framework: profile
 ---
 
 貴社がマレーシアで給与計算を行っている場合、給与台帳の一行に **人材開発公社（HRD Corp）への1%の賦課金** と記載されているかもしれない——そしてEPF（従業員積立基金（KWSP））やSOCSO（社会保障機構（PERKESO））とは異なり、これは従業員に支払われる給付ではない。これは*使用者*が納付し、その後申請して取り戻す訓練予算である。この循環を理解することが、賦課金を税金として扱うか、本来の目的どおりに活用するかの違いを生む。

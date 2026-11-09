@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "islamic-finance" }
 related: ["article-3-religion", "federal-state-division", "civil-and-syariah-courts", "majlis-raja-raja"]
 keywords: ["JAKIM", "Jabatan Kemajuan Islam Malaysia", "Department of Islamic Development Malaysia", "मलेशियाई इस्लामी विकास विभाग", "MKI", "हलाल प्रमाणन", "halal", "इस्लामी मामले", "स्यारक कानून", "प्रधानमंत्री विभाग"]
+framework: profile
 ---
 
 JAKIM का नाम सबसे अधिक खाद्य पैकेजिंग पर छपे हलाल लोगो पर दिखता है। परंतु

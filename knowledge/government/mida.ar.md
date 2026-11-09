@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "state-investment-agencies" }
 related: ["manufacturing-licence-malaysia", "new-incentive-framework", "tax-incentives-directory", "investment-agency-directory", "state-investment-agencies", "mdec-digital-status"]
 keywords: ["MIDA", "الهيئة الماليزية لتنمية الاستثمار", "Malaysian Investment Development Authority", "MIDA vs MITI", "وكالة ترويج الاستثمار في ماليزيا", "ترخيص التصنيع في ماليزيا MIDA", "مركز تيسير الاستثمار في ماليزيا", "Invest Malaysia Facilitation Centre"]
+framework: profile
 ---
 
 كل مستثمر أجنبي يتعامل في نهاية المطاف مع MIDA. وقليل جدًا منهم يُخبَرون، في

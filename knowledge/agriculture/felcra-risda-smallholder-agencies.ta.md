@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "mspo-palm-oil-certification" }
 related: ["felda-land-settlement-scheme", "rubber-industry"]
 keywords: ["FELCRA", "RISDA", "pekebun kecil", "penyatuan tanah", "pemulihan tanah", "tanam semula getah", "pembangunan luar bandar", "Akta 85"]
+framework: profile
 ---
 
 ஒன்றாக அரிதாகவே குறிப்பிடப்படும் இரண்டு நிறுவனங்கள், ஆனால் இரண்டும் லட்சக்கணக்கான கிராமப்புறக் குடும்பங்களின் வாழ்வாதாரத்தைத் தொடுபவை: ஒன்று தரிசு நிலத்தை மீட்டெடுக்கிறது, மற்றொன்று சிறுதோட்டக்காரர்களின் வருமானம் வற்றிப்போகும் முன் பழைய ரப்பர் மரங்கள் மாற்றப்படுவதை உறுதி செய்கிறது. அதுதான் FELCRA மற்றும் RISDA.

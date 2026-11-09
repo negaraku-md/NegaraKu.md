@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "solar-atap-malaysia" }
 related: []
 keywords: ["SEDA", "Sustainable Energy Development Authority", "feed-in tariff", "NEM", "Solar ATAP", "KWTBB", "tenaga boleh baharu", "PETRA"]
+framework: profile
 ---
 
 தீபகற்பத்தில் நீங்கள் மின்சாரக் கட்டணத்தைச் செலுத்தும் ஒவ்வொரு முறையும், அதில் ஒரு சிறிய பகுதி நீங்கள் ஒருபோதும் கேள்விப்பட்டிராத ஒரு சட்டப்பூர்வ அமைப்பை நோக்கிப் பாய்கிறது — உங்கள் கூரையில் உள்ள சூரிய சக்தி மதிப்புமிக்கதா இல்லையா என்பதைத் தீர்மானிப்பது அந்த அமைப்பேதான்.

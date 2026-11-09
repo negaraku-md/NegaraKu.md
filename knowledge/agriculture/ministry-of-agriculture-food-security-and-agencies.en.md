@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "kementerian-kemajuan-desa-dan-wilayah" }
 related: []
 keywords: ["KPKM", "Kementerian Pertanian dan Keterjaminan Makanan", "Ministry of Agriculture and Food Security", "DOA", "DVS", "DOF", "FAMA", "MARDI", "LPP", "LKIM", "BERNAS", "agensi pertanian Malaysia"]
+framework: profile
 ---
 
 When an imported cow needs to be quarantined, a sack of padi seed needs to be

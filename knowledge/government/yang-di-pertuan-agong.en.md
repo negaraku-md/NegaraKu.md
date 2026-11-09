@@ -86,6 +86,7 @@ keywords:
   - "kuasa budi bicara Yang di-Pertuan Agong"
   - "Perkara 40 Perlembagaan Persekutuan"
   - "raja berperlembagaan Malaysia"
+framework: profile
 ---
 
 Most monarchies in the world answer one and the same question in one and the same way:

@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "dewan-rakyat"]
 keywords: ["SPR", "Suruhanjaya Pilihan Raya", "Akta Pilihan Raya 1958", "Akta Kesalahan Pilihan Raya 1954", "persempadanan", "Perlembagaan Persekutuan", "Perkara 113", "Perkara 114"]
+framework: profile
 ---
 
 每当国会解散、国家迈向大选时，总有同一个机构充当裁判：选举委员会。它决定日期、审查选民册、主持提名日与投票日，并宣布结果。然而它的权力与界限并非来自任何执政的政府，而是来自《联邦宪法》本身。

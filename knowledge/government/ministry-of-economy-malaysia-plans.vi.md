@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["malaysia-plans", "dosm", "federal-budget"]
 keywords: ["Kementerian Ekonomi", "Ministry of Economy Malaysia", "Unit Perancang Ekonomi", "EPU", "Rancangan Malaysia", "perancangan pembangunan", "DOSM", "Jawatankuasa Perancang Pembangunan Negara"]
+framework: profile
 ---
 
 Mỗi lần Thủ tướng đứng lên tại Dewan Rakyat để trình kế hoạch phát triển năm năm của quốc gia, tài liệu dày trong tay ông không tự nhiên xuất hiện. Nó được soạn trong nhiều năm bởi một bộ mà hầu hết người dân ít khi để ý — Bộ Kinh tế. Và bản thân bộ đó là mới trong hình thái hiện tại của nó, dù công việc nó thực hiện đã bắt đầu từ trước khi độc lập hoàn toàn.

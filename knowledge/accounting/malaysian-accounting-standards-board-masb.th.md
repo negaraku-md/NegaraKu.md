@@ -74,6 +74,7 @@ wikidata: "Q141851366"
 relations: []
 related: []
 keywords: ["MASB", "Malaysian Accounting Standards Board", "MFRS", "MPERS", "Financial Reporting Act 1997", "approved accounting standards Malaysia", "MFRS framework", "Financial Reporting Foundation", "IFRS Malaysia", "MFRS 18", "private entity reporting standard", "MASB standards force of law"]
+framework: profile
 ---
 
 เมื่อบริษัทในมาเลเซียลงนามรับรองบัญชีของตน กฎที่บริษัทต้องปฏิบัติตามไม่ได้เขียนโดยผู้สอบบัญชี สำนักงานภาษี หรือตลาดหลักทรัพย์ แต่เขียนโดย **คณะกรรมการมาตรฐานการบัญชีมาเลเซีย (MASB)** และซึ่งเป็นเรื่องไม่ปกติ กฎเหล่านั้นมีผลบังคับตามกฎหมาย

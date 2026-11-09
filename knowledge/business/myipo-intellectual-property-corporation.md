@@ -79,6 +79,7 @@ wikidata: "Q12698635"
 relations: []
 related: []
 keywords: ["MyIPO", "Intellectual Property Corporation of Malaysia", "Perbadanan Harta Intelek Malaysia", "trademark registration Malaysia", "patent registration Malaysia", "MyIPO trademark fees", "Trademarks Act 2019", "copyright Malaysia", "industrial design Malaysia", "geographical indication Malaysia", "IP registration Malaysia", "MyIPO online filing"]
+framework: profile
 ---
 
 If you have invented something, built a brand, designed a product or want to protect a regional speciality in Malaysia, there is one door for almost all of it — and it is easy to be sent to the wrong service by a page trying to sell you a single one. **MyIPO**, the Intellectual Property Corporation of Malaysia (Malay: *Perbadanan Harta Intelek Malaysia*), is the statutory agency responsible for developing and administering Malaysia's whole intellectual-property system. That spans industrial property — patents, trademarks, industrial designs and layout-designs of integrated circuits — as well as copyright and related rights.

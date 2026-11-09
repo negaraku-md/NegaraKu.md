@@ -75,6 +75,7 @@ wikidata: "Q4294304"
 relations: []
 related: []
 keywords: ["KDN", "Kementerian Dalam Negeri", "وزارة الداخلية الماليزية", "Ministry of Home Affairs Malaysia", "MOHA", "وكالات KDN", "أقسام KDN", "وزير الداخلية الماليزي", "وظائف KDN", "JPN", "Jabatan Imigresen", "PDRM", "AKPS", "Registry of Societies", "مجلس الرقابة على الأفلام"]
+framework: profile
 ---
 
 حين يجدّد ماليزي جواز سفر، وحين تنفّذ الشرطة اعتقالًا، وحين يُدقَّق تصريح عامل

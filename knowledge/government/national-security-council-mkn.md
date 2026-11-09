@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: ["federal-constitution", "yang-di-pertuan-agong"]
 keywords: ["Majlis Keselamatan Negara", "MKN", "Akta 776", "kawasan keselamatan", "Perkara 150", "darurat", "kuasa keselamatan negara"]
+framework: profile
 ---
 
 Apabila kerajaan Malaysia perlu bertindak balas dengan pantas terhadap ancaman keselamatan, dua rangka undang-undang yang berbeza sering disebut dalam nafas yang sama: Majlis Keselamatan Negara (MKN) dan kuasa darurat perlembagaan. Kedua-duanya berkait dengan keselamatan negara, tetapi berpunca daripada sumber undang-undang yang berlainan dan mempunyai syarat yang berbeza. Artikel ini menerangkan kedua-duanya secara neutral dan berdasarkan teks undang-undang.

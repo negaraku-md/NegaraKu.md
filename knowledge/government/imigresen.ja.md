@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "rmcd-kastam" }
 related: ["moving-to-malaysia-first-steps", "work-passes-malaysia", "employment-pass-malaysia", "hiring-foreign-workers-malaysia", "foreign-worker-levy-malaysia", "jpn", "rmcd-kastam"]
 keywords: ["Jabatan Imigresen Malaysia", "JIM", "imigresen", "pasport Malaysia", "visa Malaysia", "pas lawatan sosial", "Permit Masuk", "ESD", "MDAC", "imi.gov.my"]
+framework: profile
 ---
 
 マレーシアの国境を越えるすべての人——パスポートを更新する国民、到着する旅行者、働く駐在員——は、同じ一つの部門を通る。しかし、そこが発給する文書は互いに混同されがちであり、その混同こそが移民に関する問題の大半の原因である。

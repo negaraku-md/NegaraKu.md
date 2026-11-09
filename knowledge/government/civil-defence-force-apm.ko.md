@@ -72,6 +72,7 @@ related: []
 keywords: ["APM", "Angkatan Pertahanan Awam Malaysia", "Civil Defence Force", "JPAM", "disaster response Malaysia", "Civil Defence Act 1951", "search and rescue Malaysia", "flood relief Malaysia", "NADMA", "civil defence volunteers"]
 social:
   hashtags: ["APM", "CivilDefence", "DisasterResponse", "Malaysia", "SAR"]
+framework: profile
 ---
 
 몬순마다 말레이시아 동해안에 물이 차오를 때, 고립된 가족에게 닿으려 물속을 헤치며 나아가는 주황색 제복의 인력은 대개 **APM** 소속입니다. **말레이시아 민방위군** — *Angkatan Pertahanan Awam Malaysia*, 즉 **APM** — 은 민방위와 재난 대응을 담당하는 연방 제복 기관입니다: 홍수 구호, 탐색구조, 인도적 지원, 그리고 대규모 공공 행사에서의 안전 지원. 그것은 **민방위법 1951(Civil Defence Act 1951, Act 221)**과, 2015년 이후 **총리실** 아래에서 운영되며, 이 나라에서 가장 큰 훈련된 의용대 풀의 하나 위에 세워져 있습니다.

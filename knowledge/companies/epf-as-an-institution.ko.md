@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["epf-as-investor", "khazanah", "pnb", "bursa-malaysia"]
 keywords: ["KWSP", "EPF", "dana persaraan", "pelabur institusi", "dividen KWSP", "Akta KWSP 1991", "simpanan pekerja"]
+framework: profile
 ---
 
 말레이시아의 민간 부문 근로자가 급여명세서를 받을 때마다, 그 소득의 일부는 현재 RM1.25조 이상을 보유한 하나의 기관으로 흘러들어갑니다. 그것이 바로 직원공제기금(Kumpulan Wang Simpanan Pekerja), 즉 KWSP입니다.

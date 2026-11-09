@@ -76,6 +76,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
 related: []
 keywords: ["FAMA", "संघीय कृषि विपणन प्राधिकरण", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Act 141", "किसान बाज़ार", "My Farm Outlet", "Agrobazaar", "कृषि विपणन", "fama.gov.my"]
+framework: profile
 ---
 
 [कैमरन हाइलैंड्स](/tourism/cameron-highlands-visitor-guide) का एक सब्ज़ी किसान भले ही बेहतरीन उपज उगाए, फिर भी

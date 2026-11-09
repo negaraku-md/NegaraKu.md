@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["miti", "matrade"]
 keywords: ["Wisma Putra", "Ministry of Foreign Affairs Malaysia", "Kementerian Luar Negeri", "kln.gov.my", "Malaysian embassies", "consular assistance Malaysia", "Malaysian high commissions", "Malaysia foreign policy"]
+framework: profile
 ---
 
 Ketika seorang warga negara Malaysia terdampar di luar negeri, ketika Malaysia

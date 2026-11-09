@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["gdp-overview", "inflation-cpi", "unemployment-labour-force", "external-trade"]
 keywords: ["DOSM", "Jabatan Perangkaan Malaysia", "Department of Statistics Malaysia", "OpenDOSM", "Advance Release Calendar", "Malaysia official statistics"]
+framework: profile
 ---
 
 Presque tout chiffre économique malaisien que vous lirez un jour — le taux de croissance que cite un ministre, le chiffre de l'inflation dans un titre de presse, le taux de chômage dans la note de recherche d'une banque — naît dans le même bâtiment de Putrajaya. Savoir comment fonctionne ce bâtiment vous fait passer de quelqu'un qui répète des chiffres à quelqu'un qui peut les vérifier.

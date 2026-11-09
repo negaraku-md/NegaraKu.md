@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "national-scam-response-centre-nsrc" }
 related: ["pdrm"]
 keywords: ["CCID", "Jabatan Siasatan Jenayah Komersil", "JSJK", "PDRM", "jenayah komersil", "penipuan dalam talian", "Semak Mule", "NSRC", "997"]
+framework: profile
 ---
 
 ทุกครั้งที่มีคนอ่านคำว่า "โทร 997" หลังจากถูกหลอกเอาเงินไป กองของ PDRM ที่อยู่แนวหน้าในการต่อต้านการฉ้อโกงนั้นคือ CCID กองสืบสวนอาชญากรรมเชิงพาณิชย์ — ในภาษาอังกฤษคือ Commercial Crime Investigation Department — เป็นหน่วยของสำนักงานตำรวจแห่งชาติมาเลเซียที่ไล่ล่าอาชญากรคอปกขาว: ผู้ที่ขโมยด้วยเล่ห์กล ไม่ใช่ด้วยการข่มขู่ด้วยความรุนแรง

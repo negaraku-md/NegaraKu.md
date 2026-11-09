@@ -71,6 +71,7 @@ keywords:
   - "Attorney General's Chambers"
   - "Peguam Negara"
   - "right of audience Attorney General"
+framework: profile
 ---
 
 대부분의 공직은 의회(Parliament)가 다시 쓸 수 있는 법률에 의해 규정됩니다. 연방 법무장관(Attorney General for the Federation)의 직위는 그런 것이 아닙니다. 그것은 연방헌법(Federal Constitution) 그 자체에, 단 하나의 조문 — 제145조 — 에 명시되어 있으며, 그 조문은 누가 그 직위를 채우는지, 그것이 무엇을 해야 하는지, 그리고 헌법이 그 보유자 자신의 재량에 맡긴 하나의 권한을 규정합니다.

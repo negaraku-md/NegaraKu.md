@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysian-armed-forces-atm" }
 related: ["pdrm"]
 keywords: ["APMM", "MMEA", "pengawal pantai Malaysia", "penguatkuasaan maritim", "carian dan menyelamat", "Zon Maritim Malaysia", "Akta APMM 2004"]
+framework: profile
 ---
 
 மலாக்கா நீரிணையின் நடுவில் ஒரு இழுவைப் படகு மூழ்கும்போது அல்லது வெளிநாட்டு மீனவர்கள் சபா நீர்ப்பரப்பில் ஊடுருவும்போது, முதலில் நகர்வது கடல் நீல நிற சீருடை அணிந்த ஒரு சிவிலியன் முகமை — இராணுவம் அல்ல. அதுதான் மலேசிய கடல்சார் அமல்படுத்தல் முகமை (APMM), நாட்டின் கடலோரக் காவல்படை.

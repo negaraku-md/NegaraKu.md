@@ -63,6 +63,7 @@ relations:
   - { rel: "compares-with", to: "dewan-rakyat" }
 related: ["parliament", "federal-constitution", "dewan-rakyat", "yang-di-pertuan-agong"]
 keywords: ["Dewan Negara", "Senat Malaysia", "senator Malaysia", "Perkara 45 Perlembagaan Persekutuan", "Perkara 68", "Jadual Ketujuh", "pelantikan senator", "kuasa menangguh"]
+framework: profile
 ---
 
 # 上议院（Dewan Negara）：上议员如何获得委任，以及本院为何延搁而非否决

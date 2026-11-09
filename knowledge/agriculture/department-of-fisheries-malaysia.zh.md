@@ -76,6 +76,7 @@ wikidata: "Q113542338"
 relations: []
 related: []
 keywords: ["Department of Fisheries Malaysia", "DOF", "Jabatan Perikanan Malaysia", "Fisheries Act 1985", "fishing licence Malaysia", "aquaculture Malaysia", "dof.gov.my", "fisheries statistics Malaysia", "fishing zones Malaysia", "Director-General of Fisheries"]
+framework: profile
 ---
 
 在马来西亚水域合法撒网捕鱼的每一艘船，归根到底都要向同一个机构负责。**马来西亚渔业局（DOF）**——*Jabatan Perikanan Malaysia*——是负责管理国家海洋与水产养殖资源、并为所有捕鱼活动发放执照的联邦机构。它隶属于**农业及粮食安全部（MAFS）**，执行**《1985年渔业法令》（第317号法令）**，并由**渔业总监**领导。其总部位于布城的 Wisma Tani，并由遍布各州与县的办事处网络提供支持。

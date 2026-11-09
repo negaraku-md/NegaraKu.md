@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "ssm" }
 related: ["parliament", "federal-constitution", "ssm", "malaysia-courts-business-disputes"]
 keywords: ["MACC", "SPRM", "Suruhanjaya Pencegahan Rasuah Malaysia", "मलेशियाई भ्रष्टाचार-रोधी आयोग", "MACC Act 2009", "Act 694", "भ्रष्टाचार-रोधी सलाहकार बोर्ड", "Anti-Corruption Advisory Board", "भ्रष्टाचार पर विशेष समिति", "Special Committee on Corruption"]
+framework: profile
 ---
 
 MACC के अधिकांश विवरण «मलेशिया की भ्रष्टाचार-रोधी एजेंसी» पर ही रुक जाते हैं। अधिक

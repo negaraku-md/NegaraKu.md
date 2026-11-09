@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "investment-agency-directory" }
 related: ["mida", "miti", "investment-agency-directory"]
 keywords: ["MATRADE", "مؤسسة تنمية التجارة الخارجية الماليزية", "Malaysia External Trade Development Corporation", "MATRADE vs MIDA", "ترويج الصادرات في ماليزيا", "وكالة ترويج التجارة الماليزية", "منحة تنمية السوق", "Market Development Grant Malaysia", "مكاتب MATRADE في الخارج"]
+framework: profile
 ---
 
 اسأل مصدّرًا جديدًا أي وكالة حكومية تتولّى جناحه في المعرض التجاري، وسيجيب نحو

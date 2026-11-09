@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "investment-agency-directory" }
 related: ["mida", "miti", "investment-agency-directory"]
 keywords: ["MATRADE", "Malaysia External Trade Development Corporation", "MATRADE vs MIDA", "Malaysia export promotion agency", "Malaysia trade promotion agency", "Market Development Grant Malaysia", "MATRADE overseas offices"]
+framework: profile
 ---
 
 Hỏi một nhà xuất khẩu lần đầu xem cơ quan chính phủ nào phụ trách gian hàng hội chợ thương mại của họ, và khoảng một nửa sẽ nói MIDA. MIDA không làm việc đó. Đó là việc của MATRADE — và hai cơ quan làm việc ở hai đầu đối lập của cùng một quan hệ thương mại.

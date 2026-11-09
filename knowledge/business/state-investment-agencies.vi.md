@@ -111,6 +111,7 @@ relations:
   - { rel: "compares-with", to: "investment-agency-directory" }
 related: ["economic-corridors-compared", "js-sez-guide", "ncer-guide", "ecer-guide", "sarawak-business-guide", "investment-agency-directory", "iskandar-malaysia-guide", "manufacturing-licence-malaysia"]
 keywords: ["state investment agency malaysia", "invest selangor nol", "investpenang no objection letter", "ncia ncer", "ecerdc", "sedia sabah", "recoda score", "irda iskandar", "investkl mida"]
+framework: explainer
 ---
 
 Cơ quan mà mọi người bảo bạn gọi trước tiên thường không thể phê duyệt điều bạn cần. Đó không phải là một sự chỉ trích các cơ quan — đó là cách kiến trúc được xây dựng. Các phê duyệt đầu tư của Malaysia thuộc liên bang. Các bang thúc đẩy, tạo thuận lợi, và nắm giữ đúng một lá bài.

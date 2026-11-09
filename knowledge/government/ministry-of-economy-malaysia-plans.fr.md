@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["malaysia-plans", "dosm", "federal-budget"]
 keywords: ["Kementerian Ekonomi", "Ministry of Economy Malaysia", "Unit Perancang Ekonomi", "EPU", "Rancangan Malaysia", "perancangan pembangunan", "DOSM", "Jawatankuasa Perancang Pembangunan Negara"]
+framework: profile
 ---
 
 Chaque fois que le Premier ministre se lève au Dewan Rakyat pour présenter le plan

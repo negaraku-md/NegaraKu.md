@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysian-armed-forces-atm" }
 related: ["pdrm"]
 keywords: ["APMM", "MMEA", "pengawal pantai Malaysia", "penguatkuasaan maritim", "carian dan menyelamat", "Zon Maritim Malaysia", "Akta APMM 2004"]
+framework: profile
 ---
 
 当一艘拖船在马六甲海峡中央沉没，或外国渔民擅闯沙巴水域时，率先出动的是一支身穿海蓝色制服的文职机构——而非军队。这就是马来西亚海事执法机构（APMM），国家的海岸警卫队。

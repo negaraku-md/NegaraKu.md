@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "capital-markets-and-services-act-2007" }
 related: ["bursa-malaysia", "bank-negara-malaysia"]
 keywords: ["securities commission malaysia", "SC Malaysia", "capital market regulator", "CMSA 2007", "Securities Commission Act 1993", "equity crowdfunding", "P2P financing"]
+framework: profile
 ---
 
 When you buy a unit trust, invest through an equity crowdfunding platform, or trade a stock on Bursa Malaysia, one body sets the rules behind all of it: the Securities Commission Malaysia. It is the single statutory gatekeeper for the country's capital market — and knowing exactly where its authority starts and stops saves a lot of confusion.

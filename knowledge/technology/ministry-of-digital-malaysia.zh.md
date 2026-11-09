@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "personal-data-protection-act-2010" }
 related: []
 keywords: ["Kementerian Digital", "Ministry of Digital Malaysia", "Gobind Singh Deo", "MDEC", "JDN", "CyberSecurity Malaysia", "ekonomi digital"]
+framework: profile
 ---
 
 当马来西亚认定"数字"太过重要、不宜与任何其他部门共享时，一个全新的部门便诞生了。数字部是国家科技政策的控制中枢——将数字经济、网络安全与个人资料保护统合于同一屋檐之下。

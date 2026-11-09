@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "communications-multimedia-act-1998" }
 related: ["communications-and-multimedia-act-1998"]
 keywords: ["MCMC", "SKMM", "Suruhanjaya Komunikasi dan Multimedia Malaysia", "Akta Komunikasi dan Multimedia 1998", "Akta 588", "Akta 589", "lesen telekomunikasi", "penyiaran", "kandungan internet", "NFP", "NSP", "ASP", "CASP"]
+framework: profile
 ---
 
 在马来西亚，每一通电话、每一次上网、每一档电视广播和每一个消息应用，都在同一套牌照制度下运作——而构建这套制度的委员会，就是 MCMC。

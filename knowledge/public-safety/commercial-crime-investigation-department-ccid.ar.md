@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "national-scam-response-centre-nsrc" }
 related: ["pdrm"]
 keywords: ["CCID", "دائرة التحقيق في الجرائم التجارية", "Jabatan Siasatan Jenayah Komersil", "JSJK", "PDRM", "جرائم تجارية", "احتيال عبر الإنترنت", "Semak Mule", "NSRC", "997"]
+framework: profile
 ---
 
 في كل مرة يقرأ فيها شخص عبارة «اتصل بـ 997» بعد أن احتيل عليه وسُلبت أمواله، تكون دائرة الشرطة الملكية الماليزية التي تقف في الخط الأمامي لمواجهة ذلك الاحتيال هي CCID. فدائرة التحقيق في الجرائم التجارية — Jabatan Siasatan Jenayah Komersil بالماليزية — هي وحدة الشرطة الملكية الماليزية التي تلاحق مجرمي الياقات البيضاء: أولئك الذين يسرقون عن طريق الخداع لا بالتهديد بالعنف.

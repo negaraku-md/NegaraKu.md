@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["malaysia-plans", "dosm", "federal-budget"]
 keywords: ["Kementerian Ekonomi", "Ministry of Economy Malaysia", "Unit Perancang Ekonomi", "EPU", "Rancangan Malaysia", "perancangan pembangunan", "DOSM", "Jawatankuasa Perancang Pembangunan Negara"]
+framework: profile
 ---
 
 每当首相在下议院站起来提呈国家的五年期发展蓝图时，他手中那本厚厚的文件并非

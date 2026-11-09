@@ -75,6 +75,7 @@ wikidata: "Q7354460"
 relations: []
 related: []
 keywords: ["Jabatan Warisan Negara", "JWN", "Department of National Heritage", "National Heritage Act 2005", "Act 645", "Warisan Kebangsaan", "National Heritage Register", "Commissioner of Heritage", "heritage.gov.my", "MOTAC", "gazette national heritage Malaysia", "Daftar Warisan Kebangsaan", "Warisan Orang Hidup"]
+framework: profile
 ---
 
 Apabila sebuah rumah kedai di George Town menerima perintah perlindungan, atau seorang penari *[mak yong](/arts-culture/mak-yong)* dihormati sebagai harta hidup, satu badan persekutuan berdiri di sebalik keputusan itu: **Jabatan Warisan Negara** (**JWN**). Ditubuhkan pada **1 Mac 2006**, JWN mengenal pasti, memulihara, mewartakan dan melindungi warisan Malaysia, dan ia beroperasi di bawah **Kementerian Pelancongan, Seni dan Budaya (MOTAC)**. Visinya yang dinyatakan adalah untuk menerajui usaha meneroka dan memelihara khazanah warisan ke arah membentuk jati diri negara dan menjana ekonomi negara.

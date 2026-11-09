@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "kehakiman-mahkamah" }
 related: ["federal-constitution", "parliament", "kehakiman-mahkamah", "attorney-general"]
 keywords: ["SUHAKAM", "Suruhanjaya Hak Asasi Manusia Malaysia", "Human Rights Commission of Malaysia", "Akta 597", "hak asasi manusia", "aduan hak asasi", "Prinsip Paris", "taraf A GANHRI", "tempat tahanan", "Perlembagaan Persekutuan"]
+framework: profile
 ---
 
 When someone submits a complaint of a human rights violation to SUHAKAM, what

@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution"]
 keywords: ["Peguam Negara", "Pendakwa Raya", "Perkara 145", "Perlembagaan Persekutuan", "Jabatan Peguam Negara", "budi bicara pendakwaan", "pengasingan peranan"]
+framework: profile
 ---
 
 One man can decide whether you are brought before a criminal court — or set free without a single charge being filed. In Malaysia, that person is the Attorney General, and his power is born from a single article of the Federal Constitution.

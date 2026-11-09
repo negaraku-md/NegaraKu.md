@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "kehakiman-mahkamah" }
 related: ["federal-constitution", "macc-sprm", "kehakiman-mahkamah", "imigresen", "yang-di-pertuan-agong"]
 keywords: ["PDRM", "Polis Diraja Malaysia", "Royal Malaysia Police", "शाही मलेशियाई पुलिस", "Akta Polis 1967", "Akta 344", "Ketua Polis Negara", "Inspector General of Police", "Suruhanjaya Pasukan Polis", "पुलिस बल आयोग", "Perkara 140"]
+framework: profile
 ---
 
 PDRM के अधिकांश विवरण «राष्ट्रीय पुलिस बल» वाक्यांश पर रुक जाते हैं। एक अधिक उपयोगी प्रश्न संकीर्ण है: अधिनियम इस बल को वास्तव में क्या करने की अनुमति देता है, इस पर कमान किसके पास है, और कौन-सी संस्था इसके सदस्यों की नियुक्ति एवं अनुशासन निर्धारित करती है?

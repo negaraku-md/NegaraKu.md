@@ -67,6 +67,7 @@ wikidata: "Q97208190"
 relations: []
 related: []
 keywords: ["Majlis Sukan Negara", "MSN", "National Sports Council of Malaysia", "NSC Malaysia", "MSN Bukit Jalil", "Akta Majlis Sukan Negara 1971", "Institut Sukan Negara", "ISN", "Kompleks Sukan Negara Bukit Jalil", "Majlis Sukan Negeri", "Kementerian Belia dan Sukan", "MSN atlet", "pembangunan sukan Malaysia"]
+framework: profile
 ---
 
 Cuando un velocista malasio se alinea en los Juegos Olímpicos o un joven futbolista es captado para una selección nacional, hay un único organismo gubernamental detrás del entrenamiento, el asesoramiento técnico y las instalaciones que los llevaron hasta allí: el **Consejo Nacional del Deporte de Malasia**, conocido en malayo como **Majlis Sukan Negara (MSN)**. Es la agencia estatutaria que convierte la política nacional del deporte en atletas reales.

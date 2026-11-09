@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "kehakiman-mahkamah" }
 related: ["federal-constitution", "parliament", "kehakiman-mahkamah", "attorney-general"]
 keywords: ["SUHAKAM", "Suruhanjaya Hak Asasi Manusia Malaysia", "Human Rights Commission of Malaysia", "Akta 597", "hak asasi manusia", "aduan hak asasi", "Prinsip Paris", "taraf A GANHRI", "tempat tahanan", "Perlembagaan Persekutuan"]
+framework: profile
 ---
 
 当有人向 SUHAKAM 提交侵犯人权的投诉时，这个委员会究竟能做什么、不能做什么？

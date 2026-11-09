@@ -98,6 +98,7 @@ keywords:
   - "manufacturing licence Malaysia ICA 1975"
   - "Malaysia investment agency directory"
   - "agensi pelaburan Malaysia"
+framework: explainer
 ---
 
 外国投资者到来时，以为只有一个监管机构。马来西亚有十来个，它们彼此不通气，

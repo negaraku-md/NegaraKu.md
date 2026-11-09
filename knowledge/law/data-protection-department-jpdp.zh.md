@@ -80,6 +80,7 @@ wikidata: "Q113543393"
 relations: []
 related: []
 keywords: ["JPDP", "Jabatan Perlindungan Data Peribadi", "Personal Data Protection Department", "PDPA Malaysia", "Personal Data Protection Act 2010", "Act 709", "data controller registration Malaysia", "Personal Data Protection Commissioner", "pdp.gov.my", "PDPA Amendment Act 2024", "data breach notification Malaysia", "DPO Malaysia", "Suruhanjaya Perlindungan Data Peribadi", "SPDP daftar"]
+framework: profile
 ---
 
 几乎每一份马来西亚资料隐私指南都在解释这项*法律*，却鲜少有人解释*执掌它的那个机关*。那个机关就是**个人资料保护局**——*Jabatan Perlindungan Data Peribadi*（**JPDP**）——在国会通过《2010年个人资料保护法令》（第709号法令）之后，于**2011年5月16日**成立。它是隶属数字部的机构，职责是协助**个人资料保护专员**执行该法令。这正是马来西亚企业前往登记、普通公民前往投诉的部门。

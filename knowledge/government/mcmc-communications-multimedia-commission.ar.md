@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "communications-multimedia-act-1998" }
 related: ["communications-and-multimedia-act-1998"]
 keywords: ["MCMC", "SKMM", "اللجنة الماليزية للاتصالات والوسائط المتعددة", "Suruhanjaya Komunikasi dan Multimedia Malaysia", "قانون الاتصالات والوسائط المتعددة 1998", "Act 588", "Act 589", "ترخيص الاتصالات", "البثّ", "محتوى الإنترنت", "NFP", "NSP", "ASP", "CASP"]
+framework: profile
 ---
 
 كل مكالمة هاتفية واتصال بالإنترنت وبثّ تلفزيوني وتطبيق مراسلة في ماليزيا يعمل تحت

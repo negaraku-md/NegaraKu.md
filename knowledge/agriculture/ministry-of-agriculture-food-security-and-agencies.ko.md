@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "kementerian-kemajuan-desa-dan-wilayah" }
 related: []
 keywords: ["KPKM", "Kementerian Pertanian dan Keterjaminan Makanan", "Ministry of Agriculture and Food Security", "DOA", "DVS", "DOF", "FAMA", "MARDI", "LPP", "LKIM", "BERNAS", "agensi pertanian Malaysia"]
+framework: profile
 ---
 
 수입 소를 검역해야 할 때, 벼 종자 한 포대를 검사해야 할 때, 또는 소매점이 쌀을 팔고자 할 때, 서로 다른 세 개의 정부 실체가 관여할 수 있습니다 — 그리고 그 모두가 푸트라자야의 한 부처에 뿌리를 둡니다. 어느 기관이 무엇을 하는지 아는 것은 잘못된 문을 두드리는 수고를 덜어 줍니다.

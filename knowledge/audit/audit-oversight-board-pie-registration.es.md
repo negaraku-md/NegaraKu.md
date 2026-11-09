@@ -94,6 +94,7 @@ relations:
   - { rel: "governs", to: "statutory-audit-process" }
 related: ["appointing-an-auditor", "audit-opinion-types", "changing-auditors"]
 keywords: ["Audit Oversight Board", "AOB", "entidad de interés público", "registro de auditores EIP", "Comisión de Valores de Malasia", "Parte IIIA SCMA", "fondo de anexo", "EQCR", "supervisión de auditores Malasia", "public interest entity", "Securities Commission Malaysia"]
+framework: profile
 ---
 
 Pasar la licencia de auditoría del Ministro de Finanzas y unirse al MIA aún no le permite dar el visto bueno a las cuentas de una empresa cotizada en Bursa. Para una auditoría del mercado de capitales hay un requisito adicional — el registro ante el Audit Oversight Board — que solo los auditores de entidades de interés público y fondos de anexo necesitan cumplir.

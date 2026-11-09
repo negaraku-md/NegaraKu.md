@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["Majlis Raja-Raja", "Conference of Rulers", "Perkara 38 Perlembagaan Persekutuan", "Jadual Kelima", "pemilihan Yang di-Pertuan Agong", "Penyimpan Mohor Besar Raja-Raja"]
+framework: profile
 ---
 
 கூட்டரசு அரசியலமைப்பில் (Perlembagaan Persekutuan) அரிதாகவே குறிப்பிடப்படும் ஒரு சிறிய பட்டியல் உள்ளது: பாராளுமன்றம் (Parlimen) தனியாக நிறைவேற்ற முடியாத விடயங்களின் பட்டியல். அந்த விடயங்களுக்கு, Dewan Rakyat மற்றும் Dewan Negara-வில் மூன்றில் இரண்டு பங்கு வாக்குகள் மட்டும் போதாது. மற்றொரு அமைப்பின் சம்மதம் தேவைப்படுகிறது — அந்த அமைப்பே அரசர்கள் மாநாடு (Majlis Raja-Raja / Conference of Rulers).

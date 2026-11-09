@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "higher-education-in-malaysia" }
 related: []
 keywords: ["MQA", "MQA accreditation", "Malaysian Qualifications Framework", "MQF", "MQR", "degree recognition Malaysia", "provisional accreditation", "full accreditation"]
+framework: profile
 ---
 
 同じような名称のディプロマを手に、二人の学生が卒業する。一人は政府の職と修士課程への進学資格を得るが、もう一人は門前払いされる。その違いは、公開名簿のたった一行——マレーシア資格機構がそのプログラムを認定していたかどうか——であることが多い。

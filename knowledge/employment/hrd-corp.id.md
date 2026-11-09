@@ -72,6 +72,7 @@ wikidata: "Q113541603"
 relations: []
 related: []
 keywords: ["HRD Corp", "HRDF", "HRD levy", "Pembangunan Sumber Manusia Berhad", "PSMB Act 2001", "HRDF registration", "HRD Corp claim", "HRD levy 1%", "HRD Corp claimable courses", "human resource development fund Malaysia", "HRDF levy calculation", "Akta 612"]
+framework: profile
 ---
 
 Jika perusahaan Anda menjalankan penggajian Malaysia, satu baris pada lejer slip gaji mungkin berbunyi sebagai **levi 1% kepada HRD Corp** — dan tidak seperti KWSP atau PERKESO, ia bukan tunjangan yang dibayar kepada pekerja. Ia adalah anggaran pelatihan yang dibayar oleh *pemberi kerja* dan kemudian dituntut kembali. Memahami siklus itu adalah perbedaan antara menganggap levi sebagai pajak dan menggunakannya seperti yang diniatkan.

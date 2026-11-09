@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["शासक सम्मेलन", "Majlis Raja-Raja", "Conference of Rulers", "संघीय संविधान का अनुच्छेद 38", "Perkara 38 Perlembagaan Persekutuan", "पाँचवीं अनुसूची", "Jadual Kelima", "Yang di-Pertuan Agong का निर्वाचन", "pemilihan Yang di-Pertuan Agong", "शासकों के महान मुहर-संरक्षक", "Penyimpan Mohor Besar Raja-Raja"]
+framework: profile
 ---
 
 संघीय संविधान में एक छोटी-सी सूची है जिसका शायद ही कभी उल्लेख होता है: उन विषयों की सूची जिन्हें संसद अकेले पारित नहीं कर सकती। उन विषयों के लिए, अकेले Dewan Rakyat और Dewan Negara में दो-तिहाई मत पर्याप्त नहीं है। एक अन्य निकाय की सहमति आवश्यक होती है — और वह निकाय शासक सम्मेलन है।

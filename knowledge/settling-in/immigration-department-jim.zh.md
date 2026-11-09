@@ -77,6 +77,7 @@ wikidata: "Q5260346"
 relations: []
 related: []
 keywords: ["Immigration Department of Malaysia", "Jabatan Imigresen Malaysia", "JIM", "imi.gov.my", "MyOnline Passport", "MDAC", "Malaysia Digital Arrival Card", "Malaysia passport renewal", "Malaysia passport fee", "10-year passport Malaysia", "Malaysia eVisa", "Malaysia visa pass permit", "Immigration Act 1959/63", "Passport Act 1966"]
+framework: profile
 ---
 
 几乎每一份让人得以跨越马来西亚边境、在此居住或工作的证件背后，都站着同一个机构。**马来西亚移民局**——*Jabatan Imigresen Malaysia*（**JIM**）——是隶属**内政部**的机构，负责向公民签发护照、向外国人签发签证与准证、在每一个机场与陆路边境柜台派驻人员，并执行移民法律。它服务马来西亚公民、永久居民与外国访客，自 **1922 年 7 月 21 日**起运作至今。对新来者而言，麻烦之处在于其服务分散于数个官方网站——本页将它们逐一梳理。

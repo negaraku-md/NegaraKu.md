@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "dewan-rakyat"]
 keywords: ["SPR", "Suruhanjaya Pilihan Raya", "Akta Pilihan Raya 1958", "Akta Kesalahan Pilihan Raya 1954", "persempadanan", "Perlembagaan Persekutuan", "Perkara 113", "Perkara 114"]
+framework: profile
 ---
 
 의회가 해산되고 나라가 총선을 향해 움직일 때마다, 동일한 하나의 기관이 심판이 됩니다. 바로 선거관리위원회(Election Commission, SPR)입니다. 이 기관이 날짜를 정하고, 유권자 명부를 점검하며, 후보 지명일과 투표일을 관리하고, 결과를 선포합니다. 그러나 그 권한과 한계는 집권하는 어느 정부가 아니라 연방헌법(Federal Constitution) 자체에서 나옵니다.

@@ -74,6 +74,7 @@ wikidata: "Q7374434"
 relations: []
 related: []
 keywords: ["RMCD", "Royal Malaysian Customs Department", "Jabatan Kastam Diraja Malaysia", "JKDM", "Kastam Malaysia", "SST Malaysia", "sales and service tax", "import duty Malaysia", "customs clearance Malaysia", "MySST", "uCustoms", "excise duty Malaysia", "service tax registration"]
+framework: profile
 ---
 
 Every time you pay tax on a restaurant bill, clear a parcel through customs, or fill up a car built on an imported engine, one department is behind the charge: the **Royal Malaysian Customs Department (RMCD)** — *Jabatan Kastam Diraja Malaysia* (JKDM), commonly called *Kastam*. It is the government department under the **Ministry of Finance** responsible for collecting indirect taxes, facilitating trade and enforcing customs law, and it is the country's main indirect-tax collector.

@@ -80,6 +80,7 @@ wikidata: "Q113543393"
 relations: []
 related: []
 keywords: ["JPDP", "Jabatan Perlindungan Data Peribadi", "Personal Data Protection Department", "PDPA Malaysia", "Personal Data Protection Act 2010", "Act 709", "data controller registration Malaysia", "Personal Data Protection Commissioner", "pdp.gov.my", "PDPA Amendment Act 2024", "data breach notification Malaysia", "DPO Malaysia", "Suruhanjaya Perlindungan Data Peribadi", "SPDP daftar"]
+framework: profile
 ---
 
 Gần như mọi hướng dẫn về bảo mật dữ liệu của Malaysia đều giải thích *luật*. Ít hơn nhiều hướng dẫn giải thích *cơ quan vận hành nó*. Cơ quan đó là **Cục Bảo vệ Dữ liệu Cá nhân** — *Jabatan Perlindungan Data Peribadi* (**JPDP**) — được thành lập ngày **16 May 2011** sau khi Quốc hội thông qua Luật Bảo vệ Dữ liệu Cá nhân (Personal Data Protection Act 2010, Act 709). Cơ quan này hoạt động như một cục thuộc Bộ Kỹ thuật số, và công việc của nó là hỗ trợ **Ủy viên Bảo vệ Dữ liệu Cá nhân** trong việc thực thi đạo luật đó. Đây là cục mà một doanh nghiệp Malaysia đăng ký, và là cơ quan mà một công dân bình thường khiếu nại đến.

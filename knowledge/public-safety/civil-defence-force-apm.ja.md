@@ -72,6 +72,7 @@ relations:
   - { rel: "governs", to: "akta-pertahanan-awam-1951" }
 related: []
 keywords: ["APM", "JPAM", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "bantuan kecemasan", "PASPA", "Akta 221", "sukarelawan pertahanan awam"]
+framework: profile
 ---
 
 大規模な洪水が襲ったり建物が倒壊したりしたとき、ボート・ロープ・救助機材を携えて最初に到着する部隊の一つは、しばしばオレンジ色の制服を着たAPMである。マレーシア民間防衛隊（APM）は国の人道支援の屋台骨であり——災害の前・最中・後に現場に立ち会う。

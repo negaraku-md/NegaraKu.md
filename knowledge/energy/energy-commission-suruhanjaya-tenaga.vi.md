@@ -92,6 +92,7 @@ relations:
   - { rel: "governs", to: "energy-efficiency-conservation-act-2024" }
 related: []
 keywords: ["Suruhanjaya Tenaga", "Energy Commission Malaysia", "Akta Suruhanjaya Tenaga 2001", "Akta 610", "tarif elektrik Malaysia", "EECA 2024", "Akta 861", "PETRA"]
+framework: profile
 ---
 
 Khi nguồn điện của bạn bị cắt, giá biểu giá tăng, hoặc nhà máy của bạn đột nhiên bị buộc bổ nhiệm một người quản lý năng lượng đã đăng ký — cùng một cơ quan đứng sau cả ba điều đó. Không phải một bộ, mà là một cơ quan theo luật định: Suruhanjaya Tenaga.

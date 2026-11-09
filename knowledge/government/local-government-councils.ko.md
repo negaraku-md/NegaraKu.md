@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "state-assemblies-dun" }
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission"]
 keywords: ["Pihak Berkuasa Tempatan", "PBT", "kerajaan tempatan", "Akta Kerajaan Tempatan 1976", "Akta 171", "Majlis Bandaraya", "Majlis Perbandaran", "Majlis Daerah", "Datuk Bandar", "Yang Dipertua", "ahli majlis", "pilihan raya kerajaan tempatan", "Athi Nahappan", "KPKT"]
+framework: profile
 ---
 
 일상생활에 가장 가까운 정부 층위 — 쓰레기 수거, 가로등, 사업 면허, 건축 설계 승인, 평가세를 관리하는 — 는 연방정부나 주정부가 아니라 **지방 당국(Pihak Berkuasa Tempatan, PBT)**입니다. 그러나 선거를 통해 구성되는 [하원](/government/dewan-rakyat)과 [주 입법의회](/government/state-assemblies-dun)와 달리, 오늘날 PBT 구성원은 **선출**되는 것이 아니라 **임명**됩니다.

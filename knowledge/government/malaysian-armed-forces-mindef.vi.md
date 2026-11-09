@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-malaysia" }
 related: ["federal-constitution", "pdrm"]
 keywords: ["angkatan tentera malaysia", "ATM", "kementerian pertahanan", "MINDEF", "majlis angkatan tentera", "panglima angkatan tentera", "akta angkatan tentera 1972", "kertas putih pertahanan", "tentera darat", "tentera laut diraja malaysia", "tentera udara diraja malaysia"]
+framework: profile
 ---
 
 Ba quân chủng — lục quân, hải quân và không quân — vận hành dưới một chuỗi chỉ huy bắt nguồn từ Yang di-Pertuan Agong với tư cách Tổng Tư lệnh Tối cao, nhưng được quản lý hằng ngày bởi một bộ trưởng và bộ máy dân sự. Đó là cách Malaysia tổ chức quốc phòng của mình: quyền tối cao ở nhà Vua, kiểm soát chính sách ở phía dân sự, và việc thực hiện ở quân đội chuyên nghiệp.

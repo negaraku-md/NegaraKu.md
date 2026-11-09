@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "capital-markets-and-services-act-2007" }
 related: ["bursa-malaysia", "bank-negara-malaysia"]
 keywords: ["securities commission malaysia", "SC Malaysia", "capital market regulator", "CMSA 2007", "Securities Commission Act 1993", "equity crowdfunding", "P2P financing"]
+framework: profile
 ---
 
 Apabila anda membeli unit amanah, melabur melalui platform pembiayaan orang ramai berasaskan ekuiti, atau memperdagangkan saham di Bursa Malaysia, satu badan menetapkan peraturan di sebalik semuanya: Suruhanjaya Sekuriti Malaysia. Ia merupakan penjaga pintu berkanun tunggal bagi pasaran modal negara — dan mengetahui dengan tepat di mana kuasanya bermula dan berakhir menjimatkan banyak kekeliruan.

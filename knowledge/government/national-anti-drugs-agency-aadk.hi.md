@@ -77,6 +77,7 @@ related: []
 keywords: ["AADK", "Agensi Antidadah Kebangsaan", "National Anti-Drugs Agency", "drug rehabilitation Malaysia", "Cure and Care", "Puspen", "NADA Malaysia", "voluntary drug treatment", "Drug Dependants Act 1983"]
 social:
   hashtags: ["#AADK", "#NegaraKu", "#DrugRehabilitation", "#MalaysiaHomeAffairs"]
+framework: profile
 ---
 
 मलेशिया नशों के प्रति अपनी प्रतिक्रिया को दो व्यापक हिस्सों में बाँटता है। एक हिस्सा आपराधिक प्रवर्तन है — तस्करों को गिरफ़्तार करना, आपूर्ति ज़ब्त करना, अपराधों का अभियोजन — और उसका नेतृत्व पुलिस करती है। दूसरा हिस्सा **माँग-घटाव** है: लोगों को पहले ही नशा करने से रोकना, और जो करते हैं उनका उपचार और पुनर्वास करना। उस हिस्से का नेतृत्व **राष्ट्रीय नशा-विरोधी एजेंसी** (*Agensi Antidadah Kebangsaan*, या **AADK**, जिसे **NADA** भी लिखा जाता है) करती है, जो **गृह मंत्रालय** (*Kementerian Dalam Negeri*, KDN) के अधीन एक एजेंसी है। AADK देश के नशा-पुनर्वास केंद्र चलाती है, रोकथाम और शिक्षा कार्यक्रम प्रदान करती है, और स्वास्थ्य-लाभरत लोगों के लिए देखभाल-पश्चात का प्रबंधन करती है।

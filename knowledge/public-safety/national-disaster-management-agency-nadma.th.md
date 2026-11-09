@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "malaysia-civil-defence-force-apm" }
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "pengurusan bencana", "Arahan NADMA No. 1", "Arahan MKN 20", "banjir", "SMART", "Jabatan Perdana Menteri"]
+framework: profile
 ---
 
 เมื่ออุทกภัยครั้งใหญ่เกิดขึ้นในหลายรัฐพร้อมกัน ใครคือผู้กดปุ่มเพื่อประสานงานทหาร ดับเพลิง ตำรวจ และอาสาสมัครภายใต้คำสั่งเดียว? ในมาเลเซีย คำตอบคือ NADMA

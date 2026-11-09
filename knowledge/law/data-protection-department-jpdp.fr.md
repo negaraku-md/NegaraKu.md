@@ -80,6 +80,7 @@ wikidata: "Q113543393"
 relations: []
 related: []
 keywords: ["JPDP", "Jabatan Perlindungan Data Peribadi", "Personal Data Protection Department", "Département de la protection des données personnelles", "PDPA Malaysia", "Personal Data Protection Act 2010", "Act 709", "enregistrement des contrôleurs de données Malaisie", "Personal Data Protection Commissioner", "pdp.gov.my", "PDPA Amendment Act 2024", "notification des violations de données Malaisie", "DPO Malaysia", "Suruhanjaya Perlindungan Data Peribadi", "SPDP daftar"]
+framework: profile
 ---
 
 Presque tous les guides sur la confidentialité des données en Malaisie expliquent la *loi*. Beaucoup moins expliquent l'*office qui l'administre*. Cet office est le **Département de la protection des données personnelles** — *Jabatan Perlindungan Data Peribadi* (**JPDP**) — établi le **16 mai 2011** après que le Parlement a adopté la Personal Data Protection Act 2010 (Act 709). Il fonctionne comme une agence relevant du ministère du Numérique (Digital Ministry), et sa mission est d'assister le **Commissaire à la protection des données personnelles (Personal Data Protection Commissioner)** dans l'application de cette Loi. C'est le département auprès duquel une entreprise malaisienne s'enregistre, et celui auprès duquel un citoyen ordinaire dépose ses plaintes.

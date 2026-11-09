@@ -71,6 +71,7 @@ keywords:
   - "Attorney General's Chambers"
   - "Peguam Negara"
   - "right of audience Attorney General"
+framework: profile
 ---
 
 Most public offices are defined by a statute that Parliament can rewrite. The office of

@@ -84,6 +84,7 @@ keywords:
   - "kuasa budi bicara Yang di-Pertuan Agong"
   - "Perkara 40 Perlembagaan Persekutuan"
   - "raja berperlembagaan Malaysia"
+framework: profile
 ---
 
 世界のほとんどの君主制は、同じ一つの問いに同じような方法で答えている。次の王は誰に

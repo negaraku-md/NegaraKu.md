@@ -75,6 +75,7 @@ related: []
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department", "driving licence Malaysia", "road tax", "vehicle registration", "Road Transport Act 1987", "MyJPJ", "mySIKAP", "LKM"]
 social:
   hashtags: ["JPJ", "RoadTaxMalaysia", "DrivingLicence", "MyJPJ"]
+framework: profile
 ---
 
 多くの人が**道路交通局**に出会うのは、たった一つの瞬間である——道路税を更新するとき、運転試験を受けるとき、あるいは中古車を移転するとき。しかし JPJ は、そうした取引の一つひとつの背後に立つ局である。**道路交通局**（*Jabatan Pengangkutan Jalan*、すなわち **JPJ**）はマレーシアの**運輸省（MOT）**傘下の機関である。自動車と運転者を登録し、運転免許、道路税、ナンバープレートを発行し、商用車両に免許を与え、車両と運転者が公道をどう使うかを定める法律を執行する。

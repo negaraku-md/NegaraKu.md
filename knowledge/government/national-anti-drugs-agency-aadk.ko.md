@@ -77,6 +77,7 @@ related: []
 keywords: ["AADK", "Agensi Antidadah Kebangsaan", "National Anti-Drugs Agency", "drug rehabilitation Malaysia", "Cure and Care", "Puspen", "NADA Malaysia", "voluntary drug treatment", "Drug Dependants Act 1983"]
 social:
   hashtags: ["#AADK", "#NegaraKu", "#DrugRehabilitation", "#MalaysiaHomeAffairs"]
+framework: profile
 ---
 
 말레이시아는 마약 대응을 두 개의 큰 반쪽으로 나눕니다. 한쪽 반은 형사 집행 — 밀매업자를 체포하고, 공급을 압수하고, 범죄를 기소하는 것 — 이며, 이는 경찰이 주도합니다. 다른 반쪽은 **수요 감축**입니다: 애초에 사람들이 마약을 쓰지 못하게 막고, 쓰는 사람을 치료하고 재활하는 것. 그 반쪽은 **국가마약청**(*Agensi Antidadah Kebangsaan*, 즉 **AADK**, **NADA**로도 표기됨), 즉 **내무부**(*Kementerian Dalam Negeri*, KDN) 산하 기관이 주도합니다. AADK는 이 나라의 마약 재활센터를 운영하고, 예방·교육 프로그램을 제공하며, 회복 중인 사람들의 사후관리를 담당합니다.

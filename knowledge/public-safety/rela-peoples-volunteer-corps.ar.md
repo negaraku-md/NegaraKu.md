@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "jabatan-imigresen-malaysia" }
 related: []
 keywords: ["RELA", "ريلا", "فيلق متطوعي ماليزيا", "Pasukan Sukarelawan Malaysia", "Akta 752", "القانون 752", "المتطوعون الأمنيون", "PATI"]
+framework: profile
 ---
 
 ربما رأيتهم بالزِّي الرسمي ينظّمون حركة المرور أثناء تجمّع أو كارثة — لكن ما الذي يمكن لعضو ريلا (RELA) فعله، وما الذي لا يمكنه فعله، بموجب القانون بالضبط؟

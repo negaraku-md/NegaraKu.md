@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "jabatan-imigresen-malaysia" }
 related: []
 keywords: ["RELA", "Pasukan Sukarelawan Malaysia", "Ikatan Relawan Rakyat", "Akta 752", "Akta Pasukan Sukarelawan Malaysia 2012", "PATI", "sukarelawan keselamatan"]
+framework: profile
 ---
 
 집회나 재난 때 제복을 입고 교통을 통제하는 그들을 본 적이 있을 것입니다 — 그런데 법적으로 RELA 대원이 실제로 할 수 있는 일과 할 수 없는 일은 무엇입니까?

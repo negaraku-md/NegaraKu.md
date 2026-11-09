@@ -92,6 +92,7 @@ relations:
   - { rel: "governs", to: "energy-efficiency-conservation-act-2024" }
 related: []
 keywords: ["Suruhanjaya Tenaga", "Energy Commission Malaysia", "Akta Suruhanjaya Tenaga 2001", "Akta 610", "tarif elektrik Malaysia", "EECA 2024", "Akta 861", "PETRA"]
+framework: profile
 ---
 
 உங்கள் மின்சார வழங்கல் துண்டிக்கப்படும்போது, கட்டண விலை உயரும்போது, அல்லது உங்கள்

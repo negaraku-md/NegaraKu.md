@@ -84,6 +84,7 @@ wikidata: "Q3816079"
 relations: []
 related: []
 keywords: ["Ministry of Education Malaysia", "KPM", "Kementerian Pendidikan Malaysia", "Fadhlina Sidek", "Education Act 1996", "Malaysia Education Blueprint", "PPPM", "KPM vs KPT", "Menteri Pendidikan Malaysia", "moe.gov.my", "compulsory education Malaysia", "Malaysia school system"]
+framework: profile
 ---
 
 凡是与马来西亚学童相关的事务——他们所学的课程、桌上的教科书、参加的全国考试，或站在讲台前的公立学校教师——都归教育部管辖。它在马来文中称为 **Kementerian Pendidikan Malaysia**，几乎总是简称为 **KPM**，是负责运作全国高等教育前教育体系的联邦部门。它*不*负责的是大学——这是一个让许多人混淆的界线。

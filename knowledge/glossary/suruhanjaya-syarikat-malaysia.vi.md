@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "ssm" }
 related: ["ssm", "companies-act-2016", "sdn-bhd", "annual-return", "llp", "paid-up-capital"]
 keywords: ["SSM Malaysia", "Suruhanjaya Syarikat Malaysia", "Companies Commission of Malaysia", "SSM registration", "MyCoID", "EzBiz"]
+framework: profile
 ---
 
 **Bahasa Malaysia:** Suruhanjaya Syarikat Malaysia (SSM) · **English:** Companies Commission of Malaysia · **中文:** 马来西亚公司委员会

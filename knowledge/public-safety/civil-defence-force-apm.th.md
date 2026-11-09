@@ -72,6 +72,7 @@ relations:
   - { rel: "governs", to: "akta-pertahanan-awam-1951" }
 related: []
 keywords: ["APM", "JPAM", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "bantuan kecemasan", "PASPA", "Akta 221", "sukarelawan pertahanan awam"]
+framework: profile
 ---
 
 เมื่ออุทกภัยครั้งใหญ่โจมตีหรืออาคารถล่ม หนึ่งในทีมแรกที่มาถึงพร้อมเรือ เชือก และอุปกรณ์กู้ภัยมักสวมเสื้อสีส้มของ APM กองกำลังป้องกันภัยฝ่ายพลเรือนมาเลเซีย (APM) เป็นกระดูกสันหลังของการช่วยเหลือด้านมนุษยธรรมของประเทศ — ปรากฏตัวก่อน ระหว่าง และหลังภัยพิบัติ

@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["Majlis Raja-Raja", "Conference of Rulers", "Conférence des Souverains", "Perkara 38 Perlembagaan Persekutuan", "Jadual Kelima", "élection du Yang di-Pertuan Agong", "Penyimpan Mohor Besar Raja-Raja"]
+framework: profile
 ---
 
 Il existe dans la Constitution fédérale une courte liste rarement mentionnée : une liste de matières que le Parlement ne peut adopter seul. Pour ces matières, un vote des deux tiers au Dewan Rakyat et au Dewan Negara ne suffit pas à lui seul. Le consentement d'un autre organe est requis — et cet organe est la Conférence des Souverains.

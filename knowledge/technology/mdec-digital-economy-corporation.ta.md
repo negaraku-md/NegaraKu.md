@@ -67,6 +67,7 @@ wikidata: "Q279453"
 relations: []
 related: []
 keywords: ["MDEC", "Malaysia Digital Economy Corporation", "Malaysia Digital Status", "MD Status", "MSC Malaysia", "MSC status", "Malaysia Digital Bill of Guarantees", "Malaysia Digital tax incentive", "MD activities", "knowledge worker Malaysia", "Cyberjaya", "digital economy Malaysia"]
+framework: profile
 ---
 
 “Malaysia Digital Status” எனத் தேடுங்கள், கிட்டத்தட்ட ஒவ்வொரு முடிவும் விண்ணப்பச் சேவையை விற்கும் ஒரு ஆலோசனை நிறுவனமாகவே இருக்கும் — பெரும்பாலானவை மூன்று தனித்த விஷயங்களை ஒன்றாகக் கலந்து குழப்புகின்றன. ஒரு **ஆணையம்** (MDEC), அது வழங்கும் **அந்தஸ்து** (MD அந்தஸ்து), மேலும் மிகவும் கடுமையான தேவைகளைக் கொண்ட முற்றிலும் தனித்த விண்ணப்பமான ஒரு **வரி ஊக்கத்தொகை** ஆகியன உள்ளன. இவற்றைத் தனித்தனியாக வைத்திருப்பதே RM1,000 வரம்புக்கும் RM50,000 வரம்புக்கும் இடையிலான வேறுபாடு. முதன்மை ஆதாரங்களிலிருந்து ஒவ்வொரு அடுக்கும் இதோ.

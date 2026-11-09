@@ -79,6 +79,7 @@ wikidata: "Q12689906"
 relations: []
 related: []
 keywords: ["KPDN", "Ministry of Domestic Trade and Cost of Living", "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup", "KPDN aduan", "Price Control and Anti-Profiteering Act 2011", "Akta Kawalan Harga", "Ez ADU KPDN", "TTPM tribunal tuntutan pengguna", "KPDN hotline", "kawalan harga barang", "consumer protection Malaysia", "Armizan Mohd Ali", "SSM MyIPO MyCC", "Ops Pantau KPDN"]
+framework: profile
 ---
 
 상인이 식용유 값을 바가지 씌우거나, 통제 품목을 상한가 이상으로 팔거나, 결함 있는 제품을 처리해 주기를 거부할 때, 여러분을 대신해 나서는 일을 맡은 연방 기구가 바로 **KPDN** — **국내무역생계비부**(*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*)입니다. 이 부처는 국내 무역을 발전시키고, 일상 필수품의 가격을 억제하며, 소비자를 보호하는데, 실제 법령과 살아 있는 진정 창구, 그리고 일반 소비자를 위해 만들어진 소액청구 심판소가 이를 뒷받침합니다.

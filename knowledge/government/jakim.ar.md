@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "islamic-finance" }
 related: ["article-3-religion", "federal-state-division", "civil-and-syariah-courts", "majlis-raja-raja"]
 keywords: ["JAKIM", "Jabatan Kemajuan Islam Malaysia", "Department of Islamic Development Malaysia", "دائرة التنمية الإسلامية الماليزية", "MKI", "شهادة الحلال", "halal", "الشؤون الإسلامية", "أحكام الشريعة", "دائرة رئيس الوزراء"]
+framework: profile
 ---
 
 يُرى اسم JAKIM في الغالب على شعار الحلال المطبوع على أغلفة الأطعمة. غير أنّ

@@ -125,6 +125,7 @@ wikidata: "Q4294352"
 relations: []
 related: []
 keywords: ["Malaysia public healthcare system", "Ministry of Health Malaysia", "MOH", "KKM", "klinik kesihatan", "government hospital Malaysia", "RM1 clinic fee", "public hospital fees Malaysia", "PeKa B40", "universal healthcare Malaysia", "healthcare in Malaysia", "Malaysia two-tier health system"]
+framework: explainer
 ---
 
 말레이시아 정부 클리닉에 들어서면 창구에서의 청구액은 거의 없는 것에 가깝습니다 — 일반 외래 등록 **RM1**입니다. 이는 자선이 아니라 설계입니다. 말레이시아는 **2단계 보건 체계**를 운영합니다: 보건부(MOH, *Kementerian Kesihatan Malaysia*, KKM)가 관리하는 정부 운영 공공 서비스와, 그 곁의 큰 민간 부문입니다. 공공 측은 **오로지 일반 조세로 재원을 대며, 의무적 국가 보험 기여가 없으므로**, 보험료가 아니라 높은 보조금의 명목 요금으로 진료가 제공됩니다. 이 모델은 국가 소득의 완만한 비중으로 거의 보편적인 접근을 낳았습니다 — 그러나 이제 늘어나는 가계 비용 부담과 실질적인 공급 압박을 안고 있습니다. 이 안내는 당신이 이 체계에 어떻게 접근하는지, 비용은 얼마인지, 누구를 보장하는지, 어디에 무리가 가고 있는지를 쉬운 말로 설명합니다.

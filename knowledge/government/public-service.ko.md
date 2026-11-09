@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "attorney-general" }
 related: ["federal-constitution", "prime-ministers-department", "kabinet-perdana-menteri", "three-tiers-of-government", "auditor-general", "attorney-general"]
 keywords: ["SPA Malaysia", "Suruhanjaya Perkhidmatan Awam", "JPA Malaysia", "Jabatan Perkhidmatan Awam", "Public Services Commission Malaysia", "Public Service Department Malaysia", "Article 144 Federal Constitution", "Malaysian civil service structure", "INTAN"]
+framework: profile
 ---
 
 말레이시아에서 공무원의 경력은 대부분의 사람이 들어 본 적 없는 두 연방 기구를 거치는데, 그 어느 것도 관료가 실제로 일하는 부처가 아닙니다. 한 곳은 그 사람이 임명·확정·승진·징계되는지를 결정합니다. 다른 한 곳은 그 임명이 이루어지기 훨씬 전에, 그 직위가 얼마를 받는지, 어떤 훈련을 요하는지, 그리고 그 직위가 과연 존재해야 하는지를 결정했습니다.

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "malaysia-civil-defence-force-apm" }
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "pengurusan bencana", "Arahan NADMA No. 1", "Arahan MKN 20", "banjir", "SMART", "Jabatan Perdana Menteri"]
+framework: profile
 ---
 
 When a major flood strikes several states at once, who presses the button to coordinate the military, fire brigade, police and volunteers under a single command? In Malaysia, the answer is NADMA.

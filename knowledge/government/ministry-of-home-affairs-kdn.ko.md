@@ -75,6 +75,7 @@ wikidata: "Q4294304"
 relations: []
 related: []
 keywords: ["KDN", "Kementerian Dalam Negeri", "Ministry of Home Affairs Malaysia", "MOHA", "KDN agencies", "KDN departments", "agensi bawah KDN", "Menteri Dalam Negeri", "fungsi KDN", "JPN", "Jabatan Imigresen", "PDRM", "AKPS", "Registry of Societies", "Lembaga Penapisan Filem"]
+framework: profile
 ---
 
 말레이시아인이 여권을 갱신할 때, 경찰이 체포를 할 때, 외국인 근로자의 허가가 확인될 때, 또는 영화가 개봉을 위해 등급을 받을 때 — 그 넷 모두의 뒤에 같은 부처가 서 있습니다. 그 부처가 바로 **내무부**로, 말레이어로는 **Kementerian Dalam Negeri(KDN)**, 영어로는 **MOHA**라 불립니다.

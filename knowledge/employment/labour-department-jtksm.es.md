@@ -85,6 +85,7 @@ entity: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM) / Department of Labou
 relations: []
 related: []
 keywords: ["JTKSM", "Jabatan Tenaga Kerja Semenanjung Malaysia", "Labour Department Malaysia", "Department of Labour Peninsular Malaysia", "pejabat buruh", "aduan buruh", "eAduan JTKSM", "how to file labour complaint Malaysia", "unpaid salary Malaysia", "Labour Court Malaysia", "Employment Act 1955", "Section 69 Employment Act", "JTK complaint", "gaji tak dibayar"]
+framework: profile
 ---
 
 Si su empleador no le ha pagado el salario, existe una oficina estatal concreta

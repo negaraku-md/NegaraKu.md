@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "capital-markets-and-services-act-2007" }
 related: ["bursa-malaysia", "bank-negara-malaysia"]
 keywords: ["هيئة الأوراق المالية الماليزية", "securities commission malaysia", "SC Malaysia", "الجهة المنظمة لسوق رأس المال", "capital market regulator", "CMSA 2007", "Securities Commission Act 1993", "التمويل الجماعي بالأسهم", "equity crowdfunding", "التمويل بين الأقران", "P2P financing"]
+framework: profile
 ---
 
 عندما تشتري وحدة استثمارية، أو تستثمر عبر منصة للتمويل الجماعي بالأسهم، أو تتداول سهماً في بورصة ماليزيا (Bursa Malaysia)، فإنّ جهة واحدة تضع القواعد التي تقف خلف كل ذلك: هيئة الأوراق المالية الماليزية. فهي الحارس القانوني الوحيد لسوق رأس المال في البلاد — ومعرفة أين تبدأ سلطتها وأين تنتهي بالضبط توفّر قدراً كبيراً من اللبس.

@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["gdp-overview", "inflation-cpi", "unemployment-labour-force", "external-trade"]
 keywords: ["DOSM", "Jabatan Perangkaan Malaysia", "Department of Statistics Malaysia", "OpenDOSM", "Advance Release Calendar", "Malaysia official statistics"]
+framework: profile
 ---
 
 여러분이 접하게 될 거의 모든 말레이시아 경제 수치 — 장관이 인용하는 성장률, 뉴스 헤드라인의 물가상승률, 은행 리서치 노트의 실업률 — 는 모두 푸트라자야(Putrajaya)의 같은 건물에서 시작됩니다. 그 건물이 어떻게 돌아가는지를 알면, 여러분은 수치를 그저 되풀이하는 사람에서 그것을 직접 확인할 수 있는 사람으로 바뀝니다.

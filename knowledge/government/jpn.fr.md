@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "ssm" }
 related: ["federal-constitution", "imigresen", "lhdn", "ssm"]
 keywords: ["JPN", "Jabatan Pendaftaran Negara", "National Registration Department", "Département national de l'enregistrement", "MyKad", "MyKid", "MyPR", "certificat de naissance", "enregistrement de décès", "mariage civil", "citoyenneté"]
+framework: profile
 ---
 
 Tout citoyen malaisien possède un dossier au JPN qui s'ouvre avant qu'il ne puisse

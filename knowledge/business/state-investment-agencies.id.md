@@ -112,6 +112,7 @@ relations:
   - { rel: "compares-with", to: "investment-agency-directory" }
 related: ["economic-corridors-compared", "js-sez-guide", "ncer-guide", "ecer-guide", "sarawak-business-guide", "investment-agency-directory", "iskandar-malaysia-guide", "manufacturing-licence-malaysia"]
 keywords: ["agensi pelaburan negeri malaysia", "invest selangor nol", "investpenang surat tiada bantahan", "ncia ncer", "ecerdc", "sedia sabah", "recoda score", "irda iskandar", "investkl mida"]
+framework: explainer
 ---
 
 Agensi yang semua orang suruh Anda hubungi dahulu biasanya tidak dapat menyetujui hal yang Anda perlukan. Itu bukan kritik terhadap agensi-agensi itu — begitulah arsitektur sistem ini dibangun. Persetujuan investasi Malaysia ada di tingkat federal. Negara-negara bagian mempromosikan, memfasilitasi, dan memegang tepat satu kartu.

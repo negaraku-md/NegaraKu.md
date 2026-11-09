@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "kehakiman-mahkamah" }
 related: ["federal-constitution", "parliament", "kehakiman-mahkamah", "attorney-general"]
 keywords: ["SUHAKAM", "Commission des droits de l'homme de Malaisie", "Suruhanjaya Hak Asasi Manusia Malaysia", "Human Rights Commission of Malaysia", "Loi 597", "Akta 597", "droits de l'homme", "plainte droits de l'homme", "Principes de Paris", "statut A du GANHRI", "lieu de détention", "Constitution fédérale"]
+framework: profile
 ---
 
 Lorsqu'une personne dépose une plainte pour violation des droits de l'homme auprès de

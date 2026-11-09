@@ -85,6 +85,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 The worst moment in a scam is the one just after you realise it was a scam — when the money has left your account and you do not know what to do, or whom to call. In Malaysia, there is a single answer to that question: **dial 997.** That number reaches the **National Scam Response Centre (NSRC)**, and calling it quickly is, quite literally, your best chance of getting your money back.

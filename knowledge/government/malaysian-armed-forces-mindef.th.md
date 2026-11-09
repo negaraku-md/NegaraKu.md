@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-malaysia" }
 related: ["federal-constitution", "pdrm"]
 keywords: ["angkatan tentera malaysia", "ATM", "kementerian pertahanan", "MINDEF", "majlis angkatan tentera", "panglima angkatan tentera", "akta angkatan tentera 1972", "kertas putih pertahanan", "tentera darat", "tentera laut diraja malaysia", "tentera udara diraja malaysia"]
+framework: profile
 ---
 
 สามเหล่าทัพ — บก เรือ และอากาศ — เคลื่อนไหวภายใต้สายการบังคับบัญชาเดียวที่มีจุดเริ่มต้นที่สมเด็จพระราชาธิบดี (Yang di-Pertuan Agong) ในฐานะจอมทัพ แต่บริหารในแต่ละวันโดยรัฐมนตรีคนหนึ่งและกลไกฝ่ายพลเรือน นี่คือวิธีที่มาเลเซียจัดการป้องกันประเทศ กล่าวคือ อำนาจสูงสุดอยู่ที่ราชา การควบคุมนโยบายอยู่ที่ฝ่ายพลเรือน และการปฏิบัติอยู่ที่กองทัพมืออาชีพ

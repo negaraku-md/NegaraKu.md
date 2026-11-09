@@ -72,6 +72,7 @@ keywords:
   - "Attorney General's Chambers"
   - "Peguam Negara"
   - "right of audience Attorney General"
+framework: profile
 ---
 
 பெரும்பாலான பொதுப் பதவிகள், நாடாளுமன்றம் மீண்டும் எழுத முடியும் ஒரு சட்டத்தால்

@@ -84,6 +84,7 @@ wikidata: "Q3816079"
 relations: []
 related: []
 keywords: ["Ministry of Education Malaysia", "KPM", "Kementerian Pendidikan Malaysia", "Fadhlina Sidek", "Education Act 1996", "Malaysia Education Blueprint", "PPPM", "KPM vs KPT", "Menteri Pendidikan Malaysia", "moe.gov.my", "compulsory education Malaysia", "Malaysia school system"]
+framework: profile
 ---
 
 Jika ia melibatkan seorang anak sekolah Malaysia — kurikulum yang mereka pelajari, buku teks di atas meja mereka, ujian nasional yang mereka ikuti, atau guru sekolah negeri di depan kelas — ia berada di bawah Kementerian Pendidikan. Dikenal sebagai **Kementerian Pendidikan Malaysia** dan hampir selalu disingkat menjadi **KPM**, ia adalah kementerian federal yang menjalankan sistem pendidikan pra-tersier negara. Apa yang *tidak* dijalankannya adalah universitas — satu batas yang sering mengelirukan banyak orang.

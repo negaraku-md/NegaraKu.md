@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "angkatan-pertahanan-awam" }
 related: ["pdrm"]
 keywords: ["Bomba", "JBPM", "Jabatan Bomba dan Penyelamat Malaysia", "Fire and Rescue Department", "Akta Perkhidmatan Bomba 1988", "Akta 341", "999", "MERS 999"]
+framework: profile
 ---
 
 집에 불이 나거나 자동차가 홍수에 갇히거나 작업자가 밀폐 공간에 끼였을 때, 피해자와 도움을 잇는 첫 연결고리가 되는 하나의 같은 번호가 있으며, 그 회선의 끝에는 대개 봄바가 있습니다. 이 부서에 법률이 실제로 어떤 권한을 부여했는지 이해하면, 봄바가 왜 화재뿐 아니라 그토록 다양한 긴급 상황에 등장하는지 알 수 있습니다.

@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "bank-pembangunan-malaysia" }
 related: ["bank-negara-malaysia", "development-financial-institutions-malaysia"]
 keywords: ["EXIM Bank Malaysia", "export credit agency", "trade credit takaful", "export credit insurance", "trade financing", "non-traditional markets"]
+framework: profile
 ---
 
 ஒரு மலேசிய இயந்திர ஏற்றுமதியாளர் ஓர் எல்லைப்புற (frontier) சந்தையில் தனது முதல் ஆர்டரைப் பெறுகிறார் — மகத்தான வளர்ச்சி வாய்ப்பு, ஆனால் வாங்குபவர் எப்போதும் பணம் செலுத்தவில்லை என்றால் என்ன நடக்கும்? அந்த ஒரே கேள்விக்குப் பதிலளிக்கவே மலேசியா ஏற்றுமதி-இறக்குமதி வங்கி (Export-Import Bank of Malaysia Berhad, EXIM Bank) உருவாக்கப்பட்டது.

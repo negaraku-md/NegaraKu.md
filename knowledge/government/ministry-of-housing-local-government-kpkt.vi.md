@@ -77,6 +77,7 @@ wikidata: "Q6867161"
 relations: []
 related: []
 keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "Ministry of Housing and Local Government Malaysia", "KPKT fungsi", "KPKT agensi", "JBPM", "PLANMalaysia", "Jabatan Kerajaan Tempatan", "Jabatan Perumahan Negara", "Tribunal Perumahan dan Pengurusan Strata", "SWCorp", "Strata Management Act 2013", "Local Government Act 1976", "Nga Kor Ming", "affordable housing Malaysia B40 M40"]
+framework: profile
 ---
 
 Khi rác của bạn không được thu gom, khi giấy chứng nhận an toàn cháy nổ đến hạn, và khi một chủ đầu tư bàn giao căn hộ của bạn trễ hai năm — cùng một bộ liên bang đứng sau cả ba việc đó. **Bộ Nhà ở và Chính quyền Địa phương**, *Kementerian Perumahan dan Kerajaan Tempatan*, được biết đến phổ biến là **KPKT**, là bộ liên bang của Malaysia phụ trách nhà ở giá phải chăng, chính quyền địa phương, quy hoạch đô thị, cứu hỏa và cứu nạn, chất thải rắn, cảnh quan, và tín dụng cộng đồng. Trụ sở của bộ đặt tại No. 51, Persiaran Perdana, Precinct 4, Trung tâm Hành chính Chính phủ Liên bang, 62100 Putrajaya. Bộ trưởng là **Nga Kor Ming** và Thứ trưởng là **Datuk Hajah Aiman Athirah binti Sabu**.

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "kementerian-kemajuan-desa-dan-wilayah" }
 related: []
 keywords: ["KPKM", "Kementerian Pertanian dan Keterjaminan Makanan", "Ministry of Agriculture and Food Security", "DOA", "DVS", "DOF", "FAMA", "MARDI", "LPP", "LKIM", "BERNAS", "agensi pertanian Malaysia"]
+framework: profile
 ---
 
 当一头进口牛需要隔离检疫、一袋稻种需要检验，或一家杂货店想售卖白米时，可能

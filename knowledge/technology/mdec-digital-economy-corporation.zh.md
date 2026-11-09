@@ -67,6 +67,7 @@ wikidata: "Q279453"
 relations: []
 related: []
 keywords: ["MDEC", "Malaysia Digital Economy Corporation", "Malaysia Digital Status", "MD Status", "MSC Malaysia", "MSC status", "Malaysia Digital Bill of Guarantees", "Malaysia Digital tax incentive", "MD activities", "knowledge worker Malaysia", "Cyberjaya", "digital economy Malaysia"]
+framework: profile
 ---
 
 搜索「Malaysia Digital Status」，几乎每一条结果都是在兜售申请服务的咨询公司——而且大多把三件不同的事混为一谈。它们分别是：**机构**（MDEC）、机构颁授的**地位**（MD Status），以及一项**税务激励**——后者是一项要求高得多、完全独立的申请。把它们区分清楚，就是 RM1,000 门槛与 RM50,000 门槛之间的差别。以下依据一手资料，逐层拆解。

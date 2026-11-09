@@ -75,6 +75,7 @@ keywords:
   - "Attorney General's Chambers"
   - "Peguam Negara"
   - "derecho de audiencia del Fiscal General"
+framework: profile
 ---
 
 La mayoría de los cargos públicos se definen por una ley que el Parlamento puede reescribir. El cargo de Fiscal General de la Federación no es uno de ellos. Está escrito en la propia Constitución Federal, en un único artículo — el Artículo 145 — que establece quién ocupa el cargo, qué debe hacer y la única facultad que la Constitución deja a la discreción del propio titular.

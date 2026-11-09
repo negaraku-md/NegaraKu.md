@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "personal-bankruptcy-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["AKPK", "Program Pengurusan Kredit", "PPK", "DMP", "penstrukturan hutang", "kaunseling kewangan", "Bank Negara Malaysia", "hutang kad kredit"]
+framework: profile
 ---
 
 当信用卡账单、车贷分期和房屋贷款每个月同时涌来，而薪水又不够用时，许多马来西亚人以为最后的出路只有破产。其实还有一道更早的门，而且它完全免费。

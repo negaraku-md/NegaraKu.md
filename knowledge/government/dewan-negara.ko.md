@@ -63,6 +63,7 @@ relations:
   - { rel: "compares-with", to: "dewan-rakyat" }
 related: ["parliament", "federal-constitution", "dewan-rakyat", "yang-di-pertuan-agong"]
 keywords: ["Dewan Negara", "Senat Malaysia", "senator Malaysia", "Perkara 45 Perlembagaan Persekutuan", "Perkara 68", "Jadual Ketujuh", "pelantikan senator", "kuasa menangguh"]
+framework: profile
 ---
 
 # 상원(Dewan Negara): 상원의원은 어떻게 임명되는가, 그리고 왜 이 원은 거부가 아니라 지연을 하는가

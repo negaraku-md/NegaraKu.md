@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "digital-free-trade-zone" }
 related: ["lhdn", "sst-explained", "sst-registration", "sales-tax-explained", "anti-dumping-countervailing-duties"]
 keywords: ["RMCD", "Kastam", "Jabatan Kastam Diraja Malaysia", "الجمارك الماليزية", "customs duty Malaysia", "SST Customs", "excise duty Malaysia", "رسم المكوس ماليزيا"]
+framework: profile
 ---
 
 وكالتان، ووزارة واحدة، وخطّ فاصل لا يكاد أحد يرسمه بصواب من المحاولة الأولى.

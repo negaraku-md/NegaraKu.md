@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "sarawak-tourism-board" }
 related: []
 keywords: ["Tourism Malaysia", "MOTAC", "Malaysia Tourism Promotion Board", "Sarawak Tourism Board", "Sabah Tourism Board", "Penang Global Tourism", "tourism licensing Malaysia"]
+framework: profile
 ---
 
 Ketika iklan "Malaysia Truly Asia" menarik perhatian Anda, sebuah badan hukum yang membayarnya — tetapi sebuah kementerian lain yang memutuskan apakah operator wisata di balik perjalanan Anda diperbolehkan menjualnya. Pariwisata Malaysia bergerak atas dasar pembagian tugas, dan mengetahui siapa melakukan apa bisa menghindari banyak kebingungan.

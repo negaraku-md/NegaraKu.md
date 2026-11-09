@@ -74,6 +74,7 @@ wikidata: "Q141851366"
 relations: []
 related: []
 keywords: ["MASB", "Malaysian Accounting Standards Board", "MFRS", "MPERS", "Financial Reporting Act 1997", "approved accounting standards Malaysia", "MFRS framework", "Financial Reporting Foundation", "IFRS Malaysia", "MFRS 18", "private entity reporting standard", "MASB standards force of law"]
+framework: profile
 ---
 
 Khi một công ty Malaysia ký duyệt tài khoản của mình, các quy tắc mà nó phải tuân theo không phải do kiểm toán viên, cơ quan thuế hay sàn giao dịch chứng khoán của nó viết ra. Chúng do **Ủy ban Chuẩn mực Kế toán Malaysia (MASB)** viết ra — và, một cách bất thường, những quy tắc đó mang sức mạnh của luật pháp.

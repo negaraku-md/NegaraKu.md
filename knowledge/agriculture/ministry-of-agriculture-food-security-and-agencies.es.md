@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "kementerian-kemajuan-desa-dan-wilayah" }
 related: []
 keywords: ["KPKM", "Kementerian Pertanian dan Keterjaminan Makanan", "Ministry of Agriculture and Food Security", "Ministerio de Agricultura y Seguridad Alimentaria", "DOA", "DVS", "DOF", "FAMA", "MARDI", "LPP", "LKIM", "BERNAS", "agencias agrícolas de Malasia"]
+framework: profile
 ---
 
 Cuando una vaca importada necesita ser puesta en cuarentena, un saco de semilla

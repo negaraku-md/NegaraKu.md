@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "rmcd-kastam" }
 related: ["rmcd-kastam", "ssm"]
 keywords: ["MITI Malaysia", "Ministerio de Inversión Comercio e Industria", "Ministry of Investment Trade and Industry", "MIDA", "MATRADE", "acuerdos de libre comercio Malasia", "política industrial Malasia", "RCEP", "CPTPP"]
+framework: profile
 ---
 
 ## De un vistazo

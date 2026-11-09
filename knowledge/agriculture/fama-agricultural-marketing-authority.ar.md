@@ -76,6 +76,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
 related: []
 keywords: ["FAMA", "الهيئة الاتحادية لتسويق المنتجات الزراعية", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Act 141", "سوق المزارعين", "My Farm Outlet", "Agrobazaar", "التسويق الزراعي", "fama.gov.my"]
+framework: profile
 ---
 
 قد يزرع مزارع خضروات في [مرتفعات كاميرون](/tourism/cameron-highlands-visitor-guide) أجود المحاصيل، ومع ذلك

@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "solar-atap-malaysia" }
 related: []
 keywords: ["SEDA", "Sustainable Energy Development Authority", "feed-in tariff", "NEM", "Solar ATAP", "KWTBB", "tenaga boleh baharu", "PETRA"]
+framework: profile
 ---
 
 每当你在西马缴付电费时，其中一小部分会流向一个你也许从未听过的法定机构——而正是这个机构决定了你屋顶上的太阳能是否划算。

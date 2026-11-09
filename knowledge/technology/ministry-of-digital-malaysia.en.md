@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "personal-data-protection-act-2010" }
 related: []
 keywords: ["Kementerian Digital", "Ministry of Digital Malaysia", "Gobind Singh Deo", "MDEC", "JDN", "CyberSecurity Malaysia", "ekonomi digital"]
+framework: profile
 ---
 
 When Malaysia decided that "digital" was too important to share with any other ministry, a new ministry was born. The Ministry of Digital is the country's technology policy control centre — home to the digital economy, cybersecurity and personal data protection under one roof.

@@ -128,6 +128,7 @@ relations:
   - { rel: "explained-in", to: "how-a-bill-becomes-law" }
 related: ["lhdn", "rmcd-kastam", "dewan-rakyat", "auditor-general", "how-a-bill-becomes-law"]
 keywords: ["Kementerian Kewangan Malaysia", "Ministry of Finance Malaysia", "Perbendaharaan", "Treasury Malaysia", "Belanjawan", "Akta 850", "hutang Persekutuan", "Ketua Setiausaha Perbendaharaan"]
+framework: profile
 ---
 
 Every ringgit spent by the Federal Government — from the salary of a nurse at a district hospital to interest paid to bondholders in London — passes through one and the same accounting gateway: the Treasury Malaysia. The Ministry of Finance is the ministry that holds that gateway, and since early 2024 it has held it under a set of numerical limits enshrined in law.

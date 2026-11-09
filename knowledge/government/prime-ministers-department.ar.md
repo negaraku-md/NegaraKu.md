@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "three-tiers-of-government" }
 related: ["kabinet-perdana-menteri", "yang-di-pertuan-agong", "dosm", "spr-election-commission", "three-tiers-of-government"]
 keywords: ["Jabatan Perdana Menteri", "دائرة رئيس الوزراء", "Prime Minister's Department Malaysia", "JPM Malaysia", "Ketua Setiausaha Negara", "الأمين العام للحكومة", "Chief Secretary to the Government", "Perdana Putra", "Putrajaya", "بوتراجايا", "دائرة حكومية اتحادية ماليزيا"]
+framework: profile
 ---
 
 ليس لدى ماليزيا وزارة واحدة تُدير آلة السياسة اليومية في البلاد. بل لديها

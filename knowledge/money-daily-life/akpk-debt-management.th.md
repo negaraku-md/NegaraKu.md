@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "personal-bankruptcy-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["AKPK", "Program Pengurusan Kredit", "PPK", "DMP", "penstrukturan hutang", "kaunseling kewangan", "Bank Negara Malaysia", "hutang kad kredit"]
+framework: profile
 ---
 
 เมื่อบิลบัตรเครดิต ค่างวดรถยนต์ และสินเชื่อบ้านมาถึงพร้อมกันทุกเดือนและเงินเดือนไม่พอ ชาวมาเลเซียจำนวนมากคิดว่าทางเลือกสุดท้ายมีเพียงการล้มละลายเท่านั้น ความจริงแล้วยังมีอีกประตูหนึ่งที่มาก่อนหน้านั้น และประตูนั้นให้บริการฟรีอย่างสมบูรณ์

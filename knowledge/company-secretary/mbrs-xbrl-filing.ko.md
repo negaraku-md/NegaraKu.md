@@ -85,6 +85,7 @@ entity: "Malaysian Business Reporting System (MBRS)"
 relations: []
 related: []
 keywords: ["MBRS", "MBRS 2.0", "XBRL", "SSM", "mTool", "mPortal", "SSMxT", "SSM taxonomy", "financial statements filing Malaysia", "Companies Act 2016", "annual return", "exempt private company", "Suruhanjaya Syarikat Malaysia", "MFRS", "MPERS"]
+framework: how-to
 ---
 
 여러분의 회사가 서명된 PDF를 넘겨줌으로써 여전히 "SSM에 회계를 제출한다"고

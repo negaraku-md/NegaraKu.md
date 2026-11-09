@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "three-tiers-of-government" }
 related: ["kabinet-perdana-menteri", "yang-di-pertuan-agong", "dosm", "spr-election-commission", "three-tiers-of-government"]
 keywords: ["Jabatan Perdana Menteri", "प्रधानमंत्री विभाग", "Prime Minister's Department Malaysia", "JPM Malaysia", "Ketua Setiausaha Negara", "सरकार के मुख्य सचिव", "Chief Secretary to the Government", "Perdana Putra", "Putrajaya", "पुत्रजया", "संघीय सरकारी विभाग मलेशिया"]
+framework: profile
 ---
 
 मलेशिया में कोई एक ऐसा मंत्रालय नहीं है जो देश की रोज़मर्रा की नीति-मशीन चलाता हो। उसके

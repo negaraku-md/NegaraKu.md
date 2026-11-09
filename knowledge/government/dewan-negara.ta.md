@@ -64,6 +64,7 @@ relations:
   - { rel: "compares-with", to: "dewan-rakyat" }
 related: ["parliament", "federal-constitution", "dewan-rakyat", "yang-di-pertuan-agong"]
 keywords: ["Dewan Negara", "Senat Malaysia", "senator Malaysia", "Perkara 45 Perlembagaan Persekutuan", "Perkara 68", "Jadual Ketujuh", "pelantikan senator", "kuasa menangguh"]
+framework: profile
 ---
 
 # Dewan Negara: செனட்டர்கள் எவ்வாறு நியமிக்கப்படுகிறார்கள், இந்த அவை ஏன் வீட்டோ செய்யாமல் தாமதப்படுத்துகிறது

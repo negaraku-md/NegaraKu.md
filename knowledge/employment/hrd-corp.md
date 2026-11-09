@@ -71,6 +71,7 @@ wikidata: "Q113541603"
 relations: []
 related: []
 keywords: ["HRD Corp", "HRDF", "HRD levy", "Pembangunan Sumber Manusia Berhad", "PSMB Act 2001", "HRDF registration", "HRD Corp claim", "HRD levy 1%", "HRD Corp claimable courses", "human resource development fund Malaysia", "HRDF levy calculation", "Akta 612"]
+framework: profile
 ---
 
 If your company runs Malaysian payroll, one line on the payslip ledger may read as a **1% levy to HRD Corp** — and unlike EPF or SOCSO, it is not a benefit paid out to the worker. It is a training budget the *employer* pays in and then claims back. Understanding that loop is the difference between treating the levy as a tax and using it as intended.

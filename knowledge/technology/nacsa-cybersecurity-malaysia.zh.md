@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "cyber-security-act-2024" }
 related: ["cyber-security-act-2024"]
 keywords: ["NACSA", "National Cyber Security Agency", "CyberSecurity Malaysia", "MyCERT", "Cyber999", "Cyber Security Act 2024", "Act 854", "cyber security service provider licence", "Ministry of Digital", "nacsa.gov.my"]
+framework: explainer
 ---
 
 马来西亚有两个政府机构的名称中都带有"网络安全"字样，人们常常把事情送错门——把发牌问题送到事件热线，把账号被黑的报案送到政策机构。这两个名字听起来可以互换，但它们的职责并非如此。

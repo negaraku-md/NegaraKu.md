@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "malaysian-accounting-standards-board" }
 related: []
 keywords: ["MIA", "Institut Akauntan Malaysia", "Akta Akauntan 1967", "Chartered Accountant Malaysia", "CA(M)", "sijil amalan", "lesen audit"]
+framework: profile
 ---
 
 மலேசியாவில் ஒரு குறிப்பிட்ட அமைப்பில் பதிவு செய்யாமல் உங்களை “கணக்காளர்” என்று அழைத்துக்கொண்டால், நீங்கள் உண்மையில் ஒரு குற்றவியல் குற்றத்தைப் புரிகிறீர்கள். அந்த அமைப்பே மலேசிய கணக்காளர்கள் நிறுவனம் — MIA — ஆகும்; இந்த நாட்டில் யார் கணக்காளராகக் கருதப்படுவார் என்பதைத் தீர்மானிக்கும் ஒரே அதிகாரத்தை இது வைத்திருக்கிறது.

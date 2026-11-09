@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "solar-atap-malaysia" }
 related: []
 keywords: ["SEDA", "Sustainable Energy Development Authority", "feed-in tariff", "NEM", "Solar ATAP", "KWTBB", "tenaga boleh baharu", "PETRA"]
+framework: profile
 ---
 
 Setiap kali anda membayar bil elektrik di Semenanjung, sebahagian kecil daripadanya mengalir ke sebuah badan berkanun yang mungkin anda tidak pernah dengar — dan badan itulah yang menentukan sama ada solar di bumbung anda berbaloi atau tidak.

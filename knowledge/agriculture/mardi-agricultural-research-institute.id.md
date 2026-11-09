@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "malaysia-rice-industry" }
 related: []
 keywords: ["MARDI", "agricultural research", "rice varieties", "MR 297", "KADARIA", "SMART SBB", "Malaysia agriculture", "padi"]
+framework: profile
 ---
 
 Hampir setiap piring nasi lokal di Malaysia menelusuri asalnya ke varietas yang dimuliakan di stasiun ladang MARDI. Di balik padi, ternak unggas, buah tropis dan rak makanan olahan negara ini terletak satu institut federal yang tugasnya menerjemahkan sains menjadi hasil yang lebih tinggi.

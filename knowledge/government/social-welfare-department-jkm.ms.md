@@ -77,6 +77,7 @@ wikidata: "Q7354381"
 relations: []
 related: []
 keywords: ["JKM", "Jabatan Kebajikan Masyarakat", "Department of Social Welfare Malaysia", "bantuan JKM", "OKU card", "OKU registration", "eBantuan JKM", "eKasih", "MyDaftar OKU", "Bantuan Kanak-Kanak BKK", "Persons with Disabilities Act 2008", "kad OKU"]
+framework: profile
 ---
 
 **Jabatan Kebajikan Masyarakat** — dikenali di mana-mana dengan akronimnya **JKM** — ialah agensi persekutuan yang menyambut rakyat Malaysia ketika mereka jatuh. Ia ditubuhkan pada tahun **1946**, pada mulanya sebagai tindak balas terhadap masalah sosial yang berpunca daripada Perang Dunia Kedua, dan peranannya kemudian berkembang kepada **perlindungan, pemulihan, pencegahan, pembangunan dan integrasi masyarakat**. Hasil carian untuk JKM didominasi oleh blog "cara menuntut bantuan" bertanda tahun dan halaman perkhidmatan yang ringkas; halaman ini sebaliknya menerangkan JKM sebagai sebuah institusi dan bagaimana perkhidmatannya berkait rentas seluruh kitaran hidup — daripada kanak-kanak kepada orang kurang upaya kepada warga emas.

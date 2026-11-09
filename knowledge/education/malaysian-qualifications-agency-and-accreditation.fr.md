@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "higher-education-in-malaysia" }
 related: []
 keywords: ["MQA", "MQA accreditation", "Malaysian Qualifications Framework", "MQF", "MQR", "degree recognition Malaysia", "provisional accreditation", "full accreditation"]
+framework: profile
 ---
 
 Deux étudiants obtiennent un diplôme au nom quasi identique. L'un remplit les conditions pour un emploi public et une place de master ; l'autre est refusé à la porte. La différence est souvent une seule ligne dans un registre public : le fait que l'Agence des qualifications de Malaisie ait ou non accrédité le programme.

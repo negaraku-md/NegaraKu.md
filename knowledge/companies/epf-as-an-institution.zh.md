@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["epf-as-investor", "khazanah", "pnb", "bursa-malaysia"]
 keywords: ["KWSP", "EPF", "dana persaraan", "pelabur institusi", "dividen KWSP", "Akta KWSP 1991", "simpanan pekerja"]
+framework: profile
 ---
 
 每当马来西亚的一名私营领域雇员收到工资单时，他收入的一部分便会流向一个如今持有超过1.25万亿令吉的单一机构。那就是雇员公积金局（Kumpulan Wang Simpanan Pekerja），即KWSP。

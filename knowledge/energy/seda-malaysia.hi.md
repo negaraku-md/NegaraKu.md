@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "solar-atap-malaysia" }
 related: []
 keywords: ["SEDA", "Sustainable Energy Development Authority", "feed-in tariff", "NEM", "Solar ATAP", "KWTBB", "tenaga boleh baharu", "PETRA"]
+framework: profile
 ---
 
 जब भी आप प्रायद्वीपीय मलेशिया में बिजली का बिल चुकाते हैं, उसका एक छोटा हिस्सा एक सांविधिक निकाय की ओर प्रवाहित होता है जिसके बारे में आपने शायद कभी नहीं सुना होगा — और वही निकाय यह तय करता है कि आपकी छत पर लगे सौर पैनल इसके लायक हैं या नहीं।

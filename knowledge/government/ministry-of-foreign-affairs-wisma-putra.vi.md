@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["miti", "matrade"]
 keywords: ["Wisma Putra", "Ministry of Foreign Affairs Malaysia", "Kementerian Luar Negeri", "kln.gov.my", "Malaysian embassies", "consular assistance Malaysia", "Malaysian high commissions", "Malaysia foreign policy"]
+framework: profile
 ---
 
 Khi một người Malaysia mắc kẹt ở nước ngoài, khi Malaysia bỏ một lá phiếu tại Liên Hợp Quốc, hoặc khi một đại sứ mới trình quốc thư tại một thủ đô nước ngoài, cùng một thể chế đứng sau cả ba điều đó — Wisma Putra.

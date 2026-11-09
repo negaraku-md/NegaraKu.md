@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "majlis-raja-raja" }
 related: ["three-tiers-of-government", "federal-constitution", "parliament", "dewan-rakyat", "yang-di-pertuan-agong", "majlis-raja-raja"]
 keywords: ["Suruhanjaya Pilihan Raya", "SPR", "Election Commission", "Perkara 113", "Perkara 114", "Perlembagaan Persekutuan", "persempadanan semula", "daftar pemilih", "Jadual Ketiga Belas"]
+framework: profile
 ---
 
 Badan yang menyelenggarakan pemilihan di Malaysia tidak diwujudkan oleh suatu undang-undang biasa, dan tidak dapat dibubarkan oleh suatu undang-undang biasa. Ia ditetapkan langsung dalam Konstitusi Federal — dan dua Pasal, yaitu 113 dan 114, menetapkan apa yang dapat dilakukannya dan siapa yang dapat menjadi anggotanya.

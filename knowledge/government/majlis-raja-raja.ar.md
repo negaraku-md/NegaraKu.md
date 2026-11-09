@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["مجلس الحكام", "Majlis Raja-Raja", "Conference of Rulers", "المادة 38 من الدستور الاتحادي", "Perkara 38 Perlembagaan Persekutuan", "الجدول الخامس", "Jadual Kelima", "انتخاب يانغ دي-برتوان أغونغ", "pemilihan Yang di-Pertuan Agong", "حافظ الختم الكبير للحكام", "Penyimpan Mohor Besar Raja-Raja"]
+framework: profile
 ---
 
 ثمة قائمة قصيرة في الدستور الاتحادي نادرًا ما تُذكر: قائمة بأمور لا يستطيع البرلمان إقرارها وحده. فبالنسبة إلى تلك الأمور، لا يكفي تصويت بأغلبية الثلثين في مجلس النواب (Dewan Rakyat) ومجلس الشيوخ (Dewan Negara) وحدهما. بل تُشترط موافقة هيئة أخرى — وتلك الهيئة هي مجلس الحكام.

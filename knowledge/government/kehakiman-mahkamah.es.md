@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["jerarquía judicial de Malasia", "Malaysia court hierarchy", "Tribunal Federal de Malasia", "Federal Court of Malaysia", "Tribunal de Apelación de Malasia", "Court of Appeal Malaysia", "High Court in Malaya", "jurisdicción del Tribunal de Sesiones", "Judicial Appointments Commission", "Article 122B"]
+framework: explainer
 ---
 
 Una disputa contractual de RM60,000 y una impugnación de la validez de una ley federal comienzan ambas como un papel presentado en el mostrador de un tribunal. No van al mismo mostrador, no las resuelve el mismo tipo de juez, y solo una de ellas puede acabar ante nueve jueces en Putrajaya.

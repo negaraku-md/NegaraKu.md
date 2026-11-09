@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["epf-as-investor", "khazanah", "pnb", "bursa-malaysia"]
 keywords: ["KWSP", "EPF", "صندوق التقاعد", "المستثمر المؤسسي", "توزيعات أرباح KWSP", "قانون KWSP 1991", "Akta KWSP 1991", "مدخرات الموظفين"]
+framework: profile
 ---
 
 في كل مرة يتلقّى فيها عامل في القطاع الخاص في ماليزيا قسيمة راتبه، يتدفّق جزء من دخله إلى مؤسسة واحدة تملك الآن أكثر من RM1.25 تريليون. تلك المؤسسة هي صندوق ادخار الموظفين، أو EPF.

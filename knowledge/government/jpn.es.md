@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "ssm" }
 related: ["federal-constitution", "imigresen", "lhdn", "ssm"]
 keywords: ["JPN", "Jabatan Pendaftaran Negara", "National Registration Department", "Departamento Nacional de Registro", "MyKad", "MyKid", "MyPR", "certificado de nacimiento", "registro de defunción", "matrimonio civil", "ciudadanía"]
+framework: profile
 ---
 
 Todo ciudadano malasio tiene un expediente en JPN que se abre antes de que pueda

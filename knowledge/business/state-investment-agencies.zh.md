@@ -112,6 +112,7 @@ relations:
   - { rel: "compares-with", to: "investment-agency-directory" }
 related: ["economic-corridors-compared", "js-sez-guide", "ncer-guide", "ecer-guide", "sarawak-business-guide", "investment-agency-directory", "iskandar-malaysia-guide", "manufacturing-licence-malaysia"]
 keywords: ["state investment agency malaysia", "invest selangor nol", "investpenang no objection letter", "ncia ncer", "ecerdc", "sedia sabah", "recoda score", "irda iskandar", "investkl mida"]
+framework: explainer
 ---
 
 人人叫你第一个去找的那家机构，通常批不了你真正需要的那件事。这不是在批评这些机构——

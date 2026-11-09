@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "malaysia-civil-defence-force-apm" }
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "gestión de desastres", "Directiva NADMA N.º 1", "Directiva MKN 20", "inundación", "SMART", "Departamento del Primer Ministro"]
+framework: profile
 ---
 
 Cuando una gran inundación golpea varios estados a la vez, ¿quién pulsa el botón para coordinar al ejército, los bomberos, la policía y los voluntarios bajo un único mando? En Malasia, la respuesta es NADMA.

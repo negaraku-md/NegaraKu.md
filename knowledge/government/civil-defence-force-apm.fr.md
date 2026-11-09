@@ -72,6 +72,7 @@ related: []
 keywords: ["APM", "Angkatan Pertahanan Awam Malaysia", "Civil Defence Force", "JPAM", "disaster response Malaysia", "Civil Defence Act 1951", "search and rescue Malaysia", "flood relief Malaysia", "NADMA", "civil defence volunteers"]
 social:
   hashtags: ["APM", "CivilDefence", "DisasterResponse", "Malaysia", "SAR"]
+framework: profile
 ---
 
 Lorsque les eaux de crue montent sur la côte est de la Malaisie à chaque mousson, les personnels en uniforme orange qui pataugent dans l'eau pour atteindre les familles bloquées sont habituellement de l'**APM**. La **Force de protection civile de Malaisie** — *Angkatan Pertahanan Awam Malaysia*, ou **APM** — est l'agence fédérale en uniforme chargée de la protection civile et de l'intervention en cas de catastrophe : secours en cas d'inondation, recherche-secours, aide humanitaire et appui à la sécurité lors de grands événements publics. Elle opère en vertu du **Civil Defence Act 1951 (Act 221)** et, depuis 2015, relève du **Département du Premier ministre**, et elle est bâtie autour de l'un des plus grands viviers de volontaires formés du pays.

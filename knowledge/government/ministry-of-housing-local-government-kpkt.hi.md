@@ -77,6 +77,7 @@ wikidata: "Q6867161"
 relations: []
 related: []
 keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "आवास एवं स्थानीय सरकार मंत्रालय मलेशिया", "Ministry of Housing and Local Government Malaysia", "KPKT कार्य", "KPKT एजेंसियाँ", "JBPM", "PLANMalaysia", "Jabatan Kerajaan Tempatan", "Jabatan Perumahan Negara", "आवास एवं स्ट्रेटा प्रबंधन अधिकरण", "SWCorp", "Strata Management Act 2013", "Local Government Act 1976", "Nga Kor Ming", "किफ़ायती आवास मलेशिया B40 M40"]
+framework: profile
 ---
 
 जब आपका कचरा न उठाया जाए, जब अग्नि-सुरक्षा प्रमाणपत्र की अवधि आ जाए, और जब कोई डेवलपर आपका फ़्लैट दो साल की देरी से सौंपे — इन तीनों के पीछे वही संघीय मंत्रालय बैठा होता है। **आवास एवं स्थानीय सरकार मंत्रालय**, *Kementerian Perumahan dan Kerajaan Tempatan*, जो सर्वत्र **KPKT** के नाम से जाना जाता है, किफ़ायती आवास, स्थानीय सरकार, नगर नियोजन, अग्निशमन एवं बचाव, ठोस अपशिष्ट, भूदृश्य-संयोजन, और सामुदायिक ऋण के लिए मलेशिया का संघीय मंत्रालय है। इसका मुख्यालय No. 51, Persiaran Perdana, Precinct 4, Federal Government Administrative Centre, 62100 Putrajaya में है। मंत्री **Nga Kor Ming** हैं और उप-मंत्री **Datuk Hajah Aiman Athirah binti Sabu** हैं।

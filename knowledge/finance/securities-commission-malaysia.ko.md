@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "capital-markets-and-services-act-2007" }
 related: ["bursa-malaysia", "bank-negara-malaysia"]
 keywords: ["securities commission malaysia", "SC Malaysia", "capital market regulator", "CMSA 2007", "Securities Commission Act 1993", "equity crowdfunding", "P2P financing"]
+framework: profile
 ---
 
 단위신탁을 사거나, 지분형 크라우드펀딩 플랫폼을 통해 투자하거나, Bursa Malaysia에서 주식을 거래할 때, 그 모든 것 뒤의 규칙을 정하는 한 기구가 있습니다: 말레이시아 증권위원회입니다. 이는 이 나라 자본시장의 단일 법정 문지기이며 — 그 권한이 정확히 어디에서 시작하고 멈추는지 아는 것이 많은 혼동을 덜어 줍니다.

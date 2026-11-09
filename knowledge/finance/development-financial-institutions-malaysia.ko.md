@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "islamic-banking-malaysia" }
 related: ["bank-negara-malaysia", "sme-financing-malaysia"]
 keywords: ["development financial institutions", "DFI Malaysia", "DFIA 2002", "Bank Pembangunan", "Bank Rakyat", "Agrobank", "SME Bank", "Bank Simpanan Nasional", "EXIM Bank", "Bank Negara Malaysia"]
+framework: profile
 ---
 
 말레이시아의 농민이 기름야자 농원을 다시 심기 위해 5년 대출이 필요하거나, 수출업체가 신흥 시장에 판매하기 위해 신용 타카풀이 필요할 때, 상업은행은 종종 거절합니다. 바로 그 공백을 메우기 위해 말레이시아의 개발금융기관이 존재합니다.

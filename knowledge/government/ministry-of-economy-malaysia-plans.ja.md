@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["malaysia-plans", "dosm", "federal-budget"]
 keywords: ["Kementerian Ekonomi", "Ministry of Economy Malaysia", "Unit Perancang Ekonomi", "EPU", "Rancangan Malaysia", "perancangan pembangunan", "DOSM", "Jawatankuasa Perancang Pembangunan Negara"]
+framework: profile
 ---
 
 首相が下院（Dewan Rakyat）に立ち、国の5カ年開発計画を提示するたびに、その手にある

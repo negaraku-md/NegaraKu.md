@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "personal-data-protection-act-2010" }
 related: []
 keywords: ["Kementerian Digital", "Ministry of Digital Malaysia", "Gobind Singh Deo", "MDEC", "JDN", "CyberSecurity Malaysia", "ekonomi digital"]
+framework: profile
 ---
 
 Lorsque la Malaisie a décidé que le «numérique» était trop important pour être partagé avec n'importe quel autre ministère, un nouveau ministère est né. Le ministère du Numérique est le centre de pilotage de la politique technologique du pays — hébergeant sous un même toit l'économie numérique, la cybersécurité et la protection des données personnelles.

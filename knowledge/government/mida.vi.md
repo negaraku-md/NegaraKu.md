@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "state-investment-agencies" }
 related: ["manufacturing-licence-malaysia", "new-incentive-framework", "tax-incentives-directory", "investment-agency-directory", "state-investment-agencies", "mdec-digital-status"]
 keywords: ["MIDA", "Malaysian Investment Development Authority", "MIDA vs MITI", "investment promotion agency Malaysia", "manufacturing licence Malaysia MIDA", "Invest Malaysia Facilitation Centre"]
+framework: profile
 ---
 
 Mọi nhà đầu tư nước ngoài rốt cuộc đều giao dịch với MIDA. Rất ít người trong số họ được cho biết, ngay từ đầu, rằng MIDA không phải là cơ quan nói "đồng ý".

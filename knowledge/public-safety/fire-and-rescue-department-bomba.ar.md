@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "angkatan-pertahanan-awam" }
 related: ["pdrm"]
 keywords: ["Bomba", "JBPM", "دائرة الإطفاء والإنقاذ الماليزية", "Fire and Rescue Department", "قانون خدمات الإطفاء 1988", "Akta 341", "999", "MERS 999"]
+framework: profile
 ---
 
 حين يشبّ حريق في منزل، أو تحتجز سيارةٌ في فيضان، أو ينحشر عامل في حيّز

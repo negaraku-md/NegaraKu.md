@@ -70,6 +70,7 @@ keywords:
   - "Attorney General's Chambers"
   - "Peguam Negara"
   - "right of audience Attorney General"
+framework: profile
 ---
 
 大半の公職は、国会が書き換えることのできる成文法によって定められている。連邦司法長官の職務は

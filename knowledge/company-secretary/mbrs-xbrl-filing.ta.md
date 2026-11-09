@@ -85,6 +85,7 @@ entity: "Malaysian Business Reporting System (MBRS)"
 relations: []
 related: []
 keywords: ["MBRS", "MBRS 2.0", "XBRL", "SSM", "mTool", "mPortal", "SSMxT", "SSM taxonomy", "financial statements filing Malaysia", "Companies Act 2016", "annual return", "exempt private company", "Suruhanjaya Syarikat Malaysia", "MFRS", "MPERS"]
+framework: how-to
 ---
 
 கையொப்பமிடப்பட்ட PDF ஒன்றைக் கொடுப்பதன் மூலம் தனது நிறுவனம் இன்னும் SSM-இடம் “கணக்குகளைத் தாக்கல் செய்கிறது” என்று நினைத்துக்கொண்டிருந்தால், அந்தக் காலம் முடிந்துவிட்டது. **மலேசிய வணிக அறிக்கையிடல் அமைப்பு (Malaysian Business Reporting System, MBRS)** என்பது eXtensible Business Reporting Language (XBRL) வடிவமைப்பின் மீது கட்டமைக்கப்பட்ட SSM-இன் சமர்ப்பிப்புத் தளமாகும், மேலும் **2025 ஜூன் 1** முதல் Companies Act 2016-இன் கீழுள்ள நிறுவனங்களுக்கு அதன் வழியாகத் தணிக்கை செய்யப்பட்ட நிதி அறிக்கைகளைச் சமர்ப்பிப்பது கட்டாயமாகும். MBRS வழியாக ஒரு நிறுவனம் மூன்று வகையான சமர்ப்பிப்புகளைச் செய்கிறது: **ஆண்டறிக்கை (Annual Return, AR)**, **நிதி அறிக்கைகள் மற்றும் அறிக்கைகள் (Financial Statements and Reports, FS)**, மற்றும் **விலக்கு விண்ணப்பங்கள் (Exemption Applications, EA)**.

@@ -84,6 +84,7 @@ wikidata: "Q3816079"
 relations: []
 related: []
 keywords: ["Ministry of Education Malaysia", "KPM", "Kementerian Pendidikan Malaysia", "Fadhlina Sidek", "Education Act 1996", "Malaysia Education Blueprint", "PPPM", "KPM vs KPT", "Menteri Pendidikan Malaysia", "moe.gov.my", "compulsory education Malaysia", "Malaysia school system"]
+framework: profile
 ---
 
 Nếu nó liên quan đến một học sinh Malaysia — chương trình các em học, cuốn sách giáo khoa trên bàn, kỳ thi quốc gia các em dự, hay giáo viên trường công đứng trước lớp — thì nó thuộc về Bộ Giáo dục. Được biết đến trong tiếng Mã Lai là **Kementerian Pendidikan Malaysia** và hầu như luôn được viết tắt là **KPM**, đó là bộ liên bang điều hành hệ thống giáo dục tiền đại học của đất nước. Điều nó *không* điều hành là các trường đại học — một ranh giới khiến rất nhiều người vấp phải.

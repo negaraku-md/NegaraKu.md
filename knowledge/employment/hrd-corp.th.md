@@ -72,6 +72,7 @@ wikidata: "Q113541603"
 relations: []
 related: []
 keywords: ["HRD Corp", "HRDF", "HRD levy", "Pembangunan Sumber Manusia Berhad", "PSMB Act 2001", "HRDF registration", "HRD Corp claim", "HRD levy 1%", "HRD Corp claimable courses", "human resource development fund Malaysia", "HRDF levy calculation", "Akta 612"]
+framework: profile
 ---
 
 หากบริษัทของคุณดำเนินการจ่ายเงินเดือนในมาเลเซีย บรรทัดหนึ่งในบัญชีสลิปเงินเดือนอาจปรากฏเป็น **เงินอากร 1% แก่ HRD Corp** — และต่างจาก EPF หรือ SOCSO ตรงที่มันไม่ใช่สวัสดิการที่จ่ายให้แก่ลูกจ้าง แต่เป็นงบประมาณฝึกอบรมที่ *นายจ้าง* จ่ายเข้าไปแล้วเบิกคืนกลับมา การเข้าใจวงจรนี้คือความแตกต่างระหว่างการมองเงินอากรเป็นภาษี กับการใช้มันตามวัตถุประสงค์ที่แท้จริง

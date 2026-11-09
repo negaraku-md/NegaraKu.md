@@ -74,6 +74,7 @@ wikidata: "Q141851366"
 relations: []
 related: []
 keywords: ["MASB", "Malaysian Accounting Standards Board", "MFRS", "MPERS", "Financial Reporting Act 1997", "approved accounting standards Malaysia", "MFRS framework", "Financial Reporting Foundation", "IFRS Malaysia", "MFRS 18", "private entity reporting standard", "MASB standards force of law"]
+framework: profile
 ---
 
 当一家马来西亚公司在账目上签字确认时，它必须遵循的规则既不是由其审计师、税务局，也不是由证券交易所制定的。这些规则由**马来西亚会计准则理事会（MASB）**制定——而且不同寻常的是，这些规则具有法律效力。

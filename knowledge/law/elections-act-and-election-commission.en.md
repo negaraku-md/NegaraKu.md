@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "dewan-rakyat"]
 keywords: ["SPR", "Suruhanjaya Pilihan Raya", "Akta Pilihan Raya 1958", "Akta Kesalahan Pilihan Raya 1954", "persempadanan", "Perlembagaan Persekutuan", "Perkara 113", "Perkara 114"]
+framework: profile
 ---
 
 Every time Parliament is dissolved and the country moves towards a general election, the same body acts as the referee: the Election Commission. It is the one that sets the date, revises the electoral rolls, manages nomination day and polling day, and declares the results. Yet its powers and limits come not from any government in office, but from the Federal Constitution itself.

@@ -73,6 +73,7 @@ wikidata: "Q6742016"
 relations: []
 related: []
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department Malaysia", "MyJPJ", "road tax renewal", "driving licence renewal", "e-LKM", "e-LMM", "MySIKAP", "JPJeBid", "Road Transport Act 1987", "KEJARA demerit points", "cukai jalan", "lesen memandu"]
+framework: profile
 ---
 
 马来西亚每一笔缴付的路税、每一块发出的车牌、每一张随身携带的驾驶执照，都经由同一个机构处理：**陆路交通局**——*Jabatan Pengangkutan Jalan*，人们无不以其缩写 **JPJ** 相称。它隶属于**交通部**陆路组，是负责登记车辆、发放驾驶执照与车牌，并执行《1987年陆路交通法令》以确保驾驶者谨慎、车辆安全的部门。

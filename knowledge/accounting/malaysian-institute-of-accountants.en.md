@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "malaysian-accounting-standards-board" }
 related: []
 keywords: ["MIA", "Institut Akauntan Malaysia", "Akta Akauntan 1967", "Chartered Accountant Malaysia", "CA(M)", "sijil amalan", "lesen audit"]
+framework: profile
 ---
 
 Call yourself an "accountant" in Malaysia without registering with one particular body, and you are in fact committing a criminal offence. That body is the Malaysian Institute of Accountants — MIA — and it holds the sole authority to decide who counts as an accountant in this country.

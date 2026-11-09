@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["gdp-overview", "inflation-cpi", "unemployment-labour-force", "external-trade"]
 keywords: ["DOSM", "دائرة الإحصاء الماليزية", "Jabatan Perangkaan Malaysia", "Department of Statistics Malaysia", "OpenDOSM", "تقويم الإصدار المسبق", "Advance Release Calendar", "الإحصاءات الرسمية الماليزية", "Malaysia official statistics"]
+framework: profile
 ---
 
 يكاد كل رقم اقتصادي ماليزي قرأتَه يوماً — معدّل النمو الذي يقتبسه وزير،

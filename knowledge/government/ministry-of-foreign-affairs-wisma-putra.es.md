@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["miti", "matrade"]
 keywords: ["Wisma Putra", "Ministry of Foreign Affairs Malaysia", "Kementerian Luar Negeri", "kln.gov.my", "Malaysian embassies", "consular assistance Malaysia", "Malaysian high commissions", "Malaysia foreign policy"]
+framework: profile
 ---
 
 Cuando un malasio queda varado en el extranjero, cuando Malasia emite un voto en las Naciones Unidas, o cuando un nuevo embajador presenta sus credenciales en una capital extranjera, la misma institución respalda las tres cosas — Wisma Putra.

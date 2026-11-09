@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "higher-education-in-malaysia" }
 related: []
 keywords: ["MQA", "MQA accreditation", "Malaysian Qualifications Framework", "MQF", "MQR", "degree recognition Malaysia", "provisional accreditation", "full accreditation"]
+framework: profile
 ---
 
 दो विद्यार्थी एक जैसे नाम वाले डिप्लोमा के साथ स्नातक होते हैं। एक सरकारी नौकरी और परास्नातक सीट के लिए योग्य हो जाता है; दूसरे को दरवाज़े पर ही लौटा दिया जाता है। यह अंतर अक्सर एक सार्वजनिक रजिस्टर में एक ही पंक्ति होता है: क्या मलेशियन क्वालिफ़िकेशन्स एजेंसी ने कार्यक्रम को मान्यता दी।

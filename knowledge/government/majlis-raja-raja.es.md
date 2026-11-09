@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["Majlis Raja-Raja", "Conference of Rulers", "Conferencia de Gobernantes", "Perkara 38 Perlembagaan Persekutuan", "Jadual Kelima", "elección del Yang di-Pertuan Agong", "Penyimpan Mohor Besar Raja-Raja"]
+framework: profile
 ---
 
 Hay una breve lista en la Constitución Federal que rara vez se menciona: una lista de materias que el Parlamento no puede aprobar por sí solo. Para esas materias, una votación de dos tercios en el Dewan Rakyat y en el Dewan Negara no basta por sí sola. Se requiere el consentimiento de otro órgano — y ese órgano es la Conferencia de Gobernantes.

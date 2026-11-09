@@ -80,6 +80,7 @@ relations:
   - { rel: "part-of", to: "company-secretary" }
 related: ["company-secretary-qualification", "appoint-company-secretary", "ssm"]
 keywords: ["MAICSA", "Chartered Secretaries Malaysia", "Instituto Malasio de Secretarios y Administradores Colegiados", "Malaysian Institute of Chartered Secretaries and Administrators", "membresía MAICSA secretario de empresa", "Cuarto Anexo Ley de Sociedades 2016 organismos aprobados"]
+framework: profile
 ---
 
 MAICSA es el organismo que la mayoría de los malasios nombran cuando se les

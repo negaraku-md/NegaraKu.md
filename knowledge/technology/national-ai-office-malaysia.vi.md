@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "personal-data-protection-act-malaysia" }
 related: []
 keywords: ["national ai office", "naio", "ai malaysia", "ai action plan 2026-2030", "aige", "ai governance malaysia", "ai nation 2030"]
+framework: explainer
 ---
 
 Khi một quốc gia muốn lèo lái trí tuệ nhân tạo nhưng không muốn chờ nhiều năm để có một luật, nó xây dựng một văn phòng trước. Malaysia đã làm đúng điều đó: thay vì mở màn bằng một Đạo luật AI, nó dựng lên một cơ quan điều phối, công bố một bộ nguyên tắc đạo đức tự nguyện, và viết một kế hoạch năm năm — rồi bắt đầu soạn thảo đạo luật sau đó.

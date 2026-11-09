@@ -80,6 +80,7 @@ wikidata: "Q12698635"
 relations: []
 related: []
 keywords: ["MyIPO", "Intellectual Property Corporation of Malaysia", "Corporation de la propriété intellectuelle de la Malaisie", "Perbadanan Harta Intelek Malaysia", "enregistrement de marque Malaisie", "enregistrement de brevet Malaisie", "taxes de marque MyIPO", "Trademarks Act 2019", "droit d'auteur Malaisie", "dessin industriel Malaisie", "indication géographique Malaisie", "enregistrement de PI Malaisie", "dépôt en ligne MyIPO"]
+framework: profile
 ---
 
 Si vous avez inventé quelque chose, bâti une marque, conçu un produit ou souhaitez protéger une spécialité régionale en Malaisie, il existe une seule porte pour presque tout cela — et il est facile d'être orienté vers le mauvais service par une page qui cherche à vous en vendre un seul. **MyIPO**, la Corporation de la propriété intellectuelle de la Malaisie (en malais : *Perbadanan Harta Intelek Malaysia*), est l'organisme statutaire chargé de développer et d'administrer l'ensemble du système de propriété intellectuelle de la Malaisie. Cela englobe la propriété industrielle — brevets, marques, dessins industriels et schémas de configuration de circuits intégrés — ainsi que le droit d'auteur et les droits connexes.

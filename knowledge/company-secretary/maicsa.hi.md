@@ -80,6 +80,7 @@ relations:
   - { rel: "part-of", to: "company-secretary" }
 related: ["company-secretary-qualification", "appoint-company-secretary", "ssm"]
 keywords: ["MAICSA", "चार्टर्ड सेक्रेटरीज़ मलेशिया", "Chartered Secretaries Malaysia", "मलेशियाई चार्टर्ड सचिव एवं प्रशासक संस्थान", "Malaysian Institute of Chartered Secretaries and Administrators", "MAICSA सदस्यता कंपनी सचिव", "MAICSA membership company secretary", "चौथी अनुसूची कंपनी अधिनियम 2016 अनुमोदित संस्थाएँ", "Fourth Schedule Companies Act 2016 approved bodies"]
+framework: profile
 ---
 
 MAICSA वह संस्था है जिसका नाम अधिकांश मलेशियाई तब लेते हैं जब उनसे पूछा जाता है

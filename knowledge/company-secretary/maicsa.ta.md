@@ -80,6 +80,7 @@ relations:
   - { rel: "part-of", to: "company-secretary" }
 related: ["company-secretary-qualification", "appoint-company-secretary", "ssm"]
 keywords: ["MAICSA", "Chartered Secretaries Malaysia", "Malaysian Institute of Chartered Secretaries and Administrators", "MAICSA membership company secretary", "Fourth Schedule Companies Act 2016 approved bodies"]
+framework: profile
 ---
 
 நிறுவனச் செயலாளர்கள் யாருக்குப் பதில் சொல்ல வேண்டியவர்கள் எனக் கேட்டால், பெரும்பாலான

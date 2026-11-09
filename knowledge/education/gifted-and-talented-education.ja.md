@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "special-needs-education" }
 related: []
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
+framework: profile
 ---
 
 フォーム5（中等教育第5学年）の数学の問題を解ける10歳の子供が、通常のクラスでは必ずしも目立つとは限らない——そしてマレーシアで、こうした頭脳を見出し磨き上げるために作られた唯一の国立センターが、PERMATApintarである。

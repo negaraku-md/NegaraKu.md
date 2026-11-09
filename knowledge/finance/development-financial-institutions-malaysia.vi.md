@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "islamic-banking-malaysia" }
 related: ["bank-negara-malaysia", "sme-financing-malaysia"]
 keywords: ["development financial institutions", "DFI Malaysia", "DFIA 2002", "Bank Pembangunan", "Bank Rakyat", "Agrobank", "SME Bank", "Bank Simpanan Nasional", "EXIM Bank", "Bank Negara Malaysia"]
+framework: profile
 ---
 
 Khi một nông dân Malaysia cần một khoản vay năm năm để trồng lại một đồn điền cọ dầu, hoặc một nhà xuất khẩu cần takaful tín dụng để bán vào một thị trường biên giới, các ngân hàng thương mại thường nói không. Chính khoảng trống đó là điều mà các tổ chức tài chính phát triển của Malaysia tồn tại để lấp đầy.

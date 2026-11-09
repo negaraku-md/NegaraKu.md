@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["Malaysia court hierarchy", "Federal Court of Malaysia", "Court of Appeal Malaysia", "High Court in Malaya", "Sessions Court jurisdiction", "Judicial Appointments Commission", "Article 122B"]
+framework: explainer
 ---
 
 Một tranh chấp hợp đồng trị giá RM60,000 và một thách thức về tính hợp lệ của một đạo luật liên bang đều bắt đầu là một tờ giấy nộp tại quầy tòa án. Chúng không đến cùng một quầy, không được cùng một loại thẩm phán quyết định, và chỉ một trong hai có thể kết thúc trước chín thẩm phán ở Putrajaya.

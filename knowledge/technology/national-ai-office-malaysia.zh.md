@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "personal-data-protection-act-malaysia" }
 related: []
 keywords: ["national ai office", "naio", "ai malaysia", "ai action plan 2026-2030", "aige", "ai governance malaysia", "ai nation 2030"]
+framework: explainer
 ---
 
 当一个国家想要引导人工智能的发展，却又不愿意为一部法律等上数年时，它会先建起一个办公室。马来西亚正是这么做的：它没有以一部《人工智能法》开局，而是先设立一个协调机构，发布一套自愿性的伦理原则，并制定一项五年计划——之后才着手起草法规。

@@ -75,6 +75,7 @@ wikidata: "Q7354460"
 relations: []
 related: []
 keywords: ["Jabatan Warisan Negara", "JWN", "Department of National Heritage", "National Heritage Act 2005", "Act 645", "Warisan Kebangsaan", "National Heritage Register", "Commissioner of Heritage", "heritage.gov.my", "MOTAC", "gazette national heritage Malaysia", "Daftar Warisan Kebangsaan", "Warisan Orang Hidup"]
+framework: profile
 ---
 
 เมื่อตึกแถวหลังหนึ่งในจอร์จทาวน์ (George Town) ได้รับคำสั่งคุ้มครอง หรือนักรำ *[มะโย่ง (mak yong)](/arts-culture/mak-yong)* คนหนึ่งได้รับการยกย่องเป็นสมบัติที่มีชีวิต มีหน่วยงานระดับสหพันธ์หน่วยหนึ่งอยู่เบื้องหลังการตัดสินใจนั้น นั่นคือ **กรมมรดกแห่งชาติ** — *Jabatan Warisan Negara* (**JWN**) จัดตั้งขึ้นเมื่อวันที่ **1 มีนาคม 2006** JWN ระบุ อนุรักษ์ ประกาศราชกิจจานุเบกษา และคุ้มครองมรดกของมาเลเซีย และดำเนินงานภายใต้ **กระทรวงการท่องเที่ยว ศิลปะและวัฒนธรรม (MOTAC)** วิสัยทัศน์ที่ประกาศไว้ของกรมคือการเป็นผู้นำในการสำรวจและรักษาสมบัติทางมรดกเพื่อหลอมรวมอัตลักษณ์ของชาติและสร้างเศรษฐกิจของชาติ

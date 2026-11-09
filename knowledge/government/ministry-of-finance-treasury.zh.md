@@ -128,6 +128,7 @@ relations:
   - { rel: "explained-in", to: "how-a-bill-becomes-law" }
 related: ["lhdn", "rmcd-kastam", "dewan-rakyat", "auditor-general", "how-a-bill-becomes-law"]
 keywords: ["Kementerian Kewangan Malaysia", "Ministry of Finance Malaysia", "Perbendaharaan", "Treasury Malaysia", "Belanjawan", "Akta 850", "hutang Persekutuan", "Ketua Setiausaha Perbendaharaan"]
+framework: profile
 ---
 
 联邦政府所花的每一令吉——从地区医院护士的薪水，到支付给伦敦债券持有人的利息——都经过同一道会计门户：马来西亚国库。财政部就是掌管那道门的部门，而自2024年初起，它是在一套载于法律的数值上限之下掌管着它。

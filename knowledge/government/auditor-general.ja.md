@@ -74,6 +74,7 @@ keywords:
   - "Laporan Ketua Audit Negara"
   - "Auditor General Malaysia"
   - "pengauditan kerajaan"
+framework: profile
 ---
 
 毎年、分厚い一冊の報告書が下院（Dewan Rakyat）に提呈される。それは、数十億リンギットもの公金が

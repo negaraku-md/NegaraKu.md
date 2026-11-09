@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "personal-bankruptcy-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["AKPK", "Program Pengurusan Kredit", "PPK", "DMP", "penstrukturan hutang", "kaunseling kewangan", "Bank Negara Malaysia", "hutang kad kredit"]
+framework: profile
 ---
 
 When the credit card bill, the car instalment and the housing loan all fall due in the same month and the salary is not enough, many Malaysians assume the last resort is bankruptcy. In fact there is an earlier door, and it is completely free.

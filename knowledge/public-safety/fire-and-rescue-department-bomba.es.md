@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "angkatan-pertahanan-awam" }
 related: ["pdrm"]
 keywords: ["Bomba", "JBPM", "Jabatan Bomba dan Penyelamat Malaysia", "Departamento de Bomberos y Rescate", "Akta Perkhidmatan Bomba 1988", "Akta 341", "999", "MERS 999"]
+framework: profile
 ---
 
 Cuando una casa se incendia, un coche queda atrapado en una inundación o un

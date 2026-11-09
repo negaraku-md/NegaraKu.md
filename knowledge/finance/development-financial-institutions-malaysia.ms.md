@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "islamic-banking-malaysia" }
 related: ["bank-negara-malaysia", "sme-financing-malaysia"]
 keywords: ["development financial institutions", "DFI Malaysia", "DFIA 2002", "Bank Pembangunan", "Bank Rakyat", "Agrobank", "SME Bank", "Bank Simpanan Nasional", "EXIM Bank", "Bank Negara Malaysia"]
+framework: profile
 ---
 
 Apabila seorang petani Malaysia memerlukan pinjaman lima tahun untuk menanam semula ladang kelapa sawit, atau seorang pengeksport memerlukan takaful kredit untuk menjual ke pasaran sempadan, bank komersial sering menolak. Jurang itulah yang menjadi sebab kewujudan institusi kewangan pembangunan Malaysia.

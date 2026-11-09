@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "kementerian-kemajuan-desa-dan-wilayah" }
 related: []
 keywords: ["KPKM", "Kementerian Pertanian dan Keterjaminan Makanan", "Ministry of Agriculture and Food Security", "وزارة الزراعة والأمن الغذائي", "DOA", "DVS", "DOF", "FAMA", "MARDI", "LPP", "LKIM", "BERNAS", "الوكالات الزراعية الماليزية"]
+framework: profile
 ---
 
 عندما يحتاج بقرة مستوردة إلى الحجر الصحي، أو تحتاج شوالة من بذور الأرز إلى

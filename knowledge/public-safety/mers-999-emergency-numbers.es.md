@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "bomba-fire-rescue-department" }
 related: ["pdrm", "fire-and-rescue-department-bomba"]
 keywords: ["999", "MERS 999", "número de emergencia", "SaveME 999", "línea de emergencia", "defensa civil", "ambulancia"]
+framework: profile
 ---
 
 Un único número — **999** — le conecta con las cinco agencias de emergencia de Malasia, ya sea que necesite a la policía, una ambulancia, los bomberos, la defensa civil o ayuda en el mar. No tiene que recordar un número distinto para cada agencia; el sistema que lo respalda encamina la llamada por usted.

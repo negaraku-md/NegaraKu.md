@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "special-needs-education" }
 related: []
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
+framework: profile
 ---
 
 폼 5(중등 5학년) 수학을 풀어내는 만 10세 아동이 일반 학급에서 항상 두각을 나타내는 것은 아닙니다. 그리고 말레이시아에서 이런 지성을 발굴하고 연마하기 위해 설계된 유일한 국립 센터가 PERMATApintar입니다.

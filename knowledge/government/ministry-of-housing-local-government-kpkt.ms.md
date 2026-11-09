@@ -77,6 +77,7 @@ wikidata: "Q6867161"
 relations: []
 related: []
 keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "Ministry of Housing and Local Government Malaysia", "KPKT fungsi", "KPKT agensi", "JBPM", "PLANMalaysia", "Jabatan Kerajaan Tempatan", "Jabatan Perumahan Negara", "Tribunal Perumahan dan Pengurusan Strata", "SWCorp", "Strata Management Act 2013", "Local Government Act 1976", "Nga Kor Ming", "affordable housing Malaysia B40 M40"]
+framework: profile
 ---
 
 Apabila sampah anda tidak dikutip, apabila sijil keselamatan kebakaran perlu diperbaharui, dan apabila pemaju menyerahkan pangsapuri anda dua tahun lewat — kementerian persekutuan yang sama berada di sebalik ketiga-tiganya. **Kementerian Perumahan dan Kerajaan Tempatan**, yang dikenali umum sebagai **KPKT**, ialah kementerian persekutuan Malaysia bagi perumahan mampu milik, kerajaan tempatan, perancangan bandar, bomba dan penyelamat, sisa pepejal, landskap, serta kredit komuniti. Ibu pejabatnya berada di No. 51, Persiaran Perdana, Presint 4, Pusat Pentadbiran Kerajaan Persekutuan, 62100 Putrajaya. Menterinya ialah **Nga Kor Ming** dan Timbalan Menterinya ialah **Datuk Hajah Aiman Athirah binti Sabu**.

@@ -127,6 +127,7 @@ relations:
   - { rel: "explained-in", to: "how-a-bill-becomes-law" }
 related: ["lhdn", "rmcd-kastam", "dewan-rakyat", "auditor-general", "how-a-bill-becomes-law"]
 keywords: ["Kementerian Kewangan Malaysia", "Ministry of Finance Malaysia", "Perbendaharaan", "Treasury Malaysia", "Belanjawan", "Akta 850", "hutang Persekutuan", "Ketua Setiausaha Perbendaharaan"]
+framework: profile
 ---
 
 連邦政府が支出するすべてのリンギット——地方病院の看護師の給与から、ロンドンの債券保有者への利払いに至るまで——は、同じ一つの会計の門を通過する：国庫（Perbendaharaan Malaysia）である。財務省はその門を握る省であり、2024年初頭以降、それを法律に明記された一連の数値上限のもとで握っている。

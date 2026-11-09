@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "malaysia-rice-industry" }
 related: []
 keywords: ["MARDI", "agricultural research", "rice varieties", "MR 297", "KADARIA", "SMART SBB", "Malaysia agriculture", "padi"]
+framework: profile
 ---
 
 말레이시아에서 거의 모든 그릇의 국산 쌀은 MARDI 시험장에서 육종된 품종으로 거슬러 올라갑니다. 이 나라의 벼, 가금, 열대 과일, 가공식품 진열대 뒤에는 과학을 더 높은 수확량으로 바꾸는 것이 임무인 하나의 연방 연구원이 있습니다.

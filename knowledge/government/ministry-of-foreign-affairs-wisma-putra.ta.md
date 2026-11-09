@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["miti", "matrade"]
 keywords: ["Wisma Putra", "Ministry of Foreign Affairs Malaysia", "Kementerian Luar Negeri", "kln.gov.my", "Malaysian embassies", "consular assistance Malaysia", "Malaysian high commissions", "Malaysia foreign policy"]
+framework: profile
 ---
 
 ஒரு மலேசியர் வெளிநாட்டில் சிக்கிக்கொள்ளும்போது, மலேசியா ஐக்கிய நாடுகள் சபையில்

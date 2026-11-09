@@ -81,6 +81,7 @@ wikidata: "Q4294352"
 relations: []
 related: []
 keywords: ["Ministry of Health Malaysia", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "Menteri Kesihatan Malaysia", "Director-General of Health", "Ketua Pengarah Kesihatan", "klinik kesihatan", "moh.gov.my", "Malaysia public healthcare", "Dzulkefly Ahmad", "RM1 clinic fee"]
+framework: profile
 ---
 
 நீங்கள் ஒரு மலேசிய அரசு கிளினிக்கிற்குள் நுழைந்து, ஒரு RM1 நோட்டைக் கொடுத்து, உங்கள் ஆலோசனையும் மருந்தும் ஈடுசெய்யப்பட்ட நிலையில் வெளியேறும்போது, உலகின் மிக அதிக மானியம் பெறும் சுகாதார அமைப்புகளில் ஒன்றை நீங்கள் பயன்படுத்துகிறீர்கள். அதை நடத்துவது **மலேசிய சுகாதார அமைச்சு** — *Kementerian Kesihatan Malaysia* (**KKM**), அல்லது ஆங்கிலத்தில் **MOH** — பொது சுகாதாரம், மருத்துவ பராமரிப்பு, மருத்துவ ஆராய்ச்சி, சுகாதார மேம்பாடு, மருந்தியல் மற்றும் மருத்துவ-சாதன ஒழுங்குமுறை, பல் பராமரிப்பு மற்றும் நோயாளர் பாதுகாப்புக்குப் பொறுப்பான கூட்டாட்சி அமைச்சாகும். இதன் தலைமையகம் கூட்டாட்சி அரசு நிர்வாக மையத்தில் (Federal Government Administrative Centre), Complex E-இல் (Blocks E1, E3, E6, E7 மற்றும் E10), 62590 Putrajaya-வில் அமைந்துள்ளது.

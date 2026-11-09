@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "kehakiman-mahkamah" }
 related: ["federal-constitution", "macc-sprm", "kehakiman-mahkamah", "imigresen", "yang-di-pertuan-agong"]
 keywords: ["PDRM", "Polis Diraja Malaysia", "Royal Malaysia Police", "Akta Polis 1967", "Akta 344", "Ketua Polis Negara", "Inspector General of Police", "Suruhanjaya Pasukan Polis", "Perkara 140"]
+framework: profile
 ---
 
 คำอธิบายส่วนใหญ่เกี่ยวกับ PDRM หยุดที่วลี "กองกำลังตำรวจแห่งชาติ" คำถามที่มีประโยชน์กว่านั้นแคบกว่า กล่าวคือ พระราชบัญญัติอนุญาตให้กองกำลังนี้ทำสิ่งใดจริง ใครถือการบังคับบัญชาเหนือกองกำลัง และองค์กรใดกำหนดการแต่งตั้งตลอดจนวินัยของสมาชิก

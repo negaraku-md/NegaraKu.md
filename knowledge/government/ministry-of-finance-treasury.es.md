@@ -128,6 +128,7 @@ relations:
   - { rel: "explained-in", to: "how-a-bill-becomes-law" }
 related: ["lhdn", "rmcd-kastam", "dewan-rakyat", "auditor-general", "how-a-bill-becomes-law"]
 keywords: ["Kementerian Kewangan Malaysia", "Ministry of Finance Malaysia", "Perbendaharaan", "Treasury Malaysia", "Belanjawan", "Akta 850", "hutang Persekutuan", "Ketua Setiausaha Perbendaharaan"]
+framework: profile
 ---
 
 Cada ringgit que gasta el Gobierno Federal — desde el salario de una enfermera en un hospital de distrito hasta los intereses pagados a los tenedores de bonos en Londres — pasa por una única y misma puerta contable: el Tesoro de Malasia. El Ministerio de Finanzas es el ministerio que custodia esa puerta, y desde comienzos de 2024 la custodia bajo un conjunto de límites numéricos consagrados en la ley.

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-malaysia" }
 related: ["federal-constitution", "pdrm"]
 keywords: ["angkatan tentera malaysia", "ATM", "kementerian pertahanan", "MINDEF", "majlis angkatan tentera", "panglima angkatan tentera", "akta angkatan tentera 1972", "kertas putih pertahanan", "tentera darat", "tentera laut diraja malaysia", "tentera udara diraja malaysia"]
+framework: profile
 ---
 
 மூன்று சேவைப் பிரிவுகள் — தரை, கடல் மற்றும் வான் — உச்சத் தளபதியாக Yang di-Pertuan Agong-ஐ அடிப்படையாகக் கொண்ட ஒரே கட்டளைச் சங்கிலியின் கீழ் இயங்குகின்றன, ஆனால் ஒரு அமைச்சர் மற்றும் குடிசார் இயந்திரத்தால் அன்றாடம் நிர்வகிக்கப்படுகின்றன. மலேசியா தனது பாதுகாப்பை இப்படித்தான் ஒழுங்கமைக்கிறது: உச்ச அதிகாரம் மன்னரிடம், கொள்கைக் கட்டுப்பாடு குடிசார் தரப்பிடம், நடைமுறைப்படுத்தல் தொழில்முறை இராணுவத்திடம்.

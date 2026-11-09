@@ -77,6 +77,7 @@ wikidata: "Q6867161"
 relations: []
 related: []
 keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "Ministry of Housing and Local Government Malaysia", "KPKT fungsi", "KPKT agensi", "JBPM", "PLANMalaysia", "Jabatan Kerajaan Tempatan", "Jabatan Perumahan Negara", "Tribunal Perumahan dan Pengurusan Strata", "SWCorp", "Strata Management Act 2013", "Local Government Act 1976", "Nga Kor Ming", "affordable housing Malaysia B40 M40"]
+framework: profile
 ---
 
 Ketika sampah Anda tidak diangkut, ketika sertifikat keselamatan kebakaran perlu diperbarui, dan ketika pengembang menyerahkan apartemen Anda terlambat dua tahun — kementerian federal yang sama berada di balik ketiga-tiganya. **Kementerian Perumahan dan Kerajaan Tempatan**, yang dikenal umum sebagai **KPKT**, adalah kementerian federal Malaysia bagi perumahan terjangkau, pemerintahan daerah, perencanaan kota, pemadam kebakaran dan penyelamatan, limbah padat, lanskap, serta kredit komunitas. Kantor pusatnya berada di No. 51, Persiaran Perdana, Presint 4, Pusat Administrasi Pemerintah Federal, 62100 Putrajaya. Menterinya adalah **Nga Kor Ming** dan Wakil Menterinya adalah **Datuk Hajah Aiman Athirah binti Sabu**.

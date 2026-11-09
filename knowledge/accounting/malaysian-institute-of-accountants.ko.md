@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "malaysian-accounting-standards-board" }
 related: []
 keywords: ["MIA", "Institut Akauntan Malaysia", "Akta Akauntan 1967", "Chartered Accountant Malaysia", "CA(M)", "sijil amalan", "lesen audit"]
+framework: profile
 ---
 
 말레이시아에서 특정 기구에 등록하지 않고 자신을 「회계사」라 부르면, 실제로 형사 범죄를

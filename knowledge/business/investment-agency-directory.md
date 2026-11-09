@@ -96,6 +96,7 @@ keywords:
   - "manufacturing licence Malaysia ICA 1975"
   - "Malaysia investment agency directory"
   - "agensi pelaburan Malaysia"
+framework: explainer
 ---
 
 Foreign investors arrive expecting one regulator. Malaysia has a dozen, they do not

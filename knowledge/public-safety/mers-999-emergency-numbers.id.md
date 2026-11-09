@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "bomba-fire-rescue-department" }
 related: ["pdrm", "fire-and-rescue-department-bomba"]
 keywords: ["999", "MERS 999", "nombor kecemasan", "SaveME 999", "talian kecemasan", "pertahanan awam", "ambulans"]
+framework: profile
 ---
 
 Satu nomor — **999** — menghubungkan Anda kepada lima lembaga darurat Malaysia, baik Anda membutuhkan polisi, ambulans, Bomba, pertahanan sipil, maupun bantuan di laut. Anda tidak perlu mengingat nomor berbeda untuk setiap lembaga; sistem di baliknya menyalurkan panggilan itu untuk Anda.

@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "personal-data-protection-act-malaysia" }
 related: []
 keywords: ["national ai office", "naio", "ai malaysia", "ai action plan 2026-2030", "aige", "ai governance malaysia", "ai nation 2030"]
+framework: explainer
 ---
 
 ஒரு நாடு செயற்கை நுண்ணறிவை (Artificial Intelligence, AI) வழிநடத்த விரும்பினாலும், ஒரு சட்டத்திற்காக பல ஆண்டுகள் காத்திருக்க விரும்பாதபோது, அது முதலில் ஒரு அலுவலகத்தைக் கட்டியெழுப்புகிறது. மலேசியா சரியாக அதைத்தான் செய்தது: ஒரு AI சட்டத்துடன் தொடங்குவதற்குப் பதிலாக, அது ஒரு ஒருங்கிணைப்பு அமைப்பை நிறுவி, தன்னார்வ நெறிமுறைக் கொள்கைகளின் தொகுப்பை வெளியிட்டு, ஐந்தாண்டு திட்டம் ஒன்றை எழுதியது — பின்னரே சட்டத்தை வரைவு செய்யத் தொடங்கியது.

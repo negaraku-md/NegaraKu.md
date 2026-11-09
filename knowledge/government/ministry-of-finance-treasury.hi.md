@@ -128,6 +128,7 @@ relations:
   - { rel: "explained-in", to: "how-a-bill-becomes-law" }
 related: ["lhdn", "rmcd-kastam", "dewan-rakyat", "auditor-general", "how-a-bill-becomes-law"]
 keywords: ["Kementerian Kewangan Malaysia", "Ministry of Finance Malaysia", "मलेशिया वित्त मंत्रालय", "Perbendaharaan", "खज़ाना मलेशिया", "Belanjawan", "संघीय बजट", "Act 850", "संघीय ऋण", "खज़ाने के महासचिव"]
+framework: profile
 ---
 
 संघीय सरकार द्वारा ख़र्च किया गया हर रिंगिट — एक ज़िला अस्पताल में नर्स के वेतन से लेकर लंदन में बॉन्डधारकों को चुकाए गए ब्याज तक — एक ही लेखांकन प्रवेशद्वार से होकर गुज़रता है: खज़ाना मलेशिया। वित्त मंत्रालय वह मंत्रालय है जो उस प्रवेशद्वार को थामे है, और 2024 की शुरुआत से यह उसे क़ानून में प्रतिष्ठित संख्यात्मक सीमाओं के एक समूह के तहत थामे हुए है।

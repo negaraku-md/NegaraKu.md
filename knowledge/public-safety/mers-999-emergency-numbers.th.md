@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "bomba-fire-rescue-department" }
 related: ["pdrm", "fire-and-rescue-department-bomba"]
 keywords: ["999", "MERS 999", "nombor kecemasan", "SaveME 999", "talian kecemasan", "pertahanan awam", "ambulans"]
+framework: profile
 ---
 
 หมายเลขเดียว — **999** — เชื่อมต่อคุณเข้ากับหน่วยงานฉุกเฉินห้าหน่วยของมาเลเซีย ไม่ว่าคุณจะต้องการตำรวจ รถพยาบาล ดับเพลิง ป้องกันภัยฝ่ายพลเรือน หรือความช่วยเหลือในทะเล คุณไม่จำเป็นต้องจำหมายเลขที่แตกต่างกันสำหรับแต่ละหน่วยงาน ระบบเบื้องหลังจะส่งต่อสายนั้นให้คุณเอง

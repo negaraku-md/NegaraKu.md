@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "personal-data-protection-act-2010" }
 related: []
 keywords: ["Kementerian Digital", "Ministry of Digital Malaysia", "Gobind Singh Deo", "MDEC", "JDN", "CyberSecurity Malaysia", "ekonomi digital"]
+framework: profile
 ---
 
 “டிஜிட்டல்” என்பது வேறு எந்த அமைச்சுடனும் பகிர்ந்து கொள்ள முடியாத அளவுக்கு முக்கியமானது என்று மலேசியா முடிவு செய்தபோது, ஒரு புதிய அமைச்சு பிறந்தது. டிஜிட்டல் அமைச்சு (Ministry of Digital) என்பது நாட்டின் தொழில்நுட்பக் கொள்கைக் கட்டுப்பாட்டு மையம் — டிஜிட்டல் பொருளாதாரம், சைபர் பாதுகாப்பு மற்றும் தனிநபர் தரவு பாதுகாப்பு அனைத்தையும் ஒரே கூரையின் கீழ் கொண்டுள்ள இடம்.

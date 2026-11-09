@@ -75,6 +75,7 @@ wikidata: "Q4294304"
 relations: []
 related: []
 keywords: ["KDN", "Kementerian Dalam Negeri", "मलेशिया गृह मंत्रालय", "Ministry of Home Affairs Malaysia", "MOHA", "KDN एजेंसियाँ", "KDN विभाग", "agensi bawah KDN", "मलेशिया गृह मंत्री", "fungsi KDN", "JPN", "Jabatan Imigresen", "PDRM", "AKPS", "Registry of Societies", "फ़िल्म सेंसरशिप बोर्ड"]
+framework: profile
 ---
 
 जब कोई मलेशियाई पासपोर्ट नवीनीकृत कराता है, जब पुलिस गिरफ़्तारी करती है, जब किसी विदेशी कर्मचारी के परमिट की जाँच होती है, या जब किसी फ़िल्म को रिलीज़ के लिए रेटिंग दी जाती है — इन चारों के पीछे एक ही मंत्रालय खड़ा होता है। वह मंत्रालय **गृह मंत्रालय** है, जिसे मलय में **Kementerian Dalam Negeri (KDN)** और अंग्रेज़ी में **MOHA** के रूप में जाना जाता है।

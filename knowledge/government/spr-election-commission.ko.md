@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "majlis-raja-raja" }
 related: ["three-tiers-of-government", "federal-constitution", "parliament", "dewan-rakyat", "yang-di-pertuan-agong", "majlis-raja-raja"]
 keywords: ["Suruhanjaya Pilihan Raya", "SPR", "Election Commission", "Perkara 113", "Perkara 114", "Perlembagaan Persekutuan", "persempadanan semula", "daftar pemilih", "Jadual Ketiga Belas"]
+framework: profile
 ---
 
 말레이시아에서 선거를 시행하는 기구는 어느 일반 법률에 의해 만들어지지 않으며, 어느 일반 법률에 의해 해체될 수도 없습니다. 그것은 연방헌법(Federal Constitution)에 직접 규정되어 있으며 — 두 개의 조문, 즉 제113조와 제114조가 그것이 무엇을 할 수 있고 누가 그것을 구성할 수 있는지를 정합니다.

@@ -75,6 +75,7 @@ wikidata: "Q113542338"
 relations: []
 related: []
 keywords: ["Department of Fisheries Malaysia", "DOF", "Jabatan Perikanan Malaysia", "Fisheries Act 1985", "fishing licence Malaysia", "aquaculture Malaysia", "dof.gov.my", "fisheries statistics Malaysia", "fishing zones Malaysia", "Director-General of Fisheries"]
+framework: profile
 ---
 
 Every boat that legally casts a net in Malaysian waters answers, in the end, to one agency. The **Department of Fisheries Malaysia (DOF)** — *Jabatan Perikanan Malaysia* — is the federal body that manages the nation's marine and aquaculture resources and licenses all fishing activity. It operates under the **Ministry of Agriculture and Food Security (MAFS)**, administers the **[Fisheries Act 1985](/en/law/fisheries-act-1985) (Act 317)**, and is led by the **Director-General of Fisheries**. Its headquarters is at Wisma Tani, Putrajaya, supported by a network of state and district offices.

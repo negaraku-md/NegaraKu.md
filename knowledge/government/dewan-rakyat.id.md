@@ -81,6 +81,7 @@ relations:
   - { rel: "compares-with", to: "parliament" }
 related: ["parliament", "federal-constitution", "formation-of-malaysia-1963"]
 keywords: ["Dewan Rakyat", "dewan rendah Parlimen", "Perkara 46", "Perkara 55", "rang undang-undang wang", "222 kerusi", "House of Representatives Malaysia"]
+framework: profile
 ---
 
 ## Sepintas lalu

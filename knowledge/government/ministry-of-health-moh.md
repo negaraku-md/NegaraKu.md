@@ -80,6 +80,7 @@ wikidata: "Q4294352"
 relations: []
 related: []
 keywords: ["Ministry of Health Malaysia", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "Menteri Kesihatan Malaysia", "Director-General of Health", "Ketua Pengarah Kesihatan", "klinik kesihatan", "moh.gov.my", "Malaysia public healthcare", "Dzulkefly Ahmad", "RM1 clinic fee"]
+framework: profile
 ---
 
 When you walk into a Malaysian government clinic, hand over a RM1 note, and walk out with your consultation and your medicine covered, you are using one of the most heavily subsidised health systems in the world. Running it is the **Ministry of Health Malaysia** — *Kementerian Kesihatan Malaysia* (**KKM**), or **MOH** in English — the federal ministry responsible for public health, medical care, medical research, health promotion, pharmaceutical and medical-device regulation, dental care and patient safety. It is headquartered at Complex E (Blocks E1, E3, E6, E7 and E10) in the Federal Government Administrative Centre, 62590 Putrajaya.

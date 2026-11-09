@@ -85,6 +85,7 @@ entity: "Malaysian Business Reporting System (MBRS)"
 relations: []
 related: []
 keywords: ["MBRS", "MBRS 2.0", "XBRL", "SSM", "mTool", "mPortal", "SSMxT", "SSM taxonomy", "financial statements filing Malaysia", "Companies Act 2016", "annual return", "exempt private company", "Suruhanjaya Syarikat Malaysia", "MFRS", "MPERS"]
+framework: how-to
 ---
 
 如果你的公司仍以为向 SSM「提交账目」就是递交一份签署好的 PDF，那个时代已经结束了。**马来西亚商业报告系统（MBRS）**是 SSM 建立在可扩展商业报告语言（XBRL）格式之上的呈报平台，而自 **2025 年 6 月 1 日**起，根据《2016 年公司法》，通过它呈报经审计的财务报表已成为公司的强制要求。公司通过 MBRS 呈报三种类型的文件：**周年申报表（AR）**、**财务报表及报告（FS）**，以及**豁免申请（EA）**。

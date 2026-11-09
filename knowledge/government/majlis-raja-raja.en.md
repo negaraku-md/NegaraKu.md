@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["Majlis Raja-Raja", "Conference of Rulers", "Perkara 38 Perlembagaan Persekutuan", "Jadual Kelima", "pemilihan Yang di-Pertuan Agong", "Penyimpan Mohor Besar Raja-Raja"]
+framework: profile
 ---
 
 There is a short list in the Federal Constitution that is rarely mentioned: a list of matters Parliament cannot pass on its own. For those matters, a two-thirds vote in the Dewan Rakyat and the Dewan Negara alone is not enough. The consent of one other body is required — and that body is the Conference of Rulers.

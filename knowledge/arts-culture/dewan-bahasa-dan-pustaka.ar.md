@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "jawi-script" }
 related: ["bahasa-melayu", "jawi-script"]
 keywords: ["مجلس اللغة والأدب", "DBP", "اللغة الملايوية", "قاموس ديوان", "أديب الوطن", "هيئة نظامية", "dewan bahasa dan pustaka", "bahasa melayu", "sasterawan negara"]
+framework: profile
 ---
 
 في كل مرّة تتحقّق فيها من إملاء كلمة ملايوية، أو تصادف مصطلحاً علمياً جديداً، أو تقرأ لقب أحد أدباء الوطن، ثمّة مؤسّسة واحدة خلف الكواليس: مجلس اللغة والأدب (Dewan Bahasa dan Pustaka).

@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "mspo-palm-oil-certification" }
 related: ["felda-land-settlement-scheme", "rubber-industry"]
 keywords: ["FELCRA", "RISDA", "petits producteurs", "consolidation des terres", "réhabilitation des terres", "replantation de caoutchouc", "développement rural", "Act 85", "pekebun kecil"]
+framework: profile
 ---
 
 Deux agences rarement mentionnées dans la même phrase, et qui touchent pourtant la fortune de centaines de milliers de familles rurales : l'une remet en état les terres en friche, l'autre veille à ce que les vieux hévéas soient remplacés avant que les revenus des petits producteurs ne se tarissent. Ce sont FELCRA et RISDA.

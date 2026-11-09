@@ -86,6 +86,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Momen terburuk dalam sebuah penipuan adalah saat tepat setelah Anda menyadari bahwa itu penipuan — ketika uang telah meninggalkan rekening Anda dan Anda tidak tahu harus berbuat apa, atau harus menghubungi siapa. Di Malaysia, ada satu jawaban untuk pertanyaan itu: **hubungi 997.** Nomor itu menjangkau **National Scam Response Centre (NSRC)**, dan meneleponnya dengan cepat adalah, secara harfiah, peluang terbaik Anda untuk mendapatkan kembali uang Anda.

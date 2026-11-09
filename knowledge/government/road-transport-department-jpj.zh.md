@@ -74,6 +74,7 @@ related: []
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department", "driving licence Malaysia", "road tax", "vehicle registration", "Road Transport Act 1987", "MyJPJ", "mySIKAP", "LKM"]
 social:
   hashtags: ["JPJ", "RoadTaxMalaysia", "DrivingLicence", "MyJPJ"]
+framework: profile
 ---
 
 大多数人只在单一时刻与**陆路交通局**打交道——更新路税、参加驾驶考试，或转让一辆二手车。但 JPJ 正是站在每一笔这类交易背后的那个部门。**陆路交通局**（*Jabatan Pengangkutan Jalan*，即 **JPJ**）是马来西亚**交通部（MOT）**辖下的机构。它为机动车辆与驾驶者注册，发出驾驶执照、路税与车牌，为商用车辆发照，并执行规范车辆与驾驶者使用公共道路的法律。

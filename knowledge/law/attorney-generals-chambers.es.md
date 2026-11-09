@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution"]
 keywords: ["Fiscal General", "Fiscal Público", "Artículo 145", "Constitución Federal", "Jabatan Peguam Negara", "Peguam Negara", "Pendakwa Raya", "Perkara 145", "discreción de enjuiciamiento", "separación de funciones"]
+framework: profile
 ---
 
 Un solo hombre puede decidir si te llevan ante un tribunal penal — o si quedas libre sin que se presente una sola acusación. En Malasia, esa persona es el Fiscal General, y su poder nace de un único artículo de la Constitución Federal.

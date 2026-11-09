@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "ssm" }
 related: ["parliament", "federal-constitution", "ssm", "malaysia-courts-business-disputes"]
 keywords: ["MACC", "SPRM", "Suruhanjaya Pencegahan Rasuah Malaysia", "Commission anticorruption de Malaisie", "MACC Act 2009", "Act 694", "Anti-Corruption Advisory Board", "Special Committee on Corruption"]
+framework: profile
 ---
 
 La plupart des descriptions de la MACC s'arrêtent à « l'agence anticorruption de la Malaisie ». La question la plus utile est plus étroite : que permet réellement la Loi à ses agents de faire, et qui a le droit légal de les surveiller ?

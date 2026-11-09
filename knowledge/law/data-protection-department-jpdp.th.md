@@ -80,6 +80,7 @@ wikidata: "Q113543393"
 relations: []
 related: []
 keywords: ["JPDP", "Jabatan Perlindungan Data Peribadi", "Personal Data Protection Department", "PDPA Malaysia", "Personal Data Protection Act 2010", "Act 709", "data controller registration Malaysia", "Personal Data Protection Commissioner", "pdp.gov.my", "PDPA Amendment Act 2024", "data breach notification Malaysia", "DPO Malaysia", "Suruhanjaya Perlindungan Data Peribadi", "SPDP daftar"]
+framework: profile
 ---
 
 คู่มือเกี่ยวกับความเป็นส่วนตัวของข้อมูลมาเลเซียเกือบทุกฉบับอธิบาย *กฎหมาย* น้อยกว่านั้นมากที่อธิบาย *สำนักงานที่ดำเนินการมัน* สำนักงานนั้นคือ **กรมคุ้มครองข้อมูลส่วนบุคคล** — *Jabatan Perlindungan Data Peribadi* (**JPDP**) — ก่อตั้งเมื่อวันที่ **16 พฤษภาคม 2011** หลังจากที่รัฐสภาผ่านพระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล 2010 (Act 709) มันดำเนินการในฐานะหน่วยงานภายใต้กระทรวงดิจิทัล และงานของมันคือช่วยเหลือ **คณะกรรมาธิการคุ้มครองข้อมูลส่วนบุคคล (Personal Data Protection Commissioner)** ในการบังคับใช้กฎหมายนั้น นี่คือกรมที่ธุรกิจมาเลเซียจดทะเบียนด้วย และเป็นกรมที่พลเมืองธรรมดาร้องเรียน

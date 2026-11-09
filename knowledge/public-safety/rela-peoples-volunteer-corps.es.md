@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "jabatan-imigresen-malaysia" }
 related: []
 keywords: ["RELA", "Pasukan Sukarelawan Malaysia", "Ikatan Relawan Rakyat", "Akta 752", "Akta Pasukan Sukarelawan Malaysia 2012", "PATI", "voluntarios de seguridad"]
+framework: profile
 ---
 
 Quizá los haya visto con uniforme dirigiendo el tráfico durante una concentración o un desastre — pero ¿qué puede, y qué no puede, hacer exactamente un miembro de RELA según la ley?

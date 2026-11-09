@@ -75,6 +75,7 @@ keywords:
   - "Laporan Ketua Audit Negara"
   - "Auditor General Malaysia"
   - "pengauditan kerajaan"
+framework: profile
 ---
 
 Setiap tahun, satu laporan tebal dibentangkan di Dewan Rakyat. Ia menyemak bagaimana

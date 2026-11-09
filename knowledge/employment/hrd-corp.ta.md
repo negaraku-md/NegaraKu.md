@@ -72,6 +72,7 @@ wikidata: "Q113541603"
 relations: []
 related: []
 keywords: ["HRD Corp", "HRDF", "HRD levy", "Pembangunan Sumber Manusia Berhad", "PSMB Act 2001", "HRDF registration", "HRD Corp claim", "HRD levy 1%", "HRD Corp claimable courses", "human resource development fund Malaysia", "HRDF levy calculation", "Akta 612"]
+framework: profile
 ---
 
 உங்கள் நிறுவனம் மலேசிய ஊதியத்தை (payroll) நடத்தினால், ஊதியப் பட்டியல் பேரேட்டில் ஒரு வரி **HRD Corp-க்கு 1% லெவி** என்று படிக்கலாம் — மேலும், EPF அல்லது SOCSO போலல்லாமல், இது தொழிலாளருக்குச் செலுத்தப்படும் ஒரு நலன் அல்ல. இது *முதலாளி* செலுத்தி, பின்னர் திரும்பப் பெறும் ஒரு பயிற்சி வரவுசெலவுத் தொகையாகும். அந்த வளையத்தைப் புரிந்துகொள்வதுதான், லெவியை ஒரு வரியாகக் கருதுவதற்கும், அதை நோக்கத்திற்கேற்பப் பயன்படுத்துவதற்கும் இடையிலான வித்தியாசமாகும்.

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "kementerian-kemajuan-desa-dan-wilayah" }
 related: []
 keywords: ["KPKM", "Kementerian Pertanian dan Keterjaminan Makanan", "Ministry of Agriculture and Food Security", "DOA", "DVS", "DOF", "FAMA", "MARDI", "LPP", "LKIM", "BERNAS", "agensi pertanian Malaysia"]
+framework: profile
 ---
 
 இறக்குமதி செய்யப்பட்ட ஒரு மாட்டை தனிமைப்படுத்த வேண்டியிருக்கும்போது, ஒரு மூட்டை

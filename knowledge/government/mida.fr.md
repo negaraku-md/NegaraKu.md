@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "state-investment-agencies" }
 related: ["manufacturing-licence-malaysia", "new-incentive-framework", "tax-incentives-directory", "investment-agency-directory", "state-investment-agencies", "mdec-digital-status"]
 keywords: ["MIDA", "Malaysian Investment Development Authority", "MIDA vs MITI", "investment promotion agency Malaysia", "manufacturing licence Malaysia MIDA", "Invest Malaysia Facilitation Centre"]
+framework: profile
 ---
 
 Tout investisseur étranger finit par traiter avec MIDA. Très peu se voient dire, au

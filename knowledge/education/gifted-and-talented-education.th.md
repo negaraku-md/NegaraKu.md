@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "special-needs-education" }
 related: []
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
+framework: profile
 ---
 
 เด็กอายุ 10 ปีที่ทำโจทย์คณิตศาสตร์ระดับมัธยมปีที่ 5 ได้ไม่ได้โดดเด่นเสมอไปในชั้นเรียนทั่วไป — และในมาเลเซีย ศูนย์แห่งชาติเพียงแห่งเดียวที่ออกแบบมาเพื่อค้นหาและขัดเกลาสติปัญญาเช่นนี้คือ PERMATApintar

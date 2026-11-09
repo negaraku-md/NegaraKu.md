@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "islamic-finance" }
 related: ["article-3-religion", "federal-state-division", "civil-and-syariah-courts", "majlis-raja-raja"]
 keywords: ["JAKIM", "Jabatan Kemajuan Islam Malaysia", "Department of Islamic Development Malaysia", "MKI", "Majlis Kebangsaan Bagi Hal Ehwal Ugama Islam Malaysia", "BAHEIS", "hal ehwal Islam", "pensijilan halal", "undang-undang syarak", "Jabatan Perdana Menteri"]
+framework: profile
 ---
 
 JAKIM's name is most often seen on the halal logo on food packaging. But halal

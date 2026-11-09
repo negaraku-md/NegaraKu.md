@@ -128,6 +128,7 @@ relations:
   - { rel: "explained-in", to: "how-a-bill-becomes-law" }
 related: ["lhdn", "rmcd-kastam", "dewan-rakyat", "auditor-general", "how-a-bill-becomes-law"]
 keywords: ["Kementerian Kewangan Malaysia", "Ministry of Finance Malaysia", "Perbendaharaan", "Treasury Malaysia", "Belanjawan", "Akta 850", "hutang Persekutuan", "Ketua Setiausaha Perbendaharaan"]
+framework: profile
 ---
 
 கூட்டரசு அரசாங்கம் செலவிடும் ஒவ்வொரு ரிங்கிட்டும் — மாவட்ட மருத்துவமனையில் ஒரு தாதியின் சம்பளம் முதல் லண்டனில் உள்ள பத்திரதாரர்களுக்குச் செலுத்தப்படும் வட்டி வரை — ஒரே கணக்கியல் நுழைவாயில் வழியாகவே கடந்து செல்கிறது: கருவூலம் மலேசியா (Treasury Malaysia). அந்த நுழைவாயிலை வைத்திருக்கும் அமைச்சு நிதி அமைச்சு (Ministry of Finance, MOF) ஆகும், மேலும் 2024 ஆம் ஆண்டின் தொடக்கத்திலிருந்து, சட்டத்தில் பொறிக்கப்பட்ட எண்ணியல் வரம்புகளின் கீழ் அதை வைத்திருக்கிறது.

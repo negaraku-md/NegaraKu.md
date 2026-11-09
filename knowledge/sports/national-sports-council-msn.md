@@ -66,6 +66,7 @@ wikidata: "Q97208190"
 relations: []
 related: []
 keywords: ["Majlis Sukan Negara", "MSN", "National Sports Council of Malaysia", "NSC Malaysia", "MSN Bukit Jalil", "Akta Majlis Sukan Negara 1971", "Institut Sukan Negara", "ISN", "Kompleks Sukan Negara Bukit Jalil", "Majlis Sukan Negeri", "Kementerian Belia dan Sukan", "MSN atlet", "pembangunan sukan Malaysia"]
+framework: profile
 ---
 
 When a Malaysian sprinter lines up at the Olympics or a young footballer is scouted into a national squad, there is a single government body standing behind the training, the coaching and the facilities that got them there: the **National Sports Council of Malaysia**, known in Malay as **Majlis Sukan Negara (MSN)**. It is the statutory agency that turns national sports policy into actual athletes.

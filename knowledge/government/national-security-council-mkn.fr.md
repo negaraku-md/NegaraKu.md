@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: ["federal-constitution", "yang-di-pertuan-agong"]
 keywords: ["Conseil de sécurité nationale", "Majlis Keselamatan Negara", "MKN", "Akta 776", "zone de sécurité", "kawasan keselamatan", "Article 150", "Perkara 150", "urgence", "pouvoirs de sécurité nationale"]
+framework: profile
 ---
 
 Lorsque le gouvernement malaisien doit répondre rapidement à une menace de sécurité, deux cadres juridiques distincts sont souvent mentionnés dans la même phrase : le Conseil de sécurité nationale (MKN) et les pouvoirs d'urgence constitutionnels. Tous deux se rapportent à la sécurité nationale, mais ils découlent de sources juridiques différentes et comportent des conditions distinctes. Cet article les explique tous deux de manière neutre et sur la base du texte de loi.

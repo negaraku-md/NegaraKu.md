@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "bank-pembangunan-malaysia" }
 related: ["bank-negara-malaysia", "development-financial-institutions-malaysia"]
 keywords: ["EXIM Bank Malaysia", "export credit agency", "trade credit takaful", "export credit insurance", "trade financing", "non-traditional markets"]
+framework: profile
 ---
 
 Seorang pengeksport jentera Malaysia memenangi pesanan pertama di sebuah pasaran peneroka — potensi keuntungan yang besar, tetapi apa akan berlaku jika pembeli tidak pernah membayar? Persoalan tunggal itulah yang menjadi bidang perniagaan yang EXIM Bank Malaysia dibina untuk menanganinya.

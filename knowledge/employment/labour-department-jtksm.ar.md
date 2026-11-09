@@ -85,6 +85,7 @@ entity: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM) / Department of Labou
 relations: []
 related: []
 keywords: ["JTKSM", "Jabatan Tenaga Kerja Semenanjung Malaysia", "إدارة العمل في ماليزيا", "Labour Department Malaysia", "Department of Labour Peninsular Malaysia", "مكتب العمل", "شكوى عمالية", "aduan buruh", "eAduan JTKSM", "كيفية تقديم شكوى عمالية في ماليزيا", "راتب غير مدفوع في ماليزيا", "محكمة العمل في ماليزيا", "Labour Court Malaysia", "Employment Act 1955", "المادة 69 من Employment Act", "gaji tak dibayar"]
+framework: profile
 ---
 
 إن لم يدفع ربّ عملك راتبك، فثمّة مكتب حكومي بعينه وظيفته التحقيق، وحيث يسمح القانون، الأمر بدفع ذلك المال — من دون أن تستأجر محامياً أو تلجأ إلى المحكمة المدنية. في شبه جزيرة ماليزيا، ذلك المكتب هو **JTKSM**: *Jabatan Tenaga Kerja Semenanjung Malaysia*، أو **إدارة العمل لشبه جزيرة ماليزيا (Department of Labour Peninsular Malaysia)**. وهي تتبع **وزارة الموارد البشرية** وتُنفِّذ Employment Act 1955 وقوانين العمل ذات الصلة.

@@ -86,6 +86,7 @@ keywords:
   - "kuasa budi bicara Yang di-Pertuan Agong"
   - "Perkara 40 Perlembagaan Persekutuan"
   - "raja berperlembagaan Malaysia"
+framework: profile
 ---
 
 உலகின் பெரும்பாலான முடியாட்சிகள் ஒரே கேள்விக்கு ஒரே விதத்தில் பதிலளிக்கின்றன: அடுத்த மன்னர்

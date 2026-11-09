@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "digital-free-trade-zone" }
 related: ["lhdn", "sst-explained", "sst-registration", "sales-tax-explained", "anti-dumping-countervailing-duties"]
 keywords: ["RMCD", "Kastam", "Jabatan Kastam Diraja Malaysia", "customs duty Malaysia", "SST Customs", "excise duty Malaysia"]
+framework: profile
 ---
 
 Hai cơ quan, một bộ, và một ranh giới mà hầu như không ai vẽ đúng ngay lần đầu. Nếu thuế

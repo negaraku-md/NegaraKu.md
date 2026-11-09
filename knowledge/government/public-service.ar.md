@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "attorney-general" }
 related: ["federal-constitution", "prime-ministers-department", "kabinet-perdana-menteri", "three-tiers-of-government", "auditor-general", "attorney-general"]
 keywords: ["SPA Malaysia", "Suruhanjaya Perkhidmatan Awam", "لجنة الخدمة العامة", "JPA Malaysia", "Jabatan Perkhidmatan Awam", "دائرة الخدمة العامة", "Public Services Commission Malaysia", "Public Service Department Malaysia", "Article 144 Federal Constitution", "Malaysian civil service structure", "الخدمة المدنية الماليزية", "INTAN"]
+framework: profile
 ---
 
 تمرّ مسيرة الموظف المدني في ماليزيا عبر هيئتين اتحاديتين لم يسمع بهما معظم

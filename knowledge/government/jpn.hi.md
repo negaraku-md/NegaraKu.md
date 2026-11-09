@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "ssm" }
 related: ["federal-constitution", "imigresen", "lhdn", "ssm"]
 keywords: ["JPN", "Jabatan Pendaftaran Negara", "National Registration Department", "राष्ट्रीय पंजीकरण विभाग", "MyKad", "MyKid", "MyPR", "जन्म प्रमाणपत्र", "मृत्यु पंजीकरण", "सिविल विवाह", "नागरिकता"]
+framework: profile
 ---
 
 हर मलेशियाई नागरिक की JPN में एक फ़ाइल होती है जो उसके बोलने से पहले खुलती है

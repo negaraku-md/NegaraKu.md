@@ -128,6 +128,7 @@ relations:
   - { rel: "explained-in", to: "how-a-bill-becomes-law" }
 related: ["lhdn", "rmcd-kastam", "dewan-rakyat", "auditor-general", "how-a-bill-becomes-law"]
 keywords: ["Kementerian Kewangan Malaysia", "Ministry of Finance Malaysia", "Perbendaharaan", "Treasury Malaysia", "Belanjawan", "Akta 850", "hutang Persekutuan", "Ketua Setiausaha Perbendaharaan"]
+framework: profile
 ---
 
 연방정부가 지출하는 모든 링깃(RM) — 지역 병원 간호사의 급여에서 런던의 채권 보유자에 대한 이자 지급까지 — 은 동일한 하나의 회계 통로를 거칩니다. 바로 말레이시아 재무성(Treasury)입니다. 재무부는 그 통로를 쥔 부처이며, 2024년 초 이래로 법률에 명시된 일련의 수치 한도 아래에서 그것을 쥐고 있습니다.

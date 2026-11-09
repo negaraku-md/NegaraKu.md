@@ -75,6 +75,7 @@ related: []
 keywords: ["AADK", "Agensi Antidadah Kebangsaan", "National Anti-Drugs Agency", "drug rehabilitation Malaysia", "Cure and Care", "Puspen", "NADA Malaysia", "voluntary drug treatment", "Drug Dependants Act 1983"]
 social:
   hashtags: ["#AADK", "#NegaraKu", "#DrugRehabilitation", "#MalaysiaHomeAffairs"]
+framework: profile
 ---
 
 马来西亚将其对毒品的应对分为两大半。一半是刑事执法——逮捕贩毒者、缉获供应、检控罪行——这一半由警察主导。另一半是**需求削减**：从一开始便阻止人们吸毒，以及治疗与康复那些已吸毒者。这一半由**国家反毒机构**（*Agensi Antidadah Kebangsaan*，即 **AADK**，亦作 **NADA**）主导，它是**内政部**（*Kementerian Dalam Negeri*，KDN）辖下的机构。AADK 运营本国的毒品康复中心，推行防毒与教育计划，并为康复中的人管理善后。

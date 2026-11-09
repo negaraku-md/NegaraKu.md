@@ -76,6 +76,7 @@ keywords:
   - "Laporan Ketua Audit Negara"
   - "Auditor General Malaysia"
   - "pengauditan kerajaan"
+framework: profile
 ---
 
 Mỗi năm, một báo cáo dày được trình tại Dewan Rakyat. Nó rà soát cách hàng tỷ ringgit

@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["Majlis Raja-Raja", "Conference of Rulers", "Perkara 38 Perlembagaan Persekutuan", "Jadual Kelima", "pemilihan Yang di-Pertuan Agong", "Penyimpan Mohor Besar Raja-Raja"]
+framework: profile
 ---
 
 Ada satu daftar pendek dalam Konstitusi Federal yang jarang disebut: daftar perkara yang Parlimen tidak dapat sahkan sendirian. Untuk perkara-perkara itu, suara dua pertiga di Dewan Rakyat dan Dewan Negara saja tidak memadai. Persetujuan satu badan lain diperlukan — dan badan itu adalah Majlis Raja-Raja.

@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "mspo-palm-oil-certification" }
 related: ["felda-land-settlement-scheme", "rubber-industry"]
 keywords: ["FELCRA", "RISDA", "pekebun kecil", "penyatuan tanah", "pemulihan tanah", "tanam semula getah", "pembangunan luar bandar", "Akta 85"]
+framework: profile
 ---
 
 Hai cơ quan hiếm khi được nhắc đến cùng lúc, nhưng chạm đến số phận của hàng trăm nghìn gia đình nông thôn: một bên cải tạo đất bỏ hoang, một bên bảo đảm cây cao su già được thay thế trước khi thu nhập của tiểu điền chủ ngừng lại. Đó là FELCRA và RISDA.

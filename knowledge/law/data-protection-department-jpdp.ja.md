@@ -79,6 +79,7 @@ wikidata: "Q113543393"
 relations: []
 related: []
 keywords: ["JPDP", "Jabatan Perlindungan Data Peribadi", "Personal Data Protection Department", "PDPA Malaysia", "Personal Data Protection Act 2010", "Act 709", "data controller registration Malaysia", "Personal Data Protection Commissioner", "pdp.gov.my", "PDPA Amendment Act 2024", "data breach notification Malaysia", "DPO Malaysia", "Suruhanjaya Perlindungan Data Peribadi", "SPDP daftar"]
+framework: profile
 ---
 
 マレーシアのデータプライバシーに関するガイドのほとんどは、その*法律*について説明している。しかし、それを*運用する機関*について説明するものははるかに少ない。その機関こそが**個人データ保護局**——*Jabatan Perlindungan Data Peribadi*（**JPDP**）——であり、国会が2010年個人データ保護法（PDPA、Act 709）を可決した後、**2011年5月16日**に設立された。デジタル省のもとで機関として運営されており、その任務は同法令の執行にあたり**個人データ保護長官**を補佐することである。これは、マレーシアの企業が登録を行い、一般市民が苦情を申し立てる先となる局である。

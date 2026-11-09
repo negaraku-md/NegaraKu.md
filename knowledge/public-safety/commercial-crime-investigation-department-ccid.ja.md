@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "national-scam-response-centre-nsrc" }
 related: ["pdrm"]
 keywords: ["CCID", "Jabatan Siasatan Jenayah Komersil", "JSJK", "PDRM", "jenayah komersil", "penipuan dalam talian", "Semak Mule", "NSRC", "997"]
+framework: profile
 ---
 
 金銭をだまし取られた誰かが「997に電話を」という言葉を目にするたび、その詐欺との闘いの最前線に立つPDRMの部門がCCIDである。商業犯罪捜査部——英語ではCommercial Crime Investigation Department——は、ホワイトカラー犯罪者を追うマレーシア王立警察の部署である。暴力による脅しではなく、だましによって盗む者たちを追う。

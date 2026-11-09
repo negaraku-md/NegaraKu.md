@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["Malaysia court hierarchy", "Federal Court of Malaysia", "Court of Appeal Malaysia", "High Court in Malaya", "Sessions Court jurisdiction", "Judicial Appointments Commission", "Article 122B"]
+framework: explainer
 ---
 
 Satu pertikaian kontrak bernilai RM60,000 dan satu cabaran terhadap kesahihan sesuatu statut persekutuan kedua-duanya bermula sebagai sekeping kertas yang difailkan di kaunter mahkamah. Kedua-duanya tidak pergi ke kaunter yang sama, tidak diputuskan oleh jenis hakim yang sama, dan hanya salah satu daripadanya yang boleh berakhir di hadapan sembilan hakim di Putrajaya.

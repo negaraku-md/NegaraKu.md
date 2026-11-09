@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "islamic-banking-malaysia" }
 related: ["bank-negara-malaysia", "sme-financing-malaysia"]
 keywords: ["instituciones financieras de desarrollo", "development financial institutions", "DFI Malaysia", "DFIA 2002", "Bank Pembangunan", "Bank Rakyat", "Agrobank", "SME Bank", "Bank Simpanan Nasional", "EXIM Bank", "Bank Negara Malaysia"]
+framework: profile
 ---
 
 Cuando un agricultor malasio necesita un préstamo a cinco años para replantar una finca de palma aceitera, o un exportador necesita takaful de crédito para vender en un mercado fronterizo, los bancos comerciales suelen decir que no. Esa brecha es exactamente lo que las instituciones financieras de desarrollo de Malasia existen para llenar.

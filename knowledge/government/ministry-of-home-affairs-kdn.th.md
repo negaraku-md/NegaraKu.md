@@ -75,6 +75,7 @@ wikidata: "Q4294304"
 relations: []
 related: []
 keywords: ["KDN", "Kementerian Dalam Negeri", "Ministry of Home Affairs Malaysia", "MOHA", "KDN agencies", "KDN departments", "agensi bawah KDN", "Menteri Dalam Negeri", "fungsi KDN", "JPN", "Jabatan Imigresen", "PDRM", "AKPS", "Registry of Societies", "Lembaga Penapisan Filem"]
+framework: profile
 ---
 
 เมื่อชาวมาเลเซียต่ออายุหนังสือเดินทาง เมื่อตำรวจจับกุม เมื่อใบอนุญาตของแรงงานต่างชาติถูกตรวจสอบ หรือเมื่อภาพยนตร์ถูกจัดเรตเพื่อฉาย — กระทรวงเดียวกันยืนอยู่เบื้องหลังทั้งสี่เหตุการณ์ กระทรวงนั้นคือ **กระทรวงมหาดไทย** ที่รู้จักในภาษามลายูว่า **Kementerian Dalam Negeri (KDN)** และในภาษาอังกฤษว่า **MOHA**

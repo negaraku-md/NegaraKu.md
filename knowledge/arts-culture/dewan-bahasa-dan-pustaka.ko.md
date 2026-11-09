@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "jawi-script" }
 related: ["bahasa-melayu", "jawi-script"]
 keywords: ["dewan bahasa dan pustaka", "dbp", "bahasa melayu", "kamus dewan", "sasterawan negara", "badan berkanun"]
+framework: profile
 ---
 
 말레이어 낱말의 철자를 확인할 때마다, 새로운 과학 용어를 마주할 때마다, 또는 어느 국가문학인의 칭호를 읽을 때마다, 그 무대 뒤에는 한 기관이 있습니다. 데완 바하사 단 푸스타카입니다.

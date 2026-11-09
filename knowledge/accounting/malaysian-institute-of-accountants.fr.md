@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "malaysian-accounting-standards-board" }
 related: []
 keywords: ["MIA", "Institut malaisien des comptables", "Accountants Act 1967", "Chartered Accountant Malaysia", "CA(M)", "certificat d'exercice", "licence d'audit"]
+framework: profile
 ---
 
 Dites-vous « comptable » en Malaisie sans vous enregistrer auprès d'un organisme particulier et vous commettez en réalité une infraction pénale. Cet organisme est l'Institut malaisien des comptables — MIA — et il détient la seule autorité pour décider qui compte comme comptable dans ce pays.

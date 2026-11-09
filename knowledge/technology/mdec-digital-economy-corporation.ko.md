@@ -67,6 +67,7 @@ wikidata: "Q279453"
 relations: []
 related: []
 keywords: ["MDEC", "Malaysia Digital Economy Corporation", "Malaysia Digital Status", "MD Status", "MSC Malaysia", "MSC status", "Malaysia Digital Bill of Guarantees", "Malaysia Digital tax incentive", "MD activities", "knowledge worker Malaysia", "Cyberjaya", "digital economy Malaysia"]
+framework: profile
 ---
 
 "Malaysia Digital Status"를 검색하면 거의 모든 결과가 신청 대행 서비스를 파는 컨설팅 업체이며, 대부분은 세 개의 별개 사안을 하나로 뭉갭니다. **기관**(MDEC), 그것이 부여하는 **지위**(MD 스테이터스), 그리고 훨씬 까다로운 요건을 가진 완전히 별개의 신청인 **세제 인센티브**가 있습니다. 이들을 구분하는 것이 1,000 링깃 기준과 5만 링깃 기준의 차이를 가릅니다. 여기에 각 층을 1차 출처로 정리합니다.

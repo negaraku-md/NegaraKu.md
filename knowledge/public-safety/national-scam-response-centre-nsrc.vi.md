@@ -86,6 +86,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Khoảnh khắc tồi tệ nhất trong một vụ lừa đảo là khoảnh khắc ngay sau khi bạn nhận ra đó là một vụ lừa đảo — khi tiền đã rời khỏi tài khoản của bạn và bạn không biết phải làm gì, hoặc gọi cho ai. Ở Malaysia, có một câu trả lời duy nhất cho câu hỏi đó: **gọi 997.** Số đó kết nối tới **Trung tâm Ứng phó Lừa đảo Quốc gia (National Scam Response Centre, NSRC)**, và gọi nó một cách nhanh chóng chính là, theo đúng nghĩa đen, cơ hội tốt nhất của bạn để lấy lại tiền.

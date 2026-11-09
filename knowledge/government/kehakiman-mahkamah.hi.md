@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["मलेशिया न्यायालय पदानुक्रम", "Malaysia court hierarchy", "मलेशिया संघीय न्यायालय", "Federal Court of Malaysia", "अपील न्यायालय", "Court of Appeal Malaysia", "High Court in Malaya", "सेशन न्यायालय अधिकारिता", "Judicial Appointments Commission", "Article 122B"]
+framework: explainer
 ---
 
 RM60,000 का एक संविदा-विवाद और किसी संघीय कानून की वैधता को दी गई एक चुनौती,

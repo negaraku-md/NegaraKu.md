@@ -95,6 +95,7 @@ relations:
   - { rel: "compares-with", to: "swcorp" }
 related: ["environmental-impact-assessment-eia-malaysia"]
 keywords: ["Department of Environment", "DOE", "Jabatan Alam Sekitar", "JAS", "Environmental Quality Act 1974", "Act 127", "EIA Malaysia", "scheduled waste", "NRES"]
+framework: profile
 ---
 
 マレーシアの工場が河川に排水を流す場合、高速道路が最初の一本の木を伐採する

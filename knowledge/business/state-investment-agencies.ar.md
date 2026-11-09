@@ -112,6 +112,7 @@ relations:
   - { rel: "compares-with", to: "investment-agency-directory" }
 related: ["economic-corridors-compared", "js-sez-guide", "ncer-guide", "ecer-guide", "sarawak-business-guide", "investment-agency-directory", "iskandar-malaysia-guide", "manufacturing-licence-malaysia"]
 keywords: ["هيئة استثمار الولاية ماليزيا", "invest selangor nol", "investpenang خطاب عدم الممانعة", "ncia ncer", "ecerdc", "sedia صباح", "recoda score", "irda إسكندر", "investkl mida"]
+framework: explainer
 ---
 
 الهيئة التي يطلب منك الجميع الاتصال بها أولاً عادةً ما تعجز عن الموافقة على الشيء الذي تحتاجه. وهذا ليس انتقاداً للهيئات — بل هكذا بُنيت المعمارية. فموافقات الاستثمار في ماليزيا اتحادية. والولايات تروّج وتيسّر وتمسك ببطاقة واحدة لا غير.

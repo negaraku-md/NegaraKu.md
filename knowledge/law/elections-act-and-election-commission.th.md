@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "dewan-rakyat"]
 keywords: ["SPR", "Suruhanjaya Pilihan Raya", "Akta Pilihan Raya 1958", "Akta Kesalahan Pilihan Raya 1954", "persempadanan", "Perlembagaan Persekutuan", "Perkara 113", "Perkara 114"]
+framework: profile
 ---
 
 ทุกครั้งที่รัฐสภาถูกยุบและประเทศเคลื่อนไปสู่การเลือกตั้งทั่วไป องค์กรเดียวกันทำหน้าที่เป็นกรรมการ: คณะกรรมการการเลือกตั้ง มันเป็นผู้กำหนดวันที่ ทบทวนบัญชีรายชื่อผู้มีสิทธิเลือกตั้ง จัดการวันรับสมัครและวันลงคะแนน ตลอดจนประกาศผล อย่างไรก็ตาม อำนาจและขอบเขตของมันไม่ได้มาจากรัฐบาลที่ปกครองอยู่ แต่มาจากรัฐธรรมนูญสหพันธรัฐเอง

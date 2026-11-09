@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "national-scam-response-centre-nsrc" }
 related: ["pdrm"]
 keywords: ["CCID", "Jabatan Siasatan Jenayah Komersil", "JSJK", "PDRM", "jenayah komersil", "penipuan dalam talian", "Semak Mule", "NSRC", "997"]
+framework: profile
 ---
 
 தன் பணத்தை மோசடி செய்யப்பட்ட பிறகு யாரேனும் "997-ஐ அழைக்கவும்" என்பதைப் படிக்கும் ஒவ்வொரு முறையும், அந்த மோசடிக்கு எதிராக முன்னணியில் நிற்கும் PDRM துறை CCID ஆகும். வணிகக் குற்ற விசாரணைத் துறை (Commercial Crime Investigation Department, CCID) என்பது வெள்ளைக்கழுத்துக் குற்றவாளிகளை — வன்முறை அச்சுறுத்தல் மூலம் அல்லாமல், ஏமாற்றம் மூலம் திருடுபவர்களை — வேட்டையாடும் மலேசிய அரச காவல்துறையின் (Polis Diraja Malaysia, PDRM) அலகு ஆகும்.

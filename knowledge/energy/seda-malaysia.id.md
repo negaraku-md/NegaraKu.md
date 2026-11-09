@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "solar-atap-malaysia" }
 related: []
 keywords: ["SEDA", "Sustainable Energy Development Authority", "feed-in tariff", "NEM", "Solar ATAP", "KWTBB", "tenaga boleh baharu", "PETRA"]
+framework: profile
 ---
 
 Setiap kali Anda membayar tagihan listrik di Semenanjung, sebagian kecil darinya mengalir ke sebuah badan statutori yang mungkin tidak pernah Anda dengar — dan badan itulah yang menentukan apakah surya di atap Anda sepadan atau tidak.

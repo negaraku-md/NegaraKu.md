@@ -72,6 +72,7 @@ related: []
 keywords: ["APM", "Angkatan Pertahanan Awam Malaysia", "Civil Defence Force", "JPAM", "disaster response Malaysia", "Civil Defence Act 1951", "search and rescue Malaysia", "flood relief Malaysia", "NADMA", "civil defence volunteers"]
 social:
   hashtags: ["APM", "CivilDefence", "DisasterResponse", "Malaysia", "SAR"]
+framework: profile
 ---
 
 เมื่อน้ำท่วมสูงขึ้นบนชายฝั่งตะวันออกของมาเลเซียในทุกฤดูมรสุม เจ้าหน้าที่ในเครื่องแบบสีส้มที่ลุยน้ำไปช่วยครอบครัวที่ติดค้างมักมาจาก **APM** **กองป้องกันภัยฝ่ายพลเรือนมาเลเซีย** — *Angkatan Pertahanan Awam Malaysia* หรือ **APM** — เป็นหน่วยงานในเครื่องแบบระดับสหพันธ์ที่รับผิดชอบการป้องกันภัยฝ่ายพลเรือนและการรับมือภัยพิบัติ: การบรรเทาน้ำท่วม การค้นหาและกู้ภัย การช่วยเหลือด้านมนุษยธรรม และการสนับสนุนความปลอดภัยที่งานสาธารณะขนาดใหญ่ มันดำเนินงานภายใต้ **พระราชบัญญัติการป้องกันภัยฝ่ายพลเรือน 1951 (Act 221)** และนับแต่ปี 2015 อยู่ภายใต้ **สำนักนายกรัฐมนตรี** และสร้างขึ้นรอบกลุ่มอาสาสมัครที่ผ่านการฝึกที่ใหญ่ที่สุดกลุ่มหนึ่งของประเทศ

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "malaysia-civil-defence-force-apm" }
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "pengurusan bencana", "Arahan NADMA No. 1", "Arahan MKN 20", "banjir", "SMART", "Jabatan Perdana Menteri"]
+framework: profile
 ---
 
 Bila banjir besar melanda beberapa negeri sekaligus, siapa yang menekan butang untuk menyelaras tentera, bomba, polis dan sukarelawan di bawah satu arahan? Di Malaysia, jawapannya ialah NADMA.

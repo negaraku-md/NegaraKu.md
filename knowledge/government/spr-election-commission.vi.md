@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "majlis-raja-raja" }
 related: ["three-tiers-of-government", "federal-constitution", "parliament", "dewan-rakyat", "yang-di-pertuan-agong", "majlis-raja-raja"]
 keywords: ["Suruhanjaya Pilihan Raya", "SPR", "Election Commission", "Perkara 113", "Perkara 114", "Perlembagaan Persekutuan", "persempadanan semula", "daftar pemilih", "Jadual Ketiga Belas"]
+framework: profile
 ---
 
 Cơ quan tổ chức bầu cử tại Malaysia không được tạo ra bởi một đạo luật thông thường, và không thể bị giải thể bởi một đạo luật thông thường. Nó được quy định trực tiếp trong Hiến pháp Liên bang — và hai Điều, tức là 113 và 114, quy định những gì nó có thể làm và ai có thể là thành viên của nó.

@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["miti", "matrade"]
 keywords: ["Wisma Putra", "Ministry of Foreign Affairs Malaysia", "Kementerian Luar Negeri", "kln.gov.my", "Malaysian embassies", "consular assistance Malaysia", "Malaysian high commissions", "Malaysia foreign policy"]
+framework: profile
 ---
 
 말레이시아인이 해외에서 발이 묶일 때, 말레이시아가 유엔에서 표를 던질 때, 또는 새 대사가 외국 수도에서 신임장을 제정할 때 — 그 셋 모두의 뒤에 같은 기관이 서 있습니다. 바로 위스마 푸트라(Wisma Putra)입니다.

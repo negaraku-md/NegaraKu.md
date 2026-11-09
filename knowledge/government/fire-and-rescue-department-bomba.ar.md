@@ -73,6 +73,7 @@ related: []
 keywords: ["BOMBA", "Jabatan Bomba dan Penyelamat Malaysia", "Fire and Rescue Department", "999 emergency", "fire safety Malaysia", "JBPM", "fire certificate", "Perakuan Bomba", "Fire Services Act 1988", "MERS 999"]
 social:
   hashtags: ["#BOMBA", "#FireAndRescue", "#Malaysia", "#999", "#FireSafety"]
+framework: profile
 ---
 
 اسأل أي أحد في ماليزيا من يتصل به حين يحترق مبنى أو يعلق أحد، والجواب هو الكلمة نفسها: **بومبا (Bomba)**. فـ**دائرة الإطفاء والإنقاذ الماليزية** — *Jabatan Bomba dan Penyelamat Malaysia* (**JBPM**)، المعروفة لدى الجميع تقريبًا ببساطة باسم **BOMBA** — هي الجهاز الاتحادي المسؤول عن الإطفاء والإنقاذ والاستجابة للمواد الخطرة وإنفاذ السلامة من الحرائق في عموم البلاد. وهي جهاز تابع لـ**وزارة الإسكان والحكم المحلي** (*Kementerian Perumahan dan Kerajaan Tempatan*، KPKT)، ويُتصل بها في الطوارئ بالاتصال على **999**.

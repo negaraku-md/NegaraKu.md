@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "sarawak-tourism-board" }
 related: []
 keywords: ["Tourism Malaysia", "MOTAC", "المجلس الماليزي لترويج السياحة", "مجلس سياحة ساراواك", "مجلس سياحة صباح", "ترخيص السياحة في ماليزيا", "Malaysia Tourism Promotion Board", "Sarawak Tourism Board", "Sabah Tourism Board", "Penang Global Tourism", "tourism licensing Malaysia"]
+framework: profile
 ---
 
 عندما يلفت نظرَك إعلان «Malaysia Truly Asia»، تكون هيئة قانونية واحدة قد دفعت ثمنه — لكن وزارة مختلفة هي من تقرر ما إذا كان مشغّل الرحلات الذي يقف خلف رحلتك مسموحاً له أصلاً ببيعها. تقوم السياحة الماليزية على تقسيم للعمل، ومعرفة الجهة المسؤولة عن كل مهمة توفّر كثيراً من اللبس.

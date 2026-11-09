@@ -84,6 +84,7 @@ wikidata: "Q3816079"
 relations: []
 related: []
 keywords: ["Ministry of Education Malaysia", "KPM", "Kementerian Pendidikan Malaysia", "وزارة التعليم الماليزية", "Fadhlina Sidek", "Education Act 1996", "قانون التعليم 1996", "Malaysia Education Blueprint", "PPPM", "KPM vs KPT", "menteri pendidikan", "moe.gov.my", "التعليم الإلزامي في ماليزيا", "نظام المدارس في ماليزيا"]
+framework: profile
 ---
 
 إذا كان الأمر يتعلق بطفل مدرسي ماليزي — المنهج الذي يدرسه، أو الكتاب المدرسي على مكتبه، أو الامتحان الوطني الذي يؤدّيه، أو معلم المدرسة الحكومية أمام الصف — فإنه من اختصاص وزارة التعليم. وهي، المعروفة بالملايوية باسم **Kementerian Pendidikan Malaysia** والمختصرة دائمًا تقريبًا إلى **KPM**، الوزارة الاتحادية التي تُدير نظام التعليم ما قبل الجامعي في البلاد. أما ما *لا* تُديره فهو الجامعات — وهو حدٌّ يُربك كثيرًا من الناس.

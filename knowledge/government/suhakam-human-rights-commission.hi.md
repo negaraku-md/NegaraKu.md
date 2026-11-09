@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "kehakiman-mahkamah" }
 related: ["federal-constitution", "parliament", "kehakiman-mahkamah", "attorney-general"]
 keywords: ["SUHAKAM", "मलेशिया का मानवाधिकार आयोग", "Suruhanjaya Hak Asasi Manusia Malaysia", "Human Rights Commission of Malaysia", "अधिनियम 597", "Akta 597", "मानवाधिकार", "मानवाधिकार शिकायत", "पेरिस सिद्धांत", "GANHRI का A दर्जा", "निरोध-स्थल", "संघीय संविधान"]
+framework: profile
 ---
 
 जब कोई व्यक्ति मानवाधिकार उल्लंघन की शिकायत SUHAKAM को प्रस्तुत करता है, तो आयोग वास्तव में क्या

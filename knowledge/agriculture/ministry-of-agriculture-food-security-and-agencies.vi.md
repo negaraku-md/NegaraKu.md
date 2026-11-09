@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "kementerian-kemajuan-desa-dan-wilayah" }
 related: []
 keywords: ["KPKM", "Kementerian Pertanian dan Keterjaminan Makanan", "Ministry of Agriculture and Food Security", "DOA", "DVS", "DOF", "FAMA", "MARDI", "LPP", "LKIM", "BERNAS", "agensi pertanian Malaysia"]
+framework: profile
 ---
 
 Khi một con bò nhập khẩu cần được kiểm dịch, một bao hạt giống lúa cần được kiểm tra, hoặc một cửa hàng tạp hóa muốn bán gạo, ba thực thể chính phủ khác nhau có thể tham gia — và tất cả đều bắt nguồn từ một bộ ở Putrajaya. Việc biết cơ quan nào làm gì giúp bạn tránh gõ nhầm cửa.

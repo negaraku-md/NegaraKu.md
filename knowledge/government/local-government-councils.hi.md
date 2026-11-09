@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "state-assemblies-dun" }
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission"]
 keywords: ["स्थानीय प्राधिकरण", "Pihak Berkuasa Tempatan", "PBT", "स्थानीय सरकार", "kerajaan tempatan", "स्थानीय सरकार अधिनियम 1976", "Akta 171", "नगर परिषद", "Majlis Bandaraya", "नगरपालिका परिषद", "Majlis Perbandaran", "ज़िला परिषद", "Majlis Daerah", "Datuk Bandar", "Yang Dipertua", "पार्षद", "स्थानीय सरकार चुनाव", "Athi Nahappan", "KPKT"]
+framework: profile
 ---
 
 सरकार का वह स्तर जो रोज़मर्रा की ज़िंदगी के सबसे क़रीब है — वह जो कूड़ा उठाने, सड़क की रोशनी, व्यापार लाइसेंस, भवन-योजना की स्वीकृति और मूल्यांकन दरों को संभालता है — न तो संघीय सरकार है और न राज्य सरकार, बल्कि **स्थानीय प्राधिकरण (Pihak Berkuasa Tempatan, PBT)** है। फिर भी [Dewan Rakyat](/government/dewan-rakyat) और [राज्य विधानसभा](/government/state-assemblies-dun) के विपरीत, जिनके सदस्य चुनाव के माध्यम से चुने जाते हैं, PBT के सदस्य आज **मनोनीत** होते हैं, **निर्वाचित** नहीं।

@@ -76,6 +76,7 @@ wikidata: "Q113542338"
 relations: []
 related: []
 keywords: ["Department of Fisheries Malaysia", "DOF", "Jabatan Perikanan Malaysia", "Fisheries Act 1985", "fishing licence Malaysia", "aquaculture Malaysia", "dof.gov.my", "fisheries statistics Malaysia", "fishing zones Malaysia", "Director-General of Fisheries"]
+framework: profile
 ---
 
 மலேசிய நீர்நிலைகளில் சட்டப்படி வலை வீசும் ஒவ்வொரு படகும், இறுதியில், ஒரே ஒரு நிறுவனத்திற்குப் பதிலளிக்க வேண்டும். **மலேசிய மீன்வளத் துறை (DOF)** — *Jabatan Perikanan Malaysia* — நாட்டின் கடல் மற்றும் நீர்வள வளர்ப்பு வளங்களை நிர்வகித்து அனைத்து மீன்பிடி நடவடிக்கைகளுக்கும் உரிமம் வழங்கும் மத்திய அரசு அமைப்பாகும். இது **விவசாயம் மற்றும் உணவுப் பாதுகாப்பு அமைச்சின் (MAFS)** கீழ் இயங்கி, **Fisheries Act 1985 (Act 317)**-ஐ நிர்வகிக்கிறது, மேலும் **மீன்வள இயக்குநர்-ஜெனரலால்** வழிநடத்தப்படுகிறது. அதன் தலைமையகம் Putrajaya-வில் உள்ள Wisma Tani-இல் அமைந்துள்ளது, மாநில மற்றும் மாவட்ட அலுவலகங்களின் வலையமைப்பால் ஆதரிக்கப்படுகிறது.

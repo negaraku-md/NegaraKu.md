@@ -76,6 +76,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
 related: []
 keywords: ["FAMA", "Autoridad Federal de Comercialización Agrícola", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Act 141", "mercado de agricultores", "My Farm Outlet", "Agrobazaar", "comercialización agrícola", "fama.gov.my"]
+framework: profile
 ---
 
 Un agricultor de hortalizas en las [Cameron Highlands](/tourism/cameron-highlands-visitor-guide) puede cultivar los mejores productos y, aun así, el

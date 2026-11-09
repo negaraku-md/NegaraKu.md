@@ -75,6 +75,7 @@ wikidata: "Q7374434"
 relations: []
 related: []
 keywords: ["RMCD", "Royal Malaysian Customs Department", "Jabatan Kastam Diraja Malaysia", "JKDM", "Kastam Malaysia", "SST Malaysia", "sales and service tax", "import duty Malaysia", "customs clearance Malaysia", "MySST", "uCustoms", "excise duty Malaysia", "service tax registration"]
+framework: profile
 ---
 
 Setiap kali anda membayar cukai pada bil restoran, melepaskan bungkusan melalui kastam, atau mengisi minyak kereta yang dibina dengan enjin import, satu jabatan berada di sebalik caj itu: **Jabatan Kastam Diraja Malaysia (RMCD)** — *Jabatan Kastam Diraja Malaysia* (JKDM), lazimnya dipanggil *Kastam*. Ia ialah jabatan kerajaan di bawah **Kementerian Kewangan** yang bertanggungjawab memungut cukai tidak langsung, memudahkan perdagangan dan menguatkuasakan undang-undang kastam, dan ia merupakan pemungut utama cukai tidak langsung negara.

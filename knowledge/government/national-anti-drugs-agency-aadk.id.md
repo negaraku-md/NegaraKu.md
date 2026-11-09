@@ -77,6 +77,7 @@ related: []
 keywords: ["AADK", "Agensi Antidadah Kebangsaan", "National Anti-Drugs Agency", "drug rehabilitation Malaysia", "Cure and Care", "Puspen", "NADA Malaysia", "voluntary drug treatment", "Drug Dependants Act 1983"]
 social:
   hashtags: ["#AADK", "#NegaraKu", "#DrugRehabilitation", "#MalaysiaHomeAffairs"]
+framework: profile
 ---
 
 Malaysia membagi tanggapannya terhadap narkoba menjadi dua paruh besar. Satu paruh adalah penegakan pidana — menangkap pengedar, menyita pasokan, menuntut pelanggaran — dan itu dipimpin oleh polisi. Paruh lainnya adalah **pengurangan permintaan**: mencegah orang menggunakan narkoba sejak awal, serta merawat dan merehabilitasi mereka yang menggunakannya. Paruh itu dipimpin oleh **Agensi Antidadah Kebangsaan** (**AADK**, juga ditulis **NADA**), sebuah agensi di bawah **Kementerian Dalam Negeri** (*Kementerian Dalam Negeri*, KDN). AADK menjalankan pusat-pusat rehabilitasi narkoba negara, menyampaikan program pencegahan dan edukasi, serta mengelola pembinaan lanjutan bagi orang yang sedang memulihkan diri.

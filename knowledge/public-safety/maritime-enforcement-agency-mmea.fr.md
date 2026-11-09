@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysian-armed-forces-atm" }
 related: ["pdrm"]
 keywords: ["APMM", "MMEA", "garde-côtes de la Malaisie", "application de la loi maritime", "recherche et sauvetage", "Zone maritime de la Malaisie", "Akta APMM 2004"]
+framework: profile
 ---
 
 Lorsqu'un remorqueur coule au milieu du détroit de Malacca ou que des pêcheurs

@@ -85,6 +85,7 @@ entity: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM) / Department of Labou
 relations: []
 related: []
 keywords: ["JTKSM", "Jabatan Tenaga Kerja Semenanjung Malaysia", "Labour Department Malaysia", "Department of Labour Peninsular Malaysia", "pejabat buruh", "aduan buruh", "eAduan JTKSM", "how to file labour complaint Malaysia", "unpaid salary Malaysia", "Labour Court Malaysia", "Employment Act 1955", "Section 69 Employment Act", "JTK complaint", "gaji tak dibayar"]
+framework: profile
 ---
 
 Jika majikan anda tidak membayar gaji anda, terdapat sebuah pejabat kerajaan yang khusus bertugas menyiasat dan, di mana undang-undang membenarkan, mengarahkan wang itu dibayar — tanpa anda perlu mengupah peguam atau pergi ke mahkamah sivil. Di Semenanjung Malaysia, pejabat itu ialah **JTKSM**: *Jabatan Tenaga Kerja Semenanjung Malaysia*, atau **Department of Labour Peninsular Malaysia**. Ia terletak di bawah **Kementerian Sumber Manusia** dan menguatkuasakan Akta Kerja 1955 serta undang-undang buruh berkaitan.

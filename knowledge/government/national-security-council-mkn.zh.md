@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: ["federal-constitution", "yang-di-pertuan-agong"]
 keywords: ["Majlis Keselamatan Negara", "MKN", "Akta 776", "kawasan keselamatan", "Perkara 150", "darurat", "kuasa keselamatan negara"]
+framework: profile
 ---
 
 当马来西亚政府需要对安全威胁作出迅速反应时，两套不同的法律框架常常被相提并论：国家安全理事会（MKN）与宪制紧急状态权力。两者都与国家安全相关，但源自不同的法律渊源，并各有不同的条件。本文以中立且以法律条文为依据的方式说明这两者。

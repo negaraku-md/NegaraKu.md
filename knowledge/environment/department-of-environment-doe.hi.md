@@ -95,6 +95,7 @@ relations:
   - { rel: "compares-with", to: "swcorp" }
 related: ["environmental-impact-assessment-eia-malaysia"]
 keywords: ["Department of Environment", "DOE", "Jabatan Alam Sekitar", "JAS", "Environmental Quality Act 1974", "Act 127", "EIA Malaysia", "scheduled waste", "NRES", "पर्यावरण विभाग", "पर्यावरण गुणवत्ता अधिनियम", "अनुसूचित अपशिष्ट"]
+framework: profile
 ---
 
 यदि कोई मलेशियाई कारख़ाना किसी नदी में बहिःस्राव उंडेलता है, यदि किसी राजमार्ग को पहला पेड़ गिरने से पहले एक पर्यावरणीय मंज़ूरी चाहिए, या यदि कोई संयंत्र ख़तरनाक कीचड़ के ड्रम किसी लाइसेंसधारी निस्तारक को भेजता है — तो इन तीनों के पीछे एक संघीय विभाग बैठा है। पर्यावरण विभाग क्या करता है, और उतना ही महत्वपूर्ण, क्या *नहीं* करता है, यह जानना आपको ग़लत एजेंसी का दरवाज़ा खटखटाने से बचाता है।

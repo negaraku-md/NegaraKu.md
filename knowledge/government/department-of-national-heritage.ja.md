@@ -74,6 +74,7 @@ wikidata: "Q7354460"
 relations: []
 related: []
 keywords: ["Jabatan Warisan Negara", "JWN", "Department of National Heritage", "National Heritage Act 2005", "Act 645", "Warisan Kebangsaan", "National Heritage Register", "Commissioner of Heritage", "heritage.gov.my", "MOTAC", "gazette national heritage Malaysia", "Daftar Warisan Kebangsaan", "Warisan Orang Hidup"]
+framework: profile
 ---
 
 ジョージタウンの店舗兼住宅（ショップハウス）が保護命令を受けたとき、あるいは*[マッ・ヨン](/arts-culture/mak-yong)*（mak yong）の舞い手が生ける至宝として顕彰されるとき——その決定の背後には一つの連邦機関がある：**国家遺産局**——*Jabatan Warisan Negara*（**JWN**）である。**2006年3月1日**に設立されたJWNは、マレーシアの遺産を鑑定、保全、官報告示および保護しており、**観光・芸術・文化省（MOTAC）**のもとで運営されている。その掲げるビジョンは、国民的アイデンティティの形成と国家経済の創出に向けて、遺産という宝を探求し保存することを主導することである。

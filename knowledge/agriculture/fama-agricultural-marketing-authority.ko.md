@@ -76,6 +76,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
 related: []
 keywords: ["FAMA", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Akta 141", "pasar tani", "My Farm Outlet", "Agrobazaar", "pemasaran pertanian", "fama.gov.my"]
+framework: profile
 ---
 
 [캐머런 하일랜즈(Cameron Highlands)](/tourism/cameron-highlands-visitor-guide)의 채소 농가는 최상의 작물을 재배할 수 있지만, 농장에서 받는 가격은 도시 노점의 가격과 크게 다른 경우가 많습니다. 그 격차 — 농장과 밥상 사이의 — 가 이름은 좀처럼 언급되지 않지만 그 성과는 자주 접하는 한 법정 기구의 소관입니다.

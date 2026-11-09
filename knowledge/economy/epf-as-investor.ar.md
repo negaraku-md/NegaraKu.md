@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "epf" }
 related: ["epf", "khazanah", "pnb", "bursa-malaysia", "bank-negara-malaysia", "glc"]
 keywords: ["EPF investment", "استثمارات EPF", "KWSP investment portfolio", "توزيع أصول EPF", "EPF asset allocation", "EPF dividend", "توزيعات EPF", "EPF Investment Panel", "EPF institutional investor", "EPF Bursa Malaysia", "Malaysian Government Securities EPF", "EPF Act 1991"]
+framework: profile
 ---
 
 ## لمحة سريعة

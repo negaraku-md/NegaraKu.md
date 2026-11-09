@@ -86,6 +86,7 @@ keywords:
   - "kuasa budi bicara Yang di-Pertuan Agong"
   - "Perkara 40 Perlembagaan Persekutuan"
   - "raja berperlembagaan Malaysia"
+framework: profile
 ---
 
 ระบอบราชาธิปไตยส่วนใหญ่ในโลกตอบคำถามเดียวกันด้วยวิธีเดียวกัน: ใครจะเป็นพระมหากษัตริย์องค์ต่อไป? คำตอบมักเป็นการสืบสายโลหิต และวาระมักเป็นตลอดพระชนม์ชีพ

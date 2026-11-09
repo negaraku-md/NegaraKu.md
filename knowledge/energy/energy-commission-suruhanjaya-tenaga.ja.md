@@ -92,6 +92,7 @@ relations:
   - { rel: "governs", to: "energy-efficiency-conservation-act-2024" }
 related: []
 keywords: ["Suruhanjaya Tenaga", "Energy Commission Malaysia", "Akta Suruhanjaya Tenaga 2001", "Akta 610", "tarif elektrik Malaysia", "EECA 2024", "Akta 861", "PETRA"]
+framework: profile
 ---
 
 停電が起きたとき、電気料金が上がったとき、あるいは工場が突然、登録エネルギーマネージャーの選任を

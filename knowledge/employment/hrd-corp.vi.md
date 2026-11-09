@@ -72,6 +72,7 @@ wikidata: "Q113541603"
 relations: []
 related: []
 keywords: ["HRD Corp", "HRDF", "HRD levy", "Pembangunan Sumber Manusia Berhad", "PSMB Act 2001", "HRDF registration", "HRD Corp claim", "HRD levy 1%", "HRD Corp claimable courses", "human resource development fund Malaysia", "HRDF levy calculation", "Akta 612"]
+framework: profile
 ---
 
 Nếu công ty bạn chạy bảng lương Malaysia, một dòng trên sổ phiếu lương có thể ghi là một **khoản thuế 1% cho HRD Corp** — và khác với EPF hay SOCSO, nó không phải là một quyền lợi được chi trả cho người lao động. Nó là một ngân sách đào tạo mà *người sử dụng lao động* nộp vào rồi đòi lại. Hiểu được vòng lặp đó là sự khác biệt giữa việc coi thuế như một khoản thuế thu ngân sách và việc dùng nó đúng như dự định.

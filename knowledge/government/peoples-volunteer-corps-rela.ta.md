@@ -73,6 +73,7 @@ related: ["jpn"]
 keywords: ["RELA", "Ikatan Relawan Rakyat", "Jabatan Sukarelawan Malaysia", "People's Volunteer Corps", "rela maksud", "Malaysia Volunteers Corps Act 2012", "Act 752", "RELA members", "volunteer security force Malaysia", "Ministry of Home Affairs"]
 social:
   hashtags: ["RELA", "JabatanSukarelawanMalaysia", "Malaysia"]
+framework: profile
 ---
 
 பொது விடுமுறையின் முன்தினத்தில் ஒரு சாலை தடை வழியாக நீங்கள் வாகனம் ஓட்டியிருந்தால், நெரிசலான விழாவில் வரிசையில் நின்றிருந்தால், அல்லது வெள்ளத்துக்குப் பிறகு ஒரு பேரிடர்-நிவாரண நிலையத்தைக் கடந்து சென்றிருந்தால், நீங்கள் **RELA**-ஐப் பார்த்திருக்கக்கூடும் — போக்குவரத்தை வழிநடத்தி அதிகாரிகளுக்குக் கைகொடுக்கும் சீருடை தன்னார்வலர்கள். **மக்கள் தன்னார்வப் படை** (*Ikatan Relawan Rakyat*, இன்று *Jabatan Sukarelawan Malaysia*, **RELA**) என்பது **உள்துறை அமைச்சின்** (*Kementerian Dalam Negeri*, KDN) கீழ் ஒரு துறையாக ஒழுங்கமைக்கப்பட்ட குடிமைத் தன்னார்வப் படை. அதன் உறுப்பினர்கள் காவல்துறை, ஆயுதப் படைகள் மற்றும் பிற நிறுவனங்களுக்கு உதவுகிறார்கள் — அவர்களே ஒரு சுயாதீன காவல்துறை அல்ல.

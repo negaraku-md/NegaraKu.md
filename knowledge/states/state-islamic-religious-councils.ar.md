@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "syariah-courts-malaysia" }
 related: ["waqf-islamic-endowment-malaysia", "federal-constitution"]
 keywords: ["المجلس الديني الإسلامي للولاية", "Majlis Agama Islam Negeri", "MAIN", "الزكاة zakat", "الوقف wakaf", "الفتوى fatwa", "المادة 3", "قائمة الولاية", "الإدارة الإسلامية"]
+framework: profile
 ---
 
 اسأل مَن يدير الزكاة والوقف والمساجد في ولايتك، فلن يكون الجواب وزارة في بوتراجايا — بل

@@ -94,6 +94,7 @@ relations:
   - { rel: "governs", to: "statutory-audit-process" }
 related: ["appointing-an-auditor", "audit-opinion-types", "changing-auditors"]
 keywords: ["مجلس الرقابة على التدقيق", "AOB", "كيان المصلحة العامة", "تسجيل مدقّقي PIE", "هيئة الأوراق المالية الماليزية", "الجزء IIIA SCMA", "الصندوق المجدوَل", "EQCR", "الرقابة على المدقّقين ماليزيا", "public interest entity", "Securities Commission Malaysia"]
+framework: profile
 ---
 
 اجتياز ترخيص التدقيق من وزير المالية والانضمام إلى MIA لا يتيح لك بعدُ التوقيع على حسابات شركة مدرَجة في بورصة ماليزيا. فلتدقيق سوق المال شرطٌ إضافي — التسجيل لدى مجلس الرقابة على التدقيق — لا يحتاج إلى استيفائه إلا مدقّقو كيانات المصلحة العامة والصناديق المجدوَلة.

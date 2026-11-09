@@ -76,6 +76,7 @@ keywords:
   - "Attorney General's Chambers"
   - "Peguam Negara"
   - "حق المرافعة"
+framework: profile
 ---
 
 معظم المناصب العامة يحددها قانون يستطيع البرلمان إعادة صياغته. أما منصب

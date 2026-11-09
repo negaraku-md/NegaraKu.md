@@ -75,6 +75,7 @@ wikidata: "Q7374434"
 relations: []
 related: []
 keywords: ["RMCD", "Royal Malaysian Customs Department", "Jabatan Kastam Diraja Malaysia", "JKDM", "Kastam Malaysia", "SST Malaysia", "sales and service tax", "import duty Malaysia", "customs clearance Malaysia", "MySST", "uCustoms", "excise duty Malaysia", "service tax registration"]
+framework: profile
 ---
 
 Cada vez que paga impuestos sobre la cuenta de un restaurante, despacha un paquete en aduanas, o llena el depósito de un coche montado sobre un motor importado, hay un departamento detrás del cargo: el **Departamento Real de Aduanas de Malasia (RMCD)** — *Jabatan Kastam Diraja Malaysia* (JKDM), comúnmente llamado *Kastam*. Es el departamento gubernamental bajo el **Ministerio de Finanzas** responsable de recaudar los impuestos indirectos, facilitar el comercio y hacer cumplir la ley aduanera, y es el principal recaudador de impuestos indirectos del país.

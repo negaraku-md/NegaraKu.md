@@ -73,6 +73,7 @@ wikidata: "Q6742016"
 relations: []
 related: []
 keywords: ["JPJ", "सड़क परिवहन विभाग", "Jabatan Pengangkutan Jalan", "Road Transport Department Malaysia", "MyJPJ", "सड़क कर नवीनीकरण", "road tax renewal", "ड्राइविंग लाइसेंस नवीनीकरण", "driving licence renewal", "e-LKM", "e-LMM", "MySIKAP", "JPJeBid", "Road Transport Act 1987", "KEJARA", "cukai jalan", "lesen memandu"]
+framework: profile
 ---
 
 मलेशिया में चुकाया गया हर सड़क कर, जारी की गई हर नंबर प्लेट, और रखा गया हर ड्राइविंग लाइसेंस एक ही एजेंसी से होकर गुज़रता है: **सड़क परिवहन विभाग** — *Jabatan Pengangkutan Jalan*, जो हर जगह अपने संक्षिप्त नाम **JPJ** से जाना जाता है। यह **परिवहन मंत्रालय** के भूमि प्रभाग के अधीन काम करता है और वह विभाग है जो वाहनों का पंजीकरण करने, ड्राइविंग लाइसेंस और वाहन नंबर प्लेट जारी करने, तथा विवेकी चालकों और सुरक्षित वाहनों को सुनिश्चित करने के लिए सड़क परिवहन अधिनियम 1987 को लागू करने के लिए ज़िम्मेदार है।

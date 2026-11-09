@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "malaysia-civil-defence-force-apm" }
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "आपदा प्रबंधन", "NADMA निर्देश सं. 1", "MKN निर्देश 20", "बाढ़", "SMART", "प्रधानमंत्री विभाग"]
+framework: profile
 ---
 
 जब कोई बड़ी बाढ़ एक साथ कई राज्यों पर प्रहार करती है, तो सेना, अग्निशमन दल, पुलिस और स्वयंसेवकों को एक ही कमान के तहत समन्वित करने का बटन कौन दबाता है? मलेशिया में, इसका उत्तर है NADMA।

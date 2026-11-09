@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "personal-bankruptcy-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["AKPK", "Program Pengurusan Kredit", "PPK", "DMP", "penstrukturan hutang", "kaunseling kewangan", "Bank Negara Malaysia", "hutang kad kredit"]
+framework: profile
 ---
 
 Ketika tagihan kartu kredit, cicilan mobil, dan pinjaman perumahan datang serentak setiap bulan dan gaji tidak mencukupi, banyak orang Malaysia mengira pilihan terakhir hanyalah bangkrut. Sebenarnya ada satu pintu lebih awal, dan itu sepenuhnya gratis.

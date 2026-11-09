@@ -92,6 +92,7 @@ relations:
   - { rel: "governs", to: "energy-efficiency-conservation-act-2024" }
 related: []
 keywords: ["Suruhanjaya Tenaga", "Energy Commission Malaysia", "Akta Suruhanjaya Tenaga 2001", "Akta 610", "tarif elektrik Malaysia", "EECA 2024", "Akta 861", "PETRA"]
+framework: profile
 ---
 
 เมื่อไฟฟ้าของท่านดับ อัตราค่าไฟขึ้น หรือโรงงานของท่านถูกกำหนดให้ต้องแต่งตั้งผู้จัดการพลังงานที่ขึ้นทะเบียนขึ้นมาทันที หน่วยงานเดียวกันอยู่เบื้องหลังทั้งสามกรณี ไม่ใช่กระทรวง แต่เป็นองค์กรตามกฎหมาย คือ Suruhanjaya Tenaga

@@ -125,6 +125,7 @@ wikidata: "Q4294352"
 relations: []
 related: []
 keywords: ["sistema de salud pública de Malasia", "Ministerio de Salud de Malasia", "MOH", "KKM", "klinik kesihatan", "hospital público Malasia", "tarifa de clínica RM1", "tarifas de hospital público Malasia", "PeKa B40", "salud universal Malasia", "atención sanitaria en Malasia", "sistema de salud de dos niveles Malasia"]
+framework: explainer
 ---
 
 Entre en una clínica gubernamental de Malasia y la factura en el mostrador es casi nada — **RM1** por el registro ambulatorio general. Eso no es caridad: es diseño. Malasia opera un **sistema de salud de dos niveles**: un servicio público gestionado por el **Ministerio de Salud (MOH, *Kementerian Kesihatan Malaysia*, KKM)** junto a un amplio sector privado. El lado público se **financia únicamente con la tributación general, sin aportaciones obligatorias a un seguro nacional**, de modo que la atención se presta a cambio de tarifas nominales fuertemente subsidiadas en lugar de primas. Ese modelo ha producido un acceso casi universal con una proporción modesta de la renta nacional — pero hoy conlleva una carga de coste doméstico creciente y presiones reales sobre la oferta. Esta guía explica, en términos sencillos, cómo accede usted al sistema, cuánto cuesta, a quién cubre y dónde está tensionado.

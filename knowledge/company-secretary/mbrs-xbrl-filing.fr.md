@@ -85,6 +85,7 @@ entity: "Malaysian Business Reporting System (MBRS)"
 relations: []
 related: []
 keywords: ["MBRS", "MBRS 2.0", "XBRL", "SSM", "mTool", "mPortal", "SSMxT", "SSM taxonomy", "financial statements filing Malaysia", "Companies Act 2016", "annual return", "exempt private company", "Suruhanjaya Syarikat Malaysia", "MFRS", "MPERS"]
+framework: how-to
 ---
 
 Si votre société croit encore qu'elle «dépose ses comptes auprès de la SSM» en remettant un PDF signé, cette époque est révolue. Le **Système malaisien de reporting d'entreprise (MBRS)** est la plateforme de soumission de la SSM bâtie sur le format du langage extensible de reporting d'entreprise (XBRL), et depuis le **1er juin 2025** le dépôt des états financiers audités par son intermédiaire est obligatoire pour les sociétés au titre du Companies Act 2016. Par l'intermédiaire de MBRS, une société dépose trois types de soumission : la **déclaration annuelle (AR)**, les **états financiers et rapports (FS)**, et les **demandes d'exonération (EA)**.

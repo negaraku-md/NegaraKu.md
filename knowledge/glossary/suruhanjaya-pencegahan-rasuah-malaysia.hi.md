@@ -77,6 +77,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["akta", "glc"]
 keywords: ["SPRM", "MACC", "Suruhanjaya Pencegahan Rasuah Malaysia", "धारा 17A", "Seksyen 17A", "Akta 694", "कॉरपोरेट आपराधिक दायित्व", "पर्याप्त प्रक्रियाएँ"]
+framework: profile
 ---
 
 **Bahasa Malaysia:** Suruhanjaya Pencegahan Rasuah Malaysia · **English:** Malaysian Anti-Corruption Commission · **中文:** 马来西亚反贪污委员会

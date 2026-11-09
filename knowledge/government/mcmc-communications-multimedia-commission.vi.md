@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "communications-multimedia-act-1998" }
 related: ["communications-and-multimedia-act-1998"]
 keywords: ["MCMC", "SKMM", "Suruhanjaya Komunikasi dan Multimedia Malaysia", "Akta Komunikasi dan Multimedia 1998", "Akta 588", "Akta 589", "lesen telekomunikasi", "penyiaran", "kandungan internet", "NFP", "NSP", "ASP", "CASP"]
+framework: profile
 ---
 
 Mỗi cuộc gọi điện thoại, kết nối Internet, chương trình truyền hình và ứng dụng nhắn tin ở Malaysia đều hoạt động dưới cùng một chế độ cấp phép — và ủy ban tổ chức chế độ đó là MCMC.

@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "syariah-courts-malaysia" }
 related: ["waqf-islamic-endowment-malaysia", "federal-constitution"]
 keywords: ["Majlis Agama Islam Negeri", "MAIN", "zakat", "wakaf", "fatwa", "Perkara 3", "Senarai Negeri", "pentadbiran Islam"]
+framework: profile
 ---
 
 Tanya siapa yang menguruskan zakat, wakaf dan masjid di negeri anda, dan jawapannya bukan sebuah kementerian di Putrajaya — tetapi sebuah badan berkanun negeri yang bertanggungjawab kepada Raja negeri itu sendiri. Badan itu ialah Majlis Agama Islam Negeri (MAIN), dan wujudnya di setiap negeri berpunca daripada satu prinsip perlembagaan: hal ehwal agama Islam ialah perkara negeri, bukan persekutuan.

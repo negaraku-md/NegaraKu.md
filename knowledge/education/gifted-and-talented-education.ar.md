@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "special-needs-education" }
 related: []
 keywords: ["PERMATApintar", "GENIUS@Pintar", "الموهوبون والمتفوقون", "murid pintar berbakat", "تعليم الموهوبين في ماليزيا", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
+framework: profile
 ---
 
 طفل في العاشرة قادر على حلّ رياضيات الصف الخامس الثانوي لا يبرز دائماً في فصل دراسي عادي — وفي ماليزيا، المركز الوطني الوحيد المصمم للعثور على عقول كهذه ورعايتها هو PERMATApintar.

@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysian-armed-forces-atm" }
 related: ["pdrm"]
 keywords: ["APMM", "MMEA", "pengawal pantai Malaysia", "penguatkuasaan maritim", "carian dan menyelamat", "Zon Maritim Malaysia", "Akta APMM 2004"]
+framework: profile
 ---
 
 예인선이 믈라카 해협 한복판에서 침몰하거나 외국 어선이 사바 수역을 침범할 때, 가장 먼저 움직이는 것은 군이 아니라 짙은 남색 제복을 입은 민간 기관입니다. 그것이 바로 국가의 해양경비대인 말레이시아 해양집행청(APMM)입니다.

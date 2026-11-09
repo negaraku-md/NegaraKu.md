@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution"]
 keywords: ["Peguam Negara", "Pendakwa Raya", "Perkara 145", "Perlembagaan Persekutuan", "Jabatan Peguam Negara", "budi bicara pendakwaan", "pengasingan peranan"]
+framework: profile
 ---
 
 ชายคนหนึ่งสามารถตัดสินได้ว่าคุณจะถูกนำตัวขึ้นสู่การพิจารณาคดีอาญาหรือไม่ — หรือได้รับการปล่อยตัวโดยไม่มีการยื่นฟ้องเลย ในมาเลเซีย บุคคลผู้นั้นคืออัยการสูงสุด (Peguam Negara) และอำนาจของเขาถือกำเนิดจากมาตราเดียวในรัฐธรรมนูญสหพันธรัฐ

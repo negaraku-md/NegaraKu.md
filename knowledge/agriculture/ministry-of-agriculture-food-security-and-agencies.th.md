@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "kementerian-kemajuan-desa-dan-wilayah" }
 related: []
 keywords: ["KPKM", "Kementerian Pertanian dan Keterjaminan Makanan", "Ministry of Agriculture and Food Security", "DOA", "DVS", "DOF", "FAMA", "MARDI", "LPP", "LKIM", "BERNAS", "agensi pertanian Malaysia"]
+framework: profile
 ---
 
 เมื่อวัวนำเข้าตัวหนึ่งต้องถูกกักกันโรค ข้าวเปลือกกระสอบหนึ่งต้องได้รับการตรวจสอบ หรือร้านค้าปลีกแห่งหนึ่งต้องการขายข้าวสาร หน่วยงานรัฐบาลที่ต่างกันถึงสามหน่วยอาจเข้ามาเกี่ยวข้อง — และทั้งหมดมีต้นทางอยู่ที่กระทรวงเดียวในเมืองปุตราจายา (Putrajaya) การรู้ว่าหน่วยงานใดทำหน้าที่อะไรจะช่วยให้ท่านไม่ต้องเคาะประตูผิดบาน

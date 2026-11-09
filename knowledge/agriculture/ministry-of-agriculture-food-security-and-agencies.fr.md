@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "kementerian-kemajuan-desa-dan-wilayah" }
 related: []
 keywords: ["KPKM", "Kementerian Pertanian dan Keterjaminan Makanan", "Ministry of Agriculture and Food Security", "Ministère de l'Agriculture et de la Sécurité alimentaire", "DOA", "DVS", "DOF", "FAMA", "MARDI", "LPP", "LKIM", "BERNAS", "agences agricoles de la Malaisie"]
+framework: profile
 ---
 
 Lorsqu'une vache importée doit être mise en quarantaine, qu'un sac de semence de

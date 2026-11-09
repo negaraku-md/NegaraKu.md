@@ -89,6 +89,7 @@ relations:
   - { rel: "governs", to: "group-settlement-areas-act-1960" }
 related: []
 keywords: ["FELDA", "peneroka", "penempatan tanah", "kelapa sawit", "FGV Holdings", "Akta Tanah 1960", "kemiskinan luar bandar"]
+framework: profile
 ---
 
 Imagine a poor family moved to a freshly cleared forest, given a plot of land and a monthly wage, then asked to wait for years until their rubber or oil palm trees matured. That was the offer that changed the lives of more than 100,000 rural Malaysian families — and its engine was FELDA.

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "majlis-raja-raja" }
 related: ["three-tiers-of-government", "federal-constitution", "parliament", "dewan-rakyat", "yang-di-pertuan-agong", "majlis-raja-raja"]
 keywords: ["المفوضية الماليزية للانتخابات", "لجنة الانتخابات", "Suruhanjaya Pilihan Raya", "SPR", "Election Commission", "المادة 113", "المادة 114", "Perkara 113", "Perkara 114", "الدستور الاتحادي", "Perlembagaan Persekutuan", "إعادة ترسيم الدوائر", "سجل الناخبين", "الجدول الثالث عشر", "Jadual Ketiga Belas"]
+framework: profile
 ---
 
 الهيئة التي تُجري الانتخابات في ماليزيا لم تُنشأ بقانون عادي، ولا يمكن حلّها بقانون عادي. فقد نصّ عليها الدستور الاتحادي مباشرةً — ومادّتان، هما 113 و114، تحددان ما يجوز لها أن تفعله ومن يجوز أن يكون عضوًا فيها.

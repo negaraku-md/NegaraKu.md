@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "ssm" }
 related: ["federal-constitution", "imigresen", "lhdn", "ssm"]
 keywords: ["JPN", "Jabatan Pendaftaran Negara", "National Registration Department", "MyKad", "MyKid", "MyPR", "sijil kelahiran", "pendaftaran kematian", "perkahwinan sivil", "kewarganegaraan"]
+framework: profile
 ---
 
 すべてのマレーシア国民は、言葉を話せるようになる前に開かれ、死去した後に閉じられる

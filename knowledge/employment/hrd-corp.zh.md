@@ -72,6 +72,7 @@ wikidata: "Q113541603"
 relations: []
 related: []
 keywords: ["HRD Corp", "HRDF", "HRD levy", "Pembangunan Sumber Manusia Berhad", "PSMB Act 2001", "HRDF registration", "HRD Corp claim", "HRD levy 1%", "HRD Corp claimable courses", "human resource development fund Malaysia", "HRDF levy calculation", "Akta 612"]
+framework: profile
 ---
 
 如果你的公司在马来西亚发薪，薪资账目上可能有一行写着 **缴予 HRD Corp 的 1% 征费**——而与公积金（EPF）或社险（SOCSO）不同，它并非付给员工的福利。它是由*雇主*缴入、之后再申领回来的培训预算。理解这个循环，正是把征费当成税，还是按其本意加以运用之间的区别。

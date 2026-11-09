@@ -75,6 +75,7 @@ keywords:
   - "Laporan Ketua Audit Negara"
   - "Auditor General Malaysia"
   - "pengauditan kerajaan"
+framework: profile
 ---
 
 매년 두툼한 보고서 한 편이 하원(Dewan Rakyat)에 제출됩니다. 이 보고서는 수십억 링깃(RM)의 공적 자금이 어떻게 쓰였는지를 — 여러 부처, 주(state) 기관, 법정기관, 정부 소유 회사에 의해 — 점검합니다. 그 집필자는 야당 정치인이나 정부 바깥의 독립기구가 아닙니다. 그는 지금 자신이 감사하고 있는 바로 그 정부에 의해 해임되지 않도록 헌법이 의도적으로 보호하는 한 명의 정부 관료입니다.

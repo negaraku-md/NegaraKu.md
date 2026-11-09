@@ -72,6 +72,7 @@ relations:
   - { rel: "governs", to: "akta-pertahanan-awam-1951" }
 related: []
 keywords: ["APM", "JPAM", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "bantuan kecemasan", "PASPA", "Akta 221", "sukarelawan pertahanan awam"]
+framework: profile
 ---
 
 பெரும் வெள்ளம் தாக்கும்போது அல்லது ஒரு கட்டிடம் இடிந்து விழும்போது, படகுகள், கயிறுகள் மற்றும் மீட்புக் கருவிகளுடன் முதலில் வந்து சேரும் அணிகளில் ஒன்று பெரும்பாலும் ஆரஞ்சு நிற உடையணிந்த APM அணியாகவே இருக்கும். மலேசிய சிவில் பாதுகாப்புப் படை (Angkatan Pertahanan Awam Malaysia, APM) என்பது நாட்டின் மனிதாபிமான உதவியின் முதுகெலும்பாகும் — ஒரு பேரிடர் நிகழும் முன், அதன்போது மற்றும் அதற்குப் பின் என எப்போதும் களத்தில் இருக்கும்.

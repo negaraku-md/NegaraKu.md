@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "capital-markets-and-services-act-2007" }
 related: ["bursa-malaysia", "bank-negara-malaysia"]
 keywords: ["securities commission malaysia", "SC Malaysia", "capital market regulator", "CMSA 2007", "Securities Commission Act 1993", "equity crowdfunding", "P2P financing"]
+framework: profile
 ---
 
 ユニットトラストを購入するとき、エクイティ・クラウドファンディング・プラットフォームを通じて投資するとき、あるいはBursa Malaysiaで株式を売買するとき——そのすべての背後でルールを定めているのは1つの機関である：証券委員会（Securities Commission、SC）である。SCは国の資本市場における唯一の法定ゲートキーパーであり、その権限がどこから始まりどこで終わるのかを正確に把握しておくことで、多くの混乱を避けることができる。

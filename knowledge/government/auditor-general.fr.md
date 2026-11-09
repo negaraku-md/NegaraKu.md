@@ -76,6 +76,7 @@ keywords:
   - "Audit Act 1957"
   - "Rapport de l'Auditeur général"
   - "audit gouvernemental"
+framework: profile
 ---
 
 Chaque année, un volumineux rapport est déposé devant le Dewan Rakyat. Il examine comment des milliards de ringgit d'argent public ont été dépensés — par les ministères, les départements des États, les organismes statutaires et les entreprises publiques. Son auteur n'est pas un politicien de l'opposition ni un organisme indépendant extérieur au gouvernement. C'est un fonctionnaire du gouvernement que la Constitution protège délibérément d'une révocation par le gouvernement même qui est audité.

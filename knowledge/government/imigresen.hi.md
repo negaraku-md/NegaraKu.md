@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "rmcd-kastam" }
 related: ["moving-to-malaysia-first-steps", "work-passes-malaysia", "employment-pass-malaysia", "hiring-foreign-workers-malaysia", "foreign-worker-levy-malaysia", "jpn", "rmcd-kastam"]
 keywords: ["मलेशियाई आव्रजन विभाग", "Jabatan Imigresen Malaysia", "JIM", "imigresen", "मलेशियाई पासपोर्ट", "मलेशिया वीज़ा", "सामाजिक भेंट पास", "प्रवेश परमिट", "ESD", "MDAC", "imi.gov.my"]
+framework: profile
 ---
 
 हर वह व्यक्ति जो मलेशिया की सीमा पार करता है — पासपोर्ट नवीनीकरण करवाता कोई

@@ -77,6 +77,7 @@ wikidata: "Q4294304"
 relations: []
 related: []
 keywords: ["KDN", "Kementerian Dalam Negeri", "Ministry of Home Affairs Malaysia", "MOHA", "KDN agencies", "KDN departments", "agensi bawah KDN", "Menteri Dalam Negeri", "fungsi KDN", "JPN", "Jabatan Imigresen", "PDRM", "AKPS", "Registry of Societies", "Lembaga Penapisan Filem"]
+framework: profile
 ---
 
 マレーシア人がパスポートを更新するとき、警察が逮捕を行うとき、外国人労働者の許可証が確認されるとき、あるいは映画が公開前に区分を付されるとき——この4つすべての背後には同じ一つの省がある。それが**内務省**であり、マレー語では**Kementerian Dalam Negeri（KDN）**、英語では**MOHA**として知られる。

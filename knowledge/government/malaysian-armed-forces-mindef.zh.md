@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-malaysia" }
 related: ["federal-constitution", "pdrm"]
 keywords: ["angkatan tentera malaysia", "ATM", "kementerian pertahanan", "MINDEF", "majlis angkatan tentera", "panglima angkatan tentera", "akta angkatan tentera 1972", "kertas putih pertahanan", "tentera darat", "tentera laut diraja malaysia", "tentera udara diraja malaysia"]
+framework: profile
 ---
 
 陆、海、空三大军种在同一条指挥链下运作，这条指挥链以身为最高统帅的最高元首为根源，但由一位部长和文官机构负责日常管理。马来西亚正是这样组织其国防：最高权力归于国王，政策管控归于文官，执行则归于职业军队。

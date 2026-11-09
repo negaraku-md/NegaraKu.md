@@ -65,6 +65,7 @@ relations:
   - { rel: "explained-in", to: "ebos-filing" }
 related: ["beneficial-ownership", "ebos-filing", "bo-register", "ssm"]
 keywords: ["e-BOS SSM", "इलेक्ट्रॉनिक हिताधिकारी स्वामित्व प्रणाली", "Electronic Beneficial Ownership System", "SSM4U e-BOS लॉगिन", "हिताधिकारी स्वामित्व प्रणाली मलेशिया"]
+framework: profile
 ---
 
 e-BOS इलेक्ट्रॉनिक हिताधिकारी स्वामित्व प्रणाली (Electronic Beneficial Ownership

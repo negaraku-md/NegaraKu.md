@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "jawi-script" }
 related: ["bahasa-melayu", "jawi-script"]
 keywords: ["dewan bahasa dan pustaka", "dbp", "bahasa melayu", "kamus dewan", "sasterawan negara", "badan berkanun"]
+framework: profile
 ---
 
 ทุกครั้งที่คุณตรวจสอบการสะกดของคำมลายู พบศัพท์วิทยาศาสตร์ใหม่ หรืออ่านตำแหน่งของนักวรรณศิลป์แห่งชาติ มีสถาบันหนึ่งอยู่เบื้องหลัง นั่นคือ เดวันบาฮาซาดันปุสตากา

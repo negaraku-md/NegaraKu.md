@@ -76,6 +76,7 @@ wikidata: "Q113542338"
 relations: []
 related: []
 keywords: ["Department of Fisheries Malaysia", "DOF", "Jabatan Perikanan Malaysia", "Fisheries Act 1985", "fishing licence Malaysia", "aquaculture Malaysia", "dof.gov.my", "fisheries statistics Malaysia", "fishing zones Malaysia", "Director-General of Fisheries"]
+framework: profile
 ---
 
 말레이시아 수역에서 합법적으로 그물을 던지는 모든 배는 결국 하나의 기관에 답합니다. **말레이시아 수산청(DOF)** — *Jabatan Perikanan Malaysia* — 은 국가의 해양 및 양식 자원을 관리하고 모든 어업 활동을 허가하는 연방 기구입니다. **농업식량안보부(MAFS)** 산하에서 운영되며, **수산법 1985(Fisheries Act 1985, Act 317)**를 관장하고, **수산청장(Director-General of Fisheries)**이 이끕니다. 본부는 푸트라자야(Putrajaya)의 Wisma Tani에 있으며, 주 및 구 사무소 네트워크가 이를 뒷받침합니다.

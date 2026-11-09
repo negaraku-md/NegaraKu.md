@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "capital-markets-and-services-act-2007" }
 related: ["bursa-malaysia", "bank-negara-malaysia"]
 keywords: ["securities commission malaysia", "SC Malaysia", "capital market regulator", "CMSA 2007", "Securities Commission Act 1993", "equity crowdfunding", "P2P financing"]
+framework: profile
 ---
 
 நீங்கள் ஒரு யூனிட் அறங்காவல் நிதியை (unit trust) வாங்கும்போது, equity crowdfunding தளம் வழியாக முதலீடு செய்யும்போது, அல்லது Bursa Malaysia இல் ஒரு பங்கை வர்த்தகம் செய்யும்போது, இவை அனைத்தின் பின்னணியிலும் விதிகளை அமைக்கும் ஒரே அமைப்பு: மலேசிய பங்குப் பத்திர ஆணையம் (Securities Commission Malaysia). இது நாட்டின் மூலதனச் சந்தையின் ஒரே சட்டப்பூர்வ வாயில்காப்பாளர் ஆகும் — அதன் அதிகாரம் எங்கே தொடங்கி எங்கே முடிகிறது என்பதைத் துல்லியமாக அறிவது ஏராளமான குழப்பங்களைத் தவிர்க்கிறது.

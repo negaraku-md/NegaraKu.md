@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "personal-bankruptcy-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["AKPK", "برنامج إدارة الديون", "Program Pengurusan Kredit", "PPK", "DMP", "إعادة هيكلة الديون", "الإرشاد المالي", "Bank Negara Malaysia", "بنك نيغارا ماليزيا", "ديون بطاقات الائتمان"]
+framework: profile
 ---
 
 حين تحين في الشهر نفسه فاتورة بطاقة الائتمان وقسط السيارة وقرض الإسكان، ولا يكفي الراتب، يفترض كثير من الماليزيين أن الملاذ الأخير هو الإفلاس. والحقيقة أن ثمة بابًا أسبق من ذلك، وهو مجاني تمامًا.

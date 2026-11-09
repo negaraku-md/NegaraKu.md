@@ -112,6 +112,7 @@ relations:
   - { rel: "compares-with", to: "investment-agency-directory" }
 related: ["economic-corridors-compared", "js-sez-guide", "ncer-guide", "ecer-guide", "sarawak-business-guide", "investment-agency-directory", "iskandar-malaysia-guide", "manufacturing-licence-malaysia"]
 keywords: ["राज्य निवेश एजेंसी मलेशिया", "invest selangor nol", "investpenang आपत्ति-रहितता पत्र", "ncia ncer", "ecerdc", "sedia सबा", "recoda score", "irda इस्कंदर", "investkl mida"]
+framework: explainer
 ---
 
 जिस एजेंसी को सबसे पहले बुलाने की सलाह सभी देते हैं, वह आमतौर पर उस चीज़ को मंज़ूरी नहीं दे सकती जिसकी आपको ज़रूरत है। यह एजेंसियों की आलोचना नहीं है — इसी तरह तो यह ढाँचा बना है। मलेशिया में निवेश-स्वीकृतियाँ संघीय हैं। राज्य संवर्धन करते हैं, सुविधा देते हैं, और ठीक एक पत्ता अपने हाथ में रखते हैं।

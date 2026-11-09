@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "bank-pembangunan-malaysia" }
 related: ["bank-negara-malaysia", "development-financial-institutions-malaysia"]
 keywords: ["EXIM Bank Malaisie", "EXIM Bank Malaysia", "agence de crédit à l'exportation", "export credit agency", "takaful de crédit commercial", "trade credit takaful", "assurance-crédit à l'exportation", "financement du commerce", "marchés non traditionnels"]
+framework: profile
 ---
 
 Un exportateur malaisien de machines décroche une première commande sur un marché frontière — un énorme potentiel de hausse, mais que se passe-t-il si l'acheteur ne paie jamais ? Cette seule question est le métier pour lequel EXIM Bank Malaisie a été créée.

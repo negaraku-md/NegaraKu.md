@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "personal-data-protection-act-malaysia" }
 related: []
 keywords: ["national ai office", "naio", "ai malaysia", "ai action plan 2026-2030", "aige", "ai governance malaysia", "ai nation 2030"]
+framework: explainer
 ---
 
 When a country wants to steer artificial intelligence but does not want to wait years for a law, it builds an office first. Malaysia did exactly that: rather than opening with an AI Act, it stood up a coordinating agency, published a set of voluntary ethics principles, and wrote a five-year plan — then began drafting the statute afterward.

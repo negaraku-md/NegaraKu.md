@@ -89,6 +89,7 @@ relations:
   - { rel: "governs", to: "group-settlement-areas-act-1960" }
 related: []
 keywords: ["FELDA", "peneroka", "penempatan tanah", "kelapa sawit", "FGV Holdings", "Akta Tanah 1960", "kemiskinan luar bandar"]
+framework: profile
 ---
 
 ลองจินตนาการถึงครอบครัวยากจนครอบครัวหนึ่งที่ถูกย้ายไปยังผืนป่าที่เพิ่งถูกถางใหม่ ได้รับที่ดินหนึ่งแปลงและค่าจ้างรายเดือน แล้วถูกขอให้รอเป็นเวลาหลายปีจนกว่าต้นยางหรือปาล์มน้ำมันของพวกเขาจะให้ผล นั่นคือข้อเสนอที่เปลี่ยนชีวิตของครอบครัวชนบทมาเลเซียกว่า 100,000 ครอบครัว — และเครื่องยนต์ของมันคือ FELDA

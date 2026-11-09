@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "national-scam-response-centre-nsrc" }
 related: ["pdrm"]
 keywords: ["CCID", "Jabatan Siasatan Jenayah Komersil", "JSJK", "PDRM", "jenayah komersil", "penipuan dalam talian", "Semak Mule", "NSRC", "997"]
+framework: profile
 ---
 
 Every time someone reads "call 997" after being scammed out of their money, the RMP department on the front line against that fraud is the CCID. The Commercial Crime Investigation Department — Jabatan Siasatan Jenayah Komersil in Malay — is the Royal Malaysia Police unit that hunts white-collar criminals: those who steal through deception rather than the threat of violence.

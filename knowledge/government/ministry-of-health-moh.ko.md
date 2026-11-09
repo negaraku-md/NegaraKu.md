@@ -81,6 +81,7 @@ wikidata: "Q4294352"
 relations: []
 related: []
 keywords: ["Ministry of Health Malaysia", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "Menteri Kesihatan Malaysia", "Director-General of Health", "Ketua Pengarah Kesihatan", "klinik kesihatan", "moh.gov.my", "Malaysia public healthcare", "Dzulkefly Ahmad", "RM1 clinic fee"]
+framework: profile
 ---
 
 말레이시아 정부 진료소에 들어가 RM1짜리 지폐를 건네고 진료와 약을 모두 받은 채 나온다면, 여러분은 세계에서 가장 많이 보조되는 보건 체계 가운데 하나를 이용하는 것입니다. 그것을 운영하는 곳이 **말레이시아 보건부** — *Kementerian Kesihatan Malaysia*(**KKM**), 영어로 **MOH** — 로, 공중보건, 의료, 의학 연구, 건강 증진, 의약품·의료기기 규제, 치과 진료, 환자 안전을 담당하는 연방 부처입니다. 본부는 연방정부 행정중심지 62590 Putrajaya의 Complex E(블록 E1, E3, E6, E7, E10)에 있습니다.

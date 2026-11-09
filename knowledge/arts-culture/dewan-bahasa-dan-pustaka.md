@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "jawi-script" }
 related: ["bahasa-melayu", "jawi-script"]
 keywords: ["dewan bahasa dan pustaka", "dbp", "bahasa melayu", "kamus dewan", "sasterawan negara", "badan berkanun"]
+framework: profile
 ---
 
 Setiap kali anda menyemak ejaan sesuatu perkataan Melayu, menemui istilah sains yang baharu, atau membaca gelaran seorang Sasterawan Negara, ada satu institusi di sebalik tabir: Dewan Bahasa dan Pustaka.

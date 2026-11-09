@@ -86,6 +86,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Detik paling teruk dalam sesuatu penipuan ialah detik sejurus selepas anda menyedari ia adalah penipuan — apabila wang telah meninggalkan akaun anda dan anda tidak tahu apa yang perlu dilakukan, atau siapa yang perlu dihubungi. Di Malaysia, terdapat satu jawapan tunggal kepada soalan itu: **dail 997.** Nombor itu menghubungi **Pusat Respons Penipuan Kebangsaan (NSRC)**, dan menghubunginya dengan pantas adalah, secara literal, peluang terbaik anda untuk mendapatkan semula wang anda.

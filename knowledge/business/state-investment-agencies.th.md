@@ -111,6 +111,7 @@ relations:
   - { rel: "compares-with", to: "investment-agency-directory" }
 related: ["economic-corridors-compared", "js-sez-guide", "ncer-guide", "ecer-guide", "sarawak-business-guide", "investment-agency-directory", "iskandar-malaysia-guide", "manufacturing-licence-malaysia"]
 keywords: ["state investment agency malaysia", "invest selangor nol", "investpenang no objection letter", "ncia ncer", "ecerdc", "sedia sabah", "recoda score", "irda iskandar", "investkl mida"]
+framework: explainer
 ---
 
 หน่วยงานที่ทุกคนบอกให้คุณโทรหาก่อนมักไม่อาจอนุมัติสิ่งที่คุณต้องการได้ นั่นไม่ใช่การวิจารณ์หน่วยงาน — มันคือวิธีที่สถาปัตยกรรมถูกสร้าง การอนุมัติการลงทุนของมาเลเซียเป็นของรัฐบาลกลาง รัฐส่งเสริม อำนวยความสะดวก และถือไพ่เพียงใบเดียว

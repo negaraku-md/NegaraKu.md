@@ -83,6 +83,7 @@ wikidata: "Q3816079"
 relations: []
 related: []
 keywords: ["Ministry of Education Malaysia", "KPM", "Kementerian Pendidikan Malaysia", "Fadhlina Sidek", "Education Act 1996", "Malaysia Education Blueprint", "PPPM", "KPM vs KPT", "Menteri Pendidikan Malaysia", "moe.gov.my", "compulsory education Malaysia", "Malaysia school system"]
+framework: profile
 ---
 
 If it concerns a Malaysian schoolchild — the curriculum they study, the textbook on their desk, the national exam they sit, or the public-school teacher at the front of the class — it sits with the Ministry of Education. Known in Malay as **Kementerian Pendidikan Malaysia** and almost always shortened to **KPM**, it is the federal ministry that runs the country's pre-tertiary education system. What it does *not* run is the universities — a boundary that trips up a great many people.

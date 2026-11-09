@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "rmcd-kastam" }
 related: ["moving-to-malaysia-first-steps", "work-passes-malaysia", "employment-pass-malaysia", "hiring-foreign-workers-malaysia", "foreign-worker-levy-malaysia", "jpn", "rmcd-kastam"]
 keywords: ["Jabatan Imigresen Malaysia", "JIM", "imigresen", "pasport Malaysia", "visa Malaysia", "pas lawatan sosial", "Permit Masuk", "ESD", "MDAC", "imi.gov.my"]
+framework: profile
 ---
 
 ทุกคนที่ข้ามพรมแดนของมาเลเซีย — ประชาชนที่ต่ออายุหนังสือเดินทาง นักท่องเที่ยวที่เดินทางมาถึง ชาวต่างชาติที่ทำงาน — ล้วนผ่านหน่วยงานเดียวกัน แต่เอกสารที่หน่วยงานนี้ออกมักถูกสับสนระหว่างกัน และความสับสนนั้นเองคือต้นตอของปัญหาตรวจคนเข้าเมืองส่วนใหญ่

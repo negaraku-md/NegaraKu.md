@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["epf-as-investor", "khazanah", "pnb", "bursa-malaysia"]
 keywords: ["KWSP", "EPF", "dana persaraan", "pelabur institusi", "dividen KWSP", "Akta KWSP 1991", "simpanan pekerja"]
+framework: profile
 ---
 
 மலேசியாவில் ஒரு தனியார் துறை ஊழியர் சம்பள சீட்டைப் (payslip) பெறும் ஒவ்வொரு முறையும், அவரது வருமானத்தின் ஒரு பகுதி, இப்போது RM1.25 டிரில்லியனுக்கும் மேல் வைத்திருக்கும் ஒரே ஒரு நிறுவனத்திற்குள் பாய்கிறது. அந்த நிறுவனம்தான் ஊழியர் சேமநல நிதி (Employees Provident Fund, EPF), அல்லது KWSP.

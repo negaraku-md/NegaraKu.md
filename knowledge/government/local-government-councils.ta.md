@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "state-assemblies-dun" }
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission"]
 keywords: ["Pihak Berkuasa Tempatan", "PBT", "kerajaan tempatan", "Akta Kerajaan Tempatan 1976", "Akta 171", "Majlis Bandaraya", "Majlis Perbandaran", "Majlis Daerah", "Datuk Bandar", "Yang Dipertua", "ahli majlis", "pilihan raya kerajaan tempatan", "Athi Nahappan", "KPKT"]
+framework: profile
 ---
 
 அன்றாட வாழ்க்கைக்கு மிக நெருக்கமான அரசாங்க அடுக்கு — குப்பை சேகரிப்பு, தெரு விளக்குகள், வணிக உரிமங்கள், கட்டிடத் திட்ட ஒப்புதல்கள் மற்றும் மதிப்பீட்டு விகிதங்களைக் கையாளும் அடுக்கு — கூட்டரசு அரசாங்கமோ மாநில அரசாங்கமோ அல்ல, மாறாக **உள்ளூர் அதிகார சபை (Pihak Berkuasa Tempatan, PBT)** ஆகும். ஆயினும், தேர்தல் மூலம் உறுப்பினர்களைப் பெறும் [Dewan Rakyat](/ta/government/dewan-rakyat) மற்றும் [மாநில சட்டமன்றம் (Dewan Undangan Negeri)](/ta/government/state-assemblies-dun) போலல்லாமல், இன்றைய PBT உறுப்பினர்கள் **நியமிக்கப்படுகிறார்கள்**, **தேர்ந்தெடுக்கப்படுவதில்லை**.

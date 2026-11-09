@@ -86,6 +86,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 El peor momento de una estafa es el que llega justo después de darte cuenta de que fue una estafa: cuando el dinero ha salido de tu cuenta y no sabes qué hacer ni a quién llamar. En Malasia, hay una única respuesta a esa pregunta: **marca el 997.** Ese número conecta con el **Centro Nacional de Respuesta a Estafas (NSRC)**, y llamar con rapidez es, literalmente, tu mejor posibilidad de recuperar tu dinero.

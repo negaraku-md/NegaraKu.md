@@ -95,6 +95,7 @@ relations:
   - { rel: "compares-with", to: "swcorp" }
 related: ["environmental-impact-assessment-eia-malaysia"]
 keywords: ["Department of Environment", "DOE", "Jabatan Alam Sekitar", "JAS", "Environmental Quality Act 1974", "Act 127", "EIA Malaysia", "scheduled waste", "NRES"]
+framework: profile
 ---
 
 Jika sebuah kilang di Malaysia mengalirkan efluen ke dalam sungai, jika sebuah

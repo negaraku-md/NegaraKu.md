@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "personal-data-protection-act-2010" }
 related: []
 keywords: ["Kementerian Digital", "Ministry of Digital Malaysia", "Gobind Singh Deo", "MDEC", "JDN", "CyberSecurity Malaysia", "ekonomi digital"]
+framework: profile
 ---
 
 เมื่อมาเลเซียตัดสินใจว่า "ดิจิทัล" สำคัญเกินกว่าจะแบ่งกับกระทรวงอื่นใด กระทรวงใหม่ก็ถือกำเนิดขึ้น กระทรวงดิจิทัลเป็นศูนย์ควบคุมนโยบายเทคโนโลยีของประเทศ — บ้านของเศรษฐกิจดิจิทัล ความมั่นคงปลอดภัยไซเบอร์ และการคุ้มครองข้อมูลส่วนบุคคลภายใต้หลังคาเดียว

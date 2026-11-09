@@ -81,6 +81,7 @@ wikidata: "Q4294352"
 relations: []
 related: []
 keywords: ["Ministry of Health Malaysia", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "Menteri Kesihatan Malaysia", "Director-General of Health", "Ketua Pengarah Kesihatan", "klinik kesihatan", "moh.gov.my", "Malaysia public healthcare", "Dzulkefly Ahmad", "RM1 clinic fee"]
+framework: profile
 ---
 
 Ketika Anda melangkah masuk ke sebuah klinik pemerintah Malaysia, menyerahkan satu keping uang RM1, dan keluar dengan konsultasi serta obat Anda ditanggung, Anda sebenarnya menggunakan salah satu sistem kesehatan yang paling banyak disubsidi di dunia. Yang mengelolanya adalah **Kementerian Kesehatan Malaysia** (**KKM**), atau **MOH** dalam bahasa Inggris — kementerian federal yang bertanggung jawab atas kesehatan publik, perawatan medis, penelitian medis, promosi kesehatan, regulasi farmasi dan alat kesehatan, perawatan gigi, dan keselamatan pasien. Kantor pusatnya terletak di Kompleks E (Blok E1, E3, E6, E7, dan E10) di Pusat Administrasi Pemerintah Federal, 62590 Putrajaya.

@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "bomba-fire-rescue-department" }
 related: ["pdrm", "fire-and-rescue-department-bomba"]
 keywords: ["999", "MERS 999", "nombor kecemasan", "SaveME 999", "talian kecemasan", "pertahanan awam", "ambulans"]
+framework: profile
 ---
 
 ஒரே எண் — **999** — உங்களுக்கு காவல், ஆம்புலன்ஸ், தீயணைப்பு, சிவில் பாதுகாப்பு அல்லது கடலில் உதவி எதுவாக இருந்தாலும், மலேசியாவின் ஐந்து அவசர முகமைகளுடன் உங்களை இணைக்கிறது. ஒவ்வொரு முகமைக்கும் வெவ்வேறு எண்ணை நினைவில் வைத்திருக்க வேண்டியதில்லை; அதன் பின்னால் உள்ள அமைப்பு அந்த அழைப்பை உங்களுக்காகச் செலுத்துகிறது.

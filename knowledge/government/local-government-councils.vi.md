@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "state-assemblies-dun" }
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission"]
 keywords: ["Pihak Berkuasa Tempatan", "PBT", "kerajaan tempatan", "Akta Kerajaan Tempatan 1976", "Akta 171", "Majlis Bandaraya", "Majlis Perbandaran", "Majlis Daerah", "Datuk Bandar", "Yang Dipertua", "ahli majlis", "pilihan raya kerajaan tempatan", "Athi Nahappan", "KPKT"]
+framework: profile
 ---
 
 Tầng chính quyền gần nhất với đời sống hằng ngày — tầng quản lý việc thu gom rác, đèn đường, giấy phép kinh doanh, phê duyệt bản vẽ công trình và thuế định giá — không phải là Chính phủ Liên bang hay Chính quyền Bang, mà là **Cơ quan Chính quyền Địa phương (PBT)**. Nhưng khác với [Dewan Rakyat](/government/dewan-rakyat) và [Hội đồng Lập pháp Bang](/government/state-assemblies-dun) mà thành viên được bầu qua bầu cử, thành viên PBT ngày nay được **bổ nhiệm**, không được **bầu**.

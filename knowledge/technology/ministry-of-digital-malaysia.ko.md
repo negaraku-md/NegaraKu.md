@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "personal-data-protection-act-2010" }
 related: []
 keywords: ["Kementerian Digital", "Ministry of Digital Malaysia", "Gobind Singh Deo", "MDEC", "JDN", "CyberSecurity Malaysia", "ekonomi digital"]
+framework: profile
 ---
 
 말레이시아가 "디지털"이 다른 어떤 부처와 나누기에는 너무 중요하다고 판단했을 때, 새로운 부처가 탄생했습니다. 디지털부는 국가 기술 정책의 관제 센터 — 디지털 경제, 사이버보안, 개인정보 보호를 한 지붕 아래 둔 본거지 — 입니다.

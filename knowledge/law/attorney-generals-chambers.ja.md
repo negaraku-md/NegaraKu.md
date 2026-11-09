@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution"]
 keywords: ["Peguam Negara", "Pendakwa Raya", "Perkara 145", "Perlembagaan Persekutuan", "Jabatan Peguam Negara", "budi bicara pendakwaan", "pengasingan peranan"]
+framework: profile
 ---
 
 一人の人物が、あなたを刑事法廷に立たせるかどうかを決めることができる——あるいは、一件の起訴状も提出されないまま釈放することもできる。マレーシアでは、その人物が司法長官であり、その権限は連邦憲法の単一の条文に由来している。

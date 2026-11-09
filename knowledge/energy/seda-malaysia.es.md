@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "solar-atap-malaysia" }
 related: []
 keywords: ["SEDA", "Sustainable Energy Development Authority", "feed-in tariff", "NEM", "Solar ATAP", "KWTBB", "tenaga boleh baharu", "PETRA"]
+framework: profile
 ---
 
 Cada vez que paga una factura de electricidad en Malasia peninsular, una pequeña parte de ella fluye hacia un organismo estatutario del que quizá nunca haya oído hablar — y ese organismo es el que decide si los paneles solares en su tejado valen la pena o no.

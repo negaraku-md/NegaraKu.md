@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "state-assemblies-dun" }
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission"]
 keywords: ["Pihak Berkuasa Tempatan", "PBT", "kerajaan tempatan", "Akta Kerajaan Tempatan 1976", "Akta 171", "Majlis Bandaraya", "Majlis Perbandaran", "Majlis Daerah", "Datuk Bandar", "Yang Dipertua", "ahli majlis", "pilihan raya kerajaan tempatan", "Athi Nahappan", "KPKT"]
+framework: profile
 ---
 
 ชั้นของรัฐบาลที่ใกล้ชิดกับชีวิตประจำวันที่สุด — ชั้นที่จัดการการเก็บขยะ ไฟถนน ใบอนุญาตประกอบธุรกิจ การอนุมัติแบบก่อสร้าง และภาษีประเมิน — มิใช่รัฐบาลสหพันธ์หรือรัฐบาลของรัฐ แต่เป็น **องค์กรปกครองส่วนท้องถิ่น (Pihak Berkuasa Tempatan, PBT)** อย่างไรก็ตาม ต่างจาก [Dewan Rakyat](/government/dewan-rakyat) และ [สภานิติบัญญัติแห่งรัฐ](/government/state-assemblies-dun) ที่มีสมาชิกผ่านการเลือกตั้ง สมาชิก PBT ในปัจจุบัน **มาจากการแต่งตั้ง** มิใช่ **การเลือกตั้ง**

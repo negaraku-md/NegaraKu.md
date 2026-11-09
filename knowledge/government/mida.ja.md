@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "state-investment-agencies" }
 related: ["manufacturing-licence-malaysia", "new-incentive-framework", "tax-incentives-directory", "investment-agency-directory", "state-investment-agencies", "mdec-digital-status"]
 keywords: ["MIDA", "Malaysian Investment Development Authority", "MIDA vs MITI", "investment promotion agency Malaysia", "manufacturing licence Malaysia MIDA", "Invest Malaysia Facilitation Centre"]
+framework: profile
 ---
 
 外国投資家は誰もが、いずれMIDAと関わることになる。だが、MIDAが「イエス」と言う機関ではないことを、最初に知らされる者はほとんどいない。

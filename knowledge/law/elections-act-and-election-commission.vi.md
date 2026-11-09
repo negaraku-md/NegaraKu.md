@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "dewan-rakyat"]
 keywords: ["SPR", "Suruhanjaya Pilihan Raya", "Akta Pilihan Raya 1958", "Akta Kesalahan Pilihan Raya 1954", "persempadanan", "Perlembagaan Persekutuan", "Perkara 113", "Perkara 114"]
+framework: profile
 ---
 
 Mỗi khi Quốc hội bị giải thể và đất nước tiến tới một cuộc tổng tuyển cử, cùng một cơ quan trở thành trọng tài: Ủy ban Bầu cử. Chính cơ quan này ấn định ngày, rà soát danh sách cử tri, điều hành ngày đề cử ứng viên và ngày bỏ phiếu, cũng như công bố kết quả. Tuy nhiên quyền lực và giới hạn của nó không đến từ bất kỳ chính phủ đương nhiệm nào, mà từ chính Hiến pháp Liên bang.

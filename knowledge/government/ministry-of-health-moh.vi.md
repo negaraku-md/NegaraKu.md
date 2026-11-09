@@ -81,6 +81,7 @@ wikidata: "Q4294352"
 relations: []
 related: []
 keywords: ["Ministry of Health Malaysia", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "Menteri Kesihatan Malaysia", "Director-General of Health", "Ketua Pengarah Kesihatan", "klinik kesihatan", "moh.gov.my", "Malaysia public healthcare", "Dzulkefly Ahmad", "RM1 clinic fee"]
+framework: profile
 ---
 
 Khi bạn bước vào một phòng khám của chính phủ Malaysia, đưa ra một tờ RM1, và bước ra với buổi khám và thuốc của mình đã được lo, bạn đang sử dụng một trong những hệ thống y tế được trợ cấp nhiều nhất trên thế giới. Vận hành nó là **Bộ Y tế Malaysia** — *Kementerian Kesihatan Malaysia* (**KKM**), hay **MOH** trong tiếng Anh — bộ liên bang chịu trách nhiệm về y tế công cộng, chăm sóc y tế, nghiên cứu y học, nâng cao sức khỏe, điều chỉnh dược phẩm và thiết bị y tế, chăm sóc nha khoa và an toàn người bệnh. Nó có trụ sở tại Complex E (các Block E1, E3, E6, E7 và E10) trong Trung tâm Hành chính Chính phủ Liên bang, 62590 Putrajaya.

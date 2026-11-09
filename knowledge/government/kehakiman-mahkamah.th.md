@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["Malaysia court hierarchy", "Federal Court of Malaysia", "Court of Appeal Malaysia", "High Court in Malaya", "Sessions Court jurisdiction", "Judicial Appointments Commission", "Article 122B"]
+framework: explainer
 ---
 
 ข้อพิพาทตามสัญญามูลค่า RM60,000 และการโต้แย้งความชอบด้วยกฎหมายของพระราชบัญญัติสหพันธ์ ต่างเริ่มต้นในฐานะกระดาษแผ่นหนึ่งที่ยื่น ณ เคาน์เตอร์ศาล ทั้งสองไม่ได้ไปที่เคาน์เตอร์เดียวกัน ไม่ได้ตัดสินโดยผู้พิพากษาประเภทเดียวกัน และมีเพียงเรื่องเดียวเท่านั้นที่อาจไปสิ้นสุดต่อหน้าผู้พิพากษาเก้าคนในปุตราจายา (Putrajaya)

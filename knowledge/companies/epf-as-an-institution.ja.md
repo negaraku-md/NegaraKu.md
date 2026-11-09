@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["epf-as-investor", "khazanah", "pnb", "bursa-malaysia"]
 keywords: ["KWSP", "EPF", "dana persaraan", "pelabur institusi", "dividen KWSP", "Akta KWSP 1991", "simpanan pekerja"]
+framework: profile
 ---
 
 マレーシアの民間部門労働者が給与明細を受け取るたびに、その収入の一部が、今や1.25兆リンギットを超える資産を保有する一つの機関へと流れ込む。それが従業員積立基金（Kumpulan Wang Simpanan Pekerja）、すなわちKWSPである。

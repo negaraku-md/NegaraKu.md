@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "national-scam-response-centre-nsrc" }
 related: ["pdrm"]
 keywords: ["CCID", "Jabatan Siasatan Jenayah Komersil", "JSJK", "PDRM", "jenayah komersil", "penipuan dalam talian", "Semak Mule", "NSRC", "997"]
+framework: profile
 ---
 
 Mỗi khi có người đọc thấy "gọi 997" sau khi bị lừa mất tiền, cục của PDRM đứng ở tuyến đầu chống lại vụ lừa đảo đó là CCID. Cục Điều tra Tội phạm Thương mại — trong tiếng Anh, Commercial Crime Investigation Department — là đơn vị của Cảnh sát Hoàng gia Malaysia truy tìm tội phạm cổ cồn trắng: những kẻ ăn cắp bằng mưu mẹo, chứ không phải bằng đe dọa bạo lực.

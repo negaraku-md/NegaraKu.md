@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["gdp-overview", "inflation-cpi", "unemployment-labour-force", "external-trade"]
 keywords: ["DOSM", "Jabatan Perangkaan Malaysia", "Department of Statistics Malaysia", "OpenDOSM", "Advance Release Calendar", "Malaysia official statistics"]
+framework: profile
 ---
 
 ตัวเลขทางเศรษฐกิจของมาเลเซียเกือบทุกตัวที่คุณจะได้อ่าน — อัตราการเติบโตที่รัฐมนตรีอ้าง ตัวเลขเงินเฟ้อในพาดหัวข่าว อัตราการว่างงานในบันทึกวิจัยของธนาคาร — ล้วนเริ่มต้นในอาคารเดียวกันในปุตราจายา (Putrajaya) การรู้ว่าอาคารนั้นทำงานอย่างไรจะเปลี่ยนคุณจากคนที่พูดตัวเลขซ้ำ ๆ ให้กลายเป็นคนที่สามารถตรวจสอบตัวเลขเหล่านั้นได้

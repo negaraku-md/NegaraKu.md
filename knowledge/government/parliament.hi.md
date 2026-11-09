@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution"]
 keywords: ["मलेशिया की संसद", "Parliament of Malaysia", "Dewan Rakyat", "Dewan Negara", "मलेशिया विधायिका", "Parlimen Malaysia"]
+framework: profile
 ---
 
 ## एक नज़र में

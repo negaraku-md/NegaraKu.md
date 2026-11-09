@@ -76,6 +76,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
 related: []
 keywords: ["FAMA", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Akta 141", "pasar tani", "My Farm Outlet", "Agrobazaar", "pemasaran pertanian", "fama.gov.my"]
+framework: profile
 ---
 
 เกษตรกรผู้ปลูกผักใน [คาเมรอนไฮแลนด์ส](/th/tourism/cameron-highlands-visitor-guide) อาจปลูกผลผลิตที่ดีที่สุดได้ แต่ราคาที่เขาได้รับ ณ ไร่นา มักแตกต่างจากราคาที่แผงในเมืองอย่างมาก ช่องว่างนั้นเอง — ระหว่างไร่นากับจานอาหาร — คือภารกิจของหน่วยงานตามกฎหมายแห่งหนึ่งที่ไม่ค่อยมีใครเอ่ยชื่อ แต่ผลงานของหน่วยงานนี้กลับสัมผัสได้บ่อยครั้ง

@@ -94,6 +94,7 @@ relations:
   - { rel: "governs", to: "statutory-audit-process" }
 related: ["appointing-an-auditor", "audit-opinion-types", "changing-auditors"]
 keywords: ["Audit Oversight Board", "AOB", "public interest entity", "PIE auditor registration", "Securities Commission Malaysia", "Part IIIA SCMA", "schedule fund", "EQCR", "auditor oversight Malaysia"]
+framework: profile
 ---
 
 நிதி அமைச்சரின் தணிக்கை உரிமத்தில் தேர்ச்சி பெற்று MIA-வில் சேர்ந்தாலும், Bursa-இல் பட்டியலிடப்பட்ட ஒரு நிறுவனத்தின் கணக்குகளில் நீங்கள் இன்னும் கையொப்பமிட முடியாது. ஒரு மூலதனச் சந்தைத் தணிக்கைக்கு மேலும் ஒரு தேவை உள்ளது — தணிக்கை மேற்பார்வை வாரியத்துடன் பதிவு செய்தல் — இதை பொது நல நிறுவனங்கள் மற்றும் அட்டவணை நிதிகளின் தணிக்கையாளர்கள் மட்டுமே பூர்த்தி செய்ய வேண்டும்.

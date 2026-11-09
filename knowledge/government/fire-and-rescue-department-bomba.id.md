@@ -73,6 +73,7 @@ related: []
 keywords: ["BOMBA", "Jabatan Bomba dan Penyelamat Malaysia", "Fire and Rescue Department", "999 emergency", "fire safety Malaysia", "JBPM", "fire certificate", "Perakuan Bomba", "Fire Services Act 1988", "MERS 999"]
 social:
   hashtags: ["#BOMBA", "#FireAndRescue", "#Malaysia", "#999", "#FireSafety"]
+framework: profile
 ---
 
 Tanyakan kepada siapa pun di Malaysia siapa yang harus dihubungi ketika sebuah bangunan terbakar atau seseorang terjebak, dan jawabannya adalah satu kata yang sama: **Bomba**. **Jabatan Bomba dan Penyelamat Malaysia** (**JBPM**), yang dikenal hampir semua orang sekadar sebagai **BOMBA**, adalah instansi federal yang bertanggung jawab atas pemadam kebakaran, penyelamatan, penanganan bahan berbahaya, dan penegakan keselamatan kebakaran di seluruh negeri. Ia adalah instansi di bawah **Kementerian Perumahan dan Kerajaan Tempatan** (*Kementerian Perumahan dan Kerajaan Tempatan*, KPKT), dan dalam keadaan darurat ia dihubungi dengan menelepon **999**.

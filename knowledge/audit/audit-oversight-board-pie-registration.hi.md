@@ -94,6 +94,7 @@ relations:
   - { rel: "governs", to: "statutory-audit-process" }
 related: ["appointing-an-auditor", "audit-opinion-types", "changing-auditors"]
 keywords: ["ऑडिट ओवरसाइट बोर्ड", "AOB", "सार्वजनिक हित संस्था", "PIE ऑडिटर पंजीकरण", "मलेशिया प्रतिभूति आयोग", "भाग IIIA SCMA", "अनुसूची निधि", "EQCR", "ऑडिटर निगरानी मलेशिया", "public interest entity", "Securities Commission Malaysia"]
+framework: profile
 ---
 
 वित्त मंत्री का ऑडिट लाइसेंस पास करना और MIA में शामिल होना आपको फिर भी किसी Bursa-सूचीबद्ध कंपनी के खातों पर हस्ताक्षर करने नहीं देता। पूँजी-बाज़ार ऑडिट के लिए एक और आवश्यकता है — ऑडिट ओवरसाइट बोर्ड के साथ पंजीकरण — जिसे पूरा करने की ज़रूरत केवल सार्वजनिक हित संस्थाओं और अनुसूची निधियों के ऑडिटरों को होती है।

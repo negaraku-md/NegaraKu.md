@@ -74,6 +74,7 @@ wikidata: "Q141851366"
 relations: []
 related: []
 keywords: ["MASB", "Malaysian Accounting Standards Board", "MFRS", "MPERS", "Financial Reporting Act 1997", "approved accounting standards Malaysia", "MFRS framework", "Financial Reporting Foundation", "IFRS Malaysia", "MFRS 18", "private entity reporting standard", "MASB standards force of law"]
+framework: profile
 ---
 
 Ketika sebuah perusahaan Malaysia menandatangani akunnya, aturan yang harus dipatuhinya bukanlah ditulis oleh auditornya, kantor pajaknya atau bursa saham. Aturan itu ditulis oleh **Dewan Standar Akuntansi Malaysia (MASB)** — dan, luar biasanya, aturan tersebut memiliki kekuatan hukum.

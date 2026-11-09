@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "mspo-palm-oil-certification" }
 related: ["felda-land-settlement-scheme", "rubber-industry"]
 keywords: ["FELCRA", "RISDA", "صغار المزارعين", "توحيد الأراضي", "استصلاح الأراضي", "إعادة غرس المطاط", "التنمية الريفية", "Act 85", "pekebun kecil"]
+framework: profile
 ---
 
 وكالتان نادرًا ما تُذكران معًا، ومع ذلك تمسّ كلتاهما مصائر مئات الآلاف من الأسر الريفية: إحداهما تستصلح الأراضي المهملة، والأخرى تضمن استبدال أشجار المطاط المسنّة قبل أن تنضب دخول صغار المزارعين. تلك هي FELCRA وRISDA.

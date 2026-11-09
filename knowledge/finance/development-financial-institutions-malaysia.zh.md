@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "islamic-banking-malaysia" }
 related: ["bank-negara-malaysia", "sme-financing-malaysia"]
 keywords: ["development financial institutions", "DFI Malaysia", "DFIA 2002", "Bank Pembangunan", "Bank Rakyat", "Agrobank", "SME Bank", "Bank Simpanan Nasional", "EXIM Bank", "Bank Negara Malaysia"]
+framework: profile
 ---
 
 当一位马来西亚农户需要一笔为期五年的贷款去重新种植油棕园，或一位出口商需要信用回教保险（takaful）以打入前沿市场时，商业银行往往会拒绝。这道缺口，正是马来西亚发展金融机构存在的意义所在。

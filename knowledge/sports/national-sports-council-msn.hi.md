@@ -67,6 +67,7 @@ wikidata: "Q97208190"
 relations: []
 related: []
 keywords: ["Majlis Sukan Negara", "MSN", "National Sports Council of Malaysia", "NSC Malaysia", "MSN Bukit Jalil", "Akta Majlis Sukan Negara 1971", "Institut Sukan Negara", "ISN", "Kompleks Sukan Negara Bukit Jalil", "Majlis Sukan Negeri", "Kementerian Belia dan Sukan", "MSN atlet", "pembangunan sukan Malaysia"]
+framework: profile
 ---
 
 जब कोई मलेशियाई धावक ओलंपिक में खड़ा होता है या किसी युवा फुटबॉलर को राष्ट्रीय दल में चुना जाता है, तो उस प्रशिक्षण, कोचिंग और सुविधाओं के पीछे जो उसे वहाँ तक लाईं, एक ही सरकारी निकाय खड़ा होता है: **मलेशिया की राष्ट्रीय खेल परिषद**, जिसे मलय में **Majlis Sukan Negara (MSN)** के नाम से जाना जाता है। यह वह वैधानिक एजेंसी है जो राष्ट्रीय खेल नीति को वास्तविक एथलीटों में बदलती है।

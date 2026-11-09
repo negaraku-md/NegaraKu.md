@@ -74,6 +74,7 @@ wikidata: "Q141851366"
 relations: []
 related: []
 keywords: ["MASB", "Malaysian Accounting Standards Board", "MFRS", "MPERS", "Financial Reporting Act 1997", "approved accounting standards Malaysia", "MFRS framework", "Financial Reporting Foundation", "IFRS Malaysia", "MFRS 18", "private entity reporting standard", "MASB standards force of law"]
+framework: profile
 ---
 
 ஒரு மலேசிய நிறுவனம் தனது கணக்குகளை இறுதிசெய்யும்போது, அது பின்பற்ற வேண்டிய விதிகளை அதன் தணிக்கையாளரோ, வரி அலுவலகமோ அல்லது பங்குச் சந்தையோ எழுதுவதில்லை. அவற்றை **மலேசிய கணக்கியல் தர நிர்ணய வாரியம் (Malaysian Accounting Standards Board, MASB)** எழுதுகிறது — மேலும், அசாதாரணமாக, அந்த விதிகள் சட்டத்தின் வலிமையைக் கொண்டுள்ளன.

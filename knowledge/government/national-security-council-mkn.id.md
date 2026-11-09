@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: ["federal-constitution", "yang-di-pertuan-agong"]
 keywords: ["Majlis Keselamatan Negara", "MKN", "Akta 776", "kawasan keselamatan", "Perkara 150", "darurat", "kuasa keselamatan negara"]
+framework: profile
 ---
 
 Ketika pemerintah Malaysia perlu merespons dengan cepat terhadap ancaman keamanan, dua kerangka undang-undang yang berbeda sering disebut dalam satu tarikan napas: Majelis Keamanan Nasional (MKN) dan kekuasaan darurat konstitusional. Keduanya berkaitan dengan keamanan negara, tetapi bersumber dari sumber undang-undang yang berlainan dan memiliki ketentuan yang berbeda. Artikel ini menjelaskan keduanya secara netral dan berdasarkan teks undang-undang.

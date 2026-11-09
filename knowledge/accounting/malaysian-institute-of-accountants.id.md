@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "malaysian-accounting-standards-board" }
 related: []
 keywords: ["MIA", "Institut Akauntan Malaysia", "Akta Akauntan 1967", "Chartered Accountant Malaysia", "CA(M)", "sijil amalan", "lesen audit"]
+framework: profile
 ---
 
 Sebut diri Anda "akuntan" di Malaysia tanpa mendaftar dengan satu badan tertentu, dan Anda sebenarnya melakukan tindak pidana. Badan itu adalah Institut Akuntan Malaysia — MIA — dan ia memegang kuasa tunggal untuk menentukan siapa yang layak dianggap sebagai akuntan di negara ini.

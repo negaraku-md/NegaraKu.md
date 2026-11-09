@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "dewan-rakyat"]
 keywords: ["SPR", "Suruhanjaya Pilihan Raya", "Akta Pilihan Raya 1958", "Akta Kesalahan Pilihan Raya 1954", "persempadanan", "Perlembagaan Persekutuan", "Perkara 113", "Perkara 114"]
+framework: profile
 ---
 
 国会が解散され、国が総選挙に向けて動くたびに、常に同じ機関が審判役となる——選挙管理委員会（Suruhanjaya Pilihan Raya、SPR）である。日程を定め、選挙人名簿を検討し、立候補届出日と投票日を執行し、結果を宣言するのはこの委員会である。しかし、その権限と限界は、いかなる執政政府からも生じるものではなく、連邦憲法そのものから生じる。

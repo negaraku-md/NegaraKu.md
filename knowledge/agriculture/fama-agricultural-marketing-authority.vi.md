@@ -76,6 +76,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
 related: []
 keywords: ["FAMA", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Akta 141", "pasar tani", "My Farm Outlet", "Agrobazaar", "pemasaran pertanian", "fama.gov.my"]
+framework: profile
 ---
 
 Một nông dân trồng rau ở [Cameron Highlands](/vi/tourism/cameron-highlands-visitor-guide) có thể trồng ra những sản phẩm tốt nhất, nhưng giá mà họ nhận được tại ruộng thường khác xa với giá tại quầy hàng ở thành phố. Chính khoảng cách đó — giữa đồng ruộng và bàn ăn — là công việc của một cơ quan theo luật định ít khi được nhắc tên nhưng lại thường xuyên được chạm đến qua thành quả của nó.

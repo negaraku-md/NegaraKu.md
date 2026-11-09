@@ -73,6 +73,7 @@ wikidata: "Q6742016"
 relations: []
 related: []
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department Malaysia", "MyJPJ", "road tax renewal", "driving licence renewal", "e-LKM", "e-LMM", "MySIKAP", "JPJeBid", "Road Transport Act 1987", "KEJARA demerit points", "cukai jalan", "lesen memandu"]
+framework: profile
 ---
 
 Chaque taxe de circulation payée, chaque plaque d'immatriculation délivrée et chaque permis de conduire détenu en Malaisie passe par une seule agence : le **Département des Transports routiers** — *Jabatan Pengangkutan Jalan*, connu partout sous ses initiales **JPJ**. Il opère sous la Division terrestre du **ministère des Transports** et est le département chargé d'immatriculer les véhicules, de délivrer les permis de conduire et les plaques d'immatriculation, et d'appliquer la loi sur les transports routiers de 1987 afin de garantir des conducteurs prudents et des véhicules sûrs.

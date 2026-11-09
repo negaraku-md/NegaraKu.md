@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "solar-atap-malaysia" }
 related: []
 keywords: ["SEDA", "Sustainable Energy Development Authority", "feed-in tariff", "NEM", "Solar ATAP", "KWTBB", "tenaga boleh baharu", "PETRA"]
+framework: profile
 ---
 
 Chaque fois que vous payez une facture d'électricité en Malaisie péninsulaire, une petite partie de celle-ci s'écoule vers un organisme statutaire dont vous n'avez peut-être jamais entendu parler — et c'est cet organisme qui décide si les panneaux solaires sur votre toit valent la peine ou non.

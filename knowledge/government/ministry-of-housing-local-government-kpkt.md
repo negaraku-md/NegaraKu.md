@@ -76,6 +76,7 @@ wikidata: "Q6867161"
 relations: []
 related: []
 keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "Ministry of Housing and Local Government Malaysia", "KPKT fungsi", "KPKT agensi", "JBPM", "PLANMalaysia", "Jabatan Kerajaan Tempatan", "Jabatan Perumahan Negara", "Tribunal Perumahan dan Pengurusan Strata", "SWCorp", "Strata Management Act 2013", "Local Government Act 1976", "Nga Kor Ming", "affordable housing Malaysia B40 M40"]
+framework: profile
 ---
 
 When your rubbish is not collected, when a fire-safety certificate is due, and when a developer hands over your flat two years late — the same federal ministry sits behind all three. The **Ministry of Housing and Local Government**, *Kementerian Perumahan dan Kerajaan Tempatan*, universally known as **KPKT**, is the Malaysian federal ministry for affordable housing, local government, town planning, fire and rescue, solid waste, landscaping, and community credit. Its headquarters is at No. 51, Persiaran Perdana, Precinct 4, Federal Government Administrative Centre, 62100 Putrajaya. The minister is **Nga Kor Ming** and the deputy minister is **Datuk Hajah Aiman Athirah binti Sabu**.

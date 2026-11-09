@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution"]
 keywords: ["Parliament of Malaysia", "Dewan Rakyat", "Dewan Negara", "Malaysia legislature", "Parlimen Malaysia"]
+framework: profile
 ---
 
 ## 한눈에 보기

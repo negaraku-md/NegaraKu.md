@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["Malaysia court hierarchy", "Federal Court of Malaysia", "Court of Appeal Malaysia", "High Court in Malaya", "Sessions Court jurisdiction", "Judicial Appointments Commission", "Article 122B"]
+framework: explainer
 ---
 
 RM60,000짜리 계약 분쟁과 연방 법률의 유효성에 대한 이의 제기는 둘 다 법원 창구에 제출되는 한 장의 종이로 시작됩니다. 이 둘은 같은 창구로 가지 않고, 같은 종류의 판사가 판결하지 않으며, 오직 하나만이 푸트라자야의 아홉 판사 앞에서 끝날 수 있습니다.

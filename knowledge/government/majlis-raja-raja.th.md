@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["Majlis Raja-Raja", "Conference of Rulers", "Perkara 38 Perlembagaan Persekutuan", "Jadual Kelima", "pemilihan Yang di-Pertuan Agong", "Penyimpan Mohor Besar Raja-Raja"]
+framework: profile
 ---
 
 มีรายการสั้น ๆ รายการหนึ่งในรัฐธรรมนูญสหพันธ์ที่ไม่ค่อยถูกกล่าวถึง นั่นคือรายการเรื่องที่รัฐสภาไม่อาจผ่านได้โดยลำพัง สำหรับเรื่องเหล่านั้น เสียงสองในสามใน Dewan Rakyat และ Dewan Negara เพียงอย่างเดียวยังไม่เพียงพอ จำเป็นต้องมีความยินยอมขององค์กรอีกองค์กรหนึ่ง — และองค์กรนั้นคือสภาบรรดาราชา (Majlis Raja-Raja)

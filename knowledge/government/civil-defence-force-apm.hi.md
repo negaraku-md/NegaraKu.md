@@ -72,6 +72,7 @@ related: []
 keywords: ["APM", "Angkatan Pertahanan Awam Malaysia", "Civil Defence Force", "JPAM", "disaster response Malaysia", "Civil Defence Act 1951", "search and rescue Malaysia", "flood relief Malaysia", "NADMA", "civil defence volunteers"]
 social:
   hashtags: ["APM", "CivilDefence", "DisasterResponse", "Malaysia", "SAR"]
+framework: profile
 ---
 
 जब हर मानसून में मलेशिया के पूर्वी तट पर बाढ़ का पानी चढ़ता है, तो फँसे हुए परिवारों तक पहुँचने के लिए पानी में उतरे नारंगी-वर्दीधारी कर्मी आमतौर पर **APM** के होते हैं। **मलेशिया नागरिक सुरक्षा बल** — *Angkatan Pertahanan Awam Malaysia*, या **APM** — नागरिक सुरक्षा और आपदा-प्रतिक्रिया के लिए उत्तरदायी संघीय वर्दीधारी एजेंसी है: बाढ़ राहत, खोज-एवं-बचाव, मानवीय सहायता और बड़े सार्वजनिक आयोजनों में सुरक्षा समर्थन। यह **Civil Defence Act 1951 (Act 221)** और, 2015 से, **प्रधानमंत्री विभाग** के अधीन संचालित होती है, और यह देश के प्रशिक्षित स्वयंसेवकों के सबसे बड़े समूहों में से एक के इर्द-गिर्द बनी है।

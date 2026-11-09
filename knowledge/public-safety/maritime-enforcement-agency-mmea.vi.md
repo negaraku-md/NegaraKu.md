@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysian-armed-forces-atm" }
 related: ["pdrm"]
 keywords: ["APMM", "MMEA", "pengawal pantai Malaysia", "penguatkuasaan maritim", "carian dan menyelamat", "Zon Maritim Malaysia", "Akta APMM 2004"]
+framework: profile
 ---
 
 Khi một chiếc tàu kéo chìm giữa Eo biển Malacca hoặc ngư dân nước ngoài xâm phạm vùng biển Sabah, một cơ quan dân sự khoác áo xanh biển là lực lượng ra tay trước — không phải quân đội. Đó chính là Cơ quan Thực thi Hàng hải Malaysia (APMM), lực lượng cảnh sát biển của quốc gia.

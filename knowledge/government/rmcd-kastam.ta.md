@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "digital-free-trade-zone" }
 related: ["lhdn", "sst-explained", "sst-registration", "sales-tax-explained", "anti-dumping-countervailing-duties"]
 keywords: ["RMCD", "Kastam", "Jabatan Kastam Diraja Malaysia", "customs duty Malaysia", "SST Customs", "excise duty Malaysia"]
+framework: profile
 ---
 
 இரண்டு நிறுவனங்கள், ஒரே அமைச்சு, மற்றும் முதல் முயற்சியில் யாருமே சரியாக

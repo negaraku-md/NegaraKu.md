@@ -75,6 +75,7 @@ keywords:
   - "Laporan Ketua Audit Negara"
   - "Auditor General Malaysia"
   - "pengauditan kerajaan"
+framework: profile
 ---
 
 每一年，一份厚厚的报告会呈交给下议院（Dewan Rakyat）。它审视数以百亿计的

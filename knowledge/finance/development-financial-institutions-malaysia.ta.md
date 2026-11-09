@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "islamic-banking-malaysia" }
 related: ["bank-negara-malaysia", "sme-financing-malaysia"]
 keywords: ["development financial institutions", "DFI Malaysia", "DFIA 2002", "Bank Pembangunan", "Bank Rakyat", "Agrobank", "SME Bank", "Bank Simpanan Nasional", "EXIM Bank", "Bank Negara Malaysia"]
+framework: profile
 ---
 
 ஒரு மலேசியப் பண்ணையாளர் தனது எண்ணெய்ப் பனைத் தோட்டத்தை மீண்டும் நடவு செய்ய ஐந்தாண்டு கடன் தேவைப்படும்போது, அல்லது ஒரு ஏற்றுமதியாளர் புதிய எல்லைச் சந்தைகளுக்கு விற்பனை செய்ய கடன் தகாஃபுல் (credit takaful) தேவைப்படும்போது, வணிக வங்கிகள் பெரும்பாலும் மறுத்துவிடுகின்றன. அந்த இடைவெளியை நிரப்புவதற்காகவே மலேசியாவின் மேம்பாட்டு நிதி நிறுவனங்கள் உள்ளன.

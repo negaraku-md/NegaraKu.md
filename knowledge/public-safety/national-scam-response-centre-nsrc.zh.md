@@ -86,6 +86,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 诈骗中最糟糕的一刻，是你刚意识到那是一场骗局的那一刻——钱已离开你的账户，而你不知道该怎么办、该打给谁。在马来西亚，这个问题只有一个答案：**拨打 997。**这个号码可接通**国家反诈骗中心（NSRC）**，而尽快拨打它，确确实实就是你把钱追回来的最大机会。

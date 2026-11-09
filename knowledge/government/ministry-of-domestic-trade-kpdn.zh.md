@@ -85,6 +85,7 @@ wikidata: "Q12689906"
 relations: []
 related: []
 keywords: ["KPDN", "KPDN是什么部门", "国内贸易及生活成本部", "Ministry of Domestic Trade and Cost of Living", "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup", "KPDN aduan", "Price Control and Anti-Profiteering Act 2011", "Akta Kawalan Harga", "Ez ADU KPDN", "TTPM tribunal tuntutan pengguna", "KPDN hotline", "kawalan harga barang", "consumer protection Malaysia", "Armizan Mohd Ali", "SSM MyIPO MyCC", "Ops Pantau KPDN"]
+framework: profile
 ---
 
 当商家在食油上向你多收费、以高于顶价的价格出售受管制商品，或拒绝为有缺陷的产品负责时，负责代你采取行动的联邦机构就是 **KPDN**——**国内贸易及生活成本部**（*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*）。它发展国内贸易、管控日常必需品的价格、保护消费者，并以实实在在的法令、可用的投诉管道，以及一个为普通消费者而设的小额索偿仲裁庭作为后盾。

@@ -73,6 +73,7 @@ wikidata: "Q6742016"
 relations: []
 related: []
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department Malaysia", "MyJPJ", "road tax renewal", "driving licence renewal", "e-LKM", "e-LMM", "MySIKAP", "JPJeBid", "Road Transport Act 1987", "KEJARA demerit points", "cukai jalan", "lesen memandu"]
+framework: profile
 ---
 
 말레이시아에서 납부되는 모든 도로세, 발급되는 모든 번호판, 소지되는 모든

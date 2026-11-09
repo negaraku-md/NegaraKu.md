@@ -98,6 +98,7 @@ keywords:
   - "lesen pengilangan Malaysia ICA 1975"
   - "direktori agensi pelaburan Malaysia"
   - "agensi pelaburan Malaysia"
+framework: explainer
 ---
 
 Pelabur asing tiba dengan jangkaan satu pengawal selia. Malaysia mempunyai belasan,

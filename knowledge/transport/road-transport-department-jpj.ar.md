@@ -73,6 +73,7 @@ wikidata: "Q6742016"
 relations: []
 related: []
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "دائرة النقل البري", "Road Transport Department Malaysia", "MyJPJ", "تجديد ضريبة الطريق", "road tax renewal", "تجديد رخصة القيادة", "driving licence renewal", "e-LKM", "e-LMM", "MySIKAP", "JPJeBid", "Road Transport Act 1987", "قانون النقل البري", "KEJARA", "ضريبة الطريق", "رخصة القيادة"]
+framework: profile
 ---
 
 كل ضريبة طريق تُدفع، وكل لوحة أرقام تُصدر، وكل رخصة قيادة تُحمَل في ماليزيا تمرّ عبر جهة واحدة: **دائرة النقل البري** — *Jabatan Pengangkutan Jalan*، المعروفة في كل مكان باختصارها **JPJ**. وتعمل تحت شعبة الشؤون البرية في **وزارة النقل**، وهي الدائرة المسؤولة عن تسجيل المركبات، وإصدار رخص القيادة ولوحات أرقام المركبات، وتنفيذ قانون النقل البري لسنة 1987 لضمان سائقين حصيفين ومركبات آمنة.

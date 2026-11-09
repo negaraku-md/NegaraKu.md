@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "special-needs-education" }
 related: []
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
+framework: profile
 ---
 
 A 10-year-old who can solve Form Five mathematics does not always stand out in an ordinary classroom — and in Malaysia, the only national centre designed to find and nurture minds like these is PERMATApintar.

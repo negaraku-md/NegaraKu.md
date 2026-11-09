@@ -73,6 +73,7 @@ wikidata: "Q141851366"
 relations: []
 related: []
 keywords: ["MASB", "Malaysian Accounting Standards Board", "MFRS", "MPERS", "Financial Reporting Act 1997", "approved accounting standards Malaysia", "MFRS framework", "Financial Reporting Foundation", "IFRS Malaysia", "MFRS 18", "private entity reporting standard", "MASB standards force of law"]
+framework: profile
 ---
 
 When a Malaysian company signs off its accounts, the rules it must follow are not written by its auditor, its tax office or the stock exchange. They are written by the **Malaysian Accounting Standards Board (MASB)** — and, unusually, those rules carry the force of law.

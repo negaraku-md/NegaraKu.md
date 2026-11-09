@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-malaysia" }
 related: ["federal-constitution", "pdrm"]
 keywords: ["angkatan tentera malaysia", "ATM", "kementerian pertahanan", "MINDEF", "majlis angkatan tentera", "panglima angkatan tentera", "akta angkatan tentera 1972", "kertas putih pertahanan", "tentera darat", "tentera laut diraja malaysia", "tentera udara diraja malaysia"]
+framework: profile
 ---
 
 陸・海・空の三軍種は、国王（Yang di-Pertuan Agong）を国軍最高司令官とする一つの指揮系統のもとで動くが、日々の運営は一人の大臣と文民の行政機構が担う。これがマレーシアの国防の組織のしかたである——最高権力は国王に、政策統制は文民に、実施は職業軍人に。

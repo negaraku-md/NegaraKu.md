@@ -79,6 +79,7 @@ wikidata: "Q12689906"
 relations: []
 related: []
 keywords: ["KPDN", "Ministry of Domestic Trade and Cost of Living", "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup", "KPDN aduan", "Price Control and Anti-Profiteering Act 2011", "Akta Kawalan Harga", "Ez ADU KPDN", "TTPM tribunal tuntutan pengguna", "KPDN hotline", "kawalan harga barang", "consumer protection Malaysia", "Armizan Mohd Ali", "SSM MyIPO MyCC", "Ops Pantau KPDN"]
+framework: profile
 ---
 
 Khi một thương nhân tính giá dầu ăn quá cao cho bạn, bán một mặt hàng được kiểm soát trên mức giá trần của nó, hoặc từ chối bảo hành một sản phẩm bị lỗi, cơ quan liên bang có nhiệm vụ hành động thay bạn là **KPDN** — **Bộ Thương mại Nội địa và Chi phí Sinh hoạt** (*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*). Nó phát triển thương mại nội địa, kìm giữ giá các mặt hàng thiết yếu hằng ngày, và bảo vệ người tiêu dùng, được hậu thuẫn bởi các đạo luật thực sự, các kênh khiếu nại trực tuyến, và một tòa trọng tài khiếu nại nhỏ được xây dựng cho người mua hàng bình thường.

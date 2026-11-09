@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["malaysia-plans", "dosm", "federal-budget"]
 keywords: ["Kementerian Ekonomi", "Ministry of Economy Malaysia", "Unit Perancang Ekonomi", "EPU", "Rancangan Malaysia", "perancangan pembangunan", "DOSM", "Jawatankuasa Perancang Pembangunan Negara"]
+framework: profile
 ---
 
 ทุกครั้งที่นายกรัฐมนตรียืนขึ้นใน Dewan Rakyat เพื่อนำเสนอแผนพัฒนาระยะห้าปีของประเทศ เอกสารเล่มหนาในมือนั้นมิได้ปรากฏขึ้นเฉย ๆ มันถูกจัดทำมาหลายปีโดยกระทรวงหนึ่งที่ประชาชนส่วนใหญ่แทบไม่สังเกต — กระทรวงเศรษฐกิจ และกระทรวงนั้นเองก็ใหม่ในรูปแบบปัจจุบัน แม้ว่างานที่ทำจะเริ่มต้นมาตั้งแต่ก่อนเอกราชโดยสมบูรณ์

@@ -76,6 +76,7 @@ keywords:
   - "Audit Act 1957"
   - "Informe del Auditor General"
   - "auditoría gubernamental"
+framework: profile
 ---
 
 Cada año se presenta un voluminoso informe en el Dewan Rakyat. Revisa cómo

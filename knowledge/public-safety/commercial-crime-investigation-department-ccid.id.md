@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "national-scam-response-centre-nsrc" }
 related: ["pdrm"]
 keywords: ["CCID", "Jabatan Siasatan Jenayah Komersil", "JSJK", "PDRM", "jenayah komersil", "penipuan dalam talian", "Semak Mule", "NSRC", "997"]
+framework: profile
 ---
 
 Setiap kali seseorang membaca "hubungi 997" setelah uangnya ditipu, departemen PDRM yang berada di garis depan melawan penipuan itu adalah CCID. Jabatan Siasatan Jenayah Komersil — dalam bahasa Inggris, Commercial Crime Investigation Department — adalah unit Polis Diraja Malaysia yang memburu penjahat kerah putih: mereka yang mencuri melalui tipu daya, bukan ancaman kekerasan.

@@ -67,6 +67,7 @@ wikidata: "Q97208190"
 relations: []
 related: []
 keywords: ["Majlis Sukan Negara", "MSN", "مجلس الرياضة الوطني", "National Sports Council of Malaysia", "NSC Malaysia", "MSN Bukit Jalil", "قانون مجلس الرياضة الوطني 1971", "المعهد الوطني للرياضة", "Institut Sukan Negara", "ISN", "المجمّع الرياضي الوطني بوكيت جليل", "Majlis Sukan Negeri", "وزارة الشباب والرياضة", "Kementerian Belia dan Sukan", "تطوير الرياضة الماليزية"]
+framework: profile
 ---
 
 عندما يصطفّ عدّاء ماليزي في الأولمبياد أو يُكتشف لاعب كرة قدم شاب ليُضمّ إلى منتخب وطني، تقف وراء التدريب والإعداد والمرافق التي أوصلته إلى هناك هيئة حكومية واحدة: **مجلس الرياضة الوطني الماليزي**، المعروف بالماليزية باسم **Majlis Sukan Negara (MSN)**. إنه الوكالة القانونية التي تحوّل السياسة الرياضية الوطنية إلى رياضيين فعليين.

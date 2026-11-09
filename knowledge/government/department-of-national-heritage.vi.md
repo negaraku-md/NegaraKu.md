@@ -75,6 +75,7 @@ wikidata: "Q7354460"
 relations: []
 related: []
 keywords: ["Jabatan Warisan Negara", "JWN", "Department of National Heritage", "National Heritage Act 2005", "Act 645", "Warisan Kebangsaan", "National Heritage Register", "Commissioner of Heritage", "heritage.gov.my", "MOTAC", "gazette national heritage Malaysia", "Daftar Warisan Kebangsaan", "Warisan Orang Hidup"]
+framework: profile
 ---
 
 Khi một dãy nhà phố (shophouse) ở George Town nhận được lệnh bảo vệ, hoặc một vũ công *[mak yong](/arts-culture/mak-yong)* được tôn vinh là báu vật sống, có một cơ quan liên bang đứng sau quyết định đó: **Cục Di sản Quốc gia** — *Jabatan Warisan Negara* (**JWN**). Được thành lập ngày **1 tháng 3 năm 2006**, JWN nhận diện, bảo tồn, đăng công báo và bảo vệ di sản của Malaysia, và hoạt động dưới **Bộ Du lịch, Nghệ thuật và Văn hóa (MOTAC)**. Tầm nhìn được nêu của Cục là dẫn đầu trong việc khám phá và gìn giữ các báu vật di sản hướng tới việc hun đúc bản sắc dân tộc và tạo ra nền kinh tế quốc gia.

@@ -84,6 +84,7 @@ wikidata: "Q3816079"
 relations: []
 related: []
 keywords: ["Ministry of Education Malaysia", "KPM", "Kementerian Pendidikan Malaysia", "Fadhlina Sidek", "Education Act 1996", "Malaysia Education Blueprint", "PPPM", "KPM vs KPT", "Menteri Pendidikan Malaysia", "moe.gov.my", "compulsory education Malaysia", "Malaysia school system"]
+framework: profile
 ---
 
 Si se trata de un escolar malasio — el currículo que estudia, el libro de texto sobre su pupitre, el examen nacional que presenta o el docente de escuela pública al frente del aula — le corresponde al Ministerio de Educación. Conocido en malayo como **Kementerian Pendidikan Malaysia** y casi siempre abreviado como **KPM**, es el ministerio federal que gestiona el sistema de educación preuniversitaria del país. Lo que *no* gestiona son las universidades — una frontera que confunde a muchísima gente.

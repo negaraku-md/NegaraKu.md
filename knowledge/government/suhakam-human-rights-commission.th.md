@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "kehakiman-mahkamah" }
 related: ["federal-constitution", "parliament", "kehakiman-mahkamah", "attorney-general"]
 keywords: ["SUHAKAM", "Suruhanjaya Hak Asasi Manusia Malaysia", "Human Rights Commission of Malaysia", "Akta 597", "hak asasi manusia", "aduan hak asasi", "Prinsip Paris", "taraf A GANHRI", "tempat tahanan", "Perlembagaan Persekutuan"]
+framework: profile
 ---
 
 เมื่อบุคคลส่งเรื่องร้องเรียนการละเมิดสิทธิมนุษยชนไปยัง SUHAKAM คณะกรรมการนั้นทำอะไรได้และทำอะไรไม่ได้จริง คำตอบมิใช่วาทศิลป์ — แต่อยู่ที่พระราชบัญญัติสั้น ๆ ปี 1999 ที่กำหนดสี่หน้าที่ อำนาจในการสอบสวนหนึ่งแถว และเส้นแดงบางเส้นที่ก้าวข้ามไม่ได้อย่างแม่นยำ

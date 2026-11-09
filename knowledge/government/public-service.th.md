@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "attorney-general" }
 related: ["federal-constitution", "prime-ministers-department", "kabinet-perdana-menteri", "three-tiers-of-government", "auditor-general", "attorney-general"]
 keywords: ["SPA Malaysia", "Suruhanjaya Perkhidmatan Awam", "JPA Malaysia", "Jabatan Perkhidmatan Awam", "Public Services Commission Malaysia", "Public Service Department Malaysia", "Article 144 Federal Constitution", "Malaysian civil service structure", "INTAN"]
+framework: profile
 ---
 
 อาชีพของข้าราชการในมาเลเซียผ่านสององค์กรสหพันธ์ที่คนส่วนใหญ่ไม่เคยได้ยิน และไม่มีองค์กรใดเป็นกระทรวงที่เจ้าหน้าที่ทำงานอยู่จริง องค์กรหนึ่งตัดสินว่าบุคคลนั้นจะได้รับการแต่งตั้ง บรรจุ เลื่อนตำแหน่ง หรือดำเนินการทางวินัยหรือไม่ อีกองค์กรหนึ่งตัดสินตั้งนานก่อนที่การแต่งตั้งจะเกิดขึ้นว่าตำแหน่งนั้นจ่ายเท่าใด ต้องการการฝึกอบรมใด และตำแหน่งนั้นควรมีอยู่หรือไม่เลย

@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "three-tiers-of-government" }
 related: ["kabinet-perdana-menteri", "yang-di-pertuan-agong", "dosm", "spr-election-commission", "three-tiers-of-government"]
 keywords: ["Jabatan Perdana Menteri", "Département du Premier ministre Malaisie", "JPM Malaysia", "Ketua Setiausaha Negara", "Chief Secretary to the Government", "Perdana Putra", "Putrajaya", "département du gouvernement fédéral Malaisie"]
+framework: profile
 ---
 
 La Malaisie ne dispose pas d'un ministère unique qui ferait tourner la machinerie

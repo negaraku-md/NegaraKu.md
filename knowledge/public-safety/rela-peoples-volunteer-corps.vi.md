@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "jabatan-imigresen-malaysia" }
 related: []
 keywords: ["RELA", "Pasukan Sukarelawan Malaysia", "Ikatan Relawan Rakyat", "Akta 752", "Akta Pasukan Sukarelawan Malaysia 2012", "PATI", "sukarelawan keselamatan"]
+framework: profile
 ---
 
 Bạn có thể đã từng thấy họ mặc đồng phục điều khiển giao thông trong các cuộc tụ họp hoặc thảm họa — nhưng thực chất một thành viên RELA được và không được làm gì theo pháp luật?

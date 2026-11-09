@@ -80,6 +80,7 @@ wikidata: "Q12698635"
 relations: []
 related: []
 keywords: ["MyIPO", "Intellectual Property Corporation of Malaysia", "Perbadanan Harta Intelek Malaysia", "trademark registration Malaysia", "patent registration Malaysia", "MyIPO trademark fees", "Trademarks Act 2019", "copyright Malaysia", "industrial design Malaysia", "geographical indication Malaysia", "IP registration Malaysia", "MyIPO online filing"]
+framework: profile
 ---
 
 நீங்கள் மலேசியாவில் ஏதேனும் கண்டுபிடித்திருந்தால், ஒரு பிராண்டை உருவாக்கியிருந்தால், ஒரு பொருளை வடிவமைத்திருந்தால் அல்லது ஒரு பிராந்திய சிறப்புப் பொருளைப் பாதுகாக்க விரும்பினால், அவை அனைத்திற்கும் கிட்டத்தட்ட ஒரே கதவு உள்ளது — மேலும் ஒரே ஒரு சேவையை மட்டும் விற்க முயலும் ஒரு பக்கத்தால் நீங்கள் தவறான சேவைக்கு எளிதில் அனுப்பப்படலாம். **MyIPO**, அதாவது மலேசிய அறிவுசார் சொத்துரிமை கழகம் (மலாய்: *Perbadanan Harta Intelek Malaysia*), மலேசியாவின் முழு அறிவுசார் சொத்து அமைப்பையும் மேம்படுத்தி நிர்வகிப்பதற்குப் பொறுப்பான சட்டப்பூர்வ நிறுவனம் ஆகும். இது தொழில்துறை சொத்துரிமையை — காப்புரிமைகள், வர்த்தக முத்திரைகள், தொழில்துறை வடிவமைப்புகள் மற்றும் ஒருங்கிணைந்த சுற்றுகளின் வடிவமைப்புகள் — அத்துடன் பதிப்புரிமை மற்றும் தொடர்புடைய உரிமைகளையும் உள்ளடக்கியது.

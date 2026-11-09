@@ -94,6 +94,7 @@ relations:
   - { rel: "governs", to: "statutory-audit-process" }
 related: ["appointing-an-auditor", "audit-opinion-types", "changing-auditors"]
 keywords: ["Audit Oversight Board", "AOB", "public interest entity", "PIE auditor registration", "Securities Commission Malaysia", "Part IIIA SCMA", "schedule fund", "EQCR", "auditor oversight Malaysia"]
+framework: profile
 ---
 
 การผ่านใบอนุญาตสอบบัญชีของรัฐมนตรีว่าการกระทรวงการคลังและการเข้าร่วม MIA ยังไม่ทำให้คุณสามารถลงนามในบัญชีของบริษัทที่จดทะเบียนใน Bursa ได้ สำหรับการสอบบัญชีในตลาดทุนมีข้อกำหนดเพิ่มเติม — การขึ้นทะเบียนกับคณะกรรมการกำกับดูแลการสอบบัญชี — ซึ่งเฉพาะผู้สอบบัญชีของกิจการที่มีส่วนได้เสียสาธารณะและกองทุนตามตารางเท่านั้นที่ต้องปฏิบัติตาม

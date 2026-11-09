@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "personal-data-protection-act-2010" }
 related: []
 keywords: ["Kementerian Digital", "Ministry of Digital Malaysia", "Gobind Singh Deo", "MDEC", "JDN", "CyberSecurity Malaysia", "ekonomi digital"]
+framework: profile
 ---
 
 マレーシアが「デジタル」は他のどの省と分け合うにはあまりに重要だと判断したとき、新しい省が誕生した。デジタル省は国家の技術政策の管制中枢であり——デジタル経済、サイバーセキュリティ、個人データ保護を一つ屋根の下に収める拠点だ。

@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["epf-as-investor", "khazanah", "pnb", "bursa-malaysia"]
 keywords: ["KWSP", "EPF", "सेवानिवृत्ति कोष", "संस्थागत निवेशक", "KWSP लाभांश", "Akta KWSP 1991", "कर्मचारी बचत"]
+framework: profile
 ---
 
 हर बार जब मलेशिया में एक निजी-क्षेत्र का कामगार अपनी वेतन-पर्ची प्राप्त करता है, तो उसकी आय का एक हिस्सा एक ही संस्था में प्रवाहित होता है जो अब RM1.25 ट्रिलियन से अधिक रखती है। वह संस्था Employees Provident Fund, या EPF है।

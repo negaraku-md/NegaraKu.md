@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "capital-markets-and-services-act-2007" }
 related: ["bursa-malaysia", "bank-negara-malaysia"]
 keywords: ["securities commission malaysia", "SC Malaysia", "capital market regulator", "CMSA 2007", "Securities Commission Act 1993", "equity crowdfunding", "P2P financing"]
+framework: profile
 ---
 
 เมื่อคุณซื้อกองทุนรวม ลงทุนผ่านแพลตฟอร์ม equity crowdfunding หรือซื้อขายหุ้นใน Bursa Malaysia มีองค์กรหนึ่งที่กำหนดกฎเบื้องหลังทั้งหมดนั้น: คณะกรรมการกำกับหลักทรัพย์มาเลเซีย (Securities Commission Malaysia) มันคือผู้เฝ้าประตูตามกฎหมายรายเดียวสำหรับตลาดทุนของประเทศ — และการรู้อย่างชัดเจนว่าอำนาจของมันเริ่มและสิ้นสุดที่ใดช่วยประหยัดความสับสนได้มาก

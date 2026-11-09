@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "national-scam-response-centre-nsrc" }
 related: ["pdrm"]
 keywords: ["CCID", "Departamento de Investigación de Delitos Comerciales", "Jabatan Siasatan Jenayah Komersil", "JSJK", "PDRM", "delitos comerciales", "fraude en línea", "Semak Mule", "NSRC", "997"]
+framework: profile
 ---
 
 Cada vez que alguien lee «llama al 997» tras haber sido estafado con su dinero, el departamento de la RMP que está en primera línea contra ese fraude es el CCID. El Departamento de Investigación de Delitos Comerciales — Jabatan Siasatan Jenayah Komersil en malayo — es la unidad de la Real Policía de Malasia que persigue a los delincuentes de cuello blanco: los que roban mediante el engaño en lugar de la amenaza de la violencia.

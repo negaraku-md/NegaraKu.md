@@ -66,6 +66,7 @@ wikidata: "Q279453"
 relations: []
 related: []
 keywords: ["MDEC", "Malaysia Digital Economy Corporation", "Malaysia Digital Status", "MD Status", "MSC Malaysia", "MSC status", "Malaysia Digital Bill of Guarantees", "Malaysia Digital tax incentive", "MD activities", "knowledge worker Malaysia", "Cyberjaya", "digital economy Malaysia"]
+framework: profile
 ---
 
 Search "Malaysia Digital Status" and almost every result is a consultancy selling an application service — and most blur three separate things into one. There is the **agency** (MDEC), the **status** it awards (MD Status), and a **tax incentive** that is a wholly separate application with much steeper requirements. Keeping them apart is the difference between a RM1,000 threshold and a RM50,000 one. Here is each layer, from primary sources.

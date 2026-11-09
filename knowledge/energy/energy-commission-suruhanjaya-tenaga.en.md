@@ -92,6 +92,7 @@ relations:
   - { rel: "governs", to: "energy-efficiency-conservation-act-2024" }
 related: []
 keywords: ["Suruhanjaya Tenaga", "Energy Commission Malaysia", "Akta Suruhanjaya Tenaga 2001", "Akta 610", "tarif elektrik Malaysia", "EECA 2024", "Akta 861", "PETRA"]
+framework: profile
 ---
 
 When your electricity supply is cut off, the tariff rate rises, or your factory is

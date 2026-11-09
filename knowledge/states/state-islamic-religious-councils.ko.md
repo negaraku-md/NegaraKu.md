@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "syariah-courts-malaysia" }
 related: ["waqf-islamic-endowment-malaysia", "federal-constitution"]
 keywords: ["Majlis Agama Islam Negeri", "MAIN", "zakat", "wakaf", "fatwa", "Perkara 3", "Senarai Negeri", "pentadbiran Islam"]
+framework: profile
 ---
 
 여러분의 주(州)에서 누가 자카트(zakat), 와카프(wakaf) 및 모스크를 관장하는지 물어보면, 그 답은 푸트라자야(Putrajaya)의 어느 부처가 아니라 — 그 주(州)의 통치자(Raja) 자신에게 책임을 지는 주(州) 법정 기관입니다. 그 기관이 바로 주 이슬람종교위원회(Majlis Agama Islam Negeri, MAIN)이며, 그것이 모든 주(州)에 존재하는 것은 하나의 헌법 원칙에서 비롯됩니다: 이슬람 관련 업무는 연방 사안이 아니라 주(州) 사안이라는 것입니다.

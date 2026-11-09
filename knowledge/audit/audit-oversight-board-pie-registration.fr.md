@@ -94,6 +94,7 @@ relations:
   - { rel: "governs", to: "statutory-audit-process" }
 related: ["appointing-an-auditor", "audit-opinion-types", "changing-auditors"]
 keywords: ["Audit Oversight Board", "AOB", "entité d'intérêt public", "enregistrement des auditeurs EIP", "Commission des valeurs mobilières de Malaisie", "Partie IIIA SCMA", "fonds d'annexe", "EQCR", "supervision des auditeurs Malaisie", "public interest entity", "Securities Commission Malaysia"]
+framework: profile
 ---
 
 Obtenir l'agrément d'audit du Ministre des Finances et adhérer au MIA ne vous permet toujours pas de viser les comptes d'une société cotée à la Bursa. Pour un audit du marché des capitaux, il y a une exigence supplémentaire — l'enregistrement auprès de l'Audit Oversight Board — que seuls les auditeurs d'entités d'intérêt public et de fonds d'annexe doivent satisfaire.

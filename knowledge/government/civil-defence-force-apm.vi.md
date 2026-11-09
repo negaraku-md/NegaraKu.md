@@ -72,6 +72,7 @@ related: []
 keywords: ["APM", "Angkatan Pertahanan Awam Malaysia", "Civil Defence Force", "JPAM", "disaster response Malaysia", "Civil Defence Act 1951", "search and rescue Malaysia", "flood relief Malaysia", "NADMA", "civil defence volunteers"]
 social:
   hashtags: ["APM", "CivilDefence", "DisasterResponse", "Malaysia", "SAR"]
+framework: profile
 ---
 
 Khi nước lũ dâng lên ở bờ biển phía đông của Malaysia mỗi mùa gió mùa, những nhân sự mặc đồng phục màu cam lội qua dòng nước để tiếp cận các gia đình bị mắc kẹt thường là từ **APM**. **Lực lượng Phòng vệ Dân sự Malaysia** — *Angkatan Pertahanan Awam Malaysia*, hay **APM** — là cơ quan liên bang mặc đồng phục chịu trách nhiệm về phòng vệ dân sự và ứng phó thảm họa: cứu trợ lũ lụt, tìm kiếm và cứu nạn, cứu trợ nhân đạo và hỗ trợ an toàn tại các sự kiện công cộng lớn. Nó hoạt động theo **Luật Phòng vệ Dân sự 1951 (Act 221)** và, kể từ năm 2015, trực thuộc **Văn phòng Thủ tướng**, và nó được xây dựng quanh một trong những nguồn tình nguyện viên được huấn luyện lớn nhất của đất nước.

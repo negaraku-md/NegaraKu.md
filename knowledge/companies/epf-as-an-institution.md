@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["epf-as-investor", "khazanah", "pnb", "bursa-malaysia"]
 keywords: ["KWSP", "EPF", "dana persaraan", "pelabur institusi", "dividen KWSP", "Akta KWSP 1991", "simpanan pekerja"]
+framework: profile
 ---
 
 Setiap kali seorang pekerja swasta di Malaysia menerima slip gaji, sebahagian daripada pendapatannya mengalir ke satu institusi tunggal yang kini memegang lebih RM1.25 trilion. Itulah Kumpulan Wang Simpanan Pekerja, atau KWSP.

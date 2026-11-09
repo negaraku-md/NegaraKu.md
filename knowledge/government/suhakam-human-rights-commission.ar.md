@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "kehakiman-mahkamah" }
 related: ["federal-constitution", "parliament", "kehakiman-mahkamah", "attorney-general"]
 keywords: ["SUHAKAM", "اللجنة الماليزية لحقوق الإنسان", "Suruhanjaya Hak Asasi Manusia Malaysia", "Human Rights Commission of Malaysia", "القانون 597", "Akta 597", "حقوق الإنسان", "شكوى حقوق الإنسان", "مبادئ باريس", "تصنيف A من GANHRI", "أماكن الاحتجاز", "الدستور الاتحادي"]
+framework: profile
 ---
 
 حين يقدّم شخص ما شكوى بانتهاك لحقوق الإنسان إلى SUHAKAM، فما الذي يمكن للجنة فعله تحديدًا وما الذي لا يمكنها فعله؟ الجواب ليس بلاغةً — بل يكمن في قانون موجز صادر عام 1999 يحدد بدقة أربع وظائف، وسلسلة من الصلاحيات التحقيقية، وبضعة خطوط حمراء لا يجوز تجاوزها.

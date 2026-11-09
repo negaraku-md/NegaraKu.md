@@ -86,6 +86,7 @@ keywords:
   - "kuasa budi bicara Yang di-Pertuan Agong"
   - "Perkara 40 Perlembagaan Persekutuan"
   - "raja berperlembagaan Malaysia"
+framework: profile
 ---
 
 La mayoría de las monarquías del mundo responden a una misma pregunta de una misma manera: ¿quién se convierte en el próximo rey? La respuesta suele ser la descendencia, y el mandato suele ser vitalicio.

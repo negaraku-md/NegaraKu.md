@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "higher-education-in-malaysia" }
 related: []
 keywords: ["MQA", "MQA accreditation", "Malaysian Qualifications Framework", "MQF", "MQR", "degree recognition Malaysia", "provisional accreditation", "full accreditation"]
+framework: profile
 ---
 
 இரண்டு மாணவர்கள் ஒரே மாதிரி ஒலிக்கும் டிப்ளோமாவுடன் பட்டம் பெறுகின்றனர். ஒருவர் அரசு வேலைக்கும் முதுகலைப் படிப்பு இடத்திற்கும் தகுதி பெறுகிறார்; மற்றவரோ வாசலிலேயே திருப்பியனுப்பப்படுகிறார். இந்த வேறுபாடு பெரும்பாலும் ஒரு பொதுப் பதிவேட்டில் உள்ள ஒரே ஒரு வரியில் இருக்கிறது: அந்த நிரலை மலேசியத் தகைமைகள் முகமை அங்கீகரித்ததா என்பதே அது.

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "malaysia-civil-defence-force-apm" }
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "إدارة الكوارث", "توجيه NADMA رقم 1", "توجيه MKN رقم 20", "الفيضانات", "SMART", "دائرة رئيس الوزراء"]
+framework: profile
 ---
 
 عندما يضرب فيضان كبير عدة ولايات في وقت واحد، فمن الذي يضغط الزر لتنسيق الجيش وفرق الإطفاء والشرطة والمتطوعين تحت قيادة واحدة؟ في ماليزيا، الجواب هو NADMA.

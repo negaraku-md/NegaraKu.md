@@ -77,6 +77,7 @@ wikidata: "Q6867161"
 relations: []
 related: []
 keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "وزارة الإسكان والحكومة المحلية ماليزيا", "Ministry of Housing and Local Government Malaysia", "وظائف KPKT", "وكالات KPKT", "JBPM", "PLANMalaysia", "Jabatan Kerajaan Tempatan", "Jabatan Perumahan Negara", "محكمة الإسكان وإدارة الطبقات", "SWCorp", "Strata Management Act 2013", "Local Government Act 1976", "Nga Kor Ming", "الإسكان الميسور ماليزيا B40 M40"]
+framework: profile
 ---
 
 حين لا تُجمَع نفاياتك، وحين تحين شهادة السلامة من الحرائق، وحين يسلّمك مطوّر شقتك

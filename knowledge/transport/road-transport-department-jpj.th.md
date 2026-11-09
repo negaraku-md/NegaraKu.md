@@ -73,6 +73,7 @@ wikidata: "Q6742016"
 relations: []
 related: []
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department Malaysia", "MyJPJ", "road tax renewal", "driving licence renewal", "e-LKM", "e-LMM", "MySIKAP", "JPJeBid", "Road Transport Act 1987", "KEJARA demerit points", "cukai jalan", "lesen memandu"]
+framework: profile
 ---
 
 ภาษีถนนทุกครั้งที่ชำระ ป้ายทะเบียนทุกใบที่ออก และใบอนุญาตขับขี่ทุกใบที่พกพาในมาเลเซีย ล้วนผ่านหน่วยงานเดียว นั่นคือ **กรมการขนส่งทางบก** — *Jabatan Pengangkutan Jalan* ซึ่งเป็นที่รู้จักกันทั่วไปด้วยตัวย่อ **JPJ** กรมนี้ดำเนินงานภายใต้ฝ่ายภาคพื้นดินของ **กระทรวงคมนาคม** และเป็นกรมที่รับผิดชอบการจดทะเบียนยานพาหนะ การออกใบอนุญาตขับขี่และป้ายทะเบียนยานพาหนะ ตลอดจนการบังคับใช้พระราชบัญญัติการขนส่งทางบก (Road Transport Act 1987) เพื่อให้มีผู้ขับขี่ที่รอบคอบและยานพาหนะที่ปลอดภัย

@@ -92,6 +92,7 @@ relations:
   - { rel: "governs", to: "energy-efficiency-conservation-act-2024" }
 related: []
 keywords: ["Suruhanjaya Tenaga", "Energy Commission Malaysia", "Akta Suruhanjaya Tenaga 2001", "Akta 610", "tarif elektrik Malaysia", "EECA 2024", "Akta 861", "PETRA"]
+framework: profile
 ---
 
 Lorsque votre fourniture d'électricité est coupée, que le tarif augmente, ou que votre usine se voit soudain tenue de nommer un gestionnaire de l'énergie agréé — la même autorité se tient derrière ces trois situations. Non pas un ministère, mais un organisme statutaire : la Commission de l'énergie.

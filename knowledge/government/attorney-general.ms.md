@@ -72,6 +72,7 @@ keywords:
   - "Attorney General's Chambers"
   - "Peguam Negara"
   - "right of audience Attorney General"
+framework: profile
 ---
 
 Kebanyakan jawatan awam ditakrifkan oleh statut yang boleh ditulis semula oleh Parlimen.

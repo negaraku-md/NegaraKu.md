@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "islamic-finance" }
 related: ["article-3-religion", "federal-state-division", "civil-and-syariah-courts", "majlis-raja-raja"]
 keywords: ["JAKIM", "Jabatan Kemajuan Islam Malaysia", "Department of Islamic Development Malaysia", "Departamento de Desarrollo Islámico de Malasia", "MKI", "certificación halal", "halal", "asuntos islámicos", "ley syarak", "Departamento del Primer Ministro"]
+framework: profile
 ---
 
 El nombre de JAKIM se ve con mayor frecuencia en el logotipo halal de los envases

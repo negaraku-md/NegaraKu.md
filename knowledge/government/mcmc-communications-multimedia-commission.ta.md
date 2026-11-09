@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "communications-multimedia-act-1998" }
 related: ["communications-and-multimedia-act-1998"]
 keywords: ["MCMC", "SKMM", "Suruhanjaya Komunikasi dan Multimedia Malaysia", "Akta Komunikasi dan Multimedia 1998", "Akta 588", "Akta 589", "lesen telekomunikasi", "penyiaran", "kandungan internet", "NFP", "NSP", "ASP", "CASP"]
+framework: profile
 ---
 
 மலேசியாவில் ஒவ்வொரு தொலைபேசி அழைப்பும், இணைய இணைப்பும், தொலைக்காட்சி

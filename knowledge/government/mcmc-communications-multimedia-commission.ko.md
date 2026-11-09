@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "communications-multimedia-act-1998" }
 related: ["communications-and-multimedia-act-1998"]
 keywords: ["MCMC", "SKMM", "Suruhanjaya Komunikasi dan Multimedia Malaysia", "Akta Komunikasi dan Multimedia 1998", "Akta 588", "Akta 589", "lesen telekomunikasi", "penyiaran", "kandungan internet", "NFP", "NSP", "ASP", "CASP"]
+framework: profile
 ---
 
 말레이시아의 모든 통화, 인터넷 연결, 텔레비전 방송, 메시징 앱은 동일한 하나의 면허 체제 아래에서 운영되며 — 그 체제를 짠 위원회가 MCMC입니다.

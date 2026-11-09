@@ -72,6 +72,7 @@ keywords:
   - "Attorney General's Chambers"
   - "Peguam Negara"
   - "right of audience Attorney General"
+framework: profile
 ---
 
 Hầu hết các chức vụ công được xác định bởi một đạo luật mà Nghị viện có thể viết lại. Chức vụ Tổng Chưởng lý của Liên bang không nằm trong số đó. Nó được viết vào chính Hiến pháp Liên bang, trong một điều duy nhất — Điều 145 — quy định ai đảm nhận chức vụ, nó phải làm gì, và một quyền duy nhất mà Hiến pháp đặt vào quyền tùy nghi của chính người giữ chức.

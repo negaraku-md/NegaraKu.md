@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "dewan-rakyat"]
 keywords: ["SPR", "Suruhanjaya Pilihan Raya", "Akta Pilihan Raya 1958", "Akta Kesalahan Pilihan Raya 1954", "persempadanan", "Perlembagaan Persekutuan", "Perkara 113", "Perkara 114"]
+framework: profile
 ---
 
 Setiap kali Parlemen dibubarkan dan negara bergerak menuju pemilihan umum, satu badan yang sama menjadi wasit: Komisi Pemilihan Umum. Ia yang menetapkan tanggal, menyemak daftar pemilih, menangani hari penamaan calon dan hari pemungutan suara, serta mengumumkan hasil. Namun kuasa dan batasnya bukan datang dari pemerintah mana pun yang berkuasa, tetapi dari Konstitusi Federal itu sendiri.

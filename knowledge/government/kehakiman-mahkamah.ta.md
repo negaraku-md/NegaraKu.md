@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["Malaysia court hierarchy", "Federal Court of Malaysia", "Court of Appeal Malaysia", "High Court in Malaya", "Sessions Court jurisdiction", "Judicial Appointments Commission", "Article 122B"]
+framework: explainer
 ---
 
 ஒரு RM60,000 ஒப்பந்தத் தகராறும், ஒரு கூட்டமைப்புச் சட்டத்தின் செல்லுபடியாகும் தன்மைக்கான ஒரு சவாலும், இரண்டும் ஒரு நீதிமன்ற கவுண்டரில் தாக்கல் செய்யப்படும் ஒரு துண்டு காகிதமாகவே தொடங்குகின்றன. அவை ஒரே கவுண்டருக்குச் செல்வதில்லை, அவை ஒரே வகை நீதிபதியால் தீர்மானிக்கப்படுவதில்லை, மேலும் அவற்றில் ஒன்று மட்டுமே புத்ராஜெயாவில் (Putrajaya) ஒன்பது நீதிபதிகளுக்கு முன் முடிவடையலாம்.

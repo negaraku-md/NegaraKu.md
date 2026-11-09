@@ -75,6 +75,7 @@ related: []
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department", "driving licence Malaysia", "road tax", "vehicle registration", "Road Transport Act 1987", "MyJPJ", "mySIKAP", "LKM"]
 social:
   hashtags: ["JPJ", "RoadTaxMalaysia", "DrivingLicence", "MyJPJ"]
+framework: profile
 ---
 
 La mayoría de la gente se encuentra con el **Departamento de Transporte por Carretera** en un solo momento — al renovar el impuesto de circulación, al pasar un examen de conducir o al transferir un coche usado. Pero la JPJ es el departamento que está detrás de cada una de esas gestiones. El **Departamento de Transporte por Carretera** (*Jabatan Pengangkutan Jalan*, o **JPJ**) es un organismo dependiente del **Ministerio de Transporte (MOT)** de Malasia. Matricula vehículos de motor y conductores, concede permisos de conducir, el impuesto de circulación y las matrículas, concede licencias a los vehículos comerciales y hace cumplir las leyes que rigen el uso de las vías públicas por vehículos y conductores.

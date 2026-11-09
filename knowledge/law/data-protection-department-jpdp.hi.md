@@ -80,6 +80,7 @@ wikidata: "Q113543393"
 relations: []
 related: []
 keywords: ["JPDP", "Jabatan Perlindungan Data Peribadi", "Personal Data Protection Department", "व्यक्तिगत डेटा संरक्षण विभाग", "PDPA Malaysia", "Personal Data Protection Act 2010", "Act 709", "डेटा नियंत्रक पंजीकरण मलेशिया", "Personal Data Protection Commissioner", "pdp.gov.my", "PDPA Amendment Act 2024", "डेटा उल्लंघन अधिसूचना मलेशिया", "DPO Malaysia", "Suruhanjaya Perlindungan Data Peribadi", "SPDP daftar"]
+framework: profile
 ---
 
 मलेशियाई डेटा गोपनीयता पर लगभग हर गाइड *कानून* की व्याख्या करती है। बहुत कम इस *कार्यालय की व्याख्या करती हैं जो इसे चलाता है*। वह कार्यालय है **व्यक्तिगत डेटा संरक्षण विभाग** — *Jabatan Perlindungan Data Peribadi* (**JPDP**) — जो संसद द्वारा Personal Data Protection Act 2010 (Act 709) पारित करने के बाद **16 मई 2011** को स्थापित हुआ। यह डिजिटल मंत्रालय (Digital Ministry) के अधीन एक एजेंसी के रूप में काम करता है, और इसका काम उस अधिनियम को प्रवर्तित करने में **व्यक्तिगत डेटा संरक्षण आयुक्त (Personal Data Protection Commissioner)** की सहायता करना है। यह वह विभाग है जिसके साथ एक मलेशियाई व्यवसाय पंजीकरण कराता है, और वह जिसके पास एक आम नागरिक शिकायत करता है।

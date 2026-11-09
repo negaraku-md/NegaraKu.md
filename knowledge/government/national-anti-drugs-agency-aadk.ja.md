@@ -77,6 +77,7 @@ related: []
 keywords: ["AADK", "Agensi Antidadah Kebangsaan", "National Anti-Drugs Agency", "drug rehabilitation Malaysia", "Cure and Care", "Puspen", "NADA Malaysia", "voluntary drug treatment", "Drug Dependants Act 1983"]
 social:
   hashtags: ["#AADK", "#NegaraKu", "#DrugRehabilitation", "#MalaysiaHomeAffairs"]
+framework: profile
 ---
 
 マレーシアは薬物への対応を大きく二つの半分に分けている。一方の半分は刑事的な取り締まり——密売人を逮捕し、供給を押収し、犯罪を訴追すること——であり、これは警察が主導する。もう一方の半分は**需要削減**である。そもそも人が薬物を使うのを止め、使ってしまった人を治療しリハビリテーションすることである。その半分を主導するのが、**内務省**（*Kementerian Dalam Negeri*、KDN）傘下の機関である**国家薬物対策庁**（*Agensi Antidadah Kebangsaan*、すなわち **AADK**、**NADA** とも表記される）である。AADK は国の薬物リハビリテーションセンターを運営し、予防・教育プログラムを提供し、回復中の人々のアフターケアを管理する。

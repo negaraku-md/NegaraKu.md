@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-malaysia" }
 related: ["federal-constitution", "pdrm"]
 keywords: ["angkatan tentera malaysia", "ATM", "kementerian pertahanan", "MINDEF", "majlis angkatan tentera", "panglima angkatan tentera", "akta angkatan tentera 1972", "kertas putih pertahanan", "tentera darat", "tentera laut diraja malaysia", "tentera udara diraja malaysia"]
+framework: profile
 ---
 
 세 군종 — 육군, 해군, 공군 — 은 최고 통수권자인 양 디페르투안 아공(국왕)에게서 비롯되는 하나의 지휘 계통 아래 움직이지만, 일상적으로는 한 명의 장관과 문민 기구가 관리합니다. 그것이 말레이시아가 국방을 편성하는 방식입니다. 최고 권한은 국왕에게, 정책 통제는 문민에게, 그리고 집행은 직업 군대에 있습니다.

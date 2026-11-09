@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "national-scam-response-centre-nsrc" }
 related: ["pdrm"]
 keywords: ["CCID", "Département d'enquête sur la criminalité commerciale", "Jabatan Siasatan Jenayah Komersil", "JSJK", "PDRM", "criminalité commerciale", "fraude en ligne", "Semak Mule", "NSRC", "997"]
+framework: profile
 ---
 
 Chaque fois que quelqu'un lit « appelez le 997 » après s'être fait escroquer de son argent, le département de la RMP en première ligne contre cette fraude est le CCID. Le Département d'enquête sur la criminalité commerciale — Jabatan Siasatan Jenayah Komersil en malais — est l'unité de la Police royale de Malaisie qui traque les criminels en col blanc : ceux qui volent par la tromperie plutôt que par la menace de la violence.

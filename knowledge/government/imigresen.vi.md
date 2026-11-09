@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "rmcd-kastam" }
 related: ["moving-to-malaysia-first-steps", "work-passes-malaysia", "employment-pass-malaysia", "hiring-foreign-workers-malaysia", "foreign-worker-levy-malaysia", "jpn", "rmcd-kastam"]
 keywords: ["Jabatan Imigresen Malaysia", "JIM", "imigresen", "pasport Malaysia", "visa Malaysia", "pas lawatan sosial", "Permit Masuk", "ESD", "MDAC", "imi.gov.my"]
+framework: profile
 ---
 
 Mỗi người vượt qua biên giới Malaysia — công dân gia hạn hộ chiếu, du khách đến,

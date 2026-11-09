@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "jawi-script" }
 related: ["bahasa-melayu", "jawi-script"]
 keywords: ["dewan bahasa dan pustaka", "dbp", "bahasa melayu", "kamus dewan", "sasterawan negara", "badan berkanun"]
+framework: profile
 ---
 
 マレー語の単語の綴りを確認するとき、新しい科学用語に出会うとき、あるいは国家文学家（Sasterawan Negara）の称号を目にするとき——その背後には常にひとつの機関が存在する。国語・文学局（Dewan Bahasa dan Pustaka）である。

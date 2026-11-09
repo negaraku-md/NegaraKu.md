@@ -75,6 +75,7 @@ wikidata: "Q4294304"
 relations: []
 related: []
 keywords: ["KDN", "Kementerian Dalam Negeri", "Ministry of Home Affairs Malaysia", "MOHA", "KDN agencies", "KDN departments", "agensi bawah KDN", "Menteri Dalam Negeri", "fungsi KDN", "JPN", "Jabatan Imigresen", "PDRM", "AKPS", "Registry of Societies", "Lembaga Penapisan Filem"]
+framework: profile
 ---
 
 ஒரு மலேசியர் கடவுச்சீட்டைப் புதுப்பிக்கும்போது, காவல்துறை ஒருவரைக் கைது

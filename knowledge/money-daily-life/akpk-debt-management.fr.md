@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "personal-bankruptcy-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["AKPK", "Programme de gestion de la dette", "Program Pengurusan Kredit", "PPK", "DMP", "restructuration de dette", "conseil financier", "Bank Negara Malaysia", "dette de carte de crédit"]
+framework: profile
 ---
 
 Quand la facture de carte de crédit, la mensualité de la voiture et le prêt au logement tombent tous le même mois et que le salaire ne suffit pas, de nombreux Malaisiens supposent que le dernier recours est la faillite. En réalité, il existe une porte antérieure, et elle est entièrement gratuite.

@@ -72,6 +72,7 @@ related: []
 keywords: ["APM", "Angkatan Pertahanan Awam Malaysia", "Civil Defence Force", "JPAM", "disaster response Malaysia", "Civil Defence Act 1951", "search and rescue Malaysia", "flood relief Malaysia", "NADMA", "civil defence volunteers"]
 social:
   hashtags: ["APM", "CivilDefence", "DisasterResponse", "Malaysia", "SAR"]
+framework: profile
 ---
 
 حين ترتفع مياه الفيضان على الساحل الشرقي لماليزيا كل موسم رياح موسمية، يكون أصحاب الزيّ البرتقالي الذين يخوضون الماء للوصول إلى الأسر المحاصرة من **APM** عادةً. فـ**قوة الدفاع المدني الماليزية** — *Angkatan Pertahanan Awam Malaysia*، أو **APM** — هي الجهاز الاتحادي الموحَّد الزيّ المسؤول عن الدفاع المدني والاستجابة للكوارث: إغاثة الفيضانات والبحث والإنقاذ والعون الإنساني ودعم السلامة في الفعاليات العامة الكبيرة. وتعمل بموجب **قانون الدفاع المدني 1951 (Act 221)** وتحت **ديوان رئيس الوزراء** منذ 2015، وتُبنى حول إحدى أكبر مجموعات المتطوعين المدرَّبين في البلاد.

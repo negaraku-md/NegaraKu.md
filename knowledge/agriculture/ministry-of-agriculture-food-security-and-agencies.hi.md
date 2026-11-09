@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "kementerian-kemajuan-desa-dan-wilayah" }
 related: []
 keywords: ["KPKM", "Kementerian Pertanian dan Keterjaminan Makanan", "Ministry of Agriculture and Food Security", "कृषि एवं खाद्य सुरक्षा मंत्रालय", "DOA", "DVS", "DOF", "FAMA", "MARDI", "LPP", "LKIM", "BERNAS", "मलेशियाई कृषि एजेंसियाँ"]
+framework: profile
 ---
 
 जब किसी आयातित गाय को संगरोध (क्वारंटीन) की आवश्यकता होती है, धान के बीज की एक बोरी के निरीक्षण की आवश्यकता होती है, या कोई खुदरा दुकान चावल बेचना चाहती है, तो तीन अलग-अलग सरकारी इकाइयाँ शामिल हो सकती हैं — और वे सभी पुत्रजया में एक ही मंत्रालय तक जाती हैं। यह जानना कि कौन-सी एजेंसी क्या करती है, आपको गलत दरवाज़ा खटखटाने से बचाता है।

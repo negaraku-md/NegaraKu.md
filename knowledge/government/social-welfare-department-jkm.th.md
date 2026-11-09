@@ -77,6 +77,7 @@ wikidata: "Q7354381"
 relations: []
 related: []
 keywords: ["JKM", "Jabatan Kebajikan Masyarakat", "Department of Social Welfare Malaysia", "bantuan JKM", "OKU card", "OKU registration", "eBantuan JKM", "eKasih", "MyDaftar OKU", "Bantuan Kanak-Kanak BKK", "Persons with Disabilities Act 2008", "kad OKU"]
+framework: profile
 ---
 
 **กรมสวัสดิการสังคม** — *Jabatan Kebajikan Masyarakat* ที่รู้จักกันทั่วไปด้วยอักษรย่อ **JKM** — เป็นหน่วยงานระดับสหพันธ์ที่รองรับชาวมาเลเซียเมื่อล้มลง จัดตั้งขึ้นในปี **1946** ในตอนแรกเพื่อตอบสนองต่อปัญหาสังคมที่เกิดจากสงครามโลกครั้งที่สอง และบทบาทต่อมาได้ขยายมาสู่ **การคุ้มครอง การฟื้นฟู การป้องกัน การพัฒนา และการบูรณาการชุมชน** ผลการค้นหาสำหรับ JKM ถูกครอบงำด้วยบล็อก "วิธีขอความช่วยเหลือ" ที่ประทับปีและหน้าบริการเปล่า ๆ; หน้านี้อธิบาย JKM ในฐานะสถาบันและวิธีที่บริการเชื่อมโยงกันตลอดวงจรชีวิตทั้งหมดแทน — ตั้งแต่เด็กถึงผู้พิการถึงผู้สูงอายุ

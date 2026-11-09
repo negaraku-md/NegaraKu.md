@@ -72,6 +72,7 @@ related: []
 keywords: ["APM", "Angkatan Pertahanan Awam Malaysia", "Civil Defence Force", "JPAM", "disaster response Malaysia", "Civil Defence Act 1951", "search and rescue Malaysia", "flood relief Malaysia", "NADMA", "civil defence volunteers"]
 social:
   hashtags: ["APM", "CivilDefence", "DisasterResponse", "Malaysia", "SAR"]
+framework: profile
 ---
 
 Apabila air banjir naik di pantai timur Malaysia setiap musim tengkujuh, anggota berpakaian seragam oren yang meredah air untuk sampai kepada keluarga yang terkandas biasanya berasal daripada **APM**. **Angkatan Pertahanan Awam Malaysia** — *Angkatan Pertahanan Awam Malaysia*, atau **APM** — ialah agensi berpakaian seragam persekutuan yang bertanggungjawab ke atas pertahanan awam dan tindak balas bencana: bantuan banjir, mencari dan menyelamat, bantuan kemanusiaan dan sokongan keselamatan di acara awam besar. Ia beroperasi di bawah **Akta Pertahanan Awam 1951 (Akta 221)** dan, sejak 2015, **Jabatan Perdana Menteri**, dan ia dibina di sekitar salah satu kumpulan sukarelawan terlatih terbesar negara.

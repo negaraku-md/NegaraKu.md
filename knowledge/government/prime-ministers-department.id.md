@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "three-tiers-of-government" }
 related: ["kabinet-perdana-menteri", "yang-di-pertuan-agong", "dosm", "spr-election-commission", "three-tiers-of-government"]
 keywords: ["Jabatan Perdana Menteri", "Prime Minister's Department Malaysia", "JPM Malaysia", "Ketua Setiausaha Negara", "Chief Secretary to the Government", "Perdana Putra", "Putrajaya", "federal government department Malaysia"]
+framework: profile
 ---
 
 Malaysia tidak memiliki satu kementerian saja yang menjalankan mesin

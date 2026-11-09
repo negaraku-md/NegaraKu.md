@@ -76,6 +76,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
 related: []
 keywords: ["FAMA", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Akta 141", "pasar tani", "My Farm Outlet", "Agrobazaar", "pemasaran pertanian", "fama.gov.my"]
+framework: profile
 ---
 
 A vegetable farmer in the [Cameron Highlands](/tourism/cameron-highlands-visitor-guide) may grow the finest produce, yet the

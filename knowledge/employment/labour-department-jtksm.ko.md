@@ -85,6 +85,7 @@ entity: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM) / Department of Labou
 relations: []
 related: []
 keywords: ["JTKSM", "Jabatan Tenaga Kerja Semenanjung Malaysia", "Labour Department Malaysia", "Department of Labour Peninsular Malaysia", "pejabat buruh", "aduan buruh", "eAduan JTKSM", "how to file labour complaint Malaysia", "unpaid salary Malaysia", "Labour Court Malaysia", "Employment Act 1955", "Section 69 Employment Act", "JTK complaint", "gaji tak dibayar"]
+framework: profile
 ---
 
 고용주가 귀하의 급여를 지급하지 않았다면, 그것을 조사하고 법이 허용하는 경우 그 돈의 지급을 명령하는 것을 임무로 하는 특정 정부 기관이 있습니다 — 변호사를 선임하거나 민사 법원에 가지 않고도 말입니다. 반도 말레이시아에서 그 기관은 **JTKSM**, 즉 *Jabatan Tenaga Kerja Semenanjung Malaysia*, 또는 **반도 말레이시아 노동국(Department of Labour Peninsular Malaysia)**입니다. 이 기관은 **인적자원부(Ministry of Human Resources)** 산하에 있으며 고용법 1955와 관련 노동법을 집행합니다.

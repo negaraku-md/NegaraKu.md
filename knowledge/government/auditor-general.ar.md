@@ -79,6 +79,7 @@ keywords:
   - "تقرير المدقق العام"
   - "Auditor General Malaysia"
   - "تدقيق حسابات الحكومة"
+framework: profile
 ---
 
 في كل عام، يُعرَض تقرير ضخم في مجلس النواب (Dewan Rakyat). وهو يستعرض كيف

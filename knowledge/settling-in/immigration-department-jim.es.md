@@ -77,6 +77,7 @@ wikidata: "Q5260346"
 relations: []
 related: []
 keywords: ["Immigration Department of Malaysia", "Jabatan Imigresen Malaysia", "JIM", "imi.gov.my", "MyOnline Passport", "MDAC", "Malaysia Digital Arrival Card", "Malaysia passport renewal", "Malaysia passport fee", "10-year passport Malaysia", "Malaysia eVisa", "Malaysia visa pass permit", "Immigration Act 1959/63", "Passport Act 1966"]
+framework: profile
 ---
 
 Una sola agencia respalda casi todos los documentos que permiten a una persona cruzar la frontera de Malasia, vivir aquí o trabajar aquí. El **Departamento de Inmigración de Malasia** —*Jabatan Imigresen Malaysia* (**JIM**)— es el organismo dependiente del **Ministerio del Interior** que expide pasaportes a los ciudadanos, otorga visados y pases a los extranjeros, dota de personal cada mostrador de aeropuerto y frontera terrestre, y hace cumplir las leyes de inmigración. Presta servicio a ciudadanos malasios, residentes permanentes y visitantes extranjeros, y funciona desde el **21 July 1922**. La dificultad para los recién llegados es que sus servicios están dispersos entre varios sitios web oficiales — esta página los ordena en un mapa.

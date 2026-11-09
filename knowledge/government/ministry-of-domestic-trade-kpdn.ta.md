@@ -79,6 +79,7 @@ wikidata: "Q12689906"
 relations: []
 related: []
 keywords: ["KPDN", "Ministry of Domestic Trade and Cost of Living", "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup", "KPDN aduan", "Price Control and Anti-Profiteering Act 2011", "Akta Kawalan Harga", "Ez ADU KPDN", "TTPM tribunal tuntutan pengguna", "KPDN hotline", "kawalan harga barang", "consumer protection Malaysia", "Armizan Mohd Ali", "SSM MyIPO MyCC", "Ops Pantau KPDN"]
+framework: profile
 ---
 
 சமையல் எண்ணெய்க்கு ஒரு வியாபாரி உங்களிடம் அதிக விலை வசூலிக்கும்போது, கட்டுப்பாட்டுப் பொருள் ஒன்றை அதன் உச்சவரம்பு விலைக்கு மேல் விற்கும்போது, அல்லது குறைபாடுள்ள ஒரு பொருளை மதிக்க மறுக்கும்போது — உங்கள் சார்பாகச் செயல்படுவதைப் பணியாகக் கொண்ட மத்திய அமைப்பு **KPDN** — அதாவது **உள்நாட்டு வர்த்தகம் மற்றும் வாழ்க்கைச் செலவு அமைச்சு** (*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*). இது உள்நாட்டு வர்த்தகத்தை வளர்க்கிறது, அன்றாட அத்தியாவசியப் பொருட்களின் விலைகளைக் கட்டுக்குள் வைக்கிறது, மேலும் நுகர்வோரைப் பாதுகாக்கிறது — உண்மையான சட்டங்கள், நேரடிப் புகார் வழிகள், மற்றும் சாதாரண வாங்குவோருக்காக உருவாக்கப்பட்ட ஒரு சிறு-உரிமைகோரல் தீர்ப்பாயம் ஆகியவற்றால் ஆதரிக்கப்படுகிறது.

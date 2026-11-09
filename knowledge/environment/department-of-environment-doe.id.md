@@ -95,6 +95,7 @@ relations:
   - { rel: "compares-with", to: "swcorp" }
 related: ["environmental-impact-assessment-eia-malaysia"]
 keywords: ["Department of Environment", "DOE", "Jabatan Alam Sekitar", "JAS", "Environmental Quality Act 1974", "Act 127", "EIA Malaysia", "scheduled waste", "NRES"]
+framework: profile
 ---
 
 Jika sebuah pabrik di Malaysia mengalirkan efluen ke dalam sungai, jika sebuah jalan tol memerlukan persetujuan lingkungan sebelum pohon pertama ditebang, atau jika sebuah pabrik mengirim drum lumpur berbahaya kepada pembuang berlisensi — satu departemen federal berdiri di balik ketiganya. Mengetahui apa yang dilakukan oleh Jabatan Alam Sekitar, dan yang tak kalah penting apa yang *tidak* dilakukannya, menyelamatkan Anda dari mengetuk pintu lembaga yang salah.

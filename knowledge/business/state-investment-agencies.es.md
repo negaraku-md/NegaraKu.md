@@ -111,6 +111,7 @@ relations:
   - { rel: "compares-with", to: "investment-agency-directory" }
 related: ["economic-corridors-compared", "js-sez-guide", "ncer-guide", "ecer-guide", "sarawak-business-guide", "investment-agency-directory", "iskandar-malaysia-guide", "manufacturing-licence-malaysia"]
 keywords: ["agencia de inversión estatal malasia", "invest selangor nol", "investpenang carta de no objeción", "ncia ncer", "ecerdc", "sedia sabah", "recoda score", "irda iskandar", "investkl mida"]
+framework: explainer
 ---
 
 La agencia que todos le dicen que llame primero suele no poder aprobar lo que usted necesita. Eso no es una crítica a las agencias — así es como está construida la arquitectura. Las aprobaciones de inversión en Malasia son federales. Los estados promueven, facilitan y tienen exactamente una carta en la mano.

@@ -75,6 +75,7 @@ related: []
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department", "driving licence Malaysia", "road tax", "vehicle registration", "Road Transport Act 1987", "MyJPJ", "mySIKAP", "LKM"]
 social:
   hashtags: ["JPJ", "RoadTaxMalaysia", "DrivingLicence", "MyJPJ"]
+framework: profile
 ---
 
 Kebanyakan orang menemui **Jabatan Pengangkutan Jalan** pada satu detik sahaja — memperbaharui cukai jalan, mengambil ujian memandu, atau memindah milik kereta terpakai. Tetapi JPJ ialah jabatan yang berdiri di sebalik setiap satu transaksi itu. **Jabatan Pengangkutan Jalan** (*Jabatan Pengangkutan Jalan*, atau **JPJ**) ialah sebuah agensi di bawah **Kementerian Pengangkutan (MOT)** Malaysia. Ia mendaftarkan kenderaan bermotor dan pemandu, mengeluarkan lesen memandu, cukai jalan dan nombor pendaftaran, melesenkan kenderaan perdagangan, serta menguatkuasakan undang-undang yang mengawal cara kenderaan dan pemandu menggunakan jalan raya awam.

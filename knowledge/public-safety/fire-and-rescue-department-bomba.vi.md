@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "angkatan-pertahanan-awam" }
 related: ["pdrm"]
 keywords: ["Bomba", "JBPM", "Jabatan Bomba dan Penyelamat Malaysia", "Fire and Rescue Department", "Akta Perkhidmatan Bomba 1988", "Akta 341", "999", "MERS 999"]
+framework: profile
 ---
 
 Khi một ngôi nhà bốc cháy, một chiếc xe mắc kẹt trong lũ, hoặc một công nhân bị kẹt trong không gian kín, cùng một con số trở thành liên kết đầu tiên giữa nạn nhân và sự trợ giúp — và ở đầu dây đó, thường là Bomba. Hiểu chính xác điều gì được luật pháp trao quyền cho cục này làm rõ tại sao Bomba xuất hiện ở rất nhiều loại tình huống khẩn cấp, chứ không chỉ hỏa hoạn.

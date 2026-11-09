@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "cyber-security-act-2024" }
 related: ["cyber-security-act-2024"]
 keywords: ["NACSA", "National Cyber Security Agency", "CyberSecurity Malaysia", "MyCERT", "Cyber999", "Cyber Security Act 2024", "Act 854", "cyber security service provider licence", "Ministry of Digital", "nacsa.gov.my"]
+framework: explainer
 ---
 
 หน่วยงานรัฐบาลมาเลเซียสองหน่วยมีคำว่า "ความมั่นคงปลอดภัยไซเบอร์" อยู่ในชื่อ และผู้คนส่งเรื่องผิดไปยังหน่วยงานผิดอยู่ตลอดเวลา — คำถามเรื่องใบอนุญาตไปยังสายด่วนเหตุการณ์ การรายงานบัญชีถูกแฮ็กไปยังหน่วยงานนโยบาย ชื่อฟังดูใช้แทนกันได้ แต่งานของพวกมันไม่ใช่

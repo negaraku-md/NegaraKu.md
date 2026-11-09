@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysian-armed-forces-atm" }
 related: ["pdrm"]
 keywords: ["APMM", "MMEA", "guardacostas de Malasia", "vigilancia marítima", "búsqueda y rescate", "Zona Marítima de Malasia", "Akta APMM 2004"]
+framework: profile
 ---
 
 Cuando un remolcador se hunde en medio del Estrecho de Malaca o unos pescadores

@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "malaysia-rice-industry" }
 related: []
 keywords: ["MARDI", "recherche agricole", "agricultural research", "variétés de riz", "rice varieties", "MR 297", "KADARIA", "SMART SBB", "agriculture Malaisie", "padi"]
+framework: profile
 ---
 
 Presque chaque bol de riz local en Malaisie remonte à une variété améliorée dans une station de terrain de MARDI. Derrière le paddy, la volaille, les fruits tropicaux et les rayons d'aliments transformés du pays se trouve un institut fédéral dont le travail consiste à transformer la science en rendements plus élevés.

@@ -95,6 +95,7 @@ relations:
   - { rel: "compares-with", to: "swcorp" }
 related: ["environmental-impact-assessment-eia-malaysia"]
 keywords: ["Department of Environment", "DOE", "Jabatan Alam Sekitar", "JAS", "Environmental Quality Act 1974", "Act 127", "EIA Malaysia", "scheduled waste", "NRES"]
+framework: profile
 ---
 
 หากโรงงานในมาเลเซียปล่อยน้ำทิ้งลงแม่น้ำ หากทางหลวงต้องได้รับการอนุมัติด้านสิ่งแวดล้อมก่อนที่ต้นไม้ต้นแรกจะล้ม หรือหากโรงงานส่งถังกากตะกอนอันตรายไปยังผู้กำจัดที่ได้รับอนุญาต กรมของรัฐบาลกลางหนึ่งเดียวอยู่เบื้องหลังทั้งสามกรณี การรู้ว่ากรมสิ่งแวดล้อมทำอะไร และที่สำคัญไม่แพ้กันคือ *ไม่* ทำอะไร จะช่วยให้ท่านไม่ต้องไปเคาะประตูผิดหน่วยงาน

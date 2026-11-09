@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "attorney-general" }
 related: ["federal-constitution", "prime-ministers-department", "kabinet-perdana-menteri", "three-tiers-of-government", "auditor-general", "attorney-general"]
 keywords: ["SPA Malaysia", "Suruhanjaya Perkhidmatan Awam", "JPA Malaysia", "Jabatan Perkhidmatan Awam", "Public Services Commission Malaysia", "Public Service Department Malaysia", "Article 144 Federal Constitution", "Malaysian civil service structure", "INTAN"]
+framework: profile
 ---
 
 一名公务员在马来西亚的仕途，会经过两个大多数人从未听说过的联邦机构，而

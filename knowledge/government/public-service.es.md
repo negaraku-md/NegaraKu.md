@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "attorney-general" }
 related: ["federal-constitution", "prime-ministers-department", "kabinet-perdana-menteri", "three-tiers-of-government", "auditor-general", "attorney-general"]
 keywords: ["SPA Malaysia", "Suruhanjaya Perkhidmatan Awam", "JPA Malaysia", "Jabatan Perkhidmatan Awam", "Comisión de Servicios Públicos Malasia", "Departamento de Servicio Público Malasia", "Artículo 144 Constitución Federal", "estructura de la función pública malasia", "INTAN"]
+framework: profile
 ---
 
 La carrera de un funcionario en Malasia pasa por dos entes federales de los que la mayoría de

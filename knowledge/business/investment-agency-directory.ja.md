@@ -97,6 +97,7 @@ keywords:
   - "manufacturing licence Malaysia ICA 1975"
   - "Malaysia investment agency directory"
   - "agensi pelaburan Malaysia"
+framework: explainer
 ---
 
 外国投資家は、監督機関はひとつだけだろうと思ってやって来る。マレーシアには十数の機関があり、

@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["malaysia-plans", "dosm", "federal-budget"]
 keywords: ["Kementerian Ekonomi", "Ministry of Economy Malaysia", "وزارة الاقتصاد الماليزية", "Unit Perancang Ekonomi", "EPU", "خطة ماليزيا", "تخطيط التنمية", "DOSM", "لجنة التخطيط الإنمائي الوطنية JPPN"]
+framework: profile
 ---
 
 في كل مرة يقف فيها رئيس الوزراء في مجلس النواب (Dewan Rakyat) ليطرح خطة التنمية الخمسية للدولة، فإن تلك الوثيقة الضخمة بين يديه لا تظهر من العدم. إنها تُعدّ على مدى سنوات من قبل وزارة نادرًا ما ينتبه إليها معظم الناس — وزارة الاقتصاد. والوزارة نفسها حديثة في شكلها الحالي، رغم أن العمل الذي تؤدّيه بدأ قبل الاستقلال الكامل بزمن طويل.

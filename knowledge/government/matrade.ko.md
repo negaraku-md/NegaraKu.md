@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "investment-agency-directory" }
 related: ["mida", "miti", "investment-agency-directory"]
 keywords: ["MATRADE", "Malaysia External Trade Development Corporation", "MATRADE vs MIDA", "Malaysia export promotion agency", "Malaysia trade promotion agency", "Market Development Grant Malaysia", "MATRADE overseas offices"]
+framework: profile
 ---
 
 처음 수출하는 사람에게 어느 정부 기관이 무역박람회 부스를 담당하는지 물으면 절반쯤은 MIDA라고 답할 것입니다. MIDA는 그 일을 하지 않습니다. 그것은 MATRADE의 일이며 — 두 기관은 같은 무역 관계의 정반대 끝을 담당합니다.

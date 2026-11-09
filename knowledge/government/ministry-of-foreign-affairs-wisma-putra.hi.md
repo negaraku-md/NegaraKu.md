@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["miti", "matrade"]
 keywords: ["Wisma Putra", "Ministry of Foreign Affairs Malaysia", "मलेशिया विदेश मंत्रालय", "Kementerian Luar Negeri", "kln.gov.my", "मलेशियाई दूतावास", "कांसुलर सहायता मलेशिया", "मलेशियाई उच्चायोग", "मलेशिया विदेश नीति"]
+framework: profile
 ---
 
 जब कोई मलेशियाई विदेश में फँस जाता है, जब मलेशिया संयुक्त राष्ट्र में मतदान करता है, या जब कोई नया राजदूत किसी विदेशी राजधानी में अपना परिचय-पत्र प्रस्तुत करता है, तो इन तीनों के पीछे एक ही संस्था खड़ी होती है — Wisma Putra।

@@ -75,6 +75,7 @@ wikidata: "Q7374434"
 relations: []
 related: []
 keywords: ["RMCD", "Royal Malaysian Customs Department", "Jabatan Kastam Diraja Malaysia", "JKDM", "Kastam Malaysia", "SST Malaysia", "sales and service tax", "import duty Malaysia", "customs clearance Malaysia", "MySST", "uCustoms", "excise duty Malaysia", "service tax registration"]
+framework: profile
 ---
 
 每当你为餐厅账单缴税、办理包裹清关，或加满一辆搭载进口引擎的汽车时，这笔费用背后都有一个部门在运作：**马来西亚皇家关税局（RMCD）**——马来语称 *Jabatan Kastam Diraja Malaysia*（JKDM），一般俗称 *Kastam*。它是隶属**财政部**的政府部门，负责征收间接税、便利贸易并执行海关法律，也是全国主要的间接税征收机构。

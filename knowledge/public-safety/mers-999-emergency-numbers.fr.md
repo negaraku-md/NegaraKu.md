@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "bomba-fire-rescue-department" }
 related: ["pdrm", "fire-and-rescue-department-bomba"]
 keywords: ["999", "MERS 999", "numéro d'urgence", "SaveME 999", "ligne d'urgence", "protection civile", "ambulance"]
+framework: profile
 ---
 
 Un numéro unique — **999** — vous met en relation avec les cinq agences

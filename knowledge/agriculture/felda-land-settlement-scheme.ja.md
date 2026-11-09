@@ -89,6 +89,7 @@ relations:
   - { rel: "governs", to: "group-settlement-areas-act-1960" }
 related: []
 keywords: ["FELDA", "peneroka", "penempatan tanah", "kelapa sawit", "FGV Holdings", "Akta Tanah 1960", "kemiskinan luar bandar"]
+framework: profile
 ---
 
 貧しい家族が伐採されたばかりの森へ移り住まされ、一区画の土地と月々の手当てを与えられ、ゴムや油やしの木が実を結ぶまで何年も待つよう求められる——そんな場面を想像してほしい。これこそが、マレーシア農村部の10万を超える家族の人生を変えた申し出であり、その原動力こそがFELDAであった。

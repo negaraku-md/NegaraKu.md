@@ -89,6 +89,7 @@ relations:
   - { rel: "governs", to: "group-settlement-areas-act-1960" }
 related: []
 keywords: ["FELDA", "peneroka", "penempatan tanah", "kelapa sawit", "FGV Holdings", "Akta Tanah 1960", "kemiskinan luar bandar"]
+framework: profile
 ---
 
 Hãy hình dung một gia đình nghèo được chuyển đến một khu rừng vừa mới chặt hạ, được cấp một mảnh đất và một khoản tiền công hằng tháng, rồi được yêu cầu chờ nhiều năm cho đến khi cây cao su hoặc dầu cọ của họ cho thu hoạch. Đó là lời chào mời đã thay đổi cuộc sống của hơn 100,000 gia đình nông thôn Malaysia — và động cơ của nó là FELDA.

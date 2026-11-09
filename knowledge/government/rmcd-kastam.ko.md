@@ -118,6 +118,7 @@ relations:
   - { rel: "related-to", to: "digital-free-trade-zone" }
 related: ["lhdn", "sst-explained", "sst-registration", "sales-tax-explained", "anti-dumping-countervailing-duties"]
 keywords: ["RMCD", "Kastam", "Jabatan Kastam Diraja Malaysia", "customs duty Malaysia", "SST Customs", "excise duty Malaysia"]
+framework: profile
 ---
 
 두 기관, 하나의 부처, 그리고 첫 시도에 거의 아무도 제대로 긋지 못하는 경계선. 세금이 **국경을 넘는 물건, 공장을 나가는 상품, 또는 공급되는 서비스**에 붙으면 그것은 관세청(Kastam)입니다. 세금이 **소득, 양도차익, 또는 문서**에 붙으면 그것은 LHDN입니다.

@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "ssm" }
 related: ["federal-constitution", "imigresen", "lhdn", "ssm"]
 keywords: ["JPN", "Jabatan Pendaftaran Negara", "National Registration Department", "MyKad", "MyKid", "MyPR", "sijil kelahiran", "pendaftaran kematian", "perkahwinan sivil", "kewarganegaraan"]
+framework: profile
 ---
 
 모든 말레이시아 국민은 말을 하기 전에 개설되어 사망한 뒤에 닫히는 하나의 파일을 JPN에 가지고 있습니다. 출생증명서, MyKad, 혼인증명서, 사망증명서 — 이 모두가 동일한 부처에서 나옵니다.

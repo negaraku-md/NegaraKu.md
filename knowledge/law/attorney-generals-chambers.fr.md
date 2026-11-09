@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution"]
 keywords: ["Procureur général", "Procureur public", "Article 145", "Constitution fédérale", "Jabatan Peguam Negara", "Peguam Negara", "Pendakwa Raya", "Perkara 145", "pouvoir discrétionnaire de poursuite", "séparation des fonctions"]
+framework: profile
 ---
 
 Un seul homme peut décider si vous êtes traduit devant un tribunal pénal — ou libéré sans qu'une seule accusation ne soit portée. En Malaisie, cette personne est le Procureur général, et son pouvoir naît d'un unique article de la Constitution fédérale.

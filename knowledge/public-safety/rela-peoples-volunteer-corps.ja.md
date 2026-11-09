@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "jabatan-imigresen-malaysia" }
 related: []
 keywords: ["RELA", "Pasukan Sukarelawan Malaysia", "Ikatan Relawan Rakyat", "Akta 752", "Akta Pasukan Sukarelawan Malaysia 2012", "PATI", "sukarelawan keselamatan"]
+framework: profile
 ---
 
 集会や災害の現場で、制服を着て交通整理をする彼らを見かけたことがあるかもしれない——だが、RELAの隊員は法律上、実際に何ができて、何ができないのだろうか？

@@ -80,6 +80,7 @@ wikidata: "Q12698635"
 relations: []
 related: []
 keywords: ["MyIPO", "Intellectual Property Corporation of Malaysia", "Perbadanan Harta Intelek Malaysia", "trademark registration Malaysia", "patent registration Malaysia", "MyIPO trademark fees", "Trademarks Act 2019", "copyright Malaysia", "industrial design Malaysia", "geographical indication Malaysia", "IP registration Malaysia", "MyIPO online filing"]
+framework: profile
 ---
 
 Nếu bạn đã sáng chế ra thứ gì đó, xây dựng một thương hiệu, thiết kế một sản phẩm hoặc muốn bảo hộ một đặc sản vùng miền tại Malaysia, có một cánh cửa cho gần như tất cả — và dễ bị đưa đến sai dịch vụ bởi một trang cố bán cho bạn một dịch vụ đơn lẻ. **MyIPO**, Cục Sở hữu Trí tuệ Malaysia (tiếng Mã Lai: *Perbadanan Harta Intelek Malaysia*), là cơ quan luật định chịu trách nhiệm phát triển và quản lý toàn bộ hệ thống sở hữu trí tuệ của Malaysia. Điều đó bao trùm tài sản công nghiệp — sáng chế, nhãn hiệu, kiểu dáng công nghiệp và thiết kế bố trí mạch tích hợp — cũng như bản quyền và các quyền liên quan.

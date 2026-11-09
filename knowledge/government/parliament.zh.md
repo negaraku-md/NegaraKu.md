@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution"]
 keywords: ["马来西亚国会", "下议院", "上议院", "Dewan Rakyat", "Dewan Negara", "Parlimen Malaysia", "Malaysia legislature"]
+framework: profile
 ---
 
 ## 概览

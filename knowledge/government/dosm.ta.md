@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["gdp-overview", "inflation-cpi", "unemployment-labour-force", "external-trade"]
 keywords: ["DOSM", "Jabatan Perangkaan Malaysia", "Department of Statistics Malaysia", "OpenDOSM", "Advance Release Calendar", "Malaysia official statistics"]
+framework: profile
 ---
 
 நீங்கள் படிக்கப்போகும் கிட்டத்தட்ட ஒவ்வொரு மலேசிய பொருளாதார எண்ணும் — ஒரு

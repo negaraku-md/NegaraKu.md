@@ -86,6 +86,7 @@ keywords:
   - "kuasa budi bicara Yang di-Pertuan Agong"
   - "Perkara 40 Perlembagaan Persekutuan"
   - "raja berperlembagaan Malaysia"
+framework: profile
 ---
 
 Hầu hết các nền quân chủ trên thế giới trả lời cùng một câu hỏi theo cùng một cách: ai sẽ là vua tiếp theo? Câu trả lời thường là dòng dõi, và nhiệm kỳ thường là trọn đời.

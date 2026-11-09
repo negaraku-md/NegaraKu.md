@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "malaysia-rice-industry" }
 related: []
 keywords: ["MARDI", "agricultural research", "rice varieties", "MR 297", "KADARIA", "SMART SBB", "Malaysia agriculture", "padi"]
+framework: profile
 ---
 
 Almost every bowl of local rice in Malaysia traces back to a variety bred in a MARDI field station. Behind the country's padi, poultry, tropical fruit and processed-food shelves sits one federal institute whose job is to turn science into higher yields.

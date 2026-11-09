@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "special-needs-education" }
 related: []
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
+framework: profile
 ---
 
 படிவம் ஐந்து (Form Five) கணிதத்தைத் தீர்க்கக்கூடிய 10 வயது சிறுவர் ஒருவர் சாதாரண வகுப்பறையில் எப்போதும் தனித்து விளங்குவதில்லை — மலேசியாவில், இதுபோன்ற அறிவுத்திறன்களைத் தேடிக் கண்டறிந்து வளர்ப்பதற்காக வடிவமைக்கப்பட்ட ஒரே ஒரு தேசிய மையம் PERMATApintar ஆகும்.

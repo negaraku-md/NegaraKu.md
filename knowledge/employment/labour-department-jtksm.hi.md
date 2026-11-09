@@ -85,6 +85,7 @@ entity: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM) / Department of Labou
 relations: []
 related: []
 keywords: ["JTKSM", "Jabatan Tenaga Kerja Semenanjung Malaysia", "मलेशिया में श्रम विभाग", "Labour Department Malaysia", "Department of Labour Peninsular Malaysia", "श्रम कार्यालय", "श्रम शिकायत", "aduan buruh", "eAduan JTKSM", "मलेशिया में श्रम शिकायत कैसे दर्ज करें", "मलेशिया में अदत्त वेतन", "मलेशिया में श्रम न्यायालय", "Labour Court Malaysia", "Employment Act 1955", "Employment Act की धारा 69", "gaji tak dibayar"]
+framework: profile
 ---
 
 यदि आपके नियोक्ता ने आपका वेतन नहीं दिया है, तो एक विशिष्ट सरकारी दफ़्तर है जिसका काम जाँच करना है और, जहाँ कानून अनुमति देता है, उस धन के भुगतान का आदेश देना है — बिना किसी वकील को नियुक्त किए या दीवानी अदालत जाए। प्रायद्वीपीय मलेशिया में, वह दफ़्तर है **JTKSM**: *Jabatan Tenaga Kerja Semenanjung Malaysia*, या **प्रायद्वीपीय मलेशिया का श्रम विभाग (Department of Labour Peninsular Malaysia)**। यह **मानव संसाधन मंत्रालय** के अधीन है और Employment Act 1955 तथा संबंधित श्रम कानूनों को लागू करता है।

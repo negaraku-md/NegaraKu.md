@@ -77,6 +77,7 @@ wikidata: "Q5260346"
 relations: []
 related: []
 keywords: ["Immigration Department of Malaysia", "Jabatan Imigresen Malaysia", "JIM", "imi.gov.my", "MyOnline Passport", "MDAC", "Malaysia Digital Arrival Card", "Malaysia passport renewal", "Malaysia passport fee", "10-year passport Malaysia", "Malaysia eVisa", "Malaysia visa pass permit", "Immigration Act 1959/63", "Passport Act 1966"]
+framework: profile
 ---
 
 ஒரு நபர் மலேசியாவின் எல்லையைக் கடக்கவோ, இங்கு வாழவோ, அல்லது இங்கு வேலை செய்யவோ அனுமதிக்கும் கிட்டத்தட்ட ஒவ்வொரு ஆவணத்தின் பின்னும் ஒரே ஒரு நிறுவனம் நிற்கிறது. **மலேசிய குடிவரவுத் துறை** (Immigration Department of Malaysia) — *Jabatan Imigresen Malaysia* (**JIM**) — என்பது **உள்துறை அமைச்சின்** (Ministry of Home Affairs) கீழுள்ள அமைப்பாகும்; இது குடிமக்களுக்குக் கடவுச்சீட்டுகளை வழங்குகிறது, வெளிநாட்டினருக்கு விசாக்களையும் அனுமதிச்சீட்டுகளையும் வழங்குகிறது, ஒவ்வொரு விமான நிலையம் மற்றும் தரை-எல்லை கவுண்ட்டரிலும் பணியாளர்களை நியமிக்கிறது, மேலும் குடிவரவுச் சட்டங்களை அமல்படுத்துகிறது. இது மலேசியக் குடிமக்கள், நிரந்தரக் குடியிருப்பாளர்கள் மற்றும் வெளிநாட்டு பார்வையாளர்களுக்கு சேவை செய்கிறது, மேலும் இது **21 July 1922** முதல் இயங்கி வருகிறது. புதிதாக வருபவர்களுக்கு உள்ள சிக்கல் என்னவென்றால், அதன் சேவைகள் பல அதிகாரப்பூர்வ இணையதளங்களில் சிதறியுள்ளன — இந்தப் பக்கம் அவற்றை வரைபடமாக்குகிறது.

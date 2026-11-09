@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "jabatan-imigresen-malaysia" }
 related: []
 keywords: ["RELA", "Pasukan Sukarelawan Malaysia", "Ikatan Relawan Rakyat", "Akta 752", "Akta Pasukan Sukarelawan Malaysia 2012", "PATI", "sukarelawan keselamatan"]
+framework: profile
 ---
 
 คุณอาจเคยเห็นพวกเขาสวมเครื่องแบบควบคุมการจราจรในระหว่างการชุมนุมหรือภัยพิบัติ — แต่จริงๆ แล้วสมาชิก RELA สามารถทำและไม่สามารถทำสิ่งใดได้บ้างตามกฎหมาย?

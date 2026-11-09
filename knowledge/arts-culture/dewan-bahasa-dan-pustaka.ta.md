@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "jawi-script" }
 related: ["bahasa-melayu", "jawi-script"]
 keywords: ["dewan bahasa dan pustaka", "dbp", "bahasa melayu", "kamus dewan", "sasterawan negara", "badan berkanun"]
+framework: profile
 ---
 
 ஒரு மலாய் சொல்லின் எழுத்துக்கூட்டலைச் சரிபார்க்கும் ஒவ்வொரு முறையும், புதிய அறிவியல் சொல்லைச் சந்திக்கும்போது, அல்லது ஒரு தேசிய இலக்கியவாதியின் (Sasterawan Negara) பட்டத்தைப் படிக்கும்போது, திரைக்குப் பின்னால் ஒரு நிறுவனம் உள்ளது: Dewan Bahasa dan Pustaka.

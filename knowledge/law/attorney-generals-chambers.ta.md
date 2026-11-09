@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution"]
 keywords: ["Peguam Negara", "Pendakwa Raya", "Perkara 145", "Perlembagaan Persekutuan", "Jabatan Peguam Negara", "budi bicara pendakwaan", "pengasingan peranan"]
+framework: profile
 ---
 
 ஒரு மனிதர், நீங்கள் குற்றவியல் விசாரணைக்கு கொண்டுவரப்படுவீர்களா — அல்லது ஒரு குற்றச்சாட்டு கூட தாக்கல் செய்யப்படாமல் விடுவிக்கப்படுவீர்களா என்பதை முடிவு செய்ய முடியும். மலேசியாவில், அந்த நபர்தான் அரசு தலைமை வழக்கறிஞர்; அவரது அதிகாரம் கூட்டரசு அரசியலமைப்பின் ஒரே ஒரு விதியிலிருந்து பிறக்கிறது.

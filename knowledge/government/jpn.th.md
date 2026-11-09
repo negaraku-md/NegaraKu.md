@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "ssm" }
 related: ["federal-constitution", "imigresen", "lhdn", "ssm"]
 keywords: ["JPN", "Jabatan Pendaftaran Negara", "National Registration Department", "MyKad", "MyKid", "MyPR", "sijil kelahiran", "pendaftaran kematian", "perkahwinan sivil", "kewarganegaraan"]
+framework: profile
 ---
 
 พลเมืองมาเลเซียทุกคนมีแฟ้มหนึ่งแฟ้มที่ JPN ที่ถูกเปิดขึ้นก่อนที่เขาจะพูดได้และปิดลงหลังจากที่เขาเสียชีวิต สูติบัตร MyKad ทะเบียนสมรส มรณบัตร — ทั้งหมดออกมาจากหน่วยงานเดียวกัน

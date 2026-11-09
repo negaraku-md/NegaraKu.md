@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "bomba-fire-rescue-department" }
 related: ["pdrm", "fire-and-rescue-department-bomba"]
 keywords: ["999", "MERS 999", "nombor kecemasan", "SaveME 999", "talian kecemasan", "pertahanan awam", "ambulans"]
+framework: profile
 ---
 
 たった一つの番号——**999**——が、あなたを警察、救急車、消防、民間防衛、または海上支援のいずれが必要であっても、マレーシアの五つの緊急対応機関へつなぐ。機関ごとに別々の番号を覚える必要はない。背後のシステムが、その通報をあなたに代わって振り分けてくれる。

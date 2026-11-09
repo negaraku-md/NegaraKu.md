@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "personal-data-protection-act-malaysia" }
 related: []
 keywords: ["national ai office", "naio", "ai malaysia", "ai action plan 2026-2030", "aige", "ai governance malaysia", "ai nation 2030"]
+framework: explainer
 ---
 
 ある国が人工知能（AI）を導きたいと考えつつも、法律の成立を何年も待ちたくない場合、まず組織を立ち上げる。マレーシアはまさにそれを行った。AI法で幕を開けるのではなく、調整機関を設立し、一連の自主的な倫理原則を公表し、5か年計画を策定した——そして、その後に法令の起草に着手したのである。

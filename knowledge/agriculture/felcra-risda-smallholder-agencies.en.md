@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "mspo-palm-oil-certification" }
 related: ["felda-land-settlement-scheme", "rubber-industry"]
 keywords: ["FELCRA", "RISDA", "pekebun kecil", "penyatuan tanah", "pemulihan tanah", "tanam semula getah", "pembangunan luar bandar", "Akta 85"]
+framework: profile
 ---
 
 Two agencies rarely mentioned in the same breath, yet both touch the fortunes of hundreds of thousands of rural families: one restores idle land, the other ensures old rubber trees are replaced before smallholders' incomes dry up. That is FELCRA and RISDA.

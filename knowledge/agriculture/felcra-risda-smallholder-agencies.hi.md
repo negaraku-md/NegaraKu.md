@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "mspo-palm-oil-certification" }
 related: ["felda-land-settlement-scheme", "rubber-industry"]
 keywords: ["FELCRA", "RISDA", "लघु-धारक", "भूमि समेकन", "भूमि पुनर्वास", "रबड़ पुनर्रोपण", "ग्रामीण विकास", "Act 85", "pekebun kecil"]
+framework: profile
 ---
 
 दो एजेंसियाँ जिनका नाम शायद ही एक साथ लिया जाता है, फिर भी दोनों लाखों ग्रामीण परिवारों के भाग्य को छूती हैं: एक बेकार भूमि को बहाल करती है, दूसरी यह सुनिश्चित करती है कि पुराने रबड़ के पेड़ लघु-धारकों की आय सूखने से पहले बदल दिए जाएँ। वे हैं FELCRA और RISDA।

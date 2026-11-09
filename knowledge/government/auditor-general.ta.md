@@ -76,6 +76,7 @@ keywords:
   - "Laporan Ketua Audit Negara"
   - "Auditor General Malaysia"
   - "pengauditan kerajaan"
+framework: profile
 ---
 
 ஒவ்வொரு ஆண்டும், ஒரு அடர்த்தியான அறிக்கை மக்களவையில் (Dewan Rakyat)

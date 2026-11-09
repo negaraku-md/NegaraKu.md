@@ -97,6 +97,7 @@ keywords:
   - "manufacturing licence Malaysia ICA 1975"
   - "Malaysia investment agency directory"
   - "agensi pelaburan Malaysia"
+framework: explainer
 ---
 
 นักลงทุนต่างชาติมาถึงโดยคาดหวังหน่วยงานกำกับดูแลเพียงหน่วยงานเดียว มาเลเซียมีเป็นโหล พวกเขาไม่คุยกัน และหน่วยงานที่ทุกคนเริ่มด้วย — SSM — แทบไม่อนุมัติอะไรเลย

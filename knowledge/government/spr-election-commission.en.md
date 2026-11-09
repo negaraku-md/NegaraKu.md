@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "majlis-raja-raja" }
 related: ["three-tiers-of-government", "federal-constitution", "parliament", "dewan-rakyat", "yang-di-pertuan-agong", "majlis-raja-raja"]
 keywords: ["Suruhanjaya Pilihan Raya", "SPR", "Election Commission", "Perkara 113", "Perkara 114", "Perlembagaan Persekutuan", "persempadanan semula", "daftar pemilih", "Jadual Ketiga Belas"]
+framework: profile
 ---
 
 The body that conducts elections in Malaysia was not created by an ordinary Act, and cannot be dissolved by an ordinary Act. It is provided for directly in the Federal Constitution — and two Articles, 113 and 114, set out what it may do and who may sit on it.

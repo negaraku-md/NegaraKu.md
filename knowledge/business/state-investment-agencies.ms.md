@@ -112,6 +112,7 @@ relations:
   - { rel: "compares-with", to: "investment-agency-directory" }
 related: ["economic-corridors-compared", "js-sez-guide", "ncer-guide", "ecer-guide", "sarawak-business-guide", "investment-agency-directory", "iskandar-malaysia-guide", "manufacturing-licence-malaysia"]
 keywords: ["agensi pelaburan negeri malaysia", "invest selangor nol", "investpenang surat tiada bantahan", "ncia ncer", "ecerdc", "sedia sabah", "recoda score", "irda iskandar", "investkl mida"]
+framework: explainer
 ---
 
 Agensi yang semua orang suruh anda hubungi dahulu biasanya tidak dapat meluluskan perkara yang anda perlukan. Itu bukan kritikan terhadap agensi-agensi itu — begitulah seni bina sistem ini dibina. Kelulusan pelaburan Malaysia adalah di peringkat persekutuan. Negeri-negeri mempromosi, memudahkan, dan memegang tepat satu kad.

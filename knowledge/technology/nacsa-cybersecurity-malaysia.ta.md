@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "cyber-security-act-2024" }
 related: ["cyber-security-act-2024"]
 keywords: ["NACSA", "National Cyber Security Agency", "CyberSecurity Malaysia", "MyCERT", "Cyber999", "Cyber Security Act 2024", "Act 854", "cyber security service provider licence", "Ministry of Digital", "nacsa.gov.my"]
+framework: explainer
 ---
 
 தங்கள் பெயரில் “சைபர் பாதுகாப்பு” என்ற சொல்லைக் கொண்ட இரண்டு மலேசிய அரசு

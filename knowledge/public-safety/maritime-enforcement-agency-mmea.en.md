@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysian-armed-forces-atm" }
 related: ["pdrm"]
 keywords: ["APMM", "MMEA", "pengawal pantai Malaysia", "penguatkuasaan maritim", "carian dan menyelamat", "Zon Maritim Malaysia", "Akta APMM 2004"]
+framework: profile
 ---
 
 When a tugboat sinks in the middle of the Strait of Malacca or foreign fishermen intrude into Sabah's waters, it is a civilian agency in navy-blue uniforms that moves first — not the military. That is the Malaysian Maritime Enforcement Agency (MMEA), the nation's coast guard.

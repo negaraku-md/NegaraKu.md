@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "cyber-security-act-2024" }
 related: ["cyber-security-act-2024"]
 keywords: ["NACSA", "National Cyber Security Agency", "CyberSecurity Malaysia", "MyCERT", "Cyber999", "Cyber Security Act 2024", "Act 854", "cyber security service provider licence", "Ministry of Digital", "nacsa.gov.my"]
+framework: explainer
 ---
 
 말레이시아 정부 기구 두 곳이 이름에 "사이버보안"을 달고 있으며, 사람들은 늘 엉뚱한 곳에 엉뚱한 일을 보냅니다 — 면허 문의를 침해사고 핫라인에, 계정 해킹 신고를 정책 기관에 말입니다. 이름은 서로 바꿔 써도 될 것처럼 들립니다. 그들의 업무는 그렇지 않습니다.

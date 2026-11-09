@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "state-assemblies-dun" }
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission"]
 keywords: ["Pihak Berkuasa Tempatan", "PBT", "gouvernement local", "kerajaan tempatan", "Akta Kerajaan Tempatan 1976", "Akta 171", "conseil municipal", "Majlis Bandaraya", "conseil communal", "Majlis Perbandaran", "conseil de district", "Majlis Daerah", "Datuk Bandar", "Yang Dipertua", "conseiller", "élections du gouvernement local", "Athi Nahappan", "KPKT"]
+framework: profile
 ---
 
 Le niveau de gouvernement le plus proche de la vie quotidienne — celui qui s'occupe de la collecte des déchets, de l'éclairage public, des licences commerciales, de l'approbation des plans de construction et des taux d'évaluation — n'est ni le Gouvernement fédéral ni le Gouvernement de l'État, mais l'**Autorité locale (Pihak Berkuasa Tempatan, PBT)**. Pourtant, contrairement au [Dewan Rakyat](/government/dewan-rakyat) et à l'[Assemblée législative de l'État](/government/state-assemblies-dun), dont les membres sont choisis par voie d'élections, les membres des PBT sont aujourd'hui **désignés**, et non **élus**.

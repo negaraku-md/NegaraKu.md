@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "personal-bankruptcy-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["AKPK", "Program Pengurusan Kredit", "PPK", "DMP", "penstrukturan hutang", "kaunseling kewangan", "Bank Negara Malaysia", "hutang kad kredit"]
+framework: profile
 ---
 
 கடன் அட்டை பில், கார் தவணை மற்றும் வீட்டுக் கடன் ஆகியவை ஒவ்வொரு மாதமும் ஒரே நேரத்தில் வந்து சேர்ந்து, சம்பளம் போதாமல் போகும்போது, கடைசி வழி திவால் ஆவதுதான் என்று பல மலேசியர்கள் நினைக்கிறார்கள். உண்மையில், அதற்கு முன்பே ஒரு கதவு உள்ளது; அது முழுக்க முழுக்க இலவசம்.

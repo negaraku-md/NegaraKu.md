@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "angkatan-pertahanan-awam" }
 related: ["pdrm"]
 keywords: ["Bomba", "JBPM", "Jabatan Bomba dan Penyelamat Malaysia", "Fire and Rescue Department", "Akta Perkhidmatan Bomba 1988", "Akta 341", "999", "MERS 999"]
+framework: profile
 ---
 
 当一间房子起火、一辆汽车困于洪水，或一名工人被困于密闭空间时，同一个号码

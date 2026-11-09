@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "dewan-rakyat"]
 keywords: ["SPR", "Comisión Electoral", "Suruhanjaya Pilihan Raya", "Ley de Elecciones de 1958", "Ley de Delitos Electorales de 1954", "delimitación", "Constitución Federal", "Artículo 113", "Artículo 114"]
+framework: profile
 ---
 
 Cada vez que se disuelve el Parlamento y el país avanza hacia unas elecciones generales, el mismo órgano actúa como árbitro: la Comisión Electoral. Es quien fija la fecha, revisa los padrones electorales, gestiona el día de la nominación y el día de la votación, y declara los resultados. Sin embargo, sus poderes y límites no provienen de ningún gobierno en el poder, sino de la propia Constitución Federal.

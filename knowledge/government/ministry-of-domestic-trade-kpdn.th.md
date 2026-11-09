@@ -79,6 +79,7 @@ wikidata: "Q12689906"
 relations: []
 related: []
 keywords: ["KPDN", "Ministry of Domestic Trade and Cost of Living", "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup", "KPDN aduan", "Price Control and Anti-Profiteering Act 2011", "Akta Kawalan Harga", "Ez ADU KPDN", "TTPM tribunal tuntutan pengguna", "KPDN hotline", "kawalan harga barang", "consumer protection Malaysia", "Armizan Mohd Ali", "SSM MyIPO MyCC", "Ops Pantau KPDN"]
+framework: profile
 ---
 
 เมื่อพ่อค้าเรียกเก็บเงินค่าน้ำมันปรุงอาหารจากคุณเกินราคา ขายสินค้าควบคุมเกินเพดานราคา หรือปฏิเสธที่จะรับผิดชอบสินค้าที่ชำรุด หน่วยงานระดับสหพันธ์ที่มีหน้าที่ดำเนินการแทนคุณคือ **KPDN** — **กระทรวงการค้าภายในประเทศและค่าครองชีพ** (*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*) กระทรวงนี้พัฒนาการค้าภายในประเทศ ควบคุมราคาสินค้าจำเป็นในชีวิตประจำวัน และคุ้มครองผู้บริโภค โดยมีกฎหมายจริง ช่องทางร้องเรียนที่ใช้งานได้ และศาลเรียกร้องขนาดเล็กที่สร้างขึ้นสำหรับผู้ซื้อทั่วไปเป็นตัวหนุน

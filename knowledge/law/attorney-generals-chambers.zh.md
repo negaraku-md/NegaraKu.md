@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution"]
 keywords: ["Peguam Negara", "Pendakwa Raya", "Perkara 145", "Perlembagaan Persekutuan", "Jabatan Peguam Negara", "budi bicara pendakwaan", "pengasingan peranan"]
+framework: profile
 ---
 
 一个人可以决定你是否会被带上刑事法庭受审——或者在连一项控状都未提交的情况下被释放。在马来西亚，这个人就是总检察长，而他的权力源自《联邦宪法》中的一条单一条文。

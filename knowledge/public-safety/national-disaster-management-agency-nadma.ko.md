@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "malaysia-civil-defence-force-apm" }
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "pengurusan bencana", "Arahan NADMA No. 1", "Arahan MKN 20", "banjir", "SMART", "Jabatan Perdana Menteri"]
+framework: profile
 ---
 
 대규모 홍수가 여러 주를 동시에 덮칠 때, 군·소방·경찰·자원봉사자를 하나의 지휘 아래 조정하는 버튼을 누르는 것은 누구입니까? 말레이시아에서 그 답은 NADMA입니다.

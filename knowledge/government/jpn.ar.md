@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "ssm" }
 related: ["federal-constitution", "imigresen", "lhdn", "ssm"]
 keywords: ["JPN", "Jabatan Pendaftaran Negara", "National Registration Department", "دائرة التسجيل الوطني", "MyKad", "MyKid", "MyPR", "شهادة الميلاد", "تسجيل الوفاة", "الزواج المدني", "المواطنة"]
+framework: profile
 ---
 
 لكلّ مواطن ماليزي ملفّ لدى JPN يُفتَح قبل أن يستطيع الكلام ويُغلَق بعد أن يتوفّى.

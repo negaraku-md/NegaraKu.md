@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "three-tiers-of-government" }
 related: ["kabinet-perdana-menteri", "yang-di-pertuan-agong", "dosm", "spr-election-commission", "three-tiers-of-government"]
 keywords: ["Jabatan Perdana Menteri", "Prime Minister's Department Malaysia", "JPM Malaysia", "Ketua Setiausaha Negara", "Chief Secretary to the Government", "Perdana Putra", "Putrajaya", "federal government department Malaysia"]
+framework: profile
 ---
 
 马来西亚并没有单一一个部来运作国家日常的政策机器。它有的是一个部门——而

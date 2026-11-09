@@ -75,6 +75,7 @@ wikidata: "Q7354460"
 relations: []
 related: []
 keywords: ["Jabatan Warisan Negara", "JWN", "Department of National Heritage", "National Heritage Act 2005", "Act 645", "Warisan Kebangsaan", "National Heritage Register", "Commissioner of Heritage", "heritage.gov.my", "MOTAC", "gazette national heritage Malaysia", "Daftar Warisan Kebangsaan", "Warisan Orang Hidup"]
+framework: profile
 ---
 
 Cuando una casa-tienda (shophouse) de George Town recibe una orden de protección, o cuando se honra como tesoro viviente a un bailarín de *[mak yong](/arts-culture/mak-yong)*, hay un único organismo federal detrás de la decisión: el **Departamento del Patrimonio Nacional** —*Jabatan Warisan Negara* (**JWN**)—. Establecido el **1 de marzo de 2006**, el JWN identifica, conserva, declara en la Gaceta y protege el patrimonio de Malasia, y opera bajo el **Ministerio de Turismo, Artes y Cultura (MOTAC)**. Su visión declarada es liderar la exploración y la preservación de los tesoros patrimoniales para forjar la identidad nacional e impulsar la economía nacional.

@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "capital-markets-and-services-act-2007" }
 related: ["bursa-malaysia", "bank-negara-malaysia"]
 keywords: ["securities commission malaysia", "SC Malaysia", "capital market regulator", "CMSA 2007", "Securities Commission Act 1993", "equity crowdfunding", "P2P financing"]
+framework: profile
 ---
 
 Lorsque vous achetez un fonds de placement collectif, investissez via une plateforme de financement participatif en capital ou négociez une action sur Bursa Malaysia, un seul organisme fixe les règles derrière tout cela : la Securities Commission Malaysia. C'est l'unique gardien statutaire du marché des capitaux du pays — et savoir exactement où commence et où s'arrête son autorité épargne beaucoup de confusion.

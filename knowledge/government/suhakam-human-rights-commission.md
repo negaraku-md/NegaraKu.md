@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "kehakiman-mahkamah" }
 related: ["federal-constitution", "parliament", "kehakiman-mahkamah", "attorney-general"]
 keywords: ["SUHAKAM", "Suruhanjaya Hak Asasi Manusia Malaysia", "Human Rights Commission of Malaysia", "Akta 597", "hak asasi manusia", "aduan hak asasi", "Prinsip Paris", "taraf A GANHRI", "tempat tahanan", "Perlembagaan Persekutuan"]
+framework: profile
 ---
 
 Apabila seseorang menghantar aduan pencabulan hak asasi kepada SUHAKAM, apa

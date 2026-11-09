@@ -94,6 +94,7 @@ relations:
   - { rel: "governs", to: "statutory-audit-process" }
 related: ["appointing-an-auditor", "audit-opinion-types", "changing-auditors"]
 keywords: ["Audit Oversight Board", "AOB", "public interest entity", "PIE auditor registration", "Securities Commission Malaysia", "Part IIIA SCMA", "schedule fund", "EQCR", "auditor oversight Malaysia"]
+framework: profile
 ---
 
 通过财政部长的审计执照并加入 MIA，仍不能让你在马来西亚交易所（Bursa）上市公司的账目上签字。资本市场审计还有一项额外要求——向审计监督委员会注册——这只有公众利益实体和附表基金的审计师才需要满足。

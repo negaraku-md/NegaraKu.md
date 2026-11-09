@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "malaysia-civil-defence-force-apm" }
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "pengurusan bencana", "Arahan NADMA No. 1", "Arahan MKN 20", "banjir", "SMART", "Jabatan Perdana Menteri"]
+framework: profile
 ---
 
 大規模な洪水が複数の州を同時に襲ったとき、軍・消防・警察・ボランティアを一つの指令のもとで調整するボタンを押すのは誰か？マレーシアでは、その答えがNADMAである。

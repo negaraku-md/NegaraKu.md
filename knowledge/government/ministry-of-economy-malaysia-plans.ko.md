@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["malaysia-plans", "dosm", "federal-budget"]
 keywords: ["Kementerian Ekonomi", "Ministry of Economy Malaysia", "Unit Perancang Ekonomi", "EPU", "Rancangan Malaysia", "perancangan pembangunan", "DOSM", "Jawatankuasa Perancang Pembangunan Negara"]
+framework: profile
 ---
 
 총리가 국가의 5개년 개발 계획을 상정하려고 하원(Dewan Rakyat)에 설 때마다, 그 손에 든 두툼한 문서는 그냥 나타나는 것이 아닙니다. 그것은 대부분의 국민이 좀처럼 눈여겨보지 않는 한 부처 — 경제부 — 가 여러 해에 걸쳐 편성한 것입니다. 그리고 그 부처 자체는 현재의 형태로는 새롭지만, 그것이 하는 일은 완전한 독립 이전부터 시작되었습니다.

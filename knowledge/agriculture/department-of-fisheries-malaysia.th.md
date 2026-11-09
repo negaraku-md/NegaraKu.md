@@ -76,6 +76,7 @@ wikidata: "Q113542338"
 relations: []
 related: []
 keywords: ["Department of Fisheries Malaysia", "DOF", "Jabatan Perikanan Malaysia", "Fisheries Act 1985", "fishing licence Malaysia", "aquaculture Malaysia", "dof.gov.my", "fisheries statistics Malaysia", "fishing zones Malaysia", "Director-General of Fisheries"]
+framework: profile
 ---
 
 เรือทุกลำที่ทอดแหอย่างถูกกฎหมายในน่านน้ำมาเลเซีย ท้ายที่สุดแล้วต้องขึ้นตรงต่อหน่วยงานเดียว **กรมประมงมาเลเซีย (Department of Fisheries Malaysia, DOF)** — *Jabatan Perikanan Malaysia* — คือหน่วยงานระดับสหพันธรัฐที่บริหารจัดการทรัพยากรทางทะเลและการเพาะเลี้ยงสัตว์น้ำของประเทศ และออกใบอนุญาตกิจกรรมการประมงทั้งหมด กรมนี้ดำเนินงานภายใต้ **กระทรวงเกษตรและความมั่นคงทางอาหาร (MAFS)** บังคับใช้ **พระราชบัญญัติการประมง (Fisheries Act 1985, Act 317)** และมี **อธิบดีกรมประมง (Director-General of Fisheries)** เป็นผู้นำ สำนักงานใหญ่ตั้งอยู่ที่ Wisma Tani เมืองปุตราจายา (Putrajaya) โดยมีเครือข่ายสำนักงานระดับรัฐและระดับอำเภอสนับสนุน

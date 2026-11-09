@@ -72,6 +72,7 @@ relations:
   - { rel: "governs", to: "akta-pertahanan-awam-1951" }
 related: []
 keywords: ["APM", "JPAM", "قوة الدفاع المدني الماليزية", "الدفاع المدني", "المساعدة الطارئة", "PASPA", "Akta 221", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "sukarelawan pertahanan awam"]
+framework: profile
 ---
 
 حين يضرب فيضان كبير أو ينهار مبنى، كثيرًا ما يكون أحد أوائل الفرق وصولاً بالقوارب والحبال ومعدات الإنقاذ فريقًا يرتدي زي APM البرتقالي. فقوة الدفاع المدني الماليزية (APM) هي العمود الفقري للإغاثة الإنسانية في البلاد — حاضرةٌ قبل الكارثة وأثناءها وبعدها.

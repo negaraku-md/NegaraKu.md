@@ -128,6 +128,7 @@ relations:
   - { rel: "explained-in", to: "how-a-bill-becomes-law" }
 related: ["lhdn", "rmcd-kastam", "dewan-rakyat", "auditor-general", "how-a-bill-becomes-law"]
 keywords: ["Kementerian Kewangan Malaysia", "Ministry of Finance Malaysia", "وزارة المالية الماليزية", "Perbendaharaan", "الخزانة الماليزية", "Belanjawan", "الميزانية الاتحادية", "Act 850", "الدين الاتحادي", "الأمين العام للخزانة"]
+framework: profile
 ---
 
 كل رينغيت تُنفقه الحكومة الاتحادية — من راتب ممرضة في مستشفى مقاطعة إلى فائدة تُدفَع لحمَلة السندات في لندن — يمرّ عبر البوابة المحاسبية ذاتها: الخزانة الماليزية. ووزارة المالية هي الوزارة التي تُمسك بتلك البوابة، ومنذ مطلع 2024 باتت تُمسك بها في ظل مجموعة من الحدود الرقمية المُكرّسة في القانون.

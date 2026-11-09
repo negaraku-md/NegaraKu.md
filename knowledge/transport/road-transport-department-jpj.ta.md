@@ -73,6 +73,7 @@ wikidata: "Q6742016"
 relations: []
 related: []
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department Malaysia", "MyJPJ", "road tax renewal", "driving licence renewal", "e-LKM", "e-LMM", "MySIKAP", "JPJeBid", "Road Transport Act 1987", "KEJARA demerit points", "cukai jalan", "lesen memandu"]
+framework: profile
 ---
 
 மலேசியாவில் செலுத்தப்படும் ஒவ்வொரு சாலை வரியும், வழங்கப்படும் ஒவ்வொரு வாகன எண் தகடும், கொண்டு செல்லப்படும் ஒவ்வொரு ஓட்டுநர் உரிமமும் ஒரே ஒரு நிறுவனத்தின் வழியாகவே செல்கிறது: **சாலை போக்குவரத்து துறை** — *Jabatan Pengangkutan Jalan*, எங்கும் அதன் சுருக்கெழுத்தான **JPJ** என்றே அறியப்படுகிறது. இது **போக்குவரத்து அமைச்சின்** (Ministry of Transport) தரைப் பிரிவின் கீழ் இயங்குகிறது; வாகனங்களைப் பதிவு செய்தல், ஓட்டுநர் உரிமங்களையும் வாகன எண் தகடுகளையும் வழங்குதல், மற்றும் விவேகமான ஓட்டுநர்களையும் பாதுகாப்பான வாகனங்களையும் உறுதிப்படுத்த Road Transport Act 1987 ஐ அமல்படுத்துதல் ஆகியவற்றுக்குப் பொறுப்பான துறையாகும்.

@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "digital-free-trade-zone" }
 related: ["lhdn", "sst-explained", "sst-registration", "sales-tax-explained", "anti-dumping-countervailing-duties"]
 keywords: ["RMCD", "Kastam", "Jabatan Kastam Diraja Malaysia", "customs duty Malaysia", "SST Customs", "excise duty Malaysia"]
+framework: profile
 ---
 
 สองหน่วยงาน หนึ่งกระทรวง และเส้นแบ่งที่แทบไม่มีใครขีดถูกในครั้งแรก หากภาษีติดกับ **สิ่งที่ข้ามชายแดน สินค้าที่ออกจากโรงงาน หรือบริการที่ให้** นั่นคือศุลกากร หากติดกับ **รายได้ กำไร หรือเอกสาร** นั่นคือ LHDN

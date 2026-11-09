@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "personal-bankruptcy-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["AKPK", "Programa de Gestión de Deuda", "Program Pengurusan Kredit", "PPK", "DMP", "reestructuración de deuda", "asesoramiento financiero", "Bank Negara Malaysia", "deuda de tarjeta de crédito"]
+framework: profile
 ---
 
 Cuando la factura de la tarjeta de crédito, la cuota del coche y el préstamo de vivienda vencen todos en el mismo mes y el salario no alcanza, muchos malasios suponen que el último recurso es la quiebra. En realidad hay una puerta anterior, y es completamente gratuita.

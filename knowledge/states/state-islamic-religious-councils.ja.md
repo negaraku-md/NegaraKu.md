@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "syariah-courts-malaysia" }
 related: ["waqf-islamic-endowment-malaysia", "federal-constitution"]
 keywords: ["Majlis Agama Islam Negeri", "MAIN", "zakat", "wakaf", "fatwa", "Perkara 3", "Senarai Negeri", "pentadbiran Islam"]
+framework: profile
 ---
 
 あなたの州でザカート、宗教寄進（wakaf）、モスクを管理しているのは誰かと問えば、答えはプトラジャヤのどこかの省庁ではない——その州自体の統治者に対して責任を負う、州の法定機関である。その機関が州イスラム宗教評議会（Majlis Agama Islam Negeri、MAIN）であり、それが各州に存在するのは、一つの憲法上の原則に由来する。すなわち、イスラム教事務は連邦の事項ではなく、州の事項であるということである。

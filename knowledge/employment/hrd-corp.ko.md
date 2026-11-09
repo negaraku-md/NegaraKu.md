@@ -72,6 +72,7 @@ wikidata: "Q113541603"
 relations: []
 related: []
 keywords: ["HRD Corp", "HRDF", "HRD levy", "Pembangunan Sumber Manusia Berhad", "PSMB Act 2001", "HRDF registration", "HRD Corp claim", "HRD levy 1%", "HRD Corp claimable courses", "human resource development fund Malaysia", "HRDF levy calculation", "Akta 612"]
+framework: profile
 ---
 
 귀사가 말레이시아 급여를 운영한다면, 급여 명세 원장의 한 줄에 **HRD Corp에 대한 1% 부담금**이 표시될 수 있습니다 — 그리고 EPF나 SOCSO와 달리, 그것은 근로자에게 지급되는 급부가 아닙니다. 그것은 *고용주*가 납입한 뒤 다시 청구하는 훈련 예산입니다. 그 순환 구조를 이해하는 것이 부담금을 세금으로 취급하는 것과 본래 의도대로 활용하는 것의 차이입니다.

@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["Majlis Raja-Raja", "Conference of Rulers", "Perkara 38 Perlembagaan Persekutuan", "Jadual Kelima", "pemilihan Yang di-Pertuan Agong", "Penyimpan Mohor Besar Raja-Raja"]
+framework: profile
 ---
 
 联邦宪法中有一份很少被提及的简短清单：国会不能单独通过的事项清单。对这些事项而言，仅在下议院（Dewan Rakyat）与上议院（Dewan Negara）取得三分之二多数票并不足够。还须获得另一个机构的同意——那个机构就是统治者会议。

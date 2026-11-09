@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "special-needs-education" }
 related: []
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
+framework: profile
 ---
 
 一个能解出中五数学的10岁孩子，在普通课堂里未必能崭露头角——而在马来西亚，唯一为发掘和磨砺这类心智而设的国家中心，就是PERMATApintar。

@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "malaysian-accounting-standards-board" }
 related: []
 keywords: ["MIA", "Institut Akauntan Malaysia", "Akta Akauntan 1967", "Chartered Accountant Malaysia", "CA(M)", "sijil amalan", "lesen audit"]
+framework: profile
 ---
 
 Hãy tự gọi mình là «kế toán viên» tại Malaysia mà không đăng ký với một cơ quan cụ thể, và bạn thực sự đang phạm một tội hình sự. Cơ quan đó là Viện Kế toán Malaysia — MIA — và nó nắm giữ quyền duy nhất để xác định ai đủ điều kiện được coi là một kế toán viên ở nước này.

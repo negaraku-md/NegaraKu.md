@@ -76,6 +76,7 @@ wikidata: "Q113542338"
 relations: []
 related: []
 keywords: ["Department of Fisheries Malaysia", "DOF", "Jabatan Perikanan Malaysia", "Fisheries Act 1985", "fishing licence Malaysia", "aquaculture Malaysia", "dof.gov.my", "fisheries statistics Malaysia", "fishing zones Malaysia", "Director-General of Fisheries"]
+framework: profile
 ---
 
 Setiap perahu yang menebar pukat secara sah di perairan Malaysia pada akhirnya bertanggung jawab kepada satu lembaga. **Departemen Perikanan Malaysia (DOF)** — *Department of Fisheries Malaysia* — adalah badan federal yang mengelola sumber daya laut dan akuakultur negara serta melisensikan semua aktivitas perikanan. Ia beroperasi di bawah **Kementerian Pertanian dan Ketahanan Pangan (MAFS)**, mengelola **Akta Perikanan 1985 (Akta 317)**, dan dipimpin oleh **Direktur Jenderal Perikanan**. Kantor pusatnya terletak di Wisma Tani, Putrajaya, didukung oleh jaringan kantor negara bagian dan daerah.

@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "malaysia-rice-industry" }
 related: []
 keywords: ["MARDI", "investigación agrícola", "agricultural research", "variedades de arroz", "rice varieties", "MR 297", "KADARIA", "SMART SBB", "agricultura Malasia", "padi"]
+framework: profile
 ---
 
 Casi cada tazón de arroz local en Malasia se remonta a una variedad mejorada en una estación de campo de MARDI. Detrás del arroz paddy, las aves de corral, la fruta tropical y los estantes de alimentos procesados del país se encuentra un instituto federal cuyo trabajo es convertir la ciencia en mayores rendimientos.

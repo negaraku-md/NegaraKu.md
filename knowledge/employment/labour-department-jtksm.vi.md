@@ -85,6 +85,7 @@ entity: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM) / Department of Labou
 relations: []
 related: []
 keywords: ["JTKSM", "Jabatan Tenaga Kerja Semenanjung Malaysia", "Labour Department Malaysia", "Department of Labour Peninsular Malaysia", "pejabat buruh", "aduan buruh", "eAduan JTKSM", "how to file labour complaint Malaysia", "unpaid salary Malaysia", "Labour Court Malaysia", "Employment Act 1955", "Section 69 Employment Act", "JTK complaint", "gaji tak dibayar"]
+framework: profile
 ---
 
 Nếu người sử dụng lao động của bạn chưa trả lương cho bạn, có một cơ quan chính phủ cụ thể mà công việc của nó là điều tra và, khi luật cho phép, ra lệnh trả số tiền đó — mà không cần bạn thuê luật sư hay ra tòa dân sự. Tại Bán đảo Malaysia, cơ quan đó là **JTKSM**: *Jabatan Tenaga Kerja Semenanjung Malaysia*, hay **Cục Lao động Bán đảo Malaysia (Department of Labour Peninsular Malaysia)**. Nó nằm dưới **Bộ Nhân lực (Ministry of Human Resources)** và thi hành Employment Act 1955 cùng các luật lao động liên quan.

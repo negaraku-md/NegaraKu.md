@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "personal-data-protection-act-malaysia" }
 related: []
 keywords: ["office national de l'ia malaisie", "national ai office", "naio", "ai malaysia", "plan d'action ia 2026-2030", "aige", "gouvernance de l'ia malaisie", "ai nation 2030"]
+framework: explainer
 ---
 
 Lorsqu'un pays veut piloter l'intelligence artificielle sans attendre des années l'adoption d'une loi, il commence par créer un bureau. La Malaisie a fait exactement cela : au lieu de débuter par une loi sur l'IA, elle a mis sur pied une agence de coordination, publié un ensemble de principes éthiques volontaires et rédigé un plan quinquennal — puis a commencé à élaborer la loi.

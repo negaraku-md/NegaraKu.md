@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "majlis-raja-raja" }
 related: ["three-tiers-of-government", "federal-constitution", "parliament", "dewan-rakyat", "yang-di-pertuan-agong", "majlis-raja-raja"]
 keywords: ["Suruhanjaya Pilihan Raya", "SPR", "Election Commission", "Perkara 113", "Perkara 114", "Perlembagaan Persekutuan", "persempadanan semula", "daftar pemilih", "Jadual Ketiga Belas"]
+framework: profile
 ---
 
 องค์กรที่ดำเนินการเลือกตั้งในมาเลเซียมิได้ถูกจัดตั้งขึ้นโดยพระราชบัญญัติธรรมดา และไม่อาจถูกยุบโดยพระราชบัญญัติธรรมดา แต่บัญญัติไว้โดยตรงในรัฐธรรมนูญสหพันธ์ — และสองมาตรา คือ 113 และ 114 กำหนดว่าองค์กรนี้ทำอะไรได้และใครเป็นสมาชิกได้

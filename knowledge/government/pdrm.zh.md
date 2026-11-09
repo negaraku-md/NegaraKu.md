@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "kehakiman-mahkamah" }
 related: ["federal-constitution", "macc-sprm", "kehakiman-mahkamah", "imigresen", "yang-di-pertuan-agong"]
 keywords: ["PDRM", "Polis Diraja Malaysia", "Royal Malaysia Police", "Akta Polis 1967", "Akta 344", "Ketua Polis Negara", "Inspector General of Police", "Suruhanjaya Pasukan Polis", "Perkara 140"]
+framework: profile
 ---
 
 多数关于PDRM的介绍，止步于「国家警察部队」这一说法。更有用的问题应该更加

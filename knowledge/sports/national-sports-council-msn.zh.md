@@ -67,6 +67,7 @@ wikidata: "Q97208190"
 relations: []
 related: []
 keywords: ["Majlis Sukan Negara", "MSN", "National Sports Council of Malaysia", "NSC Malaysia", "MSN Bukit Jalil", "Akta Majlis Sukan Negara 1971", "Institut Sukan Negara", "ISN", "Kompleks Sukan Negara Bukit Jalil", "Majlis Sukan Negeri", "Kementerian Belia dan Sukan", "MSN atlet", "pembangunan sukan Malaysia"]
+framework: profile
 ---
 
 当一名马来西亚短跑选手站上奥运起跑线，或一名年轻足球员被相中选入国家队时，在他们身后始终有一个政府机构支撑着让他们走到这一步的训练、教练与设施：这就是**马来西亚国家体育理事会**，马来语称为 **Majlis Sukan Negara（MSN）**。它是将国家体育政策转化为实际运动员的法定机构。

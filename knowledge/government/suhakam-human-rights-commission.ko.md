@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "kehakiman-mahkamah" }
 related: ["federal-constitution", "parliament", "kehakiman-mahkamah", "attorney-general"]
 keywords: ["SUHAKAM", "Suruhanjaya Hak Asasi Manusia Malaysia", "Human Rights Commission of Malaysia", "Akta 597", "hak asasi manusia", "aduan hak asasi", "Prinsip Paris", "taraf A GANHRI", "tempat tahanan", "Perlembagaan Persekutuan"]
+framework: profile
 ---
 
 누군가가 인권 침해 진정을 SUHAKAM에 보낼 때, 그 위원회가 실제로 무엇을 할 수 있고 무엇을 할 수 없는가? 그 답은 수사(修辭)가 아니라 — 정확히 네 기능, 한 줄의 조사 권한, 그리고 넘을 수 없는 몇 개의 붉은 선을 정하는 간결한 1999년 법에 있습니다.

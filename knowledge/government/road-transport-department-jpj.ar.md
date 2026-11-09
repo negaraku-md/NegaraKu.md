@@ -75,6 +75,7 @@ related: []
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department", "driving licence Malaysia", "road tax", "vehicle registration", "Road Transport Act 1987", "MyJPJ", "mySIKAP", "LKM"]
 social:
   hashtags: ["JPJ", "RoadTaxMalaysia", "DrivingLicence", "MyJPJ"]
+framework: profile
 ---
 
 يلتقي معظم الناس **دائرة النقل البري** في لحظةٍ واحدة — عند تجديد ضريبة الطريق، أو أداء اختبار القيادة، أو نقل ملكية سيارة مستعملة. لكن JPJ هي الدائرة التي تقف خلف كل واحدة من تلك المعاملات. فـ**دائرة النقل البري** (*Jabatan Pengangkutan Jalan*، أو **JPJ**) جهاز تابع لـ**وزارة النقل (MOT)** الماليزية. تسجّل المركبات الآلية والسائقين، وتصدر رخص القيادة وضريبة الطريق ولوحات الأرقام، وترخّص المركبات التجارية، وتنفّذ القوانين التي تحكم كيفية استعمال المركبات والسائقين للطرق العامة.

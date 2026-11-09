@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "personal-bankruptcy-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["AKPK", "Program Pengurusan Kredit", "PPK", "DMP", "penstrukturan hutang", "kaunseling kewangan", "Bank Negara Malaysia", "hutang kad kredit"]
+framework: profile
 ---
 
 クレジットカードの請求書、自動車の分割払い、住宅ローンが毎月同時に押し寄せ、給料が足りなくなると、多くのマレーシア人は最後の選択肢は破産しかないと思い込みます。しかし実際には、もっと早い段階の扉があり、しかもそれは完全に無料です。

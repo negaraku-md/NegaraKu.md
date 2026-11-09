@@ -80,6 +80,7 @@ relations:
   - { rel: "part-of", to: "company-secretary" }
 related: ["company-secretary-qualification", "appoint-company-secretary", "ssm"]
 keywords: ["MAICSA", "أمناء السر المعتمدون في ماليزيا", "Chartered Secretaries Malaysia", "المعهد الماليزي لأمناء السر والإداريين المعتمدين", "Malaysian Institute of Chartered Secretaries and Administrators", "عضوية MAICSA أمين سر الشركة", "MAICSA membership company secretary", "الجدول الرابع قانون الشركات 2016 الهيئات المعتمدة", "Fourth Schedule Companies Act 2016 approved bodies"]
+framework: profile
 ---
 
 MAICSA هي الهيئة التي يذكرها معظم الماليزيين حين يُسألون عمَّن يكون أمناء سر

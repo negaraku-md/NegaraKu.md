@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "kehakiman-mahkamah" }
 related: ["federal-constitution", "parliament", "kehakiman-mahkamah", "attorney-general"]
 keywords: ["SUHAKAM", "Comisión de Derechos Humanos de Malasia", "Suruhanjaya Hak Asasi Manusia Malaysia", "Human Rights Commission of Malaysia", "Ley 597", "Akta 597", "derechos humanos", "queja de derechos humanos", "Principios de París", "estatus A de GANHRI", "lugar de detención", "Constitución Federal"]
+framework: profile
 ---
 
 Cuando alguien presenta una queja de violación de derechos humanos ante SUHAKAM,

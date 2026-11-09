@@ -86,6 +86,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 사기에서 가장 끔찍한 순간은 그것이 사기였음을 막 깨달은 직후입니다 — 돈이 계좌를 떠났는데 무엇을 해야 할지, 누구에게 전화해야 할지 모를 때 말입니다. 말레이시아에는 그 질문에 대한 단 하나의 답이 있습니다. **997로 전화하세요.** 그 번호는 **국가사기대응센터(NSRC)**로 연결되며, 빨리 전화하는 것이 말 그대로 돈을 되찾을 가장 좋은 기회입니다.

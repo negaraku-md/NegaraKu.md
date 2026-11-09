@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "personal-bankruptcy-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["AKPK", "Program Pengurusan Kredit", "PPK", "DMP", "penstrukturan hutang", "kaunseling kewangan", "Bank Negara Malaysia", "hutang kad kredit"]
+framework: profile
 ---
 
 Khi hóa đơn thẻ tín dụng, khoản trả góp xe và khoản vay nhà ở cùng đến một lúc mỗi tháng và tiền lương không đủ, nhiều người Malaysia tưởng lựa chọn cuối cùng chỉ là phá sản. Thực ra có một cánh cửa sớm hơn, và nó hoàn toàn miễn phí.

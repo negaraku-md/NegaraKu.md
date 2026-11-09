@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["epf-as-investor", "khazanah", "pnb", "bursa-malaysia"]
 keywords: ["KWSP", "EPF", "fonds de retraite", "investisseur institutionnel", "dividende KWSP", "Akta KWSP 1991", "epargne des employes"]
+framework: profile
 ---
 
 Chaque fois qu'un travailleur du secteur privé en Malaisie reçoit une fiche de paie, une partie de ses revenus afflue vers une seule institution qui détient désormais plus de RM1.25 billion. Cette institution est l'Employees Provident Fund, ou EPF.

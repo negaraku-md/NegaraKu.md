@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "angkatan-pertahanan-awam" }
 related: ["pdrm"]
 keywords: ["Bomba", "JBPM", "Jabatan Bomba dan Penyelamat Malaysia", "Fire and Rescue Department", "Akta Perkhidmatan Bomba 1988", "Akta 341", "999", "MERS 999"]
+framework: profile
 ---
 
 ஒரு வீடு தீப்பிடிக்கும்போது, ஒரு கார் வெள்ளத்தில் சிக்கிக்கொள்ளும்போது,

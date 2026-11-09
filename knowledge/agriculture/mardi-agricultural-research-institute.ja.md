@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "malaysia-rice-industry" }
 related: []
 keywords: ["MARDI", "agricultural research", "rice varieties", "MR 297", "KADARIA", "SMART SBB", "Malaysia agriculture", "padi"]
+framework: profile
 ---
 
 マレーシアで供される地元産の米は、そのほぼすべてがMARDIの試験場で育種された品種にたどり着く。この国の水稲、養鶏、熱帯果実、そして加工食品の棚の背後には、科学をより高い収量へと変える一つの連邦研究機関が控えている。

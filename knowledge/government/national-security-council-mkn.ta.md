@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: ["federal-constitution", "yang-di-pertuan-agong"]
 keywords: ["Majlis Keselamatan Negara", "MKN", "Akta 776", "kawasan keselamatan", "Perkara 150", "darurat", "kuasa keselamatan negara"]
+framework: profile
 ---
 
 மலேசிய அரசாங்கம் ஒரு பாதுகாப்பு அச்சுறுத்தலுக்கு விரைவாகப் பதிலளிக்க வேண்டியிருக்கும்போது, வெவ்வேறு இரு சட்டக் கட்டமைப்புகள் அடிக்கடி ஒரே மூச்சில் குறிப்பிடப்படுகின்றன: தேசியப் பாதுகாப்பு மன்றம் (National Security Council, MKN) மற்றும் அரசியலமைப்பு அவசரகால அதிகாரங்கள். இரண்டும் தேசியப் பாதுகாப்புடன் தொடர்புடையவை, ஆனால் அவை வெவ்வேறு சட்ட மூலங்களிலிருந்து எழுகின்றன, வெவ்வேறு நிபந்தனைகளைக் கொண்டுள்ளன. இக்கட்டுரை இரண்டையும் நடுநிலையாக, சட்ட வாசகத்தின் அடிப்படையில் விளக்குகிறது.

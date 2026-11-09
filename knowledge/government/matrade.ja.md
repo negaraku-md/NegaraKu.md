@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "investment-agency-directory" }
 related: ["mida", "miti", "investment-agency-directory"]
 keywords: ["MATRADE", "Malaysia External Trade Development Corporation", "MATRADE vs MIDA", "Malaysia export promotion agency", "Malaysia trade promotion agency", "Market Development Grant Malaysia", "MATRADE overseas offices"]
+framework: profile
 ---
 
 初めて輸出を手がける事業者に、貿易見本市のブースを担当する政府機関はどこかと

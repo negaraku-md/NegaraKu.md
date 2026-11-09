@@ -95,6 +95,7 @@ relations:
   - { rel: "compares-with", to: "swcorp" }
 related: ["environmental-impact-assessment-eia-malaysia"]
 keywords: ["Department of Environment", "DOE", "Jabatan Alam Sekitar", "JAS", "Environmental Quality Act 1974", "Act 127", "EIA Malaysia", "scheduled waste", "NRES", "دائرة البيئة", "قانون جودة البيئة", "النفايات المجدولة"]
+framework: profile
 ---
 
 إذا سكب مصنع ماليزي مياهاً عادمة في نهر، أو احتاج طريق سريع إلى موافقة بيئية قبل سقوط أول شجرة، أو شحن مصنعٌ براميل من الحمأة الخطرة إلى جهة تخلّص مرخَّصة — فإن دائرة اتحادية واحدة تقف خلف هذه الحالات الثلاث جميعها. ومعرفة ما تفعله دائرة البيئة، وبالقدر نفسه من الأهمية ما *لا* تفعله، تجنّبك طرق باب الجهة الخطأ.

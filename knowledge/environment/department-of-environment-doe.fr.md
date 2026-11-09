@@ -95,6 +95,7 @@ relations:
   - { rel: "compares-with", to: "swcorp" }
 related: ["environmental-impact-assessment-eia-malaysia"]
 keywords: ["Department of Environment", "DOE", "Jabatan Alam Sekitar", "JAS", "Environmental Quality Act 1974", "Act 127", "EIA Malaysia", "scheduled waste", "NRES"]
+framework: profile
 ---
 
 Si une usine malaisienne déverse des effluents dans une rivière, si une autoroute a besoin d'un feu vert environnemental avant que le premier arbre ne tombe, ou si une installation expédie des fûts de boues dangereuses à un éliminateur agréé — un seul département fédéral se trouve derrière ces trois cas. Savoir ce que fait le Département de l'environnement, et, tout aussi important, ce qu'il ne fait *pas*, vous évite de frapper à la porte de la mauvaise agence.

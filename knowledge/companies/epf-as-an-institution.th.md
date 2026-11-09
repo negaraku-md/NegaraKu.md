@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["epf-as-investor", "khazanah", "pnb", "bursa-malaysia"]
 keywords: ["KWSP", "EPF", "dana persaraan", "pelabur institusi", "dividen KWSP", "Akta KWSP 1991", "simpanan pekerja"]
+framework: profile
 ---
 
 ทุกครั้งที่ลูกจ้างภาคเอกชนในมาเลเซียได้รับสลิปเงินเดือน ส่วนหนึ่งของรายได้ของเขาไหลไปยังสถาบันเดียวที่ปัจจุบันถือครองมากกว่า RM1.25 ล้านล้าน นั่นคือ Kumpulan Wang Simpanan Pekerja หรือ KWSP

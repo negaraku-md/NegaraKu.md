@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "malaysia-civil-defence-force-apm" }
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "gestion des catastrophes", "Directive NADMA no 1", "Directive MKN 20", "inondation", "SMART", "Département du Premier ministre"]
+framework: profile
 ---
 
 Lorsqu'une inondation majeure frappe plusieurs États à la fois, qui appuie sur le

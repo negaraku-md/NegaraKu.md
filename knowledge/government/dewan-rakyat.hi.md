@@ -81,6 +81,7 @@ relations:
   - { rel: "compares-with", to: "parliament" }
 related: ["parliament", "federal-constitution", "formation-of-malaysia-1963"]
 keywords: ["देवान राक्यात", "Dewan Rakyat", "संसद का निचला सदन", "अनुच्छेद 46", "Perkara 46", "अनुच्छेद 55", "धन विधेयक", "222 सीटें", "House of Representatives Malaysia"]
+framework: profile
 ---
 
 ## एक नज़र में

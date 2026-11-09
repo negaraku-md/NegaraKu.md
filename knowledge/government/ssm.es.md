@@ -78,6 +78,7 @@ relations:
   - { rel: "explained-in", to: "mbrs-2" }
 related: ["companies-act-2016", "register-sdn-bhd", "sdn-bhd", "ssm-fees-malaysia"]
 keywords: ["SSM Malaysia", "Comisión de Sociedades de Malasia", "Suruhanjaya Syarikat Malaysia", "Companies Commission of Malaysia", "MyCoID", "EzBiz"]
+framework: profile
 ---
 
 ## De un vistazo

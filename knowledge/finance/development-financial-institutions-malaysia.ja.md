@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "islamic-banking-malaysia" }
 related: ["bank-negara-malaysia", "sme-financing-malaysia"]
 keywords: ["development financial institutions", "DFI Malaysia", "DFIA 2002", "Bank Pembangunan", "Bank Rakyat", "Agrobank", "SME Bank", "Bank Simpanan Nasional", "EXIM Bank", "Bank Negara Malaysia"]
+framework: profile
 ---
 
 マレーシアの農家がアブラヤシ農園の植え替えのために五年物の融資を必要とするとき、あるいは輸出業者がフロンティア市場へ販路を広げるために信用タカフルを必要とするとき、商業銀行はしばしば「ノー」と答える。そのギャップを埋めるためにこそ、マレーシアの開発金融機関は存在する。

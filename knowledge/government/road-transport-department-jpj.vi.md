@@ -75,6 +75,7 @@ related: []
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department", "driving licence Malaysia", "road tax", "vehicle registration", "Road Transport Act 1987", "MyJPJ", "mySIKAP", "LKM"]
 social:
   hashtags: ["JPJ", "RoadTaxMalaysia", "DrivingLicence", "MyJPJ"]
+framework: profile
 ---
 
 Hầu hết mọi người gặp **Cục Giao thông Đường bộ** vào một thời điểm duy nhất — gia hạn thuế đường bộ, thi lấy bằng lái, hoặc chuyển nhượng một chiếc xe cũ. Nhưng JPJ là cục đứng sau mỗi một trong những giao dịch đó. **Cục Giao thông Đường bộ** (*Jabatan Pengangkutan Jalan*, hay **JPJ**) là một cơ quan trực thuộc **Bộ Giao thông (MOT)** của Malaysia. Nó đăng ký phương tiện cơ giới và tài xế, cấp giấy phép lái xe, thuế đường bộ và biển số, cấp phép cho phương tiện thương mại, và thực thi các luật quy định cách phương tiện và tài xế sử dụng đường công cộng.

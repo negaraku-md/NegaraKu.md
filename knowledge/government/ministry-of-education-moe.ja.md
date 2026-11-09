@@ -83,6 +83,7 @@ wikidata: "Q3816079"
 relations: []
 related: []
 keywords: ["Ministry of Education Malaysia", "KPM", "Kementerian Pendidikan Malaysia", "Fadhlina Sidek", "Education Act 1996", "Malaysia Education Blueprint", "PPPM", "KPM vs KPT", "Menteri Pendidikan Malaysia", "moe.gov.my", "compulsory education Malaysia", "Malaysia school system"]
+framework: profile
 ---
 
 マレーシアの学童に関わる事柄——学んでいるカリキュラム、机の上の教科書、受験する全国試験、あるいは教壇に立つ公立学校の教師——であれば、それは教育省の所管である。マレー語では**Kementerian Pendidikan Malaysia**と呼ばれ、ほぼ常に**KPM**と略される、この連邦省が国の高等教育前教育制度を運営している。KPMが運営して*いない*のが大学である——これは非常に多くの人を混乱させる境界線である。

@@ -77,6 +77,7 @@ related: []
 keywords: ["AADK", "Agensi Antidadah Kebangsaan", "National Anti-Drugs Agency", "drug rehabilitation Malaysia", "Cure and Care", "Puspen", "NADA Malaysia", "voluntary drug treatment", "Drug Dependants Act 1983"]
 social:
   hashtags: ["#AADK", "#NegaraKu", "#DrugRehabilitation", "#MalaysiaHomeAffairs"]
+framework: profile
 ---
 
 تقسّم ماليزيا استجابتها للمخدرات إلى شطرين عريضين. الشطر الأول إنفاذ جنائي — توقيف المتاجرين، وضبط العرض، وملاحقة الجرائم — ويقوده جهاز الشرطة. والشطر الآخر **خفض الطلب**: منع الناس من تعاطي المخدرات ابتداءً، وعلاج من يتعاطون وإعادة تأهيلهم. ويقود هذا الشطر **الوكالة الوطنية لمكافحة المخدرات** (*Agensi Antidadah Kebangsaan*، أو **AADK**، وتُكتب أيضًا **NADA**)، وهي وكالة تابعة لـ**وزارة الداخلية** (*Kementerian Dalam Negeri*، KDN). تدير AADK مراكز إعادة تأهيل المخدرات في البلاد، وتقدّم برامج الوقاية والتثقيف، وتدير الرعاية اللاحقة للمتعافين.

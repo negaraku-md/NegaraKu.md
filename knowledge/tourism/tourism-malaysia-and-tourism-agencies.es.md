@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "sarawak-tourism-board" }
 related: []
 keywords: ["Tourism Malaysia", "MOTAC", "Junta de Promoción Turística de Malasia", "Sarawak Tourism Board", "Sabah Tourism Board", "Penang Global Tourism", "licencias de turismo Malasia", "Malaysia Tourism Promotion Board"]
+framework: profile
 ---
 
 Cuando un anuncio de "Malaysia Truly Asia" te llama la atención, un organismo estatutario lo pagó — pero un ministerio distinto decide si el operador turístico que hay detrás de tu viaje siquiera tiene permiso para venderlo. El turismo malasio funciona con una división del trabajo, y saber quién hace qué ahorra mucha confusión.

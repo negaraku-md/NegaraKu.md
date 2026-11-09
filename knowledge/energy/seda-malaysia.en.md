@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "solar-atap-malaysia" }
 related: []
 keywords: ["SEDA", "Sustainable Energy Development Authority", "feed-in tariff", "NEM", "Solar ATAP", "KWTBB", "tenaga boleh baharu", "PETRA"]
+framework: profile
 ---
 
 Every time you pay an electricity bill in Peninsular Malaysia, a small portion of it flows to a statutory body you may never have heard of — and that body is the one deciding whether the solar panels on your roof are worth it or not.

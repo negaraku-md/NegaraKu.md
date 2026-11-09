@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: ["federal-constitution", "yang-di-pertuan-agong"]
 keywords: ["Majlis Keselamatan Negara", "MKN", "Akta 776", "kawasan keselamatan", "Perkara 150", "darurat", "kuasa keselamatan negara"]
+framework: profile
 ---
 
 マレーシア政府が安全保障上の脅威に迅速に対応する必要が生じたとき、二つの異なる法的枠組みがしばしば同じ文脈で語られる——国家安全保障会議（MKN）と、憲法上の緊急事態権限である。両者はいずれも国家安全保障に関わるものであるが、それぞれ異なる法源に由来し、異なる要件を有している。本稿は、法律の条文に基づき、両者を中立的な立場から説明する。

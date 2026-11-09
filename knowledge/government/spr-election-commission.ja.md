@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "majlis-raja-raja" }
 related: ["three-tiers-of-government", "federal-constitution", "parliament", "dewan-rakyat", "yang-di-pertuan-agong", "majlis-raja-raja"]
 keywords: ["Suruhanjaya Pilihan Raya", "SPR", "Election Commission", "Perkara 113", "Perkara 114", "Perlembagaan Persekutuan", "persempadanan semula", "daftar pemilih", "Jadual Ketiga Belas"]
+framework: profile
 ---
 
 マレーシアで選挙を執行する機関は、通常の法令によって設立されたものではなく、通常の法令によって廃止することもできない。それは連邦憲法に直接規定されている——そして第113条と第114条という二つの条文が、その機関が何を行うことができ、誰がその委員となり得るかを定めている。

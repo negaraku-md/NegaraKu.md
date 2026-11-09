@@ -75,6 +75,7 @@ related: []
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department", "driving licence Malaysia", "road tax", "vehicle registration", "Road Transport Act 1987", "MyJPJ", "mySIKAP", "LKM"]
 social:
   hashtags: ["JPJ", "RoadTaxMalaysia", "DrivingLicence", "MyJPJ"]
+framework: profile
 ---
 
 अधिकांश लोग **सड़क परिवहन विभाग** से एक ही क्षण पर मिलते हैं — रोड टैक्स का नवीनीकरण करते समय, ड्राइविंग परीक्षा देते समय, या कोई पुरानी कार अंतरित करते समय। पर JPJ वह विभाग है जो इन सभी लेन-देनों के पीछे खड़ा है। **सड़क परिवहन विभाग** (*Jabatan Pengangkutan Jalan*, या **JPJ**) मलेशिया के **परिवहन मंत्रालय (MOT)** के अधीन एक एजेंसी है। यह मोटर वाहनों और चालकों का पंजीकरण करता है, ड्राइविंग लाइसेंस, रोड टैक्स और नंबर प्लेट जारी करता है, वाणिज्यिक वाहनों को लाइसेंस देता है, और उन कानूनों को लागू करता है जो यह नियंत्रित करते हैं कि वाहन और चालक सार्वजनिक सड़कों का उपयोग कैसे करें।

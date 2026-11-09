@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "bank-pembangunan-malaysia" }
 related: ["bank-negara-malaysia", "development-financial-institutions-malaysia"]
 keywords: ["EXIM बैंक मलेशिया", "EXIM Bank Malaysia", "निर्यात ऋण एजेंसी", "export credit agency", "व्यापार ऋण तकाफुल", "trade credit takaful", "निर्यात ऋण बीमा", "व्यापार वित्तपोषण", "trade financing", "गैर-पारंपरिक बाज़ार"]
+framework: profile
 ---
 
 एक मलेशियाई मशीनरी निर्यातक को किसी सीमांत बाज़ार में पहला ऑर्डर मिलता है — भारी लाभ की संभावना, लेकिन क्या होगा यदि खरीदार कभी भुगतान न करे? यही एक सवाल वह व्यवसाय है जिसका उत्तर देने के लिए EXIM बैंक मलेशिया बनाया गया था।

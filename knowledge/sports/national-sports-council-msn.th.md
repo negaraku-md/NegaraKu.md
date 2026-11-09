@@ -67,6 +67,7 @@ wikidata: "Q97208190"
 relations: []
 related: []
 keywords: ["Majlis Sukan Negara", "MSN", "National Sports Council of Malaysia", "NSC Malaysia", "MSN Bukit Jalil", "Akta Majlis Sukan Negara 1971", "Institut Sukan Negara", "ISN", "Kompleks Sukan Negara Bukit Jalil", "Majlis Sukan Negeri", "Kementerian Belia dan Sukan", "MSN atlet", "pembangunan sukan Malaysia"]
+framework: profile
 ---
 
 เมื่อนักวิ่งชาวมาเลเซียเข้าประจำที่ในโอลิมปิก หรือนักฟุตบอลรุ่นเยาว์ถูกแมวมองคัดเข้าทีมชาติ มีองค์กรของรัฐเดียวยืนอยู่เบื้องหลังการฝึก การฝึกสอน และสิ่งอำนวยความสะดวกที่พาพวกเขามาถึงจุดนั้น คือ **สภากีฬาแห่งชาติมาเลเซีย** รู้จักในภาษามลายูว่า **Majlis Sukan Negara (MSN)** เป็นหน่วยงานตามกฎหมายที่เปลี่ยนนโยบายกีฬาแห่งชาติให้เป็นนักกีฬาจริง

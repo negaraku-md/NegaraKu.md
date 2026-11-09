@@ -76,6 +76,7 @@ keywords:
   - "Laporan Ketua Audit Negara"
   - "Auditor General Malaysia"
   - "pengauditan kerajaan"
+framework: profile
 ---
 
 Every year, a thick report is tabled in the Dewan Rakyat. It reviews how

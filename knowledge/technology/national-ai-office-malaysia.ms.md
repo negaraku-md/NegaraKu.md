@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "personal-data-protection-act-malaysia" }
 related: []
 keywords: ["national ai office", "naio", "ai malaysia", "ai action plan 2026-2030", "aige", "ai governance malaysia", "ai nation 2030"]
+framework: explainer
 ---
 
 Apabila sesebuah negara mahu memandu kecerdasan buatan tetapi tidak mahu menunggu bertahun-tahun untuk sebuah undang-undang, ia membina sebuah pejabat dahulu. Itulah yang dilakukan Malaysia: daripada bermula dengan sebuah Akta AI, ia menubuhkan sebuah agensi penyelaras, menerbitkan satu set prinsip etika secara sukarela, dan menulis sebuah pelan lima tahun — kemudian barulah mula merangka statut selepas itu.

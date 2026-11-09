@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "jawi-script" }
 related: ["bahasa-melayu", "jawi-script"]
 keywords: ["dewan bahasa dan pustaka", "dbp", "langue malaise", "kamus dewan", "sasterawan negara", "organisme public"]
+framework: profile
 ---
 
 Chaque fois que vous vérifiez l'orthographe d'un mot malais, que vous rencontrez un nouveau terme scientifique ou que vous lisez le titre d'un Lauréat national, une institution œuvre en coulisses : Dewan Bahasa dan Pustaka.

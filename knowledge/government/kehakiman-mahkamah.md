@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["Malaysia court hierarchy", "Federal Court of Malaysia", "Court of Appeal Malaysia", "High Court in Malaya", "Sessions Court jurisdiction", "Judicial Appointments Commission", "Article 122B"]
+framework: explainer
 ---
 
 A RM60,000 contract dispute and a challenge to the validity of a federal statute both begin as a piece of paper filed at a court counter. They do not go to the same counter, they are not decided by the same kind of judge, and only one of them can end up in front of nine judges in Putrajaya.

@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["Malaysia court hierarchy", "Federal Court of Malaysia", "Court of Appeal Malaysia", "High Court in Malaya", "Sessions Court jurisdiction", "Judicial Appointments Commission", "Article 122B"]
+framework: explainer
 ---
 
 RM60,000の契約紛争と、連邦制定法の有効性に対する異議申立て——どちらも法院の窓口に提出される一枚の書面から始まる。しかし両者は同じ窓口に行くわけではなく、同じ種類の裁判官によって判断されるわけでもなく、そのうちの一方だけがプトラジャヤの九名の裁判官の前にたどり着く可能性がある。

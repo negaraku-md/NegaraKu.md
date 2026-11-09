@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "syariah-courts-malaysia" }
 related: ["waqf-islamic-endowment-malaysia", "federal-constitution"]
 keywords: ["Majlis Agama Islam Negeri", "MAIN", "zakat", "wakaf", "fatwa", "Perkara 3", "Senarai Negeri", "pentadbiran Islam"]
+framework: profile
 ---
 
 Pregunte quién gestiona el zakat, el waqf y las mezquitas en su estado, y la respuesta no es un ministerio en Putrajaya — sino un organismo estatutario estatal responsable ante el propio Soberano de ese estado. Ese organismo es el Consejo Religioso Islámico del Estado (MAIN), y su existencia en cada estado deriva de un único principio constitucional: los asuntos religiosos islámicos son una materia estatal, no federal.

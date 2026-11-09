@@ -64,6 +64,7 @@ relations:
   - { rel: "compares-with", to: "dewan-rakyat" }
 related: ["parliament", "federal-constitution", "dewan-rakyat", "yang-di-pertuan-agong"]
 keywords: ["Dewan Negara", "देवान नेगारा", "मलेशिया सीनेट", "senator Malaysia", "अनुच्छेद 45 संघीय संविधान", "Perkara 45", "अनुच्छेद 68", "सातवीं अनुसूची", "Jadual Ketujuh", "सीनेटर नियुक्ति", "विलंब की शक्ति"]
+framework: profile
 ---
 
 # देवान नेगारा: सीनेटरों की नियुक्ति कैसे होती है, और यह सदन अंतिम अस्वीकार के बजाय विलंब क्यों करता है

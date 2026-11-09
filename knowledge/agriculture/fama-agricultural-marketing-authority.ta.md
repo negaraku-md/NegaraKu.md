@@ -76,6 +76,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
 related: []
 keywords: ["FAMA", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Akta 141", "pasar tani", "My Farm Outlet", "Agrobazaar", "pemasaran pertanian", "fama.gov.my"]
+framework: profile
 ---
 
 [Cameron Highlands](/ta/tourism/cameron-highlands-visitor-guide)-இல் உள்ள ஒரு காய்கறி

@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "sarawak-tourism-board" }
 related: []
 keywords: ["Tourism Malaysia", "MOTAC", "मलेशिया पर्यटन संवर्धन बोर्ड", "Sarawak Tourism Board", "Sabah Tourism Board", "Penang Global Tourism", "मलेशिया पर्यटन लाइसेंसिंग", "Malaysia Tourism Promotion Board", "tourism licensing Malaysia"]
+framework: profile
 ---
 
 जब कोई "Malaysia Truly Asia" विज्ञापन आपकी नज़र पकड़ता है, तो एक वैधानिक निकाय ने उसके लिए भुगतान किया — पर एक अलग मंत्रालय तय करता है कि आपकी यात्रा के पीछे का टूर संचालक उसे बेचने की अनुमति भी रखता है या नहीं। मलेशियाई पर्यटन श्रम-विभाजन पर चलता है, और यह जानना कि कौन क्या करता है बहुत भ्रम बचाता है।

@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["gdp-overview", "inflation-cpi", "unemployment-labour-force", "external-trade"]
 keywords: ["DOSM", "मलेशिया सांख्यिकी विभाग", "Jabatan Perangkaan Malaysia", "Department of Statistics Malaysia", "OpenDOSM", "अग्रिम विमोचन कैलेंडर", "Advance Release Calendar", "मलेशिया की आधिकारिक सांख्यिकी", "Malaysia official statistics"]
+framework: profile
 ---
 
 लगभग हर मलेशियाई आर्थिक आँकड़ा जो आप कभी पढ़ेंगे — किसी मंत्री द्वारा उद्धृत

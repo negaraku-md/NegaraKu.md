@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "cyber-security-act-2024" }
 related: ["cyber-security-act-2024"]
 keywords: ["NACSA", "Agence nationale de cybersécurité", "National Cyber Security Agency", "CyberSecurity Malaysia", "MyCERT", "Cyber999", "Loi sur la cybersécurité de 2024", "Cyber Security Act 2024", "Act 854", "licence de prestataire de services de cybersécurité", "Ministry of Digital", "nacsa.gov.my"]
+framework: explainer
 ---
 
 Deux organismes gouvernementaux malaisiens portent «cybersécurité» dans leur nom, et les gens adressent constamment la mauvaise chose au mauvais organisme — une question de licence à la ligne directe des incidents, un signalement de compte piraté à l'agence de politique. Les noms semblent interchangeables. Leurs missions ne le sont pas.

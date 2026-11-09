@@ -71,6 +71,7 @@ keywords:
   - "Attorney General's Chambers"
   - "Peguam Negara"
   - "right of audience Attorney General"
+framework: profile
 ---
 
 大多数公职是由国会可以修改的成文法所界定。联邦总检察长一职并非如此。它写入联邦宪法本身，

@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "personal-bankruptcy-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["AKPK", "ऋण प्रबंधन कार्यक्रम", "Program Pengurusan Kredit", "PPK", "DMP", "ऋण पुनर्संरचना", "वित्तीय परामर्श", "Bank Negara Malaysia", "बैंक नेगारा मलेशिया", "क्रेडिट कार्ड ऋण"]
+framework: profile
 ---
 
 जब क्रेडिट कार्ड का बिल, कार की किस्त और आवास ऋण सब एक ही महीने में देय हो जाएँ और वेतन पर्याप्त न हो, तो बहुत से मलेशियाई मान लेते हैं कि अंतिम उपाय दिवालियापन है। वास्तव में इससे पहले एक दरवाज़ा है, और वह पूरी तरह निःशुल्क है।

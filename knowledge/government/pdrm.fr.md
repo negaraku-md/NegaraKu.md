@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "kehakiman-mahkamah" }
 related: ["federal-constitution", "macc-sprm", "kehakiman-mahkamah", "imigresen", "yang-di-pertuan-agong"]
 keywords: ["PDRM", "Polis Diraja Malaysia", "Royal Malaysia Police", "Police royale de Malaisie", "Akta Polis 1967", "Akta 344", "Ketua Polis Negara", "Inspector General of Police", "Suruhanjaya Pasukan Polis", "Commission de la force de police", "Perkara 140"]
+framework: profile
 ---
 
 La plupart des descriptions de la PDRM s'arrêtent à la formule « la force de police

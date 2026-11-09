@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "bomba-fire-rescue-department" }
 related: ["pdrm", "fire-and-rescue-department-bomba"]
 keywords: ["999", "MERS 999", "nombor kecemasan", "SaveME 999", "talian kecemasan", "pertahanan awam", "ambulans"]
+framework: profile
 ---
 
 하나의 번호 — **999** — 가 경찰, 구급, 소방, 민방위 또는 해상 지원 등 무엇이 필요하든 말레이시아의 5개 긴급 기관으로 당신을 연결합니다. 기관마다 다른 번호를 외울 필요가 없습니다. 그 뒤의 시스템이 통화를 대신 연결해 줍니다.

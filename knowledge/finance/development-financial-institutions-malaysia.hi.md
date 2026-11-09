@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "islamic-banking-malaysia" }
 related: ["bank-negara-malaysia", "sme-financing-malaysia"]
 keywords: ["विकास वित्तीय संस्थान", "development financial institutions", "DFI Malaysia", "DFIA 2002", "Bank Pembangunan", "Bank Rakyat", "Agrobank", "SME Bank", "Bank Simpanan Nasional", "EXIM Bank", "Bank Negara Malaysia"]
+framework: profile
 ---
 
 जब एक मलेशियाई किसान को किसी ताड़-तेल बागान को फिर से रोपने के लिए पाँच साल के ऋण की आवश्यकता होती है, या एक निर्यातक को किसी सीमांत बाज़ार में बेचने के लिए क्रेडिट तकाफुल की आवश्यकता होती है, तो वाणिज्यिक बैंक अक्सर मना कर देते हैं। वह अंतराल ठीक वही है जिसे भरने के लिए मलेशिया के विकास वित्तीय संस्थान मौजूद हैं।

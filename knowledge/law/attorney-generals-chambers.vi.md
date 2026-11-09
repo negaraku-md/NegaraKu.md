@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution"]
 keywords: ["Peguam Negara", "Pendakwa Raya", "Perkara 145", "Perlembagaan Persekutuan", "Jabatan Peguam Negara", "budi bicara pendakwaan", "pengasingan peranan"]
+framework: profile
 ---
 
 Một người đàn ông có thể quyết định liệu bạn có bị đưa ra trước vành móng ngựa hình sự hay không — hay được thả tự do mà không một cáo buộc nào được nộp. Ở Malaysia, người đó là Tổng Chưởng lý (Peguam Negara), và quyền lực của ông sinh ra từ một điều duy nhất trong Hiến pháp Liên bang.

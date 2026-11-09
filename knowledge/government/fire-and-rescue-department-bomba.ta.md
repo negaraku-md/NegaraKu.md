@@ -73,6 +73,7 @@ related: []
 keywords: ["BOMBA", "Jabatan Bomba dan Penyelamat Malaysia", "Fire and Rescue Department", "999 emergency", "fire safety Malaysia", "JBPM", "fire certificate", "Perakuan Bomba", "Fire Services Act 1988", "MERS 999"]
 social:
   hashtags: ["#BOMBA", "#FireAndRescue", "#Malaysia", "#999", "#FireSafety"]
+framework: profile
 ---
 
 ஒரு கட்டிடம் எரியும்போது அல்லது ஒருவர் சிக்கிக்கொள்ளும்போது யாரை அழைப்பது என்று மலேசியாவில் யாரிடம் கேட்டாலும், பதில் ஒரே சொல்தான்: **Bomba**. **மலேசியத் தீயணைப்பு மற்றும் மீட்புத் துறை** — *Jabatan Bomba dan Penyelamat Malaysia* (**JBPM**), கிட்டத்தட்ட அனைவருக்கும் வெறுமனே **BOMBA** என அறியப்படுகிறது — என்பது நாடு முழுவதும் தீயணைப்பு, மீட்பு, அபாயகரமான-பொருள் மறுமொழி மற்றும் தீப்பாதுகாப்பு அமலாக்கத்திற்குப் பொறுப்பான கூட்டாட்சி நிறுவனம். இது **வீட்டுவசதி மற்றும் உள்ளூராட்சி அமைச்சின்** (*Kementerian Perumahan dan Kerajaan Tempatan*, KPKT) கீழுள்ள நிறுவனம்; அவசரநிலையில் **999**-ஐ அழைப்பதன் மூலம் தொடர்பு கொள்ளலாம்.

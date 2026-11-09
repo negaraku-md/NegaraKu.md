@@ -75,6 +75,7 @@ wikidata: "Q7374434"
 relations: []
 related: []
 keywords: ["RMCD", "Royal Malaysian Customs Department", "Jabatan Kastam Diraja Malaysia", "JKDM", "Kastam Malaysia", "SST Malaysia", "sales and service tax", "import duty Malaysia", "customs clearance Malaysia", "MySST", "uCustoms", "excise duty Malaysia", "service tax registration"]
+framework: profile
 ---
 
 Setiap kali Anda membayar pajak pada tagihan restoran, mengeluarkan paket melalui bea cukai, atau mengisi bahan bakar mobil yang dibangun dengan mesin impor, satu departemen berada di balik pungutan itu: **Departemen Bea dan Cukai Diraja Malaysia (RMCD)** — *Jabatan Kastam Diraja Malaysia* (JKDM), yang biasa disebut *Kastam*. Ia adalah departemen pemerintah di bawah **Kementerian Keuangan** yang bertanggung jawab memungut pajak tidak langsung, memfasilitasi perdagangan, dan menegakkan undang-undang kepabeanan, dan ia merupakan pemungut utama pajak tidak langsung negara.

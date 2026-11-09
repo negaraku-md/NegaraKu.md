@@ -77,6 +77,7 @@ related: []
 keywords: ["AADK", "Agensi Antidadah Kebangsaan", "National Anti-Drugs Agency", "drug rehabilitation Malaysia", "Cure and Care", "Puspen", "NADA Malaysia", "voluntary drug treatment", "Drug Dependants Act 1983"]
 social:
   hashtags: ["#AADK", "#NegaraKu", "#DrugRehabilitation", "#MalaysiaHomeAffairs"]
+framework: profile
 ---
 
 Malaysia membahagikan tindak balasnya terhadap dadah kepada dua bahagian luas. Satu bahagian ialah penguatkuasaan jenayah — menangkap pengedar, merampas bekalan, mendakwa kesalahan — dan itu diterajui oleh polis. Bahagian yang satu lagi ialah **pengurangan permintaan**: menghalang orang daripada menggunakan dadah pada mulanya, dan merawat serta memulihkan mereka yang menggunakannya. Bahagian itu diterajui oleh **Agensi Antidadah Kebangsaan** (*Agensi Antidadah Kebangsaan*, atau **AADK**, juga digayakan **NADA**), sebuah agensi di bawah **Kementerian Dalam Negeri** (*Kementerian Dalam Negeri*, KDN). AADK mengendalikan pusat pemulihan dadah negara, menyampaikan program pencegahan dan pendidikan, serta menguruskan jagaan lanjutan bagi orang yang sedang pulih.

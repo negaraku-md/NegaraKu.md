@@ -97,6 +97,7 @@ keywords:
   - "manufacturing licence Malaysia ICA 1975"
   - "Malaysia investment agency directory"
   - "agensi pelaburan Malaysia"
+framework: explainer
 ---
 
 외국인 투자자는 하나의 규제기관을 예상하고 도착합니다. 말레이시아에는 십여 개가 있고, 이들은 서로 대화하지 않으며, 모두가 처음 시작하는 곳 — SSM — 은 거의 아무것도 승인하지 않습니다.

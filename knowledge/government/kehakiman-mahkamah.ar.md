@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["التسلسل الهرمي للمحاكم الماليزية", "Malaysia court hierarchy", "المحكمة الاتحادية", "Federal Court of Malaysia", "محكمة الاستئناف", "Court of Appeal Malaysia", "High Court in Malaya", "اختصاص محكمة الجلسات", "Sessions Court jurisdiction", "Judicial Appointments Commission", "Article 122B"]
+framework: explainer
 ---
 
 نزاع تعاقدي قيمته RM60,000 وطعنٌ في صحة نصّ قانوني اتحادي، كلاهما يبدأ ورقةً

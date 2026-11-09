@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-malaysia" }
 related: ["federal-constitution", "pdrm"]
 keywords: ["angkatan tentera malaysia", "ATM", "kementerian pertahanan", "MINDEF", "majlis angkatan tentera", "panglima angkatan tentera", "akta angkatan tentera 1972", "kertas putih pertahanan", "tentera darat", "tentera laut diraja malaysia", "tentera udara diraja malaysia"]
+framework: profile
 ---
 
 The three service branches — land, sea and air — operate under a single chain of command rooted in the Yang di-Pertuan Agong as Supreme Commander, but are run day to day by a minister and a civilian apparatus. This is how Malaysia organises its defence: supreme authority in the King, policy control in civilian hands, and execution by a professional military.

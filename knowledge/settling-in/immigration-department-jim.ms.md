@@ -77,6 +77,7 @@ wikidata: "Q5260346"
 relations: []
 related: []
 keywords: ["Immigration Department of Malaysia", "Jabatan Imigresen Malaysia", "JIM", "imi.gov.my", "MyOnline Passport", "MDAC", "Malaysia Digital Arrival Card", "Malaysia passport renewal", "Malaysia passport fee", "10-year passport Malaysia", "Malaysia eVisa", "Malaysia visa pass permit", "Immigration Act 1959/63", "Passport Act 1966"]
+framework: profile
 ---
 
 Satu agensi berdiri di sebalik hampir setiap dokumen yang membolehkan seseorang melintasi sempadan Malaysia, tinggal di sini, atau bekerja di sini. **Jabatan Imigresen Malaysia** (**JIM**) ialah badan di bawah **Kementerian Dalam Negeri** yang mengeluarkan pasport kepada warganegara, memberikan visa dan pas kepada warga asing, menempatkan kakitangan di setiap kaunter lapangan terbang dan sempadan darat, serta menguatkuasakan undang-undang imigresen. Ia berkhidmat untuk warganegara Malaysia, penduduk tetap dan pelawat asing, dan ia telah beroperasi sejak **21 Julai 1922**. Cabaran bagi pendatang baharu ialah perkhidmatannya bertaburan merentasi beberapa laman web rasmi — halaman ini memetakannya.

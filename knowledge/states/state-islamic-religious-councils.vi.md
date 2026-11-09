@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "syariah-courts-malaysia" }
 related: ["waqf-islamic-endowment-malaysia", "federal-constitution"]
 keywords: ["Majlis Agama Islam Negeri", "MAIN", "zakat", "wakaf", "fatwa", "Perkara 3", "Senarai Negeri", "pentadbiran Islam"]
+framework: profile
 ---
 
 Hỏi ai quản lý zakat, wakaf và nhà thờ Hồi giáo ở bang của bạn, và câu trả lời không phải là một bộ ở Putrajaya — mà là một cơ quan theo luật định của bang chịu trách nhiệm trước chính Vương công của bang đó. Cơ quan đó là Hội đồng Tôn giáo Hồi giáo Bang (MAIN), và sự tồn tại của nó ở mỗi bang bắt nguồn từ một nguyên tắc hiến pháp: các vấn đề tôn giáo Hồi giáo là vấn đề của bang, không phải của liên bang.

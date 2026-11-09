@@ -75,6 +75,7 @@ relations:
   - { rel: "explained-in", to: "company-tax-calendar" }
 related: ["income-tax-act-1967", "which-tax-form", "company-tax-calendar", "e-invoicing"]
 keywords: ["LHDN", "Lembaga Hasil Dalam Negeri", "Direction générale des impôts de Malaisie", "Inland Revenue Board Malaysia", "MyTax", "MyInvois"]
+framework: profile
 ---
 
 ## En un coup d'œil

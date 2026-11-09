@@ -97,6 +97,7 @@ keywords:
   - "manufacturing licence Malaysia ICA 1975"
   - "Malaysia investment agency directory"
   - "agensi pelaburan Malaysia"
+framework: explainer
 ---
 
 வெளிநாட்டு முதலீட்டாளர்கள் ஒரே ஒரு ஒழுங்குமுறை அமைப்பை எதிர்பார்த்து வருகிறார்கள்.

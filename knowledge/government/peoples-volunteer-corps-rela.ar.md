@@ -73,6 +73,7 @@ related: ["jpn"]
 keywords: ["RELA", "Ikatan Relawan Rakyat", "Jabatan Sukarelawan Malaysia", "People's Volunteer Corps", "rela maksud", "Malaysia Volunteers Corps Act 2012", "Act 752", "RELA members", "volunteer security force Malaysia", "Ministry of Home Affairs"]
 social:
   hashtags: ["RELA", "JabatanSukarelawanMalaysia", "Malaysia"]
+framework: profile
 ---
 
 إن كنت قد مررت بحاجزٍ عشية عطلة عامة، أو وقفت في طابورٍ في مهرجانٍ مزدحم، أو عبرت محطة إغاثةٍ بعد فيضان، فلعلّك قد رأيت **RELA** — متطوعين موحّدي الزيّ يوجّهون المرور ويمدّون يد العون للسلطات. فـ**فيلق المتطوعين الشعبي** (*Ikatan Relawan Rakyat*، واليوم *Jabatan Sukarelawan Malaysia*، **RELA**) قوة تطوعية مدنية منظَّمة دائرةً تابعة لـ**وزارة الداخلية** (*Kementerian Dalam Negeri*، KDN). ويعين أعضاؤها الشرطة والقوات المسلحة وسائر الأجهزة — وهم أنفسهم ليسوا قوة شرطة مستقلة.

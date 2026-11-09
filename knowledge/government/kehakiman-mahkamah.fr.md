@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["hiérarchie judiciaire de la Malaisie", "Malaysia court hierarchy", "Cour fédérale de Malaisie", "Federal Court of Malaysia", "Cour d'appel de Malaisie", "Court of Appeal Malaysia", "High Court in Malaya", "compétence du Tribunal de session", "Judicial Appointments Commission", "Article 122B"]
+framework: explainer
 ---
 
 Un litige contractuel de RM60,000 et une contestation de la validité d'une loi fédérale commencent tous deux comme un document déposé au guichet d'un tribunal. Ils ne vont pas au même guichet, ils ne sont pas tranchés par le même type de juge, et seul l'un d'eux peut aboutir devant neuf juges à Putrajaya.

@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "attorney-general" }
 related: ["federal-constitution", "prime-ministers-department", "kabinet-perdana-menteri", "three-tiers-of-government", "auditor-general", "attorney-general"]
 keywords: ["SPA Malaysia", "Suruhanjaya Perkhidmatan Awam", "JPA Malaysia", "Jabatan Perkhidmatan Awam", "Commission des services publics Malaisie", "Département de la fonction publique Malaisie", "Article 144 Constitution fédérale", "structure de la fonction publique malaisienne", "INTAN"]
+framework: profile
 ---
 
 La carrière d'un fonctionnaire en Malaisie passe par deux organes fédéraux dont la plupart des

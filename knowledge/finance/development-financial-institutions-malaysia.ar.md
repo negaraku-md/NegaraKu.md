@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "islamic-banking-malaysia" }
 related: ["bank-negara-malaysia", "sme-financing-malaysia"]
 keywords: ["المؤسسات المالية الإنمائية", "development financial institutions", "DFI Malaysia", "DFIA 2002", "Bank Pembangunan", "Bank Rakyat", "Agrobank", "SME Bank", "Bank Simpanan Nasional", "EXIM Bank", "Bank Negara Malaysia"]
+framework: profile
 ---
 
 حين يحتاج مزارع ماليزي إلى قرض لخمس سنوات لإعادة زراعة مزرعة نخيل زيت، أو يحتاج مصدّر إلى تكافل ائتمان ليبيع في سوق ناشئة، كثيرًا ما تقول البنوك التجارية لا. وتلك الفجوة بالضبط هي ما تقوم المؤسسات المالية الإنمائية في ماليزيا لسدّه.

@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "bomba-fire-rescue-department" }
 related: ["pdrm", "fire-and-rescue-department-bomba"]
 keywords: ["999", "MERS 999", "nombor kecemasan", "SaveME 999", "talian kecemasan", "pertahanan awam", "ambulans"]
+framework: profile
 ---
 
 只需一个号码——**999**——就能把你接通马来西亚五大紧急救援机构，无论你需要的是警察、救护车、消防、民防还是海上救援。你不必为每家机构记住不同的号码；背后的系统会替你转接这通电话。

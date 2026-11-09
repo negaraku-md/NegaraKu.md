@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "dewan-rakyat"]
 keywords: ["SPR", "Suruhanjaya Pilihan Raya", "Akta Pilihan Raya 1958", "Akta Kesalahan Pilihan Raya 1954", "persempadanan", "Perlembagaan Persekutuan", "Perkara 113", "Perkara 114"]
+framework: profile
 ---
 
 ஒவ்வொரு முறையும் பாராளுமன்றம் கலைக்கப்பட்டு நாடு பொதுத் தேர்தலை நோக்கி நகரும்போது, ஒரே ஒரு அமைப்பு நடுவராகச் செயல்படுகிறது: தேர்தல் ஆணையம். தேதியை நிர்ணயிப்பது, வாக்காளர் பதிவேட்டை மறுஆய்வு செய்வது, வேட்புமனுத் தாக்கல் நாள் மற்றும் வாக்களிப்பு நாளை நிர்வகிப்பது, மேலும் முடிவுகளை அறிவிப்பது — இவை அனைத்தையும் செய்வது அதுவே. ஆயினும் அதன் அதிகாரங்களும் எல்லைகளும் ஆட்சியில் இருக்கும் எந்த ஓர் அரசாங்கத்திடமிருந்தும் அல்ல, மாறாக கூட்டரசு அரசியலமைப்பிலிருந்தே (Perlembagaan Persekutuan) வருகின்றன.

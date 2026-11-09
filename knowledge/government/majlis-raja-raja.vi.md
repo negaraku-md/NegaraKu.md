@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["Majlis Raja-Raja", "Conference of Rulers", "Perkara 38 Perlembagaan Persekutuan", "Jadual Kelima", "pemilihan Yang di-Pertuan Agong", "Penyimpan Mohor Besar Raja-Raja"]
+framework: profile
 ---
 
 Có một danh sách ngắn trong Hiến pháp Liên bang hiếm khi được nhắc đến: danh sách các vấn đề mà Nghị viện không thể tự mình thông qua. Đối với những vấn đề đó, chỉ phiếu hai phần ba ở Dewan Rakyat và Dewan Negara là không đủ. Sự đồng ý của một cơ quan khác được đòi hỏi — và cơ quan đó là Hội đồng các Quốc vương.

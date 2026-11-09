@@ -125,6 +125,7 @@ wikidata: "Q4294352"
 relations: []
 related: []
 keywords: ["Malaysia public healthcare system", "Ministry of Health Malaysia", "MOH", "KKM", "klinik kesihatan", "government hospital Malaysia", "RM1 clinic fee", "public hospital fees Malaysia", "PeKa B40", "universal healthcare Malaysia", "healthcare in Malaysia", "Malaysia two-tier health system"]
+framework: explainer
 ---
 
 走进马来西亚的政府诊所，柜台上的账单几乎为零——普通门诊挂号 **RM1**。这不是慈善——而是制度设计。马来西亚实行**双轨制医疗体系**：由**卫生部（MOH，*Kementerian Kesihatan Malaysia*，KKM）**管理与筹资的政府公共服务，与规模庞大的私营领域并存。公共一侧**完全依靠一般税收筹资，没有强制性的国家保险缴费**，因此医疗服务以高额补贴的象征性费用提供，而非收取保费。这一模式以占国民收入一小部分的投入带来了近乎全民的就医机会——但如今它也承载着日益加重的家庭费用负担和实实在在的供给压力。本指南以浅白的方式说明你如何使用这一体系、费用几何、覆盖何人，以及它在何处承压。

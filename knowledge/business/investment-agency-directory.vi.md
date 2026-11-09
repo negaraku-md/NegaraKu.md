@@ -97,6 +97,7 @@ keywords:
   - "manufacturing licence Malaysia ICA 1975"
   - "Malaysia investment agency directory"
   - "agensi pelaburan Malaysia"
+framework: explainer
 ---
 
 Các nhà đầu tư nước ngoài đến với kỳ vọng có một cơ quan quản lý. Malaysia có cả tá, chúng không nói chuyện với nhau, và cơ quan mà mọi người bắt đầu — SSM — hầu như không phê duyệt gì.

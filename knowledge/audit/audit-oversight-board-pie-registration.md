@@ -93,6 +93,7 @@ relations:
   - { rel: "governs", to: "statutory-audit-process" }
 related: ["appointing-an-auditor", "audit-opinion-types", "changing-auditors"]
 keywords: ["Audit Oversight Board", "AOB", "public interest entity", "PIE auditor registration", "Securities Commission Malaysia", "Part IIIA SCMA", "schedule fund", "EQCR", "auditor oversight Malaysia"]
+framework: profile
 ---
 
 Passing the Minister of Finance's audit licence and joining the MIA still does not let you sign off on a Bursa-listed company's accounts. For a capital-market audit there is a further requirement — registration with the Audit Oversight Board — which only auditors of public interest entities and schedule funds need to meet.

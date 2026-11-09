@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-malaysia" }
 related: ["federal-constitution", "pdrm"]
 keywords: ["angkatan tentera malaysia", "ATM", "kementerian pertahanan", "MINDEF", "majlis angkatan tentera", "panglima angkatan tentera", "akta angkatan tentera 1972", "kertas putih pertahanan", "tentera darat", "tentera laut diraja malaysia", "tentera udara diraja malaysia"]
+framework: profile
 ---
 
 Tiga cabang dinas — darat, laut dan udara — bergerak di bawah satu rantai komando yang berpangkal pada Yang di-Pertuan Agong sebagai Pemerintah Tertinggi, tetapi dikelola setiap hari oleh seorang menteri dan aparatur sipil. Begitulah cara Malaysia menyusun pertahanannya: kuasa tertinggi pada Raja, kendali kebijakan pada pihak sipil, dan pelaksanaan pada militer profesional.

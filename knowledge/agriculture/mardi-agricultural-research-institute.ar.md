@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "malaysia-rice-industry" }
 related: []
 keywords: ["MARDI", "الأبحاث الزراعية", "agricultural research", "أصناف الأرز", "rice varieties", "MR 297", "KADARIA", "SMART SBB", "الزراعة في ماليزيا", "padi"]
+framework: profile
 ---
 
 يكاد كل وعاء أرز محلي في ماليزيا يعود في أصله إلى صنف رُبّي في محطة ميدانية لـ MARDI. فوراء الأرز الخام والدواجن والفواكه الاستوائية ورفوف الأغذية المصنّعة في البلاد يقف معهد فيدرالي واحد مهمّته تحويل العلم إلى غلّات أعلى.

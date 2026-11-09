@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "cyber-security-act-2024" }
 related: ["cyber-security-act-2024"]
 keywords: ["NACSA", "राष्ट्रीय साइबर सुरक्षा एजेंसी", "National Cyber Security Agency", "CyberSecurity Malaysia", "MyCERT", "Cyber999", "साइबर सुरक्षा अधिनियम 2024", "Cyber Security Act 2024", "Act 854", "साइबर सुरक्षा सेवा-प्रदाता लाइसेंस", "Ministry of Digital", "nacsa.gov.my"]
+framework: explainer
 ---
 
 दो मलेशियाई सरकारी निकाय अपने नाम में «साइबर सुरक्षा» ढोते हैं, और लोग हर समय ग़लत चीज़ को ग़लत निकाय के पास भेज देते हैं — एक लाइसेंस-प्रश्न घटना-हॉटलाइन को, और एक हैक किए गए खाते की रिपोर्ट नीति-एजेंसी को। नाम परस्पर-विनिमेय लगते हैं। उनके काम नहीं।

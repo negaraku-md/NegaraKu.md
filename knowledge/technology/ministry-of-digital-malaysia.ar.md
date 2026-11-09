@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "personal-data-protection-act-2010" }
 related: []
 keywords: ["الوزارة الرقمية", "الوزارة الرقمية الماليزية", "Kementerian Digital", "Ministry of Digital Malaysia", "Gobind Singh Deo", "MDEC", "JDN", "CyberSecurity Malaysia", "الاقتصاد الرقمي", "ekonomi digital"]
+framework: profile
 ---
 
 حين قرّرت ماليزيا أن «الرقمنة» أهمّ من أن تتقاسمها مع أي وزارة أخرى، وُلِدت وزارة جديدة. فالوزارة الرقمية هي مركز التحكّم في سياسة التكنولوجيا بالبلاد — موطنٌ يجمع الاقتصاد الرقمي والأمن السيبراني وحماية البيانات الشخصية تحت سقف واحد.

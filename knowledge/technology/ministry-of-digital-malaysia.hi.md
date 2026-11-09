@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "personal-data-protection-act-2010" }
 related: []
 keywords: ["डिजिटल मंत्रालय", "Kementerian Digital", "Ministry of Digital Malaysia", "Gobind Singh Deo", "MDEC", "JDN", "CyberSecurity Malaysia", "डिजिटल अर्थव्यवस्था", "ekonomi digital"]
+framework: profile
 ---
 
 जब मलेशिया ने तय किया कि «डिजिटल» किसी और मंत्रालय के साथ साझा करने के लिए बहुत महत्वपूर्ण है, तो एक नया मंत्रालय जन्मा। डिजिटल मंत्रालय देश का प्रौद्योगिकी-नीति नियंत्रण केंद्र है — एक ही छत के नीचे डिजिटल अर्थव्यवस्था, साइबर सुरक्षा और व्यक्तिगत डेटा संरक्षण का घर।

@@ -77,6 +77,7 @@ related: []
 keywords: ["AADK", "Agensi Antidadah Kebangsaan", "National Anti-Drugs Agency", "drug rehabilitation Malaysia", "Cure and Care", "Puspen", "NADA Malaysia", "voluntary drug treatment", "Drug Dependants Act 1983"]
 social:
   hashtags: ["#AADK", "#NegaraKu", "#DrugRehabilitation", "#MalaysiaHomeAffairs"]
+framework: profile
 ---
 
 Malaysia chia phản ứng với ma túy của mình thành hai nửa rộng. Một nửa là thực thi hình sự — bắt những kẻ buôn lậu, thu giữ nguồn cung, truy tố các tội — và nửa đó được cảnh sát dẫn dắt. Nửa còn lại là **giảm cầu**: ngăn người ta sử dụng ma túy ngay từ đầu, và điều trị cùng cai nghiện cho những người có sử dụng. Nửa đó được **Cơ quan Phòng chống Ma túy Quốc gia** (*Agensi Antidadah Kebangsaan*, hay **AADK**, cũng được viết là **NADA**), một cơ quan trực thuộc **Bộ Nội vụ** (*Kementerian Dalam Negeri*, KDN), dẫn dắt. AADK vận hành các trung tâm cai nghiện ma túy của đất nước, cung cấp các chương trình phòng ngừa và giáo dục, và quản lý việc chăm sóc hậu cai cho những người đang phục hồi.

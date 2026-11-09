@@ -97,6 +97,7 @@ keywords:
   - "manufacturing licence Malaysia ICA 1975"
   - "Malaysia investment agency directory"
   - "agensi pelaburan Malaysia"
+framework: explainer
 ---
 
 Les investisseurs étrangers arrivent en s'attendant à un seul régulateur. La Malaisie en a une douzaine, ils ne se parlent pas, et celui par lequel tout le monde commence — SSM — n'approuve presque rien.

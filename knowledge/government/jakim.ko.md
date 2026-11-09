@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "islamic-finance" }
 related: ["article-3-religion", "federal-state-division", "civil-and-syariah-courts", "majlis-raja-raja"]
 keywords: ["JAKIM", "Jabatan Kemajuan Islam Malaysia", "Department of Islamic Development Malaysia", "MKI", "Majlis Kebangsaan Bagi Hal Ehwal Ugama Islam Malaysia", "BAHEIS", "hal ehwal Islam", "pensijilan halal", "undang-undang syarak", "Jabatan Perdana Menteri"]
+framework: profile
 ---
 
 JAKIM이라는 이름은 식품 포장의 할랄 로고에서 가장 자주 눈에 띕니다. 그러나 할랄 인증은 이 부처의 여러 기능 가운데 하나일 뿐입니다. 그 뒤에는 더 넓은 역할이 자리합니다. 즉, 이슬람 종교 행정을 주(state)의 손에 두는 나라에서 연방 차원의 이슬람 업무를 조정하는 것입니다.

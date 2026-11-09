@@ -73,6 +73,7 @@ wikidata: "Q6742016"
 relations: []
 related: []
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department Malaysia", "MyJPJ", "road tax renewal", "driving licence renewal", "e-LKM", "e-LMM", "MySIKAP", "JPJeBid", "Road Transport Act 1987", "KEJARA demerit points", "cukai jalan", "lesen memandu"]
+framework: profile
 ---
 
 Setiap pajak jalan yang dibayar, pelat nomor yang dikeluarkan, dan lisensi mengemudi yang dibawa di Malaysia melalui satu agensi: **Jabatan Pengangkutan Jalan**, yang dikenal di mana-mana dengan singkatannya **JPJ**. Ia beroperasi di bawah Bahagian Darat **Kementerian Pengangkutan** dan merupakan departemen yang bertanggung jawab mendaftarkan kendaraan, mengeluarkan lisensi mengemudi dan pelat nomor kendaraan, serta menegakkan Akta Pengangkutan Jalan 1987 untuk memastikan pengemudi yang bijak dan kendaraan yang aman.

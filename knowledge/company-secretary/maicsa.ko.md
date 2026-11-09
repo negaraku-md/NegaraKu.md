@@ -76,6 +76,7 @@ relations:
   - { rel: "part-of", to: "company-secretary" }
 related: ["company-secretary-qualification", "appoint-company-secretary", "ssm"]
 keywords: ["MAICSA", "Chartered Secretaries Malaysia", "Malaysian Institute of Chartered Secretaries and Administrators", "MAICSA membership company secretary", "Fourth Schedule Companies Act 2016 approved bodies"]
+framework: profile
 ---
 
 MAICSA는 회사 비서가 누구에게 소속되는지 물었을 때 대부분의 말레이시아인이

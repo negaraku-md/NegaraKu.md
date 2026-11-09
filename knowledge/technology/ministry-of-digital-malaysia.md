@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "personal-data-protection-act-2010" }
 related: []
 keywords: ["Kementerian Digital", "Ministry of Digital Malaysia", "Gobind Singh Deo", "MDEC", "JDN", "CyberSecurity Malaysia", "ekonomi digital"]
+framework: profile
 ---
 
 Apabila Malaysia memutuskan bahawa "digital" terlalu penting untuk dikongsi dengan mana-mana kementerian lain, sebuah kementerian baharu dilahirkan. Kementerian Digital ialah pusat kawalan dasar teknologi negara — rumah bagi ekonomi digital, keselamatan siber dan perlindungan data peribadi di bawah satu bumbung.

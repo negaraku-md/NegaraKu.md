@@ -75,6 +75,7 @@ wikidata: "Q4294304"
 relations: []
 related: []
 keywords: ["KDN", "Kementerian Dalam Negeri", "Ministry of Home Affairs Malaysia", "MOHA", "KDN agencies", "KDN departments", "agensi bawah KDN", "Menteri Dalam Negeri", "fungsi KDN", "JPN", "Jabatan Imigresen", "PDRM", "AKPS", "Registry of Societies", "Lembaga Penapisan Filem"]
+framework: profile
 ---
 
 当马来西亚人更新护照、当警察逮捕嫌犯、当外籍工人的准证被查验，或当一部电影在上映前被分级——这四种情形背后都是同一个部门。这个部门就是**内政部**，马来文称为 **Kementerian Dalam Negeri（KDN）**，英文称为 **MOHA**。

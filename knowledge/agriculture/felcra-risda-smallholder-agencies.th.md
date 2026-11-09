@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "mspo-palm-oil-certification" }
 related: ["felda-land-settlement-scheme", "rubber-industry"]
 keywords: ["FELCRA", "RISDA", "pekebun kecil", "penyatuan tanah", "pemulihan tanah", "tanam semula getah", "pembangunan luar bandar", "Akta 85"]
+framework: profile
 ---
 
 สองหน่วยงานที่ไม่ค่อยถูกกล่าวถึงพร้อมกัน แต่กลับสัมผัสชะตากรรมของครอบครัวชนบทหลายแสนครอบครัว หน่วยงานหนึ่งฟื้นฟูที่ดินรกร้าง อีกหน่วยงานหนึ่งดูแลให้ต้นยางเก่าถูกแทนที่ก่อนที่รายได้ของเกษตรกรจะหยุดชะงัก นั่นคือ FELCRA และ RISDA

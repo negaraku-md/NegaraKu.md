@@ -80,6 +80,7 @@ wikidata: "Q12698635"
 relations: []
 related: []
 keywords: ["MyIPO", "Intellectual Property Corporation of Malaysia", "Perbadanan Harta Intelek Malaysia", "trademark registration Malaysia", "patent registration Malaysia", "MyIPO trademark fees", "Trademarks Act 2019", "copyright Malaysia", "industrial design Malaysia", "geographical indication Malaysia", "IP registration Malaysia", "MyIPO online filing"]
+framework: profile
 ---
 
 말레이시아에서 무언가를 발명했거나, 브랜드를 구축했거나, 제품을 디자인했거나, 지역 특산품을 보호하고자 한다면, 그 거의 모든 것을 처리하는 창구는 하나뿐입니다 — 그리고 단일 서비스만을 판매하려는 페이지에 의해 잘못된 창구로 안내되기 쉽습니다. **MyIPO**, 즉 말레이시아 지식재산공사(Intellectual Property Corporation of Malaysia, 말레이어: *Perbadanan Harta Intelek Malaysia*)는 말레이시아의 지식재산 제도 전체를 발전시키고 관리할 책임을 지는 법정 기관입니다. 그 범위는 산업재산권 — 특허, 상표, 산업디자인 및 집적회로 배치설계 — 뿐만 아니라 저작권 및 관련 권리에까지 미칩니다.

@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "sarawak-tourism-board" }
 related: []
 keywords: ["Tourism Malaysia", "MOTAC", "Malaysia Tourism Promotion Board", "Sarawak Tourism Board", "Sabah Tourism Board", "Penang Global Tourism", "tourism licensing Malaysia"]
+framework: profile
 ---
 
 When a "Malaysia Truly Asia" advert catches your eye, one statutory body paid for it — but a different ministry decides whether the tour operator behind your trip is even allowed to sell it. Malaysian tourism runs on a division of labour, and knowing who does what saves a lot of confusion.

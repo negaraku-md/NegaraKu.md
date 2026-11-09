@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["Majlis Raja-Raja", "Conference of Rulers", "Perkara 38 Perlembagaan Persekutuan", "Jadual Kelima", "pemilihan Yang di-Pertuan Agong", "Penyimpan Mohor Besar Raja-Raja"]
+framework: profile
 ---
 
 연방헌법(Federal Constitution)에는 좀처럼 언급되지 않는 짧은 목록이 하나 있습니다. 의회(Parliament)가 홀로 통과시킬 수 없는 사항의 목록입니다. 그 사항들에 대해서는 하원과 상원에서의 3분의 2 표결만으로는 충분하지 않습니다. 또 다른 한 기관의 동의가 필요한데 — 그 기관이 바로 통치자 회의(Majlis Raja-Raja)입니다.

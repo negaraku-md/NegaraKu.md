@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "solar-atap-malaysia" }
 related: []
 keywords: ["SEDA", "Sustainable Energy Development Authority", "feed-in tariff", "NEM", "Solar ATAP", "KWTBB", "tenaga boleh baharu", "PETRA"]
+framework: profile
 ---
 
 ทุกครั้งที่ท่านจ่ายบิลค่าไฟฟ้าในคาบสมุทร ส่วนเล็ก ๆ ของมันไหลไปยังองค์กรตามกฎหมายที่ท่านอาจไม่เคยได้ยินชื่อ และองค์กรนั้นเองที่กำหนดว่าโซลาร์บนหลังคาของท่านคุ้มค่าหรือไม่

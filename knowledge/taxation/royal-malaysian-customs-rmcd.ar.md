@@ -75,6 +75,7 @@ wikidata: "Q7374434"
 relations: []
 related: []
 keywords: ["RMCD", "Royal Malaysian Customs Department", "Jabatan Kastam Diraja Malaysia", "JKDM", "Kastam Malaysia", "SST Malaysia", "sales and service tax", "import duty Malaysia", "customs clearance Malaysia", "MySST", "uCustoms", "excise duty Malaysia", "service tax registration", "الجمارك الماليزية", "ضريبة المبيعات والخدمات ماليزيا"]
+framework: profile
 ---
 
 في كل مرة تدفع فيها ضريبة على فاتورة مطعم، أو تخلّص طردًا عبر الجمارك، أو تملأ

@@ -85,6 +85,7 @@ entity: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM) / Department of Labou
 relations: []
 related: []
 keywords: ["JTKSM", "Jabatan Tenaga Kerja Semenanjung Malaysia", "Labour Department Malaysia", "Department of Labour Peninsular Malaysia", "pejabat buruh", "aduan buruh", "eAduan JTKSM", "how to file labour complaint Malaysia", "unpaid salary Malaysia", "Labour Court Malaysia", "Employment Act 1955", "Section 69 Employment Act", "JTK complaint", "gaji tak dibayar"]
+framework: profile
 ---
 
 Si votre employeur ne vous a pas versé votre salaire, il existe un bureau gouvernemental précis dont la mission est d'enquêter et, lorsque la loi le permet, d'ordonner le paiement de cet argent — sans que vous ayez à engager un avocat ni à saisir un tribunal civil. En Malaisie péninsulaire, ce bureau est le **JTKSM** : le *Jabatan Tenaga Kerja Semenanjung Malaysia*, ou **Département du Travail de la Malaisie péninsulaire (Department of Labour Peninsular Malaysia)**. Il relève du **ministère des Ressources humaines** et fait appliquer l'Employment Act 1955 et les lois du travail connexes.

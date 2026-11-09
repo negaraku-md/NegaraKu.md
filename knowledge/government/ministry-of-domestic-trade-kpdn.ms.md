@@ -79,6 +79,7 @@ wikidata: "Q12689906"
 relations: []
 related: []
 keywords: ["KPDN", "Ministry of Domestic Trade and Cost of Living", "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup", "KPDN aduan", "Price Control and Anti-Profiteering Act 2011", "Akta Kawalan Harga", "Ez ADU KPDN", "TTPM tribunal tuntutan pengguna", "KPDN hotline", "kawalan harga barang", "consumer protection Malaysia", "Armizan Mohd Ali", "SSM MyIPO MyCC", "Ops Pantau KPDN"]
+framework: profile
 ---
 
 Apabila seorang peniaga mengenakan bayaran berlebihan untuk minyak masak, menjual barangan terkawal melebihi harga silingnya, atau enggan menunaikan tanggungjawab terhadap produk yang rosak, badan persekutuan yang bertugas bertindak bagi pihak anda ialah **KPDN** — **Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup**. Ia membangunkan perdagangan dalam negeri, mengawal harga barangan keperluan harian, dan melindungi pengguna, disokong oleh statut yang sebenar, saluran aduan yang aktif, dan sebuah tribunal tuntutan kecil yang dibina untuk pembeli biasa.

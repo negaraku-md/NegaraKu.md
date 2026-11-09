@@ -72,6 +72,7 @@ relations:
   - { rel: "governs", to: "akta-pertahanan-awam-1951" }
 related: []
 keywords: ["APM", "JPAM", "मलेशिया नागरिक सुरक्षा बल", "नागरिक सुरक्षा", "आपातकालीन सहायता", "PASPA", "Akta 221", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "sukarelawan pertahanan awam"]
+framework: profile
 ---
 
 जब कोई बड़ी बाढ़ आती है या कोई इमारत ढह जाती है, तो नावों, रस्सियों और बचाव उपकरणों के साथ पहुँचने वाली पहली टीमों में से एक अक्सर APM की नारंगी वर्दी में होती है। मलेशिया नागरिक सुरक्षा बल (APM) देश की मानवीय राहत की रीढ़ है — आपदा से पहले, उसके दौरान और बाद में मौजूद।

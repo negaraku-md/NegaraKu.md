@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "dewan-rakyat"]
 keywords: ["SPR", "Suruhanjaya Pilihan Raya", "Akta Pilihan Raya 1958", "Akta Kesalahan Pilihan Raya 1954", "persempadanan", "Perlembagaan Persekutuan", "Perkara 113", "Perkara 114"]
+framework: profile
 ---
 
 Setiap kali Parlimen dibubarkan dan negara bergerak ke arah pilihan raya umum, satu badan yang sama menjadi wasit: Suruhanjaya Pilihan Raya. Ia yang menetapkan tarikh, menyemak daftar pemilih, mengendalikan hari penamaan calon dan hari mengundi, serta mengisytiharkan keputusan. Namun kuasa dan hadnya bukan datang daripada mana-mana kerajaan yang memerintah, tetapi daripada Perlembagaan Persekutuan itu sendiri.

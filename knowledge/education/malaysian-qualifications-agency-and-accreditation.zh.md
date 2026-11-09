@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "higher-education-in-malaysia" }
 related: []
 keywords: ["MQA", "MQA accreditation", "Malaysian Qualifications Framework", "MQF", "MQR", "degree recognition Malaysia", "provisional accreditation", "full accreditation"]
+framework: profile
 ---
 
 两名学生毕业时拿着名称听起来一样的文凭。其中一人有资格获得政府工作和硕士学位名额；另一人却被拒之门外。这个差别往往就在一份公开名册上的一行字：马来西亚学术资格鉴定机构是否认证了该课程。

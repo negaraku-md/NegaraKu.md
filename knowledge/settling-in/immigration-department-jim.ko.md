@@ -77,6 +77,7 @@ wikidata: "Q5260346"
 relations: []
 related: []
 keywords: ["Immigration Department of Malaysia", "Jabatan Imigresen Malaysia", "JIM", "imi.gov.my", "MyOnline Passport", "MDAC", "Malaysia Digital Arrival Card", "Malaysia passport renewal", "Malaysia passport fee", "10-year passport Malaysia", "Malaysia eVisa", "Malaysia visa pass permit", "Immigration Act 1959/63", "Passport Act 1966"]
+framework: profile
 ---
 
 한 기관이 사람이 말레이시아 국경을 넘거나, 이곳에 살거나, 이곳에서 일하게 해주는 거의 모든 문서 뒤에 서 있습니다. **말레이시아 이민국** — *Jabatan Imigresen Malaysia*(**JIM**) — 은 **내무부** 산하 기관으로, 시민에게 여권을 발급하고, 외국인에게 비자와 패스를 부여하며, 모든 공항과 육상 국경 창구에 인력을 배치하고, 이민법을 집행합니다. 말레이시아 국민, 영주권자, 외국인 방문객을 대상으로 하며, **1922년 7월 21일**부터 운영되어 왔습니다. 새로 오는 사람에게 함정은 그 서비스가 여러 공식 웹사이트에 흩어져 있다는 점입니다 — 이 페이지가 그것들을 지도로 정리합니다.

@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "higher-education-in-malaysia" }
 related: []
 keywords: ["MQA", "MQA accreditation", "Malaysian Qualifications Framework", "MQF", "MQR", "degree recognition Malaysia", "provisional accreditation", "full accreditation"]
+framework: profile
 ---
 
 Two students graduate with the same-sounding diploma. One qualifies for a government job and a master's place; the other is turned away at the door. The difference is often a single line in a public register: whether the Malaysian Qualifications Agency accredited the programme.

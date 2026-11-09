@@ -67,6 +67,7 @@ wikidata: "Q279453"
 relations: []
 related: []
 keywords: ["MDEC", "Malaysia Digital Economy Corporation", "Malaysia Digital Status", "MD Status", "MSC Malaysia", "MSC status", "Malaysia Digital Bill of Guarantees", "Malaysia Digital tax incentive", "MD activities", "knowledge worker Malaysia", "Cyberjaya", "digital economy Malaysia"]
+framework: profile
 ---
 
 Cari "Status Malaysia Digital" dan hampir setiap hasil pencarian adalah sebuah firma konsultan yang menjual layanan permohonan — dan kebanyakannya mengaburkan tiga hal terpisah menjadi satu. Ada **agensi** (MDEC), ada **status** yang dianugerahkannya (Status MD), dan ada **insentif pajak** yang merupakan permohonan yang benar-benar terpisah dengan syarat yang jauh lebih ketat. Membedakannya adalah perbedaan antara ambang RM1,000 dan RM50,000. Berikut adalah setiap lapisan, dari sumber utama.

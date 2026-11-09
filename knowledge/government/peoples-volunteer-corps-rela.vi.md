@@ -73,6 +73,7 @@ related: ["jpn"]
 keywords: ["RELA", "Ikatan Relawan Rakyat", "Jabatan Sukarelawan Malaysia", "People's Volunteer Corps", "rela maksud", "Malaysia Volunteers Corps Act 2012", "Act 752", "RELA members", "volunteer security force Malaysia", "Ministry of Home Affairs"]
 social:
   hashtags: ["RELA", "JabatanSukarelawanMalaysia", "Malaysia"]
+framework: profile
 ---
 
 Nếu bạn đã từng lái xe qua một chốt chặn vào đêm trước một ngày lễ công cộng, xếp hàng tại một lễ hội đông đúc, hoặc đi ngang một trạm cứu trợ thảm họa sau một trận lụt, thì có lẽ bạn đã thấy **RELA** — những tình nguyện viên mặc đồng phục điều khiển giao thông và giúp một tay cho các cơ quan chức năng. **Đoàn Tình nguyện Nhân dân** (*Ikatan Relawan Rakyat*, ngày nay là *Jabatan Sukarelawan Malaysia*, **RELA**) là một lực lượng tình nguyện dân sự được tổ chức thành một cục trực thuộc **Bộ Nội vụ** (*Kementerian Dalam Negeri*, KDN). Các thành viên của nó hỗ trợ cảnh sát, lực lượng vũ trang và các cơ quan khác — bản thân họ không phải là một lực lượng cảnh sát độc lập.

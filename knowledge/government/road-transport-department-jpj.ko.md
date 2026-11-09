@@ -75,6 +75,7 @@ related: []
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department", "driving licence Malaysia", "road tax", "vehicle registration", "Road Transport Act 1987", "MyJPJ", "mySIKAP", "LKM"]
 social:
   hashtags: ["JPJ", "RoadTaxMalaysia", "DrivingLicence", "MyJPJ"]
+framework: profile
 ---
 
 대부분의 사람은 단 한 순간에 **육상교통청**을 마주합니다 — 도로세를 갱신하거나, 운전면허 시험을 보거나, 중고차를 이전할 때. 그러나 JPJ는 그 모든 거래의 뒤에 서 있는 기관입니다. **육상교통청**(*Jabatan Pengangkutan Jalan*, 즉 **JPJ**)은 말레이시아 **교통부(MOT)** 산하 기관입니다. 자동차와 운전자를 등록하고, 운전면허, 도로세, 번호판을 발급하며, 상용 차량을 허가하고, 차량과 운전자가 공공 도로를 사용하는 방식을 규율하는 법을 집행합니다.

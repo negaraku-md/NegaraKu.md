@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "jabatan-imigresen-malaysia" }
 related: []
 keywords: ["RELA", "रेला", "मलेशिया स्वयंसेवी कोर", "Pasukan Sukarelawan Malaysia", "Akta 752", "अधिनियम 752", "सुरक्षा स्वयंसेवक", "PATI"]
+framework: profile
 ---
 
 आपने उन्हें किसी रैली या आपदा के दौरान वर्दी में यातायात को निर्देशित करते देखा होगा — लेकिन कानून के तहत एक RELA सदस्य वास्तव में क्या कर सकता है, और क्या नहीं?

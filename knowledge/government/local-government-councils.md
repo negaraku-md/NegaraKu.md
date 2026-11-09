@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "state-assemblies-dun" }
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission"]
 keywords: ["Pihak Berkuasa Tempatan", "PBT", "kerajaan tempatan", "Akta Kerajaan Tempatan 1976", "Akta 171", "Majlis Bandaraya", "Majlis Perbandaran", "Majlis Daerah", "Datuk Bandar", "Yang Dipertua", "ahli majlis", "pilihan raya kerajaan tempatan", "Athi Nahappan", "KPKT"]
+framework: profile
 ---
 
 Lapisan kerajaan yang paling dekat dengan kehidupan harian — yang menguruskan pungutan sampah, lampu jalan, lesen perniagaan, kelulusan pelan bangunan dan kadar taksiran — bukanlah Kerajaan Persekutuan atau Kerajaan Negeri, tetapi **Pihak Berkuasa Tempatan (PBT)**. Namun berbeza dengan [Dewan Rakyat](/government/dewan-rakyat) dan [Dewan Undangan Negeri](/government/state-assemblies-dun) yang dianggotai melalui pilihan raya, ahli PBT hari ini **dilantik**, bukan **dipilih**.

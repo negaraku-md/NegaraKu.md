@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "special-needs-education" }
 related: []
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
+framework: profile
 ---
 
 Seorang anak berusia 10 tahun yang menyelesaikan matematika tingkatan lima tidak selalu menonjol di dalam kelas biasa — dan di Malaysia, satu-satunya pusat nasional yang dirancang untuk mencari dan mengasah pikiran seperti ini adalah PERMATApintar.

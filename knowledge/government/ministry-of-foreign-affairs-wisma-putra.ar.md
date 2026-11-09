@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["miti", "matrade"]
 keywords: ["Wisma Putra", "ويسما بوترا", "وزارة الخارجية الماليزية", "Ministry of Foreign Affairs Malaysia", "Kementerian Luar Negeri", "kln.gov.my", "السفارات الماليزية", "المساعدة القنصلية ماليزيا", "المفوضيات العليا الماليزية", "السياسة الخارجية الماليزية"]
+framework: profile
 ---
 
 حين يعلق ماليزي في الخارج، وحين تدلي ماليزيا بصوتها في الأمم المتحدة، أو حين

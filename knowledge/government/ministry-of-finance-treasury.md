@@ -127,6 +127,7 @@ relations:
   - { rel: "explained-in", to: "how-a-bill-becomes-law" }
 related: ["lhdn", "rmcd-kastam", "dewan-rakyat", "auditor-general", "how-a-bill-becomes-law"]
 keywords: ["Kementerian Kewangan Malaysia", "Ministry of Finance Malaysia", "Perbendaharaan", "Treasury Malaysia", "Belanjawan", "Akta 850", "hutang Persekutuan", "Ketua Setiausaha Perbendaharaan"]
+framework: profile
 ---
 
 Setiap ringgit yang dibelanjakan oleh Kerajaan Persekutuan — daripada gaji jururawat di hospital daerah hingga bayaran faedah kepada pemegang bon di London — melalui satu pintu perakaunan yang sama: Perbendaharaan Malaysia. Kementerian Kewangan ialah kementerian yang memegang pintu itu, dan sejak awal 2024, ia memegangnya di bawah satu set had berangka yang termaktub dalam undang-undang.

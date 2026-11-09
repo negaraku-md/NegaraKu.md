@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "higher-education-in-malaysia" }
 related: []
 keywords: ["MQA", "MQA accreditation", "Malaysian Qualifications Framework", "MQF", "MQR", "degree recognition Malaysia", "provisional accreditation", "full accreditation"]
+framework: profile
 ---
 
 Dua orang pelajar bergraduat dengan diploma yang kedengaran sama. Seorang layak untuk pekerjaan kerajaan dan tempat pengajian sarjana; seorang lagi ditolak di pintu masuk. Perbezaannya sering kali terletak pada satu baris dalam daftar awam: sama ada Agensi Kelayakan Malaysia telah mengakreditasi program tersebut.

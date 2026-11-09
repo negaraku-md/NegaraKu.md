@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["epf-as-investor", "khazanah", "pnb", "bursa-malaysia"]
 keywords: ["KWSP", "EPF", "dana persaraan", "pelabur institusi", "dividen KWSP", "Akta KWSP 1991", "simpanan pekerja"]
+framework: profile
 ---
 
 Mỗi khi một người lao động khu vực tư nhân ở Malaysia nhận phiếu lương, một phần thu nhập của họ chảy vào một thể chế duy nhất nay nắm giữ hơn RM1.25 nghìn tỷ. Đó là Quỹ Tiết kiệm Người lao động, hay KWSP.

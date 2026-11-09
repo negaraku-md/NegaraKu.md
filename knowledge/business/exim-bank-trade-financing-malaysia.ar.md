@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "bank-pembangunan-malaysia" }
 related: ["bank-negara-malaysia", "development-financial-institutions-malaysia"]
 keywords: ["بنك EXIM ماليزيا", "EXIM Bank Malaysia", "وكالة ائتمان التصدير", "export credit agency", "تكافل الائتمان التجاري", "trade credit takaful", "تأمين ائتمان التصدير", "تمويل التجارة", "trade financing", "الأسواق غير التقليدية"]
+framework: profile
 ---
 
 يحصل مُصدِّرٌ ماليزيٌّ للآلات على أول طلبية له في سوق ناشئة — مكاسب محتملة هائلة، لكن ماذا يحدث إذا لم يدفع المشتري قط؟ هذا السؤال الوحيد هو مجال العمل الذي أُنشئ بنك EXIM ماليزيا للإجابة عنه.

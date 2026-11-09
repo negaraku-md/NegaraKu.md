@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["miti", "matrade"]
 keywords: ["Wisma Putra", "Ministry of Foreign Affairs Malaysia", "Kementerian Luar Negeri", "kln.gov.my", "Malaysian embassies", "consular assistance Malaysia", "Malaysian high commissions", "Malaysia foreign policy"]
+framework: profile
 ---
 
 Lorsqu'un Malaisien se retrouve bloqué à l'étranger, lorsque la Malaisie émet un vote aux Nations unies, ou lorsqu'un nouvel ambassadeur présente ses lettres de créance dans une capitale étrangère, la même institution soutient les trois — Wisma Putra.

@@ -72,6 +72,7 @@ relations:
   - { rel: "governs", to: "akta-pertahanan-awam-1951" }
 related: []
 keywords: ["APM", "JPAM", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "bantuan kecemasan", "PASPA", "Akta 221", "sukarelawan pertahanan awam"]
+framework: profile
 ---
 
 대규모 홍수가 덮치거나 건물이 붕괴할 때, 보트와 밧줄, 구조 장비를 들고 가장 먼저 도착하는 부대 가운데 하나는 흔히 주황색 제복을 입은 APM입니다. 말레이시아 민방위대(APM)는 재난 발생 전·중·후에 항상 함께하는 국가 인도적 지원의 중추입니다.

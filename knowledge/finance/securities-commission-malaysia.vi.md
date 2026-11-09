@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "capital-markets-and-services-act-2007" }
 related: ["bursa-malaysia", "bank-negara-malaysia"]
 keywords: ["securities commission malaysia", "SC Malaysia", "capital market regulator", "CMSA 2007", "Securities Commission Act 1993", "equity crowdfunding", "P2P financing"]
+framework: profile
 ---
 
 Khi bạn mua một quỹ tín thác đơn vị, đầu tư qua một nền tảng gọi vốn cộng đồng cổ phần, hoặc giao dịch một cổ phiếu trên Bursa Malaysia, một cơ quan đặt ra các quy tắc đằng sau tất cả những điều đó: Securities Commission Malaysia. Đó là người gác cổng theo luật duy nhất cho thị trường vốn của đất nước — và biết chính xác nơi thẩm quyền của nó bắt đầu và dừng lại giúp tiết kiệm rất nhiều bối rối.

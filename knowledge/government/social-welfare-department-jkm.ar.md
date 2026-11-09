@@ -77,6 +77,7 @@ wikidata: "Q7354381"
 relations: []
 related: []
 keywords: ["JKM", "Jabatan Kebajikan Masyarakat", "دائرة الرعاية الاجتماعية", "Department of Social Welfare Malaysia", "bantuan JKM", "OKU card", "بطاقة OKU", "OKU registration", "eBantuan JKM", "eKasih", "MyDaftar OKU", "Bantuan Kanak-Kanak BKK", "Persons with Disabilities Act 2008", "kad OKU"]
+framework: profile
 ---
 
 إنّ **دائرة الرعاية الاجتماعية** — *Jabatan Kebajikan Masyarakat*، المعروفة في

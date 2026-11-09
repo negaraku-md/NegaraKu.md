@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "rmcd-kastam" }
 related: ["moving-to-malaysia-first-steps", "work-passes-malaysia", "employment-pass-malaysia", "hiring-foreign-workers-malaysia", "foreign-worker-levy-malaysia", "jpn", "rmcd-kastam"]
 keywords: ["Departamento de Inmigración de Malasia", "Jabatan Imigresen Malaysia", "JIM", "imigresen", "pasaporte malasio", "visado Malasia", "pase de visita social", "Permiso de Entrada", "ESD", "MDAC", "imi.gov.my"]
+framework: profile
 ---
 
 Todo el que cruza la frontera de Malasia — un ciudadano que renueva un pasaporte,

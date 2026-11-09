@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "bank-pembangunan-malaysia" }
 related: ["bank-negara-malaysia", "development-financial-institutions-malaysia"]
 keywords: ["EXIM Bank Malaysia", "export credit agency", "trade credit takaful", "export credit insurance", "trade financing", "non-traditional markets"]
+framework: profile
 ---
 
 ผู้ส่งออกเครื่องจักรมาเลเซียได้ออเดอร์แรกในตลาดชายแดน — โอกาสมหาศาล แต่จะเกิดอะไรขึ้นหากผู้ซื้อไม่เคยชำระ คำถามเดียวนั้นคือธุรกิจที่ EXIM Bank Malaysia ถูกสร้างขึ้นมาเพื่อตอบ

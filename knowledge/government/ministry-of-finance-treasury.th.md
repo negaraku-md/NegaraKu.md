@@ -128,6 +128,7 @@ relations:
   - { rel: "explained-in", to: "how-a-bill-becomes-law" }
 related: ["lhdn", "rmcd-kastam", "dewan-rakyat", "auditor-general", "how-a-bill-becomes-law"]
 keywords: ["Kementerian Kewangan Malaysia", "Ministry of Finance Malaysia", "Perbendaharaan", "Treasury Malaysia", "Belanjawan", "Akta 850", "hutang Persekutuan", "Ketua Setiausaha Perbendaharaan"]
+framework: profile
 ---
 
 ทุกริงกิตที่รัฐบาลสหพันธ์ใช้จ่าย — ตั้งแต่เงินเดือนพยาบาลในโรงพยาบาลอำเภอจนถึงการจ่ายดอกเบี้ยแก่ผู้ถือพันธบัตรในลอนดอน — ผ่านประตูการบัญชีเดียวกัน คือกระทรวงพระคลังมาเลเซีย กระทรวงการคลังคือกระทรวงที่ถือประตูนั้น และนับตั้งแต่ต้นปี 2024 ก็ถือมันภายใต้ชุดของขีดจำกัดเชิงตัวเลขที่บัญญัติไว้ในกฎหมาย

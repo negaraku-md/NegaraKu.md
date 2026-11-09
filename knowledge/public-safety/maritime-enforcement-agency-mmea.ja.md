@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysian-armed-forces-atm" }
 related: ["pdrm"]
 keywords: ["APMM", "MMEA", "pengawal pantai Malaysia", "penguatkuasaan maritim", "carian dan menyelamat", "Zon Maritim Malaysia", "Akta APMM 2004"]
+framework: profile
 ---
 
 タグボートがマラッカ海峡の中央で沈没したとき、あるいは外国漁民がサバの海域に侵入したとき、まず動き出すのは海の青い制服をまとった文民機関であって、軍隊ではない。それがマレーシア海事法令執行庁（APMM）、国の沿岸警備機関である。

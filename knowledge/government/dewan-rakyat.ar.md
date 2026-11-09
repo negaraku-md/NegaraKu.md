@@ -81,6 +81,7 @@ relations:
   - { rel: "compares-with", to: "parliament" }
 related: ["parliament", "federal-constitution", "formation-of-malaysia-1963"]
 keywords: ["مجلس النواب", "Dewan Rakyat", "المجلس الأدنى في البرلمان", "المادة 46", "Perkara 46", "المادة 55", "مشروع القانون المالي", "222 مقعداً", "House of Representatives Malaysia"]
+framework: profile
 ---
 
 ## لمحة سريعة

@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "cyber-security-act-2024" }
 related: ["cyber-security-act-2024"]
 keywords: ["NACSA", "National Cyber Security Agency", "CyberSecurity Malaysia", "MyCERT", "Cyber999", "Cyber Security Act 2024", "Act 854", "cyber security service provider licence", "Ministry of Digital", "nacsa.gov.my"]
+framework: explainer
 ---
 
 Hai cơ quan chính phủ Malaysia mang chữ "an ninh mạng" trong tên của mình, và người ta liên tục định tuyến sai việc đến sai nơi — một câu hỏi về giấy phép đến đường dây nóng sự cố, một báo cáo tài khoản bị tấn công đến cơ quan chính sách. Các cái tên nghe như có thể thay thế cho nhau. Công việc của chúng thì không.

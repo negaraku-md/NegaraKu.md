@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "higher-education-in-malaysia" }
 related: []
 keywords: ["MQA", "MQA accreditation", "Malaysian Qualifications Framework", "MQF", "MQR", "degree recognition Malaysia", "provisional accreditation", "full accreditation"]
+framework: profile
 ---
 
 นักศึกษาสองคนจบด้วยอนุปริญญาที่ชื่อคล้ายกัน คนหนึ่งมีคุณสมบัติสำหรับงานราชการและที่เรียนต่อปริญญาโท; อีกคนถูกปฏิเสธตั้งแต่หน้าประตู ความแตกต่างมักเป็นเพียงบรรทัดเดียวในทะเบียนสาธารณะ: ว่าหน่วยงานคุณวุฒิมาเลเซียรับรองหลักสูตรนั้นหรือไม่

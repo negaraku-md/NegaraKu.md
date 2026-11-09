@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "jawi-script" }
 related: ["bahasa-melayu", "jawi-script"]
 keywords: ["dewan bahasa dan pustaka", "dbp", "bahasa melayu", "kamus dewan", "sasterawan negara", "badan berkanun"]
+framework: profile
 ---
 
 Mỗi lần bạn tra chính tả của một từ tiếng Mã Lai, bắt gặp một thuật ngữ khoa học mới, hay đọc danh hiệu của một Văn hào Quốc gia, đều có một định chế đứng sau hậu trường: Dewan Bahasa dan Pustaka.

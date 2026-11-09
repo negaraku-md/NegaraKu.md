@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "investment-agency-directory" }
 related: ["mida", "miti", "investment-agency-directory"]
 keywords: ["MATRADE", "Malaysia External Trade Development Corporation", "MATRADE vs MIDA", "Malaysia export promotion agency", "Malaysia trade promotion agency", "Market Development Grant Malaysia", "MATRADE overseas offices"]
+framework: profile
 ---
 
 ถามผู้ส่งออกมือใหม่ว่าหน่วยงานรัฐใดจัดการบูทงานแสดงสินค้าของตน ราวครึ่งหนึ่งจะตอบว่า MIDA แต่ MIDA ไม่ได้ทำ นั่นเป็นหน้าที่ของ MATRADE — และสองหน่วยงานทำงานคนละปลายของความสัมพันธ์ทางการค้าเดียวกัน

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "personal-data-protection-act-2010" }
 related: []
 keywords: ["Kementerian Digital", "Ministry of Digital Malaysia", "Gobind Singh Deo", "MDEC", "JDN", "CyberSecurity Malaysia", "ekonomi digital"]
+framework: profile
 ---
 
 Khi Malaysia quyết định rằng "kỹ thuật số" quá quan trọng để chia sẻ với bất kỳ bộ nào khác, một bộ mới ra đời. Bộ Kỹ thuật số là trung tâm điều khiển chính sách công nghệ của đất nước — mái nhà cho kinh tế số, an ninh mạng và bảo vệ dữ liệu cá nhân dưới một mái nhà.

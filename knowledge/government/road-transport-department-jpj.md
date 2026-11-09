@@ -74,6 +74,7 @@ related: []
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department", "driving licence Malaysia", "road tax", "vehicle registration", "Road Transport Act 1987", "MyJPJ", "mySIKAP", "LKM"]
 social:
   hashtags: ["JPJ", "RoadTaxMalaysia", "DrivingLicence", "MyJPJ"]
+framework: profile
 ---
 
 Most people meet the **Road Transport Department** at a single moment — renewing road tax, sitting a driving test, or transferring a used car. But JPJ is the department that stands behind every one of those transactions. The **Road Transport Department** (*Jabatan Pengangkutan Jalan*, or **JPJ**) is an agency under Malaysia's **Ministry of Transport (MOT)**. It registers motor vehicles and drivers, issues driving licences, road tax and number plates, licenses commercial vehicles, and enforces the laws that govern how vehicles and drivers use public roads.

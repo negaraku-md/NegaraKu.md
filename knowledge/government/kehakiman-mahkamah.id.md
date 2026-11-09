@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["Malaysia court hierarchy", "Federal Court of Malaysia", "Court of Appeal Malaysia", "High Court in Malaya", "Sessions Court jurisdiction", "Judicial Appointments Commission", "Article 122B"]
+framework: explainer
 ---
 
 Satu sengketa kontrak bernilai RM60,000 dan satu tantangan terhadap keabsahan suatu statuta federal keduanya bermula sebagai sehelai kertas yang diajukan di loket mahkamah. Keduanya tidak pergi ke loket yang sama, tidak diputuskan oleh jenis hakim yang sama, dan hanya salah satunya yang boleh berakhir di hadapan sembilan hakim di Putrajaya.

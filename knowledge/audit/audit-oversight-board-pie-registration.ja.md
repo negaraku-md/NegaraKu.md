@@ -94,6 +94,7 @@ relations:
   - { rel: "governs", to: "statutory-audit-process" }
 related: ["appointing-an-auditor", "audit-opinion-types", "changing-auditors"]
 keywords: ["Audit Oversight Board", "AOB", "public interest entity", "PIE auditor registration", "Securities Commission Malaysia", "Part IIIA SCMA", "schedule fund", "EQCR", "auditor oversight Malaysia"]
+framework: profile
 ---
 
 財務大臣の監査免許に合格し、MIAに加入しただけでは、Bursa上場企業の会計書類にまだ署名することはできない。資本市場監査にはさらなる要件がある——監査監督委員会への登録である——これは公共利益事業体及びschedule fundの監査人だけが満たす必要がある。

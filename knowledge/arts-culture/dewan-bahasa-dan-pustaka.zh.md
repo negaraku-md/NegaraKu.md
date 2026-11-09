@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "jawi-script" }
 related: ["bahasa-melayu", "jawi-script"]
 keywords: ["dewan bahasa dan pustaka", "dbp", "bahasa melayu", "kamus dewan", "sasterawan negara", "badan berkanun"]
+framework: profile
 ---
 
 每当你查证某个马来词汇的拼写、遇到一个新的科学术语，或读到某位国家文学家的称号时，幕后都有一个机构在运作：语文出版局（Dewan Bahasa dan Pustaka）。

@@ -95,6 +95,7 @@ relations:
   - { rel: "compares-with", to: "swcorp" }
 related: ["environmental-impact-assessment-eia-malaysia"]
 keywords: ["Department of Environment", "DOE", "Jabatan Alam Sekitar", "JAS", "Environmental Quality Act 1974", "Act 127", "EIA Malaysia", "scheduled waste", "NRES", "Departamento de Medio Ambiente", "Ley de Calidad Ambiental", "residuos programados"]
+framework: profile
 ---
 
 Si una fábrica malasia vierte efluentes a un río, si una autopista necesita el visto bueno ambiental antes de que caiga el primer árbol, o si una planta envía bidones de lodos peligrosos a un eliminador autorizado — un único departamento federal está detrás de las tres cosas. Saber qué hace el Departamento de Medio Ambiente, y, lo que es igual de importante, qué *no* hace, le ahorra llamar a la puerta de la agencia equivocada.

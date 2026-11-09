@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "syariah-courts-malaysia" }
 related: ["waqf-islamic-endowment-malaysia", "federal-constitution"]
 keywords: ["Majlis Agama Islam Negeri", "MAIN", "zakat", "wakaf", "fatwa", "Perkara 3", "Senarai Negeri", "pentadbiran Islam"]
+framework: profile
 ---
 
 உங்கள் மாநிலத்தில் ஜகாத் (zakat), வக்பு (wakaf) மற்றும் மசூதிகளை நிர்வகிப்பது யார் என்று கேளுங்கள், அதற்கான பதில் புத்ராஜெயாவில் (Putrajaya) உள்ள ஒரு அமைச்சு அல்ல — மாறாக அந்த மாநிலத்தின் அரசருக்கே (Raja) பொறுப்பேற்கும் ஒரு மாநில சட்டரீதியான அமைப்பாகும். அந்த அமைப்பே மாநில இஸ்லாமிய சமய மன்றம் (Majlis Agama Islam Negeri, MAIN) ஆகும்; ஒவ்வொரு மாநிலத்திலும் அது இருப்பதற்குக் காரணம் ஒரு அரசியலமைப்புக் கொள்கையே: இஸ்லாமிய சமய விவகாரங்கள் ஒரு மாநில விஷயம், கூட்டாட்சி விஷயம் அல்ல.

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-malaysia" }
 related: ["federal-constitution", "pdrm"]
 keywords: ["angkatan tentera malaysia", "ATM", "kementerian pertahanan", "MINDEF", "majlis angkatan tentera", "panglima angkatan tentera", "akta angkatan tentera 1972", "kertas putih pertahanan", "tentera darat", "tentera laut diraja malaysia", "tentera udara diraja malaysia"]
+framework: profile
 ---
 
 Les trois branches de service — terre, mer et air — opèrent sous une chaîne de commandement unique enracinée dans le Yang di-Pertuan Agong en tant que Commandant suprême, mais sont dirigées au quotidien par un ministre et un appareil civil. C'est ainsi que la Malaisie organise sa défense : l'autorité suprême au Roi, le contrôle des politiques entre des mains civiles et l'exécution confiée à une armée professionnelle.

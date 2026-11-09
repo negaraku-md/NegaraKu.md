@@ -72,6 +72,7 @@ relations:
   - { rel: "governs", to: "akta-pertahanan-awam-1951" }
 related: []
 keywords: ["APM", "JPAM", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "bantuan kecemasan", "PASPA", "Akta 221", "sukarelawan pertahanan awam"]
+framework: profile
 ---
 
 Khi lũ lớn ập đến hoặc một tòa nhà sụp đổ, một trong những đội đầu tiên tới nơi với thuyền, dây và thiết bị cứu hộ thường mặc áo cam của APM. Lực lượng Phòng vệ Dân sự Malaysia (APM) là xương sống của hỗ trợ nhân đạo quốc gia — có mặt trước, trong và sau một thảm họa.

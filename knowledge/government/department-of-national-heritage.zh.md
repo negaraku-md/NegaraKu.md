@@ -75,6 +75,7 @@ wikidata: "Q7354460"
 relations: []
 related: []
 keywords: ["Jabatan Warisan Negara", "JWN", "Department of National Heritage", "National Heritage Act 2005", "Act 645", "Warisan Kebangsaan", "National Heritage Register", "Commissioner of Heritage", "heritage.gov.my", "MOTAC", "gazette national heritage Malaysia", "Daftar Warisan Kebangsaan", "Warisan Orang Hidup"]
+framework: profile
 ---
 
 当乔治市（George Town）的一间店屋获得保护令，或一位 [*玛蓉*（*mak yong*）](/arts-culture/mak-yong)舞者被尊为在世珍宝时，其决定背后都有一个联邦机构：**国家文化遗产局**——*Jabatan Warisan Negara*（**JWN**）。JWN 成立于 **2006年3月1日**，负责鉴定、保护、宪报颁布及守护马来西亚的遗产，隶属 **旅游、艺术及文化部（MOTAC）**。其明确的愿景是引领探索与保存遗产瑰宝，以铸造国家认同并带动国家经济。

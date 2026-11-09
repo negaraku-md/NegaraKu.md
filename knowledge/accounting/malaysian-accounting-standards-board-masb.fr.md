@@ -74,6 +74,7 @@ wikidata: "Q141851366"
 relations: []
 related: []
 keywords: ["MASB", "Conseil des normes comptables de Malaisie", "MFRS", "MPERS", "Financial Reporting Act 1997", "normes comptables approuvées Malaisie", "cadre MFRS", "Fondation d'information financière", "IFRS Malaisie", "MFRS 18", "norme d'information pour entités privées", "normes MASB force de loi"]
+framework: profile
 ---
 
 Lorsqu'une entreprise malaisienne arrête ses comptes, les règles qu'elle doit suivre ne sont écrites ni par son auditeur, ni par son bureau des impôts, ni par la bourse. Elles sont écrites par le **Conseil des normes comptables de Malaisie (MASB)** — et, fait inhabituel, ces règles ont force de loi.

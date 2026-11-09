@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "personal-bankruptcy-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["AKPK", "Program Pengurusan Kredit", "PPK", "DMP", "penstrukturan hutang", "kaunseling kewangan", "Bank Negara Malaysia", "hutang kad kredit"]
+framework: profile
 ---
 
 신용카드 청구서, 자동차 할부금, 주택 대출이 매달 동시에 몰려오고 급여로는 감당이 안 될 때, 많은 말레이시아 사람들은 마지막 선택지가 파산뿐이라고 생각합니다. 사실은 그보다 앞선 문이 하나 있으며, 그것은 완전히 무료입니다.

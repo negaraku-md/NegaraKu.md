@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "ssm" }
 related: ["parliament", "federal-constitution", "ssm", "malaysia-courts-business-disputes"]
 keywords: ["MACC", "SPRM", "Suruhanjaya Pencegahan Rasuah Malaysia", "MACC Act 2009", "Act 694", "Anti-Corruption Advisory Board", "Special Committee on Corruption"]
+framework: profile
 ---
 
 MACC에 대한 대부분의 설명은 "말레이시아의 반부패 기관"에서 멈춥니다. 더 유용한 질문은 더 좁습니다. 즉, 이 법이 실제로 그 관료에게 무엇을 허용하는지, 그리고 누가 법적으로 그들을 감시할 권한이 있는지입니다.

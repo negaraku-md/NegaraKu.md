@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "mspo-palm-oil-certification" }
 related: ["felda-land-settlement-scheme", "rubber-industry"]
 keywords: ["FELCRA", "RISDA", "pekebun kecil", "penyatuan tanah", "pemulihan tanah", "tanam semula getah", "pembangunan luar bandar", "Akta 85"]
+framework: profile
 ---
 
 좀처럼 함께 언급되지 않지만 수십만 농촌 가정의 운명에 닿는 두 기관: 하나는 유휴 토지를 재생하고, 다른 하나는 자작농의 소득이 끊기기 전에 낡은 고무나무가 교체되도록 합니다. 그것이 FELCRA와 RISDA입니다.

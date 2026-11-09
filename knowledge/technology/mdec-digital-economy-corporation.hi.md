@@ -67,6 +67,7 @@ wikidata: "Q279453"
 relations: []
 related: []
 keywords: ["MDEC", "Malaysia Digital Economy Corporation", "Malaysia Digital Status", "MD Status", "MSC Malaysia", "MSC status", "Malaysia Digital Bill of Guarantees", "Malaysia Digital tax incentive", "MD activities", "knowledge worker Malaysia", "Cyberjaya", "digital economy Malaysia"]
+framework: profile
 ---
 
 «Malaysia Digital Status» खोजिए और लगभग हर परिणाम एक परामर्श फ़र्म मिलेगी जो आवेदन-सेवा बेच रही है — और उनमें से अधिकांश तीन अलग-अलग चीज़ों को एक में घोल देती हैं। एक **एजेंसी** है (MDEC), एक **स्टेटस** है जो वह प्रदान करती है (MD Status), और एक **कर-प्रोत्साहन** है जो कहीं अधिक कड़ी शर्तों वाला पूरी तरह अलग आवेदन है। इन्हें अलग रखना ही RM1,000 की सीमा और RM50,000 की सीमा के बीच का अंतर है। यहाँ प्रत्येक परत प्रस्तुत है, प्राथमिक स्रोतों से।

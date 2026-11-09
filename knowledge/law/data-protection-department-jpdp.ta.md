@@ -80,6 +80,7 @@ wikidata: "Q113543393"
 relations: []
 related: []
 keywords: ["JPDP", "Jabatan Perlindungan Data Peribadi", "Personal Data Protection Department", "PDPA Malaysia", "Personal Data Protection Act 2010", "Act 709", "data controller registration Malaysia", "Personal Data Protection Commissioner", "pdp.gov.my", "PDPA Amendment Act 2024", "data breach notification Malaysia", "DPO Malaysia", "Suruhanjaya Perlindungan Data Peribadi", "SPDP daftar"]
+framework: profile
 ---
 
 மலேசியத் தரவு தனியுரிமை பற்றிய கிட்டத்தட்ட ஒவ்வொரு வழிகாட்டியும் *சட்டத்தை* விளக்குகிறது. *அதை நடத்தும் அலுவலகத்தை* விளக்குபவை மிகக் குறைவே. அந்த அலுவலகம்தான் **தனிப்பட்ட தரவுப் பாதுகாப்புத் துறை** — *Jabatan Perlindungan Data Peribadi* (**JPDP**) — இது Personal Data Protection Act 2010 (Act 709)-ஐ நாடாளுமன்றம் நிறைவேற்றிய பிறகு **16 May 2011** அன்று நிறுவப்பட்டது. இது டிஜிட்டல் அமைச்சகத்தின் (Digital Ministry) கீழ் ஒரு நிறுவனமாக இயங்குகிறது; அந்தச் சட்டத்தை அமல்படுத்துவதில் **தனிப்பட்ட தரவுப் பாதுகாப்பு ஆணையருக்கு** (Personal Data Protection Commissioner) உதவுவதே இதன் பணி. மலேசிய வணிகம் ஒன்று பதிவு செய்யும் துறை இதுவே; சாதாரண குடிமகன் ஒருவர் முறையிடும் துறையும் இதுவே.

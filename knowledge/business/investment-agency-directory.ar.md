@@ -99,6 +99,7 @@ keywords:
   - "دليل جهات الاستثمار في ماليزيا"
   - "MIDA MITI MDEC difference"
   - "manufacturing licence Malaysia"
+framework: explainer
 ---
 
 يصل المستثمرون الأجانب وهم يتوقعون جهةً تنظيميةً واحدة. لكن لدى ماليزيا دزينةً منها،

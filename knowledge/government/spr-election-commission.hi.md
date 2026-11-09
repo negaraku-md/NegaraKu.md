@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "majlis-raja-raja" }
 related: ["three-tiers-of-government", "federal-constitution", "parliament", "dewan-rakyat", "yang-di-pertuan-agong", "majlis-raja-raja"]
 keywords: ["निर्वाचन आयोग", "Suruhanjaya Pilihan Raya", "Election Commission", "SPR", "अनुच्छेद 113", "अनुच्छेद 114", "Perkara 113", "Perkara 114", "संघीय संविधान", "Perlembagaan Persekutuan", "परिसीमन", "मतदाता सूची", "तेरहवीं अनुसूची", "Jadual Ketiga Belas"]
+framework: profile
 ---
 
 मलेशिया में चुनाव कराने वाला निकाय किसी साधारण अधिनियम द्वारा नहीं बनाया गया था, और किसी साधारण अधिनियम द्वारा भंग नहीं किया जा सकता। इसका प्रावधान सीधे संघीय संविधान में है — और दो अनुच्छेद, 113 और 114, यह निर्धारित करते हैं कि यह क्या कर सकता है और इसमें कौन सदस्य हो सकता है।

@@ -62,6 +62,7 @@ relations:
   - { rel: "compares-with", to: "dewan-rakyat" }
 related: ["parliament", "federal-constitution", "dewan-rakyat", "yang-di-pertuan-agong"]
 keywords: ["Dewan Negara", "Senat Malaysia", "senator Malaysia", "Perkara 45 Perlembagaan Persekutuan", "Perkara 68", "Jadual Ketujuh", "pelantikan senator", "kuasa menangguh"]
+framework: profile
 ---
 
 # Dewan Negara: Cara Senator Dilantik dan Mengapa Dewan Ini Menangguh, Bukan Memveto

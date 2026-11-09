@@ -72,6 +72,7 @@ relations:
   - { rel: "governs", to: "akta-pertahanan-awam-1951" }
 related: []
 keywords: ["APM", "JPAM", "Fuerza de Defensa Civil de Malasia", "defensa civil", "auxilio de emergencia", "PASPA", "Akta 221", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "sukarelawan pertahanan awam"]
+framework: profile
 ---
 
 Cuando se producen grandes inundaciones o se derrumba un edificio, uno de los primeros equipos en llegar con botes, cuerdas y equipo de rescate suele ir con los uniformes naranjas de la APM. La Fuerza de Defensa Civil de Malasia (APM) es la columna vertebral del auxilio humanitario del país — presente antes, durante y después de una catástrofe.

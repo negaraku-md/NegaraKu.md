@@ -72,6 +72,7 @@ keywords:
   - "Attorney General's Chambers"
   - "Peguam Negara"
   - "right of audience Attorney General"
+framework: profile
 ---
 
 Kebanyakan jabatan publik didefinisikan oleh statuta yang dapat ditulis ulang oleh Parlimen.

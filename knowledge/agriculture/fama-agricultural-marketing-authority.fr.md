@@ -76,6 +76,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
 related: []
 keywords: ["FAMA", "Autorité fédérale de commercialisation agricole", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Act 141", "marché de producteurs", "My Farm Outlet", "Agrobazaar", "commercialisation agricole", "fama.gov.my"]
+framework: profile
 ---
 
 Un maraîcher des [Cameron Highlands](/tourism/cameron-highlands-visitor-guide) peut cultiver les meilleurs produits, et pourtant le

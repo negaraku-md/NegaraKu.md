@@ -72,6 +72,7 @@ related: []
 keywords: ["APM", "Angkatan Pertahanan Awam Malaysia", "Civil Defence Force", "JPAM", "disaster response Malaysia", "Civil Defence Act 1951", "search and rescue Malaysia", "flood relief Malaysia", "NADMA", "civil defence volunteers"]
 social:
   hashtags: ["APM", "CivilDefence", "DisasterResponse", "Malaysia", "SAR"]
+framework: profile
 ---
 
 モンスーンのたびにマレーシアの東海岸で水位が上がるとき、取り残された家族のもとへ水をかき分けて向かうオレンジ色の制服の人員は、たいてい **APM** のものである。**マレーシア民間防衛隊**——*Angkatan Pertahanan Awam Malaysia*、すなわち **APM**——は、民間防衛と災害対応を担う連邦の制服機関である。洪水救援、捜索救助、人道支援、そして大規模な公共イベントでの安全支援である。**1951年民間防衛法（Civil Defence Act 1951、Act 221）**のもと、そして2015年以降は**首相府**のもとで活動し、同国最大級の訓練されたボランティアの集団を中心に築かれている。

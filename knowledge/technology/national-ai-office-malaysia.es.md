@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "personal-data-protection-act-malaysia" }
 related: []
 keywords: ["national ai office", "oficina nacional de ia malasia", "naio", "ai malaysia", "ai action plan 2026-2030", "aige", "gobernanza de ia malasia", "ai nation 2030"]
+framework: explainer
 ---
 
 Cuando un país quiere dirigir la inteligencia artificial pero no quiere esperar años a que exista una ley, primero crea una oficina. Malasia hizo exactamente eso: en lugar de empezar con una Ley de IA, puso en pie una agencia coordinadora, publicó un conjunto de principios éticos voluntarios y redactó un plan quinquenal — y después comenzó a elaborar la ley.

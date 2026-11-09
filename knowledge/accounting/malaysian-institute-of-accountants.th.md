@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "malaysian-accounting-standards-board" }
 related: []
 keywords: ["MIA", "Institut Akauntan Malaysia", "Akta Akauntan 1967", "Chartered Accountant Malaysia", "CA(M)", "sijil amalan", "lesen audit"]
+framework: profile
 ---
 
 เรียกตนเองว่า นักบัญชี ในมาเลเซียโดยไม่ลงทะเบียนกับองค์กรหนึ่งโดยเฉพาะ แล้วท่านก็กระทำ

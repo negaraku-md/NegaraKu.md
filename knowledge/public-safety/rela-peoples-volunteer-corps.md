@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "jabatan-imigresen-malaysia" }
 related: []
 keywords: ["RELA", "Pasukan Sukarelawan Malaysia", "Ikatan Relawan Rakyat", "Akta 752", "Akta Pasukan Sukarelawan Malaysia 2012", "PATI", "sukarelawan keselamatan"]
+framework: profile
 ---
 
 Anda mungkin pernah melihat mereka berbaju seragam mengawal lalu lintas ketika perhimpunan atau bencana — tetapi apakah sebenarnya yang boleh, dan tidak boleh, dilakukan oleh seorang anggota RELA di sisi undang-undang?

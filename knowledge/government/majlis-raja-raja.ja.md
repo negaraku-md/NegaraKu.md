@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["Majlis Raja-Raja", "Conference of Rulers", "Perkara 38 Perlembagaan Persekutuan", "Jadual Kelima", "pemilihan Yang di-Pertuan Agong", "Penyimpan Mohor Besar Raja-Raja"]
+framework: profile
 ---
 
 連邦憲法には、あまり言及されることのない、ある短い一覧がある。国会が単独では可決できない事項の一覧である。これらの事項については、下院（Dewan Rakyat）及び上院（Dewan Negara）における三分の二の賛成票だけでは足りない。もう一つの機関の同意が必要となる——それが統治者会議である。

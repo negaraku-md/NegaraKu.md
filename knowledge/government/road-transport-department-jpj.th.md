@@ -75,6 +75,7 @@ related: []
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department", "driving licence Malaysia", "road tax", "vehicle registration", "Road Transport Act 1987", "MyJPJ", "mySIKAP", "LKM"]
 social:
   hashtags: ["JPJ", "RoadTaxMalaysia", "DrivingLicence", "MyJPJ"]
+framework: profile
 ---
 
 คนส่วนใหญ่พบ **กรมการขนส่งทางถนน** ในช่วงเวลาเดียว — ตอนต่อภาษีถนน สอบใบขับขี่ หรือโอนรถมือสอง แต่ JPJ คือกรมที่อยู่เบื้องหลังทุกธุรกรรมเหล่านั้น **กรมการขนส่งทางถนน** (*Jabatan Pengangkutan Jalan* หรือ **JPJ**) เป็นหน่วยงานภายใต้ **กระทรวงคมนาคม (MOT)** ของมาเลเซีย มันจดทะเบียนยานยนต์และผู้ขับขี่ ออกใบขับขี่ ภาษีถนน และป้ายทะเบียน ออกใบอนุญาตยานพาหนะเชิงพาณิชย์ และบังคับใช้กฎหมายที่กำกับว่ายานพาหนะและผู้ขับขี่ใช้ถนนสาธารณะอย่างไร

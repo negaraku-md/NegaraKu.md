@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "digital-free-trade-zone" }
 related: ["lhdn", "sst-explained", "sst-registration", "sales-tax-explained", "anti-dumping-countervailing-duties"]
 keywords: ["RMCD", "Kastam", "Jabatan Kastam Diraja Malaysia", "douanes Malaisie", "droit de douane Malaisie", "SST Customs", "droits d'accise Malaisie"]
+framework: profile
 ---
 
 Deux organismes, un ministère, et une ligne que presque personne ne trace correctement du

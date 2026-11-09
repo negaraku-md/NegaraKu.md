@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysian-armed-forces-atm" }
 related: ["pdrm"]
 keywords: ["APMM", "MMEA", "pengawal pantai Malaysia", "penguatkuasaan maritim", "carian dan menyelamat", "Zon Maritim Malaysia", "Akta APMM 2004"]
+framework: profile
 ---
 
 Ketika sebuah kapal tunda tenggelam di tengah Selat Melaka atau nelayan asing menerobos perairan Sabah, sebuah lembaga sipil berseragam biru laut yang bergerak lebih dulu — bukan militer. Itulah Agensi Penguatkuasaan Maritim Malaysia (APMM), penjaga pantai negara.

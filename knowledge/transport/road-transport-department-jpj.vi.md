@@ -73,6 +73,7 @@ wikidata: "Q6742016"
 relations: []
 related: []
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department Malaysia", "MyJPJ", "road tax renewal", "driving licence renewal", "e-LKM", "e-LMM", "MySIKAP", "JPJeBid", "Road Transport Act 1987", "KEJARA demerit points", "cukai jalan", "lesen memandu"]
+framework: profile
 ---
 
 Mọi khoản thuế đường bộ được trả, biển số được cấp, và giấy phép lái xe được mang theo ở Malaysia đều đi qua một cơ quan: **Cục Giao thông Đường bộ** — *Jabatan Pengangkutan Jalan*, được biết đến khắp nơi bằng chữ viết tắt của nó là **JPJ**. Nó vận hành dưới Bộ phận Đường bộ của **Bộ Giao thông** và là cơ quan chịu trách nhiệm đăng ký phương tiện, cấp giấy phép lái xe và biển số phương tiện, và thực thi Luật Giao thông Đường bộ 1987 (Road Transport Act 1987) để bảo đảm người lái thận trọng và phương tiện an toàn.

@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "kehakiman-mahkamah" }
 related: ["federal-constitution", "macc-sprm", "kehakiman-mahkamah", "imigresen", "yang-di-pertuan-agong"]
 keywords: ["PDRM", "Polis Diraja Malaysia", "Royal Malaysia Police", "Akta Polis 1967", "Akta 344", "Ketua Polis Negara", "Inspector General of Police", "Suruhanjaya Pasukan Polis", "Perkara 140"]
+framework: profile
 ---
 
 PDRM에 대한 대부분의 설명은 "국가 경찰"이라는 구절에서 멈춥니다. 더 유용한 질문은 더 좁습니다. 즉, 이 법이 실제로 이 경찰에게 무엇을 허용하는지, 누가 그것을 지휘하는지, 그리고 어느 기구가 그 구성원의 임명과 징계를 정하는지입니다.

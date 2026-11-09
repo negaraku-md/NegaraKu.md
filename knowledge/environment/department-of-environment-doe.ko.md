@@ -95,6 +95,7 @@ relations:
   - { rel: "compares-with", to: "swcorp" }
 related: ["environmental-impact-assessment-eia-malaysia"]
 keywords: ["Department of Environment", "DOE", "Jabatan Alam Sekitar", "JAS", "Environmental Quality Act 1974", "Act 127", "EIA Malaysia", "scheduled waste", "NRES"]
+framework: profile
 ---
 
 말레이시아의 어느 공장이 강에 유출수를 쏟아붓거나, 고속도로가 첫 나무를 베기 전에 환경 승인을 받아야 하거나, 어느 공장이 유해 슬러지 드럼을 허가받은 처리업자에게 보낸다면 — 이 세 가지 모두의 뒤에는 하나의 연방 부처가 있습니다. 환경부가 무엇을 하는지, 그리고 그에 못지않게 중요한, 무엇을 *하지 않는지*를 아는 것은 엉뚱한 기관의 문을 두드리지 않게 해 줍니다.

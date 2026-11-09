@@ -80,6 +80,7 @@ wikidata: "Q12698635"
 relations: []
 related: []
 keywords: ["MyIPO", "Intellectual Property Corporation of Malaysia", "Perbadanan Harta Intelek Malaysia", "trademark registration Malaysia", "patent registration Malaysia", "MyIPO trademark fees", "Trademarks Act 2019", "copyright Malaysia", "industrial design Malaysia", "geographical indication Malaysia", "IP registration Malaysia", "MyIPO online filing"]
+framework: profile
 ---
 
 หากท่านประดิษฐ์บางสิ่ง สร้างแบรนด์ ออกแบบผลิตภัณฑ์ หรือต้องการคุ้มครองของขึ้นชื่อประจำภูมิภาคในมาเลเซีย มีประตูเดียวสำหรับเกือบทั้งหมด และง่ายที่จะถูกส่งไปยังบริการที่ผิดโดยหน้าที่พยายามขายท่านเพียงบริการเดียว **MyIPO** องค์การทรัพย์สินทางปัญญาแห่งมาเลเซีย (มลายู: *Perbadanan Harta Intelek Malaysia*) เป็นหน่วยงานตามกฎหมายที่รับผิดชอบการพัฒนาและบริหารระบบทรัพย์สินทางปัญญาทั้งหมดของมาเลเซีย ซึ่งครอบคลุมทรัพย์สินทางอุตสาหกรรม ได้แก่ สิทธิบัตร เครื่องหมายการค้า การออกแบบผลิตภัณฑ์ทางอุตสาหกรรม และการออกแบบผังวงจรรวม ตลอดจนลิขสิทธิ์และสิทธิที่เกี่ยวข้อง

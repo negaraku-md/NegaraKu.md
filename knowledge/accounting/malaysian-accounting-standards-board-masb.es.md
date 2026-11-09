@@ -74,6 +74,7 @@ wikidata: "Q141851366"
 relations: []
 related: []
 keywords: ["MASB", "Consejo de Normas de Contabilidad de Malasia", "MFRS", "MPERS", "Financial Reporting Act 1997", "normas contables aprobadas Malasia", "marco MFRS", "Fundación de Información Financiera", "IFRS Malasia", "MFRS 18", "norma de información para entidades privadas", "normas MASB fuerza de ley"]
+framework: profile
 ---
 
 Cuando una empresa malasia firma sus cuentas, las reglas que debe seguir no las escribe su auditor, ni su oficina tributaria, ni la bolsa de valores. Las escribe el **Consejo de Normas de Contabilidad de Malasia (MASB)** — y, de manera inusual, esas reglas tienen fuerza de ley.

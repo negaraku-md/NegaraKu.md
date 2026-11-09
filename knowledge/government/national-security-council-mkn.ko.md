@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: ["federal-constitution", "yang-di-pertuan-agong"]
 keywords: ["Majlis Keselamatan Negara", "MKN", "Akta 776", "kawasan keselamatan", "Perkara 150", "darurat", "kuasa keselamatan negara"]
+framework: profile
 ---
 
 말레이시아 정부가 안보 위협에 신속히 대응해야 할 때, 서로 다른 두 개의 법적 틀이 자주 한 호흡에 언급됩니다. 국가안보회의(MKN)와 헌법상의 비상 권한입니다. 둘 다 국가 안보와 관련되지만, 서로 다른 법적 근원에서 비롯되고 서로 다른 요건을 가집니다. 이 글은 그 둘을 중립적으로, 법조문에 근거하여 설명합니다.

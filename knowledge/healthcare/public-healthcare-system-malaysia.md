@@ -124,6 +124,7 @@ wikidata: "Q4294352"
 relations: []
 related: []
 keywords: ["Malaysia public healthcare system", "Ministry of Health Malaysia", "MOH", "KKM", "klinik kesihatan", "government hospital Malaysia", "RM1 clinic fee", "public hospital fees Malaysia", "PeKa B40", "universal healthcare Malaysia", "healthcare in Malaysia", "Malaysia two-tier health system"]
+framework: explainer
 ---
 
 Walk into a Malaysian government clinic and the bill at the counter is close to nothing — **RM1** for general outpatient registration. That is not charity — it is design. Malaysia operates a **two-tier health care system**: a government-run public service managed by the **Ministry of Health (MOH, *Kementerian Kesihatan Malaysia*, KKM)** alongside a large private sector. The public side is **funded solely by general taxation, with no mandatory national insurance contributions**, so care is delivered for heavily subsidised, nominal fees rather than premiums. That model has produced near-universal access at a modest share of national income — but it now carries a rising household cost burden and real supply pressures. This guide explains, in plain terms, how you access the system, what it costs, who it covers, and where it is straining.

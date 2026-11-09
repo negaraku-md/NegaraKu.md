@@ -73,6 +73,7 @@ wikidata: "Q6742016"
 relations: []
 related: []
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department Malaysia", "MyJPJ", "road tax renewal", "driving licence renewal", "e-LKM", "e-LMM", "MySIKAP", "JPJeBid", "Road Transport Act 1987", "KEJARA demerit points", "cukai jalan", "lesen memandu"]
+framework: profile
 ---
 
 Cada impuesto de circulación pagado, cada matrícula expedida y cada licencia de conducir que se lleva en Malasia pasa por una sola agencia: el **Departamento de Transporte por Carretera** —*Jabatan Pengangkutan Jalan*, conocido en todas partes por sus siglas **JPJ**—. Opera bajo la División Terrestre del **Ministerio de Transporte** y es el departamento responsable de matricular vehículos, expedir licencias de conducir y matrículas, y hacer cumplir la Ley de Transporte por Carretera de 1987 para garantizar conductores prudentes y vehículos seguros.

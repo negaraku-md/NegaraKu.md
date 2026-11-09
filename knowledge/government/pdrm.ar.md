@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "kehakiman-mahkamah" }
 related: ["federal-constitution", "macc-sprm", "kehakiman-mahkamah", "imigresen", "yang-di-pertuan-agong"]
 keywords: ["PDRM", "الشرطة الملكية الماليزية", "Polis Diraja Malaysia", "Royal Malaysia Police", "قانون الشرطة 1967", "Akta Polis 1967", "Akta 344", "المفتش العام للشرطة", "Ketua Polis Negara", "Inspector General of Police", "لجنة قوة الشرطة", "Suruhanjaya Pasukan Polis", "المادة 140", "Perkara 140"]
+framework: profile
 ---
 
 معظم الأوصاف عن PDRM تقف عند عبارة «قوة الشرطة الوطنية». لكن السؤال الأجدى أضيق: ما الذي

@@ -128,6 +128,7 @@ relations:
   - { rel: "explained-in", to: "how-a-bill-becomes-law" }
 related: ["lhdn", "rmcd-kastam", "dewan-rakyat", "auditor-general", "how-a-bill-becomes-law"]
 keywords: ["Kementerian Kewangan Malaysia", "Ministry of Finance Malaysia", "Perbendaharaan", "Treasury Malaysia", "Belanjawan", "Akta 850", "hutang Persekutuan", "Ketua Setiausaha Perbendaharaan"]
+framework: profile
 ---
 
 Mỗi đồng ringgit mà Chính phủ Liên bang chi tiêu — từ lương của y tá tại bệnh viện quận đến khoản trả lãi cho người giữ trái phiếu ở London — đều đi qua cùng một cánh cửa kế toán: Kho bạc Malaysia. Bộ Tài chính là bộ nắm cánh cửa đó, và kể từ đầu năm 2024, nó nắm cánh cửa đó dưới một bộ giới hạn bằng con số được ghi trong luật.

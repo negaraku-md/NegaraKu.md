@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution"]
 keywords: ["Peguam Negara", "Pendakwa Raya", "Perkara 145", "Perlembagaan Persekutuan", "Jabatan Peguam Negara", "budi bicara pendakwaan", "pengasingan peranan"]
+framework: profile
 ---
 
 한 사람이 여러분을 형사 재판정에 세울지 — 아니면 기소조차 제기되지 아니한 채 풀려나게 할지를 결정할 수 있습니다. 말레이시아에서 그 사람은 법무장관(Peguam Negara)이며, 그의 권한은 연방헌법(Federal Constitution)의 단 하나의 조문에서 비롯됩니다.

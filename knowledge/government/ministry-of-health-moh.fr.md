@@ -81,6 +81,7 @@ wikidata: "Q4294352"
 relations: []
 related: []
 keywords: ["Ministry of Health Malaysia", "Ministère de la Santé de la Malaisie", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "Menteri Kesihatan Malaysia", "Director-General of Health", "Ketua Pengarah Kesihatan", "klinik kesihatan", "moh.gov.my", "santé publique Malaisie", "Dzulkefly Ahmad", "tarif clinique RM1"]
+framework: profile
 ---
 
 Lorsque vous entrez dans une clinique gouvernementale malaisienne, remettez un billet de RM1 et ressortez avec votre consultation et vos médicaments couverts, vous utilisez l'un des systèmes de santé les plus fortement subventionnés au monde. Celui qui le gère est le **ministère de la Santé de la Malaisie** — *Kementerian Kesihatan Malaysia* (**KKM**), ou **MOH** en anglais — le ministère fédéral responsable de la santé publique, des soins médicaux, de la recherche médicale, de la promotion de la santé, de la réglementation pharmaceutique et des dispositifs médicaux, des soins dentaires et de la sécurité des patients. Il a son siège au Complexe E (Blocs E1, E3, E6, E7 et E10) au Centre administratif du gouvernement fédéral, 62590 Putrajaya.

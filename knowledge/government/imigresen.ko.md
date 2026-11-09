@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "rmcd-kastam" }
 related: ["moving-to-malaysia-first-steps", "work-passes-malaysia", "employment-pass-malaysia", "hiring-foreign-workers-malaysia", "foreign-worker-levy-malaysia", "jpn", "rmcd-kastam"]
 keywords: ["Jabatan Imigresen Malaysia", "JIM", "imigresen", "pasport Malaysia", "visa Malaysia", "pas lawatan sosial", "Permit Masuk", "ESD", "MDAC", "imi.gov.my"]
+framework: profile
 ---
 
 말레이시아 국경을 넘는 모든 사람 — 여권을 갱신하는 국민, 도착하는 관광객, 일하는 주재원 — 은 동일한 하나의 부처를 거칩니다. 그러나 그 부처가 발급하는 문서들은 서로 자주 혼동되며, 바로 그 혼동이 대부분의 이민 문제의 근원입니다.

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "majlis-raja-raja" }
 related: ["three-tiers-of-government", "federal-constitution", "parliament", "dewan-rakyat", "yang-di-pertuan-agong", "majlis-raja-raja"]
 keywords: ["Suruhanjaya Pilihan Raya", "SPR", "Election Commission", "Perkara 113", "Perkara 114", "Perlembagaan Persekutuan", "persempadanan semula", "daftar pemilih", "Jadual Ketiga Belas"]
+framework: profile
 ---
 
 மலேசியாவில் தேர்தல்களை நடத்தும் அமைப்பு ஒரு சாதாரண சட்டத்தால் உருவாக்கப்படவில்லை, மேலும் ஒரு சாதாரண சட்டத்தால் கலைக்கவும் முடியாது. அது Perlembagaan Persekutuan-இல் (கூட்டரசு அரசியலமைப்பு) நேரடியாக வழங்கப்பட்டுள்ளது — மேலும் இரண்டு சரத்துகள், அதாவது 113 மற்றும் 114, அது என்ன செய்யலாம் மற்றும் அதில் யார் இடம்பெறலாம் என்பதை வரையறுக்கின்றன.

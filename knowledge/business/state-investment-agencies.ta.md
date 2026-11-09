@@ -111,6 +111,7 @@ relations:
   - { rel: "compares-with", to: "investment-agency-directory" }
 related: ["economic-corridors-compared", "js-sez-guide", "ncer-guide", "ecer-guide", "sarawak-business-guide", "investment-agency-directory", "iskandar-malaysia-guide", "manufacturing-licence-malaysia"]
 keywords: ["state investment agency malaysia", "invest selangor nol", "investpenang no objection letter", "ncia ncer", "ecerdc", "sedia sabah", "recoda score", "irda iskandar", "investkl mida"]
+framework: explainer
 ---
 
 முதலில் அழைக்கச் சொல்லப்படும் நிறுவனம் பொதுவாக உங்களுக்குத் தேவையானதை அனுமதிக்க முடியாது. அது அந்த நிறுவனங்கள் மீதான விமர்சனம் அல்ல — கட்டமைப்பு அப்படித்தான் அமைக்கப்பட்டுள்ளது. மலேசியாவின் முதலீட்டு அனுமதிகள் கூட்டாட்சி சார்ந்தவை. மாநிலங்கள் ஊக்குவிக்கின்றன, எளிதாக்குகின்றன, மேலும் சரியாக ஒரே ஒரு சீட்டை மட்டுமே கையில் வைத்திருக்கின்றன.

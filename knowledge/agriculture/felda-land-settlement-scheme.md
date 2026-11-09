@@ -88,6 +88,7 @@ relations:
   - { rel: "governs", to: "group-settlement-areas-act-1960" }
 related: []
 keywords: ["FELDA", "peneroka", "penempatan tanah", "kelapa sawit", "FGV Holdings", "Akta Tanah 1960", "kemiskinan luar bandar"]
+framework: profile
 ---
 
 Bayangkan sebuah keluarga miskin dipindahkan ke hutan yang baru ditebang, diberi sebidang tanah dan upah bulanan, lalu diminta menunggu bertahun-tahun sehingga pokok getah atau kelapa sawit mereka matang. Itulah tawaran yang mengubah kehidupan lebih 100,000 keluarga luar bandar Malaysia — dan enjinnya ialah FELDA.

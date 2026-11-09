@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "dewan-rakyat"]
 keywords: ["SPR", "Commission électorale", "Suruhanjaya Pilihan Raya", "loi sur les élections de 1958", "loi sur les délits électoraux de 1954", "délimitation", "Constitution fédérale", "article 113", "article 114"]
+framework: profile
 ---
 
 Chaque fois que le Parlement est dissous et que le pays s'achemine vers des élections générales, le même organe joue le rôle d'arbitre : la Commission électorale. C'est elle qui fixe la date, révise les listes électorales, gère le jour de la nomination et le jour du scrutin, et proclame les résultats. Pourtant, ses pouvoirs et ses limites ne proviennent d'aucun gouvernement en place, mais de la Constitution fédérale elle-même.

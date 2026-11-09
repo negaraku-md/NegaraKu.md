@@ -80,6 +80,7 @@ relations:
   - { rel: "part-of", to: "company-secretary" }
 related: ["company-secretary-qualification", "appoint-company-secretary", "ssm"]
 keywords: ["MAICSA", "Chartered Secretaries Malaysia", "Malaysian Institute of Chartered Secretaries and Administrators", "MAICSA membership company secretary", "Fourth Schedule Companies Act 2016 approved bodies"]
+framework: profile
 ---
 
 MAICSA เป็นองค์กรที่ชาวมาเลเซียส่วนใหญ่นึกถึงเมื่อถูกถามว่าเลขานุการบริษัทขึ้นตรงต่อใคร — ซึ่งเป็นคำอธิบายอย่างย่อที่มีประโยชน์และในขณะเดียวกันก็เป็นความเข้าใจผิด MAICSA ให้คุณสมบัติแก่บุคคล ส่วน SSM ออกใบอนุญาตให้ ทั้งสองหน้าที่แยกจากกัน และช่องว่างระหว่างทั้งสองคือจุดที่ความสับสนเกี่ยวกับวิชาชีพนี้เกิดขึ้นเป็นจำนวนมากอย่างน่าประหลาดใจ

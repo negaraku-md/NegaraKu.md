@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "communications-multimedia-act-1998" }
 related: ["communications-and-multimedia-act-1998"]
 keywords: ["MCMC", "SKMM", "Suruhanjaya Komunikasi dan Multimedia Malaysia", "Akta Komunikasi dan Multimedia 1998", "Akta 588", "Akta 589", "lesen telekomunikasi", "penyiaran", "kandungan internet", "NFP", "NSP", "ASP", "CASP"]
+framework: profile
 ---
 
 マレーシアにおけるすべての電話、インターネット接続、テレビ放送、メッセージアプリは、同じひとつのライセンス制度のもとで運営されている——そしてその制度を構築している委員会が、MCMCである。

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: ["federal-constitution", "yang-di-pertuan-agong"]
 keywords: ["Majlis Keselamatan Negara", "MKN", "Akta 776", "kawasan keselamatan", "Perkara 150", "darurat", "kuasa keselamatan negara"]
+framework: profile
 ---
 
 เมื่อรัฐบาลมาเลเซียต้องตอบสนองอย่างรวดเร็วต่อภัยคุกคามความมั่นคง มักมีการกล่าวถึงกรอบกฎหมายที่แตกต่างกันสองกรอบในลมหายใจเดียวกัน ได้แก่ สภาความมั่นคงแห่งชาติ (MKN) และอำนาจในภาวะฉุกเฉินตามรัฐธรรมนูญ ทั้งสองเกี่ยวข้องกับความมั่นคงของชาติ แต่มีแหล่งที่มาทางกฎหมายที่ต่างกันและมีเงื่อนไขที่ต่างกัน บทความนี้อธิบายทั้งสองอย่างเป็นกลางและอยู่บนพื้นฐานของตัวบทกฎหมาย

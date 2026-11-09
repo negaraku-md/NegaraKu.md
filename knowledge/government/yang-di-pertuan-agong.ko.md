@@ -86,6 +86,7 @@ keywords:
   - "kuasa budi bicara Yang di-Pertuan Agong"
   - "Perkara 40 Perlembagaan Persekutuan"
   - "raja berperlembagaan Malaysia"
+framework: profile
 ---
 
 세계의 대부분 군주제는 같은 질문에 같은 방식으로 답합니다. 누가 다음 왕이 될 것인가? 그 답은 보통 세습이고, 그 기간은 보통 종신입니다.

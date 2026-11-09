@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "state-assemblies-dun" }
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission"]
 keywords: ["Pihak Berkuasa Tempatan", "PBT", "kerajaan tempatan", "Akta Kerajaan Tempatan 1976", "Akta 171", "Majlis Bandaraya", "Majlis Perbandaran", "Majlis Daerah", "Datuk Bandar", "Yang Dipertua", "ahli majlis", "pilihan raya kerajaan tempatan", "Athi Nahappan", "KPKT"]
+framework: profile
 ---
 
 日常生活に最も身近な政府層——ごみ収集、街灯、営業許認可、建築図面の承認、そして資産税の徴収を扱う層——は、連邦政府でも州政府でもなく、**地方自治体（Pihak Berkuasa Tempatan、PBT）**である。しかし、選挙によって構成される[下院（Dewan Rakyat）](/government/dewan-rakyat)や[州議会（Dewan Undangan Negeri）](/government/state-assemblies-dun)とは異なり、今日のPBTの議員は**委任**されるのであり、**選挙で選ばれる**のではない。

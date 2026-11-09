@@ -65,6 +65,7 @@ relations:
   - { rel: "explained-in", to: "ebos-filing" }
 related: ["beneficial-ownership", "ebos-filing", "bo-register", "ssm"]
 keywords: ["e-BOS SSM", "نظام الملكية المنتفِعة الإلكتروني", "Electronic Beneficial Ownership System", "تسجيل الدخول e-BOS SSM4U", "نظام الملكية المنتفِعة ماليزيا"]
+framework: profile
 ---
 
 e-BOS هو نظام الملكية المنتفِعة الإلكتروني (Electronic Beneficial Ownership

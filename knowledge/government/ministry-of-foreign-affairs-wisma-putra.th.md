@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["miti", "matrade"]
 keywords: ["Wisma Putra", "Ministry of Foreign Affairs Malaysia", "Kementerian Luar Negeri", "kln.gov.my", "Malaysian embassies", "consular assistance Malaysia", "Malaysian high commissions", "Malaysia foreign policy"]
+framework: profile
 ---
 
 เมื่อชาวมาเลเซียตกค้างในต่างประเทศ เมื่อมาเลเซียลงคะแนนที่สหประชาชาติ หรือเมื่อเอกอัครราชทูตคนใหม่ยื่นสาส์นตราตั้งในเมืองหลวงต่างประเทศ สถาบันเดียวกันยืนอยู่เบื้องหลังทั้งสามเหตุการณ์ — Wisma Putra

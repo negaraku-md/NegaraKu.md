@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "syariah-courts-malaysia" }
 related: ["waqf-islamic-endowment-malaysia", "federal-constitution"]
 keywords: ["Majlis Agama Islam Negeri", "MAIN", "zakat", "wakaf", "fatwa", "Perkara 3", "Senarai Negeri", "pentadbiran Islam"]
+framework: profile
 ---
 
 ลองถามว่าใครเป็นผู้ดูแลซะกาต วะกัฟ และมัสยิดในรัฐของคุณ และคำตอบไม่ใช่กระทรวงใดในปุตราจายา (Putrajaya) — แต่เป็นหน่วยงานตามกฎหมายของรัฐที่รับผิดชอบต่อผู้ปกครองรัฐนั้นเอง หน่วยงานนั้นคือสภาศาสนาอิสลามประจำรัฐ (Majlis Agama Islam Negeri, MAIN) และการที่มีอยู่ในทุกรัฐมีที่มาจากหลักการทางรัฐธรรมนูญข้อหนึ่ง คือ กิจการศาสนาอิสลามเป็นเรื่องของรัฐ ไม่ใช่ของสหพันธรัฐ

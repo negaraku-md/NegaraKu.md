@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution"]
 keywords: ["Peguam Negara", "Pendakwa Raya", "Perkara 145", "Perlembagaan Persekutuan", "Jabatan Peguam Negara", "budi bicara pendakwaan", "pengasingan peranan"]
+framework: profile
 ---
 
 Seorang lelaki boleh memutuskan sama ada anda dibawa ke muka pengadilan jenayah — atau dibebaskan tanpa pertuduhan pun difailkan. Di Malaysia, orang itu ialah Peguam Negara, dan kuasanya lahir daripada satu perkara tunggal dalam Perlembagaan Persekutuan.

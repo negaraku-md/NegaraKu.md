@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "solar-atap-malaysia" }
 related: []
 keywords: ["SEDA", "Sustainable Energy Development Authority", "feed-in tariff", "NEM", "Solar ATAP", "KWTBB", "tenaga boleh baharu", "PETRA"]
+framework: profile
 ---
 
 Mỗi lần bạn trả hóa đơn điện ở Bán đảo, một phần nhỏ của nó chảy đến một cơ quan theo luật định mà có lẽ bạn chưa từng nghe đến — và chính cơ quan đó quyết định liệu điện mặt trời trên mái nhà của bạn có đáng giá hay không.

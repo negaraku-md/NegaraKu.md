@@ -81,6 +81,7 @@ wikidata: "Q4294352"
 relations: []
 related: []
 keywords: ["Ministry of Health Malaysia", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "Menteri Kesihatan Malaysia", "Director-General of Health", "Ketua Pengarah Kesihatan", "klinik kesihatan", "moh.gov.my", "Malaysia public healthcare", "Dzulkefly Ahmad", "RM1 clinic fee"]
+framework: profile
 ---
 
 เมื่อคุณเดินเข้าไปในคลินิกของรัฐบาลมาเลเซีย ยื่นธนบัตร RM1 หนึ่งใบ แล้วเดินออกมาโดยได้รับการปรึกษาและได้ยาครอบคลุมแล้ว คุณกำลังใช้หนึ่งในระบบสุขภาพที่ได้รับการอุดหนุนมากที่สุดในโลก ผู้บริหารระบบนี้คือ **กระทรวงสาธารณสุขมาเลเซีย** — *Kementerian Kesihatan Malaysia* (**KKM**) หรือ **MOH** ในภาษาอังกฤษ — กระทรวงระดับสหพันธ์ที่รับผิดชอบสาธารณสุข การรักษาพยาบาล การวิจัยทางการแพทย์ การส่งเสริมสุขภาพ การกำกับดูแลยาและเครื่องมือแพทย์ การดูแลทันตกรรม และความปลอดภัยของผู้ป่วย มีสำนักงานใหญ่ที่ Complex E (Blocks E1, E3, E6, E7 และ E10) ในศูนย์บริหารราชการสหพันธ์ 62590 Putrajaya

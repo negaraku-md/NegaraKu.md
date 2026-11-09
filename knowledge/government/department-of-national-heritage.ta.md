@@ -75,6 +75,7 @@ wikidata: "Q7354460"
 relations: []
 related: []
 keywords: ["Jabatan Warisan Negara", "JWN", "Department of National Heritage", "National Heritage Act 2005", "Act 645", "Warisan Kebangsaan", "National Heritage Register", "Commissioner of Heritage", "heritage.gov.my", "MOTAC", "gazette national heritage Malaysia", "Daftar Warisan Kebangsaan", "Warisan Orang Hidup"]
+framework: profile
 ---
 
 George Town-இல் ஒரு கடைவீட்டுக்கு (shophouse) பாதுகாப்பு ஆணை வழங்கப்படும்போது, அல்லது ஒரு *[mak yong](/ta/arts-culture/mak-yong)* நடனக் கலைஞர் வாழும் பொக்கிஷமாகக் கௌரவிக்கப்படும்போது, அந்த முடிவுக்குப் பின்னால் ஒரே ஒரு கூட்டாட்சி அமைப்பு இருக்கிறது: **தேசிய பாரம்பரியத் துறை** — *Jabatan Warisan Negara* (**JWN**). **2006 மார்ச் 1** அன்று நிறுவப்பட்ட JWN, மலேசியாவின் பாரம்பரியத்தை அடையாளம் காண்கிறது, பேணிப் பாதுகாக்கிறது, வர்த்தமானியில் வெளியிடுகிறது மற்றும் காப்பாற்றுகிறது; இது **சுற்றுலா, கலை மற்றும் பண்பாட்டு அமைச்சின் (Ministry of Tourism, Arts and Culture, MOTAC)** கீழ் இயங்குகிறது. தேசிய அடையாளத்தை உருவாக்குவதையும் தேசியப் பொருளாதாரத்தை உருவாக்குவதையும் நோக்கிப் பாரம்பரியப் பொக்கிஷங்களை ஆராய்ந்து பேணுவதில் முன்னணி வகிப்பதே அதன் அறிவிக்கப்பட்ட நோக்குப்பார்வையாகும்.

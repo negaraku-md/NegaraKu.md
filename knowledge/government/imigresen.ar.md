@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "rmcd-kastam" }
 related: ["moving-to-malaysia-first-steps", "work-passes-malaysia", "employment-pass-malaysia", "hiring-foreign-workers-malaysia", "foreign-worker-levy-malaysia", "jpn", "rmcd-kastam"]
 keywords: ["دائرة الهجرة الماليزية", "Jabatan Imigresen Malaysia", "JIM", "imigresen", "جواز سفر ماليزي", "تأشيرة ماليزيا", "تصريح الزيارة الاجتماعية", "إذن الدخول", "ESD", "MDAC", "imi.gov.my"]
+framework: profile
 ---
 
 كل من يعبر حدود ماليزيا — مواطن يجدّد جواز سفره، وسائح يصل، ومغترب يأتي للعمل — يمرّ عبر دائرة واحدة بعينها. لكن الوثائق التي تصدرها كثيرًا ما يُخلط بينها، وذلك الخلط هو سبب معظم مشكلات الهجرة.

@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "angkatan-pertahanan-awam" }
 related: ["pdrm"]
 keywords: ["Bomba", "JBPM", "Jabatan Bomba dan Penyelamat Malaysia", "Fire and Rescue Department", "Akta Perkhidmatan Bomba 1988", "Akta 341", "999", "MERS 999"]
+framework: profile
 ---
 
 เมื่อบ้านหลังหนึ่งถูกไฟไหม้ รถคันหนึ่งติดอยู่ในน้ำท่วม หรือคนงานคนหนึ่งติดอยู่ในพื้นที่อับอากาศ หมายเลขเดียวกันหนึ่งหมายเลขจะกลายเป็นจุดเชื่อมต่อแรกระหว่างผู้ประสบเหตุกับความช่วยเหลือ — และที่ปลายสายนั้น บ่อยครั้งคือ Bomba การเข้าใจว่ากฎหมายมอบอำนาจอะไรให้แก่กรมนี้จริงๆ จะอธิบายได้ว่าเหตุใด Bomba จึงปรากฏตัวในเหตุฉุกเฉินหลากหลายประเภท ไม่เพียงแต่เพลิงไหม้เท่านั้น

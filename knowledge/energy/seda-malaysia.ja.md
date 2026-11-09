@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "solar-atap-malaysia" }
 related: []
 keywords: ["SEDA", "Sustainable Energy Development Authority", "feed-in tariff", "NEM", "Solar ATAP", "KWTBB", "tenaga boleh baharu", "PETRA"]
+framework: profile
 ---
 
 半島マレーシアで電気料金を支払うたびに、その一部はあなたがおそらく聞いたことのない法定機関へと流れていく――そしてその機関こそが、あなたの屋根の上のソーラーが採算に合うかどうかを左右しているのである。

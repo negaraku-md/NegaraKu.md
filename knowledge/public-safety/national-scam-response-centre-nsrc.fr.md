@@ -86,6 +86,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Le pire moment dans une arnaque est celui qui suit juste la prise de conscience que c'en était une — quand l'argent a quitté votre compte et que vous ne savez pas quoi faire, ni qui appeler. En Malaisie, il existe une seule réponse à cette question : **composez le 997.** Ce numéro met en relation avec le **National Scam Response Centre (NSRC)**, et l'appeler rapidement est, au sens propre, votre meilleure chance de récupérer votre argent.

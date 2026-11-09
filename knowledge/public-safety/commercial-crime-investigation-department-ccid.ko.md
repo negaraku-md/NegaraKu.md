@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "national-scam-response-centre-nsrc" }
 related: ["pdrm"]
 keywords: ["CCID", "Jabatan Siasatan Jenayah Komersil", "JSJK", "PDRM", "jenayah komersil", "penipuan dalam talian", "Semak Mule", "NSRC", "997"]
+framework: profile
 ---
 
 돈을 사기당한 뒤 "997로 연락하라"는 안내를 읽을 때마다, 그 사기에 맞서는 최전선에 있는 PDRM 부서가 바로 CCID입니다. 상업범죄수사부 — 영어로는 Commercial Crime Investigation Department — 는 화이트칼라 범죄자, 즉 폭력의 위협이 아니라 속임수로 훔치는 자들을 쫓는 말레이시아 왕립경찰의 부서입니다.

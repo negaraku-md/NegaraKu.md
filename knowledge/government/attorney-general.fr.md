@@ -75,6 +75,7 @@ keywords:
   - "Attorney General's Chambers"
   - "Peguam Negara"
   - "droit d'audience du Procureur général"
+framework: profile
 ---
 
 La plupart des charges publiques sont définies par une loi que le Parlement peut réécrire. La charge de Procureur général de la Fédération n'en fait pas partie. Elle est inscrite dans la Constitution fédérale elle-même, dans un article unique — l'Article 145 — qui établit qui occupe la charge, ce qu'elle doit faire et le seul pouvoir que la Constitution laisse à la discrétion de son propre titulaire.

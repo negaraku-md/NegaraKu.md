@@ -81,6 +81,7 @@ wikidata: "Q4294352"
 relations: []
 related: []
 keywords: ["Ministry of Health Malaysia", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "Menteri Kesihatan Malaysia", "Director-General of Health", "Ketua Pengarah Kesihatan", "klinik kesihatan", "moh.gov.my", "Malaysia public healthcare", "Dzulkefly Ahmad", "RM1 clinic fee"]
+framework: profile
 ---
 
 当你走进马来西亚的政府诊所，递上一张RM1纸币，然后带着看诊和药物走出来时，你正在使用世界上补贴最高的医疗体系之一。运营它的是**马来西亚卫生部**——*Kementerian Kesihatan Malaysia*（**KKM**），英文为**MOH**——这个联邦部门负责公共卫生、医疗诊治、医学研究、健康促进、药品与医疗器械监管、牙科护理及病人安全。部门总部位于联邦政府行政中心Complex E（E1、E3、E6、E7和E10座），邮编62590布城（Putrajaya）。

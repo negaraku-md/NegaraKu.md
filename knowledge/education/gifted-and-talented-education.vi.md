@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "special-needs-education" }
 related: []
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
+framework: profile
 ---
 
 Một đứa trẻ 10 tuổi giải được toán lớp mười một không phải lúc nào cũng nổi bật trong một lớp học bình thường — và tại Malaysia, trung tâm quốc gia duy nhất được thiết kế để tìm và mài giũa những trí tuệ như thế này là PERMATApintar.

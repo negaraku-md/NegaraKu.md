@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "parliament"]
 keywords: ["Majlis Raja-Raja", "Conference of Rulers", "Perkara 38 Perlembagaan Persekutuan", "Jadual Kelima", "pemilihan Yang di-Pertuan Agong", "Penyimpan Mohor Besar Raja-Raja"]
+framework: profile
 ---
 
 Ada satu senarai pendek dalam Perlembagaan Persekutuan yang jarang disebut: senarai perkara yang Parlimen tidak boleh luluskan sendirian. Untuk perkara-perkara itu, undi dua pertiga di Dewan Rakyat dan Dewan Negara sahaja tidak memadai. Persetujuan satu badan lain diperlukan — dan badan itu ialah Majlis Raja-Raja.

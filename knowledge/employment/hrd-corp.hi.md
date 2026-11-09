@@ -72,6 +72,7 @@ wikidata: "Q113541603"
 relations: []
 related: []
 keywords: ["HRD Corp", "HRDF", "HRD levy", "Pembangunan Sumber Manusia Berhad", "PSMB Act 2001", "HRDF registration", "HRD Corp claim", "HRD levy 1%", "HRD Corp claimable courses", "human resource development fund Malaysia", "HRDF levy calculation", "Akta 612"]
+framework: profile
 ---
 
 यदि आपकी कंपनी मलेशियाई पेरोल चलाती है, तो पेस्लिप-बही पर एक पंक्ति **HRD Corp को 1% लेवी** के रूप में पढ़ी जा सकती है — और EPF या SOCSO के विपरीत, यह श्रमिक को दिया जाने वाला कोई लाभ नहीं है। यह एक प्रशिक्षण-बजट है जो *नियोक्ता* जमा करता है और फिर वापस पाता है। उस लूप को समझना लेवी को एक कर मानने और उसे अभिप्रेत ढंग से उपयोग करने के बीच का अंतर है।

@@ -80,6 +80,7 @@ wikidata: "Q113543393"
 relations: []
 related: []
 keywords: ["JPDP", "Jabatan Perlindungan Data Peribadi", "Personal Data Protection Department", "PDPA Malaysia", "Personal Data Protection Act 2010", "Act 709", "data controller registration Malaysia", "Personal Data Protection Commissioner", "pdp.gov.my", "PDPA Amendment Act 2024", "data breach notification Malaysia", "DPO Malaysia", "Suruhanjaya Perlindungan Data Peribadi", "SPDP daftar"]
+framework: profile
 ---
 
 말레이시아 개인정보 보호에 관한 거의 모든 안내서는 그 *법*을 설명합니다. *그 법을 운영하는 관청*을 설명하는 경우는 훨씬 드뭅니다. 그 관청이 바로 **개인정보보호청** — *Jabatan Perlindungan Data Peribadi* (**JPDP**) — 으로, 의회가 2010년 개인정보보호법(Personal Data Protection Act 2010, Act 709)을 통과시킨 뒤 **2011년 5월 16일**에 설립되었습니다. 이 기관은 디지털부(Digital Ministry) 산하의 기관으로 운영되며, 그 임무는 그 법을 집행하는 데 있어 **개인정보보호위원(Personal Data Protection Commissioner)**을 보조하는 것입니다. 이곳이 말레이시아의 사업자가 등록하는 관청이며, 일반 시민이 민원을 제기하는 곳입니다.

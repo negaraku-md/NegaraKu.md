@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "ssm" }
 related: ["parliament", "federal-constitution", "ssm", "malaysia-courts-business-disputes"]
 keywords: ["MACC", "SPRM", "Suruhanjaya Pencegahan Rasuah Malaysia", "اللجنة الماليزية لمكافحة الفساد", "MACC Act 2009", "Act 694", "المجلس الاستشاري لمكافحة الفساد", "Anti-Corruption Advisory Board", "اللجنة الخاصة المعنية بالفساد", "Special Committee on Corruption"]
+framework: profile
 ---
 
 تكتفي معظم أوصاف MACC بعبارة «وكالة ماليزيا لمكافحة الفساد». بيد أن السؤال الأجدى أضيق من ذلك: ما الذي يتيحه القانون فعلًا لموظفيها، ومن يحق له قانونًا أن يراقب عملهم عن كثب؟

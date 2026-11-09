@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "mspo-palm-oil-certification" }
 related: ["felda-land-settlement-scheme", "rubber-industry"]
 keywords: ["FELCRA", "RISDA", "pekebun kecil", "penyatuan tanah", "pemulihan tanah", "tanam semula getah", "pembangunan luar bandar", "Akta 85"]
+framework: profile
 ---
 
 Dua lembaga yang jarang disebut bersamaan, tetapi menyentuh nasib ratusan ribu keluarga desa: satu memulihkan tanah yang telantar, satu lagi memastikan pohon karet tua diganti sebelum pendapatan pekebun terhenti. Itulah FELCRA dan RISDA.

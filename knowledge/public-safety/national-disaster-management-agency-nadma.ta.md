@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "malaysia-civil-defence-force-apm" }
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "pengurusan bencana", "Arahan NADMA No. 1", "Arahan MKN 20", "banjir", "SMART", "Jabatan Perdana Menteri"]
+framework: profile
 ---
 
 பல மாநிலங்களைப் பெரும் வெள்ளம் ஒரே நேரத்தில் தாக்கும்போது, இராணுவம், தீயணைப்புப் படை, காவல்துறை மற்றும் தன்னார்வலர்களை ஒரே கட்டளையின் கீழ் ஒருங்கிணைக்க யார் பொத்தானை அழுத்துகிறார்கள்? மலேசியாவில், அதற்கான பதில் NADMA.

@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "jawi-script" }
 related: ["bahasa-melayu", "jawi-script"]
 keywords: ["dewan bahasa dan pustaka", "dbp", "bahasa melayu", "kamus dewan", "sasterawan negara", "badan berkanun"]
+framework: profile
 ---
 
 Every time you check the spelling of a Malay word, come across a new scientific term, or read the title of a National Laureate, there is one institution behind the scenes: Dewan Bahasa dan Pustaka.

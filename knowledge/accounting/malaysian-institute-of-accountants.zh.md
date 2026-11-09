@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "malaysian-accounting-standards-board" }
 related: []
 keywords: ["MIA", "Institut Akauntan Malaysia", "Akta Akauntan 1967", "Chartered Accountant Malaysia", "CA(M)", "sijil amalan", "lesen audit"]
+framework: profile
 ---
 
 在马来西亚，若你未向某个特定机构注册便自称「会计师」，你其实已经犯下刑事罪行。这个机构就是马来西亚会计师公会——MIA——它握有唯一的权力，决定谁在这个国家有资格被视为会计师。

@@ -75,6 +75,7 @@ wikidata: "Q7374434"
 relations: []
 related: []
 keywords: ["RMCD", "Royal Malaysian Customs Department", "Jabatan Kastam Diraja Malaysia", "JKDM", "Kastam Malaysia", "SST Malaysia", "sales and service tax", "import duty Malaysia", "customs clearance Malaysia", "MySST", "uCustoms", "excise duty Malaysia", "service tax registration"]
+framework: profile
 ---
 
 ทุกครั้งที่คุณจ่ายภาษีจากใบเรียกเก็บเงินที่ร้านอาหาร เคลียร์พัสดุผ่านศุลกากร หรือเติมน้ำมันรถที่สร้างบนเครื่องยนต์นำเข้า มีกรมหนึ่งอยู่เบื้องหลังการเรียกเก็บ: **กรมศุลกากรมาเลเซีย (RMCD)** — *Jabatan Kastam Diraja Malaysia* (JKDM) เรียกกันทั่วไปว่า *Kastam* มันเป็นกรมของรัฐบาลภายใต้ **กระทรวงการคลัง** ที่รับผิดชอบการจัดเก็บภาษีทางอ้อม อำนวยความสะดวกทางการค้า และบังคับใช้กฎหมายศุลกากร และเป็นผู้จัดเก็บภาษีทางอ้อมหลักของประเทศ

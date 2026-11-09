@@ -76,6 +76,7 @@ wikidata: "Q7354381"
 relations: []
 related: []
 keywords: ["JKM", "Jabatan Kebajikan Masyarakat", "Department of Social Welfare Malaysia", "bantuan JKM", "OKU card", "OKU registration", "eBantuan JKM", "eKasih", "MyDaftar OKU", "Bantuan Kanak-Kanak BKK", "Persons with Disabilities Act 2008", "kad OKU"]
+framework: profile
 ---
 
 **社会福祉局**——*Jabatan Kebajikan Masyarakat*、どこでもその略称**JKM**として知られている——は、マレーシア人が困窮に陥ったときに受け止める連邦機関である。**1946年**に設立され、当初は第二次世界大戦がもたらした社会問題への対応であったが、その役割はその後、**保護、リハビリテーション、予防、開発及び地域社会への統合**へと拡大した。JKMに関する検索結果は、年号付きの「扶助の申請方法」ブログや内容の薄いサービスページばかりが上位を占めている。本ページはこれに代わり、JKMを一つの機構として説明し、そのサービスが——子どもから障害者、そして高齢者まで——ライフサイクル全体を通じてどのようにつながっているかを解説する。

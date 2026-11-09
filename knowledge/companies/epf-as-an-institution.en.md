@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["epf-as-investor", "khazanah", "pnb", "bursa-malaysia"]
 keywords: ["KWSP", "EPF", "dana persaraan", "pelabur institusi", "dividen KWSP", "Akta KWSP 1991", "simpanan pekerja"]
+framework: profile
 ---
 
 Every time a private-sector worker in Malaysia receives a payslip, a portion of their income flows into a single institution that now holds more than RM1.25 trillion. That institution is the Employees Provident Fund, or EPF.

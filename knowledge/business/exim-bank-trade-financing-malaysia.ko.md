@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "bank-pembangunan-malaysia" }
 related: ["bank-negara-malaysia", "development-financial-institutions-malaysia"]
 keywords: ["EXIM Bank Malaysia", "export credit agency", "trade credit takaful", "export credit insurance", "trade financing", "non-traditional markets"]
+framework: profile
 ---
 
 말레이시아의 한 기계 수출업체가 개척 시장(frontier market)에서 첫 주문을 따냈습니다. 잠재력은 크지만, 만약 구매자가 끝내 대금을 지급하지 않는다면 어떻게 될까요? 바로 그 하나의 질문에 답하기 위해 말레이시아 수출입은행(EXIM Bank)이 설립되었습니다.

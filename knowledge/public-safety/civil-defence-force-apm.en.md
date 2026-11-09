@@ -72,6 +72,7 @@ relations:
   - { rel: "governs", to: "akta-pertahanan-awam-1951" }
 related: []
 keywords: ["APM", "JPAM", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "bantuan kecemasan", "PASPA", "Akta 221", "sukarelawan pertahanan awam"]
+framework: profile
 ---
 
 When major floods strike or a building collapses, one of the first teams to arrive with boats, ropes and rescue equipment is often in APM's orange uniforms. The Malaysia Civil Defence Force (APM) is the nation's humanitarian relief backbone — present before, during and after a disaster.

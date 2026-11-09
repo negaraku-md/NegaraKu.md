@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: ["federal-constitution", "yang-di-pertuan-agong"]
 keywords: ["Majlis Keselamatan Negara", "MKN", "Akta 776", "kawasan keselamatan", "Perkara 150", "darurat", "kuasa keselamatan negara"]
+framework: profile
 ---
 
 Khi chính phủ Malaysia cần phản ứng nhanh trước một mối đe dọa an ninh, hai khung pháp lý khác nhau thường được nhắc đến cùng một lúc: Hội đồng An ninh Quốc gia (MKN) và quyền lực khẩn cấp hiến định. Cả hai đều liên quan đến an ninh quốc gia, nhưng bắt nguồn từ những nguồn luật khác nhau và có những điều kiện khác nhau. Bài viết này giải thích cả hai một cách trung lập và dựa trên văn bản luật.

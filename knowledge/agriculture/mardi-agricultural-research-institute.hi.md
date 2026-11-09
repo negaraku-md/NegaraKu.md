@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "malaysia-rice-industry" }
 related: []
 keywords: ["MARDI", "कृषि अनुसंधान", "agricultural research", "चावल किस्में", "rice varieties", "MR 297", "KADARIA", "SMART SBB", "मलेशिया कृषि", "padi"]
+framework: profile
 ---
 
 मलेशिया में स्थानीय चावल का लगभग हर कटोरा MARDI के किसी क्षेत्र स्टेशन में नस्ल की गई किस्म तक जाता है। देश के धान, कुक्कुट, उष्णकटिबंधीय फल और प्रसंस्कृत-खाद्य शेल्फों के पीछे एक संघीय संस्थान बैठा है जिसका काम विज्ञान को उच्च उपज में बदलना है।

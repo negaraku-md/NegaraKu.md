@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "mspo-palm-oil-certification" }
 related: ["felda-land-settlement-scheme", "rubber-industry"]
 keywords: ["FELCRA", "RISDA", "pekebun kecil", "penyatuan tanah", "pemulihan tanah", "tanam semula getah", "pembangunan luar bandar", "Akta 85"]
+framework: profile
 ---
 
 这两家机构很少被同时提起，却牵动着数十万乡村家庭的命运：一家修复荒废的土地，另一家确保老橡胶树在小园主收入中断之前得到更换。这就是 FELCRA 与 RISDA。

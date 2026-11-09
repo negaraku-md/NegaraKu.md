@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "jawi-script" }
 related: ["bahasa-melayu", "jawi-script"]
 keywords: ["भाषा एवं साहित्य परिषद", "DBP", "मलय भाषा", "कामुस देवान", "राष्ट्रीय साहित्यकार", "वैधानिक निकाय", "dewan bahasa dan pustaka", "bahasa melayu", "sasterawan negara"]
+framework: profile
 ---
 
 हर बार जब आप किसी मलय शब्द की वर्तनी जाँचते हैं, किसी नए वैज्ञानिक शब्द से सामना होता है, या किसी राष्ट्रीय साहित्यकार की उपाधि पढ़ते हैं, तो परदे के पीछे एक संस्था होती है: Dewan Bahasa dan Pustaka।

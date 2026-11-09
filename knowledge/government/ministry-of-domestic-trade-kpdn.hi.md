@@ -79,6 +79,7 @@ wikidata: "Q12689906"
 relations: []
 related: []
 keywords: ["KPDN", "Ministry of Domestic Trade and Cost of Living", "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup", "KPDN aduan", "Price Control and Anti-Profiteering Act 2011", "Akta Kawalan Harga", "Ez ADU KPDN", "TTPM tribunal tuntutan pengguna", "KPDN hotline", "kawalan harga barang", "consumer protection Malaysia", "Armizan Mohd Ali", "SSM MyIPO MyCC", "Ops Pantau KPDN"]
+framework: profile
 ---
 
 जब कोई व्यापारी आपसे खाद्य तेल के लिए अधिक शुल्क लेता है, किसी नियंत्रित वस्तु को उसकी अधिकतम मूल्य-सीमा से ऊपर बेचता है, या किसी दोषपूर्ण उत्पाद का सम्मान करने से इनकार करता है, तो वह संघीय निकाय जिसका काम आपकी ओर से कार्रवाई करना है, **KPDN** है — **घरेलू व्यापार एवं जीवन-यापन लागत मंत्रालय** (*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*)। यह घरेलू व्यापार विकसित करता है, रोज़मर्रा की आवश्यक वस्तुओं के मूल्यों पर अंकुश रखता है, और उपभोक्ताओं की रक्षा करता है, जिसे वास्तविक संविधियों, सक्रिय शिकायत चैनलों, और सामान्य खरीदारों के लिए बनाए गए एक लघु-दावा अधिकरण का समर्थन प्राप्त है।
