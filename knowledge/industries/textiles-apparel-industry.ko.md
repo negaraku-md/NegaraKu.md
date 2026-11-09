@@ -96,6 +96,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 말레이시아가 컴퓨터 칩과 팜유로 알려지기 훨씬 전부터, 이 나라는 천과 옷을 만들었습니다. 섬유·의류·신발 산업은 이 나라에서 가장 오래된 현대 제조 부문 중 하나로 — 1970~80년대에 산업화를 촉발하는 데 일조한 노동집약적·수출 지향적 사업입니다. 오늘날 이는 훨씬 커진 경제에서 더 작은 조각이 되었지만, 여전히 실질적인 고용주이자 꾸준한 수출원이며, 정부가 적극적으로 재창조하려는 부문입니다.

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "program-podium" }
 related: []
 keywords: ["SUKMA", "Sukan Malaysia", "Majlis Sukan Negara", "Program Podium", "atlet remaja", "pembangunan sukan", "Institut Sukan Negara"]
+framework: explainer
 ---
 
 Every two years, thousands of youth athletes march into a host state's stadium — not for world medals, but for the pride of their respective states and, for the most talented, a ticket to the national elite stage. That is SUKMA.

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["federal-constitution", "majlis-raja-raja", "constitutional-amendment", "new-economic-policy", "ma63"]
 keywords: ["Perkara 153", "Article 153", "kedudukan istimewa orang Melayu", "special position of the Malays", "Bumiputera", "anak negeri Sabah Sarawak", "kepentingan sah kaum lain", "perkadaran yang munasabah", "kuota Perlembagaan Malaysia", "Perkara 153 Perlembagaan Persekutuan", "takrif orang Melayu Perkara 160"]
+framework: explainer
 ---
 
 Banyak yang mengutip Pasal 153, tetapi lebih sedikit yang pernah membaca paragrafnya. Ada yang menyebutnya "hak istimewa Melayu", ada yang menyebutnya "kuota", dan ada yang menyebutnya "diskriminasi" — namun teks sebenarnya dari Pasal itu tidak menggunakan satu pun kata tersebut. Ia menempatkan satu tanggung jawab, menetapkan beberapa batas, dan — hal yang jarang disebut — menamai dua kelompok yang harus dilindungi serentak.

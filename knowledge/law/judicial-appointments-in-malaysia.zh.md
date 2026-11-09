@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "constitutional-amendment" }
 related: ["court-hierarchy", "constitutional-amendment"]
 keywords: ["pelantikan hakim", "Suruhanjaya Pelantikan Kehakiman", "Perkara 122B", "Perkara 125", "kebebasan kehakiman", "tribunal hakim", "Ketua Hakim Negara"]
+framework: explainer
 ---
 
 每当一位新的联邦首席大法官（Ketua Hakim Negara）宣誓就职，一个由来已久的问题便再次浮现：究竟是谁挑选了这个人，又是谁能够将其撤换？在马来西亚，答案涉及两个各自独立的阶段、两份不同的法律文件，以及一场关于这项权力究竟应归于何处、至今仍未了结的辩论。

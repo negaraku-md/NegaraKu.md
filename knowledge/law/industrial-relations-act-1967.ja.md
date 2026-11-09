@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "mahkamah-perusahaan-malaysia" }
 related: ["employment-act-1955"]
 keywords: ["akta perhubungan perusahaan 1967", "pembuangan kerja tidak adil", "seksyen 20", "mahkamah perusahaan", "kesatuan sekerja", "rundingan kolektif", "reinstatement", "unfair dismissal malaysia"]
+framework: rules
 ---
 
 今朝あなたは解雇を告げられた。理由は「業績不振」——しかし警告状もなく、内部調査もなく、弁明の機会もなかった。マレーシアでは、この状況には法律上の名称と専用の審理の場がある。1967年労使関係法（Industrial Relations Act 1967、Act 177）s.20に基づく申立てであり、労使裁判所で審理される。これは1955年雇用法（Employment Act 1955、Act 265）が扱わない労使関係の層である。

@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "str-sumbangan-tunai-rahmah" }
 related: []
 keywords: ["PADU", "Pangkalan Data Utama", "subsidi bersasar", "padu.gov.my", "Kementerian Ekonomi", "DOSM"]
+framework: explainer
 ---
 
 Untuk mengubah subsidi menyeluruh menjadi bantuan yang lebih bersasaran, pemerintah perlu mengetahui keadaan sosioekonomi rakyatnya. PADU adalah basis data yang dibangun untuk tujuan itu.

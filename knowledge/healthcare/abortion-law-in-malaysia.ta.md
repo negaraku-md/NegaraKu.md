@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "medical-act-1971" }
 related: []
 keywords: ["pengguguran", "undang-undang pengguguran Malaysia", "Seksyen 312 Kanun Keseksaan", "penamatan kehamilan", "Akta Perubatan 1971", "garis panduan KKM"]
+framework: explainer
 ---
 
 மலேசியாவில் கருக்கலைப்பு முற்றிலும் தடைசெய்யப்பட்டுள்ளது என்று பலர் கருதுகின்றனர் — உண்மையில், சட்டம் அதை இன்னும் சிக்கலான ஒரு இடத்தில் வைக்கிறது: ஒரு முக்கியமான மருத்துவ விதிவிலக்குடன் கூடிய ஒரு குற்றவியல் குற்றம். அந்தக் கோடு எங்கே வரையப்பட்டுள்ளது என்பதைப் புரிந்துகொள்ள, பொதுவான எண்ணங்களை அல்ல, Penal Code-இன் உண்மையான உரையை நாம் படிக்க வேண்டும்.

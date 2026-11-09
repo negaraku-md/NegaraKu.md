@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["contracts-act-1950", "court-hierarchy", "companies-act-2016"]
 keywords: ["Consumer Protection Act 1999", "Act 599", "Tribunal for Consumer Claims", "TTPM", "consumer rights Malaysia", "KPDN", "consumer claim RM50000"]
+framework: data-reference
 ---
 
 Un teléfono que se estropea en la segunda semana. Un contratista de reformas que se lleva el anticipo y desaparece. Un adhesivo de «50% de descuento» sobre un precio que en realidad nunca fue el precio original. Malasia tiene un único estatuto que responde a los tres casos: la Ley de Protección del Consumidor de 1999.

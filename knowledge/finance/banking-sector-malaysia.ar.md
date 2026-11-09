@@ -92,6 +92,7 @@ relations:
   - { rel: "governs", to: "financial-services-act-2013" }
 related: ["bank-negara-malaysia", "islamic-finance", "digital-banks-malaysia"]
 keywords: ["القطاع المصرفي الماليزي", "banking sector Malaysia", "البنوك التجارية", "commercial banks Malaysia", "البنوك الإسلامية", "Islamic banks Malaysia", "البنوك الاستثمارية", "Financial Services Act 2013", "Islamic Financial Services Act 2013", "البنوك الرقمية", "Bank Negara Malaysia"]
+framework: profile
 ---
 
 افتح حسابًا مصرفيًا في كوالالمبور وستكون قد دخلت بهدوء واحدةً من الدول القليلة التي تدير نظامين مصرفيين كاملين جنبًا إلى جنب — تقليدي وإسلامي — تحت بنك مركزي واحد وقانونين متطابقين كُتبا في العام نفسه.

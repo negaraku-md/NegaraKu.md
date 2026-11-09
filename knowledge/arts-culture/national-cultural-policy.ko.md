@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "national-cultural-policy-daken-2021" }
 related: ["rukun-negara", "new-economic-policy"]
 keywords: ["dasar kebudayaan kebangsaan", "kongres kebudayaan kebangsaan 1971", "tiga prinsip", "DAKEN 2021", "kebudayaan Malaysia", "perpaduan"]
+framework: explainer
 ---
 
 1971년, [1969년 5월 13일 사건](/malaysia/13-may-1969)으로부터 약 2년 뒤, 한 무리의 학자, 예술 종사자, 지도자가 다종족 국가에게 어려운 물음 하나에 답하기 위해 말라야 대학교에 모였습니다. '국가 문화'란 무엇을 뜻하는가? 그 결과로 나온 답 — 국가문화정책(DKK) — 은 오늘날까지 정책의 준거로 남아 있으면서, 동시에 여전히 논쟁의 대상입니다.

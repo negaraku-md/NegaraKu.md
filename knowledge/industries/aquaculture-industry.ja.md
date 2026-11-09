@@ -102,6 +102,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 マレーシアの食卓に並ぶ魚の大半は今も海から来ている。しかし今や、増え続ける一部は池、生け簀、あるいは延縄のいかだから来ている。それが養殖だ。天然のものを捕まえるのとは対照的に、水生生物を意図的に育てることである。マレーシアの天然漁獲が頭打ちになり、タンパク質への需要が高まるにつれ、養殖は食卓に魚を乗せ続けるための国の主要なてことなった。本稿では養殖側のビジネスを深く掘り下げる。漁船団、漁民の福祉、取り締まりを含むより広い全体像については、[漁業産業の概観](/ja/agriculture/malaysian-fisheries-industry/)を参照されたい。

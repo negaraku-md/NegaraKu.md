@@ -90,6 +90,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-investment-trade-and-industry" }
 related: ["electrical-electronics-industry"]
 keywords: ["semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "advanced packaging", "chip industry Malaysia", "Penang Silicon Valley", "MIDA", "IC design"]
+framework: profile
 ---
 
 पृथ्वी पर लगभग हर फ़ोन, लैपटॉप और कार में एक चिप होती है जिसने अपने जीवन का कुछ हिस्सा मलेशिया में बिताया — पेनांग या क्लांग घाटी की किसी फ़ैक्टरी में पैकेज, परीक्षण और शिप किया गया। फिर भी पचास वर्षों तक देश ने उस काम का सबसे कम चमकीला, सबसे कम-मार्जिन वाला हिस्सा किया: बैक एंड। राष्ट्रीय अर्धचालक रणनीति मलेशिया का यह बदलने का प्रयास है कि वह चिप का कौन-सा हिस्सा अपने पास रखता है।

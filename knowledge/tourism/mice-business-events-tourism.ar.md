@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
 related: ["penang-george-town-visitor-guide", "tourist-safety-health-practical-tips"]
 keywords: ["سياحة MICE ماليزيا", "الفعاليات التجارية", "MICE Malaysia", "business events", "MyCEB", "مكتب المؤتمرات", "KLCC", "MITEC", "مركز بورنيو للمؤتمرات كوتشينغ", "المعارض"]
+framework: profile
 ---
 
 عندما يصل 3.2 مليون مندوب جوًّا لحضور مؤتمر، فإنهم يحجزون الفنادق ويستأجرون المترجمين ويملؤون المطاعم ويوقّعون الصفقات — وقد أمضت ماليزيا أكثر من عقد في بناء المنشآت والمكتب اللازمين لاستقطابهم.

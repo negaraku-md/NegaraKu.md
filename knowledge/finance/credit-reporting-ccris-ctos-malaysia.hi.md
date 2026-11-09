@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["CCRIS", "CTOS", "क्रेडिट रिपोर्ट", "credit report Malaysia", "क्रेडिट स्कोर", "credit score", "Credit Reporting Agencies Act 2010", "RAM Credit Information RAMCI", "क्रेडिट रेटिंग"]
+framework: explainer
 ---
 
 एक अकेली चूकी हुई किस्त वर्षों तक चुपचाप आपका पीछा कर सकती है — और अधिकांश मलेशियाई लोगों ने वास्तव में कभी वह फ़ाइल पढ़ी ही नहीं जो कोई बैंक किसी ऋण को हाँ या ना कहने से पहले खोलता है।

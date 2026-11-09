@@ -117,6 +117,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-transport-malaysia" }
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["موانئ ماليزيا", "Malaysia ports", "Port Klang", "Port of Tanjung Pelepas", "PTP", "إعادة الشحن", "transhipment", "container port", "الخدمات اللوجستية في ماليزيا", "freight forwarding", "ECRL", "free zone", "TEU", "Strait of Malacca"]
+framework: profile
 ---
 
 حرّك ميناء كلانغ (Port Klang) 15.14 مليون حاوية شحن في 2025 — بما يكفي لتجاوز هونغ كونغ واختراق أكثر عشرة موانئ ازدحاماً في العالم للمرة الأولى. وحرّك ميناء ماليزي ثانٍ، تانجونغ بيليباس (Tanjung Pelepas)، 14 مليوناً أخرى. ولا يصف أيٌّ من هذين الرقمين بلداً يصنع معظم تلك البضائع. بل يصف بلداً يقع في المكان الصحيح وتعلّم أن يجبي ريعاً على تجارة العالم.

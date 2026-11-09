@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry" }
 related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
+framework: profile
 ---
 
 Karet yang membangun Tanah Melayu zaman penjajahan tidak lagi memberi hasil di perkebunan — ia memberi hasil di lantai pabrik. Malaysia masih menyadap pohon, tetapi kekayaan karetnya kini bergantung pada sarung tangan medis, ban dan barang lateks yang diproduksinya, satu bisnis yang memproses lebih banyak karet daripada yang ditanam oleh negara itu sendiri.

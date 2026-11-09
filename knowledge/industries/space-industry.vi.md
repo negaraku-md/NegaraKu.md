@@ -107,6 +107,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Malaysia không phóng tên lửa của riêng mình, nhưng đã đưa một phi hành gia bay, chế tạo và vận hành các vi vệ tinh, và thông qua một đạo luật để cấp phép hoạt động vũ trụ tư nhân trước hầu hết các nước láng giềng. Ngành vũ trụ của nước này nhỏ và mang tính chiến lược một cách lặng lẽ — len lỏi qua chính sách băng rộng, quốc phòng, giám sát thảm họa và uy tín quốc gia. Hướng dẫn này lập bản đồ cơ quan, luật pháp, các vệ tinh và những tham vọng tạo nên nền kinh tế vũ trụ của Malaysia.

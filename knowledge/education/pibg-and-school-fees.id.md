@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "national-schools-sk-sjkc-sjkt" }
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "persatuan ibu bapa-guru", "yuran sekolah", "yuran khas", "sumbangan PIBG", "sekolah kerajaan", "kos persekolahan"]
+framework: explainer
 ---
 
 Anak Anda didaftarkan ke sekolah negeri yang "gratis" — tetapi formulir PIBG dan daftar pembayaran tetap sampai ke rumah. Jadi apa sebenarnya yang wajib dibayar, dan apa yang tidak?

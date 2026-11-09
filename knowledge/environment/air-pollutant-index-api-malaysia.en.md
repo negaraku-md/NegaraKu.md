@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "jerebu-di-malaysia" }
 related: []
 keywords: ["IPU", "API", "indeks pencemar udara", "kualiti udara", "jerebu", "PM2.5", "PM10", "Jabatan Alam Sekitar"]
+framework: explainer
 ---
 
 When the haze thickens and schools start asking whether the morning assembly should be cancelled, a single number usually settles it — the API reading. That figure looks simple, but behind it lie six continuously measured pollutants and a formula that filters them all into one value.

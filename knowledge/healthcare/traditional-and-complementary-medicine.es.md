@@ -59,6 +59,7 @@ relations:
   - { rel: "governs", to: "traditional-and-complementary-medicine" }
 related: []
 keywords: ["medicina tradicional", "MT&C", "Act 775", "MTC", "quiropráctica", "homeopatía", "registro de profesionales", "Consejo de MT&C"]
+framework: rules
 ---
 
 Desde el 1 de marzo de 2025, los masajistas tradicionales, los profesionales de la medicina china, los homeópatas y los quiroprácticos de Malasia ya no pueden abrir las puertas de su clínica sin un único papel — un certificado de registro. La era de «ejercer en nombre de la experiencia» ha terminado.

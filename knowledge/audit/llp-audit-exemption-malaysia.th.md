@@ -62,6 +62,7 @@ relations:
   - { rel: "administered-by", to: "ssm" }
 related: []
 keywords: ["PLT audit", "LLP audit exemption", "Akta PLT 2012", "perisytiharan tahunan PLT", "seksyen 69", "SSM"]
+framework: explainer
 ---
 
 ผู้ประกอบการหลายรายเลือกห้างหุ้นส่วนจำกัดความรับผิด (PLT) ส่วนหนึ่งเพราะไม่ต้องจ่ายค่าการสอบบัญชีประจำปี ต่างจากบริษัทเอกชนจำกัด (sendirian berhad) PLT สามารถดำเนินการได้หลายปีโดยไม่มีผู้สอบบัญชีคนใดดูบัญชีเลย — และนั่นถูกต้องตามกฎหมายจริง

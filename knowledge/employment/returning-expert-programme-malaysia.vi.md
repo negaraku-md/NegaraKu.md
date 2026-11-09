@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "income-tax-rates-malaysia" }
 related: []
 keywords: ["Returning Expert Programme", "REP", "TalentCorp", "15% flat tax", "Malaysian diaspora", "returning talent", "MyHeart", "CKD vehicle exemption"]
+framework: explainer
 ---
 
 Nếu bạn là một người Malaysia đã xây dựng sự nghiệp ở nước ngoài và đang cân nhắc trở về, Returning Expert Programme (REP) đề nghị một mức thuế thu nhập cố định 15% tùy chọn trên thu nhập từ việc làm trong năm năm thay cho các mức lũy tiến thông thường. Để đủ điều kiện, bạn phải nộp đơn *trước khi* bạn trở về Malaysia.

@@ -85,6 +85,7 @@ relations:
   - { rel: "part-of", to: "malaysia-energy-transition" }
 related: ["petronas", "sarawak-energy-berhad"]
 keywords: ["hydrogen Malaysia", "CCUS Malaysia", "Kasawari CCS", "H2biscus", "H2ornbill", "SEDC Energy", "green ammonia Sarawak", "carbon capture Malaysia"]
+framework: profile
 ---
 
 ビントゥル沖では、小さな町ほどの大きさのプラットフォームが、天然ガスから二酸化炭素を分離し、それを海底下へと圧入している。そこから内陸へ数百キロメートル入った場所では、技術者たちがサラワクの水力発電をアンモニアと水素キャリアの形で日本と韓国へ輸送するためのプラントを設計している。これらは合わさって、エネルギー転換の分子——クリーン水素と地中に埋められた炭素——がLNGとパーム油に続く次の輸出産業になり得るという、マレーシアの賭けを形づくっている。

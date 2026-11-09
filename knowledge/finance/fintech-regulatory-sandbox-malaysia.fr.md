@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "securities-commission-malaysia" }
 related: ["bank-negara-malaysia", "securities-commission-malaysia"]
 keywords: ["bac à sable réglementaire", "regulatory sandbox", "fintech Malaisie", "fintech Malaysia", "BNM sandbox", "Innovation Green Lane", "SC sandbox", "FTEG", "fintech marché des capitaux"]
+framework: explainer
 ---
 
 Construisez une nouvelle application de paiement ou une plateforme de titres tokenisés en Malaisie et vous vous heurterez au même mur : les règles ont été écrites avant que votre idée n'existe. Le bac à sable réglementaire est la porte à travers ce mur — un espace supervisé pour tester un produit en direct avant de détenir un agrément plein. La Malaisie en compte deux, et à quelle porte vous frappez dépend de ce que vous construisez.

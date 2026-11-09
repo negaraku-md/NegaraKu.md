@@ -96,6 +96,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review (output/export, capacity and ownership figures flagged for verification).
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Plastics, fertilisers, detergents, synthetic rubber, cosmetics, paints and the resins inside your phone casing all start as chemicals — and a surprising share of them, or their building blocks, are made in Malaysia. Behind the country's better-known oil-and-gas and palm-oil stories sits a large, quietly strategic chemicals and petrochemicals industry that turns raw hydrocarbons and vegetable oils into the materials modern life depends on.

@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "mida" }
 related: []
 keywords: ["Malaysia manufacturing", "machinery and equipment", "plastics", "rubber gloves", "medical devices", "chemicals", "food processing", "NIMP 2030", "MIDA", "DOSM"]
+framework: profile
 ---
 
 「マレーシアの工場」と言われて多くの人が思い浮かべるのは、ペナンの半導体クリーンルームか、シャー・アラムのProtonの生産ラインだろう。どちらも実在し、規模も大きい——しかしそれらは、はるかに広い産業基盤の上に成り立っているにすぎない。2024年、産業全体でRM1.9兆の売上を動かし、およそ240万人の雇用を維持しており、そのかなりの部分は機械、プラスチック、ゴム、医療機器、化学、そしてスーパーの棚に並ぶ食品から生まれている。

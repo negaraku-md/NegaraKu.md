@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "malaysia-net-zero-2050" }
 related: ["bursa-malaysia"]
 keywords: ["carbon market Malaysia", "carbon pricing", "carbon tax Malaysia", "Bursa Carbon Exchange", "National Carbon Market Policy", "carbon credits", "emissions trading scheme", "CCUS Act 2025"]
+framework: explainer
 ---
 
 Malaysia đang xây dựng hệ thống đường ống của một thị trường carbon trước khi quyết định thu phí bất kỳ ai vì việc gây ô nhiễm. Ngày nay bạn đã có thể mua và bán tín chỉ carbon trên một sàn giao dịch quốc gia — nhưng các loại thuế và quy tắc giao dịch buộc các đơn vị phát thải lớn phải trả tiền vẫn đang được soạn thảo.

@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-chairmanship-2025" }
 related: []
 keywords: ["pengerusian ASEAN", "Piagam ASEAN", "Perkara 31", "giliran abjad", "Malaysia 2025", "Filipina 2026", "Sidang Kemuncak ASEAN"]
+framework: explainer
 ---
 
 ทุกวันที่ 1 มกราคม ประเทศในเอเชียตะวันออกเฉียงใต้ประเทศหนึ่งจะได้สืบทอดเก้าอี้ที่ทรงอิทธิพลที่สุดในภูมิภาค โดยไม่มีการลงคะแนน ไม่มีการรณรงค์หาเสียง เพียงเรียงตามลำดับตัวอักษร

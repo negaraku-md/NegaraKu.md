@@ -62,6 +62,7 @@ relations:
   - { rel: "administered-by", to: "ssm" }
 related: []
 keywords: ["auditoría PLT", "LLP audit exemption", "exención de auditoría LLP", "Akta PLT 2012", "declaración anual PLT", "seksyen 69", "SSM"]
+framework: explainer
 ---
 
 Muchos emprendedores eligen una sociedad de responsabilidad limitada (LLP) en parte porque no tiene que pagar una auditoría anual. A diferencia de una sociedad limitada privada, una LLP puede operar durante años sin que un solo auditor mire nunca sus cuentas, y eso es perfectamente legal.

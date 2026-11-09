@@ -92,6 +92,7 @@ relations:
   - { rel: "governs", to: "financial-services-act-2013" }
 related: ["bank-negara-malaysia", "islamic-finance", "digital-banks-malaysia"]
 keywords: ["banking sector Malaysia", "commercial banks Malaysia", "Islamic banks Malaysia", "investment banks Malaysia", "Financial Services Act 2013", "Islamic Financial Services Act 2013", "digital banks Malaysia", "Bank Negara Malaysia"]
+framework: profile
 ---
 
 Mở một tài khoản ngân hàng ở Kuala Lumpur và bạn đã lặng lẽ bước vào một trong số ít quốc gia vận hành hai hệ thống ngân hàng hoàn chỉnh song song nhau — thông thường và Hồi giáo — dưới một ngân hàng trung ương và hai luật tương ứng được viết trong cùng một năm.

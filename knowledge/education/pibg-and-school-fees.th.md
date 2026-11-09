@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "national-schools-sk-sjkc-sjkt" }
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "persatuan ibu bapa-guru", "yuran sekolah", "yuran khas", "sumbangan PIBG", "sekolah kerajaan", "kos persekolahan"]
+framework: explainer
 ---
 
 บุตรของคุณลงทะเบียนเข้าโรงเรียนรัฐบาลที่ "ฟรี" — แต่แบบฟอร์ม PIBG และรายการค่าใช้จ่ายก็ยังส่งมาถึงบ้าน แล้วอะไรกันแน่ที่ต้องจ่าย และอะไรที่ไม่ต้อง?

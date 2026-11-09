@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["business-structures-malaysia", "sdn-bhd-vs-berhad", "register-sdn-bhd", "what-is-sdn-bhd", "company-secretary-malaysia"]
 keywords: ["company limited by guarantee", "CLBG", "berhad menurut jaminan", "section 45 Companies Act 2016", "non-profit company Malaysia", "SSM CLBG", "omit Berhad licence"]
+framework: explainer
 ---
 
 Sebuah yayasan, sebuah institut profesional, sebuah dewan perniagaan dan sebuah perusahaan sosial semuanya boleh memakai kerangka undang-undang yang sama di Malaysia — syarikat berhad menurut jaminan. Ia merupakan wadah yang dikhaskan oleh undang-undang untuk organisasi yang wujud untuk melakukan sesuatu yang berguna dan bukannya untuk mengeluarkan keuntungan, dan ia disertai peraturan yang tidak pernah dilihat oleh Sdn Bhd biasa.

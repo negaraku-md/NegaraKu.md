@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-malaysia" }
 related: ["criminal-procedure-code", "federal-constitution"]
 keywords: ["Akta Keterangan 1950", "Evidence Act 1950", "Akta 56", "beban bukti", "kebolehterimaan", "anggapan", "keistimewaan", "seksyen 90A", "seksyen 114A", "pengakuan salah"]
+framework: explainer
 ---
 
 Một bức ảnh, một tin nhắn WhatsApp, hay lời nói của một nhân chứng không nhất thiết trở thành "bằng chứng" tại tòa. Việc một điều gì đó có được coi là bằng chứng hay không — và ai phải chứng minh nó — được quyết định bởi một đạo luật duy nhất: Luật Chứng cứ 1950 (Evidence Act 1950, Act 56).

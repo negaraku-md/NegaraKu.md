@@ -97,6 +97,7 @@ relations:
   - { rel: "administered-by", to: "mida" }
 related: ["penang", "mida"]
 keywords: ["E&E industry", "electrical and electronics", "Malaysia manufacturing", "Penang electronics", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
+framework: profile
 ---
 
 打开近十年内制造的几乎任何一台笔记本电脑、智能手机或汽车，其中某个部件很有可能经过了马来西亚。里面的芯片也许是在槟城完成测试与封装的；电源适配器、LED背光板或电路板则可能是在居林、马六甲或巴生谷组装的。对于一个约3,410万人口的国家（2024年，DOSM）而言，马来西亚在全球电子供应链中占据着出人意料的中心位置——而这几乎完全是一个产业的故事。

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: ["sst"]
 keywords: ["halal certification Malaysia", "JAKIM halal", "MYeHALAL", "halal logo Malaysia", "halal certification fee", "Trade Descriptions Order 2011"]
+framework: how-to
 ---
 
 ติดโลโก้ฮาลาลบนบรรจุภัณฑ์ของท่านโดยไม่มีใบรับรองจาก JAKIM ท่านไม่เพียงแค่ทำอย่างมักง่าย แต่กำลังกระทำความผิด ในมาเลเซียคำกล่าวอ้างฮาลาลถูกกำกับโดยกฎหมาย และเอกสารต่าง ๆ ปัจจุบันอยู่บนระบบออนไลน์ทั้งหมด

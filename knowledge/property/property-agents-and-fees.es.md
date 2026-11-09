@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "tenancy-agreement-malaysia" }
 related: []
 keywords: ["agente inmobiliario", "REN", "LPEPH", "BOVAEP", "comisión del agente", "honorarios de alquiler", "negociador inmobiliario", "property agent Malaysia"]
+framework: explainer
 ---
 
 El número en la placa que lleva ese agente en el pecho no es un adorno: es la única forma rápida de distinguir a un negociador legítimo de alguien que simplemente afirma ser agente. En Malasia, quién puede vender, alquilar o negociar una propiedad en su nombre está estrictamente regulado por ley.

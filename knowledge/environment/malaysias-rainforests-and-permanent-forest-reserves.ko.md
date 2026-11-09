@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-state-and-federal-lists" }
 related: []
 keywords: ["hutan simpanan kekal", "akta perhutanan negara 1984", "pewartaan hutan", "senarai negeri", "hutan hujan malaysia", "degazette hutan simpan", "enakmen hutan sabah", "ordinan hutan sarawak"]
+framework: explainer
 ---
 
 말레이시아의 어떤 산림지는 나무로 가득 찼다는 이유만으로 "보호"되는 것이 아닙니다. 그 보호는 해당 토지의 이름이 관보에 게재되는 날 시작됩니다. 그 관보 지정이 없다면, 같은 숲도 언제든 개발 허가를 받을 수 있습니다. 이것이 말레이시아의 영구 산림 보호구역(HSK) 제도 전체의 기반입니다.

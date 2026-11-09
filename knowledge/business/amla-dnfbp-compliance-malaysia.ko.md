@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["company-secretary-malaysia"]
 keywords: ["AMLA", "DNFBP", "reporting institution", "suspicious transaction report", "customer due diligence", "FIED", "Bank Negara Malaysia", "money laundering"]
+framework: rules
 ---
 
 자금세탁방지법은 은행만의 관심사가 아닙니다. 말레이시아 AMLA에 따라 다양한 비금융 사업자와 전문직도 보고기관에 해당합니다. 회사를 설립하는 회사 비서, 부동산 매매를 성사시키는 부동산 중개인, 거액의 현금을 수령하는 거래상은 각각 이 제도의 적용 대상이 될 수 있으며, 고객확인, 기록 보관, 보고 의무를 말레이시아 중앙은행(BNM)에 직접 부담합니다.

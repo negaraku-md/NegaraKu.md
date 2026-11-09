@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "taman-negara" }
 related: []
 keywords: ["Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "totally protected wildlife", "protected wildlife", "wildlife licence Malaysia", "special permit", "wildlife trafficking Malaysia", "Department of Wildlife and National Parks"]
+framework: rules
 ---
 
 เก็บหนังเสือโคร่งมลายูไว้ในท้ายรถของท่าน แล้วท่านไม่ได้กำลังเผชิญค่าปรับและจดหมายเตือน แต่กำลังเผชิญการติดคุกหลายปีและค่าปรับที่วัดเป็นหลายแสนริงกิต นั่นคือด้านที่คมชัดของพระราชบัญญัติการอนุรักษ์สัตว์ป่า ปี 2010 ซึ่งเป็นกฎหมายที่ตัดสินว่าสัตว์ใดในคาบสมุทรมาเลเซียที่ท่านสามารถแตะต้อง เลี้ยง ขาย หรือศึกษาได้ และสัตว์ใดที่ท่านไม่อาจเข้าใกล้ได้โดยไม่มีการอนุญาตเป็นลายลักษณ์อักษรจากรัฐ

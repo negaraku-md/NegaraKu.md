@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "pdrm" }
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
+framework: how-to
 ---
 
 Seorang pengemudi dapat menerima empat jenis tilang yang terlihat serupa di atas kertas — tetapi datang dari empat pihak yang berbeda, dan harus diperiksa di empat tempat yang berbeda. Banyak yang hanya tahu satu portal, lalu mengira tilang mereka "hilang" padahal ia sebenarnya duduk di sistem lain.

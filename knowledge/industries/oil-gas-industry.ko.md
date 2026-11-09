@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "petroleum-income-tax" }
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["oil and gas Malaysia", "PETRONAS", "production sharing contract", "PSC", "Petroleum Development Act 1974", "Malaysia Petroleum Management", "upstream", "downstream", "LNG", "petroleum income tax"]
+framework: profile
 ---
 
 말레이시아 땅과 해저 아래의 모든 석유 배럴과 모든 세제곱피트의 가스는, 법에 따라, 단 하나의 기업에 속합니다. 국가가 직접도, 유전 발견자도, 그것을 시추하는 다국적 기업도 아니라 — 나라의 석유를 신탁으로 보유하기 위해 만들어진 국영 석유 기업 PETRONAS입니다. 그 한 가지 사실을 이해하면 말레이시아 석유·가스 산업의 나머지 — 그것이 어떻게 규제되고, 자금이 조달되고, 과세되고, 분배되는지 — 가 제자리를 찾습니다.

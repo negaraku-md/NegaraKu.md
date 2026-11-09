@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "tenancy-agreement-malaysia" }
 related: []
 keywords: ["ejen hartanah", "REN", "LPEPH", "BOVAEP", "komisen ejen", "fi sewaan", "perunding hartanah"]
+framework: explainer
 ---
 
 Nomor pada tag dada agen itu bukan hiasan — ia satu-satunya cara cepat membedakan seorang negosiator yang sah dari seseorang yang hanya mengklaim dirinya agen. Di Malaysia, siapa yang boleh menjual, menyewakan atau menegosiasikan properti atas nama Anda diatur ketat oleh undang-undang.

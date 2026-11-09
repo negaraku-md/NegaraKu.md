@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "manufacturing-licence-malaysia" }
 related: ["manufacturing-licence-malaysia"]
 keywords: ["Environmental Quality Act 1974", "Act 127", "Act A1712", "Department of Environment", "EIA Malaysia", "prescribed premises", "environmental penalties Malaysia", "open burning Malaysia", "scheduled waste"]
+framework: rules
 ---
 
 A single spill into a river in Malaysia can now cost a company up to RM10 million and put the person responsible behind bars — and unlike before, the judge no longer has the discretion to hand down a fine alone. That shift, effective 7 July 2024, is the sharpest change to Malaysia's environmental law in half a century, and it sits inside a statute most operators have lived with quietly since 1974.

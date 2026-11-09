@@ -95,6 +95,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Hampir setiap ringgit yang dibelanjakan orang Malaysia untuk barang fisik — bahan makanan, sebuah ponsel, sebuah mobil, sebotol minyak goreng — melewati perdagangan ritel dan grosir. Inilah pipa saluran konsumsi sehari-hari: jaringan importir, pedagang grosir, distributor, toko, pasar, dan toko daring yang memindahkan produk dari tempat produksinya ke tempat pembeliannya. Pejabat menyebut jaringan ini **perdagangan distributif**, dan ia adalah salah satu bagian terbesar dan paling terlihat dari perekonomian Malaysia.

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "freedom-of-information-malaysia" }
 related: []
 keywords: ["Akta Rahsia Rasmi 1972", "Official Secrets Act", "Akta 88", "rahsia rasmi", "pengelasan dokumen", "seksyen 16A", "keselamatan negara", "kebebasan media", "OSA Malaysia"]
+framework: rules
 ---
 
 एक पत्रकार जो मंत्रिमंडल की कार्यवाही की प्रति प्राप्त करता है, एक शोधकर्ता जो किसी सैन्य शिविर के पास माप लेता है, और एक अधिकारी जो "गोपनीय" अंकित कोई फ़ाइल रखता है — ये तीनों एक ही कानून की पकड़ में आ सकते हैं। Official Secrets Act 1972, यानी Act 88, मलेशिया की आधिकारिक-गोपनीयता प्रणाली की रीढ़ है, और इसका दायरा जासूसी के मामलों से कहीं आगे तक पहुँचता है।

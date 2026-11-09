@@ -98,6 +98,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Malaysia nằm trên hai trong số những tuyến hàng hải bận rộn nhất thế giới và kiếm sống phần lớn từ biển — thế nhưng ngành đóng tàu và sửa chữa tàu (SBSR) của nó là một trong những góc lặng lẽ hơn của nền kinh tế quốc gia. Nó có thật, lâu đời và quan trọng về chiến lược, nhưng cũng phân mảnh, theo chu kỳ và bị thống trị bởi các xưởng tương đối nhỏ. Hướng dẫn này giải thích ngành đóng gì, ở đâu, lớn đến đâu, và vì sao một chương trình hải quân đã che phủ cả lĩnh vực trong tranh luận công chúng.

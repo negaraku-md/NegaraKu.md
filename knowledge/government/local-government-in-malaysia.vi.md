@@ -86,6 +86,7 @@ wikidata: "Q6664408"
 relations: []
 related: []
 keywords: ["local government Malaysia", "PBT", "pihak berkuasa tempatan", "majlis perbandaran", "majlis daerah", "dewan bandaraya", "Local Government Act 1976", "Act 171", "local council Malaysia", "cukai taksiran", "KPKT", "local government elections Malaysia", "Datuk Bandar", "Yang Dipertua", "municipal council Malaysia", "district council Malaysia"]
+framework: explainer
 ---
 
 Hội đồng thu gom rác của bạn, phê duyệt dãy nhà phố bên cạnh và xuất hóa đơn thuế định giá cho bạn là tầng chính quyền gần cổng nhà bạn nhất — và đó là tầng duy nhất bạn chưa bao giờ được phép bầu. Tầng chính quyền thứ ba của Malaysia được cung cấp bởi các **cơ quan chính quyền địa phương** (*Pihak Berkuasa Tempatan*, hay **PBT**), với ba cỡ: Hội đồng Thành phố, Hội đồng Đô thị và Hội đồng Quận. Hai sự kiện giải thích hầu như mọi thứ về cách chúng vận hành. Thứ nhất, chính quyền địa phương là vấn đề *của bang* theo Hiến pháp, nên hội đồng của bạn chịu trách nhiệm trước chính quyền bang, không phải Putrajaya. Thứ hai, bầu cử địa phương đã bị đóng băng từ năm 1965, nên mọi ủy viên hội đồng đều do bang bổ nhiệm — không được cư dân bầu.

@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "hire-purchase-act-1967" }
 related: []
 keywords: ["Akta Kredit Pengguna 2025", "Consumer Credit Act", "BNPL Malaysia", "Suruhanjaya Kredit Pengguna", "Akta Sewa Beli 1967", "kadar faedah berkesan", "Rule of 78"]
+framework: explainer
 ---
 
 Pagar tres cuotas mensuales por un par de zapatos, o llevarse a casa un coche nuevo con un depósito del 10%: dos operaciones de crédito habituales para los malasios que, sin embargo, hasta hace poco se regían por mundos jurídicos muy distintos. Ahora, ambas se están reorganizando casi al mismo tiempo.

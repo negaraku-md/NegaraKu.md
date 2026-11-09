@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "manufacturing-licence-malaysia" }
 related: ["manufacturing-licence-malaysia"]
 keywords: ["Environmental Quality Act 1974", "Act 127", "Act A1712", "Department of Environment", "EIA Malaysia", "prescribed premises", "environmental penalties Malaysia", "open burning Malaysia", "scheduled waste", "Ley de Calidad Ambiental", "sanciones ambientales Malasia", "quema a cielo abierto", "residuos programados"]
+framework: rules
 ---
 
 Un solo vertido a un río en Malasia puede ahora costarle a una empresa hasta RM10 millones y poner tras las rejas a la persona responsable — y, a diferencia de antes, el juez ya no tiene la discreción de imponer una multa sola. Ese cambio, en vigor desde el 7 de julio de 2024, es la modificación más tajante del derecho ambiental de Malasia en medio siglo, y se asienta dentro de una norma con la que la mayoría de los operadores han convivido en silencio desde 1974.

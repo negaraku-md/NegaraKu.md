@@ -69,6 +69,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["parliament", "majlis-raja-raja", "federal-state-division"]
 keywords: ["Perlembagaan Persekutuan", "Federal Constitution Malaysia", "undang-undang tertinggi", "Perkara 4 Perlembagaan", "Perkara 159 pindaan", "ketertinggian perlembagaan", "Bahagian Perlembagaan Persekutuan", "prosedur pindaan perlembagaan"]
+framework: explainer
 ---
 
 Toda ley aprobada en Malasia —ya sea por el Parlamento federal o por una Asamblea Legislativa Estatal— puede medirse frente a un único documento. Si esa ley es incongruente con él, puede tratarse como nula en la medida de esa incongruencia. Ese documento es la Constitución Federal.

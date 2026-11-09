@@ -78,6 +78,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["batik", "gawai-dayak", "sarawak"]
 keywords: ["pua kumbu", "tenunan Iban", "ikat lungsi", "kebat", "engkudu", "ngar", "kain upacara Sarawak", "Bangie Embol"]
+framework: history-culture
 ---
 
 ผ้าผืนหนึ่งที่ผู้ทอไม่กล้าสร้างขึ้นโดยปราศจาก "การอวยพร" — ลวดลายของมันว่ากันว่ามาในความฝัน และครั้งหนึ่งในอดีตมันผูกพันแนบแน่นกับประเพณีนักรบของชุมชนที่สร้างมันขึ้น นั่นคือปัวกุมบู

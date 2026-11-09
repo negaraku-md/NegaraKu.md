@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "majlis-raja-raja" }
 related: ["dewan-rakyat", "federal-state-division", "spr-election-commission", "majlis-raja-raja", "federal-constitution"]
 keywords: ["Dewan Undangan Negeri", "DUN", "badan perundangan negeri", "Jadual Kelapan", "Perkara 71", "peruntukan penting", "Yang di-Pertua Negeri", "Menteri Besar", "enakmen negeri", "State Legislative Assembly Malaysia"]
+framework: explainer
 ---
 
 Land is a state matter. Islamic family law is a state matter. Local government is a state matter. But who actually passes the law on these matters in a given state, and according to what rules? The answer is not a matter of convention or practice alone — it is written, section by section, in a Schedule at the end of the Federal Constitution.

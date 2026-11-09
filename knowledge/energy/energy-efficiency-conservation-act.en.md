@@ -80,6 +80,7 @@ relations:
   - { rel: "affects", to: "commercial-buildings-malaysia" }
 related: []
 keywords: ["EECA 2024", "Akta 861", "kecekapan tenaga", "Suruhanjaya Tenaga", "pengurus tenaga berdaftar", "audit tenaga", "intensiti tenaga bangunan", "MEPS"]
+framework: rules
 ---
 
 If your factory or office building uses millions of ringgit worth of energy a year, the government now wants to know where every gigajoule goes — and wants you to show that you are working to cut waste. That is the crux of the Energy Efficiency and Conservation Act 2024, or Act 861, a law that has been in force since 1 January 2025.

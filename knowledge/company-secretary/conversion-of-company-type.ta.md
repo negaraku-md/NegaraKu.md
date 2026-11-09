@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "special-resolution" }
 related: ["companies-act-2016"]
 keywords: ["penukaran status syarikat", "sdn bhd kepada berhad", "syarikat awam", "syarikat sendirian", "seksyen 41 akta syarikat 2016", "resolusi khas", "SSM"]
+framework: how-to
 ---
 
 *Sendirian Berhad* (தனியார் வரையறுக்கப்பட்ட நிறுவனம்) ஆகத் தொடங்கும் ஒரு நிறுவனம் அந்த அந்தஸ்தில் என்றென்றும் பூட்டப்பட்டிருக்காது. ஒரு வணிகம் பொது மக்களிடமிருந்து நிதி திரட்டவோ அல்லது தனது பங்குகளைப் பட்டியலிடவோ விரும்பும்போது, அது ஒரு பொது நிறுவனமாக (*Berhad*) மாறலாம் — மேலும் எதிர்திசைப் பாதையும் திறந்திருக்கிறது. முக்கியமானது ஒரே ஒரு சிறப்புத் தீர்மானமும் SSM-இடம் ஒரே ஒரு தாக்கலும்தான்.

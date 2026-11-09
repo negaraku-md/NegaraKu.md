@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "putrajaya" }
 related: ["federal-state-division", "federal-constitution", "kuala-lumpur", "putrajaya", "parliament"]
 keywords: ["local government Malaysia", "local council", "city council", "municipal council", "district council", "Local Government Act 1976", "Act 171", "councillors appointed", "local elections suspended 1965", "third vote", "National Council for Local Government"]
+framework: explainer
 ---
 
 Majlis yang memperbaiki lampu jalan Anda, mengumpulkan sampah Anda, menyetujui pembangunan tambahan

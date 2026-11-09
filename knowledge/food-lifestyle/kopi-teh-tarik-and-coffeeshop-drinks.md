@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "cultural-heritage-tourism-malaysia" }
 related: ["cultural-heritage-tourism-malaysia"]
 keywords: ["kopitiam", "kopi", "teh tarik", "kopi-O", "kopi-C", "mamak", "minuman Malaysia"]
+framework: explainer
 ---
 
 Anda menuding jari ke kaunter dan menyebut "kopi-O peng, satu!" — dan entah bagaimana pakcik di sebalik mesin espresso lama itu faham dengan tepat apa yang anda mahu. Bahasa pesanan kopitiam nampak seperti kod rahsia, tetapi sebenarnya ia satu sistem yang kemas dan logik.

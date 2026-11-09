@@ -63,6 +63,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-kastam-diraja-malaysia" }
 related: ["tourism-tax"]
 keywords: ["levi pelepasan", "departure levy", "cukai keluar", "Departure Levy Act 2019", "Kastam", "MyDLv"]
+framework: rules
 ---
 
 Setiap kali Anda terbang keluar dari Malaysia, harga tiket Anda sudah memuat satu pungutan kecil kepada pemerintah yang jarang disadari penumpang — levi keberangkatan. Ia diperkenalkan dalam Belanjawan 2019 dan mulai diberlakukan pada **1 September 2019** melalui *Departure Levy Act 2019*.

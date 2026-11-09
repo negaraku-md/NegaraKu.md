@@ -95,6 +95,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 말레이시아인이 실물 상품에 쓰는 거의 모든 링깃 — 식료품, 휴대폰, 자동차, 식용유 한 병 — 은 소매·도매업을 거칩니다. 이는 일상 소비의 배관(配管)과도 같습니다. 즉 상품을 만든 곳에서 사는 곳으로 옮기는 수입업자·도매상·유통업자·상점·시장·온라인 매장의 연결망입니다. 당국은 이 연결망을 **유통업(distributive trade)**이라 부르며, 이는 말레이시아 경제에서 가장 크고 가장 눈에 띄는 부분 중 하나입니다.

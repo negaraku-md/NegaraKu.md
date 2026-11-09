@@ -101,6 +101,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 アメリカの住宅所有者や電力会社が太陽光アレイを設置するとき、そのパネルはマレーシア製である可能性が高い — そう気づく人はほとんどいない。10年以上にわたり、マレーシアは静かに世界最大級の太陽光発電（PV）セル・モジュール生産国の一つであり続けてきた。自国の送電網に電力を供給するためではなく、輸出するためにだ。これは工場の産業であって、フィードイン・タリフの産業ではない。

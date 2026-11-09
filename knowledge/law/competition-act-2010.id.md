@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "how-a-bill-becomes-law" }
 related: ["consumer-protection-act", "companies-act-2016", "how-a-bill-becomes-law"]
 keywords: ["Competition Act 2010", "MyCC", "Malaysia Competition Commission", "anti-competitive agreements", "abuse of dominance", "cartel", "price fixing", "bid rigging", "Section 4", "Section 10"]
+framework: rules
 ---
 
 Ketika lima produsen pakan ayam secara diam-diam sepakat untuk menaikkan harga mereka seiring, hal itu akhirnya terbukti di pasar basah dalam bentuk harga seekor ayam. Pada Desember 2023, regulator persaingan Malaysia mendenda mereka secara gabungan sebesar RM415.5 juta — penalti persaingan terbesar dalam sejarah negara ini — karena melanggar undang-undang yang keberadaannya masih hampir tidak diketahui oleh banyak bisnis.

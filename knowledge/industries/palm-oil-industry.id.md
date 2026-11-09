@@ -100,6 +100,7 @@ relations:
   - { rel: "compares-with", to: "rubber-industry" }
 related: ["rubber-industry"]
 keywords: ["palm oil", "crude palm oil", "CPO", "MPOB", "FELDA", "smallholders", "oil palm", "refineries", "oleochemicals", "MSPO", "biodiesel", "exports"]
+framework: profile
 ---
 
 Minyak sawit adalah minyak nabati yang paling banyak diperdagangkan di dunia, dan Malaysia merupakan produsen kedua terbesarnya — di belakang Indonesia — mengubah tandan buah merah berduri yang ditanam dari Johor hingga ke perbukitan Sarawak menjadi minyak goreng yang disuling, bahan sabun dan biodiesel yang dikirim ke pasar di seluruh Asia, Afrika dan Eropa. Industri ini menyokong lebih dari 3 juta rakyat Malaysia secara langsung dan tidak langsung, termasuk hampir 500,000 petani kecil, menurut Majlis Minyak Sawit Malaysia (MPOC). Inilah cara mesin itu dibangun, dari pohon hingga ke kapal tanker.

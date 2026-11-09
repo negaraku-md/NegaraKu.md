@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malay-rulers-and-state-monarchies" }
 related: ["federal-constitution"]
 keywords: ["Yang di-Pertuan Agong", "Majlis Raja-Raja", "Conference of Rulers", "Perkara 32", "Perkara 38", "raja berperlembagaan", "Ketua Negara"]
+framework: explainer
 ---
 
 มาเลเซียเป็นหนึ่งในไม่กี่ประเทศในโลกที่ราชาได้รับเลือกโดยการหมุนเวียน ไม่ใช่สืบทอดทีละพระองค์จากสายราชวงศ์เดียว ทุกห้าปี ราชาแห่งรัฐมลายูเก้าพระองค์มาประชุมกันเพื่อกำหนดว่าพระองค์ใดในหมู่พวกเขาจะทรงครองราชบัลลังก์สหพันธ์ในฐานะยังดีเปอร์ตวนอากง (Yang di-Pertuan Agong) ระบบนี้ พร้อมกับสถาบันที่ดำเนินการมันคือสภาราชา (Majlis Raja-Raja) ก่อเป็นแกนกลางของระบอบราชาภายใต้รัฐธรรมนูญของประเทศ

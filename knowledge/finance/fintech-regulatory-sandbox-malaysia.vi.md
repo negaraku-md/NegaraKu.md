@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "securities-commission-malaysia" }
 related: ["bank-negara-malaysia", "securities-commission-malaysia"]
 keywords: ["regulatory sandbox", "fintech Malaysia", "BNM sandbox", "Innovation Green Lane", "SC sandbox", "FTEG", "capital market fintech"]
+framework: explainer
 ---
 
 Xây một ứng dụng thanh toán mới hay một nền tảng chứng khoán được token hóa tại Malaysia và bạn đâm vào cùng một bức tường: các quy tắc được viết trước khi ý tưởng của bạn tồn tại. Sandbox quản lý là cánh cửa xuyên qua bức tường đó — một không gian được giám sát để thử nghiệm một sản phẩm trực tiếp trước khi bạn có một giấy phép đầy đủ. Malaysia có hai cái, và bạn gõ cửa cái nào phụ thuộc vào điều bạn đang xây.

@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "special-resolution" }
 related: ["companies-act-2016"]
 keywords: ["penukaran status syarikat", "sdn bhd kepada berhad", "syarikat awam", "syarikat sendirian", "seksyen 41 akta syarikat 2016", "resolusi khas", "SSM"]
+framework: how-to
 ---
 
 *Sendirian Berhad*로 시작한 회사가 그 지위에 영원히 갇혀 있는 것은 아닙니다.

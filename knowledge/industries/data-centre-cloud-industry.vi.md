@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "johor-singapore-special-economic-zone" }
 related: ["johor-singapore-special-economic-zone"]
 keywords: ["Malaysia data centre", "cloud infrastructure", "Johor data centre", "DESAC incentive", "data centre power water", "hyperscale Malaysia"]
+framework: profile
 ---
 
 Vào năm 2019, Singapore ngừng phê duyệt các trung tâm dữ liệu lớn mới. Trong vòng bốn năm, các máy chủ mà nó từ chối đã xây nên một ngành công nghiệp mới cách hai mươi phút bên kia Causeway — và Johor đi từ một bang Malaysia yên tĩnh trở thành thị trường trung tâm dữ liệu bận rộn nhất Đông Nam Á.

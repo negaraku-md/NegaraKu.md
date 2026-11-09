@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "food-delivery-riders" }
 related: []
 keywords: ["e-skuter", "PMD", "mikromobiliti", "basikal elektik", "MS2514", "JPJ", "peranti mobiliti peribadi"]
+framework: rules
 ---
 
 Compras un patinete eléctrico para llegar a la oficina, pero en el momento en que sus ruedas tocan una carretera pública, ya estás infringiendo la ley. Esa ha sido la realidad de la micromovilidad en Malasia desde finales de 2021.

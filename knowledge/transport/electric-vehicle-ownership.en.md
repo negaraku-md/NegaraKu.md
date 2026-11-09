@@ -90,6 +90,7 @@ keywords:
   - "kadar LKM kW"
   - "cukai jalan kenderaan elektrik JPJ"
   - "road tax EV Malaysia"
+framework: explainer
 ---
 
 The era of free road tax for electric cars in Malaysia is over — but the first bill that lands in your MyJPJ may be cheaper than you think, and it is calculated in an entirely new way.

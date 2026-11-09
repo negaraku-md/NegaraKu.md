@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "kos-sara-hidup-malaysia" }
 related: []
 keywords: ["B40", "M40", "T20", "pendapatan isi rumah", "DOSM", "kos sara hidup", "median pendapatan"]
+framework: explainer
 ---
 
 Kebanyakan rakyat Malaysia kenal label B40, M40 dan T20 — tetapi label itu tidak datang daripada slip gaji anda. Ia datang daripada kedudukan isi rumah anda dalam satu senarai panjang meliputi seluruh negara.

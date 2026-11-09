@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "national-automotive-policy" }
 related: []
 keywords: ["Proton", "Perodua", "coche nacional", "Geely", "DRB-HICOM", "UMW", "Sime Darby", "Política Nacional del Automóvil", "NAP 2020", "vehículos eléctricos Malasia", "e.MAS 7", "QV-E"]
+framework: profile
 ---
 
 Pocos países del tamaño de Malasia han intentado alguna vez construir un coche desde cero. Menos aún tienen dos marcas de cosecha propia aparcadas en la mayoría de las entradas de garaje del país. Conduzca por cualquier ciudad malasia y el tráfico cuenta una historia de política industrial deliberada: un Perodua Myvi en el semáforo, un Proton Saga detrás, ambos descendientes de una apuesta de los años ochenta según la cual una economía en desarrollo podía fabricar sus propios automóviles.

@@ -96,6 +96,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Every day, millions of transactions in Malaysia are arranged not by a shop, an office or a taxi rank, but by an app: a car summoned to a kerb, a bag of food carried across town on a motorcycle, a logo designed for a client the freelancer will never meet. This is the gig and platform economy — work mediated by digital platforms — and in little more than a decade it has moved from novelty to one of the most visible features of Malaysian working life.

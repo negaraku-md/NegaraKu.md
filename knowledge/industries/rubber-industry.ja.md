@@ -100,6 +100,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry" }
 related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
+framework: profile
 ---
 
 かつて植民地時代のマラヤを築いたゴムは、もはやプランテーションで稼いでいるのではない——工場の現場で稼いでいるのである。マレーシアは今なお樹木からゴムを採取しているが、その富は今や自国が製造する医療用手袋、タイヤ、ラテックス製品にかかっており、この産業は自国が栽培する量を上回るゴムを扱っている。

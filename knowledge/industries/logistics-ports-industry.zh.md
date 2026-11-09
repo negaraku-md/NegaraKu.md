@@ -117,6 +117,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-transport-malaysia" }
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["Malaysia ports", "Port Klang", "Port of Tanjung Pelepas", "PTP", "transhipment", "container port", "logistics Malaysia", "freight forwarding", "ECRL", "free zone", "TEU", "Strait of Malacca"]
+framework: profile
 ---
 
 巴生港在2025年运送了1,514万个航运集装箱——足以超越香港，首次跻身全球十大最繁忙港口。另一座马来西亚港口丹绒帕拉帕斯又运送了1,400万个。这两个数字都不足以描述一个自己制造大部分货物的国家。它描述的是一个坐拥绝佳地理位置、并学会向全球贸易「收租」的国家。

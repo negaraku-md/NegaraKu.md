@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "constitutional-amendment", "jpn", "dewan-rakyat", "how-a-bill-becomes-law"]
 keywords: ["Undi18", "Akta A1603", "pindaan perlembagaan umur mengundi 18 tahun", "Pendaftaran Pemilih Secara Automatik", "PPSA", "Perkara 119 Perlembagaan Persekutuan", "SPR daftar pemilih automatik", "umur mengundi Malaysia", "Constitution Amendment Act 2019"]
+framework: explainer
 ---
 
 这项重塑马来西亚选民版图的修正案仅占三页。《2019年宪法（修正）法令》——第A1603号法令——并未撰写冗长的新程序。它仅在三处更改了若干字词，而其中两项更改，就将数以百万计的公民纳入了选民名册。

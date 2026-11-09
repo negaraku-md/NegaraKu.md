@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "mida" }
 related: []
 keywords: ["التصنيع في ماليزيا", "Malaysia manufacturing", "الآلات والمعدات", "machinery and equipment", "plastics", "قفازات المطاط", "rubber gloves", "medical devices", "chemicals", "food processing", "NIMP 2030", "MIDA", "DOSM"]
+framework: profile
 ---
 
 قُل «مصنع ماليزي» وسيتخيّل معظم الناس غرفةً نظيفة لأشباه الموصلات في بينانغ (Penang) أو خطَّ إنتاج لبروتون (Proton) في شاه علم (Shah Alam). وتلك حقيقية، وهي كبيرة — لكنها تجلس فوق قاعدة صناعية أوسع بكثير. ففي 2024 حرّك القطاع كله RM1.9 تريليون من المبيعات وأبقى نحو 2.4 مليون شخص في العمل، وجاء جزء كبير من ذلك من الآلات والبلاستيك والمطاط والأجهزة الطبية والمواد الكيميائية والطعام على رفوف المتاجر الكبرى.

@@ -72,6 +72,7 @@ relations:
   - { rel: "administered-by", to: "lhdn" }
 related: ["petronas"]
 keywords: ["petroleum income tax", "PITA", "Petroleum Income Tax Act 1967", "petroleum operations", "marginal field tax", "late-life asset PSC", "upstream oil gas tax Malaysia"]
+framework: rules
 ---
 
 Một công ty dầu khoan ngoài khơi Terengganu và một nhà máy ở Shah Alam đều nộp thuế

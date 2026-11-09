@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "external-trade" }
 related: ["palm-oil-sector", "external-trade", "rubber"]
 keywords: ["Malaysia durian export", "Musang King", "Black Thorn durian", "durian China protocol", "geographical indication durian", "myGAP durian", "fresh durian export China"]
+framework: profile
 ---
 
 ஒரு தசாப்தத்திற்கும் மேலாக, மலேசியத் துரியான் உறைந்த நிலையிலோ அல்லது கூழ் மற்றும் பேஸ்ட்டாகப் பதப்படுத்தப்பட்ட நிலையிலோ மட்டுமே சீனாவுக்குள் நுழைய முடிந்தது. பின்னர், 2024-ன் நடுப்பகுதியில், பல ஆண்டுகளாக மலேசியா நாடிவந்த அணுகலை வென்றது: உலகின் மிகப்பெரிய துரியான் சந்தைக்கு முழு, புதிய துரியானை அனுப்பும் உரிமை.

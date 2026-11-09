@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-chairmanship-2025" }
 related: []
 keywords: ["pengerusian ASEAN", "Piagam ASEAN", "Perkara 31", "giliran abjad", "Malaysia 2025", "Filipina 2026", "Sidang Kemuncak ASEAN"]
+framework: explainer
 ---
 
 Cứ mỗi ngày 1 tháng 1, một quốc gia Đông Nam Á lại kế thừa chiếc ghế có ảnh hưởng nhất khu vực — không bỏ phiếu, không vận động tranh cử, chỉ đơn thuần theo thứ tự bảng chữ cái.

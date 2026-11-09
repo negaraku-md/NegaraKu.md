@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "register-business-sabah" }
 related: ["register-business-sarawak", "register-business-sabah"]
 keywords: ["akta kemajuan petroleum 1974", "petroleum development act 1974", "petronas", "royalti minyak", "MA63", "seksyen 2 pemilikan", "bayaran tunai petroleum", "sarawak sabah kelantan minyak"]
+framework: explainer
 ---
 
 मात्र कुछ पन्नों का एक अधिनियम मलेशिया के समस्त पेट्रोलियम — तट पर और समुद्र-तल पर — का स्वामित्व एक ही कंपनी को हस्तांतरित कर गया, और आज तक इसके द्वारा खींची गई विभाजक रेखा अदालतों में और वार्ता की मेज़ पर विवादित बनी हुई है।

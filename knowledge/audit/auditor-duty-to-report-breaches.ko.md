@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "auditor-independence" }
 related: ["companies-act-2016"]
 keywords: ["seksyen 266", "juruaudit", "SSM", "Akta Syarikat 2016", "pelaporan pelanggaran", "penipuan", "Pendaftar"]
+framework: rules
 ---
 
 감사 중 사기를 발견한 감사인은 단지 침묵하고 보고서에 서명할 수 없습니다 —

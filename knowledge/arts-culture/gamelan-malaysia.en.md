@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "mak-yong" }
 related: ["pahang", "terengganu", "joget-and-zapin", "mak-yong"]
 keywords: ["gamelan Melayu", "gamelan Terengganu", "gamelan Pahang", "joget gamelan", "Tengku Ampuan Mariam", "muzik istana", "warisan kebangsaan"]
+framework: history-culture
 ---
 
 The gamelan set moved from one court to another not because of a sale or a seizure — but because of marriage. When a princess moved to her husband's palace, the instruments, dancers and songs moved with her. That is how gamelan became the property of the Malay courts.

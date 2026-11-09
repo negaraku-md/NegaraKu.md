@@ -75,6 +75,7 @@ relations:
   - { rel: "compares-with", to: "mak-yong" }
 related: ["pahang", "terengganu", "joget-and-zapin", "mak-yong"]
 keywords: ["gamelan Melayu", "gamelan Terengganu", "gamelan Pahang", "joget gamelan", "Tengku Ampuan Mariam", "muzik istana", "warisan kebangsaan"]
+framework: history-culture
 ---
 
 Set gamelan itu berpindah dari satu istana ke satu istana yang lain bukan kerana jualan atau rampasan — tetapi kerana perkahwinan. Apabila seorang puteri berpindah ke mahligai suaminya, alat muzik, penari dan lagu-lagu turut berpindah bersamanya. Itulah cara gamelan menjadi milik istana Melayu.

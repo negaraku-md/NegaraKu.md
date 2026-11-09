@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "vaping-in-malaysia" }
 related: []
 keywords: ["Akta 852", "kawalan rokok", "vape", "tembakau", "nikotin", "umur minimum merokok", "generational endgame", "kawasan larangan merokok"]
+framework: rules
 ---
 
 เป็นครั้งแรก ที่บุหรี่หนึ่งมวนและอุปกรณ์บุหรี่ไฟฟ้าหนึ่งเครื่องอยู่ภายใต้กฎหมายเดียวกันในมาเลเซีย — และการห้ามขายให้แก่เยาวชนไม่ใช่เพียงนโยบายอีกต่อไป แต่เป็นความผิดที่สามารถถูกปรับได้หลายพันริงกิต

@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "public-vs-private-healthcare" }
 related: []
 keywords: ["telemedicine Malaysia", "online doctor", "teleconsultation", "DoctorOnCall", "MMC guideline", "e-prescription", "Telemedicine Act 1997"]
+framework: explainer
 ---
 
 你打开一个App，从沙发上视频呼叫一位医生，一个小时后一张处方就送进了你的收件箱。在马来西亚，这完全合法——但背后的规则手册并不是你可能以为的那部法律。

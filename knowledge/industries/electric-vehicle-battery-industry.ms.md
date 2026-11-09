@@ -94,6 +94,7 @@ keywords:
   - Proton e.MAS
   - Samsung SDI
   - penggunaan EV
+framework: profile
 ---
 
 Malaysia telah menghabiskan setengah abad membina kereta. Kini ia cuba mengelektrikkannya — dan, sama pentingnya, membuat bateri serta membina rangkaian pengecasan yang menjadi sandaran kenderaan elektrik. Ini kisah yang berbeza daripada yang diceritakan dalam panduan kepada [industri automotif Malaysia](/industries/automotive-industry/), yang sebahagian besarnya tentang kereta petrol dan diesel. Di sini subjeknya ialah *ekosistem* EV dan bateri: kenderaan, insentif, pengecas dan kilang yang bersama-sama menentukan sepantas mana Malaysia beralih kepada mobiliti elektrik.

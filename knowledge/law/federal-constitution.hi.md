@@ -48,6 +48,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["three-tiers-of-government", "parliament"]
 keywords: ["मलेशिया का संघीय संविधान", "Federal Constitution", "Perlembagaan Persekutuan", "मलेशियाई संवैधानिक कानून", "मलेशिया का सर्वोच्च कानून"]
+framework: explainer
 ---
 
 ## एक नज़र में

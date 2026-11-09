@@ -100,6 +100,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry" }
 related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
+framework: profile
 ---
 
 Cao su đã dựng nên Malaya thuộc địa không còn kiếm sống trong đồn điền — nó kiếm sống trên sàn nhà máy. Malaysia vẫn cạo mủ cây, nhưng vận may cao su của nó nay dựa vào những chiếc găng tay y tế, lốp xe và hàng mủ cao su mà nó chế tạo, một ngành kinh doanh xử lý nhiều cao su hơn cả những gì đất nước tự trồng.

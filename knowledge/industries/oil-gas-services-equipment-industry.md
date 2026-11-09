@@ -96,6 +96,7 @@ keywords:
   - drilling services
   - offshore support vessels
   - National OGSE Blueprint
+framework: profile
 ---
 
 When people picture Malaysia's oil and gas wealth, they usually think of the crude and gas beneath the seabed off Terengganu, Sarawak and Sabah — the reserves that made PETRONAS one of Asia's largest energy companies. But hydrocarbons do not lift themselves out of the ground. Behind every producing field sits a small army of contractors: the yards that weld steel platforms, the rigs that drill the wells, the vessels that ferry crews and cargo offshore, the engineers who design the facilities, and the technicians who keep it all running. That ecosystem is the **oil & gas services and equipment (OGSE) industry**, and it is a major Malaysian industry in its own right.

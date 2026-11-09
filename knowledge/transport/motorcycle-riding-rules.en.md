@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "road-transport-act-1987" }
 related: []
 keywords: ["lorong motosikal", "Lebuhraya Persekutuan", "topi keledar", "Seksyen 79(2)", "motosikal lebuh raya", "MS 1", "kapasiti enjin"]
+framework: rules
 ---
 
 You ride onto the Federal Highway on a motorcycle, see a "Motorcycle Lane" sign branching off to the left — and wonder whether you are required to follow it or may stay on the main carriageway. The answer hinges on one word: *gazetted*.

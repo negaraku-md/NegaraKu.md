@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "economy" }
 related: []
 keywords: ["aérospatial", "MRO", "maintenance réparation révision générale", "aérofabrication", "Blueprint 2030", "NIMP2030", "MIDA"]
+framework: profile
 ---
 
 Un avion peut être construit à Toulouse ou à Seattle, mais à un moment de sa vie de trente ans, il faudra lui ouvrir les moteurs, inspecter sa structure et renouveler son avionique — et, de plus en plus, la Malaisie veut que ce travail se fasse à Subang ou à Senai. Cet instinct, plus que toute chaîne de montage, explique la forme du secteur aérospatial du pays.

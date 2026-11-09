@@ -67,6 +67,7 @@ relations:
   - { rel: "governs", to: "unclaimed-moneys-act-1965" }
 related: []
 keywords: ["wang tak dituntut", "eGUMIS", "unclaimed moneys", "Akta Wang Tak Dituntut 1965", "Jabatan Akauntan Negara", "JANM", "wang dorman", "bayaran balik"]
+framework: how-to
 ---
 
 您的钱也许正静静躺在某个政府数据库里，而您却毫不知情——来不及认领的股息、旧银行账户的余额，或是未能成功寄达您手中的保险赔偿。这一切都归入同一个官方名称之下：无人认领款项（Wang Tak Dituntut, WTD）。

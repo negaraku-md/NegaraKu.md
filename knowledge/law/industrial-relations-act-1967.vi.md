@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "mahkamah-perusahaan-malaysia" }
 related: ["employment-act-1955"]
 keywords: ["akta perhubungan perusahaan 1967", "pembuangan kerja tidak adil", "seksyen 20", "mahkamah perusahaan", "kesatuan sekerja", "rundingan kolektif", "reinstatement", "unfair dismissal malaysia"]
+framework: rules
 ---
 
 Sáng nay bạn bị sa thải và được cho biết "hiệu suất không đạt yêu cầu" — nhưng không có thư cảnh cáo, không có điều tra nội bộ, và không có cơ hội tự bào chữa. Tại Malaysia, tình huống này có một tên gọi pháp lý và một diễn đàn riêng: kiến nghị theo điều 20 Luật Quan hệ Lao động Công nghiệp 1967, được xét xử tại Tòa án Lao động Công nghiệp. Đây là lớp quan hệ lao động không do Luật Lao động 1955 quản lý.

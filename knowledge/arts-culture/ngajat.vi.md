@@ -76,6 +76,7 @@ relations:
   - { rel: "located-in", to: "sarawak" }
 related: ["gawai-dayak", "sarawak"]
 keywords: ["Ngajat", "tarian Ngajat", "Iban", "Sarawak", "Burung Kenyalang", "enggang", "Hari Gawai", "rumah panjang", "Ngajat Lesong", "Ngajat Indu", "pua kumbu"]
+framework: history-culture
 ---
 
 Trong hành lang của một nhà dài ở Sarawak, một người đàn ông cắm lông chim mỏ sừng trên đầu nhảy lên, xoay người và giậm sàn — một tay cầm kiếm, tay kia cầm khiên. Đó là **Ngajat**, điệu múa xưa kia đón chiến binh trở về từ chiến trường.

@@ -91,6 +91,7 @@ faq:
     a: C'est la première source de recettes à elle seule, mais sa part est bien plus faible que ne le laissent penser ses arrivées. Singapour représentait 49.7% des arrivées de visiteurs étrangers en 2024, mais seulement 26.2% des recettes ; la Chine représentait 9.8% des arrivées, mais 19.5% des recettes. La dépense moyenne par arrivée va d'environ RM1,500 pour Singapour à environ RM5,600 pour la Chine, contre une moyenne nationale d'environ RM2,800 — un large écart dû à la proportion d'excursions à la journée.
   - q: Le tourisme représente-t-il 15.1% du PIB de la Malaisie ou 6.2% ?
     a: Les deux chiffres proviennent du Compte satellite du tourisme du DOSM, mais ils mesurent des choses différentes et ne doivent pas être utilisés indifféremment. La valeur ajoutée brute des industries touristiques (GVATI) représentait 15.1% du PIB en 2024 — soit l'ensemble de la production des industries au service des touristes, y compris la part consommée par les résidents locaux. Le PIB direct du tourisme (TDGDP) s'élevait à 6.2% — soit la seule demande touristique. Les industries touristiques représentent environ un septième de l'économie ; la demande touristique, directement, environ un seizième.
+framework: explainer
 ---
 
 En 2024, la Malaisie a comptabilisé 37,961,485 arrivées de visiteurs étrangers :

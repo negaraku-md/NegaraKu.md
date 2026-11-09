@@ -90,6 +90,7 @@ keywords:
   - "kadar LKM kW"
   - "cukai jalan kenderaan elektrik JPJ"
   - "road tax EV Malaysia"
+framework: explainer
 ---
 
 L'ère de la taxe de circulation gratuite pour les voitures électriques en Malaisie est terminée — mais la première facture qui arrivera dans votre MyJPJ pourrait être moins chère que vous ne le pensez, et elle est calculée d'une manière entièrement nouvelle.

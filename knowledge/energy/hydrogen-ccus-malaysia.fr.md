@@ -86,6 +86,7 @@ relations:
   - { rel: "part-of", to: "malaysia-energy-transition" }
 related: ["petronas", "sarawak-energy-berhad"]
 keywords: ["hydrogen Malaysia", "CCUS Malaysia", "Kasawari CCS", "H2biscus", "H2ornbill", "SEDC Energy", "green ammonia Sarawak", "carbon capture Malaysia"]
+framework: profile
 ---
 
 Au large de la côte de Bintulu, une plateforme de la taille d'une petite ville extrait désormais le dioxyde de carbone du gaz naturel et le repompe sous le fond marin. À quelques centaines de kilomètres à l'intérieur des terres, des ingénieurs conçoivent des usines destinées à expédier l'énergie hydroélectrique du Sarawak vers le Japon et la Corée sous forme d'ammoniac et de vecteurs d'hydrogène. Ensemble, c'est le pari de la Malaisie que les molécules de la transition énergétique — l'hydrogène propre et le carbone enfoui — puissent devenir la prochaine industrie d'exportation après le GNL et l'huile de palme.

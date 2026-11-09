@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "public-vs-private-healthcare" }
 related: []
 keywords: ["الطب عن بُعد", "telemedicine Malaysia", "طبيب عبر الإنترنت", "online doctor", "الاستشارة عن بُعد", "teleconsultation", "DoctorOnCall", "إرشادات MMC", "الوصفة الإلكترونية", "Telemedicine Act 1997"]
+framework: explainer
 ---
 
 تفتح تطبيقًا، وتجري مكالمة فيديو مع طبيب من أريكتك، وتصل وصفة طبية إلى بريدك الوارد بعد ساعة. في ماليزيا هذا قانوني تمامًا — لكن دفتر القواعد الذي يقف خلفه ليس القانون الذي قد تتوقعه.

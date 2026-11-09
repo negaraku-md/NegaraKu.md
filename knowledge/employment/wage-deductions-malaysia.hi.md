@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "minimum-wage-malaysia" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["वेतन कटौती", "धारा 24", "रोज़गार अधिनियम 1955", "salary deduction", "Section 24", "Employment Act 1955", "अधिक-भुगतान वेतन", "श्रम महानिदेशक"]
+framework: rules
 ---
 
 आपकी वेतन पर्ची आपकी अपेक्षित राशि से कम है, और दिया गया कारण है "कंपनी की नीति"। पर नियोक्ता मनमाने ढंग से वेतन नहीं काट सकता: रोज़गार अधिनियम 1955 (Employment Act 1955) वैध कटौतियों की एक बंद सूची निर्धारित करता है — उस सूची से बाहर की कोई भी चीज़ अनुमत नहीं है।

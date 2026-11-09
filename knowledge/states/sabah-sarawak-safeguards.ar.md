@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "article-153-special-position" }
 related: ["federal-constitution", "ma63", "sabah", "sarawak", "federal-state-division", "article-153-special-position"]
 keywords: ["ضمانات صباح وساراواك", "Sabah Sarawak safeguards", "استقلالية الهجرة في صباح وساراواك", "immigration autonomy Sabah Sarawak", "Article 161B", "Article 161E", "Article 95B List IIA", "محاكم أبناء الولاية", "native courts Sabah Sarawak", "Article 112C special grants", "Immigration Act 1959/63 Part VII", "المكانة الخاصة لأبناء الولاية", "Federal Constitution Part XIIA"]
+framework: explainer
 ---
 
 سافر جوًا من كوالالمبور إلى كوتا كينابالو أو كوتشينغ فتهبط في ماليزيا — البلد نفسه،

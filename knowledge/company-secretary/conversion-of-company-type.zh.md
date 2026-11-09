@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "special-resolution" }
 related: ["companies-act-2016"]
 keywords: ["penukaran status syarikat", "sdn bhd kepada berhad", "syarikat awam", "syarikat sendirian", "seksyen 41 akta syarikat 2016", "resolusi khas", "SSM"]
+framework: how-to
 ---
 
 一家以*私人有限公司（Sendirian Berhad）*起步的公司，并不会永远被这一身份所束缚。当企业有意向公众筹集资金或将股票上市时，它可以转变为公众公司（*Berhad*）——而反向的路径同样是开放的。关键在于一项特别决议以及向SSM提交的一次备案。

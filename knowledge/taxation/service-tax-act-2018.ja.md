@@ -100,6 +100,7 @@ entity: "Service Tax Act 2018 (Act 807)"
 relations: []
 related: []
 keywords: ["Service Tax Act 2018", "Act 807", "service tax Malaysia", "SST", "service tax rate", "8% service tax", "6% service tax", "SST registration threshold", "SST-02", "taxable services", "service tax scope expansion 2025", "Royal Malaysian Customs Department", "MySST", "imported taxable services", "digital service tax Malaysia"]
+framework: rules
 ---
 
 マレーシアのレストランの請求書、携帯電話プラン、駐車場の領収書にはそれぞれ、大半の人がじっくり読まない一行がある——サービス税である。その背後にある法律が**2018年サービス税法（Service Tax Act 2018、Act 807）**であり、指定の課税対象サービスについてサービス税を賦課、課税及び徴収することを定める法律である。**2018年9月1日**に施行され、**マレーシア王立関税局（RMCD）**が所管する。各社の「SST更新」ページの多くは、その年たまたま適用されている税率をそのまま切り取って掲載し、すぐに古くなる。本稿はAct 807を生きた法律として扱う——その仕組みと、すべての税率及び範囲変更を記録した単一の日付付き時間線である。

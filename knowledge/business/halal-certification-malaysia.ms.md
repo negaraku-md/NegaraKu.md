@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: ["sst"]
 keywords: ["halal certification Malaysia", "JAKIM halal", "MYeHALAL", "halal logo Malaysia", "halal certification fee", "Trade Descriptions Order 2011"]
+framework: how-to
 ---
 
 Letakkan logo halal pada pembungkusan anda tanpa sijil JAKIM dan anda bukan sekadar mengambil jalan singkat — anda melakukan satu kesalahan. Di Malaysia, dakwaan halal dikawal oleh undang-undang, dan urusan dokumennya kini sepenuhnya dalam talian.

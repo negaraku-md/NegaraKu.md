@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "mak-yong" }
 related: ["pahang", "terengganu", "joget-and-zapin", "mak-yong"]
 keywords: ["gamelan Melayu", "gamelan Terengganu", "gamelan Pahang", "joget gamelan", "Tengku Ampuan Mariam", "muzik istana", "warisan kebangsaan"]
+framework: history-culture
 ---
 
 கமெலான் தொகுப்பு ஓர் அரண்மனையிலிருந்து மற்றோர் அரண்மனைக்கு நகர்ந்தது விற்பனையாலோ கைப்பற்றுதலாலோ அல்ல — மாறாக திருமணத்தால். ஒரு இளவரசி தன் கணவனின் மாளிகைக்கு நகர்ந்தபோது, இசைக்கருவிகள், நடனக் கலைஞர்கள் மற்றும் பாடல்களும் அவளுடன் நகர்ந்தன. அப்படித்தான் கமெலான் மலாய் அரண்மனைகளின் சொத்தாக மாறியது.

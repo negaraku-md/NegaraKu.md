@@ -92,6 +92,7 @@ relations:
   - { rel: "governs", to: "financial-services-act-2013" }
 related: ["bank-negara-malaysia", "islamic-finance", "digital-banks-malaysia"]
 keywords: ["secteur bancaire Malaisie", "banking sector Malaysia", "banques commerciales", "commercial banks Malaysia", "banques islamiques", "Islamic banks Malaysia", "banques d'investissement", "Financial Services Act 2013", "Islamic Financial Services Act 2013", "banques numériques", "Bank Negara Malaysia"]
+framework: profile
 ---
 
 Ouvrez un compte bancaire à Kuala Lumpur et vous serez discrètement entré dans l'un des rares pays à exploiter deux systèmes bancaires complets côte à côte — conventionnel et islamique — sous une seule banque centrale et deux lois équivalentes rédigées la même année.

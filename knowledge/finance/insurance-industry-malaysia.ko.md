@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["insurance Malaysia", "life insurance", "general insurance", "motor insurance", "PIAM", "LIAM", "Financial Services Act 2013", "Bank Negara Malaysia", "third party cover"]
+framework: profile
 ---
 
 말레이시아에서 갱신되는 모든 도로세는 조용히 하나의 사실을 증명합니다: 먼저 보험을 사거나, 아니면 차량이 도로에 나가지 못한다는 것입니다. 그 하나의 법적 고리 — 의무 자동차 제3자 보장 — 은 그 외에는 일상의 배경에서 보험료를 걷고, 위험을 모으며, 일이 잘못될 때 지급하며 움직이는 산업의 가장 눈에 띄는 가장자리입니다.

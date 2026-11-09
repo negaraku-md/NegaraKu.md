@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry" }
 related: ["palm-oil-industry"]
 keywords: ["industri ternakan", "ayam pedaging", "telur ayam", "demam babi Afrika", "influenza burung", "JPV", "nisbah sara diri", "biosekuriti", "kekurangan ayam 2022"]
+framework: profile
 ---
 
 The Malaysian plate depends on chicken. It is the cheapest protein in the country — and that is why when the sheds wobble, it becomes a national matter, not merely a farm matter.

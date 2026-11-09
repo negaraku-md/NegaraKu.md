@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "e-commerce-malaysia" }
 related: ["mydigital-blueprint"]
 keywords: ["digital economy", "MyDIGITAL", "Malaysia Digital", "MD Status", "MDEC", "e-commerce", "ICT GDP", "DE Rantau"]
+framework: explainer
 ---
 
 Casi uno de cada cuatro ringgit que produce la economía de Malasia pasa ya por pantallas, servidores y carritos de compra. En 2024, la industria de las TIC y el comercio electrónico sumaron juntos el 23,4% del PIB del país — por valor de RM451.3 mil millones — según el Departamento de Estadística de Malasia (DOSM). Esa única cifra es lo más parecido que tiene Malasia a un marcador nacional de la economía digital, y entender cómo se construye, qué la impulsa y cómo intenta el gobierno hacerla crecer es la forma más rápida de leer hacia dónde se dirige el país.

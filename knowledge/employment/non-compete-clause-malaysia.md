@@ -59,6 +59,7 @@ relations:
   - { rel: "part-of", to: "employment" }
 related: ["employment-contract-malaysia", "termination-of-employment-malaysia"]
 keywords: ["non compete clause malaysia", "restraint of trade malaysia", "section 28 contracts act 1950", "non solicitation malaysia", "restrictive covenant malaysia"]
+framework: explainer
 ---
 
 Almost every Malaysian employment contract carries a non-compete clause, and almost

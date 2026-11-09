@@ -72,6 +72,7 @@ relations:
   - { rel: "compares-with", to: "unesco-world-heritage-malaysia" }
 related: ["unesco-world-heritage"]
 keywords: ["warisan kebangsaan", "Akta Warisan Kebangsaan 2005", "Akta 645", "Jabatan Warisan Negara", "Daftar Warisan Kebangsaan", "WAKOH", "tapak warisan"]
+framework: explainer
 ---
 
 Une maison-boutique centenaire à George Town, la lame d'un keris, une danse de cour et un tisserand de [songket](/arts-culture/songket) vivant : tous les quatre peuvent porter le même titre juridique en Malaisie : *Patrimoine national*. Ce qui les relie n'est pas une liste de l'UNESCO, mais un registre national dont le nom est rarement mentionné : le **Registre national du patrimoine**.

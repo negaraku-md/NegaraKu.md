@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "harta-sepencarian-malaysia" }
 related: []
 keywords: ["undang-undang keluarga islam", "akta 303", "mahkamah syariah", "talaq", "fasakh", "khuluk", "hadhanah", "nafkah", "poligami", "islamic family law malaysia"]
+framework: rules
 ---
 
 A wife who wishes to seek a divorce because her husband fails to provide maintenance, a father who wants to retain custody of a son who has just turned seven, a man who applies to take another wife — none of these three situations begins in an ordinary law office, but in the Syariah Court, under the Islamic family law of the respective state. This document explains the framework of that law descriptively, without taking sides.

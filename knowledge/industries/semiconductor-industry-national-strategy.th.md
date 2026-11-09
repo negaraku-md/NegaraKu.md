@@ -90,6 +90,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-investment-trade-and-industry" }
 related: ["electrical-electronics-industry"]
 keywords: ["semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "advanced packaging", "chip industry Malaysia", "Penang Silicon Valley", "MIDA", "IC design"]
+framework: profile
 ---
 
 โทรศัพท์ แล็ปท็อป และรถยนต์เกือบทุกเครื่องบนโลกมีชิปที่ใช้ชีวิตส่วนหนึ่งในมาเลเซีย — บรรจุ ทดสอบ และส่งจากโรงงานในปีนัง (Penang) หรือหุบเขากลัง (Klang Valley) แต่เป็นเวลาห้าสิบปีที่ประเทศทำส่วนที่หวือหวาน้อยที่สุดและอัตรากำไรต่ำที่สุดของงานนั้น: ปลายทาง (back end) ยุทธศาสตร์เซมิคอนดักเตอร์แห่งชาติคือความพยายามของมาเลเซียในการเปลี่ยนว่าประเทศเป็นเจ้าของส่วนใดของชิป

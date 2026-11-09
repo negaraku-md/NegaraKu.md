@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "medical-act-1971" }
 related: []
 keywords: ["pengguguran", "undang-undang pengguguran Malaysia", "Seksyen 312 Kanun Keseksaan", "penamatan kehamilan", "Akta Perubatan 1971", "garis panduan KKM"]
+framework: explainer
 ---
 
 Many assume that abortion is entirely prohibited in Malaysia — in reality, the law places it in a more complicated space: a criminal offence with one important medical exception. Understanding where that line is drawn requires us to read the actual text of the Penal Code, not general impressions.

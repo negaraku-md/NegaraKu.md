@@ -109,6 +109,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Hồ tiêu là một trong những loại hàng hóa nông nghiệp lâu đời nhất và đặc trưng về mặt địa lý nhất của Malaysia: một dây leo được nhập từ tiểu lục địa Ấn Độ và Sumatra, đã tìm thấy nơi lý tưởng của mình trên những ngọn đồi ẩm ướt, thoát nước tốt của Sarawak, nơi nó trở thành xương sống của hàng nghìn nông hộ nhỏ ở nông thôn. Dù Malaysia là một nước có quy mô khiêm tốn về sản lượng toàn cầu, nước này vượt tầm vóc về danh tiếng, bán "Hồ tiêu Sarawak" cao cấp, được chứng nhận nguồn gốc, vào các thị trường sành sỏi. Bài viết này phác họa cấu trúc, địa lý, thương mại và triển vọng của ngành với tư cách là một ngành công nghiệp độc lập.

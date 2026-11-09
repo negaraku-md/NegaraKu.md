@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry" }
 related: ["palm-oil-industry"]
 keywords: ["industri ternakan", "ayam pedaging", "telur ayam", "demam babi Afrika", "influenza burung", "JPV", "nisbah sara diri", "biosekuriti", "kekurangan ayam 2022"]
+framework: profile
 ---
 
 말레이시아 사람들의 밥상은 닭에 의존합니다. 그것은 이 나라에서 가장 값싼 단백질입니다 — 그래서 사육장이 흔들리면 그것은 단순한 농장의 일이 아니라 국가의 일이 됩니다.

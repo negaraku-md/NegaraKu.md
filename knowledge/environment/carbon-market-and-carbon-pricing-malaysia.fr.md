@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "malaysia-net-zero-2050" }
 related: ["bursa-malaysia"]
 keywords: ["carbon market Malaysia", "carbon pricing", "carbon tax Malaysia", "Bursa Carbon Exchange", "National Carbon Market Policy", "carbon credits", "emissions trading scheme", "CCUS Act 2025"]
+framework: explainer
 ---
 
 La Malaisie construit la tuyauterie d'un marché du carbone avant de décider de faire payer qui que ce soit pour la pollution. Aujourd'hui, vous pouvez déjà acheter et vendre des crédits carbone sur un marché national — mais les taxes et les règles d'échange qui contraindraient les grands émetteurs à payer sont encore en cours de rédaction.

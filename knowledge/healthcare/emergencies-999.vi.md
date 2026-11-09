@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "traffic-summons-saman" }
 related: ["pdrm", "traffic-summons-saman"]
 keywords: ["999 Malaysia", "MERS 999", "NG999", "ambulans kecemasan Malaysia", "Jabatan Kecemasan", "triage zon merah kuning hijau", "ambulans percuma", "caj kecemasan hospital kerajaan"]
+framework: explainer
 ---
 
 Bạn bấm 999. Giọng nói ở đầu dây bên kia hỏi tên, vị trí và điều gì đang xảy ra — và trong khoảng thời gian mục tiêu, một đội xe cứu thương lẽ ra đã trên đường đến. Nhưng nhiều người không biết điều gì diễn ra phía sau cuộc gọi đó: ai thực sự trả lời, nó có miễn phí không, và tại sao bệnh nhân khác đến bệnh viện muộn hơn đôi khi lại được điều trị trước bạn.

@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["business-structures-malaysia", "sdn-bhd-vs-berhad", "register-sdn-bhd", "what-is-sdn-bhd", "company-secretary-malaysia"]
 keywords: ["الشركة المحدودة بالضمان", "company limited by guarantee", "CLBG", "berhad menurut jaminan", "section 45 Companies Act 2016", "شركة غير ربحية في ماليزيا", "SSM CLBG", "ترخيص حذف Berhad"]
+framework: explainer
 ---
 
 يمكن لمؤسسة وقفية، ومعهد مهني، وغرفة تجارة، ومشروع اجتماعي أن ترتدي كلها الكساء القانوني

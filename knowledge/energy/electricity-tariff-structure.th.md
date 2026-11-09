@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
 related: ["tenaga-nasional"]
 keywords: ["tarif elektrik", "TNB", "RP4", "AFA", "ICPT", "Time-of-Use", "Caj Tenaga", "bil elektrik", "Suruhanjaya Tenaga"]
+framework: explainer
 ---
 
 หากท่านเปิดดูบิล TNB ล่าสุดและตกใจที่เห็นค่าธรรมเนียมห้าบรรทัดแยกต่างหากแทนที่ยอดรวมเรียบร้อยหนึ่งยอด ท่านไม่ได้สับสน โครงสร้างอัตราค่าไฟฟ้าของคาบสมุทรมาเลเซียถูกปรับใหม่ทั้งหมดเมื่อ 1 กรกฎาคม 2025

@@ -85,6 +85,7 @@ relations:
   - { rel: "affects", to: "oil-palm-plantations" }
 related: []
 keywords: ["windfall profit levy", "cukai durian runtuh", "palm oil tax Malaysia", "CPO levy", "Windfall Profit Levy Act 1998", "oil palm fruit order"]
+framework: rules
 ---
 
 Cuando los precios del aceite de palma crudo se disparan, el Gobierno malasio recauda una parte de la ganancia, pero solo después de que el precio supere una línea fijada. Esa línea es el gravamen sobre beneficios extraordinarios, un impuesto que se activa en los meses de precios altos y permanece desactivado en los ordinarios.

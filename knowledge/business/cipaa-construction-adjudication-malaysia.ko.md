@@ -82,6 +82,7 @@ relations:
   - { rel: "compares-with", to: "arbitration-vs-litigation-malaysia" }
 related: ["arbitration-vs-litigation-malaysia", "contracts-act-malaysia"]
 keywords: ["CIPAA", "construction adjudication", "AIAC", "payment claim", "Act A1738", "construction disputes Malaysia"]
+framework: explainer
 ---
 
 6개월 동안 대금을 받지 못한 하도급업자는 법원 기일을 몇 년씩 기다릴 필요가 없습니다. CIPAA에 따라 그들은 몇 주 만에 분쟁을 구속력 있는 결정으로 이끌 수 있으며 — 그 시계는 양측 모두에게 가차 없습니다.

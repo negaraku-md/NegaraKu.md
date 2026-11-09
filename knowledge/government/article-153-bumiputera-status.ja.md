@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["federal-constitution", "majlis-raja-raja", "constitutional-amendment", "new-economic-policy", "ma63"]
 keywords: ["Perkara 153", "Article 153", "kedudukan istimewa orang Melayu", "special position of the Malays", "Bumiputera", "anak negeri Sabah Sarawak", "kepentingan sah kaum lain", "perkadaran yang munasabah", "kuota Perlembagaan Malaysia", "Perkara 153 Perlembagaan Persekutuan", "takrif orang Melayu Perkara 160"]
+framework: explainer
 ---
 
 第153条を引用する者は多いが、その条項を実際に読んだことのある者はずっと少ない。ある者はそれを「マレー人の特権」と呼び、ある者は「クオータ」と呼び、また「差別」と呼ぶ者もいる——しかし、同条の実際の条文は、これらの言葉のいずれも使用していない。同条は一つの責任を定め、いくつかの限界を設け、そして——めったに言及されないことだが——同時に保護されなければならない二つの集団を名指ししている。

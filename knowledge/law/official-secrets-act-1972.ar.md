@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "freedom-of-information-malaysia" }
 related: []
 keywords: ["قانون الأسرار الرسمية", "تصنيف الوثائق", "الأمن القومي", "حرية الصحافة", "المادة 16A", "Akta Rahsia Rasmi 1972", "Official Secrets Act", "Akta 88", "rahsia rasmi", "pengelasan dokumen", "seksyen 16A", "keselamatan negara", "kebebasan media", "OSA Malaysia"]
+framework: rules
 ---
 
 صحفيٌّ يتلقّى نسخةً من محاضر مجلس الوزراء، وباحثٌ يأخذ قياسات قرب معسكر عسكري، وموظفٌ يحتفظ بملف موسوم بـ«محظور» — ثلاثتهم يمكن أن يطالهم القانون نفسه. فـ Official Secrets Act 1972، أو Act 88، هو العمود الفقري لنظام السرّية الرسمية في ماليزيا، ويمتدّ نطاقه إلى ما هو أبعد بكثير من مسائل التجسّس.

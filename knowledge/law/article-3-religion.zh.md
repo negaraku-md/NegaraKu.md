@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "rukun-negara" }
 related: ["federal-constitution", "yang-di-pertuan-agong", "majlis-raja-raja", "court-hierarchy", "rukun-negara"]
 keywords: ["Article 3 Federal Constitution Malaysia", "Islam religion of the Federation", "Article 11 freedom of religion Malaysia", "Perkara 3 Perlembagaan Persekutuan", "Article 121(1A)", "Syariah courts jurisdiction Malaysia", "freedom of religion Malaysia constitution"]
+framework: explainer
 ---
 
 联邦宪法有两项条文彼此紧邻，经常被引用，却鲜少被完整引述。以下是其原文。

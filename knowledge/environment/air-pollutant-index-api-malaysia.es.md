@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "jerebu-di-malaysia" }
 related: []
 keywords: ["IPU", "API", "indeks pencemar udara", "kualiti udara", "jerebu", "PM2.5", "PM10", "Jabatan Alam Sekitar"]
+framework: explainer
 ---
 
 Cuando la neblina se espesa y las escuelas empiezan a preguntarse si debería cancelarse la asamblea matutina, un único número suele zanjar la cuestión — la lectura del API. Esa cifra parece sencilla, pero detrás de ella hay seis contaminantes medidos de forma continua y una fórmula que los filtra a todos en un solo valor.

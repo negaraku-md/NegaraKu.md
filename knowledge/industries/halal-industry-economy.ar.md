@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-economic-policy" }
 related: ["islamic-finance", "external-trade", "bumiputera-economic-policy"]
 keywords: ["صناعة الحلال", "halal industry", "اقتصاد الحلال", "HALMAS halal park", "Halal Development Corporation", "HDC", "Halal Industry Master Plan 2030", "صادرات الحلال", "المركز العالمي للحلال"]
+framework: profile
 ---
 
 شعار الحلال على كيس من المعكرونة سريعة التحضير هو الموضع الذي يظن معظم الناس أن القصة تنتهي عنده. أما في ماليزيا، فهو أقرب إلى حيث تبدأ القصة. فخلف تلك العلامة محاولة متعمَّدة امتدت عقوداً لتحويل «الحلال» من ضمانة دينية إلى صناعة تصديرية — مقترنةً بمجمعات صناعية، وإعفاءات ضريبية، وتمويل، وخطة رئيسية وطنية.

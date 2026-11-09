@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "expatriate-services-division" }
 related: ["employment-pass-malaysia"]
 keywords: ["Immigration Act 1959/63", "Act 155", "Malaysia visa", "employment pass", "overstay penalty Malaysia", "Section 15(4)", "Section 6(3)", "deportation", "dependant pass", "work permit Malaysia"]
+framework: rules
 ---
 
 Un visa valable dans votre passeport ne vous permet pas, à lui seul, de poser le pied en Malaisie — et ce n'est pas le document qui vous attire des ennuis si vous restez trop longtemps. Les deux rôles relèvent d'une seule loi : l'**Immigration Act 1959/63 (Act 155)**, la loi qui décide qui peut franchir la frontière, ce qu'il peut faire une fois à l'intérieur, et ce qui se passe lorsque les conditions de son séjour sont enfreintes.

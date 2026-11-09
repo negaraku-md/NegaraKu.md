@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "putrajaya" }
 related: ["federal-state-division", "federal-constitution", "kuala-lumpur", "putrajaya", "parliament"]
 keywords: ["local government Malaysia", "local council", "city council", "municipal council", "district council", "Local Government Act 1976", "Act 171", "councillors appointed", "local elections suspended 1965", "third vote", "National Council for Local Government"]
+framework: explainer
 ---
 
 那个替你维修街灯、收垃圾、批准邻居加建、也发牌给楼下咖啡店的议会，是最贴近日常生活的

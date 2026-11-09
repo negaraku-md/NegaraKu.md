@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "striking-off-a-company" }
 related: ["companies-act-2016"]
 keywords: ["pemulihan syarikat", "syarikat dipotong", "seksyen 555", "reinstate company", "struck off", "Akta Syarikat 2016", "SSM"]
+framework: how-to
 ---
 
 आपकी कंपनी का नाम SSM रजिस्टर से गायब हो गया है — पर हटाया जाना आवश्यक रूप से अंतिम नहीं है। कानून इसे बहाल करने के लिए आवेदन करने की एक सात-वर्षीय खिड़की देता है, न्यायालयों के माध्यम से।

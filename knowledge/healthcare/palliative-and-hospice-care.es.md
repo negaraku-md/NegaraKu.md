@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "healthcare-for-seniors" }
 related: ["healthcare-for-seniors"]
 keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap hujung hayat", "penjagaan di rumah", "KKM"]
+framework: explainer
 ---
 
 Cuando el tratamiento ya no busca curar, la atención se desplaza hacia una sola cosa: mantener al paciente cómodo y con dignidad. Esa es la esencia de los cuidados paliativos — y en Malasia se puede acceder a ellos por tres canales distintos.

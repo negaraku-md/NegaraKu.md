@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "islamic-finance-malaysia" }
 related: ["jakim", "islamic-finance", "matrade"]
 keywords: ["industri halal", "persijilan halal", "JAKIM", "MS 1500", "HDC", "eksport halal", "hab halal", "Akta Perihal Dagangan 2011"]
+framework: profile
 ---
 
 马来西亚产品上的清真标志由一系列政府机构、技术标准与贸易法律所支撑，使其不仅仅是一个宗教标记，更是贸易中受监管的要素。清真是伊斯兰法中的一个概念，指获准许的事物；在马来西亚，它同时也成为一个受官方衡量、规划与营销的经济领域。

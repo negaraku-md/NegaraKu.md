@@ -76,6 +76,7 @@ relations:
   - { rel: "located-in", to: "sarawak" }
 related: ["gawai-dayak", "sarawak"]
 keywords: ["Ngajat", "tarian Ngajat", "Iban", "Sarawak", "Burung Kenyalang", "enggang", "Hari Gawai", "rumah panjang", "Ngajat Lesong", "Ngajat Indu", "pua kumbu"]
+framework: history-culture
 ---
 
 सारावाक के किसी longhouse की दीर्घा में, सिर पर धनेश के पंख धारण किए एक व्यक्ति छलाँग लगाता है, घूमता है और फर्श पर पैर पटकता है — एक हाथ में तलवार, दूसरे में ढाल। यह है **Ngajat**, वह नृत्य जो कभी रणभूमि से लौटते योद्धाओं का स्वागत करता था।

@@ -67,6 +67,7 @@ wikidata: "Q25475395"
 relations: []
 related: []
 keywords: ["Local Government Act 1976", "Act 171", "Akta Kerajaan Tempatan 1976", "local authority Malaysia", "PBT", "Pihak Berkuasa Tempatan", "majlis perbandaran", "majlis daerah", "assessment tax", "cukai pintu", "local council elections Malaysia", "appointed councillors", "National Council for Local Government", "third vote Malaysia"]
+framework: explainer
 ---
 
 Nếu bạn từng thắc mắc vì sao chưa lá phiếu Malaysia nào từng liệt kê một ứng viên chức thị trưởng, câu trả lời là một đạo luật duy nhất. **Luật Chính quyền Địa phương 1976 (Local Government Act 1976, Act 171)** — tên gọi đầy đủ "An Act to revise and consolidate the laws relating to local government" — là đạo luật cấu thành mọi hội đồng thành phố, đô thị và huyện tại Bán đảo Malaysia, bổ nhiệm những người điều hành chúng, và trao cho chúng quyền đánh thuế và phạt bạn. Nó nhận ngự chuẩn vào ngày **18 March 1976** và được đăng công báo ngày 25 March 1976. Dù phần lớn thông tin trên mạng nói khác, **Điều 1(1) quy định nó chỉ áp dụng cho Bán đảo Malaysia**; Sabah và Sarawak giữ các pháp lệnh riêng của họ.

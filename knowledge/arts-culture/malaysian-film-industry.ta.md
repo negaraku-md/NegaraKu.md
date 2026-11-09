@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["bahasa-melayu", "mak-yong"]
 keywords: ["industri filem Malaysia", "sinema Malaysia", "P. Ramlee", "FINAS", "Malay Film Productions", "Jalan Ampas", "Mat Kilau", "Tiger Stripes", "Da Huang Pictures", "Malaysian New Wave"]
+framework: profile
 ---
 
 1955-இல், சிங்கப்பூர் No. 8 Jalan Ampas-இல் அமைந்த ஒரு ஸ்டூடியோவில் முன்னாள் *clapper* பையனாகவும் உதவி ஒளிப்பதிவாளராகவும் இருந்த ஒருவர், 26 வயதில் முதல் முறையாக இயக்குநர் நாற்காலியில் அமர்ந்தார். அந்தப் படம் *Penarek Becha*. அவரது பெயர் P. Ramlee. மலேசியத் திரைப்படத் துறையின் கதை Kuala Lumpur-இல் அல்ல, மாறாக Shanghai-ஐச் சேர்ந்த இரு சகோதரர்களுக்குச் சொந்தமான ஒரு சிங்கப்பூர் ஸ்டூடியோவில் தொடங்குகிறது — அன்றிலிருந்து அது நகர்வதை நிறுத்தவே இல்லை.

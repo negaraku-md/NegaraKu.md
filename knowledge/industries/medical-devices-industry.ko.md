@@ -100,6 +100,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review (export, ranking and market-size figures flagged for verification).
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 수술용 장갑을 껴 보았거나, 카테터로 채혈을 받았거나, 정형외과용 임플란트의 도움으로 회복한 적이 있다면, 그 기기가 말레이시아에서 만들어졌을 가능성이 충분히 있습니다. 유명한 고무장갑을 넘어, 이 나라는 조용히 동남아시아에서 의료기기를 제조하는 가장 중요한 곳이자 — 세계 어디와 비교해도 상당한 메드텍 제조 기반 중 하나가 되었습니다.

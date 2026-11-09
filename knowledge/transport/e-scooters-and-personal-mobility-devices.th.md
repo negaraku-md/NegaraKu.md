@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "food-delivery-riders" }
 related: []
 keywords: ["e-skuter", "PMD", "mikromobiliti", "basikal elektik", "MS2514", "JPJ", "peranti mobiliti peribadi"]
+framework: rules
 ---
 
 คุณซื้ออี-สกู๊ตเตอร์ไว้ใช้ไปทำงาน แต่วินาทีที่ล้อแตะถนนสาธารณะ คุณก็ทำผิดกฎหมายแล้ว นั่นคือความจริงของไมโครโมบิลิตีในมาเลเซียตั้งแต่ปลายปี 2021

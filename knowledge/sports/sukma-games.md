@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "program-podium" }
 related: []
 keywords: ["SUKMA", "Sukan Malaysia", "Majlis Sukan Negara", "Program Podium", "atlet remaja", "pembangunan sukan", "Institut Sukan Negara"]
+framework: explainer
 ---
 
 Setiap dua tahun, ribuan atlet remaja berarak masuk ke sebuah stadium negeri tuan rumah — bukan untuk pingat dunia, tetapi untuk maruah negeri masing-masing dan, bagi yang paling berbakat, satu tiket ke pentas elit negara. Itulah SUKMA.

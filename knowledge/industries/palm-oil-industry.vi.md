@@ -99,6 +99,7 @@ relations:
   - { rel: "compares-with", to: "rubber-industry" }
 related: ["rubber-industry"]
 keywords: ["palm oil", "crude palm oil", "CPO", "MPOB", "FELDA", "smallholders", "oil palm", "refineries", "oleochemicals", "MSPO", "biodiesel", "exports"]
+framework: profile
 ---
 
 Dầu cọ là loại dầu thực vật được giao dịch nhiều nhất thế giới, và Malaysia là nhà sản xuất lớn thứ hai của nó — sau Indonesia — biến một buồng quả đỏ tua tủa được trồng từ Johor đến các đồi núi Sarawak thành dầu ăn tinh chế, nguyên liệu xà phòng và dầu diesel sinh học được vận chuyển tới các thị trường khắp châu Á, châu Phi và châu Âu. Ngành này hỗ trợ hơn 3 triệu người Malaysia một cách trực tiếp và gián tiếp, bao gồm gần 500,000 tiểu điền chủ, theo Hội đồng Dầu cọ Malaysia (MPOC). Đây là cách bộ máy đó được xây dựng, từ cây đến tàu chở dầu.

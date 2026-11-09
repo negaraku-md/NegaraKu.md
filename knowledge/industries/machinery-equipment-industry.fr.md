@@ -92,6 +92,7 @@ keywords:
   - équipements pour semi-conducteurs
   - Industry4WRD
   - MIDA
+framework: profile
 ---
 
 Chaque usine fonctionne grâce à des machines — et ces machines doivent être construites par quelqu'un. L'industrie des machines et équipements (M&E) est la partie de la fabrication qui réalise les lignes de production, les machines de procédé, les outils d'usinage des métaux, les systèmes d'énergie et l'automatisation dont dépend chaque *autre* industrie. C'est la grande industrie la moins visible de l'économie et, pour cette raison même, l'une des plus stratégiquement importantes.

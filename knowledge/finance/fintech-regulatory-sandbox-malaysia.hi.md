@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "securities-commission-malaysia" }
 related: ["bank-negara-malaysia", "securities-commission-malaysia"]
 keywords: ["विनियामक सैंडबॉक्स", "regulatory sandbox", "फिनटेक मलेशिया", "fintech Malaysia", "BNM sandbox", "Innovation Green Lane", "SC sandbox", "FTEG", "पूँजी बाज़ार फिनटेक"]
+framework: explainer
 ---
 
 मलेशिया में कोई नया भुगतान ऐप या टोकनीकृत-प्रतिभूति प्लेटफ़ॉर्म बनाइए और आप उसी दीवार से टकराते हैं: नियम आपके विचार के अस्तित्व में आने से पहले ही लिखे गए थे। विनियामक सैंडबॉक्स उस दीवार के पार का दरवाज़ा है — पूर्ण लाइसेंस धारण करने से पहले किसी सजीव उत्पाद का परीक्षण करने के लिए एक पर्यवेक्षित स्थान। मलेशिया में इनमें से दो हैं, और आप किसका दरवाज़ा खटखटाते हैं यह इस पर निर्भर करता है कि आप क्या बना रहे हैं।

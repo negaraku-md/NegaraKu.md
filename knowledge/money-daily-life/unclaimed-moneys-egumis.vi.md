@@ -67,6 +67,7 @@ relations:
   - { rel: "governs", to: "unclaimed-moneys-act-1965" }
 related: []
 keywords: ["wang tak dituntut", "eGUMIS", "unclaimed moneys", "Akta Wang Tak Dituntut 1965", "Jabatan Akauntan Negara", "JANM", "wang dorman", "bayaran balik"]
+framework: how-to
 ---
 
 Tiền của bạn có thể đang chờ trong một cơ sở dữ liệu của chính phủ mà bạn không hề hay biết — cổ tức không kịp yêu cầu, số dư tài khoản ngân hàng cũ, hoặc bồi thường bảo hiểm không được gửi thành công đến bạn. Tất cả được gom lại dưới một tên chính thức: Tiền chưa được yêu cầu (Wang Tak Dituntut, WTD).

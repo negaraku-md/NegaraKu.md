@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "constitutional-amendment" }
 related: ["court-hierarchy", "constitutional-amendment"]
 keywords: ["pelantikan hakim", "Suruhanjaya Pelantikan Kehakiman", "Perkara 122B", "Perkara 125", "kebebasan kehakiman", "tribunal hakim", "Ketua Hakim Negara"]
+framework: explainer
 ---
 
 新しい連邦裁判所長官（Chief Justice）が宣誓するたびに、一つの古くからの疑問が再び浮かび上がる——一体誰がその人物を選んだのか、そして誰がその人物を罷免しうるのか。マレーシアでは、その答えは二つの独立した段階、二つの異なる法令文書、そしてその権限がどこに帰属すべきかをめぐる、いまだ決着のついていない議論に関わっている。

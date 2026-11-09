@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "healthcare-system-overview" }
 related: []
 keywords: ["pendaftaran doktor", "MMC", "MeRITS", "APC", "Lembaga Jururawat Malaysia", "Lembaga Farmasi Malaysia", "MAHPC", "Akta Profesion Kesihatan Bersekutu 2016", "fisioterapi"]
+framework: how-to
 ---
 
 Someone can put on a white coat, hang a certificate on the clinic wall, and call themselves a "doctor" — but only one thing truly confirms their credentials: their name appearing in the official register. In Malaysia, every doctor, nurse, pharmacist and physiotherapist must be registered with the body that regulates their profession. The good news is that you can check this yourself, for free.

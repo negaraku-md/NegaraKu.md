@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "minimum-wage-malaysia" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["potongan gaji", "Seksyen 24", "Akta Kerja 1955", "salary deduction", "Ketua Pengarah Tenaga Kerja", "lebihan gaji"]
+framework: rules
 ---
 
 Slip gaji Anda kurang dari jumlah yang diharapkan, dan alasannya dinyatakan sebagai "kebijakan perusahaan". Tetapi pemberi kerja tidak boleh memotong gaji sesuka hati: Employment Act 1955 menetapkan satu daftar tertutup potongan yang sah — apa pun di luar daftar itu tidak dibolehkan.

@@ -70,6 +70,7 @@ relations:
   - { rel: "compares-with", to: "employment-pass" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "professional-visit-pass"]
 keywords: ["DE Rantau", "digital nomad visa Malaysia", "nomad pass", "MDEC", "Professional Visit Pass", "remote work Malaysia"]
+framework: explainer
 ---
 
 நீங்கள் மலேசியாவுக்கு வெளியே தளமாகக் கொண்ட ஒரு முதலாளி அல்லது வாடிக்கையாளர்களுக்காக தொலைநிலையில் வேலை செய்தால், அதற்காகவே உருவாக்கப்பட்ட ஒரு சீட்டின் கீழ் நீங்கள் நாட்டில் சட்டப்பூர்வமாக வாழவும் வேலை செய்யவும் முடியும்: அதுதான் **DE Rantau நாடோடி சீட்டு**.

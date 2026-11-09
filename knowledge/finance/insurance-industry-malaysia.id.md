@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["insurance Malaysia", "life insurance", "general insurance", "motor insurance", "PIAM", "LIAM", "Financial Services Act 2013", "Bank Negara Malaysia", "third party cover"]
+framework: profile
 ---
 
 Setiap kali pajak jalan diperbarui di Malaysia, satu hal terbukti secara diam-diam: beli asuransi dahulu, atau kendaraan itu tetap tidak dapat dibawa ke jalan raya. Kaitan hukum tunggal itu — perlindungan pihak ketiga motor yang diwajibkan — adalah sisi paling mencolok sebuah industri yang selebihnya berjalan di latar belakang kehidupan sehari-hari, memungut premi, menghimpun risiko, dan membayar ketika sesuatu terjadi.

@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["CCRIS", "CTOS", "informe crediticio", "credit report Malaysia", "puntuación de crédito", "credit score", "Credit Reporting Agencies Act 2010", "RAM Credit Information RAMCI", "calificación crediticia"]
+framework: explainer
 ---
 
 Una sola cuota omitida puede ensombrecerlo discretamente durante años — y la mayoría de los malasios nunca ha leído realmente el expediente que un banco abre antes de decir sí o no a un préstamo.

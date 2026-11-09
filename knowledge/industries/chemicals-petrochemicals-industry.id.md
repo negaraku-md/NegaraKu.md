@@ -97,6 +97,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review (output/export, capacity and ownership figures flagged for verification).
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Plastik, pupuk, deterjen, karet sintetis, kosmetik, cat, dan resin di dalam casing ponsel Anda semuanya bermula sebagai bahan kimia — dan sebagian besar yang mengejutkan dari semuanya, atau blok penyusunnya, dibuat di Malaysia. Di balik kisah minyak-dan-gas serta minyak sawit yang lebih terkenal, berdiri sebuah industri kimia dan petrokimia yang besar dan diam-diam strategis, yang mengubah hidrokarbon mentah dan minyak nabati menjadi material yang menjadi sandaran kehidupan modern.

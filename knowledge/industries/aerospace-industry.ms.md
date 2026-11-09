@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "economy" }
 related: []
 keywords: ["aerospace", "MRO", "maintenance repair overhaul", "aero-manufacturing", "Blueprint 2030", "NIMP2030", "MIDA"]
+framework: profile
 ---
 
 Sebuah pesawat mungkin dibina di Toulouse atau Seattle, tetapi di suatu ketika dalam hayatnya selama tiga puluh tahun, enjinnya perlu dibuka, strukturnya diperiksa dan avioniknya diperbaharui — dan semakin banyak, Malaysia mahu kerja itu dilakukan di Subang atau Senai. Naluri itu, lebih daripada mana-mana barisan pemasangan, menjelaskan bentuk sektor aeroangkasa negara.

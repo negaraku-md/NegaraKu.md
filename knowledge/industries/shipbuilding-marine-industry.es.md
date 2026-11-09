@@ -98,6 +98,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Malasia se asienta sobre dos de las rutas marítimas más transitadas del mundo y gana buena parte de su sustento del mar; y, sin embargo, su industria de construcción y reparación naval (SBSR) es uno de los rincones más silenciosos de la economía nacional. Es real, está consolidada y es estratégicamente importante, pero también fragmentada, cíclica y dominada por astilleros relativamente pequeños. Esta guía explica qué construye la industria, dónde, qué tamaño tiene y por qué un programa naval ha pasado a eclipsar a todo el sector en el debate público.

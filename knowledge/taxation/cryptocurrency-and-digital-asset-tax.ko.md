@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "capital-gains-tax" }
 related: ["service-tax-on-digital-services-stods", "capital-or-revenue", "capital-gains-tax"]
 keywords: ["cryptocurrency tax Malaysia", "crypto tax LHDN", "digital currency tax", "badges of trade crypto", "bitcoin tax Malaysia"]
+framework: explainer
 ---
 
 두 사람이 같은 날 같은 비트코인을 팔아 같은 이득을 챙깁니다. 한 사람은 아무것도 내지 않고, 다른 한 사람은 소득세를 냅니다. 말레이시아에서 그 둘을 가르는 것은 코인이 아니라 — 세무당국이 매매를 보는지 여부입니다.

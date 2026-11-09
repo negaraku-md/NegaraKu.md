@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "prevention-of-terrorism-act-pota" }
 related: ["sosma"]
 keywords: ["POCA", "Akta Pencegahan Jenayah 1959", "Akta 297", "tahanan pencegahan", "Lembaga Pencegahan Jenayah", "jenayah terancang", "tahanan tanpa perbicaraan"]
+framework: explainer
 ---
 
 Seseorang boleh dinamakan, disiasat, dan akhirnya ditahan selama dua tahun tanpa pernah didakwa di mahkamah — dan keputusan itu dibuat oleh sebuah lembaga, bukan seorang hakim. Itulah mekanisme di teras Akta Pencegahan Jenayah 1959 (POCA).

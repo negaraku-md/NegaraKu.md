@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["contracts-act-1950", "court-hierarchy", "companies-act-2016"]
 keywords: ["Consumer Protection Act 1999", "Act 599", "Tribunal for Consumer Claims", "TTPM", "consumer rights Malaysia", "KPDN", "consumer claim RM50000"]
+framework: data-reference
 ---
 
 둘째 주에 고장 나는 휴대전화. 계약금을 받고 사라져 버리는 리모델링 업자. 실제로는 원래 가격이었던 적이 없는 가격에 붙은 "50% 할인" 스티커. 말레이시아에는 이 세 가지 모두에 답하는 하나의 법령이 있습니다. 바로 1999년 소비자보호법(Consumer Protection Act 1999)입니다.

@@ -87,6 +87,7 @@ relations:
   - { rel: "compares-with", to: "sabah-sarawak-labour-ordinance" }
 related: ["employment-act-1955-guide", "employment-act-coverage", "labour-law-map-malaysia", "sabah-sarawak-labour-ordinance"]
 keywords: ["Employment Act 1955", "Act 265", "Act A1651", "Akta Kerja 1955", "Malaysia employment statute"]
+framework: data-reference
 ---
 
 이 페이지는 Act 265의 법령 기록으로, 이 법의 정체성, 관장 기관 및 개정 사슬을 다룹니다. 이 페이지는 의도적으로 개별 권리 내용을 다시 서술하지 않습니다. 그러한 내용은 조 번호와 현행 수치와 함께

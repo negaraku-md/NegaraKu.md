@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["business-structures-malaysia", "sdn-bhd-vs-berhad", "register-sdn-bhd", "what-is-sdn-bhd", "company-secretary-malaysia"]
 keywords: ["company limited by guarantee", "CLBG", "berhad menurut jaminan", "section 45 Companies Act 2016", "non-profit company Malaysia", "SSM CLBG", "omit Berhad licence"]
+framework: explainer
 ---
 
 A foundation, a professional institute, a chamber of commerce and a social enterprise can all wear the same legal skin in Malaysia — the company limited by guarantee. It is the vehicle the law reserves for organisations that exist to do something useful rather than to pay out profit, and it comes with rules that a normal Sdn Bhd never sees.

@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "capital-gains-tax" }
 related: ["service-tax-on-digital-services-stods", "capital-or-revenue", "capital-gains-tax"]
 keywords: ["cryptocurrency tax Malaysia", "crypto tax LHDN", "digital currency tax", "badges of trade crypto", "bitcoin tax Malaysia"]
+framework: explainer
 ---
 
 สองคนขาย Bitcoin เดียวกันในวันเดียวกันและได้กำไรเท่ากัน คนหนึ่งไม่เป็นหนี้อะไร; อีกคนเป็นหนี้ภาษีเงินได้

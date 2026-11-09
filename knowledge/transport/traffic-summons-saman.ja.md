@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "pdrm" }
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
+framework: how-to
 ---
 
 運転者は、書面上は似て見える四種類の切符を受け取ることがある——だがそれらは四つの異なる機関から来ており、四つの異なる場所で照会しなければならない。多くの人は一つのポータルしか知らず、そのため自分の切符が「消えた」と思い込むが、実際にはそれは別のシステムの中に収まっている。

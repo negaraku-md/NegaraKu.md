@@ -109,6 +109,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Le poivre est l'un des produits agricoles les plus anciens et les plus géographiquement distinctifs de la Malaisie : une liane importée du sous-continent indien et de Sumatra qui a trouvé son habitat idéal dans les collines humides et bien drainées du Sarawak, où elle est devenue l'ossature de milliers de petites exploitations rurales. Bien que la Malaisie soit un acteur modeste en volume mondial, elle pèse plus que son poids par sa réputation, vendant un « poivre de Sarawak » premium et certifié d'origine sur des marchés exigeants. Cet article présente la structure, la géographie, le commerce et les perspectives du secteur en tant qu'industrie à part entière.

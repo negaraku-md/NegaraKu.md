@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "petronas" }
 related: ["new-economic-policy", "petronas"]
 keywords: ["équité bumiputera", "nouvelle politique économique", "développement des fournisseurs", "PuTERA35", "PETRONAS VDP", "industries stratégiques", "SWEC"]
+framework: explainer
 ---
 
 Un entrepreneur souhaitant fournir des services à une installation de pétrole et de gaz en Malaisie découvrira vite que la technologie et le prix ne sont pas les seuls éléments examinés — la structure de propriété de l'entreprise est elle aussi évaluée. Dans plusieurs des secteurs stratégiques du pays, savoir qui possède une entreprise peut déterminer si elle est éligible pour demander une licence ou un contrat. Ce phénomène découle de deux outils de politique interdépendants : les exigences d'équité bumiputera et les programmes de développement des fournisseurs.

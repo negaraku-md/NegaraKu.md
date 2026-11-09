@@ -97,6 +97,7 @@ relations:
   - { rel: "administered-by", to: "mida" }
 related: ["penang", "mida"]
 keywords: ["E&E industry", "electrical and electronics", "Malaysia manufacturing", "Penang electronics", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
+framework: profile
 ---
 
 Buka hampir mana-mana komputer riba, telefon pintar atau kereta yang dibina dalam sedekad kebelakangan ini, dan ada kemungkinan besar sebahagian daripadanya pernah melalui Malaysia. Cip di dalamnya mungkin telah diuji dan dibungkus di Pulau Pinang; penyesuai kuasa, lampu latar LED atau papan litarnya mungkin telah dipasang di Kulim, Melaka atau Lembah Klang. Bagi sebuah negara berpenduduk kira-kira 34.1 juta orang (2024, DOSM), Malaysia berada pada titik yang mengejutkan pentingnya dalam rantaian bekalan elektronik dunia — dan itu hampir keseluruhannya kisah satu industri.

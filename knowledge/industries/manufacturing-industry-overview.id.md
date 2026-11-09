@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "mida" }
 related: []
 keywords: ["Malaysia manufacturing", "machinery and equipment", "plastics", "rubber gloves", "medical devices", "chemicals", "food processing", "NIMP 2030", "MIDA", "DOSM"]
+framework: profile
 ---
 
 Sebut "pabrik Malaysia" dan kebanyakan orang membayangkan ruang bersih semikonduktor di Pulau Pinang atau lini produksi Proton di Shah Alam. Itu memang ada, dan ia besar — tetapi ia hanya duduk di atas fondasi perindustrian yang jauh lebih luas. Pada 2024 keseluruhan sektor ini menggerakkan penjualan RM1.9 triliun dan mempertahankan sekitar 2.4 juta orang dalam pekerjaan, dan sebagian besar darinya datang dari mesin, plastik, karet, alat kesehatan, bahan kimia dan makanan di rak pasar swalayan.

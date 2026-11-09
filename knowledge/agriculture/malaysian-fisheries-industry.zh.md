@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "mmea" }
 related: []
 keywords: ["industri perikanan malaysia", "pengeluaran ikan malaysia", "akuakultur malaysia", "lkim nelayan", "jabatan perikanan malaysia", "akta perikanan 1985", "pencerobohan bot nelayan asing", "iuu fishing malaysia"]
+framework: profile
 ---
 
 黎明前，在马六甲海峡与南中国海沿岸的码头上，数以千计的沿岸渔船

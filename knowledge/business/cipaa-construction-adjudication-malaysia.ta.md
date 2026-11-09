@@ -82,6 +82,7 @@ relations:
   - { rel: "compares-with", to: "arbitration-vs-litigation-malaysia" }
 related: ["arbitration-vs-litigation-malaysia", "contracts-act-malaysia"]
 keywords: ["CIPAA", "construction adjudication", "AIAC", "payment claim", "Act A1738", "construction disputes Malaysia"]
+framework: explainer
 ---
 
 ஆறு மாதங்களாகக் கட்டணம் பெறாத ஒரு துணை ஒப்பந்ததாரர் நீதிமன்ற தேதிக்காக பல ஆண்டுகள் காத்திருக்க வேண்டியதில்லை. CIPAA இன் கீழ், அவர்கள் அந்தத் தகராறை சில வாரங்களுக்குள் கட்டுப்படுத்தும் தீர்ப்பாக நிர்பந்திக்க முடியும் — மேலும் இந்தக் கடிகாரம் இரு தரப்புக்கும் இரக்கமற்றது.

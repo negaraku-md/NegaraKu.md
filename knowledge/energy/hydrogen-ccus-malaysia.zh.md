@@ -86,6 +86,7 @@ relations:
   - { rel: "part-of", to: "malaysia-energy-transition" }
 related: ["petronas", "sarawak-energy-berhad"]
 keywords: ["hydrogen Malaysia", "CCUS Malaysia", "Kasawari CCS", "H2biscus", "H2ornbill", "SEDC Energy", "green ammonia Sarawak", "carbon capture Malaysia"]
+framework: profile
 ---
 
 在民都鲁海岸外，一座如小镇般庞大的平台如今正从天然气中剥离二氧化碳，并将其重新泵回海床之下。在数百公里之外的内陆，工程师们正在设计厂房，意图把砂拉越的水电以氨和氢载体的形式运往日本和韩国。这些工程共同构成了马来西亚的一场押注：能源转型的分子——清洁氢能与封存的碳——能够成为继液化天然气（LNG）和棕榈油之后的下一个出口产业。

@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry" }
 related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
+framework: profile
 ---
 
 Getah yang membina Tanah Melayu zaman penjajah tidak lagi memberi pulangan di ladang — ia memberi pulangan di lantai kilang. Malaysia masih menoreh pokok, tetapi kekayaan getahnya kini bergantung pada sarung tangan perubatan, tayar dan barangan lateks yang dikeluarkannya, satu perniagaan yang memproses lebih banyak getah daripada yang ditanam oleh negara itu sendiri.

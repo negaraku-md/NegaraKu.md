@@ -71,6 +71,7 @@ relations:
   - { rel: "explained-in", to: "rights-when-arrested-malaysia" }
 related: ["penal-code"]
 keywords: ["kanun tatacara jenayah", "akta 593", "criminal procedure code", "reman", "seksyen 117", "ikat jamin", "seksyen 28A", "tangkapan", "perbicaraan jenayah", "prima facie"]
+framework: explainer
 ---
 
 เมื่อบุคคลถูกจับในมาเลเซีย สิ่งที่เกิดขึ้นหลังจากวินาทีนั้น — ไม่ว่าเขาจะถูกปล่อยตัว ถูกควบคุมตัว ถูกตั้งข้อหา หรือถูกพิจารณาคดี — ไม่ได้ถูกกำหนดตามอำเภอใจ แต่ถูกกำหนดทีละขั้นตอนโดยประมวลกฎหมายวิธีพิจารณาความอาญา (Criminal Procedure Code, Akta 593) หรือเรียกสั้น ๆ ว่า KTJ

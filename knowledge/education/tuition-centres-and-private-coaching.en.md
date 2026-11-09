@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "national-education-system" }
 related: []
 keywords: ["pusat tuisyen", "tuition centre", "bimbingan persendirian", "Akta Pendidikan 1996", "pendaftaran IPS", "permit mengajar", "JPN"]
+framework: rules
 ---
 
 In many Malaysian families, after-school tuition classes have become as routine as homework itself — yet every centre that opens one is in fact bound by the same schooling laws.

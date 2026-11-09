@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "national-education-system" }
 related: []
 keywords: ["pusat tuisyen", "tuition centre", "bimbingan persendirian", "Akta Pendidikan 1996", "pendaftaran IPS", "permit mengajar", "JPN"]
+framework: rules
 ---
 
 En muchas familias malasias, las clases de refuerzo después de la escuela se han vuelto tan rutinarias como los propios deberes; sin embargo, todo centro que abre una de estas clases está, de hecho, sujeto a las mismas leyes escolares.

@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "sedition-act-1948" }
 related: ["federal-constitution"]
 keywords: ["akta komunikasi dan multimedia 1998", "seksyen 233", "SKMM", "MCMC", "penyalahgunaan kemudahan rangkaian", "pertuturan dalam talian", "kebebasan bersuara", "akta 588"]
+framework: explainer
 ---
 
 Một bình luận trên Facebook, một dòng tweet, hoặc một tin nhắn WhatsApp được chia sẻ lại có thể trở thành cơ sở cho một cuộc truy tố hình sự ở Malaysia. Quy định pháp lý được trích dẫn thường xuyên nhất trong các tình huống như vậy không phải Đạo luật Chống Xúi giục (Sedition Act) hay luật phỉ báng, mà là Mục 233 của Đạo luật Truyền thông và Đa phương tiện 1998.

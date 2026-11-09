@@ -101,6 +101,7 @@ entity: "Service Tax Act 2018 (Act 807)"
 relations: []
 related: []
 keywords: ["Service Tax Act 2018", "Act 807", "service tax Malaysia", "SST", "service tax rate", "8% service tax", "6% service tax", "SST registration threshold", "SST-02", "taxable services", "service tax scope expansion 2025", "Royal Malaysian Customs Department", "MySST", "imported taxable services", "digital service tax Malaysia"]
+framework: rules
 ---
 
 Cada factura de restaurante, plan telefónico y recibo de estacionamiento en Malasia lleva una línea que la mayoría de la gente nunca lee con atención — el impuesto sobre servicios. La ley detrás de él es la **Service Tax Act 2018 (Act 807)**, una Act que prevé la imposición, aplicación y recaudación del impuesto sobre servicios sobre los servicios imponibles prescritos. Entró en vigor el **1 de septiembre de 2018** y la administra el **Departamento Real de Aduanas de Malasia (RMCD)**. Las páginas de «actualización del SST» de las firmas capturan la tasa que sea en ese año y quedan obsoletas; este explicativo trata la Act 807 como ley viva — su mecanismo, y una sola línea de tiempo fechada de cada cambio de tasa y de alcance.

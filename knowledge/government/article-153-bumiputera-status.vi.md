@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["federal-constitution", "majlis-raja-raja", "constitutional-amendment", "new-economic-policy", "ma63"]
 keywords: ["Perkara 153", "Article 153", "kedudukan istimewa orang Melayu", "special position of the Malays", "Bumiputera", "anak negeri Sabah Sarawak", "kepentingan sah kaum lain", "perkadaran yang munasabah", "kuota Perlembagaan Malaysia", "Perkara 153 Perlembagaan Persekutuan", "takrif orang Melayu Perkara 160"]
+framework: explainer
 ---
 
 Nhiều người trích dẫn Điều 153, nhưng ít người từng đọc các đoạn của nó. Có người gọi nó là "đặc quyền của người Mã Lai", có người gọi là "hạn ngạch", và có người gọi là "phân biệt đối xử" — nhưng văn bản thực của Điều này không dùng bất kỳ từ nào trong số đó. Nó đặt ra một trách nhiệm, ấn định một số giới hạn, và — điều hiếm khi được nhắc đến — nêu tên hai nhóm phải được bảo vệ đồng thời.

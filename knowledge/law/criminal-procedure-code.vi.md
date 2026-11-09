@@ -71,6 +71,7 @@ relations:
   - { rel: "explained-in", to: "rights-when-arrested-malaysia" }
 related: ["penal-code"]
 keywords: ["kanun tatacara jenayah", "akta 593", "criminal procedure code", "reman", "seksyen 117", "ikat jamin", "seksyen 28A", "tangkapan", "perbicaraan jenayah", "prima facie"]
+framework: explainer
 ---
 
 Khi một người bị bắt tại Malaysia, những gì xảy ra sau thời điểm đó — dù họ được thả, bị tạm giữ, bị buộc tội hay bị xét xử — không được định đoạt một cách tùy tiện. Nó được quy định từng bước bởi Bộ luật Tố tụng Hình sự (Criminal Procedure Code, Act 593), hay gọi tắt là KTJ.

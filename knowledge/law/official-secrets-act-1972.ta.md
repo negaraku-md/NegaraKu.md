@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "freedom-of-information-malaysia" }
 related: []
 keywords: ["Akta Rahsia Rasmi 1972", "Official Secrets Act", "Akta 88", "rahsia rasmi", "pengelasan dokumen", "seksyen 16A", "keselamatan negara", "kebebasan media", "OSA Malaysia"]
+framework: rules
 ---
 
 அமைச்சரவை நிமிட (minit Kabinet) நகல் ஒன்றைப் பெறும் ஒரு பத்திரிகையாளர், ஒரு ராணுவ முகாமுக்கு அருகில் அளவெடுக்கும் ஒரு ஆய்வாளர், மற்றும் “Sulit” எனக் குறிக்கப்பட்ட கோப்பை வைத்திருக்கும் ஒரு அதிகாரி — இம்மூவரையும் ஒரே சட்டம் தொடக்கூடும். Akta Rahsia Rasmi 1972, அல்லது Akta 88, மலேசியாவின் அரசகரும இரகசியப் பாதுகாப்பு அமைப்பின் முதுகெலும்பாகும்; அதன் எல்லை உளவு விவகாரங்களை விட மிகவும் விரிவானது.

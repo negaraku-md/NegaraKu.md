@@ -76,6 +76,7 @@ relations:
   - { rel: "governs", to: "national-land-code-1965" }
 related: []
 keywords: ["bank lelong", "property auction Malaysia", "foreclosure", "proclamation of sale", "LACA auction", "order for sale", "reserve price", "reserve price deposit"]
+framework: explainer
 ---
 
 不動産はその市場価値のごく一部で落槌されることがある——だがその値引きは、起こりうるあらゆる不都合を市場が織り込んだ価格なのである。銀行競売（bank lelong）は掘り出し物探しではない。それは価格とリスクを引き換えにする計算ずくの取引である。

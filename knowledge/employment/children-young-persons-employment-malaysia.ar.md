@@ -82,6 +82,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-tenaga-kerja-semenanjung-malaysia" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["Akta 350", "Act 350", "عمل الأطفال", "الحد الأدنى لسن العمل", "قانون الأطفال والأحداث", "العمل في الترفيه العام", "العمل الخطر", "kanak-kanak dan orang muda", "buruh kanak-kanak", "Akta Kanak-Kanak dan Orang Muda Pekerjaan 1966"]
+framework: rules
 ---
 
 طالب في الرابعة عشرة يساعد في كشك الطعام العائلي وطفل في الخامسة يمثّل في إعلان تلفزيوني — كلاهما يخضع للقانون نفسه، وهو ليس قانون التوظيف لسنة 1955 الذي يلجأ إليه أصحاب العمل عادةً. ذلك القانون هو قانون الأطفال والأحداث (التوظيف) لسنة 1966، أو القانون 350.

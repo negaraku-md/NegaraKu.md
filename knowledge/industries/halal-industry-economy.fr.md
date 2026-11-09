@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-economic-policy" }
 related: ["islamic-finance", "external-trade", "bumiputera-economic-policy"]
 keywords: ["halal industry", "halal economy", "HALMAS halal park", "Halal Development Corporation", "HDC", "Halal Industry Master Plan 2030", "halal exports", "global halal hub"]
+framework: profile
 ---
 
 Un logo halal sur un paquet de nouilles instantanées est l'endroit où la plupart des gens croient que l'histoire se termine. En Malaisie, c'est plus près de l'endroit où l'histoire commence. Derrière cette marque se trouve une tentative délibérée, longue de plusieurs décennies, de transformer le « halal » d'une garantie religieuse en une industrie exportatrice, avec en prime des parcs industriels, des exonérations fiscales, du financement et un plan directeur national.

@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "islamic-family-law-malaysia" }
 related: []
 keywords: ["Akta 164", "perkahwinan sivil", "perceraian bukan Islam", "harta sepencarian", "Law Reform Marriage and Divorce Act 1976", "seksyen 76", "Jabatan Pendaftaran Negara"]
+framework: rules
 ---
 
 หากคุณไม่ใช่มุสลิมและสมรสในมาเลเซีย กฎหมายฉบับเดียวเป็นตัวกำหนดว่าการสมรสนั้นสมบูรณ์หรือไม่ จะยุติได้อย่างไร และใครได้อะไรเมื่อมันสิ้นสุด — พระราชบัญญัติปฏิรูปกฎหมาย (การสมรสและการหย่า) 1976 หรือที่รู้จักกันดีในชื่อ Act 164

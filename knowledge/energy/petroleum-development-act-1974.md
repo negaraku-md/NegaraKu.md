@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "register-business-sabah" }
 related: ["register-business-sarawak", "register-business-sabah"]
 keywords: ["akta kemajuan petroleum 1974", "petroleum development act 1974", "petronas", "royalti minyak", "MA63", "seksyen 2 pemilikan", "bayaran tunai petroleum", "sarawak sabah kelantan minyak"]
+framework: explainer
 ---
 
 Satu akta setebal beberapa muka surat memindahkan pemilikan seluruh petroleum di Malaysia — di darat dan di dasar laut — kepada sebuah syarikat tunggal, dan sehingga hari ini garis pemisah yang dilukisnya masih diperdebatkan di mahkamah dan meja rundingan.

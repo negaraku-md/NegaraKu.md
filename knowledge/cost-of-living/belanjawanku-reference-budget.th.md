@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "epf-retirement-savings" }
 related: []
 keywords: ["belanjawanku", "kos sara hidup", "KWSP", "EPF", "belanjawan rujukan", "taraf hidup munasabah", "Lembah Klang", "SWRC"]
+framework: explainer
 ---
 
 "RM2,800 ต่อเดือนเพียงพอสำหรับคนโสดที่จะใช้ชีวิตในหุบเขากลัง (Klang Valley) หรือไม่?" คำถามเช่นนี้แหละที่ Belanjawanku พยายามตอบ — ไม่ใช่ด้วยการเดา แต่ด้วยตัวเลขอ้างอิงที่สร้างขึ้นจากรูปแบบการใช้จ่ายจริงของครัวเรือนในเมือง

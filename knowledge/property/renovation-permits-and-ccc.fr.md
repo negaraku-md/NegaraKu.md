@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "buying-property-in-malaysia" }
 related: []
 keywords: ["CCC", "certificat d'achèvement et de conformité", "rénovation d'un logement", "approbation PBT", "Akta 133", "permis de rénovation", "Principal Submitting Person"]
+framework: rules
 ---
 
 Vous voulez ajouter une cuisine à l'arrière de la maison ou construire un étage supérieur, et soudain un voisin vous dit « il faut d'abord faire une demande à la municipalité ». Est-ce vrai ? Pour la plupart des travaux de rénovation, oui.

@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "malay-woodcarving" }
 related: []
 keywords: ["rumah Melayu", "rumah panggung", "senibina vernakular", "bumbung panjang", "tebar layar", "rumah panjang", "kampung", "warisan"]
+framework: history-culture
 ---
 
 ยกบ้านหมู่บ้านเก่าหลังหนึ่งขึ้น ถอดจุดเชื่อมต่อของมันออก แล้วประกอบใหม่ที่พื้นที่ใหม่ — ส่วนใหญ่โดยไม่ต้องมีฐานคอนกรีตที่ตายตัว นั่นคือความชาญฉลาดของสถาปัตยกรรมมลายูดั้งเดิม บ้านที่ "อ่าน" ภูมิอากาศเขตร้อนได้ตั้งแต่ก่อนจะมีเครื่องปรับอากาศ

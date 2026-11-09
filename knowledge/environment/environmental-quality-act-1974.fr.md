@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "manufacturing-licence-malaysia" }
 related: ["manufacturing-licence-malaysia"]
 keywords: ["Environmental Quality Act 1974", "Act 127", "Act A1712", "Department of Environment", "EIA Malaysia", "prescribed premises", "environmental penalties Malaysia", "open burning Malaysia", "scheduled waste", "loi sur la qualité de l'environnement", "sanctions environnementales Malaisie", "brûlage à l'air libre", "déchets programmés"]
+framework: rules
 ---
 
 Un seul déversement dans une rivière en Malaisie peut désormais coûter à une entreprise jusqu'à RM10 millions et mettre derrière les barreaux la personne responsable — et, contrairement à avant, le juge n'a plus le pouvoir discrétionnaire de prononcer une amende seule. Ce changement, en vigueur depuis le 7 juillet 2024, est la modification la plus tranchante du droit de l'environnement malaisien en un demi-siècle, et il s'inscrit au sein d'une loi avec laquelle la plupart des exploitants vivent discrètement depuis 1974.

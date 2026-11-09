@@ -61,6 +61,7 @@ relations:
   - { rel: "part-of", to: "employment" }
 related: ["employment-contract-malaysia", "termination-of-employment-malaysia"]
 keywords: ["cláusula de no competencia Malasia", "restricción del comercio Malasia", "sección 28 Contracts Act 1950", "no captación Malasia", "pacto restrictivo Malasia", "non compete clause malaysia", "section 28 contracts act 1950"]
+framework: explainer
 ---
 
 Casi todo contrato de trabajo malasio lleva una cláusula de no competencia, y casi todas ellas son nulas. No es una cuestión reñida, y no es un asunto de calidad de redacción.

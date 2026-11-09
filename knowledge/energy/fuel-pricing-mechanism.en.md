@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "diesel-subsidy-rationalisation" }
 related: []
 keywords: ["APM", "harga minyak", "RON97", "RON95", "BUDI95", "subsidi bahan api", "harga pam mingguan"]
+framework: explainer
 ---
 
 Every Wednesday, prices at Malaysia's fuel pumps can change — but not every type of fuel moves in the same way. Behind the numbers on that signboard lies an official formula called the Automatic Pricing Mechanism, or APM.

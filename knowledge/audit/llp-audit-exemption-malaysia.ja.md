@@ -62,6 +62,7 @@ relations:
   - { rel: "administered-by", to: "ssm" }
 related: []
 keywords: ["PLT audit", "LLP audit exemption", "Akta PLT 2012", "perisytiharan tahunan PLT", "seksyen 69", "SSM"]
+framework: explainer
 ---
 
 多くの起業家がLLPを選ぶ理由の一つは、毎年の監査費用を支払う必要がないことである。Sdn Bhd（非公開有限会社）とは異なり、LLPは一人の監査人にも会計を見られることなく何年も事業を続けることができる——そして、それは完全に合法である。

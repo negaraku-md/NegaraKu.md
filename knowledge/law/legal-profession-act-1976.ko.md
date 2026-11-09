@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
 related: ["federal-constitution"]
 keywords: ["Akta Profesion Guaman 1976", "Majlis Peguam", "Malaysian Bar", "peguam bela dan peguam cara", "Lembaga Tatatertib", "Akta 166", "profesion guaman Malaysia"]
+framework: explainer
 ---
 
 쿠알라룸푸르(Kuala Lumpur), 조호르바루 또는 페낭(Penang)의 법정에 서는 모든 변호사는 동일한 한 장의 법 아래에서 그렇게 하며 — 만약 그가 궤도를 벗어나면, 바로 그 법이 그의 경력을 끝낼 수 있습니다. 그것이 법조전문직법 1976(Legal Profession Act 1976, Act 166)으로, 말레이반도의 법조전문직을 통합하고 이를 변호사회(Majlis Peguam)와 독립적인 징계위원회의 감독 아래 두는 근간입니다.

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["federal-constitution", "court-hierarchy", "civil-and-syariah-courts", "companies-act-2016", "employment-act-1955"]
 keywords: ["Contracts Act 1950", "Act 136", "undang-undang kontrak Malaysia", "tawaran dan penerimaan Malaysia", "seksyen 10 Contracts Act", "balasan dalam undang-undang Malaysia"]
+framework: data-reference
 ---
 
 Sewa-menyewa, surat tawaran pekerjaan, perjanjian sewa beli, penjualan mobil bekas yang

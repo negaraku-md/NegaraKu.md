@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "constitutional-amendment", "jpn", "dewan-rakyat", "how-a-bill-becomes-law"]
 keywords: ["Undi18", "Akta A1603", "pindaan perlembagaan umur mengundi 18 tahun", "Pendaftaran Pemilih Secara Automatik", "PPSA", "Perkara 119 Perlembagaan Persekutuan", "SPR daftar pemilih automatik", "umur mengundi Malaysia", "Constitution Amendment Act 2019"]
+framework: explainer
 ---
 
 The amendment that reshaped Malaysia's voter landscape fills only three pages. The Constitution (Amendment) Act 2019 — Act A1603 — did not write out a lengthy new procedure. It changed a handful of words in three places, and two of those changes moved millions of citizens onto the electoral roll.

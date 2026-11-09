@@ -113,6 +113,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Lorsque _Upin & Ipin Universe_ de Les' Copaque est arrivé sur les consoles du monde entier le **17 juillet 2025**, il a bouclé une boucle qui avait commencé par une courte série animée sur deux jumeaux espiègles. Un dessin animé malaisien était devenu un jeu vidéo publié mondialement — et une illustration nette de ce que l'industrie du contenu créatif numérique du pays a discrètement bâti en deux décennies.

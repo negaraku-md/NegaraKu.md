@@ -99,6 +99,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review (export, ranking and market-size figures flagged for verification).
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 If you have ever worn a surgical glove, had blood drawn through a catheter, or recovered with the help of an orthopaedic implant, there is a reasonable chance the device was made in Malaysia. Beyond its famous rubber gloves, the country has quietly become South-East Asia's most important place to manufacture medical devices — and one of the more significant medtech manufacturing bases anywhere in the world.

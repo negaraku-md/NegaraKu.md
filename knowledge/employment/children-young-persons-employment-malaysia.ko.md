@@ -82,6 +82,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-tenaga-kerja-semenanjung-malaysia" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["Akta 350", "kanak-kanak dan orang muda", "buruh kanak-kanak", "umur minimum bekerja", "kerja hiburan awam", "kerja berbahaya", "Akta Kanak-Kanak dan Orang Muda Pekerjaan 1966"]
+framework: rules
 ---
 
 가족 식당에서 일손을 돕는 14세 학생과 텔레비전 광고에 출연하는 다섯 살 아동은 동일한 법률의

@@ -101,6 +101,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Pocos se dan cuenta de que cuando un propietario de vivienda o una empresa de servicios públicos estadounidense instala un conjunto solar, los paneles bien pueden haber sido fabricados en Malasia. Durante más de una década, el país ha sido discretamente uno de los mayores productores del mundo de células y módulos solares fotovoltaicos (FV), no para alimentar su propia red, sino para exportar. Esta es una industria de fábricas, no de tarifas de alimentación.

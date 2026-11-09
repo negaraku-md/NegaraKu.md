@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "putrajaya" }
 related: ["federal-state-division", "federal-constitution", "kuala-lumpur", "putrajaya", "parliament"]
 keywords: ["الحكومة المحلية في ماليزيا", "local government Malaysia", "المجلس المحلي", "local council", "مجلس المدينة", "city council", "المجلس البلدي", "municipal council", "مجلس المنطقة", "district council", "Local Government Act 1976", "Act 171", "تعيين أعضاء المجالس", "تعليق الانتخابات المحلية 1965", "local elections suspended 1965", "المجلس الوطني للحكومة المحلية", "National Council for Local Government"]
+framework: explainer
 ---
 
 المجلس الذي يصلح أعمدة إنارة شارعك، ويجمع نفاياتك، ويوافق على توسعة جارك، ويرخّص

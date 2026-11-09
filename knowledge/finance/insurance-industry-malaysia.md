@@ -84,6 +84,7 @@ relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["insurance Malaysia", "life insurance", "general insurance", "motor insurance", "PIAM", "LIAM", "Financial Services Act 2013", "Bank Negara Malaysia", "third party cover"]
+framework: profile
 ---
 
 Every renewed road tax in Malaysia quietly proves a point: buy the insurance first, or the vehicle stays off the road. That single legal hook — compulsory third-party motor cover — is the most visible edge of an industry that otherwise runs in the background of daily life, collecting premiums, pooling risk, and paying out when things go wrong.

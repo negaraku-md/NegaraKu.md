@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "court-hierarchy" }
 related: ["penal-code", "federal-constitution", "fundamental-liberties", "court-hierarchy"]
 keywords: ["SOSMA", "Security Offences Special Measures Act 2012", "Act 747", "delito de seguridad Malasia", "detención de 28 días", "Primer Anexo Código Penal Capítulo VI VIA", "testigo protegido"]
+framework: explainer
 ---
 
 SOSMA no crea ningún delito. Abra la Act 747 buscando el delito que castiga y no encontrará ninguno — cada delito del que se ocupa está definido en otra parte, principalmente en el Código Penal. Lo que la Ley aporta es un conjunto de *procedimientos*: cómo puede una persona ser arrestada y retenida, cómo pueden interceptarse las comunicaciones, cómo se decide la fianza, dónde se celebra el juicio, y cómo se tratan la prueba y los testigos una vez que un caso se trata como un **delito de seguridad**.

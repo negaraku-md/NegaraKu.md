@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "article-153-special-position" }
 related: ["federal-constitution", "ma63", "sabah", "sarawak", "federal-state-division", "article-153-special-position"]
 keywords: ["सबाह सरवाक सुरक्षा-उपाय", "Sabah Sarawak safeguards", "सबाह सरवाक आप्रवास स्वायत्तता", "immigration autonomy Sabah Sarawak", "Article 161B", "Article 161E", "Article 95B List IIA", "मूलनिवासी न्यायालय", "native courts Sabah Sarawak", "Article 112C special grants", "Immigration Act 1959/63 Part VII", "मूलनिवासियों की विशेष स्थिति", "Federal Constitution Part XIIA"]
+framework: explainer
 ---
 
 कुआलालंपुर से कोटा किनाबालू या कुचिंग के लिए उड़ान भरिए और आप मलेशिया में ही उतरते हैं — वही देश, वही पासपोर्ट, वही मुद्रा — और फिर एक आप्रवास काउंटर पर पंक्ति में लगते हैं। एक प्रायद्वीपीय मलेशियाई जो वहाँ होने का कोई अच्छा कारण नहीं बता सकता, उसे कुछ सप्ताहों तक सीमित पास दिया जा सकता है, या वापस भेजा जा सकता है। वह चौकी कोई नौकरशाही सनक नहीं है। यह उन सुरक्षा-उपायों के समूह में से एक है जो 1963 में जब सबाह और सरवाक संघ में शामिल हुए, तब संघीय संविधान में लिखे गए थे।

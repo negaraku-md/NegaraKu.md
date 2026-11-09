@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "petroleum-income-tax" }
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["oil and gas Malaysia", "PETRONAS", "production sharing contract", "PSC", "Petroleum Development Act 1974", "Malaysia Petroleum Management", "upstream", "downstream", "LNG", "petroleum income tax"]
+framework: profile
 ---
 
 Chaque baril de pétrole et chaque pied cube de gaz sous le sol et le fond marin malaisiens appartiennent, par la loi, à une seule entreprise. Pas à l'État directement, pas à ceux qui ont découvert les champs, pas aux multinationales qui les forent — mais à PETRONAS, la compagnie pétrolière nationale créée pour détenir le pétrole de la nation en fiducie. Comprenez ce seul fait et le reste de l'industrie du pétrole et du gaz de la Malaisie — comment elle est régulée, financée, imposée et partagée — se met en place.

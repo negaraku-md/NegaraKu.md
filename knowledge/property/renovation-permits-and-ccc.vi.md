@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "buying-property-in-malaysia" }
 related: []
 keywords: ["CCC", "Sijil Perakuan Siap dan Pematuhan", "ubah suai rumah", "kebenaran PBT", "Akta 133", "permit renovation", "Principal Submitting Person"]
+framework: rules
 ---
 
 Bạn muốn thêm bếp phía sau nhà hoặc xây thêm tầng — và đột nhiên hàng xóm nói "phải xin phép hội đồng trước đã". Có đúng vậy không? Đối với phần lớn công việc cải tạo, thì đúng.

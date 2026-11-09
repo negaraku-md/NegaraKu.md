@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "program-podium" }
 related: []
 keywords: ["SUKMA", "Sukan Malaysia", "Majlis Sukan Negara", "Program Podium", "atlet remaja", "pembangunan sukan", "Institut Sukan Negara"]
+framework: explainer
 ---
 
 ஒவ்வொரு இரண்டு ஆண்டுகளுக்கும் ஒருமுறை, ஆயிரக்கணக்கான இளம் வீரர்கள் விருந்தோம்பி மாநிலத்தின் ஒரு அரங்கத்திற்குள் அணிவகுத்து நுழைகிறார்கள் — உலகப் பதக்கங்களுக்காக அல்ல, மாறாக தத்தம் மாநிலத்தின் பெருமைக்காக, மேலும் மிகத் திறமையானவர்களுக்கு தேசிய தலைசிறந்த அரங்கத்திற்கான ஒரு நுழைவுச் சீட்டுக்காக. அதுதான் SUKMA.

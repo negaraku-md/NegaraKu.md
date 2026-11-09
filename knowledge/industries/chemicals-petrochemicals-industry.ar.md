@@ -101,6 +101,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review (output/export, capacity and ownership figures flagged for verification).
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 تبدأ اللدائن والأسمدة والمنظفات والمطاط الصناعي ومستحضرات التجميل والدهانات والراتنجات داخل غلاف هاتفك، جميعها، على هيئة كيماويات — وحصة مفاجئة منها، أو من لبِناتها الأساسية، تُصنع في ماليزيا. فخلف قصص النفط والغاز وزيت النخيل الأشهر في البلاد تجلس صناعة كيماويات وبتروكيماويات كبيرة واستراتيجية بهدوء، تحوّل الهيدروكربونات الخام والزيوت النباتية إلى المواد التي تعتمد عليها الحياة الحديثة.

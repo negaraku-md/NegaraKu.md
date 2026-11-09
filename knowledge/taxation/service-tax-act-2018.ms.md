@@ -101,6 +101,7 @@ entity: "Service Tax Act 2018 (Act 807)"
 relations: []
 related: []
 keywords: ["Service Tax Act 2018", "Act 807", "service tax Malaysia", "SST", "service tax rate", "8% service tax", "6% service tax", "SST registration threshold", "SST-02", "taxable services", "service tax scope expansion 2025", "Royal Malaysian Customs Department", "MySST", "imported taxable services", "digital service tax Malaysia"]
+framework: rules
 ---
 
 Setiap bil restoran, pelan telefon dan resit tempat letak kereta di Malaysia membawa satu baris yang jarang dibaca dengan teliti oleh kebanyakan orang — cukai perkhidmatan. Undang-undang di sebaliknya ialah **Akta Cukai Perkhidmatan 2018 (Akta 807)**, iaitu suatu Akta untuk mengadakan peruntukan bagi pengenaan, pelevian dan pengutipan cukai perkhidmatan ke atas perkhidmatan bercukai yang ditetapkan. Ia mula berkuat kuasa pada **1 September 2018** dan ditadbir oleh **Jabatan Kastam Diraja Malaysia (JKDM)**. Halaman "kemas kini SST" firma hanya menangkap kadar semasa pada tahun tertentu dan menjadi lapuk; penjelasan ini memperlakukan Akta 807 sebagai undang-undang yang hidup — mekanismenya, dan satu garis masa bertarikh bagi setiap perubahan kadar dan skop.

@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "cp204b-change-of-accounting-period" }
 related: ["financial-statements-lodgement", "companies-act-2016"]
 keywords: ["tahun kewangan", "FYE", "financial year end", "SSM", "Akta Syarikat 2016", "CP204B", "penyata kewangan"]
+framework: how-to
 ---
 
 Many directors assume that changing a company's financial year requires a special form to be submitted to SSM — but the Companies Act 2016 in fact makes no mention of such a form at all.

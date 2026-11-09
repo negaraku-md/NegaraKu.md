@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "tenancy-agreement-malaysia" }
 related: []
 keywords: ["ejen hartanah", "REN", "LPEPH", "BOVAEP", "komisen ejen", "fi sewaan", "perunding hartanah"]
+framework: explainer
 ---
 
 经纪人胸牌上的号码不是装饰品——它是快速区分合法协商员与仅仅自称经纪人者的唯一途径。在马来西亚，谁可以代表你买卖、出租或协商房地产，受到法律的严格管制。

@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "diesel-subsidy-rationalisation" }
 related: []
 keywords: ["APM", "harga minyak", "RON97", "RON95", "BUDI95", "subsidi bahan api", "harga pam mingguan"]
+framework: explainer
 ---
 
 每逢星期三，马来西亚油站的价格都可能变动——但并非所有类型的燃油都以相同方式变动。在告示牌上那些数字背后，有一套官方公式，称为自动定价机制，简称 APM。

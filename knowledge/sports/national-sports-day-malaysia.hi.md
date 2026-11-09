@@ -69,6 +69,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-belia-dan-sukan" }
 related: []
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
+framework: explainer
 ---
 
 अक्टूबर के दूसरे सप्ताह के हर शनिवार को, पूरे मलेशिया के खेल मैदान, पार्क और हॉल खचाखच भरे होने चाहिए — यही राष्ट्रीय खेल दिवस के पीछे का उद्देश्य है।

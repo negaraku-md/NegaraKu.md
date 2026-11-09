@@ -112,6 +112,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 When Les' Copaque's _Upin & Ipin Universe_ reached consoles worldwide on **17 July 2025**, it closed a loop that began with a short animated series about two mischievous twins. A Malaysian cartoon had become a globally published video game — and a neat illustration of what the country's digital creative content industry has quietly built over two decades.

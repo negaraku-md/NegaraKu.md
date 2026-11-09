@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "healthcare-for-seniors" }
 related: ["healthcare-for-seniors"]
 keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap hujung hayat", "penjagaan di rumah", "KKM"]
+framework: explainer
 ---
 
 Ketika perawatan tidak lagi bertujuan menyembuhkan, fokus beralih ke satu hal: memastikan pasien nyaman dan bermartabat. Itulah inti perawatan paliatif — dan di Malaysia, ia dapat diakses melalui tiga jalur yang berbeda.

@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["buying-a-home-process", "federal-constitution", "companies-act-2016"]
 keywords: ["National Land Code", "Act 828", "Act 56 of 1965", "Torrens system Malaysia", "land title registration", "indefeasibility of title section 340", "Sabah Land Ordinance", "Sarawak Land Code", "Peninsular Malaysia land law"]
+framework: explainer
 ---
 
 请古晋的律师依据 National Land Code 核实槟城的一份地契，老实的答案是：它在

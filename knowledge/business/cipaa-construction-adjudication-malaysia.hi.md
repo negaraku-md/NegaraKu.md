@@ -82,6 +82,7 @@ relations:
   - { rel: "compares-with", to: "arbitration-vs-litigation-malaysia" }
 related: ["arbitration-vs-litigation-malaysia", "contracts-act-malaysia"]
 keywords: ["CIPAA", "निर्माण निर्णयन", "construction adjudication", "AIAC", "भुगतान दावा", "payment claim", "Act A1738", "मलेशिया में निर्माण विवाद"]
+framework: explainer
 ---
 
 छह महीने से भुगतान न पाने वाले उपठेकेदार (subcontractor) को अदालत की तारीख़ के लिए वर्षों तक इंतज़ार नहीं करना पड़ता। CIPAA के तहत वह विवाद को कुछ ही हफ़्तों में एक बाध्यकारी निर्णय तक पहुँचा सकता है — और घड़ी दोनों पक्षों के प्रति निर्मम रहती है।

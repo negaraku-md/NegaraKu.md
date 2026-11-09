@@ -98,6 +98,7 @@ revisions:
     change: Initial draft (AI-assisted), pending review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 几乎每一个马来西亚人都带着一个移动连接，大多数家庭也有某种形式的宽带。这使电信成为该国最重要、也最成熟的产业之一——数字经济、网上银行、电子政务与日常生活之下那看不见的管道。然而，在熟悉的品牌名称背后，坐落着一个近年来剧变的市场：运营商更少、合并更大，以及一场关于如何建设 5G 的全国实验。

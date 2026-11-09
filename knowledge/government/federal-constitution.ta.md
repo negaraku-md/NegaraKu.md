@@ -69,6 +69,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["parliament", "majlis-raja-raja", "federal-state-division"]
 keywords: ["Perlembagaan Persekutuan", "Federal Constitution Malaysia", "undang-undang tertinggi", "Perkara 4 Perlembagaan", "Perkara 159 pindaan", "ketertinggian perlembagaan", "Bahagian Perlembagaan Persekutuan", "prosedur pindaan perlembagaan"]
+framework: explainer
 ---
 
 மலேசியாவில் இயற்றப்படும் ஒவ்வொரு சட்டமும் — அது கூட்டமைப்பு பாராளுமன்றத்தால் (Parliament) இயற்றப்பட்டாலும் சரி அல்லது ஒரு மாநில சட்டப் பேரவையால் (Dewan Undangan Negeri / State Legislative Assembly) இயற்றப்பட்டாலும் சரி — ஒரே ஒரு ஆவணத்திற்கு எதிராக அளவிடப்பட முடியும். அந்தச் சட்டம் அதனுடன் முரண்பட்டால், அந்த முரண்பாட்டின் அளவிற்கு அந்தச் சட்டம் செல்லாததாகக் கருதப்படலாம். அந்த ஆவணமே கூட்டமைப்பு அரசியலமைப்பு (Perlembagaan Persekutuan / Federal Constitution).

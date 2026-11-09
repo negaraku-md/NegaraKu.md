@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "road-tax-renewal-malaysia" }
 related: ["road-tax-renewal"]
 keywords: ["puspakom", "pemeriksaan berkala", "kenderaan komersial", "e-hailing", "cukai jalan", "akta pengangkutan jalan 1987"]
+framework: rules
 ---
 
 Kalau Anda memiliki truk, van, taksi atau mobil e-hailing, kalender enam-bulanan Puspakom sebenarnya adalah kalender pajak jalan Anda — tanpa cap pemeriksaan yang sah, JPJ tidak akan mengizinkan Anda memperbarui lisensi kendaraan sama sekali.

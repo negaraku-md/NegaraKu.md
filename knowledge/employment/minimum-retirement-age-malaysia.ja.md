@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["termination-of-employment-malaysia"]
 keywords: ["umur persaraan minimum", "Akta 753", "persaraan 60 tahun", "persaraan pramatang", "kontrak tempoh tetap", "persaraan pilihan"]
+framework: rules
 ---
 
 58歳の従業員がある書面を受け取った。会社によれば、契約書で定年年齢が55歳と定められているため、彼はすでに「契約満了」だという。マレーシアでは、この書面は法的に何の意味も持たない。2013年7月1日以降、私部門の使用者は契約書に何が書かれていようと、何人も60歳になる前に定年退職を強制することはできない。

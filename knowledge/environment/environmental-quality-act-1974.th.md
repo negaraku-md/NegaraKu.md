@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "manufacturing-licence-malaysia" }
 related: ["manufacturing-licence-malaysia"]
 keywords: ["Environmental Quality Act 1974", "Act 127", "Act A1712", "Department of Environment", "EIA Malaysia", "prescribed premises", "environmental penalties Malaysia", "open burning Malaysia", "scheduled waste"]
+framework: rules
 ---
 
 การรั่วไหลลงแม่น้ำในมาเลเซียเพียงครั้งเดียวในปัจจุบันสามารถทำให้บริษัทเสียเงินได้ถึง RM10 ล้านและทำให้ผู้รับผิดชอบต้องติดคุก และต่างจากเดิม ผู้พิพากษาไม่มีดุลพินิจที่จะตัดสินเพียงค่าปรับอย่างเดียวอีกต่อไป การเปลี่ยนแปลงนั้น ซึ่งมีผลตั้งแต่ 7 กรกฎาคม 2024 เป็นการเปลี่ยนแปลงที่คมชัดที่สุดต่อกฎหมายสิ่งแวดล้อมของมาเลเซียในรอบครึ่งศตวรรษ และอยู่ภายในกฎหมายที่ผู้ประกอบการส่วนใหญ่อยู่ด้วยอย่างเงียบ ๆ นับตั้งแต่ปี 1974

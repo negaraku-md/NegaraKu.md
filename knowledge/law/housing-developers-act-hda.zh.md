@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "strata-titles-act-1985" }
 related: []
 keywords: ["HDA", "Akta 118", "Jadual H", "Jadual G", "ganti rugi lewat", "LAD", "milikan kosong", "lesen pemaju", "APDL", "Tribunal Tuntutan Pembeli Rumah"]
+framework: rules
 ---
 
 你为一间只存在于建筑师图纸上的公寓支付了10%的订金，然后一边偿还贷款分期，一边等上三年。有什么能阻止发展商卷走你的钱、延误工程，或交付有缺陷的单位？答案是一部超过半个世纪历史的法律：1966年房屋发展（管制与执照）法令——简称HDA或第118号法令。

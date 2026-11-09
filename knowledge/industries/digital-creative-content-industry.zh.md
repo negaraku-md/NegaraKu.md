@@ -113,6 +113,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 当Les' Copaque的《_Upin & Ipin Universe_》于**2025年7月17日**登陆全球主机平台时，它为一段始于讲述两个淘气双胞胎的动画短片系列的历程画上了一个圆满的闭环。一部马来西亚动画片成了一款全球发行的电子游戏——也恰如其分地展示了这个国家的数字创意内容产业在二十年里悄然构建起的成果。

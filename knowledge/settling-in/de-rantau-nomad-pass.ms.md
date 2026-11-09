@@ -70,6 +70,7 @@ relations:
   - { rel: "compares-with", to: "employment-pass" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "professional-visit-pass"]
 keywords: ["DE Rantau", "digital nomad visa Malaysia", "nomad pass", "MDEC", "Professional Visit Pass", "remote work Malaysia"]
+framework: explainer
 ---
 
 Jika anda bekerja jarak jauh untuk majikan atau pelanggan yang berpangkalan di luar Malaysia, anda boleh tinggal dan bekerja di negara ini secara sah di bawah pas yang direka khas untuk itu: **Pas Nomad DE Rantau**.

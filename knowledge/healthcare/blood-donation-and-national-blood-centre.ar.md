@@ -72,6 +72,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
 related: []
 keywords: ["التبرع بالدم", "المركز الوطني للدم", "Pusat Darah Negara", "PDN", "شروط التبرع بالدم", "امتيازات المتبرعين", "blood donation Malaysia"]
+framework: how-to
 ---
 
 وفقاً لـ PDN، يمكن لتبرع واحد بالدم أن يُنقذ ثلاثة أرواح على الأقل — لأن الدم الكامل يُعالَج ليُحوَّل إلى خلايا دم حمراء وصفائح دموية وبلازما لمرضى مختلفين.

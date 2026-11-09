@@ -66,6 +66,7 @@ wikidata: "Q25475395"
 relations: []
 related: []
 keywords: ["Local Government Act 1976", "Act 171", "Akta Kerajaan Tempatan 1976", "local authority Malaysia", "PBT", "Pihak Berkuasa Tempatan", "majlis perbandaran", "majlis daerah", "assessment tax", "cukai pintu", "local council elections Malaysia", "appointed councillors", "National Council for Local Government", "third vote Malaysia"]
+framework: explainer
 ---
 
 なぜマレーシアの投票用紙に市長候補が載ったことが一度もないのか、疑問に思ったことがあるなら、その答えはただ一つの法規にある。**1976年地方自治法（Local Government Act 1976、Act 171）**——長題名は「地方自治に関する法律を改正し統合するための法律」——は、マレーシア半島のあらゆる市議会、都市評議会、県議会を構成し、それらを運営する人々を任命し、あなたに課税し罰金を科す権限をそれらに与える法律である。同法は**1976年3月18日**に御裁可を受け、1976年3月25日に官報告示された。ウェブ上の多くの記述に反して、**s.1(1)は、同法がマレーシア半島にのみ適用されると定めている**；サバとサラワクはそれぞれ独自の条例を維持している。

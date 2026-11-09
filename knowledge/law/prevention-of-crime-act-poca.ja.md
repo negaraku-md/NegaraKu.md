@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "prevention-of-terrorism-act-pota" }
 related: ["sosma"]
 keywords: ["POCA", "Akta Pencegahan Jenayah 1959", "Akta 297", "tahanan pencegahan", "Lembaga Pencegahan Jenayah", "jenayah terancang", "tahanan tanpa perbicaraan"]
+framework: explainer
 ---
 
 人は名指しされ、取り調べを受け、最終的に法廷で一度も起訴されることなく2年間拘禁されることがある——そしてその決定を下すのは裁判官ではなく、一つの委員会である。それこそが、1959年犯罪防止法（POCA）の核心にある仕組みである。

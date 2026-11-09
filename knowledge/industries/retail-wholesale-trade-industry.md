@@ -94,6 +94,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Almost every ringgit a Malaysian spends on physical goods — groceries, a phone, a car, a bottle of cooking oil — passes through the retail and wholesale trade. It is the plumbing of everyday consumption: the network of importers, wholesalers, distributors, shops, markets and online stores that moves products from where they are made to where they are bought. Officials call this network **distributive trade**, and it is one of the largest and most visible parts of the Malaysian economy.

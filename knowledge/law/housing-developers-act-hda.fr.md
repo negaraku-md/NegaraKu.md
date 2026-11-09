@@ -100,6 +100,7 @@ relations:
   - { rel: "related-to", to: "strata-titles-act-1985" }
 related: []
 keywords: ["HDA", "Act 118", "Jadual H", "Jadual G", "ganti rugi lewat", "LAD", "milikan kosong", "lesen pemaju", "APDL", "Tribunal Tuntutan Pembeli Rumah"]
+framework: rules
 ---
 
 Vous versez un acompte de 10 % pour une copropriété qui n'existe que sous la forme du dessin d'un architecte, puis vous attendez trois ans tout en remboursant les mensualités de votre prêt. Qu'est-ce qui empêche le promoteur de partir avec votre argent, de construire lentement ou de vous livrer une unité défectueuse ? La réponse est une loi vieille de plus d'un demi-siècle : la Housing Development (Control and Licensing) Act 1966 — connue en abrégé sous le nom de HDA ou Act 118.

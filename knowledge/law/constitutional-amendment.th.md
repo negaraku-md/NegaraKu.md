@@ -53,6 +53,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["federal-constitution", "majlis-raja-raja", "ma63", "article-152-language", "fundamental-liberties"]
 keywords: ["Article 159 Federal Constitution", "amending the Constitution Malaysia", "two-thirds majority Parliament", "Conference of Rulers consent", "Article 161E Sabah Sarawak", "Perkara 159", "constitutional amendment Malaysia"]
+framework: explainer
 ---
 
 มาตรา 159 เริ่มต้นด้วยการทำให้ตนเองอยู่ภายใต้กฎของตัวมันเอง อนุมาตรา (5) ระบุบทบัญญัติที่ไม่สามารถแก้ไขได้โดยปราศจากความยินยอมของที่ประชุมเจ้าผู้ครองรัฐ — และรายการสุดท้ายในบัญชีนั้นคือ "อนุมาตรานี้" เอง กระบวนการแก้ไขคุ้มครองกระบวนการแก้ไขของตัวมันเอง รายละเอียดนั้นเพียงอย่างเดียวก็บอกคุณได้ว่ารัฐธรรมนูญสหพันธรัฐไม่เคยมีเจตนาให้เปลี่ยนแปลงได้ด้วยกฎธรรมดาข้อเดียว

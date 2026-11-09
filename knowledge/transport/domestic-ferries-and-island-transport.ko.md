@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "domestic-flights-and-regional-air-travel" }
 related: []
 keywords: ["Penang ferry", "Langkawi ferry", "Tioman ferry", "island transport Malaysia", "Kuala Kedah", "Kuala Perlis", "northeast monsoon", "Pangkor ferry", "Labuan ferry"]
+framework: explainer
 ---
 
 말레이시아에는 단일한 국가 페리 노선이 없습니다. 섬에 닿는다는 것은 어느 짧은

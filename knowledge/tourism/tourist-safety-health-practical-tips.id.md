@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "getting-around-malaysia" }
 related: ["getting-around-malaysia"]
 keywords: ["Malaysia travel tips", "999 emergency Malaysia", "Malaysia SIM card tourist", "Malaysia monsoon season", "Malaysia travel vaccinations", "tipping in Malaysia"]
+framework: explainer
 ---
 
 Anda baru mendarat, Anda kelelahan akibat jet lag, dan ponsel Anda tidak menunjukkan sinyal apa pun. Sebelum Anda khawatir tentang nasi lemak yang sempurna, urus hal yang membosankan tetapi penting — SIM yang berfungsi, nomor darurat yang benar, dan mengetahui apakah langit akan mencurahkan hujan. Berikut adalah daftar singkat yang telah diverifikasi.

@@ -54,6 +54,7 @@ relations:
   - { rel: "governs", to: "bahasa-melayu" }
 related: ["federal-constitution", "bahasa-melayu"]
 keywords: ["Article 152 Federal Constitution", "national language Malaysia", "Perkara 152", "official purpose Malaysia", "National Language Acts 1963/67", "Article 161 Sabah Sarawak English"]
+framework: explainer
 ---
 
 Article 152-ஐ அரசியலமைப்பின் மற்ற பகுதிகளுடன் சேர்த்துப் படித்தால், ஒரு குறுக்குக் குறிப்பு தனித்து நிற்கிறது. Article 161(5), "Notwithstanding anything in Article 152," (Article 152-இல் எதுவிருந்தாலும் அதைப் பொருட்படுத்தாமல்) என்ற சொற்களுடன் தொடங்குகிறது, பின்னர் சபா அல்லது சரவாக்கில் அப்போது வழக்கில் உள்ள ஒரு பூர்வகுடி மொழியை பூர்வகுடி நீதிமன்றங்களில் அல்லது எந்த பூர்வகுடி சட்டம் மற்றும் பழக்கவழக்க நெறிமுறைக்கும் பயன்படுத்த அனுமதிக்கிறது. வேறுவிதமாகச் சொன்னால், தேசிய மொழி பற்றிய இந்த விதி, தனக்கான விதிவிலக்குகளையே பெயரிட்டுக் குறிப்பிடும் ஒரு ஆவணத்தில் அமைந்துள்ளது.

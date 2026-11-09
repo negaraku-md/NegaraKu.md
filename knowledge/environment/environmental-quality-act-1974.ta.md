@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "manufacturing-licence-malaysia" }
 related: ["manufacturing-licence-malaysia"]
 keywords: ["Environmental Quality Act 1974", "Act 127", "Act A1712", "Department of Environment", "EIA Malaysia", "prescribed premises", "environmental penalties Malaysia", "open burning Malaysia", "scheduled waste"]
+framework: rules
 ---
 
 மலேசியாவில் ஒரு ஆற்றுக்குள் ஏற்படும் ஒரே ஒரு கசிவு இப்போது ஒரு நிறுவனத்திற்கு RM10 million வரை செலவாகலாம், மேலும் பொறுப்பானவரை சிறையில் அடைக்கலாம் — முன்பு இருந்ததைப் போலல்லாமல், அபராதத்தை மட்டும் விதிக்கும் விருப்பாதிகாரம் இனி நீதிபதிக்கு இல்லை. 7 சூலை 2024 அன்று நடைமுறைக்கு வந்த அந்த மாற்றம், அரை நூற்றாண்டில் மலேசியாவின் சுற்றுச்சூழல் சட்டத்தில் ஏற்பட்ட மிகக் கூர்மையான மாற்றமாகும், மேலும் இது 1974 முதல் பெரும்பாலான இயக்குநர்கள் அமைதியாக வாழ்ந்துவரும் ஒரு சட்டத்திற்குள் அமைந்துள்ளது.

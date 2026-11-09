@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "petroleum-income-tax" }
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["oil and gas Malaysia", "PETRONAS", "production sharing contract", "PSC", "Petroleum Development Act 1974", "Malaysia Petroleum Management", "upstream", "downstream", "LNG", "petroleum income tax"]
+framework: profile
 ---
 
 Mỗi thùng dầu và mỗi feet khối khí bên dưới đất và đáy biển Malaysia đều thuộc về, theo luật, một công ty duy nhất. Không phải nhà nước trực tiếp, không phải những người phát hiện ra các mỏ, không phải các tập đoàn đa quốc gia khoan chúng — mà là PETRONAS, công ty dầu khí quốc gia được thành lập để nắm giữ dầu khí của quốc gia trong sự ủy thác. Hiểu một dữ kiện đó và phần còn lại của ngành dầu khí Malaysia — cách nó được điều tiết, tài trợ, đánh thuế và chia sẻ — sẽ vào đúng chỗ.

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "malaysia-net-zero-2050" }
 related: ["bursa-malaysia"]
 keywords: ["carbon market Malaysia", "carbon pricing", "carbon tax Malaysia", "Bursa Carbon Exchange", "National Carbon Market Policy", "carbon credits", "emissions trading scheme", "CCUS Act 2025"]
+framework: explainer
 ---
 
 มาเลเซียกำลังสร้างระบบพื้นฐานของตลาดคาร์บอนก่อนที่จะตัดสินใจเรียกเก็บเงินจากผู้ก่อมลพิษ ในปัจจุบันท่านสามารถซื้อและขายคาร์บอนเครดิตบนตลาดแลกเปลี่ยนแห่งชาติได้แล้ว แต่ภาษีและกฎการซื้อขายที่จะบังคับให้ผู้ปล่อยก๊าซรายใหญ่ต้องจ่ายยังคงอยู่ระหว่างการร่าง

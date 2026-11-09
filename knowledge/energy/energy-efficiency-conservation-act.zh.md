@@ -80,6 +80,7 @@ relations:
   - { rel: "affects", to: "commercial-buildings-malaysia" }
 related: []
 keywords: ["EECA 2024", "Akta 861", "kecekapan tenaga", "Suruhanjaya Tenaga", "pengurus tenaga berdaftar", "audit tenaga", "intensiti tenaga bangunan", "MEPS"]
+framework: rules
 ---
 
 如果您的工厂或办公楼每年使用价值数百万令吉的能源，政府如今想知道每一吉焦能源的去向——并希望您展示减少浪费的努力。这正是《2024年能源效率与节约法令》（即第861号法令）的核心，这部法律自2025年1月1日起生效。

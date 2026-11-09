@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "cultural-heritage-tourism-malaysia" }
 related: ["cultural-heritage-tourism-malaysia"]
 keywords: ["الكوبيتيام", "kopitiam", "القهوة", "تيه تاريك", "teh tarik", "kopi-O", "kopi-C", "mamak", "مشروبات ماليزيا"]
+framework: explainer
 ---
 
 تُشير إلى المنضدة وتنادي: «kopi-O peng, satu!» — ويفهم العمّ الواقف خلف آلة الإسبريسو العتيقة، بطريقة ما، ما تريده بالضبط. تبدو لغة طلبات الكوبيتيام شيفرةً سرية، لكنها في الحقيقة نظام مرتّب ومنطقي.

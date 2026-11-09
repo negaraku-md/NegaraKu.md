@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["termination-of-employment-malaysia"]
 keywords: ["umur persaraan minimum", "Akta 753", "persaraan 60 tahun", "persaraan pramatang", "kontrak tempoh tetap", "persaraan pilihan"]
+framework: rules
 ---
 
 一名58岁的雇员收到一封信：公司说他的合约把退休年龄订在55岁，因此他已经"到期"。在马来西亚，这封信在法律上毫无价值。自2013年7月1日起，私人领域的雇主不得强迫任何人在60岁前退休，无论合约里写了什么。

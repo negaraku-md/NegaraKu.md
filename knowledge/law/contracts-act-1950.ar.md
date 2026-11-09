@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["federal-constitution", "court-hierarchy", "civil-and-syariah-courts", "companies-act-2016", "employment-act-1955"]
 keywords: ["Contracts Act 1950", "Act 136", "قانون العقود في ماليزيا", "الإيجاب والقبول في ماليزيا", "section 10 Contracts Act", "المقابل في القانون الماليزي"]
+framework: data-reference
 ---
 
 عقد إيجار، خطاب توظيف، اتفاق بيع بالتقسيط، بيع سيارة مستعملة مؤكَّد عبر

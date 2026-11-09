@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
 related: ["federal-constitution"]
 keywords: ["Akta Profesion Guaman 1976", "Majlis Peguam", "Malaysian Bar", "peguam bela dan peguam cara", "Lembaga Tatatertib", "Akta 166", "profesion guaman Malaysia"]
+framework: explainer
 ---
 
 每一位在吉隆坡、新山或槟城法庭上出庭的律师，都是依据同一部法律执业——而如果他行差踏错，同一部法律也能终结他的职业生涯。这就是1976年法律专业法令（Akta 166），它是统一西马半岛法律专业、并将其置于律师公会理事会以及一个独立纪律委员会监督之下的支柱。

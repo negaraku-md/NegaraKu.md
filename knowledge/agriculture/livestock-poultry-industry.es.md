@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry" }
 related: ["palm-oil-industry"]
 keywords: ["industria ganadera", "pollo de engorde", "huevos de gallina", "peste porcina africana", "African swine fever", "gripe aviar", "H5N1", "JPV", "ratio de autosuficiencia", "bioseguridad", "escasez de pollo 2022"]
+framework: profile
 ---
 
 El plato malasio depende del pollo. Es la proteína más barata del país — y por eso, cuando las naves tambalean, se convierte en un asunto nacional, no en un mero asunto de granja.

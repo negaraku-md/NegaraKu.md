@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "cp204b-change-of-accounting-period" }
 related: ["financial-statements-lodgement", "companies-act-2016"]
 keywords: ["السنة المالية", "tahun kewangan", "FYE", "financial year end", "SSM", "قانون الشركات 2016", "Akta Syarikat 2016", "CP204B", "البيانات المالية", "penyata kewangan"]
+framework: how-to
 ---
 
 يفترض كثير من المديرين أن تغيير السنة المالية للشركة يتطلب تقديم نموذج خاص إلى لجنة

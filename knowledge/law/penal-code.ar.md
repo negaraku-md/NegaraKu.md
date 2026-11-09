@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "macc-sprm" }
 related: ["federal-constitution", "court-hierarchy", "macc-sprm"]
 keywords: ["قانون العقوبات", "Penal Code", "Act 574", "القانون الجنائي الماليزي", "Malaysia criminal law", "قانون العقوبات الهندي", "Indian Penal Code", "Criminal Procedure Code Act 593", "Act 846"]
+framework: data-reference
 ---
 
 تكاد كل مقالة ستقرؤها عن Act 574 تفتتح بالجملة نفسها: يحتوي قانون العقوبات

@@ -71,6 +71,7 @@ relations:
   - { rel: "administered-by", to: "lhdn" }
 related: ["petronas"]
 keywords: ["petroleum income tax", "PITA", "Petroleum Income Tax Act 1967", "petroleum operations", "marginal field tax", "late-life asset PSC", "upstream oil gas tax Malaysia"]
+framework: rules
 ---
 
 An oil company drilling off Terengganu and a factory in Shah Alam both pay tax to Malaysia — but they do not pay it under the same law. Upstream petroleum income lives in a walled-off regime of its own, with its own rate, its own return, and its own rulebook.

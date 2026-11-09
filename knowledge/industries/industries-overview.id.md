@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "industries-tourism" }
 related: []
 keywords: ["Malaysia industries", "Malaysia economy sectors", "Malaysia GDP by sector", "Malaysia exports", "electrical and electronics Malaysia", "palm oil", "Malaysia manufacturing", "services sector Malaysia"]
+framework: explainer
 ---
 
 Lacak hampir produk mana pun dalam sebuah gawai global — cip di dalam ponsel pintar, solder pada server pusat data — dan besar kemungkinan sebagian darinya pernah melewati lantai pabrik di Pulau Pinang, Kulim atau Klang. Namun pabrik itu hanyalah satu keping dari keseluruhan cerita. Malaysia hari ini memperoleh sebagian besar pendapatannya bukan dari apa yang dibuatnya, tetapi dari apa yang dijual, dilayani dan digerakkannya. Inilah peta ekonomi itu: sektor yang penting, berapa bobot masing-masing, dan di mana panduan yang lebih mendalam dalam kategori ini menyambung ceritanya.

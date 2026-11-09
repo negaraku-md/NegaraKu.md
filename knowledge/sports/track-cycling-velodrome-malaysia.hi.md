@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "azizulhasni-awang" }
 related: []
 keywords: ["velodrom nasional", "राष्ट्रीय वेलोड्रोम", "Nilai", "ट्रैक साइक्लिंग", "keirin", "कीरिन", "Azizulhasni Awang", "MNCF", "Majlis Sukan Negara"]
+framework: profile
 ---
 
 निलाई के बाहरी इलाके में एक लंबा, छत वाला अखाड़ा अब वह जगह है जहाँ मलेशिया के सबसे तेज़ राइडर अपनी स्प्रिंट को धार देते हैं — और इसे विशेष रूप से और अधिक विश्व ट्रैक चैंपियन तैयार करने के लिए बनाया गया था।

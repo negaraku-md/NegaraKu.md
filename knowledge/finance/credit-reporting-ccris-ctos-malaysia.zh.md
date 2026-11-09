@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["CCRIS", "CTOS", "credit report Malaysia", "credit score", "Credit Reporting Agencies Act 2010", "RAM Credit Information RAMCI", "credit rating Malaysia"]
+framework: explainer
 ---
 
 仅仅一次错过的分期付款，就可能在多年里悄悄跟随着你——而大多数马来西亚人从未真正读过银行在决定是否批贷之前打开的那份档案。

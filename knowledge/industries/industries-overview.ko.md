@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "industries-tourism" }
 related: []
 keywords: ["Malaysia industries", "Malaysia economy sectors", "Malaysia GDP by sector", "Malaysia exports", "electrical and electronics Malaysia", "palm oil", "Malaysia manufacturing", "services sector Malaysia"]
+framework: explainer
 ---
 
 글로벌 기기 안의 거의 모든 제품 — 스마트폰 안의 칩, 데이터센터 서버의 납땜 — 을 추적하면, 그 일부가 페낭(Penang), 쿨림(Kulim), 클랑(Klang)의 공장 바닥을 거쳤을 상당한 가능성이 있습니다. 그러나 공장은 이야기의 한 조각일 뿐입니다. 오늘날 말레이시아는 무엇을 만드는지가 아니라 무엇을 팔고, 서비스하고, 운반하는지에서 대부분의 생계를 법니다. 이것이 그 경제의 지도입니다. 즉, 중요한 부문들, 각각이 얼마나 무게를 지니는지, 그리고 이 범주의 더 깊은 안내서들이 어디서 실마리를 이어받는지입니다.

@@ -100,6 +100,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review (export, ranking and market-size figures flagged for verification).
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 यदि आपने कभी सर्जिकल दस्ताना पहना है, कैथेटर के माध्यम से रक्त निकलवाया है, या किसी आर्थोपेडिक इम्प्लांट की मदद से स्वस्थ हुए हैं, तो इसकी उचित संभावना है कि वह उपकरण मलेशिया में बना हो। अपने प्रसिद्ध रबर के दस्तानों से परे, देश चुपचाप दक्षिण-पूर्व एशिया का चिकित्सा उपकरण बनाने का सबसे महत्वपूर्ण स्थान बन गया है — और दुनिया में कहीं भी अधिक महत्वपूर्ण मेडटेक विनिर्माण आधारों में से एक।

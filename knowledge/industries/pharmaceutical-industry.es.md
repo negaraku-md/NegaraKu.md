@@ -97,6 +97,7 @@ keywords:
   - Duopharma Biotech
   - llenado y acabado de vacunas
   - BPM PIC/S
+framework: profile
 ---
 
 Cada vez que un malasio surte una receta de un antibiótico, un analgésico o una pastilla para la tensión, hay buenas probabilidades de que el medicamento se fabricara en Malasia: no inventado aquí, pero sí formulado, prensado, llenado y envasado en una fábrica local que trabaja conforme a normas internacionales de fabricación. Ese es el corazón de la industria farmacéutica de Malasia: una base de fabricación sólida y liderada por los genéricos que mantiene surtido el botiquín nacional, emparejada con dos apuestas más ambiciosas —los fármacos halal y la producción de vacunas— que el país espera que lo lleven a ascender en la cadena de valor.

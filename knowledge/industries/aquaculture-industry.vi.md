@@ -102,6 +102,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Phần lớn cá trên bàn ăn tối của người Malaysia vẫn đến từ biển — nhưng một phần đang tăng nhanh nay đến từ một cái ao, một cái lồng hoặc một bè dây dài. Đó là nuôi trồng thủy sản: việc nuôi có chủ đích các sinh vật dưới nước, trái với việc đánh bắt những gì bơi trong tự nhiên. Khi sản lượng đánh bắt tự nhiên của Malaysia chững lại và nhu cầu đạm leo thang, nuôi trồng thủy sản đã trở thành đòn bẩy chính của đất nước để giữ cá trên bàn ăn. Bài viết này đi sâu vào phần nuôi của ngành kinh doanh; để có bức tranh rộng hơn, bao gồm đội tàu đánh cá, phúc lợi ngư dân và thực thi, xem [tổng quan ngành nghề cá](/vi/agriculture/malaysian-fisheries-industry/).

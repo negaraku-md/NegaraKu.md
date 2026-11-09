@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "orang-asal-indigenous-peoples" }
 related: []
 keywords: ["native customary rights", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "logging disputes", "native title"]
+framework: explainer
 ---
 
 ชุมชนบ้านยาว (longhouse) แห่งหนึ่งกล่าวว่าผืนป่าแห่งหนึ่งเป็นของตนมาหลายชั่วอายุคน บริษัทไม้ซุงหรือสวนถือใบอนุญาตที่ออกโดยรัฐซึ่งครอบคลุมพื้นที่เดียวกัน ทั้งสองฝ่ายชี้ไปที่กฎหมาย ในซาราวักและซาบาห์ การปะทะกันนั้นถูกโต้แย้งในห้องพิจารณาคดีมานานกว่าสองทศวรรษ และศาลก็ไม่ได้เห็นพ้องเสมอไปว่าเส้นแบ่งอยู่ที่ใด

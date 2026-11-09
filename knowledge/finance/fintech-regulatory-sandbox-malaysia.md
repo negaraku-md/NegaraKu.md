@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "securities-commission-malaysia" }
 related: ["bank-negara-malaysia", "securities-commission-malaysia"]
 keywords: ["regulatory sandbox", "fintech Malaysia", "BNM sandbox", "Innovation Green Lane", "SC sandbox", "FTEG", "capital market fintech"]
+framework: explainer
 ---
 
 Build a new payment app or a tokenised-securities platform in Malaysia and you hit the same wall: the rules were written before your idea existed. The regulatory sandbox is the door through that wall — a supervised space to test a live product before you hold a full licence. Malaysia has two of them, and which one you knock on depends on what you are building.

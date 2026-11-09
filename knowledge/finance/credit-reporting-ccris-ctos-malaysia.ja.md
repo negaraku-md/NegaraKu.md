@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["CCRIS", "CTOS", "credit report Malaysia", "credit score", "Credit Reporting Agencies Act 2010", "RAM Credit Information RAMCI", "credit rating Malaysia"]
+framework: explainer
 ---
 
 一度の分割払いの延滞が、何年にもわたって静かにあなたに付きまとうことがある——そして、銀行がローンを承認するか却下するかを決める前に開くそのファイルを、実際に読んだことのあるマレーシア人はほとんどいない。

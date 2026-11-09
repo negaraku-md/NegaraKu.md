@@ -82,6 +82,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-tenaga-kerja-semenanjung-malaysia" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["Akta 350", "kanak-kanak dan orang muda", "buruh kanak-kanak", "umur minimum bekerja", "kerja hiburan awam", "kerja berbahaya", "Akta Kanak-Kanak dan Orang Muda Pekerjaan 1966"]
+framework: rules
 ---
 
 นักเรียนอายุ 14 ปีที่ช่วยงานที่แผงขายอาหารของครอบครัว และเด็กอายุห้าขวบที่แสดงในโฆษณาทางโทรทัศน์ อยู่ภายใต้กฎหมายฉบับเดียวกัน — และไม่ใช่พระราชบัญญัติการจ้างงาน (Employment Act 1955) ที่นายจ้างมักอ้างถึง กฎหมายฉบับนั้นคือพระราชบัญญัติการจ้างเด็กและเยาวชน 1966 (Children and Young Persons (Employment) Act 1966) หรือ Akta 350

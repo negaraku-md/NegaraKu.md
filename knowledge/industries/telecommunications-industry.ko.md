@@ -98,6 +98,7 @@ revisions:
     change: Initial draft (AI-assisted), pending review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 말레이시아에서는 거의 모든 사람이 이동통신 회선을 들고 다니고, 대부분의 가정에 어떤 형태든 브로드밴드가 있습니다. 그래서 통신은 이 나라에서 가장 중요하고 가장 성숙한 산업 중 하나 — 디지털 경제, 온라인 뱅킹, 전자정부, 일상생활 아래의 보이지 않는 배관 — 입니다. 그러나 익숙한 브랜드 이름 뒤에는 최근 몇 년 사이 극적으로 바뀐 시장이 있습니다. 더 적은 사업자, 더 큰 합병, 그리고 5G를 어떻게 구축할지에 대한 국가적 실험입니다.

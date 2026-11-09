@@ -92,6 +92,7 @@ keywords:
   - peralatan semikonduktor
   - Industry4WRD
   - MIDA
+framework: profile
 ---
 
 Setiap pabrik berjalan di atas mesin — dan mesin-mesin itu harus dibangun oleh seseorang. Industri mesin & peralatan (M&E) adalah bagian dari manufaktur yang membuat lini produksi, mesin proses, perkakas pengerjaan logam, sistem daya, dan otomasi yang menjadi sandaran setiap industri *lain*. Ia adalah industri besar yang paling tak kasatmata dalam ekonomi dan, justru karena alasan itu, salah satu yang paling strategis.

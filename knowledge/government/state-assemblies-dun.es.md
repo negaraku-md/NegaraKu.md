@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "majlis-raja-raja" }
 related: ["dewan-rakyat", "federal-state-division", "spr-election-commission", "majlis-raja-raja", "federal-constitution"]
 keywords: ["Dewan Undangan Negeri", "DUN", "badan perundangan negeri", "Octavo Anexo", "Jadual Kelapan", "Artículo 71", "Perkara 71", "disposiciones esenciales", "Yang di-Pertua Negeri", "Menteri Besar", "enactment estatal", "State Legislative Assembly Malaysia"]
+framework: explainer
 ---
 
 La tierra es una materia estatal. El derecho de familia islámico es una materia

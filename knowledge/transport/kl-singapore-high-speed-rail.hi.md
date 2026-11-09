@@ -78,6 +78,7 @@ relations:
   - { rel: "compares-with", to: "johor-bahru-singapore-rts-link" }
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["KL सिंगापुर HSR", "मलेशिया में हाई-स्पीड रेल", "MyHSR Corp", "HSR समाप्ति मुआवज़ा", "HSR पुनर्जीवन RFP", "high-speed rail Malaysia"]
+framework: history-culture
 ---
 
 एक बुलेट ट्रेन जो आपको कुआलालंपुर से सिंगापुर तक लगभग 90 मिनट में पहुँचा सकती थी — उस पर

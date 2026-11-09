@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "statutory-demand-section-466-malaysia" }
 related: ["companies-act-2016"]
 keywords: ["winding up by court", "compulsory winding up", "section 466", "statutory demand", "Fortuna injunction", "RM50000 threshold", "Companies Act 2016", "insolvency Malaysia", "creditor petition"]
+framework: explainer
 ---
 
 Sehelai faktur yang tidak dibayar dapat mengakhiri riwayat sebuah perusahaan. Di Malaysia, seorang kreditur yang berpiutang lebih dari RM50,000 tidak memerlukan putusan untuk menggunakan pemulihan paling drastis dalam hukum komersial — sebuah perintah pengadilan untuk melikuidasi debitur dan membagikan apa yang tersisa.

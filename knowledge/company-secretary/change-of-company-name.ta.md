@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "special-resolution" }
 related: ["companies-act-2016"]
 keywords: ["tukar nama syarikat", "change of company name", "seksyen 28", "ketetapan khas", "SSM CRS", "name reservation"]
+framework: how-to
 ---
 
 நிறுவனப் பெயரை மாற்றுவது என்பது வெறுமனே ஒரு படிவத்தை நிரப்புவது மட்டுமல்ல — இது உறுப்பினர்களின் சிறப்புத் தீர்மானத்துடன் தொடங்கி, SSM புதிய பெயரின் பதிவு அறிவிப்பை வழங்கும்போது மட்டுமே முடிவடைகிறது. அந்தத் தருணம் வரை, பழைய பெயர் சட்டப்பூர்வமாகச் செல்லுபடியாகும்.

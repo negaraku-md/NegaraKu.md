@@ -109,6 +109,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bursa-malaysia"]
 keywords: ["CelcomDigi", "Maxis", "U Mobile", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "MCMC", "telco merger", "single wholesale network"]
+framework: profile
 ---
 
 Malaysia spent three years running its entire 5G rollout through a single government-owned pipe — then, over one intense stretch of policy, tore that model up, handed a second network to its smallest major operator, and walked away from the state's shareholding altogether. The result is a mobile market that looks nothing like it did in 2021.

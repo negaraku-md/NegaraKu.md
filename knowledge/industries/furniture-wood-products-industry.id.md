@@ -101,6 +101,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Di suatu rumah di Texas atau California, ada kemungkinan besar kursi makan, rangka tempat tidur, atau rak buku itu dibuat di Malaysia — sangat mungkin di dalam dan sekitar satu kota, dari kayu sebatang pohon karet yang dulu menghasilkan lateks untuk sarung tangan dan ban. Industri furnitur dan produk kayu Malaysia adalah salah satu kelas berat yang senyap dari perekonomian manufakturnya: tidak glamor, tetapi eksportir sepuluh besar global yang konsisten, yang telah mengubah produk sampingan sektor perkebunan menjadi barang jadi yang dijual ke seluruh dunia.

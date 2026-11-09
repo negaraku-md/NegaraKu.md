@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-chairmanship-2025" }
 related: []
 keywords: ["pengerusian ASEAN", "Piagam ASEAN", "Perkara 31", "giliran abjad", "Malaysia 2025", "Filipina 2026", "Sidang Kemuncak ASEAN"]
+framework: explainer
 ---
 
 Cada 1 de enero, un país del Sudeste Asiático hereda el asiento más influyente de la región — sin votación, sin campaña, puramente por orden alfabético.

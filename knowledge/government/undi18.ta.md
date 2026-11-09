@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "constitutional-amendment", "jpn", "dewan-rakyat", "how-a-bill-becomes-law"]
 keywords: ["Undi18", "Akta A1603", "pindaan perlembagaan umur mengundi 18 tahun", "Pendaftaran Pemilih Secara Automatik", "PPSA", "Perkara 119 Perlembagaan Persekutuan", "SPR daftar pemilih automatik", "umur mengundi Malaysia", "Constitution Amendment Act 2019"]
+framework: explainer
 ---
 
 மலேசியாவின் வாக்காளர் நிலப்பரப்பை மறுவடிவமைத்த திருத்தம் வெறும் மூன்று பக்கங்களை மட்டுமே நிரப்புகிறது. Akta Perlembagaan (Pindaan) 2019 — Akta A1603 — நீண்ட புதிய நடைமுறை ஒன்றை எழுதவில்லை. அது மூன்று இடங்களில் சில சொற்களை மட்டுமே மாற்றியது, அந்த மாற்றங்களில் இரண்டு மில்லியன் கணக்கான குடிமக்களை வாக்காளர் பட்டியலுக்குள் கொண்டு வந்தன.

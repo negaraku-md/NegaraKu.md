@@ -76,6 +76,7 @@ wikidata: "Q27962026"
 relations: []
 related: []
 keywords: ["Road Transport Act 1987", "Act 333", "Akta Pengangkutan Jalan 1987", "RTA 1987", "JPJ", "driving without licence Malaysia", "traffic offences Malaysia", "DUI Malaysia penalty", "Road Transport Amendment Act 2020", "dangerous driving Malaysia", "Section 41 RTA", "Section 44 RTA"]
+framework: rules
 ---
 
 மலேசியாவில் கிட்டத்தட்ட ஒவ்வொரு JPJ *saman*-உம், ஒவ்வொரு ஓட்டுநர் உரிம வகுப்பும், ஒவ்வொரு மூன்றாம் தரப்பு (third-party) காப்பீட்டுக் கொள்கையும் ஒரே ஒரு சட்டத்திற்குச் செல்கின்றன: **Road Transport Act 1987 (Act 333)**, மலாய் மொழியில் *Akta Pengangkutan Jalan 1987*. இது மோட்டார் வாகனங்கள் மற்றும் சாலைப் போக்குவரத்துக்கான நாட்டின் முதன்மைச் சட்டம் ஆகும்; இதை முக்கியமாக **சாலைப் போக்குவரத்துத் துறை (Jabatan Pengangkutan Jalan, JPJ)** அமல்படுத்துகிறது. ஒவ்வொரு Part எதை ஆளுகிறது, மற்றும் பொதுவான குற்றங்கள் இப்போது எவ்வளவு விலை என்பதற்கான எளிய மொழி வரைபடம் கீழே உள்ளது.

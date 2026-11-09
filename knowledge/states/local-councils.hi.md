@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "putrajaya" }
 related: ["federal-state-division", "federal-constitution", "kuala-lumpur", "putrajaya", "parliament"]
 keywords: ["मलेशिया में स्थानीय सरकार", "local government Malaysia", "स्थानीय परिषद", "local council", "नगर परिषद", "city council", "नगरपालिका परिषद", "municipal council", "जिला परिषद", "district council", "Local Government Act 1976", "Act 171", "पार्षदों की नियुक्ति", "स्थानीय चुनाव निलंबन 1965", "local elections suspended 1965", "स्थानीय सरकार के लिए राष्ट्रीय परिषद", "National Council for Local Government"]
+framework: explainer
 ---
 
 वह परिषद जो आपकी गली की बत्तियाँ ठीक करती है, आपके कूड़ेदान खाली करती है, आपके

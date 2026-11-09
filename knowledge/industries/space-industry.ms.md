@@ -107,6 +107,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Malaysia tidak melancarkan roket sendiri, namun ia telah menerbangkan seorang angkasawan, membina dan mengendalikan mikrosatelit, serta meluluskan undang-undang untuk melesenkan aktiviti angkasa swasta sebelum kebanyakan jirannya. Sektor angkasanya kecil dan strategik secara senyap — terjalin melalui dasar jalur lebar, pertahanan, pemantauan bencana dan maruah negara. Panduan ini memetakan agensi, undang-undang, satelit dan cita-cita yang membentuk ekonomi angkasa Malaysia.

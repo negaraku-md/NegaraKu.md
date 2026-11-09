@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "klang-valley-integrated-transit-system" }
 related: []
 keywords: ["Rapid KL bus", "MRT feeder bus", "Klang Valley bus", "Rapid Bus", "Rapid KL On-Demand", "city bus Kuala Lumpur"]
+framework: explainer
 ---
 
 รถไฟพาคุณไปถึงสถานี แต่แทบไม่เคยพาคุณกลับถึงบ้าน ช่องว่างนั้น — จากชานชาลา MRT หรือ LRT ไปยังหน้าประตูบ้าน อาคารสำนักงาน หรือตลาดสดที่อยู่ห่างออกไปสองย่าน — ถูกเติมเต็มด้วยกองยานพาหนะที่ผู้โดยสารส่วนใหญ่แทบไม่ได้นึกถึง นั่นคือรถประจำทาง Rapid KL

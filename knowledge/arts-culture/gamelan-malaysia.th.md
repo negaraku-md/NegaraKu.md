@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "mak-yong" }
 related: ["pahang", "terengganu", "joget-and-zapin", "mak-yong"]
 keywords: ["gamelan Melayu", "gamelan Terengganu", "gamelan Pahang", "joget gamelan", "Tengku Ampuan Mariam", "muzik istana", "warisan kebangsaan"]
+framework: history-culture
 ---
 
 ชุดกาเมลันนั้นย้ายจากราชสำนักหนึ่งไปยังอีกราชสำนักหนึ่งไม่ใช่เพราะการซื้อขายหรือการยึด — แต่เพราะการอภิเษกสมรส เมื่อเจ้าหญิงย้ายไปยังวังของพระสวามี เครื่องดนตรี นักรำ และบทเพลงก็ย้ายตามไปด้วย นั่นคือวิธีที่กาเมลันกลายเป็นสมบัติของราชสำนักมลายู

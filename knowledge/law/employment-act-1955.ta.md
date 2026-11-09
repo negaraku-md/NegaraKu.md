@@ -87,6 +87,7 @@ relations:
   - { rel: "compares-with", to: "sabah-sarawak-labour-ordinance" }
 related: ["employment-act-1955-guide", "employment-act-coverage", "labour-law-map-malaysia", "sabah-sarawak-labour-ordinance"]
 keywords: ["Employment Act 1955", "Act 265", "Act A1651", "Akta Kerja 1955", "Malaysia employment statute"]
+framework: data-reference
 ---
 
 இந்தப் பக்கம் Act 265-இன் சட்டப் பதிவு ஆகும் — அதன் அடையாளம், நிர்வாகம் மற்றும்

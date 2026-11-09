@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "pdpa-malaysia" }
 related: []
 keywords: ["Cyber Security Act 2024", "Act 854", "NCII", "NACSA", "cybersecurity licensing Malaysia", "incident reporting Malaysia", "national critical information infrastructure"]
+framework: rules
 ---
 
 長年にわたり、マレーシアはサイバー攻撃に対して借り物の道具で対処してきた——コンピューター犯罪法、通信・マルチメディア法、そしてマレーシア中央銀行（Bank Negara）やその同業機関が発するセクター通達である。そのいずれも、誰が国の重要システムを守らなければならないのか、侵害はどれほど迅速に報告されなければならないのか、あるいはそもそも誰がペネトレーションテストを販売することを許されるのかを、一箇所にまとめて定めてはいなかった。2024年サイバーセキュリティ法はそれを定めている。これはマレーシア初の独立したサイバーセキュリティ法であり、特定のネットワークを、かつての法律がダムや発電所を扱ったのと同じように——国家が規制する権利を持つ国家インフラとして——扱う。

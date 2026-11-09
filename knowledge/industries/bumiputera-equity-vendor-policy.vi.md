@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "petronas" }
 related: ["new-economic-policy", "petronas"]
 keywords: ["ekuiti bumiputera", "dasar ekonomi baru", "pembangunan vendor", "PuTERA35", "PETRONAS VDP", "industri strategik", "SWEC"]
+framework: explainer
 ---
 
 Một doanh nhân muốn cung cấp dịch vụ cho một cơ sở dầu & khí ở Malaysia sẽ nhanh chóng nhận ra rằng công nghệ và giá cả không phải là những điều duy nhất được kiểm tra — cấu trúc sở hữu của công ty họ cũng được đánh giá. Trong một số khu vực chiến lược của đất nước, ai sở hữu một công ty có thể quyết định liệu nó có đủ điều kiện nộp đơn xin giấy phép hoặc hợp đồng hay không. Hiện tượng này bắt nguồn từ hai công cụ chính sách liên kết với nhau: các điều kiện vốn cổ phần Bumiputera và các chương trình phát triển nhà cung cấp.

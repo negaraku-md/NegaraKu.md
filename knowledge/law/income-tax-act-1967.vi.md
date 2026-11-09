@@ -81,6 +81,7 @@ relations:
   - { rel: "explained-in", to: "company-tax-calendar" }
 related: ["lhdn", "corporate-tax-rates", "personal-tax-rates", "which-tax-form", "form-c-and-cp204"]
 keywords: ["Income Tax Act 1967", "Act 53", "Akta Cukai Pendapatan 1967", "Malaysia tax statute", "LHDN legislation"]
+framework: data-reference
 ---
 
 Trang này là hồ sơ đạo luật của Act 53 — danh tính, cấu trúc, cơ quan quản lý và khuôn

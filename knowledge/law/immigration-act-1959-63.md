@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "expatriate-services-division" }
 related: ["employment-pass-malaysia"]
 keywords: ["Immigration Act 1959/63", "Act 155", "Malaysia visa", "employment pass", "overstay penalty Malaysia", "Section 15(4)", "Section 6(3)", "deportation", "dependant pass", "work permit Malaysia"]
+framework: rules
 ---
 
 A valid visa in your passport does not, on its own, let you set foot in Malaysia — and it is not the document that gets you into trouble if you stay too long. Both jobs belong to a single law: the **Immigration Act 1959/63 (Act 155)**, the statute that decides who may cross the border, what they may do once inside, and what happens when they break the terms of their stay.

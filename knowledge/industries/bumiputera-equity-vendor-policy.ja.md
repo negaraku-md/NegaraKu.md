@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "petronas" }
 related: ["new-economic-policy", "petronas"]
 keywords: ["ekuiti bumiputera", "dasar ekonomi baru", "pembangunan vendor", "PuTERA35", "PETRONAS VDP", "industri strategik", "SWEC"]
+framework: explainer
 ---
 
 マレーシアの石油・ガスプラントにサービスを提供しようとする起業家は、技術と価格だけが審査対象ではないことにすぐ気づくだろう——その企業の所有構造もまた評価されるのである。国のいくつかの戦略部門では、企業を誰が所有しているかが、ライセンスや契約に応募する資格の有無を左右しうる。この現象は、互いに関連する二つの政策手段——ブミプトラ資本要件とベンダー育成プログラム——に由来する。

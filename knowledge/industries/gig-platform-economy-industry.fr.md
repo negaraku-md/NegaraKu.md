@@ -97,6 +97,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Chaque jour, des millions de transactions en Malaisie sont organisées non par un magasin, un bureau ou une station de taxis, mais par une application : une voiture appelée au bord du trottoir, un sac de nourriture transporté à travers la ville à moto, un logo conçu pour un client que le travailleur indépendant ne rencontrera jamais. C'est l'économie du gig et des plateformes — le travail intermédié par des plateformes numériques — et en à peine plus d'une décennie, elle est passée de curiosité à l'une des caractéristiques les plus visibles de la vie active malaisienne.

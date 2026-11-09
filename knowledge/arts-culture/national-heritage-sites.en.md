@@ -72,6 +72,7 @@ relations:
   - { rel: "compares-with", to: "unesco-world-heritage-malaysia" }
 related: ["unesco-world-heritage"]
 keywords: ["warisan kebangsaan", "Akta Warisan Kebangsaan 2005", "Akta 645", "Jabatan Warisan Negara", "Daftar Warisan Kebangsaan", "WAKOH", "tapak warisan"]
+framework: explainer
 ---
 
 A century-old shophouse in George Town, a keris blade, a court dance, and a living [songket](/arts-culture/songket) maker — all four can hold the same legal title in Malaysia: *National Heritage*. What binds them is not a UNESCO list, but a domestic register whose name is rarely mentioned: the **National Heritage Register**.

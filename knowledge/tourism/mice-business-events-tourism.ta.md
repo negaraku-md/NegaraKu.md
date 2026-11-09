@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
 related: ["penang-george-town-visitor-guide", "tourist-safety-health-practical-tips"]
 keywords: ["MICE Malaysia", "business events", "MyCEB", "convention bureau", "KLCC", "MITEC", "Borneo Convention Centre Kuching", "exhibitions"]
+framework: profile
 ---
 
 ஒரு மாநாட்டிற்காக 3.2 மில்லியன் பிரதிநிதிகள் விமானத்தில் வரும்போது, அவர்கள் விடுதிகளை முன்பதிவு செய்கிறார்கள், மொழிபெயர்ப்பாளர்களை அமர்த்துகிறார்கள், உணவகங்களை நிரப்புகிறார்கள், ஒப்பந்தங்களில் கையெழுத்திடுகிறார்கள் — மேலும் அவர்களைப் பிடித்துக்கொள்வதற்கான மையங்களையும் பணியகத்தையும் கட்டியெழுப்ப மலேசியா ஒரு தசாப்தத்திற்கும் மேலாக செலவிட்டுள்ளது.

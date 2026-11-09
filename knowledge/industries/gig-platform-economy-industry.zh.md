@@ -97,6 +97,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 在马来西亚，每天有数以百万计的交易不是由商店、办公室或德士站安排的，而是由一个应用安排的：一辆被召唤到路边的车、一袋由摩托车载着穿城而过的食物、一个为素未谋面的客户设计的标志。这就是零工与平台经济——经由数字平台中介的工作——在短短十余年间，它已从新奇事物变成马来西亚职场生活最可见的特征之一。

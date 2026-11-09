@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "cultural-heritage-tourism-malaysia" }
 related: ["cultural-heritage-tourism-malaysia"]
 keywords: ["kopitiam", "kopi", "teh tarik", "kopi-O", "kopi-C", "mamak", "minuman Malaysia"]
+framework: explainer
 ---
 
 당신은 카운터를 향해 손가락을 가리키며 「코피-O 펭, 하나!」라고 외칩니다 — 그런데 어찌 된 일인지 낡은 에스프레소 기계 뒤의 아저씨는 당신이 원하는 것을 정확히 알아듣습니다. 코피티암 주문 언어는 비밀 암호처럼 보이지만, 사실은 깔끔하고 논리적인 하나의 체계입니다.

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "getting-around-malaysia" }
 related: ["getting-around-malaysia"]
 keywords: ["Malaysia travel tips", "999 emergency Malaysia", "Malaysia SIM card tourist", "Malaysia monsoon season", "Malaysia travel vaccinations", "tipping in Malaysia"]
+framework: explainer
 ---
 
 Bạn đã hạ cánh, bạn mệt vì lệch múi giờ, và điện thoại của bạn không hiện sóng. Trước khi bạn lo lắng về món nasi lemak hoàn hảo, hãy giải quyết những thứ nhàm chán-nhưng-quan trọng — một chiếc SIM hoạt động, đúng số khẩn cấp, và biết liệu trời có sắp đổ mưa hay không. Đây là danh sách ngắn đã được kiểm chứng.

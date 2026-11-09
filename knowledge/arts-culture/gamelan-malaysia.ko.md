@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "mak-yong" }
 related: ["pahang", "terengganu", "joget-and-zapin", "mak-yong"]
 keywords: ["gamelan Melayu", "gamelan Terengganu", "gamelan Pahang", "joget gamelan", "Tengku Ampuan Mariam", "muzik istana", "warisan kebangsaan"]
+framework: history-culture
 ---
 
 그 가믈란 한 벌은 매매나 약탈이 아니라 — 혼인 때문에 한 궁정에서 다른 궁정으로 옮겨 갔습니다. 한 공주가 남편의 궁으로 옮겨 갈 때, 악기와 무용수와 노래가 함께 따라갔습니다. 그렇게 하여 가믈란은 말레이 궁정의 것이 되었습니다.

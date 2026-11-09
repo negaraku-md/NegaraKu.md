@@ -96,6 +96,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Malaysia tidak memiliki universitas riset yang mendalam atau kedalaman modal ventura seperti Boston atau Shanghai, tetapi ia memiliki tiga hal yang menjadikan bioteknologi taruhan jangka panjang yang logis: salah satu khazanah keanekaragaman hayati tropis terkaya di dunia, aliran biomassa minyak sawit dan pertanian yang sangat besar, serta otoritas yang diakui secara global dalam sertifikasi halal. Selama lebih dari dua dekade pemerintah telah berupaya mengubah anugerah itu menjadi industri ilmu hayati modern. Panduan ini menjelaskan bagaimana upaya itu diorganisasi, apa yang telah dibangunnya, dan ke mana arahnya.

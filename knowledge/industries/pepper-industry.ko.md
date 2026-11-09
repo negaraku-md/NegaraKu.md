@@ -109,6 +109,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 후추는 말레이시아에서 가장 오래되고 가장 지리적으로 특색 있는 농산물 중 하나다. 인도 아대륙과 수마트라에서 들여온 이 덩굴은 사라왁의 습하고 배수가 잘되는 언덕에서 이상적 보금자리를 찾았고, 그곳에서 수천 소규모 농가의 중추가 되었다. 말레이시아는 세계 물량 기준으로는 미미한 주자이지만, 안목 있는 시장에 프리미엄 원산지 인증 "사라왁 후추(Sarawak Pepper)"를 팔며 명성에서는 체급 이상의 실력을 발휘한다. 이 글은 독립 산업으로서 이 부문의 구조, 지리, 교역, 전망을 다룬다.

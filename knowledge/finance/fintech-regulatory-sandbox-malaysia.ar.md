@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "securities-commission-malaysia" }
 related: ["bank-negara-malaysia", "securities-commission-malaysia"]
 keywords: ["البيئة التنظيمية التجريبية", "regulatory sandbox", "التقنية المالية ماليزيا", "fintech Malaysia", "BNM sandbox", "Innovation Green Lane", "SC sandbox", "FTEG", "التقنية المالية سوق رأس المال"]
+framework: explainer
 ---
 
 ابنِ تطبيق مدفوعات جديدًا أو منصة أوراق مالية مرمَّزة في ماليزيا، وستصطدم بالجدار نفسه: فالقواعد كُتبت قبل أن توجد فكرتك. والبيئة التنظيمية التجريبية هي الباب عبر ذلك الجدار — مساحة خاضعة للإشراف لاختبار منتج حيّ قبل أن تحمل ترخيصًا كاملًا. ولدى ماليزيا اثنتان منها، وأيّهما تطرق بابه يعتمد على ما تبنيه.

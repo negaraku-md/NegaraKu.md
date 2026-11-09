@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: ["sst"]
 keywords: ["halal certification Malaysia", "JAKIM halal", "MYeHALAL", "halal logo Malaysia", "halal certification fee", "Trade Descriptions Order 2011"]
+framework: how-to
 ---
 
 Put a halal logo on your packaging without JAKIM's certificate and you are not just cutting a corner — you are committing an offence. In Malaysia the halal claim is regulated by law, and the paperwork now lives entirely online.

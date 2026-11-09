@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "approved-company-auditor-malaysia" }
 related: ["foreign-company-registration-malaysia"]
 keywords: ["foreign company", "branch", "audited accounts", "SSM", "Companies Act 2016", "section 575", "financial statements", "Malaysia"]
+framework: rules
 ---
 
 マレーシアで支店を開設しても、外国会社が監査の網から外れるわけではない——むしろその会社を二重に引き込むことになる。毎年、マレーシア企業委員会（SSM）に監査済み計算書類を提出しなければならない：一度は会社全体について、そしてもう一度、別個に、その支店がマレーシア国内で実際に行っている業務について。

@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry" }
 related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
+framework: profile
 ---
 
 El caucho que construyó la Malaya colonial ya no se gana la vida en la plantación — se la gana en la fábrica. Malasia sigue extrayendo de los árboles, pero su fortuna del caucho cabalga ahora sobre los guantes médicos, los neumáticos y los productos de látex que fabrica, un negocio que procesa más caucho del que el propio país cultiva.

@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "rukun-negara" }
 related: ["federal-constitution", "yang-di-pertuan-agong", "majlis-raja-raja", "court-hierarchy", "rukun-negara"]
 keywords: ["Article 3 Federal Constitution Malaysia", "Islam religion of the Federation", "Article 11 freedom of religion Malaysia", "Perkara 3 Perlembagaan Persekutuan", "Article 121(1A)", "Syariah courts jurisdiction Malaysia", "freedom of religion Malaysia constitution"]
+framework: explainer
 ---
 
 கூட்டமைப்பு அரசியலமைப்பின் இரு விதிமுறைகள் ஒன்றையொன்று அடுத்து அமைந்துள்ளன, தொடர்ந்து மேற்கோள் காட்டப்படுகின்றன, ஆனால் அரிதாகவே முழுமையாக. இதோ அந்த உரை.

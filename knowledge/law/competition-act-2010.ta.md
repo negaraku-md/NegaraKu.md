@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "how-a-bill-becomes-law" }
 related: ["consumer-protection-act", "companies-act-2016", "how-a-bill-becomes-law"]
 keywords: ["Competition Act 2010", "MyCC", "Malaysia Competition Commission", "anti-competitive agreements", "abuse of dominance", "cartel", "price fixing", "bid rigging", "Section 4", "Section 10"]
+framework: rules
 ---
 
 ஐந்து கோழித்தீவன ஆலைகள் அமைதியாக ஒத்துக்கொண்டு ஒன்றுசேர்ந்து தங்கள் விலைகளை உயர்த்தியபோது, அது இறுதியில் மார்க்கெட்டில் ஒரு கோழியின் விலையில் வெளிப்பட்டது. 2023 டிசம்பரில், மலேசியாவின் போட்டி ஒழுங்குமுறை அமைப்பு அவற்றுக்கு மொத்தமாக RM415.5 million அபராதம் விதித்தது — இது நாட்டின் வரலாற்றிலேயே மிகப்பெரிய போட்டி அபராதம் — பல வணிகங்கள் இன்னும் அரிதாகவே அதன் இருப்பை அறிந்திருக்கும் ஒரு சட்டத்தை மீறியதற்காக.

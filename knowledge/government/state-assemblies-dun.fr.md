@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "majlis-raja-raja" }
 related: ["dewan-rakyat", "federal-state-division", "spr-election-commission", "majlis-raja-raja", "federal-constitution"]
 keywords: ["Dewan Undangan Negeri", "DUN", "badan perundangan negeri", "Huitième Annexe", "Jadual Kelapan", "Article 71", "Perkara 71", "dispositions essentielles", "Yang di-Pertua Negeri", "Menteri Besar", "enactment d'État", "State Legislative Assembly Malaysia"]
+framework: explainer
 ---
 
 La terre est une matière relevant de l'État. Le droit de la famille islamique est une

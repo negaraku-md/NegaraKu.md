@@ -90,6 +90,7 @@ keywords:
   - "kadar LKM kW"
   - "cukai jalan kenderaan elektrik JPJ"
   - "road tax EV Malaysia"
+framework: explainer
 ---
 
 ยุคของภาษีถนนฟรีสำหรับรถยนต์ไฟฟ้าในมาเลเซียได้สิ้นสุดลงแล้ว — แต่บิลใบแรกที่ปรากฏใน MyJPJ ของคุณอาจถูกกว่าที่คุณคิด และมันคำนวณด้วยวิธีที่ใหม่จริง ๆ

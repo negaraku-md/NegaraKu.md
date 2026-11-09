@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "petroleum-income-tax" }
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["oil and gas Malaysia", "PETRONAS", "production sharing contract", "PSC", "Petroleum Development Act 1974", "Malaysia Petroleum Management", "upstream", "downstream", "LNG", "petroleum income tax"]
+framework: profile
 ---
 
 マレーシアの土地と海底の下に眠る石油の一滴、天然ガスの一立方フィートに至るまで、法律上はすべて一つの会社に帰属する。国家が直接ではなく、油田の発見者でもなく、それを掘削する多国籍企業でもない——国家の石油を信託として保管するために設立された国営石油会社、Petronasである。この一点を理解すれば、マレーシアの石油・ガス産業の残りの部分——それがどのように規制され、資金調達され、課税され、分配されるか——は自然と腑に落ちる。

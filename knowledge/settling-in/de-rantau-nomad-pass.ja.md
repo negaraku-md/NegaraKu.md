@@ -70,6 +70,7 @@ relations:
   - { rel: "compares-with", to: "employment-pass" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "professional-visit-pass"]
 keywords: ["DE Rantau", "digital nomad visa Malaysia", "nomad pass", "MDEC", "Professional Visit Pass", "remote work Malaysia"]
+framework: explainer
 ---
 
 マレーシア国外に拠点を置く雇用主または顧客のためにリモートワークをしている場合、まさにそのために設計された準証のもとで、合法的にマレーシアに居住し働くことができる。それが **デ・ラントウ・ノマドパス（DE Rantau Nomad Pass）** である。

@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "malay-woodcarving" }
 related: []
 keywords: ["rumah Melayu", "rumah panggung", "architecture vernaculaire", "bumbung panjang", "tebar layar", "rumah panjang", "kampung", "patrimoine"]
+framework: history-culture
 ---
 
 Soulevez une vieille maison de kampung, démontez ses assemblages et remontez-la sur un nouveau site, en grande partie sans aucune fondation fixe en béton. Telle est la sagesse de l'architecture malaise traditionnelle : une maison qui «lit» le climat tropical bien avant l'existence de la climatisation.

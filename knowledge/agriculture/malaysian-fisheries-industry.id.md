@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "mmea" }
 related: []
 keywords: ["industri perikanan malaysia", "pengeluaran ikan malaysia", "akuakultur malaysia", "lkim nelayan", "jabatan perikanan malaysia", "akta perikanan 1985", "pencerobohan bot nelayan asing", "iuu fishing malaysia"]
+framework: profile
 ---
 
 Sebelum subuh di dermaga sepanjang Selat Melaka dan Laut China Selatan, ribuan

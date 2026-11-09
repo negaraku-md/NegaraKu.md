@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "mak-yong" }
 related: ["pahang", "terengganu", "joget-and-zapin", "mak-yong"]
 keywords: ["gamelan Melayu", "gamelan Terengganu", "gamelan Pahang", "joget gamelan", "Tengku Ampuan Mariam", "musique de cour", "patrimoine national"]
+framework: history-culture
 ---
 
 Le jeu de gamelan est passé d'une cour à l'autre non pas à la suite d'une vente ou d'une saisie — mais à la faveur d'un mariage. Lorsqu'une princesse rejoignait le palais de son époux, les instruments, les danseurs et les chants s'y rendaient avec elle. C'est ainsi que le gamelan est devenu la propriété des cours malaises.

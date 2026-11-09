@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "public-vs-private-healthcare" }
 related: []
 keywords: ["telemedicine Malaysia", "online doctor", "teleconsultation", "DoctorOnCall", "MMC guideline", "e-prescription", "Telemedicine Act 1997"]
+framework: explainer
 ---
 
 Anda membuka sebuah aplikasi, membuat panggilan video dengan doktor dari sofa anda, dan preskripsi sampai ke peti masuk anda sejam kemudian. Di Malaysia, itu adalah sah sepenuhnya — tetapi buku peraturan di sebaliknya bukanlah undang-undang yang mungkin anda jangkakan.

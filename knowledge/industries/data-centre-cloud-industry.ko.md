@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "johor-singapore-special-economic-zone" }
 related: ["johor-singapore-special-economic-zone"]
 keywords: ["Malaysia data centre", "cloud infrastructure", "Johor data centre", "DESAC incentive", "data centre power water", "hyperscale Malaysia"]
+framework: profile
 ---
 
 2019년, 싱가포르는 대형 신규 데이터센터의 승인을 중단했습니다. 4년 안에, 싱가포르가 돌려보낸 서버들은 코즈웨이(Causeway) 건너 20분 거리에 새로운 산업을 세웠고 — 조호르는 조용한 말레이시아의 한 주(州)에서 동남아시아에서 가장 분주한 데이터센터 시장으로 바뀌었습니다.

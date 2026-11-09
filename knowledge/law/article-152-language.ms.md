@@ -55,6 +55,7 @@ relations:
   - { rel: "governs", to: "bahasa-melayu" }
 related: ["federal-constitution", "bahasa-melayu"]
 keywords: ["Article 152 Federal Constitution", "national language Malaysia", "Perkara 152", "official purpose Malaysia", "National Language Acts 1963/67", "Article 161 Sabah Sarawak English"]
+framework: explainer
 ---
 
 Baca Perkara 152 bersama-sama dengan bahagian lain Perlembagaan, dan satu rujukan silang menonjol. Perkara 161(5) bermula dengan kata-kata "Notwithstanding anything in Article 152" ("Walau apa pun peruntukan dalam Perkara 152"), dan kemudian membenarkan sesuatu bahasa asli yang digunakan pada masa itu di Sabah atau Sarawak untuk digunakan di mahkamah anak negeri atau bagi mana-mana kanun undang-undang dan adat anak negeri. Dengan kata lain, perkara bahasa kebangsaan itu sendiri terletak dalam sebuah dokumen yang menamakan pengecualiannya sendiri terhadapnya.

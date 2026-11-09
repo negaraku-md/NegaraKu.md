@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["macc-sprm", "employment-act-1955"]
 keywords: ["loi de protection des lanceurs d'alerte 2010", "act 711", "conduite répréhensible", "lanceur d'alerte Malaisie", "acte préjudiciable", "révocation article 11", "révélation MACC"]
+framework: explainer
 ---
 
 Signalez un pot-de-vin au travail et le droit malaisien peut garder votre nom secret, vous mettre à l'abri d'être poursuivi, et rendre illégal le fait que votre patron vous licencie pour cela. Mais faites un seul faux pas — aller d'abord voir la presse, ou s'avérer que vous avez vous-même trempé dans le stratagème — et chacune de ces protections peut vous être retirée. C'est la conception délibérée de la loi de 2010 sur la protection des lanceurs d'alerte.

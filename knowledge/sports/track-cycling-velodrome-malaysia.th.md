@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "azizulhasni-awang" }
 related: []
 keywords: ["velodrom nasional", "Nilai", "lumba basikal trek", "keirin", "Azizulhasni Awang", "MNCF", "Majlis Sukan Negara"]
+framework: profile
 ---
 
 สนามมีหลังคายาวที่ขอบเมืองนีไลตอนนี้เป็นที่ที่นักจักรยานที่เร็วที่สุดของมาเลเซียขัดเกลาการวิ่งของตน และมันถูกสร้างขึ้นโดยเฉพาะเพื่อผลิตแชมป์จักรยานลู่โลกให้มากขึ้น

@@ -63,6 +63,7 @@ wikidata: "Q28163620"
 relations: []
 related: []
 keywords: ["Financial Services Act 2013", "FSA 2013", "FSA Malaysia", "Act 758", "Bank Negara Malaysia financial regulation", "financial institutions regulation Malaysia", "consumer protection financial services Malaysia", "unlicensed financial business penalty Malaysia", "IFSA 2013", "payment systems regulation Malaysia"]
+framework: explainer
 ---
 
 Mỗi lần bạn chạm một ví điện tử, vay mua xe hay mua một gói takaful, bạn đang giao dịch với một doanh nghiệp chịu trách nhiệm trước một cơ quan quản lý — **Bank Negara Malaysia (BNM)** — nhờ một luật. **Financial Services Act 2013 (FSA)**, được trích dẫn là **Act 758**, là đạo luật nền tảng của Malaysia cho khu vực tài chính thông thường. Nó áp dụng trên toàn Malaysia, được BNM quản lý và thực thi, và có hiệu lực từ ngày **30 tháng 6 năm 2013**. Hầu hết các bài giải thích viết cho luật sư dừng lại ở danh sách các đạo luật bị bãi bỏ. Bài này trả lời câu hỏi mà một người Malaysia bình thường thực sự có: FSA có ý nghĩa gì đối với tiền của bạn, quyền của bạn, và những người trông coi nó?

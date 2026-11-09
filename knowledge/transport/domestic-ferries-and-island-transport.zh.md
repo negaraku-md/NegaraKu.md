@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "domestic-flights-and-regional-air-travel" }
 related: []
 keywords: ["Penang ferry", "Langkawi ferry", "Tioman ferry", "island transport Malaysia", "Kuala Kedah", "Kuala Perlis", "northeast monsoon", "Pangkor ferry", "Labuan ferry"]
+framework: explainer
 ---
 
 马来西亚没有单一的全国性渡轮线路。要抵达一座岛屿，就得知道由哪条短程航线、哪个码头、哪家营运商来服务它——而在东海岸，还要知道那个月份海面是否开放通航。

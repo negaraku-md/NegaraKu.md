@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "capital-gains-tax" }
 related: ["service-tax-on-digital-services-stods", "capital-or-revenue", "capital-gains-tax"]
 keywords: ["cryptocurrency tax Malaysia", "crypto tax LHDN", "digital currency tax", "badges of trade crypto", "bitcoin tax Malaysia"]
+framework: explainer
 ---
 
 Hai người bán cùng một Bitcoin vào cùng một ngày và bỏ túi cùng một khoản lãi. Một người không nợ gì; người kia nợ thuế thu nhập. Ở Malaysia, cái phân biệt họ không phải là đồng coin — mà là liệu cơ quan thuế có thấy một hoạt động thương mại hay không.

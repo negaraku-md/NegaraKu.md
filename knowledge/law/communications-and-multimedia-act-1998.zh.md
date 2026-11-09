@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "sedition-act-1948" }
 related: ["federal-constitution"]
 keywords: ["akta komunikasi dan multimedia 1998", "seksyen 233", "SKMM", "MCMC", "penyalahgunaan kemudahan rangkaian", "pertuturan dalam talian", "kebebasan bersuara", "akta 588"]
+framework: explainer
 ---
 
 在马来西亚，一则脸书（Facebook）留言、一条推文，或一则被转发的WhatsApp讯息，都可能成为刑事起诉的依据。此类情况中最常被援引的法律条文，既不是《煽动法令》，也不是诽谤法，而是1998年通讯与多媒体法令第233条。

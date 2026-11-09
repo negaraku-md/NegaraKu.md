@@ -98,6 +98,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 La Malaisie est située sur deux des voies maritimes les plus fréquentées du monde et tire une grande partie de ses revenus de la mer — pourtant son industrie de construction et de réparation navales (SBSR) est l'un des coins les plus discrets de l'économie nationale. Elle est réelle, ancienne et stratégiquement importante, mais aussi fragmentée, cyclique et dominée par des chantiers relativement petits. Ce guide explique ce que l'industrie construit, où, quelle est sa taille, et pourquoi un seul programme militaire en est venu à éclipser tout le secteur dans le débat public.

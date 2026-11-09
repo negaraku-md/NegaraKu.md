@@ -103,6 +103,7 @@ entity: "Stamp Act 1949 (Act 378, Malaysia)"
 relations: []
 related: []
 keywords: ["stamp act 1949", "stamp duty malaysia", "LHDN stamp duty", "ad valorem duty", "fixed duty", "memorandum of transfer stamp duty", "MOT stamp duty", "loan agreement stamp duty", "tenancy agreement stamp duty", "e-stamping malaysia", "stamp duty self assessment", "stamp duty calculator malaysia", "stamp duty penalty", "stamp duty exemption", "Act 378"]
+framework: rules
 ---
 
 임대차를 체결하거나, 주택 대출을 받거나, 소유권을 이전하거나, 중개인을 통해 주식을 사면 — 서류 어딘가에 결코 눈치채지 못했을 세금이 자리합니다. 그 세금이 **인지세**이며, 그 배후의 법이 **인지세법 1949(Stamp Act 1949, Act 378)**입니다. 특이한 점은 그 대상입니다. 인지세는 그것이 기록하는 거래가 아니라 **증서** — 서면 문서 자체 — 에 부과됩니다. 문서에 날인하면 법정에서 효력을 가지며, 날인하지 않으면 인쇄된 종이 값 이상의 가치를 갖지 못할 수 있습니다.

@@ -54,6 +54,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["federal-constitution", "majlis-raja-raja", "ma63", "article-152-language", "fundamental-liberties"]
 keywords: ["Article 159 Constitution fédérale", "amender la Constitution Malaisie", "majorité des deux tiers Parlement", "consentement du Conseil des souverains", "Article 161E Sabah Sarawak", "Perkara 159", "amendement constitutionnel Malaisie"]
+framework: explainer
 ---
 
 L'article 159 commence par se soumettre à ses propres règles. La clause (5) énumère les dispositions qui ne peuvent être amendées sans le consentement du Conseil des souverains — et le dernier élément de cette liste est « cette clause » elle-même. La procédure d'amendement protège sa propre procédure d'amendement. Ce seul détail révèle que la Constitution fédérale n'a jamais été conçue pour être changée par une seule règle simple.

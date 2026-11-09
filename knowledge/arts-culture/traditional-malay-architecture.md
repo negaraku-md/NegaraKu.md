@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "malay-woodcarving" }
 related: []
 keywords: ["rumah Melayu", "rumah panggung", "senibina vernakular", "bumbung panjang", "tebar layar", "rumah panjang", "kampung", "warisan"]
+framework: history-culture
 ---
 
 Angkat sebuah rumah kampung tua, leraikan sambungannya, dan pasang semula di tapak baharu — sebahagian besar tanpa asas konkrit yang tetap. Itulah kebijaksanaan seni bina Melayu tradisional: sebuah rumah yang "membaca" iklim tropika sebelum wujudnya penghawa dingin.

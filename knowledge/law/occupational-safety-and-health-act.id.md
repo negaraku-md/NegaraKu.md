@@ -81,6 +81,7 @@ relations:
   - { rel: "supersedes", to: "factories-and-machinery-act-1967" }
 related: ["labour-law-map-malaysia", ]
 keywords: ["OSHA 1994", "Akta 514", "tanggungjawab majikan", "DOSH", "penilaian risiko", "JKKP 6", "keselamatan pekerjaan"]
+framework: rules
 ---
 
 Seorang pekerja jatuh dari perancah, dan pertanyaan pertama penyidik bukanlah "siapa yang lalai" — tetapi "apakah pemberi kerja telah melakukan segala yang praktis untuk menghindarinya?" Itulah inti Occupational Safety and Health Act 1994 (Act 514), atau OSHA 1994.

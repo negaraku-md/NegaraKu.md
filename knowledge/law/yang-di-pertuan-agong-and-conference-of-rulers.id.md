@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malay-rulers-and-state-monarchies" }
 related: ["federal-constitution"]
 keywords: ["Yang di-Pertuan Agong", "Majlis Raja-Raja", "Conference of Rulers", "Perkara 32", "Perkara 38", "raja berperlembagaan", "Ketua Negara"]
+framework: explainer
 ---
 
 Malaysia adalah salah satu dari segelintir negara di dunia yang rajanya dipilih secara bergilir, bukan diwariskan seorang demi seorang dari satu keturunan. Setiap lima tahun, sembilan Raja Melayu berkumpul untuk menentukan siapa di antara mereka yang akan menyandang takhta Federasi sebagai Yang di-Pertuan Agong. Sistem ini, bersama institusi yang menjalankannya yaitu Majlis Raja-Raja, membentuk inti monarki konstitusional negara.

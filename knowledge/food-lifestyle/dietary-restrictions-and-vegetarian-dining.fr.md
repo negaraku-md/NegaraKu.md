@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-in-malaysia" }
 related: ["halal-certification-in-malaysia"]
 keywords: ["nourriture halal Malaisie", "halal food Malaysia", "logo halal JAKIM", "végétarien Malaisie", "cuisine végane Malaisie", "restrictions alimentaires Malaisie", "végétarien bouddhiste", "sans bœuf"]
+framework: explainer
 ---
 
 Se mettre à table en Malaisie, c'est partager la table avec quatre cultures culinaires à la fois — malaise, chinoise, indienne, et les traditions qui ont grandi entre elles. Cette variété est un cadeau si vous avez des besoins alimentaires, et un petit champ de mines si vous ne connaissez pas les signaux. Voici comment les lire.

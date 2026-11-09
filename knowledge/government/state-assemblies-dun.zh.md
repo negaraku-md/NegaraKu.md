@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "majlis-raja-raja" }
 related: ["dewan-rakyat", "federal-state-division", "spr-election-commission", "majlis-raja-raja", "federal-constitution"]
 keywords: ["Dewan Undangan Negeri", "DUN", "badan perundangan negeri", "Jadual Kelapan", "Perkara 71", "peruntukan penting", "Yang di-Pertua Negeri", "Menteri Besar", "enakmen negeri", "State Legislative Assembly Malaysia"]
+framework: explainer
 ---
 
 土地是州事项。伊斯兰家庭法是州事项。地方政府是州事项。但究竟是谁在一个州属真正通过有关这些事项的法律，又依循什么规则？答案并非仅止于惯例或做法——它逐节写明在联邦宪法末尾的一份附表之中。

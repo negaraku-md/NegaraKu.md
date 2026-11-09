@@ -73,6 +73,7 @@ wikidata: "Q27962026"
 relations: []
 related: []
 keywords: ["Road Transport Act 1987", "Act 333", "Akta Pengangkutan Jalan 1987", "RTA 1987", "JPJ", "driving without licence Malaysia", "traffic offences Malaysia", "DUI Malaysia penalty", "Road Transport Amendment Act 2020", "dangerous driving Malaysia", "Section 41 RTA", "Section 44 RTA"]
+framework: rules
 ---
 
 말레이시아의 거의 모든 JPJ *벌금 고지서(saman)*, 모든 운전면허 등급, 그리고 모든 제3자 보험 증권은 하나의 법률로 거슬러 올라갑니다: **도로교통법 1987(Road Transport Act 1987, Act 333)**, 말레이어로는 *Akta Pengangkutan Jalan 1987*입니다. 이는 자동차와 도로 교통에 관한 국가의 주된 법률이며, 주로 **도로교통국(Jabatan Pengangkutan Jalan, JPJ)**이 집행합니다. 아래는 각 편(Part)이 무엇을 규율하는지, 그리고 흔한 범죄가 이제 얼마의 비용을 초래하는지에 대한 쉬운 설명 지도입니다.

@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "manufacturing-licence-malaysia" }
 related: ["manufacturing-licence-malaysia"]
 keywords: ["Environmental Quality Act 1974", "Act 127", "Act A1712", "Department of Environment", "EIA Malaysia", "prescribed premises", "environmental penalties Malaysia", "open burning Malaysia", "scheduled waste", "पर्यावरण गुणवत्ता अधिनियम", "मलेशिया में पर्यावरण दंड", "खुले में जलाना", "अनुसूचित अपशिष्ट"]
+framework: rules
 ---
 
 मलेशिया में किसी नदी में एक ही रिसाव अब किसी कंपनी को RM10 मिलियन तक का खर्च करा सकता है और जिम्मेदार व्यक्ति को सलाखों के पीछे पहुँचा सकता है — और पहले के विपरीत, न्यायाधीश के पास अब केवल जुर्माना सुनाने का विवेकाधिकार नहीं रहा। 7 जुलाई 2024 से प्रभावी वह बदलाव आधी सदी में मलेशिया के पर्यावरण कानून में सबसे तीखा परिवर्तन है, और यह एक ऐसे कानून के भीतर बैठा है जिसके साथ अधिकांश प्रचालक 1974 से चुपचाप जी रहे हैं।

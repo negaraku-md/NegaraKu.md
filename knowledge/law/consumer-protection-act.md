@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["contracts-act-1950", "court-hierarchy", "companies-act-2016"]
 keywords: ["Consumer Protection Act 1999", "Act 599", "Tribunal for Consumer Claims", "TTPM", "consumer rights Malaysia", "KPDN", "consumer claim RM50000"]
+framework: data-reference
 ---
 
 A phone that dies in week two. A renovation contractor who takes the deposit and

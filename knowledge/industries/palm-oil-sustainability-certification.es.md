@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry-malaysia" }
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "RSPO", "EUDR", "sustainable palm oil", "MS 2530:2022", "MPOCC", "forced labour", "deforestation", "palm oil certification"]
+framework: explainer
 ---
 
 Un solo envío de aceite de palma malasio tiene ahora que responder a tres reglamentos distintos a la vez: un esquema nacional obligatorio en casa, un club voluntario de compradores en la sala de juntas y una ley europea sobre deforestación que puede bloquearlo en el puerto. Para una industria que embarcó 22.30 millones de toneladas de aceite de palma y productos a base de palma solo en los diez primeros meses de 2024 — generando RM89.39 mil millones — el papeleo ya no es una formalidad. Es acceso al mercado.

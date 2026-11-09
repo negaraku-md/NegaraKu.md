@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
 related: ["companies-act-2016"]
 keywords: ["responsabilidad secretario de empresa", "liabiliti setiausaha syarikat", "delitos secretario de empresa", "declaración falsa", "sección 591", "Companies Act 2016", "Akta Syarikat 2016", "directivo de la empresa", "Borang 49"]
+framework: rules
 ---
 
 Una sola firma en un formulario de la SSM puede sentar a un secretario de empresa en el banquillo — no solo a la empresa o a sus directores. Un documento defectuoso, aun firmado por instrucciones de los directores, sigue siendo la responsabilidad personal de quien lo presentó.

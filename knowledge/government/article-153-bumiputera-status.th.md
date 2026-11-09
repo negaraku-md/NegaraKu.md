@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["federal-constitution", "majlis-raja-raja", "constitutional-amendment", "new-economic-policy", "ma63"]
 keywords: ["Perkara 153", "Article 153", "kedudukan istimewa orang Melayu", "special position of the Malays", "Bumiputera", "anak negeri Sabah Sarawak", "kepentingan sah kaum lain", "perkadaran yang munasabah", "kuota Perlembagaan Malaysia", "Perkara 153 Perlembagaan Persekutuan", "takrif orang Melayu Perkara 160"]
+framework: explainer
 ---
 
 หลายคนอ้างถึงมาตรา 153 แต่มีน้อยคนที่เคยอ่านวรรคต่าง ๆ ของมาตรานี้จริง บ้างเรียกว่า "สิทธิพิเศษของชาวมลายู" บ้างเรียกว่า "โควตา" และบ้างเรียกว่า "การเลือกปฏิบัติ" — ทว่าตัวบทที่แท้จริงของมาตรานี้ไม่ได้ใช้ถ้อยคำใด ๆ เหล่านั้นเลย มาตรานี้กำหนดหน้าที่ประการหนึ่ง วางข้อจำกัดหลายประการ และ — สิ่งที่แทบไม่มีใครพูดถึง — ระบุกลุ่มบุคคลสองกลุ่มที่ต้องได้รับการคุ้มครองไปพร้อมกัน

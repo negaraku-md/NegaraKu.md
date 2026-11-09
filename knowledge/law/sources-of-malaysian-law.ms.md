@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "court-hierarchy" }
 related: ["federal-constitution", "common-law-in-malaysia", "civil-and-syariah-courts", "how-a-bill-becomes-law", "national-land-code", "court-hierarchy"]
 keywords: ["sources of Malaysian law", "Malaysian legal system", "Federal Constitution supremacy", "Article 4(1)", "Ninth Schedule Federal List State List", "Civil Law Act 1956", "Islamic law Malaysia", "adat Adat Perpatih Adat Temenggong", "customary law Malaysia", "hierarchy of law Malaysia"]
+framework: explainer
 ---
 
 Sesebuah mahkamah Malaysia yang membicarakan satu pertikaian kekeluargaan tunggal, pada prinsipnya, mungkin perlu merujuk kepada empat badan undang-undang yang berbeza sebelum ia langsung sampai kepada fakta kes itu: satu peruntukan perlembagaan, satu statut persekutuan, satu kaedah ekuiti Inggeris yang diwarisi, dan — jika pihak-pihak itu ialah orang Melayu Negeri Sembilan di bawah Adat Perpatih — satu adat yang mempunyai kuat kuasa undang-undang di sebaliknya. Tiada satu pun daripada itu adalah kes tepi yang hipotesis semata-mata. Itulah seni bina biasa sistem ini.

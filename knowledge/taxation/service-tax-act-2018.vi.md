@@ -101,6 +101,7 @@ entity: "Service Tax Act 2018 (Act 807)"
 relations: []
 related: []
 keywords: ["Service Tax Act 2018", "Act 807", "service tax Malaysia", "SST", "service tax rate", "8% service tax", "6% service tax", "SST registration threshold", "SST-02", "taxable services", "service tax scope expansion 2025", "Royal Malaysian Customs Department", "MySST", "imported taxable services", "digital service tax Malaysia"]
+framework: rules
 ---
 
 Mọi hóa đơn nhà hàng, gói điện thoại và biên lai đỗ xe tại Malaysia đều mang một dòng

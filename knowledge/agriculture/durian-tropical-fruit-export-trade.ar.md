@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "external-trade" }
 related: ["palm-oil-sector", "external-trade", "rubber"]
 keywords: ["تصدير الدوريان الماليزي", "Musang King", "Black Thorn durian", "بروتوكول الدوريان مع الصين", "المؤشر الجغرافي للدوريان", "myGAP durian", "fresh durian export China", "Malaysia durian export"]
+framework: profile
 ---
 
 على مدى أكثر من عقد، لم يكن الدوريان الماليزي يدخل الصين إلا مجمّدًا أو معالَجًا إلى لبّ ومعجون. ثم، في منتصف 2024، نالت ماليزيا حقًّا سعت إليه سنوات: حق شحن الدوريان الكامل الطازج إلى أكبر سوق للدوريان على وجه الأرض.

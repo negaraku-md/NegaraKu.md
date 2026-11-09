@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "statutory-demand-section-466-malaysia" }
 related: ["companies-act-2016"]
 keywords: ["winding up by court", "compulsory winding up", "section 466", "statutory demand", "Fortuna injunction", "RM50000 threshold", "Companies Act 2016", "insolvency Malaysia", "creditor petition"]
+framework: explainer
 ---
 
 ใบแจ้งหนี้ที่ยังไม่ได้รับชำระอาจยุติบริษัทได้ ในมาเลเซีย เจ้าหนี้ที่มีสิทธิได้รับชำระเกิน RM50,000 ไม่จำเป็นต้องมีคำพิพากษาเพื่อเอื้อมไปหาการเยียวยาที่รุนแรงที่สุดในกฎหมายพาณิชย์ — คำสั่งศาลให้ชำระบัญชีลูกหนี้และแบ่งสิ่งที่เหลืออยู่

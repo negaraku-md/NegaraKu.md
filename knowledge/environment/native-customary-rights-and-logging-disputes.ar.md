@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "orang-asal-indigenous-peoples" }
 related: []
 keywords: ["حقوق السكان الأصليين العرفية", "native customary rights", "أرض NCR", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "نزاعات قطع الأخشاب", "logging disputes", "native title"]
+framework: explainer
 ---
 
 يقول مجتمع يسكن بيتًا طويلًا (longhouse) إن رقعة من الغابة ملك له منذ أجيال. وتحمل شركة أخشاب أو مزارع ترخيصًا، صادرًا عن الولاية، يشمل الأرض نفسها. ويستند كلاهما إلى القانون. وفي ساراواك وصباح، جرى الجدال في هذا التصادم داخل قاعات المحاكم أكثر من عقدين — ولم تتفق المحاكم دائمًا على موضع الخط الفاصل.

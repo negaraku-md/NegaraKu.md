@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "medical-act-1971" }
 related: []
 keywords: ["pengguguran", "undang-undang pengguguran Malaysia", "Seksyen 312 Kanun Keseksaan", "penamatan kehamilan", "Akta Perubatan 1971", "garis panduan KKM"]
+framework: explainer
 ---
 
 หลายคนคิดว่าการทำแท้งเป็นสิ่งต้องห้ามโดยสิ้นเชิงในมาเลเซีย — แต่ในความเป็นจริง กฎหมายวางมันไว้ในพื้นที่ที่ซับซ้อนกว่านั้น กล่าวคือ เป็นความผิดทางอาญาที่มีข้อยกเว้นทางการแพทย์ที่สำคัญข้อหนึ่ง การเข้าใจว่าเส้นแบ่งนั้นถูกลากไว้ที่ใด จำเป็นต้องอ่านตัวบทที่แท้จริงของประมวลกฎหมายอาญา ไม่ใช่ความเข้าใจทั่วไป

@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "movement-control-order-covid-19" }
 related: []
 keywords: ["Akta 342", "penyakit berjangkit", "kuarantin", "PKP", "COVID-19", "kawasan jangkitan tempatan", "kesihatan awam", "Kementerian Kesihatan Malaysia"]
+framework: rules
 ---
 
 当行动管制令（PKP）在2020年3月几乎让整个马来西亚陷入停顿时，其背后的法律权力并非来自任何新的紧急法律——而是来自一部自1988年以来就已存在的公共卫生法令。

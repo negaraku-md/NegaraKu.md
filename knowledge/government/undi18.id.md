@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "constitutional-amendment", "jpn", "dewan-rakyat", "how-a-bill-becomes-law"]
 keywords: ["Undi18", "Akta A1603", "pindaan perlembagaan umur mengundi 18 tahun", "Pendaftaran Pemilih Secara Automatik", "PPSA", "Perkara 119 Perlembagaan Persekutuan", "SPR daftar pemilih automatik", "umur mengundi Malaysia", "Constitution Amendment Act 2019"]
+framework: explainer
 ---
 
 Amendemen yang mengubah lanskap pemilih Malaysia hanya mengisi tiga halaman. Constitution (Amendment) Act 2019 — Act A1603 — tidak menulis prosedur baru yang panjang lebar. Ia mengganti beberapa kata saja di tiga tempat, dan dua dari penggantian itu memindahkan jutaan warga negara ke dalam daftar pemilih.

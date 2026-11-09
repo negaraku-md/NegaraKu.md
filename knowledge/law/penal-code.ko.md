@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "macc-sprm" }
 related: ["federal-constitution", "court-hierarchy", "macc-sprm"]
 keywords: ["Penal Code", "Act 574", "Malaysia criminal law", "Indian Penal Code", "Criminal Procedure Code Act 593", "Act 846"]
+framework: data-reference
 ---
 
 Act 574에 관하여 읽게 될 거의 모든 글은 같은 문장으로 시작합니다: 형법전은 23개 장에 511개 조항을 두고 있다. 그 문장의 두 부분 모두 틀렸습니다.

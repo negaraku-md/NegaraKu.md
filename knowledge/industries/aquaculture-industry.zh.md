@@ -102,6 +102,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 马来西亚人餐桌上的大部分鱼仍然来自海洋——但如今有一个快速增长的份额来自池塘、网箱或延绳养殖筏。那就是水产养殖：有意识地养殖水生生物，而非捕捞野外游动的鱼。随着马来西亚野生捕捞量趋于停滞、蛋白质需求攀升，水产养殖已成为该国保持餐桌有鱼的主要杠杆。本文深入探讨这项业务的养殖端；关于包括渔船队、渔民福利和执法在内的更全面情况，请参阅[渔业概览](/zh/agriculture/malaysian-fisheries-industry/)。

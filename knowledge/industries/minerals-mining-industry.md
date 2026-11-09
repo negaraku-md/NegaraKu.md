@@ -95,6 +95,7 @@ keywords:
   - Mineral Development Act 1994
   - JMG
   - Lynas
+framework: profile
 ---
 
 Malaysia's modern economy was, quite literally, dug out of the ground. Long before palm oil, electronics or semiconductors, it was **tin** that made the peninsula matter to the world — financing railways, growing towns such as Ipoh and Kuala Lumpur, and drawing in generations of migrant miners. Mining is the country's oldest industrial story, and although it no longer dominates the economy, it is quietly being rewritten around a very modern prize: rare earth elements.

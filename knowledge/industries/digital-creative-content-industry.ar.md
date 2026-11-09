@@ -113,6 +113,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 حين وصلت لعبة _Upin & Ipin Universe_ من Les' Copaque إلى أجهزة الكونسول حول العالم في **17 يوليو 2025**، أغلقت حلقة بدأت بمسلسل رسوم متحركة قصير عن توأمين مشاغبين. فقد صار كرتون ماليزي لعبة فيديو منشورة عالمياً — وتوضيحاً أنيقاً لما بنته صناعة المحتوى الإبداعي الرقمي في البلاد بهدوء على مدى عقدين.

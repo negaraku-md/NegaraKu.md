@@ -109,6 +109,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Lada adalah salah satu komoditas pertanian Malaysia yang tertua dan paling khas secara geografis: sulur yang diimpor dari anak benua India dan Sumatra yang menemukan rumah idealnya di perbukitan Sarawak yang lembap dan berdrainase baik, tempat ia menjadi tulang punggung ribuan kebun kecil pedesaan. Meski Malaysia adalah pemain sederhana dari sisi volume global, ia bertarung melampaui bobotnya dari sisi reputasi, menjual "Lada Sarawak" premium bersertifikat asal ke pasar yang jeli. Artikel ini memprofilkan struktur, geografi, perdagangan dan prospek sektor ini sebagai industri yang berdiri sendiri.

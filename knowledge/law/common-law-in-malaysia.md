@@ -76,6 +76,7 @@ faq:
     a: No. Under Section 3 of the Civil Law Act 1956, an English case decided before the relevant cut-off date is binding common law in principle, but one decided after it is persuasive only — a Malaysian court can look at it, discuss it, and decline to follow it. Section 3 also applies common law and equity only "so far as the circumstances... permit," so courts can refuse English rules that do not fit local conditions.
   - q: Does English law govern land ownership in Malaysia?
     a: No. Section 6 of the Civil Law Act 1956 states that nothing in the Act introduces English law relating to the tenure, conveyance, assurance of or succession to immovable property. English land law was deliberately kept out from day one. Malaysian land instead runs on the Australian-derived Torrens system, codified for Peninsular Malaysia in the National Land Code 1965 (Act 56), where registration itself creates and proves title.
+framework: explainer
 ---
 
 A Malaysian judge deciding a contract dispute today can still reach for an English

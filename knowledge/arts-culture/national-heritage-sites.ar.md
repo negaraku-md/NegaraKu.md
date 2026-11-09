@@ -72,6 +72,7 @@ relations:
   - { rel: "compares-with", to: "unesco-world-heritage-malaysia" }
 related: ["unesco-world-heritage"]
 keywords: ["التراث الوطني", "warisan kebangsaan", "قانون التراث الوطني 2005", "Akta Warisan Kebangsaan 2005", "القانون 645", "Akta 645", "دائرة التراث الوطني", "Jabatan Warisan Negara", "سجل التراث الوطني", "WAKOH", "موقع تراثي"]
+framework: explainer
 ---
 
 مبنى تجاري (شوب هاوس) عمره قرن في جورج تاون، ونصل خنجر «كريس»، ورقصة بلاطية، وصانع [سونغكيت](/arts-culture/songket) على قيد الحياة — يمكن للأربعة جميعًا أن يحملوا الصفة القانونية نفسها في ماليزيا: *التراث الوطني*. والذي يربط بينها ليس قائمة اليونسكو، بل سجل محلي نادرًا ما يُذكر اسمه: **سجل التراث الوطني**.

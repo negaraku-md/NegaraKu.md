@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["termination-of-employment-malaysia"]
 keywords: ["الحد الأدنى لسن التقاعد في ماليزيا", "القانون 753 Act 753", "التقاعد عند 60 عاماً", "التقاعد المبكر premature retirement", "عقد محدد المدة fixed term", "التقاعد الاختياري optional retirement"]
+framework: rules
 ---
 
 يتلقّى موظف في الثامنة والخمسين رسالة: تقول الشركة إن عقده يحدّد التقاعد عند 55، فقد

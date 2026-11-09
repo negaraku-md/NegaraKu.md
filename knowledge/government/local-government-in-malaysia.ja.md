@@ -85,6 +85,7 @@ wikidata: "Q6664408"
 relations: []
 related: []
 keywords: ["local government Malaysia", "PBT", "pihak berkuasa tempatan", "majlis perbandaran", "majlis daerah", "dewan bandaraya", "Local Government Act 1976", "Act 171", "local council Malaysia", "cukai taksiran", "KPKT", "local government elections Malaysia", "Datuk Bandar", "Yang Dipertua", "municipal council Malaysia", "district council Malaysia"]
+framework: explainer
 ---
 
 あなたのごみを収集し、隣の店屋の増改築を許可し、資産税を請求してくる議会は、あなたの家の門に最も近い層の政府である——そして、それはあなたがこれまで一度も投票を許されたことのない、唯一の層でもある。マレーシアの第三層の政府を担っているのは**地方自治体**（*Pihak Berkuasa Tempatan*、**PBT**）であり、その規模は市議会、都市評議会、県議会の3種類に分かれる。この2つの事実が、その振る舞いのほぼすべてを説明する。第一に、連邦憲法の下で地方自治は**州**の事項であるため、あなたの議会はプトラジャヤではなく州政府に対して責任を負う。第二に、地方選挙は1965年以来凍結されているため、すべての議員は住民の選挙によってではなく、州によって任命される。

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-state-and-federal-lists" }
 related: []
 keywords: ["hutan simpanan kekal", "akta perhutanan negara 1984", "pewartaan hutan", "senarai negeri", "hutan hujan malaysia", "degazette hutan simpan", "enakmen hutan sabah", "ordinan hutan sarawak"]
+framework: explainer
 ---
 
 A parcel of forested land in Malaysia is not "protected" simply because it is full of trees — its protection begins on the day the land's name appears in the Gazette. Without that gazettement, the same forest can be licensed for development at any time. This is the foundation of Malaysia's entire Permanent Forest Reserve (PFR) system.

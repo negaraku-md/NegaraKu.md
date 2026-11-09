@@ -56,6 +56,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "court-hierarchy", "parliament"]
 keywords: ["libertés fondamentales Malaisie", "article 5 Constitution fédérale", "article 8 égalité Malaisie", "article 10 liberté d'expression Malaisie", "article 11 liberté de religion Malaisie", "article 13 droit de propriété Malaisie", "Part II Federal Constitution"]
+framework: explainer
 ---
 
 La Partie II de la Constitution fédérale garantit les droits les plus fondamentaux d'un Malaisien — et presque chacun de ses articles précise aussi, dans le même souffle, les limites que la Constitution elle-même autorise. Cet appariement de la garantie et de la restriction permise n'est pas un accident de rédaction. C'est ainsi que la Partie II est construite.

@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "solvency-statement" }
 related: []
 keywords: ["pembelian balik saham", "share buy-back", "saham perbendaharaan", "treasury shares", "Seksyen 127", "Akta Syarikat 2016", "Bursa Malaysia", "Bab 12"]
+framework: rules
 ---
 
 公司可以回购自己的股份并将其“存于库存”（库存股）——但前提是它必须是上市公司、有能力偿还债务，并严格遵守10%的上限。

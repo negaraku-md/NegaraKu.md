@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "striking-off-a-company" }
 related: ["companies-act-2016"]
 keywords: ["pemulihan syarikat", "syarikat dipotong", "seksyen 555", "reinstate company", "struck off", "Akta Syarikat 2016", "SSM"]
+framework: how-to
 ---
 
 உங்கள் நிறுவனத்தின் பெயர் SSM பதிவேட்டிலிருந்து மறைந்துவிட்டது — ஆனால் அந்த நீக்கம் அவசியம் இறுதியானதல்ல. அதை மீட்டெடுக்க நீதிமன்றத்தின் வழியாக விண்ணப்பிக்க, ஏழு ஆண்டு கால அவகாசத்தைச் சட்டம் வழங்குகிறது.

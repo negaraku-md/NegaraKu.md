@@ -107,6 +107,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 マレーシアは自国のロケットを打ち上げていないが、宇宙飛行士を飛ばし、マイクロ衛星を製造・運用し、近隣の多くの国に先駆けて民間宇宙活動を許認可する法律を可決した。その宇宙部門は小規模で、静かに戦略的だ — ブロードバンド政策、防衛、災害監視、そして国家の威信に糸を通している。本ガイドは、マレーシアの宇宙経済を構成する機関、法律、衛星、そして野望を地図にする。

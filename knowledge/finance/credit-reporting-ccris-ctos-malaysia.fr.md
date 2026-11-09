@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["CCRIS", "CTOS", "rapport de crédit", "credit report Malaysia", "score de crédit", "credit score", "Credit Reporting Agencies Act 2010", "RAM Credit Information RAMCI", "cote de crédit"]
+framework: explainer
 ---
 
 Une seule mensualité manquée peut discrètement vous poursuivre pendant des années — et la plupart des Malaisiens n'ont jamais réellement lu le dossier qu'une banque ouvre avant de dire oui ou non à un prêt.

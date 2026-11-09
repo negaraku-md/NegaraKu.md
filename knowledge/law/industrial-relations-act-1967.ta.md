@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "mahkamah-perusahaan-malaysia" }
 related: ["employment-act-1955"]
 keywords: ["akta perhubungan perusahaan 1967", "pembuangan kerja tidak adil", "seksyen 20", "mahkamah perusahaan", "kesatuan sekerja", "rundingan kolektif", "reinstatement", "unfair dismissal malaysia"]
+framework: rules
 ---
 
 இன்று காலை நீங்கள் பணிநீக்கம் செய்யப்பட்டு, "திருப்திகரமற்ற செயல்திறன்" என்று சொல்லப்பட்டது — ஆனால் எச்சரிக்கைக் கடிதம் இல்லை, உள் விசாரணை இல்லை, தன்னைப் பாதுகாத்துக் கொள்ள வாய்ப்பும் இல்லை. மலேசியாவில், இந்த சூழ்நிலைக்கு ஒரு சட்ட பெயரும் ஒரு தனிச் சிறப்பு அமைப்பும் உண்டு: Akta Perhubungan Perusahaan 1967-இன் பிரிவு 20-இன் கீழான விண்ணப்பம் (representasi), தொழில் நீதிமன்றத்தில் (Mahkamah Perusahaan) விசாரிக்கப்படுகிறது. இதுவே Akta Kerja 1955 கையாளாத தொழிலாளர் உறவுத் தளம்.

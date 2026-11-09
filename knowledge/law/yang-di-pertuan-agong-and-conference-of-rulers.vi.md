@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malay-rulers-and-state-monarchies" }
 related: ["federal-constitution"]
 keywords: ["Yang di-Pertuan Agong", "Majlis Raja-Raja", "Conference of Rulers", "Perkara 32", "Perkara 38", "raja berperlembagaan", "Ketua Negara"]
+framework: explainer
 ---
 
 Malaysia nằm trong số ít quốc gia trên thế giới mà quốc vương được bầu luân phiên, chứ không được kế vị lần lượt từ một dòng dõi. Cứ mỗi năm năm, chín Quốc vương Mã Lai họp lại để quyết định ai trong số họ sẽ đảm nhận ngai vàng Liên bang với tư cách Yang di-Pertuan Agong. Hệ thống này, cùng với thiết chế vận hành nó là Hội đồng các Quốc vương, hình thành nên nòng cốt của chế độ quân chủ lập hiến của quốc gia.

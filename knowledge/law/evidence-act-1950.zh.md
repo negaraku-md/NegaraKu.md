@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-malaysia" }
 related: ["criminal-procedure-code", "federal-constitution"]
 keywords: ["Akta Keterangan 1950", "Evidence Act 1950", "Akta 56", "beban bukti", "kebolehterimaan", "anggapan", "keistimewaan", "seksyen 90A", "seksyen 114A", "pengakuan salah"]
+framework: explainer
 ---
 
 一张照片、一则WhatsApp讯息，或一名证人的话语，未必就是法庭上的「证据」。某样东西是否算作证据——以及由谁来证明它——由一部单一的成文法决定：1950年证据法令（第56号法令）。

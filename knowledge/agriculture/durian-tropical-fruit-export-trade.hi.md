@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "external-trade" }
 related: ["palm-oil-sector", "external-trade", "rubber"]
 keywords: ["मलेशिया ड्यूरियन निर्यात", "Musang King", "Black Thorn durian", "ड्यूरियन चीन प्रोटोकॉल", "ड्यूरियन भौगोलिक संकेतक", "myGAP durian", "fresh durian export China", "Malaysia durian export"]
+framework: profile
 ---
 
 एक दशक से अधिक समय तक मलेशियाई ड्यूरियन चीन में तभी प्रवेश कर सकता था जब वह जमा हुआ हो या गूदे और पेस्ट में संसाधित हो। फिर, मध्य-2024 में, मलेशिया ने वह अनुमति हासिल की जिसे वह वर्षों से माँग रहा था: पृथ्वी के सबसे बड़े ड्यूरियन बाज़ार में साबुत, ताज़ा ड्यूरियन भेजने का अधिकार।

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "court-hierarchy" }
 related: ["federal-constitution", "common-law-in-malaysia", "civil-and-syariah-courts", "how-a-bill-becomes-law", "national-land-code", "court-hierarchy"]
 keywords: ["मलेशियाई कानून के स्रोत", "sources of Malaysian law", "मलेशियाई कानूनी प्रणाली", "Malaysian legal system", "संघीय संविधान की सर्वोच्चता", "Federal Constitution supremacy", "Article 4(1)", "नौवीं अनुसूची संघीय सूची राज्य सूची", "Civil Law Act 1956", "इस्लामी कानून मलेशिया", "Islamic law Malaysia", "adat Adat Perpatih Adat Temenggong", "प्रथागत कानून मलेशिया", "customary law Malaysia", "कानून की पदानुक्रमिता मलेशिया"]
+framework: explainer
 ---
 
 किसी एक पारिवारिक विवाद का निर्णय करने वाली मलेशियाई अदालत को, सिद्धांततः,

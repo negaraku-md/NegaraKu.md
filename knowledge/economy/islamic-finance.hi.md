@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["waqf-islamic-endowment-malaysia", "bank-negara-malaysia", "bursa-malaysia", "federal-budget", "opr-monetary-policy"]
 keywords: ["इस्लामी वित्त मलेशिया", "Islamic finance Malaysia", "सुकूक", "sukuk", "तकाफुल", "takaful", "मुराबहा", "murabahah", "इजारा", "ijarah", "तवर्रुक़", "tawarruq", "इस्लामी बैंकिंग मलेशिया", "शरीयत सलाहकार परिषद"]
+framework: explainer
 ---
 
 मलेशिया और इस्लामी वित्त के बारे में लगभग हर व्याख्यात्मक लेख किसी रैंकिंग से शुरू होता

@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "cultural-heritage-tourism-malaysia" }
 related: ["cultural-heritage-tourism-malaysia"]
 keywords: ["kopitiam", "kopi", "teh tarik", "kopi-O", "kopi-C", "mamak", "minuman Malaysia"]
+framework: explainer
 ---
 
 நீங்கள் கவுன்டரை நோக்கி விரலைச் சுட்டிக்காட்டி “kopi-O peng, satu!” என்று கூறுகிறீர்கள் — எப்படியோ அந்தப் பழைய எஸ்பிரெசோ இயந்திரத்திற்குப் பின்னால் இருக்கும் அங்கிள் உங்களுக்குச் சரியாக என்ன வேண்டும் என்பதைப் புரிந்துகொள்கிறார். கோபிதியாம் ஆர்டர்களின் மொழி ஒரு ரகசியக் குறியீடு போலத் தோன்றுகிறது, ஆனால் உண்மையில் அது ஒரு நேர்த்தியான, தர்க்கபூர்வமான அமைப்பு.

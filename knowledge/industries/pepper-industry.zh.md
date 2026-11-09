@@ -109,6 +109,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 胡椒是马来西亚最古老、地理特色最鲜明的农产品之一：这种从印度次大陆和苏门答腊引进的藤蔓植物，在砂拉越湿润、排水良好的丘陵地带找到了理想的家园，成为数千个乡村小农园的支柱。尽管马来西亚按全球产量计算只是一个不起眼的角色，但它凭借声誉超越其体量，向识货的市场销售高端的、经原产地认证的"砂拉越胡椒"。本文将胡椒业作为一个独立产业，剖析其结构、地理、贸易与前景。

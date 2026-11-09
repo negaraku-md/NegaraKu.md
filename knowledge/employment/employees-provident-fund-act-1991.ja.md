@@ -91,6 +91,7 @@ entity: "Employees Provident Fund Act 1991 (Act 452)"
 relations: []
 related: []
 keywords: ["Employees Provident Fund Act 1991", "EPF Act 1991", "Act 452", "KWSP", "EPF contribution rate", "EPF dividend", "Akaun Persaraan Sejahtera Fleksibel", "EPF withdrawal age 55", "KWSP Malaysia", "EPF foreign worker contribution", "Kumpulan Wang Simpanan Pekerja"]
+framework: rules
 ---
 
 マレーシアの民間部門における給与明細のすべてに、数十年間手をつけられない基金へと

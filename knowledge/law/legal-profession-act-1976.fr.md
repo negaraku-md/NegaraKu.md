@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
 related: ["federal-constitution"]
 keywords: ["Akta Profesion Guaman 1976", "Majlis Peguam", "Malaysian Bar", "advocate and solicitor", "Conseil de discipline", "Akta 166", "profession juridique de Malaisie"]
+framework: explainer
 ---
 
 Tout avocat qui se présente devant un tribunal à Kuala Lumpur, Johor Bahru ou Penang le fait sous un seul et même corps de règles — et, s'il s'en écarte, cette même loi peut mettre fin à sa carrière. C'est le Legal Profession Act 1976 (Act 166), la colonne vertébrale qui unifie la profession juridique de Malaisie péninsulaire et la place sous la supervision du Bar Council et d'un conseil de discipline indépendant.

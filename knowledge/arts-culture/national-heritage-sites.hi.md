@@ -72,6 +72,7 @@ relations:
   - { rel: "compares-with", to: "unesco-world-heritage-malaysia" }
 related: ["unesco-world-heritage"]
 keywords: ["warisan kebangsaan", "Akta Warisan Kebangsaan 2005", "Akta 645", "Jabatan Warisan Negara", "Daftar Warisan Kebangsaan", "WAKOH", "tapak warisan"]
+framework: explainer
 ---
 
 जॉर्ज टाउन की एक सदी पुरानी दुकान-घर (shophouse), एक keris की धार, एक दरबारी नृत्य, और एक जीवित [songket](/arts-culture/songket) बुनकर — मलेशिया में ये चारों एक ही कानूनी उपाधि धारण कर सकते हैं: *राष्ट्रीय धरोहर*। इन्हें जो बाँधता है, वह कोई UNESCO सूची नहीं, बल्कि एक घरेलू रजिस्टर है जिसका नाम शायद ही कभी लिया जाता है: **राष्ट्रीय धरोहर रजिस्टर**।

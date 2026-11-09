@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-state-and-federal-lists" }
 related: []
 keywords: ["hutan simpanan kekal", "akta perhutanan negara 1984", "pewartaan hutan", "senarai negeri", "hutan hujan malaysia", "degazette hutan simpan", "enakmen hutan sabah", "ordinan hutan sarawak"]
+framework: explainer
 ---
 
 Một mảnh đất có rừng ở Malaysia không được "bảo vệ" chỉ vì nó đầy cây — sự bảo vệ của nó bắt đầu vào ngày tên mảnh đất đó xuất hiện trong Công báo. Không có công báo đó, cùng khu rừng ấy có thể được cấp phép để phát triển vào bất kỳ lúc nào. Đây là nền tảng của toàn bộ hệ thống Rừng Bảo tồn Thường trực (HSK) của Malaysia.

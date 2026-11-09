@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "national-education-system" }
 related: []
 keywords: ["pusat tuisyen", "tuition centre", "bimbingan persendirian", "Akta Pendidikan 1996", "pendaftaran IPS", "permit mengajar", "JPN"]
+framework: rules
 ---
 
 Ở nhiều gia đình Malaysia, lớp dạy thêm sau giờ học đã trở thành thói quen bình thường như bài tập về nhà — nhưng mỗi trung tâm mở ra thực chất bị ràng buộc bởi cùng một luật về trường học.

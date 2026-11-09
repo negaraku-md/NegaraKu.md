@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "tenancy-agreement-malaysia" }
 related: []
 keywords: ["agent immobilier", "REN", "LPEPH", "BOVAEP", "commission de l'agent", "honoraires de location", "négociateur immobilier", "property agent Malaysia"]
+framework: explainer
 ---
 
 Le numéro sur le badge que porte cet agent sur la poitrine n'est pas un ornement : c'est le seul moyen rapide de distinguer un négociateur légitime de quelqu'un qui se prétend simplement agent. En Malaisie, qui peut vendre, louer ou négocier un bien en votre nom est strictement réglementé par la loi.

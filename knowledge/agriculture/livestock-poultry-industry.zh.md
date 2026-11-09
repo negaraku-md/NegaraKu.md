@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry" }
 related: ["palm-oil-industry"]
 keywords: ["industri ternakan", "ayam pedaging", "telur ayam", "demam babi Afrika", "influenza burung", "JPV", "nisbah sara diri", "biosekuriti", "kekurangan ayam 2022"]
+framework: profile
 ---
 
 马来西亚人的餐盘离不开鸡肉。它是这个国家最便宜的蛋白质——正因如此，一旦鸡棚动摇，那就成了国家大事，而不只是农场的事。

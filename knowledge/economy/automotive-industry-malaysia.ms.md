@@ -109,6 +109,7 @@ entity: "Automotive industry of Malaysia"
 relations: []
 related: []
 keywords: ["Malaysia automotive industry", "Proton", "Perodua", "National Automotive Policy", "NAP 2020", "electric vehicles Malaysia", "TIV", "car manufacturing Malaysia", "EV incentives", "CKD"]
+framework: profile
 ---
 
 Kebanyakan negara Asia Tenggara membiarkan pengeluar kereta asing memasang di tanah mereka dan berhenti di situ sahaja. Malaysia melakukan sesuatu yang lebih berani dan lebih pelik: ia memutuskan bahawa negara harus memiliki kereta itu sendiri. Dua lambang yang lahir daripada pertaruhan itu, Proton dan Perodua, masih meletakkan lebih daripada tiga dalam setiap lima kereta baharu di jalan raya Malaysia hari ini.

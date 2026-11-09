@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "movement-control-order-covid-19" }
 related: []
 keywords: ["Akta 342", "penyakit berjangkit", "kuarantin", "PKP", "COVID-19", "kawasan jangkitan tempatan", "kesihatan awam", "Kementerian Kesihatan Malaysia"]
+framework: rules
 ---
 
 2020 மார்ச்சில் நடமாட்டக் கட்டுப்பாட்டு ஆணை (Perintah Kawalan Pergerakan, PKP) மலேசியா முழுவதையும் கிட்டத்தட்ட முடக்கியபோது, அதற்குப் பின்னால் இருந்த சட்ட அதிகாரம் எந்தவொரு புதிய அவசரகாலச் சட்டத்திலிருந்தும் வரவில்லை — மாறாக 1988 முதல் நிலவி வந்த ஒரு பொது சுகாதாரச் சட்டத்திலிருந்தே வந்தது.

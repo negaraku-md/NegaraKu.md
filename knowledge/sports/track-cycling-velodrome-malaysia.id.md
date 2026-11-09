@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "azizulhasni-awang" }
 related: []
 keywords: ["velodrom nasional", "Nilai", "lumba basikal trek", "keirin", "Azizulhasni Awang", "MNCF", "Majlis Sukan Negara"]
+framework: profile
 ---
 
 Sebuah gelanggang beratap panjang di pinggir Nilai kini menjadi tempat pembalap tercepat Malaysia mengasah larinya — dan ia dibangun khusus untuk melahirkan lebih banyak juara trek dunia.

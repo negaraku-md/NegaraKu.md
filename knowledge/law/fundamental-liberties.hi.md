@@ -56,6 +56,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "court-hierarchy", "parliament"]
 keywords: ["मलेशिया में मौलिक स्वतंत्रताएँ", "Article 5 संघीय संविधान", "Article 8 समानता", "Article 10 वाक् की स्वतंत्रता", "Article 11 धर्म की स्वतंत्रता", "Article 13 संपत्ति का अधिकार", "fundamental liberties Malaysia", "Part II Federal Constitution"]
+framework: explainer
 ---
 
 संघीय संविधान का Part II किसी मलेशियाई के सबसे बुनियादी अधिकारों की गारंटी देता है — और उसका लगभग हर Article उसी साँस में उन सीमाओं को भी स्पष्ट कर देता है जिन्हें संविधान स्वयं अनुमति देता है। गारंटी और अनुमत प्रतिबंध का यह युग्म प्रारूपण की कोई दुर्घटना नहीं है। Part II इसी प्रकार बुना गया है।

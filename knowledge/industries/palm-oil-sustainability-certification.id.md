@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry-malaysia" }
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "RSPO", "EUDR", "sustainable palm oil", "MS 2530:2022", "MPOCC", "forced labour", "deforestation", "palm oil certification"]
+framework: explainer
 ---
 
 Satu pengiriman minyak sawit Malaysia kini terpaksa mematuhi tiga buku peraturan berbeda pada saat yang sama: skema nasional mandatori di dalam negara, klub pembeli sukarela di ruang direksi, dan undang-undang deforestasi Eropa yang dapat menghalanginya di pelabuhan. Bagi sebuah industri yang mengirim 22.30 juta ton minyak sawit dan produk berbasis sawit dalam sepuluh bulan pertama 2024 saja — memperoleh RM89.39 miliar — dokumen bukan lagi satu formalitas. Ia adalah akses pasar.

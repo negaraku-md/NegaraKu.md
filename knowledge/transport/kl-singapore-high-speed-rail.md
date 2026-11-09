@@ -77,6 +77,7 @@ relations:
   - { rel: "compares-with", to: "johor-bahru-singapore-rts-link" }
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["KL Singapore HSR", "high-speed rail Malaysia", "MyHSR Corp", "HSR termination compensation", "HSR revival RFP"]
+framework: history-culture
 ---
 
 A bullet train that could whisk you from Kuala Lumpur to Singapore in about 90 minutes has been signed, suspended, terminated, mourned, and resurrected — all without a single track being laid. Here is where the on-again, off-again project actually stands.

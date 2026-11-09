@@ -60,6 +60,7 @@ relations:
   - { rel: "part-of", to: "employment" }
 related: ["employment-contract-malaysia", "termination-of-employment-malaysia"]
 keywords: ["non compete clause malaysia", "restraint of trade malaysia", "section 28 contracts act 1950", "non solicitation malaysia", "restrictive covenant malaysia"]
+framework: explainer
 ---
 
 மலேசியாவில் கிட்டத்தட்ட ஒவ்வொரு பணி ஒப்பந்தமும் ஒரு போட்டியிடா விதியைச் சுமக்கிறது, அவற்றில்

@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "industries-tourism" }
 related: []
 keywords: ["Malaysia industries", "Malaysia economy sectors", "Malaysia GDP by sector", "Malaysia exports", "electrical and electronics Malaysia", "palm oil", "Malaysia manufacturing", "services sector Malaysia"]
+framework: explainer
 ---
 
 Retracez presque n'importe quel composant d'un gadget mondial — la puce à l'intérieur d'un smartphone, la soudure sur un serveur de centre de données — et il y a de bonnes chances qu'une partie soit passée par le sol d'une usine à Penang, à Kulim ou à Klang. Pourtant, l'usine n'est qu'une portion de l'histoire. La Malaisie d'aujourd'hui gagne sa vie, pour l'essentiel, non par ce qu'elle fabrique, mais par ce qu'elle vend, dessert et transporte. Voici la carte de cette économie : les secteurs qui comptent, le poids de chacun et l'endroit où les guides plus détaillés de cette catégorie reprennent le fil.

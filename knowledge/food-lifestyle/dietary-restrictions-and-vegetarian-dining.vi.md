@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-in-malaysia" }
 related: ["halal-certification-in-malaysia"]
 keywords: ["halal food Malaysia", "JAKIM halal logo", "vegetarian Malaysia", "vegan dining Malaysia", "dietary restrictions Malaysia", "Buddhist vegetarian", "beef-free"]
+framework: explainer
 ---
 
 Ngồi xuống ăn ở Malaysia nghĩa là chia sẻ một bàn ăn với bốn nền văn hóa ẩm thực cùng một lúc — Malay, người Hoa, Ấn Độ, và các truyền thống nảy nở giữa chúng. Sự đa dạng đó là một món quà nếu bạn có nhu cầu ăn uống, và một bãi mìn nhỏ nếu bạn không biết các tín hiệu. Đây là cách đọc chúng.

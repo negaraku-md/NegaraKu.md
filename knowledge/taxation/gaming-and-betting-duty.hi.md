@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "corporate-income-tax" }
 related: ["sales-and-service-tax"]
 keywords: ["duti kasino", "cukai perjudian", "duti mesin permainan", "duti pertaruhan pool", "number forecast operator", "gaming tax Malaysia"]
+framework: rules
 ---
 
 कैसीनो की मेज़ पर या किसी 4D काउंटर पर लगाया गया हर रिंगिट एक छिपा हुआ कर वहन करता है — और मलेशिया में यह दर किसी भी उद्योग पर सरकार द्वारा लगाई गई दरों में सबसे ऊँची दरों में से एक है।

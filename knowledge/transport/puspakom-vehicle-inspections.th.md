@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "road-tax-renewal-malaysia" }
 related: ["road-tax-renewal"]
 keywords: ["puspakom", "pemeriksaan berkala", "kenderaan komersial", "e-hailing", "cukai jalan", "akta pengangkutan jalan 1987"]
+framework: rules
 ---
 
 หากคุณเป็นเจ้าของรถบรรทุก รถตู้ แท็กซี่ หรือรถ e-hailing ปฏิทินหกเดือนของ Puspakom แท้จริงแล้วคือปฏิทินภาษีถนนของคุณ — หากไม่มีตราประทับการตรวจสภาพที่ถูกต้อง JPJ จะไม่อนุญาตให้คุณต่ออายุใบอนุญาตยานพาหนะเลย

@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "cultural-heritage-tourism-malaysia" }
 related: ["cultural-heritage-tourism-malaysia"]
 keywords: ["kopitiam", "kopi", "teh tarik", "kopi-O", "kopi-C", "mamak", "minuman Malaysia"]
+framework: explainer
 ---
 
 Bạn chỉ tay về phía quầy và nói "kopi-O peng, satu!" — và không hiểu sao chú bác đứng sau chiếc máy espresso cũ kỹ đó hiểu chính xác bạn muốn gì. Ngôn ngữ gọi món ở kopitiam trông như một mật mã bí ẩn, nhưng thực ra nó là một hệ thống gọn gàng và logic.

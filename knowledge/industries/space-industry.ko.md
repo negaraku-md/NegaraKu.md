@@ -107,6 +107,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 말레이시아는 자체 로켓을 발사하지 않지만, 우주비행사를 비행시켰고, 초소형위성을 제작·운영했으며, 대부분의 이웃 나라보다 먼저 민간 우주 활동에 면허를 부여하는 법을 통과시켰다. 그 우주 부문은 작지만 조용히 전략적이다 - 광대역 정책, 국방, 재난 감시, 국가 위신에 엮여 있다. 이 가이드는 말레이시아 우주 경제를 구성하는 기관, 법, 위성, 포부를 짚는다.

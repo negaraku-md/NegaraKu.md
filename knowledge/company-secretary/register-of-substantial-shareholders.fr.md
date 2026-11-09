@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["register-of-members"]
 keywords: ["substantial shareholder", "register of substantial shareholders", "5% voting shares", "section 144 Companies Act 2016", "section 137 notification", "SSM", "public company", "shareholding disclosure"]
+framework: rules
 ---
 
 Franchissez 5 % des actions avec droit de vote d'une société publique et vous cessez d'être un investisseur anonyme : la loi veut désormais votre nom sur un registre spécial — et le compte à rebours se mesure en jours, pas en semaines.

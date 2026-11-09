@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysian-media-council-act" }
 related: []
 keywords: ["Akta Mesin Cetak dan Penerbitan", "Akta 301", "PPPA", "permit akhbar", "lesen mesin cetak", "Menteri Dalam Negeri", "kebebasan media"]
+framework: rules
 ---
 
 Một tờ báo tại Malaysia không thể được in chỉ vì nội dung của nó đúng sự thật hay thu hút sự quan tâm của độc giả — trước tiên nó cần một giấy phép hoạt động do Bộ trưởng Nội vụ cấp. Khung đó bắt nguồn từ Luật Máy in và Xuất bản 1984, hay Act 301, đạo luật đã trở thành một trong những trụ cột bị tranh luận nhiều nhất trong bức tranh truyền thông của đất nước.

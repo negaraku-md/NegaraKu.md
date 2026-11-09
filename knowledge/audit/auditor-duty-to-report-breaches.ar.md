@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "auditor-independence" }
 related: ["companies-act-2016"]
 keywords: ["المادة 266", "المدقق", "SSM", "قانون الشركات 2016", "الإبلاغ عن المخالفات", "الاحتيال", "المُسجِّل", "Section 266", "Companies Act 2016"]
+framework: rules
 ---
 
 المدقق الذي يكتشف احتيالًا أثناء التدقيق لا يمكنه الصمت ببساطة والتوقيع على التقرير —

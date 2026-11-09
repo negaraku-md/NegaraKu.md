@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "approved-company-auditor-malaysia" }
 related: ["foreign-company-registration-malaysia"]
 keywords: ["foreign company", "branch", "audited accounts", "SSM", "Companies Act 2016", "section 575", "financial statements", "Malaysia"]
+framework: rules
 ---
 
 말레이시아에 지점을 개설하는 것은 외국회사를 감사망 밖에 두지 않습니다 — 오히려

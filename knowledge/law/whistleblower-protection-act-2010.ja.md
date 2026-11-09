@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["macc-sprm", "employment-act-1955"]
 keywords: ["whistleblower protection act 2010", "act 711", "improper conduct", "whistleblower malaysia", "detrimental action", "section 11 revocation", "macc disclosure"]
+framework: explainer
 ---
 
 職場で贈賄を告発すれば、マレーシアの法律はあなたの名前を秘密にし、訴訟から守り、そのことを理由に上司があなたを解雇することを違法とすることができる。しかし一歩間違えれば——先にメディアに駆け込んだり、結局その企てに自ら関与していたことが判明したりすれば——これらの保護はすべて失われかねない。それが2010年内部告発者保護法の意図的な設計である。

@@ -92,6 +92,7 @@ entity: "Employees Provident Fund Act 1991 (Act 452)"
 relations: []
 related: []
 keywords: ["Employees Provident Fund Act 1991", "EPF Act 1991", "Act 452", "KWSP", "EPF contribution rate", "EPF dividend", "Akaun Persaraan Sejahtera Fleksibel", "EPF withdrawal age 55", "KWSP Malaysia", "EPF foreign worker contribution", "Kumpulan Wang Simpanan Pekerja"]
+framework: rules
 ---
 
 மலேசியாவின் தனியார் துறையில் ஒவ்வொரு ஊதியச் சீட்டிலும் 11% கழிப்பு

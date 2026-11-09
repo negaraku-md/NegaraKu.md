@@ -82,6 +82,7 @@ relations:
   - { rel: "compares-with", to: "arbitration-vs-litigation-malaysia" }
 related: ["arbitration-vs-litigation-malaysia", "contracts-act-malaysia"]
 keywords: ["CIPAA", "construction adjudication", "AIAC", "payment claim", "Act A1738", "construction disputes Malaysia"]
+framework: explainer
 ---
 
 Seorang subkontraktor yang tidak dibayar selama enam bulan tidak perlu menunggu bertahun-tahun untuk suatu tarikh perbicaraan mahkamah. Di bawah CIPAA, mereka boleh memaksa pertikaian itu ke suatu keputusan yang mengikat dalam tempoh beberapa minggu — dan jam berdetik tanpa belas kasihan terhadap kedua-dua pihak.

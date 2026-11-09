@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "peka-b40-health-screening" }
 related: []
 keywords: ["MySejahtera", "rekod kesihatan digital", "EMR", "kesihatan digital Malaysia", "KKM", "temu janji klinik kesihatan"]
+framework: explainer
 ---
 
 தொற்றுநோய் தணிந்தபோது பலர் தங்கள் தொலைபேசிகளிலிருந்து MySejahtera-ஐ நீக்கிவிட்டனர் — ஆனால் அந்த செயலி மறைந்துவிடவில்லை. அது வெறுமனே வேலையை மாற்றிக்கொண்டது.

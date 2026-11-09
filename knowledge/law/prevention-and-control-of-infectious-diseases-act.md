@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "movement-control-order-covid-19" }
 related: []
 keywords: ["Akta 342", "penyakit berjangkit", "kuarantin", "PKP", "COVID-19", "kawasan jangkitan tempatan", "kesihatan awam", "Kementerian Kesihatan Malaysia"]
+framework: rules
 ---
 
 Apabila Perintah Kawalan Pergerakan (PKP) menghentikan pergerakan hampir seluruh Malaysia pada Mac 2020, kuasa undang-undang di sebaliknya bukan datang daripada mana-mana undang-undang darurat baharu — tetapi daripada sebuah akta kesihatan awam yang telah wujud sejak 1988.

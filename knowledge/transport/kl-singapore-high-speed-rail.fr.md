@@ -78,6 +78,7 @@ relations:
   - { rel: "compares-with", to: "johor-bahru-singapore-rts-link" }
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["HSR KL Singapour", "train à grande vitesse Malaisie", "MyHSR Corp", "indemnité annulation HSR", "relance HSR RFP", "high-speed rail Malaysia"]
+framework: history-culture
 ---
 
 Un train à grande vitesse qui pourrait vous emmener de Kuala Lumpur à Singapour en environ 90 minutes a été signé, suspendu, annulé, pleuré et ressuscité — le tout sans qu'une seule voie ait été posée. Voici où en est réellement ce projet qui ne cesse de s'allumer et de s'éteindre.

@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "healthcare-for-seniors" }
 related: ["healthcare-for-seniors"]
 keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap hujung hayat", "penjagaan di rumah", "KKM"]
+framework: explainer
 ---
 
 When treatment is no longer aimed at curing, the focus shifts to one thing: keeping the patient comfortable and dignified. That is the essence of palliative care — and in Malaysia, it can be accessed through three different channels.

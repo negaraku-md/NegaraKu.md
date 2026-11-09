@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "epf-akaun-persaraan" }
 related: []
 keywords: ["EPF i-Invest", "सदस्य निवेश योजना", "Members Investment Scheme", "KWSP MIS", "EPF बचत निवेश", "Akaun Persaraan", "बुनियादी बचत", "Basic Savings", "यूनिट ट्रस्ट EPF"]
+framework: explainer
 ---
 
 आपकी EPF बचत को केवल एक ही जगह पड़े रहकर सालाना लाभांश कमाने की ज़रूरत नहीं है। यदि आपने EPF द्वारा अपेक्षित सेवानिवृत्ति न्यूनतम से अधिक जमा कर लिया है, तो आपको उसका एक नपा-तुला हिस्सा यूनिट ट्रस्ट फंडों में लगाने की अनुमति है — और 2019 से आप यह स्वयं, ऑनलाइन, बिना किसी एजेंट के कर सकते हैं।

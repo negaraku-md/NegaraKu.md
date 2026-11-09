@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["federal-constitution", "court-hierarchy", "civil-and-syariah-courts", "companies-act-2016", "employment-act-1955"]
 keywords: ["Contracts Act 1950", "Act 136", "Malaysia contract law", "offer and acceptance Malaysia", "section 10 Contracts Act", "consideration Malaysia law"]
+framework: data-reference
 ---
 
 租约、聘书、租购协议、经 WhatsApp 确认的二手车买卖——全都建立在同一部已有七十年历史的法令之上：Contracts Act 1950。

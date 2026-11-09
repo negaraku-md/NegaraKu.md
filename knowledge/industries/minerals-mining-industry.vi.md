@@ -96,6 +96,7 @@ keywords:
   - Đạo luật Phát triển Khoáng sản 1994
   - JMG
   - Lynas
+framework: profile
 ---
 
 Nền kinh tế hiện đại của Malaysia, theo nghĩa đen, được đào lên từ lòng đất. Rất lâu trước dầu cọ, điện tử hay bán dẫn, chính **thiếc** đã khiến bán đảo trở nên quan trọng với thế giới — tài trợ cho đường sắt, làm lớn các thị trấn như Ipoh và Kuala Lumpur, và thu hút các thế hệ thợ mỏ di cư. Khai khoáng là câu chuyện công nghiệp lâu đời nhất của đất nước, và dù không còn thống trị nền kinh tế, nó đang được viết lại một cách lặng lẽ quanh một phần thưởng rất hiện đại: các nguyên tố đất hiếm.

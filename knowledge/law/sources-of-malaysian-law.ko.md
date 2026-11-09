@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "court-hierarchy" }
 related: ["federal-constitution", "common-law-in-malaysia", "civil-and-syariah-courts", "how-a-bill-becomes-law", "national-land-code", "court-hierarchy"]
 keywords: ["sources of Malaysian law", "Malaysian legal system", "Federal Constitution supremacy", "Article 4(1)", "Ninth Schedule Federal List State List", "Civil Law Act 1956", "Islamic law Malaysia", "adat Adat Perpatih Adat Temenggong", "customary law Malaysia", "hierarchy of law Malaysia"]
+framework: explainer
 ---
 
 하나의 가정 분쟁을 판단하는 말레이시아 법원은, 원칙적으로, 사실관계에 이르기도 전에 네 개의 서로 다른 법 체계에 손을 뻗어야 할 수 있습니다. 즉 헌법 규정, 연방 법령, 상속된 영국 형평법 규칙, 그리고 — 당사자가 아닷 프르파티(Adat Perpatih) 아래의 느그리슴빌란 말레이인이라면 — 법적 효력을 지닌 관습입니다. 그중 어느 것도 가상의 경계 사례가 아닙니다. 그것은 이 체계의 통상적 구조입니다.

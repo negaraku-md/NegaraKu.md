@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["CCRIS", "CTOS", "credit report Malaysia", "credit score", "Credit Reporting Agencies Act 2010", "RAM Credit Information RAMCI", "credit rating Malaysia"]
+framework: explainer
 ---
 
 Satu angsuran yang menunggak dapat membayangi Anda secara diam-diam selama bertahun-tahun — dan kebanyakan rakyat Malaysia sebenarnya tidak pernah membaca berkas yang dibuka oleh bank sebelum ia berkata ya atau tidak kepada suatu pinjaman.

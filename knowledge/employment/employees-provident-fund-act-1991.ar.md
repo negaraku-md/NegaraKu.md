@@ -92,6 +92,7 @@ entity: "Employees Provident Fund Act 1991 (Act 452)"
 relations: []
 related: []
 keywords: ["Employees Provident Fund Act 1991", "EPF Act 1991", "Act 452", "KWSP", "معدل اشتراك EPF", "أرباح EPF الموزعة", "Akaun Persaraan Sejahtera Fleksibel", "سحب EPF في سن 55", "صندوق ادخار الموظفين ماليزيا", "اشتراك العامل الأجنبي في EPF", "Kumpulan Wang Simpanan Pekerja"]
+framework: rules
 ---
 
 كل قسيمة راتب في القطاع الخاص بماليزيا تحمل اقتطاعاً بنسبة 11% يتلاشى في صندوقٍ لا

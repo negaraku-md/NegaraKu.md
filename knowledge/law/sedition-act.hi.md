@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "article-153-special-position" }
 related: ["federal-constitution", "penal-code", "fundamental-liberties", "article-152-language", "article-153-special-position"]
 keywords: ["Sedition Act 1948", "Act 15", "seditious tendency", "seditious publication", "section 3 Sedition Act", "Act A1485", "राजद्रोह अधिनियम 1948", "राजद्रोही प्रवृत्ति", "राजद्रोही प्रकाशन", "section 3 राजद्रोह अधिनियम", "राजद्रोह कानून मलेशिया"]
+framework: explainer
 ---
 
 राजद्रोह अधिनियम 1948 «sedition» को परिभाषित नहीं करता। यह एक **राजद्रोही प्रवृत्ति** को परिभाषित करता है, और फिर उन कृत्यों, शब्दों और प्रकाशनों से अपराध जोड़ता है जिनमें वह प्रवृत्ति होती है। यह भेद पूरे कानून में चलता है, और यहीं से अधिनियम का कोई भी पठन शुरू होना चाहिए।

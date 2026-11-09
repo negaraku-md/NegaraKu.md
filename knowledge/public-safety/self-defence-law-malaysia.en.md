@@ -63,6 +63,7 @@ relations:
   - { rel: "governs", to: "penal-code-malaysia" }
 related: ["penal-code"]
 keywords: ["pertahanan diri", "hak mempertahankan diri", "Kanun Keseksaan", "seksyen 100", "seksyen 96", "self-defence Malaysia", "private defence"]
+framework: explainer
 ---
 
 An intruder attacks you in your own home in the middle of the night — at that moment, does Malaysian law permit you to fight back? Yes, but under strict conditions, and the line between lawful defence and a crime is thinner than many people assume.

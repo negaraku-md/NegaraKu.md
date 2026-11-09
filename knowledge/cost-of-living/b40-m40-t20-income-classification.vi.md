@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "kos-sara-hidup-malaysia" }
 related: []
 keywords: ["B40", "M40", "T20", "pendapatan isi rumah", "DOSM", "kos sara hidup", "median pendapatan"]
+framework: explainer
 ---
 
 Hầu hết người Malaysia đều biết các nhãn B40, M40 và T20 — nhưng những nhãn đó không đến từ phiếu lương của bạn. Chúng đến từ vị trí của hộ gia đình bạn trong một danh sách dài trải khắp cả nước.

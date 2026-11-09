@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "kos-sara-hidup-malaysia" }
 related: []
 keywords: ["B40", "M40", "T20", "pendapatan isi rumah", "DOSM", "kos sara hidup", "median pendapatan"]
+framework: explainer
 ---
 
 La mayoría de los malasios conocen las etiquetas B40, M40 y T20 — pero esas etiquetas no vienen de su nómina. Vienen de dónde se sitúa su hogar en una larga lista que abarca todo el país.

@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "solid-waste-management-in-malaysia" }
 related: []
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030"]
+framework: explainer
 ---
 
 Kantong plastik tipis di kasir lazimnya digunakan sebentar saja, tetapi dapat bertahan di lingkungan hidup untuk waktu yang lama. Untuk menangani isu ini, Malaysia tidak memilih larangan menyeluruh secara serta-merta — melainkan sebuah peta jalan bertahap yang beranjak dari pungutan kecil ke larangan yang lebih luas.

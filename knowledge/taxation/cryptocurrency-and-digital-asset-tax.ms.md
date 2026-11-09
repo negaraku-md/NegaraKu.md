@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "capital-gains-tax" }
 related: ["service-tax-on-digital-services-stods", "capital-or-revenue", "capital-gains-tax"]
 keywords: ["cryptocurrency tax Malaysia", "crypto tax LHDN", "digital currency tax", "badges of trade crypto", "bitcoin tax Malaysia"]
+framework: explainer
 ---
 
 Dua orang menjual Bitcoin yang sama pada hari yang sama dan meraih keuntungan yang sama. Seorang tidak terhutang apa-apa; seorang lagi terhutang cukai pendapatan. Di Malaysia, apa yang membezakan mereka bukanlah syiling itu — tetapi sama ada pihak berkuasa cukai melihatnya sebagai satu perdagangan.

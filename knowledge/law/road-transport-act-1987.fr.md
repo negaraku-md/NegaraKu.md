@@ -75,6 +75,7 @@ wikidata: "Q27962026"
 relations: []
 related: []
 keywords: ["Road Transport Act 1987", "Act 333", "Akta Pengangkutan Jalan 1987", "RTA 1987", "JPJ", "driving without licence Malaysia", "traffic offences Malaysia", "DUI Malaysia penalty", "Road Transport Amendment Act 2020", "dangerous driving Malaysia", "Section 41 RTA", "Section 44 RTA"]
+framework: rules
 ---
 
 Presque tout *saman* de la JPJ, toute catégorie de permis de conduire et toute police d'assurance au tiers en Malaisie remontent à un seul texte de loi : la **Loi sur le transport routier de 1987 (Act 333)**, en malais *Akta Pengangkutan Jalan 1987*. C'est la principale loi du pays relative aux véhicules à moteur et à la circulation routière, et elle est appliquée principalement par le **Département du transport routier (Jabatan Pengangkutan Jalan, JPJ)**. Voici ci-dessous une carte en langage clair de ce que régit chaque Partie et de ce que coûtent désormais les infractions courantes.

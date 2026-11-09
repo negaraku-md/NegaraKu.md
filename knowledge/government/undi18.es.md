@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "constitutional-amendment", "jpn", "dewan-rakyat", "how-a-bill-becomes-law"]
 keywords: ["Undi18", "Akta A1603", "enmienda constitucional edad para votar 18 años", "Pendaftaran Pemilih Secara Automatik", "PPSA", "Artículo 119 Constitución Federal", "SPR registro automático de electores", "edad para votar Malasia", "Constitution Amendment Act 2019"]
+framework: explainer
 ---
 
 La enmienda que rediseñó el panorama electoral de Malasia ocupa apenas tres páginas. La Ley de la Constitución (Enmienda) de 2019 — la Act A1603 — no redactó un largo procedimiento nuevo. Cambió un puñado de palabras en tres lugares, y dos de esos cambios incorporaron a millones de ciudadanos al padrón electoral.

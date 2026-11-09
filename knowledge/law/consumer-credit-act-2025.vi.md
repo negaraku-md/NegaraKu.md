@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "hire-purchase-act-1967" }
 related: []
 keywords: ["Akta Kredit Pengguna 2025", "Consumer Credit Act", "BNPL Malaysia", "Suruhanjaya Kredit Pengguna", "Akta Sewa Beli 1967", "kadar faedah berkesan", "Rule of 78"]
+framework: explainer
 ---
 
 Trả góp ba tháng cho một đôi giày, hay lái về nhà một chiếc xe mới với khoản đặt cọc 10% — hai giao dịch tín dụng quen thuộc với người Malaysia, nhưng cho đến gần đây được cai quản bởi những thế giới pháp lý rất khác nhau. Nay, cả hai đang được tổ chức lại vào gần như cùng một thời điểm.

@@ -54,6 +54,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["federal-constitution", "majlis-raja-raja", "ma63", "article-152-language", "fundamental-liberties"]
 keywords: ["Article 159 Federal Constitution", "amending the Constitution Malaysia", "two-thirds majority Parliament", "Conference of Rulers consent", "Article 161E Sabah Sarawak", "Perkara 159", "constitutional amendment Malaysia"]
+framework: explainer
 ---
 
 Perkara 159 dimulakan dengan meletakkan dirinya sendiri di bawah peraturannya sendiri. Fasal (5) menyenaraikan peruntukan-peruntukan yang tidak boleh dipinda tanpa persetujuan Majlis Raja-Raja — dan item terakhir dalam senarai itu ialah "Fasal ini" sendiri. Prosedur pindaan itu melindungi prosedur pindaannya sendiri. Butiran itu sahaja memberitahu kita bahawa Perlembagaan Persekutuan tidak pernah dimaksudkan untuk dipinda menurut satu peraturan mudah sahaja.

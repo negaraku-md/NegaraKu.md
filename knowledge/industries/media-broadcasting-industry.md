@@ -98,6 +98,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 When Malaysians talk about "the media," they usually mean one of a few familiar names: Astro's satellite dish bolted to the side of the house, the TV3 news bulletin, a morning radio show on the drive to work, or — increasingly — whatever is playing on a phone during the commute. Those everyday touchpoints belong to a single, sprawling industry: media and broadcasting. It is one of the more visible service sectors in the country, and also one of the most disrupted.

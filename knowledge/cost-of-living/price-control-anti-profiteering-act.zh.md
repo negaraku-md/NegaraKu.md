@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "sales-and-service-tax-sst" }
 related: []
 keywords: ["antipencatutan", "kawalan harga", "untung berlebihan", "Akta 723", "Op Catut", "KPDN", "pencatutan harga"]
+framework: rules
 ---
 
 因为成本上升而涨价是一回事。仅仅为了赚取比去年更高的利润而涨价——在马来西亚，这可能会把你送上法庭。

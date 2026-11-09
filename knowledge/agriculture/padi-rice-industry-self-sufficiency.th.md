@@ -87,6 +87,7 @@ relations:
   - { rel: "affects", to: "cost-of-living-overview" }
 related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "subsidi padi"]
+framework: profile
 ---
 
 ทุกครั้งที่ราคาข้าวสูงขึ้นหรือชั้นวางในซูเปอร์มาร์เก็ตว่างเปล่า คำถามเก่าแก่ก็กลับมาหลอกหลอนมาเลเซีย เหตุใดประเทศที่อุดมด้วยผืนนากลับยังต้องนำเข้าข้าวเกือบครึ่งหนึ่งของตน คำตอบอยู่ที่อุตสาหกรรมหนึ่งที่ขับเคลื่อนด้วยเงินอุดหนุน คุ้มครองด้วยราคาที่รับประกัน และถูกไล่ตามด้วยเป้าหมายการพึ่งพาตนเองที่ยังไปไม่ถึง

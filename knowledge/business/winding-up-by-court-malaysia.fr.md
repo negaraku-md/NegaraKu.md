@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "statutory-demand-section-466-malaysia" }
 related: ["companies-act-2016"]
 keywords: ["liquidation par le tribunal", "liquidation forcee", "section 466", "mise en demeure statutaire", "Fortuna injunction", "seuil RM50000", "Companies Act 2016", "insolvabilite Malaisie", "requete de creancier"]
+framework: explainer
 ---
 
 Une facture impayée peut mettre fin à une société. En Malaisie, un créancier auquel il est dû plus de RM50,000 n'a pas besoin d'un jugement pour recourir au remède le plus radical du droit commercial : une ordonnance judiciaire de liquidation du débiteur et de distribution de ce qui reste.

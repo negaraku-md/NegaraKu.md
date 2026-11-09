@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "buying-property-in-malaysia" }
 related: []
 keywords: ["CCC", "Sijil Perakuan Siap dan Pematuhan", "ubah suai rumah", "kebenaran PBT", "Akta 133", "permit renovation", "Principal Submitting Person"]
+framework: rules
 ---
 
 Anda ingin menambah dapur di belakang rumah atau menambah lantai — dan tiba-tiba tetangga bilang "harus mohon ke majelis dulu". Benarkah? Untuk kebanyakan pekerjaan renovasi, ya.

@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "buying-property-in-malaysia" }
 related: []
 keywords: ["CCC", "Sijil Perakuan Siap dan Pematuhan", "ubah suai rumah", "kebenaran PBT", "Akta 133", "permit renovation", "Principal Submitting Person"]
+framework: rules
 ---
 
 Anda mahu tambah dapur di belakang rumah atau naik tingkat — dan tiba-tiba jiran kata "kena mohon kat majlis dulu". Betulkah? Untuk kebanyakan kerja ubah suai, ya.

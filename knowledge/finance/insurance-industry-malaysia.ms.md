@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["insurance Malaysia", "life insurance", "general insurance", "motor insurance", "PIAM", "LIAM", "Financial Services Act 2013", "Bank Negara Malaysia", "third party cover"]
+framework: profile
 ---
 
 Setiap kali cukai jalan diperbaharui di Malaysia, satu perkara terbukti secara senyap: beli insurans dahulu, atau kenderaan itu kekal tidak boleh dibawa ke jalan raya. Cangkuk undang-undang tunggal itu — perlindungan pihak ketiga motor yang diwajibkan — ialah tepi paling ketara sebuah industri yang selebihnya berjalan di latar belakang kehidupan seharian, mengutip premium, menghimpun risiko, dan membayar apabila sesuatu berlaku.

@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "domestic-flights-and-regional-air-travel" }
 related: []
 keywords: ["ferry Penang", "ferry Langkawi", "ferry Tioman", "transport insulaire Malaisie", "Kuala Kedah", "Kuala Perlis", "mousson du nord-est", "ferry Pangkor", "ferry Labuan"]
+framework: explainer
 ---
 
 Il n'existe pas d'unique ligne de ferry nationale en Malaisie. Rejoindre une île signifie savoir quelle courte traversée, quel embarcadère et quel opérateur la dessert — et, sur la côte est, si la mer est seulement ouverte ce mois-là.

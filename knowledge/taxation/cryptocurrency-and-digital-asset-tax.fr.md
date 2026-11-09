@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "capital-gains-tax" }
 related: ["service-tax-on-digital-services-stods", "capital-or-revenue", "capital-gains-tax"]
 keywords: ["cryptocurrency tax Malaysia", "crypto tax LHDN", "digital currency tax", "badges of trade crypto", "bitcoin tax Malaysia"]
+framework: explainer
 ---
 
 Deux personnes vendent le même Bitcoin le même jour et empochent le même gain.

@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["waqf-islamic-endowment-malaysia", "bank-negara-malaysia", "bursa-malaysia", "federal-budget", "opr-monetary-policy"]
 keywords: ["Islamic finance Malaysia", "sukuk", "takaful", "murabahah", "ijarah", "tawarruq", "Islamic banking Malaysia", "Shariah Advisory Council"]
+framework: explainer
 ---
 
 คำอธิบายเกือบทุกฉบับเกี่ยวกับมาเลเซียและการเงินอิสลามเปิดด้วยอันดับ น้อยฉบับมากที่เปิดด้วยเอกสาร

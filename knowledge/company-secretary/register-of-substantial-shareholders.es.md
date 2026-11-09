@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["register-of-members"]
 keywords: ["substantial shareholder", "register of substantial shareholders", "5% voting shares", "section 144 Companies Act 2016", "section 137 notification", "SSM", "public company", "shareholding disclosure"]
+framework: rules
 ---
 
 Cruce el 5% de las acciones con derecho a voto de una empresa pública y dejará de ser un inversor anónimo: la ley quiere ahora su nombre en un registro especial, y el reloj empieza a correr en días, no en semanas.

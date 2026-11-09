@@ -85,6 +85,7 @@ relations:
   - { rel: "affects", to: "oil-palm-plantations" }
 related: []
 keywords: ["आकस्मिक लाभ उद्ग्रहण", "windfall profit levy", "cukai durian runtuh", "पाम तेल कर मलेशिया", "palm oil tax Malaysia", "CPO उद्ग्रहण", "CPO levy", "Windfall Profit Levy Act 1998", "oil palm fruit order"]
+framework: rules
 ---
 
 जब कच्चे पाम तेल के मूल्य अचानक चढ़ते हैं, तो मलेशियाई सरकार उस लाभ का एक हिस्सा वसूलती है — लेकिन केवल तभी जब मूल्य एक निर्धारित रेखा को पार कर जाता है। वह रेखा ही आकस्मिक लाभ उद्ग्रहण है, एक ऐसा कर जो ऊँचे-मूल्य वाले महीनों में चालू हो जाता है और साधारण महीनों में बंद रहता है।

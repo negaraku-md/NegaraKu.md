@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "how-a-bill-becomes-law" }
 related: ["consumer-protection-act", "companies-act-2016", "how-a-bill-becomes-law"]
 keywords: ["Competition Act 2010", "MyCC", "Malaysia Competition Commission", "anti-competitive agreements", "abuse of dominance", "cartel", "price fixing", "bid rigging", "Section 4", "Section 10"]
+framework: rules
 ---
 
 When five poultry-feed millers quietly agreed to raise their prices in step, it eventually showed up at the wet market in the price of a chicken. In December 2023, Malaysia's competition regulator fined them a combined RM415.5 million — the largest competition penalty in the country's history — for breaking a law many businesses still barely know exists.

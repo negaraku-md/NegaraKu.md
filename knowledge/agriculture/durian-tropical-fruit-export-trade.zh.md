@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "external-trade" }
 related: ["palm-oil-sector", "external-trade", "rubber"]
 keywords: ["Malaysia durian export", "Musang King", "Black Thorn durian", "durian China protocol", "geographical indication durian", "myGAP durian", "fresh durian export China"]
+framework: profile
 ---
 
 十多年来，马来西亚榴梿只有在冷冻或加工成果肉和果酱后才能进入中国。随后，在2024年年中，马来西亚赢得了它多年来一直争取的准入：将整颗新鲜榴梿运往地球上最大榴梿市场的权利。

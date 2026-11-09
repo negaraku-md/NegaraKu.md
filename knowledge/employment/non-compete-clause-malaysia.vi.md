@@ -60,6 +60,7 @@ relations:
   - { rel: "part-of", to: "employment" }
 related: ["employment-contract-malaysia", "termination-of-employment-malaysia"]
 keywords: ["non compete clause malaysia", "restraint of trade malaysia", "section 28 contracts act 1950", "non solicitation malaysia", "restrictive covenant malaysia"]
+framework: explainer
 ---
 
 Gần như mọi hợp đồng lao động Malaysia đều mang một điều khoản không cạnh tranh, và gần như

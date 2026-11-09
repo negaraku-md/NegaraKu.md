@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "str-sumbangan-tunai-rahmah" }
 related: []
 keywords: ["PADU", "Pangkalan Data Utama", "केंद्रीय डेटाबेस", "लक्षित सब्सिडी", "padu.gov.my", "अर्थव्यवस्था मंत्रालय", "DOSM"]
+framework: explainer
 ---
 
 व्यापक सब्सिडी से अधिक लक्षित सहायता की ओर बढ़ने के लिए, सरकार को अपने लोगों की सामाजिक-आर्थिक परिस्थितियों को जानना ज़रूरी है। PADU वही डेटाबेस है जो इसी उद्देश्य के लिए बनाया गया है।

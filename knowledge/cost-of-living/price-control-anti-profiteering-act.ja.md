@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "sales-and-service-tax-sst" }
 related: []
 keywords: ["antipencatutan", "kawalan harga", "untung berlebihan", "Akta 723", "Op Catut", "KPDN", "pencatutan harga"]
+framework: rules
 ---
 
 コストが上昇したために値上げをするのは一つの話である。前年より大きな利益を得るためだけに値上げをする——それはマレーシアではあなたを裁判所に引きずり出しかねない。

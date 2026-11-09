@@ -80,6 +80,7 @@ relations:
   - { rel: "affects", to: "commercial-buildings-malaysia" }
 related: []
 keywords: ["EECA 2024", "Akta 861", "kecekapan tenaga", "Suruhanjaya Tenaga", "pengurus tenaga berdaftar", "audit tenaga", "intensiti tenaga bangunan", "MEPS"]
+framework: rules
 ---
 
 यदि आपका कारखाना या कार्यालय भवन एक वर्ष में लाखों रिंगिट मूल्य की ऊर्जा का उपयोग करता है, तो सरकार अब जानना चाहती है कि हर गीगाजूल कहाँ जाता है — और चाहती है कि आप यह दिखाएँ कि आप अपव्यय कम करने के लिए काम कर रहे हैं। यही Energy Efficiency and Conservation Act 2024, या Act 861 का सार है, एक ऐसा कानून जो 1 जनवरी 2025 से प्रभावी है।

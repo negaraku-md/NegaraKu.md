@@ -88,6 +88,7 @@ relations:
   - { rel: "administered-by", to: "attorney-general" }
 related: ["attorney-general"]
 keywords: ["Ley de Secretos Oficiales", "akta rahsia rasmi", "OSA 1972", "libertad de información", "kebebasan maklumat", "transparencia del gobierno", "documento clasificado", "artículo 16A", "seksyen 16A", "secreto oficial"]
+framework: explainer
 ---
 
 Un memorando de una reunión, un informe de auditoría, un documento del Consejo de Ministros — en Malasia, compartir cualquiera de estos puede convertirse en delito si lleva el sello de secreto oficial. La ley que traza esa línea es la [Ley de Secretos Oficiales de 1972](/law/official-secrets-act-1972), y la ausencia de una ley federal de libertad de información la convierte en uno de los temas más debatidos de la gobernanza malasia.

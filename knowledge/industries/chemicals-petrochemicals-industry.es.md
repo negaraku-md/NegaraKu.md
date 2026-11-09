@@ -97,6 +97,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review (output/export, capacity and ownership figures flagged for verification).
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Los plásticos, los fertilizantes, los detergentes, el caucho sintético, los cosméticos, las pinturas y las resinas del interior de la carcasa de tu teléfono empiezan todos como productos químicos, y una proporción sorprendente de ellos, o de sus componentes básicos, se fabrica en Malasia. Detrás de las historias más conocidas del país sobre el petróleo y gas y el aceite de palma se encuentra una gran industria química y petroquímica, discretamente estratégica, que convierte hidrocarburos y aceites vegetales brutos en los materiales de los que depende la vida moderna.

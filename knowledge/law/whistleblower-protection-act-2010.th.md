@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["macc-sprm", "employment-act-1955"]
 keywords: ["whistleblower protection act 2010", "act 711", "improper conduct", "whistleblower malaysia", "detrimental action", "section 11 revocation", "macc disclosure"]
+framework: explainer
 ---
 
 รายงานการติดสินบนในที่ทำงาน แล้วกฎหมายมาเลเซียสามารถเก็บชื่อของคุณเป็นความลับ ปกป้องคุณจากการถูกฟ้อง และทำให้เป็นการมิชอบด้วยกฎหมายที่นายจ้างจะไล่คุณออกเพราะเรื่องนั้น แต่ก้าวผิดทางหนึ่ง — ไปหาสื่อก่อน หรือปรากฏว่าคุณเองมีส่วนร่วมในแผนการนั้น — และการคุ้มครองทุกอย่างเหล่านั้นสามารถถูกริบไป นั่นคือการออกแบบโดยเจตนาของพระราชบัญญัติคุ้มครองผู้แจ้งเบาะแส 2010

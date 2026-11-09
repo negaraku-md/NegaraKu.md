@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "epf-retirement-savings" }
 related: []
 keywords: ["belanjawanku", "kos sara hidup", "KWSP", "EPF", "belanjawan rujukan", "taraf hidup munasabah", "Lembah Klang", "SWRC"]
+framework: explainer
 ---
 
 「クランバレー（Lembah Klang）で単身者が月RM2,800で暮らせるのか？」——このような問いに答えようとしているのがBelanjawankuである。推測によってではなく、都市部世帯の実際の支出パターンから構築された参照数値によって。

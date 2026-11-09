@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-in-malaysia" }
 related: ["halal-certification-in-malaysia"]
 keywords: ["halal food Malaysia", "JAKIM halal logo", "vegetarian Malaysia", "vegan dining Malaysia", "dietary restrictions Malaysia", "Buddhist vegetarian", "beef-free"]
+framework: explainer
 ---
 
 말레이시아에서 식사를 한다는 것은 한 자리에서 네 가지 음식 문화 — 말레이, 중국, 인도, 그리고 그 사이에서 자라난 전통 — 와 식탁을 함께 나눈다는 뜻입니다. 그 다양성은 식이 요구가 있는 사람에게는 선물이지만, 신호를 모르는 사람에게는 작은 지뢰밭입니다. 그 신호를 읽는 방법을 소개합니다.

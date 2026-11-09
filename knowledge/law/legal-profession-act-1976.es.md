@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
 related: ["federal-constitution"]
 keywords: ["Akta Profesion Guaman 1976", "Majlis Peguam", "Malaysian Bar", "advocate and solicitor", "Junta Disciplinaria", "Akta 166", "profesión jurídica de Malasia"]
+framework: explainer
 ---
 
 Todo abogado que comparece ante un tribunal en Kuala Lumpur, Johor Bahru o Penang lo hace bajo un único y mismo cuerpo normativo — y, si se desvía, esa misma ley puede poner fin a su carrera. Esa es la Ley de la Profesión Jurídica de 1976 (Act 166), la columna vertebral que unifica la profesión jurídica de Malasia Peninsular y la coloca bajo la supervisión del Bar Council y de una junta disciplinaria independiente.

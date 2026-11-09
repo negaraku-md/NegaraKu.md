@@ -72,6 +72,7 @@ relations:
   - { rel: "administered-by", to: "lhdn" }
 related: ["petronas"]
 keywords: ["petroleum income tax", "PITA", "Petroleum Income Tax Act 1967", "petroleum operations", "marginal field tax", "late-life asset PSC", "upstream oil gas tax Malaysia"]
+framework: rules
 ---
 
 บริษัทน้ำมันที่ขุดเจาะนอกชายฝั่ง Terengganu กับโรงงานใน Shah Alam ต่างจ่ายภาษีให้มาเลเซีย — แต่ไม่ได้จ่ายภายใต้กฎหมายเดียวกัน เงินได้ปิโตรเลียมต้นน้ำอยู่ในระบบที่ถูกกั้นกำแพงเป็นของตนเอง มีอัตราของตนเอง แบบแสดงรายการของตนเอง และคู่มือกฎเกณฑ์ของตนเอง

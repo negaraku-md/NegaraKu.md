@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "epf-akaun-persaraan" }
 related: []
 keywords: ["EPF i-Invest", "Members Investment Scheme", "KWSP MIS", "invest EPF savings", "Akaun Persaraan", "Basic Savings", "unit trust EPF"]
+framework: explainer
 ---
 
 Your EPF savings do not have to sit in one place earning only the annual dividend. If you have built up more than the retirement floor the EPF requires, you are allowed to put a measured portion of it into unit trust funds — and since 2019 you can do it yourself, online, without an agent.

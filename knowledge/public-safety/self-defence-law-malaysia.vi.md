@@ -63,6 +63,7 @@ relations:
   - { rel: "governs", to: "penal-code-malaysia" }
 related: ["penal-code"]
 keywords: ["pertahanan diri", "hak mempertahankan diri", "Kanun Keseksaan", "seksyen 100", "seksyen 96", "self-defence Malaysia", "private defence"]
+framework: explainer
 ---
 
 Một kẻ đột nhập tấn công bạn ngay trong nhà mình vào lúc nửa đêm — vào khoảnh khắc đó, liệu pháp luật Malaysia có cho phép bạn chống trả không? Có, nhưng với những điều kiện chặt chẽ, và ranh giới giữa tự vệ hợp pháp với tội phạm mỏng hơn nhiều người tưởng.

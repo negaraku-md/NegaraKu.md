@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "court-hierarchy" }
 related: ["federal-constitution", "common-law-in-malaysia", "civil-and-syariah-courts", "how-a-bill-becomes-law", "national-land-code", "court-hierarchy"]
 keywords: ["sources du droit malaisien", "sources of Malaysian law", "système juridique malaisien", "suprématie de la Constitution fédérale", "Article 4(1)", "Neuvième Annexe Federal List State List", "Civil Law Act 1956", "droit islamique Malaisie", "adat Adat Perpatih Adat Temenggong", "droit coutumier Malaisie", "hiérarchie du droit Malaisie"]
+framework: explainer
 ---
 
 Un tribunal malaisien qui tranche un simple litige familial pourrait, en principe, devoir puiser dans quatre corpus de droit différents avant même d'en arriver aux faits : une disposition constitutionnelle, une loi fédérale, une règle d'equity anglaise héritée, et — si les parties sont des Malais de Negeri Sembilan relevant de l'Adat Perpatih — une coutume dotée de force de loi. Rien de tout cela n'est un cas limite hypothétique. C'est l'architecture ordinaire du système.

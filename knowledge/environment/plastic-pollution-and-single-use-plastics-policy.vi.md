@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "solid-waste-management-in-malaysia" }
 related: []
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030"]
+framework: explainer
 ---
 
 Chiếc túi nhựa mỏng ở quầy thanh toán thường chỉ được sử dụng trong chốc lát, nhưng có thể tồn tại trong môi trường trong một thời gian dài. Để giải quyết vấn đề này, Malaysia không chọn một lệnh cấm toàn diện ngay lập tức — mà thay vào đó là một lộ trình theo giai đoạn chuyển từ một khoản phí nhỏ sang các lệnh cấm rộng hơn.

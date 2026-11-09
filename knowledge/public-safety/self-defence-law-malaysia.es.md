@@ -63,6 +63,7 @@ relations:
   - { rel: "governs", to: "penal-code-malaysia" }
 related: ["penal-code"]
 keywords: ["legítima defensa", "derecho de defensa privada", "Código Penal", "sección 100", "sección 96", "self-defence Malaysia", "private defence"]
+framework: explainer
 ---
 
 Un intruso lo ataca en su propia casa en plena noche — en ese momento, ¿le permite la ley malasia defenderse? Sí, pero bajo condiciones estrictas, y la línea entre la defensa lícita y un delito es más fina de lo que mucha gente supone.

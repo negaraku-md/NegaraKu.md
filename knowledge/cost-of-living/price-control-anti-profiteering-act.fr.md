@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "sales-and-service-tax-sst" }
 related: []
 keywords: ["anti-profit excessif", "contrôle des prix", "profit excessif", "Akta 723", "Op Catut", "KPDN", "spéculation sur les prix"]
+framework: rules
 ---
 
 Augmenter les prix parce que les coûts ont augmenté est une chose. Augmenter les prix uniquement pour empocher un profit plus important que l'an dernier — cela peut vous mener devant les tribunaux en Malaisie.

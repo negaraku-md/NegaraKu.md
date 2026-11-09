@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "malaysian-court-system" }
 related: []
 keywords: ["bantuan guaman", "aide juridictionnelle", "JBG", "YBGK", "Majlis Peguam", "examen des ressources", "avocat gratuit"]
+framework: how-to
 ---
 
 Confronté à un procès, à un divorce ou à une réclamation mais sans les moyens de payer un avocat ? Vous n'avez pas à affronter le tribunal seul. Trois organismes en Malaisie fournissent des services juridiques gratuits ou subventionnés aux personnes à faibles revenus.

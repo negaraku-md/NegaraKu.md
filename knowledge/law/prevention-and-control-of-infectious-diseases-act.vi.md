@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "movement-control-order-covid-19" }
 related: []
 keywords: ["Akta 342", "penyakit berjangkit", "kuarantin", "PKP", "COVID-19", "kawasan jangkitan tempatan", "kesihatan awam", "Kementerian Kesihatan Malaysia"]
+framework: rules
 ---
 
 Khi Lệnh Kiểm soát Di chuyển (MCO) chặn việc đi lại của gần như toàn bộ Malaysia vào tháng 3 năm 2020, quyền lực pháp lý đằng sau nó không đến từ bất kỳ luật khẩn cấp mới nào — mà từ một đạo luật y tế công cộng đã tồn tại kể từ năm 1988.

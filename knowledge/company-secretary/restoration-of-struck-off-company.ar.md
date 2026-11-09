@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "striking-off-a-company" }
 related: ["companies-act-2016"]
 keywords: ["استعادة شركة", "شركة مشطوبة", "المادة 555", "reinstate company", "struck off", "Companies Act 2016", "SSM"]
+framework: how-to
 ---
 
 اختفى اسم شركتك من سجل لجنة الشركات الماليزية (SSM) — لكن الشطب ليس نهائيًا

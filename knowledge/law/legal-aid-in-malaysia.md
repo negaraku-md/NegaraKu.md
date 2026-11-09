@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "malaysian-court-system" }
 related: []
 keywords: ["bantuan guaman", "legal aid", "JBG", "YBGK", "Majlis Peguam", "ujian kemampuan", "peguam percuma"]
+framework: how-to
 ---
 
 Menghadapi saman, penceraian atau tuntutan tetapi tidak mampu mengupah peguam? Anda tidak perlu berdepan mahkamah bersendirian. Tiga badan di Malaysia menyediakan khidmat guaman percuma atau bersubsidi untuk mereka yang berpendapatan rendah.

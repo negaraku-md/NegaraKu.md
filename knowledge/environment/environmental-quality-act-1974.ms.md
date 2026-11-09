@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "manufacturing-licence-malaysia" }
 related: ["manufacturing-licence-malaysia"]
 keywords: ["Environmental Quality Act 1974", "Act 127", "Act A1712", "Department of Environment", "EIA Malaysia", "prescribed premises", "environmental penalties Malaysia", "open burning Malaysia", "scheduled waste"]
+framework: rules
 ---
 
 Satu tumpahan tunggal ke dalam sungai di Malaysia kini boleh mengenakan kos sehingga RM10 juta kepada sesebuah syarikat dan memenjarakan orang yang bertanggungjawab — dan tidak seperti sebelum ini, hakim tidak lagi mempunyai budi bicara untuk menjatuhkan denda semata-mata. Peralihan itu, berkuat kuasa 7 Julai 2024, ialah perubahan paling tajam kepada undang-undang alam sekitar Malaysia dalam separuh abad, dan ia terletak dalam sebuah statut yang telah dipatuhi oleh kebanyakan pengendali secara senyap sejak 1974.

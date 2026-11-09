@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "islamic-family-law-malaysia" }
 related: []
 keywords: ["Akta 164", "perkahwinan sivil", "perceraian bukan Islam", "harta sepencarian", "Law Reform Marriage and Divorce Act 1976", "seksyen 76", "Jabatan Pendaftaran Negara"]
+framework: rules
 ---
 
 あなたが非ムスリムでマレーシアで結婚する場合、その婚姻が有効かどうか、どのように終了しうるか、そして終了した際に誰が何を得るかを定めるのは、ただ一つの法律である——1976年法改正（婚姻及び離婚）法（Law Reform (Marriage and Divorce) Act 1976、Act 164）。

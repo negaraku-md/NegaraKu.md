@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry" }
 related: ["palm-oil-industry"]
 keywords: ["المطاط", "rubber", "المطاط الطبيعي", "natural rubber", "قفازات المطاط", "rubber gloves", "MARGMA", "مجلس المطاط الماليزي", "Malaysian Rubber Board", "لاتكس", "latex", "الإطارات", "tyres", "صغار الملّاك", "smallholders", "التصنيع في المصبّ", "downstream manufacturing"]
+framework: profile
 ---
 
 المطاط الذي بنى مالايا الاستعمارية لم يعد يكسب قُوته في المزرعة — بل يكسبه على أرضية المصنع. لا تزال ماليزيا تنصّت الأشجار، لكن ثروتها المطاطية تركب الآن على القفازات الطبية والإطارات والسلع اللاتكسية التي تصنعها، وهي أعمال تعالج مطاطاً أكثر مما يزرعه البلد نفسه.

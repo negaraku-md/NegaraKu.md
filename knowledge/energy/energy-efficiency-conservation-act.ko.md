@@ -80,6 +80,7 @@ relations:
   - { rel: "affects", to: "commercial-buildings-malaysia" }
 related: []
 keywords: ["EECA 2024", "Akta 861", "kecekapan tenaga", "Suruhanjaya Tenaga", "pengurus tenaga berdaftar", "audit tenaga", "intensiti tenaga bangunan", "MEPS"]
+framework: rules
 ---
 
 여러분의 공장이나 사무 건물이 연간 수백만 링깃 상당의 에너지를 사용한다면, 정부는 이제

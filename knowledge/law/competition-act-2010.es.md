@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "how-a-bill-becomes-law" }
 related: ["consumer-protection-act", "companies-act-2016", "how-a-bill-becomes-law"]
 keywords: ["Competition Act 2010", "MyCC", "Malaysia Competition Commission", "acuerdos anticompetitivos", "abuso de posición dominante", "cártel", "fijación de precios", "amaño de licitaciones", "Section 4", "Section 10"]
+framework: rules
 ---
 
 Cuando cinco fabricantes de pienso para aves acordaron en silencio subir sus precios al unísono, aquello acabó reflejándose en el mercado húmedo en el precio de un pollo. En diciembre de 2023, el regulador de competencia de Malasia los multó con un total de RM415,5 millones —la mayor sanción por competencia en la historia del país— por infringir una ley cuya existencia muchas empresas apenas conocen.

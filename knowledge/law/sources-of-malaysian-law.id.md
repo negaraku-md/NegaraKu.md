@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "court-hierarchy" }
 related: ["federal-constitution", "common-law-in-malaysia", "civil-and-syariah-courts", "how-a-bill-becomes-law", "national-land-code", "court-hierarchy"]
 keywords: ["sources of Malaysian law", "Malaysian legal system", "Federal Constitution supremacy", "Article 4(1)", "Ninth Schedule Federal List State List", "Civil Law Act 1956", "Islamic law Malaysia", "adat Adat Perpatih Adat Temenggong", "customary law Malaysia", "hierarchy of law Malaysia"]
+framework: explainer
 ---
 
 Sebuah pengadilan Malaysia yang menyidangkan satu sengketa keluarga tunggal, pada prinsipnya, mungkin perlu merujuk pada empat badan hukum yang berbeda sebelum ia sampai pada fakta perkara itu: satu ketentuan konstitusional, satu statuta federal, satu kaidah ekuitas Inggris yang diwarisi, dan — jika para pihak adalah orang Melayu Negeri Sembilan di bawah Adat Perpatih — satu adat yang memiliki kekuatan hukum di baliknya. Tidak satu pun dari itu adalah kasus tepi yang semata-mata hipotetis. Itulah arsitektur biasa sistem ini.

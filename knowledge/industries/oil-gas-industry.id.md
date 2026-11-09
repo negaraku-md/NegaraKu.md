@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "petroleum-income-tax" }
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["oil and gas Malaysia", "PETRONAS", "production sharing contract", "PSC", "Petroleum Development Act 1974", "Malaysia Petroleum Management", "upstream", "downstream", "LNG", "petroleum income tax"]
+framework: profile
 ---
 
 Setiap barel minyak dan setiap kaki kubik gas di bawah tanah dan dasar laut Malaysia, menurut undang-undang, adalah milik satu perusahaan saja. Bukan pemerintah secara langsung, bukan penemu lapangan itu, bukan juga perusahaan multinasional yang mengebornya — melainkan PETRONAS, perusahaan minyak nasional yang didirikan untuk memegang petroleum negara secara amanah. Pahami satu fakta itu dan segala-galanya tentang industri minyak dan gas Malaysia — bagaimana ia diregulasi, dibiayai, dipajaki dan dibagi — akan menjadi jelas.

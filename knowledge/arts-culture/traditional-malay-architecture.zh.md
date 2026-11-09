@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "malay-woodcarving" }
 related: []
 keywords: ["rumah Melayu", "rumah panggung", "senibina vernakular", "bumbung panjang", "tebar layar", "rumah panjang", "kampung", "warisan"]
+framework: history-culture
 ---
 
 抬起一栋古老的甘榜（kampung，村落）老屋，拆开它的接合，再在新址上重新组装——大部分过程都无需固定的混凝土地基。这正是传统马来建筑的智慧：一栋在空调出现之前就已"读懂"热带气候的屋子。

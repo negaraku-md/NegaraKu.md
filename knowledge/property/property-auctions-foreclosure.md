@@ -75,6 +75,7 @@ relations:
   - { rel: "governs", to: "national-land-code-1965" }
 related: []
 keywords: ["bank lelong", "property auction Malaysia", "foreclosure", "proclamation of sale", "LACA auction", "order for sale", "reserve price", "reserve price deposit"]
+framework: explainer
 ---
 
 A property can go under the hammer for a fraction of its market value — but the discount is the market pricing in everything that can go wrong. A bank lelong is not a bargain hunt; it is a calculated trade of price for risk.

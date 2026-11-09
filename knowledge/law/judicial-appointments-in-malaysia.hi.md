@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "constitutional-amendment" }
 related: ["court-hierarchy", "constitutional-amendment"]
 keywords: ["न्यायाधीश नियुक्ति", "pelantikan hakim", "Suruhanjaya Pelantikan Kehakiman", "Perkara 122B", "Perkara 125", "न्यायिक स्वतंत्रता", "न्यायाधीश न्यायाधिकरण", "Ketua Hakim Negara"]
+framework: explainer
 ---
 
 हर बार जब कोई नया मुख्य न्यायाधीश पद की शपथ लेता है, तो एक पुराना प्रश्न फिर उभरता है: उस व्यक्ति को वास्तव में कौन चुनता है, और उसे कौन हटा सकता है? मलेशिया में, उत्तर में दो अलग-अलग चरण, दो भिन्न विधिक दस्तावेज़, और इस बात पर एक अनसुलझी बहस शामिल है कि वह शक्ति कहाँ रहनी चाहिए।

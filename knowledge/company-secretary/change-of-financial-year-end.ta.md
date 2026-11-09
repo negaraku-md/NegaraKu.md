@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "cp204b-change-of-accounting-period" }
 related: ["financial-statements-lodgement", "companies-act-2016"]
 keywords: ["tahun kewangan", "FYE", "financial year end", "SSM", "Akta Syarikat 2016", "CP204B", "penyata kewangan"]
+framework: how-to
 ---
 
 பல இயக்குநர்கள் ஒரு நிறுவனத்தின் நிதியாண்டை மாற்றுவதற்கு SSM இடம் அனுப்ப ஒரு சிறப்புப் படிவம் தேவை என்று நினைக்கிறார்கள் — ஆனால் Companies Act 2016 உண்மையில் அத்தகைய படிவத்தைப் பற்றி எதுவும் குறிப்பிடவே இல்லை.

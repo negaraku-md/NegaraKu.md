@@ -101,6 +101,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 En algún lugar de un hogar de Texas o California, hay buenas probabilidades de que la silla de comedor, la estructura de la cama o la estantería se fabricaran en Malasia —muy posiblemente en torno a un solo pueblo, a partir de la madera de un árbol del caucho que antaño producía látex para guantes y neumáticos—. La industria del mueble y los productos de madera de Malasia es uno de los pesos pesados silenciosos de su economía manufacturera: no glamurosa, pero un exportador mundial sistemáticamente entre los diez primeros que ha convertido un subproducto del sector de las plantaciones en bienes acabados vendidos por todo el mundo.

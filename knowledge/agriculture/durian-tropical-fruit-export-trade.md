@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "external-trade" }
 related: ["palm-oil-sector", "external-trade", "rubber"]
 keywords: ["Malaysia durian export", "Musang King", "Black Thorn durian", "durian China protocol", "geographical indication durian", "myGAP durian", "fresh durian export China"]
+framework: profile
 ---
 
 For more than a decade, Malaysian durian could enter China only if it was frozen or processed into pulp and paste. Then, in mid-2024, Malaysia won access it had sought for years: the right to ship whole, fresh durian into the largest durian market on earth.

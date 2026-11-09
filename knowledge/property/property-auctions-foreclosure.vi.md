@@ -76,6 +76,7 @@ relations:
   - { rel: "governs", to: "national-land-code-1965" }
 related: []
 keywords: ["bank lelong", "property auction Malaysia", "foreclosure", "proclamation of sale", "LACA auction", "order for sale", "reserve price", "reserve price deposit"]
+framework: explainer
 ---
 
 Một bất động sản có thể lên sàn đấu giá với chỉ một phần nhỏ giá trị thị trường của nó — nhưng mức chiết khấu đó là cách thị trường định giá mọi điều có thể trở nên tồi tệ. Một bank lelong không phải là cuộc săn hàng hời; nó là một sự đánh đổi có tính toán giữa giá cả và rủi ro.

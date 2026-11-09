@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "register-business-sabah" }
 related: ["register-business-sarawak", "register-business-sabah"]
 keywords: ["akta kemajuan petroleum 1974", "petroleum development act 1974", "petronas", "royalti minyak", "MA63", "seksyen 2 pemilikan", "bayaran tunai petroleum", "sarawak sabah kelantan minyak"]
+framework: explainer
 ---
 
 சில பக்கங்கள் மட்டுமே கொண்ட ஒரு சட்டம், மலேசியாவின் முழு பெட்ரோலியத்தின் — நிலத்திலும் கடல் அடித்தளத்திலும் — உரிமையை ஒரே ஒரு நிறுவனத்திற்கு மாற்றியது; அது வரைந்த பிரிவுக் கோடு இன்றுவரை நீதிமன்றங்களிலும் பேச்சுவார்த்தை மேசைகளிலும் விவாதிக்கப்பட்டு வருகிறது.

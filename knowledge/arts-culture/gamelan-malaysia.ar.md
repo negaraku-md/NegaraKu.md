@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "mak-yong" }
 related: ["pahang", "terengganu", "joget-and-zapin", "mak-yong"]
 keywords: ["gamelan Melayu", "الغاملان الملايوي", "gamelan Terengganu", "gamelan Pahang", "joget gamelan", "Tengku Ampuan Mariam", "موسيقى البلاط", "التراث الوطني"]
+framework: history-culture
 ---
 
 انتقلت مجموعة الغاملان من بلاط إلى آخر لا بسبب بيع أو استيلاء — بل بسبب زواج. فحين كانت أميرة تنتقل إلى قصر زوجها، كانت الآلات والراقصون والأغاني تنتقل معها. وهكذا صار الغاملان ملكاً للبلاطات الملايوية.

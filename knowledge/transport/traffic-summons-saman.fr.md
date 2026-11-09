@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "pdrm" }
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
+framework: how-to
 ---
 
 Un conducteur peut recevoir quatre types de contravention qui se ressemblent sur le papier, mais qui proviennent de quatre parties différentes, et chacune doit être consultée à un endroit distinct. Beaucoup de gens ne connaissent qu'un seul portail et supposent que leur contravention a « disparu » alors qu'elle se trouve en réalité dans un autre système.

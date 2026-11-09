@@ -99,6 +99,7 @@ relations:
   - { rel: "compares-with", to: "rubber-industry" }
 related: ["rubber-industry"]
 keywords: ["palm oil", "crude palm oil", "CPO", "MPOB", "FELDA", "smallholders", "oil palm", "refineries", "oleochemicals", "MSPO", "biodiesel", "exports"]
+framework: profile
 ---
 
 팜유는 세계에서 가장 많이 거래되는 식물성 기름이며, 말레이시아는 인도네시아에 이은 2위 생산국입니다 — 조호르부터 사라왁의 언덕까지 재배되는 가시 돋친 붉은 과일송이를, 아시아·아프리카·유럽 시장으로 실려 나가는 정제 식용유, 비누 원료, 바이오디젤로 바꿉니다. 말레이시아 팜유협의회(MPOC)에 따르면, 이 산업은 소농 약 500,000명을 포함해 300만 명이 넘는 말레이시아인을 직간접적으로 지탱합니다. 나무에서 유조선까지, 그 기계가 어떻게 세워져 있는지를 다음에서 살펴봅니다.

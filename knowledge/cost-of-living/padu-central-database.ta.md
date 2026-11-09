@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "str-sumbangan-tunai-rahmah" }
 related: []
 keywords: ["PADU", "Pangkalan Data Utama", "subsidi bersasar", "padu.gov.my", "Kementerian Ekonomi", "DOSM"]
+framework: explainer
 ---
 
 மொத்த (அனைவருக்கும் வழங்கப்படும்) மானியங்களை இன்னும் இலக்கு வைக்கப்பட்ட உதவியாக மாற்ற, அரசாங்கம் தன் மக்களின் சமூகப்பொருளாதார நிலையை அறிந்திருக்க வேண்டும். அந்த நோக்கத்திற்காக உருவாக்கப்பட்ட தரவுத்தளமே PADU.

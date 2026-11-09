@@ -86,6 +86,7 @@ wikidata: "Q6664408"
 relations: []
 related: []
 keywords: ["gouvernement local Malaisie", "PBT", "pihak berkuasa tempatan", "majlis perbandaran", "majlis daerah", "dewan bandaraya", "Local Government Act 1976", "Act 171", "conseil local Malaisie", "cukai taksiran", "KPKT", "élections du gouvernement local Malaisie", "Datuk Bandar", "Yang Dipertua", "conseil communal Malaisie", "conseil de district Malaisie"]
+framework: explainer
 ---
 
 Le conseil qui ramasse vos déchets, approuve la boutique d'à côté et vous facture l'impôt d'évaluation est la couche de gouvernement la plus proche de votre portail — et c'est la seule couche pour laquelle vous n'avez jamais été autorisé à voter. Le troisième niveau de gouvernement de la Malaisie est assuré par les **autorités locales** (*Pihak Berkuasa Tempatan*, ou **PBT**), qui existent en trois tailles : conseil municipal, conseil communal et conseil de district. Deux faits expliquent presque tout de leur comportement. Premièrement, le gouvernement local est une matière *de l'État* en vertu de la Constitution, de sorte que votre conseil rend des comptes au gouvernement de l'État, et non à Putrajaya. Deuxièmement, les élections locales sont gelées depuis 1965, de sorte que chaque conseiller est nommé par l'État — et non élu par les résidents.

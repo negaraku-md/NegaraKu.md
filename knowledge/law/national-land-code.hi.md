@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["buying-a-home-process", "federal-constitution", "companies-act-2016"]
 keywords: ["National Land Code", "Act 828", "Act 56 of 1965", "Torrens system Malaysia", "land title registration", "indefeasibility of title section 340", "Sabah Land Ordinance", "Sarawak Land Code", "Peninsular Malaysia land law"]
+framework: explainer
 ---
 
 कुचिंग में किसी वकील से कहिए कि वह पीनांग की किसी भूमि-सनद को National Land Code के विरुद्ध जाँचे, और ईमानदार उत्तर होगा: वह वहाँ लागू नहीं होता। यही एक तथ्य — कि मलेशिया एक नहीं, बल्कि तीन अलग भूमि-क़ानूनों पर चलता है — वह हिस्सा है जिसे अधिकांश सारांश छोड़ देते हैं।

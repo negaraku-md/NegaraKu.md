@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-malaysia" }
 related: ["criminal-procedure-code", "federal-constitution"]
 keywords: ["Akta Keterangan 1950", "Evidence Act 1950", "Act 56", "charge de la preuve", "recevabilité", "présomption", "privilège", "seksyen 90A", "seksyen 114A", "aveu"]
+framework: explainer
 ---
 
 Une photographie, un message WhatsApp ou les paroles d'un témoin ne deviennent pas automatiquement une « preuve » devant un tribunal. Ce qui compte comme preuve — et qui doit la prouver — est déterminé par une seule loi : l'Evidence Act 1950 (Act 56).

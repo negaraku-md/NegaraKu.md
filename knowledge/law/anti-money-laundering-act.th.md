@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "financial-intelligence-unit" }
 related: ["bank-negara-malaysia"]
 keywords: ["AMLA", "AMLATFPUAA 2001", "Act 613", "money laundering Malaysia", "terrorism financing", "reporting institution", "suspicious transaction report", "Bank Negara Malaysia", "freezing and seizure", "AML CFT compliance"]
+framework: rules
 ---
 
 เมื่อธนาคารในมาเลเซียทำเครื่องหมายว่าการโอนเงินของลูกค้าเป็นธุรกรรมที่ "น่าสงสัย" กฎหมายฉบับเดียวเป็นตัวกำหนดว่าจะเกิดอะไรขึ้นต่อไป — ต้องแจ้งใคร รวดเร็วเพียงใด และรัฐจะสามารถนำอำนาจใดมาใช้กับเงินนั้นได้บ้าง กฎหมายฉบับนั้นคือ AMLA

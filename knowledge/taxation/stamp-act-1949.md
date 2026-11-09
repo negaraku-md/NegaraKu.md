@@ -102,6 +102,7 @@ entity: "Stamp Act 1949 (Act 378, Malaysia)"
 relations: []
 related: []
 keywords: ["stamp act 1949", "stamp duty malaysia", "LHDN stamp duty", "ad valorem duty", "fixed duty", "memorandum of transfer stamp duty", "MOT stamp duty", "loan agreement stamp duty", "tenancy agreement stamp duty", "e-stamping malaysia", "stamp duty self assessment", "stamp duty calculator malaysia", "stamp duty penalty", "stamp duty exemption", "Act 378"]
+framework: rules
 ---
 
 Sign a tenancy, take out a housing loan, transfer a title, buy shares through a broker — and somewhere in the paperwork sits a tax you may never have noticed. That tax is **stamp duty**, and the law behind it is the **Stamp Act 1949 (Act 378)**. What makes it unusual is its target: stamp duty is charged on the **instrument** — the written document itself — and not on the transaction it records. Get the document stamped and it stands up in court; leave it unstamped and it may be worth little more than the paper it is printed on.

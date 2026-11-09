@@ -76,6 +76,7 @@ wikidata: "Q27962026"
 relations: []
 related: []
 keywords: ["قانون النقل البري 1987", "Road Transport Act 1987", "Act 333", "Akta Pengangkutan Jalan 1987", "RTA 1987", "JPJ", "القيادة دون رخصة ماليزيا", "مخالفات المرور ماليزيا", "عقوبة القيادة تحت تأثير الكحول ماليزيا", "القيادة الخطرة ماليزيا", "driving without licence Malaysia", "DUI Malaysia penalty"]
+framework: rules
 ---
 
 تقريبًا كل مخالفة (*saman*) من JPJ، وكل فئة رخصة قيادة، وكل وثيقة تأمين ضد الغير في

@@ -82,6 +82,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-tenaga-kerja-semenanjung-malaysia" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["Akta 350", "kanak-kanak dan orang muda", "buruh kanak-kanak", "umur minimum bekerja", "kerja hiburan awam", "kerja berbahaya", "Akta Kanak-Kanak dan Orang Muda Pekerjaan 1966"]
+framework: rules
 ---
 
 一名14岁、在家庭食档帮忙的学生，与一名在电视广告中演出的五岁儿童，受同一部法律规范——而不是雇主惯常援引的《1955年雇佣法令》。这部法律就是《1966年儿童与青少年（就业）法令》，即第350号法令（Akta 350）。

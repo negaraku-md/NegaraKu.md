@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "kos-sara-hidup-malaysia" }
 related: []
 keywords: ["B40", "M40", "T20", "دخل الأسرة", "pendapatan isi rumah", "DOSM", "تكلفة المعيشة", "الدخل الوسيط", "median pendapatan"]
+framework: explainer
 ---
 
 يعرف معظم الماليزيين تسميات B40 وM40 وT20 — لكن تلك التسميات لا تأتي من قسيمة راتبك. بل تأتي من موقع أسرتك في قائمة طويلة تشمل البلاد بأكملها.

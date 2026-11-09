@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-economic-policy" }
 related: ["islamic-finance", "external-trade", "bumiputera-economic-policy"]
 keywords: ["halal industry", "halal economy", "HALMAS halal park", "Halal Development Corporation", "HDC", "Halal Industry Master Plan 2030", "halal exports", "global halal hub"]
+framework: profile
 ---
 
 Logo halal pada sebungkus mi instan adalah tempat kebanyakan orang mengira cerita ini berakhir. Di Malaysia, ia lebih mendekati tempat cerita ini bermula. Di balik tanda itu terletak sebuah upaya yang disengaja dan berpuluh-puluh tahun lamanya untuk mengubah "halal" dari jaminan keagamaan menjadi sebuah industri ekspor — lengkap dengan kawasan industri, keringanan pajak, pembiayaan dan rencana induk nasional.

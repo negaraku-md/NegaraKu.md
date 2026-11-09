@@ -100,6 +100,7 @@ relations:
   - { rel: "compares-with", to: "rubber-industry" }
 related: ["rubber-industry"]
 keywords: ["palm oil", "crude palm oil", "CPO", "MPOB", "FELDA", "smallholders", "oil palm", "refineries", "oleochemicals", "MSPO", "biodiesel", "exports"]
+framework: profile
 ---
 
 棕榈油是世界上交易量最大的植物油，而马来西亚是仅次于印尼的第二大生产国——把一串串从柔佛到砂拉越丘陵地带种出的多刺红色果实，加工成精炼食用油、肥皂原料和生物柴油，销往亚洲、非洲和欧洲各地市场。根据马来西亚棕榈油理事会（MPOC）的数据，该产业直接和间接支撑着超过300万马来西亚人，包括将近50万名小农。以下便是这台机器如何从树木一路运转到油轮的过程。

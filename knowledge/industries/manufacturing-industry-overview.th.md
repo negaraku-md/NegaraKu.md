@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "mida" }
 related: []
 keywords: ["Malaysia manufacturing", "machinery and equipment", "plastics", "rubber gloves", "medical devices", "chemicals", "food processing", "NIMP 2030", "MIDA", "DOSM"]
+framework: profile
 ---
 
 พูดว่า "โรงงานมาเลเซีย" แล้วคนส่วนใหญ่นึกภาพห้องปลอดฝุ่นเซมิคอนดักเตอร์ในปีนัง (Penang) หรือสายการผลิต Proton ในชาห์อาลัม (Shah Alam) นั่นเป็นเรื่องจริงและใหญ่ — แต่มันตั้งอยู่บนฐานอุตสาหกรรมที่กว้างกว่ามาก ในปี 2024 ทั้งภาคขับเคลื่อนยอดขาย RM1.9 ล้านล้านและรักษาคนราว 2.4 ล้านคนไว้ในการทำงาน และส่วนใหญ่ของนั้นมาจากเครื่องจักร พลาสติก ยาง เครื่องมือแพทย์ เคมีภัณฑ์ และอาหารบนชั้นวางซูเปอร์มาร์เก็ต

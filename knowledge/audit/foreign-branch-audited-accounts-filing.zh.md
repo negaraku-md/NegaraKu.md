@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "approved-company-auditor-malaysia" }
 related: ["foreign-company-registration-malaysia"]
 keywords: ["foreign company", "branch", "audited accounts", "SSM", "Companies Act 2016", "section 575", "financial statements", "Malaysia"]
+framework: rules
 ---
 
 在马来西亚开设分行并不会让外国公司置身于审计之外——反而会把它拉进来两次。它每年都必须向马来西亚公司委员会（SSM）呈报经审计的账目：一次是针对整家公司，另一次则是单独针对该分行在马来西亚境内实际所从事的业务。

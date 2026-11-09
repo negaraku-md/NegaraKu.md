@@ -87,6 +87,7 @@ relations:
   - { rel: "compares-with", to: "sabah-sarawak-labour-ordinance" }
 related: ["employment-act-1955-guide", "employment-act-coverage", "labour-law-map-malaysia", "sabah-sarawak-labour-ordinance"]
 keywords: ["Employment Act 1955", "Act 265", "Act A1651", "Akta Kerja 1955", "Malaysia employment statute"]
+framework: data-reference
 ---
 
 หน้านี้เป็นบันทึกกฎหมายสำหรับ Act 265 — อัตลักษณ์ การบริหาร และห่วงโซ่การแก้ไขของมัน มันจงใจไม่กล่าวซ้ำถึงสิทธิต่าง ๆ สิทธิเหล่านั้นกำหนดไว้พร้อมหมายเลขมาตราและตัวเลขปัจจุบันใน [คู่มือพระราชบัญญัติการจ้างงาน 1955](/th/employment/employment-act-1955-guide)

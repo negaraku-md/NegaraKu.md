@@ -71,6 +71,7 @@ relations:
   - { rel: "explained-in", to: "rights-when-arrested-malaysia" }
 related: ["penal-code"]
 keywords: ["kanun tatacara jenayah", "akta 593", "criminal procedure code", "reman", "seksyen 117", "ikat jamin", "seksyen 28A", "tangkapan", "perbicaraan jenayah", "prima facie"]
+framework: explainer
 ---
 
 말레이시아에서 누군가가 체포되었을 때, 그 순간 이후에 벌어지는 일 — 그가 석방되는지, 구금되는지, 기소되는지, 재판을 받는지 — 은 임의로 결정되지 않습니다. 그것은 형사소송법(Criminal Procedure Code, Akta 593), 줄여서 KTJ에 의해 단계별로 정해집니다.

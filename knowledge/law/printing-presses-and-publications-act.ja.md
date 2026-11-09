@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysian-media-council-act" }
 related: []
 keywords: ["Akta Mesin Cetak dan Penerbitan", "Akta 301", "PPPA", "permit akhbar", "lesen mesin cetak", "Menteri Dalam Negeri", "kebebasan media"]
+framework: rules
 ---
 
 マレーシアの新聞は、その内容が真実であるから、あるいは読者の関心を引くからという理由だけでは印刷できない——まず内務大臣が発行する出版許可証を必要とする。この枠組みは1984年印刷機・出版法、すなわちAct 301に由来しており、同法は国内メディア界において最も議論の多い支柱の一つとなってきた。

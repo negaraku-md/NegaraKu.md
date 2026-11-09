@@ -72,6 +72,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
 related: []
 keywords: ["derma darah", "Pusat Darah Negara", "PDN", "syarat menderma darah", "keistimewaan penderma", "blood donation Malaysia"]
+framework: how-to
 ---
 
 PDN-இன்படி, ஒரே ஒரு இரத்த தானம் குறைந்தது மூன்று உயிர்களைக் காப்பாற்ற முடியும் — ஏனெனில் முழு இரத்தம் வெவ்வேறு நோயாளர்களுக்காக சிவப்பணுக்கள், இரத்தத் தட்டுகள் (platelet) மற்றும் பிளாஸ்மா (plasma) என பதப்படுத்தப்படுகிறது.

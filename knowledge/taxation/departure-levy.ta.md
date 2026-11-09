@@ -63,6 +63,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-kastam-diraja-malaysia" }
 related: ["tourism-tax"]
 keywords: ["levi pelepasan", "departure levy", "cukai keluar", "Departure Levy Act 2019", "Kastam", "MyDLv"]
+framework: rules
 ---
 
 நீங்கள் மலேசியாவிலிருந்து விமானத்தில் வெளியேறும் ஒவ்வொரு முறையும், பயணிகள் அரிதாகவே கவனிக்கும் ஒரு சிறிய கட்டணத்தை உங்கள் டிக்கெட் விலை அரசாங்கத்திற்கு ஏற்கனவே உள்ளடக்கியிருக்கிறது — புறப்பாட்டு லெவி (Departure Levy). இது 2019 பட்ஜெட் (Budget 2019) இல் அறிமுகப்படுத்தப்பட்டு, *Departure Levy Act 2019* மூலம் **1 September 2019** அன்று அமலுக்கு வந்தது.

@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["CCRIS", "CTOS", "credit report Malaysia", "credit score", "Credit Reporting Agencies Act 2010", "RAM Credit Information RAMCI", "credit rating Malaysia"]
+framework: explainer
 ---
 
 การพลาดชำระงวดเพียงครั้งเดียวสามารถตามหลอกหลอนคุณไปได้อย่างเงียบ ๆ เป็นเวลาหลายปี — และชาวมาเลเซียส่วนใหญ่ไม่เคยได้อ่านแฟ้มข้อมูลที่ธนาคารเปิดขึ้นก่อนที่จะตอบตกลงหรือปฏิเสธสินเชื่อเลยจริง ๆ

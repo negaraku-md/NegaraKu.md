@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "constitutional-amendment" }
 related: ["court-hierarchy", "constitutional-amendment"]
 keywords: ["pelantikan hakim", "Suruhanjaya Pelantikan Kehakiman", "Perkara 122B", "Perkara 125", "kebebasan kehakiman", "tribunal hakim", "Ketua Hakim Negara"]
+framework: explainer
 ---
 
 Each time a new Chief Justice takes the oath of office, an old question resurfaces: who actually chooses that person, and who can remove them? In Malaysia, the answer involves two separate stages, two different legal documents, and an unresolved debate over where that power ought to lie.

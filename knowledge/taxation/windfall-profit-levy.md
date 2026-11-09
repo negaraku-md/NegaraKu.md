@@ -84,6 +84,7 @@ relations:
   - { rel: "affects", to: "oil-palm-plantations" }
 related: []
 keywords: ["windfall profit levy", "cukai durian runtuh", "palm oil tax Malaysia", "CPO levy", "Windfall Profit Levy Act 1998", "oil palm fruit order"]
+framework: rules
 ---
 
 When crude palm oil prices spike, the Malaysian government collects a share of the gain — but only after the price clears a set line. That line is the windfall profit levy, a tax that switches on in high-price months and stays off in ordinary ones.

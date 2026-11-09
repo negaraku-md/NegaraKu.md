@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "rukun-negara" }
 related: ["rukun-negara"]
 keywords: ["bunga raya", "flor nacional", "hibisco", "Hibiscus rosa-sinensis", "símbolos nacionales de Malasia", "Rukun Negara", "Tunku Abdul Rahman"]
+framework: history-culture
 ---
 
 Siete tipos de flor compitieron en su día por representar a una nación recién independizada — y la ganadora no fue la más fragante ni la más rara, sino la más familiar en cada ciudad y pueblo. Esa flor es el bunga raya, el hibisco.

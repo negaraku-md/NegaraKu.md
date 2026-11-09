@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "economy" }
 related: []
 keywords: ["aerospace", "MRO", "maintenance repair overhaul", "aero-manufacturing", "Blueprint 2030", "NIMP2030", "MIDA"]
+framework: profile
 ---
 
 An aircraft can be built in Toulouse or Seattle, but somewhere over its thirty-year life it will need its engines opened, its structure inspected and its avionics refreshed — and increasingly, Malaysia wants that work done in Subang or Senai. That instinct, more than any assembly line, explains the shape of the country's aerospace sector.

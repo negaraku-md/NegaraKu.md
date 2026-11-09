@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "medical-act-1971" }
 related: []
 keywords: ["pengguguran", "undang-undang pengguguran Malaysia", "Seksyen 312 Kanun Keseksaan", "penamatan kehamilan", "Akta Perubatan 1971", "garis panduan KKM"]
+framework: explainer
 ---
 
 많은 사람이 말레이시아에서 낙태가 전면 금지되어 있다고 생각하지만 — 실제로 법은 그것을 더 복잡한 자리에 놓습니다. 즉, 중요한 의료적 예외를 하나 둔 형사 범죄입니다. 그 경계선이 어디에 그어져 있는지를 이해하려면 일반적인 통념이 아니라 형법의 실제 조문을 읽어야 합니다.

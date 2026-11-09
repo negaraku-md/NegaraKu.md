@@ -103,6 +103,7 @@ entity: "Stamp Act 1949 (Act 378, Malaysia)"
 relations: []
 related: []
 keywords: ["stamp act 1949", "stamp duty malaysia", "LHDN stamp duty", "ad valorem duty", "fixed duty", "memorandum of transfer stamp duty", "MOT stamp duty", "loan agreement stamp duty", "tenancy agreement stamp duty", "e-stamping malaysia", "stamp duty self assessment", "stamp duty calculator malaysia", "stamp duty penalty", "stamp duty exemption", "Act 378"]
+framework: rules
 ---
 
 Tandatangani penyewaan, ambil pinjaman perumahan, pindah milik hakmilik, beli saham melalui broker — dan di suatu tempat dalam dokumen itu terselit satu cukai yang mungkin tidak pernah anda perasan. Cukai itu ialah **duti setem**, dan undang-undang di sebaliknya ialah **Akta Setem 1949 (Akta 378)**. Apa yang menjadikannya luar biasa ialah sasarannya: duti setem dikenakan ke atas **surat cara** — dokumen bertulis itu sendiri — dan bukan ke atas transaksi yang direkodkannya. Setemkan dokumen itu dan ia sah di mahkamah; biarkan ia tanpa setem dan ia mungkin tidak lebih bernilai daripada kertas tempat ia dicetak.

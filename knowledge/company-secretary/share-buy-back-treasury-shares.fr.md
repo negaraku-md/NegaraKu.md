@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "solvency-statement" }
 related: []
 keywords: ["rachat d'actions", "pembelian balik saham", "share buy-back", "actions auto-détenues", "treasury shares", "Seksyen 127", "Companies Act 2016", "Akta Syarikat 2016", "Bursa Malaysia", "Chapitre 12"]
+framework: rules
 ---
 
 Une société peut racheter ses propres actions et les conserver « en auto-détention »,

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
 related: ["tenaga-nasional"]
 keywords: ["تعرفة الكهرباء", "tarif elektrik", "TNB", "RP4", "AFA", "ICPT", "Time-of-Use", "رسم الطاقة", "Caj Tenaga", "فاتورة الكهرباء", "bil elektrik", "لجنة الطاقة", "Suruhanjaya Tenaga"]
+framework: explainer
 ---
 
 إذا تصفّحت أحدث فاتورة TNB لديك وفاجأك أن تجد خمسة بنود رسوم منفصلة تحلّ محلّ مجموع واحد أنيق، فأنت لست في حيرة — فقد خضعت بنية تعرفة الكهرباء في شبه جزيرة ماليزيا لإصلاح كامل في 1 يوليو 2025.

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "financial-intelligence-unit" }
 related: ["bank-negara-malaysia"]
 keywords: ["AMLA", "AMLATFPUAA 2001", "Act 613", "money laundering Malaysia", "terrorism financing", "reporting institution", "suspicious transaction report", "Bank Negara Malaysia", "freezing and seizure", "AML CFT compliance"]
+framework: rules
 ---
 
 Khi một ngân hàng Malaysia gắn cờ một khoản chuyển tiền của khách hàng là "đáng ngờ," một đạo luật duy nhất quyết định điều gì xảy ra tiếp theo — ai phải được báo, nhanh đến mức nào, và những quyền lực nào nhà nước sau đó có thể mang ra áp dụng lên số tiền đó. Đạo luật đó là AMLA.

@@ -83,6 +83,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: explainer
 ---
 
 Faites du snorkeling au-dessus d'un récif au large de Tioman ou de Redang, et l'eau claire, les poissons protégés et les règles « pas de pêche, pas de mouillage » qu'on vous a expliquées ne relèvent pas seulement du savoir-vivre — elles sont la loi. La loi qui les sous-tend est le **Fisheries Act 1985**, l'Act 317 du recueil des lois de la Malaisie, et il régit bien plus que le tourisme : il est l'épine dorsale de la façon dont la Malaisie gère la pêche et protège la vie marine à travers ses eaux.

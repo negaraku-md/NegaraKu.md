@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "diesel-subsidy-rationalisation" }
 related: []
 keywords: ["APM", "harga minyak", "RON97", "RON95", "BUDI95", "subsidi bahan api", "harga pam mingguan"]
+framework: explainer
 ---
 
 Setiap hari Rabu, harga di pompa bensin Malaysia dapat berubah — tetapi tidak semua jenis bahan bakar bergerak dengan cara yang sama. Di balik angka pada papan harga itu ada satu formula resmi yang disebut Mekanisme Penetapan Harga Otomatis, atau APM.

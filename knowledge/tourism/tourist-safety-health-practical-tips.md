@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "getting-around-malaysia" }
 related: ["getting-around-malaysia"]
 keywords: ["Malaysia travel tips", "999 emergency Malaysia", "Malaysia SIM card tourist", "Malaysia monsoon season", "Malaysia travel vaccinations", "tipping in Malaysia"]
+framework: explainer
 ---
 
 You have landed, you are jet-lagged, and your phone shows no signal. Before you worry about the perfect nasi lemak, sort the boring-but-important things — a working SIM, the right emergency number, and knowing whether the sky is about to open. Here is the verified shortlist.

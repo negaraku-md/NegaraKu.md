@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "rukun-negara" }
 related: ["rukun-negara"]
 keywords: ["بونغا رايا", "الزهرة الوطنية", "زهرة الخطمي", "الكركديه", "Hibiscus rosa-sinensis", "رموز ماليزيا الوطنية", "ركن نيغارا", "Rukun Negara", "تونكو عبد الرحمن", "bunga raya", "national flower Malaysia"]
+framework: history-culture
 ---
 
 تنافست ذات يوم سبعة أنواع من الزهور على تمثيل أمّة حديثة الاستقلال — ولم يكن الفائز أعطرها ولا أندرها، بل أكثرها ألفةً في كل بلدة وقرية. تلك الزهرة هي البونغا رايا (bunga raya)، أي زهرة الخطمي.

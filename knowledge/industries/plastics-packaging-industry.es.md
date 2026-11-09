@@ -97,6 +97,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Casi todo producto físico que sale de una fábrica malasia —un paquete de fideos instantáneos, un teléfono inteligente, un parachoques de coche, un tramo de tubería de agua— depende de un plástico que se moldeó en algún lugar del país. Los plásticos son una de las silenciosas fortalezas industriales de Malasia: menos glamurosos que los semiconductores, pero entretejidos en casi todos los demás sectores manufactureros y, cada vez más, en el debate nacional sobre los residuos y la sostenibilidad.

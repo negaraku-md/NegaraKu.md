@@ -106,6 +106,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review (export, ranking and market-size figures flagged for verification).
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 إن سبق أن ارتديت قفازًا جراحيًا، أو سُحب دمك عبر قثطار، أو تعافيت بمساعدة غرسة عظمية، فثمة احتمال معقول أن الجهاز صُنع في ماليزيا. فإلى جانب قفازات المطاط الشهيرة، صارت البلاد بهدوء أهم مكان لتصنيع الأجهزة الطبية في جنوب شرق آسيا — وواحدة من أهم قواعد تصنيع التقنية الطبية في أي مكان في العالم.

@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "pdrm" }
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
+framework: how-to
 ---
 
 A driver can receive four types of summons that look similar on paper — but they come from four different parties, and each must be checked in a different place. Many people know only one portal, and assume their summons has "disappeared" when it is actually sitting in a different system.

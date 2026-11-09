@@ -59,6 +59,7 @@ relations:
   - { rel: "governs", to: "traditional-and-complementary-medicine" }
 related: []
 keywords: ["पारंपरिक चिकित्सा", "perubatan tradisional", "T&CM", "Act 775", "TCM", "कायरोप्रैक्टिक", "chiropractic", "होम्योपैथी", "homeopathy", "व्यवसायी पंजीकरण", "T&CM काउंसिल"]
+framework: rules
 ---
 
 1 March 2025 से, मलेशिया में पारंपरिक मालिश करने वाले, चीनी चिकित्सा के व्यवसायी, होम्योपैथ और कायरोप्रैक्टर अब एक कागज़ के बिना अपने क्लिनिक के दरवाज़े नहीं खोल सकते — एक पंजीकरण प्रमाणपत्र। «अनुभव के नाम पर अभ्यास» का युग समाप्त हो गया है।

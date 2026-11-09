@@ -96,6 +96,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 马来西亚没有波士顿或上海那样深厚的研究型大学与风险投资底蕴，但它拥有三样东西，使生物科技成为合乎逻辑的长期押注：全球最丰富的热带生物多样性宝库之一、一股庞大的棕榈油与农业生物质流，以及在清真认证上获全球认可的权威。二十多年来，政府一直设法把这些禀赋转化为一个现代生命科学产业。本指南将说明这一努力如何组织、已经建成了什么，以及正走向何方。

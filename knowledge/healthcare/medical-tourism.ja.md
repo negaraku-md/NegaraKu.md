@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "mm2h-long-stay-visa" }
 related: ["mm2h-long-stay-visa"]
 keywords: ["medical tourism Malaysia", "MHTC Malaysia Healthcare Travel Council", "Malaysia healthcare travellers", "healthcare travel Malaysia cost", "why patients come to Malaysia for treatment"]
+framework: explainer
 ---
 
 ジャカルタのある家族は、父親の心臓バイパス手術のためにマレーシアへ飛んでくる。あるイギリス人夫婦は、自国の順番待ちリストが自分たちの妊孕可能期間を超えて延びているため、体外受精（IVF）を予約する。あるバングラデシュ人患者は、地元のクリニックでは実施できない定期健康診断のためにやって来る。

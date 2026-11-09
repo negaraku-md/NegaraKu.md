@@ -84,6 +84,7 @@ relations:
   - { rel: "governs", to: "cidb-act-520" }
 related: []
 keywords: ["industri pembinaan", "CIDB", "gred kontraktor", "G1 G7", "Akta 520", "kad hijau", "pendaftaran kontraktor", "NCP 2030", "CITP"]
+framework: rules
 ---
 
 Cuba dirikan pagar sekolah bernilai RM250,000 tanpa memegang perakuan pendaftaran kontraktor, dan projek anda boleh diarahkan berhenti serta-merta — sebelum tiang pertama pun ditanam. Di Malaysia, hak untuk membina bukan bermula dengan mesin atau buruh; ia bermula dengan satu daftar.

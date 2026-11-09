@@ -72,6 +72,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
 related: []
 keywords: ["derma darah", "Pusat Darah Negara", "PDN", "syarat menderma darah", "keistimewaan penderma", "blood donation Malaysia"]
+framework: how-to
 ---
 
 PDNによれば、一度の献血で少なくとも3人の命を救うことができる——全血は赤血球、血小板、血漿に加工され、それぞれ異なる患者のために使用されるためである。

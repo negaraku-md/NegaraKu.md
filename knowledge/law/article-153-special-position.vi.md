@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-equity-requirements" }
 related: ["federal-constitution", "fundamental-liberties", "ma63", "majlis-raja-raja", "bumiputera-equity-requirements"]
 keywords: ["Article 153", "special position of the Malays", "natives of Sabah and Sarawak", "Federal Constitution Malaysia", "legitimate interests of other communities", "Article 136 impartial treatment", "Conference of Rulers Article 159", "Bumiputera quotas"]
+framework: explainer
 ---
 
 Phần lớn các bản tóm tắt về Điều 153 dừng ở một câu: nó bảo vệ "vị thế đặc biệt của người Mã Lai." Đọc đầy đủ khoản mà nó đến từ đó, và câu đó đang làm một việc khác — nó nêu tên hai nghĩa vụ trong cùng một hơi thở, cho cùng một chức vụ, trong cùng một khoản.

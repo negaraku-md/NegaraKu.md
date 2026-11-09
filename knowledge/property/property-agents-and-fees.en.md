@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "tenancy-agreement-malaysia" }
 related: []
 keywords: ["ejen hartanah", "REN", "LPEPH", "BOVAEP", "komisen ejen", "fi sewaan", "perunding hartanah"]
+framework: explainer
 ---
 
 The number on that agent's chest badge is not decoration — it is the only quick way to tell a legitimate negotiator apart from someone who merely claims to be an agent. In Malaysia, who may sell, rent out or negotiate property on your behalf is tightly regulated by law.

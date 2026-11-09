@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "national-education-system" }
 related: []
 keywords: ["pusat tuisyen", "tuition centre", "bimbingan persendirian", "Akta Pendidikan 1996", "pendaftaran IPS", "permit mengajar", "JPN"]
+framework: rules
 ---
 
 多くのマレーシアの家庭にとって、放課後の塾通いは宿題と同じくらい当たり前の日課になっている——しかし、それを開設するすべての施設は、実は同じ学校法に縛られている。

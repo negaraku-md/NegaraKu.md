@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "str-sumbangan-tunai-rahmah" }
 related: []
 keywords: ["PADU", "Pangkalan Data Utama", "base de données centrale", "subventions ciblées", "padu.gov.my", "ministère de l'Économie", "DOSM"]
+framework: explainer
 ---
 
 Pour passer de subventions généralisées à une aide plus ciblée, le gouvernement doit connaître la situation socio-économique de sa population. PADU est la base de données construite à cette fin.

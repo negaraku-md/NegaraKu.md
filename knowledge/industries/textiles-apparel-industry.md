@@ -95,6 +95,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Long before Malaysia became known for computer chips and palm oil, it made cloth and clothes. The textiles, apparel and footwear industry is one of the country's oldest modern manufacturing sectors — the kind of labour-intensive, export-oriented business that helped kick-start industrialisation in the 1970s and 1980s. Today it is a smaller slice of a much larger economy, but it remains a real employer, a steady exporter, and a sector the government is actively trying to reinvent.

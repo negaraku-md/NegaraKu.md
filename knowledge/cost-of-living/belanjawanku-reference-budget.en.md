@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "epf-retirement-savings" }
 related: []
 keywords: ["belanjawanku", "kos sara hidup", "KWSP", "EPF", "belanjawan rujukan", "taraf hidup munasabah", "Lembah Klang", "SWRC"]
+framework: explainer
 ---
 
 "Is RM2,800 a month enough for a single person to live in the Klang Valley?" This is exactly the kind of question Belanjawanku sets out to answer — not by guesswork, but with reference figures built from the actual spending patterns of urban households.

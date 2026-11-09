@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: []
 keywords: ["Competition Act 2010", "MyCC", "cartel", "price fixing", "bid rigging", "abuse of dominant position", "Competition Amendment Bill 2026"]
+framework: rules
 ---
 
 在马来西亚，与竞争对手串通抬高价格，或悄悄轮流中标政府招标，并不是精明的商业手段——这是一种违法行为，可能让公司付出其全球总收入十分之一的代价。

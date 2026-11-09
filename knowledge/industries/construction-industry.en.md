@@ -85,6 +85,7 @@ relations:
   - { rel: "governs", to: "cidb-act-520" }
 related: []
 keywords: ["industri pembinaan", "CIDB", "gred kontraktor", "G1 G7", "Akta 520", "kad hijau", "pendaftaran kontraktor", "NCP 2030", "CITP"]
+framework: rules
 ---
 
 Try to erect a school fence worth RM250,000 without holding a contractor registration certificate, and your project can be ordered to stop immediately — before the first post is even planted. In Malaysia, the right to build does not begin with machinery or labour; it begins with a single registration.

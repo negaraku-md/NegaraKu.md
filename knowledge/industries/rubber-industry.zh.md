@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry" }
 related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
+framework: profile
 ---
 
 曾经缔造殖民时期马来亚繁荣的橡胶，如今不再靠种植园谋生——而是靠工厂车间。马来西亚仍在割胶，但其橡胶财富如今系于所制造的医用手套、轮胎和乳胶制品，这一行业消耗的橡胶比整个国家自己种植的还要多。

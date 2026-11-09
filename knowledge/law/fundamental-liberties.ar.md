@@ -56,6 +56,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "court-hierarchy", "parliament"]
 keywords: ["الحريات الأساسية في ماليزيا", "المادة 5 الدستور الاتحادي", "المادة 8 المساواة", "المادة 10 حرية التعبير", "المادة 11 حرية الدين", "المادة 13 الحق في الملكية", "fundamental liberties Malaysia", "Part II Federal Constitution"]
+framework: explainer
 ---
 
 يكفل الجزء الثاني من الدستور الاتحادي أبسط حقوق المواطن الماليزي — وتكاد كل مادة

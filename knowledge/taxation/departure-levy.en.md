@@ -63,6 +63,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-kastam-diraja-malaysia" }
 related: ["tourism-tax"]
 keywords: ["levi pelepasan", "departure levy", "cukai keluar", "Departure Levy Act 2019", "Kastam", "MyDLv"]
+framework: rules
 ---
 
 Every time you fly out of Malaysia, your ticket price already includes a small charge to the government that passengers rarely notice — the departure levy. It was introduced in Budget 2019 and took effect on **1 September 2019** through the *Departure Levy Act 2019*.

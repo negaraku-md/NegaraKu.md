@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "securities-commission-malaysia" }
 related: ["bank-negara-malaysia", "securities-commission-malaysia"]
 keywords: ["regulatory sandbox", "fintech Malaysia", "BNM sandbox", "Innovation Green Lane", "SC sandbox", "FTEG", "capital market fintech"]
+framework: explainer
 ---
 
 மலேசியாவில் ஒரு புதிய பணப்பரிமாற்ற செயலியையோ அல்லது டோக்கனைஸ் செய்யப்பட்ட பங்குகள் தளத்தையோ உருவாக்கினால், நீங்கள் அதே சுவரில் மோதுவீர்கள்: உங்கள் யோசனை பிறப்பதற்கு முன்பே விதிகள் எழுதப்பட்டுவிட்டன. ஒழுங்குமுறை சாண்ட்பாக்ஸ் (regulatory sandbox) என்பது அந்தச் சுவரைக் கடந்து செல்லும் கதவு — முழு உரிமத்தை வைத்திருப்பதற்கு முன், ஒரு நேரடி தயாரிப்பைச் சோதிக்கும் மேற்பார்வையிடப்பட்ட இடம். மலேசியாவில் இதுபோன்ற இரண்டு உள்ளன, நீங்கள் எந்தக் கதவைத் தட்ட வேண்டும் என்பது நீங்கள் எதை உருவாக்குகிறீர்கள் என்பதைப் பொறுத்தது.

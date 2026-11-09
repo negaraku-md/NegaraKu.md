@@ -54,6 +54,7 @@ relations:
   - { rel: "governs", to: "bahasa-melayu" }
 related: ["federal-constitution", "bahasa-melayu"]
 keywords: ["Article 152 Federal Constitution", "national language Malaysia", "Perkara 152", "official purpose Malaysia", "National Language Acts 1963/67", "Article 161 Sabah Sarawak English"]
+framework: explainer
 ---
 
 เมื่ออ่านมาตรา 152 ควบคู่ไปกับส่วนที่เหลือของรัฐธรรมนูญ การอ้างอิงข้ามหนึ่งจุดจะโดดเด่นขึ้นมา มาตรา 161(5) เริ่มต้นด้วยถ้อยคำว่า "แม้จะมีข้อความใดในมาตรา 152" และจากนั้นอนุญาตให้ภาษาพื้นเมืองที่ใช้อยู่ในปัจจุบันในซาบาห์ (Sabah) หรือซาราวัก (Sarawak) สามารถใช้ในศาลพื้นเมืองและในประมวลกฎหมายและจารีตประเพณีพื้นเมืองใด ๆ ได้ กล่าวอีกนัยหนึ่ง มาตราว่าด้วยภาษาประจำชาติตั้งอยู่ในเอกสารที่ระบุข้อยกเว้นต่อตัวมันเองไว้

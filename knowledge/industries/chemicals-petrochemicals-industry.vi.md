@@ -97,6 +97,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review (output/export, capacity and ownership figures flagged for verification).
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Nhựa, phân bón, chất tẩy rửa, cao su tổng hợp, mỹ phẩm, sơn và các loại nhựa resin bên trong vỏ điện thoại của bạn đều bắt đầu từ hóa chất — và một tỷ lệ đáng ngạc nhiên trong số đó, hoặc các khối cấu thành của chúng, được làm ra ở Malaysia. Đằng sau những câu chuyện quen thuộc hơn về dầu khí và dầu cọ của đất nước là một ngành hóa chất và hóa dầu lớn, chiến lược một cách lặng lẽ, biến hydrocarbon thô và dầu thực vật thành những vật liệu mà cuộc sống hiện đại phụ thuộc vào.

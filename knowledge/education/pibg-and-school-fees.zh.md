@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "national-schools-sk-sjkc-sjkt" }
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "persatuan ibu bapa-guru", "yuran sekolah", "yuran khas", "sumbangan PIBG", "sekolah kerajaan", "kos persekolahan"]
+framework: explainer
 ---
 
 您的孩子被送入了"免费"的政府学校——但 PIBG 表格和一堆付款清单还是送到了家里。那么，究竟哪些是必须缴付的，哪些不是？

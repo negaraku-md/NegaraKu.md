@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "national-schools-sk-sjkc-sjkt" }
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "persatuan ibu bapa-guru", "विद्यालय शुल्क", "विशेष शुल्क", "PIBG अंशदान", "सरकारी विद्यालय", "पढ़ाई की लागत"]
+framework: explainer
 ---
 
 आपका बच्चा एक «निःशुल्क» सरकारी विद्यालय में भर्ती है — फिर भी PIBG फ़ॉर्म और भुगतानों की एक सूची आपके द्वार पर पहुँच जाती है। तो वास्तव में क्या देना आवश्यक है, और क्या नहीं?

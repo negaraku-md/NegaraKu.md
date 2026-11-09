@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-in-malaysia" }
 related: ["halal-certification-in-malaysia"]
 keywords: ["halal food Malaysia", "JAKIM halal logo", "vegetarian Malaysia", "vegan dining Malaysia", "dietary restrictions Malaysia", "Buddhist vegetarian", "beef-free"]
+framework: explainer
 ---
 
 மலேசியாவில் உணவருந்த உட்காருவது என்பது ஒரே நேரத்தில் நான்கு உணவுப் பண்பாடுகளுடன் மேசையைப் பகிர்ந்துகொள்வதாகும் — மலாய், சீன, இந்திய, மற்றும் அவற்றுக்கிடையே வளர்ந்த மரபுகள். உணவுத் தேவைகள் உள்ளவர்களுக்கு இந்தப் பன்முகத்தன்மை ஒரு கொடை; ஆனால் அதன் சமிக்ஞைகளை அறியாதவர்களுக்கு இது ஒரு சிறிய கண்ணிவெடி வயல் போன்றது. அவற்றை எப்படிப் படிப்பது என்பது இங்கே.

@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "healthcare-system-overview" }
 related: []
 keywords: ["pendaftaran doktor", "MMC", "MeRITS", "APC", "Lembaga Jururawat Malaysia", "Lembaga Farmasi Malaysia", "MAHPC", "Akta Profesion Kesihatan Bersekutu 2016", "fisioterapi"]
+framework: how-to
 ---
 
 Cualquiera puede ponerse una bata blanca, colgar un certificado en la pared de la clínica y llamarse «médico» — pero solo una cosa confirma de verdad sus credenciales: que su nombre aparezca en el registro oficial. En Malasia, todo médico, enfermero, farmacéutico y fisioterapeuta debe estar registrado ante el organismo que regula su profesión. La buena noticia es que puedes comprobarlo tú mismo, de forma gratuita.

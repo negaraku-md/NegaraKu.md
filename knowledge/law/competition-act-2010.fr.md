@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "how-a-bill-becomes-law" }
 related: ["consumer-protection-act", "companies-act-2016", "how-a-bill-becomes-law"]
 keywords: ["Competition Act 2010", "MyCC", "Malaysia Competition Commission", "accords anticoncurrentiels", "abus de position dominante", "cartel", "fixation des prix", "truquage des offres", "Section 4", "Section 10"]
+framework: rules
 ---
 
 Lorsque cinq fabricants d'aliments pour volaille se sont discrètement entendus pour relever leurs prix de concert, cela a fini par se refléter au marché humide dans le prix d'un poulet. En décembre 2023, le régulateur de la concurrence de la Malaisie leur a infligé une amende d'un total de RM415.5 millions — la plus forte sanction en matière de concurrence de l'histoire du pays — pour avoir enfreint une loi dont beaucoup d'entreprises ignorent encore à peine l'existence.

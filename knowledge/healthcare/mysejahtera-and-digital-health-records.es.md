@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "peka-b40-health-screening" }
 related: []
 keywords: ["MySejahtera", "rekod kesihatan digital", "EMR", "kesihatan digital Malaysia", "KKM", "temu janji klinik kesihatan"]
+framework: explainer
 ---
 
 Mucha gente borró MySejahtera de sus teléfonos cuando la pandemia remitió — pero la aplicación no desapareció. Simplemente cambió de trabajo.

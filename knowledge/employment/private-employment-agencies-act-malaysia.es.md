@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["employment-act-1955"]
 keywords: ["agensi pekerjaan swasta", "Akta 246", "lesen headhunting", "carian eksekutif", "JTKSM", "yuran penempatan"]
+framework: rules
 ---
 
 Abra una empresa de headhunting en Malasia y empiece a emparejar candidatos con empleadores sin licencia, y no estará simplemente incumpliendo un trámite: estará cometiendo un delito que puede llevar a una multa de seis cifras. Todo negocio que coloque a buscadores de empleo con empleadores está sujeto a la **Private Employment Agencies Act 1981 (Act 246)**, aplicada por el Departamento de Trabajo.

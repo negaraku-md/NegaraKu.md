@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "food-delivery-riders" }
 related: []
 keywords: ["e-skuter", "PMD", "mikromobiliti", "basikal elektik", "MS2514", "JPJ", "peranti mobiliti peribadi"]
+framework: rules
 ---
 
 你买了一辆电动滑板车通勤上班，但当车轮触及公共道路的那一刻，你就已经违法了。这就是自2021年底以来马来西亚微型交通工具的现实。

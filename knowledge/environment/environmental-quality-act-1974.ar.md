@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "manufacturing-licence-malaysia" }
 related: ["manufacturing-licence-malaysia"]
 keywords: ["Environmental Quality Act 1974", "Act 127", "Act A1712", "Department of Environment", "EIA Malaysia", "prescribed premises", "environmental penalties Malaysia", "open burning Malaysia", "scheduled waste", "قانون جودة البيئة", "العقوبات البيئية في ماليزيا", "الحرق المكشوف", "النفايات المجدولة"]
+framework: rules
 ---
 
 تسرّبٌ واحد إلى نهر في ماليزيا يمكن أن يكلّف الشركة الآن ما يصل إلى RM10 مليون ويودع المسؤول خلف القضبان — وخلافاً لما سبق، لم يعد للقاضي سلطة تقديرية في فرض غرامة وحدها. ذلك التحول، الساري في 7 يوليو 2024، هو أحدّ تغيير في قانون البيئة الماليزي منذ نصف قرن، وهو يقع داخل تشريع عاش معه معظم المشغّلين بهدوء منذ عام 1974.

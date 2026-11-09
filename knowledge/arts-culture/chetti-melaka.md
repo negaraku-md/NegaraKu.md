@@ -73,6 +73,7 @@ relations:
   - { rel: "located-in", to: "melaka" }
 related: ["peranakan", "tamil-in-malaysia", "deepavali"]
 keywords: ["Chetti Melaka", "Chitty Melaka", "Peranakan India", "Kampung Chetti", "Gajah Berang", "Hindu Saivite", "warisan Melaka"]
+framework: history-culture
 ---
 
 Di sebuah kampung tua di Jalan Gajah Berang, Melaka, ada sekumpulan keluarga yang bersembahyang kepada Dewa Siva, berpakaian seperti orang Melayu, memasak kari beraroma santan, dan bertutur dalam bahasa Melayu yang disendat perkataan Tamil. Mereka bukan India, bukan Melayu, bukan Cina — mereka Chetti Melaka, dan bilangan mereka semakin sedikit.

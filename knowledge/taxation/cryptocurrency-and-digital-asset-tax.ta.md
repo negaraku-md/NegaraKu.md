@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "capital-gains-tax" }
 related: ["service-tax-on-digital-services-stods", "capital-or-revenue", "capital-gains-tax"]
 keywords: ["cryptocurrency tax Malaysia", "crypto tax LHDN", "digital currency tax", "badges of trade crypto", "bitcoin tax Malaysia"]
+framework: explainer
 ---
 
 இரண்டு நபர்கள் ஒரே நாளில் ஒரே Bitcoin-ஐ விற்று ஒரே அளவு ஆதாயத்தைப் பெறுகிறார்கள். ஒருவர் எதுவும் செலுத்த வேண்டியதில்லை; மற்றொருவர் வருமான வரி செலுத்த வேண்டும். மலேசியாவில், அவர்களைப் பிரிப்பது அந்த நாணயம் அல்ல — வரி அதிகாரம் அதை ஒரு வர்த்தகமாகக் காண்கிறதா என்பதுதான்.

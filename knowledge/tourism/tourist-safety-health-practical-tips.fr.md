@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "getting-around-malaysia" }
 related: ["getting-around-malaysia"]
 keywords: ["conseils voyage Malaisie", "999 urgence Malaisie", "carte SIM touriste Malaisie", "saison mousson Malaisie", "vaccins voyage Malaisie", "pourboires en Malaisie", "Malaysia travel tips"]
+framework: explainer
 ---
 
 Vous avez atterri, vous avez le décalage horaire et votre téléphone n'affiche aucun signal. Avant de vous soucier du nasi lemak parfait, réglez les choses ennuyeuses mais importantes — une SIM qui fonctionne, le bon numéro d'urgence et le fait de savoir si le ciel est sur le point de s'ouvrir. Voici la courte liste vérifiée.

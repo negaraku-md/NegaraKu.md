@@ -63,6 +63,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-kastam-diraja-malaysia" }
 related: ["tourism-tax"]
 keywords: ["levi pelepasan", "departure levy", "cukai keluar", "Departure Levy Act 2019", "Kastam", "MyDLv"]
+framework: rules
 ---
 
 Mỗi lần bạn bay ra khỏi Malaysia, giá vé của bạn đã chứa một khoản thanh toán nhỏ cho chính phủ mà hành khách hiếm khi để ý — phí xuất cảnh. Nó được giới thiệu trong Ngân sách 2019 và bắt đầu có hiệu lực vào **ngày 1 tháng 9 năm 2019** thông qua *Departure Levy Act 2019*.

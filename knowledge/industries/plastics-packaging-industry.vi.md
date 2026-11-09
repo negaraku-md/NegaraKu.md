@@ -97,6 +97,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Gần như mọi sản phẩm vật chất rời khỏi một nhà máy Malaysia — một gói mì ăn liền, một chiếc điện thoại thông minh, một cản xe hơi, một đoạn ống nước — đều phụ thuộc vào nhựa được tạo hình ở đâu đó trong nước. Nhựa là một trong những thế mạnh công nghiệp thầm lặng của Malaysia: ít hào nhoáng hơn bán dẫn, nhưng dệt vào gần như mọi khu vực chế tạo khác và, ngày càng, vào cuộc tranh luận quốc gia về rác thải và tính bền vững.

@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "harta-sepencarian-malaysia" }
 related: []
 keywords: ["undang-undang keluarga islam", "akta 303", "mahkamah syariah", "talaq", "fasakh", "khuluk", "hadhanah", "nafkah", "poligami", "islamic family law malaysia"]
+framework: rules
 ---
 
 一位因丈夫不给赡养费而想申请离婚的妻子、一位想继续监护刚满七岁儿子的父亲、一位申请再娶的男子——这三种情况都不是从一般律师楼开始，而是在伊斯兰法庭（Mahkamah Syariah），依据各自州属的伊斯兰家庭法处理。本文以描述性、不偏不倚的方式说明这套法律框架。

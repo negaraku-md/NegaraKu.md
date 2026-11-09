@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "striking-off-a-company" }
 related: ["companies-act-2016"]
 keywords: ["pemulihan syarikat", "syarikat dipotong", "seksyen 555", "reinstate company", "struck off", "Akta Syarikat 2016", "SSM"]
+framework: how-to
 ---
 
 Nama perusahaan Anda hilang dari daftar SSM — tetapi penghapusan itu tidak serta-merta final. Hukum memberikan jangka waktu tujuh tahun untuk memohon pemulihannya, melalui pengadilan.

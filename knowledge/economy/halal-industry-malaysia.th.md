@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "islamic-finance-malaysia" }
 related: ["jakim", "islamic-finance", "matrade"]
 keywords: ["industri halal", "persijilan halal", "JAKIM", "MS 1500", "HDC", "eksport halal", "hab halal", "Akta Perihal Dagangan 2011"]
+framework: profile
 ---
 
 โลโก้ฮาลาลบนผลิตภัณฑ์หนึ่งในมาเลเซียได้รับการรองรับด้วยชุดหน่วยงานรัฐบาล มาตรฐานทาง

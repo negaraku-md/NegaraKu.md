@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "mak-yong" }
 related: ["pahang", "terengganu", "joget-and-zapin", "mak-yong"]
 keywords: ["gamelan Melayu", "मलय गेमेलान", "gamelan Terengganu", "gamelan Pahang", "joget gamelan", "Tengku Ampuan Mariam", "दरबारी संगीत", "राष्ट्रीय विरासत"]
+framework: history-culture
 ---
 
 गेमेलान सेट एक दरबार से दूसरे दरबार में किसी बिक्री या ज़ब्ती के कारण नहीं गया — बल्कि विवाह के कारण। जब कोई राजकुमारी अपने पति के महल में जाती, तो वाद्ययंत्र, नर्तक और गीत उसके साथ चले जाते। इसी प्रकार गेमेलान मलय दरबारों की संपत्ति बना।

@@ -74,6 +74,7 @@ relations:
   - { rel: "located-in", to: "melaka" }
 related: ["peranakan", "tamil-in-malaysia", "deepavali"]
 keywords: ["Chetti Melaka", "Chitty Melaka", "Peranakan India", "Kampung Chetti", "Gajah Berang", "Hindu Saivite", "warisan Melaka"]
+framework: history-culture
 ---
 
 In an old village on Jalan Gajah Berang, Melaka, there is a cluster of families who pray to the god Shiva, dress like Malays, cook curries fragrant with coconut milk, and speak a Malay laced with Tamil words. They are not Indian, not Malay, not Chinese — they are the Chetti Melaka, and their numbers are growing ever smaller.

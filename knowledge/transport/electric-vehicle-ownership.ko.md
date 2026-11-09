@@ -90,6 +90,7 @@ keywords:
   - "kadar LKM kW"
   - "cukai jalan kenderaan elektrik JPJ"
   - "road tax EV Malaysia"
+framework: explainer
 ---
 
 말레이시아에서 전기차의 무료 도로세 시대는 끝났습니다 — 그러나 당신의

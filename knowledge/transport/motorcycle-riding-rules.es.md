@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "road-transport-act-1987" }
 related: []
 keywords: ["lorong motosikal", "Lebuhraya Persekutuan", "topi keledar", "Seksyen 79(2)", "motosikal lebuh raya", "MS 1", "kapasiti enjin"]
+framework: rules
 ---
 
 Entras a la Federal Highway en una motocicleta, ves una señal de «Motorcycle Lane» (carril de motocicletas) que se desvía hacia la izquierda, y te preguntas si estás obligado a seguirla o si puedes permanecer en la calzada principal. La respuesta depende de una sola palabra: *publicado en la gaceta*.

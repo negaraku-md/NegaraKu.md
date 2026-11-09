@@ -96,6 +96,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Mucho antes de que Malasia fuera conocida por los chips de ordenador y el aceite de palma, fabricaba tela y ropa. La industria textil, de confección y calzado es uno de los sectores manufactureros modernos más antiguos del país: ese tipo de negocio intensivo en mano de obra y orientado a la exportación que ayudó a poner en marcha la industrialización en las décadas de 1970 y 1980. Hoy es una porción más pequeña de una economía mucho más grande, pero sigue siendo un empleador real, un exportador estable y un sector que el gobierno intenta reinventar activamente.

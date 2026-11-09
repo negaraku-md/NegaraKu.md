@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "healthcare-for-seniors" }
 related: ["healthcare-for-seniors"]
 keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap hujung hayat", "penjagaan di rumah", "KKM"]
+framework: explainer
 ---
 
 치료가 더 이상 완치를 목표로 하지 않을 때, 초점은 한 가지로 옮겨 갑니다. 환자가 편안하고 존엄을 지키도록 하는 것입니다. 그것이 완화의료의 핵심이며 — 말레이시아에서는 세 가지 서로 다른 경로로 이용할 수 있습니다.

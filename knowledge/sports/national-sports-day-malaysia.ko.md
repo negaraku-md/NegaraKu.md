@@ -69,6 +69,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-belia-dan-sukan" }
 related: []
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
+framework: explainer
 ---
 
 10월 둘째 주 토요일마다, 말레이시아 전역의 경기장과 공원, 스포츠 홀은 사람들로 가득 차야 합니다 — 그것이 바로 국가스포츠의 날의 설계입니다.

@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "mm2h-long-stay-visa" }
 related: ["mm2h-long-stay-visa"]
 keywords: ["medical tourism Malaysia", "MHTC Malaysia Healthcare Travel Council", "Malaysia healthcare travellers", "healthcare travel Malaysia cost", "why patients come to Malaysia for treatment"]
+framework: explainer
 ---
 
 一个雅加达家庭飞来马来西亚，为父亲进行心脏搭桥手术。一对英国夫妇预约试管婴儿（IVF），因为家乡的等候名单已经超出他们的生育年龄窗口。一名孟加拉病患前来做一次例行健康检查，而他家乡的诊所做不了这项检查。

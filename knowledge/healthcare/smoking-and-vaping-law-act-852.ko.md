@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "vaping-in-malaysia" }
 related: []
 keywords: ["Akta 852", "kawalan rokok", "vape", "tembakau", "nikotin", "umur minimum merokok", "generational endgame", "kawasan larangan merokok"]
+framework: rules
 ---
 
 말레이시아에서 처음으로 담배 한 개비와 베이프 기기가 같은 법의 적용을 받게 되었습니다 — 그리고 미성년자에게 판매하는 것은 더 이상 단순한 정책이 아니라 수천 링깃의 벌금을 물 수 있는 범죄가 되었습니다.

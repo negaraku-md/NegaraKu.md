@@ -76,6 +76,7 @@ wikidata: "Q27962026"
 relations: []
 related: []
 keywords: ["Road Transport Act 1987", "Act 333", "Akta Pengangkutan Jalan 1987", "RTA 1987", "JPJ", "driving without licence Malaysia", "traffic offences Malaysia", "DUI Malaysia penalty", "Road Transport Amendment Act 2020", "dangerous driving Malaysia", "Section 41 RTA", "Section 44 RTA"]
+framework: rules
 ---
 
 ใบสั่ง JPJ (*saman*) เกือบทุกใบ ชั้นใบอนุญาตขับขี่ทุกชั้น และกรมธรรม์ประกันภัยบุคคลที่สามทุกฉบับในมาเลเซียสืบย้อนไปยังกฎหมายฉบับเดียว: **พระราชบัญญัติการขนส่งทางถนน 1987 (Road Transport Act 1987, Act 333)** ในภาษามลายูคือ *Akta Pengangkutan Jalan 1987* มันเป็นกฎหมายหลักของประเทศสำหรับยานยนต์และการจราจรทางถนน และบังคับใช้ส่วนใหญ่โดย **กรมการขนส่งทางถนน (Jabatan Pengangkutan Jalan, JPJ)** ด้านล่างเป็นแผนที่ภาษาที่เข้าใจง่ายของว่าแต่ละส่วนกำกับอะไรและความผิดที่พบบ่อยตอนนี้มีราคาเท่าใด

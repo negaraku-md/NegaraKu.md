@@ -91,6 +91,7 @@ keywords:
   - semiconductor equipment
   - Industry4WRD
   - MIDA
+framework: profile
 ---
 
 Every factory runs on machines — and those machines have to be built by someone. The machinery & equipment (M&E) industry is the part of manufacturing that makes the production lines, process machinery, metalworking tools, power systems and automation that every *other* industry depends on. It is the least visible big industry in the economy and, for exactly that reason, one of the most strategically important.

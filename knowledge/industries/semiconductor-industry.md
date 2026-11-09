@@ -94,6 +94,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 If you are reading this on a phone or laptop, there is a real chance one of its chips spent part of its life in Malaysia — not being invented or printed, but being turned from a bare slice of silicon into a finished, packaged component ready to solder onto a circuit board. That quiet, unglamorous step is where Malaysia has built one of the most consequential positions in the entire electronics world.

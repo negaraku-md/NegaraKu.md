@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "malaysian-court-system" }
 related: []
 keywords: ["bantuan guaman", "legal aid", "JBG", "YBGK", "Majlis Peguam", "ujian kemampuan", "peguam percuma"]
+framework: how-to
 ---
 
 面对传票、离婚或诉讼却无力聘请律师？你无需独自面对法庭。马来西亚有三个机构为低收入者提供免费或补贴的律师服务。

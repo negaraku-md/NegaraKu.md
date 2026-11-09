@@ -83,6 +83,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: explainer
 ---
 
 Ber-snorkel di atas terumbu karang di lepas pantai Tioman atau Redang, dan air yang jernih, ikan yang terlindungi, serta aturan "dilarang menangkap ikan, dilarang berlabuh" yang telah diinformasikan kepada Anda bukan sekadar tata krama yang baik — itu adalah hukum. Undang-undang di baliknya adalah **Fisheries Act 1985**, Act 317 dalam kitab undang-undang Malaysia, dan ia mengatur jauh lebih banyak daripada sekadar pariwisata: ia adalah tulang punggung cara Malaysia mengelola penangkapan ikan dan melindungi kehidupan laut di seluruh perairannya.

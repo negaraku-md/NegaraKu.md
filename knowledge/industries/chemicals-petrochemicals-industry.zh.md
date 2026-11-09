@@ -97,6 +97,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review (output/export, capacity and ownership figures flagged for verification).
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 塑料、化肥、洗涤剂、合成橡胶、化妆品、油漆，乃至你手机外壳里的树脂，全都始于化学品——而其中出人意料的一大部分，或它们的基础原料，正是在马来西亚制造的。在这个国家更为人熟知的油气与棕榈油故事背后，坐落着一个庞大而静悄悄具有战略意义的化学与石化产业，它把原始的碳氢化合物与植物油转化为现代生活所依赖的各种材料。

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "pdpa-malaysia" }
 related: []
 keywords: ["Cyber Security Act 2024", "Act 854", "NCII", "NACSA", "cybersecurity licensing Malaysia", "incident reporting Malaysia", "national critical information infrastructure"]
+framework: rules
 ---
 
 பல ஆண்டுகளாக, மலேசியா இணைய தாக்குதல்களைக் கண்காணிக்க கடன் வாங்கிய கருவிகளையே நம்பியிருந்தது — Computer Crimes Act, Communications and Multimedia Act, மற்றும் Bank Negara மற்றும் அதன் சக அமைப்புகளின் துறைச் சுற்றறிக்கைகள். நாட்டின் முக்கிய அமைப்புகளை யார் பாதுகாக்க வேண்டும், ஒரு மீறல் எவ்வளவு விரைவாக அறிக்கையிடப்பட வேண்டும், அல்லது ஒரு ஊடுருவல் சோதனையை விற்க யாருக்கு அனுமதி உண்டு என்பதை ஒரே இடத்தில் இவை எதுவும் கூறவில்லை. Cyber Security Act 2024 அதைச் செய்கிறது. இது மலேசியாவின் முதல் தனித்த இணைய பாதுகாப்புச் சட்டமாகும்; முந்தைய சட்டங்கள் அணைக்கட்டுகளையும் மின் நிலையங்களையும் நடத்திய விதத்தில் — அரசு ஒழுங்குபடுத்த உரிமையுள்ள தேசிய உள்கட்டமைப்பாக — இது சில வலையமைப்புகளை நடத்துகிறது.

@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "external-trade" }
 related: ["palm-oil-sector", "external-trade", "rubber"]
 keywords: ["Malaysia durian export", "Musang King", "Black Thorn durian", "durian China protocol", "geographical indication durian", "myGAP durian", "fresh durian export China"]
+framework: profile
 ---
 
 เป็นเวลากว่าทศวรรษที่ทุเรียนมาเลเซียเข้าสู่จีนได้เฉพาะเมื่อแช่แข็งหรือแปรรูปเป็นเนื้อทุเรียนและทุเรียนกวนเท่านั้น จากนั้นในกลางปี 2024 มาเลเซียก็ได้สิทธิที่แสวงหามาหลายปี นั่นคือ สิทธิในการส่งทุเรียนสดทั้งลูกเข้าสู่ตลาดทุเรียนที่ใหญ่ที่สุดในโลก

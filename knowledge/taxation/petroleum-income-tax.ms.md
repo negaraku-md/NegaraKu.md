@@ -72,6 +72,7 @@ relations:
   - { rel: "administered-by", to: "lhdn" }
 related: ["petronas"]
 keywords: ["petroleum income tax", "PITA", "Petroleum Income Tax Act 1967", "petroleum operations", "marginal field tax", "late-life asset PSC", "upstream oil gas tax Malaysia"]
+framework: rules
 ---
 
 Sebuah syarikat minyak yang menggerudi di luar pantai Terengganu dan sebuah kilang di Shah Alam kedua-duanya membayar cukai kepada Malaysia — tetapi mereka tidak membayarnya di bawah undang-undang yang sama. Pendapatan petroleum huluan berada dalam rejim tersendiri yang dikepung, dengan kadarnya sendiri, penyata cukainya sendiri, dan buku peraturannya sendiri.

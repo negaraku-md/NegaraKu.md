@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-malaysia" }
 related: ["criminal-procedure-code", "federal-constitution"]
 keywords: ["Akta Keterangan 1950", "Evidence Act 1950", "Act 56", "प्रमाण-भार", "ग्राह्यता", "उपधारणा", "विशेषाधिकार", "seksyen 90A", "seksyen 114A", "संस्वीकृति"]
+framework: explainer
 ---
 
 एक तस्वीर, एक WhatsApp संदेश, या किसी साक्षी के शब्द स्वतः न्यायालय में "साक्ष्य" नहीं बन जाते। कोई वस्तु साक्ष्य मानी जाएगी या नहीं — और उसे किसे सिद्ध करना है — यह एक ही अधिनियम से निर्धारित होता है: Evidence Act 1950 (Act 56)।

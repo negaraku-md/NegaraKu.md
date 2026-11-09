@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "e-commerce-malaysia" }
 related: ["mydigital-blueprint"]
 keywords: ["digital economy", "MyDIGITAL", "Malaysia Digital", "MD Status", "MDEC", "e-commerce", "ICT GDP", "DE Rantau"]
+framework: explainer
 ---
 
 이제 말레이시아 경제가 만들어내는 4링깃 중 거의 1링깃이 화면, 서버, 장바구니를 통해 흐릅니다. 말레이시아 통계청(DOSM)에 따르면, 2024년 ICT 산업과 전자상거래는 함께 나라 GDP의 23.4% — RM4,513억 링깃 — 를 차지했습니다. 이 단일 수치는 말레이시아가 디지털 경제에 대해 가진 국가 점수판에 가장 가까운 것이며, 그것이 어떻게 구성되는지, 무엇이 그것을 이끄는지, 정부가 어떻게 그것을 키우려 하는지를 이해하는 것이 나라가 어디로 향하는지를 읽는 가장 빠른 길입니다.

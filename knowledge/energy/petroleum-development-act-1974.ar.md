@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "register-business-sabah" }
 related: ["register-business-sarawak", "register-business-sabah"]
 keywords: ["قانون تطوير البترول 1974", "petroleum development act 1974", "بيتروناس", "petronas", "إتاوة النفط", "MA63", "المادة 2 الملكية", "المدفوعات النقدية للبترول", "ساراواك صباح كلنتان النفط"]
+framework: explainer
 ---
 
 قانونٌ لا يتجاوز بضع صفحات نقل ملكية كل بترول في ماليزيا — برًّا وفي قاع البحر — إلى شركة واحدة، وإلى اليوم لا يزال الخطّ الفاصل الذي رسمه موضع جدل في المحاكم وعلى طاولة التفاوض.

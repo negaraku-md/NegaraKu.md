@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "strata-titles-act-1985" }
 related: []
 keywords: ["HDA", "Akta 118", "Jadual H", "Jadual G", "ganti rugi lewat", "LAD", "milikan kosong", "lesen pemaju", "APDL", "Tribunal Tuntutan Pembeli Rumah"]
+framework: rules
 ---
 
 Anda membayar deposit 10% untuk sebuah kondominium yang hanya ada sebagai gambar arsitek, kemudian menunggu tiga tahun sambil membayar cicilan pinjaman. Apa yang mencegah pengembang kabur dengan uang Anda, membangun lambat, atau menyerahkan unit yang cacat? Jawabannya adalah satu undang-undang berusia lebih dari setengah abad: Housing Development (Control and Licensing) Act 1966 — dikenal ringkas sebagai HDA atau Act 118.

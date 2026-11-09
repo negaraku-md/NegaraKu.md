@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "special-resolution" }
 related: ["companies-act-2016"]
 keywords: ["penukaran status syarikat", "sdn bhd kepada berhad", "syarikat awam", "syarikat sendirian", "seksyen 41 akta syarikat 2016", "resolusi khas", "SSM"]
+framework: how-to
 ---
 
 Sebuah perusahaan yang berawal sebagai *Sendirian Berhad* tidak terkurung dengan status itu selamanya. Apabila bisnis bercita-cita mengumpulkan dana dari publik atau mencatatkan saham, ia boleh berubah menjadi perusahaan publik (*Berhad*) — dan jalur sebaliknya juga terbuka. Kuncinya adalah satu resolusi khusus dan satu penyampaian kepada SSM.

@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "special-resolution" }
 related: ["companies-act-2016"]
 keywords: ["penukaran status syarikat", "sdn bhd kepada berhad", "syarikat awam", "syarikat sendirian", "seksyen 41 akta syarikat 2016", "resolusi khas", "SSM"]
+framework: how-to
 ---
 
 บริษัทที่เริ่มต้นในฐานะ *Sendirian Berhad* ไม่ได้ถูกล็อกอยู่กับสถานะนั้นตลอดไป เมื่อธุรกิจมุ่งหวังจะระดมทุนจากประชาชนหรือนำหุ้นเข้าจดทะเบียน ก็สามารถเปลี่ยนเป็นบริษัทมหาชน (*Berhad*) ได้ — และเส้นทางย้อนกลับก็เปิดอยู่เช่นกัน กุญแจคือมติพิเศษหนึ่งฉบับและการยื่นต่อ SSM หนึ่งครั้ง

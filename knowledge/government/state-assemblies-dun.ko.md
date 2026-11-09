@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "majlis-raja-raja" }
 related: ["dewan-rakyat", "federal-state-division", "spr-election-commission", "majlis-raja-raja", "federal-constitution"]
 keywords: ["Dewan Undangan Negeri", "DUN", "badan perundangan negeri", "Jadual Kelapan", "Perkara 71", "peruntukan penting", "Yang di-Pertua Negeri", "Menteri Besar", "enakmen negeri", "State Legislative Assembly Malaysia"]
+framework: explainer
 ---
 
 토지는 주의 사항입니다. 이슬람 가족법은 주의 사항입니다. 지방정부는 주의 사항입니다. 그러나 어느 주에서 이 사항들에 대한 법을 실제로 누가 통과시키며, 어떤 규칙에 따라 하는가? 그 답은 재량이나 관행의 문제만이 아니라 — 연방헌법(Federal Constitution) 끝의 한 부칙에 조항별로 기재되어 있습니다.

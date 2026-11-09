@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "islamic-finance-malaysia" }
 related: ["jakim", "islamic-finance", "matrade"]
 keywords: ["industri halal", "persijilan halal", "JAKIM", "MS 1500", "HDC", "eksport halal", "hab halal", "Akta Perihal Dagangan 2011"]
+framework: profile
 ---
 
 Logo halal pada suatu produk di Malaysia didukung oleh satu rangkaian lembaga pemerintah, standar teknis, dan undang-undang perdagangan, menjadikannya bukan sekadar tanda keagamaan tetapi juga elemen yang diatur dalam perdagangan. Halal adalah konsep dalam hukum Islam yang merujuk pada hal yang dibolehkan; di Malaysia, ia juga menjadi satu sektor ekonomi yang diukur, direncanakan, dan dipasarkan secara resmi.

@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["register-of-members"]
 keywords: ["substantial shareholder", "register of substantial shareholders", "5% voting shares", "section 144 Companies Act 2016", "section 137 notification", "SSM", "public company", "shareholding disclosure"]
+framework: rules
 ---
 
 公開会社の議決権株式の5％を超えると、あなたはもはや匿名の投資家ではなくなる。法律はあなたの名前を特別な登録簿に記載することを求めており——しかも猶予は週単位ではなく、日単位で刻まれていく。

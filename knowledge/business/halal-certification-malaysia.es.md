@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: ["sst"]
 keywords: ["certificación halal Malasia", "JAKIM halal", "MYeHALAL", "logotipo halal Malasia", "tasa de certificación halal", "Trade Descriptions Order 2011"]
+framework: how-to
 ---
 
 Ponga un logotipo halal en su embalaje sin el certificado de JAKIM y no solo está tomando un

@@ -69,6 +69,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["parliament", "majlis-raja-raja", "federal-state-division"]
 keywords: ["Perlembagaan Persekutuan", "Federal Constitution Malaysia", "undang-undang tertinggi", "Perkara 4 Perlembagaan", "Perkara 159 pindaan", "ketertinggian perlembagaan", "Bahagian Perlembagaan Persekutuan", "prosedur pindaan perlembagaan"]
+framework: explainer
 ---
 
 말레이시아에서 통과되는 모든 법률 — 연방 의회에 의한 것이든 어느 주 입법의회에 의한 것이든 — 은 단 하나의 문서에 비추어 재어질 수 있습니다. 만약 그 법률이 이에 저촉된다면, 그 저촉되는 한도에서 무효로 간주될 수 있습니다. 그 문서가 바로 연방헌법(Federal Constitution)입니다.

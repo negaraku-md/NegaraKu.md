@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "kos-sara-hidup-malaysia" }
 related: []
 keywords: ["B40", "M40", "T20", "pendapatan isi rumah", "DOSM", "kos sara hidup", "median pendapatan"]
+framework: explainer
 ---
 
 பெரும்பாலான மலேசியர்கள் B40, M40 மற்றும் T20 என்ற பெயர்களை அறிவர் — ஆனால் அந்தப் பெயர்கள் உங்கள் சம்பள சீட்டிலிருந்து வருவதில்லை. அவை முழு நாட்டையும் உள்ளடக்கிய ஒரு நீண்ட பட்டியலில் உங்கள் குடும்பம் எங்கே அமர்ந்திருக்கிறது என்பதிலிருந்து வருகின்றன.

@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysian-media-council-act" }
 related: []
 keywords: ["Akta Mesin Cetak dan Penerbitan", "Akta 301", "PPPA", "permit akhbar", "lesen mesin cetak", "Menteri Dalam Negeri", "kebebasan media"]
+framework: rules
 ---
 
 马来西亚的一份报章不能仅仅因为其内容真实或吸引读者就得以印刷——它首先需要一份由内政部长发出的准证。这套框架源自1984年印刷机与出版物法令，即第301号法令，这部法律已成为国内媒体格局中最具争议的支柱之一。

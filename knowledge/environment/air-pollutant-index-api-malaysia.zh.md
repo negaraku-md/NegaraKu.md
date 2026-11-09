@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "jerebu-di-malaysia" }
 related: []
 keywords: ["IPU", "API", "indeks pencemar udara", "kualiti udara", "jerebu", "PM2.5", "PM10", "Jabatan Alam Sekitar"]
+framework: explainer
 ---
 
 当烟霾变浓、学校开始询问是否该取消早会时，通常由一个单一的数字来定夺——IPU 读数。这个数字看似简单，但其背后却有六种被持续测量的污染物，以及一道将它们全部过滤成一个数值的公式。

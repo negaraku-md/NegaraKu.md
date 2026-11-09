@@ -70,6 +70,7 @@ relations:
   - { rel: "compares-with", to: "employment-pass" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "professional-visit-pass"]
 keywords: ["DE Rantau", "visado de nómada digital Malasia", "nomad pass", "MDEC", "Professional Visit Pass", "trabajo remoto Malasia"]
+framework: explainer
 ---
 
 Si trabaja a distancia para un empleador o clientes radicados fuera de Malasia, puede vivir y trabajar legalmente en el país bajo un pase diseñado justo para eso: el **DE Rantau Nomad Pass**.

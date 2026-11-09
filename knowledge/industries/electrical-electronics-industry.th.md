@@ -97,6 +97,7 @@ relations:
   - { rel: "administered-by", to: "mida" }
 related: ["penang", "mida"]
 keywords: ["E&E industry", "electrical and electronics", "Malaysia manufacturing", "Penang electronics", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
+framework: profile
 ---
 
 เปิดแล็ปท็อป สมาร์ตโฟน หรือรถยนต์เกือบทุกคันที่สร้างในทศวรรษที่ผ่านมา และมีโอกาสไม่น้อยที่ชิ้นส่วนหนึ่งของมันผ่านมาเลเซีย ชิปภายในอาจถูกทดสอบและบรรจุในปีนัง (Penang); อะแดปเตอร์ไฟ ไฟแบ็คไลท์ LED หรือแผงวงจรอาจถูกประกอบในกูลิม (Kulim) มะละกา (Melaka) หรือหุบเขากลัง (Klang Valley) สำหรับประเทศที่มีประชากรราว 34.1 ล้านคน (2024, DOSM) มาเลเซียตั้งอยู่ ณ จุดที่เป็นศูนย์กลางอย่างน่าประหลาดใจในห่วงโซ่อุปทานอิเล็กทรอนิกส์ของโลก — และนั่นเกือบทั้งหมดคือเรื่องราวของอุตสาหกรรมเดียว

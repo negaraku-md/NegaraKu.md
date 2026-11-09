@@ -54,6 +54,7 @@ relations:
   - { rel: "governs", to: "bahasa-melayu" }
 related: ["federal-constitution", "bahasa-melayu"]
 keywords: ["المادة 152 الدستور الاتحادي", "اللغة الوطنية ماليزيا", "Perkara 152", "المقصد الرسمي ماليزيا", "قوانين اللغة الوطنية 1963/67", "المادة 161 صباح ساراواك", "Article 152 Federal Constitution", "national language Malaysia", "official purpose Malaysia", "National Language Acts 1963/67"]
+framework: explainer
 ---
 
 اقرأ المادة 152 إلى جانب بقية الدستور، تبرز إحالة مرجعية واحدة. فالمادة 161(5) تبدأ بعبارة "Notwithstanding anything in Article 152" («على الرغم من أي شيء في المادة 152»)، ثم تتيح استخدام لغة أصلية شائعة الاستعمال في صباح أو ساراواك في المحاكم الأصلية ولأي مدوّنة من مدوّنات القانون والعرف الأصليَّين. وبعبارة أخرى، فإن مادة اللغة الوطنية تقع في وثيقة تسمّي بنفسها استثناءاتها منها.

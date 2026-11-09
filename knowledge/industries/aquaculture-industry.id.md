@@ -102,6 +102,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Sebagian besar ikan di piring makan malam orang Malaysia masih berasal dari laut — tetapi kini bagian yang bertumbuh cepat berasal dari kolam, keramba atau rakit long-line. Itulah akuakultur: budidaya kehidupan akuatik secara sengaja, berbeda dari menangkap apa yang berenang di alam liar. Seiring tangkapan liar Malaysia mendatar dan permintaan protein meningkat, akuakultur telah menjadi tuas utama negara untuk menjaga ikan tetap di meja makan. Artikel ini menyelami sisi budidaya bisnis ini secara mendalam; untuk gambaran yang lebih luas, termasuk armada penangkapan, kesejahteraan nelayan dan penegakan hukum, lihat [ikhtisar industri perikanan](/id/agriculture/malaysian-fisheries-industry/).

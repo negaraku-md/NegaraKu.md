@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "income-tax-rates-malaysia" }
 related: []
 keywords: ["Returning Expert Programme", "REP", "TalentCorp", "15% flat tax", "Malaysian diaspora", "returning talent", "MyHeart", "CKD vehicle exemption"]
+framework: explainer
 ---
 
 해외에서 경력을 쌓아 오다가 귀국을 고려하는 말레이시아인이라면, 귀환 전문가

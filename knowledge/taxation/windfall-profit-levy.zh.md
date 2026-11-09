@@ -85,6 +85,7 @@ relations:
   - { rel: "affects", to: "oil-palm-plantations" }
 related: []
 keywords: ["windfall profit levy", "cukai durian runtuh", "palm oil tax Malaysia", "CPO levy", "Windfall Profit Levy Act 1998", "oil palm fruit order"]
+framework: rules
 ---
 
 当毛棕油价格飙升时，马来西亚政府会分享其中一部分涨幅——但只有在价格越过某条设定的界线之后才会如此。这条界线就是暴利税：一种在高价月份启动、在平常月份则关闭的税。

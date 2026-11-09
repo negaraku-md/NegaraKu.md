@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "financial-intelligence-unit" }
 related: ["bank-negara-malaysia"]
 keywords: ["AMLA", "AMLATFPUAA 2001", "Act 613", "money laundering Malaysia", "terrorism financing", "reporting institution", "suspicious transaction report", "Bank Negara Malaysia", "freezing and seizure", "AML CFT compliance"]
+framework: rules
 ---
 
 Apabila sebuah bank Malaysia menanda pindahan wang seseorang pelanggan sebagai "mencurigakan," satu statut menentukan apa yang berlaku seterusnya — siapa yang mesti dimaklumkan, secepat mana, dan apakah kuasa yang boleh digunakan oleh negara terhadap wang tersebut. Statut itu ialah AMLA.

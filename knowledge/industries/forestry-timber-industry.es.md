@@ -96,6 +96,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Malasia se asienta sobre algunas de las selvas tropicales más antiguas de la Tierra, y durante buena parte de su historia moderna el comercio de madera dura tropical fue uno de los pilares de la economía nacional. Ese mundo aguas arriba —los bosques mismos, las licencias para talarlos y el primer procesamiento de troncos brutos en madera— es una industria distinta de las fábricas de muebles y los exportadores de productos de madera más abajo en la cadena. Esta guía cubre el **sector forestal y de recursos madereros**: de dónde viene la madera, quién la controla, cómo se exporta y las presiones de sostenibilidad y de mercado que ahora lo remodelan.

@@ -69,6 +69,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["parliament", "majlis-raja-raja", "federal-state-division"]
 keywords: ["Perlembagaan Persekutuan", "Federal Constitution Malaysia", "undang-undang tertinggi", "Perkara 4 Perlembagaan", "Perkara 159 pindaan", "ketertinggian perlembagaan", "Bahagian Perlembagaan Persekutuan", "prosedur pindaan perlembagaan"]
+framework: explainer
 ---
 
 Every law passed in Malaysia — whether by the federal Parliament or by a State Legislative Assembly — can be measured against a single document. If that law is inconsistent with it, the law may be treated as void to the extent of that inconsistency. That document is the Federal Constitution.

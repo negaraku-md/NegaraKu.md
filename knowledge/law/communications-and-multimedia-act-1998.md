@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "sedition-act-1948" }
 related: ["federal-constitution"]
 keywords: ["akta komunikasi dan multimedia 1998", "seksyen 233", "SKMM", "MCMC", "penyalahgunaan kemudahan rangkaian", "pertuturan dalam talian", "kebebasan bersuara", "akta 588"]
+framework: explainer
 ---
 
 Satu komen di Facebook, satu tweet, atau satu mesej WhatsApp yang dikongsi semula boleh menjadi asas kepada satu pendakwaan jenayah di Malaysia. Peruntukan undang-undang yang paling kerap dipetik dalam situasi sebegini bukan Akta Hasutan mahupun undang-undang fitnah, tetapi Seksyen 233 Akta Komunikasi dan Multimedia 1998.

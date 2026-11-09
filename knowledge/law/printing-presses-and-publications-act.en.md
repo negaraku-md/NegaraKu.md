@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysian-media-council-act" }
 related: []
 keywords: ["Akta Mesin Cetak dan Penerbitan", "Akta 301", "PPPA", "permit akhbar", "lesen mesin cetak", "Menteri Dalam Negeri", "kebebasan media"]
+framework: rules
 ---
 
 A newspaper in Malaysia cannot be printed merely because its content is true or of interest to readers — it first requires a permit issued by the Minister of Home Affairs. That framework stems from the Printing Presses and Publications Act 1984, or Act 301, a law that has become one of the most hotly debated pillars of the country's media landscape.

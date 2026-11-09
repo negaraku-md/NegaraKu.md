@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "national-education-system" }
 related: []
 keywords: ["pusat tuisyen", "tuition centre", "bimbingan persendirian", "Akta Pendidikan 1996", "pendaftaran IPS", "permit mengajar", "JPN"]
+framework: rules
 ---
 
 Di banyak keluarga Malaysia, kelas tuisyen setelah jam sekolah sudah menjadi rutinitas biasa seperti pekerjaan rumah — tetapi setiap pusat yang membukanya sebenarnya terikat dengan undang-undang persekolahan yang sama.

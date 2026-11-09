@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "mak-yong" }
 related: ["pahang", "terengganu", "joget-and-zapin", "mak-yong"]
 keywords: ["gamelan Melayu", "gamelan Terengganu", "gamelan Pahang", "joget gamelan", "Tengku Ampuan Mariam", "muzik istana", "warisan kebangsaan"]
+framework: history-culture
 ---
 
 Bộ gamelan ấy di chuyển từ cung đình này sang cung đình khác không phải vì bị bán hay bị cướp — mà vì hôn nhân. Khi một công chúa dời về cung phủ của chồng, nhạc cụ, vũ công và các bài ca cũng dời theo. Đó là cách gamelan trở thành sở hữu của cung đình Mã Lai.

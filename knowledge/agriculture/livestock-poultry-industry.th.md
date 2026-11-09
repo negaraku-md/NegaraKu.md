@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry" }
 related: ["palm-oil-industry"]
 keywords: ["industri ternakan", "ayam pedaging", "telur ayam", "demam babi Afrika", "influenza burung", "JPV", "nisbah sara diri", "biosekuriti", "kekurangan ayam 2022"]
+framework: profile
 ---
 
 จานอาหารของชาวมาเลเซียพึ่งพาไก่ มันคือโปรตีนที่ราคาถูกที่สุดในประเทศ — และนั่นคือเหตุผลว่าทำไมเมื่อโรงเรือนสั่นคลอน มันจึงกลายเป็นเรื่องของประเทศ ไม่ใช่เพียงเรื่องของฟาร์ม

@@ -92,6 +92,7 @@ entity: "Employees Provident Fund Act 1991 (Act 452)"
 relations: []
 related: []
 keywords: ["Employees Provident Fund Act 1991", "EPF Act 1991", "Act 452", "KWSP", "EPF contribution rate", "EPF dividend", "Akaun Persaraan Sejahtera Fleksibel", "EPF withdrawal age 55", "KWSP Malaysia", "EPF foreign worker contribution", "Kumpulan Wang Simpanan Pekerja"]
+framework: rules
 ---
 
 Mỗi bảng lương ở khu vực tư nhân Malaysia mang một khoản khấu trừ 11% biến mất vào một quỹ mà bạn không thể chạm tới trong nhiều thập kỷ — và đằng sau dòng đó là một đạo luật duy nhất. **Employees Provident Fund Act 1991**, được viện dẫn là **Act 452**, là "một Đạo luật quy định pháp luật liên quan đến một chương trình tiết kiệm cho việc hưu trí của người lao động và việc quản lý các khoản tiết kiệm đó." Nó có hiệu lực vào ngày **1 tháng 6 năm 1991**, thay thế Employees Provident Fund Ordinance 1951 vốn lần đầu thành lập quỹ vào ngày 1 tháng 10 năm 1951, và nó hoạt động dưới phạm vi quản lý của **Bộ Tài chính**.

@@ -78,6 +78,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["batik", "gawai-dayak", "sarawak"]
 keywords: ["pua kumbu", "tenunan Iban", "ikat lungsi", "kebat", "engkudu", "ngar", "kain upacara Sarawak", "Bangie Embol"]
+framework: history-culture
 ---
 
 짜는 이가 '허락' 없이는 감히 만들려 하지 않는 한 장의 천 — 그 무늬는 꿈에서 온다고 하며, 한때는 그것을 만든 사회의 전사 전통과 긴밀히 얽혀 있었습니다. 그것이 바로 푸아 쿰부입니다.

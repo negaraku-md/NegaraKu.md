@@ -85,6 +85,7 @@ relations:
   - { rel: "affects", to: "oil-palm-plantations" }
 related: []
 keywords: ["windfall profit levy", "cukai durian runtuh", "palm oil tax Malaysia", "CPO levy", "Windfall Profit Levy Act 1998", "oil palm fruit order"]
+framework: rules
 ---
 
 Lorsque les prix de l'huile de palme brute s'envolent, le gouvernement malaisien prélève une part du gain, mais seulement après que le prix a franchi une ligne fixée. Cette ligne est le prélèvement sur les bénéfices exceptionnels, un impôt qui s'active les mois de prix élevés et reste désactivé les mois ordinaires.

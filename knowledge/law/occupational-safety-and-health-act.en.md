@@ -81,6 +81,7 @@ relations:
   - { rel: "supersedes", to: "factories-and-machinery-act-1967" }
 related: ["labour-law-map-malaysia", ]
 keywords: ["OSHA 1994", "Akta 514", "tanggungjawab majikan", "DOSH", "penilaian risiko", "JKKP 6", "keselamatan pekerjaan"]
+framework: rules
 ---
 
 A worker falls from scaffolding, and the investigator's first question is not "who was negligent?" — but "did the employer do everything practicable to prevent it?" That is the heart of the Occupational Safety and Health Act 1994 (Act 514), or OSHA 1994.

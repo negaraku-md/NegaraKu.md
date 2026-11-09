@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["insurance Malaysia", "assurance Malaisie", "life insurance", "general insurance", "motor insurance", "PIAM", "LIAM", "Financial Services Act 2013", "Bank Negara Malaysia", "third party cover"]
+framework: profile
 ---
 
 Chaque taxe de circulation renouvelée en Malaisie prouve discrètement un point : achetez d'abord l'assurance, ou le véhicule reste hors de la route. Ce seul crochet légal — la couverture obligatoire de responsabilité civile automobile — est le bord le plus visible d'un secteur qui, par ailleurs, fonctionne en arrière-plan de la vie quotidienne, en encaissant des primes, en mutualisant le risque et en payant lorsque les choses tournent mal.

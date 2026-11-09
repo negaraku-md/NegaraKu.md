@@ -76,6 +76,7 @@ relations:
   - { rel: "governs", to: "national-land-code-1965" }
 related: []
 keywords: ["bank lelong", "property auction Malaysia", "foreclosure", "proclamation of sale", "LACA auction", "order for sale", "reserve price", "reserve price deposit"]
+framework: explainer
 ---
 
 ஒரு சொத்து அதன் சந்தை மதிப்பில் ஒரு சிறு பகுதிக்கே சுத்தியலின் கீழ் விற்கப்படலாம் — ஆனால் அந்தத் தள்ளுபடி என்பது தவறாகக்கூடிய அனைத்தையும் சந்தை விலையிட்டதன் விளைவே. வங்கி ஏலம் என்பது மலிவாக வாங்கும் வேட்டையல்ல; அது விலையை அபாயத்திற்கு மாற்றும் ஒரு கணக்கிடப்பட்ட பரிவர்த்தனை.

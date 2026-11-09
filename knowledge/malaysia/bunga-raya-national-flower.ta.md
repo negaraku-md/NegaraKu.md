@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "rukun-negara" }
 related: ["rukun-negara"]
 keywords: ["bunga raya", "bunga kebangsaan", "hibiscus", "Hibiscus rosa-sinensis", "simbol kebangsaan Malaysia", "Rukun Negara", "Tunku Abdul Rahman"]
+framework: history-culture
 ---
 
 புதிதாக சுதந்திரம் பெற்ற ஒரு நாட்டைப் பிரதிநிதித்துவப்படுத்த ஏழு வகை மலர்கள் ஒரு காலத்தில் போட்டியிட்டன — வென்றது மிக நறுமணமானதோ மிக அரிதானதோ அல்ல, மாறாக ஒவ்வொரு பட்டணத்திலும் கிராமத்திலும் மிகவும் நன்கு அறியப்பட்டதே. அதுதான் bunga raya (செம்பருத்தி).

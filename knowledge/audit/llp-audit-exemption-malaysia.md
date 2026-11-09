@@ -61,6 +61,7 @@ relations:
   - { rel: "administered-by", to: "ssm" }
 related: []
 keywords: ["PLT audit", "LLP audit exemption", "Akta PLT 2012", "perisytiharan tahunan PLT", "seksyen 69", "SSM"]
+framework: explainer
 ---
 
 Banyak usahawan memilih Perkongsian Liabiliti Terhad (PLT) sebahagiannya kerana ia tidak perlu membayar untuk audit tahunan. Berbeza dengan syarikat sendirian berhad, PLT boleh beroperasi bertahun-tahun tanpa seorang juruaudit pun melihat akaunnya — dan itu memang sah di sisi undang-undang.

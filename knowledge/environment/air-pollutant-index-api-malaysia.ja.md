@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "jerebu-di-malaysia" }
 related: []
 keywords: ["IPU", "API", "indeks pencemar udara", "kualiti udara", "jerebu", "PM2.5", "PM10", "Jabatan Alam Sekitar"]
+framework: explainer
 ---
 
 ヘイズ（煙霧）が濃くなり、学校が朝礼を中止すべきかどうか尋ね始めるとき、決め手となるのは通常一つの数字——API読み値です。その数字は単純に見えますが、その背後には絶え間なく測定される六種類の汚染物質と、それらすべてを一つの値へとふるいにかける一つの計算式があります。

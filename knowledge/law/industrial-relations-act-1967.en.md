@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "mahkamah-perusahaan-malaysia" }
 related: ["employment-act-1955"]
 keywords: ["akta perhubungan perusahaan 1967", "pembuangan kerja tidak adil", "seksyen 20", "mahkamah perusahaan", "kesatuan sekerja", "rundingan kolektif", "reinstatement", "unfair dismissal malaysia"]
+framework: rules
 ---
 
 You were dismissed this morning and told your "performance was unsatisfactory" — but there was no warning letter, no internal inquiry, and no chance to defend yourself. In Malaysia, this situation has a legal name and one dedicated forum: a representation under section 20 of the Industrial Relations Act 1967, heard at the Industrial Court. This is the layer of labour relations that the Employment Act 1955 does not handle.

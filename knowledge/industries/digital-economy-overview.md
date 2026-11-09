@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "e-commerce-malaysia" }
 related: ["mydigital-blueprint"]
 keywords: ["digital economy", "MyDIGITAL", "Malaysia Digital", "MD Status", "MDEC", "e-commerce", "ICT GDP", "DE Rantau"]
+framework: explainer
 ---
 
 Nearly one ringgit in every four that Malaysia's economy produces now runs through screens, servers and shopping carts. In 2024 the ICT industry and e-commerce together made up 23.4% of the country's GDP — worth RM451.3 billion — according to the Department of Statistics Malaysia (DOSM). That single figure is the closest thing Malaysia has to a national scoreboard for the digital economy, and understanding how it is built, what drives it, and how the government is trying to grow it is the fastest way to read where the country is heading.

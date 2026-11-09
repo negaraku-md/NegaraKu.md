@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["macc-sprm", "employment-act-1955"]
 keywords: ["whistleblower protection act 2010", "act 711", "improper conduct", "whistleblower malaysia", "detrimental action", "section 11 revocation", "macc disclosure"]
+framework: explainer
 ---
 
 직장에서 뇌물을 신고하면 말레이시아 법은 여러분의 이름을 비밀로 지키고, 여러분이 제소당하지 아니하도록 보호하며, 상사가 그 일로 여러분을 해고하는 것을 위법으로 만들 수 있습니다. 그러나 한 걸음을 잘못 디디면 — 먼저 언론에 가거나, 그 계획에 여러분 자신의 손이 얽혀 있었던 것으로 드러나면 — 그 모든 보호가 박탈될 수 있습니다. 그것이 공익신고자보호법 2010(Whistleblower Protection Act 2010)의 의도된 설계입니다.

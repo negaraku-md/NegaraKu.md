@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "industries-tourism" }
 related: []
 keywords: ["Malaysia industries", "Malaysia economy sectors", "Malaysia GDP by sector", "Malaysia exports", "electrical and electronics Malaysia", "palm oil", "Malaysia manufacturing", "services sector Malaysia"]
+framework: explainer
 ---
 
 Rastrea casi cualquier componente de un gadget global —el chip dentro de un teléfono inteligente, la soldadura en un servidor de centro de datos— y hay buenas probabilidades de que una parte haya pasado por el suelo de una fábrica en Penang, Kulim o Klang. Sin embargo, la fábrica es solo una porción de la historia. Malasia hoy se gana la vida en su mayor parte no por lo que fabrica, sino por lo que vende, atiende y mueve. Este es el mapa de esa economía: los sectores que importan, cuánto pesa cada uno y dónde retoman el hilo las guías más detalladas de esta categoría.

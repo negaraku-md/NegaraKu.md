@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "national-schools-sk-sjkc-sjkt" }
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "persatuan ibu bapa-guru", "yuran sekolah", "yuran khas", "sumbangan PIBG", "sekolah kerajaan", "kos persekolahan"]
+framework: explainer
 ---
 
 Votre enfant est inscrit dans une école publique « gratuite » — et pourtant, le formulaire du PIBG et une liste de paiements arrivent quand même à votre porte. Alors, que faut-il payer exactement et que ne faut-il pas payer ?

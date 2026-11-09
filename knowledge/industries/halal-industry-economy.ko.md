@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-economic-policy" }
 related: ["islamic-finance", "external-trade", "bumiputera-economic-policy"]
 keywords: ["halal industry", "halal economy", "HALMAS halal park", "Halal Development Corporation", "HDC", "Halal Industry Master Plan 2030", "halal exports", "global halal hub"]
+framework: profile
 ---
 
 라면 봉지에 붙은 할랄 로고는 대부분의 사람들이 이야기가 끝난다고 생각하는 지점입니다. 말레이시아에서는 그것이 이야기가 시작되는 지점에 더 가깝습니다. 그 마크 뒤에는 "할랄"을 종교적 보증에서 수출 산업으로 바꾸려는 의도적이고 수십 년에 걸친 시도가 자리하고 있습니다 — 산업단지, 세금 감면, 금융, 그리고 국가 마스터플랜이 함께 붙어 있습니다.

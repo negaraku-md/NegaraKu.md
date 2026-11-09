@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "petroleum-income-tax" }
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["النفط والغاز في ماليزيا", "oil and gas Malaysia", "PETRONAS", "بتروناس", "عقد تقاسم الإنتاج", "production sharing contract", "PSC", "قانون تطوير البترول 1974", "Petroleum Development Act 1974", "إدارة البترول الماليزية", "Malaysia Petroleum Management", "المنبع", "upstream", "المصبّ", "downstream", "LNG", "ضريبة دخل البترول", "petroleum income tax"]
+framework: profile
 ---
 
 كل برميل نفط وكل قدم مكعبة من الغاز تحت تراب ماليزيا وقاع بحرها يعود، بحكم القانون، إلى شركة واحدة. لا إلى الدولة مباشرةً، ولا إلى مكتشفي الحقول، ولا إلى الشركات متعددة الجنسيات التي تحفرها — بل إلى بتروناس (PETRONAS)، شركة النفط الوطنية التي أُنشئت لتحتفظ ببترول الأمة على سبيل الأمانة. افهم تلك الحقيقة الواحدة، وسيقع سائر صناعة النفط والغاز في ماليزيا — كيف تُنظَّم وتُموَّل وتُفرَض عليها الضريبة وتُتقاسَم — في موضعه.

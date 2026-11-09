@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "freedom-of-information-malaysia" }
 related: []
 keywords: ["Akta Rahsia Rasmi 1972", "Official Secrets Act", "Akta 88", "rahsia rasmi", "pengelasan dokumen", "seksyen 16A", "keselamatan negara", "kebebasan media", "OSA Malaysia"]
+framework: rules
 ---
 
 Một nhà báo nhận được bản sao biên bản Nội các, một nhà nghiên cứu đo đạc gần một doanh trại quân đội, và một viên chức giữ một hồ sơ đóng dấu "Kín" — cả ba đều có thể bị chạm bởi cùng một đạo luật. Luật Bí mật Chính thức 1972, hay Act 88, là xương sống của hệ thống bảo mật chính thức của Malaysia, và phạm vi của nó rộng hơn nhiều so với chỉ các vấn đề gián điệp.

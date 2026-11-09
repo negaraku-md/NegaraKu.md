@@ -95,6 +95,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Casi cada ringgit que un malasio gasta en bienes físicos —comestibles, un teléfono, un coche, una botella de aceite de cocina— pasa por el comercio minorista y mayorista. Es la fontanería del consumo cotidiano: la red de importadores, mayoristas, distribuidores, tiendas, mercados y comercios en línea que mueve los productos desde donde se fabrican hasta donde se compran. Las autoridades llaman a esta red **comercio distributivo**, y es una de las partes más grandes y visibles de la economía malasia.

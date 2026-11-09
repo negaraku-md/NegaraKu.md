@@ -86,6 +86,7 @@ wikidata: "Q6664408"
 relations: []
 related: []
 keywords: ["local government Malaysia", "PBT", "pihak berkuasa tempatan", "majlis perbandaran", "majlis daerah", "dewan bandaraya", "Local Government Act 1976", "Act 171", "local council Malaysia", "cukai taksiran", "KPKT", "local government elections Malaysia", "Datuk Bandar", "Yang Dipertua", "municipal council Malaysia", "district council Malaysia"]
+framework: explainer
 ---
 
 สภาที่เก็บขยะของคุณ อนุมัติตึกแถวข้างบ้าน และเรียกเก็บภาษีประเมินจากคุณ คือชั้นของรัฐบาลที่ใกล้ประตูบ้านคุณที่สุด — และเป็นชั้นเดียวที่คุณไม่เคยได้รับอนุญาตให้ลงคะแนนเลือก ชั้นที่สามของการปกครองมาเลเซียให้บริการโดย **องค์กรปกครองส่วนท้องถิ่น** (*Pihak Berkuasa Tempatan* หรือ **PBT**) ซึ่งมีสามขนาด ได้แก่ สภานคร สภาเทศบาล และสภาอำเภอ ข้อเท็จจริงสองประการอธิบายเกือบทุกอย่างเกี่ยวกับพฤติกรรมของสภาเหล่านี้ ประการแรก การปกครองส่วนท้องถิ่นเป็นเรื่องของ *รัฐ* ภายใต้รัฐธรรมนูญ ดังนั้นสภาของคุณจึงขึ้นตรงต่อรัฐบาลของรัฐ มิใช่ปุตราจายา ประการที่สอง การเลือกตั้งท้องถิ่นถูกระงับมาตั้งแต่ปี 1965 ดังนั้นสมาชิกสภาทุกคนจึงได้รับการแต่งตั้งโดยรัฐ — มิใช่ได้รับเลือกโดยผู้อยู่อาศัย

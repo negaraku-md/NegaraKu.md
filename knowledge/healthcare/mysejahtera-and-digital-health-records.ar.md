@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "peka-b40-health-screening" }
 related: []
 keywords: ["MySejahtera", "السجلات الصحية الرقمية", "EMR", "الصحة الرقمية ماليزيا", "KKM", "موعد عيادة الصحة"]
+framework: explainer
 ---
 
 حذف كثيرون MySejahtera من هواتفهم حين خفّت الجائحة — لكن التطبيق لم يختفِ. بل غيّر وظيفته فحسب.

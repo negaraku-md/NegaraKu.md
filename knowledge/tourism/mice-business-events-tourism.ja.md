@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
 related: ["penang-george-town-visitor-guide", "tourist-safety-health-practical-tips"]
 keywords: ["MICE Malaysia", "business events", "MyCEB", "convention bureau", "KLCC", "MITEC", "Borneo Convention Centre Kuching", "exhibitions"]
+framework: profile
 ---
 
 320万人の参加者が会議のために飛来するとき、彼らはホテルを予約し、通訳を雇い、レストランを満席にし、契約を交わす——そしてマレーシアは、彼らを取り込むための会場とビューローの構築に10年以上を費やしてきた。

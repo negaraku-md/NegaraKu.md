@@ -78,6 +78,7 @@ relations:
   - { rel: "compares-with", to: "johor-bahru-singapore-rts-link" }
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["KL Singapore HSR", "high-speed rail Malaysia", "MyHSR Corp", "HSR termination compensation", "HSR revival RFP"]
+framework: history-culture
 ---
 
 쿠알라룸푸르에서 싱가포르까지 약 90분 만에 데려다줄 수 있는 고속열차가 —

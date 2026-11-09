@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["federal-constitution", "majlis-raja-raja", "constitutional-amendment", "new-economic-policy", "ma63"]
 keywords: ["Perkara 153", "Article 153", "posición especial de los malayos", "special position of the Malays", "Bumiputera", "nativos de Sabah Sarawak", "intereses legítimos de otras comunidades", "proporción razonable", "cuota Constitución Malasia", "Artículo 153 Constitución Federal", "definición de malayo Artículo 160"]
+framework: explainer
 ---
 
 Muchas personas citan el Artículo 153, pero muchas menos han leído sus apartados. Algunos lo llaman «privilegio malayo», otros lo llaman «una cuota» y otros lo llaman «discriminación» — y sin embargo el texto real del Artículo no emplea ninguna de esas palabras. Establece una responsabilidad, impone varios límites y — un punto que rara vez se menciona — nombra a dos grupos que deben ser protegidos al mismo tiempo.

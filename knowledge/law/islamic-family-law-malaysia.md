@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "harta-sepencarian-malaysia" }
 related: []
 keywords: ["undang-undang keluarga islam", "akta 303", "mahkamah syariah", "talaq", "fasakh", "khuluk", "hadhanah", "nafkah", "poligami", "islamic family law malaysia"]
+framework: rules
 ---
 
 Seorang isteri yang ingin menuntut cerai kerana suami tidak memberi nafkah, seorang bapa yang mahu meneruskan jagaan anak lelaki yang baru berusia tujuh tahun, seorang lelaki yang memohon berkahwin lain — ketiga-tiga situasi ini tidak bermula di pejabat guaman biasa, tetapi di Mahkamah Syariah, di bawah undang-undang keluarga Islam negeri masing-masing. Dokumen ini menerangkan rangka undang-undang itu secara deskriptif, tanpa memihak.

@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "national-schools-sk-sjkc-sjkt" }
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "persatuan ibu bapa-guru", "yuran sekolah", "yuran khas", "sumbangan PIBG", "sekolah kerajaan", "kos persekolahan"]
+framework: explainer
 ---
 
 Con bạn được đăng ký vào một trường công lập "miễn phí" — nhưng biểu mẫu PIBG và danh sách các khoản thanh toán vẫn đến tận nhà. Vậy điều gì thực sự bắt buộc phải trả, và điều gì thì không?

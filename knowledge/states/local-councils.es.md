@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "putrajaya" }
 related: ["federal-state-division", "federal-constitution", "kuala-lumpur", "putrajaya", "parliament"]
 keywords: ["gobierno local Malasia", "local government Malaysia", "concejo local", "local council", "concejo de ciudad", "city council", "concejo municipal", "municipal council", "concejo de distrito", "district council", "Local Government Act 1976", "Act 171", "concejales nombrados", "elecciones locales suspendidas 1965", "local elections suspended 1965", "Consejo Nacional de Gobierno Local", "National Council for Local Government"]
+framework: explainer
 ---
 
 El concejo que arregla las farolas de su calle, recoge sus cubos de basura, aprueba

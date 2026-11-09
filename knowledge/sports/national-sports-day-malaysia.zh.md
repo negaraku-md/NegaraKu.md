@@ -69,6 +69,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-belia-dan-sukan" }
 related: []
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
+framework: explainer
 ---
 
 每逢10月第二个星期六，全马来西亚各地的球场、公园和体育馆本应人潮涌动——这正是全国体育日的构想。

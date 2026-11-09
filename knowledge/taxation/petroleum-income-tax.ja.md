@@ -72,6 +72,7 @@ relations:
   - { rel: "administered-by", to: "lhdn" }
 related: ["petronas"]
 keywords: ["petroleum income tax", "PITA", "Petroleum Income Tax Act 1967", "petroleum operations", "marginal field tax", "late-life asset PSC", "upstream oil gas tax Malaysia"]
+framework: rules
 ---
 
 トレンガヌ沖で掘削する石油会社も、シャー・アラムの工場も、どちらもマレーシアに税金を納める——しかし両者は同じ法律のもとで納めているわけではない。上流の石油所得は、独自の税率、独自の申告書、そして独自のルールブックを備えた、それ自体で区分された独自の税制の中にある。

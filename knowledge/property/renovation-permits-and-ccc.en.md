@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "buying-property-in-malaysia" }
 related: []
 keywords: ["CCC", "Sijil Perakuan Siap dan Pematuhan", "ubah suai rumah", "kebenaran PBT", "Akta 133", "permit renovation", "Principal Submitting Person"]
+framework: rules
 ---
 
 You want to add a kitchen at the back of the house or build an upper floor — and suddenly a neighbour says "you have to apply to the council first". Is that true? For most renovation work, yes.

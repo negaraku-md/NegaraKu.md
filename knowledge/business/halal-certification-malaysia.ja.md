@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: ["sst"]
 keywords: ["halal certification Malaysia", "JAKIM halal", "MYeHALAL", "halal logo Malaysia", "halal certification fee", "Trade Descriptions Order 2011"]
+framework: how-to
 ---
 
 JAKIMの証明書を取得せずに包装にハラルロゴを付すことは、単に手続きを省略しているだけではない——それは違反行為である。マレーシアにおいてハラルの表示は法律により規制されており、その手続きは今や完全にオンライン上で行われている。

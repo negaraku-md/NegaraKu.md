@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "income-tax-rates-malaysia" }
 related: []
 keywords: ["Returning Expert Programme", "REP", "TalentCorp", "15% flat tax", "Malaysian diaspora", "returning talent", "MyHeart", "CKD vehicle exemption"]
+framework: explainer
 ---
 
 如果你是一名在海外发展事业、正考虑回国的马来西亚人，回流专才计划（REP）提供一项可选的统一 15% 就业收入所得税率，为期五年，以取代一般的累进税率。要符合资格，你必须在回到马来西亚*之前*提出申请。

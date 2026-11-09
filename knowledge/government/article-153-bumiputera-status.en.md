@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["federal-constitution", "majlis-raja-raja", "constitutional-amendment", "new-economic-policy", "ma63"]
 keywords: ["Perkara 153", "Article 153", "kedudukan istimewa orang Melayu", "special position of the Malays", "Bumiputera", "anak negeri Sabah Sarawak", "kepentingan sah kaum lain", "perkadaran yang munasabah", "kuota Perlembagaan Malaysia", "Perkara 153 Perlembagaan Persekutuan", "takrif orang Melayu Perkara 160"]
+framework: explainer
 ---
 
 Many people quote Article 153, but far fewer have read its paragraphs. Some call it "Malay privilege", some call it "a quota", and some call it "discrimination" — yet the actual text of the Article uses none of those words. It sets out a responsibility, imposes several limits, and — a point rarely mentioned — names two groups that must be protected at the same time.

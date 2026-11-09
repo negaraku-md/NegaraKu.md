@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "national-cultural-policy-daken-2021" }
 related: ["rukun-negara", "new-economic-policy"]
 keywords: ["dasar kebudayaan kebangsaan", "kongres kebudayaan kebangsaan 1971", "tiga prinsip", "DAKEN 2021", "kebudayaan Malaysia", "perpaduan"]
+framework: explainer
 ---
 
 1971-இல், [1969 மே 13 சம்பவம்](/malaysia/13-may-1969) நடந்து ஏறத்தாழ இரண்டு ஆண்டுகளுக்குப் பிறகு, பல்லின நாட்டுக்குக் கடினமான ஒரு கேள்விக்குப் பதிலளிக்க அறிஞர்கள், கலைஞர்கள் மற்றும் தலைவர்கள் அடங்கிய குழு ஒன்று Universiti Malaya-வில் ஒன்றுகூடியது: “தேசியப் பண்பாடு” என்பதன் பொருள் என்ன? அதன் விளைவாக உருவான பதில் — தேசிய பண்பாட்டுக் கொள்கை (National Cultural Policy, DKK) — இன்றுவரை ஒரு கொள்கை மேற்கோளாக இருந்து வருகிறது; அதேநேரம் அது இன்னும் விவாதப் பொருளாகவும் இருந்து வருகிறது.

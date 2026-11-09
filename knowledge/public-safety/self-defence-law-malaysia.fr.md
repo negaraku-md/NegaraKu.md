@@ -63,6 +63,7 @@ relations:
   - { rel: "governs", to: "penal-code-malaysia" }
 related: ["penal-code"]
 keywords: ["légitime défense", "droit de défense privée", "Code pénal", "section 100", "section 96", "self-defence Malaysia", "private defence"]
+framework: explainer
 ---
 
 Un intrus vous attaque chez vous en pleine nuit — à cet instant, le droit malaisien vous autorise-t-il à vous défendre ? Oui, mais sous des conditions strictes, et la ligne entre la défense licite et une infraction est plus mince que beaucoup ne le supposent.

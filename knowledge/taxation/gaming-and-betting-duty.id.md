@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "corporate-income-tax" }
 related: ["sales-and-service-tax"]
 keywords: ["duti kasino", "cukai perjudian", "duti mesin permainan", "duti pertaruhan pool", "number forecast operator", "gaming tax Malaysia"]
+framework: rules
 ---
 
 Setiap ringgit yang dipertaruhkan di meja kasino atau loket 4D membawa pajak

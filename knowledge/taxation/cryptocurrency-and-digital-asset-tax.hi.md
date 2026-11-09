@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "capital-gains-tax" }
 related: ["service-tax-on-digital-services-stods", "capital-or-revenue", "capital-gains-tax"]
 keywords: ["मलेशिया क्रिप्टोकरेंसी कर", "crypto tax LHDN", "डिजिटल मुद्रा कर", "badges of trade crypto", "मलेशिया बिटकॉइन कर"]
+framework: explainer
 ---
 
 दो लोग एक ही दिन वही बिटकॉइन बेचते हैं और वही लाभ जेब में डालते हैं। एक पर कुछ भी देय नहीं; दूसरे पर आयकर देय है। मलेशिया में, उन्हें जो बात अलग करती है वह सिक्का नहीं है — बल्कि यह है कि कर प्राधिकरण एक व्यापार देखता है या नहीं।

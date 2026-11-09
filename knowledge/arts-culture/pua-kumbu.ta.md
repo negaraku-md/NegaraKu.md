@@ -78,6 +78,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["batik", "gawai-dayak", "sarawak"]
 keywords: ["pua kumbu", "tenunan Iban", "ikat lungsi", "kebat", "engkudu", "ngar", "kain upacara Sarawak", "Bangie Embol"]
+framework: history-culture
 ---
 
 நெசவாளர் “ஆசி” இல்லாமல் உருவாக்கத் துணியாத ஒரு துணி — அதன் வடிவங்கள் கனவுகளில் வருவதாகச் சொல்லப்படுகிறது; ஒரு காலத்தில் அது தன்னை உருவாக்கிய மக்களின் போர்வீரர் மரபுடன் இறுக்கமாகப் பிணைக்கப்பட்டிருந்தது. அதுதான் pua kumbu.

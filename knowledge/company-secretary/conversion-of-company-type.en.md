@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "special-resolution" }
 related: ["companies-act-2016"]
 keywords: ["penukaran status syarikat", "sdn bhd kepada berhad", "syarikat awam", "syarikat sendirian", "seksyen 41 akta syarikat 2016", "resolusi khas", "SSM"]
+framework: how-to
 ---
 
 A company that starts out as a *Sendirian Berhad* (private limited company) is not locked into that status forever. When a business aspires to raise funds from the public or to list its shares, it can convert into a public company (*Berhad*) — and the reverse path is open too. The key is a single special resolution and a single filing with SSM.

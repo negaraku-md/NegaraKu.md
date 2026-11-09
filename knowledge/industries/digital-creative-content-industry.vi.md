@@ -113,6 +113,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Khi _Upin & Ipin Universe_ của Les' Copaque đến với các máy console trên toàn thế giới vào **ngày 17 tháng 7 năm 2025**, nó đã khép lại một vòng tròn bắt đầu bằng một loạt phim hoạt hình ngắn về hai cậu bé song sinh tinh nghịch. Một bộ phim hoạt hình Malaysia đã trở thành một trò chơi điện tử được xuất bản toàn cầu — và một minh họa gọn gàng cho những gì ngành nội dung sáng tạo số của đất nước đã âm thầm xây dựng trong hai thập kỷ.

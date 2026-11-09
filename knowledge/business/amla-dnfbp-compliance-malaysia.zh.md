@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["company-secretary-malaysia"]
 keywords: ["AMLA", "DNFBP", "reporting institution", "suspicious transaction report", "customer due diligence", "FIED", "Bank Negara Malaysia", "money laundering"]
+framework: rules
 ---
 
 反洗钱法律并非只是银行需要关注的事项。根据马来西亚的 AMLA，一系列非金融业者与专业人士同样是报告机构。为公司办理注册的公司秘书、促成房产成交的房地产代理，或收取大额现金付款的经销商，都可能落入该监管体系之内——并直接对马来西亚国家银行负有客户尽职调查、记录保存与报告义务。

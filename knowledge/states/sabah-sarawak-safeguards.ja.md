@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "article-153-special-position" }
 related: ["federal-constitution", "ma63", "sabah", "sarawak", "federal-state-division", "article-153-special-position"]
 keywords: ["Sabah Sarawak safeguards", "immigration autonomy Sabah Sarawak", "Article 161B", "Article 161E", "Article 95B List IIA", "native courts Sabah Sarawak", "Article 112C special grants", "Immigration Act 1959/63 Part VII", "special position of natives", "Federal Constitution Part XIIA"]
+framework: explainer
 ---
 
 クアラルンプールからコタキナバルまたはクチンへ飛行機で向かえば、着陸する先は同じマレーシア——同じ国、同じパスポート、同じ通貨——でありながら、入国審査カウンターで列に並ぶことになる。滞在する正当な理由を示せない半島部出身のマレーシア人は、数週間に限定されたパスしか発給されないか、あるいは入国を拒否されることさえある。この関門は官僚的な気まぐれではない。それは、1963年にサバとサラワクが連邦に加入した際に連邦憲法に書き込まれた一連の保障（措置）の一つである。

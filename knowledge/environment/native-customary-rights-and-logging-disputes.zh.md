@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "orang-asal-indigenous-peoples" }
 related: []
 keywords: ["native customary rights", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "logging disputes", "native title"]
+framework: explainer
 ---
 
 一个长屋社群说，某片森林世世代代都属于它。一家木材或种植园公司持有由州政府发出、涵盖同一片土地的执照。双方都援引法律。在砂拉越与沙巴，这种冲突已在法庭上争论了二十多年——而法院对于界线究竟落在何处，并非总能取得一致。

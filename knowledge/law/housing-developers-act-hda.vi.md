@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "strata-titles-act-1985" }
 related: []
 keywords: ["HDA", "Akta 118", "Jadual H", "Jadual G", "ganti rugi lewat", "LAD", "milikan kosong", "lesen pemaju", "APDL", "Tribunal Tuntutan Pembeli Rumah"]
+framework: rules
 ---
 
 Bạn trả khoản đặt cọc 10% cho một căn chung cư chỉ tồn tại dưới dạng bản vẽ kiến trúc, rồi chờ ba năm trong khi vẫn trả góp khoản vay. Điều gì ngăn nhà phát triển ôm tiền của bạn bỏ chạy, xây chậm, hoặc bàn giao căn hộ đầy khiếm khuyết? Câu trả lời là một đạo luật đã hơn nửa thế kỷ tuổi: Luật Phát triển Nhà ở (Kiểm soát và Cấp phép) 1966 — được biết đến ngắn gọn là HDA hay Act 118.

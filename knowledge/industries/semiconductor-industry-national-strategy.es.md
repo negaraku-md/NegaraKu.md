@@ -90,6 +90,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-investment-trade-and-industry" }
 related: ["electrical-electronics-industry"]
 keywords: ["semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "advanced packaging", "chip industry Malaysia", "Penang Silicon Valley", "MIDA", "IC design"]
+framework: profile
 ---
 
 Casi todos los teléfonos, portátiles y coches de la Tierra llevan un chip que pasó parte de su vida en Malasia — empaquetado, probado y enviado desde una fábrica en Penang o el valle de Klang. Sin embargo, durante cincuenta años el país hizo la porción menos glamurosa y de menor margen de ese trabajo: el back-end. La Estrategia Nacional de Semiconductores es el intento de Malasia de cambiar qué parte del chip posee.

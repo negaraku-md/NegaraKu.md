@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "how-a-bill-becomes-law" }
 related: ["consumer-protection-act", "companies-act-2016", "how-a-bill-becomes-law"]
 keywords: ["Competition Act 2010", "MyCC", "Malaysia Competition Commission", "anti-competitive agreements", "abuse of dominance", "cartel", "price fixing", "bid rigging", "Section 4", "Section 10"]
+framework: rules
 ---
 
 五社の家禽飼料製造業者がひそかに歩調を合わせて価格を引き上げることに合意したとき、それは最終的に生鮮市場（パサール）における鶏肉の価格に表れた。2023年12月、マレーシアの競争規制当局は、多くの企業がその存在すらほとんど知らない法律に違反したとして、これら5社に合計4億1,550万リンギットの制裁金を科した——同国史上最大の競争法上の制裁金である。

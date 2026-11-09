@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "johor-singapore-special-economic-zone" }
 related: ["johor-singapore-special-economic-zone"]
 keywords: ["مراكز البيانات ماليزيا", "Malaysia data centre", "البنية التحتية السحابية", "cloud infrastructure", "مراكز بيانات جوهور", "Johor data centre", "DESAC incentive", "طاقة ومياه مراكز البيانات", "hyperscale Malaysia"]
+framework: profile
 ---
 
 في عام 2019، توقّفت سنغافورة عن الموافقة على مراكز بيانات جديدة كبيرة الحجم. وخلال أربع سنوات، كانت الخوادم التي رفضتها قد أقامت صناعة جديدة على بُعد عشرين دقيقة عبر جسر كوزواي — وتحوّلت جوهور من ولاية ماليزية هادئة إلى أكثر أسواق مراكز البيانات ازدحاماً في جنوب شرق آسيا.

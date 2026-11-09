@@ -113,6 +113,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Cuando _Upin & Ipin Universe_ de Les' Copaque llegó a las consolas de todo el mundo el **17 de julio de 2025**, cerró un círculo que comenzó con una breve serie animada sobre dos traviesos gemelos. Un dibujo animado malasio se había convertido en un videojuego publicado globalmente, y en una pulcra ilustración de lo que la industria de contenido creativo digital del país ha construido discretamente a lo largo de dos décadas.

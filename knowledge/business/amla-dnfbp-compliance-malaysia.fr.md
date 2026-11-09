@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["company-secretary-malaysia"]
 keywords: ["AMLA", "DNFBP", "reporting institution", "suspicious transaction report", "customer due diligence", "FIED", "Bank Negara Malaysia", "money laundering"]
+framework: rules
 ---
 
 La législation contre le blanchiment d'argent ne concerne pas uniquement les banques. En vertu de l'AMLA de Malaisie, toute une gamme d'entreprises et de professions non financières sont elles aussi des institutions déclarantes. Un secrétaire de société qui constitue une société, un agent immobilier qui conclut la vente d'un bien ou un négociant qui accepte un gros paiement en espèces peuvent chacun relever du régime — avec des devoirs de diligence raisonnable à l'égard de la clientèle, de conservation des registres et de déclaration dus directement à Bank Negara Malaysia.

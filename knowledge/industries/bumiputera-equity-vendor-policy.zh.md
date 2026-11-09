@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "petronas" }
 related: ["new-economic-policy", "petronas"]
 keywords: ["ekuiti bumiputera", "dasar ekonomi baru", "pembangunan vendor", "PuTERA35", "PETRONAS VDP", "industri strategik", "SWEC"]
+framework: explainer
 ---
 
 一位想为马来西亚某座石油天然气工厂提供服务的创业者，很快就会发现被审查的不只是技术和价格——他公司的所有权结构同样会被评估。在国家的若干战略领域中，一家公司由谁拥有，可能决定它是否有资格申请执照或合约。这一现象源自两项相互关联的政策工具：土著（Bumiputera）股权要求与供应商发展计划。

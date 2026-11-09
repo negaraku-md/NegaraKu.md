@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "malaysian-court-system" }
 related: []
 keywords: ["bantuan guaman", "legal aid", "JBG", "YBGK", "Majlis Peguam", "ujian kemampuan", "peguam percuma"]
+framework: how-to
 ---
 
 Menghadapi gugatan, perceraian atau tuntutan tetapi tidak mampu menyewa pengacara? Anda tidak perlu menghadap pengadilan sendirian. Tiga badan di Malaysia menyediakan layanan hukum gratis atau bersubsidi untuk mereka yang berpenghasilan rendah.

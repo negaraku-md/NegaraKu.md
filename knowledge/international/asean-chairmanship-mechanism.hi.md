@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-chairmanship-2025" }
 related: []
 keywords: ["pengerusian ASEAN", "Piagam ASEAN", "Perkara 31", "giliran abjad", "Malaysia 2025", "Filipina 2026", "Sidang Kemuncak ASEAN"]
+framework: explainer
 ---
 
 हर 1 जनवरी को, एक दक्षिण-पूर्व एशियाई देश क्षेत्र की सबसे प्रभावशाली कुर्सी विरासत में पाता है — बिना मतदान के, बिना अभियान के, विशुद्ध रूप से वर्णानुक्रम से।

@@ -96,6 +96,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Malasia no tiene las profundas universidades de investigación ni la hondura de capital riesgo de un Boston o un Shanghái, pero tiene tres cosas que hacen de la biotecnología una apuesta lógica a largo plazo: uno de los tesoros de biodiversidad tropical más ricos del mundo, un enorme flujo de biomasa de aceite de palma y agrícola, y una autoridad reconocida mundialmente en certificación halal. Durante más de dos décadas el gobierno ha intentado convertir esas dotaciones en una industria moderna de ciencias de la vida. Esta guía explica cómo se organiza ese esfuerzo, qué ha construido y hacia dónde se dirige.

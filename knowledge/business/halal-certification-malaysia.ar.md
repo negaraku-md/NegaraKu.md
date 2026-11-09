@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: ["sst"]
 keywords: ["شهادة الحلال في ماليزيا", "حلال JAKIM", "MYeHALAL", "شعار الحلال في ماليزيا", "رسوم شهادة الحلال", "halal certification Malaysia", "JAKIM halal", "Trade Descriptions Order 2011"]
+framework: how-to
 ---
 
 ضع شعار الحلال على عبوتك دون الحصول على شهادة من JAKIM، فأنت لا تختصر الطريق فحسب — بل ترتكب مخالفة قانونية. في ماليزيا يخضع ادعاء الحلال لتنظيم القانون، وقد أصبحت الإجراءات الورقية الآن بالكامل عبر الإنترنت.

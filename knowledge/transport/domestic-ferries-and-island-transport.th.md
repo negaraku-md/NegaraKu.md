@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "domestic-flights-and-regional-air-travel" }
 related: []
 keywords: ["Penang ferry", "Langkawi ferry", "Tioman ferry", "island transport Malaysia", "Kuala Kedah", "Kuala Perlis", "northeast monsoon", "Pangkor ferry", "Labuan ferry"]
+framework: explainer
 ---
 
 ไม่มีสายเรือข้ามฟากระดับชาติเพียงหนึ่งเดียวในมาเลเซีย การไปถึงเกาะหมายถึงการรู้ว่าเส้นทางข้ามฟากสั้น ๆ ใด ท่าเรือใด และผู้ประกอบการใดที่ให้บริการ — และบนฝั่งตะวันออก ว่าทะเลเปิดในเดือนนั้นหรือไม่ด้วยซ้ำ

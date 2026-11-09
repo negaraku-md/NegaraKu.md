@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "solid-waste-management-in-malaysia" }
 related: []
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030"]
+framework: explainer
 ---
 
 பணம் செலுத்தும் கவுண்டரில் உள்ள மெல்லிய பிளாஸ்டிக் பைகள் பொதுவாக ஒரு கணம் மட்டுமே பயன்படுத்தப்படுகின்றன, ஆனால் அவை சுற்றுச்சூழலில் மிக நீண்ட காலம் நீடிக்கக்கூடும். இந்தச் சிக்கலைத் தீர்க்க, மலேசியா ஒரே அடியில் உடனடி முழுத் தடையைத் தேர்ந்தெடுக்கவில்லை — மாறாக, சிறிய கட்டணங்களிலிருந்து பரந்த தடைகளுக்கு நகரும் ஒரு படிநிலை சாலை வரைபடத்தைப் பயன்படுத்துகிறது.

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "food-delivery-riders" }
 related: []
 keywords: ["e-skuter", "PMD", "mikromobiliti", "basikal elektik", "MS2514", "JPJ", "peranti mobiliti peribadi"]
+framework: rules
 ---
 
 당신은 출근용으로 전동킥보드를 샀지만, 바퀴가 공공 도로에 닿는 순간

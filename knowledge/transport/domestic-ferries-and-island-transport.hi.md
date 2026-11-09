@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "domestic-flights-and-regional-air-travel" }
 related: []
 keywords: ["पेनांग फेरी", "लंकावी फेरी", "तिओमान फेरी", "मलेशिया में द्वीप परिवहन", "कुआला केदा", "कुआला पर्लिस", "पूर्वोत्तर मानसून", "पैंगकोर फेरी", "लाबुआन फेरी", "Penang ferry", "Langkawi ferry", "Tioman ferry", "island transport Malaysia", "Kuala Kedah", "Kuala Perlis", "northeast monsoon", "Pangkor ferry", "Labuan ferry"]
+framework: explainer
 ---
 
 मलेशिया में कोई एकल राष्ट्रीय फेरी लाइन नहीं है। किसी द्वीप तक पहुँचने का मतलब है यह जानना कि कौन-सा छोटा मार्ग, कौन-सा जेटी और कौन-सा संचालक उसकी सेवा करता है — और, पूर्वी तट पर, यह कि उस महीने समुद्र खुला भी है या नहीं।

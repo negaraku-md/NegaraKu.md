@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "food-delivery-riders" }
 related: []
 keywords: ["e-skuter", "PMD", "mikromobiliti", "basikal elektik", "MS2514", "JPJ", "peranti mobiliti peribadi"]
+framework: rules
 ---
 
 Anda beli e-skuter untuk ke pejabat, tetapi saat roda menyentuh jalan raya awam, anda sudah melanggar undang-undang. Itulah realiti mikromobiliti di Malaysia sejak penghujung 2021.

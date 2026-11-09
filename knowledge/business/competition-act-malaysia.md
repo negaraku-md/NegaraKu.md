@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: []
 keywords: ["Competition Act 2010", "MyCC", "cartel", "price fixing", "bid rigging", "abuse of dominant position", "Competition Amendment Bill 2026"]
+framework: rules
 ---
 
 Agreeing with a rival to keep prices high, or quietly taking turns to win government tenders, is not shrewd business in Malaysia — it is a breach of the law that can cost a company one-tenth of everything it earns worldwide.

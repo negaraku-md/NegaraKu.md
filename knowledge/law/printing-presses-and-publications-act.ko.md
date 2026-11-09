@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysian-media-council-act" }
 related: []
 keywords: ["Akta Mesin Cetak dan Penerbitan", "Akta 301", "PPPA", "permit akhbar", "lesen mesin cetak", "Menteri Dalam Negeri", "kebebasan media"]
+framework: rules
 ---
 
 말레이시아의 신문은 그 내용이 진실하거나 독자의 관심을 끈다는 이유만으로 인쇄될 수 없습니다 — 그것은 먼저 내무부 장관(Menteri Dalam Negeri)이 발급한 허가를 필요로 합니다. 그 틀은 인쇄기 및 출판법 1984(Printing Presses and Publications Act 1984), 즉 Act 301에서 비롯되며, 이 법은 국가 미디어 지형에서 가장 많이 논쟁되는 기둥 중 하나가 되어 왔습니다.

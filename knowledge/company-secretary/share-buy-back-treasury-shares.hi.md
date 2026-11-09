@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "solvency-statement" }
 related: []
 keywords: ["शेयर पुनर्खरीद", "pembelian balik saham", "share buy-back", "कोषागार शेयर", "treasury shares", "धारा 127", "Seksyen 127", "कंपनी अधिनियम 2016", "Akta Syarikat 2016", "Bursa Malaysia", "अध्याय 12", "Bab 12"]
+framework: rules
 ---
 
 एक कंपनी अपने शेयर पुनर्खरीद कर सकती है और उन्हें «कोषागार में» रख सकती है — किंतु

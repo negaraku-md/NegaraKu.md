@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysian-media-council-act" }
 related: []
 keywords: ["Akta Mesin Cetak dan Penerbitan", "Akta 301", "PPPA", "permit akhbar", "lesen mesin cetak", "Menteri Dalam Negeri", "kebebasan media"]
+framework: rules
 ---
 
 En Malaisie, un journal ne peut pas être imprimé simplement parce que son contenu est véridique ou intéressant pour les lecteurs : il requiert d'abord un permis délivré par le ministre de l'Intérieur. Ce cadre découle de la Loi de 1984 sur les presses à imprimer et les publications, ou Act 301, une norme devenue l'un des piliers les plus âprement débattus du paysage médiatique du pays.

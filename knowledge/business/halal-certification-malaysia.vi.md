@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: ["sst"]
 keywords: ["halal certification Malaysia", "JAKIM halal", "MYeHALAL", "halal logo Malaysia", "halal certification fee", "Trade Descriptions Order 2011"]
+framework: how-to
 ---
 
 Đặt một logo halal lên bao bì của bạn mà không có giấy chứng nhận của JAKIM và bạn không chỉ đang đi đường tắt — bạn đang phạm một tội. Tại Malaysia, tuyên bố halal được luật quản lý, và giấy tờ nay hoàn toàn nằm trực tuyến.

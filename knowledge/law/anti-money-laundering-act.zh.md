@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "financial-intelligence-unit" }
 related: ["bank-negara-malaysia"]
 keywords: ["AMLA", "AMLATFPUAA 2001", "Act 613", "money laundering Malaysia", "terrorism financing", "reporting institution", "suspicious transaction report", "Bank Negara Malaysia", "freezing and seizure", "AML CFT compliance"]
+framework: rules
 ---
 
 当一家马来西亚银行将某位客户的转账标记为“可疑”时，接下来会发生什么——谁必须被告知、多快、以及国家随后可以对这笔钱动用哪些权力——都由一部法规决定。那部法规就是AMLA。

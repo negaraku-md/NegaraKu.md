@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "azizulhasni-awang" }
 related: []
 keywords: ["velodrom nasional", "الفيلودروم الوطني", "Nilai", "سباق الدراجات على المضمار", "keirin", "الكيرين", "Azizulhasni Awang", "عزيز الحسني أوانغ", "MNCF", "Majlis Sukan Negara"]
+framework: profile
 ---
 
 حلبة طويلة مسقوفة على أطراف نيلاي هي اليوم المكان الذي يصقل فيه أسرع دراجي ماليزيا انطلاقاتهم — وقد بُنيت خصيصاً لإنجاب مزيد من أبطال العالم على المضمار.

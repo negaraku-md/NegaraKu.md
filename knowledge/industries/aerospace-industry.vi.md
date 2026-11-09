@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "economy" }
 related: []
 keywords: ["aerospace", "MRO", "maintenance repair overhaul", "aero-manufacturing", "Blueprint 2030", "NIMP2030", "MIDA"]
+framework: profile
 ---
 
 Một chiếc máy bay có thể được chế tạo ở Toulouse hoặc Seattle, nhưng đâu đó trong ba mươi năm vòng đời của nó, nó sẽ cần được mở động cơ, kiểm tra kết cấu và làm mới hệ thống điện tử hàng không — và ngày càng nhiều, Malaysia muốn công việc đó được làm ở Subang hoặc Senai. Bản năng đó, hơn bất kỳ dây chuyền lắp ráp nào, giải thích hình dạng của khu vực hàng không vũ trụ của đất nước.

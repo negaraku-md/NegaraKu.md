@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry" }
 related: ["palm-oil-industry"]
 keywords: ["industrie de l'élevage", "poulet de chair", "œufs de poule", "peste porcine africaine", "African swine fever", "grippe aviaire", "H5N1", "JPV", "ratio d'autosuffisance", "biosécurité", "pénurie de poulet 2022"]
+framework: profile
 ---
 
 L'assiette malaisienne dépend du poulet. C'est la protéine la moins chère du pays — et c'est pourquoi, lorsque les hangars vacillent, cela devient une affaire nationale, et non une simple affaire d'exploitation.

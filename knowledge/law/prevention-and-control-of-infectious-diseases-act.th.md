@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "movement-control-order-covid-19" }
 related: []
 keywords: ["Akta 342", "penyakit berjangkit", "kuarantin", "PKP", "COVID-19", "kawasan jangkitan tempatan", "kesihatan awam", "Kementerian Kesihatan Malaysia"]
+framework: rules
 ---
 
 เมื่อคำสั่งควบคุมการเคลื่อนย้าย (Perintah Kawalan Pergerakan, PKP) หยุดการเคลื่อนย้ายเกือบทั่วมาเลเซียในเดือนมีนาคม 2020 อำนาจทางกฎหมายเบื้องหลังมันไม่ได้มาจากกฎหมายภาวะฉุกเฉินฉบับใหม่ใด — แต่มาจากพระราชบัญญัติสาธารณสุขที่มีมาตั้งแต่ปี 1988

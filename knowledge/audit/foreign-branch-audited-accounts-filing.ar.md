@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "approved-company-auditor-malaysia" }
 related: ["foreign-company-registration-malaysia"]
 keywords: ["الشركة الأجنبية", "الفرع", "الحسابات المُراجَعة", "foreign company", "branch", "audited accounts", "SSM", "Companies Act 2016", "section 575"]
+framework: rules
 ---
 
 إن فتح فرع في ماليزيا لا يضع الشركة الأجنبية خارج شبكة المراجعة — بل يجذبها إليها مرتين. فعليها كل سنة أن تودع حسابات مُراجَعة لدى لجنة الشركات الماليزية (SSM): مرةً عن الشركة بأكملها، ومرةً أخرى، على نحوٍ منفصل، عمّا يفعله الفرع فعليًا داخل ماليزيا.

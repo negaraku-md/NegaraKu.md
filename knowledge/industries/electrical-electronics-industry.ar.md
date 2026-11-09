@@ -97,6 +97,7 @@ relations:
   - { rel: "administered-by", to: "mida" }
 related: ["penang", "mida"]
 keywords: ["صناعة E&E", "E&E industry", "الكهرباء والإلكترونيات", "electrical and electronics", "التصنيع في ماليزيا", "Malaysia manufacturing", "إلكترونيات بينانغ", "Penang electronics", "أشباه الموصلات", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
+framework: profile
 ---
 
 افتح أي حاسوب محمول أو هاتف ذكي أو سيارة صُنعت في العقد الأخير تقريباً، وثمة احتمال معقول أن جزءاً منها مرّ عبر ماليزيا. فالرقاقة بداخلها ربما اختُبرت وغُلِّفت في بينانغ (Penang)؛ وربما جُمِّع محوّل الطاقة أو الإضاءة الخلفية LED أو لوحة الدوائر في كوليم أو ملقا أو وادي كلانغ. وبالنسبة إلى بلد يبلغ عدد سكانه نحو 34.1 مليون نسمة (2024، DOSM)، تقع ماليزيا عند نقطة مركزية على نحو مفاجئ في سلسلة توريد الإلكترونيات العالمية — وذلك في معظمه قصة صناعة واحدة.

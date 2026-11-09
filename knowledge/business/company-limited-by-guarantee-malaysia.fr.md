@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["business-structures-malaysia", "sdn-bhd-vs-berhad", "register-sdn-bhd", "what-is-sdn-bhd", "company-secretary-malaysia"]
 keywords: ["société limitée par garantie", "company limited by guarantee", "CLBG", "berhad menurut jaminan", "section 45 Companies Act 2016", "société à but non lucratif Malaisie", "SSM CLBG", "licence pour omettre Berhad"]
+framework: explainer
 ---
 
 Une fondation, un institut professionnel, une chambre de commerce et une entreprise sociale peuvent tous revêtir la même peau juridique en Malaisie : la société limitée par garantie. C'est le véhicule que la loi réserve aux organisations qui existent pour faire quelque chose d'utile plutôt que pour distribuer des bénéfices, et il vient avec des règles qu'une Sdn Bhd ordinaire ne voit jamais.

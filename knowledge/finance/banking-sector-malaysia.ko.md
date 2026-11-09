@@ -92,6 +92,7 @@ relations:
   - { rel: "governs", to: "financial-services-act-2013" }
 related: ["bank-negara-malaysia", "islamic-finance", "digital-banks-malaysia"]
 keywords: ["banking sector Malaysia", "commercial banks Malaysia", "Islamic banks Malaysia", "investment banks Malaysia", "Financial Services Act 2013", "Islamic Financial Services Act 2013", "digital banks Malaysia", "Bank Negara Malaysia"]
+framework: profile
 ---
 
 쿠알라룸푸르(Kuala Lumpur)에서 은행 계좌를 개설하면, 여러분은 조용히 두 개의 완전한 은행 시스템 — 전통 은행과 이슬람 은행 — 을 하나의 중앙은행과 같은 해에 제정된 두 개의 대응 법률 아래 나란히 운영하는 몇 안 되는 국가 중 하나에 발을 들여놓은 것입니다.

@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "kos-sara-hidup-malaysia" }
 related: []
 keywords: ["B40", "M40", "T20", "pendapatan isi rumah", "DOSM", "kos sara hidup", "median pendapatan"]
+framework: explainer
 ---
 
 अधिकांश मलेशियाई B40, M40 और T20 लेबल जानते हैं — पर वे लेबल आपकी वेतन-पर्ची से नहीं आते। वे इससे आते हैं कि आपका परिवार पूरे देश को कवर करने वाली एक लंबी सूची में कहाँ बैठता है।

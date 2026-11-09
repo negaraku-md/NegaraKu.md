@@ -100,6 +100,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["waqf-islamic-endowment-malaysia", "bank-negara-malaysia", "bursa-malaysia", "federal-budget", "opr-monetary-policy"]
 keywords: ["التمويل الإسلامي ماليزيا", "Islamic finance Malaysia", "صكوك", "sukuk", "تكافل", "takaful", "مرابحة", "murabahah", "إجارة", "ijarah", "تورق", "tawarruq", "المصرفية الإسلامية ماليزيا", "المجلس الاستشاري الشرعي"]
+framework: explainer
 ---
 
 تكاد كل مقالة توضيحية عن ماليزيا والتمويل الإسلامي تفتتح بترتيب في قائمة ما. وقليلة

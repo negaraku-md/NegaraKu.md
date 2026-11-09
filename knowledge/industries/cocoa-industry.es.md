@@ -106,6 +106,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Malasia es uno de los grandes procesadores de cacao del mundo que casi ha dejado de cultivarlo. En una sola generación, el país pasó de ser un productor de granos entre los cuatro primeros, con sus laderas de Sabah y la Malasia peninsular cargadas de mazorcas, a un lugar que importa granos por barcos enteros y apenas cosecha unos cientos de toneladas propias. Lo que permaneció, y prosperó, fue el extremo fabril: los molinos de molturación, las refinerías y las líneas de chocolate que convierten los granos importados en manteca, polvo, licor de cacao y confitería terminada para la exportación. El resultado es una "paradoja del cacao": una industria aguas abajo de talla mundial asentada sobre un sector aguas arriba que prácticamente ha desaparecido.

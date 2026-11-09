@@ -76,6 +76,7 @@ wikidata: "Q27962026"
 relations: []
 related: []
 keywords: ["Road Transport Act 1987", "Act 333", "Akta Pengangkutan Jalan 1987", "RTA 1987", "JPJ", "driving without licence Malaysia", "traffic offences Malaysia", "DUI Malaysia penalty", "Road Transport Amendment Act 2020", "dangerous driving Malaysia", "Section 41 RTA", "Section 44 RTA"]
+framework: rules
 ---
 
 Hampir setiap *tilang* JPJ, setiap kelas lisensi mengemudi, dan setiap polis insurans pihak ketiga di Malaysia berporos pada satu statuta: **Akta Pengangkutan Jalan 1987 (Act 333)**, atau dalam bahasa Inggris *Road Transport Act 1987*. Ia merupakan undang-undang utama negara bagi kendaraan bermotor dan lalu lintas jalan raya, dan ia ditegakkan terutama oleh **Jabatan Pengangkutan Jalan (JPJ)**. Berikut adalah peta ringkas dalam bahasa sederhana tentang apa yang diatur oleh setiap Bagian dan berapa biaya pelanggaran umum pada hari ini.

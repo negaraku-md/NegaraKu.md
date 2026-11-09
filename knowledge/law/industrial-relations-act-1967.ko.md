@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "mahkamah-perusahaan-malaysia" }
 related: ["employment-act-1955"]
 keywords: ["akta perhubungan perusahaan 1967", "pembuangan kerja tidak adil", "seksyen 20", "mahkamah perusahaan", "kesatuan sekerja", "rundingan kolektif", "reinstatement", "unfair dismissal malaysia"]
+framework: rules
 ---
 
 여러분은 오늘 아침 해고되면서 "성과 부진"이라는 말을 들었습니다 — 그러나 경고장도 없었고, 내부 조사도 없었으며, 스스로를 변호할 기회도 없었습니다. 말레이시아에서 이 상황에는 법적 명칭과 하나의 전용 심판 기구가 있습니다. 즉 노사관계법 1967(Industrial Relations Act 1967) 제20조에 따른 진정으로, 산업법원(Industrial Court)에서 심리됩니다. 이것이 고용법 1955(Employment Act 1955)가 다루지 아니하는 노동관계의 층위입니다.

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "malaysia-net-zero-2050" }
 related: ["bursa-malaysia"]
 keywords: ["carbon market Malaysia", "carbon pricing", "carbon tax Malaysia", "Bursa Carbon Exchange", "National Carbon Market Policy", "carbon credits", "emissions trading scheme", "CCUS Act 2025"]
+framework: explainer
 ---
 
 말레이시아는 누군가에게 오염에 대한 요금을 부과하기로 결정하기에 앞서 탄소시장의 배관을 놓고 있습니다. 오늘날 이미 국가 거래소에서 탄소배출권을 사고팔 수 있지만 — 대규모 배출자에게 비용을 강제할 세금과 거래 규칙은 아직 초안 작성 중입니다.

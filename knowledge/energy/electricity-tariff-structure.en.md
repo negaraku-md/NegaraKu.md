@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
 related: ["tenaga-nasional"]
 keywords: ["tarif elektrik", "TNB", "RP4", "AFA", "ICPT", "Time-of-Use", "Caj Tenaga", "bil elektrik", "Suruhanjaya Tenaga"]
+framework: explainer
 ---
 
 If you leaf through your latest TNB bill and are surprised to see five separate lines of charges replacing a single tidy total, you are not confused — Peninsular Malaysia's electricity tariff structure was completely overhauled on 1 July 2025.

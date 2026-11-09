@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "statutory-demand-section-466-malaysia" }
 related: ["companies-act-2016"]
 keywords: ["winding up by court", "compulsory winding up", "section 466", "statutory demand", "Fortuna injunction", "RM50000 threshold", "Companies Act 2016", "insolvency Malaysia", "creditor petition"]
+framework: explainer
 ---
 
 செலுத்தப்படாத ஒரு விலைப்பட்டியல் ஒரு நிறுவனத்தை முடிவுக்குக் கொண்டுவரக்கூடும். மலேசியாவில், RM50,000-க்கு மேல் கடன்பட்ட ஒரு கடனீந்தோருக்கு, வணிகச் சட்டத்தில் மிகக் கடுமையான தீர்வை நாட ஒரு தீர்ப்பு தேவையில்லை — கடனாளியைக் கலைத்து மீதமுள்ளதைப் பங்கிடுவதற்கான ஒரு நீதிமன்ற ஆணை.

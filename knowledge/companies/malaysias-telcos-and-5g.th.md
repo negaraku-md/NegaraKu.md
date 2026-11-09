@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bursa-malaysia"]
 keywords: ["CelcomDigi", "Maxis", "U Mobile", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "MCMC", "telco merger", "single wholesale network"]
+framework: profile
 ---
 
 มาเลเซียใช้เวลาสามปีดำเนินการนำ 5G มาใช้ทั้งหมดผ่านท่อของรัฐบาลเดียว จากนั้น ในช่วงนโยบายที่เข้มข้นช่วงหนึ่ง ก็ฉีกแบบจำลองนั้นทิ้ง มอบเครือข่ายที่สองให้ผู้ให้บริการรายใหญ่ที่เล็กที่สุดของตน และถอนการถือหุ้นของรัฐออกไปทั้งหมด ผลลัพธ์คือตลาดมือถือที่ดูไม่เหมือนกับเมื่อปี 2021 เลย

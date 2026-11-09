@@ -62,6 +62,7 @@ relations:
   - { rel: "governs", to: "penal-code-malaysia" }
 related: ["penal-code"]
 keywords: ["pertahanan diri", "hak mempertahankan diri", "Kanun Keseksaan", "seksyen 100", "seksyen 96", "self-defence Malaysia", "private defence"]
+framework: explainer
 ---
 
 Seorang penceroboh menyerang anda di rumah sendiri pada tengah malam — pada saat itu, adakah undang-undang Malaysia membenarkan anda melawan? Ya, tetapi dengan syarat yang ketat, dan garis antara pertahanan yang sah dengan jenayah adalah lebih nipis daripada yang disangka ramai.

@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "pdrm" }
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["مخالفات المرور ماليزيا", "saman trafik Malaysia", "التحقق من مخالفات JPJ", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "غرامة المرور", "kompaun trafik"]
+framework: how-to
 ---
 
 يمكن للسائق أن يتلقى أربعة أنواع من المخالفات تبدو متشابهة على الورق — لكنها تأتي من أربع جهات مختلفة، ويجب التحقق من كلٍّ منها في مكان مختلف. كثيرون يعرفون بوابة واحدة فقط، فيظنّون أن مخالفتهم «اختفت» بينما هي في الواقع قابعة في نظام آخر.

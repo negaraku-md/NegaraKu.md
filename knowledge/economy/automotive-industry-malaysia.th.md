@@ -109,6 +109,7 @@ entity: "Automotive industry of Malaysia"
 relations: []
 related: []
 keywords: ["Malaysia automotive industry", "Proton", "Perodua", "National Automotive Policy", "NAP 2020", "electric vehicles Malaysia", "TIV", "car manufacturing Malaysia", "EV incentives", "CKD"]
+framework: profile
 ---
 
 ประเทศส่วนใหญ่ในเอเชียตะวันออกเฉียงใต้ปล่อยให้ผู้ผลิตรถต่างชาติมาประกอบบนแผ่นดินของตนและ

@@ -78,6 +78,7 @@ relations:
   - { rel: "supersedes", to: "factories-and-machinery-act-1967" }
 related: ["labour-law-map-malaysia", ]
 keywords: ["OSHA 1994", "Akta 514", "tanggungjawab majikan", "DOSH", "penilaian risiko", "JKKP 6", "keselamatan pekerjaan"]
+framework: rules
 ---
 
 Seorang pekerja jatuh dari perancah, dan soalan pertama penyiasat bukanlah "siapa yang cuai" — tetapi "adakah majikan telah melakukan segala yang praktik untuk mengelakkannya?" Itulah teras Akta Keselamatan dan Kesihatan Pekerjaan 1994 (Akta 514), atau OSHA 1994.

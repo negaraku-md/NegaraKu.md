@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["insurance Malaysia", "life insurance", "general insurance", "motor insurance", "PIAM", "LIAM", "Financial Services Act 2013", "Bank Negara Malaysia", "third party cover"]
+framework: profile
 ---
 
 マレーシアで路税を更新するたびに、ひとつの事実が静かに証明される——先に保険に加入しなければ、車両は路上に出せない。この一つの法的な仕掛け、すなわち強制的な第三者自動車保険は、日常生活の背後で目立たずに機能している業界——保険料を集め、リスクをプールし、事態が悪化したときに保険金を支払う業界——のうち、最も目に見える一角である。

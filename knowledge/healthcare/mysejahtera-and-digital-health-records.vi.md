@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "peka-b40-health-screening" }
 related: []
 keywords: ["MySejahtera", "rekod kesihatan digital", "EMR", "kesihatan digital Malaysia", "KKM", "temu janji klinik kesihatan"]
+framework: explainer
 ---
 
 Nhiều người xóa MySejahtera khỏi điện thoại khi đại dịch lắng xuống — nhưng ứng dụng đó không biến mất. Nó chỉ đổi công việc.

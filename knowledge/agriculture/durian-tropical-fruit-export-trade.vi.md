@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "external-trade" }
 related: ["palm-oil-sector", "external-trade", "rubber"]
 keywords: ["Malaysia durian export", "Musang King", "Black Thorn durian", "durian China protocol", "geographical indication durian", "myGAP durian", "fresh durian export China"]
+framework: profile
 ---
 
 Trong hơn một thập kỷ, sầu riêng Malaysia chỉ có thể vào Trung Quốc nếu nó được đông lạnh hoặc chế biến thành cơm và nhân. Rồi, vào giữa năm 2024, Malaysia giành được quyền tiếp cận mà họ đã tìm kiếm trong nhiều năm: quyền vận chuyển sầu riêng tươi nguyên trái vào thị trường sầu riêng lớn nhất trên trái đất.

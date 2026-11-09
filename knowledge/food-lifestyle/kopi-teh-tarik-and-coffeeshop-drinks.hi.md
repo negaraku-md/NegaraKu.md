@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "cultural-heritage-tourism-malaysia" }
 related: ["cultural-heritage-tourism-malaysia"]
 keywords: ["कोपीतियाम", "kopitiam", "कोपी", "तेह तारिक", "teh tarik", "kopi-O", "kopi-C", "mamak", "मलेशियाई पेय"]
+framework: explainer
 ---
 
 आप काउंटर की ओर इशारा करके पुकारते हैं "kopi-O peng, satu!" — और किसी तरह उस पुरानी एस्प्रेसो मशीन के पीछे खड़ा अंकल ठीक-ठीक समझ जाता है कि आप क्या चाहते हैं। कोपीतियाम ऑर्डर की भाषा एक गुप्त संकेत-लिपि-सी दिखती है, पर यह वास्तव में एक सुव्यवस्थित, तार्किक प्रणाली है।

@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "buying-property-in-malaysia" }
 related: []
 keywords: ["CCC", "Sijil Perakuan Siap dan Pematuhan", "ubah suai rumah", "kebenaran PBT", "Akta 133", "permit renovation", "Principal Submitting Person"]
+framework: rules
 ---
 
 집 뒤에 부엌을 더하거나 층을 올리고 싶은데 — 갑자기 이웃이 「먼저 시청에 신청해야 한다」고 말합니다. 정말일까요? 대부분의 개조 공사의 경우, 그렇습니다.

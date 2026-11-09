@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["CCRIS", "CTOS", "credit report Malaysia", "credit score", "Credit Reporting Agencies Act 2010", "RAM Credit Information RAMCI", "credit rating Malaysia"]
+framework: explainer
 ---
 
 한 번 놓친 할부금이 수년간 조용히 여러분을 따라다닐 수 있습니다 — 그런데 대부분의 말레이시아인은 은행이 대출에 대해 예 또는 아니오를 말하기 전에 여는 그 파일을 실제로 읽어본 적이 없습니다.

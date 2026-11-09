@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "sales-and-service-tax-sst" }
 related: []
 keywords: ["antipencatutan", "kawalan harga", "untung berlebihan", "Akta 723", "Op Catut", "KPDN", "pencatutan harga"]
+framework: rules
 ---
 
 Tăng giá vì chi phí tăng là một chuyện. Tăng giá chỉ để vơ vét lợi nhuận lớn hơn năm ngoái — điều đó có thể đưa bạn ra tòa ở Malaysia.

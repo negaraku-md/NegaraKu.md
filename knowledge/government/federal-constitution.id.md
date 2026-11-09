@@ -69,6 +69,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["parliament", "majlis-raja-raja", "federal-state-division"]
 keywords: ["Perlembagaan Persekutuan", "Federal Constitution Malaysia", "undang-undang tertinggi", "Perkara 4 Perlembagaan", "Perkara 159 pindaan", "ketertinggian perlembagaan", "Bahagian Perlembagaan Persekutuan", "prosedur pindaan perlembagaan"]
+framework: explainer
 ---
 
 Setiap undang-undang yang disahkan di Malaysia — baik oleh Parlimen federal maupun oleh sebuah Dewan Undangan Negeri — dapat diukur terhadap satu dokumen tunggal. Jika undang-undang itu berlawanan dengannya, undang-undang itu dapat dianggap tidak sah sejauh pertentangan tersebut. Dokumen itu adalah Konstitusi Federal.

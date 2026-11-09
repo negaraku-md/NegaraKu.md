@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "special-resolution" }
 related: ["companies-act-2016"]
 keywords: ["tukar nama syarikat", "change of company name", "seksyen 28", "ketetapan khas", "SSM CRS", "name reservation"]
+framework: how-to
 ---
 
 Thay đổi tên công ty không chỉ là điền một tờ mẫu — nó bắt đầu bằng một nghị quyết đặc

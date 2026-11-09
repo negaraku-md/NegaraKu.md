@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
 related: ["penang-george-town-visitor-guide", "tourist-safety-health-practical-tips"]
 keywords: ["MICE Malaysia", "business events", "MyCEB", "convention bureau", "KLCC", "MITEC", "Borneo Convention Centre Kuching", "exhibitions"]
+framework: profile
 ---
 
 Khi 3,2 triệu đại biểu bay đến dự một hội nghị, họ đặt phòng khách sạn, thuê phiên dịch, lấp đầy nhà hàng và ký kết các thỏa thuận — và Malaysia đã dành hơn một thập kỷ để xây dựng các địa điểm cùng cục điều phối nhằm thu hút họ.

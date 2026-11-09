@@ -56,6 +56,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "court-hierarchy", "parliament"]
 keywords: ["fundamental liberties Malaysia", "Article 5 Federal Constitution", "Article 8 equality Malaysia", "Article 10 freedom of speech Malaysia", "Article 11 freedom of religion Malaysia", "Article 13 right to property Malaysia", "Part II Federal Constitution"]
+framework: explainer
 ---
 
 ส่วนที่ II ของรัฐธรรมนูญสหพันธรัฐรับประกันสิทธิพื้นฐานที่สุดของชาวมาเลเซีย — และเกือบทุกมาตราในนั้นก็ระบุในลมหายใจเดียวกันถึงข้อจำกัดที่รัฐธรรมนูญเองอนุญาต การจับคู่ระหว่างการรับประกันและข้อจำกัดที่อนุญาตนี้ไม่ใช่อุบัติเหตุในการร่าง มันคือวิธีที่ส่วนที่ II ถูกสร้างขึ้น

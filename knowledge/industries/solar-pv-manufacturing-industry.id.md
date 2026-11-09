@@ -101,6 +101,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Sedikit orang menyadari bahwa ketika seorang pemilik rumah atau utilitas Amerika memasang susunan panel surya, panel itu boleh jadi dibuat di Malaysia. Selama lebih dari satu dekade negara ini diam-diam menjadi salah satu produsen sel dan modul fotovoltaik (PV) surya terbesar dunia — bukan untuk menggerakkan jaringan listriknya sendiri, melainkan untuk diekspor. Ini adalah industri pabrik, bukan feed-in tariff.

@@ -76,6 +76,7 @@ relations:
   - { rel: "located-in", to: "sarawak" }
 related: ["gawai-dayak", "sarawak"]
 keywords: ["نغاجات", "Ngajat", "رقصة نغاجات", "الإيبان", "Iban", "ساراواك", "Sarawak", "طائر الكركدن", "Burung Kenyalang", "يوم غاواي", "Hari Gawai", "البيت الطويل", "Ngajat Lesong", "Ngajat Indu", "pua kumbu"]
+framework: history-culture
 ---
 
 في رواق بيت طويل في ساراواك، يقفز رجل يعتمر ريش طائر الكركدن على رأسه ويدور ويدقّ الأرض بقدمه — بسيف في يد ودرع في الأخرى. هذه هي **نغاجات**، الرقصة التي كانت تستقبل المحاربين العائدين من ساحة المعركة.

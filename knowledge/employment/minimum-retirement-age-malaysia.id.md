@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["termination-of-employment-malaysia"]
 keywords: ["umur persaraan minimum", "Akta 753", "persaraan 60 tahun", "persaraan pramatang", "kontrak tempoh tetap", "persaraan pilihan"]
+framework: rules
 ---
 
 Seorang pekerja berusia 58 tahun menerima surat: perusahaan mengatakan kontraknya menetapkan pensiun pada 55, jadi dia sudah "habis masa". Di Malaysia, surat itu tidak bernilai apa pun secara hukum. Sejak 1 Juli 2013, pemberi kerja sektor swasta tidak boleh memaksa siapa pun pensiun sebelum 60 tahun, tidak peduli apa yang tertulis dalam kontrak.

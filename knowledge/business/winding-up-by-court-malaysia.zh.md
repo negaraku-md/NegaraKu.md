@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "statutory-demand-section-466-malaysia" }
 related: ["companies-act-2016"]
 keywords: ["winding up by court", "compulsory winding up", "section 466", "statutory demand", "Fortuna injunction", "RM50000 threshold", "Companies Act 2016", "insolvency Malaysia", "creditor petition"]
+framework: explainer
 ---
 
 一张未付的发票足以终结一家公司。在马来西亚，被欠款超过5万令吉的债权人无需先取得判决，即可动用商业法中最激烈的救济手段——一纸命令清算债务人并分配其剩余资产的法院命令。

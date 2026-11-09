@@ -82,6 +82,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-tenaga-kerja-semenanjung-malaysia" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["Akta 350", "kanak-kanak dan orang muda", "buruh kanak-kanak", "umur minimum bekerja", "kerja hiburan awam", "kerja berbahaya", "Akta Kanak-Kanak dan Orang Muda Pekerjaan 1966"]
+framework: rules
 ---
 
 家族の屋台を手伝う14歳の学生と、テレビ広告に出演する5歳の児童は、同じ一つの法律によって規律されている——使用者が普段引き合いに出す1955年雇用法（Employment Act 1955、Act 265）ではない。その法律とは、1966年児童及び年少者（雇用）法（Children and Young Persons (Employment) Act 1966、Act 350）である。

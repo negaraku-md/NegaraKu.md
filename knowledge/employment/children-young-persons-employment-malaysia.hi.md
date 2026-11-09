@@ -82,6 +82,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-tenaga-kerja-semenanjung-malaysia" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["Akta 350", "Act 350", "बाल श्रम", "काम की न्यूनतम आयु", "बच्चों और किशोरों का अधिनियम", "सार्वजनिक मनोरंजन कार्य", "खतरनाक काम", "kanak-kanak dan orang muda", "buruh kanak-kanak", "Akta Kanak-Kanak dan Orang Muda Pekerjaan 1966"]
+framework: rules
 ---
 
 पारिवारिक खाने के ठेले पर मदद करने वाला 14 वर्षीय विद्यार्थी और किसी टेलीविज़न विज्ञापन में अभिनय करने वाला पाँच वर्षीय बच्चा — दोनों एक ही कानून के अधीन हैं, और वह वह Employment Act 1955 नहीं है जिसकी ओर नियोक्ता आम तौर पर रुख करते हैं। वह कानून है Children and Young Persons (Employment) Act 1966, या Act 350।

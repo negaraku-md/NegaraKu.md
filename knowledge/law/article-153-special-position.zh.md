@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-equity-requirements" }
 related: ["federal-constitution", "fundamental-liberties", "ma63", "majlis-raja-raja", "bumiputera-equity-requirements"]
 keywords: ["Article 153", "special position of the Malays", "natives of Sabah and Sarawak", "Federal Constitution Malaysia", "legitimate interests of other communities", "Article 136 impartial treatment", "Conference of Rulers Article 159", "Bumiputera quotas"]
+framework: explainer
 ---
 
 大多数对第153条的概述都止步于一句话：它保障马来人的特殊地位。若完整阅读该句子所出自的那一款，就会发现这句话其实在做另一件事——它在同一款、对同一个职位，同时点出了两项职责。

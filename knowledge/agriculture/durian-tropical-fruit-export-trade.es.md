@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "external-trade" }
 related: ["palm-oil-sector", "external-trade", "rubber"]
 keywords: ["exportación de durián Malasia", "Musang King", "Black Thorn durian", "protocolo durián China", "indicación geográfica durián", "myGAP durian", "fresh durian export China"]
+framework: profile
 ---
 
 Durante más de una década, el durián malasio solo podía entrar en China si estaba congelado o procesado en pulpa y pasta. Entonces, a mediados de 2024, Malasia obtuvo el acceso que había buscado durante años: el derecho a enviar durián entero y fresco al mayor mercado de durián del planeta.

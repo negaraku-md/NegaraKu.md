@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "road-transport-act-1987" }
 related: []
 keywords: ["lorong motosikal", "Lebuhraya Persekutuan", "topi keledar", "Seksyen 79(2)", "motosikal lebuh raya", "MS 1", "kapasiti enjin"]
+framework: rules
 ---
 
 你骑着摩托车驶入联邦大道（Lebuhraya Persekutuan），看到"摩托车道"（Lorong Motosikal）的路牌分岔向左——心里犯嘀咕：究竟是必须跟着走，还是可以继续留在主车道上？答案取决于一个词：*宪报公布*（diwartakan）。

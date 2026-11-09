@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "sales-and-service-tax-sst" }
 related: []
 keywords: ["antipencatutan", "kawalan harga", "untung berlebihan", "Akta 723", "Op Catut", "KPDN", "pencatutan harga"]
+framework: rules
 ---
 
 Raising prices because costs went up is one thing. Raising prices merely to rake in a bigger profit than last year — that can land you in court in Malaysia.

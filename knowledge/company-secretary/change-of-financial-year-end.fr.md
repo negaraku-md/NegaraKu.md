@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "cp204b-change-of-accounting-period" }
 related: ["financial-statements-lodgement", "companies-act-2016"]
 keywords: ["exercice financier", "tahun kewangan", "FYE", "financial year end", "SSM", "Companies Act 2016", "Akta Syarikat 2016", "CP204B", "états financiers", "penyata kewangan"]
+framework: how-to
 ---
 
 De nombreux administrateurs supposent que changer l'exercice financier d'une entreprise exige de déposer un formulaire spécial auprès de la SSM — mais la Companies Act 2016 ne fait en réalité aucune mention d'un tel formulaire.

@@ -63,6 +63,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-kastam-diraja-malaysia" }
 related: ["tourism-tax"]
 keywords: ["levi pelepasan", "departure levy", "cukai keluar", "Departure Levy Act 2019", "Kastam", "MyDLv"]
+framework: rules
 ---
 
 말레이시아에서 항공편으로 출국할 때마다, 항공권 가격에는 승객이 좀처럼 알아차리지 못하는 정부에 대한 작은 지급 — 출국세(levi pelepasan) — 가 이미 포함되어 있습니다. 이는 2019년 예산안에서 도입되어 *출국세법 2019(Departure Levy Act 2019)*를 통해 **2019년 9월 1일**부터 시행되었습니다.

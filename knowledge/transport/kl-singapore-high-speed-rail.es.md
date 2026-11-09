@@ -78,6 +78,7 @@ relations:
   - { rel: "compares-with", to: "johor-bahru-singapore-rts-link" }
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["HSR KL Singapur", "tren de alta velocidad Malasia", "MyHSR Corp", "indemnización cancelación HSR", "reactivación HSR RFP", "high-speed rail Malaysia"]
+framework: history-culture
 ---
 
 Un tren bala que podría llevarle de Kuala Lumpur a Singapur en unos 90 minutos se ha firmado, suspendido, cancelado, llorado y resucitado — todo sin que se haya tendido una sola vía. Aquí está en qué punto se encuentra en realidad este proyecto que una y otra vez se enciende y se apaga.

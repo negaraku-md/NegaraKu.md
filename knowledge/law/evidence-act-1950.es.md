@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-malaysia" }
 related: ["criminal-procedure-code", "federal-constitution"]
 keywords: ["Akta Keterangan 1950", "Evidence Act 1950", "Act 56", "carga de la prueba", "admisibilidad", "presunción", "privilegio", "seksyen 90A", "seksyen 114A", "confesión"]
+framework: explainer
 ---
 
 Una fotografía, un mensaje de WhatsApp o las palabras de un testigo no se convierten automáticamente en «prueba» ante un tribunal. Que algo cuente como prueba —y quién tiene que probarlo— lo determina una sola ley: la Evidence Act 1950 (Act 56).

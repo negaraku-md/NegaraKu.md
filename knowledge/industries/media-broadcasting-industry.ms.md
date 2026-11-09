@@ -99,6 +99,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Apabila rakyat Malaysia bercakap tentang "media", mereka biasanya memaksudkan salah satu daripada beberapa nama yang biasa: cakera satelit Astro yang dipasang di sisi rumah, buletin berita TV3, rancangan radio pagi dalam perjalanan ke tempat kerja, atau — semakin — apa sahaja yang dimainkan pada telefon semasa berulang-alik. Titik sentuh harian itu tergolong dalam satu industri tunggal yang luas: media dan penyiaran. Ia ialah salah satu sektor perkhidmatan yang lebih ketara di negara ini, dan juga salah satu yang paling terganggu.

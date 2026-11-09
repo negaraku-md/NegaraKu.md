@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "minimum-wage-malaysia" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["potongan gaji", "Seksyen 24", "Akta Kerja 1955", "salary deduction", "Ketua Pengarah Tenaga Kerja", "lebihan gaji"]
+framework: rules
 ---
 
 당신의 급여명세서 금액이 예상보다 적고, 그 사유가 "회사 정책"으로 기재되어 있습니다. 그러나 고용주는 마음대로 급여를 공제할 수 없습니다. 고용법 1955(Employment Act 1955)는 적법한 공제의 폐쇄적 목록을 정하며 — 그 목록 밖의 어떤 것도 허용되지 않습니다.

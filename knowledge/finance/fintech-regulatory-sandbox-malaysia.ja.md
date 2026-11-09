@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "securities-commission-malaysia" }
 related: ["bank-negara-malaysia", "securities-commission-malaysia"]
 keywords: ["regulatory sandbox", "fintech Malaysia", "BNM sandbox", "Innovation Green Lane", "SC sandbox", "FTEG", "capital market fintech"]
+framework: explainer
 ---
 
 マレーシアで新しい決済アプリやトークン化証券プラットフォームを構築しようとすると、同じ壁にぶつかる。規則は、あなたのアイデアが存在する前に書かれたものだからだ。規制サンドボックス（regulatory sandbox）は、その壁を通り抜けるための扉である——完全な免許を持つ前に、実際に稼働する製品をテストできる監督下の空間だ。マレーシアにはこれが二つあり、どちらの扉を叩くべきかは、あなたが何を作っているかによって決まる。

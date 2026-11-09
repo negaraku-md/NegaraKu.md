@@ -91,6 +91,7 @@ keywords:
   - "विद्युत वाहन सड़क कर JPJ"
   - "road tax EV Malaysia"
   - "LKM"
+framework: explainer
 ---
 
 मलेशिया में विद्युत कारों के लिए मुफ़्त सड़क कर का दौर खत्म हो गया — पर आपके MyJPJ में आने

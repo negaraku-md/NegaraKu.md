@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["CCRIS", "CTOS", "التقرير الائتماني", "credit report Malaysia", "الدرجة الائتمانية", "credit score", "Credit Reporting Agencies Act 2010", "RAM Credit Information RAMCI", "التصنيف الائتماني"]
+framework: explainer
 ---
 
 قسطٌ واحد فائت قد يلازمك بصمت سنوات — ومعظم الماليزيين لم يقرأوا فعلًا الملف الذي يفتحه بنك قبل أن يقول نعم أو لا لقرض.

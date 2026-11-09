@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "auditor-independence" }
 related: ["companies-act-2016"]
 keywords: ["article 266", "auditeur", "SSM", "Companies Act 2016", "signalement des infractions", "fraude", "Registraire", "Section 266"]
+framework: rules
 ---
 
 Un auditeur qui découvre une fraude au cours d'un audit ne peut pas se contenter de garder le silence et de signer le rapport — la loi exige un signalement écrit au Registraire. Ce devoir n'est pas facultatif, et l'ignorer constitue en soi une infraction.

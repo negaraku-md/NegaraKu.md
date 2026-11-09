@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "getting-around-malaysia" }
 related: ["getting-around-malaysia"]
 keywords: ["consejos viaje Malasia", "999 emergencia Malasia", "tarjeta SIM turista Malasia", "temporada monzón Malasia", "vacunas viaje Malasia", "propinas en Malasia", "Malaysia travel tips"]
+framework: explainer
 ---
 
 Has aterrizado, tienes jet lag y tu teléfono no muestra señal. Antes de preocuparte por el nasi lemak perfecto, resuelve las cosas aburridas pero importantes — una SIM que funcione, el número de emergencia correcto y saber si el cielo está a punto de abrirse. Aquí está la lista corta verificada.

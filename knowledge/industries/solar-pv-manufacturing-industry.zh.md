@@ -101,6 +101,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 很少有人意识到，当美国的业主或公用事业公司安装太阳能阵列时，那些电池板很可能是在马来西亚制造的。十多年来，这个国家一直悄然成为全球最大的太阳能光伏 (PV) 电池和组件生产国之一——不是为了给自己的电网供电，而是为了出口。这是一个关于工厂的产业，而非上网电价。

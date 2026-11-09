@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "movement-control-order-covid-19" }
 related: []
 keywords: ["Akta 342", "penyakit berjangkit", "kuarantin", "PKP", "COVID-19", "kawasan jangkitan tempatan", "kesihatan awam", "Kementerian Kesihatan Malaysia"]
+framework: rules
 ---
 
 Cuando la Orden de Control de Movimiento (MCO) paralizó casi toda Malasia en marzo de 2020, la facultad legal que la respaldaba no provino de ninguna nueva ley de emergencia — sino de una ley de salud pública que existía desde 1988.

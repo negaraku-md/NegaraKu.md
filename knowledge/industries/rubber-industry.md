@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry" }
 related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
+framework: profile
 ---
 
 The rubber that built colonial Malaya no longer earns its keep in the plantation — it earns it on the factory floor. Malaysia still taps trees, but its rubber fortune now rides on the medical gloves, tyres and latex goods it manufactures, a business that works through more rubber than the country itself grows.

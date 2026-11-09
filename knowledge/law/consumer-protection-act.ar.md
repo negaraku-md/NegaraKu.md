@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["contracts-act-1950", "court-hierarchy", "companies-act-2016"]
 keywords: ["Consumer Protection Act 1999", "Act 599", "Tribunal for Consumer Claims", "محكمة مطالبات المستهلكين", "TTPM", "حقوق المستهلك في ماليزيا", "KPDN", "مطالبة المستهلك RM50000"]
+framework: data-reference
 ---
 
 هاتف يتعطَّل في أسبوعه الثاني. مقاول تجديدات يأخذ العربون ثم يختفي. ملصق

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["federal-constitution", "majlis-raja-raja", "constitutional-amendment", "new-economic-policy", "ma63"]
 keywords: ["Perkara 153", "Article 153", "kedudukan istimewa orang Melayu", "special position of the Malays", "Bumiputera", "anak negeri Sabah Sarawak", "kepentingan sah kaum lain", "perkadaran yang munasabah", "kuota Perlembagaan Malaysia", "Perkara 153 Perlembagaan Persekutuan", "takrif orang Melayu Perkara 160"]
+framework: explainer
 ---
 
 许多人引用第153条，但真正读过其条文的人却少得多。有人称之为"马来人特权"，有人称之为"配额"，也有人称之为"歧视"——然而该条文的实际文本并未使用其中任何一个词。它设定了一项责任，规定了几项限制，并且——很少有人提及的一点——同时点名了两个必须一并受到保护的群体。

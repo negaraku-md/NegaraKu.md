@@ -76,6 +76,7 @@ relations:
   - { rel: "governs", to: "national-land-code-1965" }
 related: []
 keywords: ["bank lelong", "subasta de propiedad Malasia", "ejecución hipotecaria", "proclamación de venta", "proclamation of sale", "subasta LACA", "orden de venta", "precio de reserva", "foreclosure"]
+framework: explainer
 ---
 
 Una propiedad puede ir al martillo por una fracción de su valor de mercado, pero el descuento es el mercado poniendo precio a todo lo que puede salir mal. Un bank lelong no es una caza de gangas; es un intercambio calculado de precio por riesgo.

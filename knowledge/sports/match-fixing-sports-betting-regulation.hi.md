@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "macc-anti-corruption-malaysia" }
 related: []
 keywords: ["pengaturan perlawanan", "match-fixing", "pertaruhan sukan", "Akta Rumah Judi Terbuka 1953", "Akta Pertaruhan 1953", "SPRM", "integriti sukan", "bola sepak Malaysia"]
+framework: explainer
 ---
 
 जब 1993–1994 के सीज़न में पुलिस ने 100 से अधिक फुटबॉल खिलाड़ियों को घेर लिया, तो यह केवल एक खेल संकट नहीं था — इसने एक कानूनी सवाल खोल दिया जो आज तक पूरी तरह हल नहीं हुआ है: एक ऐसा देश जो लगभग सभी खेल सट्टेबाज़ी को प्रतिबंधित करता है, उसी सट्टेबाज़ी से जन्मे अपराध से कैसे निपटता है?

@@ -96,6 +96,7 @@ keywords:
   - Mineral Development Act 1994
   - JMG
   - Lynas
+framework: profile
 ---
 
 L'économie moderne de la Malaisie a été, au sens propre, tirée du sol. Bien avant l'huile de palme, l'électronique ou les semi-conducteurs, c'est l'**étain** qui a rendu la péninsule importante pour le monde — finançant les chemins de fer, faisant croître des villes telles qu'Ipoh et Kuala Lumpur, et attirant des générations de mineurs migrants. L'exploitation minière est le plus ancien récit industriel du pays, et bien qu'elle ne domine plus l'économie, elle se réécrit discrètement autour d'un prix très moderne : les éléments de terres rares.

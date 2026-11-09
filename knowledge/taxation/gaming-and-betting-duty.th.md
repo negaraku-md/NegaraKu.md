@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "corporate-income-tax" }
 related: ["sales-and-service-tax"]
 keywords: ["duti kasino", "cukai perjudian", "duti mesin permainan", "duti pertaruhan pool", "number forecast operator", "gaming tax Malaysia"]
+framework: rules
 ---
 
 ทุกริงกิตที่พนันบนโต๊ะคาสิโนหรือเคาน์เตอร์ 4D แบกภาษีที่ซ่อนอยู่ — และในมาเลเซีย อัตราของมันอยู่ในกลุ่ม

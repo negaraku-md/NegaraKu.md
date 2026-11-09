@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "putrajaya" }
 related: ["federal-state-division", "federal-constitution", "kuala-lumpur", "putrajaya", "parliament"]
 keywords: ["local government Malaysia", "local council", "city council", "municipal council", "district council", "Local Government Act 1976", "Act 171", "councillors appointed", "local elections suspended 1965", "third vote", "National Council for Local Government"]
+framework: explainer
 ---
 
 สภาที่ซ่อมไฟถนนของคุณ เก็บถังขยะของคุณ อนุมัติการต่อเติมของเพื่อนบ้านคุณ และออกใบอนุญาตให้ร้านกาแฟชั้นล่าง คือชั้นของรัฐบาลที่ใกล้ชิดกับชีวิตประจำวันที่สุด และยังเป็นชั้นเดียวที่ไม่มีผู้มีสิทธิเลือกตั้งชาวมาเลเซียคนใดเป็นผู้เลือกสมาชิกของมัน

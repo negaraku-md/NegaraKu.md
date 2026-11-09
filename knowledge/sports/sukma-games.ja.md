@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "program-podium" }
 related: []
 keywords: ["SUKMA", "Sukan Malaysia", "Majlis Sukan Negara", "Program Podium", "atlet remaja", "pembangunan sukan", "Institut Sukan Negara"]
+framework: explainer
 ---
 
 2年に一度、数千人の青少年選手が開催州のスタジアムへと行進して入場する——世界のメダルのためではなく、それぞれの州の誇りのため、そして最も才能ある者にとっては、国のエリート舞台への切符のためである。それがSUKMAだ。

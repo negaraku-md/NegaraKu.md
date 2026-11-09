@@ -97,6 +97,7 @@ relations:
   - { rel: "administered-by", to: "mida" }
 related: ["penang", "mida"]
 keywords: ["E&E industry", "electrical and electronics", "Malaysia manufacturing", "Penang electronics", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
+framework: profile
 ---
 
 Ouvrez presque n'importe quel ordinateur portable, smartphone ou automobile fabriqué au cours de la dernière décennie et il y a de bonnes chances qu'une de ses pièces soit passée par la Malaisie. La puce à l'intérieur a peut-être été testée et conditionnée à Penang ; l'adaptateur secteur, le rétroéclairage LED ou la carte de circuit imprimé ont pu être assemblés à Kulim, à Melaka ou dans la vallée de Klang. Pour un pays d'environ 34,1 millions d'habitants (2024, DOSM), la Malaisie occupe une place étonnamment centrale dans la chaîne d'approvisionnement mondiale de l'électronique — et c'est, presque entièrement, l'histoire d'une seule industrie.

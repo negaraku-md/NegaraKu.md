@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "solvency-statement" }
 related: []
 keywords: ["pembelian balik saham", "share buy-back", "saham perbendaharaan", "treasury shares", "Seksyen 127", "Akta Syarikat 2016", "Bursa Malaysia", "Bab 12"]
+framework: rules
 ---
 
 ஒரு கம்பெனி தனது சொந்தப் பங்குகளை மீள்கொள்முதல் செய்து அவற்றை “கருவூலத்தில்” (in treasury) வைத்திருக்கலாம் — ஆனால் அது பட்டியலிடப்பட்டிருந்தால், தனது கடன்களைச் செலுத்தும் திறன் கொண்டிருந்தால், மேலும் கண்டிப்பான 10% வரம்பிற்குள் இருந்தால் மட்டுமே.

@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["employment-act-1955"]
 keywords: ["agensi pekerjaan swasta", "Akta 246", "lesen headhunting", "carian eksekutif", "JTKSM", "yuran penempatan"]
+framework: rules
 ---
 
 मलेशिया में एक हेडहंटिंग फ़र्म खोलें और बिना लाइसेंस के उम्मीदवारों का नियोक्ताओं से

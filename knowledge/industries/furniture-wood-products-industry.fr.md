@@ -101,6 +101,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Quelque part dans une maison du Texas ou de Californie, il y a de bonnes chances que la chaise de salle à manger, le cadre de lit ou l'étagère ait été fabriqué en Malaisie — très probablement dans une seule ville et ses environs, à partir du bois d'un hévéa qui produisait autrefois du latex pour les gants et les pneus. L'industrie malaisienne du meuble et des produits du bois est l'un des poids lourds discrets de son économie manufacturière : pas glamour, mais un exportateur mondial régulier du top dix qui a transformé un sous-produit du secteur des plantations en biens finis vendus dans le monde entier.

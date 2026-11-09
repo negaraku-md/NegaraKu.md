@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "trademark-registration-malaysia" }
 related: ["trademark-registration-malaysia"]
 keywords: ["भौगोलिक संकेत", "GI Act 2022", "Act 836", "MyIPO", "सारावाक काली मिर्च", "Musang King", "बौद्धिक संपदा मलेशिया", "मूल स्थान"]
+framework: explainer
 ---
 
 «सारावाक काली मिर्च» या «मुसांग किंग» कहिए और एक खरीदार पहले से ही एक विशिष्ट स्थान, मिट्टी और

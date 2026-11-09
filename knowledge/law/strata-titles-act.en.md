@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "house-buyers-act" }
 related: ["national-land-code"]
 keywords: ["akta hakmilik strata", "akta pengurusan strata 2013", "JMB", "perbadanan pengurusan", "caj penyelenggaraan", "kumpulan wang penjelas", "tribunal pengurusan strata"]
+framework: explainer
 ---
 
 Buying a condominium means you own your own "parcel" — but you share the lifts, pool, corridors and roof with hundreds of neighbours. Two laws determine who owns what, and who pays to maintain that shared space.

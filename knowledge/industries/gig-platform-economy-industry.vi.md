@@ -97,6 +97,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Mỗi ngày, hàng triệu giao dịch ở Malaysia được sắp xếp không phải bởi một cửa hàng, một văn phòng hay một bến taxi, mà bởi một ứng dụng: một chiếc xe được gọi đến lề đường, một túi đồ ăn được chở qua thành phố trên một chiếc xe máy, một logo được thiết kế cho một khách hàng mà người làm nghề tự do sẽ không bao giờ gặp. Đây là kinh tế gig và nền tảng — công việc được làm trung gian qua các nền tảng số — và trong hơn một thập kỷ ngắn ngủi, nó đã chuyển từ một điều mới lạ thành một trong những đặc điểm dễ thấy nhất của đời sống lao động Malaysia.

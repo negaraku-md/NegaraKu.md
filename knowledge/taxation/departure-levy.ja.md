@@ -63,6 +63,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-kastam-diraja-malaysia" }
 related: ["tourism-tax"]
 keywords: ["levi pelepasan", "departure levy", "cukai keluar", "Departure Levy Act 2019", "Kastam", "MyDLv"]
+framework: rules
 ---
 
 マレーシアから飛行機で出国するたびに、あなたの航空券の価格にはすでに、旅客がほとんど意識することのない政府への小さな支払いが含まれている——出国税である。これは2019年予算案で導入され、*2019年出国税法（Departure Levy Act 2019、Act 813）*により**2019年9月1日**より施行された。

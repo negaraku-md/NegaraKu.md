@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "traffic-summons-saman" }
 related: ["pdrm", "traffic-summons-saman"]
 keywords: ["999 Malaysia", "MERS 999", "NG999", "ambulans kecemasan Malaysia", "Jabatan Kecemasan", "triage zon merah kuning hijau", "ambulans percuma", "caj kecemasan hospital kerajaan"]
+framework: explainer
 ---
 
 คุณกด 999 เสียงที่ปลายสายถามชื่อ สถานที่ และสิ่งที่เกิดขึ้น — และภายในเวลาที่ตั้งเป้าไว้ ทีมรถพยาบาลควรอยู่ระหว่างทางแล้ว แต่หลายคนไม่รู้ว่าเบื้องหลังการโทรนั้นเกิดอะไรขึ้น ใครเป็นผู้รับสายจริง ๆ มันฟรีหรือไม่ และเหตุใดผู้ป่วยอื่นที่มาถึงโรงพยาบาลช้ากว่าจึงบางครั้งได้รับการรักษาก่อนคุณ

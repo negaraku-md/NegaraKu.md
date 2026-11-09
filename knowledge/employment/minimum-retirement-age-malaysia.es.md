@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["termination-of-employment-malaysia"]
 keywords: ["edad mínima de jubilación Malasia", "Act 753", "jubilación a los 60 años", "jubilación prematura", "contrato de duración determinada", "jubilación opcional"]
+framework: rules
 ---
 
 Un empleado de 58 años recibe una carta: la empresa dice que su contrato fija la jubilación a los 55, así que su tiempo «se acabó». En Malasia, esa carta carece de todo valor legal. Desde el 1 de julio de 2013, un empleador del sector privado no puede obligar a nadie a jubilarse antes de los 60 años, diga lo que diga el contrato.

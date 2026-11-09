@@ -87,6 +87,7 @@ relations:
   - { rel: "affects", to: "cost-of-living-overview" }
 related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "subsidi padi"]
+framework: profile
 ---
 
 每当大米价格上涨或超市货架空空如也，一个由来已久的问题就再次困扰着马来西亚：一个稻田肥沃的国家，为何仍需进口近半的大米？答案在于一个由补贴推动、由保障价格庇护、并被至今仍未达成的自给目标所追逐的产业。

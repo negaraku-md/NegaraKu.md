@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-economic-policy" }
 related: ["islamic-finance", "external-trade", "bumiputera-economic-policy"]
 keywords: ["halal industry", "halal economy", "HALMAS halal park", "Halal Development Corporation", "HDC", "Halal Industry Master Plan 2030", "halal exports", "global halal hub"]
+framework: profile
 ---
 
 一包方便面上的清真标志，是大多数人以为故事结束的地方。在马来西亚，它更接近故事的开端。在那个标志背后，是一场刻意为之、历时数十年的努力——要把"清真"从一种宗教保证转变为一个出口产业，并为其配上工业园区、税务减免、融资和一份国家总蓝图。

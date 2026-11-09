@@ -85,6 +85,7 @@ relations:
   - { rel: "affects", to: "oil-palm-plantations" }
 related: []
 keywords: ["windfall profit levy", "cukai durian runtuh", "palm oil tax Malaysia", "CPO levy", "Windfall Profit Levy Act 1998", "oil palm fruit order"]
+framework: rules
 ---
 
 Apabila harga minyak sawit mentah melonjak, kerajaan Malaysia mengutip sebahagian daripada keuntungan itu — tetapi hanya selepas harga melepasi paras yang ditetapkan. Paras itulah levi untung luar biasa, cukai yang diaktifkan dalam bulan-bulan harga tinggi dan dimatikan dalam bulan-bulan biasa.

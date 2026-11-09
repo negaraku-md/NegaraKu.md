@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-state-and-federal-lists" }
 related: []
 keywords: ["hutan simpanan kekal", "akta perhutanan negara 1984", "pewartaan hutan", "senarai negeri", "hutan hujan malaysia", "degazette hutan simpan", "enakmen hutan sabah", "ordinan hutan sarawak"]
+framework: explainer
 ---
 
 மலேசியாவில் ஒரு காடு நிறைந்த நிலம், மரங்களால் நிரம்பியிருப்பதால் மட்டுமே “பாதுகாக்கப்பட்டது” ஆகிவிடாது — அதன் நிலத்தின் பெயர் வர்த்தமானியில் (Gazette) தோன்றும் நாளில்தான் அதன் பாதுகாப்பு தொடங்குகிறது. அந்த வர்த்தமானி அறிவிப்பு இல்லாமல், அதே காடு எந்த நேரத்திலும் மேம்பாட்டிற்கு உரிமம் பெறலாம். இதுவே மலேசியாவின் முழு நிரந்தர வன காப்பக (Permanent Forest Reserve, PFR) அமைப்பின் அடித்தளம்.

@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-malaysia" }
 related: ["criminal-procedure-code", "federal-constitution"]
 keywords: ["Akta Keterangan 1950", "Evidence Act 1950", "Akta 56", "beban bukti", "kebolehterimaan", "anggapan", "keistimewaan", "seksyen 90A", "seksyen 114A", "pengakuan salah"]
+framework: explainer
 ---
 
 写真、WhatsAppのメッセージ、あるいは証人の言葉は、必ずしも法廷における「証拠」となるわけではない。あるものが証拠として認められるか否か——そして誰がそれを証明しなければならないか——は、単一の制定法によって定められる。それが1950年証拠法（Evidence Act 1950、Act 56）である。

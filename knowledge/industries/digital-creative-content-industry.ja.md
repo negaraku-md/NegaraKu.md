@@ -105,6 +105,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Les' Copaque の _Upin & Ipin Universe_ が**2025年7月17日**に世界中のコンソールに届いたとき、二人のいたずら好きな双子についての短編アニメシリーズから始まった一つの輪が閉じた。マレーシアのアニメが世界的に出版されるビデオゲームになった — そして、同国のデジタルクリエイティブコンテンツ産業が20年かけて静かに築き上げてきたものの見事な実例となった。

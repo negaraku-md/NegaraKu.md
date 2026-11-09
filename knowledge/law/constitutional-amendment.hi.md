@@ -54,6 +54,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["federal-constitution", "majlis-raja-raja", "ma63", "article-152-language", "fundamental-liberties"]
 keywords: ["अनुच्छेद 159 संघीय संविधान", "Article 159 Federal Constitution", "मलेशिया संविधान संशोधन", "संसद में दो-तिहाई बहुमत", "शासक-सम्मेलन की सहमति", "अनुच्छेद 161E सबा सारावाक", "Article 161E Sabah Sarawak", "constitutional amendment Malaysia"]
+framework: explainer
 ---
 
 अनुच्छेद 159 स्वयं को अपने ही नियमों के अधीन करके आरंभ होता है। खंड (5) उन

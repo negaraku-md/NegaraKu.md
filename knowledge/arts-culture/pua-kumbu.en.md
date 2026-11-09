@@ -78,6 +78,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["batik", "gawai-dayak", "sarawak"]
 keywords: ["pua kumbu", "tenunan Iban", "ikat lungsi", "kebat", "engkudu", "ngar", "kain upacara Sarawak", "Bangie Embol"]
+framework: history-culture
 ---
 
 A cloth whose weaver dares not create it without a "blessing" — its patterns are said to come in dreams, and it was once bound tightly to the warrior tradition of the people who made it. That is pua kumbu.

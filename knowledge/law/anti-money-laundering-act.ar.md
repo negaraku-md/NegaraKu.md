@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "financial-intelligence-unit" }
 related: ["bank-negara-malaysia"]
 keywords: ["AMLA", "AMLATFPUAA 2001", "Act 613", "غسل الأموال ماليزيا", "تمويل الإرهاب", "المؤسسة المبلِّغة", "تقرير المعاملة المشبوهة", "بنك نيغارا ماليزيا", "التجميد والضبط", "الامتثال لمكافحة غسل الأموال", "money laundering Malaysia", "terrorism financing", "reporting institution", "suspicious transaction report", "Bank Negara Malaysia", "AML CFT compliance"]
+framework: rules
 ---
 
 حين يصنّف مصرف ماليزي تحويل أحد عملائه بأنه «مشبوه»، يحدّد قانون واحد ما يحدث بعد ذلك — من الذي يجب إبلاغه، وبأي سرعة، وأي صلاحيات يمكن للدولة عندئذٍ أن تستخدمها إزاء الأموال. وذلك القانون هو AMLA.

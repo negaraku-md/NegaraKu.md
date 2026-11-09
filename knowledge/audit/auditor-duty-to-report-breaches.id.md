@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "auditor-independence" }
 related: ["companies-act-2016"]
 keywords: ["seksyen 266", "juruaudit", "SSM", "Akta Syarikat 2016", "pelaporan pelanggaran", "penipuan", "Pendaftar"]
+framework: rules
 ---
 
 Seorang auditor yang menemukan penipuan selama mengaudit tidak boleh sekadar berdiam diri dan menandatangani laporan — undang-undang mewajibkannya membuat laporan tertulis kepada Pendaftar. Kewajiban ini bukan pilihan, dan mengabaikannya sendiri merupakan suatu kejahatan.

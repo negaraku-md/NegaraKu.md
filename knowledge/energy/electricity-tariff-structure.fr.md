@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
 related: ["tenaga-nasional"]
 keywords: ["tarif elektrik", "TNB", "RP4", "AFA", "ICPT", "Time-of-Use", "Caj Tenaga", "bil elektrik", "Suruhanjaya Tenaga"]
+framework: explainer
 ---
 
 Si vous feuilletez votre dernière facture TNB et êtes surpris de voir cinq lignes de redevances distinctes remplacer un unique total bien net, vous n'êtes pas dans la confusion — la structure tarifaire de l'électricité en Malaisie péninsulaire a été entièrement refondue le 1er juillet 2025.

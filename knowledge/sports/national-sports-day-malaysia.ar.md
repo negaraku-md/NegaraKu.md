@@ -69,6 +69,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-belia-dan-sukan" }
 related: []
 keywords: ["اليوم الوطني للرياضة", "hari sukan negara", "HSN", "الشهر الوطني للرياضة", "bulan sukan negara", "وزارة الشباب والرياضة", "kementerian belia dan sukan", "أمة رياضية", "negara bersukan", "نمط حياة نشط"]
+framework: explainer
 ---
 
 في كل سبت من الأسبوع الثاني من أكتوبر، يُفترَض أن تمتلئ الملاعب والحدائق والصالات في جميع أنحاء ماليزيا — تلك هي الغاية من اليوم الوطني للرياضة.

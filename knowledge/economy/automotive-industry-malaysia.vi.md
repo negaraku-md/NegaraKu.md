@@ -109,6 +109,7 @@ entity: "Automotive industry of Malaysia"
 relations: []
 related: []
 keywords: ["Malaysia automotive industry", "Proton", "Perodua", "National Automotive Policy", "NAP 2020", "electric vehicles Malaysia", "TIV", "car manufacturing Malaysia", "EV incentives", "CKD"]
+framework: profile
 ---
 
 Phần lớn các quốc gia Đông Nam Á cho các hãng xe nước ngoài lắp ráp trên đất mình rồi dừng lại ở đó. Malaysia đã làm điều táo bạo và lạ lùng hơn: quyết định rằng quốc gia này nên tự sở hữu chiếc xe. Hai thương hiệu ra đời từ canh bạc đó, Proton và Perodua, đến nay vẫn đưa hơn ba trong năm chiếc xe mới lên đường phố Malaysia.

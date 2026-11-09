@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "taman-negara" }
 related: []
 keywords: ["Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "totally protected wildlife", "protected wildlife", "wildlife licence Malaysia", "special permit", "wildlife trafficking Malaysia", "Department of Wildlife and National Parks"]
+framework: rules
 ---
 
 Keep a Malayan tiger's skin in your car boot and you are not looking at a fine and a stern letter — you are looking at years in prison and a fine measured in hundreds of thousands of ringgit. That is the sharp end of the Wildlife Conservation Act 2010, the law that decides which animals in Peninsular Malaysia you may touch, keep, sell or study, and which you may not go near without written permission from the state.

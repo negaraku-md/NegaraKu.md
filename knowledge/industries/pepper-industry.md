@@ -108,6 +108,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Pepper is one of Malaysia's oldest and most geographically distinctive agricultural commodities: a vine imported from the Indian subcontinent and Sumatra that found its ideal home in the humid, well-drained hills of Sarawak, where it became the backbone of thousands of rural smallholdings. Though Malaysia is a modest player by global volume, it punches above its weight on reputation, selling a premium, origin-certified "Sarawak Pepper" into discerning markets. This article profiles the structure, geography, trade and prospects of the sector as a standalone industry.

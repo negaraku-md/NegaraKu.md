@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "industries-tourism" }
 related: []
 keywords: ["Malaysia industries", "Malaysia economy sectors", "Malaysia GDP by sector", "Malaysia exports", "electrical and electronics Malaysia", "palm oil", "Malaysia manufacturing", "services sector Malaysia"]
+framework: explainer
 ---
 
 Lần theo gần như bất kỳ sản phẩm nào trong một thiết bị công nghệ toàn cầu — con chip bên trong điện thoại thông minh, mối hàn trên máy chủ trung tâm dữ liệu — và có khả năng khá cao là một phần của nó đã đi qua sàn nhà máy ở Penang, Kulim hay Klang. Tuy nhiên nhà máy chỉ là một lát cắt của câu chuyện. Malaysia ngày nay kiếm sống chủ yếu không phải từ những gì nó làm ra, mà từ những gì nó bán, phục vụ và vận chuyển. Đây là bản đồ của nền kinh tế đó: các khu vực quan trọng, mỗi khu vực nặng bao nhiêu, và nơi các hướng dẫn sâu hơn trong nhóm này tiếp nối mạch chuyện.

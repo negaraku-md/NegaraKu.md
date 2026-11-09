@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "auditor-independence" }
 related: ["companies-act-2016"]
 keywords: ["seksyen 266", "juruaudit", "SSM", "Akta Syarikat 2016", "pelaporan pelanggaran", "penipuan", "Pendaftar"]
+framework: rules
 ---
 
 Một kiểm toán viên phát hiện gian lận trong khi kiểm toán không thể chỉ đơn thuần giữ im lặng và ký báo cáo — luật buộc họ phải làm một báo cáo bằng văn bản cho Cơ quan Đăng ký. Nghĩa vụ này không phải là lựa chọn, và việc bỏ qua nó bản thân là một tội.

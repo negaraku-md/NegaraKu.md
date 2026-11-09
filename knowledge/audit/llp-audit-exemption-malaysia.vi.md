@@ -62,6 +62,7 @@ relations:
   - { rel: "administered-by", to: "ssm" }
 related: []
 keywords: ["PLT audit", "LLP audit exemption", "Akta PLT 2012", "perisytiharan tahunan PLT", "seksyen 69", "SSM"]
+framework: explainer
 ---
 
 Nhiều doanh nhân chọn Hợp danh Trách nhiệm Hữu hạn (Perkongsian Liabiliti Terhad, PLT) một phần vì nó không phải trả tiền cho một cuộc kiểm toán thường niên. Khác với công ty Sdn Bhd, một PLT có thể hoạt động nhiều năm mà không một kiểm toán viên nào nhìn vào sổ sách của nó — và điều đó thực sự hợp pháp.

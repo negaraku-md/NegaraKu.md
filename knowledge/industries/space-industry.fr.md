@@ -107,6 +107,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 La Malaisie ne lance pas ses propres fusées, et pourtant elle a fait voler un astronaute, construit et exploité des microsatellites, et adopté une loi pour accorder des licences à l'activité spatiale privée avant la plupart de ses voisins. Son secteur spatial est restreint et discrètement stratégique — imbriqué dans la politique du haut débit, la défense, la surveillance des catastrophes et le prestige national. Ce guide cartographie l'agence, la loi, les satellites et les ambitions qui composent l'économie spatiale de la Malaisie.

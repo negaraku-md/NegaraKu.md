@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["employment-act-1955"]
 keywords: ["agensi pekerjaan swasta", "Akta 246", "lesen headhunting", "carian eksekutif", "JTKSM", "yuran penempatan"]
+framework: rules
 ---
 
 Ouvrez un cabinet de chasse de têtes en Malaisie et commencez à mettre en relation des candidats avec des employeurs sans licence, et vous ne violez pas simplement une procédure : vous commettez une infraction qui peut conduire à une amende à six chiffres. Toute entreprise qui place des demandeurs d'emploi auprès d'employeurs est soumise à la **Private Employment Agencies Act 1981 (Act 246)**, appliquée par le Département du travail.

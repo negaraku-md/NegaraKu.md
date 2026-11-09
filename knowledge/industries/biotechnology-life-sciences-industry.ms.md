@@ -96,6 +96,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Malaysia tidak mempunyai universiti penyelidikan mendalam atau kedalaman modal teroka seperti Boston atau Shanghai, tetapi ia mempunyai tiga perkara yang menjadikan bioteknologi pertaruhan jangka panjang yang logik: salah satu khazanah biodiversiti tropika terkaya dunia, aliran biojisim minyak sawit dan pertanian yang amat besar, serta kuasa yang diiktiraf global dalam pensijilan halal. Selama lebih dua dekad kerajaan telah cuba menukar kurniaan itu menjadi industri sains hayat moden. Panduan ini menerangkan bagaimana usaha itu disusun, apa yang telah dibinanya, dan ke mana ia menuju.

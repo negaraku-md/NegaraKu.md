@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "industries-tourism" }
 related: []
 keywords: ["Malaysia industries", "Malaysia economy sectors", "Malaysia GDP by sector", "Malaysia exports", "electrical and electronics Malaysia", "palm oil", "Malaysia manufacturing", "services sector Malaysia"]
+framework: explainer
 ---
 
 世界のあらゆるガジェットの中のほとんどどの部品をたどっても——スマートフォンの中のチップ、データセンターのサーバー上のはんだ付け部分——その一部がペナン、クリムまたはクランの工場の床を経由した可能性は十分にある。しかし工場は物語のごく一部に過ぎない。今日のマレーシアは、その生計の大部分を、何を作るかからではなく、何を販売し、サービスし、動かすかから得ている。これがその経済の地図である——重要な分野、それぞれの重み、そしてこのカテゴリー内のより深いガイドがどこから話を引き継ぐか。

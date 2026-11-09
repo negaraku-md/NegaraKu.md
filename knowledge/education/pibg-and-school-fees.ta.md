@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "national-schools-sk-sjkc-sjkt" }
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "persatuan ibu bapa-guru", "yuran sekolah", "yuran khas", "sumbangan PIBG", "sekolah kerajaan", "kos persekolahan"]
+framework: explainer
 ---
 
 உங்கள் குழந்தை “இலவச” அரசாங்கப் பள்ளியில் பதிவு செய்யப்பட்டுள்ளது — ஆனால் PIBG படிவங்களும் கட்டணப் பட்டியல்களும் வீட்டுக்கு வந்து சேர்கின்றன. அப்படியானால் உண்மையில் எது கட்டாயம் செலுத்த வேண்டியது, எது அல்ல?

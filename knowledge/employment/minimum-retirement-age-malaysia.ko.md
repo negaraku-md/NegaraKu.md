@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["termination-of-employment-malaysia"]
 keywords: ["umur persaraan minimum", "Akta 753", "persaraan 60 tahun", "persaraan pramatang", "kontrak tempoh tetap", "persaraan pilihan"]
+framework: rules
 ---
 
 58세 근로자가 편지를 받습니다. 회사는 그의 계약이 정년을 55세로 정하고 있으므로 그가 이미 "기간이 만료"되었다고 말합니다. 말레이시아에서 그 편지는 법적으로 아무런 가치가 없습니다. 2013년 7월 1일 이후로 민간 부문 고용주는 계약에 무엇이 쓰여 있든 누구에게도 60세 이전에 퇴직을 강요할 수 없습니다.

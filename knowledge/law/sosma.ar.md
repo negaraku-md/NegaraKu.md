@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "court-hierarchy" }
 related: ["penal-code", "federal-constitution", "fundamental-liberties", "court-hierarchy"]
 keywords: ["SOSMA", "الجرائم الأمنية", "قانون التدابير الخاصة 2012", "Act 747", "القانون 747", "جريمة أمنية ماليزيا", "security offence Malaysia", "الاحتجاز 28 يومًا", "28-day detention", "الجدول الأول قانون العقوبات", "First Schedule Penal Code Chapter VI VIA", "الشاهد المحمي", "protected witness"]
+framework: explainer
 ---
 
 لا ينشئ SOSMA أي جريمة. افتح القانون 747 باحثًا عن الجريمة التي يعاقب عليها فلن

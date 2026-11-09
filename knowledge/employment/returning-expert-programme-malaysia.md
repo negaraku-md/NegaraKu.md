@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "income-tax-rates-malaysia" }
 related: []
 keywords: ["Returning Expert Programme", "REP", "TalentCorp", "15% flat tax", "Malaysian diaspora", "returning talent", "MyHeart", "CKD vehicle exemption"]
+framework: explainer
 ---
 
 If you are a Malaysian who has been building a career abroad and is considering returning, the Returning Expert Programme (REP) offers an optional flat 15% income tax rate on employment income for five years instead of the usual progressive rates. To qualify, you must apply *before* you return to Malaysia.

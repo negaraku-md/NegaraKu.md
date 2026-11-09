@@ -97,6 +97,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Behind almost every building, bridge and highway in Malaysia is a quieter industry that makes the metal holding it all up. Iron and steel rarely make headlines the way semiconductors or palm oil do, yet they are foundational: the reinforcing bar inside a concrete column, the wire in a cable, the sheet in a car door. Malaysia makes a great deal of this itself — and, in a few metals, is genuinely world-class. But the steel half of the story is also one of the country's most troubled manufacturing sectors, defined by a stubborn mismatch between how much it can produce and how much the market actually needs.

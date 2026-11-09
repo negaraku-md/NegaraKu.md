@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "mm2h-long-stay-visa" }
 related: ["mm2h-long-stay-visa"]
 keywords: ["medical tourism Malaysia", "MHTC Malaysia Healthcare Travel Council", "Malaysia healthcare travellers", "healthcare travel Malaysia cost", "why patients come to Malaysia for treatment"]
+framework: explainer
 ---
 
 ครอบครัวจากจาการ์ตาบินมาเพื่อการผ่าตัดบายพาสหัวใจของพ่อ คู่สามีภรรยาชาวอังกฤษจอง IVF เพราะรายการรอที่บ้านยาวเกินกรอบเวลาภาวะเจริญพันธุ์ของพวกเขา ผู้ป่วยชาวบังกลาเทศมาเพื่อการตรวจสุขภาพตามปกติที่คลินิกในบ้านเกิดของเขาทำไม่ได้

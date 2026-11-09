@@ -69,6 +69,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["parliament", "majlis-raja-raja", "federal-state-division"]
 keywords: ["Perlembagaan Persekutuan", "Federal Constitution Malaysia", "undang-undang tertinggi", "Perkara 4 Perlembagaan", "Perkara 159 pindaan", "ketertinggian perlembagaan", "Bahagian Perlembagaan Persekutuan", "prosedur pindaan perlembagaan"]
+framework: explainer
 ---
 
 Mọi luật được thông qua ở Malaysia — dù bởi Nghị viện liên bang hay bởi một Hội đồng Lập pháp Bang — đều có thể được đo lường đối chiếu với một tài liệu duy nhất. Nếu luật đó trái với nó, luật đó có thể bị coi là vô hiệu trong phạm vi trái đó. Tài liệu đó là Hiến pháp Liên bang.

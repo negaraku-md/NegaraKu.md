@@ -82,6 +82,7 @@ relations:
   - { rel: "explained-in", to: "company-tax-calendar" }
 related: ["lhdn", "corporate-tax-rates", "personal-tax-rates", "which-tax-form", "form-c-and-cp204"]
 keywords: ["Akta Cukai Pendapatan 1967", "Akta 53", "Income Tax Act 1967", "statut cukai Malaysia", "perundangan LHDN"]
+framework: data-reference
 ---
 
 Halaman ini merupakan rekaman statuta bagi Act 53 — identitas, struktur, administrasi

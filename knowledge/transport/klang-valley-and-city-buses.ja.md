@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "klang-valley-integrated-transit-system" }
 related: []
 keywords: ["Rapid KL bus", "MRT feeder bus", "Klang Valley bus", "Rapid Bus", "Rapid KL On-Demand", "city bus Kuala Lumpur"]
+framework: explainer
 ---
 
 列車はあなたを駅まで運ぶ。だが、家まで運んでくれることはめったにない。MRTやLRTのホームから、あなたの家、あなたのオフィスパーク、あるいは二つ隣の地域にあるウェットマーケットまで——その隙間を埋めているのは、多くの乗客がほとんど意識することのない車両群である。Rapid KLバスだ。

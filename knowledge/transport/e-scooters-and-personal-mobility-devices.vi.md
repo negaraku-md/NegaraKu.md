@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "food-delivery-riders" }
 related: []
 keywords: ["e-skuter", "PMD", "mikromobiliti", "basikal elektik", "MS2514", "JPJ", "peranti mobiliti peribadi"]
+framework: rules
 ---
 
 Bạn mua một e-scooter để đi làm, nhưng khoảnh khắc bánh xe chạm đường công cộng, bạn đã vi phạm pháp luật. Đó là thực tế của vi di chuyển ở Malaysia kể từ cuối năm 2021.

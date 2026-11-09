@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-chairmanship-2025" }
 related: []
 keywords: ["pengerusian ASEAN", "Piagam ASEAN", "Perkara 31", "giliran abjad", "Malaysia 2025", "Filipina 2026", "Sidang Kemuncak ASEAN"]
+framework: explainer
 ---
 
 每年1月1日，一个东南亚国家便继承这一地区最具影响力的主席之位——没有投票，没有竞选，仅仅依据字母顺序。

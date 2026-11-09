@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "prevention-of-terrorism-act-pota" }
 related: ["sosma"]
 keywords: ["POCA", "Akta Pencegahan Jenayah 1959", "Akta 297", "tahanan pencegahan", "Lembaga Pencegahan Jenayah", "jenayah terancang", "tahanan tanpa perbicaraan"]
+framework: explainer
 ---
 
 一个人可以被点名、被调查，最终在从未被带上法庭起诉的情况下被扣留两年——而这个决定是由一个委员会作出的，而非一名法官。这正是1959年防止罪案法令（POCA）核心的运作机制。

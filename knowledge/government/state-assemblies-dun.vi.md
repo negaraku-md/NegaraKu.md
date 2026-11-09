@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "majlis-raja-raja" }
 related: ["dewan-rakyat", "federal-state-division", "spr-election-commission", "majlis-raja-raja", "federal-constitution"]
 keywords: ["Dewan Undangan Negeri", "DUN", "badan perundangan negeri", "Jadual Kelapan", "Perkara 71", "peruntukan penting", "Yang di-Pertua Negeri", "Menteri Besar", "enakmen negeri", "State Legislative Assembly Malaysia"]
+framework: explainer
 ---
 
 Đất đai là việc của bang. Luật gia đình Hồi giáo là việc của bang. Chính quyền địa phương là việc của bang. Nhưng ai thực sự thông qua luật cho những vấn đề này ở một bang, và theo quy tắc nào? Câu trả lời không phải là chuyện lời nói hay thông lệ đơn thuần — nó được viết ra, mục này qua mục khác, trong một phụ lục ở cuối Hiến pháp Liên bang.

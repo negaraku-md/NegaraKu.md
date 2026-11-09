@@ -69,6 +69,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-belia-dan-sukan" }
 related: []
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
+framework: explainer
 ---
 
 Mỗi thứ Bảy của tuần thứ hai tháng 10, các sân bãi, công viên và nhà thi đấu thể thao khắp Malaysia lẽ ra phải chật kín người — đó chính là thiết kế của Ngày Thể thao Quốc gia.

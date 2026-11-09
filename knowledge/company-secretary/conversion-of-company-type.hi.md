@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "special-resolution" }
 related: ["companies-act-2016"]
 keywords: ["कंपनी स्थिति रूपांतरण", "penukaran status syarikat", "sdn bhd kepada berhad", "Sdn Bhd से Berhad", "सार्वजनिक कंपनी", "निजी कंपनी", "seksyen 41 akta syarikat 2016", "विशेष प्रस्ताव", "SSM"]
+framework: how-to
 ---
 
 एक कंपनी जो *Sendirian Berhad* (निजी सीमित कंपनी) के रूप में शुरू होती है वह सदा के लिए उस स्थिति में बंद नहीं रहती। जब कोई व्यवसाय जनता से धन जुटाने या अपने शेयर सूचीबद्ध कराने की आकांक्षा रखता है, तो वह एक सार्वजनिक कंपनी (*Berhad*) में बदल सकता है — और विपरीत मार्ग भी खुला है। कुंजी एक अकेला विशेष प्रस्ताव और SSM के पास एक अकेला दाखिल है।

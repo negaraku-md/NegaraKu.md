@@ -97,6 +97,7 @@ revisions:
     change: Initial draft (AI-assisted), pending review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Almost everyone in Malaysia carries a mobile connection, and most homes have some form of broadband. That makes telecommunications one of the country's most important and most mature industries — the invisible plumbing beneath the digital economy, online banking, e-government and everyday life. Yet behind the familiar brand names sits a market that has changed dramatically in recent years: fewer operators, bigger mergers and a national experiment in how to build 5G.

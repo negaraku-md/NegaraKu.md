@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "mida" }
 related: []
 keywords: ["Malaysia manufacturing", "machinery and equipment", "plastics", "rubber gloves", "medical devices", "chemicals", "food processing", "NIMP 2030", "MIDA", "DOSM"]
+framework: profile
 ---
 
 Di «fábrica malasia» y la mayoría de la gente imagina una sala limpia de semiconductores en Penang o una línea de Proton en Shah Alam. Son reales y son grandes, pero se asientan sobre una base industrial mucho más amplia. En 2024 el conjunto del sector movió RM1.9 billones en ventas y mantuvo empleadas a unos 2.4 millones de personas, y una buena porción de ello provino de la maquinaria, los plásticos, el caucho, los dispositivos médicos, los productos químicos y los alimentos en los estantes de los supermercados.

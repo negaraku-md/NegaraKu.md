@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["bahasa-melayu", "mak-yong"]
 keywords: ["industri filem Malaysia", "sinema Malaysia", "P. Ramlee", "FINAS", "Malay Film Productions", "Jalan Ampas", "Mat Kilau", "Tiger Stripes", "Da Huang Pictures", "Malaysian New Wave"]
+framework: profile
 ---
 
 En 1955, un antiguo asistente de claqueta y ayudante de cámara de un estudio en el n.º 8 de Jalan Ampas, Singapur, se sentó por primera vez en la silla del director a los 26 años. La película era *Penarek Becha*. Su nombre era P. Ramlee. La historia de la industria cinematográfica de Malasia no comienza en Kuala Lumpur, sino en un estudio de Singapur propiedad de dos hermanos de Shanghái, y no ha dejado de moverse desde entonces.

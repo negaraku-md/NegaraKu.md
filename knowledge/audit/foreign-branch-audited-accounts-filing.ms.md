@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "approved-company-auditor-malaysia" }
 related: ["foreign-company-registration-malaysia"]
 keywords: ["foreign company", "branch", "audited accounts", "SSM", "Companies Act 2016", "section 575", "financial statements", "Malaysia"]
+framework: rules
 ---
 
 Membuka cawangan di Malaysia tidak meletakkan sebuah syarikat asing di luar jaring audit — sebaliknya ia menarik syarikat itu masuk dua kali. Setiap tahun ia mesti memfailkan akaun beraudit dengan Suruhanjaya Syarikat Malaysia (SSM): sekali bagi keseluruhan syarikat, dan sekali lagi, secara berasingan, bagi apa yang sebenarnya dilakukan oleh cawangan itu di dalam Malaysia.

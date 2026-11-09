@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "constitutional-amendment", "jpn", "dewan-rakyat", "how-a-bill-becomes-law"]
 keywords: ["Undi18", "Akta A1603", "pindaan perlembagaan umur mengundi 18 tahun", "Pendaftaran Pemilih Secara Automatik", "PPSA", "Perkara 119 Perlembagaan Persekutuan", "SPR daftar pemilih automatik", "umur mengundi Malaysia", "Constitution Amendment Act 2019"]
+framework: explainer
 ---
 
 การแก้ไขที่เปลี่ยนภูมิทัศน์ผู้มีสิทธิเลือกตั้งของมาเลเซียมีเพียงสามหน้า พระราชบัญญัติรัฐธรรมนูญ (แก้ไข) 2019 — Act A1603 — ไม่ได้เขียนกระบวนการใหม่ที่ยืดยาว มันเปลี่ยนเพียงบางถ้อยคำในสามแห่ง และสองในการเปลี่ยนแปลงนั้นย้ายพลเมืองหลายล้านคนเข้าสู่ทะเบียนผู้มีสิทธิเลือกตั้ง

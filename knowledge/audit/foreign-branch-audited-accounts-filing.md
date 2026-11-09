@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "approved-company-auditor-malaysia" }
 related: ["foreign-company-registration-malaysia"]
 keywords: ["foreign company", "branch", "audited accounts", "SSM", "Companies Act 2016", "section 575", "financial statements", "Malaysia"]
+framework: rules
 ---
 
 Opening a branch in Malaysia does not put a foreign company outside the audit net — it pulls the company in twice. Every year it must lodge audited accounts with the Companies Commission of Malaysia (SSM): once for the whole company, and again, separately, for what the branch actually does inside Malaysia.

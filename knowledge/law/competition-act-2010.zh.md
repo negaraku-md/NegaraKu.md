@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "how-a-bill-becomes-law" }
 related: ["consumer-protection-act", "companies-act-2016", "how-a-bill-becomes-law"]
 keywords: ["Competition Act 2010", "MyCC", "Malaysia Competition Commission", "anti-competitive agreements", "abuse of dominance", "cartel", "price fixing", "bid rigging", "Section 4", "Section 10"]
+framework: rules
 ---
 
 当五家家禽饲料厂商悄悄达成一致、步调统一地抬高价格时，这最终反映在了巴刹里一只鸡的价格上。2023年12月，马来西亚的竞争监管机构对它们合计罚款4.155亿令吉——这是该国历史上最大的一笔竞争罚款——原因是它们触犯了一部许多企业至今几乎不知道其存在的法律。

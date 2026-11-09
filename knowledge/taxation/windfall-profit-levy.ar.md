@@ -85,6 +85,7 @@ relations:
   - { rel: "affects", to: "oil-palm-plantations" }
 related: []
 keywords: ["رسم الأرباح غير المتوقعة", "windfall profit levy", "cukai durian runtuh", "ضريبة زيت النخيل ماليزيا", "palm oil tax Malaysia", "رسم CPO", "CPO levy", "Windfall Profit Levy Act 1998", "oil palm fruit order"]
+framework: rules
 ---
 
 عندما ترتفع أسعار زيت النخيل الخام ارتفاعًا حادًا، تحصّل الحكومة الماليزية حصةً من المكسب — لكن فقط بعد أن يتجاوز السعر خطًا محددًا. ذلك الخط هو رسم الأرباح غير المتوقعة، ضريبة تُفعَّل في أشهر الأسعار المرتفعة وتبقى متوقفة في الأشهر العادية.

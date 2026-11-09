@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-in-malaysia" }
 related: ["halal-certification-in-malaysia"]
 keywords: ["halal food Malaysia", "JAKIM halal logo", "vegetarian Malaysia", "vegan dining Malaysia", "dietary restrictions Malaysia", "Buddhist vegetarian", "beef-free"]
+framework: explainer
 ---
 
 在马来西亚坐下来吃饭，意味着同时与四种饮食文化共桌——马来、华人、印度，以及在它们之间生长出来的传统。如果你有饮食需求，这份多样性是一份礼物；如果你不懂得其中的信号，它又是个小小的雷区。以下是如何读懂这些信号。

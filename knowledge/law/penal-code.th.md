@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "macc-sprm" }
 related: ["federal-constitution", "court-hierarchy", "macc-sprm"]
 keywords: ["Penal Code", "Act 574", "Malaysia criminal law", "Indian Penal Code", "Criminal Procedure Code Act 593", "Act 846"]
+framework: data-reference
 ---
 
 บทความเกือบทุกบทความที่คุณจะอ่านเกี่ยวกับ Act 574 เปิดด้วยประโยคเดียวกัน: ประมวลกฎหมายอาญามี 511 มาตราใน 23 บท ทั้งสองส่วนของประโยคนั้นผิด

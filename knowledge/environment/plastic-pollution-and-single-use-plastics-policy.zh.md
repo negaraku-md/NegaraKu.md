@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "solid-waste-management-in-malaysia" }
 related: []
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030"]
+framework: explainer
 ---
 
 结账柜台的薄塑料袋通常只用一小会儿，但却可能在环境中残留很长时间。为了应对这个问题，马来西亚没有选择立即全面禁止——而是采取一条分阶段的路线图，从小额收费逐步过渡到更广泛的禁止。

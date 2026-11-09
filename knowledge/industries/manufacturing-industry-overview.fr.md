@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "mida" }
 related: []
 keywords: ["Malaysia manufacturing", "machinery and equipment", "plastics", "rubber gloves", "medical devices", "chemicals", "food processing", "NIMP 2030", "MIDA", "DOSM"]
+framework: profile
 ---
 
 Dites « usine malaisienne » et la plupart des gens imaginent une salle blanche de semi-conducteurs à Penang ou une ligne Proton à Shah Alam. Elles sont réelles, et elles sont grandes — mais elles reposent sur une base industrielle bien plus large. En 2024, l'ensemble du secteur a réalisé RM1.9 billion de ventes et a maintenu environ 2.4 millions de personnes au travail, et une bonne part de cela provenait des machines, des plastiques, du caoutchouc, des dispositifs médicaux, des produits chimiques et des aliments sur les rayons des supermarchés.

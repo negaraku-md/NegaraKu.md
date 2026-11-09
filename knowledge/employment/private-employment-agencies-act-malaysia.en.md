@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["employment-act-1955"]
 keywords: ["agensi pekerjaan swasta", "Akta 246", "lesen headhunting", "carian eksekutif", "JTKSM", "yuran penempatan"]
+framework: rules
 ---
 
 Open a headhunting firm in Malaysia and start matching candidates with employers without a licence, and you are not merely breaching procedure — you are committing an offence that can lead to a six-figure fine. Every business that places job seekers with employers is subject to the **Private Employment Agencies Act 1981 (Act 246)**, enforced by the Labour Department.

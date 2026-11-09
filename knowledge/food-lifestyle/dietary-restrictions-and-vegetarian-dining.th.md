@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-in-malaysia" }
 related: ["halal-certification-in-malaysia"]
 keywords: ["halal food Malaysia", "JAKIM halal logo", "vegetarian Malaysia", "vegan dining Malaysia", "dietary restrictions Malaysia", "Buddhist vegetarian", "beef-free"]
+framework: explainer
 ---
 
 การนั่งลงรับประทานอาหารในมาเลเซียหมายถึงการนั่งร่วมโต๊ะกับวัฒนธรรมอาหารสี่แบบพร้อมกัน คือ มลายู จีน อินเดีย และธรรมเนียมที่เติบโตขึ้นระหว่างกัน ความหลากหลายนั้นเป็นของขวัญหากคุณมีความต้องการด้านอาหาร และเป็นกับดักเล็ก ๆ หากคุณไม่รู้จักสัญญาณ นี่คือวิธีอ่านสัญญาณเหล่านั้น

@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "expatriate-services-division" }
 related: ["employment-pass-malaysia"]
 keywords: ["Immigration Act 1959/63", "Act 155", "Malaysia visa", "employment pass", "overstay penalty Malaysia", "Section 15(4)", "Section 6(3)", "deportation", "dependant pass", "work permit Malaysia"]
+framework: rules
 ---
 
 护照里有一张有效签证，本身并不能让你踏足马来西亚——而它也不是你居留过久时会惹上麻烦的那份文件。这两项职责都属于同一部法律：**《1959/63年移民法令》（Act 155）**，这部法规决定谁可以越过边境、他们入境后可做什么，以及当他们违反居留条件时会发生什么。

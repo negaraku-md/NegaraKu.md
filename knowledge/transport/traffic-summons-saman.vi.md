@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "pdrm" }
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
+framework: how-to
 ---
 
 Một người lái xe có thể nhận bốn loại giấy phạt trông giống nhau trên giấy — nhưng đến từ bốn cơ quan khác nhau, và phải được kiểm tra ở bốn nơi khác nhau. Nhiều người chỉ biết một cổng, rồi tưởng giấy phạt của họ "biến mất" trong khi nó thực ra nằm ở một hệ thống khác.

@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "e-commerce-malaysia" }
 related: ["mydigital-blueprint"]
 keywords: ["digital economy", "MyDIGITAL", "Malaysia Digital", "MD Status", "MDEC", "e-commerce", "ICT GDP", "DE Rantau"]
+framework: explainer
 ---
 
 Gần một ringgit trong mỗi bốn ringgit mà nền kinh tế Malaysia tạo ra nay chạy qua màn hình, máy chủ và giỏ hàng mua sắm. Vào năm 2024 ngành ICT và thương mại điện tử cùng nhau chiếm 23.4% GDP của đất nước — trị giá RM451.3 tỷ — theo Cục Thống kê Malaysia (Department of Statistics Malaysia, DOSM). Con số duy nhất đó là thứ gần nhất mà Malaysia có với một bảng điểm quốc gia cho kinh tế số, và hiểu cách nó được xây dựng, điều gì dẫn dắt nó, và cách chính phủ đang cố phát triển nó là cách nhanh nhất để đọc được đất nước đang hướng về đâu.

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "striking-off-a-company" }
 related: ["companies-act-2016"]
 keywords: ["pemulihan syarikat", "syarikat dipotong", "seksyen 555", "reinstate company", "struck off", "Akta Syarikat 2016", "SSM"]
+framework: how-to
 ---
 
 Nama syarikat anda hilang daripada daftar SSM — tetapi pemotongan itu tidak semestinya muktamad. Undang-undang memperuntukkan tempoh tujuh tahun untuk memohon pemulihannya, melalui mahkamah.

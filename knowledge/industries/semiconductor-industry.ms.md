@@ -95,6 +95,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Jika anda sedang membaca ini pada telefon atau komputer riba, ada kemungkinan sebenar bahawa salah satu cipnya pernah menghabiskan sebahagian hayatnya di Malaysia — bukan dicipta atau dicetak, tetapi diubah daripada kepingan silikon kosong menjadi komponen siap yang telah dibungkus dan sedia untuk dipateri pada papan litar. Langkah yang senyap dan tidak menyerlah itulah tempat Malaysia membina salah satu kedudukan paling berpengaruh dalam seluruh dunia elektronik.

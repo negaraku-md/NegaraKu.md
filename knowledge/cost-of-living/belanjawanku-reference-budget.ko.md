@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "epf-retirement-savings" }
 related: []
 keywords: ["belanjawanku", "kos sara hidup", "KWSP", "EPF", "belanjawan rujukan", "taraf hidup munasabah", "Lembah Klang", "SWRC"]
+framework: explainer
 ---
 
 「독신자가 클랑밸리(Klang Valley)에서 살기에 월 RM2,800이면 충분한가?」 바로 이런 질문에 Belanjawanku가 답하고자 합니다. 추측이 아니라, 도시 가구의 실제 지출 패턴에서 산출한 참고 수치로 말입니다.

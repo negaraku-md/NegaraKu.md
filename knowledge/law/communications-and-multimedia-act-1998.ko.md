@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "sedition-act-1948" }
 related: ["federal-constitution"]
 keywords: ["akta komunikasi dan multimedia 1998", "seksyen 233", "SKMM", "MCMC", "penyalahgunaan kemudahan rangkaian", "pertuturan dalam talian", "kebebasan bersuara", "akta 588"]
+framework: explainer
 ---
 
 페이스북의 댓글 하나, 트윗 하나, 또는 다시 공유된 왓츠앱 메시지 하나가 말레이시아에서 형사 소추의 근거가 될 수 있습니다. 이러한 상황에서 가장 자주 인용되는 법 규정은 선동법(Sedition Act)도 명예훼손법도 아니라, 통신멀티미디어법 1998(Communications and Multimedia Act 1998)의 제233조입니다.

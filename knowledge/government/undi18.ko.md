@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "constitutional-amendment", "jpn", "dewan-rakyat", "how-a-bill-becomes-law"]
 keywords: ["Undi18", "Akta A1603", "pindaan perlembagaan umur mengundi 18 tahun", "Pendaftaran Pemilih Secara Automatik", "PPSA", "Perkara 119 Perlembagaan Persekutuan", "SPR daftar pemilih automatik", "umur mengundi Malaysia", "Constitution Amendment Act 2019"]
+framework: explainer
 ---
 
 말레이시아 유권자 지형을 바꾼 개정은 겨우 세 페이지를 채웁니다. 헌법(개정)법 2019 — Act A1603 — 은 장황한 새 절차를 쓰지 않았습니다. 세 곳에서 몇 개의 단어만 바꾸었고, 그 변경 가운데 둘이 수백만 명의 시민을 선거인명부 안으로 옮겼습니다.

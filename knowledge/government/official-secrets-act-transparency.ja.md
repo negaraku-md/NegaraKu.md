@@ -88,6 +88,7 @@ relations:
   - { rel: "administered-by", to: "attorney-general" }
 related: ["attorney-general"]
 keywords: ["akta rahsia rasmi", "OSA 1972", "kebebasan maklumat", "ketelusan kerajaan", "dokumen terperingkat", "seksyen 16A", "rahsia rasmi"]
+framework: explainer
 ---
 
 一通の会議メモ、一件の監査報告書、一枚の内閣文書——マレーシアでは、これらのいずれであっても、公務上の秘密として指定されていれば、それを共有することは犯罪となり得る。その境界線を定める法律が[1972年公務秘密法](/law/official-secrets-act-1972)であり、連邦情報公開法が存在しないことも相まって、これはマレーシアの統治において最も議論の多い論題の一つとなっている。

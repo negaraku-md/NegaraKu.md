@@ -81,6 +81,7 @@ relations:
   - { rel: "supersedes", to: "factories-and-machinery-act-1967" }
 related: ["labour-law-map-malaysia", ]
 keywords: ["OSHA 1994", "Akta 514", "tanggungjawab majikan", "DOSH", "penilaian risiko", "JKKP 6", "keselamatan pekerjaan"]
+framework: rules
 ---
 
 一名工人从脚手架上坠落，调查人员的第一个问题并非"谁疏忽了"——而是"雇主是否已采取一切切实可行的措施来防止这起事故？"这正是1994年职业安全与卫生法令（第514号法令），即OSHA 1994的核心所在。

@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "road-transport-act-1987" }
 related: []
 keywords: ["lorong motosikal", "Lebuhraya Persekutuan", "topi keledar", "Seksyen 79(2)", "motosikal lebuh raya", "MS 1", "kapasiti enjin"]
+framework: rules
 ---
 
 Anda masuk ke Lebuhraya Persekutuan menaiki sepeda motor, melihat papan tanda "Lorong Motosikal" bercabang ke kiri — dan bertanya-tanya apakah Anda wajib mengikutinya atau boleh terus di jalur utama. Jawabannya bergantung pada satu kata: *diwartakan*.

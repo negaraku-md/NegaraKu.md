@@ -101,6 +101,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Most of the fish on a Malaysian dinner plate still comes from the sea — but a fast-growing share now comes from a pond, a cage or a long-line raft. That is aquaculture: the deliberate farming of aquatic life, as opposed to catching what swims in the wild. As Malaysia's wild catch plateaus and demand for protein climbs, aquaculture has become the country's main lever for keeping fish on the table. This article goes deep on the farmed side of the business; for the wider picture, including the fishing fleet, fishermen's welfare and enforcement, see the [fisheries industry overview](/en/agriculture/malaysian-fisheries-industry/).

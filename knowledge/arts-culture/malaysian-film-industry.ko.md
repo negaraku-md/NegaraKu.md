@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["bahasa-melayu", "mak-yong"]
 keywords: ["industri filem Malaysia", "sinema Malaysia", "P. Ramlee", "FINAS", "Malay Film Productions", "Jalan Ampas", "Mat Kilau", "Tiger Stripes", "Da Huang Pictures", "Malaysian New Wave"]
+framework: profile
 ---
 
 1955년, 싱가포르 잘란 암파스 8번지의 한 스튜디오에서 클래퍼(clapper) 조수이자 보조 카메라맨이던 한 사람이 스물여섯 나이에 처음으로 감독 의자에 앉았습니다. 그 영화가 『프나렉 베차(Penarek Becha)』입니다. 그의 이름은 P. 람리입니다. 말레이시아 영화 산업의 이야기는 쿠알라룸푸르가 아니라 상하이 출신 두 형제가 소유한 싱가포르의 한 스튜디오에서 시작되었고 — 그 이후로 아직 멈춘 적이 없습니다.

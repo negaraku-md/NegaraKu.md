@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "solvency-statement" }
 related: []
 keywords: ["pembelian balik saham", "share buy-back", "saham perbendaharaan", "treasury shares", "Seksyen 127", "Akta Syarikat 2016", "Bursa Malaysia", "Bab 12"]
+framework: rules
 ---
 
 Một công ty có thể mua lại cổ phần của chính mình và giữ chúng «trong quỹ» — nhưng chỉ khi nó niêm yết, có khả

@@ -103,6 +103,7 @@ entity: "Stamp Act 1949 (Act 378, Malaysia)"
 relations: []
 related: []
 keywords: ["stamp act 1949", "stamp duty malaysia", "LHDN stamp duty", "ad valorem duty", "fixed duty", "memorandum of transfer stamp duty", "MOT stamp duty", "loan agreement stamp duty", "tenancy agreement stamp duty", "e-stamping malaysia", "stamp duty self assessment", "stamp duty calculator malaysia", "stamp duty penalty", "stamp duty exemption", "Act 378"]
+framework: rules
 ---
 
 Firme un arrendamiento, saque un préstamo hipotecario, transfiera un título, compre acciones a través de un corredor — y en algún lugar del papeleo se esconde un impuesto que quizá nunca haya notado. Ese impuesto es el **impuesto del timbre**, y la ley que lo respalda es la **Ley del Timbre de 1949 (Stamp Act 1949, Act 378)**. Lo que lo hace inusual es su objeto: el impuesto del timbre se cobra sobre el **instrumento** — el documento escrito en sí — y no sobre la transacción que registra. Timbre el documento y se sostiene ante un tribunal; déjelo sin timbrar y puede valer poco más que el papel en el que está impreso.

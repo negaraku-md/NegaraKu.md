@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "trademark-registration-malaysia" }
 related: ["trademark-registration-malaysia"]
 keywords: ["geographical indication", "GI Act 2022", "Act 836", "MyIPO", "Sarawak pepper", "Musang King", "intellectual property Malaysia", "place of origin"]
+framework: explainer
 ---
 
 เอ่ยคำว่า "พริกไทยซาราวัก (Sarawak Pepper)" หรือ "มูซังคิง (Musang King)" ผู้ซื้อก็นึกภาพสถานที่ ดิน และรสชาติที่เฉพาะเจาะจงขึ้นมาทันที สิ่งบ่งชี้ทางภูมิศาสตร์คือสิทธิทางกฎหมายที่หยุดยั้งไม่ให้ผู้อื่นนำผลผลิตธรรมดามาขายภายใต้ชื่อนั้น และในมาเลเซียมันคือสิทธิในทรัพย์สินทางปัญญาหนึ่งเดียวที่ตั้งอยู่อย่างเงียบ ๆ เคียงข้างสิทธิบัตร เครื่องหมายการค้า การออกแบบผลิตภัณฑ์ทางอุตสาหกรรม และลิขสิทธิ์

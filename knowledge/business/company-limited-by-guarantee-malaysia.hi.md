@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["business-structures-malaysia", "sdn-bhd-vs-berhad", "register-sdn-bhd", "what-is-sdn-bhd", "company-secretary-malaysia"]
 keywords: ["प्रत्याभूति द्वारा सीमित कंपनी", "company limited by guarantee", "CLBG", "berhad menurut jaminan", "section 45 Companies Act 2016", "मलेशिया में गैर-लाभकारी कंपनी", "SSM CLBG", "Berhad हटाने का लाइसेंस"]
+framework: explainer
 ---
 
 एक प्रतिष्ठान, एक पेशेवर संस्थान, एक वाणिज्य मंडल और एक सामाजिक उद्यम — ये सभी मलेशिया में एक ही विधिक आवरण पहन सकते हैं — प्रत्याभूति द्वारा सीमित कंपनी। यह वह वाहन है जिसे क़ानून उन संगठनों के लिए आरक्षित रखता है जो लाभ बाँटने के बजाय कुछ उपयोगी करने के लिए मौजूद हैं, और यह ऐसे नियमों के साथ आती है जिन्हें एक सामान्य Sdn Bhd कभी नहीं देखती।

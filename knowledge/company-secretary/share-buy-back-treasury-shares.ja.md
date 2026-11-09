@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "solvency-statement" }
 related: []
 keywords: ["pembelian balik saham", "share buy-back", "saham perbendaharaan", "treasury shares", "Seksyen 127", "Akta Syarikat 2016", "Bursa Malaysia", "Bab 12"]
+framework: rules
 ---
 
 会社は自己株式を取得し、これを「金庫」に保有することができる――ただし、それが上場会社であり、債務を支払う能力を有し、厳格な10%の上限を守っている場合に限られる。

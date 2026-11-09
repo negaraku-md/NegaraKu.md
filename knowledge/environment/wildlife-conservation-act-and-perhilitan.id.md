@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "taman-negara" }
 related: []
 keywords: ["Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "totally protected wildlife", "protected wildlife", "wildlife licence Malaysia", "special permit", "wildlife trafficking Malaysia", "Department of Wildlife and National Parks"]
+framework: rules
 ---
 
 Simpan kulit harimau Malaya di dalam bagasi mobil Anda dan Anda bukan sekadar berhadapan dengan denda dan surat peringatan yang tegas — Anda berhadapan dengan penjara bertahun-tahun dan denda yang diukur dalam ratusan ribu ringgit. Itulah ujung tajam Wildlife Conservation Act 2010, undang-undang yang menentukan hewan mana di Semenanjung Malaysia yang boleh Anda sentuh, simpan, jual, atau kaji, dan yang mana tidak boleh Anda dekati tanpa izin tertulis dari negara bagian.

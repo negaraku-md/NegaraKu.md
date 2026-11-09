@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["termination-of-employment-malaysia"]
 keywords: ["âge minimum de départ à la retraite Malaisie", "Act 753", "retraite à 60 ans", "retraite prématurée", "contrat à durée déterminée", "retraite facultative"]
+framework: rules
 ---
 
 Un salarié de 58 ans reçoit une lettre : l'entreprise affirme que son contrat fixe le départ à la retraite à 55 ans, et que son temps est donc « écoulé ». En Malaisie, cette lettre n'a aucune valeur juridique. Depuis le 1er juillet 2013, un employeur du secteur privé ne peut contraindre personne à partir à la retraite avant l'âge de 60 ans, quoi que dise le contrat.

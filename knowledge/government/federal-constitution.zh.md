@@ -69,6 +69,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["parliament", "majlis-raja-raja", "federal-state-division"]
 keywords: ["Perlembagaan Persekutuan", "Federal Constitution Malaysia", "undang-undang tertinggi", "Perkara 4 Perlembagaan", "Perkara 159 pindaan", "ketertinggian perlembagaan", "Bahagian Perlembagaan Persekutuan", "prosedur pindaan perlembagaan"]
+framework: explainer
 ---
 
 马来西亚通过的每一项法律——无论是由联邦国会还是由某个州立法议会通过——都可以以一份单一的文件为标准来衡量。如果该法律与之抵触，则在抵触的范围内可视为无效。这份文件就是联邦宪法。

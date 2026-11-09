@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "getting-around-malaysia" }
 related: ["getting-around-malaysia"]
 keywords: ["Malaysia travel tips", "999 emergency Malaysia", "Malaysia SIM card tourist", "Malaysia monsoon season", "Malaysia travel vaccinations", "tipping in Malaysia"]
+framework: explainer
 ---
 
 你刚落地，还在倒时差，手机却毫无信号。在你操心那份完美的椰浆饭之前，先把无聊却重要的事情办妥——一张能用的SIM卡、正确的紧急号码，以及知道天空是否即将下起大雨。以下是这份经核实的精简清单。

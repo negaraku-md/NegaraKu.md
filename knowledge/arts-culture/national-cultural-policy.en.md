@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "national-cultural-policy-daken-2021" }
 related: ["rukun-negara", "new-economic-policy"]
 keywords: ["dasar kebudayaan kebangsaan", "kongres kebudayaan kebangsaan 1971", "tiga prinsip", "DAKEN 2021", "kebudayaan Malaysia", "perpaduan"]
+framework: explainer
 ---
 
 In 1971, about two years after the [13 May 1969 incident](/malaysia/13-may-1969), a group of scholars, arts practitioners and leaders gathered at the University of Malaya to answer a difficult question for a multiracial nation: what is meant by "national culture"? The answer that emerged — the National Cultural Policy (DKK) — remains a policy reference to this day, and remains, in equal measure, a subject of debate.

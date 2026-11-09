@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "cp204b-change-of-accounting-period" }
 related: ["financial-statements-lodgement", "companies-act-2016"]
 keywords: ["वित्तीय वर्ष", "tahun kewangan", "FYE", "financial year end", "SSM", "Companies Act 2016", "Akta Syarikat 2016", "CP204B", "वित्तीय विवरण", "penyata kewangan"]
+framework: how-to
 ---
 
 कई निदेशक मानते हैं कि किसी कंपनी के वित्तीय वर्ष को बदलने के लिए SSM को एक विशेष फॉर्म जमा करना आवश्यक है — पर Companies Act 2016 में वास्तव में ऐसे किसी फॉर्म का कोई उल्लेख ही नहीं है।

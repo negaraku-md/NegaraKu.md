@@ -75,6 +75,7 @@ relations:
   - { rel: "located-in", to: "melaka" }
 related: ["peranakan", "tamil-in-malaysia", "deepavali"]
 keywords: ["تشيتي ملقا", "Chetti Melaka", "Chitty Melaka", "البيراناكان الهندية", "Peranakan India", "Kampung Chetti", "Gajah Berang", "الهندوسية الشيفية", "تراث ملقا"]
+framework: history-culture
 ---
 
 في قرية قديمة على Jalan Gajah Berang بملقا، ثمة عنقود من الأسر تصلّي للإله شيفا، وتلبس كالملايويين، وتطبخ أطباق كاري عبقة بحليب جوز الهند، وتتحدّث ملايوية مشرَّبة بكلمات تاميلية. ليسوا هنوداً ولا ملايويين ولا صينيين — إنهم تشيتي ملقا، وأعدادهم تتضاءل أكثر فأكثر.

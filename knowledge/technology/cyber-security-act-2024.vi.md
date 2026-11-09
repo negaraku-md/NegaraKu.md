@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "pdpa-malaysia" }
 related: []
 keywords: ["Cyber Security Act 2024", "Act 854", "NCII", "NACSA", "cybersecurity licensing Malaysia", "incident reporting Malaysia", "national critical information infrastructure"]
+framework: rules
 ---
 
 Trong nhiều năm, Malaysia kiểm soát các cuộc tấn công mạng bằng các công cụ vay mượn — Computer Crimes Act, Communications and Multimedia Act, các thông tư ngành từ Bank Negara và các cơ quan tương tự của ngân hàng trung ương. Không công cụ nào trong số đó nói, ở một nơi duy nhất, ai phải bảo vệ các hệ thống trọng yếu của đất nước, một vụ vi phạm phải được báo cáo nhanh đến mức nào, hay ai thậm chí được phép bán một cuộc kiểm thử xâm nhập. Cyber Security Act 2024 thì có. Nó là luật an ninh mạng độc lập đầu tiên của Malaysia, và nó đối xử với một số mạng lưới nhất định theo cách mà các luật trước đó đối xử với đập nước và nhà máy điện: như hạ tầng quốc gia mà nhà nước có quyền quản lý.

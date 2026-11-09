@@ -67,6 +67,7 @@ relations:
   - { rel: "governs", to: "unclaimed-moneys-act-1965" }
 related: []
 keywords: ["wang tak dituntut", "eGUMIS", "unclaimed moneys", "Akta Wang Tak Dituntut 1965", "Jabatan Akauntan Negara", "JANM", "wang dorman", "bayaran balik"]
+framework: how-to
 ---
 
 당신의 돈이 당신도 모르는 사이 어느 정부 데이터베이스에서 기다리고 있을 수 있습니다 — 미처 청구하지 못한 배당금, 오래된 은행 계좌 잔액, 또는 당신에게 전달되지 못한 보험 보상금입니다. 이 모두가 하나의 공식 이름 아래 모입니다. 즉 미청구 자금(WTD)입니다.

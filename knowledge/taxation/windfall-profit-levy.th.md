@@ -85,6 +85,7 @@ relations:
   - { rel: "affects", to: "oil-palm-plantations" }
 related: []
 keywords: ["windfall profit levy", "cukai durian runtuh", "palm oil tax Malaysia", "CPO levy", "Windfall Profit Levy Act 1998", "oil palm fruit order"]
+framework: rules
 ---
 
 เมื่อราคาน้ำมันปาล์มดิบพุ่งขึ้น รัฐบาลมาเลเซียเก็บส่วนแบ่งของกำไร — แต่เฉพาะหลังจากราคาผ่านเส้นที่กำหนด เส้นนั้นคือภาษีเงินเก็บกำไรลาภลอย ภาษีที่เปิดในเดือนที่ราคาสูงและปิดในเดือนปกติ

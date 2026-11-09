@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "striking-off-a-company" }
 related: ["companies-act-2016"]
 keywords: ["pemulihan syarikat", "syarikat dipotong", "seksyen 555", "reinstate company", "struck off", "Akta Syarikat 2016", "SSM"]
+framework: how-to
 ---
 
 Your company name has vanished from the SSM register — but the striking off is not necessarily final. The law provides a seven-year window to apply to restore it, through the courts.

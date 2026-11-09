@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "article-153-special-position" }
 related: ["federal-constitution", "ma63", "sabah", "sarawak", "federal-state-division", "article-153-special-position"]
 keywords: ["salvaguardias de Sabah Sarawak", "Sabah Sarawak safeguards", "autonomía de inmigración de Sabah Sarawak", "immigration autonomy Sabah Sarawak", "Article 161B", "Article 161E", "Article 95B List IIA", "tribunales nativos", "native courts Sabah Sarawak", "Article 112C special grants", "Immigration Act 1959/63 Part VII", "posición especial de los nativos", "Federal Constitution Part XIIA"]
+framework: explainer
 ---
 
 Vuele de Kuala Lumpur a Kota Kinabalu o Kuching y aterrizará en Malasia — mismo país, mismo pasaporte, misma moneda — y luego hará cola en un mostrador de inmigración. A un malasio peninsular que no pueda dar una buena razón para estar allí pueden darle un pase limitado a unas pocas semanas, o rechazarlo. Ese puesto de control no es una rareza burocrática. Es una de un conjunto de salvaguardias escritas en la Constitución Federal cuando Sabah y Sarawak se unieron a la Federación en 1963.

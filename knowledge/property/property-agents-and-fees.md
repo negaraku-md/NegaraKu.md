@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "tenancy-agreement-malaysia" }
 related: []
 keywords: ["ejen hartanah", "REN", "LPEPH", "BOVAEP", "komisen ejen", "fi sewaan", "perunding hartanah"]
+framework: explainer
 ---
 
 Nombor pada tag dada ejen itu bukan hiasan — ia satu-satunya cara pantas membezakan seorang perunding yang sah daripada seseorang yang hanya mendakwa dirinya ejen. Di Malaysia, siapa yang boleh menjual, menyewakan atau merunding hartanah bagi pihak anda dikawal ketat oleh undang-undang.

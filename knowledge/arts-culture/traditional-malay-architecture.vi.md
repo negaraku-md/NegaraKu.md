@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "malay-woodcarving" }
 related: []
 keywords: ["rumah Melayu", "rumah panggung", "senibina vernakular", "bumbung panjang", "tebar layar", "rumah panjang", "kampung", "warisan"]
+framework: history-culture
 ---
 
 Nhấc một ngôi nhà làng cũ lên, tháo rời các mối ghép của nó, và lắp lại ở một địa điểm mới — phần lớn không cần nền bê tông cố định. Đó là sự khôn ngoan của kiến trúc Mã Lai truyền thống: một ngôi nhà «đọc» khí hậu nhiệt đới trước khi có điều hòa không khí.

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "house-buyers-act" }
 related: ["national-land-code"]
 keywords: ["ley de títulos estratificados", "ley de gestión de estratos 2013", "Strata Titles Act", "Strata Management Act 2013", "JMB", "órgano de gestión conjunta", "corporación de gestión", "cargos de mantenimiento", "sinking fund", "tribunal de gestión de estratos", "COB"]
+framework: explainer
 ---
 
 Comprar un condominio significa que usted es dueño de su propia «unidad» (parcel) — pero comparte los ascensores, la piscina, los pasillos y el techo con cientos de vecinos. Dos leyes determinan quién es dueño de qué, y quién paga por mantener ese espacio compartido.

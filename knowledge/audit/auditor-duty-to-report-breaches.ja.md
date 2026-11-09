@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "auditor-independence" }
 related: ["companies-act-2016"]
 keywords: ["seksyen 266", "juruaudit", "SSM", "Akta Syarikat 2016", "pelaporan pelanggaran", "penipuan", "Pendaftar"]
+framework: rules
 ---
 
 監査中に不正を発見した監査人は、ただ沈黙して報告書に署名するだけで済ませることはできない——法律は、登記官への書面による報告を義務づけている。この義務は任意ではなく、これを無視すること自体が犯罪である。

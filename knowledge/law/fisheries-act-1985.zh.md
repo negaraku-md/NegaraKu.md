@@ -83,6 +83,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: explainer
 ---
 
 在刁曼岛或热浪岛外的珊瑚礁上浮潜，那清澈的海水、受保护的鱼群，以及行前被叮嘱的「禁止捕鱼、禁止抛锚」规则，不只是礼貌——它们就是法律。它们背后的法规是 **Fisheries Act 1985（1985 年渔业法令）**，即马来西亚法典中的 Act 317，它所规管的远不止旅游：它是马来西亚在全境水域管理捕鱼、保护海洋生物的骨干。

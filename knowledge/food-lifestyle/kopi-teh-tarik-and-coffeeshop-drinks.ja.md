@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "cultural-heritage-tourism-malaysia" }
 related: ["cultural-heritage-tourism-malaysia"]
 keywords: ["kopitiam", "kopi", "teh tarik", "kopi-O", "kopi-C", "mamak", "minuman Malaysia"]
+framework: explainer
 ---
 
 カウンターを指さして「kopi-O peng、一杯！」と言う――すると、その古いエスプレッソマシンの向こうにいるおじさんは、なぜかあなたの欲しいものを正確に理解している。コピティアムの注文用語は暗号のように見えるが、実際は整然として論理的なひとつの体系である。

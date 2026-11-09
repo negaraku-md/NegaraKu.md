@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "mahkamah-perusahaan-malaysia" }
 related: ["employment-act-1955"]
 keywords: ["akta perhubungan perusahaan 1967", "pembuangan kerja tidak adil", "seksyen 20", "mahkamah perusahaan", "kesatuan sekerja", "rundingan kolektif", "reinstatement", "unfair dismissal malaysia"]
+framework: rules
 ---
 
 今早你被解雇，理由是「表现不佳」——但没有警告信、没有内部调查，也没有为自己辩解的机会。在马来西亚，这种情况有一个法律名称和一个专属论坛：依据1967年劳资关系法令第20条提出陈情，在劳资法庭审理。这正是1955年雇佣法令所不处理的劳资关系层面。

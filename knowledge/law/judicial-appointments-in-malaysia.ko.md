@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "constitutional-amendment" }
 related: ["court-hierarchy", "constitutional-amendment"]
 keywords: ["pelantikan hakim", "Suruhanjaya Pelantikan Kehakiman", "Perkara 122B", "Perkara 125", "kebebasan kehakiman", "tribunal hakim", "Ketua Hakim Negara"]
+framework: explainer
 ---
 
 새로운 대법원장이 취임 선서를 할 때마다, 오래된 물음 하나가 다시 떠오릅니다. 즉 실제로 누가 그 사람을 선택하며, 누가 그를 물러나게 할 수 있는가? 말레이시아에서 그 답은 두 개의 별개 단계, 두 개의 서로 다른 법령 문서, 그리고 그 권한이 어디에 있어야 하는지에 관한 아직 해소되지 아니한 논쟁을 포함합니다.

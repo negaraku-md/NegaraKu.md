@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "minimum-wage-malaysia" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["potongan gaji", "Seksyen 24", "Akta Kerja 1955", "salary deduction", "Ketua Pengarah Tenaga Kerja", "lebihan gaji"]
+framework: rules
 ---
 
 你的工资单少于预期的金额，理由写着是"公司政策"。但雇主并不能随心所欲地扣工资：1955年《就业法令》规定了一份封闭式的合法扣除清单——凡是清单之外的，一律不予允许。

@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "mahkamah-perusahaan-malaysia" }
 related: ["employment-act-1955"]
 keywords: ["akta perhubungan perusahaan 1967", "pembuangan kerja tidak adil", "seksyen 20", "mahkamah perusahaan", "kesatuan sekerja", "rundingan kolektif", "reinstatement", "unfair dismissal malaysia"]
+framework: rules
 ---
 
 คุณถูกเลิกจ้างเมื่อเช้านี้และได้รับแจ้งว่า "ผลงานไม่น่าพอใจ" — แต่ไม่มีหนังสือเตือน ไม่มีการสอบสวนภายใน และไม่มีโอกาสแก้ต่าง ในมาเลเซีย สถานการณ์นี้มีชื่อทางกฎหมายและเวทีเฉพาะหนึ่ง: คำร้องภายใต้มาตรา 20 ของพระราชบัญญัติแรงงานสัมพันธ์ 1967 พิจารณาที่ศาลแรงงาน (Mahkamah Perusahaan) นี่คือชั้นของแรงงานสัมพันธ์ที่พระราชบัญญัติการจ้างงาน 1955 ไม่ได้จัดการ

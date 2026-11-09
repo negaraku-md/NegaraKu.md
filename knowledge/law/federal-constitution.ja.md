@@ -47,6 +47,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["three-tiers-of-government", "parliament"]
 keywords: ["Federal Constitution Malaysia", "Perlembagaan Persekutuan", "constitutional law Malaysia", "supreme law Malaysia"]
+framework: explainer
 ---
 
 ## 概要

@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
 related: ["companies-act-2016"]
 keywords: ["liabiliti setiausaha syarikat", "kesalahan setiausaha syarikat", "penyata palsu", "seksyen 591", "Akta Syarikat 2016", "pegawai syarikat", "Borang 49"]
+framework: rules
 ---
 
 在一份SSM表格上的一个签名，就足以把公司秘书送上被告席——而不仅仅是公司或其董事。即便是依董事指示而签署的错误文件，提交者仍须为此承担个人责任。

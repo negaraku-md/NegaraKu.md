@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "macc-anti-corruption-malaysia" }
 related: []
 keywords: ["pengaturan perlawanan", "match-fixing", "pertaruhan sukan", "Akta Rumah Judi Terbuka 1953", "Akta Pertaruhan 1953", "SPRM", "integriti sukan", "bola sepak Malaysia"]
+framework: explainer
 ---
 
 Ketika lebih dari 100 pemain sepak bola diambil oleh polisi pada musim 1993–1994, itu bukan sekadar krisis olahraga — ia membuka satu persoalan hukum yang masih belum sepenuhnya selesai hingga hari ini: bagaimana sebuah negara yang melarang hampir semua pertaruhan olahraga menangani kejahatan yang lahir dari pertaruhan itu sendiri.

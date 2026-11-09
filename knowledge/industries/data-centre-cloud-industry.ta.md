@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "johor-singapore-special-economic-zone" }
 related: ["johor-singapore-special-economic-zone"]
 keywords: ["Malaysia data centre", "cloud infrastructure", "Johor data centre", "DESAC incentive", "data centre power water", "hyperscale Malaysia"]
+framework: profile
 ---
 
 2019-ல், சிங்கப்பூர் புதிய பெரிய தரவு மையங்களுக்கு அனுமதி வழங்குவதை நிறுத்தியது. நான்கு ஆண்டுகளுக்குள், அது திருப்பியனுப்பிய சேவையகங்கள் காஸ்வேக்கு அப்பால் இருபது நிமிட தூரத்தில் ஒரு புதிய தொழிலைக் கட்டியெழுப்பின — மேலும் ஜோகூர் ஒரு அமைதியான மலேசிய மாநிலத்திலிருந்து தென்கிழக்கு ஆசியாவின் மிகப் பரபரப்பான தரவு மையச் சந்தையாக மாறியது.

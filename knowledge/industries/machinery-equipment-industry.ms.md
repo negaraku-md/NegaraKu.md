@@ -92,6 +92,7 @@ keywords:
   - peralatan semikonduktor
   - Industry4WRD
   - MIDA
+framework: profile
 ---
 
 Setiap kilang berjalan atas mesin — dan mesin itu perlu dibina oleh seseorang. Industri jentera & peralatan (M&E) ialah bahagian pembuatan yang membuat barisan pengeluaran, jentera proses, alat pengerjaan logam, sistem kuasa dan automasi yang menjadi sandaran setiap industri *lain*. Ia industri besar yang paling tidak kelihatan dalam ekonomi dan, atas sebab itulah, salah satu yang paling penting dari segi strategik.

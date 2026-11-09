@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["employment-act-1955"]
 keywords: ["وكالات التوظيف الخاصة", "agensi pekerjaan swasta", "Akta 246", "ترخيص اصطياد الكفاءات", "lesen headhunting", "البحث التنفيذي", "JTKSM", "رسوم التنسيب"]
+framework: rules
 ---
 
 افتح شركة لاصطياد الكفاءات في ماليزيا وابدأ بمطابقة المرشحين مع أصحاب العمل دون

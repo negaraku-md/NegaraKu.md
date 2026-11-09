@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "expatriate-services-division" }
 related: ["employment-pass-malaysia"]
 keywords: ["Immigration Act 1959/63", "Act 155", "Malaysia visa", "employment pass", "overstay penalty Malaysia", "Section 15(4)", "Section 6(3)", "deportation", "dependant pass", "work permit Malaysia"]
+framework: rules
 ---
 
 Một thị thực hợp lệ trong hộ chiếu của bạn, tự nó, không cho phép bạn đặt chân vào Malaysia — và nó cũng không phải là tài liệu khiến bạn gặp rắc rối nếu ở lại quá lâu. Cả hai công việc này thuộc về một đạo luật duy nhất: **Luật Nhập cư 1959/63 (Immigration Act 1959/63, Act 155)**, đạo luật quyết định ai được vượt biên giới, họ được làm gì khi vào bên trong, và điều gì xảy ra khi họ vi phạm các điều khoản lưu trú của mình.

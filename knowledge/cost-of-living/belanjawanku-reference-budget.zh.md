@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "epf-retirement-savings" }
 related: []
 keywords: ["belanjawanku", "kos sara hidup", "KWSP", "EPF", "belanjawan rujukan", "taraf hidup munasabah", "Lembah Klang", "SWRC"]
+framework: explainer
 ---
 
 “每月 RM2,800 足够一名单身人士在巴生谷生活吗？”正是这类问题，Belanjawanku 试图给出答案——不是靠猜测，而是靠从城市家庭真实开支模式中构建出来的参考数字。

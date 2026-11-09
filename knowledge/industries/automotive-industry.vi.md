@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "national-automotive-policy" }
 related: []
 keywords: ["Proton", "Perodua", "national car", "Geely", "DRB-HICOM", "UMW", "Sime Darby", "National Automotive Policy", "NAP 2020", "electric vehicles Malaysia", "e.MAS 7", "QV-E"]
+framework: profile
 ---
 
 Ít quốc gia có quy mô như Malaysia từng thử chế tạo một chiếc xe từ con số không. Còn ít hơn nữa có hai thương hiệu nội địa đậu trong hầu hết các lối lái xe của cả nước. Lái qua bất kỳ thị trấn Malaysia nào và dòng xe cộ kể một câu chuyện về chính sách công nghiệp có chủ ý: một chiếc Perodua Myvi ở đèn giao thông, một chiếc Proton Saga phía sau nó, cả hai đều bắt nguồn từ một canh bạc thập niên 1980 rằng một nền kinh tế đang phát triển có thể chế tạo ô tô của riêng mình.

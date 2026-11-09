@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["macc-sprm", "employment-act-1955"]
 keywords: ["whistleblower protection act 2010", "act 711", "improper conduct", "whistleblower malaysia", "detrimental action", "section 11 revocation", "macc disclosure"]
+framework: explainer
 ---
 
 Tố giác một vụ hối lộ tại nơi làm việc và pháp luật Malaysia có thể giữ kín tên bạn, che chắn bạn khỏi bị kiện, và khiến việc sếp sa thải bạn vì điều đó trở thành trái pháp luật. Nhưng đi sai một bước — công khai với báo chí trước, hoặc hóa ra chính bạn đã nhúng tay vào âm mưu đó — và mọi sự bảo vệ ấy đều có thể bị tước đi. Đó là thiết kế có chủ đích của Luật Bảo vệ Người tố giác 2010.

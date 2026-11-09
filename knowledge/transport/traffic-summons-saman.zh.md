@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "pdrm" }
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
+framework: how-to
 ---
 
 驾车人士可能会收到四种表面上看起来相似的罚单——但它们其实来自四个不同的单位，也必须在四个不同的地方查询。许多人只知道其中一个门户网站，于是误以为自己的罚单「消失」了，实际上它正静静躺在另一个系统里。

@@ -105,6 +105,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Les' Copaque의 _Upin & Ipin Universe_가 **2025년 7월 17일** 전 세계 콘솔에 도달했을 때, 그것은 장난꾸러기 쌍둥이에 관한 짧은 애니메이션 시리즈로 시작된 고리를 닫았다. 말레이시아 만화가 세계적으로 출시된 비디오 게임이 된 것이다 - 그리고 이 나라의 디지털 크리에이티브 콘텐츠 산업이 20년에 걸쳐 조용히 쌓아 올린 것의 깔끔한 예시다.

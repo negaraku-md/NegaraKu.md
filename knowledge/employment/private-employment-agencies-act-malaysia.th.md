@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["employment-act-1955"]
 keywords: ["agensi pekerjaan swasta", "Akta 246", "lesen headhunting", "carian eksekutif", "JTKSM", "yuran penempatan"]
+framework: rules
 ---
 
 เปิดบริษัท headhunting ในมาเลเซียและเริ่มจับคู่ผู้สมัครกับนายจ้างโดยไม่มีใบอนุญาต แล้วคุณไม่ได้เพียงฝ่าฝืนขั้นตอน — แต่กระทำความผิดที่อาจนำมาซึ่งค่าปรับหกหลัก ทุกธุรกิจที่จัดหาผู้หางานให้กับนายจ้างอยู่ภายใต้ **พระราชบัญญัติบริษัทจัดหางานเอกชน 1981 (Private Employment Agencies Act 1981, Akta 246)** ซึ่งบังคับใช้โดยกรมแรงงาน

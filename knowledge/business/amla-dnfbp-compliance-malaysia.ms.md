@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["company-secretary-malaysia"]
 keywords: ["AMLA", "DNFBP", "reporting institution", "suspicious transaction report", "customer due diligence", "FIED", "Bank Negara Malaysia", "money laundering"]
+framework: rules
 ---
 
 Undang-undang pencegahan pengubahan wang haram bukanlah kebimbangan bank semata-mata. Di bawah AMLA Malaysia, pelbagai perniagaan dan profesion bukan kewangan turut menjadi institusi pelapor. Seorang setiausaha syarikat yang memperbadankan syarikat, ejen hartanah yang memuktamadkan jualan hartanah, atau peniaga yang menerima bayaran tunai yang besar boleh masing-masing termasuk dalam rejim ini — dengan kewajipan usaha wajar pelanggan, penyimpanan rekod dan pelaporan yang perlu ditunaikan secara langsung kepada Bank Negara Malaysia.

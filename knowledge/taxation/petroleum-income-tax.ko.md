@@ -72,6 +72,7 @@ relations:
   - { rel: "administered-by", to: "lhdn" }
 related: ["petronas"]
 keywords: ["petroleum income tax", "PITA", "Petroleum Income Tax Act 1967", "petroleum operations", "marginal field tax", "late-life asset PSC", "upstream oil gas tax Malaysia"]
+framework: rules
 ---
 
 트렝가누(Terengganu) 앞바다에서 시추하는 석유회사와 샤알람(Shah Alam)의 공장은 모두 말레이시아에 세금을 납부하지만, 같은 법에 따라 납부하지는 않습니다. 상류부문(upstream) 석유 소득은 자체 세율, 자체 신고서, 자체 규정집을 갖춘, 벽으로 분리된 고유의 제도 안에 존재합니다.

@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "harta-sepencarian-malaysia" }
 related: []
 keywords: ["undang-undang keluarga islam", "akta 303", "mahkamah syariah", "talaq", "fasakh", "khuluk", "hadhanah", "nafkah", "poligami", "islamic family law malaysia"]
+framework: rules
 ---
 
 Một người vợ muốn xin ly hôn vì chồng không cấp dưỡng, một người cha muốn tiếp tục nuôi đứa con trai vừa tròn bảy tuổi, một người đàn ông xin cưới thêm vợ — cả ba tình huống này không bắt đầu tại văn phòng luật sư thông thường, mà tại Tòa án Syariah, theo luật gia đình Hồi giáo của từng bang. Tài liệu này trình bày khung pháp lý đó một cách mô tả, không thiên vị.

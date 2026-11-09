@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "medical-act-1971" }
 related: []
 keywords: ["pengguguran", "undang-undang pengguguran Malaysia", "Seksyen 312 Kanun Keseksaan", "penamatan kehamilan", "Akta Perubatan 1971", "garis panduan KKM"]
+framework: explainer
 ---
 
 Nhiều người cho rằng phá thai bị cấm hoàn toàn ở Malaysia — thực tế, luật đặt nó vào một không gian phức tạp hơn: một tội hình sự với một ngoại lệ y tế quan trọng. Hiểu đường ranh đó được vạch ra ở đâu đòi hỏi chúng ta đọc văn bản thực tế của Bộ luật Hình sự, chứ không phải các quan niệm chung.

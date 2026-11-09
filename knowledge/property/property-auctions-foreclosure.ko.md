@@ -76,6 +76,7 @@ relations:
   - { rel: "governs", to: "national-land-code-1965" }
 related: []
 keywords: ["bank lelong", "property auction Malaysia", "foreclosure", "proclamation of sale", "LACA auction", "order for sale", "reserve price", "reserve price deposit"]
+framework: explainer
 ---
 
 부동산은 시장 가치의 일부 가격에 낙찰될 수 있습니다 — 그러나 그 할인은 잘못될 수 있는 모든 것을 시장이 가격에 반영한 것입니다. 은행 lelong은 저렴한 물건 사냥이 아니라, 가격과 위험을 맞바꾸는 계산된 거래입니다.

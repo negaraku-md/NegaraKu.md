@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "epf-akaun-persaraan" }
 related: []
 keywords: ["EPF i-Invest", "Members Investment Scheme", "KWSP MIS", "invest EPF savings", "Akaun Persaraan", "Basic Savings", "unit trust EPF"]
+framework: explainer
 ---
 
 你的公积金储蓄不必只放在一处，仅赚取每年的股息。如果你已累积超过公积金所要求的退休底线，你就可以将其中一部分按比例投入单位信托基金——而且自 2019 年起，你可以自己在线完成，无需通过代理。

@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "trademark-registration-malaysia" }
 related: ["trademark-registration-malaysia"]
 keywords: ["geographical indication", "GI Act 2022", "Act 836", "MyIPO", "Sarawak pepper", "Musang King", "intellectual property Malaysia", "place of origin"]
+framework: explainer
 ---
 
 "Sarawak Pepper" அல்லது "Musang King" என்று சொன்னால், ஒரு வாங்குபவர் ஒரு குறிப்பிட்ட இடம், மண் மற்றும் சுவையை உடனடியாக மனதில் காட்சிப்படுத்துகிறார். புவிசார் குறியீடு என்பது, அந்தப் பெயரில் சாதாரண விளைபொருளை வேறு எவரும் விற்பதைத் தடுக்கும் சட்ட உரிமையாகும் — மலேசியாவில், காப்புரிமை (patents), வர்த்தக முத்திரைகள், தொழில்துறை வடிவமைப்புகள் மற்றும் பதிப்புரிமைக்கு (copyright) அருகில் அமைதியாக அமர்ந்திருக்கும் ஒரே அறிவுசார் சொத்து உரிமை இதுவே.

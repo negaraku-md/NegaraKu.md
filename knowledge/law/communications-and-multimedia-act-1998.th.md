@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "sedition-act-1948" }
 related: ["federal-constitution"]
 keywords: ["akta komunikasi dan multimedia 1998", "seksyen 233", "SKMM", "MCMC", "penyalahgunaan kemudahan rangkaian", "pertuturan dalam talian", "kebebasan bersuara", "akta 588"]
+framework: explainer
 ---
 
 ความเห็นหนึ่งในเฟซบุ๊ก ทวีตหนึ่ง หรือข้อความวอตส์แอปที่แชร์ต่อหนึ่ง สามารถเป็นพื้นฐานของการดำเนินคดีอาญาในมาเลเซียได้ บทบัญญัติทางกฎหมายที่ถูกอ้างบ่อยที่สุดในสถานการณ์เช่นนี้ไม่ใช่พระราชบัญญัติการปลุกปั่นให้ขัดขืน (Akta Hasutan) หรือกฎหมายหมิ่นประมาท แต่เป็นมาตรา 233 ของพระราชบัญญัติการสื่อสารและมัลติมีเดีย 1998

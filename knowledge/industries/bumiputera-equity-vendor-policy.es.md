@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "petronas" }
 related: ["new-economic-policy", "petronas"]
 keywords: ["ekuiti bumiputera", "dasar ekonomi baru", "pembangunan vendor", "PuTERA35", "PETRONAS VDP", "industri strategik", "SWEC"]
+framework: explainer
 ---
 
 Un emprendedor que quiera suministrar servicios a una planta de petróleo y gas en Malasia descubrirá rápidamente que la tecnología y el precio no son lo único que se examina — también se evalúa la estructura de propiedad de la empresa. En varios de los sectores estratégicos del país, quién posee una empresa puede determinar si es elegible para solicitar una licencia o un contrato. Este fenómeno surge de dos instrumentos de política interrelacionados: los requisitos de equidad bumiputera y los programas de desarrollo de proveedores.

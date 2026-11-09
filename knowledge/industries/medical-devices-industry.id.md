@@ -100,6 +100,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review (export, ranking and market-size figures flagged for verification).
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Jika Anda pernah mengenakan sarung tangan bedah, diambil darahnya melalui kateter, atau pulih dengan bantuan implan ortopedi, ada kemungkinan yang masuk akal bahwa peranti itu dibuat di Malaysia. Di luar sarung tangan karetnya yang terkenal, negara ini diam-diam telah menjadi tempat terpenting di Asia Tenggara untuk memproduksi peranti medis — dan salah satu basis manufaktur medtech yang lebih signifikan di mana pun di dunia.

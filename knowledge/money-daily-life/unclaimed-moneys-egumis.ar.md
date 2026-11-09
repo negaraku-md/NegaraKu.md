@@ -67,6 +67,7 @@ relations:
   - { rel: "governs", to: "unclaimed-moneys-act-1965" }
 related: []
 keywords: ["الأموال غير المطالَب بها", "eGUMIS", "الأموال الخاملة", "دائرة المحاسب العام", "wang tak dituntut", "unclaimed moneys", "Akta Wang Tak Dituntut 1965", "Jabatan Akauntan Negara", "JANM", "wang dorman", "bayaran balik"]
+framework: how-to
 ---
 
 قد تكون أموالك في انتظارك في قاعدة بيانات حكومية من دون أن تدري — أرباح لم تجد وقتاً للمطالبة بها، أو رصيد حساب مصرفي قديم، أو مدفوعات تأمين لم تصلك قط. وكلها تتراكم تحت اسم رسمي واحد: الأموال غير المطالَب بها (UM).

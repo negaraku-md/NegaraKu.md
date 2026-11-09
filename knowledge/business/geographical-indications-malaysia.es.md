@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "trademark-registration-malaysia" }
 related: ["trademark-registration-malaysia"]
 keywords: ["indicación geográfica", "GI Act 2022", "Act 836", "MyIPO", "pimienta de Sarawak", "Musang King", "propiedad intelectual Malasia", "lugar de origen"]
+framework: explainer
 ---
 
 Diga «pimienta de Sarawak» o «Musang King» y un comprador ya imagina un lugar, un suelo y un

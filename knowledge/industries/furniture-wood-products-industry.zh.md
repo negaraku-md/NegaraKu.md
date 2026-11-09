@@ -101,6 +101,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 在得克萨斯或加利福尼亚某个家庭里，那张餐椅、床架或书架很有可能产自马来西亚——很可能就出自一个小镇及其周边，用的是一棵曾为手套和轮胎产胶的橡胶树的木材。马来西亚的家具与木制品产业是其制造经济中安静的重量级选手之一：并不光鲜，却是稳定的全球前十出口国，把种植业的一种副产品变成了行销世界的成品。

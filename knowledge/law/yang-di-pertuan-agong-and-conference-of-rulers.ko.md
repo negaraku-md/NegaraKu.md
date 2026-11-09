@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malay-rulers-and-state-monarchies" }
 related: ["federal-constitution"]
 keywords: ["Yang di-Pertuan Agong", "Majlis Raja-Raja", "Conference of Rulers", "Perkara 32", "Perkara 38", "raja berperlembagaan", "Ketua Negara"]
+framework: explainer
 ---
 
 말레이시아는 세계에서 국왕이 한 혈통으로부터 한 사람씩 세습되는 것이 아니라 윤번하여 선출되는 소수의 나라 가운데 하나입니다. 5년마다, 아홉 명의 말레이 통치자가 모여 그들 가운데 누가 양 디페르투안 아공(Yang di-Pertuan Agong)으로서 연방의 왕위에 오를지를 정합니다. 이 제도는, 그것을 운영하는 기관인 통치자 회의(Majlis Raja-Raja)와 함께, 나라의 입헌군주제의 핵심을 이룹니다.

@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "expatriate-services-division" }
 related: ["employment-pass-malaysia"]
 keywords: ["Immigration Act 1959/63", "Act 155", "Malaysia visa", "employment pass", "overstay penalty Malaysia", "Section 15(4)", "Section 6(3)", "deportation", "dependant pass", "work permit Malaysia"]
+framework: rules
 ---
 
 Un visado válido en su pasaporte no le permite, por sí solo, poner un pie en Malasia; y no es el documento que le acarrea problemas si se queda demasiado tiempo. Ambas funciones corresponden a una única ley: la **Immigration Act 1959/63 (Act 155)**, la norma que decide quién puede cruzar la frontera, qué puede hacer una vez dentro y qué ocurre cuando se incumplen las condiciones de la estancia.

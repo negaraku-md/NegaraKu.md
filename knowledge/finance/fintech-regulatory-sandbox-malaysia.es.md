@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "securities-commission-malaysia" }
 related: ["bank-negara-malaysia", "securities-commission-malaysia"]
 keywords: ["sandbox regulatorio", "regulatory sandbox", "fintech Malasia", "fintech Malaysia", "BNM sandbox", "Innovation Green Lane", "SC sandbox", "FTEG", "fintech mercado de capitales"]
+framework: explainer
 ---
 
 Construya una nueva app de pagos o una plataforma de valores tokenizados en Malasia y se topará con el mismo muro: las reglas se escribieron antes de que su idea existiera. El sandbox regulatorio es la puerta a través de ese muro — un espacio supervisado para probar un producto en vivo antes de tener una licencia plena. Malasia tiene dos, y a cuál llame a la puerta depende de qué esté construyendo.

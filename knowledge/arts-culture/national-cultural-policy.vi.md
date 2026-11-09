@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "national-cultural-policy-daken-2021" }
 related: ["rukun-negara", "new-economic-policy"]
 keywords: ["dasar kebudayaan kebangsaan", "kongres kebudayaan kebangsaan 1971", "tiga prinsip", "DAKEN 2021", "kebudayaan Malaysia", "perpaduan"]
+framework: explainer
 ---
 
 Năm 1971, khoảng hai năm sau [sự kiện 13 tháng 5 năm 1969](/vi/malaysia/13-may-1969), một nhóm học giả, người hoạt động nghệ thuật và các nhà lãnh đạo tụ họp tại Đại học Malaya để trả lời một câu hỏi khó đối với một đất nước đa sắc tộc: «văn hóa quốc gia» nghĩa là gì? Câu trả lời hình thành từ đó — Chính sách Văn hóa Quốc gia (DKK) — đến nay vẫn là một điểm quy chiếu chính sách, đồng thời cũng vẫn là một đề tài tranh luận.

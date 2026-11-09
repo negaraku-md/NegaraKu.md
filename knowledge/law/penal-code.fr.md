@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "macc-sprm" }
 related: ["federal-constitution", "court-hierarchy", "macc-sprm"]
 keywords: ["Penal Code", "Act 574", "Malaysia criminal law", "Indian Penal Code", "Criminal Procedure Code Act 593", "Act 846"]
+framework: data-reference
 ---
 
 Presque tous les articles que vous lirez sur l'Act 574 commencent par la même phrase : le Code pénal compte 511 sections réparties en 23 chapitres. Les deux moitiés de cette phrase sont fausses.

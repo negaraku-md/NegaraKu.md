@@ -67,6 +67,7 @@ wikidata: "Q25475395"
 relations: []
 related: []
 keywords: ["Local Government Act 1976", "Act 171", "Akta Kerajaan Tempatan 1976", "local authority Malaysia", "PBT", "Pihak Berkuasa Tempatan", "majlis perbandaran", "majlis daerah", "assessment tax", "cukai pintu", "local council elections Malaysia", "appointed councillors", "National Council for Local Government", "third vote Malaysia"]
+framework: explainer
 ---
 
 यदि आपने कभी सोचा हो कि किसी भी मलेशियाई मतपत्र पर महापौर पद के लिए कोई उम्मीदवार क्यों नहीं सूचीबद्ध रहा, तो इसका उत्तर एक अकेला क़ानून है। **Local Government Act 1976 (Act 171)** — जिसका दीर्घ शीर्षक है "स्थानीय शासन से संबंधित कानूनों को संशोधित और समेकित करने वाला एक अधिनियम" — वह कानून है जो प्रायद्वीपीय मलेशिया की हर नगर, नगरपालिका और ज़िला परिषद का गठन करता है, उन्हें चलाने वाले लोगों को नियुक्त करता है, और उन्हें आप पर कर लगाने तथा जुर्माना करने की शक्ति सौंपता है। इसे **18 मार्च 1976** को राजकीय स्वीकृति मिली और 25 मार्च 1976 को राजपत्र में प्रकाशित किया गया। अधिकांश वेब जो कहता है उसके विपरीत, **धारा 1(1) कहती है कि यह केवल प्रायद्वीपीय मलेशिया पर लागू होता है**; सबा और सारावाक अपने स्वयं के अध्यादेश बनाए रखते हैं।

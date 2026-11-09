@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "domestic-flights-and-regional-air-travel" }
 related: []
 keywords: ["Penang ferry", "Langkawi ferry", "Tioman ferry", "island transport Malaysia", "Kuala Kedah", "Kuala Perlis", "northeast monsoon", "Pangkor ferry", "Labuan ferry"]
+framework: explainer
 ---
 
 マレーシアには単一の全国的なフェリー路線は存在しない。ある島にたどり着くとは、どの短距離の渡しが、どのフェリーターミナルが、どの運航事業者がその島を担っているのかを知ること——そして東海岸では、その月に海が通航可能なのかどうかを知ること——を意味する。

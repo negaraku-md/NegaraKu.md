@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "epf-retirement-savings" }
 related: []
 keywords: ["belanjawanku", "kos sara hidup", "KWSP", "EPF", "belanjawan rujukan", "taraf hidup munasabah", "Lembah Klang", "SWRC"]
+framework: explainer
 ---
 
 "RM2,800 mỗi tháng có đủ cho một người độc thân sống ở Thung lũng Klang không?" Chính những câu hỏi như thế này là điều Belanjawanku cố gắng trả lời — không phải bằng phỏng đoán, mà bằng những con số tham chiếu được xây dựng từ các mô hình chi tiêu thực tế của hộ gia đình thành thị.

@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "register-business-sabah" }
 related: ["register-business-sarawak", "register-business-sabah"]
 keywords: ["akta kemajuan petroleum 1974", "petroleum development act 1974", "petronas", "royalti minyak", "MA63", "seksyen 2 pemilikan", "bayaran tunai petroleum", "sarawak sabah kelantan minyak"]
+framework: explainer
 ---
 
 몇 쪽 두께의 한 법이 말레이시아 전체 석유의 소유권 — 육상과 해저의 — 을 단일 회사에 이전했으며, 오늘날까지도 그것이 그은 분할선은 여전히 법정과 협상 테이블에서 다투어지고 있습니다.

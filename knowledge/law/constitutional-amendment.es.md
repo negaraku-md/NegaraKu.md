@@ -54,6 +54,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["federal-constitution", "majlis-raja-raja", "ma63", "article-152-language", "fundamental-liberties"]
 keywords: ["Article 159 Federal Constitution", "amending the Constitution Malaysia", "two-thirds majority Parliament", "Conference of Rulers consent", "Article 161E Sabah Sarawak", "Perkara 159", "constitutional amendment Malaysia"]
+framework: explainer
 ---
 
 El Artículo 159 comienza sometiéndose a sus propias reglas. La Cláusula (5) enumera las disposiciones que no pueden reformarse sin el consentimiento del Consejo de Gobernantes, y el último elemento de esa lista es «esta Cláusula» misma. El procedimiento de reforma protege su propio procedimiento de reforma. Ese solo detalle revela que la Constitución Federal nunca estuvo pensada para cambiarse mediante una única regla sencilla.

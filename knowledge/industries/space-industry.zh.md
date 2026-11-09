@@ -107,6 +107,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 马来西亚自己不发射火箭，却曾把一名宇航员送上太空、建造并运营过微型卫星，并在大多数邻国之前通过了一部为私营太空活动发放许可的法律。它的太空领域规模虽小，却悄然具有战略意义——贯穿于宽带政策、国防、灾害监测和国家声望之中。本指南梳理构成马来西亚太空经济的机构、法律、卫星和雄心。

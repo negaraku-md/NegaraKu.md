@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "epf-akaun-persaraan" }
 related: []
 keywords: ["EPF i-Invest", "Plan de Inversión de Afiliados", "Members Investment Scheme", "KWSP MIS", "invertir ahorros EPF", "Akaun Persaraan", "Basic Savings", "unit trust EPF"]
+framework: explainer
 ---
 
 Sus ahorros del EPF no tienen por qué quedarse en un solo lugar ganando únicamente el dividendo anual. Si ha acumulado más que el suelo de jubilación que el EPF exige, se le permite destinar una parte medida a fondos de inversión colectiva (unit trust) — y desde 2019 puede hacerlo usted mismo, en línea, sin un agente.

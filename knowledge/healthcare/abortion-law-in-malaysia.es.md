@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "medical-act-1971" }
 related: []
 keywords: ["pengguguran", "ley del aborto Malasia", "Seksyen 312 Kanun Keseksaan", "interrupción del embarazo", "Akta Perubatan 1971", "directrices KKM"]
+framework: explainer
 ---
 
 Muchos suponen que el aborto está totalmente prohibido en Malasia — en realidad, la ley lo sitúa en un espacio más complicado: un delito con una excepción médica importante. Comprender dónde se traza esa línea nos exige leer el texto real del Código Penal, no las impresiones generales.

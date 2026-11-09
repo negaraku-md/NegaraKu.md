@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "traffic-summons-saman" }
 related: ["pdrm", "traffic-summons-saman"]
 keywords: ["999 Malaysia", "MERS 999", "NG999", "ambulans kecemasan Malaysia", "Jabatan Kecemasan", "triage zon merah kuning hijau", "ambulans percuma", "caj kecemasan hospital kerajaan"]
+framework: explainer
 ---
 
 You dial 999. The voice on the other end asks your name, location, and what happened — and within the target response time, an ambulance crew should already be on the way. But many people don't know what actually happens behind that call: who really answers, whether it's free, and why another patient who arrived at the hospital later is sometimes treated before you.

@@ -74,6 +74,7 @@ relations:
   - { rel: "located-in", to: "melaka" }
 related: ["peranakan", "tamil-in-malaysia", "deepavali"]
 keywords: ["Chetti Melaka", "Chitty Melaka", "Peranakan India", "Kampung Chetti", "Gajah Berang", "Hindu Saivite", "warisan Melaka"]
+framework: history-culture
 ---
 
 マラッカのJalan Gajah Berangにある古い村に、シヴァ神に祈りを捧げ、マレー人のような服を着て、ココナッツミルクの香り立つカレーを作り、タミル語の単語が随所に混じるマレー語を話す家族たちが暮らしている。彼らはインド人でも、マレー人でも、華人でもない——彼らはChetti Melakaであり、その数は年々少なくなっている。

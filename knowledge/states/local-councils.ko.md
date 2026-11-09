@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "putrajaya" }
 related: ["federal-state-division", "federal-constitution", "kuala-lumpur", "putrajaya", "parliament"]
 keywords: ["local government Malaysia", "local council", "city council", "municipal council", "district council", "Local Government Act 1976", "Act 171", "councillors appointed", "local elections suspended 1965", "third vote", "National Council for Local Government"]
+framework: explainer
 ---
 
 여러분의 가로등을 고치고, 쓰레기통을 비우고, 이웃의 증축을 승인하고, 아래층 커피숍에 면허를 내주는 의회는 일상에 가장 가까운 정부 계층입니다. 또한 말레이시아의 어떤 유권자도 그 구성원을 선택하지 못하는 유일한 계층이기도 합니다.

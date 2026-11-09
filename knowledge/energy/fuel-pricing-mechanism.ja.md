@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "diesel-subsidy-rationalisation" }
 related: []
 keywords: ["APM", "harga minyak", "RON97", "RON95", "BUDI95", "subsidi bahan api", "harga pam mingguan"]
+framework: explainer
 ---
 
 毎週水曜日、マレーシアの給油所の価格は変動することがある——しかし、すべての燃料の種類が同じように動くわけではない。看板に表示された数字の裏には、自動価格決定メカニズム（APM）と呼ばれる公式が存在する。

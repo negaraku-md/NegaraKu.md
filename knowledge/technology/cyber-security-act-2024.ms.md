@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "pdpa-malaysia" }
 related: []
 keywords: ["Cyber Security Act 2024", "Act 854", "NCII", "NACSA", "cybersecurity licensing Malaysia", "incident reporting Malaysia", "national critical information infrastructure"]
+framework: rules
 ---
 
 Selama bertahun-tahun, Malaysia mengawal serangan siber dengan alat pinjaman — Akta Jenayah Komputer, Akta Komunikasi dan Multimedia, pekeliling sektor daripada Bank Negara dan rakan sejawat bank pusat. Tiada satu pun daripadanya menyatakan, dalam satu tempat, siapa yang mesti melindungi sistem kritikal negara, berapa pantas suatu pelanggaran mesti dilaporkan, atau siapa yang bahkan dibenarkan menjual ujian penembusan. Akta Keselamatan Siber 2024 melakukannya. Ia merupakan undang-undang keselamatan siber tersendiri yang pertama di Malaysia, dan ia memperlakukan rangkaian tertentu sebagaimana undang-undang terdahulu memperlakukan empangan dan stesen jana kuasa: sebagai infrastruktur negara yang berhak dikawal selia oleh negara.

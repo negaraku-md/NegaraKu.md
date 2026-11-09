@@ -76,6 +76,7 @@ relations:
   - { rel: "governs", to: "national-land-code-1965" }
 related: []
 keywords: ["bank lelong", "enchère immobilière Malaisie", "exécution hypothécaire", "proclamation de vente", "proclamation of sale", "enchère LACA", "ordre de vente", "prix de réserve", "foreclosure"]
+framework: explainer
 ---
 
 Un bien peut passer sous le marteau pour une fraction de sa valeur de marché — mais la décote correspond au marché qui chiffre tout ce qui peut mal tourner. Un bank lelong n'est pas une chasse aux bonnes affaires ; c'est un échange calculé de prix contre risque.

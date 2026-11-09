@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "food-delivery-riders" }
 related: []
 keywords: ["e-skuter", "PMD", "mikromobiliti", "basikal elektik", "MS2514", "JPJ", "peranti mobiliti peribadi"]
+framework: rules
 ---
 
 You buy an e-scooter to get to the office, but the moment its wheels touch a public road, you are already breaking the law. That has been the reality of micromobility in Malaysia since the end of 2021.

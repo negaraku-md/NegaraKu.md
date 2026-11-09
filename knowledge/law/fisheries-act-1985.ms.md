@@ -83,6 +83,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: explainer
 ---
 
 Snorkel di atas terumbu di perairan Tioman atau Redang, dan air jernih, ikan terlindung serta peraturan "tiada penangkapan ikan, tiada berlabuh" yang telah diterangkan kepada anda bukan sekadar adab yang baik — ia adalah undang-undang. Statut di sebalik peraturan itu ialah **Akta Perikanan 1985** (Fisheries Act 1985), Akta 317 dalam buku statut Malaysia, dan ia mentadbir jauh lebih daripada pelancongan: ia merupakan tulang belakang cara Malaysia menguruskan perikanan dan melindungi hidupan marin di seluruh perairannya.

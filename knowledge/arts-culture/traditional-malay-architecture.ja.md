@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "malay-woodcarving" }
 related: []
 keywords: ["rumah Melayu", "rumah panggung", "senibina vernakular", "bumbung panjang", "tebar layar", "rumah panjang", "kampung", "warisan"]
+framework: history-culture
 ---
 
 古いカンポン（kampung、村落）の家屋を持ち上げ、その接合部を解体し、新しい敷地で組み立て直す——その大半は固定されたコンクリート基礎を必要としない。それこそが伝統的マレー建築の知恵である。エアコンが登場する以前から熱帯気候を「読み解いて」いた家屋なのだ。

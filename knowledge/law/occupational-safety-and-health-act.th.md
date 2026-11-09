@@ -81,6 +81,7 @@ relations:
   - { rel: "supersedes", to: "factories-and-machinery-act-1967" }
 related: ["labour-law-map-malaysia", ]
 keywords: ["OSHA 1994", "Akta 514", "tanggungjawab majikan", "DOSH", "penilaian risiko", "JKKP 6", "keselamatan pekerjaan"]
+framework: rules
 ---
 
 ลูกจ้างคนหนึ่งตกจากนั่งร้าน และคำถามแรกของผู้สืบสวนไม่ใช่ "ใครประมาท" — แต่เป็น "นายจ้างได้ทำทุกอย่างเท่าที่ปฏิบัติได้เพื่อป้องกันมันหรือไม่?" นั่นคือแก่นของพระราชบัญญัติความปลอดภัยและอาชีวอนามัยในการทำงาน 1994 (Act 514) หรือ OSHA 1994

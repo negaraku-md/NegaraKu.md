@@ -97,6 +97,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review (output/export, capacity and ownership figures flagged for verification).
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 プラスチック、肥料、洗剤、合成ゴム、化粧品、塗料、そしてあなたのスマートフォンの筐体の中にある樹脂――これらはすべて化学物質として始まる。そして、その驚くほど多くが、あるいはその構成要素が、マレーシアで作られている。同国のよりよく知られた石油・ガスやパーム油の物語の背後には、大規模で、静かに戦略的な化学・石油化学産業が控えており、未加工の炭化水素と植物油を、現代の暮らしが依存する素材へと変えている。

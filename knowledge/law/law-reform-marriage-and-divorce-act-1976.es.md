@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "islamic-family-law-malaysia" }
 related: []
 keywords: ["Akta 164", "matrimonio civil", "divorcio de no musulmanes", "harta sepencarian", "Law Reform Marriage and Divorce Act 1976", "sección 76", "Jabatan Pendaftaran Negara"]
+framework: rules
 ---
 
 Si usted es no musulmán y se casa en Malasia, una sola ley determina si el matrimonio es válido, cómo puede terminarse y quién se queda con qué cuando termina — la Ley de Reforma del Derecho (Matrimonio y Divorcio) de 1976, más conocida como Act 164.

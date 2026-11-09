@@ -96,6 +96,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 马来西亚横跨地球上一些最古老的雨林，在其现代历史的很长一段时间里，热带硬木贸易是国民经济的支柱之一。那个上游世界——森林本身、采伐它们的执照，以及把原木初步加工成木材——是一个与产业链更下游的家具工厂和木制品出口商截然不同的产业。本指南涵盖**林业与木材资源领域**：木材从哪里来、由谁掌控、如何出口，以及如今正重塑它的可持续性与市场压力。

@@ -88,6 +88,7 @@ relations:
   - { rel: "compares-with", to: "sabah-sarawak-labour-ordinance" }
 related: ["employment-act-1955-guide", "employment-act-coverage", "labour-law-map-malaysia", "sabah-sarawak-labour-ordinance"]
 keywords: ["Akta Kerja 1955", "Akta 265", "Akta A1651", "Employment Act 1955", "statut pekerjaan Malaysia"]
+framework: data-reference
 ---
 
 Halaman ini ialah rekod statut untuk Akta 265 — identiti, pentadbiran dan

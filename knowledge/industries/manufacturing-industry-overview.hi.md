@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "mida" }
 related: []
 keywords: ["मलेशिया विनिर्माण", "Malaysia manufacturing", "मशीनरी और उपकरण", "machinery and equipment", "plastics", "रबर दस्ताने", "rubber gloves", "medical devices", "chemicals", "food processing", "NIMP 2030", "MIDA", "DOSM"]
+framework: profile
 ---
 
 "मलेशियाई कारख़ाना" कहिए और अधिकांश लोग Penang में एक सेमीकंडक्टर क्लीनरूम या Shah Alam में एक Proton लाइन की कल्पना करते हैं। वे वास्तविक हैं, और बड़े हैं — पर वे एक कहीं व्यापक औद्योगिक आधार के ऊपर बैठते हैं। 2024 में पूरे क्षेत्र ने RM1.9 ट्रिलियन की बिक्री आगे बढ़ाई और लगभग 2.4 मिलियन लोगों को काम में रखा, और उसका एक बड़ा हिस्सा मशीनरी, प्लास्टिक, रबर, चिकित्सा उपकरण, रसायन और सुपरमार्केट की अलमारियों पर मौजूद खाद्य से आया।

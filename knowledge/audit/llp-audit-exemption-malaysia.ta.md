@@ -62,6 +62,7 @@ relations:
   - { rel: "administered-by", to: "ssm" }
 related: []
 keywords: ["PLT audit", "LLP audit exemption", "Akta PLT 2012", "perisytiharan tahunan PLT", "seksyen 69", "SSM"]
+framework: explainer
 ---
 
 பல தொழில்முனைவோர் வரையறுக்கப்பட்ட பொறுப்புக் கூட்டாண்மையை (Limited Liability Partnership, LLP; மலேசியாவில் Perkongsian Liabiliti Terhad, PLT) தேர்ந்தெடுப்பதற்கு ஒரு காரணம், அது ஆண்டுதோறும் தணிக்கைக்குச் செலவழிக்க வேண்டியதில்லை என்பதுதான். ஒரு தனியார் வரையறுக்கப்பட்ட கம்பெனியைப் போலல்லாமல், ஒரு PLT தனது கணக்குகளை ஒரு தணிக்கையாளர் கூட பார்க்காமல் பல ஆண்டுகள் இயங்க முடியும் — மேலும் அது முற்றிலும் சட்டப்பூர்வமானது.

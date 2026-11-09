@@ -76,6 +76,7 @@ relations:
   - { rel: "governs", to: "national-land-code-1965" }
 related: []
 keywords: ["bank lelong", "property auction Malaysia", "foreclosure", "proclamation of sale", "LACA auction", "order for sale", "reserve price", "reserve price deposit"]
+framework: explainer
 ---
 
 房产可能以市值的一小部分落槌成交——但这份折扣正是市场为一切可能出错之处所定的价。银行拍卖（bank lelong）并非捡便宜的猎场；它是一场以价格换取风险的精算交易。

@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "orang-asal-indigenous-peoples" }
 related: []
 keywords: ["native customary rights", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "logging disputes", "native title", "droits coutumiers autochtones", "terre NCR", "litiges forestiers", "titre autochtone"]
+framework: explainer
 ---
 
 Une communauté d'une maison longue (longhouse) affirme qu'une bande de forêt lui appartient depuis des générations. Une entreprise forestière ou de plantation détient une licence, délivrée par l'État, qui couvre le même terrain. Toutes deux invoquent la loi. Au Sarawak et à Sabah, cette collision est plaidée devant les tribunaux depuis plus de deux décennies — et les tribunaux ne se sont pas toujours accordés sur l'endroit où tracer la ligne.

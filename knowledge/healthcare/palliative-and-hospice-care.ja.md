@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "healthcare-for-seniors" }
 related: ["healthcare-for-seniors"]
 keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap hujung hayat", "penjagaan di rumah", "KKM"]
+framework: explainer
 ---
 
 治療がもはや治癒を目的としなくなったとき、焦点は一つのことに移る——患者が快適で尊厳を保てるようにすることだ。それが緩和ケアの核心である——そしてマレーシアでは、三つの異なる経路を通じてこれにアクセスできる。

@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malay-rulers-and-state-monarchies" }
 related: ["federal-constitution"]
 keywords: ["Yang di-Pertuan Agong", "Majlis Raja-Raja", "Conférence des Souverains", "article 32", "article 38", "monarchie constitutionnelle", "chef de l'État"]
+framework: explainer
 ---
 
 La Malaisie compte parmi les rares pays du monde dont le monarque est élu à tour de rôle, plutôt que transmis par héritage l'un après l'autre à partir d'une seule lignée. Tous les cinq ans, les neuf Souverains malais se réunissent pour déterminer lequel d'entre eux occupera le trône fédéral en tant que Yang di-Pertuan Agong. Ce système, avec l'institution qui le met en œuvre — la Conférence des Souverains —, constitue le cœur de la monarchie constitutionnelle du pays.

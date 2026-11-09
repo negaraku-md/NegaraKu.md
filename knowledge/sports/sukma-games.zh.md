@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "program-podium" }
 related: []
 keywords: ["SUKMA", "Sukan Malaysia", "Majlis Sukan Negara", "Program Podium", "atlet remaja", "pembangunan sukan", "Institut Sukan Negara"]
+framework: explainer
 ---
 
 每隔两年，数以千计的青少年运动员就会列队走进主办州的体育场——争夺的不是世界奖牌，而是各自州属的荣誉；而对于那些最有天赋的人来说，则是一张通往国家精英舞台的入场券。这就是SUKMA。

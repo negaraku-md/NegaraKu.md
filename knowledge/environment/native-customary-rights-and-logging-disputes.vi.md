@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "orang-asal-indigenous-peoples" }
 related: []
 keywords: ["native customary rights", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "logging disputes", "native title"]
+framework: explainer
 ---
 
 Một cộng đồng nhà dài nói rằng một dải rừng đã thuộc về họ qua nhiều thế hệ. Một công ty gỗ hoặc đồn điền nắm một giấy phép, do bang cấp, bao phủ cùng mảnh đất đó. Cả hai đều viện dẫn luật pháp. Ở Sarawak và Sabah, sự va chạm đó đã được tranh luận tại các phòng xử án trong hơn hai thập niên — và các tòa án không phải lúc nào cũng thống nhất về nơi ranh giới rơi vào.

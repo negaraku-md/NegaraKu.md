@@ -78,6 +78,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["batik", "gawai-dayak", "sarawak"]
 keywords: ["pua kumbu", "tenunan Iban", "ikat lungsi", "kebat", "engkudu", "ngar", "kain upacara Sarawak", "Bangie Embol"]
+framework: history-culture
 ---
 
 Una tela cuya tejedora no se atreve a crearla sin una «bendición»: se dice que sus motivos llegan en sueños, y en otro tiempo estuvo estrechamente ligada a la tradición guerrera del pueblo que la hacía. Eso es el pua kumbu.

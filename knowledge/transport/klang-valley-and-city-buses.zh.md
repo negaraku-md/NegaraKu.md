@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "klang-valley-integrated-transit-system" }
 related: []
 keywords: ["Rapid KL bus", "MRT feeder bus", "Klang Valley bus", "Rapid Bus", "Rapid KL On-Demand", "city bus Kuala Lumpur"]
+framework: explainer
 ---
 
 火车能把你送到车站，却很少能把你送到家门口。从MRT或LRT站台到你家、到你的办公园区，或到隔两个社区外的巴刹（湿巴刹）之间的这段落差，是由一支多数乘客几乎不会留意的车队来填补的：Rapid KL巴士。

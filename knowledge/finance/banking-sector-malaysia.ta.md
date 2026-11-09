@@ -92,6 +92,7 @@ relations:
   - { rel: "governs", to: "financial-services-act-2013" }
 related: ["bank-negara-malaysia", "islamic-finance", "digital-banks-malaysia"]
 keywords: ["banking sector Malaysia", "commercial banks Malaysia", "Islamic banks Malaysia", "investment banks Malaysia", "Financial Services Act 2013", "Islamic Financial Services Act 2013", "digital banks Malaysia", "Bank Negara Malaysia"]
+framework: profile
 ---
 
 Kuala Lumpur-இல் ஒரு வங்கிக் கணக்கைத் திறந்தால், இரண்டு முழுமையான வங்கி அமைப்புகளை — வழக்கமான மற்றும் இஸ்லாமிய — ஒன்றுக்கொன்று அருகருகே, ஒரே மத்திய வங்கியின் கீழும் ஒரே ஆண்டில் எழுதப்பட்ட இரண்டு பொருந்தும் சட்டங்களின் கீழும் இயக்கும் சில நாடுகளில் ஒன்றில் நீங்கள் அமைதியாக அடியெடுத்து வைத்துவிட்டீர்கள்.

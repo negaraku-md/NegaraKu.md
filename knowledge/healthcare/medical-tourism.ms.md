@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "mm2h-long-stay-visa" }
 related: ["mm2h-long-stay-visa"]
 keywords: ["medical tourism Malaysia", "MHTC Malaysia Healthcare Travel Council", "Malaysia healthcare travellers", "healthcare travel Malaysia cost", "why patients come to Malaysia for treatment"]
+framework: explainer
 ---
 
 Sebuah keluarga dari Jakarta terbang masuk untuk pembedahan pintasan jantung bapa mereka. Sepasang suami isteri dari United Kingdom menempah IVF kerana senarai menunggu di negara mereka melangkaui tempoh kesuburan mereka. Seorang pesakit dari Bangladesh datang untuk saringan kesihatan rutin yang tidak dapat dijalankan oleh klinik di kampung halamannya.

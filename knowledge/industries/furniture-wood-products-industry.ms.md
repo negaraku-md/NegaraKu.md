@@ -101,6 +101,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Di suatu tempat dalam rumah di Texas atau California, ada kemungkinan besar kerusi makan, rangka katil atau rak buku itu dibuat di Malaysia — sangat mungkin di dalam dan sekitar satu pekan, daripada kayu pokok getah yang pernah menghasilkan lateks untuk sarung tangan dan tayar. Industri perabot dan produk kayu Malaysia ialah salah satu gergasi senyap ekonomi pembuatannya: tidak glamor, tetapi pengeksport global sepuluh teratas yang konsisten yang telah menukar hasil sampingan sektor ladang menjadi barangan siap yang dijual di seluruh dunia.

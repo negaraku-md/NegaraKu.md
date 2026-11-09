@@ -67,6 +67,7 @@ wikidata: "Q25475395"
 relations: []
 related: []
 keywords: ["Local Government Act 1976", "Act 171", "Akta Kerajaan Tempatan 1976", "local authority Malaysia", "PBT", "Pihak Berkuasa Tempatan", "majlis perbandaran", "majlis daerah", "assessment tax", "cukai pintu", "local council elections Malaysia", "appointed councillors", "National Council for Local Government", "third vote Malaysia"]
+framework: explainer
 ---
 
 如果你曾经好奇为什么马来西亚的选票上从未列出市长候选人，答案就是一部法规。**1976年地方政府法令（Act 171）**——长标题为「修订并整合地方政府相关法律的法令」——是构成马来西亚半岛每一个市政厅、市议会和县议会的法律，委任管理它们的人选，并赋予它们向你征税与罚款的权力。它于**1976年3月18日**获御准，并于1976年3月25日刊宪。尽管网络上多数说法有所不同，**第1(1)条规定本法令仅适用于马来西亚半岛**；沙巴和砂拉越保留各自的法令。

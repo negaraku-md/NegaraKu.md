@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "sedition-act-1948" }
 related: ["federal-constitution"]
 keywords: ["akta komunikasi dan multimedia 1998", "seksyen 233", "SKMM", "MCMC", "penyalahgunaan kemudahan rangkaian", "pertuturan dalam talian", "kebebasan bersuara", "akta 588"]
+framework: explainer
 ---
 
 Satu komentar di Facebook, satu tweet, atau satu pesan WhatsApp yang dibagikan ulang dapat menjadi dasar bagi suatu penuntutan pidana di Malaysia. Ketentuan hukum yang paling sering dikutip dalam situasi seperti ini bukan Sedition Act maupun hukum pencemaran nama baik, tetapi Pasal 233 Communications and Multimedia Act 1998.

@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "solvency-statement" }
 related: []
 keywords: ["pembelian balik saham", "share buy-back", "saham perbendaharaan", "treasury shares", "Seksyen 127", "Akta Syarikat 2016", "Bursa Malaysia", "Bab 12"]
+framework: rules
 ---
 
 회사는 자기주식을 취득하여 "자기주식으로(dalam perbendaharaan)" 보유할 수 있습니다 —

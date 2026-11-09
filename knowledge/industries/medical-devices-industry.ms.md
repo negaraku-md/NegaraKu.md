@@ -100,6 +100,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review (export, ranking and market-size figures flagged for verification).
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Jika anda pernah memakai sarung tangan pembedahan, diambil darah melalui kateter, atau pulih dengan bantuan implan ortopedik, ada kemungkinan munasabah peranti itu dibuat di Malaysia. Selain sarung tangan getahnya yang terkenal, negara ini secara senyap telah menjadi tempat paling penting di Asia Tenggara untuk membuat peranti perubatan — dan salah satu asas pembuatan medtek yang lebih ketara di mana-mana di dunia.

@@ -87,6 +87,7 @@ relations:
   - { rel: "affects", to: "cost-of-living-overview" }
 related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "subsidi padi"]
+framework: profile
 ---
 
 Cada vez que suben los precios del arroz o se vacían los estantes de los supermercados, una vieja pregunta vuelve a atormentar a Malasia: ¿por qué un país tan rico en campos de padi todavía necesita importar casi la mitad de su arroz? La respuesta reside en una industria impulsada por los subsidios, protegida por precios garantizados y perseguida por una meta de autosuficiencia que aún no se ha alcanzado.

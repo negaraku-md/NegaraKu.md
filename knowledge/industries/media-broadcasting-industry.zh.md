@@ -99,6 +99,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 当马来西亚人谈起「媒体」时，他们通常指的是几个熟悉的名字：装在屋侧的 Astro 卫星天线、TV3 的新闻报道、上班途中收听的早间电台节目，或者——越来越多地——通勤时手机上正在播放的任何内容。这些日常触点都属于同一个庞杂的产业：媒体与广播。它是这个国家较显眼的服务业领域之一，也是受冲击最严重的领域之一。

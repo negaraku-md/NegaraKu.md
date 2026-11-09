@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["termination-of-employment-malaysia"]
 keywords: ["umur persaraan minimum", "Akta 753", "persaraan 60 tahun", "persaraan pramatang", "kontrak tempoh tetap", "persaraan pilihan"]
+framework: rules
 ---
 
 ลูกจ้างอายุ 58 ปีได้รับจดหมาย: บริษัทบอกว่าสัญญาของเขากำหนดการเกษียณที่ 55 ดังนั้นเขาจึง "หมดอายุ" แล้ว ในมาเลเซีย จดหมายนั้นไม่มีค่าใด ๆ ในทางกฎหมาย นับตั้งแต่วันที่ 1 กรกฎาคม 2013 นายจ้างภาคเอกชนไม่สามารถบังคับให้ผู้ใดเกษียณก่อนอายุ 60 ปี ไม่ว่าจะเขียนอะไรไว้ในสัญญา

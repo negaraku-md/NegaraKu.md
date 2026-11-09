@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "pdrm" }
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
+framework: how-to
 ---
 
 Seorang pemandu boleh menerima empat jenis saman yang kelihatan serupa di atas kertas — tetapi datang daripada empat pihak yang berbeza, dan mesti disemak di empat tempat yang berbeza. Ramai yang cuma tahu satu portal, lalu menyangka saman mereka "hilang" sedangkan ia sebenarnya duduk di sistem lain.

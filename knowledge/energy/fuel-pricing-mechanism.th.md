@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "diesel-subsidy-rationalisation" }
 related: []
 keywords: ["APM", "harga minyak", "RON97", "RON95", "BUDI95", "subsidi bahan api", "harga pam mingguan"]
+framework: explainer
 ---
 
 ทุกวันพุธ ราคาที่ปั๊มน้ำมันของมาเลเซียสามารถเปลี่ยนแปลงได้ แต่เชื้อเพลิงไม่ใช่ทุกชนิดที่เคลื่อนไหวในแบบเดียวกัน เบื้องหลังตัวเลขบนป้ายนั้นมีสูตรทางการหนึ่งที่เรียกว่ากลไกการกำหนดราคาอัตโนมัติ หรือ APM

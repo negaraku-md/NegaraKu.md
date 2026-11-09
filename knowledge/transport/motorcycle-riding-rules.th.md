@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "road-transport-act-1987" }
 related: []
 keywords: ["lorong motosikal", "Lebuhraya Persekutuan", "topi keledar", "Seksyen 79(2)", "motosikal lebuh raya", "MS 1", "kapasiti enjin"]
+framework: rules
 ---
 
 คุณขี่รถจักรยานยนต์เข้าสู่ Lebuhraya Persekutuan เห็นป้าย "ช่องทางรถจักรยานยนต์" แยกไปทางซ้าย — และสงสัยว่าคุณต้องตามไปหรือสามารถอยู่บนช่องทางหลักต่อไปได้ คำตอบขึ้นอยู่กับคำเดียว: *ประกาศในราชกิจจานุเบกษา*

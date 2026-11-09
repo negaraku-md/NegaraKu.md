@@ -81,6 +81,7 @@ relations:
   - { rel: "supersedes", to: "factories-and-machinery-act-1967" }
 related: ["labour-law-map-malaysia", ]
 keywords: ["OSHA 1994", "Akta 514", "tanggungjawab majikan", "DOSH", "penilaian risiko", "JKKP 6", "keselamatan pekerjaan"]
+framework: rules
 ---
 
 Un trabajador cae de un andamio, y la primera pregunta del investigador no es «¿quién fue negligente?», sino «¿hizo el empleador todo lo factible para evitarlo?». Ese es el corazón de la Occupational Safety and Health Act 1994 (Act 514), o OSHA 1994.

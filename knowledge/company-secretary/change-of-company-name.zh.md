@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "special-resolution" }
 related: ["companies-act-2016"]
 keywords: ["tukar nama syarikat", "change of company name", "seksyen 28", "ketetapan khas", "SSM CRS", "name reservation"]
+framework: how-to
 ---
 
 变更公司名称不仅仅是填写一份表格——它始于成员的一项特别决议，并且只有在 SSM 就新名称发出注册通知时才告完成。在那一刻之前，旧名称在法律上仍然有效。

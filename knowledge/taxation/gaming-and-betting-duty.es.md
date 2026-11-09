@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "corporate-income-tax" }
 related: ["sales-and-service-tax"]
 keywords: ["duti kasino", "cukai perjudian", "duti mesin permainan", "duti pertaruhan pool", "number forecast operator", "gaming tax Malaysia"]
+framework: rules
 ---
 
 Cada ringgit apostado en una mesa de casino o en un mostrador de 4D lleva un impuesto oculto — y en Malasia, la tasa está entre las más altas que el gobierno impone a cualquier sector.

@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "domestic-flights-and-regional-air-travel" }
 related: []
 keywords: ["Penang ferry", "Langkawi ferry", "Tioman ferry", "island transport Malaysia", "Kuala Kedah", "Kuala Perlis", "northeast monsoon", "Pangkor ferry", "Labuan ferry"]
+framework: explainer
 ---
 
 Không có một hãng phà quốc gia duy nhất nào ở Malaysia. Đến một hòn đảo có nghĩa là biết tuyến vượt biển ngắn nào, bến nào và đơn vị vận hành nào phục vụ nó — và, ở bờ đông, liệu biển tháng đó có mở hay không.

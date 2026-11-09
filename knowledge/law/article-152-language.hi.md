@@ -55,6 +55,7 @@ relations:
   - { rel: "governs", to: "bahasa-melayu" }
 related: ["federal-constitution", "bahasa-melayu"]
 keywords: ["अनुच्छेद 152 संघीय संविधान", "राष्ट्रभाषा मलेशिया", "Perkara 152", "आधिकारिक प्रयोजन मलेशिया", "राष्ट्रभाषा अधिनियम 1963/67", "अनुच्छेद 161 साबाह सारावाक", "Article 152 Federal Constitution", "national language Malaysia", "official purpose Malaysia", "National Language Acts 1963/67"]
+framework: explainer
 ---
 
 अनुच्छेद 152 को शेष संविधान के साथ पढ़ें, तो एक प्रति-संदर्भ (cross-reference) उभरकर सामने आता है। अनुच्छेद 161(5) इन शब्दों से शुरू होता है, "Notwithstanding anything in Article 152" («अनुच्छेद 152 में किसी भी बात के बावजूद»), और फिर साबाह या सारावाक में प्रचलन में किसी देशज भाषा को देशज अदालतों में तथा देशज कानून एवं रीति-रिवाज की किसी संहिता के लिए उपयोग करने की अनुमति देता है। दूसरे शब्दों में, राष्ट्रभाषा अनुच्छेद एक ऐसे दस्तावेज़ में स्थित है जो स्वयं अपने ही अपवादों को नामित करता है।

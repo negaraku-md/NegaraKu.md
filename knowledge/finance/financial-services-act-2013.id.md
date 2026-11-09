@@ -63,6 +63,7 @@ wikidata: "Q28163620"
 relations: []
 related: []
 keywords: ["Financial Services Act 2013", "FSA 2013", "FSA Malaysia", "Act 758", "Bank Negara Malaysia financial regulation", "financial institutions regulation Malaysia", "consumer protection financial services Malaysia", "unlicensed financial business penalty Malaysia", "IFSA 2013", "payment systems regulation Malaysia"]
+framework: explainer
 ---
 
 Setiap kali Anda mengetuk e-dompet, mengambil pinjaman mobil, atau membeli paket takaful, Anda berurusan dengan usaha yang bertanggung jawab kepada satu regulator — **Bank Negara Malaysia (BNM)** — karena satu undang-undang. **Financial Services Act 2013 (FSA)**, yang disebut sebagai **Act 758**, adalah statuta tulang punggung Malaysia bagi sektor keuangan konvensional. Ia berlaku di seluruh Malaysia, dikelola dan ditegakkan oleh BNM, serta mulai berlaku pada **30 Juni 2013**. Kebanyakan penjelasan yang ditulis untuk pengacara berhenti pada daftar undang-undang yang dicabut. Yang ini menjawab pertanyaan yang sebenarnya ada di pikiran rakyat Malaysia biasa: apa makna FSA bagi uang Anda, hak Anda, dan mereka yang menjaganya?

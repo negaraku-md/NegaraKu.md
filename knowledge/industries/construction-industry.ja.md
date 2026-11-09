@@ -85,6 +85,7 @@ relations:
   - { rel: "governs", to: "cidb-act-520" }
 related: []
 keywords: ["industri pembinaan", "CIDB", "gred kontraktor", "G1 G7", "Akta 520", "kad hijau", "pendaftaran kontraktor", "NCP 2030", "CITP"]
+framework: rules
 ---
 
 請負業者登録証を持たずにRM250,000相当の学校フェンス建設を試みれば、最初の支柱を打ち込む前に、プロジェクトは即座に停止を命じられかねない。マレーシアでは、建設する権利は機械や労働力から始まるのではなく、一つの登録から始まる。

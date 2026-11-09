@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "peka-b40-health-screening" }
 related: []
 keywords: ["MySejahtera", "rekod kesihatan digital", "EMR", "kesihatan digital Malaysia", "KKM", "temu janji klinik kesihatan"]
+framework: explainer
 ---
 
 많은 사람이 팬데믹이 잦아들자 휴대전화에서 MySejahtera를 지웠습니다 — 그러나 그 앱은 사라지지 않았습니다. 단지 하는 일이 바뀌었을 뿐입니다.

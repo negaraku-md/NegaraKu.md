@@ -97,6 +97,7 @@ keywords:
   - pusat keupayaan global
   - Malaysia Digital
   - luar pesisir
+framework: profile
 ---
 
 Di suatu tempat di Cyberjaya atau Kuala Lumpur pada ketika ini, seorang akauntan sedang menutup buku bulanan bagi sebuah syarikat yang beribu pejabat di London, seorang ejen meja bantuan sedang menyelesaikan tiket bagi pelanggan di Sydney, dan seorang penganalisis data sedang membina papan pemuka bagi sebuah kilang di Jerman. Tiada satu pun daripada majikan itu membuat apa-apa di Malaysia. Apa yang mereka jalankan di sini ialah sesuatu yang kurang kelihatan tetapi semakin bernilai: pejabat belakang global mereka.

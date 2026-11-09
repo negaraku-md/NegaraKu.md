@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "road-transport-act-1987" }
 related: []
 keywords: ["lorong motosikal", "Lebuhraya Persekutuan", "topi keledar", "Seksyen 79(2)", "motosikal lebuh raya", "MS 1", "kapasiti enjin"]
+framework: rules
 ---
 
 Bạn lái xe máy vào Lebuhraya Persekutuan, thấy biển báo "Làn Xe máy" rẽ nhánh sang trái — và tự hỏi liệu bạn bắt buộc phải đi theo nó hay có thể tiếp tục trên làn chính. Câu trả lời phụ thuộc vào một từ: *được công báo*.

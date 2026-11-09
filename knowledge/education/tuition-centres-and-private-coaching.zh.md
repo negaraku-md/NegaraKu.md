@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "national-education-system" }
 related: []
 keywords: ["pusat tuisyen", "tuition centre", "bimbingan persendirian", "Akta Pendidikan 1996", "pendaftaran IPS", "permit mengajar", "JPN"]
+framework: rules
 ---
 
 在许多马来西亚家庭里，放学后的补习课已经像做功课一样成为日常——但每一间开办补习的中心，其实都受同一套办学法律的约束。

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "house-buyers-act" }
 related: ["national-land-code"]
 keywords: ["akta hakmilik strata", "akta pengurusan strata 2013", "JMB", "perbadanan pengurusan", "caj penyelenggaraan", "kumpulan wang penjelas", "tribunal pengurusan strata"]
+framework: explainer
 ---
 
 购买公寓意味着你拥有自己的"单元"（petak）——但要与数百名邻居共用电梯、泳池、走廊和屋顶。两部法律界定了谁拥有什么，以及谁为维护这些共享空间买单。

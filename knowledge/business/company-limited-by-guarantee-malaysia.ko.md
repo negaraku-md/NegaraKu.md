@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["business-structures-malaysia", "sdn-bhd-vs-berhad", "register-sdn-bhd", "what-is-sdn-bhd", "company-secretary-malaysia"]
 keywords: ["company limited by guarantee", "CLBG", "berhad menurut jaminan", "section 45 Companies Act 2016", "non-profit company Malaysia", "SSM CLBG", "omit Berhad licence"]
+framework: explainer
 ---
 
 재단, 전문가 단체, 상공회의소, 그리고 사회적 기업은 말레이시아에서 모두 같은 법적 외피를 입을 수 있습니다 — 바로 보증유한회사입니다. 이는 법이 이윤을 배당하기 위해서가 아니라 유익한 무언가를 하기 위해 존재하는 조직에게 마련해 둔 수단이며, 일반적인 Sdn Bhd가 결코 마주치지 않는 규칙을 함께 지닙니다.

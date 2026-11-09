@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "securities-commission-malaysia" }
 related: ["bank-negara-malaysia", "securities-commission-malaysia"]
 keywords: ["regulatory sandbox", "fintech Malaysia", "BNM sandbox", "Innovation Green Lane", "SC sandbox", "FTEG", "capital market fintech"]
+framework: explainer
 ---
 
 Bangun sebuah aplikasi pembayaran baru atau platform sekuritas bertoken di Malaysia, dan Anda akan menghadapi dinding yang sama: peraturan ditulis sebelum ide Anda ada. Sandbox regulasi adalah pintu menembus dinding itu — ruang yang diawasi untuk menguji produk secara langsung sebelum Anda memegang lisensi penuh. Malaysia memiliki dua di antaranya, dan yang mana Anda ketuk bergantung pada apa yang Anda bangun.

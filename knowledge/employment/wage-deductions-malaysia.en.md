@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "minimum-wage-malaysia" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["potongan gaji", "Seksyen 24", "Akta Kerja 1955", "salary deduction", "Ketua Pengarah Tenaga Kerja", "lebihan gaji"]
+framework: rules
 ---
 
 Your payslip is less than the amount you expected, and the reason given is "company policy". But an employer cannot deduct wages at will: the Employment Act 1955 lays down a closed list of lawful deductions — anything outside that list is not permitted.

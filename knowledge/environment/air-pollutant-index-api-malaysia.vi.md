@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "jerebu-di-malaysia" }
 related: []
 keywords: ["IPU", "API", "indeks pencemar udara", "kualiti udara", "jerebu", "PM2.5", "PM10", "Jabatan Alam Sekitar"]
+framework: explainer
 ---
 
 Khi khói mù dày lên và các trường học bắt đầu hỏi liệu buổi tập trung sáng có nên bị hủy hay không, một con số đơn lẻ thường trở thành yếu tố quyết định — chỉ số IPU. Con số đó trông đơn giản, nhưng đằng sau nó là sáu chất ô nhiễm được đo liên tục và một công thức chắt lọc tất cả thành một giá trị.

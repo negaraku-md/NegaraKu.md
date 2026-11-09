@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry" }
 related: ["palm-oil-industry"]
 keywords: ["industri ternakan", "ayam pedaging", "telur ayam", "demam babi Afrika", "influenza burung", "JPV", "nisbah sara diri", "biosekuriti", "kekurangan ayam 2022"]
+framework: profile
 ---
 
 Pinggan orang Malaysia bergantung pada ayam. Ia protein termurah di negara ini — dan itulah sebabnya apabila reban goyah, ia menjadi urusan negara, bukan sekadar urusan ladang.

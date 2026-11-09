@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "healthcare-for-seniors" }
 related: ["healthcare-for-seniors"]
 keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap hujung hayat", "penjagaan di rumah", "KKM"]
+framework: explainer
 ---
 
 சிகிச்சை இனி குணப்படுத்துவதை நோக்கமாகக் கொள்ளாதபோது, கவனம் ஒரே ஒரு விஷயத்தின் மீது திரும்புகிறது: நோயாளியை வசதியாகவும் கண்ணியத்துடனும் வைத்திருப்பது. அதுவே நோய்த்தணிப்பு பராமரிப்பின் சாராம்சம் — மேலும் மலேசியாவில், அதை மூன்று வெவ்வேறு வழிகள் மூலம் அணுக முடியும்.

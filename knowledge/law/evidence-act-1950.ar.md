@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-malaysia" }
 related: ["criminal-procedure-code", "federal-constitution"]
 keywords: ["Akta Keterangan 1950", "Evidence Act 1950", "Act 56", "عبء الإثبات", "القبول", "القرائن", "الامتياز", "seksyen 90A", "seksyen 114A", "الاعتراف"]
+framework: explainer
 ---
 
 الصورة الفوتوغرافية، أو رسالة WhatsApp، أو كلمات شاهد لا تصبح تلقائياً «دليلاً» في المحكمة. فمسألة ما إذا كان شيء ما يُعَدّ دليلاً — ومَن عليه إثباته — يحدّدها قانون واحد: Evidence Act 1950 (Act 56).

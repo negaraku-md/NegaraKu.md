@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "article-153-special-position" }
 related: ["federal-constitution", "penal-code", "fundamental-liberties", "article-152-language", "article-153-special-position"]
 keywords: ["Sedition Act 1948", "Act 15", "seditious tendency", "seditious publication", "section 3 Sedition Act", "Sedition Amendment Act 2015", "Act A1485", "Malaysia sedition law"]
+framework: explainer
 ---
 
 Sedition Act 1948, "sedition" (தேசத்துரோகம்) என்பதை வரையறுக்கவில்லை. அது ஒரு

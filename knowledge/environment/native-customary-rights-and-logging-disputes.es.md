@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "orang-asal-indigenous-peoples" }
 related: []
 keywords: ["native customary rights", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "logging disputes", "native title", "derechos consuetudinarios nativos", "tierra NCR", "disputas de tala", "título nativo"]
+framework: explainer
 ---
 
 Una comunidad de una casa comunal (longhouse) dice que una franja de bosque le ha pertenecido durante generaciones. Una empresa maderera o de plantaciones posee una licencia, emitida por el estado, que abarca el mismo terreno. Ambas apelan a la ley. En Sarawak y Sabah, esa colisión se ha litigado en los tribunales durante más de dos décadas — y los tribunales no siempre han coincidido sobre dónde cae la línea.

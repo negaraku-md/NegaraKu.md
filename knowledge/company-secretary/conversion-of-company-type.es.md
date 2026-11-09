@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "special-resolution" }
 related: ["companies-act-2016"]
 keywords: ["conversión estatus de la empresa", "penukaran status syarikat", "sdn bhd kepada berhad", "de Sdn Bhd a Berhad", "empresa pública", "empresa privada", "seksyen 41 akta syarikat 2016", "resolución especial", "SSM"]
+framework: how-to
 ---
 
 Una empresa que comienza como *Sendirian Berhad* (sociedad de responsabilidad limitada privada) no queda encerrada en ese estatus para siempre. Cuando un negocio aspira a captar fondos del público o a cotizar sus acciones, puede convertirse en una empresa pública (*Berhad*) — y el camino inverso también está abierto. La clave es una sola resolución especial y una sola presentación ante la SSM.

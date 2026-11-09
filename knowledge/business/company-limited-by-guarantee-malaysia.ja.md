@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["business-structures-malaysia", "sdn-bhd-vs-berhad", "register-sdn-bhd", "what-is-sdn-bhd", "company-secretary-malaysia"]
 keywords: ["company limited by guarantee", "CLBG", "berhad menurut jaminan", "section 45 Companies Act 2016", "non-profit company Malaysia", "SSM CLBG", "omit Berhad licence"]
+framework: explainer
 ---
 
 財団、専門職協会、商工会議所、そして社会的企業——マレーシアでは、これらすべてが同じ法的な衣をまとうことができる。それが保証有限責任会社である。これは、利益を分配するためではなく、何か有益なことをするために存在する組織のために法律が用意した器であり、通常のSdn Bhdには決して見られない規則を伴う。

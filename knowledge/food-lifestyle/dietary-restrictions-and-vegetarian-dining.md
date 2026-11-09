@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-in-malaysia" }
 related: ["halal-certification-in-malaysia"]
 keywords: ["halal food Malaysia", "JAKIM halal logo", "vegetarian Malaysia", "vegan dining Malaysia", "dietary restrictions Malaysia", "Buddhist vegetarian", "beef-free"]
+framework: explainer
 ---
 
 Sitting down to eat in Malaysia means sharing a table with four food cultures at once — Malay, Chinese, Indian, and the traditions that grew between them. That variety is a gift if you have dietary needs, and a small minefield if you don't know the signals. Here is how to read them.

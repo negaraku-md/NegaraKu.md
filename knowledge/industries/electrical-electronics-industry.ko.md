@@ -97,6 +97,7 @@ relations:
   - { rel: "administered-by", to: "mida" }
 related: ["penang", "mida"]
 keywords: ["E&E industry", "electrical and electronics", "Malaysia manufacturing", "Penang electronics", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
+framework: profile
 ---
 
 지난 10년간 만들어진 노트북, 스마트폰, 자동차를 거의 아무거나 열어 보면, 그 일부가 말레이시아를 거쳐 갔을 가능성이 상당합니다. 내부의 칩은 페낭에서 검사·패키징되었을 수 있고, 전원 어댑터, LED 백라이트, 회로 기판은 쿨림(Kulim), 믈라카(Melaka) 또는 클랑 밸리(Klang Valley)에서 조립되었을 수 있습니다. 약 3,410만 명(2024년, DOSM)의 나라치고, 말레이시아는 세계 전자 공급망에서 놀랄 만큼 중심적인 지점에 자리하고 있으며 — 그것은 거의 전적으로 한 산업의 이야기입니다.

@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "national-education-system" }
 related: []
 keywords: ["pusat tuisyen", "tuition centre", "bimbingan persendirian", "Akta Pendidikan 1996", "pendaftaran IPS", "permit mengajar", "JPN"]
+framework: rules
 ---
 
 많은 말레이시아 가정에서 방과 후 학원 수업은 숙제만큼이나 일상적인 일이 되었습니다 — 그러나 그것을 여는 모든 센터는 실제로 같은 학교 교육 법에 묶여 있습니다.

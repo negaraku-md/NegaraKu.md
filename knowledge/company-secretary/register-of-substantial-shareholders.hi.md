@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["register-of-members"]
 keywords: ["पर्याप्त शेयरधारक", "पर्याप्त शेयरधारकों का रजिस्टर", "substantial shareholder", "register of substantial shareholders", "5% मताधिकार-शेयर", "5% voting shares", "धारा 144 कंपनी अधिनियम 2016", "section 144 Companies Act 2016", "धारा 137 सूचना", "section 137 notification", "SSM", "सार्वजनिक कंपनी", "शेयरधारिता प्रकटन"]
+framework: rules
 ---
 
 किसी सार्वजनिक कंपनी के मताधिकार-शेयरों के 5% को पार कर लें और आप एक गुमनाम निवेशक नहीं रह जाते: अब कानून आपका नाम एक विशेष रजिस्टर पर चाहता है — और घड़ी सप्ताहों में नहीं, दिनों में चलने लगती है।

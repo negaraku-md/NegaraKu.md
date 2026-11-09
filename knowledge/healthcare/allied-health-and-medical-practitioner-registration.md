@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "healthcare-system-overview" }
 related: []
 keywords: ["pendaftaran doktor", "MMC", "MeRITS", "APC", "Lembaga Jururawat Malaysia", "Lembaga Farmasi Malaysia", "MAHPC", "Akta Profesion Kesihatan Bersekutu 2016", "fisioterapi"]
+framework: how-to
 ---
 
 Seseorang boleh memakai kot putih, menggantung sijil di dinding klinik, dan memanggil dirinya "doktor" — tetapi hanya satu perkara yang benar-benar mengesahkan kelayakannya: namanya wujud dalam daftar rasmi. Di Malaysia, setiap doktor, jururawat, ahli farmasi dan ahli fisioterapi mesti berdaftar dengan badan kawal selia profesion mereka. Berita baiknya, anda boleh menyemaknya sendiri, secara percuma.

@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "majlis-raja-raja" }
 related: ["dewan-rakyat", "federal-state-division", "spr-election-commission", "majlis-raja-raja", "federal-constitution"]
 keywords: ["Dewan Undangan Negeri", "DUN", "badan perundangan negeri", "Jadual Kelapan", "Perkara 71", "peruntukan penting", "Yang di-Pertua Negeri", "Menteri Besar", "enakmen negeri", "State Legislative Assembly Malaysia"]
+framework: explainer
 ---
 
 土地は州の事項である。イスラム家族法は州の事項である。地方政府は州の事項である。しかし、ある州においてこれらの事項に関する法律を実際に可決するのは誰であり、どのような規則に従うのか。その答えは慣行や慣習だけの問題ではない——それは連邦憲法末尾の一つの附表に、節ごとに書き記されている。

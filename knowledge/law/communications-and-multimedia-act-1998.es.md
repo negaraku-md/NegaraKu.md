@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "sedition-act-1948" }
 related: ["federal-constitution"]
 keywords: ["akta komunikasi dan multimedia 1998", "sección 233", "Section 233", "SKMM", "MCMC", "uso indebido de instalaciones de red", "discurso en línea", "libertad de expresión", "akta 588"]
+framework: explainer
 ---
 
 Un comentario en Facebook, un tuit o un mensaje de WhatsApp reenviado pueden convertirse en la base de un proceso penal en Malasia. La disposición legal que con más frecuencia se cita en tales situaciones no es ni la Sedition Act ni el derecho de difamación, sino la sección 233 de la Communications and Multimedia Act 1998.

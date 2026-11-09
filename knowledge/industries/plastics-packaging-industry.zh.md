@@ -97,6 +97,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 几乎每一件走出马来西亚工厂的实物产品——一包即食面、一部智能手机、一个汽车保险杠、一段水管——都依赖于在这个国家某处成型的塑料。塑料是马来西亚安静的工业强项之一：不如半导体那般光鲜，却几乎编织进其他每一个制造业领域，而且日益深入关于废料与可持续性的全国辩论之中。

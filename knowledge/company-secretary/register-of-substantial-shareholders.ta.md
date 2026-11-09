@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["register-of-members"]
 keywords: ["substantial shareholder", "register of substantial shareholders", "5% voting shares", "section 144 Companies Act 2016", "section 137 notification", "SSM", "public company", "shareholding disclosure"]
+framework: rules
 ---
 
 ஒரு பொது நிறுவனத்தின் வாக்குரிமைப் பங்குகளில் 5%ஐக் கடந்தால், நீங்கள் அநாமதேய முதலீட்டாளராக இருப்பதை நிறுத்துகிறீர்கள்: சட்டம் இப்போது உங்கள் பெயரை ஒரு சிறப்புப் பதிவேட்டில் விரும்புகிறது — மேலும் கடிகாரம் வாரங்களில் அல்ல, நாட்களில் இயங்கத் தொடங்குகிறது.

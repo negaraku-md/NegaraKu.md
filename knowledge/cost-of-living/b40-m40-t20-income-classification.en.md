@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "kos-sara-hidup-malaysia" }
 related: []
 keywords: ["B40", "M40", "T20", "pendapatan isi rumah", "DOSM", "kos sara hidup", "median pendapatan"]
+framework: explainer
 ---
 
 Most Malaysians know the B40, M40 and T20 labels — but those labels do not come from your payslip. They come from where your household sits in a long list covering the entire country.

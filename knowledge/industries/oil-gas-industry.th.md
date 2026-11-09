@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "petroleum-income-tax" }
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["oil and gas Malaysia", "PETRONAS", "production sharing contract", "PSC", "Petroleum Development Act 1974", "Malaysia Petroleum Management", "upstream", "downstream", "LNG", "petroleum income tax"]
+framework: profile
 ---
 
 น้ำมันทุกบาร์เรลและก๊าซทุกลูกบาศก์ฟุตใต้ผืนดินและพื้นทะเลของมาเลเซียเป็นของบริษัทเดียวตามกฎหมาย ไม่ใช่ของรัฐโดยตรง ไม่ใช่ของผู้ค้นพบแหล่ง ไม่ใช่ของบริษัทข้ามชาติที่ขุดเจาะ — แต่เป็นของ PETRONAS บริษัทน้ำมันแห่งชาติที่สร้างขึ้นเพื่อถือครองปิโตรเลียมของชาติในฐานะทรัสต์ เข้าใจข้อเท็จจริงเดียวนั้น แล้วส่วนที่เหลือของอุตสาหกรรมน้ำมันและก๊าซของมาเลเซีย — วิธีที่มันถูกกำกับ จัดหาเงินทุน เก็บภาษี และแบ่งปัน — ก็เข้าที่เข้าทาง

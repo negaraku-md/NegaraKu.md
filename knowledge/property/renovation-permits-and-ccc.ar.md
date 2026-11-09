@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "buying-property-in-malaysia" }
 related: []
 keywords: ["CCC", "شهادة الإنجاز والامتثال", "تجديد المنزل", "موافقة PBT", "Akta 133", "تصريح التجديد", "Principal Submitting Person"]
+framework: rules
 ---
 
 تريد إضافة مطبخ خلف المنزل أو بناء طابق علوي — وفجأةً يقول لك جار «عليك التقدّم إلى المجلس أولًا». أذلك صحيح؟ بالنسبة إلى معظم أعمال التجديد، نعم.

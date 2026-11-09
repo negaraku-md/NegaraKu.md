@@ -86,6 +86,7 @@ relations:
   - { rel: "part-of", to: "malaysia-energy-transition" }
 related: ["petronas", "sarawak-energy-berhad"]
 keywords: ["hydrogen Malaysia", "CCUS Malaysia", "Kasawari CCS", "H2biscus", "H2ornbill", "SEDC Energy", "green ammonia Sarawak", "carbon capture Malaysia"]
+framework: profile
 ---
 
 Ngoài khơi Bintulu, một giàn khoan lớn bằng một thị trấn nhỏ nay tách carbon dioxide ra khỏi khí đốt tự nhiên và bơm nó trở lại dưới đáy biển. Cách vài trăm kilômét vào đất liền, các kỹ sư đang thiết kế các nhà máy nhằm vận chuyển thủy điện của Sarawak sang Nhật Bản và Hàn Quốc dưới dạng amoniac và các chất mang hydro. Cùng nhau, đây là canh bạc của Malaysia rằng các phân tử của sự chuyển đổi năng lượng — hydro sạch và carbon được chôn giữ — có thể trở thành ngành xuất khẩu tiếp theo sau LNG và dầu cọ.

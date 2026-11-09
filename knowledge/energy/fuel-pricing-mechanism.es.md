@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "diesel-subsidy-rationalisation" }
 related: []
 keywords: ["APM", "harga minyak", "RON97", "RON95", "BUDI95", "subsidi bahan api", "harga pam mingguan"]
+framework: explainer
 ---
 
 Cada miércoles, los precios en los surtidores de combustible de Malasia pueden cambiar, pero no todos los tipos de combustible se mueven de la misma manera. Detrás de los números de ese cartel hay una fórmula oficial llamada Mecanismo Automático de Precios, o APM.

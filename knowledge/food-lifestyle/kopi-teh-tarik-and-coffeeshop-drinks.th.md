@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "cultural-heritage-tourism-malaysia" }
 related: ["cultural-heritage-tourism-malaysia"]
 keywords: ["kopitiam", "kopi", "teh tarik", "kopi-O", "kopi-C", "mamak", "minuman Malaysia"]
+framework: explainer
 ---
 
 คุณชี้นิ้วไปที่เคาน์เตอร์แล้วพูดว่า "kopi-O peng, satu!" และไม่รู้ทำไม ลุงที่อยู่หลังเครื่องชงเก่า ๆ นั้นก็เข้าใจอย่างถูกต้องว่าคุณต้องการอะไร ภาษาการสั่งของร้านโกปี๊เตี่ยมดูเหมือนรหัสลับ แต่แท้จริงแล้วมันคือระบบที่เป็นระเบียบและมีเหตุผล

@@ -86,6 +86,7 @@ relations:
   - { rel: "part-of", to: "malaysia-energy-transition" }
 related: ["petronas", "sarawak-energy-berhad"]
 keywords: ["hydrogen Malaysia", "CCUS Malaysia", "Kasawari CCS", "H2biscus", "H2ornbill", "SEDC Energy", "green ammonia Sarawak", "carbon capture Malaysia"]
+framework: profile
 ---
 
 Di luar pantai Bintulu, sebuah platform sebesar pekan kecil kini menyingkirkan karbon dioksida daripada gas asli dan memam semula ke dasar laut. Beberapa ratus kilometer ke pedalaman, jurutera sedang mereka bentuk loji yang bertujuan menghantar kuasa hidro Sarawak ke Jepun dan Korea dalam bentuk ammonia dan pembawa hidrogen. Bersama-sama, inilah pertaruhan Malaysia bahawa molekul peralihan tenaga — hidrogen bersih dan karbon yang ditanam — boleh menjadi industri eksport seterusnya selepas LNG dan minyak sawit.

@@ -55,6 +55,7 @@ relations:
   - { rel: "governs", to: "bahasa-melayu" }
 related: ["federal-constitution", "bahasa-melayu"]
 keywords: ["Artículo 152 Constitución Federal", "lengua nacional Malasia", "Perkara 152", "fin oficial Malasia", "Leyes de la Lengua Nacional 1963/67", "Artículo 161 Sabah Sarawak inglés", "Article 152 Federal Constitution", "national language Malaysia", "official purpose Malaysia", "National Language Acts 1963/67"]
+framework: explainer
 ---
 
 Léase el Artículo 152 junto con el resto de la Constitución y una remisión salta a la vista. El Artículo 161(5) se abre con las palabras «Notwithstanding anything in Article 152» («No obstante cualquier disposición del Artículo 152»), y a continuación permite que una lengua nativa en uso corriente en Sabah o Sarawak se emplee en los tribunales nativos y para cualquier código de derecho y costumbre nativos. El artículo de la lengua nacional, en otras palabras, se sitúa en un documento que nombra sus propias excepciones a él.

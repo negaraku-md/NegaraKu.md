@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "e-commerce-malaysia" }
 related: ["mydigital-blueprint"]
 keywords: ["digital economy", "MyDIGITAL", "Malaysia Digital", "MD Status", "MDEC", "e-commerce", "ICT GDP", "DE Rantau"]
+framework: explainer
 ---
 
 Hampir satu ringgit dalam setiap empat ringgit yang dihasilkan oleh ekonomi Malaysia kini melewati layar, server dan keranjang belanja. Pada 2024, industri ICT dan e-dagang bersama-sama membentuk 23.4% dari PDB negara — bernilai RM451.3 miliar — menurut Jabatan Perangkaan Malaysia (DOSM). Angka tunggal itu adalah hal yang paling mendekati papan skor nasional untuk ekonomi digital yang dimiliki Malaysia, dan memahami bagaimana ia dibangun, apa yang mendorongnya, dan bagaimana pemerintah mencoba memacunya adalah cara tercepat untuk membaca ke mana arah tujuan negara.

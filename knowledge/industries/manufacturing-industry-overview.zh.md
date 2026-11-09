@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "mida" }
 related: []
 keywords: ["Malaysia manufacturing", "machinery and equipment", "plastics", "rubber gloves", "medical devices", "chemicals", "food processing", "NIMP 2030", "MIDA", "DOSM"]
+framework: profile
 ---
 
 一提到「马来西亚工厂」，大多数人脑海中浮现的是槟城的半导体无尘车间，或雪邦莎阿南的 Proton 生产线。它们确实存在，规模也很大——但它们只是坐落在一个远为广阔的工业基础之上。2024 年，整个产业创造了 RM1.9 trillion 的销售额，维系着约 240 万人的就业，其中很大一部分来自机械、塑料、橡胶、医疗器械、化工，以及摆上超市货架的食品。

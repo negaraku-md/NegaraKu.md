@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "malaysian-court-system" }
 related: []
 keywords: ["bantuan guaman", "legal aid", "JBG", "YBGK", "Majlis Peguam", "ujian kemampuan", "peguam percuma"]
+framework: how-to
 ---
 
 เผชิญกับการฟ้อง การหย่า หรือการเรียกร้อง แต่ไม่สามารถจ้างทนายความได้? คุณไม่จำเป็นต้องเผชิญศาลเพียงลำพัง มีสามองค์กรในมาเลเซียที่ให้บริการทางกฎหมายฟรีหรือได้รับเงินอุดหนุนสำหรับผู้ที่มีรายได้น้อย

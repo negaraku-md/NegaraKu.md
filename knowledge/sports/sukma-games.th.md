@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "program-podium" }
 related: []
 keywords: ["SUKMA", "Sukan Malaysia", "Majlis Sukan Negara", "Program Podium", "atlet remaja", "pembangunan sukan", "Institut Sukan Negara"]
+framework: explainer
 ---
 
 ทุกสองปี นักกีฬาวัยรุ่นหลายพันคนเดินสวนสนามเข้าสู่สนามกีฬาของรัฐเจ้าภาพ ไม่ใช่เพื่อเหรียญระดับโลก แต่เพื่อศักดิ์ศรีของรัฐของตน และสำหรับผู้ที่มีความสามารถที่สุด ตั๋วสู่เวทีชั้นนำของประเทศ นั่นคือ SUKMA

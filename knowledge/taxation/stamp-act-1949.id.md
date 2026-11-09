@@ -103,6 +103,7 @@ entity: "Stamp Act 1949 (Act 378, Malaysia)"
 relations: []
 related: []
 keywords: ["stamp act 1949", "stamp duty malaysia", "LHDN stamp duty", "ad valorem duty", "fixed duty", "memorandum of transfer stamp duty", "MOT stamp duty", "loan agreement stamp duty", "tenancy agreement stamp duty", "e-stamping malaysia", "stamp duty self assessment", "stamp duty calculator malaysia", "stamp duty penalty", "stamp duty exemption", "Act 378"]
+framework: rules
 ---
 
 Tandatangani penyewaan, ambil pinjaman perumahan, alihkan hak milik, beli saham melalui broker — dan di suatu tempat dalam dokumen itu terselip satu pajak yang mungkin tidak pernah Anda sadari. Pajak itu adalah **bea meterai**, dan undang-undang di baliknya adalah **Stamp Act 1949 (Act 378)**. Apa yang menjadikannya luar biasa adalah sasarannya: bea meterai dikenakan atas **instrumen** — dokumen tertulis itu sendiri — dan bukan atas transaksi yang direkamnya. Meteraikan dokumen itu dan ia sah di pengadilan; biarkan ia tanpa meterai dan ia mungkin tidak lebih bernilai daripada kertas tempat ia dicetak.

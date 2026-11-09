@@ -75,6 +75,7 @@ relations:
   - { rel: "located-in", to: "melaka" }
 related: ["peranakan", "tamil-in-malaysia", "deepavali"]
 keywords: ["चेट्टी मेलाका", "Chetti Melaka", "Chitty Melaka", "पेरानाकन भारतीय", "Peranakan India", "Kampung Chetti", "Gajah Berang", "शैव हिंदू", "मेलाका विरासत"]
+framework: history-culture
 ---
 
 मेलाका के Jalan Gajah Berang पर एक पुराने गाँव में परिवारों का एक समूह है जो भगवान शिव की पूजा करते हैं, मलय जैसे कपड़े पहनते हैं, नारियल के दूध से महकती करी पकाते हैं, और तमिल शब्दों से मिश्रित मलय बोलते हैं। वे न भारतीय हैं, न मलय, न चीनी — वे चेट्टी मेलाका हैं, और उनकी संख्या निरंतर कम होती जा रही है।

@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "constitutional-amendment" }
 related: ["court-hierarchy", "constitutional-amendment"]
 keywords: ["تعيين القضاة", "لجنة التعيينات القضائية", "Suruhanjaya Pelantikan Kehakiman", "المادة 122B", "المادة 125", "استقلال القضاء", "المحكمة التأديبية للقضاة", "Ketua Hakim Negara"]
+framework: explainer
 ---
 
 في كل مرة يؤدي فيها كبير قضاة جديد اليمين، يعود سؤال قديم إلى الظهور: من الذي يختار ذلك الشخص فعلًا، ومن الذي يستطيع عزله؟ في ماليزيا، يتضمن الجواب مرحلتين منفصلتين، ووثيقتين تشريعيتين مختلفتين، وجدلًا لم يُحسَم حول أين ينبغي أن تكمن تلك السلطة.

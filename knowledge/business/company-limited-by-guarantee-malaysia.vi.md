@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["business-structures-malaysia", "sdn-bhd-vs-berhad", "register-sdn-bhd", "what-is-sdn-bhd", "company-secretary-malaysia"]
 keywords: ["company limited by guarantee", "CLBG", "berhad menurut jaminan", "section 45 Companies Act 2016", "non-profit company Malaysia", "SSM CLBG", "omit Berhad licence"]
+framework: explainer
 ---
 
 Một quỹ, một viện nghề nghiệp, một phòng thương mại và một doanh nghiệp xã hội đều có thể khoác cùng một lớp da pháp lý ở Malaysia — công ty trách nhiệm bảo lãnh. Đây là phương tiện mà luật dành riêng cho các tổ chức tồn tại để làm một điều gì đó hữu ích chứ không phải để chia lợi nhuận, và nó đi kèm với các quy tắc mà một Sdn Bhd bình thường không bao giờ thấy.

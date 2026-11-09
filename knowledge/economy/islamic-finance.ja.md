@@ -98,6 +98,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["waqf-islamic-endowment-malaysia", "bank-negara-malaysia", "bursa-malaysia", "federal-budget", "opr-monetary-policy"]
 keywords: ["Islamic finance Malaysia", "sukuk", "takaful", "murabahah", "ijarah", "tawarruq", "Islamic banking Malaysia", "Shariah Advisory Council"]
+framework: explainer
 ---
 
 マレーシアのイスラム金融について説明する記事のほとんどは、ランキングから書き始める。実際に署名することになる契約書から書き始めるものは、ごくわずかしかない。

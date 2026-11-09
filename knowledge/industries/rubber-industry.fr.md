@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry" }
 related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
+framework: profile
 ---
 
 Le caoutchouc qui a bâti la Malaya coloniale ne gagne plus sa vie dans la plantation — il la gagne sur le plancher de l'usine. La Malaisie saigne encore les arbres, mais sa fortune du caoutchouc repose désormais sur les gants médicaux, les pneus et les produits en latex qu'elle fabrique, une activité qui transforme plus de caoutchouc que le pays lui-même n'en cultive.

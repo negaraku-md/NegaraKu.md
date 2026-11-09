@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bursa-malaysia"]
 keywords: ["CelcomDigi", "Maxis", "U Mobile", "Digital Nasional Berhad", "DNB", "5G Malasia", "red 5G dual", "MCMC", "fusión de telecos", "red mayorista única"]
+framework: profile
 ---
 
 Malasia dedicó tres años a gestionar todo su despliegue de 5G a través de una única tubería de propiedad estatal; luego, en un intenso tramo de política, desmontó ese modelo, entregó una segunda red a su menor operador principal y se desvinculó por completo de la participación del Estado. El resultado es un mercado móvil que no se parece en nada al de 2021.

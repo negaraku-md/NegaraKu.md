@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-economic-policy" }
 related: ["islamic-finance", "external-trade", "bumiputera-economic-policy"]
 keywords: ["halal industry", "halal economy", "HALMAS halal park", "Halal Development Corporation", "HDC", "Halal Industry Master Plan 2030", "halal exports", "global halal hub"]
+framework: profile
 ---
 
 Un logotipo halal en un paquete de fideos instantáneos es donde la mayoría de la gente cree que termina la historia. En Malasia, está más cerca de donde la historia empieza. Detrás de esa marca hay un intento deliberado, de décadas, de transformar lo «halal» de una garantía religiosa en una industria exportadora, con parques industriales, exenciones fiscales, financiación y un plan maestro nacional como complemento.

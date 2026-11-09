@@ -54,6 +54,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["federal-constitution", "majlis-raja-raja", "ma63", "article-152-language", "fundamental-liberties"]
 keywords: ["المادة 159 الدستور الاتحادي", "Article 159 Federal Constitution", "تعديل الدستور ماليزيا", "أغلبية الثلثين البرلمان", "موافقة مجلس الحكّام", "المادة 161E صباح وساراواك", "Article 161E Sabah Sarawak", "constitutional amendment Malaysia"]
+framework: explainer
 ---
 
 تبدأ المادة 159 بإخضاع نفسها لقواعدها الخاصة. فالفقرة (5) تُعدّد الأحكام التي لا يجوز تعديلها دون موافقة مجلس الحكّام — وآخر بند في تلك القائمة هو «هذه الفقرة» نفسها. فإجراء التعديل يحمي إجراء تعديله هو. وتلك التفصيلة وحدها تُنبئك بأن الدستور الاتحادي لم يُقصَد قطّ أن يُغيَّر بقاعدة واحدة بسيطة.

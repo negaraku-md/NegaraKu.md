@@ -106,6 +106,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Malaysia does not launch rockets of its own, yet it has flown an astronaut, built and operated microsatellites, and passed a law to license private space activity before most of its neighbours. Its space sector is small and quietly strategic — threaded through broadband policy, defence, disaster monitoring and national prestige. This guide maps the agency, the law, the satellites and the ambitions that make up Malaysia's space economy.

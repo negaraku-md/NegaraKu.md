@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "court-hierarchy" }
 related: ["penal-code", "federal-constitution", "fundamental-liberties", "court-hierarchy"]
 keywords: ["SOSMA", "Security Offences Special Measures Act 2012", "Act 747", "security offence Malaysia", "28-day detention", "First Schedule Penal Code Chapter VI VIA", "protected witness"]
+framework: explainer
 ---
 
 SOSMA 不创设任何罪行。翻开 Act 747 寻找它所惩罚的罪行，你不会找到——它所处理的

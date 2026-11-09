@@ -82,6 +82,7 @@ relations:
   - { rel: "explained-in", to: "company-tax-calendar" }
 related: ["lhdn", "corporate-tax-rates", "personal-tax-rates", "which-tax-form", "form-c-and-cp204"]
 keywords: ["Income Tax Act 1967", "Act 53", "Akta Cukai Pendapatan 1967", "मलेशिया कर संविधि", "LHDN विधान", "आयकर मलेशिया"]
+framework: data-reference
 ---
 
 यह पृष्ठ Act 53 के लिए संविधि अभिलेख है — इसकी पहचान, संरचना, प्रशासन और संशोधन पैटर्न। यह दरें, राहतें या समय-सीमाएँ नहीं रखता, क्योंकि वे किसी भी संविधि पृष्ठ द्वारा ईमानदारी से ट्रैक की जा सकने से तेज़ी से बदलती हैं। वे इस पृष्ठ के नीचे लिंक किए गए कराधान समूह में रहती हैं।

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: []
 keywords: ["Competition Act 2010", "MyCC", "cartel", "price fixing", "bid rigging", "abuse of dominant position", "Competition Amendment Bill 2026"]
+framework: rules
 ---
 
 Bersepakat dengan pesaing untuk mempertahankan harga tinggi, atau secara diam-diam bergiliran memenangi tender pemerintah, bukanlah bisnis yang cerdas di Malaysia — ia merupakan pelanggaran hukum yang dapat mengorbankan suatu perusahaan sepersepuluh dari segala yang diperolehnya di seluruh dunia.

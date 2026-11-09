@@ -85,6 +85,7 @@ relations:
   - { rel: "governs", to: "cidb-act-520" }
 related: []
 keywords: ["industrie de la construction", "CIDB", "grades d'entrepreneur", "G1 G7", "Act 520", "carte verte", "enregistrement des entrepreneurs", "NCP 2030", "CITP"]
+framework: rules
 ---
 
 Essayez d'ériger une clôture d'école d'une valeur de RM250,000 sans détenir de certificat d'enregistrement d'entrepreneur, et l'arrêt immédiat de votre projet peut être ordonné — avant même que le premier poteau ne soit planté. En Malaisie, le droit de construire ne commence pas par la machinerie ou la main-d'œuvre ; il commence par un seul enregistrement.

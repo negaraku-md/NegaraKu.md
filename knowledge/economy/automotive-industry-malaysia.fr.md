@@ -109,6 +109,7 @@ entity: "Automotive industry of Malaysia"
 relations: []
 related: []
 keywords: ["industrie automobile Malaisie", "Proton", "Perodua", "National Automotive Policy", "NAP 2020", "véhicules électriques Malaisie", "TIV", "fabrication automobile Malaisie", "incitations véhicules électriques", "CKD"]
+framework: profile
 ---
 
 La plupart des pays d'Asie du Sud-Est ont laissé les constructeurs automobiles étrangers assembler sur leur sol et s'en sont tenus là. La Malaisie a fait quelque chose de plus audacieux et de plus étrange : elle a décidé que la nation devait posséder la voiture elle-même. Deux emblèmes nés de ce pari, Proton et Perodua, mettent encore aujourd'hui plus de trois voitures neuves sur cinq sur les routes malaisiennes.

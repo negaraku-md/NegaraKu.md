@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "mm2h-long-stay-visa" }
 related: ["mm2h-long-stay-visa"]
 keywords: ["medical tourism Malaysia", "MHTC Malaysia Healthcare Travel Council", "Malaysia healthcare travellers", "healthcare travel Malaysia cost", "why patients come to Malaysia for treatment"]
+framework: explainer
 ---
 
 자카르타의 한 가족이 아버지의 심장 우회술을 위해 날아옵니다. 영국의 한 부부는 본국의 대기자 명단이 자신들의 가임 기간을 넘어서기에 시험관 시술을 예약합니다. 방글라데시의 한 환자는 고향 클리닉이 할 수 없는 일상적 건강 검진을 위해 옵니다.

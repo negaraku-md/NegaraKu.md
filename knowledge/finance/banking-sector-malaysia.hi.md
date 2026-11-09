@@ -92,6 +92,7 @@ relations:
   - { rel: "governs", to: "financial-services-act-2013" }
 related: ["bank-negara-malaysia", "islamic-finance", "digital-banks-malaysia"]
 keywords: ["मलेशिया का बैंकिंग क्षेत्र", "banking sector Malaysia", "वाणिज्यिक बैंक", "commercial banks Malaysia", "इस्लामी बैंक", "Islamic banks Malaysia", "निवेश बैंक", "Financial Services Act 2013", "Islamic Financial Services Act 2013", "डिजिटल बैंक", "Bank Negara Malaysia"]
+framework: profile
 ---
 
 कुआलालंपुर में एक बैंक खाता खोलिए और आप चुपचाप उन कुछ देशों में से एक में कदम रख चुके होंगे जो दो संपूर्ण बैंकिंग प्रणालियाँ साथ-साथ चलाते हैं — पारंपरिक और इस्लामी — एक केंद्रीय बैंक और एक ही वर्ष में लिखे गए दो मेल खाते कानूनों के तहत।

@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "mahkamah-perusahaan-malaysia" }
 related: ["employment-act-1955"]
 keywords: ["akta perhubungan perusahaan 1967", "pembuangan kerja tidak adil", "seksyen 20", "mahkamah perusahaan", "kesatuan sekerja", "rundingan kolektif", "reinstatement", "unfair dismissal malaysia"]
+framework: rules
 ---
 
 Vous avez été licencié ce matin et on vous a dit que votre «rendement était insatisfaisant», mais il n'y a eu aucune lettre d'avertissement, aucune enquête interne, ni aucune possibilité de vous défendre. En Malaisie, cette situation a un nom juridique et un unique forum dédié : une représentation au titre de la section 20 de l'Industrial Relations Act 1967, examinée devant l'Industrial Court. C'est le volet des relations professionnelles que l'Employment Act 1955 ne gère pas.

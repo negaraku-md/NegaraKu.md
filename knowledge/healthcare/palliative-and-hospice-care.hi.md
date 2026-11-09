@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "healthcare-for-seniors" }
 related: ["healthcare-for-seniors"]
 keywords: ["उपशामक देखभाल", "धर्मशाला", "Hospis Malaysia", "जीवन के अंतिम चरण की देखभाल", "घर-आधारित देखभाल", "KKM", "palliative care", "hospice"]
+framework: explainer
 ---
 
 जब उपचार का उद्देश्य अब रोग को ठीक करना नहीं रह जाता, तो ध्यान एक ही चीज़ पर केंद्रित हो जाता है: मरीज़ को आरामदायक और गरिमापूर्ण बनाए रखना। यही उपशामक देखभाल का सार है — और मलेशिया में, इस तक तीन अलग-अलग माध्यमों से पहुँचा जा सकता है।

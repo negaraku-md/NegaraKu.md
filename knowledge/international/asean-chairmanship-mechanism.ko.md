@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-chairmanship-2025" }
 related: []
 keywords: ["pengerusian ASEAN", "Piagam ASEAN", "Perkara 31", "giliran abjad", "Malaysia 2025", "Filipina 2026", "Sidang Kemuncak ASEAN"]
+framework: explainer
 ---
 
 매년 1월 1일, 한 동남아시아 국가가 이 지역에서 가장 영향력 있는 의장직을 물려받습니다 — 투표도, 선거운동도 없이, 오로지 알파벳 순서에 따라서입니다.

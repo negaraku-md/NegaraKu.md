@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["register-of-members"]
 keywords: ["substantial shareholder", "register of substantial shareholders", "5% voting shares", "section 144 Companies Act 2016", "section 137 notification", "SSM", "public company", "shareholding disclosure"]
+framework: rules
 ---
 
 Lewati 5% saham berhak suara sebuah perusahaan publik dan Anda berhenti menjadi investor tanpa nama: hukum kini menginginkan nama Anda pada daftar khusus — dan jam mulai berdetak dalam hitungan hari, bukan minggu.

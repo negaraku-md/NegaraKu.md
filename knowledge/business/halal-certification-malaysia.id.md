@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: ["sst"]
 keywords: ["halal certification Malaysia", "JAKIM halal", "MYeHALAL", "halal logo Malaysia", "halal certification fee", "Trade Descriptions Order 2011"]
+framework: how-to
 ---
 
 Letakkan logo halal pada pengemasan Anda tanpa sertifikat JAKIM dan Anda bukan sekadar mengambil jalan pintas — Anda melakukan sebuah pelanggaran. Di Malaysia, klaim halal diatur oleh undang-undang, dan urusan dokumennya kini sepenuhnya daring.

@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "azizulhasni-awang" }
 related: []
 keywords: ["velodrom nasional", "Nilai", "lumba basikal trek", "keirin", "Azizulhasni Awang", "MNCF", "Majlis Sukan Negara"]
+framework: profile
 ---
 
 ニライの郊外にある屋根の長い一つの競技場が、いまやマレーシア最速の選手たちが走りを磨く場所となっている——そしてそれは、より多くのトラック世界王者を輩出するために特別に建設されたものだ。

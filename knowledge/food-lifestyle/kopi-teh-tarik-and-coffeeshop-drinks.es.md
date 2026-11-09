@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "cultural-heritage-tourism-malaysia" }
 related: ["cultural-heritage-tourism-malaysia"]
 keywords: ["kopitiam", "kopi", "teh tarik", "kopi-O", "kopi-C", "mamak", "bebidas de Malasia"]
+framework: explainer
 ---
 
 Señalas hacia el mostrador y exclamas "kopi-O peng, satu!" — y de algún modo el tío que está detrás de esa vieja cafetera entiende exactamente lo que quieres. El lenguaje de los pedidos de kopitiam parece un código secreto, pero en realidad es un sistema ordenado y lógico.

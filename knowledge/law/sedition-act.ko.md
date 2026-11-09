@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "article-153-special-position" }
 related: ["federal-constitution", "penal-code", "fundamental-liberties", "article-152-language", "article-153-special-position"]
 keywords: ["Sedition Act 1948", "Act 15", "seditious tendency", "seditious publication", "section 3 Sedition Act", "Sedition Amendment Act 2015", "Act A1485", "Malaysia sedition law"]
+framework: explainer
 ---
 
 1948년 선동법(Sedition Act 1948)은 "선동(sedition)" 자체를 정의하지 않습니다. 이 법은 **선동적 경향**을 정의하고, 그런 다음 그러한 경향을 지닌 행위, 언사 및 출판물에 죄를 부과합니다. 이 구별은 법령 전체를 관통하며, 이 법에 대한 어떠한 독해도 여기에서 시작하여야 합니다.

@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "medical-act-1971" }
 related: []
 keywords: ["pengguguran", "undang-undang pengguguran Malaysia", "Seksyen 312 Kanun Keseksaan", "penamatan kehamilan", "Akta Perubatan 1971", "garis panduan KKM"]
+framework: explainer
 ---
 
 多くの人は、マレーシアでは中絶が完全に禁止されていると考えている——しかし実際には、法律はそれをより複雑な位置に置いている。すなわち、重要な医療上の例外を伴う刑事犯罪である。その境界線がどこに引かれているかを理解するには、一般的な思い込みではなく、刑法の実際の条文を読む必要がある。

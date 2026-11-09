@@ -92,6 +92,7 @@ relations:
   - { rel: "governs", to: "financial-services-act-2013" }
 related: ["bank-negara-malaysia", "islamic-finance", "digital-banks-malaysia"]
 keywords: ["banking sector Malaysia", "commercial banks Malaysia", "Islamic banks Malaysia", "investment banks Malaysia", "Financial Services Act 2013", "Islamic Financial Services Act 2013", "digital banks Malaysia", "Bank Negara Malaysia"]
+framework: profile
 ---
 
 在吉隆坡开一个银行账户，你便悄然踏入了少数几个同时并行运作两套完整银行体系的国家之一——传统银行与伊斯兰银行——由一家中央银行监管，并由同一年制定的两部对应法律加以规范。

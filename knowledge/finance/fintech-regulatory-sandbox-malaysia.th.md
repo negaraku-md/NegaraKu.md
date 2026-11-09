@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "securities-commission-malaysia" }
 related: ["bank-negara-malaysia", "securities-commission-malaysia"]
 keywords: ["regulatory sandbox", "fintech Malaysia", "BNM sandbox", "Innovation Green Lane", "SC sandbox", "FTEG", "capital market fintech"]
+framework: explainer
 ---
 
 สร้างแอปชำระเงินใหม่หรือแพลตฟอร์มหลักทรัพย์ที่แปลงเป็นโทเคนในมาเลเซีย แล้วคุณจะชนกำแพงเดียวกัน: กฎถูกเขียนขึ้นก่อนที่ไอเดียของคุณจะมีอยู่ regulatory sandbox คือประตูที่ทะลุกำแพงนั้น — พื้นที่ที่มีการกำกับดูแลเพื่อทดสอบผลิตภัณฑ์จริงก่อนที่คุณจะถือใบอนุญาตเต็มรูปแบบ มาเลเซียมีสองแห่ง และคุณจะเคาะประตูใดขึ้นอยู่กับสิ่งที่คุณกำลังสร้าง

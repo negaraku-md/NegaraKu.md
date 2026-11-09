@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "rukun-negara" }
 related: ["rukun-negara"]
 keywords: ["bunga raya", "bunga kebangsaan", "hibiscus", "Hibiscus rosa-sinensis", "simbol kebangsaan Malaysia", "Rukun Negara", "Tunku Abdul Rahman"]
+framework: history-culture
 ---
 
 Seven kinds of flower once competed to represent a newly independent nation — and the winner was not the most fragrant or the rarest, but the one most familiar in every town and village. That flower is the bunga raya, the hibiscus.

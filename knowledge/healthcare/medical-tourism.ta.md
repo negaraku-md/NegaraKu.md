@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "mm2h-long-stay-visa" }
 related: ["mm2h-long-stay-visa"]
 keywords: ["medical tourism Malaysia", "MHTC Malaysia Healthcare Travel Council", "Malaysia healthcare travellers", "healthcare travel Malaysia cost", "why patients come to Malaysia for treatment"]
+framework: explainer
 ---
 
 ஜகார்த்தாவைச் சேர்ந்த ஒரு குடும்பம் தந்தையின் இதய பைபாஸ் அறுவைசிகிச்சைக்காக பறந்து வருகிறது. ஒரு பிரிட்டிஷ் தம்பதி IVF ஐ முன்பதிவு செய்கிறார்கள், ஏனெனில் அவர்களது சொந்த நாட்டில் காத்திருப்புப் பட்டியல் அவர்களது கருவுறுதல் காலவரம்பைத் தாண்டி நீள்கிறது. ஒரு பங்களாதேஷ் நோயாளி, தனது சொந்த ஊர் கிளினிக்கால் செய்ய முடியாத ஒரு வழக்கமான சுகாதார பரிசோதனைக்காக வருகிறார்.

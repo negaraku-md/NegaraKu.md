@@ -63,6 +63,7 @@ relations:
   - { rel: "governs", to: "penal-code-malaysia" }
 related: ["penal-code"]
 keywords: ["pertahanan diri", "hak mempertahankan diri", "Kanun Keseksaan", "seksyen 100", "seksyen 96", "self-defence Malaysia", "private defence"]
+framework: explainer
 ---
 
 நள்ளிரவில் உங்கள் சொந்த வீட்டில் ஒரு ஊடுருவுபவர் உங்களைத் தாக்குகிறார் — அந்தத் தருணத்தில், எதிர்த்துப் போராட மலேசியச் சட்டம் உங்களை அனுமதிக்கிறதா? ஆம், ஆனால் கடுமையான நிபந்தனைகளுடன்; மேலும் சட்டப்பூர்வமான தற்காப்புக்கும் குற்றத்துக்கும் இடையிலான கோடு பலர் நினைப்பதைவிட மெல்லியது.

@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "rukun-negara" }
 related: ["rukun-negara"]
 keywords: ["bunga raya", "bunga kebangsaan", "hibiscus", "Hibiscus rosa-sinensis", "simbol kebangsaan Malaysia", "Rukun Negara", "Tunku Abdul Rahman"]
+framework: history-culture
 ---
 
 ดอกไม้เจ็ดชนิดเคยแข่งขันกันเพื่อเป็นตัวแทนของประเทศที่เพิ่งได้รับเอกราช และผู้ชนะไม่ใช่ชนิดที่หอมที่สุดหรือหายากที่สุด แต่เป็นชนิดที่รู้จักกันมากที่สุดในทุกเมืองและทุกหมู่บ้าน นั่นคือบุหงารายา (ดอกชบา)

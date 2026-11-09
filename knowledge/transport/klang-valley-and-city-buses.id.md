@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "klang-valley-integrated-transit-system" }
 related: []
 keywords: ["Rapid KL bus", "MRT feeder bus", "Klang Valley bus", "Rapid Bus", "Rapid KL On-Demand", "city bus Kuala Lumpur"]
+framework: explainer
 ---
 
 Kereta api membawa Anda ke stasiun. Ia jarang membawa Anda pulang ke rumah. Celah itu — dari peron MRT atau LRT ke depan pintu rumah Anda, taman industri kantor Anda, atau pasar basah dua kawasan jauhnya — dipenuhi oleh sebuah armada yang jarang dipikirkan oleh sebagian besar penumpang: bus Rapid KL.

@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "buying-property-in-malaysia" }
 related: []
 keywords: ["CCC", "Sijil Perakuan Siap dan Pematuhan", "ubah suai rumah", "kebenaran PBT", "Akta 133", "permit renovation", "Principal Submitting Person"]
+framework: rules
 ---
 
 你想在屋后加建一间厨房，或者往上加盖一层——突然邻居说"得先向市议会申请"。这是真的吗？对于大多数装修工程，答案是：是的。

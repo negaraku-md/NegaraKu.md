@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["company-secretary-malaysia"]
 keywords: ["AMLA", "DNFBP", "reporting institution", "suspicious transaction report", "customer due diligence", "FIED", "Bank Negara Malaysia", "money laundering"]
+framework: rules
 ---
 
 La legislación contra el blanqueo de capitales no concierne únicamente a los

@@ -100,6 +100,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review (export, ranking and market-size figures flagged for verification).
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Si vous avez déjà porté un gant chirurgical, subi une prise de sang par cathéter, ou récupéré grâce à un implant orthopédique, il y a de bonnes chances que le dispositif ait été fabriqué en Malaisie. Au-delà de ses célèbres gants en caoutchouc, le pays est discrètement devenu le lieu le plus important d'Asie du Sud-Est pour fabriquer des dispositifs médicaux — et l'une des bases de fabrication medtech les plus significatives au monde.

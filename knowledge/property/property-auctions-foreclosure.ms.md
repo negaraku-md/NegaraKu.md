@@ -76,6 +76,7 @@ relations:
   - { rel: "governs", to: "national-land-code-1965" }
 related: []
 keywords: ["bank lelong", "property auction Malaysia", "foreclosure", "proclamation of sale", "LACA auction", "order for sale", "reserve price", "reserve price deposit"]
+framework: explainer
 ---
 
 Sesebuah hartanah boleh dilelong pada harga sepecahan kecil daripada nilai pasarannya — tetapi diskaun itu ialah pasaran yang menetapkan harga bagi segala kemungkinan yang boleh menjadi masalah. Bank lelong bukanlah pemburuan tawaran murah; ia adalah pertukaran harga dengan risiko yang telah diperhitungkan.

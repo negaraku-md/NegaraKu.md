@@ -53,6 +53,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["federal-constitution", "majlis-raja-raja", "ma63", "article-152-language", "fundamental-liberties"]
 keywords: ["Article 159 Federal Constitution", "amending the Constitution Malaysia", "two-thirds majority Parliament", "Conference of Rulers consent", "Article 161E Sabah Sarawak", "Perkara 159", "constitutional amendment Malaysia"]
+framework: explainer
 ---
 
 제159조는 스스로를 자신의 규칙에 종속시키며 시작합니다. 제5항은 통치자 회의(Conference of Rulers)의 동의 없이는 개정할 수 없는 조항들을 열거하는데 — 그 목록의 마지막 항목이 바로 "이 항(this Clause)" 자체입니다. 개정 절차가 자기 자신의 개정 절차를 보호하는 것입니다. 이 세부 사항 하나만으로도, 연방헌법이 단 하나의 단순한 규칙으로 바뀌도록 결코 설계되지 않았음을 알 수 있습니다.

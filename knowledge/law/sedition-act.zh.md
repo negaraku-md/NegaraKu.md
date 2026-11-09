@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "article-153-special-position" }
 related: ["federal-constitution", "penal-code", "fundamental-liberties", "article-152-language", "article-153-special-position"]
 keywords: ["Sedition Act 1948", "Act 15", "seditious tendency", "seditious publication", "section 3 Sedition Act", "Sedition Amendment Act 2015", "Act A1485", "Malaysia sedition law"]
+framework: explainer
 ---
 
 Sedition Act 1948 并未界定「煽动」（sedition）。它界定的是**煽动性倾向**，然后将

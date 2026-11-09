@@ -97,6 +97,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Malaysia sits on two of the world's busiest sea lanes and earns a large part of its living from the sea — yet its shipbuilding and ship repair (SBSR) industry is one of the quieter corners of the national economy. It is real, long-established and strategically important, but also fragmented, cyclical and dominated by relatively small yards. This guide explains what the industry builds, where, how big it is, and why one naval programme has come to overshadow the whole sector in public debate.

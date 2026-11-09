@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "article-153-special-position" }
 related: ["federal-constitution", "ma63", "sabah", "sarawak", "federal-state-division", "article-153-special-position"]
 keywords: ["Sabah Sarawak safeguards", "immigration autonomy Sabah Sarawak", "Article 161B", "Article 161E", "Article 95B List IIA", "native courts Sabah Sarawak", "Article 112C special grants", "Immigration Act 1959/63 Part VII", "special position of natives", "Federal Constitution Part XIIA"]
+framework: explainer
 ---
 
 Terbang dari Kuala Lumpur ke Kota Kinabalu atau Kuching dan anda mendarat di Malaysia — negara yang sama, pasport yang sama, mata wang yang sama — lalu beratur di kaunter imigresen. Seorang warga Malaysia dari Semenanjung yang tidak dapat menyatakan sebab yang munasabah untuk berada di sana boleh diberikan pas yang terhad kepada beberapa minggu sahaja, atau dihalau balik. Pusat pemeriksaan itu bukan sekadar keanehan birokrasi. Ia adalah salah satu daripada satu set perlindungan yang termaktub dalam Perlembagaan Persekutuan apabila Sabah dan Sarawak menyertai Persekutuan pada tahun 1963.

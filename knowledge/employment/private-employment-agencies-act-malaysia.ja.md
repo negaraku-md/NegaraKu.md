@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["employment-act-1955"]
 keywords: ["agensi pekerjaan swasta", "Akta 246", "lesen headhunting", "carian eksekutif", "JTKSM", "yuran penempatan"]
+framework: rules
 ---
 
 マレーシアでヘッドハンティング会社を開業し、ライセンスなしに候補者と使用者のマッチングを始めれば、それは単なる手続き違反ではない——6桁の罰金につながりうる犯罪を犯していることになる。求職者を使用者に紹介するあらゆる事業は、マレー半島労働局（Jabatan Tenaga Kerja Semenanjung Malaysia、JTKSM）によって執行される**1981年民間職業紹介機関法（Private Employment Agencies Act 1981、Act 246）**の適用を受ける。

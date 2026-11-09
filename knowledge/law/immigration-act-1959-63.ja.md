@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "expatriate-services-division" }
 related: ["employment-pass-malaysia"]
 keywords: ["Immigration Act 1959/63", "Act 155", "Malaysia visa", "employment pass", "overstay penalty Malaysia", "Section 15(4)", "Section 6(3)", "deportation", "dependant pass", "work permit Malaysia"]
+framework: rules
 ---
 
 パスポートに有効なビザがあっても、それだけではマレーシアに足を踏み入れることはできない——そして、滞在しすぎたときにトラブルを引き起こすのも、その書類ではない。この二つの役目はいずれも一つの法律に属している：**1959/63年移民法（Immigration Act 1959/63、Act 155）**——誰が国境を越えられるか、入国後に何ができるか、そして在留の条件に違反したときに何が起きるかを決める法規である。

@@ -96,6 +96,7 @@ keywords:
   - Mineral Development Act 1994
   - JMG
   - Lynas
+framework: profile
 ---
 
 Ekonomi modern Malaysia, secara harfiah, digali dari dalam tanah. Jauh sebelum minyak sawit, elektronik, atau semikonduktor, **timah**-lah yang membuat semenanjung ini penting bagi dunia — membiayai rel kereta, menumbuhkan kota-kota seperti Ipoh dan Kuala Lumpur, serta menarik generasi demi generasi penambang migran. Pertambangan adalah kisah industri tertua negara ini, dan meski tak lagi mendominasi ekonomi, ia diam-diam ditulis ulang di seputar hadiah yang sangat modern: unsur tanah jarang.

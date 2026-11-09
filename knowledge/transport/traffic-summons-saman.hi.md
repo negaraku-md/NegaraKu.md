@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "pdrm" }
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["मलेशिया यातायात समन", "saman trafik Malaysia", "JPJ समन जाँच", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "यातायात कंपाउंड", "kompaun trafik"]
+framework: how-to
 ---
 
 एक चालक को चार प्रकार के समन मिल सकते हैं जो कागज़ पर एक जैसे दिखते हैं — लेकिन वे चार अलग-अलग पक्षों से आते हैं, और हर एक को एक अलग जगह जाँचना होता है। बहुत से लोग केवल एक ही पोर्टल जानते हैं, और मान लेते हैं कि उनका समन «गायब» हो गया है जबकि वह असल में एक अलग प्रणाली में पड़ा होता है।

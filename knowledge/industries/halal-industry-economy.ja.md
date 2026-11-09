@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-economic-policy" }
 related: ["islamic-finance", "external-trade", "bumiputera-economic-policy"]
 keywords: ["halal industry", "halal economy", "HALMAS halal park", "Halal Development Corporation", "HDC", "Halal Industry Master Plan 2030", "halal exports", "global halal hub"]
+framework: profile
 ---
 
 インスタントラーメンのパッケージに記されたハラルマーク——多くの人はそこで物語が終わると考える。マレーシアでは、それはむしろ物語が始まる地点に近い。そのマークの背後には、「ハラル」を宗教的な保証から輸出産業へと転換しようとする、数十年にわたる意図的な取り組みがある——工業団地、税制優遇、融資、そして国家マスタープランを伴って。

@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["employment-act-1955"]
 keywords: ["agensi pekerjaan swasta", "Akta 246", "lesen headhunting", "carian eksekutif", "JTKSM", "yuran penempatan"]
+framework: rules
 ---
 
 மலேசியாவில் ஒரு ஹெட்ஹண்டிங் நிறுவனத்தைத் தொடங்கி, உரிமம் இல்லாமல் வேட்பாளர்களை முதலாளிகளுடன் இணைக்கத் தொடங்கினால், நீங்கள் வெறும் நடைமுறையை மீறுவது மட்டுமல்ல — ஆறு இலக்க அபராதத்திற்கு வழிவகுக்கக்கூடிய ஒரு குற்றத்தைச் செய்கிறீர்கள். வேலை தேடுவோரை முதலாளிகளுடன் இணைக்கும் ஒவ்வொரு வணிகமும் தொழிலாளர் துறை (Jabatan Tenaga Kerja) அமல்படுத்தும் **Private Employment Agencies Act 1981 (Akta 246)** இன் கீழ் வருகிறது.

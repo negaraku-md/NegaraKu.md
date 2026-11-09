@@ -97,6 +97,7 @@ keywords:
   - trung tâm năng lực toàn cầu
   - Malaysia Digital
   - offshoring
+framework: profile
 ---
 
 Đâu đó ở Cyberjaya hay Kuala Lumpur ngay lúc này, một kế toán viên đang chốt sổ sách hàng tháng cho một công ty có trụ sở tại London, một nhân viên tổng đài đang giải quyết một yêu cầu cho một khách hàng ở Sydney, và một chuyên viên phân tích dữ liệu đang dựng một bảng điều khiển cho một nhà máy ở Đức. Không có nhà tuyển dụng nào trong số đó chế tạo bất cứ thứ gì ở Malaysia. Điều họ vận hành ở đây là một thứ ít hữu hình hơn nhưng ngày càng có giá trị: bộ phận hậu cần toàn cầu của họ.

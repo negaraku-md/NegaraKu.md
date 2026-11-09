@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "freedom-of-information-malaysia" }
 related: []
 keywords: ["Akta Rahsia Rasmi 1972", "Official Secrets Act", "Akta 88", "rahsia rasmi", "pengelasan dokumen", "seksyen 16A", "keselamatan negara", "kebebasan media", "OSA Malaysia"]
+framework: rules
 ---
 
 一名收到内阁会议记录副本的记者、一名在军营附近进行测量的研究人员，以及一名保管标记为「秘密」（Sulit）档案的官员——这三人都可能触及同一部法律。《1972年官方机密法令》，即第88号法令，是马来西亚官方保密制度的支柱，其涵盖范围远不止于间谍事务。

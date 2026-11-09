@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "traffic-summons-saman" }
 related: ["pdrm", "traffic-summons-saman"]
 keywords: ["999 Malaysia", "MERS 999", "NG999", "ambulance d'urgence Malaisie", "service des urgences", "triage zone rouge jaune verte", "ambulance gratuite", "frais urgences hôpital public"]
+framework: explainer
 ---
 
 Vous composez le 999. La voix à l'autre bout vous demande votre nom, votre emplacement et ce qui s'est passé, et dans le délai de réponse visé, une équipe d'ambulance devrait déjà être en route. Mais beaucoup de gens ne savent pas ce qui se passe réellement derrière cet appel : qui répond vraiment, si c'est gratuit, et pourquoi un autre patient arrivé plus tard à l'hôpital est parfois soigné avant vous.

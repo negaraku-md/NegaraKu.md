@@ -81,6 +81,7 @@ relations:
   - { rel: "supersedes", to: "factories-and-machinery-act-1967" }
 related: ["labour-law-map-malaysia", ]
 keywords: ["OSHA 1994", "Akta 514", "tanggungjawab majikan", "DOSH", "évaluation des risques", "JKKP 6", "sécurité au travail"]
+framework: rules
 ---
 
 Un ouvrier tombe d'un échafaudage, et la première question de l'enquêteur n'est pas « qui a été négligent ? », mais « l'employeur a-t-il fait tout ce qui était possible pour l'éviter ? ». C'est le cœur de l'Occupational Safety and Health Act 1994 (Act 514), ou OSHA 1994.

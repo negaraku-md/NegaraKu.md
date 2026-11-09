@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "majlis-raja-raja" }
 related: ["dewan-rakyat", "federal-state-division", "spr-election-commission", "majlis-raja-raja", "federal-constitution"]
 keywords: ["Dewan Undangan Negeri", "DUN", "badan perundangan negeri", "Jadual Kelapan", "Perkara 71", "peruntukan penting", "Yang di-Pertua Negeri", "Menteri Besar", "enakmen negeri", "State Legislative Assembly Malaysia"]
+framework: explainer
 ---
 
 Tanah ialah urusan negeri. Undang-undang keluarga Islam ialah urusan negeri. Kerajaan tempatan ialah urusan negeri. Tetapi siapa yang benar-benar meluluskan undang-undang bagi perkara-perkara ini di sesebuah negeri, dan menurut peraturan apa? Jawapannya bukan urusan bicara atau amalan sahaja — ia tertulis, seksyen demi seksyen, dalam sebuah jadual di hujung Perlembagaan Persekutuan.

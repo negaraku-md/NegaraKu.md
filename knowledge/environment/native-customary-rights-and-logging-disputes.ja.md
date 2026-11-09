@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "orang-asal-indigenous-peoples" }
 related: []
 keywords: ["native customary rights", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "logging disputes", "native title"]
+framework: explainer
 ---
 
 ある長屋（ロングハウス）コミュニティは、ある森林地帯が何世代にもわたって自分たちのものだったと主張する。木材会社や農園会社は、州政府が発行した、同じ土地を対象とするライセンスを保持している。双方とも法律を根拠としている。サラワクとサバでは、この衝突が20年以上にわたって法廷で争われてきた——そして裁判所は、どこに境界線を引くべきかについて、常に一致してきたわけではない。

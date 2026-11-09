@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["bahasa-melayu", "mak-yong"]
 keywords: ["industri filem Malaysia", "sinema Malaysia", "P. Ramlee", "FINAS", "Malay Film Productions", "Jalan Ampas", "Mat Kilau", "Tiger Stripes", "Da Huang Pictures", "Malaysian New Wave"]
+framework: profile
 ---
 
 Năm 1955, một chàng trai từng làm *clapper* và phụ máy quay tại một xưởng phim ở số 8 Jalan Ampas, Singapore, lần đầu ngồi vào ghế đạo diễn ở tuổi 26. Bộ phim là *Penarek Becha*. Tên anh là P. Ramlee. Câu chuyện của ngành điện ảnh Malaysia bắt đầu không phải ở Kuala Lumpur, mà ở một xưởng phim Singapore do hai anh em từ Thượng Hải làm chủ — và nó chưa từng ngừng chuyển động kể từ đó.

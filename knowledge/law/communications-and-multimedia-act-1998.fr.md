@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "sedition-act-1948" }
 related: ["federal-constitution"]
 keywords: ["akta komunikasi dan multimedia 1998", "section 233", "Section 233", "SKMM", "MCMC", "usage indû des installations de réseau", "discours en ligne", "liberté d'expression", "akta 588"]
+framework: explainer
 ---
 
 Un commentaire sur Facebook, un tweet ou un message WhatsApp transféré peut devenir le fondement d'une poursuite pénale en Malaisie. La disposition juridique la plus fréquemment citée dans de telles situations n'est ni la Sedition Act ni le droit de la diffamation, mais la section 233 de la Communications and Multimedia Act 1998.

@@ -96,6 +96,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 La Malaisie chevauche certaines des plus anciennes forêts tropicales de la Terre, et pendant une grande partie de son histoire moderne, le commerce du bois dur tropical a été l'un des piliers de l'économie nationale. Ce monde amont — les forêts elles-mêmes, les licences pour les exploiter, et la première transformation des grumes brutes en bois — est une industrie distincte des usines de meubles et des exportateurs de produits du bois plus en aval de la chaîne. Ce guide couvre le **secteur de la foresterie et de la ressource en bois** : d'où vient le bois, qui le contrôle, comment il est exporté, et les pressions de durabilité et de marché qui le remodèlent désormais.

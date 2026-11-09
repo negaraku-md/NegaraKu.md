@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "auditor-independence" }
 related: ["companies-act-2016"]
 keywords: ["artículo 266", "auditor", "SSM", "Ley de Sociedades de 2016", "comunicación de infracciones", "fraude", "Registrador", "Section 266", "Companies Act 2016"]
+framework: rules
 ---
 
 Un auditor que descubre un fraude durante una auditoría no puede simplemente guardar silencio y firmar el informe — la ley exige un informe por escrito al Registrador. Este deber no es opcional, e ignorarlo es en sí mismo un delito.

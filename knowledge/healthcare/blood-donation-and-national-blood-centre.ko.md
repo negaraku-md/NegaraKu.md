@@ -72,6 +72,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
 related: []
 keywords: ["derma darah", "Pusat Darah Negara", "PDN", "syarat menderma darah", "keistimewaan penderma", "blood donation Malaysia"]
+framework: how-to
 ---
 
 PDN에 따르면, 한 번의 헌혈은 적어도 세 명의 생명을 구할 수 있습니다 — 전혈이 적혈구, 혈소판, 혈장으로 가공되어 서로 다른 환자에게 쓰이기 때문입니다.

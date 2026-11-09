@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "macc-anti-corruption-malaysia" }
 related: []
 keywords: ["pengaturan perlawanan", "match-fixing", "pertaruhan sukan", "Akta Rumah Judi Terbuka 1953", "Akta Pertaruhan 1953", "SPRM", "integriti sukan", "bola sepak Malaysia"]
+framework: explainer
 ---
 
 When more than 100 footballers were rounded up by police during the 1993–1994 season, it was not merely a sporting crisis — it opened a legal question that remains not fully resolved today: how does a country that prohibits almost all sports betting deal with a crime born of that very betting?

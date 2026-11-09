@@ -90,6 +90,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-investment-trade-and-industry" }
 related: ["electrical-electronics-industry"]
 keywords: ["semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "advanced packaging", "chip industry Malaysia", "Penang Silicon Valley", "MIDA", "IC design"]
+framework: profile
 ---
 
 地球上几乎每一部手机、每一台笔记本电脑、每一辆汽车，都搭载着一枚曾在马来西亚度过部分「生命」的芯片——在槟城或巴生谷的工厂里完成封装、测试并出货。然而，五十年来，这个国家承担的却是这项工作中最不光鲜、利润最薄的环节：后端。国家半导体战略正是马来西亚试图改变自己在芯片链条上所占环节的努力。

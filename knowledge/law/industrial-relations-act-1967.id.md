@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "mahkamah-perusahaan-malaysia" }
 related: ["employment-act-1955"]
 keywords: ["akta perhubungan perusahaan 1967", "pembuangan kerja tidak adil", "seksyen 20", "mahkamah perusahaan", "kesatuan sekerja", "rundingan kolektif", "reinstatement", "unfair dismissal malaysia"]
+framework: rules
 ---
 
 Anda dipecat pagi tadi dan diberi tahu "kinerja tidak memuaskan" — tetapi tidak ada surat peringatan, tidak ada investigasi internal, dan tidak ada peluang membela diri. Di Malaysia, situasi ini punya nama hukum dan satu forum khusus: representasi di bawah Pasal 20 Industrial Relations Act 1967, disidangkan di Mahkamah Perusahaan. Inilah lapisan hubungan perburuhan yang tidak diurus oleh Employment Act 1955.

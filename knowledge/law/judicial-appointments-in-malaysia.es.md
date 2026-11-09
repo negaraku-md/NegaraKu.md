@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "constitutional-amendment" }
 related: ["court-hierarchy", "constitutional-amendment"]
 keywords: ["nombramiento de jueces", "pelantikan hakim", "Suruhanjaya Pelantikan Kehakiman", "Perkara 122B", "Perkara 125", "independencia judicial", "tribunal de jueces", "Ketua Hakim Negara"]
+framework: explainer
 ---
 
 Cada vez que un nuevo Presidente de la Corte Suprema (Chief Justice) presta juramento, resurge una vieja pregunta: ¿quién elige realmente a esa persona y quién puede destituirla? En Malasia, la respuesta implica dos etapas distintas, dos documentos jurídicos diferentes y un debate sin resolver sobre dónde debería residir ese poder.

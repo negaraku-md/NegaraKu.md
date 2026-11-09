@@ -78,6 +78,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["batik", "gawai-dayak", "sarawak"]
 keywords: ["pua kumbu", "tenunan Iban", "ikat lungsi", "kebat", "engkudu", "ngar", "kain upacara Sarawak", "Bangie Embol"]
+framework: history-culture
 ---
 
 Une étoffe que sa tisseuse n'ose pas créer sans une «bénédiction» : on dit que ses motifs arrivent en rêve, et elle fut autrefois étroitement liée à la tradition guerrière du peuple qui la fabriquait. Voilà le pua kumbu.

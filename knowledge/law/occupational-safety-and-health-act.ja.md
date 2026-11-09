@@ -81,6 +81,7 @@ relations:
   - { rel: "supersedes", to: "factories-and-machinery-act-1967" }
 related: ["labour-law-map-malaysia", ]
 keywords: ["OSHA 1994", "Akta 514", "tanggungjawab majikan", "DOSH", "penilaian risiko", "JKKP 6", "keselamatan pekerjaan"]
+framework: rules
 ---
 
 労働者が足場から転落したとき、調査官が最初に問うのは「誰が過失を犯したか」ではなく——「使用者は、それを防ぐために実行可能なあらゆる措置を講じていたか」である。これこそが1994年労働安全衛生法（Occupational Safety and Health Act 1994、Act 514）、通称OSHA 1994の核心である。

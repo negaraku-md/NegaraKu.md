@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "auditor-independence" }
 related: ["companies-act-2016"]
 keywords: ["seksyen 266", "juruaudit", "SSM", "Akta Syarikat 2016", "pelaporan pelanggaran", "penipuan", "Pendaftar"]
+framework: rules
 ---
 
 தணிக்கையின்போது மோசடியைக் கண்டுபிடிக்கும் ஒரு தணிக்கையாளர் வெறுமனே அமைதியாக இருந்து அறிக்கையில் கையெழுத்திட முடியாது — பதிவாளரிடம் எழுத்துப்பூர்வ அறிக்கை செய்ய வேண்டும் என்று சட்டம் வலியுறுத்துகிறது. இந்தக் கடமை விருப்பத்தேர்வு அல்ல, அதைப் புறக்கணிப்பது தானே ஒரு குற்றமாகும்.

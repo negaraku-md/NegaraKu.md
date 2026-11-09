@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "kos-sara-hidup-malaysia" }
 related: []
 keywords: ["B40", "M40", "T20", "pendapatan isi rumah", "DOSM", "kos sara hidup", "median pendapatan"]
+framework: explainer
 ---
 
 ชาวมาเลเซียส่วนใหญ่รู้จักป้ายกำกับ B40, M40 และ T20 — แต่ป้ายกำกับเหล่านั้นไม่ได้มาจากสลิปเงินเดือนของคุณ มันมาจากตำแหน่งของครัวเรือนของคุณในรายการยาวรายการหนึ่งที่ครอบคลุมทั้งประเทศ

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "statutory-demand-section-466-malaysia" }
 related: ["companies-act-2016"]
 keywords: ["winding up by court", "compulsory winding up", "section 466", "statutory demand", "Fortuna injunction", "RM50000 threshold", "Companies Act 2016", "insolvency Malaysia", "creditor petition"]
+framework: explainer
 ---
 
 변제받지 못한 송장 하나가 회사를 끝장낼 수 있습니다. 말레이시아에서 RM50,000을 초과하는 채권을 가진 채권자는 상법상 가장 극단적인 구제 수단 — 채무자를 청산하고 남은 것을 분배하라는 법원 명령 — 에 이르기 위해 판결을 필요로 하지 않습니다.

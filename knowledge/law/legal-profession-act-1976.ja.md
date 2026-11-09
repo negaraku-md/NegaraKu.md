@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
 related: ["federal-constitution"]
 keywords: ["Akta Profesion Guaman 1976", "Majlis Peguam", "Malaysian Bar", "peguam bela dan peguam cara", "Lembaga Tatatertib", "Akta 166", "profesion guaman Malaysia"]
+framework: explainer
 ---
 
 クアラルンプール、ジョホールバル、あるいはペナンの法廷に立つすべての弁護士は、同一の一枚の法律のもとで職務を行っている——そして、もし道を誤れば、同じ法律が彼のキャリアを終わらせることもありうる。それが1976年法律専門職法（Legal Profession Act 1976、Act 166）である。この法律は、マレー半島（西マレーシア）の法律専門職を統一し、弁護士評議会（Bar Council）及び独立した懲戒委員会の監督下に置く屋台骨である。

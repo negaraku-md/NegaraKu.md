@@ -90,6 +90,7 @@ keywords:
   - "kadar LKM kW"
   - "cukai jalan kenderaan elektrik JPJ"
   - "road tax EV Malaysia"
+framework: explainer
 ---
 
 Thời kỳ thuế đường bộ miễn phí cho xe điện ở Malaysia đã kết thúc — nhưng hóa đơn đầu tiên xuất hiện trong MyJPJ của bạn có thể rẻ hơn bạn nghĩ, và nó được tính theo một cách hoàn toàn mới.

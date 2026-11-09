@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "rukun-negara" }
 related: ["rukun-negara"]
 keywords: ["bunga raya", "bunga kebangsaan", "hibiscus", "Hibiscus rosa-sinensis", "simbol kebangsaan Malaysia", "Rukun Negara", "Tunku Abdul Rahman"]
+framework: history-culture
 ---
 
 일곱 종류의 꽃이 갓 독립한 나라를 대표하기 위해 경쟁한 적이 있습니다. 그리고 승자는 가장 향기롭거나 가장 희귀한 꽃이 아니라, 모든 읍내와 마을에서 가장 잘 알려진 꽃이었습니다. 그것이 바로 붕아 라야입니다.

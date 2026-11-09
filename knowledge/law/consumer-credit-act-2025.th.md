@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "hire-purchase-act-1967" }
 related: []
 keywords: ["Akta Kredit Pengguna 2025", "Consumer Credit Act", "BNPL Malaysia", "Suruhanjaya Kredit Pengguna", "Akta Sewa Beli 1967", "kadar faedah berkesan", "Rule of 78"]
+framework: explainer
 ---
 
 ผ่อนชำระสามเดือนสำหรับรองเท้าคู่หนึ่ง หรือขับรถใหม่กลับบ้านด้วยเงินดาวน์ร้อยละ 10 — สองธุรกรรมสินเชื่อที่พบบ่อยสำหรับชาวมาเลเซีย แต่จนกระทั่งเมื่อไม่นานมานี้อยู่ภายใต้โลกทางกฎหมายที่แตกต่างกันมาก บัดนี้ ทั้งสองกำลังได้รับการจัดระเบียบใหม่ในเวลาที่เกือบพร้อมกัน

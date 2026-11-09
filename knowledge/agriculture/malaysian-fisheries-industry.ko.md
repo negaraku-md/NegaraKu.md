@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "mmea" }
 related: []
 keywords: ["industri perikanan malaysia", "pengeluaran ikan malaysia", "akuakultur malaysia", "lkim nelayan", "jabatan perikanan malaysia", "akta perikanan 1985", "pencerobohan bot nelayan asing", "iuu fishing malaysia"]
+framework: profile
 ---
 
 말라카 해협과 남중국해를 따라 늘어선 부두에서 새벽이 오기 전, 수천 척의 연안 어선이 온 나라가 먹는 어류의 거의 10분의 9를 대기 위해 바다로 나갑니다. 같은 시각, 더 먼 수역에서는 말레이시아 국기를 달지 않은 트롤선이 눈에 보이지 않는 경계를 가로질러 그물을 끌고 있습니다.

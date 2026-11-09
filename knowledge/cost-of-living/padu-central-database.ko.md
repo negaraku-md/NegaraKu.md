@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "str-sumbangan-tunai-rahmah" }
 related: []
 keywords: ["PADU", "Pangkalan Data Utama", "subsidi bersasar", "padu.gov.my", "Kementerian Ekonomi", "DOSM"]
+framework: explainer
 ---
 
 전면 보조금을 더 대상화된 지원으로 전환하려면, 정부는 국민의 사회경제 상황을 알아야 합니다. PADU는 그 목적을 위해 구축된 데이터베이스입니다.

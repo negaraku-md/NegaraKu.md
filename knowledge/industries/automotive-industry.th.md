@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "national-automotive-policy" }
 related: []
 keywords: ["Proton", "Perodua", "national car", "Geely", "DRB-HICOM", "UMW", "Sime Darby", "National Automotive Policy", "NAP 2020", "electric vehicles Malaysia", "e.MAS 7", "QV-E"]
+framework: profile
 ---
 
 มีไม่กี่ประเทศที่มีขนาดเท่ามาเลเซียเคยพยายามสร้างรถยนต์ขึ้นมาจากศูนย์ และยิ่งน้อยกว่านั้นที่มีแบรนด์ที่เติบโตในประเทศสองแบรนด์จอดอยู่ในลานจอดรถส่วนใหญ่ของชาติ ขับผ่านเมืองใด ๆ ในมาเลเซีย การจราจรบอกเล่าเรื่องราวของนโยบายอุตสาหกรรมที่จงใจ: Perodua Myvi ที่ไฟจราจร Proton Saga อยู่ข้างหลัง ทั้งคู่สืบเชื้อสายมาจากการพนันในทศวรรษ 1980 ว่าเศรษฐกิจกำลังพัฒนาสามารถผลิตรถยนต์ของตนเองได้

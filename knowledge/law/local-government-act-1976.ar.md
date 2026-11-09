@@ -67,6 +67,7 @@ wikidata: "Q25475395"
 relations: []
 related: []
 keywords: ["قانون الحكومة المحلية 1976", "السلطة المحلية", "ضريبة التقييم", "انتخابات المجالس المحلية", "Local Government Act 1976", "Act 171", "Akta Kerajaan Tempatan 1976", "local authority Malaysia", "PBT", "Pihak Berkuasa Tempatan", "majlis perbandaran", "majlis daerah", "assessment tax", "cukai pintu", "local council elections Malaysia", "appointed councillors", "National Council for Local Government", "third vote Malaysia"]
+framework: explainer
 ---
 
 إذا تساءلت يومًا لماذا لم تُدرج أي ورقة اقتراع ماليزية قط مرشحًا لمنصب رئيس بلدية، فإن الجواب هو قانون واحد. إن **Local Government Act 1976 (Act 171)** — وعنوانه الطويل «قانون لمراجعة وتوحيد القوانين المتعلقة بالحكومة المحلية» — هو القانون الذي يُنشئ كل مجلس مدينة وبلدية ومجلس محلي في شبه جزيرة ماليزيا، ويُعيّن من يُديرونها، ويمنحها سلطة فرض الضرائب والغرامات عليك. وقد نال الموافقة الملكية في **18 مارس 1976** ونُشر في الجريدة الرسمية في 25 مارس 1976. وخلافًا لما يقوله كثير من مصادر الإنترنت، **تنص المادة 1(1) على أنه لا يسري إلا على شبه جزيرة ماليزيا**؛ أما صباح وساراواك فتحتفظان بمراسيمهما الخاصة.

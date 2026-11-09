@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "national-education-system" }
 related: []
 keywords: ["pusat tuisyen", "ट्यूशन केंद्र", "tuition centre", "निजी कोचिंग", "Akta Pendidikan 1996", "IPS पंजीकरण", "permit mengajar", "JPN"]
+framework: rules
 ---
 
 कई मलेशियाई परिवारों में, स्कूल के बाद की ट्यूशन कक्षाएँ स्वयं गृहकार्य जितनी ही नियमित बन गई हैं — फिर भी ऐसी कक्षा खोलने वाला हर केंद्र वास्तव में उन्हीं स्कूली कानूनों से बँधा है।

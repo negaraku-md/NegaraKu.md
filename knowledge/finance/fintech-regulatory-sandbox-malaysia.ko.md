@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "securities-commission-malaysia" }
 related: ["bank-negara-malaysia", "securities-commission-malaysia"]
 keywords: ["regulatory sandbox", "fintech Malaysia", "BNM sandbox", "Innovation Green Lane", "SC sandbox", "FTEG", "capital market fintech"]
+framework: explainer
 ---
 
 말레이시아에서 새로운 지급 앱이나 토큰화 증권 플랫폼을 만들면 같은 벽에 부딪힙니다: 규칙은 여러분의 아이디어가 존재하기 전에 쓰였습니다. 규제 샌드박스는 그 벽을 통과하는 문입니다 — 완전한 인가를 보유하기 전에 실제 상품을 테스트하는 감독된 공간입니다. 말레이시아에는 두 개가 있으며, 어느 쪽 문을 두드릴지는 여러분이 무엇을 만드는지에 달려 있습니다.

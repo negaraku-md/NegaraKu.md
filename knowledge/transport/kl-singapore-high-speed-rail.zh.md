@@ -78,6 +78,7 @@ relations:
   - { rel: "compares-with", to: "johor-bahru-singapore-rts-link" }
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["KL Singapore HSR", "high-speed rail Malaysia", "MyHSR Corp", "HSR termination compensation", "HSR revival RFP"]
+framework: history-culture
 ---
 
 一列能在约90分钟内将你从吉隆坡送到新加坡的子弹列车，历经签署、暂停、终止、哀悼，再到重生——而这一切都发生在还没铺下一寸轨道之前。以下是这个反反复复的项目究竟进展到了哪一步。

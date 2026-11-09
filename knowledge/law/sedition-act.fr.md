@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "article-153-special-position" }
 related: ["federal-constitution", "penal-code", "fundamental-liberties", "article-152-language", "article-153-special-position"]
 keywords: ["Sedition Act 1948", "Act 15", "seditious tendency", "seditious publication", "section 3 Sedition Act", "Sedition Amendment Act 2015", "Act A1485", "Malaysia sedition law"]
+framework: explainer
 ---
 
 La Loi sur la sédition de 1948 ne définit pas la «sédition». Elle définit une **tendance séditieuse**, puis rattache des infractions aux actes, aux paroles et aux publications qui en ont une. La distinction traverse l'ensemble du texte de loi, et c'est là que toute lecture de la Loi doit commencer.

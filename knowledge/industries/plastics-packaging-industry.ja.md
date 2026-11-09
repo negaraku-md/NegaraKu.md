@@ -97,6 +97,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 マレーシアの工場から出てくるほぼすべての物理的な製品――インスタントラーメンの一袋、スマートフォン、車のバンパー、一本の水道管――は、国内のどこかで成形されたプラスチックに依存している。プラスチックはマレーシアの静かな産業的強みの一つだ。半導体ほど華やかではないが、他のほぼすべての製造部門に織り込まれ、そしてますます、廃棄物と持続可能性をめぐる国内の議論にも織り込まれている。

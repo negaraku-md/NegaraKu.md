@@ -83,6 +83,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: explainer
 ---
 
 Hãy lặn ống thở trên một rạn san hô ngoài khơi Tioman hoặc Redang, và làn nước trong vắt, những con cá được bảo vệ cùng các quy tắc "không đánh bắt, không thả neo" mà bạn đã được dặn dò không chỉ là phép lịch sự — chúng là luật. Đạo luật đứng sau chúng là **Đạo luật Nghề cá 1985 (Fisheries Act 1985)**, Act 317 trong bộ luật của Malaysia, và nó điều chỉnh nhiều thứ hơn là du lịch: nó là xương sống của cách Malaysia quản lý việc đánh bắt cá và bảo vệ sinh vật biển trên khắp vùng biển của mình.

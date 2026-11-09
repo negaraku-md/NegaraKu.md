@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "solvency-statement" }
 related: []
 keywords: ["pembelian balik saham", "share buy-back", "saham perbendaharaan", "treasury shares", "Seksyen 127", "Akta Syarikat 2016", "Bursa Malaysia", "Bab 12"]
+framework: rules
 ---
 
 บริษัทสามารถซื้อหุ้นของตนเองคืนและเก็บไว้ "ในคลัง" ได้ — แต่เฉพาะเมื่อบริษัทจดทะเบียน สามารถชำระหนี้ได้ และยึดตามเพดานที่เข้มงวดที่ 10%

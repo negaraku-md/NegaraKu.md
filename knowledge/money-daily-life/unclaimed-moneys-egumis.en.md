@@ -67,6 +67,7 @@ relations:
   - { rel: "governs", to: "unclaimed-moneys-act-1965" }
 related: []
 keywords: ["wang tak dituntut", "eGUMIS", "unclaimed moneys", "Akta Wang Tak Dituntut 1965", "Jabatan Akauntan Negara", "JANM", "wang dorman", "bayaran balik"]
+framework: how-to
 ---
 
 Your money may be waiting in a government database without you even knowing — dividends you never got around to claiming, the balance of an old bank account, or an insurance payout that never reached you. It all accumulates under one official name: Unclaimed Money (UM).

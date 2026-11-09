@@ -100,6 +100,7 @@ relations:
   - { rel: "related-to", to: "strata-titles-act-1985" }
 related: []
 keywords: ["HDA", "Act 118", "Jadual H", "Jadual G", "ganti rugi lewat", "LAD", "milikan kosong", "lesen pemaju", "APDL", "Tribunal Tuntutan Pembeli Rumah"]
+framework: rules
 ---
 
 Usted paga un 10% de depósito por un condominio que solo existe como el dibujo de un arquitecto y luego espera tres años mientras atiende las cuotas de su préstamo. ¿Qué impide que el promotor se marche con su dinero, construya con lentitud o le entregue una unidad defectuosa? La respuesta es una ley de más de medio siglo de antigüedad: la Housing Development (Control and Licensing) Act 1966, conocida en forma abreviada como la HDA o Act 118.

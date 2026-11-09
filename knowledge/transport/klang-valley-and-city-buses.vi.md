@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "klang-valley-integrated-transit-system" }
 related: []
 keywords: ["Rapid KL bus", "MRT feeder bus", "Klang Valley bus", "Rapid Bus", "Rapid KL On-Demand", "city bus Kuala Lumpur"]
+framework: explainer
 ---
 
 Con tàu đưa bạn đến một nhà ga. Nó hiếm khi đưa bạn về đến nhà. Khoảng trống đó — từ sân ga MRT hoặc LRT đến cửa nhà bạn, khu văn phòng của bạn hay chợ ướt cách hai khu phố — được lấp bởi một đội xe mà phần lớn hành khách hầu như không nghĩ đến: các xe buýt Rapid KL.

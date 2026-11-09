@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "epf-retirement-savings" }
 related: []
 keywords: ["belanjawanku", "kos sara hidup", "KWSP", "EPF", "belanjawan rujukan", "taraf hidup munasabah", "Lembah Klang", "SWRC"]
+framework: explainer
 ---
 
 ‘கிள்ளான் பள்ளத்தாக்கில் ஒரு தனிநபர் வாழ மாதம் RM2,800 போதுமா?’ இது போன்ற கேள்விகளுக்குத்தான் Belanjawanku பதிலளிக்க முயல்கிறது — ஊகத்தால் அல்ல, மாறாக நகர்ப்புற வீடுகளின் உண்மையான செலவு முறைகளிலிருந்து உருவாக்கப்பட்ட குறிப்பு எண்களால்.

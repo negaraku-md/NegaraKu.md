@@ -101,6 +101,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 텍사스나 캘리포니아의 어느 가정에서, 그 식탁 의자나 침대 프레임, 책장이 말레이시아에서 — 그것도 한 도시 일대에서, 한때 장갑과 타이어용 라텍스를 내던 고무나무의 목재로 — 만들어졌을 가능성이 꽤 높습니다. 말레이시아의 가구·목재 제품 산업은 제조 경제의 조용한 중량급 중 하나입니다. 화려하지는 않지만, 플랜테이션 부문의 부산물을 전 세계에 팔리는 완제품으로 바꿔 온 꾸준한 세계 상위 10대 수출국입니다.

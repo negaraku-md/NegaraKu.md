@@ -95,6 +95,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Hampir setiap ringgit yang dibelanjakan rakyat Malaysia ke atas barangan fizikal — barangan runcit, telefon, kereta, sebotol minyak masak — melalui perdagangan runcit dan borong. Ia ialah paip kepada penggunaan harian: rangkaian pengimport, pemborong, pengedar, kedai, pasar dan gedung dalam talian yang menggerakkan produk daripada tempat ia dibuat ke tempat ia dibeli. Pegawai memanggil rangkaian ini **perdagangan edaran**, dan ia ialah salah satu bahagian ekonomi Malaysia yang terbesar dan paling ketara.

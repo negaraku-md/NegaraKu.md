@@ -72,6 +72,7 @@ relations:
   - { rel: "administered-by", to: "lhdn" }
 related: ["petronas"]
 keywords: ["petroleum income tax", "PITA", "Petroleum Income Tax Act 1967", "petroleum operations", "marginal field tax", "late-life asset PSC", "upstream oil gas tax Malaysia"]
+framework: rules
 ---
 
 டெரெங்கானு (Terengganu) கடலோரத்தில் துளையிடும் ஒரு எண்ணெய் கம்பெனியும், ஷா ஆலாம் (Shah Alam)-இல் உள்ள ஒரு தொழிற்சாலையும் இரண்டுமே மலேசியாவுக்கு வரி செலுத்துகின்றன — ஆனால் அவை ஒரே சட்டத்தின் கீழ் அதைச் செலுத்துவதில்லை. மேல்நிலை (upstream) பெட்ரோலிய வருமானம், தனக்கே உரிய விகிதம், தனக்கே உரிய விவரப் படிவம், தனக்கே உரிய விதிநூல் ஆகியவற்றுடன், சுவரெழுப்பித் தனிமைப்படுத்தப்பட்ட ஒரு முறையில் வாழ்கிறது.

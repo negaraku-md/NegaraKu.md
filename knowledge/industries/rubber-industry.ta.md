@@ -100,6 +100,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry" }
 related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
+framework: profile
 ---
 
 காலனித்துவ மலாயாவை (Malaya) கட்டியெழுப்பிய ரப்பர், இனி தோட்டத்தில் தன் வாழ்வாதாரத்தை ஈட்டுவதில்லை — அது தொழிற்சாலைத் தளத்தில் ஈட்டுகிறது. மலேசியா இன்னும் மரங்களைப் பால் எடுக்கிறது (tapping), ஆனால் அதன் ரப்பர் செல்வம் இப்போது அது உற்பத்தி செய்யும் மருத்துவக் கையுறைகள், டயர்கள் மற்றும் லேடெக்ஸ் பொருட்களை நம்பியே இயங்குகிறது — நாடு தானே வளர்க்கும் ரப்பரைவிட அதிக ரப்பரைப் பயன்படுத்தும் ஒரு தொழில் இது.

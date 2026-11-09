@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "jerebu-di-malaysia" }
 related: []
 keywords: ["IPU", "API", "indeks pencemar udara", "kualiti udara", "jerebu", "PM2.5", "PM10", "Jabatan Alam Sekitar"]
+framework: explainer
 ---
 
 연무가 짙어지고 학교가 아침 조회를 취소해야 할지 묻기 시작할 때, 대개 하나의 단일 숫자가 결정을 좌우합니다 — 바로 IPU 수치입니다. 그 숫자는 단순해 보이지만, 그 이면에는 지속적으로 측정되는 여섯 가지 오염물질과 이 모두를 하나의 값으로 걸러 내는 하나의 공식이 있습니다.

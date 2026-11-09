@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "minimum-wage-malaysia" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["potongan gaji", "Seksyen 24", "Akta Kerja 1955", "salary deduction", "Ketua Pengarah Tenaga Kerja", "lebihan gaji"]
+framework: rules
 ---
 
 Phiếu lương của bạn ít hơn số tiền dự kiến, và lý do được nêu là "chính sách công ty". Nhưng người sử dụng lao động không thể khấu trừ lương tùy ý: Employment Act 1955 đặt ra một danh sách khép kín các khoản khấu trừ hợp pháp — bất cứ điều gì ngoài danh sách đó đều không được phép.

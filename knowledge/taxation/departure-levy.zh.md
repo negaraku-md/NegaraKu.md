@@ -63,6 +63,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-kastam-diraja-malaysia" }
 related: ["tourism-tax"]
 keywords: ["levi pelepasan", "departure levy", "cukai keluar", "Departure Levy Act 2019", "Kastam", "MyDLv"]
+framework: rules
 ---
 
 每当你搭飞机离开马来西亚时，你的机票价格里其实已经包含了一笔旅客鲜少察觉、缴付给政府的小额款项——离境税。它在 2019 年财政预算案中提出，并通过《离境税法令 2019》（*Departure Levy Act 2019*）于 **2019 年 9 月 1 日**开始执行。

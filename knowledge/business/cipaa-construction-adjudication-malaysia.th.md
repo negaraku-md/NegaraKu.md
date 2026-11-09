@@ -82,6 +82,7 @@ relations:
   - { rel: "compares-with", to: "arbitration-vs-litigation-malaysia" }
 related: ["arbitration-vs-litigation-malaysia", "contracts-act-malaysia"]
 keywords: ["CIPAA", "construction adjudication", "AIAC", "payment claim", "Act A1738", "construction disputes Malaysia"]
+framework: explainer
 ---
 
 ผู้รับเหมาช่วงที่ไม่ได้รับชำระเงินมาหกเดือนไม่ต้องรอวันขึ้นศาลเป็นเวลาหลายปี ภายใต้ CIPAA พวกเขาสามารถบังคับให้ข้อพิพาทไปสู่คำวินิจฉัยที่ผูกพันได้ภายในเวลาไม่กี่สัปดาห์ — และนาฬิกาก็ไม่ปรานีทั้งสองฝ่าย

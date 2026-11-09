@@ -69,6 +69,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["parliament", "majlis-raja-raja", "federal-state-division"]
 keywords: ["Perlembagaan Persekutuan", "Federal Constitution Malaysia", "undang-undang tertinggi", "Perkara 4 Perlembagaan", "Perkara 159 pindaan", "ketertinggian perlembagaan", "Bahagian Perlembagaan Persekutuan", "prosedur pindaan perlembagaan"]
+framework: explainer
 ---
 
 กฎหมายทุกฉบับที่ผ่านในมาเลเซีย — ไม่ว่าจะโดยรัฐสภาสหพันธ์หรือโดยสภานิติบัญญัติแห่งรัฐ — สามารถวัดได้กับเอกสารฉบับเดียว หากกฎหมายนั้นขัดกับเอกสารนั้น กฎหมายนั้นย่อมถือว่าไม่มีผลเท่าที่ขัดกัน เอกสารนั้นคือรัฐธรรมนูญสหพันธ์

@@ -102,6 +102,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 La plupart du poisson dans l'assiette d'un dîner malaisien vient encore de la mer — mais une part en croissance rapide provient désormais d'un bassin, d'une cage ou d'un radeau à longue ligne. C'est l'aquaculture : l'élevage délibéré d'organismes aquatiques, par opposition à la capture de ce qui nage à l'état sauvage. Alors que les captures sauvages de la Malaisie plafonnent et que la demande de protéines grimpe, l'aquaculture est devenue le principal levier du pays pour garder du poisson sur la table. Cet article approfondit le volet élevage de l'activité ; pour un tableau plus large, incluant la flotte de pêche, le bien-être des pêcheurs et le contrôle, voir la [vue d'ensemble de l'industrie de la pêche](/fr/agriculture/malaysian-fisheries-industry/).

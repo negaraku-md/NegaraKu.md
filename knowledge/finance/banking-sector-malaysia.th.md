@@ -92,6 +92,7 @@ relations:
   - { rel: "governs", to: "financial-services-act-2013" }
 related: ["bank-negara-malaysia", "islamic-finance", "digital-banks-malaysia"]
 keywords: ["banking sector Malaysia", "commercial banks Malaysia", "Islamic banks Malaysia", "investment banks Malaysia", "Financial Services Act 2013", "Islamic Financial Services Act 2013", "digital banks Malaysia", "Bank Negara Malaysia"]
+framework: profile
 ---
 
 เปิดบัญชีธนาคารในกัวลาลัมเปอร์ (Kuala Lumpur) แล้วคุณก็ได้ก้าวเข้าสู่หนึ่งในไม่กี่ประเทศที่ดำเนินระบบธนาคารสองระบบครบวงจรควบคู่กันไปอย่างเงียบ ๆ — แบบดั้งเดิมและอิสลาม — ภายใต้ธนาคารกลางแห่งเดียวและกฎหมายคู่กันสองฉบับที่เขียนขึ้นในปีเดียวกัน

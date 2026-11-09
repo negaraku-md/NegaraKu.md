@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "healthcare-for-seniors" }
 related: ["healthcare-for-seniors"]
 keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap hujung hayat", "penjagaan di rumah", "KKM"]
+framework: explainer
 ---
 
 当治疗不再以治愈为目标时，重心便转向一件事：确保病患舒适而有尊严。这正是舒缓治疗的核心——而在马来西亚，它可以透过三个不同的途径获得。

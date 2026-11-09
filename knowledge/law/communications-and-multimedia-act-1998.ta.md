@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "sedition-act-1948" }
 related: ["federal-constitution"]
 keywords: ["akta komunikasi dan multimedia 1998", "seksyen 233", "SKMM", "MCMC", "penyalahgunaan kemudahan rangkaian", "pertuturan dalam talian", "kebebasan bersuara", "akta 588"]
+framework: explainer
 ---
 
 Facebook-இல் ஒரு கருத்து, ஒரு tweet, அல்லது மீண்டும் பகிரப்பட்ட ஒரு WhatsApp செய்தி — இவை மலேசியாவில் ஒரு குற்றவியல் வழக்குக்கு அடிப்படையாக அமையலாம். இத்தகைய சூழல்களில் மிக அடிக்கடி மேற்கோள் காட்டப்படும் சட்ட விதி என்பது தூண்டுதல் சட்டம் (Sedition Act) அல்லது அவதூறு சட்டம் அல்ல, மாறாக Communications and Multimedia Act 1998-இன் பிரிவு 233 (Section 233) ஆகும்.

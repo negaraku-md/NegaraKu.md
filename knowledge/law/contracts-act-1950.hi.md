@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["federal-constitution", "court-hierarchy", "civil-and-syariah-courts", "companies-act-2016", "employment-act-1955"]
 keywords: ["Contracts Act 1950", "Act 136", "मलेशिया अनुबंध कानून", "प्रस्ताव और स्वीकृति मलेशिया", "section 10 Contracts Act", "प्रतिफल मलेशिया कानून"]
+framework: data-reference
 ---
 
 एक पट्टा, एक रोज़गार पत्र, एक किराया-खरीद समझौता, WhatsApp पर पुष्ट एक पुरानी कार की बिक्री — ये सभी उसी सत्तर साल पुराने क़ानून पर टिके या ढहते हैं: अनुबंध अधिनियम 1950।

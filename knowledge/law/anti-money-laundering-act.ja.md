@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "financial-intelligence-unit" }
 related: ["bank-negara-malaysia"]
 keywords: ["AMLA", "AMLATFPUAA 2001", "Act 613", "money laundering Malaysia", "terrorism financing", "reporting institution", "suspicious transaction report", "Bank Negara Malaysia", "freezing and seizure", "AML CFT compliance"]
+framework: rules
 ---
 
 マレーシアの銀行が顧客の送金を「疑わしい」と判定したとき、その後に何が起こるか——誰に、どれだけ迅速に知らせなければならないか、そして国家がそのお金に対してどのような権限を行使できるか——は、一つの法令が決定する。それがAMLAである。

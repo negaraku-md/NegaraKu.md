@@ -71,6 +71,7 @@ relations:
   - { rel: "explained-in", to: "rights-when-arrested-malaysia" }
 related: ["penal-code"]
 keywords: ["kanun tatacara jenayah", "akta 593", "criminal procedure code", "reman", "seksyen 117", "ikat jamin", "seksyen 28A", "tangkapan", "perbicaraan jenayah", "prima facie"]
+framework: explainer
 ---
 
 当一个人在马来西亚被逮捕后，接下来会发生什么——他是被释放、被扣留、被起诉还是被审讯——并非随意决定的。这一切都由《刑事程序法典》（第593号法令，简称 KTJ）逐步规定。

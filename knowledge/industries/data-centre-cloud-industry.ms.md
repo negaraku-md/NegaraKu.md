@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "johor-singapore-special-economic-zone" }
 related: ["johor-singapore-special-economic-zone"]
 keywords: ["Malaysia data centre", "cloud infrastructure", "Johor data centre", "DESAC incentive", "data centre power water", "hyperscale Malaysia"]
+framework: profile
 ---
 
 Pada tahun 2019, Singapura berhenti meluluskan pusat data baharu berskala besar. Dalam masa empat tahun, pelayan yang ditolaknya telah membina sebuah industri baharu dua puluh minit di seberang Tambak — dan Johor beralih daripada sebuah negeri Malaysia yang tenang kepada pasaran pusat data paling sibuk di Asia Tenggara.

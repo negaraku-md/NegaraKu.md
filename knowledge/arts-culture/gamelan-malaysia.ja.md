@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "mak-yong" }
 related: ["pahang", "terengganu", "joget-and-zapin", "mak-yong"]
 keywords: ["gamelan Melayu", "gamelan Terengganu", "gamelan Pahang", "joget gamelan", "Tengku Ampuan Mariam", "muzik istana", "warisan kebangsaan"]
+framework: history-culture
 ---
 
 そのガムラン一式が一つの宮廷から別の宮廷へと渡ったのは、売買や略奪によってではない——婚姻によってである。王女が夫の宮殿へと嫁ぐとき、楽器も、踊り手も、楽曲も、彼女とともに渡った。こうしてガムランはマレー宮廷の所有物となったのである。

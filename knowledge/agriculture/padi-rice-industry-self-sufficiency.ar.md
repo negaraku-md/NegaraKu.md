@@ -87,6 +87,7 @@ relations:
   - { rel: "affects", to: "cost-of-living-overview" }
 related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "الأرز", "kadar sara diri", "SSL", "jelapang padi", "مخازن الأرز", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "دعم الأرز"]
+framework: profile
 ---
 
 في كل مرة ترتفع فيها أسعار الأرز أو تفرغ رفوف المتاجر الكبرى، يعود سؤال قديم

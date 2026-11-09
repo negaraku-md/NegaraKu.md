@@ -92,6 +92,7 @@ keywords:
   - thiết bị bán dẫn
   - Industry4WRD
   - MIDA
+framework: profile
 ---
 
 Mọi nhà máy đều vận hành trên máy móc — và những cỗ máy đó phải được ai đó chế tạo. Ngành máy móc và thiết bị (M&E) là phần của chế tạo làm ra các dây chuyền sản xuất, máy móc quy trình, dụng cụ gia công kim loại, hệ thống điện và tự động hóa mà *mọi* ngành khác phụ thuộc vào. Nó là ngành lớn ít được thấy nhất trong nền kinh tế và, chính vì lý do đó, một trong những ngành quan trọng chiến lược nhất.

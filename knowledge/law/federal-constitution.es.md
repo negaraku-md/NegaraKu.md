@@ -48,6 +48,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["three-tiers-of-government", "parliament"]
 keywords: ["Federal Constitution Malaysia", "Perlembagaan Persekutuan", "Constitución Federal de Malasia", "derecho constitucional de Malasia", "ley suprema de Malasia"]
+framework: explainer
 ---
 
 ## De un vistazo

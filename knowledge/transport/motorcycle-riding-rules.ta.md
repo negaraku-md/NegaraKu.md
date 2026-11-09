@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "road-transport-act-1987" }
 related: []
 keywords: ["lorong motosikal", "Lebuhraya Persekutuan", "topi keledar", "Seksyen 79(2)", "motosikal lebuh raya", "MS 1", "kapasiti enjin"]
+framework: rules
 ---
 
 நீங்கள் லெபுஹ்ராயா பெர்செகுட்டுவான் (Lebuhraya Persekutuan) நெடுஞ்சாலைக்குள் மோட்டார்சைக்கிளில் நுழைகிறீர்கள், இடதுபுறமாகப் பிரியும் “மோட்டார்சைக்கிள் பாதை” (Lorong Motosikal) அறிவிப்புப் பலகையைப் பார்க்கிறீர்கள் — அதைப் பின்பற்றுவது கட்டாயமா அல்லது பிரதான பாதையிலேயே தொடரலாமா என்று வியக்கிறீர்கள். பதில் ஒரே ஒரு சொல்லைச் சார்ந்தது: *வர்த்தமானியில் வெளியிடப்பட்டதா* (diwartakan).

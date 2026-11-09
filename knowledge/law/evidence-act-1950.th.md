@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-malaysia" }
 related: ["criminal-procedure-code", "federal-constitution"]
 keywords: ["Akta Keterangan 1950", "Evidence Act 1950", "Akta 56", "beban bukti", "kebolehterimaan", "anggapan", "keistimewaan", "seksyen 90A", "seksyen 114A", "pengakuan salah"]
+framework: explainer
 ---
 
 ภาพถ่ายหนึ่ง ข้อความวอตส์แอปหนึ่ง หรือคำพูดของพยานหนึ่ง ไม่จำเป็นต้องเป็น "พยานหลักฐาน" ในศาล ว่าสิ่งใดนับเป็นพยานหลักฐาน — และใครต้องพิสูจน์มัน — ถูกกำหนดโดยกฎหมายฉบับเดียว: พระราชบัญญัติพยานหลักฐาน 1950 (Evidence Act 1950, Akta 56)

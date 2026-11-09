@@ -82,6 +82,7 @@ relations:
   - { rel: "compares-with", to: "arbitration-vs-litigation-malaysia" }
 related: ["arbitration-vs-litigation-malaysia", "contracts-act-malaysia"]
 keywords: ["CIPAA", "construction adjudication", "AIAC", "payment claim", "Act A1738", "construction disputes Malaysia"]
+framework: explainer
 ---
 
 半年間支払いを受けていない下請業者は、何年も法廷の期日を待つ必要はない。CIPAAのもとでは、数週間で拘束力のある決定へと紛争を強制的に進めることができる——そしてその時計は、双方に対して容赦がない。

@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "corporate-income-tax" }
 related: ["sales-and-service-tax"]
 keywords: ["duti kasino", "cukai perjudian", "duti mesin permainan", "duti pertaruhan pool", "number forecast operator", "gaming tax Malaysia"]
+framework: rules
 ---
 
 Every ringgit wagered at a casino table or a 4D counter carries a hidden tax — and in Malaysia, the rate is among the highest the government imposes on any industry.

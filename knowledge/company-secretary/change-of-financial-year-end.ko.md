@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "cp204b-change-of-accounting-period" }
 related: ["financial-statements-lodgement", "companies-act-2016"]
 keywords: ["tahun kewangan", "FYE", "financial year end", "SSM", "Akta Syarikat 2016", "CP204B", "penyata kewangan"]
+framework: how-to
 ---
 
 많은 이사들은 회사의 회계연도를 변경하려면 특별한 서식을 SSM에 제출해야 한다고 생각합니다 — 그러나 회사법(Companies Act 2016)은 실제로 그러한 서식을 전혀 언급하지 않습니다.

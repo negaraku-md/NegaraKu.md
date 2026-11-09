@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "diesel-subsidy-rationalisation" }
 related: []
 keywords: ["APM", "harga minyak", "RON97", "RON95", "BUDI95", "subsidi bahan api", "harga pam mingguan"]
+framework: explainer
 ---
 
 Chaque mercredi, les prix aux pompes à carburant de la Malaisie peuvent changer, mais tous les types de carburant n'évoluent pas de la même manière. Derrière les chiffres affichés sur le panneau se cache une formule officielle appelée Mécanisme automatique de fixation des prix, ou APM.

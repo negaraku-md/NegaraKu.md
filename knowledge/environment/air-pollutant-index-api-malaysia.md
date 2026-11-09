@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "jerebu-di-malaysia" }
 related: []
 keywords: ["IPU", "API", "indeks pencemaran udara", "indeks pencemar udara", "kualiti udara", "jerebu", "PM2.5", "PM10", "Jabatan Alam Sekitar"]
+framework: explainer
 ---
 
 Apabila jerebu menebal dan sekolah mula bertanya sama ada perhimpunan pagi patut dibatalkan, satu nombor tunggal biasanya menjadi penentu — bacaan IPU. Angka itu nampak ringkas, tetapi di sebaliknya ada enam pencemar yang diukur secara berterusan dan satu formula yang menapis semuanya menjadi satu nilai.

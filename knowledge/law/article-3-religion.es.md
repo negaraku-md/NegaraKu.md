@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "rukun-negara" }
 related: ["federal-constitution", "yang-di-pertuan-agong", "majlis-raja-raja", "court-hierarchy", "rukun-negara"]
 keywords: ["Artículo 3 Constitución Federal Malasia", "islam religión de la Federación", "Artículo 11 libertad de religión Malasia", "Perkara 3 Perlembagaan Persekutuan", "Article 121(1A)", "jurisdicción tribunales Syariah Malasia", "libertad de religión Constitución de Malasia"]
+framework: explainer
 ---
 
 Dos disposiciones de la Constitución Federal se sitúan una junto a la otra y se citan constantemente, pero rara vez en su totalidad. Aquí está el texto.

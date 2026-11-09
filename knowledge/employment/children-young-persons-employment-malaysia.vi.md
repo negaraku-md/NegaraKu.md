@@ -82,6 +82,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-tenaga-kerja-semenanjung-malaysia" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["Akta 350", "kanak-kanak dan orang muda", "buruh kanak-kanak", "umur minimum bekerja", "kerja hiburan awam", "kerja berbahaya", "Akta Kanak-Kanak dan Orang Muda Pekerjaan 1966"]
+framework: rules
 ---
 
 Một học sinh 14 tuổi phụ giúp tại quầy thức ăn của gia đình và một đứa trẻ năm tuổi đóng quảng cáo truyền hình đều được điều chỉnh bởi cùng một luật — và không phải Employment Act 1955 mà người sử dụng lao động thường viện dẫn. Luật đó là Children and Young Persons (Employment) Act 1966, hay Act 350.

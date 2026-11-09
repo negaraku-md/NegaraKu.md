@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "trademark-registration-malaysia" }
 related: ["trademark-registration-malaysia"]
 keywords: ["geographical indication", "GI Act 2022", "Act 836", "MyIPO", "Sarawak pepper", "Musang King", "intellectual property Malaysia", "place of origin"]
+framework: explainer
 ---
 
 Sebut "Lada Sarawak" atau "Musang King" dan pembeli sudah membayangkan sesuatu tempat, tanah dan rasa yang khusus. Petunjuk geografi ialah hak undang-undang yang menghalang sesiapa sahaja daripada menjual hasil biasa di bawah nama itu — dan di Malaysia ia merupakan satu-satunya hak harta intelek yang berdiri dengan tenang di sisi paten, cap dagangan, reka bentuk perindustrian dan hak cipta.

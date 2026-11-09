@@ -87,6 +87,7 @@ relations:
   - { rel: "affects", to: "cost-of-living-overview" }
 related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "subsidi padi"]
+framework: profile
 ---
 
 쌀값이 오르거나 슈퍼마켓 진열대가 비워질 때마다, 오래된 질문 하나가 말레이시아를 다시 괴롭힙니다: 논이 비옥한 나라가 왜 아직도 쌀의 거의 절반을 수입해야 하는가? 그 답은 보조금이 추동하고, 보장 가격으로 보호되며, 아직 달성되지 않은 자급 목표에 쫓기는 한 산업에 있습니다.

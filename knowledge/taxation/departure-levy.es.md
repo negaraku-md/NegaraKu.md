@@ -63,6 +63,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-kastam-diraja-malaysia" }
 related: ["tourism-tax"]
 keywords: ["levi pelepasan", "departure levy", "tasa de salida", "Departure Levy Act 2019", "Kastam", "MyDLv"]
+framework: rules
 ---
 
 Cada vez que sale de Malasia en avión, el precio de su billete ya incluye un pequeño cargo para el gobierno que los pasajeros rara vez notan — la tasa de salida. Se introdujo en el Budget 2019 y entró en vigor el **1 de septiembre de 2019** mediante la *Ley de la Tasa de Salida de 2019 (Departure Levy Act 2019)*.

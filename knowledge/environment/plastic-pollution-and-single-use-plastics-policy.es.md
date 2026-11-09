@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "solid-waste-management-in-malaysia" }
 related: []
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030", "plásticos de un solo uso", "cargo por bolsas de plástico", "contaminación por plásticos"]
+framework: explainer
 ---
 
 Las bolsas de plástico finas de la caja del supermercado suelen usarse solo un instante, pero pueden persistir en el medioambiente durante muchísimo tiempo. Para abordar este problema, Malasia no ha optado por una única prohibición radical e inmediata — en su lugar, utiliza una hoja de ruta por fases que avanza desde pequeños cargos hasta prohibiciones más amplias.

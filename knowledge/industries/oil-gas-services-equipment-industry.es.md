@@ -97,6 +97,7 @@ keywords:
   - servicios de perforación
   - buques de apoyo en alta mar
   - Plan Nacional de la OGSE
+framework: profile
 ---
 
 Cuando la gente se imagina la riqueza petrolera y gasística de Malasia, suele pensar en el crudo y el gas bajo el lecho marino frente a Terengganu, Sarawak y Sabah, las reservas que hicieron de PETRONAS una de las mayores empresas energéticas de Asia. Pero los hidrocarburos no se elevan solos del subsuelo. Detrás de cada yacimiento en producción se sitúa un pequeño ejército de contratistas: los astilleros que sueldan plataformas de acero, las plataformas que perforan los pozos, los buques que transportan tripulaciones y carga a alta mar, los ingenieros que diseñan las instalaciones y los técnicos que lo mantienen todo en marcha. Ese ecosistema es la **industria de servicios y equipos de petróleo y gas (OGSE)**, y es una gran industria malasia por derecho propio.

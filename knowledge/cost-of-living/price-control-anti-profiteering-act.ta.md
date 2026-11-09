@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "sales-and-service-tax-sst" }
 related: []
 keywords: ["antipencatutan", "kawalan harga", "untung berlebihan", "Akta 723", "Op Catut", "KPDN", "pencatutan harga"]
+framework: rules
 ---
 
 செலவுகள் உயர்ந்ததால் விலையை உயர்த்துவது ஒரு விஷயம். போன வருடத்தை விட அதிக லாபத்தை அள்ளுவதற்காக மட்டுமே விலையை உயர்த்துவது — அது மலேசியாவில் உங்களை நீதிமன்றத்துக்கு இழுத்துச் செல்லலாம்.

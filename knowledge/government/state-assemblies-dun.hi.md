@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "majlis-raja-raja" }
 related: ["dewan-rakyat", "federal-state-division", "spr-election-commission", "majlis-raja-raja", "federal-constitution"]
 keywords: ["Dewan Undangan Negeri", "DUN", "राज्य विधायी निकाय", "आठवीं अनुसूची", "Jadual Kelapan", "अनुच्छेद 71", "Perkara 71", "आवश्यक प्रावधान", "Yang di-Pertua Negeri", "Menteri Besar", "राज्य अधिनियम", "State Legislative Assembly Malaysia"]
+framework: explainer
 ---
 
 भूमि एक राज्य-विषय है। इस्लामी पारिवारिक कानून एक राज्य-विषय है। स्थानीय शासन एक राज्य-विषय है। लेकिन किसी दिए गए राज्य में इन विषयों पर वास्तव में कौन कानून बनाता है, और किन नियमों के अनुसार? इसका उत्तर केवल परंपरा या व्यवहार का मामला नहीं है — यह, खंड-दर-खंड, संघीय संविधान के अंत में एक अनुसूची में लिखा है।

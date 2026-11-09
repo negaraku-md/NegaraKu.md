@@ -82,6 +82,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: explainer
 ---
 
 Snorkel over a reef off Tioman or Redang, and the clear water, the protected fish and the "no fishing, no anchoring" rules you were briefed on are not just good manners — they are the law. The statute behind them is the **Fisheries Act 1985**, Act 317 in Malaysia's statute book, and it governs far more than tourism: it is the backbone of how Malaysia manages fishing and protects marine life across its waters.

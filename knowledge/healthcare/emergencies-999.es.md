@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "traffic-summons-saman" }
 related: ["pdrm", "traffic-summons-saman"]
 keywords: ["999 Malaysia", "MERS 999", "NG999", "ambulancia de emergencia Malasia", "Servicio de Urgencias", "triaje zona roja amarilla verde", "ambulancia gratuita", "cargos de urgencias hospital público"]
+framework: explainer
 ---
 
 Marca el 999. La voz al otro lado le pregunta su nombre, su ubicación y qué ha ocurrido, y dentro del tiempo de respuesta objetivo, un equipo de ambulancia ya debería estar en camino. Pero mucha gente no sabe qué sucede realmente detrás de esa llamada: quién responde de verdad, si es gratuita, y por qué a veces otro paciente que llegó más tarde al hospital recibe tratamiento antes que usted.

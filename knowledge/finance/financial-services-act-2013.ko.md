@@ -63,6 +63,7 @@ wikidata: "Q28163620"
 relations: []
 related: []
 keywords: ["Financial Services Act 2013", "FSA 2013", "FSA Malaysia", "Act 758", "Bank Negara Malaysia financial regulation", "financial institutions regulation Malaysia", "consumer protection financial services Malaysia", "unlicensed financial business penalty Malaysia", "IFSA 2013", "payment systems regulation Malaysia"]
+framework: explainer
 ---
 
 전자지갑을 태그하거나, 자동차 대출을 받거나, 타카풀 플랜을 살 때마다 여러분은 하나의 규제 기관 — **말레이시아 중앙은행(Bank Negara Malaysia, BNM)** — 에 책임을 지는 사업체와 거래하고 있으며, 그것은 하나의 법률 때문입니다. **Act 758**로 인용되는 **금융서비스법(Financial Services Act 2013, FSA)**은 전통 금융 부문에 대한 말레이시아의 핵심 법률입니다. 이 법은 말레이시아 전역에 적용되고, BNM이 집행·시행하며, **2013년 6월 30일**에 시행되었습니다. 변호사를 위해 쓰인 대부분의 해설은 폐지된 법률 목록에서 멈춥니다. 이 글은 평범한 말레이시아인이 실제로 가지는 질문에 답합니다: FSA는 여러분의 돈, 권리, 그리고 그것을 관리하는 사람들에게 무엇을 의미하는가?

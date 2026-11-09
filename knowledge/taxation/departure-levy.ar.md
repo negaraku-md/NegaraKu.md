@@ -63,6 +63,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-kastam-diraja-malaysia" }
 related: ["tourism-tax"]
 keywords: ["رسم المغادرة", "levi pelepasan", "departure levy", "ضريبة الخروج", "Departure Levy Act 2019", "Kastam", "MyDLv"]
+framework: rules
 ---
 
 في كل مرة تسافر فيها جوًّا خارج ماليزيا، يتضمن سعر تذكرتك أصلًا رسمًا صغيرًا للحكومة نادرًا ما يلاحظه المسافرون — هو رسم المغادرة. وقد استُحدِث في ميزانية 2019 وبدأ سريانه في **1 سبتمبر 2019** عبر *قانون رسم المغادرة لسنة 2019 (Departure Levy Act 2019)*.

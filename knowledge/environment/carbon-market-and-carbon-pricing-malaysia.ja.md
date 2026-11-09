@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "malaysia-net-zero-2050" }
 related: ["bursa-malaysia"]
 keywords: ["carbon market Malaysia", "carbon pricing", "carbon tax Malaysia", "Bursa Carbon Exchange", "National Carbon Market Policy", "carbon credits", "emissions trading scheme", "CCUS Act 2025"]
+framework: explainer
 ---
 
 マレーシアは、誰かに汚染の代償を課すと決める前に、炭素市場の配管を築いている。今日すでに、全国規模の取引所でカーボンクレジットを売買できる——しかし、大口排出者に支払いを強制することになる税制や取引ルールは、まだ草案段階にある。

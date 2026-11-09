@@ -71,6 +71,7 @@ relations:
   - { rel: "explained-in", to: "rights-when-arrested-malaysia" }
 related: ["penal-code"]
 keywords: ["kanun tatacara jenayah", "akta 593", "criminal procedure code", "código de procedimiento penal", "prisión preventiva", "seksyen 117", "fianza", "seksyen 28A", "arresto", "juicio penal", "prima facie"]
+framework: explainer
 ---
 
 Cuando una persona es arrestada en Malasia, lo que ocurre después de ese momento — ya sea que sea puesta en libertad, detenida, acusada o juzgada — no se decide de forma arbitraria. Está establecido paso a paso por el Código de Procedimiento Penal (Act 593), o el CPC para abreviar.

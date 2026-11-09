@@ -72,6 +72,7 @@ relations:
   - { rel: "compares-with", to: "unesco-world-heritage-malaysia" }
 related: ["unesco-world-heritage"]
 keywords: ["warisan kebangsaan", "Akta Warisan Kebangsaan 2005", "Akta 645", "Jabatan Warisan Negara", "Daftar Warisan Kebangsaan", "WAKOH", "tapak warisan"]
+framework: explainer
 ---
 
 ஜார்ஜ் டவுனில் (George Town) நூற்றாண்டு பழமையான ஒரு கடைவீடு, ஒரு கிரிஸ் (keris) கத்தி, ஓர் அரண்மனை நடனம், மற்றும் இன்னும் உயிருடன் இருக்கும் ஒரு [சொங்கட்](/ta/arts-culture/songket) (songket) நெய்பவர் — இந்நான்கும் மலேசியாவில் ஒரே சட்டப்பூர்வப் பட்டத்தைச் சுமக்க முடியும்: *தேசிய பாரம்பரியம் (Warisan Kebangsaan)*. இவற்றை இணைப்பது UNESCO பட்டியல் அல்ல, மாறாக அரிதாகவே பெயர் சொல்லப்படும் ஓர் உள்நாட்டுப் பதிவேடு: **தேசிய பாரம்பரியப் பதிவேடு (Daftar Warisan Kebangsaan)**.

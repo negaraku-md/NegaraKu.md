@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "road-tax-renewal-malaysia" }
 related: ["road-tax-renewal"]
 keywords: ["puspakom", "pemeriksaan berkala", "kenderaan komersial", "e-hailing", "cukai jalan", "akta pengangkutan jalan 1987"]
+framework: rules
 ---
 
 Si posees un camión, una furgoneta, un taxi o un coche de e-hailing, el calendario semestral de Puspakom es, en realidad, tu calendario del impuesto de circulación: sin un sello de inspección válido, el JPJ no te dejará renovar la licencia de tu vehículo en absoluto.

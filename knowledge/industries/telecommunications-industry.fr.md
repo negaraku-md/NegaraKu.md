@@ -98,6 +98,7 @@ revisions:
     change: Initial draft (AI-assisted), pending review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Presque tout le monde en Malaisie porte une connexion mobile, et la plupart des foyers disposent d'une forme de haut débit. Cela fait des télécommunications l'une des industries les plus importantes et les plus matures du pays — la plomberie invisible sous l'économie numérique, la banque en ligne, l'administration électronique et la vie quotidienne. Pourtant, derrière les noms de marque familiers se trouve un marché qui a profondément changé ces dernières années : moins d'opérateurs, de plus grandes fusions et une expérience nationale sur la façon de construire la 5G.

@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "e-commerce-malaysia" }
 related: ["mydigital-blueprint"]
 keywords: ["digital economy", "MyDIGITAL", "Malaysia Digital", "MD Status", "MDEC", "e-commerce", "ICT GDP", "DE Rantau"]
+framework: explainer
 ---
 
 如今，马来西亚经济每产出四令吉，就有近一令吉是通过屏幕、服务器和购物车流转的。根据马来西亚统计局（DOSM）的数据，2024年 ICT 产业与电子商务合计占该国GDP的23.4%——价值4513亿令吉。这一单一数字是马来西亚衡量数字经济最接近于全国"成绩单"的指标，而理解它如何构成、由什么驱动、以及政府如何试图推动其增长，是读懂这个国家走向的最快途径。

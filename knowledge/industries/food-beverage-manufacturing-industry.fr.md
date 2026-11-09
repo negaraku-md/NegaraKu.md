@@ -98,6 +98,7 @@ keywords:
   - certification halal JAKIM
   - Food Act 1983
   - incitations alimentaires MIDA
+framework: profile
 ---
 
 Presque tout le monde en Malaisie touche à cette industrie plusieurs fois par jour — une tasse de Milo au petit-déjeuner, un paquet de nouilles instantanées au déjeuner, une bouteille d'eau minérale l'après-midi, une tablette de chocolat faite de cacao broyé dans le Johor. La fabrication agroalimentaire (F&B) est l'une des grandes industries les plus discrètes du pays : moins glamour que les semi-conducteurs, mais profondément tissée dans la vie quotidienne, la sécurité alimentaire nationale et un récit d'exportation croissant bâti autour d'une idée puissante — le halal.

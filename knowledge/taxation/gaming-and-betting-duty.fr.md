@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "corporate-income-tax" }
 related: ["sales-and-service-tax"]
 keywords: ["duti kasino", "cukai perjudian", "duti mesin permainan", "duti pertaruhan pool", "number forecast operator", "gaming tax Malaysia"]
+framework: rules
 ---
 
 Chaque ringgit misé à une table de casino ou à un guichet de 4D porte un impôt caché — et en Malaisie, le taux compte parmi les plus élevés que le gouvernement impose à un secteur.

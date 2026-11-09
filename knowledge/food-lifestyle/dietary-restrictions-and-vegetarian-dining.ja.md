@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-in-malaysia" }
 related: ["halal-certification-in-malaysia"]
 keywords: ["halal food Malaysia", "JAKIM halal logo", "vegetarian Malaysia", "vegan dining Malaysia", "dietary restrictions Malaysia", "Buddhist vegetarian", "beef-free"]
+framework: explainer
 ---
 
 マレーシアで食卓につくということは、マレー系、華人系、インド系、そしてその間で育まれてきた伝統という、四つの食文化と同時に向き合うことを意味します。その多様性は、食事制限がある人にとっては恵みであり、信号の読み方を知らない人にとっては小さな地雷原でもあります。ここでは、その信号の読み方を説明します。

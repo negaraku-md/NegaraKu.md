@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "freedom-of-information-malaysia" }
 related: []
 keywords: ["Akta Rahsia Rasmi 1972", "Official Secrets Act", "Akta 88", "rahsia rasmi", "pengelasan dokumen", "seksyen 16A", "keselamatan negara", "kebebasan media", "OSA Malaysia"]
+framework: rules
 ---
 
 Seorang wartawan yang menerima salinan minit Kabinet, seorang penyelidik yang mengambil ukuran berhampiran kem tentera, dan seorang pegawai yang menyimpan fail bertanda "Sulit" — ketiga-tiganya boleh tersentuh oleh satu undang-undang yang sama. Akta Rahsia Rasmi 1972, atau Akta 88, ialah tulang belakang sistem kerahsiaan rasmi Malaysia, dan skopnya jauh lebih luas daripada sekadar hal ehwal pengintipan.

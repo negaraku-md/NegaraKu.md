@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "rukun-negara" }
 related: ["rukun-negara"]
 keywords: ["bunga raya", "fleur nationale", "hibiscus", "Hibiscus rosa-sinensis", "symboles nationaux de la Malaisie", "Rukun Negara", "Tunku Abdul Rahman"]
+framework: history-culture
 ---
 
 Sept sortes de fleurs se sont un jour disputées l'honneur de représenter une nation nouvellement indépendante — et la gagnante ne fut ni la plus parfumée ni la plus rare, mais la plus familière dans chaque ville et chaque village. Cette fleur est le bunga raya, l'hibiscus.

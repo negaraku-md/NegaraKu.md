@@ -88,6 +88,7 @@ relations:
   - { rel: "administered-by", to: "attorney-general" }
 related: ["attorney-general"]
 keywords: ["akta rahsia rasmi", "OSA 1972", "kebebasan maklumat", "ketelusan kerajaan", "dokumen terperingkat", "seksyen 16A", "rahsia rasmi"]
+framework: explainer
 ---
 
 บันทึกการประชุมหนึ่งฉบับ รายงานการตรวจสอบหนึ่งฉบับ เอกสารคณะรัฐมนตรีหนึ่งฉบับ — ในมาเลเซีย สิ่งใดในนั้นอาจกลายเป็นอาชญากรรมหากนำไปเผยแพร่หากถูกประทับตราว่าเป็นความลับทางราชการ กฎหมายที่กำหนดเส้นแบ่งนั้นคือ [พระราชบัญญัติความลับทางราชการ 1972](/law/official-secrets-act-1972) และการไม่มีกฎหมายเสรีภาพในการเข้าถึงข้อมูลข่าวสารระดับสหพันธ์ทำให้เป็นหนึ่งในหัวข้อที่ถูกถกเถียงมากที่สุดในธรรมาภิบาลของมาเลเซีย

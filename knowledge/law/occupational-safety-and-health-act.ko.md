@@ -81,6 +81,7 @@ relations:
   - { rel: "supersedes", to: "factories-and-machinery-act-1967" }
 related: ["labour-law-map-malaysia", ]
 keywords: ["OSHA 1994", "Akta 514", "tanggungjawab majikan", "DOSH", "penilaian risiko", "JKKP 6", "keselamatan pekerjaan"]
+framework: rules
 ---
 
 한 근로자가 비계에서 떨어졌을 때, 조사관의 첫 질문은 "누가 부주의했는가"가 아니라 "고용주가 이를 방지하기 위하여 실행 가능한 모든 조치를 취하였는가"입니다. 이것이 바로 산업안전보건법 1994(Occupational Safety and Health Act 1994, Act 514), 즉 OSHA 1994의 핵심입니다.

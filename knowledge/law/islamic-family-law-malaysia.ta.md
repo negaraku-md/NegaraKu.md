@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "harta-sepencarian-malaysia" }
 related: []
 keywords: ["undang-undang keluarga islam", "akta 303", "mahkamah syariah", "talaq", "fasakh", "khuluk", "hadhanah", "nafkah", "poligami", "islamic family law malaysia"]
+framework: rules
 ---
 
 கணவன் நஃபகா (nafkah) வழங்காததால் விவாகரத்து கோர விரும்பும் ஒரு மனைவி, ஏழு வயது நிரம்பிய மகனின் காப்பாட்சியைத் தொடர விரும்பும் ஒரு தந்தை, மற்றொரு திருமணம் செய்ய விண்ணப்பிக்கும் ஒரு ஆண் — இந்த மூன்று சூழ்நிலைகளும் சாதாரண வழக்கறிஞர் அலுவலகத்தில் தொடங்குவதில்லை; மாறாக, அந்தந்த மாநிலத்தின் இஸ்லாமியக் குடும்பச் சட்டத்தின் கீழ், ஷரியா நீதிமன்றத்தில் (Mahkamah Syariah) தொடங்குகின்றன. இந்த ஆவணம் அந்தச் சட்டக் கட்டமைப்பை விவரணை முறையில், எந்தப் பக்கமும் சாராமல் விளக்குகிறது.

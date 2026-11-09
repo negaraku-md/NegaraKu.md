@@ -91,6 +91,7 @@ faq:
     a: Đây là nguồn thu đơn lẻ lớn nhất, nhưng tỷ trọng nhỏ hơn nhiều so với những gì lượng khách đến gợi ý. Năm 2024, Singapore chiếm 49.7% lượng khách quốc tế đến nhưng chỉ chiếm 26.2% nguồn thu; Trung Quốc chiếm 9.8% lượng khách đến nhưng 19.5% nguồn thu. Mức chi tiêu bình quân trên mỗi lượt khách đến dao động từ khoảng RM1,500 đối với Singapore đến khoảng RM5,600 đối với Trung Quốc, so với mức bình quân cả nước khoảng RM2,800 — một khoảng cách lớn do cơ cấu khách đi về trong ngày tạo ra.
   - q: Du lịch chiếm 15.1% GDP của Malaysia hay 6.2%?
     a: Cả hai con số đều đến từ Tài khoản Vệ tinh Du lịch (Tourism Satellite Account) của DOSM, nhưng chúng đo lường những thứ khác nhau và không nên dùng thay thế cho nhau. Giá trị gia tăng gộp của các ngành du lịch (GVATI) chiếm 15.1% GDP năm 2024 — tức toàn bộ sản lượng của các ngành phục vụ khách du lịch, bao gồm cả phần do người dân địa phương tiêu dùng. GDP trực tiếp từ du lịch (TDGDP) là 6.2% — chỉ riêng nhu cầu du lịch. Các ngành du lịch chiếm khoảng một phần bảy nền kinh tế; nhu cầu du lịch trực tiếp chiếm khoảng một phần mười sáu.
+framework: explainer
 ---
 
 Năm 2024, Malaysia đếm được 37.961.485 lượt khách nước ngoài đến — nhiều người vượt biên hơn số người Malaysia. Đó là một con số ngoạn mục, và nó không phải là điều mà hầu hết mọi người nghĩ.

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "food-delivery-riders" }
 related: []
 keywords: ["e-skuter", "PMD", "mikromobiliti", "basikal elektik", "MS2514", "JPJ", "peranti mobiliti peribadi"]
+framework: rules
 ---
 
 அலுவலகத்திற்குச் செல்ல நீங்கள் ஒரு இ-ஸ்கூட்டரை வாங்குகிறீர்கள், ஆனால் அதன் சக்கரங்கள் பொது சாலையைத் தொடும் நொடியே நீங்கள் சட்டத்தை மீறிவிட்டீர்கள். 2021 ஆம் ஆண்டின் இறுதி முதல் மலேசியாவில் மைக்ரோமொபிலிட்டியின் நிதர்சனம் இதுதான்.

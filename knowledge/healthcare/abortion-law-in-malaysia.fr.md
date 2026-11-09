@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "medical-act-1971" }
 related: []
 keywords: ["pengguguran", "loi sur l'avortement Malaisie", "Seksyen 312 Kanun Keseksaan", "interruption de grossesse", "Akta Perubatan 1971", "directives KKM"]
+framework: explainer
 ---
 
 Beaucoup supposent que l'avortement est totalement interdit en Malaisie — en réalité, la loi le place dans un espace plus complexe : une infraction pénale assortie d'une importante exception médicale. Comprendre où se trace cette ligne exige de lire le texte réel du Code pénal, et non de s'en tenir à des impressions générales.

@@ -90,6 +90,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-investment-trade-and-industry" }
 related: ["electrical-electronics-industry"]
 keywords: ["semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "advanced packaging", "chip industry Malaysia", "Penang Silicon Valley", "MIDA", "IC design"]
+framework: profile
 ---
 
 Hampir setiap telefon, komputer riba dan kereta di Bumi membawa cip yang menghabiskan sebahagian hayatnya di Malaysia — dibungkus, diuji dan dihantar dari sebuah kilang di Pulau Pinang atau Lembah Klang. Namun selama lima puluh tahun negara ini melakukan bahagian kerja yang paling kurang menarik dan bermargin paling rendah dalam kerja itu: bahagian belakang. Strategi Semikonduktor Kebangsaan ialah usaha Malaysia untuk mengubah bahagian mana cip yang dimilikinya.

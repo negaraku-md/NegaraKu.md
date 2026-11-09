@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "islamic-finance-malaysia" }
 related: ["jakim", "islamic-finance", "matrade"]
 keywords: ["industri halal", "persijilan halal", "JAKIM", "MS 1500", "HDC", "eksport halal", "hab halal", "Akta Perihal Dagangan 2011"]
+framework: profile
 ---
 
 マレーシアの製品に付されるハラルマークは、一連の政府機関、技術規格及び通商法によって裏付けられており、単なる宗教的な標章にとどまらず、通商上規制される要素でもある。ハラルとはイスラム法における概念であり、許されたものを指す。マレーシアにおいてハラルは、公式に測定され、計画され、マーケティングされる一つの経済分野ともなっている。

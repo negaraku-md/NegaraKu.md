@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "financial-intelligence-unit" }
 related: ["bank-negara-malaysia"]
 keywords: ["AMLA", "AMLATFPUAA 2001", "Act 613", "money laundering Malaysia", "terrorism financing", "reporting institution", "suspicious transaction report", "Bank Negara Malaysia", "freezing and seizure", "AML CFT compliance"]
+framework: rules
 ---
 
 ஒரு மலேசிய வங்கி ஒரு வாடிக்கையாளரின் பணப் பரிமாற்றத்தை "சந்தேகத்திற்குரியது" என்று அடையாளப்படுத்தும்போது, அடுத்து என்ன நடக்கிறது — யாருக்குத் தெரிவிக்கப்பட வேண்டும், எவ்வளவு விரைவாக, அந்தப் பணத்தின் மீது அரசு பின்னர் எந்தெந்த அதிகாரங்களைப் பயன்படுத்தலாம் — என்பதை ஒரே ஒரு சட்டம் தீர்மானிக்கிறது. அந்தச் சட்டமே AMLA.

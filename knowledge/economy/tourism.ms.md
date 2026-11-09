@@ -91,6 +91,7 @@ faq:
     a: Ia memang sumber penerimaan tunggal terbesar, tetapi jauh lebih kecil sebagai bahagian berbanding apa yang ditunjukkan oleh ketibaannya. Singapura menyumbang 49.7% ketibaan pelawat asing pada 2024 tetapi hanya 26.2% penerimaan; China pula 9.8% ketibaan tetapi 19.5% penerimaan. Purata perbelanjaan setiap ketibaan berjulat dari kira-kira RM1,500 bagi Singapura hingga kira-kira RM5,600 bagi China, berbanding purata kebangsaan kira-kira RM2,800 — jurang besar yang didorong oleh gabungan lawatan sehari.
   - q: Adakah pelancongan 15.1% daripada KDNK Malaysia atau 6.2%?
     a: Kedua-dua angka datang daripada Akaun Satelit Pelancongan DOSM, tetapi ia mengukur perkara berbeza dan tidak sepatutnya digunakan secara bertukar ganti. Nilai ditambah kasar industri pelancongan (GVATI) ialah 15.1% daripada KDNK pada 2024 — keseluruhan output industri yang melayani pelancong, termasuk bahagian yang digunakan oleh penduduk tempatan. KDNK langsung pelancongan (TDGDP) pula 6.2% — permintaan pelancongan sahaja. Industri pelancongan mewakili kira-kira satu per tujuh ekonomi; permintaan pelancongan secara langsung kira-kira satu per enam belas.
+framework: explainer
 ---
 
 Pada 2024 Malaysia mencatatkan 37,961,485 ketibaan pelawat asing — lebih

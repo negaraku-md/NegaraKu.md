@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "solvency-statement" }
 related: []
 keywords: ["pembelian balik saham", "share buy-back", "saham perbendaharaan", "treasury shares", "Seksyen 127", "Akta Syarikat 2016", "Bursa Malaysia", "Bab 12"]
+framework: rules
 ---
 
 Sebuah syarikat boleh membeli semula sahamnya sendiri dan menyimpannya "dalam perbendaharaan" — tetapi hanya jika ia tersenarai, mampu membayar hutangnya, dan berpegang pada had ketat 10%.

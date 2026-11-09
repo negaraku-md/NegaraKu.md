@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "freedom-of-information-malaysia" }
 related: []
 keywords: ["Akta Rahsia Rasmi 1972", "Official Secrets Act", "Akta 88", "rahsia rasmi", "pengelasan dokumen", "seksyen 16A", "keselamatan negara", "kebebasan media", "OSA Malaysia"]
+framework: rules
 ---
 
 นักข่าวที่ได้รับสำเนารายงานการประชุมคณะรัฐมนตรี นักวิจัยที่ทำการวัดใกล้ค่ายทหาร และเจ้าพนักงานที่เก็บแฟ้มที่มีตราว่า "ปกปิด" — ทั้งสามอาจถูกกฎหมายฉบับเดียวกันแตะต้องได้ พระราชบัญญัติความลับทางราชการ 1972 หรือ Akta 88 เป็นกระดูกสันหลังของระบบความลับทางราชการของมาเลเซีย และขอบเขตของมันกว้างกว่าเรื่องการจารกรรมเพียงอย่างเดียวมาก

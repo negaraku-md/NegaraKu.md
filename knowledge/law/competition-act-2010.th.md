@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "how-a-bill-becomes-law" }
 related: ["consumer-protection-act", "companies-act-2016", "how-a-bill-becomes-law"]
 keywords: ["Competition Act 2010", "MyCC", "Malaysia Competition Commission", "anti-competitive agreements", "abuse of dominance", "cartel", "price fixing", "bid rigging", "Section 4", "Section 10"]
+framework: rules
 ---
 
 เมื่อผู้ผลิตอาหารสัตว์ปีกห้ารายตกลงกันอย่างเงียบ ๆ ที่จะขึ้นราคาไปพร้อมกัน ในที่สุดมันก็ปรากฏขึ้นที่ตลาดสดในราคาของไก่ ในเดือนธันวาคม 2023 หน่วยงานกำกับดูแลการแข่งขันของมาเลเซียปรับพวกเขารวม RM415.5 ล้าน — โทษปรับด้านการแข่งขันที่สูงที่สุดในประวัติศาสตร์ของประเทศ — ฐานฝ่าฝืนกฎหมายที่ธุรกิจจำนวนมากยังแทบไม่รู้ว่ามีอยู่

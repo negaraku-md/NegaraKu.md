@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "sales-and-service-tax-sst" }
 related: []
 keywords: ["antipencatutan", "kawalan harga", "untung berlebihan", "Akta 723", "Op Catut", "KPDN", "pencatutan harga"]
+framework: rules
 ---
 
 Naikkan harga sebab kos naik itu satu hal. Naikkan harga sekadar untuk mengaut untung lebih besar daripada tahun lepas — itu boleh membawa anda ke mahkamah di Malaysia.

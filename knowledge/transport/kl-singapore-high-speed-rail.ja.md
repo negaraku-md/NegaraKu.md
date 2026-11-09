@@ -78,6 +78,7 @@ relations:
   - { rel: "compares-with", to: "johor-bahru-singapore-rts-link" }
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["KL Singapore HSR", "high-speed rail Malaysia", "MyHSR Corp", "HSR termination compensation", "HSR revival RFP"]
+framework: history-culture
 ---
 
 クアラルンプールからシンガポールまでを約90分で運んでくれるはずの弾丸列車は、署名され、凍結され、中止され、惜しまれ、そして復活した——線路がただの一本も敷かれないうちに、である。この、やったりやめたりを繰り返してきた計画が実際にどこまで進んでいるのかを、ここで整理する。

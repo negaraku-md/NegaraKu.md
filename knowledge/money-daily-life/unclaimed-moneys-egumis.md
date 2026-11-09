@@ -66,6 +66,7 @@ relations:
   - { rel: "governs", to: "unclaimed-moneys-act-1965" }
 related: []
 keywords: ["wang tak dituntut", "eGUMIS", "unclaimed moneys", "Akta Wang Tak Dituntut 1965", "Jabatan Akauntan Negara", "JANM", "wang dorman", "bayaran balik"]
+framework: how-to
 ---
 
 Wang anda mungkin sedang menunggu di sebuah pangkalan data kerajaan tanpa anda sedari — dividen yang tidak sempat dituntut, baki akaun bank lama, atau pampasan insurans yang tidak berjaya dihantar kepada anda. Semuanya terkumpul di bawah satu nama rasmi: Wang Tak Dituntut (WTD).

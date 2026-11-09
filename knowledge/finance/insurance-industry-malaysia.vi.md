@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["insurance Malaysia", "life insurance", "general insurance", "motor insurance", "PIAM", "LIAM", "Financial Services Act 2013", "Bank Negara Malaysia", "third party cover"]
+framework: profile
 ---
 
 Mỗi lần gia hạn thuế đường bộ tại Malaysia lặng lẽ chứng minh một điểm: mua bảo hiểm trước, hoặc chiếc xe nằm ngoài đường. Cái móc pháp lý duy nhất đó — bảo hiểm trách nhiệm bên thứ ba bắt buộc đối với xe cơ giới — là rìa dễ thấy nhất của một ngành mà nếu không thì vận hành ở hậu cảnh của đời sống hằng ngày, thu phí bảo hiểm, gộp rủi ro, và chi trả khi mọi thứ trục trặc.

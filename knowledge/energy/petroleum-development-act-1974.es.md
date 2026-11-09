@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "register-business-sabah" }
 related: ["register-business-sarawak", "register-business-sabah"]
 keywords: ["akta kemajuan petroleum 1974", "petroleum development act 1974", "petronas", "royalti minyak", "MA63", "seksyen 2 pemilikan", "bayaran tunai petroleum", "sarawak sabah kelantan minyak"]
+framework: explainer
 ---
 
 Una ley de apenas unas pocas páginas transfirió la propiedad de todo el petróleo de Malasia —en tierra y en el lecho marino— a una sola empresa, y hasta el día de hoy la línea divisoria que trazó sigue discutiéndose en los tribunales y en la mesa de negociación.

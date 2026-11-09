@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "cp204b-change-of-accounting-period" }
 related: ["financial-statements-lodgement", "companies-act-2016"]
 keywords: ["tahun kewangan", "FYE", "financial year end", "SSM", "Akta Syarikat 2016", "CP204B", "penyata kewangan"]
+framework: how-to
 ---
 
 Ramai pengarah menyangka menukar tahun kewangan syarikat memerlukan satu borang khas dihantar ke SSM — tetapi Akta Syarikat 2016 sebenarnya tidak menyebut borang sedemikian langsung.

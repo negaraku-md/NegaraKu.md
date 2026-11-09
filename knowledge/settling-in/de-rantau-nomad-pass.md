@@ -69,6 +69,7 @@ relations:
   - { rel: "compares-with", to: "employment-pass" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "professional-visit-pass"]
 keywords: ["DE Rantau", "digital nomad visa Malaysia", "nomad pass", "MDEC", "Professional Visit Pass", "remote work Malaysia"]
+framework: explainer
 ---
 
 If you work remotely for an employer or clients based outside Malaysia, you can live and work in the country legally under a pass built for exactly that: the **DE Rantau Nomad Pass**.

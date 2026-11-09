@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "buying-property-in-malaysia" }
 related: []
 keywords: ["CCC", "Certificado de Finalización y Cumplimiento", "renovación de vivienda", "aprobación PBT", "Akta 133", "permiso de renovación", "Principal Submitting Person"]
+framework: rules
 ---
 
 Quiere añadir una cocina en la parte trasera de la casa o construir un piso superior, y de repente un vecino le dice «primero tienes que solicitarlo al municipio». ¿Es cierto? Para la mayoría de los trabajos de renovación, sí.

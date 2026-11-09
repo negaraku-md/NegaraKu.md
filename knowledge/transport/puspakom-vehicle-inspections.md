@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "road-tax-renewal-malaysia" }
 related: ["road-tax-renewal"]
 keywords: ["puspakom", "pemeriksaan berkala", "kenderaan komersial", "e-hailing", "cukai jalan", "akta pengangkutan jalan 1987"]
+framework: rules
 ---
 
 Kalau anda memiliki lori, van, teksi atau kereta e-hailing, kalendar enam-bulanan Puspakom sebenarnya kalendar cukai jalan anda — tanpa cop pemeriksaan yang sah, JPJ tidak akan benarkan anda memperbaharui lesen kenderaan langsung.

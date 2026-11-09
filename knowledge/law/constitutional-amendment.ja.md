@@ -52,6 +52,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["federal-constitution", "majlis-raja-raja", "ma63", "article-152-language", "fundamental-liberties"]
 keywords: ["Article 159 Federal Constitution", "amending the Constitution Malaysia", "two-thirds majority Parliament", "Conference of Rulers consent", "Article 161E Sabah Sarawak", "Perkara 159", "constitutional amendment Malaysia"]
+framework: explainer
 ---
 
 第159条は、まず自らを自らの規則に服させることから始まる。第(5)款は、統治者会議（Conference of Rulers）の同意なしには改正できない保障条項を列挙しているが――その一覧の最後の項目は「本款」自体である。改正手続が、自らの改正手続自体を保護している。この一点だけで、連邦憲法が単純な一つの規則によって変更されるようには決して意図されていなかったことがわかる。

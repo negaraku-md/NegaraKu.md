@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "special-resolution" }
 related: ["companies-act-2016"]
 keywords: ["tukar nama syarikat", "change of company name", "تغيير اسم الشركة", "المادة 28", "seksyen 28", "قرار خاص", "SSM CRS", "name reservation", "حجز الاسم"]
+framework: how-to
 ---
 
 تغيير اسم الشركة ليس مجرد مسألة ملء نموذج — فهو يبدأ بقرار خاص من الأعضاء ولا ينتهي

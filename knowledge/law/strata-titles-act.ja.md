@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "house-buyers-act" }
 related: ["national-land-code"]
 keywords: ["akta hakmilik strata", "akta pengurusan strata 2013", "JMB", "perbadanan pengurusan", "caj penyelenggaraan", "kumpulan wang penjelas", "tribunal pengurusan strata"]
+framework: explainer
 ---
 
 コンドミニアムを購入するということは、自分自身の「専有部分（parcel）」を所有することを意味する——ただし、エレベーター、プール、廊下、屋上は、数百人の隣人と共有する。二つの法律が、誰が何を所有し、誰がその共有スペースの維持費を払うかを定めている。

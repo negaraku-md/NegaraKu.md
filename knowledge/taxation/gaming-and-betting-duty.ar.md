@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "corporate-income-tax" }
 related: ["sales-and-service-tax"]
 keywords: ["رسم الكازينو", "duti kasino", "ضريبة القمار", "cukai perjudian", "رسم آلات الألعاب", "duti mesin permainan", "رسم مراهنات التجميع", "duti pertaruhan pool", "مشغّل توقّع الأرقام", "number forecast operator", "ضريبة الألعاب ماليزيا", "gaming tax Malaysia"]
+framework: rules
 ---
 
 كل رينغيت يُراهَن به على طاولة كازينو أو عند منضدة 4D يحمل ضريبةً خفية — وفي

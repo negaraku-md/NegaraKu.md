@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "epf-retirement-savings" }
 related: []
 keywords: ["belanjawanku", "تكاليف المعيشة في ماليزيا", "KWSP", "EPF", "ميزانية مرجعية", "مستوى معيشي معقول", "وادي كلانغ", "SWRC", "Belanjawanku"]
+framework: explainer
 ---
 
 «هل يكفي RM2,800 شهريًا لعيش شخص أعزب في وادي كلانغ؟» هذا بالضبط نوع السؤال الذي يسعى Belanjawanku للإجابة عنه — لا بالتخمين، بل بأرقام مرجعية مبنية على أنماط الإنفاق الفعلية للأسر الحضرية.

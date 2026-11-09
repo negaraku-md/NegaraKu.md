@@ -96,6 +96,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Jauh sebelum Malaysia dikenali kerana cip komputer dan minyak sawit, ia membuat kain dan pakaian. Industri tekstil, pakaian dan kasut ialah salah satu sektor pembuatan moden tertua di negara ini — jenis perniagaan intensif buruh dan berorientasikan eksport yang membantu mencetuskan perindustrian pada 1970-an dan 1980-an. Hari ini ia sekeping kecil daripada ekonomi yang jauh lebih besar, tetapi ia kekal majikan sebenar, pengeksport mantap, dan sektor yang sedang cuba dibentuk semula secara aktif oleh kerajaan.

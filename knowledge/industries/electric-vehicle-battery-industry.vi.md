@@ -94,6 +94,7 @@ keywords:
   - Proton e.MAS
   - Samsung SDI
   - áp dụng EV
+framework: profile
 ---
 
 Malaysia đã dành nửa thế kỷ để chế tạo ô tô. Giờ đây đất nước đang cố gắng điện khí hóa chúng — và, quan trọng không kém, làm ra pin và xây dựng mạng sạc mà xe điện phụ thuộc vào. Đây là một câu chuyện khác với câu chuyện được kể trong hướng dẫn về [ngành ô tô của Malaysia](/vi/industries/automotive-industry/), vốn chủ yếu nói về xe xăng và dầu diesel. Ở đây chủ đề là *hệ sinh thái* EV và pin: các phương tiện, các ưu đãi, các trụ sạc và các nhà máy cùng nhau quyết định Malaysia chuyển sang di chuyển bằng điện nhanh ra sao.

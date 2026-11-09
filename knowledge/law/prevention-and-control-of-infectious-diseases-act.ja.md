@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "movement-control-order-covid-19" }
 related: []
 keywords: ["Akta 342", "penyakit berjangkit", "kuarantin", "PKP", "COVID-19", "kawasan jangkitan tempatan", "kesihatan awam", "Kementerian Kesihatan Malaysia"]
+framework: rules
 ---
 
 活動制限令（Perintah Kawalan Pergerakan、PKP）が2020年3月、マレーシアのほぼ全土で人々の移動を停止させたとき、その背後にある法的権限は、いかなる新たな緊急法からも生じたものではなかった——それは、1988年から存在してきた一つの公衆衛生法令から生じたものであった。

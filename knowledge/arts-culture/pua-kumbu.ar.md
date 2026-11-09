@@ -78,6 +78,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["batik", "gawai-dayak", "sarawak"]
 keywords: ["بوا كومبو", "pua kumbu", "حياكة الإيبان", "إيكات السَّدى", "kebat", "engkudu", "ngar", "قماش ساراواك الاحتفالي", "Bangie Embol"]
+framework: history-culture
 ---
 
 قماش لا تجرؤ حائكته على إبداعه من دون «بركة» — يُقال إن نقوشه تأتي في الأحلام، وكان في زمن مضى موثوقًا وثيقًا بتقليد المحاربين لدى الشعب الذي صنعه. ذلك هو بوا كومبو.

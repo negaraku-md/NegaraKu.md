@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "malay-woodcarving" }
 related: []
 keywords: ["rumah Melayu", "rumah panggung", "senibina vernakular", "bumbung panjang", "tebar layar", "rumah panjang", "kampung", "warisan"]
+framework: history-culture
 ---
 
 Angkat sebuah rumah kampung tua, bongkar sambungannya, dan pasang kembali di lokasi baru — sebagian besar tanpa fondasi beton yang tetap. Itulah kebijaksanaan arsitektur Melayu tradisional: sebuah rumah yang "membaca" iklim tropis sebelum adanya pendingin udara.

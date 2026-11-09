@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
 related: ["companies-act-2016"]
 keywords: ["liabiliti setiausaha syarikat", "kesalahan setiausaha syarikat", "penyata palsu", "seksyen 591", "Akta Syarikat 2016", "pegawai syarikat", "Borang 49"]
+framework: rules
 ---
 
 ลายมือชื่อเพียงลายเดียวบนแบบฟอร์มของ SSM อาจนำเลขานุการบริษัทไปสู่คอกจำเลย — ไม่ใช่แค่บริษัทหรือกรรมการ เอกสารที่ผิด แม้จะลงนามตามคำสั่งของกรรมการ ก็ยังคงเป็นความรับผิดชอบส่วนตัวของผู้ที่ยื่น

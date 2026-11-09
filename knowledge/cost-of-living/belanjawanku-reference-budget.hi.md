@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "epf-retirement-savings" }
 related: []
 keywords: ["belanjawanku", "kos sara hidup", "KWSP", "EPF", "belanjawan rujukan", "taraf hidup munasabah", "Lembah Klang", "SWRC"]
+framework: explainer
 ---
 
 "क्या क्लांग वैली में एक अकेले व्यक्ति के रहने के लिए RM2,800 प्रति माह पर्याप्त है?" यह ठीक वह प्रकार का प्रश्न है जिसका उत्तर Belanjawanku देने निकलता है — अनुमान से नहीं, बल्कि शहरी परिवारों के वास्तविक खर्च-पैटर्न से बने संदर्भ आँकड़ों के साथ।

@@ -103,6 +103,7 @@ entity: "Stamp Act 1949 (Act 378, Malaysia)"
 relations: []
 related: []
 keywords: ["stamp act 1949", "stamp duty malaysia", "LHDN stamp duty", "ad valorem duty", "fixed duty", "memorandum of transfer stamp duty", "MOT stamp duty", "loan agreement stamp duty", "tenancy agreement stamp duty", "e-stamping malaysia", "stamp duty self assessment", "stamp duty calculator malaysia", "stamp duty penalty", "stamp duty exemption", "Act 378"]
+framework: rules
 ---
 
 签一份租约、办一笔房屋贷款、过户一张地契、通过经纪买入股份——在这些文书工作中的某个角落，藏着一项你或许从未留意的税。这项税就是**印花税**，它背后的法律是**《1949年印花税法令》（Act 378）**。它的特别之处在于征税对象：印花税针对的是**文书**——书面文件本身——而非文件所记录的交易。文件加盖印花后，便能在法庭上站得住脚；不加盖印花，它的价值可能就与印它的那张纸相差无几。

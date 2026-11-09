@@ -90,6 +90,7 @@ keywords:
   - "kadar LKM kW"
   - "cukai jalan kenderaan elektrik JPJ"
   - "road tax EV Malaysia"
+framework: explainer
 ---
 
 马来西亚电动车享有免路税的时代已经结束——但落在你 MyJPJ 里的第一张账单，可能比你想象的更便宜，而且它是用一套全新的方式计算的。

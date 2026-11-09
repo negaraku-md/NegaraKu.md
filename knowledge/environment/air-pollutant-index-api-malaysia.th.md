@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "jerebu-di-malaysia" }
 related: []
 keywords: ["IPU", "API", "indeks pencemar udara", "kualiti udara", "jerebu", "PM2.5", "PM10", "Jabatan Alam Sekitar"]
+framework: explainer
 ---
 
 เมื่อหมอกควันหนาขึ้นและโรงเรียนเริ่มถามว่าควรยกเลิกการเข้าแถวยามเช้าหรือไม่ ตัวเลขเดียวมักเป็นตัวชี้ขาด นั่นคือค่า IPU ตัวเลขนั้นดูเรียบง่าย แต่เบื้องหลังมีมลพิษหกชนิดที่ถูกวัดอย่างต่อเนื่องและสูตรหนึ่งที่กลั่นทั้งหมดให้เหลือเป็นค่าเดียว

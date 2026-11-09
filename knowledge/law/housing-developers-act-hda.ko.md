@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "strata-titles-act-1985" }
 related: []
 keywords: ["HDA", "Akta 118", "Jadual H", "Jadual G", "ganti rugi lewat", "LAD", "milikan kosong", "lesen pemaju", "APDL", "Tribunal Tuntutan Pembeli Rumah"]
+framework: rules
 ---
 
 여러분은 건축가의 도면으로만 존재하는 콘도미니엄을 위해 10%의 계약금을 내고, 대출 할부금을 갚으며 3년을 기다립니다. 개발자가 여러분의 돈을 들고 달아나거나, 늦게 짓거나, 하자 있는 유닛을 넘기는 것을 무엇이 막아 줍니까? 그 답은 반세기가 넘은 하나의 법률입니다. 주택개발(통제·인가)법(Housing Development (Control and Licensing) Act 1966) — 짧게 HDA 또는 Akta 118로 불립니다.

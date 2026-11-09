@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "expatriate-services-division" }
 related: ["employment-pass-malaysia"]
 keywords: ["Immigration Act 1959/63", "Act 155", "Malaysia visa", "employment pass", "overstay penalty Malaysia", "Section 15(4)", "Section 6(3)", "deportation", "dependant pass", "work permit Malaysia"]
+framework: rules
 ---
 
 여권에 유효한 비자가 있다고 해서 그것만으로 말레이시아에 발을 들일 수 있는 것은 아닙니다 — 그리고 그것은 너무 오래 머물렀을 때 여러분을 곤경에 빠뜨리는 문서도 아닙니다. 두 역할 모두 하나의 법률에 속합니다. 국경을 누가 넘을 수 있는지, 안에 들어온 후 무엇을 할 수 있는지, 그리고 체류 조건을 위반했을 때 무슨 일이 일어나는지를 결정하는 법령인 **이민법(Immigration Act 1959/63, Act 155)**입니다.

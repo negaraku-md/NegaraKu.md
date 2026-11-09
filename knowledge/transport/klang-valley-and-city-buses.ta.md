@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "klang-valley-integrated-transit-system" }
 related: []
 keywords: ["Rapid KL bus", "MRT feeder bus", "Klang Valley bus", "Rapid Bus", "Rapid KL On-Demand", "city bus Kuala Lumpur"]
+framework: explainer
 ---
 
 ரயில் உங்களை ஒரு நிலையத்திற்குக் கொண்டு செல்கிறது. ஆனால் அது எப்போதாவதுதான் உங்களை வீடு வரை கொண்டு செல்கிறது. அந்த இடைவெளி — MRT அல்லது LRT நடைமேடையிலிருந்து உங்கள் வீட்டு வாசல், உங்கள் அலுவலகப் பூங்கா, அல்லது இரண்டு அக்கம்பக்கங்களுக்கு அப்பால் உள்ள ஈரச் சந்தை வரை — பெரும்பாலான பயணிகள் அரிதாகவே நினைக்கும் ஒரு பேருந்து அணியால் நிரப்பப்படுகிறது: அவை Rapid KL பேருந்துகள்.

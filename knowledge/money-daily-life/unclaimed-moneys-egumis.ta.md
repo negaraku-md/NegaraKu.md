@@ -67,6 +67,7 @@ relations:
   - { rel: "governs", to: "unclaimed-moneys-act-1965" }
 related: []
 keywords: ["wang tak dituntut", "eGUMIS", "unclaimed moneys", "Akta Wang Tak Dituntut 1965", "Jabatan Akauntan Negara", "JANM", "wang dorman", "bayaran balik"]
+framework: how-to
 ---
 
 உங்களுக்குத் தெரியாமலேயே உங்கள் பணம் ஒரு அரசாங்கத் தரவுத்தளத்தில் காத்திருக்கக்கூடும் — கோர நேரமின்றி விடப்பட்ட ஈவுத்தொகைகள், பழைய வங்கிக் கணக்கின் இருப்பு, அல்லது உங்களுக்கு வந்து சேராத காப்பீட்டு இழப்பீடு. இவை அனைத்தும் ஒரே அதிகாரப்பூர்வப் பெயரின் கீழ் குவிகின்றன: கோரப்படாத பணம் (Wang Tak Dituntut, WTD).

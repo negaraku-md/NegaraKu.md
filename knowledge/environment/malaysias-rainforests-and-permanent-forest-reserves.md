@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-state-and-federal-lists" }
 related: []
 keywords: ["hutan simpanan kekal", "akta perhutanan negara 1984", "pewartaan hutan", "senarai negeri", "hutan hujan malaysia", "degazette hutan simpan", "enakmen hutan sabah", "ordinan hutan sarawak"]
+framework: explainer
 ---
 
 Sekeping tanah berhutan di Malaysia bukan "dilindungi" hanya kerana ia dipenuhi pokok — perlindungannya bermula pada hari nama tanah itu tersiar dalam Warta. Tanpa pewartaan itu, hutan yang sama boleh diberi lesen untuk pembangunan pada bila-bila masa. Inilah asas seluruh sistem Hutan Simpanan Kekal (HSK) Malaysia.

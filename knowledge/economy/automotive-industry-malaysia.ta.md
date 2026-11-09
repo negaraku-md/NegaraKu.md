@@ -109,6 +109,7 @@ entity: "Automotive industry of Malaysia"
 relations: []
 related: []
 keywords: ["Malaysia automotive industry", "Proton", "Perodua", "National Automotive Policy", "NAP 2020", "electric vehicles Malaysia", "TIV", "car manufacturing Malaysia", "EV incentives", "CKD"]
+framework: profile
 ---
 
 பெரும்பாலான தென்கிழக்கு ஆசிய நாடுகள் வெளிநாட்டு கார் தயாரிப்பாளர்களைத் தமது மண்ணில் அசெம்பிள் செய்ய அனுமதித்து அத்துடன் நிறுத்திக் கொண்டன. மலேசியா இன்னும் துணிச்சலான, விநோதமான ஒன்றைச் செய்தது: தேசமே காரைச் சொந்தமாக்கிக் கொள்ள வேண்டும் என்று தீர்மானித்தது. அந்தச் சூதாட்டத்திலிருந்து பிறந்த இரு சின்னங்கள் — Proton மற்றும் Perodua — இன்றும் மலேசிய சாலைகளில் ஐந்தில் மூன்றுக்கும் அதிகமான புதிய கார்களை நிறுத்துகின்றன.

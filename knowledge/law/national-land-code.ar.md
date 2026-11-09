@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["buying-a-home-process", "federal-constitution", "companies-act-2016"]
 keywords: ["قانون الأراضي الوطني", "نظام توريِنز", "تسجيل سندات الأراضي", "الحصانة التي لا تُدحض", "قانون أراضي شبه جزيرة ماليزيا", "National Land Code", "Act 828", "Act 56 of 1965", "Torrens system Malaysia", "land title registration", "indefeasibility of title section 340", "Sabah Land Ordinance", "Sarawak Land Code", "Peninsular Malaysia land law"]
+framework: explainer
 ---
 
 اطلب من محامٍ في كوتشينغ أن يفحص سند ملكية أرض في بينانغ استنادًا إلى National

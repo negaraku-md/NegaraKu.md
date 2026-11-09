@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["contracts-act-1950", "court-hierarchy", "companies-act-2016"]
 keywords: ["Consumer Protection Act 1999", "Act 599", "Tribunal for Consumer Claims", "उपभोक्ता दावा ट्रिब्यूनल", "TTPM", "उपभोक्ता अधिकार मलेशिया", "KPDN", "उपभोक्ता दावा RM50000"]
+framework: data-reference
 ---
 
 एक फ़ोन जो दूसरे सप्ताह में खराब हो जाता है। एक नवीनीकरण ठेकेदार जो जमा राशि लेकर गायब हो जाता है। एक ऐसी कीमत पर «50% छूट» का स्टिकर जो वास्तव में कभी मूल कीमत थी ही नहीं। मलेशिया में एक ही क़ानून है जो इन तीनों का उत्तर देता है: उपभोक्ता संरक्षण अधिनियम 1999।

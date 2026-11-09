@@ -90,6 +90,7 @@ faq:
     a: It is the single largest source of receipts, but far smaller as a share than its arrivals suggest. Singapore was 49.7% of 2024 foreign visitor arrivals but only 26.2% of receipts; China was 9.8% of arrivals but 19.5% of receipts. Average spend per arrival ranges from roughly RM1,500 for Singapore to roughly RM5,600 for China, against a national average of about RM2,800 — a large gap driven by the day-trip mix.
   - q: Is tourism 15.1% of Malaysia's GDP or 6.2%?
     a: Both figures come from DOSM's Tourism Satellite Account, but they measure different things and should not be used interchangeably. Gross value added of tourism industries (GVATI) was 15.1% of GDP in 2024 — the whole output of industries serving tourists, including the part consumed by locals. Tourism direct GDP (TDGDP) was 6.2% — tourism demand only. Tourism industries are about a seventh of the economy; tourism demand directly about a sixteenth.
+framework: explainer
 ---
 
 In 2024 Malaysia counted 37,961,485 foreign visitor arrivals — more people

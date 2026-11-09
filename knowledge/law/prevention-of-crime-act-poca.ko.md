@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "prevention-of-terrorism-act-pota" }
 related: ["sosma"]
 keywords: ["POCA", "Akta Pencegahan Jenayah 1959", "Akta 297", "tahanan pencegahan", "Lembaga Pencegahan Jenayah", "jenayah terancang", "tahanan tanpa perbicaraan"]
+framework: explainer
 ---
 
 한 사람이 지목되고, 수사받고, 마침내 한 번도 법원에 기소되지 않은 채 2년 동안 구금될 수 있으며 — 그 결정은 판사가 아니라 하나의 위원회가 내립니다. 그것이 바로 범죄예방법 1959(Prevention of Crime Act 1959, POCA)의 핵심에 있는 메커니즘입니다.

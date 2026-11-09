@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "e-commerce-malaysia" }
 related: ["mydigital-blueprint"]
 keywords: ["digital economy", "MyDIGITAL", "Malaysia Digital", "MD Status", "MDEC", "e-commerce", "ICT GDP", "DE Rantau"]
+framework: explainer
 ---
 
 Près d'un ringgit sur quatre produit par l'économie de la Malaisie passe désormais par des écrans, des serveurs et des paniers d'achat. En 2024, l'industrie des TIC et le commerce électronique représentaient ensemble 23,4 % du PIB du pays — soit RM451.3 milliards — selon le Département des statistiques de Malaisie (DOSM). Ce seul chiffre est ce qui ressemble le plus, en Malaisie, à un tableau de bord national de l'économie numérique, et comprendre comment il se construit, ce qui le porte et comment le gouvernement cherche à le faire croître est le moyen le plus rapide de lire où se dirige le pays.

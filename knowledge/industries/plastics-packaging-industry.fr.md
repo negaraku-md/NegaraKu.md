@@ -97,6 +97,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Presque chaque produit physique qui sort d'une usine malaisienne — un paquet de nouilles instantanées, un smartphone, un pare-chocs de voiture, une longueur de tuyau d'eau — dépend d'un plastique qui a été façonné quelque part dans le pays. Les plastiques sont l'une des forces industrielles discrètes de la Malaisie : moins glamour que les semi-conducteurs, mais tissés dans presque tous les autres secteurs manufacturiers et, de plus en plus, dans le débat national sur les déchets et la durabilité.

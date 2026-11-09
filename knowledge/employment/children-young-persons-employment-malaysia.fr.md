@@ -82,6 +82,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-tenaga-kerja-semenanjung-malaysia" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["Akta 350", "kanak-kanak dan orang muda", "buruh kanak-kanak", "umur minimum bekerja", "kerja hiburan awam", "kerja berbahaya", "Akta Kanak-Kanak dan Orang Muda Pekerjaan 1966"]
+framework: rules
 ---
 
 Un élève de 14 ans qui donne un coup de main au stand de nourriture familial et un enfant de cinq ans qui joue dans une publicité télévisée sont régis par la même loi — et ce n'est pas l'Employment Act 1955 vers laquelle les employeurs se tournent habituellement. Cette loi est la Children and Young Persons (Employment) Act 1966, ou Act 350.

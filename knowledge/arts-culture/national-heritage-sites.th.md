@@ -72,6 +72,7 @@ relations:
   - { rel: "compares-with", to: "unesco-world-heritage-malaysia" }
 related: ["unesco-world-heritage"]
 keywords: ["warisan kebangsaan", "Akta Warisan Kebangsaan 2005", "Akta 645", "Jabatan Warisan Negara", "Daftar Warisan Kebangsaan", "WAKOH", "tapak warisan"]
+framework: explainer
 ---
 
 เรือนแถวอายุร้อยปีในจอร์จทาวน์ กริชหนึ่งเล่ม การรำราชสำนักหนึ่งชุด และช่างทำ [ซงเกต](/arts-culture/songket) ที่ยังมีชีวิตคนหนึ่ง — ทั้งสี่สามารถได้รับตำแหน่งทางกฎหมายเดียวกันในมาเลเซีย นั่นคือ *มรดกแห่งชาติ (Warisan Kebangsaan)* สิ่งที่ผูกโยงพวกเขาไว้ไม่ใช่บัญชีของ UNESCO แต่เป็นทะเบียนภายในประเทศที่ไม่ค่อยมีใครเอ่ยชื่อ กล่าวคือ **ทะเบียนมรดกแห่งชาติ (Daftar Warisan Kebangsaan)**

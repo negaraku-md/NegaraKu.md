@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "epf-retirement-savings" }
 related: []
 keywords: ["belanjawanku", "kos sara hidup", "KWSP", "EPF", "belanjawan rujukan", "taraf hidup munasabah", "Lembah Klang", "SWRC"]
+framework: explainer
 ---
 
 "Cukupkah RM2,800 sebulan untuk seorang bujang hidup di Lembah Klang?" Persoalan seperti inilah yang cuba dijawab oleh Belanjawanku — bukan dengan tekaan, tetapi dengan angka rujukan yang dibina daripada corak perbelanjaan sebenar isi rumah bandar.

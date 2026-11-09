@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["contracts-act-1950", "court-hierarchy", "companies-act-2016"]
 keywords: ["Consumer Protection Act 1999", "Act 599", "Tribunal for Consumer Claims", "TTPM", "consumer rights Malaysia", "KPDN", "consumer claim RM50000"]
+framework: data-reference
 ---
 
 இரண்டாவது வாரத்திலேயே செயலிழக்கும் ஒரு தொலைபேசி. வைப்புத்தொகையை வாங்கிக்

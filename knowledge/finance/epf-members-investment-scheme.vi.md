@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "epf-akaun-persaraan" }
 related: []
 keywords: ["EPF i-Invest", "Members Investment Scheme", "KWSP MIS", "invest EPF savings", "Akaun Persaraan", "Basic Savings", "unit trust EPF"]
+framework: explainer
 ---
 
 Khoản tiết kiệm EPF của bạn không nhất thiết phải nằm một chỗ chỉ kiếm cổ tức hằng năm. Nếu bạn đã tích lũy được nhiều hơn sàn hưu trí mà EPF yêu cầu, bạn được phép đặt một phần có kiểm soát của nó vào các quỹ tín thác đơn vị — và từ năm 2019 bạn có thể tự làm điều đó, trực tuyến, không cần một đại lý.

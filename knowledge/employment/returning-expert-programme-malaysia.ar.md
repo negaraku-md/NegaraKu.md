@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "income-tax-rates-malaysia" }
 related: []
 keywords: ["برنامج الخبراء العائدين", "Returning Expert Programme", "REP", "TalentCorp", "ضريبة ثابتة 15%", "15% flat tax", "الشتات الماليزي", "MyHeart", "CKD vehicle exemption"]
+framework: explainer
 ---
 
 إذا كنت ماليزياً بنيتَ مسيرة مهنية في الخارج وتفكّر في العودة، فإن برنامج الخبراء العائدين (REP) يقدّم معدل ضريبة دخل ثابتاً اختيارياً بنسبة 15% على الدخل الوظيفي لخمس سنوات، بدلاً من المعدلات التصاعدية المعتادة. ولكي تكون مؤهَّلاً، يجب أن تتقدّم بالطلب *قبل* عودتك إلى ماليزيا.

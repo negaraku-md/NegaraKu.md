@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "court-hierarchy" }
 related: ["federal-constitution", "common-law-in-malaysia", "civil-and-syariah-courts", "how-a-bill-becomes-law", "national-land-code", "court-hierarchy"]
 keywords: ["fuentes del derecho malasio", "sources of Malaysian law", "sistema jurídico malasio", "supremacía de la Constitución Federal", "Article 4(1)", "Noveno Anexo Federal List State List", "Civil Law Act 1956", "derecho islámico Malasia", "adat Adat Perpatih Adat Temenggong", "derecho consuetudinario Malasia", "jerarquía del derecho Malasia"]
+framework: explainer
 ---
 
 Un tribunal malasio que resuelve una sola disputa familiar podría, en principio, tener que recurrir a cuatro cuerpos de derecho distintos antes siquiera de llegar a los hechos: una disposición constitucional, una ley federal, una regla de equidad inglesa heredada, y — si las partes son malayos de Negeri Sembilan bajo el Adat Perpatih — una costumbre con fuerza de ley detrás. Nada de eso es un caso límite hipotético. Es la arquitectura ordinaria del sistema.

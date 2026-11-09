@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "solid-waste-management-in-malaysia" }
 related: []
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030"]
+framework: explainer
 ---
 
 계산대의 얇은 비닐봉투는 보통 잠깐만 쓰이지만, 환경에는 오랜 기간 남아 있을 수 있습니다. 이 문제를 다루기 위해 말레이시아는 하나의 전면 금지를 즉시 택하지 않고 — 대신 작은 부과금에서 더 넓은 금지로 나아가는 단계적 로드맵을 택했습니다.

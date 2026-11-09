@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
 related: ["tenaga-nasional"]
 keywords: ["tarif elektrik", "TNB", "RP4", "AFA", "ICPT", "Time-of-Use", "Caj Tenaga", "bil elektrik", "Suruhanjaya Tenaga"]
+framework: explainer
 ---
 
 உங்கள் சமீபத்திய TNB பில்லைப் புரட்டிப் பார்க்கும்போது, ஒரு நேர்த்தியான மொத்தத் தொகைக்குப் பதிலாக ஐந்து தனித்தனி கட்டண வரிகளைக் கண்டு ஆச்சரியப்பட்டால், நீங்கள் குழம்பவில்லை — தீபகற்ப மலேசியாவின் மின்சார கட்டண அமைப்பு 2025 ஜூலை 1 அன்று முழுமையாக மறுசீரமைக்கப்பட்டது.

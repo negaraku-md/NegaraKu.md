@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["macc-sprm", "employment-act-1955"]
 keywords: ["ley de protección del denunciante 2010", "act 711", "conducta indebida", "denunciante Malasia", "acción perjudicial", "revocación artículo 11", "revelación MACC"]
+framework: explainer
 ---
 
 Denuncie un soborno en el trabajo y la ley malasia puede mantener su nombre en secreto, protegerlo de ser demandado, y hacer ilegal que su jefe lo despida por ello. Pero dé un solo paso en falso — acudir primero a la prensa, o resultar que usted mismo tuvo parte en el esquema — y cada una de esas protecciones puede serle retirada. Ese es el diseño deliberado de la Ley de Protección del Denunciante de 2010.

@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "auditor-independence" }
 related: ["companies-act-2016"]
 keywords: ["seksyen 266", "juruaudit", "SSM", "Akta Syarikat 2016", "pelaporan pelanggaran", "penipuan", "Pendaftar"]
+framework: rules
 ---
 
 ผู้สอบบัญชีที่พบการฉ้อโกงระหว่างการสอบบัญชีไม่สามารถเพียงนิ่งเงียบและลงนามในรายงาน — กฎหมายกำหนดให้เขาต้องทำรายงานเป็นลายลักษณ์อักษรต่อนายทะเบียน หน้าที่นี้ไม่ใช่ทางเลือก และการละเลยมันเองก็เป็นความผิดอาญา

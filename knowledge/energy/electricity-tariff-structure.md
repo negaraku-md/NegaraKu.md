@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
 related: ["tenaga-nasional"]
 keywords: ["tarif elektrik", "TNB", "RP4", "AFA", "ICPT", "Time-of-Use", "Caj Tenaga", "bil elektrik", "Suruhanjaya Tenaga"]
+framework: explainer
 ---
 
 Jika anda membelek bil TNB terbaharu dan terkejut melihat lima baris caj berasingan menggantikan satu jumlah kemas, anda tidak keliru — struktur tarif elektrik Semenanjung Malaysia telah dirombak sepenuhnya pada 1 Julai 2025.

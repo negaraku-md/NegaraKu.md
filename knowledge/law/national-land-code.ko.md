@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["buying-a-home-process", "federal-constitution", "companies-act-2016"]
 keywords: ["National Land Code", "Act 828", "Act 56 of 1965", "Torrens system Malaysia", "land title registration", "indefeasibility of title section 340", "Sabah Land Ordinance", "Sarawak Land Code", "Peninsular Malaysia land law"]
+framework: explainer
 ---
 
 쿠칭(Kuching)의 변호사에게 페낭(Penang)의 토지 권원을 국가토지법에 비추어 확인해 달라고 하면, 솔직한 답은 이렇습니다: 그곳에는 이 법이 적용되지 않습니다. 말레이시아가 하나가 아니라 세 개의 별도 토지 법률로 운영된다는 이 한 가지 사실이야말로 대부분의 요약이 건너뛰는 부분입니다.

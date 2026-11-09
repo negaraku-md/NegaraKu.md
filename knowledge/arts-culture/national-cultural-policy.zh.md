@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "national-cultural-policy-daken-2021" }
 related: ["rukun-negara", "new-economic-policy"]
 keywords: ["dasar kebudayaan kebangsaan", "kongres kebudayaan kebangsaan 1971", "tiga prinsip", "DAKEN 2021", "kebudayaan Malaysia", "perpaduan"]
+framework: explainer
 ---
 
 1971年，即[1969年五一三事件](/malaysia/13-may-1969)约两年之后，一群学者、艺术工作者与领袖聚集在马来亚大学，共同回答一个对多元种族国家而言颇为棘手的问题：什么才是"国家文化"？由此产生的答案——国家文化政策（Dasar Kebudayaan Kebangsaan，DKK）——至今仍是政策的参照依据，同时也仍然是争论的话题。

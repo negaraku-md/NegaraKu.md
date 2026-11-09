@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "domestic-flights-and-regional-air-travel" }
 related: []
 keywords: ["Penang ferry", "Langkawi ferry", "Tioman ferry", "island transport Malaysia", "Kuala Kedah", "Kuala Perlis", "northeast monsoon", "Pangkor ferry", "Labuan ferry"]
+framework: explainer
 ---
 
 There is no single national ferry line in Malaysia. Reaching an island means knowing which short crossing, which jetty and which operator serves it — and, on the east coast, whether the sea is even open that month.

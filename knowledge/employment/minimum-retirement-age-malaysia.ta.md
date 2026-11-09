@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["termination-of-employment-malaysia"]
 keywords: ["umur persaraan minimum", "Akta 753", "persaraan 60 tahun", "persaraan pramatang", "kontrak tempoh tetap", "persaraan pilihan"]
+framework: rules
 ---
 
 58 வயதான ஒரு ஊழியருக்கு ஒரு கடிதம் வருகிறது: நிறுவனம் அவரது ஒப்பந்தம் ஓய்வு வயதை 55 என நிர்ணயிப்பதாகவும், எனவே அவரது காலம் “முடிந்துவிட்டது” எனவும் கூறுகிறது. மலேசியாவில், அந்தக் கடிதத்திற்குச் சட்டப்படி எந்த மதிப்பும் இல்லை. 2013 ஜூலை 1 முதல், ஒப்பந்தத்தில் என்ன எழுதப்பட்டிருந்தாலும், தனியார் துறை முதலாளி எவரையும் 60 வயதுக்கு முன் ஓய்வு பெறக் கட்டாயப்படுத்த முடியாது.

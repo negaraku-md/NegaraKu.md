@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "statutory-demand-section-466-malaysia" }
 related: ["companies-act-2016"]
 keywords: ["winding up by court", "compulsory winding up", "section 466", "statutory demand", "Fortuna injunction", "RM50000 threshold", "Companies Act 2016", "insolvency Malaysia", "creditor petition"]
+framework: explainer
 ---
 
 Một hóa đơn chưa được thanh toán có thể chấm dứt một công ty. Ở Malaysia, một chủ nợ được nợ hơn RM50,000 không cần một bản án để dùng đến biện pháp khắc phục quyết liệt nhất trong luật thương mại — một lệnh của tòa án để thanh lý con nợ và phân chia những gì còn lại.

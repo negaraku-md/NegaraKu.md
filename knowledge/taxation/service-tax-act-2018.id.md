@@ -101,6 +101,7 @@ entity: "Service Tax Act 2018 (Act 807)"
 relations: []
 related: []
 keywords: ["Service Tax Act 2018", "Act 807", "service tax Malaysia", "SST", "service tax rate", "8% service tax", "6% service tax", "SST registration threshold", "SST-02", "taxable services", "service tax scope expansion 2025", "Royal Malaysian Customs Department", "MySST", "imported taxable services", "digital service tax Malaysia"]
+framework: rules
 ---
 
 Setiap tagihan restoran, paket telepon, dan struk tempat parkir di Malaysia membawa satu baris yang jarang dibaca dengan teliti oleh kebanyakan orang — pajak jasa. Undang-undang di baliknya adalah **Service Tax Act 2018 (Act 807)**, yaitu suatu Undang-Undang untuk mengadakan ketentuan bagi pengenaan, pemungutan, dan pengumpulan pajak jasa atas jasa kena pajak yang ditetapkan. Ia mulai berlaku pada **1 September 2018** dan dikelola oleh **Departemen Bea dan Cukai Diraja Malaysia (JKDM)**. Halaman "pembaruan SST" firma hanya menangkap tarif saat ini pada tahun tertentu dan menjadi usang; penjelasan ini memperlakukan Act 807 sebagai undang-undang yang hidup — mekanismenya, dan satu garis waktu bertanggal bagi setiap perubahan tarif dan cakupan.

@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["insurance Malaysia", "life insurance", "general insurance", "motor insurance", "PIAM", "LIAM", "Financial Services Act 2013", "Bank Negara Malaysia", "third party cover"]
+framework: profile
 ---
 
 การต่อภาษีรถยนต์ทุกครั้งในมาเลเซียพิสูจน์ประเด็นหนึ่งอย่างเงียบ ๆ: ซื้อประกันก่อน มิฉะนั้นยานพาหนะก็จะไม่ได้อยู่บนถนน ตะขอทางกฎหมายเดียวนั้น — การคุ้มครองบุคคลที่สามสำหรับรถยนต์ที่เป็นข้อบังคับ — คือขอบที่มองเห็นได้ชัดที่สุดของอุตสาหกรรมที่นอกเหนือจากนั้นดำเนินไปเบื้องหลังชีวิตประจำวัน เก็บเบี้ยประกัน รวมความเสี่ยง และจ่ายค่าสินไหมเมื่อเกิดเรื่องผิดพลาด

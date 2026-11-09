@@ -76,6 +76,7 @@ wikidata: "Q27962026"
 relations: []
 related: []
 keywords: ["Road Transport Act 1987", "Act 333", "Akta Pengangkutan Jalan 1987", "RTA 1987", "JPJ", "driving without licence Malaysia", "traffic offences Malaysia", "DUI Malaysia penalty", "Road Transport Amendment Act 2020", "dangerous driving Malaysia", "Section 41 RTA", "Section 44 RTA"]
+framework: rules
 ---
 
 在马来西亚，几乎每一张JPJ的*saman*（罚单）、每一个驾驶执照等级，以及每一份第三者保险保单，都可追溯至同一部法规：**1987年陆路交通法令（Act 333）**，马来文为*Akta Pengangkutan Jalan 1987*。它是马来西亚管理机动车辆与道路交通的主要法律，主要由**陆路交通局（Jabatan Pengangkutan Jalan, JPJ）**执法。以下以浅白的语言梳理各部分所规范的内容，以及常见罪行如今的代价。

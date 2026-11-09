@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "mak-yong" }
 related: ["pahang", "terengganu", "joget-and-zapin", "mak-yong"]
 keywords: ["gamelan Melayu", "gamelan Terengganu", "gamelan Pahang", "joget gamelan", "Tengku Ampuan Mariam", "muzik istana", "warisan kebangsaan"]
+framework: history-culture
 ---
 
 这套甘美兰乐器从一座宫廷迁往另一座宫廷，靠的不是买卖，也不是掠夺——而是婚姻。当一位公主迁入夫君的宫邸时，乐器、舞者与乐曲也随她一同迁移。马来宫廷就是这样拥有了甘美兰。

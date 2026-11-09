@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["contracts-act-1950", "court-hierarchy", "companies-act-2016"]
 keywords: ["Consumer Protection Act 1999", "Act 599", "Tribunal for Consumer Claims", "TTPM", "consumer rights Malaysia", "KPDN", "consumer claim RM50000"]
+framework: data-reference
 ---
 
 Un téléphone qui rend l'âme dès la deuxième semaine. Un entrepreneur en rénovation qui encaisse l'acompte et disparaît. Un autocollant « -50% » sur un prix qui n'a jamais été le prix d'origine. La Malaisie dispose d'un unique statut qui répond à ces trois cas : la Loi de 1999 sur la protection du consommateur.

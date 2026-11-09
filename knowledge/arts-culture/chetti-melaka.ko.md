@@ -74,6 +74,7 @@ relations:
   - { rel: "located-in", to: "melaka" }
 related: ["peranakan", "tamil-in-malaysia", "deepavali"]
 keywords: ["Chetti Melaka", "Chitty Melaka", "Peranakan India", "Kampung Chetti", "Gajah Berang", "Hindu Saivite", "warisan Melaka"]
+framework: history-culture
 ---
 
 믈라카 잘란 가자 브랑의 한 오래된 마을에는 시바 신에게 기도하고, 말레이인처럼 옷을 입고, 코코넛 향이 나는 카레를 끓이며, 타밀어 낱말이 촘촘히 박힌 말레이어로 말하는 한 무리의 가족이 있습니다. 그들은 인도인도, 말레이인도, 중국인도 아닙니다 — 그들은 체티 믈라카이며, 그 수는 점점 적어지고 있습니다.

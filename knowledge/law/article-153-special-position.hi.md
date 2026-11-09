@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-equity-requirements" }
 related: ["federal-constitution", "fundamental-liberties", "ma63", "majlis-raja-raja", "bumiputera-equity-requirements"]
 keywords: ["अनुच्छेद 153", "मलय की विशेष स्थिति", "साबाह और सारावाक के देशज लोग", "संघीय संविधान मलेशिया", "अन्य समुदायों के वैध हित", "Article 153", "special position of the Malays", "Federal Constitution Malaysia", "Bumiputera quotas"]
+framework: explainer
 ---
 
 अनुच्छेद 153 के अधिकांश सारांश एक वाक्य पर रुक जाते हैं: यह «मलय की विशेष स्थिति» की रक्षा करता है। जिस खंड से यह आता है उसे पूरा पढ़ें, और वह वाक्य कुछ और ही कर रहा है — यह एक ही साँस में, एक ही पद को, एक ही खंड में, दो कर्तव्य नामित करता है।

@@ -81,6 +81,7 @@ relations:
   - { rel: "supersedes", to: "factories-and-machinery-act-1967" }
 related: ["labour-law-map-malaysia", ]
 keywords: ["OSHA 1994", "Akta 514", "tanggungjawab majikan", "DOSH", "penilaian risiko", "JKKP 6", "keselamatan pekerjaan"]
+framework: rules
 ---
 
 एक श्रमिक मचान (scaffolding) से गिरता है, और जाँचकर्ता का पहला प्रश्न "कौन लापरवाह था?" नहीं होता — बल्कि "क्या नियोक्ता ने इसे रोकने के लिए हर व्यवहार्य कार्य किया?" होता है। यही Occupational Safety and Health Act 1994 (Act 514), यानी OSHA 1994, का मूल है।

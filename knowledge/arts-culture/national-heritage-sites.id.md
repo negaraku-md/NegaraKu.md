@@ -72,6 +72,7 @@ relations:
   - { rel: "compares-with", to: "unesco-world-heritage-malaysia" }
 related: ["unesco-world-heritage"]
 keywords: ["warisan kebangsaan", "Akta Warisan Kebangsaan 2005", "Akta 645", "Jabatan Warisan Negara", "Daftar Warisan Kebangsaan", "WAKOH", "tapak warisan"]
+framework: explainer
 ---
 
 Sebuah ruko berusia seabad di George Town, sebilah keris, sebuah tarian istana, dan seorang pembuat [songket](/id/arts-culture/songket) yang masih hidup — keempatnya dapat menyandang gelar hukum yang sama di Malaysia: *Warisan Kebangsaan*. Yang mengikat mereka bukan daftar UNESCO, melainkan sebuah daftar domestik yang jarang disebut namanya: **Daftar Warisan Kebangsaan**.

@@ -77,6 +77,7 @@ faq:
     a: Tidak. Di bawah Seksyen 3 Akta Undang-Undang Sivil 1956, sesuatu kes Inggeris yang diputuskan sebelum tarikh pemotongan yang berkaitan pada dasarnya merupakan common law yang mengikat, tetapi kes yang diputuskan selepasnya hanya bersifat memujuk sahaja — mahkamah Malaysia boleh melihatnya, membincangkannya, dan enggan mengikutinya. Seksyen 3 juga menggunakan common law dan ekuiti hanya "setakat mana keadaan... membenarkan," jadi mahkamah boleh menolak kaedah Inggeris yang tidak sesuai dengan keadaan tempatan.
   - q: Adakah undang-undang Inggeris mentadbir pemilikan tanah di Malaysia?
     a: Tidak. Seksyen 6 Akta Undang-Undang Sivil 1956 menyatakan bahawa tiada apa-apa dalam Akta ini memperkenalkan undang-undang Inggeris berkaitan pegangan, pindah hak, jaminan atau pewarisan harta tak alih. Undang-undang tanah Inggeris sengaja dikecualikan sejak hari pertama. Sebaliknya, tanah Malaysia berjalan atas sistem Torrens yang berasal dari Australia, dikodifikasikan bagi Semenanjung Malaysia dalam Kanun Tanah Negara 1965 (Akta 56), di mana pendaftaran itu sendiri mewujudkan dan membuktikan hakmilik.
+framework: explainer
 ---
 
 Seorang hakim Malaysia yang memutuskan pertikaian kontrak hari ini masih boleh

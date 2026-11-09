@@ -102,6 +102,7 @@ entity: "Stamp Act 1949 (Act 378, Malaysia)"
 relations: []
 related: []
 keywords: ["stamp act 1949", "stamp duty malaysia", "LHDN stamp duty", "ad valorem duty", "fixed duty", "memorandum of transfer stamp duty", "MOT stamp duty", "loan agreement stamp duty", "tenancy agreement stamp duty", "e-stamping malaysia", "stamp duty self assessment", "stamp duty calculator malaysia", "stamp duty penalty", "stamp duty exemption", "Act 378"]
+framework: rules
 ---
 
 賃貸借契約を結ぶ、住宅ローンを組む、権原を移転する、ブローカーを通じて株式を買う——そうした書類仕事のどこかに、あなたがこれまで気づいたことのないかもしれない税が潜んでいる。その税が**印紙税**であり、その背後にある法律が**1949年印紙法（Stamp Act 1949、Act 378）**である。この税を特異なものにしているのは、その対象である。印紙税が課されるのは**証書**——書面の文書そのもの——であって、それが記録する取引ではない。文書に印紙が押されていれば法廷でも通用するが、印紙が押されていなければ、それを印刷した紙とさして変わらない価値しか持たないこともある。

@@ -72,6 +72,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
 related: []
 keywords: ["don de sang", "Centre national du sang", "Pusat Darah Negara", "PDN", "conditions pour donner son sang", "privilèges du donneur", "blood donation Malaysia"]
+framework: how-to
 ---
 
 Selon le PDN, un seul don de sang peut sauver au moins trois vies, car le sang total est transformé en globules rouges, plaquettes et plasma destinés à différents patients.

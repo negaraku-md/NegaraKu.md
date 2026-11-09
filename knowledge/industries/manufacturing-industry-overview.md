@@ -78,6 +78,7 @@ relations:
   - { rel: "administered-by", to: "mida" }
 related: []
 keywords: ["Malaysia manufacturing", "machinery and equipment", "plastics", "rubber gloves", "medical devices", "chemicals", "food processing", "NIMP 2030", "MIDA", "DOSM"]
+framework: profile
 ---
 
 Say "Malaysian factory" and most people picture a semiconductor cleanroom in Penang or a Proton line in Shah Alam. Those are real, and they are big — but they sit on top of a far broader industrial base. In 2024 the whole sector moved RM1.9 trillion in sales and kept roughly 2.4 million people in work, and a large slice of that came from machinery, plastics, rubber, medical devices, chemicals and the food on supermarket shelves.

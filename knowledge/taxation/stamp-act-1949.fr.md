@@ -103,6 +103,7 @@ entity: "Stamp Act 1949 (Act 378, Malaysia)"
 relations: []
 related: []
 keywords: ["stamp act 1949", "stamp duty malaysia", "LHDN stamp duty", "ad valorem duty", "fixed duty", "memorandum of transfer stamp duty", "MOT stamp duty", "loan agreement stamp duty", "tenancy agreement stamp duty", "e-stamping malaysia", "stamp duty self assessment", "stamp duty calculator malaysia", "stamp duty penalty", "stamp duty exemption", "Act 378"]
+framework: rules
 ---
 
 Signez un bail, contractez un prêt immobilier, transférez un titre, achetez des actions par l'intermédiaire d'un courtier — et quelque part dans la paperasse se cache une taxe que vous n'avez peut-être jamais remarquée. Cette taxe est le **droit de timbre**, et la loi qui la fonde est la **loi sur le timbre de 1949 (Stamp Act 1949, Act 378)**. Ce qui la rend inhabituelle, c'est son objet : le droit de timbre est perçu sur l'**instrument** — le document écrit lui-même — et non sur la transaction qu'il enregistre. Faites timbrer le document et il tient devant un tribunal ; laissez-le non timbré et il peut valoir à peine plus que le papier sur lequel il est imprimé.

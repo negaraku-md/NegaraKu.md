@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "prevention-of-terrorism-act-pota" }
 related: ["sosma"]
 keywords: ["POCA", "Akta Pencegahan Jenayah 1959", "Akta 297", "tahanan pencegahan", "Lembaga Pencegahan Jenayah", "jenayah terancang", "tahanan tanpa perbicaraan"]
+framework: explainer
 ---
 
 บุคคลสามารถถูกระบุชื่อ ถูกสืบสวน และในที่สุดถูกควบคุมตัวเป็นเวลาสองปีโดยไม่เคยถูกตั้งข้อหาในศาล — และการตัดสินใจนั้นทำโดยคณะกรรมการ ไม่ใช่ผู้พิพากษา นั่นคือกลไกที่แก่นของพระราชบัญญัติป้องกันอาชญากรรม 1959 (POCA)

@@ -85,6 +85,7 @@ wikidata: "Q6664408"
 relations: []
 related: []
 keywords: ["local government Malaysia", "PBT", "pihak berkuasa tempatan", "majlis perbandaran", "majlis daerah", "dewan bandaraya", "Local Government Act 1976", "Act 171", "local council Malaysia", "cukai taksiran", "KPKT", "local government elections Malaysia", "Datuk Bandar", "Yang Dipertua", "municipal council Malaysia", "district council Malaysia"]
+framework: explainer
 ---
 
 The council that collects your rubbish, approves the shophouse next door and bills you for assessment tax is the closest layer of government to your front gate — and it is the one layer you have never been allowed to vote for. Malaysia's third tier of government is delivered by **local authorities** (*Pihak Berkuasa Tempatan*, or **PBT**), which come in three sizes: City Council, Municipal Council and District Council. Two facts explain almost everything about how they behave. First, local government is a *state* matter under the Constitution, so your council answers to the state government, not to Putrajaya. Second, local elections have been frozen since 1965, so every councillor is appointed by the state — not elected by residents.

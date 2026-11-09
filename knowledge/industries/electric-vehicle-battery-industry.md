@@ -93,6 +93,7 @@ keywords:
   - Proton e.MAS
   - Samsung SDI
   - EV adoption
+framework: profile
 ---
 
 Malaysia has spent half a century building cars. Now it is trying to electrify them — and, just as importantly, to make the batteries and build the charging network that electric vehicles depend on. This is a different story from the one told in the guide to [Malaysia's automotive industry](/en/industries/automotive-industry/), which is largely about petrol and diesel cars. Here the subject is the EV and battery *ecosystem*: the vehicles, the incentives, the chargers and the factories that together decide how fast Malaysia switches to electric mobility.

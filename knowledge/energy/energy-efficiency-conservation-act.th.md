@@ -80,6 +80,7 @@ relations:
   - { rel: "affects", to: "commercial-buildings-malaysia" }
 related: []
 keywords: ["EECA 2024", "Akta 861", "kecekapan tenaga", "Suruhanjaya Tenaga", "pengurus tenaga berdaftar", "audit tenaga", "intensiti tenaga bangunan", "MEPS"]
+framework: rules
 ---
 
 หากโรงงานหรืออาคารสำนักงานของท่านใช้พลังงานมูลค่าหลายล้านริงกิตต่อปี ในปัจจุบันรัฐบาลต้องการทราบว่าแต่ละกิกะจูลนั้นไปที่ไหน และต้องการให้ท่านแสดงความพยายามในการลดการสูญเสีย นั่นคือแก่นของพระราชบัญญัติประสิทธิภาพพลังงานและการอนุรักษ์พลังงาน ปี 2024 หรือ Akta 861 ซึ่งเป็นกฎหมายที่มีผลบังคับนับตั้งแต่ 1 มกราคม 2025

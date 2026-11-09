@@ -77,6 +77,7 @@ faq:
     a: Không. Theo Mục 3 của Đạo luật Dân luật 1956, một vụ án của Anh được xét xử trước ngày giới hạn liên quan về nguyên tắc là thông luật có tính ràng buộc, nhưng một vụ án được xét xử sau ngày đó thì chỉ có tính thuyết phục — tòa án Malaysia có thể xem xét nó, thảo luận về nó, và từ chối tuân theo nó. Mục 3 cũng chỉ áp dụng thông luật và nguyên tắc công bình (equity) "trong chừng mực mà hoàn cảnh... cho phép," nên tòa án có thể từ chối các quy tắc của Anh không phù hợp với điều kiện địa phương.
   - q: Luật Anh có điều chỉnh quyền sở hữu đất đai ở Malaysia không?
     a: Không. Mục 6 (Section 6) của Đạo luật Dân luật 1956 quy định rằng không có điều gì trong Đạo luật này du nhập luật Anh liên quan đến việc chiếm hữu, chuyển nhượng, bảo đảm hay thừa kế bất động sản. Luật đất đai của Anh đã bị cố ý loại ra ngay từ đầu. Thay vào đó, đất đai ở Malaysia vận hành theo hệ thống Torrens có nguồn gốc từ Úc, được pháp điển hóa cho Bán đảo Malaysia trong Bộ luật Đất đai Quốc gia 1965 (National Land Code 1965, Act 56), trong đó bản thân việc đăng ký tạo lập và chứng minh quyền sở hữu.
+framework: explainer
 ---
 
 Một thẩm phán Malaysia đang quyết định một tranh chấp hợp đồng ngày nay vẫn có thể với tới một vụ án Anh được quyết định trước cả khi Liên bang Malaya tồn tại. Không phải vì các tòa án Anh có bất kỳ thẩm quyền nào ở đây — chúng không có — mà vì một đạo luật Malaysia duy nhất đã bảo các tòa án địa phương, vào năm 1956, đối xử với thông luật Anh như của chính mình.

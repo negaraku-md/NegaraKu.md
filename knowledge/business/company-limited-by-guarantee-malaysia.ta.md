@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["business-structures-malaysia", "sdn-bhd-vs-berhad", "register-sdn-bhd", "what-is-sdn-bhd", "company-secretary-malaysia"]
 keywords: ["company limited by guarantee", "CLBG", "berhad menurut jaminan", "section 45 Companies Act 2016", "non-profit company Malaysia", "SSM CLBG", "omit Berhad licence"]
+framework: explainer
 ---
 
 ஒரு அறக்கட்டளை, ஒரு தொழில்முறை நிறுவனம், ஒரு வர்த்தக சபை மற்றும் ஒரு சமூக நிறுவனம் — இவை அனைத்தும் மலேசியாவில் ஒரே சட்டத் தோலை அணிய முடியும்: உத்தரவாதத்தால் வரம்பிடப்பட்ட நிறுவனம் (company limited by guarantee). இலாபத்தைப் பகிர்வதற்குப் பதிலாக பயனுள்ள ஏதாவது செய்வதற்காக இருக்கும் அமைப்புகளுக்காக சட்டம் ஒதுக்கி வைக்கும் வாகனம் இதுவே, மேலும் இது சாதாரண Sdn Bhd ஒருபோதும் காணாத விதிகளுடன் வருகிறது.

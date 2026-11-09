@@ -62,6 +62,7 @@ relations:
   - { rel: "administered-by", to: "ssm" }
 related: []
 keywords: ["PLT audit", "LLP audit exemption", "Akta PLT 2012", "perisytiharan tahunan PLT", "seksyen 69", "SSM"]
+framework: explainer
 ---
 
 许多创业者选择有限责任合伙（PLT），部分原因是它无需为每年的审计付费。与私人有限公司（Sdn Bhd）不同，PLT可以连续多年运营而无需任何一位审计师审查其账目——而这在法律上完全合法。

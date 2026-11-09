@@ -67,6 +67,7 @@ relations:
   - { rel: "governs", to: "unclaimed-moneys-act-1965" }
 related: []
 keywords: ["wang tak dituntut", "eGUMIS", "unclaimed moneys", "Akta Wang Tak Dituntut 1965", "Jabatan Akauntan Negara", "JANM", "wang dorman", "bayaran balik"]
+framework: how-to
 ---
 
 あなたのお金は、あなたが気づかないうちに、ある政府のデータベースの中で待っているかもしれません——請求しそびれた配当金、古い銀行口座の残高、またはあなたのもとへ届けられなかった保険補償金。それらはすべて、一つの公式な名称のもとに集められています：未請求金（Wang Tak Dituntut、WTD）。

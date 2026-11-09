@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "mida" }
 related: []
 keywords: ["Malaysia manufacturing", "machinery and equipment", "plastics", "rubber gloves", "medical devices", "chemicals", "food processing", "NIMP 2030", "MIDA", "DOSM"]
+framework: profile
 ---
 
 Sebut "kilang Malaysia" dan kebanyakan orang membayangkan bilik bersih semikonduktor di Pulau Pinang atau barisan pengeluaran Proton di Shah Alam. Itu memang wujud, dan ia besar — tetapi ia hanya duduk di atas asas perindustrian yang jauh lebih luas. Pada 2024 keseluruhan sektor ini menggerakkan jualan RM1.9 trilion dan mengekalkan kira-kira 2.4 juta orang dalam pekerjaan, dan sebahagian besar daripadanya datang daripada jentera, plastik, getah, peranti perubatan, bahan kimia dan makanan di rak pasar raya.

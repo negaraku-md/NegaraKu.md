@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "trademark-registration-malaysia" }
 related: ["trademark-registration-malaysia"]
 keywords: ["indication géographique", "GI Act 2022", "Act 836", "MyIPO", "poivre de Sarawak", "Musang King", "propriété intellectuelle Malaisie", "lieu d'origine"]
+framework: explainer
 ---
 
 Dites « poivre de Sarawak » ou « Musang King » et un acheteur imagine déjà un lieu, un sol et

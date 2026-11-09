@@ -91,6 +91,7 @@ faq:
     a: Singapura memang sumber penerimaan tunggal terbesar, tetapi porsinya jauh lebih kecil daripada yang disiratkan oleh jumlah kedatangannya. Pada 2024, Singapura menyumbang 49.7% kedatangan pengunjung asing tetapi hanya 26.2% penerimaan; China menyumbang 9.8% kedatangan tetapi 19.5% penerimaan. Rata-rata pengeluaran per kedatangan berkisar dari sekitar RM1,500 untuk Singapura hingga sekitar RM5,600 untuk China, dibandingkan rata-rata nasional sekitar RM2,800 — kesenjangan besar yang didorong oleh komposisi perjalanan sehari.
   - q: Apakah pariwisata menyumbang 15.1% dari PDB Malaysia atau 6.2%?
     a: Kedua angka berasal dari Akun Satelit Pariwisata DOSM, tetapi mengukur hal yang berbeda dan tidak boleh dipertukarkan. Nilai tambah bruto industri pariwisata (GVATI) adalah 15.1% dari PDB pada 2024 — seluruh output industri yang melayani wisatawan, termasuk bagian yang dikonsumsi oleh penduduk lokal. PDB langsung pariwisata (TDGDP) adalah 6.2% — hanya permintaan pariwisata. Industri pariwisata sekitar sepertujuh dari ekonomi; permintaan pariwisata secara langsung sekitar seperenam belas.
+framework: explainer
 ---
 
 Pada 2024 Malaysia mencatatkan 37,961,485 kedatangan pengunjung asing — lebih

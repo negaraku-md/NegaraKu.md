@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "public-vs-private-healthcare" }
 related: []
 keywords: ["telemedicine Malaysia", "online doctor", "teleconsultation", "DoctorOnCall", "MMC guideline", "e-prescription", "Telemedicine Act 1997"]
+framework: explainer
 ---
 
 You open an app, video-call a doctor from your sofa, and a prescription lands in your inbox an hour later. In Malaysia that is entirely legal — but the rulebook behind it is not the law you might expect.

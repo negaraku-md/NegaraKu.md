@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "approved-company-auditor-malaysia" }
 related: ["foreign-company-registration-malaysia"]
 keywords: ["विदेशी कंपनी", "शाखा", "लेखापरीक्षित खाते", "foreign company", "branch", "audited accounts", "SSM", "Companies Act 2016", "section 575"]
+framework: rules
 ---
 
 मलेशिया में शाखा खोलना किसी विदेशी कंपनी को लेखापरीक्षा-जाल से बाहर नहीं कर देता — बल्कि यह कंपनी को दोहरे रूप से भीतर खींच लेता है। हर साल उसे मलेशिया कंपनी आयोग (SSM) के पास लेखापरीक्षित खाते दाखिल करने होते हैं: एक बार पूरी कंपनी के लिए, और फिर अलग से, उसके लिए जो शाखा वस्तुतः मलेशिया के भीतर करती है।

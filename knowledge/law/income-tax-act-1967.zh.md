@@ -82,6 +82,7 @@ relations:
   - { rel: "explained-in", to: "company-tax-calendar" }
 related: ["lhdn", "corporate-tax-rates", "personal-tax-rates", "which-tax-form", "form-c-and-cp204"]
 keywords: ["Income Tax Act 1967", "Act 53", "Akta Cukai Pendapatan 1967", "Malaysia tax statute", "LHDN legislation"]
+framework: data-reference
 ---
 
 本页是 Act 53 的法令记录——它的身份、结构、执行机关与修订模式。它不载税率、减免或期限，因为那些东西变动得比任何一个法令页面所能诚实追踪的还快。它们在本页页尾所链接的税务类文章中。

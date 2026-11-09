@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "court-hierarchy" }
 related: ["penal-code", "federal-constitution", "fundamental-liberties", "court-hierarchy"]
 keywords: ["SOSMA", "Security Offences Special Measures Act 2012", "Act 747", "infraction à la sécurité Malaisie", "détention de 28 jours", "Première annexe Code pénal Chapitre VI VIA", "témoin protégé"]
+framework: explainer
 ---
 
 La SOSMA ne crée aucune infraction. Ouvrez l'Act 747 en cherchant l'infraction qu'elle punit et vous n'en trouverez aucune — chaque infraction dont elle traite est définie ailleurs, principalement dans le Code pénal. Ce que la Loi apporte, c'est un ensemble de *procédures* : comment une personne peut être arrêtée et détenue, comment les communications peuvent être interceptées, comment la mise en liberté sous caution est décidée, où le procès se tient, et comment la preuve et les témoins sont traités une fois qu'une affaire est traitée comme une **infraction à la sécurité**.

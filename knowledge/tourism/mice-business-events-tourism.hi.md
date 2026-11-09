@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
 related: ["penang-george-town-visitor-guide", "tourist-safety-health-practical-tips"]
 keywords: ["MICE मलेशिया", "MICE Malaysia", "व्यावसायिक आयोजन", "MyCEB", "सम्मेलन ब्यूरो", "KLCC", "MITEC", "Borneo Convention Centre Kuching"]
+framework: profile
 ---
 
 जब 3.2 मिलियन प्रतिनिधि किसी सम्मेलन के लिए उड़ान भरकर आते हैं, तो वे होटल बुक करते हैं, अनुवादक नियुक्त करते हैं, रेस्तराँ भरते हैं और सौदे करते हैं — और मलेशिया ने एक दशक से अधिक समय उन्हें पकड़ने के लिए स्थल और ब्यूरो बनाने में बिताया है।

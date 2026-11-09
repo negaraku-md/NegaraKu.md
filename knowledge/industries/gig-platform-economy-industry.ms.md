@@ -97,6 +97,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Setiap hari, berjuta-juta transaksi di Malaysia diatur bukan oleh kedai, pejabat atau pangkalan teksi, tetapi oleh aplikasi: kereta dipanggil ke tepi jalan, sebeg makanan dibawa merentasi bandar atas motosikal, logo direka untuk pelanggan yang pekerja bebas itu tidak akan pernah temui. Inilah ekonomi gig dan platform — kerja yang diperantarakan platform digital — dan dalam sedikit lebih sedekad ia telah beralih daripada benda baharu kepada salah satu ciri paling ketara dalam kehidupan pekerja Malaysia.

@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "financial-intelligence-unit" }
 related: ["bank-negara-malaysia"]
 keywords: ["AMLA", "AMLATFPUAA 2001", "Act 613", "money laundering Malaysia", "terrorism financing", "reporting institution", "suspicious transaction report", "Bank Negara Malaysia", "freezing and seizure", "AML CFT compliance"]
+framework: rules
 ---
 
 When a Malaysian bank flags a customer's transfer as "suspicious," a single statute decides what happens next — who must be told, how fast, and what powers the state can then bring to bear on the money. That statute is AMLA.

@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "trademark-registration-malaysia" }
 related: ["trademark-registration-malaysia"]
 keywords: ["geographical indication", "GI Act 2022", "Act 836", "MyIPO", "Sarawak pepper", "Musang King", "intellectual property Malaysia", "place of origin"]
+framework: explainer
 ---
 
 Nói «Tiêu Sarawak» hoặc «Musang King» và người mua đã hình dung ra một địa danh, thổ nhưỡng và hương vị cụ thể. Một chỉ dẫn địa lý là quyền pháp lý ngăn bất kỳ ai khác bán nông sản thông thường dưới tên đó — và tại Malaysia, đó là quyền sở hữu trí tuệ lặng lẽ nằm cạnh sáng chế, nhãn hiệu, kiểu dáng công nghiệp và bản quyền.

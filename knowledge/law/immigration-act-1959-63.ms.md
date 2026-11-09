@@ -101,6 +101,7 @@ wikidata: "Q27962088"
 relations: []
 related: []
 keywords: ["Immigration Act 1959/63", "Act 155", "Malaysia visa", "employment pass", "overstay penalty Malaysia", "Section 15(4)", "Section 6(3)", "deportation", "dependant pass", "work permit Malaysia"]
+framework: rules
 ---
 
 Visa yang sah dalam pasport anda, dengan sendirinya, tidak membenarkan anda menjejakkan kaki di Malaysia — dan ia bukanlah dokumen yang menyebabkan anda menghadapi masalah jika tinggal terlalu lama. Kedua-dua tugas ini tergolong dalam satu undang-undang: **Akta Imigresen 1959/63 (Akta 155)**, statut yang menentukan siapa yang boleh melintasi sempadan, apa yang boleh mereka lakukan setelah berada di dalam, dan apa yang berlaku apabila mereka melanggar syarat tempoh tinggal.

@@ -88,6 +88,7 @@ relations:
   - { rel: "administered-by", to: "attorney-general" }
 related: ["attorney-general"]
 keywords: ["akta rahsia rasmi", "OSA 1972", "kebebasan maklumat", "ketelusan kerajaan", "dokumen terperingkat", "seksyen 16A", "rahsia rasmi"]
+framework: explainer
 ---
 
 A meeting memo, an audit report, a Cabinet paper — in Malaysia, any of these can become a crime to share if it is stamped as an official secret. The law that draws that line is the [Official Secrets Act 1972](/law/official-secrets-act-1972), and the absence of a federal freedom of information law makes it one of the most debated topics in Malaysian governance.

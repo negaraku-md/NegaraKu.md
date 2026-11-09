@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "constitutional-amendment", "jpn", "dewan-rakyat", "how-a-bill-becomes-law"]
 keywords: ["Undi18", "Akta A1603", "تعديل الدستور سن الاقتراع 18 سنة", "التسجيل التلقائي للناخبين", "Pendaftaran Pemilih Secara Automatik", "PPSA", "المادة 119 الدستور الاتحادي", "SPR التسجيل التلقائي للناخبين", "سن الاقتراع في ماليزيا", "Constitution Amendment Act 2019"]
+framework: explainer
 ---
 
 لا يملأ التعديل الذي أعاد تشكيل مشهد الناخبين في ماليزيا إلا ثلاث صفحات. فقانون الدستور (التعديل) لسنة 2019 — القانون A1603 — لم يكتب إجراءً جديدًا مطوّلًا. بل غيّر بضع كلمات في ثلاثة مواضع، ونقل تغييران منها ملايين المواطنين إلى سجل الناخبين.

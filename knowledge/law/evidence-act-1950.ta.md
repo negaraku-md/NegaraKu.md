@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-malaysia" }
 related: ["criminal-procedure-code", "federal-constitution"]
 keywords: ["Akta Keterangan 1950", "Evidence Act 1950", "Akta 56", "beban bukti", "kebolehterimaan", "anggapan", "keistimewaan", "seksyen 90A", "seksyen 114A", "pengakuan salah"]
+framework: explainer
 ---
 
 ஒரு புகைப்படம், WhatsApp செய்தி, அல்லது ஒரு சாட்சியின் வார்த்தைகள் நீதிமன்றத்தில் "சாட்சியம்" ஆக இருக்க வேண்டிய அவசியமில்லை. ஏதேனும் ஒன்று சாட்சியமாகக் கருதப்படுகிறதா — மேலும் அதை யார் நிரூபிக்க வேண்டும் — என்பதை ஒரே ஒரு சட்டம் தீர்மானிக்கிறது: Akta Keterangan 1950 (Akta 56).

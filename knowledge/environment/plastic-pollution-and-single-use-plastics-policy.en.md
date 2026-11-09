@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "solid-waste-management-in-malaysia" }
 related: []
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030"]
+framework: explainer
 ---
 
 Thin plastic bags at the checkout counter are typically used for only a moment, yet they can persist in the environment for a very long time. To address this issue, Malaysia has not opted for a single sweeping, immediate ban — instead, it uses a phased roadmap that moves from small charges to broader bans.

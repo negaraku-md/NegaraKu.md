@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "healthcare-system-overview" }
 related: []
 keywords: ["pendaftaran doktor", "MMC", "MeRITS", "APC", "Lembaga Jururawat Malaysia", "Lembaga Farmasi Malaysia", "MAHPC", "Akta Profesion Kesihatan Bersekutu 2016", "fisioterapi"]
+framework: how-to
 ---
 
 Một người có thể mặc áo blouse trắng, treo chứng chỉ trên tường phòng khám, và tự gọi mình là «bác sĩ» — nhưng chỉ một điều thực sự xác minh trình độ của họ: tên của họ tồn tại trong sổ đăng ký chính thức. Ở Malaysia, mọi bác sĩ, điều dưỡng viên, dược sĩ và nhà vật lý trị liệu đều phải đăng ký với cơ quan quản lý ngành nghề của họ. Tin tốt là bạn có thể tự kiểm tra, miễn phí.

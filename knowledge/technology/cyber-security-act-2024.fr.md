@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "pdpa-malaysia" }
 related: []
 keywords: ["Cyber Security Act 2024", "Act 854", "NCII", "NACSA", "cybersecurity licensing Malaysia", "incident reporting Malaysia", "national critical information infrastructure", "loi sur la cybersécurité 2024", "cybersécurité Malaisie", "infrastructure d'information critique", "licences de cybersécurité"]
+framework: rules
 ---
 
 Pendant des années, la Malaisie a surveillé les cyberattaques avec des outils d'emprunt — la loi sur les délits informatiques (Computer Crimes Act), la loi sur les communications et le multimédia (Communications and Multimedia Act), les circulaires sectorielles de Bank Negara et de ses homologues de banque centrale. Aucun d'eux ne disait, en un seul endroit, qui doit protéger les systèmes critiques du pays, à quelle vitesse une violation doit être déclarée, ni qui est même autorisé à vendre un test d'intrusion. La loi sur la cybersécurité de 2024 le fait. C'est la première loi autonome de cybersécurité de Malaisie, et elle traite certains réseaux comme les lois antérieures traitaient les barrages et les centrales électriques : comme une infrastructure nationale que l'État a le droit de réglementer.

@@ -67,6 +67,7 @@ wikidata: "Q25475395"
 relations: []
 related: []
 keywords: ["Local Government Act 1976", "Act 171", "Akta Kerajaan Tempatan 1976", "local authority Malaysia", "PBT", "Pihak Berkuasa Tempatan", "majlis perbandaran", "majlis daerah", "assessment tax", "cukai pintu", "local council elections Malaysia", "appointed councillors", "National Council for Local Government", "third vote Malaysia"]
+framework: explainer
 ---
 
 எந்த மலேசியத் தேர்தல் வாக்குச்சீட்டிலும் மேயர் பதவிக்கான வேட்பாளர் ஒருபோதும் இடம்பெறாதது ஏன் என்று நீங்கள் எப்போதாவது யோசித்திருந்தால், அதற்கான பதில் ஒரே ஒரு சட்டம்தான். **Local Government Act 1976 (Act 171)** — இதன் நீண்ட தலைப்பு "An Act to revise and consolidate the laws relating to local government" (உள்ளூர் அரசாங்கம் தொடர்பான சட்டங்களைத் திருத்தி ஒருங்கிணைக்கும் ஒரு சட்டம்) — தீபகற்ப மலேசியாவில் உள்ள ஒவ்வொரு நகர, நகராட்சி, மற்றும் மாவட்ட மன்றத்தையும் அமைக்கும், அவற்றை நடத்துபவர்களை நியமிக்கும், மேலும் உங்களை வரிவிதிக்கவும் அபராதம் விதிக்கவும் அவற்றுக்கு அதிகாரம் அளிக்கும் சட்டம் ஆகும். இது **18 March 1976** அன்று அரச ஒப்புதல் (Royal Assent) பெற்று 25 March 1976 அன்று வர்த்தமானியில் வெளியிடப்பட்டது. இணையத்தில் பெரும்பாலானவை கூறுவதற்கு மாறாக, **Section 1(1) இது தீபகற்ப மலேசியாவுக்கு மட்டுமே பொருந்தும் என்று கூறுகிறது**; சபா மற்றும் சரவாக் தங்கள் சொந்த கட்டளைச் சட்டங்களை (ordinances) வைத்திருக்கின்றன.

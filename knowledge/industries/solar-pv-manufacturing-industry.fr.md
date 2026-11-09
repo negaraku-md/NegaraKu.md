@@ -101,6 +101,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Peu de gens réalisent que lorsqu'un propriétaire ou un service public américain installe un système solaire, les panneaux ont bien pu être fabriqués en Malaisie. Depuis plus d'une décennie, le pays est discrètement l'un des plus grands producteurs mondiaux de cellules et modules solaires photovoltaïques (PV) — non pas pour alimenter son propre réseau, mais pour exporter. C'est une industrie d'usines, pas de tarifs de rachat.

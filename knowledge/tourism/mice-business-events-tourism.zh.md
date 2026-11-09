@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
 related: ["penang-george-town-visitor-guide", "tourist-safety-health-practical-tips"]
 keywords: ["MICE Malaysia", "business events", "MyCEB", "convention bureau", "KLCC", "MITEC", "Borneo Convention Centre Kuching", "exhibitions"]
+framework: profile
 ---
 
 当 320 万名与会者飞来参加一场大会时，他们会预订酒店、聘请翻译、坐满餐厅并签下合约——而马来西亚已花了十多年时间兴建场馆、组建专局，以争取这些客源。

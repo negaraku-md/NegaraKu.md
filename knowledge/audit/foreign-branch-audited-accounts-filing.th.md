@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "approved-company-auditor-malaysia" }
 related: ["foreign-company-registration-malaysia"]
 keywords: ["foreign company", "branch", "audited accounts", "SSM", "Companies Act 2016", "section 575", "financial statements", "Malaysia"]
+framework: rules
 ---
 
 การเปิดสาขาในมาเลเซียไม่ได้ทำให้บริษัทต่างชาติอยู่นอกข่ายการสอบบัญชี — มันดึงบริษัทเข้ามาสองครั้ง ทุกปีบริษัทต้องยื่นบัญชีที่ตรวจสอบแล้วต่อคณะกรรมการบริษัทมาเลเซีย (SSM): ครั้งหนึ่งสำหรับทั้งบริษัท และอีกครั้งแยกต่างหากสำหรับสิ่งที่สาขาทำจริงภายในมาเลเซีย

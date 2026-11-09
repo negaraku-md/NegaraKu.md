@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "constitutional-amendment", "jpn", "dewan-rakyat", "how-a-bill-becomes-law"]
 keywords: ["Undi18", "Akta A1603", "संविधान संशोधन मतदान आयु 18 वर्ष", "स्वचालित मतदाता पंजीकरण", "Pendaftaran Pemilih Secara Automatik", "PPSA", "अनुच्छेद 119 संघीय संविधान", "SPR स्वचालित मतदाता पंजीकरण", "मलेशिया में मतदान आयु", "Constitution Amendment Act 2019"]
+framework: explainer
 ---
 
 मलेशिया के मतदाता परिदृश्य को नया रूप देने वाला संशोधन केवल तीन पृष्ठ भरता है। संविधान (संशोधन) अधिनियम 2019 — अधिनियम A1603 — ने कोई लंबी नई प्रक्रिया नहीं लिखी। इसने तीन स्थानों पर मुट्ठी भर शब्द बदले, और उन बदलावों में से दो ने लाखों नागरिकों को मतदाता सूची में ला दिया।

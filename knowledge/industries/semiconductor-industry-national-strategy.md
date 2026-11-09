@@ -89,6 +89,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-investment-trade-and-industry" }
 related: ["electrical-electronics-industry"]
 keywords: ["semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "advanced packaging", "chip industry Malaysia", "Penang Silicon Valley", "MIDA", "IC design"]
+framework: profile
 ---
 
 Almost every phone, laptop and car on Earth carries a chip that spent part of its life in Malaysia — packaged, tested and shipped from a factory in Penang or the Klang Valley. Yet for fifty years the country did the least glamorous, lowest-margin slice of that work: the back end. The National Semiconductor Strategy is Malaysia's attempt to change which part of the chip it owns.

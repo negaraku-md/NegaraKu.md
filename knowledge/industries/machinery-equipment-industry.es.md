@@ -92,6 +92,7 @@ keywords:
   - equipos de semiconductores
   - Industry4WRD
   - MIDA
+framework: profile
 ---
 
 Toda fábrica funciona con máquinas, y esas máquinas tiene que construirlas alguien. La industria de maquinaria y equipos (M&E) es la parte de la manufactura que fabrica las líneas de producción, la maquinaria de proceso, las herramientas para trabajar metales, los sistemas de potencia y la automatización de los que depende cada *otra* industria. Es la gran industria menos visible de la economía y, precisamente por esa razón, una de las más estratégicamente importantes.

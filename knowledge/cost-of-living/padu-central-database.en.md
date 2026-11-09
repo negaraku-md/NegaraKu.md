@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "str-sumbangan-tunai-rahmah" }
 related: []
 keywords: ["PADU", "Pangkalan Data Utama", "subsidi bersasar", "padu.gov.my", "Kementerian Ekonomi", "DOSM"]
+framework: explainer
 ---
 
 To shift from blanket subsidies to more targeted assistance, the government needs to know the socioeconomic circumstances of its people. PADU is the database built for that purpose.

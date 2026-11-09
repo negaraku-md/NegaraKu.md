@@ -63,6 +63,7 @@ relations:
   - { rel: "governs", to: "penal-code-malaysia" }
 related: ["penal-code"]
 keywords: ["pertahanan diri", "hak mempertahankan diri", "Kanun Keseksaan", "seksyen 100", "seksyen 96", "self-defence Malaysia", "private defence"]
+framework: explainer
 ---
 
 한밤중에 침입자가 자신의 집에서 당신을 공격합니다 — 그 순간, 말레이시아 법은 당신이 맞서는 것을 허용합니까? 그렇습니다. 다만 엄격한 조건이 따르며, 적법한 방어와 범죄를 가르는 선은 많은 이들이 생각하는 것보다 훨씬 가늘습니다.

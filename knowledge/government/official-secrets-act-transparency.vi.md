@@ -88,6 +88,7 @@ relations:
   - { rel: "administered-by", to: "attorney-general" }
 related: ["attorney-general"]
 keywords: ["akta rahsia rasmi", "OSA 1972", "kebebasan maklumat", "ketelusan kerajaan", "dokumen terperingkat", "seksyen 16A", "rahsia rasmi"]
+framework: explainer
 ---
 
 Một biên bản cuộc họp, một báo cáo kiểm toán, một tài liệu Nội các — tại Malaysia, bất kỳ tài liệu nào trong số đó cũng có thể trở thành hành vi phạm tội nếu bị chia sẻ khi nó bị đóng dấu là bí mật chính thức. Đạo luật xác định lằn ranh đó là [Official Secrets Act 1972](/law/official-secrets-act-1972), và việc thiếu vắng luật tự do thông tin cấp liên bang khiến nó trở thành một trong những chủ đề được tranh luận nhiều nhất trong quản trị tại Malaysia.

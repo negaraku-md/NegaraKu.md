@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "corporate-income-tax" }
 related: ["sales-and-service-tax"]
 keywords: ["duti kasino", "cukai perjudian", "duti mesin permainan", "duti pertaruhan pool", "number forecast operator", "gaming tax Malaysia"]
+framework: rules
 ---
 
 கசினோ மேசையிலோ அல்லது 4D கவுண்டரிலோ பந்தயம் கட்டப்படும் ஒவ்வொரு ரிங்கிட்டும் ஒரு மறைக்கப்பட்ட வரியைச் சுமக்கிறது — மேலும் மலேசியாவில், இதன் விகிதம் எந்தத் தொழிற்துறையின் மீதும் அரசாங்கம் விதிக்கும் மிக உயர்ந்தவற்றுள் ஒன்றாகும்.

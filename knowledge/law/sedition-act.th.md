@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "article-153-special-position" }
 related: ["federal-constitution", "penal-code", "fundamental-liberties", "article-152-language", "article-153-special-position"]
 keywords: ["Sedition Act 1948", "Act 15", "seditious tendency", "seditious publication", "section 3 Sedition Act", "Sedition Amendment Act 2015", "Act A1485", "Malaysia sedition law"]
+framework: explainer
 ---
 
 พระราชบัญญัติการปลุกปั่นให้ขัดขืน 1948 ไม่ได้นิยาม "การปลุกปั่น" (sedition) มันนิยาม **แนวโน้มปลุกปั่น (seditious tendency)** แล้วจึงผูกความผิดเข้ากับการกระทำ ถ้อยคำ และสิ่งพิมพ์ที่มีแนวโน้มนั้น การแยกแยะนี้ดำเนินไปตลอดทั้งกฎหมาย และเป็นจุดที่การอ่านกฎหมายใด ๆ ต้องเริ่มต้น

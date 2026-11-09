@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "azizulhasni-awang" }
 related: []
 keywords: ["velodrom nasional", "Nilai", "lumba basikal trek", "keirin", "Azizulhasni Awang", "MNCF", "Majlis Sukan Negara"]
+framework: profile
 ---
 
 汝来郊外一座屋顶绵长的场馆，如今成了马来西亚最快车手磨炼冲刺的所在——而它正是为培育更多场地自行车世界冠军而专门建造的。

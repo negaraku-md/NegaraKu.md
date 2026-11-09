@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "freedom-of-information-malaysia" }
 related: []
 keywords: ["Akta Rahsia Rasmi 1972", "Official Secrets Act", "Akta 88", "rahsia rasmi", "pengelasan dokumen", "seksyen 16A", "keselamatan negara", "kebebasan media", "OSA Malaysia"]
+framework: rules
 ---
 
 内閣の議事録の写しを受け取った記者、軍の駐屯地付近で測量を行った研究者、そして「秘密」と記された文書を保管していた職員——この三者はいずれも、同一の法律に触れうる。1972年公務秘密法（Official Secrets Act 1972、Act 88）は、マレーシアにおける公務秘密制度の根幹をなす法律であり、その適用範囲はスパイ事案にとどまらない、はるかに広いものである。

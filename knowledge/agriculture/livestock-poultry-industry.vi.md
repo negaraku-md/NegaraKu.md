@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry" }
 related: ["palm-oil-industry"]
 keywords: ["industri ternakan", "ayam pedaging", "telur ayam", "demam babi Afrika", "influenza burung", "JPV", "nisbah sara diri", "biosekuriti", "kekurangan ayam 2022"]
+framework: profile
 ---
 
 Đĩa ăn của người Malaysia phụ thuộc vào gà. Đó là loại protein rẻ nhất ở đất nước này — và đó là lý do khi các chuồng gà lung lay, nó trở thành việc quốc gia, không chỉ là việc trang trại.

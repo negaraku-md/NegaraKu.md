@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "special-resolution" }
 related: ["companies-act-2016"]
 keywords: ["tukar nama syarikat", "change of company name", "seksyen 28", "ketetapan khas", "SSM CRS", "name reservation"]
+framework: how-to
 ---
 
 Mengubah nama perusahaan bukan sekadar mengisi formulir — ia dimulai dengan satu resolusi khusus anggota dan berakhir hanya saat SSM mengeluarkan pemberitahuan pendaftaran nama baru. Sampai saat itu, nama lama masih sah di mata hukum.

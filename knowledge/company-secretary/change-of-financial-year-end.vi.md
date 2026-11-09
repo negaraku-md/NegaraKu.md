@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "cp204b-change-of-accounting-period" }
 related: ["financial-statements-lodgement", "companies-act-2016"]
 keywords: ["tahun kewangan", "FYE", "financial year end", "SSM", "Akta Syarikat 2016", "CP204B", "penyata kewangan"]
+framework: how-to
 ---
 
 Nhiều giám đốc cho rằng việc thay đổi năm tài chính của công ty cần một mẫu đặc biệt được

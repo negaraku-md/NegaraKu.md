@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: []
 keywords: ["Competition Act 2010", "MyCC", "cartel", "price fixing", "bid rigging", "abuse of dominant position", "Competition Amendment Bill 2026"]
+framework: rules
 ---
 
 경쟁사와 함께 가격을 높게 유지하기로 합의하거나, 조용히 번갈아 가며 정부 입찰을 따내는 것은 말레이시아에서 영리한 사업이 아닙니다 — 그것은 회사가 전 세계에서 버는 모든 것의 10분의 1을 대가로 치를 수 있는 법 위반입니다.

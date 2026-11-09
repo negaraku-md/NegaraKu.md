@@ -87,6 +87,7 @@ relations:
   - { rel: "affects", to: "cost-of-living-overview" }
 related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "subsidi padi"]
+framework: profile
 ---
 
 हर बार जब चावल की कीमतें बढ़ती हैं या सुपरमार्केट की अलमारियाँ खाली हो जाती हैं, तो एक पुराना सवाल मलेशिया को फिर सताने लगता है: धान खेतों से इतना समृद्ध देश अब भी अपना लगभग आधा चावल क्यों आयात करता है? इसका उत्तर एक ऐसे उद्योग में छिपा है जो सब्सिडी से संचालित है, गारंटीयुक्त कीमतों से संरक्षित है, और एक ऐसे आत्मनिर्भरता लक्ष्य से पीछा किया जा रहा है जो अभी तक पहुँचा नहीं है।

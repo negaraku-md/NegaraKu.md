@@ -78,6 +78,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["batik", "gawai-dayak", "sarawak"]
 keywords: ["pua kumbu", "tenunan Iban", "ikat lungsi", "kebat", "engkudu", "ngar", "kain upacara Sarawak", "Bangie Embol"]
+framework: history-culture
 ---
 
 一幅织者不敢在未获"祝福"的情况下擅自创作的布——其纹样据说来自梦境，而在过去，它曾与织造它的族群的勇士传统紧密相连。这就是布娅昆布。

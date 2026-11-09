@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "azizulhasni-awang" }
 related: []
 keywords: ["velodrom nasional", "Nilai", "cyclisme sur piste", "keirin", "Azizulhasni Awang", "MNCF", "Majlis Sukan Negara"]
+framework: profile
 ---
 
 Une longue arène couverte à la périphérie de Nilai est désormais le lieu où les cyclistes les plus rapides de la Malaisie affûtent leurs sprints — et elle a été construite spécifiquement pour produire davantage de champions du monde sur piste.

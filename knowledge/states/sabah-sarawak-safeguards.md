@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "article-153-special-position" }
 related: ["federal-constitution", "ma63", "sabah", "sarawak", "federal-state-division", "article-153-special-position"]
 keywords: ["Sabah Sarawak safeguards", "immigration autonomy Sabah Sarawak", "Article 161B", "Article 161E", "Article 95B List IIA", "native courts Sabah Sarawak", "Article 112C special grants", "Immigration Act 1959/63 Part VII", "special position of natives", "Federal Constitution Part XIIA"]
+framework: explainer
 ---
 
 Fly from Kuala Lumpur to Kota Kinabalu or Kuching and you land in Malaysia — same country, same passport, same currency — and then queue at an immigration counter. A Peninsular Malaysian who cannot state a good reason to be there can be given a pass limited to a few weeks, or turned back. That checkpoint is not a bureaucratic quirk. It is one of a set of safeguards written into the Federal Constitution when Sabah and Sarawak joined the Federation in 1963.

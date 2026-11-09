@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: ["sst"]
 keywords: ["halal certification Malaysia", "JAKIM halal", "MYeHALAL", "halal logo Malaysia", "halal certification fee", "Trade Descriptions Order 2011"]
+framework: how-to
 ---
 
 未取得 JAKIM 证书就在包装上打上清真标志，你不只是走了捷径——而是触犯了法律。在马来西亚，清真声明受法律规管，而相关手续如今已完全在线上办理。

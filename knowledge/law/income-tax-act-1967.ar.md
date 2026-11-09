@@ -82,6 +82,7 @@ relations:
   - { rel: "explained-in", to: "company-tax-calendar" }
 related: ["lhdn", "corporate-tax-rates", "personal-tax-rates", "which-tax-form", "form-c-and-cp204"]
 keywords: ["قانون ضريبة الدخل 1967", "Income Tax Act 1967", "Act 53", "Akta Cukai Pendapatan 1967", "التشريع الضريبي الماليزي", "تشريعات LHDN", "ضريبة الدخل ماليزيا"]
+framework: data-reference
 ---
 
 هذه الصفحة هي سجلّ التشريع الخاص بـ Act 53 — هويته وبنيته وإدارته ونمط

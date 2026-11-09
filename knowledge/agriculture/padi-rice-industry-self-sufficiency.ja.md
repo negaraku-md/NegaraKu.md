@@ -86,6 +86,7 @@ relations:
   - { rel: "affects", to: "cost-of-living-overview" }
 related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "subsidi padi"]
+framework: profile
 ---
 
 米の値段が上がるたび、あるいはスーパーの棚が空になるたびに、マレーシアには長年つきまとう一つの疑問が舞い戻ってくる——稲田が豊かなこの国が、なぜいまだに米のほぼ半分を輸入しなければならないのか。答えは、補助金に支えられ、保証価格に守られ、いまだ達成されていない自給目標に追われ続ける一つの産業のなかにある。

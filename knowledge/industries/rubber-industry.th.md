@@ -100,6 +100,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry" }
 related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
+framework: profile
 ---
 
 ยางที่สร้างมาลายายุคอาณานิคมไม่หาเลี้ยงชีพในสวนอีกต่อไป — มันหาเลี้ยงชีพบนพื้นโรงงาน มาเลเซียยังกรีดต้นยาง แต่โชคลาภยางของมันปัจจุบันขี่อยู่บนถุงมือทางการแพทย์ ยางรถยนต์ และสินค้าลาเท็กซ์ที่มันผลิต ธุรกิจที่ใช้ยางมากกว่าที่ประเทศปลูกเอง

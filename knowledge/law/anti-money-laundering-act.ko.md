@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "financial-intelligence-unit" }
 related: ["bank-negara-malaysia"]
 keywords: ["AMLA", "AMLATFPUAA 2001", "Act 613", "money laundering Malaysia", "terrorism financing", "reporting institution", "suspicious transaction report", "Bank Negara Malaysia", "freezing and seizure", "AML CFT compliance"]
+framework: rules
 ---
 
 말레이시아의 은행이 고객의 이체를 "의심스럽다"고 표시할 때, 단 하나의 법령이 그 다음에 무슨 일이 일어나는지를 결정합니다 — 누구에게 알려야 하는지, 얼마나 신속하게, 그리고 국가가 그 자금에 대해 행사할 수 있는 권한이 무엇인지입니다. 그 법령이 바로 AMLA입니다.

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["federal-constitution", "majlis-raja-raja", "constitutional-amendment", "new-economic-policy", "ma63"]
 keywords: ["Perkara 153", "Article 153", "position particulière des Malais", "special position of the Malays", "Bumiputera", "autochtones de Sabah Sarawak", "intérêts légitimes des autres communautés", "proportion raisonnable", "quota Constitution Malaisie", "Article 153 Constitution fédérale", "définition de Malais Article 160"]
+framework: explainer
 ---
 
 Beaucoup de gens citent l'Article 153, mais bien moins en ont lu les alinéas. Certains l'appellent « privilège malais », d'autres « un quota » et d'autres encore « discrimination » — et pourtant le texte réel de l'Article n'emploie aucun de ces mots. Il énonce une responsabilité, impose plusieurs limites et — point rarement mentionné — nomme deux groupes qui doivent être protégés en même temps.

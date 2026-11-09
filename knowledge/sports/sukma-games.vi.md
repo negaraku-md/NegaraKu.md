@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "program-podium" }
 related: []
 keywords: ["SUKMA", "Sukan Malaysia", "Majlis Sukan Negara", "Program Podium", "atlet remaja", "pembangunan sukan", "Institut Sukan Negara"]
+framework: explainer
 ---
 
 Cứ mỗi hai năm, hàng nghìn vận động viên tuổi thiếu niên diễu hành vào một sân vận động của bang chủ nhà — không phải vì huy chương thế giới, mà vì danh dự của bang mình và, đối với những người tài năng nhất, một tấm vé đến sân khấu tinh nhuệ của quốc gia. Đó chính là SUKMA.

@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "public-vs-private-healthcare" }
 related: []
 keywords: ["telemedicine Malaysia", "online doctor", "teleconsultation", "DoctorOnCall", "MMC guideline", "e-prescription", "Telemedicine Act 1997"]
+framework: explainer
 ---
 
 நீங்கள் ஒரு ஆப்பைத் திறந்து, உங்கள் சோஃபாவில் இருந்தபடியே ஒரு மருத்துவரை வீடியோ அழைப்பு செய்கிறீர்கள், ஒரு மணிநேரம் கழித்து ஒரு மருந்துச்சீட்டு உங்கள் இன்பாக்ஸில் வந்து சேர்கிறது. மலேசியாவில் இது முழுக்க முழுக்க சட்டப்பூர்வமானது — ஆனால் அதற்குப் பின்னால் உள்ள விதிப் புத்தகம் நீங்கள் எதிர்பார்க்கும் சட்டம் அல்ல.

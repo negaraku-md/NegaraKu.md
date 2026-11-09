@@ -70,6 +70,7 @@ relations:
   - { rel: "compares-with", to: "employment-pass" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "professional-visit-pass"]
 keywords: ["DE Rantau", "تأشيرة الرحّالة الرقميين ماليزيا", "تصريح الرحّالة", "digital nomad visa Malaysia", "MDEC", "Professional Visit Pass", "العمل عن بُعد في ماليزيا", "remote work Malaysia"]
+framework: explainer
 ---
 
 إذا كنت تعمل عن بُعد لصالح جهة عمل أو عملاء مقارّهم خارج ماليزيا، فيمكنك الإقامة والعمل في البلاد بشكل قانوني بموجب تصريح صُمِّم خصوصًا لهذا الغرض: **تصريح DE Rantau للرحّالة**.

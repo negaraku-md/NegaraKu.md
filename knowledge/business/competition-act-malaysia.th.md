@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: []
 keywords: ["Competition Act 2010", "MyCC", "cartel", "price fixing", "bid rigging", "abuse of dominant position", "Competition Amendment Bill 2026"]
+framework: rules
 ---
 
 การตกลงกับคู่แข่งเพื่อคงราคาให้สูง หรือการแอบผลัดกันชนะการประมูลของรัฐ ไม่ใช่ธุรกิจที่ชาญฉลาดในมาเลเซีย — มันเป็นการละเมิดกฎหมายที่อาจทำให้บริษัทต้องเสียหนึ่งในสิบของทุกสิ่งที่หามาได้ทั่วโลก

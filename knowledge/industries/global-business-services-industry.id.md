@@ -97,6 +97,7 @@ keywords:
   - global capability centre
   - Malaysia Digital
   - offshoring
+framework: profile
 ---
 
 Di suatu tempat di Cyberjaya atau Kuala Lumpur saat ini, seorang akuntan sedang menutup pembukuan bulanan bagi sebuah perusahaan yang berkantor pusat di London, seorang agen help-desk sedang menyelesaikan tiket bagi pelanggan di Sydney, dan seorang analis data sedang membangun dasbor bagi sebuah pabrik di Jerman. Tak satu pun dari pemberi kerja itu memproduksi apa pun di Malaysia. Yang mereka jalankan di sini adalah sesuatu yang kurang kasatmata tetapi kian bernilai: back office global mereka.

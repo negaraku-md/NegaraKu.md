@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "cp204b-change-of-accounting-period" }
 related: ["financial-statements-lodgement", "companies-act-2016"]
 keywords: ["tahun kewangan", "FYE", "financial year end", "SSM", "Akta Syarikat 2016", "CP204B", "penyata kewangan"]
+framework: how-to
 ---
 
 Banyak direktur mengira mengubah tahun buku perusahaan memerlukan satu formulir khusus dikirim ke SSM — tetapi Companies Act 2016 sebenarnya tidak menyebutkan formulir seperti itu sama sekali.

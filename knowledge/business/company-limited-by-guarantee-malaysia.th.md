@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["business-structures-malaysia", "sdn-bhd-vs-berhad", "register-sdn-bhd", "what-is-sdn-bhd", "company-secretary-malaysia"]
 keywords: ["company limited by guarantee", "CLBG", "berhad menurut jaminan", "section 45 Companies Act 2016", "non-profit company Malaysia", "SSM CLBG", "omit Berhad licence"]
+framework: explainer
 ---
 
 มูลนิธิ สถาบันวิชาชีพ หอการค้า และวิสาหกิจเพื่อสังคม ทั้งหมดสามารถสวมเปลือกทางกฎหมายเดียวกันในมาเลเซีย — บริษัทจำกัดโดยการค้ำประกัน มันเป็นยานพาหนะที่กฎหมายสงวนไว้สำหรับองค์กรที่มีอยู่เพื่อทำสิ่งที่เป็นประโยชน์มากกว่าเพื่อจ่ายกำไร และมาพร้อมกฎที่ Sdn Bhd ปกติไม่เคยพบ

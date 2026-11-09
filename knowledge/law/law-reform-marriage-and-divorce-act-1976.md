@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "islamic-family-law-malaysia" }
 related: []
 keywords: ["Akta 164", "perkahwinan sivil", "perceraian bukan Islam", "harta sepencarian", "Law Reform Marriage and Divorce Act 1976", "seksyen 76", "Jabatan Pendaftaran Negara"]
+framework: rules
 ---
 
 Jika anda bukan Islam dan berkahwin di Malaysia, satu undang-undang sahaja yang menentukan sama ada perkahwinan itu sah, bagaimana ia boleh ditamatkan, dan siapa dapat apa apabila ia berakhir — Akta Membaharui Undang-Undang (Perkahwinan dan Perceraian) 1976, atau lebih dikenali sebagai Akta 164.

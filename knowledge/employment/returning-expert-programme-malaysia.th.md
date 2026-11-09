@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "income-tax-rates-malaysia" }
 related: []
 keywords: ["Returning Expert Programme", "REP", "TalentCorp", "15% flat tax", "Malaysian diaspora", "returning talent", "MyHeart", "CKD vehicle exemption"]
+framework: explainer
 ---
 
 หากคุณเป็นชาวมาเลเซียที่กำลังสร้างอาชีพในต่างประเทศและกำลังพิจารณากลับมา โครงการผู้เชี่ยวชาญคืนถิ่น (Returning Expert Programme, REP) เสนออัตราภาษีเงินได้แบบคงที่ 15% ตามความสมัครใจสำหรับเงินได้จากการจ้างงานเป็นเวลาห้าปีแทนอัตราก้าวหน้าตามปกติ เพื่อมีคุณสมบัติ คุณต้องยื่นคำขอ *ก่อน* กลับมาเลเซีย

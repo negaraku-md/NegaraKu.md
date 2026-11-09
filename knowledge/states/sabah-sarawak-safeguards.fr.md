@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "article-153-special-position" }
 related: ["federal-constitution", "ma63", "sabah", "sarawak", "federal-state-division", "article-153-special-position"]
 keywords: ["garanties de Sabah Sarawak", "Sabah Sarawak safeguards", "autonomie d'immigration de Sabah Sarawak", "immigration autonomy Sabah Sarawak", "Article 161B", "Article 161E", "Article 95B List IIA", "tribunaux autochtones", "native courts Sabah Sarawak", "Article 112C special grants", "Immigration Act 1959/63 Part VII", "position spéciale des autochtones", "Federal Constitution Part XIIA"]
+framework: explainer
 ---
 
 Prenez l'avion de Kuala Lumpur à Kota Kinabalu ou à Kuching et vous atterrissez en Malaisie — même pays, même passeport, même monnaie — puis vous faites la queue à un guichet d'immigration. Un Malaisien péninsulaire qui ne peut donner une bonne raison de se trouver là peut recevoir un laissez-passer limité à quelques semaines, ou être refoulé. Ce poste de contrôle n'est pas une bizarrerie bureaucratique. C'est l'une d'un ensemble de garanties inscrites dans la Constitution fédérale lorsque Sabah et Sarawak ont rejoint la Fédération en 1963.

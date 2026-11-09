@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "income-tax-rates-malaysia" }
 related: []
 keywords: ["Returning Expert Programme", "REP", "TalentCorp", "15% flat tax", "Malaysian diaspora", "returning talent", "MyHeart", "CKD vehicle exemption"]
+framework: explainer
 ---
 
 Jika Anda seorang warga Malaysia yang telah membangun karier di luar negeri dan sedang mempertimbangkan untuk pulang, Program Pakar Pulang (REP) menawarkan tarif pajak penghasilan rata pilihan sebesar 15% atas penghasilan gaji selama lima tahun, menggantikan tarif progresif biasa. Untuk layak, Anda harus mengajukan permohonan *sebelum* Anda pulang ke Malaysia.

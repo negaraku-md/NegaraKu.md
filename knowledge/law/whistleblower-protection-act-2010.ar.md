@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["macc-sprm", "employment-act-1955"]
 keywords: ["whistleblower protection act 2010", "act 711", "قانون حماية المبلّغين", "improper conduct", "السلوك غير السليم", "whistleblower malaysia", "detrimental action", "الإجراء الضار", "section 11 revocation", "macc disclosure"]
+framework: explainer
 ---
 
 أبلِغ عن رشوة في العمل، وبوسع القانون الماليزي أن يُبقي اسمك سرًا، ويقيك من المقاضاة، ويجعل من غير المشروع أن يفصلك رب عملك بسببها. لكن خطوة واحدة في الاتجاه الخطأ — أن تذهب إلى الصحافة أولًا، أو أن يتبيّن أن لك يدًا في المخطط — ويمكن أن تُنتزع كل تلك الحمايات. هذا هو التصميم المتعمَّد لقانون حماية المبلّغين لسنة 2010.

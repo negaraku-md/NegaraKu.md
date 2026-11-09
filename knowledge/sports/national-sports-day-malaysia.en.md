@@ -69,6 +69,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-belia-dan-sukan" }
 related: []
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
+framework: explainer
 ---
 
 Every Saturday of the second week of October, sports fields, parks and halls across Malaysia are meant to be packed — that is the intent behind National Sports Day.

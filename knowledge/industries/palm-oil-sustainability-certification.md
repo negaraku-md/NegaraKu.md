@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry-malaysia" }
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "RSPO", "EUDR", "sustainable palm oil", "MS 2530:2022", "MPOCC", "forced labour", "deforestation", "palm oil certification"]
+framework: explainer
 ---
 
 A single Malaysian palm oil shipment now has to answer to three different rulebooks at once: a mandatory national scheme at home, a voluntary buyers' club in the boardroom, and a European deforestation law that can bar it at the port. For an industry that shipped 22.30 million tonnes of palm oil and palm-based products in the first ten months of 2024 alone — earning RM89.39 billion — the paperwork is no longer a formality. It is market access.

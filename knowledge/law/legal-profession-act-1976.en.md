@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
 related: ["federal-constitution"]
 keywords: ["Akta Profesion Guaman 1976", "Majlis Peguam", "Malaysian Bar", "peguam bela dan peguam cara", "Lembaga Tatatertib", "Akta 166", "profesion guaman Malaysia"]
+framework: explainer
 ---
 
 Every lawyer who stands before a court in Kuala Lumpur, Johor Bahru, or Penang does so under one and the same body of law — and if they stray, that same law can end their career. That is the Legal Profession Act 1976 (Act 166), the backbone that unifies the legal profession of Peninsular Malaysia and places it under the oversight of the Bar Council and an independent disciplinary board.

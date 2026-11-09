@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "trademark-registration-malaysia" }
 related: ["trademark-registration-malaysia"]
 keywords: ["geographical indication", "GI Act 2022", "Act 836", "MyIPO", "Sarawak pepper", "Musang King", "intellectual property Malaysia", "place of origin"]
+framework: explainer
 ---
 
 「Sarawak Pepper」や「Musang King」と言えば、買い手の頭にはすでに特定の場所、土壌、風味が思い浮かぶ。地理的表示とは、他の誰かが普通の産品をその名称で販売することを阻む法的権利である——そしてマレーシアにおいて、それは特許、商標、意匠、著作権と並んで静かに存在する唯一の知的財産権である。

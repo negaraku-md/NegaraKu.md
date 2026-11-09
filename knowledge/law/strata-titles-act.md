@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "house-buyers-act" }
 related: ["national-land-code"]
 keywords: ["akta hakmilik strata", "akta pengurusan strata 2013", "JMB", "perbadanan pengurusan", "caj penyelenggaraan", "kumpulan wang penjelas", "tribunal pengurusan strata"]
+framework: explainer
 ---
 
 Membeli kondominium bermakna anda memiliki "petak" sendiri — tetapi berkongsi lif, kolam, koridor dan bumbung dengan ratusan jiran. Dua undang-undang menentukan siapa yang memiliki apa, dan siapa yang membayar untuk menyelenggara ruang kongsi itu.

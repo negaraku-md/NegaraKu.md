@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["waqf-islamic-endowment-malaysia", "bank-negara-malaysia", "bursa-malaysia", "federal-budget", "opr-monetary-policy"]
 keywords: ["Islamic finance Malaysia", "sukuk", "takaful", "murabahah", "ijarah", "tawarruq", "Islamic banking Malaysia", "Shariah Advisory Council"]
+framework: explainer
 ---
 
 几乎每一篇关于马来西亚伊斯兰金融的说明文章，都以一个排名开场。真正从「你实际会签署的那份文件」讲起的，却很少。

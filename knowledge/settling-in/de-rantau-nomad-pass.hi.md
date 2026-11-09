@@ -70,6 +70,7 @@ relations:
   - { rel: "compares-with", to: "employment-pass" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "professional-visit-pass"]
 keywords: ["DE Rantau", "मलेशिया डिजिटल नोमैड वीज़ा", "नोमैड पास", "digital nomad visa Malaysia", "MDEC", "Professional Visit Pass", "मलेशिया दूरस्थ कार्य", "remote work Malaysia"]
+framework: explainer
 ---
 
 यदि आप मलेशिया के बाहर स्थित किसी नियोक्ता या ग्राहकों के लिए दूरस्थ रूप से काम करते हैं, तो आप ठीक उसी के लिए बनाए गए एक पास के तहत देश में कानूनी रूप से रह और काम कर सकते हैं: **DE Rantau नोमैड पास**।

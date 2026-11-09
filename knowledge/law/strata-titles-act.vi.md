@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "house-buyers-act" }
 related: ["national-land-code"]
 keywords: ["akta hakmilik strata", "akta pengurusan strata 2013", "JMB", "perbadanan pengurusan", "caj penyelenggaraan", "kumpulan wang penjelas", "tribunal pengurusan strata"]
+framework: explainer
 ---
 
 Mua một căn chung cư nghĩa là bạn sở hữu "căn hộ" (petak) của riêng mình — nhưng chia sẻ thang máy, hồ bơi, hành lang và mái nhà với hàng trăm người hàng xóm. Hai đạo luật xác định ai sở hữu cái gì, và ai trả tiền để bảo trì không gian chung đó.

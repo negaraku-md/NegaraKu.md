@@ -76,6 +76,7 @@ relations:
   - { rel: "located-in", to: "sarawak" }
 related: ["gawai-dayak", "sarawak"]
 keywords: ["Ngajat", "tarian Ngajat", "Iban", "Sarawak", "Burung Kenyalang", "enggang", "Hari Gawai", "rumah panjang", "Ngajat Lesong", "Ngajat Indu", "pua kumbu"]
+framework: history-culture
 ---
 
 En la galería de una casa comunal (longhouse) de Sarawak, un hombre con plumas de cálao en la cabeza salta, gira y golpea el suelo con los pies: una espada en una mano, un escudo en la otra. Este es el **ngajat**, la danza que antaño daba la bienvenida a casa a los guerreros que volvían del campo de batalla.

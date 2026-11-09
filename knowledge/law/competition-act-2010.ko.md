@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "how-a-bill-becomes-law" }
 related: ["consumer-protection-act", "companies-act-2016", "how-a-bill-becomes-law"]
 keywords: ["Competition Act 2010", "MyCC", "Malaysia Competition Commission", "anti-competitive agreements", "abuse of dominance", "cartel", "price fixing", "bid rigging", "Section 4", "Section 10"]
+framework: rules
 ---
 
 다섯 곳의 가금류 사료 제분업체가 은밀히 가격을 나란히 인상하기로 합의했을 때, 그 결과는 결국 재래시장에서 닭 가격으로 나타났습니다. 2023년 12월, 말레이시아의 경쟁 규제기관은 이들에게 가격 담합을 이유로 총 RM4.155억의 과징금을 부과했는데, 이는 이 나라 역사상 최대 규모의 경쟁법 과징금이었습니다. 많은 사업자가 아직도 그 존재조차 거의 알지 못하는 법을 위반한 데 따른 것이었습니다.

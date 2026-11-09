@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
 related: ["companies-act-2016"]
 keywords: ["liabiliti setiausaha syarikat", "kesalahan setiausaha syarikat", "penyata palsu", "seksyen 591", "Akta Syarikat 2016", "pegawai syarikat", "Borang 49"]
+framework: rules
 ---
 
 Satu tandatangan pada borang SSM boleh membawa setiausaha syarikat ke kandang tertuduh — bukan hanya syarikat atau pengarahnya. Dokumen yang salah, walaupun ditandatangani atas arahan pengarah, tetap menjadi tanggungjawab peribadi orang yang memfailkannya.

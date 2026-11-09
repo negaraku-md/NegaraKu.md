@@ -96,6 +96,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Bien avant d'être connue pour ses puces informatiques et son huile de palme, la Malaisie fabriquait du tissu et des vêtements. L'industrie du textile, de l'habillement et de la chaussure est l'un des plus anciens secteurs manufacturiers modernes du pays — le type d'activité à forte intensité de main-d'œuvre et orientée vers l'exportation qui a contribué à amorcer l'industrialisation dans les années 1970 et 1980. Aujourd'hui, elle représente une part plus réduite d'une économie bien plus vaste, mais elle demeure un véritable employeur, un exportateur régulier, et un secteur que le gouvernement s'efforce activement de réinventer.

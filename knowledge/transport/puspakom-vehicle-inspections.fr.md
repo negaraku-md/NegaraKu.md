@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "road-tax-renewal-malaysia" }
 related: ["road-tax-renewal"]
 keywords: ["puspakom", "pemeriksaan berkala", "kenderaan komersial", "e-hailing", "cukai jalan", "akta pengangkutan jalan 1987"]
+framework: rules
 ---
 
 Si vous possédez un camion, une fourgonnette, un taxi ou une voiture d'e-hailing, le calendrier semestriel de Puspakom est en réalité votre calendrier de taxe de circulation : sans un cachet d'inspection valable, le JPJ ne vous laissera pas renouveler la licence de votre véhicule du tout.

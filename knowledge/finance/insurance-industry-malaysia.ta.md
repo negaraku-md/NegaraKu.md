@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["insurance Malaysia", "life insurance", "general insurance", "motor insurance", "PIAM", "LIAM", "Financial Services Act 2013", "Bank Negara Malaysia", "third party cover"]
+framework: profile
 ---
 
 மலேசியாவில் புதுப்பிக்கப்படும் ஒவ்வொரு சாலை வரியும் ஒரு விஷயத்தை அமைதியாக நிரூபிக்கிறது: முதலில் காப்பீட்டை வாங்குங்கள், இல்லையெனில் வாகனம் சாலைக்கு வெளியேயே இருக்கும். அந்த ஒற்றைச் சட்டப் பிடிமானம் — கட்டாய மூன்றாம்-தரப்பு மோட்டார் காப்பீடு — இல்லையெனில் அன்றாட வாழ்வின் பின்னணியில் இயங்கும், பிரீமியங்களைச் சேகரித்து, அபாயத்தைத் திரட்டி, தவறு நிகழும்போது செலுத்தும் ஒரு தொழிற்துறையின் மிகவும் தெரியும் விளிம்பாகும்.

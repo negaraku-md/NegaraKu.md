@@ -85,6 +85,7 @@ relations:
   - { rel: "affects", to: "oil-palm-plantations" }
 related: []
 keywords: ["windfall profit levy", "cukai durian runtuh", "palm oil tax Malaysia", "CPO levy", "Windfall Profit Levy Act 1998", "oil palm fruit order"]
+framework: rules
 ---
 
 미가공 팜유 가격이 급등하면 말레이시아 정부는 그 이익의 일부를 걷습니다. 다만 가격이 정해진 선을 넘은 후에만 그렇습니다. 그 선이 바로 초과이익 부담금으로, 고가 시기의 달에는 켜지고 평범한 달에는 꺼지는 세금입니다.

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "house-buyers-act" }
 related: ["national-land-code"]
 keywords: ["akta hakmilik strata", "akta pengurusan strata 2013", "JMB", "perbadanan pengurusan", "caj penyelenggaraan", "kumpulan wang penjelas", "tribunal pengurusan strata"]
+framework: explainer
 ---
 
 การซื้อคอนโดมิเนียมหมายความว่าคุณเป็นเจ้าของ "ห้องชุด" ของตนเอง — แต่ใช้ลิฟต์ สระว่ายน้ำ ทางเดิน และหลังคาร่วมกับเพื่อนบ้านหลายร้อยคน กฎหมายสองฉบับกำหนดว่าใครเป็นเจ้าของอะไร และใครจ่ายเพื่อบำรุงรักษาพื้นที่ส่วนกลางนั้น

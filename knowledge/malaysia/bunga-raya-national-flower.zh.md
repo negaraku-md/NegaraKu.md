@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "rukun-negara" }
 related: ["rukun-negara"]
 keywords: ["bunga raya", "bunga kebangsaan", "hibiscus", "Hibiscus rosa-sinensis", "simbol kebangsaan Malaysia", "Rukun Negara", "Tunku Abdul Rahman"]
+framework: history-culture
 ---
 
 七种花卉曾竞相代表一个刚刚独立的国家——而胜出的既不是最芳香的，也不是最稀有的，而是每一个市镇和乡村都最熟悉的那一种。那就是大红花。

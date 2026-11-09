@@ -54,6 +54,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["federal-constitution", "majlis-raja-raja", "ma63", "article-152-language", "fundamental-liberties"]
 keywords: ["Article 159 Federal Constitution", "amending the Constitution Malaysia", "two-thirds majority Parliament", "Conference of Rulers consent", "Article 161E Sabah Sarawak", "Perkara 159", "constitutional amendment Malaysia"]
+framework: explainer
 ---
 
 Điều 159 mở đầu bằng cách đặt chính mình dưới các quy tắc của chính nó. Khoản (5) liệt kê các quy định không thể được sửa đổi nếu không có sự đồng thuận của Hội đồng Quân vương — và mục cuối cùng trong danh sách đó là chính "Khoản này." Thủ tục sửa đổi bảo vệ chính thủ tục sửa đổi của nó. Riêng chi tiết đó cho bạn biết Hiến pháp Liên bang chưa bao giờ được dự định để bị thay đổi bởi một quy tắc đơn giản duy nhất.

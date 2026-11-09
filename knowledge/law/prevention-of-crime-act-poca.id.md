@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "prevention-of-terrorism-act-pota" }
 related: ["sosma"]
 keywords: ["POCA", "Akta Pencegahan Jenayah 1959", "Akta 297", "tahanan pencegahan", "Lembaga Pencegahan Jenayah", "jenayah terancang", "tahanan tanpa perbicaraan"]
+framework: explainer
 ---
 
 Seseorang dapat dinamai, disidik, dan akhirnya ditahan selama dua tahun tanpa pernah didakwa di pengadilan — dan keputusan itu dibuat oleh sebuah lembaga, bukan seorang hakim. Itulah mekanisme di inti Undang-Undang Pencegahan Kejahatan 1959 (POCA).

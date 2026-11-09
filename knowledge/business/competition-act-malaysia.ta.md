@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: []
 keywords: ["Competition Act 2010", "MyCC", "cartel", "price fixing", "bid rigging", "abuse of dominant position", "Competition Amendment Bill 2026"]
+framework: rules
 ---
 
 விலைகளை உயர்வாக வைத்திருக்க ஒரு போட்டியாளருடன் உடன்படுவது, அல்லது அரசாங்க ஏல ஒப்பந்தங்களை வெல்ல அமைதியாக முறை வைத்துக்கொள்வது, மலேசியாவில் புத்திசாலித்தனமான வணிகம் அல்ல — அது ஒரு நிறுவனத்திற்கு அது உலகம் முழுவதும் ஈட்டும் அனைத்திலும் பத்தில் ஒரு பங்கை இழக்க வைக்கக்கூடிய சட்ட மீறலாகும்.

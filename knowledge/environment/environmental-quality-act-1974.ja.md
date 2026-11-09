@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "manufacturing-licence-malaysia" }
 related: ["manufacturing-licence-malaysia"]
 keywords: ["Environmental Quality Act 1974", "Act 127", "Act A1712", "Department of Environment", "EIA Malaysia", "prescribed premises", "environmental penalties Malaysia", "open burning Malaysia", "scheduled waste"]
+framework: rules
 ---
 
 マレーシアで河川への一度の流出事故は、今や企業に最高RM1,000万の代価を負わせ、責任者を服役させることになりうる——しかも以前と違い、裁判官には罰金のみを科す裁量はもはやない。2024年7月7日に発効したこの転換は、マレーシアの環境法における半世紀で最も鋭い変化であり、それは多くの事業者が1974年以来静かに付き合ってきた一つの法律の中に存在する。

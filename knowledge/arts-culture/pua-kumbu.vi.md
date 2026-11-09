@@ -78,6 +78,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["batik", "gawai-dayak", "sarawak"]
 keywords: ["pua kumbu", "tenunan Iban", "ikat lungsi", "kebat", "engkudu", "ngar", "kain upacara Sarawak", "Bangie Embol"]
+framework: history-culture
 ---
 
 Một tấm vải mà người dệt không dám tạo ra nếu không có «sự cho phép» — hoa văn của nó được cho là đến trong giấc mơ, và có một thời nó gắn chặt với truyền thống chiến binh của cộng đồng tạo ra nó. Đó là pua kumbu.

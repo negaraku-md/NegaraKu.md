@@ -117,6 +117,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-transport-malaysia" }
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["Malaysia ports", "Port Klang", "Port of Tanjung Pelepas", "PTP", "transhipment", "container port", "logistics Malaysia", "freight forwarding", "ECRL", "free zone", "TEU", "Strait of Malacca"]
+framework: profile
 ---
 
 포트클랑은 2025년 1,514만 개의 컨테이너를 옮겼습니다 — 홍콩을 앞지르고 처음으로 세계 10대 가장 붐비는 항만에 진입하기에 충분한 양입니다. 두 번째 말레이시아 항만인 탄중 펠레파스는 여기에 1,400만 개를 더 옮겼습니다. 어느 수치도 그 상품 대부분을 만드는 나라를 묘사하지 않습니다. 그것은 알맞은 자리에 앉아 세계 무역에 임대료를 매기는 법을 배운 나라를 묘사합니다.

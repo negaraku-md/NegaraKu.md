@@ -63,6 +63,7 @@ wikidata: "Q28163620"
 relations: []
 related: []
 keywords: ["Financial Services Act 2013", "FSA 2013", "FSA Malaysia", "Act 758", "Bank Negara Malaysia financial regulation", "financial institutions regulation Malaysia", "consumer protection financial services Malaysia", "unlicensed financial business penalty Malaysia", "IFSA 2013", "payment systems regulation Malaysia"]
+framework: explainer
 ---
 
 每一次你轻触电子钱包、办理车贷或购买伊斯兰保险（takaful）计划，你面对的都是一家听命于同一个监管者的企业——**马来西亚国家银行（BNM）**——这一切源于一部法律。**2013年金融服务法令（FSA）**，被引称为**第758号法令**，是马来西亚传统金融领域的基石法律。它适用于全马来西亚，由国家银行主管和执行，并于**2013年6月30日**生效。大多数写给律师看的解读只停留在被废除法令的清单上。而这一篇回答的是一个普通马来西亚人真正关心的问题：FSA对你的钱、你的权利，以及照管这些的人意味着什么？

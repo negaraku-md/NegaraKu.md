@@ -97,6 +97,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review (output/export, capacity and ownership figures flagged for verification).
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Les plastiques, les engrais, les détergents, le caoutchouc synthétique, les cosmétiques, les peintures et les résines à l'intérieur de la coque de votre téléphone commencent tous sous forme de produits chimiques — et une part surprenante d'entre eux, ou de leurs composants de base, est fabriquée en Malaisie. Derrière les histoires mieux connues du pétrole et du gaz et de l'huile de palme se trouve une grande industrie chimique et pétrochimique, discrètement stratégique, qui transforme des hydrocarbures bruts et des huiles végétales en matériaux dont dépend la vie moderne.

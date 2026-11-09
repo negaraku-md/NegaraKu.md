@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malay-rulers-and-state-monarchies" }
 related: ["federal-constitution"]
 keywords: ["Yang di-Pertuan Agong", "Majlis Raja-Raja", "Conference of Rulers", "Perkara 32", "Perkara 38", "raja berperlembagaan", "Ketua Negara"]
+framework: explainer
 ---
 
 Malaysia is among the few countries in the world whose monarch is elected on a rotational basis rather than inherited one after another from a single lineage. Every five years, the nine Malay Rulers convene to determine which among them will occupy the Federal throne as the Yang di-Pertuan Agong. This system, together with the institution that operates it — the Conference of Rulers — forms the core of the country's constitutional monarchy.

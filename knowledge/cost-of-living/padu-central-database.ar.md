@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "str-sumbangan-tunai-rahmah" }
 related: []
 keywords: ["PADU", "Pangkalan Data Utama", "قاعدة البيانات المركزية", "الدعم المستهدف", "padu.gov.my", "وزارة الاقتصاد الماليزية", "DOSM"]
+framework: explainer
 ---
 
 للانتقال من الدعم الشامل إلى مساعدات أكثر استهدافاً، تحتاج الحكومة إلى معرفة الظروف الاجتماعية-الاقتصادية لمواطنيها. وPADU هي قاعدة البيانات التي بُنيت لهذا الغرض.

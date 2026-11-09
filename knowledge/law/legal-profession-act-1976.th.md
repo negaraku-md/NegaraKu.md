@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
 related: ["federal-constitution"]
 keywords: ["Akta Profesion Guaman 1976", "Majlis Peguam", "Malaysian Bar", "peguam bela dan peguam cara", "Lembaga Tatatertib", "Akta 166", "profesion guaman Malaysia"]
+framework: explainer
 ---
 
 ทนายความทุกคนที่ยืนอยู่ในศาลในกัวลาลัมเปอร์ ยะโฮร์บาห์รู (Johor Bahru) หรือปีนัง (Pulau Pinang) ทำเช่นนั้นภายใต้กฎหมายฉบับเดียวกัน — และหากเขาหลงทาง กฎหมายฉบับเดียวกันนั้นสามารถยุติอาชีพของเขาได้ นั่นคือพระราชบัญญัติวิชาชีพกฎหมาย 1976 (Akta 166) กระดูกสันหลังที่รวมวิชาชีพกฎหมายของคาบสมุทรมาเลเซียให้เป็นหนึ่งและวางไว้ภายใต้การกำกับดูแลของสภาทนายความและคณะกรรมการวินัยที่เป็นอิสระ

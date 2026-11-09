@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "harta-sepencarian-malaysia" }
 related: []
 keywords: ["undang-undang keluarga islam", "akta 303", "mahkamah syariah", "talaq", "fasakh", "khuluk", "hadhanah", "nafkah", "poligami", "islamic family law malaysia"]
+framework: rules
 ---
 
 Une épouse qui souhaite demander le divorce parce que son mari ne lui fournit pas de pension alimentaire, un père qui veut conserver la garde d'un fils qui vient d'avoir sept ans, un homme qui demande à prendre une autre épouse : aucune de ces trois situations ne commence dans un cabinet d'avocats ordinaire, mais au Tribunal de la Syariah, sous le droit de la famille islamique de l'État concerné. Ce document explique le cadre de ce droit de manière descriptive, sans prendre parti.

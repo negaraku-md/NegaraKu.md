@@ -85,6 +85,7 @@ relations:
   - { rel: "affects", to: "oil-palm-plantations" }
 related: []
 keywords: ["windfall profit levy", "cukai durian runtuh", "palm oil tax Malaysia", "CPO levy", "Windfall Profit Levy Act 1998", "oil palm fruit order"]
+framework: rules
 ---
 
 粗パーム油（CPO）価格が急騰すると、マレーシア政府はその上昇分の一部を徴収する——ただし、価格が定められた一線を越えた後に限られる。その一線こそが暴利税（Windfall Profit Levy）であり、価格が高い月にはスイッチが入り、平常な月にはオフのままとなる税である。

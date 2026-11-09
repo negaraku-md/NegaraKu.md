@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "special-resolution" }
 related: ["companies-act-2016"]
 keywords: ["tukar nama syarikat", "change of company name", "कंपनी का नाम परिवर्तन", "धारा 28", "seksyen 28", "विशेष संकल्प", "SSM CRS", "name reservation", "नाम आरक्षण"]
+framework: how-to
 ---
 
 कंपनी का नाम बदलना केवल एक प्रपत्र भरने का मामला नहीं है — यह सदस्यों के विशेष संकल्प से

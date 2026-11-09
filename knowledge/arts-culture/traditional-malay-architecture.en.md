@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "malay-woodcarving" }
 related: []
 keywords: ["rumah Melayu", "rumah panggung", "senibina vernakular", "bumbung panjang", "tebar layar", "rumah panjang", "kampung", "warisan"]
+framework: history-culture
 ---
 
 Lift up an old kampung house, take apart its joints, and reassemble it on a new site — largely without any fixed concrete foundation. That is the wisdom of traditional Malay architecture: a house that "reads" the tropical climate long before air conditioning existed.

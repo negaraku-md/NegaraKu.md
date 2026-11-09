@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: ["sst"]
 keywords: ["halal certification Malaysia", "JAKIM halal", "MYeHALAL", "halal logo Malaysia", "halal certification fee", "Trade Descriptions Order 2011"]
+framework: how-to
 ---
 
 포장지에 JAKIM의 인증서 없이 할랄 로고를 붙인다면, 이는 단순히 편법을 쓰는 것이 아니라 — 범죄를 저지르는 것입니다. 말레이시아에서 할랄 표방은 법으로 규제되며, 관련 서류 업무는 이제 전적으로 온라인에서 이루어집니다.

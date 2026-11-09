@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "peka-b40-health-screening" }
 related: []
 keywords: ["MySejahtera", "rekod kesihatan digital", "EMR", "kesihatan digital Malaysia", "KKM", "temu janji klinik kesihatan"]
+framework: explainer
 ---
 
 Ramai yang memadam MySejahtera daripada telefon apabila pandemik reda — tetapi aplikasi itu tidak hilang. Ia hanya bertukar kerja.

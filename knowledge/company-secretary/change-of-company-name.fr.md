@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "special-resolution" }
 related: ["companies-act-2016"]
 keywords: ["tukar nama syarikat", "change of company name", "seksyen 28", "ketetapan khas", "SSM CRS", "name reservation"]
+framework: how-to
 ---
 
 Changer le nom d'une société n'est pas simplement une affaire de formulaire à remplir — cela commence par une résolution spéciale des membres et ne se termine que lorsque la SSM émet l'avis d'enregistrement du nouveau nom. Jusqu'à ce moment, l'ancien nom reste juridiquement valable.

@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
 related: ["companies-act-2016"]
 keywords: ["liabiliti setiausaha syarikat", "kesalahan setiausaha syarikat", "penyata palsu", "seksyen 591", "Akta Syarikat 2016", "pegawai syarikat", "Borang 49"]
+framework: rules
 ---
 
 Satu tanda tangan pada formulir SSM dapat membawa sekretaris perusahaan ke kursi terdakwa — bukan hanya perusahaan atau direkturnya. Dokumen yang salah, meskipun ditandatangani atas arahan direktur, tetap menjadi tanggung jawab pribadi orang yang menyampaikannya.

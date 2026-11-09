@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "minimum-wage-malaysia" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["déduction salariale", "article 24", "loi sur l'emploi de 1955", "salary deduction", "Section 24", "Employment Act 1955", "salaire versé en trop", "directeur général du travail"]
+framework: rules
 ---
 
 Votre bulletin de paie est inférieur au montant que vous attendiez, et le motif invoqué est « la politique de l'entreprise ». Mais un employeur ne peut pas déduire du salaire à sa guise : la loi sur l'emploi de 1955 établit une liste fermée de déductions licites — tout ce qui en sort n'est pas autorisé.

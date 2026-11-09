@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "epf-akaun-persaraan" }
 related: []
 keywords: ["EPF i-Invest", "Members Investment Scheme", "KWSP MIS", "invest EPF savings", "Akaun Persaraan", "Basic Savings", "unit trust EPF"]
+framework: explainer
 ---
 
 여러분의 EPF 저축이 한곳에 놓인 채 연간 배당만 받아야 하는 것은 아닙니다. EPF가 요구하는 은퇴 최저선보다 많이 쌓았다면, 그중 일정 부분을 단위신탁 펀드에 넣을 수 있으며 — 2019년부터는 대리인 없이 온라인으로 직접 할 수 있습니다.

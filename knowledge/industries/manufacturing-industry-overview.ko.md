@@ -79,6 +79,7 @@ relations:
   - { rel: "administered-by", to: "mida" }
 related: []
 keywords: ["Malaysia manufacturing", "machinery and equipment", "plastics", "rubber gloves", "medical devices", "chemicals", "food processing", "NIMP 2030", "MIDA", "DOSM"]
+framework: profile
 ---
 
 "말레이시아 공장"이라고 말하면 대부분의 사람들은 페낭(Penang)의 반도체 클린룸이나 샤알람(Shah Alam)의 프로톤(Proton) 생산 라인을 떠올립니다. 그것들은 실재하고 규모도 큽니다 — 그러나 훨씬 더 넓은 산업 기반 위에 얹혀 있습니다. 2024년 이 부문 전체는 RM1조 9,000억 링깃의 매출을 움직였고 약 240만 명을 일자리에 두었으며, 그중 큰 몫이 기계, 플라스틱, 고무, 의료기기, 화학, 그리고 슈퍼마켓 진열대 위의 식품에서 나왔습니다.

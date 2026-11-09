@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: []
 keywords: ["Competition Act 2010", "MyCC", "cartel", "price fixing", "bid rigging", "abuse of dominant position", "Competition Amendment Bill 2026", "प्रतिस्पर्धा अधिनियम 2010", "कार्टेल", "प्रभुत्व का दुरुपयोग"]
+framework: rules
 ---
 
 किसी प्रतिद्वंद्वी के साथ मिलकर कीमतें ऊँची रखना, या चुपचाप बारी-बारी से सरकारी निविदाएँ जीतना,

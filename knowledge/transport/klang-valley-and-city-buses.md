@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "klang-valley-integrated-transit-system" }
 related: []
 keywords: ["Rapid KL bus", "MRT feeder bus", "Klang Valley bus", "Rapid Bus", "Rapid KL On-Demand", "city bus Kuala Lumpur"]
+framework: explainer
 ---
 
 The train gets you to a station. It rarely gets you home. That gap — from the MRT or LRT platform to your doorstep, your office park or the wet market two neighbourhoods over — is filled by a fleet most riders barely think about: the Rapid KL buses.

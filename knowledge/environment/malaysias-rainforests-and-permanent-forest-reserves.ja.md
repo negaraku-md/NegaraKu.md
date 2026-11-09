@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-state-and-federal-lists" }
 related: []
 keywords: ["hutan simpanan kekal", "akta perhutanan negara 1984", "pewartaan hutan", "senarai negeri", "hutan hujan malaysia", "degazette hutan simpan", "enakmen hutan sabah", "ordinan hutan sarawak"]
+framework: explainer
 ---
 
 マレーシアの森林地は、木々に覆われているというだけで「保護されている」わけではない――その保護は、その土地の名称が官報に掲載された日から始まる。その官報告示がなければ、同じ森林はいつでも開発のための許可を与えられ得る。これこそが、マレーシアの永久保存林（PRF）制度全体の基盤である。

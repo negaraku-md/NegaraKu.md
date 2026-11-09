@@ -54,6 +54,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["federal-constitution", "majlis-raja-raja", "ma63", "article-152-language", "fundamental-liberties"]
 keywords: ["Article 159 Federal Constitution", "amending the Constitution Malaysia", "two-thirds majority Parliament", "Conference of Rulers consent", "Article 161E Sabah Sarawak", "Perkara 159", "constitutional amendment Malaysia"]
+framework: explainer
 ---
 
 Pasal 159 dimulai dengan menempatkan dirinya sendiri di bawah aturannya sendiri. Ayat (5) mendaftar ketentuan-ketentuan yang tidak boleh diubah tanpa persetujuan Majlis Raja-Raja — dan item terakhir dalam daftar itu adalah "Ayat ini" sendiri. Prosedur perubahan itu melindungi prosedur perubahannya sendiri. Rincian itu saja memberi tahu kita bahwa Konstitusi Federal tidak pernah dimaksudkan untuk diubah menurut satu aturan sederhana saja.

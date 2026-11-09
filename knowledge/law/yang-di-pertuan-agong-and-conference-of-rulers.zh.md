@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malay-rulers-and-state-monarchies" }
 related: ["federal-constitution"]
 keywords: ["Yang di-Pertuan Agong", "Majlis Raja-Raja", "Conference of Rulers", "Perkara 32", "Perkara 38", "raja berperlembagaan", "Ketua Negara"]
+framework: explainer
 ---
 
 马来西亚是世界上少数君主由轮流选举产生、而非由单一世系逐一世袭继承的国家之一。每隔五年，九位马来统治者便会集会，决定他们当中由谁登上联邦王位、出任最高元首（Yang di-Pertuan Agong）。这套制度，连同执行它的机构——统治者会议（Majlis Raja-Raja）——构成了国家君主立宪制的核心。

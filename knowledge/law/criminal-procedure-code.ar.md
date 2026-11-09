@@ -71,6 +71,7 @@ relations:
   - { rel: "explained-in", to: "rights-when-arrested-malaysia" }
 related: ["penal-code"]
 keywords: ["kanun tatacara jenayah", "akta 593", "criminal procedure code", "قانون الإجراءات الجنائية", "الحبس الاحتياطي", "seksyen 117", "الكفالة", "seksyen 28A", "التوقيف", "المحاكمة الجنائية", "prima facie"]
+framework: explainer
 ---
 
 حين يُوقَف شخص في ماليزيا، فإن ما يحدث بعد تلك اللحظة — أيُفرَج عنه أم يُحتجَز

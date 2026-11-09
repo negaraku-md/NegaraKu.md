@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "road-transport-act-1987" }
 related: []
 keywords: ["lorong motosikal", "Lebuhraya Persekutuan", "topi keledar", "Seksyen 79(2)", "motosikal lebuh raya", "MS 1", "kapasiti enjin"]
+framework: rules
 ---
 
 オートバイに乗って連邦道路（Lebuhraya Persekutuan）に入り、「オートバイレーン」（Lorong Motosikal）の標識が左へ分岐しているのを見て——それに従わなければならないのか、それとも本線にとどまってよいのか、と迷う。答えはひとつの言葉にかかっている：*官報告示*（diwartakan）だ。

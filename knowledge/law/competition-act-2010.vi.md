@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "how-a-bill-becomes-law" }
 related: ["consumer-protection-act", "companies-act-2016", "how-a-bill-becomes-law"]
 keywords: ["Competition Act 2010", "MyCC", "Malaysia Competition Commission", "anti-competitive agreements", "abuse of dominance", "cartel", "price fixing", "bid rigging", "Section 4", "Section 10"]
+framework: rules
 ---
 
 Khi năm nhà máy sản xuất thức ăn gia cầm lặng lẽ đồng ý cùng nhau nâng giá, cuối cùng nó hiện ra ở chợ ướt trong giá của một con gà. Vào tháng 12 năm 2023, cơ quan quản lý cạnh tranh của Malaysia phạt họ tổng cộng RM415.5 triệu — khoản phạt cạnh tranh lớn nhất trong lịch sử đất nước — vì vi phạm một luật mà nhiều doanh nghiệp vẫn còn hầu như không biết là tồn tại.

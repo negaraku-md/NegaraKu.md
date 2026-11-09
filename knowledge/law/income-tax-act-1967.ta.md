@@ -81,6 +81,7 @@ relations:
   - { rel: "explained-in", to: "company-tax-calendar" }
 related: ["lhdn", "corporate-tax-rates", "personal-tax-rates", "which-tax-form", "form-c-and-cp204"]
 keywords: ["Income Tax Act 1967", "Act 53", "Akta Cukai Pendapatan 1967", "Malaysia tax statute", "LHDN legislation"]
+framework: data-reference
 ---
 
 இப்பக்கம் Act 53-இன் சட்டப் பதிவு — அதன் அடையாளம், கட்டமைப்பு, நிர்வாகம் மற்றும்

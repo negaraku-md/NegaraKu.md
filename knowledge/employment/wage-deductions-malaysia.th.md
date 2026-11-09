@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "minimum-wage-malaysia" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["potongan gaji", "Seksyen 24", "Akta Kerja 1955", "salary deduction", "Ketua Pengarah Tenaga Kerja", "lebihan gaji"]
+framework: rules
 ---
 
 สลิปเงินเดือนของคุณน้อยกว่าจำนวนที่คาดไว้ และเหตุผลระบุว่าเป็น "นโยบายบริษัท" แต่นายจ้างไม่สามารถหักค่าจ้างตามใจได้: พระราชบัญญัติการจ้างงาน 1955 (Employment Act 1955) กำหนดรายการปิดของการหักที่ชอบด้วยกฎหมาย — สิ่งใดที่อยู่นอกรายการนั้นไม่ได้รับอนุญาต

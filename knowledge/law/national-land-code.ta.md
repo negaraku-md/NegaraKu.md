@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["buying-a-home-process", "federal-constitution", "companies-act-2016"]
 keywords: ["National Land Code", "Act 828", "Act 56 of 1965", "Torrens system Malaysia", "land title registration", "indefeasibility of title section 340", "Sabah Land Ordinance", "Sarawak Land Code", "Peninsular Malaysia land law"]
+framework: explainer
 ---
 
 குச்சிங்கில் உள்ள ஒரு வழக்கறிஞரிடம் ஒரு பினாங்கு நில உரிமையை National Land

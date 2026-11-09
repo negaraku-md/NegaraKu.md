@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "azizulhasni-awang" }
 related: []
 keywords: ["velodrom nasional", "Nilai", "lumba basikal trek", "keirin", "Azizulhasni Awang", "MNCF", "Majlis Sukan Negara"]
+framework: profile
 ---
 
 A long, roofed arena on the outskirts of Nilai is now where Malaysia's fastest riders sharpen their sprints — and it was built specifically to produce more world track champions.

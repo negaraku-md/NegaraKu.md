@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["bahasa-melayu", "mak-yong"]
 keywords: ["industri filem Malaysia", "sinema Malaysia", "P. Ramlee", "FINAS", "Malay Film Productions", "Jalan Ampas", "Mat Kilau", "Tiger Stripes", "Da Huang Pictures", "Malaysian New Wave"]
+framework: profile
 ---
 
 ในปี 1955 อดีตเด็กถือแคลปเปอร์และผู้ช่วยถือกล้องที่สตูดิโอแห่งหนึ่งที่เลขที่ 8 ถนนอัมปัส (Jalan Ampas) สิงคโปร์ นั่งลงบนเก้าอี้ผู้กำกับเป็นครั้งแรกเมื่ออายุ 26 ปี ภาพยนตร์เรื่องนั้นคือ *Penarek Becha* ชื่อของเขาคือพี. รามลี (P. Ramlee) เรื่องราวของอุตสาหกรรมภาพยนตร์มาเลเซียเริ่มต้นไม่ใช่ที่กัวลาลัมเปอร์ แต่ที่สตูดิโอสิงคโปร์ที่พี่น้องสองคนจากเซี่ยงไฮ้เป็นเจ้าของ — และมันไม่เคยหยุดเคลื่อนไหวนับแต่นั้น

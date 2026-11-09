@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "klang-valley-integrated-transit-system" }
 related: []
 keywords: ["حافلات Rapid KL", "حافلة تغذية MRT", "حافلات وادي كلانغ", "Rapid Bus", "Rapid KL On-Demand", "حافلة مدينة كوالالمبور", "Rapid KL bus", "MRT feeder bus", "Klang Valley bus"]
+framework: explainer
 ---
 
 يوصلك القطار إلى المحطة، لكنه نادراً ما يوصلك إلى البيت. تلك الفجوة — من رصيف MRT أو LRT إلى عتبة دارك، أو مجمّع مكتبك الصناعي، أو السوق المبلّل على بُعد حيَّين — تملؤها أسطولٌ قلّما يفكّر فيه معظم الركّاب: حافلات Rapid KL.

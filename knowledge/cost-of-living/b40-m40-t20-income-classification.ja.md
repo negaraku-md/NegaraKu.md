@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "kos-sara-hidup-malaysia" }
 related: []
 keywords: ["B40", "M40", "T20", "pendapatan isi rumah", "DOSM", "kos sara hidup", "median pendapatan"]
+framework: explainer
 ---
 
 多くのマレーシア人は、B40、M40、T20というラベルを知っています——しかし、そのラベルはあなたの給与明細から来るものではありません。それは、全国を網羅する長いリストの中での、あなたの世帯の順位から来るものです。

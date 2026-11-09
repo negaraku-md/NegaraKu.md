@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "solvency-statement" }
 related: []
 keywords: ["recompra de acciones", "pembelian balik saham", "share buy-back", "acciones en autocartera", "treasury shares", "Seksyen 127", "Companies Act 2016", "Akta Syarikat 2016", "Bursa Malaysia", "Capítulo 12"]
+framework: rules
 ---
 
 Una empresa puede recomprar sus propias acciones y mantenerlas «en autocartera»,

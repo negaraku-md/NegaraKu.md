@@ -98,6 +98,7 @@ relations:
   - { rel: "compares-with", to: "rubber-industry" }
 related: ["rubber-industry"]
 keywords: ["palm oil", "crude palm oil", "CPO", "MPOB", "FELDA", "smallholders", "oil palm", "refineries", "oleochemicals", "MSPO", "biodiesel", "exports"]
+framework: profile
 ---
 
 パーム油は世界で最も取引量の多い植物油であり、マレーシアはインドネシアに次ぐ第2位の生産国である——ジョホールからサラワクの丘陵地帯まで栽培される、とげのある赤い果房の房を、精製食用油、石鹸原料、バイオディーゼルへと加工し、アジア、アフリカ、欧州各地の市場へ出荷している。マレーシアパーム油理事会（MPOC）によれば、同産業は直接・間接に300万人を超えるマレーシア人を支えており、うち小規模農家は500,000人近くに達する。以下は、その機械が木からタンカーに至るまで、どのように構築されているかである。

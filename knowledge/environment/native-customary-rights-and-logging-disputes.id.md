@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "orang-asal-indigenous-peoples" }
 related: []
 keywords: ["native customary rights", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "logging disputes", "native title"]
+framework: explainer
 ---
 
 Sebuah komunitas rumah panjang mengatakan sebidang hutan telah menjadi milik mereka sejak turun-temurun. Sebuah perusahaan tebang atau perkebunan sendiri memegang lisensi, yang dikeluarkan oleh negeri, yang meliputi kawasan yang sama. Keduanya merujuk pada hukum. Di Sarawak dan Sabah, benturan itu telah diperdebatkan di ruang sidang selama lebih dari dua dekade — dan pengadilan tidak selalu sependapat tentang di mana garis itu jatuh.

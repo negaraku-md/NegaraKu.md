@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "article-153-special-position" }
 related: ["federal-constitution", "penal-code", "fundamental-liberties", "article-152-language", "article-153-special-position"]
 keywords: ["Sedition Act 1948", "Act 15", "seditious tendency", "seditious publication", "section 3 Sedition Act", "Sedition Amendment Act 2015", "Act A1485", "Malaysia sedition law"]
+framework: explainer
 ---
 
 1948年扇動法（Sedition Act 1948、Act 15）は「扇動」（sedition）そのものを定義していない。同法が定義するのは**扇動的傾向**であり、その上で、これを有する行為、言論及び刊行物に罪を付す。この区別は同法全体を貫いており、同法を読む際にはまずここから始めなければならない。

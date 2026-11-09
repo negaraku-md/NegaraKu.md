@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "article-153-special-position" }
 related: ["federal-constitution", "penal-code", "fundamental-liberties", "article-152-language", "article-153-special-position"]
 keywords: ["Sedition Act 1948", "Act 15", "seditious tendency", "seditious publication", "section 3 Sedition Act", "Act A1485", "قانون التحريض 1948", "النزعة التحريضية", "المنشور التحريضي", "المادة 3 قانون التحريض", "قانون التحريض ماليزيا"]
+framework: explainer
 ---
 
 لا يعرّف Sedition Act 1948 «التحريض». بل يعرّف **النزعة التحريضية**، ثم يُلحِق الجرائم بالأفعال والكلمات والمنشورات التي تحمل هذه النزعة. وهذا التمييز يسري في التشريع كله، ومنه يجب أن تبدأ أي قراءة للقانون.

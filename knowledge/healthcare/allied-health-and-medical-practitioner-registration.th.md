@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "healthcare-system-overview" }
 related: []
 keywords: ["pendaftaran doktor", "MMC", "MeRITS", "APC", "Lembaga Jururawat Malaysia", "Lembaga Farmasi Malaysia", "MAHPC", "Akta Profesion Kesihatan Bersekutu 2016", "fisioterapi"]
+framework: how-to
 ---
 
 ใครสักคนอาจสวมเสื้อกาวน์สีขาว แขวนใบประกาศนียบัตรไว้บนผนังคลินิก และเรียกตัวเองว่า "หมอ" — แต่มีเพียงสิ่งเดียวเท่านั้นที่ยืนยันคุณสมบัติของเขาได้จริง คือชื่อของเขาปรากฏอยู่ในทะเบียนทางการ ในมาเลเซีย แพทย์ พยาบาล เภสัชกร และนักกายภาพบำบัดทุกคนต้องขึ้นทะเบียนกับหน่วยงานกำกับดูแลวิชาชีพของตน ข่าวดีคือ คุณสามารถตรวจสอบได้ด้วยตนเองโดยไม่มีค่าใช้จ่าย

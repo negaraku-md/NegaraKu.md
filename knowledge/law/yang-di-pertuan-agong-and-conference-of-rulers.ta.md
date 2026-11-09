@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malay-rulers-and-state-monarchies" }
 related: ["federal-constitution"]
 keywords: ["Yang di-Pertuan Agong", "Majlis Raja-Raja", "Conference of Rulers", "Perkara 32", "Perkara 38", "raja berperlembagaan", "Ketua Negara"]
+framework: explainer
 ---
 
 உலகில் தன் மன்னரை ஒரு பரம்பரையிலிருந்து ஒருவர் பின் ஒருவராக வாரிசுரிமையில் பெறாமல், சுழற்சி முறையில் தேர்ந்தெடுக்கும் ஒருசில நாடுகளுள் மலேசியாவும் ஒன்று. ஒவ்வொரு ஐந்து ஆண்டுகளுக்கும், தங்களுள் யார் யாங் டி-பெர்துவான் அகோங்காகக் கூட்டரசு அரியணையில் அமர்வார் என்பதைத் தீர்மானிக்க ஒன்பது மலாய் மன்னர்கள் ஒன்றுகூடுகிறார்கள். இந்த முறையும், அதை நடத்தும் நிறுவனமான மன்னர்கள் மாநாடும் (Majlis Raja-Raja) சேர்ந்து நாட்டின் அரசியலமைப்பு முடியாட்சியின் மையத்தை உருவாக்குகின்றன.

@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "movement-control-order-covid-19" }
 related: []
 keywords: ["Akta 342", "penyakit berjangkit", "kuarantin", "PKP", "COVID-19", "kawasan jangkitan tempatan", "kesihatan awam", "Kementerian Kesihatan Malaysia"]
+framework: rules
 ---
 
 이동통제령(Movement Control Order, PKP)이 2020년 3월 말레이시아의 거의 전역의 이동을 멈추게 하였을 때, 그 배후의 법적 권한은 어떤 새로운 비상 법률에서 나온 것이 아니라 — 1988년부터 존재해 온 하나의 공중보건 법률에서 나온 것이었습니다.

@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry" }
 related: ["palm-oil-industry"]
 keywords: ["industri ternakan", "ayam pedaging", "telur ayam", "demam babi Afrika", "influenza burung", "JPV", "nisbah sara diri", "biosekuriti", "kekurangan ayam 2022"]
+framework: profile
 ---
 
 மலேசியரின் உணவுத் தட்டு கோழியைச் சார்ந்துள்ளது. இது இந்நாட்டின் மலிவான புரதம் — அதனால்தான் கோழிக் கூண்டு தள்ளாடும்போது, அது வெறும் பண்ணையின் விவகாரம் அல்ல, நாட்டின் விவகாரமாக மாறுகிறது.

@@ -100,6 +100,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Few people realise that when an American homeowner or utility installs a solar array, the panels may well have been made in Malaysia. For more than a decade the country has quietly been one of the world's largest producers of solar photovoltaic (PV) cells and modules — not to power its own grid, but to export. This is an industry of factories, not feed-in tariffs.

@@ -92,6 +92,7 @@ relations:
   - { rel: "governs", to: "financial-services-act-2013" }
 related: ["bank-negara-malaysia", "islamic-finance", "digital-banks-malaysia"]
 keywords: ["banking sector Malaysia", "commercial banks Malaysia", "Islamic banks Malaysia", "investment banks Malaysia", "Financial Services Act 2013", "Islamic Financial Services Act 2013", "digital banks Malaysia", "Bank Negara Malaysia"]
+framework: profile
 ---
 
 クアラルンプールで銀行口座を開けば、あなたは静かに、二つの完全な銀行制度——従来型とイスラム——を一つの中央銀行のもと、同じ年に制定された二つの対応する法律によって並行して運用する数少ない国の一つに足を踏み入れたことになる。

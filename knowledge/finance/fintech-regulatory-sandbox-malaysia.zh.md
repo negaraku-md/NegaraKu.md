@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "securities-commission-malaysia" }
 related: ["bank-negara-malaysia", "securities-commission-malaysia"]
 keywords: ["regulatory sandbox", "fintech Malaysia", "BNM sandbox", "Innovation Green Lane", "SC sandbox", "FTEG", "capital market fintech"]
+framework: explainer
 ---
 
 在马来西亚开发一款新的支付应用或一个代币化证券平台，你都会撞上同一堵墙：规则是在你的构想诞生之前就写好的。监管沙盒（regulatory sandbox）就是穿过这堵墙的那扇门——一个受监管的空间，让你在持有完整牌照之前先测试实际运行的产品。马来西亚有两个这样的沙盒，你该敲哪一扇门，取决于你在做什么。

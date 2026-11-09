@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "azizulhasni-awang" }
 related: []
 keywords: ["velodrom nasional", "Nilai", "lumba basikal trek", "keirin", "Azizulhasni Awang", "MNCF", "Majlis Sukan Negara"]
+framework: profile
 ---
 
 Một sân đấu có mái che dài ở rìa Nilai nay là nơi tay đua nhanh nhất của Malaysia mài giũa những cú nước rút của mình — và nó được xây dựng riêng để sản sinh thêm nhiều nhà vô địch lòng chảo thế giới.

@@ -100,6 +100,7 @@ entity: "Service Tax Act 2018 (Act 807)"
 relations: []
 related: []
 keywords: ["Service Tax Act 2018", "Act 807", "service tax Malaysia", "SST", "service tax rate", "8% service tax", "6% service tax", "SST registration threshold", "SST-02", "taxable services", "service tax scope expansion 2025", "Royal Malaysian Customs Department", "MySST", "imported taxable services", "digital service tax Malaysia"]
+framework: rules
 ---
 
 Every restaurant bill, phone plan and parking receipt in Malaysia carries a line most people never read closely — the service tax. The law behind it is the **Service Tax Act 2018 (Act 807)**, an Act to provide for the charging, levying and collecting of service tax on prescribed taxable services. It came into operation on **1 September 2018** and is administered by the **Royal Malaysian Customs Department (RMCD)**. Firm "SST update" pages snapshot whatever the rate happens to be that year and go stale; this explainer treats Act 807 as living law — its mechanism, and a single dated timeline of every rate and scope change.

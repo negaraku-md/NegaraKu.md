@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["macc-sprm", "employment-act-1955"]
 keywords: ["whistleblower protection act 2010", "act 711", "व्हिसलब्लोअर प्रोटेक्शन एक्ट", "improper conduct", "अनुचित आचरण", "whistleblower malaysia", "detrimental action", "हानिकारक कार्रवाई", "section 11 revocation", "macc disclosure"]
+framework: explainer
 ---
 
 काम पर किसी रिश्वत की सूचना दें, और मलेशियाई कानून आपका नाम गुप्त रख सकता है, आप पर मुकदमा चलने से आपको बचा सकता है, और आपके बॉस के लिए इसके कारण आपको नौकरी से निकालना गैरकानूनी बना सकता है। पर एक कदम गलत दिशा में उठाएँ — पहले प्रेस के पास जाएँ, या यह सामने आ जाए कि साज़िश में आपका अपना हाथ था — और उनमें से हर एक संरक्षण छीना जा सकता है। यही व्हिसलब्लोअर प्रोटेक्शन एक्ट 2010 की सुनियोजित रचना है।

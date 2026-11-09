@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "financial-intelligence-unit" }
 related: ["bank-negara-malaysia"]
 keywords: ["AMLA", "AMLATFPUAA 2001", "Act 613", "blanchiment de capitaux Malaisie", "financement du terrorisme", "institution déclarante", "déclaration d'opération suspecte", "Bank Negara Malaysia", "gel et saisie", "conformité LBC FT", "money laundering Malaysia", "terrorism financing", "reporting institution", "suspicious transaction report", "AML CFT compliance"]
+framework: rules
 ---
 
 Lorsqu'une banque malaisienne signale le transfert d'un client comme «suspect», un seul texte décide de ce qui se passe ensuite : qui doit être averti, à quelle vitesse, et quels pouvoirs l'État peut alors déployer sur l'argent. Ce texte, c'est l'AMLA.

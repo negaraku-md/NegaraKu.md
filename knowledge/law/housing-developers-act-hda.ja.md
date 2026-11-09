@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "strata-titles-act-1985" }
 related: []
 keywords: ["HDA", "Akta 118", "Jadual H", "Jadual G", "ganti rugi lewat", "LAD", "milikan kosong", "lesen pemaju", "APDL", "Tribunal Tuntutan Pembeli Rumah"]
+framework: rules
 ---
 
 あなたは、建築士の図面の中にしか存在しないコンドミニアムのために10%の頭金を支払い、その後3年間、ローンの分割払いを続けながら待つことになる。開発業者があなたのお金を持ち逃げしたり、工事を遅らせたり、欠陥のあるユニットを引き渡したりすることを何が防いでいるのだろうか。答えは、半世紀以上前に制定された一つの法律である。Housing Development (Control and Licensing) Act 1966——略してHDA、またはAct 118である。

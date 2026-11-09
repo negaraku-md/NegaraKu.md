@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-equity-requirements" }
 related: ["federal-constitution", "fundamental-liberties", "ma63", "majlis-raja-raja", "bumiputera-equity-requirements"]
 keywords: ["Article 153", "special position of the Malays", "natives of Sabah and Sarawak", "Federal Constitution Malaysia", "legitimate interests of other communities", "Article 136 impartial treatment", "Conference of Rulers Article 159", "Bumiputera quotas"]
+framework: explainer
 ---
 
 Sebagian besar ringkasan Pasal 153 berhenti pada satu kalimat: ia melindungi kedudukan istimewa orang Melayu. Baca ayat aslinya secara penuh, dan kalimat itu sebenarnya melakukan sesuatu yang lain — ia menamakan dua tanggung jawab dalam napas yang sama, kepada jabatan yang sama, dalam ayat yang sama.

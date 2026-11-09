@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
 related: ["federal-constitution"]
 keywords: ["Akta Profesion Guaman 1976", "Majlis Peguam", "Malaysian Bar", "peguam bela dan peguam cara", "Lembaga Tatatertib", "Akta 166", "profesion guaman Malaysia"]
+framework: explainer
 ---
 
 Mỗi luật sư đứng tại tòa ở Kuala Lumpur, Johor Bahru hay Penang đều làm vậy dưới cùng một tấm luật — và nếu anh ta đi chệch hướng, chính đạo luật đó có thể chấm dứt sự nghiệp của anh ta. Đó là Luật Nghề Luật sư 1976 (Act 166), xương sống hợp nhất nghề luật sư của Bán đảo Malaysia và đặt nó dưới sự giám sát của Hội đồng Luật sư cùng một ủy ban kỷ luật độc lập.

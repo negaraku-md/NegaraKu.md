@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "court-hierarchy" }
 related: ["federal-constitution", "common-law-in-malaysia", "civil-and-syariah-courts", "how-a-bill-becomes-law", "national-land-code", "court-hierarchy"]
 keywords: ["sources of Malaysian law", "Malaysian legal system", "Federal Constitution supremacy", "Article 4(1)", "Ninth Schedule Federal List State List", "Civil Law Act 1956", "Islamic law Malaysia", "adat Adat Perpatih Adat Temenggong", "customary law Malaysia", "hierarchy of law Malaysia"]
+framework: explainer
 ---
 
 ศาลมาเลเซียที่ตัดสินข้อพิพาทครอบครัวคดีเดียว โดยหลักการอาจต้องเอื้อมไปหากฎหมายสี่ชุดที่

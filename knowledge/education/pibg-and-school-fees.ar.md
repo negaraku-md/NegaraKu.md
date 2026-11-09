@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "national-schools-sk-sjkc-sjkt" }
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "رابطة الآباء والمعلمين", "رسوم المدرسة", "الرسوم الخاصة", "مساهمة PIBG", "المدرسة الحكومية", "تكلفة الدراسة"]
+framework: explainer
 ---
 
 طفلك مُلتحق بمدرسة حكومية «مجانية» — ومع ذلك يصلك نموذج PIBG وقائمة مدفوعات إلى بابك. فما الذي يجب دفعه فعلًا، وما الذي لا يجب؟

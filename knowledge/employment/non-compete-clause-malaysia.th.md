@@ -60,6 +60,7 @@ relations:
   - { rel: "part-of", to: "employment" }
 related: ["employment-contract-malaysia", "termination-of-employment-malaysia"]
 keywords: ["non compete clause malaysia", "restraint of trade malaysia", "section 28 contracts act 1950", "non solicitation malaysia", "restrictive covenant malaysia"]
+framework: explainer
 ---
 
 สัญญาจ้างงานของมาเลเซียเกือบทุกฉบับมีข้อกำหนดห้ามแข่งขัน และเกือบทุกฉบับเป็นโมฆะ นี่ไม่ใช่คำถามที่ก้ำกึ่ง และไม่ใช่เรื่องของคุณภาพการร่าง

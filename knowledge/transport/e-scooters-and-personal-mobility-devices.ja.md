@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "food-delivery-riders" }
 related: []
 keywords: ["e-skuter", "PMD", "mikromobiliti", "basikal elektik", "MS2514", "JPJ", "peranti mobiliti peribadi"]
+framework: rules
 ---
 
 通勤用に電動キックボードを買ったとしても、その車輪が公道に触れた瞬間、あなたはすでに法を犯している。それが2021年末以降のマレーシアにおけるマイクロモビリティの現実だ。

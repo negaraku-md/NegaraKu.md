@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysian-media-council-act" }
 related: []
 keywords: ["Akta Mesin Cetak dan Penerbitan", "Akta 301", "PPPA", "permit akhbar", "lesen mesin cetak", "Menteri Dalam Negeri", "kebebasan media"]
+framework: rules
 ---
 
 மலேசியாவில் ஒரு செய்தித்தாள், அதன் உள்ளடக்கம் உண்மையாக இருப்பதால் அல்லது வாசகர்களின் ஆர்வத்தைத் தூண்டுவதால் மட்டுமே அச்சிடப்பட முடியாது — அது முதலில் உள்நாட்டு அலுவல்கள் அமைச்சர் (Minister of Home Affairs) வழங்கும் அனுமதிச்சீட்டு தேவைப்படுகிறது. அந்த கட்டமைப்பு அச்சு இயந்திரங்கள் மற்றும் வெளியீடுகள் சட்டம் 1984 (Printing Presses and Publications Act 1984), அல்லது Akta 301 என்பதிலிருந்து உருவாகிறது; இது நாட்டின் ஊடக நிலப்பரப்பில் மிகவும் அதிகம் விவாதிக்கப்பட்ட தூண்களில் ஒன்றாக மாறியுள்ள சட்டமாகும்.

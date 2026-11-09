@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "road-tax-renewal-malaysia" }
 related: ["road-tax-renewal"]
 keywords: ["puspakom", "pemeriksaan berkala", "kenderaan komersial", "e-hailing", "cukai jalan", "akta pengangkutan jalan 1987"]
+framework: rules
 ---
 
 ローリー、バン、タクシー、またはEヘイリングの車をお持ちなら、プスパコムの6か月ごとのカレンダーは、実はあなたの道路税のカレンダーそのものである——有効な検査印がなければ、JPJはそもそも車両免許の更新を認めてくれない。

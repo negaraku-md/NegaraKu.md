@@ -96,6 +96,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Almost every physical product that leaves a Malaysian factory — a packet of instant noodles, a smartphone, a car bumper, a length of water pipe — depends on plastic that was shaped somewhere in the country. Plastics are one of Malaysia's quiet industrial strengths: less glamorous than semiconductors, but woven into nearly every other manufacturing sector and, increasingly, into the national debate about waste and sustainability.

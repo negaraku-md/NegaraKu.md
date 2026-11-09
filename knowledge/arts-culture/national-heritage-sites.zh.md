@@ -72,6 +72,7 @@ relations:
   - { rel: "compares-with", to: "unesco-world-heritage-malaysia" }
 related: ["unesco-world-heritage"]
 keywords: ["warisan kebangsaan", "Akta Warisan Kebangsaan 2005", "Akta 645", "Jabatan Warisan Negara", "Daftar Warisan Kebangsaan", "WAKOH", "tapak warisan"]
+framework: explainer
 ---
 
 乔治市一间百年老店屋、一柄马来短剑（keris）、一支宫廷舞蹈，以及一位仍然在世的[宋吉](/arts-culture/songket)（songket）制作师——这四者在马来西亚都能担当同一个法律称号：*国家遗产*（Warisan Kebangsaan）。把它们联系起来的并不是联合国教科文组织的名单，而是一份鲜少被提及其名的国内名录：**国家遗产名录**（Daftar Warisan Kebangsaan）。

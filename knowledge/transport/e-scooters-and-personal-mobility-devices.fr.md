@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "food-delivery-riders" }
 related: []
 keywords: ["e-skuter", "PMD", "mikromobiliti", "basikal elektik", "MS2514", "JPJ", "peranti mobiliti peribadi"]
+framework: rules
 ---
 
 Vous achetez une trottinette électrique pour aller au bureau, mais dès que ses roues touchent une route publique, vous enfreignez déjà la loi. C'est la réalité de la micromobilité en Malaisie depuis la fin de 2021.

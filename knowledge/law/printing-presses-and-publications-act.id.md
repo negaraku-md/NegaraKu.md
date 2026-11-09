@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysian-media-council-act" }
 related: []
 keywords: ["Akta Mesin Cetak dan Penerbitan", "Akta 301", "PPPA", "permit akhbar", "lesen mesin cetak", "Menteri Dalam Negeri", "kebebasan media"]
+framework: rules
 ---
 
 Sebuah surat kabar di Malaysia tidak dapat dicetak semata-mata karena isinya benar atau menarik minat pembaca — ia terlebih dahulu memerlukan permit yang dikeluarkan oleh Menteri Dalam Negeri. Kerangka itu bermula dari Undang-Undang Mesin Cetak dan Penerbitan 1984, atau Akta 301, undang-undang yang telah menjadi salah satu pilar yang paling banyak diperdebatkan dalam lanskap media negara.

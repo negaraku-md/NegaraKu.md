@@ -80,6 +80,7 @@ relations:
   - { rel: "affects", to: "commercial-buildings-malaysia" }
 related: []
 keywords: ["EECA 2024", "Akta 861", "kecekapan tenaga", "Suruhanjaya Tenaga", "pengurus tenaga berdaftar", "audit tenaga", "intensiti tenaga bangunan", "MEPS"]
+framework: rules
 ---
 
 工場やオフィスビルが年間数百万リンギット相当のエネルギーを使用しているなら、政府は今や、そのギガジュールの一つひとつがどこへ向かうのかを把握したいと考えている——そして、無駄を減らす努力を示すことを求めている。これこそが2024年エネルギー効率・保全法（Energy Efficiency and Conservation Act 2024、Act 861）の核心であり、2025年1月1日から施行されているこの法律の要点である。

@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "petroleum-income-tax" }
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["oil and gas Malaysia", "PETRONAS", "production sharing contract", "PSC", "Petroleum Development Act 1974", "Malaysia Petroleum Management", "upstream", "downstream", "LNG", "petroleum income tax"]
+framework: profile
 ---
 
 马来西亚土地与海床之下的每一桶石油、每一立方英尺天然气，在法律上都归属于一家公司。不是国家直接持有，不是油田的发现者，也不是钻探它们的跨国公司——而是国家石油公司（PETRONAS），一家为国家托管石油资源而设立的国家石油公司。理解这一事实，马来西亚石油与天然气产业的其余部分——如何监管、融资、征税和分成——便会豁然开朗。

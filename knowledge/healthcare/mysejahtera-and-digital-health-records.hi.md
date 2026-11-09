@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "peka-b40-health-screening" }
 related: []
 keywords: ["MySejahtera", "डिजिटल स्वास्थ्य-रिकॉर्ड", "EMR", "मलेशिया डिजिटल स्वास्थ्य", "KKM", "स्वास्थ्य-क्लीनिक अपॉइंटमेंट"]
+framework: explainer
 ---
 
 महामारी के शांत होने पर बहुत से लोगों ने MySejahtera को अपने फ़ोन से हटा दिया — पर ऐप गायब नहीं हुआ। इसने बस अपना काम बदल लिया।

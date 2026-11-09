@@ -92,6 +92,7 @@ entity: "Employees Provident Fund Act 1991 (Act 452)"
 relations: []
 related: []
 keywords: ["Loi sur le Fonds de prévoyance des employés 1991", "EPF Act 1991", "Act 452", "KWSP", "taux de cotisation EPF", "dividende EPF", "Akaun Persaraan Sejahtera Fleksibel", "retrait EPF à 55 ans", "KWSP Malaysia", "cotisation EPF travailleur étranger", "Kumpulan Wang Simpanan Pekerja"]
+framework: rules
 ---
 
 Chaque fiche de paie du secteur privé en Malaisie comporte une retenue de 11 % qui disparaît dans un fonds auquel on ne peut toucher pendant des décennies, et derrière cette ligne se trouve une seule loi. La **Loi de 1991 sur le Fonds de prévoyance des employés** (Employees Provident Fund Act 1991), citée comme **Loi 452**, est « une loi destinée à régir un régime d'épargne pour la retraite des employés et la gestion de cette épargne ». Elle est entrée en vigueur le **1 juin 1991**, en remplacement de l'Ordonnance de 1951 sur le Fonds de prévoyance des employés (Employees Provident Fund Ordinance 1951) qui avait pour la première fois établi le fonds le 1 octobre 1951, et elle relève du **ministère des Finances** (Ministry of Finance).

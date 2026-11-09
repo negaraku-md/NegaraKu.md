@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "expatriate-services-division" }
 related: ["employment-pass-malaysia"]
 keywords: ["Immigration Act 1959/63", "Act 155", "Malaysia visa", "employment pass", "overstay penalty Malaysia", "Section 15(4)", "Section 6(3)", "deportation", "dependant pass", "work permit Malaysia"]
+framework: rules
 ---
 
 உங்கள் கடவுச்சீட்டில் உள்ள ஒரு செல்லுபடியாகும் விசா, தானாகவே, உங்களை மலேசியாவில் காலடி எடுத்து வைக்க அனுமதிக்காது — மேலும் நீங்கள் அதிக காலம் தங்கினால் உங்களைச் சிக்கலில் ஆழ்த்தும் ஆவணமும் அதுவல்ல. இவ்விரண்டு பணிகளும் ஒரே சட்டத்திற்கே உரியவை: **குடிவரவுச் சட்டம் 1959/63 (Immigration Act 1959/63, Act 155)** — யார் எல்லையைக் கடக்கலாம், உள்ளே நுழைந்தவுடன் அவர்கள் என்ன செய்யலாம், மற்றும் தங்குதலின் நிபந்தனைகளை மீறும்போது என்ன நடக்கும் என்பதைத் தீர்மானிக்கும் சட்டம்.

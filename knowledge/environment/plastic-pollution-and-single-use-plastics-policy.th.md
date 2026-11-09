@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "solid-waste-management-in-malaysia" }
 related: []
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030"]
+framework: explainer
 ---
 
 ถุงพลาสติกบางที่เคาน์เตอร์ชำระเงินโดยทั่วไปถูกใช้เพียงชั่วครู่ แต่สามารถคงอยู่ในสิ่งแวดล้อมได้เป็นเวลานาน เพื่อจัดการกับประเด็นนี้ มาเลเซียไม่ได้เลือกการห้ามครอบคลุมในทันที แต่เลือกแผนที่นำทางแบบเป็นระยะที่เคลื่อนจากค่าธรรมเนียมเล็กน้อยไปสู่การห้ามที่กว้างกว่า

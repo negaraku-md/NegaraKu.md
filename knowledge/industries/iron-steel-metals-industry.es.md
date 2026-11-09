@@ -98,6 +98,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Detrás de casi cada edificio, puente y autopista de Malasia hay una industria más silenciosa que fabrica el metal que lo sostiene todo. El hierro y el acero rara vez acaparan titulares como los semiconductores o el aceite de palma, y sin embargo son fundamentales: la barra corrugada dentro de una columna de hormigón, el alambre de un cable, la chapa de la puerta de un coche. Malasia fabrica gran parte de esto por sí misma y, en unos pocos metales, es genuinamente de primer nivel mundial. Pero la mitad siderúrgica de la historia es también uno de los sectores manufactureros más atribulados del país, definido por un desajuste obstinado entre cuánto puede producir y cuánto necesita realmente el mercado.

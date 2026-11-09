@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "traffic-summons-saman" }
 related: ["pdrm", "traffic-summons-saman"]
 keywords: ["999 Malaysia", "MERS 999", "NG999", "ambulans kecemasan Malaysia", "Jabatan Kecemasan", "triage zon merah kuning hijau", "ambulans percuma", "caj kecemasan hospital kerajaan"]
+framework: explainer
 ---
 
 あなたは999を押す。電話口の声が名前、場所、そして何が起きたのかを尋ねる——そして目標時間内には、救急車のチームがすでに向かっているはずだ。しかし、その通報の裏で何が起きているのかを知らない人は多い——実際に応答しているのは誰なのか、それは無料なのか、そしてなぜ病院に後から到着した他の患者が、時としてあなたより先に治療されるのか。

@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-chairmanship-2025" }
 related: []
 keywords: ["pengerusian ASEAN", "Piagam ASEAN", "Perkara 31", "giliran abjad", "Malaysia 2025", "Filipina 2026", "Sidang Kemuncak ASEAN"]
+framework: explainer
 ---
 
 ஒவ்வொரு 1 January அன்றும், தென்கிழக்கு ஆசிய நாடு ஒன்று இப்பகுதியின் மிகவும் செல்வாக்கு மிக்க இருக்கையைப் பெறுகிறது — வாக்கெடுப்பு இல்லாமல், பிரச்சாரம் இல்லாமல், முற்றிலும் அகர வரிசைப்படி.

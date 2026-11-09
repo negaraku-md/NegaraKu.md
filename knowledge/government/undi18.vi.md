@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "constitutional-amendment", "jpn", "dewan-rakyat", "how-a-bill-becomes-law"]
 keywords: ["Undi18", "Akta A1603", "pindaan perlembagaan umur mengundi 18 tahun", "Pendaftaran Pemilih Secara Automatik", "PPSA", "Perkara 119 Perlembagaan Persekutuan", "SPR daftar pemilih automatik", "umur mengundi Malaysia", "Constitution Amendment Act 2019"]
+framework: explainer
 ---
 
 Sửa đổi làm thay đổi bức tranh cử tri của Malaysia chỉ điền hết ba trang. Constitution (Amendment) Act 2019 — Act A1603 — không viết ra thủ tục mới dài dòng. Nó chỉ thay một vài từ ở ba chỗ, và hai trong số các thay đổi đó đưa hàng triệu công dân vào danh sách cử tri.

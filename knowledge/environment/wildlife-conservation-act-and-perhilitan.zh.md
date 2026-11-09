@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "taman-negara" }
 related: []
 keywords: ["Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "totally protected wildlife", "protected wildlife", "wildlife licence Malaysia", "special permit", "wildlife trafficking Malaysia", "Department of Wildlife and National Parks"]
+framework: rules
 ---
 
 把一张马来亚虎的皮放在你的汽车后备箱里，你面对的绝不是一张罚单和一封措辞严厉的信函——你面对的是数年牢狱，以及以数十万令吉计的罚款。这就是《2010年野生动物保护法令》最锋利的一端；这部法律决定了在马来西亚半岛，哪些动物你可以触碰、饲养、买卖或研究，而哪些动物没有国家的书面许可你连靠近都不行。

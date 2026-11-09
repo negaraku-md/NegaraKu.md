@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "domestic-flights-and-regional-air-travel" }
 related: []
 keywords: ["عبّارة بينانغ", "عبّارة لنكاوي", "عبّارة تيومان", "النقل بين جزر ماليزيا", "Penang ferry", "Langkawi ferry", "Tioman ferry", "island transport Malaysia", "Kuala Kedah", "Kuala Perlis", "الرياح الموسمية الشمالية الشرقية", "عبّارة لابوان"]
+framework: explainer
 ---
 
 لا يوجد في ماليزيا خط عبّارات وطني واحد. فالوصول إلى جزيرة يعني معرفة أي معبر قصير، وأي رصيف، وأي مشغّل يخدمها — وعلى الساحل الشرقي، معرفة ما إذا كان البحر مفتوحًا أصلًا في ذلك الشهر.

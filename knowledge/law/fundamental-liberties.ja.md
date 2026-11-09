@@ -54,6 +54,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "court-hierarchy", "parliament"]
 keywords: ["fundamental liberties Malaysia", "Article 5 Federal Constitution", "Article 8 equality Malaysia", "Article 10 freedom of speech Malaysia", "Article 11 freedom of religion Malaysia", "Article 13 right to property Malaysia", "Part II Federal Constitution"]
+framework: explainer
 ---
 
 連邦憲法第2編は、マレーシア人の最も基本的な権利を保障している――そして、その中のほぼすべての条文が、同じ呼吸の中で、憲法自体が認める制限をも明記している。この保障と許容される制限との組み合わせは、起草上の偶然ではない。それこそが第2編の構築のされ方である。

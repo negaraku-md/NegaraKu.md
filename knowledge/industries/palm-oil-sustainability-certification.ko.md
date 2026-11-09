@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry-malaysia" }
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "RSPO", "EUDR", "sustainable palm oil", "MS 2530:2022", "MPOCC", "forced labour", "deforestation", "palm oil certification"]
+framework: explainer
 ---
 
 이제 말레이시아 팜유 선적 한 건은 한꺼번에 세 개의 서로 다른 규칙집에 답해야 합니다. 즉 자국의 의무적 국가 제도, 이사회의 자발적 구매자 클럽, 그리고 항구에서 그것을 막을 수 있는 유럽의 삼림 파괴 법입니다. 2024년 첫 10개월만으로 팜유와 팜 기반 제품 2,230만 톤을 실어 보내며 RM893.9억 링깃을 번 산업에게, 서류는 더 이상 형식이 아닙니다. 그것은 시장 접근입니다.

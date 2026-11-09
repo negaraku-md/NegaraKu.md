@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "johor-singapore-special-economic-zone" }
 related: ["johor-singapore-special-economic-zone"]
 keywords: ["Malaysia data centre", "cloud infrastructure", "Johor data centre", "DESAC incentive", "data centre power water", "hyperscale Malaysia"]
+framework: profile
 ---
 
 En 2019, Singapour a cessé d'approuver de grands nouveaux centres de données. En quatre ans, les serveurs qu'elle avait refusés avaient bâti une nouvelle industrie à vingt minutes de l'autre côté du Causeway — et Johor est passé d'un paisible État malaisien au marché de centres de données le plus actif d'Asie du Sud-Est.

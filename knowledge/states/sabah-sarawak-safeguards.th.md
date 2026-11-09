@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "article-153-special-position" }
 related: ["federal-constitution", "ma63", "sabah", "sarawak", "federal-state-division", "article-153-special-position"]
 keywords: ["Sabah Sarawak safeguards", "immigration autonomy Sabah Sarawak", "Article 161B", "Article 161E", "Article 95B List IIA", "native courts Sabah Sarawak", "Article 112C special grants", "Immigration Act 1959/63 Part VII", "special position of natives", "Federal Constitution Part XIIA"]
+framework: explainer
 ---
 
 บินจากกัวลาลัมเปอร์ไปยังโกตากีนาบาลูหรือกูจิง แล้วคุณก็ลงจอดในมาเลเซีย — ประเทศเดียวกัน หนังสือเดินทางเดียวกัน สกุลเงินเดียวกัน — แล้วต่อคิวที่เคาน์เตอร์ตรวจคนเข้าเมือง ชาวมาเลเซียจากคาบสมุทรที่ระบุเหตุผลอันดีในการอยู่ที่นั่นไม่ได้อาจได้รับบัตรผ่านที่จำกัดเพียงไม่กี่สัปดาห์ หรือถูกปฏิเสธการเข้า ด่านตรวจนั้นไม่ใช่ความแปลกประหลาดทางราชการ แต่เป็นหนึ่งในชุดของหลักประกันที่เขียนไว้ในรัฐธรรมนูญแห่งสหพันธรัฐเมื่อซาบาห์และซาราวักเข้าร่วมสหพันธรัฐในปี 1963

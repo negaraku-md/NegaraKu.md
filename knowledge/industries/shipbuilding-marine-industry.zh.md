@@ -98,6 +98,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 马来西亚坐落在全球最繁忙的两条海上航道之上，其生计有很大一部分来自海洋——然而它的造船与修船（SBSR）产业却是国民经济中较安静的角落之一。它真实、历史悠久且具战略重要性，但同时也分散、周期性强，且以相对较小的船厂为主。本指南将说明这个产业建造什么、在哪里建造、规模有多大，以及一个海军项目为何在公共辩论中盖过了整个领域。

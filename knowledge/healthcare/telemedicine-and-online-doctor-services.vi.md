@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "public-vs-private-healthcare" }
 related: []
 keywords: ["telemedicine Malaysia", "online doctor", "teleconsultation", "DoctorOnCall", "MMC guideline", "e-prescription", "Telemedicine Act 1997"]
+framework: explainer
 ---
 
 Bạn mở một ứng dụng, gọi video cho một bác sĩ từ chiếc ghế sofa của mình, và một đơn thuốc rơi vào hộp thư của bạn một giờ sau đó. Tại Malaysia điều đó hoàn toàn hợp pháp — nhưng bộ quy tắc đằng sau nó không phải là đạo luật bạn có thể trông đợi.

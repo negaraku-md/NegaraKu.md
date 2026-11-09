@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["federal-constitution", "court-hierarchy", "civil-and-syariah-courts", "companies-act-2016", "employment-act-1955"]
 keywords: ["Contracts Act 1950", "Act 136", "Malaysia contract law", "offer and acceptance Malaysia", "section 10 Contracts Act", "consideration Malaysia law"]
+framework: data-reference
 ---
 
 임대차 계약, 채용 통지서, 할부구매 계약, WhatsApp으로 확정한 중고차 매매 — 이 모두는 같은 70년 된 법령, 곧 1950년 계약법(Contracts Act 1950) 위에 서거나 무너집니다.

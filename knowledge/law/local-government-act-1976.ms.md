@@ -67,6 +67,7 @@ wikidata: "Q25475395"
 relations: []
 related: []
 keywords: ["Local Government Act 1976", "Act 171", "Akta Kerajaan Tempatan 1976", "local authority Malaysia", "PBT", "Pihak Berkuasa Tempatan", "majlis perbandaran", "majlis daerah", "assessment tax", "cukai pintu", "local council elections Malaysia", "appointed councillors", "National Council for Local Government", "third vote Malaysia"]
+framework: explainer
 ---
 
 Jika anda pernah tertanya-tanya mengapa tiada kertas undi Malaysia yang pernah menyenaraikan calon datuk bandar, jawapannya ialah satu statut. **Akta Kerajaan Tempatan 1976 (Act 171)** — tajuk panjangnya "Suatu Akta untuk menyemak dan menyatukan undang-undang berkaitan kerajaan tempatan" — ialah undang-undang yang menubuhkan setiap majlis bandar raya, perbandaran dan daerah di Semenanjung Malaysia, melantik orang yang mengurusnya, dan memberikan mereka kuasa untuk mengenakan cukai dan denda ke atas anda. Ia menerima Perkenan Diraja pada **18 Mac 1976** dan diwartakan pada 25 Mac 1976. Walaupun kebanyakan sumber di internet menyatakan sebaliknya, **Seksyen 1(1) menyatakan ia terpakai hanya di Semenanjung Malaysia**; Sabah dan Sarawak mengekalkan ordinan masing-masing.

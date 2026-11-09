@@ -54,6 +54,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["federal-constitution", "majlis-raja-raja", "ma63", "article-152-language", "fundamental-liberties"]
 keywords: ["Article 159 Federal Constitution", "amending the Constitution Malaysia", "two-thirds majority Parliament", "Conference of Rulers consent", "Article 161E Sabah Sarawak", "Perkara 159", "constitutional amendment Malaysia"]
+framework: explainer
 ---
 
 Article 159, தன் சொந்த விதிகளுக்குத் தன்னையே உட்படுத்திக்கொண்டு தொடங்குகிறது. அரசர்கள் மாநாட்டின் (Conference of Rulers) ஒப்புதல் இல்லாமல் திருத்த முடியாத விதிகளை Clause (5) பட்டியலிடுகிறது — அந்தப் பட்டியலின் கடைசி உருப்படி "this Clause" (இந்த உட்பிரிவே) தான். திருத்த நடைமுறை, தன் சொந்த திருத்த நடைமுறையையே பாதுகாக்கிறது. கூட்டரசு அரசியலமைப்பு (Federal Constitution) ஒரே எளிய விதியால் மாற்றப்படுவதற்காக ஒருபோதும் உருவாக்கப்படவில்லை என்பதை அந்த ஒரு விவரமே உங்களுக்குச் சொல்கிறது.

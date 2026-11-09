@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "corporate-income-tax" }
 related: ["sales-and-service-tax"]
 keywords: ["duti kasino", "cukai perjudian", "duti mesin permainan", "duti pertaruhan pool", "number forecast operator", "gaming tax Malaysia"]
+framework: rules
 ---
 
 Setiap ringgit yang dipertaruhkan di meja kasino atau kaunter 4D membawa cukai tersembunyi — dan di Malaysia, kadarnya antara yang paling tinggi dikenakan kerajaan ke atas mana-mana industri.

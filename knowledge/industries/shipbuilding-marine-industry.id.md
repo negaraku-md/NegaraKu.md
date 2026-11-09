@@ -98,6 +98,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Malaysia berada di dua jalur laut tersibuk di dunia dan memperoleh sebagian besar nafkahnya dari laut — namun industri pembuatan dan reparasi kapal (SBSR)-nya adalah salah satu sudut yang lebih senyap dari perekonomian nasional. Ia nyata, sudah lama mapan, dan penting secara strategis, tetapi juga terfragmentasi, siklis, dan didominasi galangan yang relatif kecil. Panduan ini menjelaskan apa yang dibangun industri ini, di mana, seberapa besar, dan mengapa satu program angkatan laut telah membayangi seluruh sektor dalam perdebatan publik.

@@ -56,6 +56,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "court-hierarchy", "parliament"]
 keywords: ["fundamental liberties Malaysia", "Article 5 Federal Constitution", "Article 8 equality Malaysia", "Article 10 freedom of speech Malaysia", "Article 11 freedom of religion Malaysia", "Article 13 right to property Malaysia", "Part II Federal Constitution"]
+framework: explainer
 ---
 
 கூட்டரசு அரசியலமைப்பின் Part II ஒரு மலேசியரின் மிக அடிப்படையான உரிமைகளை உறுதி

@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "capital-gains-tax" }
 related: ["service-tax-on-digital-services-stods", "capital-or-revenue", "capital-gains-tax"]
 keywords: ["cryptocurrency tax Malaysia", "crypto tax LHDN", "digital currency tax", "badges of trade crypto", "bitcoin tax Malaysia"]
+framework: explainer
 ---
 
 Dos personas venden el mismo Bitcoin el mismo día y se embolsan la misma ganancia. Una no debe nada; la otra debe impuesto sobre la renta. En Malasia, lo que las separa no es la moneda, sino si la autoridad tributaria ve un comercio.

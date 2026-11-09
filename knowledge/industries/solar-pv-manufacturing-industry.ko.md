@@ -101,6 +101,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 미국의 주택 소유주나 전력회사가 태양광 어레이를 설치할 때 그 패널이 말레이시아에서 만들어졌을 가능성이 높다는 사실을 아는 사람은 드물다. 10년 넘게 이 나라는 조용히 세계 최대 규모의 태양광 광전지(PV) 셀·모듈 생산국 중 하나였다 - 자국 전력망에 쓰기 위해서가 아니라 수출하기 위해서. 이것은 발전차액지원이 아니라 공장의 산업이다.

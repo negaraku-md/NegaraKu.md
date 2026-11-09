@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "article-153-special-position" }
 related: ["federal-constitution", "ma63", "sabah", "sarawak", "federal-state-division", "article-153-special-position"]
 keywords: ["Sabah Sarawak safeguards", "immigration autonomy Sabah Sarawak", "Article 161B", "Article 161E", "Article 95B List IIA", "native courts Sabah Sarawak", "Article 112C special grants", "Immigration Act 1959/63 Part VII", "special position of natives", "Federal Constitution Part XIIA"]
+framework: explainer
 ---
 
 从吉隆坡搭机飞往亚庇或古晋，落地后仍是马来西亚——同一个国家、同一本护照、同一种货币——但接着你要在入境柜台排队。一位来自马来半岛、说不出充分理由在此逗留的马来西亚人，可能只获发一张有效期仅数周的准证，甚至被拒绝入境、遣返。这道关卡并非官僚作业上的怪癖，而是沙巴与砂拉越在1963年加入联邦时，写入联邦宪法的一套保障之一。

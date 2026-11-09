@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-equity-requirements" }
 related: ["federal-constitution", "fundamental-liberties", "ma63", "majlis-raja-raja", "bumiputera-equity-requirements"]
 keywords: ["المادة 153", "المكانة الخاصة للمالايو", "السكان الأصليون في صباح وساراواك", "الدستور الاتحادي ماليزيا", "المصالح المشروعة للمجتمعات الأخرى", "Article 153", "special position of the Malays", "Federal Constitution Malaysia", "Bumiputera quotas"]
+framework: explainer
 ---
 
 تتوقف معظم ملخصات المادة 153 عند جملة واحدة: إنها تحمي «المكانة الخاصة للمالايو». اقرأ الفقرة التي وردت فيها كاملةً، وستجد أن الجملة تفعل شيئاً آخر — فهي تسمّي واجبين في نفَسٍ واحد، لجهةٍ واحدة، في الفقرة نفسها.

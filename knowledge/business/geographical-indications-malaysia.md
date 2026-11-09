@@ -75,6 +75,7 @@ relations:
   - { rel: "compares-with", to: "trademark-registration-malaysia" }
 related: ["trademark-registration-malaysia"]
 keywords: ["geographical indication", "GI Act 2022", "Act 836", "MyIPO", "Sarawak pepper", "Musang King", "intellectual property Malaysia", "place of origin"]
+framework: explainer
 ---
 
 Say "Sarawak Pepper" or "Musang King" and a buyer already pictures a specific place, soil and flavour. A geographical indication is the legal right that stops anyone else from selling ordinary produce under that name — and in Malaysia it is the one intellectual-property right that sits quietly beside patents, trademarks, industrial designs and copyright.

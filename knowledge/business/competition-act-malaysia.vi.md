@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: []
 keywords: ["Competition Act 2010", "MyCC", "cartel", "price fixing", "bid rigging", "abuse of dominant position", "Competition Amendment Bill 2026"]
+framework: rules
 ---
 
 Thỏa thuận với một đối thủ để giữ giá cao, hoặc lặng lẽ luân phiên nhau thắng các gói thầu của chính phủ, không phải là kinh doanh khôn ngoan ở Malaysia — nó là một sự vi phạm luật có thể khiến một công ty tốn một phần mười tất cả những gì nó kiếm được trên toàn thế giới.

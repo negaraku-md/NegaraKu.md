@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "expatriate-services-division" }
 related: ["employment-pass-malaysia"]
 keywords: ["Immigration Act 1959/63", "Act 155", "Malaysia visa", "employment pass", "overstay penalty Malaysia", "Section 15(4)", "Section 6(3)", "deportation", "dependant pass", "work permit Malaysia"]
+framework: rules
 ---
 
 วีซ่าที่มีผลในหนังสือเดินทางของคุณโดยตัวมันเองไม่ได้ให้คุณเหยียบแผ่นดินมาเลเซีย — และไม่ใช่เอกสารที่ทำให้คุณเดือดร้อนหากคุณอยู่นานเกินไป งานทั้งสองอย่างเป็นของกฎหมายฉบับเดียว: **พระราชบัญญัติคนเข้าเมือง 1959/63 (Immigration Act 1959/63, Act 155)** กฎหมายที่ตัดสินว่าใครสามารถข้ามพรมแดน สิ่งที่พวกเขาสามารถทำได้เมื่ออยู่ข้างใน และสิ่งที่เกิดขึ้นเมื่อพวกเขาละเมิดเงื่อนไขของการอยู่

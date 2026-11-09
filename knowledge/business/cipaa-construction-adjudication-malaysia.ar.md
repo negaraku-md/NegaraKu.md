@@ -82,6 +82,7 @@ relations:
   - { rel: "compares-with", to: "arbitration-vs-litigation-malaysia" }
 related: ["arbitration-vs-litigation-malaysia", "contracts-act-malaysia"]
 keywords: ["CIPAA", "الفصل في منازعات البناء", "construction adjudication", "AIAC", "مطالبة الدفع", "payment claim", "Act A1738", "منازعات البناء في ماليزيا"]
+framework: explainer
 ---
 
 المقاول من الباطن الذي لم يُدفَع له منذ ستة أشهر لا يضطر إلى انتظار سنوات لموعد في المحكمة. فبموجب CIPAA، يمكنه دفع المنازعة إلى قرار مُلزِم في غضون أسابيع — والساعة لا ترحم أياً من الطرفين.

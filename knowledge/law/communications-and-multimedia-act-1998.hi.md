@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "sedition-act-1948" }
 related: ["federal-constitution"]
 keywords: ["akta komunikasi dan multimedia 1998", "धारा 233", "Section 233", "SKMM", "MCMC", "नेटवर्क सुविधाओं का अनुचित उपयोग", "ऑनलाइन अभिव्यक्ति", "अभिव्यक्ति की स्वतंत्रता", "akta 588"]
+framework: explainer
 ---
 
 फ़ेसबुक पर एक टिप्पणी, एक ट्वीट, या पुनः साझा किया गया एक व्हाट्सऐप संदेश मलेशिया

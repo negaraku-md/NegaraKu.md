@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "constitutional-amendment" }
 related: ["court-hierarchy", "constitutional-amendment"]
 keywords: ["pelantikan hakim", "Suruhanjaya Pelantikan Kehakiman", "Perkara 122B", "Perkara 125", "kebebasan kehakiman", "tribunal hakim", "Ketua Hakim Negara"]
+framework: explainer
 ---
 
 ทุกครั้งที่ประธานศาลฎีกา (Ketua Hakim Negara) คนใหม่กล่าวคำสาบานตน คำถามเก่าจะกลับมาอีกครั้ง: ใครกันแน่ที่เลือกบุคคลนั้น และใครสามารถถอดถอนเขาได้? ในมาเลเซีย คำตอบเกี่ยวข้องกับสองชั้นที่แยกกัน เอกสารกฎหมายที่แตกต่างกันสองฉบับ และการถกเถียงที่ยังไม่จบเกี่ยวกับว่าอำนาจนั้นควรอยู่ที่ใด

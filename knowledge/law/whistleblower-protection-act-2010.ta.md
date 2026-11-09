@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["macc-sprm", "employment-act-1955"]
 keywords: ["whistleblower protection act 2010", "act 711", "improper conduct", "whistleblower malaysia", "detrimental action", "section 11 revocation", "macc disclosure"]
+framework: explainer
 ---
 
 வேலையில் ஒரு லஞ்சத்தைப் புகாரளியுங்கள் — மலேசியச் சட்டம் உங்கள் பெயரை இரகசியமாக வைத்திருக்கலாம், நீங்கள் வழக்குத் தொடரப்படுவதிலிருந்து பாதுகாக்கலாம், அதற்காக உங்கள் முதலாளி உங்களை வேலையிலிருந்து நீக்குவதைச் சட்டவிரோதமாக்கலாம். ஆனால் ஒரு தவறான அடி எடுத்து வையுங்கள் — முதலில் பத்திரிகைக்குச் செல்லுங்கள், அல்லது அந்தச் சூழ்ச்சியில் உங்களுக்கும் பங்கு இருந்ததாக வெளிப்பட்டால் — அந்தப் பாதுகாப்புகள் ஒவ்வொன்றும் பறிக்கப்படலாம். இதுவே Whistleblower Protection Act 2010-இன் திட்டமிட்ட வடிவமைப்பாகும்.

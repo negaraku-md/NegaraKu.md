@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "mahkamah-perusahaan-malaysia" }
 related: ["employment-act-1955"]
 keywords: ["akta perhubungan perusahaan 1967", "pembuangan kerja tidak adil", "seksyen 20", "mahkamah perusahaan", "kesatuan sekerja", "rundingan kolektif", "reinstatement", "unfair dismissal malaysia"]
+framework: rules
 ---
 
 Anda dibuang kerja pagi tadi dan diberitahu "prestasi tidak memuaskan" — tetapi tiada surat amaran, tiada siasatan dalaman, dan tiada peluang membela diri. Di Malaysia, situasi ini punya nama undang-undang dan satu forum khusus: representasi di bawah seksyen 20 Akta Perhubungan Perusahaan 1967, dibicarakan di Mahkamah Perusahaan. Inilah lapisan perhubungan buruh yang tidak diuruskan oleh Akta Kerja 1955.

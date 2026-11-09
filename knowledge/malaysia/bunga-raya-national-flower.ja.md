@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "rukun-negara" }
 related: ["rukun-negara"]
 keywords: ["bunga raya", "bunga kebangsaan", "hibiscus", "Hibiscus rosa-sinensis", "simbol kebangsaan Malaysia", "Rukun Negara", "Tunku Abdul Rahman"]
+framework: history-culture
 ---
 
 独立したばかりの国を代表すべく、かつて七種類の花が競い合った——そして勝ったのは、もっとも香り高い花でも、もっとも希少な花でもなく、あらゆる町や村でもっともよく知られていた花だった。それがハイビスカス（Bunga Raya）である。

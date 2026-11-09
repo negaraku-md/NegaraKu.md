@@ -88,6 +88,7 @@ relations:
   - { rel: "administered-by", to: "attorney-general" }
 related: ["attorney-general"]
 keywords: ["akta rahsia rasmi", "OSA 1972", "kebebasan maklumat", "ketelusan kerajaan", "dokumen terperingkat", "seksyen 16A", "rahsia rasmi"]
+framework: explainer
 ---
 
 한 건의 회의 메모, 한 건의 감사 보고서, 한 건의 내각 문서 — 말레이시아에서 그 어느 것이든 공적 기밀로 표시되어 있다면 그것을 공유하는 것이 범죄가 될 수 있습니다. 그 경계를 정하는 법이 [공적기밀법 1972(Official Secrets Act 1972)](/law/official-secrets-act-1972)이며, 연방 정보 자유법의 부재가 그것을 말레이시아 거버넌스에서 가장 많이 논의되는 주제 가운데 하나로 만듭니다.

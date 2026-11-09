@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: ["sst"]
 keywords: ["हलाल प्रमाणन मलेशिया", "JAKIM हलाल", "MYeHALAL", "हलाल लोगो मलेशिया", "हलाल प्रमाणन शुल्क", "Trade Descriptions Order 2011"]
+framework: how-to
 ---
 
 अपनी पैकेजिंग पर JAKIM के प्रमाणपत्र के बिना एक हलाल लोगो लगाइए और आप केवल एक शॉर्टकट नहीं ले रहे

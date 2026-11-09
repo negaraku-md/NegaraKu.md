@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-in-malaysia" }
 related: ["halal-certification-in-malaysia"]
 keywords: ["halal food Malaysia", "JAKIM halal logo", "vegetarian Malaysia", "vegan dining Malaysia", "dietary restrictions Malaysia", "Buddhist vegetarian", "beef-free"]
+framework: explainer
 ---
 
 Duduk untuk menjamu selera di Malaysia bermakna berkongsi meja dengan empat budaya makanan serentak — Melayu, Cina, India, dan tradisi yang tumbuh di antaranya. Kepelbagaian itu adalah anugerah jika anda mempunyai keperluan pemakanan, dan sedikit cabaran jika anda tidak mengenali tandanya. Berikut ialah cara membacanya.

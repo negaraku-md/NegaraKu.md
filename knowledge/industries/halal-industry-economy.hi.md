@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-economic-policy" }
 related: ["islamic-finance", "external-trade", "bumiputera-economic-policy"]
 keywords: ["हलाल उद्योग", "halal industry", "हलाल अर्थव्यवस्था", "HALMAS halal park", "Halal Development Corporation", "HDC", "Halal Industry Master Plan 2030", "हलाल निर्यात", "वैश्विक हलाल केंद्र"]
+framework: profile
 ---
 
 इंस्टैंट नूडल्स के पैकेट पर एक हलाल लोगो वह जगह है जहाँ अधिकतर लोग सोचते हैं कि कहानी समाप्त हो जाती है। मलेशिया में, यह उस जगह के अधिक क़रीब है जहाँ कहानी शुरू होती है। उस चिह्न के पीछे «हलाल» को एक धार्मिक आश्वासन से एक निर्यात उद्योग में बदलने का एक सुविचारित, दशकों-लंबा प्रयास है — जिसके साथ औद्योगिक पार्क, कर छूटें, वित्तपोषण और एक राष्ट्रीय मास्टर योजना जुड़ी है।

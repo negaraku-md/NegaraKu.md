@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "how-a-bill-becomes-law" }
 related: ["consumer-protection-act", "companies-act-2016", "how-a-bill-becomes-law"]
 keywords: ["Competition Act 2010", "MyCC", "Malaysia Competition Commission", "प्रतिस्पर्धा-विरोधी समझौते", "प्रभुत्व का दुरुपयोग", "कार्टेल", "मूल्य-निर्धारण", "बोली-धांधली", "Section 4", "Section 10"]
+framework: rules
 ---
 
 जब मुर्गी-दाना की पाँच मिलों ने चुपचाप अपने दाम एक साथ बढ़ाने पर सहमति जताई, तो

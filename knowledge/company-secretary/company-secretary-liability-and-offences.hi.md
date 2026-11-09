@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
 related: ["companies-act-2016"]
 keywords: ["कंपनी सचिव देयता", "liabiliti setiausaha syarikat", "कंपनी सचिव अपराध", "झूठा कथन", "धारा 591", "Companies Act 2016", "Akta Syarikat 2016", "कंपनी अधिकारी", "Borang 49"]
+framework: rules
 ---
 
 SSM के किसी फॉर्म पर एक अकेला हस्ताक्षर किसी कंपनी सचिव को कठघरे में खड़ा कर सकता है — केवल कंपनी या उसके निदेशकों को ही नहीं। एक त्रुटिपूर्ण दस्तावेज़, भले ही निदेशकों के निर्देश पर हस्ताक्षरित हो, उस व्यक्ति की व्यक्तिगत ज़िम्मेदारी बना रहता है जिसने उसे दाखिल किया।

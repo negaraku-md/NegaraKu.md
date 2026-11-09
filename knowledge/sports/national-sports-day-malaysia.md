@@ -68,6 +68,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-belia-dan-sukan" }
 related: []
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
+framework: explainer
 ---
 
 Setiap Sabtu minggu kedua bulan Oktober, padang, taman dan dewan sukan di seluruh Malaysia sepatutnya penuh sesak — itulah rekaan Hari Sukan Negara.

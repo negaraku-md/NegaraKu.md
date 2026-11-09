@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "medical-act-1971" }
 related: []
 keywords: ["pengguguran", "undang-undang pengguguran Malaysia", "Seksyen 312 Kanun Keseksaan", "penamatan kehamilan", "Akta Perubatan 1971", "garis panduan KKM"]
+framework: explainer
 ---
 
 Ramai menganggap pengguguran sama sekali dilarang di Malaysia — hakikatnya, undang-undang meletakkannya dalam satu ruang yang lebih rumit: satu kesalahan jenayah dengan satu pengecualian perubatan yang penting. Memahami di mana garis itu ditarik memerlukan kita membaca teks sebenar Kanun Keseksaan, bukan tanggapan umum.

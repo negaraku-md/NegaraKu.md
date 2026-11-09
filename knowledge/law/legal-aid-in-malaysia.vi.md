@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "malaysian-court-system" }
 related: []
 keywords: ["bantuan guaman", "legal aid", "JBG", "YBGK", "Majlis Peguam", "ujian kemampuan", "peguam percuma"]
+framework: how-to
 ---
 
 Đối mặt với một vụ kiện, ly hôn hoặc yêu cầu nhưng không đủ khả năng thuê luật sư? Bạn không cần phải ra tòa một mình. Ba cơ quan tại Malaysia cung cấp dịch vụ luật sư miễn phí hoặc được trợ giá cho những người thu nhập thấp.

@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "mmea" }
 related: []
 keywords: ["industri perikanan malaysia", "pengeluaran ikan malaysia", "akuakultur malaysia", "lkim nelayan", "jabatan perikanan malaysia", "akta perikanan 1985", "pencerobohan bot nelayan asing", "iuu fishing malaysia"]
+framework: profile
 ---
 
 Before dawn at the jetties along the Strait of Malacca and the South China

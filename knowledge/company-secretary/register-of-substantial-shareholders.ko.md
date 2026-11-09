@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["register-of-members"]
 keywords: ["substantial shareholder", "register of substantial shareholders", "5% voting shares", "section 144 Companies Act 2016", "section 137 notification", "SSM", "public company", "shareholding disclosure"]
+framework: rules
 ---
 
 공개회사의 의결권 주식 5%를 넘어서는 순간 당신은 더 이상 익명의 투자자가 아니게 됩니다. 이제 법은 당신의 이름을 특별한 등록부에 올리기를 원하며, 그 기한은 주 단위가 아니라 일 단위로 흘러갑니다.

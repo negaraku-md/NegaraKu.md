@@ -97,6 +97,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Cada día, millones de transacciones en Malasia se organizan no por una tienda, una oficina o una parada de taxis, sino por una aplicación: un coche convocado a un bordillo, una bolsa de comida llevada por la ciudad en una motocicleta, un logotipo diseñado para un cliente que el autónomo nunca conocerá. Esta es la economía gig y de plataformas —trabajo mediado por plataformas digitales— y en poco más de una década ha pasado de ser una novedad a uno de los rasgos más visibles de la vida laboral malasia.

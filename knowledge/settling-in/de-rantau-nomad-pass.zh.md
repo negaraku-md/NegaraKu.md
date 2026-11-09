@@ -70,6 +70,7 @@ relations:
   - { rel: "compares-with", to: "employment-pass" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "professional-visit-pass"]
 keywords: ["DE Rantau", "digital nomad visa Malaysia", "nomad pass", "MDEC", "Professional Visit Pass", "remote work Malaysia"]
+framework: explainer
 ---
 
 如果你为马来西亚以外的雇主或客户远程工作，你可以凭一项专为此而设的准证在马来西亚合法居住和工作，那就是 **DE Rantau 游民准证**。

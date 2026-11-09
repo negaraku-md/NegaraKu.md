@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "epf-akaun-persaraan" }
 related: []
 keywords: ["EPF i-Invest", "Plan d'investissement des affiliés", "Members Investment Scheme", "KWSP MIS", "investir épargne EPF", "Akaun Persaraan", "Basic Savings", "unit trust EPF"]
+framework: explainer
 ---
 
 Votre épargne EPF n'a pas à rester au même endroit à ne gagner que le dividende annuel. Si vous avez accumulé plus que le socle de retraite que l'EPF exige, vous êtes autorisé à orienter une portion mesurée vers des fonds communs de placement (unit trust) — et depuis 2019 vous pouvez le faire vous-même, en ligne, sans agent.

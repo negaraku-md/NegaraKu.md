@@ -86,6 +86,7 @@ wikidata: "Q6664408"
 relations: []
 related: []
 keywords: ["local government Malaysia", "PBT", "pihak berkuasa tempatan", "majlis perbandaran", "majlis daerah", "dewan bandaraya", "Local Government Act 1976", "Act 171", "local council Malaysia", "cukai taksiran", "KPKT", "local government elections Malaysia", "Datuk Bandar", "Yang Dipertua", "municipal council Malaysia", "district council Malaysia"]
+framework: explainer
 ---
 
 替你收垃圾、批准隔壁店屋、向你征收门牌税的那个议会，是离你家门口最近的一层政府——却也是唯一一层你从来无权投票选出的政府。马来西亚的第三级政府由**地方当局**（*Pihak Berkuasa Tempatan*，简称**PBT**）提供服务，共分三种规模：市政厅、市议会和县议会。有两个事实几乎解释了它们所有的行为方式。第一，依据《宪法》，地方政府属于**州**事项，因此你所在的议会向州政府负责，而非向布城负责。第二，地方选举自1965年以来一直被冻结，因此每一位议员都由州政府委任——而非由居民选举产生。

@@ -91,6 +91,7 @@ faq:
     a: 'Es la mayor fuente individual de ingresos, pero su proporción es mucho menor de lo que sugieren sus llegadas. Singapur representó el 49.7% de las llegadas de visitantes extranjeros en 2024, pero solo el 26.2% de los ingresos; China fue el 9.8% de las llegadas, pero el 19.5% de los ingresos. El gasto medio por llegada oscila entre unos RM1,500 para Singapur y unos RM5,600 para China, frente a una media nacional de unos RM2,800: una gran diferencia impulsada por la combinación de excursiones de un día.'
   - q: ¿Es el turismo el 15.1% del PIB de Malasia o el 6.2%?
     a: 'Ambas cifras proceden de la Cuenta Satélite de Turismo del DOSM, pero miden cosas distintas y no deben usarse de forma intercambiable. El valor añadido bruto de las industrias turísticas (GVATI) fue del 15.1% del PIB en 2024: toda la producción de las industrias que atienden a los turistas, incluida la parte consumida por los residentes locales. El PIB directo del turismo (TDGDP) fue del 6.2%: solo la demanda turística. Las industrias turísticas representan alrededor de una séptima parte de la economía; la demanda turística, de forma directa, alrededor de una decimosexta parte.'
+framework: explainer
 ---
 
 En 2024 Malasia contó 37,961,485 llegadas de visitantes extranjeros: más

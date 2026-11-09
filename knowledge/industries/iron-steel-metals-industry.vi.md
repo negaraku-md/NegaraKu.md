@@ -98,6 +98,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Đằng sau gần như mọi tòa nhà, cây cầu và đường cao tốc ở Malaysia là một ngành thầm lặng hơn làm ra kim loại giữ cho tất cả đứng vững. Sắt và thép hiếm khi lên trang nhất theo cách của bán dẫn hay dầu cọ, nhưng chúng là nền tảng: thanh cốt bên trong một cột bê tông, sợi dây trong một cáp điện, tấm thép trong một cánh cửa xe hơi. Malaysia tự làm ra phần lớn trong số này — và, ở một vài kim loại, thực sự đẳng cấp thế giới. Nhưng nửa thép của câu chuyện cũng là một trong những khu vực chế tạo rắc rối nhất của đất nước, được định hình bởi một sự lệch pha dai dẳng giữa lượng nó có thể sản xuất và lượng thị trường thực sự cần.

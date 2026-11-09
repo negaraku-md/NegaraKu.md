@@ -88,6 +88,7 @@ relations:
   - { rel: "administered-by", to: "attorney-general" }
 related: ["attorney-general"]
 keywords: ["akta rahsia rasmi", "OSA 1972", "kebebasan maklumat", "ketelusan kerajaan", "dokumen terperingkat", "seksyen 16A", "rahsia rasmi"]
+framework: explainer
 ---
 
 ஒரு கூட்டக் குறிப்பு, ஓர் தணிக்கை அறிக்கை, ஓர் அமைச்சரவைக் கடதாசி (Cabinet paper) — மலேசியாவில், இவற்றில் எதுவும் அரச ரகசியம் என முத்திரையிடப்பட்டால் அதைப் பகிர்வது ஒரு குற்றமாக மாறலாம். அந்த எல்லைக்கோட்டை வரையறுக்கும் சட்டம் [Akta Rahsia Rasmi 1972](/ta/law/official-secrets-act-1972), மேலும் ஒரு கூட்டாட்சி தகவல் சுதந்திரச் சட்டம் இல்லாதது இதை மலேசிய ஆட்சிமுறையில் மிக அதிகம் விவாதிக்கப்படும் தலைப்புகளில் ஒன்றாக ஆக்குகிறது.

@@ -59,6 +59,7 @@ relations:
   - { rel: "governs", to: "traditional-and-complementary-medicine" }
 related: []
 keywords: ["perubatan tradisional", "PT&K", "Akta 775", "TCM", "kiropraktik", "homeopati", "pendaftaran pengamal", "Majlis PT&K"]
+framework: rules
 ---
 
 Sejak 1 Maret 2025, tukang pijat tradisional, praktisi pengobatan Tionghoa, ahli homeopati, dan kiropraktor di Malaysia tidak boleh lagi membuka pintu klinik tanpa selembar dokumen — sertifikat pendaftaran. Era "berpraktik atas nama pengalaman" sudah berakhir.

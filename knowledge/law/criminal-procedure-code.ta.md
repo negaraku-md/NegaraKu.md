@@ -71,6 +71,7 @@ relations:
   - { rel: "explained-in", to: "rights-when-arrested-malaysia" }
 related: ["penal-code"]
 keywords: ["kanun tatacara jenayah", "akta 593", "criminal procedure code", "reman", "seksyen 117", "ikat jamin", "seksyen 28A", "tangkapan", "perbicaraan jenayah", "prima facie"]
+framework: explainer
 ---
 
 மலேசியாவில் ஒருவர் கைது செய்யப்படும்போது, அந்தத் தருணத்திற்குப் பிறகு என்ன நடக்கிறது — அவர் விடுவிக்கப்படுகிறாரா, காவலில் வைக்கப்படுகிறாரா, குற்றம் சாட்டப்படுகிறாரா அல்லது விசாரணைக்கு உட்படுத்தப்படுகிறாரா — என்பது தன்னிச்சையாக முடிவு செய்யப்படுவதில்லை. அது குற்றவியல் நடைமுறைச் சட்டம் (Criminal Procedure Code, Akta 593), சுருக்கமாக CPC, மூலம் படிப்படியாக நிர்ணயிக்கப்படுகிறது.

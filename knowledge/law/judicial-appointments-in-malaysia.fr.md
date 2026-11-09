@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "constitutional-amendment" }
 related: ["court-hierarchy", "constitutional-amendment"]
 keywords: ["nomination des juges", "pelantikan hakim", "Suruhanjaya Pelantikan Kehakiman", "Perkara 122B", "Perkara 125", "indépendance de la justice", "tribunal de juges", "Ketua Hakim Negara"]
+framework: explainer
 ---
 
 Chaque fois qu'un nouveau Chief Justice prête serment, une vieille question ressurgit : qui choisit réellement cette personne, et qui peut la révoquer ? En Malaisie, la réponse implique deux étapes distinctes, deux documents juridiques différents et un débat non résolu sur l'endroit où ce pouvoir devrait résider.

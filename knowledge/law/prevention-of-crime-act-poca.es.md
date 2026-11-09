@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "prevention-of-terrorism-act-pota" }
 related: ["sosma"]
 keywords: ["POCA", "Akta Pencegahan Jenayah 1959", "Akta 297", "tahanan pencegahan", "Lembaga Pencegahan Jenayah", "jenayah terancang", "tahanan tanpa perbicaraan"]
+framework: explainer
 ---
 
 A una persona se le puede nombrar, investigar y, en última instancia, detener durante dos años sin haber sido nunca acusada ante un tribunal — y esa decisión la toma una junta, no un juez. Ese es el mecanismo en el corazón de la Ley de Prevención del Crimen de 1959 (POCA).

@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "corporate-income-tax" }
 related: ["sales-and-service-tax"]
 keywords: ["duti kasino", "cukai perjudian", "duti mesin permainan", "duti pertaruhan pool", "number forecast operator", "gaming tax Malaysia"]
+framework: rules
 ---
 
 カジノのテーブルや4Dのカウンターで賭けられる1リンギットごとに、目に見えない税が付いて回る——そしてマレーシアでは、その税率は政府があらゆる業種に課す中でも最も高い部類に入る。

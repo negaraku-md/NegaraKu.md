@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["register-of-members"]
 keywords: ["substantial shareholder", "register of substantial shareholders", "5% voting shares", "section 144 Companies Act 2016", "section 137 notification", "SSM", "public company", "shareholding disclosure"]
+framework: rules
 ---
 
 Cross 5% of a public company's voting shares and you stop being an anonymous investor: the law now wants your name on a special register — and the clock starts ticking in days, not weeks.

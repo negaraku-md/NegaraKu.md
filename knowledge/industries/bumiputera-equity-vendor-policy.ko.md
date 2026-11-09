@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "petronas" }
 related: ["new-economic-policy", "petronas"]
 keywords: ["ekuiti bumiputera", "dasar ekonomi baru", "pembangunan vendor", "PuTERA35", "PETRONAS VDP", "industri strategik", "SWEC"]
+framework: explainer
 ---
 
 말레이시아의 어느 석유·가스 플랜트에 서비스를 공급하고자 하는 기업가는, 검토되는 것이 기술과 가격만이 아니라는 사실을 금세 알게 됩니다 — 회사의 소유 구조도 함께 평가됩니다. 국가의 몇몇 전략 부문에서는 누가 회사를 소유하는지가 그 회사가 면허나 계약을 신청할 자격이 있는지를 결정할 수 있습니다. 이 현상은 서로 맞물린 두 가지 정책 도구, 즉 부미푸트라 지분 요건과 벤더 육성 프로그램에서 비롯됩니다.

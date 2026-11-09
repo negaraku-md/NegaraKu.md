@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "majlis-raja-raja" }
 related: ["dewan-rakyat", "federal-state-division", "spr-election-commission", "majlis-raja-raja", "federal-constitution"]
 keywords: ["Dewan Undangan Negeri", "DUN", "badan perundangan negeri", "Jadual Kelapan", "Perkara 71", "peruntukan penting", "Yang di-Pertua Negeri", "Menteri Besar", "enakmen negeri", "State Legislative Assembly Malaysia"]
+framework: explainer
 ---
 
 ที่ดินเป็นเรื่องของรัฐ กฎหมายครอบครัวอิสลามเป็นเรื่องของรัฐ การปกครองส่วนท้องถิ่นเป็นเรื่องของรัฐ แต่ใครเป็นผู้ผ่านกฎหมายสำหรับเรื่องเหล่านี้ในรัฐหนึ่งจริง และตามกฎใด คำตอบมิใช่เพียงเรื่องของการอภิปรายหรือแนวปฏิบัติ — มันถูกเขียนไว้ มาตราต่อมาตรา ในบัญชีหนึ่งที่ท้ายรัฐธรรมนูญสหพันธ์

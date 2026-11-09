@@ -81,6 +81,7 @@ relations:
   - { rel: "supersedes", to: "factories-and-machinery-act-1967" }
 related: ["labour-law-map-malaysia", ]
 keywords: ["قانون السلامة والصحة المهنية", "واجبات صاحب العمل", "تقييم المخاطر", "السلامة المهنية", "OSHA 1994", "Akta 514", "tanggungjawab majikan", "DOSH", "penilaian risiko", "JKKP 6", "keselamatan pekerjaan"]
+framework: rules
 ---
 
 يسقط عامل من سقالة، فيكون أول سؤال يطرحه المحقق ليس «من كان المقصّر؟» — بل «هل فعل صاحب العمل كل ما هو ممكن عمليًّا لمنع ذلك؟» هذا هو جوهر Occupational Safety and Health Act 1994 (Act 514)، أو OSHA 1994.

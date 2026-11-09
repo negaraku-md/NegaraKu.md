@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bursa-malaysia"]
 keywords: ["CelcomDigi", "Maxis", "U Mobile", "Digital Nasional Berhad", "DNB", "5G Malaisie", "double réseau 5G", "MCMC", "fusion d'opérateurs", "réseau de gros unique"]
+framework: profile
 ---
 
 La Malaisie a passé trois ans à faire transiter l'intégralité de son déploiement de la 5G par un unique tuyau public — puis, au cours d'une séquence politique intense, elle a démantelé ce modèle, confié un deuxième réseau à son plus petit grand opérateur et abandonné totalement la participation de l'État. Le résultat est un marché mobile qui n'a plus rien à voir avec celui de 2021.

@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "capital-gains-tax" }
 related: ["service-tax-on-digital-services-stods", "capital-or-revenue", "capital-gains-tax"]
 keywords: ["cryptocurrency tax Malaysia", "crypto tax LHDN", "digital currency tax", "badges of trade crypto", "bitcoin tax Malaysia"]
+framework: explainer
 ---
 
 两个人在同一天卖出同一笔比特币，赚到相同的利润。一个人分文不欠；另一个人却要缴所得税。在马来西亚，区分他们的不是那枚币——而是税务机关是否认定这是一项交易行为。

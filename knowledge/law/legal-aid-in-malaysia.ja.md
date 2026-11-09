@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "malaysian-court-system" }
 related: []
 keywords: ["bantuan guaman", "legal aid", "JBG", "YBGK", "Majlis Peguam", "ujian kemampuan", "peguam percuma"]
+framework: how-to
 ---
 
 召喚状、離婚又は訴訟に直面しているが、弁護士を雇う余裕がないだろうか。法廷に一人で立ち向かう必要はない。マレーシアには、低所得者のために無料又は補助を受けた弁護士サービスを提供する三つの機関がある。

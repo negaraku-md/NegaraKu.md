@@ -78,6 +78,7 @@ relations:
   - { rel: "compares-with", to: "johor-bahru-singapore-rts-link" }
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["KL Singapore HSR", "high-speed rail Malaysia", "MyHSR Corp", "HSR termination compensation", "HSR revival RFP"]
+framework: history-culture
 ---
 
 รถไฟหัวกระสุนที่สามารถพาคุณจากกัวลาลัมเปอร์ไปยังสิงคโปร์ในเวลาประมาณ 90 นาที ได้ถูกลงนาม ระงับ ยกเลิก ไว้อาลัย และฟื้นคืนชีพ — ทั้งหมดนี้โดยที่ยังไม่มีการวางรางแม้แต่รางเดียว นี่คือสถานะที่แท้จริงของโครงการที่เปิด ๆ ปิด ๆ นี้

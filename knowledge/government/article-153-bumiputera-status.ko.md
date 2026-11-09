@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["federal-constitution", "majlis-raja-raja", "constitutional-amendment", "new-economic-policy", "ma63"]
 keywords: ["Perkara 153", "Article 153", "kedudukan istimewa orang Melayu", "special position of the Malays", "Bumiputera", "anak negeri Sabah Sarawak", "kepentingan sah kaum lain", "perkadaran yang munasabah", "kuota Perlembagaan Malaysia", "Perkara 153 Perlembagaan Persekutuan", "takrif orang Melayu Perkara 160"]
+framework: explainer
 ---
 
 많은 사람이 제153조를 인용하지만, 그 조항을 실제로 읽어 본 사람은 더 적습니다. 어떤 이는 이를 "말레이인의 특권"이라 부르고, 어떤 이는 "쿼터"라 부르며, 어떤 이는 "차별"이라 부릅니다 — 그러나 이 조문의 실제 문언은 그 어떤 표현도 사용하지 않습니다. 이 조문은 하나의 책임을 부과하고, 몇 가지 한계를 정하며 — 좀처럼 언급되지 않는 점으로 — 동시에 보호되어야 할 두 집단을 명명합니다.

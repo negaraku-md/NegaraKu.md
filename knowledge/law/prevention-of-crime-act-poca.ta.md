@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "prevention-of-terrorism-act-pota" }
 related: ["sosma"]
 keywords: ["POCA", "Akta Pencegahan Jenayah 1959", "Akta 297", "tahanan pencegahan", "Lembaga Pencegahan Jenayah", "jenayah terancang", "tahanan tanpa perbicaraan"]
+framework: explainer
 ---
 
 ஒரு நபர் நீதிமன்றத்தில் எப்போதும் குற்றம் சாட்டப்படாமலேயே பெயரிடப்படலாம், விசாரிக்கப்படலாம், இறுதியில் இரண்டு ஆண்டுகள் தடுத்து வைக்கப்படலாம் — மேலும் அந்தத் தீர்மானம் ஒரு நீதிபதியால் அல்ல, ஒரு வாரியத்தால் எடுக்கப்படுகிறது. அதுவே Prevention of Crime Act 1959 (POCA)-ன் மையத்தில் உள்ள வழிமுறை.

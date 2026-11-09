@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "article-153-special-position" }
 related: ["federal-constitution", "ma63", "sabah", "sarawak", "federal-state-division", "article-153-special-position"]
 keywords: ["Sabah Sarawak safeguards", "immigration autonomy Sabah Sarawak", "Article 161B", "Article 161E", "Article 95B List IIA", "native courts Sabah Sarawak", "Article 112C special grants", "Immigration Act 1959/63 Part VII", "special position of natives", "Federal Constitution Part XIIA"]
+framework: explainer
 ---
 
 쿠알라룸푸르(Kuala Lumpur)에서 코타키나발루(Kota Kinabalu)나 쿠칭(Kuching)으로 비행기를 타면 여러분은 말레이시아에 — 같은 나라, 같은 여권, 같은 통화에 — 도착하는데, 그런 다음 이민 창구에 줄을 서게 됩니다. 그곳에 있을 타당한 이유를 대지 못하는 반도의 말레이시아인은 몇 주로 제한된 통행증을 받거나 입경을 거부당할 수 있습니다. 그 검문소는 관료적 특이 사항이 아닙니다. 그것은 사바(Sabah)와 사라왁(Sarawak)이 1963년 연방에 참여할 때 연방 헌법에 기록된 일련의 보호 장치 가운데 하나입니다.

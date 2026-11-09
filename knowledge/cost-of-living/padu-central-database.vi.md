@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "str-sumbangan-tunai-rahmah" }
 related: []
 keywords: ["PADU", "Pangkalan Data Utama", "subsidi bersasar", "padu.gov.my", "Kementerian Ekonomi", "DOSM"]
+framework: explainer
 ---
 
 Để chuyển từ trợ giá đại trà sang trợ cấp có mục tiêu hơn, chính phủ cần biết tình hình kinh tế-xã hội của người dân. PADU là cơ sở dữ liệu được xây dựng cho mục đích đó.

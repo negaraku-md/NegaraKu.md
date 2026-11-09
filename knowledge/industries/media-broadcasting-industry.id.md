@@ -99,6 +99,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Ketika orang Malaysia berbicara tentang "media", mereka biasanya memaksudkan salah satu dari beberapa nama akrab: piringan satelit Astro yang terpasang di sisi rumah, buletin berita TV3, acara radio pagi dalam perjalanan ke tempat kerja, atau — kian lama — apa pun yang diputar di ponsel saat bepergian. Titik sentuh sehari-hari itu termasuk dalam satu industri yang luas dan melebar: media dan penyiaran. Ia adalah salah satu sektor jasa yang lebih terlihat di negara ini, sekaligus salah satu yang paling terganggu.

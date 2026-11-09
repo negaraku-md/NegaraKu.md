@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "auditor-independence" }
 related: ["companies-act-2016"]
 keywords: ["seksyen 266", "juruaudit", "SSM", "Akta Syarikat 2016", "pelaporan pelanggaran", "penipuan", "Pendaftar"]
+framework: rules
 ---
 
 An auditor who uncovers fraud during an audit cannot simply stay silent and sign off on the report — the law requires a written report to the Registrar. This duty is not optional, and ignoring it is itself a crime.

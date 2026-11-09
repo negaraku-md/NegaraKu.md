@@ -70,6 +70,7 @@ relations:
   - { rel: "compares-with", to: "employment-pass" }
 related: ["moving-to-malaysia-first-steps", "employment-pass", "professional-visit-pass"]
 keywords: ["DE Rantau", "digital nomad visa Malaysia", "nomad pass", "MDEC", "Professional Visit Pass", "remote work Malaysia"]
+framework: explainer
 ---
 
 หากคุณทำงานทางไกลให้แก่นายจ้างหรือลูกค้าที่ตั้งอยู่นอกมาเลเซีย คุณสามารถพำนักและทำงานในประเทศได้อย่างถูกกฎหมายภายใต้ใบอนุญาตที่สร้างขึ้นเพื่อการนั้นโดยเฉพาะ: **DE Rantau Nomad Pass**

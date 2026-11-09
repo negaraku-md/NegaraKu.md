@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "harta-sepencarian-malaysia" }
 related: []
 keywords: ["undang-undang keluarga islam", "akta 303", "mahkamah syariah", "talaq", "fasakh", "khuluk", "hadhanah", "nafkah", "poligami", "islamic family law malaysia"]
+framework: rules
 ---
 
 남편이 부양(nafkah)을 하지 아니하여 이혼을 청구하려는 아내, 이제 막 일곱 살이 된 아들의 양육을 이어가려는 아버지, 다른 혼인을 신청하는 남성 — 이 세 가지 상황은 모두 일반적인 법률사무소가 아니라, 각 주의 이슬람 가족법 아래 샤리아 법원(Syariah Court)에서 시작됩니다. 이 문서는 그 법적 틀을 어느 편에도 서지 아니하고 서술적으로 설명합니다.

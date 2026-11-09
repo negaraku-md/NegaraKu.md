@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "court-hierarchy" }
 related: ["penal-code", "federal-constitution", "fundamental-liberties", "court-hierarchy"]
 keywords: ["SOSMA", "Security Offences Special Measures Act 2012", "Act 747", "security offence Malaysia", "28-day detention", "First Schedule Penal Code Chapter VI VIA", "protected witness"]
+framework: explainer
 ---
 
 SOSMA creates no crimes. Open Act 747 looking for the offence it punishes and you will

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: []
 keywords: ["Competition Act 2010", "MyCC", "cartel", "price fixing", "bid rigging", "abuse of dominant position", "Competition Amendment Bill 2026"]
+framework: rules
 ---
 
 Acordar con un rival mantener los precios altos, o turnarse discretamente para ganar licitaciones públicas, no es un negocio astuto en Malasia: es una infracción de la ley que puede costarle a una empresa la décima parte de todo lo que gana en el mundo.

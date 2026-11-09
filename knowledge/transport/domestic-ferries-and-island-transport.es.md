@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "domestic-flights-and-regional-air-travel" }
 related: []
 keywords: ["ferri Penang", "ferri Langkawi", "ferri Tioman", "transporte islas Malasia", "Kuala Kedah", "Kuala Perlis", "monzón del noreste", "ferri Pangkor", "ferri Labuan"]
+framework: explainer
 ---
 
 No existe una única línea nacional de ferris en Malasia. Llegar a una isla significa saber qué corta travesía, qué embarcadero y qué operador la sirve — y, en la costa este, si el mar siquiera está abierto ese mes.

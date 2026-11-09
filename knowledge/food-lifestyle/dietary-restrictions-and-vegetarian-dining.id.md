@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-in-malaysia" }
 related: ["halal-certification-in-malaysia"]
 keywords: ["halal food Malaysia", "JAKIM halal logo", "vegetarian Malaysia", "vegan dining Malaysia", "dietary restrictions Malaysia", "Buddhist vegetarian", "beef-free"]
+framework: explainer
 ---
 
 Duduk untuk menikmati santapan di Malaysia berarti berbagi meja dengan empat budaya makanan sekaligus — Melayu, Tionghoa, India, dan tradisi yang tumbuh di antaranya. Keberagaman itu adalah anugerah jika Anda memiliki kebutuhan pola makan, dan sedikit tantangan jika Anda tidak mengenali tandanya. Berikut cara membacanya.

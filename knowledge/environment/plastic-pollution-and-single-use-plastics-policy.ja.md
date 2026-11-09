@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "solid-waste-management-in-malaysia" }
 related: []
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030"]
+framework: explainer
 ---
 
 レジ会計カウンターの薄いレジ袋は通常ほんの短時間しか使われないが、環境中には長期間残ることがある。この問題に対処するため、マレーシアは即座の全面禁止を選ばなかった——その代わりに、小額の課金からより広範な禁止へと移行する段階的なロードマップを採用した。

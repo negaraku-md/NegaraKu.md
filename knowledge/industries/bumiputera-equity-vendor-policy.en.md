@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "petronas" }
 related: ["new-economic-policy", "petronas"]
 keywords: ["ekuiti bumiputera", "dasar ekonomi baru", "pembangunan vendor", "PuTERA35", "PETRONAS VDP", "industri strategik", "SWEC"]
+framework: explainer
 ---
 
 An entrepreneur wanting to supply services to an oil & gas plant in Malaysia will quickly discover that technology and price are not the only things being examined — the company's ownership structure is assessed too. In several of the country's strategic sectors, who owns a company can determine whether it is eligible to apply for a licence or a contract. This phenomenon arises from two interlinked policy tools: Bumiputera equity requirements and vendor development programmes.

@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "trademark-registration-malaysia" }
 related: ["trademark-registration-malaysia"]
 keywords: ["geographical indication", "GI Act 2022", "Act 836", "MyIPO", "Sarawak pepper", "Musang King", "intellectual property Malaysia", "place of origin"]
+framework: explainer
 ---
 
 说到"砂拉越胡椒"或"猫山王"，买家脑海中立即浮现出特定的地方、土壤和风味。地理标志就是那项法律权利，它阻止其他任何人以该名称销售普通农产品——在马来西亚，它是与专利、商标、工业设计和版权并列、静静存在的一项知识产权权利。

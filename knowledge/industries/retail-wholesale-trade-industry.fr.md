@@ -95,6 +95,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Presque chaque ringgit qu'un Malaisien dépense en biens physiques — des courses, un téléphone, une voiture, une bouteille d'huile de cuisson — transite par le commerce de détail et de gros. C'est la plomberie de la consommation quotidienne : le réseau d'importateurs, de grossistes, de distributeurs, de magasins, de marchés et de boutiques en ligne qui achemine les produits de leur lieu de fabrication jusqu'à leur lieu d'achat. Les autorités appellent ce réseau le **commerce de distribution**, et c'est l'une des composantes les plus vastes et les plus visibles de l'économie malaisienne.

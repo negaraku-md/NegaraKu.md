@@ -97,6 +97,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Hampir setiap produk fisik yang keluar dari pabrik Malaysia — sebungkus mi instan, sebuah ponsel pintar, bemper mobil, sepotong pipa air — bergantung pada plastik yang dibentuk di suatu tempat di negara ini. Plastik adalah salah satu kekuatan industri Malaysia yang senyap: kurang glamor daripada semikonduktor, tetapi terjalin ke hampir setiap sektor manufaktur lain dan, kian lama, ke dalam perdebatan nasional tentang sampah dan keberlanjutan.

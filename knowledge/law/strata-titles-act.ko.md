@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "house-buyers-act" }
 related: ["national-land-code"]
 keywords: ["akta hakmilik strata", "akta pengurusan strata 2013", "JMB", "perbadanan pengurusan", "caj penyelenggaraan", "kumpulan wang penjelas", "tribunal pengurusan strata"]
+framework: explainer
 ---
 
 콘도미니엄을 산다는 것은 여러분이 자신의 "구획(petak)"을 소유하되 — 승강기, 수영장, 복도 및 지붕을 수백 명의 이웃과 공유한다는 뜻입니다. 두 개의 법이 누가 무엇을 소유하는지, 그리고 그 공유 공간을 유지하기 위해 누가 지급하는지를 정합니다.

@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "tenancy-agreement-malaysia" }
 related: []
 keywords: ["ejen hartanah", "REN", "LPEPH", "BOVAEP", "komisen ejen", "fi sewaan", "perunding hartanah"]
+framework: explainer
 ---
 
 Con số trên bảng tên trên ngực của môi giới không phải để trang trí — nó là cách nhanh duy nhất để phân biệt một chuyên viên tư vấn hợp pháp với một người chỉ tự nhận mình là môi giới. Ở Malaysia, việc ai được phép bán, cho thuê hoặc thương lượng bất động sản thay bạn được luật pháp kiểm soát chặt chẽ.

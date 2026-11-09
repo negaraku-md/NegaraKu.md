@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["termination-of-employment-malaysia"]
 keywords: ["umur persaraan minimum", "Akta 753", "persaraan 60 tahun", "persaraan pramatang", "kontrak tempoh tetap", "persaraan pilihan"]
+framework: rules
 ---
 
 Một người lao động 58 tuổi nhận được một lá thư: công ty nói hợp đồng của anh ta đặt nghỉ hưu ở tuổi 55, nên anh ta đã "hết hạn". Ở Malaysia, lá thư đó chẳng có giá trị gì về mặt pháp luật. Kể từ ngày 1 tháng 7 năm 2013, người sử dụng lao động khu vực tư nhân không được ép bất kỳ ai nghỉ hưu trước 60 tuổi, bất kể hợp đồng viết gì.

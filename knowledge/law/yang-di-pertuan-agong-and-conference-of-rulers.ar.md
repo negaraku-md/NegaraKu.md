@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malay-rulers-and-state-monarchies" }
 related: ["federal-constitution"]
 keywords: ["يانغ دي-بيرتوان أغونغ", "مجلس الحكام", "Yang di-Pertuan Agong", "Conference of Rulers", "Majlis Raja-Raja", "المادة 32", "المادة 38", "الملكية الدستورية", "رئيس الدولة"]
+framework: explainer
 ---
 
 ماليزيا من بين قلّة من دول العالم التي يُنتخَب ملكها بالتناوب بدلًا من أن يُورَّث واحدًا تلو الآخر من سلالة واحدة. ففي كل خمس سنوات، يجتمع الحكام الملايو التسعة لتحديد من منهم سيعتلي العرش الاتحادي بصفته يانغ دي-بيرتوان أغونغ (Yang di-Pertuan Agong). ويشكّل هذا النظام، مع المؤسسة التي تديره — مجلس الحكام (Majlis Raja-Raja) — جوهرَ الملكية الدستورية في البلاد.

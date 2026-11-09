@@ -61,6 +61,7 @@ relations:
   - { rel: "part-of", to: "employment" }
 related: ["employment-contract-malaysia", "termination-of-employment-malaysia"]
 keywords: ["بند عدم المنافسة ماليزيا", "تقييد التجارة ماليزيا", "المادة 28 قانون العقود 1950", "عدم استمالة العملاء ماليزيا", "العهد التقييدي ماليزيا", "non compete clause malaysia", "section 28 contracts act 1950"]
+framework: explainer
 ---
 
 يكاد كل عقد عمل ماليزي يحمل بند عدم منافسة، ويكاد كل واحد منها يكون باطلًا. وهذه ليست

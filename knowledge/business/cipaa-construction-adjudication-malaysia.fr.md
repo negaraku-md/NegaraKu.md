@@ -82,6 +82,7 @@ relations:
   - { rel: "compares-with", to: "arbitration-vs-litigation-malaysia" }
 related: ["arbitration-vs-litigation-malaysia", "contracts-act-malaysia"]
 keywords: ["CIPAA", "adjudication construction", "construction adjudication", "AIAC", "réclamation de paiement", "payment claim", "Act A1738", "litiges de construction Malaisie"]
+framework: explainer
 ---
 
 Un sous-traitant qui attend son paiement depuis six mois n'a pas à patienter des années avant une audience au tribunal. Sous CIPAA, il peut porter le litige jusqu'à une décision contraignante en quelques semaines, et l'horloge est implacable pour les deux parties.

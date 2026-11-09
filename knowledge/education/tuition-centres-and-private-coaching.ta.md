@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "national-education-system" }
 related: []
 keywords: ["pusat tuisyen", "tuition centre", "bimbingan persendirian", "Akta Pendidikan 1996", "pendaftaran IPS", "permit mengajar", "JPN"]
+framework: rules
 ---
 
 பல மலேசியக் குடும்பங்களில், பள்ளி நேரத்திற்குப் பிந்தைய டியூஷன் வகுப்பு வீட்டுப்பாடம் போலவே ஒரு சாதாரண வழக்கமாகிவிட்டது — ஆனால் அதை நடத்தும் ஒவ்வொரு மையமும் உண்மையில் அதே பள்ளிக் கல்விச் சட்டங்களால் கட்டுப்படுத்தப்படுகிறது.

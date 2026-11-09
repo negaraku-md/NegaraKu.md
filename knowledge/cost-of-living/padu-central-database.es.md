@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "str-sumbangan-tunai-rahmah" }
 related: []
 keywords: ["PADU", "Pangkalan Data Utama", "base de datos central", "subsidios dirigidos", "padu.gov.my", "Ministerio de Economía", "DOSM"]
+framework: explainer
 ---
 
 Para pasar de los subsidios generalizados a una ayuda más dirigida, el gobierno necesita conocer las circunstancias socioeconómicas de su población. PADU es la base de datos construida con ese fin.

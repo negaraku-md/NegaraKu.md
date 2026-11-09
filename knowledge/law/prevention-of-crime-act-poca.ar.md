@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "prevention-of-terrorism-act-pota" }
 related: ["sosma"]
 keywords: ["POCA", "قانون الوقاية من الجريمة 1959", "Akta Pencegahan Jenayah 1959", "Act 297", "الاحتجاز الوقائي", "مجلس الوقاية من الجريمة", "Prevention of Crime Board", "الجريمة المنظمة", "الاحتجاز دون محاكمة"]
+framework: explainer
 ---
 
 يمكن أن يُسمّى شخص ويُحقَّق معه ويُحتجز في نهاية المطاف سنتين دون أن يُتهَم قط أمام محكمة — وهذا القرار تتخذه هيئة لا قاضٍ. تلك هي الآلية في صميم قانون الوقاية من الجريمة لسنة 1959 (POCA).

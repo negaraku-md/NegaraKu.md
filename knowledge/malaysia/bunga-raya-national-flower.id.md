@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "rukun-negara" }
 related: ["rukun-negara"]
 keywords: ["bunga raya", "bunga kebangsaan", "hibiscus", "Hibiscus rosa-sinensis", "simbol kebangsaan Malaysia", "Rukun Negara", "Tunku Abdul Rahman"]
+framework: history-culture
 ---
 
 Tujuh jenis bunga pernah bersaing untuk mewakili sebuah negara yang baru merdeka — dan yang menang bukan yang paling harum atau paling langka, melainkan yang paling dikenal di setiap kota dan kampung. Itulah bunga raya.

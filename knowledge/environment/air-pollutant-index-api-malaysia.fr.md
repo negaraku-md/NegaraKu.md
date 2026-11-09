@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "jerebu-di-malaysia" }
 related: []
 keywords: ["IPU", "API", "indeks pencemar udara", "kualiti udara", "jerebu", "PM2.5", "PM10", "Jabatan Alam Sekitar"]
+framework: explainer
 ---
 
 Lorsque la brume sèche s'épaissit et que les écoles commencent à se demander s'il faut annuler le rassemblement du matin, un chiffre unique tranche généralement la question — la lecture de l'API. Ce chiffre paraît simple, mais derrière lui se cachent six polluants mesurés en continu et une formule qui les filtre tous en une seule valeur.

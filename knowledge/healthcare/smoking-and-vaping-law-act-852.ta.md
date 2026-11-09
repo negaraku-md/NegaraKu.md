@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "vaping-in-malaysia" }
 related: []
 keywords: ["Akta 852", "kawalan rokok", "vape", "tembakau", "nikotin", "umur minimum merokok", "generational endgame", "kawasan larangan merokok"]
+framework: rules
 ---
 
 முதல் முறையாக, ஒரு சிகரெட்டும் ஒரு வேப் சாதனமும் மலேசியாவில் ஒரே சட்டத்திற்கு உட்பட்டவையாகிவிட்டன — மேலும் இளம்பருவத்தினருக்கு விற்பனை செய்வதற்கான தடை என்பது இனி வெறும் கொள்கை மட்டுமல்ல, மாறாக ஆயிரக்கணக்கான ரிங்கிட் அபராதம் விதிக்கத்தக்க குற்றமாகும்.

@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysian-media-council-act" }
 related: []
 keywords: ["Akta Mesin Cetak dan Penerbitan", "Akta 301", "PPPA", "permit akhbar", "lesen mesin cetak", "Menteri Dalam Negeri", "kebebasan media"]
+framework: rules
 ---
 
 หนังสือพิมพ์ในมาเลเซียไม่สามารถพิมพ์ได้เพียงเพราะเนื้อหาของมันเป็นความจริงหรือดึงดูดความสนใจของผู้อ่าน — ก่อนอื่นมันต้องการใบอนุญาตพิเศษ (permit) ที่ออกโดยรัฐมนตรีว่าการกระทรวงมหาดไทย กรอบนั้นมาจากพระราชบัญญัติแท่นพิมพ์และสิ่งพิมพ์ 1984 หรือ Akta 301 กฎหมายที่กลายเป็นหนึ่งในเสาหลักที่ถูกถกเถียงมากที่สุดในภูมิทัศน์สื่อของประเทศ

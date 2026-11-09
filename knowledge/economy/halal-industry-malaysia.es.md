@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "islamic-finance-malaysia" }
 related: ["jakim", "islamic-finance", "matrade"]
 keywords: ["industri halal", "persijilan halal", "JAKIM", "MS 1500", "HDC", "eksport halal", "hab halal", "Akta Perihal Dagangan 2011"]
+framework: profile
 ---
 
 El logotipo halal en un producto en Malasia está respaldado por un conjunto de agencias gubernamentales, normas técnicas y legislación comercial, lo que lo convierte no en una mera marca religiosa, sino también en un elemento regulado del comercio. Halal es un concepto de la ley islámica que se refiere a lo que está permitido; en Malasia, también se ha convertido en un sector económico que se mide, se planifica y se comercializa oficialmente.

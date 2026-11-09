@@ -117,6 +117,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-transport-malaysia" }
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["Malaysia ports", "Port Klang", "Port of Tanjung Pelepas", "PTP", "transhipment", "container port", "logistics Malaysia", "freight forwarding", "ECRL", "free zone", "TEU", "Strait of Malacca"]
+framework: profile
 ---
 
 Port Klang đã vận chuyển 15.14 triệu container tàu biển vào năm 2025 — đủ để vượt qua Hồng Kông và lần đầu tiên lọt vào top mười cảng bận rộn nhất thế giới. Một cảng thứ hai của Malaysia, Tanjung Pelepas, đã vận chuyển thêm 14 triệu nữa. Không con số nào mô tả một quốc gia làm ra phần lớn số hàng hóa đó. Nó mô tả một quốc gia nằm đúng chỗ và đã học được cách thu tiền thuê trên thương mại của thế giới.

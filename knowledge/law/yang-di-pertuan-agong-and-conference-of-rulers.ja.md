@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malay-rulers-and-state-monarchies" }
 related: ["federal-constitution"]
 keywords: ["Yang di-Pertuan Agong", "Majlis Raja-Raja", "Conference of Rulers", "Perkara 32", "Perkara 38", "raja berperlembagaan", "Ketua Negara"]
+framework: explainer
 ---
 
 マレーシアは、君主が単一の血統から一人ずつ世襲されるのではなく、輪番で選出される世界でも数少ない国の一つである。5年ごとに、九人のマレー統治者が集まり、彼らの中の誰が国王（Yang di-Pertuan Agong）として連邦の王位に就くかを決定する。この制度は、それを運営する機関である統治者会議（Majlis Raja-Raja）とともに、国の立憲君主制の中核を成している。

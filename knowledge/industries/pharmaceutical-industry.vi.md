@@ -97,6 +97,7 @@ keywords:
   - Duopharma Biotech
   - đóng chai-hoàn thiện vaccine
   - GMP PIC/S
+framework: profile
 ---
 
 Mỗi lần một người Malaysia mua một đơn thuốc kháng sinh, một viên giảm đau hay một viên hạ huyết áp, có khả năng tốt rằng loại thuốc đó được làm ra ở Malaysia — không được phát minh ở đây, mà được bào chế, dập viên, đóng và đóng gói trong một nhà máy nội địa làm việc theo các tiêu chuẩn sản xuất quốc tế. Đó là trái tim của ngành dược phẩm Malaysia: một nền tảng chế tạo vững chắc, dẫn dắt bởi thuốc gốc, giữ cho tủ thuốc quốc gia luôn đầy, đi kèm hai canh bạc tham vọng hơn — dược phẩm halal và sản xuất vaccine — mà đất nước hy vọng sẽ đưa mình lên chuỗi giá trị.

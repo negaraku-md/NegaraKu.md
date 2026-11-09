@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "program-podium" }
 related: []
 keywords: ["SUKMA", "Sukan Malaysia", "Majlis Sukan Negara", "Program Podium", "atletas juveniles", "desarrollo deportivo", "Institut Sukan Negara"]
+framework: explainer
 ---
 
 Cada dos años, miles de jóvenes atletas desfilan hacia el estadio de un estado anfitrión — no por medallas mundiales, sino por el orgullo de sus respectivos estados y, para los más talentosos, por un billete al escenario nacional de élite. Eso es SUKMA.

@@ -63,6 +63,7 @@ wikidata: "Q28163620"
 relations: []
 related: []
 keywords: ["Financial Services Act 2013", "FSA 2013", "FSA Malaysia", "Act 758", "Bank Negara Malaysia financial regulation", "financial institutions regulation Malaysia", "consumer protection financial services Malaysia", "unlicensed financial business penalty Malaysia", "IFSA 2013", "payment systems regulation Malaysia"]
+framework: explainer
 ---
 
 ทุกครั้งที่คุณแตะอีวอลเล็ต กู้สินเชื่อรถยนต์ หรือซื้อแผนตะกาฟุล คุณกำลังทำธุรกรรมกับธุรกิจที่ต้องรับผิดชอบต่อผู้กำกับดูแลรายเดียว — **ธนาคารกลางมาเลเซีย (Bank Negara Malaysia, BNM)** — เพราะกฎหมายฉบับเดียว **พระราชบัญญัติบริการทางการเงิน (Financial Services Act 2013, FSA)** ซึ่งอ้างอิงเป็น **Act 758** เป็นกฎหมายหลักของมาเลเซียสำหรับภาคการเงินแบบดั้งเดิม ใช้บังคับทั่วมาเลเซีย บริหารจัดการและบังคับใช้โดย BNM และมีผลบังคับใช้เมื่อวันที่ **30 มิถุนายน 2013** คำอธิบายส่วนใหญ่ที่เขียนขึ้นสำหรับนักกฎหมายหยุดอยู่ที่รายการกฎหมายที่ถูกยกเลิก บทความนี้ตอบคำถามที่ชาวมาเลเซียทั่วไปมีจริง ๆ: FSA หมายความว่าอย่างไรต่อเงิน สิทธิ และคนที่ดูแลมันของคุณ?

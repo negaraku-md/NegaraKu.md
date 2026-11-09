@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["CCRIS", "CTOS", "credit report Malaysia", "credit score", "Credit Reporting Agencies Act 2010", "RAM Credit Information RAMCI", "credit rating Malaysia"]
+framework: explainer
 ---
 
 Một lần trễ trả góp duy nhất có thể lặng lẽ ám bạn trong nhiều năm — và hầu hết người Malaysia chưa bao giờ thực sự đọc hồ sơ mà một ngân hàng mở ra trước khi nói có hoặc không với một khoản vay.

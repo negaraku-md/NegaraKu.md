@@ -100,6 +100,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Somewhere in a home in Texas or California, there is a good chance the dining chair, bed frame or bookshelf was made in Malaysia — very possibly in and around one town, from the timber of a rubber tree that once produced latex for gloves and tyres. Malaysia's furniture and wood products industry is one of the quiet heavyweights of its manufacturing economy: not glamorous, but a consistent top-ten global exporter that has turned a by-product of the plantation sector into finished goods sold around the world.

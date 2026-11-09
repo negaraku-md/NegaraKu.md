@@ -87,6 +87,7 @@ relations:
   - { rel: "affects", to: "cost-of-living-overview" }
 related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "subsidi padi"]
+framework: profile
 ---
 
 அரிசி விலை உயரும் ஒவ்வொரு முறையும் அல்லது பேரங்காடி அலமாரிகள் காலியாகும் ஒவ்வொரு முறையும், ஒரு பழைய கேள்வி மீண்டும் மலேசியாவை வேட்டையாடுகிறது: வயல்களால் வளமான ஒரு நாடு ஏன் இன்னும் தனது அரிசியில் கிட்டத்தட்ட பாதியை இறக்குமதி செய்ய வேண்டியுள்ளது? பதில், மானியத்தால் இயக்கப்படும், உத்தரவாத விலையால் பாதுகாக்கப்படும், மற்றும் இன்னும் அடையப்படாத தன்னிறைவு இலக்குகளால் துரத்தப்படும் ஒரு தொழிலில் உள்ளது.

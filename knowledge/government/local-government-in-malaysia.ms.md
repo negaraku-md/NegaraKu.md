@@ -86,6 +86,7 @@ wikidata: "Q6664408"
 relations: []
 related: []
 keywords: ["local government Malaysia", "PBT", "pihak berkuasa tempatan", "majlis perbandaran", "majlis daerah", "dewan bandaraya", "Local Government Act 1976", "Act 171", "local council Malaysia", "cukai taksiran", "KPKT", "local government elections Malaysia", "Datuk Bandar", "Yang Dipertua", "municipal council Malaysia", "district council Malaysia"]
+framework: explainer
 ---
 
 Majlis yang mengutip sampah anda, meluluskan rumah kedai di sebelah dan mengenakan bil cukai taksiran kepada anda ialah lapisan kerajaan yang paling dekat dengan pintu pagar rumah anda — dan ia merupakan satu-satunya lapisan yang tidak pernah dibenarkan untuk anda undi. Peringkat ketiga kerajaan Malaysia disampaikan oleh **pihak berkuasa tempatan** (*Pihak Berkuasa Tempatan*, atau **PBT**), yang hadir dalam tiga saiz: Majlis Bandaraya, Majlis Perbandaran dan Majlis Daerah. Dua fakta menjelaskan hampir segala-galanya tentang cara mereka bertindak. Pertama, kerajaan tempatan ialah perkara *negeri* di bawah Perlembagaan, jadi majlis anda bertanggungjawab kepada kerajaan negeri, bukan kepada Putrajaya. Kedua, pilihan raya tempatan telah dibekukan sejak 1965, jadi setiap ahli majlis dilantik oleh negeri — bukan dipilih oleh penduduk.

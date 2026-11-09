@@ -54,6 +54,7 @@ relations:
   - { rel: "governs", to: "bahasa-melayu" }
 related: ["federal-constitution", "bahasa-melayu"]
 keywords: ["Article 152 Federal Constitution", "national language Malaysia", "Perkara 152", "official purpose Malaysia", "National Language Acts 1963/67", "Article 161 Sabah Sarawak English"]
+framework: explainer
 ---
 
 제152조를 헌법의 나머지 부분과 함께 읽으면 한 가지 상호 참조가 두드러집니다. 제161조 제5항은 "제152조의 어떠한 규정에도 불구하고"라는 문구로 시작하여, 사바(Sabah)나 사라왁(Sarawak)에서 현재 사용되는 원주민 언어가 원주민 법원에서, 그리고 원주민 법과 관습에 관한 어떠한 법전에 대해서도 사용될 수 있도록 허용합니다. 다시 말해, 국어 조항은 그 자체에 대한 예외를 스스로 명시하는 문서 안에 자리하고 있습니다.

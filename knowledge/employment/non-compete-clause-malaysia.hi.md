@@ -61,6 +61,7 @@ relations:
   - { rel: "part-of", to: "employment" }
 related: ["employment-contract-malaysia", "termination-of-employment-malaysia"]
 keywords: ["गैर-प्रतिस्पर्धा खंड मलेशिया", "व्यापार प्रतिबंध मलेशिया", "धारा 28 अनुबंध अधिनियम 1950", "ग्राहक अपप्रेरण मलेशिया", "प्रतिबंधात्मक प्रसंविदा मलेशिया", "non compete clause malaysia", "section 28 contracts act 1950"]
+framework: explainer
 ---
 
 लगभग हर मलेशियाई रोज़गार अनुबंध में एक गैर-प्रतिस्पर्धा खंड होता है, और उनमें से लगभग हर एक

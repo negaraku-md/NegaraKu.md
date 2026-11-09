@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "financial-intelligence-unit" }
 related: ["bank-negara-malaysia"]
 keywords: ["AMLA", "AMLATFPUAA 2001", "Act 613", "धन शोधन मलेशिया", "आतंकवाद वित्तपोषण", "रिपोर्टिंग संस्थान", "संदिग्ध लेनदेन रिपोर्ट", "बैंक नेगारा मलेशिया", "फ्रीज़िंग और जब्ती", "AML CFT अनुपालन", "money laundering Malaysia", "terrorism financing", "reporting institution", "suspicious transaction report", "Bank Negara Malaysia", "AML CFT compliance"]
+framework: rules
 ---
 
 जब कोई मलेशियाई बैंक किसी ग्राहक के अंतरण को «संदिग्ध» के रूप में चिह्नित करता है, तो एक ही कानून तय करता है कि आगे क्या होगा — किसे बताना है, कितनी जल्दी, और उसके बाद राज्य उस धन पर कौन-सी शक्तियाँ लागू कर सकता है। वह कानून AMLA है।

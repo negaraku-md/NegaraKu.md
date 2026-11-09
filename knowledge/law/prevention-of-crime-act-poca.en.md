@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "prevention-of-terrorism-act-pota" }
 related: ["sosma"]
 keywords: ["POCA", "Akta Pencegahan Jenayah 1959", "Akta 297", "tahanan pencegahan", "Lembaga Pencegahan Jenayah", "jenayah terancang", "tahanan tanpa perbicaraan"]
+framework: explainer
 ---
 
 A person can be named, investigated, and ultimately detained for two years without ever being charged in court — and that decision is made by a board, not a judge. That is the mechanism at the heart of the Prevention of Crime Act 1959 (POCA).

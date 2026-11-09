@@ -90,6 +90,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-investment-trade-and-industry" }
 related: ["electrical-electronics-industry"]
 keywords: ["semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "advanced packaging", "chip industry Malaysia", "Penang Silicon Valley", "MIDA", "IC design"]
+framework: profile
 ---
 
 Presque tous les téléphones, ordinateurs portables et voitures de la Terre renferment une puce qui a passé une partie de sa vie en Malaisie — conditionnée, testée et expédiée depuis une usine de Penang ou de la vallée de Klang. Pourtant, pendant cinquante ans, le pays a réalisé la part la moins prestigieuse et la moins marginale de ce travail : l'aval. La Stratégie nationale des semi-conducteurs est la tentative de la Malaisie de changer quelle partie de la puce elle possède.

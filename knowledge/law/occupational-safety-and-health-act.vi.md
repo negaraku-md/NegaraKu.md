@@ -81,6 +81,7 @@ relations:
   - { rel: "supersedes", to: "factories-and-machinery-act-1967" }
 related: ["labour-law-map-malaysia", ]
 keywords: ["OSHA 1994", "Akta 514", "tanggungjawab majikan", "DOSH", "penilaian risiko", "JKKP 6", "keselamatan pekerjaan"]
+framework: rules
 ---
 
 Một người lao động ngã từ giàn giáo, và câu hỏi đầu tiên của điều tra viên không phải là "ai cẩu thả" — mà là "người sử dụng lao động đã làm mọi điều khả thi để ngăn nó chưa?" Đó là cốt lõi của Luật An toàn và Sức khỏe Nghề nghiệp 1994 (Act 514), hay OSHA 1994.

@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "constitutional-amendment" }
 related: ["court-hierarchy", "constitutional-amendment"]
 keywords: ["pelantikan hakim", "Suruhanjaya Pelantikan Kehakiman", "Perkara 122B", "Perkara 125", "kebebasan kehakiman", "tribunal hakim", "Ketua Hakim Negara"]
+framework: explainer
 ---
 
 Mỗi khi một Chánh án mới tuyên thệ, một câu hỏi cũ lại xuất hiện: ai thực sự chọn người đó, và ai có thể loại bỏ họ? Tại Malaysia, câu trả lời liên quan đến hai giai đoạn riêng biệt, hai văn kiện pháp luật khác nhau, và một cuộc tranh luận chưa ngã ngũ về việc quyền lực đó nên nằm ở đâu.

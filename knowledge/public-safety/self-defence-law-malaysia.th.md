@@ -63,6 +63,7 @@ relations:
   - { rel: "governs", to: "penal-code-malaysia" }
 related: ["penal-code"]
 keywords: ["pertahanan diri", "hak mempertahankan diri", "Kanun Keseksaan", "seksyen 100", "seksyen 96", "self-defence Malaysia", "private defence"]
+framework: explainer
 ---
 
 ผู้บุกรุกเข้าทำร้ายคุณในบ้านของคุณเองในยามเที่ยงคืน — ในวินาทีนั้น กฎหมายมาเลเซียอนุญาตให้คุณต่อสู้ป้องกันตัวหรือไม่? อนุญาต แต่มีเงื่อนไขที่เข้มงวด และเส้นแบ่งระหว่างการป้องกันตัวโดยชอบด้วยกฎหมายกับอาชญากรรมนั้นบางกว่าที่หลายคนคิด

@@ -97,6 +97,7 @@ keywords:
   - centro de capacidad global
   - Malaysia Digital
   - deslocalización
+framework: profile
 ---
 
 En algún lugar de Cyberjaya o Kuala Lumpur, ahora mismo, un contable está cerrando los libros mensuales de una empresa con sede en Londres, un agente de la mesa de ayuda está resolviendo una incidencia de un cliente en Sídney y un analista de datos está construyendo un panel para una fábrica en Alemania. Ninguno de esos empleadores fabrica nada en Malasia. Lo que gestionan aquí es algo menos visible pero cada vez más valioso: su oficina administrativa global.

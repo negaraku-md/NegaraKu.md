@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "pdpa-malaysia" }
 related: []
 keywords: ["Cyber Security Act 2024", "Act 854", "NCII", "NACSA", "cybersecurity licensing Malaysia", "incident reporting Malaysia", "national critical information infrastructure"]
+framework: rules
 ---
 
 여러 해 동안 말레이시아는 빌려 온 도구로 사이버 공격에 대응했습니다 — 컴퓨터범죄법(Computer Crimes Act), 통신멀티미디어법(Communications and Multimedia Act), 그리고 중앙은행과 그 동류 기관들의 부문별 회람. 그중 어느 것도 누가 이 나라의 핵심 시스템을 보호해야 하는지, 침해가 얼마나 빨리 보고되어야 하는지, 심지어 누가 침투 테스트를 판매할 수 있는지를 한곳에 명시하지 않았습니다. 2024년 사이버보안법은 그것을 명시합니다. 이는 말레이시아 최초의 독립 사이버보안 법률이며, 특정 네트워크를 과거의 법률이 댐과 발전소를 다루던 방식으로 — 국가가 규제할 권리를 갖는 국가 인프라로 — 다룹니다.

@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "tenancy-agreement-malaysia" }
 related: []
 keywords: ["ejen hartanah", "REN", "LPEPH", "BOVAEP", "komisen ejen", "fi sewaan", "perunding hartanah"]
+framework: explainer
 ---
 
 중개인의 명찰에 적힌 번호는 장식이 아닙니다 — 정당한 협상인과 그저 자신을 중개인이라 주장하는 사람을 빠르게 구별하는 유일한 방법입니다. 말레이시아에서는 누가 당신을 대신하여 부동산을 팔거나 임대하거나 협상할 수 있는지가 법으로 엄격히 규제됩니다.

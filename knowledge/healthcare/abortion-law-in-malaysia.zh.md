@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "medical-act-1971" }
 related: []
 keywords: ["pengguguran", "undang-undang pengguguran Malaysia", "Seksyen 312 Kanun Keseksaan", "penamatan kehamilan", "Akta Perubatan 1971", "garis panduan KKM"]
+framework: explainer
 ---
 
 许多人以为堕胎在马来西亚完全被禁止——事实上，法律将它置于一个更为复杂的空间：一项刑事罪行，附带一项重要的医疗例外。要理解这条界线划在哪里，我们必须阅读《刑事法典》的实际条文，而非笼统的印象。

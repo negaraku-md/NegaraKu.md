@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "sedition-act-1948" }
 related: ["federal-constitution"]
 keywords: ["akta komunikasi dan multimedia 1998", "seksyen 233", "SKMM", "MCMC", "penyalahgunaan kemudahan rangkaian", "pertuturan dalam talian", "kebebasan bersuara", "akta 588"]
+framework: explainer
 ---
 
 マレーシアでは、Facebookへの一つのコメント、一つのツイート、あるいは転送された一通のWhatsAppメッセージが、刑事訴追の根拠となることがある。このような状況で最も頻繁に援用される法律条文は、扇動法（Akta Hasutan）でも名誉毀損法でもなく、1998年通信・マルチメディア法（Communications and Multimedia Act 1998、Act 588）のs.233である。

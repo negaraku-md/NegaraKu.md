@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "public-vs-private-healthcare" }
 related: []
 keywords: ["telemedicine Malaysia", "online doctor", "teleconsultation", "DoctorOnCall", "MMC guideline", "e-prescription", "Telemedicine Act 1997"]
+framework: explainer
 ---
 
 アプリを開き、ソファに座ったまま医師とビデオ通話をすると、1時間後には処方箋が受信箱に届く。マレーシアでは、これは完全に合法である——しかし、その背後にあるルールブックは、あなたが思っているような法律ではない。

@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "macc-anti-corruption-malaysia" }
 related: []
 keywords: ["pengaturan perlawanan", "match-fixing", "pertaruhan sukan", "Akta Rumah Judi Terbuka 1953", "Akta Pertaruhan 1953", "SPRM", "integriti sukan", "bola sepak Malaysia"]
+framework: explainer
 ---
 
 当1993–1994赛季有超过100名足球运动员被警方带走时，这不仅仅是一场体育危机——它揭开了一个至今仍未完全解决的法律问题：一个几乎禁止所有体育博彩的国家，如何应对由博彩本身滋生出来的罪行。

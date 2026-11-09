@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
 related: ["federal-constitution"]
 keywords: ["Akta Profesion Guaman 1976", "Majlis Peguam", "Malaysian Bar", "peguam bela dan peguam cara", "Lembaga Tatatertib", "Akta 166", "profesion guaman Malaysia"]
+framework: explainer
 ---
 
 கோலாலம்பூர், ஜோகூர் பாரு (Johor Bahru) அல்லது பினாங்கு (Pulau Pinang) நீதிமன்றத்தில் நிற்கும் ஒவ்வொரு வழக்கறிஞரும் ஒரே சட்டத்தின் கீழேயே அவ்வாறு செய்கிறார் — மேலும் அவர் தவறிழைத்தால், அதே சட்டம் அவரது தொழில் வாழ்க்கையை முடிவுக்குக் கொண்டுவரக்கூடும். அதுதான் சட்டத் தொழில் சட்டம் 1976 (Akta Profesion Guaman 1976, Akta 166); தீபகற்ப மலேசியாவின் சட்டத் தொழிலை ஒன்றிணைத்து, அதை வழக்கறிஞர் மன்றக் குழுவின் (Majlis Peguam) மற்றும் ஒரு சுயாதீன ஒழுங்குநடவடிக்கை வாரியத்தின் மேற்பார்வையின் கீழ் வைக்கும் முதுகெலும்பு.

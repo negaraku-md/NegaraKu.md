@@ -87,6 +87,7 @@ relations:
   - { rel: "affects", to: "cost-of-living-overview" }
 related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "subsidi padi"]
+framework: profile
 ---
 
 Mỗi lần giá gạo tăng hoặc kệ siêu thị trống rỗng, một câu hỏi cũ lại quay về ám ảnh Malaysia: tại sao một đất nước màu mỡ với những cánh đồng lúa vẫn phải nhập khẩu gần một nửa lượng gạo của mình? Câu trả lời nằm ở một ngành được thúc đẩy bởi trợ cấp, được bảo vệ bởi giá được bảo đảm, và bị đeo đuổi bởi các mục tiêu tự cung tự cấp vẫn chưa đạt được.

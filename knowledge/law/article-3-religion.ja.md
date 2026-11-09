@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "rukun-negara" }
 related: ["federal-constitution", "yang-di-pertuan-agong", "majlis-raja-raja", "court-hierarchy", "rukun-negara"]
 keywords: ["Article 3 Federal Constitution Malaysia", "Islam religion of the Federation", "Article 11 freedom of religion Malaysia", "Perkara 3 Perlembagaan Persekutuan", "Article 121(1A)", "Syariah courts jurisdiction Malaysia", "freedom of religion Malaysia constitution"]
+framework: explainer
 ---
 
 連邦憲法の二つの規定は互いに隣り合い、絶えず引用されるが、全文が引用されることは稀である。以下がその条文である。

@@ -113,6 +113,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Ketika _Upin & Ipin Universe_ dari Les' Copaque mencapai konsol di seluruh dunia pada **17 Juli 2025**, ia menutup satu lingkaran yang dimulai dengan serial animasi pendek tentang dua anak kembar yang nakal. Sebuah kartun Malaysia telah menjadi gim video yang diterbitkan secara global — dan ilustrasi yang rapi tentang apa yang telah diam-diam dibangun oleh industri konten kreatif digital negara ini selama dua dekade.

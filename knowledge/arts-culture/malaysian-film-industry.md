@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["bahasa-melayu", "mak-yong"]
 keywords: ["industri filem Malaysia", "sinema Malaysia", "P. Ramlee", "FINAS", "Malay Film Productions", "Jalan Ampas", "Mat Kilau", "Tiger Stripes", "Da Huang Pictures", "Malaysian New Wave"]
+framework: profile
 ---
 
 Pada 1955, seorang bekas budak *clapper* dan pemegang kamera pembantu di sebuah studio di No. 8 Jalan Ampas, Singapura, duduk di kerusi pengarah buat kali pertama pada usia 26 tahun. Filem itu *Penarek Becha*. Namanya P. Ramlee. Kisah industri filem Malaysia bermula bukan di Kuala Lumpur, tetapi di sebuah studio Singapura yang dimiliki dua bersaudara dari Shanghai — dan ia belum pun berhenti bergerak sejak itu.

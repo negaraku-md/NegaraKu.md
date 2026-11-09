@@ -90,6 +90,7 @@ keywords:
   - "kadar LKM kW"
   - "cukai jalan kenderaan elektrik JPJ"
   - "road tax EV Malaysia"
+framework: explainer
 ---
 
 Zaman pajak jalan gratis untuk mobil listrik di Malaysia sudah berakhir — tetapi tagihan pertama yang mendarat di MyJPJ Anda mungkin lebih murah daripada yang Anda duga, dan ia dihitung dengan cara yang benar-benar baru.

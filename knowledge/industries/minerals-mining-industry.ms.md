@@ -96,6 +96,7 @@ keywords:
   - Akta Pembangunan Mineral 1994
   - JMG
   - Lynas
+framework: profile
 ---
 
 Ekonomi moden Malaysia, secara harfiah, digali keluar dari tanah. Jauh sebelum minyak sawit, elektronik atau semikonduktor, **bijih timah**-lah yang menjadikan semenanjung ini penting kepada dunia — membiayai landasan kereta api, menumbuhkan bandar seperti Ipoh dan Kuala Lumpur, dan menarik generasi pelombong pendatang. Perlombongan ialah kisah perindustrian tertua negara, dan walaupun ia tidak lagi mendominasi ekonomi, ia secara senyap ditulis semula di sekitar satu hadiah yang sangat moden: unsur nadir bumi.

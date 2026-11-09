@@ -61,6 +61,7 @@ relations:
   - { rel: "part-of", to: "employment" }
 related: ["employment-contract-malaysia", "termination-of-employment-malaysia"]
 keywords: ["non compete clause malaysia", "restraint of trade malaysia", "section 28 contracts act 1950", "non solicitation malaysia", "restrictive covenant malaysia"]
+framework: explainer
 ---
 
 几乎每一份马来西亚雇佣合约都带着一条竞业禁止条款，而其中几乎每一条都是无效的。

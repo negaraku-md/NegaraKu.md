@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: []
 keywords: ["Competition Act 2010", "MyCC", "cartel", "price fixing", "bid rigging", "abuse of dominant position", "Competition Amendment Bill 2026"]
+framework: rules
 ---
 
 競争相手と結託して価格を高く維持すること、あるいは政府調達の入札を密かに輪番で落札することは、マレーシアでは抜け目のない商売ではない——それは法律違反であり、会社が世界中で稼ぐ金額の十分の一を失わせかねない。

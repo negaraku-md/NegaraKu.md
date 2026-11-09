@@ -117,6 +117,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-transport-malaysia" }
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["Malaysia ports", "Port Klang", "Port of Tanjung Pelepas", "PTP", "transhipment", "container port", "logistics Malaysia", "freight forwarding", "ECRL", "free zone", "TEU", "Strait of Malacca"]
+framework: profile
 ---
 
 ポートクラン（Port Klang）は2025年に1,514万個の海上コンテナを動かした——香港を追い抜き、世界十大最繁忙港に初めて食い込むのに十分な量である。もう一つのマレーシアの港、タンジュン・ペレパス港（PTP）も、さらに1,400万個を動かした。どちらの数字も、それらの貨物の大半を自ら作り出している国を表してはいない。それが表しているのは、正しい場所に位置し、世界貿易から家賃を取り立てる術を身につけた国である。

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "freedom-of-information-malaysia" }
 related: []
 keywords: ["Akta Rahsia Rasmi 1972", "Official Secrets Act", "Akta 88", "rahsia rasmi", "pengelasan dokumen", "seksyen 16A", "keselamatan negara", "kebebasan media", "OSA Malaysia"]
+framework: rules
 ---
 
 내각 회의록 사본을 받은 기자, 군 부대 인근에서 측량을 한 연구자, 그리고 '대외비(Sulit)'로 표시된 파일을 보관한 공무원 — 이 셋 모두 동일한 하나의 법률에 저촉될 수 있습니다. 국가기밀법 1972(Official Secrets Act 1972), 즉 Act 88은 말레이시아 공적 기밀 제도의 근간이며, 그 적용 범위는 단순한 간첩 사안을 훨씬 넘어섭니다.

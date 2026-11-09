@@ -76,6 +76,7 @@ relations:
   - { rel: "governs", to: "national-land-code-1965" }
 related: []
 keywords: ["bank lelong", "مزاد العقارات في ماليزيا", "حبس الرهن", "إعلان البيع", "proclamation of sale", "LACA auction", "أمر البيع", "السعر الأساسي", "foreclosure"]
+framework: explainer
 ---
 
 قد يُطرح عقار تحت المطرقة بجزء بسيط من قيمته السوقية — لكن هذا الخصم هو تسعير السوق لكل ما قد يسوء. فمزاد الرهن المصرفي (bank lelong) ليس بحثًا عن صفقة رابحة؛ بل هو مبادلة محسوبة للسعر بالمخاطرة.

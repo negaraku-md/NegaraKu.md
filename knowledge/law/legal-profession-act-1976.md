@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-of-malaysia" }
 related: ["federal-constitution"]
 keywords: ["Akta Profesion Guaman 1976", "Majlis Peguam", "Malaysian Bar", "peguam bela dan peguam cara", "Lembaga Tatatertib", "Akta 166", "profesion guaman Malaysia"]
+framework: explainer
 ---
 
 Setiap peguam yang berdiri di mahkamah di Kuala Lumpur, Johor Bahru atau Pulau Pinang berbuat demikian di bawah satu helai undang-undang yang sama — dan jika dia tersasar, undang-undang yang sama itu boleh menamatkan kerjayanya. Itulah Akta Profesion Guaman 1976 (Akta 166), tulang belakang yang menyatukan profesion guaman Semenanjung Malaysia dan meletakkannya di bawah pengawasan Majlis Peguam serta sebuah lembaga tatatertib yang bebas.

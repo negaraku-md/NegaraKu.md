@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "epf-akaun-persaraan" }
 related: []
 keywords: ["EPF i-Invest", "Members Investment Scheme", "KWSP MIS", "invest EPF savings", "Akaun Persaraan", "Basic Savings", "unit trust EPF"]
+framework: explainer
 ---
 
 Simpanan KWSP Anda tidak harus tetap di satu tempat saja dan hanya memperoleh dividen tahunan. Jika Anda telah mengumpulkan lebih dari dasar pensiun yang diharuskan oleh KWSP, Anda diizinkan menempatkan sebagian yang terkendali darinya ke dalam dana unit amanah (unit trust) — dan sejak 2019 Anda dapat melakukannya sendiri, secara daring, tanpa agen.

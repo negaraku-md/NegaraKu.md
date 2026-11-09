@@ -95,6 +95,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Gần như mỗi ringgit mà một người Malaysia chi cho hàng hóa vật chất — thực phẩm, một chiếc điện thoại, một chiếc xe hơi, một chai dầu ăn — đều đi qua thương mại bán lẻ và bán buôn. Đó là hệ thống ống dẫn của tiêu dùng thường ngày: mạng lưới các nhà nhập khẩu, nhà bán buôn, nhà phân phối, cửa hàng, chợ và cửa hàng trực tuyến đưa sản phẩm từ nơi làm ra đến nơi được mua. Giới chức gọi mạng lưới này là **thương mại phân phối (distributive trade)**, và nó là một trong những phần lớn nhất và dễ thấy nhất của nền kinh tế Malaysia.

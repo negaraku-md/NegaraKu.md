@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "azizulhasni-awang" }
 related: []
 keywords: ["velodrom nasional", "Nilai", "lumba basikal trek", "keirin", "Azizulhasni Awang", "MNCF", "Majlis Sukan Negara"]
+framework: profile
 ---
 
 நிலாயின் ஓரத்தில் அமைந்துள்ள ஒரு நீளமான கூரை போர்த்திய களம் இன்று மலேசியாவின் வேகமான சைக்கிள் வீரர்கள் தங்கள் ஓட்டத்தைக் கூர்மைப்படுத்தும் இடமாக மாறியுள்ளது — மேலும் இது மேலும் பல உலக டிராக் சாம்பியன்களை உருவாக்கும் நோக்கத்தோடு பிரத்யேகமாகக் கட்டப்பட்டது.

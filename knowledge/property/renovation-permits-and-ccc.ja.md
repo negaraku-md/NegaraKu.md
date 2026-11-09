@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "buying-property-in-malaysia" }
 related: []
 keywords: ["CCC", "Sijil Perakuan Siap dan Pematuhan", "ubah suai rumah", "kebenaran PBT", "Akta 133", "permit renovation", "Principal Submitting Person"]
+framework: rules
 ---
 
 家の裏に台所を増築したい、あるいは上に一階分を建て増したい——すると突然、近所の人が「まず市議会に申請しないといけないよ」と言う。本当だろうか。ほとんどの改修工事については、答えはイエスだ。

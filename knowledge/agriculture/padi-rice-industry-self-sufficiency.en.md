@@ -87,6 +87,7 @@ relations:
   - { rel: "affects", to: "cost-of-living-overview" }
 related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "subsidi padi"]
+framework: profile
 ---
 
 Every time rice prices rise or supermarket shelves run empty, an old question comes back to haunt Malaysia: why does a country so rich in padi fields still need to import nearly half its rice? The answer lies in an industry driven by subsidies, protected by guaranteed prices, and chased by a self-sufficiency target that has yet to be reached.

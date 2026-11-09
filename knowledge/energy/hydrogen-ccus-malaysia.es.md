@@ -86,6 +86,7 @@ relations:
   - { rel: "part-of", to: "malaysia-energy-transition" }
 related: ["petronas", "sarawak-energy-berhad"]
 keywords: ["hydrogen Malaysia", "CCUS Malaysia", "Kasawari CCS", "H2biscus", "H2ornbill", "SEDC Energy", "green ammonia Sarawak", "carbon capture Malaysia"]
+framework: profile
 ---
 
 Frente a la costa de Bintulu, una plataforma del tamaño de un pueblo pequeño extrae ahora el dióxido de carbono del gas natural y lo bombea de vuelta bajo el lecho marino. Unos cientos de kilómetros tierra adentro, los ingenieros diseñan plantas destinadas a enviar la energía hidroeléctrica de Sarawak a Japón y Corea en forma de amoníaco y portadores de hidrógeno. En conjunto, esta es la apuesta de Malasia por que las moléculas de la transición energética —el hidrógeno limpio y el carbono enterrado— puedan convertirse en la próxima industria de exportación después del GNL y el aceite de palma.

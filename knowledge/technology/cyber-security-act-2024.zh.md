@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "pdpa-malaysia" }
 related: []
 keywords: ["Cyber Security Act 2024", "Act 854", "NCII", "NACSA", "cybersecurity licensing Malaysia", "incident reporting Malaysia", "national critical information infrastructure"]
+framework: rules
 ---
 
 多年来，马来西亚依靠借用的工具来应对网络攻击——《电脑犯罪法令》、《通讯与多媒体法令》、以及来自国家银行及其同行的领域通令。这些法律没有一处在同一个地方说明：谁必须保护国家的关键系统、一起入侵事故必须多快通报、乃至谁才被允许出售一次渗透测试。《2024年网络安全法令》做到了。它是马来西亚首部独立的网络安全法律，并将某些网络视同早期法律看待水坝与发电站的方式：作为国家有权监管的国家基础设施。

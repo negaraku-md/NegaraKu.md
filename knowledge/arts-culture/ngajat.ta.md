@@ -76,6 +76,7 @@ relations:
   - { rel: "located-in", to: "sarawak" }
 related: ["gawai-dayak", "sarawak"]
 keywords: ["Ngajat", "tarian Ngajat", "Iban", "Sarawak", "Burung Kenyalang", "enggang", "Hari Gawai", "rumah panjang", "Ngajat Lesong", "Ngajat Indu", "pua kumbu"]
+framework: history-culture
 ---
 
 சரவாக்கில் (Sarawak) ஒரு நீள்வீட்டின் (rumah panjang) கூடத்தில், தலையில் இணுங்கு (enggang) இறகுகளை அணிந்த ஒருவன் தாவி, சுழன்று, தரையை மிதிக்கிறான் — ஒரு கையில் வாள், மற்றொரு கையில் கேடயம். இதுவே **Ngajat** — முன்பு போர்க்களத்திலிருந்து திரும்பும் போர்வீரர்களை வரவேற்ற நடனம்.

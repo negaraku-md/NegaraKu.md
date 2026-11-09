@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
 related: ["companies-act-2016"]
 keywords: ["liabiliti setiausaha syarikat", "kesalahan setiausaha syarikat", "penyata palsu", "seksyen 591", "Akta Syarikat 2016", "pegawai syarikat", "Borang 49"]
+framework: rules
 ---
 
 A single signature on an SSM form can put a company secretary in the dock — not just the company or its directors. A defective document, even signed on the directors' instructions, remains the personal responsibility of the person who filed it.

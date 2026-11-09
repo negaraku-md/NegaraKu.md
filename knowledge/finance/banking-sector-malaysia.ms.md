@@ -92,6 +92,7 @@ relations:
   - { rel: "governs", to: "financial-services-act-2013" }
 related: ["bank-negara-malaysia", "islamic-finance", "digital-banks-malaysia"]
 keywords: ["banking sector Malaysia", "commercial banks Malaysia", "Islamic banks Malaysia", "investment banks Malaysia", "Financial Services Act 2013", "Islamic Financial Services Act 2013", "digital banks Malaysia", "Bank Negara Malaysia"]
+framework: profile
 ---
 
 Buka akaun bank di Kuala Lumpur dan anda telah secara senyap melangkah masuk ke salah satu daripada segelintir negara yang menjalankan dua sistem perbankan lengkap secara seiring — konvensional dan Islam — di bawah satu bank pusat dan dua undang-undang sepadan yang digubal pada tahun yang sama.

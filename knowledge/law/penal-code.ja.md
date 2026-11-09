@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "macc-sprm" }
 related: ["federal-constitution", "court-hierarchy", "macc-sprm"]
 keywords: ["Penal Code", "Act 574", "Malaysia criminal law", "Indian Penal Code", "Criminal Procedure Code Act 593", "Act 846"]
+framework: data-reference
 ---
 
 Act 574について読むほとんどすべての記事は、同じ一文で始まる——刑法典（Penal Code、Act 574）は23章に511条を有する、と。この一文は、その両方の部分が誤りである。

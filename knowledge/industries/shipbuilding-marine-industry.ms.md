@@ -98,6 +98,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Malaysia terletak di dua laluan laut tersibuk dunia dan memperoleh sebahagian besar pendapatannya daripada laut — namun industri pembinaan dan pembaikan kapal (SBSR)-nya ialah salah satu sudut ekonomi nasional yang lebih senyap. Ia nyata, lama bertapak dan penting dari segi strategik, tetapi juga berpecah-pecah, berkitar dan didominasi limbungan yang agak kecil. Panduan ini menerangkan apa yang dibina industri ini, di mana, sebesar mana ia, dan mengapa satu program tentera laut telah membayangi seluruh sektor dalam perdebatan awam.

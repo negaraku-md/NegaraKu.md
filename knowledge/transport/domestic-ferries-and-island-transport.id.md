@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "domestic-flights-and-regional-air-travel" }
 related: []
 keywords: ["Penang ferry", "Langkawi ferry", "Tioman ferry", "island transport Malaysia", "Kuala Kedah", "Kuala Perlis", "northeast monsoon", "Pangkor ferry", "Labuan ferry"]
+framework: explainer
 ---
 
 Tiada satu layanan feri nasional tunggal di Malaysia. Untuk sampai ke sebuah pulau, Anda perlu tahu penyeberangan pendek yang mana, dermaga yang mana dan operator yang mana yang melayaninya — dan, di pantai timur, apakah laut itu buka sama sekali pada bulan tersebut.

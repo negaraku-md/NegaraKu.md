@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: []
 keywords: ["Competition Act 2010", "MyCC", "cartel", "price fixing", "bid rigging", "abuse of dominant position", "Competition Amendment Bill 2026", "قانون المنافسة 2010", "الكارتل", "إساءة استغلال الهيمنة"]
+framework: rules
 ---
 
 الاتفاق مع منافس على إبقاء الأسعار مرتفعة، أو التناوب بهدوء على الفوز بالمناقصات الحكومية، ليس فطنةً تجارية في ماليزيا — بل هو مخالفة للقانون يمكن أن تكلّف الشركة عُشر كل ما تكسبه في العالم.

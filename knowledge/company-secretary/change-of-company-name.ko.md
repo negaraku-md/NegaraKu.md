@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "special-resolution" }
 related: ["companies-act-2016"]
 keywords: ["tukar nama syarikat", "change of company name", "seksyen 28", "ketetapan khas", "SSM CRS", "name reservation"]
+framework: how-to
 ---
 
 회사명 변경은 단순히 서식을 작성하는 일이 아닙니다 — 사원의 특별결의로 시작되어, 말레이시아 기업위원회(SSM)가 새 이름의 등록 통지를 발급할 때에야 비로소 완료됩니다. 그때까지는 옛 이름이 법적으로 여전히 유효합니다.

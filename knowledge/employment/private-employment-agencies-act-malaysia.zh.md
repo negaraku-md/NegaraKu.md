@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["employment-act-1955"]
 keywords: ["agensi pekerjaan swasta", "Akta 246", "lesen headhunting", "carian eksekutif", "JTKSM", "yuran penempatan"]
+framework: rules
 ---
 
 在马来西亚开设一家猎头公司，并在没有执照的情况下开始为雇主匹配候选人，那你就不只是违反程序——你触犯了一项可招致六位数罚款的罪行。任何为雇主安置求职者的业务都受到**《1981年私人就业介绍所法令》（第246号法令，Akta 246）**的规范，并由劳工局（Jabatan Tenaga Kerja）执法。

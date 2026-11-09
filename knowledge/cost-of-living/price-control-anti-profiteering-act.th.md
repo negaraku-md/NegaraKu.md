@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "sales-and-service-tax-sst" }
 related: []
 keywords: ["antipencatutan", "kawalan harga", "untung berlebihan", "Akta 723", "Op Catut", "KPDN", "pencatutan harga"]
+framework: rules
 ---
 
 ขึ้นราคาเพราะต้นทุนขึ้นเป็นเรื่องหนึ่ง ขึ้นราคาเพียงเพื่อกอบโกยกำไรมากกว่าปีที่แล้ว — นั่นอาจนำคุณขึ้นศาลในมาเลเซีย

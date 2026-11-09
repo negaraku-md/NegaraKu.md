@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "klang-valley-integrated-transit-system" }
 related: []
 keywords: ["autobús Rapid KL", "autobús alimentador MRT", "autobús Valle de Klang", "Rapid Bus", "Rapid KL On-Demand", "autobús urbano Kuala Lumpur", "Rapid KL bus", "MRT feeder bus", "Klang Valley bus"]
+framework: explainer
 ---
 
 El tren le lleva a una estación. Rara vez le lleva a casa. Ese hueco — desde el andén del MRT o el LRT hasta su puerta, su parque empresarial o el mercado húmedo a dos barrios de distancia — lo rellena una flota en la que la mayoría de los pasajeros apenas piensan: los autobuses de Rapid KL.

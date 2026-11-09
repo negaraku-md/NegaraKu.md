@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
 related: ["companies-act-2016"]
 keywords: ["responsabilité secrétaire d'entreprise", "liabiliti setiausaha syarikat", "délits secrétaire d'entreprise", "fausse déclaration", "section 591", "Companies Act 2016", "Akta Syarikat 2016", "dirigeant de l'entreprise", "Borang 49"]
+framework: rules
 ---
 
 Une seule signature sur un formulaire de la SSM peut mettre un secrétaire d'entreprise sur le banc des accusés — pas seulement l'entreprise ou ses administrateurs. Un document défectueux, même signé sur instruction des administrateurs, demeure la responsabilité personnelle de celui qui l'a déposé.

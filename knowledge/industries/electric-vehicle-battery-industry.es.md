@@ -94,6 +94,7 @@ keywords:
   - Proton e.MAS
   - Samsung SDI
   - adopción de VE
+framework: profile
 ---
 
 Malasia ha pasado medio siglo construyendo coches. Ahora intenta electrificarlos y, lo que es igual de importante, fabricar las baterías y construir la red de carga de la que dependen los vehículos eléctricos. Esta es una historia distinta de la que se cuenta en la guía de la [industria automotriz de Malasia](/es/industries/automotive-industry/), que trata en gran medida de coches de gasolina y diésel. Aquí el tema es el *ecosistema* de VE y baterías: los vehículos, los incentivos, los cargadores y las fábricas que juntos deciden la rapidez con la que Malasia cambia a la movilidad eléctrica.

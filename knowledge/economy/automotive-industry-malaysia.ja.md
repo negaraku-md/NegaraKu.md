@@ -108,6 +108,7 @@ entity: "Automotive industry of Malaysia"
 relations: []
 related: []
 keywords: ["Malaysia automotive industry", "Proton", "Perodua", "National Automotive Policy", "NAP 2020", "electric vehicles Malaysia", "TIV", "car manufacturing Malaysia", "EV incentives", "CKD"]
+framework: profile
 ---
 
 東南アジアのほとんどの国は、外国の自動車メーカーに自国内での組立を認めるだけで、それ以上のことはしなかった。マレーシアはより大胆で、より異色の道を選んだ——国家自身が自動車を所有すべきだと決めたのである。その賭けから生まれた二つのブランド、Proton と Perodua は、今日でもマレーシアの道路を走る新車の5台に3台以上を占めている。

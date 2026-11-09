@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "vaping-in-malaysia" }
 related: []
 keywords: ["Akta 852", "kawalan rokok", "vape", "tembakau", "nikotin", "umur minimum merokok", "generational endgame", "kawasan larangan merokok"]
+framework: rules
 ---
 
 For the first time, a cigarette and a vape device are subject to the same law in Malaysia — and the ban on selling to teenagers is no longer merely policy, but an offence punishable by thousands of ringgit in fines.

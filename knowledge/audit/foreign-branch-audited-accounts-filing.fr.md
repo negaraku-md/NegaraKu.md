@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "approved-company-auditor-malaysia" }
 related: ["foreign-company-registration-malaysia"]
 keywords: ["société étrangère", "succursale", "comptes audités", "foreign company", "branch", "audited accounts", "SSM", "Companies Act 2016", "section 575"]
+framework: rules
 ---
 
 Ouvrir une succursale en Malaisie ne met pas une société étrangère hors du filet de l'audit — cela l'y attire deux fois. Chaque année, elle doit déposer des comptes audités auprès de la Commission des sociétés de Malaisie (SSM) : une fois pour la société dans son ensemble, et de nouveau, séparément, pour ce que la succursale fait effectivement à l'intérieur de la Malaisie.

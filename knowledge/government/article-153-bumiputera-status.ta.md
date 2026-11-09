@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["federal-constitution", "majlis-raja-raja", "constitutional-amendment", "new-economic-policy", "ma63"]
 keywords: ["Perkara 153", "Article 153", "kedudukan istimewa orang Melayu", "special position of the Malays", "Bumiputera", "anak negeri Sabah Sarawak", "kepentingan sah kaum lain", "perkadaran yang munasabah", "kuota Perlembagaan Malaysia", "Perkara 153 Perlembagaan Persekutuan", "takrif orang Melayu Perkara 160"]
+framework: explainer
 ---
 
 பலர் சரத்து 153-ஐ மேற்கோள் காட்டுகிறார்கள், ஆனால் அதன் பத்திகளை உண்மையில் படித்தவர்கள் மிகக் குறைவே. சிலர் அதை "மலாய் சிறப்புரிமை" என்கிறார்கள், சிலர் அதை "ஒதுக்கீடு" என்கிறார்கள், சிலர் அதை "பாகுபாடு" என்கிறார்கள் — ஆனால் அந்தச் சரத்தின் உண்மையான உரை இந்தச் சொற்கள் எதையும் பயன்படுத்தவில்லை. அது ஒரு பொறுப்பை நிர்ணயிக்கிறது, சில வரம்புகளை வகுக்கிறது, மேலும் — அரிதாகவே குறிப்பிடப்படும் ஒரு விஷயம் — ஒரே நேரத்தில் பாதுகாக்கப்பட வேண்டிய இரண்டு குழுக்களைப் பெயரிடுகிறது.

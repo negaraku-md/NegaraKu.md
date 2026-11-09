@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["CCRIS", "CTOS", "credit report Malaysia", "credit score", "Credit Reporting Agencies Act 2010", "RAM Credit Information RAMCI", "credit rating Malaysia"]
+framework: explainer
 ---
 
 ஒரேயொரு தவறவிடப்பட்ட தவணை (instalment) பல ஆண்டுகளாக அமைதியாக உங்களைப் பின்தொடரலாம் — மேலும் பெரும்பாலான மலேசியர்கள், ஒரு வங்கி கடனுக்கு ஆம் அல்லது இல்லை என்று சொல்வதற்கு முன் திறக்கும் அந்தக் கோப்பை உண்மையில் ஒருபோதும் படித்ததில்லை.

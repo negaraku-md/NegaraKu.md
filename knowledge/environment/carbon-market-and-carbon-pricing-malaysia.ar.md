@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "malaysia-net-zero-2050" }
 related: ["bursa-malaysia"]
 keywords: ["سوق الكربون ماليزيا", "carbon market Malaysia", "تسعير الكربون", "ضريبة الكربون", "carbon tax Malaysia", "Bursa Carbon Exchange", "National Carbon Market Policy", "أرصدة الكربون", "نظام تداول الانبعاثات", "CCUS Act 2025"]
+framework: explainer
 ---
 
 تبني ماليزيا البنية الأساسية لسوق كربون قبل أن تقرر فرض رسوم على أي ملوِّث. فاليوم يمكنك بالفعل شراء أرصدة الكربون وبيعها في بورصة وطنية — لكن الضرائب وقواعد التداول التي ستُلزم كبار المنبعثين بالدفع لا تزال قيد الصياغة.

@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-economic-policy" }
 related: ["islamic-finance", "external-trade", "bumiputera-economic-policy"]
 keywords: ["halal industry", "halal economy", "HALMAS halal park", "Halal Development Corporation", "HDC", "Halal Industry Master Plan 2030", "halal exports", "global halal hub"]
+framework: profile
 ---
 
 A halal logo on a packet of instant noodles is where most people think the story ends. In Malaysia, it is closer to where the story begins. Behind that mark sits a deliberate, decades-long attempt to turn "halal" from a religious assurance into an export industry — with industrial parks, tax breaks, financing and a national master plan attached.

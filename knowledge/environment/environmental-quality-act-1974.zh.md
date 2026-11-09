@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "manufacturing-licence-malaysia" }
 related: ["manufacturing-licence-malaysia"]
 keywords: ["Environmental Quality Act 1974", "Act 127", "Act A1712", "Department of Environment", "EIA Malaysia", "prescribed premises", "environmental penalties Malaysia", "open burning Malaysia", "scheduled waste"]
+framework: rules
 ---
 
 在马来西亚，如今一次向河流的排污就可能让一家公司付出高达1,000万令吉的代价，并让责任人身陷囹圄——而且与以往不同，法官不再有酌情权只判处罚款。这一转变于2024年7月7日生效，是马来西亚半个世纪以来环境法律最剧烈的变动，而它坐落于一部大多数营运者自1974年以来一直悄然与之共处的法规之内。

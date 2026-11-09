@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["register-of-members"]
 keywords: ["كبير المساهمين", "سجل كبار المساهمين", "substantial shareholder", "register of substantial shareholders", "5% أسهم التصويت", "5% voting shares", "المادة 144 قانون الشركات 2016", "section 144 Companies Act 2016", "إخطار المادة 137", "section 137 notification", "SSM", "الشركة العامة", "الإفصاح عن المساهمة"]
+framework: rules
 ---
 
 ما إن تتجاوز 5% من الأسهم ذات حق التصويت في شركة عامة حتى تكفّ عن كونك مستثمرًا مجهول الهوية: فالقانون يريد الآن اسمك في سجل خاص — وتبدأ الساعة بالدقّ بالأيام، لا بالأسابيع.

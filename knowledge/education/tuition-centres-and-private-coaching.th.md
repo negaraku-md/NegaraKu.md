@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "national-education-system" }
 related: []
 keywords: ["pusat tuisyen", "tuition centre", "bimbingan persendirian", "Akta Pendidikan 1996", "pendaftaran IPS", "permit mengajar", "JPN"]
+framework: rules
 ---
 
 ในครอบครัวมาเลเซียจำนวนมาก ชั้นเรียนกวดวิชาหลังเลิกเรียนกลายเป็นกิจวัตรปกติเหมือนการบ้าน — แต่ศูนย์ทุกแห่งที่เปิดขึ้นแท้จริงแล้วผูกพันกับกฎหมายการศึกษาเดียวกัน

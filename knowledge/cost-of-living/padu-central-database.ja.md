@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "str-sumbangan-tunai-rahmah" }
 related: []
 keywords: ["PADU", "Pangkalan Data Utama", "subsidi bersasar", "padu.gov.my", "Kementerian Ekonomi", "DOSM"]
+framework: explainer
 ---
 
 包括的な補助金をより対象を絞った援助へと転換するには、政府は国民の社会経済状況を把握する必要がある。PADUは、その目的のために構築されたデータベースである。

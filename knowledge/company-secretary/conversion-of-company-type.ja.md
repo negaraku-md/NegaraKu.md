@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "special-resolution" }
 related: ["companies-act-2016"]
 keywords: ["penukaran status syarikat", "sdn bhd kepada berhad", "syarikat awam", "syarikat sendirian", "seksyen 41 akta syarikat 2016", "resolusi khas", "SSM"]
+framework: how-to
 ---
 
 *Sendirian Berhad*（私会社）として始まった会社が、その身分に永久に縛られるわけではない。事業が一般公衆から資金を調達しよう、あるいは株式を上場しようと志すとき、その会社は公開会社（*Berhad*）へと変更することができる——そして逆方向の道も同様に開かれている。鍵となるのは、一つの特別決議と、SSMへの一件の提出である。

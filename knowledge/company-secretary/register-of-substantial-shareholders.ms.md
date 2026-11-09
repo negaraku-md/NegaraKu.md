@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["register-of-members"]
 keywords: ["substantial shareholder", "register of substantial shareholders", "5% voting shares", "section 144 Companies Act 2016", "section 137 notification", "SSM", "public company", "shareholding disclosure"]
+framework: rules
 ---
 
 Lepasi 5% saham berhak undi sesebuah syarikat awam dan anda berhenti menjadi pelabur tanpa nama: undang-undang kini mahukan nama anda pada daftar khas — dan jam mula berdetik dalam beberapa hari, bukan beberapa minggu.

@@ -99,6 +99,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 マレーシア人が「メディア」について話すとき、たいていはいくつかのなじみの名前のどれかを指している。家の横に取り付けられたAstroの衛星アンテナ、TV3のニュース速報、通勤中の朝のラジオ番組、あるいは――ますます――通勤中にスマホで再生されている何か、である。こうした日々の接点は、ひとつの広大な産業に属している。メディア・放送だ。それは国内でより目に見えるサービス部門の一つであり、同時に最も揺さぶられている部門の一つでもある。

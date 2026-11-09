@@ -101,6 +101,7 @@ entity: "Service Tax Act 2018 (Act 807)"
 relations: []
 related: []
 keywords: ["Service Tax Act 2018", "Act 807", "service tax Malaysia", "SST", "service tax rate", "8% service tax", "6% service tax", "SST registration threshold", "SST-02", "taxable services", "service tax scope expansion 2025", "Royal Malaysian Customs Department", "MySST", "imported taxable services", "digital service tax Malaysia"]
+framework: rules
 ---
 
 மலேசியாவில் ஒவ்வொரு உணவகப் பில், தொலைபேசித் திட்டம் மற்றும் வாகன நிறுத்த ரசீதிலும் பெரும்பாலானோர் ஒருபோதும் கூர்ந்து படிக்காத ஒரு வரி இருக்கிறது — அதுதான் சேவை வரி. அதற்குப் பின்னால் உள்ள சட்டம் **Service Tax Act 2018 (Act 807)**, குறிப்பிடப்பட்ட வரிவிதிக்கத்தக்க சேவைகளுக்கு சேவை வரியை விதித்து, சுமத்தி, வசூலிப்பதற்கு வழிவகுக்கும் ஒரு சட்டம். இது **2018 செப்டம்பர் 1** அன்று நடைமுறைக்கு வந்து, **அரச மலேசிய சுங்கத் துறையால் (Royal Malaysian Customs Department, RMCD)** நிர்வகிக்கப்படுகிறது. நிறுவனங்களின் “SST update” பக்கங்கள் அந்த ஆண்டில் தற்செயலாக அமையும் வரி விகிதத்தை மட்டுமே படம்பிடித்துக் காட்டி விரைவில் காலாவதியாகின்றன; இந்த விளக்கம் Act 807 ஐ ஒரு உயிருள்ள சட்டமாகக் கருதுகிறது — அதன் இயங்குமுறை, மற்றும் ஒவ்வொரு வரி விகித மற்றும் வரம்பு மாற்றத்தையும் பதிவுசெய்யும் ஒரே தேதியிட்ட காலவரிசை.

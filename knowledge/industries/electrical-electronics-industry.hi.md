@@ -97,6 +97,7 @@ relations:
   - { rel: "administered-by", to: "mida" }
 related: ["penang", "mida"]
 keywords: ["E&E उद्योग", "E&E industry", "विद्युत और इलेक्ट्रॉनिक्स", "electrical and electronics", "मलेशिया विनिर्माण", "Malaysia manufacturing", "पेनांग इलेक्ट्रॉनिक्स", "Penang electronics", "सेमीकंडक्टर", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
+framework: profile
 ---
 
 पिछले दशक में बना लगभग कोई भी लैपटॉप, स्मार्टफ़ोन या कार खोलिए और एक अच्छी संभावना है कि उसका कोई हिस्सा मलेशिया से होकर गुज़रा हो। अंदर की चिप शायद पेनांग (Penang) में परखी और पैक की गई हो; पावर एडॉप्टर, LED बैकलाइट या सर्किट बोर्ड कुलिम, मेलाका या क्लांग वैली में असेंबल हुआ हो सकता है। लगभग 3.41 करोड़ (34.1 मिलियन) लोगों (2024, DOSM) के देश के लिए, मलेशिया दुनिया की इलेक्ट्रॉनिक्स आपूर्ति-शृंखला में आश्चर्यजनक रूप से केंद्रीय स्थान पर बैठता है — और यह लगभग पूरी तरह एक ही उद्योग की कहानी है।

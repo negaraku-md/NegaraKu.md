@@ -81,6 +81,7 @@ relations:
   - { rel: "explained-in", to: "company-tax-calendar" }
 related: ["lhdn", "corporate-tax-rates", "personal-tax-rates", "which-tax-form", "form-c-and-cp204"]
 keywords: ["Income Tax Act 1967", "Act 53", "Akta Cukai Pendapatan 1967", "Malaysia tax statute", "LHDN legislation"]
+framework: data-reference
 ---
 
 หน้านี้เป็นบันทึกกฎหมายสำหรับ Act 53 — อัตลักษณ์ โครงสร้าง การบริหาร และรูปแบบการแก้ไขของมัน มันไม่มีอัตรา การลดหย่อน หรือเส้นตาย เพราะสิ่งเหล่านั้นเปลี่ยนเร็วกว่าที่หน้ากฎหมายใด ๆ จะติดตามได้อย่างซื่อสัตย์ สิ่งเหล่านั้นอยู่ในกลุ่มภาษีที่เชื่อมโยงไว้ที่ท้ายหน้านี้

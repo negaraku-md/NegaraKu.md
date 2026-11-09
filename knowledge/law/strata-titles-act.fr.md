@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "house-buyers-act" }
 related: ["national-land-code"]
 keywords: ["loi sur les titres stratifiés", "loi sur la gestion des strates 2013", "Strata Titles Act", "Strata Management Act 2013", "JMB", "organe de gestion conjointe", "corporation de gestion", "charges d'entretien", "sinking fund", "tribunal de gestion des strates", "COB"]
+framework: explainer
 ---
 
 Acheter un condominium signifie que vous êtes propriétaire de votre propre « lot » (parcel) — mais vous partagez les ascenseurs, la piscine, les couloirs et le toit avec des centaines de voisins. Deux lois déterminent qui possède quoi, et qui paie pour entretenir cet espace partagé.

@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "bahasa-melayu" }
 related: ["bahasa-melayu", "mak-yong"]
 keywords: ["मलेशियाई फ़िल्म उद्योग", "मलेशियाई सिनेमा", "industri filem Malaysia", "P. Ramlee", "FINAS", "Malay Film Productions", "Jalan Ampas", "Mat Kilau", "Tiger Stripes", "Da Huang Pictures", "Malaysian New Wave"]
+framework: profile
 ---
 
 1955 में, सिंगापुर के नं. 8 जालान अंपस (Jalan Ampas) स्थित एक स्टूडियो में कभी क्लैपर-बॉय और सहायक कैमरामैन रहा एक युवक, 26 वर्ष की आयु में पहली बार निर्देशक की कुर्सी पर बैठा। फ़िल्म थी *Penarek Becha*। उसका नाम था पी. रामली (P. Ramlee)। मलेशियाई फ़िल्म उद्योग की कहानी कुआलालंपुर में नहीं, बल्कि शंघाई के दो भाइयों के स्वामित्व वाले एक सिंगापुरी स्टूडियो में शुरू होती है — और तब से यह गतिमान ही रही है।

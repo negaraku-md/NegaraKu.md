@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "malaysian-court-system" }
 related: []
 keywords: ["bantuan guaman", "legal aid", "JBG", "YBGK", "Majlis Peguam", "ujian kemampuan", "peguam percuma"]
+framework: how-to
 ---
 
 소환장, 이혼 또는 청구에 직면하였으나 변호사를 선임할 여력이 없습니까? 여러분은 법정에 혼자 맞설 필요가 없습니다. 말레이시아의 세 기관이 저소득층을 위한 무료 또는 보조 법률 서비스를 제공합니다.

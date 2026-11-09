@@ -82,6 +82,7 @@ relations:
   - { rel: "compares-with", to: "arbitration-vs-litigation-malaysia" }
 related: ["arbitration-vs-litigation-malaysia", "contracts-act-malaysia"]
 keywords: ["CIPAA", "adjudicación en construcción", "construction adjudication", "AIAC", "reclamación de pago", "payment claim", "Act A1738", "disputas de construcción Malasia"]
+framework: explainer
 ---
 
 Un subcontratista que lleva seis meses sin cobrar no tiene que esperar años a una fecha en los tribunales. Bajo CIPAA puede llevar la disputa a una decisión vinculante en cuestión de semanas, y el reloj es implacable con ambas partes.

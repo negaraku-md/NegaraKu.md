@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "domestic-flights-and-regional-air-travel" }
 related: []
 keywords: ["Penang ferry", "Langkawi ferry", "Tioman ferry", "island transport Malaysia", "Kuala Kedah", "Kuala Perlis", "northeast monsoon", "Pangkor ferry", "Labuan ferry"]
+framework: explainer
 ---
 
 மலேசியாவில் ஒரே தேசிய படகுச் (ferry) சேவை நிறுவனம் எதுவும் இல்லை. ஒரு தீவை அடைவது என்பது எந்தக் குறுகிய கடப்பு, எந்த முனையம் (jetty) மற்றும் எந்த இயக்குநர் அதற்குச் சேவை செய்கிறார் என்பதை அறிவதைக் குறிக்கிறது — மேலும், கிழக்குக் கடற்கரையில், அந்த மாதத்தில் கடல் திறந்திருக்கிறதா என்பதையும்.

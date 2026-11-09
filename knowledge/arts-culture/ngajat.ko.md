@@ -76,6 +76,7 @@ relations:
   - { rel: "located-in", to: "sarawak" }
 related: ["gawai-dayak", "sarawak"]
 keywords: ["Ngajat", "tarian Ngajat", "Iban", "Sarawak", "Burung Kenyalang", "enggang", "Hari Gawai", "rumah panjang", "Ngajat Lesong", "Ngajat Indu", "pua kumbu"]
+framework: history-culture
 ---
 
 사라왁의 한 롱하우스 회랑에서, 머리에 무소뿔새 깃털을 단 한 남자가 뛰어오르고 돌며 바닥을 구릅니다 — 한 손에는 칼, 다른 손에는 방패를 들고 말입니다. 그것이 바로 **응아잣**, 예전에 전장에서 돌아오는 전사를 맞이하던 춤입니다.

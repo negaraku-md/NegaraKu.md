@@ -98,6 +98,7 @@ keywords:
   - sertifikasi halal JAKIM
   - Food Act 1983
   - insentif makanan MIDA
+framework: profile
 ---
 
 Hampir semua orang di Malaysia bersentuhan dengan industri ini beberapa kali sehari — secangkir Milo saat sarapan, sebungkus mi instan saat makan siang, sebotol air mineral di sore hari, sebatang cokelat yang dibuat dari kakao yang digiling di Johor. Manufaktur makanan & minuman (F&B) adalah salah satu industri besar Malaysia yang paling senyap: kurang glamor dibanding semikonduktor, tetapi terjalin dalam ke kehidupan sehari-hari, ketahanan pangan nasional, dan kisah ekspor yang tumbuh di seputar satu gagasan kuat — halal.

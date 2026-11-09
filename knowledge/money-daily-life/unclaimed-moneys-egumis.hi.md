@@ -67,6 +67,7 @@ relations:
   - { rel: "governs", to: "unclaimed-moneys-act-1965" }
 related: []
 keywords: ["बिना दावे वाला धन", "eGUMIS", "निष्क्रिय धन", "महालेखाकार विभाग", "wang tak dituntut", "unclaimed moneys", "Akta Wang Tak Dituntut 1965", "Jabatan Akauntan Negara", "JANM", "wang dorman", "bayaran balik"]
+framework: how-to
 ---
 
 आपका धन एक सरकारी डेटाबेस में आपकी जानकारी के बिना ही आपका इंतज़ार कर रहा हो सकता है — ऐसे लाभांश जिनका दावा करने का आपको कभी समय नहीं मिला, किसी पुराने बैंक खाते का शेष, या कोई बीमा भुगतान जो आप तक कभी पहुँचा ही नहीं। यह सब एक ही आधिकारिक नाम के अंतर्गत जमा होता जाता है: बिना दावे वाला धन (UM)।

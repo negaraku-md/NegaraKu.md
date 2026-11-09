@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malay-rulers-and-state-monarchies" }
 related: ["federal-constitution"]
 keywords: ["Yang di-Pertuan Agong", "Majlis Raja-Raja", "Conferencia de Gobernantes", "artículo 32", "artículo 38", "monarquía constitucional", "Jefe de Estado"]
+framework: explainer
 ---
 
 Malasia figura entre los pocos países del mundo cuyo monarca se elige de forma rotatoria, en lugar de heredarse uno tras otro desde un único linaje. Cada cinco años, los nueve Gobernantes malayos se reúnen para determinar quién de entre ellos ocupará el trono Federal como Yang di-Pertuan Agong. Este sistema, junto con la institución que lo gestiona —la Conferencia de Gobernantes—, constituye el núcleo de la monarquía constitucional del país.

@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "minimum-wage-malaysia" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["deducción salarial", "Artículo 24", "Ley de Empleo de 1955", "salary deduction", "Section 24", "Employment Act 1955", "salario pagado en exceso", "Director General de Trabajo"]
+framework: rules
 ---
 
 Tu recibo de salario es inferior al monto que esperabas, y el motivo dado es «política de la empresa». Pero un empleador no puede deducir salario a voluntad: la Ley de Empleo de 1955 establece una lista cerrada de deducciones lícitas — cualquier cosa fuera de esa lista no está permitida.

@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "petroleum-income-tax" }
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["मलेशिया तेल और गैस", "oil and gas Malaysia", "PETRONAS", "उत्पादन-साझेदारी अनुबंध", "production sharing contract", "PSC", "Petroleum Development Act 1974", "Malaysia Petroleum Management", "अपस्ट्रीम", "upstream", "डाउनस्ट्रीम", "downstream", "LNG", "पेट्रोलियम आय कर", "petroleum income tax"]
+framework: profile
 ---
 
 मलेशियाई धरती और समुद्र-तल के नीचे तेल का हर बैरल और गैस का हर घन फुट, क़ानून के अनुसार, एक ही कंपनी का है। सीधे राज्य का नहीं, न क्षेत्रों के खोजकर्ताओं का, न उन बहुराष्ट्रीय कंपनियों का जो उन्हें खोदती हैं — बल्कि PETRONAS का, वह राष्ट्रीय तेल कंपनी जो राष्ट्र के पेट्रोलियम को न्यास में रखने के लिए बनाई गई। उस एक तथ्य को समझ लीजिए और मलेशिया के तेल और गैस उद्योग का बाक़ी सब कुछ — उसका विनियमन, वित्तपोषण, कराधान और बँटवारा कैसे होता है — जगह पर बैठ जाता है।

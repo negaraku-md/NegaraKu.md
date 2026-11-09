@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "orang-asal-indigenous-peoples" }
 related: []
 keywords: ["native customary rights", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "logging disputes", "native title"]
+framework: explainer
 ---
 
 ஒரு நீள்வீடு (longhouse) சமூகம், ஒரு பரப்பளவு காடு தலைமுறைகளாகத் தமக்குச் சொந்தமானது என்று கூறுகிறது. ஒரு மரம் வெட்டு அல்லது தோட்ட நிறுவனம், அதே நிலப்பரப்பை உள்ளடக்கிய, மாநிலத்தால் வழங்கப்பட்ட உரிமம் ஒன்றை வைத்திருக்கிறது. இருசாராரும் சட்டத்தைச் சுட்டிக்காட்டுகிறார்கள். சரவாக் (Sarawak) மற்றும் சபா (Sabah) மாநிலங்களில், அந்த மோதல் இரண்டு தசாப்தங்களுக்கும் மேலாக நீதிமன்ற அறைகளில் வாதிடப்பட்டு வருகிறது — எல்லைக்கோடு எங்கு விழுகிறது என்பதில் நீதிமன்றங்கள் எப்போதும் ஒருமித்த கருத்துடன் இருந்ததில்லை.

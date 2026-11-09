@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "manufacturing-licence-malaysia" }
 related: ["manufacturing-licence-malaysia"]
 keywords: ["Environmental Quality Act 1974", "Act 127", "Act A1712", "Department of Environment", "EIA Malaysia", "prescribed premises", "environmental penalties Malaysia", "open burning Malaysia", "scheduled waste"]
+framework: rules
 ---
 
 Một sự cố tràn duy nhất vào một dòng sông ở Malaysia nay có thể khiến một công ty tốn đến RM10 triệu và đưa người chịu trách nhiệm vào tù — và khác với trước đây, thẩm phán không còn quyền tự quyết đưa ra một khoản phạt tiền đơn thuần. Sự thay đổi đó, có hiệu lực từ ngày 7 tháng 7 năm 2024, là thay đổi sắc bén nhất đối với luật môi trường của Malaysia trong nửa thế kỷ, và nó nằm bên trong một đạo luật mà hầu hết các đơn vị vận hành đã sống chung một cách lặng lẽ kể từ năm 1974.

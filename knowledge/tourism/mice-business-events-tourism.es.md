@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
 related: ["penang-george-town-visitor-guide", "tourist-safety-health-practical-tips"]
 keywords: ["MICE Malaysia", "business events", "MyCEB", "convention bureau", "KLCC", "MITEC", "Borneo Convention Centre Kuching", "exhibitions"]
+framework: profile
 ---
 
 Cuando 3,2 millones de delegados llegan en avión a una conferencia, reservan hoteles, contratan traductores, llenan restaurantes y cierran acuerdos, y Malasia ha dedicado más de una década a construir los recintos y la oficina para captarlos.

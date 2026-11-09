@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "cp204b-change-of-accounting-period" }
 related: ["financial-statements-lodgement", "companies-act-2016"]
 keywords: ["tahun kewangan", "FYE", "financial year end", "SSM", "Akta Syarikat 2016", "CP204B", "penyata kewangan"]
+framework: how-to
 ---
 
 กรรมการหลายคนเข้าใจว่าการเปลี่ยนรอบปีบัญชีของบริษัทต้องส่งแบบฟอร์มพิเศษไปยัง SSM — แต่ที่จริง Companies Act 2016 ไม่ได้กล่าวถึงแบบฟอร์มเช่นนั้นเลย

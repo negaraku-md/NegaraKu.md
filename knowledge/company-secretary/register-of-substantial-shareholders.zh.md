@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "register-of-members" }
 related: ["register-of-members"]
 keywords: ["substantial shareholder", "register of substantial shareholders", "5% voting shares", "section 144 Companies Act 2016", "section 137 notification", "SSM", "public company", "shareholding disclosure"]
+framework: rules
 ---
 
 一旦跨过公众公司表决权股份的5%门槛，你就不再是匿名投资者：法律现在要把你的名字列入一份特别名册——而且计时开始，以天计，而非以周计。

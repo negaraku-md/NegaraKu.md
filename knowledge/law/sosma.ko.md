@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "court-hierarchy" }
 related: ["penal-code", "federal-constitution", "fundamental-liberties", "court-hierarchy"]
 keywords: ["SOSMA", "Security Offences Special Measures Act 2012", "Act 747", "security offence Malaysia", "28-day detention", "First Schedule Penal Code Chapter VI VIA", "protected witness"]
+framework: explainer
 ---
 
 SOSMA는 어떤 범죄도 창설하지 아니합니다. Act 747을 열어 그것이 처벌하는 범죄를 찾으려 해도 하나도 발견하지 못할 것입니다 — 그것이 다루는 모든 범죄는 다른 곳에서, 주로 형법전(Penal Code)에서 정의됩니다. 이 법이 제공하는 것은 일련의 *절차*입니다. 즉 어떤 사람이 어떻게 체포·구금될 수 있는지, 통신이 어떻게 감청될 수 있는지, 보석이 어떻게 결정되는지, 재판이 어디에서 열리는지, 그리고 사건이 **보안 범죄**로 취급된 후 증거와 증인이 어떻게 다루어지는지입니다.

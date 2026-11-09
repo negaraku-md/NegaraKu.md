@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "healthcare-system-overview" }
 related: []
 keywords: ["pendaftaran doktor", "MMC", "MeRITS", "APC", "Lembaga Jururawat Malaysia", "Lembaga Farmasi Malaysia", "MAHPC", "Akta Profesion Kesihatan Bersekutu 2016", "fisioterapi"]
+framework: how-to
 ---
 
 白衣をまとい、診療所の壁に証書を掛け、自らを「医師」と名乗ることは誰にでもできる——しかし、その資格を本当に裏付けるものはただ一つ、その名前が公式の登録簿に存在することだけである。マレーシアでは、すべての医師、看護師、薬剤師、理学療法士は、それぞれの専門職を規制する監督機関に登録しなければならない。朗報は、これを自分自身で、無料で確認できることである。

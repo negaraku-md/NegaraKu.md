@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["buying-a-home-process", "federal-constitution", "companies-act-2016"]
 keywords: ["National Land Code", "Act 828", "Act 56 of 1965", "Torrens system Malaysia", "land title registration", "indefeasibility of title section 340", "Sabah Land Ordinance", "Sarawak Land Code", "Peninsular Malaysia land law"]
+framework: explainer
 ---
 
 ขอให้ทนายความในกูจิง (Kuching) ตรวจสอบโฉนดที่ดินปีนังกับประมวลกฎหมายที่ดินแห่งชาติ แล้วคำตอบที่ซื่อสัตย์คือ: มันไม่ใช้บังคับที่นั่น ข้อเท็จจริงเดียวนั้น — ว่ามาเลเซียดำเนินตามกฎหมายที่ดินสามฉบับแยกกัน ไม่ใช่หนึ่งฉบับ — คือส่วนที่บทสรุปส่วนใหญ่ข้ามไป

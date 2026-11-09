@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "str-sumbangan-tunai-rahmah" }
 related: []
 keywords: ["PADU", "Pangkalan Data Utama", "subsidi bersasar", "padu.gov.my", "Kementerian Ekonomi", "DOSM"]
+framework: explainer
 ---
 
 เพื่อเปลี่ยนเงินอุดหนุนแบบครอบคลุมทั้งหมดไปสู่ความช่วยเหลือที่มีเป้าหมายมากขึ้น รัฐบาลจำเป็นต้องรู้สภาพเศรษฐกิจสังคมของประชาชน PADU คือฐานข้อมูลที่สร้างขึ้นเพื่อจุดประสงค์นั้น

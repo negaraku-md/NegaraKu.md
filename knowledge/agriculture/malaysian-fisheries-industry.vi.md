@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "mmea" }
 related: []
 keywords: ["industri perikanan malaysia", "pengeluaran ikan malaysia", "akuakultur malaysia", "lkim nelayan", "jabatan perikanan malaysia", "akta perikanan 1985", "pencerobohan bot nelayan asing", "iuu fishing malaysia"]
+framework: profile
 ---
 
 Trước bình minh tại các bến dọc Eo biển Malacca và Biển Đông, hàng nghìn tàu cá ven bờ ra khơi để cung cấp gần chín phần mười lượng cá mà cả nước tiêu thụ. Cùng lúc đó, ở những vùng biển xa hơn, các tàu lưới kéo không mang cờ Malaysia kéo lưới của họ băng qua những ranh giới mà mắt thường không thấy được.

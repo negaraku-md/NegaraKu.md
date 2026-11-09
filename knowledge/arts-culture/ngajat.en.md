@@ -76,6 +76,7 @@ relations:
   - { rel: "located-in", to: "sarawak" }
 related: ["gawai-dayak", "sarawak"]
 keywords: ["Ngajat", "tarian Ngajat", "Iban", "Sarawak", "Burung Kenyalang", "enggang", "Hari Gawai", "rumah panjang", "Ngajat Lesong", "Ngajat Indu", "pua kumbu"]
+framework: history-culture
 ---
 
 In the gallery of a longhouse in Sarawak, a man with hornbill feathers on his head leaps, spins and stamps the floor — a sword in one hand, a shield in the other. This is **Ngajat**, the dance that once welcomed warriors home from the battlefield.

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "freedom-of-information-malaysia" }
 related: []
 keywords: ["Akta Rahsia Rasmi 1972", "Official Secrets Act", "Akta 88", "rahsia rasmi", "pengelasan dokumen", "seksyen 16A", "keselamatan negara", "kebebasan media", "OSA Malaysia"]
+framework: rules
 ---
 
 A journalist who receives a copy of Cabinet minutes, a researcher who takes measurements near a military camp, and an officer who keeps a file marked "Confidential" — all three can be caught by the same law. The Official Secrets Act 1972, or Act 88, is the backbone of Malaysia's official secrecy system, and its scope reaches far beyond matters of espionage.

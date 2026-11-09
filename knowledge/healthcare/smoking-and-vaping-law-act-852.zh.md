@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "vaping-in-malaysia" }
 related: []
 keywords: ["Akta 852", "kawalan rokok", "vape", "tembakau", "nikotin", "umur minimum merokok", "generational endgame", "kawasan larangan merokok"]
+framework: rules
 ---
 
 在马来西亚，一支香烟和一台电子烟设备首次受到同一部法律的规范——而向青少年销售的禁令也不再只是政策，而是可被罚款数千令吉的罪行。

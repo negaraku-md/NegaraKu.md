@@ -86,6 +86,7 @@ relations:
   - { rel: "part-of", to: "malaysia-energy-transition" }
 related: ["petronas", "sarawak-energy-berhad"]
 keywords: ["hydrogen Malaysia", "CCUS Malaysia", "Kasawari CCS", "H2biscus", "H2ornbill", "SEDC Energy", "green ammonia Sarawak", "carbon capture Malaysia"]
+framework: profile
 ---
 
 빈툴루 앞바다에서, 작은 도시만 한 크기의 플랫폼이 이제 천연가스에서 이산화탄소를 걸러내 해저 아래로 다시 밀어 넣습니다. 수백 킬로미터 내륙에서는 엔지니어들이 사라왁의 수력 전력을 암모니아와 수소 운반체 형태로 일본과 한국에 실어 보내려는 공장을 설계하고 있습니다. 이 둘을 합치면, 에너지 전환의 분자 — 청정수소와 묻힌 탄소 — 가 LNG와 팜유에 이은 다음 수출 산업이 될 수 있다는 말레이시아의 베팅입니다.

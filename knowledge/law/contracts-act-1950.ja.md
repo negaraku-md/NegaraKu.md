@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["federal-constitution", "court-hierarchy", "civil-and-syariah-courts", "companies-act-2016", "employment-act-1955"]
 keywords: ["Contracts Act 1950", "Act 136", "Malaysia contract law", "offer and acceptance Malaysia", "section 10 Contracts Act", "consideration Malaysia law"]
+framework: data-reference
 ---
 
 賃貸借契約、雇用契約書、割賦販売契約、WhatsAppで成立した中古車の売買――そのすべて

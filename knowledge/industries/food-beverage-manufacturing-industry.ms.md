@@ -98,6 +98,7 @@ keywords:
   - pensijilan halal JAKIM
   - Akta Makanan 1983
   - insentif makanan MIDA
+framework: profile
 ---
 
 Hampir semua orang di Malaysia menyentuh industri ini beberapa kali sehari — secawan Milo waktu sarapan, sebungkus mi segera waktu makan tengah hari, sebotol air mineral pada waktu petang, sebuku coklat yang dibuat daripada koko yang dikisar di Johor. Pembuatan makanan & minuman (F&B) ialah salah satu industri besar Malaysia yang paling senyap: kurang menarik berbanding semikonduktor, tetapi terjalin dalam kehidupan harian, keselamatan makanan negara dan kisah eksport yang berkembang berpaksikan satu idea yang hebat — halal.

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "road-tax-renewal-malaysia" }
 related: ["road-tax-renewal"]
 keywords: ["puspakom", "pemeriksaan berkala", "kenderaan komersial", "e-hailing", "cukai jalan", "akta pengangkutan jalan 1987"]
+framework: rules
 ---
 
 如果你拥有罗里、货车、德士或电召车，Puspakom 的六个月检验日历其实就是你的路税日历——没有有效的检验盖章，JPJ 根本不会让你更新车辆执照。

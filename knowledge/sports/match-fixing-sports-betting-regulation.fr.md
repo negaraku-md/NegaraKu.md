@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "macc-anti-corruption-malaysia" }
 related: []
 keywords: ["pengaturan perlawanan", "match-fixing", "pertaruhan sukan", "Akta Rumah Judi Terbuka 1953", "Akta Pertaruhan 1953", "SPRM", "integriti sukan", "bola sepak Malaysia"]
+framework: explainer
 ---
 
 Lorsque plus de 100 footballeurs ont été raflés par la police au cours de la saison 1993-1994, ce ne fut pas simplement une crise sportive — cela ouvrit une question juridique qui demeure aujourd'hui non entièrement résolue : comment un pays qui interdit presque tous les paris sportifs traite-t-il un crime né de ces mêmes paris ?

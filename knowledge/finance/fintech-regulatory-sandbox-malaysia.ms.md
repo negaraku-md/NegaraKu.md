@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "securities-commission-malaysia" }
 related: ["bank-negara-malaysia", "securities-commission-malaysia"]
 keywords: ["regulatory sandbox", "fintech Malaysia", "BNM sandbox", "Innovation Green Lane", "SC sandbox", "FTEG", "capital market fintech"]
+framework: explainer
 ---
 
 Bina sebuah aplikasi pembayaran baharu atau platform sekuriti bertoken di Malaysia, dan anda akan berdepan dengan dinding yang sama: peraturan ditulis sebelum idea anda wujud. Sandbox kawal selia ialah pintu menembusi dinding itu — ruang yang diselia untuk menguji produk secara langsung sebelum anda memegang lesen penuh. Malaysia mempunyai dua daripadanya, dan yang mana satu anda ketuk bergantung pada apa yang anda bina.

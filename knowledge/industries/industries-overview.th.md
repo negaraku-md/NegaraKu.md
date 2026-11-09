@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "industries-tourism" }
 related: []
 keywords: ["Malaysia industries", "Malaysia economy sectors", "Malaysia GDP by sector", "Malaysia exports", "electrical and electronics Malaysia", "palm oil", "Malaysia manufacturing", "services sector Malaysia"]
+framework: explainer
 ---
 
 ตามรอยผลิตภัณฑ์เกือบทุกชิ้นในอุปกรณ์ระดับโลก — ชิปในสมาร์ตโฟน ตะกั่วบัดกรีบนเซิร์ฟเวอร์ศูนย์ข้อมูล — และมีโอกาสไม่น้อยที่ส่วนหนึ่งของมันผ่านพื้นโรงงานในปีนัง (Penang) กูลิม (Kulim) หรือกลัง (Klang) แต่โรงงานเป็นเพียงส่วนหนึ่งของเรื่องราว มาเลเซียในปัจจุบันหาเลี้ยงชีพส่วนใหญ่ไม่ใช่จากสิ่งที่ผลิต แต่จากสิ่งที่ขาย บริการ และเคลื่อนย้าย นี่คือแผนที่ของเศรษฐกิจนั้น: ภาคที่สำคัญ แต่ละภาคมีน้ำหนักเท่าใด และคู่มือที่ลึกกว่าในหมวดนี้รับช่วงต่อที่ใด

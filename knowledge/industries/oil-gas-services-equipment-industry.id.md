@@ -97,6 +97,7 @@ keywords:
   - jasa pengeboran
   - kapal pendukung lepas pantai
   - National OGSE Blueprint
+framework: profile
 ---
 
 Ketika orang membayangkan kekayaan minyak dan gas Malaysia, mereka biasanya memikirkan minyak mentah dan gas di bawah dasar laut lepas pantai Terengganu, Sarawak, dan Sabah — cadangan yang menjadikan PETRONAS salah satu perusahaan energi terbesar di Asia. Tetapi hidrokarbon tidak mengangkat dirinya sendiri dari dalam tanah. Di balik setiap ladang produksi berdiri satu pasukan kecil kontraktor: galangan yang mengelas platform baja, rig yang mengebor sumur, kapal yang mengantar kru dan kargo ke lepas pantai, insinyur yang merancang fasilitas, dan teknisi yang menjaga semuanya tetap berjalan. Ekosistem itu adalah **industri jasa dan peralatan minyak & gas (OGSE)**, dan ia adalah industri besar Malaysia dengan sendirinya.

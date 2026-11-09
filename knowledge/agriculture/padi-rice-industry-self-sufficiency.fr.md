@@ -87,6 +87,7 @@ relations:
   - { rel: "affects", to: "cost-of-living-overview" }
 related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "subsidi padi"]
+framework: profile
 ---
 
 Chaque fois que les prix du riz grimpent ou que les rayons des supermarchés se vident, une vieille question revient hanter la Malaisie : pourquoi un pays aussi riche en rizières a-t-il encore besoin d'importer près de la moitié de son riz ? La réponse réside dans une industrie animée par les subventions, protégée par des prix garantis et poursuivie par un objectif d'autosuffisance qui n'a pas encore été atteint.

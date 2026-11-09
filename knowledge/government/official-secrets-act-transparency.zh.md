@@ -88,6 +88,7 @@ relations:
   - { rel: "administered-by", to: "attorney-general" }
 related: ["attorney-general"]
 keywords: ["akta rahsia rasmi", "OSA 1972", "kebebasan maklumat", "ketelusan kerajaan", "dokumen terperingkat", "seksyen 16A", "rahsia rasmi"]
+framework: explainer
 ---
 
 一份会议备忘录、一份审计报告、一份内阁文件——在马来西亚，只要其中任何一份被盖上官方机密的印记，分享它就可能构成犯罪。划定这条界线的法律是[《1972年官方机密法令》](/law/official-secrets-act-1972)，而联邦信息自由法的缺位，使它成为马来西亚治理中争议最多的课题之一。

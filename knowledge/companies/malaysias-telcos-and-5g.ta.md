@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bursa-malaysia"]
 keywords: ["CelcomDigi", "Maxis", "U Mobile", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "MCMC", "telco merger", "single wholesale network"]
+framework: profile
 ---
 
 மலேசியா தனது முழு 5G செயல்படுத்தலையும் மூன்று ஆண்டுகளாக ஒரே அரசாங்க உரிமையிலான தனிக் குழாய் வழியாக நடத்தியது — பின்னர், ஒரு தீவிரமான கொள்கை காலகட்டத்தில், அந்த மாதிரியைத் தகர்த்து, தனது மிகச்சிறிய முக்கிய ஆபரேட்டருக்கு இரண்டாவது வலையமைப்பை வழங்கி, அரசின் பங்குதாரிப்பிலிருந்து முழுவதுமாக விலகியது. இதன் விளைவாக 2021 இல் இருந்ததைப் போல் எதுவும் இல்லாத ஒரு மொபைல் சந்தை உருவானது.

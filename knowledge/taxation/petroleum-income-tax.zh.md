@@ -72,6 +72,7 @@ relations:
   - { rel: "administered-by", to: "lhdn" }
 related: ["petronas"]
 keywords: ["petroleum income tax", "PITA", "Petroleum Income Tax Act 1967", "petroleum operations", "marginal field tax", "late-life asset PSC", "upstream oil gas tax Malaysia"]
+framework: rules
 ---
 
 一家在登嘉楼（Terengganu）海域钻探的石油公司，与一家位于莎阿南（Shah Alam）的工厂，都要向马来西亚缴税——但两者并非依据同一部法律缴税。上游石油收入自成一个与外界隔绝的税制，有自己的税率、自己的申报表，以及自己的一套规则。

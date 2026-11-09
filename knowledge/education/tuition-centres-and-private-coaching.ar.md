@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "national-education-system" }
 related: []
 keywords: ["pusat tuisyen", "مركز الدروس الخصوصية", "tuition centre", "التدريب الخاص", "قانون التعليم 1996", "تسجيل IPS", "permit mengajar", "JPN"]
+framework: rules
 ---
 
 في كثير من العائلات الماليزية، صارت حصص الدروس الخصوصية بعد المدرسة روتينية كالواجب المنزلي نفسه — غير أن كل مركز يفتتح واحدة منها مقيَّد في الحقيقة بقوانين التعليم نفسها.

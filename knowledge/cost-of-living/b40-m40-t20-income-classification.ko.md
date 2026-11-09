@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "kos-sara-hidup-malaysia" }
 related: []
 keywords: ["B40", "M40", "T20", "pendapatan isi rumah", "DOSM", "kos sara hidup", "median pendapatan"]
+framework: explainer
 ---
 
 대부분의 말레이시아 국민은 B40, M40, T20이라는 이름표에 익숙합니다. 그러나 그 이름표는 여러분의 급여 명세서에서 나오는 것이 아닙니다. 그것은 전국을 아우르는 하나의 긴 명단에서 여러분 가구가 차지하는 위치에서 나옵니다.

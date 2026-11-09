@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-economic-policy" }
 related: ["islamic-finance", "external-trade", "bumiputera-economic-policy"]
 keywords: ["halal industry", "halal economy", "HALMAS halal park", "Halal Development Corporation", "HDC", "Halal Industry Master Plan 2030", "halal exports", "global halal hub"]
+framework: profile
 ---
 
 Một logo halal trên gói mì ăn liền là nơi mà hầu hết mọi người nghĩ câu chuyện kết thúc. Ở Malaysia, nó gần với nơi câu chuyện bắt đầu hơn. Đằng sau dấu hiệu đó là một nỗ lực có chủ đích, kéo dài hàng thập kỷ nhằm biến "halal" từ một sự bảo đảm tôn giáo thành một ngành công nghiệp xuất khẩu — với các khu công nghiệp, ưu đãi thuế, tài trợ và một kế hoạch tổng thể quốc gia đi kèm.

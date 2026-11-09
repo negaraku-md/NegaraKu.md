@@ -102,6 +102,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Kebanyakan ikan di pinggan makan malam rakyat Malaysia masih datang dari laut — tetapi bahagian yang semakin membesar kini datang dari sebuah kolam, sangkar atau rakit tali panjang. Itulah akuakultur: penternakan hidupan akuatik yang disengajakan, berbeza daripada menangkap apa yang berenang di alam liar. Apabila tangkapan liar Malaysia mendatar dan permintaan protein meningkat, akuakultur telah menjadi tuas utama negara untuk mengekalkan ikan di atas meja. Artikel ini meneliti secara mendalam bahagian ternak perniagaan ini; untuk gambaran yang lebih luas, termasuk armada perikanan, kebajikan nelayan dan penguatkuasaan, lihat [gambaran keseluruhan industri perikanan](/agriculture/malaysian-fisheries-industry/).

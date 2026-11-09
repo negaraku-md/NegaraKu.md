@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "striking-off-a-company" }
 related: ["companies-act-2016"]
 keywords: ["pemulihan syarikat", "syarikat dipotong", "seksyen 555", "reinstate company", "struck off", "Akta Syarikat 2016", "SSM"]
+framework: how-to
 ---
 
 El nombre de su empresa ha desaparecido del registro de la SSM, pero la eliminación no es necesariamente definitiva. La ley prevé un plazo de siete años para solicitar su restauración, a través de los tribunales.

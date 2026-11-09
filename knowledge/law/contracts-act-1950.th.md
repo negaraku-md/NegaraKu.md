@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["federal-constitution", "court-hierarchy", "civil-and-syariah-courts", "companies-act-2016", "employment-act-1955"]
 keywords: ["Contracts Act 1950", "Act 136", "Malaysia contract law", "offer and acceptance Malaysia", "section 10 Contracts Act", "consideration Malaysia law"]
+framework: data-reference
 ---
 
 สัญญาเช่า จดหมายจ้างงาน สัญญาเช่าซื้อ การขายรถยนต์มือสองที่ยืนยันผ่านวอตส์แอป — ทั้งหมดยืนหยัดหรือล้มลงบนกฎหมายฉบับเดียวกันที่มีอายุเจ็ดสิบปี: พระราชบัญญัติสัญญา 1950

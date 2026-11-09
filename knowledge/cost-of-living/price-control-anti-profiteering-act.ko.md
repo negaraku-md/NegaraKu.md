@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "sales-and-service-tax-sst" }
 related: []
 keywords: ["antipencatutan", "kawalan harga", "untung berlebihan", "Akta 723", "Op Catut", "KPDN", "pencatutan harga"]
+framework: rules
 ---
 
 비용이 올라서 가격을 올리는 것은 별개의 문제입니다. 단지 작년보다 더 큰 이익을 챙기려고 가격을 올리는 것 — 그것은 말레이시아에서 귀하를 법정으로 데려갈 수 있습니다.

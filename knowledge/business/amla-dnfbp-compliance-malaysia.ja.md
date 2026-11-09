@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["company-secretary-malaysia"]
 keywords: ["AMLA", "DNFBP", "reporting institution", "suspicious transaction report", "customer due diligence", "FIED", "Bank Negara Malaysia", "money laundering"]
+framework: rules
 ---
 
 マネーロンダリング防止法は、銀行だけが気にかければよい問題ではない。マレーシアのAMLAのもとでは、さまざまな非金融業者及び専門家もまた報告機関に該当する。会社を設立する会社秘書役、不動産取引を成立させる不動産仲介業者、あるいは高額の現金支払いを受け取る取扱業者は、いずれもこの制度の対象となりうる——そして、顧客デューデリジェンス、記録保存及び報告の義務を、マレーシア国立銀行に対して直接負うことになる。

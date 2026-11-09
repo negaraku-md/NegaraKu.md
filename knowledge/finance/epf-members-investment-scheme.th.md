@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "epf-akaun-persaraan" }
 related: []
 keywords: ["EPF i-Invest", "Members Investment Scheme", "KWSP MIS", "invest EPF savings", "Akaun Persaraan", "Basic Savings", "unit trust EPF"]
+framework: explainer
 ---
 
 เงินออม EPF ของคุณไม่จำเป็นต้องอยู่ในที่เดียวและได้รับเพียงเงินปันผลรายปี หากคุณสะสมได้มากกว่าฐานเงินเกษียณที่ EPF กำหนด คุณได้รับอนุญาตให้นำส่วนหนึ่งที่วัดได้ไปลงในกองทุนรวม — และตั้งแต่ปี 2019 คุณสามารถทำเองได้ ออนไลน์ โดยไม่ต้องมีตัวแทน

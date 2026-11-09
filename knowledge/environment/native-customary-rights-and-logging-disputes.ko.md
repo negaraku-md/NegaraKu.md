@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "orang-asal-indigenous-peoples" }
 related: []
 keywords: ["native customary rights", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "logging disputes", "native title"]
+framework: explainer
 ---
 
 한 롱하우스(longhouse) 공동체는 어떤 산림 지대가 여러 세대에 걸쳐 자신들의 것이었다고 말합니다. 한 목재 또는 플랜테이션 기업은 주가 발급한, 같은 땅을 포함하는 라이선스를 보유합니다. 양측 모두 법을 근거로 듭니다. 사라왁과 사바에서 그 충돌은 20년 넘게 법정에서 다투어져 왔고 — 법원이 그 경계가 어디에 있는지에 항상 의견을 같이한 것은 아닙니다.

@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "islamic-family-law-malaysia" }
 related: []
 keywords: ["Akta 164", "perkahwinan sivil", "perceraian bukan Islam", "harta sepencarian", "Law Reform Marriage and Divorce Act 1976", "seksyen 76", "Jabatan Pendaftaran Negara"]
+framework: rules
 ---
 
 如果你是非穆斯林并在马来西亚结婚，只有一部法律决定该婚姻是否有效、如何终止，以及婚姻结束时谁能得到什么——1976年法律改革（婚姻与离婚）法令，通常称为164号法令。

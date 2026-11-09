@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "kos-sara-hidup-malaysia" }
 related: []
 keywords: ["B40", "M40", "T20", "pendapatan isi rumah", "DOSM", "kos sara hidup", "median pendapatan"]
+framework: explainer
 ---
 
 大多数马来西亚人都认得 B40、M40 和 T20 这些标签——但这些标签并非来自你的工资单，而是来自你的家庭在一份涵盖全国的长长排名表中所处的位置。

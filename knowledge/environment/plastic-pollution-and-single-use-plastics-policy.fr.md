@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "solid-waste-management-in-malaysia" }
 related: []
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030", "plastiques à usage unique", "taxe sur les sacs plastiques", "pollution plastique"]
+framework: explainer
 ---
 
 Les sacs plastiques fins de la caisse du supermarché ne sont généralement utilisés qu'un instant, mais ils peuvent persister dans l'environnement très longtemps. Pour s'attaquer à ce problème, la Malaisie n'a pas opté pour une unique interdiction radicale et immédiate — elle utilise plutôt une feuille de route par phases qui passe de petites taxes à des interdictions plus larges.

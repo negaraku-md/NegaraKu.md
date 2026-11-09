@@ -92,6 +92,7 @@ entity: "Employees Provident Fund Act 1991 (Act 452)"
 relations: []
 related: []
 keywords: ["Employees Provident Fund Act 1991", "EPF Act 1991", "Act 452", "KWSP", "EPF contribution rate", "EPF dividend", "Akaun Persaraan Sejahtera Fleksibel", "EPF withdrawal age 55", "KWSP Malaysia", "EPF foreign worker contribution", "Kumpulan Wang Simpanan Pekerja"]
+framework: rules
 ---
 
 สลิปเงินเดือนทุกใบในภาคเอกชนของมาเลเซียมีการหักเงิน 11% ที่หายเข้าไปในกองทุนซึ่งคุณแตะต้องไม่ได้เป็นเวลาหลายทศวรรษ — และเบื้องหลังบรรทัดนั้นคือกฎหมายฉบับเดียว **พระราชบัญญัติกองทุนสำรองเลี้ยงชีพลูกจ้าง 1991** อ้างเป็น **Act 452** คือ "พระราชบัญญัติเพื่อบัญญัติกฎหมายเกี่ยวกับโครงการออมเพื่อการเกษียณของลูกจ้างและการบริหารเงินออมเหล่านั้น" มีผลบังคับใช้เมื่อวันที่ **1 มิถุนายน 1991** แทนที่กฎหมายกองทุนสำรองเลี้ยงชีพลูกจ้าง 1951 (Employees Provident Fund Ordinance 1951) ที่ก่อตั้งกองทุนขึ้นครั้งแรกเมื่อวันที่ 1 ตุลาคม 1951 และดำเนินงานภายใต้ขอบเขตของ **กระทรวงการคลัง**

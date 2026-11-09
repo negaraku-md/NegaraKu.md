@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "majlis-raja-raja" }
 related: ["dewan-rakyat", "federal-state-division", "spr-election-commission", "majlis-raja-raja", "federal-constitution"]
 keywords: ["Dewan Undangan Negeri", "DUN", "badan perundangan negeri", "Jadual Kelapan", "Perkara 71", "peruntukan penting", "Yang di-Pertua Negeri", "Menteri Besar", "enakmen negeri", "State Legislative Assembly Malaysia"]
+framework: explainer
 ---
 
 Tanah adalah urusan negara bagian. Hukum keluarga Islam adalah urusan negara bagian. Pemerintahan lokal adalah urusan negara bagian. Tetapi siapa yang sebenarnya mengesahkan undang-undang bagi hal-hal ini di suatu negara bagian, dan menurut aturan apa? Jawabannya bukan sekadar soal kebiasaan atau praktik — ia tertulis, pasal demi pasal, dalam sebuah jadwal di ujung Konstitusi Federal.

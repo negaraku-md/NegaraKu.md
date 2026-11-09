@@ -100,6 +100,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review (export, ranking and market-size figures flagged for verification).
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Nếu bạn từng đeo một chiếc găng tay phẫu thuật, được lấy máu qua một ống thông, hay hồi phục nhờ một cấy ghép chỉnh hình, thì có khả năng hợp lý rằng thiết bị đó được làm ra ở Malaysia. Bên cạnh những chiếc găng tay cao su nổi tiếng của mình, đất nước này đã lặng lẽ trở thành nơi quan trọng nhất Đông Nam Á để chế tạo thiết bị y tế — và là một trong những cơ sở chế tạo medtech đáng kể hơn ở bất cứ đâu trên thế giới.

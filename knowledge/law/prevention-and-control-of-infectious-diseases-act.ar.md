@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "movement-control-order-covid-19" }
 related: []
 keywords: ["Akta 342", "Act 342", "الأمراض المعدية", "الحجر الصحي", "PKP", "MCO", "COVID-19", "المنطقة الموبوءة المحلية", "الصحة العامة", "وزارة الصحة الماليزية", "Kementerian Kesihatan Malaysia"]
+framework: rules
 ---
 
 حين أوقف أمر مراقبة الحركة (MCO) شبه كل ماليزيا في مارس 2020، لم تأتِ السلطة القانونية خلفه من أي قانون طوارئ جديد — بل من قانون للصحة العامة قائم منذ 1988.

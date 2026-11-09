@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "rukun-negara" }
 related: ["federal-constitution", "yang-di-pertuan-agong", "majlis-raja-raja", "court-hierarchy", "rukun-negara"]
 keywords: ["المادة 3 الدستور الاتحادي ماليزيا", "الإسلام دين الاتحاد", "المادة 11 حرية الدين ماليزيا", "Article 3 Federal Constitution Malaysia", "Islam religion of the Federation", "Article 11 freedom of religion Malaysia", "Article 121(1A)", "حرية الدين ماليزيا", "المحاكم الشرعية"]
+framework: explainer
 ---
 
 يقف حكمان من الدستور الاتحادي أحدهما إلى جانب الآخر ويُقتبسان على الدوام، لكن نادراً ما يُقتبسان كاملين. وفيما يلي النص.

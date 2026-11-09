@@ -63,6 +63,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-kastam-diraja-malaysia" }
 related: ["tourism-tax"]
 keywords: ["levi pelepasan", "departure levy", "प्रस्थान उद्ग्रहण", "Departure Levy Act 2019", "Kastam", "MyDLv"]
+framework: rules
 ---
 
 हर बार जब आप मलेशिया से वायुमार्ग द्वारा बाहर उड़ान भरते हैं, तो आपके टिकट-मूल्य में पहले से ही सरकार के लिए एक छोटा-सा प्रभार शामिल होता है जिसे यात्री शायद ही कभी ध्यान देते हैं — प्रस्थान उद्ग्रहण। इसे Budget 2019 में पेश किया गया और *प्रस्थान उद्ग्रहण अधिनियम 2019 (Departure Levy Act 2019)* के माध्यम से यह **1 सितंबर 2019** को प्रभावी हुआ।

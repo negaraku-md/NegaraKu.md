@@ -96,6 +96,7 @@ keywords:
   - Duopharma Biotech
   - vaccine fill-finish
   - PIC/S GMP
+framework: profile
 ---
 
 Every time a Malaysian fills a prescription for an antibiotic, a painkiller or a blood-pressure tablet, there is a good chance the medicine was made in Malaysia — not invented here, but formulated, pressed, filled and packaged in a local factory working to international manufacturing standards. That is the heart of Malaysia's pharmaceutical industry: a solid, generics-led manufacturing base that keeps the national medicine cabinet stocked, paired with two more ambitious bets — halal pharmaceuticals and vaccine production — that the country hopes will carry it up the value chain.

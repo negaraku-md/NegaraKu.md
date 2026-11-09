@@ -61,6 +61,7 @@ relations:
   - { rel: "part-of", to: "employment" }
 related: ["employment-contract-malaysia", "termination-of-employment-malaysia"]
 keywords: ["klausa larangan bersaing malaysia", "sekatan perdagangan malaysia", "seksyen 28 akta kontrak 1950", "larangan memujuk malaysia", "kovenan sekatan malaysia"]
+framework: explainer
 ---
 
 Hampir setiap kontrak pekerjaan di Malaysia mengandungi klausa larangan bersaing, dan

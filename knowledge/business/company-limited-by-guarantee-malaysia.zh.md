@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["business-structures-malaysia", "sdn-bhd-vs-berhad", "register-sdn-bhd", "what-is-sdn-bhd", "company-secretary-malaysia"]
 keywords: ["company limited by guarantee", "CLBG", "berhad menurut jaminan", "section 45 Companies Act 2016", "non-profit company Malaysia", "SSM CLBG", "omit Berhad licence"]
+framework: explainer
 ---
 
 基金会、专业学会、商会与社会企业，在马来西亚都可以穿上同一件法律外衣——担保有限公司（company limited by guarantee）。这是法律为那些"为做有益之事而存在、而非为分配利润而存在"的组织所保留的载体，它带着一套普通私人有限公司（Sdn Bhd）从来见不到的规则。

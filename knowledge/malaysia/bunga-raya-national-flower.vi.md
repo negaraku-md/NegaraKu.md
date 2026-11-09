@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "rukun-negara" }
 related: ["rukun-negara"]
 keywords: ["bunga raya", "bunga kebangsaan", "hibiscus", "Hibiscus rosa-sinensis", "simbol kebangsaan Malaysia", "Rukun Negara", "Tunku Abdul Rahman"]
+framework: history-culture
 ---
 
 Bảy loài hoa từng cạnh tranh để đại diện cho một quốc gia vừa mới độc lập — và loài chiến thắng không phải là loài thơm nhất hay hiếm nhất, mà là loài được biết đến nhiều nhất ở mỗi thị trấn và mỗi làng. Đó là bông dâm bụt.

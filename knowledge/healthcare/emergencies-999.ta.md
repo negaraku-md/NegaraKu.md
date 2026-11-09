@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "traffic-summons-saman" }
 related: ["pdrm", "traffic-summons-saman"]
 keywords: ["999 Malaysia", "MERS 999", "NG999", "ambulans kecemasan Malaysia", "Jabatan Kecemasan", "triage zon merah kuning hijau", "ambulans percuma", "caj kecemasan hospital kerajaan"]
+framework: explainer
 ---
 
 நீங்கள் 999-ஐ அழுத்துகிறீர்கள். தொலைபேசியின் மறுமுனையில் உள்ள குரல் உங்கள் பெயர், இருப்பிடம், என்ன நடந்தது என்பதைக் கேட்கிறது — நிர்ணயிக்கப்பட்ட நேரத்திற்குள், ஒரு ஆம்புலன்ஸ் குழு ஏற்கெனவே வழியில் இருக்க வேண்டும். ஆனால் அந்த அழைப்பின் பின்னால் என்ன நடக்கிறது என்பது பலருக்குத் தெரியாது: உண்மையில் யார் பதிலளிக்கிறார்கள், அது இலவசமா, மேலும் மருத்துவமனைக்குப் பிந்தி வரும் மற்ற நோயாளிகள் சில வேளைகளில் ஏன் உங்களுக்கு முன்பாகச் சிகிச்சை பெறுகிறார்கள்.

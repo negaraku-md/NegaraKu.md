@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "prevention-of-terrorism-act-pota" }
 related: ["sosma"]
 keywords: ["POCA", "Akta Pencegahan Jenayah 1959", "Akta 297", "tahanan pencegahan", "Lembaga Pencegahan Jenayah", "jenayah terancang", "tahanan tanpa perbicaraan"]
+framework: explainer
 ---
 
 Một người có thể bị nêu tên, bị điều tra, và cuối cùng bị tạm giữ trong hai năm mà chưa bao giờ bị buộc tội tại tòa — và quyết định đó do một ủy ban đưa ra, không phải một thẩm phán. Đó là cơ chế ở trung tâm của Luật Phòng chống Tội phạm 1959 (POCA).

@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
 related: ["companies-act-2016"]
 keywords: ["liabiliti setiausaha syarikat", "kesalahan setiausaha syarikat", "penyata palsu", "seksyen 591", "Akta Syarikat 2016", "pegawai syarikat", "Borang 49"]
+framework: rules
 ---
 
 SSM 서식에 하는 한 번의 서명이 회사 비서를 피고인석에 세울 수 있습니다 — 회사나 그 이사만이 아니라 말입니다. 잘못된 문서는 이사의 지시에 따라 서명되었더라도, 이를 제출한 사람의 개인적 책임으로 남습니다.

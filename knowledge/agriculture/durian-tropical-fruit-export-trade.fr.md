@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "external-trade" }
 related: ["palm-oil-sector", "external-trade", "rubber"]
 keywords: ["exportation de durian Malaisie", "Musang King", "Black Thorn durian", "protocole durian Chine", "indication géographique durian", "myGAP durian", "fresh durian export China"]
+framework: profile
 ---
 
 Pendant plus d'une décennie, le durian malaisien ne pouvait entrer en Chine que s'il était congelé ou transformé en pulpe et en pâte. Puis, à la mi-2024, la Malaisie a obtenu l'accès qu'elle recherchait depuis des années : le droit d'expédier du durian entier et frais vers le plus grand marché de durian de la planète.

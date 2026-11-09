@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "statutory-demand-section-466-malaysia" }
 related: ["companies-act-2016"]
 keywords: ["winding up by court", "compulsory winding up", "section 466", "statutory demand", "Fortuna injunction", "RM50000 threshold", "Companies Act 2016", "insolvency Malaysia", "creditor petition"]
+framework: explainer
 ---
 
 未払いの請求書一枚が、会社を終わらせることがある。マレーシアでは、RM50,000を超える債権を有する債権者は、判決を得ていなくとも、商事法上もっとも過激な救済手段——債務者を清算し、残った財産を分配するとの裁判所命令——に手を伸ばすことができる。

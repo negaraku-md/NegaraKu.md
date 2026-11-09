@@ -83,6 +83,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: explainer
 ---
 
 Haz esnórquel sobre un arrecife frente a Tioman o Redang, y el agua cristalina, los peces protegidos y las reglas de "prohibido pescar, prohibido anclar" de las que te informaron no son solo buenos modales: son la ley. La norma que las respalda es la **Ley de Pesca de 1985**, Act 317 en el código estatutario de Malasia, y rige mucho más que el turismo: es la columna vertebral de cómo Malasia gestiona la pesca y protege la vida marina en todas sus aguas.

@@ -98,6 +98,7 @@ relations:
   - { rel: "compares-with", to: "rubber-industry" }
 related: ["rubber-industry"]
 keywords: ["palm oil", "crude palm oil", "CPO", "MPOB", "FELDA", "smallholders", "oil palm", "refineries", "oleochemicals", "MSPO", "biodiesel", "exports"]
+framework: profile
 ---
 
 Palm oil is the world's most-traded vegetable oil, and Malaysia is its second-largest producer — behind Indonesia — turning a spiky red bunch of fruit grown from Johor to the hills of Sarawak into refined cooking oil, soap ingredients and biodiesel shipped to markets across Asia, Africa and Europe. The industry supports over 3 million Malaysians directly and indirectly, including nearly 500,000 smallholders, according to the Malaysian Palm Oil Council (MPOC). This is how that machine is built, from the tree to the tanker.

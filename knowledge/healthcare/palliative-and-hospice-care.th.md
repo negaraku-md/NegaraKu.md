@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "healthcare-for-seniors" }
 related: ["healthcare-for-seniors"]
 keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap hujung hayat", "penjagaan di rumah", "KKM"]
+framework: explainer
 ---
 
 เมื่อการรักษาไม่ได้มุ่งรักษาให้หายอีกต่อไป ความสนใจจึงเปลี่ยนไปที่สิ่งหนึ่ง คือ การทำให้ผู้ป่วยสบายและมีศักดิ์ศรี นั่นคือแก่นของการดูแลแบบประคับประคอง — และในมาเลเซีย สามารถเข้าถึงได้ผ่านสามช่องทางที่แตกต่างกัน

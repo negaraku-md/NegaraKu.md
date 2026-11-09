@@ -74,6 +74,7 @@ relations:
   - { rel: "located-in", to: "melaka" }
 related: ["peranakan", "tamil-in-malaysia", "deepavali"]
 keywords: ["Chetti Melaka", "Chitty Melaka", "Peranakan India", "Kampung Chetti", "Gajah Berang", "Hindu Saivite", "warisan Melaka"]
+framework: history-culture
 ---
 
 Tại một ngôi làng cổ ở Jalan Gajah Berang, Melaka, có một nhóm gia đình cầu nguyện với Thần Siva, ăn mặc như người Mã Lai, nấu món cà ri thơm nước cốt dừa, và nói một thứ tiếng Mã Lai được điểm xuyết bằng các từ Tamil. Họ không phải người Ấn Độ, không phải người Mã Lai, không phải người Hoa — họ là Chetti Melaka, và số lượng của họ ngày càng ít.

@@ -76,6 +76,7 @@ relations:
   - { rel: "located-in", to: "sarawak" }
 related: ["gawai-dayak", "sarawak"]
 keywords: ["Ngajat", "tarian Ngajat", "Iban", "Sarawak", "Burung Kenyalang", "enggang", "Hari Gawai", "rumah panjang", "Ngajat Lesong", "Ngajat Indu", "pua kumbu"]
+framework: history-culture
 ---
 
 ที่ระเบียงของบ้านยาวแห่งหนึ่งในซาราวัก ชายคนหนึ่งที่ประดับขนนกเงือกบนศีรษะกระโดด หมุนตัว และกระทืบพื้น — ดาบในมือหนึ่ง โล่ในอีกมือหนึ่ง นั่นคือ **งาจัต** การรำที่แต่ก่อนต้อนรับนักรบที่กลับจากสนามรบ

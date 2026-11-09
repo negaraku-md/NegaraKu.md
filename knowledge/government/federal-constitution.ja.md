@@ -69,6 +69,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["parliament", "majlis-raja-raja", "federal-state-division"]
 keywords: ["Perlembagaan Persekutuan", "Federal Constitution Malaysia", "undang-undang tertinggi", "Perkara 4 Perlembagaan", "Perkara 159 pindaan", "ketertinggian perlembagaan", "Bahagian Perlembagaan Persekutuan", "prosedur pindaan perlembagaan"]
+framework: explainer
 ---
 
 マレーシアで可決されるあらゆる法律——連邦国会によるものであれ、州議会（Dewan Undangan Negeri）によるものであれ——は、一つの単一の文書を基準として測ることができる。その法律がこの文書に抵触する場合、その法律は抵触する限度において無効とみなされうる。その文書こそが連邦憲法（Perlembagaan Persekutuan）である。

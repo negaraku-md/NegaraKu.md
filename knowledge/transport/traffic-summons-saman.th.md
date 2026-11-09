@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "pdrm" }
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
+framework: how-to
 ---
 
 ผู้ขับขี่คนหนึ่งอาจได้รับใบสั่งสี่ประเภทที่ดูคล้ายกันบนกระดาษ — แต่มาจากสี่หน่วยงานที่แตกต่างกัน และต้องตรวจสอบในสี่ที่ที่แตกต่างกัน หลายคนรู้จักเพียงพอร์ทัลเดียว แล้วเข้าใจว่าใบสั่งของตน "หายไป" ทั้งที่จริงแล้วมันอยู่ในระบบอื่น

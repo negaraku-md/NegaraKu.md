@@ -67,6 +67,7 @@ relations:
   - { rel: "governs", to: "unclaimed-moneys-act-1965" }
 related: []
 keywords: ["wang tak dituntut", "eGUMIS", "unclaimed moneys", "Akta Wang Tak Dituntut 1965", "Jabatan Akauntan Negara", "JANM", "wang dorman", "bayaran balik"]
+framework: how-to
 ---
 
 เงินของคุณอาจกำลังรออยู่ในฐานข้อมูลของรัฐบาลโดยที่คุณไม่รู้ตัว ทั้งเงินปันผลที่ไม่ได้เรียกร้องทัน ยอดคงเหลือในบัญชีธนาคารเก่า หรือค่าชดเชยประกันที่ไม่สามารถส่งถึงคุณได้ ทั้งหมดรวมอยู่ภายใต้ชื่อทางการเดียว คือ เงินที่ไม่มีผู้เรียกร้อง (WTD)

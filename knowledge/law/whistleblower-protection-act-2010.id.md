@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["macc-sprm", "employment-act-1955"]
 keywords: ["whistleblower protection act 2010", "act 711", "improper conduct", "whistleblower malaysia", "detrimental action", "section 11 revocation", "macc disclosure"]
+framework: explainer
 ---
 
 Laporkan korupsi di tempat kerja dan hukum Malaysia dapat merahasiakan nama Anda, melindungi Anda dari gugatan, dan menjadikannya melanggar hukum bagi pemberi kerja Anda untuk memecat Anda karenanya. Tetapi salah satu langkah — pergi ke media terlebih dahulu, atau ternyata Anda sendiri ikut andil dalam skema itu — dan setiap perlindungan itu dapat ditarik kembali. Itulah rancangan yang sengaja dibuat oleh Whistleblower Protection Act 2010.

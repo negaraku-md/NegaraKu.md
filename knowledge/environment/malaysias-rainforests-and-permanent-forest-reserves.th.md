@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-state-and-federal-lists" }
 related: []
 keywords: ["hutan simpanan kekal", "akta perhutanan negara 1984", "pewartaan hutan", "senarai negeri", "hutan hujan malaysia", "degazette hutan simpan", "enakmen hutan sabah", "ordinan hutan sarawak"]
+framework: explainer
 ---
 
 ที่ดินป่าผืนหนึ่งในมาเลเซียไม่ได้ "ได้รับการคุ้มครอง" เพียงเพราะมันเต็มไปด้วยต้นไม้ การคุ้มครองเริ่มต้นในวันที่ชื่อของที่ดินนั้นปรากฏในราชกิจจานุเบกษา หากปราศจากการประกาศดังกล่าว ป่าเดียวกันสามารถได้รับใบอนุญาตให้พัฒนาได้ตลอดเวลา นี่คือรากฐานของระบบป่าสงวนถาวร (HSK) ทั้งหมดของมาเลเซีย

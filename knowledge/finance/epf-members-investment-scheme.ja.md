@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "epf-akaun-persaraan" }
 related: []
 keywords: ["EPF i-Invest", "Members Investment Scheme", "KWSP MIS", "invest EPF savings", "Akaun Persaraan", "Basic Savings", "unit trust EPF"]
+framework: explainer
 ---
 
 あなたのEPF貯蓄は、一箇所にとどまって年次配当のみを得る必要はない。EPFが求める退職の下限を上回る額を積み立てている場合、その一部を一定の範囲内でユニットトラストファンドに投じることが認められている——そして2019年以降は、代理店を介さず、オンラインで自ら行うことができる。

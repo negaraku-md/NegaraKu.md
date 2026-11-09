@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "diesel-subsidy-rationalisation" }
 related: []
 keywords: ["APM", "harga minyak", "RON97", "RON95", "BUDI95", "subsidi bahan api", "harga pam mingguan"]
+framework: explainer
 ---
 
 ஒவ்வொரு புதன்கிழமையும், மலேசிய எரிபொருள் பம்புகளின் விலை மாறலாம் — ஆனால் அனைத்து வகை எரிபொருள்களும் ஒரே மாதிரியாக நகர்வதில்லை. அந்த அறிவிப்புப் பலகையில் உள்ள எண்களுக்குப் பின்னால் தானியங்கு விலை நிர்ணய பொறிமுறை (Mekanisme Penetapan Harga Automatik) அல்லது APM என்று அழைக்கப்படும் ஓர் அதிகாரப்பூர்வ சூத்திரம் உள்ளது.

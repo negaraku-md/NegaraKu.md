@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "movement-control-order-covid-19" }
 related: []
 keywords: ["Akta 342", "penyakit berjangkit", "kuarantin", "PKP", "COVID-19", "kawasan jangkitan tempatan", "kesihatan awam", "Kementerian Kesihatan Malaysia"]
+framework: rules
 ---
 
 When the Movement Control Order (MCO) brought nearly all of Malaysia to a halt in March 2020, the legal power behind it did not come from any new emergency law — but from a public health act that had existed since 1988.

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "road-tax-renewal-malaysia" }
 related: ["road-tax-renewal"]
 keywords: ["puspakom", "pemeriksaan berkala", "kenderaan komersial", "e-hailing", "cukai jalan", "akta pengangkutan jalan 1987"]
+framework: rules
 ---
 
 நீங்கள் லாரி, வேன், டாக்சி அல்லது e-hailing கார் வைத்திருந்தால், Puspakom-இன் ஆறு மாத நாட்காட்டி உண்மையில் உங்கள் சாலை வரி நாட்காட்டியே — செல்லுபடியாகும் சோதனை முத்திரை இல்லாமல், JPJ உங்களை வாகன உரிமத்தைப் புதுப்பிக்கவே அனுமதிக்காது.

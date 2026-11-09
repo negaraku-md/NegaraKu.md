@@ -67,6 +67,7 @@ relations:
   - { rel: "governs", to: "unclaimed-moneys-act-1965" }
 related: []
 keywords: ["dinero no reclamado", "eGUMIS", "dinero inactivo", "Departamento del Contador General", "wang tak dituntut", "unclaimed moneys", "Akta Wang Tak Dituntut 1965", "Jabatan Akauntan Negara", "JANM", "wang dorman", "bayaran balik"]
+framework: how-to
 ---
 
 Tu dinero podría estar esperándote en una base de datos del gobierno sin que siquiera lo sepas — dividendos que nunca llegaste a reclamar, el saldo de una vieja cuenta bancaria, o un pago de seguro que nunca te llegó. Todo se acumula bajo un mismo nombre oficial: Dinero No Reclamado (UM).

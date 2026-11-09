@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "statutory-demand-section-466-malaysia" }
 related: ["companies-act-2016"]
 keywords: ["winding up by court", "compulsory winding up", "section 466", "statutory demand", "Fortuna injunction", "RM50000 threshold", "Companies Act 2016", "insolvency Malaysia", "creditor petition"]
+framework: explainer
 ---
 
 An unpaid invoice can end a company. In Malaysia, a creditor owed more than RM50,000 does not need a judgment to reach for the most drastic remedy in commercial law — a court order to liquidate the debtor and distribute what is left.

@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "epf-akaun-persaraan" }
 related: []
 keywords: ["EPF i-Invest", "Members Investment Scheme", "KWSP MIS", "invest EPF savings", "Akaun Persaraan", "Basic Savings", "unit trust EPF"]
+framework: explainer
 ---
 
 உங்கள் EPF சேமிப்பு ஒரே இடத்தில் இருந்து ஆண்டு ஈவுத்தொகையை மட்டுமே ஈட்ட வேண்டிய அவசியமில்லை. EPF தேவைப்படுத்தும் ஓய்வூதிய தளத்தை விட அதிகமாக நீங்கள் சேர்த்திருந்தால், அதன் ஒரு அளவான பகுதியை யூனிட் அறக்கட்டளை நிதிகளில் வைக்க உங்களுக்கு அனுமதி உண்டு — மேலும் 2019 முதல், முகவர் இல்லாமல், ஆன்லைனில், நீங்களே இதைச் செய்யலாம்.

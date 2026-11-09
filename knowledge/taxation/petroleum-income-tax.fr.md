@@ -72,6 +72,7 @@ relations:
   - { rel: "administered-by", to: "lhdn" }
 related: ["petronas"]
 keywords: ["petroleum income tax", "PITA", "Petroleum Income Tax Act 1967", "petroleum operations", "impôt champs marginaux", "PSC actif en fin de vie", "impôt amont pétrole gaz Malaisie"]
+framework: rules
 ---
 
 Une compagnie pétrolière qui fore au large de Terengganu et une usine à Shah Alam paient toutes deux l'impôt à la Malaisie — mais elles ne le paient pas en vertu de la même loi. Le revenu pétrolier amont vit dans un régime cloisonné qui lui est propre, avec son propre taux, sa propre déclaration et son propre règlement.

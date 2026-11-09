@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "solid-waste-management-in-malaysia" }
 related: []
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030"]
+framework: explainer
 ---
 
 Beg plastik nipis di kaunter pembayaran lazimnya digunakan sebentar sahaja, tetapi boleh kekal di alam sekitar untuk tempoh yang lama. Untuk menangani isu ini, Malaysia tidak memilih satu larangan menyeluruh serta-merta — sebaliknya satu peta jalan berperingkat yang bergerak daripada caj kecil kepada larangan yang lebih luas.

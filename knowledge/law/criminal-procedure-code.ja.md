@@ -71,6 +71,7 @@ relations:
   - { rel: "explained-in", to: "rights-when-arrested-malaysia" }
 related: ["penal-code"]
 keywords: ["kanun tatacara jenayah", "akta 593", "criminal procedure code", "reman", "seksyen 117", "ikat jamin", "seksyen 28A", "tangkapan", "perbicaraan jenayah", "prima facie"]
+framework: explainer
 ---
 
 マレーシアで人が逮捕されたとき、その瞬間以降に何が起こるか——釈放されるのか、勾留されるのか、起訴されるのか、それとも公判にかけられるのか——は、無作為に決まるものではない。それは、刑事訴訟法（Criminal Procedure Code、Act 593、以下「KTJ」）によって一段階ずつ定められている。

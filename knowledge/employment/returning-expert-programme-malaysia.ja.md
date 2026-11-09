@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "income-tax-rates-malaysia" }
 related: []
 keywords: ["Returning Expert Programme", "REP", "TalentCorp", "15% flat tax", "Malaysian diaspora", "returning talent", "MyHeart", "CKD vehicle exemption"]
+framework: explainer
 ---
 
 海外でキャリアを築いてきたマレーシア人で、帰国を検討している場合、帰国専門家プログラム（REP）は、通常の累進税率の代わりに、5年間、就業所得に対する選択制の均一15%所得税率を提供する。資格を得るには、マレーシアに帰国する*前に*申請しなければならない。

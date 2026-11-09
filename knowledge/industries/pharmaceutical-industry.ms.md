@@ -97,6 +97,7 @@ keywords:
   - Duopharma Biotech
   - isi-dan-siap vaksin
   - PIC/S GMP
+framework: profile
 ---
 
 Setiap kali seorang rakyat Malaysia menebus preskripsi untuk antibiotik, ubat tahan sakit atau pil tekanan darah, ada kemungkinan besar ubat itu dibuat di Malaysia — bukan dicipta di sini, tetapi diformulasi, dimampat, diisi dan dibungkus di sebuah kilang tempatan yang bekerja mengikut standard pembuatan antarabangsa. Itulah teras industri farmaseutikal Malaysia: asas pembuatan diterajui generik yang kukuh yang mengisi kabinet ubat negara, berpasangan dengan dua pertaruhan yang lebih bercita-cita tinggi — farmaseutikal halal dan pengeluaran vaksin — yang negara harap akan membawanya naik rantaian nilai.

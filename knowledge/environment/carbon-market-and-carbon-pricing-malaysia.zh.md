@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "malaysia-net-zero-2050" }
 related: ["bursa-malaysia"]
 keywords: ["carbon market Malaysia", "carbon pricing", "carbon tax Malaysia", "Bursa Carbon Exchange", "National Carbon Market Policy", "carbon credits", "emissions trading scheme", "CCUS Act 2025"]
+framework: explainer
 ---
 
 马来西亚在决定向任何污染者收费之前，先着手搭建碳市场的基础设施。如今你已经可以在一个全国性交易所上买卖碳信用——但那些将迫使大型排放者付费的税收与交易规则仍在草拟之中。

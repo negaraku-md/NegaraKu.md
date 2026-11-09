@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "approved-company-auditor-malaysia" }
 related: ["foreign-company-registration-malaysia"]
 keywords: ["foreign company", "branch", "audited accounts", "SSM", "Companies Act 2016", "section 575", "financial statements", "Malaysia"]
+framework: rules
 ---
 
 Mở một chi nhánh tại Malaysia không đưa một công ty nước ngoài ra ngoài lưới kiểm toán — nó kéo công ty vào hai lần. Mỗi năm nó phải nộp báo cáo đã kiểm toán cho Ủy ban Công ty Malaysia (Companies Commission of Malaysia, SSM): một lần cho toàn công ty, và lại một lần nữa, riêng biệt, cho những gì chi nhánh thực sự làm bên trong Malaysia.

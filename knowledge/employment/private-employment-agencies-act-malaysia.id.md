@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["employment-act-1955"]
 keywords: ["agensi pekerjaan swasta", "Akta 246", "lesen headhunting", "carian eksekutif", "JTKSM", "yuran penempatan"]
+framework: rules
 ---
 
 Buka sebuah firma headhunting di Malaysia dan mulai memadankan kandidat dengan pemberi kerja tanpa lisensi, dan Anda bukan sekadar melanggar prosedur — Anda melakukan suatu pelanggaran yang dapat membawa denda enam angka. Setiap usaha yang menempatkan pencari kerja dengan pemberi kerja tertakluk pada **Private Employment Agencies Act 1981 (Akta 246)**, yang ditegakkan oleh Jabatan Tenaga Kerja.

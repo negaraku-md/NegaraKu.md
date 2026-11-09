@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["macc-sprm", "employment-act-1955"]
 keywords: ["whistleblower protection act 2010", "act 711", "improper conduct", "whistleblower malaysia", "detrimental action", "section 11 revocation", "macc disclosure"]
+framework: explainer
 ---
 
 在工作场所举报一起贿赂，马来西亚法律能为你的姓名保密、使你免于被起诉，并使你的上司因此解雇你成为违法之举。但只要走错一步——先去找媒体，或最终被发现自己本身也参与了这场勾当——上述每一项保护都可能被剥夺。这正是《2010年举报人保护法令》刻意的设计。

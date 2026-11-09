@@ -69,6 +69,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-belia-dan-sukan" }
 related: []
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
+framework: explainer
 ---
 
 ทุกวันเสาร์สัปดาห์ที่สองของเดือนตุลาคม สนาม สวนสาธารณะ และหอกีฬาทั่วมาเลเซียควรเต็มแน่น นั่นคือการออกแบบของวันกีฬาแห่งชาติ

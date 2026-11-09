@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "road-transport-act-1987" }
 related: []
 keywords: ["lorong motosikal", "Lebuhraya Persekutuan", "topi keledar", "Seksyen 79(2)", "motosikal lebuh raya", "MS 1", "kapasiti enjin"]
+framework: rules
 ---
 
 Vous vous engagez sur la Federal Highway à moto, vous voyez un panneau « Motorcycle Lane » (voie des motos) qui bifurque vers la gauche — et vous vous demandez si vous êtes tenu de le suivre ou si vous pouvez rester sur la chaussée principale. La réponse tient à un seul mot : *publiée au journal officiel*.

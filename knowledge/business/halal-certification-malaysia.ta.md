@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "starting-a-business-malaysia" }
 related: ["sst"]
 keywords: ["halal certification Malaysia", "JAKIM halal", "MYeHALAL", "halal logo Malaysia", "halal certification fee", "Trade Descriptions Order 2011"]
+framework: how-to
 ---
 
 JAKIM-இன் சான்றிதழ் இல்லாமல் உங்கள் பேக்கேஜிங்கில் ஹலால் லோகோவை வையுங்கள் — நீங்கள் வெறுமனே ஒரு குறுக்கு வழியில் செல்லவில்லை, நீங்கள் ஒரு குற்றத்தைச் செய்கிறீர்கள். மலேசியாவில் ஹலால் உரிமைகோரல் சட்டத்தால் ஒழுங்குபடுத்தப்படுகிறது, மேலும் ஆவண வேலைகள் இப்போது முழுவதுமாக ஆன்லைனில் வாழ்கின்றன.

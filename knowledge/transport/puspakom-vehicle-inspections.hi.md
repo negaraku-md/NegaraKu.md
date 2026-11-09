@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "road-tax-renewal-malaysia" }
 related: ["road-tax-renewal"]
 keywords: ["Puspakom", "वाहन निरीक्षण", "आवधिक निरीक्षण", "वाणिज्यिक वाहन", "e-hailing", "सड़क कर", "सड़क परिवहन अधिनियम 1987", "road tax", "commercial vehicles"]
+framework: rules
 ---
 
 अगर आपके पास एक लॉरी, वैन, टैक्सी या e-hailing कार है, तो Puspakom का छह-माही कैलेंडर असल में आपका सड़क कर कैलेंडर है — एक वैध निरीक्षण मुहर के बिना, JPJ आपको अपना वाहन लाइसेंस नवीनीकृत करने ही नहीं देगा।

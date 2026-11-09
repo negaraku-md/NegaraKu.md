@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
 related: ["tenaga-nasional"]
 keywords: ["tarif elektrik", "TNB", "RP4", "AFA", "ICPT", "Time-of-Use", "Caj Tenaga", "bil elektrik", "Suruhanjaya Tenaga"]
+framework: explainer
 ---
 
 Nếu bạn lật xem hóa đơn TNB mới nhất và ngạc nhiên khi thấy năm dòng phí riêng biệt thay thế một tổng số gọn gàng, bạn không nhầm lẫn — cấu trúc biểu giá điện của Bán đảo Malaysia đã được cải tổ hoàn toàn vào ngày 1 tháng 7 năm 2025.

@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "kos-sara-hidup-malaysia" }
 related: []
 keywords: ["B40", "M40", "T20", "pendapatan isi rumah", "DOSM", "kos sara hidup", "median pendapatan"]
+framework: explainer
 ---
 
 La plupart des Malaisiens connaissent les étiquettes B40, M40 et T20 — mais ces étiquettes ne viennent pas de votre fiche de paie. Elles viennent de la place qu'occupe votre ménage dans une longue liste couvrant tout le pays.

@@ -63,6 +63,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-kastam-diraja-malaysia" }
 related: ["tourism-tax"]
 keywords: ["levi pelepasan", "departure levy", "cukai keluar", "Departure Levy Act 2019", "Kastam", "MyDLv"]
+framework: rules
 ---
 
 ทุกครั้งที่คุณบินออกจากมาเลเซีย ราคาตั๋วของคุณมีค่าธรรมเนียมเล็กน้อยแก่รัฐบาลรวมอยู่แล้วซึ่งผู้โดยสาร

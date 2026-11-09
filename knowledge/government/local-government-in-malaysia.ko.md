@@ -86,6 +86,7 @@ wikidata: "Q6664408"
 relations: []
 related: []
 keywords: ["local government Malaysia", "PBT", "pihak berkuasa tempatan", "majlis perbandaran", "majlis daerah", "dewan bandaraya", "Local Government Act 1976", "Act 171", "local council Malaysia", "cukai taksiran", "KPKT", "local government elections Malaysia", "Datuk Bandar", "Yang Dipertua", "municipal council Malaysia", "district council Malaysia"]
+framework: explainer
 ---
 
 여러분의 쓰레기를 수거하고, 옆집 상점가옥을 승인하며, 여러분에게 평가세를 청구하는 의회는 여러분의 대문에 가장 가까운 정부 층위입니다 — 그런데도 여러분이 결코 투표할 수 없었던 유일한 층위입니다. 말레이시아의 세 번째 통치 층위는 **지방 당국**(*Pihak Berkuasa Tempatan*, **PBT**)이 제공하며, 세 가지 규모로 나뉩니다. 시의회, 시정의회, 군의회입니다. 두 가지 사실이 그들이 행동하는 방식의 거의 전부를 설명합니다. 첫째, 지방정부는 헌법상 *주*의 사항이므로, 여러분의 의회는 푸트라자야가 아니라 주정부에 책임을 집니다. 둘째, 지방선거는 1965년 이래 동결되어, 모든 의원은 주민이 선출하는 것이 아니라 주가 임명합니다.

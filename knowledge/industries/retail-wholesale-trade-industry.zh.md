@@ -95,6 +95,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 几乎每一令吉马来西亚人花在实体商品上的钱——杂货、一部手机、一辆车、一瓶食用油——都要经过零售与批发贸易。它是日常消费的「管道系统」：由进口商、批发商、分销商、商店、市场与网店组成的网络，把产品从制造之处送到购买之处。官方把这一网络称为**分销贸易**，它是马来西亚经济中规模最大、也最显眼的部分之一。

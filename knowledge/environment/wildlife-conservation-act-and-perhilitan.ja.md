@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "taman-negara" }
 related: []
 keywords: ["Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "totally protected wildlife", "protected wildlife", "wildlife licence Malaysia", "special permit", "wildlife trafficking Malaysia", "Department of Wildlife and National Parks"]
+framework: rules
 ---
 
 マレートラの毛皮を車のトランクに入れておけば、待っているのは罰金と厳しい警告の手紙ではない——数年間の禁錮と、数十万リンギット単位の罰金である。これが2010年野生生物保全法の切れ味鋭い一面であり、半島マレーシアにおいてどの動物に触れ、飼育し、売り、研究してよいか、そしてどの動物には国からの書面による許可なしには近づいてはならないかを決める法律である。

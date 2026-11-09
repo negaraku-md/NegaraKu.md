@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "malaysian-court-system" }
 related: []
 keywords: ["bantuan guaman", "legal aid", "JBG", "YBGK", "Majlis Peguam", "ujian kemampuan", "peguam percuma"]
+framework: how-to
 ---
 
 Facing a lawsuit, a divorce or a claim but unable to afford a lawyer? You do not have to face the court alone. Three bodies in Malaysia provide free or subsidised legal services for those on low incomes.

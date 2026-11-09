@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "getting-around-malaysia" }
 related: ["getting-around-malaysia"]
 keywords: ["Malaysia travel tips", "999 emergency Malaysia", "Malaysia SIM card tourist", "Malaysia monsoon season", "Malaysia travel vaccinations", "tipping in Malaysia"]
+framework: explainer
 ---
 
 คุณลงจากเครื่องแล้ว เจ็ตแล็ก และโทรศัพท์ของคุณไม่มีสัญญาณ ก่อนจะกังวลเรื่องนาซิเลอมัก (nasi lemak) จานสมบูรณ์แบบ ให้จัดการเรื่องน่าเบื่อแต่สำคัญก่อน คือ ซิมที่ใช้งานได้ เบอร์ฉุกเฉินที่ถูกต้อง และการรู้ว่าฝนกำลังจะตกหรือไม่ ต่อไปนี้คือรายการย่อที่ผ่านการตรวจสอบแล้ว

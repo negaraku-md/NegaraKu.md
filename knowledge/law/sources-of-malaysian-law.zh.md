@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "court-hierarchy" }
 related: ["federal-constitution", "common-law-in-malaysia", "civil-and-syariah-courts", "how-a-bill-becomes-law", "national-land-code", "court-hierarchy"]
 keywords: ["sources of Malaysian law", "Malaysian legal system", "Federal Constitution supremacy", "Article 4(1)", "Ninth Schedule Federal List State List", "Civil Law Act 1956", "Islamic law Malaysia", "adat Adat Perpatih Adat Temenggong", "customary law Malaysia", "hierarchy of law Malaysia"]
+framework: explainer
 ---
 
 一宗马来西亚法院正在审理的单一家庭纠纷，原则上可能在触及案情事实之前，就必须援引四套不同的法律体系：一项宪法条文、一部联邦法规、一条继受而来的英国衡平法规则，以及——如果诉讼双方是森美兰（Negeri Sembilan）Adat Perpatih之下的马来人——一项具有法律效力的习俗。这些都不是假设性的边缘情况，而是这套体系的日常架构。

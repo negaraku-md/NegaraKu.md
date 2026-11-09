@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "capital-gains-tax" }
 related: ["service-tax-on-digital-services-stods", "capital-or-revenue", "capital-gains-tax"]
 keywords: ["ضريبة العملات المشفَّرة ماليزيا", "cryptocurrency tax Malaysia", "crypto tax LHDN", "ضريبة العملة الرقمية", "badges of trade crypto", "bitcoin tax Malaysia"]
+framework: explainer
 ---
 
 يبيع شخصان البيتكوين نفسه في اليوم نفسه ويجنيان الربح نفسه. أحدهما لا يدين بشيء؛ والآخر يدين بضريبة الدخل. وفي ماليزيا، ما يفصل بينهما ليس العملة — بل ما إذا كانت هيئة الضرائب ترى متاجرة.

@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "corporate-income-tax" }
 related: ["sales-and-service-tax"]
 keywords: ["duti kasino", "cukai perjudian", "duti mesin permainan", "duti pertaruhan pool", "number forecast operator", "gaming tax Malaysia"]
+framework: rules
 ---
 
 카지노 테이블이나 4D 창구에서 걸리는 모든 링깃(RM)에는 숨은 세금이 따릅니다 — 그리고 말레이시아에서 그 세율은 정부가 어느 산업에 부과하는 것보다 높은 축에 듭니다.

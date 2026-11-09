@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "mm2h-long-stay-visa" }
 related: ["mm2h-long-stay-visa"]
 keywords: ["medical tourism Malaysia", "MHTC Malaysia Healthcare Travel Council", "Malaysia healthcare travellers", "healthcare travel Malaysia cost", "why patients come to Malaysia for treatment"]
+framework: explainer
 ---
 
 Một gia đình từ Jakarta bay đến cho ca bắc cầu động mạch tim của người cha. Một cặp vợ chồng người Anh đặt lịch IVF vì danh sách chờ ở quê nhà kéo dài vượt quá cửa sổ khả năng sinh sản của họ. Một bệnh nhân người Bangladesh đến để làm một cuộc sàng lọc sức khỏe thường quy mà phòng khám ở quê ông không thể thực hiện.

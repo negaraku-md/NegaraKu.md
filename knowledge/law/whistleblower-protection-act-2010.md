@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["macc-sprm", "employment-act-1955"]
 keywords: ["whistleblower protection act 2010", "act 711", "improper conduct", "whistleblower malaysia", "detrimental action", "section 11 revocation", "macc disclosure"]
+framework: explainer
 ---
 
 Report a bribe at work and Malaysian law can keep your name secret, shield you from being sued, and make it unlawful for your boss to sack you for it. But step one wrong way — go to the press first, or turn out to have had your own hand in the scheme — and every one of those protections can be taken away. That is the deliberate design of the Whistleblower Protection Act 2010.

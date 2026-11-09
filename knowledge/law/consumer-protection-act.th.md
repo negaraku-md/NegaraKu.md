@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["contracts-act-1950", "court-hierarchy", "companies-act-2016"]
 keywords: ["Consumer Protection Act 1999", "Act 599", "Tribunal for Consumer Claims", "TTPM", "consumer rights Malaysia", "KPDN", "consumer claim RM50000"]
+framework: data-reference
 ---
 
 โทรศัพท์ที่พังในสัปดาห์ที่สอง ผู้รับเหมาต่อเติมที่รับเงินมัดจำแล้วหายตัวไป สติกเกอร์ "ลด 50%" บนราคาที่ไม่เคยเป็นราคาเดิมจริง มาเลเซียมีกฎหมายฉบับเดียวที่ตอบทั้งสามกรณีนี้: พระราชบัญญัติคุ้มครองผู้บริโภค 1999

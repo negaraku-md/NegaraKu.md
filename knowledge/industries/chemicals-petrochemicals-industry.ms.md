@@ -97,6 +97,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review (output/export, capacity and ownership figures flagged for verification).
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Plastik, baja, detergen, getah sintetik, kosmetik, cat dan resin di dalam sarung telefon anda semuanya bermula sebagai bahan kimia — dan sebahagian yang mengejutkan daripadanya, atau blok binaannya, dibuat di Malaysia. Di sebalik kisah minyak-dan-gas serta minyak sawit yang lebih terkenal di negara ini, terletak sebuah industri kimia dan petrokimia yang besar dan secara senyap bersifat strategik, yang menukarkan hidrokarbon mentah dan minyak sayuran menjadi bahan yang menjadi sandaran kehidupan moden.

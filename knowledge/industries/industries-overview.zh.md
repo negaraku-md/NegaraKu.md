@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "industries-tourism" }
 related: []
 keywords: ["Malaysia industries", "Malaysia economy sectors", "Malaysia GDP by sector", "Malaysia exports", "electrical and electronics Malaysia", "palm oil", "Malaysia manufacturing", "services sector Malaysia"]
+framework: explainer
 ---
 
 追溯全球某件电子产品中的几乎任何一个部件——智能手机里的芯片、数据中心服务器上的焊点——它很有可能有一部分曾经过槟城、居林或巴生的某个工厂车间。然而工厂只是故事的一小部分。今天的马来西亚，其大部分收入并非来自它制造了什么，而是来自它销售、服务和运送了什么。这就是那个经济体的地图：哪些领域举足轻重、每一个的分量有多重，以及本类别中更深入的指南从何处接续这条线索。

@@ -76,6 +76,7 @@ wikidata: "Q27962026"
 relations: []
 related: []
 keywords: ["Road Transport Act 1987", "Act 333", "Akta Pengangkutan Jalan 1987", "RTA 1987", "JPJ", "driving without licence Malaysia", "traffic offences Malaysia", "DUI Malaysia penalty", "Road Transport Amendment Act 2020", "dangerous driving Malaysia", "Section 41 RTA", "Section 44 RTA"]
+framework: rules
 ---
 
 Gần như mọi *saman* (giấy phạt) của JPJ, mọi hạng giấy phép lái xe, và mọi hợp đồng bảo hiểm trách nhiệm bên thứ ba tại Malaysia đều bắt nguồn từ một đạo luật: **Luật Giao thông Đường bộ 1987 (Road Transport Act 1987, Act 333)**, tiếng Malay là *Akta Pengangkutan Jalan 1987*. Đó là luật chính của đất nước về xe cơ giới và giao thông đường bộ, và nó chủ yếu do **Cục Giao thông Đường bộ (Jabatan Pengangkutan Jalan, JPJ)** thực thi. Dưới đây là bản đồ bằng ngôn ngữ dễ hiểu về những gì mỗi Phần điều chỉnh và các tội danh thường gặp nay khiến bạn tốn bao nhiêu.

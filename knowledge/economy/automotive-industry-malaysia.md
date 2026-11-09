@@ -108,6 +108,7 @@ entity: "Automotive industry of Malaysia"
 relations: []
 related: []
 keywords: ["Malaysia automotive industry", "Proton", "Perodua", "National Automotive Policy", "NAP 2020", "electric vehicles Malaysia", "TIV", "car manufacturing Malaysia", "EV incentives", "CKD"]
+framework: profile
 ---
 
 Most South-East Asian countries let foreign carmakers assemble on their soil and left it at that. Malaysia did something bolder and stranger: it decided the nation should own the car itself. Two badges born of that gamble, Proton and Perodua, still put more than three in five new cars on Malaysian roads today.

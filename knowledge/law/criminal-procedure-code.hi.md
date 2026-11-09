@@ -71,6 +71,7 @@ relations:
   - { rel: "explained-in", to: "rights-when-arrested-malaysia" }
 related: ["penal-code"]
 keywords: ["kanun tatacara jenayah", "akta 593", "criminal procedure code", "आपराधिक प्रक्रिया संहिता", "रिमांड", "seksyen 117", "ज़मानत", "seksyen 28A", "गिरफ़्तारी", "आपराधिक मुकदमा", "prima facie"]
+framework: explainer
 ---
 
 जब मलेशिया में किसी व्यक्ति को गिरफ़्तार किया जाता है, तो उस क्षण के बाद क्या होता है — चाहे उसे रिहा किया जाए, हिरासत में रखा जाए, आरोपित किया जाए या उस पर मुकदमा चलाया जाए — यह मनमाने ढंग से तय नहीं किया जाता। इसे आपराधिक प्रक्रिया संहिता (Criminal Procedure Code, Act 593), या संक्षेप में CPC, द्वारा चरण-दर-चरण निर्धारित किया गया है।

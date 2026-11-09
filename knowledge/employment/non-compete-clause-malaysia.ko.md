@@ -60,6 +60,7 @@ relations:
   - { rel: "part-of", to: "employment" }
 related: ["employment-contract-malaysia", "termination-of-employment-malaysia"]
 keywords: ["non compete clause malaysia", "restraint of trade malaysia", "section 28 contracts act 1950", "non solicitation malaysia", "restrictive covenant malaysia"]
+framework: explainer
 ---
 
 거의 모든 말레이시아 고용 계약에는 경업 금지 조항이 있으며, 그 거의 전부가 무효입니다.

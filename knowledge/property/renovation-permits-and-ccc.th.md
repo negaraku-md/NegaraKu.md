@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "buying-property-in-malaysia" }
 related: []
 keywords: ["CCC", "Sijil Perakuan Siap dan Pematuhan", "ubah suai rumah", "kebenaran PBT", "Akta 133", "permit renovation", "Principal Submitting Person"]
+framework: rules
 ---
 
 คุณอยากต่อเติมครัวด้านหลังบ้านหรือต่อเติมชั้น แล้วจู่ ๆ เพื่อนบ้านก็บอกว่า "ต้องขอที่สภาก่อน" จริงหรือ? สำหรับงานปรับปรุงส่วนใหญ่ ใช่

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "financial-intelligence-unit" }
 related: ["bank-negara-malaysia"]
 keywords: ["AMLA", "AMLATFPUAA 2001", "Act 613", "blanqueo de capitales Malasia", "financiación del terrorismo", "institución informante", "informe de transacción sospechosa", "Bank Negara Malaysia", "congelación e incautación", "cumplimiento AML CFT", "money laundering Malaysia", "terrorism financing", "reporting institution", "suspicious transaction report", "Bank Negara Malaysia", "AML CFT compliance"]
+framework: rules
 ---
 
 Cuando un banco malasio marca la transferencia de un cliente como «sospechosa», un único estatuto decide qué ocurre a continuación: a quién hay que avisar, con qué rapidez y qué poderes puede entonces desplegar el Estado sobre el dinero. Ese estatuto es la AMLA.

@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "corporate-income-tax" }
 related: ["sales-and-service-tax"]
 keywords: ["duti kasino", "cukai perjudian", "duti mesin permainan", "duti pertaruhan pool", "number forecast operator", "gaming tax Malaysia"]
+framework: rules
 ---
 
 在赌场牌桌或4D柜台上投下的每一令吉都带着一层隐藏的税——而在马来西亚，其税率是政府对各行各业征收中最高的之一。

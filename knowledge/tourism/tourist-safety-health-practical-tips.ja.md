@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "getting-around-malaysia" }
 related: ["getting-around-malaysia"]
 keywords: ["Malaysia travel tips", "999 emergency Malaysia", "Malaysia SIM card tourist", "Malaysia monsoon season", "Malaysia travel vaccinations", "tipping in Malaysia"]
+framework: explainer
 ---
 
 着陸したはいいものの、時差ぼけで、スマートフォンは圏外を示している。完璧なナシレマッを気にする前に、退屈だが重要なことを片付けておこう——使えるSIM、正しい緊急通報番号、そして空が今にも崩れそうかどうかを知っておくことだ。以下は検証済みの要点リストである。

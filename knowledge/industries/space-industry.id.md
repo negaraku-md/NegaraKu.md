@@ -107,6 +107,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Malaysia tidak meluncurkan roket sendiri, namun ia telah menerbangkan seorang antariksawan, membangun dan mengoperasikan mikrosatelit, serta mengesahkan undang-undang untuk melisensikan kegiatan antariksa swasta sebelum sebagian besar tetangganya. Sektor antariksanya kecil dan diam-diam strategis — terjalin melalui kebijakan jalur lebar, pertahanan, pemantauan bencana dan prestise nasional. Panduan ini memetakan agensi, undang-undang, satelit dan ambisi yang membentuk ekonomi antariksa Malaysia.

@@ -82,6 +82,7 @@ relations:
   - { rel: "compares-with", to: "arbitration-vs-litigation-malaysia" }
 related: ["arbitration-vs-litigation-malaysia", "contracts-act-malaysia"]
 keywords: ["CIPAA", "construction adjudication", "AIAC", "payment claim", "Act A1738", "construction disputes Malaysia"]
+framework: explainer
 ---
 
 一名逾期六个月仍未获付款的分包商，无需苦等数年才等到开庭日。根据 CIPAA，他们可以在数周内迫使纠纷进入具约束力的裁决——而这座时钟对双方都毫不留情。

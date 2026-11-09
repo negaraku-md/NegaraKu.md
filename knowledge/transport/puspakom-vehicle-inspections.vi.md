@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "road-tax-renewal-malaysia" }
 related: ["road-tax-renewal"]
 keywords: ["puspakom", "pemeriksaan berkala", "kenderaan komersial", "e-hailing", "cukai jalan", "akta pengangkutan jalan 1987"]
+framework: rules
 ---
 
 Nếu bạn sở hữu một xe tải, xe van, taxi hoặc xe gọi xe điện tử, lịch sáu-tháng của Puspakom thực chất là lịch thuế đường bộ của bạn — không có dấu kiểm định hợp lệ, JPJ sẽ không cho phép bạn gia hạn giấy phép phương tiện.

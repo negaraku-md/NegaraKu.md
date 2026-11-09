@@ -106,6 +106,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Malaysia adalah salah satu pengolah kakao terbesar dunia yang nyaris berhenti menanam kakao. Dalam satu generasi, negara ini berubah dari produsen biji empat besar, dengan lerengnya di Sabah dan Semenanjung Malaysia sarat buah kakao, menjadi tempat yang mengimpor biji dengan kapal kargo dan hampir tidak memanen beberapa ratus ton biji sendiri. Yang bertahan, dan berkembang, adalah ujung pabrik: pabrik penggilingan, kilang penyulingan, dan lini cokelat yang mengubah biji impor menjadi mentega kakao, bubuk, pasta dan cokelat jadi untuk diekspor. Hasilnya adalah "paradoks kakao" - industri hilir kelas dunia yang bertengger di atas sektor hulu yang nyaris lenyap.

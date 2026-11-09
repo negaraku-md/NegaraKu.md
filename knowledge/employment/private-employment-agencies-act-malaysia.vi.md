@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["employment-act-1955"]
 keywords: ["agensi pekerjaan swasta", "Akta 246", "lesen headhunting", "carian eksekutif", "JTKSM", "yuran penempatan"]
+framework: rules
 ---
 
 Mở một hãng săn đầu người ở Malaysia và bắt đầu ghép ứng viên với người sử dụng lao động mà không có giấy phép, và bạn không chỉ vi phạm thủ tục — bạn phạm một tội danh có thể mang theo một khoản phạt sáu con số. Mọi doanh nghiệp bố trí người tìm việc với người sử dụng lao động đều chịu sự điều chỉnh của **Private Employment Agencies Act 1981 (Act 246)**, do Cục Lao động thi hành.

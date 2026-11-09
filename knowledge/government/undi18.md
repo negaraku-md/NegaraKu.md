@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "constitutional-amendment", "jpn", "dewan-rakyat", "how-a-bill-becomes-law"]
 keywords: ["Undi18", "Akta A1603", "pindaan perlembagaan umur mengundi 18 tahun", "Pendaftaran Pemilih Secara Automatik", "PPSA", "Perkara 119 Perlembagaan Persekutuan", "SPR daftar pemilih automatik", "umur mengundi Malaysia", "Constitution Amendment Act 2019"]
+framework: explainer
 ---
 
 Pindaan yang mengubah landskap pengundi Malaysia hanya mengisi tiga muka surat. Akta Perlembagaan (Pindaan) 2019 — Akta A1603 — tidak menulis prosedur baharu yang panjang lebar. Ia menukar beberapa perkataan sahaja dalam tiga tempat, dan dua daripada penukaran itu memindahkan berjuta-juta warganegara ke dalam daftar pemilih.

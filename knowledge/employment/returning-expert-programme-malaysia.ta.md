@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "income-tax-rates-malaysia" }
 related: []
 keywords: ["Returning Expert Programme", "REP", "TalentCorp", "15% flat tax", "Malaysian diaspora", "returning talent", "MyHeart", "CKD vehicle exemption"]
+framework: explainer
 ---
 
 நீங்கள் வெளிநாட்டில் தொழில் வளர்த்து, நாடு திரும்புவதைக் கருத்தில் கொள்ளும் ஒரு மலேசியராக இருந்தால், Returning Expert Programme (REP) வழக்கமான படிநிலை விகிதங்களுக்குப் பதிலாக ஐந்து ஆண்டுகளுக்கு வேலை வருமானத்தின் மீது விருப்பத் தேர்வான ஒரே சீரான 15% வருமான வரி விகிதத்தை வழங்குகிறது. தகுதி பெற, நீங்கள் மலேசியாவுக்குத் திரும்புவதற்கு *முன்* விண்ணப்பிக்க வேண்டும்.

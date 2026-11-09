@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "johor-singapore-special-economic-zone" }
 related: ["johor-singapore-special-economic-zone"]
 keywords: ["Malaysia data centre", "cloud infrastructure", "Johor data centre", "DESAC incentive", "data centre power water", "hyperscale Malaysia"]
+framework: profile
 ---
 
 2019年，新加坡停止批准大型新数据中心。四年之内，它拒之门外的服务器在长堤对岸二十分钟车程处建起了一个新产业——柔佛也从一个安静的马来西亚州属，变成了东南亚最繁忙的数据中心市场。

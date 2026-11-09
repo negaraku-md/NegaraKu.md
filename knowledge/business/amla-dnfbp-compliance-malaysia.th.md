@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["company-secretary-malaysia"]
 keywords: ["AMLA", "DNFBP", "reporting institution", "suspicious transaction report", "customer due diligence", "FIED", "Bank Negara Malaysia", "money laundering"]
+framework: rules
 ---
 
 กฎหมายต่อต้านการฟอกเงินไม่ได้เป็นเรื่องที่เกี่ยวข้องเฉพาะธนาคารเท่านั้น ภายใต้ AMLA ของมาเลเซีย ธุรกิจและวิชาชีพนอกภาคการเงินหลากหลายประเภทก็เป็นสถาบันผู้รายงานเช่นกัน เลขานุการบริษัทที่จดทะเบียนจัดตั้งบริษัท ตัวแทนอสังหาริมทรัพย์ที่ปิดการขายทรัพย์สิน หรือผู้ค้าที่รับชำระเงินสดจำนวนมาก ต่างก็อาจอยู่ในขอบเขตของระบบนี้ — พร้อมภาระหน้าที่ด้านการตรวจสอบสถานะลูกค้า การเก็บบันทึก และการรายงาน ที่ต้องปฏิบัติต่อธนาคารกลางมาเลเซียโดยตรง

@@ -96,6 +96,7 @@ keywords:
   - Ley de Desarrollo Mineral de 1994
   - JMG
   - Lynas
+framework: profile
 ---
 
 La economía moderna de Malasia fue, literalmente, excavada del suelo. Mucho antes del aceite de palma, la electrónica o los semiconductores, fue el **estaño** lo que hizo que la península importara al mundo: financió ferrocarriles, hizo crecer ciudades como Ipoh y Kuala Lumpur y atrajo a generaciones de mineros migrantes. La minería es la historia industrial más antigua del país y, aunque ya no domina la economía, se está reescribiendo discretamente en torno a un premio muy moderno: los elementos de tierras raras.

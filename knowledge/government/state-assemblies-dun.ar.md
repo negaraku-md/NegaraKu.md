@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "majlis-raja-raja" }
 related: ["dewan-rakyat", "federal-state-division", "spr-election-commission", "majlis-raja-raja", "federal-constitution"]
 keywords: ["المجلس التشريعي للولاية", "Dewan Undangan Negeri", "DUN", "الهيئة التشريعية للولاية", "الجدول الثامن", "Jadual Kelapan", "المادة 71", "Perkara 71", "الأحكام الأساسية", "Yang di-Pertua Negeri", "Menteri Besar", "إنكمن الولاية", "State Legislative Assembly Malaysia"]
+framework: explainer
 ---
 
 الأرض شأن من شؤون الولاية. وقانون الأسرة الإسلامي شأن من شؤون الولاية. والحكم المحلي شأن من شؤون الولاية. لكن من الذي يسنّ القانون فعليًا في هذه الشؤون في ولاية بعينها، ووفق أي قواعد؟ الجواب ليس مسألة عُرف أو ممارسة وحدها — بل هو مكتوب، قسمًا قسمًا، في جدول في نهاية الدستور الاتحادي.

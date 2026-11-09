@@ -72,6 +72,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
 related: []
 keywords: ["derma darah", "Pusat Darah Negara", "PDN", "syarat menderma darah", "keistimewaan penderma", "blood donation Malaysia"]
+framework: how-to
 ---
 
 ตามข้อมูลของ PDN การบริจาคโลหิตหนึ่งครั้งสามารถช่วยชีวิตได้อย่างน้อยสามชีวิต — เพราะโลหิตครบส่วนถูกนำไปแปรรูปเป็นเซลล์เม็ดเลือดแดง เกล็ดเลือด และพลาสมา สำหรับผู้ป่วยที่แตกต่างกัน

@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "cultural-heritage-tourism-malaysia" }
 related: ["cultural-heritage-tourism-malaysia"]
 keywords: ["kopitiam", "kopi", "teh tarik", "kopi-O", "kopi-C", "mamak", "minuman Malaysia"]
+framework: explainer
 ---
 
 You point at the counter and call out "kopi-O peng, satu!" — and somehow the uncle behind that old espresso machine understands exactly what you want. The language of kopitiam orders looks like a secret code, but it is really a neat, logical system.

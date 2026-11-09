@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "trademark-registration-malaysia" }
 related: ["trademark-registration-malaysia"]
 keywords: ["المؤشر الجغرافي", "GI Act 2022", "Act 836", "MyIPO", "فلفل ساراواك", "Musang King", "الملكية الفكرية ماليزيا", "مكان المنشأ"]
+framework: explainer
 ---
 
 قُل «فلفل ساراواك» أو «موسانج كينغ» وسيتخيّل المشتري فوراً مكاناً وتربةً ونكهةً محددة. والمؤشر

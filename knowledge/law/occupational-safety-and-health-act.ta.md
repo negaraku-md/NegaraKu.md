@@ -81,6 +81,7 @@ relations:
   - { rel: "supersedes", to: "factories-and-machinery-act-1967" }
 related: ["labour-law-map-malaysia", ]
 keywords: ["OSHA 1994", "Akta 514", "tanggungjawab majikan", "DOSH", "penilaian risiko", "JKKP 6", "keselamatan pekerjaan"]
+framework: rules
 ---
 
 ஒரு ஊழியர் சாரத்திலிருந்து (scaffolding) கீழே விழுகிறார், மேலும் விசாரணையாளரின் முதல் கேள்வி "யார் அலட்சியமாக இருந்தார்?" என்பதல்ல — "அதைத் தடுக்க முதலாளி நடைமுறையில் சாத்தியமான அனைத்தையும் செய்தாரா?" என்பதே. அதுவே தொழில் பாதுகாப்பு மற்றும் சுகாதாரச் சட்டம் 1994 (Occupational Safety and Health Act 1994, Act 514), அல்லது OSHA 1994 இன் மையமாகும்.

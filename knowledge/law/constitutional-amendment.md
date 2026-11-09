@@ -53,6 +53,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["federal-constitution", "majlis-raja-raja", "ma63", "article-152-language", "fundamental-liberties"]
 keywords: ["Article 159 Federal Constitution", "amending the Constitution Malaysia", "two-thirds majority Parliament", "Conference of Rulers consent", "Article 161E Sabah Sarawak", "Perkara 159", "constitutional amendment Malaysia"]
+framework: explainer
 ---
 
 Article 159 opens by subjecting itself to its own rules. Clause (5) lists the provisions that cannot be amended without the Conference of Rulers' consent — and the last item on that list is "this Clause" itself. The amendment procedure protects its own amendment procedure. That detail alone tells you the Federal Constitution was never meant to be changed by one simple rule.

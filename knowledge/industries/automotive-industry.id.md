@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "national-automotive-policy" }
 related: []
 keywords: ["Proton", "Perodua", "national car", "Geely", "DRB-HICOM", "UMW", "Sime Darby", "National Automotive Policy", "NAP 2020", "electric vehicles Malaysia", "e.MAS 7", "QV-E"]
+framework: profile
 ---
 
 Sedikit sekali negara sebesar Malaysia yang pernah mencoba membangun mobil dari awal. Lebih sedikit lagi yang memiliki dua merek buatan sendiri terparkir di kebanyakan halaman rumah negara. Berkendara melalui kota mana pun di Malaysia dan lalu lintasnya menceritakan kisah kebijakan industri yang sengaja dirancang: sebuah Perodua Myvi di lampu lalu lintas, sebuah Proton Saga di belakangnya, keduanya berketurunan dari taruhan 1980-an bahwa sebuah ekonomi berkembang mampu memproduksi otomobilnya sendiri.

@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bursa-malaysia"]
 keywords: ["CelcomDigi", "Maxis", "U Mobile", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "MCMC", "telco merger", "single wholesale network"]
+framework: profile
 ---
 
 말레이시아는 3년 동안 전체 5G 구축을 단일 정부 소유 파이프 하나로 운영했습니다. 그러다 한 차례의 강도 높은 정책 국면을 거치며 그 모델을 허물고, 두 번째 네트워크를 자국의 가장 작은 주요 사업자에게 넘긴 뒤, 국가의 지분에서 완전히 손을 뗐습니다. 그 결과 2021년과는 전혀 다른 모습의 이동통신 시장이 되었습니다.

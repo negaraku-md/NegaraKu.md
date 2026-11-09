@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "harta-sepencarian-malaysia" }
 related: []
 keywords: ["undang-undang keluarga islam", "akta 303", "mahkamah syariah", "talaq", "fasakh", "khuluk", "hadhanah", "nafkah", "poligami", "islamic family law malaysia"]
+framework: rules
 ---
 
 夫が扶養（nafkah）を与えないことを理由に離婚を求める妻、満七歳になったばかりの息子の監護を続けたいと望む父親、別の妻を娶ることを申請する男性——この三つの状況はいずれも、通常の法律事務所から始まるのではなく、各州のイスラム家族法のもとで、シャリア裁判所において始まる。本稿は、その法的枠組みを記述的に、いずれの立場にも偏ることなく説明する。

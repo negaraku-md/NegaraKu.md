@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "jerebu-di-malaysia" }
 related: []
 keywords: ["IPU", "API", "indeks pencemar udara", "kualiti udara", "jerebu", "PM2.5", "PM10", "Jabatan Alam Sekitar"]
+framework: explainer
 ---
 
 Ketika kabut asap menebal dan sekolah mulai bertanya apakah apel pagi sebaiknya dibatalkan, satu angka tunggal biasanya menjadi penentu — pembacaan IPU. Angka itu tampak sederhana, tetapi di baliknya ada enam polutan yang diukur secara terus-menerus dan satu formula yang menyaring semuanya menjadi satu nilai.

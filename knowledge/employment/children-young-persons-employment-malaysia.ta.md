@@ -82,6 +82,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-tenaga-kerja-semenanjung-malaysia" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["Akta 350", "kanak-kanak dan orang muda", "buruh kanak-kanak", "umur minimum bekerja", "kerja hiburan awam", "kerja berbahaya", "Akta Kanak-Kanak dan Orang Muda Pekerjaan 1966"]
+framework: rules
 ---
 
 குடும்ப உணவுக் கடையில் உதவும் 14 வயது மாணவர் ஒருவரும், தொலைக்காட்சி விளம்பரத்தில் நடிக்கும் ஐந்து வயது குழந்தை ஒன்றும் ஒரே சட்டத்தால் ஆளப்படுகின்றனர் — அது முதலாளிகள் வழக்கமாக நாடும் Employment Act 1955 அல்ல. அந்தச் சட்டம்தான் Children and Young Persons (Employment) Act 1966, அல்லது Act 350.

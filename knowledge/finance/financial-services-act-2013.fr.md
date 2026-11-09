@@ -63,6 +63,7 @@ wikidata: "Q28163620"
 relations: []
 related: []
 keywords: ["Financial Services Act 2013", "Loi sur les services financiers de 2013", "FSA 2013", "FSA Malaysia", "Act 758", "Bank Negara Malaysia réglementation financière", "réglementation des institutions financières Malaisie", "protection du consommateur services financiers Malaisie", "sanction activité financière sans agrément Malaisie", "IFSA 2013", "réglementation des systèmes de paiement Malaisie"]
+framework: explainer
 ---
 
 Chaque fois que vous utilisez un portefeuille électronique, contractez un prêt automobile ou achetez un plan takaful, vous traitez avec une entreprise qui répond devant un seul régulateur — **Bank Negara Malaysia (BNM)** — grâce à une seule loi. La **Loi sur les services financiers de 2013 (FSA)**, citée comme **Act 758**, est le texte législatif fondamental de la Malaisie pour le secteur financier conventionnel. Elle s'applique dans l'ensemble de la Malaisie, est administrée et appliquée par le BNM, et est entrée en vigueur le **30 juin 2013**. La plupart des explications rédigées pour les juristes s'arrêtent à la liste des lois abrogées. Celle-ci répond à la question qu'un Malaisien ordinaire se pose réellement : que signifie la FSA pour votre argent, vos droits et les personnes qui en ont la garde ?

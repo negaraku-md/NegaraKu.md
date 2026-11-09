@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["federal-constitution", "constitutional-amendment", "jpn", "dewan-rakyat", "how-a-bill-becomes-law"]
 keywords: ["Undi18", "Akta A1603", "amendement constitutionnel âge du vote 18 ans", "Pendaftaran Pemilih Secara Automatik", "PPSA", "article 119 Constitution fédérale", "SPR inscription automatique des électeurs", "âge du vote Malaisie", "Constitution Amendment Act 2019"]
+framework: explainer
 ---
 
 L'amendement qui a remodelé le paysage électoral de la Malaisie ne fait que trois pages. La loi de 2019 portant modification de la Constitution — l'Act A1603 — n'a pas rédigé une longue procédure nouvelle. Elle a changé une poignée de mots à trois endroits, et deux de ces changements ont fait entrer des millions de citoyens sur les listes électorales.

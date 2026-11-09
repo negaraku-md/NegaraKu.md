@@ -63,6 +63,7 @@ relations:
   - { rel: "governs", to: "penal-code-malaysia" }
 related: ["penal-code"]
 keywords: ["आत्मरक्षा", "निजी रक्षा का अधिकार", "दंड संहिता", "Section 100", "Section 96", "self-defence Malaysia", "private defence"]
+framework: explainer
 ---
 
 आधी रात में आपके ही घर में एक घुसपैठिया आप पर हमला करता है — उस क्षण, क्या मलेशियाई कानून आपको पलटवार करने की अनुमति देता है? हाँ, लेकिन कड़ी शर्तों के तहत, और वैध रक्षा तथा अपराध के बीच की रेखा उससे कहीं पतली है जितना कई लोग मानते हैं।

@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["contracts-act-1950", "court-hierarchy", "companies-act-2016"]
 keywords: ["Consumer Protection Act 1999", "Akta 599", "Tribunal Tuntutan Pengguna", "TTPM", "hak pengguna Malaysia", "KPDN", "tuntutan pengguna RM50000"]
+framework: data-reference
 ---
 
 Sebuah telefon yang rosak pada minggu kedua. Seorang kontraktor renovasi yang

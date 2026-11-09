@@ -80,6 +80,7 @@ relations:
   - { rel: "affects", to: "commercial-buildings-malaysia" }
 related: []
 keywords: ["EECA 2024", "Akta 861", "kecekapan tenaga", "Suruhanjaya Tenaga", "pengurus tenaga berdaftar", "audit tenaga", "intensiti tenaga bangunan", "MEPS"]
+framework: rules
 ---
 
 Nếu nhà máy hoặc tòa nhà văn phòng của bạn sử dụng năng lượng trị giá hàng triệu ringgit mỗi năm, chính phủ nay muốn biết mỗi gigajoule đó đi đâu — và muốn bạn cho thấy nỗ lực giảm lãng phí. Đó là cốt lõi của Energy Efficiency and Conservation Act 2024, hay Act 861, luật có hiệu lực từ ngày 1 tháng 1 năm 2025.

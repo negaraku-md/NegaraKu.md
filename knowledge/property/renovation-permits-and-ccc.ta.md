@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "buying-property-in-malaysia" }
 related: []
 keywords: ["CCC", "Sijil Perakuan Siap dan Pematuhan", "ubah suai rumah", "kebenaran PBT", "Akta 133", "permit renovation", "Principal Submitting Person"]
+framework: rules
 ---
 
 வீட்டின் பின்புறத்தில் ஒரு சமையலறையைக் கூட்ட விரும்புகிறீர்கள் அல்லது ஒரு மாடி எழுப்ப நினைக்கிறீர்கள் — திடீரென அண்டை வீட்டார் “முதலில் மன்றத்தில் விண்ணப்பிக்க வேண்டும்” என்கிறார். இது உண்மையா? பெரும்பாலான மறுசீரமைப்பு வேலைகளுக்கு, ஆம்.

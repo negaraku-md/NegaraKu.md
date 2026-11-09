@@ -63,6 +63,7 @@ relations:
   - { rel: "governs", to: "penal-code-malaysia" }
 related: ["penal-code"]
 keywords: ["pertahanan diri", "hak mempertahankan diri", "Kanun Keseksaan", "seksyen 100", "seksyen 96", "self-defence Malaysia", "private defence"]
+framework: explainer
 ---
 
 一名入侵者在半夜闯进你的住家袭击你——在那一刻，马来西亚法律允许你还击吗？允许，但附带严格的条件，而合法防卫与犯罪之间的界线，比许多人想象的要细得多。

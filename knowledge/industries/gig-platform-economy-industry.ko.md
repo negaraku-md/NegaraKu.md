@@ -97,6 +97,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 매일 말레이시아에서는 수백만 건의 거래가 상점이나 사무실, 택시 승강장이 아니라 앱으로 성사됩니다. 길가로 불려 온 차 한 대, 오토바이로 도시를 가로질러 옮겨지는 음식 한 봉지, 프리랜서가 영영 만나지 않을 고객을 위해 디자인된 로고입니다. 이것이 긱·플랫폼 경제 — 디지털 플랫폼이 매개하는 노동 — 이며, 10여 년 만에 신기한 것에서 말레이시아 노동 생활의 가장 눈에 띄는 특징 중 하나로 옮겨 왔습니다.

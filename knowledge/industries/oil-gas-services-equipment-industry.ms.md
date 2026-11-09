@@ -97,6 +97,7 @@ keywords:
   - perkhidmatan penggerudian
   - kapal sokongan luar pesisir
   - Pelan Tindakan OGSE Negara
+framework: profile
 ---
 
 Apabila orang membayangkan kekayaan minyak dan gas Malaysia, mereka biasanya terfikir tentang minyak mentah dan gas di bawah dasar laut luar pantai Terengganu, Sarawak dan Sabah — rizab yang menjadikan PETRONAS salah satu syarikat tenaga terbesar Asia. Tetapi hidrokarbon tidak mengangkat dirinya sendiri keluar dari tanah. Di sebalik setiap medan yang mengeluarkan hasil terletak sepasukan kecil kontraktor: halaman yang mengimpal pelantar keluli, pelantar yang menggerudi telaga, kapal yang mengangkut anak kapal dan kargo ke luar pesisir, jurutera yang mereka bentuk kemudahan, dan juruteknik yang memastikan kesemuanya berjalan. Ekosistem itulah **industri perkhidmatan dan peralatan minyak & gas (OGSE)**, dan ia industri Malaysia yang utama dengan sendirinya.

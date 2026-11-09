@@ -72,6 +72,7 @@ relations:
   - { rel: "compares-with", to: "unesco-world-heritage-malaysia" }
 related: ["unesco-world-heritage"]
 keywords: ["warisan kebangsaan", "Akta Warisan Kebangsaan 2005", "Akta 645", "Jabatan Warisan Negara", "Daftar Warisan Kebangsaan", "WAKOH", "tapak warisan"]
+framework: explainer
 ---
 
 ジョージタウンにある築100年の店舗兼住宅（ショップハウス）、1本のクリス（keris）、宮廷舞踊、そして今なお存命の[ソンケット](/arts-culture/songket)（songket）職人——この4つはいずれも、マレーシアにおいて同じ法的呼称を冠しうる：*国家遺産*（Warisan Kebangsaan）。これらを結びつけているのはUNESCOの一覧ではなく、その名がめったに語られることのない国内名録——**国家遺産名録**（Daftar Warisan Kebangsaan）である。

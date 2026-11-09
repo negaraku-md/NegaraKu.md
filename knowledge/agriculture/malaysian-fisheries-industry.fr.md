@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "mmea" }
 related: []
 keywords: ["industrie de la pêche en Malaisie", "production de poisson de la Malaisie", "aquaculture Malaisie", "aquaculture Malaysia", "LKIM", "Département des pêches de la Malaisie", "Loi sur les pêches 1985", "Fisheries Act 1985", "intrusion de navires de pêche étrangers", "IUU fishing Malaysia"]
+framework: profile
 ---
 
 Avant l'aube, aux embarcadères le long du détroit de Malacca et de la mer de

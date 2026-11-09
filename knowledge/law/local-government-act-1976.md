@@ -66,6 +66,7 @@ wikidata: "Q25475395"
 relations: []
 related: []
 keywords: ["Local Government Act 1976", "Act 171", "Akta Kerajaan Tempatan 1976", "local authority Malaysia", "PBT", "Pihak Berkuasa Tempatan", "majlis perbandaran", "majlis daerah", "assessment tax", "cukai pintu", "local council elections Malaysia", "appointed councillors", "National Council for Local Government", "third vote Malaysia"]
+framework: explainer
 ---
 
 If you have ever wondered why no Malaysian ballot has ever listed a candidate for mayor, the answer is a single statute. The **Local Government Act 1976 (Act 171)** — long title "An Act to revise and consolidate the laws relating to local government" — is the law that constitutes every city, municipal, and district council in Peninsular Malaysia, appoints the people who run them, and hands them the power to tax and fine you. It received Royal Assent on **18 March 1976** and was gazetted on 25 March 1976. Despite what much of the web says, **Section 1(1) states it applies only to Peninsular Malaysia**; Sabah and Sarawak keep their own ordinances.

@@ -87,6 +87,7 @@ relations:
   - { rel: "affects", to: "cost-of-living-overview" }
 related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "subsidi padi"]
+framework: profile
 ---
 
 Setiap kali harga beras naik atau rak supermarket kosong, satu pertanyaan lama kembali menghantui Malaysia: mengapa negara yang subur dengan sawah masih perlu mengimpor hampir separuh berasnya? Jawabannya terletak pada satu industri yang didorong subsidi, dilindungi harga terjamin, dan dikejar oleh target swasembada yang masih belum tercapai.

@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "macc-anti-corruption-malaysia" }
 related: []
 keywords: ["pengaturan perlawanan", "match-fixing", "pertaruhan sukan", "Akta Rumah Judi Terbuka 1953", "Akta Pertaruhan 1953", "SPRM", "integriti sukan", "bola sepak Malaysia"]
+framework: explainer
 ---
 
 เมื่อนักฟุตบอลกว่า 100 คนถูกตำรวจควบคุมตัวในฤดูกาล 1993–1994 มันไม่ใช่เพียงวิกฤตกีฬา แต่เปิดคำถามทางกฎหมายที่ยังไม่ได้รับการแก้ไขอย่างสมบูรณ์จนถึงวันนี้ ว่าประเทศที่ห้ามการพนันกีฬาเกือบทั้งหมดจะจัดการกับอาชญากรรมที่เกิดจากการพนันนั้นเองอย่างไร

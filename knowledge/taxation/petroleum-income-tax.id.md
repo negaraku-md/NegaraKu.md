@@ -72,6 +72,7 @@ relations:
   - { rel: "administered-by", to: "lhdn" }
 related: ["petronas"]
 keywords: ["petroleum income tax", "PITA", "Petroleum Income Tax Act 1967", "petroleum operations", "marginal field tax", "late-life asset PSC", "upstream oil gas tax Malaysia"]
+framework: rules
 ---
 
 Sebuah perusahaan minyak yang mengebor di lepas pantai Terengganu dan sebuah pabrik di Shah Alam keduanya membayar pajak kepada Malaysia — tetapi mereka tidak membayarnya di bawah undang-undang yang sama. Pendapatan petroleum hulu berada dalam rezim tersendiri yang dipagari, dengan tarifnya sendiri, laporan pajaknya sendiri, dan buku aturannya sendiri.

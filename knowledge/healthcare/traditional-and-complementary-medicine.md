@@ -58,6 +58,7 @@ relations:
   - { rel: "governs", to: "traditional-and-complementary-medicine" }
 related: []
 keywords: ["perubatan tradisional", "PT&K", "Akta 775", "TCM", "kiropraktik", "homeopati", "pendaftaran pengamal", "Majlis PT&K"]
+framework: rules
 ---
 
 Sejak 1 Mac 2025, tukang urut tradisional, pengamal perubatan Cina, ahli homeopati dan kiropraktor di Malaysia tidak boleh lagi membuka pintu klinik tanpa satu keping dokumen — sijil pendaftaran. Zaman "mengamal atas nama pengalaman" sudah tamat.

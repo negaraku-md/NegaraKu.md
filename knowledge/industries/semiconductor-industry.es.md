@@ -95,6 +95,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Si estás leyendo esto en un teléfono o una computadora portátil, hay una posibilidad real de que uno de sus chips haya pasado parte de su vida en Malasia: no siendo inventado ni impreso, sino transformado de una simple lámina de silicio en un componente terminado y encapsulado, listo para soldar en una placa de circuito. Ese paso silencioso y poco glamoroso es donde Malasia ha construido una de las posiciones más decisivas de todo el mundo de la electrónica.

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "road-tax-renewal-malaysia" }
 related: ["road-tax-renewal"]
 keywords: ["Puspakom", "فحص المركبات", "الفحص الدوري", "المركبات التجارية", "e-hailing", "ضريبة الطريق", "قانون النقل البري 1987", "road tax", "commercial vehicles"]
+framework: rules
 ---
 
 إذا كنت تملك شاحنة أو شاحنة صغيرة أو سيارة أجرة أو سيارة نقل تشاركي e-hailing، فإن تقويم مركز الفحص الحاسوبي للمركبات (Puspakom) نصف السنوي هو في الحقيقة تقويم ضريبة الطريق الخاص بك — فبدون ختم فحص صالح، لن تسمح لك دائرة النقل البري (JPJ) بتجديد رخصة مركبتك على الإطلاق.

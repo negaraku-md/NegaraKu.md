@@ -103,6 +103,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry-malaysia" }
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "RSPO", "EUDR", "sustainable palm oil", "MS 2530:2022", "MPOCC", "forced labour", "deforestation", "palm oil certification"]
+framework: explainer
 ---
 
 Một lô dầu cọ Malaysia đơn lẻ nay phải trả lời cho ba bộ quy tắc khác nhau cùng một lúc: một chương trình quốc gia bắt buộc ở trong nước, một câu lạc bộ người mua tự nguyện trong phòng họp hội đồng, và một luật phá rừng của châu Âu có thể chặn nó ngay tại cảng. Đối với một ngành đã vận chuyển 22.30 triệu tấn dầu cọ và các sản phẩm gốc cọ chỉ trong mười tháng đầu năm 2024 — thu về RM89.39 tỷ — giấy tờ không còn là một thủ tục hình thức nữa. Nó là sự tiếp cận thị trường.

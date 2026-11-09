@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "vaping-in-malaysia" }
 related: []
 keywords: ["Act 852", "contrôle du tabac", "vape", "tabac", "nicotine", "âge minimum pour fumer", "generational endgame", "zone d'interdiction de fumer"]
+framework: rules
 ---
 
 Pour la première fois, une cigarette et un dispositif de vapotage sont soumis à la même loi en Malaisie — et l'interdiction de vendre à des adolescents n'est plus une simple politique, mais une infraction passible de milliers de ringgit d'amende.

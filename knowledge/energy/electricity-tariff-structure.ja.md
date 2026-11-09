@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
 related: ["tenaga-nasional"]
 keywords: ["tarif elektrik", "TNB", "RP4", "AFA", "ICPT", "Time-of-Use", "Caj Tenaga", "bil elektrik", "Suruhanjaya Tenaga"]
+framework: explainer
 ---
 
 最新のTenaga Nasional（TNB）の請求書を見て、一つのすっきりした合計金額が五行の別々の料金に置き換えられているのに驚いたとしても、見間違いではない——マレーシア半島の電気料金体系は2025年7月1日に全面的に改革された。

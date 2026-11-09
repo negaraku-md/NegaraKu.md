@@ -81,6 +81,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-tenaga-kerja-semenanjung-malaysia" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["Akta 350", "kanak-kanak dan orang muda", "buruh kanak-kanak", "umur minimum bekerja", "kerja hiburan awam", "kerja berbahaya", "Akta Kanak-Kanak dan Orang Muda Pekerjaan 1966"]
+framework: rules
 ---
 
 Seorang pelajar berumur 14 tahun yang membantu di gerai makanan keluarga dan seorang kanak-kanak lima tahun yang berlakon dalam iklan televisyen dikawal oleh undang-undang yang sama — dan bukan Akta Kerja 1955 yang biasa dirujuk majikan. Undang-undang itu ialah Akta Kanak-Kanak dan Orang Muda (Pekerjaan) 1966, atau Akta 350.

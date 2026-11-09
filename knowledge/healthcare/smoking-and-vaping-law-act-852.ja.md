@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "vaping-in-malaysia" }
 related: []
 keywords: ["Akta 852", "kawalan rokok", "vape", "tembakau", "nikotin", "umur minimum merokok", "generational endgame", "kawasan larangan merokok"]
+framework: rules
 ---
 
 マレーシアにおいて、一本のたばこと一台の電子タバコ（ベイプ）機器が初めて同じ法律の対象となった——そして未成年者への販売禁止は、もはや単なる方針ではなく、数千リンギットの過料が科される違反行為となった。

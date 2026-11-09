@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-equity-requirements" }
 related: ["federal-constitution", "fundamental-liberties", "ma63", "majlis-raja-raja", "bumiputera-equity-requirements"]
 keywords: ["Article 153", "special position of the Malays", "natives of Sabah and Sarawak", "Federal Constitution Malaysia", "legitimate interests of other communities", "Article 136 impartial treatment", "Conference of Rulers Article 159", "Bumiputera quotas"]
+framework: explainer
 ---
 
 Article 153 குறித்த பெரும்பாலான சுருக்கங்கள் ஒரே வாக்கியத்தில் நின்றுவிடுகின்றன: இது „மலாய்க்காரர்களின் சிறப்பு நிலையை" பாதுகாக்கிறது. அது வரும் உட்பிரிவை முழுமையாகப் படித்தால், அந்த வாக்கியம் வேறு ஒன்றைச் செய்கிறது — அது ஒரே மூச்சில், ஒரே பதவிக்கு, ஒரே உட்பிரிவில் இரண்டு கடமைகளைப் பெயரிடுகிறது.

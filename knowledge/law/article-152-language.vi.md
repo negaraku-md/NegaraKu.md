@@ -55,6 +55,7 @@ relations:
   - { rel: "governs", to: "bahasa-melayu" }
 related: ["federal-constitution", "bahasa-melayu"]
 keywords: ["Article 152 Federal Constitution", "national language Malaysia", "Perkara 152", "official purpose Malaysia", "National Language Acts 1963/67", "Article 161 Sabah Sarawak English"]
+framework: explainer
 ---
 
 Đọc Điều 152 cùng với phần còn lại của Hiến pháp và một dẫn chiếu nổi bật lên. Điều 161(5) mở đầu bằng các từ "Bất kể bất cứ điều gì trong Điều 152," rồi cho phép một ngôn ngữ bản địa đang được dùng ở Sabah hoặc Sarawak được sử dụng trong các tòa án bản địa và cho bất kỳ bộ luật nào về luật và tập quán bản địa. Nói cách khác, điều về ngôn ngữ quốc gia nằm trong một văn kiện nêu tên chính các ngoại lệ của nó đối với nó.

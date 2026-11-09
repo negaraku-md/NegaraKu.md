@@ -56,6 +56,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["federal-constitution", "court-hierarchy", "parliament"]
 keywords: ["fundamental liberties Malaysia", "Article 5 Federal Constitution", "Article 8 equality Malaysia", "Article 10 freedom of speech Malaysia", "Article 11 freedom of religion Malaysia", "Article 13 right to property Malaysia", "Part II Federal Constitution"]
+framework: explainer
 ---
 
 연방헌법(Federal Constitution) 제2부는 말레이시아 국민의 가장 기본적인 권리를 보장하며 — 그와 거의 동시에 헌법 자체가 허용하는 한계를 그 안에서 명시합니다. 보장과 허용된 제한의 그 짝지음은 입안상의 우연이 아닙니다. 그것이 제2부가 구성된 방식입니다.

@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "pdrm" }
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
+framework: how-to
 ---
 
 Un conductor puede recibir cuatro tipos de multa que se parecen sobre el papel, pero provienen de cuatro partes diferentes, y cada una debe consultarse en un lugar distinto. Mucha gente conoce solo un portal y supone que su multa ha «desaparecido» cuando en realidad está en un sistema diferente.

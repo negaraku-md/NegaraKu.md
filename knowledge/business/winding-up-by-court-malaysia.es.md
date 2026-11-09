@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "statutory-demand-section-466-malaysia" }
 related: ["companies-act-2016"]
 keywords: ["liquidación por el tribunal", "liquidación forzosa", "sección 466", "demanda estatutaria", "Fortuna injunction", "umbral RM50000", "Companies Act 2016", "insolvencia Malasia", "petición de acreedor"]
+framework: explainer
 ---
 
 Una factura impagada puede acabar con una empresa. En Malasia, un acreedor al que se le adeudan más de RM50,000 no necesita una sentencia para recurrir al remedio más drástico del derecho mercantil: una orden judicial para liquidar al deudor y distribuir lo que quede.

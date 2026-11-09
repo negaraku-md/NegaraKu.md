@@ -85,6 +85,7 @@ relations:
   - { rel: "affects", to: "oil-palm-plantations" }
 related: []
 keywords: ["windfall profit levy", "cukai durian runtuh", "palm oil tax Malaysia", "CPO levy", "Windfall Profit Levy Act 1998", "oil palm fruit order"]
+framework: rules
 ---
 
 மூலப் பாமாயில் விலைகள் உயரும்போது, மலேசிய அரசாங்கம் அந்த ஆதாயத்தில் ஒரு பங்கை வசூலிக்கிறது — ஆனால் விலை நிர்ணயிக்கப்பட்ட ஒரு கோட்டைக் கடந்த பிறகு மட்டுமே. அந்தக் கோடுதான் எதிர்பாராத லாப லெவி; இது அதிக விலை உள்ள மாதங்களில் இயங்கத் தொடங்கி, சாதாரண மாதங்களில் அணைந்திருக்கும் ஒரு வரி.

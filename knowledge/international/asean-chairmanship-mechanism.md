@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-chairmanship-2025" }
 related: []
 keywords: ["pengerusian ASEAN", "Piagam ASEAN", "Perkara 31", "giliran abjad", "Malaysia 2025", "Filipina 2026", "Sidang Kemuncak ASEAN"]
+framework: explainer
 ---
 
 Setiap 1 Januari, sebuah negara Asia Tenggara mewarisi kerusi paling berpengaruh di rantau ini — tanpa undian, tanpa kempen, semata-mata mengikut susunan abjad.

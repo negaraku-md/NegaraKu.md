@@ -69,6 +69,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-belia-dan-sukan" }
 related: []
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
+framework: explainer
 ---
 
 Chaque samedi de la deuxième semaine d'octobre, les terrains de sport, les parcs et les salles de toute la Malaisie sont censés être bondés : telle est l'intention qui sous-tend la Journée nationale du sport.

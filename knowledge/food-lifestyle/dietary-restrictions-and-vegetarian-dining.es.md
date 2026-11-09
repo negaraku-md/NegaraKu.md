@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "halal-certification-in-malaysia" }
 related: ["halal-certification-in-malaysia"]
 keywords: ["comida halal Malasia", "halal food Malaysia", "logotipo halal JAKIM", "vegetariano Malasia", "comida vegana Malasia", "restricciones dietéticas Malasia", "vegetariano budista", "sin carne de vacuno"]
+framework: explainer
 ---
 
 Sentarse a comer en Malasia significa compartir mesa con cuatro culturas gastronómicas a la vez — la malaya, la china, la india y las tradiciones que crecieron entre ellas. Esa variedad es un regalo si tiene necesidades dietéticas, y un pequeño campo de minas si no conoce las señales. Aquí le explicamos cómo leerlas.

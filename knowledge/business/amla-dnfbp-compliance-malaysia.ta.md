@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["company-secretary-malaysia"]
 keywords: ["AMLA", "DNFBP", "reporting institution", "suspicious transaction report", "customer due diligence", "FIED", "Bank Negara Malaysia", "money laundering"]
+framework: rules
 ---
 
 பணமோசடி எதிர்ப்புச் சட்டம் என்பது வங்கிகளுக்கு மட்டுமே கவலை அளிக்கும் விஷயமல்ல. மலேசியாவின் AMLA இன் கீழ், பல்வேறு நிதி சாரா வணிகங்கள் மற்றும் தொழில்களும் அறிக்கையிடும் நிறுவனங்களாகும். ஒரு நிறுவனத்தை பதிவு செய்யும் நிறுவனச் செயலாளர், சொத்து விற்பனையை நிறைவேற்றும் அசையா சொத்து முகவர், அல்லது பெரிய தொகை பணத்தைப் பெறும் வியாபாரி — ஒவ்வொருவரும் இந்த ஒழுங்குமுறைக்குள் வரலாம் — வாடிக்கையாளர் உரிய கவனச் சோதனை, பதிவு பராமரிப்பு மற்றும் அறிக்கையிடல் கடமைகள் நேரடியாக மலேசிய மத்திய வங்கிக்கு (Bank Negara Malaysia) செலுத்தப்பட வேண்டும்.

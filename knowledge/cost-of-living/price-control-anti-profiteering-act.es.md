@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "sales-and-service-tax-sst" }
 related: []
 keywords: ["antiespeculación", "control de precios", "beneficio excesivo", "Akta 723", "Op Catut", "KPDN", "especulación de precios"]
+framework: rules
 ---
 
 Subir los precios porque los costes subieron es una cosa. Subir los precios solo para embolsar un beneficio mayor que el del año pasado — eso puede llevarlo a los tribunales en Malasia.

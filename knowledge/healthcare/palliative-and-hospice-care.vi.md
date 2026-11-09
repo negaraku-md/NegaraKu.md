@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "healthcare-for-seniors" }
 related: ["healthcare-for-seniors"]
 keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap hujung hayat", "penjagaan di rumah", "KKM"]
+framework: explainer
 ---
 
 Khi việc điều trị không còn nhằm chữa khỏi, trọng tâm chuyển sang một điều: bảo đảm bệnh nhân được thoải mái và có nhân phẩm. Đó là cốt lõi của chăm sóc giảm nhẹ — và tại Malaysia, nó có thể được tiếp cận qua ba tuyến khác nhau.

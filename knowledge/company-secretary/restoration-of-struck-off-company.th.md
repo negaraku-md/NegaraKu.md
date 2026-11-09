@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "striking-off-a-company" }
 related: ["companies-act-2016"]
 keywords: ["pemulihan syarikat", "syarikat dipotong", "seksyen 555", "reinstate company", "struck off", "Akta Syarikat 2016", "SSM"]
+framework: how-to
 ---
 
 ชื่อบริษัทของคุณหายไปจากทะเบียน SSM — แต่การถอนนั้นไม่จำเป็นต้องเป็นที่สิ้นสุด กฎหมายให้ระยะเวลาเจ็ดปีในการยื่นขอฟื้น ผ่านศาล

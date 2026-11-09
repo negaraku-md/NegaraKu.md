@@ -97,6 +97,7 @@ relations:
   - { rel: "administered-by", to: "mida" }
 related: ["penang", "mida"]
 keywords: ["E&E industry", "electrical and electronics", "Malaysia manufacturing", "Penang electronics", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
+framework: profile
 ---
 
 கடந்த பத்தாண்டுகளில் தயாரிக்கப்பட்ட ஏறக்குறைய எந்த மடிக்கணினியையோ, ஸ்மார்ட்போனையோ அல்லது காரையோ திறந்து பாருங்கள் — அதன் ஒரு பகுதி மலேசியாவைக் கடந்து சென்றிருக்க நல்ல வாய்ப்பு உண்டு. உள்ளே இருக்கும் சிப் Penang-இல் சோதிக்கப்பட்டு பொட்டலமிடப்பட்டிருக்கலாம்; மின்சக்தி அடாப்டர், LED பின்னொளி அல்லது சுற்று வாரியம் Kulim, Melaka அல்லது Klang Valley-இல் சேர்க்கப்பட்டிருக்கலாம். சுமார் 34.1 மில்லியன் மக்கள் (2024, DOSM) கொண்ட ஒரு நாட்டைப் பொறுத்தவரை, உலகின் மின்னணுவியல் விநியோகச் சங்கிலியில் மலேசியா ஆச்சரியமளிக்கும் அளவுக்கு மையமான ஒரு புள்ளியில் அமர்ந்திருக்கிறது — அது கிட்டத்தட்ட முழுவதுமாக ஒரே தொழிலின் கதைதான்.

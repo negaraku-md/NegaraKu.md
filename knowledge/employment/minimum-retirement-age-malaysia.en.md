@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
 related: ["termination-of-employment-malaysia"]
 keywords: ["umur persaraan minimum", "Akta 753", "persaraan 60 tahun", "persaraan pramatang", "kontrak tempoh tetap", "persaraan pilihan"]
+framework: rules
 ---
 
 A 58-year-old employee receives a letter: the company says his contract fixes retirement at 55, so his time is "up". In Malaysia, that letter is legally worthless. Since 1 July 2013, a private-sector employer cannot force anyone to retire before the age of 60, no matter what the contract says.

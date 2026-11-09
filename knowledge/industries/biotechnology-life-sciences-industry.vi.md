@@ -96,6 +96,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Malaysia không có các đại học nghiên cứu sâu hay chiều sâu vốn mạo hiểm của một Boston hay một Thượng Hải, nhưng nó có ba thứ khiến công nghệ sinh học trở thành một canh bạc dài hạn hợp lý: một trong những kho đa dạng sinh học nhiệt đới phong phú nhất thế giới, một dòng sinh khối dầu cọ và nông nghiệp khổng lồ, và một thẩm quyền được công nhận toàn cầu về chứng nhận halal. Trong hơn hai thập kỷ, chính phủ đã cố gắng biến các tài sản đó thành một ngành khoa học đời sống hiện đại. Hướng dẫn này giải thích nỗ lực đó được tổ chức ra sao, nó đã xây dựng được gì, và nó đang đi về đâu.

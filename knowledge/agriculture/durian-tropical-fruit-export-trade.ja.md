@@ -101,6 +101,7 @@ relations:
   - { rel: "related-to", to: "external-trade" }
 related: ["palm-oil-sector", "external-trade", "rubber"]
 keywords: ["Malaysia durian export", "Musang King", "Black Thorn durian", "durian China protocol", "geographical indication durian", "myGAP durian", "fresh durian export China"]
+framework: profile
 ---
 
 10年以上にわたり、マレーシア産ドリアンは冷凍されるか、果肉やペーストに加工されない限り、中国に輸入することができなかった。そして2024年半ば、マレーシアは長年求めてきた市場アクセスを勝ち取った——地球上最大のドリアン市場へ、丸ごと新鮮なドリアンを輸出する権利である。

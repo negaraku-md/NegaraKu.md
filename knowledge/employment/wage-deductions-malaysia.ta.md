@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "minimum-wage-malaysia" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["potongan gaji", "Seksyen 24", "Akta Kerja 1955", "salary deduction", "Ketua Pengarah Tenaga Kerja", "lebihan gaji"]
+framework: rules
 ---
 
 உங்கள் ஊதியச் சீட்டு (payslip) நீங்கள் எதிர்பார்த்த தொகையை விடக் குறைவாக உள்ளது, அதற்குக் காரணமாக "நிறுவனக் கொள்கை" எனக் குறிப்பிடப்பட்டுள்ளது. ஆனால் முதலாளி தன் விருப்பப்படி ஊதியத்தைக் கழிக்க முடியாது: Akta Kerja 1955 (Employment Act 1955) சட்டப்பூர்வமான கழிவுகளின் ஒரு மூடிய பட்டியலை நிர்ணயிக்கிறது — அந்தப் பட்டியலுக்கு வெளியே உள்ள எதுவும் அனுமதிக்கப்படாது.

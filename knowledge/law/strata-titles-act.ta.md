@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "house-buyers-act" }
 related: ["national-land-code"]
 keywords: ["akta hakmilik strata", "akta pengurusan strata 2013", "JMB", "perbadanan pengurusan", "caj penyelenggaraan", "kumpulan wang penjelas", "tribunal pengurusan strata"]
+framework: explainer
 ---
 
 கொண்டோமினியம் வாங்குவது என்பது உங்கள் சொந்த "பெட்டகத்தை" (petak) நீங்கள் வைத்திருப்பதைக் குறிக்கிறது — ஆனால் மின் தூக்கிகள், நீச்சல் குளம், நடைபாதைகள் மற்றும் கூரையை நூற்றுக்கணக்கான அண்டை வீட்டாருடன் பகிர்ந்து கொள்கிறீர்கள். யார் எதை வைத்திருக்கிறார்கள், அந்தப் பகிரப்பட்ட இடத்தைப் பராமரிக்க யார் பணம் செலுத்துகிறார்கள் என்பதை இரு சட்டங்கள் தீர்மானிக்கின்றன.

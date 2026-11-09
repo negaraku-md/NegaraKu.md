@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "sedition-act-1948" }
 related: ["federal-constitution"]
 keywords: ["akta komunikasi dan multimedia 1998", "seksyen 233", "SKMM", "MCMC", "penyalahgunaan kemudahan rangkaian", "pertuturan dalam talian", "kebebasan bersuara", "akta 588"]
+framework: explainer
 ---
 
 A comment on Facebook, a tweet, or a reshared WhatsApp message can become the basis for a criminal prosecution in Malaysia. The legal provision most frequently cited in such situations is neither the Sedition Act nor defamation law, but Section 233 of the Communications and Multimedia Act 1998.

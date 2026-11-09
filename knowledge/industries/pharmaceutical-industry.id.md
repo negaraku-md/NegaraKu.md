@@ -97,6 +97,7 @@ keywords:
   - Duopharma Biotech
   - fill-finish vaksin
   - PIC/S GMP
+framework: profile
 ---
 
 Setiap kali seorang warga Malaysia menebus resep antibiotik, pereda nyeri, atau tablet tekanan darah, ada kemungkinan besar obat itu dibuat di Malaysia — bukan ditemukan di sini, melainkan diformulasikan, dicetak, diisi, dan dikemas di pabrik lokal yang bekerja menurut standar manufaktur internasional. Itulah jantung industri farmasi Malaysia: basis manufaktur yang kokoh dan dipimpin generik yang menjaga lemari obat nasional tetap terisi, dipadukan dengan dua taruhan yang lebih ambisius — farmasi halal dan produksi vaksin — yang diharapkan negara ini akan membawanya naik di rantai nilai.

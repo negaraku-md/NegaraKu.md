@@ -77,6 +77,7 @@ faq:
     a: 'No. Conforme al artículo 3 de la Ley de Derecho Civil de 1956, un caso inglés resuelto antes de la fecha de corte pertinente es, en principio, common law vinculante, pero uno resuelto después solo es persuasivo: un tribunal malasio puede examinarlo, discutirlo y negarse a seguirlo. El artículo 3 también aplica el common law y la equidad solo "en la medida en que las circunstancias... lo permitan", de modo que los tribunales pueden rechazar reglas inglesas que no se ajusten a las condiciones locales.'
   - q: ¿Rige el derecho inglés la propiedad de la tierra en Malasia?
     a: No. El artículo 6 (Section 6) de la Ley de Derecho Civil de 1956 establece que nada en la Ley introduce derecho inglés relativo a la tenencia, transmisión, garantía o sucesión de bienes inmuebles. El derecho inmobiliario inglés quedó deliberadamente excluido desde el primer día. En cambio, la tierra en Malasia se rige por el sistema Torrens de origen australiano, codificado para la Malasia Peninsular en el Código Nacional de la Tierra de 1965 (National Land Code 1965, Act 56), donde la propia inscripción crea y prueba el título.
+framework: explainer
 ---
 
 Un juez malasio que resuelve hoy una disputa contractual todavía puede recurrir a un caso inglés decidido antes de que existiera la Federación de Malaya. No porque los tribunales ingleses tengan autoridad alguna aquí — no la tienen — sino porque un único estatuto malasio ordenó a los tribunales locales, en 1956, tratar el common law inglés como propio.

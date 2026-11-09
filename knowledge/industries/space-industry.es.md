@@ -107,6 +107,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Malasia no lanza cohetes propios y, sin embargo, ha hecho volar a un astronauta, ha construido y operado microsatélites y ha aprobado una ley para licenciar la actividad espacial privada antes que la mayoría de sus vecinos. Su sector espacial es pequeño y discretamente estratégico, entretejido con la política de banda ancha, la defensa, el monitoreo de desastres y el prestigio nacional. Esta guía mapea la agencia, la ley, los satélites y las ambiciones que componen la economía espacial de Malasia.

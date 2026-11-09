@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "constitutional-amendment" }
 related: ["court-hierarchy", "constitutional-amendment"]
 keywords: ["pelantikan hakim", "Suruhanjaya Pelantikan Kehakiman", "Perkara 122B", "Perkara 125", "kebebasan kehakiman", "tribunal hakim", "Ketua Hakim Negara"]
+framework: explainer
 ---
 
 ஒவ்வொரு முறையும் ஒரு புதிய நாட்டின் தலைமை நீதியரசர் பதவிப் பிரமாணம் எடுக்கும்போது, ஒரு பழைய கேள்வி மீண்டும் எழுகிறது: அந்த நபரை உண்மையில் யார் தேர்ந்தெடுக்கிறார், யார் அவரை நீக்க முடியும்? மலேசியாவில், அதற்கான பதில் இரண்டு தனித்தனி நிலைகள், இரண்டு வெவ்வேறு சட்ட ஆவணங்கள், மேலும் அந்த அதிகாரம் எங்கே இருக்க வேண்டும் என்பது குறித்த தீராத விவாதம் ஆகியவற்றை உள்ளடக்கியது.

@@ -78,6 +78,7 @@ relations:
   - { rel: "governs", to: "constitutional-amendment" }
 related: ["court-hierarchy", "constitutional-amendment"]
 keywords: ["pelantikan hakim", "Suruhanjaya Pelantikan Kehakiman", "Perkara 122B", "Perkara 125", "kebebasan kehakiman", "tribunal hakim", "Ketua Hakim Negara"]
+framework: explainer
 ---
 
 Setiap kali seorang Ketua Hakim Negara baharu mengangkat sumpah, satu soalan lama muncul semula: siapa sebenarnya yang memilih orang itu, dan siapa yang boleh mengeluarkannya? Di Malaysia, jawapannya melibatkan dua peringkat berasingan, dua dokumen perundangan yang berbeza, dan satu perdebatan yang belum selesai tentang di mana kuasa itu sepatutnya terletak.

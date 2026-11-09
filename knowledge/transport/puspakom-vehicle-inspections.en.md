@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "road-tax-renewal-malaysia" }
 related: ["road-tax-renewal"]
 keywords: ["puspakom", "pemeriksaan berkala", "kenderaan komersial", "e-hailing", "cukai jalan", "akta pengangkutan jalan 1987"]
+framework: rules
 ---
 
 If you own a lorry, van, taxi or e-hailing car, Puspakom's six-monthly calendar is really your road tax calendar — without a valid inspection stamp, JPJ won't let you renew your vehicle licence at all.

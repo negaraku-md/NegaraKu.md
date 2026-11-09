@@ -96,6 +96,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Malaysia bertengger di atas sebagian hutan hujan tertua di Bumi, dan untuk sebagian besar sejarah modernnya, perdagangan kayu keras tropis adalah salah satu pilar perekonomian nasional. Dunia hulu itu — hutan itu sendiri, lisensi untuk menebangnya, dan pengolahan awal kayu gelondongan mentah menjadi kayu — adalah industri yang berbeda dari pabrik furnitur dan eksportir produk kayu di hilir rantai. Panduan ini mencakup **sektor kehutanan dan sumber daya kayu**: dari mana kayu berasal, siapa yang menguasainya, bagaimana ia diekspor, serta tekanan keberlanjutan dan pasar yang kini membentuknya ulang.

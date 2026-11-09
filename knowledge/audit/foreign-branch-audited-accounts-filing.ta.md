@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "approved-company-auditor-malaysia" }
 related: ["foreign-company-registration-malaysia"]
 keywords: ["foreign company", "branch", "audited accounts", "SSM", "Companies Act 2016", "section 575", "financial statements", "Malaysia"]
+framework: rules
 ---
 
 மலேசியாவில் ஒரு கிளையைத் திறப்பது ஒரு வெளிநாட்டு நிறுவனத்தைத் தணிக்கை வலைக்கு வெளியே வைக்காது — மாறாக அதை இரண்டு முறை உள்ளே இழுக்கிறது. ஒவ்வொரு ஆண்டும் அது நிறுவனங்கள் ஆணையம் (Companies Commission of Malaysia, SSM) இடம் தணிக்கை செய்யப்பட்ட கணக்குகளைத் தாக்கல் செய்ய வேண்டும்: ஒருமுறை முழு நிறுவனத்திற்காக, மறுபடியும் தனியாக, கிளை மலேசியாவுக்குள் உண்மையில் என்ன செய்கிறது என்பதற்காக.

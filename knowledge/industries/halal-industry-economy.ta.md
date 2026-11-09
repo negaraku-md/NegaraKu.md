@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-economic-policy" }
 related: ["islamic-finance", "external-trade", "bumiputera-economic-policy"]
 keywords: ["halal industry", "halal economy", "HALMAS halal park", "Halal Development Corporation", "HDC", "Halal Industry Master Plan 2030", "halal exports", "global halal hub"]
+framework: profile
 ---
 
 ஒரு உடனடி நூடுல்ஸ் பொட்டலத்தில் இருக்கும் ஹலால் சின்னம், கதை முடிவடையும் இடம் என்று பெரும்பாலானோர் நினைக்கிறார்கள். மலேசியாவில், அது கதை தொடங்கும் இடத்திற்கே நெருக்கமானது. அந்தச் சின்னத்திற்குப் பின்னால், “ஹலால்” என்பதை ஒரு மத உத்தரவாதத்திலிருந்து ஒரு ஏற்றுமதித் தொழிலாக மாற்றுவதற்கான வேண்டுமென்றே மேற்கொள்ளப்பட்ட, பல தசாப்தங்கள் நீளும் ஒரு முயற்சி உள்ளது — தொழில்துறை பூங்காக்கள், வரிச் சலுகைகள், நிதியளிப்பு மற்றும் ஒரு தேசிய பிரதான திட்டம் இணைக்கப்பட்டுள்ளன.

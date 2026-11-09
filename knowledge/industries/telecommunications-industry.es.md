@@ -98,6 +98,7 @@ revisions:
     change: Initial draft (AI-assisted), pending review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Casi todo el mundo en Malasia lleva una conexión móvil, y la mayoría de los hogares tienen alguna forma de banda ancha. Eso hace de las telecomunicaciones una de las industrias más importantes y más maduras del país: la fontanería invisible bajo la economía digital, la banca en línea, el gobierno electrónico y la vida cotidiana. Sin embargo, detrás de los nombres de marca familiares se sitúa un mercado que ha cambiado drásticamente en años recientes: menos operadores, fusiones más grandes y un experimento nacional sobre cómo construir el 5G.

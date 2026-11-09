@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "striking-off-a-company" }
 related: ["companies-act-2016"]
 keywords: ["pemulihan syarikat", "syarikat dipotong", "seksyen 555", "reinstate company", "struck off", "Akta Syarikat 2016", "SSM"]
+framework: how-to
 ---
 
 貴社の名称がSSMの登録簿から消えた——しかし、その抹消は必ずしも最終的なものではない。法律は、裁判所を通じてその回復を申請するための七年間の期間を定めている。

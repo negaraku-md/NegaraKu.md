@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "public-vs-private-healthcare" }
 related: []
 keywords: ["टेलीमेडिसिन मलेशिया", "telemedicine Malaysia", "ऑनलाइन डॉक्टर", "online doctor", "टेलीपरामर्श", "teleconsultation", "DoctorOnCall", "MMC दिशानिर्देश", "ई-नुस्खा", "Telemedicine Act 1997"]
+framework: explainer
 ---
 
 आप एक ऐप खोलते हैं, अपने सोफ़े से किसी डॉक्टर के साथ वीडियो-कॉल करते हैं, और एक घंटे बाद एक नुस्खा आपके इनबॉक्स में आ जाता है। मलेशिया में यह पूरी तरह कानूनी है — पर इसके पीछे का नियम-पुस्तक वह कानून नहीं है जिसकी आप शायद अपेक्षा करें।

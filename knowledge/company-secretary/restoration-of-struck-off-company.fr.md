@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "striking-off-a-company" }
 related: ["companies-act-2016"]
 keywords: ["pemulihan syarikat", "syarikat dipotong", "seksyen 555", "reinstate company", "struck off", "Akta Syarikat 2016", "SSM"]
+framework: how-to
 ---
 
 Le nom de votre société a disparu du registre de la SSM — mais la radiation n'est pas nécessairement définitive. La loi prévoit un délai de sept ans pour en demander le rétablissement, par la voie judiciaire.

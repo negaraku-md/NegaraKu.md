@@ -90,6 +90,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-investment-trade-and-industry" }
 related: ["electrical-electronics-industry"]
 keywords: ["semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "advanced packaging", "chip industry Malaysia", "Penang Silicon Valley", "MIDA", "IC design"]
+framework: profile
 ---
 
 지구상 거의 모든 휴대폰, 노트북, 자동차는 수명의 일부를 말레이시아에서 보낸 칩을 담고 있습니다 — 페낭이나 클랑 밸리의 공장에서 패키징되고, 검사되고, 실려 나간 것입니다. 그러나 50년 동안 이 나라는 그 작업에서 가장 화려하지 않고 마진이 가장 낮은 조각, 즉 후공정을 했습니다. 국가반도체전략은 말레이시아가 칩의 어느 부분을 소유할지를 바꾸려는 시도입니다.

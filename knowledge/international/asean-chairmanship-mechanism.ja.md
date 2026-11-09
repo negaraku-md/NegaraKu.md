@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean-chairmanship-2025" }
 related: []
 keywords: ["pengerusian ASEAN", "Piagam ASEAN", "Perkara 31", "giliran abjad", "Malaysia 2025", "Filipina 2026", "Sidang Kemuncak ASEAN"]
+framework: explainer
 ---
 
 毎年1月1日、東南アジアのある国がこの地域で最も影響力のある議長の座を引き継ぐ——投票もキャンペーンもなく、ただアルファベット順に従うだけである。

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["federal-constitution", "court-hierarchy", "civil-and-syariah-courts", "companies-act-2016", "employment-act-1955"]
 keywords: ["Contracts Act 1950", "Act 136", "Malaysia contract law", "offer and acceptance Malaysia", "section 10 Contracts Act", "consideration Malaysia law"]
+framework: data-reference
 ---
 
 Un arrendamiento, una carta de empleo, un contrato de arrendamiento con opción de compra, la venta de un coche usado confirmada por WhatsApp: todos ellos se sostienen o caen sobre el mismo estatuto de setenta años: la Ley de Contratos de 1950.

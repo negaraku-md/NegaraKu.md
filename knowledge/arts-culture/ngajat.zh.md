@@ -76,6 +76,7 @@ relations:
   - { rel: "located-in", to: "sarawak" }
 related: ["gawai-dayak", "sarawak"]
 keywords: ["Ngajat", "tarian Ngajat", "Iban", "Sarawak", "Burung Kenyalang", "enggang", "Hari Gawai", "rumah panjang", "Ngajat Lesong", "Ngajat Indu", "pua kumbu"]
+framework: history-culture
 ---
 
 在砂拉越一座长屋的走廊上，一名头戴犀鸟羽毛的男子跳跃、旋转、跺脚——一手持剑，一手持盾。这就是 **Ngajat**，一支昔日用来迎接战士从战场归来的舞蹈。

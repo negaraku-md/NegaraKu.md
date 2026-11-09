@@ -78,6 +78,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["batik", "gawai-dayak", "sarawak"]
 keywords: ["pua kumbu", "tenunan Iban", "ikat lungsi", "kebat", "engkudu", "ngar", "kain upacara Sarawak", "Bangie Embol"]
+framework: history-culture
 ---
 
 Sehelai kain yang penenunnya tidak berani menciptakannya tanpa "restu" — coraknya konon datang dalam mimpi, dan pada suatu masa dahulu ia terikat erat dengan tradisi kepahlawanan masyarakat yang menghasilkannya. Itulah pua kumbu.

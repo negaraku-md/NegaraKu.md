@@ -95,6 +95,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 如果你正用手机或笔记本电脑阅读本文，那么其中某一颗芯片很有可能有一段「生命」是在马来西亚度过的——不是在这里被发明或印制，而是从一片光秃秃的硅片，被加工成一个封装完成、可随时焊接到电路板上的成品组件。正是这个安静而不起眼的环节，让马来西亚在整个电子业界建立起最举足轻重的地位之一。

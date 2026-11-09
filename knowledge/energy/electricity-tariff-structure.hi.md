@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
 related: ["tenaga-nasional"]
 keywords: ["tarif elektrik", "TNB", "RP4", "AFA", "ICPT", "Time-of-Use", "Caj Tenaga", "bil elektrik", "Suruhanjaya Tenaga"]
+framework: explainer
 ---
 
 यदि आप अपने नवीनतम TNB बिल के पन्ने पलटते हैं और एक अकेले सुव्यवस्थित कुल के स्थान पर शुल्कों की पाँच अलग-अलग पंक्तियाँ देखकर चौंक जाते हैं, तो आप भ्रमित नहीं हैं — प्रायद्वीपीय मलेशिया की विद्युत टैरिफ संरचना का 1 जुलाई 2025 को पूरी तरह से पुनर्गठन कर दिया गया।

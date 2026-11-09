@@ -78,6 +78,7 @@ relations:
   - { rel: "compares-with", to: "johor-bahru-singapore-rts-link" }
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["KL Singapore HSR", "high-speed rail Malaysia", "MyHSR Corp", "HSR termination compensation", "HSR revival RFP"]
+framework: history-culture
 ---
 
 Kereta api cepat yang dapat membawa Anda dari Kuala Lumpur ke Singapura dalam kira-kira 90 menit telah ditandatangani, ditangguhkan, dihentikan, diratapi, dan dihidupkan kembali — semuanya tanpa satu landasan pun dipasang. Berikut adalah kedudukan sebenarnya proyek yang terombang-ambing hidup mati ini.

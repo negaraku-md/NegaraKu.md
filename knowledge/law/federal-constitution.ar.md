@@ -48,6 +48,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["three-tiers-of-government", "parliament"]
 keywords: ["الدستور الاتحادي الماليزي", "Federal Constitution", "Perlembagaan Persekutuan", "القانون الدستوري الماليزي", "القانون الأعلى في ماليزيا"]
+framework: explainer
 ---
 
 ## لمحة سريعة

@@ -74,6 +74,7 @@ relations:
   - { rel: "located-in", to: "melaka" }
 related: ["peranakan", "tamil-in-malaysia", "deepavali"]
 keywords: ["Chetti Melaka", "Chitty Melaka", "Peranakan India", "Kampung Chetti", "Gajah Berang", "Hindu Saivite", "warisan Melaka"]
+framework: history-culture
 ---
 
 En un viejo pueblo de la calle Jalan Gajah Berang, en Melaka, hay un grupo de familias que rezan al dios Shivá, visten como malayos, cocinan curris fragantes de leche de coco y hablan un malayo salpicado de palabras tamiles. No son indios, ni malayos, ni chinos: son los chetti melaka, y su número es cada vez menor.

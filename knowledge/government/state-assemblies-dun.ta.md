@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "majlis-raja-raja" }
 related: ["dewan-rakyat", "federal-state-division", "spr-election-commission", "majlis-raja-raja", "federal-constitution"]
 keywords: ["Dewan Undangan Negeri", "DUN", "badan perundangan negeri", "Jadual Kelapan", "Perkara 71", "peruntukan penting", "Yang di-Pertua Negeri", "Menteri Besar", "enakmen negeri", "State Legislative Assembly Malaysia"]
+framework: explainer
 ---
 
 நிலம் ஒரு மாநில விவகாரம். இஸ்லாமிய குடும்பச் சட்டம் ஒரு மாநில விவகாரம். உள்ளூர் அரசாங்கம் ஒரு மாநில விவகாரம். ஆனால் ஒரு மாநிலத்தில் இந்த விஷயங்களுக்கான சட்டங்களை உண்மையில் யார் நிறைவேற்றுகிறார்கள், எந்த விதிகளின்படி? இதற்கான பதில் வெறும் மரபு அல்லது நடைமுறையின் விஷயம் மட்டுமல்ல — அது கூட்டரசு அரசியலமைப்பின் (Perlembagaan Persekutuan) இறுதியில் உள்ள ஒரு அட்டவணையில், பிரிவு பிரிவாக எழுதப்பட்டுள்ளது.

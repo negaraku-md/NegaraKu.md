@@ -67,6 +67,7 @@ wikidata: "Q25475395"
 relations: []
 related: []
 keywords: ["Local Government Act 1976", "Act 171", "Akta Kerajaan Tempatan 1976", "local authority Malaysia", "PBT", "Pihak Berkuasa Tempatan", "majlis perbandaran", "majlis daerah", "assessment tax", "cukai pintu", "local council elections Malaysia", "appointed councillors", "National Council for Local Government", "third vote Malaysia"]
+framework: explainer
 ---
 
 Si vous vous êtes déjà demandé pourquoi aucun bulletin de vote malaisien n'a jamais comporté de candidat au poste de maire, la réponse tient à une seule loi. Le **Local Government Act 1976 (Act 171)** — dont le titre long est « Une loi visant à réviser et à consolider les lois relatives au gouvernement local » — est la loi qui constitue chaque conseil de ville, municipal et de district en Malaisie péninsulaire, nomme ceux qui les dirigent, et leur confère le pouvoir de vous taxer et de vous infliger des amendes. Elle a reçu la sanction royale le **18 mars 1976** et a été publiée au Journal officiel le 25 mars 1976. Contrairement à ce que dit une grande partie du web, **la section 1(1) énonce qu'elle ne s'applique qu'à la Malaisie péninsulaire** ; Sabah et Sarawak conservent leurs propres ordonnances.

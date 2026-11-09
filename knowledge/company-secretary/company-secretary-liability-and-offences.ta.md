@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
 related: ["companies-act-2016"]
 keywords: ["liabiliti setiausaha syarikat", "kesalahan setiausaha syarikat", "penyata palsu", "seksyen 591", "Akta Syarikat 2016", "pegawai syarikat", "Borang 49"]
+framework: rules
 ---
 
 SSM படிவத்தில் ஒரே ஒரு கையொப்பம், கம்பெனிச் செயலாளரை குற்றவாளிக் கூண்டுக்குக் கொண்டுசெல்லலாம் — கம்பெனியை அல்லது அதன் இயக்குநர்களை மட்டுமல்ல. இயக்குநரின் அறிவுறுத்தலின் பேரில் கையொப்பமிடப்பட்டாலும், குறைபாடுள்ள ஒரு ஆவணம், அதைப் பதிவுசெய்த நபரின் தனிப்பட்டப் பொறுப்பாகவே இருக்கும்.

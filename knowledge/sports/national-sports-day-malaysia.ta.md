@@ -69,6 +69,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-belia-dan-sukan" }
 related: []
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
+framework: explainer
 ---
 
 ஒவ்வொரு அக்டோபர் இரண்டாவது வார சனிக்கிழமையிலும், மலேசியா முழுவதும் உள்ள மைதானங்கள், பூங்காக்கள் மற்றும் விளையாட்டு அரங்குகள் மக்களால் நிரம்பி வழிய வேண்டும் — அதுவே தேசிய விளையாட்டு தினத்தின் வடிவமைப்பு.

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "getting-around-malaysia" }
 related: ["getting-around-malaysia"]
 keywords: ["نصائح السفر إلى ماليزيا", "طوارئ 999 ماليزيا", "شريحة SIM للسياح في ماليزيا", "الموسم المطير في ماليزيا", "تطعيمات السفر إلى ماليزيا", "البقشيش في ماليزيا", "Malaysia travel tips", "999 emergency Malaysia", "Malaysia SIM card tourist", "Malaysia monsoon season", "Malaysia travel vaccinations", "tipping in Malaysia"]
+framework: explainer
 ---
 
 لقد هبطت لتوّك، وأنت مُنهَك من فارق التوقيت، وهاتفك لا يُظهر أي إشارة. وقبل أن تقلق بشأن طبق الناسي ليماك المثالي، رتّب الأمور المملّة لكن المهمة — شريحة SIM تعمل، ورقم الطوارئ الصحيح، ومعرفة ما إذا كانت السماء على وشك أن تمطر. وإليك القائمة القصيرة الموثَّقة.

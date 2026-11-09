@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "court-hierarchy" }
 related: ["federal-constitution", "common-law-in-malaysia", "civil-and-syariah-courts", "how-a-bill-becomes-law", "national-land-code", "court-hierarchy"]
 keywords: ["مصادر القانون الماليزي", "sources of Malaysian law", "المنظومة القانونية الماليزية", "Malaysian legal system", "سمو الدستور الاتحادي", "Federal Constitution supremacy", "Article 4(1)", "الجدول التاسع القائمة الاتحادية قائمة الولايات", "Civil Law Act 1956", "القانون الإسلامي ماليزيا", "Islamic law Malaysia", "adat Adat Perpatih Adat Temenggong", "القانون العُرفي ماليزيا", "customary law Malaysia", "هرمية القانون ماليزيا"]
+framework: explainer
 ---
 
 قد تضطرّ محكمة ماليزية تبتّ في نزاع عائلي واحد، من حيث المبدأ، إلى الرجوع إلى أربع

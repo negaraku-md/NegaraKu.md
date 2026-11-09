@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "tenancy-agreement-malaysia" }
 related: []
 keywords: ["ejen hartanah", "REN", "LPEPH", "BOVAEP", "komisen ejen", "fi sewaan", "perunding hartanah"]
+framework: explainer
 ---
 
 หมายเลขบนป้ายหน้าอกของตัวแทนไม่ใช่ของประดับ มันเป็นวิธีเดียวที่รวดเร็วในการแยกนายหน้าที่ถูกต้องออกจากคนที่เพียงอ้างตนว่าเป็นตัวแทน ในมาเลเซีย ผู้ที่สามารถขาย ให้เช่า หรือเป็นนายหน้าอสังหาริมทรัพย์แทนคุณถูกควบคุมอย่างเข้มงวดโดยกฎหมาย

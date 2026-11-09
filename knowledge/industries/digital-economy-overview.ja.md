@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "e-commerce-malaysia" }
 related: ["mydigital-blueprint"]
 keywords: ["digital economy", "MyDIGITAL", "Malaysia Digital", "MD Status", "MDEC", "e-commerce", "ICT GDP", "DE Rantau"]
+framework: explainer
 ---
 
 いまや、マレーシア経済が生み出す4リンギットのうちほぼ1リンギットが、画面やサーバー、そしてショッピングカートを通じて流れている。マレーシア統計局（Department of Statistics Malaysia、DOSM）によれば、2024年にはICT産業と電子商取引（EC）を合わせてこの国のGDPの23.4%——RM4,513億〔リンギット〕相当——を占めた。この一つの数字こそ、マレーシアがデジタル経済について持つ、全国的な成績表に最も近いものであり、それがどのように構成され、何によって動かされ、政府がどのようにそれを成長させようとしているのかを理解することが、この国の向かう先を読み解く最も速い方法である。

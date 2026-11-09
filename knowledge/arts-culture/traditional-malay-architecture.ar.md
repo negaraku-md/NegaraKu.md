@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "malay-woodcarving" }
 related: []
 keywords: ["البيت الملايوي", "rumah Melayu", "البيت على ركائز", "rumah panggung", "العمارة المحلية", "senibina vernakular", "bumbung panjang", "tebar layar", "البيت الطويل", "rumah panjang", "kampung", "التراث", "warisan"]
+framework: history-culture
 ---
 
 ارفع بيت قرية (kampung) قديمًا، وفكّك وصلاته، وأعد تركيبه في موقع جديد — من دون أساس خرساني ثابت في الغالب. تلك هي حكمة العمارة الملايوية التقليدية: بيتٌ «يقرأ» المناخ الاستوائي قبل وجود تكييف الهواء بزمن طويل.

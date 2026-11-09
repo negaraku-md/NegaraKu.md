@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "special-resolution" }
 related: ["companies-act-2016"]
 keywords: ["tukar nama syarikat", "change of company name", "seksyen 28", "ketetapan khas", "SSM CRS", "name reservation"]
+framework: how-to
 ---
 
 การเปลี่ยนชื่อบริษัทไม่ใช่แค่การกรอกแบบฟอร์ม — เริ่มด้วยมติพิเศษของสมาชิกและสิ้นสุดก็ต่อเมื่อ SSM ออกหนังสือบอกกล่าวการจดทะเบียนชื่อใหม่ จนถึงเวลานั้น ชื่อเดิมยังคงมีผลตามกฎหมาย

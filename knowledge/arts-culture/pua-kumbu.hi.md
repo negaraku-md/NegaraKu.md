@@ -78,6 +78,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["batik", "gawai-dayak", "sarawak"]
 keywords: ["pua kumbu", "tenunan Iban", "ikat lungsi", "kebat", "engkudu", "ngar", "kain upacara Sarawak", "Bangie Embol"]
+framework: history-culture
 ---
 
 एक ऐसा वस्त्र जिसे इसकी बुनकर किसी "आशीर्वाद" के बिना रचने का साहस नहीं करती — कहा जाता है कि इसकी आकृतियाँ स्वप्नों में आती हैं, और यह कभी इसे बनाने वाले लोगों की योद्धा-परंपरा से कसकर बँधा था। वही है pua kumbu।

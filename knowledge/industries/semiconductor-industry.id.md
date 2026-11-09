@@ -95,6 +95,7 @@ revisions:
     change: Approved and published.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Jika Anda membaca ini di ponsel atau laptop, ada kemungkinan nyata bahwa salah satu chip-nya pernah menghabiskan sebagian masa hidupnya di Malaysia — bukan ditemukan atau dicetak, melainkan diubah dari sekadar irisan silikon menjadi komponen jadi yang terkemas, siap disolder ke papan sirkuit. Langkah yang tenang dan tidak glamor itulah tempat Malaysia membangun salah satu posisi paling berpengaruh di seluruh dunia elektronik.

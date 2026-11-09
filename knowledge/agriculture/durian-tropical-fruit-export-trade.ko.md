@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "external-trade" }
 related: ["palm-oil-sector", "external-trade", "rubber"]
 keywords: ["Malaysia durian export", "Musang King", "Black Thorn durian", "durian China protocol", "geographical indication durian", "myGAP durian", "fresh durian export China"]
+framework: profile
 ---
 
 10년이 넘도록 말레이시아 두리안은 냉동되거나 과육과 페이스트로 가공된 경우에만 중국에 들어갈 수 있었습니다. 그러다 2024년 중반, 말레이시아는 수년간 추구해 온 접근권을 얻었습니다: 지구상 최대의 두리안 시장에 신선한 통두리안을 실어 보낼 권리입니다.

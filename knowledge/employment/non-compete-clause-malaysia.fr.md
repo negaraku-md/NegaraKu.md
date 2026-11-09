@@ -61,6 +61,7 @@ relations:
   - { rel: "part-of", to: "employment" }
 related: ["employment-contract-malaysia", "termination-of-employment-malaysia"]
 keywords: ["clause de non-concurrence Malaisie", "restriction au commerce Malaisie", "section 28 Contracts Act 1950", "non-sollicitation Malaisie", "clause restrictive Malaisie", "non compete clause malaysia", "section 28 contracts act 1950"]
+framework: explainer
 ---
 
 Presque tout contrat de travail malaisien contient une clause de non-concurrence, et presque chacune d'elles est nulle. Ce n'est pas une question serrée, et ce n'est pas une affaire de qualité de rédaction.

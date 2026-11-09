@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["company-secretary-malaysia"]
 keywords: ["AMLA", "DNFBP", "reporting institution", "suspicious transaction report", "customer due diligence", "FIED", "Bank Negara Malaysia", "money laundering"]
+framework: rules
 ---
 
 Undang-undang pencegahan pencucian uang bukanlah kekhawatiran bank semata. Di bawah AMLA Malaysia, berbagai bisnis dan profesi nonkeuangan turut menjadi institusi pelapor. Seorang sekretaris perusahaan yang mendirikan perusahaan, agen properti yang memfinalkan penjualan properti, atau pedagang yang menerima pembayaran tunai yang besar dapat masing-masing termasuk dalam rezim ini — dengan kewajiban uji tuntas pelanggan, penyimpanan catatan, dan pelaporan yang perlu dipenuhi langsung kepada Bank Negara Malaysia.

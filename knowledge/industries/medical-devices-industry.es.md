@@ -100,6 +100,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review (export, ranking and market-size figures flagged for verification).
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Si alguna vez has llevado un guante quirúrgico, te han extraído sangre a través de un catéter o te has recuperado con la ayuda de un implante ortopédico, hay una posibilidad razonable de que el dispositivo se fabricara en Malasia. Más allá de sus famosos guantes de caucho, el país se ha convertido discretamente en el lugar más importante del Sudeste Asiático para fabricar dispositivos médicos, y en una de las bases de fabricación de tecnología médica más significativas de cualquier parte del mundo.

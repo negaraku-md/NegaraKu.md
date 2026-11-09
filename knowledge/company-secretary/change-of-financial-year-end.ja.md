@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "cp204b-change-of-accounting-period" }
 related: ["financial-statements-lodgement", "companies-act-2016"]
 keywords: ["tahun kewangan", "FYE", "financial year end", "SSM", "Akta Syarikat 2016", "CP204B", "penyata kewangan"]
+framework: how-to
 ---
 
 多くの取締役は、会社の会計年度を変更するにはSSMへ特定の様式を提出する必要があると考えている――しかし2016年会社法は、実際にはそのような様式についてまったく言及していない。

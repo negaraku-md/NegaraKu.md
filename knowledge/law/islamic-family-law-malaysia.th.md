@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "harta-sepencarian-malaysia" }
 related: []
 keywords: ["undang-undang keluarga islam", "akta 303", "mahkamah syariah", "talaq", "fasakh", "khuluk", "hadhanah", "nafkah", "poligami", "islamic family law malaysia"]
+framework: rules
 ---
 
 ภริยาที่ต้องการเรียกร้องการหย่าเพราะสามีไม่ให้การอุปการะเลี้ยงดู บิดาที่ต้องการดูแลบุตรชายที่เพิ่งอายุเจ็ดขวบต่อไป ชายที่ยื่นขอสมรสเพิ่ม — ทั้งสามสถานการณ์นี้ไม่ได้เริ่มที่สำนักงานกฎหมายทั่วไป แต่ที่ศาลชะรีอะฮ์ (Syariah) ภายใต้กฎหมายครอบครัวอิสลามของแต่ละรัฐ เอกสารนี้อธิบายกรอบกฎหมายนั้นเชิงพรรณนา โดยไม่เข้าข้างฝ่ายใด

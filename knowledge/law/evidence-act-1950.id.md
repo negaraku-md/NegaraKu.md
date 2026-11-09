@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-malaysia" }
 related: ["criminal-procedure-code", "federal-constitution"]
 keywords: ["Akta Keterangan 1950", "Evidence Act 1950", "Akta 56", "beban bukti", "kebolehterimaan", "anggapan", "keistimewaan", "seksyen 90A", "seksyen 114A", "pengakuan salah"]
+framework: explainer
 ---
 
 Sebuah gambar, pesan WhatsApp, atau kata-kata seorang saksi tidak serta-merta menjadi "bukti" di pengadilan. Apakah sesuatu itu dianggap sebagai bukti — dan siapa yang perlu membuktikannya — ditentukan oleh satu statuta tunggal: Evidence Act 1950 (Act 56).

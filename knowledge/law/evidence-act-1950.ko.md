@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution-malaysia" }
 related: ["criminal-procedure-code", "federal-constitution"]
 keywords: ["Akta Keterangan 1950", "Evidence Act 1950", "Akta 56", "beban bukti", "kebolehterimaan", "anggapan", "keistimewaan", "seksyen 90A", "seksyen 114A", "pengakuan salah"]
+framework: explainer
 ---
 
 한 장의 사진, 한 통의 WhatsApp 메시지, 또는 어느 증인의 진술이 반드시 법정에서 "증거"가 되는 것은 아닙니다. 어떤 것이 증거로 인정되는지 — 그리고 누가 그것을 입증해야 하는지 — 는 하나의 법령, 즉 증거법(Evidence Act 1950, Akta 56)이 정합니다.

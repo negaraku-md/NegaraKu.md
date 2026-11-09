@@ -100,6 +100,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review (export, ranking and market-size figures flagged for verification).
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 หากคุณเคยสวมถุงมือผ่าตัด เจาะเลือดผ่านสายสวน หรือฟื้นตัวด้วยความช่วยเหลือจากวัสดุฝังในกระดูกและข้อ มีความเป็นไปได้พอสมควรที่อุปกรณ์นั้นผลิตในมาเลเซีย นอกเหนือจากถุงมือยางที่โด่งดัง ประเทศนี้ได้กลายเป็นสถานที่ผลิตอุปกรณ์การแพทย์ที่สำคัญที่สุดของเอเชียตะวันออกเฉียงใต้อย่างเงียบ ๆ — และเป็นหนึ่งในฐานการผลิตเมดเทคที่สำคัญกว่าที่ใดในโลก

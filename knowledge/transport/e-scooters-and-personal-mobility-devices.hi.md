@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "food-delivery-riders" }
 related: []
 keywords: ["ई-स्कूटर मलेशिया", "व्यक्तिगत गतिशीलता उपकरण PMD", "सूक्ष्म-गतिशीलता micromobility", "विद्युत साइकिल MS2514", "सड़क परिवहन विभाग JPJ", "e-scooter", "PMD", "mikromobiliti", "MS2514", "JPJ"]
+framework: rules
 ---
 
 आप दफ़्तर पहुँचने के लिए एक ई-स्कूटर खरीदते हैं, पर जिस क्षण उसके पहिये किसी सार्वजनिक सड़क

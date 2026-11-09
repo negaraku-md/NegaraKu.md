@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
 related: ["tenaga-nasional"]
 keywords: ["tarif elektrik", "TNB", "RP4", "AFA", "ICPT", "Time-of-Use", "Caj Tenaga", "bil elektrik", "Suruhanjaya Tenaga"]
+framework: explainer
 ---
 
 如果你翻看最新的国能（TNB）账单，惊讶地发现原本一个整齐的总额被五行独立的收费取代，你并没有看错——半岛马来西亚的电费结构在2025年7月1日已被彻底改革。

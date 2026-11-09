@@ -98,6 +98,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 말레이시아는 세계에서 가장 분주한 두 항로 위에 자리하고 생계의 상당 부분을 바다에서 얻습니다 — 그러나 조선·선박수리(SBSR) 산업은 국가 경제의 더 조용한 구석 중 하나입니다. 실재하고 오래 자리 잡았으며 전략적으로 중요하지만, 파편화되고 경기순환적이며 비교적 작은 조선소가 지배합니다. 이 가이드는 이 산업이 무엇을 건조하는지, 어디서, 규모는 얼마나 되는지, 그리고 왜 한 함정 프로그램이 공개 논쟁에서 이 부문 전체를 가리게 되었는지를 설명합니다.

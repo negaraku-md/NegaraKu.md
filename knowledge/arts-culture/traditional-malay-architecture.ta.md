@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "malay-woodcarving" }
 related: []
 keywords: ["rumah Melayu", "rumah panggung", "senibina vernakular", "bumbung panjang", "tebar layar", "rumah panjang", "kampung", "warisan"]
+framework: history-culture
 ---
 
 ஒரு பழைய கம்பம் (kampung) வீட்டைத் தூக்கி, அதன் பொருத்துகைகளைப் பிரித்து, புதிய இடத்தில் மீண்டும் இணையுங்கள் — பெரும்பாலும் எந்த நிலையான காங்கிரீட் அடித்தளமும் இல்லாமல். அதுதான் பாரம்பரிய மலாய் கட்டிடக்கலையின் ஞானம்: குளிரூட்டி இருப்பதற்கு நெடுங்காலம் முன்பே வெப்பமண்டல காலநிலையை "வாசிக்கும்" ஒரு வீடு.

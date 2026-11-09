@@ -88,6 +88,7 @@ relations:
   - { rel: "administered-by", to: "attorney-general" }
 related: ["attorney-general"]
 keywords: ["akta rahsia rasmi", "OSA 1972", "kebebasan maklumat", "ketelusan kerajaan", "dokumen terperingkat", "seksyen 16A", "rahsia rasmi"]
+framework: explainer
 ---
 
 Satu memo rapat, satu laporan audit, satu kertas Kabinet — di Malaysia, salah satu di antaranya dapat menjadi kejahatan untuk dibagikan jika ia dicap sebagai rahasia resmi. Undang-undang yang menentukan garis itu adalah [Official Secrets Act 1972](/id/law/official-secrets-act-1972), dan ketiadaan undang-undang kebebasan informasi federal menjadikannya salah satu topik yang paling banyak diperdebatkan dalam tata kelola Malaysia.

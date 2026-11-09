@@ -72,6 +72,7 @@ relations:
   - { rel: "administered-by", to: "lhdn" }
 related: ["petronas"]
 keywords: ["petroleum income tax", "PITA", "Petroleum Income Tax Act 1967", "petroleum operations", "marginal field tax", "late-life asset PSC", "upstream oil gas tax Malaysia"]
+framework: rules
 ---
 
 Una petrolera que perfora frente a Terengganu y una fábrica en Shah Alam pagan ambas impuestos a Malasia, pero no los pagan conforme a la misma ley. La renta petrolera de exploración y producción (upstream) vive en un régimen amurallado propio, con su propio tipo, su propia declaración y su propio reglamento.

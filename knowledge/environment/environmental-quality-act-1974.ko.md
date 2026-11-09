@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "manufacturing-licence-malaysia" }
 related: ["manufacturing-licence-malaysia"]
 keywords: ["Environmental Quality Act 1974", "Act 127", "Act A1712", "Department of Environment", "EIA Malaysia", "prescribed premises", "environmental penalties Malaysia", "open burning Malaysia", "scheduled waste"]
+framework: rules
 ---
 
 말레이시아에서 강으로의 단 한 번의 유출은 이제 기업에 최고 RM10,000,000의 비용을 물리고 책임자를 감옥에 보낼 수 있으며 — 과거와 달리 판사는 더 이상 벌금만을 선고할 재량이 없습니다. 2024년 7월 7일 발효된 이 변화는 반세기 만에 말레이시아 환경법에서 가장 첨예한 변화이며, 이는 대부분의 사업자가 1974년 이래 조용히 안고 살아온 법령 안에 자리 잡고 있습니다.

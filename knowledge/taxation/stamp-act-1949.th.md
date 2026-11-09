@@ -103,6 +103,7 @@ entity: "Stamp Act 1949 (Act 378, Malaysia)"
 relations: []
 related: []
 keywords: ["stamp act 1949", "stamp duty malaysia", "LHDN stamp duty", "ad valorem duty", "fixed duty", "memorandum of transfer stamp duty", "MOT stamp duty", "loan agreement stamp duty", "tenancy agreement stamp duty", "e-stamping malaysia", "stamp duty self assessment", "stamp duty calculator malaysia", "stamp duty penalty", "stamp duty exemption", "Act 378"]
+framework: rules
 ---
 
 ลงนามการเช่า กู้เงินซื้อบ้าน โอนโฉนด ซื้อหุ้นผ่านโบรกเกอร์ — และที่ไหนสักแห่งในเอกสารมีภาษีที่คุณอาจไม่เคยสังเกต ภาษีนั้นคือ **อากรแสตมป์** และกฎหมายเบื้องหลังมันคือ **พระราชบัญญัติอากรแสตมป์ 1949 (Stamp Act 1949, Act 378)** สิ่งที่ทำให้มันไม่ปกติคือเป้าหมาย: อากรแสตมป์เก็บบน **ตราสาร (instrument)** — ตัวเอกสารที่เป็นลายลักษณ์อักษรเอง — ไม่ใช่บนธุรกรรมที่มันบันทึก ประทับตราแสตมป์เอกสารแล้วมันยืนได้ในศาล; ปล่อยให้ไม่ประทับตราแสตมป์มันอาจมีค่าไม่มากกว่ากระดาษที่พิมพ์

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["company-secretary-malaysia"]
 keywords: ["AMLA", "DNFBP", "reporting institution", "suspicious transaction report", "customer due diligence", "FIED", "Bank Negara Malaysia", "money laundering"]
+framework: rules
 ---
 
 Luật chống rửa tiền không chỉ là mối quan tâm của các ngân hàng. Theo AMLA của Malaysia, một loạt doanh nghiệp và ngành nghề phi tài chính cũng là tổ chức báo cáo. Một thư ký công ty đang thành lập công ty, một môi giới bất động sản đang hoàn tất việc bán tài sản, hay một người kinh doanh nhận một khoản thanh toán tiền mặt lớn đều có thể thuộc phạm vi điều chỉnh của chế độ này — với các nghĩa vụ thẩm định khách hàng, lưu trữ hồ sơ và báo cáo phải thực hiện trực tiếp với Ngân hàng Trung ương Malaysia (Bank Negara Malaysia).

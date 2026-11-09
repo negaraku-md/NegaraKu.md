@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "klang-valley-integrated-transit-system" }
 related: []
 keywords: ["autobus Rapid KL", "autobus de navette MRT", "autobus vallée de Klang", "Rapid Bus", "Rapid KL On-Demand", "autobus urbain Kuala Lumpur", "Rapid KL bus", "MRT feeder bus", "Klang Valley bus"]
+framework: explainer
 ---
 
 Le train vous amène à une station. Il vous ramène rarement chez vous. Ce manque — du quai du MRT ou du LRT jusqu'à votre porte, votre parc d'affaires ou le marché humide à deux quartiers de là — est comblé par une flotte à laquelle la plupart des passagers ne pensent guère : les autobus de Rapid KL.

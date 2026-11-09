@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["company-secretary-malaysia"]
 keywords: ["AMLA", "DNFBP", "reporting institution", "suspicious transaction report", "customer due diligence", "FIED", "Bank Negara Malaysia", "money laundering"]
+framework: rules
 ---
 
 Anti-money-laundering law is not only a concern for banks. Under Malaysia's AMLA, a range of non-financial businesses and professions are also reporting institutions. A company secretary incorporating a company, an estate agent closing a property sale, or a dealer taking a large cash payment can each fall within the regime — with customer due diligence, record-keeping and reporting duties owed directly to Bank Negara Malaysia.

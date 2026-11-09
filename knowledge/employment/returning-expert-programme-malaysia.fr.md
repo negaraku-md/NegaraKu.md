@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "income-tax-rates-malaysia" }
 related: []
 keywords: ["Returning Expert Programme", "REP", "TalentCorp", "15% flat tax", "Malaysian diaspora", "returning talent", "MyHeart", "CKD vehicle exemption"]
+framework: explainer
 ---
 
 Si vous êtes malaisien, que vous développez votre carrière à l'étranger et que vous envisagez de rentrer, le Returning Expert Programme (REP) offre un taux forfaitaire optionnel de 15 % sur le revenu d'emploi pendant cinq ans au lieu des taux progressifs habituels. Pour être éligible, vous devez présenter votre demande *avant* de rentrer en Malaisie.

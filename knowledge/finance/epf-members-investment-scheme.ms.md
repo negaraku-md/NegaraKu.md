@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "epf-akaun-persaraan" }
 related: []
 keywords: ["EPF i-Invest", "Members Investment Scheme", "KWSP MIS", "invest EPF savings", "Akaun Persaraan", "Basic Savings", "unit trust EPF"]
+framework: explainer
 ---
 
 Simpanan KWSP anda tidak semestinya kekal di satu tempat sahaja dan hanya memperoleh dividen tahunan. Jika anda telah mengumpul lebih daripada asas persaraan yang dikehendaki oleh KWSP, anda dibenarkan meletakkan sebahagian yang terkawal daripadanya ke dalam dana unit amanah — dan sejak 2019 anda boleh melakukannya sendiri, dalam talian, tanpa ejen.

@@ -101,6 +101,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Đâu đó trong một ngôi nhà ở Texas hoặc California, nhiều khả năng chiếc ghế ăn, khung giường hay kệ sách được làm ở Malaysia — rất có thể ở trong và quanh một thị trấn, từ gỗ của một cây cao su từng cho mủ làm găng tay và lốp xe. Ngành nội thất và sản phẩm gỗ của Malaysia là một trong những "ông lớn thầm lặng" của nền kinh tế chế tạo của nó: không hào nhoáng, nhưng là một nhà xuất khẩu tốp mười toàn cầu ổn định đã biến một sản phẩm phụ của khu vực đồn điền thành hàng thành phẩm bán khắp thế giới.

@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "cultural-heritage-tourism-malaysia" }
 related: ["cultural-heritage-tourism-malaysia"]
 keywords: ["kopitiam", "kopi", "teh tarik", "kopi-O", "kopi-C", "mamak", "minuman Malaysia"]
+framework: explainer
 ---
 
 你朝柜台指了指，喊一声"kopi-O peng，一杯！"——不知怎的，那台老式浓缩咖啡机后面的大叔就精准地明白了你要什么。咖啡店的点单语言看起来像是一套暗号，其实它是一套整齐而合乎逻辑的系统。

@@ -69,6 +69,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["parliament", "majlis-raja-raja", "federal-state-division"]
 keywords: ["الدستور الاتحادي", "Federal Constitution Malaysia", "القانون الأسمى", "المادة 4 من الدستور", "المادة 159 التعديل", "سمو الدستور", "أجزاء الدستور الاتحادي", "إجراءات تعديل الدستور", "Perlembagaan Persekutuan"]
+framework: explainer
 ---
 
 كل قانون يُسَنّ في ماليزيا — سواء سنّه البرلمان الاتحادي أو مجلس تشريعي لولاية — يمكن قياسه إلى وثيقة واحدة. فإذا تعارض ذلك القانون معها، جاز اعتباره باطلًا بقدر ذلك التعارض. تلك الوثيقة هي الدستور الاتحادي (Federal Constitution).

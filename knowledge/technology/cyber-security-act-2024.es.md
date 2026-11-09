@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "pdpa-malaysia" }
 related: []
 keywords: ["Cyber Security Act 2024", "Act 854", "NCII", "NACSA", "cybersecurity licensing Malaysia", "incident reporting Malaysia", "national critical information infrastructure", "Ley de Seguridad Cibernética 2024", "ciberseguridad Malasia", "infraestructura de información crítica", "licencias de ciberseguridad"]
+framework: rules
 ---
 
 Durante años, Malasia vigiló los ciberataques con herramientas prestadas — la Ley de

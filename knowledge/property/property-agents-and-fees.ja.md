@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "tenancy-agreement-malaysia" }
 related: []
 keywords: ["ejen hartanah", "REN", "LPEPH", "BOVAEP", "komisen ejen", "fi sewaan", "perunding hartanah"]
+framework: explainer
 ---
 
 仲介業者の胸章に記された番号は飾りではない——それは、正当な交渉人と、単に自分を仲介業者だと称するだけの者とを素早く見分ける唯一の方法である。マレーシアでは、誰があなたに代わって不動産を売却、賃貸、または交渉できるかは、法律によって厳格に規制されている。

@@ -59,6 +59,7 @@ relations:
   - { rel: "governs", to: "traditional-and-complementary-medicine" }
 related: []
 keywords: ["perubatan tradisional", "PT&K", "Akta 775", "TCM", "kiropraktik", "homeopati", "pendaftaran pengamal", "Majlis PT&K"]
+framework: rules
 ---
 
 ตั้งแต่วันที่ 1 มีนาคม 2025 หมอนวดแผนดั้งเดิม ผู้ประกอบวิชาชีพการแพทย์แผนจีน นักโฮมีโอพาธี และไคโรแพรกเตอร์ในมาเลเซียไม่สามารถเปิดประตูคลินิกได้อีกต่อไปโดยไม่มีเอกสารหนึ่งฉบับ — ใบรับรองการขึ้นทะเบียน ยุคของ "การประกอบวิชาชีพในนามของประสบการณ์" สิ้นสุดลงแล้ว

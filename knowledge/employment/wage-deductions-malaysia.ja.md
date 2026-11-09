@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "minimum-wage-malaysia" }
 related: ["employment-act-1955", "minimum-wage-malaysia"]
 keywords: ["potongan gaji", "Seksyen 24", "Akta Kerja 1955", "salary deduction", "Ketua Pengarah Tenaga Kerja", "lebihan gaji"]
+framework: rules
 ---
 
 給与明細が予想より少なく、理由は「会社の方針」とだけ書かれている。しかし使用者は自由に賃金を控除できるわけではない。1955年雇用法（Employment Act 1955、Act 265）は適法な控除の閉じたリストを定めており、そのリストの外にあるものは一切認められない。

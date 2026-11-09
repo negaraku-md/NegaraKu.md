@@ -97,6 +97,7 @@ keywords:
   - dịch vụ khoan
   - tàu hỗ trợ ngoài khơi
   - Bản thiết kế OGSE Quốc gia
+framework: profile
 ---
 
 Khi người ta hình dung về sự giàu có dầu khí của Malaysia, họ thường nghĩ đến dầu thô và khí dưới đáy biển ngoài khơi Terengganu, Sarawak và Sabah — những trữ lượng đã biến PETRONAS thành một trong những công ty năng lượng lớn nhất Châu Á. Nhưng hydrocarbon không tự nâng mình lên khỏi lòng đất. Đằng sau mỗi mỏ đang khai thác là một đội quân nhỏ các nhà thầu: các bãi hàn các giàn thép, các giàn khoan các giếng, các tàu chở thủy thủ đoàn và hàng hóa ra ngoài khơi, các kỹ sư thiết kế các cơ sở, và các kỹ thuật viên giữ cho tất cả vận hành. Hệ sinh thái đó là **ngành dịch vụ và thiết bị dầu khí (OGSE)**, và nó là một ngành lớn của Malaysia theo đúng nghĩa của nó.

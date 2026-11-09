@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "putrajaya" }
 related: ["federal-state-division", "federal-constitution", "kuala-lumpur", "putrajaya", "parliament"]
 keywords: ["local government Malaysia", "local council", "city council", "municipal council", "district council", "Local Government Act 1976", "Act 171", "councillors appointed", "local elections suspended 1965", "third vote", "National Council for Local Government"]
+framework: explainer
 ---
 
 あなたの街灯を直し、ごみを収集し、隣人の増築を承認し、階下のコーヒーショップに営業許可を与える議会は、日常生活に最も近い政府の層である。それはまた、マレーシアのどの有権者もその構成員を選んだことがない唯一の層でもある。

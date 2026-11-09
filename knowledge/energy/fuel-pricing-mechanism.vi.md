@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "diesel-subsidy-rationalisation" }
 related: []
 keywords: ["APM", "harga minyak", "RON97", "RON95", "BUDI95", "subsidi bahan api", "harga pam mingguan"]
+framework: explainer
 ---
 
 Mỗi thứ Tư, giá tại vòi bơm xăng của Malaysia có thể thay đổi — nhưng không phải mọi loại nhiên liệu đều di chuyển theo cùng một cách. Đằng sau con số trên bảng hiệu đó là một công thức chính thức gọi là Cơ chế Ấn định Giá Tự động, hay APM.

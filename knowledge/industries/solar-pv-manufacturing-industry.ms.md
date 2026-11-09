@@ -101,6 +101,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Sedikit orang menyedari bahawa apabila seorang pemilik rumah atau utiliti Amerika memasang susunan solar, panel itu mungkin sebenarnya dibuat di Malaysia. Selama lebih sedekad, negara ini secara senyap menjadi salah satu pengeluar terbesar dunia bagi sel dan modul fotovoltan (PV) solar — bukan untuk menggerakkan grid sendiri, tetapi untuk eksport. Ini ialah industri kilang, bukan tarif suap-masuk.

@@ -76,6 +76,7 @@ relations:
   - { rel: "located-in", to: "sarawak" }
 related: ["gawai-dayak", "sarawak"]
 keywords: ["Ngajat", "tarian Ngajat", "Iban", "Sarawak", "Burung Kenyalang", "enggang", "Hari Gawai", "rumah panjang", "Ngajat Lesong", "Ngajat Indu", "pua kumbu"]
+framework: history-culture
 ---
 
 サラワク州のあるロングハウスの回廊で、頭にサイチョウの羽根を飾った男が跳び、旋回し、床を踏み鳴らす——片手に剣、もう片方の手に盾を持って。それが**ンガジャット**、かつて戦場から帰る戦士を迎えた踊りである。

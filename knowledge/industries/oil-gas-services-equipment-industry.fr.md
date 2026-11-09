@@ -97,6 +97,7 @@ keywords:
   - services de forage
   - navires de soutien offshore
   - National OGSE Blueprint
+framework: profile
 ---
 
 Quand on imagine la richesse pétrolière et gazière de la Malaisie, on pense généralement au brut et au gaz sous les fonds marins au large de Terengganu, du Sarawak et du Sabah — les réserves qui ont fait de PETRONAS l'une des plus grandes compagnies énergétiques d'Asie. Mais les hydrocarbures ne se hissent pas tout seuls hors du sol. Derrière chaque champ en production se trouve une petite armée de sous-traitants : les chantiers qui soudent les plateformes en acier, les appareils qui forent les puits, les navires qui acheminent équipages et cargaisons en offshore, les ingénieurs qui conçoivent les installations, et les techniciens qui font fonctionner l'ensemble. Cet écosystème est l'**industrie des services et équipements pétroliers et gaziers (OGSE)**, et c'est une grande industrie malaisienne à part entière.

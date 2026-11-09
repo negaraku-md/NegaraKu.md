@@ -62,6 +62,7 @@ relations:
   - { rel: "administered-by", to: "ssm" }
 related: []
 keywords: ["PLT audit", "LLP audit exemption", "Akta PLT 2012", "perisytiharan tahunan PLT", "seksyen 69", "SSM"]
+framework: explainer
 ---
 
 Many entrepreneurs choose a Limited Liability Partnership (LLP) partly because it does not have to pay for an annual audit. Unlike a private limited company, an LLP can operate for years without a single auditor ever looking at its accounts — and that is perfectly legal.

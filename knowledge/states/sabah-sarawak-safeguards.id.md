@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "article-153-special-position" }
 related: ["federal-constitution", "ma63", "sabah", "sarawak", "federal-state-division", "article-153-special-position"]
 keywords: ["Sabah Sarawak safeguards", "immigration autonomy Sabah Sarawak", "Article 161B", "Article 161E", "Article 95B List IIA", "native courts Sabah Sarawak", "Article 112C special grants", "Immigration Act 1959/63 Part VII", "special position of natives", "Federal Constitution Part XIIA"]
+framework: explainer
 ---
 
 Terbang dari Kuala Lumpur ke Kota Kinabalu atau Kuching dan Anda mendarat di Malaysia — negara yang sama, paspor yang sama, mata uang yang sama — lalu mengantre di loket imigrasi. Seorang warga Malaysia dari Semenanjung yang tidak dapat menyatakan alasan yang wajar untuk berada di sana bisa diberikan pas yang terbatas hingga beberapa minggu saja, atau ditolak masuk. Pos pemeriksaan itu bukan sekadar keanehan birokrasi. Ia adalah salah satu dari satu set perlindungan yang termaktub dalam Konstitusi Federal ketika Sabah dan Sarawak bergabung dengan Federasi pada tahun 1963.

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "petronas" }
 related: ["new-economic-policy", "petronas"]
 keywords: ["ekuiti bumiputera", "dasar ekonomi baru", "pembangunan vendor", "PuTERA35", "PETRONAS VDP", "industri strategik", "SWEC"]
+framework: explainer
 ---
 
 Seorang pengusaha yang ingin memasok layanan kepada sebuah fasilitas minyak & gas di Malaysia akan cepat mendapati bahwa teknologi dan harga bukan satu-satunya hal yang diperiksa — struktur kepemilikan perusahaannya turut dinilai. Dalam beberapa sektor strategis negara, siapa yang memiliki sebuah perusahaan dapat menentukan apakah ia layak mengajukan lisensi atau kontrak. Fenomena ini berasal dari dua alat kebijakan yang saling terkait: syarat ekuitas Bumiputera dan program pembangunan vendor.

@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["contracts-act-1950", "court-hierarchy", "companies-act-2016"]
 keywords: ["Consumer Protection Act 1999", "Act 599", "Tribunal for Consumer Claims", "TTPM", "consumer rights Malaysia", "KPDN", "consumer claim RM50000"]
+framework: data-reference
 ---
 
 Một chiếc điện thoại chết máy vào tuần thứ hai. Một nhà thầu sửa nhà nhận tiền đặt cọc rồi biến mất. Một nhãn "giảm 50%" trên một mức giá vốn chưa bao giờ thực sự là giá gốc. Malaysia có một đạo luật đáp ứng cho cả ba: Đạo luật Bảo vệ Người tiêu dùng 1999.

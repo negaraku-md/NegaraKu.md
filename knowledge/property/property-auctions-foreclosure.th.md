@@ -76,6 +76,7 @@ relations:
   - { rel: "governs", to: "national-land-code-1965" }
 related: []
 keywords: ["bank lelong", "property auction Malaysia", "foreclosure", "proclamation of sale", "LACA auction", "order for sale", "reserve price", "reserve price deposit"]
+framework: explainer
 ---
 
 อสังหาริมทรัพย์สามารถถูกนำออกประมูลในราคาเพียงเศษเสี้ยวของมูลค่าตลาด แต่ส่วนลดคือการที่ตลาดตีราคาทุกสิ่งที่อาจผิดพลาดไปแล้ว Bank lelong ไม่ใช่การล่าของถูก แต่เป็นการแลกเปลี่ยนราคากับความเสี่ยงที่คำนวณแล้ว

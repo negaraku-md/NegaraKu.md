@@ -97,6 +97,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Hampir setiap produk fizikal yang keluar dari kilang Malaysia — sepeket mi segera, telefon pintar, bampar kereta, sebatang paip air — bergantung pada plastik yang dibentuk di suatu tempat di negara ini. Plastik ialah salah satu kekuatan perindustrian senyap Malaysia: kurang glamor berbanding semikonduktor, tetapi terjalin ke dalam hampir setiap sektor pembuatan lain dan, semakin, ke dalam perdebatan nasional tentang sisa dan kelestarian.

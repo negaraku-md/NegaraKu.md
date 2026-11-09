@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bursa-malaysia"]
 keywords: ["CelcomDigi", "Maxis", "U Mobile", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "MCMC", "telco merger", "single wholesale network"]
+framework: profile
 ---
 
 Malaysia menghabiskan tiga tahun mengendalikan keseluruhan pelancaran 5G-nya melalui satu paip milik kerajaan — kemudian, dalam satu tempoh dasar yang intens, meruntuhkan model itu, menyerahkan rangkaian kedua kepada pengendali utamanya yang terkecil, dan menarik diri sepenuhnya daripada pegangan saham negara. Hasilnya ialah pasaran mudah alih yang langsung tidak menyerupai keadaannya pada 2021.

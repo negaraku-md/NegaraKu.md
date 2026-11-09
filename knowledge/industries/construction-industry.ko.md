@@ -85,6 +85,7 @@ relations:
   - { rel: "governs", to: "cidb-act-520" }
 related: []
 keywords: ["industri pembinaan", "CIDB", "gred kontraktor", "G1 G7", "Akta 520", "kad hijau", "pendaftaran kontraktor", "NCP 2030", "CITP"]
+framework: rules
 ---
 
 계약자 등록 증서를 소지하지 않은 채 RM250,000짜리 학교 담장을 세워 보십시오. 첫 기둥을 박기도 전에 프로젝트가 즉시 중지 명령을 받을 수 있습니다. 말레이시아에서 건설할 권리는 기계나 노동에서 시작하지 않습니다 — 그것은 하나의 등록부에서 시작합니다.

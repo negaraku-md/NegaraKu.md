@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "klang-valley-integrated-transit-system" }
 related: []
 keywords: ["Rapid KL बस", "MRT फीडर बस", "क्लांग वैली बस", "Rapid Bus", "Rapid KL On-Demand", "कुआलालंपुर सिटी बस", "Rapid KL bus", "MRT feeder bus", "Klang Valley bus"]
+framework: explainer
 ---
 
 ट्रेन आपको स्टेशन तक पहुँचाती है। वह शायद ही कभी आपको घर तक पहुँचाती है। वह अंतराल — MRT या LRT के प्लेटफ़ॉर्म से लेकर आपके दरवाज़े, आपके ऑफ़िस पार्क, या दो मोहल्ले दूर की गीली मंडी तक — एक ऐसे बेड़े से भरा जाता है जिसके बारे में अधिकांश यात्री शायद ही सोचते हैं: Rapid KL की बसें।

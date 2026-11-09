@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "healthcare-for-seniors" }
 related: ["healthcare-for-seniors"]
 keywords: ["الرعاية التلطيفية", "رعاية المحتضرين", "Hospis Malaysia", "رعاية نهاية الحياة", "الرعاية المنزلية", "KKM", "palliative care", "hospice"]
+framework: explainer
 ---
 
 عندما لا يعود العلاج يهدف إلى الشفاء، يتحوّل التركيز إلى أمر واحد: إبقاء المريض مرتاحاً ومحفوظ الكرامة. هذا هو جوهر الرعاية التلطيفية — وفي ماليزيا، يمكن الوصول إليها عبر ثلاث قنوات مختلفة.

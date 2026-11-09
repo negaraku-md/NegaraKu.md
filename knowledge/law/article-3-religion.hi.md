@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "rukun-negara" }
 related: ["federal-constitution", "yang-di-pertuan-agong", "majlis-raja-raja", "court-hierarchy", "rukun-negara"]
 keywords: ["अनुच्छेद 3 संघीय संविधान मलेशिया", "इस्लाम संघ का धर्म", "अनुच्छेद 11 धर्म की स्वतंत्रता मलेशिया", "Article 3 Federal Constitution Malaysia", "Islam religion of the Federation", "Article 11 freedom of religion Malaysia", "Article 121(1A)", "धर्म की स्वतंत्रता मलेशिया", "शरिया अदालतें"]
+framework: explainer
 ---
 
 संघीय संविधान के दो प्रावधान एक-दूसरे के बगल में स्थित हैं और लगातार उद्धृत किए जाते हैं, पर शायद ही कभी पूर्ण रूप में। यहाँ वह पाठ है।

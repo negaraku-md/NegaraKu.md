@@ -67,6 +67,7 @@ wikidata: "Q25475395"
 relations: []
 related: []
 keywords: ["Local Government Act 1976", "Act 171", "Akta Kerajaan Tempatan 1976", "local authority Malaysia", "PBT", "Pihak Berkuasa Tempatan", "majlis perbandaran", "majlis daerah", "assessment tax", "cukai pintu", "local council elections Malaysia", "appointed councillors", "National Council for Local Government", "third vote Malaysia"]
+framework: explainer
 ---
 
 말레이시아의 어떤 투표용지에도 시장 후보가 오른 적이 없는 이유를 궁금해한 적이 있다면, 그 답은 단 하나의 법령입니다. **지방정부법 1976(Local Government Act 1976, Act 171)** — 긴 제목은 "지방정부에 관한 법을 개정하고 통합하는 법(An Act to revise and consolidate the laws relating to local government)" — 은 말레이반도의 모든 시·시자치·구 의회를 구성하고, 그것을 운영하는 사람들을 임명하며, 여러분에게 과세하고 벌금을 부과할 권한을 그들에게 넘겨주는 법입니다. 그것은 **1976년 3월 18일**에 국왕의 재가를 받았고 1976년 3월 25일에 관보에 게재되었습니다. 웹의 많은 곳이 말하는 것과 달리, **제1조 제1항은 그것이 말레이반도에만 적용된다고 규정합니다**; 사바(Sabah)와 사라왁(Sarawak)은 자체의 조례를 유지합니다.

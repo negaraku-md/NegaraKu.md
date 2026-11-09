@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "mmea" }
 related: []
 keywords: ["industria pesquera de Malasia", "producción de pescado de Malasia", "acuicultura Malasia", "aquaculture Malaysia", "LKIM", "Departamento de Pesca de Malasia", "Ley de Pesca 1985", "Fisheries Act 1985", "intrusión de embarcaciones pesqueras extranjeras", "IUU fishing Malaysia"]
+framework: profile
 ---
 
 Antes del amanecer, en los embarcaderos a lo largo del estrecho de Malaca y

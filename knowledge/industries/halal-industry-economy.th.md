@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-economic-policy" }
 related: ["islamic-finance", "external-trade", "bumiputera-economic-policy"]
 keywords: ["halal industry", "halal economy", "HALMAS halal park", "Halal Development Corporation", "HDC", "Halal Industry Master Plan 2030", "halal exports", "global halal hub"]
+framework: profile
 ---
 
 โลโก้ฮาลาลบนซองบะหมี่กึ่งสำเร็จรูปคือจุดที่คนส่วนใหญ่คิดว่าเรื่องราวจบลง ในมาเลเซีย มันใกล้เคียงกับจุดที่เรื่องราวเริ่มต้นมากกว่า เบื้องหลังเครื่องหมายนั้นคือความพยายามอย่างจงใจที่ยาวนานหลายทศวรรษที่จะเปลี่ยน "ฮาลาล" จากการรับประกันทางศาสนาให้เป็นอุตสาหกรรมส่งออก — พร้อมนิคมอุตสาหกรรม การลดหย่อนภาษี การจัดหาเงินทุน และแผนแม่บทระดับชาติที่ผูกไว้

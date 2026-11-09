@@ -67,6 +67,7 @@ wikidata: "Q25475395"
 relations: []
 related: []
 keywords: ["Local Government Act 1976", "Act 171", "Akta Kerajaan Tempatan 1976", "local authority Malaysia", "PBT", "Pihak Berkuasa Tempatan", "majlis perbandaran", "majlis daerah", "assessment tax", "cukai pintu", "local council elections Malaysia", "appointed councillors", "National Council for Local Government", "third vote Malaysia"]
+framework: explainer
 ---
 
 หากคุณเคยสงสัยว่าทำไมบัตรลงคะแนนของมาเลเซียไม่เคยมีรายชื่อผู้สมัครนายกเทศมนตรี คำตอบคือกฎหมายฉบับเดียว **พระราชบัญญัติการปกครองท้องถิ่น 1976 (Local Government Act 1976, Act 171)** — ชื่อยาว "An Act to revise and consolidate the laws relating to local government" — คือกฎหมายที่จัดตั้งสภาเมือง เทศบาล และอำเภอทุกแห่งในคาบสมุทรมาเลเซีย แต่งตั้งผู้ที่บริหารมัน และมอบอำนาจในการเก็บภาษีและปรับคุณ มันได้รับพระบรมราชานุญาตเมื่อวันที่ **18 มีนาคม 1976** และประกาศในราชกิจจานุเบกษาเมื่อวันที่ 25 มีนาคม 1976 แม้ว่าเว็บส่วนใหญ่จะกล่าวว่าอย่างไร **มาตรา 1(1) ระบุว่าใช้บังคับเฉพาะกับคาบสมุทรมาเลเซีย**; ซาบาห์และซาราวักคงกฎหมายของตนเองไว้

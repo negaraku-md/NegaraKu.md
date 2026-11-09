@@ -76,6 +76,7 @@ relations:
   - { rel: "located-in", to: "sarawak" }
 related: ["gawai-dayak", "sarawak"]
 keywords: ["Ngajat", "tarian Ngajat", "Iban", "Sarawak", "Burung Kenyalang", "enggang", "Hari Gawai", "rumah panjang", "Ngajat Lesong", "Ngajat Indu", "pua kumbu"]
+framework: history-culture
 ---
 
 Di galeri sebuah rumah panjang di Sarawak, seorang laki-laki dengan bulu rangkong di kepalanya melompat, berputar, dan menghentak lantai — pedang di satu tangan, perisai di tangan yang lain. Itulah **Ngajat**, tarian yang dahulu menyambut pahlawan pulang dari medan perang.

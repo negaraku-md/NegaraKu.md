@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
 related: ["companies-act-2016"]
 keywords: ["liabiliti setiausaha syarikat", "kesalahan setiausaha syarikat", "penyata palsu", "seksyen 591", "Akta Syarikat 2016", "pegawai syarikat", "Borang 49"]
+framework: rules
 ---
 
 SSMの書式への一つの署名が、会社秘書役を被告席に立たせることになりかねない——会社やその取締役だけではない。たとえ取締役の指示に従って署名した文書であっても、誤りがあれば、それを提出した者が個人として責任を負う。

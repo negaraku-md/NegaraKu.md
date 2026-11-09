@@ -96,6 +96,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Malaysia terletak merentasi sebahagian hutan hujan tertua di Bumi, dan bagi sebahagian besar sejarah modennya perdagangan kayu keras tropika ialah salah satu tiang ekonomi nasional. Dunia huluan itu — hutan itu sendiri, lesen untuk membalaknya, dan pemprosesan awal balak mentah menjadi kayu — ialah industri yang tersendiri daripada kilang perabot dan pengeksport produk kayu lebih jauh ke bawah rantaian. Panduan ini meliputi **sektor perhutanan dan sumber kayu**: dari mana kayu datang, siapa yang mengawalnya, bagaimana ia dieksport, dan tekanan kelestarian serta pasaran yang kini membentuknya semula.

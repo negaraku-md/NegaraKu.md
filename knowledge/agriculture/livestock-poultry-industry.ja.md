@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-industry" }
 related: ["palm-oil-industry"]
 keywords: ["industri ternakan", "ayam pedaging", "telur ayam", "demam babi Afrika", "influenza burung", "JPV", "nisbah sara diri", "biosekuriti", "kekurangan ayam 2022"]
+framework: profile
 ---
 
 マレーシア人の食卓は鶏肉に支えられている。国内で最も安価なタンパク源であり——だからこそ鶏舎が揺らげば、それは一農場の問題ではなく国家的な問題となる。

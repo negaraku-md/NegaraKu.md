@@ -72,6 +72,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
 related: []
 keywords: ["derma darah", "Pusat Darah Negara", "PDN", "syarat menderma darah", "keistimewaan penderma", "blood donation Malaysia"]
+framework: how-to
 ---
 
 Theo PDN, một lần hiến máu có thể cứu ít nhất ba mạng người — vì máu toàn phần được chế biến thành hồng cầu, tiểu cầu và huyết tương cho các bệnh nhân khác nhau.

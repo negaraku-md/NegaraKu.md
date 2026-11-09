@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "macc-sprm" }
 related: ["federal-constitution", "court-hierarchy", "macc-sprm"]
 keywords: ["Penal Code", "Act 574", "Malaysia criminal law", "Indian Penal Code", "Criminal Procedure Code Act 593", "Act 846"]
+framework: data-reference
 ---
 
 Act 574 பற்றி நீங்கள் படிக்கும் ஏறக்குறைய ஒவ்வொரு கட்டுரையும் அதே வாக்கியத்துடன்

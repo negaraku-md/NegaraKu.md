@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "national-automotive-policy" }
 related: []
 keywords: ["Proton", "Perodua", "national car", "Geely", "DRB-HICOM", "UMW", "Sime Darby", "National Automotive Policy", "NAP 2020", "electric vehicles Malaysia", "e.MAS 7", "QV-E"]
+framework: profile
 ---
 
 マレーシアほどの規模の国で、ゼロから自動車を作ろうと試みた例はほとんどない。まして、国内のほとんどの家庭の車道に自前ブランドの車が2台停まっている国となると、さらに数少ない。マレーシアのどの町を車で走っても、交通の様子は意図的な産業政策の物語を語っている——信号待ちのPerodua Myvi、その後ろに続くProton Saga。両者はいずれも、発展途上経済が自国で自動車を製造できるという1980年代の賭けに端を発している。

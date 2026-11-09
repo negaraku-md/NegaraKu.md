@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["insurance Malaysia", "life insurance", "general insurance", "motor insurance", "PIAM", "LIAM", "Financial Services Act 2013", "Bank Negara Malaysia", "third party cover"]
+framework: profile
 ---
 
 在马来西亚，每一次路税的更新都悄然印证着一个道理：先买保险，否则车辆就得停在路边。这一条法律钩子——强制性的第三者汽车保险——是整个行业最显眼的一角，而这个行业在其他方面则默默运转于日常生活的背后，收取保费、汇聚风险，并在事情出错时理赔。

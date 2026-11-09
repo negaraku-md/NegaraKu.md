@@ -78,6 +78,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["batik", "gawai-dayak", "sarawak"]
 keywords: ["pua kumbu", "tenunan Iban", "ikat lungsi", "kebat", "engkudu", "ngar", "kain upacara Sarawak", "Bangie Embol"]
+framework: history-culture
 ---
 
 織り手が「祝福」なしには創り出すことをためらう布——その文様は夢の中で授かるといわれ、かつてはそれを生み出した人々の戦士の伝統と固く結びついていた。それが**プア・クンブ**（*pua kumbu*）である。

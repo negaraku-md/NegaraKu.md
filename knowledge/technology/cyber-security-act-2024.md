@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "pdpa-malaysia" }
 related: []
 keywords: ["Cyber Security Act 2024", "Act 854", "NCII", "NACSA", "cybersecurity licensing Malaysia", "incident reporting Malaysia", "national critical information infrastructure"]
+framework: rules
 ---
 
 For years, Malaysia policed cyberattacks with borrowed tools — the Computer Crimes Act, the Communications and Multimedia Act, sector circulars from Bank Negara and the central bank's peers. None of them said, in one place, who must protect the country's critical systems, how fast a breach must be reported, or who is even allowed to sell a penetration test. The Cyber Security Act 2024 does. It is Malaysia's first standalone cybersecurity law, and it treats certain networks the way earlier laws treated dams and power stations: as national infrastructure the state has a right to regulate.

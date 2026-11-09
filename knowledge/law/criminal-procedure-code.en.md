@@ -71,6 +71,7 @@ relations:
   - { rel: "explained-in", to: "rights-when-arrested-malaysia" }
 related: ["penal-code"]
 keywords: ["kanun tatacara jenayah", "akta 593", "criminal procedure code", "reman", "seksyen 117", "ikat jamin", "seksyen 28A", "tangkapan", "perbicaraan jenayah", "prima facie"]
+framework: explainer
 ---
 
 When a person is arrested in Malaysia, what happens after that moment — whether they are released, detained, charged or tried — is not decided arbitrarily. It is laid down step by step by the Criminal Procedure Code (Act 593), or the CPC for short.

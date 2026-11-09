@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "epf-retirement-savings" }
 related: []
 keywords: ["belanjawanku", "coste de vida Malasia", "kos sara hidup", "KWSP", "EPF", "presupuesto de referencia", "Klang Valley", "SWRC"]
+framework: explainer
 ---
 
 «¿Son suficientes RM2,800 al mes para que una persona sola viva en el Klang Valley?» Esta es exactamente la clase de pregunta que Belanjawanku se propone responder: no por conjeturas, sino con cifras de referencia construidas a partir de los patrones de gasto reales de los hogares urbanos.

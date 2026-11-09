@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "auditor-independence" }
 related: ["companies-act-2016"]
 keywords: ["seksyen 266", "juruaudit", "SSM", "Akta Syarikat 2016", "pelaporan pelanggaran", "penipuan", "Pendaftar"]
+framework: rules
 ---
 
 审计师在审计过程中发现欺诈行为时，不能只是保持沉默并签署报告——法律规定他必须以书面形式向注册官作出报告。这项义务并非可选，忽视它本身就是一项罪行。

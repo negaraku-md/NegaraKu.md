@@ -63,6 +63,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-kastam-diraja-malaysia" }
 related: ["tourism-tax"]
 keywords: ["levi pelepasan", "departure levy", "taxe de départ", "Departure Levy Act 2019", "Kastam", "MyDLv"]
+framework: rules
 ---
 
 Chaque fois que vous quittez la Malaisie en avion, le prix de votre billet inclut

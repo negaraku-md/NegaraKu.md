@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "medical-act-1971" }
 related: []
 keywords: ["pengguguran", "undang-undang pengguguran Malaysia", "Seksyen 312 Kanun Keseksaan", "penamatan kehamilan", "Akta Perubatan 1971", "garis panduan KKM"]
+framework: explainer
 ---
 
 Banyak orang menganggap aborsi sama sekali dilarang di Malaysia — kenyataannya, undang-undang menempatkannya dalam satu ruang yang lebih rumit: suatu tindak pidana dengan satu pengecualian medis yang penting. Memahami di mana garis itu ditarik mengharuskan kita membaca teks sebenarnya Kanun Keseksaan, bukan anggapan umum.

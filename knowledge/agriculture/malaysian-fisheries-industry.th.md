@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "mmea" }
 related: []
 keywords: ["industri perikanan malaysia", "pengeluaran ikan malaysia", "akuakultur malaysia", "lkim nelayan", "jabatan perikanan malaysia", "akta perikanan 1985", "pencerobohan bot nelayan asing", "iuu fishing malaysia"]
+framework: profile
 ---
 
 ก่อนรุ่งสางที่ท่าเทียบเรือตลอดช่องแคบมะละกาและทะเลจีนใต้ เรือประมงชายฝั่งนับพันลำออกสู่ทะเลเพื่อจัดหาปลาเกือบเก้าในสิบส่วนที่ทั้งประเทศบริโภค ในเวลาเดียวกัน ในน่านน้ำที่ไกลออกไป เรืออวนลากที่ไม่ได้ชักธงมาเลเซียก็ลากอวนของพวกเขาข้ามพรมแดนที่สายตามองไม่เห็น

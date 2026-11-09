@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "striking-off-a-company" }
 related: ["companies-act-2016"]
 keywords: ["pemulihan syarikat", "syarikat dipotong", "seksyen 555", "reinstate company", "struck off", "Akta Syarikat 2016", "SSM"]
+framework: how-to
 ---
 
 귀사의 명칭이 말레이시아 기업위원회(SSM)의 등록부에서 사라졌습니다 — 그러나 그

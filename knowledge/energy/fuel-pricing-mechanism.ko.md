@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "diesel-subsidy-rationalisation" }
 related: []
 keywords: ["APM", "harga minyak", "RON97", "RON95", "BUDI95", "subsidi bahan api", "harga pam mingguan"]
+framework: explainer
 ---
 
 매주 수요일, 말레이시아 주유소의 가격은 바뀔 수 있습니다 — 하지만 모든 종류의 연료가 같은 방식으로 움직이는 것은 아닙니다. 그 표지판 위 숫자 뒤에는 자동가격결정메커니즘, 즉 APM이라 불리는 공식 산정식이 있습니다.

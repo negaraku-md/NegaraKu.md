@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "national-automotive-policy" }
 related: []
 keywords: ["Proton", "Perodua", "national car", "Geely", "DRB-HICOM", "UMW", "Sime Darby", "National Automotive Policy", "NAP 2020", "electric vehicles Malaysia", "e.MAS 7", "QV-E"]
+framework: profile
 ---
 
 Few countries the size of Malaysia have ever tried to build a car from scratch. Fewer still have two homegrown brands parked in most of the nation's driveways. Drive through any Malaysian town and the traffic tells a story of deliberate industrial policy: a Perodua Myvi at the lights, a Proton Saga behind it, both descended from a 1980s bet that a developing economy could manufacture its own automobiles.

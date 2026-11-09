@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-equity-requirements" }
 related: ["federal-constitution", "fundamental-liberties", "ma63", "majlis-raja-raja", "bumiputera-equity-requirements"]
 keywords: ["Article 153", "position spéciale des Malais", "autochtones de Sabah et Sarawak", "Constitution fédérale Malaisie", "intérêts légitimes des autres communautés", "special position of the Malays", "Federal Constitution Malaysia", "Bumiputera quotas"]
+framework: explainer
 ---
 
 La plupart des résumés de l'article 153 s'arrêtent à une seule phrase : il protège «la position spéciale des Malais». Lisez intégralement la clause dont elle provient, et la phrase fait autre chose : elle nomme deux devoirs dans le même souffle, pour la même fonction, dans la même clause.

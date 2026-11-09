@@ -97,6 +97,7 @@ relations:
   - { rel: "administered-by", to: "mida" }
 related: ["penang", "mida"]
 keywords: ["E&E industry", "electrical and electronics", "Malaysia manufacturing", "Penang electronics", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
+framework: profile
 ---
 
 Mở gần như bất kỳ chiếc laptop, điện thoại thông minh hay ô tô nào được chế tạo trong thập kỷ qua và có một khả năng đáng kể rằng một phần của nó đã đi qua Malaysia. Con chip bên trong có thể đã được kiểm tra và đóng gói ở Penang; bộ chuyển đổi nguồn, đèn nền LED hay bảng mạch có thể đã được lắp ráp ở Kulim, Melaka hay Thung lũng Klang. Đối với một quốc gia khoảng 34.1 triệu người (2024, DOSM), Malaysia ngồi ở một điểm trung tâm đáng ngạc nhiên trong chuỗi cung ứng điện tử của thế giới — và đó gần như hoàn toàn là câu chuyện của một ngành.

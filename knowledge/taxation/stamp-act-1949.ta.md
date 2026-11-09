@@ -103,6 +103,7 @@ entity: "Stamp Act 1949 (Act 378, Malaysia)"
 relations: []
 related: []
 keywords: ["stamp act 1949", "stamp duty malaysia", "LHDN stamp duty", "ad valorem duty", "fixed duty", "memorandum of transfer stamp duty", "MOT stamp duty", "loan agreement stamp duty", "tenancy agreement stamp duty", "e-stamping malaysia", "stamp duty self assessment", "stamp duty calculator malaysia", "stamp duty penalty", "stamp duty exemption", "Act 378"]
+framework: rules
 ---
 
 ஒரு வாடகை ஒப்பந்தத்தில் கையெழுத்திடுங்கள், ஒரு வீட்டுக் கடனை எடுங்கள், ஒரு உரிமையை மாற்றுங்கள், ஒரு தரகர் மூலம் பங்குகளை வாங்குங்கள் — அந்த ஆவண வேலைப்பாட்டில் எங்கோ ஒரு மூலையில், நீங்கள் ஒருபோதும் கவனித்திராத ஒரு வரி அமர்ந்திருக்கிறது. அந்த வரிதான் **முத்திரை வரி (stamp duty)**, அதன் பின்னணியில் உள்ள சட்டம் **Stamp Act 1949 (Act 378)**. அதை அசாதாரணமாக்குவது அதன் இலக்கு: முத்திரை வரி, அது பதிவு செய்யும் பரிவர்த்தனையின் மீது அல்ல, மாறாக **கருவி (instrument)** — எழுத்துப்பூர்வ ஆவணத்தின் மீதே — விதிக்கப்படுகிறது. ஆவணத்தை முத்திரையிட்டால் அது நீதிமன்றத்தில் நிலைத்து நிற்கிறது; முத்திரையிடாமல் விட்டால், அது அச்சிடப்பட்ட காகிதத்தை விட சற்றே அதிக மதிப்புடையதாகவே இருக்கக்கூடும்.

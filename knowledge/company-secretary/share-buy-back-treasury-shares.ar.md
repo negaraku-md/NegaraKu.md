@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "solvency-statement" }
 related: []
 keywords: ["إعادة شراء الأسهم", "pembelian balik saham", "share buy-back", "أسهم الخزينة", "treasury shares", "القسم 127", "Seksyen 127", "قانون الشركات 2016", "Akta Syarikat 2016", "Bursa Malaysia", "الفصل 12", "Bab 12"]
+framework: rules
 ---
 
 يجوز للشركة أن تعيد شراء أسهمها وأن تحتفظ بها "في الخزينة" — لكن فقط إن كانت مدرجة، وقادرة على سداد ديونها، وبقيت ضمن حد صارم قدره 10%.

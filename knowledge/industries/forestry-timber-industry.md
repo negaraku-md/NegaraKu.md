@@ -95,6 +95,7 @@ revisions:
     change: AI-assisted draft prepared; pending human review.
     contributor: null
     reviewer: null
+framework: profile
 ---
 
 Malaysia sits astride some of the oldest rainforest on Earth, and for much of its modern history the trade in tropical hardwood was one of the pillars of the national economy. That upstream world — the forests themselves, the licences to log them, and the first processing of raw logs into timber — is a distinct industry from the furniture factories and wood-products exporters further down the chain. This guide covers the **forestry and timber resource sector**: where the wood comes from, who controls it, how it is exported, and the sustainability and market pressures now reshaping it.
