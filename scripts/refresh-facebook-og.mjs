@@ -113,13 +113,17 @@ async function rescrape(url, pageToken, lang) {
 
 async function main() {
   let targets = await collectTargets();
-  // FB's app-level hourly limit caps how many URLs one run can scrape, so a single
-  // run usually can't finish all of them. Shuffle so repeated runs cover DIFFERENT
-  // URLs and the whole set gets refreshed across a few runs (scrape is idempotent).
+  // FB's app-level hourly scrape quota (~22/run) means one run can't finish all of
+  // them. Shuffle first (so repeated runs vary WITHIN a language), then stable-sort
+  // by language priority so each run's quota goes to the longest-broken cards first
+  // — ko/ja/zh summary-tofu — clearing the languages that matter most in the fewest
+  // runs. (Array.sort is stable, so the shuffle is preserved within each group.)
   for (let i = targets.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [targets[i], targets[j]] = [targets[j], targets[i]];
   }
+  const LANG_PRIORITY = { ko: 0, ja: 1, zh: 2, th: 3, ta: 4, ms: 5 };
+  targets.sort((a, b) => (LANG_PRIORITY[a.lang] ?? 9) - (LANG_PRIORITY[b.lang] ?? 9));
   if (LIMIT > 0) targets = targets.slice(0, LIMIT);
 
   console.log(`[fb-refresh] ${targets.length} affected posted URL(s) to re-scrape`);
