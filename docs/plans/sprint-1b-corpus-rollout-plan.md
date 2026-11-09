@@ -74,6 +74,27 @@ calendar → data-reference).
 Corpus now: **282 families tagged** (32 pilot + 250 Wave A); **1,046 untagged**
 remain (Wave B 297 + Wave C 749). Preview regenerated accordingly.
 
+## Wave B — DONE (2026-11-09, held)
+
+297 families tagged, metadata-only — validator 0 errors, freshness 0 stale, lint
+0 framework-signal warnings. Two batches:
+- **Batch 1 — agency (96):** ~90% named-entity **profile** (89), 7 reader-confirmed
+  exceptions (court-hierarchy & public-healthcare → explainer, MBRS-filing → how-to).
+- **Batch 2 — faq/law/industry (201):** classified by a **17-agent workflow**, each
+  reading ~12 articles cold by reader-job (ignoring contentType), reviewed before
+  applying. Distribution: explainer 84, profile 51 (the industries/ atlas), rules
+  44, how-to 10, history-culture 7, data-reference 5.
+
+**Finding — the `law` 3-way split is reliable by reader-job:** obligation statutes
+(AMLA, OSHA, PDPA) → rules; constitutional provisions / legal concepts (Articles
+152/153/3, fundamental-liberties) → explainer; bare statute records (contracts-act,
+employment-act-1955, income-tax-act, penal-code) → data-reference (the
+companies-act-2016 pattern). **Method finding:** beyond Wave A's narrow types and
+named-entity profiles, `contentType` is too weak to auto-apply — the workflow
+(one agent per small batch, read cold) is the right tool for Wave C.
+
+Corpus now: **579 tagged**; **749 untagged** (all Wave C).
+
 ## Rollout waves
 
 **Wave A — high-confidence narrow types (~268 families).**
