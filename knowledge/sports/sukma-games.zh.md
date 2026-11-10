@@ -1,7 +1,7 @@
 ---
 topicId: MY-SPT-0015
 title: "SUKMA：马来西亚运动会与国家青年人才输送渠道"
-seoTitle: "SUKMA（马来西亚运动会）：它是什么以及如何输送精英运动员"
+seoTitle: "SUKMA是什么？马来西亚运动会与精英运动员输送渠道"
 slug: "sukma-games"
 category: "sports"
 subcategory: ["sukma"]

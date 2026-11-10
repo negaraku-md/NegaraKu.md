@@ -1,7 +1,7 @@
 ---
 topicId: "MY-BIZ-0121"
 title: "MyIPO: Malaysia's Intellectual Property Office and How to Register Every Type of IP"
-seoTitle: "MyIPO: Malaysia's Intellectual Property Office"
+seoTitle: "Apa Itu MyIPO? Malaysia's Intellectual Property Office"
 socialTitle: "Patent, trademark, copyright: what MyIPO actually protects in Malaysia (and what it can't)"
 slug: "myipo-intellectual-property-corporation"
 category: "business"

@@ -1,7 +1,7 @@
 ---
 topicId: MY-PS-0030
 title: 国家反诈骗中心（NSRC）
-seoTitle: 马来西亚国家反诈骗中心（NSRC）997
+seoTitle: "NSRC是什么？马来西亚国家反诈骗中心（997热线）"
 slug: national-scam-response-centre-nsrc
 category: public-safety
 subcategory:

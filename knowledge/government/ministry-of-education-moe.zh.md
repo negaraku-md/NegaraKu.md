@@ -1,7 +1,7 @@
 ---
 topicId: "MY-GOV-0093"
 title: "马来西亚教育部（KPM）：职责范围与运作方式"
-seoTitle: "马来西亚教育部（KPM）：职责与架构"
+seoTitle: "KPM是什么？马来西亚教育部的职责与架构"
 socialTitle: "谁在管理马来西亚的学校？走进教育部（KPM）"
 slug: "ministry-of-education-moe"
 category: "government"

@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0033
 title: "马来西亚锡镴（Pewter）：锡矿财富缔造的工艺"
+seoTitle: "Piuter（Pewter）是什么？马来西亚锡镴工艺与Royal Selangor"
 slug: pewter
 category: arts-culture
 subcategory: ["crafts"]

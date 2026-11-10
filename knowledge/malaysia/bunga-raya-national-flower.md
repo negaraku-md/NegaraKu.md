@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0073
 title: "Bunga Raya: Bagaimana Bunga Kebangsaan Malaysia Dipilih"
-seoTitle: "Bunga Raya, Bunga Kebangsaan Malaysia: Sejarah & Maksud"
+seoTitle: "Maksud Bunga Raya: Bunga Kebangsaan Malaysia & Sejarahnya"
 slug: "bunga-raya-national-flower"
 category: "malaysia"
 subcategory: ["simbol"]

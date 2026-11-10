@@ -1,7 +1,7 @@
 ---
 topicId: MY-PS-0013
 title: "RELA：马来西亚志愿队"
-seoTitle: "RELA（马来西亚志愿队）：法律依据、职责与权限界限"
+seoTitle: "RELA是什么？马来西亚志愿队的法律依据、职责与权限界限"
 slug: "rela-peoples-volunteer-corps"
 category: "public-safety"
 subcategory: ["rela"]

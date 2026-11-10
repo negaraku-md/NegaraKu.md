@@ -1,7 +1,7 @@
 ---
 topicId: MY-CS-0063
 title: "Statutory Declarations in Malaysia"
-seoTitle: "Statutory Declaration Malaysia: Law, Who Can Witness, and Company Uses"
+seoTitle: "Maksud Statutory Declaration di Malaysia: Law & Who Can Witness"
 slug: "statutory-declaration-malaysia"
 category: "company-secretary"
 subcategory: ["compliance"]

@@ -1,7 +1,7 @@
 ---
 topicId: "MY-LIV-0161"
 title: "JPJ（陆路交通局）：马来西亚的车辆与驾驶执照主管机关"
-seoTitle: "JPJ（陆路交通局）：职能与服务"
+seoTitle: "JPJ是什么？马来西亚陆路交通局的职能与服务"
 socialTitle: "马来西亚每一张路税、车牌与驾照背后的机构"
 slug: "road-transport-department-jpj"
 category: "transport"

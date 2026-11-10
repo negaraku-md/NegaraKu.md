@@ -1,7 +1,7 @@
 ---
 topicId: MY-LIV-0116
 title: "玛拉初级理科学院（MRSM）与全寄宿学校（SBP）"
-seoTitle: "MRSM 与 SBP：区别、入学与固打政策"
+seoTitle: "MRSM是什么？与SBP全寄宿学校的区别、入学与固打政策"
 slug: "mrsm-and-fully-residential-schools"
 category: "education"
 subcategory: ["boarding"]

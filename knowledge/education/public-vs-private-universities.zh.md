@@ -1,7 +1,7 @@
 ---
 topicId: MY-LIV-0058
 title: "IPTA还是IPTS？大马公立与私立大学到底有何不同"
-seoTitle: "大马公立与私立大学比较 — IPTA、IPTS、UPU、MQA"
+seoTitle: "IPTA、IPTS是什么？大马公立与私立大学的分别（UPU、MQA）"
 slug: "public-vs-private-universities"
 category: "education"
 subcategory: ["tertiary"]

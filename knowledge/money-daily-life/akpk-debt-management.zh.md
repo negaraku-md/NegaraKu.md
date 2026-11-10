@@ -1,7 +1,7 @@
 ---
 topicId: MY-LIV-0121
 title: "AKPK：马来西亚免费债务辅导机构与信贷管理计划"
-seoTitle: "AKPK 与信贷管理计划（PPK）：免费债务辅导"
+seoTitle: "AKPK是什么？马来西亚免费债务辅导与信贷管理计划（PPK）"
 slug: "akpk-debt-management"
 category: "money-daily-life"
 alsoIn: ["business"]

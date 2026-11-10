@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0062
 title: "Konfrontasi：迎接马来西亚诞生的未宣战之战"
+seoTitle: "Konfrontasi是什么意思？印尼对抗马来西亚（1963–1966）"
 slug: "konfrontasi"
 category: "malaysia"
 subcategory: ["nation-formation"]
