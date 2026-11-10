@@ -2,6 +2,7 @@
 import type { Locale } from '@/lib/categories';
 import { localePath } from '@/lib/i18n';
 import { REPO } from '@/lib/site';
+import { isolateRanges } from '@/lib/bidi';
 import PageHero from './PageHero.astro';
 
 // Shared renderer for the three policy pages (Terms / Privacy / Cookies).
@@ -16,6 +17,7 @@ interface Props {
   doc: 'terms' | 'privacy' | 'cookies';
 }
 const { locale, doc } = Astro.props;
+const iso = (t: string) => (locale === 'ar' ? isolateRanges(t) : t);
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const UPDATED = '2026-10-19';
@@ -503,9 +505,9 @@ const crumbLabel = L('Undang-undang', 'Legal', '法律', 'சட்டம்', '
   {d.sections.map((s, i) => (
     <section class="lsec">
       <h2>{i + 1}. {s.h}</h2>
-      {s.p?.map((para) => <p>{para}</p>)}
+      {s.p?.map((para) => <p>{iso(para)}</p>)}
       {s.list && (
-        <ul>{s.list.map((li) => <li>{li}</li>)}</ul>
+        <ul>{s.list.map((li) => <li>{iso(li)}</li>)}</ul>
       )}
     </section>
   ))}

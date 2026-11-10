@@ -2,12 +2,14 @@
 import type { Locale } from '@/lib/categories';
 import { localePath } from '@/lib/i18n';
 import { REPO } from '@/lib/site';
+import { isolateRanges } from '@/lib/bidi';
 import PageHero from './PageHero.astro';
 
 interface Props {
   locale: Locale;
 }
 const { locale } = Astro.props;
+const iso = (t: string) => (locale === 'ar' ? isolateRanges(t) : t);
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 // Grouped project FAQ. Each item: question + plain-text answer (used for the
@@ -397,11 +399,11 @@ const isExternal = (href: string) => /^https?:\/\//.test(href);
         {g.items.map((it) => (
           <details class="fitem">
             <summary>
-              <span class="fq">{it.q}</span>
+              <span class="fq">{iso(it.q)}</span>
               <span class="fchev" aria-hidden="true">＋</span>
             </summary>
             <div class="fa">
-              <p>{it.a}</p>
+              <p>{iso(it.a)}</p>
               {it.links && (
                 <p class="flinks">
                   {it.links.map((l) => (
