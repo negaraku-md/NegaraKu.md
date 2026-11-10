@@ -4,9 +4,9 @@ title: "Leen's: مطبخ سوري في TTDI حائز على MICHELIN Bib Gourman
 slug: "leens"
 hero: "/media/food/leens/hero.webp"
 heroAlt: "حمص مدخّن ممزوج بزيت الزيتون ومزيّن بحبّات الحمص"
-heroCredit: "Christopher Alvarenga / Unsplash"
+heroCredit: "Christopher Alvarenga"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/white-ceramic-plate-with-pasta-dish-5uYH4yTDp34"
+heroSource: "https://unsplash.com/@krizphoto"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"

@@ -4,9 +4,9 @@ title: "Aliyaa: ร้านอาหารศรีลังการะดั�
 slug: "aliyaa"
 hero: "/media/food/aliyaa/hero.webp"
 heroAlt: "แกงปูเข้มข้นเสิร์ฟพร้อมขนมปังและเครื่องเคียง"
-heroCredit: "Nathaniel Yeo / Unsplash"
+heroCredit: "Nathaniel Yeo"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/cooked-food-on-black-pan-Fk9HnIXcuc4"
+heroSource: "https://unsplash.com/@nathanielyeo"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"

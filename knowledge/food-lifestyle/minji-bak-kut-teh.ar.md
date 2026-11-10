@@ -5,9 +5,9 @@ seoTitle: "Minji Bak Kut Teh (Pudu)"
 slug: "minji-bak-kut-teh"
 hero: "/media/food/minji-bak-kut-teh/hero.webp"
 heroAlt: "باك كوت تيه — لحم خنزير في مرق أعشاب داكن مع نسخة جافة في وعاء فخاري وصلصات للغمس"
-heroCredit: "Yosuke Ota / Unsplash"
+heroCredit: "Yosuke Ota"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
+heroSource: "https://unsplash.com/@yosuke_ota"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 

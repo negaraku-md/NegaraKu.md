@@ -4,9 +4,9 @@ title: "Anak Baba: مطعم بيرانكان حائز على Bib Gourmand في B
 slug: "anak-baba"
 hero: "/media/food/anak-baba/hero.webp"
 heroAlt: "ناسي ليماك (nasi lemak) — أرز بحليب جوز الهند مع السامبال والأنشوفة المقلية والفول السوداني والبيض المسلوق والخيار"
-heroCredit: "Aldrin Rachman Pradana / Unsplash"
+heroCredit: "Aldrin Rachman Pradana"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/a-white-plate-topped-with-rice-and-meat-B_1GyWCsc1s"
+heroSource: "https://unsplash.com/@aldrinrachmanpradana"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"

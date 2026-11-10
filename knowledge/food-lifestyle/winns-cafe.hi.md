@@ -4,9 +4,9 @@ title: "Winn's Cafe: पेनांग पेरानाकन बिब ग�
 slug: "winns-cafe"
 hero: "/media/food/winns-cafe/hero.webp"
 heroAlt: "Otak-otak — एक भाप में पका मसालेदार फिश केक"
-heroCredit: "Advocator SY / Unsplash"
+heroCredit: "Advocator SY"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/a-black-plate-topped-with-a-sandwich-and-lettuce-QZoNBvQm13Q"
+heroSource: "https://unsplash.com/@advocator_sy"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"

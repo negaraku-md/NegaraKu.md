@@ -4,9 +4,9 @@ title: "Leen's: TTDI में MICHELIN Bib Gourmand वाली एक सी�
 slug: "leens"
 hero: "/media/food/leens/hero.webp"
 heroAlt: "ज़ैतून के तेल में घुमाया गया और ऊपर से काबुली चने डाला गया स्मोक्ड हम्मस"
-heroCredit: "Christopher Alvarenga / Unsplash"
+heroCredit: "Christopher Alvarenga"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/white-ceramic-plate-with-pasta-dish-5uYH4yTDp34"
+heroSource: "https://unsplash.com/@krizphoto"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"

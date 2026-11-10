@@ -5,9 +5,9 @@ seoTitle: "Sardaarji, பினாங்கு பஞ்சாபி உணவ�
 slug: "sardaarji"
 hero: "/media/food/sardaarji/hero.webp"
 heroAlt: "naan ரொட்டியுடன் கிரீமி butter chicken கறி"
-heroCredit: "Mohammad Fahim / Unsplash"
+heroCredit: "Mohammad Fahim"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/chicken-tikka-masala-with-naan-bread-on-a-wooden-board-ChM5be5nhis"
+heroSource: "https://unsplash.com/@dischef"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Sardaarji என்பது பினாங்கு ஜார்ஜ் டவுனில் Lebuh China-வில் உள்ள ஒரு பஞ்சாபி மற்றும் வட இந்திய உணவகம், இது MICHELIN Guide Bib Gourmand அங்கீகாரம் பெற்றுள்ளது. 2018-இல் ஓய்வுக்காலத் திட்டமாகத் தொடங்கிய இது, fish amritsari மற்றும் palak paneer போன்ற உணவுகளுக்காக அறியப்படுகிறது, வண்ணமயமான, இசை நிறைந்த அறையில் பரிமாறப்படுகிறது."

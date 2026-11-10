@@ -4,9 +4,9 @@ title: "Thara: ஜார்ஜ் டவுன், பினாங்கில�
 slug: "thara"
 hero: "/media/food/thara/hero.webp"
 heroAlt: "தாய் கடல் உணவு டோம் யம் — இறால் மற்றும் மூலிகைகளுடன் கூடிய காரமான-புளிப்பு சூப்"
-heroCredit: "Jamie Trinh / Unsplash"
+heroCredit: "Jamie Trinh"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/spicy-shrimp-soup-with-herbs-and-vegetables-_lgT5W2QBG4"
+heroSource: "https://unsplash.com/@jtrinh_artwork"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"

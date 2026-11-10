@@ -4,9 +4,9 @@ title: "Nam Heong Chicken Rice: KL में 1938 की एक हैनान�
 slug: "nam-heong-chicken-rice"
 hero: "/media/food/nam-heong-chicken-rice/hero.webp"
 heroAlt: "भुने हुए मांस और खीरे के साथ हैनानीज़ चिकन राइस"
-heroCredit: "Chan Yong Sheng / Unsplash"
+heroCredit: "Chan Yong Sheng"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/roasted-duck-and-pork-rice-dish-g4SvgjuZT58"
+heroSource: "https://unsplash.com/@chanys1999"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"

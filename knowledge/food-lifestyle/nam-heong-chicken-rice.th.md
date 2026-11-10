@@ -4,9 +4,9 @@ title: "Nam Heong Chicken Rice: สถาบันอาหารไหหลำ
 slug: "nam-heong-chicken-rice"
 hero: "/media/food/nam-heong-chicken-rice/hero.webp"
 heroAlt: "ข้าวมันไก่ไหหลำกับเนื้อย่างและแตงกวา"
-heroCredit: "Chan Yong Sheng / Unsplash"
+heroCredit: "Chan Yong Sheng"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/roasted-duck-and-pork-rice-dish-g4SvgjuZT58"
+heroSource: "https://unsplash.com/@chanys1999"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"

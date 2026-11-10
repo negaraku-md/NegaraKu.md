@@ -4,9 +4,9 @@ title: "Anak Baba: Brickfields में एक Bib Gourmand पेराना�
 slug: "anak-baba"
 hero: "/media/food/anak-baba/hero.webp"
 heroAlt: "नासी लेमाक (nasi lemak) — नारियल के दूध वाले चावल के साथ सांबल, तली एंकोवी, मूंगफली, उबला अंडा और खीरा"
-heroCredit: "Aldrin Rachman Pradana / Unsplash"
+heroCredit: "Aldrin Rachman Pradana"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/a-white-plate-topped-with-rice-and-meat-B_1GyWCsc1s"
+heroSource: "https://unsplash.com/@aldrinrachmanpradana"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"

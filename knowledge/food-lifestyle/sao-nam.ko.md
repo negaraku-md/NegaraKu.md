@@ -5,9 +5,9 @@ seoTitle: "Sao Nam (Kuala Lumpur)"
 slug: "sao-nam"
 hero: "/media/food/sao-nam/hero.webp"
 heroAlt: "베트남 pho - 맑은 육수에 담긴 쇠고기와 쌀국수, 허브를 곁들임"
-heroCredit: "Kirill Tonkikh / Unsplash"
+heroCredit: "Kirill Tonkikh"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/a-bowl-of-noodle-soup-with-chopsticks-on-the-side-NFQi_2HUNRI"
+heroSource: "https://unsplash.com/@photophotostock"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 

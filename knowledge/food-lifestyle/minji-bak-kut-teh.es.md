@@ -5,9 +5,9 @@ seoTitle: "Minji Bak Kut Teh (Pudu)"
 slug: "minji-bak-kut-teh"
 hero: "/media/food/minji-bak-kut-teh/hero.webp"
 heroAlt: "Bak kut teh — cerdo en un caldo oscuro de hierbas con una versión seca en cazuela de barro y salsas para mojar"
-heroCredit: "Yosuke Ota / Unsplash"
+heroCredit: "Yosuke Ota"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
+heroSource: "https://unsplash.com/@yosuke_ota"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 

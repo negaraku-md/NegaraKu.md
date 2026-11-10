@@ -5,9 +5,9 @@ seoTitle: "Minji Bak Kut Teh (Pudu)"
 slug: "minji-bak-kut-teh"
 hero: "/media/food/minji-bak-kut-teh/hero.webp"
 heroAlt: "バクテー（肉骨茶）——黒っぽい漢方スープの豚肉、土鍋のドライ版とつけだれ添え"
-heroCredit: "Yosuke Ota / Unsplash"
+heroCredit: "Yosuke Ota"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
+heroSource: "https://unsplash.com/@yosuke_ota"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 

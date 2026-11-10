@@ -5,9 +5,9 @@ seoTitle: "Sardaarji, पेनांग पंजाबी रेस्तर�
 slug: "sardaarji"
 hero: "/media/food/sardaarji/hero.webp"
 heroAlt: "naan के साथ क्रीमी butter chicken करी"
-heroCredit: "Mohammad Fahim / Unsplash"
+heroCredit: "Mohammad Fahim"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/chicken-tikka-masala-with-naan-bread-on-a-wooden-board-ChM5be5nhis"
+heroSource: "https://unsplash.com/@dischef"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Sardaarji पेनांग के जॉर्ज टाउन में Lebuh China पर स्थित एक पंजाबी और उत्तर भारतीय रेस्तराँ है, जिसे MICHELIN Guide का Bib Gourmand प्राप्त है। 2018 में सेवानिवृत्ति की एक परियोजना के रूप में शुरू हुआ, यह fish amritsari और palak paneer जैसे व्यंजनों के लिए जाना जाता है, जो रंग-बिरंगे, संगीत से भरे कमरे में परोसे जाते हैं।"

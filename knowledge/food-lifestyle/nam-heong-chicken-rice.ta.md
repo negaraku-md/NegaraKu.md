@@ -4,9 +4,9 @@ title: "Nam Heong Chicken Rice: KL-இல் 1938 முதல் ஒரு ஹ�
 slug: "nam-heong-chicken-rice"
 hero: "/media/food/nam-heong-chicken-rice/hero.webp"
 heroAlt: "வறுத்த இறைச்சிகள் மற்றும் வெள்ளரியுடன் ஹைனானீஸ் சிக்கன் ரைஸ்"
-heroCredit: "Chan Yong Sheng / Unsplash"
+heroCredit: "Chan Yong Sheng"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/roasted-duck-and-pork-rice-dish-g4SvgjuZT58"
+heroSource: "https://unsplash.com/@chanys1999"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"

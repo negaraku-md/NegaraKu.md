@@ -4,9 +4,9 @@ title: "Leen's: MICHELIN Bib Gourmand பெற்ற, TTDI-யில் ஒர�
 slug: "leens"
 hero: "/media/food/leens/hero.webp"
 heroAlt: "ஆலிவ் எண்ணெயுடன் கலக்கப்பட்டு கொண்டைக்கடலையால் மேலே தூவப்பட்ட புகையேற்றிய ஹம்மஸ்"
-heroCredit: "Christopher Alvarenga / Unsplash"
+heroCredit: "Christopher Alvarenga"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/white-ceramic-plate-with-pasta-dish-5uYH4yTDp34"
+heroSource: "https://unsplash.com/@krizphoto"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"

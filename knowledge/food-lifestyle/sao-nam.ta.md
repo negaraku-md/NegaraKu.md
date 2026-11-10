@@ -5,9 +5,9 @@ seoTitle: "Sao Nam (Kuala Lumpur)"
 slug: "sao-nam"
 hero: "/media/food/sao-nam/hero.webp"
 heroAlt: "வியட்நாமிய pho - தெளிவான குழம்பில் மாட்டிறைச்சி மற்றும் அரிசி நூடுல்ஸ், மூலிகைகளுடன்"
-heroCredit: "Kirill Tonkikh / Unsplash"
+heroCredit: "Kirill Tonkikh"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/a-bowl-of-noodle-soup-with-chopsticks-on-the-side-NFQi_2HUNRI"
+heroSource: "https://unsplash.com/@photophotostock"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 

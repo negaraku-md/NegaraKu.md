@@ -5,9 +5,9 @@ seoTitle: "Minji Bak Kut Teh (Pudu)"
 slug: "minji-bak-kut-teh"
 hero: "/media/food/minji-bak-kut-teh/hero.webp"
 heroAlt: "बाक कुट तेह — गहरे जड़ी-बूटी वाले शोरबे में सूअर का मांस, सूखे क्लेपॉट संस्करण और डुबोने वाली सॉस के साथ"
-heroCredit: "Yosuke Ota / Unsplash"
+heroCredit: "Yosuke Ota"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
+heroSource: "https://unsplash.com/@yosuke_ota"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 

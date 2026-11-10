@@ -5,9 +5,9 @@ seoTitle: "Minji Bak Kut Teh (Pudu)"
 slug: "minji-bak-kut-teh"
 hero: "/media/food/minji-bak-kut-teh/hero.webp"
 heroAlt: "Bak kut teh — அடர் மூலிகை சாற்றில் பன்றி இறைச்சி, உலர் களிமண் பானை பதிப்பு மற்றும் தோய்க்கும் சாஸுடன்"
-heroCredit: "Yosuke Ota / Unsplash"
+heroCredit: "Yosuke Ota"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
+heroSource: "https://unsplash.com/@yosuke_ota"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 

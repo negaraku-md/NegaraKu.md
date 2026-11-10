@@ -4,9 +4,9 @@ title: "Aliyaa: கோலாலம்பூரில் ஒரு Bib Gourmand �
 slug: "aliyaa"
 hero: "/media/food/aliyaa/hero.webp"
 heroAlt: "ரொட்டி மற்றும் பக்க உணவுகளுடன் பரிமாறப்படும் செழுமையான நண்டு கறி"
-heroCredit: "Nathaniel Yeo / Unsplash"
+heroCredit: "Nathaniel Yeo"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/cooked-food-on-black-pan-Fk9HnIXcuc4"
+heroSource: "https://unsplash.com/@nathanielyeo"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"

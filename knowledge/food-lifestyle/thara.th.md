@@ -4,9 +4,9 @@ title: "Thara: อาหารทะเลไทยในจอร์จทา�
 slug: "thara"
 hero: "/media/food/thara/hero.webp"
 heroAlt: "ต้มยำทะเลแบบไทย — ซุปเปรี้ยวเผ็ดใส่กุ้งและสมุนไพร"
-heroCredit: "Jamie Trinh / Unsplash"
+heroCredit: "Jamie Trinh"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/spicy-shrimp-soup-with-herbs-and-vegetables-_lgT5W2QBG4"
+heroSource: "https://unsplash.com/@jtrinh_artwork"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"

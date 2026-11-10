@@ -4,9 +4,9 @@ title: "Leen's: ครัวซีเรียใน TTDI ที่ได้ MIC
 slug: "leens"
 hero: "/media/food/leens/hero.webp"
 heroAlt: "ฮุมมุสรมควันคนเคล้ากับน้ำมันมะกอกและโรยหน้าด้วยถั่วชิกพี"
-heroCredit: "Christopher Alvarenga / Unsplash"
+heroCredit: "Christopher Alvarenga"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/white-ceramic-plate-with-pasta-dish-5uYH4yTDp34"
+heroSource: "https://unsplash.com/@krizphoto"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"

@@ -4,9 +4,9 @@ title: "Anak Baba: ร้านอาหารเปอรานากัน Bib
 slug: "anak-baba"
 hero: "/media/food/anak-baba/hero.webp"
 heroAlt: "นาซิเลอมัก (nasi lemak) — ข้าวหุงกะทิกับซัมบัล ปลาข้าวสารทอด ถั่วลิสง ไข่ต้ม และแตงกวา"
-heroCredit: "Aldrin Rachman Pradana / Unsplash"
+heroCredit: "Aldrin Rachman Pradana"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/a-white-plate-topped-with-rice-and-meat-B_1GyWCsc1s"
+heroSource: "https://unsplash.com/@aldrinrachmanpradana"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"

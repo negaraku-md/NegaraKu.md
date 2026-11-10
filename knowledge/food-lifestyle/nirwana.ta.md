@@ -5,9 +5,9 @@ seoTitle: "Nirwana: Bangsar வாழை இலை சாப்பாடு (MIC
 slug: "nirwana"
 hero: "/media/food/nirwana/hero.webp"
 heroAlt: "சோறு, குழம்புகள் மற்றும் முட்டையுடன் கூடிய வாழை இலை சாப்பாடு"
-heroCredit: "Kalindu Waranga / Unsplash"
+heroCredit: "Kalindu Waranga"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/yellow-rice-with-meat-and-egg-served-on-leaf-5pgGL7EC6BY"
+heroSource: "https://unsplash.com/@kalindu0waranga"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"

@@ -4,9 +4,9 @@ title: "Winn's Cafe: บิบ กูร์มองด์ เปอรานา
 slug: "winns-cafe"
 hero: "/media/food/winns-cafe/hero.webp"
 heroAlt: "otak-otak — เค้กปลาปรุงเครื่องเทศนึ่ง"
-heroCredit: "Advocator SY / Unsplash"
+heroCredit: "Advocator SY"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/a-black-plate-topped-with-a-sandwich-and-lettuce-QZoNBvQm13Q"
+heroSource: "https://unsplash.com/@advocator_sy"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"

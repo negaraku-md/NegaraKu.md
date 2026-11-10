@@ -4,9 +4,9 @@ title: "Aliyaa：クアラルンプールの Bib Gourmand スリランカ料理�
 slug: "aliyaa"
 hero: "/media/food/aliyaa/hero.webp"
 heroAlt: "パンと付け合わせを添えた濃厚なクラブカレー"
-heroCredit: "Nathaniel Yeo / Unsplash"
+heroCredit: "Nathaniel Yeo"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/cooked-food-on-black-pan-Fk9HnIXcuc4"
+heroSource: "https://unsplash.com/@nathanielyeo"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"

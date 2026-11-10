@@ -4,9 +4,9 @@ title: "Leen's: Một gian bếp Syria ở TTDI với Bib Gourmand của Micheli
 slug: "leens"
 hero: "/media/food/leens/hero.webp"
 heroAlt: "Hummus xông khói trộn dầu ô liu và rắc đậu gà lên trên"
-heroCredit: "Christopher Alvarenga / Unsplash"
+heroCredit: "Christopher Alvarenga"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/white-ceramic-plate-with-pasta-dish-5uYH4yTDp34"
+heroSource: "https://unsplash.com/@krizphoto"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"

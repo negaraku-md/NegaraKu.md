@@ -4,9 +4,9 @@ title: "Aliyaa: कुआलालंपुर का एक Bib Gourmand श्
 slug: "aliyaa"
 hero: "/media/food/aliyaa/hero.webp"
 heroAlt: "ब्रेड और साइड डिश के साथ परोसी गई गाढ़ी केकड़ा करी"
-heroCredit: "Nathaniel Yeo / Unsplash"
+heroCredit: "Nathaniel Yeo"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/cooked-food-on-black-pan-Fk9HnIXcuc4"
+heroSource: "https://unsplash.com/@nathanielyeo"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"

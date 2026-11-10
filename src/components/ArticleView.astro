@@ -449,7 +449,10 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
                 {d.heroSubject && <span>{heroLabel ? ' · ' : ''}{d.heroSubject}{d.heroBranch ? ` · ${d.heroBranch}` : ''}</span>}
                 {(d.heroCredit || d.heroSource) && (
                   <span>{(heroLabel || d.heroSubject) ? ' · ' : ''}
-                    {d.heroSource ? (
+                    {d.heroLicense === 'Unsplash License' && d.heroSource ? (
+                      /* Unsplash production-API attribution: photographer profile + Unsplash, both UTM-tagged. */
+                      <>Photo by <a href={`${d.heroSource}?utm_source=NegaraKu.md&utm_medium=referral`} target="_blank" rel="noopener noreferrer">{d.heroCredit}</a> on <a href="https://unsplash.com/?utm_source=NegaraKu.md&utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></>
+                    ) : d.heroSource ? (
                       <a href={d.heroSource} target="_blank" rel="noopener noreferrer">{d.heroCredit ?? d.heroSource}</a>
                     ) : (d.heroCredit)}
                   </span>

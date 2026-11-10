@@ -4,9 +4,9 @@ title: "Thara: जॉर्ज टाउन, पेनांग में था
 slug: "thara"
 hero: "/media/food/thara/hero.webp"
 heroAlt: "थाई सीफूड टॉम यम — झींगे और जड़ी-बूटियों वाला तीखा-खट्टा सूप"
-heroCredit: "Jamie Trinh / Unsplash"
+heroCredit: "Jamie Trinh"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/spicy-shrimp-soup-with-herbs-and-vegetables-_lgT5W2QBG4"
+heroSource: "https://unsplash.com/@jtrinh_artwork"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"

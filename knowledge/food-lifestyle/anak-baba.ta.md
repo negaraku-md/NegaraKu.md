@@ -4,9 +4,9 @@ title: "Anak Baba: Brickfields-இல் ஒரு Bib Gourmand பேரநா�
 slug: "anak-baba"
 hero: "/media/food/anak-baba/hero.webp"
 heroAlt: "நாசி லெமாக் (nasi lemak) — தேங்காய் பால் சோறு, சம்பல் (sambal), பொரித்த நெத்திலி மீன், வேர்க்கடலை, வேகவைத்த முட்டை மற்றும் வெள்ளரியுடன்"
-heroCredit: "Aldrin Rachman Pradana / Unsplash"
+heroCredit: "Aldrin Rachman Pradana"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/a-white-plate-topped-with-rice-and-meat-B_1GyWCsc1s"
+heroSource: "https://unsplash.com/@aldrinrachmanpradana"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"

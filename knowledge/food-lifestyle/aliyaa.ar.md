@@ -4,9 +4,9 @@ title: "Aliyaa: مطعم سريلانكي حائز على Bib Gourmand في كو
 slug: "aliyaa"
 hero: "/media/food/aliyaa/hero.webp"
 heroAlt: "كاري سلطعون غني يُقدَّم مع الخبز والأطباق الجانبية"
-heroCredit: "Nathaniel Yeo / Unsplash"
+heroCredit: "Nathaniel Yeo"
 heroLicense: "Unsplash License"
-heroSource: "https://unsplash.com/photos/cooked-food-on-black-pan-Fk9HnIXcuc4"
+heroSource: "https://unsplash.com/@nathanielyeo"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
