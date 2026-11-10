@@ -4,12 +4,15 @@ title: "Masakan Serantau dan Etnik Malaysia: Peranakan, Kelantan, Sarawak dan Se
 seoTitle: "Masakan Serantau & Etnik Malaysia: Peranakan, Pantai Timur, Borneo, Mamak"
 slug: "regional-and-ethnic-cuisines"
 hero: "/media/food/regional-and-ethnic-cuisines/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
 heroAlt: "Semangkuk laksa Nyonya, sup mi Peranakan"
 heroCredit: "Bahnfrend / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Dinner,_Kuala_Lumpur_International_Airport,_2025_(01).jpg"
 category: "food-lifestyle"
 subcategory: ["masakan"]
+foodType: "cuisine"
 summary: "Panduan menyeluruh tentang tradisi masakan serantau dan etnik Malaysia — Peranakan/Nyonya, pantai timur, Sarawak dan Sabah, Mamak serta Kristang Eurasia — dilihat sebagai keluarga dapur yang saling meminjam, bukan senarai untuk diberi ranking."
 
 tier: "2"

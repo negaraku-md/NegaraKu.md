@@ -5,6 +5,7 @@ seoTitle: "Ivy's Nyonya Cuisine, George Town Penang"
 slug: "ivys-nyonya-cuisine"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
+foodType: "place"
 contentType: "place"
 lang: "en"
 status: "published"
@@ -54,7 +55,7 @@ place:
   address: "100-104 Jalan Kedah, George Town, 10050 Penang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ivy%27s%20Nyonya%20Cuisine%2C%20George%20Town%2C%20Penang"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ivy%27s%20Nyonya%20Cuisine%2C%20George%20Town%2C%20Penang"
-  priceRange: "$$ (MICHELIN Bib Gourmand); sharing set menus around RM175 for 4 people"
+  priceRange: "$ (MICHELIN Bib Gourmand); sharing set menus around RM175 for 4 people"
   hours: "Mon closed; Tue 18:00-21:00; Wed-Sun 12:00-15:00, 18:00-21:00"
   service: ["dine-in"]
   mustOrder: "Kapitan chicken curry and Joo Hoo Char (stir-fried shredded cuttlefish with vegetables in chilli paste); the Nyonya assam fish and inche kabin fried chicken are also well regarded."

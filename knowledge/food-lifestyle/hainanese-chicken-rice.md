@@ -4,12 +4,15 @@ title: "Hainanese Chicken Rice in Malaysia: From Wenchang Roots to Melaka's Rice
 seoTitle: "Hainanese Chicken Rice"
 slug: "hainanese-chicken-rice"
 hero: "/media/food/hainanese-chicken-rice/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
 heroAlt: "Hainanese chicken rice with poached chicken, fragrant rice and chilli-ginger sauce"
 heroCredit: "Ceeseven / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AHainanese_Chicken_Rice_with_Radish_Soup.jpg"
 category: "food-lifestyle"
 subcategory: ["dishes"]
+foodType: "dish"
 summary: "A guide to Hainanese chicken rice in Malaysia — poached chicken with fat- and stock-cooked rice, cucumber and chilli-ginger-soy condiments; its Hainanese immigrant origins adapted from Wenchang chicken; its place in kopitiam and hawker culture; the Melaka rice-ball form; and the heritage it shares with Singapore."
 
 tier: "2"

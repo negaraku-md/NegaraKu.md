@@ -5,6 +5,7 @@ seoTitle: "Dewakan: Two-MICHELIN-Star KL Restaurant"
 slug: "dewakan"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
+foodType: "place"
 summary: "Dewakan is a fine-dining restaurant on the 48th floor of Naza Tower in Kuala Lumpur, led by chef Darren Teoh. It holds Two MICHELIN Stars in the MICHELIN Guide Kuala Lumpur & Penang — the only two-star restaurant in Malaysia — and a MICHELIN Green Star for sustainability. This profile covers its recognition, its indigenous-ingredient cuisine, its setting and how to visit."
 
 tier: "2"
@@ -18,7 +19,7 @@ keyTakeaways:
   - "It also carries a MICHELIN Green Star, the guide's sustainability distinction, reported as the first awarded to a Malaysian restaurant."
   - "The MICHELIN Guide classifies its cuisine as Malaysian and Contemporary, built around local, native and endemic ingredients in a tasting-menu format."
   - "The restaurant is led by chef Darren Teoh and sits on the 48th floor of Naza Tower, Platinum Park, in the KLCC area."
-  - "The MICHELIN Guide lists it in the top ($$) price band; it is a fine-dining destination for which the restaurant manages bookings directly."
+  - "The MICHELIN Guide lists it in the top ($) price band; it is a fine-dining destination for which the restaurant manages bookings directly."
 appliesTo: "Travellers, food enthusiasts and diners researching Malaysia's MICHELIN-recognised fine dining in Kuala Lumpur."
 
 faq:
@@ -42,7 +43,7 @@ place:
   address: "48F, Skyviews, Naza Tower, Platinum Park, 10 Persiaran KLCC, 50088 Kuala Lumpur"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Dewakan%2C%20Kuala%20Lumpur"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Dewakan%2C%20Kuala%20Lumpur"
-  priceRange: "RM 870 (tasting menu) · MICHELIN $$$$"
+  priceRange: "RM 870 (tasting menu) · MICHELIN $$"
   hours: "Mon–Sat 18:00–23:30 · closed Sun"
   halal: "non-halal"
   service: ["dine-in"]

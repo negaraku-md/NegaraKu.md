@@ -4,12 +4,15 @@ title: "Duck Blood Curry Mee: A George Town Bib Gourmand Curry Noodle Shop"
 seoTitle: "Duck Blood Curry Mee"
 slug: "duck-blood-curry-mee"
 hero: "/media/food/duck-blood-curry-mee/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
 heroAlt: "A bowl of Penang curry mee with noodles, cockles, tofu puffs and chilli"
 heroCredit: "JB Macatulad / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
+foodType: "place"
 
 summary: "Duck Blood Curry Mee is a street-food shop on Jalan Burma in George Town, Penang, recognised by the MICHELIN Guide as a Bib Gourmand pick. Tucked inside a Malaysian-style café, it serves curry mee in a savoury-sweet white coconut-milk base, with roast pork singled out as a standout topping."
 

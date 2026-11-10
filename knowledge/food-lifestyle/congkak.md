@@ -4,12 +4,15 @@ title: "Congkak: A Bib Gourmand Taste of Malaysian Home Cooking in Bukit Bintang
 seoTitle: "Congkak (Bukit Bintang)"
 slug: "congkak"
 hero: "/media/food/congkak/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
 heroAlt: "Nasi ambeng — a Malay communal rice platter with fried chicken, serunding, egg and vegetables on banana leaf"
 heroCredit: "Li Tsin Soon from KL, Malaysia / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_ambeng.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
+foodType: "place"
 
 tier: "2"
 mode: "narrative"
@@ -52,7 +55,7 @@ place:
   address: "24 Jalan Beremi, off Jalan Sultan Ismail, Bukit Bintang, 50200 Kuala Lumpur"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Congkak%20Restaurant%2C%20Bukit%20Bintang%2C%20Kuala%20Lumpur"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Congkak%20Restaurant%2C%20Bukit%20Bintang%2C%20Kuala%20Lumpur"
-  priceRange: "$$"
+  priceRange: "$"
   hours: "Mon-Thu 12:00-22:00; Fri-Sat 12:00-23:00; Sun 12:00-22:00 (MICHELIN); some listings show 11:00-22:00 daily - confirm with restaurant"
   halal: "pork-free"
   service: ["dine-in"]

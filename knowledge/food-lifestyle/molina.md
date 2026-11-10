@@ -5,6 +5,7 @@ seoTitle: "Molina: One-MICHELIN-Star KL Restaurant"
 slug: "molina"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
+foodType: "place"
 summary: "Molina is an innovative fine-dining restaurant on the 51st floor of THE FACE Style in Kuala Lumpur. It holds One MICHELIN Star in the MICHELIN Guide Kuala Lumpur & Penang, where its listing describes inventive dishes blending French, Nordic and Asian influences, served with panoramic skyline views. This profile covers its recognition, its cooking, its setting and how to visit."
 
 tier: "2"
@@ -18,7 +19,7 @@ keyTakeaways:
   - "The MICHELIN Guide classifies its cuisine as Innovative, blending French, Nordic and Asian influences."
   - "The restaurant sits on the 51st floor of THE FACE Style, with panoramic views of the Kuala Lumpur skyline."
   - "Secondary coverage links it to Dutch chef Sidney Schutte, with Guillaume Depoortere named as head chef; it earned its star soon after opening."
-  - "The MICHELIN Guide lists it in the top ($$) price band and flags it as good for date night."
+  - "The MICHELIN Guide lists it in the top ($) price band and flags it as good for date night."
 appliesTo: "Travellers, food enthusiasts and diners researching Malaysia's MICHELIN-recognised fine dining in Kuala Lumpur."
 
 faq:

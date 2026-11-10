@@ -4,12 +4,15 @@ title: "Siam Road Char Koay Teow: George Town's Charcoal-Fired Bib Gourmand Stal
 seoTitle: "Siam Road Char Koay Teow"
 slug: "siam-road-char-koay-teow"
 hero: "/media/food/siam-road-char-koay-teow/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
 heroAlt: "Char koay teow — charcoal-fried flat noodles with prawns on a banana leaf"
 heroCredit: "Ardzun / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
+foodType: "place"
 
 summary: "Siam Road Char Koay Teow is a street-food stall on Jalan Siam in George Town, Penang, listed by the MICHELIN Guide as a Bib Gourmand pick. Known for frying its flat rice noodles over charcoal for a pronounced wok hei, it draws long queues for a single, focused dish."
 

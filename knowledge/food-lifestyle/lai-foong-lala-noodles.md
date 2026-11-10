@@ -4,6 +4,7 @@ title: "Lai Foong Lala Noodles: A Kuala Lumpur Bib Gourmand Noodle Stall"
 slug: "lai-foong-lala-noodles"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
+foodType: "place"
 lang: "en"
 masterLanguage: "en"
 status: "published"

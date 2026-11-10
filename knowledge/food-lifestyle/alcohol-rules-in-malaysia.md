@@ -4,12 +4,15 @@ title: "Alcohol Rules in Malaysia: Licensing, Duty-Free Zones and State Variatio
 seoTitle: "Alcohol Rules in Malaysia: Licensing, Duty-Free and State Laws"
 slug: "alcohol-rules-in-malaysia"
 hero: "/media/food/alcohol-rules-in-malaysia/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
 heroAlt: "Beer on sale in a convenience-store chiller in Malaysia (representative image)"
 heroCredit: "Jeremy Eades / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Beer_in_7-Eleven,_Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["alcohol"]
+foodType: "practical"
 summary: "How alcohol is licensed, taxed and sold in Malaysia, and why the rules a drinker or business encounters can differ sharply from one state to the next."
 
 tier: "S"

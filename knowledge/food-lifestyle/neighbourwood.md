@@ -5,6 +5,7 @@ seoTitle: "Neighbourwood, Seberang Perai — Bib Gourmand"
 slug: "neighbourwood"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
+foodType: "place"
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
@@ -22,7 +23,7 @@ place:
   address: "3427, Jalan Kulim, Taman Bukit Mas, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Neighbourwood+restaurant+Bukit+Mertajam"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Neighbourwood+restaurant+Bukit+Mertajam"
-  priceRange: "$$"
+  priceRange: "$"
   hours: "Thu-Mon 11:30-15:00 and 17:30-22:30; closed Tue and Wed"
   halal: "non-halal"
   service: ["dine-in"]

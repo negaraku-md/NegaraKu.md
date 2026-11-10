@@ -5,6 +5,7 @@ seoTitle: "DC. by Darren Chin: One-MICHELIN-Star KL"
 slug: "dc-by-darren-chin"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
+foodType: "place"
 summary: "DC. by Darren Chin is a French contemporary fine-dining restaurant in Taman Tun Dr Ismail, Kuala Lumpur, from chef-owner Darren Chin. It holds One MICHELIN Star in the MICHELIN Guide Kuala Lumpur & Penang, where its listing describes a unique take on French traditions with global and Malaysian accents. This profile covers its recognition, its cooking, its setting and how to visit."
 
 tier: "2"
@@ -18,7 +19,7 @@ keyTakeaways:
   - "The MICHELIN Guide classifies its cuisine as French Contemporary, with global influences and Malaysian accents."
   - "It was among the first restaurants to receive a MICHELIN star in Malaysia's inaugural guide and has retained it since, per secondary reporting."
   - "The restaurant is in Taman Tun Dr Ismail (TTDI), Kuala Lumpur, across three storeys with bars, dining rooms and a Louis XIII-themed private room."
-  - "The MICHELIN Guide lists it in the top ($$) price band and notes a French cheese trolley and wine list."
+  - "The MICHELIN Guide lists it in the top ($) price band and notes a French cheese trolley and wine list."
 appliesTo: "Travellers, food enthusiasts and diners researching Malaysia's MICHELIN-recognised fine dining in Kuala Lumpur."
 
 faq:
@@ -42,7 +43,7 @@ place:
   address: "44 Persiaran Zaaba, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=DC%20by%20Darren%20Chin%2C%20Kuala%20Lumpur"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=DC%20by%20Darren%20Chin%2C%20Kuala%20Lumpur"
-  priceRange: "$$$$ (MICHELIN); degustation menus RM548-RM1,198++ (8-course Exploration Journey RM1,198++), lunch from RM428++, Cellar omakase RM1,400++"
+  priceRange: "$$ (MICHELIN); degustation menus RM548-RM1,198++ (8-course Exploration Journey RM1,198++), lunch from RM428++, Cellar omakase RM1,400++"
   hours: "Wed-Sun dinner 18:00-23:00 (last order 21:30); Fri-Sat lunch 12:00-15:00 (last order 14:30); closed Mon-Tue"
   halal: "non-halal"
   service: ["dine-in"]

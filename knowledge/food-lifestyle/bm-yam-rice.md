@@ -5,6 +5,7 @@ seoTitle: "BM Yam Rice"
 slug: "bm-yam-rice"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
+foodType: "place"
 
 summary: "BM Yam Rice is a small Teochew shop on Jalan Murthy in Bukit Mertajam, Seberang Perai, Penang, recognised in the MICHELIN Guide. Open since 2006, it serves yam rice with a briny-sweet pork soup from a family recipe, and is one of the few mainland-Penang eateries in the Guide."
 

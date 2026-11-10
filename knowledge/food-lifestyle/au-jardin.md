@@ -5,6 +5,7 @@ seoTitle: "Au Jardin, George Town, Penang"
 slug: "au-jardin"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
+foodType: "place"
 summary: "Au Jardin is a one-MICHELIN-star European contemporary restaurant set in the Hin Bus Depot art space in George Town, Penang. Led by chef-proprietor Kim Hock Su, it serves a monthly-changing tasting menu of creative European fare with local touches, including a signature hay-aged Penang duck."
 
 tier: "2"
@@ -47,7 +48,7 @@ place:
   address: "The Warehouse @ Hin Bus Depot, 125 Jalan Timah, 10150 George Town, Penang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Au%20Jardin%2C%20George%20Town%2C%20Penang"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Au%20Jardin%2C%20George%20Town%2C%20Penang"
-  priceRange: "$$$$ (European fine-dining tasting menu)"
+  priceRange: "$$ (European fine-dining tasting menu)"
   hours: "Thu-Sun 11:30-14:00 & 17:15-22:00; closed Mon-Wed"
   halal: "non-halal"
   service: ["dine-in"]

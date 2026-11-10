@@ -4,12 +4,15 @@ title: "Auntie Gaik Lean's Old School Eatery: One-MICHELIN-Star Peranakan Dining
 seoTitle: "Auntie Gaik Lean's, George Town"
 slug: "auntie-gaik-leans-old-school-eatery"
 hero: "/media/food/auntie-gaik-leans-old-school-eatery/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
 heroAlt: "Peranakan assam fish-head curry topped with coriander, chilli and fried shallots"
 heroCredit: "Chensiyuan / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Fish_head_curry_peranakan_z.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
+foodType: "place"
 summary: "Auntie Gaik Lean's Old School Eatery is a one-MICHELIN-star Peranakan (Nyonya) restaurant on Lebuh Bishop in George Town, Penang. Run by self-taught chef Beh Gaik Lean, it serves heritage Nyonya dishes from closely guarded recipes and was first starred in the inaugural Malaysian MICHELIN selection in 2022."
 
 tier: "2"
@@ -52,7 +55,7 @@ place:
   address: "1 Lebuh Bishop (Bishop Street), George Town, 10200 Penang"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Auntie%20Gaik%20Lean%27s%20Old%20School%20Eatery%2C%20George%20Town%2C%20Penang"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Auntie%20Gaik%20Lean%27s%20Old%20School%20Eatery%2C%20George%20Town%2C%20Penang"
-  priceRange: "MICHELIN $$"
+  priceRange: "MICHELIN $"
   hours: "Wed–Sun 12:00–14:30 & 18:00–21:30 · closed Mon & Tue"
   service: ["dine-in"]
   mustOrder: "Nasi ulam, pie tee, assam fish curry (gulai tumis), otak-otak, and bee koh moy"

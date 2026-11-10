@@ -5,6 +5,7 @@ seoTitle: "Hai Kah Lang (Taman Cheras)"
 slug: "hai-kah-lang"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
+foodType: "place"
 
 tier: "2"
 mode: "narrative"
@@ -48,7 +49,7 @@ place:
   address: "44 Jalan Kaskas 2, Taman Cheras, 56100 Kuala Lumpur"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hai%20Kah%20Lang%2C%20Taman%20Cheras%2C%20Kuala%20Lumpur"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hai%20Kah%20Lang%2C%20Taman%20Cheras%2C%20Kuala%20Lumpur"
-  priceRange: "$$"
+  priceRange: "$"
   hours: "Mon-Sun 08:00-17:00"
   halal: "non-halal"
   service: ["dine-in"]

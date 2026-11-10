@@ -5,6 +5,7 @@ seoTitle: "Beta: One-MICHELIN-Star KL Restaurant"
 slug: "beta"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
+foodType: "place"
 summary: "Beta is a modern Malaysian fine-dining restaurant on Jalan Perak, Kuala Lumpur. It holds One MICHELIN Star in the MICHELIN Guide Kuala Lumpur & Penang, where its listing describes a 'Tour of Malaysia' menu that reimagines the country's dishes with modern techniques and elaborate plating. This profile covers its recognition, its cooking, its setting and how to visit."
 
 tier: "2"
@@ -18,7 +19,7 @@ keyTakeaways:
   - "The MICHELIN Guide classifies its cuisine as Malaysian and Contemporary, presented as a 'Tour of Malaysia' menu."
   - "MICHELIN describes the chef reworking local favourites with modern techniques and meticulous plating in a 'theatrical' dining room."
   - "A signature add-on noted by MICHELIN is an abalone Lawas rice — Sarawakian heirloom rice topped with abalone."
-  - "The restaurant is on Jalan Perak, Kuala Lumpur, listed in the $$ price band; the guide flags it as good for date night."
+  - "The restaurant is on Jalan Perak, Kuala Lumpur, listed in the $ price band; the guide flags it as good for date night."
 appliesTo: "Travellers, food enthusiasts and diners researching Malaysia's MICHELIN-recognised fine dining in Kuala Lumpur."
 
 faq:
@@ -42,7 +43,7 @@ place:
   address: "Lot 3 & 4, Ground Floor, Cormar Suites, 10 Jalan Perak, 50450 Kuala Lumpur, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Beta%20KL%2C%20Kuala%20Lumpur"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Beta%20KL%2C%20Kuala%20Lumpur"
-  priceRange: "$$$"
+  priceRange: "$$"
   hours: "Dinner only, Tue-Sun from 18:00 (MICHELIN lists 18:00-23:00); Mon closed"
   halal: "non-halal"
   service: ["dine-in"]

@@ -4,6 +4,7 @@ title: "Gulainya: A Kuala Lumpur Bib Gourmand Peranakan Restaurant"
 slug: "gulainya"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
+foodType: "place"
 lang: "en"
 masterLanguage: "en"
 status: "published"
@@ -42,7 +43,7 @@ place:
   address: "44-G, Plaza Damansara, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Gulainya%2C%20Bukit%20Damansara%2C%20Kuala%20Lumpur"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Gulainya%2C%20Bukit%20Damansara%2C%20Kuala%20Lumpur"
-  priceRange: "MICHELIN $$"
+  priceRange: "MICHELIN $"
   hours: "Tue–Sun 11:00–15:00 & 17:00–21:30 · closed Mon"
   halal: "pork-free"
   service: ["dine-in"]

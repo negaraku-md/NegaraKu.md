@@ -5,6 +5,7 @@ seoTitle: "Chim by Chef Noom, Kuala Lumpur"
 slug: "chim-by-chef-noom"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
+foodType: "place"
 summary: "Chim by Chef Noom is a one-MICHELIN-star Thai fine-dining restaurant in TSLAW Tower, Imbi, Kuala Lumpur. It is the Malaysian outpost of Thai chef Thaninthorn 'Noom' Chantrawan, and serves contemporary Thai tasting menus rooted in tradition, including a signature dish billed as a 200-year-old take on tom yum."
 
 tier: "2"
@@ -47,7 +48,7 @@ place:
   address: "L2-03, TSLAW Tower, 39 Jalan Kamuning, Imbi, 55100 Kuala Lumpur"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Chim%20by%20Chef%20Noom%2C%20Kuala%20Lumpur"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Chim%20by%20Chef%20Noom%2C%20Kuala%20Lumpur"
-  priceRange: "$$$$ (MICHELIN); around USD 150 per person per third-party listing (unofficial)"
+  priceRange: "$$ (MICHELIN); around USD 150 per person per third-party listing (unofficial)"
   hours: "Tue-Sun 5:30 PM-11 PM; closed Mon"
   halal: "non-halal"
   service: ["dine-in"]

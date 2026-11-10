@@ -5,6 +5,7 @@ seoTitle: "Communal Table by Gēn, George Town Penang"
 slug: "communal-table-by-gen"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
+foodType: "place"
 contentType: "place"
 lang: "en"
 status: "published"
@@ -54,7 +55,7 @@ place:
   address: "68 Lebuh Presgrave, 10300 George Town, Penang"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Communal%20Table%20by%20Gen%2C%20George%20Town%2C%20Penang"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Communal%20Table%20by%20Gen%2C%20George%20Town%2C%20Penang"
-  priceRange: "$$"
+  priceRange: "$"
   hours: "Mon, Tue, Thu, Fri 17:00-23:00; Sat-Sun 12:00-15:00 & 18:00-23:00; Wed closed"
   halal: "non-halal"
   service: ["dine-in"]

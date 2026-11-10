@@ -4,12 +4,15 @@ title: "Awesome Char Koay Teow: A Tanjung Bungah Bib Gourmand Stall"
 seoTitle: "Awesome Char Koay Teow"
 slug: "awesome-char-koay-teow"
 hero: "/media/food/awesome-char-koay-teow/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
 heroAlt: "Char koay teow — flat rice noodles wok-fried with prawns, cockles, Chinese sausage and bean sprouts"
 heroCredit: "Cyaloamin / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:HK_Yau_Ma_Tei_%E6%96%87%E8%8F%AF%E6%96%B0%E9%82%A8_Man_Wah_Sun_Chuen_restaurant_food_%E7%82%92%E8%B2%B4%E5%88%81_Char_kway_teow_fried_noodle_June-2011.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
+foodType: "place"
 
 summary: "Awesome Char Koay Teow is a third-generation street-food stall at New KK99 Cafe in Tanjung Bungah, George Town, Penang, recognised in the MICHELIN Guide. Each plate of char koay teow is fried to order with strong wok hei, with optional over-easy egg or cheese on top."
 

@@ -5,6 +5,7 @@ seoTitle: "Akar: One-MICHELIN-Star KL Restaurant"
 slug: "akar"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
+foodType: "place"
 summary: "Akar is a modern Malaysian fine-dining restaurant in Taman Tun Dr Ismail, Kuala Lumpur. It holds One MICHELIN Star in the MICHELIN Guide Kuala Lumpur & Penang, where its listing describes a set menu that reworks European recipes through Japanese, French and Malaysian influences. This profile covers its recognition, its cooking, its setting and how to visit."
 
 tier: "2"
@@ -18,7 +19,7 @@ keyTakeaways:
   - "The MICHELIN Guide classifies its cuisine as Malaysian and Contemporary, served as a seasonal set menu."
   - "MICHELIN describes the chef refashioning European recipes with Japanese, French and Malaysian influences, drawing on time spent in Japan and France."
   - "The restaurant is in Taman Tun Dr Ismail (TTDI), Kuala Lumpur, with an intimate dining room and open kitchen."
-  - "The MICHELIN Guide lists it in the $$ price band and flags it as good for solo dining."
+  - "The MICHELIN Guide lists it in the $ price band and flags it as good for solo dining."
 appliesTo: "Travellers, food enthusiasts and diners researching Malaysia's MICHELIN-recognised fine dining in Kuala Lumpur."
 
 faq:
@@ -42,7 +43,7 @@ place:
   address: "109 Jalan Aminuddin Baki, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Akar%20Dining%2C%20Kuala%20Lumpur"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Akar%20Dining%2C%20Kuala%20Lumpur"
-  priceRange: "$$$"
+  priceRange: "$$"
   hours: "Tue-Thu 18:00-00:00; Fri-Sat 12:00-15:00 & 18:00-00:00; Sun-Mon closed"
   halal: "non-halal"
   service: ["dine-in"]

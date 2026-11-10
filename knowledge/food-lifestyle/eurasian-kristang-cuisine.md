@@ -5,6 +5,7 @@ seoTitle: "Kristang (Eurasian) Cuisine"
 slug: "eurasian-kristang-cuisine"
 category: "food-lifestyle"
 subcategory: ["masakan"]
+foodType: "cuisine"
 summary: "Kristang — or Portuguese-Eurasian — cuisine is the home cooking of the creole community descended from 16th-century Portuguese settlers who intermarried with local Malays, Chinese and Indians, centred today on Melaka's Portuguese Settlement. This guide explains who the Kristang are, their signature dishes — the fiery vinegary devil's curry (debal), the offal curry feng, sugee cake and pang susi — the fusion of Portuguese, Malay, Chinese and Indian techniques, and the festivals that keep the table alive."
 
 tier: "2"

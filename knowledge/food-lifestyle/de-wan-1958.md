@@ -4,6 +4,7 @@ title: "De. Wan 1958: Chef Wan's Bib Gourmand Malaysian Restaurant in KL"
 slug: "de-wan-1958"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
+foodType: "place"
 lang: "en"
 masterLanguage: "en"
 status: "published"
@@ -42,7 +43,7 @@ place:
   address: "Level 2-2, The LINC KL, 360 Jalan Tun Razak, Taman U Thant, 50400 Kuala Lumpur"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=De.Wan%201958%2C%20Kuala%20Lumpur"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=De.Wan%201958%2C%20Kuala%20Lumpur"
-  priceRange: "$$"
+  priceRange: "$"
   hours: "Mon-Fri 11:00-15:30 and 18:00-21:30; Sat-Sun 11:00-17:00 and 18:00-21:30"
   halal: "halal"
   service: ["dine-in"]

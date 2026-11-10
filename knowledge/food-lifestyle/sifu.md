@@ -5,6 +5,7 @@ seoTitle: "Sifu, George Town — MICHELIN Bib Gourmand"
 slug: "sifu"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
+foodType: "place"
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
@@ -22,7 +23,7 @@ place:
   address: "154 Jalan Pintal Tali (Rope Walk), 10100 George Town, Penang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sifu+Nyonya+Cuisine+154+Jalan+Pintal+Tali+George+Town+Penang"
   reviewsUrl: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sifu"
-  priceRange: "$$"
+  priceRange: "$"
   hours: "Mon, Tue, Thu, Fri 11:30-15:00 & 18:00-21:45; Sat-Sun 11:30-21:45; Wed closed (per MICHELIN Guide; other listings differ, confirm by phone)"
   halal: "non-halal"
   service: ["dine-in"]

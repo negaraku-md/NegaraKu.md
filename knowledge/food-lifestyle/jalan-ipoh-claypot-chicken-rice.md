@@ -4,12 +4,15 @@ title: "Jalan Ipoh Claypot Chicken Rice: A Bib Gourmand Charcoal Claypot Stall i
 seoTitle: "Jalan Ipoh Claypot Chicken Rice"
 slug: "jalan-ipoh-claypot-chicken-rice"
 hero: "/media/food/jalan-ipoh-claypot-chicken-rice/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
 heroAlt: "Claypot chicken rice with chicken, greens and dark soy sauce"
 heroCredit: "Banej / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Claypot_Chicken_Rice,_Singapore.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
+foodType: "place"
 
 tier: "2"
 mode: "narrative"

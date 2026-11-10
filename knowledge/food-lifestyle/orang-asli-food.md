@@ -5,6 +5,7 @@ seoTitle: "Orang Asli Food: Indigenous Foodways"
 slug: "orang-asli-food"
 category: "food-lifestyle"
 subcategory: ["cuisines"]
+foodType: "cuisine"
 summary: "Orang Asli food is the foraging-and-subsistence foodway of Peninsular Malaysia's indigenous peoples — the Semang (Negrito), Senoi and Proto-Malay groups. This guide describes the wild tubers and tapioca that anchor the diet, the foraged ferns and jungle vegetables, bamboo-tube and open-fire cooking, river fish and forest game, wild honey and fruit, and the traditional ecological knowledge behind it — while noting how much is documented only through small local studies, and how deforestation and lost forest access are reshaping it."
 
 tier: "2"

@@ -5,6 +5,7 @@ seoTitle: "Bibik's Kitchen, George Town Penang"
 slug: "bibiks-kitchen"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
+foodType: "place"
 summary: "Bibik's Kitchen is a Peranakan restaurant on Jalan Sri Bahari in George Town, Penang, holding a MICHELIN Guide Bib Gourmand. Built on the owner's heirloom Nyonya family recipes and decorated with classic Peranakan motifs, it is known for dishes such as jiu hu char and loh bak, served in three portion sizes."
 
 tier: "3"
@@ -47,7 +48,7 @@ place:
   address: "73 Jalan Sri Bahari, George Town, 10050, Penang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bibik%27s%20Kitchen%2C%20George%20Town%2C%20Penang"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Bibik%27s%20Kitchen%2C%20George%20Town%2C%20Penang"
-  priceRange: "$$ (moderate; MICHELIN gives no MYR amount)"
+  priceRange: "$ (moderate; MICHELIN gives no MYR amount)"
   hours: "Tue-Sun 11:30-15:00 and 18:00-21:00; closed Mon"
   halal: "contains-pork"
   service: ["dine-in"]
