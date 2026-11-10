@@ -12,14 +12,14 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "Si un delito está ocurriendo, marque primero el 999. Para presentar una denuncia policial oficial, acuda a cualquier comisaría y entregue la información al oficial de turno; en virtud de la Sección 107 del Código de Procedimiento Penal, esa información oral se consigna por escrito, se le lee de nuevo y usted la firma, tras lo cual recibe un número de denuncia y una copia. La pérdida de documentos u objetos no vinculados a un delito (por ejemplo, un documento de identidad o un permiso) puede denunciarse en línea a través del portal e-Reporting de la PDRM. Si es víctima de una estafa en línea y el dinero acaba de moverse, llame al 997 (NSRC) de inmediato — según la orientación oficial del NSRC (consultada en agosto de 2026), la línea funciona de 8.00 a 20.00 todos los días y aún debe presentar una denuncia policial aparte en un plazo de 24 horas. (El 26 de julio de 2025 se anunció un régimen de 24 horas con las llamadas contadas como denuncias policiales que comenzaría en septiembre de 2025, pero aún no se refleja en la orientación oficial del NSRC.)"
+answer: "Si un delito está ocurriendo, marque primero el 999. Para presentar una denuncia policial oficial, acuda a cualquier comisaría y entregue la información al oficial de turno; en virtud de la Sección 107 del Código de Procedimiento Penal, esa información oral se consigna por escrito, se le lee de nuevo y usted la firma, tras lo cual recibe un número de denuncia y una copia. La pérdida de documentos u objetos no vinculados a un delito (por ejemplo, un documento de identidad o un permiso) puede denunciarse en línea a través del portal e-Reporting de la PDRM. Si es víctima de una estafa en línea y el dinero acaba de moverse, llame al 997 (NSRC) de inmediato — esta línea funciona ahora las 24 horas del día, los siete días de la semana, y desde que el régimen de 24 horas entró en vigor (a partir de septiembre de 2025) una llamada al 997 cuenta como una denuncia policial oficial. Llame lo antes posible a cualquier hora — la mejor oportunidad de congelar los fondos está en las primeras horas. (Para reclamaciones de seguros o del banco, es posible que aún se solicite una copia de la denuncia policial oficial.)"
 keyTakeaways:
   - "La Sección 107 del Código de Procedimiento Penal exige que la información oral se consigne por escrito, se lea de nuevo al informante y sea firmada por este"
   - "Una emergencia en curso: marque el 999 — MERS 999 unifica cinco agencias (policía, bomberos, hospital, defensa civil, marítima) bajo un único número"
   - "El uso indebido de la línea 999 se castiga con una multa de hasta RM500.000 o pena de prisión de hasta 2 años o ambas"
   - "Casos no aprehensibles (non-seizable) en virtud de la Sección 108 — el oficial remitirá al denunciante a un Magistrado"
   - "e-Reporting (ereporting.rmp.gov.my) para la pérdida de documentos u objetos no delictivos; según el portal oficial, para ciudadanos malasios de 18 años o más"
-  - "Estafas en línea: llame al 997 (NSRC) de inmediato — la orientación oficial del NSRC (agosto de 2026) indica que la línea funciona de 8.00 a 20.00 todos los días y que aún debe presentarse una denuncia policial aparte en un plazo de 24 horas (el régimen de 24 horas anunciado en julio de 2025 aún no está confirmado como vigente)"
+  - "Estafas en línea: llame al 997 (NSRC) de inmediato, las 24 horas del día — desde septiembre de 2025 una llamada al 997 cuenta como una denuncia policial oficial (el portal oficial del gobierno indica que la línea 997 funciona las 24 horas)"
   - "Una copia certificada de la denuncia es admisible como prueba en virtud de la Sección 108A"
 appliesTo: "Cualquier persona en Malasia que sea víctima o testigo de un delito, haya perdido documentos u objetos, o sea víctima de una estafa — ciudadano o no ciudadano."
 
@@ -35,12 +35,12 @@ faq:
   - q: "¿Cuál es la edad mínima para usar el e-Reporting de la PDRM?"
     a: "Según el portal oficial de e-Reporting (ereporting.rmp.gov.my), el sistema es para ciudadanos malasios de 18 años o más que tengan acceso a internet. Quien no cumpla los criterios de elegibilidad del sistema en línea puede presentar una denuncia en cualquier comisaría."
   - q: "Acabo de darme cuenta de que fui víctima de una estafa en línea y el dinero se ha movido. ¿Debo ir primero a la comisaría?"
-    a: "Llame primero al 997 (Centro Nacional de Respuesta ante Estafas / NSRC), lo antes posible — la mejor oportunidad de congelar los fondos está en las primeras horas. Según la orientación oficial del NSRC (consultada en agosto de 2026), esta línea funciona de 8.00 a 20.00 todos los días y aún debe presentar una denuncia policial aparte en un plazo de 24 horas para que puedan adoptarse medidas de seguimiento. (El 26 de julio de 2025 se anunció que la línea funcionaría las 24 horas y que las llamadas se contarían como denuncias policiales a partir de septiembre de 2025, pero ese régimen aún no se refleja en la orientación oficial.)"
+    a: "Llame primero al 997 (Centro Nacional de Respuesta ante Estafas / NSRC), lo antes posible — la mejor oportunidad de congelar los fondos está en las primeras horas. La línea 997 funciona ahora las 24 horas del día, los siete días de la semana, así que puede llamar a cualquier hora. Desde que el régimen de 24 horas entró en vigor (a partir de septiembre de 2025), una llamada al 997 cuenta como una denuncia policial oficial a efectos de la medida de congelación de fondos; para reclamaciones de seguros o del banco, es posible que aún se solicite una copia de la denuncia policial oficial."
   - q: "¿Puede cancelarse o eliminarse una denuncia policial más adelante?"
     a: "Una denuncia que ya se ha registrado no puede eliminarse de los registros policiales. Si hay información nueva, un error de hecho o una novedad en el caso, lo correcto es presentar una denuncia adicional que haga referencia al número de denuncia original, no pedir que se elimine la denuncia original."
 
 lang: "es"
-sourceContentHash: "0ae54502024bdaab"
+sourceContentHash: "ff7766437a2c7e62"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -54,24 +54,28 @@ reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-11
+    change: "Corrección crítica: la NSRC 997 ahora funciona las 24 horas del día (confirmado por el portal oficial del gobierno) y desde septiembre de 2025 una llamada al 997 cuenta como denuncia policial — se reemplazó el antiguo horario de 8.00 a 20.00 en la respuesta, los puntos clave, las preguntas frecuentes, la tabla de canales, el cuerpo y las fuentes."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-11-11
 sources:
   - title: "Código de Procedimiento Penal (Act 593), Capítulo XIII — Secciones 107, 108, 108A, 110; Sección 23 (detención sin orden judicial) (Criminal Procedure Code (Act 593), Chapter XIII — Seksyen 107, 108, 108A, 110; Seksyen 23)"
     url: "https://ccid.rmp.gov.my/Laws/Criminal_Prosedure_Code_Act_593.pdf"
     publisher: "Real Policía de Malasia (PDRM) — Departamento de Investigación de Delitos Comerciales"
-  - title: "Centro Nacional de Respuesta ante Estafas (NSRC) — Acerca del NSRC (la línea 997 funciona de 8.00 a 20.00; se requiere una denuncia policial aparte en 24 horas) (National Scam Response Centre (NSRC) — About NSRC)"
+  - title: "Línea directa NSRC 997 — funciona las 24 horas del día (portal oficial del gobierno) (NSRC 997 Hotline — operates 24 hours daily)"
+    url: "https://www.malaysia.gov.my/en/topics/hotline-nsrc-997"
+    publisher: "Portal Oficial del Gobierno de Malasia (MyGovernment)"
+  - title: "Centro Nacional de Respuesta ante Estafas (NSRC) — Acerca del NSRC (National Scam Response Centre (NSRC) — About NSRC)"
     url: "https://nfcc.jpm.gov.my/index.php/en/about-nsrc"
     publisher: "Centro Nacional de Prevención de Delitos Financieros (NFCC), Departamento del Primer Ministro"
-  - title: "Información sobre el NSRC — el 997 funciona de 8.00 a 20.00; «también debe presentar una denuncia policial» (Maklumat mengenai NSRC)"
-    url: "https://nfcc.jpm.gov.my/index.php/en/component/content/article/nsrc-info-link?catid=11&Itemid=114"
-    publisher: "NFCC, Departamento del Primer Ministro"
   - title: "La línea anti-estafas 997 funcionará las 24 horas, las llamadas se tratarán como denuncias policiales a partir de septiembre (anuncio del 26 de julio de 2025) (997 Scam Hotline To Operate 24 Hours, Calls Treated As Police Reports From September)"
     url: "https://www.bernama.com/en/news.php?id=2449632"
     publisher: "Bernama"
@@ -123,7 +127,7 @@ retrasar la ayuda.
 | **999 (MERS 999)** | Una emergencia en curso | Policía, bomberos, ambulancia, defensa civil, marítima | Un número para cinco agencias; el uso indebido se multa con hasta RM500.000 |
 | **Comisaría** | En cualquier momento tras el incidente | Todo tipo de delitos y pérdidas | Gratuito; abierto 24 horas; obtiene un número de denuncia + copia |
 | **e-Reporting** | Pérdida no delictiva | Documento de identidad, permiso, tarjeta de cajero, teléfono, documentos | Según el portal oficial: ciudadanos malasios de 18 años o más |
-| **997 (NSRC)** | En cuanto es estafado en línea | Estafas financieras, dinero movido | Orientación oficial: de 8.00 a 20.00; aún se requiere una denuncia policial aparte |
+| **997 (NSRC)** | En cuanto es estafado en línea | Estafas financieras, dinero movido | Las 24 horas del día; desde sept. de 2025 la llamada cuenta como denuncia policial |
 
 ## ¿Cuándo necesito marcar primero el 999?
 
@@ -259,19 +263,18 @@ telecomunicaciones en una única «sala de guerra». Cuando llama, intentan evit
 más pérdidas y rastrear y congelar los fondos robados antes de que el estafador
 los retire.
 
-Según la orientación oficial del NSRC (consultada en agosto de 2026), la línea
-997 funciona de **8.00 a 20.00** todos los días, incluidos los festivos, y aún
-debe presentar una **denuncia policial aparte** en un plazo de 24 horas — sin
-una denuncia policial, la policía no puede llevar a cabo acciones de
-seguimiento.
+La línea 997 funciona ahora las **24 horas del día, los siete días de la
+semana** — puede llamar a cualquier hora, incluidos los festivos. Este régimen
+de 24 horas lo anunció el Viceministro de Comunicaciones el 26 de julio de 2025
+y entró en vigor a partir de septiembre de 2025; el portal oficial del gobierno
+(malaysia.gov.my) ahora indica que la línea 997 funciona las 24 horas.
 
-El 26 de julio de 2025, el Viceministro de Comunicaciones anunció que, a partir
-de septiembre de 2025, la línea funcionaría las 24 horas y las llamadas al 997
-se contarían como una denuncia policial oficial. Sin embargo, en la
-comprobación de agosto de 2026, ese régimen aún no se refleja en la orientación
-oficial del NSRC, que sigue fijando un horario de 8.00 a 20.00 y el requisito
-de una denuncia policial aparte. Confirme el estado actual antes de confiar en
-la línea fuera de ese horario.
+Desde ese régimen de 24 horas, **una llamada al 997 cuenta como una denuncia
+policial oficial** a efectos de la congelación de fondos — así que, para la
+estafa en sí, ya no necesita presentar una denuncia aparte en la comisaría antes
+de que se adopten medidas. No obstante, para reclamaciones de seguros o del
+banco, es posible que aún se solicite una copia de la denuncia policial oficial,
+así que conserve cada número de referencia.
 
 La clave del éxito es la rapidez: la mejor oportunidad de congelar los fondos
 está en las primeras horas. Cada minuto de espera le da al estafador tiempo

@@ -12,14 +12,14 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "Nếu tội phạm đang diễn ra, hãy gọi 999 trước. Để làm báo cáo cảnh sát chính thức, hãy đến bất kỳ đồn cảnh sát nào và cung cấp thông tin cho nhân viên trực; theo Mục 107 của Bộ luật Tố tụng Hình sự (Criminal Procedure Code), thông tin bằng lời đó được ghi lại bằng văn bản, đọc lại cho bạn, và bạn ký vào đó, sau đó bạn nhận một số báo cáo và một bản sao. Việc mất giấy tờ hoặc đồ vật không liên quan đến tội phạm (ví dụ thẻ căn cước hoặc giấy phép) có thể được báo cáo trực tuyến qua e-Reporting của PDRM. Nếu bị lừa trực tuyến và tiền vừa mới bị chuyển đi, hãy gọi 997 (NSRC) ngay lập tức — theo hướng dẫn chính thức của NSRC (bản duyệt tháng 8 năm 2026), đường dây đó hoạt động từ 8.00 sáng đến 8.00 tối mỗi ngày và bạn vẫn cần làm một báo cáo cảnh sát riêng trong vòng 24 giờ. (Sự sắp xếp 24 giờ với cuộc gọi được tính là báo cáo cảnh sát đã được công bố vào ngày 26 tháng 7 năm 2025 để bắt đầu từ tháng 9 năm 2025, nhưng chưa thể hiện trong hướng dẫn chính thức của NSRC.)"
+answer: "Nếu tội phạm đang diễn ra, hãy gọi 999 trước. Để làm báo cáo cảnh sát chính thức, hãy đến bất kỳ đồn cảnh sát nào và cung cấp thông tin cho nhân viên trực; theo Mục 107 của Bộ luật Tố tụng Hình sự (Criminal Procedure Code), thông tin bằng lời đó được ghi lại bằng văn bản, đọc lại cho bạn, và bạn ký vào đó, sau đó bạn nhận một số báo cáo và một bản sao. Việc mất giấy tờ hoặc đồ vật không liên quan đến tội phạm (ví dụ thẻ căn cước hoặc giấy phép) có thể được báo cáo trực tuyến qua e-Reporting của PDRM. Nếu bị lừa trực tuyến và tiền vừa mới bị chuyển đi, hãy gọi 997 (NSRC) ngay lập tức — đường dây này hiện hoạt động 24 giờ một ngày, bảy ngày một tuần, và kể từ khi sự sắp xếp 24 giờ có hiệu lực (từ tháng 9 năm 2025), cuộc gọi đến 997 được tính là một báo cáo cảnh sát chính thức. Hãy gọi càng sớm càng tốt vào bất kỳ lúc nào — cơ hội đóng băng tiền cao nhất trong vài giờ đầu tiên. (Đối với yêu cầu bảo hiểm hoặc ngân hàng, bản sao báo cáo cảnh sát chính thức có thể vẫn được yêu cầu.)"
 keyTakeaways:
   - "Mục 107 của Bộ luật Tố tụng Hình sự yêu cầu thông tin bằng lời được ghi lại bằng văn bản, đọc lại cho người cung cấp thông tin, và được người đó ký"
   - "Trường hợp khẩn cấp đang diễn ra: gọi 999 — MERS 999 hợp nhất năm cơ quan (cảnh sát, cứu hỏa, bệnh viện, phòng vệ dân sự, hàng hải) dưới một số duy nhất"
   - "Lạm dụng đường dây 999 có thể bị phạt tới RM500,000 hoặc phạt tù tới 2 năm hoặc cả hai"
   - "Vụ án không thể điều tra theo Mục 108 — nhân viên sẽ chuyển người khiếu nại đến Thẩm phán"
   - "e-Reporting (ereporting.rmp.gov.my) cho việc mất giấy tờ hoặc đồ vật không liên quan tội phạm; theo cổng chính thức, dành cho công dân Malaysia từ 18 tuổi trở lên"
-  - "Lừa đảo trực tuyến: gọi 997 (NSRC) ngay lập tức — hướng dẫn chính thức của NSRC (tháng 8 năm 2026) nêu đường dây hoạt động 8 sáng–8 tối mỗi ngày và một báo cáo cảnh sát riêng vẫn cần được làm trong 24 giờ (sự sắp xếp 24 giờ được công bố tháng 7 năm 2025 chưa được xác nhận có hiệu lực)"
+  - "Lừa đảo trực tuyến: gọi 997 (NSRC) ngay lập tức, 24 giờ một ngày — kể từ tháng 9 năm 2025 cuộc gọi đến 997 được tính là một báo cáo cảnh sát chính thức (cổng thông tin chính thức của chính phủ nêu đường dây 997 hoạt động 24 giờ)"
   - "Bản sao được chứng thực của báo cáo có thể được chấp nhận làm bằng chứng theo Mục 108A"
 appliesTo: "Bất kỳ ai ở Malaysia trở thành nạn nhân hoặc nhân chứng của tội phạm, mất giấy tờ hoặc đồ vật, hoặc trở thành nạn nhân của lừa đảo — công dân lẫn người không phải công dân."
 
@@ -35,12 +35,12 @@ faq:
   - q: "Độ tuổi tối thiểu để sử dụng e-Reporting của PDRM là bao nhiêu?"
     a: "Theo cổng chính thức e-Reporting (ereporting.rmp.gov.my), hệ thống này dành cho công dân Malaysia từ 18 tuổi trở lên có kết nối internet. Bất kỳ ai không đáp ứng các điều kiện đủ điều kiện của hệ thống trực tuyến có thể làm báo cáo tại bất kỳ đồn cảnh sát nào."
   - q: "Tôi vừa nhận ra mình đã bị lừa trực tuyến và tiền đã bị chuyển đi. Tôi có nên đến đồn trước không?"
-    a: "Hãy gọi 997 (Trung tâm Ứng phó Lừa đảo Quốc gia / NSRC) trước, càng nhanh càng tốt — cơ hội tốt nhất để đóng băng tiền là trong vài giờ đầu tiên. Theo hướng dẫn chính thức của NSRC (bản duyệt tháng 8 năm 2026), đường dây này hoạt động từ 8.00 sáng đến 8.00 tối mỗi ngày và bạn vẫn cần làm một báo cáo cảnh sát riêng trong vòng 24 giờ để có thể tiến hành hành động tiếp theo. (Vào ngày 26 tháng 7 năm 2025 được công bố đường dây sẽ hoạt động 24 giờ và cuộc gọi được tính là báo cáo cảnh sát từ tháng 9 năm 2025, nhưng sự sắp xếp đó chưa thể hiện trong hướng dẫn chính thức.)"
+    a: "Hãy gọi 997 (Trung tâm Ứng phó Lừa đảo Quốc gia / NSRC) trước, càng nhanh càng tốt — cơ hội tốt nhất để đóng băng tiền là trong vài giờ đầu tiên. Đường dây 997 hiện hoạt động 24 giờ một ngày, bảy ngày một tuần, nên bạn có thể gọi vào bất kỳ lúc nào. Kể từ khi sự sắp xếp 24 giờ có hiệu lực (từ tháng 9 năm 2025), cuộc gọi đến 997 được tính là một báo cáo cảnh sát chính thức cho mục đích hành động đóng băng tiền; đối với yêu cầu bảo hiểm hoặc ngân hàng, bản sao báo cáo cảnh sát chính thức có thể vẫn được yêu cầu."
   - q: "Báo cáo cảnh sát có thể bị hủy hoặc xóa sau này không?"
     a: "Báo cáo đã được ghi lại không thể bị xóa khỏi hồ sơ cảnh sát. Nếu có thông tin mới, sai sót về dữ kiện, hoặc diễn biến của vụ án, cách đúng là làm một báo cáo bổ sung tham chiếu số báo cáo gốc, chứ không phải yêu cầu bỏ báo cáo gốc."
 
 lang: "vi"
-sourceContentHash: "0ae54502024bdaab"
+sourceContentHash: "ff7766437a2c7e62"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -54,24 +54,28 @@ reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-11
+    change: "Chỉnh sửa quan trọng: NSRC 997 hiện hoạt động 24/7 (được xác nhận bởi cổng thông tin chính thức của chính phủ) và cuộc gọi 997 được tính là báo cáo cảnh sát kể từ tháng 9 năm 2025 — đã thay thế giờ hoạt động 8 sáng–8 tối lỗi thời trong answer, key takeaways, FAQ, bảng kênh, phần thân và sources."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-11-11
 sources:
   - title: "Bộ luật Tố tụng Hình sự (Act 593), Chương XIII — Điều 107, 108, 108A, 110; Điều 23 (bắt giữ không cần lệnh) (Criminal Procedure Code (Act 593), Chapter XIII — Seksyen 107, 108, 108A, 110; Seksyen 23 (tangkap tanpa waran))"
     url: "https://ccid.rmp.gov.my/Laws/Criminal_Prosedure_Code_Act_593.pdf"
     publisher: "Cảnh sát Hoàng gia Malaysia (Cục Điều tra Tội phạm Thương mại)"
-  - title: "Trung tâm Ứng phó Lừa đảo Quốc gia (NSRC) — Giới thiệu về NSRC (đường dây 997 hoạt động từ 8 giờ sáng đến 8 giờ tối; cần báo cáo cảnh sát riêng trong vòng 24 giờ) (National Scam Response Centre (NSRC) — About NSRC (talian 997 beroperasi 8 pagi–8 malam; laporan polis berasingan diperlukan dalam 24 jam))"
+  - title: "Đường dây nóng NSRC 997 — hoạt động 24 giờ mỗi ngày (cổng thông tin chính thức của chính phủ) (Hotline NSRC 997 — talian beroperasi 24 jam sehari (portal rasmi kerajaan))"
+    url: "https://www.malaysia.gov.my/en/topics/hotline-nsrc-997"
+    publisher: "Cổng Thông tin Chính thức của Chính phủ Malaysia (MyGovernment)"
+  - title: "Trung tâm Ứng phó Lừa đảo Quốc gia (NSRC) — Giới thiệu về NSRC (National Scam Response Centre (NSRC) — About NSRC)"
     url: "https://nfcc.jpm.gov.my/index.php/en/about-nsrc"
     publisher: "Trung tâm Quốc gia Chống Tội phạm Tài chính (NFCC), Văn phòng Thủ tướng"
-  - title: "Thông tin về NSRC — 997 hoạt động từ 8.00 sáng đến 8.00 tối; 'bạn cũng cần làm báo cáo cảnh sát' (Maklumat mengenai NSRC — 997 beroperasi 8.00 pagi–8.00 malam; 'anda juga perlu membuat laporan polis')"
-    url: "https://nfcc.jpm.gov.my/index.php/en/component/content/article/nsrc-info-link?catid=11&Itemid=114"
-    publisher: "NFCC, Văn phòng Thủ tướng"
   - title: "Đường dây nóng chống lừa đảo 997 sẽ hoạt động 24 giờ, các cuộc gọi được xem như báo cáo cảnh sát kể từ tháng 9 (thông báo ngày 26 tháng 7 năm 2025) (997 Scam Hotline To Operate 24 Hours, Calls Treated As Police Reports From September (pengumuman 26 Julai 2025))"
     url: "https://www.bernama.com/en/news.php?id=2449632"
     publisher: "Bernama"
@@ -108,7 +112,7 @@ Trước tiên, hãy xác định tình huống của bạn. Bốn kênh này kh
 | **999 (MERS 999)** | Khẩn cấp đang diễn ra | Cảnh sát, cứu hỏa, xe cứu thương, phòng vệ dân sự, hàng hải | Một số cho năm cơ quan; lạm dụng có thể bị phạt tới RM500,000 |
 | **Đồn cảnh sát** | Bất kỳ lúc nào sau vụ việc | Mọi loại tội phạm và mất mát | Miễn phí; mở 24 giờ; bạn nhận số báo cáo + bản sao |
 | **e-Reporting** | Mất mát không liên quan tội phạm | Thẻ căn cước, giấy phép, thẻ ATM, điện thoại, giấy tờ | Theo cổng chính thức: công dân Malaysia từ 18 tuổi trở lên |
-| **997 (NSRC)** | Ngay khi bị lừa trực tuyến | Lừa đảo tài chính, tiền bị chuyển đi | Hướng dẫn chính thức: 8 sáng–8 tối; báo cáo cảnh sát riêng vẫn cần |
+| **997 (NSRC)** | Ngay khi bị lừa trực tuyến | Lừa đảo tài chính, tiền bị chuyển đi | 24 giờ một ngày; cuộc gọi được tính là báo cáo cảnh sát kể từ tháng 9 năm 2025 |
 
 ## Khi nào cần gọi 999 trước?
 
@@ -182,9 +186,9 @@ Nếu bạn trở thành nạn nhân của lừa đảo tài chính trực tuy�
 
 NSRC được thành lập vào tháng 10 năm 2022 như một trung tâm tác chiến để điều phối ứng phó nhanh với lừa đảo tài chính trực tuyến. Nó kết hợp Trung tâm Quốc gia về Chống Tội phạm Tài chính (NFCC), Cảnh sát Hoàng gia Malaysia, Ngân hàng Trung ương Malaysia, Ủy ban Truyền thông và Đa phương tiện Malaysia (SKMM), cùng các tổ chức tài chính và các công ty viễn thông trong một "phòng tác chiến". Khi bạn gọi, họ cố ngăn thiệt hại thêm cũng như truy vết và đóng băng khoản tiền bị đánh cắp trước khi kẻ lừa đảo rút nó ra.
 
-Theo hướng dẫn chính thức của NSRC (bản duyệt tháng 8 năm 2026), đường dây 997 hoạt động từ **8.00 sáng đến 8.00 tối** mỗi ngày kể cả ngày lễ, và bạn vẫn cần làm một **báo cáo cảnh sát riêng** trong vòng 24 giờ — không có báo cáo cảnh sát, hành động tiếp theo không thể được cảnh sát thực hiện.
+Đường dây 997 hiện hoạt động **24 giờ một ngày, bảy ngày một tuần** — bạn có thể gọi vào bất kỳ lúc nào, kể cả ngày lễ. Sự sắp xếp 24 giờ này được Thứ trưởng Truyền thông công bố vào ngày 26 tháng 7 năm 2025 và có hiệu lực từ tháng 9 năm 2025; cổng thông tin chính thức của chính phủ (malaysia.gov.my) hiện nêu đường dây 997 hoạt động 24 giờ.
 
-Vào ngày 26 tháng 7 năm 2025, Thứ trưởng Truyền thông công bố rằng kể từ tháng 9 năm 2025 đường dây đó sẽ hoạt động 24 giờ và cuộc gọi đến 997 sẽ được tính là báo cáo cảnh sát chính thức. Tuy nhiên tính đến bản duyệt tháng 8 năm 2026, sự sắp xếp đó chưa thể hiện trong hướng dẫn chính thức của NSRC, vốn vẫn quy định giờ hoạt động 8 sáng–8 tối và yêu cầu báo cáo cảnh sát riêng. Hãy xác nhận tình trạng mới nhất trước khi dựa vào đường dây ngoài giờ đó.
+Kể từ sự sắp xếp 24 giờ đó, **cuộc gọi đến 997 được tính là một báo cáo cảnh sát chính thức** cho mục đích đóng băng tiền — vì vậy đối với chính vụ lừa đảo, bạn không còn cần làm một báo cáo riêng tại đồn trước khi hành động được thực hiện. Tuy nhiên, đối với yêu cầu bảo hiểm hoặc ngân hàng, bản sao báo cáo cảnh sát chính thức có thể vẫn được yêu cầu, vì vậy hãy giữ mọi số tham chiếu.
 
 Chìa khóa thành công là tốc độ: cơ hội tốt nhất để đóng băng tiền là trong vài giờ đầu tiên. Mỗi phút chờ đợi cho kẻ lừa đảo thời gian chuyển tiền sang tài khoản khác.
 

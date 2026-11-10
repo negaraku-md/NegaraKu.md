@@ -12,14 +12,14 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "Si une infraction est en cours, composez d'abord le 999. Pour déposer une plainte officielle auprès de la police, rendez-vous dans n'importe quel poste de police et communiquez les informations à l'officier de service ; en vertu de la Section 107 du Code de procédure pénale, cette information orale est consignée par écrit, vous est relue, et vous la signez, après quoi vous recevez un numéro de plainte et une copie. La perte de documents ou d'objets non liés à une infraction (par exemple une carte d'identité ou un permis) peut être signalée en ligne via le portail e-Reporting de la PDRM. Si vous êtes victime d'une escroquerie en ligne et que l'argent vient d'être déplacé, appelez immédiatement le 997 (NSRC) — selon les consignes officielles du NSRC (consultées en août 2026), la ligne fonctionne de 8h00 à 20h00 tous les jours et vous devez tout de même déposer une plainte distincte auprès de la police dans un délai de 24 heures. (Un régime de 24 heures avec les appels comptés comme des plaintes policières a été annoncé le 26 juillet 2025 pour débuter en septembre 2025, mais il n'est pas encore reflété dans les consignes officielles du NSRC.)"
+answer: "Si une infraction est en cours, composez d'abord le 999. Pour déposer une plainte officielle auprès de la police, rendez-vous dans n'importe quel poste de police et communiquez les informations à l'officier de service ; en vertu de la Section 107 du Code de procédure pénale, cette information orale est consignée par écrit, vous est relue, et vous la signez, après quoi vous recevez un numéro de plainte et une copie. La perte de documents ou d'objets non liés à une infraction (par exemple une carte d'identité ou un permis) peut être signalée en ligne via le portail e-Reporting de la PDRM. Si vous êtes victime d'une escroquerie en ligne et que l'argent vient d'être déplacé, appelez immédiatement le 997 (NSRC) — cette ligne fonctionne désormais 24 heures sur 24, 7 jours sur 7, et depuis que le régime de 24 heures est entré en vigueur (à partir de septembre 2025) un appel au 997 compte comme une plainte policière officielle. Appelez le plus vite possible à tout moment — la meilleure chance de geler les fonds se situe dans les premières heures. (Pour les réclamations d'assurance ou bancaires, une copie de la plainte policière officielle peut tout de même être demandée.)"
 keyTakeaways:
   - "La Section 107 du Code de procédure pénale exige que l'information orale soit consignée par écrit, relue à l'informateur et signée par celui-ci"
   - "Une urgence en cours : composez le 999 — MERS 999 réunit cinq agences (police, pompiers, hôpital, protection civile, maritime) sous un numéro unique"
   - "L'usage abusif de la ligne 999 est passible d'une amende pouvant aller jusqu'à RM500,000 ou d'une peine de prison pouvant aller jusqu'à 2 ans, ou des deux"
   - "Affaires non saisissables (non-seizable) en vertu de la Section 108 — l'officier renverra le plaignant devant un magistrat"
   - "e-Reporting (ereporting.rmp.gov.my) pour la perte de documents ou d'objets non liés à une infraction ; selon le portail officiel, pour les citoyens malaisiens âgés de 18 ans et plus"
-  - "Escroqueries en ligne : appelez immédiatement le 997 (NSRC) — les consignes officielles du NSRC (août 2026) indiquent que la ligne fonctionne de 8h00 à 20h00 tous les jours et qu'une plainte policière distincte doit tout de même être déposée dans un délai de 24 heures (le régime de 24 heures annoncé en juillet 2025 n'est pas encore confirmé comme étant en vigueur)"
+  - "Escroqueries en ligne : appelez immédiatement le 997 (NSRC), 24 heures sur 24 — depuis septembre 2025, un appel au 997 compte comme une plainte policière officielle (le portail officiel du gouvernement indique que la ligne 997 fonctionne 24 heures sur 24)"
   - "Une copie certifiée de la plainte est recevable comme preuve en vertu de la Section 108A"
 appliesTo: "Toute personne en Malaisie victime ou témoin d'une infraction, ayant perdu des documents ou des objets, ou victime d'une escroquerie — citoyen ou non-citoyen."
 
@@ -35,12 +35,12 @@ faq:
   - q: "Quel est l'âge minimum pour utiliser l'e-Reporting de la PDRM ?"
     a: "Selon le portail officiel e-Reporting (ereporting.rmp.gov.my), le système est destiné aux citoyens malaisiens âgés de 18 ans et plus ayant accès à Internet. Toute personne qui ne remplit pas les critères d'admissibilité du système en ligne peut déposer une plainte dans n'importe quel poste de police."
   - q: "Je viens de me rendre compte que j'ai été victime d'une escroquerie en ligne et que l'argent a été déplacé. Dois-je aller d'abord au poste ?"
-    a: "Appelez d'abord le 997 (Centre national de réponse aux escroqueries / NSRC), le plus vite possible — la meilleure chance de geler les fonds se situe dans les premières heures. Selon les consignes officielles du NSRC (consultées en août 2026), cette ligne fonctionne de 8h00 à 20h00 tous les jours et vous devez tout de même déposer une plainte distincte auprès de la police dans un délai de 24 heures afin que des mesures de suivi puissent être prises. (Le 26 juillet 2025, il a été annoncé que la ligne fonctionnerait 24 heures sur 24 et que les appels seraient comptés comme des plaintes policières à partir de septembre 2025, mais ce régime n'est pas encore reflété dans les consignes officielles.)"
+    a: "Appelez d'abord le 997 (Centre national de réponse aux escroqueries / NSRC), le plus vite possible — la meilleure chance de geler les fonds se situe dans les premières heures. La ligne 997 fonctionne désormais 24 heures sur 24, 7 jours sur 7, vous pouvez donc l'appeler à tout moment. Depuis que le régime de 24 heures est entré en vigueur (à partir de septembre 2025), un appel au 997 compte comme une plainte policière officielle aux fins de la mesure de gel des fonds ; pour les réclamations d'assurance ou bancaires, une copie de la plainte policière officielle peut tout de même être demandée."
   - q: "Une plainte policière peut-elle être annulée ou supprimée plus tard ?"
     a: "Une plainte qui a déjà été enregistrée ne peut pas être supprimée des registres de la police. S'il y a de nouvelles informations, une erreur de fait ou une évolution de l'affaire, la bonne démarche consiste à déposer une plainte complémentaire faisant référence au numéro de la plainte initiale, et non à demander la suppression de la plainte initiale."
 
 lang: "fr"
-sourceContentHash: "0ae54502024bdaab"
+sourceContentHash: "ff7766437a2c7e62"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -54,24 +54,28 @@ reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-11
+    change: "Correction critique : la ligne NSRC 997 fonctionne désormais 24 heures sur 24 (confirmé par le portail officiel du gouvernement) et, depuis septembre 2025, un appel au 997 compte comme une plainte policière — remplacement de l'ancien horaire de 8h00 à 20h00 dans la réponse, les points clés, la FAQ, le tableau des canaux, le corps et les sources."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-11-11
 sources:
   - title: "Code de procédure pénale (Act 593), Chapitre XIII — Sections 107, 108, 108A, 110 ; Section 23 (arrestation sans mandat) (Criminal Procedure Code (Act 593), Chapter XIII — Seksyen 107, 108, 108A, 110; Seksyen 23)"
     url: "https://ccid.rmp.gov.my/Laws/Criminal_Prosedure_Code_Act_593.pdf"
     publisher: "Police royale de Malaisie (PDRM) — Département d'enquête sur la criminalité commerciale"
-  - title: "Centre national de réponse aux escroqueries (NSRC) — À propos du NSRC (la ligne 997 fonctionne de 8h00 à 20h00 ; une plainte policière distincte est requise dans les 24 heures) (National Scam Response Centre (NSRC) — About NSRC)"
+  - title: "Ligne directe NSRC 997 — fonctionne 24 heures sur 24 (portail officiel du gouvernement) (NSRC 997 Hotline — operates 24 hours daily)"
+    url: "https://www.malaysia.gov.my/en/topics/hotline-nsrc-997"
+    publisher: "Portail officiel du gouvernement de Malaisie (MyGovernment)"
+  - title: "Centre national de réponse aux escroqueries (NSRC) — À propos du NSRC (National Scam Response Centre (NSRC) — About NSRC)"
     url: "https://nfcc.jpm.gov.my/index.php/en/about-nsrc"
     publisher: "Centre national de prévention de la criminalité financière (NFCC), Département du Premier ministre"
-  - title: "Informations sur le NSRC — le 997 fonctionne de 8h00 à 20h00 ; « vous devez aussi déposer une plainte auprès de la police » (Maklumat mengenai NSRC)"
-    url: "https://nfcc.jpm.gov.my/index.php/en/component/content/article/nsrc-info-link?catid=11&Itemid=114"
-    publisher: "NFCC, Département du Premier ministre"
   - title: "La ligne anti-escroquerie 997 fonctionnera 24 heures sur 24, les appels seront traités comme des plaintes policières à partir de septembre (annonce du 26 juillet 2025) (997 Scam Hotline To Operate 24 Hours, Calls Treated As Police Reports From September)"
     url: "https://www.bernama.com/en/news.php?id=2449632"
     publisher: "Bernama"
@@ -125,7 +129,7 @@ peut retarder les secours.
 | **999 (MERS 999)** | Une urgence en cours | Police, pompiers, ambulance, protection civile, maritime | Un numéro pour cinq agences ; l'usage abusif est passible d'une amende pouvant aller jusqu'à RM500,000 |
 | **Poste de police** | À tout moment après l'incident | Tous les types d'infractions et de pertes | Gratuit ; ouvert 24 h/24 ; vous obtenez un numéro de plainte + une copie |
 | **e-Reporting** | Perte non liée à une infraction | Carte d'identité, permis, carte de guichet, téléphone, documents | Selon le portail officiel : citoyens malaisiens âgés de 18 ans et plus |
-| **997 (NSRC)** | Dès que vous êtes escroqué en ligne | Escroqueries financières, argent déplacé | Consignes officielles : de 8h00 à 20h00 ; une plainte policière distincte est tout de même requise |
+| **997 (NSRC)** | Dès que vous êtes escroqué en ligne | Escroqueries financières, argent déplacé | 24 heures sur 24 ; depuis sept. 2025, l'appel compte comme une plainte policière |
 
 ## Quand dois-je d'abord composer le 999 ?
 
@@ -264,19 +268,19 @@ et des entreprises de télécommunications dans une unique « salle de guerre »
 Lorsque vous appelez, ils s'efforcent d'éviter d'autres pertes et de retracer et
 geler les fonds volés avant que l'escroc ne les retire.
 
-Selon les consignes officielles du NSRC (consultées en août 2026), la ligne 997
-fonctionne de **8h00 à 20h00** tous les jours, jours fériés compris, et vous
-devez tout de même déposer une **plainte policière distincte** dans un délai de
-24 heures — sans plainte policière, la police ne peut pas mener d'actions de
-suivi.
+La ligne 997 fonctionne désormais **24 heures sur 24, 7 jours sur 7** — vous
+pouvez l'appeler à tout moment, jours fériés compris. Ce régime de 24 heures a
+été annoncé par le vice-ministre des Communications le 26 juillet 2025 et est
+entré en vigueur à partir de septembre 2025 ; le portail officiel du
+gouvernement (malaysia.gov.my) indique désormais que la ligne 997 fonctionne 24
+heures sur 24.
 
-Le 26 juillet 2025, le vice-ministre des Communications a annoncé qu'à partir de
-septembre 2025, la ligne fonctionnerait 24 heures sur 24 et que les appels au
-997 seraient comptés comme une plainte policière officielle. Cependant, lors de
-la vérification d'août 2026, ce régime n'est pas encore reflété dans les
-consignes officielles du NSRC, qui fixent toujours un horaire de 8h00 à 20h00 et
-l'exigence d'une plainte policière distincte. Confirmez l'état actuel avant de
-vous fier à la ligne en dehors de cet horaire.
+Depuis ce régime de 24 heures, **un appel au 997 compte comme une plainte
+policière officielle** aux fins du gel des fonds — ainsi, pour l'escroquerie
+elle-même, vous n'avez plus besoin de déposer une plainte distincte au poste
+avant que des mesures ne soient prises. Toutefois, pour les réclamations
+d'assurance ou bancaires, une copie de la plainte policière officielle peut tout
+de même être demandée, alors conservez chaque numéro de référence.
 
 La clé du succès est la rapidité : la meilleure chance de geler les fonds se
 situe dans les premières heures. Chaque minute d'attente donne à l'escroc le

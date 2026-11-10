@@ -12,14 +12,14 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "If a crime is in progress, dial 999 first. To make an official police report, go to any police station and give the information to the officer on duty; under Section 107 of the Criminal Procedure Code that oral information is reduced to writing, read back to you, and you sign it, after which you receive a report number and a copy. Loss of documents or items not linked to a crime (for example an identity card or licence) can be reported online through the PDRM e-Reporting portal. If you are scammed online and money has just moved, call 997 (NSRC) immediately — according to official NSRC guidance (checked August 2026), the line operates from 8.00 a.m. to 8.00 p.m. daily and you must still make a separate police report within 24 hours. (A 24-hour arrangement with calls counted as police reports was announced on 26 July 2025 to start September 2025, but is not yet reflected in official NSRC guidance.)"
+answer: "If a crime is in progress, dial 999 first. To make an official police report, go to any police station and give the information to the officer on duty; under Section 107 of the Criminal Procedure Code that oral information is reduced to writing, read back to you, and you sign it, after which you receive a report number and a copy. Loss of documents or items not linked to a crime (for example an identity card or licence) can be reported online through the PDRM e-Reporting portal. If you are scammed online and money has just moved, call 997 (NSRC) immediately — the line now operates 24 hours a day, seven days a week, and since the 24-hour arrangement took effect (from September 2025) a call to 997 counts as an official police report. Call as soon as possible at any time — the chance of freezing the funds is highest in the first few hours. (For insurance or bank claims, a certified copy of the official police report may still be requested.)"
 keyTakeaways:
   - "Section 107 of the Criminal Procedure Code requires oral information to be reduced to writing, read back to the informant, and signed by them"
   - "An emergency in progress: dial 999 — MERS 999 unifies five agencies (police, fire, hospital, civil defence, maritime) under a single number"
   - "Misusing the 999 line is punishable by a fine of up to RM500,000 or imprisonment of up to 2 years or both"
   - "Non-seizable cases under Section 108 — the officer will refer the complainant to a Magistrate"
   - "e-Reporting (ereporting.rmp.gov.my) for loss of documents or non-criminal items; according to the official portal, for Malaysian citizens aged 18 and above"
-  - "Online scams: call 997 (NSRC) immediately — official NSRC guidance (August 2026) states the line operates 8 a.m.–8 p.m. daily and a separate police report must still be made within 24 hours (the 24-hour arrangement announced in July 2025 is not yet confirmed as in force)"
+  - "Online scams: call 997 (NSRC) immediately, 24 hours a day — since September 2025 a call to 997 counts as an official police report (the official government portal lists the 997 line as operating 24 hours)"
   - "A certified copy of the report is admissible as evidence under Section 108A"
 appliesTo: "Anyone in Malaysia who is a victim or witness of a crime, has lost documents or items, or is a victim of a scam — citizen or non-citizen."
 
@@ -35,14 +35,14 @@ faq:
   - q: "What is the minimum age to use PDRM e-Reporting?"
     a: "According to the official e-Reporting portal (ereporting.rmp.gov.my), the system is for Malaysian citizens aged 18 and above who have internet access. Anyone who does not meet the online system's eligibility criteria can make a report at any police station."
   - q: "I have just realised I was scammed online and money has moved. Should I go to the station first?"
-    a: "Call 997 (National Scam Response Centre / NSRC) first, as quickly as possible — the best chance of freezing the funds is in the first few hours. According to official NSRC guidance (checked August 2026), this line operates from 8.00 a.m. to 8.00 p.m. daily and you must still make a separate police report within 24 hours so that follow-up action can be taken. (On 26 July 2025 it was announced that the line would operate 24 hours and calls would be counted as police reports from September 2025, but that arrangement is not yet reflected in the official guidance.)"
+    a: "Call 997 (National Scam Response Centre / NSRC) first, as quickly as possible — the best chance of freezing the funds is in the first few hours. The 997 line now operates 24 hours a day, seven days a week, so you can call it at any time. Since the 24-hour arrangement took effect (from September 2025), a call to 997 counts as an official police report for the purpose of fund-freezing action; for insurance or bank claims, a certified copy of the official police report may still be requested."
   - q: "Can a police report be cancelled or deleted later?"
     a: "A report that has been recorded cannot be deleted from police records. If there is new information, a factual error, or a development in the case, the correct approach is to make an additional report referring to the original report number, not to ask for the original report to be removed."
 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "0ae54502024bdaab"
+sourceContentHash: "ff7766437a2c7e62"
 
 verificationNeeded:
   - "The e-Reporting eligibility requirements (Malaysian citizen, aged 18 and above) and the full list of items that can be reported — the official portal ereporting.rmp.gov.my could not be reached for direct verification; confirm against the official portal."
@@ -54,24 +54,28 @@ reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-11
+    change: "Critical correction: the NSRC 997 line now operates 24/7 and, since September 2025, a call to 997 counts as an official police report — replaced the outdated 8 a.m.–8 p.m. hours and the separate-report requirement across the answer, key takeaways, FAQ, channel table, body and sources."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-11-11
 sources:
   - title: "Criminal Procedure Code (Act 593), Chapter XIII — Seksyen 107, 108, 108A, 110; Seksyen 23 (tangkap tanpa waran)"
     url: "https://ccid.rmp.gov.my/Laws/Criminal_Prosedure_Code_Act_593.pdf"
     publisher: "Polis DiRaja Malaysia (Jabatan Siasatan Jenayah Komersial)"
-  - title: "National Scam Response Centre (NSRC) — About NSRC (talian 997 beroperasi 8 pagi–8 malam; laporan polis berasingan diperlukan dalam 24 jam)"
+  - title: "NSRC 997 hotline — operates 24 hours daily (official government portal)"
+    url: "https://www.malaysia.gov.my/en/topics/hotline-nsrc-997"
+    publisher: "Official Malaysia Government Portal (MyGovernment)"
+  - title: "National Scam Response Centre (NSRC) — About NSRC"
     url: "https://nfcc.jpm.gov.my/index.php/en/about-nsrc"
-    publisher: "Pusat Anti Jenayah Kewangan Kebangsaan (NFCC), Jabatan Perdana Menteri"
-  - title: "Maklumat mengenai NSRC — 997 beroperasi 8.00 pagi–8.00 malam; 'anda juga perlu membuat laporan polis'"
-    url: "https://nfcc.jpm.gov.my/index.php/en/component/content/article/nsrc-info-link?catid=11&Itemid=114"
-    publisher: "NFCC, Jabatan Perdana Menteri"
+    publisher: "National Financial Crime Prevention Centre (NFCC), Prime Minister's Department"
   - title: "997 Scam Hotline To Operate 24 Hours, Calls Treated As Police Reports From September (pengumuman 26 Julai 2025)"
     url: "https://www.bernama.com/en/news.php?id=2449632"
     publisher: "Bernama"
@@ -108,7 +112,7 @@ Before anything else, work out your situation. These four channels are not free 
 | **999 (MERS 999)** | An emergency in progress | Police, fire, ambulance, civil defence, maritime | One number for five agencies; misuse can be fined up to RM500,000 |
 | **Police station** | Any time after the incident | All types of crime and loss | Free; open 24 hours; you get a report number + copy |
 | **e-Reporting** | Non-criminal loss | Identity card, licence, ATM card, phone, documents | According to the official portal: Malaysian citizens aged 18 and above |
-| **997 (NSRC)** | As soon as scammed online | Financial scams, money moved | Official guidance: 8 a.m.–8 p.m.; a separate police report is still required |
+| **997 (NSRC)** | As soon as scammed online | Financial scams, money moved | 24 hours a day; a call counts as a police report since Sept 2025 |
 
 ## When do I need to dial 999 first?
 
@@ -182,9 +186,9 @@ If you become a victim of an online financial scam and money has just moved, the
 
 The NSRC was established in October 2022 as an operations centre to coordinate a rapid response to online financial scams. It brings together the National Financial Crime Prevention Centre (NFCC), the Royal Malaysia Police, Bank Negara Malaysia, the Malaysian Communications and Multimedia Commission (MCMC), as well as financial institutions and telecommunications companies in a single "war room". When you call, they try to prevent further loss and to trace and freeze the stolen funds before the scammer withdraws them.
 
-According to official NSRC guidance (checked August 2026), the 997 line operates from **8.00 a.m. to 8.00 p.m.** daily including public holidays, and you must still make a **separate police report** within 24 hours — without a police report, follow-up action cannot be carried out by the police.
+The 997 line now operates **24 hours a day, seven days a week** — you can call it at any time, including on public holidays. This 24-hour arrangement was announced by the Deputy Minister of Communications on 26 July 2025 and took effect from September 2025; the official government portal (malaysia.gov.my) now lists the 997 line as operating 24 hours.
 
-On 26 July 2025, the Deputy Minister of Communications announced that from September 2025 the line would operate 24 hours and calls to 997 would be counted as an official police report. However, as of the August 2026 check, that arrangement is not yet reflected in the official NSRC guidance, which still sets operating hours of 8 a.m.–8 p.m. and the requirement of a separate police report. Confirm the current status before relying on the line outside those hours.
+Since that 24-hour arrangement, **a call to 997 counts as an official police report** for the purpose of freezing funds — so for the scam itself, you no longer need to make a separate report at the station before action is taken. However, for insurance or bank claims, a certified copy of the official police report may still be requested, so keep every reference number.
 
 The key to success is speed: the best chance of freezing the funds is in the first few hours. Every minute of waiting gives the scammer time to move the money to another account.
 

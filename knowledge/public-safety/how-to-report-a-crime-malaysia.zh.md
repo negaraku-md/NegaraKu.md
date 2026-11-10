@@ -12,14 +12,14 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "若罪案正在发生，请先拨打999。要正式报案，请前往任何一间警局，向值班警官提供资料；根据《刑事程序法典》第107条，口头资料会被记录成书面文件、向你复述一遍，由你签署，随后你会取得报案编号和一份副本。与罪案无关的文件或物品遗失（例如身份证或驾照）可通过PDRM e-Reporting线上报案。若遭线上诈骗且款项刚被转出，请立即拨打997（NSRC）——根据NSRC官方指南（2026年8月查阅），该专线每天早上8时至晚上8时运作，你仍须在24小时内另行报案。（2025年7月26日曾宣布将改为24小时运作、且来电视同报案，自2025年9月起生效，但此安排尚未反映在NSRC官方指南中。）"
+answer: "若罪案正在发生，请先拨打999。要正式报案，请前往任何一间警局，向值班警官提供资料；根据《刑事程序法典》第107条，口头资料会被记录成书面文件、向你复述一遍，由你签署，随后你会取得报案编号和一份副本。与罪案无关的文件或物品遗失（例如身份证或驾照）可通过PDRM e-Reporting线上报案。若遭线上诈骗且款项刚被转出，请立即拨打997（NSRC）——该专线如今全天24小时、每周7天运作，而且自24小时安排生效（2025年9月起）以来，拨打997即视同一份正式报案。请尽快于任何时间拨打——冻结资金的机会在最初几个小时内最高。（就保险或银行索赔而言，可能仍须提供经核证的正式报案副本。）"
 keyTakeaways:
   - "《刑事程序法典》第107条规定口头资料须记录成书面文件、向报案人复述并由其签署"
   - "正在发生的紧急情况：拨打999——MERS 999把五个机构（警察、消防、医院、民防、海事）统一在同一个号码之下"
   - "滥用999专线可被罚款高达RM500,000或监禁最高2年或两者兼施"
   - "不可侦查案件适用第108条——警官会将投诉人转介至推事（Majistret）"
   - "e-Reporting（ereporting.rmp.gov.my）用于非罪案性质的文件或物品遗失；根据官方门户，适用于18岁及以上的马来西亚公民"
-  - "线上诈骗：立即拨打997（NSRC）——NSRC官方指南（2026年8月）说明该专线每天早上8时至晚上8时运作，且仍须在24小时内另行报案（2025年7月宣布的24小时安排尚未确认生效）"
+  - "线上诈骗：立即拨打997（NSRC），全天24小时——自2025年9月起拨打997即视同一份正式报案（政府官方门户列明997专线24小时运作）"
   - "经核证的报案副本可依据第108A条作为证据被采纳"
 appliesTo: "在马来西亚成为罪案受害者或目击者、遗失文件或物品，或成为诈骗受害者的任何人——公民与非公民皆适用。"
 
@@ -35,14 +35,14 @@ faq:
   - q: "使用PDRM e-Reporting的最低年龄是多少？"
     a: "根据e-Reporting官方门户（ereporting.rmp.gov.my），该系统适用于18岁及以上、拥有互联网连接的马来西亚公民。不符合线上系统资格条件的人，可到任何一间警局报案。"
   - q: "我刚发现自己遭线上诈骗，款项已被转走。我应该先去警局吗？"
-    a: "请先尽快拨打997（国家诈骗应对中心／NSRC）——冻结资金的最佳时机是在最初的几个小时内。根据NSRC官方指南（2026年8月查阅），该专线每天早上8时至晚上8时运作，你仍须在24小时内另行报案，以便采取后续行动。（2025年7月26日曾宣布该专线将24小时运作、来电视同报案，自2025年9月起生效，但此安排尚未反映在官方指南中。）"
+    a: "请先尽快拨打997（国家诈骗应对中心／NSRC）——冻结资金的最佳时机是在最初的几个小时内。997专线如今全天24小时、每周7天运作，因此你可在任何时间拨打。自24小时安排生效（2025年9月起）以来，拨打997即视同一份正式报案，用于冻结资金的行动；就保险或银行索赔而言，可能仍须提供经核证的正式报案副本。"
   - q: "报案后可以撤销或删除吗？"
     a: "已记录的报案无法从警方记录中删除。若有新资料、事实错误或案情进展，正确的做法是提交一份引用原报案编号的补充报案，而非要求删除原报案。"
 
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "0ae54502024bdaab"
+sourceContentHash: "ff7766437a2c7e62"
 
 verificationNeeded:
   - "e-Reporting的资格条件（马来西亚公民、18岁及以上）及可举报事项的完整清单——官方门户ereporting.rmp.gov.my无法访问以直接核实；须根据官方门户核实。"
@@ -54,24 +54,28 @@ reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-11
+    change: "重要更正：NSRC 997专线如今全天24小时运作，且自2025年9月起拨打997即视同一份正式报案——已在答案、重点摘要、常见问答、渠道对照表、正文及来源中替换过时的早上8时至晚上8时运作时间与另行报案的要求。"
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-11-11
 sources:
   - title: "Criminal Procedure Code(第593号法令),第十三章 — 第107、108、108A、110条;第23条(无令状逮捕) (Criminal Procedure Code (Act 593), Chapter XIII — Seksyen 107, 108, 108A, 110; Seksyen 23 (tangkap tanpa waran))"
     url: "https://ccid.rmp.gov.my/Laws/Criminal_Prosedure_Code_Act_593.pdf"
     publisher: "马来西亚皇家警察(商业罪案调查部门)"
-  - title: "国家诈骗应对中心(NSRC) — 关于NSRC(997热线运作时间为早上8时至晚上8时;须在24小时内另行报警) (National Scam Response Centre (NSRC) — About NSRC (talian 997 beroperasi 8 pagi–8 malam; laporan polis berasingan diperlukan dalam 24 jam))"
+  - title: "NSRC 997热线 — 每日24小时运作(政府官方门户) (Hotline NSRC 997 — talian beroperasi 24 jam sehari (portal rasmi kerajaan))"
+    url: "https://www.malaysia.gov.my/en/topics/hotline-nsrc-997"
+    publisher: "马来西亚政府官方门户 (MyGovernment)"
+  - title: "国家诈骗应对中心(NSRC) — 关于NSRC (National Scam Response Centre (NSRC) — About NSRC)"
     url: "https://nfcc.jpm.gov.my/index.php/en/about-nsrc"
     publisher: "国家金融犯罪中心 (NFCC),首相署"
-  - title: "有关NSRC的资讯 — 997运作时间为早上8时至晚上8时;'您也需要报警' (Maklumat mengenai NSRC — 997 beroperasi 8.00 pagi–8.00 malam; 'anda juga perlu membuat laporan polis')"
-    url: "https://nfcc.jpm.gov.my/index.php/en/component/content/article/nsrc-info-link?catid=11&Itemid=114"
-    publisher: "NFCC,首相署"
   - title: "997诈骗热线将24小时运作,来电自9月起视同报案 (2025年7月26日公布) (997 Scam Hotline To Operate 24 Hours, Calls Treated As Police Reports From September (pengumuman 26 Julai 2025))"
     url: "https://www.bernama.com/en/news.php?id=2449632"
     publisher: "Bernama"
@@ -108,7 +112,7 @@ framework: how-to
 | **999 (MERS 999)** | 正在发生的紧急情况 | 警察、消防、救护车、民防、海事 | 一个号码对应五个机构；滥用可被罚款高达RM500,000 |
 | **警局** | 事发后任何时间 | 所有类型的罪案和遗失 | 免费；24小时开放；你会取得报案编号+副本 |
 | **e-Reporting** | 非罪案性质的遗失 | 身份证、驾照、ATM卡、手机、文件 | 根据官方门户：18岁及以上的马来西亚公民 |
-| **997 (NSRC)** | 一遭线上诈骗即拨打 | 金融诈骗、款项被转走 | 官方指南：早上8时–晚上8时；仍须另行报案 |
+| **997 (NSRC)** | 一遭线上诈骗即拨打 | 金融诈骗、款项被转走 | 全天24小时；自2025年9月起来电视同报案 |
 
 ## 何时该先拨打999？
 
@@ -182,9 +186,9 @@ MERS 999（Malaysia Emergency Response Services）是政府倡议，把马来西
 
 NSRC于2022年10月成立，作为协调对线上金融诈骗快速应对的行动中心。它整合了国家金融犯罪打击中心（NFCC）、马来西亚皇家警察、马来西亚国家银行、马来西亚通讯及多媒体委员会（SKMM），以及金融机构和电信公司于同一个"作战室"。当你致电时，他们会设法阻止进一步损失，并追踪和冻结被盗资金，赶在骗徒提走之前。
 
-根据NSRC官方指南（2026年8月查阅），997专线每天（包括公共假期）**早上8时至晚上8时**运作，而你仍须在24小时内**另行报案**——若无报案，警方将无法进行后续行动。
+997专线如今**全天24小时、每周7天**运作——你可在任何时间拨打，包括公共假期。此24小时安排由通讯部副部长于2025年7月26日宣布，并自2025年9月起生效；政府官方门户（malaysia.gov.my）如今列明997专线24小时运作。
 
-2025年7月26日，通讯部副部长宣布，自2025年9月起该专线将24小时运作，且拨打997将视同正式报案。然而截至2026年8月查阅时，此安排尚未反映在NSRC官方指南中，该指南仍规定运作时间为早上8时至晚上8时，并要求另行报案。在依赖该时段以外的专线之前，请先确认最新状态。
+自该24小时安排以来，**拨打997即视同一份正式报案**，用于冻结资金——因此就诈骗本身而言，你无须在警方采取行动前另行到警局报案。不过，就保险或银行索赔而言，可能仍须提供经核证的正式报案副本，因此请保存每一个参考编号。
 
 成功的关键在于速度：冻结资金的最佳时机是在最初的几个小时内。每等待一分钟，都给了骗徒把钱转到其他账户的时间。
 
