@@ -8,6 +8,9 @@ heroAlt: "Charcoal-grilled satay skewers served with peanut sauce, ketupat and c
 heroCredit: "PattayaPatrol / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3ADFC_2193_Sticky_char-grilled_skewers_of_savory_satay_glazed_in_a_rich_peanut_sauce_resting_on_a_banana_leaf.jpg"
+foodType: "dish"
+heroKind: "actual"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["dishes"]
 summary: "A guide to satay in Malaysia — turmeric-and-lemongrass-marinated chicken, beef and mutton skewers grilled over charcoal and dipped in peanut sauce, served with ketupat, cucumber and onion, from its Javanese-Malay roots to Satay Kajang and Melaka's satay celup."
