@@ -20,6 +20,8 @@ keyTakeaways:
   - "Người phá sản có thể được giải trừ theo ba cách: lệnh của tòa (s.33), giấy chứng nhận của DGI sau 5 năm (s.33A), hoặc giải trừ tự động sau 3 năm (s.33C)"
   - "Một công ty được coi là không thể trả nợ khi một yêu cầu luật định theo Điều 466 cho một khoản vượt quá RM50,000 không được trả trong 21 ngày — một ngưỡng có hiệu lực vĩnh viễn kể từ 1 April 2021 (nâng từ RM10,000)"
   - "Luật Công ty 2016 bổ sung các con đường cứu vãn — quản lý tư pháp (ss.403-430) và thỏa thuận tự nguyện của doanh nghiệp (s.395) — như những lựa chọn thay thế cho giải thể"
+  - "Một công ty có khoản nợ chủ yếu đối với các ngân hàng (từ RM10 triệu trở lên, ít nhất hai chủ nợ tài chính) có thể tái cơ cấu ngoài tòa thông qua Ủy ban Tái cơ cấu Nợ Doanh nghiệp (CDRC) của Bank Negara, vốn ràng buộc các bên cho vay tham gia một khi 75% theo giá trị đồng ý"
+  - "Khi một công ty tiến gần đến mất khả năng thanh toán, nghĩa vụ của giám đốc dịch chuyển về phía chủ nợ; tiếp tục kinh doanh có thể khiến họ chịu trách nhiệm cá nhân, vô hạn vì giao dịch gian lận hoặc một tội danh vì giao dịch sai trái/khi mất khả năng thanh toán — lý do để hành động sớm"
 appliesTo: "Con nợ, giám đốc, chủ nợ, người bảo lãnh và cố vấn cần hiểu điều gì xảy ra tại Malaysia khi một cá nhân hoặc một công ty không thể trả nợ."
 
 faq:
@@ -32,10 +34,12 @@ faq:
   - q: "Sự khác biệt giữa giải thể và phá sản là gì?"
     a: "Phá sản áp dụng cho cá nhân theo Luật Mất khả năng Thanh toán 1967; giải thể (thanh lý) áp dụng cho công ty theo Luật Công ty 2016. Một công ty có thể được giải thể tự nguyện bởi các thành viên hoặc chủ nợ, hoặc bắt buộc bởi lệnh của tòa — thường sau một yêu cầu luật định theo Điều 466 không được trả cho một khoản nợ vượt quá RM50,000."
   - q: "Có cách nào để cứu một công ty đang gặp khó thay vì thanh lý nó không?"
-    a: "Có. Luật Công ty 2016 giới thiệu các cơ chế cứu vãn: quản lý tư pháp (Điều 403-430), theo đó một quản lý viên tư pháp do tòa chỉ định điều hành công ty dưới một lệnh hoãn thi hành, và thỏa thuận tự nguyện của doanh nghiệp (Điều 395). Một kế hoạch dàn xếp theo Điều 366 cũng cho phép một công ty ràng buộc các chủ nợ vào một thỏa hiệp với 75% chấp thuận theo giá trị và sự phê chuẩn của tòa."
+    a: "Có. Luật Công ty 2016 giới thiệu các cơ chế cứu vãn: quản lý tư pháp (Điều 403-430), theo đó một quản lý viên tư pháp do tòa chỉ định điều hành công ty dưới một lệnh hoãn thi hành, và thỏa thuận tự nguyện của doanh nghiệp (Điều 395). Một kế hoạch dàn xếp theo Điều 366 cũng cho phép một công ty ràng buộc các chủ nợ vào một thỏa hiệp với 75% chấp thuận theo giá trị và sự phê chuẩn của tòa. Đối với các công ty có khoản nợ chủ yếu đối với các ngân hàng, Ủy ban Tái cơ cấu Nợ Doanh nghiệp (CDRC) của Bank Negara mang lại một lựa chọn thay thế ngoài tòa."
+  - q: "Giám đốc đối mặt với rủi ro cá nhân nào nếu công ty không thể trả nợ?"
+    a: "Khi một công ty tiến gần đến mất khả năng thanh toán, giám đốc được kỳ vọng đặt lợi ích của chủ nợ lên trước, và việc tiếp tục kinh doanh có thể tạo ra trách nhiệm cá nhân. Nếu doanh nghiệp được tiến hành nhằm lừa gạt chủ nợ, tòa có thể buộc những người cố ý tham gia chịu trách nhiệm cá nhân, không giới hạn, đối với các khoản nợ của công ty (giao dịch gian lận); và việc một cán bộ gánh một khoản nợ mà không có kỳ vọng hợp lý rằng công ty có thể trả là một tội danh (giao dịch sai trái hoặc khi mất khả năng thanh toán). Đây là lý do giám đốc được khuyên nên tìm một cơ chế cứu vãn sớm thay vì tiếp tục kinh doanh trong trạng thái rỗng — làm vậy bảo vệ chủ nợ và giảm phơi nhiễm của chính họ."
 
 lang: "vi"
-sourceContentHash: "b7a5e72bb5b7b503"
+sourceContentHash: "727b118f75f2f441"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -44,20 +48,25 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-10
+    change: "Added corporate-rescue depth (CDRC, receivership, director personal-liability for fraudulent/wrongful trading, a route-selection frame) and flagged the Companies (Amendment) Act 2024 reforms."
+    reviewer: null
 
 verificationNeeded:
   - "Việc giải trừ theo Điều 33A là bằng giấy chứng nhận của Tổng Giám đốc Mất khả năng Thanh toán một khi người đó đã là người phá sản trong ít nhất năm năm (được giới thiệu bởi Luật Mất khả năng Thanh toán (Sửa đổi) 2023); hãy xác nhận đầy đủ các điều kiện đủ tư cách hiện hành so với hướng dẫn của Cục Mất khả năng Thanh toán Malaysia."
-  - "Xác nhận ngưỡng nợ hiện hành theo Điều 466(1)(a) (vượt quá RM50,000, có hiệu lực kể từ 1 April 2021 không có ngày hết hạn) so với lệnh quy định được đăng công báo mới nhất trước khi dựa vào nó."
-  - "Xác nhận các điều khoản cứu vãn doanh nghiệp và các tham chiếu của chúng (quản lý tư pháp ss.403-430, CVA s.395, kế hoạch dàn xếp s.366, thời hạn 180 ngày, đa số 75% theo giá trị) so với bản in lại hiện hành của Luật Công ty 2016."
   - "Xác nhận đích đồ thị tri thức đúng cho cơ quan quản lý (Cục Mất khả năng Thanh toán Malaysia / Tổng Giám đốc Mất khả năng Thanh toán); quan hệ administered-by trước đó với Attorney General's Chambers đã bị loại bỏ do không có căn cứ."
+  - "Luật Công ty (Sửa đổi) 2024 đã định hình lại chế độ cứu vãn doanh nghiệp (đáng chú ý là mở rộng khả năng tiếp cận CVA và điều chỉnh các quy tắc về kế hoạch dàn xếp/lệnh hoãn thi hành), nhưng một số điều khoản đã có hiệu lực và các điều khoản khác còn chờ ngày khởi động. Các nguồn mâu thuẫn về chính xác điều khoản nào đang vận hành; bài viết nêu cơ sở trước sửa đổi và đánh dấu cải cách thay vì khẳng định vị trí đã sửa đổi là đang có hiệu lực. Hãy xác nhận trạng thái khởi động hiện hành so với thông báo của SSM/công báo trước khi nêu công ty nào có thể dùng công cụ nào."
+  - "Điều kiện đủ tư cách của CDRC (tổng nợ từ RM10 triệu trở lên; ít nhất hai chủ nợ tài chính; ràng buộc theo 75% giá trị) được giữ giống hệt bài hợp nhất nợ (debt-consolidation) bên tài chính và lấy từ cổng thông tin chính phủ và bình luận pháp lý, không phải từ một trang BNM/CDRC được truy xuất trực tiếp; hãy xác minh so với Bộ Quy tắc Ứng xử CDRC hiện hành."
+  - "Các điểm về trách nhiệm cá nhân của giám đốc — giao dịch gian lận (trách nhiệm cá nhân vô hạn khi có sự gian dối) và giao dịch sai trái/khi mất khả năng thanh toán (một tội danh) theo Luật Công ty 2016 — được nêu ở mức nguyên tắc từ bình luận của hãng luật; các điều khoản chính xác (được báo cáo là s540 và s539) chưa được xác nhận so với bản in lại Đạo luật 777 của AGC và không được trích dẫn bằng số trong phần thân bài."
 
-updated: 2026-10-26
+updated: 2026-11-10
 sources:
   - title: "Cục Phá sản Malaysia (Jabatan Insolvensi Malaysia) — cổng thông tin chính thức (Malaysian Department of Insolvency (Jabatan Insolvensi Malaysia) — official portal)"
     url: "https://www.mdi.gov.my/"
@@ -83,6 +92,15 @@ sources:
   - title: "Yêu cầu Thanh toán theo Luật định so với Giải thể (Malaysia) (Statutory Demand vs Winding Up (Malaysia))"
     url: "https://globallawexperts.com/statutory-demand-vs-winding-up-malaysia/"
     publisher: "Global Law Experts"
+  - title: "Ủy ban Tái cơ cấu Nợ Doanh nghiệp — khởi động hoạt động (Corporate Debt Restructuring Committee — commencement of operations)"
+    url: "https://www.bnm.gov.my/-/corporate-debt-restructuring-committee-operations"
+    publisher: "Bank Negara Malaysia"
+  - title: "Câu hỏi thường gặp: Luật Công ty (Sửa đổi) 2024 (FAQ: Companies (Amendment) Act 2024)"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
+    publisher: "Ủy ban Công ty Malaysia (SSM)"
+  - title: "Tổng quan về Luật Giao dịch Gian lận (An Overview of the Law on Fraudulent Trading)"
+    url: "https://www.skrine.com/insights/newsletter/legal-insights-issue-1-2021/an-overview-of-the-law-on-fraudulent-trading"
+    publisher: "Skrine (Advocates & Solicitors)"
   - title: "Từ ngày 1 tháng 4 năm 2021, ngưỡng nợ phải vượt RM50,000 để nộp đơn yêu cầu giải thể theo S. 466(1)(a) (Debt Threshold Must Exceed RM50,000 to File Winding Up Petition under S. 466(1)(a) from 1 April 2021)"
     url: "https://www.skrine.com/insights/alerts/april-2021/debt-threshold-must-exceed-rm50-000-to-file-windin"
     publisher: "Skrine (Advocates & Solicitors)"
@@ -155,6 +173,40 @@ Từ đó, một công ty gặp khó khăn có thể hướng đến thanh lý h
 **Quản lý tư pháp** (Điều 403-430) là công cụ chủ lực. Tòa chỉ định một hành nghề viên về mất khả năng thanh toán có đủ điều kiện làm **quản lý viên tư pháp** để tiếp quản việc điều hành công ty, và một **lệnh hoãn thi hành** tự động đóng băng việc thi hành của chủ nợ để doanh nghiệp có không gian thở. Tòa chỉ cấp lệnh quản lý tư pháp nếu công ty đang hoặc sẽ không thể trả nợ, có khả năng hợp lý phục hồi nó, và quản lý tư pháp sẽ phục vụ chủ nợ tốt hơn giải thể. Quản lý viên có đến **180 ngày** — có thể gia hạn — để trình một đề xuất cứu vãn cho các chủ nợ.
 
 Bên cạnh nó là hai công cụ nhẹ hơn. Một **kế hoạch dàn xếp theo Điều 366** cho phép một công ty ràng buộc mọi chủ nợ của mình vào một thỏa hiệp khi một đa số đại diện cho ít nhất **75% theo giá trị** bỏ phiếu ủng hộ và tòa phê chuẩn nó, với một lệnh hạn chế theo Điều 368 có sẵn để cản chủ nợ trong khi thương lượng. **Thỏa thuận tự nguyện của doanh nghiệp theo Điều 395** đạt được một thỏa thuận ràng buộc phần lớn không cần tòa, khiến nó rẻ hơn và nhanh hơn cho các công ty nhỏ hơn có chủ nợ hợp tác.
+
+## Ngoài tòa trước tiên: CDRC
+
+Đối với một công ty có khoản nợ chủ yếu đối với các ngân hàng, lựa chọn nhanh nhất và rẻ nhất thường là tránh tòa án hoàn toàn. Bank Negara Malaysia vận hành **Ủy ban Tái cơ cấu Nợ Doanh nghiệp (CDRC)**, một nền tảng ngoài tòa, tự nguyện làm trung gian giữa một công ty còn khả thi và các chủ nợ tài chính của nó. Nó mở cho các doanh nghiệp có **tổng nợ từ RM10 triệu trở lên và ít nhất hai chủ nợ tài chính**, và một khi các bên cho vay nắm giữ **75% theo giá trị** đồng ý một kế hoạch tái cơ cấu, nó ràng buộc mọi chủ nợ tài chính tham gia. Vì nó né tránh một quy trình tòa án, CDRC thường là con đường đầu tiên cần cân nhắc khi vấn đề là nợ ngân hàng chứ không phải chủ nợ thương mại hay chủ nợ luật định. (Đối với phía người tiêu dùng và doanh nghiệp nhỏ của việc tái cơ cấu nợ — bao gồm sự trợ giúp miễn phí từ AKPK — hãy xem [hợp nhất và tái cơ cấu nợ](/finance/debt-consolidation-restructuring-malaysia).)
+
+## Khi một chủ nợ có bảo đảm hành động trước: quản lý tài sản thế chấp (receivership)
+
+Cứu vãn không phải lúc nào cũng là lựa chọn của công ty. Một **chủ nợ có bảo đảm** — thường là một người nắm giữ trái phiếu có một khoản bảo đảm trên tài sản của công ty — có thể chỉ định một **người quản lý tài sản (receiver)** (hoặc người quản lý và điều hành tài sản) để nắm quyền kiểm soát các tài sản được bảo đảm và biến chúng thành tiền nhằm thu hồi khoản nợ của mình. Quản lý tài sản thế chấp (receivership) là một công cụ **thi hành**, không phải cứu vãn toàn bộ công ty: người quản lý tài sản hành động cho chủ nợ có bảo đảm, và một khoản bảo đảm động (floating charge) phải đã kết tinh (crystallise) trước khi người quản lý tài sản có thể với tới các tài sản đó. Do đó một bên cho vay có bảo đảm chiếm ưu thế đơn lẻ có thể giành trước các lựa chọn khác ở trên.
+
+## Phơi nhiễm thực sự của giám đốc — vì sao hành động sớm lại quan trọng
+
+Điểm quan trọng nhất đối với một giám đốc là mang tính cá nhân. Khi một công ty trượt dần đến mất khả năng thanh toán, luật kỳ vọng giám đốc dịch chuyển trọng tâm nghĩa vụ của mình **từ cổ đông sang chủ nợ**, và việc cứ tiếp tục kinh doanh bất kể điều đó mang theo rủi ro cá nhân:
+
+- **Giao dịch gian lận** — nếu doanh nghiệp được tiến hành với ý định lừa gạt chủ nợ, tòa có thể tuyên những người cố ý tham gia vào đó **chịu trách nhiệm cá nhân, không giới hạn**, đối với các khoản nợ của công ty. Nó đòi hỏi sự gian dối, nên chỉ một người thật (không phải công ty) mới có thể bị quy kết ý định đó.
+- **Giao dịch sai trái hoặc khi mất khả năng thanh toán** — việc một cán bộ gánh một khoản nợ khi không có kỳ vọng hợp lý hay có xác suất rằng công ty có thể trả là một tội danh.
+
+Đây là lý do lời khuyên luôn là **hành động sớm**. Vận dụng một cơ chế cứu vãn khi doanh nghiệp còn là một thực thể đang hoạt động vừa cải thiện khả năng thu hồi của chủ nợ vừa giảm rủi ro rằng việc kinh doanh sau này bị phán xét là gian lận hay sai trái. Chờ cho đến khi cạn tiền thu hẹp các lựa chọn xuống còn thanh lý — và mở rộng phơi nhiễm cá nhân của một giám đốc.
+
+## Con đường nào, khi nào
+
+Không có cơ chế đơn lẻ nào phù hợp với mọi công ty gặp khó. Như một hướng dẫn sơ bộ:
+
+| Tình huống | Con đường khả dĩ |
+| --- | --- |
+| Doanh nghiệp vẫn còn khả thi; nợ chủ yếu đối với ngân hàng (RM10 triệu trở lên, từ 2 bên cho vay) | CDRC — rẻ nhất, ngoài tòa |
+| Công ty tư nhân nhỏ hơn, chủ nợ hợp tác, muốn giữ quyền kiểm soát | Thỏa thuận tự nguyện của doanh nghiệp |
+| Cần một quản lý viên độc lập và một lệnh hoãn thi hành của tòa đối với nhiều chủ nợ | Quản lý tư pháp |
+| Tái cơ cấu lớn hoặc phức tạp; hội đồng quản trị muốn giữ quyền kiểm soát | Kế hoạch dàn xếp |
+| Một bên cho vay có bảo đảm chiếm ưu thế đơn lẻ thi hành | Quản lý tài sản thế chấp (thường không phải lựa chọn của công ty) |
+| Không có cứu vãn thực tế nào | Giải thể — lưu ý trách nhiệm của giám đốc đối với giai đoạn trước đó |
+
+## Một chế độ đang chuyển tiếp
+
+Khung cứu vãn doanh nghiệp đang được định hình lại bởi **Luật Công ty (Sửa đổi) 2024** (Companies (Amendment) Act 2024), vốn, trong số những điều khác, mở rộng khả năng tiếp cận thỏa thuận tự nguyện của doanh nghiệp và điều chỉnh các quy tắc về lệnh hoãn thi hành và kế hoạch dàn xếp. **Một số điều khoản của nó đã có hiệu lực và các điều khoản khác còn chờ ngày khởi động**, nên vị trí hiện hành chính xác — bao gồm công ty nào có thể dùng công cụ nào — nên được xác nhận so với bản in lại mới nhất của Luật Công ty 2016 và với một hành nghề viên về mất khả năng thanh toán có giấy phép trước khi hành động.
 
 ## Tiếp theo
 

@@ -20,6 +20,8 @@ keyTakeaways:
   - "Seseorang bankrap boleh dilepaskan melalui tiga cara: perintah mahkamah (s.33), sijil KPI selepas 5 tahun (s.33A), atau pelepasan automatik selepas 3 tahun (s.33C)"
   - "Sesebuah syarikat disifatkan tidak mampu membayar hutangnya sebaik sahaja tuntutan berkanun Seksyen 466 bagi jumlah melebihi RM50,000 tidak dijelaskan dalam tempoh 21 hari — satu ambang yang kekal berkuat kuasa sejak 1 April 2021 (dinaikkan daripada RM10,000)"
   - "Akta Syarikat 2016 menambah laluan penyelamatan — pengurusan kehakiman (ss.403-430) dan aturan sukarela korporat (s.395) — sebagai alternatif kepada penggulungan"
+  - "Sesebuah syarikat yang hutangnya terutama kepada bank (RM10 juta atau lebih, sekurang-kurangnya dua pemiutang kewangan) boleh menyusun semula di luar mahkamah melalui Jawatankuasa Penyusunan Semula Hutang Korporat (CDRC) Bank Negara, yang mengikat pemberi pinjaman yang mengambil bahagian sebaik sahaja 75% mengikut nilai bersetuju"
+  - "Apabila sesebuah syarikat menghampiri insolvensi, kewajipan pengarah beralih ke arah pemiutang; terus berdagang boleh mendedahkan mereka kepada liabiliti peribadi tanpa had bagi perdagangan fraud atau satu kesalahan bagi perdagangan salah/insolven — sebab untuk bertindak awal"
 appliesTo: "Penghutang, pengarah, pemiutang, penjamin dan penasihat yang perlu memahami apa yang berlaku di Malaysia apabila seseorang individu atau sesebuah syarikat tidak mampu membayar hutangnya."
 
 faq:
@@ -32,10 +34,12 @@ faq:
   - q: "Apakah perbezaan antara penggulungan dan kebankrapan?"
     a: "Kebankrapan terpakai kepada individu di bawah Akta Insolvensi 1967; penggulungan (likuidasi) terpakai kepada syarikat di bawah Akta Syarikat 2016. Sesebuah syarikat boleh digulung secara sukarela oleh ahli atau pemiutangnya, atau secara paksa melalui perintah mahkamah — selalunya selepas tuntutan berkanun Seksyen 466 yang tidak dijelaskan bagi hutang melebihi RM50,000."
   - q: "Adakah cara untuk menyelamatkan syarikat yang bergelut selain daripada melikuidasikannya?"
-    a: "Ya. Akta Syarikat 2016 memperkenalkan mekanisme penyelamatan: pengurusan kehakiman (Seksyen 403-430), di mana pengurus kehakiman yang dilantik mahkamah menjalankan syarikat di bawah satu moratorium, dan aturan sukarela korporat (Seksyen 395). Skim susunan di bawah Seksyen 366 juga membolehkan sesebuah syarikat mengikat pemiutang kepada satu kompromi dengan kelulusan 75% mengikut nilai dan pengesahan mahkamah."
+    a: "Ya. Akta Syarikat 2016 memperkenalkan mekanisme penyelamatan: pengurusan kehakiman (Seksyen 403-430), di mana pengurus kehakiman yang dilantik mahkamah menjalankan syarikat di bawah satu moratorium, dan aturan sukarela korporat (Seksyen 395). Skim susunan di bawah Seksyen 366 juga membolehkan sesebuah syarikat mengikat pemiutang kepada satu kompromi dengan kelulusan 75% mengikut nilai dan pengesahan mahkamah. Bagi syarikat yang hutangnya terutama kepada bank, Jawatankuasa Penyusunan Semula Hutang Korporat (CDRC) Bank Negara menawarkan satu alternatif di luar mahkamah."
+  - q: "Apakah risiko peribadi yang dihadapi oleh seorang pengarah jika syarikat tidak mampu membayar hutangnya?"
+    a: "Apabila sesebuah syarikat menghampiri insolvensi, pengarah dijangka mengutamakan kepentingan pemiutang, dan terus berdagang boleh menimbulkan liabiliti peribadi. Jika perniagaan dijalankan untuk menipu pemiutang, mahkamah boleh menjadikan mereka yang secara sedar terlibat bertanggungan secara peribadi, tanpa had, bagi hutang syarikat (perdagangan fraud); dan ia merupakan satu kesalahan bagi seorang pegawai untuk menanggung hutang tanpa jangkaan yang munasabah bahawa syarikat itu mampu membayarnya (perdagangan salah atau insolven). Inilah sebabnya pengarah dinasihatkan supaya mencari mekanisme penyelamatan lebih awal dan bukannya terus berdagang tanpa dana — berbuat demikian melindungi pemiutang dan mengurangkan pendedahan mereka sendiri."
 
 lang: "ms"
-sourceContentHash: "b7a5e72bb5b7b503"
+sourceContentHash: "727b118f75f2f441"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -44,20 +48,25 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-10
+    change: "Added corporate-rescue depth (CDRC, receivership, director personal-liability for fraudulent/wrongful trading, a route-selection frame) and flagged the Companies (Amendment) Act 2024 reforms."
+    reviewer: null
 
 verificationNeeded:
   - "Pelepasan Section 33A ialah melalui sijil Ketua Pengarah Insolvensi sebaik sahaja seseorang itu telah menjadi bankrap sekurang-kurangnya lima tahun (diperkenalkan oleh Akta Insolvensi (Pindaan) 2023); sahkan syarat kelayakan semasa yang lengkap terhadap panduan Jabatan Insolvensi Malaysia."
-  - "Sahkan ambang keberhutangan seksyen 466(1)(a) semasa (melebihi RM50,000, berkuat kuasa sejak 1 April 2021 tanpa tarikh luput) terhadap perintah preskripsi terkini yang diwartakan sebelum bergantung padanya."
-  - "Sahkan peruntukan penyelamatan korporat dan rujukannya (pengurusan kehakiman ss.403-430, CVA s.395, skim susunan s.366, tempoh 180 hari, majoriti 75% mengikut nilai) terhadap cetakan semula Companies Act 2016 semasa."
   - "Sahkan sasaran graf pengetahuan yang betul bagi badan pentadbir (Jabatan Insolvensi Malaysia / Ketua Pengarah Insolvensi); hubungan ditadbir-oleh yang terdahulu kepada Jabatan Peguam Negara telah dikeluarkan kerana tidak disokong."
+  - "Akta Syarikat (Pindaan) 2024 membentuk semula rejim penyelamatan korporat (terutamanya meluaskan akses CVA dan menyelaraskan peraturan skim/moratorium), tetapi sebahagian peruntukannya berkuat kuasa dan yang lain menunggu tarikh permulaan. Sumber-sumber bercanggah tentang peruntukan mana sebenarnya yang beroperasi; artikel ini menyatakan garis dasar pra-pindaan dan menandakan pembaharuan itu dan bukannya menegaskan kedudukan terpinda sebagai berkuat kuasa. Sahkan status permulaan semasa terhadap notis SSM/warta sebelum menyatakan syarikat mana boleh menggunakan alat yang mana."
+  - "Kelayakan CDRC (hutang agregat RM10 juta atau lebih; sekurang-kurangnya dua pemiutang kewangan; mengikat pada 75% mengikut nilai) dikekalkan sama seperti artikel kembar penyatuan hutang kewangan dan diambil daripada portal kerajaan serta ulasan undang-undang, bukan daripada halaman BNM/CDRC yang diambil secara langsung; sahkan terhadap Kod Etika CDRC semasa."
+  - "Isu liabiliti peribadi pengarah — perdagangan fraud (liabiliti peribadi tanpa had atas ketidakjujuran) dan perdagangan salah/insolven (satu kesalahan) di bawah Akta Syarikat 2016 — dinyatakan pada peringkat prinsip daripada ulasan firma guaman; seksyen tepatnya (dilaporkan sebagai s540 dan s539) tidak disahkan terhadap cetakan semula AGC Akta 777 dan tidak disebut mengikut nombor dalam badan artikel."
 
-updated: 2026-10-26
+updated: 2026-11-10
 sources:
   - title: "Jabatan Insolvensi Malaysia — portal rasmi (Malaysian Department of Insolvency (Jabatan Insolvensi Malaysia) — official portal)"
     url: "https://www.mdi.gov.my/"
@@ -83,6 +92,15 @@ sources:
   - title: "Tuntutan Berkanun lawan Penggulungan (Malaysia) (Statutory Demand vs Winding Up (Malaysia))"
     url: "https://globallawexperts.com/statutory-demand-vs-winding-up-malaysia/"
     publisher: "Global Law Experts"
+  - title: "Jawatankuasa Penyusunan Semula Hutang Korporat — permulaan operasi (Corporate Debt Restructuring Committee — commencement of operations)"
+    url: "https://www.bnm.gov.my/-/corporate-debt-restructuring-committee-operations"
+    publisher: "Bank Negara Malaysia"
+  - title: "Soalan Lazim: Akta Syarikat (Pindaan) 2024 (FAQ: Companies (Amendment) Act 2024)"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
+    publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Gambaran Keseluruhan Undang-Undang mengenai Perdagangan Fraud (An Overview of the Law on Fraudulent Trading)"
+    url: "https://www.skrine.com/insights/newsletter/legal-insights-issue-1-2021/an-overview-of-the-law-on-fraudulent-trading"
+    publisher: "Skrine (Advocates & Solicitors)"
   - title: "Ambang Hutang Mesti Melebihi RM50,000 untuk Memfailkan Petisyen Penggulungan di bawah S. 466(1)(a) mulai 1 April 2021 (Debt Threshold Must Exceed RM50,000 to File Winding Up Petition under S. 466(1)(a) from 1 April 2021)"
     url: "https://www.skrine.com/insights/alerts/april-2021/debt-threshold-must-exceed-rm50-000-to-file-windin"
     publisher: "Skrine (Advocates & Solicitors)"
@@ -155,6 +173,40 @@ Di sinilah Akta Syarikat 2016 menandakan satu perubahan sebenar. Undang-undang l
 **Pengurusan kehakiman** (Seksyen 403-430) ialah alat utama. Mahkamah melantik seorang pengamal insolvensi yang berkelayakan sebagai **pengurus kehakiman** untuk mengambil alih pengurusan syarikat, dan satu **moratorium** automatik membekukan penguatkuasaan pemiutang supaya perniagaan mendapat ruang bernafas. Mahkamah memberikan perintah pengurusan kehakiman hanya jika syarikat itu tidak mampu atau tidak akan mampu membayar hutangnya, terdapat kebarangkalian munasabah untuk memulihkannya, dan pengurusan kehakiman akan memberi manfaat lebih baik kepada pemiutang berbanding penggulungan. Pengurus mempunyai sehingga **180 hari** — boleh dilanjutkan — untuk mengemukakan cadangan penyelamatan kepada pemiutang.
 
 Di sampingnya terdapat dua alat yang lebih ringan. Satu **skim susunan di bawah Seksyen 366** membolehkan sesebuah syarikat mengikat semua pemiutangnya kepada satu kompromi sebaik sahaja majoriti yang mewakili sekurang-kurangnya **75% mengikut nilai** mengundi menyokongnya dan mahkamah mengesahkannya, dengan perintah sekatan di bawah Seksyen 368 tersedia untuk menahan pemiutang semasa rundingan. **Aturan sukarela korporat di bawah Seksyen 395** mencapai perjanjian yang mengikat sebahagian besarnya tanpa mahkamah, yang menjadikannya lebih murah dan lebih pantas untuk syarikat yang lebih kecil dengan pemiutang yang bekerjasama.
+
+## Di luar mahkamah dahulu: CDRC
+
+Bagi sesebuah syarikat yang hutangnya terutama kepada bank, pilihan yang paling pantas dan paling murah selalunya adalah mengelak mahkamah sepenuhnya. Bank Negara Malaysia mengendalikan **Jawatankuasa Penyusunan Semula Hutang Korporat (CDRC)**, satu platform sukarela di luar mahkamah yang menjadi pengantara antara syarikat yang berdaya maju dengan pemiutang kewangannya. Ia terbuka kepada perniagaan dengan **hutang agregat RM10 juta atau lebih dan sekurang-kurangnya dua pemiutang kewangan**, dan sebaik sahaja pemberi pinjaman yang memegang **75% mengikut nilai** bersetuju dengan skim penyusunan semula, ia mengikat semua pemiutang kewangan yang mengambil bahagian. Oleh sebab ia mengelak proses mahkamah, CDRC lazimnya merupakan laluan pertama yang perlu dipertimbangkan apabila masalahnya ialah hutang bank dan bukannya pemiutang dagangan atau pemiutang berkanun. (Bagi aspek pengguna dan perniagaan kecil dalam penyusunan semula hutang — termasuk bantuan percuma daripada AKPK — lihat [penyatuan dan penyusunan semula hutang](/finance/debt-consolidation-restructuring-malaysia).)
+
+## Apabila pemiutang bercagar bertindak dahulu: penerimaan
+
+Penyelamatan tidak semestinya pilihan syarikat. Seorang **pemiutang bercagar** — lazimnya pemegang debentur dengan gadaian ke atas aset syarikat — boleh melantik seorang **penerima** (atau penerima dan pengurus) untuk mengambil kawalan aset yang digadai dan merealisasikannya bagi mendapatkan semula hutangnya. Penerimaan ialah alat **penguatkuasaan**, bukan penyelamatan seluruh syarikat: penerima bertindak bagi pihak pemiutang bercagar, dan gadaian terapung mesti telah mengristal sebelum penerima boleh mencapai aset tersebut. Oleh itu, seorang pemberi pinjaman bercagar tunggal yang dominan boleh mendahului pilihan-pilihan lain di atas.
+
+## Pendedahan sebenar pengarah — mengapa bertindak awal itu penting
+
+Perkara yang paling penting bagi seorang pengarah ialah hal peribadi. Apabila sesebuah syarikat menghampiri insolvensi, undang-undang menjangkakan pengarah mengalihkan fokus kewajipan mereka **daripada pemegang saham kepada pemiutang**, dan terus berdagang tanpa menghiraukannya membawa risiko peribadi:
+
+- **Perdagangan fraud** — jika perniagaan dijalankan dengan niat untuk menipu pemiutang, mahkamah boleh mengisytiharkan mereka yang secara sedar terlibat dengannya **bertanggungan secara peribadi, tanpa had**, bagi hutang syarikat. Ia memerlukan ketidakjujuran, jadi hanya seorang individu sebenar (bukan syarikat) yang boleh dipertanggungjawabkan dengan niat itu.
+- **Perdagangan salah atau insolven** — ia merupakan satu kesalahan bagi seorang pegawai untuk menanggung hutang apabila tiada jangkaan yang munasabah atau berkemungkinan bahawa syarikat itu mampu membayarnya.
+
+Inilah sebabnya nasihatnya sentiasa untuk **bertindak awal**. Menggunakan mekanisme penyelamatan semasa perniagaan masih merupakan usaha berterusan bukan sahaja meningkatkan perolehan semula pemiutang tetapi juga mengurangkan risiko bahawa perdagangan yang kemudian dinilai sebagai fraud atau salah. Menunggu sehingga wang tunai kehabisan menyempitkan pilihan kepada likuidasi — dan meluaskan pendedahan peribadi seorang pengarah.
+
+## Laluan mana, bila
+
+Tiada satu mekanisme pun yang sesuai untuk setiap syarikat yang bermasalah. Sebagai panduan kasar:
+
+| Situasi | Laluan yang berkemungkinan |
+| --- | --- |
+| Perniagaan masih berdaya maju; hutang terutama kepada bank (RM10j+, 2+ pemberi pinjaman) | CDRC — paling murah, di luar mahkamah |
+| Syarikat persendirian yang lebih kecil, pemiutang yang bekerjasama, mahu mengekalkan kawalan | Aturan sukarela korporat |
+| Memerlukan pengurus bebas dan moratorium mahkamah merentasi banyak pemiutang | Pengurusan kehakiman |
+| Penyusunan semula yang besar atau kompleks; lembaga mahu mengekalkan kawalan | Skim susunan |
+| Satu pemberi pinjaman bercagar dominan menguatkuasakan | Penerimaan (selalunya bukan pilihan syarikat) |
+| Tiada penyelamatan yang realistik | Penggulungan — berwaspada tentang liabiliti pengarah bagi tempoh terdahulu |
+
+## Rejim dalam peralihan
+
+Rangka kerja penyelamatan korporat sedang dibentuk semula oleh **Akta Syarikat (Pindaan) 2024**, yang, antara lain, meluaskan akses kepada aturan sukarela korporat dan menyelaraskan peraturan moratorium dan skim susunan. **Sebahagian peruntukannya berkuat kuasa dan yang lain menunggu tarikh permulaan**, jadi kedudukan semasa yang tepat — termasuk syarikat mana yang boleh menggunakan alat yang mana — perlu disahkan terhadap cetakan semula Akta Syarikat 2016 terkini dan dengan pengamal insolvensi berlesen sebelum bertindak.
 
 ## Apa seterusnya
 

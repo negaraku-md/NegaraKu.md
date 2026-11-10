@@ -20,6 +20,8 @@ keyTakeaways:
   - "A bankrupt can be discharged three ways: court order (s.33), DGI certificate after 5 years (s.33A), or automatic discharge after 3 years (s.33C)"
   - "A company is deemed unable to pay its debts once a Section 466 statutory demand for a sum exceeding RM50,000 goes unpaid for 21 days — a threshold permanently in force since 1 April 2021 (raised from RM10,000)"
   - "The Companies Act 2016 added rescue routes — judicial management (ss.403-430) and corporate voluntary arrangement (s.395) — as alternatives to winding-up"
+  - "A company whose debt is mainly to banks (RM10 million or more, at least two financial creditors) can restructure out of court through Bank Negara's Corporate Debt Restructuring Committee (CDRC), which binds participating lenders once 75% by value agree"
+  - "As a company nears insolvency, directors' duty shifts toward creditors; trading on can expose them to personal, unlimited liability for fraudulent trading or an offence for wrongful/insolvent trading — the reason to act early"
 appliesTo: "Debtors, directors, creditors, guarantors and advisers who need to understand what happens in Malaysia when an individual or a company cannot pay its debts."
 
 faq:
@@ -32,7 +34,9 @@ faq:
   - q: "What is the difference between winding-up and bankruptcy?"
     a: "Bankruptcy applies to individuals under the Insolvency Act 1967; winding-up (liquidation) applies to companies under the Companies Act 2016. A company can be wound up voluntarily by its members or creditors, or compulsorily by court order — often after an unpaid Section 466 statutory demand for a debt exceeding RM50,000."
   - q: "Is there a way to save a struggling company instead of liquidating it?"
-    a: "Yes. The Companies Act 2016 introduced rescue mechanisms: judicial management (Sections 403-430), under which a court-appointed judicial manager runs the company under a moratorium, and the corporate voluntary arrangement (Section 395). A scheme of arrangement under Section 366 also lets a company bind creditors to a compromise with 75% approval by value and court sanction."
+    a: "Yes. The Companies Act 2016 introduced rescue mechanisms: judicial management (Sections 403-430), under which a court-appointed judicial manager runs the company under a moratorium, and the corporate voluntary arrangement (Section 395). A scheme of arrangement under Section 366 also lets a company bind creditors to a compromise with 75% approval by value and court sanction. For companies whose debt is mainly to banks, Bank Negara's Corporate Debt Restructuring Committee (CDRC) offers an out-of-court alternative."
+  - q: "What personal risk does a director face if the company cannot pay its debts?"
+    a: "As a company nears insolvency, directors are expected to put creditors' interests first, and trading on can create personal liability. If the business was carried on to defraud creditors, a court can make those knowingly involved personally liable, without limit, for the company's debts (fraudulent trading); and it is an offence for an officer to incur a debt with no reasonable expectation the company could pay it (wrongful or insolvent trading). This is why directors are advised to seek a rescue mechanism early rather than keep trading on empty — doing so protects creditors and reduces their own exposure."
 
 lang: "en"
 masterLanguage: "en"
@@ -43,18 +47,25 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-10
+    change: "Added corporate-rescue depth (CDRC, receivership, director personal-liability for fraudulent/wrongful trading, a route-selection frame) and flagged the Companies (Amendment) Act 2024 reforms."
+    reviewer: null
 
 verificationNeeded:
   - "The Section 33A discharge is by the Director General of Insolvency's certificate once the person has been a bankrupt for at least five years (introduced by the Insolvency (Amendment) Act 2023); confirm the full current eligibility conditions against the Malaysian Department of Insolvency's guidance."
   - "Confirm the correct knowledge-graph target for the administering body (Malaysian Department of Insolvency / Director General of Insolvency); the previous administered-by relation to the Attorney General's Chambers was removed as unsupported."
+  - "The Companies (Amendment) Act 2024 reshaped the corporate-rescue regime (notably widening CVA access and adjusting scheme/moratorium rules), but some provisions are in force and others await a commencement date. Sources conflict on exactly which are operative; the article states the pre-amendment baseline and flags the reform rather than asserting the amended position as live. Confirm the current commencement status against an SSM/gazette notice before stating which companies can use which tool."
+  - "The CDRC eligibility (aggregate debt RM10 million or more; at least two financial creditors; 75%-by-value binding) is kept identical to the finance debt-consolidation sibling and is from government-portal and legal commentary, not a directly fetched BNM/CDRC page; verify against the current CDRC Code of Conduct."
+  - "Director personal-liability points — fraudulent trading (unlimited personal liability on dishonesty) and wrongful/insolvent trading (an offence) under the Companies Act 2016 — are stated at principle level from law-firm commentary; the exact sections (reported as s540 and s539) were not confirmed against the AGC Act 777 reprint and are not cited by number in the body."
 
-updated: 2026-10-26
+updated: 2026-11-10
 sources:
   - title: "Malaysian Department of Insolvency (Jabatan Insolvensi Malaysia) — official portal"
     url: "https://www.mdi.gov.my/"
@@ -80,6 +91,15 @@ sources:
   - title: "Statutory Demand vs Winding Up (Malaysia)"
     url: "https://globallawexperts.com/statutory-demand-vs-winding-up-malaysia/"
     publisher: "Global Law Experts"
+  - title: "Corporate Debt Restructuring Committee — commencement of operations"
+    url: "https://www.bnm.gov.my/-/corporate-debt-restructuring-committee-operations"
+    publisher: "Bank Negara Malaysia"
+  - title: "FAQ: Companies (Amendment) Act 2024"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
+    publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "An Overview of the Law on Fraudulent Trading"
+    url: "https://www.skrine.com/insights/newsletter/legal-insights-issue-1-2021/an-overview-of-the-law-on-fraudulent-trading"
+    publisher: "Skrine (Advocates & Solicitors)"
   - title: "Debt Threshold Must Exceed RM50,000 to File Winding Up Petition under S. 466(1)(a) from 1 April 2021"
     url: "https://www.skrine.com/insights/alerts/april-2021/debt-threshold-must-exceed-rm50-000-to-file-windin"
     publisher: "Skrine (Advocates & Solicitors)"
@@ -152,6 +172,40 @@ This is where the Companies Act 2016 marked a genuine shift. The older law was b
 **Judicial management** (Sections 403-430) is the flagship. A court appoints a qualified insolvency practitioner as **judicial manager** to take over the running of the company, and an automatic **moratorium** freezes creditor enforcement so the business gets breathing room. The court grants a judicial management order only if the company is or will be unable to pay its debts, there is a reasonable probability of rehabilitating it, and judicial management would serve creditors better than winding-up. The manager has up to **180 days** — extendable — to put a rescue proposal to creditors.
 
 Alongside it sit two lighter tools. A **scheme of arrangement under Section 366** lets a company bind all its creditors to a compromise once a majority representing at least **75% in value** vote in favour and the court sanctions it, with a Section 368 restraining order available to hold off creditors during negotiations. The **corporate voluntary arrangement under Section 395** achieves a binding deal largely without the court, which makes it cheaper and faster for smaller companies with cooperative creditors.
+
+## Out of court first: the CDRC
+
+For a company whose debt is owed mainly to banks, the quickest and cheapest option is often to avoid the courts entirely. Bank Negara Malaysia runs the **Corporate Debt Restructuring Committee (CDRC)**, a voluntary, out-of-court platform that mediates between a viable company and its financial creditors. It is open to businesses with **aggregate debt of RM10 million or more and at least two financial creditors**, and once lenders holding **75% by value** agree a restructuring scheme, it binds all participating financial creditors. Because it sidesteps a court process, the CDRC is usually the first route to consider when the problem is bank debt rather than trade or statutory creditors. (For the consumer and small-business side of debt restructuring — including the free help from AKPK — see [debt consolidation and restructuring](/finance/debt-consolidation-restructuring-malaysia).)
+
+## When a secured creditor moves first: receivership
+
+Rescue is not always the company's choice. A **secured creditor** — typically a debenture holder with a charge over the company's assets — can appoint a **receiver** (or receiver and manager) to take control of the charged assets and realise them to recover its debt. Receivership is an **enforcement** tool, not a rescue of the whole company: the receiver acts for the secured creditor, and a floating charge must have crystallised before the receiver can reach those assets. A single dominant secured lender can therefore pre-empt the other options above.
+
+## The director's real exposure — why acting early matters
+
+The most important point for a director is personal. As a company slides toward insolvency, the law expects directors to shift the focus of their duty **from shareholders to creditors**, and trading on regardless carries personal risk:
+
+- **Fraudulent trading** — if the business was carried on with intent to defraud creditors, the court can declare those knowingly party to it **personally liable, without limit**, for the company's debts. It requires dishonesty, so only a real person (not the company) can be fixed with the intent.
+- **Wrongful or insolvent trading** — it is an offence for an officer to incur a debt when there was no reasonable or probable expectation that the company could pay it.
+
+This is why the advice is always to **act early**. Engaging a rescue mechanism while the business is still a going concern both improves creditor recoveries and reduces the risk that later trading is judged fraudulent or wrongful. Waiting until the cash runs out narrows the options to liquidation — and widens a director's personal exposure.
+
+## Which route, when
+
+No single mechanism fits every distressed company. As a rough guide:
+
+| Situation | Likely route |
+| --- | --- |
+| Business still viable; debt mainly to banks (RM10m+, 2+ lenders) | CDRC — cheapest, out of court |
+| Smaller private company, cooperative creditors, want to keep control | Corporate voluntary arrangement |
+| Need an independent manager and a court moratorium across many creditors | Judicial management |
+| Large or complex restructuring; board wants to retain control | Scheme of arrangement |
+| One dominant secured lender enforces | Receivership (often not the company's choice) |
+| No realistic rescue | Winding-up — mindful of director liability for the prior period |
+
+## A regime in transition
+
+The corporate-rescue framework is being reshaped by the **Companies (Amendment) Act 2024**, which, among other things, widens access to the corporate voluntary arrangement and adjusts the moratorium and scheme-of-arrangement rules. **Some of its provisions are in force and others await a commencement date**, so the precise current position — including which companies may use which tool — should be confirmed against the latest Companies Act 2016 reprint and with a licensed insolvency practitioner before acting.
 
 ## What's next
 

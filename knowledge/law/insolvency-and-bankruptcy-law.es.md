@@ -20,6 +20,8 @@ keyTakeaways:
   - "Un quebrado puede obtener la rehabilitación (discharge) de tres formas: por orden judicial (s.33), por certificado del DGI tras 5 años (s.33A), o por rehabilitación automática tras 3 años (s.33C)"
   - "Se considera que una empresa no puede pagar sus deudas una vez que una demanda legal (statutory demand) de la Section 466 por una suma superior a RM50,000 queda impaga durante 21 días, un umbral vigente de forma permanente desde el 1 de abril de 2021 (elevado desde RM10,000)"
   - "La Companies Act 2016 añadió vías de rescate —la administración judicial (ss.403-430) y el convenio voluntario corporativo (s.395)— como alternativas a la liquidación"
+  - "Una empresa cuya deuda es principalmente con bancos (RM10 millones o más, al menos dos acreedores financieros) puede reestructurarse fuera de los tribunales a través del Corporate Debt Restructuring Committee (CDRC) de Bank Negara, que vincula a los prestamistas participantes una vez que el 75% por valor está de acuerdo"
+  - "A medida que una empresa se acerca a la insolvencia, el deber de los administradores se desplaza hacia los acreedores; seguir operando puede exponerlos a una responsabilidad personal e ilimitada por comercio fraudulento (fraudulent trading) o a un delito por comercio ilícito/insolvente (wrongful/insolvent trading): la razón para actuar pronto"
 appliesTo: "Deudores, administradores, acreedores, garantes y asesores que necesitan entender qué ocurre en Malasia cuando una persona o una empresa no puede pagar sus deudas."
 
 faq:
@@ -32,10 +34,12 @@ faq:
   - q: "¿Cuál es la diferencia entre la liquidación y la quiebra?"
     a: "La quiebra (bankruptcy) se aplica a las personas físicas en virtud de la Insolvency Act 1967; la liquidación (winding-up) se aplica a las empresas en virtud de la Companies Act 2016. Una empresa puede liquidarse voluntariamente por sus socios o acreedores, o de forma obligatoria por orden judicial, a menudo tras una demanda legal impaga de la Section 466 por una deuda superior a RM50,000."
   - q: "¿Hay alguna forma de salvar a una empresa en dificultades en lugar de liquidarla?"
-    a: "Sí. La Companies Act 2016 introdujo mecanismos de rescate: la administración judicial (Sections 403-430), en virtud de la cual un administrador judicial designado por el tribunal dirige la empresa bajo una moratoria, y el convenio voluntario corporativo (Section 395). Un convenio de arreglo en virtud de la Section 366 también permite a una empresa vincular a los acreedores a un acuerdo con la aprobación del 75% por valor y la sanción del tribunal."
+    a: "Sí. La Companies Act 2016 introdujo mecanismos de rescate: la administración judicial (Sections 403-430), en virtud de la cual un administrador judicial designado por el tribunal dirige la empresa bajo una moratoria, y el convenio voluntario corporativo (Section 395). Un convenio de arreglo en virtud de la Section 366 también permite a una empresa vincular a los acreedores a un acuerdo con la aprobación del 75% por valor y la sanción del tribunal. Para las empresas cuya deuda es principalmente con bancos, el Corporate Debt Restructuring Committee (CDRC) de Bank Negara ofrece una alternativa extrajudicial."
+  - q: "¿Qué riesgo personal corre un administrador si la empresa no puede pagar sus deudas?"
+    a: "A medida que una empresa se acerca a la insolvencia, se espera que los administradores antepongan los intereses de los acreedores, y seguir operando puede generar responsabilidad personal. Si el negocio se llevó a cabo para defraudar a los acreedores, un tribunal puede declarar a quienes participaron a sabiendas personalmente responsables, sin límite, de las deudas de la empresa (comercio fraudulento, fraudulent trading); y constituye un delito que un directivo contraiga una deuda sin una expectativa razonable de que la empresa pudiera pagarla (comercio ilícito o insolvente, wrongful or insolvent trading). Por eso se aconseja a los administradores que busquen pronto un mecanismo de rescate en lugar de seguir operando sin fondos: hacerlo protege a los acreedores y reduce su propia exposición."
 
 lang: "es"
-sourceContentHash: "b7a5e72bb5b7b503"
+sourceContentHash: "727b118f75f2f441"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -44,20 +48,25 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-10
+    change: "Added corporate-rescue depth (CDRC, receivership, director personal-liability for fraudulent/wrongful trading, a route-selection frame) and flagged the Companies (Amendment) Act 2024 reforms."
+    reviewer: null
 
 verificationNeeded:
   - "The Section 33A discharge is by the Director General of Insolvency's certificate once the person has been a bankrupt for at least five years (introduced by the Insolvency (Amendment) Act 2023); confirm the full current eligibility conditions against the Malaysian Department of Insolvency's guidance."
-  - "Confirm the current Section 466(1)(a) indebtedness threshold (exceeding RM50,000, in force since 1 April 2021 with no sunset) against the latest gazetted prescription order before relying on it."
-  - "Confirm the corporate rescue provisions and their references (judicial management ss.403-430, CVA s.395, scheme of arrangement s.366, 180-day period, 75%-by-value majority) against the current reprint of the Companies Act 2016."
   - "Confirm the correct knowledge-graph target for the administering body (Malaysian Department of Insolvency / Director General of Insolvency); the previous administered-by relation to the Attorney General's Chambers was removed as unsupported."
+  - "The Companies (Amendment) Act 2024 reshaped the corporate-rescue regime (notably widening CVA access and adjusting scheme/moratorium rules), but some provisions are in force and others await a commencement date. Sources conflict on exactly which are operative; the article states the pre-amendment baseline and flags the reform rather than asserting the amended position as live. Confirm the current commencement status against an SSM/gazette notice before stating which companies can use which tool."
+  - "The CDRC eligibility (aggregate debt RM10 million or more; at least two financial creditors; 75%-by-value binding) is kept identical to the finance debt-consolidation sibling and is from government-portal and legal commentary, not a directly fetched BNM/CDRC page; verify against the current CDRC Code of Conduct."
+  - "Director personal-liability points — fraudulent trading (unlimited personal liability on dishonesty) and wrongful/insolvent trading (an offence) under the Companies Act 2016 — are stated at principle level from law-firm commentary; the exact sections (reported as s540 and s539) were not confirmed against the AGC Act 777 reprint and are not cited by number in the body."
 
-updated: 2026-10-26
+updated: 2026-11-10
 sources:
   - title: "Departamento de Insolvencia de Malasia (Jabatan Insolvensi Malaysia) — portal oficial (Malaysian Department of Insolvency (Jabatan Insolvensi Malaysia) — official portal)"
     url: "https://www.mdi.gov.my/"
@@ -83,6 +92,15 @@ sources:
   - title: "Demanda legal frente a liquidación (Malasia) (Statutory Demand vs Winding Up (Malaysia))"
     url: "https://globallawexperts.com/statutory-demand-vs-winding-up-malaysia/"
     publisher: "Global Law Experts"
+  - title: "Corporate Debt Restructuring Committee — inicio de operaciones (Corporate Debt Restructuring Committee — commencement of operations)"
+    url: "https://www.bnm.gov.my/-/corporate-debt-restructuring-committee-operations"
+    publisher: "Bank Negara Malaysia"
+  - title: "Preguntas frecuentes: Companies (Amendment) Act 2024 (FAQ: Companies (Amendment) Act 2024)"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
+    publisher: "Comisión de Sociedades de Malasia (SSM)"
+  - title: "Una visión general del derecho sobre el comercio fraudulento (An Overview of the Law on Fraudulent Trading)"
+    url: "https://www.skrine.com/insights/newsletter/legal-insights-issue-1-2021/an-overview-of-the-law-on-fraudulent-trading"
+    publisher: "Skrine (Advocates & Solicitors)"
   - title: "El umbral de deuda debe superar RM50,000 para presentar una solicitud de liquidación en virtud de la S. 466(1)(a) desde el 1 de abril de 2021 (Debt Threshold Must Exceed RM50,000 to File Winding Up Petition under S. 466(1)(a) from 1 April 2021)"
     url: "https://www.skrine.com/insights/alerts/april-2021/debt-threshold-must-exceed-rm50-000-to-file-windin"
     publisher: "Skrine (Advocates & Solicitors)"
@@ -155,6 +173,40 @@ Aquí es donde la Companies Act 2016 marcó un cambio genuino. La ley anterior s
 La **administración judicial** (Sections 403-430) es la estrella. Un tribunal designa a un profesional de la insolvencia cualificado como **administrador judicial** para asumir la dirección de la empresa, y una **moratoria** automática congela la ejecución de los acreedores para que el negocio tenga un respiro. El tribunal concede una orden de administración judicial solo si la empresa no puede o no podrá pagar sus deudas, hay una probabilidad razonable de rehabilitarla y la administración judicial serviría mejor a los acreedores que la liquidación. El administrador dispone de hasta **180 días** —prorrogables— para presentar una propuesta de rescate a los acreedores.
 
 Junto a ella conviven dos herramientas más ligeras. Un **convenio de arreglo en virtud de la Section 366** permite a una empresa vincular a todos sus acreedores a un acuerdo una vez que una mayoría que represente al menos el **75% en valor** vota a favor y el tribunal lo sanciona, con una orden de contención de la Section 368 disponible para frenar a los acreedores durante las negociaciones. El **convenio voluntario corporativo en virtud de la Section 395** logra un acuerdo vinculante en gran medida sin el tribunal, lo que lo hace más barato y rápido para empresas más pequeñas con acreedores cooperadores.
+
+## Primero, fuera de los tribunales: el CDRC
+
+Para una empresa cuya deuda se debe principalmente a bancos, la opción más rápida y económica suele ser evitar los tribunales por completo. Bank Negara Malaysia dirige el **Corporate Debt Restructuring Committee (CDRC)**, una plataforma voluntaria y extrajudicial que media entre una empresa viable y sus acreedores financieros. Está abierto a negocios con una **deuda agregada de RM10 millones o más y al menos dos acreedores financieros** y, una vez que los prestamistas que representan el **75% por valor** acuerdan un plan de reestructuración, vincula a todos los acreedores financieros participantes. Como esquiva un proceso judicial, el CDRC suele ser la primera vía a considerar cuando el problema es la deuda bancaria y no los acreedores comerciales o legales. (Para el lado del consumidor y de la pequeña empresa de la reestructuración de deudas —incluida la ayuda gratuita de AKPK— véase [consolidación y reestructuración de deudas](/finance/debt-consolidation-restructuring-malaysia).)
+
+## Cuando un acreedor garantizado actúa primero: la sindicatura
+
+El rescate no siempre es la opción de la empresa. Un **acreedor garantizado** —normalmente el titular de una obligación (debenture) con una garantía sobre los activos de la empresa— puede designar a un **síndico** (receiver, o síndico y administrador) para tomar el control de los activos gravados y realizarlos a fin de recuperar su deuda. La sindicatura (receivership) es una herramienta de **ejecución**, no un rescate de toda la empresa: el síndico actúa en nombre del acreedor garantizado, y una garantía flotante (floating charge) debe haberse cristalizado antes de que el síndico pueda alcanzar esos activos. Por tanto, un único prestamista garantizado dominante puede anticiparse a las demás opciones anteriores.
+
+## La verdadera exposición del administrador: por qué importa actuar pronto
+
+El punto más importante para un administrador es personal. A medida que una empresa se desliza hacia la insolvencia, la ley espera que los administradores desplacen el foco de su deber **de los accionistas a los acreedores**, y seguir operando pese a ello conlleva un riesgo personal:
+
+- **Comercio fraudulento (fraudulent trading)**: si el negocio se llevó a cabo con la intención de defraudar a los acreedores, el tribunal puede declarar a quienes participaron a sabiendas en él **personalmente responsables, sin límite**, de las deudas de la empresa. Exige deshonestidad, de modo que solo una persona real (no la empresa) puede quedar fijada con esa intención.
+- **Comercio ilícito o insolvente (wrongful or insolvent trading)**: constituye un delito que un directivo contraiga una deuda cuando no había una expectativa razonable o probable de que la empresa pudiera pagarla.
+
+Por eso el consejo es siempre **actuar pronto**. Recurrir a un mecanismo de rescate mientras el negocio sigue siendo una empresa en funcionamiento mejora tanto las recuperaciones de los acreedores como reduce el riesgo de que una operación posterior se juzgue fraudulenta o ilícita. Esperar hasta que se acabe el efectivo reduce las opciones a la liquidación, y amplía la exposición personal de un administrador.
+
+## Qué vía y cuándo
+
+Ningún mecanismo único encaja con todas las empresas en dificultades. A modo de guía aproximada:
+
+| Situación | Vía probable |
+| --- | --- |
+| Negocio aún viable; deuda principalmente con bancos (RM10m+, 2+ prestamistas) | CDRC: la más económica, fuera de los tribunales |
+| Empresa privada más pequeña, acreedores cooperadores, quiere conservar el control | Convenio voluntario corporativo |
+| Se necesita un administrador independiente y una moratoria judicial frente a muchos acreedores | Administración judicial |
+| Reestructuración grande o compleja; el consejo quiere retener el control | Convenio de arreglo |
+| Un único prestamista garantizado dominante ejecuta | Sindicatura (a menudo no es la opción de la empresa) |
+| Sin rescate realista | Liquidación, atenta a la responsabilidad del administrador por el periodo anterior |
+
+## Un régimen en transición
+
+El marco de rescate corporativo está siendo remodelado por la **Companies (Amendment) Act 2024**, que, entre otras cosas, amplía el acceso al convenio voluntario corporativo y ajusta las reglas de la moratoria y del convenio de arreglo. **Algunas de sus disposiciones están en vigor y otras esperan una fecha de entrada en vigor**, por lo que la situación exacta vigente —incluido qué empresas pueden usar qué herramienta— debe confirmarse frente a la última reimpresión de la Companies Act 2016 y con un profesional de la insolvencia con licencia antes de actuar.
 
 ## Qué sigue
 

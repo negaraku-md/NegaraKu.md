@@ -20,6 +20,8 @@ keyTakeaways:
   - "दिवालिया व्यक्ति को तीन तरीकों से उन्मुक्ति (discharge) मिल सकती है: न्यायालय का आदेश (धारा 33), 5 वर्ष बाद DGI प्रमाणपत्र (धारा 33A), या 3 वर्ष बाद स्वतः उन्मुक्ति (धारा 33C)"
   - "किसी कंपनी को अपने कर्ज़ चुकाने में असमर्थ माना जाता है जब धारा 466 के तहत RM50,000 से अधिक राशि की वैधानिक माँग 21 दिनों तक अदत्त रहती है — यह सीमा 1 अप्रैल 2021 से स्थायी रूप से प्रभावी है (RM10,000 से बढ़ाई गई)"
   - "कंपनी अधिनियम 2016 ने बचाव मार्ग जोड़े — न्यायिक प्रबंधन (धारा 403-430) और कॉर्पोरेट स्वैच्छिक व्यवस्था (धारा 395) — परिसमापन के विकल्पों के रूप में"
+  - "जिस कंपनी का कर्ज़ मुख्यतः बैंकों को है (RM10 मिलियन या अधिक, कम-से-कम दो वित्तीय लेनदार), वह बैंक नेगारा की कॉर्पोरेट ऋण पुनर्गठन समिति (Corporate Debt Restructuring Committee, CDRC) के माध्यम से न्यायालय के बाहर पुनर्गठन कर सकती है, जो मूल्य के आधार पर 75% के सहमत होते ही भाग लेने वाले ऋणदाताओं को बाँध देती है"
+  - "जैसे-जैसे कोई कंपनी दिवालियापन के निकट पहुँचती है, निदेशकों का कर्तव्य लेनदारों की ओर मुड़ जाता है; व्यापार जारी रखना उन्हें कपटपूर्ण व्यापार (fraudulent trading) के लिए व्यक्तिगत, असीमित दायित्व में, या गलत/अविलायक व्यापार (wrongful/insolvent trading) के अपराध में डाल सकता है — यही जल्दी कार्य करने का कारण है"
 appliesTo: "देनदार, निदेशक, लेनदार, गारंटर और सलाहकार जिन्हें समझना है कि मलेशिया में जब कोई व्यक्ति या कंपनी अपने कर्ज़ नहीं चुका सकती तो क्या होता है।"
 
 faq:
@@ -32,10 +34,12 @@ faq:
   - q: "परिसमापन और दिवालियापन के बीच क्या अंतर है?"
     a: "दिवालियापन (bankruptcy) व्यक्तियों पर दिवालियापन अधिनियम 1967 के तहत लागू होता है; परिसमापन (winding-up) कंपनियों पर कंपनी अधिनियम 2016 के तहत लागू होता है। किसी कंपनी का परिसमापन उसके सदस्यों या लेनदारों द्वारा स्वेच्छा से, या न्यायालय के आदेश से अनिवार्य रूप से किया जा सकता है — अक्सर RM50,000 से अधिक के कर्ज़ के लिए धारा 466 की अदत्त वैधानिक माँग के बाद।"
   - q: "क्या किसी संघर्षरत कंपनी को परिसमापन के बजाय बचाने का कोई तरीका है?"
-    a: "हाँ। कंपनी अधिनियम 2016 ने बचाव तंत्र पेश किए: न्यायिक प्रबंधन (धारा 403-430), जिसके तहत न्यायालय-नियुक्त न्यायिक प्रबंधक एक रोक (moratorium) के तहत कंपनी चलाता है, और कॉर्पोरेट स्वैच्छिक व्यवस्था (धारा 395)। धारा 366 के तहत व्यवस्था की एक योजना भी किसी कंपनी को मूल्य के आधार पर 75% अनुमोदन और न्यायालय की स्वीकृति से लेनदारों को समझौते में बाँधने देती है।"
+    a: "हाँ। कंपनी अधिनियम 2016 ने बचाव तंत्र पेश किए: न्यायिक प्रबंधन (धारा 403-430), जिसके तहत न्यायालय-नियुक्त न्यायिक प्रबंधक एक रोक (moratorium) के तहत कंपनी चलाता है, और कॉर्पोरेट स्वैच्छिक व्यवस्था (धारा 395)। धारा 366 के तहत व्यवस्था की एक योजना भी किसी कंपनी को मूल्य के आधार पर 75% अनुमोदन और न्यायालय की स्वीकृति से लेनदारों को समझौते में बाँधने देती है। जिन कंपनियों का कर्ज़ मुख्यतः बैंकों को है, उनके लिए बैंक नेगारा की कॉर्पोरेट ऋण पुनर्गठन समिति (Corporate Debt Restructuring Committee, CDRC) एक न्यायालय-बाहरी विकल्प प्रदान करती है।"
+  - q: "यदि कंपनी अपने कर्ज़ नहीं चुका सकती तो निदेशक को व्यक्तिगत रूप से क्या जोखिम होता है?"
+    a: "जैसे-जैसे कोई कंपनी दिवालियापन के निकट पहुँचती है, निदेशकों से अपेक्षा की जाती है कि वे लेनदारों के हितों को प्राथमिकता दें, और व्यापार जारी रखना व्यक्तिगत दायित्व उत्पन्न कर सकता है। यदि व्यवसाय लेनदारों को धोखा देने के लिए चलाया गया, तो न्यायालय जानबूझकर इसमें शामिल लोगों को कंपनी के कर्ज़ों के लिए बिना किसी सीमा के व्यक्तिगत रूप से उत्तरदायी ठहरा सकता है (कपटपूर्ण व्यापार / fraudulent trading); और किसी अधिकारी के लिए ऐसा कर्ज़ लेना एक अपराध है जिसे चुकाने की कंपनी से कोई उचित अपेक्षा न हो (गलत या अविलायक व्यापार / wrongful or insolvent trading)। यही कारण है कि निदेशकों को सलाह दी जाती है कि वे खाली हाथ व्यापार जारी रखने के बजाय जल्दी ही किसी बचाव तंत्र की तलाश करें — ऐसा करना लेनदारों की रक्षा करता है और उनके अपने जोखिम को कम करता है।"
 
 lang: "hi"
-sourceContentHash: "b7a5e72bb5b7b503"
+sourceContentHash: "727b118f75f2f441"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -44,20 +48,25 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-10
+    change: "Added corporate-rescue depth (CDRC, receivership, director personal-liability for fraudulent/wrongful trading, a route-selection frame) and flagged the Companies (Amendment) Act 2024 reforms."
+    reviewer: null
 
 verificationNeeded:
   - "The Section 33A discharge is by the Director General of Insolvency's certificate once the person has been a bankrupt for at least five years (introduced by the Insolvency (Amendment) Act 2023); confirm the full current eligibility conditions against the Malaysian Department of Insolvency's guidance."
-  - "Confirm the current Section 466(1)(a) indebtedness threshold (exceeding RM50,000, in force since 1 April 2021 with no sunset) against the latest gazetted prescription order before relying on it."
-  - "Confirm the corporate rescue provisions and their references (judicial management ss.403-430, CVA s.395, scheme of arrangement s.366, 180-day period, 75%-by-value majority) against the current reprint of the Companies Act 2016."
   - "Confirm the correct knowledge-graph target for the administering body (Malaysian Department of Insolvency / Director General of Insolvency); the previous administered-by relation to the Attorney General's Chambers was removed as unsupported."
+  - "The Companies (Amendment) Act 2024 reshaped the corporate-rescue regime (notably widening CVA access and adjusting scheme/moratorium rules), but some provisions are in force and others await a commencement date. Sources conflict on exactly which are operative; the article states the pre-amendment baseline and flags the reform rather than asserting the amended position as live. Confirm the current commencement status against an SSM/gazette notice before stating which companies can use which tool."
+  - "The CDRC eligibility (aggregate debt RM10 million or more; at least two financial creditors; 75%-by-value binding) is kept identical to the finance debt-consolidation sibling and is from government-portal and legal commentary, not a directly fetched BNM/CDRC page; verify against the current CDRC Code of Conduct."
+  - "Director personal-liability points — fraudulent trading (unlimited personal liability on dishonesty) and wrongful/insolvent trading (an offence) under the Companies Act 2016 — are stated at principle level from law-firm commentary; the exact sections (reported as s540 and s539) were not confirmed against the AGC Act 777 reprint and are not cited by number in the body."
 
-updated: 2026-10-26
+updated: 2026-11-10
 sources:
   - title: "मलेशियाई दिवालियापन विभाग (Jabatan Insolvensi Malaysia) — आधिकारिक पोर्टल (Malaysian Department of Insolvency (Jabatan Insolvensi Malaysia) — official portal)"
     url: "https://www.mdi.gov.my/"
@@ -83,6 +92,15 @@ sources:
   - title: "वैधानिक माँग बनाम परिसमापन (मलेशिया) (Statutory Demand vs Winding Up (Malaysia))"
     url: "https://globallawexperts.com/statutory-demand-vs-winding-up-malaysia/"
     publisher: "Global Law Experts"
+  - title: "कॉर्पोरेट ऋण पुनर्गठन समिति — परिचालन का प्रारंभ (Corporate Debt Restructuring Committee — commencement of operations)"
+    url: "https://www.bnm.gov.my/-/corporate-debt-restructuring-committee-operations"
+    publisher: "बैंक नेगारा मलेशिया (Bank Negara Malaysia)"
+  - title: "सामान्य प्रश्न: कंपनी (संशोधन) अधिनियम 2024 (FAQ: Companies (Amendment) Act 2024)"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
+    publisher: "मलेशिया कंपनी आयोग (Companies Commission of Malaysia, SSM)"
+  - title: "कपटपूर्ण व्यापार के कानून का एक अवलोकन (An Overview of the Law on Fraudulent Trading)"
+    url: "https://www.skrine.com/insights/newsletter/legal-insights-issue-1-2021/an-overview-of-the-law-on-fraudulent-trading"
+    publisher: "Skrine (Advocates & Solicitors)"
   - title: "1 अप्रैल 2021 से धारा 466(1)(a) के तहत परिसमापन याचिका दायर करने के लिए कर्ज़ सीमा RM50,000 से अधिक होनी चाहिए (Debt Threshold Must Exceed RM50,000 to File Winding Up Petition under S. 466(1)(a) from 1 April 2021)"
     url: "https://www.skrine.com/insights/alerts/april-2021/debt-threshold-must-exceed-rm50-000-to-file-windin"
     publisher: "Skrine (Advocates & Solicitors)"
@@ -155,6 +173,40 @@ MdI वही एजेंसी है जो कंपनी परिसम�
 **न्यायिक प्रबंधन** (धारा 403-430) प्रमुख है। न्यायालय एक योग्य दिवालियापन व्यवसायी को **न्यायिक प्रबंधक** के रूप में नियुक्त करता है जो कंपनी का संचालन संभालता है, और एक स्वतः **रोक (moratorium)** लेनदार प्रवर्तन को रोक देती है ताकि व्यवसाय को राहत मिले। न्यायालय न्यायिक प्रबंधन आदेश केवल तभी देता है जब कंपनी अपने कर्ज़ चुकाने में असमर्थ है या होगी, इसके पुनर्वास की उचित संभावना है, और न्यायिक प्रबंधन परिसमापन की तुलना में लेनदारों की बेहतर सेवा करेगा। प्रबंधक के पास लेनदारों के सामने बचाव प्रस्ताव रखने के लिए **180 दिन** तक — विस्तार-योग्य — होते हैं।
 
 इसके साथ-साथ दो हल्के उपकरण हैं। **धारा 366 के तहत व्यवस्था की एक योजना** किसी कंपनी को अपने सभी लेनदारों को एक समझौते में बाँधने देती है, जब मूल्य के आधार पर कम-से-कम **75%** का प्रतिनिधित्व करने वाला बहुमत पक्ष में मतदान करता है और न्यायालय इसे स्वीकृति देता है, साथ ही बातचीत के दौरान लेनदारों को रोकने के लिए धारा 368 का निरोधक आदेश उपलब्ध रहता है। **धारा 395 के तहत कॉर्पोरेट स्वैच्छिक व्यवस्था** बड़े पैमाने पर न्यायालय के बिना एक बाध्यकारी सौदा हासिल करती है, जो इसे सहयोगी लेनदारों वाली छोटी कंपनियों के लिए सस्ता और तेज़ बनाती है।
+
+## पहले न्यायालय के बाहर: CDRC
+
+जिस कंपनी का कर्ज़ मुख्यतः बैंकों को देय है, उसके लिए सबसे तेज़ और सबसे सस्ता विकल्प अक्सर न्यायालयों से पूरी तरह बचना होता है। बैंक नेगारा मलेशिया **कॉर्पोरेट ऋण पुनर्गठन समिति (Corporate Debt Restructuring Committee, CDRC)** चलाती है, जो एक स्वैच्छिक, न्यायालय-बाहरी मंच है और एक व्यवहार्य कंपनी तथा उसके वित्तीय लेनदारों के बीच मध्यस्थता करती है। यह उन व्यवसायों के लिए खुली है जिनका **कुल कर्ज़ RM10 मिलियन या अधिक है और कम-से-कम दो वित्तीय लेनदार हैं**, और एक बार **मूल्य के आधार पर 75%** रखने वाले ऋणदाता किसी पुनर्गठन योजना पर सहमत हो जाते हैं, तो यह सभी भाग लेने वाले वित्तीय लेनदारों को बाँध देती है। चूँकि यह न्यायालयी प्रक्रिया को दरकिनार कर देती है, जब समस्या व्यापारिक या वैधानिक लेनदारों के बजाय बैंक-कर्ज़ की हो, तो CDRC आमतौर पर पहला विचारणीय मार्ग होती है। (ऋण पुनर्गठन के उपभोक्ता और लघु-व्यवसाय पक्ष के लिए — AKPK से नि:शुल्क सहायता सहित — देखें [ऋण समेकन और पुनर्गठन](/finance/debt-consolidation-restructuring-malaysia)।)
+
+## जब कोई प्रतिभूत लेनदार पहले कदम उठाता है: रिसीवरशिप
+
+बचाव हमेशा कंपनी का चुनाव नहीं होता। एक **प्रतिभूत लेनदार** — आमतौर पर कंपनी की संपत्तियों पर प्रभार रखने वाला डिबेंचरधारक — कंपनी की प्रभारित संपत्तियों पर नियंत्रण लेने और उन्हें वसूलकर अपना कर्ज़ उगाहने के लिए एक **रिसीवर (receiver)** (या रिसीवर और प्रबंधक) नियुक्त कर सकता है। रिसीवरशिप (receivership) एक **प्रवर्तन** उपकरण है, पूरी कंपनी का बचाव नहीं: रिसीवर प्रतिभूत लेनदार के लिए कार्य करता है, और रिसीवर के उन संपत्तियों तक पहुँचने से पहले किसी अस्थायी प्रभार (floating charge) का स्फटिकीकरण (crystallisation) हो चुका होना चाहिए। इसलिए एक अकेला प्रभावी प्रतिभूत ऋणदाता ऊपर दिए गए अन्य विकल्पों को पहले ही रोक सकता है।
+
+## निदेशक का वास्तविक जोखिम — जल्दी कार्य करना क्यों मायने रखता है
+
+निदेशक के लिए सबसे महत्वपूर्ण बिंदु व्यक्तिगत है। जैसे-जैसे कोई कंपनी दिवालियापन की ओर खिसकती है, कानून निदेशकों से अपेक्षा करता है कि वे अपने कर्तव्य का केंद्र **शेयरधारकों से लेनदारों की ओर** स्थानांतरित करें, और फिर भी व्यापार जारी रखना व्यक्तिगत जोखिम वहन करता है:
+
+- **कपटपूर्ण व्यापार (fraudulent trading)** — यदि व्यवसाय लेनदारों को धोखा देने के इरादे से चलाया गया, तो न्यायालय जानबूझकर इसमें शामिल लोगों को कंपनी के कर्ज़ों के लिए **बिना किसी सीमा के व्यक्तिगत रूप से उत्तरदायी** घोषित कर सकता है। इसके लिए बेईमानी आवश्यक है, इसलिए केवल एक वास्तविक व्यक्ति (कंपनी नहीं) पर ही यह इरादा आरोपित किया जा सकता है।
+- **गलत या अविलायक व्यापार (wrongful or insolvent trading)** — किसी अधिकारी के लिए ऐसा कर्ज़ लेना एक अपराध है जब यह उचित या संभाव्य अपेक्षा न हो कि कंपनी उसे चुका सकती है।
+
+यही कारण है कि सलाह हमेशा **जल्दी कार्य करने** की होती है। जब व्यवसाय अभी भी एक चालू उपक्रम (going concern) है तभी किसी बचाव तंत्र को अपनाना लेनदारों की वसूली को बेहतर बनाता है और इस जोखिम को भी कम करता है कि बाद के व्यापार को कपटपूर्ण या गलत ठहराया जाए। नकदी समाप्त होने तक प्रतीक्षा करना विकल्पों को परिसमापन तक सीमित कर देता है — और निदेशक के व्यक्तिगत जोखिम को बढ़ा देता है।
+
+## कौन-सा मार्ग, कब
+
+हर संकटग्रस्त कंपनी के लिए कोई एक तंत्र उपयुक्त नहीं होता। मोटे तौर पर एक मार्गदर्शन के रूप में:
+
+| स्थिति | संभावित मार्ग |
+| --- | --- |
+| व्यवसाय अभी भी व्यवहार्य; कर्ज़ मुख्यतः बैंकों को (RM10m+, 2+ ऋणदाता) | CDRC — सबसे सस्ता, न्यायालय के बाहर |
+| छोटी निजी कंपनी, सहयोगी लेनदार, नियंत्रण बनाए रखना चाहते हैं | कॉर्पोरेट स्वैच्छिक व्यवस्था |
+| कई लेनदारों में एक स्वतंत्र प्रबंधक और न्यायालयी रोक की आवश्यकता | न्यायिक प्रबंधन |
+| बड़ा या जटिल पुनर्गठन; बोर्ड नियंत्रण बनाए रखना चाहता है | व्यवस्था की योजना |
+| एक अकेला प्रभावी प्रतिभूत ऋणदाता प्रवर्तन करता है | रिसीवरशिप (अक्सर कंपनी का चुनाव नहीं) |
+| कोई वास्तविक बचाव नहीं | परिसमापन — पूर्व अवधि के लिए निदेशक दायित्व के प्रति सचेत रहते हुए |
+
+## संक्रमण में एक व्यवस्था
+
+कॉर्पोरेट-बचाव ढाँचे को **कंपनी (संशोधन) अधिनियम 2024 (Companies (Amendment) Act 2024)** द्वारा नया रूप दिया जा रहा है, जो अन्य बातों के साथ-साथ कॉर्पोरेट स्वैच्छिक व्यवस्था तक पहुँच को व्यापक बनाता है और रोक (moratorium) तथा व्यवस्था-की-योजना के नियमों को समायोजित करता है। **इसके कुछ प्रावधान प्रभावी हैं और अन्य प्रारंभ-तिथि की प्रतीक्षा में हैं**, इसलिए सटीक वर्तमान स्थिति — जिसमें शामिल है कि कौन-सी कंपनी कौन-सा उपकरण उपयोग कर सकती है — कार्य करने से पहले कंपनी अधिनियम 2016 के नवीनतम पुनर्मुद्रण और किसी लाइसेंस-प्राप्त दिवालियापन व्यवसायी के साथ पुष्टि की जानी चाहिए।
 
 ## आगे क्या
 

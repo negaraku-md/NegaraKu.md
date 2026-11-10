@@ -20,6 +20,8 @@ keyTakeaways:
   - "破产者可通过三种途径获得解除：法庭命令（第33条）、破产总监于5年后签发证书（第33A条），或3年后的自动解除（第33C条）"
   - "当一份针对超过5万令吉款项的《公司法》第466条法定要求（statutory demand）在21天内未获清偿时，公司即被视为无力偿债——此门槛自2021年4月1日起永久生效（由原本的1万令吉调高）"
   - "《2016年公司法》新增了拯救途径——司法管理（第403至430条）与公司自愿安排（第395条）——作为清盘之外的替代方案"
+  - "债务主要来自银行的公司（达1000万令吉或以上、至少两家金融债权人）可通过国家银行的企业债务重组委员会（CDRC）在庭外重组，一旦按价值计75%的债权人同意，即约束所有参与的放贷人"
+  - "当公司濒临无力偿债时，董事的义务转向债权人；继续经营可能使其因欺诈交易（fraudulent trading）承担无限的个人责任，或因不当／无力偿债交易（wrongful/insolvent trading）而触犯罪行——这正是应及早行动的原因"
 appliesTo: "需要了解马来西亚个人或公司无力偿债时会发生什么的债务人、董事、债权人、担保人及顾问。"
 
 faq:
@@ -32,10 +34,12 @@ faq:
   - q: "清盘与破产有什么区别？"
     a: "破产适用于依据《1967年无力偿债法》的个人；清盘（liquidation）适用于依据《2016年公司法》的公司。公司可由其成员或债权人自愿清盘，或由法庭命令强制清盘——通常是在一份针对超过5万令吉债务的第466条法定要求未获清偿之后。"
   - q: "有没有办法拯救陷入困境的公司，而不是将其清盘？"
-    a: "有。《2016年公司法》引入了拯救机制：司法管理（第403至430条），由法庭委任的司法管理人在暂缓令（moratorium）下经营公司；以及公司自愿安排（第395条）。此外，第366条下的债务重组安排也允许公司在获得按价值计75%的批准并经法庭认可后，约束债权人接受和解方案。"
+    a: "有。《2016年公司法》引入了拯救机制：司法管理（第403至430条），由法庭委任的司法管理人在暂缓令（moratorium）下经营公司；以及公司自愿安排（第395条）。此外，第366条下的债务重组安排也允许公司在获得按价值计75%的批准并经法庭认可后，约束债权人接受和解方案。对于债务主要来自银行的公司，国家银行的企业债务重组委员会（CDRC）提供了一个庭外的替代方案。"
+  - q: "如果公司无力偿债，董事会面临什么个人风险？"
+    a: "当公司濒临无力偿债时，董事须将债权人的利益置于首位，继续经营可能产生个人责任。如果公司的业务是为欺诈债权人而经营，法庭可判定明知而参与者须就公司的债务承担无限的个人责任（欺诈交易，fraudulent trading）；而公司高级人员在没有合理预期公司能够偿付的情况下仍令公司承担债务，则属一项罪行（不当或无力偿债交易，wrongful or insolvent trading）。这正是为什么董事被建议及早寻求拯救机制，而非继续空转经营——这样做既保护债权人，也减少他们自身的风险敞口。"
 
 lang: "zh"
-sourceContentHash: "b7a5e72bb5b7b503"
+sourceContentHash: "727b118f75f2f441"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -44,20 +48,25 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-10
+    change: "Added corporate-rescue depth (CDRC, receivership, director personal-liability for fraudulent/wrongful trading, a route-selection frame) and flagged the Companies (Amendment) Act 2024 reforms."
+    reviewer: null
 
 verificationNeeded:
   - "第33A条的解除是由破产总监（Director General of Insolvency）在当事人破产至少五年之后签发证书而作出（由《2023年无力偿债（修正）法》引入）；请对照马来西亚破产局的指引核实现行的完整资格条件。"
-  - "在依赖之前，请对照最新的宪报规定令核实现行 Section 466(1)(a) 的负债门槛（超过 RM50,000，自 1 April 2021 起生效且无日落条款）。"
-  - "对照 Companies Act 2016 现行重印本，核实公司拯救条文及其引注（司法管理 ss.403-430、CVA s.395、债务重整方案 s.366、180 天期限、按价值 75% 的多数）。"
   - "请核实主管机构（Malaysian Department of Insolvency / Director General of Insolvency）在知识图谱中的正确目标；先前指向 Attorney General's Chambers 的「由…管理」关系因缺乏依据已被移除。"
+  - "《2024年公司（修正）法》（Companies (Amendment) Act 2024）重塑了公司拯救制度（尤其是扩大公司自愿安排（CVA）的适用范围，并调整了债务重组安排／暂缓令的规则），但其部分条文已经生效，另一些则尚待生效日期。各方来源对究竟哪些条文已经施行存在分歧；本文陈述修正前的基准立场并标示该项改革，而非将经修正的立场断言为现行有效。在陈述哪些公司可使用哪种工具之前，请对照 SSM／宪报通知核实现行的生效状态。"
+  - "CDRC 的资格条件（合计债务达 RM10 million 或以上；至少两家金融债权人；按价值 75% 即具约束力）与 finance 债务整合姊妹文章保持一致，来源为政府门户网站及法律评论，而非直接抓取的 BNM/CDRC 页面；请对照现行的 CDRC Code of Conduct 核实。"
+  - "董事个人责任的要点——《2016年公司法》下的欺诈交易（fraudulent trading，在存在不诚实时承担无限个人责任）以及不当／无力偿债交易（wrongful/insolvent trading，属于一项罪行）——系根据律师事务所评论在原则层面陈述；确切条文（据报为 s540 与 s539）未对照 AGC Act 777 重印本核实，正文中亦未以编号引注。"
 
-updated: 2026-10-26
+updated: 2026-11-10
 sources:
   - title: "马来西亚破产局 (Jabatan Insolvensi Malaysia) — 官方门户网站 (Malaysian Department of Insolvency (Jabatan Insolvensi Malaysia) — official portal)"
     url: "https://www.mdi.gov.my/"
@@ -83,6 +92,15 @@ sources:
   - title: "法定要求偿债书与清盘之比较(马来西亚) (Statutory Demand vs Winding Up (Malaysia))"
     url: "https://globallawexperts.com/statutory-demand-vs-winding-up-malaysia/"
     publisher: "Global Law Experts"
+  - title: "企业债务重组委员会——运作的启动 (Corporate Debt Restructuring Committee — commencement of operations)"
+    url: "https://www.bnm.gov.my/-/corporate-debt-restructuring-committee-operations"
+    publisher: "马来西亚国家银行 (BNM)"
+  - title: "常见问答：2024年公司（修正）法 (FAQ: Companies (Amendment) Act 2024)"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
+    publisher: "马来西亚公司委员会 (SSM)"
+  - title: "欺诈交易法概述 (An Overview of the Law on Fraudulent Trading)"
+    url: "https://www.skrine.com/insights/newsletter/legal-insights-issue-1-2021/an-overview-of-the-law-on-fraudulent-trading"
+    publisher: "Skrine (Advocates & Solicitors)"
   - title: "自2021年4月1日起,债务门槛须超过RM50,000方可根据 S. 466(1)(a) 提出清盘呈请 (Debt Threshold Must Exceed RM50,000 to File Winding Up Petition under S. 466(1)(a) from 1 April 2021)"
     url: "https://www.skrine.com/insights/alerts/april-2021/debt-threshold-must-exceed-rm50-000-to-file-windin"
     publisher: "Skrine (Advocates & Solicitors)"
@@ -155,6 +173,40 @@ framework: explainer
 **司法管理**（第403至430条）是其中的旗舰。法庭委任一名合资格的无力偿债从业者担任**司法管理人**，接管公司的经营，而一项自动的**暂缓令**（moratorium）冻结债权人的强制执行，让企业获得喘息空间。法庭只有在下列情况下才会批准司法管理令：公司已经或将会无力偿债、有合理可能使其恢复健康，且司法管理比清盘更能维护债权人的利益。管理人有最长**180天**——可延长——向债权人提出拯救方案。
 
 与之并存的是两种较轻的工具。**第366条下的债务重组安排**允许公司在代表至少**按价值计75%**的多数投票赞成并经法庭认可后，约束其所有债权人接受和解方案，同时可援引第368条的限制令以在磋商期间挡住债权人。**第395条下的公司自愿安排**在很大程度上无须经过法庭即可达成具约束力的协议，因而对拥有配合的债权人的较小型公司而言更为便宜和快捷。
+
+## 先走庭外：CDRC
+
+对于债务主要欠向银行的公司，最快捷、最省钱的选择往往是完全避开法庭。马来西亚国家银行设有**企业债务重组委员会（Corporate Debt Restructuring Committee，CDRC）**，这是一个自愿性的庭外平台，在可存续的公司与其金融债权人之间进行调解。它向**合计债务达1000万令吉或以上、且至少有两家金融债权人**的企业开放，一旦持有**按价值计75%**债权的放贷人就重组方案达成一致，即约束所有参与的金融债权人。由于它绕开了法庭程序，当问题在于银行债务而非贸易债权人或法定债权人时，CDRC 通常是首先应考虑的途径。（关于债务重组在消费者与小型企业方面——包括来自 AKPK 的免费协助——请参阅[债务整合与重组](/finance/debt-consolidation-restructuring-malaysia)。)
+
+## 当有担保债权人先行动：接管
+
+拯救并不总是由公司来决定。**有担保债权人**——通常是对公司资产拥有押记（charge）的债券持有人（debenture holder）——可委任一名**接管人（receiver）**（或接管兼管理人，receiver and manager），以取得被押记资产的控制权并将其变现，从而收回债务。接管是一种**强制执行**工具，而非对整家公司的拯救：接管人是为有担保债权人行事，且浮动押记（floating charge）必须已经「结晶化」（crystallised），接管人才能触及那些资产。因此，单一且占主导地位的有担保放贷人可以先发制人，抢在上述其他选项之前行动。
+
+## 董事的真正风险敞口——为何及早行动至关重要
+
+对董事而言，最重要的一点是个人层面的。当公司滑向无力偿债时，法律期望董事将其义务的重心**从股东转向债权人**，而不顾这一点继续经营则带有个人风险：
+
+- **欺诈交易（fraudulent trading）**——如果公司的业务是以欺诈债权人为意图而经营，法庭可判定明知而参与者须就公司的债务承担**无限的个人责任**。它要求存在不诚实，因此只有真实的自然人（而非公司本身）才能被认定具有该意图。
+- **不当或无力偿债交易（wrongful or insolvent trading）**——公司高级人员在没有合理或可能预期公司能够偿付的情况下仍令公司承担债务，即属一项罪行。
+
+这正是为何建议总是**及早行动**。在企业仍为持续经营实体时便启动拯救机制，既能提高债权人的回收，也能降低日后经营被判定为欺诈或不当的风险。拖到现金耗尽才行动，会把选项收窄至清盘——并扩大董事的个人风险敞口。
+
+## 该在何时选择哪条途径
+
+没有单一机制适用于每一家陷入困境的公司。作为粗略指引：
+
+| 情况 | 可能的途径 |
+| --- | --- |
+| 业务仍可存续；债务主要欠向银行（1000万令吉以上、两家或以上放贷人） | CDRC——最省钱、庭外进行 |
+| 较小型的私人公司、债权人配合、希望保留控制权 | 公司自愿安排 |
+| 需要一名独立管理人以及一项涵盖众多债权人的法庭暂缓令 | 司法管理 |
+| 大型或复杂的重组；董事会希望保留控制权 | 债务重组安排 |
+| 单一且占主导地位的有担保放贷人进行强制执行 | 接管（往往并非公司的选择） |
+| 没有切实可行的拯救 | 清盘——须留意董事对先前期间的责任 |
+
+## 一个处于过渡中的制度
+
+公司拯救框架正被**《2024年公司（修正）法》（Companies (Amendment) Act 2024）**重塑，该法除其他事项外，扩大了公司自愿安排的适用范围，并调整了暂缓令及债务重组安排的规则。**其部分条文已经生效，另一些则尚待生效日期**，因此确切的现行立场——包括哪些公司可使用哪种工具——应在采取行动前对照最新的《2016年公司法》重印本并咨询持牌无力偿债从业者加以核实。
 
 ## 接下来该怎么做
 

@@ -20,6 +20,8 @@ keyTakeaways:
   - "Seorang pailit dapat dibebaskan melalui tiga cara: perintah pengadilan (s.33), sertifikat KPI setelah 5 tahun (s.33A), atau pembebasan otomatis setelah 3 tahun (s.33C)"
   - "Suatu perusahaan dianggap tidak mampu membayar utangnya begitu tuntutan berkanun Pasal 466 bagi jumlah melebihi RM50,000 tidak diselesaikan dalam waktu 21 hari — satu ambang yang tetap berlaku sejak 1 April 2021 (dinaikkan dari RM10,000)"
   - "Companies Act 2016 menambah jalur penyelamatan — pengurusan kehakiman (ss.403-430) dan aturan sukarela korporat (s.395) — sebagai alternatif pembubaran"
+  - "Suatu perusahaan yang utangnya terutama kepada bank (RM10 juta atau lebih, sekurang-kurangnya dua kreditor keuangan) dapat menata ulang di luar pengadilan melalui Jawatankuasa Penstrukturan Semula Utang Korporat (Corporate Debt Restructuring Committee, CDRC) Bank Negara, yang mengikat pemberi pinjaman yang berpartisipasi begitu 75% menurut nilai menyetujuinya"
+  - "Ketika suatu perusahaan mendekati insolvensi, kewajiban direktur beralih ke arah kreditor; terus berdagang dapat membuat mereka menanggung liabilitas pribadi tanpa batas atas perdagangan curang (fraudulent trading) atau suatu pelanggaran atas perdagangan salah/insolven (wrongful/insolvent trading) — alasan untuk bertindak lebih awal"
 appliesTo: "Debitor, direktur, kreditor, penjamin dan penasihat yang perlu memahami apa yang terjadi di Malaysia apabila seorang individu atau suatu perusahaan tidak mampu membayar utangnya."
 
 faq:
@@ -32,10 +34,12 @@ faq:
   - q: "Apa perbedaan antara pembubaran dan kepailitan?"
     a: "Kepailitan berlaku bagi individu di bawah Insolvency Act 1967; pembubaran (likuidasi) berlaku bagi perusahaan di bawah Companies Act 2016. Suatu perusahaan dapat dibubarkan secara sukarela oleh anggota atau kreditornya, atau secara paksa melalui perintah pengadilan — sering setelah tuntutan berkanun Pasal 466 yang tidak diselesaikan bagi utang melebihi RM50,000."
   - q: "Adakah cara untuk menyelamatkan perusahaan yang berjuang selain melikuidasinya?"
-    a: "Ya. Companies Act 2016 memperkenalkan mekanisme penyelamatan: pengurusan kehakiman (Pasal 403-430), di mana pengurus kehakiman yang ditunjuk pengadilan menjalankan perusahaan di bawah satu moratorium, dan aturan sukarela korporat (Pasal 395). Skema penataan di bawah Pasal 366 juga memungkinkan suatu perusahaan mengikat kreditor pada satu kompromi dengan persetujuan 75% menurut nilai dan pengesahan pengadilan."
+    a: "Ya. Companies Act 2016 memperkenalkan mekanisme penyelamatan: pengurusan kehakiman (Pasal 403-430), di mana pengurus kehakiman yang ditunjuk pengadilan menjalankan perusahaan di bawah satu moratorium, dan aturan sukarela korporat (Pasal 395). Skema penataan di bawah Pasal 366 juga memungkinkan suatu perusahaan mengikat kreditor pada satu kompromi dengan persetujuan 75% menurut nilai dan pengesahan pengadilan. Bagi perusahaan yang utangnya terutama kepada bank, Jawatankuasa Penstrukturan Semula Utang Korporat (Corporate Debt Restructuring Committee, CDRC) Bank Negara menawarkan alternatif di luar pengadilan."
+  - q: "Risiko pribadi apa yang dihadapi seorang direktur jika perusahaan tidak mampu membayar utangnya?"
+    a: "Ketika suatu perusahaan mendekati insolvensi, direktur diharapkan mengutamakan kepentingan kreditor, dan terus berdagang dapat menimbulkan liabilitas pribadi. Jika bisnis dijalankan untuk menipu kreditor, pengadilan dapat menjadikan mereka yang dengan sengaja terlibat menanggung liabilitas pribadi, tanpa batas, atas utang perusahaan (perdagangan curang / fraudulent trading); dan merupakan suatu pelanggaran bagi seorang pejabat untuk menanggung utang tanpa harapan yang wajar bahwa perusahaan dapat membayarnya (perdagangan salah atau insolven / wrongful or insolvent trading). Inilah sebabnya direktur disarankan untuk mencari mekanisme penyelamatan lebih awal daripada terus berdagang dalam keadaan kosong — melakukannya melindungi kreditor dan mengurangi paparan mereka sendiri."
 
 lang: "id"
-sourceContentHash: "b7a5e72bb5b7b503"
+sourceContentHash: "727b118f75f2f441"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -44,20 +48,25 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-10
+    change: "Added corporate-rescue depth (CDRC, receivership, director personal-liability for fraudulent/wrongful trading, a route-selection frame) and flagged the Companies (Amendment) Act 2024 reforms."
+    reviewer: null
 
 verificationNeeded:
   - "Pembebasan Pasal 33A dilakukan melalui sertifikat Ketua Pengarah Insolvensi setelah orang tersebut menjadi pailit selama sekurang-kurangnya lima tahun (diperkenalkan oleh Insolvency (Amendment) Act 2023); pastikan syarat kelayakan terkini yang lengkap terhadap panduan Jabatan Insolvensi Malaysia."
-  - "Pastikan ambang keberutangan Pasal 466(1)(a) terkini (melebihi RM50,000, berlaku efektif sejak 1 April 2021 tanpa tanggal berakhir) terhadap perintah preskripsi terkini yang diwartakan sebelum bergantung padanya."
-  - "Pastikan ketentuan penyelamatan korporat dan rujukannya (pengurusan kehakiman ss.403-430, CVA s.395, skema penataan s.366, masa 180 hari, mayoritas 75% menurut nilai) terhadap cetak ulang Companies Act 2016 terkini."
   - "Pastikan target graf pengetahuan yang benar bagi badan pengelola (Jabatan Insolvensi Malaysia / Ketua Pengarah Insolvensi); hubungan dikelola-oleh yang terdahulu kepada Jabatan Peguam Negara telah dihapus karena tidak didukung."
+  - "Companies (Amendment) Act 2024 membentuk ulang rezim penyelamatan korporat (terutama memperluas akses CVA dan menyesuaikan aturan skema/moratorium), tetapi sebagian ketentuan telah berlaku dan sebagian lain masih menunggu tanggal pemberlakuannya. Sumber-sumber saling bertentangan mengenai ketentuan mana persisnya yang operatif; artikel ini menyatakan garis dasar pra-amandemen dan menandai reformasi tersebut alih-alih menegaskan posisi yang telah diubah sebagai sudah berlaku. Pastikan status pemberlakuan terkini terhadap pemberitahuan SSM/warta kerajaan sebelum menyatakan perusahaan mana dapat menggunakan alat yang mana."
+  - "Kriteria kelayakan CDRC (utang agregat RM10 juta atau lebih; sekurang-kurangnya dua kreditor keuangan; mengikat pada 75% menurut nilai) dijaga identik dengan artikel saudara konsolidasi utang di kategori keuangan dan bersumber dari portal pemerintah serta komentar hukum, bukan dari halaman BNM/CDRC yang diambil secara langsung; verifikasi terhadap CDRC Code of Conduct terkini."
+  - "Poin-poin liabilitas pribadi direktur — perdagangan curang (fraudulent trading; liabilitas pribadi tanpa batas atas ketidakjujuran) dan perdagangan salah/insolven (wrongful/insolvent trading; suatu pelanggaran) di bawah Companies Act 2016 — dinyatakan pada tingkat prinsip dari komentar firma hukum; pasal-pasal persisnya (dilaporkan sebagai s540 dan s539) tidak dikonfirmasi terhadap cetak ulang AGC Act 777 dan tidak dikutip berdasarkan nomor dalam tubuh artikel."
 
-updated: 2026-10-26
+updated: 2026-11-10
 sources:
   - title: "Jabatan Insolvensi Malaysia — portal rasmi (Malaysian Department of Insolvency (Jabatan Insolvensi Malaysia) — official portal)"
     url: "https://www.mdi.gov.my/"
@@ -83,6 +92,15 @@ sources:
   - title: "Tuntutan Berkanun lawan Penggulungan (Malaysia) (Statutory Demand vs Winding Up (Malaysia))"
     url: "https://globallawexperts.com/statutory-demand-vs-winding-up-malaysia/"
     publisher: "Global Law Experts"
+  - title: "Jawatankuasa Penstrukturan Semula Utang Korporat — permulaan operasi (Corporate Debt Restructuring Committee — commencement of operations)"
+    url: "https://www.bnm.gov.my/-/corporate-debt-restructuring-committee-operations"
+    publisher: "Bank Negara Malaysia"
+  - title: "Soalan Lazim: Companies (Amendment) Act 2024 (FAQ: Companies (Amendment) Act 2024)"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
+    publisher: "Companies Commission of Malaysia (SSM)"
+  - title: "Tinjauan Hukum tentang Perdagangan Curang (An Overview of the Law on Fraudulent Trading)"
+    url: "https://www.skrine.com/insights/newsletter/legal-insights-issue-1-2021/an-overview-of-the-law-on-fraudulent-trading"
+    publisher: "Skrine (Advocates & Solicitors)"
   - title: "Ambang Hutang Mesti Melebihi RM50,000 untuk Memfailkan Petisyen Penggulungan di bawah S. 466(1)(a) mulai 1 April 2021 (Debt Threshold Must Exceed RM50,000 to File Winding Up Petition under S. 466(1)(a) from 1 April 2021)"
     url: "https://www.skrine.com/insights/alerts/april-2021/debt-threshold-must-exceed-rm50-000-to-file-windin"
     publisher: "Skrine (Advocates & Solicitors)"
@@ -155,6 +173,40 @@ Di sinilah Companies Act 2016 menandai perubahan nyata. Undang-undang lama diban
 **Pengurusan kehakiman** (Pasal 403-430) adalah alat utama. Pengadilan menunjuk seorang praktisi insolvensi yang berkualifikasi sebagai **pengurus kehakiman** untuk mengambil alih pengelolaan perusahaan, dan satu **moratorium** otomatis membekukan penegakan kreditor agar bisnis mendapat ruang bernapas. Pengadilan memberikan perintah pengurusan kehakiman hanya jika perusahaan itu tidak mampu atau tidak akan mampu membayar utangnya, terdapat kemungkinan yang wajar untuk memulihkannya, dan pengurusan kehakiman akan memberi manfaat lebih baik kepada kreditor dibandingkan pembubaran. Pengurus memiliki hingga **180 hari** — dapat diperpanjang — untuk mengajukan usulan penyelamatan kepada kreditor.
 
 Di sampingnya terdapat dua alat yang lebih ringan. Suatu **skema penataan di bawah Pasal 366** memungkinkan suatu perusahaan mengikat semua kreditornya pada satu kompromi begitu mayoritas yang mewakili sekurang-kurangnya **75% menurut nilai** memberikan suara mendukungnya dan pengadilan mengesahkannya, dengan perintah penahanan di bawah Pasal 368 tersedia untuk menahan kreditor selama perundingan. **Aturan sukarela korporat di bawah Pasal 395** mencapai perjanjian yang mengikat sebagian besar tanpa pengadilan, yang menjadikannya lebih murah dan lebih cepat untuk perusahaan yang lebih kecil dengan kreditor yang bekerja sama.
+
+## Pertama-tama di luar pengadilan: CDRC
+
+Bagi perusahaan yang utangnya terutama kepada bank, pilihan tercepat dan termurah sering kali adalah menghindari pengadilan sepenuhnya. Bank Negara Malaysia menjalankan **Jawatankuasa Penstrukturan Semula Utang Korporat (Corporate Debt Restructuring Committee, CDRC)**, satu platform sukarela di luar pengadilan yang menjadi penengah antara perusahaan yang berdaya hidup dan kreditor keuangannya. Platform ini terbuka bagi bisnis dengan **utang agregat RM10 juta atau lebih dan sekurang-kurangnya dua kreditor keuangan**, dan begitu pemberi pinjaman yang memegang **75% menurut nilai** menyetujui satu skema penataan ulang, ia mengikat semua kreditor keuangan yang berpartisipasi. Karena ia menghindari proses pengadilan, CDRC biasanya menjadi jalur pertama yang dipertimbangkan ketika masalahnya adalah utang bank dan bukan kreditor dagang atau kreditor berkanun. (Untuk sisi konsumen dan bisnis kecil dari penataan ulang utang — termasuk bantuan gratis dari AKPK — lihat [konsolidasi dan penataan ulang utang](/finance/debt-consolidation-restructuring-malaysia).)
+
+## Ketika kreditor terjamin bertindak lebih dulu: receivership
+
+Penyelamatan tidak selalu menjadi pilihan perusahaan. Seorang **kreditor terjamin** — biasanya pemegang debentur dengan bebanan atas aset perusahaan — dapat menunjuk seorang **penerima** (receiver, atau receiver and manager / penerima dan pengurus) untuk mengambil alih aset yang dibebani dan merealisasikannya guna memulihkan utangnya. Receivership adalah alat **penegakan**, bukan penyelamatan seluruh perusahaan: penerima bertindak untuk kreditor terjamin, dan suatu bebanan terapung (floating charge) harus telah mengkristal sebelum penerima dapat menjangkau aset-aset tersebut. Dengan demikian, satu pemberi pinjaman terjamin yang dominan dapat mendahului pilihan-pilihan lain di atas.
+
+## Paparan nyata direktur — mengapa bertindak lebih awal penting
+
+Poin yang paling penting bagi seorang direktur bersifat pribadi. Ketika suatu perusahaan meluncur ke arah insolvensi, undang-undang mengharapkan direktur mengalihkan fokus kewajiban mereka **dari pemegang saham ke kreditor**, dan terus berdagang tanpa menghiraukan hal itu membawa risiko pribadi:
+
+- **Perdagangan curang (fraudulent trading)** — jika bisnis dijalankan dengan niat menipu kreditor, pengadilan dapat menyatakan mereka yang dengan sengaja menjadi pihak di dalamnya **menanggung liabilitas pribadi, tanpa batas**, atas utang perusahaan. Ia mensyaratkan ketidakjujuran, sehingga hanya orang sungguhan (bukan perusahaan) yang dapat dibebani niat tersebut.
+- **Perdagangan salah atau insolven (wrongful or insolvent trading)** — merupakan suatu pelanggaran bagi seorang pejabat untuk menanggung utang ketika tidak ada harapan yang wajar atau yang mungkin bahwa perusahaan dapat membayarnya.
+
+Inilah sebabnya nasihatnya selalu untuk **bertindak lebih awal**. Mengaktifkan mekanisme penyelamatan selagi bisnis masih merupakan usaha yang berjalan (going concern) sekaligus meningkatkan pemulihan bagi kreditor dan mengurangi risiko bahwa perdagangan di kemudian hari dinilai curang atau salah. Menunggu sampai kas habis mempersempit pilihan menjadi likuidasi — dan memperluas paparan pribadi seorang direktur.
+
+## Jalur mana, kapan
+
+Tidak ada satu mekanisme pun yang cocok untuk setiap perusahaan yang bermasalah. Sebagai panduan kasar:
+
+| Situasi | Jalur yang mungkin |
+| --- | --- |
+| Bisnis masih berdaya hidup; utang terutama kepada bank (RM10 juta+, 2+ pemberi pinjaman) | CDRC — termurah, di luar pengadilan |
+| Perusahaan swasta yang lebih kecil, kreditor yang bekerja sama, ingin mempertahankan kendali | Aturan sukarela korporat |
+| Memerlukan pengurus independen dan moratorium pengadilan atas banyak kreditor | Pengurusan kehakiman |
+| Penataan ulang yang besar atau rumit; dewan ingin mempertahankan kendali | Skema penataan |
+| Satu pemberi pinjaman terjamin yang dominan melakukan penegakan | Receivership (sering kali bukan pilihan perusahaan) |
+| Tidak ada penyelamatan yang realistis | Pembubaran — dengan memperhatikan liabilitas direktur atas periode sebelumnya |
+
+## Rezim dalam masa transisi
+
+Kerangka penyelamatan korporat sedang dibentuk ulang oleh **Companies (Amendment) Act 2024**, yang, antara lain, memperluas akses ke aturan sukarela korporat dan menyesuaikan aturan moratorium serta skema penataan. **Sebagian ketentuannya telah berlaku dan sebagian lain masih menunggu tanggal pemberlakuan**, sehingga kedudukan terkini yang tepat — termasuk perusahaan mana yang dapat menggunakan alat yang mana — sebaiknya dipastikan terhadap cetak ulang Companies Act 2016 terbaru dan dengan seorang praktisi insolvensi berlisensi sebelum bertindak.
 
 ## Apa selanjutnya
 
