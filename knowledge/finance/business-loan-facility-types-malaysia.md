@@ -46,7 +46,7 @@ revision: 0
 verificationNeeded:
   - "Facility definitions were corroborated across multiple Malaysian bank product disclosure sheets (Maybank, UOB, RHB, Alliance and others), whose PDFs block automated text extraction though the URLs are live. Verify specific terms (tenors, margins, caps) against a current product disclosure sheet."
   - "The bankers' acceptance tenor range (about 21-365 days) is the established market convention; confirm against Bank Negara's current Guidelines on Bankers Acceptances, which was not retrieved."
-  - "That commercial plant/machinery hire purchase generally falls outside the Hire-Purchase Act 1967 is an inference from the Act's First Schedule scope (consumer goods and listed vehicle classes); a reported Hire-Purchase (Amendment) Act 2025/2026 on hidden charges was not confirmed against the gazette and is not treated as live law here."
+  - "That commercial plant/machinery hire purchase generally falls outside the Hire-Purchase Act 1967 is an inference from the Act's First Schedule scope (consumer goods and listed vehicle classes). The Hire Purchase (Amendment) Act 2026 is in force from 1 June 2026 (abolishing the flat-rate method and the Rule of 78); its detailed treatment, with sources, is in the equipment-asset-financing-malaysia article."
   - "Licensing of factoring providers under the Financial Services Act 2013 is from secondary sources; verify before stating as settled."
 revisions:
   - revision: 0

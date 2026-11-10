@@ -1,8 +1,23 @@
 # Finance & Banking — new-article proposals (SME-financing gap)
 
-**Status:** PROPOSAL (not drafted) 2026-11-10. Derived from researching 15 Malaysian
-financing-advisory / loan-broker firms the user supplied, read against the 19 existing
-`knowledge/finance/` masters. Held — no files created yet.
+**Status:** 2026-11-10. Derived from researching 15 Malaysian financing-advisory /
+loan-broker firms the user supplied, read against the 19 existing `knowledge/finance/`
+masters.
+
+- **P1 (6 articles, MY-FIN-0020..0025):** DONE + PUSHED + LIVE (masters 18a09da1e,
+  translations d80347397).
+- **P2 (5 articles, MY-FIN-0026..0030):** DRAFTED — all five written + validated, held
+  for translation + push. invoice-financing-factoring (0026), trade-finance (0027),
+  equipment-asset-financing (0028), debt-service-ratio-dsr (0029),
+  loan-agents-financing-advisers (0030).
+- **P3a (improve credit score):** RESOLVED → new standalone `improve-credit-score-malaysia`
+  (MY-FIN-0031), DRAFTED. Chose a focused how-to head-term page over bloating the existing
+  CCRIS/CTOS institutional master (which would cascade-stale its 12 translations anyway).
+- **P3b (corporate debt restructuring — CDRC / scheme of arrangement / judicial
+  management):** RESOLVED → DEFER, not drafted in `finance`. It is corporate-insolvency law
+  (a `companies`-category audience + a separate research initiative) and is already
+  pointed-to from the P1 debt-consolidation article. Forcing it into `finance` would
+  miscategorise it. Revisit as a future `companies`/insolvency batch.
 
 ## Why this is the right gap
 
