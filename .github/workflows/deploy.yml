@@ -166,6 +166,16 @@ jobs:
           # the artifact. Reversible: clear the var. (The per-article .md endpoint
           # stays same-origin — its contract is "append .md to any article URL".)
           LLMS_FULL_BASE_URL: ${{ vars.LLMS_FULL_BASE_URL }}
+          # Pagefind search-bundle host. Empty (default) → the ~188 MB search
+          # index (≈27k incompressible .pf_fragment/.pf_index shards) ships
+          # same-origin in the Pages artifact at /pagefind/*. Set the repo
+          # VARIABLE `PAGEFIND_BASE_URL` (e.g. https://og.negaraku.md/_pagefind)
+          # to serve the bundle from R2 instead — the "Offload pagefind to R2"
+          # step below syncs dist/pagefind to the bucket under _pagefind/ and
+          # strips it from the artifact. Reversible: clear the var. NOTE: unlike
+          # OG/llms this is fetched cross-origin, so the bucket needs a GET CORS
+          # policy for the site origin (the offload step asserts one).
+          PAGEFIND_BASE_URL: ${{ vars.PAGEFIND_BASE_URL }}
           # Maintenance mode — only ever on via a manual "Run workflow" with the
           # toggle. A normal push (inputs empty) always deploys the live site.
           MAINTENANCE: ${{ github.event.inputs.maintenance == 'true' && '1' || '' }}
@@ -247,6 +257,95 @@ jobs:
             --cache-control "public, max-age=3600"
           find dist -name llms-full.txt -delete
           echo "== dist size after llms-full offload =="; du -sh dist
+
+      # When PAGEFIND_BASE_URL is set, the ~188 MB search index (dist/pagefind,
+      # ≈27k .pf_fragment/.pf_index shards + meta + wasm + pagefind.js) lives on
+      # Cloudflare R2, not in the Pages artifact. Pagefind's binaries are already
+      # compressed, so they cost ~their full size in the single deflate-stream
+      # artifact — offloading them is the biggest single lever after the OG cards.
+      #
+      # Unlike OG (<img>) and llms-full (navigations), the browser fetches these
+      # shards cross-origin (fetch + a cross-origin dynamic import of pagefind.js),
+      # so the bucket needs a GET/HEAD CORS policy for the site origin. We assert
+      # one here (idempotent, best-effort — the object-scoped R2 token may lack
+      # PutBucketCors; if so this warns and you set CORS once by hand/dashboard).
+      #
+      # Sync strategy: the shards, meta and wasm are content-hashed filenames, so
+      # --size-only is correct and skips unchanged files (fast incremental). The
+      # two fixed-name control files (pagefind.js, pagefind-entry.json — the latter
+      # is the pointer to the current per-language index hashes) are re-uploaded
+      # UNCONDITIONALLY so a changed pointer can never be skipped on a size match.
+      # If the var is set but the R2 secrets are missing we FAIL — never ship a
+      # /search page whose bundle URL points at an empty bucket.
+      - name: Offload pagefind to R2
+        if: ${{ vars.PAGEFIND_BASE_URL != '' }}
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+          R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+          R2_BUCKET: ${{ secrets.R2_BUCKET }}
+          AWS_REQUEST_CHECKSUM_CALCULATION: when_required
+          AWS_RESPONSE_CHECKSUM_VALIDATION: when_required
+          # Origins allowed to fetch the search shards cross-origin.
+          SITE_ORIGINS: '"https://negaraku.md","https://www.negaraku.md"'
+        run: |
+          if [ -z "$AWS_ACCESS_KEY_ID" ] || [ -z "$AWS_SECRET_ACCESS_KEY" ] || [ -z "$R2_ACCOUNT_ID" ] || [ -z "$R2_BUCKET" ]; then
+            echo "::error::PAGEFIND_BASE_URL is set but R2_ACCESS_KEY_ID / R2_SECRET_ACCESS_KEY / R2_ACCOUNT_ID / R2_BUCKET are not all present. Refusing to ship a /search page whose bundle points at an unpopulated bucket."
+            exit 1
+          fi
+          if [ ! -d dist/pagefind ]; then
+            echo "::error::dist/pagefind does not exist — pagefind did not run in the build. Refusing to strip a non-existent index."
+            exit 1
+          fi
+          EP="https://${R2_ACCOUNT_ID}.r2.cloudflarestorage.com"
+          echo "== pagefind before offload =="; du -sh dist/pagefind || true; find dist/pagefind -type f | wc -l
+
+          # 1) Assert the GET/HEAD CORS policy (idempotent, best-effort).
+          cat > /tmp/pf-cors.json <<JSON
+          { "CORSRules": [ { "AllowedOrigins": [ ${SITE_ORIGINS} ], "AllowedMethods": ["GET","HEAD"], "AllowedHeaders": ["*"], "MaxAgeSeconds": 86400 } ] }
+          JSON
+          if aws s3api put-bucket-cors --bucket "$R2_BUCKET" --endpoint-url "$EP" --cors-configuration file:///tmp/pf-cors.json 2>/tmp/cors.err; then
+            echo "CORS policy asserted on $R2_BUCKET for: ${SITE_ORIGINS}"
+          else
+            echo "::warning::Could not set the bucket CORS policy automatically (the R2 token may be object-scoped). Search will fail cross-origin until a GET/HEAD CORS policy for ${SITE_ORIGINS} is applied to the bucket by hand (Cloudflare dashboard → R2 → bucket → Settings → CORS, or aws s3api put-bucket-cors). Details: $(cat /tmp/cors.err)"
+          fi
+
+          # 2) Bulk content-hashed shards — --size-only is correct (changed content
+          #    → new hash → new key), long-immutable cache. .pf_* read as bytes so
+          #    content-type is cosmetic; wasm served as application/wasm.
+          aws s3 sync dist/pagefind "s3://${R2_BUCKET}/_pagefind/" --endpoint-url "$EP" \
+            --size-only --no-progress --only-show-errors \
+            --exclude "*" --include "*.pf_meta" --include "*.pf_index" --include "*.pf_fragment" --include "*.pf_filter" \
+            --content-type "application/octet-stream" \
+            --cache-control "public, max-age=31536000, immutable"
+          aws s3 sync dist/pagefind "s3://${R2_BUCKET}/_pagefind/" --endpoint-url "$EP" \
+            --size-only --no-progress --only-show-errors \
+            --exclude "*" --include "*.wasm" \
+            --content-type "application/wasm" \
+            --cache-control "public, max-age=31536000, immutable"
+
+          # 3) Fixed-name / loader files — re-upload UNCONDITIONALLY (cp, not sync)
+          #    with a short TTL, so a changed pagefind-entry.json pointer is never
+          #    skipped on a size match and a rebuilt index goes live within the hour.
+          aws s3 cp dist/pagefind "s3://${R2_BUCKET}/_pagefind/" --recursive --endpoint-url "$EP" \
+            --no-progress --only-show-errors \
+            --exclude "*" --include "*.js" \
+            --content-type "text/javascript; charset=utf-8" \
+            --cache-control "public, max-age=3600"
+          aws s3 cp dist/pagefind "s3://${R2_BUCKET}/_pagefind/" --recursive --endpoint-url "$EP" \
+            --no-progress --only-show-errors \
+            --exclude "*" --include "*.json" \
+            --content-type "application/json; charset=utf-8" \
+            --cache-control "public, max-age=3600"
+          aws s3 cp dist/pagefind "s3://${R2_BUCKET}/_pagefind/" --recursive --endpoint-url "$EP" \
+            --no-progress --only-show-errors \
+            --exclude "*" --include "*.css" \
+            --content-type "text/css; charset=utf-8" \
+            --cache-control "public, max-age=3600"
+
+          rm -rf dist/pagefind
+          echo "== dist size after pagefind offload =="; du -sh dist
 
       - uses: actions/upload-pages-artifact@v5
         with:

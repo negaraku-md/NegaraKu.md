@@ -94,10 +94,51 @@ analytics Worker (runs on `negaraku.md/*`, Free-plan, deliberately carved OUT of
 paths to stay under 100k req/day) — high blast radius for ~70 MB compressed. Left
 in-artifact by design.
 
+## Durability — pagefind offload (BUILT + HELD, same session)
+
+The **biggest remaining lever**, built right after llms-full: offload the Pagefind
+search index (`dist/pagefind`, ≈27k `.pf_fragment`/`.pf_index` shards + meta + wasm +
+`pagefind.js`) to R2. Measured on the live site, pagefind's binaries are **already
+compressed** — a 17 KB `.pf_meta` gzips to 17 KB (ratio **1.00**) — so the ~188 MB
+directory costs ~188 MB *compressed* in the single-deflate-stream artifact. Offloading
+it is worth **~188 MB**, more than llms-full's ~65 MB. Gated + reversible, OFF by default.
+
+- `src/lib/pagefind.ts` — `pagefindEntry()` honoring `PAGEFIND_BASE_URL` (parallel to
+  `og.ts` / `llmsFull.ts`). Default → same-origin `/pagefind/pagefind.js`.
+- `src/components/SearchView.astro` — the one runtime consumer. Imports the bundle from
+  a baked `data-pf` attribute instead of a hard-coded path, and pins
+  `pf.options({ baseUrl: '/' })` before `init()`.
+- `.github/workflows/deploy.yml` — passes `PAGEFIND_BASE_URL` to the build + a gated
+  "Offload pagefind to R2" step: asserts a GET/HEAD CORS policy (best-effort), syncs the
+  content-hashed shards under `_pagefind/` with `--size-only` (immutable TTL), re-uploads
+  the fixed-name control files (`pagefind.js`, `pagefind-entry.json`) unconditionally
+  (short TTL, so the index pointer is never stale), then `rm -rf dist/pagefind`.
+
+**Two correctness points that make pagefind different from OG/llms:**
+1. **Cross-origin.** The browser fetches shards with `fetch()` and loads `pagefind.js`
+   as a cross-origin dynamic `import()`. Unlike OG (`<img>`) and llms (navigations),
+   that needs a **CORS policy** on the bucket — the first R2 consumer that does. The
+   deploy step asserts `GET`/`HEAD` for the site origins; if the object-scoped R2 token
+   can't set CORS it warns, and you apply it once by hand.
+2. **Result-link origin.** Pagefind derives result URLs from the bundle's origin
+   (`getDefaultBaseUrl`), so an R2-hosted bundle would point every hit at
+   `og.negaraku.md/...` (404). `baseUrl: '/'` pins links to this origin — the same value
+   pagefind derives same-origin, so it's a no-op when not offloaded.
+
+**Activation (USER):**
+1. Set the repo VARIABLE `PAGEFIND_BASE_URL = https://og.negaraku.md/_pagefind`.
+2. Ensure the bucket's CORS allows `GET`/`HEAD` from `https://negaraku.md` (the deploy
+   step tries to set this; verify in Cloudflare → R2 → bucket → Settings → CORS, or
+   `aws s3api put-bucket-cors`).
+3. After the next deploy, **test search on the live site** (the one feature that visibly
+   breaks if CORS is wrong — it degrades to a friendly "unavailable" message, not a crash).
+
+Next deploy then strips ~188 MB → **~0.93 GB → ~0.74 GB**. Clear the var to revert.
+
 ## Further headroom (NOT built)
-1. `pagefind/` (188 MB) → R2, mirrors OG but needs a bucket CORS policy (pagefind uses
-   `fetch`/`import`, not `<img>`; rewire `SearchView.astro` `import('/pagefind/pagefind.js')`).
-2. Long-term: whole site on R2 + a Worker (removes the cap; Cloudflare Pages is out —
-   20k-file cap < our ~96k files).
+- Long-term: whole site on R2 + a Worker (removes the cap; Cloudflare Pages is out —
+  20k-file cap < our ~96k files). With OG + llms-full + pagefind all offloaded the
+  artifact sits ~0.74 GB, a comfortable margin under 1 GiB — no further lever is needed
+  until the corpus grows substantially.
 
 See [[negaraku-og-r2-offload]], [[negaraku-og-card-fixes]].
