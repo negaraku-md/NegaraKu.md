@@ -5,6 +5,7 @@ import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import { FontaineTransform } from 'fontaine';
+import { rehypeArabicRanges } from './src/lib/bidi';
 
 // Canonical production URL (kept in sync with src/lib/site.ts).
 const SITE = 'https://negaraku.md';
@@ -603,5 +604,9 @@ export default defineConfig({
   ],
   markdown: {
     shikiConfig: { theme: 'github-light', wrap: true },
+    // Fix the confirmed Arabic bidi bug: numeric ranges joined by an en/em-dash (or
+    // comma-grouped) render reversed under RTL. This isolates them at render time, only
+    // for *.ar.md bodies, skipping code. See src/lib/bidi.ts + docs/plans/ar-rtl-bidi-audit.md.
+    rehypePlugins: [rehypeArabicRanges],
   },
 });

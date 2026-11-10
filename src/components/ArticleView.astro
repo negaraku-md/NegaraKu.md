@@ -9,6 +9,7 @@ import { newIssueUrl, articleMetaFooter } from '@/lib/feedback';
 import { subcatLabel } from '@/lib/subcategories';
 import { getFramework } from '@/lib/frameworks';
 import { imageLabel, needsRepresentativeBadge, reviewSourceLabel } from '@/lib/imageProvenance';
+import { isolateRanges } from '@/lib/bidi';
 import TrustBadge from './TrustBadge.astro';
 import FeedbackBar from './FeedbackBar.astro';
 import BecomeContributor from './BecomeContributor.astro';
@@ -36,6 +37,9 @@ interface Props {
 }
 const { locale, article } = Astro.props;
 const d = article.data;
+// Arabic bidi fix: isolate reversing numeric ranges in the plain-text frontmatter
+// fields (the body is handled by the rehype plugin). No-op for every other locale.
+const iso = (t: string) => (locale === 'ar' ? isolateRanges(t) : t);
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const tomb = isTombstone(article); // a retired no-successor topic, served read-only
@@ -374,7 +378,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
     </div>
 
     <h1>{d.title}</h1>
-    <p class="lede">{d.summary}</p>
+    <p class="lede">{iso(d.summary)}</p>
   </div>
 </header>
 
@@ -571,17 +575,17 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
               )}
             </header>
             <div class="lb">
-              <p class="answer">{d.answer}</p>
+              <p class="answer">{iso(d.answer)}</p>
               {d.keyTakeaways.length > 0 && (
                 <ul class="kt">
                   {d.keyTakeaways.map((k) => (
-                    <li>{k}</li>
+                    <li>{iso(k)}</li>
                   ))}
                 </ul>
               )}
               {d.appliesTo && (
                 <p class="applies">
-                  <b>{L('Untuk siapa:', 'Who this applies to:', '适用对象：', 'யாருக்குப் பொருந்தும்:', '対象となる人：', '적용 대상:', 'ใช้กับใคร:', 'Áp dụng cho ai:', 'Untuk siapa:', 'لمن ينطبق هذا:', 'यह किन पर लागू होता है:', 'A quién aplica:', "Qui est concerné :")}</b> {d.appliesTo}
+                  <b>{L('Untuk siapa:', 'Who this applies to:', '适用对象：', 'யாருக்குப் பொருந்தும்:', '対象となる人：', '적용 대상:', 'ใช้กับใคร:', 'Áp dụng cho ai:', 'Untuk siapa:', 'لمن ينطبق هذا:', 'यह किन पर लागू होता है:', 'A quién aplica:', "Qui est concerné :")}</b> {iso(d.appliesTo)}
                 </p>
               )}
             </div>
@@ -620,8 +624,8 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
             <div class="lb faqs">
               {d.faq.map((f) => (
                 <details>
-                  <summary>{f.q}</summary>
-                  <p>{f.a}</p>
+                  <summary>{iso(f.q)}</summary>
+                  <p>{iso(f.a)}</p>
                 </details>
               ))}
             </div>
