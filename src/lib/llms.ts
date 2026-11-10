@@ -2,6 +2,7 @@ import { articlesForLocale, isWithheld } from '@/lib/content';
 import { CATEGORIES, loc } from '@/lib/categories';
 import { articleToMarkdown } from '@/lib/raw';
 import { SITE } from '@/lib/site';
+import { llmsFullUrl } from '@/lib/llmsFull';
 import { localePath, type Locale } from '@/lib/i18n';
 
 // Intro blockquote per language, kept parallel across all thirteen locales. Each
@@ -110,7 +111,7 @@ export async function buildLlmsIndex(locale: Locale): Promise<string> {
   // machine surfaces that make the "AI-friendly" claim concrete: the full Markdown
   // dump, the JSON manifest, and the Hugging Face dataset (same distributions the
   // homepage Dataset JSON-LD advertises).
-  const fullUrl = `${SITE}${localePath('/llms-full.txt', locale)}`;
+  const fullUrl = llmsFullUrl(localePath('/llms-full.txt', locale), SITE);
   out.push('## Optional', '');
   out.push(`- [Full corpus (Markdown)](${fullUrl}): every article in this language concatenated as one Markdown document.`);
   out.push(`- [Article metadata (JSON)](${SITE}/api/articles.json): machine-readable manifest of every article — title, category, dates and sources, all languages.`);

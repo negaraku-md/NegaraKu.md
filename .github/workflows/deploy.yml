@@ -158,6 +158,14 @@ jobs:
           # the "Offload OG cards to R2" step below then syncs public/og to R2
           # and strips dist/og from the artifact. Reversible: clear the var.
           OG_BASE_URL: ${{ vars.OG_BASE_URL }}
+          # Full-corpus llms-full.txt host. Empty (default) → the 14 per-language
+          # dumps (~301 MB) ship same-origin in the Pages artifact. Set the repo
+          # VARIABLE `LLMS_FULL_BASE_URL` (e.g. https://og.negaraku.md/_llms) to
+          # serve them from R2 instead — the "Offload llms-full.txt to R2" step
+          # below then syncs them to the bucket under _llms/ and strips them from
+          # the artifact. Reversible: clear the var. (The per-article .md endpoint
+          # stays same-origin — its contract is "append .md to any article URL".)
+          LLMS_FULL_BASE_URL: ${{ vars.LLMS_FULL_BASE_URL }}
           # Maintenance mode — only ever on via a manual "Run workflow" with the
           # toggle. A normal push (inputs empty) always deploys the live site.
           MAINTENANCE: ${{ github.event.inputs.maintenance == 'true' && '1' || '' }}
@@ -204,6 +212,41 @@ jobs:
             --cache-control "public, max-age=31536000, immutable"
           rm -rf dist/og
           echo "== dist size after OG offload =="; du -sh dist
+
+      # When LLMS_FULL_BASE_URL is set, the 14 per-language whole-corpus dumps
+      # (dist/**/llms-full.txt, ~301 MB) live on Cloudflare R2, not in the Pages
+      # artifact. Sync them to the bucket under the _llms/ prefix (so the keys
+      # mirror the paths the rewritten links point at — e.g. _llms/en/llms-full.txt),
+      # then delete them from dist. Reuses the same R2 bucket + creds as the OG
+      # offload. If the var is set but the R2 secrets are missing we FAIL — never
+      # ship llms.txt links pointing at an empty bucket.
+      - name: Offload llms-full.txt to R2
+        if: ${{ vars.LLMS_FULL_BASE_URL != '' }}
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+          R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+          R2_BUCKET: ${{ secrets.R2_BUCKET }}
+          AWS_REQUEST_CHECKSUM_CALCULATION: when_required
+          AWS_RESPONSE_CHECKSUM_VALIDATION: when_required
+        run: |
+          if [ -z "$AWS_ACCESS_KEY_ID" ] || [ -z "$AWS_SECRET_ACCESS_KEY" ] || [ -z "$R2_ACCOUNT_ID" ] || [ -z "$R2_BUCKET" ]; then
+            echo "::error::LLMS_FULL_BASE_URL is set but R2_ACCESS_KEY_ID / R2_SECRET_ACCESS_KEY / R2_ACCOUNT_ID / R2_BUCKET are not all present. Refusing to ship llms.txt links that point at an unpopulated bucket."
+            exit 1
+          fi
+          EP="https://${R2_ACCOUNT_ID}.r2.cloudflarestorage.com"
+          echo "== llms-full.txt dumps before offload =="; find dist -name llms-full.txt -printf '%s\t%p\n' | sort -rn || true
+          # Mirror dist's llms-full.txt files to the bucket under _llms/ (keys keep
+          # the <lang>/llms-full.txt layout). text/plain; modest TTL so a corrected
+          # corpus can't stay stale at the edge for long.
+          aws s3 sync dist "s3://${R2_BUCKET}/_llms/" --endpoint-url "$EP" \
+            --size-only --no-progress --only-show-errors \
+            --exclude "*" --include "llms-full.txt" --include "*/llms-full.txt" \
+            --content-type "text/plain; charset=utf-8" \
+            --cache-control "public, max-age=3600"
+          find dist -name llms-full.txt -delete
+          echo "== dist size after llms-full offload =="; du -sh dist
 
       - uses: actions/upload-pages-artifact@v5
         with:

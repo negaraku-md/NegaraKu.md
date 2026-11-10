@@ -4,6 +4,7 @@ import type { ContentLocale, Locale, Category } from './categories';
 import { getCategory, loc } from './categories';
 import { subcatLabel, SUBCATEGORY_LABELS } from './subcategories';
 import { SITE } from './site';
+import { llmsFullUrl } from './llmsFull';
 import { localePath, withTrailingSlash, LOCALES } from './i18n';
 import { getGitInfo } from './apidata';
 
@@ -421,7 +422,7 @@ export function datasetJsonLd(locale: Locale = 'en'): Record<string, unknown> {
         '@type': 'DataDownload',
         name: 'Full corpus for LLMs (llms.txt)',
         encodingFormat: 'text/plain',
-        contentUrl: `${SITE}/llms-full.txt`,
+        contentUrl: llmsFullUrl('/llms-full.txt', SITE),
       },
       {
         '@type': 'DataDownload',

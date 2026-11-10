@@ -64,16 +64,40 @@ Externalize the one shared flower into a single cached sprite and reference it w
 Appearance is identical (same geometry, same `currentColor` → same gold). Decorative
 blooms are `aria-hidden`; the browser fetches the 17.5 KB sprite once and caches it.
 
-## Durability / future headroom (NOT in this change)
+## Durability — llms-full.txt offload (BUILT + HELD, same session)
 
-~0.99 GB leaves ~8% headroom; the corpus grows ~monthly (~22 KB compressed per new
-page). When it tightens again, the next levers, in order of cleanliness:
-1. Offload the AI text endpoints (`llms-full.txt` 301 MB, raw `.md` 291 MB) to R2 —
-   plain static files, large, trivially separable (needs URL rewrite, no CORS for
-   direct links).
-2. Offload `pagefind/` to R2 (mirrors the OG `OG_BASE_URL` pattern; needs a bucket
-   CORS policy because pagefind uses `fetch`/`import`, not `<img>`).
-3. Long-term: serve the whole site from R2 + a Worker (removes the cap entirely;
-   Cloudflare Pages is out — 20k-file cap < our ~96k files).
+Second lever, built right after the flower fix: offload the 14 per-language
+whole-corpus dumps (`llms-full.txt`, ~301 MB uncompressed → ~65 MB compressed) to
+R2, mirroring the OG `OG_BASE_URL` pattern. Gated + reversible, OFF by default.
+
+- `src/lib/llmsFull.ts` — `llmsFullUrl()` honoring `LLMS_FULL_BASE_URL` (parallel to
+  `src/lib/og.ts`). Unit-tested both modes.
+- Rewrote the 3 link sites through it: `src/lib/llms.ts` (llms.txt `## Optional`),
+  `src/lib/seo.ts` (homepage Dataset JSON-LD), `src/components/LlmsView.astro`
+  (/llms download). Default (var unset) = same-origin, verified unchanged in dev.
+- `.github/workflows/deploy.yml` — passes `LLMS_FULL_BASE_URL` to the build + a gated
+  "Offload llms-full.txt to R2" step: `aws s3 sync` the `llms-full.txt` files to the
+  OG bucket under `_llms/` (keys mirror the paths, e.g. `_llms/en/llms-full.txt`,
+  `text/plain`, 1 h TTL), then `find dist -name llms-full.txt -delete`. Reuses the OG
+  R2 bucket + creds.
+
+**Activation (USER, one step, like OG was):** set the repo VARIABLE
+`LLMS_FULL_BASE_URL = https://og.negaraku.md/_llms` (Settings → Secrets and variables
+→ Actions → Variables, or `gh variable set`). Next deploy then syncs the dumps to R2
+and strips them from the artifact → **~0.99 GB → ~0.93 GB**. Clear the var to revert.
+
+### Why raw `.md` is NOT offloaded
+The per-article `.md` endpoint's contract is literally "append `.md` to any article
+URL" (advertised in every llms.txt). Moving it to a subdomain breaks that; keeping the
+same-origin URL while serving from R2 needs routing every `*.md` through the always-on
+analytics Worker (runs on `negaraku.md/*`, Free-plan, deliberately carved OUT of asset
+paths to stay under 100k req/day) — high blast radius for ~70 MB compressed. Left
+in-artifact by design.
+
+## Further headroom (NOT built)
+1. `pagefind/` (188 MB) → R2, mirrors OG but needs a bucket CORS policy (pagefind uses
+   `fetch`/`import`, not `<img>`; rewire `SearchView.astro` `import('/pagefind/pagefind.js')`).
+2. Long-term: whole site on R2 + a Worker (removes the cap; Cloudflare Pages is out —
+   20k-file cap < our ~96k files).
 
 See [[negaraku-og-r2-offload]], [[negaraku-og-card-fixes]].

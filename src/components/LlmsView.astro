@@ -3,6 +3,7 @@ import type { Locale } from '@/lib/categories';
 import { localePath } from '@/lib/i18n';
 import { SITE } from '@/lib/site';
 import { buildLlmsIndex } from '@/lib/llms';
+import { llmsFullUrl } from '@/lib/llmsFull';
 import PageHero from './PageHero.astro';
 
 interface Props {
@@ -15,7 +16,8 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
 // copy/download actions; /llms.txt stays the raw endpoint crawlers fetch.
 const index = await buildLlmsIndex(locale);
 const txtUrl = localePath('/llms.txt', locale);
-const fullUrl = localePath('/llms-full.txt', locale);
+// llms-full.txt may be offloaded to R2 (LLMS_FULL_BASE_URL) → absolute R2 URL; else same-origin.
+const fullUrl = llmsFullUrl(localePath('/llms-full.txt', locale));
 const absTxt = `${SITE}${txtUrl}`;
 
 // A ready-to-paste instruction for an AI assistant (the "give this to your AI" copy).
