@@ -4,14 +4,13 @@ import type { Article } from '@/lib/content';
 import { getCategory, getPillar, PILLARS, loc } from '@/lib/categories';
 import { allArticles, effectiveStatus, readingTime } from '@/lib/content';
 import { subcatLabel } from '@/lib/subcategories';
+import { ogAsset } from '@/lib/og';
 import { t } from '@/lib/i18n';
 import { readFileSync } from 'node:fs';
 
-// Optional visitor analytics, keyed by "category/slug". Three buckets — human
-// readers, search-engine crawlers, and AI crawlers — each tracked in detail by
-// named agent but summarised on the card. `search`/`ai` may be a plain number
-// or { total, byBot: { Googlebot: n, … } }. Absent until analytics is wired up
-// (see docs) — the row then shows "not tracked yet" rather than inventing data.
+// Optional visitor analytics, keyed by "category/slug". The reader count feeds
+// the "Most read" sort and the rank badge on /most-read. Absent until analytics
+// is wired up (see docs) — the row then shows no reader count rather than a 0.
 type Bucket = number | { total: number; byBot?: Record<string, number> };
 let analytics: Record<string, { readers?: number; search?: Bucket; ai?: Bucket }> = {};
 try {
@@ -19,17 +18,19 @@ try {
 } catch {
   analytics = {};
 }
-// Reader count for the "Most read" sort (a bucket may be a plain number or {total}).
 const bReads = (v: unknown): number => {
   if (typeof v === 'number') return v;
   if (v && typeof v === 'object' && 'total' in v) return (v as { total?: number }).total ?? 0;
   return 0;
 };
 
-// Reusable article card-list: sort tabs, filters, paginated cards. Used on the
-// All Articles page and, pre-scoped, on section / category / topic pages — one
-// list design everywhere; only which filters show differs. Interaction is
-// client-side over an embedded manifest, so no build-time pagination.
+// Reusable article list, editorial "blog" layout: each item is a horizontal
+// row-card — OG thumbnail · section/category/topic tags · title · one-line
+// summary · quiet meta (cites · read time · updated · languages). Same card DNA
+// as the homepage "Latest" strip (ArticleCard), reflowed into rows so a list
+// page is scannable. Sort / search / filter / pagination are client-side over an
+// embedded manifest; used on the All Articles page and, pre-scoped, on
+// section / category / topic pages.
 
 type FilterKey = 'sec' | 'cat' | 'top' | 'status';
 interface Props {
@@ -59,7 +60,8 @@ const has = (f: FilterKey) => filters.includes(f);
 const dateLocale = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale;
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
-// Which languages each topic exists in (publishable files only).
+// How many languages each topic exists in (publishable files only) — surfaced as
+// a single "N languages" meta item instead of a wall of per-language chips.
 const langsByKey = new Map<string, Set<string>>();
 for (const a of await allArticles()) {
   const key = `${a.data.category}/${a.data.slug}`;
@@ -77,11 +79,6 @@ const SENS_LABEL: Record<string, string> = {
   'legal-proceedings': L('Perundangan', 'Legal', '法律程序', 'சட்டம்', '法律', '법률', 'กฎหมาย', 'Pháp lý', 'Hukum', 'الشؤون القانونية', 'कानूनी', 'Jurídico', 'Juridique'),
 };
 
-const iso = (v: unknown) => (v ? new Date(v as string).toISOString().slice(0, 10) : '');
-// Published actor: general articles are honestly "AI-published"; sensitive ones
-// keep the named human (matches ArticleView's chain of custody).
-const AI_PUBLISHED = L('Diterbitkan AI', 'AI-published', 'AI 发布', 'AI வெளியிட்டது', 'AI が公開', 'AI 공개', 'เผยแพร่โดย AI', 'Được AI xuất bản', 'Diterbitkan AI', 'نُشر بواسطة الذكاء الاصطناعي', 'AI द्वारा प्रकाशित', 'Publicado por IA', "Publié par l'IA");
-
 const rows = articles.map((a, i) => {
   const d = a.data;
   const key = `${d.category}/${d.slug}`;
@@ -90,49 +87,34 @@ const rows = articles.map((a, i) => {
   const topic = d.subcategory?.[0];
   const sens = d.sensitivity && d.sensitivity !== 'none' ? d.sensitivity : null;
   const st = effectiveStatus(a);
-  const revs = [...(d.revisions ?? [])].sort((x, y) => +new Date(x.date) - +new Date(y.date));
-  const first = revs[0];
-  // Chain of custody — SAME derivation as ArticleView so the two never diverge:
-  // reviewed/published fall back to the review record we actually keep. Unknown
-  // human actor → "AI draft" (draft step); a step not yet reached is "pending".
-  const isReviewed = d.status === 'reviewed' || d.status === 'published';
-  const isPublished = d.status === 'published';
-  // Compact [who, date, reached] triples in fixed order (draft, reviewed,
-  // published); the client maps the index back to the stage. Dropping the
-  // repeated key/field names across ~1,000 rows trims the inline JSON ~120 KB.
-  const custody = [
-    [d.aiAssisted ? null : first?.contributor ?? d.author ?? null, iso(d.created ?? first?.date ?? d.updated), true],
-    [isReviewed ? d.reviewer ?? null : null, isReviewed ? iso(d.reviewed) : '', isReviewed],
-    [isPublished ? (sens ? (d.publishedBy ?? d.reviewer ?? AI_PUBLISHED) : AI_PUBLISHED) : null, isPublished ? iso(d.published ?? d.reviewed) : '', isPublished],
-  ];
   return {
     t: d.title,
-    // `h` (the localized href) is derived client-side from `p` — saves ~40 KB.
+    sum: d.summary ?? '',
+    // `h` (the localized href) is derived client-side from `p` — saves bytes.
     p: `/${d.category}/${d.slug}`,
+    // Reuse the auto-generated OG card's small WebP thumbnail (~10 KB) as the
+    // row image; the client hides it on 404 so the gradient shows instead.
+    og: ogAsset(`/og/${locale}/${d.category}/${d.slug}.thumb.webp`),
+    hero: d.hero ?? null, // a real cover photo (food / restaurant) wins over the OG card
     secId: pillar ?? '',
     catId: d.category,
     topId: topic ?? '',
-    ml: (d.masterLanguage ?? d.lang ?? 'ms').toUpperCase(),
     st,
-    cls: sens ? SENS_LABEL[sens] ?? L('Sensitif', 'Sensitive', '敏感', 'கூருணர்வான', '要配慮', '민감', 'ละเอียดอ่อน', 'Nhạy cảm', 'Sensitif', 'حساس', 'संवेदनशील', 'Sensible', 'Sensible') : L('Umum', 'General', '一般', 'பொது', '一般', '일반', 'ทั่วไป', 'Chung', 'Umum', 'عام', 'सामान्य', 'General', 'Général'),
     sens: !!sens,
-    rev: d.reviewDue ? new Date(d.reviewDue).toISOString().slice(0, 10) : '',
-    revOverdue: !!d.reviewDue && new Date(d.reviewDue).getTime() < Date.now(),
-    langs: [...(langsByKey.get(key) ?? [])].sort(),
+    cls: sens ? SENS_LABEL[sens] ?? L('Sensitif', 'Sensitive', '敏感', 'கூருணர்வான', '要配慮', '민감', 'ละเอียดอ่อน', 'Nhạy cảm', 'Sensitif', 'حساس', 'संवेदनशील', 'Sensible', 'Sensible') : '',
     src: d.sources?.length ?? 0,
     min: readingTime(a),
     conn,
     upd: d.updated ? new Date(d.updated).toISOString().slice(0, 10) : '',
-    custody,
-    views: analytics[key] ?? null,
+    nl: (langsByKey.get(key) ?? new Set()).size || 1,
     reads: bReads(analytics[key]?.readers),
     rank: i + 1,
   };
 });
 
 // Label dictionaries emitted once (rows carry only ids). The section / category /
-// topic names repeat across ~1,000 rows; hoisting them into id→label maps and
-// resolving client-side trims tens of KB from the inline JSON.
+// topic names repeat across many rows; hoisting them into id→label maps and
+// resolving client-side trims KB from the inline JSON.
 const secById: Record<string, string> = Object.fromEntries(PILLARS.map((p) => [p.id, loc(p.name, locale)]));
 const catById: Record<string, string> = {};
 const topById: Record<string, string> = {};
@@ -210,19 +192,6 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
         </div>
       </div>
     )}
-    <div class="tb-line">
-      <span class="tb-label">{L('Papar', 'Display', '显示', 'காட்சி', '表示', '표시', 'แสดงผล', 'Hiển thị', 'Tampilan', 'العرض', 'प्रदर्शन', 'Mostrar', 'Affichage')}</span>
-      <div class="tabs">
-        <span class="tgl-hint">{L('Papar lebih pada setiap kad:', 'Show more on each card:', '在每张卡片显示更多：', 'ஒவ்வொரு அட்டையிலும் மேலும் காட்டு:', '各カードにさらに表示：', '각 카드에 더 표시:', 'แสดงเพิ่มเติมในแต่ละการ์ด:', 'Hiển thị thêm trên mỗi thẻ:', 'Tampilkan lebih banyak di setiap kartu:', 'إظهار المزيد في كل بطاقة:', 'प्रत्येक कार्ड पर अधिक दिखाएँ:', 'Mostrar más en cada tarjeta:', 'Afficher plus sur chaque carte :')}</span>
-        <button class="tgl" type="button" data-row="path" title={L('Tonggak › kategori › topik', 'Pillar › category › topic', '支柱 › 分类 › 主题', 'தூண் › வகை › தலைப்பு', '柱 › カテゴリー › トピック', '핵심축 › 카테고리 › 주제', 'เสาหลัก › หมวดหมู่ › หัวข้อ', 'Trụ cột › danh mục › chủ đề', 'Pilar › kategori › topik', 'الركيزة › الفئة › الموضوع', 'स्तंभ › श्रेणी › विषय', 'Pilar › categoría › tema', 'Pilier › catégorie › sujet')}>{L('Laluan', 'Path', '路径', 'பாதை', 'パス', '경로', 'เส้นทาง', 'Đường dẫn', 'Jalur', 'المسار', 'पथ', 'Ruta', 'Chemin')}</button>
-        <button class="tgl" type="button" data-row="details" title={L('Status, bahasa, sumber, pautan, masa baca', 'Status, languages, sources, links, reading time', '状态、语言、来源、关联、阅读时间', 'நிலை, மொழிகள், ஆதாரங்கள், இணைப்புகள், படிக்கும் நேரம்', 'ステータス、言語、出典、リンク、読了時間', '상태, 언어, 출처, 링크, 읽는 시간', 'สถานะ ภาษา แหล่งข้อมูล ลิงก์ เวลาอ่าน', 'Trạng thái, ngôn ngữ, nguồn, liên kết, thời gian đọc', 'Status, bahasa, sumber, tautan, waktu baca', 'الحالة واللغات والمصادر والروابط ووقت القراءة', 'स्थिति, भाषाएँ, स्रोत, लिंक, पढ़ने का समय', 'Estado, idiomas, fuentes, enlaces, tiempo de lectura', 'Statut, langues, sources, liens, temps de lecture')}>{L('Butiran', 'Details', '详情', 'விவரங்கள்', '詳細', '세부 정보', 'รายละเอียด', 'Chi tiết', 'Rincian', 'التفاصيل', 'विवरण', 'Detalles', 'Détails')}</button>
-        <button class="tgl" type="button" data-row="custody" title={L('Rantaian jagaan (draf → disemak → diterbitkan)', 'Chain of custody (drafted → reviewed → published)', '保管链（起草 → 审阅 → 发布）', 'காப்புச் சங்கிலி (வரையப்பட்டது → மதிப்பாய்வு செய்யப்பட்டது → வெளியிடப்பட்டது)', '管理履歴（起草 → レビュー → 公開）', '관리 이력 (초안 → 검토 → 공개)', 'ห่วงโซ่การควบคุม (ร่าง → ตรวจทาน → เผยแพร่)', 'Chuỗi lưu ký (bản thảo → đã duyệt → đã xuất bản)', 'Rantai penjagaan (draf → ditinjau → diterbitkan)', 'سلسلة العهدة (الصياغة → المراجعة → النشر)', 'अभिरक्षा शृंखला (प्रारूपित → समीक्षित → प्रकाशित)', 'Cadena de custodia (redactado → revisado → publicado)', 'Chaîne de traçabilité (rédigé → révisé → publié)')}>{L('Status', 'Status', '状态', 'நிலை', 'ステータス', '상태', 'สถานะ', 'Trạng thái', 'Status', 'الحالة', 'स्थिति', 'Estado', 'Statut')}</button>
-        <button class="tgl" type="button" data-row="visitors" title={L('Lawatan pembaca / enjin carian / AI', 'Reader / search / AI visits', '读者／搜索引擎／AI 访问', 'வாசகர் / தேடுபொறி / AI வருகைகள்', '読者／検索エンジン／AI のアクセス', '독자 / 검색 / AI 방문', 'การเข้าชมของผู้อ่าน / เครื่องมือค้นหา / AI', 'Lượt truy cập của độc giả / công cụ tìm kiếm / AI', 'Kunjungan pembaca / mesin pencari / AI', 'زيارات القرّاء / محرك البحث / الذكاء الاصطناعي', 'पाठक / खोज / AI विज़िट', 'Visitas de lectores / buscadores / IA', 'Visites de lecteurs / moteurs de recherche / IA')}>{L('Pelawat', 'Visitors', '访客', 'பார்வையாளர்கள்', '訪問者', '방문자', 'ผู้เข้าชม', 'Khách truy cập', 'Pengunjung', 'الزوّار', 'आगंतुक', 'Visitantes', 'Visiteurs')}</button>
-        <span class="tgl-sep" aria-hidden="true"></span>
-        <button class="tgl-all" type="button" data-rows="on">{L('Semua buka', 'All on', '全部开', 'அனைத்தும் இயக்கு', 'すべて表示', '모두 켜기', 'เปิดทั้งหมด', 'Bật tất cả', 'Semua nyala', 'تشغيل الكل', 'सभी चालू', 'Activar todo', 'Tout activer')}</button>
-        <button class="tgl-all" type="button" data-rows="off">{L('Semua tutup', 'All off', '全部关', 'அனைத்தும் அணை', 'すべて非表示', '모두 끄기', 'ปิดทั้งหมด', 'Tắt tất cả', 'Semua mati', 'إيقاف الكل', 'सभी बंद', 'Desactivar todo', 'Tout désactiver')}</button>
-      </div>
-    </div>
     </div>
     <div class="tb-line search-line">
       <span class="tb-label">{L('Cari', 'Search', '搜索', 'தேடு', '検索', '검색', 'ค้นหา', 'Tìm kiếm', 'Cari', 'البحث', 'खोजें', 'Buscar', 'Rechercher')}</span>
@@ -290,27 +259,10 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     showing: L('{a}–{b} drpd {n}', '{a}–{b} of {n}', '第 {a}–{b} 项，共 {n}', 'மொத்தம் {n} இல் {a}–{b}', '{n} 件中 {a}–{b}', '{n}개 중 {a}–{b}', '{a}–{b} จาก {n}', '{a}–{b} trong số {n}', '{a}–{b} dari {n}', '{a}–{b} من {n}', '{n} में से {a}–{b}', '{a}–{b} de {n}', '{a}–{b} sur {n}'),
     empty: L('Tiada artikel sepadan.', 'No matching articles.', '没有匹配的文章。', 'பொருந்தும் கட்டுரைகள் எதுவும் இல்லை.', '該当する記事はありません。', '일치하는 기사가 없습니다.', 'ไม่มีบทความที่ตรงกัน.', 'Không có bài viết phù hợp.', 'Tidak ada artikel yang cocok.', 'لا توجد مقالات مطابقة.', 'कोई मेल खाने वाला लेख नहीं।', 'No hay artículos coincidentes.', 'Aucun article correspondant.'),
     min: L('min baca', 'min read', '分钟', 'நிமிட வாசிப்பு', '分', '분', 'นาทีในการอ่าน', 'phút đọc', 'mnt baca', 'دقيقة قراءة', 'मिनट का पठन', 'min de lectura', 'min de lecture'),
-    master: L('Induk', 'Master', '主语言', 'முதன்மை', 'マスター', '마스터', 'ต้นฉบับ', 'Bản gốc', 'Induk', 'الأصل', 'मूल', 'Principal', 'Référence'),
-    sources: L('sumber', 'sources', '来源', 'ஆதாரங்கள்', '出典', '출처', 'แหล่งข้อมูล', 'nguồn', 'sumber', 'مصادر', 'स्रोत', 'fuentes', 'sources'),
-    linked: L('pautan', 'links', '关联', 'இணைப்புகள்', 'リンク', '링크', 'ลิงก์', 'liên kết', 'tautan', 'روابط', 'लिंक', 'enlaces', 'liens'),
+    cites: L('rujukan', 'cites', '引用', 'மேற்கோள்கள்', '出典', '출처', 'อ้างอิง', 'trích dẫn', 'kutipan', 'مراجع', 'संदर्भ', 'citas', 'citations'),
+    langsWord: L('bahasa', 'languages', '种语言', 'மொழிகள்', '言語', '개 언어', 'ภาษา', 'ngôn ngữ', 'bahasa', 'لغات', 'भाषाएँ', 'idiomas', 'langues'),
     updated: L('Dikemas kini', 'Updated', '更新', 'புதுப்பிக்கப்பட்டது', '更新日', '업데이트', 'อัปเดตแล้ว', 'Đã cập nhật', 'Diperbarui', 'محدّث', 'अद्यतन', 'Actualizado', 'Mis à jour'),
-    pathLabel: L('Laluan', 'Path', '路径', 'பாதை', 'パス', '경로', 'เส้นทาง', 'Đường dẫn', 'Jalur', 'المسار', 'पथ', 'Ruta', 'Chemin'),
-    detailsLabel: L('Butiran', 'Details', '详情', 'விவரங்கள்', '詳細', '세부 정보', 'รายละเอียด', 'Chi tiết', 'Rincian', 'التفاصيل', 'विवरण', 'Detalles', 'Détails'),
-    custodyLabel: L('Status', 'Status', '状态', 'நிலை', 'ステータス', '상태', 'สถานะ', 'Trạng thái', 'Status', 'الحالة', 'स्थिति', 'Estado', 'Statut'),
-    visitorsLabel: L('Pelawat', 'Visitors', '访客', 'பார்வையாளர்கள்', '訪問者', '방문자', 'ผู้เข้าชม', 'Khách truy cập', 'Pengunjung', 'الزوّار', 'आगंतुक', 'Visitantes', 'Visiteurs'),
-    vReaders: L('Pembaca', 'Readers', '读者', 'வாசகர்கள்', '読者', '독자', 'ผู้อ่าน', 'Độc giả', 'Pembaca', 'القرّاء', 'पाठक', 'Lectores', 'Lecteurs'),
-    vSearch: L('Enjin carian', 'Search', '搜索引擎', 'தேடுபொறி', '検索エンジン', '검색 엔진', 'เครื่องมือค้นหา', 'Công cụ tìm kiếm', 'Mesin pencari', 'محرك البحث', 'खोजें', 'Motor de búsqueda', 'Moteur de recherche'),
-    vAI: L('AI', 'AI', 'AI', 'AI', 'AI', 'AI', 'AI', 'AI', 'AI'),
-    notTracked: L('belum dijejak', 'not tracked yet', '尚未追踪', 'இன்னும் கண்காணிக்கப்படவில்லை', '未計測', '아직 집계되지 않음', 'ยังไม่ได้ติดตาม', 'chưa được theo dõi', 'belum dilacak', 'لم يُتتبّع بعد', 'अभी ट्रैक नहीं किया गया', 'aún sin seguimiento', 'pas encore suivi'),
-    aiDraft: L('Dibantu AI', 'AI-assisted', 'AI 辅助', 'AI உதவியுடன்', 'AI 支援', 'AI 지원', 'ช่วยเหลือโดย AI', 'Có hỗ trợ của AI', 'Dibantu AI', 'بمساعدة الذكاء الاصطناعي', 'AI-सहायता प्राप्त', 'Asistido por IA', "Assisté par l'IA"),
-    pending: L('belum', 'pending', '待处理', 'நிலுவையில்', '保留中', '대기 중', 'รอดำเนินการ', 'đang chờ', 'belum', 'قيد الانتظار', 'लंबित', 'pendiente', 'en attente'),
-    stageDrafted: L('Dirangka', 'Drafted', '起草', 'வரையப்பட்டது', '起草', '초안 작성', 'ร่างแล้ว', 'Đã soạn thảo', 'Dirancang', 'تمت الصياغة', 'प्रारूपित', 'Redactado', 'Rédigé'),
-    stageReviewed: L('Disemak', 'Reviewed', '审阅', 'மதிப்பாய்வு செய்யப்பட்டது', 'レビュー済み', '검토 완료', 'ตรวจทานแล้ว', 'Đã duyệt', 'Ditinjau', 'تمت المراجعة', 'समीक्षित', 'Revisado', 'Révisé'),
-    stagePublished: L('Diterbitkan', 'Published', '发布', 'வெளியிடப்பட்டது', '公開済み', '공개 완료', 'เผยแพร่แล้ว', 'Đã xuất bản', 'Diterbitkan', 'تم النشر', 'प्रकाशित', 'Publicado', 'Publié'),
-    nextReview: L('Semakan seterusnya', 'Next review', '下次审阅', 'அடுத்த மதிப்பாய்வு', '次回レビュー', '다음 검토', 'การตรวจทานครั้งถัดไป', 'Lần duyệt tiếp theo', 'Tinjauan berikutnya', 'المراجعة التالية', 'अगली समीक्षा', 'Próxima revisión', 'Prochaine révision'),
-    overdue: L('Semakan tertunggak', 'Review overdue', '审阅逾期', 'மதிப்பாய்வு தாமதமாகிவிட்டது', 'レビュー期限超過', '검토 기한 초과', 'เกินกำหนดตรวจทาน', 'Quá hạn duyệt', 'Tinjauan terlambat', 'المراجعة متأخرة', 'समीक्षा विलंबित', 'Revisión vencida', 'Révision en retard'),
-    contributor: L('Penyumbang', 'Contributor', '贡献者', 'பங்களிப்பாளர்', '貢献者', '기여자', 'ผู้มีส่วนร่วม', 'Người đóng góp', 'Kontributor', 'مساهم', 'योगदानकर्ता', 'Colaborador', 'Contributeur'),
-    classification: L('Klasifikasi', 'Classification', '分类', 'வகைப்பாடு', '分類', '분류', 'การจัดประเภท', 'Phân loại', 'Klasifikasi', 'التصنيف', 'वर्गीकरण', 'Clasificación', 'Classification'),
+    readers: L('pembaca', 'readers', '读者', 'வாசகர்கள்', '読者', '독자', 'ผู้อ่าน', 'độc giả', 'pembaca', 'قرّاء', 'पाठक', 'lectores', 'lecteurs'),
     noDate: L('Tiada tarikh', 'No date', '无日期', 'தேதி இல்லை', '日付なし', '날짜 없음', 'ไม่มีวันที่', 'Không có ngày', 'Tidak ada tanggal', 'لا يوجد تاريخ', 'कोई तिथि नहीं', 'Sin fecha', 'Sans date'),
   })}
 ></script>
@@ -324,30 +276,15 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   // Label dictionaries (rows carry only ids to keep the inline JSON small).
   const DICT = JSON.parse(document.getElementById('articles-dict')?.textContent || '{}');
   const SEC = DICT.sec || {}, CAT = DICT.cat || {}, TOP = DICT.top || {};
-  const secLbl = (r) => SEC[r.secId] || '—';
-  const catLbl = (r) => CAT[r.catId] || r.catId || '—';
-  const topLbl = (r) => (r.topId ? (TOP[r.topId] || r.topId) : '—');
+  const secLbl = (r) => SEC[r.secId] || '';
+  const catLbl = (r) => CAT[r.catId] || r.catId || '';
+  const topLbl = (r) => (r.topId ? (TOP[r.topId] || r.topId) : '');
   const $ = (id) => document.getElementById(id);
   const on = (id, ev, fn) => { const el = $(id); if (el) el.addEventListener(ev, fn); };
   const $$ = (cls) => Array.from(document.querySelectorAll('.' + cls));
   const onAll = (cls, ev, fn) => $$(cls).forEach((el) => el.addEventListener(ev, fn));
 
   const state = { sort: 'upd', dir: 'desc', q: '', sec: '', cat: '', top: '', st: '', page: 1, size: 25 };
-
-  // Which card meta-rows the reader has switched off. Rows are omitted from the
-  // markup (not just hidden) so the dividers between rows stay correct.
-  // Default is ALL OFF — a clean title-only list until the reader opts in.
-  const ROWS_KEY = 'nk-card-rows-hidden';
-  const ALL_ROWS = ['path', 'details', 'custody', 'visitors'];
-  let hiddenRows = new Set(ALL_ROWS);
-  try {
-    const saved = localStorage.getItem(ROWS_KEY);
-    if (saved) hiddenRows = new Set(JSON.parse(saved));
-  } catch { /* ignore */ }
-  const showRow = (r) => !hiddenRows.has(r);
-  const saveRows = () => {
-    try { localStorage.setItem(ROWS_KEY, JSON.stringify([...hiddenRows])); } catch { /* ignore */ }
-  };
 
   const cmp = (a, b) => {
     const k = state.sort;
@@ -370,73 +307,59 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     );
   }
 
-  const STATUS_CLASS = {
-    published: 'ok', reviewed: 'ok', 'in-review': 'info', 'in-update': 'info',
-    draft: 'warn', 'needs-update': 'warn', archived: 'muted',
-  };
-
   const esc = (s) => String(s).replace(/[<>&]/g, (c) => ({ '<': '&lt;', '>': '&gt;', '&': '&amp;' }[c]));
-  const STAGE = { draft: I18N.stageDrafted, reviewed: I18N.stageReviewed, published: I18N.stagePublished };
-  const STAGE_KEYS = ['draft', 'reviewed', 'published'];
-  // Derive the localized href from the bare `/category/slug` path (the server
-  // drops the pre-built `h` to keep the inline row payload small).
+  // Derive the localized href from the bare `/category/slug` path.
   const _lang = (document.documentElement.lang || 'en').slice(0, 2);
   const href = (p) => (_lang === 'ms' ? p : `/${_lang}${p}`);
+  const fmtN = (n) => Number(n).toLocaleString();
 
-  // Chain of custody as a progress track: a dot per lifecycle step (filled when
-  // reached, hollow when pending) with the accountable actor + date. Unknown
-  // human actor → "AI draft" (draft) or nothing (later steps); unreached → pending.
-  function custodyHtml(cust) {
-    if (!cust || !cust.length) return '';
-    const items = cust.map((c, i) => {
-      const who = c[0], date = c[1], reached = c[2], key = STAGE_KEYS[i];
-      let actor = '';
-      if (!reached) actor = `<span class="pend">${I18N.pending}</span>`;
-      else if (who) actor = `<span class="who">${esc(who)}</span>`;
-      else if (key === 'draft') actor = `<span class="ai">${I18N.aiDraft}</span>`;
-      const dt = reached && date ? `<time>${date}</time>` : '';
-      return `<li class="${reached ? 'done' : 'todo'}"><span class="dot"></span><span class="stg">${STAGE[key]}</span>${actor}${dt}</li>`;
-    }).join('');
-    return `<div class="meta-row custody"><span class="hlabel">${I18N.custodyLabel}</span><ol class="steps">${items}</ol></div>`;
+  // Section › category › topic tags above the title (category highlighted).
+  function tagsHtml(r) {
+    const sec = secLbl(r), cat = catLbl(r), top = topLbl(r);
+    let out = '';
+    if (sec) out += `<span class="tg">${esc(sec)}</span>`;
+    if (cat) out += `${out ? '<span class="sep">›</span>' : ''}<span class="tg cat">${esc(cat)}</span>`;
+    if (top) out += `<span class="sep">›</span><span class="tg">${esc(top)}</span>`;
+    return `<span class="rc-tags">${out}</span>`;
   }
 
-  // Visitor analytics summarised into Readers / Search / AI. Each bucket may be a
-  // number or {total, byBot}; the per-bot detail is surfaced as a hover title.
-  // No data source yet → "—" and "not tracked yet" (never invented numbers).
-  const bTotal = (x) => (x == null ? null : typeof x === 'object' ? x.total : x);
-  const bBreak = (x) => (x && typeof x === 'object' && x.byBot
-    ? Object.entries(x.byBot).map(([k, n]) => `${k}: ${Number(n).toLocaleString()}`).join(' · ') : '');
-  function visitorsHtml(v) {
-    const num = (n) => (n == null ? '<b class="vn dash">—</b>' : `<b class="vn">${Number(n).toLocaleString()}</b>`);
-    const metric = (label, x) => {
-      const tip = bBreak(x);
-      return `<span class="vm"${tip ? ` title="${esc(tip)}"` : ''}><span class="vlbl">${label}</span>${num(bTotal(x))}</span>`;
-    };
-    const note = v ? '' : `<span class="pend">${I18N.notTracked}</span>`;
-    return `<div class="meta-row visitors"><span class="hlabel">${I18N.visitorsLabel}</span>` +
-      `<div class="vwrap">${metric(I18N.vReaders, v?.readers)}${metric(I18N.vSearch, v?.search)}${metric(I18N.vAI, v?.ai)}${note}</div></div>`;
+  // Quiet meta line: cites · read time · updated · languages (· readers on rank).
+  function metaHtml(r) {
+    const bits = [];
+    if (r.src > 0) bits.push(`<span>📚 ${r.src} ${I18N.cites}</span>`);
+    bits.push(`<span>⏱️ ${r.min} ${I18N.min}</span>`);
+    if (r.upd) bits.push(`<span>${I18N.updated} ${r.upd}</span>`);
+    if (r.nl > 1) bits.push(`<span>${r.nl} ${I18N.langsWord}</span>`);
+    let html = bits.join('<span class="dot" aria-hidden="true">·</span>');
+    if (r.sens) html += `<span class="dot" aria-hidden="true">·</span><span class="rc-sens" title="${esc(r.cls)}">🔒</span>`;
+    return `<div class="rc-meta">${html}</div>`;
   }
 
-  // Trending rank badge: the leaderboard position plus the reader count (or
-  // "not tracked yet" when analytics haven't reached this article).
-  function trendReads(r) {
-    const n = bTotal(r.views?.readers);
-    if (n == null) return `<span class="areads pend">${I18N.notTracked}</span>`;
-    return `<span class="areads">👁 ${Number(n).toLocaleString()} ${I18N.vReaders}</span>`;
+  // A status tag only when the article is NOT the default "published" state —
+  // published is implied, badging it is noise.
+  function statusHtml(r) {
+    if (!r.st || r.st === 'published') return '';
+    return `<span class="rc-status s-${r.st}">${esc(I18N.status[r.st] || r.st)}</span>`;
   }
 
-  // Compact summary shown when every display row is OFF — browse-first: where the
-  // article lives (section › category › topic), how long it is, how fresh, and a
-  // sensitivity flag when relevant. Admin metadata (status, custody, master lang,
-  // visitors) lives in the opt-in rows.
-  function compactHtml(r) {
-    const seg = (v) => `<span>${esc(v)}</span>`;
-    const path = `<span class="cpath">${seg(secLbl(r))}<span class="sep">›</span>${seg(catLbl(r))}` +
-      (r.topId ? `<span class="sep">›</span>${seg(topLbl(r))}` : '') + `</span>`;
-    const chips = [`<span class="chip">${r.min} ${I18N.min}</span>`];
-    if (r.upd) chips.push(`<span class="chip dim">${I18N.updated}: ${r.upd}</span>`);
-    if (r.sens) chips.push(`<span class="chip sens">🔒 ${esc(r.cls)}</span>`);
-    return `<div class="meta-row compact"><div class="cbrowse">${path}<span class="cchips">${chips.join('')}</span></div></div>`;
+  function cardHtml(r) {
+    const img = r.hero || r.og;
+    const rank = CFG.showRank
+      ? `<div class="rc-rankline"><span class="rc-rank">#${r.rank}</span>${r.reads ? `<span class="rc-reads">👁 ${fmtN(r.reads)} ${I18N.readers}</span>` : ''}</div>`
+      : '';
+    return `
+      <article class="rcard">
+        <a class="rc-thumb" href="${href(r.p)}" tabindex="-1" aria-hidden="true">
+          <img class="rc-img" src="${esc(img)}" alt="" loading="lazy" decoding="async" />
+        </a>
+        <div class="rc-body">
+          <div class="rc-top">${tagsHtml(r)}${statusHtml(r)}</div>
+          ${rank}
+          <a class="rc-title" href="${href(r.p)}">${esc(r.t)}</a>
+          ${r.sum ? `<p class="rc-sum">${esc(r.sum)}</p>` : ''}
+          ${metaHtml(r)}
+        </div>
+      </article>`;
   }
 
   function render() {
@@ -450,57 +373,30 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     const body = $('alist-body');
     if (!slice.length) {
       body.innerHTML = `<p class="empty">${I18N.empty}</p>`;
-    } else {
-      const langHref = (l, p) => (l === 'ms' ? p : `/${l}${p}`);
-      const allRowsOff = ALL_ROWS.every((x) => !showRow(x));
-      const cardHtml = (r) => `
-        <article class="acard${CFG.showRank ? ' ranked' : ''}">
-          ${CFG.showRank ? `<div class="atrend"><span class="arank">#${r.rank}</span>${trendReads(r)}</div>` : ''}
-          <a class="atitle" href="${href(r.p)}">${r.t}</a>
-          <div class="acard-meta">
-            ${!showRow('path') ? '' : `
-            <div class="meta-row">
-              <span class="hlabel">${I18N.pathLabel}</span>
-              <p class="apath"><span>${secLbl(r)}</span><span class="sep">›</span><span>${catLbl(r)}</span><span class="sep">›</span><span>${topLbl(r)}</span></p>
-            </div>`}
-            ${!showRow('details') ? '' : `
-            <div class="meta-row">
-              <span class="hlabel">${I18N.detailsLabel}</span>
-              <div class="achips">
-                <span class="st ${STATUS_CLASS[r.st] || 'muted'}">${I18N.status[r.st] || r.st}</span>
-                <span class="chip ${r.sens ? 'sens' : ''}">${r.sens ? '🔒 ' : ''}${r.cls}</span>
-                ${r.rev ? `<span class="chip ${r.revOverdue ? 'overdue' : 'dim'}"${r.revOverdue ? ` title="${I18N.overdue}"` : ''}>${r.revOverdue ? '⚠ ' : ''}${I18N.nextReview}: ${r.rev}</span>` : ''}
-                <span class="chip">${I18N.master}: <a class="mlink" href="${langHref(r.ml.toLowerCase(), r.p)}" title="${r.t} — ${r.ml}">${r.ml}</a></span>
-                <span class="chip langs">${['ms','en','zh','ta','ja','ko','th','vi','id','ar','hi','es','fr'].map((l) => r.langs.includes(l)
-                  ? `<a class="on" href="${langHref(l, r.p)}" title="${r.t} — ${l.toUpperCase()}">${l.toUpperCase()}</a>`
-                  : `<span class="off">${l.toUpperCase()}</span>`).join('')}</span>
-                <span class="chip">${r.src} ${I18N.sources}</span>
-                <span class="chip">${r.conn} ${I18N.linked}</span>
-                <span class="chip">${r.min} ${I18N.min}</span>
-              </div>
-            </div>`}
-            ${showRow('custody') ? custodyHtml(r.custody) : ''}
-            ${showRow('visitors') ? visitorsHtml(r.views) : ''}
-            ${allRowsOff ? compactHtml(r) : ''}
-          </div>
-        </article>`;
-      if (CFG.groupByDate) {
-        const fmt = new Intl.DateTimeFormat(CFG.dateLocale || 'en-GB', { year: 'numeric', month: 'long', day: 'numeric' });
-        let out = '', last = null;
-        for (const r of slice) {
-          const d = r.upd || '';
-          if (d !== last) {
-            last = d;
-            const label = d ? fmt.format(new Date(d + 'T00:00:00')) : (I18N.noDate || '');
-            out += `<div class="date-head"><time class="dh-label">${label}</time><span class="dh-line"></span></div>`;
-          }
-          out += cardHtml(r);
+    } else if (CFG.groupByDate) {
+      const fmt = new Intl.DateTimeFormat(CFG.dateLocale || 'en-GB', { year: 'numeric', month: 'long', day: 'numeric' });
+      let out = '', last = null;
+      for (const r of slice) {
+        const d = r.upd || '';
+        if (d !== last) {
+          last = d;
+          const label = d ? fmt.format(new Date(d + 'T00:00:00')) : (I18N.noDate || '');
+          out += `<div class="date-head"><time class="dh-label">${label}</time><span class="dh-line"></span></div>`;
         }
-        body.innerHTML = out;
-      } else {
-        body.innerHTML = slice.map(cardHtml).join('');
+        out += cardHtml(r);
       }
+      body.innerHTML = out;
+    } else {
+      body.innerHTML = slice.map(cardHtml).join('');
     }
+
+    // Hide an OG thumbnail that 404s (a brand-new article the build hasn't
+    // rendered yet) so the gradient shows instead of a broken-image icon.
+    body.querySelectorAll('img.rc-img').forEach((img) => {
+      const hide = () => img.closest('.rc-thumb')?.classList.add('noimg');
+      if (img.complete && img.naturalWidth === 0) hide();
+      else img.addEventListener('error', hide, { once: true });
+    });
 
     const a = total ? start + 1 : 0;
     const b = Math.min(start + state.size, total);
@@ -511,6 +407,9 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     $$('pg-size-sel').forEach((el) => (el.value = String(state.size)));
     [...$$('pg-first'), ...$$('pg-prev')].forEach((el) => (el.disabled = state.page <= 1));
     [...$$('pg-next'), ...$$('pg-last')].forEach((el) => (el.disabled = state.page >= pages));
+    // Hide the pager entirely when everything fits on one page — a lone
+    // "1–22 of 22 · Page 1/1" with dead arrows is pure control noise.
+    document.querySelectorAll('.pager').forEach((p) => p.classList.toggle('pg-hidden', pages <= 1));
     const reset = $('f-reset');
     if (reset) reset.hidden = !(state.sec || state.cat || state.top || state.st || state.q);
   }
@@ -556,28 +455,6 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
       state.sort = btn.dataset.sort; state.dir = btn.dataset.dir; state.page = 1; render();
     });
   });
-  // Display toggles: switch a card meta-row on/off and remember the choice.
-  function syncRowToggles() {
-    document.querySelectorAll('[data-row]').forEach((b) => b.classList.toggle('on', showRow(b.dataset.row)));
-  }
-  document.querySelectorAll('[data-row]').forEach((btn) => {
-    btn.addEventListener('click', () => {
-      const r = btn.dataset.row;
-      if (hiddenRows.has(r)) hiddenRows.delete(r); else hiddenRows.add(r);
-      saveRows();
-      syncRowToggles();
-      render();
-    });
-  });
-  document.querySelectorAll('[data-rows]').forEach((btn) => {
-    btn.addEventListener('click', () => {
-      hiddenRows = btn.dataset.rows === 'on' ? new Set() : new Set(ALL_ROWS);
-      saveRows();
-      syncRowToggles();
-      render();
-    });
-  });
-  syncRowToggles();
 
   // Mobile: collapse the advanced controls behind the "Filters & sort" toggle.
   const tbMore = document.querySelector('[data-tb-toggle]');
@@ -651,7 +528,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     display: flex; flex-direction: column; gap: 1.1rem;
     margin-bottom: 1.6rem; padding-bottom: 1.3rem; border-bottom: 1px solid var(--line);
   }
-  /* Advanced controls (Filter/Sort/Display) show inline on desktop; on phones they
+  /* Advanced controls (Filter/Sort) show inline on desktop; on phones they
      collapse behind a "Filters & sort" toggle so only Search stays visible. */
   .tb-more { display: none; }
   .tb-adv { display: flex; flex-direction: column; gap: 1.1rem; }
@@ -682,27 +559,6 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   }
   .tab:hover { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, var(--surface)); }
   .tab.on { color: var(--accent-contrast); background: var(--gold); border-color: var(--gold); }
-  /* Display toggles — same pill, but "on" is an outline (not a sort selection).
-     Off keeps a dashed edge as its affordance; both share the gold-tinted border. */
-  .tgl {
-    font-size: 0.82rem; font-weight: 500; padding: 0.4rem 0.8rem; border-radius: 999px;
-    border: 1px dashed color-mix(in srgb, var(--gold) 55%, var(--line));
-    background: transparent; color: var(--muted); cursor: pointer;
-  }
-  .tgl:hover { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, var(--surface)); color: var(--ink-soft); }
-  .tgl.on {
-    border-style: solid; border-color: color-mix(in srgb, var(--gold) 55%, var(--line));
-    background: color-mix(in srgb, var(--gold) 10%, transparent); color: var(--ink);
-  }
-  .tgl-sep { width: 1px; align-self: stretch; background: var(--line); margin-inline: 0.25rem; }
-  .tgl-all {
-    font: inherit; font-size: 0.76rem; font-weight: 500; padding: 0.4rem 0.7rem;
-    border: 0; background: none; color: var(--muted); cursor: pointer; text-decoration: underline;
-    text-underline-offset: 3px; text-decoration-color: color-mix(in srgb, var(--muted) 50%, transparent);
-  }
-  .tgl-all:hover { color: var(--gold); text-decoration-color: var(--gold); }
-  /* Hint that the Display toggles expand each card. */
-  .tgl-hint { font-size: 0.75rem; color: var(--muted); align-self: center; margin-inline-end: 0.1rem; }
   .controls select, .tb-line input[type='search'] {
     font: inherit; font-size: 0.85rem; padding: 0.45rem 0.7rem; border-radius: 8px;
     border: 1px solid var(--line); background: var(--surface); color: var(--ink);
@@ -717,6 +573,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   #f-reset:hover { background: color-mix(in srgb, var(--gold) 12%, transparent); border-color: var(--gold); }
   #f-reset[hidden] { display: none; }
 
+  /* ---- Editorial row-card list ---- */
   .acards { display: flex; flex-direction: column; gap: 0.7rem; }
   /* Date group header (grouped view only): gold label + a rule filling the row. */
   .acards :global(.date-head) { display: flex; align-items: center; gap: 0.9rem; margin: 0.9rem 0 0.1rem; }
@@ -726,110 +583,82 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     color: var(--gold); font-variant-numeric: tabular-nums;
   }
   .acards :global(.dh-line) { flex: 1; height: 1px; background: var(--line); }
-  .acards :global(.acard) {
-    border: 1px solid var(--line); border-inline-start: 3px solid color-mix(in srgb, var(--gold) 55%, var(--line));
+
+  .acards :global(.rcard) {
+    display: flex; gap: 1.1rem; align-items: stretch;
+    border: 1px solid var(--line);
+    border-inline-start: 3px solid color-mix(in srgb, var(--gold) 55%, var(--line));
     border-radius: 12px; background: var(--surface);
-    padding: 1rem 1.15rem; transition: border-color 0.15s ease, background 0.15s ease;
+    padding: 0.9rem 1.05rem; overflow: hidden;
+    transition: border-color 0.15s ease, background 0.15s ease;
   }
-  .acards :global(.acard:hover) {
+  .acards :global(.rcard:hover) {
     border-color: color-mix(in srgb, var(--gold) 50%, var(--line));
     border-inline-start-color: var(--gold); background: var(--surface-2);
   }
-  .acards :global(.atitle) {
-    font-family: var(--font-title); font-weight: 700; font-size: 1.05rem; line-height: 1.35;
+  /* Thumbnail — OG card (or a real cover photo) on a brand gradient fallback. */
+  .acards :global(.rc-thumb) {
+    flex: 0 0 clamp(128px, 24%, 184px); align-self: flex-start;
+    aspect-ratio: 16 / 9; border-radius: 9px; overflow: hidden; position: relative;
+    text-decoration: none; border: 1px solid var(--line);
+    background:
+      radial-gradient(120% 120% at 30% 20%, color-mix(in srgb, var(--gold) 22%, transparent), transparent),
+      linear-gradient(135deg, color-mix(in srgb, var(--gold) 14%, var(--surface-2)), var(--surface-2));
+  }
+  .acards :global(.rc-thumb .rc-img) { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  .acards :global(.rc-thumb.noimg .rc-img) { display: none; }
+
+  .acards :global(.rc-body) { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 0.38rem; }
+  .acards :global(.rc-top) { display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap; }
+  .acards :global(.rc-tags) {
+    display: inline-flex; flex-wrap: wrap; align-items: center; min-width: 0;
+    font-size: 0.72rem; color: var(--muted); line-height: 1.3;
+  }
+  .acards :global(.rc-tags .tg) { color: var(--ink-soft); }
+  .acards :global(.rc-tags .cat) { color: var(--gold); font-weight: 700; }
+  .acards :global(.rc-tags .sep) { margin: 0 0.4rem; color: var(--muted); opacity: 0.55; }
+  .acards :global(.rc-status) {
+    flex: none; font-size: 0.64rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.05em;
+    border-radius: 999px; padding: 0.12rem 0.55rem; border: 1px solid var(--line); color: var(--muted);
+  }
+  .acards :global(.rc-status.s-draft), .acards :global(.rc-status.s-needs-update) { color: #fbbf24; border-color: rgba(251,191,36,.4); background: rgba(251,191,36,.12); }
+  .acards :global(.rc-status.s-in-review), .acards :global(.rc-status.s-in-update) { color: #60a5fa; border-color: rgba(96,165,250,.4); background: rgba(96,165,250,.12); }
+  .acards :global(.rc-status.s-archived) { color: var(--muted); border-color: var(--line); }
+
+  .acards :global(.rc-rankline) { display: flex; align-items: baseline; gap: 0.6rem; }
+  .acards :global(.rc-rank) { font-family: var(--font-title); font-weight: 800; font-size: 0.95rem; color: var(--gold); font-variant-numeric: tabular-nums; }
+  .acards :global(.rc-reads) { font-size: 0.78rem; color: var(--ink-soft); font-variant-numeric: tabular-nums; }
+
+  .acards :global(.rc-title) {
+    font-family: var(--font-title); font-weight: 700; font-size: 1.08rem; line-height: 1.3;
     color: var(--ink); text-decoration: none;
   }
-  .acards :global(.acard:hover .atitle) { color: var(--gold); }
-  /* Trending rank badge: leaderboard position + reader count above the title. */
-  .acards :global(.atrend) { display: flex; align-items: baseline; gap: 0.6rem; margin-bottom: 0.3rem; }
-  .acards :global(.arank) {
-    font-family: var(--font-title); font-weight: 800; font-size: 0.95rem; color: var(--gold);
-    font-variant-numeric: tabular-nums;
+  .acards :global(.rcard:hover .rc-title) { color: var(--gold); }
+  .acards :global(.rc-sum) {
+    margin: 0; color: var(--ink-soft); font-size: 0.9rem; line-height: 1.5;
+    display: -webkit-box; -webkit-line-clamp: 2; line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
   }
-  .acards :global(.areads) { font-size: 0.78rem; color: var(--ink-soft); font-variant-numeric: tabular-nums; }
-  .acards :global(.areads.pend) { color: var(--muted); font-style: italic; }
-  .acards :global(.apath) { margin: 0; flex: 1; min-width: 0; padding-top: 0.2rem; font-size: 0.8rem; color: var(--muted); }
-  .acards :global(.apath span) { color: var(--ink-soft); }
-  .acards :global(.apath .sep) { margin: 0 0.5rem; color: var(--muted); opacity: 0.55; font-size: 0.9rem; }
-  .acards :global(.achips) { flex: 1; min-width: 0; display: flex; flex-wrap: wrap; align-items: center; gap: 0.45rem; }
-  .acards :global(.chip) {
-    font-size: 0.73rem; color: var(--ink-soft); border: 1px solid var(--line);
-    background: var(--surface-2); border-radius: 999px; padding: 0.16rem 0.6rem; white-space: nowrap;
+  .acards :global(.rc-meta) {
+    display: flex; flex-wrap: wrap; align-items: center; gap: 0.4rem;
+    color: var(--muted); font-size: 0.76rem; margin-top: 0.1rem; font-variant-numeric: tabular-nums;
   }
-  .acards :global(.chip b) { color: var(--gold); font-weight: 800; }
-  .acards :global(.chip.dim) { color: var(--muted); border-style: dashed; }
-  /* Review date past today → overdue: red highlight. */
-  .acards :global(.chip.overdue) { color: #f87171; border-color: rgba(248,113,113,.45); background: rgba(248,113,113,.12); font-weight: 700; }
-  .acards :global(.chip.sens) { color: #f87171; border-color: rgba(248,113,113,.45); font-weight: 700; }
-  .acards :global(.chip.sens) { color: #f87171; border-color: rgba(248,113,113,.4); background: rgba(248,113,113,.1); font-weight: 700; }
+  .acards :global(.rc-meta .dot) { opacity: 0.5; }
+  .acards :global(.rc-sens) { cursor: help; }
+
   .acards :global(.empty) { text-align: center; color: var(--muted); padding: 2.5rem; border: 1px dashed var(--line); border-radius: 12px; }
-  /* Browse-first collapsed card: breadcrumb path + reading time + freshness. */
-  .acards :global(.compact .cbrowse) { display: flex; flex-wrap: wrap; align-items: center; gap: 0.4rem 0.9rem; }
-  .acards :global(.cpath) { font-size: 0.8rem; color: var(--muted); }
-  .acards :global(.cpath > span:not(.sep)) { color: var(--ink-soft); }
-  .acards :global(.cpath .sep) { margin: 0 0.45rem; color: var(--muted); opacity: 0.55; font-size: 0.9rem; }
-  .acards :global(.cbrowse .cchips) { display: inline-flex; flex-wrap: wrap; gap: 0.45rem; }
-  .acards :global(.st) { font-size: 0.72rem; font-weight: 800; border-radius: 999px; padding: 0.16rem 0.6rem; border: 1px solid var(--line); }
-  .acards :global(.st.ok) { color: #4ade80; border-color: rgba(74,222,128,.35); background: rgba(74,222,128,.12); }
-  .acards :global(.st.warn) { color: #fbbf24; border-color: rgba(251,191,36,.35); background: rgba(251,191,36,.12); }
-  .acards :global(.st.info) { color: #60a5fa; border-color: rgba(96,165,250,.35); background: rgba(96,165,250,.12); }
-  .acards :global(.st.muted) { color: var(--muted); }
-  .acards :global(.langs.chip) { display: inline-flex; gap: 0.35rem; padding: 0.16rem 0.6rem; }
-  .acards :global(.langs a), .acards :global(.langs span) { font-size: 0.7rem; font-weight: 800; text-decoration: none; }
-  .acards :global(.langs a.on) { color: var(--gold); }
-  .acards :global(.langs a.on:hover) { text-decoration: underline; }
-  .acards :global(.mlink) { color: var(--gold); font-weight: 800; text-decoration: none; }
-  .acards :global(.mlink:hover) { text-decoration: underline; }
-  .acards :global(.langs .off) { color: color-mix(in srgb, var(--muted) 45%, transparent); }
 
-  /* Labelled metadata rows: each row is a "type" (Details, Custody) with a
-     leading uppercase label, so the card reads as typed groups not a chip soup. */
-  .acards :global(.acard-meta) { display: flex; flex-direction: column; gap: 0.55rem; margin-top: 0.8rem; }
-  .acards :global(.meta-row) { display: flex; gap: 0.8rem; align-items: flex-start; }
-  .acards :global(.meta-row .hlabel) {
-    flex: none; width: 5rem; font-size: 0.62rem; font-weight: 800; text-transform: uppercase;
-    letter-spacing: 0.08em; color: var(--muted); padding-top: 0.35rem;
+  @media (max-width: 560px) {
+    .acards :global(.rcard) { gap: 0.85rem; padding: 0.75rem 0.8rem; }
+    .acards :global(.rc-thumb) { flex-basis: 96px; border-radius: 8px; }
+    .acards :global(.rc-title) { font-size: 1rem; }
+    .acards :global(.rc-sum) { -webkit-line-clamp: 3; line-clamp: 3; }
   }
-  .acards :global(.meta-row + .meta-row) { padding-top: 0.6rem; border-top: 1px dashed var(--line); }
-
-  /* Custody as a progress track: dot per step (filled=done, hollow=pending),
-     actor + date, with › connectors showing the drafted→reviewed→published flow. */
-  .acards :global(.custody .steps) {
-    list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap;
-    align-items: center; gap: 0.3rem 0.7rem; font-size: 0.76rem;
-  }
-  .acards :global(.custody .steps li) { display: inline-flex; align-items: center; gap: 0.4rem; color: var(--ink-soft); }
-  .acards :global(.custody .steps li:not(:last-child))::after {
-    content: '›'; margin-inline-start: 0.4rem; color: var(--muted); opacity: 0.55; font-size: 0.9rem;
-  }
-  .acards :global(.custody li.todo) { opacity: 0.6; }
-  .acards :global(.custody .dot) { width: 0.5rem; height: 0.5rem; border-radius: 50%; flex: none; }
-  .acards :global(.custody li.done .dot) { background: var(--gold); }
-  .acards :global(.custody li.todo .dot) { background: transparent; border: 1px solid var(--muted); }
-  .acards :global(.custody .stg) {
-    font-size: 0.6rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted);
-  }
-  .acards :global(.custody .who) { color: var(--gold); font-weight: 700; }
-  .acards :global(.custody .ai) { color: var(--muted); font-style: italic; }
-  .acards :global(.custody .pend) { color: var(--muted); font-style: italic; }
-  .acards :global(.custody time) { color: var(--muted); font-variant-numeric: tabular-nums; }
-
-  /* Visitor analytics — Readers / Google / AI. Placeholder until data exists. */
-  .acards :global(.visitors .vwrap) { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.3rem 1.4rem; font-size: 0.76rem; }
-  .acards :global(.visitors .vm) { display: inline-flex; align-items: baseline; gap: 0.4rem; }
-  .acards :global(.visitors .vm[title]) { cursor: help; }
-  .acards :global(.visitors .vm[title] .vn) { text-decoration: underline dotted color-mix(in srgb, var(--muted) 60%, transparent); text-underline-offset: 3px; }
-  .acards :global(.visitors .vlbl) {
-    font-size: 0.6rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted);
-  }
-  .acards :global(.visitors .vn) { color: var(--ink); font-weight: 700; font-variant-numeric: tabular-nums; }
-  .acards :global(.visitors .vn.dash) { color: var(--muted); font-weight: 600; }
-  .acards :global(.visitors .pend) { color: var(--muted); font-style: italic; }
 
   .pager { display: flex; flex-wrap: wrap; gap: 0.8rem; justify-content: space-between; align-items: center; margin-top: 1rem; font-size: 0.85rem; }
   .pager-top { margin-top: 0; margin-bottom: 1.1rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
   /* Close the list with a matching rule, so it's bracketed top and bottom. */
   .pager:not(.pager-top) { padding-top: 1rem; border-top: 1px solid var(--line); }
+  .pager.pg-hidden { display: none; }
   .pg-size { display: flex; align-items: center; gap: 0.8rem; color: var(--muted); }
   .pg-size select { font: inherit; margin-inline-start: 0.3rem; padding: 0.2rem 0.4rem; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
   .pg-nav { display: flex; align-items: center; gap: 0.3rem; }

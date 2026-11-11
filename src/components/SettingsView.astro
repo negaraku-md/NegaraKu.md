@@ -79,33 +79,6 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
     </div>
   </section>
 
-  <!-- 4. Card display -->
-  <section class="set-card">
-    <h2>{L('Paparan kad', 'Card display', '卡片显示', 'அட்டை காட்சி', 'カード表示', '카드 표시', 'การแสดงการ์ด', 'Hiển thị thẻ', 'Tampilan kartu', 'عرض البطاقات', 'कार्ड प्रदर्शन', 'Visualización de tarjetas', "Affichage des cartes")}</h2>
-    <p class="note">
-      {L(
-        'Baris maklumat untuk dipaparkan pada kad artikel dalam senarai.',
-        'Which information rows show on article cards in listings.',
-        '文章卡片在列表中显示哪些信息行。',
-        'பட்டியல்களில் கட்டுரை அட்டைகளில் எந்தத் தகவல் வரிசைகள் காண்பிக்கப்படுகின்றன.',
-        '一覧の記事カードに表示する情報行を選びます。',
-        '목록의 기사 카드에 표시할 정보 행을 선택합니다.',
-        'แถวข้อมูลที่จะแสดงบนการ์ดบทความในรายการ',
-        'Các hàng thông tin hiển thị trên thẻ bài viết trong danh sách.',
-        'Baris informasi yang ditampilkan pada kartu artikel dalam daftar.',
-        'صفوف المعلومات التي تظهر على بطاقات المقالات في القوائم.',
-        'सूचियों में लेख कार्ड पर कौन-सी सूचना पंक्तियाँ दिखाई देती हैं।',
-        'Qué filas de información se muestran en las tarjetas de artículos en los listados.',
-        "Les lignes d'information affichées sur les cartes d'article dans les listes.",
-      )}
-    </p>
-    <div class="opts" data-group="rows">
-      <label class="opt"><input type="checkbox" value="path" /><span>{L('Laluan', 'Path', '路径', 'பாதை', 'パス', '경로', 'เส้นทาง', 'Đường dẫn', 'Jalur', 'المسار', 'पथ', 'Ruta', "Chemin")}</span></label>
-      <label class="opt"><input type="checkbox" value="details" /><span>{L('Butiran', 'Details', '详情', 'விவரங்கள்', '詳細', '세부 정보', 'รายละเอียด', 'Chi tiết', 'Rincian', 'التفاصيل', 'विवरण', 'Detalles', "Détails")}</span></label>
-      <label class="opt"><input type="checkbox" value="custody" /><span>{L('Status', 'Status', '状态', 'நிலை', 'ステータス', '상태', 'สถานะ', 'Trạng thái', 'Status', 'الحالة', 'स्थिति', 'Estado', "Statut")}</span></label>
-      <label class="opt"><input type="checkbox" value="visitors" /><span>{L('Pelawat', 'Visitors', '访客', 'பார்வையாளர்கள்', '訪問者', '방문자', 'ผู้เยี่ยมชม', 'Khách truy cập', 'Pengunjung', 'الزوّار', 'आगंतुक', 'Visitantes', "Visiteurs")}</span></label>
-    </div>
-  </section>
 
   <!-- 5. Welcome tour -->
   <section class="set-card">
@@ -199,15 +172,6 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
     };
     seg('size', 'nk-text-size', 'data-text-size', 'standard');
 
-    // --- Card rows (nk-card-rows-hidden = HIDDEN keys) — BUFFERED, applied on Save ---
-    const ALL_ROWS = ['path', 'details', 'custody', 'visitors'];
-    const readHidden = () => { try { const v = JSON.parse(get('nk-card-rows-hidden') || '[]'); return Array.isArray(v) ? v : []; } catch { return []; } };
-    // Default (no key yet) matches ArticleList: all rows hidden by default.
-    const rowsInit = get('nk-card-rows-hidden') === null ? ALL_ROWS.slice() : readHidden();
-    el.querySelectorAll<HTMLInputElement>('[data-group="rows"] input').forEach((b) => {
-      b.checked = !rowsInit.includes(b.value); // checked = shown
-    });
-
     // --- Welcome card toggle (nk:welcomed = '1' means dismissed) — BUFFERED ---
     const welcomeCb = document.getElementById('set-welcome-cb') as HTMLInputElement | null;
     if (welcomeCb) welcomeCb.checked = get('nk:welcomed') !== '1';
@@ -229,10 +193,7 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
       // 1. default language
       const sel = (el.querySelector('[data-group="lang"] input:checked') as HTMLInputElement | null)?.value || 'auto';
       if (sel === 'auto') del('nk-default-lang'); else setRaw('nk-default-lang', sel);
-      // 2. card rows
-      const h = ALL_ROWS.filter((r) => !(el.querySelector(`[data-group="rows"] input[value="${r}"]`) as HTMLInputElement | null)?.checked);
-      setRaw('nk-card-rows-hidden', JSON.stringify(h));
-      // 3. welcome card
+      // 2. welcome card
       if (welcomeCb && !welcomeCb.checked) setRaw('nk:welcomed', '1'); else del('nk:welcomed');
       // A fresh default-language choice should take effect even in this session.
       try { sessionStorage.removeItem('nk-lang-redirected'); } catch {}
