@@ -6,6 +6,7 @@ import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import { FontaineTransform } from 'fontaine';
 import { rehypeArabicRanges } from './src/lib/bidi';
+import { rehypeTrailingSlash } from './src/lib/trailing-slash';
 
 // Canonical production URL (kept in sync with src/lib/site.ts).
 const SITE = 'https://negaraku.md';
@@ -607,6 +608,8 @@ export default defineConfig({
     // Fix the confirmed Arabic bidi bug: numeric ranges joined by an en/em-dash (or
     // comma-grouped) render reversed under RTL. This isolates them at render time, only
     // for *.ar.md bodies, skipping code. See src/lib/bidi.ts + docs/plans/ar-rtl-bidi-audit.md.
-    rehypePlugins: [rehypeArabicRanges],
+    // Trailing-slash internal body links so they match the canonical (slash) form GitHub
+    // Pages serves — avoids the /path -> /path/ 301 that GSC logs as "Page with redirect".
+    rehypePlugins: [rehypeArabicRanges, rehypeTrailingSlash],
   },
 });

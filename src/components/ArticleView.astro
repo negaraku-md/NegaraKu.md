@@ -922,10 +922,10 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
           </a>
         )}
         </Fragment>)}
-        <a class="edit" href={localePath(path, locale) + '.md'} target="_blank" rel="noopener">
+        <a class="edit" href={localePath(path, locale).replace(/\/$/, '') + '.md'} target="_blank" rel="noopener">
           {L('Markdown mentah', 'Raw Markdown', '原始 Markdown', 'மூல Markdown', '生の Markdown', '원본 Markdown', 'Markdown ดิบ', 'Markdown thô', 'Markdown mentah', 'Markdown الخام', 'कच्चा Markdown', 'Markdown sin procesar', "Markdown brut")} <span class="dirx">↗</span>
         </a>
-        <button type="button" class="edit edit-copy" data-copy-md={localePath(path, locale) + '.md'}>
+        <button type="button" class="edit edit-copy" data-copy-md={localePath(path, locale).replace(/\/$/, '') + '.md'}>
           {L('Salin Markdown', 'Copy Markdown', '复制 Markdown', 'Markdown நகலெடு', 'Markdown をコピー', 'Markdown 복사', 'คัดลอก Markdown', 'Sao chép Markdown', 'Salin Markdown', 'نسخ Markdown', 'Markdown कॉपी करें', 'Copiar Markdown', "Copier le Markdown")}
         </button>
       </div>
