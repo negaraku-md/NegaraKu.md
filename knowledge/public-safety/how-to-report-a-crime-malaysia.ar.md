@@ -89,7 +89,7 @@ sources:
 relations:
   - { rel: "related-to", to: "online-safety-act-malaysia" }
   - { rel: "related-to", to: "data-breach-notification-malaysia" }
-related: ["online-safety-act-malaysia", "debt-recovery-malaysia", "data-breach-notification-malaysia"]
+related: ["online-safety-act-malaysia", "debt-recovery-malaysia", "data-breach-notification-malaysia", "how-to-report-a-scam-malaysia", "national-scam-response-centre-nsrc"]
 keywords: ["بلاغ الشرطة", "كيفية تقديم بلاغ للشرطة", "e-Reporting PDRM", "997 NSRC", "999 الطوارئ", "المادة 107 قانون الإجراءات الجنائية"]
 framework: how-to
 ---

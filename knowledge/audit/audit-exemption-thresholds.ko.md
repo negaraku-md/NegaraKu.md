@@ -90,7 +90,7 @@ relations:
   - { rel: "governs", to: "companies-act-2016" }
   - { rel: "part-of", to: "audit-exemption" }
   - { rel: "related-to", to: "who-cannot-claim-audit-exemption" }
-related: ["audit-exemption", "who-cannot-claim-audit-exemption", "dormant-company-audit-exemption"]
+related: ["audit-exemption", "who-cannot-claim-audit-exemption", "dormant-company-audit-exemption", "audit-exemption-criteria", "after-audit-exemption"]
 keywords: ["audit exemption threshold Malaysia", "audit exemption RM300만", "PD 10/2024 thresholds", "audit exemption 2026 threshold", "SSM audit exemption criteria 2027", "number of employees audit exemption"]
 framework: data-reference
 ---

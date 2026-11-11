@@ -106,7 +106,7 @@ relations:
   - { rel: "related-to", to: "sst-registration" }
   - { rel: "related-to", to: "employment-act-coverage" }
   - { rel: "related-to", to: "business-structure-tax-comparison" }
-related: ["business-structures-malaysia", "appoint-company-secretary", "sst-explained", "sst-registration", "employment-act-coverage", "business-structure-tax-comparison"]
+related: ["business-structures-malaysia", "appoint-company-secretary", "sst-explained", "sst-registration", "employment-act-coverage", "business-structure-tax-comparison", "sole-prop-vs-sdn-bhd", "llp-vs-sdn-bhd", "register-sdn-bhd", "doing-business-sabah", "sarawak-business-guide"]
 keywords:
   - "how to start a business in Malaysia"
   - "SSM registration"

@@ -79,6 +79,8 @@ relations:
 related:
   - "national-dishes-of-malaysia"
   - "regional-and-ethnic-cuisines"
+  - "ah-hei-bak-kut-teh"
+  - "minji-bak-kut-teh"
 keywords:
   - "bak kut teh"
   - "Klang"

@@ -83,7 +83,7 @@ relations:
   - { rel: "governs", to: "companies-act-2016" }
   - { rel: "affects", to: "lhdn" }
   - { rel: "part-of", to: "audit-exemption" }
-related: ["audit-exemption", "audit-exemption-thresholds", "who-cannot-claim-audit-exemption", "mfrs-vs-mpers"]
+related: ["audit-exemption", "audit-exemption-thresholds", "who-cannot-claim-audit-exemption", "mfrs-vs-mpers", "audit-exemption-criteria"]
 keywords: ["selepas pengecualian audit Malaysia", "penyata kewangan tidak diaudit SSM", "sijil pengecualian audit", "rekod perakaunan seksyen 245", "MBRS penyata kewangan tidak diaudit", "77A(4) akaun diaudit LHDN"]
 
 obligations:

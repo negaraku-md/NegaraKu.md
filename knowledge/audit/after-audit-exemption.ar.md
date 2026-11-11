@@ -83,7 +83,7 @@ relations:
   - { rel: "governs", to: "companies-act-2016" }
   - { rel: "affects", to: "lhdn" }
   - { rel: "part-of", to: "audit-exemption" }
-related: ["audit-exemption", "audit-exemption-thresholds", "who-cannot-claim-audit-exemption", "mfrs-vs-mpers"]
+related: ["audit-exemption", "audit-exemption-thresholds", "who-cannot-claim-audit-exemption", "mfrs-vs-mpers", "audit-exemption-criteria"]
 keywords: ["بعد الإعفاء من التدقيق ماليزيا", "after audit exemption Malaysia", "البيانات المالية غير المدققة SSM", "شهادة الإعفاء من التدقيق", "السجلات المحاسبية المادة 245", "MBRS unaudited financial statements", "77A(4) حسابات مدققة LHDN"]
 
 obligations:

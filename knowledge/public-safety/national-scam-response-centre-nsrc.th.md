@@ -62,8 +62,10 @@ relations:
   - rel: administered-by
     to: bank-negara-malaysia
 related:
-  - commercial-crime-investigation-department-ccid
-  - staying-safe-scams-and-emergencies
+  - "commercial-crime-investigation-department-ccid"
+  - "staying-safe-scams-and-emergencies"
+  - "how-to-report-a-scam-malaysia"
+  - "how-to-report-a-crime-malaysia"
 keywords:
   - National Scam Response Centre
   - NSRC
