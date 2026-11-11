@@ -84,7 +84,7 @@ sources:
 entity: "Local government in Malaysia (Pihak Berkuasa Tempatan / PBT)"
 wikidata: "Q6664408"
 relations: []
-related: []
+related: ["local-government-councils"]
 keywords: ["الحكومة المحلية في ماليزيا", "local government Malaysia", "PBT", "pihak berkuasa tempatan", "المجلس البلدي", "majlis perbandaran", "مجلس المقاطعة", "majlis daerah", "مجلس المدينة", "dewan bandaraya", "Local Government Act 1976", "Act 171", "المجلس المحلي", "cukai taksiran", "ضريبة التقدير", "KPKT", "انتخابات الحكومة المحلية", "Datuk Bandar", "Yang Dipertua"]
 framework: explainer
 ---

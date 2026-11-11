@@ -1,11 +1,12 @@
 ---
 topicId: MY-GOV-0053
-title: "Chính quyền địa phương (PBT): Hội đồng Thành phố, Đô thị và Quận theo Act 171"
-seoTitle: Chính quyền địa phương (PBT)
+title: "Bầu cử chính quyền địa phương ở Malaysia: 'lá phiếu thứ ba' và vì sao ủy viên hội đồng PBT được bổ nhiệm"
+seoTitle: "Bầu cử chính quyền địa phương Malaysia & 'lá phiếu thứ ba'"
+socialTitle: "Malaysia từng bầu ủy viên hội đồng địa phương — cho đến năm 1965. Đây là lý do nó dừng lại."
 slug: "local-government-councils"
 category: "government"
 subcategory: ["institutions"]
-summary: "Cơ quan Chính quyền Địa phương (PBT) là tầng quản lý thứ ba ở Malaysia. Bài viết này mô tả ba loại PBT (Hội đồng Thành phố, Hội đồng Đô thị, Hội đồng Quận), khung pháp lý của nó (Luật Chính quyền Địa phương (Local Government Act 1976, Act 171) cho Bán đảo, các pháp lệnh riêng cho Sabah và Sarawak), cơ chế bổ nhiệm ủy viên hội đồng theo Điều 10, và bối cảnh lịch sử của việc chuyển từ hội đồng được bầu sang hội đồng được bổ nhiệm — một cách mô tả dựa trên văn bản pháp luật và nguồn chính thức."
+summary: "Vì sao ủy viên hội đồng chính quyền địa phương (PBT) ở Malaysia được bổ nhiệm thay vì bầu? Bài viết lần theo lịch sử bầu cử chính quyền địa phương — từ cuộc bầu cử đô thị đầu tiên năm 1952 và việc đình chỉ năm 1965, qua Ủy ban Hoàng gia Athi Nahappan, đến những nỗ lực khôi phục 'lá phiếu thứ ba' giai đoạn 2008–2024 — cùng cơ cấu, phân loại và thành phần của PBT theo Mục 10 Đạo luật 171."
 
 tier: "S"
 mode: "practical"
@@ -23,7 +24,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn hiểu cấu trúc, khung pháp lý và thành viên của chính quyền địa phương ở Malaysia — sinh viên, nhà nghiên cứu, nhà báo, cư dân giao dịch với hội đồng địa phương, và độc giả phổ thông muốn biết sự khác biệt giữa Hội đồng Thành phố, Đô thị và Quận cùng lý do ủy viên hội đồng được bổ nhiệm chứ không được bầu."
 
 lang: "vi"
-sourceContentHash: "76abb87d5a3ed499"
+sourceContentHash: "0dc2ab10ca79fba9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,7 +79,7 @@ relations:
   - { rel: "related-to", to: "three-tiers-of-government" }
   - { rel: "related-to", to: "federal-state-division" }
   - { rel: "related-to", to: "state-assemblies-dun" }
-related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission"]
+related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission", "local-government-in-malaysia"]
 keywords: ["Pihak Berkuasa Tempatan", "PBT", "kerajaan tempatan", "Akta Kerajaan Tempatan 1976", "Akta 171", "Majlis Bandaraya", "Majlis Perbandaran", "Majlis Daerah", "Datuk Bandar", "Yang Dipertua", "ahli majlis", "pilihan raya kerajaan tempatan", "Athi Nahappan", "KPKT"]
 framework: profile
 ---

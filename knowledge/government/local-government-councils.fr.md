@@ -1,11 +1,12 @@
 ---
 topicId: MY-GOV-0053
-title: "Le gouvernement local (PBT) : conseils municipaux, communaux et de district en vertu de la Loi 171"
-seoTitle: Le gouvernement local (PBT)
+title: "Élections locales en Malaisie : le « troisième vote » et pourquoi les conseillers des PBT sont nommés"
+seoTitle: "Élections locales en Malaisie et le « troisième vote »"
+socialTitle: "La Malaisie élisait ses conseillers locaux — jusqu'en 1965. Voici pourquoi cela a cessé."
 slug: "local-government-councils"
 category: "government"
 subcategory: ["institutions"]
-summary: "Les Autorités locales (Pihak Berkuasa Tempatan, PBT) constituent le troisième niveau d'administration en Malaisie. Cet article explique les trois catégories de PBT (conseils municipaux, conseils communaux, conseils de district), leur cadre juridique (la Local Government Act 1976 [Act 171] pour la Péninsule, avec des ordonnances distinctes pour le Sabah et le Sarawak), le mécanisme de nomination des conseillers en vertu de la Section 10, ainsi que le contexte historique du passage de conseils élus à des conseils désignés — de manière descriptive, en s'appuyant sur le texte législatif et sur des sources officielles."
+summary: "Pourquoi les conseillers des autorités locales (PBT) de Malaisie sont-ils nommés plutôt qu'élus ? Cet article retrace les élections locales — de la première élection municipale de 1952 et leur suspension en 1965, en passant par la Commission royale Athi Nahappan, jusqu'aux tentatives de rétablir le « troisième vote » entre 2008 et 2024 — ainsi que la structure, les catégories et la composition des PBT en vertu de l'article 10 de la loi 171."
 
 tier: "S"
 mode: "practical"
@@ -23,7 +24,7 @@ keyTakeaways:
 appliesTo: "Toute personne souhaitant comprendre la structure, le cadre juridique et la composition du gouvernement local en Malaisie — étudiants, chercheurs, journalistes, résidents en relation avec leur conseil local, et lecteurs en général désireux de connaître la différence entre conseils municipaux, communaux et de district, et pourquoi les conseillers sont désignés plutôt qu'élus."
 
 lang: "fr"
-sourceContentHash: "76abb87d5a3ed499"
+sourceContentHash: "0dc2ab10ca79fba9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,7 +79,7 @@ relations:
   - { rel: "related-to", to: "three-tiers-of-government" }
   - { rel: "related-to", to: "federal-state-division" }
   - { rel: "related-to", to: "state-assemblies-dun" }
-related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission"]
+related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission", "local-government-in-malaysia"]
 keywords: ["Pihak Berkuasa Tempatan", "PBT", "gouvernement local", "kerajaan tempatan", "Akta Kerajaan Tempatan 1976", "Akta 171", "conseil municipal", "Majlis Bandaraya", "conseil communal", "Majlis Perbandaran", "conseil de district", "Majlis Daerah", "Datuk Bandar", "Yang Dipertua", "conseiller", "élections du gouvernement local", "Athi Nahappan", "KPKT"]
 framework: profile
 ---

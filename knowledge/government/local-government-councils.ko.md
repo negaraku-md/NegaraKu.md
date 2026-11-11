@@ -1,10 +1,12 @@
 ---
 topicId: MY-GOV-0053
-title: "지방정부(PBT): Act 171에 따른 시의회·시정의회·군의회"
+title: "말레이시아 지방의회 선거: '제3의 투표'와 PBT 의원이 임명되는 이유"
+seoTitle: "말레이시아 지방의회 선거와 '제3의 투표'"
+socialTitle: "말레이시아는 한때 지방의원을 선거로 뽑았다 — 1965년까지. 그것이 중단된 이유."
 slug: "local-government-councils"
 category: "government"
 subcategory: ["institutions"]
-summary: "지방 당국(Pihak Berkuasa Tempatan, PBT)은 말레이시아의 세 번째 행정 층위입니다. 이 글은 PBT의 세 범주(시의회, 시정의회, 군의회), 그 법적 틀(반도에는 지방정부법 1976 [Act 171], 사바와 사라왁에는 별개의 조례), 제10조에 따른 지방의원 임명 방식, 그리고 선출 의회에서 임명 의회로의 전환이라는 역사적 배경을 — 법령 문언과 공식 자료에 근거하여 서술적으로 — 설명합니다."
+summary: "말레이시아의 지방자치단체(PBT) 의원은 왜 선거가 아니라 임명으로 선출될까? 이 글은 지방의회 선거의 역사를 따라간다 — 1952년 첫 지방선거와 1965년의 중단, 아티 나하판 왕립위원회, 그리고 2008년부터 2024년까지 '제3의 투표'를 되살리려는 시도까지 — 아울러 171호 법령 제10조에 따른 PBT의 구조·분류·구성을 설명한다."
 
 tier: "S"
 mode: "practical"
@@ -22,7 +24,7 @@ keyTakeaways:
 appliesTo: "말레이시아 지방자치의 구조, 법적 틀, 구성원을 이해하고자 하는 모든 사람 — 학생, 연구자, 기자, 지방의회와 업무를 처리하는 주민, 그리고 시의회(Majlis Bandaraya)·시자치의회(Perbandaran)·군의회(Daerah)의 차이와 의원이 선출이 아니라 임명되는 이유를 알고자 하는 일반 독자."
 
 lang: "ko"
-sourceContentHash: "76abb87d5a3ed499"
+sourceContentHash: "0dc2ab10ca79fba9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,7 +79,7 @@ relations:
   - { rel: "related-to", to: "three-tiers-of-government" }
   - { rel: "related-to", to: "federal-state-division" }
   - { rel: "related-to", to: "state-assemblies-dun" }
-related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission"]
+related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission", "local-government-in-malaysia"]
 keywords: ["Pihak Berkuasa Tempatan", "PBT", "kerajaan tempatan", "Akta Kerajaan Tempatan 1976", "Akta 171", "Majlis Bandaraya", "Majlis Perbandaran", "Majlis Daerah", "Datuk Bandar", "Yang Dipertua", "ahli majlis", "pilihan raya kerajaan tempatan", "Athi Nahappan", "KPKT"]
 framework: profile
 ---

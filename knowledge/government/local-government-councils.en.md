@@ -1,11 +1,12 @@
 ---
 topicId: MY-GOV-0053
-title: "Local Government (PBT): City, Municipal and District Councils Under Act 171"
-seoTitle: Local Government (PBT)
+title: "Local Government Elections in Malaysia: The 'Third Vote' and Why PBT Councillors Are Appointed"
+seoTitle: "Local Government Elections Malaysia & the 'Third Vote'"
+socialTitle: "Malaysia once voted for its local councillors — until 1965. Here's why it stopped."
 slug: "local-government-councils"
 category: "government"
 subcategory: ["institutions"]
-summary: "Local Authorities (PBT) are the third tier of administration in Malaysia. This article explains the three categories of PBT (City Councils, Municipal Councils, District Councils), their legal framework (the Local Government Act 1976 [Act 171] for the Peninsula, with separate ordinances for Sabah and Sarawak), the mechanism for appointing councillors under Section 10, and the historical background of the shift from elected councils to appointed councils — descriptively, based on the legislative text and official sources."
+summary: "Why are PBT councillors in Malaysia appointed rather than elected? This article traces local government elections — from the first municipal election in 1952 and their suspension in 1965, through the Athi Nahappan Royal Commission, to attempts to restore the 'third vote' between 2008 and 2024 — alongside the structure, categories and membership of local authorities under Section 10 of Act 171."
 
 tier: "S"
 mode: "practical"
@@ -23,7 +24,7 @@ keyTakeaways:
 appliesTo: "Anyone who wants to understand the structure, legal framework and membership of local government in Malaysia — students, researchers, journalists, residents dealing with their local council, and general readers who want to know the difference between City, Municipal and District Councils, and why councillors are appointed rather than elected."
 
 lang: "en"
-sourceContentHash: "76abb87d5a3ed499"
+sourceContentHash: "0dc2ab10ca79fba9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,7 +79,7 @@ relations:
   - { rel: "related-to", to: "three-tiers-of-government" }
   - { rel: "related-to", to: "federal-state-division" }
   - { rel: "related-to", to: "state-assemblies-dun" }
-related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission"]
+related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission", "local-government-in-malaysia"]
 keywords: ["Pihak Berkuasa Tempatan", "PBT", "kerajaan tempatan", "Akta Kerajaan Tempatan 1976", "Akta 171", "Majlis Bandaraya", "Majlis Perbandaran", "Majlis Daerah", "Datuk Bandar", "Yang Dipertua", "ahli majlis", "pilihan raya kerajaan tempatan", "Athi Nahappan", "KPKT"]
 framework: profile
 ---

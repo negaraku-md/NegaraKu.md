@@ -1,10 +1,12 @@
 ---
 topicId: MY-GOV-0053
-title: "地方政府（PBT）：171号法令下的市政厅、市议会与县议会"
+title: "马来西亚地方政府选举：'第三票'与为何PBT议员由委任而非选举产生"
+seoTitle: "马来西亚地方政府选举与'第三票'"
+socialTitle: "马来西亚曾经民选地方议员——直到1965年。这是它中止的原因。"
 slug: "local-government-councils"
 category: "government"
 subcategory: ["institutions"]
-summary: "地方政府机构（Pihak Berkuasa Tempatan，PBT）是马来西亚第三层行政机构。本文介绍PBT的三种类别（市政厅、市议会、县议会）、其法律框架（西马适用《1976年地方政府法令》[171号法令]，沙巴与砂拉越各有独立条例）、依据第10条委任议员的机制，以及从民选议会过渡到委任议会的历史背景——依据法律条文与官方来源作描述性说明。"
+summary: "为何马来西亚的地方政府（PBT）议员由委任而非选举产生？本文梳理地方政府选举的历程——从1952年首次市政选举、1965年的中止，到阿迪·纳哈潘皇家调查委员会，再到2008至2024年间恢复'第三票'的尝试——同时说明171号法令第10条下地方政府的结构、类别与成员组成。"
 
 tier: "S"
 mode: "practical"
@@ -22,7 +24,7 @@ keyTakeaways:
 appliesTo: "任何想了解马来西亚地方政府结构、法律框架与组成的人——学生、研究人员、记者、与地方议会打交道的居民，以及想了解市政厅、市议会与县议会之间区别、以及议员为何是委任而非民选的一般读者。"
 
 lang: "zh"
-sourceContentHash: "76abb87d5a3ed499"
+sourceContentHash: "0dc2ab10ca79fba9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,7 +79,7 @@ relations:
   - { rel: "related-to", to: "three-tiers-of-government" }
   - { rel: "related-to", to: "federal-state-division" }
   - { rel: "related-to", to: "state-assemblies-dun" }
-related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission"]
+related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission", "local-government-in-malaysia"]
 keywords: ["Pihak Berkuasa Tempatan", "PBT", "kerajaan tempatan", "Akta Kerajaan Tempatan 1976", "Akta 171", "Majlis Bandaraya", "Majlis Perbandaran", "Majlis Daerah", "Datuk Bandar", "Yang Dipertua", "ahli majlis", "pilihan raya kerajaan tempatan", "Athi Nahappan", "KPKT"]
 framework: profile
 ---

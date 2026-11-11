@@ -1,11 +1,12 @@
 ---
 topicId: MY-GOV-0053
-title: "स्थानीय सरकार (PBT): अधिनियम 171 के अंतर्गत नगर, नगरपालिका और ज़िला परिषदें"
-seoTitle: 'स्थानीय सरकार (PBT): अधिनियम 171 के तहत परिषदें'
+title: "मलेशिया में स्थानीय सरकार चुनाव: 'तीसरा वोट' और PBT पार्षद क्यों नियुक्त होते हैं"
+seoTitle: "मलेशिया में स्थानीय सरकार चुनाव और 'तीसरा वोट'"
+socialTitle: "मलेशिया कभी अपने स्थानीय पार्षद चुनता था — 1965 तक। जानिए यह क्यों रुका।"
 slug: "local-government-councils"
 category: "government"
 subcategory: ["institutions"]
-summary: "स्थानीय प्राधिकरण (Pihak Berkuasa Tempatan, PBT) मलेशिया में प्रशासन का तीसरा स्तर हैं। यह लेख PBT की तीन श्रेणियों (नगर परिषद, नगरपालिका परिषद, ज़िला परिषद), उनके कानूनी ढाँचे (प्रायद्वीप के लिए स्थानीय सरकार अधिनियम 1976 [Act 171], तथा सबाह और सरवाक के लिए अलग अध्यादेश), धारा 10 के अंतर्गत पार्षदों की नियुक्ति की प्रक्रिया, और निर्वाचित परिषदों से मनोनीत परिषदों की ओर बदलाव की ऐतिहासिक पृष्ठभूमि की व्याख्या करता है — विधायी पाठ और आधिकारिक स्रोतों पर आधारित, विवरणात्मक रूप से।"
+summary: "मलेशिया में स्थानीय प्राधिकरण (PBT) के पार्षद चुने जाने के बजाय नियुक्त क्यों किए जाते हैं? यह लेख स्थानीय सरकार चुनावों का इतिहास बताता है — 1952 के पहले नगरपालिका चुनाव और 1965 में इनके निलंबन से लेकर आठी नाहप्पन राजकीय आयोग, और 2008 से 2024 के बीच 'तीसरा वोट' बहाल करने के प्रयासों तक — साथ ही अधिनियम 171 की धारा 10 के तहत PBT की संरचना, श्रेणियाँ और सदस्यता।"
 
 tier: "S"
 mode: "practical"
@@ -23,7 +24,7 @@ keyTakeaways:
 appliesTo: "वह कोई भी जो मलेशिया में स्थानीय सरकार की संरचना, कानूनी ढाँचे और सदस्यता को समझना चाहता है — छात्र, शोधकर्ता, पत्रकार, अपनी स्थानीय परिषद से व्यवहार करने वाले निवासी, और वे सामान्य पाठक जो नगर, नगरपालिका और ज़िला परिषदों के बीच अंतर जानना चाहते हैं, और यह कि पार्षद निर्वाचित होने के बजाय मनोनीत क्यों किए जाते हैं।"
 
 lang: "hi"
-sourceContentHash: "76abb87d5a3ed499"
+sourceContentHash: "0dc2ab10ca79fba9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,7 +79,7 @@ relations:
   - { rel: "related-to", to: "three-tiers-of-government" }
   - { rel: "related-to", to: "federal-state-division" }
   - { rel: "related-to", to: "state-assemblies-dun" }
-related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission"]
+related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission", "local-government-in-malaysia"]
 keywords: ["स्थानीय प्राधिकरण", "Pihak Berkuasa Tempatan", "PBT", "स्थानीय सरकार", "kerajaan tempatan", "स्थानीय सरकार अधिनियम 1976", "Akta 171", "नगर परिषद", "Majlis Bandaraya", "नगरपालिका परिषद", "Majlis Perbandaran", "ज़िला परिषद", "Majlis Daerah", "Datuk Bandar", "Yang Dipertua", "पार्षद", "स्थानीय सरकार चुनाव", "Athi Nahappan", "KPKT"]
 framework: profile
 ---

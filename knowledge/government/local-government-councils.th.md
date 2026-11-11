@@ -1,11 +1,12 @@
 ---
 topicId: MY-GOV-0053
-title: "การปกครองส่วนท้องถิ่น (PBT): สภานคร สภาเทศบาล และสภาอำเภอ ภายใต้ Akta 171"
-seoTitle: การปกครองส่วนท้องถิ่น (PBT)
+title: "การเลือกตั้งองค์กรปกครองส่วนท้องถิ่นในมาเลเซีย: 'เสียงที่สาม' และเหตุใดสมาชิกสภา PBT จึงมาจากการแต่งตั้ง"
+seoTitle: "การเลือกตั้งท้องถิ่นมาเลเซียกับ 'เสียงที่สาม'"
+socialTitle: "มาเลเซียเคยเลือกตั้งสมาชิกสภาท้องถิ่น — จนถึงปี 1965 นี่คือเหตุผลที่มันยุติลง"
 slug: "local-government-councils"
 category: "government"
 subcategory: ["institutions"]
-summary: "องค์กรปกครองส่วนท้องถิ่น (Pihak Berkuasa Tempatan, PBT) เป็นชั้นการบริหารที่สามในมาเลเซีย บทความนี้อธิบายสามหมวดของ PBT (สภานคร สภาเทศบาล สภาอำเภอ) กรอบทางกฎหมาย (พระราชบัญญัติการปกครองส่วนท้องถิ่น 1976 [Akta 171] สำหรับคาบสมุทร กฎหมายแยกต่างหากสำหรับซาบาห์และซาราวัก) กลไกการแต่งตั้งสมาชิกสภาภายใต้มาตรา 10 และภูมิหลังทางประวัติศาสตร์ของการเปลี่ยนจากสภาที่มาจากการเลือกตั้งเป็นสภาที่มาจากการแต่งตั้ง — เชิงบรรยายบนพื้นฐานของตัวบทกฎหมายและแหล่งข้อมูลทางการ"
+summary: "เหตุใดสมาชิกสภาองค์กรปกครองส่วนท้องถิ่น (PBT) ในมาเลเซียจึงมาจากการแต่งตั้งแทนการเลือกตั้ง? บทความนี้ติดตามการเลือกตั้งท้องถิ่น — ตั้งแต่การเลือกตั้งเทศบาลครั้งแรกปี 1952 และการระงับในปี 1965 ผ่านคณะกรรมาธิการหลวงอาทินาฮัปปัน จนถึงความพยายามฟื้นฟู 'เสียงที่สาม' ระหว่างปี 2008 ถึง 2024 — ควบคู่กับโครงสร้าง ประเภท และองค์ประกอบของ PBT ภายใต้มาตรา 10 แห่งพระราชบัญญัติ 171"
 
 tier: "S"
 mode: "practical"
@@ -23,7 +24,7 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการเข้าใจโครงสร้าง กรอบทางกฎหมาย และสมาชิกภาพของการปกครองส่วนท้องถิ่นในมาเลเซีย — นักเรียนนักศึกษา นักวิจัย นักข่าว ผู้อยู่อาศัยที่ติดต่อกับสภาท้องถิ่น และผู้อ่านทั่วไปที่ต้องการทราบความแตกต่างระหว่างสภานคร สภาเทศบาล และสภาอำเภอ ตลอดจนเหตุผลที่สมาชิกสภามาจากการแต่งตั้งมิใช่การเลือกตั้ง"
 
 lang: "th"
-sourceContentHash: "76abb87d5a3ed499"
+sourceContentHash: "0dc2ab10ca79fba9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,7 +79,7 @@ relations:
   - { rel: "related-to", to: "three-tiers-of-government" }
   - { rel: "related-to", to: "federal-state-division" }
   - { rel: "related-to", to: "state-assemblies-dun" }
-related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission"]
+related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission", "local-government-in-malaysia"]
 keywords: ["Pihak Berkuasa Tempatan", "PBT", "kerajaan tempatan", "Akta Kerajaan Tempatan 1976", "Akta 171", "Majlis Bandaraya", "Majlis Perbandaran", "Majlis Daerah", "Datuk Bandar", "Yang Dipertua", "ahli majlis", "pilihan raya kerajaan tempatan", "Athi Nahappan", "KPKT"]
 framework: profile
 ---

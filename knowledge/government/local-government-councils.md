@@ -1,11 +1,12 @@
 ---
 topicId: MY-GOV-0053
-title: "Kerajaan Tempatan (PBT): Majlis Bandaraya, Perbandaran dan Daerah di Bawah Akta 171"
-seoTitle: Kerajaan Tempatan (PBT)
+title: "Kerajaan Tempatan: Kisah 'Undi Ketiga' dan Mengapa Ahli Majlis PBT Dilantik"
+seoTitle: "Pilihan Raya Kerajaan Tempatan Malaysia & 'Undi Ketiga'"
+socialTitle: "Malaysia pernah mengundi ahli majlis tempatan — sehingga 1965. Inilah sebab ia terhenti."
 slug: "local-government-councils"
 category: "government"
 subcategory: ["institutions"]
-summary: "Pihak Berkuasa Tempatan (PBT) ialah lapisan pentadbiran ketiga di Malaysia. Artikel ini menerangkan tiga kategori PBT (Majlis Bandaraya, Majlis Perbandaran, Majlis Daerah), rangka perundangannya (Akta Kerajaan Tempatan 1976 [Akta 171] bagi Semenanjung, ordinan berasingan bagi Sabah dan Sarawak), mekanisme pelantikan ahli majlis di bawah Seksyen 10, dan latar sejarah peralihan daripada majlis dipilih kepada majlis dilantik — secara deskriptif berdasarkan teks perundangan dan sumber rasmi."
+summary: "Mengapa ahli majlis PBT di Malaysia dilantik, bukan dipilih? Artikel ini menjejaki pilihan raya kerajaan tempatan — daripada pilihan raya perbandaran pertama 1952 dan penggantungannya pada 1965, Suruhanjaya Diraja Athi Nahappan, hingga percubaan memulihkan 'undi ketiga' antara 2008 dan 2024 — di samping struktur, kategori dan keanggotaan PBT di bawah Seksyen 10 Akta 171."
 
 tier: "S"
 mode: "practical"
@@ -77,7 +78,7 @@ relations:
   - { rel: "related-to", to: "three-tiers-of-government" }
   - { rel: "related-to", to: "federal-state-division" }
   - { rel: "related-to", to: "state-assemblies-dun" }
-related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission"]
+related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission", "local-government-in-malaysia"]
 keywords: ["Pihak Berkuasa Tempatan", "PBT", "kerajaan tempatan", "Akta Kerajaan Tempatan 1976", "Akta 171", "Majlis Bandaraya", "Majlis Perbandaran", "Majlis Daerah", "Datuk Bandar", "Yang Dipertua", "ahli majlis", "pilihan raya kerajaan tempatan", "Athi Nahappan", "KPKT"]
 framework: profile
 ---

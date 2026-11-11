@@ -1,11 +1,12 @@
 ---
 topicId: MY-GOV-0053
-title: "Gobierno local (PBT): consejos de ciudad, municipales y de distrito en virtud de la Ley 171"
-seoTitle: Gobierno local (PBT)
+title: "Elecciones de gobierno local en Malasia: el 'tercer voto' y por qué los concejales de las PBT son designados"
+seoTitle: "Elecciones de gobierno local en Malasia y el 'tercer voto'"
+socialTitle: "Malasia eligió a sus concejales locales — hasta 1965. Esta es la razón por la que se detuvo."
 slug: "local-government-councils"
 category: "government"
 subcategory: ["institutions"]
-summary: "Las Autoridades Locales (Pihak Berkuasa Tempatan, PBT) son el tercer nivel de administración en Malasia. Este artículo explica las tres categorías de PBT (consejos de ciudad, consejos municipales, consejos de distrito), su marco legal (la Local Government Act 1976 [Act 171] para la Península, con ordenanzas separadas para Sabah y Sarawak), el mecanismo de nombramiento de los concejales en virtud de la Sección 10, y los antecedentes históricos del paso de consejos elegidos a consejos designados — de forma descriptiva, basándose en el texto legislativo y en fuentes oficiales."
+summary: "¿Por qué los concejales de las autoridades locales (PBT) de Malasia son designados en lugar de elegidos? Este artículo recorre las elecciones de gobierno local — desde la primera elección municipal de 1952 y su suspensión en 1965, pasando por la Comisión Real Athi Nahappan, hasta los intentos de restaurar el 'tercer voto' entre 2008 y 2024 — además de la estructura, las categorías y la composición de las PBT según la Sección 10 de la Ley 171."
 
 tier: "S"
 mode: "practical"
@@ -23,7 +24,7 @@ keyTakeaways:
 appliesTo: "Cualquiera que quiera entender la estructura, el marco legal y la composición del gobierno local en Malasia — estudiantes, investigadores, periodistas, residentes que tratan con su consejo local, y lectores en general que quieren conocer la diferencia entre consejos de ciudad, municipales y de distrito, y por qué los concejales son designados en lugar de elegidos."
 
 lang: "es"
-sourceContentHash: "76abb87d5a3ed499"
+sourceContentHash: "0dc2ab10ca79fba9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,7 +79,7 @@ relations:
   - { rel: "related-to", to: "three-tiers-of-government" }
   - { rel: "related-to", to: "federal-state-division" }
   - { rel: "related-to", to: "state-assemblies-dun" }
-related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission"]
+related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission", "local-government-in-malaysia"]
 keywords: ["Pihak Berkuasa Tempatan", "PBT", "gobierno local", "kerajaan tempatan", "Akta Kerajaan Tempatan 1976", "Akta 171", "consejo de ciudad", "Majlis Bandaraya", "consejo municipal", "Majlis Perbandaran", "consejo de distrito", "Majlis Daerah", "Datuk Bandar", "Yang Dipertua", "concejal", "elecciones de gobierno local", "Athi Nahappan", "KPKT"]
 framework: profile
 ---

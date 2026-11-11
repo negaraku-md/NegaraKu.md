@@ -1,11 +1,12 @@
 ---
 topicId: MY-GOV-0053
-title: "الحكومة المحلية (PBT): مجالس المدن والبلديات والمقاطعات بموجب القانون 171"
-seoTitle: الحكومة المحلية (PBT)
+title: "انتخابات الحكومة المحلية في ماليزيا: 'الصوت الثالث' ولماذا يُعيَّن أعضاء مجالس PBT"
+seoTitle: "انتخابات الحكومة المحلية في ماليزيا و'الصوت الثالث'"
+socialTitle: "كانت ماليزيا تنتخب أعضاء مجالسها المحلية — حتى عام 1965. وهذا سبب توقفها."
 slug: "local-government-councils"
 category: "government"
 subcategory: ["institutions"]
-summary: "الهيئات المحلية (Pihak Berkuasa Tempatan, PBT) هي المستوى الثالث من الإدارة في ماليزيا. يشرح هذا المقال الفئات الثلاث للهيئات المحلية (مجالس المدن، المجالس البلدية، مجالس المقاطعات)، وإطارها القانوني (قانون الحكومة المحلية لسنة 1976 [Act 171] لشبه الجزيرة، مع مراسيم منفصلة لصباح وساراواك)، وآلية تعيين أعضاء المجلس بموجب المادة 10، والخلفية التاريخية للتحول من المجالس المنتخبة إلى المجالس المعيَّنة — على نحو وصفي يستند إلى النص التشريعي والمصادر الرسمية."
+summary: "لماذا يُعيَّن أعضاء مجالس الهيئات المحلية (PBT) في ماليزيا بدلاً من انتخابهم؟ يتتبع هذا المقال انتخابات الحكومة المحلية — من أول انتخابات بلدية عام 1952 وتعليقها عام 1965، مروراً باللجنة الملكية برئاسة آتي ناهابان، وصولاً إلى محاولات استعادة 'الصوت الثالث' بين عامي 2008 و2024 — إلى جانب بنية الهيئات المحلية وفئاتها وعضويتها بموجب المادة 10 من القانون 171."
 
 tier: "S"
 mode: "practical"
@@ -23,7 +24,7 @@ keyTakeaways:
 appliesTo: "كل من يرغب في فهم بنية الحكومة المحلية في ماليزيا وإطارها القانوني وعضويتها — الطلاب والباحثون والصحفيون والسكان الذين يتعاملون مع مجلسهم المحلي، والقراء العامون الذين يريدون معرفة الفرق بين مجالس المدن والبلديات والمقاطعات، ولماذا يُعيَّن أعضاء المجلس بدلًا من أن يُنتخبوا."
 
 lang: "ar"
-sourceContentHash: "76abb87d5a3ed499"
+sourceContentHash: "0dc2ab10ca79fba9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,7 +79,7 @@ relations:
   - { rel: "related-to", to: "three-tiers-of-government" }
   - { rel: "related-to", to: "federal-state-division" }
   - { rel: "related-to", to: "state-assemblies-dun" }
-related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission"]
+related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission", "local-government-in-malaysia"]
 keywords: ["الهيئات المحلية", "Pihak Berkuasa Tempatan", "PBT", "الحكومة المحلية", "kerajaan tempatan", "قانون الحكومة المحلية 1976", "Akta 171", "مجلس المدينة", "Majlis Bandaraya", "المجلس البلدي", "Majlis Perbandaran", "مجلس المقاطعة", "Majlis Daerah", "Datuk Bandar", "Yang Dipertua", "عضو المجلس", "انتخابات الحكومة المحلية", "Athi Nahappan", "KPKT"]
 framework: profile
 ---

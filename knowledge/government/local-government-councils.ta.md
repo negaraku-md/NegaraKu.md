@@ -1,11 +1,12 @@
 ---
 topicId: MY-GOV-0053
-title: "உள்ளூர் அரசாங்கம் (PBT): Akta 171-இன் கீழ் மாநகர, நகராட்சி மற்றும் மாவட்ட மன்றங்கள்"
-seoTitle: உள்ளூர் அரசாங்கம் (PBT)
+title: "மலேசியாவில் உள்ளூராட்சித் தேர்தல்கள்: 'மூன்றாவது வாக்கு' மற்றும் PBT மன்ற உறுப்பினர்கள் ஏன் நியமிக்கப்படுகிறார்கள்"
+seoTitle: "மலேசிய உள்ளூராட்சித் தேர்தல்களும் 'மூன்றாவது வாக்கும்'"
+socialTitle: "மலேசியா ஒரு காலத்தில் தன் உள்ளூர் மன்ற உறுப்பினர்களைத் தேர்ந்தெடுத்தது — 1965 வரை. அது நின்றது ஏன்."
 slug: "local-government-councils"
 category: "government"
 subcategory: ["institutions"]
-summary: "உள்ளூர் அதிகார சபை (Pihak Berkuasa Tempatan, PBT) என்பது மலேசியாவின் மூன்றாவது நிர்வாக அடுக்காகும். இந்தக் கட்டுரை PBT-இன் மூன்று வகைகள் (மாநகர மன்றம், நகராட்சி மன்றம், மாவட்ட மன்றம்), அவற்றின் சட்டச் சட்டகம் (தீபகற்பத்திற்கு Akta Kerajaan Tempatan 1976 [Akta 171], சபா மற்றும் சரவாக்கிற்குத் தனித்தனி கட்டளைச் சட்டங்கள்), Seksyen 10-இன் கீழ் மன்ற உறுப்பினர்களை நியமிக்கும் நடைமுறை, மேலும் தேர்ந்தெடுக்கப்பட்ட மன்றங்களிலிருந்து நியமிக்கப்பட்ட மன்றங்களுக்கு மாறிய வரலாற்றுப் பின்னணி ஆகியவற்றை — சட்ட உரை மற்றும் அதிகாரப்பூர்வ ஆதாரங்களின் அடிப்படையில் விவரணமாக — விளக்குகிறது."
+summary: "மலேசியாவில் உள்ளூர் அதிகார சபை (PBT) மன்ற உறுப்பினர்கள் ஏன் தேர்ந்தெடுக்கப்படாமல் நியமிக்கப்படுகிறார்கள்? இந்தக் கட்டுரை உள்ளூராட்சித் தேர்தல்களின் வரலாற்றைப் பின்தொடர்கிறது — 1952-இன் முதல் நகராட்சித் தேர்தல், 1965-இல் அவை நிறுத்தப்பட்டமை, Athi Nahappan அரச ஆணையம், மேலும் 2008 முதல் 2024 வரை 'மூன்றாவது வாக்கை' மீட்டெடுக்கும் முயற்சிகள் வரை — அத்துடன் Akta 171 Seksyen 10-இன் கீழ் PBT-இன் அமைப்பு, வகைகள் மற்றும் உறுப்பினர் அமைப்பு பற்றியும் விவரிக்கிறது."
 
 tier: "S"
 mode: "practical"
@@ -25,7 +26,7 @@ appliesTo: "மலேசியாவில் உள்ளூர் அரசா
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "76abb87d5a3ed499"
+sourceContentHash: "0dc2ab10ca79fba9"
 
 status: "published"
 aiAssisted: true
@@ -78,7 +79,7 @@ relations:
   - { rel: "related-to", to: "three-tiers-of-government" }
   - { rel: "related-to", to: "federal-state-division" }
   - { rel: "related-to", to: "state-assemblies-dun" }
-related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission"]
+related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission", "local-government-in-malaysia"]
 keywords: ["Pihak Berkuasa Tempatan", "PBT", "kerajaan tempatan", "Akta Kerajaan Tempatan 1976", "Akta 171", "Majlis Bandaraya", "Majlis Perbandaran", "Majlis Daerah", "Datuk Bandar", "Yang Dipertua", "ahli majlis", "pilihan raya kerajaan tempatan", "Athi Nahappan", "KPKT"]
 framework: profile
 ---

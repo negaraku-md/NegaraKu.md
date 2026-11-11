@@ -49,6 +49,10 @@ const PLAN = [
 
   // #4 — Business hub → its branch articles (outbound journey wiring).
   { base: 'business/starting-a-business-in-malaysia', add: ['business-structures-malaysia', 'sole-prop-vs-sdn-bhd', 'llp-vs-sdn-bhd', 'register-sdn-bhd', 'doing-business-sabah', 'sarawak-business-guide'] },
+
+  // #3 — Council pair, now DIFFERENTIATED: civic explainer <-> elections-history.
+  { base: 'government/local-government-in-malaysia', add: ['local-government-councils'] },
+  { base: 'government/local-government-councils', add: ['local-government-in-malaysia'] },
 ];
 
 // ---- validate every slug in the plan actually exists on disk --------------

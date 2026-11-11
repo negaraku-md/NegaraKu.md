@@ -1,10 +1,12 @@
 ---
 topicId: MY-GOV-0053
-title: "地方自治体（PBT）：171号法令下の市議会・都市評議会・県議会"
+title: "マレーシアの地方議会選挙:「第三の票」とPBT議員が任命制である理由"
+seoTitle: "マレーシアの地方議会選挙と「第三の票」"
+socialTitle: "マレーシアはかつて地方議員を選挙で選んでいた——1965年まで。その停止の理由とは。"
 slug: "local-government-councils"
 category: "government"
 subcategory: ["institutions"]
-summary: "地方自治体（Pihak Berkuasa Tempatan、PBT）は、マレーシアにおける第三の行政層である。本稿は、PBTの三つの類型（市議会、都市評議会、県議会）、その法的枠組み（半島に適用される1976年地方自治法［Local Government Act 1976、Act 171］、サバ及びサラワクの別個の条例）、s.10のもとでの議員委任の仕組み、そして民選議会から委任議会への移行という歴史的背景を、法律条文と公式資料に基づき記述的に説明する。"
+summary: "なぜマレーシアの地方自治体（PBT）議員は選挙ではなく任命で選ばれるのか。本稿は地方議会選挙の歩みをたどる——1952年の最初の自治体選挙と1965年の停止、アティ・ナハッパン王立委員会、そして2008年から2024年にかけての「第三の票」復活の試みまで——あわせて171号法令第10条に基づくPBTの構造・区分・構成を解説する。"
 
 tier: "S"
 mode: "practical"
@@ -24,7 +26,7 @@ appliesTo: "マレーシアの地方自治体の構造、法的枠組み及び�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "76abb87d5a3ed499"
+sourceContentHash: "0dc2ab10ca79fba9"
 
 status: "published"
 aiAssisted: true
@@ -77,7 +79,7 @@ relations:
   - { rel: "related-to", to: "three-tiers-of-government" }
   - { rel: "related-to", to: "federal-state-division" }
   - { rel: "related-to", to: "state-assemblies-dun" }
-related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission"]
+related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission", "local-government-in-malaysia"]
 keywords: ["Pihak Berkuasa Tempatan", "PBT", "kerajaan tempatan", "Akta Kerajaan Tempatan 1976", "Akta 171", "Majlis Bandaraya", "Majlis Perbandaran", "Majlis Daerah", "Datuk Bandar", "Yang Dipertua", "ahli majlis", "pilihan raya kerajaan tempatan", "Athi Nahappan", "KPKT"]
 framework: profile
 ---
