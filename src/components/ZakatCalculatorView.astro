@@ -1,0 +1,253 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
+import SponsorCTA from './SponsorCTA.astro';
+import PageHero from './PageHero.astro';
+import { ZAKAT } from '@/lib/tax/zakat';
+
+interface Props { locale: Locale; }
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const sponsor = resolveSponsor(undefined, undefined, false, 'finance', 'zakat-calculator');
+const sponsorHref = sponsor ? sponsorUrl(sponsor, 'tools', 'zakat-calculator') : '';
+
+const faqs = [
+  {
+    q: L('Apakah nisab dan mengapa ia berubah?',
+         'What is the nisab and why does it change?',
+         '什么是尼萨布（nisab），为什么它会变动？'),
+    a: L('Nisab ialah ambang kekayaan minimum yang mewajibkan zakat — ditetapkan sebagai nilai 85 gram emas. Oleh kerana harga emas berubah, setiap pihak berkuasa zakat negeri mengemas kini angka ringgit nisab dari semasa ke semasa. Sahkan angka semasa negeri anda sebelum membuat kiraan.',
+         'The nisab is the minimum wealth threshold that makes zakat due — set at the value of 85 grams of gold. Because the gold price moves, each state zakat authority re-sets the ringgit nisab figure from time to time. Confirm your state’s current figure before you calculate.',
+         '尼萨布是使天课成为义务的最低财富门槛——设定为 85 克黄金的价值。由于金价会波动，各州天课机构会不时更新尼萨布的令吉数额。计算前请先确认你所在州属的当前数字。'),
+  },
+  {
+    q: L('Berapakah kadar zakat dan apakah haul?',
+         'What is the zakat rate and what is the haul?',
+         '天课的税率是多少？什么是哈乌勒（haul）？'),
+    a: L('Kadar zakat ialah 2.5% (satu per empat puluh) atas kekayaan yang layak. Ia hanya wajib apabila kekayaan itu mencapai nisab dan telah dipegang selama satu haul — satu tahun penuh. Jika kekayaan anda jatuh di bawah nisab dalam tempoh itu, haul boleh terganggu.',
+         'The zakat rate is 2.5% (one-fortieth) on qualifying wealth. It only becomes due once that wealth reaches the nisab and has been held for one haul — a full year. If your wealth drops below the nisab during that period, the haul can be interrupted.',
+         '天课的税率是 2.5%（四十分之一），针对符合条件的财富。只有当该财富达到尼萨布，并持满一个哈乌勒（即满一年）后，才成为义务。若在此期间你的财富跌破尼萨布，哈乌勒可能中断。'),
+  },
+  {
+    q: L('Apakah tiga jenis zakat yang lazim dikira?',
+         'What are the three common types of zakat calculated here?',
+         '这里常计算的三种天课是哪三种？'),
+    a: L('Zakat pendapatan dikira atas pendapatan tahunan (selepas keperluan asas yang dibenarkan); zakat simpanan atas baki terendah yang dipegang sepanjang haul; dan zakat perniagaan atas aset semasa bersih perniagaan. Ketiga-tiganya menggunakan kadar 2.5% yang sama ke atas jumlah layak zakat di atas nisab.',
+         'Income zakat is calculated on your annual income (after allowable basic needs); savings zakat on the lowest balance held across the haul; and business zakat on the business’s net current assets. All three apply the same 2.5% rate to the zakatable amount above the nisab.',
+         '收入天课按你的年收入计算（扣除获允许的基本需求后）；储蓄天课按整个哈乌勒期间持有的最低余额计算；商业天课按企业的净流动资产计算。三者都对尼萨布以上的应课天课额适用相同的 2.5% 税率。'),
+  },
+];
+
+const title = L('Kalkulator Zakat Malaysia', 'Malaysia Zakat Calculator', '马来西亚天课计算器');
+const heroDesc = L(
+  'Anggarkan zakat pendapatan, simpanan atau perniagaan anda pada kadar 2.5%, dengan nisab yang boleh disunting mengikut angka negeri anda. Semua dalam pelayar; tiada data dihantar.',
+  'Estimate your income, savings or business zakat at the 2.5% rate, with an editable nisab you can set to your state’s figure. All in your browser; no data sent.',
+  '按 2.5% 的税率估算你的收入、储蓄或商业天课，尼萨布可编辑并设为你所在州属的数额。全部在浏览器中运行，数据不外传。',
+);
+
+const ui = {
+  type: L('Jenis zakat', 'Zakat type', '天课类型'),
+  typeIncome: L('Zakat pendapatan', 'Income zakat', '收入天课'),
+  typeSavings: L('Zakat simpanan', 'Savings zakat', '储蓄天课'),
+  typeBusiness: L('Zakat perniagaan', 'Business zakat', '商业天课'),
+  amountIncome: L('Pendapatan tahunan (RM)', 'Annual income (RM)', '年收入（RM）'),
+  amountSavings: L('Baki terendah dipegang satu tahun penuh (RM)', 'Lowest balance held a full year (RM)', '持满一整年的最低余额（RM）'),
+  amountBusiness: L('Aset semasa bersih (RM)', 'Net current assets (RM)', '净流动资产（RM）'),
+  deductions: L('Keperluan asas / potongan dibenarkan (RM)', 'Basic needs / allowable deductions (RM)', '基本需求／可扣除项（RM）'),
+  deductionsOpt: L('pilihan', 'optional', '可选'),
+  nisab: L('Nisab (RM)', 'Nisab (RM)', '尼萨布（RM）'),
+  nisabNote: L(
+    'Nisab = nilai 85g emas, ditetapkan oleh pihak berkuasa zakat negeri anda. Sahkan angka semasa negeri anda.',
+    'Nisab = the value of 85g gold, set by your state zakat authority. Confirm your state’s current figure.',
+    '尼萨布 = 85 克黄金的价值，由你所在州属的天课机构设定。请确认你所在州属的当前数字。',
+  ),
+  payable: L('Zakat kena dibayar', 'Zakat payable', '应付天课'),
+  perYear: L('setahun', 'per year', '每年'),
+  zakatable: L('Jumlah layak zakat', 'Zakatable amount', '应课天课额'),
+  nisabUsed: L('Nisab digunakan', 'Nisab used', '采用的尼萨布'),
+  status: L('Status', 'Status', '状态'),
+  aboveNisab: L('Melepasi nisab — zakat wajib', 'Above nisab — zakat is due', '超过尼萨布——须缴天课'),
+  belowNisab: L('Di bawah nisab — belum wajib zakat', 'Below nisab — no zakat due yet', '低于尼萨布——暂无须缴天课'),
+  rate: L('Kadar', 'Rate', '税率'),
+  rateNote: L('2.5% (satu per empat puluh)', '2.5% (one-fortieth)', '2.5%（四十分之一）'),
+  asOf: L('Kadar setakat', 'Rates as of', '税率截至'),
+  disclaimer: L(
+    'Anggaran sahaja. Kaedah pengiraan pihak berkuasa zakat negeri anda adalah muktamad — jenis zakat, potongan yang dibenarkan dan angka nisab berbeza mengikut negeri. Sahkan dengan pihak berkuasa zakat negeri anda.',
+    'Estimate only. Your state zakat authority’s method is authoritative — the zakat types, allowable deductions and nisab figure vary by state. Verify with your state zakat authority.',
+    '仅为估算。你所在州属天课机构的计算方法为准——天课类型、可扣除项与尼萨布数额因州而异。请与你所在州属的天课机构核实。',
+  ),
+  howH: L('Cara ia dikira', 'How it is calculated', '计算方式'),
+  learnH: L('Ketahui lebih lanjut', 'Learn more', '了解更多'),
+};
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
+    { label: title },
+  ]}
+  title={title}
+  desc={heroDesc}
+/>
+
+<section class="container block">
+  <div
+    class="itc"
+    id="zk"
+    data-amount-income={ui.amountIncome}
+    data-amount-savings={ui.amountSavings}
+    data-amount-business={ui.amountBusiness}
+    data-above={ui.aboveNisab}
+    data-below={ui.belowNisab}
+  >
+    <form class="itc-form" autocomplete="off">
+      <div class="itc-row">
+        <label class="itc-field">
+          <span>{ui.type}</span>
+          <select id="zk-type">
+            <option value="income">{ui.typeIncome}</option>
+            <option value="savings">{ui.typeSavings}</option>
+            <option value="business">{ui.typeBusiness}</option>
+          </select>
+        </label>
+        <label class="itc-field itc-income">
+          <span id="zk-amount-label">{ui.amountIncome}</span>
+          <input type="number" id="zk-amount" inputmode="decimal" min="0" step="100" placeholder="60000" />
+        </label>
+      </div>
+      <div class="itc-row">
+        <label class="itc-field">
+          <span>{ui.deductions} <em class="zk-opt">({ui.deductionsOpt})</em></span>
+          <input type="number" id="zk-deductions" inputmode="decimal" min="0" step="100" placeholder="0" />
+        </label>
+        <label class="itc-field">
+          <span>{ui.nisab}</span>
+          <input type="number" id="zk-nisab" inputmode="decimal" min="0" step="100" value={ZAKAT.defaultNisab} />
+        </label>
+      </div>
+      <p class="zk-nisab-note">{ui.nisabNote}</p>
+    </form>
+
+    <aside class="itc-out" aria-live="polite">
+      <p class="itc-asof">{ui.asOf} <span id="zk-asof">{ZAKAT.asOf}</span></p>
+      <div class="itc-headline">
+        <span class="itc-label">{ui.payable}</span>
+        <strong class="itc-amount" id="zk-payable">RM0</strong>
+        <span class="itc-sub"><span id="zk-status">{ui.belowNisab}</span></span>
+      </div>
+      <dl class="itc-lines">
+        <div><dt>{ui.zakatable}</dt><dd id="zk-zakatable">RM0</dd></div>
+        <div><dt>{ui.nisabUsed}</dt><dd id="zk-nisab-used">RM0</dd></div>
+        <div><dt>{ui.rate}</dt><dd id="zk-rate">2.5%</dd></div>
+      </dl>
+    </aside>
+  </div>
+
+  <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
+
+  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
+
+  <div class="itc-prose">
+    <h2>{ui.howH}</h2>
+    <p>{L(
+      'Kami mulakan daripada jumlah yang anda masukkan — pendapatan tahunan, baki simpanan terendah sepanjang tahun, atau aset semasa bersih perniagaan — dan menolak sebarang keperluan asas atau potongan yang dibenarkan untuk mendapat jumlah layak zakat. Jika jumlah itu mencapai nisab, zakat ialah 2.5% daripadanya; jika di bawah nisab, tiada zakat lagi wajib. Nisab (nilai 85g emas) boleh disunting kerana ia ditetapkan oleh setiap negeri.',
+      'We start from the amount you enter — annual income, the lowest savings balance across the year, or the business’s net current assets — and subtract any basic needs or allowable deductions to get the zakatable amount. If that amount reaches the nisab, zakat is 2.5% of it; if it is below the nisab, no zakat is due yet. The nisab (the value of 85g gold) is editable because each state sets it.',
+      '我们从你输入的金额出发——年收入、全年最低储蓄余额，或企业的净流动资产——减去任何基本需求或可扣除项，得到应课天课额。若该金额达到尼萨布，天课即为其 2.5%；若低于尼萨布，则暂无须缴天课。尼萨布（85 克黄金的价值）可编辑，因为各州各自设定。',
+    )}</p>
+    <h2>FAQ</h2>
+    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
+    <h2>{ui.learnH}</h2>
+    <ul class="itc-links">
+      <li><a href={localePath('/glossary/zakat', locale)}>{L('Zakat (glosari)', 'Zakat (glossary)', '天课（术语表）')}</a></li>
+      <li><a href={localePath('/money-daily-life/zakat-tax-rebate', locale)}>{L('Zakat dan rebat cukai', 'Zakat and the tax rebate', '天课与税务回扣')}</a></li>
+    </ul>
+    <h3>{L('Sumber', 'Sources', '来源')}</h3>
+    <ul class="itc-src">{ZAKAT.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}</ul>
+  </div>
+</section>
+
+<script>
+  import { computeZakat, ZAKAT } from '@/lib/tax/zakat';
+  const $ = (id) => document.getElementById(id);
+  const root = $('zk');
+  if (root) {
+    const labels = {
+      income: root.dataset.amountIncome,
+      savings: root.dataset.amountSavings,
+      business: root.dataset.amountBusiness,
+    };
+    const aboveText = root.dataset.above;
+    const belowText = root.dataset.below;
+    const f = new Intl.NumberFormat('en-MY', { style: 'currency', currency: 'MYR', minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    const f0 = new Intl.NumberFormat('en-MY', { style: 'currency', currency: 'MYR', maximumFractionDigits: 0 });
+    const rm = (n) => f.format(n || 0).replace('MYR', 'RM').replace(/\s/g, '');
+    const rm0 = (n) => f0.format(n || 0).replace('MYR', 'RM').replace(/\s/g, '');
+    const num = (el) => { const v = parseFloat(el && el.value); return Number.isFinite(v) && v > 0 ? v : 0; };
+    function recompute() {
+      const type = $('zk-type').value;
+      const label = labels[type];
+      if (label) $('zk-amount-label').textContent = label;
+      const r = computeZakat({
+        type,
+        amount: num($('zk-amount')),
+        deductions: num($('zk-deductions')),
+        nisab: num($('zk-nisab')),
+      });
+      $('zk-payable').textContent = rm(r.zakatPayable);
+      $('zk-status').textContent = r.aboveNisab ? aboveText : belowText;
+      $('zk-zakatable').textContent = rm0(r.zakatable);
+      $('zk-nisab-used').textContent = rm0(r.nisab);
+      $('zk-rate').textContent = (r.rate * 100).toFixed(1).replace(/\.0$/, '') + '%';
+      $('zk-asof').textContent = r.asOf;
+    }
+    root.addEventListener('input', recompute);
+    root.addEventListener('change', recompute);
+    recompute();
+  }
+</script>
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'SoftwareApplication', name: title, applicationCategory: 'FinanceApplication', operatingSystem: 'Web', offers: { '@type': 'Offer', price: '0', priceCurrency: 'MYR' }, description: heroDesc },
+    { '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+  ],
+})} />
+
+<style>
+  .itc { display: grid; grid-template-columns: 1.4fr 1fr; gap: 1.5rem; align-items: start; }
+  @media (max-width: 860px) { .itc { grid-template-columns: 1fr; } }
+  .itc-form { display: grid; gap: 1.1rem; }
+  .itc-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+  @media (max-width: 520px) { .itc-row { grid-template-columns: 1fr; } }
+  .itc-field { display: grid; gap: 0.35rem; font-size: 0.9rem; }
+  .itc-field > span { font-weight: 600; color: var(--ink-soft); }
+  .zk-opt { font-weight: 400; font-style: italic; color: var(--muted); }
+  .itc-field input, .itc-field select { font: inherit; padding: 0.55rem 0.7rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .itc-field input:focus, .itc-field select:focus { outline: 2px solid var(--gold); outline-offset: 1px; }
+  .zk-nisab-note { margin: 0; font-size: 0.78rem; line-height: 1.55; color: var(--muted); }
+  .itc-out { position: sticky; top: 1rem; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 1.2rem 1.3rem; }
+  .itc-asof { margin: 0 0 0.8rem; font-size: 0.72rem; color: var(--muted); }
+  .itc-headline { display: grid; gap: 0.15rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
+  .itc-label { font-size: 0.8rem; color: var(--ink-soft); font-weight: 600; }
+  .itc-amount { font-size: 2.1rem; font-weight: 800; color: var(--gold); line-height: 1.1; }
+  .itc-sub { font-size: 0.8rem; color: var(--muted); }
+  .itc-lines { display: grid; gap: 0.5rem; margin: 1rem 0 0; }
+  .itc-lines > div { display: flex; justify-content: space-between; gap: 1rem; font-size: 0.86rem; }
+  .itc-lines dt { color: var(--ink-soft); margin: 0; }
+  .itc-lines dd { margin: 0; font-weight: 700; font-variant-numeric: tabular-nums; }
+  .itc-disclaimer { margin: 1.4rem 0 0; padding: 0.8rem 1rem; font-size: 0.82rem; line-height: 1.6; color: var(--ink-soft); background: color-mix(in srgb, var(--gold) 6%, var(--surface, transparent)); border: 1px solid color-mix(in srgb, var(--gold) 30%, transparent); border-radius: 10px; }
+  .itc-prose { max-width: 58rem; margin-top: 2.5rem; }
+  .itc-prose h2 { font-size: 1.15rem; margin: 2rem 0 0.7rem; }
+  .itc-prose h3 { font-size: 1rem; margin: 1.6rem 0 0.5rem; }
+  .itc-prose p { line-height: 1.7; color: var(--ink-soft); }
+  .itc-faq dt { font-weight: 700; margin-top: 1rem; }
+  .itc-faq dd { margin: 0.3rem 0 0; color: var(--ink-soft); line-height: 1.7; }
+  .itc-links, .itc-src { padding-left: 1.1rem; line-height: 1.9; }
+  .itc-src { font-size: 0.85rem; }
+  .itc-src a, .itc-links a { color: var(--gold); }
+</style>

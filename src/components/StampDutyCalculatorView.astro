@@ -1,0 +1,237 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
+import SponsorCTA from './SponsorCTA.astro';
+import PageHero from './PageHero.astro';
+import { STAMP } from '@/lib/tax/stampDuty';
+
+interface Props { locale: Locale; }
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const sponsor = resolveSponsor(undefined, undefined, false, 'taxation', 'stamp-duty-calculator');
+const sponsorHref = sponsor ? sponsorUrl(sponsor, 'tools', 'stamp-duty-calculator') : '';
+const tax = (slug: string) => localePath(`/taxation/${slug}`, locale);
+
+const faqs = [
+  {
+    q: L('Bagaimana duti setem hartanah dikira?', 'How is property stamp duty banded?', '房地产印花税如何分级计算？'),
+    a: L('Duti pindah milik hartanah (Jadual Pertama, item 32(a)) adalah progresif atas harga belian atau nilai pasaran (yang lebih tinggi): 1% untuk RM100,000 pertama, 2% hingga RM500,000, 3% hingga RM1,000,000, dan 4% atas baki. Setiap jalur dikenakan kadarnya sendiri, bukan satu kadar rata.',
+         'Property transfer duty (First Schedule, item 32(a)) is progressive on the price or market value (whichever is higher): 1% on the first RM100,000, 2% up to RM500,000, 3% up to RM1,000,000, and 4% above that. Each band is charged at its own rate — not one flat rate on the whole price.',
+         '房地产转让印花税（第一附表，第 32(a) 项）按买价或市值（取较高者）累进计算：首 RM100,000 为 1%，至 RM500,000 为 2%，至 RM1,000,000 为 3%，其余为 4%。每一级距各按其税率计算，而非对全额采用单一税率。'),
+  },
+  {
+    q: L('Apa beza duti MOT dan duti perjanjian pinjaman?', 'What is the difference between MOT duty and loan-agreement duty?', 'MOT 印花税与贷款协议印花税有何不同？'),
+    a: L('MOT (surat ikatan pindah milik) dikenakan duti pindah milik berjalur 1–4% atas nilai hartanah (item 32(a)). Perjanjian pinjaman atau gadaian yang membiayai pembelian itu dikenakan duti berasingan 0.5% atas jumlah pinjaman (item 27). Pembeli yang berpinjam membayar kedua-duanya.',
+         'The MOT (memorandum/instrument of transfer) carries the 1–4% banded transfer duty on the property value (item 32(a)). The loan or charge agreement that finances the purchase is a separate instrument charged a flat 0.5% on the loan amount (item 27). A buyer who borrows pays both.',
+         'MOT（转让文书）按房产价值征收 1–4% 的分级转让印花税（第 32(a) 项）。为该购置融资的贷款或押记协议是另一份文书，按贷款额统一征收 0.5%（第 27 项）。贷款购房者两者都需缴纳。'),
+  },
+  {
+    q: L('Apakah pengecualian rumah pertama?', 'What is the first-home exemption?', '首套房豁免是什么？'),
+    a: L('Pengecualian rumah pertama, apabila dikuatkuasakan melalui perintah pengecualian yang diwartakan, memberi pengecualian penuh duti setem pindah milik (dan selalunya duti perjanjian pinjaman) untuk rumah kediaman pertama sehingga ambang yang ditetapkan. Sahkan nilai ambang semasa dan kelayakan dengan LHDN sebelum bergantung padanya.',
+         'The first-home exemption, when in force through a gazetted exemption order, gives a full exemption from transfer stamp duty (and often the loan-agreement duty) on a first residential home up to a set threshold. Confirm the current threshold value and eligibility with LHDN before relying on it.',
+         '首套房豁免在通过宪报颁布的豁免令生效时，对符合条件的首套住宅在规定门槛内全额豁免转让印花税（通常也豁免贷款协议印花税）。使用前请向 LHDN 核实当前门槛与资格。'),
+  },
+];
+
+const title = L('Kalkulator Duti Setem Malaysia', 'Malaysia Stamp Duty Calculator', '马来西亚印花税计算器');
+const heroDesc = L(
+  'Kira duti setem untuk pindah milik hartanah (MOT), perjanjian pinjaman dan pindah milik saham di Malaysia. Semua dalam pelayar; tiada data dihantar.',
+  'Work out the stamp duty on a Malaysian property transfer (MOT), loan agreement or share transfer. All in your browser; no data sent.',
+  '计算马来西亚房地产转让（MOT）、贷款协议与股份转让的印花税。全部在浏览器中运行，数据不外传。',
+);
+
+const ui = {
+  kind: L('Jenis surat cara', 'Instrument type', '文书类型'),
+  kindProperty: L('Pindah milik / jualan hartanah (MOT)', 'Property transfer / sale (MOT)', '房地产转让／买卖（MOT）'),
+  kindLoan: L('Perjanjian pinjaman / gadaian', 'Loan / charge agreement', '贷款／押记协议'),
+  kindShare: L('Pindah milik saham', 'Share transfer', '股份转让'),
+  amountProp: L('Harga atau nilai pasaran (RM)', 'Price or market value (RM)', '买价或市值（RM）'),
+  amountLoan: L('Jumlah pinjaman (RM)', 'Loan amount (RM)', '贷款额（RM）'),
+  foreign: L('Kediaman dijual kepada syarikat asing / bukan warganegara (8%)', 'Residential sold to a foreign company / non-citizen (8%)', '住宅售予外国公司／非公民（8%）'),
+  firstHome: L('Pengecualian rumah pertama (≤ RM500,000)', 'First-home exemption (≤ RM500,000)', '首套房豁免（≤ RM500,000）'),
+  dutyH: L('Duti setem perlu dibayar', 'Stamp duty payable', '应缴印花税'),
+  schedule: L('Item Jadual Pertama', 'First Schedule item', '第一附表项目'),
+  asOf: L('Kadar setakat', 'Rates as of', '税率截至'),
+  disclaimer: L(
+    'Anggaran sahaja, bukan nasihat cukai atau undang-undang. Kadar daripada Jadual Pertama Akta Setem 1949; pengecualian rumah pertama bergantung pada perintah pengecualian yang diwartakan dan ambang semasa. Sahkan dengan LHDN STAMPS sebelum bertindak.',
+    'Estimate only, not tax or legal advice. Rates are from the First Schedule to the Stamp Act 1949; the first-home exemption depends on a gazetted exemption order and the current threshold. Verify with LHDN STAMPS before acting.',
+    '仅为估算，非税务或法律建议。税率依据《1949 年印花税法令》第一附表；首套房豁免取决于宪报颁布的豁免令及当前门槛。采取行动前请以 LHDN STAMPS 核实。',
+  ),
+  howH: L('Cara ia dikira', 'How it is calculated', '计算方式'),
+  learnH: L('Bacaan berkaitan', 'Related reading', '相关阅读'),
+};
+
+// Helper line describing which First Schedule item applies, per instrument kind.
+const scheduleNote = {
+  'property-transfer': L('Item 32(a) — tangga 1–4% atas nilai hartanah', 'Item 32(a) — property ladder 1–4%', '第 32(a) 项——房产 1–4% 级距'),
+  'loan': L('Item 27 — 0.5% atas jumlah pinjaman', 'Item 27 — loan 0.5%', '第 27 项——贷款 0.5%'),
+  'share-transfer': L('Item 32(b) — 0.3% atas nilai saham', 'Item 32(b) — shares 0.3%', '第 32(b) 项——股份 0.3%'),
+};
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
+    { label: title },
+  ]}
+  title={title}
+  desc={heroDesc}
+/>
+
+<section class="container block">
+  <div
+    class="itc"
+    id="sd"
+    data-sched-loan={scheduleNote['loan']}
+    data-sched-share={scheduleNote['share-transfer']}
+    data-label-loan={ui.amountLoan}
+  >
+    <form class="itc-form" autocomplete="off">
+      <div class="itc-row">
+        <label class="itc-field">
+          <span>{ui.kind}</span>
+          <select id="sd-kind">
+            <option value="property-transfer">{ui.kindProperty}</option>
+            <option value="loan">{ui.kindLoan}</option>
+            <option value="share-transfer">{ui.kindShare}</option>
+          </select>
+        </label>
+        <label class="itc-field itc-income">
+          <span id="sd-amount-label">{ui.amountProp}</span>
+          <input type="number" id="sd-amount" inputmode="decimal" min="0" step="1000" placeholder="500000" />
+        </label>
+      </div>
+      <div class="itc-toggle" id="sd-property-opts">
+        <label><input type="checkbox" id="sd-foreign" /> {ui.foreign}</label>
+        <label><input type="checkbox" id="sd-firsthome" /> {ui.firstHome}</label>
+      </div>
+    </form>
+
+    <aside class="itc-out" aria-live="polite">
+      <p class="itc-asof">{ui.asOf} <span id="sd-asof">{STAMP.asOf}</span></p>
+      <div class="itc-headline">
+        <span class="itc-label">{ui.dutyH}</span>
+        <strong class="itc-amount" id="sd-duty">RM0</strong>
+        <span class="itc-sub" id="sd-schedule">{scheduleNote['property-transfer']}</span>
+      </div>
+      <p class="sd-note" id="sd-note" hidden></p>
+    </aside>
+  </div>
+
+  <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
+
+  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
+
+  <div class="itc-prose">
+    <h2>{ui.howH}</h2>
+    <p>{L(
+      'Untuk pindah milik hartanah, kami kenakan tangga progresif item 32(a) — 1% untuk RM100,000 pertama, 2% hingga RM500,000, 3% hingga RM1,000,000, 4% atas baki — ke atas harga belian atau nilai pasaran (yang lebih tinggi). Perjanjian pinjaman dikenakan 0.5% rata (item 27), dan pindah milik saham 0.3% (item 32(b)). Jika kediaman dijual kepada syarikat asing atau bukan warganegara bukan PR, kadar rata 8% dikenakan. Pengecualian rumah pertama, apabila berkuat kuasa, menjadikan duti RM0.',
+      'For a property transfer we apply the item 32(a) progressive ladder — 1% on the first RM100,000, 2% to RM500,000, 3% to RM1,000,000, 4% above — to the price or market value, whichever is higher. A loan agreement is charged a flat 0.5% (item 27), and a share transfer 0.3% (item 32(b)). Residential sold to a foreign company or non-citizen non-PR is charged a flat 8%. The first-home exemption, when in force, makes the duty RM0.',
+      '房地产转让按第 32(a) 项累进级距计算——首 RM100,000 为 1%，至 RM500,000 为 2%，至 RM1,000,000 为 3%，其余为 4%——以买价或市值（取较高者）为基础。贷款协议按 0.5% 统一征收（第 27 项），股份转让按 0.3%（第 32(b) 项）。住宅售予外国公司或非公民非永久居民者按 8% 统一征收。首套房豁免生效时印花税为 RM0。',
+    )}</p>
+    <h2>FAQ</h2>
+    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
+    <h2>{ui.learnH}</h2>
+    <ul class="itc-links">
+      <li><a href={tax('stamp-duty-rates')}>{L('Kadar duti setem — rujukan Jadual Pertama', 'Stamp duty rates — First Schedule reference', '印花税税率——第一附表参考')}</a></li>
+      <li><a href={tax('stamp-duty-self-assessment')}>{L('Duti setem — taksir sendiri (STSDS)', 'Stamp duty self-assessment', '印花税自我评估')}</a></li>
+    </ul>
+    <h3>{L('Sumber', 'Sources', '来源')}</h3>
+    <ul class="itc-src">{STAMP.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}</ul>
+  </div>
+</section>
+
+<script>
+  import { computeStampDuty } from '@/lib/tax/stampDuty';
+  const $ = (id) => document.getElementById(id);
+  const root = $('sd');
+  if (root) {
+    const f = new Intl.NumberFormat('en-MY', { style: 'currency', currency: 'MYR', minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    const rm = (n) => f.format(n || 0).replace('MYR', 'RM').replace(/\s/g, '');
+    const num = (el) => { const v = parseFloat(el && el.value); return Number.isFinite(v) && v > 0 ? v : 0; };
+
+    // Localized schedule helper + amount label come from the server-rendered DOM,
+    // read once so the client switches them without re-translating here.
+    const scheduleEl = $('sd-schedule');
+    const amountLabelEl = $('sd-amount-label');
+    const propOpts = $('sd-property-opts');
+    const SCHEDULES = {
+      'property-transfer': scheduleEl ? scheduleEl.textContent : '',
+      'loan': '',
+      'share-transfer': '',
+    };
+    const AMOUNT_LABELS = { prop: amountLabelEl ? amountLabelEl.textContent : '', loan: '' };
+    // Pull the loan-variant strings embedded as data-* so the <script> stays import-only.
+    SCHEDULES['loan'] = root.dataset.schedLoan || SCHEDULES['loan'];
+    SCHEDULES['share-transfer'] = root.dataset.schedShare || SCHEDULES['share-transfer'];
+    AMOUNT_LABELS.loan = root.dataset.labelLoan || AMOUNT_LABELS.loan;
+
+    function recompute() {
+      const kind = $('sd-kind').value;
+      // Property-only options are hidden (and ignored) for loan/share.
+      const isProperty = kind === 'property-transfer';
+      if (propOpts) propOpts.style.display = isProperty ? '' : 'none';
+      if (amountLabelEl) amountLabelEl.textContent = kind === 'loan' ? AMOUNT_LABELS.loan : AMOUNT_LABELS.prop;
+      if (scheduleEl) scheduleEl.textContent = SCHEDULES[kind] || '';
+
+      const r = computeStampDuty({
+        kind,
+        amount: num($('sd-amount')),
+        foreignResidential: isProperty && $('sd-foreign').checked,
+        firstHomeExempt: isProperty && $('sd-firsthome').checked,
+      });
+      $('sd-duty').textContent = rm(r.duty);
+      const noteEl = $('sd-note');
+      if (noteEl) {
+        if (r.note) { noteEl.textContent = r.note; noteEl.hidden = false; }
+        else { noteEl.textContent = ''; noteEl.hidden = true; }
+      }
+    }
+    root.addEventListener('input', recompute);
+    root.addEventListener('change', recompute);
+    recompute();
+  }
+</script>
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'SoftwareApplication', name: title, applicationCategory: 'FinanceApplication', operatingSystem: 'Web', offers: { '@type': 'Offer', price: '0', priceCurrency: 'MYR' }, description: heroDesc },
+    { '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+  ],
+})} />
+
+<style>
+  .itc { display: grid; grid-template-columns: 1.4fr 1fr; gap: 1.5rem; align-items: start; }
+  @media (max-width: 860px) { .itc { grid-template-columns: 1fr; } }
+  .itc-form { display: grid; gap: 1.1rem; }
+  .itc-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+  @media (max-width: 520px) { .itc-row { grid-template-columns: 1fr; } }
+  .itc-field { display: grid; gap: 0.35rem; font-size: 0.9rem; }
+  .itc-field > span { font-weight: 600; color: var(--ink-soft); }
+  .itc-field input, .itc-field select { font: inherit; padding: 0.55rem 0.7rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .itc-field input:focus, .itc-field select:focus { outline: 2px solid var(--gold); outline-offset: 1px; }
+  .itc-toggle { display: flex; flex-wrap: wrap; gap: 1rem; font-size: 0.9rem; }
+  .itc-toggle label { display: inline-flex; gap: 0.4rem; align-items: center; }
+  .itc-out { position: sticky; top: 1rem; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 1.2rem 1.3rem; }
+  .itc-asof { margin: 0 0 0.8rem; font-size: 0.72rem; color: var(--muted); }
+  .itc-headline { display: grid; gap: 0.15rem; }
+  .itc-label { font-size: 0.8rem; color: var(--ink-soft); font-weight: 600; }
+  .itc-amount { font-size: 2.1rem; font-weight: 800; color: var(--gold); line-height: 1.1; }
+  .itc-sub { font-size: 0.8rem; color: var(--muted); }
+  .sd-note { margin: 1rem 0 0; padding-top: 0.8rem; border-top: 1px dashed var(--line); font-size: 0.82rem; line-height: 1.6; color: var(--ink-soft); }
+  .itc-disclaimer { margin: 1.4rem 0 0; padding: 0.8rem 1rem; font-size: 0.82rem; line-height: 1.6; color: var(--ink-soft); background: color-mix(in srgb, var(--gold) 6%, var(--surface, transparent)); border: 1px solid color-mix(in srgb, var(--gold) 30%, transparent); border-radius: 10px; }
+  .itc-prose { max-width: 58rem; margin-top: 2.5rem; }
+  .itc-prose h2 { font-size: 1.15rem; margin: 2rem 0 0.7rem; }
+  .itc-prose h3 { font-size: 1rem; margin: 1.6rem 0 0.5rem; }
+  .itc-prose p { line-height: 1.7; color: var(--ink-soft); }
+  .itc-faq dt { font-weight: 700; margin-top: 1rem; }
+  .itc-faq dd { margin: 0.3rem 0 0; color: var(--ink-soft); line-height: 1.7; }
+  .itc-links, .itc-src { padding-left: 1.1rem; line-height: 1.9; }
+  .itc-src { font-size: 0.85rem; }
+  .itc-src a, .itc-links a { color: var(--gold); }
+</style>

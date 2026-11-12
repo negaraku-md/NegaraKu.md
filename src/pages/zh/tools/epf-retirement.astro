@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import EpfRetirementView from '@/components/EpfRetirementView.astro';
+const locale = 'zh';
+---
+
+<BaseLayout
+  locale={locale}
+  title="马来西亚公积金退休预测"
+  description="预测你在退休年龄时的公积金余额"
+  path="/tools/epf-retirement"
+>
+  <EpfRetirementView locale={locale} />
+</BaseLayout>

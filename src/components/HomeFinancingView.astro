@@ -1,0 +1,275 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
+import SponsorCTA from './SponsorCTA.astro';
+import PageHero from './PageHero.astro';
+import { HOME } from '@/lib/tax/homeFinancing';
+
+interface Props { locale: Locale; }
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const sponsor = resolveSponsor(undefined, undefined, false, 'finance', 'home-financing');
+const sponsorHref = sponsor ? sponsorUrl(sponsor, 'tools', 'home-financing') : '';
+
+const faqs = [
+  {
+    q: L('Berapa margin pinjaman (LTV) yang boleh saya dapat?',
+         'What loan margin (LTV) can I get?',
+         '我能获得多少贷款比例（LTV）？'),
+    a: L('Untuk rumah pertama dan kedua, bank biasanya menawarkan margin sehingga 90% daripada harga (dasar bank, BNM tidak menetapkan had). Untuk rumah ketiga dan seterusnya, BNM mengehadkan margin pada 70%, jadi anda perlu menyediakan bayaran pendahuluan yang lebih besar.',
+         'For a first and second home, banks typically offer a margin of up to 90% of the price (bank policy — BNM sets no cap). For a third home and beyond, BNM caps the margin at 70%, so you must put down a larger deposit.',
+         '购买首套和第二套房时，银行通常提供最高达房价 90% 的贷款比例（银行政策，国行未设上限）。第三套及以上，国行将贷款比例上限定为 70%，因此你需要支付更高的首付。'),
+  },
+  {
+    q: L('Apakah wang tunai pendahuluan selain bayaran pendahuluan?',
+         'What upfront cash is there beyond the down payment?',
+         '除了首付之外还有哪些预付现金？'),
+    a: L('Selain bayaran pendahuluan, anda perlu menyediakan duti setem Memorandum Pindah Milik (MOT), duti setem perjanjian pinjaman, serta yuran guaman untuk perjanjian jual beli (SPA) dan perjanjian pinjaman. Pembeli rumah pertama yang layak (harga ≤ RM500,000) mendapat pengecualian penuh duti setem MOT dan pinjaman sehingga 31 Disember 2027.',
+         'Beyond the down payment you must budget for the Memorandum of Transfer (MOT) stamp duty, the loan-agreement stamp duty, and the legal fees for the sale-and-purchase agreement (SPA) and the loan agreement. An eligible first-home buyer (price ≤ RM500,000) gets a full exemption on both the MOT and loan stamp duty until 31 December 2027.',
+         '除首付外，你还须预算产权转让备忘录（MOT）印花税、贷款协议印花税，以及买卖合约（SPA）和贷款协议的律师费。符合条件的首套房买家（房价 ≤ RM500,000）在 2027 年 12 月 31 日前可获 MOT 与贷款印花税的全额豁免。'),
+  },
+  {
+    q: L('Bagaimana yuran guaman dikira?',
+         'How are the legal fees scaled?',
+         '律师费是如何计算的？'),
+    a: L('Yuran guaman konveyans mengikut Perintah Saraan Peguam Cara 2023 (SRO 2023): berperingkat, dengan 1.25% dikenakan ke atas RM500,000 pertama, kemudian kadar yang menurun bagi jumlah yang lebih tinggi. Yuran dikira sekali atas nilai SPA dan sekali lagi atas jumlah pinjaman.',
+         'Conveyancing legal fees follow the Solicitors’ Remuneration Order 2023 (SRO 2023): progressive, with 1.25% on the first RM500,000, then lower rates on higher tiers. The fee is computed once on the SPA value and again on the loan amount.',
+         '产权转让律师费依据《2023 年律师报酬令》（SRO 2023）：采用累进制，首 RM500,000 收取 1.25%，更高档位费率递减。该费用按 SPA 价值计算一次，再按贷款金额计算一次。'),
+  },
+];
+
+const title = L('Kalkulator Pembiayaan Rumah Malaysia', 'Malaysia Home Financing Calculator', '马来西亚房屋贷款计算器');
+const heroDesc = L(
+  'Lihat ansuran bulanan dan jumlah wang tunai pendahuluan sebenar untuk membeli rumah di Malaysia — margin pinjaman, bayaran pendahuluan, duti setem dan yuran guaman. Semua dalam pelayar; tiada data dihantar.',
+  'See the monthly instalment and the real upfront cash to buy a home in Malaysia — loan margin, down payment, stamp duties and legal fees. All in your browser; no data sent.',
+  '查看在马来西亚购房的每月供款与真实预付现金——贷款比例、首付、印花税与律师费。全部在浏览器中运行，数据不外传。',
+);
+
+const ui = {
+  price: L('Harga hartanah (RM)', 'Property price (RM)', '房产价格（RM）'),
+  homeNumber: L('Rumah yang mana?', 'Which home?', '第几套房？'),
+  home1: L('Rumah pertama', 'First home', '首套房'),
+  home2: L('Rumah kedua', 'Second home', '第二套房'),
+  home3: L('Rumah ketiga atau lebih', 'Third or more', '第三套或以上'),
+  rate: L('Kadar faedah (%)', 'Interest rate (%)', '利率（%）'),
+  tenure: L('Tempoh (tahun)', 'Tenure (years)', '贷款年限（年）'),
+  firstHome: L('Pembeli rumah pertama (≤RM500k, pengecualian penuh duti setem sehingga 31 Dis 2027)',
+               'First-home buyer (≤RM500k, full stamp-duty exemption to 31 Dec 2027)',
+               '首套房买家（≤RM50万，印花税全额豁免至 2027 年 12 月 31 日）'),
+  income: L('Pendapatan kasar bulanan (RM, pilihan)', 'Monthly gross income (RM, optional)', '每月税前收入（RM，选填）'),
+  instalment: L('Ansuran bulanan', 'Monthly instalment', '每月供款'),
+  loanAmount: L('Jumlah pinjaman', 'Loan amount', '贷款金额'),
+  downPayment: L('Bayaran pendahuluan', 'Down payment', '首付'),
+  upfrontH: L('Wang tunai pendahuluan diperlukan', 'Upfront cash needed', '所需预付现金'),
+  motDuty: L('Duti setem MOT', 'MOT stamp duty', 'MOT 印花税'),
+  loanDuty: L('Duti setem perjanjian pinjaman', 'Loan-agreement stamp duty', '贷款协议印花税'),
+  legalSPA: L('Yuran guaman (SPA)', 'Legal fee (SPA)', '律师费（SPA）'),
+  legalLoan: L('Yuran guaman (pinjaman)', 'Legal fee (loan)', '律师费（贷款）'),
+  upfrontTotal: L('Jumlah wang tunai pendahuluan', 'Total upfront cash', '预付现金总额'),
+  exempt: L('Dikecualikan', 'Exempt', '豁免'),
+  dsr: L('Nisbah khidmat hutang', 'Debt-service ratio', '债务偿还比率'),
+  dsrHint: L('Pemberi pinjaman biasanya mahu ≤ ~60–70%.', 'Lenders generally look for ≤ ~60–70%.', '贷款机构一般要求 ≤ 约 60–70%。'),
+  asOf: L('Kadar setakat', 'Rates as of', '税率截至'),
+  disclaimer: L(
+    'Anggaran sahaja, bukan nasihat kewangan atau cukai. Margin pinjaman, kadar faedah dan kelulusan adalah mengikut budi bicara bank dan penilaian kredit anda. Duti setem dan yuran guaman mengikut jadual semasa; sahkan dengan bank, peguam dan LHDN.',
+    'Estimate only, not financial or tax advice. The loan margin, interest rate and approval are at the bank’s discretion and depend on your credit assessment. Stamp duties and legal fees follow current scales; verify with your bank, lawyer and LHDN.',
+    '仅为估算，非财务或税务建议。贷款比例、利率与批核由银行酌情决定并取决于你的信用评估。印花税与律师费依据现行标准；请以银行、律师与内陆税收局核实。',
+  ),
+  howH: L('Cara ia dikira', 'How it is calculated', '计算方式'),
+  learnH: L('Ketahui lebih lanjut', 'Learn more', '了解更多'),
+};
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
+    { label: title },
+  ]}
+  title={title}
+  desc={heroDesc}
+/>
+
+<section class="container block">
+  <div class="itc" id="hf" data-exempt={ui.exempt}>
+    <form class="itc-form" autocomplete="off">
+      <div class="itc-row">
+        <label class="itc-field itc-income">
+          <span>{ui.price}</span>
+          <input type="number" id="hf-price" inputmode="decimal" min="0" step="1000" placeholder="500000" value="500000" />
+        </label>
+        <label class="itc-field">
+          <span>{ui.homeNumber}</span>
+          <select id="hf-home">
+            <option value="1" selected>{ui.home1}</option>
+            <option value="2">{ui.home2}</option>
+            <option value="3">{ui.home3}</option>
+          </select>
+        </label>
+      </div>
+      <div class="itc-row">
+        <label class="itc-field">
+          <span>{ui.rate}</span>
+          <input type="number" id="hf-rate" inputmode="decimal" min="0" step="0.05" placeholder="4.0" value="4.0" />
+        </label>
+        <label class="itc-field">
+          <span>{ui.tenure}</span>
+          <input type="number" id="hf-tenure" inputmode="numeric" min="1" max="35" step="1" placeholder="30" value="30" />
+        </label>
+      </div>
+      <label class="itc-field itc-income">
+        <span>{ui.income}</span>
+        <input type="number" id="hf-income" inputmode="decimal" min="0" step="100" placeholder="8000" />
+      </label>
+      <div class="itc-toggle">
+        <label><input type="checkbox" id="hf-firsthome" /> {ui.firstHome}</label>
+      </div>
+    </form>
+
+    <aside class="itc-out" aria-live="polite">
+      <p class="itc-asof">{ui.asOf} <span id="hf-asof">{HOME.asOf}</span></p>
+      <div class="itc-headline">
+        <span class="itc-label">{ui.instalment}</span>
+        <strong class="itc-amount" id="hf-instalment">RM0</strong>
+      </div>
+      <dl class="itc-lines">
+        <div><dt>{ui.loanAmount} <span id="hf-ltv" class="itc-muted"></span></dt><dd id="hf-loan">RM0</dd></div>
+        <div><dt>{ui.downPayment}</dt><dd id="hf-down">RM0</dd></div>
+      </dl>
+      <div class="sth-emp">
+        <p class="sth-emp-h">{ui.upfrontH}</p>
+        <dl class="itc-lines">
+          <div><dt>{ui.downPayment}</dt><dd id="hf-u-down">RM0</dd></div>
+          <div><dt>{ui.motDuty}</dt><dd id="hf-u-mot">RM0</dd></div>
+          <div><dt>{ui.loanDuty}</dt><dd id="hf-u-loanduty">RM0</dd></div>
+          <div><dt>{ui.legalSPA}</dt><dd id="hf-u-legalspa">RM0</dd></div>
+          <div><dt>{ui.legalLoan}</dt><dd id="hf-u-legalloan">RM0</dd></div>
+          <div class="itc-total"><dt>{ui.upfrontTotal}</dt><dd id="hf-u-total">RM0</dd></div>
+        </dl>
+      </div>
+      <div class="sth-emp" id="hf-dsr-block" hidden>
+        <p class="sth-emp-h">{ui.dsr}</p>
+        <dl class="itc-lines">
+          <div><dt>{ui.dsr}</dt><dd id="hf-dsr">0%</dd></div>
+        </dl>
+        <p class="itc-dsr-hint">{ui.dsrHint}</p>
+      </div>
+    </aside>
+  </div>
+
+  <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
+
+  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
+
+  <div class="itc-prose">
+    <h2>{ui.howH}</h2>
+    <p>{L(
+      'Kami kira ansuran bulanan secara baki berkurangan (anuiti standard) berdasarkan jumlah pinjaman — iaitu harga ditolak bayaran pendahuluan mengikut margin pinjaman (LTV). Kemudian kami tambah semua kos pendahuluan: duti setem MOT dan perjanjian pinjaman (Akta Setem 1949), serta yuran guaman SPA dan pinjaman mengikut SRO 2023. Jika anda memberikan pendapatan bulanan, kami tunjukkan nisbah khidmat hutang.',
+      'We compute the monthly instalment on a reducing balance (standard annuity) from the loan amount — the price less the down payment set by the loan margin (LTV). We then add every upfront cost: the MOT and loan-agreement stamp duties (Stamp Act 1949) and the SPA and loan legal fees under the SRO 2023. If you enter a monthly income, we show the debt-service ratio.',
+      '我们按递减余额（标准年金）根据贷款金额计算每月供款——即房价减去由贷款比例（LTV）决定的首付。然后加总所有预付成本：MOT 与贷款协议印花税（1949 年印花法令），以及依据 SRO 2023 的 SPA 与贷款律师费。若你填写每月收入，我们会显示债务偿还比率。',
+    )}</p>
+    <h2>FAQ</h2>
+    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
+    <h2>{ui.learnH}</h2>
+    <ul class="itc-links">
+      <li><a href={localePath('/property/home-loan-mortgage-financing', locale)}>{L('Pinjaman perumahan dan pembiayaan gadai janji', 'Home loan and mortgage financing', '房屋贷款与按揭融资')}</a></li>
+      <li><a href={localePath('/property/buying-a-home-process', locale)}>{L('Proses membeli rumah', 'The home-buying process', '购房流程')}</a></li>
+    </ul>
+    <h3>{L('Sumber', 'Sources', '来源')}</h3>
+    <ul class="itc-src">{HOME.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}</ul>
+  </div>
+</section>
+
+<script>
+  import { computeHomeFinancing } from '@/lib/tax/homeFinancing';
+  const $ = (id) => document.getElementById(id);
+  const root = $('hf');
+  if (root) {
+    const f = new Intl.NumberFormat('en-MY', { style: 'currency', currency: 'MYR', minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    const f0 = new Intl.NumberFormat('en-MY', { style: 'currency', currency: 'MYR', maximumFractionDigits: 0 });
+    const rm = (n) => f.format(n || 0).replace('MYR', 'RM').replace(/\s/g, '');
+    const rm0 = (n) => f0.format(n || 0).replace('MYR', 'RM').replace(/\s/g, '');
+    const num = (el) => { const v = parseFloat(el && el.value); return Number.isFinite(v) && v > 0 ? v : 0; };
+    const exemptLabel = root.getAttribute('data-exempt') || 'Exempt';
+    function recompute() {
+      const r = computeHomeFinancing({
+        price: num($('hf-price')),
+        homeNumber: parseInt($('hf-home').value, 10),
+        interestRate: num($('hf-rate')) / 100,
+        tenureYears: num($('hf-tenure')),
+        firstHome: $('hf-firsthome').checked,
+        monthlyIncome: num($('hf-income')),
+      });
+      $('hf-instalment').textContent = rm(r.monthlyInstalment);
+      $('hf-ltv').textContent = '(' + Math.round(r.ltv * 100) + '%)';
+      $('hf-loan').textContent = rm(r.loanAmount);
+      $('hf-down').textContent = rm(r.downPayment);
+      $('hf-u-down').textContent = rm(r.downPayment);
+      $('hf-u-mot').textContent = r.firstHomeExemptApplied ? exemptLabel : rm(r.stampDutyMOT);
+      $('hf-u-loanduty').textContent = r.firstHomeExemptApplied ? exemptLabel : rm(r.stampDutyLoan);
+      $('hf-u-legalspa').textContent = rm(r.legalFeeSPA);
+      $('hf-u-legalloan').textContent = rm(r.legalFeeLoan);
+      $('hf-u-total').textContent = rm(r.upfrontCash);
+      const dsrBlock = $('hf-dsr-block');
+      if (r.dsr !== null) {
+        $('hf-dsr').textContent = r.dsr + '%';
+        dsrBlock.hidden = false;
+      } else {
+        dsrBlock.hidden = true;
+      }
+    }
+    root.addEventListener('input', recompute);
+    root.addEventListener('change', recompute);
+    recompute();
+  }
+</script>
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'SoftwareApplication', name: title, applicationCategory: 'FinanceApplication', operatingSystem: 'Web', offers: { '@type': 'Offer', price: '0', priceCurrency: 'MYR' }, description: heroDesc },
+    { '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+  ],
+})} />
+
+<style>
+  .itc { display: grid; grid-template-columns: 1.4fr 1fr; gap: 1.5rem; align-items: start; }
+  @media (max-width: 860px) { .itc { grid-template-columns: 1fr; } }
+  .itc-form { display: grid; gap: 1.1rem; }
+  .itc-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+  @media (max-width: 520px) { .itc-row { grid-template-columns: 1fr; } }
+  .itc-field { display: grid; gap: 0.35rem; font-size: 0.9rem; }
+  .itc-field > span { font-weight: 600; color: var(--ink-soft); }
+  .itc-field input, .itc-field select { font: inherit; padding: 0.55rem 0.7rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .itc-field input:focus, .itc-field select:focus { outline: 2px solid var(--gold); outline-offset: 1px; }
+  .itc-toggle { display: flex; flex-wrap: wrap; gap: 1rem; font-size: 0.9rem; }
+  .itc-toggle label { display: inline-flex; gap: 0.4rem; align-items: center; }
+  .itc-out { position: sticky; top: 1rem; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 1.2rem 1.3rem; }
+  .itc-asof { margin: 0 0 0.8rem; font-size: 0.72rem; color: var(--muted); }
+  .itc-headline { display: grid; gap: 0.15rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
+  .itc-label { font-size: 0.8rem; color: var(--ink-soft); font-weight: 600; }
+  .itc-amount { font-size: 2.1rem; font-weight: 800; color: var(--gold); line-height: 1.1; }
+  .itc-muted { color: var(--muted); font-weight: 400; }
+  .itc-lines { display: grid; gap: 0.5rem; margin: 1rem 0 0; }
+  .itc-lines > div { display: flex; justify-content: space-between; gap: 1rem; font-size: 0.86rem; }
+  .itc-lines dt { color: var(--ink-soft); margin: 0; }
+  .itc-lines dd { margin: 0; font-weight: 700; font-variant-numeric: tabular-nums; }
+  .itc-total { margin-top: 0.3rem; padding-top: 0.5rem; border-top: 1px solid var(--line); }
+  .itc-total dt, .itc-total dd { font-weight: 800; }
+  .sth-emp { margin-top: 1rem; padding-top: 0.8rem; border-top: 1px dashed var(--line); }
+  .sth-emp-h { margin: 0; font-size: 0.78rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.03em; }
+  .itc-dsr-hint { margin: 0.5rem 0 0; font-size: 0.76rem; color: var(--muted); line-height: 1.5; }
+  .itc-disclaimer { margin: 1.4rem 0 0; padding: 0.8rem 1rem; font-size: 0.82rem; line-height: 1.6; color: var(--ink-soft); background: color-mix(in srgb, var(--gold) 6%, var(--surface, transparent)); border: 1px solid color-mix(in srgb, var(--gold) 30%, transparent); border-radius: 10px; }
+  .itc-prose { max-width: 58rem; margin-top: 2.5rem; }
+  .itc-prose h2 { font-size: 1.15rem; margin: 2rem 0 0.7rem; }
+  .itc-prose h3 { font-size: 1rem; margin: 1.6rem 0 0.5rem; }
+  .itc-prose p { line-height: 1.7; color: var(--ink-soft); }
+  .itc-faq dt { font-weight: 700; margin-top: 1rem; }
+  .itc-faq dd { margin: 0.3rem 0 0; color: var(--ink-soft); line-height: 1.7; }
+  .itc-links, .itc-src { padding-left: 1.1rem; line-height: 1.9; }
+  .itc-src { font-size: 0.85rem; }
+  .itc-src a, .itc-links a { color: var(--gold); }
+</style>

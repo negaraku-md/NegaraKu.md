@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import EpfRetirementView from '@/components/EpfRetirementView.astro';
+const locale = 'ja';
+---
+
+<BaseLayout
+  locale={locale}
+  title="Unjuran Persaraan KWSP"
+  description="Unjuran baki KWSP pada umur persaraan"
+  path="/tools/epf-retirement"
+>
+  <EpfRetirementView locale={locale} />
+</BaseLayout>

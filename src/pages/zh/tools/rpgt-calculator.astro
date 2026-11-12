@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import RpgtCalculatorView from '@/components/RpgtCalculatorView.astro';
+const locale = 'zh';
+---
+
+<BaseLayout
+  locale={locale}
+  title="马来西亚产业盈利税计算器"
+  description="RPGT · Schedule 5 · Schedule 4"
+  path="/tools/rpgt-calculator"
+>
+  <RpgtCalculatorView locale={locale} />
+</BaseLayout>

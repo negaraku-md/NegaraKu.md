@@ -88,34 +88,39 @@ export const TOOLS: Tool[] = [
     blurb: L('KWSP + PERKESO + SIP + PCB.', 'EPF + SOCSO + EIS + PCB.', '公积金＋社险＋就业保险＋预扣税。', 'EPF + SOCSO + EIS + PCB.', 'EPF + SOCSO + EIS + PCB。', 'EPF + SOCSO + EIS + PCB.', 'EPF + SOCSO + EIS + PCB', 'EPF + SOCSO + EIS + PCB.', 'EPF + SOCSO + EIS + PCB.', 'EPF + SOCSO + EIS + PCB.', 'EPF + SOCSO + EIS + PCB।', 'EPF + SOCSO + EIS + PCB.', 'EPF + SOCSO + EIS + PCB.'),
   },
   {
-    id: 'home-financing', href: '', icon: '🏠', color: '#F97316', status: 'soon', group: 'finance',
+    id: 'home-financing', href: '/tools/home-financing', icon: '🏠', color: '#F97316', status: 'live', group: 'finance',
     title: L('Kalkulator Pembiayaan Rumah', 'Home Financing', '房屋贷款计算器', 'வீட்டு நிதி கணிப்பான்', '住宅ローン計算機', '주택 금융 계산기', 'เครื่องคำนวณสินเชื่อบ้าน', 'Tài chính mua nhà', 'Pembiayaan Rumah', 'حاسبة تمويل المنزل', 'गृह वित्त कैलकुलेटर', 'Financiación de vivienda', 'Financement immobilier'),
     blurb: L('Ansuran + duti setem, yuran guaman, MOT.', 'Instalment + stamp duty, legal fees, MOT.', '月供＋印花税、律师费、业权转让。', 'தவணை + முத்திரை வரி, சட்டக் கட்டணம், MOT.', '返済額＋印紙税・弁護士費用・MOT。', '상환금 + 인지세, 법무 비용, MOT.', 'ค่างวด + อากรแสตมป์ ค่าทนาย MOT', 'Trả góp + thuế tem, phí pháp lý, MOT.', 'Angsuran + bea meterai, biaya hukum, MOT.', 'القسط + رسوم الدمغة والأتعاب القانونية وMOT.', 'किस्त + स्टांप शुल्क, कानूनी शुल्क, MOT।', 'Cuota + impuesto de timbre, honorarios legales, MOT.', 'Mensualité + droit de timbre, frais juridiques, MOT.'),
   },
   {
-    id: 'rpgt-calculator', href: '', icon: '📈', color: '#A78BFA', status: 'soon', group: 'finance',
+    id: 'rpgt-calculator', href: '/tools/rpgt-calculator', icon: '📈', color: '#A78BFA', status: 'live', group: 'finance',
     title: L('Kalkulator CKHT (RPGT)', 'RPGT Calculator', '产业盈利税计算器', 'RPGT கணிப்பான்', 'RPGT 計算機', 'RPGT 계산기', 'เครื่องคำนวณ RPGT', 'Máy tính RPGT', 'Kalkulator RPGT', 'حاسبة RPGT', 'RPGT कैलकुलेटर', 'Calculadora RPGT', 'Calculateur RPGT'),
     blurb: L('Cukai keuntungan pelupusan mengikut tempoh pegangan.', 'Disposal-gain tax by holding period.', '按持有期计算处置收益税。', 'வைத்திருந்த காலத்தின்படி விற்பனை ஆதாய வரி.', '保有期間に応じた譲渡益税。', '보유 기간별 처분 이익세.', 'ภาษีกำไรจากการขายตามระยะเวลาถือครอง', 'Thuế lãi chuyển nhượng theo thời gian nắm giữ.', 'Pajak keuntungan pelepasan menurut masa kepemilikan.', 'ضريبة ربح التصرف حسب مدة الحيازة.', 'होल्डिंग अवधि के अनुसार निपटान-लाभ कर।', 'Impuesto sobre la ganancia por periodo de tenencia.', 'Impôt sur la plus-value selon la durée de détention.'),
   },
   {
-    id: 'stamp-duty-calculator', href: '', icon: '📜', color: '#22D3EE', status: 'soon', group: 'finance',
+    id: 'stamp-duty-calculator', href: '/tools/stamp-duty-calculator', icon: '📜', color: '#22D3EE', status: 'live', group: 'finance',
     title: L('Kalkulator Duti Setem', 'Stamp Duty Calculator', '印花税计算器', 'முத்திரை வரி கணிப்பான்', '印紙税計算機', '인지세 계산기', 'เครื่องคำนวณอากรแสตมป์', 'Máy tính thuế tem', 'Kalkulator Bea Meterai', 'حاسبة رسوم الدمغة', 'स्टांप शुल्क कैलकुलेटर', 'Calculadora de impuesto de timbre', 'Calculateur de droit de timbre'),
     blurb: L('Perjanjian sewa, SPJB dan pindah milik saham.', 'Tenancy, SPA and share transfer.', '租约、买卖合约与股份转让。', 'வாடகை, SPA, பங்கு பரிமாற்றம்.', '賃貸借・SPA・株式譲渡。', '임대차, SPA, 주식 양도.', 'สัญญาเช่า SPA และโอนหุ้น', 'Hợp đồng thuê, SPA và chuyển nhượng cổ phần.', 'Sewa, SPA, dan pengalihan saham.', 'الإيجار وSPA ونقل الأسهم.', 'किरायेदारी, SPA और शेयर हस्तांतरण।', 'Arrendamiento, SPA y transferencia de acciones.', 'Bail, SPA et transfert d’actions.'),
   },
   {
-    id: 'car-loan-calculator', href: '', icon: '🚗', color: '#F43F5E', status: 'soon', group: 'daily',
+    id: 'car-loan-calculator', href: '/tools/car-loan-calculator', icon: '🚗', color: '#F43F5E', status: 'live', group: 'daily',
     title: L('Kalkulator Pinjaman Kereta', 'Car Loan Calculator', '车贷计算器', 'கார் கடன் கணிப்பான்', '自動車ローン計算機', '자동차 대출 계산기', 'เครื่องคำนวณสินเชื่อรถ', 'Máy tính vay mua xe', 'Kalkulator Pinjaman Mobil', 'حاسبة قرض السيارة', 'कार लोन कैलकुलेटर', 'Calculadora de préstamo de coche', 'Calculateur de prêt auto'),
     blurb: L('Sewa beli kadar rata — cara Malaysia.', 'Flat-rate hire purchase — the Malaysian way.', '统一利率分期——马来西亚算法。', 'நிலையான விகித வாடகை கொள்முதல் — மலேசிய முறை.', '定率ハイヤーパーチェス — マレーシア方式。', '정액 할부 — 말레이시아 방식.', 'เช่าซื้ออัตราคงที่ — แบบมาเลเซีย', 'Trả góp lãi suất phẳng — kiểu Malaysia.', 'Sewa beli suku bunga rata — cara Malaysia.', 'الشراء بالتقسيط بمعدل ثابت — بالطريقة الماليزية.', 'फ्लैट-दर हायर परचेज़ — मलेशियाई तरीका।', 'Compra a plazos con tasa fija, al estilo de Malasia.', 'Location-vente à taux fixe — à la malaisienne.'),
   },
   {
-    id: 'zakat-calculator', href: '', icon: '🌙', color: '#34D399', status: 'soon', group: 'daily',
+    id: 'zakat-calculator', href: '/tools/zakat-calculator', icon: '🌙', color: '#34D399', status: 'live', group: 'daily',
     title: L('Kalkulator Zakat', 'Zakat Calculator', '天课计算器', 'ஜகாத் கணிப்பான்', 'ザカート計算機', '자카트 계산기', 'เครื่องคำนวณซะกาต', 'Máy tính Zakat', 'Kalkulator Zakat', 'حاسبة الزكاة', 'ज़कात कैलकुलेटर', 'Calculadora de Zakat', 'Calculateur de Zakat'),
     blurb: L('Zakat pendapatan, simpanan dan perniagaan.', 'Zakat on income, savings and business.', '收入、储蓄与营业天课。', 'வருமானம், சேமிப்பு, வணிக ஜகாத்.', '所得・貯蓄・事業のザカート。', '소득, 저축, 사업 자카트.', 'ซะกาตจากรายได้ เงินออม และธุรกิจ', 'Zakat trên thu nhập, tiết kiệm và kinh doanh.', 'Zakat atas penghasilan, tabungan, dan bisnis.', 'زكاة الدخل والمدخرات والأعمال.', 'आय, बचत और व्यवसाय पर ज़कात।', 'Zakat sobre ingresos, ahorros y negocio.', 'Zakat sur le revenu, l’épargne et l’entreprise.'),
   },
   {
-    id: 'sst-threshold-checker', href: '', icon: '🧾', color: '#6366F1', status: 'soon', group: 'business',
+    id: 'sst-threshold-checker', href: '/tools/sst-threshold-checker', icon: '🧾', color: '#6366F1', status: 'live', group: 'business',
     title: L('Penyemak Ambang SST', 'SST Threshold Checker', 'SST 门槛检查器', 'SST வரம்பு சரிபார்ப்பு', 'SST 基準チェッカー', 'SST 기준 확인기', 'ตัวตรวจเกณฑ์ SST', 'Kiểm tra ngưỡng SST', 'Pemeriksa Ambang SST', 'فاحص عتبة SST', 'SST सीमा जाँचकर्ता', 'Verificador de umbral SST', 'Vérificateur de seuil SST'),
     blurb: L('Perlukah anda berdaftar untuk SST?', 'Do you need to register for SST?', '你是否需要注册 SST？', 'நீங்கள் SST-க்கு பதிவு செய்ய வேண்டுமா?', 'SST 登録が必要か。', 'SST 등록이 필요한가요?', 'คุณต้องจดทะเบียน SST หรือไม่', 'Bạn có cần đăng ký SST không?', 'Apakah Anda perlu mendaftar SST?', 'هل تحتاج إلى التسجيل في SST؟', 'क्या आपको SST पंजीकरण चाहिए?', '¿Necesitas registrarte para el SST?', 'Devez-vous vous enregistrer à la SST ?'),
+  },
+  {
+    id: 'epf-retirement', href: '/tools/epf-retirement', icon: '🏦', color: '#FBBF24', status: 'live', group: 'finance',
+    title: L('Unjuran Persaraan KWSP', 'EPF Retirement Projection', '公积金退休预测', 'EPF ஓய்வூதியக் கணிப்பு', 'EPF 退職予測', 'EPF 은퇴 전망', 'การคาดการณ์เกษียณ EPF', 'Dự phóng hưu trí EPF', 'Proyeksi Pensiun KWSP', 'توقّع تقاعد EPF', 'EPF सेवानिवृत्ति प्रक्षेपण', 'Proyección de jubilación EPF', 'Projection de retraite EPF'),
+    blurb: L('Unjurkan simpanan KWSP anda hingga umur 60.', 'Project your EPF savings to age 60.', '预测你到60岁的公积金储蓄。', '60 வயது வரை உங்கள் EPF சேமிப்பைக் கணியுங்கள்.', '60歳までのEPF積立を試算。', '60세까지의 EPF 저축을 예측하세요.', 'คาดการณ์เงินออม EPF ของคุณถึงอายุ 60', 'Dự phóng tiết kiệm EPF đến tuổi 60.', 'Proyeksikan tabungan KWSP Anda hingga usia 60.', 'توقّع مدخرات EPF حتى سن 60.', '60 वर्ष तक अपनी EPF बचत का प्रक्षेपण करें।', 'Proyecta tus ahorros EPF hasta los 60 años.', 'Projetez votre épargne EPF jusqu’à 60 ans.'),
   },
 ];
 
@@ -163,6 +168,35 @@ const ARTICLE_TOOL: Record<string, string> = {
   'taxation/company-tax-calendar': 'compliance-calendar',
   'taxation/form-c-and-cp204': 'compliance-calendar',
   'business/sdn-bhd-first-year-compliance': 'compliance-calendar',
+  // Stamp duty
+  'taxation/stamp-duty-rates': 'stamp-duty-calculator',
+  'taxation/stamp-duty-self-assessment': 'stamp-duty-calculator',
+  'taxation/stamp-duty-share-transfer': 'stamp-duty-calculator',
+  'taxation/stamp-act-1949': 'stamp-duty-calculator',
+  // RPGT
+  'taxation/rpgt-rates': 'rpgt-calculator',
+  'taxation/rpgt-exemptions': 'rpgt-calculator',
+  'law/real-property-gains-tax': 'rpgt-calculator',
+  // Home financing
+  'property/home-loan-mortgage-financing': 'home-financing',
+  'property/buying-a-home-process': 'home-financing',
+  'property/foreigners-buying-property': 'home-financing',
+  // Car loan (flat-rate hire purchase)
+  'transport/buying-a-car': 'car-loan-calculator',
+  'transport/electric-vehicle-ownership': 'car-loan-calculator',
+  // SST threshold
+  'taxation/sst-registration': 'sst-threshold-checker',
+  'taxation/sst-explained': 'sst-threshold-checker',
+  'taxation/sst-rate-table': 'sst-threshold-checker',
+  'taxation/service-tax-act-2018': 'sst-threshold-checker',
+  // Zakat
+  'glossary/zakat': 'zakat-calculator',
+  'money-daily-life/zakat-tax-rebate': 'zakat-calculator',
+  // EPF retirement projection
+  'finance/epf-members-investment-scheme': 'epf-retirement',
+  'money-daily-life/i-saraan-epf-voluntary-contribution': 'epf-retirement',
+  'money-daily-life/epf-akaun-fleksibel': 'epf-retirement',
+  'employment/minimum-retirement-age-malaysia': 'epf-retirement',
 };
 
 /** The live tool to surface on an article, or null. Key = "category/slug". */

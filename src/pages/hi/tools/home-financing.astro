@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import HomeFinancingView from '@/components/HomeFinancingView.astro';
+const locale = 'hi';
+---
+
+<BaseLayout
+  locale={locale}
+  title="Kalkulator Pembiayaan Rumah Malaysia"
+  description="LTV + down payment + stamp duty + legal fees"
+  path="/tools/home-financing"
+>
+  <HomeFinancingView locale={locale} />
+</BaseLayout>

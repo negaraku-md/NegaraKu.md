@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import SstThresholdView from '@/components/SstThresholdView.astro';
+const locale = 'vi';
+---
+
+<BaseLayout
+  locale={locale}
+  title="Penyemak Ambang SST Malaysia"
+  description="SST registration threshold — sales + service tax"
+  path="/tools/sst-threshold-checker"
+>
+  <SstThresholdView locale={locale} />
+</BaseLayout>

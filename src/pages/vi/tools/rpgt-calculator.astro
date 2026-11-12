@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import RpgtCalculatorView from '@/components/RpgtCalculatorView.astro';
+const locale = 'vi';
+---
+
+<BaseLayout
+  locale={locale}
+  title="Kalkulator CKHT (RPGT) Malaysia"
+  description="RPGT · Schedule 5 · Schedule 4"
+  path="/tools/rpgt-calculator"
+>
+  <RpgtCalculatorView locale={locale} />
+</BaseLayout>

@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ZakatCalculatorView from '@/components/ZakatCalculatorView.astro';
+const locale = 'zh';
+---
+
+<BaseLayout
+  locale={locale}
+  title="马来西亚天课计算器"
+  description="收入 + 储蓄 + 商业天课"
+  path="/tools/zakat-calculator"
+>
+  <ZakatCalculatorView locale={locale} />
+</BaseLayout>

@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import CarLoanCalculatorView from '@/components/CarLoanCalculatorView.astro';
+const locale = 'en';
+---
+
+<BaseLayout
+  locale={locale}
+  title="Malaysia Car Loan Calculator"
+  description="Flat-rate hire purchase + effective APR"
+  path="/tools/car-loan-calculator"
+>
+  <CarLoanCalculatorView locale={locale} />
+</BaseLayout>

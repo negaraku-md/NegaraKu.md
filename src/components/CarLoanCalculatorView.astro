@@ -1,0 +1,249 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
+import SponsorCTA from './SponsorCTA.astro';
+import PageHero from './PageHero.astro';
+
+interface Props { locale: Locale; }
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const sponsor = resolveSponsor(undefined, undefined, false, 'finance', 'car-loan-calculator');
+const sponsorHref = sponsor ? sponsorUrl(sponsor, 'tools', 'car-loan-calculator') : '';
+
+const faqs = [
+  {
+    q: L('Apakah maksud "kadar rata" (flat rate) dalam sewa beli di Malaysia?',
+         'What does "flat rate" mean in Malaysian hire purchase?',
+         '马来西亚租购中的"固定利率"（flat rate）是什么意思？'),
+    a: L('Pembiayaan kereta di Malaysia ialah perjanjian sewa beli (Akta Sewa Beli 1967) yang disebut harga pada kadar rata: faedah dikira ke atas keseluruhan jumlah pinjaman asal untuk sepanjang tempoh, bukan atas baki yang semakin berkurang. Itu sebabnya faedah bulanan anda tidak turun walaupun baki hutang turun.',
+         'Car financing in Malaysia is a hire-purchase agreement (Hire-Purchase Act 1967) quoted at a flat rate: interest is charged on the whole original loan amount for the entire tenure, not on the shrinking balance. That is why your monthly interest never drops even as the debt falls.',
+         '马来西亚的汽车贷款是一种租购协议（1967年租购法令），以固定利率报价：利息按原始贷款全额、在整个期限内计算，而非按递减余额计算。这就是为什么即使欠款减少，你每月的利息也不会下降。'),
+  },
+  {
+    q: L('Mengapa kadar berkesan hampir dua kali ganda kadar rata?',
+         'Why is the effective rate about double the flat rate?',
+         '为什么实际利率大约是固定利率的两倍？'),
+    a: L('Kerana anda membayar balik pokok secara beransur, purata baki terhutang anda sepanjang tempoh ialah kira-kira separuh jumlah pinjaman — tetapi faedah kadar rata dikenakan seolah-olah anda berhutang jumlah penuh sepanjang masa. Ditukar kepada asas baki berkurang (APR sebenar), kadar rata 3.5% bersamaan kira-kira 6–7% setahun.',
+         'Because you repay the principal gradually, your average outstanding balance over the tenure is roughly half the loan — yet flat-rate interest is charged as if you owed the full amount the whole time. Converted to a reducing-balance basis (the true APR), a 3.5% flat rate works out to about 6–7% a year.',
+         '因为你逐步偿还本金，整个期限内平均未偿余额约为贷款的一半——但固定利率利息却按你始终欠全额来计算。换算成递减余额基准（真实年利率），3.5% 的固定利率相当于每年约 6–7%。'),
+  },
+  {
+    q: L('Berapakah bayaran muka minimum dan tempoh maksimum yang lazim?',
+         'What is the typical minimum down payment and maximum tenure?',
+         '通常的最低首付和最长期限是多少？'),
+    a: L('Bagi kebanyakan pembiayaan sewa beli, bayaran muka minimum ialah 10% daripada harga kenderaan, dan tempoh maksimum ialah 9 tahun (108 bulan). Bayaran muka lebih besar dan tempoh lebih pendek mengurangkan jumlah faedah yang anda bayar.',
+         'For most hire-purchase financing the minimum down payment is 10% of the vehicle price, and the maximum tenure is 9 years (108 months). A larger down payment and a shorter tenure cut the total interest you pay.',
+         '对于大多数租购融资，最低首付为车价的 10%，最长期限为 9 年（108 个月）。更高的首付和更短的期限能减少你支付的总利息。'),
+  },
+];
+
+const title = L('Kalkulator Pinjaman Kereta Malaysia', 'Malaysia Car Loan Calculator', '马来西亚车贷计算器');
+const heroDesc = L(
+  'Kira ansuran bulanan pembiayaan sewa beli kadar rata — dan lihat kadar berkesan sebenar (APR), yang hampir dua kali ganda kadar rata yang disebut harga. Semua dalam pelayar; tiada data dihantar.',
+  'Work out the monthly instalment on flat-rate hire-purchase financing — and see the true effective rate (APR), which is nearly double the quoted flat rate. All in your browser; no data sent.',
+  '计算固定利率租购融资的每月分期付款——并查看真实的实际利率（APR），它几乎是报价固定利率的两倍。全部在浏览器中运行，数据不外传。',
+);
+
+const ui = {
+  price: L('Harga kenderaan (RM)', 'Vehicle price (RM)', '车价（RM）'),
+  downPct: L('Bayaran muka (%)', 'Down payment (%)', '首付（%）'),
+  flat: L('Kadar faedah rata (%/tahun)', 'Flat interest rate (%/yr)', '固定利率（%/年）'),
+  tenure: L('Tempoh (tahun)', 'Tenure (years)', '期限（年）'),
+  instalment: L('Ansuran bulanan', 'Monthly instalment', '每月分期付款'),
+  months: L('bulan', 'months', '个月'),
+  loanAmount: L('Jumlah pinjaman', 'Loan amount', '贷款额'),
+  downPayment: L('Bayaran muka', 'Down payment', '首付'),
+  totalInterest: L('Jumlah faedah', 'Total interest', '利息总额'),
+  totalPayable: L('Jumlah kena bayar', 'Total payable', '应付总额'),
+  effH: L('Kadar berkesan sebenar', 'True effective rate', '真实实际利率'),
+  flatQuoted: L('Kadar rata disebut', 'Quoted flat rate', '报价固定利率'),
+  effApr: L('APR berkesan', 'Effective APR', '实际年利率'),
+  effNote: L(
+    'Kadar rata yang disebut harga menyembunyikan kos sebenar: ansuran yang sama ini bersamaan kadar baki berkurang di atas — kira-kira dua kali ganda.',
+    'The quoted flat rate hides the real cost: this same instalment is equivalent to the reducing-balance rate above — roughly double.',
+    '报价的固定利率掩盖了真实成本：同样的这笔分期付款相当于上方的递减余额利率——大约是两倍。',
+  ),
+  asOf: L('Kadar setakat', 'Rates as of', '利率截至'),
+  disclaimer: L(
+    'Anggaran sahaja, bukan nasihat kewangan atau tawaran pembiayaan. Kiraan menggunakan aritmetik sewa beli kadar rata standard; terma sebenar (yuran, insurans, caj pemprosesan) berbeza mengikut bank dan model. Sahkan dengan penyedia pembiayaan anda.',
+    'Estimate only, not financial advice or a financing offer. The calculation uses standard flat-rate hire-purchase arithmetic; actual terms (fees, insurance, processing charges) vary by bank and model. Verify with your financier.',
+    '仅为估算，非财务建议或融资要约。计算采用标准固定利率租购算术；实际条款（手续费、保险、处理费）因银行和车型而异。请与你的融资机构核实。',
+  ),
+  howH: L('Cara ia dikira', 'How it is calculated', '计算方式'),
+  learnH: L('Ketahui lebih lanjut', 'Learn more', '了解更多'),
+};
+
+const asOf = '2026-01-01';
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
+    { label: title },
+  ]}
+  title={title}
+  desc={heroDesc}
+/>
+
+<section class="container block">
+  <div class="itc" id="clc">
+    <form class="itc-form" autocomplete="off">
+      <div class="itc-row">
+        <label class="itc-field itc-income">
+          <span>{ui.price}</span>
+          <input type="number" id="clc-price" inputmode="decimal" min="0" step="1000" placeholder="90000" value="90000" />
+        </label>
+        <label class="itc-field">
+          <span>{ui.downPct}</span>
+          <input type="number" id="clc-down" inputmode="decimal" min="0" max="100" step="1" placeholder="10" value="10" />
+        </label>
+      </div>
+      <div class="itc-row">
+        <label class="itc-field">
+          <span>{ui.flat}</span>
+          <input type="number" id="clc-flat" inputmode="decimal" min="0" step="0.1" placeholder="3.5" value="3.5" />
+        </label>
+        <label class="itc-field">
+          <span>{ui.tenure}</span>
+          <input type="number" id="clc-tenure" inputmode="numeric" min="1" max="9" step="1" placeholder="9" value="9" />
+        </label>
+      </div>
+    </form>
+
+    <aside class="itc-out" aria-live="polite">
+      <p class="itc-asof">{ui.asOf} <span id="clc-asof">{asOf}</span></p>
+      <div class="itc-headline">
+        <span class="itc-label">{ui.instalment}</span>
+        <strong class="itc-amount" id="clc-instalment">RM0</strong>
+        <span class="itc-sub">× <span id="clc-months">0</span> {ui.months}</span>
+      </div>
+      <dl class="itc-lines">
+        <div><dt>{ui.loanAmount}</dt><dd id="clc-loan">RM0</dd></div>
+        <div><dt>{ui.downPayment}</dt><dd id="clc-downpay">RM0</dd></div>
+        <div><dt>{ui.totalInterest}</dt><dd id="clc-interest">RM0</dd></div>
+        <div><dt>{ui.totalPayable}</dt><dd id="clc-payable">RM0</dd></div>
+      </dl>
+      <div class="clc-eff">
+        <p class="clc-eff-h">{ui.effH}</p>
+        <div class="clc-eff-row">
+          <div class="clc-eff-cell">
+            <span class="clc-eff-k">{ui.flatQuoted}</span>
+            <strong class="clc-eff-flat" id="clc-flat-out">0%</strong>
+          </div>
+          <span class="clc-eff-arrow" aria-hidden="true">→</span>
+          <div class="clc-eff-cell">
+            <span class="clc-eff-k">{ui.effApr}</span>
+            <strong class="clc-eff-apr" id="clc-apr-out">0%</strong>
+          </div>
+        </div>
+        <p class="clc-eff-note">{ui.effNote}</p>
+      </div>
+    </aside>
+  </div>
+
+  <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
+
+  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
+
+  <div class="itc-prose">
+    <h2>{ui.howH}</h2>
+    <p>{L(
+      'Kami mulakan daripada harga kenderaan, menolak bayaran muka anda untuk mendapatkan jumlah pinjaman. Faedah kadar rata dikira sebagai pinjaman × kadar rata × tahun, dan ditambah kepada pokok untuk mendapat jumlah kena bayar; ini dibahagikan dengan bilangan bulan untuk ansuran tetap bulanan. Kami kemudian menyelesaikan secara berangka untuk kadar baki berkurang (APR) yang menghasilkan ansuran yang sama — kadar berkesan sebenar yang anda bayar.',
+      'We start from the vehicle price, subtract your down payment to get the loan amount. Flat-rate interest is loan × flat rate × years, added to the principal to give the total payable; this is divided by the number of months for a fixed monthly instalment. We then numerically solve for the reducing-balance rate (APR) that produces the same instalment — the true effective rate you pay.',
+      '我们从车价出发，减去首付得到贷款额。固定利率利息为贷款额 × 固定利率 × 年数，加到本金上得到应付总额；再除以月数得到每月固定分期付款。随后我们通过数值求解得出产生相同分期付款的递减余额利率（APR）——即你实际支付的真实利率。',
+    )}</p>
+    <h2>FAQ</h2>
+    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
+    <h2>{ui.learnH}</h2>
+    <ul class="itc-links">
+      <li><a href={localePath('/transport/buying-a-car', locale)}>{L('Membeli kereta di Malaysia', 'Buying a car in Malaysia', '在马来西亚买车')}</a></li>
+      <li><a href={localePath('/tools/salary-take-home', locale)}>{L('Kalkulator gaji bersih', 'Salary take-home calculator', '实得工资计算器')}</a></li>
+    </ul>
+  </div>
+</section>
+
+<script>
+  import { computeCarLoan } from '@/lib/tax/carLoan';
+  const $ = (id) => document.getElementById(id);
+  const root = $('clc');
+  if (root) {
+    const f0 = new Intl.NumberFormat('en-MY', { style: 'currency', currency: 'MYR', maximumFractionDigits: 0 });
+    const f2 = new Intl.NumberFormat('en-MY', { style: 'currency', currency: 'MYR', minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    const rm0 = (n) => f0.format(n || 0).replace('MYR', 'RM').replace(/\s/g, '');
+    const rm2 = (n) => f2.format(n || 0).replace('MYR', 'RM').replace(/\s/g, '');
+    const num = (el) => { const v = parseFloat(el && el.value); return Number.isFinite(v) && v > 0 ? v : 0; };
+    const pct = (frac) => (frac * 100).toFixed(2).replace(/\.00$/, '') + '%';
+    function recompute() {
+      const r = computeCarLoan({
+        vehiclePrice: num($('clc-price')),
+        downPaymentPct: num($('clc-down')) / 100,
+        flatRate: num($('clc-flat')) / 100,
+        tenureYears: num($('clc-tenure')),
+      });
+      $('clc-instalment').textContent = rm2(r.monthlyInstalment);
+      $('clc-months').textContent = String(r.months);
+      $('clc-loan').textContent = rm0(r.loanAmount);
+      $('clc-downpay').textContent = rm0(r.downPayment);
+      $('clc-interest').textContent = rm0(r.totalInterest);
+      $('clc-payable').textContent = rm0(r.totalPayable);
+      $('clc-flat-out').textContent = pct(r.flatRate);
+      $('clc-apr-out').textContent = pct(r.effectiveApr);
+      $('clc-asof').textContent = r.asOf;
+    }
+    root.addEventListener('input', recompute);
+    root.addEventListener('change', recompute);
+    recompute();
+  }
+</script>
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'SoftwareApplication', name: title, applicationCategory: 'FinanceApplication', operatingSystem: 'Web', offers: { '@type': 'Offer', price: '0', priceCurrency: 'MYR' }, description: heroDesc },
+    { '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+  ],
+})} />
+
+<style>
+  .itc { display: grid; grid-template-columns: 1.4fr 1fr; gap: 1.5rem; align-items: start; }
+  @media (max-width: 860px) { .itc { grid-template-columns: 1fr; } }
+  .itc-form { display: grid; gap: 1.1rem; }
+  .itc-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+  @media (max-width: 520px) { .itc-row { grid-template-columns: 1fr; } }
+  .itc-field { display: grid; gap: 0.35rem; font-size: 0.9rem; }
+  .itc-field > span { font-weight: 600; color: var(--ink-soft); }
+  .itc-field input, .itc-field select { font: inherit; padding: 0.55rem 0.7rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .itc-field input:focus, .itc-field select:focus { outline: 2px solid var(--gold); outline-offset: 1px; }
+  .itc-out { position: sticky; top: 1rem; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 1.2rem 1.3rem; }
+  .itc-asof { margin: 0 0 0.8rem; font-size: 0.72rem; color: var(--muted); }
+  .itc-headline { display: grid; gap: 0.15rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
+  .itc-label { font-size: 0.8rem; color: var(--ink-soft); font-weight: 600; }
+  .itc-amount { font-size: 2.1rem; font-weight: 800; color: var(--gold); line-height: 1.1; }
+  .itc-sub { font-size: 0.8rem; color: var(--muted); }
+  .itc-lines { display: grid; gap: 0.5rem; margin: 1rem 0 0; }
+  .itc-lines > div { display: flex; justify-content: space-between; gap: 1rem; font-size: 0.86rem; }
+  .itc-lines dt { color: var(--ink-soft); margin: 0; }
+  .itc-lines dd { margin: 0; font-weight: 700; font-variant-numeric: tabular-nums; }
+  .clc-eff { margin-top: 1rem; padding-top: 0.9rem; border-top: 1px dashed var(--line); }
+  .clc-eff-h { margin: 0 0 0.6rem; font-size: 0.78rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.03em; }
+  .clc-eff-row { display: flex; align-items: center; gap: 0.9rem; }
+  .clc-eff-cell { display: grid; gap: 0.1rem; }
+  .clc-eff-k { font-size: 0.74rem; color: var(--ink-soft); }
+  .clc-eff-flat { font-size: 1.3rem; font-weight: 700; color: var(--ink); font-variant-numeric: tabular-nums; }
+  .clc-eff-apr { font-size: 1.6rem; font-weight: 800; color: var(--gold); font-variant-numeric: tabular-nums; }
+  .clc-eff-arrow { font-size: 1.3rem; color: var(--muted); }
+  .clc-eff-note { margin: 0.7rem 0 0; font-size: 0.78rem; line-height: 1.6; color: var(--ink-soft); }
+  .itc-disclaimer { margin: 1.4rem 0 0; padding: 0.8rem 1rem; font-size: 0.82rem; line-height: 1.6; color: var(--ink-soft); background: color-mix(in srgb, var(--gold) 6%, var(--surface, transparent)); border: 1px solid color-mix(in srgb, var(--gold) 30%, transparent); border-radius: 10px; }
+  .itc-prose { max-width: 58rem; margin-top: 2.5rem; }
+  .itc-prose h2 { font-size: 1.15rem; margin: 2rem 0 0.7rem; }
+  .itc-prose h3 { font-size: 1rem; margin: 1.6rem 0 0.5rem; }
+  .itc-prose p { line-height: 1.7; color: var(--ink-soft); }
+  .itc-faq dt { font-weight: 700; margin-top: 1rem; }
+  .itc-faq dd { margin: 0.3rem 0 0; color: var(--ink-soft); line-height: 1.7; }
+  .itc-links { padding-left: 1.1rem; line-height: 1.9; }
+  .itc-links a { color: var(--gold); }
+</style>

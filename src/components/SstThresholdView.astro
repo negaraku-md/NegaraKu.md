@@ -1,0 +1,236 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
+import SponsorCTA from './SponsorCTA.astro';
+import PageHero from './PageHero.astro';
+import { SST, SST_GROUPS } from '@/lib/tax/sstThreshold';
+
+interface Props { locale: Locale; }
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const sponsor = resolveSponsor(undefined, undefined, false, 'business', 'sst-threshold-checker');
+const sponsorHref = sponsor ? sponsorUrl(sponsor, 'tools', 'sst-threshold-checker') : '';
+const tax = (slug: string) => localePath(`/taxation/${slug}`, locale);
+
+// Friendly, localized label for each SST_GROUPS id (the engine ids are opaque).
+const GROUP_LABELS: Record<string, string> = {
+  'sales-tax': L('Pembuatan (cukai jualan)', 'Manufacturing (sales tax)', '制造业（销售税）'),
+  'service-general': L('Kebanyakan perkhidmatan', 'Most services', '大多数服务'),
+  'service-professionals': L('Profesional (Kumpulan G)', 'Professionals (Group G)', '专业服务（G 组）'),
+  'service-rental-finance': L('Sewaan / pajakan / kewangan', 'Rental / leasing / finance', '租赁 / 融资'),
+  'service-fnb-healthcare-construction': L('F&B, penjagaan kesihatan, pembinaan', 'F&B, healthcare, construction', '餐饮、医疗、建筑'),
+  'service-nil': L('Pendidikan / kad kredit (ambang nil)', 'Education / credit cards (nil threshold)', '教育 / 信用卡（无门槛）'),
+};
+
+const faqs = [
+  {
+    q: L('Apakah ambang SST di Malaysia?', 'What is the SST threshold in Malaysia?', '马来西亚的 SST 门槛是多少？'),
+    a: L('Tiada satu ambang tunggal. Cukai perkhidmatan mendaftar mengikut kumpulan — daripada nil (pendidikan, kad kredit) kepada RM500,000 (kebanyakan perkhidmatan), RM1,000,000 (sewaan/kewangan) dan RM1,500,000 (F&B, kesihatan, pembinaan). Semak kumpulan aktiviti anda untuk mengetahui yang mana terpakai.',
+         'There is no single threshold. Service tax registers group by group — from nil (education, credit cards) to RM500,000 (most services), RM1,000,000 (rental/finance) and RM1,500,000 (F&B, healthcare, construction). Check your activity group to find which applies to you.',
+         '没有单一门槛。服务税按组别注册——从无门槛（教育、信用卡）到 RM500,000（大多数服务）、RM1,000,000（租赁/融资）以及 RM1,500,000（餐饮、医疗、建筑）。查看你的活动组别即可知道适用哪一个。'),
+  },
+  {
+    q: L('Adakah ambang cukai jualan RM500,000 sama dengan cukai perkhidmatan?',
+         'Is the RM500,000 sales tax threshold the same as service tax?',
+         'RM500,000 的销售税门槛与服务税相同吗？'),
+    a: L('Tidak. Cukai jualan ialah ujian RM500,000 yang berasingan ke atas barang bercukai yang dikilangkan, manakala cukai perkhidmatan mempunyai jadual ambangnya sendiri mengikut kumpulan. Sebuah perniagaan boleh tertakluk kepada satu, kedua-duanya, atau tiada langsung — keduanya dinilai secara berasingan.',
+         'No. Sales tax is a separate RM500,000 test on manufactured taxable goods, while service tax has its own group-by-group threshold schedule. A business can be liable for one, both, or neither — they are assessed separately.',
+         '不同。销售税是针对制造应税货品的独立 RM500,000 测试，而服务税有自己按组别划分的门槛表。一家企业可能需缴其中之一、两者皆缴，或都不需缴——两者分别评估。'),
+  },
+  {
+    q: L('Adakah hasil yang dikecualikan dikira ke arah ambang?',
+         'Does exempt revenue still count toward the threshold?',
+         '豁免收入仍计入门槛吗？'),
+    a: L('Pusing ganti bercukai yang menentukan ambang ialah nilai bekalan bercukai anda sepanjang 12 bulan bergolek. Jangan tolak nilai bekalan hanya kerana cukai belum dicajkan lagi — bekalan bercukai kekal dikira ke arah ambang walaupun anda belum berdaftar. Hasil yang benar-benar di luar skop sahaja dikecualikan daripada kiraan.',
+         'The taxable turnover that sets the threshold is the value of your taxable supplies over a rolling 12 months. Do not subtract supply value just because tax has not been charged yet — taxable supplies still count toward the threshold even while you are unregistered. Only genuinely out-of-scope revenue is left out of the count.',
+         '决定门槛的应税营业额，是你在滚动 12 个月内应税供应的价值。不要仅因尚未开征税款就扣除供应价值——即使你尚未注册，应税供应仍计入门槛。只有真正不在征税范围内的收入才不计入。'),
+  },
+];
+
+const title = L('Penyemak Ambang SST Malaysia', 'Malaysia SST Threshold Checker', '马来西亚 SST 门槛检查器');
+const heroDesc = L(
+  'Semak sama ada perniagaan anda perlu mendaftar SST — kerana tiada satu ambang: ia berjalan dari nil hingga RM1.5 juta mengikut kumpulan aktiviti. Semua dalam pelayar; tiada data dihantar.',
+  'Check whether your business must register for SST — because there is no single threshold: it runs from nil to RM1.5 million by activity group. All in your browser; no data sent.',
+  '检查你的企业是否必须注册 SST——因为没有单一门槛：按活动组别从无门槛到 RM150 万不等。全部在浏览器中运行，数据不外传。',
+);
+
+const ui = {
+  group: L('Kumpulan aktiviti', 'Activity group', '活动组别'),
+  turnover: L('Pusing ganti bercukai 12 bulan bergolek (RM)', 'Rolling 12-month taxable turnover (RM)', '滚动 12 个月应税营业额（RM）'),
+  statusLabel: L('Status pendaftaran', 'Registration status', '注册状态'),
+  thresholdLabel: L('Ambang terpakai', 'Applicable threshold', '适用门槛'),
+  asOf: L('Kadar setakat', 'Rates as of', '税率截至'),
+  disclaimer: L(
+    'Anggaran panduan sahaja, bukan nasihat cukai atau undang-undang. Ambang SST ditetapkan oleh Jadual Pertama Peraturan Cukai Perkhidmatan 2018 dan Perintah Cukai Jualan 2018; terdapat peraturan khusus kumpulan (contohnya pengagregatan Kumpulan G). Sahkan dengan MySST/Kastam dan penasihat anda.',
+    'Guidance estimate only, not tax or legal advice. SST thresholds are set by the First Schedule to the Service Tax Regulations 2018 and the Sales Tax Order 2018; group-specific rules apply (e.g. Group G aggregation). Verify with MySST/Customs and your adviser.',
+    '仅为指引性估算，非税务或法律建议。SST 门槛由《2018 年服务税条例》附表一与《2018 年销售税令》规定；并有组别特定规则（例如 G 组合并计算）。请以 MySST／关税局与您的顾问核实。',
+  ),
+  howH: L('Cara ia berfungsi', 'How it works', '运作方式'),
+  learnH: L('Ketahui lebih lanjut', 'Learn more', '了解更多'),
+};
+
+// Localized verdict strings the client script reads from data-* (the verdict
+// depends on the computed result, so the script — not the server — assembles it).
+const vMust = L('Anda wajib mendaftar', 'You must register', '您必须注册');
+const vNotYetPrefix = L('Belum — ', 'Not yet — ', '尚未 — 还差 ');
+const vNotYetSuffix = L(' lagi sebelum ambang', ' to go', ' 达到门槛');
+const vNilWaiting = L('Belum ada bekalan bercukai', 'No taxable supply yet', '尚无应税供应');
+const nilThreshold = L('Nil — mana-mana bekalan mencetuskan', 'Nil — any supply triggers', '无门槛 — 任何供应即触发');
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
+    { label: title },
+  ]}
+  title={title}
+  desc={heroDesc}
+/>
+
+<section class="container block">
+  <div
+    class="itc"
+    id="sst"
+    data-must={vMust}
+    data-notyet-prefix={vNotYetPrefix}
+    data-notyet-suffix={vNotYetSuffix}
+    data-nil-waiting={vNilWaiting}
+    data-nil-threshold={nilThreshold}
+  >
+    <form class="itc-form" autocomplete="off">
+      <div class="itc-row">
+        <label class="itc-field itc-income">
+          <span>{ui.group}</span>
+          <select id="sst-group">
+            {SST_GROUPS.map((g) => (<option value={g.id}>{GROUP_LABELS[g.id] ?? g.id}</option>))}
+          </select>
+        </label>
+      </div>
+      <div class="itc-row">
+        <label class="itc-field itc-income">
+          <span>{ui.turnover}</span>
+          <input type="number" id="sst-turnover" inputmode="decimal" min="0" step="1000" placeholder="500000" />
+        </label>
+      </div>
+    </form>
+
+    <aside class="itc-out" aria-live="polite">
+      <p class="itc-asof">{ui.asOf} <span id="sst-asof">{SST.asOf}</span></p>
+      <div class="itc-headline">
+        <span class="itc-label">{ui.statusLabel}</span>
+        <strong class="itc-amount itc-verdict" id="sst-verdict">—</strong>
+      </div>
+      <dl class="itc-lines">
+        <div><dt>{ui.thresholdLabel}</dt><dd id="sst-threshold">—</dd></div>
+      </dl>
+      <p class="itc-note" id="sst-note"></p>
+    </aside>
+  </div>
+
+  <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
+
+  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
+
+  <div class="itc-prose">
+    <h2>{ui.howH}</h2>
+    <p>{L(
+      'Pilih kumpulan aktiviti yang paling hampir dengan perniagaan anda, kemudian masukkan pusing ganti bercukai anda sepanjang 12 bulan bergolek. Kami bandingkannya dengan ambang kumpulan tersebut — daripada nil hingga RM1,500,000 — dan memberi anda satu keputusan: anda sudah perlu mendaftar, atau berapa banyak lagi pusing ganti sebelum anda sampai ke ambang. Ini penyemak status, bukan kalkulator cukai: ia tidak mengira cukai yang perlu dibayar.',
+      'Pick the activity group closest to your business, then enter your taxable turnover over a rolling 12 months. We compare it against that group\'s threshold — from nil to RM1,500,000 — and give you a single verdict: you must already register, or how much turnover remains before you reach the threshold. This is a status checker, not a tax calculator: it does not compute tax payable.',
+      '选择最接近你业务的活动组别，然后输入你滚动 12 个月的应税营业额。我们将其与该组别的门槛——从无门槛到 RM1,500,000——比较，并给出单一结论：你已需注册，或距离门槛还差多少营业额。这是状态检查器，而非税额计算器：它不计算应缴税款。',
+    )}</p>
+    <h2>FAQ</h2>
+    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
+    <h2>{ui.learnH}</h2>
+    <ul class="itc-links">
+      <li><a href={tax('sst-registration')}>{L('Pendaftaran SST dan ambang', 'SST registration and thresholds', 'SST 注册与门槛')}</a></li>
+      <li><a href={tax('sst-explained')}>{L('SST diterangkan', 'SST explained', 'SST 详解')}</a></li>
+    </ul>
+    <h3>{L('Sumber', 'Sources', '来源')}</h3>
+    <ul class="itc-src">{SST.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}</ul>
+  </div>
+</section>
+
+<script>
+  import { checkSst, SST_GROUPS } from '@/lib/tax/sstThreshold';
+  const $ = (id) => document.getElementById(id);
+  const root = $('sst');
+  if (root) {
+    const mustText = root.dataset.must || 'You must register';
+    const notYetPrefix = root.dataset.notyetPrefix || 'Not yet — ';
+    const notYetSuffix = root.dataset.notyetSuffix || ' to go';
+    const nilWaiting = root.dataset.nilWaiting || 'No taxable supply yet';
+    const nilThreshold = root.dataset.nilThreshold || 'Nil — any supply triggers';
+    const f0 = new Intl.NumberFormat('en-MY', { style: 'currency', currency: 'MYR', maximumFractionDigits: 0 });
+    const rm0 = (n) => f0.format(n || 0).replace('MYR', 'RM').replace(/\s/g, '');
+    const num = (el) => { const v = parseFloat(el && el.value); return Number.isFinite(v) && v > 0 ? v : 0; };
+    // Reference SST_GROUPS so the engine's group list drives the client too.
+    const GROUP_IDS = new Set(SST_GROUPS.map((g) => g.id));
+    function recompute() {
+      const group = $('sst-group').value;
+      const r = checkSst({
+        group: GROUP_IDS.has(group) ? group : 'service-general',
+        turnover12m: num($('sst-turnover')),
+      });
+      const verdictEl = $('sst-verdict');
+      if (r.mustRegister) {
+        verdictEl.textContent = mustText;
+      } else if (r.threshold === 0) {
+        verdictEl.textContent = nilWaiting;
+      } else {
+        verdictEl.textContent = notYetPrefix + rm0(r.headroom) + notYetSuffix;
+      }
+      verdictEl.dataset.state = r.mustRegister ? 'must' : 'clear';
+      $('sst-threshold').textContent = r.threshold === 0 ? nilThreshold : rm0(r.threshold);
+      $('sst-note').textContent = r.note;
+      $('sst-asof').textContent = r.asOf;
+    }
+    root.addEventListener('input', recompute);
+    root.addEventListener('change', recompute);
+    recompute();
+  }
+</script>
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'SoftwareApplication', name: title, applicationCategory: 'FinanceApplication', operatingSystem: 'Web', offers: { '@type': 'Offer', price: '0', priceCurrency: 'MYR' }, description: heroDesc },
+    { '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+  ],
+})} />
+
+<style>
+  .itc { display: grid; grid-template-columns: 1.4fr 1fr; gap: 1.5rem; align-items: start; }
+  @media (max-width: 860px) { .itc { grid-template-columns: 1fr; } }
+  .itc-form { display: grid; gap: 1.1rem; }
+  .itc-row { display: grid; grid-template-columns: 1fr; gap: 1rem; }
+  .itc-field { display: grid; gap: 0.35rem; font-size: 0.9rem; }
+  .itc-field > span { font-weight: 600; color: var(--ink-soft); }
+  .itc-field input, .itc-field select { font: inherit; padding: 0.55rem 0.7rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .itc-field input:focus, .itc-field select:focus { outline: 2px solid var(--gold); outline-offset: 1px; }
+  .itc-out { position: sticky; top: 1rem; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 1.2rem 1.3rem; }
+  .itc-asof { margin: 0 0 0.8rem; font-size: 0.72rem; color: var(--muted); }
+  .itc-headline { display: grid; gap: 0.15rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
+  .itc-label { font-size: 0.8rem; color: var(--ink-soft); font-weight: 600; }
+  .itc-amount { font-size: 2.1rem; font-weight: 800; color: var(--gold); line-height: 1.1; }
+  /* Verdict is a sentence, not a number — size it down so it fits on two lines. */
+  .itc-verdict { font-size: 1.5rem; line-height: 1.2; }
+  .itc-lines { display: grid; gap: 0.5rem; margin: 1rem 0 0; }
+  .itc-lines > div { display: flex; justify-content: space-between; gap: 1rem; font-size: 0.86rem; }
+  .itc-lines dt { color: var(--ink-soft); margin: 0; }
+  .itc-lines dd { margin: 0; font-weight: 700; font-variant-numeric: tabular-nums; }
+  .itc-note { margin: 1rem 0 0; padding-top: 0.8rem; border-top: 1px dashed var(--line); font-size: 0.82rem; line-height: 1.6; color: var(--muted); }
+  .itc-disclaimer { margin: 1.4rem 0 0; padding: 0.8rem 1rem; font-size: 0.82rem; line-height: 1.6; color: var(--ink-soft); background: color-mix(in srgb, var(--gold) 6%, var(--surface, transparent)); border: 1px solid color-mix(in srgb, var(--gold) 30%, transparent); border-radius: 10px; }
+  .itc-prose { max-width: 58rem; margin-top: 2.5rem; }
+  .itc-prose h2 { font-size: 1.15rem; margin: 2rem 0 0.7rem; }
+  .itc-prose h3 { font-size: 1rem; margin: 1.6rem 0 0.5rem; }
+  .itc-prose p { line-height: 1.7; color: var(--ink-soft); }
+  .itc-faq dt { font-weight: 700; margin-top: 1rem; }
+  .itc-faq dd { margin: 0.3rem 0 0; color: var(--ink-soft); line-height: 1.7; }
+  .itc-links, .itc-src { padding-left: 1.1rem; line-height: 1.9; }
+  .itc-src { font-size: 0.85rem; }
+  .itc-src a, .itc-links a { color: var(--gold); }
+</style>

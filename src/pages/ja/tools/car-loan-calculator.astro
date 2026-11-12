@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import CarLoanCalculatorView from '@/components/CarLoanCalculatorView.astro';
+const locale = 'ja';
+---
+
+<BaseLayout
+  locale={locale}
+  title="Kalkulator Pinjaman Kereta Malaysia"
+  description="Sewa beli kadar rata + APR berkesan"
+  path="/tools/car-loan-calculator"
+>
+  <CarLoanCalculatorView locale={locale} />
+</BaseLayout>

@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ZakatCalculatorView from '@/components/ZakatCalculatorView.astro';
+const locale = 'ms';
+---
+
+<BaseLayout
+  locale={locale}
+  title="Kalkulator Zakat Malaysia"
+  description="Zakat pendapatan + simpanan + perniagaan"
+  path="/tools/zakat-calculator"
+>
+  <ZakatCalculatorView locale={locale} />
+</BaseLayout>

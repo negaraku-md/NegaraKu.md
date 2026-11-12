@@ -1,0 +1,229 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
+import SponsorCTA from './SponsorCTA.astro';
+import PageHero from './PageHero.astro';
+import { EPF_DEFAULTS } from '@/lib/tax/epfRetirement';
+
+interface Props { locale: Locale; }
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const sponsor = resolveSponsor(undefined, undefined, false, 'finance', 'epf-retirement');
+const sponsorHref = sponsor ? sponsorUrl(sponsor, 'tools', 'epf-retirement') : '';
+
+const faqs = [
+  {
+    q: L('Bagaimana unjuran ini terkumpul?', 'How does this projection compound?', '这个预测如何复利增长？'),
+    a: L('Setiap tahun, baki KWSP anda tumbuh mengikut dividen yang diandaikan, kemudian caruman tahun itu ditambah: 11% bahagian pekerja ditambah 12–13% bahagian majikan atas gaji anda. Baki baharu itu pula memperoleh dividen pada tahun berikutnya, jadi faedah berganda sepanjang tempoh hingga persaraan.',
+         'Each year your EPF balance grows by the assumed dividend, then that year’s contributions are added: the 11% employee share plus the 12–13% employer share on your salary. That larger balance then earns the dividend the next year, so the gains compound over the years to retirement.',
+         '每年你的公积金余额按假设的股息增长，然后加入当年的缴款：雇员 11% 加上雇主 12–13%（按你的薪资计算）。更大的余额在下一年继续获得股息，因此在退休前的岁月里利滚利。'),
+  },
+  {
+    q: L('Mengapa dividen hanya anggaran?', 'Why is the dividend only an assumption?', '为什么股息只是假设？'),
+    a: L('KWSP mengisytiharkan dividen setiap tahun dan ia berubah — dividen konvensional terkini sekitar 5–6%, bukan kadar tetap. Kami menggunakan satu kadar andaian sepanjang tempoh supaya anda boleh melihat satu senario; ubah kadar itu untuk melihat senario lebih tinggi atau rendah. Hasil sebenar akan berbeza.',
+         'EPF declares a dividend each year and it varies — recent conventional dividends have been around 5–6%, not a fixed rate. We apply one assumed rate for the whole period so you can see a single scenario; change the rate to see a higher or lower one. Actual results will differ.',
+         '公积金每年宣布股息且会变动——近期的传统股息约为 5–6%，并非固定利率。我们在整个期间采用一个假设利率，让你看到单一情景；更改该利率可查看更高或更低的情景。实际结果会有所不同。'),
+  },
+  {
+    q: L('Apa berubah pada umur 60?', 'What changes at age 60?', '60 岁时有何变化？'),
+    a: L('Pada umur persaraan (lazimnya 60), bahagian pekerja 11% berhenti dan anda boleh mula mengeluarkan simpanan — penuh atau secara bulanan. Baki yang kekal dalam akaun masih memperoleh dividen. Unjuran ini berhenti pada umur persaraan yang anda tetapkan.',
+         'At retirement age (usually 60) the 11% employee share stops and you may begin withdrawals — in full or monthly. Whatever stays in the account still earns the dividend. This projection stops at the retirement age you set.',
+         '到了退休年龄（通常为 60 岁），11% 的雇员份额停止缴纳，你可以开始提取——一次性或按月。留在账户中的余额仍然获得股息。本预测在你设定的退休年龄停止。'),
+  },
+];
+
+const title = L('Unjuran Persaraan KWSP', 'Malaysia EPF Retirement Projection', '马来西亚公积金退休预测');
+const heroDesc = L(
+  'Unjurkan baki KWSP anda pada umur persaraan — caruman pekerja dan majikan terkumpul tahun demi tahun dengan dividen yang diandaikan. Semua dalam pelayar; tiada data dihantar.',
+  'Project your EPF balance at retirement — employee and employer contributions compounding year by year with an assumed dividend. All in your browser; no data sent.',
+  '预测你在退休年龄时的公积金余额——雇员与雇主缴款逐年按假设股息复利增长。全部在浏览器中运行，数据不外传。',
+);
+
+const ui = {
+  balance: L('Baki KWSP semasa (RM)', 'Current EPF balance (RM)', '当前公积金余额（RM）'),
+  salary: L('Gaji bulanan semasa (RM)', 'Current monthly salary (RM)', '当前每月工资（RM）'),
+  age: L('Umur semasa (tahun)', 'Current age (years)', '当前年龄（岁）'),
+  retireAge: L('Umur persaraan', 'Retirement age', '退休年龄'),
+  dividend: L('Dividen tahunan diandaikan (%)', 'Assumed annual dividend (%)', '假设年股息（%）'),
+  growth: L('Pertumbuhan gaji tahunan (%)', 'Annual salary growth (%)', '年薪增长（%）'),
+  projected: L('Unjuran baki KWSP ketika bersara', 'Projected EPF balance at retirement', '退休时公积金预测余额'),
+  years: L('Tahun hingga bersara', 'Years to retirement', '距退休年数'),
+  contrib: L('Jumlah caruman (anda + majikan)', 'Total contributions (you + employer)', '总缴款（你 + 雇主）'),
+  dividends: L('Jumlah dividen diperoleh', 'Total dividends earned', '赚取的总股息'),
+  monthly: L('Caruman bulanan (tahun pertama)', 'Monthly contribution (first year)', '每月缴款（首年）'),
+  assumed: L('Dividen diandaikan', 'Assumed dividend', '假设股息'),
+  asOf: L('Kadar setakat', 'Rates as of', '税率截至'),
+  projNote: L(
+    'Dividen KWSP berubah setiap tahun, jadi ini unjuran — bukan jaminan.',
+    'EPF dividends vary year to year, so this is a projection — not a guarantee.',
+    '公积金股息每年变动，因此这是预测，而非保证。',
+  ),
+  disclaimer: L(
+    'Anggaran sahaja, bukan nasihat kewangan atau persaraan. Dividen sebenar diisytiharkan KWSP setiap tahun dan berbeza; caruman mengikut kadar berkanun semasa. Sahkan dengan penyata KWSP anda dan rancang mengikut keadaan sendiri.',
+    'Estimate only, not financial or retirement advice. Actual dividends are declared by EPF each year and vary; contributions use the current statutory rates. Verify against your EPF statement and plan for your own circumstances.',
+    '仅为估算，非财务或退休建议。实际股息由公积金每年宣布且有所不同；缴款采用现行法定费率。请以你的公积金结单核实，并根据自身情况规划。',
+  ),
+  howH: L('Cara ia dikira', 'How it is calculated', '计算方式'),
+  learnH: L('Ketahui lebih lanjut', 'Learn more', '了解更多'),
+};
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
+    { label: title },
+  ]}
+  title={title}
+  desc={heroDesc}
+/>
+
+<section class="container block">
+  <div class="itc" id="epf" data-dividend-default={(EPF_DEFAULTS.assumedDividend * 100).toString()} data-retire-default={EPF_DEFAULTS.retirementAge.toString()}>
+    <form class="itc-form" autocomplete="off">
+      <div class="itc-row">
+        <label class="itc-field itc-income">
+          <span>{ui.balance}</span>
+          <input type="number" id="epf-balance" inputmode="decimal" min="0" step="1000" placeholder="50000" />
+        </label>
+        <label class="itc-field itc-income">
+          <span>{ui.salary}</span>
+          <input type="number" id="epf-salary" inputmode="decimal" min="0" step="100" placeholder="5000" />
+        </label>
+      </div>
+      <div class="itc-row">
+        <label class="itc-field">
+          <span>{ui.age}</span>
+          <input type="number" id="epf-age" inputmode="numeric" min="16" max="75" step="1" placeholder="30" />
+        </label>
+        <label class="itc-field">
+          <span>{ui.retireAge}</span>
+          <input type="number" id="epf-retire" inputmode="numeric" min="55" max="75" step="1" value={EPF_DEFAULTS.retirementAge} />
+        </label>
+      </div>
+      <div class="itc-row">
+        <label class="itc-field">
+          <span>{ui.dividend}</span>
+          <input type="number" id="epf-dividend" inputmode="decimal" min="0" max="15" step="0.1" value={(EPF_DEFAULTS.assumedDividend * 100).toFixed(1)} />
+        </label>
+        <label class="itc-field">
+          <span>{ui.growth}</span>
+          <input type="number" id="epf-growth" inputmode="decimal" min="0" max="20" step="0.5" value="0" />
+        </label>
+      </div>
+    </form>
+
+    <aside class="itc-out" aria-live="polite">
+      <p class="itc-asof">{ui.asOf} <span id="epf-asof">{EPF_DEFAULTS.asOf}</span></p>
+      <div class="itc-headline">
+        <span class="itc-label">{ui.projected}</span>
+        <strong class="itc-amount" id="epf-projected">RM0</strong>
+        <span class="itc-sub"><span id="epf-years">0</span> {ui.years} · <span id="epf-assumed">{(EPF_DEFAULTS.assumedDividend * 100).toFixed(1)}%</span> {ui.assumed}</span>
+      </div>
+      <dl class="itc-lines">
+        <div><dt>{ui.contrib}</dt><dd id="epf-contrib">RM0</dd></div>
+        <div><dt>{ui.dividends}</dt><dd id="epf-dividends">RM0</dd></div>
+        <div><dt>{ui.monthly}</dt><dd id="epf-monthly">RM0</dd></div>
+      </dl>
+      <p class="epf-note">{ui.projNote}</p>
+    </aside>
+  </div>
+
+  <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
+
+  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
+
+  <div class="itc-prose">
+    <h2>{ui.howH}</h2>
+    <p>{L(
+      'Kami mula dengan baki KWSP semasa anda. Bagi setiap tahun hingga persaraan, baki tumbuh mengikut dividen yang diandaikan, kemudian caruman tahun itu ditambah — 11% bahagian pekerja dan 12% atau 13% bahagian majikan atas gaji bulanan anda. Jumlah dividen diperoleh ialah unjuran baki tolak baki semasa dan jumlah caruman. Ubah dividen atau pertumbuhan gaji untuk melihat senario berbeza.',
+      'We start with your current EPF balance. For each year to retirement, the balance grows by the assumed dividend, then that year’s contributions are added — the 11% employee share and the 12% or 13% employer share on your monthly salary. Total dividends earned is the projected balance minus your current balance and total contributions. Change the dividend or salary growth to see different scenarios.',
+      '我们从你当前的公积金余额开始。在距退休的每一年，余额按假设股息增长，然后加入当年的缴款——雇员 11% 加上雇主 12% 或 13%（按你的每月工资计算）。赚取的总股息即预测余额减去当前余额和总缴款。更改股息或薪资增长即可查看不同情景。',
+    )}</p>
+    <h2>FAQ</h2>
+    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
+    <h2>{ui.learnH}</h2>
+    <ul class="itc-links">
+      <li><a href={localePath('/tools/salary-take-home', locale)}>{L('Kalkulator gaji bersih', 'Salary take-home calculator', '实得工资计算器')}</a></li>
+      <li><a href={localePath('/money-daily-life/epf-socso-employees', locale)}>{L('KWSP & PERKESO untuk pekerja', 'EPF & SOCSO for employees', '雇员的公积金与社险')}</a></li>
+      <li><a href={localePath('/finance/epf-members-investment-scheme', locale)}>{L('Skim Pelaburan Ahli KWSP', 'EPF Members Investment Scheme', '公积金会员投资计划')}</a></li>
+    </ul>
+    <h3>{L('Sumber', 'Sources', '来源')}</h3>
+    <ul class="itc-src">{EPF_DEFAULTS.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}</ul>
+  </div>
+</section>
+
+<script>
+  import { computeEpfRetirement, EPF_DEFAULTS } from '@/lib/tax/epfRetirement';
+  const $ = (id) => document.getElementById(id);
+  const root = $('epf');
+  if (root) {
+    const f0 = new Intl.NumberFormat('en-MY', { style: 'currency', currency: 'MYR', maximumFractionDigits: 0 });
+    const rm0 = (n) => f0.format(n || 0).replace('MYR', 'RM').replace(/\s/g, '');
+    const num = (el) => { const v = parseFloat(el && el.value); return Number.isFinite(v) && v > 0 ? v : 0; };
+    function recompute() {
+      const r = computeEpfRetirement({
+        currentBalance: num($('epf-balance')),
+        monthlySalary: num($('epf-salary')),
+        currentAge: num($('epf-age')),
+        retirementAge: num($('epf-retire')) || EPF_DEFAULTS.retirementAge,
+        annualDividend: (num($('epf-dividend')) || EPF_DEFAULTS.assumedDividend * 100) / 100,
+        annualSalaryGrowth: num($('epf-growth')) / 100,
+      });
+      $('epf-projected').textContent = rm0(r.projectedBalance);
+      $('epf-years').textContent = String(r.yearsToRetirement);
+      $('epf-assumed').textContent = (r.assumedDividend * 100).toFixed(1) + '%';
+      $('epf-contrib').textContent = rm0(r.totalContributions);
+      $('epf-dividends').textContent = rm0(r.totalDividends);
+      $('epf-monthly').textContent = rm0(r.monthlyContribution);
+      $('epf-asof').textContent = r.asOf;
+    }
+    root.addEventListener('input', recompute);
+    root.addEventListener('change', recompute);
+    recompute();
+  }
+</script>
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'SoftwareApplication', name: title, applicationCategory: 'FinanceApplication', operatingSystem: 'Web', offers: { '@type': 'Offer', price: '0', priceCurrency: 'MYR' }, description: heroDesc },
+    { '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+  ],
+})} />
+
+<style>
+  .itc { display: grid; grid-template-columns: 1.4fr 1fr; gap: 1.5rem; align-items: start; }
+  @media (max-width: 860px) { .itc { grid-template-columns: 1fr; } }
+  .itc-form { display: grid; gap: 1.1rem; }
+  .itc-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+  @media (max-width: 520px) { .itc-row { grid-template-columns: 1fr; } }
+  .itc-field { display: grid; gap: 0.35rem; font-size: 0.9rem; }
+  .itc-field > span { font-weight: 600; color: var(--ink-soft); }
+  .itc-field input, .itc-field select { font: inherit; padding: 0.55rem 0.7rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .itc-field input:focus, .itc-field select:focus { outline: 2px solid var(--gold); outline-offset: 1px; }
+  .itc-out { position: sticky; top: 1rem; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 1.2rem 1.3rem; }
+  .itc-asof { margin: 0 0 0.8rem; font-size: 0.72rem; color: var(--muted); }
+  .itc-headline { display: grid; gap: 0.15rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
+  .itc-label { font-size: 0.8rem; color: var(--ink-soft); font-weight: 600; }
+  .itc-amount { font-size: 2.1rem; font-weight: 800; color: var(--gold); line-height: 1.1; }
+  .itc-sub { font-size: 0.8rem; color: var(--muted); }
+  .itc-lines { display: grid; gap: 0.5rem; margin: 1rem 0 0; }
+  .itc-lines > div { display: flex; justify-content: space-between; gap: 1rem; font-size: 0.86rem; }
+  .itc-lines dt { color: var(--ink-soft); margin: 0; }
+  .itc-lines dd { margin: 0; font-weight: 700; font-variant-numeric: tabular-nums; }
+  .epf-note { margin: 1rem 0 0; padding-top: 0.8rem; border-top: 1px dashed var(--line); font-size: 0.78rem; line-height: 1.5; color: var(--muted); }
+  .itc-disclaimer { margin: 1.4rem 0 0; padding: 0.8rem 1rem; font-size: 0.82rem; line-height: 1.6; color: var(--ink-soft); background: color-mix(in srgb, var(--gold) 6%, var(--surface, transparent)); border: 1px solid color-mix(in srgb, var(--gold) 30%, transparent); border-radius: 10px; }
+  .itc-prose { max-width: 58rem; margin-top: 2.5rem; }
+  .itc-prose h2 { font-size: 1.15rem; margin: 2rem 0 0.7rem; }
+  .itc-prose h3 { font-size: 1rem; margin: 1.6rem 0 0.5rem; }
+  .itc-prose p { line-height: 1.7; color: var(--ink-soft); }
+  .itc-faq dt { font-weight: 700; margin-top: 1rem; }
+  .itc-faq dd { margin: 0.3rem 0 0; color: var(--ink-soft); line-height: 1.7; }
+  .itc-links, .itc-src { padding-left: 1.1rem; line-height: 1.9; }
+  .itc-src { font-size: 0.85rem; }
+  .itc-src a, .itc-links a { color: var(--gold); }
+</style>

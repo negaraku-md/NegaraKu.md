@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import CarLoanCalculatorView from '@/components/CarLoanCalculatorView.astro';
+const locale = 'zh';
+---
+
+<BaseLayout
+  locale={locale}
+  title="马来西亚车贷计算器"
+  description="固定利率租购 + 实际年利率"
+  path="/tools/car-loan-calculator"
+>
+  <CarLoanCalculatorView locale={locale} />
+</BaseLayout>

@@ -1,0 +1,283 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
+import SponsorCTA from './SponsorCTA.astro';
+import PageHero from './PageHero.astro';
+import { RPGT } from '@/lib/tax/rpgt';
+
+interface Props { locale: Locale; }
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const sponsor = resolveSponsor(undefined, undefined, false, 'taxation', 'rpgt-calculator');
+const sponsorHref = sponsor ? sponsorUrl(sponsor, 'tools', 'rpgt-calculator') : '';
+const tax = (slug: string) => localePath(`/taxation/${slug}`, locale);
+
+const faqs = [
+  {
+    q: L('Mengapa kadar CKHT bergantung pada tempoh pegangan DAN kelas pelupus?',
+         'Why does the RPGT rate depend on BOTH the holding period and the disposer class?',
+         '为什么产业盈利税税率同时取决于持有期和处置人类别？'),
+    a: L('Jadual 5 Akta CKHT 1976 menetapkan tiga tangga kadar berasingan — Bahagian I (warganegara/PR), Bahagian II (syarikat) dan Bahagian III (bukan warganegara/syarikat asing). Dalam setiap Bahagian, kadar menurun mengikut bilangan tahun anda memegang hartanah sebelum pelupusan. Jadi kadar sebenar ialah titik pertemuan antara kelas pelupus anda dan tahun pelupusan.',
+         'Schedule 5 of the RPGT Act 1976 sets three separate rate ladders — Part I (citizens/PR), Part II (companies) and Part III (non-citizens/foreign companies). Within each Part the rate steps down with the number of years you held the property before disposing of it. So the actual rate is the meeting point of your disposer class and the disposal year.',
+         '《1976 年产业盈利税法令》附表 5 规定了三套独立的税率阶梯——第 I 部分（公民/永久居民）、第 II 部分（公司）和第 III 部分（非公民/外国公司）。在每个部分内，税率随你在处置前持有产业的年数而递减。因此实际税率是你的处置人类别与处置年份的交汇点。'),
+  },
+  {
+    q: L('Berapakah kadar tahun keenam?', 'What is the sixth-year rate?', '第六年的税率是多少？'),
+    a: L('Bagi pelupusan pada tahun keenam dan selepasnya: warganegara dan pemastautin tetap membayar 0% (dikecualikan sepenuhnya), manakala syarikat dan bukan warganegara/syarikat asing kekal pada 10%. Tangga warganegara mencapai sifar; tangga syarikat dan asing tidak pernah di bawah 10%.',
+         'For disposals in the sixth year and later: citizens and permanent residents pay 0% (fully exempt), while companies and non-citizens/foreign companies stay at 10%. The citizen ladder reaches zero; the company and foreigner ladders never drop below 10%.',
+         '对于第六年及以后的处置：公民和永久居民缴纳 0%（完全豁免），而公司及非公民/外国公司维持在 10%。公民阶梯降至零；公司和外国人阶梯从不低于 10%。'),
+  },
+  {
+    q: L('Apakah pengecualian Jadual 4?', 'What is the Schedule 4 exemption?', '什么是附表 4 豁免？'),
+    a: L('Jadual 4 mengecualikan keuntungan boleh dikenakan cukai individu sebanyak yang lebih besar antara RM10,000 atau 10% daripada keuntungan — sebelum kadar dikenakan. Ia terpakai hanya kepada individu (warganegara/PR dan individu asing); syarikat tidak mendapat pengecualian ini.',
+         'Schedule 4 exempts an individual’s chargeable gain by the greater of RM10,000 or 10% of the gain — before the rate is applied. It is available to individuals only (citizens/PR and foreign individuals); companies get no such waiver.',
+         '附表 4 按 RM10,000 或盈利的 10% 中较高者豁免个人的应课税盈利——在适用税率之前。它仅适用于个人（公民/永久居民和外国个人）；公司不享有此豁免。'),
+  },
+];
+
+const title = L('Kalkulator CKHT (RPGT) Malaysia', 'Malaysia RPGT Calculator', '马来西亚产业盈利税计算器');
+const heroDesc = L(
+  'Anggarkan Cukai Keuntungan Harta Tanah (CKHT) ke atas pelupusan hartanah Malaysia — mengikut kelas pelupus dan tempoh pegangan, dengan pengecualian Jadual 4 dan pegangan s.21B. Semua dalam pelayar; tiada data dihantar.',
+  'Estimate Real Property Gains Tax (RPGT) on a Malaysian property disposal — by disposer class and holding period, with the Schedule 4 exemption and the s.21B retention. All in your browser; no data sent.',
+  '估算马来西亚产业处置的产业盈利税（RPGT）——按处置人类别和持有期，含附表 4 豁免与第 21B 条扣留。全部在浏览器中运行，数据不外传。',
+);
+
+const ui = {
+  disposer: L('Kelas pelupus', 'Disposer class', '处置人类别'),
+  disCitizen: L('Warganegara Malaysia / PR', 'Malaysian citizen / PR', '马来西亚公民 / 永久居民'),
+  disCompany: L('Syarikat (diperbadankan di Malaysia)', 'Company (incorporated in Malaysia)', '公司（在马来西亚注册成立）'),
+  disForeigner: L('Bukan warganegara / syarikat asing', 'Non-citizen / foreign company', '非公民 / 外国公司'),
+  acqDate: L('Tarikh perolehan', 'Acquisition date', '购入日期'),
+  dispDate: L('Tarikh pelupusan', 'Disposal date', '处置日期'),
+  acqPrice: L('Harga perolehan (RM)', 'Acquisition price (RM)', '购入价（RM）'),
+  dispPrice: L('Harga pelupusan (RM)', 'Disposal price (RM)', '处置价（RM）'),
+  acqCosts: L('Kos perolehan (guaman, setem, penilaian, ejen) (RM)', 'Acquisition costs (legal, stamp, valuation, agent) (RM)', '购入成本（律师费、印花税、估价、中介）（RM）'),
+  dispCosts: L('Kos pelupusan (komisen ejen, guaman) (RM)', 'Disposal costs (agent commission, legal) (RM)', '处置成本（中介佣金、律师费）（RM）'),
+  enhance: L('Kos penambahbaikan (RM)', 'Enhancement costs (RM)', '增值成本（RM）'),
+  recoveries: L('Pemulihan / insurans diterima (RM)', 'Recoveries / insurance received (RM)', '追回 / 已收保险（RM）'),
+  optional: L('pilihan', 'optional', '选填'),
+  payable: L('CKHT perlu dibayar', 'RPGT payable', '应缴产业盈利税'),
+  rate: L('Kadar dikenakan', 'Applicable rate', '适用税率'),
+  year: L('Tahun', 'Year', '第'),
+  yearSuffix: L('', '', '年'),
+  part: L('Bahagian', 'Part', '部分'),
+  chargeable: L('Keuntungan boleh dikenakan cukai', 'Chargeable gain', '应课税盈利'),
+  exemption: L('Pengecualian Jadual 4', 'Schedule 4 exemption', '附表 4 豁免'),
+  taxable: L('Keuntungan bercukai', 'Taxable gain', '应税盈利'),
+  retentionH: L('Pegangan pembeli (s.21B)', 'Acquirer retention (s.21B)', '买方扣留（第 21B 条）'),
+  retentionRate: L('Kadar pegangan', 'Retention rate', '扣留率'),
+  retentionAmt: L('Jumlah dipegang', 'Amount retained', '扣留金额'),
+  asOf: L('Kadar setakat', 'Rates as of', '税率截至'),
+  disclaimer: L(
+    'Anggaran sahaja, bukan nasihat cukai atau undang-undang. Kadar daripada Jadual 5 Akta CKHT 1976; pengecualian Jadual 4 terpakai kepada individu sahaja. Pegangan s.21B ialah amaun yang dipegang pembeli dan diremitkan kepada LHDN, bukan cukai tambahan. Sahkan dengan LHDN dan peguam anda.',
+    'Estimate only, not tax or legal advice. Rates are from Schedule 5 of the RPGT Act 1976; the Schedule 4 exemption applies to individuals only. The s.21B retention is an amount the acquirer withholds and remits to LHDN, not an additional tax. Verify with LHDN and your lawyer.',
+    '仅为估算，非税务或法律建议。税率依据《1976 年产业盈利税法令》附表 5；附表 4 豁免仅适用于个人。第 21B 条扣留是买方代扣并汇缴给内陆税收局的金额，并非额外税款。请以内陆税收局与您的律师核实。',
+  ),
+  howH: L('Cara ia dikira', 'How it is calculated', '计算方式'),
+  learnH: L('Ketahui lebih lanjut', 'Learn more', '了解更多'),
+};
+
+// Locale words the client script reads from data-* to label the rate line.
+const yearWord = ui.year;
+const yearSuffix = ui.yearSuffix;
+const partWord = ui.part;
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
+    { label: title },
+  ]}
+  title={title}
+  desc={heroDesc}
+/>
+
+<section class="container block">
+  <div class="itc" id="rpgt" data-year={yearWord} data-year-suffix={yearSuffix} data-part={partWord}>
+    <form class="itc-form" autocomplete="off">
+      <div class="itc-row">
+        <label class="itc-field itc-income">
+          <span>{ui.disposer}</span>
+          <select id="rpgt-disposer">
+            <option value="citizen-pr" selected>{ui.disCitizen}</option>
+            <option value="company">{ui.disCompany}</option>
+            <option value="foreigner">{ui.disForeigner}</option>
+          </select>
+        </label>
+      </div>
+      <div class="itc-row">
+        <label class="itc-field">
+          <span>{ui.acqDate}</span>
+          <input type="date" id="rpgt-acq-date" />
+        </label>
+        <label class="itc-field">
+          <span>{ui.dispDate}</span>
+          <input type="date" id="rpgt-disp-date" />
+        </label>
+      </div>
+      <div class="itc-row">
+        <label class="itc-field">
+          <span>{ui.acqPrice}</span>
+          <input type="number" id="rpgt-acq-price" inputmode="decimal" min="0" step="1000" placeholder="400000" />
+        </label>
+        <label class="itc-field">
+          <span>{ui.dispPrice}</span>
+          <input type="number" id="rpgt-disp-price" inputmode="decimal" min="0" step="1000" placeholder="600000" />
+        </label>
+      </div>
+      <div class="itc-row">
+        <label class="itc-field">
+          <span>{ui.acqCosts} <em class="itc-opt">({ui.optional})</em></span>
+          <input type="number" id="rpgt-acq-costs" inputmode="decimal" min="0" step="100" placeholder="0" />
+        </label>
+        <label class="itc-field">
+          <span>{ui.dispCosts} <em class="itc-opt">({ui.optional})</em></span>
+          <input type="number" id="rpgt-disp-costs" inputmode="decimal" min="0" step="100" placeholder="0" />
+        </label>
+      </div>
+      <div class="itc-row">
+        <label class="itc-field">
+          <span>{ui.enhance} <em class="itc-opt">({ui.optional})</em></span>
+          <input type="number" id="rpgt-enhance" inputmode="decimal" min="0" step="100" placeholder="0" />
+        </label>
+        <label class="itc-field">
+          <span>{ui.recoveries} <em class="itc-opt">({ui.optional})</em></span>
+          <input type="number" id="rpgt-recoveries" inputmode="decimal" min="0" step="100" placeholder="0" />
+        </label>
+      </div>
+    </form>
+
+    <aside class="itc-out" aria-live="polite">
+      <p class="itc-asof">{ui.asOf} <span id="rpgt-asof">{RPGT.asOf}</span></p>
+      <div class="itc-headline">
+        <span class="itc-label">{ui.payable}</span>
+        <strong class="itc-amount" id="rpgt-payable">RM0</strong>
+        <span class="itc-sub"><span id="rpgt-ratesub">0% · —</span></span>
+      </div>
+      <dl class="itc-lines">
+        <div><dt>{ui.rate}</dt><dd id="rpgt-rate">0%</dd></div>
+        <div><dt>{ui.chargeable}</dt><dd id="rpgt-chargeable">RM0</dd></div>
+        <div><dt>{ui.exemption}</dt><dd id="rpgt-exemption">−RM0</dd></div>
+        <div><dt>{ui.taxable}</dt><dd id="rpgt-taxable">RM0</dd></div>
+      </dl>
+      <div class="sth-emp">
+        <p class="sth-emp-h">{ui.retentionH}</p>
+        <dl class="itc-lines">
+          <div><dt>{ui.retentionRate}</dt><dd id="rpgt-ret-rate">0%</dd></div>
+          <div><dt>{ui.retentionAmt}</dt><dd id="rpgt-ret-amt">RM0</dd></div>
+        </dl>
+      </div>
+    </aside>
+  </div>
+
+  <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
+
+  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
+
+  <div class="itc-prose">
+    <h2>{ui.howH}</h2>
+    <p>{L(
+      'Kami kira keuntungan boleh dikenakan cukai = harga pelupusan (tolak kos pelupusan) tolak asas kos (harga perolehan tambah kos perolehan dan penambahbaikan, tolak pemulihan). Untuk individu, pengecualian Jadual 4 — yang lebih besar antara RM10,000 atau 10% daripada keuntungan — ditolak untuk mendapatkan keuntungan bercukai. Kadar Jadual 5 dikenakan mengikut kelas pelupus anda dan tahun pelupusan. Pegangan s.21B ditunjukkan secara berasingan: ia amaun yang pembeli pegang daripada harga jualan dan remitkan kepada LHDN.',
+      'We compute the chargeable gain = disposal price (less disposal costs) minus the cost base (acquisition price plus acquisition and enhancement costs, less recoveries). For individuals, the Schedule 4 exemption — the greater of RM10,000 or 10% of the gain — is deducted to get the taxable gain. The Schedule 5 rate is then applied by your disposer class and disposal year. The s.21B retention is shown separately: it is the amount the acquirer withholds from the sale price and remits to LHDN.',
+      '我们计算应课税盈利＝处置价（扣除处置成本）减去成本基础（购入价加购入与增值成本，减追回金额）。对于个人，扣除附表 4 豁免——RM10,000 或盈利 10% 中较高者——得出应税盈利。随后按你的处置人类别和处置年份适用附表 5 税率。第 21B 条扣留单独显示：这是买方从售价中代扣并汇缴给内陆税收局的金额。',
+    )}</p>
+    <h2>FAQ</h2>
+    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
+    <h2>{ui.learnH}</h2>
+    <ul class="itc-links">
+      <li><a href={tax('rpgt-rates')}>{L('Kadar CKHT dan cara mengira keuntungan', 'RPGT rates and how to compute the gain', '产业盈利税税率与盈利计算方式')}</a></li>
+      <li><a href={tax('rpgt-exemptions')}>{L('Pengecualian CKHT', 'RPGT exemptions', '产业盈利税豁免')}</a></li>
+    </ul>
+    <h3>{L('Sumber', 'Sources', '来源')}</h3>
+    <ul class="itc-src">{RPGT.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}</ul>
+  </div>
+</section>
+
+<script>
+  import { computeRpgt } from '@/lib/tax/rpgt';
+  const $ = (id) => document.getElementById(id);
+  const root = $('rpgt');
+  if (root) {
+    const yearWord = root.dataset.year || 'Year';
+    const yearSuffix = root.dataset.yearSuffix || '';
+    const partWord = root.dataset.part || 'Part';
+    const PARTS = { 'citizen-pr': 'I', 'company': 'II', 'foreigner': 'III' };
+    const f = new Intl.NumberFormat('en-MY', { style: 'currency', currency: 'MYR', minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    const rm = (n) => f.format(n || 0).replace('MYR', 'RM').replace(/\s/g, '');
+    const pct = (n) => (n * 100).toFixed(n * 100 % 1 === 0 ? 0 : 1) + '%';
+    const num = (el) => { const v = parseFloat(el && el.value); return Number.isFinite(v) && v > 0 ? v : 0; };
+    function recompute() {
+      const r = computeRpgt({
+        disposer: $('rpgt-disposer').value,
+        acquisitionDate: $('rpgt-acq-date').value,
+        disposalDate: $('rpgt-disp-date').value,
+        disposalPrice: num($('rpgt-disp-price')),
+        acquisitionPrice: num($('rpgt-acq-price')),
+        acquisitionCosts: num($('rpgt-acq-costs')),
+        disposalCosts: num($('rpgt-disp-costs')),
+        enhancementCosts: num($('rpgt-enhance')),
+        recoveries: num($('rpgt-recoveries')),
+      });
+      const part = PARTS[$('rpgt-disposer').value] || '';
+      const yearLabel = yearSuffix ? (yearWord + r.year + yearSuffix) : (yearWord + ' ' + r.year);
+      $('rpgt-payable').textContent = rm(r.rpgtPayable);
+      $('rpgt-ratesub').textContent = pct(r.rate) + ' · ' + yearLabel + ' · ' + partWord + ' ' + part;
+      $('rpgt-rate').textContent = pct(r.rate);
+      $('rpgt-chargeable').textContent = rm(r.chargeableGain);
+      $('rpgt-exemption').textContent = '−' + rm(r.schedule4Exemption);
+      $('rpgt-taxable').textContent = rm(r.taxableGain);
+      $('rpgt-ret-rate').textContent = pct(r.retentionRate);
+      $('rpgt-ret-amt').textContent = rm(r.retentionAmount);
+    }
+    root.addEventListener('input', recompute);
+    root.addEventListener('change', recompute);
+    recompute();
+  }
+</script>
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'SoftwareApplication', name: title, applicationCategory: 'FinanceApplication', operatingSystem: 'Web', offers: { '@type': 'Offer', price: '0', priceCurrency: 'MYR' }, description: heroDesc },
+    { '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+  ],
+})} />
+
+<style>
+  .itc { display: grid; grid-template-columns: 1.4fr 1fr; gap: 1.5rem; align-items: start; }
+  @media (max-width: 860px) { .itc { grid-template-columns: 1fr; } }
+  .itc-form { display: grid; gap: 1.1rem; }
+  .itc-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+  @media (max-width: 520px) { .itc-row { grid-template-columns: 1fr; } }
+  .itc-field { display: grid; gap: 0.35rem; font-size: 0.9rem; }
+  .itc-field > span { font-weight: 600; color: var(--ink-soft); }
+  .itc-opt { font-weight: 400; font-style: normal; color: var(--muted); font-size: 0.82em; }
+  .itc-field input, .itc-field select { font: inherit; padding: 0.55rem 0.7rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .itc-field input:focus, .itc-field select:focus { outline: 2px solid var(--gold); outline-offset: 1px; }
+  .itc-out { position: sticky; top: 1rem; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 1.2rem 1.3rem; }
+  .itc-asof { margin: 0 0 0.8rem; font-size: 0.72rem; color: var(--muted); }
+  .itc-headline { display: grid; gap: 0.15rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
+  .itc-label { font-size: 0.8rem; color: var(--ink-soft); font-weight: 600; }
+  .itc-amount { font-size: 2.1rem; font-weight: 800; color: var(--gold); line-height: 1.1; }
+  .itc-sub { font-size: 0.8rem; color: var(--muted); }
+  .itc-lines { display: grid; gap: 0.5rem; margin: 1rem 0 0; }
+  .itc-lines > div { display: flex; justify-content: space-between; gap: 1rem; font-size: 0.86rem; }
+  .itc-lines dt { color: var(--ink-soft); margin: 0; }
+  .itc-lines dd { margin: 0; font-weight: 700; font-variant-numeric: tabular-nums; }
+  .sth-emp { margin-top: 1rem; padding-top: 0.8rem; border-top: 1px dashed var(--line); }
+  .sth-emp-h { margin: 0; font-size: 0.78rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.03em; }
+  .itc-disclaimer { margin: 1.4rem 0 0; padding: 0.8rem 1rem; font-size: 0.82rem; line-height: 1.6; color: var(--ink-soft); background: color-mix(in srgb, var(--gold) 6%, var(--surface, transparent)); border: 1px solid color-mix(in srgb, var(--gold) 30%, transparent); border-radius: 10px; }
+  .itc-prose { max-width: 58rem; margin-top: 2.5rem; }
+  .itc-prose h2 { font-size: 1.15rem; margin: 2rem 0 0.7rem; }
+  .itc-prose h3 { font-size: 1rem; margin: 1.6rem 0 0.5rem; }
+  .itc-prose p { line-height: 1.7; color: var(--ink-soft); }
+  .itc-faq dt { font-weight: 700; margin-top: 1rem; }
+  .itc-faq dd { margin: 0.3rem 0 0; color: var(--ink-soft); line-height: 1.7; }
+  .itc-links, .itc-src { padding-left: 1.1rem; line-height: 1.9; }
+  .itc-src { font-size: 0.85rem; }
+  .itc-src a, .itc-links a { color: var(--gold); }
+</style>

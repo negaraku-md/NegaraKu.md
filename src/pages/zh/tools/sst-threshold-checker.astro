@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import SstThresholdView from '@/components/SstThresholdView.astro';
+const locale = 'zh';
+---
+
+<BaseLayout
+  locale={locale}
+  title="马来西亚 SST 门槛检查器"
+  description="SST 注册门槛——销售税 + 服务税"
+  path="/tools/sst-threshold-checker"
+>
+  <SstThresholdView locale={locale} />
+</BaseLayout>

@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import StampDutyCalculatorView from '@/components/StampDutyCalculatorView.astro';
+const locale = 'zh';
+---
+
+<BaseLayout
+  locale={locale}
+  title="马来西亚印花税计算器"
+  description="Property, loan and share transfer duty."
+  path="/tools/stamp-duty-calculator"
+>
+  <StampDutyCalculatorView locale={locale} />
+</BaseLayout>

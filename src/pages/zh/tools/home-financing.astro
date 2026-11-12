@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import HomeFinancingView from '@/components/HomeFinancingView.astro';
+const locale = 'zh';
+---
+
+<BaseLayout
+  locale={locale}
+  title="马来西亚房屋贷款计算器"
+  description="LTV + down payment + stamp duty + legal fees"
+  path="/tools/home-financing"
+>
+  <HomeFinancingView locale={locale} />
+</BaseLayout>

@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import EpfRetirementView from '@/components/EpfRetirementView.astro';
+const locale = 'en';
+---
+
+<BaseLayout
+  locale={locale}
+  title="Malaysia EPF Retirement Projection"
+  description="Project your EPF balance at retirement"
+  path="/tools/epf-retirement"
+>
+  <EpfRetirementView locale={locale} />
+</BaseLayout>

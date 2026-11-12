@@ -34,6 +34,8 @@
     "health": "python scripts/health/scan.py",
     "test:tax": "node scripts/test-income-tax.mjs",
     "test:salary": "node scripts/test-salary.mjs",
+    "test:finance": "node scripts/test-finance-tools.mjs",
+    "test:more": "node scripts/test-more-tools.mjs",
     "review:due": "node scripts/set-review-due.mjs",
     "review:queue": "node scripts/build-review-queue.mjs",
     "lifecycle": "node scripts/lifecycle.mjs",
