@@ -83,7 +83,7 @@ export const TOOLS: Tool[] = [
   },
   // Roadmap (docs/plans/malaysia-tools-hub-plan.md) — rendered as "coming soon".
   {
-    id: 'salary-take-home', href: '', icon: '💷', color: '#4ADE80', status: 'soon', group: 'employment',
+    id: 'salary-take-home', href: '/tools/salary-take-home', icon: '💷', color: '#4ADE80', status: 'live', group: 'employment',
     title: L('Kalkulator Gaji Bersih', 'Salary Take-Home', '实得工资计算器', 'சம்பள கணிப்பான்', '手取り給与計算機', '실수령 급여 계산기', 'เครื่องคำนวณเงินเดือนสุทธิ', 'Lương thực nhận', 'Kalkulator Gaji Bersih', 'حاسبة صافي الراتب', 'नेट वेतन कैलकुलेटर', 'Salario neto', 'Salaire net'),
     blurb: L('KWSP + PERKESO + SIP + PCB.', 'EPF + SOCSO + EIS + PCB.', '公积金＋社险＋就业保险＋预扣税。', 'EPF + SOCSO + EIS + PCB.', 'EPF + SOCSO + EIS + PCB。', 'EPF + SOCSO + EIS + PCB.', 'EPF + SOCSO + EIS + PCB', 'EPF + SOCSO + EIS + PCB.', 'EPF + SOCSO + EIS + PCB.', 'EPF + SOCSO + EIS + PCB.', 'EPF + SOCSO + EIS + PCB।', 'EPF + SOCSO + EIS + PCB.', 'EPF + SOCSO + EIS + PCB.'),
   },

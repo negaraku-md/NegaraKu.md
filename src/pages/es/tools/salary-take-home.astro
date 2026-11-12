@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import SalaryTakeHomeView from '@/components/SalaryTakeHomeView.astro';
+const locale = 'es';
+---
+
+<BaseLayout
+  locale={locale}
+  title="Calculadora de salario neto de Malasia"
+  description="EPF + SOCSO + EIS + PCB"
+  path="/tools/salary-take-home"
+>
+  <SalaryTakeHomeView locale={locale} />
+</BaseLayout>

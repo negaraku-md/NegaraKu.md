@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import SalaryTakeHomeView from '@/components/SalaryTakeHomeView.astro';
+const locale = 'ja';
+---
+
+<BaseLayout
+  locale={locale}
+  title="マレーシア手取り給与計算機"
+  description="EPF + SOCSO + EIS + PCB"
+  path="/tools/salary-take-home"
+>
+  <SalaryTakeHomeView locale={locale} />
+</BaseLayout>

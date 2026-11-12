@@ -1,0 +1,227 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
+import SponsorCTA from './SponsorCTA.astro';
+import PageHero from './PageHero.astro';
+import { STATUTORY } from '@/lib/tax/salaryTakeHome';
+import { TAX_YEARS, DEFAULT_YA } from '@/lib/tax/incomeTax';
+
+interface Props { locale: Locale; }
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const sponsor = resolveSponsor(undefined, undefined, false, 'business', 'salary-take-home');
+const sponsorHref = sponsor ? sponsorUrl(sponsor, 'tools', 'salary-take-home') : '';
+const tax = (slug: string) => localePath(`/taxation/${slug}`, locale);
+
+const faqs = [
+  {
+    q: L('Apakah potongan wajib daripada gaji di Malaysia?', 'What statutory deductions come out of a Malaysian salary?', '马来西亚的薪资有哪些法定扣除？'),
+    a: L('Empat: caruman pekerja KWSP (11%), PERKESO/SOCSO (0.5%, dihadkan pada gaji RM6,000), SIP/EIS (0.2%, had sama), dan PCB (potongan cukai bulanan). Majikan turut menyumbang KWSP (12–13%), SOCSO dan EIS di atas gaji anda.',
+         'Four: the employee EPF share (11%), SOCSO (0.5%, capped at RM6,000 of wages), EIS (0.2%, same cap), and PCB (monthly tax deduction). Your employer also pays EPF (12–13%), SOCSO and EIS on top of your salary.',
+         '四项：雇员公积金（11%）、社险 SOCSO（0.5%，封顶于 RM6,000 工资）、就业保险 EIS（0.2%，同样封顶）以及 PCB（每月预扣税）。雇主另在你薪资之上缴纳公积金（12–13%）、社险与就业保险。'),
+  },
+  {
+    q: L('Adakah ini kiraan PCB yang tepat?', 'Is the PCB figure exact?', 'PCB 数字准确吗？'),
+    a: L('PCB di sini adalah anggaran: kami mengira cukai tahunan anda (pelepasan diri + KWSP) dan membahagikannya dengan 12. PCB sebenar menggunakan formula majikan dengan pelepasan terkumpul; muktamadnya diselaraskan apabila anda memfail. SOCSO dan EIS mengikut jadual caruman PERKESO mengikut jalur gaji.',
+         'The PCB here is an estimate: we compute your annual tax (self relief + EPF) and divide by 12. Actual PCB uses the employer MTD formula with accumulated reliefs; it is reconciled when you file. SOCSO and EIS follow PERKESO’s contribution table by wage band.',
+         '这里的 PCB 为估算：我们计算你的年度税款（个人减免＋公积金）再除以 12。实际 PCB 采用雇主 MTD 公式并计入累计减免，报税时会结算。社险与就业保险按 PERKESO 的工资级距缴纳表计算。'),
+  },
+  {
+    q: L('Apa berlaku pada umur 60 tahun ke atas?', 'What changes at age 60 and above?', '60 岁及以上有何不同？'),
+    a: L('Pekerja berumur 60 tahun ke atas tidak lagi membayar bahagian KWSP 11%, jadi gaji bersih meningkat. Tandakan kotak umur untuk melihat kesannya.',
+         'Employees aged 60 and above no longer pay the 11% EPF share, so take-home rises. Tick the age box to see the effect.',
+         '60 岁及以上的雇员不再缴纳 11% 的公积金份额，实得薪资因此增加。勾选年龄选项即可看到影响。'),
+  },
+];
+
+const title = L('Kalkulator Gaji Bersih Malaysia', 'Malaysia Salary Take-Home Calculator', '马来西亚实得工资计算器');
+const heroDesc = L(
+  'Lihat gaji bersih bulanan anda selepas KWSP, PERKESO, SIP dan PCB — serta kos sebenar kepada majikan. Semua dalam pelayar; tiada data dihantar.',
+  'See your monthly take-home after EPF, SOCSO, EIS and PCB — plus the real cost to your employer. All in your browser; no data sent.',
+  '查看扣除公积金、社险、就业保险与预扣税后的每月实得工资——以及雇主的真实成本。全部在浏览器中运行，数据不外传。',
+);
+
+const ui = {
+  ya: L('Tahun Taksiran', 'Year of Assessment', '课税年度'),
+  gross: L('Gaji kasar bulanan (RM)', 'Monthly gross salary (RM)', '每月税前工资（RM）'),
+  resident: L('Pemastautin cukai', 'Tax resident', '税务居民'),
+  age60: L('Umur 60 ke atas (tiada KWSP pekerja)', 'Age 60+ (no employee EPF)', '60岁及以上（无雇员公积金）'),
+  takeHome: L('Gaji bersih bulanan', 'Monthly take-home', '每月实得'),
+  annual: L('≈ setahun', '≈ per year', '≈ 每年'),
+  deductions: L('Potongan', 'Deductions', '扣除'),
+  epf: L('KWSP (11%)', 'EPF (11%)', '公积金 (11%)'),
+  socso: L('PERKESO', 'SOCSO', '社险'),
+  eis: L('SIP', 'EIS', '就业保险'),
+  pcb: L('PCB (anggaran)', 'PCB (estimate)', 'PCB（估算）'),
+  rate: L('Peratus dibawa pulang', 'Take-home rate', '实得比例'),
+  employerH: L('Kos kepada majikan', 'Cost to employer', '雇主成本'),
+  employerEpf: L('KWSP majikan', 'Employer EPF', '雇主公积金'),
+  totalCost: L('Jumlah kos majikan', 'Total employer cost', '雇主总成本'),
+  asOf: L('Kadar setakat', 'Rates as of', '税率截至'),
+  disclaimer: L(
+    'Anggaran sahaja, bukan nasihat gaji atau cukai. KWSP 11% adalah tepat; PERKESO dan SIP di sini menganggar jadual jalur caruman, dan PCB dianggar daripada cukai tahunan. Sahkan dengan slip gaji, KWSP dan PERKESO.',
+    'Estimate only, not payroll or tax advice. EPF 11% is exact; SOCSO and EIS here approximate the banded contribution table, and PCB is estimated from annual tax. Verify against your payslip, EPF and PERKESO.',
+    '仅为估算，非薪资或税务建议。公积金 11% 为精确值；此处社险与就业保险按级距缴纳表估算，PCB 由年度税款估算。请以工资单、公积金与 PERKESO 核实。',
+  ),
+  howH: L('Cara ia dikira', 'How it is calculated', '计算方式'),
+  learnH: L('Ketahui lebih lanjut', 'Learn more', '了解更多'),
+};
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
+    { label: title },
+  ]}
+  title={title}
+  desc={heroDesc}
+/>
+
+<section class="container block">
+  <div class="itc" id="sth">
+    <form class="itc-form" autocomplete="off">
+      <div class="itc-row">
+        <label class="itc-field">
+          <span>{ui.ya}</span>
+          <select id="sth-ya">
+            {Object.values(TAX_YEARS).map((y) => (<option value={y.ya} selected={y.ya === DEFAULT_YA}>YA{y.ya}</option>))}
+          </select>
+        </label>
+        <label class="itc-field itc-income">
+          <span>{ui.gross}</span>
+          <input type="number" id="sth-gross" inputmode="decimal" min="0" step="100" placeholder="5000" />
+        </label>
+      </div>
+      <div class="itc-toggle">
+        <label><input type="checkbox" id="sth-resident" checked /> {ui.resident}</label>
+        <label><input type="checkbox" id="sth-age60" /> {ui.age60}</label>
+      </div>
+    </form>
+
+    <aside class="itc-out" aria-live="polite">
+      <p class="itc-asof">{ui.asOf} <span id="sth-asof">{STATUTORY.asOf}</span></p>
+      <div class="itc-headline">
+        <span class="itc-label">{ui.takeHome}</span>
+        <strong class="itc-amount" id="sth-takehome">RM0</strong>
+        <span class="itc-sub"><span id="sth-annual">RM0</span> {ui.annual} · <span id="sth-rate">0%</span> {ui.rate}</span>
+      </div>
+      <dl class="itc-lines">
+        <div><dt>{ui.epf}</dt><dd id="sth-epf">−RM0</dd></div>
+        <div><dt>{ui.socso}</dt><dd id="sth-socso">−RM0</dd></div>
+        <div><dt>{ui.eis}</dt><dd id="sth-eis">−RM0</dd></div>
+        <div><dt>{ui.pcb}</dt><dd id="sth-pcb">−RM0</dd></div>
+      </dl>
+      <div class="sth-emp">
+        <p class="sth-emp-h">{ui.employerH}</p>
+        <dl class="itc-lines">
+          <div><dt>{ui.employerEpf}</dt><dd id="sth-er-epf">RM0</dd></div>
+          <div><dt>{ui.totalCost}</dt><dd id="sth-er-total">RM0</dd></div>
+        </dl>
+      </div>
+    </aside>
+  </div>
+
+  <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
+
+  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
+
+  <div class="itc-prose">
+    <h2>{ui.howH}</h2>
+    <p>{L(
+      'Kami mulakan daripada gaji kasar bulanan anda, menolak caruman pekerja KWSP (11%), PERKESO (0.5% atas gaji sehingga RM6,000) dan SIP (0.2%), kemudian menganggar PCB dengan mengira cukai tahunan anda dan membahagikannya dengan 12. Baki ialah gaji bersih anda. Kami juga menunjukkan jumlah kos majikan — gaji anda tambah caruman majikan.',
+      'We start from your monthly gross, subtract the employee EPF share (11%), SOCSO (0.5% on wages up to RM6,000) and EIS (0.2%), then estimate PCB by computing your annual tax and dividing by 12. What remains is your take-home. We also show the total employer cost — your salary plus the employer contributions.',
+      '我们从每月税前工资出发，扣除雇员公积金份额（11%）、社险（工资至 RM6,000 的 0.5%）与就业保险（0.2%），再通过计算你的年度税款并除以 12 来估算 PCB。余额即为实得。我们还显示雇主总成本——你的薪资加上雇主缴纳部分。',
+    )}</p>
+    <h2>FAQ</h2>
+    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
+    <h2>{ui.learnH}</h2>
+    <ul class="itc-links">
+      <li><a href={localePath('/tools/income-tax-calculator', locale)}>{L('Kalkulator cukai pendapatan', 'Income tax calculator', '所得税计算器')}</a></li>
+      <li><a href={tax('pcb-monthly-tax-deduction')}>{L('PCB — Potongan Cukai Bulanan', 'PCB — Monthly Tax Deduction', 'PCB——每月税务扣除')}</a></li>
+      <li><a href={tax('personal-tax-reliefs')}>{L('Senarai pelepasan cukai', 'Personal tax reliefs', '个人税务减免')}</a></li>
+    </ul>
+    <h3>{L('Sumber', 'Sources', '来源')}</h3>
+    <ul class="itc-src">{STATUTORY.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}</ul>
+  </div>
+</section>
+
+<script>
+  import { computeSalary } from '@/lib/tax/salaryTakeHome';
+  const $ = (id) => document.getElementById(id);
+  const root = $('sth');
+  if (root) {
+    const f = new Intl.NumberFormat('en-MY', { style: 'currency', currency: 'MYR', minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    const f0 = new Intl.NumberFormat('en-MY', { style: 'currency', currency: 'MYR', maximumFractionDigits: 0 });
+    const rm = (n) => f.format(n || 0).replace('MYR', 'RM').replace(/\s/g, '');
+    const rm0 = (n) => f0.format(n || 0).replace('MYR', 'RM').replace(/\s/g, '');
+    const num = (el) => { const v = parseFloat(el && el.value); return Number.isFinite(v) && v > 0 ? v : 0; };
+    function recompute() {
+      const r = computeSalary({
+        ya: parseInt($('sth-ya').value, 10),
+        monthlyGross: num($('sth-gross')),
+        resident: $('sth-resident').checked,
+        age60plus: $('sth-age60').checked,
+      });
+      $('sth-takehome').textContent = rm(r.monthlyTakeHome);
+      $('sth-annual').textContent = rm0(r.annualTakeHome);
+      $('sth-rate').textContent = (r.takeHomeRate * 100).toFixed(1) + '%';
+      $('sth-epf').textContent = '−' + rm(r.deductions.epf);
+      $('sth-socso').textContent = '−' + rm(r.deductions.socso);
+      $('sth-eis').textContent = '−' + rm(r.deductions.eis);
+      $('sth-pcb').textContent = '−' + rm(r.deductions.pcb);
+      $('sth-er-epf').textContent = rm(r.employer.epf);
+      $('sth-er-total').textContent = rm(r.employer.totalCost);
+    }
+    root.addEventListener('input', recompute);
+    root.addEventListener('change', recompute);
+    recompute();
+  }
+</script>
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'SoftwareApplication', name: title, applicationCategory: 'FinanceApplication', operatingSystem: 'Web', offers: { '@type': 'Offer', price: '0', priceCurrency: 'MYR' }, description: heroDesc },
+    { '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+  ],
+})} />
+
+<style>
+  .itc { display: grid; grid-template-columns: 1.4fr 1fr; gap: 1.5rem; align-items: start; }
+  @media (max-width: 860px) { .itc { grid-template-columns: 1fr; } }
+  .itc-form { display: grid; gap: 1.1rem; }
+  .itc-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+  @media (max-width: 520px) { .itc-row { grid-template-columns: 1fr; } }
+  .itc-field { display: grid; gap: 0.35rem; font-size: 0.9rem; }
+  .itc-field > span { font-weight: 600; color: var(--ink-soft); }
+  .itc-field input, .itc-field select { font: inherit; padding: 0.55rem 0.7rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .itc-field input:focus, .itc-field select:focus { outline: 2px solid var(--gold); outline-offset: 1px; }
+  .itc-toggle { display: flex; flex-wrap: wrap; gap: 1rem; font-size: 0.9rem; }
+  .itc-toggle label { display: inline-flex; gap: 0.4rem; align-items: center; }
+  .itc-out { position: sticky; top: 1rem; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 1.2rem 1.3rem; }
+  .itc-asof { margin: 0 0 0.8rem; font-size: 0.72rem; color: var(--muted); }
+  .itc-headline { display: grid; gap: 0.15rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
+  .itc-label { font-size: 0.8rem; color: var(--ink-soft); font-weight: 600; }
+  .itc-amount { font-size: 2.1rem; font-weight: 800; color: var(--gold); line-height: 1.1; }
+  .itc-sub { font-size: 0.8rem; color: var(--muted); }
+  .itc-lines { display: grid; gap: 0.5rem; margin: 1rem 0 0; }
+  .itc-lines > div { display: flex; justify-content: space-between; gap: 1rem; font-size: 0.86rem; }
+  .itc-lines dt { color: var(--ink-soft); margin: 0; }
+  .itc-lines dd { margin: 0; font-weight: 700; font-variant-numeric: tabular-nums; }
+  .sth-emp { margin-top: 1rem; padding-top: 0.8rem; border-top: 1px dashed var(--line); }
+  .sth-emp-h { margin: 0; font-size: 0.78rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.03em; }
+  .itc-disclaimer { margin: 1.4rem 0 0; padding: 0.8rem 1rem; font-size: 0.82rem; line-height: 1.6; color: var(--ink-soft); background: color-mix(in srgb, var(--gold) 6%, var(--surface, transparent)); border: 1px solid color-mix(in srgb, var(--gold) 30%, transparent); border-radius: 10px; }
+  .itc-prose { max-width: 58rem; margin-top: 2.5rem; }
+  .itc-prose h2 { font-size: 1.15rem; margin: 2rem 0 0.7rem; }
+  .itc-prose h3 { font-size: 1rem; margin: 1.6rem 0 0.5rem; }
+  .itc-prose p { line-height: 1.7; color: var(--ink-soft); }
+  .itc-faq dt { font-weight: 700; margin-top: 1rem; }
+  .itc-faq dd { margin: 0.3rem 0 0; color: var(--ink-soft); line-height: 1.7; }
+  .itc-links, .itc-src { padding-left: 1.1rem; line-height: 1.9; }
+  .itc-src { font-size: 0.85rem; }
+  .itc-src a, .itc-links a { color: var(--gold); }
+</style>
