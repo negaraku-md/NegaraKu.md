@@ -27,7 +27,15 @@ jobs:
   accumulate:
     runs-on: ubuntu-latest
     steps:
+      # Check out (and later push) with an admin PAT so the snapshot commit can
+      # land on the PR-protected main branch — the default github-actions[bot] is
+      # not an admin and classic branch protection can't add it to a bypass list.
+      # Create a fine-grained PAT (Contents: Read & Write on this repo) owned by a
+      # repo admin and store it as the WORKFLOW_PAT secret. Until it exists this
+      # falls back to github.token (job stays red, as now) — no breakage.
       - uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.WORKFLOW_PAT || github.token }}
 
       - uses: actions/setup-node@v5
         with:
