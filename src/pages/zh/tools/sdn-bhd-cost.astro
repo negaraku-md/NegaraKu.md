@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import SdnBhdCostView from '@/components/SdnBhdCostView.astro';
+const locale = 'zh';
+---
+
+<BaseLayout
+  locale={locale}
+  title="马来西亚私人有限公司注册费用"
+  description="SSM 费用 + 公司秘书"
+  path="/tools/sdn-bhd-cost"
+>
+  <SdnBhdCostView locale={locale} />
+</BaseLayout>

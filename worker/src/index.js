@@ -60,6 +60,16 @@ export default {
           dest = url.pathname.slice(0, -'/.md'.length) + '/';
         }
         if (dest) return Response.redirect(url.origin + dest + url.search, 301);
+
+        // llms-full.txt is offloaded to R2 (see src/lib/llmsFull.ts) and no longer
+        // ships in the Pages artifact, so the same-origin path 404s. Send it to the
+        // R2 copy with a true 301. Keys mirror the dist paths under the _llms/
+        // prefix: /llms-full.txt → …/_llms/llms-full.txt, /en/llms-full.txt →
+        // …/_llms/en/llms-full.txt. Remove this if LLMS_FULL_BASE_URL is ever
+        // flipped back to same-origin.
+        if (url.pathname.endsWith('/llms-full.txt')) {
+          return Response.redirect('https://og.negaraku.md/_llms' + url.pathname + url.search, 301);
+        }
       }
 
       // Live analytics query (contributor-only): POST /_a/q runs a whitelisted

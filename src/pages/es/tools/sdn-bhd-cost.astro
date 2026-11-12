@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import SdnBhdCostView from '@/components/SdnBhdCostView.astro';
+const locale = 'es';
+---
+
+<BaseLayout
+  locale={locale}
+  title="Kos Penubuhan Sdn Bhd Malaysia"
+  description="Yuran SSM + setiausaha syarikat"
+  path="/tools/sdn-bhd-cost"
+>
+  <SdnBhdCostView locale={locale} />
+</BaseLayout>

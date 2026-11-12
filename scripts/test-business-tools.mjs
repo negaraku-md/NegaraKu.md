@@ -12,6 +12,7 @@ async function load(rel) {
 const { computeCorporateTax, qualifiesAsSme } = await load('src/lib/tax/corporateTax.ts');
 const { computeWorkPay } = await load('src/lib/tax/overtime.ts');
 const { checkAuditExemption, phaseFor } = await load('src/lib/tax/auditExemption.ts');
+const { computeSdnBhdCost } = await load('src/lib/tax/sdnBhdCost.ts');
 
 let pass = 0, fail = 0;
 const eq = (name, got, want, tol = 0.02) => { const ok = Math.abs(got - want) <= tol; console.log(`${ok ? 'PASS' : 'FAIL'}  ${name}: got ${got} want ${want}`); ok ? pass++ : fail++; };
@@ -49,6 +50,16 @@ ok('2026: all years 2-of-3 -> exempt', exemptCase.exempt === true);
 eq('2026 phase threshold', exemptCase.thresholds.revenue, 2_000_000);
 const notExempt = checkAuditExemption(2026, [y(2_500_000, 2_500_000, 15), y(1_000_000, 1_000_000, 10), y(1_000_000, 1_000_000, 10)]);
 ok('current year fails 2-of-3 -> not exempt', notExempt.exempt === false, `(y0 count ${notExempt.perYear[0].count})`);
+
+// --- Sdn Bhd incorporation cost ---
+const sb1 = computeSdnBhdCost();                       // defaults: shares, 1 name period
+eq('Sdn Bhd default statutory', sb1.statutoryTotal, 1_050);   // 1000 + 50
+eq('Sdn Bhd default total', sb1.total, 1_050);
+const sb2 = computeSdnBhdCost({ secretaryAnnualFee: 1_200, registeredOfficeAnnualFee: 300, includeFirstAnnualReturn: true });
+eq('Sdn Bhd statutory with AR', sb2.statutoryTotal, 1_200);   // 1000 + 50 + 150
+eq('Sdn Bhd total with prof fees', sb2.total, 2_700);         // 1200 + 1200 + 300
+eq('Sdn Bhd guarantee incorporation', computeSdnBhdCost({ companyType: 'limited-by-guarantee' }).incorporation, 3_000);
+eq('Sdn Bhd 2 name periods', computeSdnBhdCost({ nameReservationPeriods: 2 }).nameReservation, 100);
 
 console.log(`\n${pass} passed, ${fail} failed`);
 process.exit(fail ? 1 : 0);

@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import SdnBhdCostView from '@/components/SdnBhdCostView.astro';
+const locale = 'en';
+---
+
+<BaseLayout
+  locale={locale}
+  title="Malaysia Sdn Bhd Incorporation Cost"
+  description="SSM fees + company secretary"
+  path="/tools/sdn-bhd-cost"
+>
+  <SdnBhdCostView locale={locale} />
+</BaseLayout>

@@ -1,0 +1,267 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
+import SponsorCTA from './SponsorCTA.astro';
+import PageHero from './PageHero.astro';
+import { FEES } from '@/lib/tax/sdnBhdCost';
+
+interface Props { locale: Locale; }
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const sponsor = resolveSponsor(undefined, undefined, false, 'company-secretary', 'sdn-bhd-cost');
+const sponsorHref = sponsor ? sponsorUrl(sponsor, 'tools', 'sdn-bhd-cost') : '';
+
+const faqs = [
+  {
+    q: L('Berapa yuran SSM untuk menubuhkan syarikat?', 'What does SSM charge to incorporate a company?', 'SSM 注册公司收费多少？'),
+    a: L('Yuran penubuhan SSM adalah tetap mengikut jenis syarikat: RM1,000 untuk syarikat berhad menurut syer (Sdn Bhd) dan RM3,000 untuk syarikat berhad menurut jaminan. Ini yuran statutori rasmi di bawah Akta Syarikat 2016, bukan caj firma.',
+         'SSM’s incorporation fee is fixed by company type: RM1,000 for a company limited by shares (Sdn Bhd) and RM3,000 for a company limited by guarantee. These are official statutory fees under the Companies Act 2016, not firm charges.',
+         'SSM 的注册费按公司类型固定：股份有限公司（Sdn Bhd）为 RM1,000，担保有限公司为 RM3,000。这些是《2016 年公司法》下的官方法定费用，而非事务所收费。'),
+  },
+  {
+    q: L('Apa lagi kos tahun pertama?', 'What other first-year costs are there?', '第一年还有哪些费用？'),
+    a: L('Selain penubuhan: tempahan nama RM50 bagi setiap 30 hari, yuran setiausaha syarikat (ditetapkan pasaran), yuran pejabat berdaftar jika anda berkhidmat dengan firma, dan penyata tahunan pertama RM150. Yuran SSM adalah tetap; yuran setiausaha dan pejabat berdaftar berbeza mengikut firma.',
+         'Beyond incorporation: name reservation at RM50 per 30 days, the company-secretary fee (market-set), a registered-office fee if you engage a firm, and the first annual return of RM150. The SSM fees are fixed; the secretary and registered-office fees vary by firm.',
+         '除注册费外：名称预留每 30 天 RM50、公司秘书费（由市场决定）、如委托事务所则有注册地址费，以及首个年报 RM150。SSM 费用固定；秘书与注册地址费用因事务所而异。'),
+  },
+  {
+    q: L('Adakah setiausaha syarikat wajib?', 'Is a company secretary mandatory?', '公司秘书是强制的吗？'),
+    a: L('Ya. Setiap syarikat Malaysia mesti melantik sekurang-kurangnya seorang setiausaha syarikat yang berkelayakan dalam tempoh 30 hari dari penubuhan. Yuran tahunannya ditetapkan pasaran — biasanya RM600–1,500 setahun — sebab itu anda masukkannya sendiri di sini.',
+         'Yes. Every Malaysian company must appoint at least one qualified company secretary within 30 days of incorporation. The annual fee is market-set — typically RM600–1,500 a year — which is why you enter it yourself here.',
+         '是的。每家马来西亚公司必须在注册后 30 天内委任至少一名合资格的公司秘书。年费由市场决定——通常每年 RM600–1,500——因此这里需要你自行填写。'),
+  },
+];
+
+const title = L('Kalkulator Kos Penubuhan Sdn Bhd Malaysia', 'Malaysia Sdn Bhd Incorporation Cost Calculator', '马来西亚私人有限公司注册费用计算器');
+const heroDesc = L(
+  'Anggarkan kos menubuhkan Sdn Bhd di Malaysia — yuran statutori SSM yang tetap plus yuran setiausaha dan pejabat berdaftar yang ditetapkan pasaran. Semua dalam pelayar; tiada data dihantar.',
+  'Estimate the cost of incorporating a Sdn Bhd in Malaysia — the fixed statutory SSM fees plus the market-set company-secretary and registered-office fees. All in your browser; no data sent.',
+  '估算在马来西亚注册私人有限公司的费用——固定的 SSM 法定费用，加上由市场决定的公司秘书与注册地址费用。全部在浏览器中运行，数据不外传。',
+);
+
+const ui = {
+  companyType: L('Jenis syarikat', 'Company type', '公司类型'),
+  typeShares: L('Syarikat berhad menurut syer (Sdn Bhd)', 'Company limited by shares (Sdn Bhd)', '股份有限公司（Sdn Bhd）'),
+  typeGuarantee: L('Syarikat berhad menurut jaminan (Berhad/LBG)', 'Company limited by guarantee (Berhad/LBG)', '担保有限公司（Berhad/LBG）'),
+  typeUnlimited: L('Syarikat tidak berhad', 'Unlimited company', '无限公司'),
+  nameRes: L('Tempoh tempahan nama', 'Name reservation periods', '名称预留期数'),
+  nameResHint: L('RM50 setiap 30 hari, maksimum 180', 'RM50 per 30 days, max 180', 'RM50 / 30 天，最多 180'),
+  secretary: L('Yuran tahunan setiausaha syarikat (RM)', 'Company secretary annual fee (RM)', '公司秘书年费（RM）'),
+  secretaryHint: L('ditetapkan pasaran — biasanya RM600–1,500/tahun', 'market-set — typically RM600–1,500/yr', '由市场决定——通常 RM600–1,500/年'),
+  office: L('Yuran tahunan pejabat berdaftar (RM)', 'Registered office annual fee (RM)', '注册地址年费（RM）'),
+  officeHint: L('pilihan', 'optional', '可选'),
+  annualReturn: L('Sertakan penyata tahunan pertama (RM150)', 'Include first annual return (RM150)', '包含首个年报（RM150）'),
+  total: L('Jumlah anggaran kos', 'Estimated total cost', '估计总费用'),
+  statutoryH: L('Yuran statutori SSM (tetap)', 'Statutory SSM fees (fixed)', 'SSM 法定费用（固定）'),
+  professionalH: L('Yuran profesional (anda masukkan)', 'Professional fees (you entered)', '专业费用（你填写）'),
+  incorporation: L('Penubuhan', 'Incorporation', '注册费'),
+  nameReservation: L('Tempahan nama', 'Name reservation', '名称预留'),
+  annualReturnLine: L('Penyata tahunan pertama', 'First annual return', '首个年报'),
+  statutorySubtotal: L('Subjumlah statutori', 'Statutory subtotal', '法定小计'),
+  secretaryLine: L('Setiausaha syarikat', 'Company secretary', '公司秘书'),
+  officeLine: L('Pejabat berdaftar', 'Registered office', '注册地址'),
+  grandTotal: L('Jumlah keseluruhan', 'Grand total', '总计'),
+  asOf: L('Yuran setakat', 'Fees as of', '费用截至'),
+  note: L(
+    'Yuran SSM (penubuhan, tempahan nama, penyata tahunan) adalah rasmi dan tetap di bawah Akta Syarikat 2016. Yuran setiausaha syarikat dan pejabat berdaftar ditetapkan pasaran dan berbeza mengikut firma — sebab itu anda memasukkannya sendiri.',
+    'The SSM fees (incorporation, name reservation, annual return) are official and fixed under the Companies Act 2016. The company-secretary and registered-office fees are market-set and vary by firm — which is why you enter them yourself.',
+    'SSM 费用（注册、名称预留、年报）是《2016 年公司法》下的官方固定费用。公司秘书与注册地址费用由市场决定、因事务所而异——因此需要你自行填写。',
+  ),
+  disclaimer: L(
+    'Anggaran sahaja, bukan nasihat guaman, cukai atau perakaunan. Yuran statutori SSM betul setakat tarikh ditunjukkan; yuran profesional ialah nilai yang anda masukkan. Sahkan dengan SSM dan firma setiausaha anda.',
+    'Estimate only, not legal, tax or accounting advice. The statutory SSM fees are correct as of the date shown; the professional fees are the values you entered. Verify with SSM and your secretarial firm.',
+    '仅为估算，非法律、税务或会计建议。SSM 法定费用截至所示日期有效；专业费用为你填写的数值。请以 SSM 及你的秘书事务所核实。',
+  ),
+  howH: L('Cara ia dikira', 'How it is calculated', '计算方式'),
+  learnH: L('Ketahui lebih lanjut', 'Learn more', '了解更多'),
+};
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
+    { label: title },
+  ]}
+  title={title}
+  desc={heroDesc}
+/>
+
+<section class="container block">
+  <div class="itc" id="sbc">
+    <form class="itc-form" autocomplete="off">
+      <div class="itc-row">
+        <label class="itc-field itc-income">
+          <span>{ui.companyType}</span>
+          <select id="sbc-type">
+            <option value="limited-by-shares" selected>{ui.typeShares}</option>
+            <option value="limited-by-guarantee">{ui.typeGuarantee}</option>
+            <option value="unlimited">{ui.typeUnlimited}</option>
+          </select>
+        </label>
+      </div>
+      <div class="itc-row">
+        <label class="itc-field">
+          <span>{ui.nameRes}</span>
+          <input type="number" id="sbc-nameres" inputmode="numeric" min="0" max="6" step="1" value="1" />
+          <small class="itc-hint">{ui.nameResHint}</small>
+        </label>
+        <label class="itc-field">
+          <span>{ui.secretary}</span>
+          <input type="number" id="sbc-secretary" inputmode="decimal" min="0" step="50" value="0" placeholder="0" />
+          <small class="itc-hint">{ui.secretaryHint}</small>
+        </label>
+      </div>
+      <div class="itc-row">
+        <label class="itc-field">
+          <span>{ui.office}</span>
+          <input type="number" id="sbc-office" inputmode="decimal" min="0" step="50" value="0" placeholder="0" />
+          <small class="itc-hint">{ui.officeHint}</small>
+        </label>
+      </div>
+      <div class="itc-toggle">
+        <label><input type="checkbox" id="sbc-annualreturn" /> {ui.annualReturn}</label>
+      </div>
+    </form>
+
+    <aside class="itc-out" aria-live="polite">
+      <p class="itc-asof">{ui.asOf} <span id="sbc-asof">{FEES.asOf}</span></p>
+      <div class="itc-headline">
+        <span class="itc-label">{ui.total}</span>
+        <strong class="itc-amount" id="sbc-total">RM0</strong>
+      </div>
+
+      <div class="sbc-group">
+        <p class="sbc-group-h">{ui.statutoryH}</p>
+        <dl class="itc-lines">
+          <div><dt>{ui.incorporation}</dt><dd id="sbc-incorporation">RM0</dd></div>
+          <div><dt>{ui.nameReservation}</dt><dd id="sbc-namereservation">RM0</dd></div>
+          <div id="sbc-annualreturn-row" hidden><dt>{ui.annualReturnLine}</dt><dd id="sbc-annualreturn-amt">RM0</dd></div>
+          <div class="sbc-subtotal"><dt>{ui.statutorySubtotal}</dt><dd id="sbc-statutorytotal">RM0</dd></div>
+        </dl>
+      </div>
+
+      <div class="sbc-group">
+        <p class="sbc-group-h">{ui.professionalH}</p>
+        <dl class="itc-lines">
+          <div><dt>{ui.secretaryLine}</dt><dd id="sbc-secretary-amt">RM0</dd></div>
+          <div><dt>{ui.officeLine}</dt><dd id="sbc-office-amt">RM0</dd></div>
+        </dl>
+      </div>
+
+      <dl class="itc-lines sbc-grand">
+        <div><dt>{ui.grandTotal}</dt><dd id="sbc-grandtotal">RM0</dd></div>
+      </dl>
+    </aside>
+  </div>
+
+  <p class="itc-note">ℹ️ {ui.note}</p>
+  <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
+
+  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
+
+  <div class="itc-prose">
+    <h2>{ui.howH}</h2>
+    <p>{L(
+      'Kami tambah yuran statutori SSM yang tetap — penubuhan (mengikut jenis syarikat), tempahan nama (RM50 bagi setiap 30 hari), dan penyata tahunan pertama RM150 jika disertakan — untuk mendapat subjumlah statutori. Kemudian kami tambah yuran profesional yang anda masukkan (setiausaha syarikat dan pejabat berdaftar) untuk jumlah keseluruhan. Yuran SSM rasmi dan tetap; yuran profesional ditetapkan pasaran, jadi anda masukkannya sendiri.',
+      'We add the fixed statutory SSM fees — incorporation (by company type), name reservation (RM50 per 30 days), and the RM150 first annual return if included — to get the statutory subtotal. We then add the professional fees you entered (company secretary and registered office) for the grand total. The SSM fees are official and fixed; the professional fees are market-set, so you enter them yourself.',
+      '我们将固定的 SSM 法定费用相加——注册费（按公司类型）、名称预留（每 30 天 RM50）以及（如包含）RM150 首个年报——得出法定小计。然后加上你填写的专业费用（公司秘书与注册地址）得出总计。SSM 费用为官方固定；专业费用由市场决定，因此由你自行填写。',
+    )}</p>
+    <h2>FAQ</h2>
+    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
+    <h2>{ui.learnH}</h2>
+    <ul class="itc-links">
+      <li><a href={localePath('/business/ssm-fees-malaysia', locale)}>{L('Yuran SSM Malaysia', 'SSM fees in Malaysia', '马来西亚 SSM 费用')}</a></li>
+      <li><a href={localePath('/business/register-sdn-bhd', locale)}>{L('Cara mendaftar Sdn Bhd', 'How to register a Sdn Bhd', '如何注册私人有限公司')}</a></li>
+      <li><a href={localePath('/company-secretary/appoint-company-secretary', locale)}>{L('Melantik setiausaha syarikat', 'Appointing a company secretary', '委任公司秘书')}</a></li>
+    </ul>
+    <h3>{L('Sumber', 'Sources', '来源')}</h3>
+    <ul class="itc-src">{FEES.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}</ul>
+  </div>
+</section>
+
+<script>
+  import { computeSdnBhdCost } from '@/lib/tax/sdnBhdCost';
+  const $ = (id) => document.getElementById(id);
+  const root = $('sbc');
+  if (root) {
+    const f0 = new Intl.NumberFormat('en-MY', { style: 'currency', currency: 'MYR', maximumFractionDigits: 0 });
+    const rm0 = (n) => f0.format(n || 0).replace('MYR', 'RM').replace(/\s/g, '');
+    const num = (el) => { const v = parseFloat(el && el.value); return Number.isFinite(v) && v > 0 ? v : 0; };
+    function recompute() {
+      const r = computeSdnBhdCost({
+        companyType: $('sbc-type').value,
+        nameReservationPeriods: num($('sbc-nameres')),
+        secretaryAnnualFee: num($('sbc-secretary')),
+        registeredOfficeAnnualFee: num($('sbc-office')),
+        includeFirstAnnualReturn: $('sbc-annualreturn').checked,
+      });
+      $('sbc-total').textContent = rm0(r.total);
+      $('sbc-incorporation').textContent = rm0(r.incorporation);
+      $('sbc-namereservation').textContent = rm0(r.nameReservation);
+      const arRow = $('sbc-annualreturn-row');
+      if (r.annualReturn > 0) { arRow.hidden = false; $('sbc-annualreturn-amt').textContent = rm0(r.annualReturn); }
+      else { arRow.hidden = true; }
+      $('sbc-statutorytotal').textContent = rm0(r.statutoryTotal);
+      $('sbc-secretary-amt').textContent = rm0(r.secretary);
+      $('sbc-office-amt').textContent = rm0(r.registeredOffice);
+      $('sbc-grandtotal').textContent = rm0(r.total);
+    }
+    root.addEventListener('input', recompute);
+    root.addEventListener('change', recompute);
+    recompute();
+  }
+</script>
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'SoftwareApplication', name: title, applicationCategory: 'FinanceApplication', operatingSystem: 'Web', offers: { '@type': 'Offer', price: '0', priceCurrency: 'MYR' }, description: heroDesc },
+    { '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+  ],
+})} />
+
+<style>
+  .itc { display: grid; grid-template-columns: 1.4fr 1fr; gap: 1.5rem; align-items: start; }
+  @media (max-width: 860px) { .itc { grid-template-columns: 1fr; } }
+  .itc-form { display: grid; gap: 1.1rem; }
+  .itc-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+  @media (max-width: 520px) { .itc-row { grid-template-columns: 1fr; } }
+  .itc-field { display: grid; gap: 0.35rem; font-size: 0.9rem; }
+  .itc-field > span { font-weight: 600; color: var(--ink-soft); }
+  .itc-field input, .itc-field select { font: inherit; padding: 0.55rem 0.7rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .itc-field input:focus, .itc-field select:focus { outline: 2px solid var(--gold); outline-offset: 1px; }
+  .itc-hint { font-size: 0.72rem; color: var(--muted); }
+  .itc-toggle { display: flex; flex-wrap: wrap; gap: 1rem; font-size: 0.9rem; }
+  .itc-toggle label { display: inline-flex; gap: 0.4rem; align-items: center; }
+  .itc-out { position: sticky; top: 1rem; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 1.2rem 1.3rem; }
+  .itc-asof { margin: 0 0 0.8rem; font-size: 0.72rem; color: var(--muted); }
+  .itc-headline { display: grid; gap: 0.15rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
+  .itc-label { font-size: 0.8rem; color: var(--ink-soft); font-weight: 600; }
+  .itc-amount { font-size: 2.1rem; font-weight: 800; color: var(--gold); line-height: 1.1; }
+  .sbc-group { margin-top: 1rem; }
+  .sbc-group-h { margin: 0 0 0.4rem; font-size: 0.78rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.03em; }
+  .itc-lines { display: grid; gap: 0.5rem; margin: 0; }
+  .itc-lines > div { display: flex; justify-content: space-between; gap: 1rem; font-size: 0.86rem; }
+  .itc-lines dt { color: var(--ink-soft); margin: 0; }
+  .itc-lines dd { margin: 0; font-weight: 700; font-variant-numeric: tabular-nums; }
+  .sbc-subtotal { margin-top: 0.3rem; padding-top: 0.5rem; border-top: 1px dashed var(--line); }
+  .sbc-subtotal dt, .sbc-subtotal dd { font-weight: 700; }
+  .sbc-grand { margin-top: 1rem; padding-top: 0.8rem; border-top: 1px solid var(--line); }
+  .sbc-grand dt { font-weight: 800; color: var(--ink); }
+  .sbc-grand dd { font-weight: 800; color: var(--gold); }
+  .itc-note { margin: 1.4rem 0 0; padding: 0.8rem 1rem; font-size: 0.82rem; line-height: 1.6; color: var(--ink-soft); background: var(--surface); border: 1px solid var(--line); border-radius: 10px; }
+  .itc-disclaimer { margin: 0.8rem 0 0; padding: 0.8rem 1rem; font-size: 0.82rem; line-height: 1.6; color: var(--ink-soft); background: color-mix(in srgb, var(--gold) 6%, var(--surface, transparent)); border: 1px solid color-mix(in srgb, var(--gold) 30%, transparent); border-radius: 10px; }
+  .itc-prose { max-width: 58rem; margin-top: 2.5rem; }
+  .itc-prose h2 { font-size: 1.15rem; margin: 2rem 0 0.7rem; }
+  .itc-prose h3 { font-size: 1rem; margin: 1.6rem 0 0.5rem; }
+  .itc-prose p { line-height: 1.7; color: var(--ink-soft); }
+  .itc-faq dt { font-weight: 700; margin-top: 1rem; }
+  .itc-faq dd { margin: 0.3rem 0 0; color: var(--ink-soft); line-height: 1.7; }
+  .itc-links, .itc-src { padding-left: 1.1rem; line-height: 1.9; }
+  .itc-src { font-size: 0.85rem; }
+  .itc-src a, .itc-links a { color: var(--gold); }
+</style>

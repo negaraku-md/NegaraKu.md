@@ -147,6 +147,11 @@ export const TOOLS: Tool[] = [
     title: L('Penyemak Pengecualian Audit', 'Audit Exemption Checker', '审计豁免检查器', 'தணிக்கை விலக்கு சரிபார்ப்பு', '監査免除チェッカー', '감사 면제 확인기', 'ตัวตรวจการยกเว้นตรวจสอบบัญชี', 'Kiểm tra miễn kiểm toán', 'Pemeriksa Pengecualian Audit', 'فاحص إعفاء التدقيق', 'ऑडिट छूट जाँचकर्ता', 'Verificador de exención de auditoría', 'Vérificateur d’exemption d’audit'),
     blurb: L('Ambang 2-daripada-3 (PD 10/2024).', '2-of-3 thresholds (PD 10/2024).', '三选二门槛（PD 10/2024）。', '3-இல்-2 வரம்புகள் (PD 10/2024).', '3つのうち2つの基準（PD 10/2024）。', '3개 중 2개 기준 (PD 10/2024).', 'เกณฑ์ 2 ใน 3 (PD 10/2024)', 'Ngưỡng 2-trên-3 (PD 10/2024).', 'Ambang 2-dari-3 (PD 10/2024).', 'عتبات 2 من 3 (PD 10/2024).', '3 में से 2 सीमाएँ (PD 10/2024)।', 'Umbrales 2 de 3 (PD 10/2024).', 'Seuils 2 sur 3 (PD 10/2024).'),
   },
+  {
+    id: 'sdn-bhd-cost', href: '/tools/sdn-bhd-cost', icon: '🏗️', color: '#A3E635', status: 'live', group: 'business',
+    title: L('Kos Penubuhan Sdn Bhd', 'Sdn Bhd Setup Cost', '私人有限公司注册费用', 'Sdn Bhd அமைப்புச் செலவு', 'Sdn Bhd 設立費用', 'Sdn Bhd 설립 비용', 'ค่าจัดตั้ง Sdn Bhd', 'Chi phí lập Sdn Bhd', 'Biaya Pendirian Sdn Bhd', 'تكلفة تأسيس Sdn Bhd', 'Sdn Bhd स्थापना लागत', 'Coste de constituir una Sdn Bhd', 'Coût de création d’une Sdn Bhd'),
+    blurb: L('Yuran SSM + kos tahun pertama.', 'SSM fees + first-year setup costs.', 'SSM 费用＋首年注册成本。', 'SSM கட்டணம் + முதலாம் ஆண்டு செலவு.', 'SSM 手数料＋初年度費用。', 'SSM 수수료 + 첫 해 설립 비용.', 'ค่าธรรมเนียม SSM + ต้นทุนปีแรก', 'Phí SSM + chi phí năm đầu.', 'Biaya SSM + biaya tahun pertama.', 'رسوم SSM + تكاليف السنة الأولى.', 'SSM शुल्क + पहले वर्ष की लागत।', 'Tasas SSM + costes del primer año.', 'Frais SSM + coûts de première année.'),
+  },
 ];
 
 const by = (locale: Locale) => (t: Tool) => ({ ...t, label: t.title[locale], desc: t.blurb[locale] });
@@ -242,6 +247,11 @@ const ARTICLE_TOOL: Record<string, string> = {
   'audit/audit-exemption': 'audit-exemption-checker',
   'accounting/audit-exemption-criteria': 'audit-exemption-checker',
   'accounting/statutory-audit-requirement': 'audit-exemption-checker',
+  // Sdn Bhd incorporation cost
+  'business/register-sdn-bhd': 'sdn-bhd-cost',
+  'business/ssm-fees-malaysia': 'sdn-bhd-cost',
+  'business/sole-prop-vs-sdn-bhd': 'sdn-bhd-cost',
+  'business/what-is-sdn-bhd': 'sdn-bhd-cost',
 };
 
 /** The live tool to surface on an article, or null. Key = "category/slug". */
