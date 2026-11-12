@@ -1,0 +1,79 @@
+---
+// ToolExtras — the shared "article-grade" feature block appended to every tool
+// (pilot: income-tax). Gives a tool the reader features articles have without
+// making it a content entry: an "updated" trust line, a report-an-error link,
+// a related-tools strip, and an embed snippet. Registry-driven (src/lib/tools.ts)
+// so one component covers all tools; roll out by adding <ToolExtras> to each View.
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { liveTools } from '@/lib/tools';
+import { REPO } from '@/lib/site';
+
+interface Props { locale: Locale; toolId: string; asOf?: string; }
+const { locale, toolId, asOf } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const all = liveTools(locale);
+const self = all.find((t) => t.id === toolId);
+const others = all.filter((t) => t.id !== toolId).slice(0, 6);
+
+const embedUrl = `https://negaraku.md${localePath(`/embed/tools/${toolId}`, locale)}`;
+const iframe = `<iframe src="${embedUrl}" width="100%" height="680" loading="lazy" style="border:0;border-radius:12px" title="${(self?.label ?? toolId).replace(/"/g, '&quot;')}"></iframe>`;
+const issueUrl = `${REPO}/issues/new?title=${encodeURIComponent(`Tool: ${self?.label ?? toolId}`)}&body=${encodeURIComponent(`Tool: ${toolId}\n\nWhat is wrong / what should it say:\n`)}`;
+---
+
+<section class="tx" data-pagefind-ignore aria-label={L('Alat berkaitan & maklum balas', 'Related tools & feedback', '相关工具与反馈')}>
+  <div class="tx-meta">
+    {asOf && <span class="tx-updated">{L('Dikemas kini', 'Updated', '更新于')} {asOf}</span>}
+    <a class="tx-report" href={issueUrl} target="_blank" rel="noopener noreferrer">{L('Jumpa ralat? Laporkan', 'Spot an error? Report it', '发现错误？报告')} ↗</a>
+  </div>
+
+  <h3 class="tx-h">{L('Alat lain', 'More tools', '更多工具')}</h3>
+  <ul class="tx-tools">
+    {others.map((t) => (
+      <li><a href={localePath(t.href, locale)}><span class="tx-ico" aria-hidden="true">{t.icon}</span>{t.label}</a></li>
+    ))}
+  </ul>
+
+  <details class="tx-embed">
+    <summary>{L('Benamkan alat ini di laman anda', 'Embed this tool on your site', '将此工具嵌入你的网站')}</summary>
+    <p class="tx-embed-hint">{L('Salin kod ini (percuma, tiada pendaftaran):', 'Copy this code (free, no sign-up):', '复制此代码（免费，无需注册）：')}</p>
+    <textarea class="tx-code" readonly rows="3" set:text={iframe}></textarea>
+    <button type="button" class="tx-copy" data-tx-copy>{L('Salin kod', 'Copy code', '复制代码')}</button>
+    <span class="tx-copied" hidden>{L('Disalin!', 'Copied!', '已复制！')}</span>
+  </details>
+</section>
+
+<script>
+  document.querySelectorAll('[data-tx-copy]').forEach((btn) => {
+    btn.addEventListener('click', async () => {
+      const wrap = btn.closest('.tx-embed');
+      const ta = wrap && wrap.querySelector('textarea');
+      if (!ta) return;
+      try { await navigator.clipboard.writeText(ta.value); }
+      catch { ta.select(); try { document.execCommand('copy'); } catch {} }
+      const ok = wrap.querySelector('.tx-copied');
+      if (ok) { ok.hidden = false; setTimeout(() => { ok.hidden = true; }, 1800); }
+    });
+  });
+</script>
+
+<style>
+  .tx { max-width: 58rem; margin: 2.5rem 0 0; padding-top: 1.6rem; border-top: 1px solid var(--line); }
+  .tx-meta { display: flex; flex-wrap: wrap; gap: 0.5rem 1.2rem; align-items: center; font-size: 0.85rem; margin-bottom: 1.4rem; }
+  .tx-updated { color: var(--muted); }
+  .tx-report { color: var(--gold); text-decoration: none; }
+  .tx-report:hover { text-decoration: underline; }
+  .tx-h { font-size: 1rem; margin: 0 0 0.7rem; }
+  .tx-tools { list-style: none; padding: 0; margin: 0 0 1.8rem; display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 0.5rem; }
+  .tx-tools a { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.5rem 0.7rem; border: 1px solid var(--line); border-radius: 10px; text-decoration: none; color: var(--ink); font-size: 0.88rem; }
+  .tx-tools a:hover { border-color: var(--gold); }
+  .tx-ico { font-size: 1.1rem; }
+  .tx-embed { border: 1px solid var(--line); border-radius: 12px; padding: 0.9rem 1.1rem; }
+  .tx-embed summary { font-weight: 700; cursor: pointer; }
+  .tx-embed-hint { font-size: 0.85rem; color: var(--ink-soft); margin: 0.7rem 0 0.4rem; }
+  .tx-code { width: 100%; font-family: var(--mono, monospace); font-size: 0.78rem; padding: 0.6rem 0.7rem; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); color: var(--ink); resize: vertical; }
+  .tx-copy { margin-top: 0.6rem; font: inherit; font-size: 0.85rem; padding: 0.4rem 0.9rem; border-radius: 8px; border: 1px solid var(--gold); background: var(--gold); color: #000; cursor: pointer; }
+  .tx-copy:hover { filter: brightness(1.05); }
+  .tx-copied { margin-left: 0.6rem; font-size: 0.85rem; color: var(--gold); }
+</style>

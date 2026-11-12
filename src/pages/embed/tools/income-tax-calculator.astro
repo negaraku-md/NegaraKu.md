@@ -1,0 +1,15 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import IncomeTaxCalculatorView from '@/components/IncomeTaxCalculatorView.astro';
+const locale = 'ms';
+---
+
+<BaseLayout
+  locale={locale}
+  title="Kalkulator Cukai Pendapatan"
+  description="Embeddable Malaysia income tax calculator."
+  path="/embed/tools/income-tax-calculator"
+  bare
+>
+  <IncomeTaxCalculatorView locale={locale} embed />
+</BaseLayout>

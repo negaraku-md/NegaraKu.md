@@ -4,6 +4,7 @@ import { localePath } from '@/lib/i18n';
 import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
 import SponsorCTA from './SponsorCTA.astro';
 import PageHero from './PageHero.astro';
+import ToolExtras from './ToolExtras.astro';
 import { TAX_YEARS, DEFAULT_YA, type Lang } from '@/lib/tax/incomeTax';
 
 // Malaysia Personal Income Tax / PCB calculator — the interactive layer on
@@ -12,8 +13,10 @@ import { TAX_YEARS, DEFAULT_YA, type Lang } from '@/lib/tax/incomeTax';
 
 interface Props {
   locale: Locale;
+  /** Embed mode: render only the calculator widget (no hero/FAQ/sources/sponsor). */
+  embed?: boolean;
 }
-const { locale } = Astro.props;
+const { locale, embed = false } = Astro.props;
 const lang = locale as Lang;
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
 const tl = (m: Partial<Record<Lang, string>>) => m[lang] ?? m.en ?? m.ms ?? '';
@@ -96,6 +99,7 @@ const ui = {
 };
 ---
 
+{!embed && (
 <PageHero
   locale={locale}
   crumb={[
@@ -105,6 +109,7 @@ const ui = {
   title={title}
   desc={heroDesc}
 />
+)}
 
 <section class="container block">
   <div class="itc" id="itc" data-capped={ui.capped}>
@@ -194,8 +199,9 @@ const ui = {
 
   <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
 
-  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
+  {!embed && sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
 
+  {!embed && (
   <div class="itc-prose">
     <h2>{ui.howH}</h2>
     <p>{L(
@@ -222,6 +228,12 @@ const ui = {
       {data.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}
     </ul>
   </div>
+  )}
+
+  {!embed && <ToolExtras locale={locale} toolId="income-tax-calculator" asOf={String(DEFAULT_YA)} />}
+  {embed && (
+    <p style="text-align:center; padding:1rem 0 0; font-size:0.9rem;"><a href={localePath('/tools/income-tax-calculator', locale)} target="_blank" rel="noopener">{L('Buka kalkulator penuh di NegaraKu.md', 'Open the full calculator on NegaraKu.md', '在 NegaraKu.md 打开完整计算器')} ↗</a></p>
+  )}
 </section>
 
 <script>
