@@ -92,8 +92,8 @@ export async function buildLlmsIndex(locale: Locale): Promise<string> {
   // cap the long tail, and — when a topic is truncated — link its category hub so an
   // agent can still reach every article. The complete machine-readable set (every
   // article) lives in the ## Optional links below, so nothing is lost by slimming.
-  const MIN_PER_CAT = 5; // even a pillar-less or thin topic shows a few entries
-  const MAX_PER_CAT = 15; // keep a huge topic from swamping the map
+  const MIN_PER_CAT = 8; // even a pillar-less or thin topic shows a solid sample
+  const MAX_PER_CAT = 15; // safety cap (no category exceeds ~11 pillars today)
 
   for (const cat of CATEGORIES) {
     const arts = byCat.get(cat.id);
