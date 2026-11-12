@@ -67,7 +67,7 @@ sources:
     publisher: "الوكالة الماليزية للمؤهّلات (Malaysian Qualifications Agency، MQA)"
 entity: "IPTA/IPTS higher education system"
 relations: []
-related: []
+related: ["after-spm-options", "pre-university-routes"]
 keywords: ["IPTA مقابل IPTS", "IPTA vs IPTS", "الجامعة العامة ماليزيا", "الجامعة الخاصة ماليزيا", "طلب UPU الإلكتروني", "اعتماد MQA", "Malaysian Qualifications Register", "الجامعات العامة ماليزيا", "MQF Malaysia"]
 faq:
   - q: هل يخبرني وسم IPTA (حكومي) أو IPTS (خاص) بما إذا كانت الشهادة ستُعترَف بها؟

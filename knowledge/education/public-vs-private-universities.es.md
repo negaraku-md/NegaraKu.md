@@ -67,7 +67,7 @@ sources:
     publisher: "Agencia de Cualificaciones de Malasia (Malaysian Qualifications Agency, MQA)"
 entity: "IPTA/IPTS higher education system"
 relations: []
-related: []
+related: ["after-spm-options", "pre-university-routes"]
 keywords: ["IPTA vs IPTS", "universidad pública Malasia", "universidad privada Malasia", "solicitud en línea UPU", "acreditación MQA", "Malaysian Qualifications Register", "universiti awam Malaysia", "MQF Malaysia"]
 faq:
   - q: ¿La etiqueta IPTA (pública) o IPTS (privada) me dice si un título será reconocido?

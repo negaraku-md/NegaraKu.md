@@ -67,7 +67,7 @@ sources:
     publisher: "Cơ quan Bằng cấp Malaysia (MQA)"
 entity: "IPTA/IPTS higher education system"
 relations: []
-related: []
+related: ["after-spm-options", "pre-university-routes"]
 keywords: ["IPTA vs IPTS", "public university Malaysia", "private university Malaysia", "UPU online application", "MQA accreditation", "Malaysian Qualifications Register", "universiti awam Malaysia", "MQF Malaysia"]
 faq:
   - q: Nhãn IPTA hay IPTS có cho tôi biết liệu một bằng cấp có được công nhận hay không?

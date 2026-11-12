@@ -77,7 +77,7 @@ wikidata: "Q10408827"
 relations:
   - { rel: "administered-by", to: "dong-zong" }
   - { rel: "related-to", to: "sistem-pendidikan-malaysia" }
-related: []
+related: ["after-spm-options", "pre-university-routes", "public-vs-private-universities", "chinese-education-in-malaysia", "foreign-university-branch-campuses-and-education-hubs"]
 keywords: ["UEC", "Sijil Peperiksaan Bersama", "एकीकृत परीक्षा प्रमाणपत्र", "Dong Zong", "चीनी निजी माध्यमिक विद्यालय", "UEC मान्यता", "IPTA", "राष्ट्रभाषा"]
 framework: explainer
 ---

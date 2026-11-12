@@ -83,7 +83,7 @@ wikidata: "Q7354435"
 relations:
   - { rel: "related-to", to: "ptptn-education-loan" }
   - { rel: "administered-by", to: "public-service-department" }
-related: []
+related: ["after-spm-options", "ptptn-student-loan"]
 keywords: ["منحة JPA", "biasiswa JPA", "الرعاية الحكومية", "MARA", "مؤسسة خزانة", "Yayasan Khazanah", "PETRONAS PESP", "القرض القابل للتحويل", "pinjaman boleh ubah", "PTPTN", "المنح الدراسية الماليزية"]
 framework: explainer
 ---

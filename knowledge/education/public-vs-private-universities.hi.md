@@ -67,7 +67,7 @@ sources:
     publisher: "मलेशियाई योग्यता एजेंसी (Malaysian Qualifications Agency, MQA)"
 entity: "IPTA/IPTS higher education system"
 relations: []
-related: []
+related: ["after-spm-options", "pre-university-routes"]
 keywords: ["IPTA बनाम IPTS", "IPTA vs IPTS", "सार्वजनिक विश्वविद्यालय मलेशिया", "निजी विश्वविद्यालय मलेशिया", "UPU ऑनलाइन आवेदन", "MQA प्रत्यायन", "Malaysian Qualifications Register", "universiti awam Malaysia", "MQF Malaysia"]
 faq:
   - q: क्या IPTA (सार्वजनिक) या IPTS (निजी) का लेबल मुझे बताता है कि कोई डिग्री मान्य होगी या नहीं?

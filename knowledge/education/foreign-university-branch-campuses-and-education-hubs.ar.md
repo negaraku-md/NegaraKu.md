@@ -105,7 +105,7 @@ entity: "Foreign University Branch Campus (Malaysia)"
 relations:
   - { rel: "related-to", to: "international-students-in-malaysia" }
   - { rel: "related-to", to: "iskandar-malaysia-economic-corridor" }
-related: []
+related: ["after-spm-options", "public-vs-private-universities"]
 keywords: ["فروع الجامعات الأجنبية", "foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "مركز تعليمي", "education hub", "التعليم عبر الوطني", "transnational education"]
 framework: explainer
 ---

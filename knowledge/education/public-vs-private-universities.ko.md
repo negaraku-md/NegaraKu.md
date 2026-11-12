@@ -67,7 +67,7 @@ sources:
     publisher: "말레이시아 자격인증원 (MQA)"
 entity: "IPTA/IPTS higher education system"
 relations: []
-related: []
+related: ["after-spm-options", "pre-university-routes"]
 keywords: ["IPTA vs IPTS", "public university Malaysia", "private university Malaysia", "UPU online application", "MQA accreditation", "Malaysian Qualifications Register", "universiti awam Malaysia", "MQF Malaysia"]
 faq:
   - q: IPTA(국립)인지 IPTS(사립)인지의 표시가 학위가 인정될지 여부를 알려주는가?

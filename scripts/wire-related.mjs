@@ -53,6 +53,15 @@ const PLAN = [
   // #3 — Council pair, now DIFFERENTIATED: civic explainer <-> elections-history.
   { base: 'government/local-government-in-malaysia', add: ['local-government-councils'] },
   { base: 'government/local-government-councils', add: ['local-government-in-malaysia'] },
+
+  // #2 — After-SPM cluster: hub at centre, and give the UEC island its rail.
+  { base: 'education/unified-examination-certificate-uec', add: ['after-spm-options', 'pre-university-routes', 'public-vs-private-universities', 'chinese-education-in-malaysia', 'foreign-university-branch-campuses-and-education-hubs'] },
+  { base: 'education/pre-university-routes', add: ['after-spm-options', 'unified-examination-certificate-uec', 'tvet-and-skills-training'] },
+  { base: 'education/public-vs-private-universities', add: ['after-spm-options', 'pre-university-routes'] },
+  { base: 'education/tvet-and-skills-training', add: ['after-spm-options', 'pre-university-routes'] },
+  { base: 'education/foreign-university-branch-campuses-and-education-hubs', add: ['after-spm-options', 'public-vs-private-universities'] },
+  { base: 'education/ptptn-student-loan', add: ['after-spm-options', 'jpa-and-public-scholarships'] },
+  { base: 'education/jpa-and-public-scholarships', add: ['after-spm-options', 'ptptn-student-loan'] },
 ];
 
 // ---- validate every slug in the plan actually exists on disk --------------

@@ -67,7 +67,7 @@ sources:
     publisher: "மலேசியத் தகுதி முகமை (MQA)"
 entity: "IPTA/IPTS higher education system"
 relations: []
-related: []
+related: ["after-spm-options", "pre-university-routes"]
 keywords: ["IPTA vs IPTS", "public university Malaysia", "private university Malaysia", "UPU online application", "MQA accreditation", "Malaysian Qualifications Register", "universiti awam Malaysia", "MQF Malaysia"]
 faq:
   - q: IPTA அல்லது IPTS என்ற பெயர்ச்சீட்டு ஒரு பட்டம் அங்கீகரிக்கப்படுமா என்பதை எனக்குச் சொல்லுமா?

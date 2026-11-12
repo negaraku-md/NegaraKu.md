@@ -67,7 +67,7 @@ sources:
     publisher: "Badan Kualifikasi Malaysia (MQA)"
 entity: "IPTA/IPTS higher education system"
 relations: []
-related: []
+related: ["after-spm-options", "pre-university-routes"]
 keywords: ["IPTA vs IPTS", "public university Malaysia", "private university Malaysia", "UPU online application", "MQA accreditation", "Malaysian Qualifications Register", "universiti awam Malaysia", "MQF Malaysia"]
 faq:
   - q: Apakah label IPTA atau IPTS memberi tahu saya apakah suatu gelar akan diakui?

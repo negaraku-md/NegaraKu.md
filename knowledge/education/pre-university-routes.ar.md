@@ -71,7 +71,7 @@ relations:
   - { rel: "part-of", to: "upu" }
   - { rel: "compares-with", to: "public-vs-private-universities" }
   - { rel: "related-to", to: "ptptn-student-loan" }
-related: ["public-vs-private-universities", "ptptn-student-loan"]
+related: ["public-vs-private-universities", "ptptn-student-loan", "after-spm-options", "unified-examination-certificate-uec", "tvet-and-skills-training"]
 keywords: ["STPM مقابل Matrikulasi", "ما قبل الجامعة ماليزيا", "Sijil Tinggi Persekolahan Malaysia", "Matrikulasi KPM", "A-Level Malaysia", "Foundation Asasi Malaysia", "الدبلوم إلى الدرجة الجامعية", "فئات قبول UPU", "مسارات ما قبل الجامعة بعد SPM"]
 framework: decision
 ---

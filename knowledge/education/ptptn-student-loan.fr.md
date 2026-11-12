@@ -63,7 +63,7 @@ relations:
   - { rel: "administered-by", to: "ptptn" }
   - { rel: "part-of", to: "ministry-of-higher-education" }
   - { rel: "related-to", to: "opening-bank-account" }
-related: ["opening-bank-account"]
+related: ["opening-bank-account", "after-spm-options", "jpa-and-public-scholarships"]
 keywords: ["PTPTN", "prêt étudiant", "éligibilité PTPTN", "remboursement PTPTN", "Act 566", "financement de l'enseignement supérieur Malaisie", "SSPN"]
 framework: explainer
 ---

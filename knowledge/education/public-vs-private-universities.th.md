@@ -67,7 +67,7 @@ sources:
     publisher: "หน่วยงานรับรองคุณวุฒิมาเลเซีย (MQA)"
 entity: "IPTA/IPTS higher education system"
 relations: []
-related: []
+related: ["after-spm-options", "pre-university-routes"]
 keywords: ["IPTA vs IPTS", "public university Malaysia", "private university Malaysia", "UPU online application", "MQA accreditation", "Malaysian Qualifications Register", "universiti awam Malaysia", "MQF Malaysia"]
 faq:
   - q: ป้ายกำกับ IPTA หรือ IPTS บอกได้หรือไม่ว่าปริญญาจะได้รับการรับรอง?

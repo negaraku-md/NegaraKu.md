@@ -67,7 +67,7 @@ sources:
     publisher: "马来西亚学术资格鉴定局 (MQA)"
 entity: "IPTA/IPTS higher education system"
 relations: []
-related: []
+related: ["after-spm-options", "pre-university-routes"]
 keywords: ["IPTA vs IPTS", "public university Malaysia", "private university Malaysia", "UPU online application", "MQA accreditation", "Malaysian Qualifications Register", "universiti awam Malaysia", "MQF Malaysia"]
 faq:
   - q: IPTA（公立）或 IPTS（私立）的标签能告诉我一个学位是否会被承认吗？

@@ -66,7 +66,7 @@ sources:
     publisher: "マレーシア資格認定機関 (MQA)"
 entity: "IPTA/IPTS higher education system"
 relations: []
-related: []
+related: ["after-spm-options", "pre-university-routes"]
 keywords: ["IPTA vs IPTS", "public university Malaysia", "private university Malaysia", "UPU online application", "MQA accreditation", "Malaysian Qualifications Register", "universiti awam Malaysia", "MQF Malaysia"]
 faq:
   - q: IPTA（国立）かIPTS（私立）かという区分で、学位が認められるかどうかが分かるのか？
