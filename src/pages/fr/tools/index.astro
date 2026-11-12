@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ToolsHubView from '@/components/ToolsHubView.astro';
+const locale = 'fr';
+---
+
+<BaseLayout
+  locale={locale}
+  title="Outils Malaisie"
+  description="Calculateurs et vérificateurs interactifs propres à la Malaisie, dans votre navigateur."
+  path="/tools"
+>
+  <ToolsHubView locale={locale} />
+</BaseLayout>

@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ToolsHubView from '@/components/ToolsHubView.astro';
+const locale = 'hi';
+---
+
+<BaseLayout
+  locale={locale}
+  title="मलेशिया उपकरण"
+  description="मलेशिया-विशिष्ट इंटरैक्टिव कैलकुलेटर और चेकर — आपके ब्राउज़र में चलते हैं।"
+  path="/tools"
+>
+  <ToolsHubView locale={locale} />
+</BaseLayout>

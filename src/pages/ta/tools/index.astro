@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ToolsHubView from '@/components/ToolsHubView.astro';
+const locale = 'ta';
+---
+
+<BaseLayout
+  locale={locale}
+  title="மலேசியா கருவிகள்"
+  description="மலேசியாவுக்கான ஊடாடும் கணிப்பான்கள் — உங்கள் உலாவியில் இயங்கும்."
+  path="/tools"
+>
+  <ToolsHubView locale={locale} />
+</BaseLayout>

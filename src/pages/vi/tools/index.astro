@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ToolsHubView from '@/components/ToolsHubView.astro';
+const locale = 'vi';
+---
+
+<BaseLayout
+  locale={locale}
+  title="Công cụ Malaysia"
+  description="Máy tính và công cụ kiểm tra riêng cho Malaysia — chạy trong trình duyệt của bạn."
+  path="/tools"
+>
+  <ToolsHubView locale={locale} />
+</BaseLayout>

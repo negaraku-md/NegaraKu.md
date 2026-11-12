@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ToolsHubView from '@/components/ToolsHubView.astro';
+const locale = 'zh';
+---
+
+<BaseLayout
+  locale={locale}
+  title="马来西亚工具"
+  description="马来西亚专属的交互式计算器与检查工具——在你的浏览器中运行。"
+  path="/tools"
+>
+  <ToolsHubView locale={locale} />
+</BaseLayout>

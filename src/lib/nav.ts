@@ -55,6 +55,7 @@ const NAV_FULL: NavMenu[] = [
       { label: 'nav.trending', href: '/most-read' },
       { label: 'nav.timeline', href: '/malaysia/timeline-of-malaysia' },
       { label: 'nav.grpTools', href: '', heading: true },
+      { label: 'nav.tools', href: '/tools' },
       { label: 'nav.graph', href: '/graph' },
       { label: 'nav.articles', href: '/articles', secret: true }, // hidden; Ctrl+Alt+Shift+A toggles it
     ],

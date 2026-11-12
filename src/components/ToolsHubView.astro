@@ -1,0 +1,87 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { toolsFor } from '@/lib/tools';
+import PageHero from './PageHero.astro';
+
+interface Props { locale: Locale; }
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const tools = toolsFor(locale);
+const live = tools.filter((t) => t.status === 'live');
+const soon = tools.filter((t) => t.status === 'soon');
+
+const title = L('Alat Malaysia', 'Malaysia Tools', '马来西亚工具');
+const soonLabel = L('Akan datang', 'Coming soon', '即将推出');
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: title },
+  ]}
+  title={title}
+  desc={L(
+    'Kalkulator dan penyemak interaktif khusus Malaysia — dibina atas kandungan yang sama yang kami terbitkan dan rujuk. Semua berjalan dalam pelayar anda; tiada data dihantar ke pelayan.',
+    'Interactive, Malaysia-specific calculators and checkers — built on the same cited content we publish. Everything runs in your browser; no data leaves your device.',
+    '马来西亚专属的交互式计算器与检查工具——基于我们发布并注明来源的内容。全部在你的浏览器中运行，数据不会离开你的设备。',
+  )}
+/>
+
+<section class="container block">
+  <div class="th-grid">
+    {live.map((t) => (
+      <a class="th-card" href={localePath(t.href, locale)} style={`--tc:${t.color}`}>
+        <span class="th-icon" aria-hidden="true">{t.icon}</span>
+        <span class="th-body">
+          <span class="th-title">{t.label}</span>
+          <span class="th-desc">{t.desc}</span>
+        </span>
+        <span class="th-go" aria-hidden="true">→</span>
+      </a>
+    ))}
+  </div>
+
+  {soon.length > 0 && (
+    <>
+      <h2 class="th-soon-h">{soonLabel}</h2>
+      <div class="th-grid th-grid-soon">
+        {soon.map((t) => (
+          <div class="th-card th-card-soon" style={`--tc:${t.color}`} aria-disabled="true">
+            <span class="th-icon" aria-hidden="true">{t.icon}</span>
+            <span class="th-body">
+              <span class="th-title">{t.label}</span>
+              <span class="th-desc">{t.desc}</span>
+            </span>
+            <span class="th-badge">{soonLabel}</span>
+          </div>
+        ))}
+      </div>
+    </>
+  )}
+</section>
+
+<style>
+  .th-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr)); gap: 1rem; }
+  .th-card {
+    display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 0.9rem;
+    padding: 1.1rem 1.2rem; border: 1px solid var(--line); border-radius: 14px;
+    background: var(--surface); text-decoration: none; color: inherit;
+    border-left: 3px solid var(--tc, var(--gold)); transition: border-color 0.15s, transform 0.15s;
+  }
+  .th-card:hover { border-color: var(--tc, var(--gold)); transform: translateY(-2px); }
+  .th-icon { font-size: 1.7rem; line-height: 1; }
+  .th-body { display: grid; gap: 0.2rem; min-width: 0; }
+  .th-title { font-weight: 700; font-size: 0.98rem; color: var(--ink); }
+  .th-desc { font-size: 0.82rem; color: var(--muted); line-height: 1.45; }
+  .th-go { color: var(--tc, var(--gold)); font-weight: 700; font-size: 1.1rem; }
+  .th-soon-h { font-size: 1rem; color: var(--ink-soft); margin: 2.4rem 0 0.9rem; }
+  .th-card-soon { opacity: 0.62; cursor: default; }
+  .th-card-soon:hover { transform: none; border-color: var(--line); }
+  .th-badge {
+    font-size: 0.68rem; font-weight: 700; letter-spacing: 0.03em; text-transform: uppercase;
+    color: var(--muted); border: 1px solid var(--line); border-radius: 999px; padding: 0.15rem 0.55rem;
+  }
+</style>
