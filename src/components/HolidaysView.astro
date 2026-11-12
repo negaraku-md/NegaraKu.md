@@ -79,7 +79,16 @@ const heroDesc = L(
 );
 ---
 
-<PageHero locale={locale} title={title} description={heroDesc} />
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
+    { label: title },
+  ]}
+  title={title}
+  desc={heroDesc}
+/>
 
 <section class="itc-wrap" data-pagefind-ignore>
   <div
