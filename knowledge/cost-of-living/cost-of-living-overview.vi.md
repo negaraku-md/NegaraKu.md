@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang lập ngân sách cho Malaysia, so sánh các lời mời lương với chi phí sinh hoạt thực tế, hoặc tìm kiếm dữ liệu DOSM sơ cấp đằng sau một khẳng định về chi phí sinh hoạt."
 
 lang: "vi"
-sourceContentHash: "614561924539b020"
+sourceContentHash: "fe983fce2db49d6d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -31,14 +31,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-01-24
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-12
+    change: "Hoàn thiện phần theo tiểu bang với bảng chi tiêu đầy đủ 16 lãnh thổ từ Khảo sát Chi tiêu Hộ gia đình 2024 của DOSM (thay đổi 2022→2024); thay thế bảng xếp hạng top ba một phần trước đó."
+    reviewer: null
 
-updated: 2026-07-24
+updated: 2026-11-12
 sources:
   - title: "Báo cáo Khảo sát Chi tiêu Hộ gia đình 2024 (Malaysia và các bang) (Household Expenditure Survey Report 2024 (Malaysia & States))"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states"
@@ -59,6 +63,10 @@ sources:
   - title: "Thu nhập & Chi tiêu Hộ gia đình — bảng thông tin OpenDOSM (Household Income & Expenditure — OpenDOSM dashboard)"
     url: "https://open.dosm.gov.my/dashboard/household-income-expenditure"
     publisher: "Cục Thống kê Malaysia (DOSM)"
+  - title: "Thu nhập & Chi tiêu Hộ gia đình: Các bang (danh mục dữ liệu) (Household Income and Expenditure: States (data catalogue))"
+    url: "https://open.dosm.gov.my/data-catalogue/hies_state"
+    publisher: "Cục Thống kê Malaysia (DOSM)"
+    date: "2025-10-08"
 
 entity: "Cost of living in Malaysia"
 relations:
@@ -123,15 +131,52 @@ Những gì có thể nói một cách tự tin từ các nguồn chính thức:
 
 ## Chi tiêu khác nhau theo tiểu bang như thế nào
 
-Các mức trung bình quốc gia ở trên che giấu một sự chênh lệch rộng. Vào năm 2024, chi tiêu hộ gia đình bình quân hằng tháng cao nhất ở:
+Các mức trung bình quốc gia ở trên che giấu một sự chênh lệch rộng. Khảo sát
+Chi tiêu Hộ gia đình của DOSM báo cáo một mức bình quân cho mỗi tiểu bang và
+lãnh thổ liên bang, và vào năm 2024 khoảng cách trải dài từ RM9,186 mỗi tháng
+ở Putrajaya xuống đến RM3,547 ở Sabah — lãnh thổ chi tiêu cao nhất chi nhiều
+hơn lãnh thổ thấp nhất khoảng 2.6 lần.
 
-1. **W.P. Putrajaya** — RM9,186
-2. **W.P. Kuala Lumpur** — RM8,178
-3. **Selangor** — RM7,266
+| Tiểu bang / lãnh thổ liên bang | Chi tiêu bình quân hằng tháng 2024 | 2022 | Thay đổi 2022→2024 |
+| --- | --- | --- | --- |
+| W.P. Putrajaya | RM9,186 | RM8,897 | +3.2% |
+| W.P. Kuala Lumpur | RM8,178 | RM7,823 | +4.5% |
+| Selangor | RM7,266 | RM6,770 | +7.3% |
+| Melaka | RM6,212 | RM5,707 | +8.8% |
+| Johor | RM5,927 | RM5,342 | +11.0% |
+| Pulau Pinang | RM5,850 | RM5,322 | +9.9% |
+| **Malaysia (bình quân toàn quốc)** | **RM5,566** | **RM5,150** | **+8.1%** |
+| Terengganu | RM5,219 | RM4,796 | +8.8% |
+| Negeri Sembilan | RM5,115 | RM4,678 | +9.3% |
+| W.P. Labuan | RM4,497 | RM4,176 | +7.7% |
+| Pahang | RM4,368 | RM4,107 | +6.4% |
+| Sarawak | RM4,281 | RM3,915 | +9.3% |
+| Perak | RM4,232 | RM3,903 | +8.4% |
+| Perlis | RM4,084 | RM3,834 | +6.5% |
+| Kedah | RM4,028 | RM3,765 | +7.0% |
+| Kelantan | RM3,825 | RM3,505 | +9.1% |
+| Sabah | RM3,547 | RM3,342 | +6.1% |
 
-Tám tiểu bang tăng chi tiêu nhanh hơn tốc độ hằng năm toàn quốc giữa năm 2022 và 2024, với **Johor** dẫn đầu ở mức tăng trưởng 5.2%. DOSM không công bố mọi con số tiểu bang trong phần bình luận của bản phát hành nổi bật, nên hãy coi đây là một bảng xếp hạng một phần các tiểu bang chi tiêu cao nhất chứ không phải một bảng đầy đủ mười ba tiểu bang — phần phân tích đầy đủ nằm trong các bảng của báo cáo nền tảng, không được tái hiện ở đây.
+*Năm tham chiếu 2024 và 2022. Nguồn: Báo cáo Khảo sát Chi tiêu Hộ gia đình 2024
+của DOSM (Malaysia & các bang), qua danh mục dữ liệu `hies_state` của OpenDOSM.
+Bốn tiểu bang và hai lãnh thổ liên bang chi tiêu trên mức bình quân toàn quốc;
+mười lãnh thổ còn lại nằm dưới mức đó.*
 
-Ở đầu kia của thang thu nhập và nghèo đói, thống kê nghèo đói 2022 của DOSM cho thấy tỷ lệ nghèo tuyệt đối cao nhất ở **Sabah** (19.7%) và **Kelantan** (13.2%), so với mức trung bình toàn quốc 6.2% và mức thấp 0.1% ở Putrajaya — chính lãnh thổ dẫn đầu bảng chi tiêu. Chi phí sinh hoạt và thu nhập không phải là cùng một thước đo, nhưng hai bộ dữ liệu cùng nhau cho thấy khoảng cách vùng miền rộng đến mức nào.
+Có hai quy luật nổi bật. Thứ nhất, sự chênh lệch là khổng lồ: Putrajaya, Kuala
+Lumpur và Selangor nằm ở một tầng riêng của họ, trong khi mọi tiểu bang Borneo
+và bờ đông đều rơi xuống dưới mức trung bình toàn quốc. Thứ hai, các lãnh thổ
+chi tiêu ít nhất nhìn chung lại đang bắt kịp nhanh nhất — tám tiểu bang tăng
+chi tiêu nhanh hơn mức +8.1% toàn quốc giữa hai cuộc khảo sát, dẫn đầu là
+**Johor** (+11.0%), **Pulau Pinang** (+9.9%), rồi **Negeri Sembilan** và
+**Sarawak** (cùng +9.3%), trong khi hai lãnh thổ chi tiêu cao nhất, Putrajaya
+(+3.2%) và Kuala Lumpur (+4.5%), lại tăng chậm nhất.
+
+Ở đầu kia của thang thu nhập và nghèo đói, thống kê nghèo đói 2022 của DOSM cho
+thấy tỷ lệ nghèo tuyệt đối cao nhất ở **Sabah** (19.7%) và **Kelantan** (13.2%)
+— hai lãnh thổ chi tiêu thấp nhất trong bảng ở trên — so với mức trung bình toàn
+quốc 6.2% và mức thấp 0.1% ở Putrajaya, nơi dẫn đầu bảng chi tiêu. Chi phí sinh
+hoạt và thu nhập không phải là cùng một thước đo, nhưng hai bộ dữ liệu cùng nhau
+cho thấy khoảng cách vùng miền rộng đến mức nào.
 
 ## Lạm phát: vì sao "chi phí sinh hoạt" cảm thấy khác nhau mỗi tháng
 
@@ -171,4 +216,4 @@ Các hướng dẫn chính trong lĩnh vực này:
 - Để biết CPI được xây dựng như thế nào và vì sao nó dịch chuyển khác với ngân sách của bất kỳ một hộ gia đình nào: [Tỷ lệ lạm phát của Malaysia và CPI thực sự đo lường điều gì](/vi/economy/inflation-cpi)
 - Để biết cơ chế đằng sau dòng giao thông và nhiên liệu trong ngân sách hộ gia đình: [Hệ thống Trợ giá Nhiên liệu của Malaysia](/vi/economy/fuel-subsidies)
 - Về khía cạnh thuê nhà của dòng nhà ở: [Thuê nhà: Quy trình thuê](/vi/property/renting-a-home-tenancy)
-- Để tự khám phá dữ liệu DOSM nền tảng, bao gồm các bảng đầy đủ theo tiểu bang và theo nhóm không được tái hiện ở trên: [bảng điều khiển Thu nhập & Chi tiêu Hộ gia đình trên OpenDOSM](https://open.dosm.gov.my/dashboard/household-income-expenditure) và các bản phát hành [Báo cáo Khảo sát Chi tiêu Hộ gia đình 2024](https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states) cùng [Báo cáo Khảo sát Thu nhập Hộ gia đình 2024](https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024) trực tiếp.
+- Để tự khám phá dữ liệu DOSM nền tảng, bao gồm các bảng đầy đủ theo nhóm và chi tiết ở cấp đơn vị bầu cử không được tái hiện ở trên: [bảng điều khiển Thu nhập & Chi tiêu Hộ gia đình trên OpenDOSM](https://open.dosm.gov.my/dashboard/household-income-expenditure) và các bản phát hành [Báo cáo Khảo sát Chi tiêu Hộ gia đình 2024](https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states) cùng [Báo cáo Khảo sát Thu nhập Hộ gia đình 2024](https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024) trực tiếp.

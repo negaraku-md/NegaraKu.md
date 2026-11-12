@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Siapa pun yang membuat anggaran untuk hidup di Malaysia, membandingkan tawaran gaji dengan biaya hidup nyata, atau mencari data DOSM primer di balik suatu klaim biaya hidup."
 
 lang: "id"
-sourceContentHash: "614561924539b020"
+sourceContentHash: "fe983fce2db49d6d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -31,14 +31,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-01-24
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-12
+    change: "Melengkapi bagian menurut negara bagian dengan tabel pengeluaran lengkap 16 wilayah dari DOSM HES 2024 (perubahan 2022→2024); menggantikan peringkat tiga-teratas parsial sebelumnya."
+    reviewer: null
 
-updated: 2026-07-24
+updated: 2026-11-12
 sources:
   - title: "Laporan Survei Pengeluaran Rumah Tangga 2024 (Malaysia & Negara Bagian) (Household Expenditure Survey Report 2024 (Malaysia & States))"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states"
@@ -59,6 +63,10 @@ sources:
   - title: "Pendapatan & Pengeluaran Rumah Tangga — dasbor OpenDOSM (Household Income & Expenditure — OpenDOSM dashboard)"
     url: "https://open.dosm.gov.my/dashboard/household-income-expenditure"
     publisher: "Departemen Statistik Malaysia (DOSM)"
+  - title: "Pendapatan & Pengeluaran Rumah Tangga: Negara Bagian (katalog data) (Household Income and Expenditure: States (data catalogue))"
+    url: "https://open.dosm.gov.my/data-catalogue/hies_state"
+    publisher: "OpenDOSM, Departemen Statistik Malaysia (DOSM)"
+    date: "2025-10-08"
 
 entity: "Cost of living in Malaysia"
 relations:
@@ -159,27 +167,54 @@ biasanya mengumpulkan lebih dari satu pencari nafkah.
 
 ## Bagaimana pengeluaran berbeda menurut negara bagian
 
-Rata-rata nasional di atas menyembunyikan sebaran yang luas. Pada 2024, rata-rata
-pengeluaran rumah tangga bulanan tertinggi di:
+Rata-rata nasional di atas menyembunyikan sebaran yang luas. Survei Pengeluaran
+Rumah Tangga DOSM melaporkan rata-rata bagi setiap negara bagian dan wilayah
+persekutuan, dan pada 2024 kesenjangannya terentang dari RM9,186 sebulan di
+Putrajaya hingga serendah RM3,547 di Sabah — wilayah berpengeluaran tertinggi
+membelanjakan kira-kira 2.6 kali lipat dibandingkan yang terendah.
 
-1. **W.P. Putrajaya** — RM9,186
-2. **W.P. Kuala Lumpur** — RM8,178
-3. **Selangor** — RM7,266
+| Negara bagian / wilayah persekutuan | Rata-rata pengeluaran bulanan 2024 | 2022 | Perubahan 2022→2024 |
+| --- | --- | --- | --- |
+| W.P. Putrajaya | RM9,186 | RM8,897 | +3.2% |
+| W.P. Kuala Lumpur | RM8,178 | RM7,823 | +4.5% |
+| Selangor | RM7,266 | RM6,770 | +7.3% |
+| Melaka | RM6,212 | RM5,707 | +8.8% |
+| Johor | RM5,927 | RM5,342 | +11.0% |
+| Pulau Pinang | RM5,850 | RM5,322 | +9.9% |
+| **Malaysia (rata-rata nasional)** | **RM5,566** | **RM5,150** | **+8.1%** |
+| Terengganu | RM5,219 | RM4,796 | +8.8% |
+| Negeri Sembilan | RM5,115 | RM4,678 | +9.3% |
+| W.P. Labuan | RM4,497 | RM4,176 | +7.7% |
+| Pahang | RM4,368 | RM4,107 | +6.4% |
+| Sarawak | RM4,281 | RM3,915 | +9.3% |
+| Perak | RM4,232 | RM3,903 | +8.4% |
+| Perlis | RM4,084 | RM3,834 | +6.5% |
+| Kedah | RM4,028 | RM3,765 | +7.0% |
+| Kelantan | RM3,825 | RM3,505 | +9.1% |
+| Sabah | RM3,547 | RM3,342 | +6.1% |
 
-Delapan negara bagian mencatat pertumbuhan pengeluaran lebih cepat dibandingkan
-tingkat tahunan nasional antara 2022 dan 2024, dengan **Johor** memimpin pada
-tingkat pertumbuhan 5.2%. DOSM tidak menerbitkan setiap angka negara bagian dalam
-ulasan rilis utamanya, jadi anggap ini sebagai peringkat parsial bagi
-negara-negara bagian berpengeluaran tertinggi dibandingkan tabel lengkap tiga
-belas negara bagian — pecahan lengkap terdapat dalam tabel laporan asli, tidak
-direproduksi di sini.
+*Tahun rujukan 2024 dan 2022. Sumber: Laporan Survei Pengeluaran Rumah Tangga
+DOSM 2024 (Malaysia & Negara Bagian), melalui katalog data `hies_state`
+OpenDOSM. Empat negara bagian dan dua wilayah persekutuan membelanjakan di atas
+rata-rata nasional; sepuluh wilayah lainnya berada di bawahnya.*
 
-Di ujung skala pendapatan dan kemiskinan yang lain, statistik kemiskinan 2022 DOSM
-menunjukkan tingkat kemiskinan absolut tertinggi di **Sabah** (19.7%) dan
-**Kelantan** (13.2%), dibandingkan rata-rata nasional 6.2% dan level terendah 0.1%
-di Putrajaya — wilayah yang sama yang memimpin tabel pengeluaran. Biaya hidup dan
-pendapatan bukanlah ukuran yang sama, tetapi kedua set data ini bersama-sama
-menunjukkan betapa luasnya kesenjangan regional itu.
+Dua pola menonjol. Pertama, sebarannya sangat besar: Putrajaya, Kuala Lumpur dan
+Selangor berada dalam kelas tersendiri, sedangkan setiap negara bagian di Borneo
+dan pantai timur jatuh di bawah rata-rata nasional. Kedua, wilayah yang
+membelanjakan paling sedikit umumnya menyusul paling cepat — delapan negara
+bagian menumbuhkan pengeluaran mereka lebih cepat dibandingkan tingkat nasional
++8.1% antara kedua survei, dipimpin oleh **Johor** (+11.0%), **Pulau Pinang**
+(+9.9%), serta **Negeri Sembilan** dan **Sarawak** (keduanya +9.3%), sedangkan
+dua wilayah berpengeluaran tertinggi, Putrajaya (+3.2%) dan Kuala Lumpur (+4.5%),
+tumbuh paling lambat.
+
+Di ujung skala pendapatan dan kemiskinan yang lain, statistik kemiskinan 2022
+DOSM menunjukkan tingkat kemiskinan absolut tertinggi di **Sabah** (19.7%) dan
+**Kelantan** (13.2%) — dua wilayah berpengeluaran terendah dalam tabel di atas —
+dibandingkan rata-rata nasional 6.2% dan level terendah 0.1% di Putrajaya, yang
+memuncaki tabel pengeluaran. Biaya hidup dan pendapatan bukanlah ukuran yang
+sama, tetapi kedua set data ini bersama-sama menunjukkan betapa luasnya
+kesenjangan regional itu.
 
 ## Inflasi: alasan "biaya hidup" terasa berbeda setiap bulan
 
@@ -255,8 +290,8 @@ Panduan utama di bidang ini:
   tangga: [Sistem Subsidi Bahan Bakar Malaysia](/id/economy/fuel-subsidies)
 - Untuk sisi menyewa bagi item perumahan:
   [Menyewa Rumah: Proses Penyewaan](/id/property/renting-a-home-tenancy)
-- Untuk menjelajahi data DOSM asli sendiri, termasuk tabel negara bagian dan
-  kategori lengkap yang tidak direproduksi di atas: dasbor
+- Untuk menjelajahi data DOSM asli sendiri, termasuk tabel kategori lengkap dan
+  rincian tingkat daerah pemilihan yang tidak direproduksi di atas: dasbor
   [Pendapatan & Pengeluaran Rumah Tangga di OpenDOSM](https://open.dosm.gov.my/dashboard/household-income-expenditure)
   dan
   [Laporan Survei Pengeluaran Rumah Tangga 2024](https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states)

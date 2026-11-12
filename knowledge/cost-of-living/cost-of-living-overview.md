@@ -30,14 +30,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-01-24
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-12
+    change: "Completed the by-state section with the full 16-territory DOSM HES 2024 expenditure table (with 2022→2024 change), sourced from the OpenDOSM hies_state catalogue; replaced the earlier partial top-three ranking and the imprecise 'thirteen-state' framing."
+    reviewer: null
 
-updated: 2026-07-24
+updated: 2026-11-12
 sources:
   - title: "Household Expenditure Survey Report 2024 (Malaysia & States)"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states"
@@ -58,6 +62,10 @@ sources:
   - title: "Household Income & Expenditure — OpenDOSM dashboard"
     url: "https://open.dosm.gov.my/dashboard/household-income-expenditure"
     publisher: "DOSM"
+  - title: "Household Income and Expenditure: States (data catalogue)"
+    url: "https://open.dosm.gov.my/data-catalogue/hies_state"
+    publisher: "OpenDOSM / Department of Statistics Malaysia"
+    date: "2025-10-08"
 
 entity: "Cost of living in Malaysia"
 relations:
@@ -159,26 +167,52 @@ pools more than one income earner.
 
 ## How spending differs by state
 
-The national averages above hide a wide spread. In 2024, mean monthly
-household expenditure was highest in:
+The national averages above hide a wide spread. DOSM's Household Expenditure
+Survey reports a mean for every state and federal territory, and in 2024 the
+gap ran from RM9,186 a month in Putrajaya down to RM3,547 in Sabah — the
+highest-spending territory outspends the lowest by roughly 2.6 to one.
 
-1. **W.P. Putrajaya** — RM9,186
-2. **W.P. Kuala Lumpur** — RM8,178
-3. **Selangor** — RM7,266
+| State / federal territory | 2024 mean monthly expenditure | 2022 | Change 2022→2024 |
+| --- | --- | --- | --- |
+| W.P. Putrajaya | RM9,186 | RM8,897 | +3.2% |
+| W.P. Kuala Lumpur | RM8,178 | RM7,823 | +4.5% |
+| Selangor | RM7,266 | RM6,770 | +7.3% |
+| Melaka | RM6,212 | RM5,707 | +8.8% |
+| Johor | RM5,927 | RM5,342 | +11.0% |
+| Pulau Pinang | RM5,850 | RM5,322 | +9.9% |
+| **Malaysia (national mean)** | **RM5,566** | **RM5,150** | **+8.1%** |
+| Terengganu | RM5,219 | RM4,796 | +8.8% |
+| Negeri Sembilan | RM5,115 | RM4,678 | +9.3% |
+| W.P. Labuan | RM4,497 | RM4,176 | +7.7% |
+| Pahang | RM4,368 | RM4,107 | +6.4% |
+| Sarawak | RM4,281 | RM3,915 | +9.3% |
+| Perak | RM4,232 | RM3,903 | +8.4% |
+| Perlis | RM4,084 | RM3,834 | +6.5% |
+| Kedah | RM4,028 | RM3,765 | +7.0% |
+| Kelantan | RM3,825 | RM3,505 | +9.1% |
+| Sabah | RM3,547 | RM3,342 | +6.1% |
 
-Eight states grew their expenditure faster than the national annual rate
-between 2022 and 2024, with **Johor** leading at 5.2% growth. DOSM does not
-publish every state figure in its headline release commentary, so treat this
-as a partial ranking of the highest-spending states rather than a full
-thirteen-state table — the complete breakdown is in the underlying report
-tables, not reproduced here.
+*Reference years 2024 and 2022. Source: DOSM Household Expenditure Survey
+Report 2024 (Malaysia & States), via the OpenDOSM `hies_state` data catalogue.
+Four states and two federal territories spend above the national mean; the
+remaining ten territories sit below it.*
+
+Two patterns stand out. First, the spread is enormous: Putrajaya, Kuala Lumpur
+and Selangor sit in a tier of their own, while every Borneo and east-coast
+state falls below the national average. Second, the territories spending the
+least are generally catching up fastest — eight states grew their expenditure
+faster than the national +8.1% between the two surveys, led by **Johor**
+(+11.0%), **Pulau Pinang** (+9.9%), and **Negeri Sembilan** and **Sarawak**
+(both +9.3%), while the two highest-spending territories, Putrajaya (+3.2%) and
+Kuala Lumpur (+4.5%), grew the slowest.
 
 At the other end of the income and poverty scale, DOSM's 2022 poverty
 statistics show the incidence of absolute poverty was highest in **Sabah**
-(19.7%) and **Kelantan** (13.2%), against a national average of 6.2% and a
-low of 0.1% in Putrajaya — the same territory that tops the expenditure
-table. Cost of living and income are not the same measure, but the two
-datasets together show how wide the regional gap runs.
+(19.7%) and **Kelantan** (13.2%) — the two lowest-spending territories in the
+table above — against a national average of 6.2% and a low of 0.1% in
+Putrajaya, which tops the expenditure table. Cost of living and income are
+not the same measure, but the two datasets together show how wide the
+regional gap runs.
 
 ## Inflation: why the "cost of living" feels different every month
 
@@ -253,8 +287,8 @@ The key guides in this area:
   budget: [Malaysia's Fuel Subsidy System](/en/economy/fuel-subsidies)
 - For the renting side of the housing line:
   [Renting a Home: The Tenancy Process](/en/property/renting-a-home-tenancy)
-- To explore the underlying DOSM data yourself, including full state and
-  category tables not reproduced above: the
+- To explore the underlying DOSM data yourself, including the full category
+  tables and constituency-level detail not reproduced above: the
   [Household Income & Expenditure dashboard on OpenDOSM](https://open.dosm.gov.my/dashboard/household-income-expenditure)
   and the
   [Household Expenditure Survey Report 2024](https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states)

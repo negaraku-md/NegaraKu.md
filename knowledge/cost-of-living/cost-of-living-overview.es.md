@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona que esté presupuestando para Malasia, comparando ofertas salariales con el costo real de vida, o buscando los datos primarios de DOSM que respaldan una afirmación sobre el costo de vida."
 
 lang: "es"
-sourceContentHash: "614561924539b020"
+sourceContentHash: "fe983fce2db49d6d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -31,14 +31,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-01-24
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-12
+    change: "Se completó la sección por estado con la tabla completa de gasto de los 16 territorios de la HES 2024 de DOSM (variación 2022→2024); sustituye la anterior clasificación parcial de los tres que más gastan."
+    reviewer: null
 
-updated: 2026-07-24
+updated: 2026-11-12
 sources:
   - title: "Informe de la Encuesta de Gasto de los Hogares 2024 (Malasia y estados) (Household Expenditure Survey Report 2024 (Malaysia & States))"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states"
@@ -59,6 +63,10 @@ sources:
   - title: "Ingresos y gasto de los hogares — panel de OpenDOSM (Household Income & Expenditure — OpenDOSM dashboard)"
     url: "https://open.dosm.gov.my/dashboard/household-income-expenditure"
     publisher: "DOSM"
+  - title: "Ingresos y gasto de los hogares: estados (catálogo de datos) (Household Income and Expenditure: States (data catalogue))"
+    url: "https://open.dosm.gov.my/data-catalogue/hies_state"
+    publisher: "DOSM"
+    date: "2025-10-08"
 
 entity: "Cost of living in Malaysia"
 relations:
@@ -161,26 +169,54 @@ a más de una persona con ingresos.
 
 ## Cómo difiere el gasto por estado
 
-Las medias nacionales anteriores ocultan una amplia dispersión. En 2024, el gasto
-medio mensual de los hogares fue más alto en:
+Las medias nacionales anteriores ocultan una amplia dispersión. La Encuesta de
+Gasto de los Hogares de DOSM informa una media para cada estado y territorio
+federal, y en 2024 la brecha iba desde RM9,186 al mes en Putrajaya hasta RM3,547
+en Sabah: el territorio que más gasta supera al que menos gasta por una proporción
+de aproximadamente 2.6 a 1.
 
-1. **W.P. Putrajaya** — RM9,186
-2. **W.P. Kuala Lumpur** — RM8,178
-3. **Selangor** — RM7,266
+| Estado / territorio federal | Gasto medio mensual 2024 | 2022 | Variación 2022→2024 |
+| --- | --- | --- | --- |
+| W.P. Putrajaya | RM9,186 | RM8,897 | +3.2% |
+| W.P. Kuala Lumpur | RM8,178 | RM7,823 | +4.5% |
+| Selangor | RM7,266 | RM6,770 | +7.3% |
+| Melaka | RM6,212 | RM5,707 | +8.8% |
+| Johor | RM5,927 | RM5,342 | +11.0% |
+| Pulau Pinang | RM5,850 | RM5,322 | +9.9% |
+| **Malasia (media nacional)** | **RM5,566** | **RM5,150** | **+8.1%** |
+| Terengganu | RM5,219 | RM4,796 | +8.8% |
+| Negeri Sembilan | RM5,115 | RM4,678 | +9.3% |
+| W.P. Labuan | RM4,497 | RM4,176 | +7.7% |
+| Pahang | RM4,368 | RM4,107 | +6.4% |
+| Sarawak | RM4,281 | RM3,915 | +9.3% |
+| Perak | RM4,232 | RM3,903 | +8.4% |
+| Perlis | RM4,084 | RM3,834 | +6.5% |
+| Kedah | RM4,028 | RM3,765 | +7.0% |
+| Kelantan | RM3,825 | RM3,505 | +9.1% |
+| Sabah | RM3,547 | RM3,342 | +6.1% |
 
-Ocho estados aumentaron su gasto más rápido que la tasa anual nacional entre 2022
-y 2024, encabezados por **Johor** con un crecimiento del 5.2%. DOSM no publica la
-cifra de cada estado en el comentario de su difusión principal, así que trata esto
-como una clasificación parcial de los estados que más gastan y no como una tabla
-completa de trece estados; el desglose completo está en las tablas del informe
-subyacente, no reproducidas aquí.
+*Años de referencia 2024 y 2022. Fuente: Informe de la Encuesta de Gasto de los
+Hogares 2024 de DOSM (Malasia y estados), mediante el catálogo de datos
+`hies_state` de OpenDOSM. Cuatro estados y dos territorios federales gastan por
+encima de la media nacional; los diez territorios restantes se sitúan por debajo
+de ella.*
+
+Dos patrones destacan. Primero, la dispersión es enorme: Putrajaya, Kuala Lumpur
+y Selangor forman una categoría propia, mientras que todos los estados de Borneo
+y de la costa este quedan por debajo de la media nacional. Segundo, los
+territorios que menos gastan son en general los que más rápido se están poniendo
+al día: ocho estados aumentaron su gasto más rápido que el +8.1% nacional entre
+las dos encuestas, encabezados por **Johor** (+11.0%), **Pulau Pinang** (+9.9%) y
+**Negeri Sembilan** y **Sarawak** (ambos +9.3%), mientras que los dos territorios
+que más gastan, Putrajaya (+3.2%) y Kuala Lumpur (+4.5%), crecieron más despacio.
 
 En el otro extremo de la escala de ingreso y pobreza, las estadísticas de pobreza
 de DOSM de 2022 muestran que la incidencia de la pobreza absoluta fue más alta en
-**Sabah** (19.7%) y **Kelantan** (13.2%), frente a una media nacional del 6.2% y un
-mínimo del 0.1% en Putrajaya, el mismo territorio que encabeza la tabla de gasto.
-El costo de vida y el ingreso no son la misma medida, pero los dos conjuntos de
-datos juntos muestran cuán amplia es la brecha regional.
+**Sabah** (19.7%) y **Kelantan** (13.2%) —los dos territorios que menos gastan en
+la tabla anterior— frente a una media nacional del 6.2% y un mínimo del 0.1% en
+Putrajaya, que encabeza la tabla de gasto. El costo de vida y el ingreso no son la
+misma medida, pero los dos conjuntos de datos juntos muestran cuán amplia es la
+brecha regional.
 
 ## Inflación: por qué el "costo de vida" se siente distinto cada mes
 
@@ -257,7 +293,8 @@ Las guías clave de esta área:
 - Para el lado del alquiler de la partida de vivienda:
   [Alquilar una vivienda: el proceso de arrendamiento](/en/property/renting-a-home-tenancy)
 - Para explorar tú mismo los datos subyacentes de DOSM, incluidas las tablas
-  completas por estado y categoría no reproducidas arriba: el
+  completas por categoría y el detalle a nivel de circunscripción no reproducidos
+  arriba: el
   [panel de Ingresos y Gasto de los Hogares en OpenDOSM](https://open.dosm.gov.my/dashboard/household-income-expenditure)
   y las difusiones del
   [Informe de la Encuesta de Gasto de los Hogares 2024](https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states)

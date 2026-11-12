@@ -23,7 +23,7 @@ appliesTo: "Sesiapa sahaja yang membuat belanjawan untuk hidup di Malaysia, memb
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "614561924539b020"
+sourceContentHash: "fe983fce2db49d6d"
 
 status: "published"
 aiAssisted: true
@@ -31,14 +31,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-01-24
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-12
+    change: "Melengkapkan bahagian mengikut negeri dengan jadual penuh perbelanjaan 16 wilayah DOSM HES 2024 (perubahan 2022→2024); menggantikan kedudukan separa tiga teratas yang terdahulu."
+    reviewer: null
 
-updated: 2026-07-24
+updated: 2026-11-12
 sources:
   - title: "Laporan Tinjauan Perbelanjaan Isi Rumah 2024 (Malaysia & Negeri) (Household Expenditure Survey Report 2024 (Malaysia & States))"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states"
@@ -59,6 +63,10 @@ sources:
   - title: "Pendapatan & Perbelanjaan Isi Rumah — papan pemuka OpenDOSM (Household Income & Expenditure — OpenDOSM dashboard)"
     url: "https://open.dosm.gov.my/dashboard/household-income-expenditure"
     publisher: "Jabatan Perangkaan Malaysia (DOSM)"
+  - title: "Pendapatan dan Perbelanjaan Isi Rumah: Negeri (katalog data) (Household Income and Expenditure: States (data catalogue))"
+    url: "https://open.dosm.gov.my/data-catalogue/hies_state"
+    publisher: "OpenDOSM / Jabatan Perangkaan Malaysia (DOSM)"
+    date: "2025-10-08"
 
 entity: "Cost of living in Malaysia"
 relations:
@@ -166,28 +174,54 @@ rumah biasanya mengumpulkan lebih daripada seorang penjana pendapatan.
 
 ## Bagaimana perbelanjaan berbeza mengikut negeri
 
-Purata kebangsaan di atas menyembunyikan sebaran yang luas. Pada 2024,
-purata perbelanjaan isi rumah bulanan adalah tertinggi di:
+Purata kebangsaan di atas menyembunyikan sebaran yang luas. Kaji Selidik
+Perbelanjaan Isi Rumah DOSM melaporkan purata bagi setiap negeri dan wilayah
+persekutuan, dan pada 2024 jurangnya terbentang daripada RM9,186 sebulan di
+Putrajaya turun ke RM3,547 di Sabah — wilayah berbelanja tertinggi mengatasi
+yang terendah dengan nisbah kira-kira 2.6 berbanding satu.
 
-1. **W.P. Putrajaya** — RM9,186
-2. **W.P. Kuala Lumpur** — RM8,178
-3. **Selangor** — RM7,266
+| Negeri / wilayah persekutuan | Purata perbelanjaan bulanan 2024 | 2022 | Perubahan 2022→2024 |
+| --- | --- | --- | --- |
+| W.P. Putrajaya | RM9,186 | RM8,897 | +3.2% |
+| W.P. Kuala Lumpur | RM8,178 | RM7,823 | +4.5% |
+| Selangor | RM7,266 | RM6,770 | +7.3% |
+| Melaka | RM6,212 | RM5,707 | +8.8% |
+| Johor | RM5,927 | RM5,342 | +11.0% |
+| Pulau Pinang | RM5,850 | RM5,322 | +9.9% |
+| **Malaysia (purata kebangsaan)** | **RM5,566** | **RM5,150** | **+8.1%** |
+| Terengganu | RM5,219 | RM4,796 | +8.8% |
+| Negeri Sembilan | RM5,115 | RM4,678 | +9.3% |
+| W.P. Labuan | RM4,497 | RM4,176 | +7.7% |
+| Pahang | RM4,368 | RM4,107 | +6.4% |
+| Sarawak | RM4,281 | RM3,915 | +9.3% |
+| Perak | RM4,232 | RM3,903 | +8.4% |
+| Perlis | RM4,084 | RM3,834 | +6.5% |
+| Kedah | RM4,028 | RM3,765 | +7.0% |
+| Kelantan | RM3,825 | RM3,505 | +9.1% |
+| Sabah | RM3,547 | RM3,342 | +6.1% |
 
-Lapan negeri mencatatkan pertumbuhan perbelanjaan lebih pantas berbanding
-kadar tahunan kebangsaan antara 2022 dan 2024, dengan **Johor** mendahului
-pada kadar pertumbuhan 5.2%. DOSM tidak menerbitkan setiap angka negeri
-dalam ulasan keluaran utamanya, jadi anggap ini sebagai kedudukan separa
-bagi negeri-negeri berbelanja tertinggi berbanding jadual penuh tiga belas
-negeri — pecahan lengkap terdapat dalam jadual laporan asal, tidak
-dihasilkan semula di sini.
+*Tahun rujukan 2024 dan 2022. Sumber: Laporan Kaji Selidik Perbelanjaan Isi
+Rumah DOSM 2024 (Malaysia & Negeri), melalui katalog data `hies_state`
+OpenDOSM. Empat negeri dan dua wilayah persekutuan berbelanja melebihi purata
+kebangsaan; sepuluh wilayah selebihnya berada di bawahnya.*
+
+Dua corak menonjol. Pertama, sebarannya amat besar: Putrajaya, Kuala Lumpur
+dan Selangor berada dalam kelas tersendiri, manakala setiap negeri di Borneo
+dan Pantai Timur jatuh di bawah purata kebangsaan. Kedua, wilayah yang
+berbelanja paling sedikit umumnya mengejar paling pantas — lapan negeri
+mencatatkan pertumbuhan perbelanjaan lebih pantas berbanding kadar kebangsaan
++8.1% antara dua kaji selidik itu, didahului oleh **Johor** (+11.0%), **Pulau
+Pinang** (+9.9%), serta **Negeri Sembilan** dan **Sarawak** (kedua-duanya
++9.3%), manakala dua wilayah berbelanja tertinggi, Putrajaya (+3.2%) dan
+Kuala Lumpur (+4.5%), tumbuh paling perlahan.
 
 Di hujung skala pendapatan dan kemiskinan yang lain, statistik kemiskinan
-2022 DOSM menunjukkan kadar kemiskinan mutlak tertinggi di **Sabah**
-(19.7%) dan **Kelantan** (13.2%), berbanding purata kebangsaan 6.2% dan
-paras terendah 0.1% di Putrajaya — wilayah yang sama yang mendahului
-jadual perbelanjaan. Kos sara hidup dan pendapatan bukanlah ukuran yang
-sama, tetapi kedua-dua set data ini bersama-sama menunjukkan betapa
-luasnya jurang serantau itu.
+2022 DOSM menunjukkan insiden kemiskinan mutlak tertinggi di **Sabah**
+(19.7%) dan **Kelantan** (13.2%) — dua wilayah berbelanja terendah dalam
+jadual di atas — berbanding purata kebangsaan 6.2% dan paras terendah 0.1% di
+Putrajaya, yang mendahului jadual perbelanjaan. Kos sara hidup dan pendapatan
+bukanlah ukuran yang sama, tetapi kedua-dua set data ini bersama-sama
+menunjukkan betapa luasnya jurang serantau itu.
 
 ## Inflasi: sebab "kos sara hidup" terasa berbeza setiap bulan
 
@@ -268,8 +302,9 @@ Panduan utama dalam bidang ini:
   belanjawan isi rumah: [Sistem Subsidi Bahan Api Malaysia](/economy/fuel-subsidies)
 - Untuk sisi menyewa bagi item perumahan:
   [Menyewa Rumah: Proses Penyewaan](/property/renting-a-home-tenancy)
-- Untuk meneroka data DOSM asal sendiri, termasuk jadual negeri dan
-  kategori penuh yang tidak dihasilkan semula di atas: papan pemuka
+- Untuk meneroka data DOSM asal sendiri, termasuk jadual kategori penuh
+  dan perincian peringkat kawasan (parlimen/DUN) yang tidak dihasilkan
+  semula di atas: papan pemuka
   [Pendapatan & Perbelanjaan Isi Rumah di OpenDOSM](https://open.dosm.gov.my/dashboard/household-income-expenditure)
   dan
   [Laporan Kaji Selidik Perbelanjaan Isi Rumah 2024](https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states)

@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Toute personne qui établit un budget pour la Malaisie, compare des offres salariales au coût réel de la vie, ou recherche les données primaires de DOSM qui étayent une affirmation sur le coût de la vie."
 
 lang: "fr"
-sourceContentHash: "614561924539b020"
+sourceContentHash: "fe983fce2db49d6d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -31,14 +31,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-01-24
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-12
+    change: "Complété la section par État avec le tableau complet des dépenses de l'enquête HES 2024 de DOSM pour les 16 territoires (variation 2022→2024) ; remplacé l'ancien classement partiel du trio de tête."
+    reviewer: null
 
-updated: 2026-07-24
+updated: 2026-11-12
 sources:
   - title: "Rapport de l'enquête sur les dépenses des ménages 2024 (Malaisie et États) (Household Expenditure Survey Report 2024 (Malaysia & States))"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states"
@@ -59,6 +63,10 @@ sources:
   - title: "Revenus et dépenses des ménages — tableau de bord OpenDOSM (Household Income & Expenditure — OpenDOSM dashboard)"
     url: "https://open.dosm.gov.my/dashboard/household-income-expenditure"
     publisher: "DOSM"
+  - title: "Revenus et dépenses des ménages : États (catalogue de données) (Household Income and Expenditure: States (data catalogue))"
+    url: "https://open.dosm.gov.my/data-catalogue/hies_state"
+    publisher: "DOSM"
+    date: "2025-10-08"
 
 entity: "Cost of living in Malaysia"
 relations:
@@ -163,27 +171,55 @@ habituellement plus d'une personne ayant un revenu.
 
 ## Comment la dépense diffère selon l'État
 
-Les moyennes nationales ci-dessus masquent une large dispersion. En 2024, la
-dépense mensuelle moyenne des ménages était la plus élevée à :
+Les moyennes nationales ci-dessus masquent une large dispersion. L'enquête sur les
+dépenses des ménages de DOSM publie une moyenne pour chaque État et territoire
+fédéral, et en 2024 l'écart allait de RM9,186 par mois à Putrajaya jusqu'à RM3,547
+à Sabah — le territoire qui dépense le plus devance celui qui dépense le moins dans
+un rapport d'environ 2,6 pour un.
 
-1. **W.P. Putrajaya** — RM9,186
-2. **W.P. Kuala Lumpur** — RM8,178
-3. **Selangor** — RM7,266
+| État / territoire fédéral | Dépense mensuelle moyenne 2024 | 2022 | Variation 2022→2024 |
+| --- | --- | --- | --- |
+| W.P. Putrajaya | RM9,186 | RM8,897 | +3,2 % |
+| W.P. Kuala Lumpur | RM8,178 | RM7,823 | +4,5 % |
+| Selangor | RM7,266 | RM6,770 | +7,3 % |
+| Melaka | RM6,212 | RM5,707 | +8,8 % |
+| Johor | RM5,927 | RM5,342 | +11,0 % |
+| Pulau Pinang | RM5,850 | RM5,322 | +9,9 % |
+| **Malaisie (moyenne nationale)** | **RM5,566** | **RM5,150** | **+8,1 %** |
+| Terengganu | RM5,219 | RM4,796 | +8,8 % |
+| Negeri Sembilan | RM5,115 | RM4,678 | +9,3 % |
+| W.P. Labuan | RM4,497 | RM4,176 | +7,7 % |
+| Pahang | RM4,368 | RM4,107 | +6,4 % |
+| Sarawak | RM4,281 | RM3,915 | +9,3 % |
+| Perak | RM4,232 | RM3,903 | +8,4 % |
+| Perlis | RM4,084 | RM3,834 | +6,5 % |
+| Kedah | RM4,028 | RM3,765 | +7,0 % |
+| Kelantan | RM3,825 | RM3,505 | +9,1 % |
+| Sabah | RM3,547 | RM3,342 | +6,1 % |
 
-Huit États ont accru leurs dépenses plus vite que le taux annuel national entre
-2022 et 2024, en tête desquels **Johor** avec une croissance de 5,2 %. DOSM ne
-publie pas le chiffre de chaque État dans le commentaire de sa diffusion
-principale, alors traitez ceci comme un classement partiel des États qui dépensent
-le plus et non comme un tableau complet des treize États ; la ventilation complète
-figure dans les tableaux du rapport sous-jacent, non reproduits ici.
+*Années de référence 2024 et 2022. Source : Rapport de l'enquête sur les dépenses
+des ménages 2024 de DOSM (Malaisie et États), via le catalogue de données
+`hies_state` d'OpenDOSM. Quatre États et deux territoires fédéraux dépensent
+au-dessus de la moyenne nationale ; les dix territoires restants se situent en
+dessous.*
+
+Deux tendances ressortent. Premièrement, la dispersion est énorme : Putrajaya,
+Kuala Lumpur et le Selangor forment une catégorie à part, tandis que chaque État de
+Bornéo et de la côte est se situe sous la moyenne nationale. Deuxièmement, les
+territoires qui dépensent le moins rattrapent généralement leur retard le plus vite
+— huit États ont accru leurs dépenses plus vite que le +8,1 % national entre les
+deux enquêtes, en tête desquels **Johor** (+11,0 %), **Pulau Pinang** (+9,9 %),
+ainsi que **Negeri Sembilan** et **Sarawak** (tous deux +9,3 %), tandis que les
+deux territoires qui dépensent le plus, Putrajaya (+3,2 %) et Kuala Lumpur (+4,5 %),
+ont progressé le plus lentement.
 
 À l'autre extrémité de l'échelle des revenus et de la pauvreté, les statistiques de
 pauvreté de DOSM de 2022 montrent que l'incidence de la pauvreté absolue était la
-plus élevée à **Sabah** (19,7 %) et au **Kelantan** (13,2 %), face à une moyenne
-nationale de 6,2 % et un minimum de 0,1 % à Putrajaya, le même territoire qui est
-en tête du tableau des dépenses. Le coût de la vie et le revenu ne sont pas la même
-mesure, mais les deux jeux de données réunis montrent combien l'écart régional est
-large.
+plus élevée à **Sabah** (19,7 %) et au **Kelantan** (13,2 %) — les deux territoires
+qui dépensent le moins dans le tableau ci-dessus — face à une moyenne nationale de
+6,2 % et un minimum de 0,1 % à Putrajaya, qui est en tête du tableau des dépenses.
+Le coût de la vie et le revenu ne sont pas la même mesure, mais les deux jeux de
+données réunis montrent combien l'écart régional est large.
 
 ## Inflation : pourquoi le « coût de la vie » se ressent différemment chaque mois
 
@@ -263,7 +299,8 @@ Les guides clés de ce domaine :
 - Pour le volet location du poste logement :
   [Louer un logement : le processus de bail](/fr/property/renting-a-home-tenancy)
 - Pour explorer vous-même les données sous-jacentes de DOSM, y compris les tableaux
-  complets par État et par catégorie non reproduits ci-dessus : le
+  complets par catégorie et le détail au niveau des circonscriptions non reproduits
+  ci-dessus : le
   [tableau de bord Revenus et dépenses des ménages sur OpenDOSM](https://open.dosm.gov.my/dashboard/household-income-expenditure)
   et les diffusions du
   [Rapport de l'enquête sur les dépenses des ménages 2024](https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states)

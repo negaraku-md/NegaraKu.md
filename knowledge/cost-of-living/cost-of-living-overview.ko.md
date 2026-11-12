@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "말레이시아 생활 예산을 세우는 사람, 급여 제안을 실제 생활비와 비교하는 사람, 또는 생활비 주장 뒤에 있는 1차 DOSM 자료를 찾는 사람."
 
 lang: "ko"
-sourceContentHash: "614561924539b020"
+sourceContentHash: "fe983fce2db49d6d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -31,14 +31,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-01-24
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-12
+    change: "주별 섹션을 DOSM 2024년 가구지출조사의 16개 지역 전체 지출 표(2022→2024 변화)로 완성했습니다. 기존의 부분적인 상위 3개 순위를 대체했습니다."
+    reviewer: null
 
-updated: 2026-07-24
+updated: 2026-11-12
 sources:
   - title: "가구 지출 조사 보고서 2024 (말레이시아 및 주) (Household Expenditure Survey Report 2024 (Malaysia & States))"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states"
@@ -59,6 +63,10 @@ sources:
   - title: "가구 소득 및 지출 — OpenDOSM 대시보드 (Household Income & Expenditure — OpenDOSM dashboard)"
     url: "https://open.dosm.gov.my/dashboard/household-income-expenditure"
     publisher: "말레이시아 통계청 (DOSM)"
+  - title: "가구 소득 및 지출: 주별 (데이터 카탈로그) (Household Income and Expenditure: States (data catalogue))"
+    url: "https://open.dosm.gov.my/data-catalogue/hies_state"
+    publisher: "말레이시아 통계청 (DOSM)"
+    date: "2025-10-08"
 
 entity: "Cost of living in Malaysia"
 relations:
@@ -148,22 +156,46 @@ DOSM의 가구지출조사는 지출을 열두 개 범주로 묶습니다. 그�
 
 ## 지출은 주마다 어떻게 다른가
 
-위의 전국 평균은 넓은 편차를 가립니다. 2024년, 평균 월 가구 지출이 가장 높았던
-곳은:
+위의 전국 평균은 넓은 편차를 가립니다. DOSM의 가구지출조사는 모든 주와 연방직할구에
+대한 평균을 보고하는데, 2024년 그 격차는 푸트라자야의 월 RM9,186에서 사바의
+RM3,547까지 벌어졌습니다 — 지출이 가장 많은 직할구가 가장 적은 곳보다 대략 2.6배를
+더 씁니다.
 
-1. **푸트라자야 연방직할구(W.P. Putrajaya)** — RM9,186
-2. **쿠알라룸푸르 연방직할구(W.P. Kuala Lumpur)** — RM8,178
-3. **슬랑오르(Selangor)** — RM7,266
+| 주 / 연방직할구 | 2024년 평균 월 지출 | 2022년 | 2022→2024 변화 |
+| --- | --- | --- | --- |
+| 푸트라자야 연방직할구(W.P. Putrajaya) | RM9,186 | RM8,897 | +3.2% |
+| 쿠알라룸푸르 연방직할구(W.P. Kuala Lumpur) | RM8,178 | RM7,823 | +4.5% |
+| 슬랑오르(Selangor) | RM7,266 | RM6,770 | +7.3% |
+| 믈라카(Melaka) | RM6,212 | RM5,707 | +8.8% |
+| 조호르(Johor) | RM5,927 | RM5,342 | +11.0% |
+| 페낭(Pulau Pinang) | RM5,850 | RM5,322 | +9.9% |
+| **말레이시아(전국 평균)** | **RM5,566** | **RM5,150** | **+8.1%** |
+| 트렝가누(Terengganu) | RM5,219 | RM4,796 | +8.8% |
+| 느그리슴빌란(Negeri Sembilan) | RM5,115 | RM4,678 | +9.3% |
+| 라부안 연방직할구(W.P. Labuan) | RM4,497 | RM4,176 | +7.7% |
+| 파항(Pahang) | RM4,368 | RM4,107 | +6.4% |
+| 사라왁(Sarawak) | RM4,281 | RM3,915 | +9.3% |
+| 페락(Perak) | RM4,232 | RM3,903 | +8.4% |
+| 프를리스(Perlis) | RM4,084 | RM3,834 | +6.5% |
+| 크다(Kedah) | RM4,028 | RM3,765 | +7.0% |
+| 클란탄(Kelantan) | RM3,825 | RM3,505 | +9.1% |
+| 사바(Sabah) | RM3,547 | RM3,342 | +6.1% |
 
-2022년과 2024년 사이 여덟 개 주가 전국 연간 증가율보다 빠르게 지출을 늘렸으며,
-**조호르(Johor)**가 5.2% 증가로 선두였습니다. DOSM은 표면 발표 논평에 모든 주의
-수치를 싣지는 않으므로, 이를 완전한 13개 주 표가 아니라 지출이 가장 많은 주들의
-부분 순위로 취급하십시오 — 완전한 분해는 여기 재현하지 않은 기초 보고서 표에
-있습니다.
+*기준 연도 2024년 및 2022년. 출처: DOSM 2024년 가구지출조사 보고서(말레이시아 및
+주), OpenDOSM `hies_state` 데이터 카탈로그 경유. 네 개 주와 두 개 연방직할구가 전국
+평균을 웃돌며, 나머지 열 개 지역은 그 아래에 있습니다.*
+
+두 가지 패턴이 두드러집니다. 첫째, 편차가 엄청납니다: 푸트라자야, 쿠알라룸푸르,
+슬랑오르가 그들만의 층을 이루는 반면, 보르네오와 동해안의 모든 주는 전국 평균을
+밑돕니다. 둘째, 가장 적게 쓰는 지역들이 대체로 가장 빠르게 따라잡고 있습니다 — 두
+조사 사이에 여덟 개 주가 전국 증가율 +8.1%보다 빠르게 지출을 늘렸으며, **조호르**
+(+11.0%), **페낭**(+9.9%), 그리고 **느그리슴빌란**과 **사라왁**(둘 다 +9.3%)이
+선두였고, 지출이 가장 많은 두 직할구인 푸트라자야(+3.2%)와 쿠알라룸푸르(+4.5%)는
+가장 느리게 증가했습니다.
 
 소득 및 빈곤 척도의 반대쪽 끝에서, DOSM의 2022년 빈곤 통계는 절대 빈곤 발생률이
-**사바(Sabah)**(19.7%)와 **클란탄(Kelantan)**(13.2%)에서 가장 높았고, 전국 평균
-6.2%, 최저치는 지출 표 정상에 오른 바로 그 지역인 푸트라자야의 0.1%였음을
+위 표에서 지출이 가장 적은 두 지역인 **사바**(19.7%)와 **클란탄**(13.2%)에서 가장
+높았고, 전국 평균 6.2%, 최저치는 지출 표 정상에 오른 푸트라자야의 0.1%였음을
 보여줍니다. 생활비와 소득은 같은 척도가 아니지만, 두 자료를 함께 보면 지역 격차가
 얼마나 넓게 벌어지는지 드러납니다.
 
@@ -231,7 +263,7 @@ DOSM의 가구지출조사는 지출을 열두 개 범주로 묶습니다. 그�
   [말레이시아의 연료 보조금 체계](/ko/economy/fuel-subsidies)
 - 주거 항목의 임대 측면은:
   [주택 임차: 임대차 절차](/ko/property/renting-a-home-tenancy)
-- 위에 재현하지 않은 전체 주 및 범주 표를 포함해 기초 DOSM 자료를 직접 살펴보려면:
+- 위에 재현하지 않은 전체 범주 표와 선거구 단위 세부를 포함해 기초 DOSM 자료를 직접 살펴보려면:
   [OpenDOSM의 가구소득·지출 대시보드](https://open.dosm.gov.my/dashboard/household-income-expenditure)
   와
   [2024년 가구지출조사 보고서](https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states)

@@ -23,7 +23,7 @@ appliesTo: "任何为在马来西亚生活编列预算、比较薪资待遇与�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "614561924539b020"
+sourceContentHash: "fe983fce2db49d6d"
 
 status: "published"
 aiAssisted: true
@@ -31,14 +31,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-01-24
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-12
+    change: "以DOSM《2024年家庭开支调查》完整的16个属地开支表格（含2022→2024年变化）补全了按州属划分的章节；取代了此前只列前三名的部分排名。"
+    reviewer: null
 
-updated: 2026-07-24
+updated: 2026-11-12
 sources:
   - title: "家庭开支调查报告 2024（马来西亚及各州）(Household Expenditure Survey Report 2024 (Malaysia & States))"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states"
@@ -59,6 +63,10 @@ sources:
   - title: "家庭收入与开支 — OpenDOSM 仪表板 (Household Income & Expenditure — OpenDOSM dashboard)"
     url: "https://open.dosm.gov.my/dashboard/household-income-expenditure"
     publisher: "马来西亚统计局 (DOSM)"
+  - title: "家庭收入与开支：各州（数据目录）(Household Income and Expenditure: States (data catalogue))"
+    url: "https://open.dosm.gov.my/data-catalogue/hies_state"
+    publisher: "马来西亚统计局 (DOSM)"
+    date: "2025-10-08"
 
 entity: "Cost of living in Malaysia"
 relations:
@@ -146,21 +154,46 @@ RM5,566预算的67.2%：
 
 ## 各州支出的差异
 
-上述全国平均值掩盖了广泛的差距。2024年，家庭月均开支最高的地区依次为：
+上述全国平均值掩盖了广泛的差距。DOSM的家庭开支调查公布了每一个州与联
+邦直辖区的平均值，而2024年，这一差距从布城的每月RM9,186一直延伸到沙巴
+的RM3,547——开支最高的属地比最低者高出约2.6比1。
 
-1. **布城（W.P. Putrajaya）**——RM9,186
-2. **吉隆坡（W.P. Kuala Lumpur）**——RM8,178
-3. **雪兰莪**——RM7,266
+| 州属 / 联邦直辖区 | 2024年月均开支 | 2022年 | 2022→2024年变化 |
+| --- | --- | --- | --- |
+| 布城（W.P. Putrajaya） | RM9,186 | RM8,897 | +3.2% |
+| 吉隆坡（W.P. Kuala Lumpur） | RM8,178 | RM7,823 | +4.5% |
+| 雪兰莪 | RM7,266 | RM6,770 | +7.3% |
+| 马六甲 | RM6,212 | RM5,707 | +8.8% |
+| 柔佛 | RM5,927 | RM5,342 | +11.0% |
+| 槟城 | RM5,850 | RM5,322 | +9.9% |
+| **马来西亚（全国平均）** | **RM5,566** | **RM5,150** | **+8.1%** |
+| 登嘉楼 | RM5,219 | RM4,796 | +8.8% |
+| 森美兰 | RM5,115 | RM4,678 | +9.3% |
+| 纳闽（W.P. Labuan） | RM4,497 | RM4,176 | +7.7% |
+| 彭亨 | RM4,368 | RM4,107 | +6.4% |
+| 砂拉越 | RM4,281 | RM3,915 | +9.3% |
+| 霹雳 | RM4,232 | RM3,903 | +8.4% |
+| 玻璃市 | RM4,084 | RM3,834 | +6.5% |
+| 吉打 | RM4,028 | RM3,765 | +7.0% |
+| 吉兰丹 | RM3,825 | RM3,505 | +9.1% |
+| 沙巴 | RM3,547 | RM3,342 | +6.1% |
 
-2022年至2024年间，有八个州的支出增长快于全国年增长率，其中**柔佛**以
-5.2%的增速领先。DOSM并未在其主要发布评论中公布每一个州的数字，因此这
-里只能视为支出最高州属的部分排名，而非完整的十三州表格——完整细分见
-原始报告表格，本文未予转载。
+*参考年份为2024年与2022年。来源：DOSM《2024年家庭开支调查报告》（马来
+西亚及各州），经由OpenDOSM的`hies_state`数据目录。四个州与两个联邦直
+辖区的支出高于全国平均；其余十个属地则低于这一水平。*
+
+有两个规律格外突出。第一，差距极为悬殊：布城、吉隆坡与雪兰莪自成一个
+梯队，而婆罗洲与东海岸的每一个州都低于全国平均。第二，支出最低的属地
+总体上追赶得最快——在两次调查之间，有八个州的支出增长快于全国的
++8.1%，其中**柔佛**（+11.0%）领先，其次是**槟城**（+9.9%），以及**森
+美兰**与**砂拉越**（同为+9.3%）；而支出最高的两个属地，布城（+3.2%）
+与吉隆坡（+4.5%），增长最慢。
 
 在收入与贫穷光谱的另一端，DOSM 2022年的贫穷统计数据显示，绝对贫穷发生
-率最高的是**沙巴**（19.7%）与**吉兰丹**（13.2%），相对全国平均的6.2%
-以及布城最低的0.1%——布城正是支出榜上排名最高的同一个属地。生活成本
-与收入并非同一种衡量指标，但这两组数据合在一起，显示出区域差距有多大。
+率最高的是**沙巴**（19.7%）与**吉兰丹**（13.2%）——正是上表中支出最低
+的两个属地——相对全国平均的6.2%以及布城最低的0.1%，而布城正是支出榜上
+排名最高的属地。生活成本与收入并非同一种衡量指标，但这两组数据合在一
+起，显示出区域差距有多大。
 
 ## 通胀：为什么「生活成本」每个月感觉都不一样
 
@@ -224,7 +257,7 @@ RM5,566预算的67.2%：
   [马来西亚燃油补贴制度](/zh/economy/fuel-subsidies)
 - 想了解房屋这一项中租房的一面，见
   [租房：租赁流程](/zh/property/renting-a-home-tenancy)
-- 想亲自查阅DOSM的原始数据，包括上文未转载的完整州属与类别表格，见
+- 想亲自查阅DOSM的原始数据，包括上文未转载的完整类别表格与选区层级的细节，见
   [OpenDOSM的家庭收支仪表板](https://open.dosm.gov.my/dashboard/household-income-expenditure)，
   以及
   [《2024年家庭开支调查报告》](https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states)
