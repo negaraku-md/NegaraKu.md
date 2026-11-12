@@ -122,6 +122,11 @@ export const TOOLS: Tool[] = [
     title: L('Unjuran Persaraan KWSP', 'EPF Retirement Projection', '公积金退休预测', 'EPF ஓய்வூதியக் கணிப்பு', 'EPF 退職予測', 'EPF 은퇴 전망', 'การคาดการณ์เกษียณ EPF', 'Dự phóng hưu trí EPF', 'Proyeksi Pensiun KWSP', 'توقّع تقاعد EPF', 'EPF सेवानिवृत्ति प्रक्षेपण', 'Proyección de jubilación EPF', 'Projection de retraite EPF'),
     blurb: L('Unjurkan simpanan KWSP anda hingga umur 60.', 'Project your EPF savings to age 60.', '预测你到60岁的公积金储蓄。', '60 வயது வரை உங்கள் EPF சேமிப்பைக் கணியுங்கள்.', '60歳までのEPF積立を試算。', '60세까지의 EPF 저축을 예측하세요.', 'คาดการณ์เงินออม EPF ของคุณถึงอายุ 60', 'Dự phóng tiết kiệm EPF đến tuổi 60.', 'Proyeksikan tabungan KWSP Anda hingga usia 60.', 'توقّع مدخرات EPF حتى سن 60.', '60 वर्ष तक अपनी EPF बचत का प्रक्षेपण करें।', 'Proyecta tus ahorros EPF hasta los 60 años.', 'Projetez votre épargne EPF jusqu’à 60 ans.'),
   },
+  {
+    id: 'public-holidays', href: '/tools/public-holidays', icon: '📅', color: '#60A5FA', status: 'live', group: 'daily',
+    title: L('Cuti Umum Malaysia', 'Malaysia Public Holidays', '马来西亚公共假期', 'மலேசிய பொது விடுமுறைகள்', 'マレーシアの祝日', '말레이시아 공휴일', 'วันหยุดราชการมาเลเซีย', 'Ngày lễ Malaysia', 'Hari Libur Malaysia', 'العطل الرسمية في ماليزيا', 'मलेशिया सार्वजनिक अवकाश', 'Días festivos de Malasia', 'Jours fériés en Malaisie'),
+    blurb: L('Cuti ikut negeri + pencari hujung minggu panjang.', 'Holidays by state + long-weekend finder.', '按州属的假期＋长周末查找。', 'மாநில விடுமுறைகள் + நீண்ட வார இறுதி தேடல்.', '州別の祝日＋連休ファインダー。', '주별 공휴일 + 연휴 찾기.', 'วันหยุดตามรัฐ + ตัวค้นหาวันหยุดยาว', 'Ngày lễ theo bang + tìm kỳ nghỉ dài.', 'Libur per negeri + pencari akhir pekan panjang.', 'العطل حسب الولاية + باحث عطلة نهاية الأسبوع الطويلة.', 'राज्यवार अवकाश + लंबा सप्ताहांत खोजक।', 'Festivos por estado + buscador de puentes.', 'Jours fériés par État + recherche de ponts.'),
+  },
 ];
 
 const by = (locale: Locale) => (t: Tool) => ({ ...t, label: t.title[locale], desc: t.blurb[locale] });
@@ -197,6 +202,11 @@ const ARTICLE_TOOL: Record<string, string> = {
   'money-daily-life/i-saraan-epf-voluntary-contribution': 'epf-retirement',
   'money-daily-life/epf-akaun-fleksibel': 'epf-retirement',
   'employment/minimum-retirement-age-malaysia': 'epf-retirement',
+  // Public holidays
+  'malaysia/public-holidays-in-malaysia': 'public-holidays',
+  'employment/public-holidays-malaysia': 'public-holidays',
+  'money-daily-life/public-holidays': 'public-holidays',
+  'employment/leave-entitlements-malaysia': 'public-holidays',
 };
 
 /** The live tool to surface on an article, or null. Key = "category/slug". */

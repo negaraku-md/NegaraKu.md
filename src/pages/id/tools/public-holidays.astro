@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import HolidaysView from '@/components/HolidaysView.astro';
+const locale = 'id';
+---
+
+<BaseLayout
+  locale={locale}
+  title="Cuti Umum Malaysia"
+  description="Cuti umum mengikut negeri dan tahun."
+  path="/tools/public-holidays"
+>
+  <HolidaysView locale={locale} />
+</BaseLayout>

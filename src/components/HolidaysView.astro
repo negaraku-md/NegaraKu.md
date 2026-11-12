@@ -1,0 +1,273 @@
+---
+// Malaysia Public Holidays tool. SSR-renders the default holiday table (the SEO
+// payload) and re-renders client-side when the year/state change. Adds a next-
+// holiday card, long-weekend finder and a per-state working-days calculator.
+// Pure data+logic live in src/lib/holidays/ (engine.ts + data.ts).
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
+import SponsorCTA from './SponsorCTA.astro';
+import PageHero from './PageHero.astro';
+import { holidaysFor, longWeekends, nextHoliday, STATES, YEARS, META, type StateId, type Lang } from '@/lib/holidays/engine';
+
+interface Props { locale: Locale; }
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const lang: Lang = locale === 'zh' ? 'zh' : locale === 'ms' ? 'ms' : 'en';
+const intlLocale = locale === 'zh' ? 'zh-CN' : locale === 'ms' ? 'ms-MY' : locale;
+
+const sponsor = resolveSponsor(undefined, undefined, false, 'employment', 'public-holidays');
+const sponsorHref = sponsor ? sponsorUrl(sponsor, 'tools', 'public-holidays') : '';
+
+const defaultYear = YEARS.includes(2026) ? 2026 : YEARS[0];
+const defaultState: StateId = 'kuala-lumpur';
+const today = new Date().toISOString().slice(0, 10);
+const list = holidaysFor(defaultState, defaultYear, lang);
+const lweeks = longWeekends(defaultYear, defaultState, lang);
+const nh = nextHoliday(defaultState, today, lang);
+
+const stateName = (id: StateId) => { const s = STATES.find((x) => x.id === id)!; return s.name[lang] ?? s.name.en; };
+const fmtDate = (iso: string) => new Date(iso + 'T00:00:00Z').toLocaleDateString(intlLocale, { day: 'numeric', month: 'short', timeZone: 'UTC' });
+const fmtDay = (iso: string) => new Date(iso + 'T00:00:00Z').toLocaleDateString(intlLocale, { weekday: 'short', timeZone: 'UTC' });
+
+const ui = {
+  year: L('Tahun', 'Year', '年份'),
+  state: L('Negeri', 'State / territory', '州属'),
+  date: L('Tarikh', 'Date', '日期'),
+  day: L('Hari', 'Day', '星期'),
+  holiday: L('Cuti', 'Holiday', '假日'),
+  next: L('Cuti seterusnya', 'Next holiday', '下一个假日'),
+  daysAway: L('hari lagi', 'days away', '天后'),
+  today: L('Hari ini', 'Today', '今天'),
+  longwk: L('Hujung minggu panjang', 'Long weekends', '长周末'),
+  nolongwk: L('Tiada hujung minggu panjang dikesan.', 'No long weekends detected.', '未检测到长周末。'),
+  days: L('hari', 'days', '天'),
+  workcalc: L('Kalkulator hari bekerja', 'Working-days calculator', '工作日计算器'),
+  from: L('Dari', 'From', '从'),
+  to: L('Hingga', 'To', '至'),
+  workdays: L('hari bekerja', 'working days', '个工作日'),
+  workhint: L('Tidak termasuk hujung minggu negeri dan cuti umum.', 'Excludes the state weekend and public holidays.', '不含该州周末与公共假期。'),
+  provisional: L('*Cuti keagamaan Islam — tarikh mungkin berubah mengikut rukyah.', '*Islamic religious holiday — date may shift on moon-sighting.', '*伊斯兰宗教假日——日期可能因观月而调整。'),
+};
+
+const faqs = [
+  {
+    q: L('Mengapa cuti berbeza mengikut negeri?', 'Why do holidays differ by state?', '为什么各州假期不同？'),
+    a: L('Cuti umum ditetapkan oleh undang-undang persekutuan dan negeri (Akta Cuti 1951, Ordinan Cuti Sabah & Sarawak). Setiap negeri mengisytiharkan cuti sendiri — hari keputeraan Sultan, perayaan tempatan — di samping cuti kebangsaan.',
+         'Public holidays are set by federal and state law (Holidays Act 1951, Sabah & Sarawak Holidays Ordinances). Each state gazettes its own — the Ruler’s birthday, local festivals — on top of the national ones.',
+         '公共假期由联邦与州法律规定（1951年假期法令、沙巴与砂拉越假期条例）。除全国性假期外，各州自行宪报公布苏丹华诞、地方节庆等假期。'),
+  },
+  {
+    q: L('Bagaimana hujung minggu berbeza di Johor, Kedah, Kelantan dan Terengganu?', 'How does the weekend differ in Johor, Kedah, Kelantan and Terengganu?', '柔佛、吉打、吉兰丹与登嘉楼的周末有何不同？'),
+    a: L('Di negeri ini hujung minggu ialah Jumaat dan Sabtu; minggu kerja Ahad hingga Khamis. Di negeri lain hujung minggu ialah Sabtu dan Ahad. Kalkulator hari bekerja mengambil kira perbezaan ini.',
+         'In these states the weekend is Friday and Saturday; the working week runs Sunday to Thursday. Elsewhere the weekend is Saturday and Sunday. The working-days calculator accounts for this.',
+         '在这些州，周末为星期五与星期六，工作周为星期日至星期四；其他州周末为星期六与星期日。工作日计算器已计入此差异。'),
+  },
+  {
+    q: L('Adakah tarikh ini muktamad?', 'Are these dates final?', '这些日期是最终的吗？'),
+    a: L('Tarikh adalah seperti diwartakan dan tertakluk pada perubahan. Cuti Islam (ditanda *) boleh beralih sehari mengikut rukyah, dan tahun hadapan bersifat sementara sehingga setiap negeri mewartakannya. Sahkan dengan kabinet.gov.my.',
+         'Dates are as gazetted and subject to change. Islamic holidays (marked *) can shift by a day on moon-sighting, and future years are provisional until each state gazettes them. Confirm at kabinet.gov.my.',
+         '日期以宪报为准，可能变动。伊斯兰假期（标*）可能因观月调整一天，未来年份在各州宪报公布前属暂定。请以 kabinet.gov.my 为准。'),
+  },
+];
+
+const title = L('Cuti Umum Malaysia', 'Malaysia Public Holidays', '马来西亚公共假期');
+const heroDesc = L(
+  `Cuti umum mengikut negeri dan tahun (${YEARS[0]}–${YEARS[YEARS.length - 1]}) — dengan pencari hujung minggu panjang dan kalkulator hari bekerja. Semua dalam pelayar.`,
+  `Public holidays by state and year (${YEARS[0]}–${YEARS[YEARS.length - 1]}) — with a long-weekend finder and a working-days calculator. All in your browser.`,
+  `按州属与年份列出的公共假期（${YEARS[0]}–${YEARS[YEARS.length - 1]}）——含长周末查找与工作日计算器。全部在浏览器中运行。`,
+);
+---
+
+<PageHero locale={locale} title={title} description={heroDesc} />
+
+<section class="itc-wrap" data-pagefind-ignore>
+  <div
+    id="hol"
+    data-lang={lang}
+    data-locale={intlLocale}
+    data-today={today}
+    data-daysaway={ui.daysAway}
+    data-today-label={ui.today}
+    data-workdays={ui.workdays}
+    data-days={ui.days}
+    data-nolongwk={ui.nolongwk}
+    data-provisional={ui.provisional}
+  >
+    <div class="itc-form hol-controls">
+      <label class="itc-field"><span>{ui.year}</span>
+        <select id="hol-year">{YEARS.map((y) => <option value={y} selected={y === defaultYear}>{y}</option>)}</select>
+      </label>
+      <label class="itc-field"><span>{ui.state}</span>
+        <select id="hol-state">{STATES.map((s) => <option value={s.id} selected={s.id === defaultState}>{s.name[lang] ?? s.name.en}</option>)}</select>
+      </label>
+    </div>
+
+    {nh && (
+      <div class="hol-next" id="hol-next">
+        <span class="hol-next-lbl">{ui.next}</span>
+        <span class="hol-next-name">{nh.name}</span>
+        <span class="hol-next-when">{nh.daysAway === 0 ? ui.today : `${nh.daysAway} ${ui.daysAway}`} · {fmtDate(nh.date)}</span>
+      </div>
+    )}
+
+    <div class="hol-tablewrap">
+      <table class="hol-table">
+        <thead><tr><th>{ui.date}</th><th>{ui.day}</th><th>{ui.holiday}</th></tr></thead>
+        <tbody id="hol-rows">
+          {list.map((e) => (
+            <tr class={e.inLieu ? 'is-lieu' : undefined}>
+              <td>{fmtDate(e.date)}</td>
+              <td>{fmtDay(e.date)}</td>
+              <td>{e.name}{e.religious ? <span class="hol-ast">*</span> : null}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+
+    <div class="hol-sub">
+      <h2 class="hol-h">{ui.longwk}</h2>
+      <ul class="hol-lw" id="hol-lw">
+        {lweeks.length === 0 ? <li class="hol-muted">{ui.nolongwk}</li> : lweeks.map((w) => (
+          <li><b>{w.days} {ui.days}</b> · {fmtDate(w.start)} – {fmtDate(w.end)} <span class="hol-lw-h">({w.holidays.join(', ')})</span></li>
+        ))}
+      </ul>
+    </div>
+
+    <div class="hol-sub">
+      <h2 class="hol-h">{ui.workcalc}</h2>
+      <div class="itc-row hol-wd">
+        <label class="itc-field"><span>{ui.from}</span><input type="date" id="hol-wd-from" value={`${defaultYear}-01-01`} /></label>
+        <label class="itc-field"><span>{ui.to}</span><input type="date" id="hol-wd-to" value={`${defaultYear}-01-31`} /></label>
+      </div>
+      <p class="hol-wd-out"><b id="hol-wd-result">—</b> <span id="hol-wd-unit">{ui.workdays}</span></p>
+      <p class="hol-hint">{ui.workhint}</p>
+    </div>
+
+    <p class="itc-asof hol-note">{ui.provisional}<br />{META.note} ({META.legalBasis}). {L('Setakat', 'As of', '截至')} {META.asOf}.</p>
+  </div>
+
+  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
+
+  <div class="itc-prose">
+    <h2>{L('Soalan lazim', 'Frequently asked', '常见问题')}</h2>
+    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
+
+    <h3>{L('Bacaan berkaitan', 'Related reading', '相关阅读')}</h3>
+    <ul class="itc-links">
+      <li><a href={localePath('/malaysia/public-holidays-in-malaysia', locale)}>{L('Cuti umum di Malaysia', 'Public holidays in Malaysia', '马来西亚的公共假期')}</a></li>
+      <li><a href={localePath('/employment/public-holidays-malaysia', locale)}>{L('Cuti umum & undang-undang pekerjaan', 'Public holidays & employment law', '公共假期与劳动法')}</a></li>
+      <li><a href={localePath('/employment/leave-entitlements-malaysia', locale)}>{L('Kelayakan cuti', 'Leave entitlements', '休假权益')}</a></li>
+    </ul>
+
+    <h3>{L('Sumber', 'Sources', '来源')}</h3>
+    <ul class="itc-src">{META.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener noreferrer">{s.title}</a></li>))}</ul>
+
+    <p class="itc-disclaimer">{L(
+      'Alat ini memberikan tarikh seperti diwartakan untuk panduan sahaja dan bukan nasihat rasmi. Sahkan cuti rasmi dengan kabinet.gov.my atau warta negeri anda.',
+      'This tool lists dates as gazetted for guidance only and is not official advice. Confirm official holidays with kabinet.gov.my or your state gazette.',
+      '本工具按宪报列出日期，仅供参考，非官方公告。请以 kabinet.gov.my 或贵州宪报核实官方假期。',
+    )}</p>
+  </div>
+</section>
+
+<script>
+  import { holidaysFor, longWeekends, nextHoliday, workingDaysBetween } from '@/lib/holidays/engine';
+  const root = document.getElementById('hol');
+  if (root) {
+    const lang = root.dataset.lang as 'ms' | 'en' | 'zh';
+    const loc = root.dataset.locale || 'en';
+    const daysAway = root.dataset.daysaway || 'days away';
+    const todayLbl = root.dataset.todayLabel || 'Today';
+    const daysLbl = root.dataset.days || 'days';
+    const noLw = root.dataset.nolongwk || 'None.';
+    const $ = (id: string) => document.getElementById(id);
+    const fDate = (iso: string) => new Date(iso + 'T00:00:00Z').toLocaleDateString(loc, { day: 'numeric', month: 'short', timeZone: 'UTC' });
+    const fDay = (iso: string) => new Date(iso + 'T00:00:00Z').toLocaleDateString(loc, { weekday: 'short', timeZone: 'UTC' });
+    const esc = (s: string) => s.replace(/[&<>]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c] as string));
+    const year = () => parseInt(($('hol-year') as HTMLSelectElement).value, 10);
+    const state = () => ($('hol-state') as HTMLSelectElement).value as any;
+
+    function renderList() {
+      const rows = holidaysFor(state(), year(), lang)
+        .map((e) => `<tr class="${e.inLieu ? 'is-lieu' : ''}"><td>${fDate(e.date)}</td><td>${fDay(e.date)}</td><td>${esc(e.name)}${e.religious ? '<span class="hol-ast">*</span>' : ''}</td></tr>`)
+        .join('');
+      ($('hol-rows') as HTMLElement).innerHTML = rows;
+
+      const lw = longWeekends(year(), state(), lang);
+      ($('hol-lw') as HTMLElement).innerHTML = lw.length === 0
+        ? `<li class="hol-muted">${esc(noLw)}</li>`
+        : lw.map((w) => `<li><b>${w.days} ${esc(daysLbl)}</b> · ${fDate(w.start)} – ${fDate(w.end)} <span class="hol-lw-h">(${esc(w.holidays.join(', '))})</span></li>`).join('');
+
+      const todayISO = root.dataset.today as string;
+      const nh = nextHoliday(state(), todayISO, lang);
+      const nx = $('hol-next');
+      if (nx && nh) {
+        (nx.querySelector('.hol-next-name') as HTMLElement).textContent = nh.name;
+        (nx.querySelector('.hol-next-when') as HTMLElement).textContent = `${nh.daysAway === 0 ? todayLbl : nh.daysAway + ' ' + daysAway} · ${fDate(nh.date)}`;
+      }
+    }
+    function renderWorkdays() {
+      const from = ($('hol-wd-from') as HTMLInputElement).value;
+      const to = ($('hol-wd-to') as HTMLInputElement).value;
+      const n = from && to ? workingDaysBetween(from, to, state()) : 0;
+      ($('hol-wd-result') as HTMLElement).textContent = String(n);
+    }
+    $('hol-year')!.addEventListener('change', renderList);
+    $('hol-state')!.addEventListener('change', () => { renderList(); renderWorkdays(); });
+    $('hol-wd-from')!.addEventListener('change', renderWorkdays);
+    $('hol-wd-to')!.addEventListener('change', renderWorkdays);
+    renderWorkdays();
+  }
+</script>
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'WebApplication', name: title, applicationCategory: 'ReferenceApplication', operatingSystem: 'Web', offers: { '@type': 'Offer', price: '0', priceCurrency: 'MYR' }, description: heroDesc },
+    { '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+  ],
+})} />
+
+<style>
+  .itc-wrap { max-width: 60rem; }
+  .hol-controls { grid-template-columns: 1fr 1fr; display: grid; gap: 1rem; margin-bottom: 1.2rem; }
+  @media (max-width: 520px) { .hol-controls { grid-template-columns: 1fr; } }
+  .itc-field { display: grid; gap: 0.35rem; font-size: 0.9rem; }
+  .itc-field > span { font-weight: 600; color: var(--ink-soft); }
+  .itc-field select, .itc-field input { font: inherit; padding: 0.55rem 0.7rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .itc-field select:focus, .itc-field input:focus { outline: 2px solid var(--gold); outline-offset: 1px; }
+  .hol-next { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.5rem 0.9rem; padding: 0.9rem 1.1rem; margin-bottom: 1.2rem; border: 1px solid color-mix(in srgb, var(--gold) 35%, transparent); background: color-mix(in srgb, var(--gold) 6%, var(--surface, transparent)); border-radius: 12px; }
+  .hol-next-lbl { font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; color: var(--gold); }
+  .hol-next-name { font-weight: 700; font-size: 1.1rem; }
+  .hol-next-when { color: var(--muted); font-size: 0.9rem; }
+  .hol-tablewrap { overflow-x: auto; }
+  .hol-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+  .hol-table th { text-align: left; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.03em; color: var(--muted); padding: 0.4rem 0.6rem; border-bottom: 1px solid var(--line); }
+  .hol-table td { padding: 0.5rem 0.6rem; border-bottom: 1px solid color-mix(in srgb, var(--line) 60%, transparent); vertical-align: top; }
+  .hol-table td:first-child { white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .hol-table tr.is-lieu td { color: var(--muted); }
+  .hol-ast { color: var(--gold); font-weight: 700; }
+  .hol-sub { margin-top: 1.8rem; }
+  .hol-h { font-size: 1.05rem; margin: 0 0 0.6rem; }
+  .hol-lw { padding-left: 1.1rem; line-height: 1.8; margin: 0; }
+  .hol-lw-h { color: var(--muted); font-size: 0.86rem; }
+  .hol-muted, .hol-hint { color: var(--muted); }
+  .hol-wd { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+  @media (max-width: 520px) { .hol-wd { grid-template-columns: 1fr; } }
+  .hol-wd-out { margin: 0.8rem 0 0.2rem; font-size: 1.05rem; }
+  .hol-wd-out b { font-size: 1.6rem; color: var(--gold); font-variant-numeric: tabular-nums; }
+  .hol-hint { font-size: 0.82rem; margin: 0.2rem 0 0; }
+  .hol-note { margin-top: 1.6rem; line-height: 1.6; }
+  .itc-prose { max-width: 58rem; margin-top: 2.5rem; }
+  .itc-prose h2 { font-size: 1.15rem; margin: 2rem 0 0.7rem; }
+  .itc-prose h3 { font-size: 1rem; margin: 1.6rem 0 0.5rem; }
+  .itc-faq dt { font-weight: 700; margin-top: 1rem; }
+  .itc-faq dd { margin: 0.3rem 0 0; color: var(--ink-soft); line-height: 1.7; }
+  .itc-links, .itc-src { padding-left: 1.1rem; line-height: 1.9; }
+  .itc-src { font-size: 0.85rem; }
+  .itc-src a, .itc-links a { color: var(--gold); }
+  .itc-asof { font-size: 0.72rem; color: var(--muted); }
+  .itc-disclaimer { margin: 1.4rem 0 0; padding: 0.8rem 1rem; font-size: 0.82rem; line-height: 1.6; color: var(--ink-soft); background: color-mix(in srgb, var(--gold) 6%, var(--surface, transparent)); border: 1px solid color-mix(in srgb, var(--gold) 30%, transparent); border-radius: 10px; }
+</style>
