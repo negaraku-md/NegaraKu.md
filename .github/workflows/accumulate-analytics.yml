@@ -42,7 +42,11 @@ jobs:
       - name: Fold AE tail into the snapshot
         env:
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
-          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          # Use the broad CLOUDFLARE_API_TOKEN secret (proven to have Account
+          # Analytics:Read). The narrow CF_API_TOKEN expired, which 401'd this job
+          # and silently stopped folding the snapshot forward. TODO: refresh a
+          # scoped Analytics:Read token into CF_API_TOKEN and revert this line.
+          CF_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
         run: node scripts/accumulate-analytics.mjs ${{ github.event.inputs.seed_series == 'true' && '--seed-series' || '' }}
 
       - name: Commit the snapshot if it changed
