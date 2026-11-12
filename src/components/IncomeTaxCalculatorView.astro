@@ -1,0 +1,355 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
+import SponsorCTA from './SponsorCTA.astro';
+import PageHero from './PageHero.astro';
+import { TAX_YEARS, DEFAULT_YA, type Lang } from '@/lib/tax/incomeTax';
+
+// Malaysia Personal Income Tax / PCB calculator — the interactive layer on
+// taxation/personal-tax-rates + personal-tax-reliefs. Pure engine lives in
+// src/lib/tax/incomeTax.ts (unit-tested); this file is the form + explainer.
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const lang = locale as Lang;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+const tl = (m: Partial<Record<Lang, string>>) => m[lang] ?? m.en ?? m.ms ?? '';
+
+const data = TAX_YEARS[DEFAULT_YA];
+const reliefs = data.reliefs;
+
+// Disclosed sponsor — category 'taxation' routes to 1company (tax & secretarial).
+const sponsor = resolveSponsor(undefined, undefined, false, 'taxation', 'income-tax-calculator');
+const sponsorHref = sponsor ? sponsorUrl(sponsor, 'tools', 'income-tax-calculator') : '';
+
+const srcPath = (slug: string) => localePath(`/taxation/${slug}`, locale);
+
+const faqs = [
+  {
+    q: L('Bagaimana cukai pendapatan individu dikira di Malaysia?',
+         'How is personal income tax calculated in Malaysia?',
+         '马来西亚的个人所得税如何计算？'),
+    a: L('Cukai dikenakan pada pendapatan bercukai — pendapatan tolak setiap pelepasan yang anda layak. Skala adalah berperingkat (0% hingga 30%), jadi hanya bahagian dalam setiap jalur dikenakan kadar jalur itu. Rebat (RM400 jika pendapatan bercukai ≤ RM35,000, serta zakat) menolak cukai, bukan pendapatan.',
+         'Tax is charged on chargeable income — your income minus every relief you qualify for. The scale is progressive (0% to 30%), so only the slice of income inside each band is taxed at that band’s rate. Rebates (RM400 if chargeable income ≤ RM35,000, plus zakat) reduce the tax, not the income.',
+         '税款按应课税收入计算——即收入减去你符合资格的每项减免。税率是累进的（0% 至 30%），每个级距内的部分按该级距税率征税。回扣（应课税收入 ≤ RM35,000 可得 RM400，以及天课）抵减的是税款而非收入。'),
+  },
+  {
+    q: L('Adakah ini kiraan PCB bulanan saya?',
+         'Is this my monthly PCB/MTD?',
+         '这是我的每月预扣税（PCB）吗？'),
+    a: L('Angka "setara bulanan" di sini hanyalah cukai tahunan dibahagi 12 sebagai panduan. PCB sebenar (Potongan Cukai Bulanan) menggunakan formula majikan dengan pelepasan terkumpul dan boleh berbeza bulan ke bulan. Rujuk kalkulator PCB rasmi LHDN untuk potongan gaji tepat.',
+         'The “monthly equivalent” here is simply the annual tax divided by 12 as a guide. Actual PCB (Monthly Tax Deduction) uses the employer formula with accumulated reliefs and can differ month to month. Use LHDN’s official PCB calculator for exact payroll deductions.',
+         '这里的“每月等值”只是把年税额除以 12 作参考。实际的每月税务扣除（PCB）采用雇主公式并计入累计减免，逐月可能不同。精确的薪资扣除请使用 LHDN 官方 PCB 计算器。'),
+  },
+  {
+    q: L('Berapakah kadar cukai untuk bukan pemastautin?',
+         'What rate applies to a non-resident?',
+         '非居民适用什么税率？'),
+    a: L('Individu bukan pemastautin dikenakan kadar rata 30% atas setiap ringgit pendapatan bercukai, tanpa pelepasan peribadi dan tanpa rebat. Pemastautin ditentukan oleh kiraan hari di bawah s.7(1), bukan kewarganegaraan.',
+         'A non-resident individual pays a flat 30% on every ringgit of chargeable income, with no personal reliefs and no rebate. Residence is a day-count test under s.7(1), not a question of nationality.',
+         '非居民个人按应课税收入每令吉统一征收 30%，没有个人减免也没有回扣。居民身份依据第 7(1) 条的居留天数判定，与国籍无关。'),
+  },
+];
+
+const title = L('Kalkulator Cukai Pendapatan Malaysia', 'Malaysia Income Tax Calculator', '马来西亚所得税计算器');
+const heroDesc = L(
+  `Anggarkan cukai pendapatan individu Malaysia anda untuk Tahun Taksiran ${data.ya} — jalur berperingkat, pelepasan dan rebat — terus dalam pelayar anda. Tiada data dihantar ke mana-mana pelayan.`,
+  `Estimate your Malaysian personal income tax for Year of Assessment ${data.ya} — progressive bands, reliefs and rebates — right in your browser. No data leaves your device.`,
+  `在浏览器中直接估算你 ${data.ya} 课税年度的马来西亚个人所得税——累进级距、减免与回扣。数据不会离开你的设备。`,
+);
+
+const ui = {
+  ya: L('Tahun Taksiran', 'Year of Assessment', '课税年度'),
+  announced: L('(diumumkan, belum berkuat kuasa)', '(announced, not yet law)', '（已宣布，尚未立法）'),
+  residency: L('Status pemastautin', 'Residency status', '居民身份'),
+  resident: L('Pemastautin', 'Resident', '居民'),
+  nonResident: L('Bukan pemastautin', 'Non-resident', '非居民'),
+  income: L('Jumlah pendapatan tahunan (RM)', 'Total annual income (RM)', '年度总收入（RM）'),
+  incomeHint: L('Pendapatan penggajian dan pendapatan bercukai lain, sebelum pelepasan.', 'Employment and other taxable income, before reliefs.', '就业及其他应课税收入，减免前。'),
+  reliefsH: L('Pelepasan', 'Reliefs', '减免'),
+  selfAuto: L('Pelepasan diri (automatik)', 'Individual relief (automatic)', '个人减免（自动）'),
+  cap: L('maks', 'cap', '上限'),
+  rebatesH: L('Rebat & lain-lain', 'Rebates & extras', '回扣与其他'),
+  zakat: L('Zakat / fitrah dibayar (RM)', 'Zakat / fitrah paid (RM)', '已缴天课（RM）'),
+  dividend: L('Pendapatan dividen (RM) — lapisan 2% melebihi RM100k', 'Dividend income (RM) — 2% layer over RM100k', '股息收入（RM）——超过 RM10 万部分 2%'),
+  result: L('Keputusan', 'Result', '结果'),
+  taxPayable: L('Cukai perlu dibayar', 'Tax payable', '应缴税款'),
+  monthly: L('≈ setara bulanan', '≈ monthly equivalent', '≈ 每月等值'),
+  chargeable: L('Pendapatan bercukai', 'Chargeable income', '应课税收入'),
+  totalReliefs: L('Jumlah pelepasan', 'Total reliefs', '减免总额'),
+  taxBefore: L('Cukai sebelum rebat', 'Tax before rebate', '回扣前税款'),
+  rebate: L('Rebat', 'Rebate', '回扣'),
+  effective: L('Kadar cukai berkesan', 'Effective tax rate', '实际税率'),
+  capped: L('dihadkan', 'capped', '已封顶'),
+  disclaimer: L(
+    'Anggaran sahaja, bukan nasihat cukai. Kiraan menggunakan kadar pemastautin Jadual 1 dan had pelepasan LHDN; cukai sebenar bergantung pada keadaan penuh anda. Sahkan dengan LHDN atau ejen cukai sebelum memfailkan.',
+    'Estimate only, not tax advice. It uses the Schedule 1 resident rates and LHDN relief caps; your actual tax depends on your full circumstances. Verify with LHDN or a tax agent before filing.',
+    '仅为估算，非税务建议。采用附表一居民税率与 LHDN 减免上限；实际税款取决于你的完整情况。报税前请与 LHDN 或税务代理核实。',
+  ),
+  asOf: L('Kadar setakat', 'Rates as of', '税率截至'),
+  howH: L('Cara ia dikira', 'How it is calculated', '计算方式'),
+  sourcesH: L('Sumber', 'Sources', '来源'),
+  learnH: L('Ketahui lebih lanjut', 'Learn more', '了解更多'),
+};
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: title },
+  ]}
+  title={title}
+  desc={heroDesc}
+/>
+
+<section class="container block">
+  <div class="itc" id="itc" data-capped={ui.capped}>
+    <!-- Inputs -->
+    <form class="itc-form" autocomplete="off">
+      <div class="itc-row">
+        <label class="itc-field">
+          <span>{ui.ya}</span>
+          <select id="itc-ya">
+            {Object.values(TAX_YEARS).map((y) => (
+              <option value={y.ya} selected={y.ya === DEFAULT_YA}>
+                {`YA${y.ya}`}{y.status === 'announced' ? ` ${ui.announced}` : ''}
+              </option>
+            ))}
+          </select>
+        </label>
+        <fieldset class="itc-field itc-res">
+          <span>{ui.residency}</span>
+          <div class="itc-toggle">
+            <label><input type="radio" name="itc-res" value="resident" checked /> {ui.resident}</label>
+            <label><input type="radio" name="itc-res" value="nonresident" /> {ui.nonResident}</label>
+          </div>
+        </fieldset>
+      </div>
+
+      <label class="itc-field itc-income">
+        <span>{ui.income}</span>
+        <input type="number" id="itc-income" inputmode="decimal" min="0" step="100" placeholder="60000" />
+        <small>{ui.incomeHint}</small>
+      </label>
+
+      <div class="itc-reliefs" data-resident-only>
+        <h3>{ui.reliefsH}</h3>
+        <p class="itc-self">{ui.selfAuto}: <strong>RM{data.selfRelief.toLocaleString('en-MY')}</strong></p>
+        <div class="itc-grid">
+          {reliefs.map((r) => (
+            <label class="itc-field">
+              <span>{tl(r.label)}{r.cap !== Infinity ? <em> ({ui.cap} RM{r.cap.toLocaleString('en-MY')})</em> : null}</span>
+              <input
+                type="number"
+                class="itc-relief"
+                data-relief-id={r.id}
+                data-kind={r.kind ?? 'amount'}
+                inputmode="decimal"
+                min="0"
+                step={r.kind === 'count' ? '1' : '50'}
+                placeholder="0"
+              />
+            </label>
+          ))}
+        </div>
+      </div>
+
+      <details class="itc-extras" data-resident-only>
+        <summary>{ui.rebatesH}</summary>
+        <div class="itc-grid">
+          <label class="itc-field">
+            <span>{ui.zakat}</span>
+            <input type="number" id="itc-zakat" inputmode="decimal" min="0" step="50" placeholder="0" />
+          </label>
+          <label class="itc-field">
+            <span>{ui.dividend}</span>
+            <input type="number" id="itc-dividend" inputmode="decimal" min="0" step="100" placeholder="0" />
+          </label>
+        </div>
+      </details>
+    </form>
+
+    <!-- Result -->
+    <aside class="itc-out" aria-live="polite">
+      <p class="itc-asof"><span id="itc-asof-ya">YA{data.ya}</span> · {ui.asOf} <span id="itc-asof">{data.asOf}</span></p>
+      <div class="itc-headline">
+        <span class="itc-label">{ui.taxPayable}</span>
+        <strong class="itc-amount" id="itc-tax">RM0</strong>
+        <span class="itc-sub"><span id="itc-monthly">RM0</span> {ui.monthly}</span>
+      </div>
+      <dl class="itc-lines">
+        <div><dt>{ui.totalReliefs}</dt><dd id="itc-reliefs-total">RM0</dd></div>
+        <div><dt>{ui.chargeable}</dt><dd id="itc-chargeable">RM0</dd></div>
+        <div><dt>{ui.taxBefore}</dt><dd id="itc-taxbefore">RM0</dd></div>
+        <div id="itc-rebate-line" hidden><dt>{ui.rebate}</dt><dd id="itc-rebate">−RM0</dd></div>
+        <div><dt>{ui.effective}</dt><dd id="itc-effective">0%</dd></div>
+      </dl>
+      <p class="itc-cap-note" id="itc-cap-note" hidden></p>
+    </aside>
+  </div>
+
+  <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
+
+  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
+
+  <div class="itc-prose">
+    <h2>{ui.howH}</h2>
+    <p>{L(
+      'Kalkulator ini mengambil jumlah pendapatan anda, menolak pelepasan diri automatik (RM9,000) dan setiap pelepasan lain yang anda masukkan (setiap satu dihadkan pada paras LHDN), lalu mengenakan skala pemastautin Jadual 1 yang berperingkat pada baki pendapatan bercukai. Rebat individu RM400 (jika pendapatan bercukai ≤ RM35,000) dan rebat zakat ditolak daripada cukai.',
+      'This calculator takes your total income, subtracts the automatic individual relief (RM9,000) and every other relief you enter (each capped at the LHDN limit), then applies the progressive Schedule 1 resident scale to the remaining chargeable income. The RM400 individual rebate (if chargeable income ≤ RM35,000) and the zakat rebate are then deducted from the tax.',
+      '本计算器以你的总收入，减去自动个人减免（RM9,000）及你填入的每项其他减免（各按 LHDN 上限封顶），再对剩余应课税收入套用附表一累进居民税率。随后从税款中扣除 RM400 个人回扣（应课税收入 ≤ RM35,000 时）及天课回扣。',
+    )}</p>
+
+    <h2>FAQ</h2>
+    <dl class="itc-faq">
+      {faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}
+    </dl>
+
+    <h2>{ui.learnH}</h2>
+    <ul class="itc-links">
+      <li><a href={srcPath('personal-tax-rates')}>{L('Kadar cukai pendapatan peribadi', 'Personal income tax rates', '个人所得税率')}</a></li>
+      <li><a href={srcPath('personal-tax-reliefs')}>{L('Senarai semak pelepasan cukai', 'Personal tax reliefs checklist', '个人税务减免清单')}</a></li>
+      <li><a href={srcPath('pcb-monthly-tax-deduction')}>{L('PCB — Potongan Cukai Bulanan', 'PCB — Monthly Tax Deduction', 'PCB——每月税务扣除')}</a></li>
+      <li><a href={srcPath('which-tax-form')}>{L('Borang cukai mana untuk anda', 'Which tax form applies to you', '你该用哪份报税表')}</a></li>
+    </ul>
+
+    <h3>{ui.sourcesH}</h3>
+    <ul class="itc-src">
+      {data.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}
+    </ul>
+  </div>
+</section>
+
+<script>
+  import { computeTax, TAX_YEARS } from '@/lib/tax/incomeTax';
+
+  const $ = (id) => document.getElementById(id);
+  const root = $('itc');
+  if (root) {
+    const labelCapped = root.dataset.capped || 'capped';
+    const fmt = new Intl.NumberFormat('en-MY', { style: 'currency', currency: 'MYR', maximumFractionDigits: 0 });
+    const fmt2 = new Intl.NumberFormat('en-MY', { style: 'currency', currency: 'MYR', minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    const rm = (n) => fmt.format(n || 0).replace('MYR', 'RM').replace(/\s/g, '');
+    const rm2 = (n) => fmt2.format(n || 0).replace('MYR', 'RM').replace(/\s/g, '');
+    const num = (el) => { const v = parseFloat(el && el.value); return Number.isFinite(v) && v > 0 ? v : 0; };
+
+    function recompute() {
+      const ya = parseInt($('itc-ya').value, 10);
+      const resident = (root.querySelector('input[name="itc-res"]:checked') || {}).value !== 'nonresident';
+      const income = num($('itc-income'));
+      const reliefs = {};
+      root.querySelectorAll('.itc-relief').forEach((el) => {
+        const v = num(el);
+        if (v) reliefs[el.dataset.reliefId] = v;
+      });
+      const zakat = num($('itc-zakat'));
+      const dividendIncome = num($('itc-dividend'));
+
+      const r = computeTax({ ya, resident, income, reliefs, zakat, dividendIncome });
+
+      $('itc-tax').textContent = rm2(r.taxPayable);
+      $('itc-monthly').textContent = rm2(r.monthlyEquivalent);
+      $('itc-reliefs-total').textContent = rm(r.totalReliefs);
+      $('itc-chargeable').textContent = rm(r.chargeableIncome);
+      $('itc-taxbefore').textContent = rm2(r.taxBeforeRebate);
+      $('itc-effective').textContent = (r.effectiveRate * 100).toFixed(2) + '%';
+      $('itc-asof-ya').textContent = 'YA' + r.ya;
+      const yd = TAX_YEARS[ya] || {};
+      if ($('itc-asof')) $('itc-asof').textContent = yd.asOf || '';
+
+      const totalRebate = (r.rebates.individual || 0) + (r.rebates.zakat || 0);
+      const rebLine = $('itc-rebate-line');
+      if (totalRebate > 0) { rebLine.hidden = false; $('itc-rebate').textContent = '−' + rm2(totalRebate); }
+      else rebLine.hidden = true;
+
+      // Show which reliefs were capped, so the number is explainable.
+      const capped = (r.reliefBreakdown || []).filter((b) => b.capped);
+      const note = $('itc-cap-note');
+      if (capped.length) { note.hidden = false; note.textContent = capped.length + ' ' + labelCapped + '.'; }
+      else note.hidden = true;
+
+      // Residents-only sections hidden for non-residents.
+      root.querySelectorAll('[data-resident-only]').forEach((el) => { el.style.display = resident ? '' : 'none'; });
+    }
+
+    root.addEventListener('input', recompute);
+    root.addEventListener('change', recompute);
+    recompute();
+  }
+</script>
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'SoftwareApplication',
+      name: title,
+      applicationCategory: 'FinanceApplication',
+      operatingSystem: 'Web',
+      offers: { '@type': 'Offer', price: '0', priceCurrency: 'MYR' },
+      description: heroDesc,
+    },
+    {
+      '@type': 'FAQPage',
+      mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+    },
+  ],
+})} />
+
+<style>
+  .itc { display: grid; grid-template-columns: 1.4fr 1fr; gap: 1.5rem; align-items: start; }
+  @media (max-width: 860px) { .itc { grid-template-columns: 1fr; } }
+  .itc-form { display: grid; gap: 1.1rem; }
+  .itc-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+  @media (max-width: 520px) { .itc-row { grid-template-columns: 1fr; } }
+  .itc-field { display: grid; gap: 0.35rem; font-size: 0.9rem; }
+  .itc-field > span { font-weight: 600; color: var(--ink-soft); }
+  .itc-field em { font-weight: 400; color: var(--muted); font-style: normal; }
+  .itc-field input, .itc-field select {
+    font: inherit; padding: 0.55rem 0.7rem; border-radius: 8px;
+    border: 1px solid var(--line); background: var(--surface); color: var(--ink);
+  }
+  .itc-field input:focus, .itc-field select:focus { outline: 2px solid var(--gold); outline-offset: 1px; }
+  .itc-field small { color: var(--muted); font-size: 0.78rem; }
+  .itc-res { border: 0; padding: 0; margin: 0; }
+  .itc-toggle { display: flex; gap: 1rem; padding-top: 0.3rem; }
+  .itc-toggle label { display: inline-flex; gap: 0.35rem; align-items: center; font-weight: 400; }
+  .itc-reliefs h3, .itc-extras summary { font-size: 0.95rem; margin: 0.4rem 0 0.6rem; font-weight: 700; cursor: default; }
+  .itc-extras summary { cursor: pointer; }
+  .itc-self { font-size: 0.85rem; color: var(--muted); margin: 0 0 0.7rem; }
+  .itc-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.8rem 1rem; }
+  @media (max-width: 520px) { .itc-grid { grid-template-columns: 1fr; } }
+  .itc-extras { border: 1px solid var(--line); border-radius: 10px; padding: 0.7rem 0.9rem; }
+  .itc-out {
+    position: sticky; top: 1rem; background: var(--surface); border: 1px solid var(--line);
+    border-radius: 14px; padding: 1.2rem 1.3rem;
+  }
+  .itc-asof { margin: 0 0 0.8rem; font-size: 0.72rem; color: var(--muted); letter-spacing: 0.02em; }
+  .itc-headline { display: grid; gap: 0.15rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
+  .itc-label { font-size: 0.8rem; color: var(--ink-soft); font-weight: 600; }
+  .itc-amount { font-size: 2.1rem; font-weight: 800; color: var(--gold); line-height: 1.1; }
+  .itc-sub { font-size: 0.82rem; color: var(--muted); }
+  .itc-lines { display: grid; gap: 0.5rem; margin: 1rem 0 0; }
+  .itc-lines > div { display: flex; justify-content: space-between; gap: 1rem; font-size: 0.86rem; }
+  .itc-lines dt { color: var(--ink-soft); margin: 0; }
+  .itc-lines dd { margin: 0; font-weight: 700; font-variant-numeric: tabular-nums; }
+  .itc-cap-note { margin: 0.8rem 0 0; font-size: 0.76rem; color: var(--muted); }
+  .itc-disclaimer {
+    margin: 1.4rem 0 0; padding: 0.8rem 1rem; font-size: 0.82rem; line-height: 1.6;
+    color: var(--ink-soft); background: color-mix(in srgb, var(--gold) 6%, var(--surface, transparent));
+    border: 1px solid color-mix(in srgb, var(--gold) 30%, transparent); border-radius: 10px;
+  }
+  .itc-prose { max-width: 58rem; margin-top: 2.5rem; }
+  .itc-prose h2 { font-size: 1.15rem; margin: 2rem 0 0.7rem; }
+  .itc-prose h3 { font-size: 1rem; margin: 1.6rem 0 0.5rem; }
+  .itc-prose p { line-height: 1.7; color: var(--ink-soft); }
+  .itc-faq dt { font-weight: 700; margin-top: 1rem; }
+  .itc-faq dd { margin: 0.3rem 0 0; color: var(--ink-soft); line-height: 1.7; }
+  .itc-links, .itc-src { padding-left: 1.1rem; line-height: 1.9; }
+  .itc-src { font-size: 0.85rem; }
+  .itc-src a, .itc-links a { color: var(--gold); }
+</style>

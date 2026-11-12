@@ -32,6 +32,7 @@
     "translate:stamp": "node scripts/translation-sync.mjs --stamp",
     "translate:check": "node scripts/translation-sync.mjs",
     "health": "python scripts/health/scan.py",
+    "test:tax": "node scripts/test-income-tax.mjs",
     "review:due": "node scripts/set-review-due.mjs",
     "review:queue": "node scripts/build-review-queue.mjs",
     "lifecycle": "node scripts/lifecycle.mjs",

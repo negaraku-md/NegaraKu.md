@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import IncomeTaxCalculatorView from '@/components/IncomeTaxCalculatorView.astro';
+const locale = 'en';
+---
+
+<BaseLayout
+  locale={locale}
+  title="Malaysia Income Tax Calculator"
+  description="Estimate your Malaysian personal income tax (YA2025) — progressive bands, reliefs and rebates — right in your browser. No data leaves your device."
+  path="/tools/income-tax-calculator"
+>
+  <IncomeTaxCalculatorView locale={locale} />
+</BaseLayout>

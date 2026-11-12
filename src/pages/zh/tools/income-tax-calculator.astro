@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import IncomeTaxCalculatorView from '@/components/IncomeTaxCalculatorView.astro';
+const locale = 'zh';
+---
+
+<BaseLayout
+  locale={locale}
+  title="马来西亚所得税计算器"
+  description="在浏览器中直接估算你的马来西亚个人所得税（2025 课税年度）——累进级距、减免与回扣。数据不会离开你的设备。"
+  path="/tools/income-tax-calculator"
+>
+  <IncomeTaxCalculatorView locale={locale} />
+</BaseLayout>

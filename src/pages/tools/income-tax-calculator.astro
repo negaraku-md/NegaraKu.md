@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import IncomeTaxCalculatorView from '@/components/IncomeTaxCalculatorView.astro';
+const locale = 'ms';
+---
+
+<BaseLayout
+  locale={locale}
+  title="Kalkulator Cukai Pendapatan Malaysia"
+  description="Anggarkan cukai pendapatan individu Malaysia anda (YA2025) — jalur berperingkat, pelepasan dan rebat — terus dalam pelayar. Tiada data dihantar ke pelayan."
+  path="/tools/income-tax-calculator"
+>
+  <IncomeTaxCalculatorView locale={locale} />
+</BaseLayout>
