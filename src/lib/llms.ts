@@ -87,21 +87,40 @@ export async function buildLlmsIndex(locale: Locale): Promise<string> {
   const out: string[] = ['# NegaraKu.md', ''];
   out.push(...(INTRO[locale] ?? INTRO.ms), '');
 
+  // /llms.txt is a CURATED map (the llmstxt.org intent), not a second full index.
+  // Per topic we surface the authoritative pillar guides (tier 1) plus a few more,
+  // cap the long tail, and — when a topic is truncated — link its category hub so an
+  // agent can still reach every article. The complete machine-readable set (every
+  // article) lives in the ## Optional links below, so nothing is lost by slimming.
+  const MIN_PER_CAT = 5; // even a pillar-less or thin topic shows a few entries
+  const MAX_PER_CAT = 15; // keep a huge topic from swamping the map
+
   for (const cat of CATEGORIES) {
     const arts = byCat.get(cat.id);
     if (!arts?.length) continue;
-    out.push(`## ${loc(cat.name, locale)}`, '');
-    // Surface the authoritative guides (tier 1 — the pillar/hub overviews) first
-    // within each category so a crawler skimming top-down hits the key articles
-    // before the long tail. Array.sort is stable, so the rest keep their incoming
-    // freshness order (articlesForLocale sorts by `updated` desc).
-    const ordered = [...arts].sort(
+    // Drop withheld stale translations up front so they don't consume a curated slot.
+    const visible = arts.filter((a) => !isWithheld(a));
+    if (!visible.length) continue;
+
+    // Pillars (tier 1 — the pillar/hub overviews) first; the rest keep
+    // articlesForLocale's `updated`-desc order (Array.sort is stable). Then truncate
+    // to clamp(pillars, MIN, MAX) so the index stays a map a crawler can ingest whole.
+    const ranked = [...visible].sort(
       (a, b) => (a.data.tier === '1' ? 0 : 1) - (b.data.tier === '1' ? 0 : 1),
     );
-    for (const a of ordered) {
-      if (isWithheld(a)) continue; // withheld stale translation: don't list its (outdated) summary
+    const pillars = ranked.filter((a) => a.data.tier === '1').length;
+    const take = Math.min(ranked.length, Math.max(MIN_PER_CAT, Math.min(MAX_PER_CAT, pillars)));
+    const shown = ranked.slice(0, take);
+
+    out.push(`## ${loc(cat.name, locale)}`, '');
+    for (const a of shown) {
       const url = `${SITE}${localePath(`/${a.data.category}/${a.data.slug}.md`, locale)}`;
       out.push(`- [${a.data.title}](${url}): ${a.data.summary}`);
+    }
+    // Truncated: point to the full category so the long tail stays one click away.
+    if (shown.length < visible.length) {
+      const hub = `${SITE}${localePath(`/${cat.id}/`, locale)}`;
+      out.push(`- [→ ${loc(cat.name, locale)} — ${visible.length}](${hub})`);
     }
     out.push('');
   }
@@ -110,9 +129,11 @@ export async function buildLlmsIndex(locale: Locale): Promise<string> {
   // an agent may skip when it needs a shorter context. These are the whole-corpus
   // machine surfaces that make the "AI-friendly" claim concrete: the full Markdown
   // dump, the JSON manifest, and the Hugging Face dataset (same distributions the
-  // homepage Dataset JSON-LD advertises).
+  // homepage Dataset JSON-LD advertises). The lead line makes clear this index is a
+  // curated slice and that the complete set — every article — is right here.
   const fullUrl = llmsFullUrl(localePath('/llms-full.txt', locale), SITE);
   out.push('## Optional', '');
+  out.push('This index lists the key guides per topic. The complete corpus — every article — is below:', '');
   out.push(`- [Full corpus (Markdown)](${fullUrl}): every article in this language concatenated as one Markdown document.`);
   out.push(`- [Article metadata (JSON)](${SITE}/api/articles.json): machine-readable manifest of every article — title, category, dates and sources, all languages.`);
   out.push(`- [Dataset (JSON Lines)](https://huggingface.co/datasets/negaraku-md/negaraku-md/resolve/main/data/${locale}.jsonl): the corpus as a Hugging Face dataset, one JSON object per article.`);
