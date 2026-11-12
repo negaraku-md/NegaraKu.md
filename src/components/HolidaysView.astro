@@ -16,7 +16,7 @@ const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale
 const lang: Lang = locale === 'zh' ? 'zh' : locale === 'ms' ? 'ms' : 'en';
 const intlLocale = locale === 'zh' ? 'zh-CN' : locale === 'ms' ? 'ms-MY' : locale;
 
-const sponsor = resolveSponsor(undefined, undefined, false, 'employment', 'public-holidays');
+const sponsor = resolveSponsor(undefined, undefined, false, 'business', 'public-holidays');
 const sponsorHref = sponsor ? sponsorUrl(sponsor, 'tools', 'public-holidays') : '';
 
 const defaultYear = YEARS.includes(2026) ? 2026 : YEARS[0];

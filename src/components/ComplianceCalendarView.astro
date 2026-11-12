@@ -2,6 +2,8 @@
 import type { Locale } from '@/lib/categories';
 import { articlesForLocale } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
+import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
+import SponsorCTA from './SponsorCTA.astro';
 
 // THE COMPLIANCE CALENDAR.
 //
@@ -18,6 +20,11 @@ interface Props {
 }
 const { locale } = Astro.props;
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+// Disclosed advisory CTA (1company), like every other tool. Company-secretarial /
+// compliance category → 1company's "Need professional advisory?" block.
+const sponsor = resolveSponsor(undefined, undefined, false, 'company-secretary', 'compliance-calendar');
+const sponsorHref = sponsor ? sponsorUrl(sponsor, 'tools', 'compliance-calendar') : '';
 
 const articles = await articlesForLocale(locale);
 
@@ -250,6 +257,8 @@ const groups = [...new Set(unique.map((r) => r.trigger))];
       "Chaque obligation figurant ici est tirée directement de l'article qui l'explique — cliquez pour voir le détail complet. Il s'agit d'une orientation générale, et non d'un conseil professionnel.",
     )}
   </p>
+
+  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
 </section>
 
 <script type="application/json" id="cc-i18n" set:html={JSON.stringify(ccMsg)}></script>
