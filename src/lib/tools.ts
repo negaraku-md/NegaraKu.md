@@ -127,3 +127,48 @@ export function toolsFor(locale: Locale) {
 export function liveTools(locale: Locale) {
   return toolsFor(locale).filter((t) => t.status === 'live');
 }
+
+// --- Article → tool links -------------------------------------------------
+// A high-intent article points its reader at the one live tool that turns the
+// topic into an action (a tax article → the tax calculator). Keyed by the
+// article's "category/slug" (ArticleView builds the same key). Freshness-neutral:
+// the card is rendered by the template, not the markdown body, so adding a
+// mapping never changes an article's content hash or re-stales a translation —
+// and every language lights up at once via the tool's own title/blurb. Only LIVE
+// tools belong here; extend as tools ship.
+const ARTICLE_TOOL: Record<string, string> = {
+  // Personal income tax / PCB (annual) → Income Tax Calculator
+  'taxation/income-tax-in-malaysia': 'income-tax-calculator',
+  'taxation/personal-tax-rates': 'income-tax-calculator',
+  'taxation/personal-tax-reliefs': 'income-tax-calculator',
+  'taxation/pcb-monthly-tax-deduction': 'income-tax-calculator',
+  'taxation/which-tax-form': 'income-tax-calculator',
+  'taxation/individual-tax-residence': 'income-tax-calculator',
+  'taxation/dividend-tax-malaysia': 'income-tax-calculator',
+  'money-daily-life/income-tax-individuals': 'income-tax-calculator',
+  // Payroll / take-home pay → Salary Take-Home
+  'employment/payroll-rates-deadlines-malaysia': 'salary-take-home',
+  'employment/pcb-mtd-malaysia': 'salary-take-home',
+  'employment/epf-socso-guide': 'salary-take-home',
+  'employment/socso-eis-employer-guide': 'salary-take-home',
+  'employment/minimum-wage-malaysia': 'salary-take-home',
+  'employment/payroll-compliance-malaysia': 'salary-take-home',
+  'employment/new-hire-statutory-checklist': 'salary-take-home',
+  'employment/employees-provident-fund-act-1991': 'salary-take-home',
+  'money-daily-life/epf-socso-employees': 'salary-take-home',
+  // Statutory deadlines → Compliance Calendar
+  'company-secretary/sdn-bhd-filing-calendar': 'compliance-calendar',
+  'company-secretary/annual-return': 'compliance-calendar',
+  'company-secretary/financial-statements-lodgement': 'compliance-calendar',
+  'taxation/company-tax-calendar': 'compliance-calendar',
+  'taxation/form-c-and-cp204': 'compliance-calendar',
+  'business/sdn-bhd-first-year-compliance': 'compliance-calendar',
+};
+
+/** The live tool to surface on an article, or null. Key = "category/slug". */
+export function toolForArticle(category: string, slug: string, locale: Locale) {
+  const id = ARTICLE_TOOL[`${category}/${slug}`];
+  if (!id) return null;
+  const t = TOOLS.find((x) => x.id === id && x.status === 'live');
+  return t ? by(locale)(t) : null;
+}

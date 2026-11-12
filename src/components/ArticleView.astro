@@ -14,6 +14,8 @@ import TrustBadge from './TrustBadge.astro';
 import FeedbackBar from './FeedbackBar.astro';
 import BecomeContributor from './BecomeContributor.astro';
 import SponsorCTA from './SponsorCTA.astro';
+import RelatedToolCard from './RelatedToolCard.astro';
+import { toolForArticle } from '@/lib/tools';
 import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
 import { getAnalytics, type AnalyticsBucket } from '@/lib/apidata';
 
@@ -142,6 +144,11 @@ const sensitive = d.sensitivity !== 'none';
 // Disclosed sponsor CTA (sensitive content is never sponsored — see sponsors.ts).
 const sponsor = resolveSponsor(d.sponsor, pillar, sensitive, d.category, d.slug);
 const sponsorHref = sponsor ? sponsorUrl(sponsor, d.category, d.slug) : '';
+// Related interactive tool (Tools hub): the one live tool that turns this topic
+// into an action (a personal-tax article → the income-tax calculator). Mapping in
+// src/lib/tools.ts; template-rendered, so it never affects translation freshness.
+// Not shown on sensitive articles — their reader focus stays on the neutral notice.
+const relatedTool = sensitive ? null : toolForArticle(d.category, d.slug, locale);
 // A sensitive article that is already live gets a calmer, accurate notice — not
 // the "requires review before publication" warning, which only fits pre-live states.
 const sensitiveLive = sensitive && (d.status === 'published' || d.status === 'reviewed');
@@ -636,6 +643,8 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
         )
       }
 
+
+      {relatedTool && <RelatedToolCard locale={locale} tool={relatedTool} />}
 
       {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
 

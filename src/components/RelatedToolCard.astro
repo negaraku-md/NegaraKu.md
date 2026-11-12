@@ -1,0 +1,81 @@
+---
+// RelatedToolCard — surfaces the one live Tools-hub tool that turns THIS article's
+// topic into an action (a personal-tax article → the Income Tax Calculator). The
+// mapping lives in src/lib/tools.ts (toolForArticle); ArticleView resolves it and
+// passes the localized tool in. Rendered by the template, never the markdown body,
+// so it is freshness-neutral — adding a link never re-stales a translation, and
+// every language is covered via the tool's own title/blurb.
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+
+interface ToolRef { id: string; href: string; icon: string; color: string; label: string; desc: string; }
+interface Props { locale: Locale; tool: ToolRef; }
+const { locale, tool } = Astro.props;
+const l = locale as Locale;
+const href = localePath(tool.href, l);
+
+const L = (ms: string, en: string, zh: string, ta: string, ja: string, ko: string, th: string, vi: string, id: string, ar: string, hi: string, es: string, fr: string) =>
+  ({ ms, en, zh, ta, ja, ko, th, vi, id, ar, hi, es, fr } as Record<Locale, string>)[l];
+
+const eyebrow = L('Alat interaktif', 'Interactive tool', '互动工具', 'ஊடாடும் கருவி', 'インタラクティブツール', '대화형 도구', 'เครื่องมือเชิงโต้ตอบ', 'Công cụ tương tác', 'Alat interaktif', 'أداة تفاعلية', 'इंटरैक्टिव टूल', 'Herramienta interactiva', 'Outil interactif');
+const cta = L('Buka alat', 'Open the tool', '打开工具', 'கருவியைத் திற', 'ツールを開く', '도구 열기', 'เปิดเครื่องมือ', 'Mở công cụ', 'Buka alat', 'افتح الأداة', 'टूल खोलें', 'Abrir la herramienta', "Ouvrir l'outil");
+---
+
+<aside class="rtool" aria-label={tool.label} data-pagefind-ignore style={`--rtool-accent: ${tool.color};`}>
+  <span class="rtool-icon" aria-hidden="true">{tool.icon}</span>
+  <div class="rtool-body">
+    <p class="rtool-eyebrow">{eyebrow}</p>
+    <p class="rtool-title">{tool.label}</p>
+    <p class="rtool-desc">{tool.desc}</p>
+  </div>
+  <a class="rtool-cta" href={href}>{cta} <span class="dirx">→</span></a>
+</aside>
+
+<style>
+  .rtool {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-template-areas: 'icon body' 'cta cta';
+    gap: 0.6rem 1rem;
+    align-items: start;
+    margin: 2.5rem 0 1rem;
+    padding: 1.4rem 1.6rem 1.5rem;
+    border: 1px solid color-mix(in srgb, var(--rtool-accent) 42%, transparent);
+    border-left: 4px solid var(--rtool-accent);
+    border-radius: 14px;
+    background: color-mix(in srgb, var(--rtool-accent) 6%, var(--surface, transparent));
+  }
+  .rtool-icon { grid-area: icon; font-size: 1.7rem; line-height: 1.2; }
+  .rtool-body { grid-area: body; min-width: 0; }
+  .rtool-eyebrow {
+    margin: 0; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.06em;
+    text-transform: uppercase; color: var(--rtool-accent);
+  }
+  .rtool-title { margin: 0.15rem 0 0; font-weight: 700; font-size: 1.1rem; color: var(--text, inherit); }
+  .rtool-desc { margin: 0.3rem 0 0; color: var(--text-2, inherit); font-size: 0.92rem; line-height: 1.55; }
+  .rtool-cta {
+    grid-area: cta;
+    justify-self: start;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-top: 0.3rem;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 0.5rem 0.95rem;
+    border-radius: 8px;
+    background: var(--rtool-accent);
+    color: #000;
+  }
+  .rtool-cta:hover { filter: brightness(1.06); }
+  [dir='rtl'] .dirx { display: inline-block; transform: scaleX(-1); }
+
+  @media (min-width: 560px) {
+    .rtool {
+      grid-template-columns: auto 1fr auto;
+      grid-template-areas: 'icon body cta';
+      align-items: center;
+    }
+    .rtool-cta { margin-top: 0; }
+  }
+</style>
