@@ -1,0 +1,21 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import HolidaysView from '@/components/HolidaysView.astro';
+import { STATES, type StateId } from '@/lib/holidays/engine';
+export function getStaticPaths() {
+  return STATES.map((s) => ({ params: { state: s.id }, props: { sname: (s.name as Record<string,string>)['zh'] ?? s.name.en } }));
+}
+const locale = 'zh';
+const { state } = Astro.params;
+const { sname } = Astro.props;
+const title = sname + ' 公共假期';
+---
+
+<BaseLayout
+  locale={locale}
+  title={title}
+  description={'按年份列出的公共假期： ' + sname + '.'}
+  path={'/tools/public-holidays/' + state}
+>
+  <HolidaysView locale={locale} initialState={state as StateId} />
+</BaseLayout>

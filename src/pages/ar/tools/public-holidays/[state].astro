@@ -1,0 +1,21 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import HolidaysView from '@/components/HolidaysView.astro';
+import { STATES, type StateId } from '@/lib/holidays/engine';
+export function getStaticPaths() {
+  return STATES.map((s) => ({ params: { state: s.id }, props: { sname: (s.name as Record<string,string>)['ar'] ?? s.name.en } }));
+}
+const locale = 'ar';
+const { state } = Astro.params;
+const { sname } = Astro.props;
+const title = sname + ' Public Holidays';
+---
+
+<BaseLayout
+  locale={locale}
+  title={title}
+  description={'Public holidays by year for ' + sname + '.'}
+  path={'/tools/public-holidays/' + state}
+>
+  <HolidaysView locale={locale} initialState={state as StateId} />
+</BaseLayout>

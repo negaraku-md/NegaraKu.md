@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import RoadTaxCalculatorView from '@/components/RoadTaxCalculatorView.astro';
+const locale = 'fr';
+---
+
+<BaseLayout
+  locale={locale}
+  title="Kalkulator Cukai Jalan Malaysia"
+  description="Cukai jalan saloon persendirian Semenanjung ikut cc."
+  path="/tools/road-tax-calculator"
+>
+  <RoadTaxCalculatorView locale={locale} />
+</BaseLayout>

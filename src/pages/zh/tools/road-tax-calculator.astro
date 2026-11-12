@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import RoadTaxCalculatorView from '@/components/RoadTaxCalculatorView.astro';
+const locale = 'zh';
+---
+
+<BaseLayout
+  locale={locale}
+  title="马来西亚路税计算器"
+  description="半岛私人轿车路税，按引擎 cc。"
+  path="/tools/road-tax-calculator"
+>
+  <RoadTaxCalculatorView locale={locale} />
+</BaseLayout>

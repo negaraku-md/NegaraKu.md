@@ -127,6 +127,11 @@ export const TOOLS: Tool[] = [
     title: L('Cuti Umum Malaysia', 'Malaysia Public Holidays', '马来西亚公共假期', 'மலேசிய பொது விடுமுறைகள்', 'マレーシアの祝日', '말레이시아 공휴일', 'วันหยุดราชการมาเลเซีย', 'Ngày lễ Malaysia', 'Hari Libur Malaysia', 'العطل الرسمية في ماليزيا', 'मलेशिया सार्वजनिक अवकाश', 'Días festivos de Malasia', 'Jours fériés en Malaisie'),
     blurb: L('Cuti ikut negeri + pencari hujung minggu panjang.', 'Holidays by state + long-weekend finder.', '按州属的假期＋长周末查找。', 'மாநில விடுமுறைகள் + நீண்ட வார இறுதி தேடல்.', '州別の祝日＋連休ファインダー。', '주별 공휴일 + 연휴 찾기.', 'วันหยุดตามรัฐ + ตัวค้นหาวันหยุดยาว', 'Ngày lễ theo bang + tìm kỳ nghỉ dài.', 'Libur per negeri + pencari akhir pekan panjang.', 'العطل حسب الولاية + باحث عطلة نهاية الأسبوع الطويلة.', 'राज्यवार अवकाश + लंबा सप्ताहांत खोजक।', 'Festivos por estado + buscador de puentes.', 'Jours fériés par État + recherche de ponts.'),
   },
+  {
+    id: 'road-tax-calculator', href: '/tools/road-tax-calculator', icon: '🚙', color: '#F59E0B', status: 'live', group: 'daily',
+    title: L('Kalkulator Cukai Jalan', 'Road Tax Calculator', '路税计算器', 'சாலை வரி கணிப்பான்', '道路税計算機', '도로세 계산기', 'เครื่องคำนวณภาษีถนน', 'Máy tính thuế đường bộ', 'Kalkulator Pajak Jalan', 'حاسبة ضريبة الطريق', 'रोड टैक्स कैलकुलेटर', 'Calculadora de impuesto de circulación', 'Calculateur de taxe routière'),
+    blurb: L('Saloon persendirian Semenanjung, ikut cc enjin.', 'Private saloon, Peninsular, by engine cc.', '半岛私人轿车，按引擎 cc。', 'சொந்த சலூன், தீபகற்பம், இன்ஜின் cc வாரியாக.', '半島の自家用セダン、排気量別。', '반도 자가용 세단, 배기량별.', 'รถเก๋งส่วนบุคคล คาบสมุทร ตาม cc', 'Xe saloon cá nhân, Bán đảo, theo cc.', 'Sedan pribadi, Semenanjung, per cc.', 'سيدان خاص، شبه الجزيرة، حسب سعة المحرك.', 'निजी सैलून, प्रायद्वीप, इंजन cc अनुसार।', 'Sedán privado, Península, por cc.', 'Berline privée, Péninsule, par cylindrée.'),
+  },
 ];
 
 const by = (locale: Locale) => (t: Tool) => ({ ...t, label: t.title[locale], desc: t.blurb[locale] });
@@ -207,6 +212,9 @@ const ARTICLE_TOOL: Record<string, string> = {
   'employment/public-holidays-malaysia': 'public-holidays',
   'money-daily-life/public-holidays': 'public-holidays',
   'employment/leave-entitlements-malaysia': 'public-holidays',
+  // Road tax
+  'transport/road-tax-renewal': 'road-tax-calculator',
+  'transport/road-transport-department-jpj': 'road-tax-calculator',
 };
 
 /** The live tool to surface on an article, or null. Key = "category/slug". */

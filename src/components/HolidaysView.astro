@@ -10,8 +10,8 @@ import SponsorCTA from './SponsorCTA.astro';
 import PageHero from './PageHero.astro';
 import { holidaysFor, longWeekends, nextHoliday, STATES, YEARS, META, type StateId, type Lang } from '@/lib/holidays/engine';
 
-interface Props { locale: Locale; }
-const { locale } = Astro.props;
+interface Props { locale: Locale; initialState?: StateId; }
+const { locale, initialState } = Astro.props;
 const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
 const lang: Lang = locale === 'zh' ? 'zh' : locale === 'ms' ? 'ms' : 'en';
 const intlLocale = locale === 'zh' ? 'zh-CN' : locale === 'ms' ? 'ms-MY' : locale;
@@ -20,7 +20,7 @@ const sponsor = resolveSponsor(undefined, undefined, false, 'employment', 'publi
 const sponsorHref = sponsor ? sponsorUrl(sponsor, 'tools', 'public-holidays') : '';
 
 const defaultYear = YEARS.includes(2026) ? 2026 : YEARS[0];
-const defaultState: StateId = 'kuala-lumpur';
+const defaultState: StateId = initialState ?? 'kuala-lumpur';
 const today = new Date().toISOString().slice(0, 10);
 const list = holidaysFor(defaultState, defaultYear, lang);
 const lweeks = longWeekends(defaultYear, defaultState, lang);
@@ -71,7 +71,9 @@ const faqs = [
   },
 ];
 
-const title = L('Cuti Umum Malaysia', 'Malaysia Public Holidays', '马来西亚公共假期');
+const title = initialState
+  ? L(`Cuti Umum ${stateName(initialState)}`, `${stateName(initialState)} Public Holidays`, `${stateName(initialState)}公共假期`)
+  : L('Cuti Umum Malaysia', 'Malaysia Public Holidays', '马来西亚公共假期');
 const heroDesc = L(
   `Cuti umum mengikut negeri dan tahun (${YEARS[0]}–${YEARS[YEARS.length - 1]}) — dengan pencari hujung minggu panjang dan kalkulator hari bekerja. Semua dalam pelayar.`,
   `Public holidays by state and year (${YEARS[0]}–${YEARS[YEARS.length - 1]}) — with a long-weekend finder and a working-days calculator. All in your browser.`,
