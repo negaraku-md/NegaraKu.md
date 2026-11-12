@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import AuditExemptionView from '@/components/AuditExemptionView.astro';
+const locale = 'ar';
+---
+
+<BaseLayout
+  locale={locale}
+  title="Penyemak Pengecualian Audit Malaysia"
+  description="2-of-3 test — revenue, assets, employees"
+  path="/tools/audit-exemption-checker"
+>
+  <AuditExemptionView locale={locale} />
+</BaseLayout>

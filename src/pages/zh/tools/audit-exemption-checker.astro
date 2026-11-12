@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import AuditExemptionView from '@/components/AuditExemptionView.astro';
+const locale = 'zh';
+---
+
+<BaseLayout
+  locale={locale}
+  title="马来西亚审计豁免检查器"
+  description="2-of-3 test — revenue, assets, employees"
+  path="/tools/audit-exemption-checker"
+>
+  <AuditExemptionView locale={locale} />
+</BaseLayout>

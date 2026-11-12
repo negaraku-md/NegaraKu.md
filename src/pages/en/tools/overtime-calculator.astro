@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import OvertimeCalculatorView from '@/components/OvertimeCalculatorView.astro';
+const locale = 'en';
+---
+
+<BaseLayout
+  locale={locale}
+  title="Malaysia Overtime & Leave Pay Calculator"
+  description="Overtime + rest day + public holiday + unpaid leave"
+  path="/tools/overtime-calculator"
+>
+  <OvertimeCalculatorView locale={locale} />
+</BaseLayout>

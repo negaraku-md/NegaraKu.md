@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import OvertimeCalculatorView from '@/components/OvertimeCalculatorView.astro';
+const locale = 'zh';
+---
+
+<BaseLayout
+  locale={locale}
+  title="马来西亚加班与请假工资计算器"
+  description="加班 + 休息日 + 公共假期 + 无薪假"
+  path="/tools/overtime-calculator"
+>
+  <OvertimeCalculatorView locale={locale} />
+</BaseLayout>

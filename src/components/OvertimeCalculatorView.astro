@@ -1,0 +1,241 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
+import SponsorCTA from './SponsorCTA.astro';
+import PageHero from './PageHero.astro';
+import { OT } from '@/lib/tax/overtime';
+
+interface Props { locale: Locale; }
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const sponsor = resolveSponsor(undefined, undefined, false, 'business', 'overtime-calculator');
+const sponsorHref = sponsor ? sponsorUrl(sponsor, 'tools', 'overtime-calculator') : '';
+
+const faqs = [
+  {
+    q: L('Bagaimana kadar biasa (ORP) dan kadar sejam dikira?',
+         'How are the ordinary rate of pay (ORP) and hourly rate derived?',
+         '普通工资率（ORP）与时薪如何计算？'),
+    a: L('Bagi pekerja bergaji bulanan, kadar biasa sehari (ORP) = gaji bulanan ÷ 26 (Akta Kerja 1955, s.60I). Kadar sejam = ORP ÷ jam kerja biasa sehari (lazimnya 8). Semua kiraan lebih masa bermula daripada dua angka ini.',
+         'For a monthly-rated employee, the ordinary rate of pay per day (ORP) = monthly wage ÷ 26 (Employment Act 1955, s.60I). The hourly rate = ORP ÷ normal daily hours (usually 8). Every overtime figure starts from these two numbers.',
+         '对于月薪雇员，每日普通工资率（ORP）＝月薪 ÷ 26（1955年雇佣法令第60I条）。时薪＝ORP ÷ 每日正常工时（通常为 8 小时）。所有加班计算都从这两个数字出发。'),
+  },
+  {
+    q: L('Apakah pengganda bagi setiap jenis hari?',
+         'What are the multipliers for each day type?',
+         '各类工作日的倍率是多少？'),
+    a: L('Lebih masa pada hari biasa = 1.5× kadar sejam. Kerja pada hari rehat melebihi jam biasa = 2× kadar sejam untuk jam lebihan. Kerja pada cuti umum melebihi jam biasa = 3× kadar sejam untuk jam lebihan; kerja dalam jam biasa pada cuti umum = 2 hari gaji (ORP). Cuti tanpa gaji ditolak pada kadar ORP sehari.',
+         'Normal-day overtime = 1.5× the hourly rate. Work on a rest day beyond normal hours = 2× the hourly rate for the excess hours. Work on a public holiday beyond normal hours = 3× the hourly rate for the excess; work within normal hours on a public holiday = 2 days’ pay (ORP). Unpaid leave is deducted at one day’s ORP per day.',
+         '普通工作日加班＝时薪的 1.5 倍。休息日超出正常工时的工作，对超出部分按时薪 2 倍计算。公共假期超出正常工时的工作，对超出部分按时薪 3 倍计算；公共假期正常工时内的工作＝2 天工资（ORP）。无薪假按每天一天 ORP 扣除。'),
+  },
+  {
+    q: L('Adakah kadar ini terpakai kepada semua pekerja?',
+         'Do these rates apply to every employee?',
+         '这些费率适用于所有雇员吗？'),
+    a: L(`Peruntukan kadar berkanun ini tidak terpakai kepada pekerja yang bergaji melebihi RM${OT.coverageCap.toLocaleString('en-US')}/bulan, kecuali mereka termasuk dalam perenggan 2 Jadual Pertama Akta Kerja 1955 (contohnya pekerja manual tanpa mengira gaji). Di luar had ini, lebih masa bergantung pada kontrak pekerjaan anda.`,
+         `These statutory rate provisions do not apply to employees earning above RM${OT.coverageCap.toLocaleString('en-US')}/month, unless they fall under paragraph 2 of the First Schedule to the Employment Act 1955 (for example manual workers, regardless of wage). Above this cap, overtime depends on your employment contract.`,
+         `这些法定费率条款不适用于月薪超过 RM${OT.coverageCap.toLocaleString('en-US')} 的雇员，除非他们属于1955年雇佣法令第一附表第2段所列情形（例如体力劳动者，不论工资）。超过此上限后，加班取决于你的雇佣合同。`),
+  },
+];
+
+const title = L('Kalkulator Kerja Lebih Masa Malaysia', 'Malaysia Overtime & Leave Pay Calculator', '马来西亚加班与请假工资计算器');
+const heroDesc = L(
+  'Kira bayaran lebih masa, kerja hari rehat dan cuti umum, serta potongan cuti tanpa gaji di bawah Akta Kerja 1955 — semua dalam pelayar, tiada data dihantar.',
+  'Work out overtime, rest-day and public-holiday pay, plus unpaid-leave deductions under the Employment Act 1955 — all in your browser, no data sent.',
+  '依据1955年雇佣法令计算加班、休息日与公共假期工资，以及无薪假扣除——全部在浏览器中运行，数据不外传。',
+);
+
+const ui = {
+  wage: L('Gaji bulanan (RM)', 'Monthly wage (RM)', '月薪（RM）'),
+  normalHours: L('Jam kerja biasa sehari', 'Normal daily hours', '每日正常工时'),
+  dayType: L('Jenis hari', 'Day type', '工作日类型'),
+  optNormal: L('Lebih masa hari biasa', 'Overtime on a normal day', '普通工作日加班'),
+  optRest: L('Kerja pada hari rehat', 'Work on a rest day', '休息日工作'),
+  optHoliday: L('Kerja pada cuti umum', 'Work on a public holiday', '公共假期工作'),
+  optUnpaid: L('Cuti tanpa gaji', 'Unpaid leave', '无薪假'),
+  hoursLabel: L('Jam bekerja', 'Hours worked', '工作小时数'),
+  daysLabel: L('Hari cuti tanpa gaji', 'Days of unpaid leave', '无薪假天数'),
+  payLabel: L('Bayaran lebih masa / tambahan', 'Overtime / extra pay', '加班／额外工资'),
+  deductionLabel: L('Potongan gaji', 'Deduction', '工资扣除'),
+  orp: L('Kadar biasa sehari (ORP)', 'Ordinary rate of pay (ORP)', '每日普通工资率（ORP）'),
+  hourly: L('Kadar sejam', 'Hourly rate', '时薪'),
+  breakdown: L('Pengiraan', 'Breakdown', '计算过程'),
+  asOf: L('Kadar setakat', 'Rates as of', '费率截至'),
+  caveat: L(
+    `Kadar berkanun ini tidak terpakai kepada pekerja yang bergaji melebihi RM${OT.coverageCap.toLocaleString('en-US')}/bulan melainkan mereka termasuk dalam perenggan 2 Jadual Pertama Akta Kerja 1955.`,
+    `These statutory rates do not apply to employees earning above RM${OT.coverageCap.toLocaleString('en-US')}/month unless they fall under First Schedule paragraph 2 of the Employment Act 1955.`,
+    `这些法定费率不适用于月薪超过 RM${OT.coverageCap.toLocaleString('en-US')} 的雇员，除非他们属于1955年雇佣法令第一附表第2段所列情形。`,
+  ),
+  disclaimer: L(
+    'Anggaran sahaja, bukan nasihat undang-undang atau gaji. Kadar sebenar bergantung pada kontrak pekerjaan, pengkelasan pekerja dan pengecualian di bawah Akta Kerja 1955. Sahkan dengan majikan, slip gaji atau Jabatan Tenaga Kerja.',
+    'Estimate only, not legal or payroll advice. Actual pay depends on your employment contract, worker classification and exemptions under the Employment Act 1955. Verify with your employer, payslip or the Labour Department.',
+    '仅为估算，非法律或薪资建议。实际工资取决于你的雇佣合同、雇员类别以及1955年雇佣法令下的豁免。请以雇主、工资单或劳工局核实。',
+  ),
+  howH: L('Cara ia dikira', 'How it is calculated', '计算方式'),
+  learnH: L('Ketahui lebih lanjut', 'Learn more', '了解更多'),
+};
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
+    { label: title },
+  ]}
+  title={title}
+  desc={heroDesc}
+/>
+
+<section class="container block">
+  <div
+    class="itc"
+    id="ot"
+    data-hours-label={ui.hoursLabel}
+    data-days-label={ui.daysLabel}
+    data-pay-label={ui.payLabel}
+    data-deduction-label={ui.deductionLabel}
+  >
+    <form class="itc-form" autocomplete="off">
+      <div class="itc-row">
+        <label class="itc-field itc-income">
+          <span>{ui.wage}</span>
+          <input type="number" id="ot-wage" inputmode="decimal" min="0" step="100" placeholder="3000" />
+        </label>
+        <label class="itc-field">
+          <span>{ui.normalHours}</span>
+          <input type="number" id="ot-normal" inputmode="decimal" min="1" step="1" placeholder="8" value="8" />
+        </label>
+      </div>
+      <div class="itc-row">
+        <label class="itc-field">
+          <span>{ui.dayType}</span>
+          <select id="ot-daytype">
+            <option value="normal-ot">{ui.optNormal}</option>
+            <option value="rest-day">{ui.optRest}</option>
+            <option value="public-holiday">{ui.optHoliday}</option>
+            <option value="unpaid-leave">{ui.optUnpaid}</option>
+          </select>
+        </label>
+        <label class="itc-field">
+          <span id="ot-qty-label">{ui.hoursLabel}</span>
+          <input type="number" id="ot-qty" inputmode="decimal" min="0" step="0.5" placeholder="2" />
+        </label>
+      </div>
+    </form>
+
+    <aside class="itc-out" aria-live="polite">
+      <p class="itc-asof">{ui.asOf} <span id="ot-asof">{OT.asOf}</span></p>
+      <div class="itc-headline">
+        <span class="itc-label" id="ot-result-label">{ui.payLabel}</span>
+        <strong class="itc-amount" id="ot-amount">RM0</strong>
+      </div>
+      <dl class="itc-lines">
+        <div><dt>{ui.orp}</dt><dd id="ot-orp">RM0</dd></div>
+        <div><dt>{ui.hourly}</dt><dd id="ot-hourly">RM0</dd></div>
+        <div class="ot-bk"><dt>{ui.breakdown}</dt><dd id="ot-breakdown">—</dd></div>
+      </dl>
+      <p class="ot-caveat">{ui.caveat}</p>
+    </aside>
+  </div>
+
+  <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
+
+  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
+
+  <div class="itc-prose">
+    <h2>{ui.howH}</h2>
+    <p>{L(
+      'Kami kira kadar biasa sehari (ORP = gaji bulanan ÷ 26) dan kadar sejam (ORP ÷ jam kerja biasa). Lebih masa hari biasa dibayar 1.5× kadar sejam; kerja hari rehat melebihi jam biasa pada 2×; kerja cuti umum melebihi jam biasa pada 3×, manakala kerja dalam jam biasa pada cuti umum bernilai 2 hari gaji. Cuti tanpa gaji ditolak pada ORP sehari.',
+      'We compute the ordinary rate of pay per day (ORP = monthly wage ÷ 26) and the hourly rate (ORP ÷ normal daily hours). Normal-day overtime pays 1.5× the hourly rate; rest-day work beyond normal hours pays 2×; public-holiday work beyond normal hours pays 3×, while work within normal hours on a public holiday is worth 2 days’ pay. Unpaid leave is deducted at one day’s ORP.',
+      '我们计算每日普通工资率（ORP＝月薪 ÷ 26）与时薪（ORP ÷ 每日正常工时）。普通工作日加班按时薪 1.5 倍支付；休息日超出正常工时按 2 倍；公共假期超出正常工时按 3 倍，而公共假期正常工时内的工作价值 2 天工资。无薪假按每天一天 ORP 扣除。',
+    )}</p>
+    <h2>FAQ</h2>
+    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
+    <h2>{ui.learnH}</h2>
+    <ul class="itc-links">
+      <li><a href={localePath('/employment/working-hours-overtime-malaysia', locale)}>{L('Waktu kerja, hari rehat dan lebih masa', 'Working hours, rest days and overtime', '工作时间、休息日与加班')}</a></li>
+      <li><a href={localePath('/tools/salary-take-home', locale)}>{L('Kalkulator gaji bersih', 'Salary take-home calculator', '实得工资计算器')}</a></li>
+    </ul>
+    <h3>{L('Sumber', 'Sources', '来源')}</h3>
+    <ul class="itc-src">{OT.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}</ul>
+  </div>
+</section>
+
+<script>
+  import { computeWorkPay } from '@/lib/tax/overtime';
+  const $ = (id) => document.getElementById(id);
+  const root = $('ot');
+  if (root) {
+    const f = new Intl.NumberFormat('en-MY', { style: 'currency', currency: 'MYR', minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    const rm = (n) => f.format(n || 0).replace('MYR', 'RM').replace(/\s/g, '');
+    const num = (el) => { const v = parseFloat(el && el.value); return Number.isFinite(v) && v > 0 ? v : 0; };
+    const d = root.dataset;
+    function recompute() {
+      const dayType = $('ot-daytype').value;
+      const isUnpaid = dayType === 'unpaid-leave';
+      // Swap the numeric field's label: hours for work modes, days for unpaid leave.
+      $('ot-qty-label').textContent = isUnpaid ? d.daysLabel : d.hoursLabel;
+      const qty = num($('ot-qty'));
+      const r = computeWorkPay({
+        monthlyWage: num($('ot-wage')),
+        normalHours: num($('ot-normal')) || 8,
+        dayType,
+        hours: isUnpaid ? 0 : qty,
+        days: isUnpaid ? qty : 0,
+      });
+      $('ot-result-label').textContent = r.isDeduction ? d.deductionLabel : d.payLabel;
+      $('ot-amount').textContent = (r.isDeduction ? '−' : '') + rm(r.amount);
+      $('ot-orp').textContent = rm(r.orp);
+      $('ot-hourly').textContent = rm(r.hourly);
+      $('ot-breakdown').textContent = r.breakdown || '—';
+    }
+    root.addEventListener('input', recompute);
+    root.addEventListener('change', recompute);
+    recompute();
+  }
+</script>
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'SoftwareApplication', name: title, applicationCategory: 'FinanceApplication', operatingSystem: 'Web', offers: { '@type': 'Offer', price: '0', priceCurrency: 'MYR' }, description: heroDesc },
+    { '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+  ],
+})} />
+
+<style>
+  .itc { display: grid; grid-template-columns: 1.4fr 1fr; gap: 1.5rem; align-items: start; }
+  @media (max-width: 860px) { .itc { grid-template-columns: 1fr; } }
+  .itc-form { display: grid; gap: 1.1rem; }
+  .itc-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+  @media (max-width: 520px) { .itc-row { grid-template-columns: 1fr; } }
+  .itc-field { display: grid; gap: 0.35rem; font-size: 0.9rem; }
+  .itc-field > span { font-weight: 600; color: var(--ink-soft); }
+  .itc-field input, .itc-field select { font: inherit; padding: 0.55rem 0.7rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .itc-field input:focus, .itc-field select:focus { outline: 2px solid var(--gold); outline-offset: 1px; }
+  .itc-out { position: sticky; top: 1rem; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 1.2rem 1.3rem; }
+  .itc-asof { margin: 0 0 0.8rem; font-size: 0.72rem; color: var(--muted); }
+  .itc-headline { display: grid; gap: 0.15rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
+  .itc-label { font-size: 0.8rem; color: var(--ink-soft); font-weight: 600; }
+  .itc-amount { font-size: 2.1rem; font-weight: 800; color: var(--gold); line-height: 1.1; }
+  .itc-lines { display: grid; gap: 0.5rem; margin: 1rem 0 0; }
+  .itc-lines > div { display: flex; justify-content: space-between; gap: 1rem; font-size: 0.86rem; }
+  .itc-lines dt { color: var(--ink-soft); margin: 0; }
+  .itc-lines dd { margin: 0; font-weight: 700; font-variant-numeric: tabular-nums; }
+  .ot-bk { align-items: baseline; }
+  .ot-bk dd { font-weight: 600; font-size: 0.8rem; color: var(--muted); text-align: right; }
+  .ot-caveat { margin: 1rem 0 0; font-size: 0.75rem; line-height: 1.55; color: var(--muted); }
+  .itc-disclaimer { margin: 1.4rem 0 0; padding: 0.8rem 1rem; font-size: 0.82rem; line-height: 1.6; color: var(--ink-soft); background: color-mix(in srgb, var(--gold) 6%, var(--surface, transparent)); border: 1px solid color-mix(in srgb, var(--gold) 30%, transparent); border-radius: 10px; }
+  .itc-prose { max-width: 58rem; margin-top: 2.5rem; }
+  .itc-prose h2 { font-size: 1.15rem; margin: 2rem 0 0.7rem; }
+  .itc-prose h3 { font-size: 1rem; margin: 1.6rem 0 0.5rem; }
+  .itc-prose p { line-height: 1.7; color: var(--ink-soft); }
+  .itc-faq dt { font-weight: 700; margin-top: 1rem; }
+  .itc-faq dd { margin: 0.3rem 0 0; color: var(--ink-soft); line-height: 1.7; }
+  .itc-links, .itc-src { padding-left: 1.1rem; line-height: 1.9; }
+  .itc-src { font-size: 0.85rem; }
+  .itc-src a, .itc-links a { color: var(--gold); }
+</style>

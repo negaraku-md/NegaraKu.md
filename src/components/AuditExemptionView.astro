@@ -1,0 +1,281 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
+import SponsorCTA from './SponsorCTA.astro';
+import PageHero from './PageHero.astro';
+import { AUDIT } from '@/lib/tax/auditExemption';
+
+interface Props { locale: Locale; }
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const sponsor = resolveSponsor(undefined, undefined, false, 'audit', 'audit-exemption-checker');
+const sponsorHref = sponsor ? sponsorUrl(sponsor, 'tools', 'audit-exemption-checker') : '';
+
+const faqs = [
+  {
+    q: L('Berapakah daripada tiga ujian yang perlu dipenuhi?',
+         'How many of the three tests must I meet?',
+         '三项测试需满足几项？'),
+    a: L('Sekurang-kurangnya DUA daripada tiga — hasil, jumlah aset dan bilangan pekerja — bukan ketiga-tiganya. Syarikat anda mesti memenuhi dua daripada tiga itu bagi tahun kewangan semasa dan dua tahun sebelumnya. Jika mana-mana satu daripada tiga tahun itu memenuhi kurang daripada dua ujian, audit diperlukan.',
+         'At least TWO of three — revenue, total assets and employee headcount — not all three. Your company must meet two of those three for the current financial year and the two years before it. If any one of the three years meets fewer than two tests, an audit is required.',
+         '至少满足三项中的两项——营业额、总资产与员工人数——而非全部三项。你的公司须在本财政年度及之前两个年度均满足其中两项。若三个年度中任一年度满足少于两项，则须审计。'),
+  },
+  {
+    q: L('Apakah ambang yang terpakai dan bila ia berubah?',
+         'What are the thresholds and when do they change?',
+         '门槛是多少，何时改变？'),
+    a: L('Ambang diperkenalkan berperingkat mengikut bila tempoh kewangan BERMULA: RM1 juta hasil / RM1 juta aset / 10 pekerja untuk tempoh yang bermula pada 2025; RM2 juta / RM2 juta / 20 untuk 2026; dan RM3 juta / RM3 juta / 30 untuk tempoh yang bermula pada 2027 atau selepasnya. Tarikh permulaan tempoh menetapkan peringkat, bukan tahun penutupan.',
+         'The thresholds phase in by when the financial period COMMENCES: RM1m revenue / RM1m assets / 10 employees for periods commencing in 2025; RM2m / RM2m / 20 for 2026; and RM3m / RM3m / 30 for periods commencing in 2027 or later. The commencement date fixes the phase, not the year-end.',
+         '门槛按财政期间的起始时间分阶段引入：2025 年起始的期间为营业额 RM100 万／资产 RM100 万／10 名员工；2026 年为 RM200 万／RM200 万／20；2027 年或以后起始为 RM300 万／RM300 万／30。决定阶段的是期间起始日，而非结账年。'),
+  },
+  {
+    q: L('Ambang manakah yang diguna untuk dua tahun sebelumnya?',
+         'Which thresholds apply to the two prior years?',
+         '前两个年度使用哪一组门槛？'),
+    a: L('Ketiga-tiga tahun — tahun semasa dan dua tahun sebelumnya — diuji terhadap ambang peringkat SEMASA (peringkat yang ditetapkan oleh bila tempoh semasa bermula). Angka lama dua tahun yang lalu tidak dinilai terhadap ambang lamanya sendiri; semuanya dibandingkan dengan peringkat semasa.',
+         'All three years — the current year and the two preceding years — are tested against the CURRENT phase thresholds (the phase set by when the current period commences). The older figures from two years ago are not judged against their own older thresholds; everything is compared to the current phase.',
+         '全部三个年度——本年度及之前两个年度——都对照当前阶段门槛测试（由本期间起始时间所确定的阶段）。两年前的旧数据不按其各自的旧门槛评估，一律与当前阶段比较。'),
+  },
+];
+
+const title = L('Penyemak Pengecualian Audit Malaysia', 'Malaysia Audit Exemption Checker', '马来西亚审计豁免检查器');
+const heroDesc = L(
+  'Semak sama ada syarikat sendirian anda layak dikecualikan daripada audit berkanun — ujian dua daripada tiga (hasil, aset, pekerja) merentas tiga tahun kewangan. Semua dalam pelayar; tiada data dihantar.',
+  'Check whether your private company qualifies for audit exemption — the two-of-three test (revenue, assets, employees) across three financial years. All in your browser; no data sent.',
+  '检查你的私人公司是否符合法定审计豁免——三个财政年度的三选二测试（营业额、资产、员工）。全部在浏览器中运行，数据不外传。',
+);
+
+const ui = {
+  commence: L('Tempoh kewangan bermula pada', 'Financial period commences in', '财政期间起始于'),
+  or2027: L('2027 atau selepasnya', '2027 or later', '2027 年或以后'),
+  yCurrent: L('Tahun semasa', 'Current year', '本年度'),
+  yPrev: L('Tahun sebelumnya', 'Previous year', '前一年度'),
+  yTwo: L('Dua tahun lalu', 'Two years ago', '前两年度'),
+  revenue: L('Hasil (RM)', 'Revenue (RM)', '营业额（RM）'),
+  assets: L('Jumlah aset (RM)', 'Total assets (RM)', '总资产（RM）'),
+  employees: L('Pekerja', 'Employees', '员工人数'),
+  verdictLabel: L('Keputusan', 'Verdict', '结论'),
+  thresholdsLabel: L('Ambang terpakai', 'Applicable thresholds', '适用门槛'),
+  breakdownLabel: L('Pecahan setiap tahun', 'Per-year breakdown', '逐年明细'),
+  asOf: L('Peraturan setakat', 'Rules as of', '规则截至'),
+  caveats: L(
+    'Anda perlukan sekurang-kurangnya DUA daripada tiga ujian bagi KETIGA-TIGA tahun yang diuji terhadap ambang peringkat SEMASA. Syarikat dorman dan syarikat tanpa hasil layak di bawah kategori yang berasingan. Ini panduan, bukan pendapat audit.',
+    'You need at least TWO of three tests for ALL three years, tested against the CURRENT phase thresholds. Dormant companies and zero-revenue companies qualify under separate categories. This is guidance, not an audit opinion.',
+    '你须在全部三个年度均满足三项测试中的至少两项，并对照当前阶段门槛测试。休眠公司与零营业额公司按单独类别符合资格。此为指引，而非审计意见。',
+  ),
+  howH: L('Cara ia berfungsi', 'How it works', '运作方式'),
+  learnH: L('Ketahui lebih lanjut', 'Learn more', '了解更多'),
+};
+
+// Localized verdict + breakdown strings the client script reads from data-* (the
+// outcome depends on the user's figures, so the script — not the server —
+// assembles the verdict and the per-year pass lines).
+const vExempt = L('Berkemungkinan dikecualikan audit', 'Likely exempt from audit', '很可能获审计豁免');
+const vRequired = L('Audit diperlukan', 'Audit required', '需要审计');
+const ofThree = L('{n} daripada 3', '{n} of 3', '3 项中 {n} 项'); // {n} replaced client-side
+const tRevenue = L('hasil', 'revenue', '营业额');
+const tAssets = L('aset', 'assets', '资产');
+const tEmployees = L('pekerja', 'employees', '员工');
+const noneLabel = L('tiada', 'none', '无');
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
+    { label: title },
+  ]}
+  title={title}
+  desc={heroDesc}
+/>
+
+<section class="container block">
+  <div
+    class="itc"
+    id="ae"
+    data-exempt={vExempt}
+    data-required={vRequired}
+    data-of3={ofThree}
+    data-t-revenue={tRevenue}
+    data-t-assets={tAssets}
+    data-t-employees={tEmployees}
+    data-none={noneLabel}
+  >
+    <form class="itc-form" autocomplete="off">
+      <div class="itc-row">
+        <label class="itc-field itc-income">
+          <span>{ui.commence}</span>
+          <select id="ae-commence">
+            <option value="2025">2025</option>
+            <option value="2026" selected>2026</option>
+            <option value="2027">{ui.or2027}</option>
+          </select>
+        </label>
+      </div>
+
+      <fieldset class="ae-year">
+        <legend>{ui.yCurrent}</legend>
+        <div class="ae-grid">
+          <label class="itc-field"><span>{ui.revenue}</span><input type="number" id="ae-y0-rev" inputmode="decimal" min="0" step="1000" placeholder="0" /></label>
+          <label class="itc-field"><span>{ui.assets}</span><input type="number" id="ae-y0-assets" inputmode="decimal" min="0" step="1000" placeholder="0" /></label>
+          <label class="itc-field"><span>{ui.employees}</span><input type="number" id="ae-y0-emp" inputmode="numeric" min="0" step="1" placeholder="0" /></label>
+        </div>
+      </fieldset>
+
+      <fieldset class="ae-year">
+        <legend>{ui.yPrev}</legend>
+        <div class="ae-grid">
+          <label class="itc-field"><span>{ui.revenue}</span><input type="number" id="ae-y1-rev" inputmode="decimal" min="0" step="1000" placeholder="0" /></label>
+          <label class="itc-field"><span>{ui.assets}</span><input type="number" id="ae-y1-assets" inputmode="decimal" min="0" step="1000" placeholder="0" /></label>
+          <label class="itc-field"><span>{ui.employees}</span><input type="number" id="ae-y1-emp" inputmode="numeric" min="0" step="1" placeholder="0" /></label>
+        </div>
+      </fieldset>
+
+      <fieldset class="ae-year">
+        <legend>{ui.yTwo}</legend>
+        <div class="ae-grid">
+          <label class="itc-field"><span>{ui.revenue}</span><input type="number" id="ae-y2-rev" inputmode="decimal" min="0" step="1000" placeholder="0" /></label>
+          <label class="itc-field"><span>{ui.assets}</span><input type="number" id="ae-y2-assets" inputmode="decimal" min="0" step="1000" placeholder="0" /></label>
+          <label class="itc-field"><span>{ui.employees}</span><input type="number" id="ae-y2-emp" inputmode="numeric" min="0" step="1" placeholder="0" /></label>
+        </div>
+      </fieldset>
+    </form>
+
+    <aside class="itc-out" aria-live="polite">
+      <p class="itc-asof">{ui.asOf} <span id="ae-asof">{AUDIT.asOf}</span></p>
+      <div class="itc-headline">
+        <span class="itc-label">{ui.verdictLabel}</span>
+        <strong class="itc-amount itc-verdict" id="ae-verdict">—</strong>
+      </div>
+      <dl class="itc-lines">
+        <div><dt>{ui.thresholdsLabel}</dt><dd id="ae-thresholds">—</dd></div>
+      </dl>
+      <div class="ae-break">
+        <p class="ae-break-h">{ui.breakdownLabel}</p>
+        <dl class="itc-lines">
+          <div><dt>{ui.yCurrent}</dt><dd id="ae-b0">—</dd></div>
+          <div><dt>{ui.yPrev}</dt><dd id="ae-b1">—</dd></div>
+          <div><dt>{ui.yTwo}</dt><dd id="ae-b2">—</dd></div>
+        </dl>
+      </div>
+    </aside>
+  </div>
+
+  <p class="itc-disclaimer">⚠️ {ui.caveats}</p>
+
+  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
+
+  <div class="itc-prose">
+    <h2>{ui.howH}</h2>
+    <p>{L(
+      'Pilih bila tempoh kewangan syarikat anda bermula — ini menetapkan peringkat ambang. Masukkan hasil, jumlah aset dan bilangan pekerja bagi tahun semasa dan dua tahun sebelumnya. Kami menguji setiap tahun terhadap ambang peringkat semasa: untuk dikecualikan, setiap satu daripada ketiga-tiga tahun mesti memenuhi sekurang-kurangnya dua daripada tiga ujian. Ini penyemak status, bukan kalkulator cukai: ia memberi keputusan, bukan jumlah ringgit.',
+      'Pick when your company\'s financial period commences — this sets the threshold phase. Enter revenue, total assets and employee headcount for the current year and the two years before it. We test each year against the current phase thresholds: to be exempt, every one of the three years must meet at least two of the three tests. This is a status checker, not a tax calculator: it returns a verdict, not a ringgit figure.',
+      '选择你公司财政期间的起始时间——这确定门槛阶段。输入本年度及之前两个年度的营业额、总资产与员工人数。我们将每个年度对照当前阶段门槛测试：要获豁免，三个年度中的每一个都须满足三项测试中的至少两项。这是状态检查器，而非税额计算器：它给出结论，而非金额。',
+    )}</p>
+    <h2>FAQ</h2>
+    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
+    <h2>{ui.learnH}</h2>
+    <ul class="itc-links">
+      <li><a href={localePath('/audit/audit-exemption-thresholds', locale)}>{L('Ambang pengecualian audit', 'Audit exemption thresholds', '审计豁免门槛')}</a></li>
+      <li><a href={localePath('/compliance-calendar', locale)}>{L('Kalendar pematuhan', 'Compliance calendar', '合规日历')}</a></li>
+    </ul>
+    <h3>{L('Sumber', 'Sources', '来源')}</h3>
+    <ul class="itc-src">{AUDIT.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}</ul>
+  </div>
+</section>
+
+<script>
+  import { checkAuditExemption } from '@/lib/tax/auditExemption';
+  const $ = (id) => document.getElementById(id);
+  const root = $('ae');
+  if (root) {
+    const exemptText = root.dataset.exempt || 'Likely exempt from audit';
+    const requiredText = root.dataset.required || 'Audit required';
+    const of3 = root.dataset.of3 || '{n} of 3';
+    const tRevenue = root.dataset.tRevenue || 'revenue';
+    const tAssets = root.dataset.tAssets || 'assets';
+    const tEmployees = root.dataset.tEmployees || 'employees';
+    const noneLabel = root.dataset.none || 'none';
+    const f0 = new Intl.NumberFormat('en-MY', { style: 'currency', currency: 'MYR', maximumFractionDigits: 0 });
+    const rm0 = (n) => f0.format(n || 0).replace('MYR', 'RM').replace(/\s/g, '');
+    const nf = new Intl.NumberFormat('en-US');
+    const num = (el) => { const v = parseFloat(el && el.value); return Number.isFinite(v) && v > 0 ? v : 0; };
+    const figuresFor = (p) => ({ revenue: num($(`ae-${p}-rev`)), assets: num($(`ae-${p}-assets`)), employees: num($(`ae-${p}-emp`)) });
+    function passLine(yr) {
+      const names = [];
+      if (yr.passes.revenue) names.push(tRevenue);
+      if (yr.passes.assets) names.push(tAssets);
+      if (yr.passes.employees) names.push(tEmployees);
+      const count = of3.replace('{n}', String(yr.count));
+      const mark = yr.meets ? ' ✓' : ' ✗';
+      return `${count}${mark} — ${names.length ? names.join(', ') : noneLabel}`;
+    }
+    function recompute() {
+      const commenceYear = parseInt($('ae-commence').value, 10);
+      const years = [figuresFor('y0'), figuresFor('y1'), figuresFor('y2')];
+      const r = checkAuditExemption(commenceYear, years);
+      const verdictEl = $('ae-verdict');
+      verdictEl.textContent = r.exempt ? exemptText : requiredText;
+      verdictEl.dataset.state = r.exempt ? 'exempt' : 'required';
+      const t = r.thresholds;
+      $('ae-thresholds').textContent = `${r.commenceYear}: ${rm0(t.revenue)} / ${rm0(t.assets)} / ${nf.format(t.employees)}`;
+      $('ae-b0').textContent = passLine(r.perYear[0]);
+      $('ae-b1').textContent = passLine(r.perYear[1]);
+      $('ae-b2').textContent = passLine(r.perYear[2]);
+      $('ae-asof').textContent = r.asOf;
+    }
+    root.addEventListener('input', recompute);
+    root.addEventListener('change', recompute);
+    recompute();
+  }
+</script>
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'SoftwareApplication', name: title, applicationCategory: 'FinanceApplication', operatingSystem: 'Web', offers: { '@type': 'Offer', price: '0', priceCurrency: 'MYR' }, description: heroDesc },
+    { '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+  ],
+})} />
+
+<style>
+  .itc { display: grid; grid-template-columns: 1.4fr 1fr; gap: 1.5rem; align-items: start; }
+  @media (max-width: 860px) { .itc { grid-template-columns: 1fr; } }
+  .itc-form { display: grid; gap: 1.1rem; }
+  .itc-row { display: grid; grid-template-columns: 1fr; gap: 1rem; }
+  .itc-field { display: grid; gap: 0.35rem; font-size: 0.9rem; }
+  .itc-field > span { font-weight: 600; color: var(--ink-soft); }
+  .itc-field input, .itc-field select { font: inherit; padding: 0.55rem 0.7rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .itc-field input:focus, .itc-field select:focus { outline: 2px solid var(--gold); outline-offset: 1px; }
+  .ae-year { border: 1px solid var(--line); border-radius: 12px; padding: 0.9rem 1rem 1rem; margin: 0; }
+  .ae-year legend { font-weight: 700; font-size: 0.82rem; color: var(--ink); padding: 0 0.4rem; text-transform: uppercase; letter-spacing: 0.03em; }
+  .ae-grid { display: grid; grid-template-columns: 1fr 1fr 0.7fr; gap: 0.8rem; }
+  @media (max-width: 520px) { .ae-grid { grid-template-columns: 1fr; } }
+  .itc-out { position: sticky; top: 1rem; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 1.2rem 1.3rem; }
+  .itc-asof { margin: 0 0 0.8rem; font-size: 0.72rem; color: var(--muted); }
+  .itc-headline { display: grid; gap: 0.15rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
+  .itc-label { font-size: 0.8rem; color: var(--ink-soft); font-weight: 600; }
+  .itc-amount { font-size: 2.1rem; font-weight: 800; color: var(--gold); line-height: 1.1; }
+  /* Verdict is a sentence, not a number — size it down so it fits on two lines. */
+  .itc-verdict { font-size: 1.5rem; line-height: 1.2; }
+  .itc-verdict[data-state="required"] { color: var(--ink); }
+  .itc-lines { display: grid; gap: 0.5rem; margin: 1rem 0 0; }
+  .itc-lines > div { display: flex; justify-content: space-between; gap: 1rem; font-size: 0.86rem; }
+  .itc-lines dt { color: var(--ink-soft); margin: 0; }
+  .itc-lines dd { margin: 0; font-weight: 700; font-variant-numeric: tabular-nums; text-align: right; }
+  .ae-break { margin-top: 1rem; padding-top: 0.8rem; border-top: 1px dashed var(--line); }
+  .ae-break-h { margin: 0; font-size: 0.78rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.03em; }
+  .itc-disclaimer { margin: 1.4rem 0 0; padding: 0.8rem 1rem; font-size: 0.82rem; line-height: 1.6; color: var(--ink-soft); background: color-mix(in srgb, var(--gold) 6%, var(--surface, transparent)); border: 1px solid color-mix(in srgb, var(--gold) 30%, transparent); border-radius: 10px; }
+  .itc-prose { max-width: 58rem; margin-top: 2.5rem; }
+  .itc-prose h2 { font-size: 1.15rem; margin: 2rem 0 0.7rem; }
+  .itc-prose h3 { font-size: 1rem; margin: 1.6rem 0 0.5rem; }
+  .itc-prose p { line-height: 1.7; color: var(--ink-soft); }
+  .itc-faq dt { font-weight: 700; margin-top: 1rem; }
+  .itc-faq dd { margin: 0.3rem 0 0; color: var(--ink-soft); line-height: 1.7; }
+  .itc-links, .itc-src { padding-left: 1.1rem; line-height: 1.9; }
+  .itc-src { font-size: 0.85rem; }
+  .itc-src a, .itc-links a { color: var(--gold); }
+</style>

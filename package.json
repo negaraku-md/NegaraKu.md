@@ -38,6 +38,7 @@
     "test:more": "node scripts/test-more-tools.mjs",
     "test:holidays": "node scripts/test-holidays.mjs",
     "test:roadtax": "node scripts/test-road-tax.mjs",
+    "test:biz": "node scripts/test-business-tools.mjs",
     "review:due": "node scripts/set-review-due.mjs",
     "review:queue": "node scripts/build-review-queue.mjs",
     "lifecycle": "node scripts/lifecycle.mjs",

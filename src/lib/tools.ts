@@ -132,6 +132,21 @@ export const TOOLS: Tool[] = [
     title: L('Kalkulator Cukai Jalan', 'Road Tax Calculator', '路税计算器', 'சாலை வரி கணிப்பான்', '道路税計算機', '도로세 계산기', 'เครื่องคำนวณภาษีถนน', 'Máy tính thuế đường bộ', 'Kalkulator Pajak Jalan', 'حاسبة ضريبة الطريق', 'रोड टैक्स कैलकुलेटर', 'Calculadora de impuesto de circulación', 'Calculateur de taxe routière'),
     blurb: L('Saloon persendirian Semenanjung, ikut cc enjin.', 'Private saloon, Peninsular, by engine cc.', '半岛私人轿车，按引擎 cc。', 'சொந்த சலூன், தீபகற்பம், இன்ஜின் cc வாரியாக.', '半島の自家用セダン、排気量別。', '반도 자가용 세단, 배기량별.', 'รถเก๋งส่วนบุคคล คาบสมุทร ตาม cc', 'Xe saloon cá nhân, Bán đảo, theo cc.', 'Sedan pribadi, Semenanjung, per cc.', 'سيدان خاص، شبه الجزيرة، حسب سعة المحرك.', 'निजी सैलून, प्रायद्वीप, इंजन cc अनुसार।', 'Sedán privado, Península, por cc.', 'Berline privée, Péninsule, par cylindrée.'),
   },
+  {
+    id: 'corporate-tax-estimator', href: '/tools/corporate-tax-estimator', icon: '🏛️', color: '#818CF8', status: 'live', group: 'business',
+    title: L('Anggaran Cukai Syarikat', 'Corporate Tax Estimator', '企业税估算器', 'நிறுவன வரி மதிப்பீடு', '法人税計算機', '법인세 추정기', 'เครื่องประเมินภาษีนิติบุคคล', 'Ước tính thuế doanh nghiệp', 'Estimasi Pajak Perusahaan', 'تقدير ضريبة الشركات', 'कॉर्पोरेट कर अनुमानक', 'Estimador de impuesto de sociedades', 'Estimateur d’impôt des sociétés'),
+    blurb: L('Jalur PKS 15/17/24% + kelayakan.', 'SME 15/17/24% bands + eligibility.', '中小企业 15/17/24% 级距＋资格。', 'SME 15/17/24% அடுக்குகள் + தகுதி.', '中小企業 15/17/24% + 適格性。', '중소기업 15/17/24% 구간 + 자격.', 'ขั้น SME 15/17/24% + คุณสมบัติ', 'Bậc SME 15/17/24% + điều kiện.', 'Lapisan UKM 15/17/24% + kelayakan.', 'شرائح SME 15/17/24% + الأهلية.', 'SME 15/17/24% + पात्रता।', 'Tramos pyme 15/17/24% + elegibilidad.', 'Tranches PME 15/17/24% + éligibilité.'),
+  },
+  {
+    id: 'overtime-calculator', href: '/tools/overtime-calculator', icon: '⏱️', color: '#2DD4BF', status: 'live', group: 'employment',
+    title: L('Kalkulator Kerja Lebih Masa', 'Overtime & Leave Pay', '加班与请假工资', 'மேலதிக நேர ஊதியம்', '残業・休暇手当', '초과근무·휴가 수당', 'ค่าล่วงเวลาและค่าลา', 'Lương làm thêm & nghỉ phép', 'Upah Lembur & Cuti', 'أجر العمل الإضافي والإجازة', 'ओवरटाइम और अवकाश वेतन', 'Horas extra y permisos', 'Heures sup. et congés'),
+    blurb: L('OT, hari rehat, cuti umum, cuti tanpa gaji (EA 1955).', 'OT, rest-day, holiday, unpaid leave (EA 1955).', '加班、休息日、公假、无薪假（1955年雇佣法）。', 'OT, ஓய்வுநாள், விடுமுறை, ஊதியமில்லா விடுப்பு.', '残業・休息日・祝日・無給休暇（雇用法1955）。', '초과근무·휴무일·공휴일·무급휴가(고용법1955).', 'OT วันหยุด วันหยุดราชการ ลาไม่รับเงิน', 'OT, ngày nghỉ, lễ, nghỉ không lương (EA 1955).', 'Lembur, hari istirahat, libur, cuti tanpa gaji.', 'العمل الإضافي والراحة والعطل والإجازة بدون أجر.', 'ओटी, विश्राम-दिन, अवकाश, अवैतनिक छुट्टी।', 'Horas extra, descanso, festivo, permiso sin sueldo.', 'HS, repos, férié, congé sans solde (EA 1955).'),
+  },
+  {
+    id: 'audit-exemption-checker', href: '/tools/audit-exemption-checker', icon: '🔍', color: '#FB7185', status: 'live', group: 'business',
+    title: L('Penyemak Pengecualian Audit', 'Audit Exemption Checker', '审计豁免检查器', 'தணிக்கை விலக்கு சரிபார்ப்பு', '監査免除チェッカー', '감사 면제 확인기', 'ตัวตรวจการยกเว้นตรวจสอบบัญชี', 'Kiểm tra miễn kiểm toán', 'Pemeriksa Pengecualian Audit', 'فاحص إعفاء التدقيق', 'ऑडिट छूट जाँचकर्ता', 'Verificador de exención de auditoría', 'Vérificateur d’exemption d’audit'),
+    blurb: L('Ambang 2-daripada-3 (PD 10/2024).', '2-of-3 thresholds (PD 10/2024).', '三选二门槛（PD 10/2024）。', '3-இல்-2 வரம்புகள் (PD 10/2024).', '3つのうち2つの基準（PD 10/2024）。', '3개 중 2개 기준 (PD 10/2024).', 'เกณฑ์ 2 ใน 3 (PD 10/2024)', 'Ngưỡng 2-trên-3 (PD 10/2024).', 'Ambang 2-dari-3 (PD 10/2024).', 'عتبات 2 من 3 (PD 10/2024).', '3 में से 2 सीमाएँ (PD 10/2024)।', 'Umbrales 2 de 3 (PD 10/2024).', 'Seuils 2 sur 3 (PD 10/2024).'),
+  },
 ];
 
 const by = (locale: Locale) => (t: Tool) => ({ ...t, label: t.title[locale], desc: t.blurb[locale] });
@@ -215,6 +230,18 @@ const ARTICLE_TOOL: Record<string, string> = {
   // Road tax
   'transport/road-tax-renewal': 'road-tax-calculator',
   'transport/road-transport-department-jpj': 'road-tax-calculator',
+  // Corporate tax
+  'taxation/corporate-tax-rates': 'corporate-tax-estimator',
+  'taxation/business-structure-tax-comparison': 'corporate-tax-estimator',
+  'taxation/llp-taxation': 'corporate-tax-estimator',
+  // Overtime / leave pay
+  'employment/working-hours-overtime-malaysia': 'overtime-calculator',
+  'employment/wage-deductions-malaysia': 'overtime-calculator',
+  // Audit exemption
+  'audit/audit-exemption-thresholds': 'audit-exemption-checker',
+  'audit/audit-exemption': 'audit-exemption-checker',
+  'accounting/audit-exemption-criteria': 'audit-exemption-checker',
+  'accounting/statutory-audit-requirement': 'audit-exemption-checker',
 };
 
 /** The live tool to surface on an article, or null. Key = "category/slug". */

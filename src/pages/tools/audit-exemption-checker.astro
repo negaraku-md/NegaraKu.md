@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import AuditExemptionView from '@/components/AuditExemptionView.astro';
+const locale = 'ms';
+---
+
+<BaseLayout
+  locale={locale}
+  title="Penyemak Pengecualian Audit Malaysia"
+  description="Ujian dua daripada tiga — hasil, aset, pekerja"
+  path="/tools/audit-exemption-checker"
+>
+  <AuditExemptionView locale={locale} />
+</BaseLayout>

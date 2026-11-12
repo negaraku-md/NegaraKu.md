@@ -1,0 +1,266 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
+import SponsorCTA from './SponsorCTA.astro';
+import PageHero from './PageHero.astro';
+import { CORP } from '@/lib/tax/corporateTax';
+
+interface Props { locale: Locale; }
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const sponsor = resolveSponsor(undefined, undefined, false, 'taxation', 'corporate-tax-estimator');
+const sponsorHref = sponsor ? sponsorUrl(sponsor, 'tools', 'corporate-tax-estimator') : '';
+const tax = (slug: string) => localePath(`/taxation/${slug}`, locale);
+
+const faqs = [
+  {
+    q: L('Berapakah kadar cukai SME dan siapa yang layak?', 'What are the SME tax bands and who qualifies?', '中小企业税率是多少？谁符合资格？'),
+    a: L('Syarikat SME yang layak membayar 15% atas RM150,000 pendapatan bercukai pertama, 17% atas RM450,000 berikutnya (hingga RM600,000), dan 24% atas baki. Untuk layak, syarikat mesti pemastautin dan diperbadankan di Malaysia, mempunyai modal berbayar saham biasa ≤ RM2.5 juta pada awal tempoh asas, pendapatan perniagaan kasar ≤ RM50 juta, dan tidak melebihi 20% pemilikan asing (dari YA2024).',
+         'A qualifying SME pays 15% on the first RM150,000 of chargeable income, 17% on the next RM450,000 (up to RM600,000), and 24% above that. To qualify, the company must be resident and incorporated in Malaysia, have paid-up ordinary share capital ≤ RM2.5 million at the start of the basis period, gross business income ≤ RM50 million, and no more than 20% foreign ownership (from YA2024).',
+         '符合资格的中小企业，首 RM150,000 应课税收入按 15%、接下来的 RM450,000（至 RM600,000）按 17%、超出部分按 24% 征税。要符合资格，公司须为马来西亚税务居民并在马注册、基期开始时的普通股实缴资本 ≤ RM250 万、毛营业收入 ≤ RM5,000 万，且外资持股不超过 20%（自 YA2024 起）。'),
+  },
+  {
+    q: L('Apakah empat ujian yang melayakkan SME?', 'What are the four tests that disqualify a company from SME rates?', '哪四项测试会使公司失去中小企业资格？'),
+    a: L('Keempat-empat mesti dipenuhi: (1) pemastautin dan diperbadankan di Malaysia; (2) modal berbayar saham biasa ≤ RM2.5 juta pada awal tempoh asas; (3) pendapatan perniagaan kasar ≤ RM50 juta; dan (4) tidak lebih 20% pemilikan asing. Gagal mana-mana satu bermakna kadar standard 24% dikenakan pada keseluruhan pendapatan.',
+         'All four must hold: (1) resident and incorporated in Malaysia; (2) paid-up ordinary share capital ≤ RM2.5 million at the start of the basis period; (3) gross business income ≤ RM50 million; and (4) not more than 20% foreign ownership. Failing any one means the standard 24% rate applies to all chargeable income.',
+         '四项须全部满足：（1）马来西亚税务居民并在马注册；（2）基期开始时普通股实缴资本 ≤ RM250 万；（3）毛营业收入 ≤ RM5,000 万；（4）外资持股不超过 20%。任一不符，全部应课税收入即按标准 24% 征税。'),
+  },
+  {
+    q: L('Apakah kadar cukai syarikat standard di Malaysia?', 'What is the standard corporate tax rate in Malaysia?', '马来西亚标准企业税率是多少？'),
+    a: L('24% rata atas keseluruhan pendapatan bercukai bagi syarikat yang tidak layak sebagai SME. Jalur SME (15%/17%) tidak terpakai — setiap ringgit dikenakan 24%.',
+         'A flat 24% on all chargeable income for companies that do not qualify as an SME. The SME bands (15%/17%) do not apply — every ringgit is taxed at 24%.',
+         '不符合中小企业资格的公司，全部应课税收入按 24% 统一征税。中小企业级距（15%/17%）不适用——每一令吉均按 24% 征税。'),
+  },
+];
+
+const title = L('Anggaran Cukai Syarikat Malaysia', 'Malaysia Corporate Tax Estimator', '马来西亚企业税估算器');
+const heroDesc = L(
+  'Anggarkan cukai syarikat Malaysia daripada pendapatan bercukai anda — ia menyemak status SME anda dan menggunakan jalur 15%/17%/24% atau kadar standard 24%. Semua dalam pelayar; tiada data dihantar.',
+  'Estimate Malaysian corporate tax from your chargeable income — it checks your SME status and applies the 15%/17%/24% bands or the flat 24% rate. All in your browser; no data sent.',
+  '根据应课税收入估算马来西亚企业税——自动判断中小企业资格并套用 15%/17%/24% 级距或 24% 统一税率。全部在浏览器中运行，数据不外传。',
+);
+
+const ui = {
+  income: L('Pendapatan bercukai (RM)', 'Chargeable income (RM)', '应课税收入（RM）'),
+  smeH: L('Ujian status SME', 'SME status test', '中小企业资格测试'),
+  resInc: L('Pemastautin & diperbadankan di Malaysia', 'Resident & incorporated in Malaysia', '马来西亚税务居民并在马注册'),
+  capital: L('Modal berbayar saham biasa (RM)', 'Paid-up ordinary share capital (RM)', '普通股实缴资本（RM）'),
+  gbi: L('Pendapatan perniagaan kasar (RM)', 'Gross business income (RM)', '毛营业收入（RM）'),
+  foreign: L('Pemilikan asing (%)', 'Foreign ownership (%)', '外资持股（%）'),
+  taxPayable: L('Cukai perlu dibayar', 'Tax payable', '应缴税款'),
+  smeStatus: L('Status SME', 'SME status', '中小企业资格'),
+  qualifying: L('SME yang layak', 'Qualifying SME', '符合资格的中小企业'),
+  standard: L('Standard 24%', 'Standard 24%', '标准 24%'),
+  effRate: L('Kadar berkesan', 'Effective rate', '实际税率'),
+  breakdown: L('Pecahan jalur', 'Band breakdown', '级距明细'),
+  band15: L('15% atas RM150k pertama', '15% on first RM150k', '首 RM150k 按 15%'),
+  band17: L('17% atas RM450k berikutnya', '17% on next RM450k', '接下来 RM450k 按 17%'),
+  band24: L('24% atas baki', '24% above', '超出部分按 24%'),
+  flat24: L('24% rata atas semua pendapatan', '24% flat on all income', '全部收入统一 24%'),
+  asOf: L('Kadar setakat', 'Rates as of', '税率截至'),
+  caveatRelated: L(
+    'Ujian syarikat berkaitan tidak dapat disemak secara automatik: jika sebuah syarikat berkaitan dengan modal berbayar melebihi RM2.5 juta memiliki lebih 50% syarikat anda (atau sebaliknya), status SME terbatal walaupun ujian di atas lulus.',
+    'The related-company test cannot be auto-checked: if a related company with paid-up capital above RM2.5 million owns more than 50% of your company (or vice versa), SME status is lost even if the tests above pass.',
+    '关联公司测试无法自动检查：若有一家实缴资本超过 RM250 万的关联公司持有你公司逾 50% 股权（或相反），即使上述测试通过，中小企业资格仍会丧失。',
+  ),
+  caveatBudget: L(
+    'Belanjawan 2027 mengumumkan jalur SME lebih rendah (14%/16%) berkuat kuasa dari YA2027 — belum menjadi undang-undang, jadi tidak digunakan di sini.',
+    'Budget 2027 announced lower SME bands (14%/16%) effective from YA2027 — not yet law, so not applied here.',
+    '2027 年财政预算案宣布自 YA2027 起下调中小企业级距（14%/16%）——尚未立法，故此处未采用。',
+  ),
+  disclaimer: L(
+    'Anggaran sahaja, bukan nasihat cukai. Cukai syarikat sebenar bergantung pada pelarasan, elaun modal, insentif dan pelepasan yang tidak dimodelkan di sini. Sahkan dengan LHDN atau penasihat cukai anda.',
+    'Estimate only, not tax advice. Actual corporate tax depends on adjustments, capital allowances, incentives and reliefs not modelled here. Verify with LHDN or your tax adviser.',
+    '仅为估算，非税务建议。实际企业税取决于此处未建模的调整、资本免税额、奖掖与减免。请以 LHDN 或你的税务顾问核实。',
+  ),
+  howH: L('Cara ia dikira', 'How it is calculated', '计算方式'),
+  learnH: L('Ketahui lebih lanjut', 'Learn more', '了解更多'),
+};
+
+const relatedLinks = [
+  { href: localePath('/taxation/corporate-tax-rates', locale), label: L('Kadar cukai syarikat & ujian SME', 'Corporate tax rates & SME test', '企业税率与中小企业测试') },
+  { href: localePath('/taxation/form-c-and-cp204', locale), label: L('Borang C & CP204', 'Form C & CP204', '表格 C 与 CP204') },
+];
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
+    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
+    { label: title },
+  ]}
+  title={title}
+  desc={heroDesc}
+/>
+
+<section class="container block">
+  <div class="itc" id="cte" data-lqual={ui.qualifying} data-lstd={ui.standard}>
+    <form class="itc-form" autocomplete="off">
+      <label class="itc-field itc-income">
+        <span>{ui.income}</span>
+        <input type="number" id="cte-income" inputmode="decimal" min="0" step="1000" placeholder="300000" />
+      </label>
+      <fieldset class="cte-sme">
+        <legend>{ui.smeH}</legend>
+        <label class="cte-check"><input type="checkbox" id="cte-resinc" checked /> {ui.resInc}</label>
+        <div class="itc-row">
+          <label class="itc-field">
+            <span>{ui.capital}</span>
+            <input type="number" id="cte-capital" inputmode="decimal" min="0" step="100000" placeholder="1000000" />
+          </label>
+          <label class="itc-field">
+            <span>{ui.gbi}</span>
+            <input type="number" id="cte-gbi" inputmode="decimal" min="0" step="100000" placeholder="5000000" />
+          </label>
+        </div>
+        <label class="itc-field cte-foreign">
+          <span>{ui.foreign}</span>
+          <input type="number" id="cte-foreign" inputmode="decimal" min="0" max="100" step="1" value="0" />
+        </label>
+      </fieldset>
+    </form>
+
+    <aside class="itc-out" aria-live="polite">
+      <p class="itc-asof">{ui.asOf} <span id="cte-asof">{CORP.asOf}</span></p>
+      <div class="itc-headline">
+        <span class="itc-label">{ui.taxPayable}</span>
+        <strong class="itc-amount" id="cte-tax">RM0</strong>
+        <span class="itc-sub"><span id="cte-status">{ui.standard}</span> · <span id="cte-eff">0%</span> {ui.effRate}</span>
+      </div>
+      <dl class="itc-lines" id="cte-bands">
+        <div data-band="b15"><dt>{ui.band15}</dt><dd data-amt>RM0</dd></div>
+        <div data-band="b17"><dt>{ui.band17}</dt><dd data-amt>RM0</dd></div>
+        <div data-band="b24"><dt>{ui.band24}</dt><dd data-amt>RM0</dd></div>
+        <div data-band="flat" hidden><dt>{ui.flat24}</dt><dd data-amt>RM0</dd></div>
+      </dl>
+    </aside>
+  </div>
+
+  <div class="itc-caveats">
+    <p>ℹ️ {ui.caveatRelated}</p>
+    <p>ℹ️ {ui.caveatBudget}</p>
+  </div>
+
+  <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
+
+  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
+
+  <div class="itc-prose">
+    <h2>{ui.howH}</h2>
+    <p>{L(
+      'Kami mula daripada pendapatan bercukai anda dan menyemak empat ujian SME: pemastautin dan diperbadankan di Malaysia, modal berbayar saham biasa ≤ RM2.5 juta, pendapatan perniagaan kasar ≤ RM50 juta, dan pemilikan asing ≤ 20%. Jika kesemuanya lulus, kami menggunakan jalur SME — 15% atas RM150,000 pertama, 17% hingga RM600,000, dan 24% selepas itu. Jika tidak, keseluruhan pendapatan dikenakan kadar standard 24%.',
+      'We start from your chargeable income and check the four SME tests: resident and incorporated in Malaysia, paid-up ordinary share capital ≤ RM2.5 million, gross business income ≤ RM50 million, and foreign ownership ≤ 20%. If all pass, we apply the SME bands — 15% on the first RM150,000, 17% up to RM600,000, and 24% beyond. Otherwise the whole income is taxed at the standard 24% rate.',
+      '我们从应课税收入出发，检查四项中小企业测试：马来西亚税务居民并在马注册、普通股实缴资本 ≤ RM250 万、毛营业收入 ≤ RM5,000 万、外资持股 ≤ 20%。全部通过则套用中小企业级距——首 RM150,000 按 15%、至 RM600,000 按 17%、超出部分按 24%。否则全部收入按标准 24% 征税。',
+    )}</p>
+    <h2>FAQ</h2>
+    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
+    <h2>{ui.learnH}</h2>
+    <ul class="itc-links">
+      {relatedLinks.map((l) => (<li><a href={l.href}>{l.label}</a></li>))}
+    </ul>
+    <h3>{L('Sumber', 'Sources', '来源')}</h3>
+    <ul class="itc-src">{CORP.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}</ul>
+  </div>
+</section>
+
+<script>
+  import { computeCorporateTax, qualifiesAsSme, CORP } from '@/lib/tax/corporateTax';
+  const $ = (id: string) => document.getElementById(id);
+  const root = $('cte');
+  if (root) {
+    const f0 = new Intl.NumberFormat('en-MY', { style: 'currency', currency: 'MYR', maximumFractionDigits: 0 });
+    const rm0 = (n: number) => f0.format(n || 0).replace('MYR', 'RM').replace(/\s/g, '');
+    const num = (el: HTMLElement | null) => { const v = parseFloat((el as HTMLInputElement)?.value); return Number.isFinite(v) && v > 0 ? v : 0; };
+    const labels = {
+      qualifying: root.dataset.lqual || 'Qualifying SME',
+      standard: root.dataset.lstd || 'Standard 24%',
+    };
+    const band = (key: string) => root.querySelector(`#cte-bands [data-band="${key}"]`) as HTMLElement | null;
+    const setBand = (key: string, visible: boolean, amount: number) => {
+      const el = band(key);
+      if (!el) return;
+      el.hidden = !visible;
+      const dd = el.querySelector('[data-amt]');
+      if (dd) dd.textContent = rm0(amount);
+    };
+    function recompute() {
+      const income = num($('cte-income'));
+      const isSme = qualifiesAsSme({
+        residentIncorporated: ($('cte-resinc') as HTMLInputElement).checked,
+        paidUpCapital: num($('cte-capital')),
+        grossBusinessIncome: num($('cte-gbi')),
+        foreignOwnershipPct: num($('cte-foreign')) / 100,
+      });
+      const r = computeCorporateTax(income, isSme);
+      $('cte-tax')!.textContent = rm0(r.tax);
+      $('cte-status')!.textContent = isSme ? labels.qualifying : labels.standard;
+      $('cte-eff')!.textContent = (r.effectiveRate * 100).toFixed(1) + '%';
+      if (isSme) {
+        const b15 = Math.min(income, 150_000) * CORP.smeBands[0].rate;
+        const b17 = Math.max(0, Math.min(income, 600_000) - 150_000) * CORP.smeBands[1].rate;
+        const b24 = Math.max(0, income - 600_000) * CORP.smeBands[2].rate;
+        setBand('b15', true, b15);
+        setBand('b17', true, b17);
+        setBand('b24', income > 600_000, b24);
+        setBand('flat', false, 0);
+      } else {
+        setBand('b15', false, 0);
+        setBand('b17', false, 0);
+        setBand('b24', false, 0);
+        setBand('flat', true, income * CORP.standardRate);
+      }
+    }
+    root.addEventListener('input', recompute);
+    root.addEventListener('change', recompute);
+    recompute();
+  }
+</script>
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'SoftwareApplication', name: title, applicationCategory: 'FinanceApplication', operatingSystem: 'Web', offers: { '@type': 'Offer', price: '0', priceCurrency: 'MYR' }, description: heroDesc },
+    { '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+  ],
+})} />
+
+<style>
+  .itc { display: grid; grid-template-columns: 1.4fr 1fr; gap: 1.5rem; align-items: start; }
+  @media (max-width: 860px) { .itc { grid-template-columns: 1fr; } }
+  .itc-form { display: grid; gap: 1.1rem; }
+  .itc-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+  @media (max-width: 520px) { .itc-row { grid-template-columns: 1fr; } }
+  .itc-field { display: grid; gap: 0.35rem; font-size: 0.9rem; }
+  .itc-field > span { font-weight: 600; color: var(--ink-soft); }
+  .itc-field input, .itc-field select { font: inherit; padding: 0.55rem 0.7rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .itc-field input:focus, .itc-field select:focus { outline: 2px solid var(--gold); outline-offset: 1px; }
+  .cte-sme { border: 1px solid var(--line); border-radius: 12px; padding: 1rem 1.1rem 1.2rem; display: grid; gap: 1rem; margin: 0; }
+  .cte-sme legend { font-size: 0.78rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.03em; padding: 0 0.4rem; }
+  .cte-check { display: inline-flex; gap: 0.4rem; align-items: center; font-size: 0.9rem; }
+  .cte-foreign { max-width: 12rem; }
+  .itc-out { position: sticky; top: 1rem; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 1.2rem 1.3rem; }
+  .itc-asof { margin: 0 0 0.8rem; font-size: 0.72rem; color: var(--muted); }
+  .itc-headline { display: grid; gap: 0.15rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
+  .itc-label { font-size: 0.8rem; color: var(--ink-soft); font-weight: 600; }
+  .itc-amount { font-size: 2.1rem; font-weight: 800; color: var(--gold); line-height: 1.1; }
+  .itc-sub { font-size: 0.8rem; color: var(--muted); }
+  .itc-lines { display: grid; gap: 0.5rem; margin: 1rem 0 0; }
+  .itc-lines > div { display: flex; justify-content: space-between; gap: 1rem; font-size: 0.86rem; }
+  .itc-lines dt { color: var(--ink-soft); margin: 0; }
+  .itc-lines dd { margin: 0; font-weight: 700; font-variant-numeric: tabular-nums; }
+  .itc-caveats { margin: 1.4rem 0 0; display: grid; gap: 0.6rem; }
+  .itc-caveats p { margin: 0; font-size: 0.8rem; line-height: 1.6; color: var(--muted); }
+  .itc-disclaimer { margin: 1.4rem 0 0; padding: 0.8rem 1rem; font-size: 0.82rem; line-height: 1.6; color: var(--ink-soft); background: color-mix(in srgb, var(--gold) 6%, var(--surface, transparent)); border: 1px solid color-mix(in srgb, var(--gold) 30%, transparent); border-radius: 10px; }
+  .itc-prose { max-width: 58rem; margin-top: 2.5rem; }
+  .itc-prose h2 { font-size: 1.15rem; margin: 2rem 0 0.7rem; }
+  .itc-prose h3 { font-size: 1rem; margin: 1.6rem 0 0.5rem; }
+  .itc-prose p { line-height: 1.7; color: var(--ink-soft); }
+  .itc-faq dt { font-weight: 700; margin-top: 1rem; }
+  .itc-faq dd { margin: 0.3rem 0 0; color: var(--ink-soft); line-height: 1.7; }
+  .itc-links, .itc-src { padding-left: 1.1rem; line-height: 1.9; }
+  .itc-src { font-size: 0.85rem; }
+  .itc-src a, .itc-links a { color: var(--gold); }
+</style>

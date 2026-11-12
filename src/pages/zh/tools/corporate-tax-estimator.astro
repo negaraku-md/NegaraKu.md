@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import CorporateTaxView from '@/components/CorporateTaxView.astro';
+const locale = 'zh';
+---
+
+<BaseLayout
+  locale={locale}
+  title="马来西亚企业税估算器"
+  description="SME 15/17/24% + standard 24%"
+  path="/tools/corporate-tax-estimator"
+>
+  <CorporateTaxView locale={locale} />
+</BaseLayout>
