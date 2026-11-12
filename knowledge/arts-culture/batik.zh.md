@@ -16,6 +16,8 @@ keyTakeaways:
   - "主要有两种技法：batik canting（以蜡笔手绘）与 batik blok（以铜模压蜡）"
   - "峇迪衬衫是马来西亚男性的正式服装，在政府与外交场合作为官方服饰穿着"
   - "马来西亚峇迪与印尼峇迪是各自独立的区域传统；UNESCO 于 2009 年单独将后者列为非物质文化遗产"
+  - "真正的蜡防染峇迪（canting 或 blok）颜色会渗透布料两面；丝网印花或数码印花的「峇迪」只在一面上色"
+  - "Piala Seri Endon（恩顿锦标，始于 2003 年）隶属由 Datin Seri Endon Mahmood 领导的「马来西亚峇迪——为世界而制」运动，把峇迪带入当代时装设计"
 appliesTo: "任何要选购、穿着，或想弄清楚马来西亚峇迪的来历，以及它与印尼峇迪有何不同的人。"
 
 faq:
@@ -27,26 +29,32 @@ faq:
     a: "看图案与尺度。马来西亚东海岸峇迪偏好较大的花卉、叶片与几何图案，一般避开人物与动物形象。爪哇峇迪则包含更细致、更具象的设计。马来西亚峇迪也倾向于使用较轻薄的布料，如棉、丝与雪纺。"
   - q: "马来西亚人什么时候穿峇迪？"
     a: "峇迪衬衫是男性可接受的正式服装，在官方场合、婚礼与外交场合上穿着，用以取代西装领带。政府部门设有指定的峇迪日，使它保持在日常流通之中，而不只限于礼仪用途。"
+  - q: "怎样分辨一块峇迪是真货，还是只是印花布？"
+    a: "把布翻过来。真正的蜡防染峇迪——无论是手绘的 canting 还是压印的 blok——都是靠浸染布料上色，因此图案与颜色会渗透两面，背面几乎同样清晰。丝网印花或数码印花的布，图案只停留在一面，背面看起来褪色。线条也是线索：canting 留下不均、从不完全重复的线条，blok 给出带有淡淡接缝的整齐重复，而机器印花则分毫不差地重复，没有任何蜡的痕迹。"
 
 lang: "zh"
 masterLanguage: "ms"
 wikidata: "Q63442113"
 translationStatus: "in-sync"
-sourceContentHash: "239aa5ec5e035842"
+sourceContentHash: "8cf542d7e4bd7380"
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2028-07-23
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-12
+    change: "深化本文：新增一节面向消费者、教读者如何分辨真正的蜡防染峇迪与印花仿制品，以及一节讲述峇迪的当代转向（Piala Seri Endon 与「马来西亚峇迪——为世界而制」运动）；并补充相应的 FAQ、要点与来源。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-12
 sources:
   - title: "马来西亚手工艺品发展机构（Malaysian Handicraft Development Corporation） (Perbadanan Kemajuan Kraftangan Malaysia (Malaysian Handicraft Development Corporation))"
     url: "https://www.kraftangan.gov.my/"
@@ -58,10 +66,17 @@ sources:
     url: "https://ich.unesco.org/en/RL/indonesian-batik-00170"
     publisher: "UNESCO"
     date: "2009-01-01"
+  - title: "为什么要参加 Piala Seri Endon？ (Why join the Piala Seri Endon?)"
+    url: "https://www.thestar.com.my/lifestyle/archive/2006/07/22/why-join-the-piala-seri-endon"
+    publisher: "The Star"
+    date: "2006-07-22"
+  - title: "马来西亚手工艺品发展机构以新宣导活动向国民普及峇迪知识 (Kraftangan educates Malaysians about batik with new campaign)"
+    url: "https://www.nst.com.my/news/nation/2023/09/953294/kraftangan-educates-malaysians-about-batik-new-campaign"
+    publisher: "New Straits Times"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "wayang-kulit" }
-related: ["wayang-kulit"]
+related: ["wayang-kulit", "songket"]
 keywords: ["Malaysian batik", "batik canting", "Kelantan Terengganu batik", "batik shirt formal wear", "wax-resist textile"]
 framework: history-culture
 ---
@@ -73,6 +88,12 @@ framework: history-culture
 ## 用蜡作画的两种方式
 
 马来西亚的峇迪匠人主要以两种方式工作。Batik canting 是较慢、也较被看重的方法：工匠以 canting 笔徒手把蜡画上布面，可以做出细致的卷曲线条与独一无二的构图。Batik blok（或称 batik terap）则用雕好的铜模蘸蜡，压印在布上形成重复图案——更快、更一致，也更适合商业规模的产布。今天售卖的峇迪多半兼采两者：以模印打底轮廓，再以手工上色收尾，在工艺质感与可行的生产速度之间取一个折中。
+
+## 辨别真峇迪与印花布
+
+batik canting 与 batik blok 都是真正的蜡防染峇迪：布料是染出来的，而不是印上去的。这给了你在店里最简单的辨别方法。由于布料浸在染缸里，颜色会渗透布料的两面——把一块真正的峇迪翻过来，背面的图案几乎同样清晰。那些号称「峇迪」、实则是丝网印花或数码印花的布，图案只停留在一面，背面看起来褪色或空白。
+
+过了这道双面测试，剩下的就看线条。手绘的 batik canting 留下的线条略带不均、从不完全重复，有时还会出现淡淡的蜡裂纹——那是下染之前蜡面裂开留下的。Batik blok 给出的是整齐重复的图案，在一枚印模与下一枚相接处有不动声色的接缝。相比之下，机器印花重复得分毫不差，没有任何蜡或手工的痕迹。这种差别不只关乎价钱：Kraftangan Malaysia（马来西亚手工艺品发展机构）本身就办过宣导活动来教育买家，因为以峇迪之名贱卖的印花布，正在挤压那些仍以蜡作画的作坊。
 
 ## 与爪哇不同的色盘
 
@@ -87,6 +108,12 @@ framework: history-culture
 ## 别把它跟邻居弄混
 
 这里值得说得精确一点：2009 年，UNESCO 把印尼峇迪列入《人类非物质文化遗产代表作名录》——这是对印尼、具体而言是以爪哇为中心的传统及其相关象征与仪式的认可。马来西亚峇迪是与之相关但各自独立的区域传统，在吉兰丹与登嘉楼有自己的生产中心、行会历史与风格惯例；把两者混为一谈，或以为马来西亚峇迪也带着同一项 UNESCO 列名，是低估了一条确实自成一系、值得按自身条件被认可的工艺脉络。
+
+## 从甘榜走向世界舞台
+
+峇迪并没有凝固成一门乡村工艺。2003 年，由时任首相 Abdullah Ahmad Badawi 的夫人 Datin Seri Endon Mahmood 所倡导的「马来西亚峇迪——为世界而制」（Malaysian Batik — Crafted for the World）运动，着手把峇迪从礼仪布料提升为能够在国际上竞争的当代设计。这项运动的核心是 Piala Seri Endon（恩顿锦标），一项由 Yayasan Budi Penyayang Malaysia 主办的年度峇迪设计比赛：从 2003 年单一的时装组别起步，2004 年增设家居软装，2005 年再添手工艺，吸引更年轻的设计师把峇迪视为一种设计媒介，而不只是继承而来的遗产。
+
+这股影响是双向的。一方面，峇迪如今出现在时装系列、家居用品以及为现代市场设计的商品之中，不再局限于纱笼与正式衬衫。另一方面，吉兰丹与登嘉楼的手绘作坊仍然面对廉价印花布的压力——这些布以远低得多的成本模仿峇迪的外观；正是这同一种张力，使得教育买家与举办设计比赛，对于让蜡艺技术存活下来显得至关重要。
 
 ## 为什么它至今仍然重要
 

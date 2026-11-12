@@ -16,6 +16,8 @@ keyTakeaways:
   - "Dua teknik utama digunakan: batik canting (dilukis tangan dengan pena lilin) dan batik blok (lilin dicap dengan blok tembaga)"
   - "Kemeja batik adalah pakaian resmi untuk pria Malaysia dan dipakai sebagai pakaian resmi dalam suasana pemerintahan dan diplomatik"
   - "Batik Malaysia adalah tradisi regional yang tersendiri dari batik Indonesia, yang diakui secara terpisah oleh UNESCO sebagai warisan budaya takbenda pada 2009"
+  - "Batik rintang lilin yang sejati (canting atau blok) meresap menembus kedua permukaan kain; 'batik' cetakan sablon atau digital hanya berwarna pada satu sisi saja"
+  - "Piala Seri Endon (sejak 2003), di bawah gerakan 'Malaysian Batik — Crafted for the World' yang dipimpin oleh Datin Seri Endon Mahmood, mengangkat batik ke dalam desain busana kontemporer"
 appliesTo: "Siapa saja yang berbelanja, memakai, atau mencoba memahami asal usul batik Malaysia, dan bagaimana ia berbeda dari batik Indonesia."
 
 faq:
@@ -27,9 +29,11 @@ faq:
     a: "Lihat pada motif dan skalanya. Batik pantai timur Malaysia lebih menyukai motif bunga, daun dan geometri yang lebih besar dan umumnya menghindari figur manusia dan hewan. Batik Jawa mencakup desain yang lebih halus dan lebih figuratif. Batik Malaysia juga cenderung ke kain lebih ringan seperti katun, sutra dan sifon."
   - q: "Kapan batik dipakai di Malaysia?"
     a: "Kemeja batik adalah pakaian resmi yang diterima untuk pria, dipakai pada acara resmi, resepsi pernikahan dan acara diplomatik menggantikan setelan dan dasi. Kantor pemerintah menetapkan hari memakai batik, yang mempertahankannya dalam peredaran rutin dan tidak terbatas pada penggunaan seremonial semata."
+  - q: "Bagaimana saya bisa membedakan apakah sehelai batik itu asli atau hanya kain cetakan?"
+    a: "Baliklah kainnya. Batik rintang lilin yang sejati — baik canting lukisan tangan maupun blok yang dicap — dicelup dengan merendam kain, sehingga corak dan warna meresap menembus kedua sisi dan tampak hampir sama jelasnya di bagian belakang. Kain yang dicetak sablon atau dicetak digital hanya membawa motif pada satu permukaan saja dan terlihat pudar di bagian sebaliknya. Garis-garisnya juga menjadi petunjuk: canting meninggalkan garis tidak rata yang tidak pernah berulang sempurna, blok memberi perulangan rapi dengan sambungan samar, sedangkan cetakan mesin berulang dengan presisi tanpa jejak lilin."
 
 lang: "id"
-sourceContentHash: "239aa5ec5e035842"
+sourceContentHash: "8cf542d7e4bd7380"
 masterLanguage: "ms"
 wikidata: "Q63442113"
 translationStatus: "in-sync"
@@ -39,14 +43,18 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2028-07-23
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-23
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-12
+    change: "Menambahkan bagian cara membedakan batik asli dari cetakan dan bagian Piala Seri Endon / gerakan batik untuk dunia, beserta FAQ, key takeaways, dan sumber terkait."
+    reviewer: null
 
-updated: 2026-07-23
+updated: 2026-11-12
 sources:
   - title: "Perbadanan Kemajuan Kraftangan Malaysia (Malaysian Handicraft Development Corporation)"
     url: "https://www.kraftangan.gov.my/"
@@ -58,10 +66,17 @@ sources:
     url: "https://ich.unesco.org/en/RL/indonesian-batik-00170"
     publisher: "UNESCO"
     date: "2009-01-01"
+  - title: "Mengapa ikut Piala Seri Endon? (Why join the Piala Seri Endon?)"
+    url: "https://www.thestar.com.my/lifestyle/archive/2006/07/22/why-join-the-piala-seri-endon"
+    publisher: "The Star"
+    date: "2006-07-22"
+  - title: "Kraftangan mendidik warga Malaysia tentang batik lewat kampanye baru (Kraftangan educates Malaysians about batik with new campaign)"
+    url: "https://www.nst.com.my/news/nation/2023/09/953294/kraftangan-educates-malaysians-about-batik-new-campaign"
+    publisher: "New Straits Times"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "wayang-kulit" }
-related: ["wayang-kulit"]
+related: ["wayang-kulit", "songket"]
 keywords: ["batik Malaysia", "batik canting", "batik Kelantan Terengganu", "kemeja batik pakaian rasmi", "tekstil rintangan lilin"]
 framework: history-culture
 ---
@@ -73,6 +88,12 @@ Pembalikan itu — merancang dengan menghalangi, bukan dengan menyapu — adalah
 ## Dua cara melukis dengan lilin
 
 Pembuat batik Malaysia bekerja dalam dua mode utama. Batik canting adalah metode yang lebih lambat dan lebih dihargai: seorang perajin melukis desain lilin secara bebas tangan langsung pada kain menggunakan pena canting, yang memungkinkan garis berkelok halus dan gubahan yang unik. Batik blok (atau batik terap) menggunakan cap tembaga berukir yang dicelup lilin dan ditekan pada kain dalam corak berulang — lebih cepat, lebih konsisten, dan lebih sesuai untuk menghasilkan kain pada skala komersial. Kebanyakan batik yang dijual hari ini menggabungkan keduanya: garis luar yang dicap blok diselesaikan dengan detail warna yang disapu tangan, satu kompromi antara tekstur seni perajin dan kecepatan produksi yang praktis.
+
+## Membedakan yang asli dari cetakan
+
+Baik batik canting maupun batik blok adalah batik rintang lilin yang sejati: kainnya dicelup, bukan dicetak. Itu memberi Anda cara uji paling sederhana di toko. Karena kain direndam dalam bak pewarna, warna meresap menembus kedua permukaan kain — baliklah sehelai batik asli dan coraknya akan tampak hampir sama jelasnya di bagian belakang. Kain yang dijual sebagai "batik" tetapi sebenarnya dicetak sablon atau dicetak digital hanya membawa motif pada satu permukaan saja, dan bagian sebaliknya terlihat pudar atau kosong.
+
+Setelah uji dua sisi itu, selebihnya terletak pada garis-garisnya. Batik canting lukisan tangan meninggalkan garis yang sedikit tidak rata dan tidak pernah berulang secara sempurna, kadang dengan garis retak lilin samar tempat lilin pecah sebelum pencelupan. Batik blok memberi corak berulang yang rapi dengan sambungan halus tempat satu cap bertemu cap berikutnya. Cetakan mesin, sebaliknya, berulang dengan presisi sempurna, tanpa jejak lilin atau tangan. Perbedaannya bukan sekadar soal harga: Kraftangan Malaysia sendiri telah menjalankan kampanye untuk mendidik pembeli, karena kain cetakan murah yang dijual sebagai batik menekan bengkel-bengkel yang masih melukis dengan lilin.
 
 ## Palet berbeda dari Jawa
 
@@ -87,6 +108,12 @@ Lintasan sebenarnya batik di Malaysia kurang tentang teknik tekstil dan lebih te
 ## Jangan dikelirukan dengan tetangganya
 
 Wajar untuk bersikap tepat di sini: pada 2009, UNESCO mencantumkan batik Indonesia dalam Daftar Perwakilan Warisan Budaya Takbenda Kemanusiaan — sebuah pengakuan terhadap tradisi Indonesia, khususnya yang berpusat di Jawa, dan simbolisme serta ritual yang berkaitan dengannya. Batik Malaysia adalah tradisi regional yang berkaitan tetapi tersendiri, dengan pusat produksi, sejarah paguyuban perajin dan konvensi gayanya sendiri di Kelantan dan Terengganu; mencampuradukkan keduanya, atau menganggap batik Malaysia turut membawa pencantuman UNESCO yang sama, mengecilkan apa yang sebenarnya merupakan silsilah kriya yang benar-benar terpisah dan layak diakui atas dasarnya sendiri.
+
+## Dari kampung ke panggung dunia
+
+Batik tidak tinggal membeku sebagai kriya desa. Pada 2003, gerakan "Malaysian Batik — Crafted for the World" yang dipelopori oleh Datin Seri Endon Mahmood, istri perdana menteri saat itu Abdullah Ahmad Badawi, bertujuan mengangkat batik dari kain seremonial menjadi desain kontemporer yang mampu bersaing secara internasional. Jantungnya adalah Piala Seri Endon, sebuah lomba desain batik tahunan yang diselenggarakan oleh Yayasan Budi Penyayang Malaysia: dimulai dengan satu kategori busana pada 2003, ia berkembang dengan menambahkan perlengkapan rumah pada 2004 dan kerajinan tangan pada 2005, menarik para desainer muda untuk memandang batik sebagai medium desain dan bukan sekadar warisan turun-temurun.
+
+Dampaknya mengalir ke dua arah. Di satu sisi, batik kini muncul dalam koleksi busana, perlengkapan rumah dan barang yang dirancang untuk pasar modern, tak lagi terbatas pada sarung dan kemeja resmi. Di sisi lain, bengkel-bengkel lukisan tangan di Kelantan dan Terengganu masih menghadapi tekanan dari kain cetakan murah yang meniru tampilan batik dengan biaya jauh lebih rendah — ketegangan yang sama yang menjadikan pendidikan pembeli dan lomba desain itu penting untuk menjaga keterampilan lilin tetap hidup.
 
 ## Mengapa ia masih penting
 

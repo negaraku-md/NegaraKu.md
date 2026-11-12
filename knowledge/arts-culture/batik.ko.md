@@ -16,6 +16,8 @@ keyTakeaways:
   - "두 가지 주요 기법이 쓰입니다. 바틱 찬팅(canting, 밀랍 펜으로 손으로 그리기)과 바틱 블록(구리 블록으로 밀랍을 찍기)입니다"
   - "바틱 셔츠는 말레이시아 남성의 공식 복장이며, 관공서와 외교 행사에서 공식 의상으로 착용됩니다"
   - "말레이시아 바틱은 인도네시아 바틱과는 구별되는 독자적 지역 전통이며, 인도네시아 바틱은 2009년 유네스코(UNESCO)에 의해 무형문화유산으로 별도로 등재되었습니다"
+  - "진정한 밀랍 방염 바틱(찬팅 또는 블록)은 천의 양면으로 스며들지만, 실크스크린이나 디지털로 프린트한 '바틱'은 한쪽 면에만 색이 들어갑니다"
+  - "다틴 스리 엔돈 마흐무드(Datin Seri Endon Mahmood)가 이끈 '세계를 위해 빚은 말레이시아 바틱' 운동 아래 열린 피알라 스리 엔돈(Piala Seri Endon, 2003년 시작)은 바틱을 현대 패션 디자인으로 끌어올렸습니다"
 appliesTo: "말레이시아 바틱을 사거나 입거나, 그 기원과 인도네시아 바틱과의 차이를 이해하려는 모든 사람."
 
 faq:
@@ -27,9 +29,11 @@ faq:
     a: "문양과 크기를 보십시오. 말레이시아 동해안 바틱은 더 큰 꽃, 잎, 기하학 문양을 선호하며 대체로 사람과 동물 형상을 피합니다. 자바 바틱은 더 섬세하고 구상적인 디자인을 포함합니다. 말레이시아 바틱은 또한 면, 실크, 시폰(cifon) 같은 더 가벼운 원단을 즐겨 씁니다."
   - q: "말레이시아에서 바틱은 언제 착용됩니까?"
     a: "바틱 셔츠는 남성에게 인정되는 공식 복장으로, 공식 행사, 결혼식, 외교 행사에서 정장과 넥타이를 대신하여 착용됩니다. 관공서는 바틱 착용의 날을 지정하며, 이로써 바틱은 의례용에만 국한되지 않고 일상적으로 계속 쓰입니다."
+  - q: "바틱이 진품인지 아니면 그냥 프린트한 천인지 어떻게 구별할 수 있습니까?"
+    a: "천을 뒤집어 보십시오. 진정한 밀랍 방염 바틱은 — 손으로 그린 찬팅이든 도장을 찍은 블록이든 — 천을 담가 염색하기 때문에, 문양과 색이 양면으로 스며들어 뒷면에도 거의 똑같이 선명하게 나타납니다. 실크스크린이나 디지털로 프린트한 천은 한쪽 면에만 문양이 있어 뒷면은 색이 바래 보입니다. 선도 단서가 됩니다. 찬팅은 결코 완벽하게 반복되지 않는 고르지 않은 선을 남기고, 블록은 희미한 이음매와 함께 깔끔하게 반복되며, 기계 프린트는 밀랍의 흔적 없이 정밀하게 반복됩니다."
 
 lang: "ko"
-sourceContentHash: "239aa5ec5e035842"
+sourceContentHash: "8cf542d7e4bd7380"
 masterLanguage: "ms"
 wikidata: "Q63442113"
 translationStatus: "in-sync"
@@ -39,14 +43,18 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2028-07-23
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-23
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-12
+    change: "진품 바틱과 프린트 천 구별법, 그리고 피알라 스리 엔돈과 '세계를 위해 빚은 말레이시아 바틱' 운동 관련 내용을 추가했습니다."
+    reviewer: null
 
-updated: 2026-07-23
+updated: 2026-11-12
 sources:
   - title: "말레이시아 수공예개발공사 (Malaysian Handicraft Development Corporation) (Perbadanan Kemajuan Kraftangan Malaysia (Malaysian Handicraft Development Corporation))"
     url: "https://www.kraftangan.gov.my/"
@@ -58,10 +66,17 @@ sources:
     url: "https://ich.unesco.org/en/RL/indonesian-batik-00170"
     publisher: "UNESCO"
     date: "2009-01-01"
+  - title: "피알라 스리 엔돈에 참가해야 하는 이유 (Why join the Piala Seri Endon?)"
+    url: "https://www.thestar.com.my/lifestyle/archive/2006/07/22/why-join-the-piala-seri-endon"
+    publisher: "The Star"
+    date: "2006-07-22"
+  - title: "수공예개발공사, 새 캠페인으로 말레이시아 국민에게 바틱을 알리다 (Kraftangan educates Malaysians about batik with new campaign)"
+    url: "https://www.nst.com.my/news/nation/2023/09/953294/kraftangan-educates-malaysians-about-batik-new-campaign"
+    publisher: "New Straits Times"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "wayang-kulit" }
-related: ["wayang-kulit"]
+related: ["wayang-kulit", "songket"]
 keywords: ["batik Malaysia", "batik canting", "batik Kelantan Terengganu", "kemeja batik pakaian rasmi", "tekstil rintangan lilin"]
 framework: history-culture
 ---
@@ -73,6 +88,12 @@ framework: history-culture
 ## 밀랍으로 그리는 두 가지 방법
 
 말레이시아의 바틱 장인들은 크게 두 가지 방식으로 작업합니다. 찬팅 바틱(batik canting)은 더 느리고 더 귀하게 여겨지는 방법으로, 장인이 찬팅 펜을 사용해 천 위에 직접 손으로 밀랍 도안을 그려 내며, 이를 통해 섬세하게 굽은 선과 유일무이한 구성이 가능합니다. 블록 바틱(batik blok, 또는 batik terap)은 밀랍을 묻힌 조각된 구리 도장을 천에 눌러 반복 문양을 찍는 방식으로, 더 빠르고 더 균일하며 상업적 규모의 천 생산에 더 적합합니다. 오늘날 판매되는 바틱 대부분은 두 가지를 결합합니다. 블록으로 찍은 윤곽선을 손으로 칠한 색상 디테일로 마무리하는데, 이는 장인적 질감과 실용적 생산 속도 사이의 절충입니다.
+
+## 진품 바틱과 프린트 천 구별하기
+
+바틱 찬팅과 바틱 블록은 모두 진정한 밀랍 방염 바틱입니다. 천은 프린트된 것이 아니라 염색된 것입니다. 바로 이 점이 가게에서 쓸 수 있는 가장 간단한 판별법을 줍니다. 천을 염료 통에 담가 적시기 때문에 색이 원단의 양면으로 모두 스며듭니다. 진짜 바틱을 뒤집어 보면 뒷면에도 문양이 거의 똑같이 선명하게 나타납니다. 실제로는 실크스크린이나 디지털로 프린트하고서 '바틱'으로 파는 천은 한쪽 면에만 문양이 찍혀 있어, 뒷면은 색이 바래 보이거나 아무것도 없는 듯 보입니다.
+
+양면 판별을 마친 뒤에는 선을 보면 됩니다. 손으로 그린 찬팅 바틱은 선이 약간 고르지 않고 결코 완벽하게 반복되지 않으며, 때로는 염색 전에 밀랍이 갈라진 자리에 희미한 밀랍 균열선이 남기도 합니다. 블록 바틱은 깔끔하게 반복되는 문양에 도장과 도장이 맞닿는 곳마다 은은한 이음매가 보입니다. 반면 기계 프린트는 완벽한 정밀도로 반복되며 밀랍이나 손길의 흔적이 전혀 없습니다. 이 차이는 가격만의 문제가 아닙니다. 바틱으로 팔리는 값싼 프린트 천이 여전히 밀랍으로 그리는 작업장을 압박하기 때문에, 말레이시아 수공예개발공사(Kraftangan Malaysia) 자체가 구매자를 교육하는 캠페인을 벌여 왔습니다.
 
 ## 자바와 다른 색채
 
@@ -87,6 +108,12 @@ framework: history-culture
 ## 이웃과 혼동하지 말 것
 
 여기서는 정확할 필요가 있습니다. 2009년, 유네스코(UNESCO)는 인도네시아 바틱을 인류무형문화유산 대표목록(Representative List of the Intangible Cultural Heritage of Humanity)에 등재했습니다. 이는 인도네시아 전통, 특히 자바를 중심으로 한 전통과 그에 결부된 상징성 및 의례에 대한 인정입니다. 말레이시아 바틱은 클란탄과 트렝가누에 자체 생산 중심지, 장인 조합의 역사, 고유한 양식 관습을 지닌, 관련은 있으나 독자적인 지역 전통입니다. 둘을 뒤섞거나 말레이시아 바틱도 같은 유네스코 등재를 지닌다고 여기는 것은, 실제로는 명백히 별개이며 그 자체로 인정받아 마땅한 공예 계보를 축소하는 일입니다.
+
+## 캄풍에서 세계 무대로
+
+바틱은 마을 공예에 머무른 채 멈춰 있지 않았습니다. 2003년, 당시 총리 압둘라 아마드 바다위(Abdullah Ahmad Badawi)의 부인인 다틴 스리 엔돈 마흐무드(Datin Seri Endon Mahmood)가 이끈 '세계를 위해 빚은 말레이시아 바틱(Malaysian Batik — Crafted for the World)' 운동은, 바틱을 의례용 천에서 국제적으로 경쟁할 수 있는 현대적 디자인으로 끌어올리는 것을 목표로 삼았습니다. 그 중심에는 말레이시아 부디 프냐양 재단(Yayasan Budi Penyayang Malaysia)이 주최하는 연례 바틱 디자인 공모전인 피알라 스리 엔돈(Piala Seri Endon)이 있었습니다. 2003년 패션 부문 하나로 시작해 2004년에는 패브릭 소품(soft furnishings), 2005년에는 수공예 부문을 더해 나가면서, 젊은 디자이너들이 바틱을 물려받은 유산만이 아니라 하나의 디자인 매체로 바라보도록 이끌었습니다.
+
+그 영향은 양방향으로 작용했습니다. 한편으로 바틱은 이제 사롱(sarong)과 공식 셔츠에만 국한되지 않고, 현대 시장을 겨냥해 디자인된 패션 컬렉션과 인테리어 소품, 상품에 등장합니다. 다른 한편으로 클란탄과 트렝가누의 손그림 작업장은 훨씬 낮은 비용으로 바틱의 겉모습을 흉내 내는 값싼 프린트 천의 압박에 여전히 직면해 있습니다. 바로 이 긴장이야말로 밀랍 기술을 살아 있게 지키는 데 구매자 교육과 디자인 공모전이 중요한 이유입니다.
 
 ## 왜 여전히 중요한가
 

@@ -16,6 +16,8 @@ keyTakeaways:
   - "Deux techniques principales sont employées : le batik canting (dessiné à la main avec un stylet à cire) et le batik blok (cire estampée avec des blocs de cuivre)"
   - "Les chemises de batik sont une tenue formelle pour les hommes malaisiens et sont portées comme tenue officielle dans les contextes gouvernementaux et diplomatiques"
   - "Le batik malaisien est une tradition régionale distincte du batik indonésien, que l'UNESCO a reconnu séparément comme patrimoine culturel immatériel en 2009"
+  - "Un véritable batik à réserve de cire (canting ou blok) imprègne les deux faces de l'étoffe ; un « batik » sérigraphié ou imprimé numériquement n'est coloré que d'un seul côté"
+  - "Le Piala Seri Endon (depuis 2003), dans le cadre du mouvement « Malaysian Batik — Crafted for the World » mené par Datin Seri Endon Mahmood, a hissé le batik au rang de création de mode contemporaine"
 appliesTo: "Toute personne qui achète, porte ou cherche à comprendre les origines du batik malaisien, et en quoi il diffère du batik indonésien."
 
 faq:
@@ -27,9 +29,11 @@ faq:
     a: "Regardez le motif et l'échelle. Le batik de la côte est malaisienne privilégie des motifs floraux, de feuilles et géométriques plus grands et évite généralement les figures humaines et animales. Le batik javanais comporte des dessins plus fins et plus figuratifs. Le batik malaisien tend aussi vers des tissus plus légers comme le coton, la soie et la mousseline."
   - q: "Quand porte-t-on le batik en Malaisie ?"
     a: "Les chemises de batik sont une tenue formelle acceptée pour les hommes, portée lors des cérémonies officielles, des mariages et des occasions diplomatiques à la place du costume et de la cravate. Les administrations publiques désignent des jours où l'on porte le batik, ce qui le maintient en circulation courante plutôt que de le confiner à un usage cérémoniel."
+  - q: "Comment savoir si une pièce de batik est authentique ou simplement une étoffe imprimée ?"
+    a: "Retournez l'étoffe. Un véritable batik à réserve de cire — qu'il soit dessiné à la main au canting ou estampé au bloc — est teint par trempage de l'étoffe, de sorte que le motif et la couleur imprègnent les deux faces et apparaissent presque aussi nettement au dos. Une étoffe sérigraphiée ou imprimée numériquement ne porte le motif que sur une seule surface et paraît délavée à l'envers. Les lignes sont aussi un indice : le canting laisse des lignes irrégulières qui ne se répètent jamais parfaitement, le blok donne une répétition nette avec de discrètes jonctions, tandis que l'impression à la machine se répète avec précision, sans aucune trace de cire."
 
 lang: "fr"
-sourceContentHash: "239aa5ec5e035842"
+sourceContentHash: "8cf542d7e4bd7380"
 masterLanguage: "ms"
 wikidata: "Q63442113"
 translationStatus: "in-sync"
@@ -39,14 +43,18 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2028-07-23
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-23
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-12
+    change: "Ajout des sections sur la distinction entre batik authentique et étoffe imprimée et sur le Piala Seri Endon ; nouvelles FAQ, points clés et sources."
+    reviewer: null
 
-updated: 2026-07-23
+updated: 2026-11-12
 sources:
   - title: "Société de développement de l'artisanat de Malaisie (Perbadanan Kemajuan Kraftangan Malaysia / Malaysian Handicraft Development Corporation)"
     url: "https://www.kraftangan.gov.my/"
@@ -58,10 +66,17 @@ sources:
     url: "https://ich.unesco.org/en/RL/indonesian-batik-00170"
     publisher: "UNESCO"
     date: "2009-01-01"
+  - title: "Pourquoi participer au Piala Seri Endon ? (Why join the Piala Seri Endon?)"
+    url: "https://www.thestar.com.my/lifestyle/archive/2006/07/22/why-join-the-piala-seri-endon"
+    publisher: "The Star"
+    date: "2006-07-22"
+  - title: "Kraftangan sensibilise les Malaisiens au batik par une nouvelle campagne (Kraftangan educates Malaysians about batik with new campaign)"
+    url: "https://www.nst.com.my/news/nation/2023/09/953294/kraftangan-educates-malaysians-about-batik-new-campaign"
+    publisher: "New Straits Times"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "wayang-kulit" }
-related: ["wayang-kulit"]
+related: ["wayang-kulit", "songket"]
 keywords: ["Malaysian batik", "batik canting", "Kelantan Terengganu batik", "batik shirt formal wear", "wax-resist textile"]
 framework: history-culture
 ---
@@ -73,6 +88,12 @@ Cette inversion — concevoir en bloquant, non en appliquant — est tout le sec
 ## Deux façons de dessiner à la cire
 
 Les fabricants de batik malaisien travaillent selon deux modes principaux. Le batik canting est la méthode la plus lente et la plus prisée : un artisan dessine à main levée le motif de cire directement sur l'étoffe à l'aide du stylet canting, ce qui permet des lignes fines et courbes et des compositions uniques. Le batik blok (ou batik terap) utilise des tampons de cuivre gravés, trempés dans la cire et pressés sur l'étoffe en motifs répétés — plus rapide, plus uniforme et mieux adapté à la production d'étoffe à l'échelle commerciale. La majeure partie du batik vendu aujourd'hui mêle les deux : des contours estampés au bloc rehaussés d'un détail de couleur appliqué à la main, un compromis entre la texture artisanale et une vitesse de production viable.
+
+## Reconnaître l'authentique d'une impression
+
+Le batik canting comme le batik blok sont de véritables batiks à réserve de cire : l'étoffe est teinte, non imprimée. Cela vous donne le test le plus simple en boutique. Parce que l'étoffe est trempée dans un bain de teinture, la couleur imprègne les deux faces du tissu — retournez une véritable pièce de batik et le motif apparaît presque aussi nettement au dos. Une étoffe vendue comme « batik » mais en réalité sérigraphiée ou imprimée numériquement ne porte le motif que sur une seule surface, et son envers paraît délavé ou vierge.
+
+Après ce test recto-verso, le reste se lit dans les lignes. Le batik canting dessiné à la main laisse des lignes légèrement irrégulières qui ne se répètent jamais parfaitement, parfois avec de fines craquelures de cire là où la cire s'est brisée avant la teinture. Le batik blok donne un motif répété net, avec de discrètes jonctions là où un tampon rencontre le suivant. L'impression à la machine, en revanche, se répète avec une précision parfaite, sans aucune trace de cire ni de main. La différence n'est pas qu'une question de prix : Kraftangan Malaysia a elle-même mené des campagnes pour sensibiliser les acheteurs, car l'étoffe imprimée bon marché vendue comme batik étrangle les ateliers qui dessinent encore à la cire.
 
 ## Une palette différente de celle de Java
 
@@ -87,6 +108,12 @@ La véritable trajectoire du batik en Malaisie tient moins à la technique texti
 ## À ne pas confondre avec son voisin
 
 Il convient d'être précis ici : en 2009, l'UNESCO a inscrit le batik indonésien sur sa Liste représentative du patrimoine culturel immatériel de l'humanité — une reconnaissance de la tradition indonésienne, spécifiquement centrée sur Java, et de son symbolisme et de ses rituels associés. Le batik malaisien est une tradition régionale apparentée mais distincte, avec ses propres centres de production, ses histoires de corporations et ses conventions stylistiques au Kelantan et au Terengganu ; confondre les deux, ou supposer que le batik malaisien porte la même inscription de l'UNESCO, sous-estime ce qui est un lignage artisanal véritablement distinct et digne d'être reconnu en ses propres termes.
+
+## Du kampung à la scène mondiale
+
+Le batik n'est pas resté figé en artisanat villageois. En 2003, le mouvement « Malaysian Batik — Crafted for the World », porté par Datin Seri Endon Mahmood, épouse du Premier ministre d'alors Abdullah Ahmad Badawi, s'est donné pour but de faire passer le batik du statut d'étoffe cérémonielle à celui de création contemporaine capable de rivaliser à l'international. En son cœur se trouvait le Piala Seri Endon, un concours annuel de création de batik organisé par la Yayasan Budi Penyayang Malaysia : lancé avec une seule catégorie de mode en 2003, il s'est enrichi d'une catégorie d'ameublement en 2004 et d'artisanat en 2005, amenant de jeunes créateurs à voir le batik comme un médium de création plutôt que comme un simple héritage.
+
+L'effet a joué dans les deux sens. D'un côté, le batik apparaît désormais dans des collections de mode, des articles d'ameublement et des produits conçus pour le marché moderne, et n'est plus confiné au sarong et à la chemise de cérémonie. De l'autre, les ateliers de dessin à la main du Kelantan et du Terengganu subissent toujours la pression de l'étoffe imprimée bon marché qui imite l'aspect du batik à un coût bien moindre — la même tension qui rend la sensibilisation des acheteurs et le concours de création importants pour maintenir vivant le savoir-faire de la cire.
 
 ## Pourquoi il importe encore
 

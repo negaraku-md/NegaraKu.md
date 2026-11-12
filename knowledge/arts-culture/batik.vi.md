@@ -16,6 +16,8 @@ keyTakeaways:
   - "Hai kỹ thuật chính được dùng: batik canting (vẽ tay bằng bút sáp) và batik blok (in sáp bằng khối đồng)"
   - "Áo batik là trang phục chính thức cho nam giới Malaysia và được mặc như trang phục trang trọng trong bối cảnh chính phủ và ngoại giao"
   - "Batik Malaysia là một truyền thống khu vực riêng biệt với batik Indonesia, vốn được UNESCO công nhận riêng là di sản văn hóa phi vật thể vào năm 2009"
+  - "Batik chống-sáp đích thực (canting hoặc blok) thấm xuyên qua cả hai mặt vải; 'batik' in lụa hoặc in kỹ thuật số chỉ được nhuộm màu ở một mặt"
+  - "Piala Seri Endon (từ năm 2003), thuộc phong trào 'Batik Malaysia — Chế tác cho Thế giới' (Malaysian Batik — Crafted for the World) do Datin Seri Endon Mahmood dẫn dắt, đã nâng batik lên thành thiết kế thời trang đương đại"
 appliesTo: "Bất kỳ ai mua sắm, mặc, hoặc cố hiểu nguồn gốc của batik Malaysia, và cách nó khác với batik Indonesia."
 
 faq:
@@ -27,9 +29,11 @@ faq:
     a: "Hãy nhìn vào họa tiết và quy mô của nó. Batik bờ biển phía đông Malaysia ưa các họa tiết hoa, lá và hình học lớn hơn và nói chung tránh hình người và động vật. Batik Java bao gồm các thiết kế tinh tế hơn và mang tính tượng hình hơn. Batik Malaysia cũng thiên về vải nhẹ hơn như cotton, lụa và chiffon."
   - q: "Batik được mặc khi nào ở Malaysia?"
     a: "Áo batik là trang phục chính thức được chấp nhận cho nam giới, mặc tại các sự kiện trang trọng, đám cưới và các sự kiện ngoại giao thay cho vest và cà vạt. Các văn phòng chính phủ quy định ngày mặc batik, giữ nó trong lưu hành thường xuyên và không giới hạn ở việc dùng nghi lễ đơn thuần."
+  - q: "Làm sao tôi biết một tấm batik là thật hay chỉ là vải in?"
+    a: "Hãy lật tấm vải lại. Batik chống-sáp đích thực — dù là canting vẽ tay hay blok in khối — được nhuộm bằng cách ngâm vải, nên họa tiết và màu thấm xuyên qua cả hai mặt và hiện ra gần như rõ nét ở mặt sau. Vải in lụa hoặc in kỹ thuật số chỉ mang họa tiết trên một mặt và trông nhạt màu ở mặt trái. Các đường nét cũng là một dấu hiệu: canting để lại những đường không đều không bao giờ lặp lại hoàn hảo, blok cho họa tiết lặp lại gọn gàng với những đường nối mờ, còn in máy lặp lại chính xác mà không để lại dấu vết nào của sáp."
 
 lang: "vi"
-sourceContentHash: "239aa5ec5e035842"
+sourceContentHash: "8cf542d7e4bd7380"
 masterLanguage: "ms"
 wikidata: "Q63442113"
 translationStatus: "in-sync"
@@ -39,14 +43,18 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2028-07-23
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-23
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-12
+    change: "Bổ sung mục phân biệt batik thật với vải in và mục về Piala Seri Endon cùng phong trào 'Batik Malaysia — Chế tác cho Thế giới'; thêm FAQ, điểm chính, nguồn và liên kết đến songket."
+    reviewer: null
 
-updated: 2026-07-23
+updated: 2026-11-12
 sources:
   - title: "Tổng công ty Phát triển Thủ công mỹ nghệ Malaysia (Malaysian Handicraft Development Corporation) (Perbadanan Kemajuan Kraftangan Malaysia (Malaysian Handicraft Development Corporation))"
     url: "https://www.kraftangan.gov.my/"
@@ -58,10 +66,17 @@ sources:
     url: "https://ich.unesco.org/en/RL/indonesian-batik-00170"
     publisher: "UNESCO"
     date: "2009-01-01"
+  - title: "Vì sao nên tham gia Piala Seri Endon? (Why join the Piala Seri Endon?)"
+    url: "https://www.thestar.com.my/lifestyle/archive/2006/07/22/why-join-the-piala-seri-endon"
+    publisher: "The Star"
+    date: "2006-07-22"
+  - title: "Kraftangan giáo dục người dân Malaysia về batik qua chiến dịch mới (Kraftangan educates Malaysians about batik with new campaign)"
+    url: "https://www.nst.com.my/news/nation/2023/09/953294/kraftangan-educates-malaysians-about-batik-new-campaign"
+    publisher: "New Straits Times"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "wayang-kulit" }
-related: ["wayang-kulit"]
+related: ["wayang-kulit", "songket"]
 keywords: ["batik Malaysia", "batik canting", "batik Kelantan Terengganu", "kemeja batik pakaian rasmi", "tekstil rintangan lilin"]
 framework: history-culture
 ---
@@ -73,6 +88,12 @@ Sự đảo ngược đó — thiết kế bằng cách ngăn chặn, chứ khô
 ## Hai cách vẽ bằng sáp
 
 Người làm batik Malaysia làm việc theo hai chế độ chính. Batik canting là phương pháp chậm hơn và được coi trọng hơn: một người thợ vẽ thiết kế bằng sáp một cách vẽ tay tự do trực tiếp lên vải bằng bút canting, cho phép các đường cong mảnh và bố cục độc đáo. Batik blok (hay batik terap) dùng một con dấu đồng chạm khắc được nhúng sáp và ép lên vải theo họa tiết lặp lại — nhanh hơn, đồng đều hơn, và phù hợp hơn cho việc tạo ra vải ở quy mô thương mại. Hầu hết batik được bán ngày nay kết hợp cả hai: đường viền in bằng khối được hoàn thiện với chi tiết màu phết tay, một sự thỏa hiệp giữa kết cấu của tay nghề nghệ nhân và tốc độ sản xuất thực tế.
+
+## Phân biệt hàng thật với vải in
+
+Cả batik canting và batik blok đều là batik chống-sáp đích thực: tấm vải được nhuộm, chứ không phải in. Điều đó cho bạn phép thử đơn giản nhất ngay tại cửa hàng. Bởi vì tấm vải được ngâm trong bể thuốc nhuộm, màu thấm xuyên qua cả hai mặt vải — hãy lật một tấm batik thật lại và họa tiết hiện ra gần như rõ nét ở mặt sau. Vải được bán dưới danh nghĩa "batik" nhưng thực ra được in lụa hoặc in kỹ thuật số chỉ mang họa tiết trên một mặt, còn mặt trái trông nhạt màu hoặc trống trơn.
+
+Sau phép thử hai mặt đó, phần còn lại nằm ở các đường nét. Batik canting vẽ tay để lại những đường hơi không đều và không bao giờ lặp lại hoàn hảo, đôi khi kèm những đường nứt sáp mờ nơi sáp bị rạn trước khi nhuộm. Batik blok cho họa tiết lặp lại gọn gàng với những đường nối kín đáo nơi một con dấu gặp con dấu kế tiếp. In máy, ngược lại, lặp lại với độ chính xác hoàn hảo, không để lại dấu vết nào của sáp hay của bàn tay. Sự khác biệt không chỉ nằm ở giá: chính Kraftangan Malaysia đã triển khai các chiến dịch giáo dục người mua, bởi vì vải in rẻ tiền bán dưới danh nghĩa batik đang bóp nghẹt các xưởng vẫn còn vẽ bằng sáp.
 
 ## Bảng màu khác với Java
 
@@ -87,6 +108,12 @@ Hành trình thực sự của batik ở Malaysia ít về kỹ thuật dệt ma
 ## Đừng nhầm nó với người láng giềng
 
 Cần phải chính xác ở đây: vào năm 2009, UNESCO đưa batik Indonesia vào Danh sách Đại diện Di sản Văn hóa Phi vật thể của Nhân loại — một sự công nhận đối với truyền thống Indonesia, đặc biệt là truyền thống lấy Java làm trung tâm, cùng tính biểu tượng và các nghi lễ liên quan đến nó. Batik Malaysia là một truyền thống khu vực liên quan nhưng riêng biệt, với các trung tâm sản xuất, lịch sử hội nghệ nhân và các quy ước phong cách của riêng nó ở Kelantan và Terengganu; gộp lẫn cả hai, hoặc cho rằng batik Malaysia cũng mang theo cùng sự đưa vào danh sách của UNESCO, làm nhỏ đi điều thực ra là một dòng dõi nghề thực sự riêng biệt và xứng đáng được công nhận trên các điều kiện của riêng nó.
+
+## Từ kampung đến sân khấu thế giới
+
+Batik không đứng yên như một nghề thủ công làng quê. Vào năm 2003, phong trào "Batik Malaysia — Chế tác cho Thế giới" (Malaysian Batik — Crafted for the World) do Datin Seri Endon Mahmood, phu nhân của thủ tướng khi đó Abdullah Ahmad Badawi, khởi xướng, đã đặt mục tiêu nâng batik từ vải nghi lễ lên thiết kế đương đại có khả năng cạnh tranh quốc tế. Trung tâm của nó là Piala Seri Endon, một cuộc thi thiết kế batik thường niên do Yayasan Budi Penyayang Malaysia tổ chức: khởi đầu với một hạng mục thời trang duy nhất vào năm 2003, nó mở rộng thêm hạng mục đồ nội thất mềm vào năm 2004 và thủ công mỹ nghệ vào năm 2005, thu hút các nhà thiết kế trẻ xem batik như một phương tiện thiết kế chứ không chỉ là di sản được thừa kế.
+
+Tác động diễn ra theo cả hai chiều. Một mặt, batik nay xuất hiện trong các bộ sưu tập thời trang, đồ nội thất và hàng hóa được thiết kế cho thị trường hiện đại, không còn bó hẹp ở chiếc sarong và chiếc áo trang trọng. Mặt khác, các xưởng vẽ tay ở Kelantan và Terengganu vẫn chịu sức ép từ vải in rẻ tiền bắt chước vẻ ngoài của batik với chi phí thấp hơn nhiều — chính sự căng thẳng đó khiến việc giáo dục người mua và cuộc thi thiết kế trở nên quan trọng để giữ cho kỹ năng làm sáp tồn tại.
 
 ## Vì sao nó vẫn quan trọng
 

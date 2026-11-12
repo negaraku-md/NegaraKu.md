@@ -16,6 +16,8 @@ keyTakeaways:
   - "主に二つの技法が用いられる：batik canting（蝋ペンによる手描き）と batik blok（銅製のブロックによる蝋の型押し）"
   - "バティックシャツはマレーシア人男性の正式な服装であり、政府や外交の場で公式な服装として着用される"
   - "マレーシアのバティックはインドネシアのバティックとは独立した地域の伝統であり、インドネシアのバティックは2009年にUNESCOによって無形文化遺産として個別に認定された"
+  - "正真正銘の蝋防染バティック（canting でも blok でも）は布の両面に色が染み通るのに対し、シルクスクリーン印刷やデジタル印刷の「バティック」は片面だけに色が付いている"
+  - "ダティン・スリ・エンドン・マハムード（Datin Seri Endon Mahmood）が率いた「マレーシアン・バティック——世界のための工芸（Malaysian Batik — Crafted for the World）」運動のもとで始まった Piala Seri Endon（2003年以降）は、バティックを現代的なファッションデザインへと引き上げた"
 appliesTo: "マレーシアのバティックを買う、着る、あるいはその由来やインドネシアのバティックとの違いを理解しようとしているすべての人。"
 
 faq:
@@ -27,25 +29,31 @@ faq:
     a: "模様とその尺度に注目するとよい。マレーシア東海岸のバティックは、より大きな花・葉・幾何学模様を好み、一般的に人物や動物の姿を避ける。ジャワのバティックには、より繊細で、より具象的なデザインが含まれる。マレーシアのバティックはまた、綿、絹、シフォンなど、より軽い布地を好む傾向がある。"
   - q: "マレーシアではバティックはいつ着用されますか？"
     a: "バティックシャツは、男性にとって受け入れられた正式な服装であり、公式行事、結婚式、外交行事において、スーツとネクタイの代わりに着用される。政府機関はバティック着用日を定めており、これによってバティックは儀礼的な用途だけに限られず、日常的な着用の中にとどまっている。"
+  - q: "バティックが本物か、それとも単なる印刷布かを見分けるにはどうすればよいですか？"
+    a: "布を裏返してみるとよい。正真正銘の蝋防染バティックは——手描きの canting であれ、型押しの blok であれ——布を浸して染めるため、模様と色が両面に染み通り、裏側にもほぼ同じくらいはっきりと現れる。シルクスクリーン印刷やデジタル印刷の布は、模様が片面だけに乗っており、裏側は色あせて見える。線もひとつの手がかりである：canting は決して完璧には繰り返されない不均一な線を残し、blok はかすかな継ぎ目のある整然とした繰り返しを生み、機械印刷は蝋の痕跡をまったく残さずに精密に繰り返す。"
 
 lang: "ja"
 masterLanguage: "ms"
 wikidata: "Q63442113"
 translationStatus: "in-sync"
-sourceContentHash: "239aa5ec5e035842"
+sourceContentHash: "8cf542d7e4bd7380"
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2028-07-23
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-23
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-12
+    change: "マスター記事に合わせて、本物と印刷の見分け方の節、「カンポンから世界の舞台へ」の節（Piala Seri Endon）、関連するFAQ・要点・出典を追加。"
+    reviewer: null
 
-updated: 2026-07-23
+updated: 2026-11-12
 sources:
   - title: "マレーシア手工芸開発公社（Malaysian Handicraft Development Corporation） (Perbadanan Kemajuan Kraftangan Malaysia (Malaysian Handicraft Development Corporation))"
     url: "https://www.kraftangan.gov.my/"
@@ -57,10 +65,17 @@ sources:
     url: "https://ich.unesco.org/en/RL/indonesian-batik-00170"
     publisher: "UNESCO"
     date: "2009-01-01"
+  - title: "なぜ Piala Seri Endon に参加するのか？ (Why join the Piala Seri Endon?)"
+    url: "https://www.thestar.com.my/lifestyle/archive/2006/07/22/why-join-the-piala-seri-endon"
+    publisher: "The Star"
+    date: "2006-07-22"
+  - title: "Kraftangan、新たなキャンペーンでマレーシア人にバティックを啓発 (Kraftangan educates Malaysians about batik with new campaign)"
+    url: "https://www.nst.com.my/news/nation/2023/09/953294/kraftangan-educates-malaysians-about-batik-new-campaign"
+    publisher: "New Straits Times"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "wayang-kulit" }
-related: ["wayang-kulit"]
+related: ["wayang-kulit", "songket"]
 keywords: ["batik Malaysia", "batik canting", "batik Kelantan Terengganu", "kemeja batik pakaian rasmi", "tekstil rintangan lilin"]
 framework: history-culture
 ---
@@ -72,6 +87,12 @@ framework: history-culture
 ## 蝋で描く二つの方法
 
 マレーシアのバティック職人は、主に二つの方式で作業する。Batik canting は、より時間がかかり、より高く評価される手法である——職人が canting ペンを用いて、蝋のデザインを布に直接フリーハンドで描き、繊細な曲線と一点物の構図を可能にする。Batik blok（または batik terap）は、彫刻を施した銅製のスタンプを蝋に浸して布に押し付け、繰り返し模様を作り出す手法である——より速く、より均一で、商業規模で布を生産するのに適している。今日売られているバティックの多くは両者を組み合わせている：ブロックで型押しした輪郭線を、手作業で塗られた色の細部で仕上げるという、職人的な質感と実用的な生産速度との折衷である。
+
+## 本物と印刷を見分ける
+
+batik canting も batik blok も、どちらも正真正銘の蝋防染バティックである：布は印刷されるのではなく、染められる。このことが、店頭でできるもっとも簡単な見分け方を与えてくれる。布は染め液に浸されるため、色は布地の両面に染み通る——本物のバティックを裏返してみると、模様が裏側にもほぼ同じくらいはっきりと現れる。「バティック」として売られていても、実際にはシルクスクリーン印刷やデジタル印刷された布は、模様が片面だけに乗っており、その裏側は色あせて見えるか、何も描かれていないように見える。
+
+この両面の確認ができたら、あとは線を見ればよい。手描きの canting バティックの線は、わずかに不均一で、決して完璧には繰り返されず、ときには染める前に蝋が割れてできた、かすかな蝋のひび割れの線が残っていることもある。ブロックバティックは、一つのスタンプが次のスタンプと接する部分に静かな継ぎ目のある、整然とした繰り返し模様を生み出す。これに対して機械印刷は、蝋や手の痕跡をまったく残さず、完璧な精度で繰り返す。この違いは価格だけの問題ではない：Kraftangan Malaysia 自身も買い手を教育するためのキャンペーンを行ってきた。なぜなら、バティックとして売られる安価な印刷布が、今なお蝋で描き続ける作業場を圧迫しているからである。
 
 ## ジャワとは異なる色彩
 
@@ -86,6 +107,12 @@ framework: history-culture
 ## 隣国と混同しないために
 
 ここは正確を期す価値がある：2009年、UNESCOはインドネシアのバティックを人類の無形文化遺産代表一覧表に記載した——これはインドネシアの、特にジャワを中心とした伝統と、それに結びついた象徴性や儀礼に対する評価である。マレーシアのバティックは、これと関連しつつも独立した地域の伝統であり、クランタン州とトレンガヌ州に独自の生産拠点、職人組合の歴史、様式上の慣習を持つ。両者を混同すること、あるいはマレーシアのバティックが同じUNESCOの記載を有していると考えることは、実際には真に独立した工芸の系譜であり、それ自体の条件のもとで評価されるに値するものを、過小評価することになる。
+
+## カンポンから世界の舞台へ
+
+バティックは村の工芸として凍りついたままではなかった。2003年、当時の首相アブドゥラ・アフマド・バダウィ（Abdullah Ahmad Badawi）の夫人であるダティン・スリ・エンドン・マハムード（Datin Seri Endon Mahmood）が旗振り役となった「マレーシアン・バティック——世界のための工芸（Malaysian Batik — Crafted for the World）」運動は、バティックを儀礼用の布から、国際的に競争できる現代的なデザインへと引き上げることを目指した。その中心にあったのが、Yayasan Budi Penyayang Malaysia が主催する年次バティックデザインコンペティション、Piala Seri Endon である：2003年に単一のファッション部門から始まり、2004年にはインテリアファブリック、2005年には手工芸品が加わって、若いデザイナーたちを、バティックを単なる受け継がれた遺産ではなく、一つのデザインの媒体として見るようへと引き寄せた。
+
+その効果は両方向に及んだ。一方では、バティックは今やファッションのコレクション、インテリア用品、そして現代の市場に向けてデザインされた製品に登場するようになり、もはやサロンや正装用のシャツに限られることはなくなった。他方で、クランタン州とトレンガヌ州の手描きの作業場は、はるかに安いコストでバティックの見た目を模倣する安価な印刷布からの圧力に依然として直面している——これは、蝋の技を生き続けさせるうえで、買い手の教育とデザインコンペティションが重要であり続ける理由となる、まさにその同じ緊張関係である。
 
 ## なぜ今も重要なのか
 
