@@ -1,0 +1,179 @@
+---
+// ToolArticleView — gives a tool the ARTICLE look (its own hero with breadcrumb +
+// badges + title + lede, three-layer cards, FAQ, sources, related, feedback, embed)
+// without the KB-stats PageHero. The interactive calculator goes in the default
+// <slot>. Shared + registry-driven, so one component dresses every tool; roll out
+// by wrapping each View's widget in <ToolArticleView ...>. Self-contained styles
+// (the real ArticleView CSS is scoped), using the site's design tokens.
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { liveTools } from '@/lib/tools';
+import { REPO } from '@/lib/site';
+import SponsorCTA from './SponsorCTA.astro';
+
+interface Props {
+  locale: Locale;
+  toolId: string;
+  title: string;
+  lede: string;
+  asOf?: string;
+  how?: string;
+  faqs?: { q: string; a: string }[];
+  sources?: { title: string; url: string }[];
+  related?: { label: string; href: string }[];
+  sponsor?: any;
+  sponsorHref?: string;
+}
+const { locale, toolId, title, lede, asOf, how, faqs = [], sources = [], related = [], sponsor, sponsorHref } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const all = liveTools(locale);
+const self = all.find((t) => t.id === toolId);
+const moreTools = all.filter((t) => t.id !== toolId).slice(0, 6);
+
+const embedUrl = `https://negaraku.md${localePath(`/embed/tools/${toolId}`, locale)}`;
+const iframe = `<iframe src="${embedUrl}" width="100%" height="680" loading="lazy" style="border:0;border-radius:12px" title="${(self?.label ?? title).replace(/"/g, '&quot;')}"></iframe>`;
+const issueUrl = `${REPO}/issues/new?title=${encodeURIComponent(`Tool: ${self?.label ?? toolId}`)}&body=${encodeURIComponent(`Tool: ${toolId}\n\nWhat is wrong / what should it say:\n`)}`;
+
+const svg = (inner: string) => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${inner}</svg>`;
+const ICON = {
+  calc: svg('<rect x="4" y="2" width="16" height="20" rx="2"/><line x1="8" y1="6" x2="16" y2="6"/><line x1="8" y1="10" x2="8" y2="10"/><line x1="12" y1="10" x2="12" y2="10"/><line x1="16" y1="10" x2="16" y2="10"/><line x1="8" y1="14" x2="8" y2="14"/><line x1="12" y1="14" x2="12" y2="14"/><line x1="8" y1="18" x2="16" y2="18"/>'),
+  info: svg('<circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/>'),
+  faq: svg('<circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/>'),
+  src: svg('<path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>'),
+  rel: svg('<path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>'),
+};
+const uiHow = L('Bagaimana ia berfungsi', 'How it works', '运作方式');
+const uiCalc = L('Kalkulator', 'Calculator', '计算器');
+const uiFaq = L('Soalan lazim', 'Frequently asked', '常见问题');
+const uiSrc = L('Sumber', 'Sources', '来源');
+const uiMore = L('Alat lain', 'More tools', '更多工具');
+const uiRead = L('Bacaan berkaitan', 'Related reading', '相关阅读');
+---
+
+<header class="ta-hero">
+  <div class="container">
+    <p class="crumb" data-pagefind-ignore>
+      <a href={localePath('/', locale)}>{L('Laman Utama', 'Home', '首页')}</a> /
+      <a href={localePath('/tools', locale)}>{L('Alat', 'Tools', '工具')}</a> / <span>{title}</span>
+    </p>
+    <div class="badges" data-pagefind-ignore>
+      <span class="pill pill-tool">{self?.icon ?? '🧮'} {L('Alat interaktif', 'Interactive tool', '互动工具')}</span>
+      {asOf && <span class="pill">{L('Dikemas kini', 'Updated', '更新')} {asOf}</span>}
+      <span class="pill pill-free">{L('Percuma · dalam pelayar', 'Free · in-browser', '免费 · 浏览器内')}</span>
+    </div>
+    <h1>{title}</h1>
+    <p class="lede">{lede}</p>
+  </div>
+</header>
+
+<article class="ta container">
+  <div class="ta-main">
+    {how && (
+      <section class="layer">
+        <header><span class="sec-h"><span class="ico" set:html={ICON.info} />{uiHow}</span></header>
+        <div class="lb"><p>{how}</p></div>
+      </section>
+    )}
+
+    <section class="layer">
+      <header><span class="sec-h"><span class="ico" set:html={ICON.calc} />{uiCalc}</span></header>
+      <div class="lb lb-tool"><slot /></div>
+    </section>
+
+    {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
+
+    {faqs.length > 0 && (
+      <section class="layer">
+        <header><span class="sec-h"><span class="ico" set:html={ICON.faq} />{uiFaq}</span><span>{faqs.length}</span></header>
+        <div class="lb"><dl class="ta-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl></div>
+      </section>
+    )}
+
+    {(sources.length > 0 || related.length > 0) && (
+      <section class="layer">
+        <header><span class="sec-h"><span class="ico" set:html={ICON.src} />{uiSrc}</span></header>
+        <div class="lb">
+          {related.length > 0 && (<>
+            <p class="ta-sub">{uiRead}</p>
+            <ul class="ta-links">{related.map((r) => (<li><a href={r.href}>{r.label}</a></li>))}</ul>
+          </>)}
+          {sources.length > 0 && (
+            <ul class="ta-src">{sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener noreferrer">{s.title}</a></li>))}</ul>
+          )}
+        </div>
+      </section>
+    )}
+
+    <section class="layer">
+      <header><span class="sec-h"><span class="ico" set:html={ICON.rel} />{uiMore}</span></header>
+      <div class="lb">
+        <ul class="ta-tools">
+          {moreTools.map((t) => (<li><a href={localePath(t.href, locale)}><span aria-hidden="true">{t.icon}</span>{t.label}</a></li>))}
+        </ul>
+      </div>
+    </section>
+
+    <div class="ta-foot" data-pagefind-ignore>
+      <a class="ta-report" href={issueUrl} target="_blank" rel="noopener noreferrer">{L('Jumpa ralat? Laporkan', 'Spot an error? Report it', '发现错误？报告')} ↗</a>
+      <details class="ta-embed">
+        <summary>{L('Benamkan alat ini', 'Embed this tool', '嵌入此工具')}</summary>
+        <textarea class="ta-code" readonly rows="3" set:text={iframe}></textarea>
+        <button type="button" class="ta-copy" data-tx-copy>{L('Salin kod', 'Copy code', '复制代码')}</button>
+        <span class="ta-copied" hidden>{L('Disalin!', 'Copied!', '已复制！')}</span>
+      </details>
+    </div>
+  </div>
+</article>
+
+<script>
+  document.querySelectorAll('[data-tx-copy]').forEach((btn) => {
+    btn.addEventListener('click', async () => {
+      const wrap = btn.closest('.ta-embed'); const ta = wrap && wrap.querySelector('textarea'); if (!ta) return;
+      try { await navigator.clipboard.writeText(ta.value); } catch { ta.select(); try { document.execCommand('copy'); } catch {} }
+      const ok = wrap.querySelector('.ta-copied'); if (ok) { ok.hidden = false; setTimeout(() => { ok.hidden = true; }, 1800); }
+    });
+  });
+</script>
+
+<style>
+  .ta-hero { padding: 2.5rem 0 1.6rem; border-bottom: 1px solid var(--line); }
+  .ta-hero .crumb { font-size: 0.85rem; color: var(--muted); margin: 0 0 1rem; }
+  .ta-hero .crumb a { color: var(--gold); text-decoration: none; }
+  .ta-hero .crumb span { color: var(--ink-soft); }
+  .badges { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1rem; }
+  .pill { font-size: 0.78rem; font-weight: 600; padding: 0.3rem 0.7rem; border-radius: 999px; border: 1px solid var(--line); color: var(--ink-soft); }
+  .pill-tool { border-color: color-mix(in srgb, var(--gold) 45%, transparent); color: var(--gold); }
+  .pill-free { color: var(--muted); }
+  .ta-hero h1 { font-size: clamp(1.9rem, 4vw, 2.8rem); line-height: 1.1; margin: 0.2rem 0 0.6rem; }
+  .ta-hero .lede { font-size: 1.05rem; color: var(--ink-soft); line-height: 1.6; max-width: 46rem; margin: 0; }
+
+  .ta { padding: 1.8rem 0 3rem; }
+  .ta-main { max-width: 60rem; margin: 0 auto; display: grid; gap: 1.6rem; }
+  .layer { }
+  .layer > header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.6rem; }
+  .sec-h { display: inline-flex; align-items: center; gap: 0.5rem; font-size: 0.8rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); }
+  .sec-h .ico { width: 1.05rem; height: 1.05rem; color: var(--gold); }
+  .sec-h .ico svg { width: 100%; height: 100%; }
+  .layer > header > span:last-child { font-size: 0.8rem; color: var(--muted); }
+  .lb { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 1.3rem 1.5rem; }
+  .lb-tool { padding: 1.5rem; }
+  .lb p { line-height: 1.7; color: var(--ink-soft); margin: 0; }
+  .ta-faq dt { font-weight: 700; margin-top: 1rem; }
+  .ta-faq dt:first-child { margin-top: 0; }
+  .ta-faq dd { margin: 0.3rem 0 0; color: var(--ink-soft); line-height: 1.7; }
+  .ta-sub { font-weight: 700; margin: 0 0 0.4rem; }
+  .ta-links, .ta-src { padding-left: 1.1rem; line-height: 1.9; margin: 0; }
+  .ta-src { font-size: 0.85rem; margin-top: 0.8rem; }
+  .ta-links a, .ta-src a { color: var(--gold); }
+  .ta-tools { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 0.5rem; }
+  .ta-tools a { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.5rem 0.7rem; border: 1px solid var(--line); border-radius: 10px; text-decoration: none; color: var(--ink); font-size: 0.88rem; }
+  .ta-tools a:hover { border-color: var(--gold); }
+  .ta-foot { display: flex; flex-wrap: wrap; align-items: center; gap: 0.8rem 1.4rem; margin-top: 0.4rem; }
+  .ta-report { color: var(--gold); text-decoration: none; font-size: 0.9rem; }
+  .ta-embed { flex: 1 1 320px; }
+  .ta-embed summary { cursor: pointer; font-weight: 700; font-size: 0.9rem; }
+  .ta-code { width: 100%; margin-top: 0.6rem; font-family: var(--mono, monospace); font-size: 0.78rem; padding: 0.6rem 0.7rem; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); color: var(--ink); resize: vertical; }
+  .ta-copy { margin-top: 0.5rem; font: inherit; font-size: 0.85rem; padding: 0.4rem 0.9rem; border-radius: 8px; border: 1px solid var(--gold); background: var(--gold); color: #000; cursor: pointer; }
+  .ta-copied { margin-left: 0.5rem; font-size: 0.85rem; color: var(--gold); }
+</style>

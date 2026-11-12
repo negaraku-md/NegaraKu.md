@@ -4,7 +4,7 @@ import { localePath } from '@/lib/i18n';
 import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
 import SponsorCTA from './SponsorCTA.astro';
 import PageHero from './PageHero.astro';
-import ToolExtras from './ToolExtras.astro';
+import ToolArticleView from './ToolArticleView.astro';
 import { TAX_YEARS, DEFAULT_YA, type Lang } from '@/lib/tax/incomeTax';
 
 // Malaysia Personal Income Tax / PCB calculator — the interactive layer on
@@ -97,21 +97,33 @@ const ui = {
   sourcesH: L('Sumber', 'Sources', '来源'),
   learnH: L('Ketahui lebih lanjut', 'Learn more', '了解更多'),
 };
+
+const howText = L(
+  'Kalkulator ini mengambil jumlah pendapatan anda, menolak pelepasan diri automatik (RM9,000) dan setiap pelepasan lain yang anda masukkan (setiap satu dihadkan pada paras LHDN), lalu mengenakan skala pemastautin Jadual 1 yang berperingkat pada baki pendapatan bercukai. Rebat individu RM400 (jika pendapatan bercukai ≤ RM35,000) dan rebat zakat ditolak daripada cukai.',
+  'This calculator takes your total income, subtracts the automatic individual relief (RM9,000) and every other relief you enter (each capped at the LHDN limit), then applies the progressive Schedule 1 resident scale to the remaining chargeable income. The RM400 individual rebate (if chargeable income ≤ RM35,000) and the zakat rebate are then deducted from the tax.',
+  '本计算器以你的总收入，减去自动个人减免（RM9,000）及你填入的每项其他减免（各按 LHDN 上限封顶），再对剩余应课税收入套用附表一累进居民税率。随后从税款中扣除 RM400 个人回扣（应课税收入 ≤ RM35,000 时）及天课回扣。',
+);
+const relatedLinks = [
+  { label: L('Kadar cukai pendapatan peribadi', 'Personal income tax rates', '个人所得税率'), href: srcPath('personal-tax-rates') },
+  { label: L('Senarai semak pelepasan cukai', 'Personal tax reliefs checklist', '个人税务减免清单'), href: srcPath('personal-tax-reliefs') },
+  { label: L('PCB — Potongan Cukai Bulanan', 'PCB — Monthly Tax Deduction', 'PCB——每月税务扣除'), href: srcPath('pcb-monthly-tax-deduction') },
+  { label: L('Borang cukai mana untuk anda', 'Which tax form applies to you', '你该用哪份报税表'), href: srcPath('which-tax-form') },
+];
 ---
 
-{!embed && (
-<PageHero
+<ToolArticleView
   locale={locale}
-  crumb={[
-    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
-    { label: title },
-  ]}
+  toolId="income-tax-calculator"
   title={title}
-  desc={heroDesc}
-/>
-)}
-
-<section class="container block">
+  lede={heroDesc}
+  asOf={`YA${data.ya}`}
+  how={howText}
+  faqs={faqs}
+  sources={data.sources}
+  related={relatedLinks}
+  sponsor={sponsor}
+  sponsorHref={sponsorHref}
+>
   <div class="itc" id="itc" data-capped={ui.capped}>
     <!-- Inputs -->
     <form class="itc-form" autocomplete="off">
@@ -195,46 +207,9 @@ const ui = {
       </dl>
       <p class="itc-cap-note" id="itc-cap-note" hidden></p>
     </aside>
+    <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
   </div>
-
-  <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
-
-  {!embed && sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
-
-  {!embed && (
-  <div class="itc-prose">
-    <h2>{ui.howH}</h2>
-    <p>{L(
-      'Kalkulator ini mengambil jumlah pendapatan anda, menolak pelepasan diri automatik (RM9,000) dan setiap pelepasan lain yang anda masukkan (setiap satu dihadkan pada paras LHDN), lalu mengenakan skala pemastautin Jadual 1 yang berperingkat pada baki pendapatan bercukai. Rebat individu RM400 (jika pendapatan bercukai ≤ RM35,000) dan rebat zakat ditolak daripada cukai.',
-      'This calculator takes your total income, subtracts the automatic individual relief (RM9,000) and every other relief you enter (each capped at the LHDN limit), then applies the progressive Schedule 1 resident scale to the remaining chargeable income. The RM400 individual rebate (if chargeable income ≤ RM35,000) and the zakat rebate are then deducted from the tax.',
-      '本计算器以你的总收入，减去自动个人减免（RM9,000）及你填入的每项其他减免（各按 LHDN 上限封顶），再对剩余应课税收入套用附表一累进居民税率。随后从税款中扣除 RM400 个人回扣（应课税收入 ≤ RM35,000 时）及天课回扣。',
-    )}</p>
-
-    <h2>FAQ</h2>
-    <dl class="itc-faq">
-      {faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}
-    </dl>
-
-    <h2>{ui.learnH}</h2>
-    <ul class="itc-links">
-      <li><a href={srcPath('personal-tax-rates')}>{L('Kadar cukai pendapatan peribadi', 'Personal income tax rates', '个人所得税率')}</a></li>
-      <li><a href={srcPath('personal-tax-reliefs')}>{L('Senarai semak pelepasan cukai', 'Personal tax reliefs checklist', '个人税务减免清单')}</a></li>
-      <li><a href={srcPath('pcb-monthly-tax-deduction')}>{L('PCB — Potongan Cukai Bulanan', 'PCB — Monthly Tax Deduction', 'PCB——每月税务扣除')}</a></li>
-      <li><a href={srcPath('which-tax-form')}>{L('Borang cukai mana untuk anda', 'Which tax form applies to you', '你该用哪份报税表')}</a></li>
-    </ul>
-
-    <h3>{ui.sourcesH}</h3>
-    <ul class="itc-src">
-      {data.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}
-    </ul>
-  </div>
-  )}
-
-  {!embed && <ToolExtras locale={locale} toolId="income-tax-calculator" asOf={String(DEFAULT_YA)} />}
-  {embed && (
-    <p style="text-align:center; padding:1rem 0 0; font-size:0.9rem;"><a href={localePath('/tools/income-tax-calculator', locale)} target="_blank" rel="noopener">{L('Buka kalkulator penuh di NegaraKu.md', 'Open the full calculator on NegaraKu.md', '在 NegaraKu.md 打开完整计算器')} ↗</a></p>
-  )}
-</section>
+</ToolArticleView>
 
 <script>
   import { computeTax, TAX_YEARS } from '@/lib/tax/incomeTax';
