@@ -47,6 +47,9 @@ updated: 2026-11-06
 place:
   address: "G-1-1, Steppes, 32 Jalan Kiara 3, Mont Kiara, Kuala Lumpur, 51200, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lama+Nyonya+Restaurant+Mont+Kiara+Kuala+Lumpur"
+  googleRating: 4.2
+  googleReviews: 218
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lama+Nyonya+Restaurant+Mont+Kiara+Kuala+Lumpur"
   hours: "يوميًا 11:00-21:00"
   service: ["dine-in"]

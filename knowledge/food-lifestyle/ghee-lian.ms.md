@@ -47,6 +47,9 @@ updated: 2026-11-06
 place:
   address: "Lot No. 39, MBPP Kompleks Makanan Medan Renong, Padang Kota Lama, 4 Jalan Tun Syed Sheh Barakhbah, George Town, 10200 Penang"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ghee%20Lian%2C%20George%20Town%2C%20Penang"
+  googleRating: 4.4
+  googleReviews: 357
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ghee%20Lian%2C%20George%20Town%2C%20Penang"
   priceRange: "Budget (under RM25 per person)"
   hours: "Isn-Sel 18:00-22:00; Rab-Ahd tutup"

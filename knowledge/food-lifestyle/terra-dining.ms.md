@@ -47,6 +47,9 @@ updated: 2026-11-06
 place:
   address: "91 Jalan Aminuddin Baki, Taman Tun Dr Ismail (TTDI), 60000 Kuala Lumpur, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Terra+Dining+91+Jalan+Aminuddin+Baki+Taman+Tun+Dr+Ismail+Kuala+Lumpur"
+  googleRating: 4.6
+  googleReviews: 128
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/terra-dining"
   priceRange: "Set tasting menu (one seating); reported around RM398++ to RM568++ per person depending on the current menu, with an optional wine pairing (approx. RM238++) or zero-proof pairing (approx. RM268); confirm the current price with the restaurant"
   hours: "Sel-Sab dari 6 petang (tempat duduk terakhir pada waktu malam); tutup Ahad & Isnin"

@@ -48,6 +48,9 @@ place:
   nativeName: "海脚人"
   address: "44 Jalan Kaskas 2, Taman Cheras, 56100 Kuala Lumpur"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hai%20Kah%20Lang%2C%20Taman%20Cheras%2C%20Kuala%20Lumpur"
+  googleRating: 4.4
+  googleReviews: 2257
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hai%20Kah%20Lang%2C%20Taman%20Cheras%2C%20Kuala%20Lumpur"
   priceRange: "$$"
   hours: "Lun-Dim 08:00-17:00"

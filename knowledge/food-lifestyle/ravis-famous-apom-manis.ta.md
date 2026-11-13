@@ -20,6 +20,9 @@ updated: 2026-11-06
 place:
   address: "317 Jalan Burma, George Town, 10350 Penang, Malaysia (stall inside Keat Hoe Coffee Shop, formerly Swee Kong; MICHELIN lists the number as 319)"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ravi%27s%20Famous%20Apom%20Manis%20Jalan%20Burma%20George%20Town%20Penang"
+  googleRating: 4.5
+  googleReviews: 204
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ravi%27s%20Famous%20Apom%20Manis%20Jalan%20Burma%20George%20Town%20Penang"
   priceRange: "$ (budget street food); around RM6 for 5 pieces (~RM1.20 each)"
   hours: "தினமும் காலை 6 மணி முதல் 10 மணி வரை, வியாழக்கிழமை மூடப்படும்; பொதுவாக காலை ~9:30 மணிக்குள் விற்றுத் தீர்ந்துவிடும். குறிப்பு: MICHELIN பட்டியல் மாலை 6 மணி முதல் இரவு 10 மணி வரை என்று காட்டுகிறது, இது காலை நேரம் மட்டுமே இயங்குகிறது என பல உள்ளூர் ஆதாரங்கள் தெரிவிப்பதற்கு முரணாக உள்ளது."

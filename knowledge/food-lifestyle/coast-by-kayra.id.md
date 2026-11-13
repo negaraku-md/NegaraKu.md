@@ -52,6 +52,9 @@ updated: 2026-11-06
 place:
   address: "Lot G03-G05, Ground Floor, The Starhill, 181 Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Coast%20by%20Kayra%2C%20Kuala%20Lumpur"
+  googleRating: 4.8
+  googleReviews: 483
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Coast%20by%20Kayra%2C%20Kuala%20Lumpur"
   priceRange: "$$"
   hours: "Sen 12:00-22:00; Sel 12:30-22:00; Rab-Min 12:00-22:00"

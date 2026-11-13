@@ -48,6 +48,9 @@ updated: 2026-11-06
 place:
   address: "5 Lorong Prangin, George Town, 10100 Penang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Thara+Thai+5+Lorong+Prangin+George+Town+Penang"
+  googleRating: 4.4
+  googleReviews: 581
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Thara+Thai+5+Lorong+Prangin+George+Town+Penang"
   priceRange: "$$"
   hours: "Lun, mar, ven, sam, dim 12h00-15h00 & 17h00-22h00 ; mer 17h00-22h00 ; jeu fermé"

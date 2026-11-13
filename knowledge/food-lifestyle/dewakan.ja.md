@@ -42,6 +42,9 @@ updated: 2026-11-06
 place:
   address: "48F, Skyviews, Naza Tower, Platinum Park, 10 Persiaran KLCC, 50088 Kuala Lumpur"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Dewakan%2C%20Kuala%20Lumpur"
+  googleRating: 4.2
+  googleReviews: 569
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Dewakan%2C%20Kuala%20Lumpur"
   priceRange: "RM 870 (tasting menu) · MICHELIN $$$$"
   hours: "月–土 18:00–23:30 · 日休"

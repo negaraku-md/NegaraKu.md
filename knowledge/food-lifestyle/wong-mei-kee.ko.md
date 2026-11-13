@@ -55,6 +55,9 @@ updated: 2026-11-06
 place:
   address: "30, Jalan Nyonya, off Jalan Pudu, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wong+Mei+Kee+Pudu+Kuala+Lumpur"
+  googleRating: 3.7
+  googleReviews: 3007
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.burpple.com/wong-mei-kee-restaurant"
   priceRange: "Budget (Michelin lowest price tier)"
   hours: "정오 무렵(12:00~12:30)에 문을 열며 보통 오후 3시쯤이면 매진됩니다. 영업 시간이 짧고 평일 중 며칠은 휴무이므로 방문 전에 확인하세요(정확한 요일/시간은 자료마다 다릅니다)."

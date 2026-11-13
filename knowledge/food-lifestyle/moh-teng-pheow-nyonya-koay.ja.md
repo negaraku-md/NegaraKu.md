@@ -61,6 +61,9 @@ updated: 2026-11-06
 place:
   address: "Jalan Masjid, off Lebuh Chulia, 10200 George Town, Penang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Moh+Teng+Pheow+Nyonya+Koay+George+Town+Penang"
+  googleRating: 4
+  googleReviews: 2562
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Moh+Teng+Pheow+Nyonya+Koay+George+Town+Penang"
   priceRange: "Budget (MICHELIN $); traditional kueh sold per piece"
   hours: "毎日 10:00-17:00（MICHELIN と Wanderlog はいずれも毎日営業と記載；一部の古いブログは月曜定休・10:30 開店と記しているため、訪問前に要確認）"

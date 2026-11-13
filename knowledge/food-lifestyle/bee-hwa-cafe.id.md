@@ -50,6 +50,9 @@ updated: 2026-11-06
 place:
   address: "10 Lebuh Dickens, George Town, 10050 Penang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bee%20Hwa%20Cafe%2C%20George%20Town%2C%20Penang"
+  googleRating: 4.4
+  googleReviews: 2381
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Bee%20Hwa%20Cafe%2C%20George%20Town%2C%20Penang"
   priceRange: "$"
   hours: "Sen-Sab 7:00-15:00; tutup Min"

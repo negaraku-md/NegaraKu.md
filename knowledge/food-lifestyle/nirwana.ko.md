@@ -65,6 +65,9 @@ updated: 2026-11-06
 place:
   address: "43, Jalan Telawi 3, Bangsar Baru, 59100 Kuala Lumpur, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  googleRating: 4.1
+  googleReviews: 3442
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
   priceRange: "$$ (approx RM10-30 per person)"
   hours: "매일 11:30-23:00 (MICHELIN 기준; 다른 정보원마다 다르므로 직접 확인하세요)"

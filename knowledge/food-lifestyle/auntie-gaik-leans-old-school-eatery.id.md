@@ -52,6 +52,9 @@ updated: 2026-11-06
 place:
   address: "1 Lebuh Bishop (Bishop Street), George Town, 10200 Penang"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Auntie%20Gaik%20Lean%27s%20Old%20School%20Eatery%2C%20George%20Town%2C%20Penang"
+  googleRating: 4.2
+  googleReviews: 2396
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Auntie%20Gaik%20Lean%27s%20Old%20School%20Eatery%2C%20George%20Town%2C%20Penang"
   priceRange: "MICHELIN $$"
   hours: "Rab–Min 12:00–14:30 & 18:00–21:30 · tutup Sen & Sel"

@@ -61,6 +61,9 @@ updated: 2026-11-06
 place:
   address: "59, Gat Lebuh Chulia, 10300 George Town, Pulau Pinang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rasa+Rasa+59+Gat+Lebuh+Chulia+George+Town+Penang"
+  googleRating: 4.7
+  googleReviews: 457
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Rasa+Rasa+59+Gat+Lebuh+Chulia+George+Town+Penang"
   priceRange: "$ (classic pandan nasi lemak ~RM8.90; pandan nasi lemak curry chicken set ~RM17.90)"
   hours: "सोम 08:30-16:00; मंगल 09:00-16:00; बुध बंद; गुरु 08:30-16:00; शुक्र 08:30-16:00; शनि 09:00-16:00; रवि 09:00-16:00 (MICHELIN Guide के अनुसार; अन्य स्रोत थोड़े अलग समय देते हैं, जाने से पहले सत्यापित करें)"

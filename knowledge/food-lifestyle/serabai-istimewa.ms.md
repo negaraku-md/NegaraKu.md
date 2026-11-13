@@ -20,6 +20,9 @@ updated: 2026-11-06
 place:
   address: "18 Astaka Taman Tun Sardon, 25 Pintasan Pemancar 5, George Town, 11700 Pulau Pinang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  googleRating: 4.2
+  googleReviews: 39
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
   priceRange: "$"
   hours: "Rabu-Ahad 6:30 pagi - 10 pagi; tutup Isnin & Selasa. Serabai sering habis sebelum 10 pagi, jadi datang awal."

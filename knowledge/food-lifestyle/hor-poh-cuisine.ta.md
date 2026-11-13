@@ -52,6 +52,9 @@ updated: 2026-11-06
 place:
   address: "36 Jalan 6/38D, Taman Sri Sinar, Segambut, 52100 Kuala Lumpur"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hor%20Poh%20Cuisine%2C%20Segambut%2C%20Kuala%20Lumpur"
+  googleRating: 4.3
+  googleReviews: 878
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hor%20Poh%20Cuisine%2C%20Segambut%2C%20Kuala%20Lumpur"
   priceRange: "$"
   hours: "திங்கள் 11:00-15:00 & 17:00-21:00, புதன்-ஞாயிறு 11:00-15:00 & 17:00-21:00; செவ்வாய் மூடப்பட்டிருக்கும்"

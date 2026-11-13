@@ -66,6 +66,9 @@ place:
   nativeName: "兴记肉骨茶"
   address: "121 Jalan Kepong, Taman Usahawan, 52100 Kuala Lumpur"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hing%20Kee%20Bak%20Kut%20Teh%2C%20Jalan%20Kepong%2C%20Kuala%20Lumpur"
+  googleRating: 4.2
+  googleReviews: 2361
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hing%20Kee%20Bak%20Kut%20Teh%2C%20Jalan%20Kepong%2C%20Kuala%20Lumpur"
   priceRange: "$"
   hours: "Tue-Wed 11:00-02:30, Thu-Sat 15:00-02:30, Sun 14:30-02:30; Mon closed"

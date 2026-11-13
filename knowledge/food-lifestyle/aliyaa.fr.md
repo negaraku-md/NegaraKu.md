@@ -47,6 +47,9 @@ updated: 2026-11-06
 place:
   address: "48, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Aliyaa%20Sri%20Lankan%2C%20Kuala%20Lumpur"
+  googleRating: 4.4
+  googleReviews: 1422
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Aliyaa%20Sri%20Lankan%2C%20Kuala%20Lumpur"
   priceRange: "$$ (mains roughly RM30-70; chef's set menu around RM128 per person)"
   hours: "Tous les jours 12h00-15h00 et 18h00-23h00 (selon MICHELIN ; les autres sources varient, à confirmer avant de s'y rendre)"

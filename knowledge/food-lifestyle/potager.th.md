@@ -47,6 +47,9 @@ updated: 2026-11-06
 place:
   address: "P11, Bamboo Hills, off DUKE, Taman Bamboo, Segambut, 51200 Kuala Lumpur, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Potager+Bamboo+Hills+Segambut+Kuala+Lumpur"
+  googleRating: 4.5
+  googleReviews: 323
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Potager+Bamboo+Hills+Segambut+Kuala+Lumpur"
   priceRange: "$$$$ (MICHELIN). Dinner tasting menu of 5 or 9 courses; a 5-course weekend lunch was reported at ~RM395 per person (2023 review, may be outdated). Wine pairing available."
   hours: "ตามข้อมูลที่ระบุใน MICHELIN: ทุกวัน 12:00-15:00 และ 18:00-22:00 เวลาทำการที่ระบุไว้ไม่ตรงกันในแต่ละแหล่งข้อมูล และให้บริการแบบเน้นการจอง โปรดยืนยันเวลาเมื่อทำการจอง"

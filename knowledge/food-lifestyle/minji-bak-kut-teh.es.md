@@ -53,6 +53,9 @@ place:
   nativeName: "铭记肉骨茶"
   address: "7-6, Jalan Sungai Besi, Pudu, 57100 Kuala Lumpur, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Minji+Bak+Kut+Teh+Pudu+Kuala+Lumpur"
+  googleRating: 4.1
+  googleReviews: 497
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Minji+Bak+Kut+Teh+Pudu+Kuala+Lumpur"
   priceRange: "$$"
   hours: "Todos los días de 10:30 a 15:00 y de 18:00 a 21:00; cerrado los martes"

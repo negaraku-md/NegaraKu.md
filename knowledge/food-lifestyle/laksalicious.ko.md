@@ -27,6 +27,9 @@ updated: 2026-11-06
 place:
   address: "117-117A Jalan Hutton, George Town, 10050 Penang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Laksalicious%2C%20George%20Town%2C%20Penang"
+  googleRating: 4.5
+  googleReviews: 1519
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Laksalicious%2C%20George%20Town%2C%20Penang"
   priceRange: "Budget (MICHELIN Bib Gourmand, $)"
   hours: "화-일 11:30-19:00; 월 휴무"

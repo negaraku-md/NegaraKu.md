@@ -42,6 +42,9 @@ updated: 2026-11-06
 place:
   address: "Level 2-2, The LINC KL, 360 Jalan Tun Razak, Taman U Thant, 50400 Kuala Lumpur"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=De.Wan%201958%2C%20Kuala%20Lumpur"
+  googleRating: 4.8
+  googleReviews: 10598
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=De.Wan%201958%2C%20Kuala%20Lumpur"
   priceRange: "$$"
   hours: "Sen-Jum 11:00-15:30 dan 18:00-21:30; Sab-Min 11:00-17:00 dan 18:00-21:30"

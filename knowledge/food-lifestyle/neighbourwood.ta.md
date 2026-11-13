@@ -22,6 +22,9 @@ updated: 2026-11-06
 place:
   address: "3427, Jalan Kulim, Taman Bukit Mas, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Neighbourwood+restaurant+Bukit+Mertajam"
+  googleRating: 4.4
+  googleReviews: 271
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Neighbourwood+restaurant+Bukit+Mertajam"
   priceRange: "$$"
   hours: "வியாழன்-திங்கள் 11:30-15:00 மற்றும் 17:30-22:30; செவ்வாய் மற்றும் புதன் மூடப்பட்டிருக்கும்"

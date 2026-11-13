@@ -20,6 +20,9 @@ updated: 2026-11-06
 place:
   address: "Lot 1487, Jalan Betik, Sungai Rambai, Bukit Mertajam, 14000 Seberang Perai, Penang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ming+Qin+Charcoal+Char+Koay+Teow+Seberang+Perai+Penang"
+  googleRating: 3.9
+  googleReviews: 1206
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ming+Qin+Charcoal+Char+Koay+Teow+Seberang+Perai+Penang"
   priceRange: "Budget (under RM35 per person)"
   hours: "周二至周四 6:00 PM - 11:00 PM；周五至周六 6:00 PM - 11:30 PM；周日 6:00 PM - 11:00 PM；周一休息"

@@ -52,6 +52,9 @@ updated: 2026-11-06
 place:
   address: "24 Jalan Beremi, off Jalan Sultan Ismail, Bukit Bintang, 50200 Kuala Lumpur"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Congkak%20Restaurant%2C%20Bukit%20Bintang%2C%20Kuala%20Lumpur"
+  googleRating: 4
+  googleReviews: 684
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Congkak%20Restaurant%2C%20Bukit%20Bintang%2C%20Kuala%20Lumpur"
   priceRange: "$$"
   hours: "월~목 12:00-22:00; 금~토 12:00-23:00; 일 12:00-22:00 (MICHELIN); 일부 정보에는 매일 11:00-22:00로 표시 - 레스토랑에 확인 바람"

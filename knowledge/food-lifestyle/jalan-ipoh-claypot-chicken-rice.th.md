@@ -52,6 +52,9 @@ updated: 2026-11-06
 place:
   address: "Lot 1224, 7 Jalan Batu Ambar, Taman Kok Lian, 51200 Kuala Lumpur, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Jalan%20Ipoh%20Claypot%20Chicken%20Rice%2C%20Kuala%20Lumpur"
+  googleRating: 4
+  googleReviews: 377
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Jalan%20Ipoh%20Claypot%20Chicken%20Rice%2C%20Kuala%20Lumpur"
   priceRange: "Budget (MICHELIN price tier: $)"
   hours: "จ., อ., พฤ.-อา. 10:00-17:30; ปิดวันพุธ"

@@ -48,6 +48,9 @@ updated: 2026-11-06
 place:
   address: "7 Jalan Murthy, Bukit Mertajam, 14000 Seberang Perai, Penang"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=BM%20Yam%20Rice%2C%20Bukit%20Mertajam%2C%20Penang"
+  googleRating: 4.1
+  googleReviews: 2121
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=BM%20Yam%20Rice%2C%20Bukit%20Mertajam%2C%20Penang"
   priceRange: "Budget ($)"
   hours: "திங்.-செவ். 09:00-15:00; புதன் மூடல்; வியா.-ஞாயி. 09:00-15:00"

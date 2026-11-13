@@ -27,6 +27,9 @@ updated: 2026-11-06
 place:
   address: "Restoran Old Green House, 223 Jalan Burma, George Town, 10050 Penang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Green%20House%20Prawn%20Mee%20Loh%20Mee%2C%20George%20Town%2C%20Penang"
+  googleRating: 4
+  googleReviews: 2213
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Green%20House%20Prawn%20Mee%20Loh%20Mee%2C%20George%20Town%2C%20Penang"
   priceRange: "Budget (MICHELIN $)"
   hours: "화-일 16:00-22:00; 월요일 휴무"

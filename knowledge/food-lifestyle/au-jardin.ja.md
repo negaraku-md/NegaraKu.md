@@ -47,6 +47,9 @@ updated: 2026-11-06
 place:
   address: "The Warehouse @ Hin Bus Depot, 125 Jalan Timah, 10150 George Town, Penang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Au%20Jardin%2C%20George%20Town%2C%20Penang"
+  googleRating: 4.8
+  googleReviews: 753
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Au%20Jardin%2C%20George%20Town%2C%20Penang"
   priceRange: "$$$$ (European fine-dining tasting menu)"
   hours: "木-日 11:30-14:00 & 17:15-22:00；月-水 休業"

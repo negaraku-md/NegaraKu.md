@@ -52,6 +52,9 @@ updated: 2026-11-06
 place:
   address: "6 Lebuh China, George Town, 10200 George Town, Penang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  googleRating: 4.4
+  googleReviews: 1663
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
   priceRange: "$$"
   hours: "毎日 12:00-15:00 および 17:00-22:00"

@@ -52,6 +52,9 @@ updated: 2026-11-06
 place:
   address: "33 Jalan Perdana 4/1, Pandan Perdana, 55300 Kuala Lumpur, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=7%20Chai%20Ipoh%20Hor%20Fun%2C%20Pandan%20Perdana%2C%20Kuala%20Lumpur"
+  googleRating: 4.3
+  googleReviews: 515
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=7%20Chai%20Ipoh%20Hor%20Fun%2C%20Pandan%20Perdana%2C%20Kuala%20Lumpur"
   priceRange: "$ (MICHELIN)"
   hours: "毎日 ~06:30-15:00（一部のレビューは06:30-14:30と記載）；訪問前に確認を"

@@ -27,6 +27,9 @@ updated: 2026-11-06
 place:
   address: "18 & 20 Lebuh Carnarvon, George Town, 10100 Penang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tek+Sen+Restaurant+18+Lebuh+Carnarvon+George+Town+Penang"
+  googleRating: 4.5
+  googleReviews: 4319
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Tek+Sen+Restaurant+18+Lebuh+Carnarvon+George+Town+Penang"
   priceRange: "MICHELIN $$ (roughly MYR 20-40 per person)"
   hours: "Abierto todos los días excepto los martes; almuerzo aprox. 11:30-14:30 y cena aprox. 17:30-20:00. Los horarios varían según la fuente y los platos estrella se agotan pronto, así que llama antes."

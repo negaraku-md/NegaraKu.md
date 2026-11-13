@@ -52,6 +52,9 @@ updated: 2026-11-06
 place:
   address: "2 Lebuh Cannon (Cannon Street), George Town, 10200 Penang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=My+Own+Cafe+George+Town+Penang+asam+laksa"
+  googleRating: 4.7
+  googleReviews: 713
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=My+Own+Cafe+Lebuh+Cannon+George+Town+Penang"
   priceRange: "$ (MICHELIN budget tier)"
   hours: "Lun, Mar, Jue, Vie, Sáb, Dom 10:00-16:00; Mié cerrado (según la Guía MICHELIN)"

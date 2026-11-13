@@ -42,6 +42,9 @@ updated: 2026-11-06
 place:
   address: "44-G, Plaza Damansara, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Gulainya%2C%20Bukit%20Damansara%2C%20Kuala%20Lumpur"
+  googleRating: 4.7
+  googleReviews: 120
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Gulainya%2C%20Bukit%20Damansara%2C%20Kuala%20Lumpur"
   priceRange: "MICHELIN $$"
   hours: "화–일 11:00–15:00 & 17:00–21:30 · 월 휴무"

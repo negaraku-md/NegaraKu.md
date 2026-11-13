@@ -56,6 +56,9 @@ place:
   nativeName: "适苑酒家"
   address: "313, Jalan Pudu, Pudu, 55100 Kuala Lumpur"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  googleRating: 4.4
+  googleReviews: 1413
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
   priceRange: "MICHELIN $$"
   hours: "செவ்–ஞாயி 11:00–14:30 & 17:00–21:30 · திங் மூடல்"

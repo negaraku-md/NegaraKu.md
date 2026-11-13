@@ -48,6 +48,9 @@ place:
   nativeName: "湾岛头叻沙"
   address: "1, Jalan Gottlieb, 10350 George Town, Pulau Pinang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wan+Dao+Tou+Assam+Laksa+Jalan+Gottlieb+George+Town+Penang"
+  googleRating: 4
+  googleReviews: 234
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Wan+Dao+Tou+Assam+Laksa+Jalan+Gottlieb+George+Town+Penang"
   priceRange: "RM6.50–RM7.50 per bowl"
   hours: "อังคาร-อาทิตย์ 11:00-17:00; ปิดวันจันทร์"

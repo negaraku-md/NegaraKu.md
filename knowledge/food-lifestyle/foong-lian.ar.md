@@ -55,6 +55,9 @@ updated: 2026-11-06
 place:
   address: "55 Jalan Yew, Pudu, 55100 Kuala Lumpur, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  googleRating: 4.1
+  googleReviews: 510
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
   priceRange: "Budget (MICHELIN Guide \"$\")"
   hours: "الإثنين، الأربعاء-الأحد 11:30-15:30 و17:30-21:00؛ الثلاثاء مغلق"

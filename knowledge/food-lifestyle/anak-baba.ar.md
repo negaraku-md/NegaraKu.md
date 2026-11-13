@@ -47,6 +47,9 @@ updated: 2026-11-06
 place:
   address: "159 Jalan Sultan Abdul Samad, Brickfields, 50470 Kuala Lumpur, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Anak%20Baba%2C%20Brickfields%2C%20Kuala%20Lumpur"
+  googleRating: 4
+  googleReviews: 870
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Anak%20Baba%2C%20Brickfields%2C%20Kuala%20Lumpur"
   priceRange: "$ (budget)"
   hours: "يوميًا 7:00 AM - 10:00 PM"

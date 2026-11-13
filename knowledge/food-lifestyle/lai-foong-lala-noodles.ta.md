@@ -43,6 +43,9 @@ place:
   nativeName: "丽丰啦啦米"
   address: "99 Jalan Sultan, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lai%20Foong%20Lala%20Noodles%2C%20Kuala%20Lumpur"
+  googleRating: 3.9
+  googleReviews: 2887
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lai%20Foong%20Lala%20Noodles%2C%20Kuala%20Lumpur"
   priceRange: "Budget (RM20-40 per person)"
   hours: "திங் 10:00-22:00; செவ்-ஞாயி 09:00-22:00"

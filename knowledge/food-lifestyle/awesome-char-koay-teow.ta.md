@@ -53,6 +53,9 @@ updated: 2026-11-06
 place:
   address: "New KK99 Cafe, 99 Jalan Lembah Permai, Tanjung Bungah, 11200 George Town, Penang"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Awesome%20Char%20Koay%20Teow%2C%20Tanjung%20Bungah%2C%20Penang"
+  googleRating: 4.8
+  googleReviews: 133
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Awesome%20Char%20Koay%20Teow%2C%20Tanjung%20Bungah%2C%20Penang"
   priceRange: "Budget (MICHELIN $); street food"
   hours: "திங்-சனி 9:00-15:30; ஞாயிறு அடைப்பு"

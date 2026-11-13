@@ -53,6 +53,9 @@ place:
   nativeName: "天皇雞腳粿條湯"
   address: "78 Lebuh Kimberley, 10100 George Town, Pulau Pinang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Super+Star+Koay+Teow+Soup+78+Lebuh+Kimberley+George+Town+Penang"
+  googleRating: 4.2
+  googleReviews: 504
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Super+Star+Koay+Teow+Soup+78+Lebuh+Kimberley+George+Town+Penang"
   priceRange: "$"
   hours: "周一、周二、周四至周日 8:00-22:00；周三休息（据《MICHELIN 指南》；其他来源所报营业时间不一，前往前请先确认）"

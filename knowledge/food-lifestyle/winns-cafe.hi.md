@@ -47,6 +47,9 @@ updated: 2026-11-06
 place:
   address: "38, Jalan Cantonment, 10350 George Town, Pulau Pinang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Winn%27s%20Cafe%2038%20Jalan%20Cantonment%20George%20Town%20Penang"
+  googleRating: 4.4
+  googleReviews: 1211
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Winn%27s%20Cafe%2038%20Jalan%20Cantonment%20George%20Town%20Penang"
   priceRange: "$$"
   hours: "सोम-शनि 11:00-15:00 और 18:00-22:00; रविवार बंद"

@@ -48,6 +48,9 @@ updated: 2026-11-06
 place:
   address: "Pasar Lebuh Cecil (Cecil Street Market), 24 Lebuh Cecil, 10300 George Town, Pulau Pinang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lum+Lai+Duck+Koay+Teow+Thng+Cecil+Street+Market+George+Town+Penang"
+  googleRating: 4.2
+  googleReviews: 452
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lum+Lai+Duck+Koay+Teow+Thng+Cecil+Street+Market+George+Town+Penang"
   priceRange: "$ (budget hawker; under RM15 per bowl)"
   hours: "தினமும் 07:00-17:00 (காலை உணவு மற்றும் மதிய உணவு; விரைவில் விற்றுத் தீர்ந்துவிடுவதாலும் நேரநெருக்கடி வேளைகளில் வரிசை ஏற்படுவதாலும் முன்கூட்டியே வருவது நல்லது)"

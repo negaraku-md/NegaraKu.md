@@ -22,6 +22,9 @@ updated: 2026-11-06
 place:
   address: "5-7 Lebuh Keng Kwee, George Town, 10100 Penang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Penang%20Road%20Famous%20Laksa%2C%205-7%20Lebuh%20Keng%20Kwee%2C%20George%20Town&query_place_id=ChIJPdKG7JbDSjARYg9PFXn5Fj0"
+  googleRating: 4.3
+  googleReviews: 2433
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Penang%20Road%20Famous%20Laksa%2C%205-7%20Lebuh%20Keng%20Kwee%2C%20George%20Town&query_place_id=ChIJPdKG7JbDSjARYg9PFXn5Fj0"
   priceRange: "$"
   hours: "Mon, Tue, Thu-Sun 9:00 AM - 5:30 PM; Wed closed"

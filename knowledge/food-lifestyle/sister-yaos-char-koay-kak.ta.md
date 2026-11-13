@@ -49,6 +49,9 @@ place:
   nativeName: "姚氏姐妹炒粿角"
   address: "96 Lorong Macalister, George Town, 11400 Penang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sister%20Yao%27s%20Char%20Koay%20Kak%2096%20Lorong%20Macalister%20George%20Town%20Penang"
+  googleRating: 4.5
+  googleReviews: 442
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sister%20Yao%27s%20Char%20Koay%20Kak%2096%20Lorong%20Macalister%20George%20Town%20Penang"
   priceRange: "RM4–RM6 per plate"
   hours: "திங்கள், செவ்வாய், வெள்ளி, சனி, ஞாயிறு 07:00-12:00; புதன் & வியாழன் மூடப்பட்டிருக்கும்"

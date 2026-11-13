@@ -52,6 +52,9 @@ updated: 2026-11-06
 place:
   address: "25 Tengkat Tong Shin, Bukit Bintang, 50200 Kuala Lumpur, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sao+Nam+Vietnamese+Cuisine+25+Tengkat+Tong+Shin+Kuala+Lumpur"
+  googleRating: 4.4
+  googleReviews: 920
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://my.openrice.com/en/klangvalley/restaurant/sao-nam-vietnamese-cuisine-bukit-bintang-kuala-lumpur/220044"
   priceRange: "$$"
   hours: "திங்கள்-வெள்ளி 12:00-14:30 & 18:00-22:00; சனி 12:00-14:30 & 18:00-22:30; ஞாயிறு 12:00-14:30 & 18:00-22:00 (MICHELIN Guide படி; பழைய பட்டியல்கள் திங்கட்கிழமைகளில் மூடப்பட்டிருப்பதாகக் குறிப்பிடுகின்றன - உணவகத்துடன் உறுதிப்படுத்தவும்)"

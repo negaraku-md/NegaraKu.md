@@ -54,6 +54,9 @@ updated: 2026-11-06
 place:
   address: "58C Jalan Rangoon, 10400 George Town, Penang"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  googleRating: 4.1
+  googleReviews: 1645
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
   priceRange: "Budget (MICHELIN price band $)"
   hours: "Tue-Sun 08:00-14:30; closed Mon"

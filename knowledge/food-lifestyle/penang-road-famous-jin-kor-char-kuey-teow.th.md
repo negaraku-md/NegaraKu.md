@@ -54,6 +54,9 @@ place:
   nativeName: "槟榔律驰名仁哥炒粿条"
   address: "Joo Hooi Cafe, 475 Jalan Penang, George Town, 10000 Pulau Pinang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Penang+Road+Famous+Jin+Kor+Char+Kuey+Teow+Joo+Hooi+Cafe+475+Jalan+Penang+George+Town"
+  googleRating: 3.7
+  googleReviews: 1228
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/penang-road-famous-jin-kor-char-kuey-teow"
   priceRange: "Budget; around RM9 a plate"
   hours: "ทุกวัน 9:30 AM - 5:00 PM"

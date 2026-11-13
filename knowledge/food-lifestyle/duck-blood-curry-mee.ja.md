@@ -53,6 +53,9 @@ updated: 2026-11-06
 place:
   address: "223B Jalan Burma, George Town, 10050 Penang"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Duck%20Blood%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  googleRating: 4
+  googleReviews: 764
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Duck%20Blood%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
   priceRange: "Budget (MICHELIN $)"
   hours: "月～水・金～日 12:00-22:00；木曜休み"

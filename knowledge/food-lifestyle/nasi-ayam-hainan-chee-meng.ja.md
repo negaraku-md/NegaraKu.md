@@ -52,6 +52,9 @@ updated: 2026-11-06
 place:
   address: "Sub Lot A-1, Batu 4 1/4, Jalan Kelang Lama (Old Klang Road), 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
   mapsUrl: "https://www.google.com/maps/place/@3.095376,101.675213,17z/data=!4m10!3m9!1s0x31cc4a38535b796f:0xa65921dd2c7c06df!5m2!4m1!1i2!8m2!3d3.095376!4d101.675213!9m1!1b1"
+  googleRating: 4.2
+  googleReviews: 1349
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/place/@3.095376,101.675213,17z/data=!4m10!3m9!1s0x31cc4a38535b796f:0xa65921dd2c7c06df!5m2!4m1!1i2!8m2!3d3.095376!4d101.675213!9m1!1b1"
   priceRange: "Budget (Michelin $; Hainanese chicken rice around RM7-RM7.50 per portion)"
   hours: "毎日 10:00〜19:00（MICHELIN による。一部の情報サイトでは 11:00〜22:00 と掲載されているため、直接ご確認ください）"

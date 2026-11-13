@@ -48,6 +48,9 @@ updated: 2026-11-06
 place:
   address: "Next to the entrance of Cathay Food Court, Jalan Aston, Bukit Mertajam, 14000 Seberang Perai, Penang"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cathay%20Pancake%2C%20Bukit%20Mertajam%2C%20Penang"
+  googleRating: 4.2
+  googleReviews: 138
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Cathay%20Pancake%2C%20Bukit%20Mertajam%2C%20Penang"
   priceRange: "Under RM5 per piece (around RM1.20-1.50 each)"
   hours: "월~수 및 토~일 12:00-17:00; 목~금 휴무 (MICHELIN 기준; 일부 현지 자료는 영업일이 약간 다르게 표시되므로 방문 전 확인 요망)"

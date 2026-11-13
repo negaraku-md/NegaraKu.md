@@ -42,6 +42,9 @@ updated: 2026-11-06
 place:
   address: "44 Persiaran Zaaba, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=DC%20by%20Darren%20Chin%2C%20Kuala%20Lumpur"
+  googleRating: 4.8
+  googleReviews: 2247
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=DC%20by%20Darren%20Chin%2C%20Kuala%20Lumpur"
   priceRange: "$$$$ (MICHELIN); degustation menus RM548-RM1,198++ (8-course Exploration Journey RM1,198++), lunch from RM428++, Cellar omakase RM1,400++"
   hours: "Thứ Tư-Chủ Nhật bữa tối 18:00-23:00 (nhận gọi món cuối 21:30); Thứ Sáu-Thứ Bảy bữa trưa 12:00-15:00 (nhận gọi món cuối 14:30); đóng cửa Thứ Hai-Thứ Ba"

@@ -53,6 +53,9 @@ place:
   nativeName: "新九如新记牛肉粉"
   address: "7A, Jalan Tun Tan Cheng Lock, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sin+Kiew+Yee+Shin+Kee+Beef+Noodles+Jalan+Tun+Tan+Cheng+Lock+Kuala+Lumpur"
+  googleRating: 4.4
+  googleReviews: 208
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sin+Kiew+Yee+Shin+Kee+Beef+Noodles+Jalan+Tun+Tan+Cheng+Lock+Kuala+Lumpur"
   priceRange: "RM12–14 per bowl (small RM12 / large RM14); about RM12–20 per person"
   hours: "सोम, मंगल, गुरु-रवि 10:30-16:30; बुध बंद"

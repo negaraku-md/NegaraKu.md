@@ -48,6 +48,9 @@ updated: 2026-11-06
 place:
   address: "533 Lebuh Pantai, 10300 George Town, Penang"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bridge%20Street%20Prawn%20Noodle%2C%20George%20Town%2C%20Penang"
+  googleRating: 4.2
+  googleReviews: 941
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Bridge%20Street%20Prawn%20Noodle%2C%20George%20Town%2C%20Penang"
   priceRange: "Budget (MICHELIN $); street-food stall, roughly under RM15 a bowl"
   hours: "Mar, Jue, Vie 07:00-14:30; Sáb 07:00-12:00; Dom 07:00-13:00; cerrado Lun & Mié (según MICHELIN); también cerrado el 1 y el 15 de cada mes lunar"

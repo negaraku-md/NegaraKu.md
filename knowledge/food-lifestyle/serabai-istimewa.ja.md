@@ -20,6 +20,9 @@ updated: 2026-11-06
 place:
   address: "18 Astaka Taman Tun Sardon, 25 Pintasan Pemancar 5, George Town, 11700 Pulau Pinang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  googleRating: 4.2
+  googleReviews: 39
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
   priceRange: "$"
   hours: "水～日 午前6:30～午前10:00、月・火は休業。セラバイ（serabai）は午前10時前に売り切れることが多いため、早めの来店を。"

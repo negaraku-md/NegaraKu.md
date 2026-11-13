@@ -55,6 +55,9 @@ updated: 2026-11-06
 place:
   address: "82 Jalan Siam, George Town, 10400 Pulau Pinang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Siam+Road+Char+Koay+Teow+82+Jalan+Siam+George+Town"
+  googleRating: 4.1
+  googleReviews: 2438
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Siam+Road+Char+Koay+Teow+82+Jalan+Siam+George+Town"
   priceRange: "$ (approx RM 6-10 per plate)"
   hours: "Tue-Sat 12:00-18:00; closed Sun & Mon; often closes earlier once sold out"

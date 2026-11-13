@@ -55,6 +55,9 @@ updated: 2026-11-06
 place:
   address: "100-104 Jalan Kedah, George Town, 10050 Penang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ivy%27s%20Nyonya%20Cuisine%2C%20George%20Town%2C%20Penang"
+  googleRating: 4.7
+  googleReviews: 4128
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ivy%27s%20Nyonya%20Cuisine%2C%20George%20Town%2C%20Penang"
   priceRange: "$$ (MICHELIN Bib Gourmand); sharing set menus around RM175 for 4 people"
   hours: "lun cerrado; mar 18:00-21:00; mié-dom 12:00-15:00, 18:00-21:00"

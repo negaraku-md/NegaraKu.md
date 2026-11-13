@@ -47,6 +47,9 @@ updated: 2026-11-06
 place:
   address: "L2-03, TSLAW Tower, 39 Jalan Kamuning, Imbi, 55100 Kuala Lumpur"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Chim%20by%20Chef%20Noom%2C%20Kuala%20Lumpur"
+  googleRating: 4.8
+  googleReviews: 241
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Chim%20by%20Chef%20Noom%2C%20Kuala%20Lumpur"
   priceRange: "$$$$ (MICHELIN); around USD 150 per person per third-party listing (unofficial)"
   hours: "Sel-Ahd 5:30 PM-11 PM; tutup Isn"

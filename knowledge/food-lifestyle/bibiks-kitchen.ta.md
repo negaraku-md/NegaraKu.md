@@ -47,6 +47,9 @@ updated: 2026-11-06
 place:
   address: "73 Jalan Sri Bahari, George Town, 10050, Penang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bibik%27s%20Kitchen%2C%20George%20Town%2C%20Penang"
+  googleRating: 4.3
+  googleReviews: 997
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Bibik%27s%20Kitchen%2C%20George%20Town%2C%20Penang"
   priceRange: "$$ (moderate; MICHELIN gives no MYR amount)"
   hours: "செவ்-ஞாயி 11:30-15:00 மற்றும் 18:00-21:00; திங்கள் மூடப்பட்டிருக்கும்"

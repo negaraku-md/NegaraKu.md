@@ -42,6 +42,9 @@ updated: 2026-11-06
 place:
   address: "Lot 3 & 4, Ground Floor, Cormar Suites, 10 Jalan Perak, 50450 Kuala Lumpur, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Beta%20KL%2C%20Kuala%20Lumpur"
+  googleRating: 4.7
+  googleReviews: 1411
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Beta%20KL%2C%20Kuala%20Lumpur"
   priceRange: "$$$"
   hours: "เฉพาะมื้อค่ำ อังคาร-อาทิตย์ ตั้งแต่ 18:00 (MICHELIN ระบุ 18:00-23:00); จันทร์ปิด"

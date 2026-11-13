@@ -47,6 +47,9 @@ updated: 2026-11-06
 place:
   address: "Jalan Bukit Kecil, Taman Bukit, Bukit Mertajam, Seberang Perai, 14000, Penang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Taman+Bukit+Curry+Mee+Bukit+Mertajam"
+  googleRating: 4.3
+  googleReviews: 230
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"
   priceRange: "About RM6.50 a bowl; under RM20 per person"
   hours: "செவ்வாய்-ஞாயிறு 6:00 AM-9:00 AM; திங்கள் மூடப்பட்டிருக்கும் (MICHELIN படி; சில பட்டியல்கள் ~11 AM வரை விற்பதாகக் குறிப்பிடுகின்றன)"

@@ -42,6 +42,9 @@ updated: 2026-11-06
 place:
   address: "Level 51, THE FACE Style, 1020 Jalan Sultan Ismail, Kampung Baru, 50250 Kuala Lumpur, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Molina+restaurant+Kuala+Lumpur"
+  googleRating: 4.5
+  googleReviews: 102
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/molina"
   priceRange: "From RM 688 per person for the five-course tasting menu (menus run 5-9 courses); wine pairing extra"
   hours: "火〜金 18:00-00:00；土 12:00-13:30 および 18:00-00:00；日・月 定休"

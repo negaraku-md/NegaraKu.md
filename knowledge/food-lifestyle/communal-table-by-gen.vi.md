@@ -55,6 +55,9 @@ updated: 2026-11-06
 place:
   address: "68 Lebuh Presgrave, 10300 George Town, Penang"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Communal%20Table%20by%20Gen%2C%20George%20Town%2C%20Penang"
+  googleRating: 4.3
+  googleReviews: 569
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Communal%20Table%20by%20Gen%2C%20George%20Town%2C%20Penang"
   priceRange: "$$"
   hours: "Thứ 2, Thứ 3, Thứ 5, Thứ 6 17:00-23:00; Thứ 7-CN 12:00-15:00 & 18:00-23:00; Thứ 4 đóng cửa"

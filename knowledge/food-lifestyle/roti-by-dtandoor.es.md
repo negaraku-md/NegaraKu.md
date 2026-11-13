@@ -52,6 +52,9 @@ updated: 2026-11-06
 place:
   address: "82, Jalan Damai, Off Jalan Ampang, Kampung Datuk Keramat, 55000 Kuala Lumpur"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Roti%20by%20d%27Tandoor%2C%20Kuala%20Lumpur"
+  googleRating: 4.6
+  googleReviews: 994
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Roti%20by%20d%27Tandoor%2C%20Kuala%20Lumpur"
   priceRange: "MICHELIN $$"
   hours: "Lun–Jue 11:00–15:00 & 18:00–22:30 · Vie–Dom 11:00–22:30"

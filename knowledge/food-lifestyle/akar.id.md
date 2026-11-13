@@ -42,6 +42,9 @@ updated: 2026-11-06
 place:
   address: "109 Jalan Aminuddin Baki, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Akar%20Dining%2C%20Kuala%20Lumpur"
+  googleRating: 4.8
+  googleReviews: 1189
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Akar%20Dining%2C%20Kuala%20Lumpur"
   priceRange: "$$$"
   hours: "Sel-Kam 18:00-00:00; Jum-Sab 12:00-15:00 & 18:00-00:00; Min-Sen tutup"

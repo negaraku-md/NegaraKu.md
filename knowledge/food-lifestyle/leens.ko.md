@@ -55,6 +55,9 @@ updated: 2026-11-06
 place:
   address: "1F, 136A Jalan Burhanuddin Helmi, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+Jalan+Burhanuddin+Helmi+TTDI+Kuala+Lumpur"
+  googleRating: 4.6
+  googleReviews: 558
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+TTDI+Kuala+Lumpur"
   priceRange: "$$ (mains ~RM48-58, appetisers ~RM28-35)"
   hours: "월-금 18:00-22:00; 토-일 12:00-15:00 & 18:00-22:00"

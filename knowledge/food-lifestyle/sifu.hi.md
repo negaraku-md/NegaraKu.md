@@ -22,6 +22,9 @@ updated: 2026-11-06
 place:
   address: "154 Jalan Pintal Tali (Rope Walk), 10100 George Town, Penang, Malaysia"
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sifu+Nyonya+Cuisine+154+Jalan+Pintal+Tali+George+Town+Penang"
+  googleRating: 4.3
+  googleReviews: 410
+  ratingAsOf: "2026-11"
   reviewsUrl: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sifu"
   priceRange: "$$"
   hours: "सोमवार, मंगलवार, गुरुवार, शुक्रवार 11:30-15:00 और 18:00-21:45; शनिवार-रविवार 11:30-21:45; बुधवार बंद (MICHELIN Guide के अनुसार; अन्य सूचियाँ भिन्न हैं, फ़ोन पर पुष्टि करें)"
