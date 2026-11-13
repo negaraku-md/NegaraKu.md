@@ -50,6 +50,16 @@ interface Props {
       category differs is an `alsoIn` cross-listed GUEST, flagged with a pill so
       readers see it's homed elsewhere (see content.config alsoIn). */
   homeCat?: string;
+  /** Extra filter facets (e.g. a MICHELIN collection's Award / State / Price /
+      Edition) rendered as selects and applied client-side. Each row must carry the
+      facet's `key` — provide it via `enrich`. */
+  facets?: { key: string; label: string; options: { value: string; label: string }[] }[];
+  /** Per-article extra fields merged into each row (facet values + an optional
+      `badge` string shown on the card image). Runs server-side during row build. */
+  enrich?: (a: Article) => Record<string, string | number>;
+  /** 'grid' renders image-top cards in a responsive 3-column grid; default 'list'
+      keeps the editorial row-cards. */
+  layout?: 'list' | 'grid';
 }
 const {
   locale,
@@ -60,6 +70,9 @@ const {
   fixedOrder = false,
   showRank = false,
   homeCat,
+  facets = [],
+  enrich,
+  layout = 'list',
 } = Astro.props;
 const has = (f: FilterKey) => filters.includes(f);
 const dateLocale = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale;
@@ -117,6 +130,8 @@ const rows = articles.map((a, i) => {
     // Cross-listed guest: primary category differs from the list's home category
     // (only set when `homeCat` is passed, i.e. category/topic-scoped lists).
     guest: homeCat ? d.category !== homeCat : false,
+    // Extra facet values + optional card badge (MICHELIN etc.). Empty by default.
+    ...(enrich ? enrich(a) : {}),
   };
 });
 
@@ -153,7 +168,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     </button>
     <div class="tb-adv">
     {
-      (secs.length > 1 || cats.length > 1 || tops.length > 1 || presentStatuses.length > 1) && (
+      (secs.length > 1 || cats.length > 1 || tops.length > 1 || presentStatuses.length > 1 || facets.length > 0) && (
         <div class="tb-line">
           <span class="tb-label">{L('Tapis', 'Filter', '筛选', 'வடிகட்டு', 'フィルター', '필터', 'กรอง', 'Lọc', 'Filter', 'التصفية', 'फ़िल्टर', 'Filtrar', 'Filtrer')}</span>
           <div class="controls">
@@ -183,6 +198,12 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
                 ))}
               </select>
             )}
+            {facets.map((f) => (
+              <select class="f-x" data-xkey={f.key}>
+                <option value="">{f.label}</option>
+                {f.options.map((o) => <option value={o.value}>{o.label}</option>)}
+              </select>
+            ))}
             <button id="f-reset" type="button" hidden>{L('Set semula', 'Reset', '重置', 'மீட்டமை', 'リセット', '초기화', 'รีเซ็ต', 'Đặt lại', 'Atur ulang', 'إعادة تعيين', 'रीसेट करें', 'Restablecer', 'Réinitialiser')}</button>
           </div>
         </div>
@@ -276,7 +297,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     primarilyIn: L('Utamanya dalam', 'Primarily in', '主要归于', 'முதன்மையாக', '主に', '주로', 'หลักอยู่ใน', 'Chủ yếu ở', 'Terutama di', 'بشكل أساسي في', 'मुख्यतः', 'Principalmente en', 'Principalement dans'),
   })}
 ></script>
-<script type="application/json" id="articles-config" set:html={JSON.stringify({ groupByDate, dateLocale, fixedOrder, showRank })}></script>
+<script type="application/json" id="articles-config" set:html={JSON.stringify({ groupByDate, dateLocale, fixedOrder, showRank, layout, facetKeys: facets.map((f) => f.key) })}></script>
 <script type="application/json" id="articles-dict" set:html={JSON.stringify({ sec: secById, cat: catById, top: topById })}></script>
 
 <script>
@@ -294,7 +315,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   const $$ = (cls) => Array.from(document.querySelectorAll('.' + cls));
   const onAll = (cls, ev, fn) => $$(cls).forEach((el) => el.addEventListener(ev, fn));
 
-  const state = { sort: 'upd', dir: 'desc', q: '', sec: '', cat: '', top: '', st: '', page: 1, size: 25 };
+  const state = { sort: 'upd', dir: 'desc', q: '', sec: '', cat: '', top: '', st: '', page: 1, size: 25, x: {} };
 
   const cmp = (a, b) => {
     const k = state.sort;
@@ -307,13 +328,15 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     return state.dir === 'asc' ? r : -r;
   };
 
+  const XK = CFG.facetKeys || [];
   function filtered() {
     return rows.filter((r) =>
       (!state.q || r.t.toLowerCase().includes(state.q)) &&
       (!state.sec || r.secId === state.sec) &&
       (!state.cat || r.catId === state.cat) &&
       (!state.top || r.topId === state.top) &&
-      (!state.st || r.st === state.st),
+      (!state.st || r.st === state.st) &&
+      XK.every((k) => !state.x[k] || String(r[k]) === state.x[k]),
     );
   }
 
@@ -369,6 +392,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
       <article class="rcard">
         <a class="rc-thumb" href="${href(r.p)}" tabindex="-1" aria-hidden="true">
           <img class="rc-img" src="${esc(img)}" alt="" loading="lazy" decoding="async" />
+          ${r.badge ? `<span class="rc-badge">${esc(r.badge)}</span>` : ''}
         </a>
         <div class="rc-body">
           <div class="rc-top">${tagsHtml(r)}${guestHtml(r)}${statusHtml(r)}</div>
@@ -389,6 +413,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     const slice = data.slice(start, start + state.size);
 
     const body = $('alist-body');
+    if (CFG.layout === 'grid') body.classList.add('grid');
     if (!slice.length) {
       body.innerHTML = `<p class="empty">${I18N.empty}</p>`;
     } else if (CFG.groupByDate) {
@@ -429,7 +454,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     // "1–22 of 22 · Page 1/1" with dead arrows is pure control noise.
     document.querySelectorAll('.pager').forEach((p) => p.classList.toggle('pg-hidden', pages <= 1));
     const reset = $('f-reset');
-    if (reset) reset.hidden = !(state.sec || state.cat || state.top || state.st || state.q);
+    if (reset) reset.hidden = !(state.sec || state.cat || state.top || state.st || state.q || Object.values(state.x).some(Boolean));
   }
 
   function go(page) { state.page = page; render(); }
@@ -489,12 +514,16 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   on('f-cat', 'change', (e) => { state.cat = e.target.value; state.page = 1; syncFilters(); render(); });
   on('f-top', 'change', (e) => { state.top = e.target.value; state.page = 1; render(); });
   on('f-status', 'change', (e) => { state.st = e.target.value; state.page = 1; render(); });
+  // Extra facets (Award / State / Price / Edition …).
+  onAll('f-x', 'change', (e) => { state.x[e.target.dataset.xkey] = e.target.value; state.page = 1; render(); });
   on('f-reset', 'click', () => {
     state.sec = state.cat = state.top = state.st = state.q = '';
+    state.x = {};
     state.sort = 'upd'; state.dir = 'desc'; state.page = 1;
     const secEl = $('f-sec'); if (secEl) secEl.value = '';
     const stEl = $('f-status'); if (stEl) stEl.value = '';
     const qEl = $('f-q'); if (qEl) qEl.value = '';
+    $$('f-x').forEach((el) => (el.value = ''));
     document.querySelectorAll('.tab').forEach((x) => x.classList.remove('on'));
     const def = document.querySelector('.tab[data-sort="upd"]'); if (def) def.classList.add('on');
     syncFilters();
@@ -625,6 +654,19 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   }
   .acards :global(.rc-thumb .rc-img) { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
   .acards :global(.rc-thumb.noimg .rc-img) { display: none; }
+
+  /* Grid / card layout (layout="grid"): image-top cards in a responsive 3-column
+     grid. Reuses the row-card markup; only the geometry changes. */
+  .acards.grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.1rem; }
+  @media (max-width: 760px) { .acards.grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 480px) { .acards.grid { grid-template-columns: 1fr; } }
+  .acards.grid :global(.rcard) { flex-direction: column; gap: 0; padding: 0; border-inline-start: 1px solid var(--line); border-top: 3px solid color-mix(in srgb, var(--gold) 55%, var(--line)); overflow: hidden; }
+  .acards.grid :global(.rcard:hover) { border-inline-start-color: color-mix(in srgb, var(--gold) 50%, var(--line)); border-top-color: var(--gold); transform: translateY(-2px); }
+  .acards.grid :global(.rc-thumb) { flex: none; width: 100%; aspect-ratio: 16 / 9; border-radius: 0; border: none; }
+  .acards.grid :global(.rc-body) { padding: 0.8rem 1rem 1rem; gap: 0.4rem; }
+  .acards.grid :global(.rc-title) { font-size: 1.02rem; }
+  /* Distinction badge over the image (MICHELIN etc.) — only when a row has `badge`. */
+  .acards :global(.rc-badge) { position: absolute; inset-block-start: 0.5rem; inset-inline-start: 0.5rem; z-index: 1; font-size: 0.68rem; font-weight: 800; letter-spacing: 0.01em; padding: 0.22rem 0.5rem; border-radius: 6px; background: rgba(8, 8, 12, 0.82); color: #ffd24a; border: 1px solid rgba(255, 255, 255, 0.14); backdrop-filter: blur(3px); }
 
   .acards :global(.rc-body) { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 0.38rem; }
   .acards :global(.rc-top) { display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap; }

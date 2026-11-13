@@ -5,127 +5,103 @@ import { localePath } from '@/lib/i18n';
 import { articlesForLocale } from '@/lib/content';
 import { STATES } from '@/lib/holidays/data';
 import PageHero from './PageHero.astro';
+import ArticleList from './ArticleList.astro';
 import michelin from '@/data/collections/michelin.json';
 
-// MICHELIN Guide Malaysia — the collection hub. A single, filterable place to see
-// every MICHELIN-listed restaurant we cover (the user's ask: "a place to know all
-// MICHELIN"). The award DISTINCTION is read as data from
-// src/data/collections/michelin.json (built by scripts/build-michelin-collection.mjs);
-// the localised title / hero / place facts are resolved per-locale from each
-// restaurant's own article. Filtering is client-side (no framework).
+// MICHELIN Guide Malaysia — the collection hub, built ON the shared article-list
+// department template (ArticleList) with collection-specific facets (Award / State
+// / Price / Edition) and a card (grid) layout. The restaurants ARE articles, so we
+// pass the 70 restaurant articles to ArticleList and enrich each row with its
+// MICHELIN facts from src/data/collections/michelin.json.
 
-interface Props {
-  locale: Locale;
-}
+interface Props { locale: Locale; }
 const { locale } = Astro.props;
 // prettier-ignore
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? en) : locale === 'es' ? (es ?? en) : locale === 'hi' ? (hi ?? en) : locale === 'ar' ? (ar ?? en) : locale === 'id' ? (id ?? en) : locale === 'vi' ? (vi ?? en) : locale === 'th' ? (th ?? en) : locale === 'ko' ? (ko ?? en) : locale === 'ja' ? (ja ?? en) : locale === 'ta' ? (ta ?? en) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 type Dist = 'three-star' | 'two-star' | 'star' | 'bib-gourmand' | 'selected';
 interface Row { slug: string; distinction: Dist; greenStar: boolean; price: string | null; state: string | null; city: string | null; year: number; }
-const rows = (michelin.restaurants as Row[]);
+const rows = michelin.restaurants as Row[];
 
-// Distinction → display group (how diners actually think) + localised label + icon.
 const GROUP = (d: Dist): 'stars' | 'bib' | 'selected' => (d === 'bib-gourmand' ? 'bib' : d === 'selected' ? 'selected' : 'stars');
-// Distinction rank for the default "Award" sort (stars first → selected last).
-const DRANK: Record<Dist, number> = { 'three-star': 0, 'two-star': 1, star: 2, 'bib-gourmand': 3, selected: 4 };
-const starWord = L('Bintang MICHELIN', 'MICHELIN Star', '米其林星', 'MICHELIN நட்சத்திரம்', 'ミシュランの星', '미쉐린 스타', 'ดาวมิชลิน', 'Sao MICHELIN', 'Bintang MICHELIN', 'نجمة ميشلان', 'मिशेलिन स्टार', 'Estrella MICHELIN', 'Étoile MICHELIN');
-const starsWord = L('Bintang MICHELIN', 'MICHELIN Stars', '米其林星', 'MICHELIN நட்சத்திரங்கள்', 'ミシュランの星', '미쉐린 스타', 'ดาวมิชลิน', 'Sao MICHELIN', 'Bintang MICHELIN', 'نجوم ميشلان', 'मिशेलिन स्टार', 'Estrellas MICHELIN', 'Étoiles MICHELIN');
-function distLabel(d: Dist): string {
-  if (d === 'three-star') return `★★★ ${starsWord}`;
-  if (d === 'two-star') return `★★ ${starsWord}`;
-  if (d === 'star') return `★ ${starWord}`;
+const lblSelected = L('Terpilih', 'Selected', '推荐', 'தேர்ந்தெடுக்கப்பட்டது', 'セレクテッド', '셀렉티드', 'คัดสรร', 'Selected', 'Terpilih', 'مختارات', 'चयनित', 'Seleccionado', 'Sélectionné');
+function badgeLabel(d: Dist): string {
+  if (d === 'three-star') return '★★★ MICHELIN';
+  if (d === 'two-star') return '★★ MICHELIN';
+  if (d === 'star') return '★ MICHELIN';
   if (d === 'bib-gourmand') return 'Bib Gourmand';
-  return L('MICHELIN Terpilih', 'MICHELIN Selected', '米其林推荐', 'MICHELIN தேர்ந்தெடுக்கப்பட்டது', 'ミシュラン セレクテッド', '미쉐린 셀렉티드', 'มิชลิน ซีเลกเต็ด', 'MICHELIN Selected', 'MICHELIN Terpilih', 'مختارات ميشلان', 'मिशेलिन चयनित', 'MICHELIN Selected', 'MICHELIN Sélectionné');
+  return lblSelected;
 }
-const greenStarLabel = L('Bintang Hijau MICHELIN', 'MICHELIN Green Star', '米其林绿星', 'MICHELIN பசுமை நட்சத்திரம்', 'ミシュラン グリーンスター', '미쉐린 그린 스타', 'ดาวเขียวมิชลิน', 'Sao Xanh MICHELIN', 'Bintang Hijau MICHELIN', 'نجمة ميشلان الخضراء', 'मिशेलिन ग्रीन स्टार', 'Estrella Verde MICHELIN', 'Étoile Verte MICHELIN');
-
 const stateName = (id: string | null): string => {
   if (!id) return '';
   const s = STATES.find((x) => x.id === id);
-  if (!s) return id;
-  return (s.name as Record<string, string>)[locale] ?? s.name.en;
+  return s ? ((s.name as Record<string, string>)[locale] ?? s.name.en) : id;
 };
 
-// Resolve each restaurant to its localised article (title, hero, place facts).
-// Scan the locale's articles ONCE into a slug→article map — never call a
-// per-article lookup in a loop (that re-scans the whole corpus each time and
-// OOMs the dev server; see content.ts build-perf note).
+// Resolve the restaurant articles (one scan) in MICHELIN rank order.
 const bySlug = new Map(
-  (await articlesForLocale(locale))
-    .filter((a) => a.data.category === 'food-lifestyle')
-    .map((a) => [a.data.slug, a]),
+  (await articlesForLocale(locale)).filter((a) => a.data.category === 'food-lifestyle').map((a) => [a.data.slug, a]),
 );
-const cards = rows
-  .map((r) => {
-    const art = bySlug.get(r.slug);
-    if (!art) return null;
-    return {
-      ...r,
-      group: GROUP(r.distinction),
-      href: localePath(`/food-lifestyle/${r.slug}`, locale),
-      title: art.data.title,
-      hero: art.data.hero ?? null,
-      heroAlt: art.data.heroAlt ?? art.data.title,
-      mustOrder: art.data.place?.mustOrder ?? null,
-      rating: art.data.place?.googleRating ?? null,
-      reviews: art.data.place?.googleReviews ?? null,
-      halal: art.data.place?.halal ?? null,
-      distLabel: distLabel(r.distinction),
-    };
-  })
-  .filter((c): c is NonNullable<typeof c> => Boolean(c));
+const mBySlug = Object.fromEntries(rows.map((r) => [r.slug, r]));
+const restaurants = rows.map((r) => bySlug.get(r.slug)).filter((a): a is NonNullable<typeof a> => Boolean(a));
 
-const starred = cards.filter((c) => c.group === 'stars').length;
-const bibs = cards.filter((c) => c.group === 'bib').length;
+const starred = rows.filter((r) => GROUP(r.distinction) === 'stars').length;
+const bibs = rows.filter((r) => GROUP(r.distinction) === 'bib').length;
 
-// Facets present in the data (so chips never show an empty filter).
-const states = [...new Set(cards.map((c) => c.state).filter(Boolean))] as string[];
-const prices = [...new Set(cards.map((c) => c.price).filter(Boolean))].sort((a, b) => (a as string).length - (b as string).length) as string[];
-const years = [...new Set(cards.map((c) => c.year).filter(Boolean))].sort((a, b) => b - a);
-
-const home = L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'होम', 'Inicio', 'Accueil');
-// The hub is a collection UNDER Food & Lifestyle — breadcrumb through its pillar + category.
-const livingPillar = getPillarDef('living');
-const flCat = getCategory('food-lifestyle');
-const title = L('Panduan MICHELIN', 'MICHELIN Guide', '米其林指南', 'MICHELIN வழிகாட்டி', 'ミシュランガイド', '미쉐린 가이드', 'มิชลินไกด์', 'Cẩm nang MICHELIN', 'Panduan MICHELIN', 'دليل ميشلان', 'मिशेलिन गाइड', 'Guía MICHELIN', 'Guide MICHELIN');
-const lede = L(
-  'Setiap restoran Malaysia yang kami liputi dalam pilihan Panduan MICHELIN — bintang, Bib Gourmand dan terpilih — di Kuala Lumpur, Pulau Pinang dan seterusnya. Tapis mengikut anugerah, negeri dan harga.',
-  'Every Malaysian restaurant we cover in the MICHELIN Guide selection — Stars, Bib Gourmand and Selected — across Kuala Lumpur, Penang and beyond. Filter by award, state and price.',
-  '我们收录的所有马来西亚米其林指南餐厅——星级、必比登和入选——涵盖吉隆坡、槟城及其他地区。可按奖项、州属和价格筛选。',
-  'MICHELIN வழிகாட்டித் தேர்வில் நாங்கள் உள்ளடக்கிய ஒவ்வொரு மலேசிய உணவகமும் — நட்சத்திரம், Bib Gourmand, தேர்ந்தெடுக்கப்பட்டவை — கோலாலம்பூர், பினாங்கு மற்றும் பிற. விருது, மாநிலம், விலை வாரியாக வடிகட்டவும்.',
-  'クアラルンプール、ペナンなど、ミシュランガイドの選定に入る当サイト掲載のマレーシア料理店すべて（星、ビブグルマン、セレクテッド）。受賞・州・価格で絞り込めます。',
-  '쿠알라룸푸르, 페낭 등에서 미쉐린 가이드에 선정된, 우리가 다루는 모든 말레이시아 레스토랑(스타·빕 구르망·셀렉티드). 상·주·가격으로 필터링하세요.',
-  'ร้านอาหารมาเลเซียทุกแห่งที่เรารวบรวมไว้ในการคัดเลือกของมิชลินไกด์ — ดาว, บิบ กูร์มองด์ และคัดสรร — ทั่วกัวลาลัมเปอร์ ปีนัง และอื่น ๆ กรองตามรางวัล รัฐ และราคา',
-  'Mọi nhà hàng Malaysia chúng tôi giới thiệu trong tuyển chọn Cẩm nang MICHELIN — Sao, Bib Gourmand và Selected — khắp Kuala Lumpur, Penang và hơn thế. Lọc theo giải thưởng, bang và giá.',
-  'Setiap restoran Malaysia yang kami bahas dalam pilihan Panduan MICHELIN — Bintang, Bib Gourmand, dan Terpilih — di Kuala Lumpur, Penang, dan sekitarnya. Saring menurut penghargaan, negara bagian, dan harga.',
-  'كل مطعم ماليزي نغطيه ضمن اختيار دليل ميشلان — النجوم وبيب غورماند والمختارات — في كوالالمبور وبينانغ وغيرها. صفِّ حسب الجائزة والولاية والسعر.',
-  'मिशेलिन गाइड चयन में हमारे द्वारा कवर किया गया हर मलेशियाई रेस्तरां — स्टार, बिब गोरमंड और चयनित — कुआलालंपुर, पेनांग और उससे आगे। पुरस्कार, राज्य और कीमत के अनुसार छाँटें।',
-  'Cada restaurante malayo que cubrimos en la selección de la Guía MICHELIN — Estrellas, Bib Gourmand y Seleccionados — en Kuala Lumpur, Penang y más. Filtra por distinción, estado y precio.',
-  'Chaque restaurant malaisien que nous couvrons dans la sélection du Guide MICHELIN — Étoiles, Bib Gourmand et Sélectionnés — à Kuala Lumpur, Penang et au-delà. Filtrez par distinction, état et prix.',
-);
-
-const lblAll = L('Semua', 'All', '全部', 'அனைத்தும்', 'すべて', '전체', 'ทั้งหมด', 'Tất cả', 'Semua', 'الكل', 'सभी', 'Todos', 'Tous');
+// Labels.
 const lblAward = L('Anugerah', 'Award', '奖项', 'விருது', '受賞', '상', 'รางวัล', 'Giải thưởng', 'Penghargaan', 'الجائزة', 'पुरस्कार', 'Distinción', 'Distinction');
 const lblState = L('Negeri', 'State', '州属', 'மாநிலம்', '州', '주', 'รัฐ', 'Bang', 'Negara bagian', 'الولاية', 'राज्य', 'Estado', 'État');
 const lblPrice = L('Harga', 'Price', '价格', 'விலை', '価格', '가격', 'ราคา', 'Giá', 'Harga', 'السعر', 'कीमत', 'Precio', 'Prix');
 const lblYear = L('Edisi', 'Edition', '版本', 'பதிப்பு', '版', '에디션', 'ฉบับ', 'Phiên bản', 'Edisi', 'الإصدار', 'संस्करण', 'Edición', 'Édition');
-const lblSort = L('Isih', 'Sort', '排序', 'வரிசை', '並び替え', '정렬', 'จัดเรียง', 'Sắp xếp', 'Urutkan', 'الترتيب', 'क्रमबद्ध करें', 'Ordenar', 'Trier');
-const lblRating = L('Penilaian', 'Rating', '评分', 'மதிப்பீடு', '評価', '평점', 'คะแนน', 'Đánh giá', 'Penilaian', 'التقييم', 'रेटिंग', 'Valoración', 'Note');
-const lblRows = L('Baris', 'Rows', '每页', 'வரிசைகள்', '行', '행', 'แถว', 'Hàng', 'Baris', 'الصفوف', 'पंक्तियाँ', 'Filas', 'Lignes');
-const lblPage = L('Halaman', 'Page', '第', 'பக்கம்', 'ページ', '페이지', 'หน้า', 'Trang', 'Halaman', 'الصفحة', 'पृष्ठ', 'Página', 'Page');
-const lblFirst = L('Pertama', 'First', '首页', 'முதல்', '最初', '처음', 'หน้าแรก', 'Đầu', 'Pertama', 'الأول', 'पहला', 'Primera', 'Première');
-const lblPrev = L('Sebelum', 'Prev', '上一页', 'முந்தைய', '前へ', '이전', 'ก่อนหน้า', 'Trước', 'Sebelumnya', 'السابق', 'पिछला', 'Anterior', 'Précédente');
-const lblNext = L('Seterusnya', 'Next', '下一页', 'அடுத்து', '次へ', '다음', 'ถัดไป', 'Tiếp', 'Berikutnya', 'التالي', 'अगला', 'Siguiente', 'Suivante');
-const lblLast = L('Akhir', 'Last', '末页', 'கடைசி', '最後', '마지막', 'หน้าสุดท้าย', 'Cuối', 'Terakhir', 'الأخير', 'अंतिम', 'Última', 'Dernière');
-const lblStars = L('Berbintang', 'Stars', '星级', 'நட்சத்திரம்', '星', '스타', 'ดาว', 'Sao', 'Bintang', 'النجوم', 'स्टार', 'Estrellas', 'Étoiles');
-const lblSelected = L('Terpilih', 'Selected', '入选', 'தேர்ந்தெடுக்கப்பட்டவை', 'セレクテッド', '셀렉티드', 'คัดสรร', 'Selected', 'Terpilih', 'المختارات', 'चयनित', 'Seleccionados', 'Sélectionnés');
-const lblSearch = L('Cari restoran…', 'Search restaurants…', '搜索餐厅…', 'உணவகங்களைத் தேடு…', 'レストランを検索…', '레스토랑 검색…', 'ค้นหาร้าน…', 'Tìm nhà hàng…', 'Cari restoran…', 'ابحث عن مطاعم…', 'रेस्तरां खोजें…', 'Buscar restaurantes…', 'Rechercher…');
-const lblShowing = L('Menunjukkan', 'Showing', '显示', 'காட்டுகிறது', '表示', '표시', 'กำลังแสดง', 'Hiển thị', 'Menampilkan', 'عرض', 'दिखा रहे', 'Mostrando', 'Affichage');
-const lblOf = L('daripada', 'of', '/ 共', 'இல்', '/', '/', 'จาก', 'trên', 'dari', 'من', 'में से', 'de', 'sur');
-const lblRestaurants = L('restoran', 'restaurants', '家餐厅', 'உணவகங்கள்', '軒', '곳', 'ร้าน', 'nhà hàng', 'restoran', 'مطعم', 'रेस्तरां', 'restaurantes', 'restaurants');
-const lblNone = L('Tiada restoran sepadan dengan tapisan ini.', 'No restaurants match these filters.', '没有符合筛选条件的餐厅。', 'இந்த வடிகட்டிகளுக்கு எந்த உணவகமும் பொருந்தவில்லை.', 'この条件に一致するレストランはありません。', '이 필터와 일치하는 레스토랑이 없습니다.', 'ไม่มีร้านที่ตรงกับตัวกรองนี้', 'Không có nhà hàng nào khớp bộ lọc.', 'Tidak ada restoran yang cocok.', 'لا توجد مطاعم مطابقة.', 'इन फ़िल्टरों से कोई रेस्तरां मेल नहीं खाता।', 'Ningún restaurante coincide.', 'Aucun restaurant ne correspond.');
-const lblMustOrder = L('Wajib pesan', 'Must order', '必点', 'கட்டாயம் ஆர்டர்', '必食', '필수 주문', 'ต้องสั่ง', 'Nên gọi', 'Wajib pesan', 'اطلب حتمًا', 'ज़रूर मंगाएँ', 'Imprescindible', 'À commander');
+const lblStars = L('Bintang', 'Stars', '星级', 'நட்சத்திரம்', '星', '스타', 'ดาว', 'Sao', 'Bintang', 'النجوم', 'स्टार', 'Estrellas', 'Étoiles');
+
+// Facet options present in the data (so no empty filters).
+const groupsPresent = [...new Set(rows.map((r) => GROUP(r.distinction)))];
+const statesPresent = [...new Set(rows.map((r) => r.state).filter(Boolean))] as string[];
+const pricesPresent = [...new Set(rows.map((r) => r.price).filter(Boolean))].sort((a, b) => (a as string).length - (b as string).length) as string[];
+const yearsPresent = [...new Set(rows.map((r) => r.year))].sort((a, b) => b - a);
+
+const awardOpt = [
+  { value: 'stars', label: `★ ${lblStars}` },
+  { value: 'bib', label: 'Bib Gourmand' },
+  { value: 'selected', label: lblSelected },
+].filter((o) => groupsPresent.includes(o.value as 'stars' | 'bib' | 'selected'));
+
+const facets = [
+  { key: 'award', label: lblAward, options: awardOpt },
+  ...(statesPresent.length > 1 ? [{ key: 'mstate', label: lblState, options: statesPresent.map((s) => ({ value: s, label: stateName(s) })) }] : []),
+  ...(pricesPresent.length > 1 ? [{ key: 'mprice', label: lblPrice, options: pricesPresent.map((p) => ({ value: p, label: p })) }] : []),
+  { key: 'medition', label: lblYear, options: yearsPresent.map((y) => ({ value: String(y), label: String(y) })) },
+];
+
+// Per-article enrichment: facet values + the card badge.
+const enrich = (a: { data: { slug: string } }): Record<string, string> => {
+  const m = mBySlug[a.data.slug];
+  if (!m) return {};
+  return { award: GROUP(m.distinction), mstate: m.state ?? '', mprice: m.price ?? '', medition: String(m.year), badge: badgeLabel(m.distinction) };
+};
+
+const home = L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'होम', 'Inicio', 'Accueil');
+const livingPillar = getPillarDef('living');
+const flCat = getCategory('food-lifestyle');
+const title = L('Panduan MICHELIN', 'MICHELIN Guide', '米其林指南', 'MICHELIN வழிகாட்டி', 'ミシュランガイド', '미쉐린 가이드', 'มิชลินไกด์', 'Cẩm nang MICHELIN', 'Panduan MICHELIN', 'دليل ميشلان', 'मिशेलिन गाइड', 'Guía MICHELIN', 'Guide MICHELIN');
+const lede = L(
+  'Setiap restoran Malaysia yang kami liputi dalam pilihan Panduan MICHELIN — bintang, Bib Gourmand dan terpilih — di Kuala Lumpur, Pulau Pinang dan seterusnya. Tapis mengikut anugerah, negeri, harga dan edisi.',
+  'Every Malaysian restaurant we cover in the MICHELIN Guide selection — Stars, Bib Gourmand and Selected — across Kuala Lumpur, Penang and beyond. Filter by award, state, price and edition.',
+  '我们收录的所有马来西亚米其林指南餐厅——星级、必比登和入选——涵盖吉隆坡、槟城及其他地区。可按奖项、州属、价格与版本筛选。',
+  'MICHELIN வழிகாட்டித் தேர்வில் நாங்கள் உள்ளடக்கிய ஒவ்வொரு மலேசிய உணவகமும் — நட்சத்திரம், Bib Gourmand, தேர்ந்தெடுக்கப்பட்டவை. விருது, மாநிலம், விலை, பதிப்பு வாரியாக வடிகட்டவும்.',
+  'クアラルンプール、ペナンなど、ミシュランガイドの選定に入る当サイト掲載のマレーシア料理店すべて。受賞・州・価格・版で絞り込めます。',
+  '쿠알라룸푸르, 페낭 등 미쉐린 가이드에 선정된, 우리가 다루는 모든 말레이시아 레스토랑. 상·주·가격·에디션으로 필터링하세요.',
+  'ร้านอาหารมาเลเซียทุกแห่งที่เรารวบรวมไว้ในการคัดเลือกของมิชลินไกด์ ทั่วกัวลาลัมเปอร์ ปีนัง และอื่น ๆ กรองตามรางวัล รัฐ ราคา และฉบับ',
+  'Mọi nhà hàng Malaysia chúng tôi giới thiệu trong tuyển chọn Cẩm nang MICHELIN khắp Kuala Lumpur, Penang và hơn thế. Lọc theo giải thưởng, bang, giá và phiên bản.',
+  'Setiap restoran Malaysia yang kami bahas dalam pilihan Panduan MICHELIN di Kuala Lumpur, Penang, dan sekitarnya. Saring menurut penghargaan, wilayah, harga, dan edisi.',
+  'كل مطعم ماليزي نغطيه ضمن اختيار دليل ميشلان في كوالالمبور وبينانغ وغيرها. صفِّ حسب الجائزة والولاية والسعر والإصدار.',
+  'मिशेलिन गाइड चयन में हमारे द्वारा कवर किया गया हर मलेशियाई रेस्तरां — कुआलालंपुर, पेनांग व अन्य। पुरस्कार, राज्य, कीमत व संस्करण अनुसार छाँटें।',
+  'Cada restaurante malayo que cubrimos en la selección de la Guía MICHELIN en Kuala Lumpur, Penang y más. Filtra por distinción, estado, precio y edición.',
+  'Chaque restaurant malaisien que nous couvrons dans la sélection du Guide MICHELIN à Kuala Lumpur, Penang et au-delà. Filtrez par distinction, état, prix et édition.',
+);
+
+const statRestaurants = L('Restoran', 'Restaurants', '餐厅', 'உணவகங்கள்', 'レストラン', '레스토랑', 'ร้านอาหาร', 'Nhà hàng', 'Restoran', 'مطاعم', 'रेस्तरां', 'Restaurantes', 'Restaurants');
 const lblExplainer = L('Apa itu Panduan MICHELIN?', 'What is the MICHELIN Guide?', '什么是米其林指南？', 'MICHELIN வழிகாட்டி என்றால் என்ன?', 'ミシュランガイドとは？', '미쉐린 가이드란?', 'มิชลินไกด์คืออะไร?', 'Cẩm nang MICHELIN là gì?', 'Apa itu Panduan MICHELIN?', 'ما هو دليل ميشلان؟', 'मिशेलिन गाइड क्या है?', '¿Qué es la Guía MICHELIN?', 'Qu’est-ce que le Guide MICHELIN ?');
 const revisionNote = L(
   'Pilihan MICHELIN disemak setiap tahun. Sahkan status semasa sesebuah restoran di Panduan MICHELIN rasmi sebelum melawat.',
@@ -142,8 +118,6 @@ const revisionNote = L(
   'La selección MICHELIN se revisa cada año. Confirma el estado actual de un restaurante en la Guía MICHELIN oficial antes de visitarlo.',
   'La sélection MICHELIN est révisée chaque année. Vérifiez le statut actuel d’un restaurant sur le Guide MICHELIN officiel avant de vous y rendre.',
 );
-
-const statRestaurants = L('Restoran', 'Restaurants', '餐厅', 'உணவகங்கள்', 'レストラン', '레스토랑', 'ร้านอาหาร', 'Nhà hàng', 'Restoran', 'مطاعم', 'रेस्तरां', 'Restaurantes', 'Restaurants');
 const explainerHref = localePath('/food-lifestyle/michelin-guide-malaysia', locale);
 ---
 
@@ -158,309 +132,22 @@ const explainerHref = localePath('/food-lifestyle/michelin-guide-malaysia', loca
   title={title}
   desc={lede}
   stats={[
-    { value: cards.length, label: statRestaurants, icon: '🍜' },
+    { value: restaurants.length, label: statRestaurants, icon: '🍜' },
     { value: starred, label: lblStars, icon: '★' },
     { value: bibs, label: 'Bib Gourmand', icon: '🏅' },
   ]}
 />
 
-<section class="mich container" aria-label={title}>
-  <div class="mich-topbar">
-    <div class="mich-intro">
-      <a class="mich-explainer" href={explainerHref}>{lblExplainer} →</a>
-      <p class="mich-note">{revisionNote}</p>
-    </div>
-    <label class="mich-search">
-      <span class="sr-only">{lblSearch}</span>
-      <input type="search" id="mich-q" placeholder={lblSearch} autocomplete="off" />
-    </label>
-  </div>
-
-  <div class="mich-filters" role="group" aria-label={lblAward}>
-    <div class="facet" data-facet="group">
-      <span class="facet-label">{lblAward}</span>
-      <button class="chip is-on" data-val="">{lblAll}</button>
-      <button class="chip" data-val="stars">★ {lblStars}</button>
-      <button class="chip" data-val="bib">Bib Gourmand</button>
-      {cards.some((c) => c.group === 'selected') && <button class="chip" data-val="selected">{lblSelected}</button>}
-    </div>
-    {states.length > 1 && (
-      <div class="facet" data-facet="state">
-        <span class="facet-label">{lblState}</span>
-        <button class="chip is-on" data-val="">{lblAll}</button>
-        {states.map((s) => <button class="chip" data-val={s}>{stateName(s)}</button>)}
-      </div>
-    )}
-    {prices.length > 1 && (
-      <div class="facet" data-facet="price">
-        <span class="facet-label">{lblPrice}</span>
-        <button class="chip is-on" data-val="">{lblAll}</button>
-        {prices.map((p) => <button class="chip" data-val={p}>{p}</button>)}
-      </div>
-    )}
-    {years.length > 0 && (
-      <div class="facet" data-facet="year">
-        <span class="facet-label">{lblYear}</span>
-        <button class="chip is-on" data-val="">{lblAll}</button>
-        {years.map((y) => <button class="chip" data-val={String(y)}>{y}</button>)}
-      </div>
-    )}
-  </div>
-
-  <div class="mich-sortrow" role="group" aria-label={lblSort}>
-    <span class="facet-label">{lblSort}</span>
-    <button class="mich-tab is-on" data-sort="rank">{lblAward}</button>
-    <button class="mich-tab" data-sort="name">A–Z</button>
-    <button class="mich-tab" data-sort="rating">{lblRating}</button>
-    <button class="mich-tab" data-sort="price">{lblPrice}</button>
-  </div>
-
-  <div class="mich-pager mich-pager-top" data-pagefind-ignore>
-    <div class="mp-size">
-      <label>{lblRows} <select class="mp-rows"><option>25</option><option>50</option><option>100</option></select></label>
-      <span class="mp-count"></span> {lblRestaurants}
-    </div>
-    <div class="mp-nav">
-      <button class="mp-first" type="button" title={lblFirst}>«</button>
-      <button class="mp-prev" type="button" title={lblPrev}>‹</button>
-      <span class="mp-of">{lblPage} <input class="mp-no" type="number" min="1" value="1" /> / <span class="mp-total">1</span></span>
-      <button class="mp-next" type="button" title={lblNext}>›</button>
-      <button class="mp-last" type="button" title={lblLast}>»</button>
-    </div>
-  </div>
-
-  <ul class="mich-grid" id="mich-grid" data-of={lblOf}>
-    {cards.map((c) => (
-      <li
-        class="mich-card"
-        data-group={c.group}
-        data-state={c.state ?? ''}
-        data-price={c.price ?? ''}
-        data-year={c.year}
-        data-name={c.title.toLowerCase()}
-        data-city={(c.city ?? '').toLowerCase()}
-        data-rank={DRANK[c.distinction]}
-        data-rating={c.rating ?? 0}
-        data-pricelen={(c.price ?? '').length}
-      >
-        <a href={c.href} class="mich-link">
-          <div class="mich-thumb">
-            {c.hero ? (
-              <img src={c.hero} alt={c.heroAlt} loading="lazy" decoding="async" width="400" height="225" />
-            ) : (
-              <div class="mich-noimg" aria-hidden="true">🍽️</div>
-            )}
-            <span class={`mich-badge g-${c.group}`}>{c.distLabel}</span>
-            {c.greenStar && <span class="mich-green" title={greenStarLabel}>🌿</span>}
-          </div>
-          <div class="mich-body">
-            <h3 class="mich-name">{c.title}</h3>
-            <p class="mich-meta">
-              {c.city && <span class="mich-city">{c.city}</span>}
-              {c.price && <span class="mich-price">{c.price}</span>}
-              {c.rating != null && <span class="mich-rating">★ {c.rating}</span>}
-            </p>
-            {c.mustOrder && <p class="mich-order"><b>{lblMustOrder}:</b> {c.mustOrder}</p>}
-          </div>
-        </a>
-      </li>
-    ))}
-  </ul>
-  <p class="mich-empty" id="mich-empty" hidden>{lblNone}</p>
-
-  <div class="mich-pager mich-pager-bot" data-pagefind-ignore>
-    <div class="mp-size">
-      <label>{lblRows} <select class="mp-rows"><option>25</option><option>50</option><option>100</option></select></label>
-      <span class="mp-count"></span> {lblRestaurants}
-    </div>
-    <div class="mp-nav">
-      <button class="mp-first" type="button" title={lblFirst}>«</button>
-      <button class="mp-prev" type="button" title={lblPrev}>‹</button>
-      <span class="mp-of">{lblPage} <input class="mp-no" type="number" min="1" value="1" /> / <span class="mp-total">1</span></span>
-      <button class="mp-next" type="button" title={lblNext}>›</button>
-      <button class="mp-last" type="button" title={lblLast}>»</button>
-    </div>
-  </div>
+<section class="container block mich-intro">
+  <a class="mich-explainer" href={explainerHref}>{lblExplainer} →</a>
+  <p class="mich-note">{revisionNote}</p>
 </section>
 
+<ArticleList locale={locale} articles={restaurants} filters={[]} facets={facets} enrich={enrich} layout="grid" />
+
 <style>
-  .mich { padding-block: 2.2rem 3.5rem; }
-  .mich-topbar { display: flex; flex-wrap: wrap; gap: 1rem 1.5rem; align-items: flex-end; justify-content: space-between; margin-bottom: 1.4rem; }
-  .mich-intro { min-width: 0; }
-  .mich-asof { margin: 0 0 0.5rem; display: inline-block; font-size: 0.78rem; font-weight: 700; color: var(--ink); background: color-mix(in srgb, var(--gold) 14%, transparent); border: 1px solid color-mix(in srgb, var(--gold) 40%, var(--line)); border-radius: 999px; padding: 0.25rem 0.7rem; }
+  .mich-intro { padding-top: 0; }
   .mich-explainer { font-weight: 700; color: var(--gold); text-decoration: none; font-size: 0.95rem; }
   .mich-explainer:hover { text-decoration: underline; }
-  .mich-note { margin: 0.4rem 0 0; color: var(--muted); font-size: 0.82rem; max-width: 60ch; line-height: 1.5; }
-  .mich-search input {
-    appearance: none; border: 1px solid var(--line); background: var(--surface); color: var(--ink);
-    border-radius: 999px; padding: 0.6rem 1.1rem; font-size: 0.95rem; min-width: min(280px, 72vw);
-  }
-  .mich-search input:focus-visible { outline: 2px solid var(--gold); outline-offset: 1px; }
-
-  .mich-filters { display: flex; flex-direction: column; gap: 0.7rem; margin-bottom: 1.2rem; }
-  .facet { display: flex; flex-wrap: wrap; align-items: center; gap: 0.45rem; }
-  .facet-label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin-inline-end: 0.4rem; min-width: 5.5rem; }
-  .chip {
-    appearance: none; cursor: pointer; border: 1px solid var(--line); background: var(--surface-2); color: var(--ink-soft);
-    border-radius: 999px; padding: 0.38rem 0.85rem; font-size: 0.85rem; font-weight: 600; line-height: 1; transition: border-color .15s, color .15s, background .15s;
-  }
-  .chip:hover { border-color: color-mix(in srgb, var(--gold) 50%, var(--line)); color: var(--ink); }
-  .chip.is-on { background: var(--gold); border-color: var(--gold); color: #1a1403; }
-
-  .mich-count { color: var(--muted); font-size: 0.85rem; margin: 0 0 1rem; }
-
-  /* Sort tabs — same pill treatment as the article-list department template. */
-  .mich-sortrow { display: flex; flex-wrap: wrap; align-items: center; gap: 0.45rem; margin-bottom: 1rem; }
-  .mich-tab { appearance: none; cursor: pointer; border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line)); background: var(--surface); color: var(--ink-soft); border-radius: 999px; padding: 0.38rem 0.85rem; font-size: 0.85rem; font-weight: 600; line-height: 1; }
-  .mich-tab:hover { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, var(--surface)); color: var(--ink); }
-  .mich-tab.is-on { background: var(--gold); border-color: var(--gold); color: #1a1403; }
-
-  /* Pager — mirrors the article-list pager. */
-  .mich-pager { display: flex; flex-wrap: wrap; gap: 0.8rem; justify-content: space-between; align-items: center; font-size: 0.85rem; }
-  .mich-pager-top { margin-bottom: 1.1rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
-  .mich-pager-bot { margin-top: 1.4rem; padding-top: 1rem; border-top: 1px solid var(--line); }
-  .mich-pager.mp-hidden { display: none; }
-  .mp-size { display: flex; align-items: center; gap: 0.5rem; color: var(--muted); }
-  .mp-size select { font: inherit; margin-inline-start: 0.3rem; padding: 0.2rem 0.4rem; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
-  .mp-nav { display: flex; align-items: center; gap: 0.3rem; }
-  .mp-nav button { min-width: 2rem; padding: 0.3rem 0.5rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer; font-size: 1rem; line-height: 1; }
-  .mp-nav button:hover:not(:disabled) { border-color: var(--gold); color: var(--gold); }
-  .mp-nav button:disabled { opacity: 0.4; cursor: default; }
-  .mp-of { display: inline-flex; align-items: center; gap: 0.35rem; color: var(--muted); }
-  .mp-of input { width: 3.2rem; font: inherit; text-align: center; padding: 0.25rem; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
-
-  /* Three columns, as requested — responsive down to 2 then 1. */
-  .mich-grid { list-style: none; margin: 0; padding: 0; display: grid; gap: 1.1rem; grid-template-columns: repeat(3, 1fr); }
-  @media (max-width: 760px) { .mich-grid { grid-template-columns: repeat(2, 1fr); } }
-  .mich-card { min-width: 0; }
-  .mich-link { display: flex; flex-direction: column; height: 100%; text-decoration: none; color: inherit; border: 1px solid var(--line); border-radius: 14px; overflow: hidden; background: var(--surface); transition: border-color .15s, transform .15s; }
-  .mich-link:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); transform: translateY(-2px); }
-  .mich-link:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
-  .mich-thumb { position: relative; aspect-ratio: 16 / 9; background: var(--surface-2); }
-  .mich-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
-  .mich-noimg { width: 100%; height: 100%; display: grid; place-items: center; font-size: 2rem; opacity: 0.5; }
-  /* A hero that 404s: hide the broken image and show the plate placeholder. */
-  .mich-thumb.broken img { display: none; }
-  .mich-thumb.broken::after { content: "🍽️"; position: absolute; inset: 0; display: grid; place-items: center; font-size: 2rem; opacity: 0.5; }
-  .mich-badge {
-    position: absolute; inset-block-start: 0.55rem; inset-inline-start: 0.55rem; z-index: 1;
-    font-size: 0.72rem; font-weight: 800; letter-spacing: 0.01em; padding: 0.28rem 0.55rem; border-radius: 7px;
-    background: rgba(8, 8, 12, 0.82); color: #fff; backdrop-filter: blur(3px); border: 1px solid rgba(255,255,255,0.14);
-  }
-  .mich-badge.g-stars { color: #ffd24a; }
-  .mich-badge.g-bib { color: #ff8a9b; }
-  .mich-badge.g-selected { color: #cfd2ff; }
-  .mich-green { position: absolute; inset-block-start: 0.5rem; inset-inline-end: 0.5rem; z-index: 1; font-size: 1.05rem; filter: drop-shadow(0 1px 2px rgba(0,0,0,0.6)); }
-  .mich-body { padding: 0.75rem 0.85rem 0.9rem; display: flex; flex-direction: column; gap: 0.3rem; }
-  .mich-name { font-family: var(--font-title); font-weight: 800; font-size: 1rem; line-height: 1.22; margin: 0; color: var(--ink); }
-  .mich-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; margin: 0; font-size: 0.8rem; color: var(--muted); }
-  .mich-price { color: var(--ink-soft); font-weight: 700; }
-  .mich-rating { color: var(--gold); font-weight: 700; }
-  .mich-order { margin: 0.15rem 0 0; font-size: 0.8rem; color: var(--ink-soft); line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-  .mich-order b { color: var(--muted); font-weight: 700; }
-  .mich-empty { text-align: center; color: var(--muted); padding: 2.5rem 1rem; }
-  .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); border: 0; }
-
-  @media (max-width: 560px) {
-    .mich-grid { grid-template-columns: 1fr; gap: 0.8rem; }
-    .facet-label { min-width: 100%; }
-  }
+  .mich-note { margin: 0.4rem 0 0; color: var(--muted); font-size: 0.82rem; max-width: 70ch; line-height: 1.5; }
 </style>
-
-<script>
-  (() => {
-    const grid = document.getElementById('mich-grid');
-    if (!grid) return;
-    const allCards = Array.from(grid.querySelectorAll<HTMLLIElement>('.mich-card'));
-    const empty = document.getElementById('mich-empty');
-    const q = document.getElementById('mich-q') as HTMLInputElement | null;
-    const OF = grid.dataset.of || 'of';
-    const $$ = (c: string) => Array.from(document.querySelectorAll<HTMLElement>('.' + c));
-
-    const state: Record<string, string | number> = { group: '', state: '', price: '', year: '', term: '', sort: 'rank', page: 1, size: 25 };
-    const num = (v: string | undefined) => parseFloat(v || '') || 0;
-
-    const matches = (card: HTMLElement) => {
-      const d = card.dataset;
-      return (!state.group || d.group === state.group)
-        && (!state.state || d.state === state.state)
-        && (!state.price || d.price === state.price)
-        && (!state.year || d.year === state.year)
-        && (!state.term || (d.name || '').includes(state.term as string) || (d.city || '').includes(state.term as string));
-    };
-    const cmp = (a: HTMLElement, b: HTMLElement) => {
-      const da = a.dataset, db = b.dataset;
-      const byName = (da.name || '').localeCompare(db.name || '');
-      if (state.sort === 'name') return byName;
-      if (state.sort === 'rating') return num(db.rating) - num(da.rating) || byName;
-      if (state.sort === 'price') return num(da.pricelen) - num(db.pricelen) || byName;
-      return num(da.rank) - num(db.rank) || byName; // 'rank' (Award)
-    };
-
-    function render() {
-      const filtered = allCards.filter(matches).sort(cmp);
-      const total = filtered.length;
-      const size = state.size as number;
-      const pages = Math.max(1, Math.ceil(total / size));
-      if ((state.page as number) > pages) state.page = pages;
-      if ((state.page as number) < 1) state.page = 1;
-      const start = ((state.page as number) - 1) * size;
-      const pageCards = filtered.slice(start, start + size);
-      const show = new Set(pageCards);
-      allCards.forEach((c) => { c.hidden = !show.has(c); });
-      pageCards.forEach((c) => grid.appendChild(c)); // place this page's cards in sorted order
-      if (empty) empty.hidden = total !== 0;
-
-      const a = total ? start + 1 : 0;
-      const b = Math.min(start + size, total);
-      $$('mp-count').forEach((el) => (el.textContent = `${a}–${b} ${OF} ${total}`));
-      $$('mp-total').forEach((el) => (el.textContent = String(pages)));
-      $$('mp-no').forEach((el) => { (el as HTMLInputElement).value = String(state.page); (el as HTMLInputElement).max = String(pages); });
-      $$('mp-rows').forEach((el) => ((el as HTMLSelectElement).value = String(size)));
-      [...$$('mp-first'), ...$$('mp-prev')].forEach((el) => ((el as HTMLButtonElement).disabled = (state.page as number) <= 1));
-      [...$$('mp-next'), ...$$('mp-last')].forEach((el) => ((el as HTMLButtonElement).disabled = (state.page as number) >= pages));
-      document.querySelectorAll('.mich-pager').forEach((p) => p.classList.toggle('mp-hidden', pages <= 1));
-    }
-    const go = (p: number) => { state.page = p; render(); };
-
-    // Filter chips (group / state / price / year).
-    document.querySelectorAll<HTMLElement>('.facet').forEach((facet) => {
-      const key = facet.dataset.facet!;
-      facet.querySelectorAll<HTMLButtonElement>('.chip').forEach((chip) => {
-        chip.addEventListener('click', () => {
-          state[key] = chip.dataset.val || '';
-          state.page = 1;
-          facet.querySelectorAll('.chip').forEach((c) => c.classList.toggle('is-on', c === chip));
-          render();
-        });
-      });
-    });
-    // Sort tabs.
-    document.querySelectorAll<HTMLButtonElement>('.mich-tab').forEach((tab) => {
-      tab.addEventListener('click', () => {
-        state.sort = tab.dataset.sort || 'rank';
-        state.page = 1;
-        document.querySelectorAll('.mich-tab').forEach((t) => t.classList.toggle('is-on', t === tab));
-        render();
-      });
-    });
-    // Search.
-    if (q) q.addEventListener('input', () => { state.term = q.value.trim().toLowerCase(); state.page = 1; render(); });
-    // Pager controls (top + bottom share handlers via class).
-    document.querySelectorAll<HTMLSelectElement>('.mp-rows').forEach((el) => el.addEventListener('change', (e) => { state.size = +(e.target as HTMLSelectElement).value; state.page = 1; render(); }));
-    $$('mp-first').forEach((el) => el.addEventListener('click', () => go(1)));
-    $$('mp-prev').forEach((el) => el.addEventListener('click', () => go((state.page as number) - 1)));
-    $$('mp-next').forEach((el) => el.addEventListener('click', () => go((state.page as number) + 1)));
-    $$('mp-last').forEach((el) => el.addEventListener('click', () => go(Infinity)));
-    document.querySelectorAll<HTMLInputElement>('.mp-no').forEach((el) => el.addEventListener('change', (e) => go(parseInt((e.target as HTMLInputElement).value, 10) || 1)));
-
-    // A hero image that 404s → mark its thumb broken so the placeholder shows.
-    grid.querySelectorAll<HTMLImageElement>('.mich-thumb img').forEach((img) => {
-      const mark = () => img.closest('.mich-thumb')?.classList.add('broken');
-      if (img.complete && img.naturalWidth === 0) mark();
-      else img.addEventListener('error', mark, { once: true });
-    });
-
-    render();
-  })();
-</script>
