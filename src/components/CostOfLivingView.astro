@@ -1,0 +1,218 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import ToolArticleView from './ToolArticleView.astro';
+import { COST, stateAverages } from '@/lib/cost-of-living/data';
+import { STATES } from '@/lib/holidays/data';
+
+interface Props { locale: Locale; }
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const stateName = (id: string): string => {
+  const s = STATES.find((x) => x.id === id);
+  return s ? ((s.name as Record<string, string>)[locale] ?? s.name.en) : id;
+};
+// Localised state names for the client (headline).
+const NAMES = Object.fromEntries(COST.states.map((s) => [s.id, stateName(s.id)]));
+
+const avg = stateAverages();
+const ranked = [...COST.states].sort((a, b) => b.expenditureMean - a.expenditureMean);
+
+const title = L('Kos Sara Hidup Mengikut Negeri', 'Cost of Living by State', '各州生活成本');
+const heroDesc = L(
+  `Perbelanjaan isi rumah bulanan purata dan pendapatan mengikut negeri Malaysia, daripada data rasmi DOSM (rujukan ${COST.asOf}). Pilih negeri untuk melihat perbelanjaan, pendapatan dan kedudukannya berbanding purata semua negeri. Semua dalam pelayar.`,
+  `Average monthly household expenditure and income by Malaysian state, from official DOSM data (${COST.asOf} reference). Pick a state to see its spending, income and where it ranks against the all-state average. All in your browser.`,
+  `按马来西亚各州的家庭月均支出与收入，来自官方 DOSM 数据（${COST.asOf} 参考年）。选择一个州，查看其支出、收入及在全州平均中的排名。全部在浏览器中运行。`,
+);
+
+const ui = {
+  pick: L('Pilih negeri', 'Choose a state', '选择州属'),
+  expLabel: L('Perbelanjaan isi rumah/bulan', 'Household expenditure/month', '家庭月支出'),
+  incMean: L('Pendapatan purata/bulan', 'Mean income/month', '月均收入'),
+  incMedian: L('Pendapatan penengah/bulan', 'Median income/month', '月收入中位数'),
+  index: L('Indeks berbanding purata negeri', 'Index vs all-state average', '相对全州平均指数'),
+  rank: L('Kedudukan perbelanjaan', 'Spending rank', '支出排名'),
+  rankOf: L('ke-{r} daripada {n}', '#{r} of {n}', '第 {r}／共 {n}'),
+  gini: L('Pekali Gini', 'Gini coefficient', '基尼系数'),
+  poverty: L('Kadar kemiskinan', 'Poverty rate', '贫困率'),
+  avgLabel: L('Purata semua negeri', 'All-state average', '全州平均'),
+  asOf: L('Rujukan data', 'Data reference', '数据参考'),
+  tableH: L('Semua negeri, mengikut perbelanjaan', 'All states, by expenditure', '各州（按支出）'),
+  thState: L('Negeri', 'State', '州属'),
+  thExp: L('Perbelanjaan/bln', 'Expenditure/mo', '月支出'),
+  thInc: L('Pendapatan/bln', 'Income/mo', '月收入'),
+  thIdx: L('Indeks', 'Index', '指数'),
+  caveats: L(
+    `Angka ialah purata isi rumah (bukan per orang) daripada Tinjauan Pendapatan & Perbelanjaan Isi Rumah DOSM, rujukan ${COST.asOf} — berasaskan tinjauan, bukan indeks masa nyata. "Indeks" dibandingkan dengan purata ringkas semua negeri (bukan angka kebangsaan berwajaran penduduk). Lesen data CC BY 4.0, DOSM. Gunakan sebagai panduan relatif, bukan belanjawan peribadi.`,
+    `Figures are household averages (not per person) from DOSM's Household Income & Expenditure Survey, ${COST.asOf} reference — survey-based, not a live index. The "index" compares to the simple average of all states (not the population-weighted national figure). Data licensed CC BY 4.0, DOSM. Use as a relative guide, not a personal budget.`,
+    `数据为家庭平均值（非人均），来自 DOSM 家庭收入与支出调查，${COST.asOf} 参考年——基于调查，非实时指数。"指数"相对于各州简单平均（非按人口加权的全国数字）。数据采用 CC BY 4.0 许可，来源 DOSM。请作相对参考，而非个人预算。`,
+  ),
+};
+
+const faqs = [
+  {
+    q: L('Negeri mana paling mahal untuk tinggal?', 'Which state is most expensive to live in?', '哪个州生活最贵？'),
+    a: L(
+      `Mengikut perbelanjaan isi rumah bulanan purata (DOSM, rujukan ${COST.asOf}), Putrajaya dan Kuala Lumpur mencatat perbelanjaan tertinggi, diikuti Selangor — kawasan bandar dengan pendapatan dan kos perumahan lebih tinggi. Sabah dan Kelantan mencatat perbelanjaan isi rumah purata terendah. Ingat ini purata isi rumah, bukan kos seorang individu.`,
+      `By average monthly household expenditure (DOSM, ${COST.asOf} reference), Putrajaya and Kuala Lumpur record the highest spending, followed by Selangor — urban areas with higher incomes and housing costs. Sabah and Kelantan record the lowest average household expenditure. Remember these are household averages, not one person's cost.`,
+      `按家庭月均支出（DOSM，${COST.asOf} 参考年），布城与吉隆坡支出最高，其次是雪兰莪——收入与住房成本较高的城市地区。沙巴与吉兰丹的家庭平均支出最低。请注意这些是家庭平均值，而非个人成本。`,
+    ),
+  },
+  {
+    q: L('Apakah maksud "indeks" di sini?', 'What does the "index" mean here?', '这里的"指数"是什么意思？'),
+    a: L(
+      'Indeks menunjukkan perbelanjaan isi rumah purata sesebuah negeri berbanding purata ringkas kesemua 16 negeri dan wilayah, di mana 100 bermaksud sama dengan purata. Indeks 150 bermakna perbelanjaan isi rumah purata di negeri itu kira-kira 50% lebih tinggi daripada purata negeri. Ia perbandingan relatif, bukan angka kebangsaan berwajaran penduduk.',
+      'The index shows a state\'s average household expenditure against the simple average of all 16 states and territories, where 100 equals the average. An index of 150 means average household spending there is about 50% above the state average. It is a relative comparison, not the population-weighted national figure.',
+      '指数显示某州的家庭平均支出相对于全部 16 个州与地区的简单平均，100 代表与平均持平。指数 150 表示该州家庭平均支出约比州平均高 50%。这是相对比较，而非按人口加权的全国数字。',
+    ),
+  },
+  {
+    q: L('Seberapa terkini data ini?', 'How current is this data?', '数据有多新？'),
+    a: L(
+      `Angka ini ialah rujukan ${COST.asOf} daripada set data terbuka DOSM "hies_state" (Tinjauan Pendapatan & Perbelanjaan Isi Rumah), yang dikemas kini pada Disember 2025. Tinjauan ini dijalankan secara berkala (bukan setiap tahun), jadi angka berubah hanya apabila DOSM menerbitkan tahun rujukan baharu. Sahkan di open.dosm.gov.my.`,
+      `These are the ${COST.asOf} reference figures from DOSM's open-data "hies_state" (Household Income & Expenditure Survey) dataset, last updated December 2025. The survey runs periodically (not every year), so figures change only when DOSM publishes a new reference year. Confirm at open.dosm.gov.my.`,
+      `这些是来自 DOSM 开放数据 "hies_state"（家庭收入与支出调查）数据集的 ${COST.asOf} 参考年数据，最后更新于 2025 年 12 月。该调查定期进行（非每年），因此数字仅在 DOSM 发布新参考年时更新。请在 open.dosm.gov.my 核实。`,
+    ),
+  },
+];
+
+const howText = L(
+  `Pilih sebuah negeri. Kami menunjukkan perbelanjaan isi rumah bulanan purata dan pendapatannya daripada data rasmi DOSM (rujukan ${COST.asOf}), kedudukannya antara 16 negeri dan wilayah mengikut perbelanjaan, dan indeks berbanding purata semua negeri (100 = purata). Jadual penuh di bawah menyusun setiap negeri mengikut perbelanjaan. Semua pengiraan berlaku dalam pelayar anda.`,
+  `Pick a state. We show its average monthly household expenditure and income from official DOSM data (${COST.asOf} reference), where it ranks among the 16 states and territories by expenditure, and an index against the all-state average (100 = average). The full table below ranks every state by expenditure. All the maths happens in your browser.`,
+  `选择一个州。我们按官方 DOSM 数据（${COST.asOf} 参考年）显示其家庭月均支出与收入、在 16 个州与地区中按支出的排名，以及相对全州平均的指数（100＝平均）。下方完整表格按支出排列各州。所有计算都在你的浏览器中完成。`,
+);
+
+const relatedLinks = [
+  { label: L('Adakah Malaysia mampu milik untuk ekspatriat?', 'Is Malaysia affordable for expats?', '马来西亚对外籍人士是否负担得起？'), href: localePath('/cost-of-living/is-malaysia-affordable-for-expats', locale) },
+];
+---
+
+<ToolArticleView
+  locale={locale}
+  toolId="cost-of-living-by-state"
+  title={title}
+  lede={heroDesc}
+  asOf={COST.asOf}
+  how={howText}
+  faqs={faqs}
+  sources={COST.sources}
+  related={relatedLinks}
+>
+  <div class="itc" id="col" data-names={JSON.stringify(NAMES)} data-rankof={ui.rankOf}>
+    <form class="itc-form" autocomplete="off">
+      <label class="itc-field itc-income">
+        <span>{ui.pick}</span>
+        <select id="col-state">
+          {COST.states.map((s) => <option value={s.id} selected={s.id === 'kuala-lumpur'}>{stateName(s.id)}</option>)}
+        </select>
+      </label>
+      <p class="col-avg">{ui.avgLabel}: <b>RM{avg.expenditure.toLocaleString('en-US')}</b></p>
+    </form>
+
+    <aside class="itc-out" aria-live="polite">
+      <p class="itc-asof">{ui.asOf} <span id="col-asof">{COST.asOf}</span></p>
+      <div class="itc-headline">
+        <span class="itc-label">{ui.expLabel} · <span id="col-name">—</span></span>
+        <strong class="itc-amount" id="col-exp">RM0</strong>
+      </div>
+      <dl class="itc-lines">
+        <div><dt>{ui.index}</dt><dd id="col-index">—</dd></div>
+        <div><dt>{ui.rank}</dt><dd id="col-rank">—</dd></div>
+        <div><dt>{ui.incMean}</dt><dd id="col-incmean">—</dd></div>
+        <div><dt>{ui.incMedian}</dt><dd id="col-incmed">—</dd></div>
+        <div><dt>{ui.gini}</dt><dd id="col-gini">—</dd></div>
+        <div><dt>{ui.poverty}</dt><dd id="col-poverty">—</dd></div>
+      </dl>
+    </aside>
+  </div>
+
+  <div class="col-table-wrap">
+    <p class="col-table-h">{ui.tableH}</p>
+    <table class="col-table">
+      <thead><tr><th>#</th><th>{ui.thState}</th><th class="num">{ui.thExp}</th><th class="num">{ui.thInc}</th><th class="num">{ui.thIdx}</th></tr></thead>
+      <tbody>
+        {ranked.map((s, i) => (
+          <tr data-state={s.id}>
+            <td>{i + 1}</td>
+            <td>{stateName(s.id)}</td>
+            <td class="num">RM{s.expenditureMean.toLocaleString('en-US')}</td>
+            <td class="num">RM{s.incomeMean.toLocaleString('en-US')}</td>
+            <td class="num">{Math.round((s.expenditureMean / avg.expenditure) * 100)}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  <p class="itc-disclaimer">⚠️ {ui.caveats}</p>
+</ToolArticleView>
+
+<script>
+  import { computeCost } from '@/lib/cost-of-living/data';
+  const $ = (id) => document.getElementById(id);
+  const root = $('col');
+  if (root) {
+    const NAMES = JSON.parse(root.dataset.names || '{}');
+    const rankOf = root.dataset.rankof || '#{r} of {n}';
+    const f0 = new Intl.NumberFormat('en-MY', { style: 'currency', currency: 'MYR', maximumFractionDigits: 0 });
+    const rm0 = (n) => f0.format(n || 0).replace('MYR', 'RM').replace(/\s/g, '');
+    function recompute() {
+      const id = $('col-state').value;
+      const r = computeCost(id);
+      if (!r) return;
+      $('col-name').textContent = NAMES[id] || id;
+      $('col-exp').textContent = rm0(r.expenditureMean);
+      $('col-index').textContent = String(r.expenditureIndex) + (r.expenditureIndex >= 100 ? ' ▲' : ' ▼');
+      $('col-rank').textContent = rankOf.replace('{r}', String(r.expenditureRank)).replace('{n}', String(r.totalStates));
+      $('col-incmean').textContent = rm0(r.incomeMean);
+      $('col-incmed').textContent = rm0(r.incomeMedian);
+      $('col-gini').textContent = r.gini.toFixed(3);
+      $('col-poverty').textContent = r.poverty.toFixed(1) + '%';
+      $('col-asof').textContent = r.asOf;
+      document.querySelectorAll('.col-table tbody tr').forEach((tr) => {
+        tr.classList.toggle('on', tr.dataset.state === id);
+      });
+    }
+    root.addEventListener('change', recompute);
+    recompute();
+  }
+</script>
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'SoftwareApplication', name: title, applicationCategory: 'FinanceApplication', operatingSystem: 'Web', offers: { '@type': 'Offer', price: '0', priceCurrency: 'MYR' }, description: heroDesc },
+    { '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+  ],
+})} />
+
+<style>
+  .itc { display: grid; grid-template-columns: 1.4fr 1fr; gap: 1.5rem; align-items: start; }
+  @media (max-width: 860px) { .itc { grid-template-columns: 1fr; } }
+  .itc-form { display: grid; gap: 1.1rem; align-content: start; }
+  .itc-field { display: grid; gap: 0.35rem; font-size: 0.9rem; }
+  .itc-field > span { font-weight: 600; color: var(--ink-soft); }
+  .itc-field select { font: inherit; padding: 0.55rem 0.7rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .itc-field select:focus { outline: 2px solid var(--gold); outline-offset: 1px; }
+  .col-avg { margin: 0; font-size: 0.85rem; color: var(--muted); }
+  .col-avg b { color: var(--ink-soft); }
+  .itc-out { position: sticky; top: 1rem; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 1.2rem 1.3rem; }
+  .itc-asof { margin: 0 0 0.8rem; font-size: 0.72rem; color: var(--muted); }
+  .itc-headline { display: grid; gap: 0.15rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
+  .itc-label { font-size: 0.8rem; color: var(--ink-soft); font-weight: 600; }
+  .itc-amount { font-size: 2.1rem; font-weight: 800; color: var(--gold); line-height: 1.1; }
+  .itc-lines { display: grid; gap: 0.5rem; margin: 1rem 0 0; }
+  .itc-lines > div { display: flex; justify-content: space-between; gap: 1rem; font-size: 0.86rem; }
+  .itc-lines dt { color: var(--ink-soft); margin: 0; }
+  .itc-lines dd { margin: 0; font-weight: 700; text-align: right; font-variant-numeric: tabular-nums; }
+  .col-table-wrap { margin-top: 1.8rem; }
+  .col-table-h { margin: 0 0 0.7rem; font-size: 0.78rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); }
+  .col-table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+  .col-table th, .col-table td { padding: 0.5rem 0.7rem; border-bottom: 1px solid var(--line); text-align: left; }
+  .col-table th { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.03em; color: var(--muted); }
+  .col-table .num { text-align: right; font-variant-numeric: tabular-nums; }
+  .col-table tbody tr.on { background: color-mix(in srgb, var(--gold) 12%, transparent); }
+  .col-table tbody tr.on td { font-weight: 700; color: var(--ink); }
+  .itc-disclaimer { margin: 1.6rem 0 0; padding: 0.8rem 1rem; font-size: 0.82rem; line-height: 1.6; color: var(--ink-soft); background: color-mix(in srgb, var(--gold) 6%, var(--surface, transparent)); border: 1px solid color-mix(in srgb, var(--gold) 30%, transparent); border-radius: 10px; }
+</style>

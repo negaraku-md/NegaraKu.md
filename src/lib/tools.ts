@@ -163,6 +163,16 @@ export const TOOLS: Tool[] = [
     title: L('Mahkamah Mana?', 'Which Court?', '哪个法院？', 'எந்த நீதிமன்றம்?', 'どの裁判所？', '어느 법원?', 'ศาลไหน?', 'Tòa án nào?', 'Pengadilan Mana?', 'أي محكمة؟', 'कौन सा न्यायालय?', '¿Qué tribunal?', 'Quel tribunal ?'),
     blurb: L('Halakan pertikaian ke mahkamah atau tribunal yang betul.', 'Route a dispute to the right court or tribunal.', '将纠纷引向正确的法院或仲裁庭。', 'சர்ச்சையை சரியான நீதிமன்றம்/தீர்ப்பாயத்திற்கு வழிநடத்தவும்.', '紛争を正しい裁判所・審判所へ案内。', '분쟁을 알맞은 법원·심판소로 안내.', 'นำข้อพิพาทไปยังศาลหรือคณะอนุญาโตตุลาการที่ถูกต้อง', 'Định tuyến tranh chấp đến đúng tòa án hoặc hội đồng.', 'Arahkan sengketa ke pengadilan atau tribunal yang tepat.', 'وجِّه النزاع إلى المحكمة أو الهيئة المناسبة.', 'विवाद को सही न्यायालय या ट्रिब्यूनल तक पहुँचाएँ।', 'Dirige una disputa al tribunal o foro correcto.', 'Orientez un litige vers la juridiction adéquate.'),
   },
+  {
+    id: 'mm2h-tier-checker', href: '/tools/mm2h-tier-checker', icon: '🌴', color: '#FDBA74', status: 'live', group: 'daily',
+    title: L('Penyemak Tier MM2H', 'MM2H Tier Checker', 'MM2H 等级检查器', 'MM2H அடுக்கு சரிபார்ப்பு', 'MM2H ティアチェッカー', 'MM2H 등급 확인기', 'ตัวตรวจระดับ MM2H', 'Kiểm tra bậc MM2H', 'Pemeriksa Tingkat MM2H', 'فاحص فئة MM2H', 'MM2H स्तर जाँचकर्ता', 'Verificador de nivel MM2H', 'Vérificateur de palier MM2H'),
+    blurb: L('Tier MM2H mana anda layak — ikut dana, hartanah dan umur.', 'Which MM2H tier you qualify for — by funds, property and age.', '你符合哪个 MM2H 等级——按资金、置业与年龄。', 'எந்த MM2H அடுக்கிற்கு தகுதி — நிதி, சொத்து, வயது வாரியாக.', '資金・物件・年齢で、どのMM2Hティアに該当するか。', '자금·부동산·나이로 어느 MM2H 등급에 해당하는지.', 'คุณเข้าเกณฑ์ MM2H ระดับใด — ตามเงินทุน ทรัพย์สิน และอายุ', 'Bạn đủ điều kiện bậc MM2H nào — theo vốn, bất động sản, tuổi.', 'Tingkat MM2H mana yang Anda penuhi — menurut dana, properti, usia.', 'أي فئة MM2H تؤهل لها — حسب الأموال والعقار والعمر.', 'आप किस MM2H स्तर के योग्य हैं — धन, संपत्ति व आयु अनुसार।', 'A qué nivel MM2H calificas — por fondos, propiedad y edad.', 'À quel palier MM2H vous êtes éligible — fonds, bien, âge.'),
+  },
+  {
+    id: 'cost-of-living-by-state', href: '/tools/cost-of-living-by-state', icon: '🏙️', color: '#F472B6', status: 'live', group: 'daily',
+    title: L('Kos Sara Hidup Ikut Negeri', 'Cost of Living by State', '各州生活成本', 'மாநில வாழ்க்கைச் செலவு', '州別の生活費', '주별 생활비', 'ค่าครองชีพตามรัฐ', 'Chi phí sinh hoạt theo bang', 'Biaya Hidup per Wilayah', 'تكلفة المعيشة حسب الولاية', 'राज्यवार जीवन-यापन लागत', 'Coste de vida por estado', 'Coût de la vie par État'),
+    blurb: L('Perbelanjaan & pendapatan isi rumah ikut negeri (DOSM 2024).', 'Household spending & income by state (DOSM 2024).', '各州家庭支出与收入（DOSM 2024）。', 'மாநில வாரியாக வீட்டுச் செலவு & வருமானம் (DOSM 2024).', '州別の世帯支出・収入（DOSM 2024）。', '주별 가계 지출·소득 (DOSM 2024).', 'รายจ่ายและรายได้ครัวเรือนตามรัฐ (DOSM 2024)', 'Chi tiêu & thu nhập hộ theo bang (DOSM 2024).', 'Belanja & pendapatan rumah tangga per wilayah (DOSM 2024).', 'إنفاق ودخل الأسر حسب الولاية (DOSM 2024).', 'राज्यवार घरेलू खर्च व आय (DOSM 2024)।', 'Gasto e ingreso del hogar por estado (DOSM 2024).', 'Dépenses et revenus des ménages par État (DOSM 2024).'),
+  },
 ];
 
 const by = (locale: Locale) => (t: Tool) => ({ ...t, label: t.title[locale], desc: t.blurb[locale] });
@@ -272,6 +282,14 @@ const ARTICLE_TOOL: Record<string, string> = {
   'law/courts-of-malaysia': 'which-court-finder',
   'law/malaysian-court-system': 'which-court-finder',
   'law/syariah-court-malaysia': 'which-court-finder',
+  // MM2H tier checker (long-stay visa)
+  'settling-in/mm2h-long-stay-visa': 'mm2h-tier-checker',
+  'settling-in/moving-to-malaysia-first-steps': 'mm2h-tier-checker',
+  'business/malaysia-business-visa-comparison': 'mm2h-tier-checker',
+  // Cost of living by state (DOSM HIES)
+  'cost-of-living/is-malaysia-affordable-for-expats': 'cost-of-living-by-state',
+  'cost-of-living/cost-of-living-malaysia': 'cost-of-living-by-state',
+  'cost-of-living/average-salary-malaysia': 'cost-of-living-by-state',
 };
 
 /** The live tool to surface on an article, or null. Key = "category/slug". */

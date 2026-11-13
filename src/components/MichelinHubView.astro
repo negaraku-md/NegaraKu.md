@@ -128,6 +128,8 @@ const revisionNote = L(
 );
 
 const statRestaurants = L('Restoran', 'Restaurants', '餐厅', 'உணவகங்கள்', 'レストラン', '레스토랑', 'ร้านอาหาร', 'Nhà hàng', 'Restoran', 'مطاعم', 'रेस्तरां', 'Restaurantes', 'Restaurants');
+const asOf = (michelin as { asOf?: string }).asOf ?? '';
+const asOfLabel = L('Pilihan MICHELIN setakat', 'MICHELIN selection as of', 'MICHELIN 榜单截至', 'MICHELIN தேர்வு', 'ミシュラン選定時点', '미쉐린 선정 기준', 'การคัดเลือกมิชลิน ณ', 'Tuyển chọn MICHELIN tính đến', 'Pilihan MICHELIN per', 'اختيار ميشلان حتى', 'मिशेलिन चयन', 'Selección MICHELIN a', 'Sélection MICHELIN au');
 const explainerHref = localePath('/food-lifestyle/michelin-guide-malaysia', locale);
 ---
 
@@ -146,6 +148,7 @@ const explainerHref = localePath('/food-lifestyle/michelin-guide-malaysia', loca
 <section class="mich container" aria-label={title}>
   <div class="mich-topbar">
     <div class="mich-intro">
+      {asOf && <p class="mich-asof">🗓️ {asOfLabel} {asOf}</p>}
       <a class="mich-explainer" href={explainerHref}>{lblExplainer} →</a>
       <p class="mich-note">{revisionNote}</p>
     </div>
@@ -221,6 +224,7 @@ const explainerHref = localePath('/food-lifestyle/michelin-guide-malaysia', loca
   .mich { padding-block: 2.2rem 3.5rem; }
   .mich-topbar { display: flex; flex-wrap: wrap; gap: 1rem 1.5rem; align-items: flex-end; justify-content: space-between; margin-bottom: 1.4rem; }
   .mich-intro { min-width: 0; }
+  .mich-asof { margin: 0 0 0.5rem; display: inline-block; font-size: 0.78rem; font-weight: 700; color: var(--ink); background: color-mix(in srgb, var(--gold) 14%, transparent); border: 1px solid color-mix(in srgb, var(--gold) 40%, var(--line)); border-radius: 999px; padding: 0.25rem 0.7rem; }
   .mich-explainer { font-weight: 700; color: var(--gold); text-decoration: none; font-size: 0.95rem; }
   .mich-explainer:hover { text-decoration: underline; }
   .mich-note { margin: 0.4rem 0 0; color: var(--muted); font-size: 0.82rem; max-width: 60ch; line-height: 1.5; }

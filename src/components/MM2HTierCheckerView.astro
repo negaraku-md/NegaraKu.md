@@ -1,0 +1,275 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import ToolArticleView from './ToolArticleView.astro';
+import { MM2H } from '@/lib/visa/mm2h';
+
+interface Props { locale: Locale; }
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const title = L('Penyemak Tier MM2H', 'MM2H Tier Checker', 'MM2H 等级检查器');
+const heroDesc = L(
+  'MM2H bukan satu visa tetapi empat tier — Platinum, Gold, Silver dan SEZ/SFZ — setiap satu dengan deposit tetap, pembelian hartanah, yuran dan tempoh pas tersendiri. Masukkan umur, dana dan belanjawan anda untuk melihat tier mana yang anda layak. Angka setakat Feb 2026; sahkan di mm2h.gov.my.',
+  'MM2H is not one visa but four tiers — Platinum, Gold, Silver and SEZ/SFZ — each with its own fixed deposit, property purchase, fee and pass length. Enter your age, funds and budget to see which tiers you qualify for. Figures as of Feb 2026; confirm on mm2h.gov.my.',
+  'MM2H 不是单一签证，而是四个等级——铂金、黄金、白银与经济特区（SEZ/SFZ）——各有其定期存款、置业、费用与签证期限。输入年龄、资金与预算，查看你符合哪些等级。数据截至 2026 年 2 月；请在 mm2h.gov.my 核实。',
+);
+
+const ui = {
+  age: L('Umur (pemohon utama)', 'Age (principal applicant)', '年龄（主申请人）'),
+  funds: L('Dana untuk deposit tetap (USD)', 'Funds for fixed deposit (USD)', '定期存款资金（USD）'),
+  property: L('Belanjawan hartanah (RM)', 'Property budget (RM)', '置业预算（RM）'),
+  dependents: L('Bilangan tanggungan', 'Number of dependents', '受养人数'),
+  needWork: L('Saya mahu bekerja / berniaga', 'I want to work / run a business', '我想工作／经商'),
+  verdictLabel: L('Tier disyorkan', 'Recommended tier', '推荐等级'),
+  noneLabel: L('Tiada tier sepadan', 'No tier matches', '没有符合的等级'),
+  stayLabel: L('Syarat kehadiran', 'Stay requirement', '居留要求'),
+  stayDays: L('{n} hari terkumpul/tahun', '{n} cumulative days/year', '每年累计 {n} 天'),
+  stayNone: L('Tiada (umur 50+)', 'None (age 50+)', '无（50岁以上）'),
+  feeLabel: L('Yuran pemprosesan anda', 'Your processing fee', '你的处理费'),
+  asOf: L('Angka setakat', 'Figures as of', '数据截至'),
+  fdLabel: L('Deposit tetap', 'Fixed deposit', '定期存款'),
+  propLabel: L('Hartanah min.', 'Min. property', '最低置业'),
+  partLabel: L('Yuran penyertaan', 'Participating fee', '参与费'),
+  passLabel: L('Tempoh pas', 'Pass validity', '签证期限'),
+  workLabel: L('Kerja/niaga', 'Work/business', '工作／经商'),
+  yrs: L('tahun', 'years', '年'),
+  perDev: L('Ikut pembangunan Forest City', 'Per Forest City development', '按森林城市项目'),
+  byAge: L('ikut umur', 'by age', '按年龄'),
+  eligible: L('Anda layak', 'You qualify', '你符合'),
+  notEligible: L('Tidak layak', 'Not eligible', '不符合'),
+  recommended: L('Disyorkan', 'Recommended', '推荐'),
+  allowed: L('Dibenarkan', 'Allowed', '允许'),
+  notAllowed: L('Tidak dibenarkan', 'Not allowed', '不允许'),
+  caveats: L(
+    'Panduan sahaja, bukan nasihat imigresen. Angka tier dari laman MOTAC (mm2h.gov.my) setakat Feb 2026 — program disusun semula lebih sekali, jadi sahkan angka semasa di mm2h.gov.my sebelum memohon. MOTAC menetapkan syarat tier; kelulusan akhir di Jabatan Imigresen. Pembelian hartanah wajib bagi setiap tier dan tidak boleh dijual selama 10 tahun; sehingga 50% deposit boleh dikeluarkan selepas kelulusan untuk tujuan tertentu sahaja.',
+    'Guidance only, not immigration advice. Tier figures are from MOTAC’s mm2h.gov.my as of Feb 2026 — the programme has been restructured more than once, so confirm current figures on mm2h.gov.my before applying. MOTAC sets tier requirements; final approval sits with the Immigration Department. A property purchase is compulsory for every tier and cannot be sold for 10 years; up to 50% of the deposit is releasable after approval for specific purposes only.',
+    '仅供参考，非移民建议。等级数据来自 MOTAC 官网（mm2h.gov.my），截至 2026 年 2 月——该计划曾多次重组，申请前请在 mm2h.gov.my 核实最新数据。MOTAC 设定等级要求；最终批准由移民局负责。每个等级都必须置业且 10 年内不得出售；批准后最多可提取 50% 存款，且仅限特定用途。',
+  ),
+};
+
+const reasonText = {
+  age: L('Di bawah umur minimum', 'Below the minimum age', '低于最低年龄'),
+  funds: L('Dana deposit tidak mencukupi', 'Fixed-deposit funds too low', '存款资金不足'),
+  property: L('Belanjawan hartanah di bawah minimum', 'Property budget below minimum', '置业预算低于最低'),
+  work: L('Tier ini tidak membenarkan kerja/niaga', 'This tier does not allow work/business', '此等级不允许工作／经商'),
+};
+
+const TIER_META = {
+  platinum: L('Platinum', 'Platinum', '铂金'),
+  gold: L('Gold', 'Gold', '黄金'),
+  silver: L('Silver', 'Silver', '白银'),
+  sez: L('SEZ / SFZ', 'SEZ / SFZ', '经济特区'),
+};
+const TIER_COLOR = { platinum: '#E5E4E2', gold: '#FFD700', silver: '#C0C0C0', sez: '#5EEAD4' };
+const usd = (n) => '$' + n.toLocaleString('en-US');
+const rm = (n) => 'RM' + n.toLocaleString('en-US');
+const tierView = MM2H.tiers.map((t) => ({
+  id: t.id,
+  name: TIER_META[t.id],
+  color: TIER_COLOR[t.id],
+  fd: t.id === 'sez' ? `${usd(t.fdSez.from50)}–${usd(t.fdSez.under50)} (${ui.byAge})` : usd(t.fdUSD),
+  prop: t.propertyMinRM == null ? ui.perDev : rm(t.propertyMinRM) + '+',
+  fee: rm(t.participatingFeeRM),
+  pass: `${t.passYears} ${ui.yrs}`,
+  work: t.workAllowed,
+}));
+
+const faqs = [
+  {
+    q: L('Berapa lama pas Silver bertahan?', 'How long does a Silver pass last?', '白银签证有效期多久？'),
+    a: L(
+      'Lima tahun, boleh diperbaharui — bukan 10 tahun seperti disebut sesetengah panduan lama. Nama tier dan nombornya berubah dalam penyusunan semula 2024, jadi banyak panduan yang belum dikemas kini masih menyebut angka lama. Platinum 20 tahun, Gold 15 tahun, Silver 5 tahun, SEZ/SFZ 10 tahun.',
+      'Five years, renewable — not the 10-year figure some older guides still quote. The tier names and numbers changed in the 2024 restructuring, so many un-updated guides still list the old figures. Platinum is 20 years, Gold 15, Silver 5, and SEZ/SFZ 10.',
+      '五年，可续签——并非部分旧指南所称的 10 年。等级名称与数字在 2024 年重组中已更改，许多未更新的指南仍列旧数据。铂金 20 年、黄金 15 年、白银 5 年、经济特区 10 年。',
+    ),
+  },
+  {
+    q: L('Bolehkah saya bekerja dengan MM2H?', 'Can I work on MM2H?', 'MM2H 可以工作吗？'),
+    a: L(
+      'Hanya pada tier Platinum. Laman MOTAC menyatakan aktiviti perniagaan/pelaburan dan peluang kerjaya sebagai "Dibenarkan" untuk Platinum sahaja; Silver, Gold dan SEZ/SFZ semuanya "Tidak dibenarkan". MM2H bukan visa kerja, laluan kewarganegaraan atau pemastautin tetap — ia pas tinggal jangka panjang yang boleh diperbaharui.',
+      'Only on the Platinum tier. MOTAC’s pages state business/investment activity and career opportunities as "Permissible" for Platinum only; Silver, Gold and SEZ/SFZ are all "Not allowed." MM2H is not a work visa, a citizenship route or permanent residency — it is a renewable long-stay pass.',
+      '仅限铂金等级。MOTAC 官网将商业／投资活动与就业机会列为铂金"允许"；白银、黄金与经济特区均"不允许"。MM2H 不是工作签证、入籍途径或永久居留——它是可续签的长期居留签证。',
+    ),
+  },
+  {
+    q: L('Deposit tetap — boleh guna selepas lulus?', 'The fixed deposit — usable after approval?', '定期存款批准后能用吗？'),
+    a: L(
+      'Hanya sebahagian. MOTAC membenarkan pengeluaran maksimum 50% daripada prinsipal selepas kelulusan, dan hanya untuk membeli kediaman yang diperlukan, atau pendidikan, perubatan atau pelancongan di Malaysia. Bakinya mesti kekal dalam bank Malaysia. Pembelian hartanah adalah wajib dan tidak boleh dijual selama 10 tahun.',
+      'Only partly. MOTAC allows a maximum withdrawal of 50% of the principal after approval, and only for buying the required residence, or for education, medical treatment or tourism in Malaysia. The balance must stay in a Malaysian bank. The property purchase is compulsory and cannot be sold for 10 years.',
+      '只能部分使用。MOTAC 允许批准后最多提取本金的 50%，且仅限购买所需住宅，或在马来西亚的教育、医疗或旅游。余额须留在马来西亚银行。置业为强制性，且 10 年内不得出售。',
+    ),
+  },
+];
+
+const howText = L(
+  'Masukkan umur pemohon utama, dana yang ada untuk deposit tetap (USD), belanjawan hartanah (RM), bilangan tanggungan, dan sama ada anda perlu bekerja. Kami menguji setiap daripada empat tier terhadap syaratnya — deposit, hartanah, umur minimum dan kebenaran kerja — dan menandakan tier yang anda layak, mengesyorkan yang termurah. Yuran pemprosesan dikira RM5,000 + RM2,500 setiap tanggungan.',
+  'Enter the principal applicant’s age, the funds you have for the fixed deposit (USD), your property budget (RM), the number of dependents, and whether you need to work. We test each of the four tiers against its requirements — deposit, property, minimum age and work permission — and mark the ones you qualify for, recommending the cheapest. The processing fee is RM5,000 + RM2,500 per dependent.',
+  '输入主申请人年龄、可用于定期存款的资金（USD）、置业预算（RM）、受养人数，以及你是否需要工作。我们将四个等级逐一对照其要求——存款、置业、最低年龄与工作许可——标出你符合的等级并推荐最便宜的。处理费为 RM5,000 + 每名受养人 RM2,500。',
+);
+
+const relatedLinks = [
+  { label: L('Panduan penuh MM2H (empat tier)', 'Full MM2H guide (four tiers)', 'MM2H 完整指南（四个等级）'), href: localePath('/settling-in/mm2h-long-stay-visa', locale) },
+  { label: L('Visa untuk pemilik perniagaan', 'Visas for business owners', '企业主签证'), href: localePath('/business/malaysia-business-visa-comparison', locale) },
+];
+---
+
+<ToolArticleView
+  locale={locale}
+  toolId="mm2h-tier-checker"
+  title={title}
+  lede={heroDesc}
+  asOf={MM2H.asOf}
+  how={howText}
+  faqs={faqs}
+  sources={MM2H.sources}
+  related={relatedLinks}
+>
+  <div
+    class="itc" id="mm"
+    data-eligible={ui.eligible}
+    data-not={ui.notEligible}
+    data-recommended={ui.recommended}
+    data-staydays={ui.stayDays}
+    data-staynone={ui.stayNone}
+    data-r-age={reasonText.age}
+    data-r-funds={reasonText.funds}
+    data-r-property={reasonText.property}
+    data-r-work={reasonText.work}
+    data-none={ui.noneLabel}
+    data-names={JSON.stringify(TIER_META)}
+  >
+    <form class="itc-form" autocomplete="off">
+      <div class="itc-row">
+        <label class="itc-field"><span>{ui.age}</span><input type="number" id="mm-age" inputmode="numeric" min="0" step="1" placeholder="45" /></label>
+        <label class="itc-field"><span>{ui.dependents}</span><input type="number" id="mm-deps" inputmode="numeric" min="0" step="1" value="0" /></label>
+      </div>
+      <div class="itc-row">
+        <label class="itc-field"><span>{ui.funds}</span><input type="number" id="mm-funds" inputmode="decimal" min="0" step="10000" placeholder="150000" /></label>
+        <label class="itc-field"><span>{ui.property}</span><input type="number" id="mm-prop" inputmode="decimal" min="0" step="50000" placeholder="600000" /></label>
+      </div>
+      <label class="itc-check"><input type="checkbox" id="mm-work" /> <span>{ui.needWork}</span></label>
+    </form>
+
+    <aside class="itc-out" aria-live="polite">
+      <p class="itc-asof">{ui.asOf} <span id="mm-asof">{MM2H.asOf}</span></p>
+      <div class="itc-headline">
+        <span class="itc-label">{ui.verdictLabel}</span>
+        <strong class="itc-amount itc-verdict" id="mm-verdict">—</strong>
+      </div>
+      <dl class="itc-lines">
+        <div><dt>{ui.stayLabel}</dt><dd id="mm-stay">—</dd></div>
+        <div><dt>{ui.feeLabel}</dt><dd id="mm-fee">—</dd></div>
+      </dl>
+    </aside>
+  </div>
+
+  <div class="mm-tiers">
+    {tierView.map((t) => (
+      <div class="mm-tier" data-tier={t.id} style={`--tc:${t.color}`}>
+        <div class="mm-tier-head">
+          <span class="mm-tier-name">{t.name}</span>
+          <span class="mm-elig" id={`mm-elig-${t.id}`}>—</span>
+        </div>
+        <dl class="mm-tier-facts">
+          <div><dt>{ui.fdLabel}</dt><dd>{t.fd}</dd></div>
+          <div><dt>{ui.propLabel}</dt><dd>{t.prop}</dd></div>
+          <div><dt>{ui.partLabel}</dt><dd>{t.fee}</dd></div>
+          <div><dt>{ui.passLabel}</dt><dd>{t.pass}</dd></div>
+          <div><dt>{ui.workLabel}</dt><dd>{t.work ? ui.allowed : ui.notAllowed}</dd></div>
+        </dl>
+        <p class="mm-reason" id={`mm-reason-${t.id}`}></p>
+      </div>
+    ))}
+  </div>
+
+  <p class="itc-disclaimer">⚠️ {ui.caveats}</p>
+</ToolArticleView>
+
+<script>
+  import { checkMM2H } from '@/lib/visa/mm2h';
+  const $ = (id) => document.getElementById(id);
+  const root = $('mm');
+  if (root) {
+    const d = root.dataset;
+    const NAMES = JSON.parse(d.names || '{}');
+    const REASON = { age: d.rAge, funds: d.rFunds, property: d.rProperty, work: d.rWork };
+    const f0 = new Intl.NumberFormat('en-MY', { style: 'currency', currency: 'MYR', maximumFractionDigits: 0 });
+    const rm0 = (n) => f0.format(n || 0).replace('MYR', 'RM').replace(/\s/g, '');
+    const num = (el) => { const v = parseFloat(el && el.value); return Number.isFinite(v) && v > 0 ? v : 0; };
+    function recompute() {
+      const r = checkMM2H({
+        age: num($('mm-age')),
+        fundsUSD: num($('mm-funds')),
+        propertyBudgetRM: num($('mm-prop')),
+        needWork: $('mm-work').checked,
+        dependents: Math.max(0, Math.floor(num($('mm-deps')))),
+      });
+      const verdict = $('mm-verdict');
+      verdict.textContent = r.recommended ? (NAMES[r.recommended] || r.recommended) : d.none;
+      verdict.dataset.state = r.recommended ? 'ok' : 'none';
+      $('mm-stay').textContent = r.stayDaysPerYear === 0 ? d.staynone : (d.staydays || '{n}').replace('{n}', String(r.stayDaysPerYear));
+      $('mm-fee').textContent = rm0(r.processingFeeRM);
+      $('mm-asof').textContent = r.asOf;
+      for (const t of r.tiers) {
+        const pill = $(`mm-elig-${t.tier}`);
+        const card = pill && pill.closest('.mm-tier');
+        const reasonEl = $(`mm-reason-${t.tier}`);
+        const isRec = t.tier === r.recommended;
+        pill.textContent = t.eligible ? (isRec ? d.recommended + ' ✓' : d.eligible + ' ✓') : d.not + ' ✗';
+        pill.dataset.state = t.eligible ? (isRec ? 'rec' : 'ok') : 'no';
+        if (card) card.dataset.rec = isRec ? '1' : '0';
+        reasonEl.textContent = t.eligible ? '' : t.reasons.map((k) => REASON[k]).join(' · ');
+      }
+    }
+    root.addEventListener('input', recompute);
+    root.addEventListener('change', recompute);
+    recompute();
+  }
+</script>
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'SoftwareApplication', name: title, applicationCategory: 'TravelApplication', operatingSystem: 'Web', offers: { '@type': 'Offer', price: '0', priceCurrency: 'MYR' }, description: heroDesc },
+    { '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+  ],
+})} />
+
+<style>
+  .itc { display: grid; grid-template-columns: 1.4fr 1fr; gap: 1.5rem; align-items: start; }
+  @media (max-width: 860px) { .itc { grid-template-columns: 1fr; } }
+  .itc-form { display: grid; gap: 1.1rem; }
+  .itc-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+  .itc-field { display: grid; gap: 0.35rem; font-size: 0.9rem; }
+  .itc-field > span { font-weight: 600; color: var(--ink-soft); }
+  .itc-field input { font: inherit; padding: 0.55rem 0.7rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .itc-field input:focus { outline: 2px solid var(--gold); outline-offset: 1px; }
+  .itc-check { display: flex; align-items: center; gap: 0.5rem; font-size: 0.9rem; color: var(--ink-soft); }
+  .itc-check input { width: 1.05rem; height: 1.05rem; accent-color: var(--gold); }
+  .itc-out { position: sticky; top: 1rem; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 1.2rem 1.3rem; }
+  .itc-asof { margin: 0 0 0.8rem; font-size: 0.72rem; color: var(--muted); }
+  .itc-headline { display: grid; gap: 0.15rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
+  .itc-label { font-size: 0.8rem; color: var(--ink-soft); font-weight: 600; }
+  .itc-amount { font-size: 2.1rem; font-weight: 800; color: var(--gold); line-height: 1.1; }
+  .itc-verdict[data-state="none"] { color: var(--ink); font-size: 1.5rem; }
+  .itc-lines { display: grid; gap: 0.5rem; margin: 1rem 0 0; }
+  .itc-lines > div { display: flex; justify-content: space-between; gap: 1rem; font-size: 0.86rem; }
+  .itc-lines dt { color: var(--ink-soft); margin: 0; }
+  .itc-lines dd { margin: 0; font-weight: 700; text-align: right; }
+  .mm-tiers { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 1rem; margin-top: 1.8rem; }
+  .mm-tier { border: 1px solid var(--line); border-top: 3px solid var(--tc); border-radius: 12px; padding: 0.9rem 1rem 1rem; background: var(--surface); }
+  .mm-tier[data-rec="1"] { border-color: var(--tc); box-shadow: 0 0 0 1px var(--tc) inset; }
+  .mm-tier-head { display: flex; justify-content: space-between; align-items: center; gap: 0.5rem; margin-bottom: 0.7rem; }
+  .mm-tier-name { font-family: var(--font-title); font-weight: 800; font-size: 1.05rem; color: var(--ink); }
+  .mm-elig { font-size: 0.68rem; font-weight: 800; padding: 0.15rem 0.5rem; border-radius: 999px; border: 1px solid var(--line); color: var(--muted); white-space: nowrap; }
+  .mm-elig[data-state="ok"] { color: #34d399; border-color: rgba(52,211,153,.4); background: rgba(52,211,153,.12); }
+  .mm-elig[data-state="rec"] { color: #1a1403; background: var(--gold); border-color: var(--gold); }
+  .mm-elig[data-state="no"] { color: var(--muted); }
+  .mm-tier-facts { display: grid; gap: 0.35rem; margin: 0; }
+  .mm-tier-facts > div { display: flex; justify-content: space-between; gap: 0.6rem; font-size: 0.78rem; }
+  .mm-tier-facts dt { color: var(--muted); margin: 0; }
+  .mm-tier-facts dd { margin: 0; font-weight: 700; text-align: right; color: var(--ink-soft); font-variant-numeric: tabular-nums; }
+  .mm-reason { margin: 0.6rem 0 0; font-size: 0.75rem; color: #fca5a5; line-height: 1.4; }
+  .itc-disclaimer { margin: 1.6rem 0 0; padding: 0.8rem 1rem; font-size: 0.82rem; line-height: 1.6; color: var(--ink-soft); background: color-mix(in srgb, var(--gold) 6%, var(--surface, transparent)); border: 1px solid color-mix(in srgb, var(--gold) 30%, transparent); border-radius: 10px; }
+</style>

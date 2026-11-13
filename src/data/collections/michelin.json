@@ -1,6 +1,7 @@
 {
   "generatedBy": "scripts/build-michelin-collection.mjs",
   "guide": "MICHELIN Guide Kuala Lumpur, Penang & beyond",
+  "asOf": "2026-11",
   "count": 70,
   "distinctions": {
     "two-star": 1,

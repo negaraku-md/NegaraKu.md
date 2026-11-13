@@ -145,6 +145,9 @@ mkdirSync(dirname(OUT), { recursive: true });
 const payload = {
   generatedBy: 'scripts/build-michelin-collection.mjs',
   guide: 'MICHELIN Guide Kuala Lumpur, Penang & beyond',
+  // When our MICHELIN selection was last verified against the Guide. The Guide is
+  // revised annually, so BUMP THIS (and re-verify the restaurants) on each refresh.
+  asOf: '2026-11',
   count: rows.length,
   distinctions: byDist,
   restaurants: rows.map(({ topicId, title, ...keep }) => keep),

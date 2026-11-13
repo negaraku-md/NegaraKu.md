@@ -1,0 +1,11 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import MM2HTierCheckerView from '@/components/MM2HTierCheckerView.astro';
+import { TOOLS } from '@/lib/tools';
+const locale = 'ja' as const;
+const tool = TOOLS.find((t) => t.id === 'mm2h-tier-checker')!;
+---
+
+<BaseLayout locale={locale} title={tool.title[locale]} description={tool.blurb[locale]} path="/tools/mm2h-tier-checker">
+  <MM2HTierCheckerView locale={locale} />
+</BaseLayout>
