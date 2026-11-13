@@ -9,7 +9,7 @@ heroCredit: "Misaochan2 / Wikimedia Commons"
 heroLicense: "CC BY 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Fishball_noodle_soup.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Super Star Koay Teow Soup est un chariot de cuisine de rue sur Lebuh Kimberley, à George Town, Penang, titulaire d'un Bib Gourmand du Guide MICHELIN. En activité depuis 1960 et désormais à sa troisième génération, il est réputé pour son koay teow soup au poulet, porc, boulettes de poisson et foie de porc, et pour ses pieds de poulet braisés à la sauce soja."
 
 tier: "3"

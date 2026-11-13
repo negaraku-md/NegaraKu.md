@@ -9,7 +9,7 @@ heroCredit: "Andy Li / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File:%E6%AA%B3%E5%9F%8E%E7%99%BD%E5%92%96%E5%93%A9%E9%BA%B5.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hot Bowl White Curry Mee es un veterano local de fideos en Jalan Rangoon, en George Town, Penang, que posee un Bib Gourmand de la Guía MICHELIN. Abierto desde 1992, es conocido por su white curry mee: fideos en un caldo a base de leche de coco servidos con una pasta de curry removida a mano aparte, para que cada comensal decida su propio nivel de picante."
 
 tier: "3"

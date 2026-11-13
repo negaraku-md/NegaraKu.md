@@ -9,7 +9,7 @@ heroCredit: "Ardzun / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Siam Road Char Koay Teow जॉर्ज टाउन, पेनांग के Jalan Siam पर एक स्ट्रीट-फूड स्टॉल है, जिसे MICHELIN Guide ने बिब गुरमों (Bib Gourmand) पसंद के रूप में सूचीबद्ध किया है। अपनी चपटी चावल की नूडल्स को कोयले पर भूनकर स्पष्ट wok hei के लिए जाना जाने वाला यह स्टॉल एक ही केंद्रित व्यंजन के लिए लंबी कतारें खींचता है।"
 

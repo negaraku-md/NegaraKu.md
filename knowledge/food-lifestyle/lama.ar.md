@@ -4,7 +4,7 @@ title: "Lama: مطبخ نونيا حائز على Bib Gourmand بين التحف
 seoTitle: "Lama (كوالالمبور)"
 slug: "lama"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Lama هو مطعم Peranakan حائز على MICHELIN Bib Gourmand في كوالالمبور، أُضيف إلى قائمة اختيارات Kuala Lumpur و Penang لدى الدليل في 2026. يطهو فريق من أب وابنته أطباق نونيا منزلية أصيلة مُعدّة للمشاركة، في فضاء داخلي مليء بمجموعة تحف انتقاها المالك. يتناول هذا الملف ما هو المطعم، وأطباقه المميّزة، وأجواءه، وكيفية زيارته."
 
 tier: "3"

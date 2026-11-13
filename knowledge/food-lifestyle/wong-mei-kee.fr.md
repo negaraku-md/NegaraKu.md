@@ -8,7 +8,7 @@ heroCredit: "Banej / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Roast_pork_and_Char_Siu_Rice,_Singapore_September_2017.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "fr"
 sourceContentHash: "4fca544a752be1c7"
 status: "published"

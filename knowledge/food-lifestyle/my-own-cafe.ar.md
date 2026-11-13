@@ -9,7 +9,7 @@ heroCredit: "MichaelJLowe (Michael J. Lowe). / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.5"
 heroSource: "https://commons.wikimedia.org/wiki/File:Penang_laksa.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "‏My Own Cafe محل طعام شارع تديره عائلة في شارع Lebuh Cannon بحي George Town في بينانغ، حائز على تصنيف Bib Gourmand من دليل MICHELIN. يشتهر بطبقَي Penang asam laksa و Nyonya laksa، إضافة إلى لفائف الربيع المقلية المحشوة بالخضار، ويُقدَّم على بُعد خطوات من بيت عائلة Khoo Kongsi."
 
 tier: "3"

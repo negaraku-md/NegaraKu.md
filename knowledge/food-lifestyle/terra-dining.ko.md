@@ -4,7 +4,7 @@ title: "Terra Dining: 쿠알라룸푸르의 미쉐린 1스타 말레이시아 �
 seoTitle: "Terra Dining, 쿠알라룸푸르"
 slug: "terra-dining"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Terra Dining은 쿠알라룸푸르 Taman Tun Dr Ismail에 있는 파인다이닝 레스토랑으로, MICHELIN Guide Kuala Lumpur & Penang 2026 셀렉션에서 미쉐린 1스타를 받았습니다. 독학으로 요리를 익힌 Chef Chong이 말레이시아 현지 식재료로 프랑스풍의 11코스 테이스팅 메뉴를 구성하며, asam laksa 풍미의 랍스터 비스크(lobster bisque), masak lemak 스타일의 beurre blanc 등을 선보입니다."
 
 tier: "2"

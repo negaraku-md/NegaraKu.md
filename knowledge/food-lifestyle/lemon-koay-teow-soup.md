@@ -10,7 +10,7 @@ heroCredit: "Stefan Fussan / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Koay_Teow_Soup_with_Prawn_and_Chicken_(Pappa_Rich).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 foodType: "place"
 lang: "en"
 status: "published"

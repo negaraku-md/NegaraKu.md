@@ -4,7 +4,7 @@ title: "Terra Dining：クアラルンプールのミシュラン一つ星マレ
 seoTitle: "Terra Dining、クアラルンプール"
 slug: "terra-dining"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Terra Dining はクアラルンプールの Taman Tun Dr Ismail にあるファインダイニングレストランで、MICHELIN Guide Kuala Lumpur & Penang 2026 のセレクションでミシュラン一つ星を獲得しました。独学のシェフ Chong が、マレーシア産の食材を用いてフランス寄りの 11 品のテイスティングメニューを組み立て、asam laksa 風味のロブスター・ビスク（lobster bisque）や masak lemak 風の beurre blanc などを供します。"
 
 tier: "2"

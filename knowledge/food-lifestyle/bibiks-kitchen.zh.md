@@ -4,7 +4,7 @@ title: "Bibik's Kitchen：槟城一家主打土生华人家常菜的米其林必
 seoTitle: "Bibik's Kitchen，槟城乔治市"
 slug: "bibiks-kitchen"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Bibik's Kitchen 是槟城乔治市Sri Bahari路（Jalan Sri Bahari）上一家土生华人（Peranakan）餐厅，获得《米其林指南》必比登推介（Bib Gourmand）。它以店主传家的娘惹家族食谱为本，以经典土生华人纹饰装点，以 jiu hu char 和 loh bak 等菜式闻名，并提供三种分量。"
 
 tier: "3"

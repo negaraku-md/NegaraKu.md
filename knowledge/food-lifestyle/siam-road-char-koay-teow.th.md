@@ -9,7 +9,7 @@ heroCredit: "Ardzun / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Siam Road Char Koay Teow เป็นแผงอาหารริมทางบน Jalan Siam ในจอร์จทาวน์ ปีนัง ได้รับการจัดอันดับโดย MICHELIN Guide เป็นตัวเลือกบิบ กูร์มองด์ (Bib Gourmand) ขึ้นชื่อเรื่องการผัดเส้นก๋วยเตี๋ยวแบนด้วยถ่านเพื่อ wok hei ที่ชัดเจน ดึงดูดคิวยาวด้วยอาหารเพียงจานเดียวที่มุ่งเน้น"
 

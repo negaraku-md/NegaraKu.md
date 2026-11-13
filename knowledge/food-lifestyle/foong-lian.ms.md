@@ -8,7 +8,7 @@ heroCredit: "bryan... from Taipei, Taiwan / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Food_%E8%87%98%E5%91%B3%E7%85%B2%E4%BB%94%E9%A3%AF,_%E6%96%B0%E8%91%A1%E8%8B%91,_Shin_Pu_Yuan,_%E5%8F%B0%E5%8C%97_(21532055812).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "ms"
 sourceContentHash: "9b3f8775d44408d7"
 status: "published"

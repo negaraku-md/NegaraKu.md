@@ -9,7 +9,7 @@ heroCredit: "amirali mirhashemian"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@amir_v_ali"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Roti by d'Tandoor 是吉隆坡 Jalan Ampang 旁一栋住宅内的 MICHELIN Guide Bib Gourmand 北印度餐厅。它隶属于 1990 年在马来西亚开业的 d'Tandoor 品牌，以家传食谱烹制北印度菜肴，MICHELIN 点名的菜式包括 butter chicken masala、柔软的 naan 与 kulfi。"
 
 tier: "4"

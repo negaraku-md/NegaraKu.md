@@ -9,7 +9,7 @@ heroCredit: "Alpha / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Mixed_Bak_Kut_Teh_-_Teochew_Bak_Kut_Teh_(4590434658).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Ah Hei Bak Kut Teh es una tienda con MICHELIN Bib Gourmand en 33A Medan Imbi, Pudu, Kuala Lumpur. El negocio, de unos 30 años, prepara su bak kut teh fresco cada mañana a partir de una mezcla de hierbas chinas, sirviendo una sopa de costillas de cerdo oscura y aromática junto con platos de acompañamiento. Este perfil cubre qué es, su sopa distintiva, su historia y cómo visitarlo."
 
 tier: "3"

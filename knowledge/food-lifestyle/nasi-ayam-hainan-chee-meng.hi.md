@@ -9,7 +9,7 @@ heroCredit: "Misaochan / Wikimedia Commons"
 heroLicense: "CC BY 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Hainanese_chicken_rice.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Nasi Ayam Hainan Chee Meng कुआलालंपुर के Jalan Kelang Lama पर स्थित एक MICHELIN Bib Gourmand Hainanese chicken rice विशेषज्ञ है, जिसे 1965 से एक परिवार चला रहा है। यह भाप से पका या तला चिकन, चिकन की चर्बी और स्टॉक में पकाए चावल के साथ परोसता है, और कम चर्बी वाले तथा अधिक रसीले मांस के लिए स्थानीय मुर्गे का उपयोग करता है। यह प्रोफ़ाइल बताती है कि यह क्या है, इसका खास व्यंजन, इसका इतिहास और कैसे जाएं।"
 
 tier: "3"

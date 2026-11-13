@@ -9,7 +9,7 @@ heroCredit: "Ardzun / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Siam Road Char Koay Teow는 조지타운(페낭) Jalan Siam에 있는 길거리 음식 노점으로, MICHELIN Guide 빕 구르망(Bib Gourmand)에 선정되었습니다. 납작한 쌀국수를 숯불에 볶아 뚜렷한 wok hei를 내는 것으로 유명하며, 한 가지에 집중한 요리로 긴 줄을 끌어모읍니다."
 

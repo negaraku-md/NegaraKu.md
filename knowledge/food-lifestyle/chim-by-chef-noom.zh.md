@@ -4,7 +4,7 @@ title: "Chim by Chef Noom：吉隆坡的米其林一星泰式高级餐厅"
 seoTitle: "Chim by Chef Noom，吉隆坡"
 slug: "chim-by-chef-noom"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Chim by Chef Noom 是一家位于吉隆坡 Imbi TSLAW Tower 的米其林一星泰式高级餐厅。它是泰国厨师 Thaninthorn 'Noom' Chantrawan 在马来西亚的据点，供应植根于传统的当代泰式品鉴菜单，当中包括一道被称为「200 年历史版本」冬阴功的招牌菜。"
 
 tier: "2"

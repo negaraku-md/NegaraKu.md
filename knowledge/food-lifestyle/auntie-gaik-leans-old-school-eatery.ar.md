@@ -9,7 +9,7 @@ heroCredit: "Chensiyuan / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Fish_head_curry_peranakan_z.JPG"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Auntie Gaik Lean's Old School Eatery مطعم بيرانكان (نيونيا) حائز على نجمة MICHELIN واحدة يقع في شارع Lebuh Bishop في جورج تاون، بينانغ. تديره الطاهية العصامية Beh Gaik Lean، ويقدّم أطباق نيونيا التراثية وفق وصفات محفوظة بعناية، وقد نال نجمته الأولى في أول اختيار لدليل MICHELIN في ماليزيا عام 2022."
 
 tier: "2"

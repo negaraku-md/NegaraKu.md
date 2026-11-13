@@ -9,7 +9,7 @@ heroCredit: "Andy Li / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File:%E6%AA%B3%E5%9F%8E%E7%99%BD%E5%92%96%E5%93%A9%E9%BA%B5.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hot Bowl White Curry Mee पेनांग के जॉर्ज टाउन में Jalan Rangoon पर स्थित एक पुराना नूडल शॉप है, जिसे MICHELIN Guide का Bib Gourmand प्राप्त है। 1992 से खुला यह शॉप white curry mee के लिए जाना जाता है — नारियल के दूध वाले शोरबे में नूडल, जिसके साथ हाथ से फेंटा गया करी पेस्ट अलग से दिया जाता है ताकि ग्राहक अपनी तीखापन खुद तय करें।"
 
 tier: "3"

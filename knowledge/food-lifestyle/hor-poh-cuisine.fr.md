@@ -9,7 +9,7 @@ heroCredit: "Encik Tekateki / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Lei_cha_in_Johor,Malaysia.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hor Poh Cuisine est un restaurant hakka distingué par un Bib Gourmand du MICHELIN Guide, à Segambut, à Kuala Lumpur. Modeste échoppe de quartier depuis plus de 20 ans, elle est réputée pour son lei cha (thunder tea rice) — une soupe verte au goût de noix servie sur du riz — et ses raviolis hakka, proposés à prix cassés."
 
 tier: "4"

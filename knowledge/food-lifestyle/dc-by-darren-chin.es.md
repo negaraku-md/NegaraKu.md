@@ -4,7 +4,7 @@ title: "DC. by Darren Chin: el restaurante francés de una MICHELIN Star de Kual
 seoTitle: "DC. by Darren Chin: una MICHELIN Star en KL"
 slug: "dc-by-darren-chin"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "DC. by Darren Chin es un restaurante de alta cocina francesa contemporánea en Taman Tun Dr Ismail, Kuala Lumpur, del chef-propietario Darren Chin. Posee una MICHELIN Star en la MICHELIN Guide Kuala Lumpur & Penang, cuya ficha describe una lectura única de las tradiciones francesas con acentos globales y malasios. Este perfil cubre su reconocimiento, su cocina, su entorno y cómo visitarlo."
 
 tier: "2"

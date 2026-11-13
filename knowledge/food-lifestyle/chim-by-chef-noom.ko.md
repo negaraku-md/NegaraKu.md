@@ -4,7 +4,7 @@ title: "Chim by Chef Noom: 쿠알라룸푸르의 미쉐린 1스타 태국 파인
 seoTitle: "Chim by Chef Noom, 쿠알라룸푸르"
 slug: "chim-by-chef-noom"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Chim by Chef Noom은 쿠알라룸푸르 Imbi의 TSLAW Tower에 자리한 미쉐린 1스타 태국 파인다이닝 레스토랑입니다. 태국 셰프 Thaninthorn 'Noom' Chantrawan의 말레이시아 분점으로, 전통에 뿌리를 둔 현대 태국식 테이스팅 메뉴를 선보이며, 200년 역사의 똠얌(tom yum) 버전으로 소개되는 시그니처 요리도 포함됩니다."
 
 tier: "2"

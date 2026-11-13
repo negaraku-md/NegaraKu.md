@@ -9,7 +9,7 @@ heroCredit: "Alpha / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Mixed_Bak_Kut_Teh_-_Teochew_Bak_Kut_Teh_(4590434658).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Ah Hei Bak Kut Teh कुआलालंपुर के Pudu में 33A Medan Imbi पर स्थित एक MICHELIN Bib Gourmand दुकान है। लगभग 30 साल पुराना यह प्रतिष्ठान हर सुबह चीनी जड़ी-बूटियों के मिश्रण से अपना bak kut teh ताज़ा बनाता है, और एक गहरे रंग का, सुगंधित पोर्क-रिब सूप साथ के व्यंजनों के साथ परोसता है। यह प्रोफ़ाइल बताती है कि यह क्या है, इसका खास सूप, इसका इतिहास और कैसे जाएं।"
 
 tier: "3"

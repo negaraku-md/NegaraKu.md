@@ -4,7 +4,7 @@ title: "Dewakan: 쿠알라룸푸르의 2개 MICHELIN Star 레스토랑"
 seoTitle: "Dewakan: KL의 2개 MICHELIN Star 레스토랑"
 slug: "dewakan"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Dewakan은 쿠알라룸푸르 Naza Tower 48층에 자리한 파인다이닝 레스토랑으로, 셰프 Darren Teoh가 이끕니다. MICHELIN Guide Kuala Lumpur & Penang에서 2개의 MICHELIN Star를 보유하고 있으며——말레이시아 유일의 2-Star 레스토랑입니다——지속가능성을 기리는 MICHELIN Green Star도 지니고 있습니다. 이 프로필은 그 평가, 현지 식재료를 중심으로 한 요리, 공간, 그리고 방문 방법을 다룹니다."
 
 tier: "2"

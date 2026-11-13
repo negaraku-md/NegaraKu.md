@@ -4,7 +4,7 @@ title: "DC. by Darren Chin：クアラルンプールの1つの MICHELIN Star �
 seoTitle: "DC. by Darren Chin：KL の1つの MICHELIN Star"
 slug: "dc-by-darren-chin"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "DC. by Darren Chin は、クアラルンプールの Taman Tun Dr Ismail にあるフレンチ・コンテンポラリーのファインダイニングレストランで、オーナーシェフ Darren Chin によるものです。MICHELIN Guide Kuala Lumpur & Penang で1つの MICHELIN Star を保持しており、その掲載は、グローバルとマレーシアのアクセントを帯びたフランスの伝統の独自の解釈を説明しています。本プロフィールでは、その評価、料理、立地、そして訪れ方を取り上げます。"
 
 tier: "2"

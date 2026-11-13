@@ -4,7 +4,7 @@ title: "Neighbourwood : une table européenne Bib Gourmand sur la partie contine
 seoTitle: "Neighbourwood, Seberang Perai — Bib Gourmand"
 slug: "neighbourwood"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "fr"
 sourceContentHash: "6e635b16df688923"
 masterLanguage: "en"

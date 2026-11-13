@@ -4,7 +4,7 @@ title: "Communal Table by Gēn: George Town의 모던 말레이시아 요리"
 seoTitle: "Communal Table by Gēn, George Town 페낭"
 slug: "communal-table-by-gen"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 contentType: "place"
 lang: "ko"
 sourceContentHash: "35537b861b620fad"

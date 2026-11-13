@@ -4,7 +4,7 @@ title: "Communal Table by Gēn: Ẩm thực Malaysia hiện đại ở George To
 seoTitle: "Communal Table by Gēn, George Town Penang"
 slug: "communal-table-by-gen"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 contentType: "place"
 lang: "vi"
 sourceContentHash: "35537b861b620fad"

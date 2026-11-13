@@ -4,7 +4,7 @@ title: "‏Molina: مطعم كوالالمبور الابتكاري الحائز
 seoTitle: "‏Molina: مطعم نجمة MICHELIN Star واحدة في KL"
 slug: "molina"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "‏Molina مطعم fine dining ابتكاري في الطابق 51 من THE FACE Style في كوالالمبور. يحوز نجمة MICHELIN Star واحدة في MICHELIN Guide Kuala Lumpur & Penang، حيث يصف إدراجه أطباقًا مبتكرة تمزج تأثيرات فرنسية ونوردية وآسيوية، تُقدَّم مع إطلالات بانورامية على أفق المدينة. يتناول هذا الملف تكريمه، ومطبخه، وأجواءه، وكيفية زيارته."
 
 tier: "2"

@@ -4,7 +4,7 @@ title: "Chim by Chef Noom: कुआलालंपुर में मिशल
 seoTitle: "Chim by Chef Noom, कुआलालंपुर"
 slug: "chim-by-chef-noom"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Chim by Chef Noom कुआलालंपुर के Imbi में TSLAW Tower में स्थित एक मिशलिन एक-सितारा थाई फाइन-डाइनिंग रेस्तरां है। यह थाई शेफ Thaninthorn 'Noom' Chantrawan का मलेशियाई ठिकाना है, और परंपरा में निहित समकालीन थाई टेस्टिंग मेन्यू परोसता है, जिसमें एक सिग्नेचर व्यंजन शामिल है जिसे tom yum का 200 साल पुराना रूप बताया जाता है।"
 
 tier: "2"

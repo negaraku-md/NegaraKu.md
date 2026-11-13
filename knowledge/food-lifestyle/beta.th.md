@@ -4,7 +4,7 @@ title: "Beta: ร้านอาหารมาเลเซียสมัยใ
 seoTitle: "Beta: ร้าน 1 MICHELIN Star ใน KL"
 slug: "beta"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Beta เป็นร้านอาหารไฟน์ไดนิงมาเลเซียสมัยใหม่บน Jalan Perak, กัวลาลัมเปอร์ ร้านครอง 1 MICHELIN Star ใน MICHELIN Guide Kuala Lumpur & Penang ซึ่งรายการของร้านอธิบายเมนู 'Tour of Malaysia' ที่จินตนาการอาหารของประเทศขึ้นใหม่ด้วยเทคนิคสมัยใหม่และการจัดจานที่ประณีต โปรไฟล์นี้ครอบคลุมการได้รับการยกย่อง อาหาร บรรยากาศสถานที่ และวิธีไปเยือน"
 
 tier: "2"

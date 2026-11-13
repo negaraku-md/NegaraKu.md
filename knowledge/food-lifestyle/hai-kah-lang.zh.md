@@ -4,7 +4,7 @@ title: "Hai Kah Lang：Taman Cheras 的 Bib Gourmand 海鲜面"
 seoTitle: "Hai Kah Lang (Taman Cheras)"
 slug: "hai-kah-lang"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 tier: "2"
 mode: "narrative"

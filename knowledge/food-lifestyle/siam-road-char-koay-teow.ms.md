@@ -9,7 +9,7 @@ heroCredit: "Ardzun / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Siam Road Char Koay Teow ialah gerai makanan jalanan di Jalan Siam, George Town, Pulau Pinang, yang disenaraikan oleh MICHELIN Guide sebagai pilihan Bib Gourmand. Terkenal kerana menggoreng kuey teow lepernya atas arang untuk wok hei yang ketara, ia menarik barisan panjang bagi satu hidangan yang fokus."
 

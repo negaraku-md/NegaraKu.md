@@ -4,7 +4,7 @@ title: "Sifu：乔治市的 Bib Gourmand 娘惹厨房"
 seoTitle: "Sifu，乔治市 — MICHELIN Bib Gourmand"
 slug: "sifu"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "zh"
 sourceContentHash: "21068115c9ef4cc0"
 masterLanguage: "en"

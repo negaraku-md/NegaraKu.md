@@ -3,7 +3,7 @@ topicId: MY-MICH-0015
 title: "Gulainya : un restaurant Peranakan Bib Gourmand à Kuala Lumpur"
 slug: "gulainya"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "fr"
 sourceContentHash: "4caedcdc4a962ae8"
 masterLanguage: "en"

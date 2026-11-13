@@ -4,7 +4,7 @@ title: "‏Beta: مطعم كوالالمبور الماليزي الحديث ا�
 seoTitle: "‏Beta: مطعم نجمة MICHELIN Star واحدة في KL"
 slug: "beta"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "‏Beta مطعم fine dining ماليزي حديث في Jalan Perak، كوالالمبور. يحوز نجمة MICHELIN Star واحدة في MICHELIN Guide Kuala Lumpur & Penang، حيث يصف إدراجه قائمة 'Tour of Malaysia' تعيد تصوّر أطباق البلاد بتقنيات حديثة وتزيين متقن. يتناول هذا الملف تكريمه، ومطبخه، وأجواءه، وكيفية زيارته."
 
 tier: "2"

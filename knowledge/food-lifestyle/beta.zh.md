@@ -4,7 +4,7 @@ title: "Beta：吉隆坡的一颗 MICHELIN Star 现代马来西亚餐厅"
 seoTitle: "Beta：吉隆坡一颗 MICHELIN Star 餐厅"
 slug: "beta"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Beta 是一家位于吉隆坡 Jalan Perak 的现代马来西亚 fine dining 餐厅。它在 MICHELIN Guide Kuala Lumpur & Penang 中拥有一颗 MICHELIN Star，其名录描述了一份以现代技法与繁复摆盘重新想象该国菜肴的「Tour of Malaysia」菜单。本篇简介涵盖它的获誉、烹饪、环境，以及如何造访。"
 
 tier: "2"

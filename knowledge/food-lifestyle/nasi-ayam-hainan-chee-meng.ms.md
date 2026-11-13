@@ -9,7 +9,7 @@ heroCredit: "Misaochan / Wikimedia Commons"
 heroLicense: "CC BY 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Hainanese_chicken_rice.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Nasi Ayam Hainan Chee Meng ialah pakar Hainanese chicken rice MICHELIN Bib Gourmand di Jalan Kelang Lama, Kuala Lumpur, dikendalikan keluarga sejak 1965. Ia menyajikan ayam kukus atau goreng dengan nasi yang dimasak dalam lemak dan stok ayam, menggunakan ayam tempatan untuk daging yang kurang berlemak dan lebih berjus. Profil ini merangkumi apa itu, hidangan istimewanya, sejarahnya dan cara untuk melawat."
 
 tier: "3"

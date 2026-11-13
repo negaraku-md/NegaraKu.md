@@ -4,7 +4,7 @@ title: "Beta: Restoran Malaysia Moden Satu MICHELIN Star di Kuala Lumpur"
 seoTitle: "Beta: Restoran Satu MICHELIN Star di KL"
 slug: "beta"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Beta ialah sebuah restoran fine dining Malaysia moden di Jalan Perak, Kuala Lumpur. Ia memegang Satu MICHELIN Star dalam MICHELIN Guide Kuala Lumpur & Penang, yang penyenaraiannya menggambarkan sebuah menu 'Tour of Malaysia' yang membayangkan semula hidangan negara ini dengan teknik moden dan penyajian yang terperinci. Profil ini merangkumi pengiktirafannya, masakannya, latar tempatnya dan cara mengunjunginya."
 
 tier: "2"

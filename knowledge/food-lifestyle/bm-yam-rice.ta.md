@@ -4,7 +4,7 @@ title: "BM Yam Rice: புக்கிட் மெர்தாஜாமில�
 seoTitle: "BM Yam Rice"
 slug: "bm-yam-rice"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "BM Yam Rice என்பது பினாங், செபராங் பிறையில் புக்கிட் மெர்தாஜாமில் Jalan Murthy-இல் உள்ள ஒரு சிறிய டியோச்சு (Teochew) கடை; இது MICHELIN Guide-இல் அங்கீகரிக்கப்பட்டுள்ளது. 2006 முதல் திறந்துள்ள இக்கடை, குடும்ப சமையல்முறையிலான உப்பு-இனிப்பு பன்றி சூப்புடன் yam rice வழங்குகிறது; Guide-இல் இடம்பெற்ற சில பினாங் நிலப்பகுதி உணவகங்களில் ஒன்று இது."
 

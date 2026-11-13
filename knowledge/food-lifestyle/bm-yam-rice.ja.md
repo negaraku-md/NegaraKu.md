@@ -4,7 +4,7 @@ title: "BM Yam Rice：ブキット・メルタジャムの潮州系ビブグル�
 seoTitle: "BM Yam Rice"
 slug: "bm-yam-rice"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "BM Yam Rice は、ペナン、スベラン・プライのブキット・メルタジャムにある Jalan Murthy の小さな潮州系の店で、MICHELIN Guide に掲載されています。2006年から営み、家族のレシピによる yam rice を塩味と甘みのある豚肉スープとともに出す、ガイドに載る数少ないペナン本土の飲食店の一つです。"
 

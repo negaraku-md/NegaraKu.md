@@ -4,7 +4,7 @@ title: "Sifu：ジョージタウンのBib Gourmandプラナカン料理店"
 seoTitle: "Sifu、ジョージタウン — MICHELIN Bib Gourmand"
 slug: "sifu"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "ja"
 sourceContentHash: "21068115c9ef4cc0"
 masterLanguage: "en"

@@ -4,7 +4,7 @@ title: "BM Yam Rice：大山脚一家潮州必比登小店"
 seoTitle: "BM Yam Rice"
 slug: "bm-yam-rice"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "BM Yam Rice 是槟城威省大山脚（Bukit Mertajam）慕提路（Jalan Murthy）上的一家潮州小店，获《MICHELIN Guide》肯定。自 2006 年开业，它以家传食谱供应 yam rice 配咸甜猪肉汤，是少数获《MICHELIN Guide》收录的槟城大陆（威省）食肆之一。"
 

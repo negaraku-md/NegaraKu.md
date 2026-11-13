@@ -4,7 +4,7 @@ title: "Au Jardin: مطعم أوروبي حائز على نجمة ميشلان �
 seoTitle: "Au Jardin، جورج تاون، بينانغ"
 slug: "au-jardin"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Au Jardin مطعم أوروبي معاصر حائز على نجمة ميشلان واحدة، يقع داخل الفضاء الفني Hin Bus Depot في جورج تاون، بينانغ. يقوده الشيف والمالك Kim Hock Su، ويقدّم قائمة تذوّق (tasting menu) تتغيّر شهريًا من أطباق أوروبية مبتكرة بلمسات محلية، ومن أطباقه المميّزة hay-aged Penang duck."
 
 tier: "2"

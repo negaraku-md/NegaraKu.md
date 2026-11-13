@@ -9,7 +9,7 @@ heroCredit: "JB Macatulad / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Duck Blood Curry Mee は、ジョージタウン（ペナン）の Jalan Burma にある屋台系の店で、MICHELIN Guide のビブグルマン（Bib Gourmand）に選ばれています。マレーシア風のカフェの中に隠れ、ココナッツミルクで作る塩味と甘みのある白いカレーのベースで curry mee を出し、ローストポークが際立つ具として挙げられています。"
 

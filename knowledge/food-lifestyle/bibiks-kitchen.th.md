@@ -4,7 +4,7 @@ title: "Bibik's Kitchen: Bib Gourmand แห่งปีนังสำหรั
 seoTitle: "Bibik's Kitchen, จอร์จทาวน์ ปีนัง"
 slug: "bibiks-kitchen"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Bibik's Kitchen เป็นร้านอาหารเพอรานากันบนถนน Jalan Sri Bahari ในจอร์จทาวน์ ปีนัง ซึ่งได้รับ Bib Gourmand จาก MICHELIN Guide สร้างขึ้นบนสูตรอาหารครอบครัวนโยนยาที่สืบทอดมาของเจ้าของ และตกแต่งด้วยลวดลายเพอรานากันคลาสสิก ขึ้นชื่อเรื่องเมนูอย่าง jiu hu char และ loh bak เสิร์ฟในสามขนาด"
 
 tier: "3"

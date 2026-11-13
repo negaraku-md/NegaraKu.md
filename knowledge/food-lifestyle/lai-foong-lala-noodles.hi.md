@@ -3,7 +3,7 @@ topicId: MY-MICH-0011
 title: "Lai Foong Lala Noodles: कुआलालंपुर का एक Bib Gourmand नूडल स्टॉल"
 slug: "lai-foong-lala-noodles"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "hi"
 sourceContentHash: "cea56dd981238a87"
 masterLanguage: "en"

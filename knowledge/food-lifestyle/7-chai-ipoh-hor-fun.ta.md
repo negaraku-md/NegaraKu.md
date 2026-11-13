@@ -9,7 +9,7 @@ heroCredit: "Sharon Hahn Darlin / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Hor_Fun,_Yinzo_Kopi,_Ipoh,_Malaysia.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "7 Chai Ipoh Hor Fun என்பது கோலாலம்பூர், Pandan Perdana-வில் உள்ள ஒரு MICHELIN Guide Bib Gourmand தெரு உணவுக் கடை ஆகும்; இது இப்போ பாணி hor fun-இல் சிறப்பு பெற்றது — கோழி எலும்புகளும் இறால் தலைகளும் கொதிக்கவைத்த தெளிவான சூப்பில் தட்டையான அரிசி நூடுல்ஸ், மேலே கிழித்த கோழி இறைச்சி, விருப்பப்படி இறால் wonton சேர்த்து வழங்கப்படுகிறது."
 
 tier: "4"

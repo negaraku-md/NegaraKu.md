@@ -9,7 +9,7 @@ heroCredit: "Ardzun / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Siam Road Char Koay Teow بسطة طعام شارع في Jalan Siam بجورج تاون، بينانغ، أدرجها MICHELIN Guide بوصفها اختيار Bib Gourmand. تشتهر بقلي نودلز الأرز المسطّحة على الفحم للحصول على wok hei واضح، وتجتذب طوابير طويلة لطبق واحد مركّز."
 

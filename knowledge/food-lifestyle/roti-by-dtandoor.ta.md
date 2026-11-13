@@ -9,7 +9,7 @@ heroCredit: "amirali mirhashemian"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@amir_v_ali"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Roti by d'Tandoor என்பது கோலாலம்பூர், Jalan Ampang-க்கு அருகில் ஒரு வீட்டில் அமைந்துள்ள MICHELIN Guide Bib Gourmand வட இந்திய உணவகம். 1990-இல் மலேசியாவில் தொடங்கிய d'Tandoor பிராண்டின் ஒரு பகுதியான இது, குடும்ப சமையல்குறிப்புகளின் அடிப்படையிலான வட இந்திய உணவுகளை சமைக்கிறது; butter chicken masala, மென்மையான naan, kulfi ஆகியவை MICHELIN சிறப்பித்துக் காட்டும் உணவுகளுள் அடங்கும்."
 
 tier: "4"

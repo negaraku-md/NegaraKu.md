@@ -4,7 +4,7 @@ title: "Communal Table by Gēn: مطبخ ماليزي حديث في George Town"
 seoTitle: "Communal Table by Gēn، George Town بينانغ"
 slug: "communal-table-by-gen"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 contentType: "place"
 lang: "ar"
 sourceContentHash: "35537b861b620fad"

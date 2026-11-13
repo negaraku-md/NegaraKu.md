@@ -9,7 +9,7 @@ heroCredit: "Chensiyuan / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Fish_head_curry_peranakan_z.JPG"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Auntie Gaik Lean's Old School Eatery ialah sebuah restoran Peranakan (Nyonya) berbintang satu MICHELIN di Lebuh Bishop, George Town, Pulau Pinang. Dikendalikan oleh chef swa-ajar Beh Gaik Lean, ia menyajikan hidangan warisan Nyonya daripada resipi yang dijaga rapi dan menerima bintang pertamanya dalam pemilihan sulung MICHELIN Malaysia pada 2022."
 
 tier: "2"

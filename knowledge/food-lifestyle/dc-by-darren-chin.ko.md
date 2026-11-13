@@ -4,7 +4,7 @@ title: "DC. by Darren Chin: 쿠알라룸푸르의 1개 MICHELIN Star 프렌치 �
 seoTitle: "DC. by Darren Chin: KL의 1개 MICHELIN Star"
 slug: "dc-by-darren-chin"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "DC. by Darren Chin은 쿠알라룸푸르 Taman Tun Dr Ismail에 있는 프렌치 컨템포러리 파인다이닝 레스토랑으로, 셰프 겸 오너 Darren Chin이 운영합니다. MICHELIN Guide Kuala Lumpur & Penang에서 1개의 MICHELIN Star를 보유하고 있으며, 그 등재는 글로벌 및 말레이시아의 악센트를 더한 프랑스 전통에 대한 독특한 해석을 설명합니다. 이 프로필은 그 평가, 요리, 공간, 그리고 방문 방법을 다룹니다."
 
 tier: "2"

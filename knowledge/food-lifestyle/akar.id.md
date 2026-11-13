@@ -4,7 +4,7 @@ title: "Akar: Restoran Malaysia Modern Satu MICHELIN Star di Kuala Lumpur"
 seoTitle: "Akar: Restoran Satu MICHELIN Star di KL"
 slug: "akar"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Akar adalah restoran fine dining Malaysia modern di Taman Tun Dr Ismail, Kuala Lumpur. Restoran ini menyandang Satu MICHELIN Star dalam MICHELIN Guide Kuala Lumpur & Penang, yang pencantumannya menggambarkan sebuah set menu yang mengolah ulang resep Eropa melalui pengaruh Jepang, Prancis, dan Malaysia. Profil ini membahas pengakuannya, masakannya, suasana tempatnya, dan cara mengunjunginya."
 
 tier: "2"

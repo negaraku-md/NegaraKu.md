@@ -4,7 +4,7 @@ title: "‏Dewakan: مطعم كوالالمبور الحائز على نجمتَ
 seoTitle: "‏Dewakan: مطعم نجمتَي MICHELIN Star في KL"
 slug: "dewakan"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "‏Dewakan مطعم fine dining في الطابق 48 من Naza Tower في كوالالمبور، يقوده الشيف Darren Teoh. يحوز نجمتَي MICHELIN Star في MICHELIN Guide Kuala Lumpur & Penang——المطعم الوحيد الحائز على نجمتين في ماليزيا——وMICHELIN Green Star للاستدامة. يتناول هذا الملف تكريمه، ومطبخه القائم على المكوّنات المحلية، وأجواءه، وكيفية زيارته."
 
 tier: "2"

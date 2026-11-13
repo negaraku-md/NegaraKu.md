@@ -3,7 +3,7 @@ topicId: MY-MICH-0011
 title: "Lai Foong Lala Noodles：吉隆坡一家 Bib Gourmand 面食摊"
 slug: "lai-foong-lala-noodles"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "zh"
 sourceContentHash: "cea56dd981238a87"
 masterLanguage: "en"

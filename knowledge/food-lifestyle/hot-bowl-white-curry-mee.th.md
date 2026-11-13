@@ -9,7 +9,7 @@ heroCredit: "Andy Li / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File:%E6%AA%B3%E5%9F%8E%E7%99%BD%E5%92%96%E5%93%A9%E9%BA%B5.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hot Bowl White Curry Mee เป็นร้านก๋วยเตี๋ยวเก่าแก่บนถนน Jalan Rangoon ในจอร์จทาวน์ ปีนัง ซึ่งได้รับ Bib Gourmand จาก MICHELIN Guide เปิดมาตั้งแต่ปี 1992 ขึ้นชื่อเรื่อง white curry mee — เส้นในน้ำซุปกะทิ เสิร์ฟพร้อมพริกแกงที่คนด้วยมือวางไว้ข้าง ๆ เพื่อให้ลูกค้ากำหนดความเผ็ดเอง"
 
 tier: "3"

@@ -11,7 +11,7 @@ heroCredit: "Jpatokal / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 foodType: "place"
 contentType: "place"
 lang: "en"

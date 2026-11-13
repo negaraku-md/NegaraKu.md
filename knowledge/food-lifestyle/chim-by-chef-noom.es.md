@@ -4,7 +4,7 @@ title: "Chim by Chef Noom: alta cocina tailandesa con una estrella MICHELIN en K
 seoTitle: "Chim by Chef Noom, Kuala Lumpur"
 slug: "chim-by-chef-noom"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Chim by Chef Noom es un restaurante de alta cocina tailandesa con una estrella MICHELIN situado en la TSLAW Tower, en Imbi, Kuala Lumpur. Es la sede malasia del chef tailandés Thaninthorn 'Noom' Chantrawan y ofrece menús de degustación tailandeses contemporáneos arraigados en la tradición, incluido un plato insignia presentado como una versión del tom yum de 200 años de antigüedad."
 
 tier: "2"

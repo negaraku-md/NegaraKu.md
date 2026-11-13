@@ -4,7 +4,7 @@ title: "Potager: Masakan Perancis Kontemporari di Bamboo Hills, Kuala Lumpur"
 seoTitle: "Potager, Kuala Lumpur"
 slug: "potager"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Potager ialah sebuah restoran Perancis kontemporari yang terletak di kawasan taman Bamboo Hills di Segambut, Kuala Lumpur, diterajui oleh cef kelahiran Fukuoka, Masashi Horiuchi. Ia tersenarai dalam MICHELIN Guide Kuala Lumpur & Penang dan terkenal dengan teknik Perancis klasik, hasil bahan premium serta menu set berbilang hidangan."
 
 tier: "2"

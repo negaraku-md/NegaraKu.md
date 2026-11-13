@@ -9,7 +9,7 @@ heroCredit: "MichaelJLowe (Michael J. Lowe). / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.5"
 heroSource: "https://commons.wikimedia.org/wiki/File:Penang_laksa.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "My Own Cafe は、ペナン・ジョージタウンの Lebuh Cannon にある家族経営の屋台料理店で、MICHELIN Guide のビブグルマン（Bib Gourmand）を獲得しています。Penang asam laksa と Nyonya laksa、そして野菜を詰めた揚げ春巻きで知られ、Khoo Kongsi の宗祠からほど近い場所で供されます。"
 
 tier: "3"

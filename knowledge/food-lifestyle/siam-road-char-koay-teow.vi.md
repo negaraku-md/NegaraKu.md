@@ -9,7 +9,7 @@ heroCredit: "Ardzun / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Siam Road Char Koay Teow là một quầy ẩm thực đường phố trên Jalan Siam ở George Town, Penang, được MICHELIN Guide xếp hạng là lựa chọn Bib Gourmand. Nổi tiếng nhờ xào sợi phở gạo dẹt trên lửa than để tạo wok hei rõ rệt, quầy thu hút những hàng dài cho một món ăn duy nhất, tập trung."
 

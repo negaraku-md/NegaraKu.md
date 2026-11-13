@@ -8,7 +8,7 @@ heroCredit: "D.W. Fisher-Freberg / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Serabi_asli.JPG"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "ja"
 sourceContentHash: "cdf02a988ecac9d6"
 status: "published"

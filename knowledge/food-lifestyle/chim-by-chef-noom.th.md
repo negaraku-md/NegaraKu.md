@@ -4,7 +4,7 @@ title: "Chim by Chef Noom: ร้านอาหารไทยไฟน์ไ�
 seoTitle: "Chim by Chef Noom, กัวลาลัมเปอร์"
 slug: "chim-by-chef-noom"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Chim by Chef Noom เป็นร้านอาหารไทยไฟน์ไดนิ่งระดับมิชลินหนึ่งดาวใน TSLAW Tower ย่าน Imbi กัวลาลัมเปอร์ เป็นสาขามาเลเซียของเชฟชาวไทย Thaninthorn 'Noom' Chantrawan และเสิร์ฟเทสติ้งเมนูอาหารไทยร่วมสมัยที่หยั่งรากในขนบดั้งเดิม รวมถึงจานซิกเนเจอร์ที่นำเสนอว่าเป็นต้มยำ (tom yum) ในเวอร์ชันอายุ 200 ปี"
 
 tier: "2"

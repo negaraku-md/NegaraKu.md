@@ -9,7 +9,7 @@ heroCredit: "Andy Li / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File:%E6%AA%B3%E5%9F%8E%E7%99%BD%E5%92%96%E5%93%A9%E9%BA%B5.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hot Bowl White Curry Mee est une échoppe de nouilles de longue date située sur Jalan Rangoon, à George Town, Penang, titulaire d'un Bib Gourmand du Guide MICHELIN. Ouverte depuis 1992, elle est réputée pour son white curry mee : des nouilles dans un bouillon à base de lait de coco servies avec une pâte de curry remuée à la main à part, pour que chaque convive règle lui-même le piquant."
 
 tier: "3"

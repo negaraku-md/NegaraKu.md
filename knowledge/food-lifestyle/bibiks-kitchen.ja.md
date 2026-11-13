@@ -4,7 +4,7 @@ title: "Bibik's Kitchen：プラナカンの家庭料理のペナン・ビブグ
 seoTitle: "Bibik's Kitchen、ジョージタウン・ペナン"
 slug: "bibiks-kitchen"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Bibik's Kitchen は、ペナン・ジョージタウンの Jalan Sri Bahari にあるプラナカン料理店で、MICHELIN Guide のビブグルマン（Bib Gourmand）を獲得しています。店主が受け継いだニョニャの家族レシピを土台に、古典的なプラナカンの意匠で彩られ、jiu hu char や loh bak などの料理で知られ、三つの量で供されます。"
 
 tier: "3"

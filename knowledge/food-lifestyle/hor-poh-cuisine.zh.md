@@ -9,7 +9,7 @@ heroCredit: "Encik Tekateki / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Lei_cha_in_Johor,Malaysia.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hor Poh Cuisine 是吉隆坡 Segambut 的一家 MICHELIN Guide Bib Gourmand 客家餐厅。这家经营逾 20 年的朴实社区小店，以擂茶（thunder tea rice）——一道浇在饭上、带坚果香的青绿色汤品——与客家饺子闻名，价格实惠。"
 
 tier: "4"

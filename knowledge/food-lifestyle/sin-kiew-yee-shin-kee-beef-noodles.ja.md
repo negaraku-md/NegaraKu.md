@@ -9,7 +9,7 @@ heroCredit: "N509FZ / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Beef_noodle_soup_at_Dazangcun_(20210622125127).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Sin Kiew Yee Shin Kee Beef Noodles は、クアラルンプール中心部の Jalan Tun Tan Cheng Lock にある MICHELIN Guide の Bib Gourmand に選ばれた麺の店で、1949 年の屋台を源流とし、弾力のある牛肉団子、牛肉のスライス、柔らかな牛ハチノスを、選べる麺と自家製チリソースとともに供することで知られる。"
 
 tier: "4"

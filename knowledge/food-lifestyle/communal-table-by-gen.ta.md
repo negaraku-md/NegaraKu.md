@@ -4,7 +4,7 @@ title: "Communal Table by Gēn: George Town-இல் நவீன மலேச�
 seoTitle: "Communal Table by Gēn, George Town பினாங்கு"
 slug: "communal-table-by-gen"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 contentType: "place"
 lang: "ta"
 sourceContentHash: "35537b861b620fad"

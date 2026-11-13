@@ -9,7 +9,7 @@ heroCredit: "Alpha / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Mixed_Bak_Kut_Teh_-_Teochew_Bak_Kut_Teh_(4590434658).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Ah Hei Bak Kut Teh என்பது கோலாலம்பூர் Pudu, 33A Medan Imbi-இல் உள்ள ஒரு MICHELIN Bib Gourmand கடை. சுமார் 30 ஆண்டுகள் பழமையான இந்தக் கடை ஒவ்வொரு காலையிலும் சீன மூலிகைக் கலவையிலிருந்து தனது bak kut teh-ஐப் புதிதாகத் தயாரித்து, கரும், நறுமணமிக்க பன்றி விலா எலும்புச் சூப்பை பக்க உணவுகளுடன் வழங்குகிறது. இந்தப் பதிவு இது என்ன, அதன் சிறப்புச் சூப், வரலாறு, எப்படிச் செல்வது என்பவற்றை விளக்குகிறது."
 
 tier: "3"

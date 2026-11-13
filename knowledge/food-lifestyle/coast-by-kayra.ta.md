@@ -9,7 +9,7 @@ heroCredit: "Ramesh NG / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Kerala_spicy_Fish_Curry.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Coast by Kayra என்பது கோலாலம்பூர், Bukit Bintang-இல் The Starhill-இல் உள்ள ஒரு MICHELIN Guide Bib Gourmand இந்திய உணவகம். Kayra-வின் சகோதர நிறுவனமான இது, 'கடலிலிருந்து தட்டுக்கு' என்ற கொள்கையைப் பின்பற்றி, உள்ளூரில் பெறப்படும் கடல் உணவுடன் கேரள உணவுகளை மறுபடைப்பு செய்கிறது — அதன் சிறப்பு, பச்சை மாம்பழமும் தயிரும் கொண்ட, குடும்ப சமையல்குறிப்பு கேரள மீன் கறி."
 
 tier: "4"

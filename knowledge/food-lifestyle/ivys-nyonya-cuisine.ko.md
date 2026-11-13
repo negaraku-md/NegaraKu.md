@@ -4,7 +4,7 @@ title: "Ivy's Nyonya Cuisine: George Town의 프라나칸 터줏대감"
 seoTitle: "Ivy's Nyonya Cuisine, George Town 페낭"
 slug: "ivys-nyonya-cuisine"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 contentType: "place"
 lang: "ko"
 sourceContentHash: "06ede28407d72f6d"

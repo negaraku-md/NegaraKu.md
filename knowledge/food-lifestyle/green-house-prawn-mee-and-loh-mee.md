@@ -11,7 +11,7 @@ heroCredit: "Chensiyuan / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Hae_mee_prawn_noodle_sg.JPG"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 foodType: "place"
 lang: "en"
 masterLanguage: "en"

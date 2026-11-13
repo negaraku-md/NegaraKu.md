@@ -9,7 +9,7 @@ heroCredit: "Misaochan / Wikimedia Commons"
 heroLicense: "CC BY 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Hainanese_chicken_rice.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Nasi Ayam Hainan Chee Meng เป็นร้านผู้เชี่ยวชาญ Hainanese chicken rice ระดับ MICHELIN Bib Gourmand บน Jalan Kelang Lama กรุงกัวลาลัมเปอร์ บริหารโดยครอบครัวมาตั้งแต่ปี 1965 ร้านเสิร์ฟไก่นึ่งหรือไก่ทอดกับข้าวที่หุงด้วยไขมันไก่และน้ำสต๊อก โดยใช้ไก่ท้องถิ่นเพื่อเนื้อที่ติดมันน้อยกว่าและฉ่ำกว่า บทความนี้ครอบคลุมว่าร้านนี้คืออะไร เมนูเด่น ประวัติ และวิธีไปเยือน"
 
 tier: "3"

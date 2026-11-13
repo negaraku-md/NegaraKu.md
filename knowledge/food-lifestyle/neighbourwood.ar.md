@@ -4,7 +4,7 @@ title: "‏Neighbourwood: مائدة أوروبية حائزة على Bib Gourma
 seoTitle: "‏Neighbourwood، Seberang Perai — Bib Gourmand"
 slug: "neighbourwood"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "ar"
 sourceContentHash: "6e635b16df688923"
 masterLanguage: "en"

@@ -13,7 +13,7 @@ heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: "バクテー（肉骨茶）"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hing Kee Bakuteh は、クアラルンプールの 121 Jalan Kepong にある MICHELIN Bib Gourmand の bak kut teh 店です。古典的で穏やかな薬膳スープと、より濃厚なドライ版の両方を提供し、4軒のショップハウスにまたがって広がり、昼食時には満席になります。本稿では、この店が何か、名物料理、場所、訪れ方を紹介します。"
 
 tier: "3"

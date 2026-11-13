@@ -9,7 +9,7 @@ heroCredit: "N509FZ / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Beef_noodle_soup_at_Dazangcun_(20210622125127).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Sin Kiew Yee Shin Kee Beef Noodles là một quán mì được MICHELIN Guide gắn Bib Gourmand trên đường Jalan Tun Tan Cheng Lock ở trung tâm Kuala Lumpur, bắt nguồn từ một gánh hàng ăn năm 1949 và nổi tiếng với viên thịt bò dai giòn, thịt bò thái lát và sách bò mềm, dùng cùng mì tùy chọn và sốt ớt tự làm."
 
 tier: "4"

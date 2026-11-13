@@ -4,7 +4,7 @@ title: "Terra Dining: alta cocina malasia con una estrella MICHELIN en Kuala Lum
 seoTitle: "Terra Dining, Kuala Lumpur"
 slug: "terra-dining"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Terra Dining es un restaurante de alta cocina en Taman Tun Dr Ismail, Kuala Lumpur, galardonado con una estrella MICHELIN en la selección de la MICHELIN Guide Kuala Lumpur & Penang 2026. El chef autodidacta Chong construye un menú degustación de 11 platos de inclinación francesa sobre productos malasios, con platos como un bisque de langosta (lobster bisque) inspirado en el asam laksa y un beurre blanc al estilo masak lemak."
 
 tier: "2"

@@ -9,7 +9,7 @@ heroCredit: "MichaelJLowe (Michael J. Lowe). / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.5"
 heroSource: "https://commons.wikimedia.org/wiki/File:Penang_laksa.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "My Own Cafe adalah kedai jajanan kaki lima yang dikelola keluarga di Lebuh Cannon, George Town, Penang, yang menyandang Bib Gourmand dari MICHELIN Guide. Kedai ini terkenal dengan Penang asam laksa dan Nyonya laksa, serta lumpia goreng berisi sayur, disajikan hanya beberapa langkah dari rumah marga Khoo Kongsi."
 
 tier: "3"

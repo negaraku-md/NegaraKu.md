@@ -9,7 +9,7 @@ heroCredit: "Ramesh NG / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Kerala_spicy_Fish_Curry.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Coast by Kayra 是吉隆坡 Bukit Bintang、The Starhill 内的一家 MICHELIN Guide Bib Gourmand 印度餐厅。作为 Kayra 的姊妹店，它秉持「从海洋到餐盘」的理念，以在地采购的海鲜重新演绎喀拉拉菜肴——招牌是一道以家传食谱为本、加入青芒果与酸奶的喀拉拉鱼咖喱。"
 
 tier: "4"

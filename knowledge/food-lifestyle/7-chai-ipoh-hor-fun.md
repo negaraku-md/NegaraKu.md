@@ -11,7 +11,7 @@ heroCredit: "Sharon Hahn Darlin / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Hor_Fun,_Yinzo_Kopi,_Ipoh,_Malaysia.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 foodType: "place"
 summary: "7 Chai Ipoh Hor Fun is a MICHELIN Guide Bib Gourmand street-food shop in Pandan Perdana, Kuala Lumpur, that specialises in Ipoh-style hor fun — flat rice noodles in a clear broth simmered from chicken bones and shrimp heads, topped with shredded chicken and optional prawn wontons."
 

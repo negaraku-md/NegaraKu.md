@@ -13,7 +13,7 @@ heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: "บักกุ๋ยเต๋ย"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hing Kee Bakuteh เป็นร้าน bak kut teh ระดับ MICHELIN Bib Gourmand ที่ 121 Jalan Kepong กรุงกัวลาลัมเปอร์ เสิร์ฟทั้งน้ำซุปสมุนไพรแบบคลาสสิกที่รสอ่อนและเวอร์ชันแห้งที่เข้มข้นกว่า กระจายอยู่ในตึกแถวสี่คูหาที่เต็มแน่นในมื้อกลางวัน บทความนี้ครอบคลุมว่าร้านนี้คืออะไร เมนูเด่น ที่ตั้ง และวิธีไปเยือน"
 
 tier: "3"

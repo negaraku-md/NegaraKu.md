@@ -4,7 +4,7 @@ title: "Terra Dining: ไฟน์ไดนิ่งมาเลเซียร�
 seoTitle: "Terra Dining, กัวลาลัมเปอร์"
 slug: "terra-dining"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Terra Dining เป็นร้านไฟน์ไดนิ่งใน Taman Tun Dr Ismail กัวลาลัมเปอร์ ที่ได้รับหนึ่งดาวมิชลินในการคัดเลือก MICHELIN Guide Kuala Lumpur & Penang 2026 เชฟ Chong ซึ่งเรียนรู้ด้วยตนเอง สร้างสรรค์เมนูชิมแบบฝรั่งเศส 11 คอร์สบนวัตถุดิบท้องถิ่นมาเลเซีย โดยมีจานอย่างบิสก์กุ้งมังกร (lobster bisque) กลิ่นรส asam laksa และ beurre blanc สไตล์ masak lemak"
 
 tier: "2"

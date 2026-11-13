@@ -4,7 +4,7 @@ title: "Molina: கோலாலம்பூரின் ஒரு MICHELIN Star 
 seoTitle: "Molina: KL-ல் ஒரு MICHELIN Star உணவகம்"
 slug: "molina"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Molina என்பது கோலாலம்பூரில் THE FACE Style-இன் 51ஆவது மாடியில் உள்ள ஒரு புத்தாக்க ஃபைன் டைனிங் உணவகம். இது MICHELIN Guide Kuala Lumpur & Penang-இல் ஒரு MICHELIN Star வைத்துள்ளது, அதன் பட்டியல் பிரெஞ்சு, நார்டிக் மற்றும் ஆசிய தாக்கங்களைக் கலக்கும் புத்திசாலித்தனமான உணவுகளை, நகர வானளாவும் கோட்டின் பரந்த காட்சிகளுடன் வழங்குவதாக விவரிக்கிறது. இந்தச் சுயவிவரம் அதன் அங்கீகாரம், சமையல், சூழல் மற்றும் எப்படி வருகை தருவது என்பதை உள்ளடக்குகிறது."
 
 tier: "2"

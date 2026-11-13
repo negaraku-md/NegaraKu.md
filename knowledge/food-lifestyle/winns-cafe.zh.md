@@ -8,7 +8,7 @@ heroCredit: "Advocator SY"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@advocator_sy"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "zh"
 sourceContentHash: "af98d1d01822c0b6"
 masterLanguage: "en"

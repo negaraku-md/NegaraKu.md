@@ -4,7 +4,7 @@ title: "‏DC. by Darren Chin: مطعم كوالالمبور الفرنسي ال
 seoTitle: "‏DC. by Darren Chin: نجمة MICHELIN Star واحدة في KL"
 slug: "dc-by-darren-chin"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "‏DC. by Darren Chin مطعم fine dining فرنسي معاصر في Taman Tun Dr Ismail، كوالالمبور، من الشيف المالك Darren Chin. يحوز نجمة MICHELIN Star واحدة في MICHELIN Guide Kuala Lumpur & Penang، حيث يصف إدراجه قراءة فريدة للتقاليد الفرنسية بلمسات عالمية وماليزية. يتناول هذا الملف تكريمه، ومطبخه، وأجواءه، وكيفية زيارته."
 
 tier: "2"

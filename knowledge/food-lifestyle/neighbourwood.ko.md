@@ -4,7 +4,7 @@ title: "Neighbourwood: 페낭 본토의 Bib Gourmand 유러피언 식당"
 seoTitle: "Neighbourwood, Seberang Perai — Bib Gourmand"
 slug: "neighbourwood"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "ko"
 sourceContentHash: "6e635b16df688923"
 masterLanguage: "en"

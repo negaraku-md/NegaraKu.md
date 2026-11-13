@@ -9,7 +9,7 @@ heroCredit: "Chensiyuan / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Fish_head_curry_peranakan_z.JPG"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Auntie Gaik Lean's Old School Eatery เป็นร้านอาหารเปอรานากัน (ย่าหยา) ระดับหนึ่งดาวมิชลิน ตั้งอยู่บนถนน Lebuh Bishop ในจอร์จทาวน์ รัฐปีนัง ดำเนินงานโดยเชฟที่เรียนรู้ด้วยตนเอง Beh Gaik Lean เสิร์ฟอาหารย่าหยาตามตำรับที่เก็บรักษาไว้อย่างหวงแหน และได้ดาวดวงแรกในการคัดเลือกมิชลินครั้งแรกของมาเลเซียเมื่อปี 2022"
 
 tier: "2"

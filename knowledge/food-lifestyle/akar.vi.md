@@ -4,7 +4,7 @@ title: "Akar: Nhà hàng Malaysia hiện đại một MICHELIN Star của Kuala 
 seoTitle: "Akar: Nhà hàng một MICHELIN Star ở KL"
 slug: "akar"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Akar là một nhà hàng fine dining Malaysia hiện đại ở Taman Tun Dr Ismail, Kuala Lumpur. Nhà hàng giữ một MICHELIN Star trong MICHELIN Guide Kuala Lumpur & Penang, nơi mục niêm yết mô tả một thực đơn set tái chế biến các công thức châu Âu qua ảnh hưởng Nhật Bản, Pháp và Malaysia. Hồ sơ này bao quát sự ghi nhận, ẩm thực, không gian và cách ghé thăm."
 
 tier: "2"

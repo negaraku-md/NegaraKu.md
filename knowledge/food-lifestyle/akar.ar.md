@@ -4,7 +4,7 @@ title: "‏Akar: مطعم كوالالمبور الماليزي الحديث ا�
 seoTitle: "‏Akar: مطعم نجمة MICHELIN Star واحدة في KL"
 slug: "akar"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "‏Akar مطعم fine dining ماليزي حديث في Taman Tun Dr Ismail، كوالالمبور. يحوز نجمة MICHELIN Star واحدة في MICHELIN Guide Kuala Lumpur & Penang، حيث يصف إدراجه قائمة ثابتة تعيد صياغة وصفات أوروبية عبر تأثيرات يابانية وفرنسية وماليزية. يتناول هذا الملف تكريمه، ومطبخه، وأجواءه، وكيفية زيارته."
 
 tier: "2"

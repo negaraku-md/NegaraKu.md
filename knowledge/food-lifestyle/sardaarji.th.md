@@ -9,7 +9,7 @@ heroCredit: "Mohammad Fahim"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@dischef"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Sardaarji เป็นร้านอาหารปัญจาบและอินเดียเหนือบนถนน Lebuh China ในจอร์จทาวน์ ปีนัง ซึ่งได้รับ Bib Gourmand จาก MICHELIN Guide เริ่มต้นเป็นโครงการหลังเกษียณในปี 2018 ขึ้นชื่อเรื่องเมนูอย่าง fish amritsari และ palak paneer เสิร์ฟในห้องที่เต็มไปด้วยสีสันและเสียงดนตรี"
 
 tier: "3"

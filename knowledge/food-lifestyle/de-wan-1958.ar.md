@@ -3,7 +3,7 @@ topicId: MY-MICH-0014
 title: "De. Wan 1958: مطعم ماليزي حائز على Bib Gourmand للطاهي Chef Wan في كوالالمبور"
 slug: "de-wan-1958"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "ar"
 sourceContentHash: "ae1a13bf12dd65ed"
 masterLanguage: "en"

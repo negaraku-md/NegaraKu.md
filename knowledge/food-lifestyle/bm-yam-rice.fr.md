@@ -4,7 +4,7 @@ title: "BM Yam Rice : une gargote teochew Bib Gourmand à Bukit Mertajam"
 seoTitle: "BM Yam Rice"
 slug: "bm-yam-rice"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "BM Yam Rice est une petite gargote teochew sur Jalan Murthy, à Bukit Mertajam, Seberang Perai, Penang, reconnue dans le MICHELIN Guide. Ouverte depuis 2006, elle sert du yam rice avec une soupe de porc à la fois salée et sucrée d'une recette familiale, et c'est l'une des rares adresses de la Penang continentale figurant dans le Guide."
 

@@ -4,7 +4,7 @@ title: "Bibik's Kitchen: مطعم Bib Gourmand في بينانغ لطبخ الب
 seoTitle: "Bibik's Kitchen، George Town بينانغ"
 slug: "bibiks-kitchen"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "‏Bibik's Kitchen مطعم بيرانكان في شارع Jalan Sri Bahari بحي George Town في بينانغ، حائز على تصنيف Bib Gourmand من دليل MICHELIN. مبنيّ على وصفات عائلة النونيا المتوارثة لصاحبه ومُزيَّن بزخارف بيرانكان كلاسيكية، ويشتهر بأطباق مثل jiu hu char و loh bak، تُقدَّم في ثلاثة أحجام للحصص."
 
 tier: "3"

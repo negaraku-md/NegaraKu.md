@@ -4,7 +4,7 @@ title: "Dewakan：クアラルンプールの2つの MICHELIN Star レストラ�
 seoTitle: "Dewakan：KL の2つの MICHELIN Star レストラン"
 slug: "dewakan"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Dewakan は、クアラルンプールの Naza Tower 48階にあるファインダイニングレストランで、シェフ Darren Teoh が率いています。MICHELIN Guide Kuala Lumpur & Penang で2つの MICHELIN Star を保持し——マレーシア唯一の2-Star レストランであり——サステナビリティを称える MICHELIN Green Star も持ちます。本プロフィールでは、その評価、地元食材を中心とした料理、立地、そして訪れ方を取り上げます。"
 
 tier: "2"

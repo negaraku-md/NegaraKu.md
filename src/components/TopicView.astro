@@ -8,6 +8,7 @@ import PageHero from './PageHero.astro';
 import { stat } from '@/lib/pageStats';
 import ArticleList from './ArticleList.astro';
 import HubGroups from './HubGroups.astro';
+import { michelinListProps, michelinIntro } from '@/lib/michelin';
 
 // TOPIC (subcategory) page — the level between a category and an article.
 // A reader has narrowed to one task area (e.g. Corporate Tax) and wants every
@@ -28,6 +29,15 @@ const pillar = getPillar(categoryId);
 const pillarDef = pillar ? getPillarDef(pillar) : undefined;
 const label = subcatLabel(topic, locale);
 
+// The MICHELIN Guide is an ordinary subcategory, but its restaurants carry extra
+// collection facts — so this one topic renders the filterable card grid (Award /
+// State / Price / Edition) plus the annual-revision caveat, while every other
+// topic uses the standard list.
+const isMichelin = categoryId === 'food-lifestyle' && topic === 'michelin-guide';
+const mich = isMichelin ? michelinListProps(locale) : null;
+const michIntro = isMichelin ? michelinIntro(locale) : null;
+const michExplainerHref = localePath('/food-lifestyle/michelin-guide-malaysia', locale);
+
 // Sibling topics in this category — used for the hero's Topics stat.
 const catArticles = (await articlesForLocale(locale)).filter((a) => a.data.category === categoryId);
 const topics = orderedSubcats(categoryId, catArticles.flatMap((a) => a.data.subcategory), locale);
@@ -46,7 +56,22 @@ const topics = orderedSubcats(categoryId, catArticles.flatMap((a) => a.data.subc
   stats={[stat.pillars(PILLARS.length, locale), stat.categories(pillar ? categoriesInPillar(pillar).length : 0, locale), stat.subcategories(topics.length, locale), stat.topics(articles.length, locale)]}
 />
 
-<ArticleList locale={locale} articles={articles} filters={[]} homeCat={categoryId} />
+{
+  michIntro && (
+    <section class="container block mich-intro">
+      <a class="mich-explainer" href={michExplainerHref}>{michIntro.explainerLabel} →</a>
+      <p class="mich-note">{michIntro.note}</p>
+    </section>
+  )
+}
+
+{
+  mich ? (
+    <ArticleList locale={locale} articles={articles} filters={[]} homeCat={categoryId} facets={mich.facets} enrich={mich.enrich} layout="grid" />
+  ) : (
+    <ArticleList locale={locale} articles={articles} filters={[]} homeCat={categoryId} />
+  )
+}
 
 {
   pillar && (
@@ -60,3 +85,11 @@ const topics = orderedSubcats(categoryId, catArticles.flatMap((a) => a.data.subc
     />
   )
 }
+
+<style>
+  /* MICHELIN topic: explainer link + annual-revision caveat above the grid. */
+  .mich-intro { padding-top: 0; }
+  .mich-explainer { font-weight: 700; color: var(--gold); text-decoration: none; font-size: 0.95rem; }
+  .mich-explainer:hover { text-decoration: underline; }
+  .mich-note { margin: 0.4rem 0 0; color: var(--muted); font-size: 0.82rem; max-width: 70ch; line-height: 1.5; }
+</style>

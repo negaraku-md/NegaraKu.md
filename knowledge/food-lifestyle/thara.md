@@ -10,7 +10,7 @@ heroCredit: "Jamie Trinh"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@jtrinh_artwork"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 foodType: "place"
 lang: "en"
 masterLanguage: "en"

@@ -9,7 +9,7 @@ heroCredit: "Alpha from Melbourne, Australia / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Char_kway_teow_-_Old_Town_Kopitiam.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Penang Road Famous Jin Kor Char Kuey Teow es un puesto de comida callejera de larga trayectoria dentro de Joo Hooi Cafe, en Jalan Penang, George Town, incluido como selección Bib Gourmand de la MICHELIN Guide. Saltea char kuey teow al momento con gambas, berberechos de sangre, salchicha china y brotes de soja, con un wok hei intenso."
 

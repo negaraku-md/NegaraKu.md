@@ -4,7 +4,7 @@ title: "BM Yam Rice: ร้านแต้จิ๋วบิบ กูร์ม�
 seoTitle: "BM Yam Rice"
 slug: "bm-yam-rice"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "BM Yam Rice เป็นร้านแต้จิ๋วเล็ก ๆ บน Jalan Murthy ในบูกิตเมอร์ตาจัม เซอเบรังเปอไร ปีนัง ได้รับการยอมรับใน MICHELIN Guide เปิดมาตั้งแต่ปี 2006 เสิร์ฟข้าวเผือก (yam rice) กับซุปหมูรสเค็ม-หวานจากสูตรครอบครัว และเป็นหนึ่งในไม่กี่ร้านบนแผ่นดินใหญ่ปีนังที่อยู่ในไกด์"
 

@@ -9,7 +9,7 @@ heroCredit: "Mohammad Fahim"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@dischef"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Sardaarji என்பது பினாங்கு ஜார்ஜ் டவுனில் Lebuh China-வில் உள்ள ஒரு பஞ்சாபி மற்றும் வட இந்திய உணவகம், இது MICHELIN Guide Bib Gourmand அங்கீகாரம் பெற்றுள்ளது. 2018-இல் ஓய்வுக்காலத் திட்டமாகத் தொடங்கிய இது, fish amritsari மற்றும் palak paneer போன்ற உணவுகளுக்காக அறியப்படுகிறது, வண்ணமயமான, இசை நிறைந்த அறையில் பரிமாறப்படுகிறது."
 
 tier: "3"

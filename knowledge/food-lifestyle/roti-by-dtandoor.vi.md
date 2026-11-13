@@ -9,7 +9,7 @@ heroCredit: "amirali mirhashemian"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@amir_v_ali"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Roti by d'Tandoor là một nhà hàng Bắc Ấn được MICHELIN Guide gắn Bib Gourmand, đặt trong một ngôi nhà gần Jalan Ampang ở Kuala Lumpur. Là một phần của thương hiệu d'Tandoor khai trương tại Malaysia năm 1990, quán nấu các món Bắc Ấn theo công thức gia truyền, với butter chicken masala, naan mềm và kulfi nằm trong số những món MICHELIN nêu bật."
 
 tier: "4"

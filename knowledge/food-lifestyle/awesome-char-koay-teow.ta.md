@@ -9,7 +9,7 @@ heroCredit: "Cyaloamin / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:HK_Yau_Ma_Tei_%E6%96%87%E8%8F%AF%E6%96%B0%E9%82%A8_Man_Wah_Sun_Chuen_restaurant_food_%E7%82%92%E8%B2%B4%E5%88%81_Char_kway_teow_fried_noodle_June-2011.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Awesome Char Koay Teow என்பது ஜார்ஜ் டவுன், பினாங்கில் தஞ்சோங் பூங்காவில் New KK99 Cafe-இல் உள்ள ஒரு மூன்றாம் தலைமுறை தெரு உணவுக் கடை; இது MICHELIN Guide-இல் அங்கீகரிக்கப்பட்டுள்ளது. ஒவ்வொரு தட்டு char koay teow-வும் வலுவான wok hei உடன் ஆர்டருக்கேற்ப வறுக்கப்படுகிறது, மேலே பாதி வேகவைத்த முட்டை அல்லது சீஸ் விருப்பப்படி சேர்க்கலாம்."
 

@@ -9,7 +9,7 @@ heroCredit: "Misaochan / Wikimedia Commons"
 heroLicense: "CC BY 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Hainanese_chicken_rice.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Nasi Ayam Hainan Chee Meng هو مطعم متخصّص في Hainanese chicken rice حائز على MICHELIN Bib Gourmand في Jalan Kelang Lama، كوالالمبور، تديره عائلة منذ 1965. يقدّم دجاجاً مبخّراً أو مقلياً مع أرز مطهوّ بدهن الدجاج ومرقه، مستخدماً دجاجاً محلياً للحصول على لحم أقل دهناً وأكثر عصارة. يتناول هذا الملف ما هو المطعم، وطبقه المميّز، وتاريخه، وكيفية زيارته."
 
 tier: "3"

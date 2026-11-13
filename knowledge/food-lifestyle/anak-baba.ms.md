@@ -8,7 +8,7 @@ heroCredit: "Aldrin Rachman Pradana"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@aldrinrachmanpradana"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "ms"
 sourceContentHash: "e16f428c1b0bca5e"
 masterLanguage: "en"

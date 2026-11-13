@@ -9,7 +9,7 @@ heroCredit: "MichaelJLowe (Michael J. Lowe). / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.5"
 heroSource: "https://commons.wikimedia.org/wiki/File:Penang_laksa.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "My Own Cafe 是槟城乔治市大炮街（Lebuh Cannon）上一家家族经营的街头小吃店，获得《米其林指南》必比登推介（Bib Gourmand）。它以 Penang asam laksa 和 Nyonya laksa 闻名，另有蔬菜馅炸春卷，就在Khoo Kongsi宗祠几步之遥处供应。"
 
 tier: "3"

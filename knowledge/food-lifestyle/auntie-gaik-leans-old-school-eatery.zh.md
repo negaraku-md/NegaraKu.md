@@ -9,7 +9,7 @@ heroCredit: "Chensiyuan / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Fish_head_curry_peranakan_z.JPG"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Auntie Gaik Lean's Old School Eatery 是一家位于槟城乔治市 Lebuh Bishop 的米其林一星土生华人（娘惹，Peranakan/Nyonya）餐厅。由自学成才的主厨 Beh Gaik Lean 掌舵，以严守的祖传食谱呈献传统娘惹料理，并在 2022 年马来西亚首届米其林评选中首次摘星。"
 
 tier: "2"

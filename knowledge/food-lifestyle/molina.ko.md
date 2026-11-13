@@ -4,7 +4,7 @@ title: "Molina: 쿠알라룸푸르의 1개 MICHELIN Star 이노베이티브 레�
 seoTitle: "Molina: KL의 1개 MICHELIN Star 레스토랑"
 slug: "molina"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Molina는 쿠알라룸푸르 THE FACE Style 51층에 있는 이노베이티브 파인다이닝 레스토랑입니다. MICHELIN Guide Kuala Lumpur & Penang에서 1개의 MICHELIN Star를 보유하고 있으며, 그 등재는 프랑스·북유럽·아시아의 영향을 아우르는 독창적인 요리를 도시 스카이라인의 파노라마 전경과 함께 선보인다고 설명합니다. 이 프로필은 그 평가, 요리, 공간, 그리고 방문 방법을 다룹니다."
 
 tier: "2"

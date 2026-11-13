@@ -9,7 +9,7 @@ heroCredit: "Sharon Hahn Darlin / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Hor_Fun,_Yinzo_Kopi,_Ipoh,_Malaysia.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "7 Chai Ipoh Hor Fun adalah kedai makanan kaki lima MICHELIN Guide Bib Gourmand di Pandan Perdana, Kuala Lumpur, yang mengkhususkan diri pada hor fun gaya Ipoh — mi beras pipih dalam kuah bening yang direbus dari tulang ayam dan kepala udang, disajikan dengan ayam suwir serta pangsit udang sebagai tambahan opsional."
 
 tier: "4"

@@ -9,7 +9,7 @@ heroCredit: "amirali mirhashemian"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@amir_v_ali"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Roti by d'Tandoor مطعم شمال هندي حائز على MICHELIN Guide Bib Gourmand يقع في منزل قرب Jalan Ampang بكوالالمبور. وهو جزء من علامة d'Tandoor التي افتُتحت في ماليزيا عام 1990، يطهو مأكولات شمال الهند بوصفات عائلية، ومن الأطباق التي يبرزها MICHELIN: butter chicken masala، وخبز naan الطري، وحلوى kulfi."
 
 tier: "4"

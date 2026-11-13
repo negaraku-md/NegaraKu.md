@@ -9,7 +9,7 @@ heroCredit: "Mohammad Fahim"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@dischef"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Sardaarji est un restaurant pendjabi et nord-indien situé sur Lebuh China, à George Town, Penang, titulaire d'un Bib Gourmand du Guide MICHELIN. Lancé comme un projet de retraite en 2018, il est réputé pour des plats tels que le fish amritsari et le palak paneer, servis dans une salle colorée et emplie de musique."
 
 tier: "3"

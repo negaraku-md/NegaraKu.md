@@ -4,7 +4,7 @@ title: "Dewakan: ร้านอาหาร 2 MICHELIN Star แห่งกั�
 seoTitle: "Dewakan: ร้าน 2 MICHELIN Star ใน KL"
 slug: "dewakan"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Dewakan เป็นร้านอาหารไฟน์ไดนิงบนชั้น 48 ของ Naza Tower ในกัวลาลัมเปอร์ นำโดยเชฟ Darren Teoh ร้านครอง 2 MICHELIN Star ใน MICHELIN Guide Kuala Lumpur & Penang——เป็นร้าน 2-Star แห่งเดียวในมาเลเซีย——และยังได้ MICHELIN Green Star ด้านความยั่งยืน โปรไฟล์นี้ครอบคลุมการได้รับการยกย่อง อาหารที่เน้นวัตถุดิบท้องถิ่น บรรยากาศสถานที่ และวิธีไปเยือน"
 
 tier: "2"

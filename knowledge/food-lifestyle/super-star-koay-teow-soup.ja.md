@@ -9,7 +9,7 @@ heroCredit: "Misaochan2 / Wikimedia Commons"
 heroLicense: "CC BY 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Fishball_noodle_soup.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Super Star Koay Teow Soup は、ペナン・ジョージタウンの Lebuh Kimberley にある屋台で、MICHELIN Guide のビブグルマン（Bib Gourmand）を獲得しています。1960年から営み、いまは三代目。鶏肉、豚肉、魚団子、豚レバーを合わせた koay teow soup と、醤油で煮込んだ鶏の足で知られています。"
 
 tier: "3"

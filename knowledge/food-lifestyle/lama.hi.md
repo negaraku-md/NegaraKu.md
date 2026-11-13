@@ -4,7 +4,7 @@ title: "Lama: पुरावशेषों के बीच एक Bib Gourman
 seoTitle: "Lama (कुआलालंपुर)"
 slug: "lama"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Lama कुआलालंपुर का एक MICHELIN Bib Gourmand Peranakan रेस्तरां है, जिसे 2026 में गाइड की Kuala Lumpur और Penang चयन सूची में जोड़ा गया। एक पिता-और-पुत्री की टीम साझा करने के लिए बने प्रामाणिक घरेलू नोन्या व्यंजन पकाती है, एक ऐसे अंदरूनी स्थान में जो मालिक के चुने हुए पुरावशेष संग्रह से भरा है। यह प्रोफ़ाइल बताती है कि यह क्या है, इसका खास भोजन, माहौल और कैसे जाएं।"
 
 tier: "3"

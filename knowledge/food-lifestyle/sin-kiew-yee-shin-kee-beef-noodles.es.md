@@ -9,7 +9,7 @@ heroCredit: "N509FZ / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Beef_noodle_soup_at_Dazangcun_(20210622125127).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Sin Kiew Yee Shin Kee Beef Noodles es un local de fideos con Bib Gourmand de la MICHELIN Guide en Jalan Tun Tan Cheng Lock, en el centro de Kuala Lumpur, heredero de un puesto de comida de 1949 y conocido por sus elásticas albóndigas de res, la res en lonchas y el tierno mondongo de res, servidos sobre una selección de fideos con salsa de chile casera."
 
 tier: "4"

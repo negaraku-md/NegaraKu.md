@@ -4,7 +4,7 @@ title: "Molina: el restaurante innovador de una MICHELIN Star de Kuala Lumpur"
 seoTitle: "Molina: restaurante de una MICHELIN Star en KL"
 slug: "molina"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Molina es un restaurante de alta cocina innovadora en el piso 51 de THE FACE Style, en Kuala Lumpur. Posee una MICHELIN Star en la MICHELIN Guide Kuala Lumpur & Penang, cuya ficha describe platos inventivos que combinan influencias francesas, nórdicas y asiáticas, servidos con vistas panorámicas del horizonte de la ciudad. Este perfil cubre su reconocimiento, su cocina, su entorno y cómo visitarlo."
 
 tier: "2"

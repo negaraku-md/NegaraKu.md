@@ -11,7 +11,7 @@ heroCredit: "Mohammad Fahim"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@dischef"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 foodType: "place"
 summary: "Sardaarji is a Punjabi and Northern Indian restaurant on Lebuh China in George Town, Penang, holding a MICHELIN Guide Bib Gourmand. Started as a retirement project in 2018, it is known for dishes such as fish amritsari and palak paneer, served in a colourful, music-filled room."
 

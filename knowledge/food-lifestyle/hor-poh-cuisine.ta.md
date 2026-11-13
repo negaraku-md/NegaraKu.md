@@ -9,7 +9,7 @@ heroCredit: "Encik Tekateki / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Lei_cha_in_Johor,Malaysia.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hor Poh Cuisine என்பது கோலாலம்பூர், Segambut-இல் உள்ள ஒரு MICHELIN Guide Bib Gourmand Hakka உணவகம். 20 ஆண்டுகளுக்கும் மேலான ஒரு எளிய அக்கம்பக்கக் கடையான இது, அதன் lei cha (thunder tea rice) — அரிசி மேல் ஊற்றப்படும், கொட்டைச் சுவை கொண்ட பச்சை சூப் — மற்றும் Hakka டம்ப்ளிங்ஸ் ஆகியவற்றுக்கு, மலிவான விலையில், அறியப்படுகிறது."
 
 tier: "4"

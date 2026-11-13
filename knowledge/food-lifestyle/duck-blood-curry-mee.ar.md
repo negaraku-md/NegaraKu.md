@@ -9,7 +9,7 @@ heroCredit: "JB Macatulad / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Duck Blood Curry Mee متجر طعام شارع في Jalan Burma بجورج تاون، بينانغ، أدرجه MICHELIN Guide بوصفه اختيار Bib Gourmand. مختبئ داخل مقهى بالطراز الماليزي، يقدّم curry mee في قاعدة كاري بيضاء مالحة-حلوة من حليب جوز الهند، مع لحم الخنزير المشوي بوصفه إضافةً بارزة."
 

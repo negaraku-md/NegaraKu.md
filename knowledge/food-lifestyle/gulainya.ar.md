@@ -3,7 +3,7 @@ topicId: MY-MICH-0015
 title: "Gulainya: مطعم بيرانكان حاصل على Bib Gourmand في كوالالمبور"
 slug: "gulainya"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "ar"
 sourceContentHash: "4caedcdc4a962ae8"
 masterLanguage: "en"

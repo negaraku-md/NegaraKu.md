@@ -13,7 +13,7 @@ heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: "बाक कुट तेह"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hing Kee Bakuteh कुआलालंपुर के 121 Jalan Kepong पर स्थित एक MICHELIN Bib Gourmand bak kut teh की दुकान है। यह क्लासिक हल्के हर्बल सूप और एक अधिक गाढ़े सूखे संस्करण दोनों को परोसती है, जो चार दुकान-घरों में फैली है और दोपहर के भोजन के समय खचाखच भर जाती है। यह प्रोफ़ाइल बताती है कि यह क्या है, इसके खास व्यंजन, स्थान और कैसे जाएं।"
 
 tier: "3"

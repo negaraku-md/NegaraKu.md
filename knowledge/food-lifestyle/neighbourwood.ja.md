@@ -4,7 +4,7 @@ title: "Neighbourwood：ペナン本土のBib Gourmandヨーロッパ料理店"
 seoTitle: "Neighbourwood、Seberang Perai — Bib Gourmand"
 slug: "neighbourwood"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "ja"
 sourceContentHash: "6e635b16df688923"
 masterLanguage: "en"

@@ -9,7 +9,7 @@ heroCredit: "Alpha / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Mixed_Bak_Kut_Teh_-_Teochew_Bak_Kut_Teh_(4590434658).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Ah Hei Bak Kut Teh là một quán đạt MICHELIN Bib Gourmand tại 33A Medan Imbi, Pudu, Kuala Lumpur. Cơ sở khoảng 30 năm tuổi này nấu bak kut teh tươi mỗi sáng từ một hỗn hợp thảo mộc Trung Hoa, phục vụ món canh sườn heo sẫm màu, thơm cùng các món phụ. Bài viết này trình bày quán là gì, món canh đặc trưng, lịch sử và cách ghé thăm."
 
 tier: "3"

@@ -9,7 +9,7 @@ heroCredit: "Alpha / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Mixed_Bak_Kut_Teh_-_Teochew_Bak_Kut_Teh_(4590434658).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Ah Hei Bak Kut Teh เป็นร้านระดับ MICHELIN Bib Gourmand ที่ 33A Medan Imbi, Pudu กรุงกัวลาลัมเปอร์ กิจการที่มีอายุราว 30 ปีนี้ต้ม bak kut teh สดใหม่ทุกเช้าจากส่วนผสมสมุนไพรจีน เสิร์ฟน้ำซุปซี่โครงหมูสีเข้มหอมกรุ่นพร้อมเครื่องเคียง บทความนี้ครอบคลุมว่าร้านนี้คืออะไร ซุปเด่น ประวัติ และวิธีไปเยือน"
 
 tier: "3"

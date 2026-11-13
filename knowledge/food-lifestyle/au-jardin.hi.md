@@ -4,7 +4,7 @@ title: "Au Jardin: जॉर्ज टाउन, पेनांग में �
 seoTitle: "Au Jardin, जॉर्ज टाउन, पेनांग"
 slug: "au-jardin"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Au Jardin जॉर्ज टाउन, पेनांग के Hin Bus Depot कला-स्थल में स्थित एक-MICHELIN-स्टार यूरोपीय समकालीन रेस्तराँ है। शेफ-मालिक Kim Hock Su के नेतृत्व में यह हर महीने बदलने वाला टेस्टिंग मेनू (tasting menu) परोसता है, जिसमें स्थानीय स्पर्श लिए रचनात्मक यूरोपीय व्यंजन होते हैं; हस्ताक्षर व्यंजनों में hay-aged Penang duck शामिल है।"
 
 tier: "2"

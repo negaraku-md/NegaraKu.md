@@ -9,7 +9,7 @@ heroCredit: "Sharon Hahn Darlin / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Hor_Fun,_Yinzo_Kopi,_Ipoh,_Malaysia.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "7 Chai Ipoh Hor Fun هو محل طعام شارع حائز على MICHELIN Guide Bib Gourmand في Pandan Perdana بكوالالمبور، متخصص في hor fun على الطريقة الإيبوهية — نودلز أرز مسطحة في مرق صافٍ يُطهى على نار هادئة من عظام الدجاج ورؤوس الروبيان، يُزيَّن بدجاج مُقطَّع خيوطًا مع وونتون روبيان اختياري."
 
 tier: "4"

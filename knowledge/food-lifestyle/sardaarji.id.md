@@ -9,7 +9,7 @@ heroCredit: "Mohammad Fahim"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@dischef"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Sardaarji adalah restoran Punjabi dan India Utara di Lebuh China, George Town, Penang, yang menyandang Bib Gourmand dari MICHELIN Guide. Dimulai sebagai proyek masa pensiun pada 2018, restoran ini terkenal dengan hidangan seperti fish amritsari dan palak paneer, yang disajikan di ruangan penuh warna dan diiringi musik."
 
 tier: "3"

@@ -4,7 +4,7 @@ title: "Lama: Dapur Nyonya Bib Gourmand dalam Kalangan Barang Antik"
 seoTitle: "Lama (Kuala Lumpur)"
 slug: "lama"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Lama ialah restoran Peranakan MICHELIN Bib Gourmand di Kuala Lumpur, ditambah ke pemilihan Kuala Lumpur dan Penang Panduan pada 2026. Pasukan bapa-dan-anak perempuan memasak hidangan Nyonya gaya rumah yang tulen untuk dikongsi, dalam ruang dalaman yang dipenuhi koleksi barang antik pilihan pemiliknya. Profil ini merangkumi apa itu, makanan istimewanya, suasananya dan cara untuk melawat."
 
 tier: "3"

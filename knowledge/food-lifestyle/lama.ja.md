@@ -4,7 +4,7 @@ title: "Lama：骨董に囲まれた Bib Gourmand のニョニャ厨房"
 seoTitle: "Lama（クアラルンプール）"
 slug: "lama"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Lama はクアラルンプールの MICHELIN Bib Gourmand の Peranakan レストランで、2026年にガイドの Kuala Lumpur と Penang のセレクションに加わりました。父娘のチームが、分け合うための本格的な家庭風ニョニャ料理を、オーナーが厳選した骨董コレクションで満たされた店内で作ります。本稿では、この店が何か、名物料理、空間、訪れ方を紹介します。"
 
 tier: "3"

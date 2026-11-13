@@ -3,7 +3,7 @@ topicId: MY-MICH-0015
 title: "Gulainya: 쿠알라룸푸르의 Bib Gourmand Peranakan 레스토랑"
 slug: "gulainya"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "ko"
 sourceContentHash: "4caedcdc4a962ae8"
 masterLanguage: "en"

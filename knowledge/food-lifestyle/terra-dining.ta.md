@@ -4,7 +4,7 @@ title: "Terra Dining: கோலாலம்பூரில் ஒரு MICHELIN
 seoTitle: "Terra Dining, கோலாலம்பூர்"
 slug: "terra-dining"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Terra Dining என்பது கோலாலம்பூரின் Taman Tun Dr Ismail பகுதியில் உள்ள ஒரு ஃபைன் டைனிங் உணவகம் ஆகும்; இது MICHELIN Guide Kuala Lumpur & Penang 2026 தேர்வில் ஒரு MICHELIN நட்சத்திரம் பெற்றது. சுயமாகக் கற்ற Chef Chong, மலேசிய உள்ளூர் பொருட்களைக் கொண்டு பிரெஞ்சு சாய்வுள்ள 11-படி ருசி மெனுவை உருவாக்குகிறார்; asam laksa சுவையிலான lobster bisque, masak lemak பாணியிலான beurre blanc போன்ற உணவுகள் இதில் அடங்கும்."
 
 tier: "2"

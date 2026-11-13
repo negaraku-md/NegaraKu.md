@@ -4,7 +4,7 @@ title: "Potager: ร้านอาหารฝรั่งเศสร่วม
 seoTitle: "Potager, กัวลาลัมเปอร์"
 slug: "potager"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Potager เป็นร้านอาหารฝรั่งเศสร่วมสมัยที่ตั้งอยู่ในย่านสวน Bamboo Hills ในเซกัมบุต (Segambut) กัวลาลัมเปอร์ นำทีมโดยเชฟ Masashi Horiuchi ชาวฟูกูโอกะ ร้านนี้ได้รับการจัดอันดับใน MICHELIN Guide Kuala Lumpur & Penang และเป็นที่รู้จักในด้านเทคนิคฝรั่งเศสคลาสสิก วัตถุดิบระดับพรีเมียม และเมนูเซ็ตหลายคอร์ส"
 
 tier: "2"

@@ -4,7 +4,7 @@ title: "Hai Kah Lang: Bib Gourmand Seafood Noodles in Taman Cheras"
 seoTitle: "Hai Kah Lang (Taman Cheras)"
 slug: "hai-kah-lang"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 foodType: "place"
 
 tier: "2"

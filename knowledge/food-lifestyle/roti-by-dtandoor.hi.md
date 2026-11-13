@@ -9,7 +9,7 @@ heroCredit: "amirali mirhashemian"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@amir_v_ali"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Roti by d'Tandoor कुआलालंपुर में Jalan Ampang से थोड़ा हटकर एक घर में स्थित MICHELIN Guide Bib Gourmand उत्तर भारतीय रेस्तराँ है। 1990 में मलेशिया में खुले d'Tandoor ब्रांड का हिस्सा, यह पारिवारिक व्यंजनों पर आधारित उत्तर भारतीय भोजन बनाता है, जिसमें butter chicken masala, मुलायम नान और कुल्फी उन व्यंजनों में हैं जिन्हें MICHELIN रेखांकित करता है।"
 
 tier: "4"

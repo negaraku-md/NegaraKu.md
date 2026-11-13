@@ -4,7 +4,7 @@ title: "BM Yam Rice: Một quán Triều Châu Bib Gourmand ở Bukit Mertajam"
 seoTitle: "BM Yam Rice"
 slug: "bm-yam-rice"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "BM Yam Rice là một quán Triều Châu nhỏ trên Jalan Murthy ở Bukit Mertajam, Seberang Perai, Penang, được MICHELIN Guide công nhận. Mở cửa từ năm 2006, quán phục vụ yam rice với món canh thịt heo mặn-ngọt theo công thức gia truyền, và là một trong số ít quán ăn ở phần đất liền Penang có trong Guide."
 

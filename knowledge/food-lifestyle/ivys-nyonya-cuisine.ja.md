@@ -4,7 +4,7 @@ title: "Ivy's Nyonya Cuisine：George Townのプラナカンの老舗"
 seoTitle: "Ivy's Nyonya Cuisine、George Town ペナン"
 slug: "ivys-nyonya-cuisine"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 contentType: "place"
 lang: "ja"
 sourceContentHash: "06ede28407d72f6d"

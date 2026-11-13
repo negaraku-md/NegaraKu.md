@@ -9,7 +9,7 @@ heroCredit: "Encik Tekateki / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Lei_cha_in_Johor,Malaysia.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hor Poh Cuisine là một nhà hàng Hakka được MICHELIN Guide gắn Bib Gourmand ở Segambut, Kuala Lumpur. Là một quán khu phố giản dị đã hơn 20 năm, quán nổi tiếng với lei cha (thunder tea rice) — một món súp xanh vị bùi chan lên cơm — và sủi cảo Hakka, bán với giá bình dân."
 
 tier: "4"

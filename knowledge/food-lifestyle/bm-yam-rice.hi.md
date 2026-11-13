@@ -4,7 +4,7 @@ title: "BM Yam Rice: बुकित मेरताजाम की एक त�
 seoTitle: "BM Yam Rice"
 slug: "bm-yam-rice"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "BM Yam Rice पेनांग के सेबेरांग पेराई में बुकित मेरताजाम के Jalan Murthy पर एक छोटी तेओचew (Teochew) दुकान है, जिसे MICHELIN Guide में मान्यता प्राप्त है। 2006 से खुली, यह पारिवारिक नुस्खे से yam rice को नमकीन-मीठे सूअर के सूप के साथ परोसती है, और Guide में शामिल पेनांग की मुख्य-भूमि की कुछ भोजनशालाओं में से एक है।"
 

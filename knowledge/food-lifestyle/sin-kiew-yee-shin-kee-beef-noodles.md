@@ -11,7 +11,7 @@ heroCredit: "N509FZ / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Beef_noodle_soup_at_Dazangcun_(20210622125127).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 foodType: "place"
 summary: "Sin Kiew Yee Shin Kee Beef Noodles is a MICHELIN Guide Bib Gourmand noodle shop on Jalan Tun Tan Cheng Lock in Kuala Lumpur's city centre, descended from a 1949 food stall and known for springy beef meatballs, sliced beef and tender beef tripe served over a choice of noodles with home-made chilli sauce."
 

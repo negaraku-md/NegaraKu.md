@@ -9,7 +9,7 @@ heroCredit: "Encik Tekateki / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Lei_cha_in_Johor,Malaysia.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hor Poh Cuisine は、クアラルンプールの Segambut にある MICHELIN Guide の Bib Gourmand に選ばれた客家料理店。20 年以上続く素朴な地域の店で、lei cha（thunder tea rice）——ご飯にかける、香ばしいナッツ風味の緑色のスープ——と客家餃子を、手頃な値段で供することで知られる。"
 
 tier: "4"

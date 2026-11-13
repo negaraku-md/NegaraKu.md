@@ -13,7 +13,7 @@ heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: "باك كوت تيه"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hing Kee Bakuteh هو مطعم bak kut teh حائز على MICHELIN Bib Gourmand في 121 Jalan Kepong بكوالالمبور. يقدّم حساء الأعشاب الكلاسيكي الخفيف والنسخة الجافة الأكثر كثافة معاً، وينتشر عبر أربعة محلات تمتلئ وقت الغداء. يتناول هذا الملف ما هو المطعم، وأطباقه المميّزة، وموقعه، وكيفية زيارته."
 
 tier: "3"

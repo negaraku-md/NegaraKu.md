@@ -9,7 +9,7 @@ heroCredit: "Alpha / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Mixed_Bak_Kut_Teh_-_Teochew_Bak_Kut_Teh_(4590434658).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Ah Hei Bak Kut Teh 是位于吉隆坡 Pudu 33A Medan Imbi 的一家 MICHELIN Bib Gourmand 店。这家约有30年历史的店每天清晨以多种中药材新鲜熬制 bak kut teh，端出一锅深色、芳香的排骨汤，并佐以各式小菜。本篇介绍这是什么、招牌汤品、历史，以及如何前往。"
 
 tier: "3"

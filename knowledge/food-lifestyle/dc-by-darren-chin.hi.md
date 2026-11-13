@@ -4,7 +4,7 @@ title: "DC. by Darren Chin: कुआलालंपुर का एक MICHELI
 seoTitle: "DC. by Darren Chin: KL में एक MICHELIN Star"
 slug: "dc-by-darren-chin"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "DC. by Darren Chin कुआलालंपुर के Taman Tun Dr Ismail में एक फ़्रेंच समकालीन फाइन डाइनिंग रेस्तराँ है, जो शेफ-मालिक Darren Chin का है। यह MICHELIN Guide Kuala Lumpur & Penang में एक MICHELIN Star रखता है, जहाँ इसकी लिस्टिंग वैश्विक और मलेशियाई लहजे के साथ फ़्रेंच परंपराओं की एक अनूठी व्याख्या का वर्णन करती है। यह प्रोफ़ाइल इसकी मान्यता, व्यंजन, परिवेश और इसे देखने के तरीके को शामिल करती है।"
 
 tier: "2"

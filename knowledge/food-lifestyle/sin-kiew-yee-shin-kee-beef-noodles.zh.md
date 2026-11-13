@@ -9,7 +9,7 @@ heroCredit: "N509FZ / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Beef_noodle_soup_at_Dazangcun_(20210622125127).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Sin Kiew Yee Shin Kee Beef Noodles 是吉隆坡市中心 Jalan Tun Tan Cheng Lock 上一家 MICHELIN Guide Bib Gourmand 面食小店，源自 1949 年的一个熟食摊，以弹牙的牛肉丸、牛肉片与软嫩的牛肚闻名，配上多款面条与自制辣椒酱。"
 
 tier: "4"

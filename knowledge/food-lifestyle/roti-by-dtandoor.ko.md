@@ -9,7 +9,7 @@ heroCredit: "amirali mirhashemian"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@amir_v_ali"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Roti by d'Tandoor는 쿠알라룸푸르 Jalan Ampang에서 살짝 들어간 주택에 자리한 MICHELIN Guide Bib Gourmand 북인도 요리점이다. 1990년 말레이시아에서 문을 연 d'Tandoor 브랜드의 일원으로, 가족 전래 레시피에 바탕을 둔 북인도 요리를 선보이며, MICHELIN은 버터 치킨 마살라, 부드러운 naan, kulfi 등을 꼽는다."
 
 tier: "4"

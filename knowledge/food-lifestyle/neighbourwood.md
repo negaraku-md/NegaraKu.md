@@ -4,7 +4,7 @@ title: "Neighbourwood: A Bib Gourmand European Table on Penang's Mainland"
 seoTitle: "Neighbourwood, Seberang Perai — Bib Gourmand"
 slug: "neighbourwood"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 foodType: "place"
 lang: "en"
 masterLanguage: "en"

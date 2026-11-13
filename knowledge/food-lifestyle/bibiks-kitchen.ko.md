@@ -4,7 +4,7 @@ title: "Bibik's Kitchen: 프라나칸 가정식을 위한 페낭의 빕 구르�
 seoTitle: "Bibik's Kitchen, 조지타운 페낭"
 slug: "bibiks-kitchen"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Bibik's Kitchen는 페낭 조지타운의 Jalan Sri Bahari에 있는 프라나칸 레스토랑으로, MICHELIN Guide 빕 구르망(Bib Gourmand)을 보유하고 있습니다. 주인이 물려받은 뇨냐 가족 레시피를 바탕으로 하고 고전적인 프라나칸 문양으로 꾸며졌으며, jiu hu char와 loh bak 같은 요리로 유명하고 세 가지 양으로 제공됩니다."
 
 tier: "3"

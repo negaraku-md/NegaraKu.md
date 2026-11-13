@@ -4,7 +4,7 @@ title: "Molina: कुआलालंपुर का एक MICHELIN Star इ�
 seoTitle: "Molina: KL में एक MICHELIN Star रेस्तराँ"
 slug: "molina"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Molina कुआलालंपुर में THE FACE Style की 51वीं मंज़िल पर एक इनोवेटिव फाइन डाइनिंग रेस्तराँ है। यह MICHELIN Guide Kuala Lumpur & Penang में एक MICHELIN Star रखता है, जहाँ इसकी लिस्टिंग फ़्रेंच, नॉर्डिक और एशियाई प्रभावों को मिलाने वाले आविष्कारशील व्यंजनों का वर्णन करती है, जो शहर की क्षितिज-रेखा के मनोरम दृश्यों के साथ परोसे जाते हैं। यह प्रोफ़ाइल इसकी मान्यता, व्यंजन, परिवेश और इसे देखने के तरीके को शामिल करती है।"
 
 tier: "2"

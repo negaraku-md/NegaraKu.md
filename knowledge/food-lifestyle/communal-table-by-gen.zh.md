@@ -4,7 +4,7 @@ title: "Communal Table by Gēn：乔治市的现代马来西亚菜"
 seoTitle: "Communal Table by Gēn，乔治市槟城"
 slug: "communal-table-by-gen"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 contentType: "place"
 lang: "zh"
 sourceContentHash: "35537b861b620fad"

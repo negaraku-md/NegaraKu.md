@@ -9,7 +9,7 @@ heroCredit: "Kirill Tonkikh"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@photophotostock"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 tier: "2"
 mode: "narrative"

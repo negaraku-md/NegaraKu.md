@@ -9,7 +9,7 @@ heroCredit: "Misaochan / Wikimedia Commons"
 heroLicense: "CC BY 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Hainanese_chicken_rice.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Nasi Ayam Hainan Chee Meng est un spécialiste du Hainanese chicken rice MICHELIN Bib Gourmand sur Jalan Kelang Lama, Kuala Lumpur, en gestion familiale depuis 1965. Il sert du poulet vapeur ou frit avec un riz cuit dans la graisse et le bouillon de poulet, en utilisant du poulet local pour une viande plus maigre et plus juteuse. Ce profil présente ce que c'est, son plat signature, son histoire et comment s'y rendre."
 
 tier: "3"

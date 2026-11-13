@@ -9,7 +9,7 @@ heroCredit: "Ceeseven / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Crispy_Roasted_Pork_Belly_with_Rice.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "hi"
 sourceContentHash: "75d19bc642ed2a4f"
 masterLanguage: "en"

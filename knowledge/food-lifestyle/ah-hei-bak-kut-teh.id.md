@@ -9,7 +9,7 @@ heroCredit: "Alpha / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Mixed_Bak_Kut_Teh_-_Teochew_Bak_Kut_Teh_(4590434658).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Ah Hei Bak Kut Teh adalah kedai MICHELIN Bib Gourmand di 33A Medan Imbi, Pudu, Kuala Lumpur. Usaha berusia sekitar 30 tahun ini membuat bak kut teh segar setiap pagi dari campuran herbal Tionghoa, menyajikan sup iga babi yang gelap dan harum bersama lauk pendamping. Profil ini membahas apa itu, sup khasnya, sejarahnya, dan cara berkunjung."
 
 tier: "3"

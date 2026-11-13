@@ -4,7 +4,7 @@ title: "BM Yam Rice: 부킷 머르타잠의 차오저우식 빕 구르망 가게
 seoTitle: "BM Yam Rice"
 slug: "bm-yam-rice"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "BM Yam Rice는 페낭 스브랑 프라이의 부킷 머르타잠 Jalan Murthy에 있는 작은 차오저우(Teochew)식 가게로, MICHELIN Guide에 등재되었습니다. 2006년부터 영업하며 가족 요리법에 따른 yam rice를 짭조름하고 달큰한 돼지고기 국과 함께 내며, Guide에 오른 몇 안 되는 페낭 본토 식당 중 하나입니다."
 

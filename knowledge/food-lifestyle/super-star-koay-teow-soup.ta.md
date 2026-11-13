@@ -9,7 +9,7 @@ heroCredit: "Misaochan2 / Wikimedia Commons"
 heroLicense: "CC BY 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Fishball_noodle_soup.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Super Star Koay Teow Soup என்பது பினாங்கு ஜார்ஜ் டவுனில் Lebuh Kimberley-இல் உள்ள ஒரு தெரு உணவு வண்டி, இது MICHELIN Guide Bib Gourmand அங்கீகாரம் பெற்றுள்ளது. 1960 முதல் இயங்கி வரும் இது இப்போது மூன்றாம் தலைமுறையில் உள்ளது, கோழி, பன்றி இறைச்சி, மீன் பந்துகள் மற்றும் பன்றி ஈரல் கொண்ட koay teow soup-க்காகவும், சோயாவில் பதப்படுத்தப்பட்ட கோழிக் கால்களுக்காகவும் அறியப்படுகிறது."
 
 tier: "3"

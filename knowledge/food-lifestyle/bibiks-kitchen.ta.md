@@ -4,7 +4,7 @@ title: "Bibik's Kitchen: பெரானாக்கான் வீட்டு
 seoTitle: "Bibik's Kitchen, ஜார்ஜ் டவுன் பினாங்கு"
 slug: "bibiks-kitchen"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Bibik's Kitchen என்பது பினாங்கு ஜார்ஜ் டவுனில் Jalan Sri Bahari-இல் உள்ள ஒரு பெரானாக்கான் உணவகம், இது MICHELIN Guide Bib Gourmand அங்கீகாரம் பெற்றுள்ளது. உரிமையாளரின் பரம்பரை நோன்யா குடும்ப செய்முறைகளின் அடிப்படையில் கட்டமைக்கப்பட்டு, பாரம்பரிய பெரானாக்கான் வடிவங்களால் அலங்கரிக்கப்பட்ட இது, jiu hu char மற்றும் loh bak போன்ற உணவுகளுக்காக அறியப்படுகிறது, மூன்று பகுதி அளவுகளில் பரிமாறப்படுகிறது."
 
 tier: "3"

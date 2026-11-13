@@ -9,7 +9,7 @@ heroCredit: "Andy Li / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File:%E6%AA%B3%E5%9F%8E%E7%99%BD%E5%92%96%E5%93%A9%E9%BA%B5.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hot Bowl White Curry Mee adalah kedai mi lama di Jalan Rangoon, George Town, Penang, yang menyandang Bib Gourmand dari MICHELIN Guide. Buka sejak 1992, kedai ini terkenal dengan white curry mee — mi dalam kuah berbahan santan yang disajikan dengan pasta kari aduk tangan di sampingnya sehingga pengunjung sendiri menentukan tingkat kepedasannya."
 
 tier: "3"

@@ -9,7 +9,7 @@ heroCredit: "Chensiyuan / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Fish_head_curry_peranakan_z.JPG"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Auntie Gaik Lean's Old School Eatery는 페낭 조지타운 Lebuh Bishop에 있는 미쉐린 1스타 페라나칸(뇨냐) 레스토랑이다. 독학으로 요리를 익힌 셰프 Beh Gaik Lean이 운영하며, 철저히 지켜 온 레시피로 전통 뇨냐 요리를 선보인다. 2022년 말레이시아 최초의 미쉐린 선정에서 첫 별을 받았다."
 
 tier: "2"

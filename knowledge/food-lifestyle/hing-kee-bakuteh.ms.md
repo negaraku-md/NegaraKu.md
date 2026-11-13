@@ -13,7 +13,7 @@ heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: "Bak kut teh"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hing Kee Bakuteh ialah kedai bak kut teh MICHELIN Bib Gourmand di 121 Jalan Kepong, Kuala Lumpur. Ia menyajikan kedua-dua sup herba klasik yang lembut dan versi kering yang lebih pekat, tersebar merentasi empat buah rumah kedai yang penuh sesak ketika waktu makan tengah hari. Profil ini merangkumi apa itu, hidangan istimewanya, lokasinya dan cara untuk melawat."
 
 tier: "3"

@@ -9,7 +9,7 @@ heroCredit: "amirali mirhashemian"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@amir_v_ali"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Roti by d'Tandoor adalah restoran India Utara MICHELIN Guide Bib Gourmand yang menempati sebuah rumah di dekat Jalan Ampang di Kuala Lumpur. Bagian dari merek d'Tandoor yang dibuka di Malaysia pada 1990, restoran ini memasak hidangan India Utara berbasis resep keluarga, dengan butter chicken masala, naan yang lembut, dan kulfi di antara hidangan yang disorot MICHELIN."
 
 tier: "4"

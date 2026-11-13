@@ -4,7 +4,7 @@ title: "Neighbourwood: Một bàn ăn châu Âu Bib Gourmand trên đất liền
 seoTitle: "Neighbourwood, Seberang Perai — Bib Gourmand"
 slug: "neighbourwood"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "vi"
 sourceContentHash: "6e635b16df688923"
 masterLanguage: "en"

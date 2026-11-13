@@ -9,7 +9,7 @@ heroCredit: "Mohammad Fahim"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@dischef"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Sardaarji es un restaurante punyabí y del norte de la India en Lebuh China, en George Town, Penang, que posee un Bib Gourmand de la Guía MICHELIN. Nacido como un proyecto de jubilación en 2018, es conocido por platos como el fish amritsari y el palak paneer, servidos en una sala colorida y llena de música."
 
 tier: "3"

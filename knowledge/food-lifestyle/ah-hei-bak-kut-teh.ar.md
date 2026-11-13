@@ -9,7 +9,7 @@ heroCredit: "Alpha / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Mixed_Bak_Kut_Teh_-_Teochew_Bak_Kut_Teh_(4590434658).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Ah Hei Bak Kut Teh هو محل حائز على MICHELIN Bib Gourmand في 33A Medan Imbi، Pudu، كوالالمبور. يُعدّ هذا المشروع الذي يناهز عمره 30 عاماً bak kut teh طازجاً كل صباح من خلطة أعشاب صينية، ويقدّم حساء ضلوع خنزير داكناً وعطِراً إلى جانب أطباق جانبية. يتناول هذا الملف ما هو المحل، وحساءه المميّز، وتاريخه، وكيفية زيارته."
 
 tier: "3"

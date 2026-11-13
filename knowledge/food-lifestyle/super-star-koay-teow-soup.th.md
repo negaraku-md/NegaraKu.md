@@ -9,7 +9,7 @@ heroCredit: "Misaochan2 / Wikimedia Commons"
 heroLicense: "CC BY 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Fishball_noodle_soup.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Super Star Koay Teow Soup เป็นรถเข็นอาหารริมทางบนถนน Lebuh Kimberley ในจอร์จทาวน์ ปีนัง ซึ่งได้รับ Bib Gourmand จาก MICHELIN Guide เปิดมาตั้งแต่ปี 1960 และปัจจุบันสืบทอดถึงรุ่นที่สาม ขึ้นชื่อเรื่อง koay teow soup ที่มีไก่ หมู ลูกชิ้นปลา และตับหมู รวมถึงตีนไก่ตุ๋นซีอิ๊ว"
 
 tier: "3"

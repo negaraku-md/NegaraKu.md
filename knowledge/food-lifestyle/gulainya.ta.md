@@ -3,7 +3,7 @@ topicId: MY-MICH-0015
 title: "Gulainya: கோலாலம்பூரில் ஒரு Bib Gourmand Peranakan உணவகம்"
 slug: "gulainya"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "ta"
 sourceContentHash: "4caedcdc4a962ae8"
 masterLanguage: "en"

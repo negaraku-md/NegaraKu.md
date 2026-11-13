@@ -4,7 +4,7 @@ title: "Au Jardin：槟城乔治市的一星米其林欧陆餐厅"
 seoTitle: "Au Jardin，槟城乔治市"
 slug: "au-jardin"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Au Jardin 是一家一星米其林欧陆当代餐厅，坐落于槟城乔治市的 Hin Bus Depot 艺术空间内。餐厅由主厨兼东主 Kim Hock Su 掌舵，供应每月更换的品鉴菜单（tasting menu），以带有本地风味的创意欧陆料理为特色，招牌菜包括 hay-aged Penang duck。"
 
 tier: "2"

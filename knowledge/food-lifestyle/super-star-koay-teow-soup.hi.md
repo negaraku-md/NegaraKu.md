@@ -9,7 +9,7 @@ heroCredit: "Misaochan2 / Wikimedia Commons"
 heroLicense: "CC BY 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Fishball_noodle_soup.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Super Star Koay Teow Soup पेनांग के जॉर्ज टाउन में Lebuh Kimberley पर स्थित एक स्ट्रीट-फूड गाड़ी है, जिसे MICHELIN Guide का Bib Gourmand प्राप्त है। 1960 से चल रही और अब तीसरी पीढ़ी में, यह चिकन, पोर्क, फिश बॉल और पोर्क लिवर वाले koay teow soup, तथा सोया में धीमे पकाए चिकन फीट के लिए जानी जाती है।"
 
 tier: "3"

@@ -4,7 +4,7 @@ title: "Chim by Chef Noom：クアラルンプールのミシュラン一つ星�
 seoTitle: "Chim by Chef Noom、クアラルンプール"
 slug: "chim-by-chef-noom"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Chim by Chef Noom は、クアラルンプール・Imbi の TSLAW Tower にあるミシュラン一つ星のタイ・ファインダイニングレストランです。タイ人シェフ Thaninthorn 'Noom' Chantrawan のマレーシア店であり、伝統に根ざした現代タイのテイスティングメニューを提供します。その中には、200 年の歴史を持つトムヤム（tom yum）の一品とされる看板料理も含まれます。"
 
 tier: "2"

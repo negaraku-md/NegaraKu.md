@@ -4,7 +4,7 @@ title: "Potager：クアラルンプール、バンブーヒルズのコンテ�
 seoTitle: "Potager、クアラルンプール"
 slug: "potager"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Potager は、クアラルンプール・スガンブット（Segambut）のバンブーヒルズという庭園エンクレーブにあるコンテンポラリー・フレンチのレストランで、福岡出身のシェフ Masashi Horiuchi が率いています。MICHELIN Guide Kuala Lumpur & Penang に掲載され、古典的なフレンチの技法、上質な食材、複数コースのセットメニューで知られています。"
 
 tier: "2"

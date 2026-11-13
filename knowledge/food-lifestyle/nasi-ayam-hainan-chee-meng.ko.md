@@ -9,7 +9,7 @@ heroCredit: "Misaochan / Wikimedia Commons"
 heroLicense: "CC BY 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Hainanese_chicken_rice.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Nasi Ayam Hainan Chee Meng는 쿠알라룸푸르 Jalan Kelang Lama에 있는 MICHELIN Bib Gourmand Hainanese chicken rice 전문점으로, 1965년부터 가족이 운영합니다. 찐 닭 또는 튀긴 닭을 닭기름과 육수로 지은 밥과 함께 내며, 더 담백하고 육즙이 많은 고기를 위해 현지 닭을 씁니다. 이 글은 이곳이 무엇인지, 대표 음식, 역사, 방문 방법을 다룹니다."
 
 tier: "3"

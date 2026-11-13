@@ -4,7 +4,7 @@ title: "Au Jardin: பினாங்கு ஜார்ஜ்டவுனில
 seoTitle: "Au Jardin, ஜார்ஜ்டவுன், பினாங்கு"
 slug: "au-jardin"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Au Jardin என்பது பினாங்கு ஜார்ஜ்டவுனில் உள்ள Hin Bus Depot கலை வெளியில் அமைந்துள்ள ஒரு-MICHELIN-நட்சத்திர ஐரோப்பிய சமகால உணவகம். தலைமைச் சமையல்காரர்-உரிமையாளர் Kim Hock Su வழிநடத்தும் இந்த உணவகம், உள்ளூர் தொடுதல்களுடன் கூடிய படைப்பூக்க ஐரோப்பிய உணவுகளைக் கொண்ட, மாதந்தோறும் மாறும் சுவை பட்டியலை (tasting menu) வழங்குகிறது; சிறப்பு உணவுகளில் hay-aged Penang duck அடங்கும்."
 
 tier: "2"

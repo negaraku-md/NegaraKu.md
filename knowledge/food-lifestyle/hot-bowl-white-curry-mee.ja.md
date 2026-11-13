@@ -9,7 +9,7 @@ heroCredit: "Andy Li / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File:%E6%AA%B3%E5%9F%8E%E7%99%BD%E5%92%96%E5%93%A9%E9%BA%B5.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hot Bowl White Curry Mee は、ペナン・ジョージタウンの Jalan Rangoon にある老舗の麺店で、MICHELIN Guide のビブグルマン（Bib Gourmand）を獲得しています。1992年の開業以来、white curry mee で知られ、ココナッツミルクのスープに麺を入れ、手で練ったカレーペーストを別添えにして、客が自分で辛さを決められるのが特徴です。"
 
 tier: "3"

@@ -9,7 +9,7 @@ heroCredit: "Encik Tekateki / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Lei_cha_in_Johor,Malaysia.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hor Poh Cuisine은 쿠알라룸푸르 Segambut에 있는 MICHELIN Guide Bib Gourmand 하카 요리점이다. 20년 넘게 이어진 소박한 동네 가게로, lei cha(thunder tea rice) — 밥에 끼얹는, 고소한 견과 풍미의 초록색 수프 — 와 하카 만두로, 저렴한 가격에 알려져 있다."
 
 tier: "4"

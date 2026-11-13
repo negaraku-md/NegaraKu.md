@@ -9,7 +9,7 @@ heroCredit: "Mohammad Fahim"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@dischef"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "‏Sardaarji مطعم بنجابي وهندي شمالي في شارع Lebuh China بحي George Town في بينانغ، حائز على تصنيف Bib Gourmand من دليل MICHELIN. بدأ مشروعاً بعد التقاعد عام 2018، ويشتهر بأطباق مثل fish amritsari و palak paneer، تُقدَّم في قاعة زاهية الألوان تغمرها الموسيقى."
 
 tier: "3"

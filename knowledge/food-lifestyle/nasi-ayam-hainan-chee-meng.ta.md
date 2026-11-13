@@ -9,7 +9,7 @@ heroCredit: "Misaochan / Wikimedia Commons"
 heroLicense: "CC BY 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Hainanese_chicken_rice.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Nasi Ayam Hainan Chee Meng என்பது கோலாலம்பூர் Jalan Kelang Lama-இல் உள்ள ஒரு MICHELIN Bib Gourmand Hainanese chicken rice நிபுணத்துவக் கடை; 1965 முதல் குடும்பத்தால் நடத்தப்படுகிறது. இது வேகவைத்த அல்லது பொரித்த கோழியை, கோழிக் கொழுப்பிலும் குழம்பிலும் சமைத்த சாதத்துடன் வழங்குகிறது; மெலிந்த, அதிக சாறுள்ள இறைச்சிக்காக உள்ளூர்க் கோழியைப் பயன்படுத்துகிறது. இந்தப் பதிவு இது என்ன, அதன் சிறப்பு உணவு, வரலாறு, எப்படிச் செல்வது என்பவற்றை விளக்குகிறது."
 
 tier: "3"

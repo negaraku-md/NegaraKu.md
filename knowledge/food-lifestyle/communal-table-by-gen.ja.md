@@ -4,7 +4,7 @@ title: "Communal Table by Gēn：George Townのモダン・マレーシア料理
 seoTitle: "Communal Table by Gēn、George Town ペナン"
 slug: "communal-table-by-gen"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 contentType: "place"
 lang: "ja"
 sourceContentHash: "35537b861b620fad"

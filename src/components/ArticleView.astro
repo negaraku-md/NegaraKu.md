@@ -50,7 +50,7 @@ const tomb = isTombstone(article); // a retired no-successor topic, served read-
 // (d.hero unset) we fall back to a branded, language-neutral graphic (bunga raya
 // + a gold food motif + wordmark) — obviously a brand graphic, so it guarantees
 // coverage without ever faking a photo. Subcategory picks the motif.
-const FOOD_FALLBACK = { restaurants: 'restaurants', drinks: 'drinks', alcohol: 'drinks', pasar: 'markets', kopitiam: 'markets', ramadan: 'markets' } as Record<string, string>;
+const FOOD_FALLBACK = { restaurants: 'restaurants', 'michelin-guide': 'restaurants', drinks: 'drinks', alcohol: 'drinks', pasar: 'markets', kopitiam: 'markets', ramadan: 'markets' } as Record<string, string>;
 const heroSrc = d.hero ?? (d.category === 'food-lifestyle'
   ? `/media/fallback/food-${FOOD_FALLBACK[(Array.isArray(d.subcategory) ? d.subcategory[0] : d.subcategory) as string] ?? 'food-lifestyle'}.webp`
   : null);

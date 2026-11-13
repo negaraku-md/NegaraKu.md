@@ -9,7 +9,7 @@ heroCredit: "Ramesh NG / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Kerala_spicy_Fish_Curry.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Coast by Kayra कुआलालंपुर के Bukit Bintang में The Starhill में एक MICHELIN Guide Bib Gourmand भारतीय रेस्तराँ है। Kayra का सहोदर प्रतिष्ठान, यह 'समुद्र-से-थाली' के सिद्धांत का पालन करता है, स्थानीय रूप से प्राप्त समुद्री भोजन के साथ केरल के व्यंजनों की पुनर्कल्पना करता है — इसका सिग्नेचर एक पारिवारिक-व्यंजन वाला केरल मछली करी है जिसमें कच्चा आम और दही हैं।"
 
 tier: "4"

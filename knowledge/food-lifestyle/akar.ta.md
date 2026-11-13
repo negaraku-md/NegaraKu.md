@@ -4,7 +4,7 @@ title: "Akar: கோலாலம்பூரின் ஒரு MICHELIN Star �
 seoTitle: "Akar: KL-ல் ஒரு MICHELIN Star உணவகம்"
 slug: "akar"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Akar என்பது கோலாலம்பூரில் Taman Tun Dr Ismail-இல் உள்ள ஒரு நவீன மலேசிய ஃபைன் டைனிங் உணவகம். இது MICHELIN Guide Kuala Lumpur & Penang-இல் ஒரு MICHELIN Star வைத்துள்ளது, அதன் பட்டியல் ஜப்பானிய, பிரெஞ்சு மற்றும் மலேசிய தாக்கங்கள் வழியாக ஐரோப்பிய செய்முறைகளை மறுவடிவமைக்கும் ஒரு செட் மெனுவை விவரிக்கிறது. இந்தச் சுயவிவரம் அதன் அங்கீகாரம், சமையல், சூழல் மற்றும் எப்படி வருகை தருவது என்பதை உள்ளடக்குகிறது."
 
 tier: "2"

@@ -3,7 +3,7 @@ topicId: MY-MICH-0014
 title: "De. Wan 1958: 쿠알라룸푸르에 있는 Chef Wan의 Bib Gourmand 말레이시아 레스토랑"
 slug: "de-wan-1958"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "ko"
 sourceContentHash: "ae1a13bf12dd65ed"
 masterLanguage: "en"

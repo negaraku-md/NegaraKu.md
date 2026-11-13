@@ -4,7 +4,7 @@ title: "Au Jardin : cuisine européenne une étoile MICHELIN à George Town, Pen
 seoTitle: "Au Jardin, George Town, Penang"
 slug: "au-jardin"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Au Jardin est un restaurant européen contemporain une étoile MICHELIN installé dans l'espace artistique Hin Bus Depot, à George Town, Penang. Dirigé par le chef-propriétaire Kim Hock Su, il propose un menu dégustation qui change chaque mois, composé d'une cuisine européenne créative aux touches locales, avec pour plat signature le hay-aged Penang duck."
 
 tier: "2"

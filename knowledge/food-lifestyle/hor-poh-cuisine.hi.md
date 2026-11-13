@@ -9,7 +9,7 @@ heroCredit: "Encik Tekateki / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Lei_cha_in_Johor,Malaysia.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hor Poh Cuisine कुआलालंपुर के Segambut में एक MICHELIN Guide Bib Gourmand हक्का रेस्तराँ है। 20 साल से अधिक पुरानी एक सादी मोहल्ले की दुकान, यह अपने lei cha (thunder tea rice) — चावल पर परोसा जाने वाला, मेवों-सा स्वाद वाला हरा सूप — और अपने हक्का पकौड़ों के लिए, किफ़ायती दामों पर, जानी जाती है।"
 
 tier: "4"

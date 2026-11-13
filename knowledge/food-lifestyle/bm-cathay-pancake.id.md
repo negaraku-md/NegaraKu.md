@@ -8,7 +8,7 @@ heroCredit: "Yun Huang Yong / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Giant_Apam_Balik.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "id"
 sourceContentHash: "3595a605927adac6"
 masterLanguage: "en"

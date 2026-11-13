@@ -13,7 +13,7 @@ heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: "பாக் குட் தே"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hing Kee Bakuteh என்பது கோலாலம்பூர் 121 Jalan Kepong-இல் உள்ள ஒரு MICHELIN Bib Gourmand bak kut teh கடை. இது பாரம்பரியமான மென்மையான மூலிகைச் சூப்பையும், அடர்த்தியான உலர் வகையையும் வழங்குகிறது; நான்கு கடை வீடுகளில் பரவியுள்ள இது மதிய உணவு நேரத்தில் நிரம்பி வழிகிறது. இந்தப் பதிவு இது என்ன, அதன் சிறப்பு உணவுகள், எங்கே உள்ளது, எப்படிச் செல்வது என்பவற்றை விளக்குகிறது."
 
 tier: "3"

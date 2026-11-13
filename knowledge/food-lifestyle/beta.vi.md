@@ -4,7 +4,7 @@ title: "Beta: Nhà hàng Malaysia hiện đại một MICHELIN Star của Kuala 
 seoTitle: "Beta: Nhà hàng một MICHELIN Star ở KL"
 slug: "beta"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Beta là một nhà hàng fine dining Malaysia hiện đại trên Jalan Perak, Kuala Lumpur. Nhà hàng giữ một MICHELIN Star trong MICHELIN Guide Kuala Lumpur & Penang, nơi mục niêm yết mô tả một thực đơn 'Tour of Malaysia' tái hình dung các món ăn của quốc gia bằng kỹ thuật hiện đại và cách bày biện công phu. Hồ sơ này bao quát sự ghi nhận, ẩm thực, không gian và cách ghé thăm."
 
 tier: "2"

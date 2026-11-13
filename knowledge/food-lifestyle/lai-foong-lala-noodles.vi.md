@@ -3,7 +3,7 @@ topicId: MY-MICH-0011
 title: "Lai Foong Lala Noodles: Quầy mì Bib Gourmand ở Kuala Lumpur"
 slug: "lai-foong-lala-noodles"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "vi"
 sourceContentHash: "cea56dd981238a87"
 masterLanguage: "en"

@@ -4,7 +4,7 @@ title: "Ivy's Nyonya Cuisine: เสาหลัก Peranakan ของ George T
 seoTitle: "Ivy's Nyonya Cuisine, George Town ปีนัง"
 slug: "ivys-nyonya-cuisine"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 contentType: "place"
 lang: "th"
 sourceContentHash: "06ede28407d72f6d"

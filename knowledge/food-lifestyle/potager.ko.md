@@ -4,7 +4,7 @@ title: "Potager: 쿠알라룸푸르 뱀부 힐스의 컨템포러리 프렌치 �
 seoTitle: "Potager, 쿠알라룸푸르"
 slug: "potager"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Potager는 쿠알라룸푸르 세감붓(Segambut)의 뱀부 힐스 정원 구역에 자리한 컨템포러리 프렌치 레스토랑으로, 후쿠오카 출신 셰프 Masashi Horiuchi가 이끕니다. MICHELIN Guide Kuala Lumpur & Penang에 등재되어 있으며, 고전적인 프렌치 기법, 프리미엄 식재료, 여러 코스로 구성된 세트 메뉴로 알려져 있습니다."
 
 tier: "2"

@@ -9,7 +9,7 @@ heroCredit: "Encik Tekateki / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Lei_cha_in_Johor,Malaysia.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hor Poh Cuisine เป็นร้านอาหารฮากการะดับ MICHELIN Guide Bib Gourmand ใน Segambut กัวลาลัมเปอร์ เป็นร้านย่านเรียบง่ายที่เปิดมากว่า 20 ปี ขึ้นชื่อเรื่อง lei cha (thunder tea rice) — ซุปสีเขียวรสถั่วราดบนข้าว — และเกี๊ยวฮากกา ในราคาย่อมเยา"
 
 tier: "4"

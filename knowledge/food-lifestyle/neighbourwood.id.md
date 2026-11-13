@@ -4,7 +4,7 @@ title: "Neighbourwood: Meja Eropa Bib Gourmand di Daratan Penang"
 seoTitle: "Neighbourwood, Seberang Perai — Bib Gourmand"
 slug: "neighbourwood"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "id"
 sourceContentHash: "6e635b16df688923"
 masterLanguage: "en"

@@ -9,7 +9,7 @@ heroCredit: "Misaochan / Wikimedia Commons"
 heroLicense: "CC BY 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Hainanese_chicken_rice.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Nasi Ayam Hainan Chee Meng là một quán chuyên Hainanese chicken rice đạt MICHELIN Bib Gourmand trên Jalan Kelang Lama, Kuala Lumpur, do gia đình điều hành từ năm 1965. Quán phục vụ gà hấp hoặc gà chiên với cơm nấu bằng mỡ gà và nước dùng, dùng gà địa phương cho thịt ít mỡ hơn và mọng hơn. Bài viết này trình bày quán là gì, món đặc trưng, lịch sử và cách ghé thăm."
 
 tier: "3"

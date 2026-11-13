@@ -11,7 +11,7 @@ foodType: "place"
 heroKind: "representative"
 heroOrigin: "third-party"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "en"
 masterLanguage: "en"
 status: "published"

@@ -4,7 +4,7 @@ title: "Beta: कुआलालंपुर का एक MICHELIN Star आध�
 seoTitle: "Beta: KL में एक MICHELIN Star रेस्तराँ"
 slug: "beta"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Beta कुआलालंपुर के Jalan Perak में एक आधुनिक मलेशियाई फाइन डाइनिंग रेस्तराँ है। यह MICHELIN Guide Kuala Lumpur & Penang में एक MICHELIN Star रखता है, जहाँ इसकी लिस्टिंग एक 'Tour of Malaysia' मेन्यू का वर्णन करती है जो देश के व्यंजनों को आधुनिक तकनीकों और विस्तृत प्लेटिंग के साथ पुनर्कल्पित करता है। यह प्रोफ़ाइल इसकी मान्यता, व्यंजन, परिवेश और इसे देखने के तरीके को शामिल करती है।"
 
 tier: "2"

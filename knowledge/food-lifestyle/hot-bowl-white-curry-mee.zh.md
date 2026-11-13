@@ -9,7 +9,7 @@ heroCredit: "Andy Li / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File:%E6%AA%B3%E5%9F%8E%E7%99%BD%E5%92%96%E5%93%A9%E9%BA%B5.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hot Bowl White Curry Mee 是槟城乔治市缅甸路（Jalan Rangoon）上一家历史悠久的面店，获得《米其林指南》必比登推介（Bib Gourmand）。自1992年开业以来，它以 white curry mee 闻名——面条浸在椰浆汤底中，另附一碟手工搅拌的咖喱酱在旁，让食客自行决定辣度。"
 
 tier: "3"

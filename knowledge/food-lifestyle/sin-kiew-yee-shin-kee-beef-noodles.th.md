@@ -9,7 +9,7 @@ heroCredit: "N509FZ / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Beef_noodle_soup_at_Dazangcun_(20210622125127).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Sin Kiew Yee Shin Kee Beef Noodles เป็นร้านก๋วยเตี๋ยวระดับ MICHELIN Guide Bib Gourmand บน Jalan Tun Tan Cheng Lock ในใจกลางกัวลาลัมเปอร์ สืบทอดจากแผงอาหารเมื่อปี 1949 และขึ้นชื่อเรื่องลูกชิ้นเนื้อเด้ง เนื้อสไลซ์ และผ้าขี้ริ้วเนื้อนุ่ม เสิร์ฟบนเส้นให้เลือกพร้อมน้ำพริกทำเอง"
 
 tier: "4"

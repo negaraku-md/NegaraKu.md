@@ -9,7 +9,7 @@ heroCredit: "N509FZ / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Beef_noodle_soup_at_Dazangcun_(20210622125127).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Sin Kiew Yee Shin Kee Beef Noodles는 쿠알라룸푸르 도심 Jalan Tun Tan Cheng Lock에 있는 MICHELIN Guide Bib Gourmand 국수 가게로, 1949년의 노점에서 비롯되었으며, 쫄깃한 소고기 완자, 소고기 편육, 부드러운 소 양을 선택한 국수와 집에서 만든 칠리소스와 함께 내는 것으로 알려져 있다."
 
 tier: "4"

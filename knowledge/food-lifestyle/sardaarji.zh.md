@@ -9,7 +9,7 @@ heroCredit: "Mohammad Fahim"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@dischef"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Sardaarji 是槟城乔治市China街（Lebuh China）上一家旁遮普与北印度餐厅，获得《米其林指南》必比登推介（Bib Gourmand）。它于2018年作为退休后的事业起步，以 fish amritsari 和 palak paneer 等菜式闻名，在色彩缤纷、乐声环绕的餐室中供应。"
 
 tier: "3"

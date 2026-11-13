@@ -11,7 +11,7 @@ heroCredit: "Li Tsin Soon from KL, Malaysia / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_ambeng.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 foodType: "place"
 
 tier: "2"

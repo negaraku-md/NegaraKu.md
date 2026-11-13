@@ -4,7 +4,7 @@ title: "BM Yam Rice: متجر Bib Gourmand تيوتشو في بوكيت مرتا
 seoTitle: "BM Yam Rice"
 slug: "bm-yam-rice"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "BM Yam Rice متجر تيوتشو صغير في Jalan Murthy ببوكيت مرتاجام، سيبيرانغ بيراي، بينانغ، معترَف به في MICHELIN Guide. افتُتح منذ 2006، ويقدّم yam rice مع حساء لحم خنزير مالح-حلو من وصفة عائلية، وهو من المطاعم القليلة في برّ بينانغ المدرجة في الدليل."
 

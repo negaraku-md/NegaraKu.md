@@ -4,7 +4,7 @@ title: "DC. by Darren Chin：吉隆坡的一颗 MICHELIN Star 法国餐厅"
 seoTitle: "DC. by Darren Chin：吉隆坡一颗 MICHELIN Star"
 slug: "dc-by-darren-chin"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "DC. by Darren Chin 是一家位于吉隆坡 Taman Tun Dr Ismail 的法式当代 fine dining 餐厅，出自主厨兼东主 Darren Chin。它在 MICHELIN Guide Kuala Lumpur & Penang 中拥有一颗 MICHELIN Star，其名录描述了对法国传统的独特演绎，并带有全球与马来西亚的点缀。本篇简介涵盖它的获誉、烹饪、环境，以及如何造访。"
 
 tier: "2"

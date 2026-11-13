@@ -4,7 +4,7 @@ title: "Sifu: 조지타운의 Bib Gourmand 페라나칸 주방"
 seoTitle: "Sifu, 조지타운 — MICHELIN Bib Gourmand"
 slug: "sifu"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "ko"
 sourceContentHash: "21068115c9ef4cc0"
 masterLanguage: "en"

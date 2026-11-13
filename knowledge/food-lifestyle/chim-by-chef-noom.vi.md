@@ -4,7 +4,7 @@ title: "Chim by Chef Noom: Nhà hàng Thái cao cấp một sao MICHELIN tại K
 seoTitle: "Chim by Chef Noom, Kuala Lumpur"
 slug: "chim-by-chef-noom"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Chim by Chef Noom là nhà hàng Thái cao cấp một sao MICHELIN tọa lạc trong TSLAW Tower, Imbi, Kuala Lumpur. Đây là cơ sở tại Malaysia của đầu bếp Thái Thaninthorn 'Noom' Chantrawan, phục vụ thực đơn nếm (tasting menu) Thái đương đại bắt rễ từ truyền thống, bao gồm một món signature được giới thiệu là phiên bản tom yum 200 năm tuổi."
 
 tier: "2"

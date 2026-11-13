@@ -4,7 +4,7 @@ title: "Au Jardin：ペナン・ジョージタウンのミシュラン1つ星�
 seoTitle: "Au Jardin、ジョージタウン、ペナン"
 slug: "au-jardin"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Au Jardin は、ペナン・ジョージタウンのアートスペース Hin Bus Depot 内にあるミシュラン1つ星のヨーロピアン・コンテンポラリー・レストラン。シェフ兼オーナーの Kim Hock Su が率い、地元の要素を取り入れた創造的なヨーロッパ料理を、毎月替わるテイスティングメニューで提供する。シグネチャーには hay-aged Penang duck がある。"
 
 tier: "2"

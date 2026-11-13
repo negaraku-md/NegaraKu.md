@@ -3,7 +3,7 @@ topicId: MY-MICH-0014
 title: "De. Wan 1958：Chef Wan 的吉隆坡 Bib Gourmand 马来西亚餐厅"
 slug: "de-wan-1958"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "zh"
 sourceContentHash: "ae1a13bf12dd65ed"
 masterLanguage: "en"

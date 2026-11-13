@@ -4,7 +4,7 @@ title: "Lama: 골동품에 둘러싸인 Bib Gourmand 뇨냐 주방"
 seoTitle: "Lama(쿠알라룸푸르)"
 slug: "lama"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Lama는 쿠알라룸푸르의 MICHELIN Bib Gourmand Peranakan 레스토랑으로, 2026년 가이드의 Kuala Lumpur 및 Penang 선정에 추가되었습니다. 부녀 팀이 나눠 먹도록 만든 정통 가정식 뇨냐 요리를, 주인이 엄선한 골동품 컬렉션으로 채워진 실내에서 요리합니다. 이 글은 이곳이 무엇인지, 대표 음식, 분위기, 방문 방법을 다룹니다."
 
 tier: "3"

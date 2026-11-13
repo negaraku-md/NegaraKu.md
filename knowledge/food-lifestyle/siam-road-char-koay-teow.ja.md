@@ -9,7 +9,7 @@ heroCredit: "Ardzun / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Siam Road Char Koay Teow は、ジョージタウン（ペナン）の Jalan Siam にある屋台で、MICHELIN Guide のビブグルマン（Bib Gourmand）に選ばれています。平たいライスヌードルを炭火で炒めてはっきりとした wok hei を出すことで知られ、一点に絞った料理のために長い行列を集めます。"
 

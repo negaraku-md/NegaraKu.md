@@ -4,7 +4,7 @@ title: "Neighbourwood：槟城威省的 Bib Gourmand 欧陆餐桌"
 seoTitle: "Neighbourwood，威省 — Bib Gourmand"
 slug: "neighbourwood"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "zh"
 sourceContentHash: "6e635b16df688923"
 masterLanguage: "en"

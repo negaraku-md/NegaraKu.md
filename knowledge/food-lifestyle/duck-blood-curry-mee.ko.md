@@ -9,7 +9,7 @@ heroCredit: "JB Macatulad / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Duck Blood Curry Mee는 조지타운(페낭) Jalan Burma에 있는 길거리 음식 가게로, MICHELIN Guide 빕 구르망(Bib Gourmand)에 선정되었습니다. 말레이시아식 카페 안에 숨어 코코넛 밀크로 만든 짭조름하고 달큰한 흰색 커리 베이스의 curry mee를 내며, 구운 돼지고기가 돋보이는 고명으로 꼽힙니다."
 

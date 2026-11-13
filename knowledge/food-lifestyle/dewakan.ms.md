@@ -4,7 +4,7 @@ title: "Dewakan: Restoran Dua MICHELIN Star di Kuala Lumpur"
 seoTitle: "Dewakan: Restoran Dua MICHELIN Star di KL"
 slug: "dewakan"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Dewakan ialah sebuah restoran fine dining di tingkat 48 Naza Tower di Kuala Lumpur, diterajui oleh cef Darren Teoh. Ia memegang Dua MICHELIN Star dalam MICHELIN Guide Kuala Lumpur & Penang — satu-satunya restoran dua-Star di Malaysia — dan sebuah MICHELIN Green Star untuk kelestarian. Profil ini merangkumi pengiktirafannya, masakannya yang berasaskan bahan tempatan, latar tempatnya dan cara mengunjunginya."
 
 tier: "2"

@@ -9,7 +9,7 @@ heroCredit: "Cyaloamin / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:HK_Yau_Ma_Tei_%E6%96%87%E8%8F%AF%E6%96%B0%E9%82%A8_Man_Wah_Sun_Chuen_restaurant_food_%E7%82%92%E8%B2%B4%E5%88%81_Char_kway_teow_fried_noodle_June-2011.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Awesome Char Koay Teow는 조지타운(페낭) 탄중 붕아의 New KK99 Cafe에서 영업하는 3대째 길거리 음식 노점으로, MICHELIN Guide에 등재되었습니다. char koay teow 각 접시는 강한 wok hei와 함께 주문 즉시 볶이며, 위에 반숙 달걀이나 치즈를 선택해 올릴 수 있습니다."
 

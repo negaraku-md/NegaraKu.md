@@ -8,7 +8,7 @@ heroCredit: "Chan Yong Sheng"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@chanys1999"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "ko"
 sourceContentHash: "e5f4a32ff283e536"
 status: "published"

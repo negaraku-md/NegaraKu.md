@@ -9,7 +9,7 @@ heroCredit: "Misaochan / Wikimedia Commons"
 heroLicense: "CC BY 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Hainanese_chicken_rice.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Nasi Ayam Hainan Chee Meng は、クアラルンプールの Jalan Kelang Lama にある MICHELIN Bib Gourmand の Hainanese chicken rice 専門店で、1965年から家族経営です。蒸し鶏または揚げ鶏を、鶏の脂と出汁で炊いた米とともに提供し、より脂が少なくジューシーな肉のために地鶏を使います。本稿では、この店が何か、名物料理、歴史、訪れ方を紹介します。"
 
 tier: "3"

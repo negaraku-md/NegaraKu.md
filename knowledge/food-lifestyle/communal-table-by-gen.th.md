@@ -4,7 +4,7 @@ title: "Communal Table by Gēn: อาหารมาเลเซียสมั
 seoTitle: "Communal Table by Gēn, George Town ปีนัง"
 slug: "communal-table-by-gen"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 contentType: "place"
 lang: "th"
 sourceContentHash: "35537b861b620fad"

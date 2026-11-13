@@ -4,7 +4,7 @@ title: "Beta：クアラルンプールの1つの MICHELIN Star 現代マレー�
 seoTitle: "Beta：KL の1つの MICHELIN Star レストラン"
 slug: "beta"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Beta は、クアラルンプールの Jalan Perak にある現代マレーシア料理のファインダイニングレストランです。MICHELIN Guide Kuala Lumpur & Penang で1つの MICHELIN Star を保持しており、その掲載は、現代的な技法と手の込んだ盛り付けで同国の料理を再構想する「Tour of Malaysia」メニューを説明しています。本プロフィールでは、その評価、料理、立地、そして訪れ方を取り上げます。"
 
 tier: "2"

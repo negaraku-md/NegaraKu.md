@@ -4,7 +4,7 @@ title: "Beta: கோலாலம்பூரின் ஒரு MICHELIN Star �
 seoTitle: "Beta: KL-ல் ஒரு MICHELIN Star உணவகம்"
 slug: "beta"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Beta என்பது கோலாலம்பூரில் Jalan Perak-இல் உள்ள ஒரு நவீன மலேசிய ஃபைன் டைனிங் உணவகம். இது MICHELIN Guide Kuala Lumpur & Penang-இல் ஒரு MICHELIN Star வைத்துள்ளது, அதன் பட்டியல் நவீன நுட்பங்கள் மற்றும் விரிவான தட்டு அலங்காரத்துடன் நாட்டின் உணவுகளை மறுகற்பனை செய்யும் ஒரு 'Tour of Malaysia' மெனுவை விவரிக்கிறது. இந்தச் சுயவிவரம் அதன் அங்கீகாரம், சமையல், சூழல் மற்றும் எப்படி வருகை தருவது என்பதை உள்ளடக்குகிறது."
 
 tier: "2"

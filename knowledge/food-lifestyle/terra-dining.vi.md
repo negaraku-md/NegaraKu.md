@@ -4,7 +4,7 @@ title: "Terra Dining: Ẩm thực tinh tế Malaysia một sao MICHELIN tại Ku
 seoTitle: "Terra Dining, Kuala Lumpur"
 slug: "terra-dining"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Terra Dining là một nhà hàng fine-dining tại Taman Tun Dr Ismail, Kuala Lumpur, được trao một sao MICHELIN trong đợt tuyển chọn MICHELIN Guide Kuala Lumpur & Penang 2026. Đầu bếp tự học Chong xây dựng thực đơn nếm thử 11 món thiên về Pháp trên nền nguyên liệu Malaysia, với các món như súp bisque tôm hùm (lobster bisque) đậm vị asam laksa và beurre blanc theo phong cách masak lemak."
 
 tier: "2"

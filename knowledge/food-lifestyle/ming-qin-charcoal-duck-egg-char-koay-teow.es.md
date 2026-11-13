@@ -8,7 +8,7 @@ heroCredit: "brown_colour / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Penang_Char_Kway_Teow_Sold_in_Lot_10.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "es"
 sourceContentHash: "7e28abfc06c880aa"
 status: "published"

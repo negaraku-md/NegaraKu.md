@@ -4,7 +4,7 @@ title: "Molina：吉隆坡的一颗 MICHELIN Star 创新餐厅"
 seoTitle: "Molina：吉隆坡一颗 MICHELIN Star 餐厅"
 slug: "molina"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Molina 是一家位于吉隆坡 THE FACE Style 51 楼的创新 fine dining 餐厅。它在 MICHELIN Guide Kuala Lumpur & Penang 中拥有一颗 MICHELIN Star，其名录描述了融合法国、北欧与亚洲影响的别出心裁菜肴，佐以城市天际线的全景视野。本篇简介涵盖它的获誉、烹饪、环境，以及如何造访。"
 
 tier: "2"

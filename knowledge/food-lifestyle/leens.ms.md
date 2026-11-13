@@ -8,7 +8,7 @@ heroCredit: "Christopher Alvarenga"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@krizphoto"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "ms"
 sourceContentHash: "af9e569f1aea24b4"
 status: "published"

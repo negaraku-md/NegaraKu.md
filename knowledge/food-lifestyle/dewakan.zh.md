@@ -4,7 +4,7 @@ title: "Dewakan：吉隆坡的两颗 MICHELIN Star 餐厅"
 seoTitle: "Dewakan：吉隆坡两颗 MICHELIN Star 餐厅"
 slug: "dewakan"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Dewakan 是一家位于吉隆坡 Naza Tower 48 楼的 fine dining 餐厅，由主厨 Darren Teoh 领军。它在 MICHELIN Guide Kuala Lumpur & Penang 中拥有两颗 MICHELIN Star——是马来西亚唯一的两-Star 餐厅——并持有一颗表彰可持续性的 MICHELIN Green Star。本篇简介涵盖它的获誉、以本土食材为核心的料理、环境，以及如何造访。"
 
 tier: "2"

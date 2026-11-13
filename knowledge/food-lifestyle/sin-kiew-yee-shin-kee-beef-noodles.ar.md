@@ -9,7 +9,7 @@ heroCredit: "N509FZ / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Beef_noodle_soup_at_Dazangcun_(20210622125127).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Sin Kiew Yee Shin Kee Beef Noodles محل نودلز حائز على MICHELIN Guide Bib Gourmand في Jalan Tun Tan Cheng Lock بوسط مدينة كوالالمبور، منحدر من كشك طعام يعود إلى 1949، ومعروف بكرات لحم البقر المطّاطية وشرائح لحم البقر وكرشة البقر الطريّة تُقدَّم فوق نودلز مختارة مع صلصة شطة منزلية الصنع."
 
 tier: "4"

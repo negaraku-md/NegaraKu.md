@@ -9,7 +9,7 @@ heroCredit: "JB Macatulad / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Duck Blood Curry Mee est une adresse de cuisine de rue sur Jalan Burma, à George Town, Penang, reconnue par le MICHELIN Guide comme choix Bib Gourmand. Cachée dans un café de style malaisien, elle sert du curry mee dans une base de curry blanc à la fois salée et sucrée au lait de coco, avec le porc rôti mis en avant comme garniture marquante."
 

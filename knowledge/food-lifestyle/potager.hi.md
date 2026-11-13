@@ -4,7 +4,7 @@ title: "Potager: कुआलालंपुर के बैम्बू हि
 seoTitle: "Potager, कुआलालंपुर"
 slug: "potager"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Potager कुआलालंपुर के सेगम्बुत स्थित बैम्बू हिल्स उद्यान परिक्षेत्र में स्थित एक समकालीन फ़्रेंच रेस्तराँ है, जिसका नेतृत्व फ़ुकुओका में जन्मे शेफ़ Masashi Horiuchi करते हैं। यह MICHELIN Guide Kuala Lumpur & Penang में सूचीबद्ध है और शास्त्रीय फ़्रेंच तकनीक, प्रीमियम सामग्री तथा बहु-कोर्स सेट मेन्यू के लिए जाना जाता है।"
 
 tier: "2"

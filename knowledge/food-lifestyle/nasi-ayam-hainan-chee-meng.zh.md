@@ -9,7 +9,7 @@ heroCredit: "Misaochan / Wikimedia Commons"
 heroLicense: "CC BY 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Hainanese_chicken_rice.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Nasi Ayam Hainan Chee Meng 是位于吉隆坡 Jalan Kelang Lama 的一家 MICHELIN Bib Gourmand Hainanese chicken rice 专卖店，自1965年起由家族经营。它供应蒸鸡或炸鸡，配以用鸡油与鸡汤煮成的饭，并使用本地鸡以求肉质更瘦、更多汁。本篇介绍这是什么、招牌菜式、历史，以及如何前往。"
 
 tier: "3"

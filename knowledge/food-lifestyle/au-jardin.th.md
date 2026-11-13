@@ -4,7 +4,7 @@ title: "Au Jardin: ร้านอาหารยุโรปหนึ่งด�
 seoTitle: "Au Jardin, จอร์จทาวน์ ปีนัง"
 slug: "au-jardin"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Au Jardin เป็นร้านอาหารยุโรปร่วมสมัยหนึ่งดาวมิชลิน ตั้งอยู่ในพื้นที่ศิลปะ Hin Bus Depot ในจอร์จทาวน์ ปีนัง นำทีมโดยเชฟเจ้าของร้าน Kim Hock Su เสิร์ฟเทสติงเมนู (tasting menu) ที่เปลี่ยนทุกเดือน เป็นอาหารยุโรปสร้างสรรค์ที่แต่งแต้มด้วยกลิ่นอายท้องถิ่น โดยมีจานซิกเนเจอร์อย่าง hay-aged Penang duck"
 
 tier: "2"

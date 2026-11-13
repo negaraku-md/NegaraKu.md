@@ -4,7 +4,7 @@ title: "Chim by Chef Noom: Santapan Thai Mewah Berbintang Satu MICHELIN di Kuala
 seoTitle: "Chim by Chef Noom, Kuala Lumpur"
 slug: "chim-by-chef-noom"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Chim by Chef Noom ialah restoran santapan Thai mewah berbintang satu MICHELIN di TSLAW Tower, Imbi, Kuala Lumpur. Ia merupakan cawangan Malaysia bagi chef Thai Thaninthorn 'Noom' Chantrawan, dan menyajikan menu tasting Thai kontemporari yang berakar pada tradisi, termasuk hidangan istimewa yang digambarkan sebagai versi tom yum berusia 200 tahun."
 
 tier: "2"

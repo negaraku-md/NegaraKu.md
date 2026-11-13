@@ -4,7 +4,7 @@ title: "Akar: कुआलालंपुर का एक MICHELIN Star आध�
 seoTitle: "Akar: KL में एक MICHELIN Star रेस्तराँ"
 slug: "akar"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Akar कुआलालंपुर के Taman Tun Dr Ismail में एक आधुनिक मलेशियाई फाइन डाइनिंग रेस्तराँ है। यह MICHELIN Guide Kuala Lumpur & Penang में एक MICHELIN Star रखता है, जहाँ इसकी लिस्टिंग एक सेट मेन्यू का वर्णन करती है जो जापानी, फ़्रेंच और मलेशियाई प्रभावों के माध्यम से यूरोपीय व्यंजन-विधियों को नए रूप में ढालता है। यह प्रोफ़ाइल इसकी मान्यता, व्यंजन, परिवेश और इसे देखने के तरीके को शामिल करती है।"
 
 tier: "2"

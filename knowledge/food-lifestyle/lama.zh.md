@@ -4,7 +4,7 @@ title: "Lama：古董环绕中的一家 Bib Gourmand 娘惹厨房"
 seoTitle: "Lama（吉隆坡）"
 slug: "lama"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Lama 是吉隆坡的一家 MICHELIN Bib Gourmand 娘惹（Peranakan）餐厅，于2026年新列入指南的吉隆坡与槟城精选名单。一对父女档烹制地道的家常娘惹菜，供人分享，餐室内满是店主精心搜罗的古董收藏。本篇介绍这是什么、招牌菜式、环境，以及如何前往。"
 
 tier: "3"

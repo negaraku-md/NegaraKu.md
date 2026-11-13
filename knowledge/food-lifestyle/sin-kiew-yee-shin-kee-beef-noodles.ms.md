@@ -9,7 +9,7 @@ heroCredit: "N509FZ / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Beef_noodle_soup_at_Dazangcun_(20210622125127).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Sin Kiew Yee Shin Kee Beef Noodles ialah sebuah gerai mi Bib Gourmand MICHELIN Guide di Jalan Tun Tan Cheng Lock di pusat bandar Kuala Lumpur, berasal daripada sebuah gerai makanan tahun 1949 dan terkenal dengan bebola daging lembu yang kenyal, hirisan daging lembu dan perut lembu yang lembut, dihidang bersama pilihan mi dan sos cili buatan sendiri."
 
 tier: "4"

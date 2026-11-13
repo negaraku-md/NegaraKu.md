@@ -9,7 +9,7 @@ heroCredit: "amirali mirhashemian"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@amir_v_ali"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Roti by d'Tandoor は、クアラルンプールの Jalan Ampang から少し入った一軒家にある MICHELIN Guide の Bib Gourmand に選ばれた北インド料理店。1990 年にマレーシアで開業した d'Tandoor ブランドの一員で、家族のレシピに基づく北インド料理を供し、MICHELIN はバターチキン・マサラ、柔らかなナン、クルフィなどを取り上げている。"
 
 tier: "4"

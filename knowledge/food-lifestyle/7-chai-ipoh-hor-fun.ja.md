@@ -9,7 +9,7 @@ heroCredit: "Sharon Hahn Darlin / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Hor_Fun,_Yinzo_Kopi,_Ipoh,_Malaysia.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "7 Chai Ipoh Hor Fun は、クアラルンプールの Pandan Perdana にある MICHELIN Guide の Bib Gourmand に選ばれた屋台料理の店で、イポー風のホーファンを専門とする。鶏ガラとエビの頭で煮出した澄んだスープに平たい米麺を合わせ、裂いた鶏肉をのせ、お好みでエビワンタンを加えられる。"
 
 tier: "4"

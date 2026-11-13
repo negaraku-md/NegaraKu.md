@@ -9,7 +9,7 @@ heroCredit: "MichaelJLowe (Michael J. Lowe). / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.5"
 heroSource: "https://commons.wikimedia.org/wiki/File:Penang_laksa.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "My Own Cafe पेनांग के जॉर्ज टाउन में Lebuh Cannon पर स्थित एक परिवार-संचालित स्ट्रीट-फूड दुकान है, जिसे MICHELIN Guide का Bib Gourmand प्राप्त है। यह अपने Penang asam laksa और Nyonya laksa, साथ ही सब्ज़ी भरे तले हुए स्प्रिंग रोल के लिए जाना जाता है, जो Khoo Kongsi कुल-भवन से कुछ ही कदम दूर परोसे जाते हैं।"
 
 tier: "3"

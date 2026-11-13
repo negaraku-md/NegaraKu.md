@@ -4,7 +4,7 @@ title: "Bibik's Kitchen: Bib Gourmand Pulau Pinang untuk Masakan Rumah Peranakan
 seoTitle: "Bibik's Kitchen, George Town Pulau Pinang"
 slug: "bibiks-kitchen"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Bibik's Kitchen ialah sebuah restoran Peranakan di Jalan Sri Bahari, George Town, Pulau Pinang, yang memegang Bib Gourmand MICHELIN Guide. Dibina atas resipi keluarga Nyonya warisan pemiliknya dan dihiasi dengan motif Peranakan klasik, ia terkenal dengan hidangan seperti jiu hu char dan loh bak, dihidangkan dalam tiga saiz hidangan."
 
 tier: "3"

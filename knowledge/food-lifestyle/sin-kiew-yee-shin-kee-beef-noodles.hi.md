@@ -9,7 +9,7 @@ heroCredit: "N509FZ / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Beef_noodle_soup_at_Dazangcun_(20210622125127).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Sin Kiew Yee Shin Kee Beef Noodles कुआलालंपुर के नगर-केंद्र में Jalan Tun Tan Cheng Lock पर एक MICHELIN Guide Bib Gourmand नूडल दुकान है, जो 1949 के एक फ़ूड स्टॉल से उतरी है और लचीले बीफ मीटबॉल, कटे हुए बीफ और मुलायम बीफ ट्राइप के लिए प्रसिद्ध है, जो चुने हुए नूडल्स पर घर में बनी चिली सॉस के साथ परोसे जाते हैं।"
 
 tier: "4"

@@ -4,7 +4,7 @@ title: "Terra Dining: कुआलालंपुर में एक-MICHELIN-�
 seoTitle: "Terra Dining, कुआलालंपुर"
 slug: "terra-dining"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Terra Dining कुआलालंपुर के Taman Tun Dr Ismail में स्थित एक फ़ाइन-डाइनिंग रेस्तरां है, जिसे MICHELIN Guide Kuala Lumpur & Penang 2026 चयन में एक MICHELIN स्टार मिला है। स्वयं-सीखे शेफ़ Chong मलेशियाई स्थानीय उपज पर आधारित फ़्रेंच-झुकाव वाला 11-कोर्स टेस्टिंग मेनू बनाते हैं, जिसमें asam laksa स्वाद वाला लॉबस्टर बिस्क (lobster bisque) और masak lemak शैली का beurre blanc जैसे व्यंजन शामिल हैं।"
 
 tier: "2"

@@ -4,7 +4,7 @@ title: "BM Yam Rice: Kedai Bib Gourmand Tiochiu di Bukit Mertajam"
 seoTitle: "BM Yam Rice"
 slug: "bm-yam-rice"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "BM Yam Rice adalah kedai Tiochiu kecil di Jalan Murthy di Bukit Mertajam, Seberang Perai, Penang, yang diakui dalam MICHELIN Guide. Buka sejak 2006, kedai ini menyajikan yam rice dengan sup babi yang asin-manis dari resep keluarga, dan merupakan salah satu dari sedikit rumah makan daratan Penang dalam Guide."
 

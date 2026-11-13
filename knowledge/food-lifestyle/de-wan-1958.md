@@ -3,7 +3,7 @@ topicId: MY-MICH-0014
 title: "De. Wan 1958: Chef Wan's Bib Gourmand Malaysian Restaurant in KL"
 slug: "de-wan-1958"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 foodType: "place"
 lang: "en"
 masterLanguage: "en"

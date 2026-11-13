@@ -4,7 +4,7 @@ title: "DC. by Darren Chin: ร้านอาหารฝรั่งเศส 
 seoTitle: "DC. by Darren Chin: 1 MICHELIN Star ใน KL"
 slug: "dc-by-darren-chin"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "DC. by Darren Chin เป็นร้านอาหารไฟน์ไดนิงฝรั่งเศสร่วมสมัยใน Taman Tun Dr Ismail, กัวลาลัมเปอร์ จากเชฟเจ้าของ Darren Chin ร้านครอง 1 MICHELIN Star ใน MICHELIN Guide Kuala Lumpur & Penang ซึ่งรายการของร้านอธิบายการตีความประเพณีฝรั่งเศสที่เป็นเอกลักษณ์พร้อมสำเนียงระดับโลกและมาเลเซีย โปรไฟล์นี้ครอบคลุมการได้รับการยกย่อง อาหาร บรรยากาศสถานที่ และวิธีไปเยือน"
 
 tier: "2"

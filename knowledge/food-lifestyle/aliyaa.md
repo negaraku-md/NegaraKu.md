@@ -10,7 +10,7 @@ heroCredit: "Nathaniel Yeo"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@nathanielyeo"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 foodType: "place"
 lang: "en"
 masterLanguage: "en"

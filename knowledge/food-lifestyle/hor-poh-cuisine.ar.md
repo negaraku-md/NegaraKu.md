@@ -9,7 +9,7 @@ heroCredit: "Encik Tekateki / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Lei_cha_in_Johor,Malaysia.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hor Poh Cuisine مطعم هاكا حائز على MICHELIN Guide Bib Gourmand في Segambut بكوالالمبور. وهو محل حيّ بسيط عمره أكثر من 20 عامًا، معروف بطبق lei cha (thunder tea rice) — حساء أخضر بنكهة المكسّرات فوق الأرز — وبفطائر الهاكا، تُقدَّم بأسعار زهيدة."
 
 tier: "4"

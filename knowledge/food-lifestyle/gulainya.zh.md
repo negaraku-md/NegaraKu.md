@@ -3,7 +3,7 @@ topicId: MY-MICH-0015
 title: "Gulainya：吉隆坡一家 Bib Gourmand Peranakan 餐厅"
 slug: "gulainya"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "zh"
 sourceContentHash: "4caedcdc4a962ae8"
 masterLanguage: "en"

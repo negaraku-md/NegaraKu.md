@@ -4,7 +4,7 @@ title: "Au Jardin: Nhà hàng Âu một sao MICHELIN tại George Town, Penang"
 seoTitle: "Au Jardin, George Town, Penang"
 slug: "au-jardin"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Au Jardin là nhà hàng Âu đương đại một sao MICHELIN nằm trong không gian nghệ thuật Hin Bus Depot ở George Town, Penang. Do bếp trưởng kiêm chủ nhà hàng Kim Hock Su dẫn dắt, nơi đây phục vụ thực đơn nếm (tasting menu) thay đổi hằng tháng gồm các món Âu sáng tạo mang chút dấu ấn bản địa, với món đặc trưng hay-aged Penang duck."
 
 tier: "2"

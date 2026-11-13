@@ -4,7 +4,7 @@ title: "Bibik's Kitchen: पेरानाकन घरेलू खाने �
 seoTitle: "Bibik's Kitchen, जॉर्ज टाउन पेनांग"
 slug: "bibiks-kitchen"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Bibik's Kitchen पेनांग के जॉर्ज टाउन में Jalan Sri Bahari पर स्थित एक पेरानाकन रेस्तराँ है, जिसे MICHELIN Guide का Bib Gourmand प्राप्त है। मालिक के विरासत में मिले नन्योन्या पारिवारिक व्यंजनों पर आधारित और क्लासिक पेरानाकन नमूनों से सजा, यह jiu hu char और loh bak जैसे व्यंजनों के लिए जाना जाता है, जो तीन हिस्से-आकारों में परोसे जाते हैं।"
 
 tier: "3"

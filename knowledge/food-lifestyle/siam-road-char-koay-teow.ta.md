@@ -9,7 +9,7 @@ heroCredit: "Ardzun / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Siam Road Char Koay Teow என்பது ஜார்ஜ் டவுன், பினாங்கில் Jalan Siam-இல் உள்ள ஒரு தெரு உணவுக் கடை; இதை MICHELIN Guide Bib Gourmand தேர்வாகப் பட்டியலிட்டுள்ளது. தனது தட்டையான அரிசி நூடுல்ஸை கரியில் வறுத்து தெளிவான wok hei தருவதற்காக அறியப்படும் இக்கடை, ஒரே கவனம் செலுத்திய உணவுக்காக நீண்ட வரிசைகளை ஈர்க்கிறது."
 

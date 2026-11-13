@@ -9,7 +9,7 @@ heroCredit: "Misaochan2 / Wikimedia Commons"
 heroLicense: "CC BY 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Fishball_noodle_soup.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Super Star Koay Teow Soup 是槟城乔治市Kimberley街（Lebuh Kimberley）上一摊街头小吃，获得《米其林指南》必比登推介（Bib Gourmand）。它自1960年经营至今，如今传至第三代，以配料有鸡肉、猪肉、鱼丸和猪肝的 koay teow soup，以及卤酱油鸡脚闻名。"
 
 tier: "3"

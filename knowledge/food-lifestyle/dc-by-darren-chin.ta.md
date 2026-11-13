@@ -4,7 +4,7 @@ title: "DC. by Darren Chin: கோலாலம்பூரின் ஒரு MI
 seoTitle: "DC. by Darren Chin: KL-ல் ஒரு MICHELIN Star"
 slug: "dc-by-darren-chin"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "DC. by Darren Chin என்பது கோலாலம்பூரில் Taman Tun Dr Ismail-இல் உள்ள ஒரு பிரெஞ்சு சமகால ஃபைன் டைனிங் உணவகம், செஃப்-உரிமையாளர் Darren Chin-இடமிருந்து. இது MICHELIN Guide Kuala Lumpur & Penang-இல் ஒரு MICHELIN Star வைத்துள்ளது, அதன் பட்டியல் உலகளாவிய மற்றும் மலேசிய தனித்தன்மைகளுடன் பிரெஞ்சு மரபுகளின் ஒரு தனித்துவமான விளக்கத்தை விவரிக்கிறது. இந்தச் சுயவிவரம் அதன் அங்கீகாரம், சமையல், சூழல் மற்றும் எப்படி வருகை தருவது என்பதை உள்ளடக்குகிறது."
 
 tier: "2"

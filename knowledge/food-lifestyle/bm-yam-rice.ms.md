@@ -4,7 +4,7 @@ title: "BM Yam Rice: Kedai Bib Gourmand Teochew di Bukit Mertajam"
 seoTitle: "BM Yam Rice"
 slug: "bm-yam-rice"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "BM Yam Rice ialah kedai Teochew kecil di Jalan Murthy di Bukit Mertajam, Seberang Perai, Pulau Pinang, yang diiktiraf dalam MICHELIN Guide. Dibuka sejak 2006, ia menghidangkan nasi yam dengan sup babi yang masin-manis daripada resipi keluarga, dan merupakan antara sedikit kedai makan di tanah besar Pulau Pinang yang tersenarai dalam Guide."
 

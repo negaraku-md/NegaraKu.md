@@ -3,7 +3,7 @@ topicId: MY-MICH-0011
 title: "Lai Foong Lala Noodles：クアラルンプールの Bib Gourmand 麺料理店"
 slug: "lai-foong-lala-noodles"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "ja"
 sourceContentHash: "cea56dd981238a87"
 masterLanguage: "en"

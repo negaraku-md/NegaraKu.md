@@ -9,7 +9,7 @@ heroCredit: "Misaochan2 / Wikimedia Commons"
 heroLicense: "CC BY 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Fishball_noodle_soup.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "‏Super Star Koay Teow Soup عربة طعام شارع في شارع Lebuh Kimberley بحي George Town في بينانغ، حائزة على تصنيف Bib Gourmand من دليل MICHELIN. تعمل منذ عام 1960 وهي الآن في جيلها الثالث، وتشتهر بطبق koay teow soup بالدجاج ولحم الخنزير وكرات السمك وكبد الخنزير، وبأرجل الدجاج المطهوّة ببطء في صلصة الصويا."
 
 tier: "3"

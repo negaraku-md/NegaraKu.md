@@ -3,7 +3,7 @@ topicId: MY-MICH-0015
 title: "Gulainya: कुआलालंपुर का एक Bib Gourmand Peranakan रेस्तराँ"
 slug: "gulainya"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "hi"
 sourceContentHash: "4caedcdc4a962ae8"
 masterLanguage: "en"

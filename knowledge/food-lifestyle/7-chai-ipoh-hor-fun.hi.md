@@ -9,7 +9,7 @@ heroCredit: "Sharon Hahn Darlin / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Hor_Fun,_Yinzo_Kopi,_Ipoh,_Malaysia.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "7 Chai Ipoh Hor Fun कुआलालंपुर के Pandan Perdana में एक MICHELIN Guide Bib Gourmand स्ट्रीट-फ़ूड दुकान है, जो इपोह शैली के hor fun में विशेषज्ञ है — मुर्गे की हड्डियों और झींगे के सिर से उबाले गए साफ़ शोरबे में चपटे चावल के नूडल्स, ऊपर कटा हुआ चिकन और वैकल्पिक रूप से झींगा wonton।"
 
 tier: "4"

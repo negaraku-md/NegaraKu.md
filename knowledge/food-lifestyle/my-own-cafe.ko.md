@@ -9,7 +9,7 @@ heroCredit: "MichaelJLowe (Michael J. Lowe). / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.5"
 heroSource: "https://commons.wikimedia.org/wiki/File:Penang_laksa.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "My Own Cafe는 페낭 조지타운의 Lebuh Cannon에 있는 가족 경영 길거리 음식점으로, MICHELIN Guide 빕 구르망(Bib Gourmand)을 보유하고 있습니다. Penang asam laksa와 Nyonya laksa, 그리고 채소를 채운 튀긴 춘권으로 유명하며, Khoo Kongsi 종사당에서 몇 걸음 떨어진 곳에서 제공됩니다."
 
 tier: "3"

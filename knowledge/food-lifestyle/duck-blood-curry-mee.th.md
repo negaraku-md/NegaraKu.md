@@ -9,7 +9,7 @@ heroCredit: "JB Macatulad / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Duck Blood Curry Mee เป็นร้านอาหารริมทางบน Jalan Burma ในจอร์จทาวน์ ปีนัง ได้รับการยอมรับจาก MICHELIN Guide เป็นตัวเลือกบิบ กูร์มองด์ (Bib Gourmand) ซ่อนตัวอยู่ในคาเฟ่สไตล์มาเลเซีย เสิร์ฟ curry mee ในน้ำแกงกะทิสีขาวรสเค็ม-หวาน โดยหมูย่างถูกยกให้เป็นเครื่องเคราที่โดดเด่น"
 

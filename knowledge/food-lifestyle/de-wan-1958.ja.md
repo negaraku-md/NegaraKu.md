@@ -3,7 +3,7 @@ topicId: MY-MICH-0014
 title: "De. Wan 1958：クアラルンプールにある Chef Wan の Bib Gourmand マレーシア料理店"
 slug: "de-wan-1958"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "ja"
 sourceContentHash: "ae1a13bf12dd65ed"
 masterLanguage: "en"

@@ -9,7 +9,7 @@ heroCredit: "Chensiyuan / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Fish_head_curry_peranakan_z.JPG"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Auntie Gaik Lean's Old School Eatery என்பது பினாங்கின் ஜார்ஜ் டவுனில் உள்ள Lebuh Bishop-இல் அமைந்த ஒரு-MICHELIN-நட்சத்திர பெரானாக்கான் (நோன்யா) உணவகம். சுயமாகக் கற்ற சமையல்கலைஞர் Beh Gaik Lean நடத்தும் இந்த உணவகம், கறாராகக் காக்கப்படும் சமையல் குறிப்புகளின்படி பாரம்பரிய நோன்யா உணவுகளை வழங்குகிறது; 2022 ஆம் ஆண்டின் மலேசியாவின் முதல் MICHELIN தேர்வில் முதல் நட்சத்திரம் பெற்றது."
 
 tier: "2"

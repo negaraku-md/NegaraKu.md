@@ -9,7 +9,7 @@ heroCredit: "Mohammad Fahim"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@dischef"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Sardaarji は、ペナン・ジョージタウンの Lebuh China にあるパンジャブ・北インド料理店で、MICHELIN Guide のビブグルマン（Bib Gourmand）を獲得しています。2018年に退職後の取り組みとして始まり、fish amritsari や palak paneer などの料理で知られ、色とりどりの装飾と音楽に満ちた空間で供されます。"
 
 tier: "3"

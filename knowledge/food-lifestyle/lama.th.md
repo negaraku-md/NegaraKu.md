@@ -4,7 +4,7 @@ title: "Lama: ครัวนอนย่าระดับ Bib Gourmand ท่�
 seoTitle: "Lama (กัวลาลัมเปอร์)"
 slug: "lama"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Lama เป็นร้านอาหาร Peranakan ระดับ MICHELIN Bib Gourmand ในกรุงกัวลาลัมเปอร์ ซึ่งเพิ่มเข้าสู่การคัดเลือก Kuala Lumpur และ Penang ของไกด์ในปี 2026 ทีมพ่อลูกสาวปรุงอาหารนอนย่าแบบบ้าน ๆ ที่แท้จริงไว้แบ่งปันกัน ในพื้นที่ภายในที่เต็มไปด้วยของเก่าที่เจ้าของคัดสรร บทความนี้ครอบคลุมว่าร้านนี้คืออะไร อาหารเด่น บรรยากาศ และวิธีไปเยือน"
 
 tier: "3"

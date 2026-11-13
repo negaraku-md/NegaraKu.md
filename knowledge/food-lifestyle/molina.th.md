@@ -4,7 +4,7 @@ title: "Molina: ร้านอาหารสร้างสรรค์ 1 MICH
 seoTitle: "Molina: ร้าน 1 MICHELIN Star ใน KL"
 slug: "molina"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Molina เป็นร้านอาหารไฟน์ไดนิงเชิงสร้างสรรค์บนชั้น 51 ของ THE FACE Style ในกัวลาลัมเปอร์ ร้านครอง 1 MICHELIN Star ใน MICHELIN Guide Kuala Lumpur & Penang ซึ่งรายการของร้านอธิบายอาหารที่สร้างสรรค์อย่างแยบยลซึ่งผสานอิทธิพลฝรั่งเศส นอร์ดิก และเอเชีย เสิร์ฟพร้อมวิวพาโนรามาของเส้นขอบฟ้าเมือง โปรไฟล์นี้ครอบคลุมการได้รับการยกย่อง อาหาร บรรยากาศสถานที่ และวิธีไปเยือน"
 
 tier: "2"

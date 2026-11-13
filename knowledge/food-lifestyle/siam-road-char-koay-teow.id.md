@@ -9,7 +9,7 @@ heroCredit: "Ardzun / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Siam Road Char Koay Teow adalah gerai makanan kaki lima di Jalan Siam, George Town, Penang, yang didaftar oleh MICHELIN Guide sebagai pilihan Bib Gourmand. Dikenal karena menggoreng mi beras pipihnya di atas arang untuk wok hei yang jelas, gerai ini menarik antrean panjang untuk satu hidangan yang terfokus."
 

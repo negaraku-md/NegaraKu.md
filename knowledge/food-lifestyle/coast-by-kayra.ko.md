@@ -9,7 +9,7 @@ heroCredit: "Ramesh NG / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Kerala_spicy_Fish_Curry.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Coast by Kayra는 쿠알라룸푸르 Bukit Bintang의 The Starhill에 있는 MICHELIN Guide Bib Gourmand 인도 요리점이다. Kayra의 자매 업장으로, '바다에서 접시로' 철학을 따라 현지에서 조달한 해산물로 케랄라 요리를 재해석한다 — 간판은 풋망고와 요구르트를 더한 가족 전래 레시피의 케랄라 생선 커리다."
 
 tier: "4"

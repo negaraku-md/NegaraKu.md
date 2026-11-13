@@ -9,7 +9,7 @@ heroCredit: "Mohammad Fahim"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@dischef"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Sardaarji는 페낭 조지타운의 Lebuh China에 있는 펀자브·북인도 레스토랑으로, MICHELIN Guide 빕 구르망(Bib Gourmand)을 보유하고 있습니다. 2018년 은퇴 후의 프로젝트로 시작되었으며, fish amritsari와 palak paneer 같은 요리로 유명하고, 색색의 장식과 음악이 가득한 공간에서 제공됩니다."
 
 tier: "3"

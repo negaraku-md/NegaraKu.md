@@ -4,7 +4,7 @@ title: "Dewakan: கோலாலம்பூரின் இரண்டு MICH
 seoTitle: "Dewakan: KL-ல் இரண்டு MICHELIN Star உணவகம்"
 slug: "dewakan"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Dewakan என்பது கோலாலம்பூரில் Naza Tower-இன் 48ஆவது மாடியில் அமைந்துள்ள ஒரு ஃபைன் டைனிங் உணவகம், செஃப் Darren Teoh தலைமையில் இயங்குகிறது. இது MICHELIN Guide Kuala Lumpur & Penang-இல் இரண்டு MICHELIN Star வைத்துள்ளது——மலேசியாவின் ஒரே இரண்டு-Star உணவகம்——மேலும் நிலைத்தன்மைக்கான MICHELIN Green Star-ஐயும் கொண்டுள்ளது. இந்தச் சுயவிவரம் அதன் அங்கீகாரம், உள்ளூர் பொருட்களை மையமாகக் கொண்ட சமையல், சூழல் மற்றும் எப்படி வருகை தருவது என்பதை உள்ளடக்குகிறது."
 
 tier: "2"

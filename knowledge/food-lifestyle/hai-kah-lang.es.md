@@ -4,7 +4,7 @@ title: "Hai Kah Lang: fideos de marisco Bib Gourmand en Taman Cheras"
 seoTitle: "Hai Kah Lang (Taman Cheras)"
 slug: "hai-kah-lang"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 tier: "2"
 mode: "narrative"

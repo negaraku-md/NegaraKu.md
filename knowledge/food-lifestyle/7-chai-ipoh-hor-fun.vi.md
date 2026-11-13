@@ -9,7 +9,7 @@ heroCredit: "Sharon Hahn Darlin / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Hor_Fun,_Yinzo_Kopi,_Ipoh,_Malaysia.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "7 Chai Ipoh Hor Fun là một quán ăn đường phố được MICHELIN Guide gắn Bib Gourmand ở Pandan Perdana, Kuala Lumpur, chuyên về hor fun kiểu Ipoh — sợi bánh phở dẹt trong nước dùng trong ninh từ xương gà và đầu tôm, phủ gà xé và tùy chọn thêm hoành thánh tôm."
 
 tier: "4"

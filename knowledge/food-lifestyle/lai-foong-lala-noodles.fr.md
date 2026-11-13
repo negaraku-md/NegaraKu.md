@@ -3,7 +3,7 @@ topicId: MY-MICH-0011
 title: "Lai Foong Lala Noodles : un stand de nouilles Bib Gourmand à Kuala Lumpur"
 slug: "lai-foong-lala-noodles"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "fr"
 sourceContentHash: "cea56dd981238a87"
 masterLanguage: "en"

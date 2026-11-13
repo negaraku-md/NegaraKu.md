@@ -4,7 +4,7 @@ title: "Akar：クアラルンプールの1つの MICHELIN Star 現代マレー�
 seoTitle: "Akar：KL の1つの MICHELIN Star レストラン"
 slug: "akar"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Akar は、クアラルンプールの Taman Tun Dr Ismail にある現代マレーシア料理のファインダイニングレストランです。MICHELIN Guide Kuala Lumpur & Penang で1つの MICHELIN Star を保持しており、その掲載は、日本・フランス・マレーシアの影響を通してヨーロッパのレシピを作り直すセットメニューを説明しています。本プロフィールでは、その評価、料理、立地、そして訪れ方を取り上げます。"
 
 tier: "2"

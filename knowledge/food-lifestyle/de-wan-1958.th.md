@@ -3,7 +3,7 @@ topicId: MY-MICH-0014
 title: "De. Wan 1958: ร้านอาหารมาเลเซีย Bib Gourmand ของ Chef Wan ในกัวลาลัมเปอร์"
 slug: "de-wan-1958"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "th"
 sourceContentHash: "ae1a13bf12dd65ed"
 masterLanguage: "en"

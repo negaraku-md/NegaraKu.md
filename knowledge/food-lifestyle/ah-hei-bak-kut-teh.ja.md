@@ -9,7 +9,7 @@ heroCredit: "Alpha / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Mixed_Bak_Kut_Teh_-_Teochew_Bak_Kut_Teh_(4590434658).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Ah Hei Bak Kut Teh は、クアラルンプール Pudu の 33A Medan Imbi にある MICHELIN Bib Gourmand の店です。創業およそ30年のこの店は、毎朝、中国の薬膳のブレンドから bak kut teh を新鮮に仕込み、濃い色の香り高い豚スペアリブスープを副菜とともに提供します。本稿では、この店が何か、名物のスープ、歴史、訪れ方を紹介します。"
 
 tier: "3"

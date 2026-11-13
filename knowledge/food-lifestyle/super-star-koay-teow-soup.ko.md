@@ -9,7 +9,7 @@ heroCredit: "Misaochan2 / Wikimedia Commons"
 heroLicense: "CC BY 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Fishball_noodle_soup.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Super Star Koay Teow Soup는 페낭 조지타운의 Lebuh Kimberley에 있는 길거리 음식 수레로, MICHELIN Guide 빕 구르망(Bib Gourmand)을 보유하고 있습니다. 1960년부터 영업해 지금은 3대째이며, 닭고기·돼지고기·어묵·돼지 간을 넣은 koay teow soup와 간장에 조린 닭발로 유명합니다."
 
 tier: "3"

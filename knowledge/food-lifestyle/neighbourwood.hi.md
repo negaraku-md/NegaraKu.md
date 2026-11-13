@@ -4,7 +4,7 @@ title: "Neighbourwood: Penang के मुख्य भूभाग पर ए�
 seoTitle: "Neighbourwood, Seberang Perai — Bib Gourmand"
 slug: "neighbourwood"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "hi"
 sourceContentHash: "6e635b16df688923"
 masterLanguage: "en"

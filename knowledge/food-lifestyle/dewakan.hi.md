@@ -4,7 +4,7 @@ title: "Dewakan: कुआलालंपुर का दो MICHELIN Star र�
 seoTitle: "Dewakan: KL में दो MICHELIN Star रेस्तराँ"
 slug: "dewakan"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Dewakan कुआलालंपुर में Naza Tower की 48वीं मंज़िल पर स्थित एक फाइन डाइनिंग रेस्तराँ है, जिसका नेतृत्व शेफ Darren Teoh करते हैं। यह MICHELIN Guide Kuala Lumpur & Penang में दो MICHELIN Star रखता है——मलेशिया का एकमात्र दो-Star रेस्तराँ——और सततता के लिए एक MICHELIN Green Star भी। यह प्रोफ़ाइल इसकी मान्यता, स्थानीय सामग्री पर केंद्रित व्यंजन, परिवेश और इसे देखने के तरीके को शामिल करती है।"
 
 tier: "2"

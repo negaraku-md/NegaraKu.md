@@ -4,7 +4,7 @@ title: "Ivy's Nyonya Cuisine：乔治市峇峇娘惹餐桌的中流砥柱"
 seoTitle: "Ivy's Nyonya Cuisine，乔治市槟城"
 slug: "ivys-nyonya-cuisine"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 contentType: "place"
 lang: "zh"
 sourceContentHash: "06ede28407d72f6d"

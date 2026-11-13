@@ -4,7 +4,7 @@ title: "Hai Kah Lang: 타만 체라스의 Bib Gourmand 해산물 국수"
 seoTitle: "Hai Kah Lang (Taman Cheras)"
 slug: "hai-kah-lang"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 tier: "2"
 mode: "narrative"

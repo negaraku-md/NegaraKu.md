@@ -8,7 +8,7 @@ heroCredit: "Choo Yut Shing from Singapore, Singapore / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Chai_Tow_Kway_(54154447543).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "ms"
 sourceContentHash: "9a648af8ae4110e1"
 masterLanguage: "en"

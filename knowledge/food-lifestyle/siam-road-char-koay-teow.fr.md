@@ -9,7 +9,7 @@ heroCredit: "Ardzun / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Siam Road Char Koay Teow est un stand de cuisine de rue sur Jalan Siam, à George Town, Penang, référencé par le MICHELIN Guide comme choix Bib Gourmand. Connu pour faire sauter ses nouilles de riz plates au charbon afin d'obtenir un wok hei prononcé, il attire de longues files pour un plat unique et ciblé."
 

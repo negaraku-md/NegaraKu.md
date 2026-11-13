@@ -9,7 +9,7 @@ heroCredit: "Ramesh NG / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Kerala_spicy_Fish_Curry.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Coast by Kayra เป็นร้านอาหารอินเดียระดับ MICHELIN Guide Bib Gourmand ที่ The Starhill ใน Bukit Bintang กัวลาลัมเปอร์ เป็นร้านในเครือของ Kayra ที่ยึดแนวคิด 'จากทะเลสู่จาน' ตีความอาหารเกรละใหม่ด้วยอาหารทะเลที่จัดหาในท้องถิ่น — เมนูเด่นคือแกงปลาเกรละสูตรครอบครัวที่มีมะม่วงดิบและโยเกิร์ต"
 
 tier: "4"

@@ -11,7 +11,7 @@ heroCredit: "Andy Li / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File:%E6%AA%B3%E5%9F%8E%E7%99%BD%E5%92%96%E5%93%A9%E9%BA%B5.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 foodType: "place"
 summary: "Hot Bowl White Curry Mee is a longstanding noodle shop on Jalan Rangoon in George Town, Penang, holding a MICHELIN Guide Bib Gourmand. Open since 1992, it is known for white curry mee — noodles in a coconut-milk broth served with a hand-stirred curry paste on the side so diners set their own heat."
 

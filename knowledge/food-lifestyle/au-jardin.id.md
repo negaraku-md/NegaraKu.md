@@ -4,7 +4,7 @@ title: "Au Jardin: Santapan Eropa Bintang Satu MICHELIN di George Town, Penang"
 seoTitle: "Au Jardin, George Town, Penang"
 slug: "au-jardin"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Au Jardin adalah restoran Eropa kontemporer bintang satu MICHELIN yang terletak di ruang seni Hin Bus Depot di George Town, Penang. Dipimpin oleh koki-pemilik Kim Hock Su, restoran ini menyajikan tasting menu yang berganti setiap bulan berupa hidangan Eropa kreatif dengan sentuhan lokal, dengan hidangan khas hay-aged Penang duck."
 
 tier: "2"

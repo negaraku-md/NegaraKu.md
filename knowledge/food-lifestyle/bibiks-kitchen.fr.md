@@ -4,7 +4,7 @@ title: "Bibik's Kitchen : un Bib Gourmand de Penang pour la cuisine familiale pe
 seoTitle: "Bibik's Kitchen, George Town Penang"
 slug: "bibiks-kitchen"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Bibik's Kitchen est un restaurant peranakan sur Jalan Sri Bahari, à George Town, Penang, titulaire d'un Bib Gourmand du Guide MICHELIN. Bâti sur les recettes familiales nyonya dont a hérité son propriétaire et décoré de motifs peranakan classiques, il est réputé pour des plats tels que le jiu hu char et le loh bak, servis en trois tailles de portion."
 
 tier: "3"

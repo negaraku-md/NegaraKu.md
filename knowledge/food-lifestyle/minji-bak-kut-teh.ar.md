@@ -9,7 +9,7 @@ heroCredit: "Yosuke Ota"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@yosuke_ota"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 tier: "2"
 mode: "narrative"

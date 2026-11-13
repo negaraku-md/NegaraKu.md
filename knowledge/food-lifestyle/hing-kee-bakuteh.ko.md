@@ -13,7 +13,7 @@ heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: "바쿠테(육골차)"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hing Kee Bakuteh는 쿠알라룸푸르 121 Jalan Kepong에 있는 MICHELIN Bib Gourmand bak kut teh 식당입니다. 고전적이고 순한 약재 국물과 더 진한 드라이 버전을 모두 제공하며, 네 채의 숍하우스에 걸쳐 있어 점심시간에는 자리가 가득 찹니다. 이 글은 이곳이 무엇인지, 대표 음식, 위치, 방문 방법을 다룹니다."
 
 tier: "3"

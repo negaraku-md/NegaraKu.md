@@ -13,7 +13,7 @@ heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: "肉骨茶"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "兴记肉骨茶（Hing Kee Bakuteh）是吉隆坡甲洞 Jalan Kepong 的一家肉骨茶专卖店。第一次来，想喝汤就点汤版（药材味较淡、汤头带点甜），想吃浓味、能吃辣就点干版（更浓稠、更辣）。店内供应猪肉，属非清真餐厅，分布在四间店屋之间，午餐时段尤其繁忙，并获 MICHELIN 必比登推介。本篇介绍该点什么、在哪里以及如何前往。"
 
 tier: "3"

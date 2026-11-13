@@ -73,22 +73,36 @@ function lastmodFor(url) {
 // The retired slugs are archived in content, so the article route no longer
 // emits them and these redirects own the paths with no collision.
 const redirects = {
-  // MICHELIN Guide hub moved under its category (2026-11-13): /michelin →
-  // /food-lifestyle/michelin, so its path + breadcrumb read as a Food & Lifestyle
-  // topic. Keep the old short URLs alive for any existing links/bookmarks.
-  '/michelin': '/food-lifestyle/michelin',
-  '/en/michelin': '/en/food-lifestyle/michelin',
-  '/zh/michelin': '/zh/food-lifestyle/michelin',
-  '/ta/michelin': '/ta/food-lifestyle/michelin',
-  '/ja/michelin': '/ja/food-lifestyle/michelin',
-  '/ko/michelin': '/ko/food-lifestyle/michelin',
-  '/th/michelin': '/th/food-lifestyle/michelin',
-  '/vi/michelin': '/vi/food-lifestyle/michelin',
-  '/id/michelin': '/id/food-lifestyle/michelin',
-  '/ar/michelin': '/ar/food-lifestyle/michelin',
-  '/hi/michelin': '/hi/food-lifestyle/michelin',
-  '/es/michelin': '/es/food-lifestyle/michelin',
-  '/fr/michelin': '/fr/food-lifestyle/michelin',
+  // MICHELIN Guide is now an ordinary `michelin-guide` subcategory (2026-11-13),
+  // not a collection with a bespoke hub. Both the old short URL (/michelin) and the
+  // former hub (/food-lifestyle/michelin) redirect to the topic page. Keep alive
+  // for existing links/bookmarks.
+  '/michelin': '/food-lifestyle/topic/michelin-guide',
+  '/en/michelin': '/en/food-lifestyle/topic/michelin-guide',
+  '/zh/michelin': '/zh/food-lifestyle/topic/michelin-guide',
+  '/ta/michelin': '/ta/food-lifestyle/topic/michelin-guide',
+  '/ja/michelin': '/ja/food-lifestyle/topic/michelin-guide',
+  '/ko/michelin': '/ko/food-lifestyle/topic/michelin-guide',
+  '/th/michelin': '/th/food-lifestyle/topic/michelin-guide',
+  '/vi/michelin': '/vi/food-lifestyle/topic/michelin-guide',
+  '/id/michelin': '/id/food-lifestyle/topic/michelin-guide',
+  '/ar/michelin': '/ar/food-lifestyle/topic/michelin-guide',
+  '/hi/michelin': '/hi/food-lifestyle/topic/michelin-guide',
+  '/es/michelin': '/es/food-lifestyle/topic/michelin-guide',
+  '/fr/michelin': '/fr/food-lifestyle/topic/michelin-guide',
+  '/food-lifestyle/michelin': '/food-lifestyle/topic/michelin-guide',
+  '/en/food-lifestyle/michelin': '/en/food-lifestyle/topic/michelin-guide',
+  '/zh/food-lifestyle/michelin': '/zh/food-lifestyle/topic/michelin-guide',
+  '/ta/food-lifestyle/michelin': '/ta/food-lifestyle/topic/michelin-guide',
+  '/ja/food-lifestyle/michelin': '/ja/food-lifestyle/topic/michelin-guide',
+  '/ko/food-lifestyle/michelin': '/ko/food-lifestyle/topic/michelin-guide',
+  '/th/food-lifestyle/michelin': '/th/food-lifestyle/topic/michelin-guide',
+  '/vi/food-lifestyle/michelin': '/vi/food-lifestyle/topic/michelin-guide',
+  '/id/food-lifestyle/michelin': '/id/food-lifestyle/topic/michelin-guide',
+  '/ar/food-lifestyle/michelin': '/ar/food-lifestyle/topic/michelin-guide',
+  '/hi/food-lifestyle/michelin': '/hi/food-lifestyle/topic/michelin-guide',
+  '/es/food-lifestyle/michelin': '/es/food-lifestyle/topic/michelin-guide',
+  '/fr/food-lifestyle/michelin': '/fr/food-lifestyle/topic/michelin-guide',
   // Dedup 2026-10-30: road-transport-act (MY-LAW-0041) merged into the more
   // comprehensive road-transport-act-1987 (MY-LAW-0099), both in law/.
   '/law/road-transport-act': '/law/road-transport-act-1987',

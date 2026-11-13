@@ -3,7 +3,7 @@ topicId: MY-MICH-0011
 title: "Lai Foong Lala Noodles: கோலாலம்பூரில் ஒரு Bib Gourmand நூடுல்ஸ் கடை"
 slug: "lai-foong-lala-noodles"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "ta"
 sourceContentHash: "cea56dd981238a87"
 masterLanguage: "en"

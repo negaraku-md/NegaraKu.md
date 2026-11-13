@@ -9,7 +9,7 @@ heroCredit: "MichaelJLowe (Michael J. Lowe). / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.5"
 heroSource: "https://commons.wikimedia.org/wiki/File:Penang_laksa.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "My Own Cafe เป็นร้านอาหารริมทางที่ครอบครัวดำเนินกิจการบนถนน Lebuh Cannon ในจอร์จทาวน์ ปีนัง ซึ่งได้รับ Bib Gourmand จาก MICHELIN Guide ขึ้นชื่อเรื่อง Penang asam laksa และ Nyonya laksa รวมถึงปอเปี๊ยะทอดไส้ผัก เสิร์ฟห่างจากศาลเจ้าตระกูล Khoo Kongsi เพียงไม่กี่ก้าว"
 
 tier: "3"

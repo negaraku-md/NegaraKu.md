@@ -4,7 +4,7 @@ title: "Au Jardin: One-MICHELIN-Star European Dining in George Town, Penang"
 seoTitle: "Au Jardin, George Town, Penang"
 slug: "au-jardin"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 foodType: "place"
 summary: "Au Jardin is a one-MICHELIN-star European contemporary restaurant set in the Hin Bus Depot art space in George Town, Penang. Led by chef-proprietor Kim Hock Su, it serves a monthly-changing tasting menu of creative European fare with local touches, including a signature hay-aged Penang duck."
 

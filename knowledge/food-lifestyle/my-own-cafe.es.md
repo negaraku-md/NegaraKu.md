@@ -9,7 +9,7 @@ heroCredit: "MichaelJLowe (Michael J. Lowe). / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.5"
 heroSource: "https://commons.wikimedia.org/wiki/File:Penang_laksa.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "My Own Cafe es un local de comida callejera de gestión familiar en Lebuh Cannon, en George Town, Penang, que posee un Bib Gourmand de la Guía MICHELIN. Es conocido por su Penang asam laksa y su Nyonya laksa, además de rollitos de primavera fritos rellenos de verdura, servidos a pocos pasos de la casa del clan Khoo Kongsi."
 
 tier: "3"

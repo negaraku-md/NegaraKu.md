@@ -4,7 +4,7 @@ title: "Potager：吉隆坡 Bamboo Hills 的当代法式餐厅"
 seoTitle: "Potager，吉隆坡"
 slug: "potager"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Potager 是一家当代法式餐厅，坐落于吉隆坡双溪毛糯（Segambut）的 Bamboo Hills 花园隐地，由福冈出生的主厨 Masashi Horiuchi 掌舵。它获列入《MICHELIN Guide Kuala Lumpur & Penang》，以经典法式技法、顶级食材和多道式套餐闻名。"
 
 tier: "2"

@@ -9,7 +9,7 @@ heroCredit: "Ramesh NG / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Kerala_spicy_Fish_Curry.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Coast by Kayra مطعم هندي حائز على MICHELIN Guide Bib Gourmand في The Starhill بـ Bukit Bintang، كوالالمبور. وهو المطعم الشقيق لـ Kayra، يتّبع فلسفة «من البحر إلى الطبق»، ويعيد تصوّر أطباق كيرالا بمأكولات بحرية محلّية المصدر — وطبقه المميّز كاري سمك كيرالي بوصفة عائلية مع المانجو الأخضر والزبادي."
 
 tier: "4"

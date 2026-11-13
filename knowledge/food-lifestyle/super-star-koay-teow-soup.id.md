@@ -9,7 +9,7 @@ heroCredit: "Misaochan2 / Wikimedia Commons"
 heroLicense: "CC BY 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Fishball_noodle_soup.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Super Star Koay Teow Soup adalah gerobak jajanan kaki lima di Lebuh Kimberley, George Town, Penang, yang menyandang Bib Gourmand dari MICHELIN Guide. Beroperasi sejak 1960 dan kini di generasi ketiga, ia terkenal dengan koay teow soup berisi ayam, babi, bakso ikan, dan hati babi, serta ceker ayam yang direbus dengan kecap."
 
 tier: "3"

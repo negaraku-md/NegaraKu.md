@@ -9,7 +9,7 @@ heroCredit: "Kalindu Waranga"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@kalindu0waranga"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 contentType: "place"
 lang: "hi"
 sourceContentHash: "d58b15281bb2a10e"

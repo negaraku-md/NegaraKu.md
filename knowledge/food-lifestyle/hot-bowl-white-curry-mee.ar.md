@@ -9,7 +9,7 @@ heroCredit: "Andy Li / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File:%E6%AA%B3%E5%9F%8E%E7%99%BD%E5%92%96%E5%93%A9%E9%BA%B5.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "‏Hot Bowl White Curry Mee هو مطعم نودلز عريق في شارع Jalan Rangoon بحي George Town في بينانغ، حائز على تصنيف Bib Gourmand من دليل MICHELIN. مفتوح منذ عام 1992، ويشتهر بطبق white curry mee — نودلز في مرق قوامه حليب جوز الهند يُقدَّم مع معجون كاري مُحرَّك باليد على جانب الطبق ليحدد كل زبون درجة الحرارة بنفسه."
 
 tier: "3"

@@ -3,7 +3,7 @@ topicId: MY-MICH-0011
 title: "Lai Foong Lala Noodles: كشك نودلز حاصل على Bib Gourmand في كوالالمبور"
 slug: "lai-foong-lala-noodles"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "ar"
 sourceContentHash: "cea56dd981238a87"
 masterLanguage: "en"

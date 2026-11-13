@@ -9,7 +9,7 @@ heroCredit: "Ramesh NG / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Kerala_spicy_Fish_Curry.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Coast by Kayra ialah sebuah restoran India Bib Gourmand MICHELIN Guide di The Starhill di Bukit Bintang, Kuala Lumpur. Restoran adik-beradik kepada Kayra, ia mengamalkan falsafah 'laut ke pinggan', mengolah semula hidangan Kerala dengan makanan laut yang diperoleh secara tempatan — hidangan istimewanya kari ikan Kerala resipi keluarga dengan mangga muda dan yogurt."
 
 tier: "4"

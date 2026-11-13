@@ -4,7 +4,7 @@ title: "Akar: ร้านอาหารมาเลเซียสมัยใ
 seoTitle: "Akar: ร้าน 1 MICHELIN Star ใน KL"
 slug: "akar"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Akar เป็นร้านอาหารไฟน์ไดนิงมาเลเซียสมัยใหม่ใน Taman Tun Dr Ismail, กัวลาลัมเปอร์ ร้านครอง 1 MICHELIN Star ใน MICHELIN Guide Kuala Lumpur & Penang ซึ่งรายการของร้านอธิบายเซ็ตเมนูที่รังสรรค์สูตรยุโรปขึ้นใหม่ผ่านอิทธิพลญี่ปุ่น ฝรั่งเศส และมาเลเซีย โปรไฟล์นี้ครอบคลุมการได้รับการยกย่อง อาหาร บรรยากาศสถานที่ และวิธีไปเยือน"
 
 tier: "2"

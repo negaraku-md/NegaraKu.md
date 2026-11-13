@@ -4,7 +4,7 @@ title: "Potager: مطعم فرنسي معاصر في بامبو هيلز، كو�
 seoTitle: "Potager، كوالالمبور"
 slug: "potager"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Potager مطعم فرنسي معاصر يقع في مجمّع حدائق بامبو هيلز في سيغامبوت بكوالالمبور، ويقوده الطاهي ماساشي هوريوتشي (Masashi Horiuchi) المولود في فوكوكا. وهو مُدرَج في دليل ميشلان كوالالمبور وبينانج، ومعروف بالتقنية الفرنسية الكلاسيكية والمكوّنات الفاخرة وقوائم الطعام المحدّدة المكوّنة من أطباق متعددة."
 
 tier: "2"

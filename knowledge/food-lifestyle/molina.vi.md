@@ -4,7 +4,7 @@ title: "Molina: Nhà hàng sáng tạo một MICHELIN Star của Kuala Lumpur"
 seoTitle: "Molina: Nhà hàng một MICHELIN Star ở KL"
 slug: "molina"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Molina là một nhà hàng fine dining sáng tạo trên tầng 51 của THE FACE Style tại Kuala Lumpur. Nhà hàng giữ một MICHELIN Star trong MICHELIN Guide Kuala Lumpur & Penang, nơi mục niêm yết mô tả các món ăn giàu sáng tạo pha trộn ảnh hưởng Pháp, Bắc Âu và châu Á, phục vụ cùng tầm nhìn toàn cảnh đường chân trời thành phố. Hồ sơ này bao quát sự ghi nhận, ẩm thực, không gian và cách ghé thăm."
 
 tier: "2"

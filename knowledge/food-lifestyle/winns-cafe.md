@@ -10,7 +10,7 @@ heroCredit: "Advocator SY"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@advocator_sy"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 foodType: "place"
 lang: "en"
 masterLanguage: "en"

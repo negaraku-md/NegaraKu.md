@@ -9,7 +9,7 @@ heroCredit: "Chensiyuan / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Fish_head_curry_peranakan_z.JPG"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Auntie Gaik Lean's Old School Eatery पिनांग के जॉर्ज टाउन में Lebuh Bishop पर स्थित एक-MICHELIN-स्टार पेरानाकन (न्योन्या) रेस्तराँ है। स्वयं-सिखी शेफ Beh Gaik Lean द्वारा संचालित यह रेस्तराँ कड़ाई से संरक्षित विधियों से विरासती न्योन्या व्यंजन परोसता है, और इसे 2022 में मलेशिया के पहले MICHELIN चयन में पहला स्टार मिला।"
 
 tier: "2"

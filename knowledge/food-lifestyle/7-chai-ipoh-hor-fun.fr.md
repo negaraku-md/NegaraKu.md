@@ -9,7 +9,7 @@ heroCredit: "Sharon Hahn Darlin / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Hor_Fun,_Yinzo_Kopi,_Ipoh,_Malaysia.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "7 Chai Ipoh Hor Fun est une échoppe de cuisine de rue, distinguée par un Bib Gourmand du MICHELIN Guide, située à Pandan Perdana, à Kuala Lumpur, spécialisée dans le hor fun à la mode d'Ipoh — des nouilles de riz plates dans un bouillon clair mijoté à partir d'os de poulet et de têtes de crevettes, garni de poulet effiloché et, en option, de wontons aux crevettes."
 
 tier: "4"

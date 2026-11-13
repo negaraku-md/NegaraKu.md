@@ -9,7 +9,7 @@ heroCredit: "Yun Huang Yong from Harbord, Australia / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Nyonya_Kuih_in_Different_Colour.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 contentType: "place"
 lang: "fr"
 sourceContentHash: "899bf571aa6a9eea"

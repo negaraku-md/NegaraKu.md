@@ -9,7 +9,7 @@ heroCredit: "JB Macatulad / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Duck Blood Curry Mee 是乔治市缅甸路（Jalan Burma）的一家街头美食小店，获《MICHELIN Guide》列为必比登推介（Bib Gourmand）。它藏身于一家马来西亚式咖啡馆内，供应以椰浆调制的咸甜白咖喱汤底的 curry mee，烧肉被点名为出众的配料。"
 

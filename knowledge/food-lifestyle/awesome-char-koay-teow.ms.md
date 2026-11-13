@@ -9,7 +9,7 @@ heroCredit: "Cyaloamin / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:HK_Yau_Ma_Tei_%E6%96%87%E8%8F%AF%E6%96%B0%E9%82%A8_Man_Wah_Sun_Chuen_restaurant_food_%E7%82%92%E8%B2%B4%E5%88%81_Char_kway_teow_fried_noodle_June-2011.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Awesome Char Koay Teow ialah gerai makanan jalanan generasi ketiga di New KK99 Cafe di Tanjung Bungah, George Town, Pulau Pinang, yang diiktiraf dalam MICHELIN Guide. Setiap pinggan char koay teow digoreng mengikut tempahan dengan wok hei yang kuat, dengan pilihan telur separuh masak atau keju di atas."
 

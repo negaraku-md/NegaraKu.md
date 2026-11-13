@@ -1,13 +1,10 @@
 import type { Locale } from './categories';
-import { MICHELIN_TITLE } from './michelinMeta';
-import michelin from '@/data/collections/michelin.json';
 
 // Curated COLLECTIONS surfaced as featured cards inside a category's topic grid
-// (ServiceCategory). A collection is a hand-picked, cross-cutting set with its own
-// hub page (e.g. the MICHELIN Guide), distinct from an ordinary subcategory topic.
-// It links to the hub, not a /topic/ page. Add one here to feature it in a category.
-// The hub lives UNDER its category (e.g. /food-lifestyle/michelin) so its path and
-// breadcrumb read as a topic of that category.
+// (ServiceCategory / HubGroups). A collection is a hand-picked, cross-cutting set
+// with its own hub page, distinct from an ordinary subcategory topic. Generic
+// mechanism kept for future use; there are no collections at present — the MICHELIN
+// Guide is now an ordinary `michelin-guide` subcategory, not a collection.
 
 export interface CategoryCollection {
   id: string;
@@ -21,17 +18,7 @@ export interface CategoryCollection {
   color: string;
 }
 
-export const CATEGORY_COLLECTIONS: Record<string, CategoryCollection[]> = {
-  'food-lifestyle': [
-    {
-      id: 'michelin',
-      href: '/food-lifestyle/michelin',
-      count: (michelin as { count?: number }).count ?? 0,
-      title: MICHELIN_TITLE,
-      color: '#C0392B', // MICHELIN red
-    },
-  ],
-};
+export const CATEGORY_COLLECTIONS: Record<string, CategoryCollection[]> = {};
 
 export function collectionsFor(categoryId: string): CategoryCollection[] {
   return CATEGORY_COLLECTIONS[categoryId] ?? [];

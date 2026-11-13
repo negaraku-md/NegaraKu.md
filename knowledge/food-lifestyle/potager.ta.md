@@ -4,7 +4,7 @@ title: "Potager: கோலாலம்பூர் பம்பூ ஹில்�
 seoTitle: "Potager, கோலாலம்பூர்"
 slug: "potager"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Potager என்பது கோலாலம்பூர் செகம்புட்டில் உள்ள பம்பூ ஹில்ஸ் தோட்ட வளாகத்தில் அமைந்துள்ள ஒரு சமகால பிரெஞ்சு உணவகம் ஆகும்; இதை ஃபுகூகாவில் பிறந்த சமையல்கலைஞர் Masashi Horiuchi வழிநடத்துகிறார். இது MICHELIN Guide Kuala Lumpur & Penang பட்டியலில் இடம்பெற்றுள்ளது; பாரம்பரிய பிரெஞ்சு நுட்பம், உயர்தர பொருட்கள் மற்றும் பல-கோர்ஸ் செட் மெனுக்களுக்காக அறியப்படுகிறது."
 
 tier: "2"

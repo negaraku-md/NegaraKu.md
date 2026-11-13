@@ -4,7 +4,7 @@ title: "Chim by Chef Noom: கோலாலம்பூரில் மிச்�
 seoTitle: "Chim by Chef Noom, கோலாலம்பூர்"
 slug: "chim-by-chef-noom"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Chim by Chef Noom என்பது கோலாலம்பூர், Imbi-யில் உள்ள TSLAW Tower-இல் அமைந்த மிச்லின் ஒரு நட்சத்திர தாய் உயர்தர உணவகம். இது தாய்லாந்து சமையலர் Thaninthorn 'Noom' Chantrawan-இன் மலேசிய கிளை ஆகும்; மரபில் வேரூன்றிய சமகால தாய் டேஸ்டிங் மெனுவை வழங்குகிறது, இதில் 200 ஆண்டுகள் பழமையான tom yum வடிவமாக விவரிக்கப்படும் ஒரு சிறப்பு உணவும் அடங்கும்."
 
 tier: "2"

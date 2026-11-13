@@ -11,7 +11,7 @@ heroCredit: "Yosuke Ota"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@yosuke_ota"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 foodType: "place"
 
 tier: "2"

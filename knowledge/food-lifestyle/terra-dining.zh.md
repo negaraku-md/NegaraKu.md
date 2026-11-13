@@ -4,7 +4,7 @@ title: "Terra Dining：吉隆坡的一星米其林马来西亚高级料理"
 seoTitle: "Terra Dining，吉隆坡"
 slug: "terra-dining"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Terra Dining 是一家位于吉隆坡 Taman Tun Dr Ismail 的高级餐厅，在《MICHELIN Guide Kuala Lumpur & Penang 2026》评选中获颁一颗米其林星。自学成才的 Chef Chong 以马来西亚本地食材打造一套偏法式的 11 道式品尝菜单，菜式包括带 asam laksa 风味的龙虾浓汤（lobster bisque），以及 masak lemak 风格的 beurre blanc。"
 
 tier: "2"

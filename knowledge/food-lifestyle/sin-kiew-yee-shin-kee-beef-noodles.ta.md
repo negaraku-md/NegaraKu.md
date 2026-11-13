@@ -9,7 +9,7 @@ heroCredit: "N509FZ / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Beef_noodle_soup_at_Dazangcun_(20210622125127).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Sin Kiew Yee Shin Kee Beef Noodles என்பது கோலாலம்பூர் நகர மையத்தில், Jalan Tun Tan Cheng Lock-இல் உள்ள ஒரு MICHELIN Guide Bib Gourmand நூடுல்ஸ் கடை; 1949-ஆம் ஆண்டின் ஒரு உணவுக் கடையிலிருந்து தோன்றியது; பிசுபிசுப்பான மாட்டிறைச்சி உருண்டைகள், நறுக்கிய மாட்டிறைச்சி, மென்மையான மாட்டு குடல் ஆகியவற்றுக்கும், பலவகை நூடுல்ஸ் மற்றும் வீட்டில் செய்த மிளகாய் சாஸுடன் வழங்கப்படுவதற்கும் பெயர் பெற்றது."
 
 tier: "4"

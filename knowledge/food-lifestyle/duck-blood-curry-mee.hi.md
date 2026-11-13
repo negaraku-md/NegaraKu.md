@@ -9,7 +9,7 @@ heroCredit: "JB Macatulad / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Duck Blood Curry Mee जॉर्ज टाउन, पेनांग के Jalan Burma पर एक स्ट्रीट-फूड दुकान है, जिसे MICHELIN Guide ने बिब गुरमों (Bib Gourmand) पसंद के रूप में मान्यता दी है। एक मलेशियाई शैली के कैफ़े में छिपी, यह नारियल-दूध से बने नमकीन-मीठे सफ़ेद करी बेस में curry mee परोसती है, जिसमें भुना सूअर एक उत्कृष्ट टॉपिंग के रूप में उभरता है।"
 

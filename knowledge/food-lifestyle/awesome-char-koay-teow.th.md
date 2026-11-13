@@ -9,7 +9,7 @@ heroCredit: "Cyaloamin / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:HK_Yau_Ma_Tei_%E6%96%87%E8%8F%AF%E6%96%B0%E9%82%A8_Man_Wah_Sun_Chuen_restaurant_food_%E7%82%92%E8%B2%B4%E5%88%81_Char_kway_teow_fried_noodle_June-2011.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Awesome Char Koay Teow เป็นแผงอาหารริมทางรุ่นที่สามที่ New KK99 Cafe ในตันจงบุงาห์ จอร์จทาวน์ ปีนัง ได้รับการยอมรับใน MICHELIN Guide char koay teow แต่ละจานผัดตามสั่งพร้อม wok hei ที่เข้มข้น และเลือกเพิ่มไข่ดาวไม่สุกหรือชีสด้านบนได้"
 

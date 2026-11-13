@@ -4,7 +4,7 @@ title: "Sifu: ครัว Peranakan Bib Gourmand แห่ง George Town"
 seoTitle: "Sifu, George Town — MICHELIN Bib Gourmand"
 slug: "sifu"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "th"
 sourceContentHash: "21068115c9ef4cc0"
 masterLanguage: "en"

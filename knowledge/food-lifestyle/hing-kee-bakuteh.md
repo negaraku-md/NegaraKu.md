@@ -13,7 +13,7 @@ heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: "Bak kut teh"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hing Kee Bakuteh is a bak kut teh specialist on Jalan Kepong in Kepong, Kuala Lumpur. First time? Order the soup version for a milder, lightly sweet herbal pork-rib broth, or the dry version for a richer, thicker, spicier claypot. It serves pork (non-halal), spreads across four shophouses and is busiest at lunch — and it carries a MICHELIN Bib Gourmand. This profile covers what to order, where to find it and how to visit."
 
 tier: "3"

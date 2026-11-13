@@ -9,7 +9,7 @@ heroCredit: "Chensiyuan / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Fish_head_curry_peranakan_z.JPG"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Auntie Gaik Lean's Old School Eatery は、ペナン州ジョージタウンの Lebuh Bishop にあるミシュラン一つ星のプラナカン（ニョニャ）料理店。独学のシェフ Beh Gaik Lean が切り盛りし、固く守られたレシピによる伝統的なニョニャ料理を供する。2022 年のマレーシア初のミシュラン選出で初めて星を獲得した。"
 
 tier: "2"

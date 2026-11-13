@@ -4,7 +4,7 @@ title: "Beta: 쿠알라룸푸르의 1개 MICHELIN Star 현대 말레이시아 �
 seoTitle: "Beta: KL의 1개 MICHELIN Star 레스토랑"
 slug: "beta"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Beta는 쿠알라룸푸르 Jalan Perak에 있는 현대 말레이시아 파인다이닝 레스토랑입니다. MICHELIN Guide Kuala Lumpur & Penang에서 1개의 MICHELIN Star를 보유하고 있으며, 그 등재는 현대적 기법과 정교한 플레이팅으로 이 나라의 요리를 재해석하는 「Tour of Malaysia」 메뉴를 설명합니다. 이 프로필은 그 평가, 요리, 공간, 그리고 방문 방법을 다룹니다."
 
 tier: "2"

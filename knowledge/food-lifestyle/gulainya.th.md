@@ -3,7 +3,7 @@ topicId: MY-MICH-0015
 title: "Gulainya: ร้าน Peranakan ระดับ Bib Gourmand ในกัวลาลัมเปอร์"
 slug: "gulainya"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "th"
 sourceContentHash: "4caedcdc4a962ae8"
 masterLanguage: "en"

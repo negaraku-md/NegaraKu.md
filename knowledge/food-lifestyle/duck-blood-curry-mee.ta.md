@@ -9,7 +9,7 @@ heroCredit: "JB Macatulad / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Duck Blood Curry Mee என்பது ஜார்ஜ் டவுன், பினாங்கில் Jalan Burma-இல் உள்ள ஒரு தெரு உணவுக் கடை; இதை MICHELIN Guide Bib Gourmand தேர்வாக அங்கீகரித்துள்ளது. ஒரு மலேசிய-பாணி கஃபேக்குள் பொதிந்திருக்கும் இது, தேங்காய்ப்பாலில் செய்யப்படும் உப்பு-இனிப்பு வெள்ளைக் கறிக் குழம்பில் curry mee வழங்குகிறது; வறுத்த பன்றி இறைச்சி ஒரு தனிச்சிறப்பு மேல்-பொருளாக குறிப்பிடப்படுகிறது."
 

@@ -10,7 +10,7 @@ heroCredit: "Christopher Alvarenga"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/@krizphoto"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 foodType: "place"
 lang: "en"
 status: "published"

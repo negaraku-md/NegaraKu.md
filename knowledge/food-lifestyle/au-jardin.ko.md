@@ -4,7 +4,7 @@ title: "Au Jardin: 페낭 조지타운의 미쉐린 1스타 유러피언 레스�
 seoTitle: "Au Jardin, 조지타운, 페낭"
 slug: "au-jardin"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Au Jardin은 페낭 조지타운의 아트 스페이스 Hin Bus Depot 안에 자리한 미쉐린 1스타 유러피언 컨템퍼러리 레스토랑이다. 셰프 겸 오너 Kim Hock Su가 이끌며, 현지 터치를 가미한 창의적인 유럽 요리를 매달 바뀌는 테이스팅 메뉴로 선보인다. 시그니처로는 hay-aged Penang duck이 있다."
 
 tier: "2"

@@ -13,7 +13,7 @@ heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: "Bak kut teh"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Hing Kee Bakuteh es una casa de bak kut teh con MICHELIN Bib Gourmand en 121 Jalan Kepong, Kuala Lumpur. Sirve tanto la clásica sopa herbal suave como una versión seca más intensa, repartida en cuatro casas-tienda que se llenan a la hora del almuerzo. Este perfil cubre qué es, sus platos distintivos, dónde encontrarlo y cómo visitarlo."
 
 tier: "3"

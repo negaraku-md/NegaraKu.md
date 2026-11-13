@@ -4,7 +4,7 @@ title: "Terra Dining: مطعم ماليزي فاخر حائز على نجمة م
 seoTitle: "Terra Dining، كوالالمبور"
 slug: "terra-dining"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Terra Dining مطعم للطعام الفاخر في حي Taman Tun Dr Ismail بكوالالمبور، حاز على نجمة ميشلان واحدة ضمن اختيار دليل MICHELIN Guide Kuala Lumpur & Penang 2026. يبني الطاهي العصامي Chef Chong قائمة تذوّق من 11 طبقًا ذات طابع فرنسي على المنتجات الماليزية المحلية، مع أطباق مثل حساء الكركند (lobster bisque) بنكهة asam laksa وصلصة beurre blanc على طريقة masak lemak."
 
 tier: "2"

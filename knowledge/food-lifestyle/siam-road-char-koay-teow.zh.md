@@ -9,7 +9,7 @@ heroCredit: "Ardzun / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Siam Road Char Koay Teow 是乔治市暹路（Jalan Siam）的一家街头美食摊位，获《MICHELIN Guide》列为必比登推介（Bib Gourmand）。它以炭火翻炒扁身粿条、带出鲜明镬气而闻名，凭一道专注的菜式吸引长长的人龙。"
 

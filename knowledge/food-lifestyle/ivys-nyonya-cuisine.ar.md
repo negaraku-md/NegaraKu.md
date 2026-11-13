@@ -4,7 +4,7 @@ title: "Ivy's Nyonya Cuisine: ركيزة بيرانكانية في George Town"
 seoTitle: "Ivy's Nyonya Cuisine، George Town بينانغ"
 slug: "ivys-nyonya-cuisine"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 contentType: "place"
 lang: "ar"
 sourceContentHash: "06ede28407d72f6d"

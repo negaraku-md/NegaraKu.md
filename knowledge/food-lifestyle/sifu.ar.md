@@ -4,7 +4,7 @@ title: "‏Sifu: مطبخ Peranakan الحائز على Bib Gourmand في George
 seoTitle: "‏Sifu، George Town — MICHELIN Bib Gourmand"
 slug: "sifu"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "ar"
 sourceContentHash: "21068115c9ef4cc0"
 masterLanguage: "en"

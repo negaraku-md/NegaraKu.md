@@ -8,7 +8,7 @@ heroCredit: "Connie Ma from United States of America / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Appam_by_Connie_Ma.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "ja"
 sourceContentHash: "96389253edf1ad12"
 status: "published"

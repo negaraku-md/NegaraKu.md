@@ -9,7 +9,7 @@ heroCredit: "Ardzun / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 summary: "Siam Road Char Koay Teow es un puesto de comida callejera en Jalan Siam, George Town, Penang, incluido por la MICHELIN Guide como selección Bib Gourmand. Conocido por saltear sus fideos planos de arroz sobre carbón para un wok hei pronunciado, atrae largas colas por un único plato bien definido."
 

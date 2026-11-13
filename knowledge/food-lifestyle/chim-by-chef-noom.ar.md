@@ -4,7 +4,7 @@ title: "Chim by Chef Noom: مطعم تايلاندي راقٍ حائز على ن
 seoTitle: "Chim by Chef Noom، كوالالمبور"
 slug: "chim-by-chef-noom"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Chim by Chef Noom مطعم تايلاندي راقٍ حائز على نجمة ميشلان واحدة في برج TSLAW Tower بحي Imbi في كوالالمبور. وهو الفرع الماليزي للطاهي التايلاندي Thaninthorn 'Noom' Chantrawan، ويقدّم قائمة تذوّق تايلاندية معاصرة متجذّرة في التقاليد، بما في ذلك طبق مميّز يُوصف بأنه نسخة من التوم يام (tom yum) عمرها 200 عام."
 
 tier: "2"

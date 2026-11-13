@@ -4,7 +4,7 @@ title: "Hai Kah Lang : des nouilles aux fruits de mer Bib Gourmand à Taman Cher
 seoTitle: "Hai Kah Lang (Taman Cheras)"
 slug: "hai-kah-lang"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 tier: "2"
 mode: "narrative"

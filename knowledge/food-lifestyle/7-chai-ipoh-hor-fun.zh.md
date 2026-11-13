@@ -9,7 +9,7 @@ heroCredit: "Sharon Hahn Darlin / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Hor_Fun,_Yinzo_Kopi,_Ipoh,_Malaysia.jpg"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "7 Chai Ipoh Hor Fun 是位于吉隆坡 Pandan Perdana 的一家 MICHELIN Guide Bib Gourmand 街头美食小店，专门经营怡保风味的河粉——以鸡骨与虾头熬煮的清汤河粉，配上鸡丝，并可另加虾云吞。"
 
 tier: "4"

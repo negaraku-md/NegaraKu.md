@@ -3,7 +3,7 @@ topicId: MY-MICH-0014
 title: "De. Wan 1958: कुआलालंपुर में Chef Wan का Bib Gourmand मलेशियाई रेस्तरां"
 slug: "de-wan-1958"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 lang: "hi"
 sourceContentHash: "ae1a13bf12dd65ed"
 masterLanguage: "en"

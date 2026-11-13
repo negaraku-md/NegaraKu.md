@@ -4,7 +4,7 @@ title: "Ivy's Nyonya Cuisine: George Town's Peranakan Mainstay"
 seoTitle: "Ivy's Nyonya Cuisine, George Town Penang"
 slug: "ivys-nyonya-cuisine"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 foodType: "place"
 contentType: "place"
 lang: "en"

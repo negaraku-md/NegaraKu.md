@@ -4,7 +4,7 @@ title: "Ivy's Nyonya Cuisine: George Town-இன் பேரநக்கன் 
 seoTitle: "Ivy's Nyonya Cuisine, George Town பினாங்கு"
 slug: "ivys-nyonya-cuisine"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 contentType: "place"
 lang: "ta"
 sourceContentHash: "06ede28407d72f6d"

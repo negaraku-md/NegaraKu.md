@@ -4,7 +4,7 @@ title: "Lama: Một bếp Nyonya đạt Bib Gourmand giữa đồ cổ"
 seoTitle: "Lama (Kuala Lumpur)"
 slug: "lama"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Lama là một nhà hàng Peranakan đạt MICHELIN Bib Gourmand ở Kuala Lumpur, được thêm vào danh sách tuyển chọn Kuala Lumpur và Penang của Guide năm 2026. Một đội cha-và-con gái nấu các món Nyonya gia đình đích thực để chia sẻ, trong không gian nội thất đầy bộ sưu tập đồ cổ do chủ nhà tuyển chọn. Bài viết này trình bày quán là gì, món đặc trưng, không gian và cách ghé thăm."
 
 tier: "3"

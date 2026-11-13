@@ -4,7 +4,7 @@ title: "Hai Kah Lang: तामान चेरस में Bib Gourmand सी
 seoTitle: "Hai Kah Lang (Taman Cheras)"
 slug: "hai-kah-lang"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 
 tier: "2"
 mode: "narrative"

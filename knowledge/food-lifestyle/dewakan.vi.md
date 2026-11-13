@@ -4,7 +4,7 @@ title: "Dewakan: Nhà hàng hai MICHELIN Star của Kuala Lumpur"
 seoTitle: "Dewakan: Nhà hàng hai MICHELIN Star ở KL"
 slug: "dewakan"
 category: "food-lifestyle"
-subcategory: ["restaurants"]
+subcategory: ["michelin-guide"]
 summary: "Dewakan là một nhà hàng fine dining trên tầng 48 của Naza Tower tại Kuala Lumpur, do đầu bếp Darren Teoh dẫn dắt. Nhà hàng giữ hai MICHELIN Star trong MICHELIN Guide Kuala Lumpur & Penang——là nhà hàng hai-Star duy nhất tại Malaysia——cùng một MICHELIN Green Star về tính bền vững. Hồ sơ này bao quát sự ghi nhận, ẩm thực lấy nguyên liệu bản địa làm trọng tâm, không gian và cách ghé thăm."
 
 tier: "2"
