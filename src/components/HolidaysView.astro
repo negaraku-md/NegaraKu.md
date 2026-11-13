@@ -6,8 +6,7 @@
 import type { Locale } from '@/lib/categories';
 import { localePath } from '@/lib/i18n';
 import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
-import SponsorCTA from './SponsorCTA.astro';
-import PageHero from './PageHero.astro';
+import ToolArticleView from './ToolArticleView.astro';
 import { holidaysFor, longWeekends, nextHoliday, STATES, YEARS, META, type StateId, type Lang } from '@/lib/holidays/engine';
 
 interface Props { locale: Locale; initialState?: StateId; }
@@ -79,20 +78,33 @@ const heroDesc = L(
   `Public holidays by state and year (${YEARS[0]}–${YEARS[YEARS.length - 1]}) — with a long-weekend finder and a working-days calculator. All in your browser.`,
   `按州属与年份列出的公共假期（${YEARS[0]}–${YEARS[YEARS.length - 1]}）——含长周末查找与工作日计算器。全部在浏览器中运行。`,
 );
+
+const howText = L(
+  'Pilih tahun dan negeri untuk melihat cuti umum yang diwartakan, hujung minggu panjang dan hari bekerja negeri itu.',
+  "Pick a year and state to see that state's gazetted public holidays, long weekends and working days.",
+  '选择年份与州属，即可查看该州已宪报的公共假期、长周末与工作日。',
+);
+
+const relatedLinks = [
+  { label: L('Cuti umum di Malaysia', 'Public holidays in Malaysia', '马来西亚的公共假期'), href: localePath('/malaysia/public-holidays-in-malaysia', locale) },
+  { label: L('Cuti umum & undang-undang pekerjaan', 'Public holidays & employment law', '公共假期与劳动法'), href: localePath('/employment/public-holidays-malaysia', locale) },
+  { label: L('Kelayakan cuti', 'Leave entitlements', '休假权益'), href: localePath('/employment/leave-entitlements-malaysia', locale) },
+];
 ---
 
-<PageHero
+<ToolArticleView
   locale={locale}
-  crumb={[
-    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
-    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
-    { label: title },
-  ]}
+  toolId="public-holidays"
   title={title}
-  desc={heroDesc}
-/>
-
-<section class="itc-wrap" data-pagefind-ignore>
+  lede={heroDesc}
+  asOf={META.asOf}
+  how={howText}
+  faqs={faqs}
+  sources={META.sources}
+  related={relatedLinks}
+  sponsor={sponsor}
+  sponsorHref={sponsorHref}
+>
   <div
     id="hol"
     data-lang={lang}
@@ -157,23 +169,6 @@ const heroDesc = L(
     </div>
 
     <p class="itc-asof hol-note">{ui.provisional}<br />{META.note} ({META.legalBasis}). {L('Setakat', 'As of', '截至')} {META.asOf}.</p>
-  </div>
-
-  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
-
-  <div class="itc-prose">
-    <h2>{L('Soalan lazim', 'Frequently asked', '常见问题')}</h2>
-    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
-
-    <h3>{L('Bacaan berkaitan', 'Related reading', '相关阅读')}</h3>
-    <ul class="itc-links">
-      <li><a href={localePath('/malaysia/public-holidays-in-malaysia', locale)}>{L('Cuti umum di Malaysia', 'Public holidays in Malaysia', '马来西亚的公共假期')}</a></li>
-      <li><a href={localePath('/employment/public-holidays-malaysia', locale)}>{L('Cuti umum & undang-undang pekerjaan', 'Public holidays & employment law', '公共假期与劳动法')}</a></li>
-      <li><a href={localePath('/employment/leave-entitlements-malaysia', locale)}>{L('Kelayakan cuti', 'Leave entitlements', '休假权益')}</a></li>
-    </ul>
-
-    <h3>{L('Sumber', 'Sources', '来源')}</h3>
-    <ul class="itc-src">{META.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener noreferrer">{s.title}</a></li>))}</ul>
 
     <p class="itc-disclaimer">{L(
       'Alat ini memberikan tarikh seperti diwartakan untuk panduan sahaja dan bukan nasihat rasmi. Sahkan cuti rasmi dengan kabinet.gov.my atau warta negeri anda.',
@@ -181,7 +176,7 @@ const heroDesc = L(
       '本工具按宪报列出日期，仅供参考，非官方公告。请以 kabinet.gov.my 或贵州宪报核实官方假期。',
     )}</p>
   </div>
-</section>
+</ToolArticleView>
 
 <script>
   import { holidaysFor, longWeekends, nextHoliday, workingDaysBetween } from '@/lib/holidays/engine';

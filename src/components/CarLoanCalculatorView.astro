@@ -4,6 +4,7 @@ import { localePath } from '@/lib/i18n';
 import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
 import SponsorCTA from './SponsorCTA.astro';
 import PageHero from './PageHero.astro';
+import ToolArticleView from './ToolArticleView.astro';
 
 interface Props { locale: Locale; }
 const { locale } = Astro.props;
@@ -76,20 +77,30 @@ const ui = {
 };
 
 const asOf = '2026-01-01';
+
+const howText = L(
+  'Kami mulakan daripada harga kenderaan, menolak bayaran muka anda untuk mendapatkan jumlah pinjaman. Faedah kadar rata dikira sebagai pinjaman × kadar rata × tahun, dan ditambah kepada pokok untuk mendapat jumlah kena bayar; ini dibahagikan dengan bilangan bulan untuk ansuran tetap bulanan. Kami kemudian menyelesaikan secara berangka untuk kadar baki berkurang (APR) yang menghasilkan ansuran yang sama — kadar berkesan sebenar yang anda bayar.',
+  'We start from the vehicle price, subtract your down payment to get the loan amount. Flat-rate interest is loan × flat rate × years, added to the principal to give the total payable; this is divided by the number of months for a fixed monthly instalment. We then numerically solve for the reducing-balance rate (APR) that produces the same instalment — the true effective rate you pay.',
+  '我们从车价出发，减去首付得到贷款额。固定利率利息为贷款额 × 固定利率 × 年数，加到本金上得到应付总额；再除以月数得到每月固定分期付款。随后我们通过数值求解得出产生相同分期付款的递减余额利率（APR）——即你实际支付的真实利率。',
+);
+const relatedLinks = [
+  { label: L('Membeli kereta di Malaysia', 'Buying a car in Malaysia', '在马来西亚买车'), href: localePath('/transport/buying-a-car', locale) },
+  { label: L('Kalkulator gaji bersih', 'Salary take-home calculator', '实得工资计算器'), href: localePath('/tools/salary-take-home', locale) },
+];
 ---
 
-<PageHero
+<ToolArticleView
   locale={locale}
-  crumb={[
-    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
-    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
-    { label: title },
-  ]}
+  toolId="car-loan-calculator"
   title={title}
-  desc={heroDesc}
-/>
-
-<section class="container block">
+  lede={heroDesc}
+  asOf={asOf}
+  how={howText}
+  faqs={faqs}
+  related={relatedLinks}
+  sponsor={sponsor}
+  sponsorHref={sponsorHref}
+>
   <div class="itc" id="clc">
     <form class="itc-form" autocomplete="off">
       <div class="itc-row">
@@ -143,28 +154,9 @@ const asOf = '2026-01-01';
         <p class="clc-eff-note">{ui.effNote}</p>
       </div>
     </aside>
+    <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
   </div>
-
-  <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
-
-  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
-
-  <div class="itc-prose">
-    <h2>{ui.howH}</h2>
-    <p>{L(
-      'Kami mulakan daripada harga kenderaan, menolak bayaran muka anda untuk mendapatkan jumlah pinjaman. Faedah kadar rata dikira sebagai pinjaman × kadar rata × tahun, dan ditambah kepada pokok untuk mendapat jumlah kena bayar; ini dibahagikan dengan bilangan bulan untuk ansuran tetap bulanan. Kami kemudian menyelesaikan secara berangka untuk kadar baki berkurang (APR) yang menghasilkan ansuran yang sama — kadar berkesan sebenar yang anda bayar.',
-      'We start from the vehicle price, subtract your down payment to get the loan amount. Flat-rate interest is loan × flat rate × years, added to the principal to give the total payable; this is divided by the number of months for a fixed monthly instalment. We then numerically solve for the reducing-balance rate (APR) that produces the same instalment — the true effective rate you pay.',
-      '我们从车价出发，减去首付得到贷款额。固定利率利息为贷款额 × 固定利率 × 年数，加到本金上得到应付总额；再除以月数得到每月固定分期付款。随后我们通过数值求解得出产生相同分期付款的递减余额利率（APR）——即你实际支付的真实利率。',
-    )}</p>
-    <h2>FAQ</h2>
-    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
-    <h2>{ui.learnH}</h2>
-    <ul class="itc-links">
-      <li><a href={localePath('/transport/buying-a-car', locale)}>{L('Membeli kereta di Malaysia', 'Buying a car in Malaysia', '在马来西亚买车')}</a></li>
-      <li><a href={localePath('/tools/salary-take-home', locale)}>{L('Kalkulator gaji bersih', 'Salary take-home calculator', '实得工资计算器')}</a></li>
-    </ul>
-  </div>
-</section>
+</ToolArticleView>
 
 <script>
   import { computeCarLoan } from '@/lib/tax/carLoan';

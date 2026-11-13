@@ -2,8 +2,7 @@
 import type { Locale } from '@/lib/categories';
 import { localePath } from '@/lib/i18n';
 import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
-import SponsorCTA from './SponsorCTA.astro';
-import PageHero from './PageHero.astro';
+import ToolArticleView from './ToolArticleView.astro';
 import { OT } from '@/lib/tax/overtime';
 
 interface Props { locale: Locale; }
@@ -76,20 +75,32 @@ const ui = {
   howH: L('Cara ia dikira', 'How it is calculated', '计算方式'),
   learnH: L('Ketahui lebih lanjut', 'Learn more', '了解更多'),
 };
+
+const howText = L(
+  'Kami kira kadar biasa sehari (ORP = gaji bulanan ÷ 26) dan kadar sejam (ORP ÷ jam kerja biasa). Lebih masa hari biasa dibayar 1.5× kadar sejam; kerja hari rehat melebihi jam biasa pada 2×; kerja cuti umum melebihi jam biasa pada 3×, manakala kerja dalam jam biasa pada cuti umum bernilai 2 hari gaji. Cuti tanpa gaji ditolak pada ORP sehari.',
+  'We compute the ordinary rate of pay per day (ORP = monthly wage ÷ 26) and the hourly rate (ORP ÷ normal daily hours). Normal-day overtime pays 1.5× the hourly rate; rest-day work beyond normal hours pays 2×; public-holiday work beyond normal hours pays 3×, while work within normal hours on a public holiday is worth 2 days’ pay. Unpaid leave is deducted at one day’s ORP.',
+  '我们计算每日普通工资率（ORP＝月薪 ÷ 26）与时薪（ORP ÷ 每日正常工时）。普通工作日加班按时薪 1.5 倍支付；休息日超出正常工时按 2 倍；公共假期超出正常工时按 3 倍，而公共假期正常工时内的工作价值 2 天工资。无薪假按每天一天 ORP 扣除。',
+);
+
+const relatedLinks = [
+  { label: L('Waktu kerja, hari rehat dan lebih masa', 'Working hours, rest days and overtime', '工作时间、休息日与加班'), href: localePath('/employment/working-hours-overtime-malaysia', locale) },
+  { label: L('Kalkulator gaji bersih', 'Salary take-home calculator', '实得工资计算器'), href: localePath('/tools/salary-take-home', locale) },
+];
 ---
 
-<PageHero
+<ToolArticleView
   locale={locale}
-  crumb={[
-    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
-    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
-    { label: title },
-  ]}
+  toolId="overtime-calculator"
   title={title}
-  desc={heroDesc}
-/>
-
-<section class="container block">
+  lede={heroDesc}
+  asOf={OT.asOf}
+  how={howText}
+  faqs={faqs}
+  sources={OT.sources}
+  related={relatedLinks}
+  sponsor={sponsor}
+  sponsorHref={sponsorHref}
+>
   <div
     class="itc"
     id="ot"
@@ -139,30 +150,9 @@ const ui = {
       </dl>
       <p class="ot-caveat">{ui.caveat}</p>
     </aside>
+    <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
   </div>
-
-  <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
-
-  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
-
-  <div class="itc-prose">
-    <h2>{ui.howH}</h2>
-    <p>{L(
-      'Kami kira kadar biasa sehari (ORP = gaji bulanan ÷ 26) dan kadar sejam (ORP ÷ jam kerja biasa). Lebih masa hari biasa dibayar 1.5× kadar sejam; kerja hari rehat melebihi jam biasa pada 2×; kerja cuti umum melebihi jam biasa pada 3×, manakala kerja dalam jam biasa pada cuti umum bernilai 2 hari gaji. Cuti tanpa gaji ditolak pada ORP sehari.',
-      'We compute the ordinary rate of pay per day (ORP = monthly wage ÷ 26) and the hourly rate (ORP ÷ normal daily hours). Normal-day overtime pays 1.5× the hourly rate; rest-day work beyond normal hours pays 2×; public-holiday work beyond normal hours pays 3×, while work within normal hours on a public holiday is worth 2 days’ pay. Unpaid leave is deducted at one day’s ORP.',
-      '我们计算每日普通工资率（ORP＝月薪 ÷ 26）与时薪（ORP ÷ 每日正常工时）。普通工作日加班按时薪 1.5 倍支付；休息日超出正常工时按 2 倍；公共假期超出正常工时按 3 倍，而公共假期正常工时内的工作价值 2 天工资。无薪假按每天一天 ORP 扣除。',
-    )}</p>
-    <h2>FAQ</h2>
-    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
-    <h2>{ui.learnH}</h2>
-    <ul class="itc-links">
-      <li><a href={localePath('/employment/working-hours-overtime-malaysia', locale)}>{L('Waktu kerja, hari rehat dan lebih masa', 'Working hours, rest days and overtime', '工作时间、休息日与加班')}</a></li>
-      <li><a href={localePath('/tools/salary-take-home', locale)}>{L('Kalkulator gaji bersih', 'Salary take-home calculator', '实得工资计算器')}</a></li>
-    </ul>
-    <h3>{L('Sumber', 'Sources', '来源')}</h3>
-    <ul class="itc-src">{OT.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}</ul>
-  </div>
-</section>
+</ToolArticleView>
 
 <script>
   import { computeWorkPay } from '@/lib/tax/overtime';

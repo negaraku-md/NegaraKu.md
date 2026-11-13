@@ -4,6 +4,7 @@ import { articlesForLocale } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
 import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
 import SponsorCTA from './SponsorCTA.astro';
+import ToolArticleView from './ToolArticleView.astro';
 
 // THE COMPLIANCE CALENDAR.
 //
@@ -137,29 +138,39 @@ const ccMsg = {
 };
 
 const groups = [...new Set(unique.map((r) => r.trigger))];
+
+const title = L('Kalendar Pematuhan', 'Compliance Calendar', '合规日历', 'இணக்க நாட்காட்டி', 'コンプライアンスカレンダー', '규정 준수 달력', 'ปฏิทินการปฏิบัติตามกฎ', 'Lịch tuân thủ', 'Kalender Kepatuhan', 'تقويم الامتثال', 'अनुपालन कैलेंडर', 'Calendario de cumplimiento', 'Calendrier de conformité');
+const lede = L(
+  'Kewajipan berkanun bermula pada hari syarikat anda ditubuhkan — dan tiada siapa akan mengingatkan anda. Isi tarikh penubuhan, akhir tahun kewangan atau tarikh peristiwa untuk melihat tarikh akhir sebenar anda. Kewajipan bulanan (cth. KWSP) sentiasa menunjukkan tarikh seterusnya.',
+  'Statutory duties start the day your company is incorporated — and nobody sends a reminder. Fill in your incorporation date, financial year end or an event date to see your actual deadlines. Monthly duties (e.g. EPF) always show the next date.',
+  '法定义务从公司成立当天开始——而且没有人会提醒你。填写成立日期、财政年结日或事件日期，即可查看你的实际截止日期。每月义务（如公积金）始终显示下一个日期。',
+  'சட்டப்பூர்வக் கடமைகள் உங்கள் நிறுவனம் பதிவு செய்யப்படும் நாளிலேயே தொடங்குகின்றன — யாரும் நினைவூட்டல் அனுப்ப மாட்டார்கள். உங்கள் உண்மையான இறுதி தேதிகளைக் காண, நிறுவனப் பதிவு தேதி, நிதியாண்டு இறுதி அல்லது நிகழ்வு தேதியை உள்ளிடுங்கள். மாதாந்திரக் கடமைகள் (எ.கா. KWSP) எப்போதும் அடுத்த தேதியைக் காட்டும்.',
+  '法定義務は会社が設立された日から始まります — そして誰も通知してくれません。設立日、会計年度末、またはイベント日を入力すると、実際の期限が表示されます。毎月の義務（例：EPF）は常に次回の日付を表示します。',
+  '법정 의무는 회사가 설립되는 날부터 시작되며 — 아무도 알림을 보내주지 않습니다. 실제 기한을 확인하려면 설립일, 회계연도 말 또는 이벤트 날짜를 입력하세요. 매월 의무(예: EPF)는 항상 다음 날짜를 표시합니다.',
+  'ภาระผูกพันตามกฎหมายเริ่มต้นในวันที่บริษัทของคุณจดทะเบียนจัดตั้ง — และไม่มีใครส่งการแจ้งเตือนให้คุณ กรอกวันจดทะเบียนจัดตั้ง วันสิ้นปีบัญชี หรือวันที่เกิดเหตุการณ์ เพื่อดูกำหนดเส้นตายที่แท้จริงของคุณ ภาระผูกพันรายเดือน (เช่น EPF) จะแสดงวันที่ถัดไปเสมอ',
+  'Các nghĩa vụ theo luật định bắt đầu ngay ngày công ty của bạn được thành lập — và không ai gửi lời nhắc cho bạn. Hãy nhập ngày thành lập, ngày cuối năm tài chính hoặc ngày diễn ra sự kiện để xem các hạn chót thực tế của bạn. Các nghĩa vụ hằng tháng (ví dụ EPF) luôn hiển thị ngày kế tiếp.',
+  'Kewajiban hukum dimulai pada hari perusahaan Anda didirikan — dan tidak ada yang akan mengingatkan Anda. Isi tanggal pendirian, akhir tahun keuangan atau tanggal peristiwa untuk melihat tenggat waktu Anda yang sebenarnya. Kewajiban bulanan (mis. KWSP) selalu menampilkan tanggal berikutnya.',
+  'تبدأ الواجبات القانونية في اليوم الذي تُؤسَّس فيه شركتك — ولا أحد يرسل تذكيرًا. أدخِل تاريخ التأسيس أو نهاية السنة المالية أو تاريخ حدث لرؤية المواعيد النهائية الفعلية الخاصة بك. تُظهِر الواجبات الشهرية (مثل EPF) دائمًا التاريخ التالي.',
+  'वैधानिक कर्तव्य उसी दिन से शुरू हो जाते हैं जिस दिन आपकी कंपनी का निगमन होता है — और कोई अनुस्मारक नहीं भेजता। अपनी वास्तविक समय-सीमाएँ देखने के लिए निगमन तिथि, वित्तीय वर्ष की समाप्ति या किसी घटना की तिथि दर्ज करें। मासिक कर्तव्य (जैसे EPF) हमेशा अगली तिथि दिखाते हैं।',
+  'Los deberes legales comienzan el día en que se constituye tu empresa — y nadie te envía un recordatorio. Introduce la fecha de constitución, el cierre del año fiscal o una fecha de evento para ver tus plazos reales. Los deberes mensuales (p. ej. EPF) siempre muestran la próxima fecha.',
+  "Les obligations légales commencent le jour de la constitution de votre entreprise — et personne ne vous envoie de rappel. Saisissez la date de constitution, la clôture de l'exercice ou la date d'un événement pour voir vos échéances réelles. Les obligations mensuelles (p. ex. EPF) affichent toujours la prochaine date.",
+);
+const howText = L(
+  'Isi tarikh penubuhan, akhir tahun kewangan atau tarikh peristiwa untuk melihat setiap tarikh akhir berkanun sebagai kalendar bertarikh.',
+  'Fill in your incorporation date, financial year-end or an event date to see every statutory deadline as a dated calendar.',
+  '填写成立日期、财政年结或事件日期，即可将每项法定截止日期显示为带日期的日历。',
+);
 ---
 
-<section class="container block">
-  <p class="eyebrow">{L('Alat', 'Tool', '工具', 'கருவி', 'ツール', '도구', 'เครื่องมือ', 'Công cụ', 'Alat', 'أداة', 'उपकरण', 'Herramienta', 'Outil')}</p>
-  <h1>{L('Kalendar Pematuhan', 'Compliance Calendar', '合规日历', 'இணக்க நாட்காட்டி', 'コンプライアンスカレンダー', '규정 준수 달력', 'ปฏิทินการปฏิบัติตามกฎ', 'Lịch tuân thủ', 'Kalender Kepatuhan', 'تقويم الامتثال', 'अनुपालन कैलेंडर', 'Calendario de cumplimiento', 'Calendrier de conformité')}</h1>
-  <p class="lede">
-    {L(
-      'Kewajipan berkanun bermula pada hari syarikat anda ditubuhkan — dan tiada siapa akan mengingatkan anda. Isi tarikh penubuhan, akhir tahun kewangan atau tarikh peristiwa untuk melihat tarikh akhir sebenar anda. Kewajipan bulanan (cth. KWSP) sentiasa menunjukkan tarikh seterusnya.',
-      'Statutory duties start the day your company is incorporated — and nobody sends a reminder. Fill in your incorporation date, financial year end or an event date to see your actual deadlines. Monthly duties (e.g. EPF) always show the next date.',
-      '法定义务从公司成立当天开始——而且没有人会提醒你。填写成立日期、财政年结日或事件日期，即可查看你的实际截止日期。每月义务（如公积金）始终显示下一个日期。',
-      'சட்டப்பூர்வக் கடமைகள் உங்கள் நிறுவனம் பதிவு செய்யப்படும் நாளிலேயே தொடங்குகின்றன — யாரும் நினைவூட்டல் அனுப்ப மாட்டார்கள். உங்கள் உண்மையான இறுதி தேதிகளைக் காண, நிறுவனப் பதிவு தேதி, நிதியாண்டு இறுதி அல்லது நிகழ்வு தேதியை உள்ளிடுங்கள். மாதாந்திரக் கடமைகள் (எ.கா. KWSP) எப்போதும் அடுத்த தேதியைக் காட்டும்.',
-      '法定義務は会社が設立された日から始まります — そして誰も通知してくれません。設立日、会計年度末、またはイベント日を入力すると、実際の期限が表示されます。毎月の義務（例：EPF）は常に次回の日付を表示します。',
-      '법정 의무는 회사가 설립되는 날부터 시작되며 — 아무도 알림을 보내주지 않습니다. 실제 기한을 확인하려면 설립일, 회계연도 말 또는 이벤트 날짜를 입력하세요. 매월 의무(예: EPF)는 항상 다음 날짜를 표시합니다.',
-      'ภาระผูกพันตามกฎหมายเริ่มต้นในวันที่บริษัทของคุณจดทะเบียนจัดตั้ง — และไม่มีใครส่งการแจ้งเตือนให้คุณ กรอกวันจดทะเบียนจัดตั้ง วันสิ้นปีบัญชี หรือวันที่เกิดเหตุการณ์ เพื่อดูกำหนดเส้นตายที่แท้จริงของคุณ ภาระผูกพันรายเดือน (เช่น EPF) จะแสดงวันที่ถัดไปเสมอ',
-      'Các nghĩa vụ theo luật định bắt đầu ngay ngày công ty của bạn được thành lập — và không ai gửi lời nhắc cho bạn. Hãy nhập ngày thành lập, ngày cuối năm tài chính hoặc ngày diễn ra sự kiện để xem các hạn chót thực tế của bạn. Các nghĩa vụ hằng tháng (ví dụ EPF) luôn hiển thị ngày kế tiếp.',
-      'Kewajiban hukum dimulai pada hari perusahaan Anda didirikan — dan tidak ada yang akan mengingatkan Anda. Isi tanggal pendirian, akhir tahun keuangan atau tanggal peristiwa untuk melihat tenggat waktu Anda yang sebenarnya. Kewajiban bulanan (mis. KWSP) selalu menampilkan tanggal berikutnya.',
-      'تبدأ الواجبات القانونية في اليوم الذي تُؤسَّس فيه شركتك — ولا أحد يرسل تذكيرًا. أدخِل تاريخ التأسيس أو نهاية السنة المالية أو تاريخ حدث لرؤية المواعيد النهائية الفعلية الخاصة بك. تُظهِر الواجبات الشهرية (مثل EPF) دائمًا التاريخ التالي.',
-      'वैधानिक कर्तव्य उसी दिन से शुरू हो जाते हैं जिस दिन आपकी कंपनी का निगमन होता है — और कोई अनुस्मारक नहीं भेजता। अपनी वास्तविक समय-सीमाएँ देखने के लिए निगमन तिथि, वित्तीय वर्ष की समाप्ति या किसी घटना की तिथि दर्ज करें। मासिक कर्तव्य (जैसे EPF) हमेशा अगली तिथि दिखाते हैं।',
-      'Los deberes legales comienzan el día en que se constituye tu empresa — y nadie te envía un recordatorio. Introduce la fecha de constitución, el cierre del año fiscal o una fecha de evento para ver tus plazos reales. Los deberes mensuales (p. ej. EPF) siempre muestran la próxima fecha.',
-      "Les obligations légales commencent le jour de la constitution de votre entreprise — et personne ne vous envoie de rappel. Saisissez la date de constitution, la clôture de l'exercice ou la date d'un événement pour voir vos échéances réelles. Les obligations mensuelles (p. ex. EPF) affichent toujours la prochaine date.",
-    )}
-  </p>
-
+<ToolArticleView
+  locale={locale}
+  toolId="compliance-calendar"
+  title={title}
+  lede={lede}
+  how={howText}
+  sponsor={sponsor}
+  sponsorHref={sponsorHref}
+>
   <div class="datebar">
     <div class="field">
       <label for="inc">{L('Tarikh penubuhan', 'Incorporation date', '公司成立日期', 'நிறுவனப் பதிவு தேதி', '設立日', '설립일', 'วันจดทะเบียนจัดตั้ง', 'Ngày thành lập', 'Tanggal pendirian', 'تاريخ التأسيس', 'निगमन तिथि', 'Fecha de constitución', 'Date de constitution')}</label>
@@ -257,9 +268,7 @@ const groups = [...new Set(unique.map((r) => r.trigger))];
       "Chaque obligation figurant ici est tirée directement de l'article qui l'explique — cliquez pour voir le détail complet. Il s'agit d'une orientation générale, et non d'un conseil professionnel.",
     )}
   </p>
-
-  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
-</section>
+</ToolArticleView>
 
 <script type="application/json" id="cc-i18n" set:html={JSON.stringify(ccMsg)}></script>
 

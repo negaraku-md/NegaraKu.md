@@ -4,6 +4,7 @@ import { localePath } from '@/lib/i18n';
 import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
 import SponsorCTA from './SponsorCTA.astro';
 import PageHero from './PageHero.astro';
+import ToolArticleView from './ToolArticleView.astro';
 import { EPF_DEFAULTS } from '@/lib/tax/epfRetirement';
 
 interface Props { locale: Locale; }
@@ -68,20 +69,32 @@ const ui = {
   howH: L('Cara ia dikira', 'How it is calculated', '计算方式'),
   learnH: L('Ketahui lebih lanjut', 'Learn more', '了解更多'),
 };
+
+const howText = L(
+  'Kami mula dengan baki KWSP semasa anda. Bagi setiap tahun hingga persaraan, baki tumbuh mengikut dividen yang diandaikan, kemudian caruman tahun itu ditambah — 11% bahagian pekerja dan 12% atau 13% bahagian majikan atas gaji bulanan anda. Jumlah dividen diperoleh ialah unjuran baki tolak baki semasa dan jumlah caruman. Ubah dividen atau pertumbuhan gaji untuk melihat senario berbeza.',
+  'We start with your current EPF balance. For each year to retirement, the balance grows by the assumed dividend, then that year’s contributions are added — the 11% employee share and the 12% or 13% employer share on your monthly salary. Total dividends earned is the projected balance minus your current balance and total contributions. Change the dividend or salary growth to see different scenarios.',
+  '我们从你当前的公积金余额开始。在距退休的每一年，余额按假设股息增长，然后加入当年的缴款——雇员 11% 加上雇主 12% 或 13%（按你的每月工资计算）。赚取的总股息即预测余额减去当前余额和总缴款。更改股息或薪资增长即可查看不同情景。',
+);
+const relatedLinks = [
+  { label: L('Kalkulator gaji bersih', 'Salary take-home calculator', '实得工资计算器'), href: localePath('/tools/salary-take-home', locale) },
+  { label: L('KWSP & PERKESO untuk pekerja', 'EPF & SOCSO for employees', '雇员的公积金与社险'), href: localePath('/money-daily-life/epf-socso-employees', locale) },
+  { label: L('Skim Pelaburan Ahli KWSP', 'EPF Members Investment Scheme', '公积金会员投资计划'), href: localePath('/finance/epf-members-investment-scheme', locale) },
+];
 ---
 
-<PageHero
+<ToolArticleView
   locale={locale}
-  crumb={[
-    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
-    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
-    { label: title },
-  ]}
+  toolId="epf-retirement"
   title={title}
-  desc={heroDesc}
-/>
-
-<section class="container block">
+  lede={heroDesc}
+  asOf={EPF_DEFAULTS.asOf}
+  how={howText}
+  faqs={faqs}
+  sources={EPF_DEFAULTS.sources}
+  related={relatedLinks}
+  sponsor={sponsor}
+  sponsorHref={sponsorHref}
+>
   <div class="itc" id="epf" data-dividend-default={(EPF_DEFAULTS.assumedDividend * 100).toString()} data-retire-default={EPF_DEFAULTS.retirementAge.toString()}>
     <form class="itc-form" autocomplete="off">
       <div class="itc-row">
@@ -130,31 +143,9 @@ const ui = {
       </dl>
       <p class="epf-note">{ui.projNote}</p>
     </aside>
+    <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
   </div>
-
-  <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
-
-  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
-
-  <div class="itc-prose">
-    <h2>{ui.howH}</h2>
-    <p>{L(
-      'Kami mula dengan baki KWSP semasa anda. Bagi setiap tahun hingga persaraan, baki tumbuh mengikut dividen yang diandaikan, kemudian caruman tahun itu ditambah — 11% bahagian pekerja dan 12% atau 13% bahagian majikan atas gaji bulanan anda. Jumlah dividen diperoleh ialah unjuran baki tolak baki semasa dan jumlah caruman. Ubah dividen atau pertumbuhan gaji untuk melihat senario berbeza.',
-      'We start with your current EPF balance. For each year to retirement, the balance grows by the assumed dividend, then that year’s contributions are added — the 11% employee share and the 12% or 13% employer share on your monthly salary. Total dividends earned is the projected balance minus your current balance and total contributions. Change the dividend or salary growth to see different scenarios.',
-      '我们从你当前的公积金余额开始。在距退休的每一年，余额按假设股息增长，然后加入当年的缴款——雇员 11% 加上雇主 12% 或 13%（按你的每月工资计算）。赚取的总股息即预测余额减去当前余额和总缴款。更改股息或薪资增长即可查看不同情景。',
-    )}</p>
-    <h2>FAQ</h2>
-    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
-    <h2>{ui.learnH}</h2>
-    <ul class="itc-links">
-      <li><a href={localePath('/tools/salary-take-home', locale)}>{L('Kalkulator gaji bersih', 'Salary take-home calculator', '实得工资计算器')}</a></li>
-      <li><a href={localePath('/money-daily-life/epf-socso-employees', locale)}>{L('KWSP & PERKESO untuk pekerja', 'EPF & SOCSO for employees', '雇员的公积金与社险')}</a></li>
-      <li><a href={localePath('/finance/epf-members-investment-scheme', locale)}>{L('Skim Pelaburan Ahli KWSP', 'EPF Members Investment Scheme', '公积金会员投资计划')}</a></li>
-    </ul>
-    <h3>{L('Sumber', 'Sources', '来源')}</h3>
-    <ul class="itc-src">{EPF_DEFAULTS.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}</ul>
-  </div>
-</section>
+</ToolArticleView>
 
 <script>
   import { computeEpfRetirement, EPF_DEFAULTS } from '@/lib/tax/epfRetirement';

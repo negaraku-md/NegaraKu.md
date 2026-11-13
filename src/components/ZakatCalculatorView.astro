@@ -2,8 +2,7 @@
 import type { Locale } from '@/lib/categories';
 import { localePath } from '@/lib/i18n';
 import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
-import SponsorCTA from './SponsorCTA.astro';
-import PageHero from './PageHero.astro';
+import ToolArticleView from './ToolArticleView.astro';
 import { ZAKAT } from '@/lib/tax/zakat';
 
 interface Props { locale: Locale; }
@@ -81,20 +80,31 @@ const ui = {
   howH: L('Cara ia dikira', 'How it is calculated', '计算方式'),
   learnH: L('Ketahui lebih lanjut', 'Learn more', '了解更多'),
 };
+
+const howText = L(
+  'Kami mulakan daripada jumlah yang anda masukkan — pendapatan tahunan, baki simpanan terendah sepanjang tahun, atau aset semasa bersih perniagaan — dan menolak sebarang keperluan asas atau potongan yang dibenarkan untuk mendapat jumlah layak zakat. Jika jumlah itu mencapai nisab, zakat ialah 2.5% daripadanya; jika di bawah nisab, tiada zakat lagi wajib. Nisab (nilai 85g emas) boleh disunting kerana ia ditetapkan oleh setiap negeri.',
+  'We start from the amount you enter — annual income, the lowest savings balance across the year, or the business’s net current assets — and subtract any basic needs or allowable deductions to get the zakatable amount. If that amount reaches the nisab, zakat is 2.5% of it; if it is below the nisab, no zakat is due yet. The nisab (the value of 85g gold) is editable because each state sets it.',
+  '我们从你输入的金额出发——年收入、全年最低储蓄余额，或企业的净流动资产——减去任何基本需求或可扣除项，得到应课天课额。若该金额达到尼萨布，天课即为其 2.5%；若低于尼萨布，则暂无须缴天课。尼萨布（85 克黄金的价值）可编辑，因为各州各自设定。',
+);
+const relatedLinks = [
+  { label: L('Zakat (glosari)', 'Zakat (glossary)', '天课（术语表）'), href: localePath('/glossary/zakat', locale) },
+  { label: L('Zakat dan rebat cukai', 'Zakat and the tax rebate', '天课与税务回扣'), href: localePath('/money-daily-life/zakat-tax-rebate', locale) },
+];
 ---
 
-<PageHero
+<ToolArticleView
   locale={locale}
-  crumb={[
-    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
-    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
-    { label: title },
-  ]}
+  toolId="zakat-calculator"
   title={title}
-  desc={heroDesc}
-/>
-
-<section class="container block">
+  lede={heroDesc}
+  asOf={ZAKAT.asOf}
+  how={howText}
+  faqs={faqs}
+  sources={ZAKAT.sources}
+  related={relatedLinks}
+  sponsor={sponsor}
+  sponsorHref={sponsorHref}
+>
   <div
     class="itc"
     id="zk"
@@ -145,30 +155,9 @@ const ui = {
         <div><dt>{ui.rate}</dt><dd id="zk-rate">2.5%</dd></div>
       </dl>
     </aside>
+    <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
   </div>
-
-  <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
-
-  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
-
-  <div class="itc-prose">
-    <h2>{ui.howH}</h2>
-    <p>{L(
-      'Kami mulakan daripada jumlah yang anda masukkan — pendapatan tahunan, baki simpanan terendah sepanjang tahun, atau aset semasa bersih perniagaan — dan menolak sebarang keperluan asas atau potongan yang dibenarkan untuk mendapat jumlah layak zakat. Jika jumlah itu mencapai nisab, zakat ialah 2.5% daripadanya; jika di bawah nisab, tiada zakat lagi wajib. Nisab (nilai 85g emas) boleh disunting kerana ia ditetapkan oleh setiap negeri.',
-      'We start from the amount you enter — annual income, the lowest savings balance across the year, or the business’s net current assets — and subtract any basic needs or allowable deductions to get the zakatable amount. If that amount reaches the nisab, zakat is 2.5% of it; if it is below the nisab, no zakat is due yet. The nisab (the value of 85g gold) is editable because each state sets it.',
-      '我们从你输入的金额出发——年收入、全年最低储蓄余额，或企业的净流动资产——减去任何基本需求或可扣除项，得到应课天课额。若该金额达到尼萨布，天课即为其 2.5%；若低于尼萨布，则暂无须缴天课。尼萨布（85 克黄金的价值）可编辑，因为各州各自设定。',
-    )}</p>
-    <h2>FAQ</h2>
-    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
-    <h2>{ui.learnH}</h2>
-    <ul class="itc-links">
-      <li><a href={localePath('/glossary/zakat', locale)}>{L('Zakat (glosari)', 'Zakat (glossary)', '天课（术语表）')}</a></li>
-      <li><a href={localePath('/money-daily-life/zakat-tax-rebate', locale)}>{L('Zakat dan rebat cukai', 'Zakat and the tax rebate', '天课与税务回扣')}</a></li>
-    </ul>
-    <h3>{L('Sumber', 'Sources', '来源')}</h3>
-    <ul class="itc-src">{ZAKAT.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}</ul>
-  </div>
-</section>
+</ToolArticleView>
 
 <script>
   import { computeZakat, ZAKAT } from '@/lib/tax/zakat';

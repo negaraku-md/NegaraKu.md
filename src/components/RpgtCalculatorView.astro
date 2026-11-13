@@ -4,6 +4,7 @@ import { localePath } from '@/lib/i18n';
 import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
 import SponsorCTA from './SponsorCTA.astro';
 import PageHero from './PageHero.astro';
+import ToolArticleView from './ToolArticleView.astro';
 import { RPGT } from '@/lib/tax/rpgt';
 
 interface Props { locale: Locale; }
@@ -83,20 +84,31 @@ const ui = {
 const yearWord = ui.year;
 const yearSuffix = ui.yearSuffix;
 const partWord = ui.part;
+
+const howText = L(
+  'Kami kira keuntungan boleh dikenakan cukai = harga pelupusan (tolak kos pelupusan) tolak asas kos (harga perolehan tambah kos perolehan dan penambahbaikan, tolak pemulihan). Untuk individu, pengecualian Jadual 4 — yang lebih besar antara RM10,000 atau 10% daripada keuntungan — ditolak untuk mendapatkan keuntungan bercukai. Kadar Jadual 5 dikenakan mengikut kelas pelupus anda dan tahun pelupusan. Pegangan s.21B ditunjukkan secara berasingan: ia amaun yang pembeli pegang daripada harga jualan dan remitkan kepada LHDN.',
+  'We compute the chargeable gain = disposal price (less disposal costs) minus the cost base (acquisition price plus acquisition and enhancement costs, less recoveries). For individuals, the Schedule 4 exemption — the greater of RM10,000 or 10% of the gain — is deducted to get the taxable gain. The Schedule 5 rate is then applied by your disposer class and disposal year. The s.21B retention is shown separately: it is the amount the acquirer withholds from the sale price and remits to LHDN.',
+  '我们计算应课税盈利＝处置价（扣除处置成本）减去成本基础（购入价加购入与增值成本，减追回金额）。对于个人，扣除附表 4 豁免——RM10,000 或盈利 10% 中较高者——得出应税盈利。随后按你的处置人类别和处置年份适用附表 5 税率。第 21B 条扣留单独显示：这是买方从售价中代扣并汇缴给内陆税收局的金额。',
+);
+const relatedLinks = [
+  { label: L('Kadar CKHT dan cara mengira keuntungan', 'RPGT rates and how to compute the gain', '产业盈利税税率与盈利计算方式'), href: tax('rpgt-rates') },
+  { label: L('Pengecualian CKHT', 'RPGT exemptions', '产业盈利税豁免'), href: tax('rpgt-exemptions') },
+];
 ---
 
-<PageHero
+<ToolArticleView
   locale={locale}
-  crumb={[
-    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
-    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
-    { label: title },
-  ]}
+  toolId="rpgt-calculator"
   title={title}
-  desc={heroDesc}
-/>
-
-<section class="container block">
+  lede={heroDesc}
+  asOf={RPGT.asOf}
+  how={howText}
+  faqs={faqs}
+  sources={RPGT.sources}
+  related={relatedLinks}
+  sponsor={sponsor}
+  sponsorHref={sponsorHref}
+>
   <div class="itc" id="rpgt" data-year={yearWord} data-year-suffix={yearSuffix} data-part={partWord}>
     <form class="itc-form" autocomplete="off">
       <div class="itc-row">
@@ -172,30 +184,9 @@ const partWord = ui.part;
         </dl>
       </div>
     </aside>
+    <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
   </div>
-
-  <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
-
-  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
-
-  <div class="itc-prose">
-    <h2>{ui.howH}</h2>
-    <p>{L(
-      'Kami kira keuntungan boleh dikenakan cukai = harga pelupusan (tolak kos pelupusan) tolak asas kos (harga perolehan tambah kos perolehan dan penambahbaikan, tolak pemulihan). Untuk individu, pengecualian Jadual 4 — yang lebih besar antara RM10,000 atau 10% daripada keuntungan — ditolak untuk mendapatkan keuntungan bercukai. Kadar Jadual 5 dikenakan mengikut kelas pelupus anda dan tahun pelupusan. Pegangan s.21B ditunjukkan secara berasingan: ia amaun yang pembeli pegang daripada harga jualan dan remitkan kepada LHDN.',
-      'We compute the chargeable gain = disposal price (less disposal costs) minus the cost base (acquisition price plus acquisition and enhancement costs, less recoveries). For individuals, the Schedule 4 exemption — the greater of RM10,000 or 10% of the gain — is deducted to get the taxable gain. The Schedule 5 rate is then applied by your disposer class and disposal year. The s.21B retention is shown separately: it is the amount the acquirer withholds from the sale price and remits to LHDN.',
-      '我们计算应课税盈利＝处置价（扣除处置成本）减去成本基础（购入价加购入与增值成本，减追回金额）。对于个人，扣除附表 4 豁免——RM10,000 或盈利 10% 中较高者——得出应税盈利。随后按你的处置人类别和处置年份适用附表 5 税率。第 21B 条扣留单独显示：这是买方从售价中代扣并汇缴给内陆税收局的金额。',
-    )}</p>
-    <h2>FAQ</h2>
-    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
-    <h2>{ui.learnH}</h2>
-    <ul class="itc-links">
-      <li><a href={tax('rpgt-rates')}>{L('Kadar CKHT dan cara mengira keuntungan', 'RPGT rates and how to compute the gain', '产业盈利税税率与盈利计算方式')}</a></li>
-      <li><a href={tax('rpgt-exemptions')}>{L('Pengecualian CKHT', 'RPGT exemptions', '产业盈利税豁免')}</a></li>
-    </ul>
-    <h3>{L('Sumber', 'Sources', '来源')}</h3>
-    <ul class="itc-src">{RPGT.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}</ul>
-  </div>
-</section>
+</ToolArticleView>
 
 <script>
   import { computeRpgt } from '@/lib/tax/rpgt';

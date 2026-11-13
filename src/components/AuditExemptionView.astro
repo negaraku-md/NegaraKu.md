@@ -4,6 +4,7 @@ import { localePath } from '@/lib/i18n';
 import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
 import SponsorCTA from './SponsorCTA.astro';
 import PageHero from './PageHero.astro';
+import ToolArticleView from './ToolArticleView.astro';
 import { AUDIT } from '@/lib/tax/auditExemption';
 
 interface Props { locale: Locale; }
@@ -79,20 +80,31 @@ const tRevenue = L('hasil', 'revenue', '营业额');
 const tAssets = L('aset', 'assets', '资产');
 const tEmployees = L('pekerja', 'employees', '员工');
 const noneLabel = L('tiada', 'none', '无');
+
+const howText = L(
+  'Pilih bila tempoh kewangan syarikat anda bermula — ini menetapkan peringkat ambang. Masukkan hasil, jumlah aset dan bilangan pekerja bagi tahun semasa dan dua tahun sebelumnya. Kami menguji setiap tahun terhadap ambang peringkat semasa: untuk dikecualikan, setiap satu daripada ketiga-tiga tahun mesti memenuhi sekurang-kurangnya dua daripada tiga ujian. Ini penyemak status, bukan kalkulator cukai: ia memberi keputusan, bukan jumlah ringgit.',
+  'Pick when your company\'s financial period commences — this sets the threshold phase. Enter revenue, total assets and employee headcount for the current year and the two years before it. We test each year against the current phase thresholds: to be exempt, every one of the three years must meet at least two of the three tests. This is a status checker, not a tax calculator: it returns a verdict, not a ringgit figure.',
+  '选择你公司财政期间的起始时间——这确定门槛阶段。输入本年度及之前两个年度的营业额、总资产与员工人数。我们将每个年度对照当前阶段门槛测试：要获豁免，三个年度中的每一个都须满足三项测试中的至少两项。这是状态检查器，而非税额计算器：它给出结论，而非金额。',
+);
+const relatedLinks = [
+  { label: L('Ambang pengecualian audit', 'Audit exemption thresholds', '审计豁免门槛'), href: localePath('/audit/audit-exemption-thresholds', locale) },
+  { label: L('Kalendar pematuhan', 'Compliance calendar', '合规日历'), href: localePath('/compliance-calendar', locale) },
+];
 ---
 
-<PageHero
+<ToolArticleView
   locale={locale}
-  crumb={[
-    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
-    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
-    { label: title },
-  ]}
+  toolId="audit-exemption-checker"
   title={title}
-  desc={heroDesc}
-/>
-
-<section class="container block">
+  lede={heroDesc}
+  asOf={AUDIT.asOf}
+  how={howText}
+  faqs={faqs}
+  sources={AUDIT.sources}
+  related={relatedLinks}
+  sponsor={sponsor}
+  sponsorHref={sponsorHref}
+>
   <div
     class="itc"
     id="ae"
@@ -165,27 +177,7 @@ const noneLabel = L('tiada', 'none', '无');
   </div>
 
   <p class="itc-disclaimer">⚠️ {ui.caveats}</p>
-
-  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
-
-  <div class="itc-prose">
-    <h2>{ui.howH}</h2>
-    <p>{L(
-      'Pilih bila tempoh kewangan syarikat anda bermula — ini menetapkan peringkat ambang. Masukkan hasil, jumlah aset dan bilangan pekerja bagi tahun semasa dan dua tahun sebelumnya. Kami menguji setiap tahun terhadap ambang peringkat semasa: untuk dikecualikan, setiap satu daripada ketiga-tiga tahun mesti memenuhi sekurang-kurangnya dua daripada tiga ujian. Ini penyemak status, bukan kalkulator cukai: ia memberi keputusan, bukan jumlah ringgit.',
-      'Pick when your company\'s financial period commences — this sets the threshold phase. Enter revenue, total assets and employee headcount for the current year and the two years before it. We test each year against the current phase thresholds: to be exempt, every one of the three years must meet at least two of the three tests. This is a status checker, not a tax calculator: it returns a verdict, not a ringgit figure.',
-      '选择你公司财政期间的起始时间——这确定门槛阶段。输入本年度及之前两个年度的营业额、总资产与员工人数。我们将每个年度对照当前阶段门槛测试：要获豁免，三个年度中的每一个都须满足三项测试中的至少两项。这是状态检查器，而非税额计算器：它给出结论，而非金额。',
-    )}</p>
-    <h2>FAQ</h2>
-    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
-    <h2>{ui.learnH}</h2>
-    <ul class="itc-links">
-      <li><a href={localePath('/audit/audit-exemption-thresholds', locale)}>{L('Ambang pengecualian audit', 'Audit exemption thresholds', '审计豁免门槛')}</a></li>
-      <li><a href={localePath('/compliance-calendar', locale)}>{L('Kalendar pematuhan', 'Compliance calendar', '合规日历')}</a></li>
-    </ul>
-    <h3>{L('Sumber', 'Sources', '来源')}</h3>
-    <ul class="itc-src">{AUDIT.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}</ul>
-  </div>
-</section>
+</ToolArticleView>
 
 <script>
   import { checkAuditExemption } from '@/lib/tax/auditExemption';

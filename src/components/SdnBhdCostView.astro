@@ -4,6 +4,7 @@ import { localePath } from '@/lib/i18n';
 import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
 import SponsorCTA from './SponsorCTA.astro';
 import PageHero from './PageHero.astro';
+import ToolArticleView from './ToolArticleView.astro';
 import { FEES } from '@/lib/tax/sdnBhdCost';
 
 interface Props { locale: Locale; }
@@ -74,23 +75,34 @@ const ui = {
     'Estimate only, not legal, tax or accounting advice. The statutory SSM fees are correct as of the date shown; the professional fees are the values you entered. Verify with SSM and your secretarial firm.',
     '仅为估算，非法律、税务或会计建议。SSM 法定费用截至所示日期有效；专业费用为你填写的数值。请以 SSM 及你的秘书事务所核实。',
   ),
-  howH: L('Cara ia dikira', 'How it is calculated', '计算方式'),
-  learnH: L('Ketahui lebih lanjut', 'Learn more', '了解更多'),
 };
+
+const howText = L(
+  'Kami tambah yuran statutori SSM yang tetap — penubuhan (mengikut jenis syarikat), tempahan nama (RM50 bagi setiap 30 hari), dan penyata tahunan pertama RM150 jika disertakan — untuk mendapat subjumlah statutori. Kemudian kami tambah yuran profesional yang anda masukkan (setiausaha syarikat dan pejabat berdaftar) untuk jumlah keseluruhan. Yuran SSM rasmi dan tetap; yuran profesional ditetapkan pasaran, jadi anda masukkannya sendiri.',
+  'We add the fixed statutory SSM fees — incorporation (by company type), name reservation (RM50 per 30 days), and the RM150 first annual return if included — to get the statutory subtotal. We then add the professional fees you entered (company secretary and registered office) for the grand total. The SSM fees are official and fixed; the professional fees are market-set, so you enter them yourself.',
+  '我们将固定的 SSM 法定费用相加——注册费（按公司类型）、名称预留（每 30 天 RM50）以及（如包含）RM150 首个年报——得出法定小计。然后加上你填写的专业费用（公司秘书与注册地址）得出总计。SSM 费用为官方固定；专业费用由市场决定，因此由你自行填写。',
+);
+
+const relatedLinks = [
+  { label: L('Yuran SSM Malaysia', 'SSM fees in Malaysia', '马来西亚 SSM 费用'), href: localePath('/business/ssm-fees-malaysia', locale) },
+  { label: L('Cara mendaftar Sdn Bhd', 'How to register a Sdn Bhd', '如何注册私人有限公司'), href: localePath('/business/register-sdn-bhd', locale) },
+  { label: L('Melantik setiausaha syarikat', 'Appointing a company secretary', '委任公司秘书'), href: localePath('/company-secretary/appoint-company-secretary', locale) },
+];
 ---
 
-<PageHero
+<ToolArticleView
   locale={locale}
-  crumb={[
-    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
-    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
-    { label: title },
-  ]}
+  toolId="sdn-bhd-cost"
   title={title}
-  desc={heroDesc}
-/>
-
-<section class="container block">
+  lede={heroDesc}
+  asOf={FEES.asOf}
+  how={howText}
+  faqs={faqs}
+  sources={FEES.sources}
+  related={relatedLinks}
+  sponsor={sponsor}
+  sponsorHref={sponsorHref}
+>
   <div class="itc" id="sbc">
     <form class="itc-form" autocomplete="off">
       <div class="itc-row">
@@ -156,32 +168,11 @@ const ui = {
         <div><dt>{ui.grandTotal}</dt><dd id="sbc-grandtotal">RM0</dd></div>
       </dl>
     </aside>
+
+    <p class="itc-note">ℹ️ {ui.note}</p>
+    <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
   </div>
-
-  <p class="itc-note">ℹ️ {ui.note}</p>
-  <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
-
-  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
-
-  <div class="itc-prose">
-    <h2>{ui.howH}</h2>
-    <p>{L(
-      'Kami tambah yuran statutori SSM yang tetap — penubuhan (mengikut jenis syarikat), tempahan nama (RM50 bagi setiap 30 hari), dan penyata tahunan pertama RM150 jika disertakan — untuk mendapat subjumlah statutori. Kemudian kami tambah yuran profesional yang anda masukkan (setiausaha syarikat dan pejabat berdaftar) untuk jumlah keseluruhan. Yuran SSM rasmi dan tetap; yuran profesional ditetapkan pasaran, jadi anda masukkannya sendiri.',
-      'We add the fixed statutory SSM fees — incorporation (by company type), name reservation (RM50 per 30 days), and the RM150 first annual return if included — to get the statutory subtotal. We then add the professional fees you entered (company secretary and registered office) for the grand total. The SSM fees are official and fixed; the professional fees are market-set, so you enter them yourself.',
-      '我们将固定的 SSM 法定费用相加——注册费（按公司类型）、名称预留（每 30 天 RM50）以及（如包含）RM150 首个年报——得出法定小计。然后加上你填写的专业费用（公司秘书与注册地址）得出总计。SSM 费用为官方固定；专业费用由市场决定，因此由你自行填写。',
-    )}</p>
-    <h2>FAQ</h2>
-    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
-    <h2>{ui.learnH}</h2>
-    <ul class="itc-links">
-      <li><a href={localePath('/business/ssm-fees-malaysia', locale)}>{L('Yuran SSM Malaysia', 'SSM fees in Malaysia', '马来西亚 SSM 费用')}</a></li>
-      <li><a href={localePath('/business/register-sdn-bhd', locale)}>{L('Cara mendaftar Sdn Bhd', 'How to register a Sdn Bhd', '如何注册私人有限公司')}</a></li>
-      <li><a href={localePath('/company-secretary/appoint-company-secretary', locale)}>{L('Melantik setiausaha syarikat', 'Appointing a company secretary', '委任公司秘书')}</a></li>
-    </ul>
-    <h3>{L('Sumber', 'Sources', '来源')}</h3>
-    <ul class="itc-src">{FEES.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}</ul>
-  </div>
-</section>
+</ToolArticleView>
 
 <script>
   import { computeSdnBhdCost } from '@/lib/tax/sdnBhdCost';

@@ -2,8 +2,7 @@
 import type { Locale } from '@/lib/categories';
 import { localePath } from '@/lib/i18n';
 import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
-import SponsorCTA from './SponsorCTA.astro';
-import PageHero from './PageHero.astro';
+import ToolArticleView from './ToolArticleView.astro';
 import { HOME } from '@/lib/tax/homeFinancing';
 
 interface Props { locale: Locale; }
@@ -80,20 +79,31 @@ const ui = {
   howH: L('Cara ia dikira', 'How it is calculated', '计算方式'),
   learnH: L('Ketahui lebih lanjut', 'Learn more', '了解更多'),
 };
+
+const howText = L(
+  'Kami kira ansuran bulanan secara baki berkurangan (anuiti standard) berdasarkan jumlah pinjaman — iaitu harga ditolak bayaran pendahuluan mengikut margin pinjaman (LTV). Kemudian kami tambah semua kos pendahuluan: duti setem MOT dan perjanjian pinjaman (Akta Setem 1949), serta yuran guaman SPA dan pinjaman mengikut SRO 2023. Jika anda memberikan pendapatan bulanan, kami tunjukkan nisbah khidmat hutang.',
+  'We compute the monthly instalment on a reducing balance (standard annuity) from the loan amount — the price less the down payment set by the loan margin (LTV). We then add every upfront cost: the MOT and loan-agreement stamp duties (Stamp Act 1949) and the SPA and loan legal fees under the SRO 2023. If you enter a monthly income, we show the debt-service ratio.',
+  '我们按递减余额（标准年金）根据贷款金额计算每月供款——即房价减去由贷款比例（LTV）决定的首付。然后加总所有预付成本：MOT 与贷款协议印花税（1949 年印花法令），以及依据 SRO 2023 的 SPA 与贷款律师费。若你填写每月收入，我们会显示债务偿还比率。',
+);
+const relatedLinks = [
+  { label: L('Pinjaman perumahan dan pembiayaan gadai janji', 'Home loan and mortgage financing', '房屋贷款与按揭融资'), href: localePath('/property/home-loan-mortgage-financing', locale) },
+  { label: L('Proses membeli rumah', 'The home-buying process', '购房流程'), href: localePath('/property/buying-a-home-process', locale) },
+];
 ---
 
-<PageHero
+<ToolArticleView
   locale={locale}
-  crumb={[
-    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
-    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
-    { label: title },
-  ]}
+  toolId="home-financing"
   title={title}
-  desc={heroDesc}
-/>
-
-<section class="container block">
+  lede={heroDesc}
+  asOf={HOME.asOf}
+  how={howText}
+  faqs={faqs}
+  sources={HOME.sources}
+  related={relatedLinks}
+  sponsor={sponsor}
+  sponsorHref={sponsorHref}
+>
   <div class="itc" id="hf" data-exempt={ui.exempt}>
     <form class="itc-form" autocomplete="off">
       <div class="itc-row">
@@ -161,27 +171,7 @@ const ui = {
   </div>
 
   <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
-
-  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
-
-  <div class="itc-prose">
-    <h2>{ui.howH}</h2>
-    <p>{L(
-      'Kami kira ansuran bulanan secara baki berkurangan (anuiti standard) berdasarkan jumlah pinjaman — iaitu harga ditolak bayaran pendahuluan mengikut margin pinjaman (LTV). Kemudian kami tambah semua kos pendahuluan: duti setem MOT dan perjanjian pinjaman (Akta Setem 1949), serta yuran guaman SPA dan pinjaman mengikut SRO 2023. Jika anda memberikan pendapatan bulanan, kami tunjukkan nisbah khidmat hutang.',
-      'We compute the monthly instalment on a reducing balance (standard annuity) from the loan amount — the price less the down payment set by the loan margin (LTV). We then add every upfront cost: the MOT and loan-agreement stamp duties (Stamp Act 1949) and the SPA and loan legal fees under the SRO 2023. If you enter a monthly income, we show the debt-service ratio.',
-      '我们按递减余额（标准年金）根据贷款金额计算每月供款——即房价减去由贷款比例（LTV）决定的首付。然后加总所有预付成本：MOT 与贷款协议印花税（1949 年印花法令），以及依据 SRO 2023 的 SPA 与贷款律师费。若你填写每月收入，我们会显示债务偿还比率。',
-    )}</p>
-    <h2>FAQ</h2>
-    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
-    <h2>{ui.learnH}</h2>
-    <ul class="itc-links">
-      <li><a href={localePath('/property/home-loan-mortgage-financing', locale)}>{L('Pinjaman perumahan dan pembiayaan gadai janji', 'Home loan and mortgage financing', '房屋贷款与按揭融资')}</a></li>
-      <li><a href={localePath('/property/buying-a-home-process', locale)}>{L('Proses membeli rumah', 'The home-buying process', '购房流程')}</a></li>
-    </ul>
-    <h3>{L('Sumber', 'Sources', '来源')}</h3>
-    <ul class="itc-src">{HOME.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}</ul>
-  </div>
-</section>
+</ToolArticleView>
 
 <script>
   import { computeHomeFinancing } from '@/lib/tax/homeFinancing';

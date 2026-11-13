@@ -4,6 +4,7 @@ import { localePath } from '@/lib/i18n';
 import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
 import SponsorCTA from './SponsorCTA.astro';
 import PageHero from './PageHero.astro';
+import ToolArticleView from './ToolArticleView.astro';
 import { CORP } from '@/lib/tax/corporateTax';
 
 interface Props { locale: Locale; }
@@ -83,20 +84,27 @@ const relatedLinks = [
   { href: localePath('/taxation/corporate-tax-rates', locale), label: L('Kadar cukai syarikat & ujian SME', 'Corporate tax rates & SME test', '企业税率与中小企业测试') },
   { href: localePath('/taxation/form-c-and-cp204', locale), label: L('Borang C & CP204', 'Form C & CP204', '表格 C 与 CP204') },
 ];
+
+const howText = L(
+  'Kami mula daripada pendapatan bercukai anda dan menyemak empat ujian SME: pemastautin dan diperbadankan di Malaysia, modal berbayar saham biasa ≤ RM2.5 juta, pendapatan perniagaan kasar ≤ RM50 juta, dan pemilikan asing ≤ 20%. Jika kesemuanya lulus, kami menggunakan jalur SME — 15% atas RM150,000 pertama, 17% hingga RM600,000, dan 24% selepas itu. Jika tidak, keseluruhan pendapatan dikenakan kadar standard 24%.',
+  'We start from your chargeable income and check the four SME tests: resident and incorporated in Malaysia, paid-up ordinary share capital ≤ RM2.5 million, gross business income ≤ RM50 million, and foreign ownership ≤ 20%. If all pass, we apply the SME bands — 15% on the first RM150,000, 17% up to RM600,000, and 24% beyond. Otherwise the whole income is taxed at the standard 24% rate.',
+  '我们从应课税收入出发，检查四项中小企业测试：马来西亚税务居民并在马注册、普通股实缴资本 ≤ RM250 万、毛营业收入 ≤ RM5,000 万、外资持股 ≤ 20%。全部通过则套用中小企业级距——首 RM150,000 按 15%、至 RM600,000 按 17%、超出部分按 24%。否则全部收入按标准 24% 征税。',
+);
 ---
 
-<PageHero
+<ToolArticleView
   locale={locale}
-  crumb={[
-    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
-    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
-    { label: title },
-  ]}
+  toolId="corporate-tax-estimator"
   title={title}
-  desc={heroDesc}
-/>
-
-<section class="container block">
+  lede={heroDesc}
+  asOf={CORP.asOf}
+  how={howText}
+  faqs={faqs}
+  sources={CORP.sources}
+  related={relatedLinks}
+  sponsor={sponsor}
+  sponsorHref={sponsorHref}
+>
   <div class="itc" id="cte" data-lqual={ui.qualifying} data-lstd={ui.standard}>
     <form class="itc-form" autocomplete="off">
       <label class="itc-field itc-income">
@@ -145,26 +153,7 @@ const relatedLinks = [
   </div>
 
   <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
-
-  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
-
-  <div class="itc-prose">
-    <h2>{ui.howH}</h2>
-    <p>{L(
-      'Kami mula daripada pendapatan bercukai anda dan menyemak empat ujian SME: pemastautin dan diperbadankan di Malaysia, modal berbayar saham biasa ≤ RM2.5 juta, pendapatan perniagaan kasar ≤ RM50 juta, dan pemilikan asing ≤ 20%. Jika kesemuanya lulus, kami menggunakan jalur SME — 15% atas RM150,000 pertama, 17% hingga RM600,000, dan 24% selepas itu. Jika tidak, keseluruhan pendapatan dikenakan kadar standard 24%.',
-      'We start from your chargeable income and check the four SME tests: resident and incorporated in Malaysia, paid-up ordinary share capital ≤ RM2.5 million, gross business income ≤ RM50 million, and foreign ownership ≤ 20%. If all pass, we apply the SME bands — 15% on the first RM150,000, 17% up to RM600,000, and 24% beyond. Otherwise the whole income is taxed at the standard 24% rate.',
-      '我们从应课税收入出发，检查四项中小企业测试：马来西亚税务居民并在马注册、普通股实缴资本 ≤ RM250 万、毛营业收入 ≤ RM5,000 万、外资持股 ≤ 20%。全部通过则套用中小企业级距——首 RM150,000 按 15%、至 RM600,000 按 17%、超出部分按 24%。否则全部收入按标准 24% 征税。',
-    )}</p>
-    <h2>FAQ</h2>
-    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
-    <h2>{ui.learnH}</h2>
-    <ul class="itc-links">
-      {relatedLinks.map((l) => (<li><a href={l.href}>{l.label}</a></li>))}
-    </ul>
-    <h3>{L('Sumber', 'Sources', '来源')}</h3>
-    <ul class="itc-src">{CORP.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}</ul>
-  </div>
-</section>
+</ToolArticleView>
 
 <script>
   import { computeCorporateTax, qualifiesAsSme, CORP } from '@/lib/tax/corporateTax';

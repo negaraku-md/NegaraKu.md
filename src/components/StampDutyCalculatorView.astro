@@ -2,8 +2,7 @@
 import type { Locale } from '@/lib/categories';
 import { localePath } from '@/lib/i18n';
 import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
-import SponsorCTA from './SponsorCTA.astro';
-import PageHero from './PageHero.astro';
+import ToolArticleView from './ToolArticleView.astro';
 import { STAMP } from '@/lib/tax/stampDuty';
 
 interface Props { locale: Locale; }
@@ -69,20 +68,32 @@ const scheduleNote = {
   'loan': L('Item 27 — 0.5% atas jumlah pinjaman', 'Item 27 — loan 0.5%', '第 27 项——贷款 0.5%'),
   'share-transfer': L('Item 32(b) — 0.3% atas nilai saham', 'Item 32(b) — shares 0.3%', '第 32(b) 项——股份 0.3%'),
 };
+
+const howText = L(
+  'Untuk pindah milik hartanah, kami kenakan tangga progresif item 32(a) — 1% untuk RM100,000 pertama, 2% hingga RM500,000, 3% hingga RM1,000,000, 4% atas baki — ke atas harga belian atau nilai pasaran (yang lebih tinggi). Perjanjian pinjaman dikenakan 0.5% rata (item 27), dan pindah milik saham 0.3% (item 32(b)). Jika kediaman dijual kepada syarikat asing atau bukan warganegara bukan PR, kadar rata 8% dikenakan. Pengecualian rumah pertama, apabila berkuat kuasa, menjadikan duti RM0.',
+  'For a property transfer we apply the item 32(a) progressive ladder — 1% on the first RM100,000, 2% to RM500,000, 3% to RM1,000,000, 4% above — to the price or market value, whichever is higher. A loan agreement is charged a flat 0.5% (item 27), and a share transfer 0.3% (item 32(b)). Residential sold to a foreign company or non-citizen non-PR is charged a flat 8%. The first-home exemption, when in force, makes the duty RM0.',
+  '房地产转让按第 32(a) 项累进级距计算——首 RM100,000 为 1%，至 RM500,000 为 2%，至 RM1,000,000 为 3%，其余为 4%——以买价或市值（取较高者）为基础。贷款协议按 0.5% 统一征收（第 27 项），股份转让按 0.3%（第 32(b) 项）。住宅售予外国公司或非公民非永久居民者按 8% 统一征收。首套房豁免生效时印花税为 RM0。',
+);
+
+const relatedLinks = [
+  { label: L('Kadar duti setem — rujukan Jadual Pertama', 'Stamp duty rates — First Schedule reference', '印花税税率——第一附表参考'), href: tax('stamp-duty-rates') },
+  { label: L('Duti setem — taksir sendiri (STSDS)', 'Stamp duty self-assessment', '印花税自我评估'), href: tax('stamp-duty-self-assessment') },
+];
 ---
 
-<PageHero
+<ToolArticleView
   locale={locale}
-  crumb={[
-    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
-    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
-    { label: title },
-  ]}
+  toolId="stamp-duty-calculator"
   title={title}
-  desc={heroDesc}
-/>
-
-<section class="container block">
+  lede={heroDesc}
+  asOf={STAMP.asOf}
+  how={howText}
+  faqs={faqs}
+  sources={STAMP.sources}
+  related={relatedLinks}
+  sponsor={sponsor}
+  sponsorHref={sponsorHref}
+>
   <div
     class="itc"
     id="sd"
@@ -120,30 +131,9 @@ const scheduleNote = {
       </div>
       <p class="sd-note" id="sd-note" hidden></p>
     </aside>
+    <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
   </div>
-
-  <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
-
-  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
-
-  <div class="itc-prose">
-    <h2>{ui.howH}</h2>
-    <p>{L(
-      'Untuk pindah milik hartanah, kami kenakan tangga progresif item 32(a) — 1% untuk RM100,000 pertama, 2% hingga RM500,000, 3% hingga RM1,000,000, 4% atas baki — ke atas harga belian atau nilai pasaran (yang lebih tinggi). Perjanjian pinjaman dikenakan 0.5% rata (item 27), dan pindah milik saham 0.3% (item 32(b)). Jika kediaman dijual kepada syarikat asing atau bukan warganegara bukan PR, kadar rata 8% dikenakan. Pengecualian rumah pertama, apabila berkuat kuasa, menjadikan duti RM0.',
-      'For a property transfer we apply the item 32(a) progressive ladder — 1% on the first RM100,000, 2% to RM500,000, 3% to RM1,000,000, 4% above — to the price or market value, whichever is higher. A loan agreement is charged a flat 0.5% (item 27), and a share transfer 0.3% (item 32(b)). Residential sold to a foreign company or non-citizen non-PR is charged a flat 8%. The first-home exemption, when in force, makes the duty RM0.',
-      '房地产转让按第 32(a) 项累进级距计算——首 RM100,000 为 1%，至 RM500,000 为 2%，至 RM1,000,000 为 3%，其余为 4%——以买价或市值（取较高者）为基础。贷款协议按 0.5% 统一征收（第 27 项），股份转让按 0.3%（第 32(b) 项）。住宅售予外国公司或非公民非永久居民者按 8% 统一征收。首套房豁免生效时印花税为 RM0。',
-    )}</p>
-    <h2>FAQ</h2>
-    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
-    <h2>{ui.learnH}</h2>
-    <ul class="itc-links">
-      <li><a href={tax('stamp-duty-rates')}>{L('Kadar duti setem — rujukan Jadual Pertama', 'Stamp duty rates — First Schedule reference', '印花税税率——第一附表参考')}</a></li>
-      <li><a href={tax('stamp-duty-self-assessment')}>{L('Duti setem — taksir sendiri (STSDS)', 'Stamp duty self-assessment', '印花税自我评估')}</a></li>
-    </ul>
-    <h3>{L('Sumber', 'Sources', '来源')}</h3>
-    <ul class="itc-src">{STAMP.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}</ul>
-  </div>
-</section>
+</ToolArticleView>
 
 <script>
   import { computeStampDuty } from '@/lib/tax/stampDuty';

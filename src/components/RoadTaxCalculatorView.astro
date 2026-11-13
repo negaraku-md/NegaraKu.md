@@ -5,8 +5,7 @@
 import type { Locale } from '@/lib/categories';
 import { localePath } from '@/lib/i18n';
 import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
-import SponsorCTA from './SponsorCTA.astro';
-import PageHero from './PageHero.astro';
+import ToolArticleView from './ToolArticleView.astro';
 import { computeRoadTax, ROAD_TAX } from '@/lib/tax/roadTax';
 
 interface Props { locale: Locale; }
@@ -57,20 +56,33 @@ const scopeNote = L(
   'Private saloon cars, Peninsular Malaysia only. For SUV/MPV/pick-up, Sabah/Sarawak, company-registered, motorcycles or EVs, use the official MyJPJ calculator.',
   '仅限半岛私人轿车。SUV/MPV/皮卡、沙巴/砂拉越、公司注册、摩托车或电动车，请使用官方 MyJPJ 计算器。',
 );
+
+const howText = L(
+  'Masukkan kapasiti enjin kereta saloon persendirian anda; alat ini menggunakan jadual cukai jalan Semenanjung — kadar rata sehingga 1,600cc, kemudian kadar asas campur caj setiap cc di atasnya — untuk memberikan cukai jalan (LKM) tahunan.',
+  'Enter your private saloon’s engine capacity; the tool applies the Peninsular road-tax schedule — a flat rate up to 1,600cc, then a base rate plus a per-cc charge above it — to give the annual road tax (LKM).',
+  '输入私人轿车的引擎容量；本工具套用半岛路税表——1,600cc 以下为统一费率，1,600cc 以上则为基本费率加每 cc 附加费——计算每年路税（LKM）。',
+);
+
+const relatedLinks = [
+  { label: L('Pembaharuan cukai jalan (LKM)', 'Road tax (LKM) renewal', '路税（LKM）更新'), href: localePath('/transport/road-tax-renewal', locale) },
+  { label: L('Kalkulator pinjaman kereta', 'Car loan calculator', '车贷计算器'), href: localePath('/tools/car-loan-calculator', locale) },
+  { label: L('Pemeriksaan Puspakom', 'Puspakom inspections', 'Puspakom 检验'), href: localePath('/transport/puspakom-vehicle-inspections', locale) },
+];
 ---
 
-<PageHero
+<ToolArticleView
   locale={locale}
-  crumb={[
-    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
-    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
-    { label: title },
-  ]}
+  toolId="road-tax-calculator"
   title={title}
-  desc={heroDesc}
-/>
-
-<section class="container block">
+  lede={heroDesc}
+  asOf={ROAD_TAX.asOf}
+  how={howText}
+  faqs={faqs}
+  sources={ROAD_TAX.sources}
+  related={relatedLinks}
+  sponsor={sponsor}
+  sponsorHref={sponsorHref}
+>
   <div class="itc" id="rtx">
     <div class="itc-form">
       <label class="itc-field">
@@ -89,30 +101,12 @@ const scopeNote = L(
       </div>
     </div>
   </div>
-
-  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
-
-  <div class="itc-prose">
-    <h2>{L('Soalan lazim', 'Frequently asked', '常见问题')}</h2>
-    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
-
-    <h3>{L('Bacaan berkaitan', 'Related reading', '相关阅读')}</h3>
-    <ul class="itc-links">
-      <li><a href={localePath('/transport/road-tax-renewal', locale)}>{L('Pembaharuan cukai jalan (LKM)', 'Road tax (LKM) renewal', '路税（LKM）更新')}</a></li>
-      <li><a href={localePath('/tools/car-loan-calculator', locale)}>{L('Kalkulator pinjaman kereta', 'Car loan calculator', '车贷计算器')}</a></li>
-      <li><a href={localePath('/transport/puspakom-vehicle-inspections', locale)}>{L('Pemeriksaan Puspakom', 'Puspakom inspections', 'Puspakom 检验')}</a></li>
-    </ul>
-
-    <h3>{L('Sumber', 'Sources', '来源')}</h3>
-    <ul class="itc-src">{ROAD_TAX.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener noreferrer">{s.title}</a></li>))}</ul>
-
-    <p class="itc-disclaimer">{L(
-      'Alat ini menganggarkan cukai jalan saloon persendirian Semenanjung sahaja dan bukan angka rasmi. Sahkan jumlah tepat kenderaan anda dalam aplikasi MyJPJ.',
-      'This tool estimates Peninsular private-saloon road tax only and is not an official figure. Confirm your vehicle’s exact amount in the MyJPJ app.',
-      '本工具仅估算半岛私人轿车路税，非官方数字。请在 MyJPJ 应用中核实您车辆的确切金额。',
-    )}</p>
-  </div>
-</section>
+  <p class="itc-disclaimer">{L(
+    'Alat ini menganggarkan cukai jalan saloon persendirian Semenanjung sahaja dan bukan angka rasmi. Sahkan jumlah tepat kenderaan anda dalam aplikasi MyJPJ.',
+    'This tool estimates Peninsular private-saloon road tax only and is not an official figure. Confirm your vehicle’s exact amount in the MyJPJ app.',
+    '本工具仅估算半岛私人轿车路税，非官方数字。请在 MyJPJ 应用中核实您车辆的确切金额。',
+  )}</p>
+</ToolArticleView>
 
 <script>
   import { computeRoadTax } from '@/lib/tax/roadTax';

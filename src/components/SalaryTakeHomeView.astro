@@ -4,6 +4,7 @@ import { localePath } from '@/lib/i18n';
 import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
 import SponsorCTA from './SponsorCTA.astro';
 import PageHero from './PageHero.astro';
+import ToolArticleView from './ToolArticleView.astro';
 import { STATUTORY } from '@/lib/tax/salaryTakeHome';
 import { TAX_YEARS, DEFAULT_YA } from '@/lib/tax/incomeTax';
 
@@ -68,20 +69,32 @@ const ui = {
   howH: L('Cara ia dikira', 'How it is calculated', '计算方式'),
   learnH: L('Ketahui lebih lanjut', 'Learn more', '了解更多'),
 };
+
+const howText = L(
+  'Kami mulakan daripada gaji kasar bulanan anda, menolak caruman pekerja KWSP (11%), PERKESO (0.5% atas gaji sehingga RM6,000) dan SIP (0.2%), kemudian menganggar PCB dengan mengira cukai tahunan anda dan membahagikannya dengan 12. Baki ialah gaji bersih anda. Kami juga menunjukkan jumlah kos majikan — gaji anda tambah caruman majikan.',
+  'We start from your monthly gross, subtract the employee EPF share (11%), SOCSO (0.5% on wages up to RM6,000) and EIS (0.2%), then estimate PCB by computing your annual tax and dividing by 12. What remains is your take-home. We also show the total employer cost — your salary plus the employer contributions.',
+  '我们从每月税前工资出发，扣除雇员公积金份额（11%）、社险（工资至 RM6,000 的 0.5%）与就业保险（0.2%），再通过计算你的年度税款并除以 12 来估算 PCB。余额即为实得。我们还显示雇主总成本——你的薪资加上雇主缴纳部分。',
+);
+const relatedLinks = [
+  { label: L('Kalkulator cukai pendapatan', 'Income tax calculator', '所得税计算器'), href: localePath('/tools/income-tax-calculator', locale) },
+  { label: L('PCB — Potongan Cukai Bulanan', 'PCB — Monthly Tax Deduction', 'PCB——每月税务扣除'), href: tax('pcb-monthly-tax-deduction') },
+  { label: L('Senarai pelepasan cukai', 'Personal tax reliefs', '个人税务减免'), href: tax('personal-tax-reliefs') },
+];
 ---
 
-<PageHero
+<ToolArticleView
   locale={locale}
-  crumb={[
-    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
-    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
-    { label: title },
-  ]}
+  toolId="salary-take-home"
   title={title}
-  desc={heroDesc}
-/>
-
-<section class="container block">
+  lede={heroDesc}
+  asOf={STATUTORY.asOf}
+  how={howText}
+  faqs={faqs}
+  sources={STATUTORY.sources}
+  related={relatedLinks}
+  sponsor={sponsor}
+  sponsorHref={sponsorHref}
+>
   <div class="itc" id="sth">
     <form class="itc-form" autocomplete="off">
       <div class="itc-row">
@@ -123,31 +136,9 @@ const ui = {
         </dl>
       </div>
     </aside>
+    <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
   </div>
-
-  <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
-
-  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
-
-  <div class="itc-prose">
-    <h2>{ui.howH}</h2>
-    <p>{L(
-      'Kami mulakan daripada gaji kasar bulanan anda, menolak caruman pekerja KWSP (11%), PERKESO (0.5% atas gaji sehingga RM6,000) dan SIP (0.2%), kemudian menganggar PCB dengan mengira cukai tahunan anda dan membahagikannya dengan 12. Baki ialah gaji bersih anda. Kami juga menunjukkan jumlah kos majikan — gaji anda tambah caruman majikan.',
-      'We start from your monthly gross, subtract the employee EPF share (11%), SOCSO (0.5% on wages up to RM6,000) and EIS (0.2%), then estimate PCB by computing your annual tax and dividing by 12. What remains is your take-home. We also show the total employer cost — your salary plus the employer contributions.',
-      '我们从每月税前工资出发，扣除雇员公积金份额（11%）、社险（工资至 RM6,000 的 0.5%）与就业保险（0.2%），再通过计算你的年度税款并除以 12 来估算 PCB。余额即为实得。我们还显示雇主总成本——你的薪资加上雇主缴纳部分。',
-    )}</p>
-    <h2>FAQ</h2>
-    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
-    <h2>{ui.learnH}</h2>
-    <ul class="itc-links">
-      <li><a href={localePath('/tools/income-tax-calculator', locale)}>{L('Kalkulator cukai pendapatan', 'Income tax calculator', '所得税计算器')}</a></li>
-      <li><a href={tax('pcb-monthly-tax-deduction')}>{L('PCB — Potongan Cukai Bulanan', 'PCB — Monthly Tax Deduction', 'PCB——每月税务扣除')}</a></li>
-      <li><a href={tax('personal-tax-reliefs')}>{L('Senarai pelepasan cukai', 'Personal tax reliefs', '个人税务减免')}</a></li>
-    </ul>
-    <h3>{L('Sumber', 'Sources', '来源')}</h3>
-    <ul class="itc-src">{STATUTORY.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}</ul>
-  </div>
-</section>
+</ToolArticleView>
 
 <script>
   import { computeSalary } from '@/lib/tax/salaryTakeHome';

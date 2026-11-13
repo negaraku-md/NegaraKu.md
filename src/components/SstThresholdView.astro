@@ -4,6 +4,7 @@ import { localePath } from '@/lib/i18n';
 import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
 import SponsorCTA from './SponsorCTA.astro';
 import PageHero from './PageHero.astro';
+import ToolArticleView from './ToolArticleView.astro';
 import { SST, SST_GROUPS } from '@/lib/tax/sstThreshold';
 
 interface Props { locale: Locale; }
@@ -78,20 +79,31 @@ const vNotYetPrefix = L('Belum — ', 'Not yet — ', '尚未 — 还差 ');
 const vNotYetSuffix = L(' lagi sebelum ambang', ' to go', ' 达到门槛');
 const vNilWaiting = L('Belum ada bekalan bercukai', 'No taxable supply yet', '尚无应税供应');
 const nilThreshold = L('Nil — mana-mana bekalan mencetuskan', 'Nil — any supply triggers', '无门槛 — 任何供应即触发');
+
+const howText = L(
+  'Pilih kumpulan aktiviti yang paling hampir dengan perniagaan anda, kemudian masukkan pusing ganti bercukai anda sepanjang 12 bulan bergolek. Kami bandingkannya dengan ambang kumpulan tersebut — daripada nil hingga RM1,500,000 — dan memberi anda satu keputusan: anda sudah perlu mendaftar, atau berapa banyak lagi pusing ganti sebelum anda sampai ke ambang. Ini penyemak status, bukan kalkulator cukai: ia tidak mengira cukai yang perlu dibayar.',
+  'Pick the activity group closest to your business, then enter your taxable turnover over a rolling 12 months. We compare it against that group\'s threshold — from nil to RM1,500,000 — and give you a single verdict: you must already register, or how much turnover remains before you reach the threshold. This is a status checker, not a tax calculator: it does not compute tax payable.',
+  '选择最接近你业务的活动组别，然后输入你滚动 12 个月的应税营业额。我们将其与该组别的门槛——从无门槛到 RM1,500,000——比较，并给出单一结论：你已需注册，或距离门槛还差多少营业额。这是状态检查器，而非税额计算器：它不计算应缴税款。',
+);
+const relatedLinks = [
+  { label: L('Pendaftaran SST dan ambang', 'SST registration and thresholds', 'SST 注册与门槛'), href: tax('sst-registration') },
+  { label: L('SST diterangkan', 'SST explained', 'SST 详解'), href: tax('sst-explained') },
+];
 ---
 
-<PageHero
+<ToolArticleView
   locale={locale}
-  crumb={[
-    { label: L('Laman Utama', 'Home', '首页'), href: localePath('/', locale) },
-    { label: L('Alat', 'Tools', '工具'), href: localePath('/tools', locale) },
-    { label: title },
-  ]}
+  toolId="sst-threshold-checker"
   title={title}
-  desc={heroDesc}
-/>
-
-<section class="container block">
+  lede={heroDesc}
+  asOf={SST.asOf}
+  how={howText}
+  faqs={faqs}
+  sources={SST.sources}
+  related={relatedLinks}
+  sponsor={sponsor}
+  sponsorHref={sponsorHref}
+>
   <div
     class="itc"
     id="sst"
@@ -130,29 +142,8 @@ const nilThreshold = L('Nil — mana-mana bekalan mencetuskan', 'Nil — any sup
       <p class="itc-note" id="sst-note"></p>
     </aside>
   </div>
-
   <p class="itc-disclaimer">⚠️ {ui.disclaimer}</p>
-
-  {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
-
-  <div class="itc-prose">
-    <h2>{ui.howH}</h2>
-    <p>{L(
-      'Pilih kumpulan aktiviti yang paling hampir dengan perniagaan anda, kemudian masukkan pusing ganti bercukai anda sepanjang 12 bulan bergolek. Kami bandingkannya dengan ambang kumpulan tersebut — daripada nil hingga RM1,500,000 — dan memberi anda satu keputusan: anda sudah perlu mendaftar, atau berapa banyak lagi pusing ganti sebelum anda sampai ke ambang. Ini penyemak status, bukan kalkulator cukai: ia tidak mengira cukai yang perlu dibayar.',
-      'Pick the activity group closest to your business, then enter your taxable turnover over a rolling 12 months. We compare it against that group\'s threshold — from nil to RM1,500,000 — and give you a single verdict: you must already register, or how much turnover remains before you reach the threshold. This is a status checker, not a tax calculator: it does not compute tax payable.',
-      '选择最接近你业务的活动组别，然后输入你滚动 12 个月的应税营业额。我们将其与该组别的门槛——从无门槛到 RM1,500,000——比较，并给出单一结论：你已需注册，或距离门槛还差多少营业额。这是状态检查器，而非税额计算器：它不计算应缴税款。',
-    )}</p>
-    <h2>FAQ</h2>
-    <dl class="itc-faq">{faqs.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
-    <h2>{ui.learnH}</h2>
-    <ul class="itc-links">
-      <li><a href={tax('sst-registration')}>{L('Pendaftaran SST dan ambang', 'SST registration and thresholds', 'SST 注册与门槛')}</a></li>
-      <li><a href={tax('sst-explained')}>{L('SST diterangkan', 'SST explained', 'SST 详解')}</a></li>
-    </ul>
-    <h3>{L('Sumber', 'Sources', '来源')}</h3>
-    <ul class="itc-src">{SST.sources.map((s) => (<li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>))}</ul>
-  </div>
-</section>
+</ToolArticleView>
 
 <script>
   import { checkSst, SST_GROUPS } from '@/lib/tax/sstThreshold';
