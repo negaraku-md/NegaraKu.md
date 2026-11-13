@@ -9,7 +9,7 @@ heroCredit: "23jvvn / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AKadazandusun_Traditional_Food_around_KDCA%2C_Penampang_01.jpg"
 category: "food-lifestyle"
-subcategory: ["regional"]
+subcategory: ["masakan"]
 summary: "مطبخ كادازان-دوسون هو طعام أكبر مجتمع أصلي في صباح، مبنيّ على التحميض الطازج وجمع ثمار الغابة والتخمير بدلًا من التوابل الثقيلة. يتناول هذا الدليل أطباقه المميّزة — hinava السمك النيء المنقوع بالحمضيات، ومحفوظات bosou المخمّرة، وpinasakan الحامض بالكركم، ومانجو الغابة bambangan، وtuhau النفّاذ الرائحة — إلى جانب أنبذة الأرز الدبق (tapai وlihing وmontoku) التي تشكّل ركيزة مهرجان الحصاد Kaamatan."
 
 tier: "2"

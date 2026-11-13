@@ -9,7 +9,7 @@ heroCredit: "23jvvn / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AKadazandusun_Traditional_Food_around_KDCA%2C_Penampang_01.jpg"
 category: "food-lifestyle"
-subcategory: ["regional"]
+subcategory: ["masakan"]
 summary: "カダザン・ドゥスン料理はサバ最大の先住民コミュニティの食で、濃厚な香辛料ではなく、フレッシュな酸味づけ・野生の採集・発酵のうえに成り立っています。本ガイドでは、柑橘でマリネした hinava、発酵保存食の bosou、ターメリックで酸味づけした pinasakan、野生マンゴーの bambangan、香りの強い tuhau といった代表的な料理に加え、収穫祭 Kaamatan を支えるもち米の酒（tapai、lihing、montoku）を紹介します。"
 
 tier: "2"

@@ -9,7 +9,7 @@ heroCredit: "23jvvn / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AKadazandusun_Traditional_Food_around_KDCA%2C_Penampang_01.jpg"
 category: "food-lifestyle"
-subcategory: ["regional"]
+subcategory: ["masakan"]
 summary: "Masakan Kadazan-Dusun ialah makanan komuniti peribumi terbesar di Sabah, dibina atas pemasaman segar, hasil hutan dan penapaian berbanding rempah yang berat. Panduan ini merangkumi hidangan ikoniknya — hinava ikan mentah yang diperam air limau, pelbagai pengawetan bosou yang ditapai, pinasakan yang masam berkunyit, mangga liar bambangan dan tuhau yang kuat baunya — di samping air tape pulut (tapai, lihing dan montoku) yang menjadi tunjang pesta menuai Kaamatan."
 
 tier: "2"

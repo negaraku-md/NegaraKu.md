@@ -9,7 +9,7 @@ heroCredit: "Dennis Wong / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3ABeef_tripe_rice_noodle.jpg"
 category: "food-lifestyle"
-subcategory: ["regional"]
+subcategory: ["masakan"]
 summary: "Sabah, el estado de Malasia en el extremo norte de Borneo, tiene una cocina propia: construida sobre la cocina indígena Kadazan-Dusun, el abundante marisco costero y los fideos que trajeron los colonos chinos (sobre todo Hakka). Esta guía recorre sus platos emblemáticos: la ensalada de pescado crudo hinava, el bosou fermentado, los muchos fideos del estado del tuaran mee al beaufort mee, el ngiu chap y el sang nyuk mian, el bambangan silvestre y el butod, y el marisco de Kota Kinabalu, famoso por ser fresco y asequible."
 
 tier: "2"

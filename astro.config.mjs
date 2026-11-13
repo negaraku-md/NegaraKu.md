@@ -103,6 +103,21 @@ const redirects = {
   '/hi/food-lifestyle/michelin': '/hi/food-lifestyle/topic/michelin-guide',
   '/es/food-lifestyle/michelin': '/es/food-lifestyle/topic/michelin-guide',
   '/fr/food-lifestyle/michelin': '/fr/food-lifestyle/topic/michelin-guide',
+  // Dedup 2026-11-13: duplicate "Regional cuisine" topic — subcategory `regional`
+  // merged into `masakan` (both had the same label); old topic URL redirects.
+  '/food-lifestyle/topic/regional': '/food-lifestyle/topic/masakan',
+  '/en/food-lifestyle/topic/regional': '/en/food-lifestyle/topic/masakan',
+  '/zh/food-lifestyle/topic/regional': '/zh/food-lifestyle/topic/masakan',
+  '/ta/food-lifestyle/topic/regional': '/ta/food-lifestyle/topic/masakan',
+  '/ja/food-lifestyle/topic/regional': '/ja/food-lifestyle/topic/masakan',
+  '/ko/food-lifestyle/topic/regional': '/ko/food-lifestyle/topic/masakan',
+  '/th/food-lifestyle/topic/regional': '/th/food-lifestyle/topic/masakan',
+  '/vi/food-lifestyle/topic/regional': '/vi/food-lifestyle/topic/masakan',
+  '/id/food-lifestyle/topic/regional': '/id/food-lifestyle/topic/masakan',
+  '/ar/food-lifestyle/topic/regional': '/ar/food-lifestyle/topic/masakan',
+  '/hi/food-lifestyle/topic/regional': '/hi/food-lifestyle/topic/masakan',
+  '/es/food-lifestyle/topic/regional': '/es/food-lifestyle/topic/masakan',
+  '/fr/food-lifestyle/topic/regional': '/fr/food-lifestyle/topic/masakan',
   // Dedup 2026-10-30: road-transport-act (MY-LAW-0041) merged into the more
   // comprehensive road-transport-act-1987 (MY-LAW-0099), both in law/.
   '/law/road-transport-act': '/law/road-transport-act-1987',

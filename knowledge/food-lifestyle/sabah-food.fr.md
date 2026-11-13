@@ -9,7 +9,7 @@ heroCredit: "Dennis Wong / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3ABeef_tripe_rice_noodle.jpg"
 category: "food-lifestyle"
-subcategory: ["regional"]
+subcategory: ["masakan"]
 summary: "Sabah, l'État de Malaisie à la pointe nord de Bornéo, possède une cuisine qui lui est propre — bâtie sur la cuisine autochtone Kadazan-Dusun, l'abondante pêche côtière et les nouilles apportées par les colons chinois (surtout Hakka). Ce guide parcourt ses plats emblématiques : la salade de poisson cru hinava, le bosou fermenté, les nombreuses nouilles de l'État du tuaran mee au beaufort mee, le ngiu chap et le sang nyuk mian, le bambangan sauvage et le butod, ainsi que les fruits de mer de Kota Kinabalu, réputés frais et abordables."
 
 tier: "2"

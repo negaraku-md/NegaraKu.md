@@ -9,7 +9,7 @@ heroCredit: "Dennis Wong / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3ABeef_tripe_rice_noodle.jpg"
 category: "food-lifestyle"
-subcategory: ["regional"]
+subcategory: ["masakan"]
 summary: "ซาบาห์ รัฐของมาเลเซียบนปลายเหนือของเกาะบอร์เนียว มีอาหารเป็นของตนเอง — สร้างขึ้นบนการปรุงอาหารพื้นเมือง Kadazan-Dusun อาหารทะเลชายฝั่งอันอุดมสมบูรณ์ และก๋วยเตี๋ยวที่ผู้ตั้งถิ่นฐานชาวจีน (โดยเฉพาะ Hakka) นำเข้ามา คู่มือนี้ครอบคลุมจานเด่น ได้แก่ สลัดปลาดิบ hinava, bosou ที่หมัก, ก๋วยเตี๋ยวนานาชนิดของรัฐตั้งแต่ tuaran mee ถึง beaufort mee, ngiu chap และ sang nyuk mian, bambangan ป่าและ butod รวมถึงอาหารทะเลของ Kota Kinabalu ที่ขึ้นชื่อว่าสดและราคาย่อมเยา"
 
 tier: "2"

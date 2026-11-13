@@ -9,7 +9,7 @@ heroCredit: "23jvvn / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AKadazandusun_Traditional_Food_around_KDCA%2C_Penampang_01.jpg"
 category: "food-lifestyle"
-subcategory: ["regional"]
+subcategory: ["masakan"]
 summary: "La cocina kadazan-dusun es la comida de la mayor comunidad indígena de Sabah, construida sobre el acidulado fresco, la recolección silvestre y la fermentación más que sobre las especias intensas. Esta guía abarca sus platos emblemáticos — el hinava de pescado crudo curado con lima, las conservas fermentadas bosou, el pinasakan acidulado con cúrcuma, el mango silvestre bambangan y el tuhau de aroma penetrante — junto con los vinos de arroz glutinoso (tapai, lihing y montoku) que anclan la fiesta de la cosecha Kaamatan."
 
 tier: "2"

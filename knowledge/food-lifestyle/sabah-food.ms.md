@@ -9,7 +9,7 @@ heroCredit: "Dennis Wong / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3ABeef_tripe_rice_noodle.jpg"
 category: "food-lifestyle"
-subcategory: ["regional"]
+subcategory: ["masakan"]
 summary: "Sabah, negeri Malaysia di hujung utara Borneo, mempunyai masakan tersendiri — dibina atas masakan orang asal Kadazan-Dusun, makanan laut pesisir yang berlimpah dan mi yang dibawa oleh peneroka Cina (terutamanya Hakka). Panduan ini merangkumi hidangan ikoniknya: salad ikan mentah hinava, bosou yang diperam, pelbagai hidangan mi negeri ini daripada tuaran mee hingga beaufort mee, ngiu chap dan sang nyuk mian, bambangan liar dan butod, serta makanan laut Kota Kinabalu yang terkenal segar dan berpatutan."
 
 tier: "2"

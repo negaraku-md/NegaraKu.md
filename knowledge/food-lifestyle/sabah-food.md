@@ -11,7 +11,7 @@ heroCredit: "Dennis Wong / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3ABeef_tripe_rice_noodle.jpg"
 category: "food-lifestyle"
-subcategory: ["regional"]
+subcategory: ["masakan"]
 foodType: "cuisine"
 summary: "Sabah, Malaysia's state on the northern tip of Borneo, has a cuisine of its own — built on indigenous Kadazan-Dusun cooking, abundant coastal seafood and the noodles brought by Chinese (especially Hakka) settlers. This guide covers the signatures: hinava raw-fish salad, fermented bosou, the state's many noodle dishes from tuaran mee to beaufort mee, ngiu chap and sang nyuk mian, wild bambangan and butod, and Kota Kinabalu's famously fresh, affordable seafood."
 

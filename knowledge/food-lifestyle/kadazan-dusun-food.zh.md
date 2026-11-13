@@ -9,7 +9,7 @@ heroCredit: "23jvvn / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AKadazandusun_Traditional_Food_around_KDCA%2C_Penampang_01.jpg"
 category: "food-lifestyle"
-subcategory: ["regional"]
+subcategory: ["masakan"]
 summary: "卡达山-杜顺美食是沙巴最大原住民社群的饮食，建立在新鲜提酸、野采与发酵之上，而非浓重的香料。本指南介绍它的招牌菜——柑橘腌制的 hinava、发酵保存的 bosou、以姜黄提酸的 pinasakan、野芒果 bambangan 与气味浓烈的 tuhau——以及支撑丰收节 Kaamatan 的糯米酒（tapai、lihing 和 montoku）。"
 
 tier: "2"

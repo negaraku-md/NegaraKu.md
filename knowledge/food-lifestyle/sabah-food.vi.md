@@ -9,7 +9,7 @@ heroCredit: "Dennis Wong / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3ABeef_tripe_rice_noodle.jpg"
 category: "food-lifestyle"
-subcategory: ["regional"]
+subcategory: ["masakan"]
 summary: "Sabah, bang của Malaysia ở mũi phía bắc đảo Borneo, có nền ẩm thực riêng — dựng trên lối nấu bản địa Kadazan-Dusun, hải sản ven biển dồi dào và những món mì do di dân người Hoa (đặc biệt là Hakka) mang tới. Cẩm nang này điểm qua các món đặc trưng: gỏi cá sống hinava, bosou lên men, vô số món mì của bang từ tuaran mee đến beaufort mee, ngiu chap và sang nyuk mian, bambangan dại và butod, cùng hải sản tươi và phải chăng nức tiếng của Kota Kinabalu."
 
 tier: "2"

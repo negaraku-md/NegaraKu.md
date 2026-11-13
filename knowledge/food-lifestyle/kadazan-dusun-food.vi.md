@@ -9,7 +9,7 @@ heroCredit: "23jvvn / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AKadazandusun_Traditional_Food_around_KDCA%2C_Penampang_01.jpg"
 category: "food-lifestyle"
-subcategory: ["regional"]
+subcategory: ["masakan"]
 summary: "Ẩm thực Kadazan-Dusun là món ăn của cộng đồng bản địa lớn nhất Sabah, xây dựng trên vị chua tươi, hái lượm từ rừng và lên men thay vì gia vị nồng đậm. Hướng dẫn này giới thiệu các món đặc trưng — hinava cá sống ướp chanh, các món ủ lên men bosou, pinasakan chua vị nghệ, xoài rừng bambangan và tuhau nồng mùi — cùng với các loại rượu nếp (tapai, lihing và montoku) làm nền cho lễ hội mùa gặt Kaamatan."
 
 tier: "2"

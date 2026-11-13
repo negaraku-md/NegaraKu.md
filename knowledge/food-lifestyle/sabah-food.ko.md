@@ -9,7 +9,7 @@ heroCredit: "Dennis Wong / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3ABeef_tripe_rice_noodle.jpg"
 category: "food-lifestyle"
-subcategory: ["regional"]
+subcategory: ["masakan"]
 summary: "보르네오섬 북단에 자리한 말레이시아의 주 사바는 고유한 음식 문화를 지닌다 — 토착 Kadazan-Dusun의 요리, 풍부한 연안 해산물, 그리고 중국계(특히 Hakka) 이주민이 들여온 국수 위에 세워졌다. 이 안내서는 대표 음식들을 다룬다: 생선회 샐러드 hinava, 발효한 bosou, tuaran mee에서 beaufort mee에 이르는 주 전역의 다양한 국수, ngiu chap과 sang nyuk mian, 야생의 bambangan과 butod, 그리고 신선하고 저렴하기로 이름난 Kota Kinabalu의 해산물."
 
 tier: "2"

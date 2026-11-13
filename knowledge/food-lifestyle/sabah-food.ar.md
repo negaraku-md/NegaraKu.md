@@ -9,7 +9,7 @@ heroCredit: "Dennis Wong / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3ABeef_tripe_rice_noodle.jpg"
 category: "food-lifestyle"
-subcategory: ["regional"]
+subcategory: ["masakan"]
 summary: "سابا، ولاية ماليزيا على الطرف الشمالي من بورنيو، لها مطبخها الخاص — مبنيّ على طبخ السكان الأصليين Kadazan-Dusun، والمأكولات البحرية الساحلية الوفيرة، والنودلز التي جلبها المستوطنون الصينيون (وبخاصة Hakka). يتناول هذا الدليل أطباقها المميّزة: سلطة السمك النيّء hinava، وbosou المخمَّر، وأطباق النودلز الكثيرة في الولاية من tuaran mee إلى beaufort mee، وngiu chap وsang nyuk mian، وbambangan البرّي وbutod، إضافة إلى مأكولات Kota Kinabalu البحرية المعروفة بطزاجتها وأسعارها المعقولة."
 
 tier: "2"

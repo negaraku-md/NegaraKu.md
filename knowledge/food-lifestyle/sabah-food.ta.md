@@ -9,7 +9,7 @@ heroCredit: "Dennis Wong / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3ABeef_tripe_rice_noodle.jpg"
 category: "food-lifestyle"
-subcategory: ["regional"]
+subcategory: ["masakan"]
 summary: "போர்னியோ தீவின் வடமுனையில் அமைந்துள்ள மலேசியாவின் மாநிலமான சபா, தனக்கே உரிய உணவுப் பண்பாட்டைக் கொண்டுள்ளது — பூர்வகுடி Kadazan-Dusun சமையல், ஏராளமான கடற்கரை கடல் உணவு, மற்றும் சீன (குறிப்பாக Hakka) குடியேறிகள் கொண்டுவந்த நூடுல்களின் அடிப்படையில் கட்டமைக்கப்பட்டது. இந்த வழிகாட்டி அதன் சிறப்பு உணவுகளை விளக்குகிறது: பச்சை மீன் சாலட் hinava, புளித்த bosou, tuaran mee முதல் beaufort mee வரை மாநிலத்தின் பல நூடுல் உணவுகள், ngiu chap மற்றும் sang nyuk mian, காட்டு bambangan மற்றும் butod, மேலும் புதுமையும் மலிவும் பெற்றதாகப் புகழ்பெற்ற Kota Kinabalu-வின் கடல் உணவு."
 
 tier: "2"

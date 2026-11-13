@@ -9,7 +9,7 @@ heroCredit: "Dennis Wong / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3ABeef_tripe_rice_noodle.jpg"
 category: "food-lifestyle"
-subcategory: ["regional"]
+subcategory: ["masakan"]
 summary: "सबा, बोर्नियो के उत्तरी सिरे पर स्थित मलेशिया का राज्य, अपनी एक अलग पाक-परंपरा रखता है — जो आदिवासी Kadazan-Dusun पाककला, प्रचुर तटीय समुद्री भोजन और चीनी (विशेषकर Hakka) बसने वालों द्वारा लाए गए नूडल्स पर टिकी है। यह गाइड इसके खास व्यंजन समेटती है: कच्ची मछली का सलाद hinava, किण्वित bosou, tuaran mee से beaufort mee तक राज्य के अनेक नूडल व्यंजन, ngiu chap और sang nyuk mian, जंगली bambangan और butod, तथा ताज़ा और किफ़ायती होने के लिए मशहूर Kota Kinabalu का समुद्री भोजन।"
 
 tier: "2"

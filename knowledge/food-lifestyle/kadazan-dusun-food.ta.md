@@ -9,7 +9,7 @@ heroCredit: "23jvvn / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AKadazandusun_Traditional_Food_around_KDCA%2C_Penampang_01.jpg"
 category: "food-lifestyle"
-subcategory: ["regional"]
+subcategory: ["masakan"]
 summary: "கடசான்-துசுன் சமையல் என்பது சபாவின் மிகப்பெரிய பழங்குடி சமூகத்தின் உணவாகும்; கனமான மசாலாவை விட புதிய புளிப்பூட்டல், காட்டுத் தேடல் மற்றும் புளிக்கவைத்தல் மீது அது கட்டமைக்கப்பட்டுள்ளது. எலுமிச்சையில் ஊறவைத்த hinava, புளிக்கவைத்த bosou சேமிப்புகள், மஞ்சள் புளிப்பூட்டிய pinasakan, காட்டு மாம்பழமான bambangan, கடுமணமுள்ள tuhau ஆகிய அதன் கையொப்ப உணவுகளையும், Kaamatan அறுவடைத் திருவிழாவுக்கு நங்கூரமிடும் பிசுபிசுப்பு அரிசி மதுக்களையும் (tapai, lihing, montoku) இந்த வழிகாட்டி அறிமுகப்படுத்துகிறது."
 
 tier: "2"

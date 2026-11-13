@@ -9,7 +9,7 @@ heroCredit: "23jvvn / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AKadazandusun_Traditional_Food_around_KDCA%2C_Penampang_01.jpg"
 category: "food-lifestyle"
-subcategory: ["regional"]
+subcategory: ["masakan"]
 summary: "कदाज़ान-दुसुन व्यंजन सबा के सबसे बड़े आदिवासी समुदाय का भोजन है, जो भारी मसालों के बजाय ताज़े खटाईकरण, जंगली संग्रह और किण्वन पर टिका है। यह मार्गदर्शिका इसके विशिष्ट व्यंजनों — खट्टे रस में सिझाई hinava, किण्वित bosou परिरक्षण, हल्दी से खट्टा pinasakan, जंगली आम bambangan और तीखी गंध वाले tuhau — के साथ-साथ उन चिपचिपे चावल की शराबों (tapai, lihing और montoku) को शामिल करती है जो Kaamatan फसल उत्सव की धुरी हैं।"
 
 tier: "2"

@@ -9,7 +9,7 @@ heroCredit: "Dennis Wong / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3ABeef_tripe_rice_noodle.jpg"
 category: "food-lifestyle"
-subcategory: ["regional"]
+subcategory: ["masakan"]
 summary: "沙巴是马来西亚位于婆罗洲北端的州，拥有自成一格的美食——建立在Kadazan-Dusun原住民的烹饪、丰盛的沿海海鲜，以及华人（尤其是Hakka）移民带来的面食之上。本指南介绍它的招牌：生鱼沙拉hinava、发酵的bosou、从tuaran mee到beaufort mee的众多州属面食、ngiu chap与sang nyuk mian、野生的bambangan与butod，以及Kota Kinabalu著称的新鲜而实惠的海鲜。"
 
 tier: "2"

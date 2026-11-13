@@ -9,7 +9,7 @@ heroCredit: "23jvvn / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AKadazandusun_Traditional_Food_around_KDCA%2C_Penampang_01.jpg"
 category: "food-lifestyle"
-subcategory: ["regional"]
+subcategory: ["masakan"]
 summary: "อาหารกาดาซัน-ดูซุนคืออาหารของชุมชนพื้นเมืองที่ใหญ่ที่สุดในซาบาห์ สร้างขึ้นบนการปรุงเปรี้ยวแบบสด การเก็บหาจากป่า และการหมักดอง มากกว่าการใช้เครื่องเทศหนัก ๆ คู่มือนี้ครอบคลุมเมนูเด่น ได้แก่ hinava ปลาดิบหมักน้ำมะนาว, ของหมัก bosou, pinasakan ที่เปรี้ยวด้วยขมิ้น, มะม่วงป่า bambangan และ tuhau ที่กลิ่นแรง พร้อมด้วยเหล้าข้าวเหนียว (tapai, lihing และ montoku) ที่เป็นหัวใจของเทศกาลเก็บเกี่ยว Kaamatan"
 
 tier: "2"

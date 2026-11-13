@@ -503,7 +503,8 @@ export const SUBCATEGORY_LABELS: Record<string, Localized> = {
   ingredients: { ms: "Bahan Masakan", en: "Ingredients", zh: "食材", ta: "சமையல் பொருட்கள்", ja: "食材", ko: "식재료", th: 'วัตถุดิบ', vi: 'Nguyên liệu', id: 'Bahan Masakan', ar: 'المكونات', hi: 'सामग्री', es: 'Ingredientes', fr: 'Ingrédients' },
   'islamic-finance': { ms: "Kewangan Islam", en: "Islamic finance", zh: "伊斯兰金融", ta: "இஸ்லாமிய நிதி", ja: "イスラム金融", ko: "이슬람 금융", th: 'การเงินอิสลาม', vi: 'Tài chính Hồi giáo', id: 'Keuangan Islam', ar: 'التمويل الإسلامي', hi: 'इस्लामी वित्त', es: 'Finanzas islámicas', fr: 'Finance islamique' },
   literature: { ms: "Kesusasteraan", en: "Literature", zh: "文学", ta: "இலக்கியம்", ja: "文学", ko: "문학", th: 'วรรณกรรม', vi: 'Văn học', id: 'Sastra', ar: 'الأدب', hi: 'साहित्य', es: 'Literatura', fr: 'Littérature' },
-  regional: { ms: "Masakan Serantau", en: "Regional cuisine", zh: "地方美食", ta: "பிராந்திய உணவு", ja: "郷土料理", ko: "향토 요리", th: 'อาหารประจำภูมิภาค', vi: 'Ẩm thực vùng miền', id: 'Masakan Daerah', ar: 'المأكولات الإقليمية', hi: 'क्षेत्रीय व्यंजन', es: 'Cocina regional', fr: 'Cuisine régionale' },
+  // `regional` merged into `masakan` (2026-11-13) — both rendered "Regional cuisine";
+  // the 2 articles were retagged to `masakan` and old /topic/regional redirects there.
   religion: { ms: "Agama", en: "Religion", zh: "宗教", ta: "மதம்", ja: "宗教", ko: "종교", th: 'ศาสนา', vi: 'Tôn giáo', id: 'Agama', ar: 'الدين', hi: 'धर्म', es: 'Religión', fr: 'Religion' },
   restaurants: { ms: "Restoran", en: "Restaurants", zh: "餐厅", ta: "உணவகங்கள்", ja: "レストラン", ko: "맛집", th: 'ร้านอาหาร', vi: 'Nhà hàng', id: 'Restoran', ar: 'المطاعم', hi: 'रेस्तराँ', es: 'Restaurantes', fr: 'Restaurants' },
   // MICHELIN Guide — a real subcategory (not a collection); the 70 restaurants are

@@ -9,7 +9,7 @@ heroCredit: "Dennis Wong / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3ABeef_tripe_rice_noodle.jpg"
 category: "food-lifestyle"
-subcategory: ["regional"]
+subcategory: ["masakan"]
 summary: "サバはボルネオ島北端に位置するマレーシアの州で、独自の食文化をもつ——先住民Kadazan-Dusunの料理、豊富な沿岸の海産物、そして華人（とりわけHakka）移民がもたらした麺類の上に築かれている。本ガイドでは看板料理を取り上げる：生魚のサラダhinava、発酵させたbosou、tuaran meeからbeaufort meeに至る州内の数々の麺料理、ngiu chapとsang nyuk mian、野生のbambanganとbutod、そしてKota Kinabaluで名高い新鮮で手頃な海産物。"
 
 tier: "2"

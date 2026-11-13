@@ -11,7 +11,7 @@ heroCredit: "23jvvn / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AKadazandusun_Traditional_Food_around_KDCA%2C_Penampang_01.jpg"
 category: "food-lifestyle"
-subcategory: ["regional"]
+subcategory: ["masakan"]
 foodType: "cuisine"
 summary: "Kadazan-Dusun cuisine is the food of Sabah's largest indigenous community, built on fresh souring, wild forage and fermentation rather than heavy spice. This guide covers its signature dishes — citrus-cured hinava, the fermented bosou preserves, turmeric-soured pinasakan, wild-mango bambangan and pungent tuhau — alongside the glutinous rice wines (tapai, lihing and montoku) that anchor the Kaamatan harvest festival."
 

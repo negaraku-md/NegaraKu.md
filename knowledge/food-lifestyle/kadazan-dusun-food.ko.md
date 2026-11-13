@@ -9,7 +9,7 @@ heroCredit: "23jvvn / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AKadazandusun_Traditional_Food_around_KDCA%2C_Penampang_01.jpg"
 category: "food-lifestyle"
-subcategory: ["regional"]
+subcategory: ["masakan"]
 summary: "카다잔-두순 요리는 사바 최대 원주민 공동체의 음식으로, 묵직한 향신료가 아니라 신선한 신맛내기, 야생 채집, 발효 위에 세워져 있습니다. 이 안내서는 감귤로 절인 hinava, 발효 보존식 bosou, 강황으로 신맛을 낸 pinasakan, 야생 망고 bambangan, 향이 강한 tuhau 같은 대표 요리와, 수확제 Kaamatan을 떠받치는 찹쌀 술(tapai, lihing, montoku)을 다룹니다."
 
 tier: "2"
