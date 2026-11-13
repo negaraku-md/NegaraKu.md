@@ -54,6 +54,7 @@ const NAV_FULL: NavMenu[] = [
       { label: 'nav.latest', href: '/latest' },
       { label: 'nav.trending', href: '/most-read' },
       { label: 'nav.timeline', href: '/malaysia/timeline-of-malaysia' },
+      { label: 'nav.michelinGuide', href: '/michelin' },
       { label: 'nav.grpTools', href: '', heading: true },
       { label: 'nav.tools', href: '/tools' },
       { label: 'nav.graph', href: '/graph' },

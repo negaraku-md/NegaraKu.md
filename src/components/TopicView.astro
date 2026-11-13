@@ -46,7 +46,7 @@ const topics = orderedSubcats(categoryId, catArticles.flatMap((a) => a.data.subc
   stats={[stat.pillars(PILLARS.length, locale), stat.categories(pillar ? categoriesInPillar(pillar).length : 0, locale), stat.subcategories(topics.length, locale), stat.topics(articles.length, locale)]}
 />
 
-<ArticleList locale={locale} articles={articles} filters={[]} />
+<ArticleList locale={locale} articles={articles} filters={[]} homeCat={categoryId} />
 
 {
   pillar && (

@@ -1,0 +1,573 @@
+{
+  "generatedBy": "scripts/build-michelin-collection.mjs",
+  "guide": "MICHELIN Guide Kuala Lumpur, Penang & beyond",
+  "count": 70,
+  "distinctions": {
+    "two-star": 1,
+    "star": 8,
+    "bib-gourmand": 60,
+    "selected": 1
+  },
+  "restaurants": [
+    {
+      "slug": "dewakan",
+      "distinction": "two-star",
+      "greenStar": true,
+      "price": null,
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "akar",
+      "distinction": "star",
+      "greenStar": false,
+      "price": "$$",
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "au-jardin",
+      "distinction": "star",
+      "greenStar": false,
+      "price": "$$",
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "auntie-gaik-leans-old-school-eatery",
+      "distinction": "star",
+      "greenStar": false,
+      "price": null,
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "beta",
+      "distinction": "star",
+      "greenStar": false,
+      "price": "$$",
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "chim-by-chef-noom",
+      "distinction": "star",
+      "greenStar": false,
+      "price": "$$",
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "dc-by-darren-chin",
+      "distinction": "star",
+      "greenStar": false,
+      "price": "$$",
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "molina",
+      "distinction": "star",
+      "greenStar": false,
+      "price": null,
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "terra-dining",
+      "distinction": "star",
+      "greenStar": false,
+      "price": null,
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "7-chai-ipoh-hor-fun",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "ah-hei-bak-kut-teh",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "aliyaa",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "anak-baba",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "awesome-char-koay-teow",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "bee-hwa-cafe",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "bibiks-kitchen",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "bm-cathay-pancake",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "penang",
+      "city": "Bukit Mertajam"
+    },
+    {
+      "slug": "bm-yam-rice",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "penang",
+      "city": "Bukit Mertajam"
+    },
+    {
+      "slug": "bridge-street-prawn-noodle",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "coast-by-kayra",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "communal-table-by-gen",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "congkak",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "de-wan-1958",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "duck-blood-curry-mee",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "foong-lian",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "ghee-lian",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "green-house-prawn-mee-and-loh-mee",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "gulainya",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "hai-kah-lang",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "hing-kee-bakuteh",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "hor-poh-cuisine",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "hot-bowl-white-curry-mee",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "ivys-nyonya-cuisine",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "jalan-ipoh-claypot-chicken-rice",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "lai-foong-lala-noodles",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "laksalicious",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "lama",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "leens",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "lemon-koay-teow-soup",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "penang",
+      "city": "Butterworth"
+    },
+    {
+      "slug": "lum-lai-duck-meat-koay-teow-thng",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "ming-qin-charcoal-duck-egg-char-koay-teow",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "penang",
+      "city": "Bukit Mertajam"
+    },
+    {
+      "slug": "minji-bak-kut-teh",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "moh-teng-pheow-nyonya-koay",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "mtr-1924",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "my-own-cafe",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "nam-heong-chicken-rice",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "nasi-ayam-hainan-chee-meng",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "neighbourwood",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "penang",
+      "city": "Bukit Mertajam"
+    },
+    {
+      "slug": "nirwana",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "penang-road-famous-jin-kor-char-kuey-teow",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "penang-road-famous-laksa",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "rasa-rasa",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "ravis-famous-apom-manis",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "roti-by-dtandoor",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "sao-nam",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "sardaarji",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "sek-yuen",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "serabai-istimewa",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "siam-road-char-koay-teow",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "sifu",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "sin-kiew-yee-shin-kee-beef-noodles",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "sister-yaos-char-koay-kak",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "super-star-koay-teow-soup",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "taman-bukit-curry-mee",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "penang",
+      "city": "Bukit Mertajam"
+    },
+    {
+      "slug": "teksen",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "thara",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "wan-dao-tou-assam-laksa",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "winns-cafe",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": "$",
+      "state": "penang",
+      "city": "George Town"
+    },
+    {
+      "slug": "wong-mei-kee",
+      "distinction": "bib-gourmand",
+      "greenStar": false,
+      "price": null,
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "slug": "potager",
+      "distinction": "selected",
+      "greenStar": false,
+      "price": "$$",
+      "state": "kuala-lumpur",
+      "city": "Kuala Lumpur"
+    }
+  ]
+}

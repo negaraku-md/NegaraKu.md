@@ -1,0 +1,10 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import MichelinHubView from '@/components/MichelinHubView.astro';
+import { MICHELIN_TITLE, MICHELIN_DESC } from '@/lib/michelinMeta';
+const locale = 'id' as const;
+---
+
+<BaseLayout locale={locale} title={MICHELIN_TITLE[locale]} description={MICHELIN_DESC[locale]} path="/michelin">
+  <MichelinHubView locale={locale} />
+</BaseLayout>

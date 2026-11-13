@@ -46,6 +46,10 @@ interface Props {
   fixedOrder?: boolean;
   /** Show a rank number + reader count on each card (used by /most-read). */
   showRank?: boolean;
+  /** The category id this list is scoped to. When set, any card whose primary
+      category differs is an `alsoIn` cross-listed GUEST, flagged with a pill so
+      readers see it's homed elsewhere (see content.config alsoIn). */
+  homeCat?: string;
 }
 const {
   locale,
@@ -55,6 +59,7 @@ const {
   groupByDate = false,
   fixedOrder = false,
   showRank = false,
+  homeCat,
 } = Astro.props;
 const has = (f: FilterKey) => filters.includes(f);
 const dateLocale = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale;
@@ -109,6 +114,9 @@ const rows = articles.map((a, i) => {
     nl: (langsByKey.get(key) ?? new Set()).size || 1,
     reads: bReads(analytics[key]?.readers),
     rank: i + 1,
+    // Cross-listed guest: primary category differs from the list's home category
+    // (only set when `homeCat` is passed, i.e. category/topic-scoped lists).
+    guest: homeCat ? d.category !== homeCat : false,
   };
 });
 
@@ -264,6 +272,8 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     updated: L('Dikemas kini', 'Updated', '更新', 'புதுப்பிக்கப்பட்டது', '更新日', '업데이트', 'อัปเดตแล้ว', 'Đã cập nhật', 'Diperbarui', 'محدّث', 'अद्यतन', 'Actualizado', 'Mis à jour'),
     readers: L('pembaca', 'readers', '读者', 'வாசகர்கள்', '読者', '독자', 'ผู้อ่าน', 'độc giả', 'pembaca', 'قرّاء', 'पाठक', 'lectores', 'lecteurs'),
     noDate: L('Tiada tarikh', 'No date', '无日期', 'தேதி இல்லை', '日付なし', '날짜 없음', 'ไม่มีวันที่', 'Không có ngày', 'Tidak ada tanggal', 'لا يوجد تاريخ', 'कोई तिथि नहीं', 'Sin fecha', 'Sans date'),
+    crossListed: L('Juga di sini', 'Also here', '也在此', 'இங்கும்', 'ここにも', '여기에도', 'อยู่ที่นี่ด้วย', 'Cũng ở đây', 'Juga di sini', 'هنا أيضًا', 'यहाँ भी', 'También aquí', 'Aussi ici'),
+    primarilyIn: L('Utamanya dalam', 'Primarily in', '主要归于', 'முதன்மையாக', '主に', '주로', 'หลักอยู่ใน', 'Chủ yếu ở', 'Terutama di', 'بشكل أساسي في', 'मुख्यतः', 'Principalmente en', 'Principalement dans'),
   })}
 ></script>
 <script type="application/json" id="articles-config" set:html={JSON.stringify({ groupByDate, dateLocale, fixedOrder, showRank })}></script>
@@ -342,6 +352,14 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     return `<span class="rc-status s-${r.st}">${esc(I18N.status[r.st] || r.st)}</span>`;
   }
 
+  // Cross-listed guest pill — shown when the card's primary category differs from
+  // the list's home category (an `alsoIn` guest). Tooltip names its home category.
+  function guestHtml(r) {
+    if (!r.guest) return '';
+    const home = catLbl(r);
+    return `<span class="rc-guest" title="${esc(I18N.primarilyIn)} ${esc(home)}">↗ ${esc(I18N.crossListed)}</span>`;
+  }
+
   function cardHtml(r) {
     const img = r.hero || r.og;
     const rank = CFG.showRank
@@ -353,7 +371,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
           <img class="rc-img" src="${esc(img)}" alt="" loading="lazy" decoding="async" />
         </a>
         <div class="rc-body">
-          <div class="rc-top">${tagsHtml(r)}${statusHtml(r)}</div>
+          <div class="rc-top">${tagsHtml(r)}${guestHtml(r)}${statusHtml(r)}</div>
           ${rank}
           <a class="rc-title" href="${href(r.p)}">${esc(r.t)}</a>
           ${r.sum ? `<p class="rc-sum">${esc(r.sum)}</p>` : ''}
@@ -624,6 +642,14 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   .acards :global(.rc-status.s-draft), .acards :global(.rc-status.s-needs-update) { color: #fbbf24; border-color: rgba(251,191,36,.4); background: rgba(251,191,36,.12); }
   .acards :global(.rc-status.s-in-review), .acards :global(.rc-status.s-in-update) { color: #60a5fa; border-color: rgba(96,165,250,.4); background: rgba(96,165,250,.12); }
   .acards :global(.rc-status.s-archived) { color: var(--muted); border-color: var(--line); }
+  /* Cross-listed guest pill — subtle, non-competing with the status pill. Signals
+     an alsoIn guest (homed in another category, shown here because relevant). */
+  .acards :global(.rc-guest) {
+    flex: none; font-size: 0.64rem; font-weight: 700; letter-spacing: 0.03em;
+    border-radius: 999px; padding: 0.12rem 0.55rem; cursor: help;
+    color: var(--gold); border: 1px solid color-mix(in srgb, var(--gold) 45%, var(--line));
+    background: color-mix(in srgb, var(--gold) 10%, transparent);
+  }
 
   .acards :global(.rc-rankline) { display: flex; align-items: baseline; gap: 0.6rem; }
   .acards :global(.rc-rank) { font-family: var(--font-title); font-weight: 800; font-size: 0.95rem; color: var(--gold); font-variant-numeric: tabular-nums; }
