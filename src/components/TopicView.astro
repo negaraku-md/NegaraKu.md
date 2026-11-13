@@ -30,7 +30,7 @@ const label = subcatLabel(topic, locale);
 
 // Sibling topics in this category — used for the hero's Topics stat.
 const catArticles = (await articlesForLocale(locale)).filter((a) => a.data.category === categoryId);
-const topics = orderedSubcats(categoryId, catArticles.flatMap((a) => a.data.subcategory));
+const topics = orderedSubcats(categoryId, catArticles.flatMap((a) => a.data.subcategory), locale);
 ---
 
 <PageHero

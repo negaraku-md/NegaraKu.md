@@ -605,13 +605,25 @@ export function subcatLabel(slug: string, locale: Locale): string {
   return SUBCATEGORY_LABELS[slug]?.[locale as ContentLocale] ?? titleCase(slug);
 }
 
-/** Ordered subcategory slugs present in a set of articles. */
-export function orderedSubcats(categoryId: string, present: string[]): string[] {
+/**
+ * Ordered subcategory slugs present in a set of articles.
+ *
+ * Primary order is the hand-authored reader's journey in SUBCATEGORY_ORDER
+ * (formation → … → closure). Topics not listed there used to fall to the end in
+ * arbitrary article-scan order; passing `locale` now sorts every tie — both the
+ * un-listed tail AND any equal-rank topics — A–Z by their localised label, so a
+ * category with no journey list (e.g. food-lifestyle) reads cleanly alphabetical
+ * while curated sequences are untouched. Omit `locale` (build-time path gen) to
+ * keep the plain rank order.
+ */
+export function orderedSubcats(categoryId: string, present: string[], locale?: Locale): string[] {
   const order = SUBCATEGORY_ORDER[categoryId] ?? [];
   const seen = [...new Set(present)];
   return seen.sort((a, b) => {
-    const ia = order.indexOf(a);
-    const ib = order.indexOf(b);
-    return (ia === -1 ? 999 : ia) - (ib === -1 ? 999 : ib);
+    const ra = order.indexOf(a) === -1 ? 999 : order.indexOf(a);
+    const rb = order.indexOf(b) === -1 ? 999 : order.indexOf(b);
+    if (ra !== rb) return ra - rb;
+    if (!locale) return 0;
+    return subcatLabel(a, locale).localeCompare(subcatLabel(b, locale), locale);
   });
 }

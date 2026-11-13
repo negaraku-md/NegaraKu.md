@@ -3,6 +3,7 @@ import type { Locale, Pillar } from '@/lib/categories';
 import { categoriesInPillar, pillarGridCategories, PILLARS, getPillar, getCategoryColor, getPillarColor, loc } from '@/lib/categories';
 import { articlesForLocale } from '@/lib/content';
 import { orderedSubcats, subcatLabel } from '@/lib/subcategories';
+import { collectionsFor } from '@/lib/collections';
 import { localePath } from '@/lib/i18n';
 
 // Shared hierarchy navigation: an optional TOPICS group (the topics of the
@@ -36,25 +37,39 @@ for (const a of items) {
 
 // Topics of the current category (only when a categoryId is supplied).
 const catArticles = categoryId ? items.filter((a) => a.data.category === categoryId) : [];
-const topics = categoryId ? orderedSubcats(categoryId, catArticles.flatMap((a) => a.data.subcategory)) : [];
+const topics = categoryId ? orderedSubcats(categoryId, catArticles.flatMap((a) => a.data.subcategory), locale) : [];
 const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.includes(t)).length;
+// Curated collections (e.g. the MICHELIN Guide) pinned first in the Topics group,
+// matching the category page — so the collection is discoverable from topic pages too.
+const collections = categoryId ? collectionsFor(categoryId) : [];
 ---
 
 {topSeparator && <hr class="gsep-full" />}
 
 <div class="container block hub-groups" data-pagefind-ignore>
   {
-    topics.length > 0 && (
+    (topics.length > 0 || collections.length > 0) && (
       <section class="psec">
         <header>
           <span>
             <span class="pi" aria-hidden="true">🧭</span>
             {L('Topik', 'Topics', '主题', 'தலைப்புகள்', 'トピック', '주제', 'หัวข้อ', 'Chủ đề', 'Topik', 'المواضيع', 'विषय', 'Temas', 'Sujets')}
           </span>
-          <span>{topics.length}</span>
+          <span>{topics.length + collections.length}</span>
         </header>
         <div class="psec-body">
           <div class="cat-grid">
+            {collections.map((c) => (
+              <a
+                class="cat-card topic topic-collection"
+                href={localePath(c.href, locale)}
+                style={`--cat:${c.color}`}
+              >
+                <span class="bar" aria-hidden="true" />
+                <b><span class="tc-star" aria-hidden="true">★</span> {c.title[locale]}</b>
+                <span class="tc-count">{c.count} {L('restoran', 'restaurants', '餐厅', 'உணவகங்கள்', 'レストラン', '레스토랑', 'ร้านอาหาร', 'nhà hàng', 'restoran', 'مطاعم', 'रेस्तरां', 'restaurantes', 'restaurants')} →</span>
+              </a>
+            ))}
             {topics.map((t) => (
               <a
                 class={`cat-card topic${t === activeTopic ? ' current' : ''}`}
@@ -73,7 +88,7 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
     )
   }
 
-  {topics.length > 0 && <hr class="gsep" />}
+  {(topics.length > 0 || collections.length > 0) && <hr class="gsep" />}
 
   <section class="psec">
     <header>
@@ -211,6 +226,10 @@ const topicCount = (t: string) => catArticles.filter((a) => a.data.subcategory.i
   /* Topic cards: name, then a labelled + clickable article count (same design as
      the category page's Topics group). No icon, tighter than a category card. */
   .cat-card.topic { gap: 0.3rem; }
+  /* Curated collection card (e.g. MICHELIN Guide) — subtle accent tint + star so
+     it reads as a featured set, not an ordinary topic. Mirrors ServiceCategory. */
+  .cat-card.topic-collection { background: color-mix(in srgb, var(--cat) 8%, var(--surface-2)); }
+  .cat-card.topic-collection .tc-star { color: var(--cat); }
   .cat-card .tc-count { color: var(--muted); font-size: 0.85rem; }
   .cat-card .ci { font-size: 1.6rem; line-height: 1; }
   .cat-card b { font-family: var(--font-title); font-size: 1rem; }

@@ -26,6 +26,7 @@ const topicHref = (s: string) => localePath(`/${category.id}/topic/${s}`, locale
 const subcats = orderedSubcats(
   category.id,
   articles.flatMap((a) => a.data.subcategory),
+  locale,
 );
 const inSub = (s: string) => articles.filter((a) => a.data.subcategory.includes(s));
 
