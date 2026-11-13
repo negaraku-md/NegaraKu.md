@@ -25,7 +25,7 @@ const items = await articlesForLocale(locale);
 const counts: Record<string, number> = {};
 for (const a of items) counts[a.data.category] = (counts[a.data.category] ?? 0) + 1;
 
-const groups = PILLARS.map((p) => ({ def: p, cats: categoriesInPillar(p.id) }));
+const groups = PILLARS.map((p) => ({ def: p, cats: categoriesInPillar(p.id, true, locale) }));
 ---
 
 <PageHero

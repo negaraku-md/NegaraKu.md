@@ -20,7 +20,7 @@ const articles = await articlesForLocale(locale);
 const taxonomy = PILLARS.map((p) => ({
   id: p.id,
   name: loc(p.name, locale),
-  categories: categoriesInPillar(p.id, true).map((c) => ({
+  categories: categoriesInPillar(p.id, true, locale).map((c) => ({
     id: c.id,
     name: loc(c.name, locale),
     topics: articles

@@ -1068,8 +1068,20 @@ export function launchCategories(): Category[] {
   return CATEGORIES.filter((c) => c.launch);
 }
 
-export function categoriesInPillar(pillar: Pillar, onlyLaunched = true): Category[] {
-  return CATEGORIES.filter((c) => c.pillar === pillar && (!onlyLaunched || c.launch));
+/**
+ * Order a category list A–Z by its name AS DISPLAYED in `locale`. Names are
+ * localised (Education / Pendidikan / 教育 …), so the resulting order is
+ * language-specific — which is the point: each reader sees a predictable
+ * alphabetical grid in their own language. Uses the locale's own collation
+ * (pinyin for zh, etc.). Returns a new array; the input is left untouched.
+ */
+function sortByLocalName(cats: Category[], locale: Locale): Category[] {
+  return [...cats].sort((a, b) => loc(a.name, locale).localeCompare(loc(b.name, locale), locale));
+}
+
+export function categoriesInPillar(pillar: Pillar, onlyLaunched = true, locale?: Locale): Category[] {
+  const list = CATEGORIES.filter((c) => c.pillar === pillar && (!onlyLaunched || c.launch));
+  return locale ? sortByLocalName(list, locale) : list;
 }
 
 /**
@@ -1082,13 +1094,15 @@ export const PILLAR_GUEST_CATEGORIES: Partial<Record<Pillar, string[]>> = {
   'doing-business': ['law', 'property'],
 };
 
-/** A pillar's own categories plus its featured guests — for the pillar/nav grid. */
-export function pillarGridCategories(pillar: Pillar, onlyLaunched = true): Category[] {
-  const own = categoriesInPillar(pillar, onlyLaunched);
+/** A pillar's own categories plus its featured guests — for the pillar/nav grid.
+ * Pass `locale` to sort both groups A–Z by their localised name (own first, then
+ * guests, each alphabetised). Omit it (count-only callers) to keep source order. */
+export function pillarGridCategories(pillar: Pillar, onlyLaunched = true, locale?: Locale): Category[] {
+  const own = categoriesInPillar(pillar, onlyLaunched, locale);
   const guests = (PILLAR_GUEST_CATEGORIES[pillar] ?? [])
     .map((id) => getCategory(id))
     .filter((c): c is Category => !!c && c.pillar !== pillar && (!onlyLaunched || c.launch));
-  return [...own, ...guests];
+  return [...own, ...(locale ? sortByLocalName(guests, locale) : guests)];
 }
 
 export function categoriesWithArchetype(a: Archetype, onlyLaunched = true): Category[] {

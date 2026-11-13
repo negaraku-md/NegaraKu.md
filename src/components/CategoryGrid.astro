@@ -11,7 +11,7 @@ interface Props {
 }
 const { locale, counts = {}, pillar } = Astro.props;
 const cats = pillar
-  ? categoriesInPillar(pillar)
+  ? categoriesInPillar(pillar, true, locale)
   : CATEGORIES.filter((c) => c.id !== 'about');
 ---
 
