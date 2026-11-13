@@ -14,6 +14,7 @@ const { computeLeaseDuty } = await load('src/lib/tax/stampDuty.ts');
 const { findCourt } = await load('src/lib/law/whichCourt.ts');
 const { checkMM2H, fdForAge, MM2H } = await load('src/lib/visa/mm2h.ts');
 const { computeCost, stateAverages, stateCost } = await load('src/lib/cost-of-living/data.ts');
+const { computeTnbBill, eeiRateSen } = await load('src/lib/tnb/tariff.ts');
 
 let pass = 0, fail = 0;
 const eq = (name, got, want, tol = 0.001) => { const ok = Math.abs(got - want) <= tol; console.log(`${ok ? 'PASS' : 'FAIL'}  ${name}: got ${got} want ${want}`); ok ? pass++ : fail++; };
@@ -77,6 +78,20 @@ is('Sabah ranks 16 (lowest spend)', computeCost('sabah').expenditureRank, 16);
 eq('KL expenditure index vs avg', computeCost('kuala-lumpur').expenditureIndex, 152);
 eq('Sabah expenditure index vs avg', computeCost('sabah').expenditureIndex, 66);
 is('unknown state → null', computeCost('atlantis'), null);
+
+// --- TNB domestic bill (RP4, verbatim rates from mytnb.com.my/tariff) ---
+const tnb = (k) => computeTnbBill({ kwh: k });
+eq('EEI rate 200 kWh', eeiRateSen(200), -25.0);
+eq('EEI rate 1000 kWh', eeiRateSen(1000), -0.5);
+eq('EEI rate 1200 kWh (none)', eeiRateSen(1200), 0);
+eq('200 kWh bill (clean, EEI heavy)', tnb(200).total, 38.86);
+eq('500 kWh bill (+KWTBB)', tnb(500).total, 164.74);
+is('≤800: no retail charge', tnb(800).retail, 0);
+is('≤800: no AFA', tnb(800).afa, 0);
+is('>800: retail RM10 applies', tnb(900).retail, 10);
+eq('energy rate 1500 kWh = low band', tnb(1500).energyRate, 27.03);
+eq('energy rate 1600 kWh = high band', tnb(1600).energyRate, 37.03);
+is('>800: service tax applies', tnb(1000).serviceTax > 0, true);
 
 console.log(`\n${pass} passed, ${fail} failed`);
 process.exit(fail ? 1 : 0);

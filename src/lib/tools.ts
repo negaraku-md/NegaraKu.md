@@ -173,6 +173,11 @@ export const TOOLS: Tool[] = [
     title: L('Kos Sara Hidup Ikut Negeri', 'Cost of Living by State', '各州生活成本', 'மாநில வாழ்க்கைச் செலவு', '州別の生活費', '주별 생활비', 'ค่าครองชีพตามรัฐ', 'Chi phí sinh hoạt theo bang', 'Biaya Hidup per Wilayah', 'تكلفة المعيشة حسب الولاية', 'राज्यवार जीवन-यापन लागत', 'Coste de vida por estado', 'Coût de la vie par État'),
     blurb: L('Perbelanjaan & pendapatan isi rumah ikut negeri (DOSM 2024).', 'Household spending & income by state (DOSM 2024).', '各州家庭支出与收入（DOSM 2024）。', 'மாநில வாரியாக வீட்டுச் செலவு & வருமானம் (DOSM 2024).', '州別の世帯支出・収入（DOSM 2024）。', '주별 가계 지출·소득 (DOSM 2024).', 'รายจ่ายและรายได้ครัวเรือนตามรัฐ (DOSM 2024)', 'Chi tiêu & thu nhập hộ theo bang (DOSM 2024).', 'Belanja & pendapatan rumah tangga per wilayah (DOSM 2024).', 'إنفاق ودخل الأسر حسب الولاية (DOSM 2024).', 'राज्यवार घरेलू खर्च व आय (DOSM 2024)।', 'Gasto e ingreso del hogar por estado (DOSM 2024).', 'Dépenses et revenus des ménages par État (DOSM 2024).'),
   },
+  {
+    id: 'tnb-bill-calculator', href: '/tools/tnb-bill-calculator', icon: '⚡', color: '#FACC15', status: 'live', group: 'daily',
+    title: L('Kalkulator Bil TNB', 'TNB Bill Calculator', 'TNB 电费计算器', 'TNB பில் கணிப்பான்', 'TNB 電気料金計算機', 'TNB 전기요금 계산기', 'เครื่องคำนวณบิล TNB', 'Máy tính hóa đơn TNB', 'Kalkulator Tagihan TNB', 'حاسبة فاتورة TNB', 'TNB बिल कैलकुलेटर', 'Calculadora de factura TNB', 'Calculateur de facture TNB'),
+    blurb: L('Anggarkan bil elektrik rumah (tarif RP4).', 'Estimate your home electricity bill (RP4 tariff).', '估算家庭电费（RP4 费率）。', 'வீட்டு மின் பில்லை மதிப்பிடுங்கள் (RP4).', '家庭の電気料金を試算（RP4）。', '가정 전기요금 추정(RP4).', 'ประเมินค่าไฟบ้าน (RP4)', 'Ước tính hóa đơn điện nhà (RP4).', 'Perkirakan tagihan listrik rumah (RP4).', 'قدّر فاتورة كهرباء المنزل (RP4).', 'घरेलू बिजली बिल अनुमान (RP4)।', 'Estima tu factura de luz (RP4).', 'Estimez votre facture d’électricité (RP4).'),
+  },
 ];
 
 const by = (locale: Locale) => (t: Tool) => ({ ...t, label: t.title[locale], desc: t.blurb[locale] });
@@ -290,6 +295,10 @@ const ARTICLE_TOOL: Record<string, string> = {
   'cost-of-living/is-malaysia-affordable-for-expats': 'cost-of-living-by-state',
   'cost-of-living/cost-of-living-malaysia': 'cost-of-living-by-state',
   'cost-of-living/average-salary-malaysia': 'cost-of-living-by-state',
+  // TNB electricity bill (RP4 tariff)
+  'cost-of-living/electricity-bill-malaysia': 'tnb-bill-calculator',
+  'money-daily-life/electricity-tariff-tnb': 'tnb-bill-calculator',
+  'utilities/tnb-electricity-tariff': 'tnb-bill-calculator',
 };
 
 /** The live tool to surface on an article, or null. Key = "category/slug". */

@@ -1,0 +1,187 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import ToolArticleView from './ToolArticleView.astro';
+import { TNB } from '@/lib/tnb/tariff';
+
+interface Props { locale: Locale; }
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const title = L('Kalkulator Bil Elektrik TNB', 'TNB Electricity Bill Calculator', 'TNB 电费计算器');
+const heroDesc = L(
+  `Anggarkan bil elektrik rumah anda di bawah tarif RP4 TNB (berkuat kuasa 1 Julai 2025) — caj tenaga, kapasiti, rangkaian, peruncitan, Insentif Cekap Tenaga, AFA, KWTBB dan cukai perkhidmatan. Kadar rasmi dari mytnb.com.my. AFA berubah setiap bulan (paparan ${TNB.afaAsOf}).`,
+  `Estimate your home electricity bill under TNB's RP4 tariff (effective 1 July 2025) — energy, capacity, network and retail charges, the Energy Efficiency Incentive, AFA, KWTBB and service tax. Official rates from mytnb.com.my. AFA changes monthly (showing ${TNB.afaAsOf}).`,
+  `按 TNB RP4 电费结构（2025 年 7 月 1 日生效）估算你的家庭电费——能源、容量、网络、零售费、节能奖励、AFA、KWTBB 与服务税。官方费率来自 mytnb.com.my。AFA 每月变动（显示 ${TNB.afaAsOf}）。`,
+);
+
+const ui = {
+  usage: L('Penggunaan bulanan (kWj)', 'Monthly usage (kWh)', '每月用电量（kWh）'),
+  afa: L('Kadar AFA (sen/kWj)', 'AFA rate (sen/kWh)', 'AFA 费率（仙/kWh）'),
+  afaNote: L(`Lalai ${TNB.afaAsOf}: ${TNB.afaDefaultSen} sen; berubah bulanan`, `Default ${TNB.afaAsOf}: ${TNB.afaDefaultSen} sen; changes monthly`, `默认 ${TNB.afaAsOf}：${TNB.afaDefaultSen} 仙；每月变动`),
+  asOf: L('Tarif berkuat kuasa', 'Tariff effective', '费率生效'),
+  totalLabel: L('Anggaran bil bulanan', 'Estimated monthly bill', '每月预估电费'),
+  energy: L('Caj tenaga', 'Energy charge', '能源费'),
+  capacity: L('Caj kapasiti', 'Capacity charge', '容量费'),
+  network: L('Caj rangkaian', 'Network charge', '网络费'),
+  retail: L('Caj peruncitan', 'Retail charge', '零售费'),
+  eei: L('Insentif Cekap Tenaga', 'Energy Efficiency Incentive', '节能奖励'),
+  afaRow: L('Pelarasan AFA', 'AFA adjustment', 'AFA 调整'),
+  kwtbb: L('KWTBB (1.6%)', 'KWTBB (1.6%)', 'KWTBB（1.6%）'),
+  svc: L('Cukai perkhidmatan (8%)', 'Service tax (8%)', '服务税（8%）'),
+  caveats: L(
+    `Anggaran untuk Tarif Domestik Am (bukan ToU), Semenanjung Malaysia, tarif RP4 berkuat kuasa 1 Julai 2025 — kadar rasmi dari mytnb.com.my. AFA berubah setiap bulan (${TNB.afaAsOf}: ${TNB.afaDefaultSen} sen/kWj); aras perlindungan 800 kWj (pengecualian AFA, caj peruncitan dan cukai 8%) ialah langkah kerajaan bagi Sep–Dis 2026. Tidak termasuk tunggakan, surcaj lewat, lampu jalan, NEM atau rebat lain. Untuk bil tepat, gunakan kalkulator rasmi TNB.`,
+    `Estimate for the Domestic General Tariff (non-ToU), Peninsular Malaysia, RP4 tariff effective 1 July 2025 — official rates from mytnb.com.my. AFA changes monthly (${TNB.afaAsOf}: ${TNB.afaDefaultSen} sen/kWh); the 800 kWh protection (exempting AFA, retail charge and 8% tax) is a government measure for Sep–Dec 2026. Excludes arrears, late surcharge, street lighting, NEM or other rebates. For an exact bill, use TNB's official calculator.`,
+    `适用于家庭通用费率（非 ToU）、西马、RP4 费率（2025 年 7 月 1 日生效）——官方费率来自 mytnb.com.my。AFA 每月变动（${TNB.afaAsOf}：${TNB.afaDefaultSen} 仙/kWh）；800 kWh 保护（豁免 AFA、零售费与 8% 税）为 2026 年 9 至 12 月的政府措施。不含欠款、滞纳附加费、路灯、NEM 或其他回扣。精确账单请用 TNB 官方计算器。`,
+  ),
+};
+
+const faqs = [
+  {
+    q: L('Bagaimana bil dikira di bawah RP4?', 'How is the bill calculated under RP4?', 'RP4 下电费如何计算？'),
+    a: L(
+      'Caj tenaga 27.03 sen/kWj jika jumlah penggunaan 1,500 kWj dan ke bawah, atau 37.03 sen/kWj jika melebihi 1,500 kWj (dikenakan ke atas semua unit). Tambah caj kapasiti 4.55 sen/kWj dan caj rangkaian 12.85 sen/kWj. Caj peruncitan RM10/bulan dikecualikan untuk 800 kWj dan ke bawah. Insentif Cekap Tenaga memberi rebat (sehingga 1,000 kWj). AFA, KWTBB 1.6% dan cukai perkhidmatan 8% ditambah mengikut syarat.',
+      'The energy charge is 27.03 sen/kWh if total usage is 1,500 kWh or below, or 37.03 sen/kWh if above 1,500 kWh (applied to all units). Add the capacity charge 4.55 sen/kWh and network charge 12.85 sen/kWh. The RM10/month retail charge is waived at 800 kWh and below. The Energy Efficiency Incentive gives a rebate (up to 1,000 kWh). AFA, KWTBB 1.6% and 8% service tax are added where they apply.',
+      '若总用电量在 1,500 kWh 及以下，能源费为 27.03 仙/kWh；超过 1,500 kWh 则为 37.03 仙/kWh（适用于所有单位）。再加容量费 4.55 仙/kWh 与网络费 12.85 仙/kWh。800 kWh 及以下豁免 RM10/月零售费。节能奖励提供回扣（至 1,000 kWh）。AFA、KWTBB 1.6% 与 8% 服务税按条件加收。',
+    ),
+  },
+  {
+    q: L('Apakah aras perlindungan 800 kWj?', 'What is the 800 kWh protection?', '800 kWh 保护是什么？'),
+    a: L(
+      'Pengguna domestik dengan penggunaan 800 kWj dan ke bawah sebulan dikecualikan daripada AFA, caj peruncitan dan cukai perkhidmatan 8%. Aras ini dinaikkan daripada 600 kWj kepada 800 kWj mengikut pengumuman kerajaan 17 September 2026, berkuat kuasa bagi penggunaan 1 September hingga 31 Disember 2026 — jadi ia boleh berubah selepas tempoh itu.',
+      'Domestic users consuming 800 kWh or less a month are exempt from AFA, the retail charge and the 8% service tax. The level was raised from 600 kWh to 800 kWh per the government announcement of 17 September 2026, effective for consumption from 1 September to 31 December 2026 — so it may change after that period.',
+      '每月用电 800 kWh 及以下的家庭用户豁免 AFA、零售费与 8% 服务税。该门槛依 2026 年 9 月 17 日政府公告由 600 kWh 升至 800 kWh，适用于 2026 年 9 月 1 日至 12 月 31 日的用电——故此期后可能变动。',
+    ),
+  },
+  {
+    q: L('Mengapa ia berbeza daripada bil sebenar saya?', 'Why might it differ from my actual bill?', '为何与我的实际账单不同？'),
+    a: L(
+      'AFA berubah setiap bulan, jadi kalkulator menggunakan kadar terkini yang kami tahu (anda boleh menggantikannya). Ia juga mengira Tarif Domestik Am sahaja, bukan Masa Penggunaan (ToU), dan tidak termasuk tunggakan, surcaj lewat bayar, lampu jalan individu, tenaga NEM atau rebat kebajikan. Untuk angka tepat, gunakan kalkulator bil rasmi TNB.',
+      'AFA changes every month, so the calculator uses the latest rate we know (you can override it). It also computes the Domestic General Tariff only, not Time-of-Use (ToU), and excludes arrears, late-payment surcharges, individual street lighting, NEM energy or welfare rebates. For an exact figure, use TNB\'s official bill calculator.',
+      'AFA 每月变动，故计算器采用我们已知的最新费率（可自行覆盖）。它仅计算家庭通用费率，非分时（ToU），且不含欠款、滞纳附加费、个别路灯、NEM 电量或福利回扣。精确数字请用 TNB 官方账单计算器。',
+    ),
+  },
+];
+
+const howText = L(
+  'Masukkan penggunaan elektrik bulanan anda dalam kWj (terdapat pada bil TNB anda). Kami mengira caj tenaga, kapasiti dan rangkaian pada kadar RP4 rasmi, menolak Insentif Cekap Tenaga, dan menambah caj peruncitan, AFA, KWTBB dan cukai perkhidmatan mengikut syarat penggunaan anda. Anda boleh menggantikan kadar AFA kerana ia berubah setiap bulan. Semua pengiraan berlaku dalam pelayar anda.',
+  'Enter your monthly electricity usage in kWh (it is on your TNB bill). We compute the energy, capacity and network charges at the official RP4 rates, subtract the Energy Efficiency Incentive, and add the retail charge, AFA, KWTBB and service tax where your usage triggers them. You can override the AFA rate since it changes every month. All the maths happens in your browser.',
+  '输入你每月的用电量（kWh，见于 TNB 账单）。我们按官方 RP4 费率计算能源、容量与网络费，扣除节能奖励，并按你的用电是否触发而加上零售费、AFA、KWTBB 与服务税。AFA 每月变动，你可自行覆盖。所有计算都在你的浏览器中完成。',
+);
+
+const relatedLinks = [
+  { label: L('Kalkulator rasmi TNB', "TNB's official calculator", 'TNB 官方计算器'), href: 'https://www.mytnb.com.my/tariff' },
+];
+---
+
+<ToolArticleView
+  locale={locale}
+  toolId="tnb-bill-calculator"
+  title={title}
+  lede={heroDesc}
+  asOf={TNB.asOf}
+  how={howText}
+  faqs={faqs}
+  sources={TNB.sources}
+  related={relatedLinks}
+>
+  <div class="itc" id="tn">
+    <form class="itc-form" autocomplete="off">
+      <label class="itc-field itc-income">
+        <span>{ui.usage}</span>
+        <input type="number" id="tn-kwh" inputmode="decimal" min="0" step="10" placeholder="500" />
+      </label>
+      <label class="itc-field">
+        <span>{ui.afa}</span>
+        <input type="number" id="tn-afa" inputmode="decimal" step="0.01" value={TNB.afaDefaultSen} />
+        <small class="tn-small">{ui.afaNote}</small>
+      </label>
+    </form>
+
+    <aside class="itc-out" aria-live="polite">
+      <p class="itc-asof">{ui.asOf} <span id="tn-asof">{TNB.asOf}</span></p>
+      <div class="itc-headline">
+        <span class="itc-label">{ui.totalLabel}</span>
+        <strong class="itc-amount" id="tn-total">RM0</strong>
+      </div>
+      <dl class="itc-lines">
+        <div><dt>{ui.energy} <span id="tn-erate" class="tn-rate"></span></dt><dd id="tn-energy">RM0</dd></div>
+        <div><dt>{ui.capacity}</dt><dd id="tn-cap">RM0</dd></div>
+        <div><dt>{ui.network}</dt><dd id="tn-net">RM0</dd></div>
+        <div class="tn-opt" id="tn-retail-row"><dt>{ui.retail}</dt><dd id="tn-retail">RM0</dd></div>
+        <div class="tn-opt" id="tn-eei-row"><dt>{ui.eei}</dt><dd id="tn-eei" class="tn-neg">RM0</dd></div>
+        <div class="tn-opt" id="tn-afa-row"><dt>{ui.afaRow}</dt><dd id="tn-afarow">RM0</dd></div>
+        <div class="tn-opt" id="tn-kwtbb-row"><dt>{ui.kwtbb}</dt><dd id="tn-kwtbb">RM0</dd></div>
+        <div class="tn-opt" id="tn-svc-row"><dt>{ui.svc}</dt><dd id="tn-svc">RM0</dd></div>
+      </dl>
+    </aside>
+  </div>
+
+  <p class="itc-disclaimer">⚠️ {ui.caveats}</p>
+</ToolArticleView>
+
+<script>
+  import { computeTnbBill } from '@/lib/tnb/tariff';
+  const $ = (id) => document.getElementById(id);
+  const root = $('tn');
+  if (root) {
+    const f0 = new Intl.NumberFormat('en-MY', { style: 'currency', currency: 'MYR', minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    const rm = (n) => f0.format(n || 0).replace('MYR', 'RM').replace(/\s/g, '');
+    const num = (el) => { const v = parseFloat(el && el.value); return Number.isFinite(v) && v >= 0 ? v : 0; };
+    const show = (rowId, on) => { const r = $(rowId); if (r) r.style.display = on ? '' : 'none'; };
+    function recompute() {
+      const kwh = num($('tn-kwh'));
+      const afaSen = parseFloat($('tn-afa').value);
+      const r = computeTnbBill({ kwh, afaSen: Number.isFinite(afaSen) ? afaSen : undefined });
+      $('tn-total').textContent = rm(r.total);
+      $('tn-erate').textContent = `(${r.energyRate} sen/kWh)`;
+      $('tn-energy').textContent = rm(r.energy);
+      $('tn-cap').textContent = rm(r.capacity);
+      $('tn-net').textContent = rm(r.network);
+      $('tn-retail').textContent = rm(r.retail);
+      $('tn-eei').textContent = rm(r.eei);
+      $('tn-afarow').textContent = rm(r.afa);
+      $('tn-kwtbb').textContent = rm(r.kwtbb);
+      $('tn-svc').textContent = rm(r.serviceTax);
+      show('tn-retail-row', r.retail !== 0);
+      show('tn-eei-row', r.eei !== 0);
+      show('tn-afa-row', r.afa !== 0);
+      show('tn-kwtbb-row', r.kwtbb !== 0);
+      show('tn-svc-row', r.serviceTax !== 0);
+      $('tn-asof').textContent = r.asOf;
+    }
+    root.addEventListener('input', recompute);
+    recompute();
+  }
+</script>
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'SoftwareApplication', name: title, applicationCategory: 'FinanceApplication', operatingSystem: 'Web', offers: { '@type': 'Offer', price: '0', priceCurrency: 'MYR' }, description: heroDesc },
+    { '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+  ],
+})} />
+
+<style>
+  .itc { display: grid; grid-template-columns: 1.4fr 1fr; gap: 1.5rem; align-items: start; }
+  @media (max-width: 860px) { .itc { grid-template-columns: 1fr; } }
+  .itc-form { display: grid; gap: 1.1rem; align-content: start; }
+  .itc-field { display: grid; gap: 0.35rem; font-size: 0.9rem; }
+  .itc-field > span { font-weight: 600; color: var(--ink-soft); }
+  .itc-field input { font: inherit; padding: 0.55rem 0.7rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .itc-field input:focus { outline: 2px solid var(--gold); outline-offset: 1px; }
+  .tn-small { color: var(--muted); font-size: 0.74rem; }
+  .itc-out { position: sticky; top: 1rem; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 1.2rem 1.3rem; }
+  .itc-asof { margin: 0 0 0.8rem; font-size: 0.72rem; color: var(--muted); }
+  .itc-headline { display: grid; gap: 0.15rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
+  .itc-label { font-size: 0.8rem; color: var(--ink-soft); font-weight: 600; }
+  .itc-amount { font-size: 2.1rem; font-weight: 800; color: var(--gold); line-height: 1.1; }
+  .itc-lines { display: grid; gap: 0.5rem; margin: 1rem 0 0; }
+  .itc-lines > div { display: flex; justify-content: space-between; gap: 1rem; font-size: 0.86rem; }
+  .itc-lines dt { color: var(--ink-soft); margin: 0; }
+  .itc-lines dd { margin: 0; font-weight: 700; text-align: right; font-variant-numeric: tabular-nums; }
+  .tn-rate { color: var(--muted); font-weight: 400; font-size: 0.78rem; }
+  .tn-neg { color: #34d399; }
+  .itc-disclaimer { margin: 1.4rem 0 0; padding: 0.8rem 1rem; font-size: 0.82rem; line-height: 1.6; color: var(--ink-soft); background: color-mix(in srgb, var(--gold) 6%, var(--surface, transparent)); border: 1px solid color-mix(in srgb, var(--gold) 30%, transparent); border-radius: 10px; }
+</style>

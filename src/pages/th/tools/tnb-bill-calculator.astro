@@ -1,0 +1,11 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import TnbBillView from '@/components/TnbBillView.astro';
+import { TOOLS } from '@/lib/tools';
+const locale = 'th' as const;
+const tool = TOOLS.find((t) => t.id === 'tnb-bill-calculator')!;
+---
+
+<BaseLayout locale={locale} title={tool.title[locale]} description={tool.blurb[locale]} path="/tools/tnb-bill-calculator">
+  <TnbBillView locale={locale} />
+</BaseLayout>
