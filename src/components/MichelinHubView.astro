@@ -1,5 +1,6 @@
 ---
 import type { Locale } from '@/lib/categories';
+import { getCategory, getPillarDef, loc } from '@/lib/categories';
 import { localePath } from '@/lib/i18n';
 import { articlesForLocale } from '@/lib/content';
 import { STATES } from '@/lib/holidays/data';
@@ -81,7 +82,10 @@ const states = [...new Set(cards.map((c) => c.state).filter(Boolean))] as string
 const prices = [...new Set(cards.map((c) => c.price).filter(Boolean))].sort((a, b) => (a as string).length - (b as string).length) as string[];
 
 const home = L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'होम', 'Inicio', 'Accueil');
-const title = L('Panduan MICHELIN Malaysia', 'MICHELIN Guide Malaysia', '马来西亚米其林指南', 'MICHELIN வழிகாட்டி மலேசியா', 'ミシュランガイド マレーシア', '미쉐린 가이드 말레이시아', 'มิชลินไกด์ มาเลเซีย', 'Cẩm nang MICHELIN Malaysia', 'Panduan MICHELIN Malaysia', 'دليل ميشلان ماليزيا', 'मिशेलिन गाइड मलेशिया', 'Guía MICHELIN Malasia', 'Guide MICHELIN Malaisie');
+// The hub is a collection UNDER Food & Lifestyle — breadcrumb through its pillar + category.
+const livingPillar = getPillarDef('living');
+const flCat = getCategory('food-lifestyle');
+const title = L('Panduan MICHELIN', 'MICHELIN Guide', '米其林指南', 'MICHELIN வழிகாட்டி', 'ミシュランガイド', '미쉐린 가이드', 'มิชลินไกด์', 'Cẩm nang MICHELIN', 'Panduan MICHELIN', 'دليل ميشلان', 'मिशेलिन गाइड', 'Guía MICHELIN', 'Guide MICHELIN');
 const lede = L(
   'Setiap restoran Malaysia yang kami liputi dalam pilihan Panduan MICHELIN — bintang, Bib Gourmand dan terpilih — di Kuala Lumpur, Pulau Pinang dan seterusnya. Tapis mengikut anugerah, negeri dan harga.',
   'Every Malaysian restaurant we cover in the MICHELIN Guide selection — Stars, Bib Gourmand and Selected — across Kuala Lumpur, Penang and beyond. Filter by award, state and price.',
@@ -135,7 +139,12 @@ const explainerHref = localePath('/food-lifestyle/michelin-guide-malaysia', loca
 
 <PageHero
   locale={locale}
-  crumb={[{ label: home, href: localePath('/', locale) }, { label: title }]}
+  crumb={[
+    { label: home, href: localePath('/', locale) },
+    ...(livingPillar ? [{ label: loc(livingPillar.name, locale), href: localePath('/living', locale) }] : []),
+    ...(flCat ? [{ label: loc(flCat.name, locale), href: localePath('/food-lifestyle', locale) }] : []),
+    { label: title },
+  ]}
   title={title}
   desc={lede}
   stats={[

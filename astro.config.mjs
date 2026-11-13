@@ -73,6 +73,22 @@ function lastmodFor(url) {
 // The retired slugs are archived in content, so the article route no longer
 // emits them and these redirects own the paths with no collision.
 const redirects = {
+  // MICHELIN Guide hub moved under its category (2026-11-13): /michelin →
+  // /food-lifestyle/michelin, so its path + breadcrumb read as a Food & Lifestyle
+  // topic. Keep the old short URLs alive for any existing links/bookmarks.
+  '/michelin': '/food-lifestyle/michelin',
+  '/en/michelin': '/en/food-lifestyle/michelin',
+  '/zh/michelin': '/zh/food-lifestyle/michelin',
+  '/ta/michelin': '/ta/food-lifestyle/michelin',
+  '/ja/michelin': '/ja/food-lifestyle/michelin',
+  '/ko/michelin': '/ko/food-lifestyle/michelin',
+  '/th/michelin': '/th/food-lifestyle/michelin',
+  '/vi/michelin': '/vi/food-lifestyle/michelin',
+  '/id/michelin': '/id/food-lifestyle/michelin',
+  '/ar/michelin': '/ar/food-lifestyle/michelin',
+  '/hi/michelin': '/hi/food-lifestyle/michelin',
+  '/es/michelin': '/es/food-lifestyle/michelin',
+  '/fr/michelin': '/fr/food-lifestyle/michelin',
   // Dedup 2026-10-30: road-transport-act (MY-LAW-0041) merged into the more
   // comprehensive road-transport-act-1987 (MY-LAW-0099), both in law/.
   '/law/road-transport-act': '/law/road-transport-act-1987',

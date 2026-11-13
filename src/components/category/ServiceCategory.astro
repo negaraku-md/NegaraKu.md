@@ -3,7 +3,7 @@ import type { Locale, Category } from '@/lib/categories';
 import { getCategoryColor } from '@/lib/categories';
 import type { Article } from '@/lib/content';
 import { orderedSubcats, subcatLabel } from '@/lib/subcategories';
-import { localePath, t } from '@/lib/i18n';
+import { localePath } from '@/lib/i18n';
 import { collectionsFor } from '@/lib/collections';
 
 // SERVICE / PROCEDURAL archetype.
@@ -48,7 +48,7 @@ const collections = collectionsFor(category.id);
           collections.map((c) => (
             <a class="topic-card topic-collection" href={localePath(c.href, locale)} style={`--cat:${c.color}`}>
               <span class="bar" aria-hidden="true" />
-              <b><span class="tc-star" aria-hidden="true">★</span> {t(c.labelKey, locale)}</b>
+              <b><span class="tc-star" aria-hidden="true">★</span> {c.title[locale]}</b>
               <span class="tc-count">
                 {c.count} {L('restoran', 'restaurants', '餐厅', 'உணவகங்கள்', 'レストラン', '레스토랑', 'ร้านอาหาร', 'nhà hàng', 'restoran', 'مطاعم', 'रेस्तरां', 'restaurantes', 'restaurants')} <span class="dirx">→</span>
               </span>

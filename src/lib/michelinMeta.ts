@@ -5,19 +5,19 @@ import type { Locale } from './categories';
 // MichelinHubView; these are the <head> strings.
 
 export const MICHELIN_TITLE: Record<Locale, string> = {
-  ms: 'Panduan MICHELIN Malaysia',
-  en: 'MICHELIN Guide Malaysia',
-  zh: '马来西亚米其林指南',
-  ta: 'MICHELIN வழிகாட்டி மலேசியா',
-  ja: 'ミシュランガイド マレーシア',
-  ko: '미쉐린 가이드 말레이시아',
-  th: 'มิชลินไกด์ มาเลเซีย',
-  vi: 'Cẩm nang MICHELIN Malaysia',
-  id: 'Panduan MICHELIN Malaysia',
-  ar: 'دليل ميشلان ماليزيا',
-  hi: 'मिशेलिन गाइड मलेशिया',
-  es: 'Guía MICHELIN Malasia',
-  fr: 'Guide MICHELIN Malaisie',
+  ms: 'Panduan MICHELIN',
+  en: 'MICHELIN Guide',
+  zh: '米其林指南',
+  ta: 'MICHELIN வழிகாட்டி',
+  ja: 'ミシュランガイド',
+  ko: '미쉐린 가이드',
+  th: 'มิชลินไกด์',
+  vi: 'Cẩm nang MICHELIN',
+  id: 'Panduan MICHELIN',
+  ar: 'دليل ميشلان',
+  hi: 'मिशेलिन गाइड',
+  es: 'Guía MICHELIN',
+  fr: 'Guide MICHELIN',
 };
 
 export const MICHELIN_DESC: Record<Locale, string> = {
