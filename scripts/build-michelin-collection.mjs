@@ -26,6 +26,11 @@ const OUT = join(ROOT, 'src', 'data', 'collections', 'michelin.json');
 
 const LOCALE_SUFFIX = /\.(ms|en|zh|ta|ja|ko|th|vi|id|ar|hi|es|fr)\.md$/i;
 
+// MICHELIN Guide Malaysia selection edition we currently track — becomes each
+// restaurant's `year` filter value. Bump (and re-verify) on a new edition; set a
+// per-restaurant `year` in OVERRIDES when an entry's edition differs.
+const EDITION_YEAR = 2026;
+
 // --- editorial overrides (slug -> partial facts) ---------------------------
 // Fill in only where the heuristic below is wrong. Keeps regeneration correct.
 const OVERRIDES = {
@@ -114,6 +119,7 @@ for (const f of files) {
     price: priceBand(data.place?.priceRange || ''),
     state: det.state,
     city: det.city,
+    year: EDITION_YEAR,
     ...(OVERRIDES[slug] || {}),
   };
   rows.push(row);

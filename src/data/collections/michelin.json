@@ -16,7 +16,8 @@
       "greenStar": true,
       "price": null,
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "akar",
@@ -24,7 +25,8 @@
       "greenStar": false,
       "price": "$$",
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "au-jardin",
@@ -32,7 +34,8 @@
       "greenStar": false,
       "price": "$$",
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "auntie-gaik-leans-old-school-eatery",
@@ -40,7 +43,8 @@
       "greenStar": false,
       "price": null,
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "beta",
@@ -48,7 +52,8 @@
       "greenStar": false,
       "price": "$$",
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "chim-by-chef-noom",
@@ -56,7 +61,8 @@
       "greenStar": false,
       "price": "$$",
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "dc-by-darren-chin",
@@ -64,7 +70,8 @@
       "greenStar": false,
       "price": "$$",
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "molina",
@@ -72,7 +79,8 @@
       "greenStar": false,
       "price": null,
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "terra-dining",
@@ -80,7 +88,8 @@
       "greenStar": false,
       "price": null,
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "7-chai-ipoh-hor-fun",
@@ -88,7 +97,8 @@
       "greenStar": false,
       "price": "$",
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "ah-hei-bak-kut-teh",
@@ -96,7 +106,8 @@
       "greenStar": false,
       "price": null,
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "aliyaa",
@@ -104,7 +115,8 @@
       "greenStar": false,
       "price": "$",
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "anak-baba",
@@ -112,7 +124,8 @@
       "greenStar": false,
       "price": "$",
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "awesome-char-koay-teow",
@@ -120,7 +133,8 @@
       "greenStar": false,
       "price": null,
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "bee-hwa-cafe",
@@ -128,7 +142,8 @@
       "greenStar": false,
       "price": "$",
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "bibiks-kitchen",
@@ -136,7 +151,8 @@
       "greenStar": false,
       "price": "$",
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "bm-cathay-pancake",
@@ -144,7 +160,8 @@
       "greenStar": false,
       "price": null,
       "state": "penang",
-      "city": "Bukit Mertajam"
+      "city": "Bukit Mertajam",
+      "year": 2026
     },
     {
       "slug": "bm-yam-rice",
@@ -152,7 +169,8 @@
       "greenStar": false,
       "price": null,
       "state": "penang",
-      "city": "Bukit Mertajam"
+      "city": "Bukit Mertajam",
+      "year": 2026
     },
     {
       "slug": "bridge-street-prawn-noodle",
@@ -160,7 +178,8 @@
       "greenStar": false,
       "price": null,
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "coast-by-kayra",
@@ -168,7 +187,8 @@
       "greenStar": false,
       "price": "$",
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "communal-table-by-gen",
@@ -176,7 +196,8 @@
       "greenStar": false,
       "price": "$",
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "congkak",
@@ -184,7 +205,8 @@
       "greenStar": false,
       "price": "$",
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "de-wan-1958",
@@ -192,7 +214,8 @@
       "greenStar": false,
       "price": "$",
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "duck-blood-curry-mee",
@@ -200,7 +223,8 @@
       "greenStar": false,
       "price": null,
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "foong-lian",
@@ -208,7 +232,8 @@
       "greenStar": false,
       "price": null,
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "ghee-lian",
@@ -216,7 +241,8 @@
       "greenStar": false,
       "price": null,
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "green-house-prawn-mee-and-loh-mee",
@@ -224,7 +250,8 @@
       "greenStar": false,
       "price": null,
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "gulainya",
@@ -232,7 +259,8 @@
       "greenStar": false,
       "price": null,
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "hai-kah-lang",
@@ -240,7 +268,8 @@
       "greenStar": false,
       "price": "$",
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "hing-kee-bakuteh",
@@ -248,7 +277,8 @@
       "greenStar": false,
       "price": "$",
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "hor-poh-cuisine",
@@ -256,7 +286,8 @@
       "greenStar": false,
       "price": "$",
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "hot-bowl-white-curry-mee",
@@ -264,7 +295,8 @@
       "greenStar": false,
       "price": null,
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "ivys-nyonya-cuisine",
@@ -272,7 +304,8 @@
       "greenStar": false,
       "price": "$",
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "jalan-ipoh-claypot-chicken-rice",
@@ -280,7 +313,8 @@
       "greenStar": false,
       "price": null,
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "lai-foong-lala-noodles",
@@ -288,7 +322,8 @@
       "greenStar": false,
       "price": null,
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "laksalicious",
@@ -296,7 +331,8 @@
       "greenStar": false,
       "price": null,
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "lama",
@@ -304,7 +340,8 @@
       "greenStar": false,
       "price": null,
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "leens",
@@ -312,7 +349,8 @@
       "greenStar": false,
       "price": "$",
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "lemon-koay-teow-soup",
@@ -320,7 +358,8 @@
       "greenStar": false,
       "price": null,
       "state": "penang",
-      "city": "Butterworth"
+      "city": "Butterworth",
+      "year": 2026
     },
     {
       "slug": "lum-lai-duck-meat-koay-teow-thng",
@@ -328,7 +367,8 @@
       "greenStar": false,
       "price": "$",
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "ming-qin-charcoal-duck-egg-char-koay-teow",
@@ -336,7 +376,8 @@
       "greenStar": false,
       "price": null,
       "state": "penang",
-      "city": "Bukit Mertajam"
+      "city": "Bukit Mertajam",
+      "year": 2026
     },
     {
       "slug": "minji-bak-kut-teh",
@@ -344,7 +385,8 @@
       "greenStar": false,
       "price": "$",
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "moh-teng-pheow-nyonya-koay",
@@ -352,7 +394,8 @@
       "greenStar": false,
       "price": null,
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "mtr-1924",
@@ -360,7 +403,8 @@
       "greenStar": false,
       "price": null,
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "my-own-cafe",
@@ -368,7 +412,8 @@
       "greenStar": false,
       "price": "$",
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "nam-heong-chicken-rice",
@@ -376,7 +421,8 @@
       "greenStar": false,
       "price": "$",
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "nasi-ayam-hainan-chee-meng",
@@ -384,7 +430,8 @@
       "greenStar": false,
       "price": null,
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "neighbourwood",
@@ -392,7 +439,8 @@
       "greenStar": false,
       "price": "$",
       "state": "penang",
-      "city": "Bukit Mertajam"
+      "city": "Bukit Mertajam",
+      "year": 2026
     },
     {
       "slug": "nirwana",
@@ -400,7 +448,8 @@
       "greenStar": false,
       "price": "$",
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "penang-road-famous-jin-kor-char-kuey-teow",
@@ -408,7 +457,8 @@
       "greenStar": false,
       "price": null,
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "penang-road-famous-laksa",
@@ -416,7 +466,8 @@
       "greenStar": false,
       "price": "$",
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "rasa-rasa",
@@ -424,7 +475,8 @@
       "greenStar": false,
       "price": "$",
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "ravis-famous-apom-manis",
@@ -432,7 +484,8 @@
       "greenStar": false,
       "price": "$",
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "roti-by-dtandoor",
@@ -440,7 +493,8 @@
       "greenStar": false,
       "price": null,
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "sao-nam",
@@ -448,7 +502,8 @@
       "greenStar": false,
       "price": "$",
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "sardaarji",
@@ -456,7 +511,8 @@
       "greenStar": false,
       "price": "$",
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "sek-yuen",
@@ -464,7 +520,8 @@
       "greenStar": false,
       "price": null,
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "serabai-istimewa",
@@ -472,7 +529,8 @@
       "greenStar": false,
       "price": "$",
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "siam-road-char-koay-teow",
@@ -480,7 +538,8 @@
       "greenStar": false,
       "price": "$",
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "sifu",
@@ -488,7 +547,8 @@
       "greenStar": false,
       "price": "$",
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "sin-kiew-yee-shin-kee-beef-noodles",
@@ -496,7 +556,8 @@
       "greenStar": false,
       "price": null,
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "sister-yaos-char-koay-kak",
@@ -504,7 +565,8 @@
       "greenStar": false,
       "price": null,
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "super-star-koay-teow-soup",
@@ -512,7 +574,8 @@
       "greenStar": false,
       "price": "$",
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "taman-bukit-curry-mee",
@@ -520,7 +583,8 @@
       "greenStar": false,
       "price": null,
       "state": "penang",
-      "city": "Bukit Mertajam"
+      "city": "Bukit Mertajam",
+      "year": 2026
     },
     {
       "slug": "teksen",
@@ -528,7 +592,8 @@
       "greenStar": false,
       "price": null,
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "thara",
@@ -536,7 +601,8 @@
       "greenStar": false,
       "price": "$",
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "wan-dao-tou-assam-laksa",
@@ -544,7 +610,8 @@
       "greenStar": false,
       "price": null,
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "winns-cafe",
@@ -552,7 +619,8 @@
       "greenStar": false,
       "price": "$",
       "state": "penang",
-      "city": "George Town"
+      "city": "George Town",
+      "year": 2026
     },
     {
       "slug": "wong-mei-kee",
@@ -560,7 +628,8 @@
       "greenStar": false,
       "price": null,
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     },
     {
       "slug": "potager",
@@ -568,7 +637,8 @@
       "greenStar": false,
       "price": "$$",
       "state": "kuala-lumpur",
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "year": 2026
     }
   ]
 }

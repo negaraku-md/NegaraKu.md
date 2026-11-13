@@ -22,11 +22,13 @@ const { locale } = Astro.props;
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? en) : locale === 'es' ? (es ?? en) : locale === 'hi' ? (hi ?? en) : locale === 'ar' ? (ar ?? en) : locale === 'id' ? (id ?? en) : locale === 'vi' ? (vi ?? en) : locale === 'th' ? (th ?? en) : locale === 'ko' ? (ko ?? en) : locale === 'ja' ? (ja ?? en) : locale === 'ta' ? (ta ?? en) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 type Dist = 'three-star' | 'two-star' | 'star' | 'bib-gourmand' | 'selected';
-interface Row { slug: string; distinction: Dist; greenStar: boolean; price: string | null; state: string | null; city: string | null; }
+interface Row { slug: string; distinction: Dist; greenStar: boolean; price: string | null; state: string | null; city: string | null; year: number; }
 const rows = (michelin.restaurants as Row[]);
 
 // Distinction → display group (how diners actually think) + localised label + icon.
 const GROUP = (d: Dist): 'stars' | 'bib' | 'selected' => (d === 'bib-gourmand' ? 'bib' : d === 'selected' ? 'selected' : 'stars');
+// Distinction rank for the default "Award" sort (stars first → selected last).
+const DRANK: Record<Dist, number> = { 'three-star': 0, 'two-star': 1, star: 2, 'bib-gourmand': 3, selected: 4 };
 const starWord = L('Bintang MICHELIN', 'MICHELIN Star', '米其林星', 'MICHELIN நட்சத்திரம்', 'ミシュランの星', '미쉐린 스타', 'ดาวมิชลิน', 'Sao MICHELIN', 'Bintang MICHELIN', 'نجمة ميشلان', 'मिशेलिन स्टार', 'Estrella MICHELIN', 'Étoile MICHELIN');
 const starsWord = L('Bintang MICHELIN', 'MICHELIN Stars', '米其林星', 'MICHELIN நட்சத்திரங்கள்', 'ミシュランの星', '미쉐린 스타', 'ดาวมิชลิน', 'Sao MICHELIN', 'Bintang MICHELIN', 'نجوم ميشلان', 'मिशेलिन स्टार', 'Estrellas MICHELIN', 'Étoiles MICHELIN');
 function distLabel(d: Dist): string {
@@ -80,6 +82,7 @@ const bibs = cards.filter((c) => c.group === 'bib').length;
 // Facets present in the data (so chips never show an empty filter).
 const states = [...new Set(cards.map((c) => c.state).filter(Boolean))] as string[];
 const prices = [...new Set(cards.map((c) => c.price).filter(Boolean))].sort((a, b) => (a as string).length - (b as string).length) as string[];
+const years = [...new Set(cards.map((c) => c.year).filter(Boolean))].sort((a, b) => b - a);
 
 const home = L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'होम', 'Inicio', 'Accueil');
 // The hub is a collection UNDER Food & Lifestyle — breadcrumb through its pillar + category.
@@ -106,6 +109,15 @@ const lblAll = L('Semua', 'All', '全部', 'அனைத்தும்', 'す�
 const lblAward = L('Anugerah', 'Award', '奖项', 'விருது', '受賞', '상', 'รางวัล', 'Giải thưởng', 'Penghargaan', 'الجائزة', 'पुरस्कार', 'Distinción', 'Distinction');
 const lblState = L('Negeri', 'State', '州属', 'மாநிலம்', '州', '주', 'รัฐ', 'Bang', 'Negara bagian', 'الولاية', 'राज्य', 'Estado', 'État');
 const lblPrice = L('Harga', 'Price', '价格', 'விலை', '価格', '가격', 'ราคา', 'Giá', 'Harga', 'السعر', 'कीमत', 'Precio', 'Prix');
+const lblYear = L('Edisi', 'Edition', '版本', 'பதிப்பு', '版', '에디션', 'ฉบับ', 'Phiên bản', 'Edisi', 'الإصدار', 'संस्करण', 'Edición', 'Édition');
+const lblSort = L('Isih', 'Sort', '排序', 'வரிசை', '並び替え', '정렬', 'จัดเรียง', 'Sắp xếp', 'Urutkan', 'الترتيب', 'क्रमबद्ध करें', 'Ordenar', 'Trier');
+const lblRating = L('Penilaian', 'Rating', '评分', 'மதிப்பீடு', '評価', '평점', 'คะแนน', 'Đánh giá', 'Penilaian', 'التقييم', 'रेटिंग', 'Valoración', 'Note');
+const lblRows = L('Baris', 'Rows', '每页', 'வரிசைகள்', '行', '행', 'แถว', 'Hàng', 'Baris', 'الصفوف', 'पंक्तियाँ', 'Filas', 'Lignes');
+const lblPage = L('Halaman', 'Page', '第', 'பக்கம்', 'ページ', '페이지', 'หน้า', 'Trang', 'Halaman', 'الصفحة', 'पृष्ठ', 'Página', 'Page');
+const lblFirst = L('Pertama', 'First', '首页', 'முதல்', '最初', '처음', 'หน้าแรก', 'Đầu', 'Pertama', 'الأول', 'पहला', 'Primera', 'Première');
+const lblPrev = L('Sebelum', 'Prev', '上一页', 'முந்தைய', '前へ', '이전', 'ก่อนหน้า', 'Trước', 'Sebelumnya', 'السابق', 'पिछला', 'Anterior', 'Précédente');
+const lblNext = L('Seterusnya', 'Next', '下一页', 'அடுத்து', '次へ', '다음', 'ถัดไป', 'Tiếp', 'Berikutnya', 'التالي', 'अगला', 'Siguiente', 'Suivante');
+const lblLast = L('Akhir', 'Last', '末页', 'கடைசி', '最後', '마지막', 'หน้าสุดท้าย', 'Cuối', 'Terakhir', 'الأخير', 'अंतिम', 'Última', 'Dernière');
 const lblStars = L('Berbintang', 'Stars', '星级', 'நட்சத்திரம்', '星', '스타', 'ดาว', 'Sao', 'Bintang', 'النجوم', 'स्टार', 'Estrellas', 'Étoiles');
 const lblSelected = L('Terpilih', 'Selected', '入选', 'தேர்ந்தெடுக்கப்பட்டவை', 'セレクテッド', '셀렉티드', 'คัดสรร', 'Selected', 'Terpilih', 'المختارات', 'चयनित', 'Seleccionados', 'Sélectionnés');
 const lblSearch = L('Cari restoran…', 'Search restaurants…', '搜索餐厅…', 'உணவகங்களைத் தேடு…', 'レストランを検索…', '레스토랑 검색…', 'ค้นหาร้าน…', 'Tìm nhà hàng…', 'Cari restoran…', 'ابحث عن مطاعم…', 'रेस्तरां खोजें…', 'Buscar restaurantes…', 'Rechercher…');
@@ -132,8 +144,6 @@ const revisionNote = L(
 );
 
 const statRestaurants = L('Restoran', 'Restaurants', '餐厅', 'உணவகங்கள்', 'レストラン', '레스토랑', 'ร้านอาหาร', 'Nhà hàng', 'Restoran', 'مطاعم', 'रेस्तरां', 'Restaurantes', 'Restaurants');
-const asOf = (michelin as { asOf?: string }).asOf ?? '';
-const asOfLabel = L('Pilihan MICHELIN setakat', 'MICHELIN selection as of', 'MICHELIN 榜单截至', 'MICHELIN தேர்வு', 'ミシュラン選定時点', '미쉐린 선정 기준', 'การคัดเลือกมิชลิน ณ', 'Tuyển chọn MICHELIN tính đến', 'Pilihan MICHELIN per', 'اختيار ميشلان حتى', 'मिशेलिन चयन', 'Selección MICHELIN a', 'Sélection MICHELIN au');
 const explainerHref = localePath('/food-lifestyle/michelin-guide-malaysia', locale);
 ---
 
@@ -157,7 +167,6 @@ const explainerHref = localePath('/food-lifestyle/michelin-guide-malaysia', loca
 <section class="mich container" aria-label={title}>
   <div class="mich-topbar">
     <div class="mich-intro">
-      {asOf && <p class="mich-asof">🗓️ {asOfLabel} {asOf}</p>}
       <a class="mich-explainer" href={explainerHref}>{lblExplainer} →</a>
       <p class="mich-note">{revisionNote}</p>
     </div>
@@ -189,19 +198,50 @@ const explainerHref = localePath('/food-lifestyle/michelin-guide-malaysia', loca
         {prices.map((p) => <button class="chip" data-val={p}>{p}</button>)}
       </div>
     )}
+    {years.length > 0 && (
+      <div class="facet" data-facet="year">
+        <span class="facet-label">{lblYear}</span>
+        <button class="chip is-on" data-val="">{lblAll}</button>
+        {years.map((y) => <button class="chip" data-val={String(y)}>{y}</button>)}
+      </div>
+    )}
   </div>
 
-  <p class="mich-count" aria-live="polite"><span id="mich-shown">{cards.length}</span> <span id="mich-of" hidden> {lblOf} {cards.length}</span> {lblRestaurants}</p>
+  <div class="mich-sortrow" role="group" aria-label={lblSort}>
+    <span class="facet-label">{lblSort}</span>
+    <button class="mich-tab is-on" data-sort="rank">{lblAward}</button>
+    <button class="mich-tab" data-sort="name">A–Z</button>
+    <button class="mich-tab" data-sort="rating">{lblRating}</button>
+    <button class="mich-tab" data-sort="price">{lblPrice}</button>
+  </div>
 
-  <ul class="mich-grid" id="mich-grid">
+  <div class="mich-pager mich-pager-top" data-pagefind-ignore>
+    <div class="mp-size">
+      <label>{lblRows} <select class="mp-rows"><option>25</option><option>50</option><option>100</option></select></label>
+      <span class="mp-count"></span> {lblRestaurants}
+    </div>
+    <div class="mp-nav">
+      <button class="mp-first" type="button" title={lblFirst}>«</button>
+      <button class="mp-prev" type="button" title={lblPrev}>‹</button>
+      <span class="mp-of">{lblPage} <input class="mp-no" type="number" min="1" value="1" /> / <span class="mp-total">1</span></span>
+      <button class="mp-next" type="button" title={lblNext}>›</button>
+      <button class="mp-last" type="button" title={lblLast}>»</button>
+    </div>
+  </div>
+
+  <ul class="mich-grid" id="mich-grid" data-of={lblOf}>
     {cards.map((c) => (
       <li
         class="mich-card"
         data-group={c.group}
         data-state={c.state ?? ''}
         data-price={c.price ?? ''}
+        data-year={c.year}
         data-name={c.title.toLowerCase()}
         data-city={(c.city ?? '').toLowerCase()}
+        data-rank={DRANK[c.distinction]}
+        data-rating={c.rating ?? 0}
+        data-pricelen={(c.price ?? '').length}
       >
         <a href={c.href} class="mich-link">
           <div class="mich-thumb">
@@ -227,6 +267,20 @@ const explainerHref = localePath('/food-lifestyle/michelin-guide-malaysia', loca
     ))}
   </ul>
   <p class="mich-empty" id="mich-empty" hidden>{lblNone}</p>
+
+  <div class="mich-pager mich-pager-bot" data-pagefind-ignore>
+    <div class="mp-size">
+      <label>{lblRows} <select class="mp-rows"><option>25</option><option>50</option><option>100</option></select></label>
+      <span class="mp-count"></span> {lblRestaurants}
+    </div>
+    <div class="mp-nav">
+      <button class="mp-first" type="button" title={lblFirst}>«</button>
+      <button class="mp-prev" type="button" title={lblPrev}>‹</button>
+      <span class="mp-of">{lblPage} <input class="mp-no" type="number" min="1" value="1" /> / <span class="mp-total">1</span></span>
+      <button class="mp-next" type="button" title={lblNext}>›</button>
+      <button class="mp-last" type="button" title={lblLast}>»</button>
+    </div>
+  </div>
 </section>
 
 <style>
@@ -255,7 +309,29 @@ const explainerHref = localePath('/food-lifestyle/michelin-guide-malaysia', loca
 
   .mich-count { color: var(--muted); font-size: 0.85rem; margin: 0 0 1rem; }
 
-  .mich-grid { list-style: none; margin: 0; padding: 0; display: grid; gap: 1.1rem; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); }
+  /* Sort tabs — same pill treatment as the article-list department template. */
+  .mich-sortrow { display: flex; flex-wrap: wrap; align-items: center; gap: 0.45rem; margin-bottom: 1rem; }
+  .mich-tab { appearance: none; cursor: pointer; border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line)); background: var(--surface); color: var(--ink-soft); border-radius: 999px; padding: 0.38rem 0.85rem; font-size: 0.85rem; font-weight: 600; line-height: 1; }
+  .mich-tab:hover { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, var(--surface)); color: var(--ink); }
+  .mich-tab.is-on { background: var(--gold); border-color: var(--gold); color: #1a1403; }
+
+  /* Pager — mirrors the article-list pager. */
+  .mich-pager { display: flex; flex-wrap: wrap; gap: 0.8rem; justify-content: space-between; align-items: center; font-size: 0.85rem; }
+  .mich-pager-top { margin-bottom: 1.1rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
+  .mich-pager-bot { margin-top: 1.4rem; padding-top: 1rem; border-top: 1px solid var(--line); }
+  .mich-pager.mp-hidden { display: none; }
+  .mp-size { display: flex; align-items: center; gap: 0.5rem; color: var(--muted); }
+  .mp-size select { font: inherit; margin-inline-start: 0.3rem; padding: 0.2rem 0.4rem; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .mp-nav { display: flex; align-items: center; gap: 0.3rem; }
+  .mp-nav button { min-width: 2rem; padding: 0.3rem 0.5rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer; font-size: 1rem; line-height: 1; }
+  .mp-nav button:hover:not(:disabled) { border-color: var(--gold); color: var(--gold); }
+  .mp-nav button:disabled { opacity: 0.4; cursor: default; }
+  .mp-of { display: inline-flex; align-items: center; gap: 0.35rem; color: var(--muted); }
+  .mp-of input { width: 3.2rem; font: inherit; text-align: center; padding: 0.25rem; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+
+  /* Three columns, as requested — responsive down to 2 then 1. */
+  .mich-grid { list-style: none; margin: 0; padding: 0; display: grid; gap: 1.1rem; grid-template-columns: repeat(3, 1fr); }
+  @media (max-width: 760px) { .mich-grid { grid-template-columns: repeat(2, 1fr); } }
   .mich-card { min-width: 0; }
   .mich-link { display: flex; flex-direction: column; height: 100%; text-decoration: none; color: inherit; border: 1px solid var(--line); border-radius: 14px; overflow: hidden; background: var(--surface); transition: border-color .15s, transform .15s; }
   .mich-link:hover { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); transform: translateY(-2px); }
@@ -286,7 +362,7 @@ const explainerHref = localePath('/food-lifestyle/michelin-guide-malaysia', loca
   .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); border: 0; }
 
   @media (max-width: 560px) {
-    .mich-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 0.8rem; }
+    .mich-grid { grid-template-columns: 1fr; gap: 0.8rem; }
     .facet-label { min-width: 100%; }
   }
 </style>
@@ -295,48 +371,96 @@ const explainerHref = localePath('/food-lifestyle/michelin-guide-malaysia', loca
   (() => {
     const grid = document.getElementById('mich-grid');
     if (!grid) return;
-    const cards = Array.from(grid.querySelectorAll<HTMLLIElement>('.mich-card'));
-    const shown = document.getElementById('mich-shown');
-    const ofEl = document.getElementById('mich-of');
+    const allCards = Array.from(grid.querySelectorAll<HTMLLIElement>('.mich-card'));
     const empty = document.getElementById('mich-empty');
     const q = document.getElementById('mich-q') as HTMLInputElement | null;
-    const sel: Record<string, string> = { group: '', state: '', price: '' };
-    let term = '';
+    const OF = grid.dataset.of || 'of';
+    const $$ = (c: string) => Array.from(document.querySelectorAll<HTMLElement>('.' + c));
 
-    const apply = () => {
-      let n = 0;
-      for (const card of cards) {
-        const okG = !sel.group || card.dataset.group === sel.group;
-        const okS = !sel.state || card.dataset.state === sel.state;
-        const okP = !sel.price || card.dataset.price === sel.price;
-        const okQ = !term || (card.dataset.name || '').includes(term) || (card.dataset.city || '').includes(term);
-        const vis = okG && okS && okP && okQ;
-        card.hidden = !vis;
-        if (vis) n++;
-      }
-      if (shown) shown.textContent = String(n);
-      if (ofEl) ofEl.hidden = n === cards.length;
-      if (empty) empty.hidden = n !== 0;
+    const state: Record<string, string | number> = { group: '', state: '', price: '', year: '', term: '', sort: 'rank', page: 1, size: 25 };
+    const num = (v: string | undefined) => parseFloat(v || '') || 0;
+
+    const matches = (card: HTMLElement) => {
+      const d = card.dataset;
+      return (!state.group || d.group === state.group)
+        && (!state.state || d.state === state.state)
+        && (!state.price || d.price === state.price)
+        && (!state.year || d.year === state.year)
+        && (!state.term || (d.name || '').includes(state.term as string) || (d.city || '').includes(state.term as string));
+    };
+    const cmp = (a: HTMLElement, b: HTMLElement) => {
+      const da = a.dataset, db = b.dataset;
+      const byName = (da.name || '').localeCompare(db.name || '');
+      if (state.sort === 'name') return byName;
+      if (state.sort === 'rating') return num(db.rating) - num(da.rating) || byName;
+      if (state.sort === 'price') return num(da.pricelen) - num(db.pricelen) || byName;
+      return num(da.rank) - num(db.rank) || byName; // 'rank' (Award)
     };
 
+    function render() {
+      const filtered = allCards.filter(matches).sort(cmp);
+      const total = filtered.length;
+      const size = state.size as number;
+      const pages = Math.max(1, Math.ceil(total / size));
+      if ((state.page as number) > pages) state.page = pages;
+      if ((state.page as number) < 1) state.page = 1;
+      const start = ((state.page as number) - 1) * size;
+      const pageCards = filtered.slice(start, start + size);
+      const show = new Set(pageCards);
+      allCards.forEach((c) => { c.hidden = !show.has(c); });
+      pageCards.forEach((c) => grid.appendChild(c)); // place this page's cards in sorted order
+      if (empty) empty.hidden = total !== 0;
+
+      const a = total ? start + 1 : 0;
+      const b = Math.min(start + size, total);
+      $$('mp-count').forEach((el) => (el.textContent = `${a}–${b} ${OF} ${total}`));
+      $$('mp-total').forEach((el) => (el.textContent = String(pages)));
+      $$('mp-no').forEach((el) => { (el as HTMLInputElement).value = String(state.page); (el as HTMLInputElement).max = String(pages); });
+      $$('mp-rows').forEach((el) => ((el as HTMLSelectElement).value = String(size)));
+      [...$$('mp-first'), ...$$('mp-prev')].forEach((el) => ((el as HTMLButtonElement).disabled = (state.page as number) <= 1));
+      [...$$('mp-next'), ...$$('mp-last')].forEach((el) => ((el as HTMLButtonElement).disabled = (state.page as number) >= pages));
+      document.querySelectorAll('.mich-pager').forEach((p) => p.classList.toggle('mp-hidden', pages <= 1));
+    }
+    const go = (p: number) => { state.page = p; render(); };
+
+    // Filter chips (group / state / price / year).
     document.querySelectorAll<HTMLElement>('.facet').forEach((facet) => {
       const key = facet.dataset.facet!;
       facet.querySelectorAll<HTMLButtonElement>('.chip').forEach((chip) => {
         chip.addEventListener('click', () => {
-          sel[key] = chip.dataset.val || '';
+          state[key] = chip.dataset.val || '';
+          state.page = 1;
           facet.querySelectorAll('.chip').forEach((c) => c.classList.toggle('is-on', c === chip));
-          apply();
+          render();
         });
       });
     });
-    if (q) q.addEventListener('input', () => { term = q.value.trim().toLowerCase(); apply(); });
+    // Sort tabs.
+    document.querySelectorAll<HTMLButtonElement>('.mich-tab').forEach((tab) => {
+      tab.addEventListener('click', () => {
+        state.sort = tab.dataset.sort || 'rank';
+        state.page = 1;
+        document.querySelectorAll('.mich-tab').forEach((t) => t.classList.toggle('is-on', t === tab));
+        render();
+      });
+    });
+    // Search.
+    if (q) q.addEventListener('input', () => { state.term = q.value.trim().toLowerCase(); state.page = 1; render(); });
+    // Pager controls (top + bottom share handlers via class).
+    document.querySelectorAll<HTMLSelectElement>('.mp-rows').forEach((el) => el.addEventListener('change', (e) => { state.size = +(e.target as HTMLSelectElement).value; state.page = 1; render(); }));
+    $$('mp-first').forEach((el) => el.addEventListener('click', () => go(1)));
+    $$('mp-prev').forEach((el) => el.addEventListener('click', () => go((state.page as number) - 1)));
+    $$('mp-next').forEach((el) => el.addEventListener('click', () => go((state.page as number) + 1)));
+    $$('mp-last').forEach((el) => el.addEventListener('click', () => go(Infinity)));
+    document.querySelectorAll<HTMLInputElement>('.mp-no').forEach((el) => el.addEventListener('change', (e) => go(parseInt((e.target as HTMLInputElement).value, 10) || 1)));
 
-    // A hero image that 404s → mark its thumb broken so the placeholder shows
-    // instead of a broken-image icon.
+    // A hero image that 404s → mark its thumb broken so the placeholder shows.
     grid.querySelectorAll<HTMLImageElement>('.mich-thumb img').forEach((img) => {
       const mark = () => img.closest('.mich-thumb')?.classList.add('broken');
       if (img.complete && img.naturalWidth === 0) mark();
       else img.addEventListener('error', mark, { once: true });
     });
+
+    render();
   })();
 </script>
