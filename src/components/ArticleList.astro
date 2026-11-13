@@ -78,6 +78,17 @@ const has = (f: FilterKey) => filters.includes(f);
 const dateLocale = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale;
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
+// Per-page control, layout-aware. A card grid has no "rows", and its page size
+// must tile the 3/2/1-column grid cleanly, so grid uses multiples of 6 (24/48/96)
+// and a "Per page" label; the list keeps "Rows" + 25/50/100. Opt-in via `layout`,
+// so every existing list is unchanged.
+const isGrid = layout === 'grid';
+const pageSizes = isGrid ? [24, 48, 96] : [25, 50, 100];
+const defaultSize = pageSizes[0];
+const sizeLabel = isGrid
+  ? L('Setiap halaman', 'Per page', '每页', 'ஒரு பக்கத்திற்கு', 'ページあたり', '페이지당', 'ต่อหน้า', 'Mỗi trang', 'Per halaman', 'لكل صفحة', 'प्रति पृष्ठ', 'Por página', 'Par page')
+  : L('Baris', 'Rows', '每页', 'வரிசைகள்', '行', '행', 'แถว', 'Hàng', 'Baris', 'الصفوف', 'पंक्तियाँ', 'Filas', 'Lignes');
+
 // How many languages each topic exists in (publishable files only) — surfaced as
 // a single "N languages" meta item instead of a wall of per-language chips.
 const langsByKey = new Map<string, Set<string>>();
@@ -230,11 +241,9 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
 
   <div class="pager pager-top" data-pagefind-ignore>
     <div class="pg-size">
-      <label>{L('Baris', 'Rows', '每页', 'வரிசைகள்', '行', '행', 'แถว', 'Hàng', 'Baris', 'الصفوف', 'पंक्तियाँ', 'Filas', 'Lignes')}
+      <label>{sizeLabel}
         <select class="pg-size-sel">
-          <option>25</option>
-          <option>50</option>
-          <option>100</option>
+          {pageSizes.map((n) => <option>{n}</option>)}
         </select>
       </label>
       <span class="pg-count"></span>
@@ -256,11 +265,9 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
 
   <div class="pager" data-pagefind-ignore>
     <div class="pg-size">
-      <label>{L('Baris', 'Rows', '每页', 'வரிசைகள்', '行', '행', 'แถว', 'Hàng', 'Baris', 'الصفوف', 'पंक्तियाँ', 'Filas', 'Lignes')}
+      <label>{sizeLabel}
         <select class="pg-size-sel">
-          <option>25</option>
-          <option>50</option>
-          <option>100</option>
+          {pageSizes.map((n) => <option>{n}</option>)}
         </select>
       </label>
       <span class="pg-count"></span>
@@ -297,7 +304,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
     primarilyIn: L('Utamanya dalam', 'Primarily in', '主要归于', 'முதன்மையாக', '主に', '주로', 'หลักอยู่ใน', 'Chủ yếu ở', 'Terutama di', 'بشكل أساسي في', 'मुख्यतः', 'Principalmente en', 'Principalement dans'),
   })}
 ></script>
-<script type="application/json" id="articles-config" set:html={JSON.stringify({ groupByDate, dateLocale, fixedOrder, showRank, layout, facetKeys: facets.map((f) => f.key) })}></script>
+<script type="application/json" id="articles-config" set:html={JSON.stringify({ groupByDate, dateLocale, fixedOrder, showRank, layout, size: defaultSize, facetKeys: facets.map((f) => f.key) })}></script>
 <script type="application/json" id="articles-dict" set:html={JSON.stringify({ sec: secById, cat: catById, top: topById })}></script>
 
 <script>
@@ -315,7 +322,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   const $$ = (cls) => Array.from(document.querySelectorAll('.' + cls));
   const onAll = (cls, ev, fn) => $$(cls).forEach((el) => el.addEventListener(ev, fn));
 
-  const state = { sort: 'upd', dir: 'desc', q: '', sec: '', cat: '', top: '', st: '', page: 1, size: 25, x: {} };
+  const state = { sort: 'upd', dir: 'desc', q: '', sec: '', cat: '', top: '', st: '', page: 1, size: CFG.size || 25, x: {} };
 
   const cmp = (a, b) => {
     const k = state.sort;
