@@ -3,7 +3,8 @@ import type { Locale, Category } from '@/lib/categories';
 import { getCategoryColor } from '@/lib/categories';
 import type { Article } from '@/lib/content';
 import { orderedSubcats, subcatLabel } from '@/lib/subcategories';
-import { localePath } from '@/lib/i18n';
+import { localePath, t } from '@/lib/i18n';
+import { collectionsFor } from '@/lib/collections';
 
 // SERVICE / PROCEDURAL archetype.
 // A reader arrives with a TASK, not a browsing mood — so tasks lead, then the
@@ -28,6 +29,8 @@ const subcats = orderedSubcats(
 );
 const inSub = (s: string) => articles.filter((a) => a.data.subcategory.includes(s));
 
+// Curated collections (e.g. the MICHELIN Guide) featured as cards in the grid.
+const collections = collectionsFor(category.id);
 ---
 
 <section class="container block">
@@ -37,10 +40,21 @@ const inSub = (s: string) => articles.filter((a) => a.data.subcategory.includes(
         <span class="pi" aria-hidden="true">🧭</span>
         {L('Topik', 'Topics', '主题', 'தலைப்புகள்', 'トピック', '주제', 'หัวข้อ', 'Chủ đề', 'Topik', 'المواضيع', 'विषय', 'Temas', 'Sujets')}
       </span>
-      <span>{subcats.length}</span>
+      <span>{subcats.length + collections.length}</span>
     </header>
     <div class="catsec-body">
       <div class="topic-grid">
+        {
+          collections.map((c) => (
+            <a class="topic-card topic-collection" href={localePath(c.href, locale)} style={`--cat:${c.color}`}>
+              <span class="bar" aria-hidden="true" />
+              <b><span class="tc-star" aria-hidden="true">★</span> {t(c.labelKey, locale)}</b>
+              <span class="tc-count">
+                {c.count} {L('restoran', 'restaurants', '餐厅', 'உணவகங்கள்', 'レストラン', '레스토랑', 'ร้านอาหาร', 'nhà hàng', 'restoran', 'مطاعم', 'रेस्तरां', 'restaurantes', 'restaurants')} <span class="dirx">→</span>
+              </span>
+            </a>
+          ))
+        }
         {
           subcats.map((s) => (
             <a class="topic-card" href={topicHref(s)} style={`--cat:${getCategoryColor(category.id)}`}>
@@ -100,4 +114,8 @@ const inSub = (s: string) => articles.filter((a) => a.data.subcategory.includes(
   .topic-card:hover { border-color: var(--cat, var(--gold)); transform: translateY(-2px); }
   .topic-card b { font-family: var(--font-title); font-size: 1rem; color: var(--ink); }
   .tc-count { color: var(--muted); font-size: 0.85rem; }
+  /* Curated collection card (e.g. MICHELIN Guide) — a subtle accent tint + star
+     so it reads as a featured set, not an ordinary topic. */
+  .topic-collection { background: color-mix(in srgb, var(--cat) 8%, var(--surface-2)); }
+  .topic-collection .tc-star { color: var(--cat); }
 </style>
