@@ -1,0 +1,189 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import ToolArticleView from './ToolArticleView.astro';
+import { STAMP } from '@/lib/tax/stampDuty';
+
+interface Props { locale: Locale; }
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const title = L('Kalkulator Duti Setem Sewa', 'Tenancy Agreement Stamp Duty', '租约印花税计算器');
+const heroDesc = L(
+  'Kira duti setem perjanjian sewa rumah atau pejabat anda mengikut skala item 49 semasa — RM1/RM3/RM5/RM7 bagi setiap RM250 sewa tahunan, ikut tempoh. Band pengecualian RM2,400 telah dimansuhkan pada 1 Januari 2025. Semua dalam pelayar.',
+  'Work out the stamp duty on your home or office tenancy agreement on the current item-49 scale — RM1/RM3/RM5/RM7 for every RM250 of annual rent, by term. The RM2,400 exemption band was abolished on 1 January 2025. All in your browser.',
+  '按当前第49项税率计算你家居或办公室租约的印花税——按租期，每 RM250 年租金收 RM1/RM3/RM5/RM7。RM2,400 免税额已于 2025 年 1 月 1 日取消。全部在浏览器中运行。',
+);
+
+const ui = {
+  monthly: L('Sewa bulanan (RM)', 'Monthly rent (RM)', '月租（RM）'),
+  term: L('Tempoh sewa', 'Lease term', '租期'),
+  t1: L('Tidak melebihi 1 tahun', 'Not exceeding 1 year', '不超过1年'),
+  t3: L('Melebihi 1 hingga 3 tahun', 'Over 1 to 3 years', '1至3年'),
+  t5: L('Melebihi 3 hingga 5 tahun', 'Over 3 to 5 years', '3至5年'),
+  t7: L('Melebihi 5 tahun / tak tentu', 'Over 5 years / indefinite', '超过5年／无限期'),
+  copies: L('Salinan pendua (RM10 setiap satu)', 'Duplicate copies (RM10 each)', '副本（每份 RM10）'),
+  asOf: L('Peraturan setakat', 'Rules as of', '规则截至'),
+  totalLabel: L('Jumlah duti setem', 'Total stamp duty', '印花税总额'),
+  annualRent: L('Sewa tahunan', 'Annual rent', '年租金'),
+  perUnit: L('Kadar bagi setiap RM250', 'Rate per RM250', '每 RM250 税率'),
+  units: L('Blok RM250 (dibundarkan ke atas)', 'RM250 blocks (rounded up)', 'RM250 区块（向上取整）'),
+  leaseDuty: L('Duti sewa (instrumen utama)', 'Lease duty (principal)', '租约印花税（主本）'),
+  copiesDuty: L('Duti salinan', 'Copies duty', '副本税'),
+  caveats: L(
+    'Anggaran sahaja, bukan nasihat cukai. Skala item 49 berkuat kuasa 1 Januari 2025 (band RM2,400 dimansuhkan). Duti dikira atas purata sewa tahunan dan pertimbangan lain. Setem sendiri melalui LHDN STAMPS; biasanya penyewa menanggung duti melainkan dipersetujui sebaliknya.',
+    'Estimate only, not tax advice. The item-49 scale took effect 1 January 2025 (the RM2,400 band is repealed). Duty is charged on the average annual rent and other consideration. Self-stamp via LHDN STAMPS; the tenant usually bears the duty unless agreed otherwise.',
+    '仅为估算，非税务建议。第49项税率自2025年1月1日生效（RM2,400 免税额已废除）。税款按平均年租金及其他对价计算。通过 LHDN STAMPS 自行盖章；除非另有约定，通常由租户承担。',
+  ),
+};
+
+const faqs = [
+  {
+    q: L('Masih adakah pengecualian RM2,400?', 'Is there still an RM2,400 exemption?', '还有 RM2,400 免税额吗？'),
+    a: L(
+      'Tidak. Band nil RM2,400 dimansuhkan apabila item 49 digantikan sepenuhnya oleh Akta Kewangan 2024, berkuat kuasa 1 Januari 2025. Duti kini dikenakan dari ringgit pertama sewa. Panduan lama yang masih menyebut "tiada duti jika sewa tahunan RM2,400 atau kurang" merujuk undang-undang yang telah dimansuhkan.',
+      'No. The RM2,400 nil band was abolished when item 49 was wholly substituted by the Finance Act 2024, effective 1 January 2025. Duty now runs from the first ringgit of rent. Older guidance still saying "no duty if annual rent is RM2,400 or less" is describing repealed law.',
+      '没有了。随着第49项于2024年财政法令被整体取代（2025年1月1日生效），RM2,400 免税额已废除。印花税现从第一令吉租金起计。仍称"年租 RM2,400 以下免税"的旧指南描述的是已废除的法律。',
+    ),
+  },
+  {
+    q: L('Bagaimana duti dikira?', 'How is the duty calculated?', '印花税如何计算？'),
+    a: L(
+      'Ambil sewa bulanan × 12 untuk sewa tahunan, bahagikan dengan RM250 (bundarkan ke atas), kemudian darab dengan kadar tempoh: RM1 (≤1 tahun), RM3 (>1–3 tahun), RM5 (>3–5 tahun), atau RM7 (>5 tahun / tak tentu). Setiap salinan pendua perjanjian dikenakan RM10 tetap.',
+      'Take monthly rent × 12 for the annual rent, divide by RM250 (round up), then multiply by the term rate: RM1 (≤1 year), RM3 (>1–3 years), RM5 (>3–5 years), or RM7 (>5 years / indefinite). Each duplicate copy of the agreement is a fixed RM10.',
+      '把月租 × 12 得年租金，除以 RM250（向上取整），再乘以租期税率：RM1（≤1年）、RM3（>1–3年）、RM5（>3–5年）、RM7（>5年／无限期）。协议的每份副本固定收 RM10。',
+    ),
+  },
+  {
+    q: L('Siapa yang membayar duti setem sewa?', 'Who pays the tenancy stamp duty?', '租约印花税由谁支付？'),
+    a: L(
+      'Secara amalan, penyewa biasanya menanggung duti setem perjanjian sewa, melainkan perjanjian menyatakan sebaliknya. Perjanjian perlu disetem dalam tempoh 30 hari dari tarikh ia ditandatangani (jika ditandatangani di Malaysia) untuk mengelak penalti.',
+      'In practice the tenant usually bears the stamp duty on a tenancy agreement, unless the agreement says otherwise. The agreement should be stamped within 30 days of signing (if signed in Malaysia) to avoid penalties.',
+      '实务上，除非协议另有约定，租约印花税通常由租户承担。协议应在签署后30天内（若在马来西亚签署）盖章，以免罚款。',
+    ),
+  },
+];
+
+const howText = L(
+  'Masukkan sewa bulanan dan pilih tempoh sewa. Kami mendarabkan sewa dengan 12 untuk mendapatkan sewa tahunan, membahagikannya kepada blok RM250 (dibundarkan ke atas), dan mengenakan kadar tempoh item 49 — RM1/RM3/RM5/RM7 setiap blok. Tambah bilangan salinan pendua (RM10 setiap satu). Semua pengiraan berlaku dalam pelayar anda.',
+  'Enter the monthly rent and pick the lease term. We multiply the rent by 12 for the annual rent, split it into RM250 blocks (rounded up), and apply the item-49 term rate — RM1/RM3/RM5/RM7 per block. Add the number of duplicate copies (RM10 each). All the maths happens in your browser.',
+  '输入月租并选择租期。我们将租金乘以12得年租金，分成 RM250 区块（向上取整），按第49项租期税率收费——每区块 RM1/RM3/RM5/RM7。再加副本数量（每份 RM10）。所有计算都在你的浏览器中完成。',
+);
+
+const relatedLinks = [
+  { label: L('Kadar duti setem (Jadual Pertama)', 'Stamp duty rates (First Schedule)', '印花税率（第一附表）'), href: localePath('/taxation/stamp-duty-rates', locale) },
+  { label: L('Kalkulator duti setem', 'Stamp duty calculator', '印花税计算器'), href: localePath('/tools/stamp-duty-calculator', locale) },
+];
+---
+
+<ToolArticleView
+  locale={locale}
+  toolId="tenancy-stamp-duty"
+  title={title}
+  lede={heroDesc}
+  asOf={STAMP.asOf}
+  how={howText}
+  faqs={faqs}
+  sources={STAMP.sources}
+  related={relatedLinks}
+>
+  <div class="itc" id="ts">
+    <form class="itc-form" autocomplete="off">
+      <div class="itc-row">
+        <label class="itc-field itc-income">
+          <span>{ui.monthly}</span>
+          <input type="number" id="ts-monthly" inputmode="decimal" min="0" step="50" placeholder="1500" />
+        </label>
+      </div>
+      <div class="itc-row">
+        <label class="itc-field">
+          <span>{ui.term}</span>
+          <select id="ts-term">
+            <option value="le1">{ui.t1}</option>
+            <option value="le3">{ui.t3}</option>
+            <option value="le5">{ui.t5}</option>
+            <option value="gt5">{ui.t7}</option>
+          </select>
+        </label>
+        <label class="itc-field">
+          <span>{ui.copies}</span>
+          <input type="number" id="ts-copies" inputmode="numeric" min="0" step="1" value="1" />
+        </label>
+      </div>
+    </form>
+
+    <aside class="itc-out" aria-live="polite">
+      <p class="itc-asof">{ui.asOf} <span id="ts-asof">{STAMP.asOf}</span></p>
+      <div class="itc-headline">
+        <span class="itc-label">{ui.totalLabel}</span>
+        <strong class="itc-amount" id="ts-total">RM0</strong>
+      </div>
+      <dl class="itc-lines">
+        <div><dt>{ui.annualRent}</dt><dd id="ts-annual">RM0</dd></div>
+        <div><dt>{ui.perUnit}</dt><dd id="ts-per">RM1</dd></div>
+        <div><dt>{ui.units}</dt><dd id="ts-units">0</dd></div>
+        <div><dt>{ui.leaseDuty}</dt><dd id="ts-lease">RM0</dd></div>
+        <div><dt>{ui.copiesDuty}</dt><dd id="ts-copiesd">RM0</dd></div>
+      </dl>
+    </aside>
+  </div>
+
+  <p class="itc-disclaimer">⚠️ {ui.caveats}</p>
+</ToolArticleView>
+
+<script>
+  import { computeLeaseDuty } from '@/lib/tax/stampDuty';
+  const $ = (id) => document.getElementById(id);
+  const root = $('ts');
+  if (root) {
+    const f0 = new Intl.NumberFormat('en-MY', { style: 'currency', currency: 'MYR', maximumFractionDigits: 0 });
+    const rm0 = (n) => f0.format(n || 0).replace('MYR', 'RM').replace(/\s/g, '');
+    const num = (el) => { const v = parseFloat(el && el.value); return Number.isFinite(v) && v > 0 ? v : 0; };
+    function recompute() {
+      const monthly = num($('ts-monthly'));
+      const term = ($('ts-term').value) || 'le1';
+      const copies = Math.max(0, Math.floor(num($('ts-copies'))));
+      const r = computeLeaseDuty({ annualRent: monthly * 12, term, copies });
+      $('ts-annual').textContent = rm0(r.annualRent);
+      $('ts-per').textContent = rm0(r.perUnit);
+      $('ts-units').textContent = String(r.units);
+      $('ts-lease').textContent = rm0(r.leaseDuty);
+      $('ts-copiesd').textContent = rm0(r.copiesDuty);
+      $('ts-total').textContent = rm0(r.total);
+      $('ts-asof').textContent = r.asOf;
+    }
+    root.addEventListener('input', recompute);
+    root.addEventListener('change', recompute);
+    recompute();
+  }
+</script>
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'SoftwareApplication', name: title, applicationCategory: 'FinanceApplication', operatingSystem: 'Web', offers: { '@type': 'Offer', price: '0', priceCurrency: 'MYR' }, description: heroDesc },
+    { '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+  ],
+})} />
+
+<style>
+  .itc { display: grid; grid-template-columns: 1.4fr 1fr; gap: 1.5rem; align-items: start; }
+  @media (max-width: 860px) { .itc { grid-template-columns: 1fr; } }
+  .itc-form { display: grid; gap: 1.1rem; }
+  .itc-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+  .itc-row:first-child { grid-template-columns: 1fr; }
+  .itc-field { display: grid; gap: 0.35rem; font-size: 0.9rem; }
+  .itc-field > span { font-weight: 600; color: var(--ink-soft); }
+  .itc-field input, .itc-field select { font: inherit; padding: 0.55rem 0.7rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .itc-field input:focus, .itc-field select:focus { outline: 2px solid var(--gold); outline-offset: 1px; }
+  .itc-out { position: sticky; top: 1rem; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 1.2rem 1.3rem; }
+  .itc-asof { margin: 0 0 0.8rem; font-size: 0.72rem; color: var(--muted); }
+  .itc-headline { display: grid; gap: 0.15rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
+  .itc-label { font-size: 0.8rem; color: var(--ink-soft); font-weight: 600; }
+  .itc-amount { font-size: 2.1rem; font-weight: 800; color: var(--gold); line-height: 1.1; }
+  .itc-lines { display: grid; gap: 0.5rem; margin: 1rem 0 0; }
+  .itc-lines > div { display: flex; justify-content: space-between; gap: 1rem; font-size: 0.86rem; }
+  .itc-lines dt { color: var(--ink-soft); margin: 0; }
+  .itc-lines dd { margin: 0; font-weight: 700; font-variant-numeric: tabular-nums; text-align: right; }
+  .itc-disclaimer { margin: 1.4rem 0 0; padding: 0.8rem 1rem; font-size: 0.82rem; line-height: 1.6; color: var(--ink-soft); background: color-mix(in srgb, var(--gold) 6%, var(--surface, transparent)); border: 1px solid color-mix(in srgb, var(--gold) 30%, transparent); border-radius: 10px; }
+</style>

@@ -112,3 +112,65 @@ export function computeStampDuty(input: StampInput, rates: StampRates = STAMP): 
 
   return { kind: input.kind, amount, duty: r2(duty), exempt: false, note, asOf: rates.asOf };
 }
+
+// --- Lease / tenancy duty — item 49(a) ------------------------------------
+// WHOLLY SUBSTITUTED by the Finance Act 2024, effective 1 January 2025: the
+// RM2,400 nil band was abolished and the scale is now RM1 / RM3 / RM5 / RM7 per
+// RM250 (or part) of the average annual rent, by term. (The old RM1/2/4 three-band
+// scale with a RM2,400 exemption is repealed law.) Source: Stamp Act 1949 First
+// Schedule item 49, as amended; NegaraKu "Stamp Duty Rates — First Schedule".
+
+export type LeaseTerm = 'le1' | 'le3' | 'le5' | 'gt5'; // ≤1y · >1–3y · >3–5y · >5y/indefinite
+
+/** RM charged for every RM250 or part of the annual rent, by lease term. */
+export const LEASE_SCALE: Record<LeaseTerm, number> = { le1: 1, le3: 3, le5: 5, gt5: 7 };
+
+export interface LeaseInput {
+  /** Average annual rent and other consideration (RM). */
+  annualRent: number;
+  term: LeaseTerm;
+  /** Duplicate / counterpart copies, each a fixed RM10 (0 = principal only). */
+  copies?: number;
+  /** Agricultural lease, definite term ≤ 3 years, rent ≤ RM200/yr → exempt. */
+  agricultural?: boolean;
+}
+
+export interface LeaseResult {
+  annualRent: number;
+  term: LeaseTerm;
+  perUnit: number; // RM per RM250 (1/3/5/7)
+  units: number; // RM250 blocks (rounded up)
+  leaseDuty: number; // ad valorem duty on the principal instrument
+  copiesDuty: number; // RM10 per duplicate copy
+  total: number;
+  exempt: boolean;
+  note?: string;
+  asOf: string;
+}
+
+/** Lease/tenancy stamp duty under item 49(a), current scale. */
+export function computeLeaseDuty(input: LeaseInput, rates: StampRates = STAMP): LeaseResult {
+  const annualRent = Math.max(0, input.annualRent || 0);
+  const term = input.term;
+  const perUnit = LEASE_SCALE[term];
+  const copies = Math.max(0, Math.floor(input.copies ?? 0));
+  const copiesDuty = copies * rates.minimumDuty; // RM10 each
+
+  // Agricultural lease exemption: definite term not exceeding 3 years AND rent
+  // not exceeding RM200 a year.
+  if (input.agricultural && (term === 'le1' || term === 'le3') && annualRent <= 200) {
+    return {
+      annualRent, term, perUnit, units: 0, leaseDuty: 0, copiesDuty,
+      total: copiesDuty, exempt: true,
+      note: 'Agricultural lease ≤ 3 years with rent ≤ RM200/yr is exempt from lease duty.',
+      asOf: rates.asOf,
+    };
+  }
+
+  const units = Math.ceil(annualRent / 250);
+  const leaseDuty = units * perUnit;
+  return {
+    annualRent, term, perUnit, units, leaseDuty, copiesDuty,
+    total: leaseDuty + copiesDuty, exempt: false, asOf: rates.asOf,
+  };
+}

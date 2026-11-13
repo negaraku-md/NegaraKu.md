@@ -1,0 +1,286 @@
+---
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import ToolArticleView from './ToolArticleView.astro';
+import { COURTS } from '@/lib/law/whichCourt';
+
+interface Props { locale: Locale; }
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const title = L('Mahkamah Mana? Pencari Forum', 'Which Court? Forum Finder', '该上哪个法院？法院查找器');
+const heroDesc = L(
+  'Pertikaian wang, pengguna, jenayah, keluarga atau pekerjaan — alat ini menunjukkan mahkamah atau tribunal Malaysia yang betul dan asas perundangannya, mengikut jenis kes dan amaun. Panduan hala tuju, bukan nasihat guaman.',
+  'A money, consumer, criminal, family or employment dispute — this tool points you to the right Malaysian court or tribunal and its statutory basis, by case type and amount. Routing guidance, not legal advice.',
+  '金钱、消费者、刑事、家庭或雇佣纠纷——本工具按案件类型与金额，指出正确的马来西亚法院或仲裁庭及其法律依据。仅为指引，非法律意见。',
+);
+
+const ui = {
+  matter: L('Jenis pertikaian', 'Type of dispute', '纠纷类型'),
+  mMoney: L('Tuntutan wang (hutang/ganti rugi)', 'Money claim (debt / damages)', '金钱索偿（债务／损害赔偿）'),
+  mConsumer: L('Pengguna (barang/perkhidmatan)', 'Consumer (goods / services)', '消费者（商品／服务）'),
+  mCriminal: L('Jenayah', 'Criminal', '刑事'),
+  mFamily: L('Keluarga (perkahwinan/perceraian)', 'Family (marriage / divorce)', '家庭（婚姻／离婚）'),
+  mEmployment: L('Pekerjaan', 'Employment', '雇佣'),
+  amount: L('Amaun dituntut (RM)', 'Amount claimed (RM)', '索偿金额（RM）'),
+  individual: L('Saya individu (bukan syarikat)', 'I am an individual (not a company)', '我是个人（非公司）'),
+  severity: L('Keterukan kesalahan', 'Offence severity', '罪行严重程度'),
+  sMinor: L('Ringan (denda / ≤ 10 tahun penjara)', 'Minor (fine / ≤ 10 years’ jail)', '轻微（罚款／≤10年监禁）'),
+  sSerious: L('Serius (bukan hukuman mati)', 'Serious (non-capital)', '严重（非死刑）'),
+  sCapital: L('Hukuman mati (cth. bunuh, dadah)', 'Capital (e.g. murder, drugs)', '死刑（如谋杀、毒品）'),
+  muslim: L('Kedua-dua pihak beragama Islam', 'Both parties are Muslim', '双方均为穆斯林'),
+  dispute: L('Jenis tuntutan pekerjaan', 'Type of employment claim', '雇佣索偿类型'),
+  dWages: L('Gaji / faedah berkanun tidak dibayar', 'Unpaid wages / statutory benefits', '未付工资／法定福利'),
+  dDismissal: L('Pembuangan kerja tidak adil', 'Unfair dismissal', '不公平解雇'),
+  forumLabel: L('Forum yang betul', 'The right forum', '正确的审理机构'),
+  basisLabel: L('Asas perundangan', 'Statutory basis', '法律依据'),
+  contextLabel: L('Konteks', 'Context', '说明'),
+  asOf: L('Peraturan setakat', 'Rules as of', '规则截至'),
+  withinCeiling: L('{amt} — dalam had {ceil}', '{amt} — within the {ceil} ceiling', '{amt} — 在 {ceil} 上限内'),
+  caveats: L(
+    'Panduan hala tuju sahaja, bukan nasihat guaman. Mahkamah jenayah sebenar bergantung pada hukuman maksimum kesalahan tertentu; had kewangan ini untuk Semenanjung (Sabah & Sarawak mempunyai mahkamah selari). Rujuk peguam untuk kes sebenar.',
+    'Routing guidance only, not legal advice. The actual criminal court depends on the specific offence’s maximum punishment; the monetary limits are for West Malaysia (Sabah & Sarawak have parallel courts). Consult a lawyer for an actual case.',
+    '仅为指引，非法律意见。实际刑事法院取决于具体罪行的最高刑罚；金额上限适用于西马（沙巴与砂拉越设有对应法院）。实际案件请咨询律师。',
+  ),
+};
+
+// Forum dictionary — localised name + one-line description, keyed by ForumKey.
+const FORUMS = {
+  'small-claims': {
+    name: L('Tuntutan Kecil (Mahkamah Majistret)', 'Small Claims (Magistrates’ Court)', '小额索偿（推事庭）'),
+    desc: L('Individu sahaja, tuntutan ≤ RM5,000, tanpa peguam; keputusan muktamad.', 'Individuals only, claims ≤ RM5,000, no lawyer; the judgment is final.', '仅限个人，索偿 ≤ RM5,000，无需律师；判决为终局。'),
+  },
+  magistrates: {
+    name: L('Mahkamah Majistret', 'Magistrates’ Court', '推事庭'),
+    desc: L('Tuntutan sivil sehingga RM100,000.', 'Civil claims up to RM100,000.', '民事索偿至 RM100,000。'),
+  },
+  sessions: {
+    name: L('Mahkamah Sesyen', 'Sessions Court', '推事庭（高级）/ 推事庭'),
+    desc: L('Tuntutan sivil sehingga RM1,000,000.', 'Civil claims up to RM1,000,000.', '民事索偿至 RM1,000,000。'),
+  },
+  'high-court': {
+    name: L('Mahkamah Tinggi', 'High Court', '高等法院'),
+    desc: L('Tuntutan sivil melebihi RM1,000,000 (tanpa had).', 'Civil claims above RM1,000,000 (unlimited).', '民事索偿超过 RM1,000,000（无上限）。'),
+  },
+  'consumer-tribunal': {
+    name: L('Tribunal Tuntutan Pengguna (TTPM)', 'Tribunal for Consumer Claims (TTPM)', '消费者索偿仲裁庭（TTPM）'),
+    desc: L('Pertikaian barang/perkhidmatan ≤ RM50,000; fi rendah, tanpa peguam.', 'Goods/services disputes ≤ RM50,000; low fee, no lawyer.', '商品／服务纠纷 ≤ RM50,000；费用低，无需律师。'),
+  },
+  syariah: {
+    name: L('Mahkamah Syariah', 'Syariah Court', '伊斯兰教法庭'),
+    desc: L('Perkahwinan, perceraian, hadhanah dan faraid orang Islam (bidang kuasa negeri).', 'Muslim marriage, divorce, custody and faraid inheritance (state jurisdiction).', '穆斯林的婚姻、离婚、监护与法拉德继承（州司法权）。'),
+  },
+  'high-court-family': {
+    name: L('Mahkamah Tinggi (Keluarga)', 'High Court (Family)', '高等法院（家事）'),
+    desc: L('Perceraian bukan Islam di bawah Akta Membaharui Undang-Undang (Perkahwinan & Perceraian) 1976.', 'Non-Muslim divorce under the Law Reform (Marriage & Divorce) Act 1976.', '非穆斯林离婚，依1976年法律改革（婚姻及离婚）法令。'),
+  },
+  'labour-court': {
+    name: L('Mahkamah Buruh (Ketua Pengarah Buruh)', 'Labour Court (Director General of Labour)', '劳工法庭（劳工总监）'),
+    desc: L('Gaji dan faedah berkanun tidak dibayar di bawah Akta Kerja 1955.', 'Unpaid wages and statutory benefits under the Employment Act 1955.', '未付工资与法定福利，依1955年雇佣法令。'),
+  },
+  'industrial-court': {
+    name: L('Mahkamah Perindustrian', 'Industrial Court', '劳资法庭'),
+    desc: L('Pembuangan kerja tidak adil & pengembalian kerja melalui Akta Perhubungan Perusahaan 1967.', 'Unfair dismissal & reinstatement via the Industrial Relations Act 1967.', '不公平解雇与复职，依1967年劳资关系法令。'),
+  },
+};
+
+const faqs = [
+  {
+    q: L('Bagaimana had kewangan menentukan mahkamah?', 'How do the monetary limits decide the court?', '金额上限如何决定法院？'),
+    a: L(
+      'Untuk tuntutan wang sivil: individu dengan tuntutan sehingga RM5,000 boleh guna prosedur Tuntutan Kecil; sehingga RM100,000 di Mahkamah Majistret; sehingga RM1,000,000 di Mahkamah Sesyen; dan melebihi RM1,000,000 di Mahkamah Tinggi (bidang kuasa tanpa had). Had ini di bawah Akta Mahkamah Rendah 1948 (ss.65 & 90) dan Akta Mahkamah Kehakiman 1964.',
+      'For civil money claims: an individual claiming up to RM5,000 may use the Small Claims procedure; up to RM100,000 goes to the Magistrates’ Court; up to RM1,000,000 to the Sessions Court; and above RM1,000,000 to the High Court (unlimited jurisdiction). These limits are under the Subordinate Courts Act 1948 (ss.65 & 90) and the Courts of Judicature Act 1964.',
+      '民事金钱索偿：个人索偿至 RM5,000 可用小额索偿程序；至 RM100,000 由推事庭审理；至 RM1,000,000 由推事庭（高级）审理；超过 RM1,000,000 由高等法院审理（无上限）。上限依1948年下级法庭法令（第65及90条）与1964年司法法院法令。',
+    ),
+  },
+  {
+    q: L('Kes pengguna — tribunal atau mahkamah?', 'A consumer case — tribunal or court?', '消费者案件——仲裁庭还是法院？'),
+    a: L(
+      'Pertikaian barang atau perkhidmatan terhadap peniaga sehingga RM50,000 boleh dibawa ke Tribunal Tuntutan Pengguna (TTPM) di bawah Akta Perlindungan Pengguna 1999 — fi rendah dan tanpa peguam. Melebihi itu, ia menjadi tuntutan sivil biasa mengikut amaun.',
+      'A goods or services dispute against a trader up to RM50,000 can go to the Tribunal for Consumer Claims (TTPM) under the Consumer Protection Act 1999 — a low fee and no lawyer. Above that, it becomes an ordinary civil claim by amount.',
+      '对商家的商品或服务纠纷至 RM50,000，可依1999年消费者保护法令提交消费者索偿仲裁庭（TTPM）——费用低且无需律师。超过此额，则按金额作普通民事索偿。',
+    ),
+  },
+  {
+    q: L('Kes keluarga Islam dan bukan Islam di mana?', 'Where do Muslim and non-Muslim family cases go?', '穆斯林与非穆斯林家庭案件在哪审理？'),
+    a: L(
+      'Perkara keluarga orang Islam — perkahwinan, perceraian, hadhanah dan faraid — berada dalam bidang kuasa Mahkamah Syariah negeri. Perceraian dan hal ehwal matrimoni bukan Islam dibicarakan di Mahkamah Tinggi di bawah Akta Membaharui Undang-Undang (Perkahwinan dan Perceraian) 1976.',
+      'Muslim family matters — marriage, divorce, custody and faraid inheritance — fall under the state Syariah Courts. Non-Muslim divorce and matrimonial matters are heard in the High Court under the Law Reform (Marriage and Divorce) Act 1976.',
+      '穆斯林家庭事务——婚姻、离婚、监护与法拉德继承——属州伊斯兰教法庭管辖。非穆斯林离婚及婚姻事务由高等法院依1976年法律改革（婚姻及离婚）法令审理。',
+    ),
+  },
+];
+
+const howText = L(
+  'Pilih jenis pertikaian anda. Untuk tuntutan wang atau pengguna, masukkan amaun yang dituntut — alat memadankannya dengan had bidang kuasa berkanun untuk mencari mahkamah atau tribunal yang betul. Untuk kes jenayah, keluarga atau pekerjaan, ia menghala mengikut kategori. Setiap keputusan menunjukkan asas perundangannya. Semua logik berjalan dalam pelayar anda.',
+  'Pick your type of dispute. For a money or consumer claim, enter the amount claimed — the tool matches it to the statutory jurisdiction limits to find the right court or tribunal. For criminal, family or employment matters, it routes by category. Every result shows its statutory basis. All the logic runs in your browser.',
+  '选择你的纠纷类型。金钱或消费者索偿请输入索偿金额——工具按法定管辖上限匹配，找出正确的法院或仲裁庭。刑事、家庭或雇佣事务则按类别指引。每个结果都显示其法律依据。所有逻辑都在你的浏览器中运行。',
+);
+
+const relatedLinks = [
+  { label: L('Prosedur Tuntutan Kecil', 'Small claims procedure', '小额索偿程序'), href: localePath('/law/small-claims-tribunal-procedure', locale) },
+];
+---
+
+<ToolArticleView
+  locale={locale}
+  toolId="which-court-finder"
+  title={title}
+  lede={heroDesc}
+  asOf={COURTS.asOf}
+  how={howText}
+  faqs={faqs}
+  sources={COURTS.sources}
+  related={relatedLinks}
+>
+  <div class="itc" id="wc">
+    <form class="itc-form" autocomplete="off">
+      <div class="itc-row">
+        <label class="itc-field itc-income">
+          <span>{ui.matter}</span>
+          <select id="wc-matter">
+            <option value="money">{ui.mMoney}</option>
+            <option value="consumer">{ui.mConsumer}</option>
+            <option value="criminal">{ui.mCriminal}</option>
+            <option value="family">{ui.mFamily}</option>
+            <option value="employment">{ui.mEmployment}</option>
+          </select>
+        </label>
+      </div>
+
+      <label class="itc-field wc-cond" data-for="amount">
+        <span>{ui.amount}</span>
+        <input type="number" id="wc-amount" inputmode="decimal" min="0" step="100" placeholder="3000" />
+      </label>
+      <label class="itc-check wc-cond" data-for="individual">
+        <input type="checkbox" id="wc-individual" checked /> <span>{ui.individual}</span>
+      </label>
+      <label class="itc-field wc-cond" data-for="severity" hidden>
+        <span>{ui.severity}</span>
+        <select id="wc-severity">
+          <option value="minor">{ui.sMinor}</option>
+          <option value="serious" selected>{ui.sSerious}</option>
+          <option value="capital">{ui.sCapital}</option>
+        </select>
+      </label>
+      <label class="itc-check wc-cond" data-for="muslim" hidden>
+        <input type="checkbox" id="wc-muslim" /> <span>{ui.muslim}</span>
+      </label>
+      <label class="itc-field wc-cond" data-for="dispute" hidden>
+        <span>{ui.dispute}</span>
+        <select id="wc-dispute">
+          <option value="wages">{ui.dWages}</option>
+          <option value="dismissal">{ui.dDismissal}</option>
+        </select>
+      </label>
+    </form>
+
+    <aside class="itc-out" aria-live="polite">
+      <p class="itc-asof">{ui.asOf} <span id="wc-asof">{COURTS.asOf}</span></p>
+      <div class="itc-headline">
+        <span class="itc-label">{ui.forumLabel}</span>
+        <strong class="itc-amount itc-verdict" id="wc-forum">—</strong>
+        <p class="wc-desc" id="wc-desc"></p>
+      </div>
+      <dl class="itc-lines">
+        <div><dt>{ui.basisLabel}</dt><dd id="wc-basis">—</dd></div>
+        <div class="wc-ctx-row" hidden><dt>{ui.contextLabel}</dt><dd id="wc-ctx">—</dd></div>
+      </dl>
+    </aside>
+  </div>
+
+  <p class="itc-disclaimer">⚠️ {ui.caveats}</p>
+</ToolArticleView>
+
+<script
+  type="application/json"
+  id="wc-forums"
+  set:html={JSON.stringify(FORUMS)}
+></script>
+<script type="application/json" id="wc-i18n" set:html={JSON.stringify({ within: ui.withinCeiling })}></script>
+
+<script>
+  import { findCourt } from '@/lib/law/whichCourt';
+  const $ = (id) => document.getElementById(id);
+  const root = $('wc');
+  if (root) {
+    const FORUMS = JSON.parse($('wc-forums')?.textContent || '{}');
+    const I18N = JSON.parse($('wc-i18n')?.textContent || '{}');
+    const f0 = new Intl.NumberFormat('en-MY', { style: 'currency', currency: 'MYR', maximumFractionDigits: 0 });
+    const rm0 = (n) => f0.format(n || 0).replace('MYR', 'RM').replace(/\s/g, '');
+    const num = (el) => { const v = parseFloat(el && el.value); return Number.isFinite(v) && v > 0 ? v : 0; };
+    const CONDS = {
+      money: ['amount', 'individual'],
+      consumer: ['amount'],
+      criminal: ['severity'],
+      family: ['muslim'],
+      employment: ['dispute'],
+    };
+    function syncConds(matter) {
+      const show = new Set(CONDS[matter] || []);
+      root.querySelectorAll('.wc-cond').forEach((el) => { el.hidden = !show.has(el.dataset.for); });
+    }
+    function recompute() {
+      const matter = $('wc-matter').value;
+      syncConds(matter);
+      const input = {
+        matter,
+        amount: num($('wc-amount')),
+        individual: $('wc-individual').checked,
+        severity: $('wc-severity').value,
+        muslim: $('wc-muslim').checked,
+        dispute: $('wc-dispute').value,
+      };
+      const r = findCourt(input);
+      const f = FORUMS[r.forum] || { name: r.forum, desc: '' };
+      $('wc-forum').textContent = f.name;
+      $('wc-desc').textContent = f.desc;
+      $('wc-basis').textContent = r.basis;
+      const ctxRow = root.querySelector('.wc-ctx-row');
+      if (r.ceiling && (matter === 'money' || matter === 'consumer') && input.amount > 0) {
+        $('wc-ctx').textContent = (I18N.within || '{amt} — within {ceil}')
+          .replace('{amt}', rm0(input.amount)).replace('{ceil}', rm0(r.ceiling));
+        ctxRow.hidden = false;
+      } else {
+        ctxRow.hidden = true;
+      }
+      $('wc-asof').textContent = r.asOf;
+    }
+    root.addEventListener('input', recompute);
+    root.addEventListener('change', recompute);
+    recompute();
+  }
+</script>
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'SoftwareApplication', name: title, applicationCategory: 'ReferenceApplication', operatingSystem: 'Web', offers: { '@type': 'Offer', price: '0', priceCurrency: 'MYR' }, description: heroDesc },
+    { '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+  ],
+})} />
+
+<style>
+  .itc { display: grid; grid-template-columns: 1.4fr 1fr; gap: 1.5rem; align-items: start; }
+  @media (max-width: 860px) { .itc { grid-template-columns: 1fr; } }
+  .itc-form { display: grid; gap: 1.1rem; }
+  .itc-row { display: grid; grid-template-columns: 1fr; gap: 1rem; }
+  .itc-field { display: grid; gap: 0.35rem; font-size: 0.9rem; }
+  .itc-field > span { font-weight: 600; color: var(--ink-soft); }
+  .itc-field input, .itc-field select { font: inherit; padding: 0.55rem 0.7rem; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .itc-field input:focus, .itc-field select:focus { outline: 2px solid var(--gold); outline-offset: 1px; }
+  .itc-check { display: flex; align-items: center; gap: 0.5rem; font-size: 0.9rem; color: var(--ink-soft); }
+  .itc-check input { width: 1.05rem; height: 1.05rem; accent-color: var(--gold); }
+  .itc-out { position: sticky; top: 1rem; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 1.2rem 1.3rem; }
+  .itc-asof { margin: 0 0 0.8rem; font-size: 0.72rem; color: var(--muted); }
+  .itc-headline { display: grid; gap: 0.3rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
+  .itc-label { font-size: 0.8rem; color: var(--ink-soft); font-weight: 600; }
+  .itc-amount { font-size: 2.1rem; font-weight: 800; color: var(--gold); line-height: 1.1; }
+  .itc-verdict { font-size: 1.4rem; line-height: 1.2; }
+  .wc-desc { margin: 0; font-size: 0.85rem; color: var(--ink-soft); line-height: 1.5; font-weight: 400; }
+  .itc-lines { display: grid; gap: 0.5rem; margin: 1rem 0 0; }
+  .itc-lines > div { display: flex; justify-content: space-between; gap: 1rem; font-size: 0.86rem; }
+  .itc-lines dt { color: var(--ink-soft); margin: 0; }
+  .itc-lines dd { margin: 0; font-weight: 700; text-align: right; }
+  .itc-disclaimer { margin: 1.4rem 0 0; padding: 0.8rem 1rem; font-size: 0.82rem; line-height: 1.6; color: var(--ink-soft); background: color-mix(in srgb, var(--gold) 6%, var(--surface, transparent)); border: 1px solid color-mix(in srgb, var(--gold) 30%, transparent); border-radius: 10px; }
+</style>

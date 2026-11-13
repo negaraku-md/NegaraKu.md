@@ -100,7 +100,7 @@ export const TOOLS: Tool[] = [
   {
     id: 'stamp-duty-calculator', href: '/tools/stamp-duty-calculator', icon: '📜', color: '#22D3EE', status: 'live', group: 'finance',
     title: L('Kalkulator Duti Setem', 'Stamp Duty Calculator', '印花税计算器', 'முத்திரை வரி கணிப்பான்', '印紙税計算機', '인지세 계산기', 'เครื่องคำนวณอากรแสตมป์', 'Máy tính thuế tem', 'Kalkulator Bea Meterai', 'حاسبة رسوم الدمغة', 'स्टांप शुल्क कैलकुलेटर', 'Calculadora de impuesto de timbre', 'Calculateur de droit de timbre'),
-    blurb: L('Perjanjian sewa, SPJB dan pindah milik saham.', 'Tenancy, SPA and share transfer.', '租约、买卖合约与股份转让。', 'வாடகை, SPA, பங்கு பரிமாற்றம்.', '賃貸借・SPA・株式譲渡。', '임대차, SPA, 주식 양도.', 'สัญญาเช่า SPA และโอนหุ้น', 'Hợp đồng thuê, SPA và chuyển nhượng cổ phần.', 'Sewa, SPA, dan pengalihan saham.', 'الإيجار وSPA ونقل الأسهم.', 'किरायेदारी, SPA और शेयर हस्तांतरण।', 'Arrendamiento, SPA y transferencia de acciones.', 'Bail, SPA et transfert d’actions.'),
+    blurb: L('Pindah milik hartanah, pinjaman dan saham.', 'Property, loan and share transfer.', '产业转让、贷款与股份转让。', 'சொத்து, கடன், பங்கு பரிமாற்றம்.', '不動産・ローン・株式の譲渡。', '부동산, 대출, 주식 양도.', 'โอนทรัพย์สิน เงินกู้ และหุ้น', 'Chuyển nhượng bất động sản, khoản vay và cổ phần.', 'Pengalihan properti, pinjaman, dan saham.', 'نقل العقارات والقروض والأسهم.', 'संपत्ति, ऋण और शेयर हस्तांतरण।', 'Transferencia de propiedad, préstamo y acciones.', 'Transfert de propriété, de prêt et d’actions.'),
   },
   {
     id: 'car-loan-calculator', href: '/tools/car-loan-calculator', icon: '🚗', color: '#F43F5E', status: 'live', group: 'daily',
@@ -151,6 +151,17 @@ export const TOOLS: Tool[] = [
     id: 'sdn-bhd-cost', href: '/tools/sdn-bhd-cost', icon: '🏗️', color: '#A3E635', status: 'live', group: 'business',
     title: L('Kos Penubuhan Sdn Bhd', 'Sdn Bhd Setup Cost', '私人有限公司注册费用', 'Sdn Bhd அமைப்புச் செலவு', 'Sdn Bhd 設立費用', 'Sdn Bhd 설립 비용', 'ค่าจัดตั้ง Sdn Bhd', 'Chi phí lập Sdn Bhd', 'Biaya Pendirian Sdn Bhd', 'تكلفة تأسيس Sdn Bhd', 'Sdn Bhd स्थापना लागत', 'Coste de constituir una Sdn Bhd', 'Coût de création d’une Sdn Bhd'),
     blurb: L('Yuran SSM + kos tahun pertama.', 'SSM fees + first-year setup costs.', 'SSM 费用＋首年注册成本。', 'SSM கட்டணம் + முதலாம் ஆண்டு செலவு.', 'SSM 手数料＋初年度費用。', 'SSM 수수료 + 첫 해 설립 비용.', 'ค่าธรรมเนียม SSM + ต้นทุนปีแรก', 'Phí SSM + chi phí năm đầu.', 'Biaya SSM + biaya tahun pertama.', 'رسوم SSM + تكاليف السنة الأولى.', 'SSM शुल्क + पहले वर्ष की लागत।', 'Tasas SSM + costes del primer año.', 'Frais SSM + coûts de première année.'),
+  },
+  // --- Living & Understand pillar tools ---
+  {
+    id: 'tenancy-stamp-duty', href: '/tools/tenancy-stamp-duty', icon: '🔑', color: '#5EEAD4', status: 'live', group: 'daily',
+    title: L('Duti Setem Sewa', 'Tenancy Stamp Duty', '租约印花税', 'வாடகை முத்திரை வரி', '賃貸印紙税', '임대 인지세', 'อากรแสตมป์สัญญาเช่า', 'Thuế tem hợp đồng thuê', 'Bea Meterai Sewa', 'رسوم دمغة الإيجار', 'किरायेदारी स्टांप शुल्क', 'Timbre de arrendamiento', 'Droit de timbre de bail'),
+    blurb: L('Duti perjanjian sewa — skala item 49 semasa.', 'Lease duty on the current item-49 scale.', '租约印花税——当前第49项税率。', 'வாடகை ஒப்பந்த வரி — தற்போதைய உருப்படி 49 அளவில்.', '賃貸契約の印紙税 — 現行の項目49スケール。', '임대차 인지세 — 현행 항목 49 기준.', 'อากรสัญญาเช่า — ตามเกณฑ์ข้อ 49 ปัจจุบัน', 'Thuế hợp đồng thuê — theo biểu mục 49 hiện hành.', 'Bea sewa — skala item 49 terkini.', 'رسم عقد الإيجار — وفق جدول البند 49 الحالي.', 'पट्टा शुल्क — वर्तमान मद 49 पैमाने पर।', 'Impuesto de arrendamiento según la escala del punto 49.', 'Droit de bail selon le barème actuel du point 49.'),
+  },
+  {
+    id: 'which-court-finder', href: '/tools/which-court-finder', icon: '⚖️', color: '#C084FC', status: 'live', group: 'daily',
+    title: L('Mahkamah Mana?', 'Which Court?', '哪个法院？', 'எந்த நீதிமன்றம்?', 'どの裁判所？', '어느 법원?', 'ศาลไหน?', 'Tòa án nào?', 'Pengadilan Mana?', 'أي محكمة؟', 'कौन सा न्यायालय?', '¿Qué tribunal?', 'Quel tribunal ?'),
+    blurb: L('Halakan pertikaian ke mahkamah atau tribunal yang betul.', 'Route a dispute to the right court or tribunal.', '将纠纷引向正确的法院或仲裁庭。', 'சர்ச்சையை சரியான நீதிமன்றம்/தீர்ப்பாயத்திற்கு வழிநடத்தவும்.', '紛争を正しい裁判所・審判所へ案内。', '분쟁을 알맞은 법원·심판소로 안내.', 'นำข้อพิพาทไปยังศาลหรือคณะอนุญาโตตุลาการที่ถูกต้อง', 'Định tuyến tranh chấp đến đúng tòa án hoặc hội đồng.', 'Arahkan sengketa ke pengadilan atau tribunal yang tepat.', 'وجِّه النزاع إلى المحكمة أو الهيئة المناسبة.', 'विवाद को सही न्यायालय या ट्रिब्यूनल तक पहुँचाएँ।', 'Dirige una disputa al tribunal o foro correcto.', 'Orientez un litige vers la juridiction adéquate.'),
   },
 ];
 
@@ -252,6 +263,15 @@ const ARTICLE_TOOL: Record<string, string> = {
   'business/ssm-fees-malaysia': 'sdn-bhd-cost',
   'business/sole-prop-vs-sdn-bhd': 'sdn-bhd-cost',
   'business/what-is-sdn-bhd': 'sdn-bhd-cost',
+  // Tenancy stamp duty (lease, item 49)
+  'property/renting-a-home': 'tenancy-stamp-duty',
+  'property/tenancy-agreement': 'tenancy-stamp-duty',
+  'property/renting-property-malaysia': 'tenancy-stamp-duty',
+  // Which court finder (civic / legal system)
+  'law/small-claims-tribunal-procedure': 'which-court-finder',
+  'law/courts-of-malaysia': 'which-court-finder',
+  'law/malaysian-court-system': 'which-court-finder',
+  'law/syariah-court-malaysia': 'which-court-finder',
 };
 
 /** The live tool to surface on an article, or null. Key = "category/slug". */

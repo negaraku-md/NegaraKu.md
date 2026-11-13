@@ -1,0 +1,11 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import TenancyStampDutyView from '@/components/TenancyStampDutyView.astro';
+import { TOOLS } from '@/lib/tools';
+const locale = 'id' as const;
+const tool = TOOLS.find((t) => t.id === 'tenancy-stamp-duty')!;
+---
+
+<BaseLayout locale={locale} title={tool.title[locale]} description={tool.blurb[locale]} path="/tools/tenancy-stamp-duty">
+  <TenancyStampDutyView locale={locale} />
+</BaseLayout>

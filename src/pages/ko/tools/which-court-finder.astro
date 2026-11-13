@@ -1,0 +1,11 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import WhichCourtFinderView from '@/components/WhichCourtFinderView.astro';
+import { TOOLS } from '@/lib/tools';
+const locale = 'ko' as const;
+const tool = TOOLS.find((t) => t.id === 'which-court-finder')!;
+---
+
+<BaseLayout locale={locale} title={tool.title[locale]} description={tool.blurb[locale]} path="/tools/which-court-finder">
+  <WhichCourtFinderView locale={locale} />
+</BaseLayout>
