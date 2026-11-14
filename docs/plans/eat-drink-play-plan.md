@@ -51,6 +51,50 @@ what's-on), not reference/explainer — so it wants its own visual language.
 
 ---
 
+## 2b. Competitive positioning (China lesson → Malaysia landscape, researched 2026-11-14)
+
+**China model (user's analysis):** no single platform deepens all four; each vertical
+has a transaction king (下厨房 recipes / 大众点评 local dining / 酒小二 drink delivery /
+携程 travel / 大麦 ticketing). Closest one-stop = 大众点评 (content + transaction), strong
+in 吃+玩. Pure content/种草 = 小红书/抖音.
+
+**Malaysia landscape (same shape — transaction already locked up):**
+- 吃: **Grab "5-Star Eats"** (Mar 2026, Tourism-Malaysia-endorsed for Visit Malaysia Year
+  2026), foodpanda, Google Maps (transaction/app-walled); Time Out KL "Food 40",
+  MICHELIN, Tatler (editorial, English, KL-centric, increasingly sponsored).
+- 喝: **nobody owns the authority** (inside Grab/foodpanda).
+- 玩: **Klook** (~975 activities + tickets), TripAdvisor, Trip.com.
+- 乐: Klook + fragmented promoter/venue ticketing.
+
+**The open gap = NegaraKu's exact shape.** Transaction is taken by well-funded kings —
+don't fight there (no delivery/booking; wrong model). What's UNOWNED:
+1. **Multilingual (13 langs)** — Time Out = EN/KL; Grab/Google reviews app-walled &
+   language-thin. Nobody serves inbound tourists searching in zh/ja/ko/ar/th/vi —
+   and **Visit Malaysia Year 2026** floods the country with exactly them. NegaraKu's
+   13-lang corpus is a unique moat ([[negaraku-language-roadmap]]).
+2. **All-Malaysia** (not KL-centric) — we cover Penang, Ipoh, Sabah, Sarawak, every state.
+3. **AI-citable + neutral** — structured, cited, open → the source LLMs quote for
+   "best X in Malaysia", vs sponsored/influencer noise.
+
+**POSITIONING (committed):** NegaraKu 吃喝玩乐 = **Malaysia's trusted, multilingual,
+AI-citable guide to where to eat/drink/play/enjoy** — the 介绍+评价+排行+攻略 (content +
+discovery) layer that sits ABOVE the transaction platforms and **links out** to them
+("Open in Maps · Order on foodpanda · Book on Klook · Get tickets"). We own the DECISION;
+they own the CHECKOUT. NOT a transaction/booking/delivery platform.
+
+**Implications:**
+- Lean hardest into the 3 moats (multilingual-for-VMY2026, all-Malaysia, AI-citable).
+- **Signature formats:** "Best X by state" ranked guides ([[negaraku-dish-top-places]] +
+  best kopitiam/islands/night-markets), 攻略/itineraries (the 小红书种草 role, structured),
+  seasonal "what's on" (feeds [[negaraku-fb-event-campaign]]).
+- **Monetization (solves [[negaraku-adsense-monetization]]'s open alt):** the outbound
+  links to Grab/Klook/foodpanda are **affiliate** opportunities (Klook & Grab run
+  affiliate programs) — revenue FROM the transaction kings with NO transaction infra and
+  NONE of AdSense's brand damage. The natural home for the "affiliate on high-intent
+  pages" idea.
+- **Per-domain priority:** 吃 Eat = our strength (ship leaderboards); 喝 Drink = easiest
+  authority to seize (unowned); 玩/乐 = curate + guide + link-out (don't build booking).
+
 ## 3. The 4-cluster taxonomy + current-state gap analysis
 
 | Cluster | Have now | Gap to fill |
