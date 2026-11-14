@@ -86,6 +86,12 @@ relations:
 related: ["selangor", "penang", "religion-statistics", "article-3-religion"]
 keywords: ["Thaipusam Malaysia", "Batu Caves Thaipusam", "kavadi", "silver chariot procession", "Lord Murugan", "272 steps", "paal kudam", "Waterfall Hilltop Temple Penang", "Thaipusam public holiday"]
 framework: history-culture
+festivalFacts:
+  what: "무루간(Murugan, Subramaniam) 신을 기리는 힌두교 축제로, 말레이시아에서는 셀랑고르주 곰박(Gombak)의 Batu Caves 사원으로 올라가는 272개의 계단을 따라 벌어지는 대규모 순례와, 쿠알라룸푸르 및 페낭의 은제 수레 행렬로 가장 잘 알려져 있다."
+  who: "주로 말레이시아의 타밀 힌두교 공동체가 지킨다."
+  when: "타밀력의 타이(Thai) 달 — 매년 1월 말이나 2월경이며, 정확한 날짜는 타밀력을 따른다."
+  holiday: "이를 관보에 고시하는 주 및 연방직할지(쿠알라룸푸르, 푸트라자야, 셀랑고르, 페낭, 페락, 느그리슴빌란, 조호르, 케다 포함)에서만 공휴일이며, 전국적인 연방 공휴일은 아니다."
+  etiquette: "비힌두교도도 행렬과 등반을 참관할 수 있으며, 사원 근처에서는 단정하게 옷을 입고 요구되는 곳에서는 신발을 벗으며, 카바디(kavadi)를 짊어진 신자를 촬영하기 전에는 먼저 양해를 구한다."
 ---
 
 동트기 전, 쿠알라룸푸르 북쪽 가장자리의 한 석회암 언덕이 소리로 가득 찹니다 — 북소리, 찬가, 그리고 수십만 개의 맨발이 돌 위를 스치는 소리. 272개 계단의 밑에 14층 건물보다 높은 황금 상이 서 있습니다. 오르기가 시작되었고, 하루의 상당 시간 동안 멈추지 않을 것입니다.

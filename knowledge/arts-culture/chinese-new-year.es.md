@@ -70,6 +70,12 @@ relations:
 related: ["population-composition", "religion-statistics", "languages-spoken", "batik"]
 keywords: ["农历新年", "华人新年", "春节", "团圆饭", "红包", "压岁钱", "舞狮", "捞生", "鱼生", "十五暝", "Chap Goh Meh", "开放门户", "马来西亚华人", "公共假期", "Chinese New Year Malaysia"]
 framework: history-culture
+festivalFacts:
+  what: "La festividad más importante del año para la comunidad china de Malasia, centrada en la reunión familiar: la cena de reunión de Nochevieja, los sobres rojos, la danza del león y el yusheng; el periodo festivo dura tradicionalmente quince días y concluye con el Festival de los Faroles (conocido en Malasia como el decimoquinto anochecer / Chap Goh Meh)."
+  who: "La celebra principalmente la comunidad china de Malasia; los chinos representan alrededor de una quinta parte de la población de ciudadanos (22,2 % según DOSM en 2025)."
+  when: "El primer día del primer mes del calendario lunar; la fecha correspondiente del calendario gregoriano varía cada año según el calendario lunar, y se rige por lo publicado en el boletín oficial."
+  holiday: "Los dos primeros días del Año Nuevo lunar son festivo público nacional, con fundamento jurídico en la Holidays Act 1951 (Act 369) y en los boletines oficiales de cada estado."
+  etiquette: "Las «puertas abiertas» (rumah terbuka) entre comunidades permiten que familiares y amigos de distintas etnias se visiten para felicitarse el año nuevo; los obsequios y los sobres rojos que se llevan a estas visitas suelen ir en cifras pares, de buen augurio, y por lo general se evitan los números que contienen el «cuatro»."
 ---
 
 En la víspera de Año Nuevo, muchas tiendas cierran temprano y las autopistas se llenan de coches que ponen rumbo a los pueblos natales. Al caer la tarde, la familia se reúne en torno a una misma mesa, con pescado encima (por lo de «excedente cada año»), un pollo entero, albóndigas que simbolizan la reunión y un plato frío de yee sang, pensado para levantarlo bien alto con los palillos. Muchas familias chinas de Malasia consideran esta cena de reunión de la víspera más importante que el primer día del nuevo año en sí.

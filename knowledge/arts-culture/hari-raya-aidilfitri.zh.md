@@ -76,6 +76,12 @@ relations:
 related: ["balik-kampung", "kampung", "public-holidays-malaysia", "religion-statistics"]
 keywords: ["Hari Raya Aidilfitri", "1 Syawal", "balik kampung", "duit raya", "rumah terbuka", "ziarah kubur", "zakat fitrah", "cuti umum Aidilfitri"]
 framework: history-culture
+festivalFacts:
+  what: "标志着斋戒月 Ramadan 一个月斋戒结束的庆典,于 1 Syawal 庆祝;围绕它形成了返乡(balik kampung)、互相请求原谅、派发节日红包(duit raya)、开放门户(rumah terbuka)与扫墓(ziarah kubur)等习俗。"
+  who: "由马来西亚的穆斯林庆祝。"
+  when: "伊斯兰历(太阴历)的 1 Syawal;其日期在公历上每年约提早 11 天,并通过观测新月(rukyah)来确定。"
+  holiday: "首日与第二日在全马来西亚被列入宪报,定为联邦公共假期。"
+  etiquette: "欢迎各族宾客到开放门户(rumah terbuka)作客;衣着应端庄,并通常在进屋前脱鞋。"
 ---
 
 在斋戒月（Ramadan）的最后一夜，整个国家仿佛同时行动起来。南北大道塞车数小时，巴士站挤满行囊与饼干盒，从城市到偏远乡村（kampung）的屋前走廊都点起了油灯（pelita）。翌日，开斋月初一（1 Syawal），一个月的斋戒结束——马来西亚迎来开斋节（Hari Raya Aidilfitri）。

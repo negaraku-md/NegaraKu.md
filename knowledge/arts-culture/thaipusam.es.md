@@ -86,6 +86,12 @@ relations:
 related: ["selangor", "penang", "religion-statistics", "article-3-religion"]
 keywords: ["Thaipusam Malasia", "Batu Caves Thaipusam", "kavadi", "procesión del carro de plata", "Señor Murugan", "272 escalones", "paal kudam", "Templo de la Cima de la Cascada Penang", "Thaipusam festivo"]
 framework: history-culture
+festivalFacts:
+  what: "Una festividad hindú en honor al Señor Murugan (Subramaniam), conocida sobre todo en Malasia por la peregrinación masiva que sube los 272 escalones del templo de Batu Caves, en Gombak, Selangor, con procesiones de carros de plata en Kuala Lumpur y Penang."
+  who: "La observa principalmente la comunidad hindú tamil de Malasia."
+  when: "El mes tamil de Thai, en torno a finales de enero o febrero de cada año; la fecha exacta sigue el calendario tamil."
+  holiday: "Es día festivo únicamente en los estados y territorios federales que lo decretan en el boletín oficial (entre ellos Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor y Kedah), no una festividad federal de ámbito nacional."
+  etiquette: "Los no hindúes pueden presenciar las procesiones y la subida; vista con recato cerca del templo, descálcese donde se requiera y pida permiso antes de fotografiar a los devotos que portan el kavadi."
 ---
 
 Antes del amanecer, una colina de piedra caliza en el extremo norte de Kuala Lumpur se llena de sonido: tambores, cánticos, el roce de cientos de miles de pies descalzos sobre la piedra. Al pie de una escalinata de 272 escalones se alza una figura dorada más alta que un edificio de catorce plantas. La subida ha comenzado, y no se detendrá durante gran parte del día.

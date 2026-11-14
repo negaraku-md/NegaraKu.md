@@ -67,6 +67,12 @@ relations:
 related: ["religion-statistics", "public-holidays-malaysia", "batik"]
 keywords: ["deepavali malaysia", "festival of lights malaysia", "hindu festival malaysia", "deepavali public holiday", "deepavali sarawak", "hari deepavali", "diwali malaysia"]
 framework: history-culture
+festivalFacts:
+  what: "ヒンドゥー教の光の祭り——サンスクリット語の「一列の灯火」に由来する——で、伝統の中では闇に対する光の勝利として語られる。家々は油の灯明で照らされ、コーラム(kolam)で飾られ、家族は開放門戸(オープンハウス)を催す。"
+  who: "マレーシアのヒンドゥー教徒の共同体によって行われ、その大半は南インドのタミル暦に従う。"
+  when: "太陰暦のヒンドゥー(タミル)暦によって定められ、通常は10月または11月。官報で公示される日付は毎年変動し、変更の可能性があるものとして扱われる。"
+  holiday: "官報に公示される連邦の公休日で、独自の公休日制度を保つサラワク(Sarawak)を除くすべての州および連邦直轄領で祝われる。"
+  etiquette: "来客は開放門戸(オープンハウス)に歓迎される。控えめな服装をし、家や寺院に入る前には靴を脱ぎ、菓子の小さな贈り物が慣例的な心遣いとされる。"
 ---
 
 その一夜、語るのは灯りである。小さな素焼きの灯明が戸口や窓辺に一列に並べられ、戸口の敷居には彩色した米や粉で描いた床模様が置かれ、一時間前まで暗闇だった家が炎の輪郭に浮かび上がる。これこそがこの祭りの名の由来である——*ディーパバリ（Deepavali）*は、サンスクリット語で「一列、あるいは連なる灯り」を意味する言葉に由来する。

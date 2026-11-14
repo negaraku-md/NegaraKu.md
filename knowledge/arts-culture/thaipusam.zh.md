@@ -86,6 +86,12 @@ relations:
 related: ["selangor", "penang", "religion-statistics", "article-3-religion"]
 keywords: ["Thaipusam Malaysia", "Batu Caves Thaipusam", "kavadi", "silver chariot procession", "Lord Murugan", "272 steps", "paal kudam", "Waterfall Hilltop Temple Penang", "Thaipusam public holiday"]
 framework: history-culture
+festivalFacts:
+  what: "一个敬奉大宝森神 Murugan(Subramaniam)的印度教节日,在马来西亚最为人熟知的是信众大规模登上 Selangor 州 Gombak 的 Batu Caves 庙宇 272 级台阶朝圣,并在 Kuala Lumpur 和 Penang 举行银马车游行。"
+  who: "主要由马来西亚的淡米尔印度教社群庆祝。"
+  when: "淡米尔历的 Thai 月——每年约在一月下旬或二月;确切日期依淡米尔历而定。"
+  holiday: "仅在将其列入宪报的州属与联邦直辖区(包括 Kuala Lumpur、Putrajaya、Selangor、Penang、Perak、Negeri Sembilan、Johor 及 Kedah)为公共假期——并非全国性联邦假期。"
+  etiquette: "欢迎非印度教徒观看游行与登阶;在庙宇附近应衣着端庄,在需要之处脱鞋,拍摄肩扛 kavadi 的信众前应先征询同意。"
 ---
 
 天未破晓，吉隆坡北缘一座石灰岩山丘便已充满声响——鼓声、诵经声，以及数十万赤足在石阶上摩擦的声音。272级台阶的底部，矗立着一尊比十四层楼建筑物还高的金色神像。攀登开始了，而且几乎要持续一整天才会停下。

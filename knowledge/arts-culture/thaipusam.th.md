@@ -86,6 +86,12 @@ relations:
 related: ["selangor", "penang", "religion-statistics", "article-3-religion"]
 keywords: ["Thaipusam Malaysia", "Batu Caves Thaipusam", "kavadi", "silver chariot procession", "Lord Murugan", "272 steps", "paal kudam", "Waterfall Hilltop Temple Penang", "Thaipusam public holiday"]
 framework: history-culture
+festivalFacts:
+  what: "เทศกาลฮินดูเพื่อถวายสักการะพระมุรุกัน (Murugan) หรือพระสุพรหมณยัม (Subramaniam) ซึ่งในมาเลเซียเป็นที่รู้จักมากที่สุดจากการจาริกแสวงบุญครั้งใหญ่ขึ้นบันได 272 ขั้นสู่วัดถ้ำ Batu Caves ใน Gombak รัฐ Selangor พร้อมขบวนแห่ราชรถเงินใน Kuala Lumpur และ Penang"
+  who: "ปฏิบัติกันเป็นหลักโดยชุมชนชาวฮินดูทมิฬของมาเลเซีย"
+  when: "เดือนทมิฬที่ชื่อว่า Thai — ราวปลายเดือนมกราคมหรือเดือนกุมภาพันธ์ของแต่ละปี โดยวันที่แน่นอนเป็นไปตามปฏิทินทมิฬ"
+  holiday: "เป็นวันหยุดราชการเฉพาะในรัฐและดินแดนสหพันธ์ที่ประกาศในราชกิจจานุเบกษา (รวมถึง Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor และ Kedah) เท่านั้น — ไม่ใช่วันหยุดสหพันธ์ทั่วประเทศ"
+  etiquette: "ผู้ที่ไม่ใช่ชาวฮินดูยินดีต้อนรับให้มาชมขบวนแห่และการปีนบันได ควรแต่งกายสุภาพเมื่ออยู่ใกล้วัด ถอดรองเท้าในที่ที่กำหนด และขออนุญาตก่อนถ่ายภาพผู้ศรัทธาที่แบกกาวาดี (kavadi)"
 ---
 
 ก่อนรุ่งอรุณ เนินหินปูนที่ขอบด้านเหนือของกัวลาลัมเปอร์เต็มไปด้วยเสียง — กลอง การสวด เสียงเท้าเปล่าหลายแสนคู่ที่ย่ำบนหิน ที่เชิงบันได 272 ขั้นยืนตระหง่านรูปทองคำที่สูงกว่าตึกสิบสี่ชั้น การปีนได้เริ่มขึ้น และมันจะไม่หยุดตลอดเกือบทั้งวัน

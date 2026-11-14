@@ -86,6 +86,12 @@ relations:
 related: ["selangor", "penang", "religion-statistics", "article-3-religion"]
 keywords: ["Thaipusam Malaysia", "Batu Caves Thaipusam", "kavadi", "silver chariot procession", "Lord Murugan", "272 steps", "paal kudam", "Waterfall Hilltop Temple Penang", "Thaipusam public holiday"]
 framework: history-culture
+festivalFacts:
+  what: "Perayaan Hindu yang memuliakan Dewa Murugan (Subramaniam), paling terkenal di Malaysia dengan ziarah beramai-ramai mendaki 272 anak tangga di kuil Batu Caves di Gombak, Selangor, serta perarakan rata perak di Kuala Lumpur dan Penang."
+  who: "Disambut terutamanya oleh komuniti Hindu Tamil di Malaysia."
+  when: "Bulan Thai dalam takwim Tamil — sekitar hujung Januari atau Februari setiap tahun; tarikh tepatnya mengikut kalendar Tamil."
+  holiday: "Cuti umum hanya di negeri dan wilayah persekutuan yang mewartakannya (termasuk Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor dan Kedah) — bukan cuti persekutuan seluruh negara."
+  etiquette: "Golongan bukan Hindu dialu-alukan untuk menyaksikan perarakan dan pendakian; berpakaian sopan berhampiran kuil, tanggalkan kasut di tempat yang memerlukan, dan minta kebenaran sebelum memotret penganut yang mengusung kavadi."
 ---
 
 Sebelum subuh, sebuah bukit batu kapur di pinggir utara Kuala Lumpur dipenuhi bunyi — gendang, nyanyian, hentakan beratus ribu kaki ayam di atas batu. Di kaki tangga bertingkat 272, berdiri sebuah patung emas yang lebih tinggi daripada bangunan empat belas tingkat. Pendakian bermula, dan ia tidak akan berhenti hampir sepanjang hari.

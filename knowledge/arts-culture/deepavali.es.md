@@ -68,6 +68,12 @@ relations:
 related: ["religion-statistics", "public-holidays-malaysia", "batik"]
 keywords: ["deepavali malasia", "festival de las luces malasia", "festival hindú malasia", "deepavali feriado público", "deepavali sarawak", "hari deepavali", "diwali malasia"]
 framework: history-culture
+festivalFacts:
+  what: "La festividad hindú de las luces —del sánscrito «una hilera de luces»— descrita en la tradición como el triunfo de la luz sobre la oscuridad; los hogares se iluminan con lámparas de aceite, se decoran con kolam y las familias celebran casas abiertas."
+  who: "La observa la comunidad hindú de Malasia, en su mayoría seguidora del calendario tamil del sur de la India."
+  when: "La fija el calendario lunar hindú (tamil), por lo general en octubre o noviembre; la fecha del boletín oficial cambia cada año y se señala como sujeta a cambios."
+  holiday: "Festividad pública federal decretada en el boletín oficial y observada en todos los estados y Territorios Federales salvo Sarawak, que mantiene su propio calendario de festivos públicos."
+  etiquette: "Se da la bienvenida a los visitantes en las casas abiertas; vista con recato, descálcese antes de entrar en una casa o un templo y un pequeño obsequio de dulces es un gesto de costumbre."
 ---
 
 Por una noche, es la lámpara la que habla. Se disponen hileras de pequeñas lámparas de arcilla a lo largo de puertas y alféizares, se traza en el umbral un dibujo de suelo hecho con arroz o polvo de colores, y una casa que una hora antes estaba a oscuras queda perfilada por las llamas. De ahí toma el festival su nombre: *Deepavali* viene del sánscrito «una hilera o serie de luces».

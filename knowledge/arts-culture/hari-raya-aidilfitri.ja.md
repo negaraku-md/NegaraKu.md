@@ -75,6 +75,12 @@ relations:
 related: ["balik-kampung", "kampung", "public-holidays-malaysia", "religion-statistics"]
 keywords: ["Hari Raya Aidilfitri", "1 Syawal", "balik kampung", "duit raya", "rumah terbuka", "ziarah kubur", "zakat fitrah", "cuti umum Aidilfitri"]
 framework: history-culture
+festivalFacts:
+  what: "ラマダン(Ramadan)の一か月の断食の終わりを告げる祝祭で、1 Syawal に祝われる。その周囲には帰省、互いに許しを請うこと、お年玉(duit raya)、開放門戸(rumah terbuka)、墓参りといった慣習が形づくられている。"
+  who: "マレーシアのイスラム教徒によって祝われる。"
+  when: "太陰暦における 1 Syawal。その日付は西暦では毎年およそ11日ずつ早まり、新月の観測(rukyah)によって定められる。"
+  holiday: "初日と2日目はマレーシア全土で連邦の公休日として官報に公示される。"
+  etiquette: "さまざまな民族の客が開放門戸(rumah terbuka)に歓迎される。控えめな服装をし、通常は家に入る前に靴を脱ぐ。"
 ---
 
 ラマダン最後の夜、国じゅうが一斉に動き出したかのようになる。南北を結ぶ高速道路は何時間も渋滞し、バスターミナルはバッグや菓子の容器で埋め尽くされ、都市部から辺境の村（kampung）に至るまで、家々の軒先には灯明（pelita）がともる。翌日、シャワル月1日（1 Syawal）——1か月にわたる断食が終わり、マレーシアはハリラヤ・アイディルフィトリ（Hari Raya Aidilfitri）を迎える。

@@ -68,6 +68,12 @@ relations:
 related: ["religion-statistics", "public-holidays-malaysia", "batik"]
 keywords: ["deepavali malaisie", "fête des lumières malaisie", "fête hindoue malaisie", "deepavali jour férié", "deepavali sarawak", "hari deepavali", "diwali malaisie"]
 framework: history-culture
+festivalFacts:
+  what: "La fête hindoue des lumières — du sanskrit signifiant « une rangée de lumières » — décrite dans la tradition comme le triomphe de la lumière sur les ténèbres ; les maisons sont illuminées de lampes à huile, décorées de kolam, et les familles tiennent des maisons ouvertes."
+  who: "Observée par la communauté hindoue de Malaisie, dont la plupart suivent le calendrier tamoul du sud de l'Inde."
+  when: "Fixée par le calendrier hindou (tamoul) lunaire, généralement en octobre ou novembre ; la date publiée au journal officiel change chaque année et est indiquée comme susceptible de modification."
+  holiday: "Un jour férié fédéral publié au journal officiel et observé dans chaque État et territoire fédéral, à l'exception du Sarawak, qui conserve son propre calendrier de jours fériés."
+  etiquette: "Les visiteurs sont les bienvenus aux maisons ouvertes ; habillez-vous avec sobriété, retirez vos chaussures avant d'entrer dans une maison ou un temple, et un petit cadeau de sucreries est un geste de coutume."
 ---
 
 Pour une nuit, c'est la lampe qui parle. Des rangées de petites lampes d'argile sont disposées le long des portes et des rebords de fenêtres, un motif au sol de riz ou de poudre colorée est tracé sur le seuil, et une maison qui était sombre une heure plus tôt se dessine dans la flamme. C'est de là que la fête tire son nom : *Deepavali* vient du sanskrit « une rangée ou une série de lumières ».

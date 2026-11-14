@@ -68,6 +68,12 @@ relations:
 related: ["religion-statistics", "public-holidays-malaysia", "batik"]
 keywords: ["deepavali malaysia", "festival of lights malaysia", "hindu festival malaysia", "deepavali public holiday", "deepavali sarawak", "hari deepavali", "diwali malaysia"]
 framework: history-culture
+festivalFacts:
+  what: "빛의 힌두교 축제로 — 산스크리트어로 '빛의 줄'을 뜻하며 — 전통에서는 어둠에 대한 빛의 승리로 묘사된다. 집집마다 기름 등잔으로 불을 밝히고 콜람(kolam)으로 장식하며, 가족들은 개방 가옥을 연다."
+  who: "말레이시아의 힌두교 공동체가 지키며, 그 대부분은 남인도 타밀력을 따른다."
+  when: "힌두(타밀) 음력으로 정해지며 대개 10월이나 11월이다. 관보에 고시되는 날짜는 매년 바뀌며 변경될 수 있는 것으로 표시된다."
+  holiday: "관보에 고시되는 연방 공공 공휴일로, 자체 공휴일 일정을 유지하는 Sarawak을 제외한 모든 주와 연방직할지에서 지켜진다."
+  etiquette: "방문객은 개방 가옥에 환영받으며, 단정하게 옷을 입고, 집이나 사원에 들어가기 전에 신발을 벗으며, 단것을 담은 작은 선물은 관습적인 예의 표시이다."
 ---
 
 하룻밤 동안은 등불이 말을 합니다. 작은 흙 등불들이 문간과 창턱을 따라 줄지어 놓이고, 색색의 쌀이나 가루로 그린 바닥 문양이 문지방에 깔리며, 한 시간 전만 해도 어두웠던 집이 불꽃으로 윤곽을 드러냅니다. 바로 여기서 축제의 이름이 나옵니다. *디파발리(Deepavali)*는 '한 줄, 곧 이어진 빛'을 뜻하는 산스크리트어에서 왔습니다.

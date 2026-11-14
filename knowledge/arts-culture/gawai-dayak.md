@@ -77,6 +77,12 @@ relations:
 related: ["kaamatan", "sarawak"]
 keywords: ["Gawai Dayak", "Hari Gawai", "harvest festival Sarawak", "Dayak", "Iban", "Bidayuh", "Orang Ulu", "miring", "ngajat", "tuak", "Tuai Rumah", "Gayu Guru Gerai Nyamai"]
 framework: history-culture
+festivalFacts:
+  what: "The harvest festival of the Dayak peoples of Sarawak, giving thanks for the padi (rice) harvest; built around longhouse rituals — the miring thanksgiving offering led by the Tuai Rumah, a midnight toast of Ai Pengayu (tuak) and the ngajat dance."
+  who: "The Dayak communities of Sarawak — chiefly the Iban, Bidayuh and Orang Ulu groups (Kayan, Kenyah, Kelabit, Lun Bawang and others)."
+  when: "Every year on 1 and 2 June; the observance begins on the evening of 31 May, and the wider Gawai season is formally closed by the ngiling tikai ('rolling up the mat') towards the end of June."
+  holiday: "A public holiday in the state of Sarawak (gazetted 25 September 1964)."
+  etiquette: "The longhouse door is thrown open — hospitality to visiting family, neighbours and guests is part of the festival; a common greeting is 'Gayu Guru, Gerai Nyamai' (long life, health, prosperity), or 'Selamat Hari Gawai'. It is first a family and longhouse observance, not a tourist show."
 ---
 
 The clock has not yet struck midnight on the last day of May, and in a longhouse somewhere along a Sarawak river the gong is waiting. The rice is in. The gallery has been swept and hung with fresh mats. A jar of tuak sits ready. When the gong finally sounds, the longhouse chief will raise a cup, and everyone down the long communal veranda will drink to the same three words: long life, health, prosperity.

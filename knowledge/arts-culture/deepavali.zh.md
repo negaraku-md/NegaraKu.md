@@ -68,6 +68,12 @@ relations:
 related: ["religion-statistics", "public-holidays-malaysia", "batik"]
 keywords: ["deepavali malaysia", "festival of lights malaysia", "hindu festival malaysia", "deepavali public holiday", "deepavali sarawak", "hari deepavali", "diwali malaysia"]
 framework: history-culture
+festivalFacts:
+  what: "印度教的灯节——源自梵语,意为「一排灯」——在传统中被描述为光明战胜黑暗;家家以油灯点亮,以 kolam 装饰,各家庭举办开放门户。"
+  who: "由马来西亚的印度教社群庆祝,其中大多数遵循南印度的淡米尔历。"
+  when: "依印度教(淡米尔)太阴历而定,通常在十月或十一月;列入宪报的日期每年变动,并注明可能有所更改。"
+  holiday: "列入宪报的联邦公共假期,在除 Sarawak 以外的每个州属与联邦直辖区均予庆祝,Sarawak 则有自己的公共假期安排。"
+  etiquette: "欢迎访客到开放门户作客;衣着应端庄,进入住家或庙宇前脱鞋,并习惯以一份甜点小礼作为礼节性的馈赠。"
 ---
 
 这一晚，说话的是灯火。一排排小陶灯沿着门口与窗台摆放，门槛上铺着彩色米粒或粉末拼成的地板图案，一个小时前还漆黑一片的房子，如今被火光勾勒出轮廓。这正是这个节日名称的由来：*屠妖节（Deepavali）*一词源自梵文「一排或一系列灯火」。

@@ -70,6 +70,12 @@ relations:
 related: ["population-composition", "religion-statistics", "languages-spoken", "batik"]
 keywords: ["农历新年", "华人新年", "春节", "团圆饭", "红包", "压岁钱", "舞狮", "捞生", "鱼生", "十五暝", "Chap Goh Meh", "开放门户", "马来西亚华人", "公共假期", "Chinese New Year Malaysia"]
 framework: history-culture
+festivalFacts:
+  what: "Perayaan terpenting dalam setahun bagi komunitas Tionghoa Malaysia, dengan reuni keluarga sebagai intinya — jamuan reuni malam tahun baru, angpau, tarian singa, yee sang; masa perayaan secara tradisional berlangsung selama lima belas hari, berakhir pada Cap Go Meh (di Malaysia lazim disebut 十五暝/Chap Goh Meh)."
+  who: "Dirayakan terutama oleh komunitas Tionghoa Malaysia; orang Tionghoa mencakup sekitar dua persepuluh populasi warga negara (DOSM pada 2025: 22,2%)."
+  when: "Hari pertama bulan pertama kalender imlek; tanggal Masehi yang bersesuaian berubah setiap tahun mengikuti kalender imlek, dengan acuan pengumuman warta resmi."
+  holiday: "Dua hari pertama Tahun Baru Imlek adalah hari libur umum nasional, dengan dasar hukum Holidays Act 1951 (Act 369) serta warta masing-masing negara bagian."
+  etiquette: "\"Rumah terbuka\" (rumah terbuka) lintas etnis memungkinkan kerabat dan teman dari berbagai etnis saling berkunjung untuk mengucapkan selamat tahun baru; buah tangan dan angpau untuk kunjungan biasanya dalam jumlah genap yang dianggap membawa keberuntungan, dan umumnya menghindari angka yang mengandung \"empat\"."
 ---
 
 Pada malam tahun baru, banyak kedai tutup lebih awal, dan jalan raya dipenuhi kendaraan menuju kampung halaman. Menjelang malam, keluarga berkumpul di satu meja — ada ikan (melambangkan "kelebihan setiap tahun"), seekor ayam utuh, bola daging yang melambangkan reuni keluarga, serta hidangan yee sang dingin yang perlu diaduk tinggi-tinggi dengan sumpit. Makan malam reuni keluarga pada malam tahun baru ini dianggap oleh banyak keluarga Tionghoa Malaysia sebagai lebih penting daripada hari pertama tahun baru itu sendiri.

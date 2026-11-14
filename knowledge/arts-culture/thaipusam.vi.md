@@ -86,6 +86,12 @@ relations:
 related: ["selangor", "penang", "religion-statistics", "article-3-religion"]
 keywords: ["Thaipusam Malaysia", "Batu Caves Thaipusam", "kavadi", "silver chariot procession", "Lord Murugan", "272 steps", "paal kudam", "Waterfall Hilltop Temple Penang", "Thaipusam public holiday"]
 framework: history-culture
+festivalFacts:
+  what: "Một lễ hội của Ấn Độ giáo tôn vinh thần Murugan (Subramaniam), nổi tiếng nhất ở Malaysia với cuộc hành hương đông đảo lên 272 bậc thang tại đền Batu Caves ở Gombak, Selangor, cùng những đoàn rước xe ngựa bằng bạc ở Kuala Lumpur và Penang."
+  who: "Chủ yếu được cộng đồng người Hindu gốc Tamil ở Malaysia tuân giữ."
+  when: "Tháng Thai theo lịch Tamil — khoảng cuối tháng Một hoặc tháng Hai mỗi năm; ngày chính xác theo lịch Tamil."
+  holiday: "Chỉ là ngày nghỉ lễ công cộng ở những bang và lãnh thổ liên bang có công bố (gồm Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor và Kedah) — không phải ngày nghỉ lễ liên bang trên toàn quốc."
+  etiquette: "Người không theo Ấn Độ giáo được chào đón đến xem các đoàn rước và cuộc leo bậc thang; hãy ăn mặc kín đáo khi ở gần đền, cởi giày nơi được yêu cầu, và xin phép trước khi chụp ảnh những tín đồ mang kavadi."
 ---
 
 Trước bình minh, một ngọn đồi đá vôi ở rìa phía bắc Kuala Lumpur tràn ngập âm thanh — tiếng trống, tiếng tụng niệm, tiếng lê bước của hàng trăm nghìn bàn chân trần trên đá. Ở chân một cầu thang 272 bậc đứng một dáng hình vàng cao hơn một tòa nhà mười bốn tầng. Cuộc leo đã bắt đầu, và nó sẽ không dừng lại trong gần cả một ngày.

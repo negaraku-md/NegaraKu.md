@@ -76,6 +76,12 @@ relations:
 related: ["balik-kampung", "kampung", "public-holidays-malaysia", "religion-statistics"]
 keywords: ["Hari Raya Aidilfitri", "1 Syawal", "balik kampung", "duit raya", "rumah terbuka", "ziarah kubur", "zakat fitrah", "cuti umum Aidilfitri"]
 framework: history-culture
+festivalFacts:
+  what: "한 달간의 라마단 금식이 끝난 것을 기리는 명절로 1 Syawal에 맞이하며, 그 둘레로 고향 방문(balik kampung), 용서 구하기, 명절 용돈(duit raya), 개방 가옥(rumah terbuka), 성묘(ziarah kubur)의 관습이 형성된다."
+  who: "말레이시아의 무슬림이 맞이한다."
+  when: "음력(qamari)의 1 Syawal이며, 그 날짜는 그레고리력에서 매년 약 11일씩 앞당겨지고 초승달 관측(rukyah)을 통해 정해진다."
+  holiday: "첫째 날과 둘째 날은 말레이시아 전역에서 연방 공공 공휴일로 관보에 고시된다."
+  etiquette: "여러 민족의 손님을 개방 가옥에 환영하며, 단정하게 옷을 입고, 대개 집에 들어가기 전에 신발을 벗는다."
 ---
 
 라마단의 마지막 밤, 온 나라가 한꺼번에 움직이는 듯합니다. 남북 고속도로는 몇 시간씩 막히고, 버스 정류장은 가방과 과자 통으로 가득하며, 도시에서 시골 구석까지 집 베란다에 플리타 등불이 켜집니다. 이튿날인 샤왈 1일, 한 달간의 단식이 끝나고 — 말레이시아는 하리 라야 아이딜피트리를 맞이합니다.

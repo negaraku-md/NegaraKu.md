@@ -79,6 +79,12 @@ relations:
 related: ["religion-statistics", "article-3-religion", "sarawak", "sabah"]
 keywords: ["Christmas in Malaysia", "Christmas Day public holiday Malaysia", "Christmas Eve Sabah holiday", "Malaysian open house Christmas", "Christians in Malaysia", "Midnight Mass Malaysia", "Holidays Act 1951 Christmas"]
 framework: history-culture
+festivalFacts:
+  what: "A Christian religious festival commemorating the birth of Jesus Christ. In Malaysia religious observance commonly centres on church services, including a Christmas Eve Midnight Mass and carols, alongside a broad social season of open houses and decorations."
+  who: "Malaysia's Christian community — about 2.9 million people at the 2020 census, most numerous in Sarawak and Sabah — observes it religiously; the wider decorative and social season is marked by Malaysians of many backgrounds."
+  when: "Christmas Day falls on 25 December each year, with a decorative and retail season from around late November."
+  holiday: "Christmas Day, 25 December, is a public holiday nationwide across all states and federal territories (First Schedule of the Holidays Act 1951 (Act 369) on the Peninsula; state ordinances in Sabah and Sarawak). Sabah additionally gazettes Christmas Eve, 24 December, as a state public holiday under the Sabah Holidays Ordinance (Cap. 56)."
+  etiquette: "The open-house tradition of hosting guests of any background for a shared meal is applied to Christmas as to other festivals; Christian families who host commonly welcome guests of other faiths, and visiting runs in both directions across the festival calendar."
 ---
 
 On the evening of 24 December, a church in Kota Kinabalu or Kuching fills for a late service, while a few hundred kilometres away on the Peninsula the same date is an ordinary working Thursday. The next morning, 25 December, the whole country is off work. That split — one date, two very different statuses — is the neatest way to understand how Christmas sits in Malaysia: a religious festival for one community, a public holiday for everyone, and a season of open doors that many take part in regardless of faith.

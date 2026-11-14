@@ -70,6 +70,12 @@ relations:
 related: ["population-composition", "religion-statistics", "languages-spoken", "batik"]
 keywords: ["农历新年", "华人新年", "春节", "团圆饭", "红包", "压岁钱", "舞狮", "捞生", "鱼生", "十五暝", "Chap Goh Meh", "开放门户", "马来西亚华人", "公共假期", "Chinese New Year Malaysia"]
 framework: history-culture
+festivalFacts:
+  what: "Perayaan paling penting dalam setahun bagi komuniti Cina di Malaysia, dengan perhimpunan keluarga sebagai terasnya — jamuan perhimpunan malam sebelum tahun baharu, sampul merah, tarian singa, yee sang; tempoh perayaan secara tradisinya berlangsung selama lima belas hari, berakhir pada perayaan tanglung (di Malaysia lazim dikenali sebagai Chap Goh Meh)."
+  who: "Disambut terutamanya oleh komuniti Cina di Malaysia; kaum Cina membentuk kira-kira dua puluh peratus daripada penduduk warganegara (DOSM 2025: 22.2%)."
+  when: "Hari pertama bulan pertama kalendar lunar; tarikh Masihi yang sepadan berubah setiap tahun mengikut kalendar lunar, dan tertakluk kepada pengumuman warta rasmi."
+  holiday: "Dua hari pertama Tahun Baharu Cina merupakan cuti umum di seluruh negara, dengan asas perundangannya ialah Akta Cuti 1951 (Holidays Act 1951, Act 369) serta warta setiap negeri."
+  etiquette: "\"Rumah terbuka\" yang merentas kaum membolehkan saudara-mara dan rakan daripada pelbagai etnik saling berkunjung untuk mengucapkan selamat tahun baharu; hadiah tangan dan sampul merah yang dibawa ketika berkunjung lazimnya dalam jumlah genap sebagai lambang tuah, dan umumnya mengelakkan nombor yang mengandungi angka \"empat\"."
 ---
 
 Pada malam tahun baharu, banyak kedai tutup awal, dan lebuh raya dipenuhi kenderaan menuju ke kampung halaman. Menjelang malam, keluarga berkumpul di satu meja — terdapat ikan (melambangkan "lebihan setiap tahun"), seekor ayam utuh, bebola daging yang melambangkan perhimpunan keluarga, serta hidangan yee sang sejuk yang perlu dikacau tinggi dengan penyepit. Makan malam perhimpunan keluarga pada malam tahun baharu ini dianggap oleh ramai keluarga Cina Malaysia sebagai lebih penting daripada hari pertama tahun baharu itu sendiri.

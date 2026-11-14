@@ -77,6 +77,12 @@ relations:
 related: ["balik-kampung", "kampung", "public-holidays-malaysia", "religion-statistics"]
 keywords: ["Hari Raya Aidilfitri", "1 Syawal", "balik kampung", "duit raya", "rumah terbuka", "ziarah kubur", "zakat fitrah", "cuti umum Aidilfitri"]
 framework: history-culture
+festivalFacts:
+  what: "Perayaan yang menandai berakhirnya sebulan puasa Ramadan, disambut pada 1 Syawal; di sekelilingnya terbentuk kebiasaan pulang kampung, memohon maaf, duit raya, rumah terbuka dan ziarah kubur."
+  who: "Disambut oleh umat Islam di Malaysia."
+  when: "1 Syawal dalam kalender qamariah; tanggalnya bergeser lebih awal kira-kira 11 hari setiap tahun pada kalender Masehi dan ditetapkan melalui rukyah anak bulan."
+  holiday: "Hari pertama dan kedua diwartakan sebagai hari libur umum persekutuan di seluruh Malaysia."
+  etiquette: "Tamu dari berbagai etnis disambut di rumah terbuka; berpakaianlah sopan, dan lazimnya melepas alas kaki sebelum masuk ke rumah."
 ---
 
 Pada malam terakhir Ramadan, seluruh negara seolah-olah bergerak sekaligus. Jalan raya utara–selatan macet berjam-jam, stasiun bus penuh tas dan wadah kue, dan lampu pelita menyala di beranda rumah dari kota hingga ke pelosok kampung. Keesokannya, 1 Syawal, sebulan berpuasa berakhir — dan Malaysia merayakan Hari Raya Aidilfitri.

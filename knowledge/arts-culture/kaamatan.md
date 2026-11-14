@@ -79,6 +79,12 @@ relations:
 related: ["sabah", "population-composition", "wau"]
 keywords: ["Pesta Kaamatan", "Tadau Kaamatan", "Kadazandusun harvest festival", "Unduk Ngadau", "Bambaazon", "Huminodun", "Magavau", "KDCA", "Sabah"]
 framework: history-culture
+festivalFacts:
+  what: "Pesta Kaamatan (Tadau Kaamatan), the Kadazandusun harvest festival of Sabah; thanksgiving for the rice harvest, centred on the rice spirit Bambaazon (Bambarayon) and the legend of Huminodun. Key elements include the Magavau ritual (led by a bobohizan), the Sumazau dance, and the Unduk Ngadau cultural pageant."
+  who: "The Kadazan, Dusun, Murut, Rungus, Lundayeh and other indigenous communities of Sabah (often grouped as Kadazandusun); celebrations are also held by Sabahan communities elsewhere in Malaysia."
+  when: "30 and 31 May, with celebrations running through much of May district by district before the state-level finale on those two days."
+  holiday: "A public holiday in the state of Sabah and the federal territory of Labuan on 30 and 31 May; not a nationwide public holiday."
+  etiquette: "Understand the Unduk Ngadau as a cultural pageant honouring the Huminodun legend, not an ordinary beauty contest, and treat the Bambaazon belief and Huminodun legend respectfully as the community's own tradition rather than asserted fact."
 ---
 
 The festival is named after a single idea: the harvest. *Kaamatan* means exactly that in the Kadazandusun language, and everything else in the celebration — the ritual, the rice wine, the pageant crowned on the last evening — grows out of that one act of bringing in the rice.

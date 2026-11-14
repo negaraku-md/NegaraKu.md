@@ -70,6 +70,12 @@ relations:
 related: ["population-composition", "religion-statistics", "languages-spoken", "batik"]
 keywords: ["农历新年", "华人新年", "春节", "团圆饭", "红包", "压岁钱", "舞狮", "捞生", "鱼生", "十五暝", "Chap Goh Meh", "开放门户", "马来西亚华人", "公共假期", "Chinese New Year Malaysia"]
 framework: history-culture
+festivalFacts:
+  what: "The most important festival of the year for Malaysia's Chinese community, centred on family reunion — the New Year's Eve reunion dinner, ang pow (red packets), lion dance and yee sang (lou sang); the festive period traditionally runs fifteen days, closing with the Lantern Festival (元宵, known in Malaysia as Chap Goh Meh)."
+  who: "Celebrated chiefly by Malaysia's Chinese community; the Chinese make up about a fifth of the citizen population (22.2% per DOSM in 2025)."
+  when: "The first day of the first month of the lunar calendar; the corresponding Gregorian date shifts each year with the lunar calendar and is determined by the official government gazette."
+  holiday: "The first two days of the Lunar New Year are a nationwide public holiday, with the legal basis being the Holidays Act 1951 (Act 369) and the respective state gazettes."
+  etiquette: "The cross-communal open house (rumah terbuka) lets friends and relatives of different ethnicities call on one another to extend New Year greetings; gifts brought when visiting and the ang pow given are usually in even, auspicious numbers, and numbers containing \"four\" are generally avoided."
 ---
 
 On New Year's Eve, many shops close early and the highways fill with cars heading toward hometowns. By evening, the family gathers around one table — fish on it (for "surplus every year"), a whole chicken, meatballs symbolising reunion, and a cold tossed yee sang dish meant to be lifted high with chopsticks. This New Year's Eve reunion dinner is regarded by many Malaysian Chinese families as more important than the first day of the new year itself.

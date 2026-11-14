@@ -78,6 +78,12 @@ relations:
 related: ["balik-kampung", "kampung", "public-holidays-malaysia", "religion-statistics"]
 keywords: ["Hari Raya Aidilfitri", "1 Syawal", "balik kampung", "duit raya", "rumah terbuka", "ziarah kubur", "zakat fitrah", "cuti umum Aidilfitri"]
 framework: history-culture
+festivalFacts:
+  what: "Celebración que marca el fin del mes de ayuno de Ramadan y se festeja el 1 Syawal; en torno a ella se articulan las prácticas de regresar al pueblo natal, pedir perdón, el duit raya, las casas abiertas (rumah terbuka) y la visita a las tumbas."
+  who: "La celebran los musulmanes de Malasia."
+  when: "El 1 Syawal del calendario lunar; su fecha se adelanta unos 11 días cada año en el calendario gregoriano y se fija mediante la observación de la luna nueva."
+  holiday: "El primer y el segundo día están decretados como festivo público federal en toda Malasia."
+  etiquette: "Se da la bienvenida a invitados de todas las etnias a las casas abiertas (rumah terbuka); vista con recato y, por costumbre, descálcese antes de entrar en la casa."
 ---
 
 En la última noche del Ramadán, todo el país parece ponerse en movimiento a la vez. La autopista Norte–Sur queda atascada durante horas, las estaciones de autobuses se llenan de bolsas y latas de galletas, y se encienden lámparas pelita en los porches, desde las ciudades hasta los rincones más remotos del kampung. Al día siguiente, 1 de Syawal, termina un mes de ayuno — y Malasia celebra el Hari Raya Aidilfitri.

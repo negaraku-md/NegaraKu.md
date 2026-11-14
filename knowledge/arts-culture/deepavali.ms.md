@@ -68,6 +68,12 @@ relations:
 related: ["religion-statistics", "public-holidays-malaysia", "batik"]
 keywords: ["deepavali malaysia", "festival of lights malaysia", "hindu festival malaysia", "deepavali public holiday", "deepavali sarawak", "hari deepavali", "diwali malaysia"]
 framework: history-culture
+festivalFacts:
+  what: "Perayaan cahaya Hindu — daripada perkataan Sanskrit yang bermaksud 'deretan cahaya' — digambarkan dalam tradisi sebagai kemenangan cahaya mengatasi kegelapan; rumah diterangi dengan pelita minyak, dihiasi dengan kolam, dan keluarga mengadakan rumah terbuka."
+  who: "Disambut oleh komuniti Hindu di Malaysia, yang kebanyakannya mengikut kalendar Tamil India Selatan."
+  when: "Ditetapkan mengikut kalendar Hindu (Tamil) lunar, biasanya Oktober atau November; tarikh yang diwartakan berubah setiap tahun dan ditandakan sebagai tertakluk kepada perubahan."
+  holiday: "Cuti umum persekutuan yang diwartakan dan disambut di setiap negeri dan Wilayah Persekutuan kecuali Sarawak, yang mengekalkan jadual cuti umumnya sendiri."
+  etiquette: "Pelawat dialu-alukan ke rumah terbuka; berpakaian sopan, tanggalkan kasut sebelum masuk ke rumah atau kuil, dan hadiah kecil berupa manisan merupakan satu adat kebiasaan."
 ---
 
 Untuk satu malam, pelitalah yang berbicara. Sederetan pelita tanah liat kecil disusun di sepanjang pintu masuk dan bibir tingkap, satu corak lantai daripada beras atau serbuk berwarna dilukis di ambang pintu, dan sebuah rumah yang gelap sejam sebelumnya kini bergaris cahaya api. Di situlah asal nama pesta ini: *Deepavali* berasal daripada perkataan Sanskrit bagi "sederetan atau rangkaian cahaya."

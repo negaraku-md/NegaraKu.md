@@ -70,6 +70,12 @@ relations:
 related: ["population-composition", "religion-statistics", "languages-spoken", "batik"]
 keywords: ["农历新年", "华人新年", "春节", "团圆饭", "红包", "压岁钱", "舞狮", "捞生", "鱼生", "十五暝", "Chap Goh Meh", "开放门户", "马来西亚华人", "公共假期", "Chinese New Year Malaysia"]
 framework: history-culture
+festivalFacts:
+  what: "Lễ hội quan trọng nhất trong năm của cộng đồng người Hoa ở Malaysia, lấy sự sum họp gia đình làm trọng tâm — bữa cơm đoàn viên đêm giao thừa, bao lì xì, múa lân, lao sinh (捞生); theo truyền thống, kỳ lễ kéo dài mười lăm ngày, kết thúc vào Tết Nguyên tiêu (ở Malaysia thường gọi là 十五暝/Chap Goh Meh)."
+  who: "Chủ yếu được cộng đồng người Hoa ở Malaysia ăn mừng; người Hoa chiếm khoảng hai phần mười dân số công dân (DOSM năm 2025 là 22.2%)."
+  when: "Mùng một tháng Giêng âm lịch; ngày dương lịch tương ứng thay đổi theo âm lịch mỗi năm, lấy công bố chính thức trên công báo làm chuẩn."
+  holiday: "Hai ngày đầu Tết Nguyên đán là ngày nghỉ lễ công cộng trên toàn quốc, căn cứ pháp lý là Holidays Act 1951 (Act 369) và công báo của các bang."
+  etiquette: "Phong tục «mở cửa nhà» (rumah terbuka) liên sắc tộc giúp người thân và bạn bè thuộc các dân tộc khác nhau đến nhà chúc Tết lẫn nhau; quà biếu và bao lì xì khi đến chúc Tết thường chọn số chẵn cho may mắn và phổ biến tránh những con số có chữ «bốn»."
 ---
 
 Vào ngày giao thừa, nhiều cửa hiệu đóng cửa sớm, các đường cao tốc chật kín xe hướng về quê nhà. Đến tối, cả nhà quây quần bên một chiếc bàn — trên bàn có cá (niên niên hữu dư), có nguyên một con gà, có những viên tròn mang ngụ ý đoàn viên, và một món gỏi cá phải dùng đũa hất thật cao. Bữa cơm đoàn viên đêm giao thừa này được không ít gia đình người Hoa Malaysia coi trọng hơn cả bản thân ngày mùng một Tết.

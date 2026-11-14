@@ -70,6 +70,12 @@ relations:
 related: ["population-composition", "religion-statistics", "languages-spoken", "batik"]
 keywords: ["农历新年", "华人新年", "春节", "团圆饭", "红包", "压岁钱", "舞狮", "捞生", "鱼生", "十五暝", "Chap Goh Meh", "开放门户", "马来西亚华人", "公共假期", "Chinese New Year Malaysia"]
 framework: history-culture
+festivalFacts:
+  what: "La fête la plus importante de l'année pour la communauté chinoise de Malaisie, centrée sur les retrouvailles familiales — le repas de retrouvailles du réveillon, les enveloppes rouges, la danse du lion, le yusheng ; la période dure traditionnellement quinze jours et s'achève à la fête des lanternes (appelée couramment en Malaisie Chap Goh Meh)."
+  who: "Célébrée principalement par la communauté chinoise de Malaisie ; les Chinois représentent environ deux dixièmes de la population citoyenne (22,2 % selon le DOSM en 2025)."
+  when: "Le premier jour du premier mois du calendrier lunaire ; la date grégorienne correspondante varie chaque année selon le calendrier lunaire et fait foi telle qu'elle est publiée au journal officiel."
+  holiday: "Les deux premiers jours du Nouvel An lunaire sont un jour férié national, dont le fondement juridique est le Holidays Act 1951 (Act 369) et les journaux officiels de chaque État."
+  etiquette: "La « maison ouverte » (rumah terbuka) interethnique permet à des parents et amis d'origines diverses de se rendre visite pour présenter leurs vœux ; les cadeaux d'accompagnement et les enveloppes rouges apportés lors de ces visites sont généralement en nombre pair, signe de bon augure, et l'on évite couramment les nombres contenant le « quatre »."
 ---
 
 Au réveillon du Nouvel An, beaucoup de commerces ferment tôt et les autoroutes se remplissent de voitures qui prennent la route des villages natals. À la tombée du soir, la famille se réunit autour d'une même table, avec du poisson dessus (pour « un surplus chaque année »), un poulet entier, des boulettes qui symbolisent la réunion et un plat froid de yee sang, conçu pour être soulevé bien haut avec les baguettes. Beaucoup de familles chinoises de Malaisie considèrent ce repas de réunion du réveillon comme plus important que le premier jour de la nouvelle année lui-même.

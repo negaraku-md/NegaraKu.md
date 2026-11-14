@@ -86,6 +86,12 @@ relations:
 related: ["selangor", "penang", "religion-statistics", "article-3-religion"]
 keywords: ["Thaipusam Malaisie", "Batu Caves Thaipusam", "kavadi", "procession du char d'argent", "Seigneur Murugan", "272 marches", "paal kudam", "temple de la colline de la Cascade Penang", "Thaipusam jour férié"]
 framework: history-culture
+festivalFacts:
+  what: "Une fête hindoue en l'honneur du Seigneur Murugan (Subramaniam), surtout connue en Malaisie pour le pèlerinage de masse gravissant les 272 marches du temple de Batu Caves à Gombak, dans le Selangor, avec des processions de chars d'argent à Kuala Lumpur et à Penang."
+  who: "Observée principalement par la communauté hindoue tamoule de Malaisie."
+  when: "Le mois tamoul de Thai — vers la fin janvier ou février chaque année ; la date exacte suit le calendrier tamoul."
+  holiday: "Un jour férié uniquement dans les États et territoires fédéraux qui le publient au journal officiel (notamment Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor et Kedah) — ce n'est pas un jour férié fédéral à l'échelle nationale."
+  etiquette: "Les non-hindous sont les bienvenus pour assister aux processions et à l'ascension ; habillez-vous avec sobriété à proximité du temple, retirez vos chaussures là où cela est requis, et demandez avant de photographier les dévots portant le kavadi."
 ---
 
 Avant l'aube, une colline de calcaire à l'extrémité nord de Kuala Lumpur se remplit de sons : tambours, chants, le frottement de centaines de milliers de pieds nus sur la pierre. Au pied d'un escalier de 272 marches se dresse une figure dorée plus haute qu'un immeuble de quatorze étages. L'ascension a commencé, et elle ne s'arrêtera pas pendant une grande partie de la journée.

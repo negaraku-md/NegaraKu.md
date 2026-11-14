@@ -85,6 +85,12 @@ relations:
 related: ["selangor", "penang", "religion-statistics", "article-3-religion"]
 keywords: ["Thaipusam Malaysia", "Batu Caves Thaipusam", "kavadi", "silver chariot procession", "Lord Murugan", "272 steps", "paal kudam", "Waterfall Hilltop Temple Penang", "Thaipusam public holiday"]
 framework: history-culture
+festivalFacts:
+  what: "ムルガン神(スブラマニアム、Murugan／Subramaniam)を讃えるヒンドゥー教の祭りで、マレーシアではセランゴール州ゴンバクのバトゥ洞窟(Batu Caves, Gombak, Selangor)寺院に至る272段の階段を大勢で巡礼登拝することで最もよく知られ、クアラルンプール(Kuala Lumpur)とペナン(Penang)では銀の山車による行列が行われる。"
+  who: "主にマレーシアのタミル系ヒンドゥー教徒の共同体によって行われる。"
+  when: "タミル暦のタイ(Thai)月——毎年1月下旬から2月ごろ。正確な日付はタミル暦に従う。"
+  holiday: "これを官報で公示する州および連邦直轄領(クアラルンプール(Kuala Lumpur)、プトラジャヤ(Putrajaya)、セランゴール(Selangor)、ペナン(Penang)、ペラ(Perak)、ヌグリ・スンビラン(Negeri Sembilan)、ジョホール(Johor)、ケダ(Kedah)を含む)でのみ公休日となり、全国的な連邦の祝日ではない。"
+  etiquette: "ヒンドゥー教徒でない人も行列や登拝を見学することができる。寺院の近くでは控えめな服装をし、必要な場所では靴を脱ぎ、カバディ(kavadi)を担ぐ参拝者を撮影する前には許可を求めること。"
 ---
 
 夜明け前、クアラルンプール北端の石灰岩の丘は音であふれる——太鼓の音、詠唱、そして数十万もの裸足が石の上を擦る音。272段の階段の麓には、14階建てのビルよりも高い黄金の像が立っている。登拝はすでに始まっており、丸1日近く止まることはない。
