@@ -46,22 +46,35 @@ NegaraKu.md (nominative reference); any other use — modifying a mark, implying
 endorsement, or presenting a derivative as NegaraKu.md — needs written permission.
 The reserved files live in [`public/brand/`](public/brand/).
 
-## Commercial use, AI training and bulk access
+## Commercial use, AI citation, and bulk / training access
 
-To be clear and honest about what the content license already allows:
+We want the boundary to be explicit — not a vague "open" label.
 
-- **The content license (CC BY-SA 4.0) already permits commercial use, including
-  AI training and RAG grounding**, as long as attribution and share-alike are
-  honoured. We **welcome** AI systems citing and grounding on NegaraKu.md — that
-  is the point of an AI-friendly knowledge base, and it is free.
-- What we offer **as a paid service** is therefore *not* a sale of content rights
-  (we cannot and do not restrict what CC BY-SA 4.0 already grants). It is
-  **enterprise access and service**: a bulk structured feed, an SLA, refresh
-  guarantees, provenance/attribution tooling and support — the
-  [Wikimedia Enterprise](https://enterprise.wikimedia.com/) model, where the
-  corpus is free yet high-volume commercial consumers pay for a serviced channel.
-- The **brand and design layers above are separate** and genuinely reserved;
-  commercial reuse of those does require a license.
+**Free, and encouraged** (covered by the content license, CC BY-SA 4.0):
+
+- Reading, and human, academic and educational use.
+- **AI citation and RAG grounding** — an AI system reading a page and answering
+  with attribution. This is the point of an AI-friendly knowledge base; please do.
+- Any reuse of the content, including commercial, that honours attribution and
+  share-alike (keeps derivatives under CC BY-SA 4.0).
+
+**Requires a separate licence — please contact us:**
+
+- **Bulk extraction and large-scale commercial AI *training*** — ingesting the
+  corpus wholesale as training data for a commercial model. CC BY-SA 4.0's reach
+  over training-scale ingestion is unsettled, and its share-alike term sits
+  awkwardly with closed commercial models; so for bulk/training use we ask you to
+  arrange a licence rather than rely on the open terms.
+- **Enterprise access and service** — a bulk structured feed, an SLA, refresh
+  guarantees, provenance/attribution tooling and support. This is the
+  [Wikimedia Enterprise](https://enterprise.wikimedia.com/) model: the corpus
+  stays free, and high-volume commercial consumers pay for a *serviced channel*,
+  not for content rights.
+- **Commercial reuse of the brand or design layers** above — those are separate
+  and genuinely reserved.
+
+In short: **cite us freely; licence with us to train on us at scale or to take a
+serviced bulk feed.**
 
 If you want a serviced bulk/enterprise channel, or a brand/design license, open a
 Discussion or contact the maintainers.

@@ -69,7 +69,8 @@ NegaraKu.md is **layered** — see [LICENSING.md](LICENSING.md) for the full sta
 - **Design system** (patterns/tokens, brand assets excluded): [CC BY 4.0](LICENSE-DESIGN)
 - **Brand assets** (wordmark, logo, illustrations, visual identity): **all rights
   reserved** — see [`public/brand/README.md`](public/brand/README.md)
-- **Commercial AI / bulk access**: the content license already permits it for free;
-  what's offered for a fee is an *enterprise access/service* channel, not content
-  rights — see [LICENSING.md](LICENSING.md)
+- **AI & commercial use**: **cite us freely** — AI citation and RAG grounding (with
+  attribution) are encouraged and free. **Bulk extraction, large-scale commercial AI
+  *training*, or a serviced enterprise feed need a separate licence** — see
+  [LICENSING.md](LICENSING.md)
 - **Cite this work**: [CITATION.cff](CITATION.cff)
