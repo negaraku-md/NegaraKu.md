@@ -100,6 +100,11 @@ social:
     - "MalaysianFood"
     - "NegaraKuMD"
 framework: explainer
+dishFacts:
+  what: "Roti leper yang berlapis dan dibakar di atas kuali. Doh dileperkan nipis, dilambung dan dilipat untuk memerangkap lapisan, kemudian dimasak di atas kuali berminyak sehingga rangup di luar dan lembut serta berlapis di dalam."
+  origin: "Berasal daripada India-Muslim (mamak), dibawa ke Tanah Melayu oleh pendatang India, kebanyakannya Muslim dari Tamil Nadu, pada zaman penjajahan British; rapat hubungannya dengan paratha/parotta India."
+  eat: "Biasanya dihidangkan dengan dhal (kari kacang dal) atau kuah kari; jika dilimpahkan banyak-banyak ia dipanggil banjir. Versi manis dimakan dengan gula atau susu pekat. Variannya termasuk roti telur, roti bawang, roti planta, roti tisu dan roti bom."
+  where: "Di gerai mamak — kedai makan India-Muslim yang tidak formal dengan kuali di hadapan, kebanyakannya beroperasi berjam-jam lama atau sepanjang masa. Sarapan lalai yang dimakan pada bila-bila masa, dijumpai hampir di mana-mana di Malaysia."
 ---
 
 Sedikit bunyi yang begitu khas dengan pagi di Malaysia seperti bunyi tampar dan

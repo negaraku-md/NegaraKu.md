@@ -94,6 +94,12 @@ verificationNeeded:
   - "Từ nguyên của từ 'laksa' (các giả thuyết Ba Tư, Phạn ngữ và Phúc Kiến đều lưu truyền) — hãy xác nhận với một nguồn ngôn ngữ học hoặc từ điển học chứ không phải truyền thông ẩm thực."
   - "Việc quy laksam cho Kelantan và Terengganu cùng mô tả chính xác về sợi/nước dùng của nó — hãy xác nhận với một nguồn địa phương."
 framework: explainer
+dishFacts:
+  what: "Laksa không phải một món mà là cả một họ các món bún nước của Malaysia cùng chung một kiểu — bún trong nước dùng đậm đà, thường nổi vị cá, hoàn thiện với rau thơm tươi và ớt hoặc mắm tôm — chứ không phải một công thức cố định. Các loại nước dùng khác nhau rõ rệt: nước dùng 'asam' chua me của Penang không có dừa; 'curry laksa' (laksa lemak) đậm nước cốt dừa; sốt 'sambal belacan' của Sarawak; nước cà ri cá-và-dừa sánh đặc của Johor; và món laksam bún cuộn vị dịu của bờ biển phía đông."
+  origin: "Món laksa Malaysia sớm nhất nhìn chung được gắn cho các cộng đồng Peranakan (người Hoa sinh ở Eo biển) tại các thương cảng cổ, đặc biệt là Melaka và Penang, mà gian bếp của họ kết hợp bún Hoa với sốt gia vị Mã Lai và các nguyên liệu tạo chua địa phương — sự pha trộn đằng sau thuật ngữ 'Nyonya laksa'. Bản thân cái tên còn gây tranh cãi, được truy về nhiều gốc khác nhau là Ba Tư, Phạn ngữ và Phúc Kiến."
+  halal: "Các kiểu được bài viết mô tả dựa trên cá, tôm và gà chứ không phải thịt heo, và một số — như món Johor laksa gốc Mã Lai gắn với gian bếp của Quốc vương Abu Bakar — nằm hẳn trong dòng chính halal. Nhưng với di sản Peranakan gốc Hoa chạy xuyên suốt phần lớn họ món này, cách chế biến khác nhau theo từng đầu bếp, nên nên hỏi từng quán."
+  eat: "Mỗi tô được dọn trên bún — bún gạo to cho asam laksa, mì trứng vàng hoặc bún cho curry laksa, 'bihun' sợi mảnh cho laksa Sarawak, mì spaghetti cho Johor laksa, và lá bột gạo cuộn dẹt cho laksam — và phủ lên các loại rau gia vị riêng gồm rau thơm, giá, hải sản hoặc gà xé, với ớt, sambal belacan hoặc chanh điều chỉnh theo khẩu vị. Johor laksa thường được ăn bằng tay."
+  where: "Laksa có mặt khắp Malaysia, mỗi bang dựa vào kho nguyên liệu riêng: Penang ở phía bắc cho asam laksa chua (và một loại 'curry mee' nước dừa), Thung lũng Klang và Melaka cho curry laksa / laksa lemak, Kuching ở Sarawak cho laksa Sarawak vị sambal-belacan, Johor ở phía nam cho Johor laksa dùng mì spaghetti, và Kelantan cùng Terengganu ở bờ biển phía đông cho laksam cuộn."
 ---
 
 Gọi "laksa" ở Penang và bạn sẽ nhận được một bát nước dùng cá chua gắt khiến

@@ -97,6 +97,11 @@ social:
     - "#HariRaya"
     - "#Minangkabau"
 framework: explainer
+dishFacts:
+  what: "Kari daging kering: daging lembu (atau ayam, dan dahulunya kerbau) dimasak perlahan berjam-jam dalam santan dan rempah ratus sehingga kuahnya kering, dagingnya bertukar gelap, kering dan amat kuat perisanya."
+  origin: "Dikesan kepada masyarakat Minangkabau di Sumatera Barat; dibawa ke Semenanjung Tanah Melayu melalui penghijrahan merantau Minangkabau dan perdagangan merentasi Selat Melaka, menjadi warisan bersama dunia Melayu."
+  eat: "Juadah istimewa yang menjadi tumpuan terutamanya pada Hari Raya Aidilfitri bersama ketupat dan lemang, dan sekali lagi pada Hari Raya Aidiladha, majlis perkahwinan serta kenduri."
+  where: "Di meja perayaan dan rumah terbuka Malaysia; amat dikaitkan dengan masyarakat keturunan Minangkabau di Negeri Sembilan dan gaya rendangnya yang gelap."
 ---
 
 Berjalan melepasi dapur orang Melayu pada hari-hari menjelang Hari Raya dan

@@ -94,6 +94,11 @@ verificationNeeded:
   - "The precise origin of kaya — the Malay serikaya tradition, a Portuguese sericaia influence, and transmission to Hainanese cooks are all cited by different food historians; treat the origin as debated rather than settled."
   - "The exact period Hainanese coffeeshops became established in Malaya specifically — the commonly cited 1920s–1950s window and the Nanyang-breakfast account come largely from Singapore-centred heritage sources."
 framework: history-culture
+dishFacts:
+  what: "Kaya toast is bread spread with kaya (a coconut-and-egg jam) and a thick slab of cold butter. The bread is usually thin white loaf, toasted or charcoal-grilled so it stays warm and crisp while the cold butter never fully melts; the kaya itself is coconut milk, eggs and sugar slow-cooked into a spreadable custard, coloured green by pandan in the Nyonya/Peranakan style or browner by caramelised sugar in the Hainanese style."
+  origin: "The dish is inseparable from the Hainanese community, who arrived in the Malay Peninsula and Singapore largely in the 19th century and often worked as cooks for British, European and wealthy Straits Chinese households and hotels. When those employers thinned out around the Second World War, many opened their own kopitiam (coffeeshops) and adapted the Western toast-egg-coffee breakfast into a local 'Nanyang' style, using coconut kaya in place of imported jam."
+  eat: "It is served as a set with soft, half-boiled eggs and a cup of kopi or teh. The ritual is to crack the eggs into a saucer, season with white pepper and a swirl of dark soy sauce (some shops use light soy), stir the broken yolks into a glossy savoury pool, then dip strips of the warm kaya toast straight into the egg."
+  where: "You find it in kopitiams across the country — served in coffeeshops throughout Penang, and kept alive by long-running coffeeshops in the Klang Valley, Ipoh and older town centres. A plate of kaya toast, two half-boiled eggs and a kopi together form the set most coffeeshops simply call a breakfast."
 ---
 
 Across Malaysia, the day often starts the same way: a marble-topped table, a cup of

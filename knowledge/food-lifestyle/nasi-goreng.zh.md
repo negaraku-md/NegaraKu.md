@@ -92,6 +92,12 @@ verificationNeeded:
   - "各命名变体（USA、paprik、ikan masin、hailam、kerabu、dabai）确切、标准化的食材清单——这些大多取自美食媒体和社群编辑的来源，且各档口不一；应以当地饮食参考资料核实地方细节。"
   - "Nasi goreng 是否已正式被宪报颁布为马来西亚国家烹饪遗产，以及列于哪一项——应以 Jabatan Warisan Negara 或官方来源核实，而非次级美食媒体。"
 framework: explainer
+dishFacts:
+  what: "Nasi goreng 在马来语里就是'炒饭'——把煮熟的米饭（最好是隔夜、较干的）以猛火翻炒，加蒜头、红葱与捣碎的辣椒酱，用 kicap（酱油）或峇拉煎（belacan，发酵虾酱）调味。它指的是一整个菜肴家族，而非单一食谱：kampung、pattaya、cina、USA、ikan masin、paprik、tom yam、belacan、hailam、yong chow、mamak，以及砂拉越 dabai 之类的地方特色款，都共享同一手法，却因调味与配菜而各异。"
+  origin: "它的起源确有争议，最好留有余地。炒饭作为一种技法通常追溯至中国南方，而马来世界的 nasi goreng 则有不同归属——有归于群岛的华人移民，也有归于更广义的海洋东南亚，马来西亚与印度尼西亚之间周期性的争执始终未有定论。同一套核心手法贯穿马来西亚、印度尼西亚、文莱与新加坡，因此它属于这个区域，而非任何一国。"
+  halal: "版本因厨房而异：mamak（印度裔穆斯林）与马来风格以辣椒酱、咖喱粉或峇拉煎为底，而华人咖啡店的扬州（yong chow）风格则缀有叉烧或腊肠（猪肉）。一条可靠的规则是：mamak 与马来档口的炒饭不含猪肉，部分华人风格则会用到——请向摊位确认。"
+  eat: "标准的一盘以鸡蛋收尾（打散拌进饭里，或煎好铺在上面），再撒上新鲜黄瓜或辣椒片。pattaya 用一层薄蛋皮包裹，上面挤一道辣椒酱或番茄酱；这是可在任何时段享用的日常食物，也包括当宵夜吃。"
+  where: "它首先是日常食物——24小时 mamak 档口与街坊咖啡店的常备菜，夜市与街头小食摊可靠的后备选择，也是家庭厨师最先学会即兴发挥的菜式之一。在何处吃决定了吃哪一款：kampung、ikan masin 与 belacan 在家厨与马来档口；pattaya、USA 与 mamak 风格在 mamak 档口；cina、hailam 与 yong chow 在华人咖啡店。"
 ---
 
 凌晨一点在嘛嘛档点一份 nasi goreng，你与其说是在点一道菜，不如说是从一块粉笔板上

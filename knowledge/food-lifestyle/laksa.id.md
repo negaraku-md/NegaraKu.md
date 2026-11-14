@@ -94,6 +94,12 @@ verificationNeeded:
   - "Etimologi kata 'laksa' (teori Persia, Sanskerta, dan Hokkien semuanya beredar) — konfirmasikan dengan sumber linguistik atau leksikografis, bukan media kuliner."
   - "Atribusi kedaerahan laksam kepada Kelantan dan Terengganu serta deskripsi persis mi/kuahnya — konfirmasikan dengan sumber lokal."
 framework: explainer
+dishFacts:
+  what: "Laksa bukan satu hidangan melainkan satu keluarga sup mi Malaysia yang berbagi format — mi dalam kuah berbumbu kuat, biasanya dominan ikan, diakhiri herba segar dan cabai atau terasi — bukan resep tunggal. Kuahnya sangat beragam: kuah asam tamarin Penang tanpa santan; 'curry laksa' (laksa lemak) yang kaya santan; pasta 'sambal belacan' Sarawak; kuah ikan-dan-kelapa kental Johor; dan laksam mi gulung yang lembut dari pesisir timur."
+  origin: "Laksa Malaysia tertua umumnya dikaitkan dengan masyarakat Peranakan (Tionghoa kelahiran Selat) di pelabuhan dagang lama, terutama Melaka dan Penang, yang dapurnya memadukan mi Tionghoa dengan pasta bumbu Melayu dan bahan pengasam lokal — fusi di balik istilah 'laksa Nyonya'. Nama itu sendiri diperdebatkan, beragam ditelusuri hingga akar Persia, Sanskerta, dan Hokkien."
+  halal: "Gaya yang dijelaskan artikel ini dibangun di atas ikan, udang, dan ayam alih-alih babi, dan beberapa — seperti laksa Johor berakar Melayu yang dikaitkan dengan dapur Sultan Abu Bakar — berada tepat di arus utama halal. Tetapi karena warisan Tionghoa Peranakan mengalir di sebagian besar keluarga ini, penyiapannya bervariasi menurut juru masak, jadi tanyakan ke tiap gerai."
+  eat: "Setiap mangkuk disajikan di atas mi — mi beras tebal untuk asam laksa, mi telur kuning atau bihun untuk curry laksa, bihun halus untuk laksa Sarawak, spageti untuk laksa Johor, dan lembaran tepung beras pipih gulung untuk laksam — dan dimahkotai hiasannya sendiri berupa herba, tauge, makanan laut, atau ayam suwir, dengan cabai, sambal belacan, atau jeruk yang disesuaikan dengan selera. Laksa Johor sering disantap dengan tangan."
+  where: "Laksa ditemukan di seluruh Malaysia, dengan tiap negeri mengandalkan dapurnya sendiri: Penang di utara untuk asam laksa yang asam (dan 'curry mee' bersantan), Lembah Klang dan Melaka untuk curry laksa / laksa lemak, Kuching di Sarawak untuk laksa Sarawak sambal-belacan, Johor di selatan untuk laksa Johor berbasis spageti, dan Kelantan serta Terengganu di pesisir timur untuk laksam gulung."
 ---
 
 Pesan "laksa" di Penang dan Anda akan disuguhi kuah ikan yang tajam dan asam

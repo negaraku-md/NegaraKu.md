@@ -98,6 +98,11 @@ verificationNeeded:
   - "L'affirmation précise selon laquelle le nasi lemak, le roti canai et le teh tarik auraient été inscrits au Journal officiel comme patrimoine national en vertu de la National Heritage Act 2005 en 2022 — vérifiez le Journal et l'année exacts auprès du Département du patrimoine national (Jabatan Warisan Negara) de la Malaisie."
   - "Le récit d'origine de la jeune fille de Malacca « Seri » / « Nasi le, mak » relève du folklore, et non d'une histoire documentée, et ne devrait être présenté que comme une légende."
 framework: explainer
+dishFacts:
+  what: "Du riz cuit dans du lait de coco (santan) et des feuilles de pandan, servi avec un sambal de piment sucré-épicé et des accompagnements classiques : ikan bilis (anchois séchés frits), cacahuètes grillées, concombre et un œuf dur ou au plat."
+  origin: "Largement considéré comme un plat malais aux racines profondes dans l'alimentation rurale malaise, où cuire le riz dans la crème de coco transformait un féculent ordinaire en un mets nourrissant ; le nom est malais, 'lemak' signifiant riche ou crémeux. Autrefois petit-déjeuner malais, il est aujourd'hui un incontournable de toute la journée et de toutes les communautés, considéré comme le plat national de la Malaisie et reconnu comme partie de la 'culture du petit-déjeuner en Malaisie', inscrite sur la Liste représentative du patrimoine culturel immatériel de l'UNESCO en 2024."
+  eat: "Dans sa forme la plus ancienne, c'est le nasi lemak bungkus, enveloppé dans une feuille de bananier pour un petit-déjeuner à emporter ; dans l'assiette, le riz est disposé en monticule au centre, entouré du sambal et des condiments, que l'on mélange au fur et à mesure. On l'enrichit couramment de rendang, de poulet frit (ayam goreng), de sambal sotong (seiche) ou de coques."
+  where: "Vendu depuis des charrettes, des marchés matinaux, des stands de rue et des cantines scolaires, servi dans les stands mamak passé minuit et dans les buffets d'hôtel ; les styles régionaux varient (riz teinté de jaune autour d'Alor Setar, thon à Terengganu)."
 ---
 
 Avant même que le soleil ne soit tout à fait levé, l'odeur atteint la rue la première :

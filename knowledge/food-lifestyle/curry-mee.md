@@ -94,6 +94,12 @@ verificationNeeded:
   - "The relationship between KL/central 'curry mee' and Penang's 'curry Hokkien mee' / Hokkien mee — the naming and whether these are the same bowl vary by locality; confirm with a local source."
   - "Whether coconut milk (santan) is essential to every curry mee — some Penang versions are described as thinner and less creamy ('white curry mee'); confirm the range with a Penang culinary source."
 framework: explainer
+dishFacts:
+  what: "A spicy noodle soup in a coconut-milk-enriched curry broth, usually poured over a mix of thin yellow (egg) noodles and rice vermicelli (bihun). Common toppings include puffed tofu (taupok), bean sprouts, cockles, cuttlefish, prawns, chicken, and sometimes fish cake or boiled egg, with mint leaves lifting the bowl; in non-halal, Chinese-style versions, cubes of congealed pig's blood and fried lard are classic additions."
+  origin: "The dish is associated particularly with Malaysian Chinese cooking and belongs to the wider laksa family. In Penang, 'curry mee' is the original name, while in Kuala Lumpur and much of the central peninsula the same bowl is commonly called curry laksa (or laksa lemak) -- the two names chase each other around the country and are often used interchangeably in the Klang Valley."
+  halal: "Traditional Chinese-style versions are not halal: cubes of congealed pig's blood and fried lard are classic additions, and Penang's bowl often includes the coagulated pig's blood that enriches and darkens the broth. Many Muslim-run, halal versions leave the pork out. Because recipes vary from stall to stall, it is best to check the individual stall."
+  eat: "The heat usually arrives separately -- a spoonful of chilli paste (or sambal) is stirred in or served on the side so each diner can adjust it. In the Kuala Lumpur and central curry-laksa style the chilli paste is often stirred straight into the soup, while Penang curry mee is typically served with chilli paste on the side and finished with a sprig of fresh mint."
+  where: "Curry mee is sold nationwide at kopitiam (coffee shops), hawker centres and street stalls, as a breakfast and all-day staple. Penang's George Town is the best-known hunting ground, with long-running stalls building reputations over generations, while the Klang Valley and other peninsular cities serve the curry-laksa version in equal abundance."
 ---
 
 Order "curry mee" in George Town and you get a mild, fragrant bowl of coconut

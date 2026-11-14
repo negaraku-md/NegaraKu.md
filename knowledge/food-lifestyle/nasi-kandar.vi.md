@@ -96,6 +96,12 @@ keywords:
 social:
   hashtags: ["#NasiKandar", "#Penang", "#Mamak", "#MalaysianFood", "#Banjir", "#GeorgeTown"]
 framework: explainer
+dishFacts:
+  what: "Nasi kandar là cơm trắng kết hợp với một dãy cà ri và các món chiên tự chọn, rồi 'banjir' (làm ngập) bằng cách chan trộn nhiều loại nước cà ri lên cơm để các vị hòa quyện vào nhau. Đặc trưng xác định là sự pha trộn nhiều loại nước sốt đó, nên không miếng nào có vị giống hệt miếng nào."
+  origin: "Đây là một món ăn của miền bắc Malaysia có gốc ở Penang, do các thương nhân Tamil Hồi giáo từ Ấn Độ giới thiệu. Đầu những năm 1900, những người bán hàng rong Hồi giáo gốc Ấn bán cà ri và cơm cho công nhân bến cảng tại Weld Quay ở George Town; cái tên ghi lại 'kandar', chiếc đòn gánh bằng gỗ mà người bán treo nồi cơm một đầu và các món cà ri đầu kia."
+  halal: "Là món của người Hồi giáo gốc Ấn (mamak), nasi kandar là halal — nó đến từ cộng đồng Hồi giáo gốc Ấn của Penang, những thương nhân mà con cháu ngày nay được gọi là mamak."
+  eat: "Việc gọi món là một nghi thức chỉ-và-chọn: bạn đến quầy, chỉ vào thứ mình muốn — gà chiên, mực, đậu bắp, trứng — và người phục vụ dựng đĩa ngay trước mặt bạn, rồi làm ngập cơm bằng một hỗn hợp nhiều loại nước cà ri trừ khi bạn yêu cầu khác. Theo truyền thống cơm và món ăn kèm chung một đĩa; nhiều tiệm nay dọn món kèm trong bát nhỏ nhưng vẫn làm ngập chính phần cơm."
+  where: "Penang là quê hương của nó, đặc biệt là George Town, nơi các tiệm nổi tiếng gồm Hameediyah trên Lebuh Campbell (truy về năm 1907 và được công nhận là nhà hàng nasi kandar lâu đời nhất trên đảo) và Line Clear ngay cạnh Penang Road, từ lâu được biết đến như một tiệm ăn 24 giờ. Quầy mamak mở suốt ngày đêm là điều cốt lõi trong sức hút của nó, và món ăn kể từ đó đã lan ra toàn quốc qua các chuỗi và tiệm 24 giờ."
 ---
 
 Hỏi bất kỳ ai ở Penang nơi nào để ăn khuya, câu trả lời thường trở lại chỉ trong

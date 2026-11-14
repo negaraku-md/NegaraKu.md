@@ -87,6 +87,11 @@ keywords:
 social:
   hashtags: ["#HainaneseChickenRice", "#NasiAyam", "#ChickenRiceBalls", "#Melaka", "#MalaysianFood"]
 framework: history-culture
+dishFacts:
+  what: "Du poulet poché ou cuit à la vapeur, servi avec du riz cuit dans de la graisse et du bouillon de poulet, du concombre et un trio de condiments — une sauce chili-ail, du gingembre râpé et de la sauce soja noire ; appelé localement nasi ayam."
+  origin: "Adapté par les immigrants chinois hainanais à partir du poulet de Wenchang et du riz au poulet de Wenchang de l'île de Hainan, apporté en Malaisie britannique lors des migrations des XIXe et XXe siècles ; Ipoh, grand centre de peuplement hainanais, lui est particulièrement associée."
+  eat: "Servi en assiette de poulet poché tranché (souvent à température ambiante ; aussi rôti ou frit) avec le riz parfumé, le concombre et les condiments chili-gingembre-soja noir, généralement accompagné d'un bol de soupe claire ; à Melaka et à Muar, le riz est roulé à la main en boules de la taille d'une balle de golf (nasi ayam bola) et mangé boule par boule."
+  where: "Un incontournable des kopitiam et des stands à travers le pays — cafés, hawker centres, cours de restauration et boutiques spécialisées — Ipoh étant particulièrement réputée pour ce plat, et la version en boules de riz étant une signature de la vieille ville de Melaka et de Muar, toute proche."
 ---
 
 Commandez une assiette de riz au poulet dans un kopitiam (café traditionnel) malaisien et

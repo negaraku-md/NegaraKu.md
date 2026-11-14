@@ -91,6 +91,11 @@ verificationNeeded:
   - "Penamaan dan takrif tepat variasi gerai 'mee goreng basah' dan 'mee goreng kering': 'basah' disahkan, tetapi takrif yang boleh dipercayai bagi gaya 'kering' yang tersendiri tidak ditemui. Sahkan dengan rujukan makanan Malaysia."
   - "Dakwaan bahawa versi mamak Singapura biasanya lebih merah (ditambah pewarna) daripada versi Malaysia — dilaporkan oleh media makanan; sahkan dengan sumber yang lebih kukuh."
 framework: explainer
+dishFacts:
+  what: "Mi kuning gandum yang digoreng bersama telur, kentang rebus, taufu goreng dan taugeh dalam sos manis-pedas yang berasaskan sos tomato, cili dan kecap manis, selalunya dengan udang atau versi daging kambing, disudahi dengan perahan limau kasturi."
+  origin: "Versi India-Muslim (mamak, selalunya Tamil-Muslim) bagi mi goreng; lazimnya dianggap hidangan fusion tempatan — mi kuning bergaya Cina yang diperisa secara Melayu-India — dikatakan tidak wujud di India dalam bentuk ini. Asal-usul tepatnya diperdebatkan, dengan catatan menunjuk kepada pendatang Tamil-Muslim dan perdagangan gerai sorong pada awal abad ke-20."
+  eat: "Dimasak atas pesanan dalam beberapa minit di atas kuali berapi tinggi; dihidangkan di atas pinggan dengan sepotong limau kasturi untuk diperah di meja, dimakan sebagai makan tengah hari ringkas, makan malam murah atau juadah lewat malam."
+  where: "Gerai mamak, kedai kopi dan kedai makan 24 jam di seluruh Malaysia, daripada gerai sorong tepi jalan hingga ke rangkaian berhawa dingin; versi Pulau Pinang lebih berkuah dan lebih kuat sosnya."
 ---
 
 Datang sahaja ke hampir mana-mana gerai mamak di Malaysia selepas gelap dan anda

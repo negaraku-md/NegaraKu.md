@@ -98,6 +98,12 @@ social:
     - "#MalaysianFood"
     - "#NegaraKu"
 framework: explainer
+dishFacts:
+  what: "Bak kut teh là sườn heo và các phần thịt khác hầm hàng giờ trong nước dùng làm từ thảo mộc và gia vị Trung Hoa — hồi, quế, đinh hương, thì là, tỏi, tiêu trắng và các vị thuốc như đương quy và đẳng sâm, cùng xì dầu nhạt và đậm. Có hai kiểu chính: nước dùng Phúc Kiến sậm màu, đậm xì dầu, nhiều thảo mộc và một kiểu Triều Châu nhạt hơn, trong và cay vị tiêu. Tên Phúc Kiến 肉骨茶 nghĩa là 'trà xương thịt', dù trong nồi không có lá trà."
+  origin: "Trong phạm vi Malaysia, Klang — thị trấn cảng hoàng gia cũ ở Selangor — được nhìn nhận rộng rãi là quê hương của món này và được xem ở đó như một niềm tự hào thị dân. Câu chuyện nguồn gốc phổ biến nhất truy về các phu phen gốc Hoa quanh Cảng Klang đầu thế kỷ 20, những người cần món ăn rẻ, ấm bụng, giàu năng lượng; các thuyết khác gán cho một thầy lang (sinseh) địa phương vào thập niên 1930 hoặc 1940. Đây là những dã sử chứ không phải ghi chép có chứng cứ."
+  halal: "Là một món thịt heo, bak kut teh không halal: nó được xây quanh sườn và xương heo, nên người Hồi giáo không ăn, và nó được nấu và bán ở các quán cà phê người Hoa chứ không phải cơ sở có chứng nhận halal. Với những người không ăn thịt heo nhưng muốn trải nghiệm súp thảo mộc, một số đầu bếp thỉnh thoảng làm phiên bản gà có biệt danh 'chik kut teh' — một món riêng chứ không phải bak kut teh có chứng nhận halal."
+  eat: "Đây là bữa ăn ngồi tại chỗ, dùng chung, thường ăn vào bữa sáng hoặc trưa. Nước dùng và thịt được dọn trong nồi đất hoặc bát cùng cơm trắng, và các miếng you char kway (quẩy chiên) xé ra chấm vào súp. Một đĩa nhỏ xì dầu đen với ớt padi và tỏi dùng để chấm thịt, trong khi một bình trà Trung Hoa, thường là ô long rang, được rót suốt bữa để cắt bớt độ béo."
+  where: "Klang ở Selangor là cái nôi của nó tại Malaysia, nhưng bạn tìm thấy nó được nấu và bán ở các quán cà phê và nhà hàng người Hoa chứ không phải tại các nơi halal như chợ Ramadan. Tháng 2 năm 2024 nó được công bố là món ăn di sản quốc gia của Malaysia theo National Heritage Act 2005 (Act 645)."
 ---
 
 Hiếm có món ăn nào tự giới thiệu bản thân rõ rệt như bak kut teh. Trước khi nhìn thấy nó,

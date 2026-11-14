@@ -92,6 +92,12 @@ verificationNeeded:
   - "Mối quan hệ giữa 'curry mee' của KL/miền trung với 'curry Hokkien mee' / Hokkien mee của Penang — cách gọi tên và việc chúng có phải cùng một tô hay không thay đổi theo từng địa phương; hãy xác minh với một nguồn địa phương."
   - "Liệu nước cốt dừa (santan) có thiết yếu cho mọi tô curry mee hay không — một số phiên bản Penang được mô tả là loãng hơn và ít béo hơn ('curry mee trắng'); hãy xác minh phạm vi này với một nguồn ẩm thực Penang."
 framework: explainer
+dishFacts:
+  what: "Một món bún nước cay trong nước dùng cà ri được làm giàu bằng nước cốt dừa, thường chan lên hỗn hợp mì vàng (trứng) sợi mảnh và bún gạo (bihun). Các món phủ thường gặp gồm đậu phụ chiên phồng (taupok), giá đỗ, sò huyết, mực nang, tôm, gà, và đôi khi chả cá hoặc trứng luộc, với lá bạc hà nâng vị cho tô; ở các phiên bản kiểu Hoa không halal, các khối huyết heo đông và tóp mỡ chiên là những món thêm cổ điển."
+  origin: "Món ăn gắn đặc biệt với lối nấu của người Hoa Malaysia và thuộc về họ laksa rộng lớn hơn. Ở Penang, 'curry mee' là tên gốc, trong khi ở Kuala Lumpur và phần lớn miền trung bán đảo, cùng tô đó thường được gọi là curry laksa (hoặc laksa lemak) -- hai cái tên đuổi nhau vòng quanh cả nước và thường được dùng thay thế cho nhau ở Thung lũng Klang."
+  halal: "Các phiên bản kiểu Hoa truyền thống không halal: các khối huyết heo đông và tóp mỡ chiên là những món thêm cổ điển, và tô ở Penang thường có huyết heo đông làm giàu và làm sậm nước dùng. Nhiều phiên bản halal do người Hồi giáo điều hành bỏ thịt heo ra. Vì công thức khác nhau theo từng quán, tốt nhất nên hỏi từng quán."
+  eat: "Độ cay thường đến riêng -- một muỗng sốt ớt (hoặc sambal) được khuấy vào hoặc dọn bên cạnh để mỗi thực khách tự điều chỉnh. Theo kiểu curry laksa của Kuala Lumpur và miền trung, sốt ớt thường được khuấy thẳng vào súp, trong khi curry mee Penang thường được dọn với sốt ớt để bên cạnh và hoàn thiện bằng một nhánh bạc hà tươi."
+  where: "Curry mee được bán trên toàn quốc tại các kopitiam (quán cà phê), trung tâm ẩm thực và quầy đường phố, như một món chủ lực cho bữa sáng và cả ngày. George Town của Penang là nơi săn tìm nổi tiếng nhất, với các quầy lâu đời gây dựng danh tiếng qua nhiều thế hệ, trong khi Thung lũng Klang và các thành phố khác trên bán đảo phục vụ phiên bản curry laksa dồi dào không kém."
 ---
 
 Gọi "curry mee" ở George Town, bạn sẽ nhận được một tô mì cốt dừa dịu nhẹ, thơm

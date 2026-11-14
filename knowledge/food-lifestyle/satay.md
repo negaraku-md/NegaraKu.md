@@ -93,6 +93,12 @@ keywords:
 social:
   hashtags: ["#Satay", "#SatayKajang", "#SatayCelup", "#MalaysianFood", "#Malaysia"]
 framework: explainer
+dishFacts:
+  what: "Bite-sized pieces of marinated meat — most often chicken, with beef, mutton and goat everyday too — threaded onto thin bamboo or coconut-frond (lidi) skewers and grilled over charcoal. What makes it satay is a trio that always travels together: a turmeric-and-lemongrass wet spice paste, the smoke of charcoal, and a thick peanut dipping sauce."
+  origin: "Satay's deep roots lie in maritime Southeast Asia and it is generally traced to Java in present-day Indonesia, where it absorbed Middle Eastern kebab traditions carried by Muslim traders and South Asian grilling techniques. In Malaysia it is most directly tied to Javanese and Malay communities who settled on the peninsula in the early twentieth century, and today variants are eaten from Indonesia and Singapore to Thailand and the southern Philippines."
+  halal: "Traditional satay is Malay and Javanese food — marinated chicken, beef or mutton grilled over charcoal — and is intrinsically halal, which is why it features at weddings and Ramadan bazaars. Melaka's satay celup and Penang's satay lok-lok are Malaysian Chinese adaptations that are often non-halal, so check the individual stall before ordering."
+  eat: "A satay order rarely arrives as skewers alone: it comes with warm peanut sauce for dipping, compressed rice (ketupat steamed in a woven palm-leaf pouch, or nasi impit cut into firm cubes), and cool slices of cucumber and raw onion that cut the richness. Pickled acar sometimes joins the plate, and mutton satay is in places served with sweet soy sauce; it is social food, meant to be shared by the dozen."
+  where: "You find satay at roadside stalls, pasar malam, Ramadan bazaars and festive tables across the country. Kajang in Selangor is Malaysia's best-known satay town — 'Satay Kajang' is a style sold nationwide, gazetted as a Selangor state heritage food in 2025 — while Melaka is famous for the communal satay celup hotpot, Johor for night-market stalls across the south, and Kuala Lumpur for Kajang-style stalls citywide."
 ---
 
 The sound comes first: a hand-fan beating over a trench of glowing charcoal, a hiss

@@ -87,6 +87,11 @@ keywords:
 social:
   hashtags: ["#HainaneseChickenRice", "#NasiAyam", "#ChickenRiceBalls", "#Melaka", "#MalaysianFood"]
 framework: history-culture
+dishFacts:
+  what: "白斩或清蒸鸡，配上以鸡油和鸡汤煮成的米饭、黄瓜，以及三味蘸料——辣椒蒜蓉酱、姜蓉与黑酱油；本地称为 nasi ayam（鸡饭）。"
+  origin: "由海南籍华人移民改良自海南的文昌鸡与文昌鸡饭，在19至20世纪的移民潮中带入英属马来亚；怡保作为海南人聚居的重镇，与这道菜尤为密切。"
+  eat: "一盘切好的白斩鸡（常是室温供应；也有烧鸡或炸鸡）配上香喷喷的米饭、黄瓜与辣椒姜蓉黑酱油蘸料，通常另附一碗清汤；在马六甲与麻坡，米饭会手搓成高尔夫球大小的饭团（nasi ayam bola），一颗一颗地吃。"
+  where: "全国咖啡店（kopitiam）与小贩中心的常见主食——咖啡店、小贩中心、美食广场与专卖店都有，其中怡保尤以此闻名，而饭团形式则是马六甲老城与邻近麻坡的招牌。"
 ---
 
 在马来西亚的kopitiam（传统咖啡店）点一盘鸡饭，端上来的三样东西看起来朴素得几乎不值得

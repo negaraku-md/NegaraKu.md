@@ -96,6 +96,12 @@ keywords:
 social:
   hashtags: ["#NasiKandar", "#Penang", "#Mamak", "#MalaysianFood", "#Banjir", "#GeorgeTown"]
 framework: explainer
+dishFacts:
+  what: "Le nasi kandar, c'est du riz cuit à la vapeur accompagné d'un assortiment de curries et de plats frits choisis soi-même, puis 'banjir' (inondé) d'un mélange de sauces au curry versées sur le riz pour que les saveurs se mêlent. Le trait distinctif est ce mélange de plusieurs sauces, de sorte qu'aucune bouchée n'a tout à fait le même goût."
+  origin: "C'est un plat du nord de la Malaisie enraciné à Penang, introduit par des marchands tamouls-musulmans venus d'Inde. Au début des années 1900, des vendeurs indo-musulmans ambulants vendaient du curry et du riz aux dockers de Weld Quay, à George Town ; le nom rappelle le 'kandar', la perche de bois portée à l'épaule à laquelle les colporteurs suspendaient leur marmite de riz d'un côté et les curries de l'autre."
+  halal: "En tant que cuisine indo-musulmane (mamak), le nasi kandar est halal — il vient de la communauté indo-musulmane de Penang, les marchands dont les descendants sont connus aujourd'hui sous le nom de mamak."
+  eat: "La commande est un rituel où l'on pointe du doigt pour choisir : on s'approche du comptoir, on désigne ce que l'on veut — poulet frit, calmar, okra, œuf — et le serveur compose l'assiette devant soi, puis inonde le riz d'un mélange de plusieurs sauces au curry, sauf demande contraire. Traditionnellement, le riz et les accompagnements partagent une même assiette ; de nombreux établissements servent désormais les accompagnements dans de petits bols mais inondent toujours le riz lui-même."
+  where: "Penang en est le berceau, surtout George Town, où les maisons célèbres comptent Hameediyah sur Lebuh Campbell (remontant à 1907 et reconnue comme le plus ancien restaurant de nasi kandar de l'île) et Line Clear, à l'écart de Penang Road, longtemps connue comme un établissement ouvert 24 heures sur 24. Le comptoir mamak ouvert jour et nuit est au cœur de son attrait, et le plat s'est depuis répandu à l'échelle nationale par le biais de chaînes et d'établissements ouverts 24 heures sur 24."
 ---
 
 Demandez à n'importe qui à Penang où manger tard le soir, et la réponse revient souvent

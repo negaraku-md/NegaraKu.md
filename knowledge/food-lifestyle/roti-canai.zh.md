@@ -100,6 +100,11 @@ social:
     - "MalaysianFood"
     - "NegaraKuMD"
 framework: explainer
+dishFacts:
+  what: "一种层次酥松的铁板煎饼。面团被拉薄、抛甩、折叠以裹住层次，再放在抹油的铁板上煎至外脆、内里柔软起层。"
+  origin: "源自印度裔穆斯林（mamak），由印度移民——其中许多是来自淡米尔纳德邦的穆斯林——在英殖民时期带入马来亚；与印度的 paratha/parotta 煎饼关系密切。"
+  eat: "通常配上扁豆咖喱（dhal）或咖喱汁一起吃；若浇得多便称为 banjir（'泛滥'）。甜味版本则蘸糖或炼乳。变化款包括 roti telur（加蛋）、roti bawang（加洋葱）、roti planta、roti tisu 与 roti bom。"
+  where: "在 mamak 档口售卖——那是前方架着铁板的印度裔穆斯林小食肆，许多营业时间很长或24小时不打烊。它是一道可在任何时段享用的默认早餐，几乎遍布全马各地。"
 ---
 
 很少有声音像面团拍打滚烫钢制铁板时的啪啪与翻飞那样，专属于马来西亚的清晨。厨师拿起一团泛白、

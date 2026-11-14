@@ -92,6 +92,11 @@ verificationNeeded:
   - "Asal usul tepat kaya — tradisi serikaya Melayu, pengaruh sericaia Portugis, dan penyebaran kepada tukang masak Hainan semuanya dipetik oleh sejarawan makanan yang berbeza; anggaplah asal usul itu sebagai diperdebatkan dan bukannya muktamad."
   - "Tempoh tepat kedai kopi Hainan menjadi mantap di Tanah Melayu secara khususnya — tingkap 1920-an–1950-an yang biasa dipetik dan catatan sarapan Nanyang sebahagian besarnya datang daripada sumber warisan yang berpusat di Singapura."
 framework: history-culture
+dishFacts:
+  what: "Kaya toast ialah roti yang disapu kaya (jem kelapa-dan-telur) dan seketul tebal mentega sejuk. Rotinya biasanya roti putih nipis, dibakar atau dipanggang arang supaya ia kekal suam dan rangup sementara mentega sejuk tidak pernah cair sepenuhnya; kaya itu sendiri ialah santan, telur dan gula yang dimasak perlahan menjadi kastard boleh sapu, diwarnakan hijau oleh pandan dalam gaya Nyonya/Peranakan atau lebih perang oleh gula karamel dalam gaya Hainan."
+  origin: "Hidangan ini tidak terpisah daripada masyarakat Hainan, yang tiba di Semenanjung Tanah Melayu dan Singapura sebahagian besarnya pada abad ke-19 dan sering bekerja sebagai tukang masak untuk isi rumah serta hotel British, Eropah dan Cina Selat yang berada. Apabila majikan tersebut berkurangan sekitar Perang Dunia Kedua, ramai membuka kopitiam sendiri dan mengadaptasi sarapan Barat toast-telur-kopi kepada gaya 'Nanyang' tempatan, menggunakan kaya kelapa menggantikan jem import."
+  eat: "Ia dihidangkan sebagai set dengan telur separuh masak yang lembut dan secawan kopi atau teh. Ritualnya ialah memecahkan telur ke dalam piring, membubuh lada putih dan sedikit kicap pekat (sesetengah kedai guna kicap cair), mengacau kuning telur yang pecah menjadi kolam bergilap, kemudian mencecah jalur kaya toast suam itu terus ke dalam telur."
+  where: "Anda menjumpainya di kopitiam di seluruh negara — dihidangkan di kedai kopi di serata Pulau Pinang, dan dikekalkan oleh kedai kopi lama di Lembah Klang, Ipoh dan pusat bandar yang lebih tua. Sepinggan kaya toast, dua biji telur separuh masak dan secawan kopi bersama-sama membentuk set yang kebanyakan kedai kopi panggil saja sarapan."
 ---
 
 Di seluruh Malaysia, hari sering kali bermula dengan cara yang sama: sebuah meja

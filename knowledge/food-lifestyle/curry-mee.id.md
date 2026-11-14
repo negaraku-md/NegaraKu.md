@@ -92,6 +92,12 @@ verificationNeeded:
   - "Hubungan antara 'curry mee' KL/tengah dengan 'curry Hokkien mee' / Hokkien mee Penang — penamaan dan apakah ini mangkuk yang sama beragam menurut lokalitas; pastikan dengan sumber setempat."
   - "Apakah santan penting bagi setiap curry mee — sebagian versi Penang digambarkan lebih encer dan kurang bersantan ('curry mee putih'); pastikan rentangnya dengan sumber kuliner Penang."
 framework: explainer
+dishFacts:
+  what: "Sup mi pedas dalam kuah kari yang diperkaya santan, biasanya disiram ke atas campuran mi kuning (telur) tipis dan bihun. Topping umum meliputi tahu pup (taupok), tauge, kerang, sotong, udang, ayam, dan terkadang bakso ikan atau telur rebus, dengan daun mint yang menyegarkan mangkuk; dalam versi gaya Tionghoa yang tidak halal, dadu darah babi beku dan lemak babi goreng adalah tambahan klasik."
+  origin: "Hidangan ini terutama dikaitkan dengan masakan Tionghoa-Malaysia dan termasuk keluarga laksa yang lebih luas. Di Penang, 'curry mee' adalah nama aslinya, sedangkan di Kuala Lumpur dan sebagian besar semenanjung tengah mangkuk yang sama lazim disebut curry laksa (atau laksa lemak) — kedua nama saling mengejar di seluruh negeri dan sering dipakai bergantian di Lembah Klang."
+  halal: "Versi gaya Tionghoa tradisional tidak halal: dadu darah babi beku dan lemak babi goreng adalah tambahan klasik, dan mangkuk Penang sering memuat darah babi beku yang memperkaya dan menggelapkan kuah. Banyak versi halal yang dikelola Muslim menghilangkan babi. Karena resepnya bervariasi dari gerai ke gerai, sebaiknya tanyakan ke tiap gerai."
+  eat: "Pedasnya biasanya datang terpisah — sesendok pasta cabai (atau sambal) diaduk atau disajikan di samping agar tiap penyantap bisa menyesuaikannya. Dalam gaya curry laksa Kuala Lumpur dan tengah, pasta cabai sering diaduk langsung ke sup, sedangkan curry mee Penang biasanya disajikan dengan pasta cabai di samping dan diakhiri setangkai daun mint segar."
+  where: "Curry mee dijual di seluruh negeri di kopitiam (kedai kopi), pusat penjaja, dan gerai jalanan, sebagai makanan pokok sarapan dan sepanjang hari. George Town Penang adalah tempat berburu paling terkenal, dengan gerai lawas yang membangun reputasi lintas generasi, sedangkan Lembah Klang dan kota semenanjung lain menyajikan versi curry laksa dalam jumlah yang sama berlimpah."
 ---
 
 Pesan "curry mee" di George Town dan Anda akan mendapat semangkuk mi santan yang

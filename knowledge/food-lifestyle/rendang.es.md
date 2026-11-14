@@ -97,6 +97,11 @@ social:
     - "#HariRaya"
     - "#Minangkabau"
 framework: explainer
+dishFacts:
+  what: "Un curry de carne seco: ternera (o pollo, e históricamente búfalo de agua) cocida a fuego lento durante horas en leche de coco y una pasta de especias hasta que el líquido se evapora y la carne queda oscura, seca y de sabor intenso."
+  origin: "Se atribuye al pueblo minangkabau de Sumatra Occidental; llegó a la Península Malaya con la migración minangkabau del merantau y el comercio a través del estrecho de Malaca, y se convirtió en patrimonio compartido del mundo malayo."
+  eat: "Una pieza central festiva que se sirve sobre todo en Hari Raya Aidilfitri junto al ketupat y el lemang, y de nuevo en Hari Raya Aidiladha, en bodas y en los banquetes kenduri."
+  where: "En la mesa festiva y de puertas abiertas de Malasia; estrechamente asociado con la comunidad de ascendencia minangkabau de Negeri Sembilan y sus estilos de rendang oscuro."
 ---
 
 Si pasas junto a una cocina malaya en los días previos a Hari Raya, a menudo

@@ -94,6 +94,11 @@ social:
     - "penangfood"
     - "malaysianfood"
 framework: explainer
+dishFacts:
+  what: "Pencuci mulut sejuk yang dibina berlapis: ais serut atau hancur ditaburi jeli lembut berwarna hijau berbentuk cacing yang diperbuat daripada tepung beras (kadangkala dicampur kanji kacang hijau atau ubi kayu) serta diwarna dan diwangikan dengan pandan, kemudian dilimpahi santan dan disudahi dengan gula melaka, sirap gula enau gelap yang memberikannya kemanisan berwarna perang karamel. Di Malaysia, terutamanya Pulau Pinang, secebis kacang merah rebus sangat lazim sehingga ramai menganggapnya sebahagian daripada binaan standard."
+  origin: "Cendol bukan milik mana-mana satu negara; bahan dan tekniknya dikongsi di seluruh Asia Tenggara, dan ia muncul dengan pelbagai nama — chendol, es cendol atau dawet, lot chong, banh lot, mont let saung dan lain-lain. Asal-usulnya benar-benar diperdebatkan: satu teori yang sering dipetik mengaitkannya dengan minuman dawet Indonesia yang dikaitkan dengan Jawa, manakala catatan lain menunjuk kepada rekod istana Thai awal atau rujukan dunia Melayu. Versi berais berkembang pesat di pelabuhan zaman penjajahan seperti Melaka dan Pulau Pinang, dan Jabatan Warisan Negara Malaysia menetapkan cendol sebagai makanan warisan."
+  eat: "Teristimewa ia juadah dan pencuci mulut harian untuk cuaca panas. Di Malaysia semangkuk cendol biasanya dimakan dengan sudu, menceduk ais, jeli, kacang dan sirap dalam setiap suapan, manakala di Indonesia ia selalunya dihidangkan tinggi dalam gelas dan diminum lebih seperti minuman. Ia juga pilihan popular untuk berbuka puasa pada bulan Ramadan, dan tambahan lazim termasuk pulut, jagung manis, cincau, susu pekat dan durian."
+  where: "Dijual murah oleh penjaja tepi jalan, pusat penjaja dan medan selera, dengan hidangan ini berubah dari gerai ke gerai dan bandar ke bandar. Pulau Pinang ialah ibu kota cendol dan versinya dianggap sebagai penanda aras; nama paling terkenal ialah gerai Penang Road, bertarikh 1936 dan diasaskan oleh Tan Teik Fuang, kini berkembang menjadi rangkaian Penang Chendul seluruh negara. Pulau Pinang juga rapat dikaitkan dengan cendol durian, varian moden yang durian dilapis di atas asas standard."
 ---
 
 Pada petang Malaysia yang panas, sedikit perkara yang seboleh dipercayai semangkuk

@@ -97,6 +97,11 @@ social:
     - "#HariRaya"
     - "#Minangkabau"
 framework: explainer
+dishFacts:
+  what: "Kari daging kering: daging sapi (atau ayam, dan secara historis kerbau) dimasak perlahan berjam-jam dalam santan dan pasta bumbu hingga cairannya menguap dan dagingnya menjadi gelap, kering, serta pekat rasanya."
+  origin: "Ditelusuri hingga orang Minangkabau dari Sumatra Barat; dibawa ke Semenanjung Melayu melalui migrasi merantau Minangkabau dan perdagangan lintas Selat Melaka, menjadi warisan bersama dunia Melayu."
+  eat: "Hidangan utama perayaan yang disajikan terutama saat Hari Raya Aidilfitri bersama ketupat dan lemang, serta kembali saat Hari Raya Aidiladha, pesta pernikahan, dan kenduri."
+  where: "Di meja perayaan dan rumah terbuka Malaysia; sangat lekat dengan masyarakat keturunan Minangkabau di Negeri Sembilan dan gaya rendang gelapnya."
 ---
 
 Berjalanlah melewati sebuah dapur Melayu pada hari-hari menjelang Hari Raya dan

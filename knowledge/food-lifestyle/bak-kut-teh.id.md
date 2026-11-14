@@ -98,6 +98,12 @@ social:
     - "#MalaysianFood"
     - "#NegaraKu"
 framework: explainer
+dishFacts:
+  what: "Bak kut teh adalah iga babi dan potongan lain yang direbus berjam-jam dalam kuah dari herba dan rempah Tionghoa — bunga lawang, kayu manis, cengkih, adas, bawang putih, lada putih, dan herba obat seperti dong quai dan codonopsis, dengan kecap terang dan gelap. Ada dua gaya utama: kuah herba Hokkien yang gelap dan kaya kecap serta kuah Teochew yang lebih ringan, bening, dan berlada. Nama Hokkien 肉骨茶 berarti 'teh tulang daging', meski pancinya tidak berisi daun teh."
+  origin: "Di Malaysia, Klang — kota pelabuhan kerajaan lama di Selangor — secara luas diakui sebagai rumah hidangan ini dan diperlakukan di sana sebagai kebanggaan warga. Kisah asal yang paling populer menelusurinya ke buruh Tionghoa di sekitar Pelabuhan Klang pada awal abad kedua puluh, yang membutuhkan makanan murah, menghangatkan, dan padat energi; catatan lain mengkreditkan seorang sinseh (tabib tradisional) setempat pada 1930-an atau 1940-an. Ini adalah sejarah rakyat, bukan catatan terdokumentasi."
+  halal: "Sebagai hidangan babi, bak kut teh tidak halal: ia dibangun di sekitar iga dan tulang babi, sehingga Muslim tidak menyantapnya, dan ia dimasak serta dijual di kedai kopi Tionghoa, bukan di tempat bersertifikat halal. Bagi yang tidak makan babi tetapi ingin pengalaman sup herbal, sebagian juru masak sesekali menyiapkan versi ayam yang kadang dijuluki 'chik kut teh' — hidangan terpisah, bukan bak kut teh bersertifikat halal."
+  eat: "Ini adalah santapan bersama yang disantap duduk, biasanya untuk sarapan atau makan siang. Kuah dan dagingnya datang dalam claypot atau mangkuk bersama nasi putih, dan sobekan you char kway (cakwe goreng) dicocol ke dalam sup. Cawan kecil berisi kecap gelap dengan cabai padi dan bawang putih dipakai untuk mencocol daging, sementara pot teh Tionghoa, sering oolong sangrai, dituang sepanjang santapan untuk memotong rasa gurih."
+  where: "Klang di Selangor adalah jantungnya di Malaysia, tetapi Anda menemukannya dimasak dan dijual di kedai kopi serta restoran Tionghoa, bukan di tempat halal seperti bazar Ramadan. Pada Februari 2024 ia diwartakan sebagai makanan warisan nasional Malaysia di bawah Akta Warisan Kebangsaan 2005 (Akta 645)."
 ---
 
 Sedikit hidangan yang mengumumkan kehadirannya seperti bak kut teh. Sebelum Anda

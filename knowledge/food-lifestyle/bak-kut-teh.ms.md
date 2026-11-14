@@ -98,6 +98,12 @@ social:
     - "#MalaysianFood"
     - "#NegaraKu"
 framework: explainer
+dishFacts:
+  what: "Bak kut teh ialah rusuk babi dan potongan lain yang direneh berjam-jam dalam kuah yang dibina daripada herba dan rempah Cina — bunga lawang, kayu manis, cengkih, jintan manis, bawang putih, lada putih serta herba perubatan seperti dong quai dan codonopsis, dengan kicap cair dan pekat. Dua gaya utama wujud: kuah Hokkien herba yang gelap dan kaya kicap, serta kuah Teochew yang lebih ringan, bening dan berlada. Nama Hokkien 肉骨茶 bermaksud 'teh tulang daging', walaupun periuknya tiada daun teh."
+  origin: "Dalam Malaysia, Klang — bandar pelabuhan diraja lama di Selangor — lazimnya dikreditkan sebagai tempat asal hidangan ini dan dianggap di sana sebagai kebanggaan tempatan. Kisah asal-usul paling popular mengesannya kepada buruh Cina sekitar Pelabuhan Klang pada awal abad kedua puluh, yang memerlukan makanan murah, memanaskan badan dan tinggi tenaga; catatan lain mengkreditkan seorang sinseh (tabib tradisional) tempatan pada 1930-an atau 1940-an. Ini ialah sejarah rakyat, bukan rekod bertulis."
+  halal: "Sebagai hidangan babi, bak kut teh tidak halal: ia dibina sekitar rusuk dan tulang babi, jadi orang Islam tidak memakannya, dan ia dimasak serta dijual di kedai kopi Cina dan bukan premis bersijil halal. Bagi mereka yang tidak makan babi tetapi mahukan pengalaman sup herba ini, sesetengah tukang masak menyediakan versi ayam yang kadangkala digelar 'chik kut teh' — sebuah hidangan berasingan dan bukan bak kut teh bersijil halal."
+  eat: "Ia hidangan dikongsi dan dimakan secara duduk, biasanya untuk sarapan atau makan tengah hari. Kuah dan daging tiba dalam periuk tanah atau mangkuk bersama nasi putih, dan potongan you char kway (cakoi goreng) dicecah ke dalam sup. Sepiring kicap pekat dengan cili padi dan bawang putih digunakan untuk mencecah daging, manakala sepot teh Cina, selalunya oolong yang dipanggang, dituang sepanjang waktu untuk mengimbangi kekayaannya."
+  where: "Klang di Selangor ialah pusatnya di Malaysia, tetapi ia dijumpai dimasak dan dijual di kedai kopi dan restoran Cina dan bukan di tempat halal seperti bazar Ramadan. Pada Februari 2024 ia diwartakan sebagai makanan warisan kebangsaan Malaysia di bawah Akta Warisan Kebangsaan 2005 (Akta 645)."
 ---
 
 Sedikit sekali hidangan yang mengisytiharkan kehadirannya seperti bak kut teh.

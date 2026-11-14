@@ -92,6 +92,11 @@ verificationNeeded:
   - "Asal-usul persis kaya — tradisi serikaya Melayu, pengaruh sericaia Portugis, dan penularannya kepada para jurumasak Hainan semuanya dikutip oleh sejarawan kuliner yang berbeda; perlakukan asal-usul ini sebagai masih diperdebatkan alih-alih sudah pasti."
   - "Periode persis ketika kedai kopi Hainan mapan secara khusus di Malaya — rentang tahun 1920-an–1950-an yang umum dikutip dan kisah sarapan Nanyang sebagian besar berasal dari sumber warisan yang berpusat di Singapura."
 framework: history-culture
+dishFacts:
+  what: "Kaya toast adalah roti yang diolesi kaya (selai kelapa-dan-telur) dan sepotong tebal mentega dingin. Rotinya biasanya roti tawar putih tipis, dipanggang atau dibakar arang agar tetap hangat dan renyah sementara mentega dingin tak pernah benar-benar meleleh; kaya itu sendiri adalah santan, telur, dan gula yang dimasak perlahan menjadi custard yang bisa dioles, berwarna hijau oleh pandan dalam gaya Nyonya/Peranakan atau lebih cokelat oleh gula karamel dalam gaya Hainan."
+  origin: "Hidangan ini tak terpisahkan dari masyarakat Hainan, yang tiba di Semenanjung Melayu dan Singapura sebagian besar pada abad ke-19 dan sering bekerja sebagai juru masak untuk rumah tangga dan hotel Britania, Eropa, dan Tionghoa Selat yang kaya. Ketika para majikan itu berkurang sekitar Perang Dunia Kedua, banyak yang membuka kopitiam sendiri dan mengadaptasi sarapan Barat roti-telur-kopi menjadi gaya 'Nanyang' lokal, memakai kaya kelapa alih-alih selai impor."
+  eat: "Disajikan sebagai set dengan telur setengah matang yang lembut dan secangkir kopi atau teh. Ritualnya adalah memecahkan telur ke dalam cawan, membumbuinya dengan lada putih dan sedikit kecap gelap (sebagian kedai memakai kecap terang), mengaduk kuning telur yang pecah menjadi genangan gurih mengilap, lalu mencelupkan potongan kaya toast hangat langsung ke telur."
+  where: "Anda menemukannya di kopitiam di seluruh negeri — disajikan di kedai kopi di seluruh Penang, dan dipertahankan oleh kedai kopi lawas di Lembah Klang, Ipoh, dan pusat kota yang lebih tua. Sepiring kaya toast, dua telur setengah matang, dan kopi bersama membentuk set yang oleh sebagian besar kedai kopi disebut saja sarapan."
 ---
 
 Di seluruh Malaysia, hari sering dimulai dengan cara yang sama: sebuah meja berlapis marmer, secangkir

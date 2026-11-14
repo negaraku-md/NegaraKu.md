@@ -98,6 +98,11 @@ verificationNeeded:
   - "La afirmación concreta de que el nasi lemak, el roti canai y el teh tarik fueron declarados patrimonio nacional en el boletín oficial en virtud de la National Heritage Act 2005 en 2022: confirme el boletín y el año exactos con el Departamento de Patrimonio Nacional (Jabatan Warisan Negara) de Malasia."
   - "El relato de origen de la muchacha de Malaca 'Seri' / 'Nasi le, mak' es folclore, no historia documentada, y debe presentarse solo como leyenda."
 framework: explainer
+dishFacts:
+  what: "Arroz cocido en leche de coco (santan) y hoja de pandan, servido con un sambal de chile dulce y picante y los acompañamientos habituales: ikan bilis (anchoas secas fritas), cacahuetes tostados, pepino y un huevo cocido o frito."
+  origin: "Se considera ampliamente un plato malayo con raíces profundas en la dieta rural malaya, donde cocer el arroz en crema de coco convertía un almidón sencillo en algo nutritivo; el nombre es malayo, y 'lemak' significa rico o cremoso. En su día un desayuno malayo, hoy es un plato básico de todas las comunidades a cualquier hora, considerado el plato nacional de Malasia y reconocido como parte de la 'Cultura del desayuno en Malasia', inscrita en la Lista Representativa del Patrimonio Cultural Inmaterial de la UNESCO en 2024."
+  eat: "En su forma más antigua es el nasi lemak bungkus, envuelto en un paquete de hoja de plátano para desayunar sobre la marcha; en el plato, el arroz se amontona en el centro con el sambal y los condimentos alrededor, y se mezcla a medida que se come. Suele enriquecerse con rendang, pollo frito (ayam goreng), sambal sotong (sepia) o berberechos."
+  where: "Se vende en carritos ambulantes, mercados matutinos, puestos de carretera y cantinas escolares, se sirve en puestos mamak pasada la medianoche y en bufés de hotel; los estilos regionales varían (arroz con tono amarillo en torno a Alor Setar, atún en Terengganu)."
 ---
 
 Antes de que el sol haya salido del todo, el olor llega primero a la calle: arroz

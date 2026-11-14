@@ -97,6 +97,11 @@ social:
     - "#HariRaya"
     - "#Minangkabau"
 framework: explainer
+dishFacts:
+  what: "Un curry de viande sec : du bœuf (ou du poulet, et historiquement du buffle d'eau) mijoté pendant des heures dans du lait de coco et une pâte d'épices jusqu'à ce que le liquide s'évapore et que la viande devienne foncée, sèche et intensément parfumée."
+  origin: "Attribué au peuple Minangkabau de l'ouest de Sumatra ; apporté dans la péninsule malaise par la migration merantau des Minangkabau et le commerce à travers le détroit de Malacca, devenant un patrimoine partagé du monde malais."
+  eat: "Une pièce maîtresse festive servie surtout lors du Hari Raya Aidilfitri aux côtés du ketupat et du lemang, et de nouveau lors du Hari Raya Aidiladha, des mariages et des festins kenduri."
+  where: "Sur la table festive et des portes ouvertes de Malaisie ; étroitement associé à la communauté d'ascendance minangkabau de Negeri Sembilan et à ses styles de rendang foncé."
 ---
 
 Passez près d'une cuisine malaise dans les jours qui précèdent le Hari Raya et

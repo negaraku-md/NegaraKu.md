@@ -98,6 +98,12 @@ social:
     - "#MalaysianFood"
     - "#StreetFood"
 framework: explainer
+dishFacts:
+  what: "Kuetiau leper (kway teow, 炒粿條) yang digoreng di atas api yang kuat bersama udang, kerang darah (lihat hum), telur, taugeh, kucai dan sosej Cina dalam sos soya dan cili; dipuji kerana wok hei, 'nafas kuali' yang berbau asap."
+  origin: "Cina, paling rapat dikaitkan dengan masyarakat Teochew, dengan akar di rantau Chaoshan di Guangdong; di Asia Tenggara ia bermula sebagai hidangan murah dan berlemak untuk buruh, nelayan dan pengutip kerang Cina."
+  halal: "Versi tradisionalnya tidak halal: ia secara klasik digoreng dengan lemak babi, selalunya dengan rempahan lemak babi, dan mengandungi kerang darah. Tukang masak Muslim di Malaysia dan Singapura menyediakan versi halal yang meninggalkan babi dan lemaknya serta mungkin menggunakan ayam atau daging lembu; semak gerai masing-masing."
+  eat: "Dimakan segar terus dari kuali dengan air sejuk, selalunya dihidangkan di atas daun pisang; digoreng dalam kuantiti kecil, dengan gred 'special' (lebih banyak udang, kerang atau telur) dan 'gourmet' (ketam atau udang lipan)."
+  where: "Makanan jalanan gerai penjaja dan kopitiam; Pulau Pinang lazimnya dianggap tempat asalnya, dengan gaya yang lebih ringan dan kurang manis, manakala versi Singapura lebih condong kepada gaya Hokkien."
 ---
 
 Tidak banyak hidangan yang menggambarkan makanan jalanan Malaysia selengkap char

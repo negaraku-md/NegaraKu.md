@@ -91,6 +91,12 @@ keywords:
 social:
   hashtags: ["#Satay", "#SatayKajang", "#SatayCelup", "#MalaysianFood", "#Malaysia"]
 framework: explainer
+dishFacts:
+  what: "Những miếng thịt ướp nhỏ vừa ăn — thường nhất là gà, với bò, cừu và dê cũng thường ngày — xiên vào que tre mỏng hoặc que sống lá dừa (lidi) và nướng trên than. Điều làm nên satay là bộ ba luôn đi cùng nhau: sốt gia vị ướt làm từ nghệ và sả, mùi khói của than, và nước chấm đậu phộng sánh đặc."
+  origin: "Satay có gốc rễ sâu xa ở vùng Đông Nam Á hàng hải và nhìn chung được truy về đảo Java thuộc Indonesia ngày nay, nơi nó tiếp thu truyền thống kebab Trung Đông do các thương nhân Hồi giáo mang đến và kỹ thuật nướng của Nam Á. Ở Malaysia nó gắn bó trực tiếp nhất với các cộng đồng Java và Mã Lai định cư trên bán đảo vào đầu thế kỷ 20, và ngày nay các biến thể được ăn từ Indonesia và Singapore đến Thái Lan và miền nam Philippines."
+  halal: "Satay truyền thống là món của người Mã Lai và người Java — gà, bò hoặc cừu ướp nướng trên than — và vốn dĩ halal, đó là lý do nó xuất hiện tại đám cưới và chợ Ramadan. Món satay celup của Melaka và satay lok-lok của Penang là các biến tấu của người Hoa Malaysia và thường không halal, nên nên hỏi từng quán trước khi gọi."
+  eat: "Một phần satay hiếm khi chỉ có xiên thịt không: nó đi kèm nước sốt đậu phộng ấm để chấm, cơm nén (ketupat hấp trong túi lá cọ đan, hoặc nasi impit cắt thành khối vuông chắc), cùng dưa chuột và hành sống thái lát mát lạnh để cắt bớt độ béo. Đôi khi có thêm acar ngâm chua, và satay cừu ở một số nơi được dọn với xì dầu ngọt; đây là món ăn mang tính xã giao, dành để chia sẻ hàng tá xiên."
+  where: "Bạn tìm thấy satay tại các quầy ven đường, pasar malam, chợ Ramadan và bàn tiệc lễ hội khắp cả nước. Kajang ở Selangor là thị trấn satay nổi tiếng nhất Malaysia — 'Satay Kajang' là một kiểu được bán trên toàn quốc, công bố là món ăn di sản của bang Selangor năm 2025 — trong khi Melaka nổi tiếng với lẩu satay celup kiểu ăn chung, Johor với các quầy chợ đêm khắp miền nam, và Kuala Lumpur với các quầy kiểu Kajang khắp thành phố."
 ---
 
 Thứ đến trước tiên là âm thanh: một chiếc quạt tay phe phẩy trên một rãnh than hồng rực,

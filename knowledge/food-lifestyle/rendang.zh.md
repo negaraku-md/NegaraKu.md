@@ -97,6 +97,11 @@ social:
     - "#HariRaya"
     - "#Minangkabau"
 framework: explainer
+dishFacts:
+  what: "一道干式肉咖喱：牛肉（或鸡肉，历史上也用水牛肉）以椰浆和香料酱慢炖数小时，直到汤汁收干、肉色转深、风味浓烈。"
+  origin: "可追溯至西苏门答腊的米南加保（Minangkabau）人；经由米南加保人的 merantau（外出谋生）迁徙与跨越马六甲海峡的贸易传入马来半岛，成为马来世界共享的传统。"
+  eat: "节庆的主角菜式，尤其在开斋节（Hari Raya Aidilfitri）与马来粽（ketupat）、竹筒饭（lemang）一同上桌，哈芝节（Hari Raya Aidiladha）、婚宴与开放门户宴席（kenduri）上也会再度登场。"
+  where: "出现在马来西亚的节庆与开放门户餐桌上；与森美兰米南加保后裔社群及其深色仁当风格关系尤为密切。"
 ---
 
 开斋节前的那几天，走过马来人的厨房，你往往会先听见仁当，然后才看见它——木

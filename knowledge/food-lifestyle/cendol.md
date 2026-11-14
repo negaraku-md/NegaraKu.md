@@ -96,6 +96,11 @@ social:
     - "penangfood"
     - "malaysianfood"
 framework: explainer
+dishFacts:
+  what: "A cold dessert built in layers: shaved or crushed ice topped with soft, green, worm-shaped jelly made from rice flour (sometimes blended with mung-bean or tapioca starch) and tinted and perfumed with pandan, then flooded with coconut milk and finished with gula melaka, the dark palm-sugar syrup that gives it its caramel-brown sweetness. In Malaysia, especially Penang, a scoop of boiled red beans is so common that many treat it as part of the standard build."
+  origin: "Cendol belongs to no single country; its ingredients and techniques are shared across Southeast Asia, and it appears under many names — chendol, es cendol or dawet, lot chong, banh lot, mont let saung and others. The origin is genuinely contested: one widely cited theory links it to the Indonesian drink dawet associated with Java, while other accounts point to early Thai court records or Malay-world references. Iced versions flourished in colonial-era ports such as Melaka and Penang, and Malaysia's Department of National Heritage designates cendol a heritage food."
+  eat: "Above all an everyday, hot-weather treat and dessert. In Malaysia a bowl of cendol is usually eaten with a spoon, scooping up ice, jelly, beans and syrup in each mouthful, whereas in Indonesia it is often served tall in a glass and drunk more like a beverage. It is also a popular choice for breaking the fast during Ramadan, and common add-ons include glutinous rice (pulut), sweet corn, grass jelly, condensed milk and durian."
+  where: "Sold cheaply by roadside vendors, hawker centres and food courts, with the dish shifting from stall to stall and town to town. Penang is the cendol capital and its version is treated as the benchmark; the best-known name is the Penang Road stall, dated to 1936 and founded by Tan Teik Fuang, now grown into the nationwide Penang Chendul chain. Penang is also closely tied to durian cendol, a modern variant where durian is layered onto the standard base."
 ---
 
 On a hot Malaysian afternoon, few things are as reliable as a bowl of cendol: a

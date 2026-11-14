@@ -92,6 +92,12 @@ verificationNeeded:
   - "Hubungan antara 'curry mee' KL/tengah dengan 'curry Hokkien mee' / Hokkien mee Pulau Pinang — penamaan dan sama ada ini mangkuk yang sama berbeza mengikut lokaliti; sahkan dengan sumber tempatan."
   - "Sama ada santan penting kepada setiap curry mee — sesetengah versi Pulau Pinang digambarkan lebih cair dan kurang berkrim ('curry mee putih'); sahkan julatnya dengan sumber masakan Pulau Pinang."
 framework: explainer
+dishFacts:
+  what: "Sup mi pedas dalam kuah kari yang diperkaya santan, biasanya dicurah ke atas campuran mi kuning (telur) nipis dan bihun. Toping lazim termasuk taufu kembung (taupok), taugeh, kerang, sotong, udang, ayam, dan kadangkala keropok ikan atau telur rebus, dengan daun pudina mengangkat mangkuknya; dalam versi tidak halal bergaya Cina, ketulan darah babi beku dan lemak babi goreng ialah tambahan klasik."
+  origin: "Hidangan ini dikaitkan terutamanya dengan masakan Cina Malaysia dan tergolong dalam keluarga laksa yang lebih luas. Di Pulau Pinang, 'curry mee' ialah nama asal, manakala di Kuala Lumpur dan kebanyakan semenanjung tengah mangkuk yang sama lazimnya dipanggil curry laksa (atau laksa lemak) — kedua-dua nama kejar-mengejar di seluruh negara dan sering digunakan secara bertukar ganti di Lembah Klang."
+  halal: "Versi tradisional bergaya Cina tidak halal: ketulan darah babi beku dan lemak babi goreng ialah tambahan klasik, dan mangkuk Pulau Pinang sering mengandungi darah babi beku yang memperkaya dan menggelapkan kuah. Banyak versi halal yang dikendalikan Muslim meninggalkan babi. Kerana resipi berbeza dari gerai ke gerai, lebih baik semak gerai masing-masing."
+  eat: "Kepedasan biasanya tiba berasingan — sesudu pes cili (atau sambal) dikacau masuk atau dihidangkan di tepi supaya setiap orang boleh melaraskannya. Dalam gaya curry laksa Kuala Lumpur dan tengah, pes cili sering dikacau terus ke dalam sup, manakala curry mee Pulau Pinang biasanya dihidangkan dengan pes cili di tepi dan disudahi dengan sejemput daun pudina segar."
+  where: "Curry mee dijual di seluruh negara di kopitiam, pusat penjaja dan gerai jalanan, sebagai ruji sarapan dan sepanjang hari. George Town Pulau Pinang ialah tempat memburu paling terkenal, dengan gerai lama membina reputasi merentas generasi, manakala Lembah Klang dan bandar semenanjung lain menghidangkan versi curry laksa dengan limpahan yang sama."
 ---
 
 Pesan "curry mee" di George Town dan anda akan mendapat semangkuk mi santan

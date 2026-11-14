@@ -98,6 +98,12 @@ social:
     - "#MalaysianFood"
     - "#NegaraKu"
 framework: explainer
+dishFacts:
+  what: "El bak kut teh son costillas de cerdo y otros cortes cocidos a fuego lento durante horas en un caldo construido con hierbas y especias chinas —anís estrellado, canela, clavo, hinojo, ajo, pimienta blanca y hierbas medicinales como el dong quai y el codonopsis, con soja clara y oscura—. Existen dos estilos principales: un caldo herbal hokkien oscuro y rico en soja, y uno teochew más ligero, claro y con pimienta. El nombre hokkien 肉骨茶 significa 'té de hueso de carne', aunque la olla no contiene hojas de té."
+  origin: "Dentro de Malasia, a Klang —la vieja ciudad portuaria real de Selangor— se la reconoce ampliamente como la cuna del plato y allí se trata con orgullo cívico. La historia de origen más popular lo remonta a los obreros chinos de los alrededores de Port Klang a principios del siglo XX, que necesitaban comida barata, caliente y densa en energía; otros relatos atribuyen el mérito a un sinseh local (médico tradicional) de los años treinta o cuarenta. Son historias populares más que registros documentados."
+  halal: "Como plato de cerdo, el bak kut teh no es halal: se construye en torno a costillas y huesos de cerdo, de modo que los musulmanes no lo comen, y se cocina y vende en cafeterías chinas más que en locales con certificación halal. Para quienes no comen cerdo pero quieren la experiencia de la sopa herbal, algunos cocineros preparan de vez en cuando una versión de pollo apodada 'chik kut teh' —un plato aparte más que un bak kut teh con certificación halal—."
+  eat: "Es una comida compartida, para sentarse a la mesa, que suele tomarse en el desayuno o el almuerzo. El caldo y la carne llegan en una olla de barro o en un cuenco con arroz blanco, y se mojan en la sopa trozos arrancados de you char kway (churros fritos de masa). Se usa un platito de salsa de soja oscura con chile padi y ajo para mojar la carne, mientras que se sirve una tetera de té chino, a menudo un oolong tostado, durante toda la comida para cortar la untuosidad."
+  where: "Klang, en Selangor, es su corazón malasio, pero se cocina y vende en cafeterías y restaurantes chinos más que en lugares halal como los bazares de Ramadán. En febrero de 2024 fue declarado comida del patrimonio nacional de Malasia en virtud de la Ley del Patrimonio Nacional de 2005 (Ley 645)."
 ---
 
 Pocos platos se anuncian como el bak kut teh. Antes de verlo, lo hueles: una nube oscura y

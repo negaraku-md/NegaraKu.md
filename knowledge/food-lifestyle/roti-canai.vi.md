@@ -100,6 +100,11 @@ social:
     - "MalaysianFood"
     - "NegaraKuMD"
 framework: explainer
+dishFacts:
+  what: "Một loại bánh mì dẹt nướng chảo, nhiều lớp. Khối bột được kéo mỏng, tung và gấp để tạo lớp, rồi nướng trên chảo dầu đến khi ngoài giòn, trong mềm và phân lớp."
+  origin: "Có gốc Hồi giáo gốc Ấn (mamak), do người Ấn di cư mang đến Malaya, nhiều người là tín đồ Hồi giáo từ Tamil Nadu, trong thời thuộc địa Anh; có họ hàng gần với paratha/parotta của Ấn Độ."
+  eat: "Thường ăn kèm dhal (cà ri đậu lăng) hoặc nước cà ri; chan hào phóng thì gọi là banjir ('ngập'). Phiên bản ngọt ăn với đường hoặc sữa đặc. Các biến thể gồm roti telur (trứng), roti bawang (hành), roti planta, roti tisu và roti bom."
+  where: "Tại các quán mamak — tiệm ăn Hồi giáo gốc Ấn bình dân có chảo nướng đặt phía trước, nhiều quán mở nhiều giờ hoặc suốt ngày đêm. Một món sáng mặc định được ăn vào bất kỳ giờ nào, có mặt hầu như khắp nơi tại Malaysia."
 ---
 
 Hiếm có âm thanh nào thuộc về một buổi sáng Malaysia rõ rệt như tiếng đập và phần phật của bột

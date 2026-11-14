@@ -100,6 +100,11 @@ social:
     - "MalaysianFood"
     - "NegaraKuMD"
 framework: explainer
+dishFacts:
+  what: "Roti pipih yang berlapis dan dipanggang. Adonannya ditarik tipis, dilambungkan, dan dilipat untuk menjebak lapisan, lalu dimasak di atas penggorengan datar berminyak hingga renyah di luar dan lembut berlapis di dalam."
+  origin: "Berasal dari Muslim-India (mamak), dibawa ke Malaya oleh migran India, banyak Muslim dari Tamil Nadu, pada era kolonial Britania; sangat berkaitan dengan paratha/parotta India."
+  eat: "Biasanya disajikan dengan dhal (kari kacang lentil) atau kuah kari; jika disiram berlimpah disebut banjir. Versi manis disantap dengan gula atau susu kental manis. Variannya meliputi roti telur, roti bawang, roti planta, roti tisu, dan roti bom."
+  where: "Di gerai mamak — tempat makan Muslim-India informal dengan penggorengan di depan, banyak yang buka berjam-jam atau sepanjang waktu. Sarapan standar yang disantap kapan saja, ditemukan hampir di mana-mana di Malaysia."
 ---
 
 Sedikit bunyi yang begitu khas dengan pagi hari di Malaysia seperti bunyi tepak dan kibasan adonan

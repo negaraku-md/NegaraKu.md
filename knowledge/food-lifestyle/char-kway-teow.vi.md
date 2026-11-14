@@ -98,6 +98,12 @@ social:
     - "#MalaysianFood"
     - "#StreetFood"
 framework: explainer
+dishFacts:
+  what: "Bánh phở dẹt (kway teow, 炒粿條) xào trên lửa lớn với tôm, sò huyết (xem hum), trứng, giá đỗ, hẹ và lạp xưởng trong xì dầu và ớt; được quý trọng vì wok hei, 'hơi thở của chảo' đượm khói."
+  origin: "Gốc Hoa, gắn bó gần gũi nhất với cộng đồng Triều Châu, có gốc rễ ở vùng Triều Sán của Quảng Đông; ở Đông Nam Á nó khởi đầu là bữa ăn rẻ, nhiều mỡ cho phu phen, ngư dân và người bắt sò gốc Hoa."
+  halal: "Phiên bản truyền thống không halal: nó được xào theo lối cổ điển bằng mỡ heo, thường kèm tóp mỡ heo, và có sò huyết. Các đầu bếp Hồi giáo ở Malaysia và Singapore làm phiên bản halal bỏ thịt heo và mỡ heo, có thể dùng gà hoặc bò; nên hỏi từng quán."
+  eat: "Ăn ngay khi vừa nhấc khỏi chảo với một ly nước lạnh, thường dọn trên lá chuối; xào từng mẻ nhỏ, với loại 'đặc biệt' (thêm tôm, sò hoặc trứng) và loại 'thượng hạng' (cua hoặc tôm tích)."
+  where: "Món ăn đường phố của quầy hàng rong và quán cà phê (kopitiam); Penang được xem rộng rãi là quê hương tinh thần của nó, với kiểu nhẹ hơn, ít ngọt hơn, trong khi phiên bản ở Singapore nghiêng về kiểu Phúc Kiến."
 ---
 
 Hiếm có đĩa nào nắm bắt ẩm thực đường phố Malaysia trọn vẹn như char kway teow:

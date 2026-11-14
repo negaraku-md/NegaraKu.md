@@ -102,6 +102,12 @@ verificationNeeded:
   - "Sarawak's wonton mee variants and how they relate to (or differ from) the state's kolo mee — sources are thin and the two dishes are easily conflated; confirm with a Sarawak culinary or heritage source."
   - "The regional claim that Penang-style dry wantan mee leans on a darker/sweeter sauce (and sometimes sambal) versus the lighter KL style — verify against a local source, as descriptions vary across food blogs."
 framework: explainer
+dishFacts:
+  what: "Wonton mee (wantan mee) is thin, springy egg noodles served with slices of char siu (Cantonese barbecued pork), a little leafy green such as choy sum or kai lan, and wontons — small dumplings traditionally filled with minced pork and prawn. The dominant Malaysian form is the dry (kon lou) style, with noodles tossed in a dark soy and oyster-sauce dressing until glossy; a full soup version with everything in one bowl of broth is also common."
+  origin: "The dish is Cantonese in origin, its name transliterating the Chinese 'húntún' (餛飩). Malaysia's national cultural-mapping entry attributes its arrival on the peninsula to Cantonese and Hakka communities who came to Malaya in the 19th century during British rule, after which it settled into a local idiom — above all the dry, soy-dressed hawker style."
+  halal: "By tradition wonton mee is a pork dish — the char siu is barbecued pork and the wontons are filled with pork and prawn — so the classic bowl is not halal. Many Muslim-run stalls across Malaysia sell halal versions that swap the pork for chicken 'char siu' and use chicken or prawn wontons; vegetarian renditions using wheat gluten or mushrooms also exist. As practices vary by stall, check the individual shop if this matters to you."
+  eat: "In the dry (kon lou) style the noodles arrive tossed and glistening with the char siu on top, while the wontons sit separately in a small bowl of soup on the side — you eat the noodles, then spoon up the broth and dumplings in between. Pickled green chillies, sliced and steeped in vinegar, are the near-universal condiment, their sharp, sour-spicy bite cutting the richness; a dollop of chilli sauce or sambal is often offered too."
+  where: "Wonton mee is a fixture of Malaysian hawker stalls and the kopitiam and mamak breakfast table, especially the dry style associated with Kuala Lumpur and much of the peninsula. It shifts from town to town, with noted regional takes in Penang, Ipoh and Sarawak."
 ---
 
 Order wonton mee in Kuala Lumpur and you get a small mound of glossy egg noodles

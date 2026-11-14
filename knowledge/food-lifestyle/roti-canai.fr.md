@@ -100,6 +100,11 @@ social:
     - "MalaysianFood"
     - "NegaraKuMD"
 framework: explainer
+dishFacts:
+  what: "Un pain plat feuilleté cuit à la plaque. La pâte est étirée finement, lancée et pliée pour emprisonner des couches, puis cuite sur une plaque huilée jusqu'à devenir croustillante à l'extérieur et moelleuse et feuilletée à l'intérieur."
+  origin: "D'origine indo-musulmane (mamak), apporté en Malaisie par les migrants indiens, dont beaucoup de musulmans du Tamil Nadu, pendant l'époque coloniale britannique ; étroitement apparenté au paratha/parotta indien."
+  eat: "Généralement servi avec du dhal (curry de lentilles) ou une sauce au curry ; servi généreusement, on l'appelle banjir ('inondé'). Les versions sucrées se prennent avec du sucre ou du lait concentré. Les variantes incluent le roti telur (œuf), le roti bawang (oignon), le roti planta, le roti tisu et le roti bom."
+  where: "Dans les stands mamak — des établissements indo-musulmans informels avec une plaque de cuisson à l'avant, beaucoup ouverts de longues heures ou 24 heures sur 24. Un petit-déjeuner par défaut que l'on mange à toute heure, présent presque partout en Malaisie."
 ---
 
 Peu de sons appartiennent autant à un matin malaisien que le claquement et le battement de la pâte

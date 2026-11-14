@@ -87,6 +87,11 @@ keywords:
 social:
   hashtags: ["#HainaneseChickenRice", "#NasiAyam", "#ChickenRiceBalls", "#Melaka", "#MalaysianFood"]
 framework: history-culture
+dishFacts:
+  what: "Pollo escalfado o al vapor servido con arroz cocido en grasa y caldo de pollo, pepino y un trío de condimentos: una salsa de chile y ajo, jengibre rallado y salsa de soja oscura; localmente se llama nasi ayam."
+  origin: "Adaptado por los inmigrantes chinos hainaneses a partir del pollo Wenchang y del arroz con pollo Wenchang de Hainan, llevado a la Malaya británica durante la migración de los siglos XIX y XX; Ipoh, un centro importante de asentamiento hainanés, está especialmente asociada con él."
+  eat: "Se sirve como un plato de pollo escalfado en rodajas (a menudo a temperatura ambiente; también asado o frito) con el arroz aromático, pepino y los condimentos de chile, jengibre y soja oscura, por lo general junto a un cuenco de sopa clara; en Melaka y Muar el arroz se moldea a mano en esferas del tamaño de pelotas de golf (nasi ayam bola) y se come bola a bola."
+  where: "Un plato básico de kopitiam y puestos de hawker en todo el país —cafeterías, centros de hawker, patios de comida y locales especializados—, con Ipoh especialmente conocida por él y la forma de bolas de arroz como sello distintivo del casco antiguo de Melaka y de la vecina Muar."
 ---
 
 Pide un plato de arroz con pollo en un kopitiam (cafetería tradicional) malasio y llegan

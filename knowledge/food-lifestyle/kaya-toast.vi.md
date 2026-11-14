@@ -92,6 +92,11 @@ verificationNeeded:
   - "Nguồn gốc chính xác của kaya — truyền thống serikaya của người Mã Lai, ảnh hưởng của món sericaia Bồ Đào Nha, và việc truyền sang các đầu bếp Hải Nam đều được các nhà sử học ẩm thực khác nhau trích dẫn; hãy xem nguồn gốc này là còn tranh luận chứ không phải đã ngã ngũ."
   - "Khoảng thời gian chính xác mà các quán cà phê Hải Nam bén rễ cụ thể ở Malaya — khoảng thập niên 1920–1950 thường được trích dẫn và câu chuyện bữa sáng Nam Dương phần lớn đến từ các nguồn di sản lấy Singapore làm trung tâm."
 framework: history-culture
+dishFacts:
+  what: "Kaya toast là bánh mì phết kaya (một loại mứt dừa-và-trứng) cùng một lát bơ lạnh dày. Bánh mì thường là ổ trắng mỏng, nướng hoặc nướng than sao cho vẫn ấm và giòn trong khi bơ lạnh không bao giờ tan hẳn; bản thân kaya là nước cốt dừa, trứng và đường nấu liu riu thành một lớp kem phết được, nhuốm xanh bởi lá dứa theo kiểu Nyonya/Peranakan hoặc nâu hơn bởi đường caramel hóa theo kiểu Hải Nam."
+  origin: "Món ăn gắn liền không thể tách rời với cộng đồng người Hải Nam, những người đến Bán đảo Mã Lai và Singapore chủ yếu vào thế kỷ 19 và thường làm đầu bếp cho các gia đình và khách sạn của người Anh, người Âu và người Hoa Eo biển giàu có. Khi những chủ thuê đó thưa dần vào quanh thời Thế chiến thứ hai, nhiều người mở kopitiam (quán cà phê) riêng và biến bữa sáng kiểu Tây gồm bánh mì nướng-trứng-cà phê thành một kiểu 'Nam Dương' địa phương, dùng kaya dừa thay cho mứt nhập khẩu."
+  eat: "Nó được dọn thành một set với trứng lòng đào mềm và một tách kopi hoặc teh. Nghi thức là đập trứng vào một đĩa nhỏ, nêm tiêu trắng và một đường xì dầu đen (một số tiệm dùng xì dầu nhạt), khuấy lòng đỏ đã vỡ thành một vũng mặn bóng, rồi chấm các thanh kaya toast ấm thẳng vào trứng."
+  where: "Bạn tìm thấy nó trong các kopitiam khắp cả nước — phục vụ ở các quán cà phê trên khắp Penang, và được gìn giữ bởi các quán cà phê lâu đời ở Thung lũng Klang, Ipoh và các trung tâm thị trấn cũ. Một đĩa kaya toast, hai quả trứng lòng đào cùng một tách kopi hợp thành cái set mà hầu hết các quán cà phê đơn giản gọi là một bữa sáng."
 ---
 
 Khắp Malaysia, một ngày thường bắt đầu giống nhau: một chiếc bàn mặt đá cẩm thạch, một tách cà phê đậm

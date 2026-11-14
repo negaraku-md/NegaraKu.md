@@ -91,6 +91,12 @@ keywords:
 social:
   hashtags: ["#Satay", "#SatayKajang", "#SatayCelup", "#MalaysianFood", "#Malaysia"]
 framework: explainer
+dishFacts:
+  what: "Trozos pequeños de carne marinada —lo más habitual pollo, con ternera, cordero y cabra también a diario— ensartados en finas brochetas de bambú o de nervio de hoja de coco (lidi) y asados sobre carbón. Lo que lo hace satay es un trío que siempre va junto: una pasta de especias húmeda de cúrcuma y hierba limón, el humo del carbón y una salsa espesa de cacahuete para mojar."
+  origin: "Las raíces profundas del satay están en el Sudeste Asiático marítimo y en general se remonta a Java, en la actual Indonesia, donde absorbió las tradiciones del kebab de Oriente Medio que llevaron los comerciantes musulmanes y las técnicas de asado del sur de Asia. En Malasia está vinculado de forma más directa a las comunidades javanesa y malaya que se asentaron en la península a principios del siglo XX, y hoy sus variantes se comen desde Indonesia y Singapur hasta Tailandia y el sur de Filipinas."
+  halal: "El satay tradicional es comida malaya y javanesa —pollo, ternera o cordero marinados y asados sobre carbón— y es intrínsecamente halal, por lo que está presente en bodas y bazares de Ramadán. El satay celup de Melaka y el satay lok-lok de Penang son adaptaciones chinomalasias que a menudo no son halal, así que conviene preguntar en cada puesto antes de pedir."
+  eat: "Un pedido de satay rara vez llega solo como brochetas: viene con salsa de cacahuete caliente para mojar, arroz prensado (ketupat cocido al vapor en una bolsita tejida de hoja de palma, o nasi impit cortado en cubos firmes) y frescas rodajas de pepino y cebolla cruda que cortan la untuosidad. A veces se suma al plato el acar encurtido, y el satay de cordero se sirve en algunos lugares con salsa de soja dulce; es comida social, pensada para compartir por docenas."
+  where: "El satay se encuentra en puestos de carretera, pasar malam, bazares de Ramadán y mesas festivas por todo el país. Kajang, en Selangor, es la ciudad del satay más conocida de Malasia —el 'Satay Kajang' es un estilo que se vende en todo el país, declarado comida patrimonial del estado de Selangor en 2025—, mientras que Melaka es famosa por el satay celup comunitario en olla, Johor por los puestos de mercado nocturno por todo el sur y Kuala Lumpur por los puestos de estilo Kajang por toda la ciudad."
 ---
 
 Lo primero que llega es el sonido: un abanico de mano batiendo sobre una zanja de carbón al

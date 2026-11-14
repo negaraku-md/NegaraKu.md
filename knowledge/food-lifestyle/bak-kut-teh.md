@@ -100,6 +100,12 @@ social:
     - "#MalaysianFood"
     - "#NegaraKu"
 framework: explainer
+dishFacts:
+  what: "Bak kut teh is pork ribs and other cuts simmered for hours in a broth built from Chinese herbs and spices — star anise, cinnamon, cloves, fennel, garlic, white pepper and medicinal herbs such as dong quai and codonopsis, with light and dark soy. Two main styles exist: a dark, soy-rich herbal Hokkien broth and a lighter, clear, peppery Teochew one. The Hokkien name 肉骨茶 means 'meat bone tea', though the pot contains no tea leaves."
+  origin: "Within Malaysia, Klang — the old royal port town in Selangor — is widely credited as the dish's home and treated there as civic pride. The most popular origin story traces it to Chinese labourers around Port Klang in the early twentieth century, who needed cheap, warming, energy-dense food; other accounts credit a local sinseh (traditional physician) in the 1930s or 1940s. These are folk histories rather than documented records."
+  halal: "As a pork dish, bak kut teh is not halal: it is built around pork ribs and bones, so Muslims do not eat it, and it is cooked and sold in Chinese coffeeshops rather than halal-certified premises. For those who do not eat pork but want the herbal-soup experience, some cooks prepare a chicken version occasionally nicknamed 'chik kut teh' — a separate dish rather than a halal-certified bak kut teh."
+  eat: "It is a shared, sit-down meal, usually eaten for breakfast or lunch. The broth and meat arrive in a claypot or bowl with plain white rice, and torn pieces of you char kway (fried dough fritters) are dipped into the soup. A saucer of dark soy sauce with chilli padi and garlic is used for dipping the meat, while a pot of Chinese tea, often a roasted oolong, is poured throughout to cut the richness."
+  where: "Klang in Selangor is its Malaysian heartland, but you find it cooked and sold in Chinese coffeeshops and restaurants rather than at halal venues like Ramadan bazaars. In February 2024 it was gazetted a Malaysian national heritage food under the National Heritage Act 2005 (Act 645)."
 ---
 
 Few dishes announce themselves quite like bak kut teh. Before you see it, you smell

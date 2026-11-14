@@ -97,6 +97,11 @@ social:
     - "#HariRaya"
     - "#Minangkabau"
 framework: explainer
+dishFacts:
+  what: "Món cà ri thịt khô: thịt bò (hoặc gà, và trong lịch sử là trâu) hầm liu riu hàng giờ trong nước cốt dừa và sốt gia vị cho đến khi nước cạn và thịt chuyển sậm màu, khô lại và đậm đà hương vị."
+  origin: "Truy về người Minangkabau ở Tây Sumatra; được đưa vào Bán đảo Mã Lai qua cuộc di cư merantau của người Minangkabau và giao thương qua Eo biển Malacca, trở thành di sản chung của thế giới Mã Lai."
+  eat: "Một món trung tâm của lễ hội, đặc biệt được dọn vào dịp Hari Raya Aidilfitri cùng với ketupat và lemang, và lại xuất hiện trong Hari Raya Aidiladha, đám cưới và các tiệc kenduri."
+  where: "Trên bàn tiệc lễ hội và open-house của Malaysia; gắn liền chặt chẽ với cộng đồng gốc Minangkabau ở Negeri Sembilan và các kiểu rendang sậm màu của họ."
 ---
 
 Đi ngang một gian bếp Mã Lai vào những ngày trước Hari Raya, bạn thường sẽ nghe

@@ -87,6 +87,11 @@ keywords:
 social:
   hashtags: ["#HainaneseChickenRice", "#NasiAyam", "#ChickenRiceBalls", "#Melaka", "#MalaysianFood"]
 framework: history-culture
+dishFacts:
+  what: "Ayam rebus atau kukus disajikan dengan nasi yang dimasak dengan lemak dan kaldu ayam, mentimun, dan tiga pelengkap — saus cabai-bawang putih, parutan jahe, dan kecap gelap; secara lokal disebut nasi ayam."
+  origin: "Diadaptasi oleh imigran Tionghoa Hainan dari ayam Wenchang dan nasi ayam Wenchang asal Hainan, dibawa ke Malaya Britania selama migrasi abad ke-19 dan ke-20; Ipoh, pusat utama pemukiman Hainan, sangat lekat dengannya."
+  eat: "Disajikan sebagai sepiring ayam rebus iris (sering pada suhu ruang; juga dipanggang atau digoreng kering) dengan nasi yang harum, mentimun, dan pelengkap cabai-jahe-kecap gelap, biasanya didampingi semangkuk sup bening; di Melaka dan Muar nasinya dibentuk bulat seukuran bola golf dengan tangan (nasi ayam bola) dan disantap bola demi bola."
+  where: "Makanan pokok kopitiam dan penjaja di seluruh negeri — kedai kopi, pusat penjaja, food court, dan kedai khusus — dengan Ipoh terutama dikenal akannya dan bentuk nasi bola menjadi ciri khas kota tua Melaka serta Muar di dekatnya."
 ---
 
 Pesan sepiring nasi ayam di kopitiam (kedai kopi tradisional) Malaysia dan tiga hal

@@ -91,6 +91,11 @@ verificationNeeded:
   - "Tên gọi và định nghĩa chính xác của các biến thể theo quầy 'mee goreng basah' (ướt) và 'mee goreng kering' (khô): 'basah/ướt' có chứng cứ, nhưng không tìm thấy định nghĩa đáng tin cậy về một kiểu 'kering/khô' riêng biệt. Hãy xác minh với một tài liệu tham khảo về ẩm thực Malaysia."
   - "Tuyên bố rằng các phiên bản mamak ở Singapore thường đỏ hơn (có thêm phẩm màu) so với phiên bản Malaysia — được truyền thông ẩm thực đưa tin; hãy xác minh với một nguồn mạnh hơn."
 framework: explainer
+dishFacts:
+  what: "Mì lúa mì vàng xào với trứng, khoai tây luộc, đậu phụ chiên (taufu) và giá đỗ trong nước sốt cay-ngọt làm từ tương cà, ớt và xì dầu ngọt (kecap manis), thường có tôm hoặc phiên bản thịt cừu, hoàn thiện với một lát chanh calamansi vắt lên."
+  origin: "Phiên bản mì xào của người Hồi giáo gốc Ấn (mamak, thường là Tamil theo Hồi giáo); được xem rộng rãi là một món lai địa phương — mì vàng kiểu Hoa nêm nếm theo lối Mã Lai-Ấn — được cho là không tồn tại ở Ấn Độ dưới dạng này. Nguồn gốc chính xác còn gây tranh cãi, với các thuyết chỉ về người Tamil Hồi giáo nhập cư và nghề bán hàng rong xe đẩy đầu thế kỷ 20."
+  eat: "Nấu theo yêu cầu trong vài phút trên chảo lửa lớn; dọn ra đĩa với một miếng chanh calamansi vắt lên ngay tại bàn, ăn như bữa trưa nhanh, bữa tối rẻ hoặc món khuya."
+  where: "Các quán mamak, quán cà phê và tiệm ăn 24 giờ trên khắp Malaysia, từ xe đẩy ven đường đến chuỗi cửa hàng máy lạnh; phiên bản ở Penang ướt hơn và đậm sốt hơn."
 ---
 
 Bước đến gần như bất kỳ quầy mamak nào ở Malaysia sau khi trời tối, bạn sẽ nghe

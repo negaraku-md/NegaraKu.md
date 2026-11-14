@@ -87,6 +87,11 @@ keywords:
 social:
   hashtags: ["#HainaneseChickenRice", "#NasiAyam", "#ChickenRiceBalls", "#Melaka", "#MalaysianFood"]
 framework: history-culture
+dishFacts:
+  what: "Gà luộc hoặc hấp ăn kèm cơm nấu với mỡ và nước dùng gà, dưa chuột, và bộ ba gia vị chấm — nước tương ớt-tỏi, gừng bào và xì dầu đen; địa phương gọi là nasi ayam."
+  origin: "Được người Hoa gốc Hải Nam phỏng theo món gà Văn Xương (Wenchang) và cơm gà Văn Xương của đảo Hải Nam, mang đến Malaya thuộc Anh trong làn sóng di cư thế kỷ 19 và 20; Ipoh, một trung tâm định cư lớn của người Hải Nam, đặc biệt gắn liền với món này."
+  eat: "Dọn ra thành đĩa gà luộc thái lát (thường ở nhiệt độ phòng; cũng có loại quay hoặc chiên giòn) với cơm thơm, dưa chuột và gia vị ớt-gừng-xì dầu đen, thường kèm một bát canh trong; ở Melaka và Muar cơm được vo bằng tay thành những viên cỡ quả bóng golf (nasi ayam bola) và ăn từng viên một."
+  where: "Món chủ lực của kopitiam và quầy hàng rong trên khắp cả nước — quán cà phê, trung tâm ẩm thực, khu ăn uống và các tiệm chuyên — với Ipoh đặc biệt nổi tiếng, còn dạng cơm nắm viên là đặc trưng của khu phố cổ Melaka và vùng Muar lân cận."
 ---
 
 Gọi một đĩa cơm gà trong một kopitiam (quán cà phê truyền thống) ở Malaysia và ba

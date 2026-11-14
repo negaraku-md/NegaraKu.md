@@ -100,6 +100,11 @@ social:
     - "MalaysianFood"
     - "NegaraKuMD"
 framework: explainer
+dishFacts:
+  what: "Un pan plano hojaldrado hecho a la plancha. La masa se estira fina, se lanza y se pliega para atrapar capas, y luego se cocina en una plancha aceitada hasta quedar crujiente por fuera y blanda y laminada por dentro."
+  origin: "De origen indomusulmán (mamak), llevado a Malaya por los migrantes indios, muchos de ellos musulmanes de Tamil Nadu, durante la era colonial británica; muy emparentado con el paratha/parotta indio."
+  eat: "Suele servirse con dhal (curry de lentejas) o una salsa de curry; cuando se sirve con generosidad se llama banjir ('inundado'). Las versiones dulces se toman con azúcar o leche condensada. Entre las variantes están el roti telur (huevo), el roti bawang (cebolla), el roti planta, el roti tisu y el roti bom."
+  where: "En los puestos mamak —locales indomusulmanes informales con una plancha al frente, muchos abiertos largas horas o las 24 horas—. Un desayuno por defecto que se come a cualquier hora y se encuentra casi en todas partes de Malasia."
 ---
 
 Pocos sonidos pertenecen a una mañana malasia tanto como el chasquido y el aleteo de la masa contra

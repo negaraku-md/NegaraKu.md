@@ -98,6 +98,12 @@ social:
     - "#MalaysianFood"
     - "#StreetFood"
 framework: explainer
+dishFacts:
+  what: "Des nouilles de riz plates (kway teow, 炒粿條) sautées à feu vif avec des crevettes, des coques (voir hum), de l'œuf, des germes de soja, de la ciboule chinoise et du saucisson chinois dans de la sauce soja et du piment ; prisées pour leur wok hei, le 'souffle du wok' fumé."
+  origin: "Chinois, le plus étroitement lié à la communauté teochew, avec des racines dans la région de Chaoshan du Guangdong ; en Asie du Sud-Est, il a commencé comme un repas bon marché et gras pour les ouvriers, pêcheurs et ramasseurs de coques chinois."
+  halal: "La version traditionnelle n'est pas halal : elle est classiquement frite dans du saindoux, souvent avec des lardons de gras de porc, et contient des coques. Des cuisiniers musulmans en Malaisie et à Singapour préparent des versions halal qui omettent le porc et le saindoux et peuvent utiliser du poulet ou du bœuf ; il vaut mieux se renseigner à chaque stand."
+  eat: "Mangé frais sorti du wok avec une boisson fraîche, souvent servi sur une feuille de bananier ; frit en petites quantités, avec des catégories 'special' (crevettes, coques ou œuf en supplément) et 'gourmet' (crabe ou squilles)."
+  where: "Une cuisine de rue des stands de hawker et des cafés (kopitiam) ; Penang est largement considérée comme son foyer spirituel, avec un style plus léger et moins sucré, tandis que la version de Singapour penche vers le style hokkien."
 ---
 
 Peu d'assiettes résument aussi complètement la cuisine de rue malaisienne que le

@@ -96,6 +96,12 @@ keywords:
 social:
   hashtags: ["#NasiKandar", "#Penang", "#Mamak", "#MalaysianFood", "#Banjir", "#GeorgeTown"]
 framework: explainer
+dishFacts:
+  what: "Nasi kandar ialah nasi kukus yang digabungkan dengan pelbagai kari dan lauk goreng yang dipilih sendiri, kemudian 'banjir' dengan campuran kuah kari yang dicurah ke atas nasi supaya perisanya bercantum. Sifat utamanya ialah percampuran beberapa kuah itu, jadi tiada dua suapan yang rasanya sama benar."
+  origin: "Ia hidangan Malaysia utara yang berakar di Pulau Pinang, diperkenalkan oleh pedagang Tamil-Muslim dari India. Pada awal 1900-an penjaja India-Muslim yang berpindah-randah menjual kari dan nasi kepada pekerja dok di Weld Quay di George Town; namanya merekodkan 'kandar', kayu galas bahu tempat penjaja menggantung periuk nasi di satu hujung dan kari di hujung satu lagi."
+  halal: "Sebagai makanan India-Muslim (mamak), nasi kandar halal — ia datang daripada masyarakat India-Muslim Pulau Pinang, pedagang yang keturunannya hari ini dikenali sebagai mamak."
+  eat: "Memesan ialah ritual tunjuk-dan-pilih: anda menghampiri kaunter, menunjuk apa yang dikehendaki — ayam goreng, sotong, bendi, telur — dan pelayan menyusun pinggan di hadapan anda, kemudian membanjiri nasi dengan campuran beberapa kuah kari melainkan anda minta sebaliknya. Secara tradisinya nasi dan lauk berkongsi satu pinggan; kini banyak kedai menghidangkan lauk dalam mangkuk kecil tetapi masih membanjiri nasinya."
+  where: "Pulau Pinang ialah tempat asalnya, terutamanya George Town, tempat rumah terkenal termasuk Hameediyah di Lebuh Campbell (dikesan ke 1907 dan diiktiraf sebagai restoran nasi kandar tertua di pulau itu) dan Line Clear di sebelah Penang Road, lama dikenali sebagai kedai makan 24 jam. Kaunter mamak sepanjang masa menjadi teras daya tarikannya, dan hidangan ini sejak itu merebak ke seluruh negara melalui rangkaian dan kedai 24 jam."
 ---
 
 Tanya sesiapa sahaja di Pulau Pinang di mana hendak makan lewat malam, dan

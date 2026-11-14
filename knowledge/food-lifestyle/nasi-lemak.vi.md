@@ -98,6 +98,11 @@ verificationNeeded:
   - "Tuyên bố cụ thể rằng nasi lemak, roti canai và teh tarik được công bố trên công báo là di sản quốc gia theo National Heritage Act 2005 vào năm 2022 — hãy xác nhận công báo và năm chính xác với Cục Di sản Quốc gia (Jabatan Warisan Negara) của Malaysia."
   - "Câu chuyện nguồn gốc về cô gái Malacca 'Seri' / 'Nasi le, mak' là văn hóa dân gian, không phải lịch sử có ghi chép, và chỉ nên được trình bày như một truyền thuyết."
 framework: explainer
+dishFacts:
+  what: "Cơm nấu với nước cốt dừa (santan) và lá dứa, ăn kèm sambal ớt cay-ngọt cùng các món phụ tiêu chuẩn: ikan bilis (cá cơm khô chiên), đậu phộng rang, dưa chuột và trứng luộc hoặc chiên."
+  origin: "Được xem rộng rãi là một món ăn Mã Lai có gốc rễ sâu xa trong khẩu phần nông thôn của người Mã Lai, nơi việc nấu cơm với kem dừa biến thứ tinh bột đơn sơ thành món bổ dưỡng; cái tên là tiếng Mã Lai, 'lemak' nghĩa là béo ngậy. Từng là bữa sáng của người Mã Lai, nay nó là món ăn chủ lực mọi lúc, cho mọi cộng đồng, được xem là món ăn quốc gia của Malaysia và được công nhận là một phần của 'Văn hóa bữa sáng ở Malaysia', ghi danh vào Danh sách Đại diện Di sản Văn hóa Phi vật thể của UNESCO năm 2024."
+  eat: "Ở dạng cổ xưa nhất, nó là nasi lemak bungkus, gói xoắn trong lá chuối để ăn sáng mang đi; khi bày trên đĩa, cơm được vun giữa với sambal và đồ ăn kèm xung quanh, trộn lên khi ăn. Thường được nâng cấp với rendang, gà chiên (ayam goreng), sambal sotong (mực) hoặc sò huyết."
+  where: "Bán từ xe đẩy, chợ sáng, quầy ven đường và căng tin trường học, phục vụ ở các quán mamak quá nửa đêm và tại buffet khách sạn; các kiểu địa phương khác nhau (cơm nhuốm vàng quanh Alor Setar, cá ngừ ở Terengganu)."
 ---
 
 Trước khi mặt trời ló dạng hẳn, mùi hương đã đến phố trước tiên: cơm đậm nước cốt dừa,

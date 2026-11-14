@@ -96,6 +96,12 @@ verificationNeeded:
   - "The etymology of the word 'laksa' (Persian, Sanskrit and Hokkien theories all circulate) — confirm with a linguistic or lexicographic source rather than food media."
   - "The regional attribution of laksam to Kelantan and Terengganu and the exact noodle/gravy description — confirm with a local source."
 framework: explainer
+dishFacts:
+  what: "Laksa is not one dish but a family of Malaysian noodle soups sharing a format — noodles in a strongly flavoured, usually fish-forward broth finished with fresh herbs and chilli or shrimp paste — rather than a fixed recipe. The broths diverge sharply: Penang's sour tamarind 'asam' broth with no coconut; the rich coconut-milk 'curry laksa' (laksa lemak); Sarawak's 'sambal belacan' paste; Johor's thick fish-and-coconut gravy; and the mild rolled-noodle laksam of the east coast."
+  origin: "The earliest Malaysian laksa is generally credited to the Peranakan (Straits-born Chinese) communities of the old trading ports, especially Melaka and Penang, whose kitchens married Chinese noodles with Malay spice pastes and local souring agents — the fusion behind the term 'Nyonya laksa'. The name itself is contested, variously traced to Persian, Sanskrit and Hokkien roots."
+  halal: "The styles the article describes are built on fish, prawns and chicken rather than pork, and several — such as the Malay-rooted Johor laksa associated with Sultan Abu Bakar's kitchen — sit squarely in the halal mainstream. But with Peranakan Chinese heritage running through much of the family, preparation varies by cook, so check the individual stall."
+  eat: "Each bowl is served over noodles — thick rice noodles for asam laksa, yellow egg noodles or vermicelli for curry laksa, fine 'bihun' for Sarawak laksa, spaghetti for Johor laksa, and rolled flat rice-flour sheets for laksam — and crowned with its own garnishes of herbs, sprouts, seafood or shredded chicken, with chilli, sambal belacan or lime adjusted to taste. Johor laksa is often eaten by hand."
+  where: "Laksa is found across Malaysia, with each state leaning on its own larder: Penang in the north for sour asam laksa (and a coconut 'curry mee'), the Klang Valley and Melaka for curry laksa / laksa lemak, Kuching in Sarawak for the sambal-belacan Sarawak laksa, Johor in the south for spaghetti-based Johor laksa, and Kelantan and Terengganu on the east coast for rolled laksam."
 ---
 
 Order "laksa" in Penang and you get a sharp, sour fish broth that makes you

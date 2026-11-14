@@ -98,6 +98,12 @@ social:
     - "#MalaysianFood"
     - "#StreetFood"
 framework: explainer
+dishFacts:
+  what: "Mi beras pipih (kway teow, 炒粿條) ditumis di atas api besar bersama udang, kerang darah (lihat hum), telur, tauge, kucai, dan sosis Tionghoa dalam kecap dan cabai; dihargai karena wok hei, 'napas wajan' yang berasap."
+  origin: "Tionghoa, paling lekat dengan masyarakat Teochew, dengan akar di wilayah Chaoshan di Guangdong; di Asia Tenggara ia bermula sebagai santapan murah dan berlemak bagi buruh, nelayan, dan pencari kerang Tionghoa."
+  halal: "Versi tradisionalnya tidak halal: secara klasik digoreng dengan lemak babi, sering dengan crouton lemak babi, dan mengandung kerang darah. Juru masak Muslim di Malaysia dan Singapura menyiapkan versi halal yang menghilangkan babi dan lemak babi serta mungkin menggunakan ayam atau sapi; tanyakan ke tiap gerai."
+  eat: "Disantap segar langsung dari wajan dengan minuman dingin, sering disajikan di atas daun pisang; digoreng dalam porsi kecil, dengan tingkatan 'spesial' (tambahan udang, kerang, atau telur) dan 'gourmet' (kepiting atau udang mantis)."
+  where: "Jajanan jalanan gerai penjaja dan kedai kopi (kopitiam); Penang secara luas dianggap sebagai rumah spiritualnya, dengan gaya yang lebih ringan dan tidak terlalu manis, sedangkan versi Singapura condong ke Hokkien."
 ---
 
 Sedikit hidangan yang menangkap jajanan kaki lima Malaysia selengkap char kway

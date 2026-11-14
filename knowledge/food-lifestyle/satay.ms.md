@@ -91,6 +91,12 @@ keywords:
 social:
   hashtags: ["#Satay", "#SatayKajang", "#SatayCelup", "#MalaysianFood", "#Malaysia"]
 framework: explainer
+dishFacts:
+  what: "Potongan daging yang diperap bersaiz sesuap — selalunya ayam, dengan daging lembu, kambing dan biri-biri juga setiap hari — dicucuk pada lidi buluh atau lidi kelapa nipis dan dibakar di atas arang. Yang menjadikannya satay ialah tiga unsur yang sentiasa seiring: rempah basah berasaskan kunyit dan serai, asap arang, serta sos kacang yang pekat untuk dicecah."
+  origin: "Akar satay yang mendalam terletak di Asia Tenggara maritim dan ia umumnya dikesan ke Jawa di Indonesia hari ini, tempat ia menyerap tradisi kebab Timur Tengah yang dibawa oleh pedagang Muslim serta teknik membakar Asia Selatan. Di Malaysia ia paling langsung dikaitkan dengan masyarakat Jawa dan Melayu yang menetap di semenanjung pada awal abad kedua puluh, dan hari ini variannya dimakan dari Indonesia dan Singapura hinggalah ke Thailand dan selatan Filipina."
+  halal: "Satay tradisional ialah makanan Melayu dan Jawa — ayam, daging lembu atau kambing yang diperap dan dibakar di atas arang — dan pada dasarnya halal, sebab itu ia menjadi hidangan di majlis perkahwinan dan bazar Ramadan. Satay celup Melaka dan satay lok-lok Pulau Pinang ialah adaptasi Cina Malaysia yang selalunya tidak halal, jadi semak gerai masing-masing sebelum memesan."
+  eat: "Pesanan satay jarang tiba dengan cucuk sahaja: ia datang bersama sos kacang yang suam untuk dicecah, nasi mampat (ketupat yang dikukus dalam sarung daun palma yang dianyam, atau nasi impit yang dipotong dadu), serta hirisan timun dan bawang mentah yang sejuk bagi mengimbangi kekayaannya. Jeruk acar kadangkala turut dihidangkan, dan satay kambing di sesetengah tempat dihidangkan dengan kicap manis; ia makanan sosial, dimakan beramai-ramai berdozen."
+  where: "Satay dijumpai di gerai tepi jalan, pasar malam, bazar Ramadan dan meja perayaan di seluruh negara. Kajang di Selangor ialah bandar satay paling terkenal di Malaysia — 'Satay Kajang' ialah gaya yang dijual di seluruh negara, diwartakan sebagai makanan warisan negeri Selangor pada 2025 — manakala Melaka terkenal dengan satay celup secara berkumpulan, Johor dengan gerai pasar malam di seluruh selatan, dan Kuala Lumpur dengan gerai gaya Kajang di serata bandar."
 ---
 
 Bunyinya datang dahulu: sebuah kipas tangan mengebas di atas parit bara arang yang

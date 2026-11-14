@@ -91,6 +91,11 @@ verificationNeeded:
   - "La denominación y definición precisas de las variantes de puesto 'mee goreng basah' (húmedo) y 'mee goreng kering' (seco): 'basah/húmedo' está atestiguado, pero no se localizó una definición fiable de un estilo 'kering/seco' distinto. Verifíquese con una referencia gastronómica malaya."
   - "La afirmación de que las versiones mamak de Singapur suelen ser más rojas (con colorante añadido) que las malayas — reportada por medios gastronómicos; verifíquese con una fuente más sólida."
 framework: explainer
+dishFacts:
+  what: "Fideos amarillos de trigo salteados con huevo, patata cocida, tofu frito (taufu) y brotes de soja en una salsa dulce y picante construida sobre ketchup de tomate, chile y salsa de soja dulce (kecap manis), a menudo con gambas o en una versión de cordero, rematado con un chorro de lima calamansi."
+  origin: "La versión indomusulmana (mamak, a menudo tamil-musulmana) de los fideos fritos; se considera ampliamente un plato de fusión local —fideos amarillos al estilo chino sazonados a la manera malayo-india— del que se dice que no existe en la India en esta forma. Su origen exacto es objeto de debate, con relatos que apuntan a los inmigrantes tamiles musulmanes y a un comercio ambulante de carretillas de principios del siglo XX."
+  eat: "Se cocina al momento en minutos en un wok a fuego vivo; se sirve en un plato con un gajo de lima calamansi que se exprime en la mesa, y se come como almuerzo rápido, cena económica o tentempié de madrugada."
+  where: "Puestos mamak, cafeterías y locales abiertos 24 horas por toda Malasia, desde carritos de carretera hasta cadenas con aire acondicionado; las versiones de Penang son más caldosas y con una salsa más intensa."
 ---
 
 Acércate a casi cualquier puesto mamak de Malasia al caer la noche y lo oirás

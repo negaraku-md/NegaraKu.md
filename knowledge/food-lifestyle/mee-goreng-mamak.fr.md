@@ -91,6 +91,11 @@ verificationNeeded:
   - "La dénomination et la définition précises des variantes de stand « mee goreng basah » (humide) et « mee goreng kering » (sec) : « basah/humide » est attesté, mais aucune définition fiable d'un style « kering/sec » distinct n'a été trouvée. À vérifier auprès d'une référence gastronomique malaisienne."
   - "L'affirmation selon laquelle les versions mamak de Singapour sont généralement plus rouges (avec colorant ajouté) que les malaisiennes — rapportée par les médias gastronomiques ; à vérifier auprès d'une source plus solide."
 framework: explainer
+dishFacts:
+  what: "Des nouilles de blé jaunes sautées avec de l'œuf, de la pomme de terre bouillie, du tofu frit (taufu) et des germes de soja dans une sauce sucrée-épicée à base de ketchup, de piment et de sauce soja sucrée (kecap manis), souvent avec des crevettes ou dans une version au mouton, relevées d'un trait de citron calamansi."
+  origin: "La version indo-musulmane (mamak, souvent tamoule-musulmane) des nouilles sautées ; largement considérée comme un plat de fusion local — des nouilles jaunes de style chinois assaisonnées à la manière malaise-indienne — dont on dit qu'il n'existe pas sous cette forme en Inde. Ses origines exactes sont débattues, certains récits pointant vers les immigrants tamouls-musulmans et un commerce ambulant en charrette du début du XXe siècle."
+  eat: "Préparé à la commande en quelques minutes dans un wok à feu vif ; servi en assiette avec un quartier de citron calamansi pressé à table, mangé comme un déjeuner rapide, un dîner bon marché ou un repas de fin de soirée."
+  where: "Stands mamak, cafés et établissements ouverts 24 heures sur 24 à travers la Malaisie, des charrettes de rue aux chaînes climatisées ; les versions de Penang sont plus liquides et plus intensément assaisonnées."
 ---
 
 Approchez-vous de presque n'importe quel stand mamak de Malaisie à la nuit tombée
