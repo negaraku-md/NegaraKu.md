@@ -59,6 +59,11 @@ verificationNeeded:
   - "对照MyTax与LHDN，确认个人就业收入的登记／报税门槛（据报为扣除EPF后约RM34,000）及任何现行报税宽限期。"
 
 updated: 2026-10-26
+commonMisconception:
+  - myth: "是否交马来西亚个人所得税看国籍。"
+    fact: "看的是税务居民身份——依《1967 年所得税法》第 7 条按在马天数判定(一年累计约 182 天及以上),与国籍无关。居民适用 0% 至 30% 累进税率,非居民一律 30% 统一税率。"
+  - myth: "按工资总额交税。"
+    fact: "按应课税所得(扣除可抵扣开支、扣除项与税务减免后的余额)计税,不是按工资总额或营业额;马来西亚实行自行评税。"
 sources:
   - title: "马来西亚内陆税收局（LHDN／HASiL）——官方门户 (Lembaga Hasil Dalam Negeri Malaysia (LHDN / HASiL) — official portal)"
     url: "https://www.hasil.gov.my/"

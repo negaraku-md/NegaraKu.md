@@ -56,6 +56,11 @@ revisions:
     reviewer: null
 
 updated: 2026-08-14
+commonMisconception:
+  - myth: "After a scam you must go to a police station to file a report first."
+    fact: "If money has already been transferred, call 997 (the National Scam Response Centre, now 24-hour) immediately — since September 2025 the 997 call itself counts as a police report, so no separate station visit is needed. Call your bank fraud hotline at the same time to freeze the account."
+  - myth: "There is no way to check whether a bank account or number belongs to a scammer."
+    fact: "SemakMule (semakmule.rmp.gov.my) is the police CCID free portal to check whether a bank account or phone number has been reported for fraud before you pay."
 sources:
   - title: "National Scam Response Centre (NSRC)"
     url: "https://nfcc.jpm.gov.my/index.php/en/about-nsrc"

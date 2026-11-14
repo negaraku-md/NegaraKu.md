@@ -57,6 +57,9 @@ revisions:
     reviewer: null
 
 updated: 2026-08-08
+commonMisconception:
+  - myth: "The balance in an e-wallet is protected like a bank deposit."
+    fact: "E-wallet issuers are approved as e-money issuers (EMI) under section 11 of the Financial Services Act 2013 — not as banks. Your balance is not a deposit (issuers cannot pay interest on it), and PIDM deposit insurance does not directly protect an e-wallet balance; your funds are instead held in a segregated trust account."
 sources:
   - title: "Electronic Money (E-Money) Policy Document (issued 31 January 2025)"
     url: "https://www.bnm.gov.my/documents/20124/943361/27012025_Revised_E-Money_PD_v2.pdf"

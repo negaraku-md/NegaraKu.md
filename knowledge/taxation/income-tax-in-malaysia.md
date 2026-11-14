@@ -58,6 +58,11 @@ verificationNeeded:
   - "Confirm the individual employment-income registration/filing threshold (reported around RM34,000 after EPF) and any current filing grace period, against MyTax and LHDN."
 
 updated: 2026-10-26
+commonMisconception:
+  - myth: "Whether you pay Malaysian income tax depends on your citizenship."
+    fact: "It depends on tax residency — a day count under section 7 of the Income Tax Act 1967 (broadly 182 days or more in a calendar year), not citizenship. Residents pay a progressive 0% to 30% scale; non-residents pay a flat 30%."
+  - myth: "Income tax is charged on your gross salary."
+    fact: "Tax is on chargeable income — what remains after allowable expenses, deductions and reliefs — for each year of assessment, not on gross salary or turnover. Malaysia uses self-assessment."
 sources:
   - title: "Lembaga Hasil Dalam Negeri Malaysia (LHDN / HASiL) — official portal"
     url: "https://www.hasil.gov.my/"

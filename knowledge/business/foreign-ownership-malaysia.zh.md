@@ -67,6 +67,9 @@ revisions:
 sensitivity: "race"
 
 updated: 2026-07-20
+commonMisconception:
+  - myth: "外国人不能 100% 持有马来西亚公司。"
+    fact: "《2016 年公司法》对马来西亚注册公司不设任何股权限制(MIDA 明确说明);制造业自 2003 年 6 月起允许 100% 外资。股权上限只存在于特定持牌行业(如电信、油气、部分分销贸易),并非普遍规则。"
 sources:
   - title: "股权政策 — 外国投资保护 (Equity Policy — protection of foreign investment)"
     url: "https://www.mida.gov.my/setting-up-content/equity-policy-protect-foreign-investment/"

@@ -47,6 +47,9 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "Malaysia has a very large ethnic-Chinese majority."
+    fact: "Per DOSM, ethnic Chinese make up about 22.1% of citizens (Q1 2026) — the second-largest group, not a majority. Malays (58.3%) plus Other Bumiputera (12.3%) make Bumiputera roughly 70.5% of citizens; Indians are about 6.5%."
 sources:
   - title: "Current Population Estimates, Malaysia, 2025"
     url: "https://www.dosm.gov.my/uploads/release-content/file_20250821151339.pdf"

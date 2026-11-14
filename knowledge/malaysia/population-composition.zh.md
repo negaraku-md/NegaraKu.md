@@ -47,6 +47,9 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "马来西亚华人占多数。"
+    fact: "据 DOSM,华人约占公民的 22.1%(2026 年第一季),是第二大族群,不是多数。马来人(58.3%)加其他土著(12.3%)使土著(Bumiputera)约占公民的 70.5%;印度裔约 6.5%。"
 sources:
   - title: "当前人口估计，马来西亚，2025 (Current Population Estimates, Malaysia, 2025)"
     url: "https://www.dosm.gov.my/uploads/release-content/file_20250821151339.pdf"

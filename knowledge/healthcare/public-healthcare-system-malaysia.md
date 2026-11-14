@@ -43,6 +43,9 @@ revisions:
     reviewer: null
 verificationNeeded: []
 updated: 2026-08-14
+commonMisconception:
+  - myth: "Malaysia has mandatory national health insurance that automatically covers you."
+    fact: "Public healthcare is funded solely from general taxation — there is no mandatory national health insurance. Citizens pay only nominal, subsidised fees at Ministry of Health facilities (RM1 for general outpatient, RM5 for specialist). The public system runs alongside a large private sector."
 sources:
   - title: "Healthcare in Malaysia"
     url: "https://en.wikipedia.org/wiki/Healthcare_in_Malaysia"

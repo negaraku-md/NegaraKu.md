@@ -44,6 +44,9 @@ revisions:
     reviewer: null
 verificationNeeded: []
 updated: 2026-08-14
+commonMisconception:
+  - myth: "马来西亚有强制国民医保,会自动覆盖你。"
+    fact: "公立医疗完全由税收支撑,没有强制国民医保。公民在卫生部(MOH)院所只付象征性补贴费(普通门诊 RM1、专科 RM5)。公立系统与庞大的私立医疗并行。"
 sources:
   - title: "马来西亚的医疗保健 (Healthcare in Malaysia)"
     url: "https://en.wikipedia.org/wiki/Healthcare_in_Malaysia"

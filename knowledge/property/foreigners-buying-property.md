@@ -45,6 +45,9 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "Foreigners can buy any property in Malaysia."
+    fact: "Non-citizens can buy only above a minimum price each state sets on its own, and only after the State Authority grants written consent under section 433B of the National Land Code. Malay Reserved land, agricultural land, and Bumiputera-quota or low-cost units are off-limits. From 1 January 2026 non-citizens pay a flat 8% stamp duty on residential transfers."
 sources:
   - title: "National Land Code 1965 (Act 56 / Act 828, Revised) — sections 433A to 433E"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20201015_828_BI_WJW015175%20National%20Land%20Code%20Act%20828%20(Pewartaan).pdf"

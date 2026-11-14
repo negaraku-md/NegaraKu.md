@@ -57,6 +57,11 @@ verificationNeeded:
   - "The full, current MDAC exemption categories (PR holders, MACS holders, Singapore-transit travellers) against the official Immigration portal."
 
 updated: 2026-08-07
+commonMisconception:
+  - myth: "A Chinese passport gets 90 days visa-free in Malaysia."
+    fact: "Chinese nationals currently enter visa-free for up to 30 days for tourism, business or social visits — not 90. Longer stays need a separate visa (e.g. MM2H). Almost every visitor must also submit the Malaysia Digital Arrival Card (MDAC) before arrival."
+  - myth: "Visa-free entry lets you work or study in Malaysia."
+    fact: "A visa waiver or eVisa covers tourism, social and business visits only. Working or studying always requires a separate, purpose-specific pass — acting outside your entry purpose is an immigration offence."
 sources:
   - title: "Visa Requirement by Country"
     url: "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/"

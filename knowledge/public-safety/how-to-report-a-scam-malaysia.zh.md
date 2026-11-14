@@ -56,6 +56,11 @@ revisions:
     reviewer: null
 
 updated: 2026-08-14
+commonMisconception:
+  - myth: "被骗后要先去警察局报案才有用。"
+    fact: "若款项已转给骗子,立刻拨打 997(全国诈骗应对中心 NSRC,现已 24 小时);2025 年 9 月起,拨打 997 本身即算正式报案,无需另去警局。同时拨打银行诈骗热线以冻结账户。"
+  - myth: "没办法事先查一个银行账号或号码是不是骗子。"
+    fact: "付款前可用 SemakMule(semakmule.rmp.gov.my)——警方商业罪案调查局(CCID)的免费平台,查某银行账号或电话号码是否被举报涉及诈骗。"
 sources:
   - title: "国家诈骗应对中心 (National Scam Response Centre (NSRC))"
     url: "https://nfcc.jpm.gov.my/index.php/en/about-nsrc"

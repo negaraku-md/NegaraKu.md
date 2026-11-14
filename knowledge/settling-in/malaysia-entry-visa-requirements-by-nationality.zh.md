@@ -58,6 +58,11 @@ verificationNeeded:
   - "就移民局官方门户核实完整、当前的MDAC豁免类别（PR持有人、MACS持有人、经Singapore中转的旅客）。"
 
 updated: 2026-08-07
+commonMisconception:
+  - myth: "中国护照去马来西亚免签 90 天。"
+    fact: "中国公民目前免签入境最多 30 天(旅游、商务或社交访问),不是 90 天;更长居留需另办签证(如 MM2H)。此外几乎所有旅客都须在入境前填写马来西亚数字入境卡(MDAC)。"
+  - myth: "免签入境就能在马来西亚工作或读书。"
+    fact: "免签或 eVisa 只涵盖旅游、社交、商务访问;工作或留学必须另外申请专门准证——超出入境目的属于移民违法。"
 sources:
   - title: "按国家划分的签证要求 (Visa Requirement by Country)"
     url: "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/"

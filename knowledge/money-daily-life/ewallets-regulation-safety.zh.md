@@ -57,6 +57,9 @@ revisions:
     reviewer: null
 
 updated: 2026-08-08
+commonMisconception:
+  - myth: "e-wallet 里的余额像银行存款一样受保障。"
+    fact: "e-wallet 发行商是依《2013 年金融服务法》第 11 条获批的电子货币发行商(EMI),不是银行。余额不是存款(发行商不得付利息),PIDM 存款保险不直接保障 e-wallet 余额;你的资金改为存放在受隔离的信托账户中。"
 sources:
   - title: "电子货币（E-Money）政策文件（2025年1月31日发布） (Electronic Money (E-Money) Policy Document (issued 31 January 2025))"
     url: "https://www.bnm.gov.my/documents/20124/943361/27012025_Revised_E-Money_PD_v2.pdf"

@@ -62,6 +62,9 @@ verificationNeeded:
   - "JAKIM 认证获国际清真机构承认的范围及依据。"
 
 updated: 2026-08-01
+commonMisconception:
+  - myth: "任何商家都能自己贴清真(Halal)标志。"
+    fact: "只有 JAKIM(国家级)和州宗教机构 MAIN/JAIN 有权发放马来西亚清真认证、准用 Halal Malaysia 标志,并依 MS 1500 国家标准认证。认证在联邦法下属自愿,但滥用清真标志属刑事罪。可通过 Semak Status Halal 门户或 JAKIM 认可的 Verify Halal App 核实。"
 sources:
   - title: "马来西亚清真门户 — MYeHALAL 系统 (Portal Halal Malaysia — Sistem MYeHALAL)"
     url: "https://myehalal.halal.gov.my/portal-halal/v1/index.php?lang=bm"

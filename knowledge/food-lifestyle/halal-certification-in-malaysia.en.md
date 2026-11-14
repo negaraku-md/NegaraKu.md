@@ -62,6 +62,9 @@ verificationNeeded:
   - "Extent and basis of JAKIM certification recognition by international halal bodies."
 
 updated: 2026-08-01
+commonMisconception:
+  - myth: "Any business can display a halal logo on its own."
+    fact: "Only JAKIM (national) and the state religious authorities MAIN/JAIN may issue the Malaysia Halal certificate and permit the Halal Malaysia logo, certified against the MS 1500 standard. Certification is voluntary under federal law, but misusing the halal logo is a criminal offence. Verify any claim via the Semak Status Halal portal or the JAKIM-recognised Verify Halal app."
 sources:
   - title: "Portal Halal Malaysia — Sistem MYeHALAL"
     url: "https://myehalal.halal.gov.my/portal-halal/v1/index.php?lang=bm"

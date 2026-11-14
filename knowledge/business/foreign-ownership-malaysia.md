@@ -65,6 +65,9 @@ revisions:
 sensitivity: "race"
 
 updated: 2026-07-20
+commonMisconception:
+  - myth: "Foreigners cannot own 100% of a Malaysian company."
+    fact: "The Companies Act 2016 imposes no equity condition on a Malaysian-incorporated company, and MIDA states this expressly; manufacturing has allowed 100% foreign equity since June 2003. Caps survive only inside specific licensed sectors (such as telecommunications, oil and gas, and some distributive trades), not as a general rule."
 sources:
   - title: "Equity Policy — protection of foreign investment"
     url: "https://www.mida.gov.my/setting-up-content/equity-policy-protect-foreign-investment/"
