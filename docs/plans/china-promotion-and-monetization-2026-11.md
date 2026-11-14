@@ -1,5 +1,10 @@
 # China promotion & monetization playbook (Nov 2026)
 
+> **PRIORITY (set 2026-11-14): 流量 FIRST, monetization LAST.** Part A (promotion /
+> reach) is the active track. Part B (monetization) is **deferred to last** — its
+> only time-sensitive step (clear commercial-use terms) is already DONE+LIVE, so
+> deferring the rest costs nothing. Do not start Part B work until reach is built.
+
 Status: **decided**. This folds the two pasted strategy documents (promotion +
 monetization, 2026-11-14) into one committed plan, with the corrections we agreed
 and the parts already shipped marked **DONE**. Supersedes the scattered notes in
