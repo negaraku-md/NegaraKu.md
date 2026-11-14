@@ -8,6 +8,8 @@ import PageHero from './PageHero.astro';
 import { stat } from '@/lib/pageStats';
 import HubGroups from './HubGroups.astro';
 import ArticleStrip from './ArticleStrip.astro';
+import ScenarioBand from './ScenarioBand.astro';
+import { scenariosForHub } from '@/lib/scenarios';
 
 import ServiceCategory from './category/ServiceCategory.astro';
 
@@ -61,6 +63,12 @@ const STRIP = 4;
 const MIN_FOR_STRIPS = 12;
 const showStrips = articles.length >= MIN_FOR_STRIPS;
 const mrKeys = showStrips ? mostReadKeys(articles, STRIP) : [];
+
+// 吃喝玩乐 ENTRY LAYER — surface a compact "体验 · Experience" rail on the
+// food / festival / tourism hubs, showing only the scenes whose steps funnel
+// into THIS category (scenariosForHub). The band self-resolves the full corpus,
+// so cross-category scene steps still link. Silent on hubs with no scenes.
+const hasScenarioRail = scenariosForHub(category.id).length > 0;
 ---
 
 <PageHero
@@ -98,6 +106,8 @@ const mrKeys = showStrips ? mostReadKeys(articles, STRIP) : [];
 }
 
 <Body locale={locale} category={category} articles={articles} />
+
+{hasScenarioRail && <ScenarioBand locale={locale} articles={articles} hub={category.id} />}
 
 {pillar && <HubGroups locale={locale} pillar={pillar} activeCategory={category.id} topSeparator />}
 

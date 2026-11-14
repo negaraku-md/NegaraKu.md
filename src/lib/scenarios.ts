@@ -21,6 +21,11 @@ export interface Scenario {
   icon: string;
   title: Record<Locale, string>;
   steps: GuidedStep[];
+  /** Category-hub pages this scene is surfaced on as an "Experience" rail.
+   *  A scene appears on a hub only where its steps genuinely funnel into that
+   *  category's content, so hook→depth stays honest (no off-topic scenes).
+   *  Category ids (e.g. 'food-lifestyle', 'arts-culture', 'tourism'). */
+  hubs: string[];
   /** Optional outbound "体验 · Experience" callout after the steps. Internal
    *  (e.g. a tool) or external (an affiliate booking link). `href` is
    *  locale-agnostic for internal; a full URL for external. */
@@ -29,6 +34,11 @@ export interface Scenario {
     href: string;
     external?: boolean;
   };
+}
+
+/** Scenes to surface as the "体验 · Experience" rail on a given category hub. */
+export function scenariosForHub(catId: string): Scenario[] {
+  return SCENARIOS.filter((s) => s.hubs.includes(catId));
 }
 
 export const SCENARIOS: Scenario[] = [
@@ -50,6 +60,7 @@ export const SCENARIOS: Scenario[] = [
       es: 'Una mañana en un kopitiam',
       fr: 'Un matin dans un kopitiam',
     },
+    hubs: ['food-lifestyle'],
     steps: [
       { cat: 'food-lifestyle', slug: 'kopitiam-mamak-culture' },
       { cat: 'food-lifestyle', slug: 'kopi-teh-tarik-and-coffeeshop-drinks' },
@@ -93,6 +104,7 @@ export const SCENARIOS: Scenario[] = [
       es: 'Vivir el Thaipusam',
       fr: 'Vivre le Thaipusam',
     },
+    hubs: ['arts-culture'],
     steps: [
       { cat: 'arts-culture', slug: 'thaipusam' },
       { cat: 'arts-culture', slug: 'hinduism-in-malaysia' },
@@ -118,6 +130,7 @@ export const SCENARIOS: Scenario[] = [
       es: 'Primera vez en un hawker centre',
       fr: 'Première fois dans un hawker centre',
     },
+    hubs: ['food-lifestyle'],
     steps: [
       { cat: 'food-lifestyle', slug: 'hawker-centres-and-food-courts' },
       { cat: 'food-lifestyle', slug: 'nasi-lemak' },
@@ -143,6 +156,7 @@ export const SCENARIOS: Scenario[] = [
       es: 'Un Año Nuevo Chino en Malasia',
       fr: 'Un Nouvel An chinois en Malaisie',
     },
+    hubs: ['arts-culture'],
     steps: [
       { cat: 'arts-culture', slug: 'chinese-new-year' },
       { cat: 'arts-culture', slug: 'chinese-dialects' },
@@ -168,6 +182,7 @@ export const SCENARIOS: Scenario[] = [
       es: 'Celebrar el Hari Raya',
       fr: 'Célébrer le Hari Raya',
     },
+    hubs: ['arts-culture'],
     steps: [
       { cat: 'arts-culture', slug: 'hari-raya-aidilfitri' },
       { cat: 'food-lifestyle', slug: 'rendang' },
@@ -193,6 +208,7 @@ export const SCENARIOS: Scenario[] = [
       es: 'Celebrar el Deepavali',
       fr: 'Célébrer le Deepavali',
     },
+    hubs: ['arts-culture'],
     steps: [
       { cat: 'arts-culture', slug: 'deepavali' },
       { cat: 'arts-culture', slug: 'hinduism-in-malaysia' },
@@ -218,6 +234,7 @@ export const SCENARIOS: Scenario[] = [
       es: 'Un paseo histórico por George Town',
       fr: 'Une balade patrimoniale à George Town',
     },
+    hubs: ['tourism', 'arts-culture'],
     steps: [
       { cat: 'tourism', slug: 'penang-george-town-visitor-guide' },
       { cat: 'arts-culture', slug: 'unesco-world-heritage' },
@@ -243,6 +260,7 @@ export const SCENARIOS: Scenario[] = [
       es: 'Un día de isla',
       fr: 'Une journée sur une île',
     },
+    hubs: ['tourism'],
     steps: [
       { cat: 'tourism', slug: 'east-coast-islands-guide' },
       { cat: 'transport', slug: 'domestic-ferries-and-island-transport' },

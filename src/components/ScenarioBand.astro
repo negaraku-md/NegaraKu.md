@@ -1,63 +1,112 @@
 ---
 import type { Locale } from '@/lib/categories';
 import type { Article } from '@/lib/content';
+import { articlesForLocale } from '@/lib/content';
 import { loc } from '@/lib/categories';
 import { localePath } from '@/lib/i18n';
-import { SCENARIOS } from '@/lib/scenarios';
+import { SCENARIOS, scenariosForHub, type Scenario } from '@/lib/scenarios';
 import GuidedPath from './GuidedPath.astro';
 
 // 吃喝玩乐 ENTRY LAYER — a "体验 · Experience" band: a short intro, then each
 // lifestyle SCENE rendered as a GuidedPath stepper (variant 'scenario'). Each
 // scene is a doorway into cited knowledge (hook→depth); reuses existing articles,
 // no transaction, no ranking. NOT a pillar — mounted as a band on discovery pages.
+//
+// Two modes:
+//  • Full (no `hub`): the magazine-front band on /explore — every scene + a big
+//    "Experience Malaysia" intro. Resolves steps from the passed `articles` pool.
+//  • Hub-scoped (`hub` set): a COMPACT rail on a category hub (food-lifestyle /
+//    arts-culture / tourism) showing only the scenes whose steps funnel into that
+//    category. Steps are resolved from the FULL locale corpus (scenes cross
+//    categories), so it is self-sufficient and ignores the category-only pool.
 
 interface Props {
   locale: Locale;
-  /** Locale-filtered article pool (from articlesForLocale). */
+  /** Locale-filtered article pool (from articlesForLocale). Used for step
+   *  resolution in full mode; ignored in hub-scoped mode (fetches full pool). */
   articles: Article[];
+  /** Category id to scope the rail to (compact mode). Omit for the full band. */
+  hub?: string;
 }
-const { locale, articles } = Astro.props;
+const { locale, articles, hub } = Astro.props;
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+// Hub-scoped rail resolves scene steps from the whole corpus (scenes cross
+// categories), and the memoized per-locale cache keeps that effectively free.
+const scenes: Scenario[] = hub ? scenariosForHub(hub) : SCENARIOS;
+const pool: Article[] = hub ? await articlesForLocale(locale) : articles;
+
+const experienceLabel = L('Pengalaman', 'Experience', '体验', 'அனுபவம்', '体験', '경험', 'สัมผัส', 'Trải nghiệm', 'Pengalaman', 'تجربة', 'अनुभव', 'Experiencia', 'Expérience');
 ---
 
-<section class="container block sb-intro">
-  <h2>
-    <span class="sb-ico" aria-hidden="true">🎎</span>
-    {L('Alami Malaysia', 'Experience Malaysia', '体验马来西亚', 'மலேசியாவை அனுபவியுங்கள்', 'マレーシアを体験する', '말레이시아를 경험하다', 'สัมผัสมาเลเซีย', 'Trải nghiệm Malaysia', 'Rasakan Malaysia', 'اختبر ماليزيا', 'मलेशिया को महसूस करें', 'Vive Malasia', 'Vivez la Malaisie')}
-  </h2>
-  <p class="sb-lead">
-    {L(
-      'Beberapa suasana untuk dimasuki — setiap satu pintu ke kisah Malaysia yang bersumber.',
-      'A few scenes to step into — each a doorway into Malaysia’s sourced story.',
-      '几个可以走进的场景——每一个都是通往马来西亚有来源故事的入口。',
-      'நுழைவதற்கான சில காட்சிகள் — ஒவ்வொன்றும் மலேசியாவின் ஆதாரமுள்ள கதைக்கான வாயில்.',
-      '入り込めるいくつかの情景 — それぞれがマレーシアの出典付きの物語への入り口です。',
-      '들어가 볼 몇 가지 장면 — 각각이 출처 있는 말레이시아 이야기로 가는 문입니다.',
-      'ฉากต่าง ๆ ที่ก้าวเข้าไปได้ — แต่ละฉากคือประตูสู่เรื่องราวที่มีแหล่งอ้างอิงของมาเลเซีย',
-      'Vài khung cảnh để bước vào — mỗi cảnh là cánh cửa dẫn vào câu chuyện có nguồn của Malaysia.',
-      'Beberapa suasana untuk dimasuki — masing-masing pintu menuju kisah Malaysia yang bersumber.',
-      'بضعة مشاهد لتدخل إليها — كل منها بوابة إلى قصة ماليزيا الموثّقة.',
-      'कुछ दृश्य जिनमें आप प्रवेश कर सकते हैं — हर एक मलेशिया की स्रोत-सहित कहानी का द्वार।',
-      'Algunas escenas en las que adentrarte, cada una una puerta a la historia documentada de Malasia.',
-      'Quelques scènes où entrer — chacune une porte vers l’histoire sourcée de la Malaisie.',
-    )}
-  </p>
-</section>
-
 {
-  SCENARIOS.map((s) => (
-    <GuidedPath
-      locale={locale}
-      articles={articles}
-      steps={s.steps}
-      variant="scenario"
-      icon={s.icon}
-      heading={loc(s.title, locale)}
-      experienceLabel={s.experience ? loc(s.experience.label, locale) : undefined}
-      experienceHref={s.experience ? (s.experience.external ? s.experience.href : localePath(s.experience.href, locale)) : undefined}
-      experienceExternal={s.experience?.external}
-    />
-  ))
+  scenes.length > 0 && (
+    <>
+      {!hub && (
+        <section class="container block sb-intro">
+          <h2>
+            <span class="sb-ico" aria-hidden="true">🎎</span>
+            {L('Alami Malaysia', 'Experience Malaysia', '体验马来西亚', 'மலேசியாவை அனுபவியுங்கள்', 'マレーシアを体験する', '말레이시아를 경험하다', 'สัมผัสมาเลเซีย', 'Trải nghiệm Malaysia', 'Rasakan Malaysia', 'اختبر ماليزيا', 'मलेशिया को महसूस करें', 'Vive Malasia', 'Vivez la Malaisie')}
+          </h2>
+          <p class="sb-lead">
+            {L(
+              'Beberapa suasana untuk dimasuki — setiap satu pintu ke kisah Malaysia yang bersumber.',
+              'A few scenes to step into — each a doorway into Malaysia’s sourced story.',
+              '几个可以走进的场景——每一个都是通往马来西亚有来源故事的入口。',
+              'நுழைவதற்கான சில காட்சிகள் — ஒவ்வொன்றும் மலேசியாவின் ஆதாரமுள்ள கதைக்கான வாயில்.',
+              '入り込めるいくつかの情景 — それぞれがマレーシアの出典付きの物語への入り口です。',
+              '들어가 볼 몇 가지 장면 — 각각이 출처 있는 말레이시아 이야기로 가는 문입니다.',
+              'ฉากต่าง ๆ ที่ก้าวเข้าไปได้ — แต่ละฉากคือประตูสู่เรื่องราวที่มีแหล่งอ้างอิงของมาเลเซีย',
+              'Vài khung cảnh để bước vào — mỗi cảnh là cánh cửa dẫn vào câu chuyện có nguồn của Malaysia.',
+              'Beberapa suasana untuk dimasuki — masing-masing pintu menuju kisah Malaysia yang bersumber.',
+              'بضعة مشاهد لتدخل إليها — كل منها بوابة إلى قصة ماليزيا الموثّقة.',
+              'कुछ दृश्य जिनमें आप प्रवेश कर सकते हैं — हर एक मलेशिया की स्रोत-सहित कहानी का द्वार।',
+              'Algunas escenas en las que adentrarte, cada una una puerta a la historia documentada de Malasia.',
+              'Quelques scènes où entrer — chacune une porte vers l’histoire sourcée de la Malaisie.',
+            )}
+          </p>
+        </section>
+      )}
+
+      {hub && (
+        <section class="container block sb-rail">
+          <span class="sb-rail__ico" aria-hidden="true">🎎</span>
+          <span class="sb-rail__kicker">{experienceLabel}</span>
+          <span class="sb-rail__lead">
+            {L(
+              'Masuki suasananya — setiap langkah membuka rencana yang disertakan sumber.',
+              'Step into the scene — each step opens a cited article.',
+              '走进这些场景——每一步都打开一篇标明出处的文章。',
+              'காட்சிக்குள் நுழையுங்கள் — ஒவ்வொரு படியும் மேற்கோள் காட்டப்பட்ட கட்டுரையைத் திறக்கிறது.',
+              '情景に入りましょう — 各ステップが出典付きの記事を開きます。',
+              '장면 속으로 들어가 보세요 — 각 단계가 출처 있는 글을 엽니다.',
+              'ก้าวเข้าสู่ฉาก — แต่ละขั้นเปิดบทความที่อ้างอิงแหล่งที่มา',
+              'Bước vào khung cảnh — mỗi bước mở một bài viết có trích nguồn.',
+              'Masuki suasananya — setiap langkah membuka artikel yang dikutip.',
+              'ادخل إلى المشهد — كل خطوة تفتح مقالاً مع مصادره.',
+              'दृश्य में प्रवेश करें — हर कदम एक स्रोत-सहित लेख खोलता है।',
+              'Entra en la escena: cada paso abre un artículo citado.',
+              'Entrez dans la scène — chaque étape ouvre un article sourcé.',
+            )}
+          </span>
+        </section>
+      )}
+
+      {scenes.map((s) => (
+        <GuidedPath
+          locale={locale}
+          articles={pool}
+          steps={s.steps}
+          variant="scenario"
+          icon={s.icon}
+          heading={loc(s.title, locale)}
+          experienceLabel={s.experience ? loc(s.experience.label, locale) : undefined}
+          experienceHref={s.experience ? (s.experience.external ? s.experience.href : localePath(s.experience.href, locale)) : undefined}
+          experienceExternal={s.experience?.external}
+        />
+      ))}
+    </>
+  )
 }
 
 <style>
@@ -65,4 +114,16 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
   .sb-intro h2 { margin: 0 0 0.3rem; font-size: 1.5rem; display: inline-flex; align-items: center; gap: 0.55rem; }
   .sb-ico { font-size: 1.3rem; line-height: 1; }
   .sb-lead { margin: 0; color: var(--muted); max-width: 62ch; font-size: 0.95rem; line-height: 1.5; }
+
+  /* Compact hub rail header — one line: icon · all-caps kicker · lead. */
+  .sb-rail {
+    display: flex; align-items: baseline; flex-wrap: wrap; gap: 0.3rem 0.6rem;
+    padding-bottom: 0.1rem; border-bottom: 1px solid var(--line); margin-bottom: 0.4rem;
+  }
+  .sb-rail__ico { font-size: 1.1rem; line-height: 1; align-self: center; }
+  .sb-rail__kicker {
+    font-size: 0.72rem; font-weight: 800; letter-spacing: 0.12em; text-transform: uppercase;
+    color: var(--gold);
+  }
+  .sb-rail__lead { color: var(--muted); font-size: 0.9rem; line-height: 1.45; }
 </style>
