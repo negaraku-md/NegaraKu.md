@@ -1,0 +1,24 @@
+NegaraKu.md — Design System License
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The NegaraKu.md *design system* — the reusable design patterns: CSS design
+tokens, layout and component structure, and typography/spacing scales — is
+licensed under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0). You are free to share and adapt these patterns, including
+commercially, provided you give appropriate attribution to NegaraKu.md.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+EXCLUSION — brand assets are NOT covered by this license.
+This license does NOT grant any right to the NegaraKu.md brand assets: the
+"NegaraKu.md" wordmark, the Bunga Raya / hexagon logo, all marks and lockups,
+the bespoke illustrations, and the signature visual identity. Those are
+proprietary and All Rights Reserved — see public/brand/README.md. Reusing the
+design patterns under this license does not permit reuse of the brand assets,
+nor presenting your work as NegaraKu.md or implying its endorsement.
+
+The site's typefaces (Montserrat, Lato) are third-party fonts under the SIL Open
+Font License and are governed by their own OFL terms, not by this license.
+
+See LICENSING.md for how this layer fits with the content (CC BY-SA 4.0) and
+code (MIT) licenses.

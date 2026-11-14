@@ -61,6 +61,15 @@ Reporting a coverage gap is a first-class contribution — you don't have to wri
 
 ## Licensing & citation
 
-- **Content**: [CC BY-SA 4.0](LICENSE-CONTENT)
+NegaraKu.md is **layered** — see [LICENSING.md](LICENSING.md) for the full statement.
+
+- **Content** (`knowledge/`): [CC BY-SA 4.0](LICENSE-CONTENT) — free to reuse,
+  incl. commercially and for AI training, with attribution + share-alike
 - **Code**: [MIT](LICENSE)
+- **Design system** (patterns/tokens, brand assets excluded): [CC BY 4.0](LICENSE-DESIGN)
+- **Brand assets** (wordmark, logo, illustrations, visual identity): **all rights
+  reserved** — see [`public/brand/README.md`](public/brand/README.md)
+- **Commercial AI / bulk access**: the content license already permits it for free;
+  what's offered for a fee is an *enterprise access/service* channel, not content
+  rights — see [LICENSING.md](LICENSING.md)
 - **Cite this work**: [CITATION.cff](CITATION.cff)
