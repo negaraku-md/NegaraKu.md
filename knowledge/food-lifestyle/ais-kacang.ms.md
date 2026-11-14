@@ -97,6 +97,11 @@ social:
     - "#ShavedIce"
     - "#PasarMalam"
 framework: explainer
+dishFacts:
+  what: "Pencuci mulut ais serut, turut dipanggil ABC, disusun sebagai gunungan ais serut halus di atas pelbagai inti manis yang kenyal. Di bawahnya lazimnya ada kacang merah, jagung manis dan campuran cincau, atap chee (buah muda pokok nipah yang jernih) serta jeli agar-agar, disiram sirap mawar atau sarsi, gula melaka dan susu sejat atau susu pekat."
+  origin: "Nama 'ais kacang' bermaksud lebih kurang 'ais kacang', merujuk bentuk awalnya iaitu ais serut ditimbun di atas kacang merah; 'ABC' pula singkatan air batu campur. Asal-usulnya diperdebatkan dan tiada pencipta tunggal yang terdokumentasi kukuh: sejarawan makanan umumnya meletakkan kemunculannya pada awal abad kedua puluh setelah ais menjadi murah, dengan sesetengah catatan menjejak versi awal ke Singapura sekitar Perang Dunia Pertama dan bentuk bertimbun muncul menjelang 1940-an, manakala tulisan lain mengaitkan asal Peranakan di Melaka — jadi anggaplah sejarahnya sebagai anggaran."
+  eat: "Dilihat kurang sebagai puding rasmi berbanding jajan penyejuk yang dimakan sambil berdiri di gerai, selalunya diserut mengikut pesanan supaya setiap suapan menyatukan ais, kacang, jeli dan kemanisan. Resipi berbeza-beza mengikut gerai, jadi semak gerai masing-masing: sesetengahnya meninggalkan sirap berwarna untuk profil gula melaka yang lebih gelap, dan ada variasi yang menambah aiskrim, kacang tanah tumbuk, durian, atau buah seperti mangga, strawberi atau laici di atas timbunan itu."
+  where: "Pada dasarnya makanan jalanan, ditemui di kopitiam, pusat penjaja dan medan selera, serta kelaziman di pasar malam, dengan harga lazimnya beberapa ringgit semangkuk. Ia biasa di seluruh Malaysia (dan turut dimakan di Singapura dan Brunei); sesetengah catatan menyebut variasi serantau seperti Johor yang bersandar pada gula melaka berasap, serta versi Sabah dan Sarawak yang dihidangkan dengan sagu mutiara dan mangga, walaupun butiran serantau itu datang daripada sumber terhad dan wajar disahkan secara setempat."
 ---
 
 Pada petang panas di Malaysia, sedikit sahaja perkara yang dapat menarik orang

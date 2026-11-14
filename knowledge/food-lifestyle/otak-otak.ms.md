@@ -93,6 +93,11 @@ verificationNeeded:
   - "Etimologi rakyat 'otak' ('otak', daripada rupa adunan yang seakan otak) — sahkan dengan sumber linguistik atau leksikografi dan bukan media makanan."
   - "Sama ada buah keras tergolong dalam rempah otak-otak yang standard — sesetengah resipi memasukkannya manakala yang lain (cth. resipi Nyonya Cooking yang dipetik) tidak; sahkan komposisi pes yang tipikal dengan sumber kulinari Peranakan."
 framework: explainer
+dishFacts:
+  what: "Otak-otak ialah pes ikan berempah — ikan (lazimnya ikan tenggiri) diadun dengan rempah tumbuk cili, kunyit, serai, bawang kecil, lengkuas dan halia, dilonggarkan dengan santan serta diikat dengan sedikit kanji, telur, gula dan garam. Adunan ini dibalut dengan daun pisang, kelapa atau nipah (atap) dan dipanggang di atas arang atau dikukus. Namanya yang pelik bermaksud 'otak' dalam bahasa Melayu — rujukan rakyat kepada rupa adunan ikan yang lembut, pucat dan kelabu seperti otak, bukan kepada mana-mana ramuan."
+  origin: "Ia kerap digambarkan sebagai gabungan masakan Melayu dan Peranakan, dengan dapur Cina Selat mengahwinkan teknik Cina dengan rempah Melayu. Malaysia mempunyai dua gaya luas: versi selatan yang nipis, rata, lebih kering dan dipanggang arang yang terkenal di Muar, Johor serta dikongsi merentasi Johor dan Melaka, dan gaya Nyonya (Peranakan) yang tebal, lembut dan berkastard dari Pulau Pinang, selalunya beraroma daun kaduk. Ia hidangan bersama Selat Melaka, dengan akar terawalnya lazimnya dijejak ke Palembang di Sumatera Selatan."
+  eat: "Ia dimakan sebagai jajan dan lauk, dibuka dari bungkusan daunnya yang hangus. Versi Malaysia dan Singapura lazimnya berwarna jingga kemerahan daripada cili dan rempah, manakala versi Indonesia cenderung lebih pucat dan dihidang dengan sos cecah seperti cuko atau sos kacang."
+  where: "Dalam Malaysia, Muar di Johor ialah nama yang paling dikaitkan dengan otak-otak — 'otak-otak Muar' hampir berfungsi sebagai jenama dan menarik pengunjung dari negeri jiran serta dari Singapura. Pulau Pinang dan Melaka ialah tempat asal gaya Nyonya yang lebih lembut. Merentasi rantau ini ia juga ditemui di Indonesia dan di Singapura, di mana ia dikenali sebagai otah."
 ---
 
 Buka parsel otak-otak dan perkara pertama yang anda temui ialah baunya: daun

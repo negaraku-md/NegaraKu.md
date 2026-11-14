@@ -89,6 +89,12 @@ verificationNeeded:
   - "Si le tamarin est essentiel à chaque version : certains cuisiniers le remplacent ou le complètent par du jus de citron vert ou de citron, et la source habituelle de la note acide varie selon la recette. À vérifier : la base de sauce courante dans les styles humide et sec."
   - "La garniture standard (œuf dur, crevettes, tofu frit, ciboule, germes de soja, calamansi plutôt que citron vert) varie selon le cuisinier et la région — à vérifier : la composition malaisienne la plus typique."
 framework: explainer
+dishFacts:
+  what: "De fins vermicelles de riz (bihun) assaisonnés pour tenir en équilibre les notes sucrées, acidulées et épicées à la fois, bâtis sur une pâte d'épices rempah au tamarin (asam jawa), au taucheo (soja fermenté) et aux crevettes séchées, arrondis d'un peu de sucre. Il se décline en un mee siam kuah 'humide' baigné d'une sauce acidulée et un mee siam goreng 'sec' sauté avec la même base — le style sec étant le plus courant en Malaisie."
+  origin: "Le nom signifie 'nouille siamoise' (le Siam étant l'ancien nom de la Thaïlande) et le plat emprunte aux saveurs thaïes, pourtant c'est une création locale malaisienne et singapourienne, non un plat thaï. Qui l'a confectionné le premier est réellement disputé — les récits le rattachent tantôt à Penang, tantôt aux cuisiniers malais, tantôt à la cuisine peranakan (Chinois des Détroits) ; une vue largement partagée en fait un plat de carrefour mêlant des notes chinoises, malaises, peranakan et thaïes."
+  halal: "Le mee siam est un pilier de la cuisine malaise, et le mee siam goreng sec en particulier est, selon un récit, 'plus souvent vendu par la communauté malaise' et surtout associé aux stands malais."
+  eat: "Fini d'un ensemble familier de garnitures — œuf dur (coupé en deux), crevettes, beignets de tofu (tau pok), ciboule (kucai), germes de soja croquants et un quartier de calamansi (limau kasturi) ou de citron vert pressé juste avant de manger, avec une cuillerée de sambal à côté pour relever la chaleur à sa guise. Les garnitures exactes varient d'un stand à l'autre."
+  where: "Cuisiné dans plus d'une tradition — un pilier des stands malais, où la version goreng sèche se trouve surtout, et un plat adoré de la cuisine nyonya (peranakan). Sur le plan régional, le style sauté à sec est associé au Johor et une version humide est un favori de Melaka."
 ---
 
 Commandez un « mee siam » et le résultat dépend de l'étal. Dans l'un, vous obtenez

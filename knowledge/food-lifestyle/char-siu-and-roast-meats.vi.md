@@ -96,6 +96,12 @@ verificationNeeded:
   - "Cách truyền thông ẩm thực mô tả một kiểu char siu 'phong cách KL' riêng biệt (nhiều mỡ hơn, cháy xém hơn, đôi khi làm từ ba chỉ) so với các phong cách vùng khác——xin xác minh với một nguồn ẩm thực chuyên sâu, vì điều này rút ra từ các bài đánh giá nhà hàng."
   - "Cách phiên âm La-tinh và chữ Hán chính xác của các loại thịt quay như được dùng ở Malaysia (siu ngap 燒鴨 vịt quay, siu ngo 燒鵝 ngỗng quay, và các cách viết địa phương như 'siew yoke')——xin xác minh với một nguồn từ vựng tiếng Quảng Đông hoặc nguồn ngôn ngữ địa phương."
 framework: explainer
+dishFacts:
+  what: "Đây là siu mei (燒味), gia đình thịt quay của người Quảng Đông: char siu (thịt heo quay phết mật ong hoặc mạch nha với các cạnh cháy sém hơi caramel), siu yoke hay siew yoke (thịt ba chỉ quay được chuộng vì lớp da giòn rụm trên các tầng mỡ và nạc), cùng vịt quay (siu ngap) và gà quay. Loại này gần như toàn thịt, không rau, bán từ các tiệm thịt quay Trung Hoa chuyên dụng."
+  origin: "Siu mei là kiểu nấu quay xoay của người Quảng Đông — thịt ướp gia vị, treo lên và quay trên lửa hoặc trong các lò cao. Ở Malaysia truyền thống này đi theo những người di dân Quảng Đông và các nhóm Hoa phương nam khác rồi an định thành tiệm thịt quay khu phố, một nhánh cốt lõi của ẩm thực Hoa-Malaysia."
+  halal: "Các món chủ đạo — char siu và siu yoke — là thịt heo, nên một tiệm thịt quay Trung Hoa truyền thống không halal và không được chứng nhận như vậy. Những quán này thuộc về lối ăn uống của cộng đồng Hoa và kopitiam, không phải ẩm thực Malay hay mamak. Vịt quay và gà quay không phải thịt heo, nhưng khi được chế biến và bán tại cùng cơ sở không halal thì chúng vẫn không halal đối với thực khách Hồi giáo."
+  eat: "Thịt quay được chặt theo yêu cầu trên một thớt gỗ, cả xương, thành các miếng vừa ăn. Món thường gọi hằng ngày là char siu fan — thịt trên cơm trắng hấp với một thìa nước sốt loãng, hơi ngọt và vài cọng rau chần như choy sum hay kai lan; một phần cơm thập cẩm (siu mei fan) kết hợp hai hay ba loại thịt. Chúng cũng được dùng phủ lên mì hoành thánh, hoặc bán theo cân để mang về."
+  where: "Bạn tìm thấy siu mei ở các tiệm thịt quay Trung Hoa chuyên dụng — thường là một mặt tiền nhỏ hoặc một quầy góc bên trong kopitiam — và ở các tiệm cơm gà, nơi mà các quầy thịt quay thường gối lên nhau. Các bài viết ẩm thực Malaysia chỉ ra những quán cụ thể, như Sin Yuan ở Sungai Besi và Sun Ming Kee ở Cheras."
 ---
 
 Đẩy mở tấm kính của một tiệm thịt quay người Hoa, và tủ trưng bày sẽ nói cho bạn

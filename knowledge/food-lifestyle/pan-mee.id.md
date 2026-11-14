@@ -90,6 +90,12 @@ verificationNeeded:
   - "Topping standar, khususnya apakah jamur kuping (bukan jamur shiitake kering atau jamur lain) bersifat tradisional — resep dan kedai tepercaya berbeda-beda; pastikan dengan sumber kuliner Malaysia."
   - "Hubungan dan penamaan antara pan mee dan mee hoon kueh, serta klaim bahwa kawasan berbahasa Hokkien (termasuk Singapura) lebih menyukai nama mee hoon kueh — sumber menggambarkannya sebagai erat kaitannya atau hidangan yang sama dengan label dialek berbeda; pastikan dengan sumber regional."
 framework: explainer
+dishFacts:
+  what: "Pan mee (板面) adalah hidangan mi gandum Hakka Tionghoa-Malaysia berupa mi yang disobek tangan, dijumput jari, atau dipotong pisau/mesin dalam kaldu ikan bilis (ikan teri kering). Disajikan dengan topping daging babi cincang goreng, jamur, sayuran hijau (paling sering sayur manis), ikan teri goreng renyah, dan telur rebus setengah matang. Ada pula versi cabai kering yang populer, chilli pan mee."
+  origin: "Sumber-sumber mengaitkan penciptaan hidangan ini dengan masyarakat Hakka, yang bermigrasi ke Malaysia beberapa generasi lalu, dan ia tetap paling umum di Semenanjung Malaysia bagian tengah dan selatan tempat sebagian besar orang Hakka menetap. Chilli pan mee yang kering sangat diasosiasikan dengan Kuala Lumpur dan Lembah Klang, dengan asalnya ditempatkan di kawasan Chow Kit di kota itu."
+  halal: "Semangkuk tradisionalnya tidak halal: ia diberi topping daging babi cincang goreng dan kaldunya sering diperdalam dengan merebus ikan teri bersama tulang babi. Chilli pan mee dapat memakai ayam cincang alih-alih babi, jadi tanyakan ke tiap gerai."
+  eat: "Hidangan ini hadir dengan dua cara. Versi sup menyajikan mi dan kaldu ikan teri bersama dalam satu mangkuk, hangat dan ringan; versi kering memisahkan kaldu di sisi dan mengaduk mi dengan bumbu seperti kecap asin gelap, saus XO, atau sambal. Untuk chilli pan mee, telur rebus setengah matang biasanya diaduk sehingga kuning telurnya melapisi mi, lalu penyantap menambahkan serpihan cabai kering tumbuk dari toples sesuai selera."
+  where: "Anda menemukannya di kedai kopi di seluruh Semenanjung Malaysia bagian tengah dan selatan, termasuk Kuala Lumpur, Seremban, dan Ipoh, tempat sebuah gerai membentuk adonannya dengan tangan. Chilli pan mee sering dikaitkan dalam media kuliner secara khusus dengan Restoran Kin Kin di Kuala Lumpur, meski atribusi tepat itu tidak terdokumentasi dengan kokoh."
 ---
 
 Masuklah ke sebuah kedai kopi di Kuala Lumpur, Seremban, atau Ipoh dan Anda akan

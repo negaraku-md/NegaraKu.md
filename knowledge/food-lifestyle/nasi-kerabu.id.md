@@ -94,6 +94,12 @@ verificationNeeded:
   - "Susunan ulam yang baku (daun dan herba segar mana yang esensial dibandingkan yang bersifat kedaerahan atau opsional) — resep dan sumber mencantumkan kombinasi yang berbeda. Konfirmasikan dengan sumber Kelantan."
   - "Batas yang tepat antara nasi kerabu dan nasi ulam — umumnya digambarkan sebagai hidangan serupa yang dipisahkan terutama oleh nasi berwarna. Konfirmasikan dengan sumber rujukan kuliner."
 framework: explainer
+dishFacts:
+  what: "Hidangan nasi Melayu yang disusun, dengan nasi — yang paling termasyhur berwarna biru nila alami dan lembut hasil merendam kelopak bunga telang (Clitoria ternatea) dalam air masaknya — dicampur dengan salad dedaunan mentah yang diiris halus (ulam) dan dikelilingi kondimen serta lauk. Sajiannya umumnya mencakup kelapa parut sangrai (kerisik), ikan atau ayam goreng atau bakar (sering kali ayam percik), solok lada (cabai hijau diisi kelapa parut), telur asin (telur masin), keropok, dan budu asin atau sambal. Versi kuning (kunyit) dan putih polos juga ada."
+  origin: "Hidangan pesisir timur laut Malaysia, terutama Kelantan; catatan warisan jabatan kebudayaan nasional menyebutnya erat diasosiasikan dengan Pantai Timur Semenanjung Malaysia, khususnya Kelantan, sementara sumber lain memperluas asalnya ke Terengganu yang bertetangga — paling baik dianggap sebagai hidangan Kelantan dengan keluarga pantai timur yang lebih luas. Kerabat dekatnya, khao yam, disantap di seberang perbatasan di wilayah Patani yang mayoritas Melayu di Thailand selatan."
+  halal: "Nasi kerabu adalah hidangan Melayu, kokoh dalam kuliner Melayu dan dapur pantai timur Muslim — di Patani ia kadang dibaca sebagai penanda identitas Melayu — menempatkannya dalam tradisi kuliner halal Melayu-Muslim."
+  eat: "Dedaunannya dimaksudkan untuk dicampur ke dalam nasi agar tiap suapan membawa kesegaran rumputan ulam, dan seluruh sajiannya paling nikmat disantap dengan mencampur sedikit segala hal pada tiap sendok, sehingga nasi, herba, saus, dan lauk semua bertemu sekaligus — budu atau sambal dan perasan jeruk nipis penutup menarik bumbunya ke arah asin, asam, gurih sangrai, dan herbal."
+  where: "Disajikan di gerai dan rumah makan di seluruh pantai timur Malaysia, terutama di Kelantan dan Terengganu yang bertetangga, tempat ia menjadi ikon yang dikenali pada daftar 'wajib coba' makanan Malaysia; hidangan ini juga telah menyebar jauh melampaui pantai timur."
 ---
 
 Sedikit sekali hidangan Malaysia yang mengumumkan dirinya senyaring nasi kerabu.

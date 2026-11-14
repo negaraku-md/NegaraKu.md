@@ -90,6 +90,12 @@ verificationNeeded:
   - "Tambahan standard, khususnya sama ada cendawan telinga kayu (dan bukan cendawan shiitake kering atau cendawan lain) adalah tradisional — resipi dan gerai yang berwibawa berbeza-beza; sahkan dengan sumber kulinari Malaysia."
   - "Hubungan dan penamaan antara pan mee dan mee hoon kueh, serta dakwaan bahawa kawasan berbahasa Hokkien (termasuk Singapura) lebih suka nama mee hoon kueh — sumber menggambarkannya sebagai rapat kaitannya atau hidangan sama di bawah label dialek berbeza; sahkan dengan sumber wilayah."
 framework: explainer
+dishFacts:
+  what: "Pan mee (板面) ialah hidangan mi gandum Cina-Hakka Malaysia berupa mi yang dikoyak tangan, dicubit jari atau dipotong pisau/mesin dalam sup ikan bilis. Ia disiap dengan daging babi cincang goreng, cendawan, sayur hijau (selalunya sayur manis), ikan bilis goreng rangup dan telur separuh masak. Ada juga versi cili kering yang popular, chilli pan mee."
+  origin: "Sumber mengkreditkan masyarakat Hakka, yang berhijrah ke Malaysia beberapa generasi lalu, sebagai pencipta hidangan ini, dan ia kekal paling biasa di tengah dan selatan Semenanjung Malaysia tempat kebanyakan Hakka menetap. Chilli pan mee kering dikaitkan kukuh dengan Kuala Lumpur dan Lembah Klang, dengan asalnya diletakkan di kawasan Chow Kit di bandar itu."
+  halal: "Mangkuk tradisionalnya tidak halal: ia disiap dengan daging babi cincang goreng dan supnya selalunya dipekatkan dengan merebus ikan bilis bersama tulang babi. Chilli pan mee boleh menggunakan ayam cincang ganti daging babi, jadi semak gerai masing-masing."
+  eat: "Ia datang dalam dua cara. Versi sup menghidang mi dan sup ikan bilis bersama dalam satu mangkuk, suam dan ringan; versi kering mengasingkan sup di tepi dan menggaul mi dengan perasa seperti kicap pekat, sos XO atau sambal. Bagi chilli pan mee, telur separuh masak lazimnya dikacau sebati supaya kuning telur menyaluti mi, kemudian pengunjung menambah serpihan cili kering tumbuk dari balang mengikut selera."
+  where: "Anda menemuinya di kedai kopi di seluruh tengah dan selatan Semenanjung Malaysia, termasuk Kuala Lumpur, Seremban dan Ipoh, tempat sesebuah gerai membentuk doh dengan tangan. Chilli pan mee kerap dikaitkan dalam media makanan khususnya dengan Restoran Kin Kin di Kuala Lumpur, walaupun pengaitan tepat itu tidak terdokumentasi kukuh."
 ---
 
 Masuklah ke sebuah kedai kopi di Kuala Lumpur, Seremban atau Ipoh dan anda akan

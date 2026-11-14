@@ -90,6 +90,12 @@ verificationNeeded:
   - "Asal-usul gaya Ampang dan kedai mana yang mempopulerkannya——beberapa catatan mengkredit sebuah kedai tahun 1960-an bernama Chew Kuan, sementara yang lain menganggap atribusi Foong Foong sebagai legenda urban; pastikan dengan sumber sejarah primer atau lokal."
   - "Legenda asal-usul yang lebih luas——migran Hakka mengganti pangsit tepung gandum dengan tahu isi, dan kisah restoran 'pembeli yang ragu-ragu' yang menyaingi——keduanya beredar dan tidak terdokumentasi dengan kuat; pastikan dengan sumber sejarah kuliner."
 framework: history-culture
+dishFacts:
+  what: "Yong tau foo (酿豆腐) adalah rangkaian tahu, tahu kembung, dan sayuran — pare, cabai merah dan hijau, okra, serta terung — yang tiap potongnya dibelah dan diisi padat pasta ikan atau daging berbumbu, dilengkapi bola ikan, stik kepiting, dan gulungan kulit tahu. Disajikan dalam sup bening atau kering dengan saus manis dan cabai; gaya Ampang yang digoreng dan disiram saus adalah bentuk Malaysianya yang paling dikenal."
+  origin: "Hidangan ini berasal dari Hakka Tionghoa, salah satu hidangan paling dikenal dari masakan kelompok dialek itu, dengan namanya biasanya dibaca sebagai 'tahu isi'. Adaptasi lokal khasnya adalah pergeseran dari isian daging babi cincang tradisional ke pasta ikan yang kenyal (surimi); asal-usulnya yang lebih dalam, dan kisah Ampang, masih diperdebatkan."
+  halal: "Isian tradisionalnya adalah daging babi cincang, dan pasta ikan di gerai Malaysia kadang dicampur dengan babi, sementara saus Ampang adalah saus kacang fermentasi — jadi potongan di suatu gerai tertentu mungkin sesuai atau tidak sesuai untuk pola makan halal. Tanyakan ke tiap gerai."
+  eat: "Biasanya dipesan 'pilih sendiri': potongan isi dan aneka lauk lepas terpajang, dan penyantap memilih yang mereka inginkan sebelum dimasak sesuai pesanan. Disantap dalam sup bening, atau kering dengan cocolan saus kacang manis dan cabai — gaya Ampang menggoreng potongannya dan menyajikannya disiram saus kacang fermentasi manis yang kental — dan sering dijadikan hidangan utuh dengan nasi atau mi seperti bihun atau mi kuning."
+  where: "Hidangan andalan hawker centre dan food court, tempat satu gerai dapat menyajikan puluhan kombinasi dari nampan dan panci yang sama. Versi Malaysia yang paling dikenal mengambil namanya dari kawasan Ampang di tepi Kuala Lumpur, sebuah distrik dengan akar Hakka yang dalam."
 ---
 
 Melangkah ke sebuah kedai yong tau foo, yang diserahkan kepada Anda bukanlah menu melainkan sebuah nampan. Kubus tahu,

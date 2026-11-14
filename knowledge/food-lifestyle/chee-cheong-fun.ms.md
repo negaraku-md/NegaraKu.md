@@ -92,6 +92,12 @@ verificationNeeded:
   - "Pembahagian wilayah antara versi 'kering' (sos merah manis) dan 'basah' (kuah kari atau cendawan) di Ipoh, dan sama ada kuah cendawan khusus menjadi tanda tersendiri Ipoh atau dikongsi dengan Kuala Lumpur. Sahkan terhadap sumber Perak atau tempatan."
   - "Sama ada padanan yong tau foo Kuala Lumpur menggunakan sos berasaskan kacang yang manis sebagai lalai, berbanding kari atau kicap — sumber memerihalkan pelbagai salutan dan amalan tempatan berbeza mengikut gerai."
 framework: explainer
+dishFacts:
+  what: "Kepingan tepung beras berwap yang digulung menjadi tiub lembut dan dipotong mengikut panjang sesuapan, dibalut secara berbeza mengikut wilayah. Gaya utara Pulau Pinang menggunakan sos manis gelap, hae ko (pes udang hitam), cili dan bijan bakar; Kuala Lumpur dan Ipoh memasangkan gulungan itu dengan yong tau foo, sos manis berasaskan kacang dan kadangkala kuah kari atau cendawan. Versi dim sum Kantonis membalut char siu atau udang di dalam kepingan itu."
+  origin: "Berasal Kantonis, dijejak ke wilayah Guangdong di selatan China, di mana ia menjadi makanan asasi budaya dim sum. Penulis makanan lazimnya mengatakan mi ini sampai ke Tanah Melayu bersama pendatang Cina dari Guangdong, walaupun ceritanya tidak memberikan tarikh atau rekod sumber yang kukuh. Di Malaysia ia berpecah kepada gaya serantau yang sangat berbeza merentasi Pulau Pinang, Lembah Klang dan Ipoh."
+  halal: "Nama 猪肠粉 ('mi usus babi') menggambarkan bentuk gulungannya, bukan kandungannya — mi biasa itu tiada daging babi dan vegetarian pada dirinya sendiri. Tetapi balutannya membawa amaran: versi Pulau Pinang menggunakan hae ko iaitu pes udang (makanan laut), dan gaya dim sum membalut char siu (daging babi bakar). Semak gerai masing-masing dan sosnya."
+  eat: "Dihidang suam sebagai sarapan atau jajan penjaja. Di Pulau Pinang gulungan yang dihiris datang bersalut sos manis, hae ko, cili dan taburan bijan bakar serta minyak, tanpa inti atau kuah. Di Kuala Lumpur dan Ipoh ia dimakan bersama yong tau foo atau disiram kuah kari atau cendawan yang berkuah; gulungan dim sum disiap dengan kicap ringan yang dimaniskan."
+  where: "Kelaziman gerai penjaja Malaysia, ditemui dalam gaya serantau yang sangat berbeza: pinggan pes udang di Pulau Pinang dan utara, pasangan yong tau foo di Lembah Klang Kuala Lumpur, serta versi kari 'kering' atau 'basah' di Ipoh, Perak. Gulungan dim sum berinti muncul di troli dim sum dan di restoran Kantonis."
 ---
 
 Pesan "chee cheong fun" di George Town dan anda akan mendapat gulungan mi beras

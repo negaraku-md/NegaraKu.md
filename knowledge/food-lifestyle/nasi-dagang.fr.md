@@ -95,6 +95,12 @@ verificationNeeded:
   - "L'étymologie « riz du marchand » et les légendes d'origine (marchands bugis, ou pêcheurs l'emportant en mer) — elles circulent largement mais sont vaguement documentées ; confirmer auprès d'une source historique ou lexicographique."
   - "L'inscription parmi les mets du patrimoine national en 2009 — confirmer l'année et l'organisme ayant procédé à l'inscription auprès d'un document primaire de Jabatan Warisan Negara ou de JKKN."
 framework: explainer
+dishFacts:
+  what: "Un plat de riz spécial — un mélange de grains ordinaires et gluants cuits à la vapeur dans du lait de coco avec des graines de fenugrec ('halba') et des échalotes émincées, ce qui donne une mâche légèrement collante et un éclat nacré. Il est servi avec du gulai ikan tongkol, un curry de thon à base de coco, plus un acar de légumes au vinaigre et souvent un œuf dur. La version du Terengganu utilise un riz plus pâle ; celle du Kelantan est couramment décrite comme un grain plus foncé, moucheté ou violacé."
+  origin: "Un plat malais de la côte est de la Malaisie péninsulaire, surtout associé au Terengganu et au Kelantan. Son nom se traduit par 'riz du marchand', et il figure parmi les mets du patrimoine national malaisien depuis 2009."
+  halal: "Un plat malais consommé avant tout comme petit-déjeuner et mets de marché de la côte est, et servi aux tables de fête surtout autour de Hari Raya Aidilfitri — il s'inscrit donc pleinement dans la table malaise-musulmane."
+  eat: "On le mange généralement au petit-déjeuner, souvent remis en petit paquet de feuille de bananier contenant le riz, à côté du curry de thon sombre et huileux et d'une touche de pickles. L'assiette est assemblée, non amoncelée : riz crémeux au coco, riche gulai ikan tongkol, acar vif et parfois une cuillerée de sambal au piment, mangés ensemble à chaque bouchée."
+  where: "Sur la côte est de la Malaisie comme mets de petit-déjeuner et de marché, fortement identifié au Terengganu et au Kelantan, même s'il se vend désormais bien au-delà de ces États."
 ---
 
 Commandez le petit-déjeuner sur la côte est de la Malaisie, et l'on pourra vous tendre un petit

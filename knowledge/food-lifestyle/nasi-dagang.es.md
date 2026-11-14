@@ -95,6 +95,12 @@ verificationNeeded:
   - "La etimología de 'arroz del comerciante' y las leyendas de origen (comerciantes bugis o pescadores que lo llevaban al mar): circulan ampliamente pero están documentadas de forma imprecisa; confírmense con una fuente histórica o lexicográfica."
   - "La inclusión como comida del patrimonio nacional en 2009: confírmense el año y el organismo que la inscribió con un registro primario de Jabatan Warisan Negara o JKKN."
 framework: explainer
+dishFacts:
+  what: "Un plato de arroz especial: una mezcla de granos ordinarios y glutinosos cocidos al vapor en leche de coco con semillas de fenogreco ('halba') y chalotas en rodajas, que da un bocado ligeramente pegajoso y un brillo nacarado. Se sirve con gulai ikan tongkol, un curry de atún a base de coco, además de acar de verduras encurtidas y a menudo un huevo duro. La versión de Terengganu usa un arroz más pálido; la versión de Kelantan se describe comúnmente como un grano más oscuro, moteado o violáceo."
+  origin: "Un plato malayo de la costa este de la Malasia peninsular, muy asociado con Terengganu y Kelantan. Su nombre se glosa como 'arroz del comerciante', y figura como comida patrimonial nacional de Malasia desde 2009."
+  halal: "Un plato malayo comido ante todo como desayuno y comida de mercado de la costa este, y servido en mesas festivas sobre todo en torno a Hari Raya Aidilfitri, de modo que se sitúa de pleno dentro de la mesa malayo-musulmana."
+  eat: "Suele comerse en el desayuno, a menudo entregado como un pequeño paquete de arroz en hoja de plátano junto al curry de atún oscuro y aceitoso y un puñado de encurtidos. El plato se ensambla, no se amontona: arroz cremoso al coco, rico gulai ikan tongkol, acar ácido y a veces una cucharada de sambal de chile, comidos juntos en cada bocado."
+  where: "En la costa este de Malasia como plato de desayuno y de mercado, fuertemente identificado con Terengganu y Kelantan, aunque ahora se vende mucho más allá de esos estados."
 ---
 
 Pide el desayuno en la costa este de Malasia y es posible que te entreguen un pequeño paquete de

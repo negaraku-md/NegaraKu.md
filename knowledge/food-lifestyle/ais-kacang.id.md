@@ -97,6 +97,11 @@ social:
     - "#ShavedIce"
     - "#PasarMalam"
 framework: explainer
+dishFacts:
+  what: "Hidangan penutup es serut, juga disebut ABC, dibentuk sebagai kerucut tinggi es serut halus yang ditumpuk di atas topping manis dan kenyal. Di bawahnya biasanya terdapat kacang merah, jagung manis, dan campuran cincau, attap chee (buah muda bening dari pohon nipah) serta agar-agar, lalu disiram sirop mawar atau sarsi, gula melaka (sirop gula aren), dan susu evaporasi atau susu kental manis."
+  origin: "Nama 'ais kacang' kurang lebih berarti 'es kacang', mengacu pada bentuk awalnya berupa es serut yang ditumpuk di atas kacang merah; 'ABC' adalah singkatan dari air batu campur, atau 'es campur'. Asal-usulnya yang pasti masih diperdebatkan dan tidak ada satu penemu yang terdokumentasi dengan kokoh: sejarawan kuliner umumnya menempatkan kemunculannya pada awal abad kedua puluh ketika es menjadi murah, dengan sebagian catatan menelusuri versi awalnya ke Singapura sekitar Perang Dunia Pertama dan bentuk gundukannya muncul pada tahun 1940-an, sementara tulisan lain mengaitkannya dengan asal-usul Peranakan di Melaka — jadi anggaplah sejarahnya sebagai perkiraan."
+  eat: "Dinikmati bukan sebagai puding resmi melainkan sebagai camilan penyejuk yang disantap sambil berdiri di gerai, sering kali diserut sesuai pesanan sehingga tiap sendok mencampur es, kacang, agar-agar, dan rasa manis sekaligus. Resepnya berbeda-beda dari satu gerai ke gerai lain, jadi tanyakan ke tiap gerai: sebagian melewatkan sirop berwarna demi profil gula aren yang lebih gelap, dan variasinya menambahkan es krim, kacang tumbuk, durian, atau buah seperti mangga, stroberi, atau leci di atas gundukannya."
+  where: "Pada dasarnya makanan jalanan, ditemukan di kopitiam (kedai kopi), hawker centre, dan food court, serta menjadi hidangan andalan di pasar malam, dengan harga biasanya beberapa ringgit per mangkuk. Hidangan ini umum di seluruh Malaysia (dan juga disantap di Singapura dan Brunei); sebagian catatan menggambarkan variasi daerah seperti Johor yang mengandalkan gula Melaka berasap serta versi Sabah dan Sarawak yang disajikan dengan mutiara sagu dan mangga, meski detail daerah itu berasal dari sumber yang terbatas dan sebaiknya dipastikan secara setempat."
 ---
 
 Pada sore yang panas di Malaysia, hanya sedikit hal yang mampu menarik kerumunan

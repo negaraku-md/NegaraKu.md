@@ -94,6 +94,12 @@ verificationNeeded:
   - "Thành phần ulam chuẩn mực (loại rau thơm sống nào là thiết yếu so với loại mang tính vùng miền hoặc tùy chọn) — các công thức và nguồn liệt kê những tổ hợp khác nhau. Hãy xác minh với một nguồn Kelantan."
   - "Ranh giới chính xác giữa nasi kerabu và nasi ulam — thường được mô tả là những món tương đồng phân biệt chủ yếu bởi phần cơm có màu. Hãy xác minh bằng một nguồn tham khảo ẩm thực."
 framework: explainer
+dishFacts:
+  what: "Một món cơm Malay bày lắp ghép, trong đó cơm — nổi tiếng nhất là màu chàm xanh tự nhiên, dịu, nhuộm bằng cách ngâm cánh hoa đậu biếc (bunga telang, Clitoria ternatea) trong nước nấu — được trộn với một món salad rau thơm sống thái mảnh (ulam) và bao quanh bởi các món gia vị và món kèm. Mâm thường gồm dừa nạo rang (kerisik), cá hoặc gà chiên hay nướng (thường là ayam percik), solok lada (ớt xanh nhồi dừa nạo), một quả trứng vịt muối (telur masin), keropok (bánh phồng chiên), cùng budu mặn hoặc sambal. Cũng có các phiên bản vàng (nghệ) và trắng trơn."
+  origin: "Một món của vùng bờ đông bắc Malaysia, trên hết là Kelantan; bản ghi di sản của cục văn hóa quốc gia gọi nó gắn chặt với Bờ Đông bán đảo Malaysia, đặc biệt là Kelantan, trong khi các nguồn khác mở rộng quê hương của nó sang Terengganu lân cận — tốt nhất nên xem là một món Kelantan với một đại gia đình bờ đông rộng hơn. Một họ hàng gần, khao yam, được ăn bên kia biên giới ở vùng Patani đa số Malay ở nam Thái Lan."
+  halal: "Nasi kerabu là một món Malay, nằm chắc trong ẩm thực Malay và trong bếp của vùng bờ đông Hồi giáo — ở Patani đôi khi nó được đọc như một dấu hiệu của bản sắc Malay — đặt nó trong truyền thống ẩm thực halal Malay-Hồi giáo."
+  eat: "Các loại rau thơm được dành để trộn vào cơm sao cho mỗi miếng mang theo vị tươi mát của ulam, và cả mâm được ăn ngon nhất bằng cách trộn một chút của mọi thứ với mỗi thìa, để cơm, rau thơm, nước sốt và các món kèm gặp nhau cùng lúc — budu hay sambal và một cú vắt chanh cuối cùng kéo vị nêm thành mặn, chua, thơm rang và thảo mộc."
+  where: "Dọn tại các quán và tiệm ăn khắp bờ đông Malaysia, trên hết ở Kelantan và Terengganu lân cận, nơi nó là một biểu tượng dễ nhận trong các danh sách 'nhất định phải thử' của ẩm thực Malaysia; nó cũng đã lan ra xa ngoài bờ đông."
 ---
 
 Ít món ăn Malaysia nào tự tuyên bố về mình lớn tiếng như nasi kerabu. Cơm đến

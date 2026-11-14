@@ -97,6 +97,11 @@ verificationNeeded:
   - "The English-language Wikipedia 'Sambal' article carried a maintenance banner noting it contains machine-generated text under review; specific attributions drawn from it (e.g. the regional spread of sambal tempoyak to Pahang, Perak and Brunei) should be reconfirmed against an independent source."
   - "Whether sambal matah is properly a Malaysian sambal or a Balinese/Indonesian import that has entered Malaysian menus — sources present it as Balinese in origin; confirm its status before describing it as part of the Malaysian repertoire."
 framework: explainer
+dishFacts:
+  what: "Sambal is a chilli-based relish or paste at the centre of Malaysian cooking — not one recipe but a whole family, made by pounding or grinding fresh or dried chillies with aromatics such as shallots, garlic and belacan (fermented shrimp paste), balanced with calamansi lime or tamarind and a little sugar. Major types run from the raw, pounded sambal belacan to the fried sambal tumis and its sweet-spicy sambal tumis ikan bilis, plus sambal hijau (green), sambal udang (prawn), sambal sotong (squid), sambal tempoyak (with fermented durian) and the raw Balinese-style sambal matah."
+  origin: "The article places sambal in maritime Southeast Asia and traces the word to Javanese roots, but notes the exact emergence is uncertain — reputable references label it, depending on the source, as 'Indonesian' or 'Malaysian'. Rather than a single birthplace, it is best seen as a shared regional idea that each kitchen and household has made its own."
+  eat: "Sambal supplies the heat, salt and savoury depth a plate of rice and plainer cooking needs — served raw as a fiery dip (for ulam, fried fish, boiled eggs or alongside rice), fried as the sambal tumis ikan bilis that defines nasi lemak, or used as a cooking base stirred through fried rice, noodles and dishes like ayam masak merah."
+  where: "Sambal runs through Malay, Nyonya (Peranakan) and Indian Malaysian and mamak cooking alike, and 'almost no two cooks make it quite the same way'. Region shapes it too — coastal communities lean on belacan and dried seafood while inland Pahang gives tempoyak-based sambals and sambal hitam — and every state, town and family keeps its own proportions of heat, salt and sweetness."
 ---
 
 Ask a Malaysian what makes a meal taste like home and the answer is often not a

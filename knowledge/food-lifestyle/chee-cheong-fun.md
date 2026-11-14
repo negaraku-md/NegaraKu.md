@@ -94,6 +94,12 @@ verificationNeeded:
   - "The regional split between Ipoh's 'dry' (sweet red sauce) and 'wet' (curry or mushroom gravy) versions, and whether mushroom gravy is specifically an Ipoh signature or shared with Kuala Lumpur. Confirm against a Perak or local source."
   - "Whether the Kuala Lumpur yong-tau-foo pairing uses a sweet bean-based sauce as the default, versus curry or soy — sources describe several dressings and local practice varies by stall."
 framework: explainer
+dishFacts:
+  what: "Steamed sheets of rice-flour batter rolled into soft tubes and cut into bite-sized lengths, dressed differently by region. Penang's northern style uses a dark sweet sauce, black prawn-paste hae ko, chilli and toasted sesame; Kuala Lumpur and Ipoh pair the rolls with yong tau foo, a sweet bean-based sauce and sometimes a curry or mushroom gravy. The Cantonese dim-sum version wraps char siu or prawn inside the sheet."
+  origin: "Cantonese in origin, traced to Guangdong province in southern China, where it is a staple of dim-sum culture. Food writers commonly say the noodle reached Malaya with Chinese immigrants from Guangdong, though the retellings give no firm date or primary record. In Malaysia it split into sharply different regional styles across Penang, the Klang Valley and Ipoh."
+  halal: "The name 猪肠粉 ('pig-intestine noodle') describes the rolled shape, not the contents — the plain noodle has no pork and is vegetarian in itself. But the dressings carry the caveat: Penang's uses prawn-paste hae ko (seafood), and the dim-sum style wraps char siu (barbecued pork). Check the stall and its sauces."
+  eat: "Served warm as a hawker breakfast or snack. In Penang the sliced rolls come dressed in sweet sauce, hae ko, chilli and a scattering of toasted sesame and oil, with no filling or gravy. In Kuala Lumpur and Ipoh they are eaten alongside yong tau foo or doused in a soupy curry or mushroom gravy; the dim-sum roll is finished with light, sweetened soy sauce."
+  where: "A fixture of Malaysian hawker stalls, found in sharply different regional styles: the prawn-paste plate in Penang and the north, the yong-tau-foo pairing in Kuala Lumpur's Klang Valley, and 'dry' or 'wet' curry versions in Ipoh, Perak. The filled dim-sum roll appears on dim-sum trolleys and in Cantonese restaurants."
 ---
 
 Order "chee cheong fun" in George Town and you get cool, silky rolls of rice

@@ -93,6 +93,12 @@ verificationNeeded:
   - "The relative role and presence of taucheo (fermented soybean paste) versus a dried-shrimp base in the gravy, which varies by region and cook (some versions reportedly omit taucheo) — confirm with multiple recipe or culinary sources."
   - "The claim that Johor Bahru is the 'mee rebus capital' and the use of beef stock in the Johor gravy, which come from a dated 2006 report — confirm with a current Johor food or heritage source."
 framework: explainer
+dishFacts:
+  what: "Blanched springy yellow alkaline egg noodles drowned in a thick, glossy, slightly sweet and savoury gravy thickened with boiled mashed sweet potato. It is finished with a halved hard-boiled egg, cubes of fried tofu (tauhu), blanched bean sprouts, thin slices of fresh green chilli, crisp fried shallots and a wedge of calamansi lime (limau kasturi) to squeeze over."
+  origin: "A shared dish of the Malay Archipelago, popular across Indonesia, Malaysia and Singapore, with a clear Chinese contribution in the yellow noodles and the taucheo. Its single origin is contested — Javanese, Indian-Muslim, Peranakan and pre-war Singaporean accounts all circulate, including food historian Khir Johari's attribution to Javanese immigrants at a Singapore central kitchen — and no document settles it."
+  halal: "A fixture of Malay stalls and of mamak (Indian-Muslim) stalls, where it is cooked and eaten across community lines, making it an everyday halal-stall dish."
+  eat: "Served as a plate, not a soup bowl: the garnishes are added and a wedge of calamansi lime is squeezed over the gravy before eating, so the soft noodles, rich gravy and sharp, crunchy toppings give its characteristic sweet-savoury-sour balance. It is typically a breakfast or brunch dish, often ordered alongside satay or otak-otak."
+  where: "Sold from morning Malay and mamak stalls, coffee shops and food courts, where it shares a steam table with dishes like mee goreng mamak. Regional styles diverge: Johor Bahru, once called 'the mee rebus capital of the nation', has a thick, sticky brown gravy, while Penang is better known for the closely related mee Jawa, usually described as sweeter and tomato-tinged."
 ---
 
 Ask for mee rebus in Malaysia and you get a plate, not a soup bowl: yellow

@@ -97,6 +97,11 @@ social:
     - "#ShavedIce"
     - "#PasarMalam"
 framework: explainer
+dishFacts:
+  what: "Một món tráng miệng đá bào, còn gọi là ABC, được dựng thành một ngọn tháp cao bằng đá bào thật mịn chất lên trên các loại topping ngọt và dai. Bên dưới thường có đậu đỏ (kacang merah), ngô ngọt cùng một tổ hợp sương sáo (cincau), attap chee (trái non trong suốt của cây dừa nước nipah) và các loại thạch agar, hoàn thiện bằng siro hoa hồng hoặc sarsi, gula melaka (siro đường thốt nốt) và sữa đặc hoặc sữa đặc có đường."
+  origin: "Tên gọi 'ais kacang' nghĩa đại khái là 'đá đậu', gợi nhắc hình thức sơ khởi nhất của nó là đá bào chất lên trên đậu đỏ; 'ABC' là viết tắt của air batu campur, tức 'đá trộn'. Nguồn gốc chính xác còn gây tranh cãi và không có một người khởi tạo duy nhất nào được ghi nhận chắc chắn: các nhà sử học ẩm thực nhìn chung đặt sự trỗi dậy của nó vào đầu thế kỷ hai mươi khi đá trở nên rẻ, một số ghi chép truy các phiên bản đầu về Singapore quanh thời Thế chiến thứ nhất và hình thức chất đống xuất hiện vào thập niên 1940, trong khi những bài viết khác cho rằng nó có nguồn gốc Peranakan ở Malacca — nên hãy xem phần lịch sử là ước chừng."
+  eat: "Được xem như một món ăn vặt giải nhiệt hơn là một món tráng miệng trang trọng, thường ăn đứng tại quán, nhiều khi bào đá theo yêu cầu để mỗi thìa trộn lẫn đá, đậu, thạch và vị ngọt với nhau. Công thức khác nhau tùy từng quán, nên nên hỏi từng quán: một số bỏ qua các loại siro có màu để nghiêng về vị đường thốt nốt đậm hơn, và có biến tấu phủ lên ngọn tháp thêm kem, đậu phộng giã, sầu riêng, hoặc trái cây như xoài, dâu tây hay vải."
+  where: "Vốn là món ăn đường phố, tìm thấy ở các kopitiam (quán cà phê), khu ẩm thực hàng rong và food court, và là một món quen thuộc đáng tin cậy tại các chợ đêm pasar malam, giá thường vài ringgit một tô. Nó phổ biến khắp Malaysia (và cũng được ăn ở Singapore và Brunei); một số ghi chép mô tả các biến tấu vùng miền như Johor thiên về gula Melaka vị khói và các phiên bản Sabah cùng Sarawak dùng kèm hạt trân châu sago và xoài, dù những chi tiết vùng miền đó đến từ nguồn hạn chế và nên xác nhận tại địa phương."
 ---
 
 Vào một buổi chiều oi bức ở Malaysia, hiếm có thứ gì lôi kéo đám đông như tiếng

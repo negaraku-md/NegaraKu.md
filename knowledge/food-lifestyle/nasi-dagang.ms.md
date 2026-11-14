@@ -95,6 +95,12 @@ verificationNeeded:
   - "Etimologi 'nasi pedagang' dan legenda asal usul (pedagang Bugis, atau nelayan yang membawanya ke laut) — ini tersebar luas tetapi terdokumentasi secara longgar; sahkan dengan sumber sejarah atau leksikografi."
   - "Penyenaraian makanan warisan kebangsaan 2009 — sahkan tahun dan badan penyenarai terhadap rekod utama Jabatan Warisan Negara atau JKKN."
 framework: explainer
+dishFacts:
+  what: "Hidangan nasi istimewa — campuran beras biasa dan beras pulut dikukus dalam santan bersama biji halba dan hirisan bawang kecil, memberikan gigitan sedikit lekit dan kilauan mutiara. Ia dihidang dengan gulai ikan tongkol iaitu kari ikan berasaskan santan, serta acar sayur dan selalunya telur rebus. Versi Terengganu menggunakan nasi yang lebih cerah; versi Kelantan lazimnya digambarkan dengan beras yang lebih gelap, berbintik atau keunguan."
+  origin: "Hidangan Melayu pantai timur dari Semenanjung Malaysia, paling dikaitkan dengan Terengganu dan Kelantan. Namanya ditafsir sebagai 'nasi pedagang', dan ia telah disenaraikan sebagai makanan warisan negara Malaysia sejak 2009."
+  halal: "Hidangan Melayu yang dimakan terutamanya sebagai sarapan dan makanan pasar pantai timur, serta dihidang di meja perayaan khususnya sekitar Hari Raya Aidilfitri — jadi ia terletak kukuh dalam lingkungan meja makan Melayu-Muslim."
+  eat: "Lazimnya dimakan untuk sarapan, selalunya dihulurkan sebagai bungkusan kecil daun pisang berisi nasi di sebelah kari ikan yang gelap dan berminyak serta taburan jeruk. Hidangannya disusun, bukan ditimbun: nasi santan yang berkrim, gulai ikan tongkol yang pekat, acar yang tajam dan kadangkala sesudu sambal cili, dimakan bersama dalam setiap suapan."
+  where: "Di pantai timur Malaysia sebagai hidangan sarapan dan pasar, dikenali kukuh dengan Terengganu dan Kelantan, walaupun kini ia dijual jauh di luar negeri-negeri itu."
 ---
 
 Pesan sarapan di pantai timur Malaysia, dan anda mungkin dihulurkan sebungkus

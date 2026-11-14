@@ -94,6 +94,12 @@ verificationNeeded:
   - "Susunan ulam yang kanonik (ulam mentah mana yang penting berbanding yang bersifat serantau atau pilihan) — resipi dan sumber menyenaraikan gabungan yang berbeza. Sahkan dengan sumber Kelantan."
   - "Garis pemisah tepat antara nasi kerabu dan nasi ulam — lazimnya digambarkan sebagai hidangan serupa yang dipisahkan terutamanya oleh nasi berwarna. Sahkan dengan sumber rujukan kulinari."
 framework: explainer
+dishFacts:
+  what: "Hidangan nasi Melayu tersusun di mana nasi — paling terkenal berwarna biru nila yang lembut dan semula jadi hasil rendaman kelopak bunga telang (Clitoria ternatea) dalam air masakan — digaul dengan salad ulam yang dihiris halus dan dikelilingi perencah serta lauk. Hidangannya lazimnya merangkumi kerisik, ikan atau ayam goreng atau bakar (selalunya ayam percik), solok lada (cili hijau berisi kelapa parut), telur masin, keropok, serta budu masin atau sambal. Versi kuning (kunyit) dan putih biasa juga wujud."
+  origin: "Hidangan pantai timur laut Malaysia, terutamanya Kelantan; rekod warisan jabatan kebudayaan negara menyebutnya berkait rapat dengan Pantai Timur Semenanjung Malaysia, khususnya Kelantan, manakala sumber lain meluaskan tempat asalnya ke Terengganu yang bersebelahan — paling baik difahami sebagai hidangan Kelantan dengan keluarga pantai timur yang lebih luas. Sepupu rapatnya, khao yam, dimakan di seberang sempadan di wilayah Patani yang majoriti Melayu di selatan Thailand."
+  halal: "Nasi kerabu ialah hidangan Melayu, kukuh dalam masakan Melayu dan dapur pantai timur Muslim — di Patani ia kadangkala dibaca sebagai penanda identiti Melayu — meletakkannya dalam tradisi masakan Melayu-Muslim yang halal."
+  eat: "Ulam dimaksudkan untuk digaul ke dalam nasi supaya setiap suapan membawa kesegaran daun ulam, dan hidangan penuhnya paling sedap dimakan dengan mencampurkan sedikit segala-galanya dalam setiap sudu, supaya nasi, ulam, sos dan lauk semuanya bertemu serentak — budu atau sambal dan perahan limau di penghujung menarik perasa ke arah masin, masam, rangup dan beraroma ulam."
+  where: "Dihidang di gerai dan kedai makan di seluruh pantai timur Malaysia, terutamanya di Kelantan dan Terengganu yang bersebelahan, tempat ia menjadi ikon yang dikenali dalam senarai 'mesti cuba' makanan Malaysia; ia juga telah tersebar jauh melepasi pantai timur."
 ---
 
 Sedikit sahaja hidangan Malaysia yang mengisytiharkan dirinya sekuat nasi

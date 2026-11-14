@@ -99,6 +99,11 @@ social:
     - "#ShavedIce"
     - "#PasarMalam"
 framework: explainer
+dishFacts:
+  what: "A shaved-ice dessert, also called ABC, built as a tall cone of finely shaved ice piled over sweet, chewy toppings. Underneath you usually find red beans (kacang merah), sweet corn and some mix of grass jelly (cincau), attap chee (the translucent immature fruit of the nipah palm) and agar jellies, finished with rose or sarsi syrup, gula melaka (palm-sugar syrup) and evaporated or condensed milk."
+  origin: "The name 'ais kacang' means roughly 'bean ice', a nod to its earliest form of shaved ice heaped over red beans; 'ABC' is short for air batu campur, or 'mixed ice'. The exact origins are debated and no single originator is firmly documented: food historians generally place its rise in the early twentieth century once ice became cheap, with some accounts tracing early versions to Singapore around the First World War and the mounded form appearing by the 1940s, while other writing credits a Peranakan origin in Malacca — so treat the history as approximate."
+  eat: "Treated less as a formal pudding than a cooling snack eaten standing at a stall, often shaved to order so each spoonful mixes ice, bean, jelly and sweetness together. Recipes vary stall by stall, so check the stall: some skip the coloured syrups for a darker palm-sugar profile, and variations top the mound with ice cream, crushed peanuts, durian, or fruit like mango, strawberry or lychee."
+  where: "Street food at heart, found in kopitiam (coffee shops), hawker centres and food courts, and a reliable fixture at pasar malam night markets, with prices typically a few ringgit a bowl. It is common across Malaysia (and also eaten in Singapore and Brunei); some accounts describe regional twists such as Johor leaning on smoky gula Melaka and Sabah and Sarawak versions served with sago pearls and mango, though those regional specifics come from limited sources and are worth confirming locally."
 ---
 
 On a hot Malaysian afternoon, few things pull a crowd like the whir of an

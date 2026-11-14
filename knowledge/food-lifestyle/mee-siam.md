@@ -91,6 +91,12 @@ verificationNeeded:
   - "Whether tamarind is essential to every version: some cooks substitute or supplement it with lime or lemon juice, and the sour note's standard source varies by recipe. Confirm the typical gravy base across wet and dry styles."
   - "The standard garnish (hard-boiled egg, prawns, tofu puffs, chives, bean sprouts, calamansi versus lime) varies by cook and region — confirm the most typical Malaysian composition."
 framework: explainer
+dishFacts:
+  what: "Thin rice vermicelli (bihun) dressed to hold sweet, sour and spicy notes in balance at once, built on a rempah spice paste with tamarind (asam jawa), taucheo (fermented soybean) and dried shrimp, rounded with a little sugar. It splits into a 'wet' mee siam kuah bathed in a tangy gravy and a 'dry' mee siam goreng stir-fried with the same base — the dry style is the more common in Malaysia."
+  origin: "The name means 'Siamese noodle' (Siam being the old name for Thailand) and the dish borrows from Thai flavours, yet it is a local Malaysian and Singaporean creation, not a Thai dish. Who first made it is genuinely disputed — accounts variously trace it to Penang, to Malay cooks and to the Peranakan (Straits Chinese) kitchen; a broadly held view treats it as a crossroads dish of Chinese, Malay, Peranakan and Thai notes."
+  halal: "Mee siam is a staple of Malay cuisine, and the dry mee siam goreng in particular is, by one account, 'more often sold by the Malay community' and especially associated with Malay stalls."
+  eat: "Finished with a familiar set of toppings — hard-boiled egg (halved), prawns, fried tofu puffs (tau pok), chives (kucai), crunchy bean sprouts and a wedge of calamansi (limau kasturi) or lime squeezed over just before eating, with a spoonful of sambal on the side to push the heat up to taste. Exact toppings vary from stall to stall."
+  where: "Cooked across more than one tradition — a staple of Malay stalls, where the dry goreng version is especially found, and a beloved dish of the Nyonya (Peranakan) kitchen. Regionally, the dry-fried style is associated with Johor and a wet version is a favourite in Melaka."
 ---
 
 Order "mee siam" and the result depends on the stall. At one you get a plate of

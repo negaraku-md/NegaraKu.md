@@ -95,6 +95,11 @@ verificationNeeded:
   - "Bài 'Sambal' trên Wikipedia tiếng Anh từng mang biểu ngữ bảo trì ghi rằng nó chứa văn bản do máy tạo đang được rà soát; các quy kết cụ thể lấy từ đó (ví dụ sự lan tỏa theo vùng của sambal tempoyak tới Pahang, Perak và Brunei) cần được xác nhận lại với một nguồn độc lập."
   - "Liệu sambal matah có đúng là một loại sambal Malaysia hay là một thứ du nhập từ Bali/Indonesia đã lọt vào thực đơn Malaysia — các nguồn trình bày nó có nguồn gốc Bali; hãy xác nhận vị thế của nó trước khi mô tả nó là một phần kho tàng Malaysia."
 framework: explainer
+dishFacts:
+  what: "Sambal là một loại tương hoặc sốt nền ớt nằm ở trung tâm ẩm thực Malaysia — không phải một công thức mà là cả một gia đình, làm bằng cách giã hoặc xay ớt tươi hay khô với các hương liệu như hành tím, tỏi và belacan (mắm tôm lên men), cân bằng bằng tắc hoặc me và một chút đường. Các loại chính chạy từ sambal belacan giã sống đến sambal tumis chiên cùng sambal tumis ikan bilis ngọt-cay của nó, cộng sambal hijau (xanh), sambal udang (tôm), sambal sotong (mực), sambal tempoyak (với sầu riêng lên men) và sambal matah kiểu Bali ăn sống."
+  origin: "Bài viết đặt sambal ở Đông Nam Á hàng hải và truy từ này về gốc rễ Java, nhưng lưu ý rằng thời điểm xuất hiện chính xác còn chưa chắc chắn — các công trình tham khảo uy tín gán nhãn cho nó, tùy nguồn, là 'Indonesia' hoặc 'Malaysia'. Thay vì một nơi sinh duy nhất, tốt nhất nên xem nó như một ý tưởng vùng miền chung mà mỗi bếp và mỗi gia đình đã làm thành của riêng mình."
+  eat: "Sambal cung cấp độ cay, vị mặn và chiều sâu đậm đà mà một đĩa cơm và các món nấu đơn giản hơn cần — dọn sống như một món chấm cay (cho ulam, cá chiên, trứng luộc hay ăn kèm cơm), chiên thành sambal tumis ikan bilis vốn định hình nasi lemak, hoặc dùng như một nền nấu trộn vào cơm chiên, mì và các món như ayam masak merah."
+  where: "Sambal chạy xuyên ẩm thực Malay, Nyonya (Peranakan) cùng Ấn Độ-Malaysia và mamak như nhau, và 'gần như không có hai đầu bếp nào làm nó giống hệt nhau'. Vùng miền cũng định hình nó — các cộng đồng ven biển thiên về belacan và hải sản khô trong khi Pahang nội địa cho ra các loại sambal nền tempoyak và sambal hitam — và mỗi bang, thị trấn và gia đình giữ tỷ lệ cay, mặn và ngọt riêng của mình."
 ---
 
 Hỏi một người Malaysia điều gì khiến một bữa ăn có vị như ở nhà, câu trả lời

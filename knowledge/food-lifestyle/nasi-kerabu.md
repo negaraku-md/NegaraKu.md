@@ -96,6 +96,12 @@ verificationNeeded:
   - "The canonical ulam line-up (which raw herbs are essential versus regional or optional) — recipes and sources list different combinations. Confirm against a Kelantanese source."
   - "The precise boundary between nasi kerabu and nasi ulam — commonly described as similar dishes separated mainly by the coloured rice. Confirm with a culinary-reference source."
 framework: explainer
+dishFacts:
+  what: "A composed Malay rice dish in which rice — most famously a natural, soft indigo blue dyed by steeping butterfly-pea (bunga telang, Clitoria ternatea) petals in the cooking water — is tossed with a salad of finely sliced raw herbs (ulam) and ringed with condiments and sides. The spread typically includes toasted grated coconut (kerisik), fried or grilled fish or chicken (often ayam percik), solok lada (grated-coconut-stuffed green chilli), a salted duck egg (telur masin), keropok (fried crackers), and salty budu or sambal. Yellow (turmeric) and plain white versions also exist."
+  origin: "A dish of Malaysia's north-eastern coast, above all Kelantan; the national culture department's heritage record calls it closely associated with the East Coast of Peninsular Malaysia, particularly Kelantan, while other sources extend its home to neighbouring Terengganu — best thought of as a Kelantanese dish with a wider east-coast family. A close relative, khao yam, is eaten across the border in southern Thailand's Malay-majority Patani region."
+  halal: "Nasi kerabu is a Malay dish, firmly within Malay cuisine and the kitchen of the Muslim east coast — in Patani it is sometimes read as a marker of Malay identity — placing it within the halal Malay-Muslim culinary tradition."
+  eat: "The herbs are meant to be mixed into the rice so every mouthful carries the grassy lift of the ulam, and the full spread is best eaten by mixing a little of everything with each spoonful, so that rice, herbs, sauce and sides all meet at once — the budu or sambal and a finishing squeeze of lime pulling the seasoning salty, sour, toasty and herbal."
+  where: "Served at stalls and eateries across Malaysia's east coast, above all in Kelantan and neighbouring Terengganu, where it is a recognisable icon on 'must try' lists of Malaysian food; it has also spread well beyond the east coast."
 ---
 
 Few Malaysian dishes announce themselves as loudly as nasi kerabu. The rice

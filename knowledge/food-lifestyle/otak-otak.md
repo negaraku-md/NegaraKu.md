@@ -95,6 +95,11 @@ verificationNeeded:
   - "The folk etymology of 'otak' ('brains', from the mixture's brain-like appearance) — confirm with a linguistic or lexicographic source rather than food media."
   - "Whether candlenut (buah keras) belongs in the standard otak-otak rempah — some recipes include it and others (e.g. the Nyonya Cooking recipe cited) do not; confirm the typical paste composition with a Peranakan culinary source."
 framework: explainer
+dishFacts:
+  what: "Otak-otak is a spiced fish paste — fish (usually mackerel, ikan tenggiri) blended with a pounded rempah of chilli, turmeric, lemongrass, shallots, galangal and ginger, loosened with coconut milk and bound with a little starch, egg, sugar and salt. The mixture is wrapped in banana, coconut or nipa-palm (attap) leaf and grilled over charcoal or steamed. The odd name means 'brains' in Malay — a folk reference to the soft, pale, greyish, brain-like look of the fish mixture, not to any ingredient."
+  origin: "It is often described as a blend of Malay and Peranakan cooking, with Straits-born Chinese kitchens marrying Chinese techniques to Malay spice pastes. Malaysia has two broad styles: the thin, flat, drier charcoal-grilled southern version famous in Muar, Johor and shared across Johor and Melaka, and the thick, soft, custardy steamed Nyonya (Peranakan) style of Penang, often scented with wild betel leaf (daun kaduk). It is a shared Straits of Malacca dish, with earliest roots commonly traced to Palembang in South Sumatra."
+  eat: "It is eaten as a snack and a side dish, unwrapped from its charred leaf parcel. Malaysian and Singaporean versions are usually reddish-orange from chilli and spice, while Indonesian versions tend to be paler and are served with dipping sauces such as cuko or peanut sauce."
+  where: "Within Malaysia, Muar in Johor is the name most associated with otak-otak — 'Muar otak-otak' functions almost as a brand and draws visitors from neighbouring states and from Singapore. Penang and Melaka are the homes of the softer Nyonya style. Across the region it is also found in Indonesia and in Singapore, where it is known as otah."
 ---
 
 Unwrap a parcel of otak-otak and the first thing you meet is the smell: charred

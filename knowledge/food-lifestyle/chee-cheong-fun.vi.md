@@ -92,6 +92,12 @@ verificationNeeded:
   - "Sự phân chia theo vùng giữa phiên bản 'khô' (xốt đỏ ngọt) và 'ướt' (nước sốt cà ri hoặc nấm) của Ipoh, và liệu nước sốt nấm có phải là dấu ấn riêng của Ipoh hay dùng chung với Kuala Lumpur. Cần kiểm chứng với một nguồn Perak hoặc địa phương."
   - "Liệu cách kết hợp yong-tau-foo ở Kuala Lumpur có dùng xốt đậu ngọt làm mặc định hay không, so với cà ri hoặc xì dầu —— các nguồn mô tả nhiều loại xốt và thực hành địa phương khác nhau tùy quán."
 framework: explainer
+dishFacts:
+  what: "Những tấm bột gạo tráng hấp cuộn thành ống mềm rồi cắt thành đoạn vừa ăn, nêm nếm khác nhau tùy vùng. Phong cách miền bắc Penang dùng sốt ngọt đậm màu, mắm tôm đen hae ko, ớt và vừng rang; Kuala Lumpur và Ipoh ghép các cuộn với yong tau foo, một loại sốt ngọt nền đậu và đôi khi một loại cà ri hoặc nước sốt nấm. Phiên bản dim sum Quảng Đông cuộn char siu hoặc tôm bên trong tấm bột."
+  origin: "Có nguồn gốc Quảng Đông, truy về tỉnh Quảng Đông ở nam Trung Quốc, nơi nó là một món chủ lực của văn hóa dim sum. Các cây bút ẩm thực thường nói món mì này đến Malaya cùng những người di dân Hoa từ Quảng Đông, dù các lần kể lại không đưa ra ngày tháng chắc chắn hay bản ghi gốc. Ở Malaysia nó tách thành những phong cách vùng miền khác nhau rõ rệt khắp Penang, Thung lũng Klang và Ipoh."
+  halal: "Cái tên 猪肠粉 ('mì ruột heo') mô tả hình dạng cuộn, không phải thành phần — bản thân mì trơn không có thịt heo và tự nó là món chay. Nhưng các loại sốt mang theo điều cần lưu ý: sốt của Penang dùng mắm tôm hae ko (hải sản), và phong cách dim sum cuộn char siu (thịt heo quay). Nên hỏi từng quán và các loại sốt của họ."
+  eat: "Dọn nóng như một món điểm tâm hoặc ăn vặt của hàng rong. Ở Penang các cuộn cắt lát được nêm với sốt ngọt, hae ko, ớt và một chút vừng rang rắc lên cùng dầu, không nhân hay nước sốt. Ở Kuala Lumpur và Ipoh chúng được ăn kèm yong tau foo hoặc chan đẫm trong một loại cà ri sệt hoặc nước sốt nấm; cuộn dim sum được hoàn thiện bằng nước tương nhạt, có đường."
+  where: "Một món quen thuộc của các quầy hàng rong Malaysia, tìm thấy ở những phong cách vùng miền khác nhau rõ rệt: đĩa mắm tôm ở Penang và miền bắc, cách ghép với yong tau foo ở Thung lũng Klang của Kuala Lumpur, và các phiên bản cà ri 'khô' hoặc 'ướt' ở Ipoh, Perak. Cuộn dim sum có nhân xuất hiện trên các xe đẩy dim sum và trong các nhà hàng Quảng Đông."
 ---
 
 Gọi "chee cheong fun" ở George Town và bạn sẽ nhận được những cuộn bánh phở mát

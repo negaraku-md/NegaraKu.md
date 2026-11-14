@@ -90,6 +90,12 @@ verificationNeeded:
   - "Asal usul gaya Ampang dan gerai mana yang mempopularkannya — ada catatan mengkreditkan sebuah gerai 1960-an bernama Chew Kuan, manakala yang lain menganggap atribusi Foong Foong sebagai legenda bandar; sahkan dengan sumber sejarah primer atau tempatan."
   - "Legenda asal usul yang lebih luas — pendatang Hakka menggantikan tauhu sumbat untuk ladu tepung gandum, dan kisah restoran 'pelanggan yang teragak-agak' yang menyaingi — kedua-duanya beredar dan tidak terdokumen dengan kukuh; sahkan dengan sumber sejarah kulinari."
 framework: history-culture
+dishFacts:
+  what: "Yong tau foo (酿豆腐) ialah himpunan tauhu, tauhu pup dan sayur — peria, cili merah dan hijau, bendi dan terung — setiap keping dibelah dan diisi pes ikan atau daging berperisa, dilengkapkan dengan bebola ikan, ketam batang dan gulungan kulit tauhu. Ia dihidang dalam sup jernih atau kering dengan sos manis dan cili; gaya Ampang yang digoreng dan disiram sos ialah bentuk Malaysianya yang paling terkenal."
+  origin: "Hidangan ini berasal Cina Hakka, salah satu hidangan paling terkenal masakan kumpulan dialek itu, dengan namanya lazimnya dibaca sebagai 'tauhu berisi'. Penyesuaian tempatan yang mentakrifkannya ialah peralihan dari inti daging babi cincang tradisional kepada pes ikan yang kenyal (surimi); asal-usulnya yang lebih dalam, dan kisah Ampang, dipertikaikan."
+  halal: "Inti tradisionalnya ialah daging babi cincang, dan pes ikan gerai Malaysia kadangkala diadun dengan daging babi, manakala sos Ampang ialah sos kacang soya diperam — jadi keping sesebuah gerai mungkin atau mungkin tidak sesuai dengan diet halal. Semak gerai masing-masing."
+  eat: "Ia lazimnya dipesan secara 'pilih sendiri': keping berisi dan item lepasan dihidang di paparan, dan pengunjung memilih apa yang dimahukan sebelum ia dimasak mengikut pesanan. Ia dimakan dalam sup jernih, atau kering dengan cecah sos kacang manis dan cili — gaya Ampang menggoreng keping itu dan menghidangnya disiram sos kacang soya diperam yang manis dan pekat — dan kerap dilengkapkan menjadi hidangan penuh dengan nasi atau mi seperti bihun atau mi kuning."
+  where: "Ia kelaziman pusat penjaja dan medan selera, di mana satu gerai boleh menghidang berpuluh gabungan dari dulang dan periuk yang sama. Versi Malaysia paling terkenal mengambil namanya dari kawasan Ampang di pinggir Kuala Lumpur, sebuah daerah dengan akar Hakka yang mendalam."
 ---
 
 Melangkah ke sebuah gerai yong tau foo, anda bukannya diberikan menu sebaliknya

@@ -90,6 +90,12 @@ verificationNeeded:
   - "Các loại nhân tiêu chuẩn, đặc biệt là liệu nấm mèo (chứ không phải nấm đông cô khô hay nấm khác) có phải là truyền thống — các công thức và quán uy tín khác nhau; hãy đối chiếu với nguồn ẩm thực Malaysia."
   - "Mối quan hệ và cách đặt tên giữa pan mee và mee hoon kueh, cùng tuyên bố rằng các vùng nói tiếng Phúc Kiến (kể cả Singapore) ưa tên mee hoon kueh — các nguồn mô tả chúng gắn chặt với nhau hoặc là cùng một món dưới những tên phương ngữ khác nhau; hãy đối chiếu với nguồn địa phương."
 framework: explainer
+dishFacts:
+  what: "Pan mee (板面) là một món mì bột mì Hẹ (Hakka) của người Hoa-Malaysia gồm mì xé tay, bấm ngón hoặc cắt bằng dao/máy trong nước dùng cá cơm khô (ikan bilis). Nó được phủ thịt heo băm xào, nấm, rau lá (thường nhất là sayur manis), cá cơm chiên giòn và một quả trứng chần. Cũng có một phiên bản ớt khô được ưa chuộng là chilli pan mee."
+  origin: "Các nguồn ghi công cộng đồng Hẹ, những người đã di cư đến Malaysia nhiều thế hệ trước, với việc tạo ra món này, và nó vẫn phổ biến nhất ở trung và nam bán đảo Malaysia nơi đa số người Hẹ định cư. Chilli pan mee khô gắn mạnh với Kuala Lumpur và Thung lũng Klang, với nguồn gốc được đặt ở khu Chow Kit của thành phố."
+  halal: "Tô truyền thống không halal: nó được phủ thịt heo băm xào và nước dùng thường được làm đậm bằng cách ninh cá cơm với xương heo. Chilli pan mee có thể dùng thịt gà băm thay cho thịt heo, nên nên hỏi từng quán."
+  eat: "Nó có hai cách. Phiên bản nước dọn mì và nước dùng cá cơm cùng nhau trong một tô, ấm và dịu; phiên bản khô để nước dùng riêng một bên và trộn mì với một loại gia vị như xì dầu đen, sốt XO hoặc sambal. Với chilli pan mee, trứng chần thường được đánh đều vào để lòng đỏ bao lấy sợi mì, rồi thực khách thêm ớt khô giã từ một hũ theo khẩu vị."
+  where: "Bạn tìm thấy nó ở các quán cà phê khắp trung và nam bán đảo Malaysia, gồm Kuala Lumpur, Seremban và Ipoh, nơi một quầy nặn bột bằng tay. Chilli pan mee thường được giới truyền thông ẩm thực quy riêng cho Restoran Kin Kin ở Kuala Lumpur, dù sự quy công chính xác đó không được ghi nhận chắc chắn."
 ---
 
 Bước vào một quán cà phê ở Kuala Lumpur, Seremban hay Ipoh, bạn sẽ thấy một quầy

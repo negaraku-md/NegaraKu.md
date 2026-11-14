@@ -97,6 +97,12 @@ verificationNeeded:
   - "The 'trader's rice' etymology and origin legends (Bugis traders, or fishermen carrying it to sea) — these circulate widely but are loosely documented; confirm with a historical or lexicographic source."
   - "The 2009 national-heritage-food listing — confirm the year and listing body against a primary Jabatan Warisan Negara or JKKN record."
 framework: explainer
+dishFacts:
+  what: "A special rice dish — a mix of ordinary and glutinous grains steamed in coconut milk with fenugreek seeds ('halba') and sliced shallots, giving a slightly sticky bite and pearly sheen. It is served with gulai ikan tongkol, a coconut-based tuna curry, plus pickled-vegetable acar and often a hard-boiled egg. Terengganu's version uses a paler rice; the Kelantan version is commonly described as a darker, speckled or purplish grain."
+  origin: "An east-coast Malay dish from peninsular Malaysia, most associated with Terengganu and Kelantan. Its name glosses as 'trader's rice', and it has been listed as a Malaysian national heritage food since 2009."
+  halal: "A Malay dish eaten above all as an east-coast breakfast and market food, and served at festive tables especially around Hari Raya Aidilfitri — so it sits squarely within the Muslim-Malay table."
+  eat: "Usually eaten for breakfast, often handed over as a small banana-leaf parcel of rice beside the dark, oily tuna curry and a scatter of pickles. The plate is assembled, not mounded: creamy coconut rice, rich gulai ikan tongkol, sharp acar and sometimes a spoonful of chilli sambal, eaten together in each mouthful."
+  where: "On Malaysia's east coast as a breakfast and market dish, strongly identified with Terengganu and Kelantan, though it is now sold far beyond those states."
 ---
 
 Order breakfast on Malaysia's east coast and you may be handed a small banana-leaf

@@ -95,6 +95,12 @@ verificationNeeded:
   - "Từ nguyên 'cơm của người buôn' và các truyền thuyết nguồn gốc (những người buôn Bugis, hoặc ngư dân mang nó ra biển) — những điều này lan truyền rộng rãi nhưng được ghi chép lỏng lẻo; hãy xác nhận với một nguồn lịch sử hoặc từ điển học."
   - "Việc liệt vào danh sách món ăn di sản quốc gia năm 2009 — hãy xác nhận năm và cơ quan liệt kê dựa trên một hồ sơ gốc của Jabatan Warisan Negara hoặc JKKN."
 framework: explainer
+dishFacts:
+  what: "Một món cơm đặc biệt — pha trộn gạo thường và gạo nếp hấp trong nước cốt dừa với hạt cỏ cà ri ('halba') và hành tím thái lát, cho vị hơi dính và ánh ngọc. Nó được dọn với gulai ikan tongkol, một loại cà ri cá ngừ nền dừa, cùng dưa rau muối acar và thường có một quả trứng luộc. Phiên bản của Terengganu dùng cơm nhạt màu hơn; phiên bản Kelantan thường được mô tả là loại gạo sẫm màu hơn, lốm đốm hoặc phớt tím."
+  origin: "Một món Malay vùng bờ đông của bán đảo Malaysia, gắn nhiều nhất với Terengganu và Kelantan. Tên của nó diễn giải là 'cơm thương nhân', và nó đã được liệt vào danh mục món ăn di sản quốc gia của Malaysia từ năm 2009."
+  halal: "Một món Malay được ăn trên hết như một món điểm tâm và chợ búa vùng bờ đông, và được dọn tại các bàn tiệc lễ đặc biệt quanh dịp Hari Raya Aidilfitri — nên nó nằm thẳng trong bàn ăn Hồi giáo-Malay."
+  eat: "Thường được ăn vào buổi sáng, hay được trao sang trong một gói lá chuối nhỏ gồm cơm bên cạnh cà ri cá ngừ sẫm, nhiều dầu và một ít dưa muối rắc lên. Đĩa ăn được bày lắp ghép, không chất đống: cơm dừa béo, gulai ikan tongkol đậm đà, acar sắc vị và đôi khi một thìa sambal ớt, ăn chung với nhau trong mỗi miếng."
+  where: "Ở bờ đông Malaysia như một món điểm tâm và chợ búa, gắn mạnh với Terengganu và Kelantan, dù nay nó đã được bán xa ra ngoài những bang đó."
 ---
 
 Gọi bữa sáng ở bờ Đông Malaysia, và bạn có thể được trao một gói lá chuối nhỏ đựng cơm nhạt màu,

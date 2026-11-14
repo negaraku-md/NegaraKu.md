@@ -98,6 +98,12 @@ verificationNeeded:
   - "The food-media characterisation of a distinct 'KL-style' char siu (fattier, more charred, sometimes made from pork belly) versus other regional styles — confirm against a specialist culinary source, as this is drawn from restaurant reviews."
   - "The exact Cantonese romanisations and characters for the roast meats as used in Malaysia (siu ngap 燒鴨 roast duck, siu ngo 燒鵝 roast goose, and local spellings such as 'siew yoke') — confirm with a Cantonese lexical or local-language source."
 framework: explainer
+dishFacts:
+  what: "These are siu mei (燒味), the Cantonese family of roasted meats: char siu (honey- or maltose-glazed barbecued pork with caramelised, slightly charred edges), siu yoke or siew yoke (roast pork belly prized for crackling-crisp skin over layers of fat and meat), plus roast duck (siu ngap) and roast chicken. The category is almost all meat, no vegetables, sold from dedicated Chinese roast-meat shops."
+  origin: "Siu mei is the Cantonese rotisserie style of cooking — meats seasoned, hung and roasted over fire or in tall ovens. In Malaysia the tradition travelled with Cantonese and other southern Chinese migrants and settled into the neighbourhood roast-meat shop, a core strand of Chinese Malaysian cuisine."
+  halal: "The headline items — char siu and siu yoke — are pork, so a traditional Chinese roast-meat shop is not halal and is not certified as such. These stalls belong to Chinese-community and kopitiam dining, not Malay or mamak food. Roast duck and roast chicken are not pork, but when prepared and sold at the same non-halal premises they are still not halal for Muslim diners."
+  eat: "Roast meats are chopped to order on a wooden block, bones and all, into bite-sized pieces. The everyday order is char siu fan — meat over steamed white rice with a spoonful of light, sweetish sauce and a few blanched greens such as choy sum or kai lan; a mixed rice (siu mei fan) combines two or three meats. They also top wonton noodles, or are sold by weight to take away."
+  where: "You find siu mei at dedicated Chinese roast-meat shops — usually a small shopfront or a corner stall inside a kopitiam — and at chicken-rice shops, with which roast-meat stalls often overlap. Malaysian food writing points to specific stalls, such as Sin Yuan in Sungai Besi and Sun Ming Kee in Cheras."
 ---
 
 Push open the glass of a Chinese roast-meat shop and the display tells you

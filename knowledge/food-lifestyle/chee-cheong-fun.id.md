@@ -92,6 +92,12 @@ verificationNeeded:
   - "Pembagian wilayah antara versi 'kering' (saus merah manis) dan 'basah' (kuah kari atau jamur) Ipoh, dan apakah kuah jamur khusus menjadi ciri khas Ipoh atau dibagi dengan Kuala Lumpur. Konfirmasikan dengan sumber Perak atau lokal."
   - "Apakah paduan yong-tau-foo Kuala Lumpur memakai saus berbahan kacang manis sebagai bawaan, dibanding kari atau kecap —— sumber-sumber menggambarkan beragam bumbu dan praktik lokal berbeda antar-gerai."
 framework: explainer
+dishFacts:
+  what: "Lembaran adonan tepung beras yang dikukus lalu digulung menjadi tabung lembut dan dipotong sepanjang sekali suap, dibumbui berbeda-beda menurut daerah. Gaya utara Pulau Pinang memakai saus manis gelap, pasta udang hitam hae ko, cabai, dan wijen sangrai; Kuala Lumpur dan Ipoh memadukan gulungannya dengan yong tau foo, saus manis berbahan dasar kacang, dan kadang kuah kari atau jamur. Versi dim sum Kanton membungkus char siu atau udang di dalam lembarannya."
+  origin: "Berasal dari Kanton, ditelusuri ke provinsi Guangdong di Tiongkok selatan, tempat hidangan ini menjadi pokok budaya dim sum. Penulis kuliner umumnya menyatakan mi ini tiba di Malaya bersama para imigran Tionghoa dari Guangdong, meski penuturannya tidak memberi tanggal atau catatan primer yang pasti. Di Malaysia hidangan ini terbelah menjadi gaya daerah yang sangat berbeda di Pulau Pinang, Lembah Klang, dan Ipoh."
+  halal: "Nama 猪肠粉 ('mi usus babi') menggambarkan bentuk gulungannya, bukan isinya — mi polosnya tidak mengandung babi dan vegetarian pada dirinya sendiri. Namun bumbu penyiramnya membawa peringatan: versi Pulau Pinang memakai pasta udang hae ko (makanan laut), dan gaya dim sum membungkus char siu (daging babi bakar). Tanyakan ke tiap gerai dan sausnya."
+  eat: "Disajikan hangat sebagai sarapan atau camilan hawker. Di Pulau Pinang, gulungan yang telah diiris disajikan dengan siraman saus manis, hae ko, cabai, dan taburan wijen sangrai serta minyak, tanpa isian atau kuah. Di Kuala Lumpur dan Ipoh gulungan ini disantap bersama yong tau foo atau disiram kuah kari atau jamur; gulungan dim sumnya diakhiri dengan kecap manis yang ringan."
+  where: "Hidangan andalan gerai hawker Malaysia, ditemukan dalam gaya daerah yang sangat berbeda: piring pasta udang di Pulau Pinang dan utara, perpaduan yong tau foo di Lembah Klang Kuala Lumpur, serta versi kari 'kering' atau 'basah' di Ipoh, Perak. Gulungan dim sum berisi muncul di troli dim sum dan di restoran Kanton."
 ---
 
 Pesan "chee cheong fun" di George Town dan Anda akan mendapat gulungan mi beras yang

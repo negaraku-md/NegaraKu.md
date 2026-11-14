@@ -90,6 +90,12 @@ verificationNeeded:
   - "Nguồn gốc của kiểu Ampang và quầy nào làm nó phổ biến——một số tường thuật ghi công cho một quầy thập niên 1960 tên Chew Kuan, trong khi số khác xem việc quy cho Foong Foong là truyền thuyết đô thị; cần xác nhận bằng nguồn lịch sử sơ cấp hoặc địa phương."
   - "Truyền thuyết nguồn gốc rộng hơn——người di cư Khách Gia thay bánh bao bột mì bằng đậu phụ nhồi, và câu chuyện nhà hàng 'thực khách do dự' cạnh tranh——cả hai đều lưu truyền và không được ghi chép chắc chắn; cần xác nhận bằng nguồn lịch sử ẩm thực."
 framework: history-culture
+dishFacts:
+  what: "Yong tau foo (酿豆腐) là một tổ hợp đậu phụ, đậu phụ chiên phồng và rau — khổ qua, ớt đỏ và xanh, đậu bắp và cà tím — mỗi miếng được rạch và nhồi một loại chả cá hoặc chả thịt nêm gia vị, làm tròn vị bằng cá viên, thanh cua và các cuộn tàu hũ ky. Nó được dọn trong một loại canh trong hoặc khô với sốt ngọt và sốt ớt; phong cách Ampang chiên, chan đẫm sốt là dạng Malaysia nổi tiếng nhất của nó."
+  origin: "Món này có nguồn gốc Hẹ (Hakka) của người Hoa, một trong những món nổi tiếng nhất của ẩm thực nhóm phương ngữ đó, với cái tên thường được đọc là 'đậu phụ nhồi'. Sự thích nghi bản địa định hình của nó là chuyển từ nhân thịt heo băm truyền thống sang một loại chả cá dai (surimi); nguồn gốc sâu xa hơn của nó, cùng câu chuyện Ampang, còn gây tranh cãi."
+  halal: "Nhân truyền thống là thịt heo băm, và chả cá ở các quán Malaysia đôi khi được trộn với thịt heo, trong khi sốt Ampang là một loại sốt đậu lên men — nên các miếng của một quán cụ thể có thể hợp hoặc không hợp với một chế độ ăn halal. Nên hỏi từng quán."
+  eat: "Nó thường được gọi theo kiểu 'tự chọn': các miếng nhồi và các món rời bày trên một quầy, và thực khách chọn thứ mình muốn trước khi được nấu theo yêu cầu. Nó được ăn trong một loại canh trong, hoặc khô với các loại chấm sốt đậu ngọt và ớt — phong cách Ampang chiên các miếng và dọn chúng chan đẫm sốt đậu lên men ngọt sệt — và thường được làm tròn thành một bữa đầy đủ với cơm hoặc mì như bihun hay mì vàng."
+  where: "Nó là một món chủ lực của khu ẩm thực hàng rong và food court, nơi một quầy có thể phục vụ hàng chục tổ hợp từ cùng một khay và nồi. Phiên bản Malaysia nổi tiếng nhất lấy tên từ khu Ampang ở rìa Kuala Lumpur, một khu có gốc rễ Hẹ sâu đậm."
 ---
 
 Bước đến một quầy yong tau foo, thứ được trao cho bạn không hẳn là thực đơn mà là một cái khay. Những khối đậu phụ,

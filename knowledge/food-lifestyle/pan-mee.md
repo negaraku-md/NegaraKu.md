@@ -92,6 +92,12 @@ verificationNeeded:
   - "The standard toppings, in particular whether wood-ear mushroom (rather than dried shiitake or other mushrooms) is traditional — reputable recipes and stalls vary; confirm with a Malaysian culinary source."
   - "The relationship and naming between pan mee and mee hoon kueh, and the claim that Hokkien-speaking areas (including Singapore) prefer the name mee hoon kueh — sources describe them as closely related or the same dish under different dialect labels; confirm with a regional source."
 framework: explainer
+dishFacts:
+  what: "Pan mee (板面) is a Hakka Chinese-Malaysian wheat-noodle dish of hand-torn, finger-pinched or knife/machine-cut noodles in a dried-anchovy (ikan bilis) broth. It is topped with fried minced pork, mushroom, leafy greens (most often sayur manis), crisp deep-fried anchovies and a poached egg. There is also a popular dry chilli version, chilli pan mee."
+  origin: "Sources credit the Hakka community, who migrated to Malaysia generations ago, with creating the dish, and it remains most common in central and southern Peninsular Malaysia where most Hakka settled. The dry chilli pan mee is strongly associated with Kuala Lumpur and the Klang Valley, with its origin placed in the Chow Kit area of the city."
+  halal: "The traditional bowl is not halal: it is topped with fried minced pork and the broth is often deepened by simmering the anchovies with pork bones. Chilli pan mee can use minced chicken instead of pork, so check the individual stall."
+  eat: "It comes two ways. The soup version serves the noodles and anchovy broth together in one bowl, warm and mild; the dry version keeps the broth on the side and tosses the noodles with a seasoning such as dark soy sauce, XO sauce or sambal. For chilli pan mee the poached egg is usually stirred through so the yolk coats the noodles, then diners add pounded dried-chilli flakes from a jar to taste."
+  where: "You find it at coffee shops across central and southern Peninsular Malaysia, including Kuala Lumpur, Seremban and Ipoh, where a stall shapes the dough by hand. Chilli pan mee is often attributed in food media specifically to Restoran Kin Kin in Kuala Lumpur, though that precise attribution is not firmly documented."
 ---
 
 Walk into a coffee shop in Kuala Lumpur, Seremban or Ipoh and you will find a

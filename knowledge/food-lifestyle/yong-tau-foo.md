@@ -92,6 +92,12 @@ verificationNeeded:
   - "The origin of the Ampang style and which stall popularised it — accounts credit a 1960s stall called Chew Kuan, while others treat the Foong Foong attribution as urban legend; confirm with a primary or local historical source."
   - "The broader origin legend — Hakka migrants substituting stuffed tofu for wheat-flour dumplings, and the rival 'indecisive diners' restaurant story — both circulate and are not firmly documented; confirm with a culinary-history source."
 framework: history-culture
+dishFacts:
+  what: "Yong tau foo (酿豆腐) is an assembly of tofu, puffed bean curd and vegetables — bitter gourd, red and green chillies, okra and eggplant — each piece slit and packed with a seasoned fish or meat paste, rounded out with fish balls, crab sticks and rolls of bean-curd skin. It is served in a clear soup or dry with sweet and chilli sauces; the fried, sauce-drenched Ampang style is its best-known Malaysian form."
+  origin: "The dish is Hakka Chinese in origin, one of the best-known dishes of that dialect-group's cooking, with the name usually read as 'stuffed tofu'. Its defining local adaptation is the shift from the traditional minced-pork filling to a springy fish paste (surimi); its deeper origins, and the Ampang story, are contested."
+  halal: "The traditional filling is minced pork, and Malaysian stalls' fish paste is sometimes blended with pork, while the Ampang sauce is a fermented-bean sauce — so a given stall's pieces may or may not suit a halal diet. Check the stall."
+  eat: "It is usually ordered 'pick-your-own': the stuffed pieces and loose items sit on a display, and diners choose what they want before it is cooked to order. It is eaten in a clear soup, or dry with dips of sweet bean sauce and chilli — the Ampang style fries the pieces and serves them drenched in thick sweet fermented-bean sauce — and is often rounded into a full meal with rice or noodles such as bihun or yellow noodles."
+  where: "It is a hawker-centre and food-court staple, where one stall can serve dozens of combinations from the same tray and pot. The best-known Malaysian version takes its name from the Ampang area on the edge of Kuala Lumpur, a district with deep Hakka roots."
 ---
 
 Walk up to a yong tau foo stall and you are not handed a menu so much as a

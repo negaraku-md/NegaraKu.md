@@ -93,6 +93,11 @@ verificationNeeded:
   - "Nguồn gốc dân gian của từ 'otak' ('bộ não', từ vẻ ngoài giống não của hỗn hợp) — hãy xác minh với một nguồn ngôn ngữ học hoặc từ điển học chứ không phải truyền thông ẩm thực."
   - "Liệu hạt nến (buah keras) có thuộc hỗn hợp gia vị rempah tiêu chuẩn của otak-otak hay không — một số công thức có nó còn những công thức khác (ví dụ công thức Nyonya Cooking được trích dẫn) thì không; hãy xác minh thành phần bột gia vị điển hình với một nguồn ẩm thực Peranakan."
 framework: explainer
+dishFacts:
+  what: "Otak-otak là một loại chả cá gia vị — cá (thường là cá thu, ikan tenggiri) xay nhuyễn với một hỗn hợp rempah giã gồm ớt, nghệ, sả, hành tím, riềng và gừng, làm loãng bằng nước cốt dừa và kết dính bằng một chút bột, trứng, đường và muối. Hỗn hợp được gói trong lá chuối, lá dừa hoặc lá dừa nước (attap) và nướng trên than hoặc hấp. Cái tên lạ nghĩa là 'óc' trong tiếng Malay — một liên tưởng dân gian đến vẻ mềm, nhạt, xám xám, giống óc của hỗn hợp cá, chứ không ám chỉ thành phần nào."
+  origin: "Nó thường được mô tả là một sự pha trộn của ẩm thực Malay và Peranakan, với các bếp người Hoa sinh ở eo biển kết hôn kỹ thuật Trung Hoa với các hỗn hợp gia vị Malay. Malaysia có hai phong cách lớn: phiên bản miền nam mỏng, dẹt, khô hơn nướng than nổi tiếng ở Muar, Johor và được chia chung khắp Johor và Melaka, và phong cách Nyonya (Peranakan) dày, mềm, như kem hấp của Penang, thường thơm mùi lá lốt rừng (daun kaduk). Nó là một món chung của Eo biển Malacca, với gốc rễ sớm nhất thường được truy về Palembang ở Nam Sumatra."
+  eat: "Nó được ăn như một món vặt và một món kèm, gỡ ra từ gói lá cháy sém. Các phiên bản Malaysia và Singapore thường có màu đỏ-cam từ ớt và gia vị, trong khi các phiên bản Indonesia có xu hướng nhạt màu hơn và được dọn với các loại nước chấm như cuko hoặc sốt đậu phộng."
+  where: "Trong Malaysia, Muar ở Johor là cái tên gắn nhiều nhất với otak-otak — 'otak-otak Muar' gần như vận hành như một thương hiệu và thu hút du khách từ các bang lân cận và từ Singapore. Penang và Melaka là quê hương của phong cách Nyonya mềm hơn. Khắp khu vực nó cũng được tìm thấy ở Indonesia và ở Singapore, nơi nó được gọi là otah."
 ---
 
 Mở một gói otak-otak ra, điều đầu tiên bạn gặp là mùi hương: lá chuối cháy sém,

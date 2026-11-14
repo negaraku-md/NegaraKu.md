@@ -89,6 +89,12 @@ verificationNeeded:
   - "Si el tamarindo es esencial en cada versión: algunos cocineros lo sustituyen o complementan con zumo de lima o limón, y la fuente estándar de la nota ácida varía según la receta. Verifica la base de salsa habitual en los estilos húmedo y seco."
   - "El acompañamiento estándar (huevo cocido, gambas, tofu frito, cebollino, brotes de soja, calamondín frente a lima) varía según el cocinero y la región: verifica la composición malaya más típica."
 framework: explainer
+dishFacts:
+  what: "Finos fideos de arroz (bihun) aderezados para sostener a la vez notas dulces, ácidas y picantes en equilibrio, construidos sobre una pasta de especias rempah con tamarindo (asam jawa), taucheo (soja fermentada) y gamba seca, redondeados con un poco de azúcar. Se divide en un mee siam kuah 'húmedo' bañado en una salsa ácida y un mee siam goreng 'seco' salteado con la misma base; el estilo seco es el más común en Malasia."
+  origin: "El nombre significa 'fideo siamés' (Siam era el antiguo nombre de Tailandia) y el plato toma prestados sabores tailandeses, pero es una creación local malasia y singapurense, no un plato tailandés. Quién lo hizo primero está genuinamente en disputa: hay relatos que lo rastrean a Penang, a cocineros malayos y a la cocina peranakan (china del Estrecho); una visión ampliamente sostenida lo trata como un plato de cruce de caminos con notas chinas, malayas, peranakan y tailandesas."
+  halal: "El mee siam es un pilar de la cocina malaya, y el mee siam goreng seco en particular es, según un relato, 'más a menudo vendido por la comunidad malaya' y especialmente asociado a los puestos malayos."
+  eat: "Se remata con un conjunto familiar de guarniciones: huevo duro (partido por la mitad), gambas, bolsitas de tofu frito (tau pok), cebollino (kucai), brotes de soja crujientes y un gajo de calamansi (limau kasturi) o lima exprimido justo antes de comer, con una cucharada de sambal al lado para subir el picante al gusto. Las guarniciones exactas varían de un puesto a otro."
+  where: "Se cocina en más de una tradición: un pilar de los puestos malayos, donde se encuentra sobre todo la versión goreng seca, y un plato muy querido de la cocina nyonya (peranakan). Regionalmente, el estilo salteado y seco se asocia con Johor y una versión húmeda es una favorita en Melaka."
 ---
 
 Pide "mee siam" y el resultado depende del puesto. En uno te dan un plato de

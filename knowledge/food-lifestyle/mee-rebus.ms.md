@@ -91,6 +91,12 @@ verificationNeeded:
   - "Peranan dan kehadiran relatif taucheo (pes kacang soya ditapai) berbanding asas udang kering dalam kuah, yang berbeza mengikut wilayah dan tukang masak (sesetengah versi dilaporkan meninggalkan taucheo) — sahkan dengan pelbagai sumber resipi atau masakan."
   - "Dakwaan bahawa Johor Bahru ialah 'ibu kota mee rebus' dan penggunaan sup daging lembu dalam kuah Johor, yang datang daripada laporan lama 2006 — sahkan dengan sumber makanan atau warisan Johor semasa."
 framework: explainer
+dishFacts:
+  what: "Mi kuning telur beralkali yang kenyal direbus dan dilumuri kuah pekat, berkilat, agak manis dan savuri yang dipekatkan dengan keledek rebus yang dilenyek. Ia disiap dengan separuh telur rebus, kiub tauhu goreng, taugeh rebus, hirisan nipis cili hijau segar, bawang goreng rangup dan seulas limau kasturi untuk diperah ke atasnya."
+  origin: "Hidangan bersama Nusantara Melayu, popular di Indonesia, Malaysia dan Singapura, dengan sumbangan Cina yang jelas pada mi kuning dan taucheo. Asal tunggalnya dipertikaikan — catatan Jawa, Islam-India, Peranakan dan Singapura pra-perang semuanya beredar, termasuk pengaitan sejarawan makanan Khir Johari kepada pendatang Jawa di sebuah dapur pusat Singapura — dan tiada dokumen yang menyelesaikannya."
+  halal: "Kelaziman gerai Melayu dan gerai mamak (Islam-India), di mana ia dimasak dan dimakan merentasi masyarakat, menjadikannya hidangan gerai halal harian."
+  eat: "Dihidang sebagai sepinggan, bukan semangkuk sup: hiasannya ditambah dan seulas limau kasturi diperah ke atas kuah sebelum makan, supaya mi lembut, kuah pekat serta hiasan tajam dan rangup memberikan keseimbangan manis-savuri-masam cirinya. Ia lazimnya hidangan sarapan atau brunch, kerap dipesan bersama satay atau otak-otak."
+  where: "Dijual dari gerai Melayu dan mamak pagi, kedai kopi dan medan selera, di mana ia berkongsi meja wap dengan hidangan seperti mee goreng mamak. Gaya serantau berbeza: Johor Bahru, pernah digelar 'ibu negara mee rebus negara ini', mempunyai kuah perang yang pekat dan melekit, manakala Pulau Pinang lebih dikenali dengan mee Jawa yang serumpun rapat, lazimnya digambarkan lebih manis dan berperisa tomato."
 ---
 
 Pesan mee rebus di Malaysia, anda menerima sepinggan, bukan semangkuk sup: mi

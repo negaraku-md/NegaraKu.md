@@ -89,6 +89,12 @@ verificationNeeded:
   - "Liệu me có thiết yếu với mọi phiên bản hay không: một số đầu bếp thay thế hoặc bổ sung bằng nước cốt chanh hay chanh vàng, và nguồn vị chua tiêu chuẩn thay đổi theo công thức. Hãy xác minh nền nước sốt thông dụng ở cả kiểu ướt và khô."
   - "Đồ ăn kèm tiêu chuẩn (trứng luộc, tôm, đậu phụ chiên, hẹ, giá đỗ, tắc so với chanh) thay đổi theo đầu bếp và vùng miền — hãy xác minh cách kết hợp Malaysia điển hình nhất."
 framework: explainer
+dishFacts:
+  what: "Bún gạo sợi mảnh (bihun) được nêm để giữ các nốt ngọt, chua và cay cân bằng cùng lúc, dựng trên một hỗn hợp gia vị rempah với me (asam jawa), taucheo (đậu nành lên men) và tôm khô, làm tròn vị bằng một chút đường. Nó tách thành một loại 'ướt' mee siam kuah ngâm trong nước sốt chua thanh và một loại 'khô' mee siam goreng xào với cùng phần nền — phong cách khô phổ biến hơn ở Malaysia."
+  origin: "Cái tên nghĩa là 'mì Xiêm' (Siam là tên cũ của Thái Lan) và món này vay mượn từ các hương vị Thái, song nó là một sáng tạo bản địa của Malaysia và Singapore, không phải món Thái. Ai là người đầu tiên làm ra nó thực sự còn gây tranh cãi — các ghi chép truy nó về Penang, về các đầu bếp Malay và về bếp Peranakan (người Hoa eo biển); một quan điểm được giữ rộng rãi xem nó như một món giao thoa của các nốt Hoa, Malay, Peranakan và Thái."
+  halal: "Mee siam là một món chủ lực của ẩm thực Malay, và riêng loại khô mee siam goreng thì, theo một ghi chép, 'thường do cộng đồng Malay bán nhiều hơn' và đặc biệt gắn với các quán Malay."
+  eat: "Được hoàn thiện với một bộ topping quen thuộc — trứng luộc (cắt đôi), tôm, đậu phụ chiên phồng (tau pok), hẹ (kucai), giá giòn và một miếng tắc (limau kasturi) hay chanh vắt lên ngay trước khi ăn, với một thìa sambal để bên cạnh để tăng độ cay theo ý thích. Topping chính xác khác nhau tùy từng quán."
+  where: "Được nấu xuyên hơn một truyền thống — một món chủ lực của các quán Malay, nơi đặc biệt tìm thấy loại khô goreng, và một món được yêu thích của bếp Nyonya (Peranakan). Về vùng miền, phong cách xào khô gắn với Johor còn một phiên bản ướt là món ưa thích ở Melaka."
 ---
 
 Gọi "mee siam" thì món ra tùy quầy. Ở một quầy, bạn được một đĩa bún gạo sợi mảnh

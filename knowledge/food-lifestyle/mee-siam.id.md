@@ -89,6 +89,12 @@ verificationNeeded:
   - "Apakah asam jawa esensial pada setiap versi: sebagian juru masak menggantinya atau melengkapinya dengan jeruk nipis atau air lemon, dan sumber rasa asam standar bervariasi menurut resep. Verifikasi dasar kuah yang lazim pada gaya basah maupun kering."
   - "Pelengkap standar (telur rebus, udang, tahu goreng, kucai, tauge, jeruk kasturi versus jeruk nipis) bervariasi menurut juru masak dan daerah — verifikasi komposisi Malaysia yang paling khas."
 framework: explainer
+dishFacts:
+  what: "Bihun tipis dibumbui agar memegang rasa manis, asam, dan pedas secara seimbang sekaligus, dibangun di atas pasta rempah dengan asam jawa, taucheo (kedelai yang difermentasi), dan udang kering, dibulatkan dengan sedikit gula. Hidangan ini terbelah menjadi mee siam kuah 'basah' yang berendam dalam kuah asam dan mee siam goreng 'kering' yang ditumis dengan bahan dasar yang sama — gaya kering lebih umum di Malaysia."
+  origin: "Namanya berarti 'mi Siam' (Siam adalah nama lama Thailand) dan hidangan ini meminjam cita rasa Thai, namun ia merupakan kreasi lokal Malaysia dan Singapura, bukan hidangan Thai. Siapa yang pertama membuatnya benar-benar diperselisihkan — catatan beragam menelusurinya ke Pulau Pinang, ke juru masak Melayu, dan ke dapur Peranakan (Tionghoa Selat); pandangan yang luas dipegang menganggapnya hidangan persilangan dari nuansa Tionghoa, Melayu, Peranakan, dan Thai."
+  halal: "Mee siam adalah hidangan pokok masakan Melayu, dan mee siam goreng yang kering khususnya, menurut satu catatan, 'lebih sering dijual oleh masyarakat Melayu' dan terutama diasosiasikan dengan gerai Melayu."
+  eat: "Diselesaikan dengan seperangkat topping yang akrab — telur rebus (dibelah dua), udang, tahu goreng (tau pok), kucai, tauge renyah, dan sepotong kalamansi (limau kasturi) atau jeruk nipis diperas tepat sebelum disantap, dengan sesendok sambal di sisi untuk menaikkan tingkat kepedasan sesuai selera. Topping yang pasti berbeda-beda dari satu gerai ke gerai lain."
+  where: "Dimasak melintasi lebih dari satu tradisi — hidangan pokok gerai Melayu, tempat versi goreng kering terutama ditemukan, dan hidangan kesayangan dapur Nyonya (Peranakan). Secara daerah, gaya goreng kering diasosiasikan dengan Johor dan versi basah menjadi favorit di Melaka."
 ---
 
 Pesan "mee siam" dan hasilnya bergantung pada gerai. Di satu gerai Anda mendapat

@@ -90,6 +90,12 @@ verificationNeeded:
   - "Los aderezos estándar, en particular si la oreja de madera (y no el shiitake seco u otras setas) es la tradicional: recetas y puestos acreditados varían; confírmalo con una fuente culinaria malaya."
   - "La relación y la denominación entre el pan mee y el mee hoon kueh, y la afirmación de que las zonas de habla hokkien (incluida Singapur) prefieren el nombre mee hoon kueh: las fuentes los describen como estrechamente relacionados o como el mismo plato bajo etiquetas dialectales distintas; confírmalo con una fuente regional."
 framework: explainer
+dishFacts:
+  what: "El pan mee (板面) es un plato hakka chino-malasio de fideos de trigo, desgarrados a mano, pellizcados con los dedos o cortados con cuchillo o máquina, en un caldo de anchoa seca (ikan bilis). Se corona con cerdo picado y frito, champiñón, verduras de hoja (lo más a menudo sayur manis), anchoas crujientes muy fritas y un huevo escalfado. También hay una popular versión seca al chile, el chilli pan mee."
+  origin: "Las fuentes atribuyen la creación del plato a la comunidad hakka, que migró a Malasia hace generaciones, y sigue siendo más común en el centro y sur de la Malasia Peninsular, donde se asentaron la mayoría de los hakka. El chilli pan mee seco se asocia fuertemente con Kuala Lumpur y el Valle de Klang, con su origen situado en la zona de Chow Kit de la ciudad."
+  halal: "El cuenco tradicional no es halal: se corona con cerdo picado y frito y el caldo a menudo se profundiza cociendo las anchoas con huesos de cerdo. El chilli pan mee puede usar pollo picado en lugar de cerdo, así que conviene preguntar en cada puesto."
+  eat: "Viene de dos maneras. La versión de sopa sirve los fideos y el caldo de anchoa juntos en un cuenco, templados y suaves; la versión seca mantiene el caldo aparte y mezcla los fideos con un aderezo como salsa de soja oscura, salsa XO o sambal. Para el chilli pan mee el huevo escalfado suele removerse de modo que la yema cubra los fideos, y luego los comensales añaden copos de chile seco machacado de un tarro al gusto."
+  where: "Se encuentra en cafeterías de todo el centro y sur de la Malasia Peninsular, incluidas Kuala Lumpur, Seremban e Ipoh, donde un puesto da forma a la masa a mano. El chilli pan mee se atribuye a menudo en los medios gastronómicos específicamente al Restoran Kin Kin de Kuala Lumpur, aunque esa atribución precisa no está firmemente documentada."
 ---
 
 Entra en un café de Kuala Lumpur, Seremban o Ipoh y encontrarás un puesto dando forma
