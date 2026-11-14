@@ -17,9 +17,13 @@ interface Props {
   articles: Article[];
   steps: GuidedStep[];
   /** Selects the heading + lead-in copy. */
-  variant?: 'living' | 'business';
+  variant?: 'living' | 'business' | 'scenario';
+  /** Pre-localized heading override (used by 'scenario' — the scene title). */
+  heading?: string;
+  /** Leading icon (default compass). */
+  icon?: string;
 }
-const { locale, articles, steps, variant = 'living' } = Astro.props;
+const { locale, articles, steps, variant = 'living', heading: headingProp, icon = '🧭' } = Astro.props;
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const byKey = new Map(articles.map((a) => [`${a.data.category}/${a.data.slug}`, a]));
@@ -30,7 +34,7 @@ const resolved = steps
 const mythLabel = L('Mitos', 'Myth', '误解', 'தவறான கருத்து', '誤解', '오해', 'เข้าใจผิด', 'Hiểu lầm', 'Mitos', 'اعتقاد خاطئ', 'ग़लतफ़हमी', 'Mito', 'Idée reçue');
 const factLabel = L('Fakta', 'Fact', '事实', 'உண்மை', '事実', '사실', 'ข้อเท็จจริง', 'Sự thật', 'Fakta', 'الحقيقة', 'तथ्य', 'Hecho', 'Réalité');
 
-const heading = variant === 'business'
+const variantHeading = variant === 'business'
   ? L(
       'Nak mulakan perniagaan di Malaysia?',
       'Starting a business in Malaysia?',
@@ -61,8 +65,25 @@ const heading = variant === 'business'
       '¿Pensando en mudarte a Malasia?',
       'Vous envisagez de vous installer en Malaisie ?',
     );
+const headingText = headingProp ?? variantHeading;
 
-const lead = variant === 'business'
+const lead = variant === 'scenario'
+  ? L(
+      'Masuki suasananya, kemudian kisah bersumber di sebaliknya. Setiap langkah membuka rencana yang disertakan sumber.',
+      'Step into the scene, then into the sourced story behind it. Each step opens a cited article.',
+      '先走进这个场景,再走进背后有来源的故事。每一步都打开一篇标明出处的文章。',
+      'காட்சிக்குள் நுழையுங்கள், பிறகு அதன் பின்னணியில் உள்ள ஆதாரமுள்ள கதைக்குள். ஒவ்வொரு படியும் மேற்கோள் காட்டப்பட்ட கட்டுரையைத் திறக்கிறது.',
+      'まず情景に入り、その背景にある出典付きの物語へ。各ステップが出典付きの記事を開きます。',
+      '먼저 장면 속으로, 그다음 그 뒤의 출처 있는 이야기로. 각 단계가 출처가 명시된 글을 엽니다.',
+      'ก้าวเข้าสู่ฉากนั้น แล้วเข้าสู่เรื่องราวที่มีแหล่งอ้างอิงเบื้องหลัง แต่ละขั้นเปิดบทความที่อ้างอิงแหล่งที่มา',
+      'Bước vào khung cảnh, rồi vào câu chuyện có nguồn phía sau. Mỗi bước mở một bài viết có trích nguồn.',
+      'Masuki suasananya, lalu kisah bersumber di baliknya. Setiap langkah membuka artikel yang dikutip.',
+      'ادخل إلى المشهد، ثم إلى القصة الموثّقة خلفه. كل خطوة تفتح مقالاً مع مصادره.',
+      'पहले दृश्य में प्रवेश करें, फिर उसके पीछे की स्रोत-सहित कहानी में। हर कदम एक स्रोत-सहित लेख खोलता है।',
+      'Entra en la escena y luego en la historia documentada que hay detrás. Cada paso abre un artículo citado.',
+      'Entrez dans la scène, puis dans l’histoire sourcée qui la sous-tend. Chaque étape ouvre un article sourcé.',
+    )
+  : variant === 'business'
   ? L(
       'Ikut urutan ini — fakta bersumber dengan tarikh semakan, bukan iklan. Setiap langkah membawa anda ke rencana penuh.',
       'Follow this order — sourced facts with a review date, not a sales pitch. Each step links to the full, cited article.',
@@ -100,8 +121,8 @@ const lead = variant === 'business'
     <section class="container block gp">
       <div class="gp-head">
         <h2>
-          <span class="gp-ico" aria-hidden="true">🧭</span>
-          {heading}
+          <span class="gp-ico" aria-hidden="true">{icon}</span>
+          {headingText}
         </h2>
         <p class="gp-lead">{lead}</p>
       </div>

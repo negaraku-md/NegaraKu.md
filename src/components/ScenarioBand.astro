@@ -1,0 +1,64 @@
+---
+import type { Locale } from '@/lib/categories';
+import type { Article } from '@/lib/content';
+import { loc } from '@/lib/categories';
+import { SCENARIOS } from '@/lib/scenarios';
+import GuidedPath from './GuidedPath.astro';
+
+// 吃喝玩乐 ENTRY LAYER — a "体验 · Experience" band: a short intro, then each
+// lifestyle SCENE rendered as a GuidedPath stepper (variant 'scenario'). Each
+// scene is a doorway into cited knowledge (hook→depth); reuses existing articles,
+// no transaction, no ranking. NOT a pillar — mounted as a band on discovery pages.
+
+interface Props {
+  locale: Locale;
+  /** Locale-filtered article pool (from articlesForLocale). */
+  articles: Article[];
+}
+const { locale, articles } = Astro.props;
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+---
+
+<section class="container block sb-intro">
+  <h2>
+    <span class="sb-ico" aria-hidden="true">🎎</span>
+    {L('Alami Malaysia', 'Experience Malaysia', '体验马来西亚', 'மலேசியாவை அனுபவியுங்கள்', 'マレーシアを体験する', '말레이시아를 경험하다', 'สัมผัสมาเลเซีย', 'Trải nghiệm Malaysia', 'Rasakan Malaysia', 'اختبر ماليزيا', 'मलेशिया को महसूस करें', 'Vive Malasia', 'Vivez la Malaisie')}
+  </h2>
+  <p class="sb-lead">
+    {L(
+      'Beberapa suasana untuk dimasuki — setiap satu pintu ke kisah Malaysia yang bersumber.',
+      'A few scenes to step into — each a doorway into Malaysia’s sourced story.',
+      '几个可以走进的场景——每一个都是通往马来西亚有来源故事的入口。',
+      'நுழைவதற்கான சில காட்சிகள் — ஒவ்வொன்றும் மலேசியாவின் ஆதாரமுள்ள கதைக்கான வாயில்.',
+      '入り込めるいくつかの情景 — それぞれがマレーシアの出典付きの物語への入り口です。',
+      '들어가 볼 몇 가지 장면 — 각각이 출처 있는 말레이시아 이야기로 가는 문입니다.',
+      'ฉากต่าง ๆ ที่ก้าวเข้าไปได้ — แต่ละฉากคือประตูสู่เรื่องราวที่มีแหล่งอ้างอิงของมาเลเซีย',
+      'Vài khung cảnh để bước vào — mỗi cảnh là cánh cửa dẫn vào câu chuyện có nguồn của Malaysia.',
+      'Beberapa suasana untuk dimasuki — masing-masing pintu menuju kisah Malaysia yang bersumber.',
+      'بضعة مشاهد لتدخل إليها — كل منها بوابة إلى قصة ماليزيا الموثّقة.',
+      'कुछ दृश्य जिनमें आप प्रवेश कर सकते हैं — हर एक मलेशिया की स्रोत-सहित कहानी का द्वार।',
+      'Algunas escenas en las que adentrarte, cada una una puerta a la historia documentada de Malasia.',
+      'Quelques scènes où entrer — chacune une porte vers l’histoire sourcée de la Malaisie.',
+    )}
+  </p>
+</section>
+
+{
+  SCENARIOS.map((s) => (
+    <GuidedPath
+      locale={locale}
+      articles={articles}
+      steps={s.steps}
+      variant="scenario"
+      icon={s.icon}
+      heading={loc(s.title, locale)}
+    />
+  ))
+}
+
+<style>
+  .block { margin-top: 1.6rem; }
+  .sb-intro h2 { margin: 0 0 0.3rem; font-size: 1.5rem; display: inline-flex; align-items: center; gap: 0.55rem; }
+  .sb-ico { font-size: 1.3rem; line-height: 1; }
+  .sb-lead { margin: 0; color: var(--muted); max-width: 62ch; font-size: 0.95rem; line-height: 1.5; }
+</style>

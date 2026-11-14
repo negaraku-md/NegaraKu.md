@@ -8,6 +8,7 @@ import { exploreFeatures } from '@/lib/exploreFeatures';
 import PageHero from './PageHero.astro';
 import { stat } from '@/lib/pageStats';
 import ArticleStrip from './ArticleStrip.astro';
+import ScenarioBand from './ScenarioBand.astro';
 
 interface Props {
   locale: Locale;
@@ -108,6 +109,8 @@ const ways = exploreFeatures(locale).filter((f) => !STRIP_HREFS.has(f.href));
     </div>
   </div>
 </section>
+
+<ScenarioBand locale={locale} articles={nonAbout} />
 
 <section class="container block">
   <div class="psec">
