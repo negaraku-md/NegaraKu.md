@@ -147,6 +147,8 @@ const ogImageAlt = image ? title : `${t('site.title', locale)} — ${t('site.tag
     {/* AI-agent discovery: machine index (this language) + optional raw-Markdown. */}
     <link rel="alternate" type="text/plain" title="llms.txt (AI index)" href={llmsHref} />
     {mdHref && <link rel="alternate" type="text/markdown" title="Raw Markdown" href={mdHref} />}
+    {/* RSL (Really Simple Licensing) — machine-readable licensing terms (also in robots.txt). */}
+    <link rel="license" type="application/rsl+xml" title="Licensing terms (RSL)" href={new URL('/license.xml', site).toString()} />
 
     {/* hreflang alternates — skipped for a single-locale page (no /<lang>/ variant) */}
     {!soloLocale && (
