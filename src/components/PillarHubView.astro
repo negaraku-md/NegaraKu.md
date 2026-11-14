@@ -10,6 +10,7 @@ import HubGroups from './HubGroups.astro';
 import ArticleStrip from './ArticleStrip.astro';
 import GuidedPath from './GuidedPath.astro';
 import { LIVING_PATH } from '@/lib/livingPath';
+import { BUSINESS_PATH } from '@/lib/businessPath';
 
 // SECTION (pillar) hub. Same system as every other page: hero with breadcrumb +
 // scoped search, then section boxes. Adds two things a lone category grid lacked
@@ -45,7 +46,8 @@ const mrKeys = mostReadKeys(inPillar, STRIP);
   stats={[stat.pillars(PILLARS.length, locale), stat.categories(cats.length, locale), stat.subcategories(topicCount, locale), stat.topics(inPillar.length, locale)]}
 />
 
-{pillar === 'living' && <GuidedPath locale={locale} articles={items} steps={LIVING_PATH} />}
+{pillar === 'living' && <GuidedPath locale={locale} articles={items} steps={LIVING_PATH} variant="living" />}
+{pillar === 'doing-business' && <GuidedPath locale={locale} articles={items} steps={BUSINESS_PATH} variant="business" />}
 
 <HubGroups locale={locale} pillar={pillar} />
 

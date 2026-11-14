@@ -16,8 +16,10 @@ interface Props {
   /** Locale-filtered article pool (from articlesForLocale). */
   articles: Article[];
   steps: GuidedStep[];
+  /** Selects the heading + lead-in copy. */
+  variant?: 'living' | 'business';
 }
-const { locale, articles, steps } = Astro.props;
+const { locale, articles, steps, variant = 'living' } = Astro.props;
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const byKey = new Map(articles.map((a) => [`${a.data.category}/${a.data.slug}`, a]));
@@ -27,6 +29,70 @@ const resolved = steps
 
 const mythLabel = L('Mitos', 'Myth', '误解', 'தவறான கருத்து', '誤解', '오해', 'เข้าใจผิด', 'Hiểu lầm', 'Mitos', 'اعتقاد خاطئ', 'ग़लतफ़हमी', 'Mito', 'Idée reçue');
 const factLabel = L('Fakta', 'Fact', '事实', 'உண்மை', '事実', '사실', 'ข้อเท็จจริง', 'Sự thật', 'Fakta', 'الحقيقة', 'तथ्य', 'Hecho', 'Réalité');
+
+const heading = variant === 'business'
+  ? L(
+      'Nak mulakan perniagaan di Malaysia?',
+      'Starting a business in Malaysia?',
+      '想在马来西亚开公司?先搞懂这几步',
+      'மலேசியாவில் வணிகம் தொடங்குகிறீர்களா?',
+      'マレーシアで会社を設立しますか?',
+      '말레이시아에서 사업을 시작하시나요?',
+      'กำลังจะเริ่มธุรกิจในมาเลเซียไหม?',
+      'Bắt đầu kinh doanh tại Malaysia?',
+      'Memulai bisnis di Malaysia?',
+      'هل تبدأ عملاً تجارياً في ماليزيا؟',
+      'मलेशिया में व्यवसाय शुरू कर रहे हैं?',
+      '¿Vas a abrir una empresa en Malasia?',
+      'Vous lancez une entreprise en Malaisie ?',
+    )
+  : L(
+      'Fikir nak berpindah ke Malaysia?',
+      'Thinking of moving to Malaysia?',
+      '想留在马来西亚?先搞懂这几件事',
+      'மலேசியாவுக்கு இடம்பெயர யோசிக்கிறீர்களா?',
+      'マレーシアへの移住を考えていますか?',
+      '말레이시아 이주를 생각 중이신가요?',
+      'กำลังคิดจะย้ายมามาเลเซียไหม?',
+      'Đang cân nhắc chuyển đến Malaysia?',
+      'Berpikir untuk pindah ke Malaysia?',
+      'هل تفكر في الانتقال إلى ماليزيا؟',
+      'मलेशिया जाने की सोच रहे हैं?',
+      '¿Pensando en mudarte a Malasia?',
+      'Vous envisagez de vous installer en Malaisie ?',
+    );
+
+const lead = variant === 'business'
+  ? L(
+      'Ikut urutan ini — fakta bersumber dengan tarikh semakan, bukan iklan. Setiap langkah membawa anda ke rencana penuh.',
+      'Follow this order — sourced facts with a review date, not a sales pitch. Each step links to the full, cited article.',
+      '按这个顺序了解:每条都有来源和最后审阅日期,不是中介软文、不是排名。每一步都链接到完整的、标明出处的文章。',
+      'இந்த வரிசையில் செல்லுங்கள் — ஆதாரமுள்ள உண்மைகள், மதிப்பாய்வு தேதியுடன்; விளம்பரம் அல்ல. ஒவ்வொரு படியும் முழு கட்டுரைக்கு இட்டுச்செல்கிறது.',
+      'この順番で — 出典と確認日のある事実で、宣伝ではありません。各ステップは出典付きの全文にリンクします。',
+      '이 순서대로 — 출처와 검토 날짜가 있는 사실이며, 광고가 아닙니다. 각 단계는 출처가 명시된 전체 글로 연결됩니다.',
+      'ทำตามลำดับนี้ — ข้อเท็จจริงที่มีแหล่งอ้างอิงและวันที่ตรวจทาน ไม่ใช่โฆษณา แต่ละขั้นลิงก์ไปยังบทความฉบับเต็มที่อ้างอิงแหล่งที่มา',
+      'Theo thứ tự này — dữ kiện có nguồn và ngày rà soát, không phải quảng cáo. Mỗi bước dẫn đến bài viết đầy đủ, có trích nguồn.',
+      'Ikuti urutan ini — fakta bersumber dengan tanggal tinjauan, bukan iklan. Setiap langkah menautkan ke artikel lengkap yang dikutip.',
+      'اتبع هذا الترتيب — حقائق موثّقة بتاريخ مراجعة، وليست إعلاناً. كل خطوة تنقلك إلى المقال الكامل مع مصادره.',
+      'इस क्रम में चलें — स्रोत और समीक्षा-तिथि वाले तथ्य, कोई विज्ञापन नहीं। हर कदम पूरे, स्रोत-सहित लेख से जुड़ता है।',
+      'Sigue este orden: hechos con fuentes y fecha de revisión, no un anuncio. Cada paso enlaza al artículo completo y citado.',
+      'Suivez cet ordre — des faits sourcés avec une date de révision, pas une publicité. Chaque étape mène à l’article complet et sourcé.',
+    )
+  : L(
+      'Ikut urutan ini — fakta bersumber dengan tarikh semakan, bukan panduan jalan atau ranking. Setiap langkah membawa anda ke rencana penuh.',
+      'Follow this order — sourced facts with a review date, not a travel guide or a ranking. Each step links to the full, cited article.',
+      '按这个顺序了解:每条都有来源和最后审阅日期,不是攻略、不是排名。每一步都链接到完整的、标明出处的文章。',
+      'இந்த வரிசையில் செல்லுங்கள் — ஆதாரமுள்ள உண்மைகள், மதிப்பாய்வு தேதியுடன்; வழிகாட்டி அல்ல, தரவரிசை அல்ல. ஒவ்வொரு படியும் முழு கட்டுரைக்கு இட்டுச்செல்கிறது.',
+      'この順番で — 出典と確認日のある事実で、旅行ガイドやランキングではありません。各ステップは出典付きの全文にリンクします。',
+      '이 순서대로 — 출처와 검토 날짜가 있는 사실이며, 여행 가이드나 순위가 아닙니다. 각 단계는 출처가 명시된 전체 글로 연결됩니다.',
+      'ทำตามลำดับนี้ — ข้อเท็จจริงที่มีแหล่งอ้างอิงและวันที่ตรวจทาน ไม่ใช่ไกด์หรือการจัดอันดับ แต่ละขั้นลิงก์ไปยังบทความฉบับเต็มที่อ้างอิงแหล่งที่มา',
+      'Theo thứ tự này — dữ kiện có nguồn và ngày rà soát, không phải cẩm nang du lịch hay bảng xếp hạng. Mỗi bước dẫn đến bài viết đầy đủ, có trích nguồn.',
+      'Ikuti urutan ini — fakta bersumber dengan tanggal tinjauan, bukan panduan wisata atau peringkat. Setiap langkah menautkan ke artikel lengkap yang dikutip.',
+      'اتبع هذا الترتيب — حقائق موثّقة بتاريخ مراجعة، وليست دليلاً سياحياً أو تصنيفاً. كل خطوة تنقلك إلى المقال الكامل مع مصادره.',
+      'इस क्रम में चलें — स्रोत और समीक्षा-तिथि वाले तथ्य, कोई यात्रा-गाइड या रैंकिंग नहीं। हर कदम पूरे, स्रोत-सहित लेख से जुड़ता है।',
+      'Sigue este orden: hechos con fuentes y fecha de revisión, no una guía de viaje ni un ranking. Cada paso enlaza al artículo completo y citado.',
+      'Suivez cet ordre — des faits sourcés avec une date de révision, pas un guide touristique ni un classement. Chaque étape mène à l’article complet et sourcé.',
+    );
 ---
 
 {
@@ -35,39 +101,9 @@ const factLabel = L('Fakta', 'Fact', '事实', 'உண்மை', '事実', '사
       <div class="gp-head">
         <h2>
           <span class="gp-ico" aria-hidden="true">🧭</span>
-          {L(
-            'Fikir nak berpindah ke Malaysia?',
-            'Thinking of moving to Malaysia?',
-            '想留在马来西亚?先搞懂这几件事',
-            'மலேசியாவுக்கு இடம்பெயர யோசிக்கிறீர்களா?',
-            'マレーシアへの移住を考えていますか?',
-            '말레이시아 이주를 생각 중이신가요?',
-            'กำลังคิดจะย้ายมามาเลเซียไหม?',
-            'Đang cân nhắc chuyển đến Malaysia?',
-            'Berpikir untuk pindah ke Malaysia?',
-            'هل تفكر في الانتقال إلى ماليزيا؟',
-            'मलेशिया जाने की सोच रहे हैं?',
-            '¿Pensando en mudarte a Malasia?',
-            'Vous envisagez de vous installer en Malaisie ?',
-          )}
+          {heading}
         </h2>
-        <p class="gp-lead">
-          {L(
-            'Ikut urutan ini — fakta bersumber dengan tarikh semakan, bukan panduan jalan atau ranking. Setiap langkah membawa anda ke rencana penuh.',
-            'Follow this order — sourced facts with a review date, not a travel guide or a ranking. Each step links to the full, cited article.',
-            '按这个顺序了解:每条都有来源和最后审阅日期,不是攻略、不是排名。每一步都链接到完整的、标明出处的文章。',
-            'இந்த வரிசையில் செல்லுங்கள் — ஆதாரமுள்ள உண்மைகள், மதிப்பாய்வு தேதியுடன்; வழிகாட்டி அல்ல, தரவரிசை அல்ல. ஒவ்வொரு படியும் முழு கட்டுரைக்கு இட்டுச்செல்கிறது.',
-            'この順番で — 出典と確認日のある事実で、旅行ガイドやランキングではありません。各ステップは出典付きの全文にリンクします。',
-            '이 순서대로 — 출처와 검토 날짜가 있는 사실이며, 여행 가이드나 순위가 아닙니다. 각 단계는 출처가 명시된 전체 글로 연결됩니다.',
-            'ทำตามลำดับนี้ — ข้อเท็จจริงที่มีแหล่งอ้างอิงและวันที่ตรวจทาน ไม่ใช่ไกด์หรือการจัดอันดับ แต่ละขั้นลิงก์ไปยังบทความฉบับเต็มที่อ้างอิงแหล่งที่มา',
-            'Theo thứ tự này — dữ kiện có nguồn và ngày rà soát, không phải cẩm nang du lịch hay bảng xếp hạng. Mỗi bước dẫn đến bài viết đầy đủ, có trích nguồn.',
-            'Ikuti urutan ini — fakta bersumber dengan tanggal tinjauan, bukan panduan wisata atau peringkat. Setiap langkah menautkan ke artikel lengkap yang dikutip.',
-            'اتبع هذا الترتيب — حقائق موثّقة بتاريخ مراجعة، وليست دليلاً سياحياً أو تصنيفاً. كل خطوة تنقلك إلى المقال الكامل مع مصادره.',
-            'इस क्रम में चलें — स्रोत और समीक्षा-तिथि वाले तथ्य, कोई यात्रा-गाइड या रैंकिंग नहीं। हर कदम पूरे, स्रोत-सहित लेख से जुड़ता है।',
-            'Sigue este orden: hechos con fuentes y fecha de revisión, no una guía de viaje ni un ranking. Cada paso enlaza al artículo completo y citado.',
-            'Suivez cet ordre — des faits sourcés avec une date de révision, pas un guide touristique ni un classement. Chaque étape mène à l’article complet et sourcé.',
-          )}
-        </p>
+        <p class="gp-lead">{lead}</p>
       </div>
       <ol class="gp-list">
         {resolved.map((a, i) => {
