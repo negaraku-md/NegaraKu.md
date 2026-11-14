@@ -87,6 +87,12 @@ const PROBE_DISALLOW = [
 export const GET: APIRoute = () => {
   const lines: string[] = [];
 
+  // RSL (Really Simple Licensing) pointer — machine-readable licensing terms
+  // (https://rslstandard.org/rsl §4.4). Global directive, outside any group. The
+  // crawl stays open below; this just advertises that reading / search / AI
+  // citation are free (CC BY-SA 4.0) while bulk AI training needs a licence.
+  lines.push(`License: ${SITE}/license.xml`, '');
+
   // Everyone (including AI agents) may read everything, EXCEPT the scanner-probe
   // paths below (Googlebot reads this `*` group — there is no Googlebot group).
   lines.push('User-agent: *', 'Allow: /');
