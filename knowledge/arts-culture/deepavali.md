@@ -19,6 +19,13 @@ keyTakeaways:
   - "It is observed as a public holiday in every state and Federal Territory except Sarawak, which maintains its own public-holiday schedule"
 appliesTo: "Anyone wanting to understand what Deepavali marks, how Malaysia's Hindu community observes it, and its status as a public holiday across the states."
 
+festivalFacts:
+  what: "The Hindu festival of lights — from the Sanskrit for 'a row of lights' — described in the tradition as the triumph of light over darkness; homes are lit with oil lamps, decorated with kolam, and families hold open houses."
+  who: "Observed by Malaysia's Hindu community, most of whom follow the South Indian Tamil calendar."
+  when: "Set by the lunar Hindu (Tamil) calendar, usually October or November; the gazetted date shifts each year and is marked as subject to change."
+  holiday: "A gazetted federal public holiday observed in every state and Federal Territory except Sarawak, which keeps its own public-holiday schedule."
+  etiquette: "Visitors are welcome at open houses; dress modestly, remove shoes before entering a home or temple, and a small gift of sweets is a customary gesture."
+
 faq:
   - q: "When is Deepavali in Malaysia?"
     a: "The date moves each year because it follows the Hindu lunar calendar, falling in the Tamil month of Aippasi (roughly mid-October to mid-November). For 2026 the Cabinet Division's federal public-holiday schedule sets Hari Deepavali on Sunday, 8 November, and marks it — like the Muslim festival dates on the same schedule — as subject to change."

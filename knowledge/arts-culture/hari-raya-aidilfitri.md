@@ -21,6 +21,13 @@ keyTakeaways:
   - "Aidilfitri berbeza daripada Aidiladha (Hari Raya Haji); kedua-duanya dua hari raya yang berlainan pada bulan dan konteks berlainan"
 appliesTo: "Sesiapa yang ingin memahami makna, urutan dan amalan Hari Raya Aidilfitri di Malaysia — sama ada penduduk tempatan, pekerja yang merancang cuti, atau pelawat yang dijemput ke rumah terbuka."
 
+festivalFacts:
+  what: "Perayaan menandakan berakhirnya sebulan puasa Ramadan, disambut pada 1 Syawal; di sekelilingnya terbina amalan balik kampung, memohon maaf, duit raya, rumah terbuka dan ziarah kubur."
+  who: "Disambut oleh umat Islam di Malaysia."
+  when: "1 Syawal dalam takwim qamari; tarikhnya bergerak lebih awal kira-kira 11 hari setiap tahun pada kalendar Masihi dan ditetapkan melalui rukyah anak bulan."
+  holiday: "Hari pertama dan kedua diwartakan sebagai cuti umum persekutuan di seluruh Malaysia."
+  etiquette: "Tetamu pelbagai kaum dialu-alukan ke rumah terbuka; berpakaian sopan, dan lazimnya menanggalkan kasut sebelum masuk ke rumah."
+
 faq:
   - q: "Adakah Hari Raya Aidilfitri hari berpuasa?"
     a: "Tidak. Nama 'Hari Raya Puasa' merujuk kepada perayaan yang datang selepas bulan puasa Ramadan berakhir, bukan hari untuk berpuasa. Malah, menurut sumber JAKIM, berpuasa pada 1 Syawal (hari Aidilfitri) termasuk antara hari yang dilarang berpuasa. Ia hari menjamu selera, bukan menahan diri daripada makan."

@@ -278,6 +278,29 @@ const knowledge = defineCollection({
     commonMisconception: z
       .array(z.object({ myth: z.string(), fact: z.string() }))
       .default([]),
+    /**
+     * Festival "what-is" quick-facts card — the 吃喝玩乐 study's 乐 move
+     * (docs/plans/chi-he-wan-le-study-2026-11.md): an at-a-glance, scannable panel
+     * that answers the high-intent head queries review/transaction apps won't
+     * ("what is it / who celebrates / when / is it a public holiday / can I attend").
+     * DISTINCT from the prose `answer`/`keyTakeaways`/`faq` — a labelled grid, not
+     * paragraphs. Every value must be STABLE + sourced (festivals change on a scale
+     * of years, not days): phrase timing/holiday as the durable rule, never a single
+     * year's gazetted date. Rendered as a prominent card in ArticleView, just under
+     * the 30-second answer. Freshness-neutral: deliberately NOT in TRANSLATED_FIELDS,
+     * so adding/localising it never flips translations stale. All fields optional so
+     * a festival can fill only the rows it has.
+     */
+    festivalFacts: z
+      .object({
+        what: z.string(),
+        who: z.string(),
+        when: z.string(),
+        holiday: z.string(),
+        etiquette: z.string(),
+      })
+      .partial()
+      .optional(),
 
     // ---- title variants (HTS) ----------------------------------------
     /** ≤60 chars, head-term first. Falls back to `title`. */

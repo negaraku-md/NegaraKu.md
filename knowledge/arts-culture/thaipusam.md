@@ -22,6 +22,13 @@ keyTakeaways:
   - "Thaipusam is a public holiday only in the states and federal territories that gazette it — including Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor and Kedah — and is not a nationwide federal holiday"
 appliesTo: "Anyone wanting to understand what Thaipusam is, how the Batu Caves and Penang observances are organised, and where it is a public holiday in Malaysia."
 
+festivalFacts:
+  what: "A Hindu festival honouring Lord Murugan (Subramaniam), best known in Malaysia for the mass pilgrimage up the 272 steps at the Batu Caves temple in Gombak, Selangor, with silver-chariot processions in Kuala Lumpur and Penang."
+  who: "Observed chiefly by Malaysia's Tamil Hindu community."
+  when: "The Tamil month of Thai — around late January or February each year; the exact date follows the Tamil calendar."
+  holiday: "A public holiday only in the states and federal territories that gazette it (including Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor and Kedah) — not a nationwide federal holiday."
+  etiquette: "Non-Hindus are welcome to watch the processions and the climb; dress modestly near the temple, remove shoes where required, and ask before photographing devotees carrying the kavadi."
+
 faq:
   - q: "What is Thaipusam?"
     a: "Thaipusam is a Hindu festival observed by the Tamil community, honouring Lord Murugan (also called Subramaniam). It falls in the Tamil month of Thai, around late January or February. In Malaysia its most prominent expression is the mass pilgrimage to the Batu Caves temple in Gombak, Selangor."
