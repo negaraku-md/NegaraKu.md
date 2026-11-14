@@ -301,6 +301,26 @@ const knowledge = defineCollection({
       })
       .partial()
       .optional(),
+    /**
+     * Dish "what-is" quick-facts card — the 吃喝玩乐 study's 吃 move (the "这道菜是什么"
+     * decoder): a scannable panel answering what a dish is, its community/dialect-group
+     * lineage, how it is eaten, where you find it, and its typical halal status. Same
+     * contract as festivalFacts: STABLE + sourced only (no prices, no "best"), all fields
+     * optional, freshness-neutral (NOT in TRANSLATED_FIELDS). CRITICAL: `halal` is filled
+     * ONLY when the article itself sources the status — halal is high-stakes, never guessed;
+     * left empty (row omitted) when the source is silent. Rendered as the "At a glance" card
+     * in ArticleView, just under the 30-second answer.
+     */
+    dishFacts: z
+      .object({
+        what: z.string(),
+        origin: z.string(),
+        halal: z.string(),
+        eat: z.string(),
+        where: z.string(),
+      })
+      .partial()
+      .optional(),
 
     // ---- title variants (HTS) ----------------------------------------
     /** ≤60 chars, head-term first. Falls back to `title`. */

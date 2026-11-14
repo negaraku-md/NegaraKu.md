@@ -89,6 +89,11 @@ keywords:
 social:
   hashtags: ["#HainaneseChickenRice", "#NasiAyam", "#ChickenRiceBalls", "#Melaka", "#MalaysianFood"]
 framework: history-culture
+dishFacts:
+  what: "Poached or steamed chicken served with rice cooked in chicken fat and stock, cucumber, and a trio of condiments — a chilli-garlic sauce, grated ginger and dark soy; locally called nasi ayam."
+  origin: "Adapted by Hainanese Chinese immigrants from Hainan's Wenchang chicken and Wenchang chicken rice, carried to British Malaya during 19th- and 20th-century migration; Ipoh, a major centre of Hainanese settlement, is especially associated with it."
+  eat: "Served as a plate of sliced poached chicken (often at room temperature; also roasted or deep-fried) with the fragrant rice, cucumber and chilli-ginger-dark-soy condiments, usually alongside a bowl of clear soup; in Melaka and Muar the rice is hand-rolled into golf-ball-sized spheres (nasi ayam bola) and eaten ball by ball."
+  where: "A kopitiam and hawker staple nationwide — coffee shops, hawker centres, food courts and specialist shops — with Ipoh especially known for it and the rice-ball form a signature of Melaka's old town and nearby Muar."
 ---
 
 Order a plate of chicken rice in a Malaysian kopitiam and three things arrive that

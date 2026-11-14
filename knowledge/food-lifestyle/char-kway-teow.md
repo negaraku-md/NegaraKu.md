@@ -97,6 +97,12 @@ social:
     - "#MalaysianFood"
     - "#StreetFood"
 framework: explainer
+dishFacts:
+  what: "Flat rice noodles (kway teow, 炒粿條) stir-fried over fierce heat with prawns, blood cockles (see hum), egg, bean sprouts, Chinese chives and Chinese sausage in soy sauce and chilli; prized for its wok hei, the smoky 'breath of the wok'."
+  origin: "Chinese, most closely tied to the Teochew community, with roots in the Chaoshan region of Guangdong; in Southeast Asia it began as a cheap, fatty meal for Chinese labourers, fishermen and cockle-gatherers."
+  halal: "The traditional version is not halal: it is classically fried in pork lard, often with pork-fat croutons, and includes blood cockles. Muslim cooks in Malaysia and Singapore prepare halal versions that omit pork and lard and may use chicken or beef; check the individual stall."
+  eat: "Eaten fresh off the wok with a cold drink, often served on a banana leaf; fried in small batches, with 'special' (extra prawns, cockles or egg) and 'gourmet' (crab or mantis prawns) grades."
+  where: "A hawker-stall and coffee-shop (kopitiam) street food; Penang is widely regarded as its spiritual home, with a lighter, less sweet style, while Singapore's version leans Hokkien."
 ---
 
 Few plates capture Malaysian street food as completely as char kway teow: a

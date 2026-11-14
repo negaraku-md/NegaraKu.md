@@ -99,6 +99,11 @@ social:
     - "#HariRaya"
     - "#Minangkabau"
 framework: explainer
+dishFacts:
+  what: "A dry meat curry: beef (or chicken, and historically water buffalo) slow-cooked for hours in coconut milk and a spice paste until the liquid evaporates and the meat turns dark, dry and intensely flavoured."
+  origin: "Traced to the Minangkabau people of West Sumatra; carried into the Malay Peninsula by Minangkabau merantau migration and trade across the Strait of Malacca, becoming a shared heritage of the Malay world."
+  eat: "A festive centrepiece served especially at Hari Raya Aidilfitri alongside ketupat and lemang, and again at Hari Raya Aidiladha, weddings and kenduri feasts."
+  where: "On the Malaysian festive and open-house table; closely associated with Negeri Sembilan's Minangkabau-descended community and its dark rendang styles."
 ---
 
 Walk past a Malay kitchen in the days before Hari Raya and you will often hear

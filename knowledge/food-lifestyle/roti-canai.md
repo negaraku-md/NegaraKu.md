@@ -102,6 +102,11 @@ social:
     - "MalaysianFood"
     - "NegaraKuMD"
 framework: explainer
+dishFacts:
+  what: "A flaky, griddled flatbread. The dough is stretched thin, tossed and folded to trap layers, then cooked on an oiled griddle until crisp outside and soft, layered inside."
+  origin: "Indian-Muslim (mamak) in origin, brought to Malaya by Indian migrants, many Muslims from Tamil Nadu, during the British colonial era; closely related to the Indian paratha/parotta."
+  eat: "Usually served with dhal (lentil curry) or a curry gravy; ladled generously it is called banjir ('flooded'). Sweet versions are taken with sugar or condensed milk. Variants include roti telur (egg), roti bawang (onion), roti planta, roti tisu and roti bom."
+  where: "At mamak stalls — informal Indian-Muslim eateries with a griddle out front, many open long hours or around the clock. A default breakfast eaten at any hour, found almost everywhere in Malaysia."
 ---
 
 Few sounds belong to a Malaysian morning quite like the slap and flap of dough

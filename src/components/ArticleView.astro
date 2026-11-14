@@ -648,6 +648,48 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       }
 
       {
+        d.dishFacts && (
+          <section class="layer l-facts">
+            <header>
+              <span class="sec-h"><span class="ico" set:html={ICON.facts} />{L('Sepintas lalu', 'At a glance', '速览', 'ஒரு பார்வையில்', 'ひと目でわかる', '한눈에 보기', 'โดยสังเขป', 'Nhìn nhanh', 'Sekilas', 'لمحة سريعة', 'एक नज़र में', 'De un vistazo', 'En bref')}</span>
+            </header>
+            <dl class="lb facts">
+              {d.dishFacts.what && (
+                <div class="fact">
+                  <dt>{L('Apa itu', 'What it is', '是什么', 'இது என்ன', 'どんな料理', '무엇인가', 'คืออะไร', 'Là gì', 'Apa ini', 'ما هو', 'यह क्या है', 'Qué es', "De quoi s'agit-il")}</dt>
+                  <dd>{iso(d.dishFacts.what)}</dd>
+                </div>
+              )}
+              {d.dishFacts.origin && (
+                <div class="fact">
+                  <dt>{L('Asal usul', 'Origin', '起源', 'தோற்றம்', '由来', '유래', 'ที่มา', 'Nguồn gốc', 'Asal usul', 'الأصل', 'उत्पत्ति', 'Origen', 'Origine')}</dt>
+                  <dd>{iso(d.dishFacts.origin)}</dd>
+                </div>
+              )}
+              {d.dishFacts.halal && (
+                <div class="fact">
+                  <dt>{L('Status halal', 'Halal status', '清真状态', 'ஹலால் நிலை', 'ハラル区分', '할랄 여부', 'สถานะฮาลาล', 'Tình trạng halal', 'Status halal', 'حالة الحلال', 'हलाल स्थिति', 'Condición halal', 'Statut halal')}</dt>
+                  <dd>{iso(d.dishFacts.halal)}</dd>
+                </div>
+              )}
+              {d.dishFacts.eat && (
+                <div class="fact">
+                  <dt>{L('Cara menikmatinya', "How it's eaten", '怎么吃', 'எப்படி சாப்பிடுவது', '食べ方', '먹는 법', 'วิธีรับประทาน', 'Cách thưởng thức', 'Cara menikmati', 'طريقة تناوله', 'कैसे खाया जाता है', 'Cómo se come', 'Comment le déguster')}</dt>
+                  <dd>{iso(d.dishFacts.eat)}</dd>
+                </div>
+              )}
+              {d.dishFacts.where && (
+                <div class="fact">
+                  <dt>{L('Di mana', 'Where to find it', '在哪里吃', 'எங்கே கிடைக்கும்', 'どこで食べられる', '어디서 먹나', 'หาได้ที่ไหน', 'Tìm ở đâu', 'Di mana', 'أين تجده', 'कहाँ मिलता है', 'Dónde encontrarlo', 'Où le trouver')}</dt>
+                  <dd>{iso(d.dishFacts.where)}</dd>
+                </div>
+              )}
+            </dl>
+          </section>
+        )
+      }
+
+      {
         d.commonMisconception.length > 0 && (
           <section class="layer l-myth">
             <header>

@@ -100,6 +100,11 @@ verificationNeeded:
   - "The specific claim that nasi lemak, roti canai and teh tarik were gazetted as national heritage under the National Heritage Act 2005 in 2022 — confirm the exact gazette and year with Malaysia's National Heritage Department (Jabatan Warisan Negara)."
   - "The Malacca-girl 'Seri' / 'Nasi le, mak' origin tale is folklore, not documented history, and should be presented only as legend."
 framework: explainer
+dishFacts:
+  what: "Rice cooked in coconut milk (santan) and pandan leaf, served with a sweet-spicy chilli sambal and standard sides: ikan bilis (fried dried anchovies), roasted peanuts, cucumber and a boiled or fried egg."
+  origin: "Widely treated as a Malay dish with deep roots in the rural Malay diet, where cooking rice in coconut cream turned a plain starch into something nourishing; the name is Malay, 'lemak' meaning rich or creamy. Once a Malay breakfast, it is now an all-day, all-community staple regarded as Malaysia's national dish and recognised as part of 'Breakfast culture in Malaysia', inscribed on UNESCO's Representative List of Intangible Cultural Heritage in 2024."
+  eat: "In its oldest form it is nasi lemak bungkus, twisted into a banana-leaf parcel for breakfast on the go; on a plate the rice is mounded centre with sambal and condiments around it, mixed as you eat. Commonly built up with rendang, fried chicken (ayam goreng), sambal sotong (cuttlefish) or cockles."
+  where: "Sold from pushcarts, morning markets, roadside stalls and school canteens, served at mamak stalls past midnight and at hotel buffets; regional styles vary (yellow-tinted rice around Alor Setar, tuna in Terengganu)."
 ---
 
 Before the sun is fully up, the smell reaches the street first: coconut-rich rice,

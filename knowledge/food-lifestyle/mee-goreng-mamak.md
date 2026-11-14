@@ -93,6 +93,11 @@ verificationNeeded:
   - "The precise naming and definition of stall variations 'mee goreng basah' (wet) and 'mee goreng kering' (dry): 'basah/wet' is attested, but a reliable definition of a distinct 'kering/dry' style was not located. Confirm with a Malaysian food reference."
   - "The claim that Singapore mamak versions are typically redder (added colouring) than Malaysian ones — reported by food media; confirm with a stronger source."
 framework: explainer
+dishFacts:
+  what: "Stir-fried yellow wheat noodles tossed with egg, boiled potato, fried tofu (taufu) and bean sprouts in a sweet-spicy sauce built on tomato ketchup, chilli and sweet soy sauce (kecap manis), often with prawn or a mutton version, finished with a squeeze of calamansi lime."
+  origin: "The Indian-Muslim (mamak, often Tamil-Muslim) version of fried noodles; widely regarded as a local fusion dish — Chinese-style yellow noodles seasoned the Malay-Indian way — said not to exist in India in this form. Exact origins are contested, with accounts pointing to Tamil-Muslim immigrants and an early-20th-century push-cart trade."
+  eat: "Cooked to order in minutes over a high-heat wok; served on a plate with a wedge of calamansi lime squeezed over at the table, eaten as a quick lunch, cheap dinner or late-night supper."
+  where: "Mamak stalls, coffee shops and 24-hour eateries across Malaysia, from roadside carts to air-conditioned chains; Penang versions run wetter and more intensely sauced."
 ---
 
 Walk up to almost any mamak stall in Malaysia after dark and you will hear it
