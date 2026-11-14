@@ -1,0 +1,235 @@
+---
+// Kopi Lingo Decoder — an interactive, client-side tool that teaches the
+// kopitiam/mamak drink-ordering code (kopi O / C / kosong / peng / gau …). Build
+// an order from selectors and see the spoken code + what you get + the etymology
+// of each term. The code is the same in every language, so UI strings are the
+// 3 core langs (ms/en/zh) like other tools; terms link into the sourced article
+// (hook→depth). Not sensitive (coffee/tea, no race/religion/royalty).
+import type { Locale } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import ToolArticleView from './ToolArticleView.astro';
+
+interface Props { locale: Locale; }
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string) => (locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const title = L('Penyahkod Bahasa Kopi', 'Kopi Lingo Decoder', '咖啡店点单黑话解码器');
+const lede = L(
+  'Di kaunter kopitiam, "kopi C kosong peng" ialah satu kod. Bina pesanan anda dan lihat maksud setiap perkataan — dan dari mana ia datang.',
+  'At the kopitiam counter, "kopi C kosong peng" is a code. Build your order and see what every word means — and where it comes from.',
+  '在咖啡店柜台，“kopi C kosong peng”是一套暗语。自己组一杯，看懂每个词的意思——以及它从哪里来。',
+);
+const how = L(
+  'Pesanan dibaca mengikut urutan: minuman → O/C → pekat (gau/po) → manis (kosong/siew dai/gah dai) → ais (peng). Urutan boleh berbeza mengikut kedai dan dialek; staf faham istilahnya. Etimologi tertentu (terutama "C") diperdebatkan — lihat rencana sumber.',
+  'An order reads in order: drink → O/C → strength (gau/po) → sweetness (kosong/siew dai/gah dai) → ice (peng). The exact order varies by shop and dialect; staff understand the terms either way. Some etymologies (especially "C") are debated — see the sourced article.',
+  '点单顺序大致为：饮料 → O/C → 浓淡（gau/po）→ 甜度（kosong/siew dai/gah dai）→ 加冰（peng）。各店和方言的顺序略有不同，但店员都听得懂。部分词源（尤其“C”）有争议——见来源文章。',
+);
+const faqs = [
+  {
+    q: L('Apa maksud "O"?', 'What does "O" mean?', '“O”是什么意思？'),
+    a: L('"O" daripada Hokkien 烏 (oo) = hitam: minuman tanpa susu (tetapi masih bergula melainkan anda sebut "kosong").',
+         '"O" is from Hokkien 烏 (oo) = black: the drink comes with no milk (but still sweetened unless you also say "kosong").',
+         '“O”来自福建话“烏”（黑）：不加奶（但仍然加糖，除非你再说“kosong”）。'),
+  },
+  {
+    q: L('Beza "C" dengan kopi biasa?', 'What is the difference between "C" and plain kopi?', '“C”和普通 kopi 有什么区别？'),
+    a: L('Kopi/teh biasa guna susu pekat manis. "C" guna susu cair (evaporated) + gula berasingan. Asal "C" diperdebatkan — sering dikaitkan dengan Hainan 鲜 ("segar").',
+         'Plain kopi/teh uses sweetened condensed milk. "C" uses evaporated milk with separate sugar instead. The origin of "C" is debated — it is often linked to Hainanese 鲜 ("fresh").',
+         '普通 kopi/teh 用甜炼乳；“C”则用淡奶（evaporated milk）另外加糖。“C”的来源有争议，常与海南话“鲜”相关。'),
+  },
+  {
+    q: L('Adakah urutan perkataan tetap?', 'Is the word order fixed?', '点单的词序固定吗？'),
+    a: L('Lebih kurang: minuman → O/C → gau/po → kosong/siew dai/gah dai → peng. Ia berbeza mengikut kedai; staf tetap faham istilahnya.',
+         'Roughly: drink → O/C → gau/po → kosong/siew dai/gah dai → peng. It varies by shop; staff still understand the terms.',
+         '大致是：饮料 → O/C → gau/po → kosong/siew dai/gah dai → peng。各店不一，但店员都懂。'),
+  },
+];
+const sources = [
+  { title: L('Kopi (minuman) — Wikipedia', 'Kopi (drink) — Wikipedia', 'Kopi（饮料）— 维基百科'), url: 'https://en.wikipedia.org/wiki/Kopi_(drink)' },
+];
+const related = [
+  { label: L('Kopi, Teh Tarik & Budaya Minuman Kopitiam', 'Kopi, Teh Tarik & Coffeeshop Drinks', 'Kopi、拉茶与咖啡店饮料文化'), href: localePath('/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks', locale) },
+  { label: L('Budaya Kopitiam & Mamak', 'Kopitiam & Mamak Culture', '咖啡店与嘛嘛档文化'), href: localePath('/food-lifestyle/kopitiam-mamak-culture', locale) },
+  { label: L('Minuman Malaysia', 'Malaysian Drinks', '马来西亚饮料'), href: localePath('/food-lifestyle/malaysian-drinks', locale) },
+];
+
+// ---- localized data for the client widget ----
+const UI = {
+  drink: L('Minuman', 'Drink', '饮料'),
+  milk: L('Susu', 'Milk', '奶'),
+  sugar: L('Manis', 'Sweetness', '甜度'),
+  strength: L('Kepekatan', 'Strength', '浓淡'),
+  temp: L('Suhu', 'Temperature', '冷热'),
+  order: L('Sebut begini', 'Say this', '这样点'),
+  what: L('Anda dapat', 'What you get', '你会得到'),
+  terms: L('Istilah digunakan', 'Terms used', '用到的词'),
+  try: L('Cuba', 'Try', '试试'),
+};
+const OPT = {
+  base: [ { v: 'Kopi', l: 'Kopi' }, { v: 'Teh', l: 'Teh' } ],
+  milk: [ { v: '', l: L('Susu pekat', 'Condensed', '炼乳') }, { v: 'C', l: L('Cair (C)', 'Evaporated (C)', '淡奶 (C)') }, { v: 'O', l: L('Hitam (O)', 'Black (O)', '黑 (O)') } ],
+  sugar: [ { v: '', l: L('Biasa', 'Normal', '正常') }, { v: 'kosong', l: 'kosong' }, { v: 'siew dai', l: 'siew dai' }, { v: 'gah dai', l: 'gah dai' } ],
+  strength: [ { v: '', l: L('Biasa', 'Normal', '正常') }, { v: 'gau', l: 'gau' }, { v: 'po', l: 'po' } ],
+  temp: [ { v: '', l: L('Panas', 'Hot', '热') }, { v: 'peng', l: L('Ais (peng)', 'Iced (peng)', '冰 (peng)') } ],
+};
+// phrases for "what you get"
+const PH = {
+  base: { Kopi: L('kopi', 'coffee', '咖啡'), Teh: L('teh', 'tea', '茶') },
+  milk: { '': L('susu pekat manis', 'sweetened condensed milk', '甜炼乳'), C: L('susu cair', 'evaporated milk', '淡奶'), O: L('tanpa susu (hitam)', 'no milk (black)', '不加奶（黑）') },
+  sweet: { '': L('manis biasa', 'normally sweet', '正常甜'), kosong: L('tanpa gula', 'no sugar', '无糖'), 'siew dai': L('kurang manis', 'less sweet', '少甜'), 'gah dai': L('lebih manis', 'extra sweet', '多甜') },
+  strength: { '': '', gau: L('pekat', 'strong/thick', '浓'), po: L('cair/ringan', 'light/thin', '淡') },
+  temp: { '': L('panas', 'hot', '热'), peng: L('ais', 'iced', '冰') },
+};
+// etymology (shown for base + selected non-default tokens)
+const ETY = {
+  Kopi: L('Melayu: kopi', 'Malay for "coffee"', '马来语“咖啡”'),
+  Teh: L('Melayu: teh', 'Malay for "tea"', '马来语“茶”'),
+  C: L('susu cair; sering dikaitkan dengan Hainan 鲜 ("segar") — asal diperdebatkan', 'evaporated milk; often linked to Hainanese 鲜 ("fresh") — origin debated', '淡奶；常与海南话“鲜”相关——来源有争议'),
+  O: L('Hokkien 烏 (oo) = hitam', 'Hokkien 烏 (oo) = "black"', '福建话“烏”＝黑'),
+  kosong: L('Melayu: kosong = kosong/sifar', 'Malay: kosong = "empty/zero"', '马来语 kosong＝空/零'),
+  'siew dai': L('Hokkien 少 = kurang', 'Hokkien 少 = "less"', '福建话“少”＝少'),
+  'gah dai': L('加 = tambah/lebih', '加 = "add/more"', '“加”＝多'),
+  gau: L('Hokkien 厚 = tebal/pekat', 'Hokkien 厚 = "thick"', '福建话“厚”＝浓厚'),
+  po: L('Hokkien 薄 = nipis/cair', 'Hokkien 薄 = "thin"', '福建话“薄”＝淡薄'),
+  peng: L('Hokkien 冰 = ais', 'Hokkien 冰 = "ice"', '福建话“冰”＝冰'),
+};
+const QUICK = [
+  { l: 'Kopi O', s: { base: 'Kopi', milk: 'O', sugar: '', strength: '', temp: '' } },
+  { l: 'Teh C peng', s: { base: 'Teh', milk: 'C', sugar: '', strength: '', temp: 'peng' } },
+  { l: 'Kopi kosong', s: { base: 'Kopi', milk: '', sugar: 'kosong', strength: '', temp: '' } },
+  { l: 'Kopi C kosong peng', s: { base: 'Kopi', milk: 'C', sugar: 'kosong', strength: '', temp: 'peng' } },
+  { l: 'Teh O gau', s: { base: 'Teh', milk: 'O', sugar: '', strength: 'gau', temp: '' } },
+];
+---
+
+<ToolArticleView
+  locale={locale}
+  toolId="kopi-lingo-decoder"
+  title={title}
+  lede={lede}
+  how={how}
+  faqs={faqs}
+  sources={sources}
+  related={related}
+>
+  <div class="kld" data-kld>
+    {([['base', UI.drink], ['milk', UI.milk], ['strength', UI.strength], ['sugar', UI.sugar], ['temp', UI.temp]] as const).map(([grp, label]) => (
+      <div class="kld-row">
+        <span class="kld-lbl">{label}</span>
+        <div class="kld-opts" data-group={grp}>
+          {OPT[grp].map((o, i) => (
+            <button type="button" data-val={o.v} class={i === 0 ? 'on' : ''}>{o.l}</button>
+          ))}
+        </div>
+      </div>
+    ))}
+
+    <div class="kld-out" aria-live="polite">
+      <div class="kld-order-wrap">
+        <span class="kld-cap">{UI.order}</span>
+        <strong class="kld-order" data-order>Kopi</strong>
+      </div>
+      <p class="kld-what"><span class="kld-cap">{UI.what}:</span> <span data-what></span></p>
+      <div class="kld-terms-wrap">
+        <span class="kld-cap">{UI.terms}</span>
+        <ul class="kld-terms" data-terms></ul>
+      </div>
+    </div>
+
+    <div class="kld-quick">
+      <span class="kld-cap">{UI.try}:</span>
+      {QUICK.map((q) => (
+        <button type="button" class="kld-q" data-quick={JSON.stringify(q.s)}>{q.l}</button>
+      ))}
+    </div>
+  </div>
+
+  <script define:vars={{ PH, ETY }}>
+    const root = document.querySelector('[data-kld]');
+    if (root) {
+      const state = { base: 'Kopi', milk: '', sugar: '', strength: '', temp: '' };
+      const sync = () => {
+        for (const grp of ['base', 'milk', 'sugar', 'strength', 'temp']) {
+          const cont = root.querySelector(`[data-group="${grp}"]`);
+          if (cont) cont.querySelectorAll('button').forEach((b) => b.classList.toggle('on', (b.getAttribute('data-val') || '') === state[grp]));
+        }
+      };
+      const render = () => {
+        const parts = [state.base];
+        if (state.milk) parts.push(state.milk);
+        if (state.strength) parts.push(state.strength);
+        if (state.sugar) parts.push(state.sugar);
+        if (state.temp) parts.push(state.temp);
+        root.querySelector('[data-order]').textContent = parts.join(' ');
+
+        const what = [PH.base[state.base], PH.milk[state.milk], PH.sweet[state.sugar], PH.strength[state.strength], PH.temp[state.temp]].filter(Boolean).join(' · ');
+        root.querySelector('[data-what]').textContent = what;
+
+        const used = [state.base];
+        for (const g of ['milk', 'sugar', 'strength', 'temp']) if (state[g]) used.push(state[g]);
+        const ul = root.querySelector('[data-terms]');
+        ul.innerHTML = '';
+        for (const tok of used) {
+          if (!ETY[tok]) continue;
+          const li = document.createElement('li');
+          const b = document.createElement('b');
+          b.textContent = tok;
+          li.appendChild(b);
+          li.appendChild(document.createTextNode(' — ' + ETY[tok]));
+          ul.appendChild(li);
+        }
+      };
+      root.querySelectorAll('[data-group]').forEach((g) => {
+        g.addEventListener('click', (e) => {
+          const btn = e.target.closest('button[data-val]');
+          if (!btn) return;
+          state[g.getAttribute('data-group')] = btn.getAttribute('data-val') || '';
+          sync();
+          render();
+        });
+      });
+      root.querySelectorAll('[data-quick]').forEach((q) => {
+        q.addEventListener('click', () => {
+          Object.assign(state, JSON.parse(q.getAttribute('data-quick')));
+          sync();
+          render();
+        });
+      });
+      render();
+    }
+  </script>
+
+  <style>
+    .kld { display: grid; gap: 0.9rem; }
+    .kld-row { display: grid; grid-template-columns: 7rem 1fr; gap: 0.6rem 0.9rem; align-items: center; }
+    .kld-lbl { font-weight: 700; color: var(--muted); font-size: 0.9rem; }
+    .kld-opts { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+    .kld-opts button {
+      font: inherit; font-size: 0.9rem; cursor: pointer;
+      padding: 0.4rem 0.8rem; border-radius: 999px;
+      border: 1px solid var(--line); background: var(--surface-2); color: var(--ink);
+      transition: border-color 0.12s, background 0.12s, color 0.12s;
+    }
+    .kld-opts button:hover { border-color: var(--gold); }
+    .kld-opts button.on { background: var(--gold); border-color: var(--gold); color: var(--accent-contrast); font-weight: 700; }
+
+    .kld-out { margin-top: 0.3rem; padding: 1.1rem; border: 1px solid var(--line); border-radius: 12px; background: var(--surface-2); display: grid; gap: 0.7rem; }
+    .kld-cap { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.04em; font-weight: 700; color: var(--muted); }
+    .kld-order-wrap { display: grid; gap: 0.15rem; }
+    .kld-order { font-family: var(--font-title); font-size: 1.9rem; line-height: 1.1; color: var(--gold); }
+    .kld-what { margin: 0; font-size: 0.95rem; }
+    .kld-what .kld-cap { margin-inline-end: 0.3rem; }
+    .kld-terms-wrap { display: grid; gap: 0.3rem; }
+    .kld-terms { margin: 0; padding: 0; list-style: none; display: grid; gap: 0.3rem; }
+    .kld-terms li { font-size: 0.88rem; color: var(--ink-soft); }
+    .kld-terms b { color: var(--ink); font-family: var(--font-title); margin-inline-end: 0.15rem; }
+
+    .kld-quick { display: flex; flex-wrap: wrap; align-items: center; gap: 0.4rem; }
+    .kld-q { font: inherit; font-size: 0.82rem; cursor: pointer; padding: 0.3rem 0.7rem; border-radius: 999px; border: 1px dashed var(--line); background: transparent; color: var(--muted); }
+    .kld-q:hover { border-color: var(--gold); color: var(--ink); }
+
+    @media (max-width: 480px) {
+      .kld-row { grid-template-columns: 1fr; gap: 0.3rem; }
+    }
+  </style>
+</ToolArticleView>

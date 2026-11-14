@@ -1,0 +1,16 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import KopiLingoDecoderView from '@/components/KopiLingoDecoderView.astro';
+import { liveTools } from '@/lib/tools';
+const locale = 'es';
+const tool = liveTools(locale).find((x) => x.id === 'kopi-lingo-decoder');
+---
+
+<BaseLayout
+  locale={locale}
+  title={tool?.label ?? 'Kopi Lingo Decoder'}
+  description={tool?.desc ?? ''}
+  path="/tools/kopi-lingo-decoder"
+>
+  <KopiLingoDecoderView locale={locale} />
+</BaseLayout>
