@@ -321,6 +321,27 @@ const knowledge = defineCollection({
       })
       .partial()
       .optional(),
+    /**
+     * Drink "what-is" quick-facts card — the 吃喝玩乐 study's 喝 move (the study's
+     * STANDOUT ownable gap: nobody built the drinks understanding layer). Sibling of
+     * dishFacts for discrete drinks (teh tarik, sirap bandung, Milo dinosaur …):
+     * what it is, its origin/lineage, typical halal status, how it is served, and
+     * where you find it. Same contract as dishFacts: STABLE + sourced only (no prices,
+     * no "best"), all fields optional, freshness-neutral (NOT in TRANSLATED_FIELDS).
+     * `halal` filled ONLY when the article sources it — never guessed (though most
+     * non-alcoholic Malaysian drinks are halal, the row is still article-grounded).
+     * Rendered as the "At a glance" card in ArticleView, just under the 30-second answer.
+     */
+    drinkFacts: z
+      .object({
+        what: z.string(),
+        origin: z.string(),
+        halal: z.string(),
+        served: z.string(),
+        where: z.string(),
+      })
+      .partial()
+      .optional(),
 
     // ---- title variants (HTS) ----------------------------------------
     /** ≤60 chars, head-term first. Falls back to `title`. */
@@ -595,7 +616,7 @@ const knowledge = defineCollection({
      *  practical=rules/how-to. Drives the block set, the image-honesty default and
      *  whether review[] applies (place only). Optional; set on food-lifestyle
      *  articles. See docs/FOOD-ARTICLE-STANDARD.md. */
-    foodType: z.enum(['place', 'dish', 'ingredient', 'cuisine', 'culture', 'practical']).optional(),
+    foodType: z.enum(['place', 'dish', 'drink', 'ingredient', 'cuisine', 'culture', 'practical']).optional(),
     featured: z.boolean().default(false),
     /**
      * Sponsor id from src/lib/sponsors.ts. Omit to inherit the pillar default;

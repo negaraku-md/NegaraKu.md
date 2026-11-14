@@ -31,7 +31,7 @@ import { readFileSync, readdirSync, statSync } from 'node:fs';
 import { join } from 'node:path';
 
 const FOOD_DIR = 'knowledge/food-lifestyle';
-const FOODTYPE_ENUM = new Set(['place', 'dish', 'ingredient', 'cuisine', 'culture', 'practical']);
+const FOODTYPE_ENUM = new Set(['place', 'dish', 'drink', 'ingredient', 'cuisine', 'culture', 'practical']);
 const LOCALES = new Set([
   'ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar', 'hi', 'es', 'fr',
 ]);

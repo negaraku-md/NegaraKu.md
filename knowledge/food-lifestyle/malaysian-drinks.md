@@ -80,6 +80,9 @@ sources:
 relations:
   - { rel: "part-of", to: "malaysia" }
 related:
+  - "teh-tarik"
+  - "sirap-bandung"
+  - "milo-dinosaur"
   - "kopi-teh-tarik-and-coffeeshop-drinks"
   - "kopitiam-mamak-culture"
   - "pasar-malam-and-street-food"
