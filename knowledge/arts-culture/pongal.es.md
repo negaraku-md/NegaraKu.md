@@ -76,6 +76,12 @@ relations:
 related: ["hinduism-in-malaysia", "tamil-in-malaysia", "deepavali", "thaipusam", "estate-tamil-community"]
 keywords: ["தைப்பொங்கல்", "பொங்கல்", "மலேசியா பொங்கல்", "மாட்டுப் பொங்கல்", "போகிப் பண்டிகை", "அறுவடைப் பண்டிகை", "Pongal", "Thai Pongal"]
 framework: history-culture
+festivalFacts:
+  what: "La fiesta de la cosecha y de acción de gracias de los tamiles; el ritual central consiste en hervir arroz nuevo con leche en una olla de barro y, cuando la leche rebosa, aclamar con el grito de «Pongalo Pongal». Es una fiesta de cuatro días: Bhogi, Thai Pongal (Surya Pongal, el Pongal del Sol), Mattu Pongal y Kaanum Pongal."
+  who: "La comunidad tamil de Malasia, que la celebra ampliamente en hogares y templos de zonas de gran presencia tamil como Brickfields (Little India), Klang y Penang."
+  when: "El día en que comienza el mes tamil de Thai; en el calendario gregoriano, generalmente a mediados de enero (el 14 o el 15)."
+  holiday: "No es fiesta pública publicada en el boletín oficial ni a nivel federal ni en ningún estado de Malasia. (Solo Deepavali es fiesta pública federal —salvo en Sarawak—; Thaipusam es fiesta solo en algunos estados.)"
+  etiquette: "Es principalmente una fiesta cultural ligada a la cosecha, de carácter laico (así lo aclaró un ministro malasio en 2020); las organizaciones comunitarias y los templos cocinan pongal de forma conjunta en numerosas ollas y celebran actos públicos con representaciones artísticas."
 ---
 
 En la madrugada en que comienza el mes de Thai, los patios y los umbrales de las

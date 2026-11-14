@@ -80,6 +80,12 @@ relations:
 related: ["chinese-new-year", "hungry-ghost-festival", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["清明节", "Cheng Beng", "扫墓", "拜山", "祭祖", "慎终追远", "金银纸", "纸扎", "后土", "土地公", "灵骨塔", "骨灰龛", "三保山", "Bukit Cina", "富贵山庄", "Qingming Festival", "Tomb-Sweeping Day"]
 framework: history-culture
+festivalFacts:
+  what: "Tết Thanh Minh (người Hoa Malaysia tục gọi là Cheng Beng/Tết tảo mộ) là lễ hội truyền thống của người Hoa để tưởng nhớ tổ tiên và tảo mộ cúng tế; cốt lõi là tảo mộ — dọn dẹp và sửa sang phần mộ, tô lại chữ trên bia, bày đồ cúng bái, và đốt vàng mã cùng các đồ cúng bằng giấy (giấy tiền vàng bạc và hình nhân giấy)."
+  who: "Cộng đồng người Hoa Malaysia (người Hoa chiếm khoảng hai phần mười dân số công dân, số liệu DOSM cho thấy năm 2025 là 22,2%)."
+  when: "Tương ứng với tiết 'Thanh Minh' trong 24 tiết khí âm lịch, ngày dương lịch khá cố định, thường vào khoảng mùng 4 hoặc mùng 5 tháng 4; các gia đình bản địa phần lớn trải việc tảo mộ ra trong khoảng mười ngày trước và sau tiết lễ."
+  holiday: "Tết Thanh Minh không phải ngày lễ công cộng ở Malaysia, trong ngày đó phần lớn các cửa hàng vẫn hoạt động bình thường."
+  etiquette: "Vì việc đốt vàng mã và đồ mã bằng giấy có liên quan đến lửa trần và khói, một số nghĩa trang và công viên tưởng niệm quy định khu vực đốt riêng hoặc đặt ra quy định, những năm gần đây cũng có người chuyển sang các cách thức thân thiện với môi trường hơn."
 ---
 
 Một buổi sáng sớm đầu tháng Tư, trên các lối đi trong nghĩa trang bắt đầu xuất hiện từng gia đình. Có người xách xô và liềm, có người xách giỏ đầy đồ ăn nấu chín, trái cây và tiền giấy. Tìm được phần mộ nhà mình, người trẻ bắt tay nhổ cỏ, quét lá, còn người lớn tuổi chỉ dẫn cách tô lại từng nét chữ phai mờ trên bia mộ; chỉ khi phần mộ đã sạch sẽ mới bày đồ cúng, thắp hương vái lạy, và cuối cùng đốt tiền giấy trên khoảng đất trống bên cạnh. Giữa khói và lửa, Thanh Minh một năm một lần cứ thế trôi qua.

@@ -68,6 +68,11 @@ relations:
 related: ["chinese-religion-in-malaysia", "buddhism-in-malaysia", "hungry-ghost-festival", "religion-statistics"]
 keywords: ["九皇爷诞", "九皇大帝", "九皇胜会", "斗母元君", "食斋", "斋戒", "请水", "送驾", "过火", "安邦南天宫", "香港巷斗母宫", "Nine Emperor Gods Festival", "Kaw Ong Ya"]
 framework: history-culture
+festivalFacts:
+  what: "Satu perayaan Taoisme yang penting dalam masyarakat Cina Malaysia; penganutnya memuja 「九皇大帝」 (北斗九皇星君); tempoh perayaannya berteraskan upacara menjemput air dan menyambut kedatangan dewa, berpantang makanan (bervegetarian), perarakan dewa mengelilingi kawasan, serta menghantar pulang dewa pada hari kesembilan."
+  who: "Penganut dalam masyarakat Cina Malaysia; tokong terkenal termasuk 南天宫 di Ampang, Selangor, 斗母宫 di Lorong Hong Kong, Pulau Pinang, dan 斗母宫 di Butterworth."
+  when: "Dari hari pertama hingga hari kesembilan bulan kesembilan kalendar lunar, selama sembilan hari berturut-turut (upacara menjemput air pada malam sebelum hari pertama, dan menghantar pulang dewa pada hari kesembilan sebagai penutup)."
+  etiquette: "Ramai penganut mematuhi 「食斋」 (berpantang/bervegetarian), bervegetarian selama satu hari, tiga hari atau sepanjang sembilan hari, dan secara tradisinya berpantang lima jenis sayur berbau tajam (五辛); kebanyakannya memakai pakaian putih dengan tali pinggang kuning; sepanjang tempoh perayaan sering ada perarakan dewa menyusuri jalan, dan sesetengah tokong mengamalkan pertapaan seperti berjalan atas bara api (过火) dan mencucuk pipi atau mulut (扎口), namun amalannya berbeza mengikut tokong."
 ---
 
 Pada malam sebelum hari pertama bulan sembilan kalendar lunar, sebaris penganut berpakaian putih dengan ikat pinggang kuning keluar beratur dari tokong, sambil memegang colok, menuju ke tepi sungai atau pantai yang terdekat. Gong dan gendang di hadapan, asap colok di belakang — mereka pergi untuk "menjemput air" dan "menyambut dewa", mengiringi Sembilan Maharaja Dewa pulang ke tokong. Sepanjang sembilan hari berikutnya, colok tidak putus-putus di dalam tokong, dan bau makanan vegetarian berbau harum di luar; pada malam hari kesembilan, barisan yang sama akan beratur semula ke tepi air untuk menghantar pulang dewa.

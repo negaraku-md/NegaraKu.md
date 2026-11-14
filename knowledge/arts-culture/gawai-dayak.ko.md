@@ -78,6 +78,12 @@ relations:
 related: ["kaamatan", "sarawak"]
 keywords: ["Gawai Dayak", "Hari Gawai", "harvest festival Sarawak", "Dayak", "Iban", "Bidayuh", "Orang Ulu", "miring", "ngajat", "tuak", "Tuai Rumah", "Gayu Guru Gerai Nyamai"]
 framework: history-culture
+festivalFacts:
+  what: "사라왁 다약(Dayak) 민족의 수확 축제로, 벼(padi) 수확에 감사를 드린다. 롱하우스 의례를 중심으로 하며, Tuai Rumah가 이끄는 miring 감사 봉헌, Ai Pengayu(tuak)로 올리는 자정의 건배, 그리고 ngajat 춤으로 구성된다."
+  who: "사라왁의 다약 공동체 — 주로 이반(Iban), 비다유(Bidayuh), 오랑 울루(Orang Ulu) 계열(Kayan, Kenyah, Kelabit, Lun Bawang 등)."
+  when: "매년 6월 1일과 2일이다. 준수는 5월 31일 저녁에 시작되며, 보다 넓은 Gawai 시즌은 6월 말경 ngiling tikai(「돗자리 말기」)로 공식적으로 마무리된다."
+  holiday: "사라왁 주의 공휴일이다(1964년 9월 25일 관보 공고)."
+  etiquette: "롱하우스의 문이 활짝 열린다 — 찾아오는 가족, 이웃, 손님에 대한 환대가 축제의 일부다. 흔한 인사말은 'Gayu Guru, Gerai Nyamai'(장수, 건강, 번영) 또는 'Selamat Hari Gawai'이다. 이는 무엇보다 가족과 롱하우스의 준수이지, 관광용 쇼가 아니다."
 ---
 
 5월의 마지막 날, 시계는 아직 자정을 치지 않았고, 사라왁의 어느 강가 롱하우스에서는 공(gong)이 기다리고 있습니다. 벼는 거두어졌습니다. 회랑은 쓸리고 새 돗자리가 걸렸습니다. 투악 항아리 하나가 준비되어 있습니다. 마침내 공이 울리면 롱하우스 촌장이 잔을 들고, 긴 공용 툇마루에 늘어선 모두가 같은 세 마디를 위해 마십니다. 장수, 건강, 번영.

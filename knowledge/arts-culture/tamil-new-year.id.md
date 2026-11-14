@@ -71,6 +71,12 @@ relations:
 related: ["pongal", "deepavali", "thaipusam", "tamil-in-malaysia", "hinduism-in-malaysia"]
 keywords: ["தமிழ்ப் புத்தாண்டு", "சித்திரை புத்தாண்டு", "புத்தாண்டு", "மலேசியா தமிழ்ப் புத்தாண்டு", "கண்ணி", "மாங்காய் வேப்பம்பூ பச்சடி", "Tamil New Year", "Puthandu"]
 framework: history-culture
+festivalFacts:
+  what: "Tahun Baru yang jatuh pada hari pertama bulan Chithirai dalam penanggalan surya Tamil; ritual intinya adalah kanni — melihat pertama kali pada dini hari nampan sakral (mangalam) berisi buah, emas, dan cermin."
+  who: "Komunitas Tamil Malaysia, di rumah-rumah dan kuil-kuil; komunitas Chetti Melaka (Chetti Melaka) di Melaka juga merayakannya."
+  when: "Hari pertama bulan Chithirai — umumnya sekitar 14 April; pada hari yang sama jatuh pula Vishu bagi orang Malayali dan Vaisakhi bagi orang Sikh."
+  holiday: "Bukan hari libur umum persekutuan; tidak ada negeri yang biasanya mengumumkannya sebagai hari libur (tidak seperti Deepavali, Thaipusam)."
+  etiquette: "Lazim saling menyampaikan \"Selamat Tahun Baru\"; pada hari Chithirai tampak suasana perayaan di Little India Kuala Lumpur, kuil-kuil, dan acara-acara komunitas."
 ---
 
 Fajar pertama bulan Chithirai. Di banyak rumah Tamil, sebuah nampan sudah

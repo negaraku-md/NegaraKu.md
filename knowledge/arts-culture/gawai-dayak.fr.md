@@ -78,6 +78,12 @@ relations:
 related: ["kaamatan", "sarawak"]
 keywords: ["Gawai Dayak", "Hari Gawai", "fête des moissons Sarawak", "Dayak", "Iban", "Bidayuh", "Orang Ulu", "miring", "ngajat", "tuak", "Tuai Rumah", "Gayu Guru Gerai Nyamai"]
 framework: history-culture
+festivalFacts:
+  what: "La fête des récoltes des peuples dayak du Sarawak, qui rend grâce pour la récolte de padi (riz) ; elle s'articule autour de rituels de maison longue — l'offrande d'action de grâce miring menée par le Tuai Rumah, un toast de minuit à l'Ai Pengayu (tuak) et la danse ngajat."
+  who: "Les communautés dayak du Sarawak — principalement les groupes iban, bidayuh et orang ulu (Kayan, Kenyah, Kelabit, Lun Bawang et autres)."
+  when: "Chaque année les 1er et 2 juin ; l'observance commence le soir du 31 mai, et la saison plus large de Gawai est officiellement clôturée par le ngiling tikai (« enroulement de la natte ») vers la fin juin."
+  holiday: "Jour férié dans l'État du Sarawak (inscrit au journal officiel le 25 septembre 1964)."
+  etiquette: "La porte de la maison longue est grande ouverte — l'hospitalité envers la famille en visite, les voisins et les invités fait partie de la fête ; un salut courant est « Gayu Guru, Gerai Nyamai » (longue vie, santé, prospérité), ou « Selamat Hari Gawai ». C'est d'abord une observance familiale et de maison longue, non un spectacle touristique."
 ---
 
 L'horloge n'a pas encore sonné minuit en ce dernier jour de mai, et dans une maison longue quelque part le long d'une rivière du Sarawak, le gong attend. Le riz est rentré. La galerie a été balayée et tendue de nattes neuves. Une jarre de tuak est prête. Lorsque le gong retentira enfin, le chef de la maison longue lèvera une coupe, et tous le long de la grande véranda communautaire boiront aux trois mêmes mots : longue vie, santé, prospérité.

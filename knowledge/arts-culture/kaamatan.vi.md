@@ -80,6 +80,12 @@ relations:
 related: ["sabah", "population-composition", "wau"]
 keywords: ["Pesta Kaamatan", "Tadau Kaamatan", "Kadazandusun harvest festival", "Unduk Ngadau", "Bambaazon", "Huminodun", "Magavau", "KDCA", "Sabah"]
 framework: history-culture
+festivalFacts:
+  what: "Pesta Kaamatan (Tadau Kaamatan), lễ hội mùa gặt của người Kadazandusun ở Sabah; tạ ơn cho vụ thu hoạch lúa, xoay quanh thần lúa Bambaazon (Bambarayon) và truyền thuyết Huminodun. Các yếu tố chính gồm nghi lễ Magavau (do một bobohizan chủ trì), điệu múa Sumazau và cuộc trình diễn văn hóa Unduk Ngadau."
+  who: "Các cộng đồng bản địa Kadazan, Dusun, Murut, Rungus, Lundayeh và các cộng đồng bản địa khác ở Sabah (thường được gộp chung là Kadazandusun); lễ hội cũng được tổ chức bởi các cộng đồng người Sabah ở những nơi khác tại Malaysia."
+  when: "Ngày 30 và 31 tháng 5, với các hoạt động mừng lễ diễn ra suốt phần lớn tháng 5 theo từng huyện trước khi có phần cao trào cấp bang vào hai ngày đó."
+  holiday: "Là ngày lễ công cộng tại bang Sabah và lãnh thổ liên bang Labuan vào ngày 30 và 31 tháng 5; không phải ngày lễ công cộng trên toàn quốc."
+  etiquette: "Hãy hiểu Unduk Ngadau là một cuộc trình diễn văn hóa tôn vinh truyền thuyết Huminodun, chứ không phải một cuộc thi sắc đẹp thông thường, và hãy nhìn nhận tín ngưỡng Bambaazon cùng truyền thuyết Huminodun một cách tôn trọng như truyền thống riêng của cộng đồng, chứ không phải như sự thật được khẳng định."
 ---
 
 Lễ hội được đặt tên theo một ý duy nhất: mùa gặt. *Kaamatan* nghĩa đúng như vậy trong tiếng Kadazandusun, và mọi thứ khác trong lễ mừng — nghi lễ, rượu gạo, cuộc thi được đăng quang vào tối cuối cùng — đều mọc ra từ một hành động ấy là thu hoạch lúa về.

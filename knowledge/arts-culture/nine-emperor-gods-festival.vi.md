@@ -68,6 +68,11 @@ relations:
 related: ["chinese-religion-in-malaysia", "buddhism-in-malaysia", "hungry-ghost-festival", "religion-statistics"]
 keywords: ["九皇爷诞", "九皇大帝", "九皇胜会", "斗母元君", "食斋", "斋戒", "请水", "送驾", "过火", "安邦南天宫", "香港巷斗母宫", "Nine Emperor Gods Festival", "Kaw Ong Ya"]
 framework: history-culture
+festivalFacts:
+  what: "Một lễ hội Đạo giáo quan trọng của cộng đồng người Hoa Malaysia, tín đồ thờ 'Cửu Hoàng Đại Đế' (九皇大帝) (Bắc Đẩu Cửu Hoàng Tinh Quân); tiết lễ xoay quanh việc thỉnh nước/nghênh giá, ăn chay, du cảnh (rước thần) và tiễn giá hồi loan vào mùng 9."
+  who: "Các tín đồ trong cộng đồng người Hoa Malaysia; những ngôi đền nổi tiếng gồm Nam Thiên Cung ở Ampang, Selangor, Đẩu Mẫu Cung ở ngõ Hong Kong (Hong Kong Street), Penang và Đẩu Mẫu Cung ở Butterworth."
+  when: "Từ mùng 1 đến mùng 9 tháng 9 âm lịch, liên tục chín ngày (thỉnh nước vào đêm trước mùng 1, kết thúc bằng lễ tiễn giá vào mùng 9)."
+  etiquette: "Nhiều tín đồ giữ 'ăn chay' (trai giới), ăn chay một ngày, ba ngày hoặc trọn chín ngày, theo truyền thống kiêng ngũ tân (năm loại gia vị cay nồng); phần lớn mặc áo trắng, thắt dải vàng ở eo; trong tiết lễ thường có lễ du cảnh (rước thần) đi diễu qua các con phố, một số đền có các nghi thức khổ hạnh như đi qua lửa (quá hỏa), xuyên bịt miệng (trát khẩu), song cách làm khác nhau tùy từng đền."
 ---
 
 Vào đêm trước mùng 1 tháng Chín âm lịch, một hàng tín đồ mặc áo trắng thắt dải vàng ngang lưng, tay cầm hương, nối nhau ra khỏi miếu, hướng về con sông hoặc bờ biển gần nhất. Phía trước là chiêng trống, phía sau là khói hương — họ đi 'thỉnh nước', 'nghênh giá', để cung thỉnh Cửu Hoàng Đại Đế về miếu. Suốt chín ngày tiếp theo, trong miếu hương khói không dứt, ngoài miếu thoảng mùi đồ chay; đến đêm mùng 9, chính hàng người ấy lại xếp thành đoàn ra bờ nước để tiễn thần về.

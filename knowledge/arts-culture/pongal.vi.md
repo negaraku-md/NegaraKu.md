@@ -76,6 +76,12 @@ relations:
 related: ["hinduism-in-malaysia", "tamil-in-malaysia", "deepavali", "thaipusam", "estate-tamil-community"]
 keywords: ["தைப்பொங்கல்", "பொங்கல்", "மலேசியா பொங்கல்", "மாட்டுப் பொங்கல்", "போகிப் பண்டிகை", "அறுவடைப் பண்டிகை", "Pongal", "Thai Pongal"]
 framework: history-culture
+festivalFacts:
+  what: "Lễ hội mùa gặt / tạ ơn của người Tamil; nghi lễ trung tâm là nấu gạo mới với sữa trong một nồi đất và, khi sữa trào lên, hô vang 'Pongalo Pongal'. Một lễ hội kéo dài bốn ngày: Bhogi, Thai Pongal (Pongal Mặt Trời), Mattu Pongal, Kaanum Pongal."
+  who: "Cộng đồng Tamil ở Malaysia — cử hành rộng rãi tại các gia đình và đền chùa ở những khu vực tập trung đông người Tamil như Brickfields (Little India/Tiểu Ấn Độ), Klang, Penang."
+  when: "Ngày bắt đầu tháng Thai của người Tamil — trong lịch Gregory thường rơi vào giữa tháng 1 (ngày 14 hoặc 15)."
+  holiday: "Không phải ngày lễ công cộng được công bố ở cấp liên bang hay ở bất kỳ bang nào tại Malaysia. (Chỉ có Deepavali là ngày lễ công cộng cấp liên bang — ngoại trừ Sarawak; Thaipusam chỉ là ngày nghỉ lễ ở một số bang.)"
+  etiquette: "Chủ yếu là một lễ hội văn hóa gắn với mùa gặt, mang tính thế tục/không tôn giáo (một bộ trưởng Malaysia đã làm rõ điều này vào năm 2020); các tổ chức cộng đồng và đền chùa cùng nấu Pongal trong nhiều nồi và tổ chức lễ mừng công khai cùng với các tiết mục văn nghệ."
 ---
 
 Vào sáng sớm khi tháng Thai bắt đầu, sân vườn và ngưỡng cửa của các gia đình

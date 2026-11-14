@@ -76,6 +76,12 @@ relations:
 related: ["hinduism-in-malaysia", "tamil-in-malaysia", "deepavali", "thaipusam", "estate-tamil-community"]
 keywords: ["தைப்பொங்கல்", "பொங்கல்", "மலேசியா பொங்கல்", "மாட்டுப் பொங்கல்", "போகிப் பண்டிகை", "அறுவடைப் பண்டிகை", "Pongal", "Thai Pongal"]
 framework: history-culture
+festivalFacts:
+  what: "The harvest / thanksgiving festival of the Tamils; the central ritual is boiling new rice with milk in a clay pot until the milk boils over, at which point people acclaim it with the cry 'Pongalo Pongal'. A four-day festival: Bhogi, Thai Pongal (Surya Pongal), Mattu Pongal and Kaanum Pongal."
+  who: "Malaysia's Tamil community — widely celebrated in homes and temples in Tamil-dense areas such as Brickfields (Little India), Klang and Penang."
+  when: "The first day of the Tamil month of Thai — generally mid-January in the Gregorian calendar (14 or 15)."
+  holiday: "Not a gazetted public holiday at the federal level or in any state in Malaysia. (Only Deepavali is a federal public holiday — except in Sarawak; Thaipusam is a holiday only in some states.)"
+  etiquette: "Primarily a harvest-based cultural festival, secular in nature (clarified by a Malaysian minister in 2020); community organisations and temples hold public celebrations, boiling pongal together in many pots alongside cultural performances."
 ---
 
 In the early dawn as the month of Thai begins, the courtyards and doorsteps of

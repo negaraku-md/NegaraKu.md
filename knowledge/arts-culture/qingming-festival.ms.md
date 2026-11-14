@@ -80,6 +80,12 @@ relations:
 related: ["chinese-new-year", "hungry-ghost-festival", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["清明节", "Cheng Beng", "扫墓", "拜山", "祭祖", "慎终追远", "金银纸", "纸扎", "后土", "土地公", "灵骨塔", "骨灰龛", "三保山", "Bukit Cina", "富贵山庄", "Qingming Festival", "Tomb-Sweeping Day"]
 framework: history-culture
+festivalFacts:
+  what: "清明节 (dalam kalangan masyarakat Cina Malaysia lazim disebut Cheng Beng / Perayaan Mencuci Kubur) ialah perayaan tradisi masyarakat Cina untuk mengenang dan memberi penghormatan kepada nenek moyang serta menziarah makam; intinya ialah menyelenggara kubur — membersih dan membaiki tapak kubur, menebalkan semula tulisan pada batu nisan, mempersembahkan sajian dan bersembahyang, serta membakar wang kertas emas-perak dan persembahan kertas."
+  who: "Masyarakat Cina Malaysia (kaum Cina mewakili kira-kira dua persepuluh daripada penduduk warganegara; data DOSM menunjukkan 22.2% pada 2025)."
+  when: "Sepadan dengan 「清明」 dalam dua puluh empat tempoh solar (jieqi) kalendar lunar, dengan tarikh Gregorian yang agak tetap, biasanya sekitar 4 atau 5 April; keluarga tempatan kebanyakannya menyebarkan ziarah kubur dalam lingkungan kira-kira sepuluh hari sebelum dan selepas tempoh perayaan."
+  holiday: "清明节 bukan cuti umum di Malaysia, dan pada hari itu kebanyakan perniagaan beroperasi seperti biasa."
+  etiquette: "Oleh sebab pembakaran wang kertas emas-perak dan persembahan kertas melibatkan api terbuka dan asap, sesetengah tanah perkuburan dan taman peringatan menetapkan kawasan pembakaran atau mengenakan peraturan, dan sejak beberapa tahun kebelakangan ini ada juga yang beralih kepada cara yang lebih mesra alam."
 ---
 
 Pada suatu pagi awal April, keluarga demi keluarga mula kelihatan di laluan tanah perkuburan. Ada yang menjinjing baldi dan sabit, ada yang membawa bakul penuh dengan hidangan masak, buah-buahan dan wang kertas. Setelah menemui kubur keluarga sendiri, yang muda mula membuang rumpai dan menyapu daun gugur manakala yang tua menunjukkan cara menyapu semula, satu demi satu, aksara yang telah pudar pada batu nisan; hanya setelah kubur bersih barulah pemujaan disusun, colok dinyalakan dan penghormatan diberi, dan akhirnya wang kertas dibakar di ruang lapang berdekatan. Dalam asap dan nyala api itu, Qingming setahun sekali pun berlalu begitu sahaja.

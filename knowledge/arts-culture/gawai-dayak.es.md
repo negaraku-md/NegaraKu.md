@@ -78,6 +78,12 @@ relations:
 related: ["kaamatan", "sarawak"]
 keywords: ["Gawai Dayak", "Hari Gawai", "festival de la cosecha Sarawak", "Dayak", "Iban", "Bidayuh", "Orang Ulu", "miring", "ngajat", "tuak", "Tuai Rumah", "Gayu Guru Gerai Nyamai"]
 framework: history-culture
+festivalFacts:
+  what: "La fiesta de la cosecha de los pueblos Dayak de Sarawak, en acción de gracias por la cosecha de padi (arroz); se articula en torno a rituales de la casa comunal (longhouse): la ofrenda de acción de gracias miring dirigida por el Tuai Rumah, un brindis de medianoche con Ai Pengayu (tuak) y la danza ngajat."
+  who: "Las comunidades Dayak de Sarawak, principalmente los grupos Iban, Bidayuh y Orang Ulu (Kayan, Kenyah, Kelabit, Lun Bawang y otros)."
+  when: "Cada año, el 1 y el 2 de junio; la observancia comienza la noche del 31 de mayo, y la temporada más amplia de Gawai se cierra formalmente con el ngiling tikai («enrollar la estera») hacia finales de junio."
+  holiday: "Fiesta pública en el estado de Sarawak (publicada en el boletín oficial el 25 de septiembre de 1964)."
+  etiquette: "La puerta de la casa comunal se abre de par en par: la hospitalidad hacia familiares, vecinos e invitados que acuden de visita forma parte de la fiesta; un saludo habitual es «Gayu Guru, Gerai Nyamai» (larga vida, salud, prosperidad) o «Selamat Hari Gawai». Es ante todo una celebración familiar y de la casa comunal, no un espectáculo turístico."
 ---
 
 El reloj aún no ha dado la medianoche del último día de mayo, y en una casa comunal en algún punto a lo largo de un río de Sarawak el gong espera. El arroz ya está recogido. La galería ha sido barrida y colgada con esteras nuevas. Una jarra de tuak aguarda lista. Cuando el gong suene por fin, el jefe de la casa comunal alzará una copa, y todos a lo largo del extenso porche comunal brindarán por las mismas tres palabras: larga vida, salud, prosperidad.

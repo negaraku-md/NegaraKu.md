@@ -74,6 +74,12 @@ relations:
 related: ["qingming-festival", "chinese-religion-in-malaysia", "mid-autumn-festival", "chinese-new-year"]
 keywords: ["中元节", "鬼节", "盂兰胜会", "盂兰盆", "农历七月", "鬼门开", "好兄弟", "普度", "大士爷", "鬼王", "歌台", "喊标", "标福物", "烧街衣", "金银纸", "马来西亚华人", "槟城", "Hungry Ghost Festival"]
 framework: history-culture
+festivalFacts:
+  what: "El Festival de Zhongyuan (conocido popularmente como Festival de los Fantasmas; en el budismo, Yulanpen o Yulan Shenghui) es un período festivo popular del séptimo mes del calendario lunar; la creencia popular sostiene que «se abre la puerta de los fantasmas» y que los «buenos hermanos» errantes regresan al mundo humano, por lo que la gente los apacigua y practica la caridad mediante ofrendas y ritos de pudu."
+  who: "La comunidad china de Malasia, principalmente a través de familias, comercios y asociaciones de paisanos, templos, cámaras de comercio y comités de barrio; Penang, el valle del Klang y Johor, entre otros lugares, tienen cada uno sus propias características locales."
+  when: "El séptimo mes lunar (desde el primer día, cuando «se abre la puerta de los fantasmas», hasta el final del mes, cuando «se cierra la puerta de los fantasmas»); el día quince (día principal de Zhongyuan) marca el punto culminante de las ofrendas."
+  holiday: "No es fiesta pública ni a nivel nacional ni en ningún estado de Malasia; las ofrendas, las ceremonias de Yulan Shenghui y los espectáculos de getai se celebran en su mayoría al atardecer y por la noche, tras la jornada laboral."
+  etiquette: "En los espectáculos de getai, la primera fila de asientos se deja deliberadamente vacía, reservada a los invitados invisibles, y el público por lo general no se sienta en ella; la tradición popular también aconseja no pisar las ofrendas colocadas al borde del camino ni recoger objetos de valor que se encuentren en el suelo."
 ---
 
 Cuando llega el séptimo mes lunar, la escena nocturna de muchas esquinas de Penang, Klang y Johor cambia en silencio: al borde de la calle se disponen mesitas con fruta, arroz, té y fajos de papel dorado y plateado, mientras el incienso y las velas titilan en la penumbra del atardecer. En un descampado del barrio se levanta una efigie de papel de un dios de varios metros de alto y rostro severo, y frente a ella se monta un escenario; al caer la noche las luces se encienden con fuerza y resuenan los cantos, pero toda la primera fila de sillas al pie del escenario permanece vacía de principio a fin.

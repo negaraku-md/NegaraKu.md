@@ -74,6 +74,12 @@ relations:
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "winter-solstice-festival"]
 keywords: ["端午节", "端阳节", "五月节", "粽子", "bak chang", "娘惹粽", "咸肉粽", "碱水粽", "龙舟", "赛龙舟", "屈原", "艾草", "菖蒲", "立蛋", "直落巴巷水坝", "马来西亚华人", "Dragon Boat Festival Malaysia", "Duanwu"]
 framework: history-culture
+festivalFacts:
+  what: "A traditional Chinese festival that in Malaysia presents two faces, culinary folk custom and competitive sport: at its core are the wrapping and eating of rice dumplings (zongzi; called bak chang in local Hokkien), and dragon boat racing (longzhou), which has grown from folk custom into a formal water sport."
+  who: "Malaysia's Chinese community generally marks it by wrapping and eating rice dumplings; the modern dragon boat race has become a cross-ethnic sport, with government agencies, companies, colleges and universities, and sports enthusiasts from every ethnic group forming teams to compete."
+  when: "Fixed on the fifth day of the fifth lunar month; the corresponding Gregorian date shifts each year with the lunar calendar, usually falling within June."
+  holiday: "Not a public holiday — it is not a nationwide or any state public holiday in Malaysia, and work and school generally continue as usual."
+  etiquette: "Family celebrations mostly centre on a single meal of rice dumplings on the day itself; large public events such as dragon boat races are often scheduled on weekends or nearby dates so that people can take part more easily. Some families hang mugwort (aicao) and calamus (changpu) at the door, or try 'standing an egg' (lidan) at noon on the festival, though practices vary from household to household."
 ---
 
 As the fifth day of the fifth lunar month draws near, the scent of bamboo leaves and glutinous rice drifts from the kitchens of Chinese families. Homemakers pack soaked glutinous rice and fragrant stir-fried fillings layer by layer into leaves folded into a funnel shape, tie them tight with reed string, and lower string after string into the pot for a long boil. Meanwhile, at the Teluk Bahang Dam on the northwestern tip of Penang Island, slender dragon boats slice across the water; a drummer stands at the bow beating out the rhythm, and dozens of paddlers stroke in unison to the beat — these are the two faces of the Dragon Boat Festival in Malaysia: on one side the fragrance of zongzi in the kitchen, on the other the race on the water.

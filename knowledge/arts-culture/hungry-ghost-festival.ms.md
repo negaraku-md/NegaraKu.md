@@ -74,6 +74,12 @@ relations:
 related: ["qingming-festival", "chinese-religion-in-malaysia", "mid-autumn-festival", "chinese-new-year"]
 keywords: ["中元节", "鬼节", "盂兰胜会", "盂兰盆", "农历七月", "鬼门开", "好兄弟", "普度", "大士爷", "鬼王", "歌台", "喊标", "标福物", "烧街衣", "金银纸", "马来西亚华人", "槟城", "Hungry Ghost Festival"]
 framework: history-culture
+festivalFacts:
+  what: "中元节 (lazim dikenali sebagai Perayaan Hantu/鬼节; dalam agama Buddha disebut 盂兰盆 atau 盂兰胜会) ialah tempoh perayaan rakyat pada bulan ketujuh kalendar lunar; menurut kepercayaan rakyat 「鬼门开」 (pintu hantu terbuka), roh 「好兄弟」 yang berkeliaran kembali ke alam manusia, dan orang ramai menenangkan serta menghulurkan sedekah melalui pemujaan dan 普度 (pudu)."
+  who: "Masyarakat Cina Malaysia, terutamanya melalui keluarga, perniagaan serta persatuan kedaerahan (会馆), tokong, gabungan peniaga dan jawatankuasa kejiranan; Pulau Pinang, Lembah Klang dan Johor masing-masing mempunyai ciri tempatan yang tersendiri."
+  when: "Bulan ketujuh kalendar lunar (dari hari pertama bulan tujuh 「鬼门开」 hingga akhir bulan 「鬼门关」), dengan hari kelima belas bulan tujuh (中元正日, hari utama Zhongyuan) sebagai kemuncak pemujaan."
+  holiday: "Bukan cuti umum di peringkat kebangsaan mahupun mana-mana negeri di Malaysia; pemujaan, 盂兰胜会 dan persembahan pentas getai (歌台) kebanyakannya diadakan pada waktu petang selepas kerja dan pada waktu malam."
+  etiquette: "Barisan tempat duduk paling hadapan di getai sengaja dikosongkan untuk tetamu halimunan, dan penonton umumnya tidak duduk di barisan pertama; terdapat juga pantang larang rakyat seperti jangan memijak sajian di tepi jalan dan jangan sembarangan memungut barang bernilai yang terjatuh di tanah."
 ---
 
 Sebaik bulan ketujuh lunar tiba, pemandangan menjelang malam di banyak simpang jalan di Pulau Pinang, Klang dan Johor berubah secara senyap: meja kecil disusun di tepi jalan, di atasnya buah-buahan, nasi, air teh dan longgokan wang kertas emas-perak, colok dan lilin berkelip-kelip dalam keremangan senja. Di tanah lapang kejiranan, satu patung dewa kertas setinggi beberapa meter dengan wajah bengis telah didirikan, sebuah pentas pula dibina menghadapnya; selepas gelap lampu menyala terang dan suara nyanyian berkumandang — namun satu barisan penuh kerusi di hadapan pentas sentiasa kekal kosong.

@@ -80,6 +80,12 @@ relations:
 related: ["sabah", "population-composition", "wau"]
 keywords: ["Pesta Kaamatan", "Tadau Kaamatan", "Kadazandusun harvest festival", "Unduk Ngadau", "Bambaazon", "Huminodun", "Magavau", "KDCA", "Sabah"]
 framework: history-culture
+festivalFacts:
+  what: "Pesta Kaamatan (Tadau Kaamatan), perayaan menuai masyarakat Kadazandusun di Sabah; kesyukuran atas hasil tuaian padi, berpusat pada semangat padi Bambaazon (Bambarayon) dan legenda Huminodun. Unsur utamanya termasuk ritual Magavau (dipimpin oleh seorang bobohizan), tarian Sumazau dan pertandingan kebudayaan Unduk Ngadau."
+  who: "Masyarakat Kadazan, Dusun, Murut, Rungus, Lundayeh dan masyarakat peribumi lain di Sabah (sering dikelompokkan sebagai Kadazandusun); sambutan turut diadakan oleh masyarakat Sabah di tempat lain di Malaysia."
+  when: "30 dan 31 Mei, dengan sambutan berlangsung sepanjang sebahagian besar bulan Mei daerah demi daerah sebelum kemuncak peringkat negeri pada dua hari tersebut."
+  holiday: "Cuti umum di negeri Sabah dan Wilayah Persekutuan Labuan pada 30 dan 31 Mei; bukan cuti umum di peringkat kebangsaan."
+  etiquette: "Fahami Unduk Ngadau sebagai pertandingan kebudayaan yang memperingati legenda Huminodun, bukan pertandingan ratu cantik biasa, dan layani kepercayaan Bambaazon serta legenda Huminodun dengan hormat sebagai tradisi masyarakat itu sendiri, bukan sebagai fakta yang diperakui."
 ---
 
 Pesta ini dinamakan sempena satu idea tunggal: penuaian. *Kaamatan* bermaksud tepat demikian dalam bahasa Kadazandusun, dan segala-galanya yang lain dalam sambutan ini — ritual, air tuak beras, pertandingan ratu cantik yang dinobatkan pada malam terakhir — tumbuh daripada satu tindakan mengutip hasil padi itu.

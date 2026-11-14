@@ -80,6 +80,12 @@ relations:
 related: ["chinese-new-year", "hungry-ghost-festival", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["清明节", "Cheng Beng", "扫墓", "拜山", "祭祖", "慎终追远", "金银纸", "纸扎", "后土", "土地公", "灵骨塔", "骨灰龛", "三保山", "Bukit Cina", "富贵山庄", "Qingming Festival", "Tomb-Sweeping Day"]
 framework: history-culture
+festivalFacts:
+  what: "La fête de Qingming (communément appelée Cheng Beng par les Chinois de Malaisie, ou fête du balayage des tombes) est une fête traditionnelle chinoise de recueillement en mémoire des défunts et de culte des ancêtres ; l'essentiel est le balayage des tombes — nettoyer et remettre en état les sépultures, repeindre les inscriptions des stèles, déposer des offrandes et rendre un culte, et brûler du papier-monnaie (or et argent) ainsi que des offrandes en papier."
+  who: "La communauté chinoise de Malaisie (les Chinois représentent environ 20 % de la population citoyenne, les données du DOSM indiquant 22,2 % en 2025)."
+  when: "Elle correspond à « Qingming », l'un des vingt-quatre termes solaires du calendrier lunaire ; la date grégorienne est assez fixe, généralement autour du 4 ou du 5 avril ; les familles locales répartissent souvent les visites aux tombes sur une dizaine de jours autour de cette période."
+  holiday: "La fête de Qingming n'est pas un jour férié en Malaisie, et la plupart des commerces fonctionnent normalement ce jour-là."
+  etiquette: "Comme le brûlage du papier-monnaie et des offrandes en papier implique flammes et fumée, certains cimetières et parcs commémoratifs délimitent des zones de brûlage ou édictent des règles, et ces dernières années certaines personnes adoptent des méthodes plus respectueuses de l'environnement."
 ---
 
 Un petit matin de début avril, le long des sentiers du cimetière, des familles entières commencent à apparaître. Les uns portent des seaux et des faucilles ; les autres, des paniers remplis de plats cuisinés, de fruits et de monnaie en papier. Une fois la tombe familiale trouvée, les plus jeunes se mettent à arracher les mauvaises herbes et à balayer les feuilles, tandis que les aînés indiquent comment repeindre, trait après trait, les caractères délavés de la stèle ; ce n'est qu'une fois la tombe propre que l'on dispose les offrandes, allume l'encens et rend hommage, avant de brûler enfin la monnaie en papier sur un terrain dégagé voisin. Entre la fumée et les flammes, le Qingming annuel passe ainsi.

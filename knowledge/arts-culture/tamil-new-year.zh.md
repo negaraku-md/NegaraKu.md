@@ -71,6 +71,12 @@ relations:
 related: ["pongal", "deepavali", "thaipusam", "tamil-in-malaysia", "hinduism-in-malaysia"]
 keywords: ["தமிழ்ப் புத்தாண்டு", "சித்திரை புத்தாண்டு", "புத்தாண்டு", "மலேசியா தமிழ்ப் புத்தாண்டு", "கண்ணி", "மாங்காய் வேப்பம்பூ பச்சடி", "Tamil New Year", "Puthandu"]
 framework: history-culture
+festivalFacts:
+  what: "泰米尔太阳历 Chithirai 月第一天到来的新年；核心仪式是 Kanni——在黎明时分首先注视盛有水果、黄金与镜子的吉祥托盘。"
+  who: "马来西亚的泰米尔社群，于住家与庙宇中庆祝；马六甲（Malacca）的 Chetti（Chetti Melaka）社群也会庆祝。"
+  when: "Chithirai 月的第一天——通常在 4 月 14 日前后；同一天也迎来马拉雅利人（Malayali）的 Vishu，以及锡克人的 Vaisakhi。"
+  holiday: "并非联邦公共假期；任何州属通常也不会将其宣布为假期（不像屠妖节（Deepavali）与大宝森节（Thaipusam））。"
+  etiquette: "人们习惯互道「新年祝福」（Puthaandu Vaazhthukkal）；在 Chithirai 当天，吉隆坡（Kuala Lumpur）的小印度、庙宇及社区活动中可见节庆景象。"
 ---
 
 齐特莱月的第一个破晓。在许多泰米尔人家中，前一夜就已备好一个托盘——芒果、香蕉、槟榔叶、一点金饰、一面镜子。清晨睁眼时，在看任何其他东西之前，要先看到这个托盘。这就是**卡尼（kanni）**——相信新年当天第一眼看到的景象会为一整年定下基调的一种体现。

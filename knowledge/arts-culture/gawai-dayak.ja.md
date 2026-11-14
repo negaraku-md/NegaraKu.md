@@ -77,6 +77,12 @@ relations:
 related: ["kaamatan", "sarawak"]
 keywords: ["Gawai Dayak", "Hari Gawai", "harvest festival Sarawak", "Dayak", "Iban", "Bidayuh", "Orang Ulu", "miring", "ngajat", "tuak", "Tuai Rumah", "Gayu Guru Gerai Nyamai"]
 framework: history-culture
+festivalFacts:
+  what: "サラワク州のダヤック（Dayak）諸民族の収穫祭で、padi（稲）の収穫に感謝するもの。ロングハウスの儀礼を中心に構成され、Tuai Rumah が主導する miring の感謝の供え物、Ai Pengayu（tuak）の深夜の乾杯、そして ngajat の踊りが行われる。"
+  who: "サラワク州のダヤック（Dayak）コミュニティ——主に Iban、Bidayuh、そして Orang Ulu の諸集団（Kayan、Kenyah、Kelabit、Lun Bawang など）。"
+  when: "毎年6月1日と2日。祝いは5月31日の夕方に始まり、より広い Gawai のシーズンは6月下旬ごろの ngiling tikai（「ござを巻き上げる」）によって正式に締めくくられる。"
+  holiday: "サラワク州の祝日（1964年9月25日に官報告示）。"
+  etiquette: "ロングハウスの戸は開け放たれ——訪れる家族、隣人、客をもてなすことが祭りの一部である。一般的な挨拶は「Gayu Guru, Gerai Nyamai」（長寿、健康、繁栄）、または「Selamat Hari Gawai」。これはまず家族とロングハウスの行事であり、観光客向けのショーではない。"
 ---
 
 5月最後の日、時計はまだ真夜中を告げていない。サラワク州のある川沿いのロングハウスでは、銅鑼が出番を待っている。稲はすでに収穫され、倉に納められた。回廊は掃き清められ、新しい敷物が掛けられた。一瓶のトゥアックが用意され、その時を待っている。銅鑼がついに鳴り響くと、ロングハウスの頭人が杯を掲げ、長い共同の回廊に並ぶ人々はみな、同じ三つの言葉に杯を捧げる——長寿、健康、繁栄。

@@ -73,6 +73,12 @@ relations:
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "chinese-dialects"]
 keywords: ["冬至", "汤圆", "汤丸", "咸汤圆", "冬大过年", "冬至大如年", "添岁", "搓汤圆", "Tang Chek", "Dongzhi", "马来西亚华人", "节气", "Winter Solstice Festival"]
 framework: history-culture
+festivalFacts:
+  what: "A traditional Chinese seasonal festival; its core custom is rolling and eating tangyuan (glutinous rice balls), symbolising reunion and completeness, with a folk saying that 'the Winter Solstice is as great as the New Year' (dong da guo nian)."
+  who: "Malaysian Chinese, mostly celebrating at home as family units."
+  when: "Determined by the twenty-four solar terms, falling around 21 to 23 December in the Gregorian calendar each year (about 22 December), the day with the shortest daylight of the year."
+  holiday: "Not a public holiday — the Winter Solstice is not a nationwide or any state public holiday in Malaysia."
+  etiquette: "Chinese mostly celebrate quietly at home, the family sitting together to roll tangyuan and share a meal rather than holding large public events; some families first offer tangyuan to ancestors and deities before the whole family eats together, with practices varying by household and dialect group."
 ---
 
 On an evening in late December, the scent of glutinous rice flour mingles with the sweetness of ginger soup in the kitchen. The family gathers round the table, rolling little lumps of glutinous rice dough into balls — some white, some dyed pink or pale green. The balls in the children's hands come in all sizes, and as the adults roll they say: once you have eaten the tangyuan, you have grown a year older. This day is the Winter Solstice.

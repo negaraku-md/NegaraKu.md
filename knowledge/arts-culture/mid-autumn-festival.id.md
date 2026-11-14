@@ -76,6 +76,12 @@ relations:
 related: ["chinese-new-year", "population-composition", "religion-statistics", "hungry-ghost-festival"]
 keywords: ["中秋节", "月饼节", "灯笼节", "月饼", "冰皮月饼", "灯笼", "嫦娥奔月", "赏月", "柚子", "团圆", "农历八月十五", "马来西亚华人", "Mid-Autumn Festival Malaysia", "Mooncake Festival"]
 framework: history-culture
+festivalFacts:
+  what: "Perayaan tradisional (juga disebut Festival Kue Bulan, Festival Lampion), berpusat pada menikmati bulan, menyantap kue bulan, dan membawa lampion; kue bulan kebanyakan bergaya Kanton berisi pasta teratai atau pasta kacang dengan kuning telur asin, dan ada pula kue bulan kulit salju (snow skin) yang populer setempat serta varian rasa baru seperti durian."
+  who: "Komunitas Tionghoa Malaysia (etnis Tionghoa sekitar dua puluh persen dari populasi warga negara, menurut data DOSM 2025 sebesar 22,2%); perayaan publik juga menyambut partisipasi etnis lain."
+  when: "Ditetapkan pada tanggal 15 bulan kedelapan penanggalan Imlek, hari ketika bulan paling bulat dan paling terang, melambangkan reuni; tanggal Masehinya berubah setiap tahun mengikuti penanggalan Imlek, biasanya jatuh pada bulan September atau Oktober."
+  holiday: "Bukan hari libur umum. Festival Pertengahan Musim Gugur di Malaysia bukan hari libur umum secara nasional maupun di negeri mana pun, dan rumah usaha serta instansi pemerintah beroperasi seperti biasa (berbeda dengan Tahun Baru Imlek yang dua hari pertamanya libur umum)."
+  etiquette: "Perayaan publik seperti malam lampion dan pertunjukan seni-budaya yang diadakan oleh perhimpunan Tionghoa, kelenteng (seperti Kelenteng Thean Hou di Robson Heights, Kuala Lumpur) dan organisasi komunitas kerap menyambut penduduk dari etnis lain untuk ikut serta dan menonton bersama, membawa sisi berbagi lintas etnis."
 ---
 
 Menjelang malam hari kelima belas bulan kedelapan kalender lunar, atrium pusat perbelanjaan dihiasi lampion merah menyala, dan di taman kawasan permukiman, anak-anak berdua-dua bertiga berjalan ke sana kemari membawa lampion yang menyala. Di meja makan rumah, sekotak kue bulan yang dipotong kecil-kecil ditemani seteko teh panas, dengan sebuah jeruk bali yang sudah dikupas di sampingnya. Satu keluarga membawa kursi keluar rumah, mendongak menatap bulan paling bulat dalam setahun — inilah malam Pertengahan Musim Gugur yang khas di keluarga Tionghoa Malaysia.

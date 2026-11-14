@@ -71,6 +71,12 @@ relations:
 related: ["pongal", "deepavali", "thaipusam", "tamil-in-malaysia", "hinduism-in-malaysia"]
 keywords: ["தமிழ்ப் புத்தாண்டு", "சித்திரை புத்தாண்டு", "புத்தாண்டு", "மலேசியா தமிழ்ப் புத்தாண்டு", "கண்ணி", "மாங்காய் வேப்பம்பூ பச்சடி", "Tamil New Year", "Puthandu"]
 framework: history-culture
+festivalFacts:
+  what: "El Año Nuevo que cae el primer día del mes de Chithirai en el calendario solar tamil; el ritual central es el kanni: contemplar al amanecer, en primer lugar, una bandeja auspiciosa (mangalam) que contiene fruta, oro y un espejo."
+  who: "La comunidad tamil de Malasia, en hogares y templos; también la celebra la comunidad Chetti de Malaca (Chetti Melaka)."
+  when: "El primer día del mes de Chithirai, generalmente en torno al 14 de abril; ese mismo día coinciden el Vishu de los malayalíes y el Vaisakhi de los sijs."
+  holiday: "No es fiesta pública federal; ningún estado suele declararla fiesta (a diferencia de Deepavali y Thaipusam)."
+  etiquette: "Es costumbre intercambiar el saludo «Puthandu Vazhthukkal» (felicitación de Año Nuevo); el día de Chithirai se aprecia un ambiente festivo en la Little India de Kuala Lumpur, en los templos y en los actos comunitarios."
 ---
 
 El primer amanecer del mes de Chithirai. En muchos hogares tamiles ya la noche

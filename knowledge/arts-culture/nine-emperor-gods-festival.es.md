@@ -68,6 +68,11 @@ relations:
 related: ["chinese-religion-in-malaysia", "buddhism-in-malaysia", "hungry-ghost-festival", "religion-statistics"]
 keywords: ["九皇爷诞", "九皇大帝", "九皇胜会", "斗母元君", "食斋", "斋戒", "请水", "送驾", "过火", "安邦南天宫", "香港巷斗母宫", "Nine Emperor Gods Festival", "Kaw Ong Ya"]
 framework: history-culture
+festivalFacts:
+  what: "Una importante festividad taoísta de la comunidad china de Malasia, en la que los devotos veneran a los Nueve Dioses Emperadores (九皇大帝; los Nueve Señores Estelares de la Osa Mayor); el período festivo gira en torno a la invocación del agua y la recepción de las deidades, la dieta vegetariana (食斋), las procesiones y, el noveno día, el envío de regreso de las deidades."
+  who: "Los devotos de la comunidad china de Malasia; entre los templos conocidos figuran el templo Nan Tian Gong de Ampang (Selangor), el templo Dou Mu Gong de Hong Kong Lane en Penang y el templo Dou Mu Gong de Butterworth."
+  when: "Del primer al noveno día del noveno mes lunar, nueve días consecutivos (la víspera del primer día se invoca el agua y el noveno día se despide a las deidades como cierre)."
+  etiquette: "Muchos devotos observan la dieta vegetariana (食斋, ayuno ritual), absteniéndose de carne durante uno, tres o los nueve días completos, y tradicionalmente evitan las cinco especias acres; suelen vestir de blanco y ceñir una banda amarilla a la cintura; durante el período festivo son frecuentes las procesiones en las que las deidades recorren las calles, y en algunos templos se practican austeridades como el caminar sobre el fuego o el atravesamiento de las mejillas, aunque las costumbres varían de un templo a otro."
 ---
 
 En la víspera del día 1 del noveno mes lunar, una fila de fieles vestidos de blanco con una faja amarilla a la cintura sale del templo en orden, con varillas de incienso en la mano, y se dirige a la orilla de río o de mar más cercana. Delante, gongs y tambores; detrás, el humo del incienso: van a la 'invocación del agua' y a la 'recepción de los dioses', para escoltar a los Nueve Dioses Emperadores de regreso al templo. Durante los nueve días siguientes el incienso no cesa dentro del templo, y el aroma de la comida vegetariana flota afuera; la noche del día 9, la misma fila volverá a formarse a la orilla del agua para despedir a las deidades.

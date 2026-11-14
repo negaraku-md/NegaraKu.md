@@ -74,6 +74,12 @@ relations:
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "winter-solstice-festival"]
 keywords: ["端午节", "端阳节", "五月节", "粽子", "bak chang", "娘惹粽", "咸肉粽", "碱水粽", "龙舟", "赛龙舟", "屈原", "艾草", "菖蒲", "立蛋", "直落巴巷水坝", "马来西亚华人", "Dragon Boat Festival Malaysia", "Duanwu"]
 framework: history-culture
+festivalFacts:
+  what: "Một lễ hội truyền thống của người Hoa, thể hiện tại Malaysia qua hai diện mạo: phong tục ẩm thực và môn thể thao thi đấu — cốt lõi là gói và ăn bánh ú (tiếng Phúc Kiến bản địa gọi là bak chang), cùng với đua thuyền rồng, vốn từ phong tục dân gian phát triển thành một môn thể thao dưới nước chính thức."
+  who: "Cộng đồng người Hoa Malaysia phổ biến đón lễ bằng cách gói và ăn bánh ú; đua thuyền rồng hiện đại đã trở thành môn thể thao liên sắc tộc, với các cơ quan chính phủ, doanh nghiệp, trường cao đẳng và đại học cùng những người yêu thể thao thuộc mọi sắc tộc đều lập đội tham gia thi đấu."
+  when: "Cố định vào ngày mùng 5 tháng 5 âm lịch; ngày dương lịch tương ứng thay đổi mỗi năm theo âm lịch, thường rơi vào khoảng tháng 6 dương lịch."
+  holiday: "Không phải ngày lễ công cộng — tại Malaysia đây không phải ngày lễ công cộng trên toàn quốc hay của bất kỳ bang nào, thường vẫn làm việc và đi học như bình thường."
+  etiquette: "Việc đón lễ trong gia đình phần lớn tập trung vào một bữa ăn bánh ú đúng ngày lễ; các hoạt động công cộng quy mô lớn như đua thuyền rồng thường được tổ chức vào cuối tuần hoặc những ngày lân cận để người dân tiện tham gia. Một số gia đình treo ngải cứu, xương bồ trước cửa, hoặc thử 'dựng trứng đứng' vào đúng trưa ngày lễ, nhưng cách làm mỗi nhà không hoàn toàn giống nhau."
 ---
 
 Khi mùng năm tháng Năm âm lịch gần kề, trong gian bếp của các gia đình người Hoa thoang thoảng mùi lá gói và gạo nếp. Các bà nội trợ xếp từng lớp gạo nếp đã ngâm và nhân xào thơm vào những chiếc lá gấp hình phễu, rồi buộc chặt bằng dây cói, thả từng xâu từng xâu vào nồi luộc thật lâu. Cùng lúc ấy, tại Đập Teluk Bahang ở mũi tây bắc đảo Penang, những chiếc thuyền rồng thon dài rẽ nước lướt đi; người đánh trống đứng ở mũi thuyền gõ nhịp, hàng chục tay chèo khua mái chèo nhịp nhàng theo tiếng trống — đó là hai diện mạo của Tết Đoan Ngọ ở Malaysia: một bên là hương bánh ú trong bếp, một bên là cuộc đua trên mặt nước.

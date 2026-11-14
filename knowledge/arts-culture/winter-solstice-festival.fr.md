@@ -73,6 +73,12 @@ relations:
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "chinese-dialects"]
 keywords: ["冬至", "汤圆", "汤丸", "咸汤圆", "冬大过年", "冬至大如年", "添岁", "搓汤圆", "Tang Chek", "Dongzhi", "马来西亚华人", "节气", "Winter Solstice Festival"]
 framework: history-culture
+festivalFacts:
+  what: "Fête saisonnière traditionnelle chinoise ; la coutume centrale consiste à façonner et à manger des tangyuan, symboles de réunion et de plénitude ; un dicton populaire dit « l'hiver surpasse le Nouvel An » (le solstice d'hiver est aussi important que le Nouvel An)."
+  who: "Les Chinois de Malaisie, qui célèbrent surtout en famille à la maison."
+  when: "Déterminé par les vingt-quatre termes solaires, il tombe chaque année autour du 21 au 23 décembre du calendrier grégorien (environ le 22 décembre), jour le plus court de l'année."
+  holiday: "Ce n'est pas un jour férié — le solstice d'hiver n'est un jour férié ni au niveau national ni dans aucun État de Malaisie."
+  etiquette: "Les Chinois célèbrent surtout de manière discrète à la maison, la famille s'asseyant ensemble pour façonner des tangyuan et partager un repas, plutôt que d'organiser de grands événements publics ; certaines familles offrent d'abord des tangyuan aux ancêtres et aux divinités avant de les manger en famille, les pratiques variant selon les familles et les groupes dialectaux."
 ---
 
 Un soir de fin décembre, dans la cuisine, le parfum de la farine de riz gluant se mêle à la douceur du bouillon de gingembre. La famille se rassemble autour de la table et roule, un à un, de petits morceaux de pâte de riz en boules — certaines blanches, d'autres teintes en rose et en vert tendre. Les boules dans les mains des enfants sont de toutes les tailles, et les adultes, tout en roulant, disent : une fois les tangyuan mangés, on a pris un an de plus. Ce jour est le solstice d'hiver.

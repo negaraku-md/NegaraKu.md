@@ -76,6 +76,12 @@ relations:
 related: ["hinduism-in-malaysia", "tamil-in-malaysia", "deepavali", "thaipusam", "estate-tamil-community"]
 keywords: ["தைப்பொங்கல்", "பொங்கல்", "மலேசியா பொங்கல்", "மாட்டுப் பொங்கல்", "போகிப் பண்டிகை", "அறுவடைப் பண்டிகை", "Pongal", "Thai Pongal"]
 framework: history-culture
+festivalFacts:
+  what: "タミル人の収穫／感謝の祝祭。新米を牛乳とともに土鍋で炊き、牛乳が沸き上がってあふれるときに「Pongalo Pongal」と歓呼するのが中心の儀礼である。四日間の祝祭で、Bhogi、Thai Pongal（Surya Pongal／太陽のポンガル）、Mattu Pongal、Kaanum Pongal からなる。"
+  who: "マレーシアのタミル人コミュニティ——Brickfields（リトル・インディア）、クラン（Klang）、ペナン（Penang）などタミル人が集中する地域で、家庭でも寺院でも広く祝われる。"
+  when: "タミル暦の月である Thai が始まる日——グレゴリオ暦では一般に1月中旬（14日または15日）。"
+  holiday: "マレーシアでは、連邦レベルでも、いずれの州レベルでも官報告示された祝日ではない。（連邦の祝日はディーパバリ（Deepavali）のみ——サラワク州を除く。タイプーサム（Thaipusam）は一部の州のみの祝日。）"
+  etiquette: "主として収穫に関わる文化的な祝祭であり、宗教色のないものである（2020年にマレーシアの閣僚が明確にした）。地域団体や寺院は多くの鍋で一緒にポンガルを炊き、芸能公演とともに公開の祝いを行う。"
 ---
 
 タイ月が明ける早朝、マレーシアのタミル人家庭の庭先や玄関口はにぎわいに包まれます。

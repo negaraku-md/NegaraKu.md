@@ -80,6 +80,12 @@ relations:
 related: ["sabah", "population-composition", "wau"]
 keywords: ["Pesta Kaamatan", "Tadau Kaamatan", "Kadazandusun harvest festival", "Unduk Ngadau", "Bambaazon", "Huminodun", "Magavau", "KDCA", "Sabah"]
 framework: history-culture
+festivalFacts:
+  what: "Pesta Kaamatan（Tadau Kaamatan）是沙巴卡达山杜顺族（Kadazandusun）的丰收节；为稻米收成献上感恩，以稻灵 Bambaazon（Bambarayon）与 Huminodun 传说为核心。主要元素包括由 bobohizan 主持的 Magavau 仪式、Sumazau 舞蹈，以及 Unduk Ngadau 文化选美盛会。"
+  who: "沙巴的 Kadazan、Dusun、Murut、Rungus、Lundayeh 等原住民社群（常统称为 Kadazandusun）；马来西亚其他地区的沙巴人社群也会举办庆祝活动。"
+  when: "5 月 30 日和 31 日，各县在整个 5 月间陆续庆祝，最后于这两天举行州级的压轴活动。"
+  holiday: "沙巴州与纳闽联邦直辖区在 5 月 30 日和 31 日的公共假期；并非全国性的公共假期。"
+  etiquette: "应将 Unduk Ngadau 理解为纪念 Huminodun 传说的文化选美盛会，而非一般的选美比赛，并应尊重地将 Bambaazon 信仰与 Huminodun 传说视为该社群自身的传统，而非既定事实。"
 ---
 
 这个节庆的命名源自一个单一的概念：丰收。*Kaamatan*在卡达山杜顺语中的意思正是如此，而庆典中的一切——仪式、米酒、最后一晚加冕的选美——都是从收割稻米这一个行动中生长出来的。

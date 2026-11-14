@@ -62,6 +62,12 @@ relations:
 related: ["religion-statistics", "article-3-religion", "kuala-lumpur"]
 keywords: ["Wesak Day Malaysia", "Vesak Day Malaysia", "Hari Wesak 2026", "Wesak Day date Malaysia", "Buddhist public holiday Malaysia", "Wesak procession Kuala Lumpur", "Buddha's birthday Malaysia"]
 framework: history-culture
+festivalFacts:
+  what: "Wesak（Vesak）デーは、伝統において仏陀の誕生、悟り、そして入滅（parinirvana）を一つの満月の日に合わせて記念する仏教の行事である。行事は寺院を中心とし、夜明けの祈り、読経と瞑想、花・ろうそく・線香の供え物、そして布施（dana）が行われる。"
+  who: "マレーシアの仏教徒コミュニティで、上座部（Theravada）、大乗（Mahayana）、金剛乗（Vajrayana）の諸伝統にわたる。"
+  when: "太陰暦の月である Vesakha の満月の日——一般に4月または5月。太陰暦に従うため、西暦の日付は毎年変わる。"
+  holiday: "すべての州および連邦直轄領における全国的な祝日で、1962年に初めて祝日として宣言された。Employment Act 1955 に基づき、休息日に当たる場合は代替の有給休日が適用される。"
+  etiquette: "行事は寺院を中心とする。多くの信者はその日、白い衣服を着て精進料理（菜食）を守り、最もよく知られる公開行事は、Brickfields の Buddhist Maha Vihara から出発するクアラルンプールの Wesak の山車行列で、大勢の信者や見物人が見守る。"
 ---
 
 ウェサック・デー（Wesak Day、Vesakとも表記）がいつなのかを尋ねても、決まった答えはない——毎年変わるのだ。2026年は5月31日、2027年は5月20日、2028年は5月9日にあたる。理由は単純である。ウェサックは暦の特定の日付ではなく月の満ち欠けによって定まり、陰暦と西暦は毎年互いにずれていくからである。

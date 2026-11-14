@@ -64,6 +64,12 @@ relations:
 related: ["religion-statistics", "article-3-religion", "kuala-lumpur"]
 keywords: ["Wesak Day Malaysia", "Vesak Day Malaysia", "Hari Wesak 2026", "Wesak Day date Malaysia", "Buddhist public holiday Malaysia", "Wesak procession Kuala Lumpur", "Buddha's birthday Malaysia", "jour de Wesak Malaisie"]
 framework: history-culture
+festivalFacts:
+  what: "Le jour du Wesak (Vesak) est une observance bouddhiste commémorant, selon la tradition, la naissance, l'éveil et la mort (parinirvana) du Bouddha réunis en un même jour de pleine lune ; l'observance est centrée sur le temple, avec des prières à l'aube, des récitations et de la méditation, des offrandes de fleurs, de bougies et d'encens, et l'aumône (dana)."
+  who: "Les communautés bouddhistes de Malaisie, à travers les traditions Theravada, Mahayana et Vajrayana."
+  when: "Le jour de pleine lune du mois lunaire de Vesakha — généralement en avril ou en mai ; comme il suit le calendrier lunaire, la date grégorienne change chaque année."
+  holiday: "Jour férié national dans tous les États et territoires fédéraux, déclaré jour férié pour la première fois en 1962 ; en vertu de l'Employment Act 1955, s'il tombe un jour de repos, un jour férié payé de remplacement s'applique."
+  etiquette: "L'observance est centrée sur le temple ; de nombreux fidèles portent du blanc et suivent un régime végétarien pour la journée, et l'événement public le plus connu est la procession de chars du Wesak à Kuala Lumpur, au départ du Buddhist Maha Vihara à Brickfields, suivie par de grandes foules de fidèles et de curieux."
 ---
 
 Demandez quand tombe le jour de Wesak et il n'y a pas de réponse fixe : il se déplace. En 2026, il tombe le 31 mai, en 2027 le 20 mai et en 2028 le 9 mai. La raison en est simple : le Wesak est fixé par la lune, et non par une date du calendrier, et le calendrier lunaire et le calendrier grégorien se décalent l'un par rapport à l'autre chaque année.

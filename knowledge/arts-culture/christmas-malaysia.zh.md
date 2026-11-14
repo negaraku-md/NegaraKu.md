@@ -79,6 +79,12 @@ relations:
 related: ["religion-statistics", "article-3-religion", "sarawak", "sabah"]
 keywords: ["Christmas in Malaysia", "Christmas Day public holiday Malaysia", "Christmas Eve Sabah holiday", "Malaysian open house Christmas", "Christians in Malaysia", "Midnight Mass Malaysia", "Holidays Act 1951 Christmas"]
 framework: history-culture
+festivalFacts:
+  what: "基督教的宗教节日，纪念耶稣基督的诞生。在马来西亚，宗教层面的庆祝通常以教堂礼拜为核心，包括平安夜的子夜弥撒与圣诞颂歌，同时伴随以开放门户（open house）与节庆装饰为主的广泛社交节期。"
+  who: "马来西亚的基督教社群——据 2020 年人口普查约有 290 万人，以砂拉越和沙巴人数最多——在宗教层面加以庆祝；而更广泛的装饰与社交节期，则由许多不同背景的马来西亚人共同参与。"
+  when: "圣诞节在每年 12 月 25 日，装饰与零售节期大约自 11 月下旬开始。"
+  holiday: "圣诞节（12 月 25 日）是全国各州与联邦直辖区的公共假期（半岛依据 1951 年假期法令（Act 369）第一附表；沙巴与砂拉越则依州法令）。沙巴另依《沙巴假期条例》（Cap. 56）将平安夜（12 月 24 日）宪报公布为州公共假期。"
+  etiquette: "招待任何背景客人共进一餐的开放门户（open house）传统，如同其他节日一样也适用于圣诞节；设宴的基督徒家庭通常欢迎其他信仰的客人，而在整个节庆历中，互访是双向进行的。"
 ---
 
 12月24日傍晚，亚庇或古晋的一座教堂挤满了参加深夜仪式的信众，而在几百公里外的马来西亚半岛，同一天却只是普通的星期四工作日。到了隔天早上，也就是12月25日，全国都放假了。这种分野——同一个日期，两种截然不同的地位——是理解圣诞节在马来西亚所处位置最简明的方式：对某一个社群而言是宗教节日，对所有人而言是公共假期，也是一个不分信仰、许多人都参与其中的敞开门户的季节。

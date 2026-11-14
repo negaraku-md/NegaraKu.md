@@ -76,6 +76,12 @@ relations:
 related: ["chinese-new-year", "population-composition", "religion-statistics", "hungry-ghost-festival"]
 keywords: ["中秋节", "月饼节", "灯笼节", "月饼", "冰皮月饼", "灯笼", "嫦娥奔月", "赏月", "柚子", "团圆", "农历八月十五", "马来西亚华人", "Mid-Autumn Festival Malaysia", "Mooncake Festival"]
 framework: history-culture
+festivalFacts:
+  what: "Una fiesta tradicional (también llamada Fiesta del Pastel de Luna o Fiesta de los Faroles), cuyo núcleo es contemplar la luna, comer pasteles de luna y llevar faroles; los pasteles de luna suelen ser de estilo cantonés, de pasta de semilla de loto o de pasta de judía dulce con yema de huevo salada, aunque también hay variedades nuevas populares a nivel local, como el pastel de luna de piel de hielo (bingpi) y los de durián."
+  who: "La comunidad china de Malasia (los chinos representan alrededor de una quinta parte de la población ciudadana del país; según datos de la DOSM de 2025, el 22,2 %); las celebraciones públicas también acogen la participación de otras etnias."
+  when: "Fijada en el decimoquinto día del octavo mes lunar, día en que la luna está más llena y brillante, símbolo de la reunión familiar; su fecha en el calendario gregoriano varía cada año según el calendario lunar y suele caer en septiembre u octubre."
+  holiday: "No es fiesta pública. El Festival del Medio Otoño no es fiesta pública en Malasia ni a nivel nacional ni en ningún estado, y los comercios y los organismos gubernamentales funcionan con normalidad (a diferencia del Año Nuevo Lunar, cuyos dos primeros días son fiesta pública)."
+  etiquette: "Las celebraciones públicas organizadas por las asociaciones chinas, los templos (como el templo Thean Hou de Kuala Lumpur) y las organizaciones comunitarias —veladas de faroles, representaciones artísticas y otras— suelen acoger la participación y la asistencia de residentes de otras etnias, con una dimensión de disfrute interétnico compartido."
 ---
 
 Al caer la noche del decimoquinto día del octavo mes lunar, el atrio del centro comercial se llena de farolillos rojos encendidos, y en el parque de la zona residencial los niños, de dos en dos y de tres en tres, van de aquí para allá con farolillos encendidos. En la mesa de casa, una caja de pasteles de luna cortados en trozos pequeños acompaña una tetera de té caliente, con un pomelo pelado al lado. La familia saca sillas al exterior y alza la vista hacia la luna más redonda del año: esta es una típica noche de Medio Otoño en un hogar chino de Malasia.

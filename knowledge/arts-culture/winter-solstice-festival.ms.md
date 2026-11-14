@@ -73,6 +73,12 @@ relations:
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "chinese-dialects"]
 keywords: ["冬至", "汤圆", "汤丸", "咸汤圆", "冬大过年", "冬至大如年", "添岁", "搓汤圆", "Tang Chek", "Dongzhi", "马来西亚华人", "节气", "Winter Solstice Festival"]
 framework: history-culture
+festivalFacts:
+  what: "Perayaan musim tradisi masyarakat Cina; adat utamanya ialah menguli dan memakan tangyuan, melambangkan perhimpunan keluarga dan kesempurnaan, dengan ungkapan rakyat 「冬大过年」 (冬至大如年 — Dongzhi sama besar dengan Tahun Baharu)."
+  who: "Masyarakat Cina Malaysia, kebanyakannya menyambut di rumah sebagai sebuah keluarga."
+  when: "Ditentukan mengikut dua puluh empat tempoh solar (jieqi), jatuh sekitar 21 hingga 23 Disember dalam kalendar Gregorian setiap tahun (kira-kira 22 Disember), iaitu hari dengan waktu siang paling pendek dalam setahun."
+  holiday: "Bukan cuti umum — Dongzhi bukan cuti umum di peringkat kebangsaan mahupun mana-mana negeri di Malaysia."
+  etiquette: "Masyarakat Cina kebanyakannya menyambut secara sederhana di rumah, dengan sekeluarga duduk mengelilingi meja menguli tangyuan dan menikmati hidangan bersama, bukannya mengadakan acara awam berskala besar; sesetengah keluarga mula-mula mempersembahkan tangyuan kepada nenek moyang dan dewa sebelum seisi keluarga menikmatinya bersama, dan amalannya berbeza mengikut keluarga serta kumpulan dialek."
 ---
 
 Pada suatu petang di penghujung Disember, bau harum tepung pulut di dapur bercampur dengan manisnya air halia. Sekeluarga berkumpul di tepi meja, membentuk seketul demi seketul adunan pulut menjadi bebola — ada yang putih, ada yang diwarnakan merah jambu dan hijau muda. Bebola di tangan anak-anak pelbagai saiz, dan sambil membentuknya orang dewasa berkata: setelah makan tangyuan, kita bertambah setahun usia. Hari ini ialah Dongzhi.

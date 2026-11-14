@@ -79,6 +79,12 @@ relations:
 related: ["religion-statistics", "article-3-religion", "sarawak", "sabah"]
 keywords: ["Christmas in Malaysia", "Christmas Day public holiday Malaysia", "Christmas Eve Sabah holiday", "Malaysian open house Christmas", "Christians in Malaysia", "Midnight Mass Malaysia", "Holidays Act 1951 Christmas"]
 framework: history-culture
+festivalFacts:
+  what: "예수 그리스도의 탄생을 기리는 기독교 종교 축일이다. 말레이시아에서 종교적 준수는 흔히 크리스마스 이브 자정 미사와 캐럴을 포함한 교회 예배를 중심으로 이루어지며, 이와 함께 오픈 하우스와 장식이 어우러지는 폭넓은 사회적 시즌이 펼쳐진다."
+  who: "말레이시아의 기독교 공동체 — 2020년 인구조사 기준 약 290만 명으로, 사라왁과 사바에서 가장 많다 — 가 종교적으로 이를 준수하며, 보다 넓은 장식과 사회적 시즌은 다양한 배경의 말레이시아인들이 함께한다."
+  when: "크리스마스는 매년 12월 25일이며, 장식과 소매 시즌은 대략 11월 말부터 시작된다."
+  holiday: "크리스마스인 12월 25일은 모든 주와 연방직할구에서 전국적인 공휴일이다(반도에서는 1951년 공휴일법(제369호)의 제1부칙(First Schedule of the Holidays Act 1951 (Act 369)); 사바와 사라왁에서는 주 조례). 사바는 추가로 사바 공휴일 조례(Sabah Holidays Ordinance, Cap. 56)에 따라 12월 24일 크리스마스 이브를 주 공휴일로 관보에 공고한다."
+  etiquette: "배경을 가리지 않고 손님을 초대해 함께 식사하는 오픈 하우스 전통은 다른 축제와 마찬가지로 크리스마스에도 적용되며, 손님을 맞이하는 기독교 가정은 흔히 다른 신앙의 손님을 환영하고, 방문은 축제 달력 전반에 걸쳐 양방향으로 이루어진다."
 ---
 
 12월 24일 저녁, 코타키나발루(Kota Kinabalu)나 쿠칭(Kuching)의 한 교회가 늦은 예배로 가득 차는 동안, 수백 킬로미터 떨어진 반도에서는 같은 날짜가 평범한 근무일인 목요일입니다. 이튿날 아침인 12월 25일에는 온 나라가 일을 쉽니다. 그 갈림 — 하나의 날짜, 매우 다른 두 지위 — 이 크리스마스가 말레이시아에 자리하는 방식을 이해하는 가장 깔끔한 방법입니다. 한 공동체에게는 종교 축제이고, 모두에게는 공휴일이며, 신앙과 무관하게 많은 이가 참여하는 열린 문의 철입니다.

@@ -80,6 +80,12 @@ relations:
 related: ["chinese-new-year", "hungry-ghost-festival", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["清明节", "Cheng Beng", "扫墓", "拜山", "祭祖", "慎终追远", "金银纸", "纸扎", "后土", "土地公", "灵骨塔", "骨灰龛", "三保山", "Bukit Cina", "富贵山庄", "Qingming Festival", "Tomb-Sweeping Day"]
 framework: history-culture
+festivalFacts:
+  what: "Qingming (umum disebut oleh orang Tionghoa Malaysia sebagai Cheng Beng／Festival Ziarah Kubur) adalah perayaan tradisional Tionghoa untuk menghormati leluhur dan mengenang asal-usul; intinya adalah ziarah kubur — membersihkan dan merapikan makam, menebalkan kembali tulisan di nisan, menghaturkan sesaji dan bersembahyang, serta membakar kertas emas-perak dan persembahan kertas."
+  who: "Komunitas Tionghoa Malaysia (etnis Tionghoa sekitar dua puluh persen dari populasi warga negara, menurut data DOSM sebesar 22,2% pada 2025)."
+  when: "Bersesuaian dengan 「Qingming」 dalam dua puluh empat musim (jieqi) penanggalan Imlek, dengan tanggal Masehinya cukup tetap, biasanya sekitar tanggal 4 atau 5 April; keluarga setempat kebanyakan menyebar kegiatan ziarah dalam rentang sekitar sepuluh hari sebelum dan sesudah masa perayaan."
+  holiday: "Qingming bukan hari libur umum di Malaysia, dan pada hari itu kebanyakan rumah usaha beroperasi seperti biasa."
+  etiquette: "Karena membakar kertas emas-perak dan persembahan kertas melibatkan api terbuka dan asap, sebagian pemakaman dan taman peringatan menetapkan zona pembakaran atau membuat aturan, dan dalam beberapa tahun terakhir ada pula orang yang beralih ke cara yang lebih ramah lingkungan."
 ---
 
 Pada suatu pagi awal April, di jalan-jalan setapak pemakaman mulai bermunculan keluarga demi keluarga. Ada yang menjinjing ember dan sabit, ada yang membawa keranjang penuh makanan matang, buah-buahan, dan uang kertas. Setelah menemukan makam keluarga sendiri, yang muda mulai mencabut rumput liar dan menyapu daun, sementara yang tua menunjukkan cara mengecat ulang satu per satu aksara yang memudar di batu nisan; hanya setelah makam bersih barulah sesaji ditata, dupa dinyalakan dan penghormatan diberikan, dan akhirnya uang kertas dibakar di tanah lapang di dekatnya. Di antara asap dan nyala api, Qingming yang datang setahun sekali pun berlalu begitu saja.

@@ -80,6 +80,12 @@ relations:
 related: ["chinese-new-year", "hungry-ghost-festival", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["清明节", "Cheng Beng", "扫墓", "拜山", "祭祖", "慎终追远", "金银纸", "纸扎", "后土", "土地公", "灵骨塔", "骨灰龛", "三保山", "Bukit Cina", "富贵山庄", "Qingming Festival", "Tomb-Sweeping Day"]
 framework: history-culture
+festivalFacts:
+  what: "The Qingming Festival (commonly called Cheng Beng or the tomb-sweeping festival by Malaysian Chinese) is a traditional festival for honouring ancestors and tending their graves; at its core is tomb-sweeping — cleaning and tidying the gravesite, repainting the inscriptions, laying out offerings and worshipping, and burning gold and silver paper (jinyinzhi) and paper effigy offerings (zhizha)."
+  who: "Malaysia's Chinese community (the Chinese make up about a fifth of the citizen population, which DOSM data puts at 22.2% in 2025)."
+  when: "Corresponds to 'Qingming' among the twenty-four solar terms of the lunar calendar; the Gregorian date is fairly fixed, usually around 4 or 5 April; local families mostly spread their tomb-sweeping over about ten days around the festival period."
+  holiday: "The Qingming Festival is not a public holiday in Malaysia, and most businesses operate as usual on the day."
+  etiquette: "Because burning gold and silver paper and paper effigies involves open flames and smoke, some cemeteries and memorial parks designate burning areas or set rules, and in recent years some people have switched to more environmentally friendly methods."
 ---
 
 One early April morning, families begin to appear along the paths of the cemetery. Some carry buckets and sickles; others carry baskets filled with cooked food, fruit and joss paper. Finding their family's grave, the younger ones set to clearing the weeds and sweeping away the leaves while the elders point out how to repaint, stroke by stroke, the faded characters on the headstone; only once the grave is clean are the offerings laid out, incense lit and respects paid, and finally the joss paper burned on a clear patch of ground nearby. Amid the smoke and flame, another year's Qingming passes.

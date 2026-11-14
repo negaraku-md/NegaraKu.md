@@ -64,6 +64,12 @@ relations:
 related: ["religion-statistics", "article-3-religion", "kuala-lumpur"]
 keywords: ["Wesak Day Malaysia", "Vesak Day Malaysia", "Hari Wesak 2026", "Wesak Day date Malaysia", "Buddhist public holiday Malaysia", "Wesak procession Kuala Lumpur", "Buddha's birthday Malaysia"]
 framework: history-culture
+festivalFacts:
+  what: "Ngày Wesak (Vesak) là một dịp lễ của Phật giáo tưởng niệm, theo truyền thống, việc Đức Phật đản sinh, thành đạo và nhập diệt (parinirvana) cùng trong một ngày trăng tròn; việc cử hành tập trung tại chùa, với các thời kinh lúc rạng đông, tụng niệm và thiền định, dâng cúng hoa, nến và hương, và bố thí (dana)."
+  who: "Các cộng đồng Phật giáo Malaysia, trải khắp các truyền thống Theravada, Mahayana và Vajrayana."
+  when: "Ngày trăng tròn của tháng âm lịch Vesakha — thường vào tháng 4 hoặc tháng 5; vì theo âm lịch nên ngày dương lịch thay đổi mỗi năm."
+  holiday: "Là ngày lễ công cộng toàn quốc tại tất cả các bang và lãnh thổ liên bang, lần đầu được tuyên bố là ngày lễ công cộng vào năm 1962; theo Employment Act 1955, nếu rơi vào ngày nghỉ thì áp dụng một ngày nghỉ bù có lương."
+  etiquette: "Việc cử hành tập trung tại chùa; nhiều tín đồ mặc áo trắng và ăn chay trong ngày, và sự kiện công cộng nổi tiếng nhất là đoàn rước xe hoa Wesak ở Kuala Lumpur xuất phát từ chùa Phật giáo Maha Vihara ở Brickfields, được đông đảo tín đồ và người xem theo dõi."
 ---
 
 Hỏi Ngày Wesak rơi vào lúc nào và không có câu trả lời cố định — nó dịch chuyển. Năm 2026 nó rơi vào ngày 31 tháng 5, năm 2027 vào ngày 20 tháng 5, năm 2028 vào ngày 9 tháng 5. Lý do đơn giản: Wesak được ấn định theo mặt trăng, chứ không phải theo một ngày trên lịch, và lịch âm cùng lịch dương trôi lệch nhau mỗi năm.

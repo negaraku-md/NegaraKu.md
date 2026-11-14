@@ -71,6 +71,12 @@ relations:
 related: ["pongal", "deepavali", "thaipusam", "tamil-in-malaysia", "hinduism-in-malaysia"]
 keywords: ["தமிழ்ப் புத்தாண்டு", "சித்திரை புத்தாண்டு", "புத்தாண்டு", "மலேசியா தமிழ்ப் புத்தாண்டு", "கண்ணி", "மாங்காய் வேப்பம்பூ பச்சடி", "Tamil New Year", "Puthandu"]
 framework: history-culture
+festivalFacts:
+  what: "Năm mới rơi vào ngày đầu tiên của tháng Chithirai trong lịch mặt trời của người Tamil; nghi lễ trung tâm là kanni — việc nhìn thấy đầu tiên vào lúc rạng đông một mâm cát tường gồm trái cây, vàng và gương."
+  who: "Cộng đồng Tamil Malaysia, tại các gia đình và đền chùa; cộng đồng Chetti (Chetti Melaka) của Malacca cũng cử hành lễ này."
+  when: "Ngày đầu tiên của tháng Chithirai — thường rơi vào khoảng ngày 14 tháng 4; cùng ngày đó cũng có lễ Vishu của người Malayali và lễ Vaisakhi của người Sikh."
+  holiday: "Không phải ngày lễ công cộng cấp liên bang; không bang nào thường công bố đây là ngày nghỉ lễ (không như Deepavali, Thaipusam)."
+  etiquette: "Việc trao nhau lời chúc 'Puthandu Vazhthukkal' (Chúc mừng năm mới) là thông lệ; vào ngày Chithirai, không khí lễ hội xuất hiện ở Little India tại Kuala Lumpur, các đền chùa và các sự kiện cộng đồng."
 ---
 
 Buổi rạng đông đầu tiên của tháng Chithirai. Trong nhiều gia đình Tamil, một

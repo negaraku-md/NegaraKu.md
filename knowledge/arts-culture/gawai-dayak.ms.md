@@ -78,6 +78,12 @@ relations:
 related: ["kaamatan", "sarawak"]
 keywords: ["Gawai Dayak", "Hari Gawai", "harvest festival Sarawak", "Dayak", "Iban", "Bidayuh", "Orang Ulu", "miring", "ngajat", "tuak", "Tuai Rumah", "Gayu Guru Gerai Nyamai"]
 framework: history-culture
+festivalFacts:
+  what: "Perayaan menuai masyarakat Dayak di Sarawak, memanjatkan kesyukuran atas hasil tuaian padi; berteraskan ritual rumah panjang — persembahan kesyukuran miring yang dipimpin oleh Tuai Rumah, ucap selamat tengah malam dengan Ai Pengayu (tuak) dan tarian ngajat."
+  who: "Masyarakat Dayak di Sarawak — terutamanya kumpulan Iban, Bidayuh dan Orang Ulu (Kayan, Kenyah, Kelabit, Lun Bawang dan lain-lain)."
+  when: "Setiap tahun pada 1 dan 2 Jun; sambutannya bermula pada petang 31 Mei, dan musim Gawai yang lebih luas ditutup secara rasmi dengan ngiling tikai ('menggulung tikar') menjelang penghujung Jun."
+  holiday: "Cuti umum di negeri Sarawak (diwartakan pada 25 September 1964)."
+  etiquette: "Pintu rumah panjang dibuka luas — melayan keluarga, jiran dan tetamu yang berkunjung merupakan sebahagian daripada perayaan ini; ucapan yang lazim ialah 'Gayu Guru, Gerai Nyamai' (panjang umur, sihat, makmur), atau 'Selamat Hari Gawai'. Ia pada asasnya satu sambutan keluarga dan rumah panjang, bukan pertunjukan pelancong."
 ---
 
 Jam belum lagi berdentum tengah malam pada hari terakhir bulan Mei, dan di sebuah rumah panjang di suatu tempat di tebing sungai Sarawak, gong sudah menanti. Padi sudah selamat dituai. Ruai sudah disapu bersih dan digantung dengan tikar baharu. Sebuah tempayan tuak sudah tersedia. Apabila gong akhirnya dipalu, ketua rumah panjang akan mengangkat cawan, dan semua orang di sepanjang ruai bersama akan minum untuk tiga perkataan yang sama: umur panjang, kesihatan, kesejahteraan.

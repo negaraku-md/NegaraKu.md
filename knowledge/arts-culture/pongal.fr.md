@@ -76,6 +76,12 @@ relations:
 related: ["hinduism-in-malaysia", "tamil-in-malaysia", "deepavali", "thaipusam", "estate-tamil-community"]
 keywords: ["தைப்பொங்கல்", "பொங்கல்", "மலேசியா பொங்கல்", "மாட்டுப் பொங்கல்", "போகிப் பண்டிகை", "அறுவடைப் பண்டிகை", "Pongal", "Thai Pongal"]
 framework: history-culture
+festivalFacts:
+  what: "Fête des récoltes et d'action de grâce des Tamouls ; le rituel central consiste à faire bouillir du riz nouveau avec du lait dans un pot en terre cuite et, lorsque le lait déborde en bouillonnant, à s'exclamer « Pongalo Pongal ». Fête de quatre jours : Bhogi, Thai Pongal (Pongal du Soleil / Surya Pongal), Mattu Pongal et Kaanum Pongal."
+  who: "La communauté tamoule de Malaisie — elle la célèbre largement dans les foyers et les temples des zones à forte population tamoule comme Brickfields (Little India / Petite Inde), Klang et Penang."
+  when: "Le premier jour du mois tamoul de Thai — dans le calendrier grégorien, généralement à la mi-janvier (le 14 ou le 15)."
+  holiday: "Ce n'est pas un jour férié inscrit au journal officiel, ni au niveau fédéral ni dans aucun État de Malaisie. (Seul Deepavali est un jour férié fédéral — à l'exception du Sarawak ; Thaipusam n'est férié que dans certains États.)"
+  etiquette: "Il s'agit avant tout d'une fête culturelle liée aux récoltes, de nature non religieuse (un ministre malaisien l'a précisé en 2020) ; les organisations communautaires et les temples préparent ensemble le pongal dans de nombreux pots et organisent des célébrations publiques accompagnées de spectacles artistiques."
 ---
 
 À l'aube où commence le mois de Thai, les cours et les seuils des familles

@@ -80,6 +80,12 @@ relations:
 related: ["religion-statistics", "article-3-religion", "sarawak", "sabah"]
 keywords: ["Christmas in Malaysia", "Christmas Day public holiday Malaysia", "Christmas Eve Sabah holiday", "Malaysian open house Christmas", "Christians in Malaysia", "Midnight Mass Malaysia", "Holidays Act 1951 Christmas"]
 framework: history-culture
+festivalFacts:
+  what: "Fête religieuse chrétienne commémorant la naissance de Jésus-Christ. En Malaisie, l'observance religieuse est généralement centrée sur les services religieux, dont la messe de minuit de la veille de Noël et les chants de Noël, parallèlement à une vaste saison sociale de journées portes ouvertes (open houses) et de décorations."
+  who: "La communauté chrétienne de Malaisie — environ 2,9 millions de personnes au recensement de 2020, la plus nombreuse au Sarawak et au Sabah — la célèbre religieusement ; la saison décorative et sociale plus large est marquée par des Malaisiens de nombreux horizons."
+  when: "Le jour de Noël tombe le 25 décembre chaque année, avec une saison décorative et commerciale à partir de la fin novembre environ."
+  holiday: "Le jour de Noël, le 25 décembre, est un jour férié dans tout le pays, dans tous les États et territoires fédéraux (First Schedule of the Holidays Act 1951 (Act 369) dans la Péninsule ; ordonnances des États au Sabah et au Sarawak). Le Sabah inscrit en outre au journal officiel la veille de Noël, le 24 décembre, comme jour férié de l'État en vertu de la Sabah Holidays Ordinance (Cap. 56)."
+  etiquette: "La tradition de la journée portes ouvertes (open house), consistant à recevoir des invités de tout horizon pour un repas partagé, s'applique à Noël comme aux autres fêtes ; les familles chrétiennes qui reçoivent accueillent généralement des invités d'autres confessions, et les visites se font dans les deux sens tout au long du calendrier des fêtes."
 ---
 
 Le soir du 24 décembre, une église de Kota Kinabalu ou de Kuching se remplit pour un office nocturne, tandis qu'à quelques centaines de kilomètres de là, dans la péninsule, cette même date est un jeudi ouvrable ordinaire. Le lendemain matin, le 25 décembre, tout le pays est en congé. Ce clivage — une date, deux statuts très différents — est la manière la plus nette de comprendre la place de Noël en Malaisie : une fête religieuse pour une communauté, un jour férié pour tous, et une saison de portes ouvertes à laquelle beaucoup participent, quelle que soit leur foi.

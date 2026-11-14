@@ -73,6 +73,12 @@ relations:
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "chinese-dialects"]
 keywords: ["冬至", "汤圆", "汤丸", "咸汤圆", "冬大过年", "冬至大如年", "添岁", "搓汤圆", "Tang Chek", "Dongzhi", "马来西亚华人", "节气", "Winter Solstice Festival"]
 framework: history-culture
+festivalFacts:
+  what: "Una fiesta estacional tradicional china; la costumbre central es amasar y comer tangyuan, símbolo de la reunión familiar y de la plenitud, y la tradición popular dice que «el solsticio de invierno pesa más que el Año Nuevo» (el solsticio de invierno es tan importante como el Año Nuevo)."
+  who: "Los chinos de Malasia, que la celebran en su mayoría en casa, en el ámbito familiar."
+  when: "Se determina según los veinticuatro términos solares y cae cada año en torno al 21 a 23 de diciembre del calendario gregoriano (alrededor del 22 de diciembre), el día más corto del año."
+  holiday: "No es fiesta pública: el solsticio de invierno no es fiesta pública en Malasia ni a nivel nacional ni en ningún estado."
+  etiquette: "Los chinos suelen celebrarlo de forma discreta en casa, reunida la familia para amasar tangyuan y compartir una comida, en lugar de organizar grandes actos públicos; algunas familias ofrecen primero los tangyuan a los antepasados y a las deidades antes de comerlos todos juntos, y las costumbres varían según la familia y el grupo dialectal."
 ---
 
 Una tarde de finales de diciembre, en la cocina el aroma de la harina de arroz glutinoso se mezcla con el dulzor del caldo de jengibre. La familia se reúne alrededor de la mesa y amasa, uno a uno, pequeños trozos de masa de arroz hasta convertirlos en bolitas: algunas blancas, otras teñidas de rosa y verde claro. Las bolitas en manos de los niños son de todos los tamaños, y los adultos, mientras amasan, dicen: en cuanto comes el tangyuan, ya has cumplido un año más. Este día es el Solsticio de Invierno.

@@ -68,6 +68,11 @@ relations:
 related: ["chinese-religion-in-malaysia", "buddhism-in-malaysia", "hungry-ghost-festival", "religion-statistics"]
 keywords: ["九皇爷诞", "九皇大帝", "九皇胜会", "斗母元君", "食斋", "斋戒", "请水", "送驾", "过火", "安邦南天宫", "香港巷斗母宫", "Nine Emperor Gods Festival", "Kaw Ong Ya"]
 framework: history-culture
+festivalFacts:
+  what: "An important Taoist festival of Malaysia's Chinese community, whose devotees venerate the Nine Emperor Gods (Jiuhuang Dadi; the Nine Emperor Star Lords of the Northern Dipper, Beidou Jiuhuang Xingjun); the festival period centres on the water-inviting / receiving-of-the-deities rite (qing shui / ying jia), vegetarian abstinence (shi zhai), the street procession (you jing), and sending the deities back on the ninth day (song jia hui luan)."
+  who: "Devotees within Malaysia's Chinese community; well-known temples include the Nan Tian Temple in Ampang, Selangor, the Tow Boo Kong (Dou Mu Gong) at Hong Kong Street in Penang, and the Tow Boo Kong in Butterworth."
+  when: "From the first to the ninth day of the ninth lunar month, nine consecutive days (with the water-inviting rite on the eve of the first day and the sending-off of the deities concluding on the ninth)."
+  etiquette: "Many devotees keep a vegetarian fast (shi zhai), eating vegetarian for one day, three days or the full nine, and traditionally avoiding the 'five pungent herbs' (wu xin); many wear white clothing with a yellow sash at the waist; the festival period often features street processions (you jing / you shen), and some temples hold austerities such as fire-walking (guo huo) and cheek/mouth piercing (za kou), though practices vary from temple to temple."
 ---
 
 On the eve of the first day of the ninth lunar month, a line of devotees dressed in white with yellow sashes at the waist files out of the temple, holding sticks of incense, and heads for the nearest river or seashore. Gongs and drums go in front, incense smoke behind — they are going to "invite the water" and "welcome the gods", to escort the Nine Emperor Gods back to the temple. For the next nine days the incense never stops inside the temple, and the aroma of vegetarian food drifts outside; on the night of the ninth day, the same procession will again form up at the water's edge to send the deities off.

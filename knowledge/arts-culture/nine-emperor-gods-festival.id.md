@@ -68,6 +68,11 @@ relations:
 related: ["chinese-religion-in-malaysia", "buddhism-in-malaysia", "hungry-ghost-festival", "religion-statistics"]
 keywords: ["九皇爷诞", "九皇大帝", "九皇胜会", "斗母元君", "食斋", "斋戒", "请水", "送驾", "过火", "安邦南天宫", "香港巷斗母宫", "Nine Emperor Gods Festival", "Kaw Ong Ya"]
 framework: history-culture
+festivalFacts:
+  what: "Sebuah perayaan Tao penting di komunitas Tionghoa Malaysia, dengan umat memuja 「Nine Emperor Gods/九皇大帝」 (Bintang Dewa Sembilan Kaisar Biduk Utara); masa perayaannya berpusat pada mengundang air／menyambut kedatangan, menyantap makanan vegetaris, arak-arakan keliling, dan mengantar kepulangan tahta pada hari kesembilan."
+  who: "Umat di dalam komunitas Tionghoa Malaysia, dengan kelenteng terkenal termasuk Kelenteng Nan Tian di Ampang, Selangor, Kelenteng Dou Mu di Lorong Hong Kong, Penang, serta Kelenteng Dou Mu di Butterworth."
+  when: "Dari tanggal 1 hingga 9 bulan kesembilan penanggalan Imlek, selama sembilan hari berturut-turut (mengundang air pada malam menjelang hari pertama, berakhir dengan mengantar tahta pada hari kesembilan)."
+  etiquette: "Banyak umat menjalankan 「makan vegetaris」 (berpantang), bervegetaris selama satu hari, tiga hari, atau sepanjang sembilan hari, secara tradisional menghindari lima bumbu menyengat; kebanyakan mengenakan pakaian putih dengan selempang kuning di pinggang; selama masa perayaan sering ada arak-arakan keliling (pawai dewa) menyusuri jalan, dan sebagian kelenteng mengadakan laku keras seperti berjalan di atas bara api dan menusuk pipi, tetapi praktiknya berbeda-beda menurut kelenteng."
 ---
 
 Pada malam sebelum tanggal 1 bulan sembilan penanggalan lunar, sebaris penganut berbusana putih dengan selempang kuning di pinggang, memegang dupa harum, keluar beriringan dari kelenteng menuju tepi sungai atau pantai terdekat. Di depan ada gong dan tambur, di belakang asap dupa — mereka pergi untuk "menjemput air" dan "menyambut dewa", mengiringi Sembilan Dewa Kaisar pulang ke kelenteng. Selama sembilan hari berikutnya, di dalam kelenteng dupa tak putus-putus, di luar kelenteng semerbak aroma makanan vegetarian; dan pada malam tanggal 9, barisan yang sama akan kembali berbaris ke tepi air untuk mengantar dewa pulang.

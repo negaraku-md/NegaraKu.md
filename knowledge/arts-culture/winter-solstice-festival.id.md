@@ -73,6 +73,12 @@ relations:
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "chinese-dialects"]
 keywords: ["冬至", "汤圆", "汤丸", "咸汤圆", "冬大过年", "冬至大如年", "添岁", "搓汤圆", "Tang Chek", "Dongzhi", "马来西亚华人", "节气", "Winter Solstice Festival"]
 framework: history-culture
+festivalFacts:
+  what: "Perayaan musim tradisional Tionghoa; adat intinya adalah membentuk dan menyantap tangyuan, melambangkan reuni dan kesempurnaan, dengan ungkapan rakyat 「Dongzhi lebih besar daripada Tahun Baru」 (titik balik matahari musim dingin sebesar Tahun Baru)."
+  who: "Orang Tionghoa Malaysia, kebanyakan merayakannya di rumah dalam lingkup keluarga."
+  when: "Ditetapkan menurut dua puluh empat musim (jieqi), jatuh sekitar tanggal 21 hingga 23 Desember Masehi setiap tahun (sekitar 22 Desember), hari dengan siang terpendek dalam setahun."
+  holiday: "Bukan hari libur umum — Dongzhi di Malaysia bukan hari libur umum secara nasional maupun di negeri mana pun."
+  etiquette: "Orang Tionghoa kebanyakan merayakan secara sederhana di rumah, dengan sekeluarga duduk melingkar membentuk tangyuan dan menyantap satu kali makan bersama, alih-alih mengadakan acara publik besar; sebagian keluarga terlebih dahulu menggunakan tangyuan untuk bersembahyang kepada leluhur dan dewa sebelum santap bersama, dengan praktik yang berbeda-beda menurut keluarga dan kelompok dialek."
 ---
 
 Pada suatu petang di penghujung Desember, aroma tepung ketan di dapur berbaur dengan manisnya air jahe. Seluruh keluarga berkumpul di sekeliling meja, membentuk segumpal demi segumpal adonan ketan menjadi bola-bola — ada yang putih, ada yang diwarnai merah muda dan hijau muda. Bola-bola di tangan anak-anak beragam ukuran, dan sambil membentuknya orang dewasa berkata: setelah memakan tangyuan, kita bertambah satu tahun usia. Hari ini adalah Dongzhi.

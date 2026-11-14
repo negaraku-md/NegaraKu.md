@@ -80,6 +80,12 @@ relations:
 related: ["religion-statistics", "article-3-religion", "sarawak", "sabah"]
 keywords: ["Christmas in Malaysia", "Christmas Day public holiday Malaysia", "Christmas Eve Sabah holiday", "Malaysian open house Christmas", "Christians in Malaysia", "Midnight Mass Malaysia", "Holidays Act 1951 Christmas"]
 framework: history-culture
+festivalFacts:
+  what: "Perayaan keagamaan Kristen yang memperingati kelahiran Yesus Kristus. Di Malaysia, ibadah keagamaannya umumnya berpusat pada kebaktian gereja, termasuk Misa Tengah Malam pada Malam Natal dan nyanyian carol, di samping musim sosial yang luas berupa open house dan dekorasi."
+  who: "Komunitas Kristen Malaysia — sekitar 2,9 juta orang menurut sensus 2020, paling banyak terdapat di Sarawak dan Sabah — merayakannya secara keagamaan; musim dekoratif dan sosial yang lebih luas dirayakan oleh warga Malaysia dari beragam latar belakang."
+  when: "Hari Natal jatuh pada 25 Desember setiap tahun, dengan musim dekorasi dan ritel mulai sekitar akhir November."
+  holiday: "Hari Natal, 25 Desember, merupakan hari libur umum di seluruh negara di semua negeri dan wilayah persekutuan (Jadwal Pertama Holidays Act 1951 (Act 369) di Semenanjung; ordonansi negeri di Sabah dan Sarawak). Sabah selain itu menetapkan dalam warta Malam Natal, 24 Desember, sebagai hari libur umum negeri menurut Sabah Holidays Ordinance (Cap. 56)."
+  etiquette: "Tradisi open house menjamu tamu dari latar belakang apa pun untuk santap bersama diterapkan pada Natal sebagaimana pada perayaan lainnya; keluarga Kristen yang menjadi tuan rumah umumnya menyambut tamu dari agama lain, dan kunjungan berlangsung dua arah sepanjang kalender perayaan."
 ---
 
 Pada malam 24 Desember, sebuah gereja di Kota Kinabalu atau Kuching penuh sesak untuk sebuah ibadah larut malam, sementara beberapa ratus kilometer jauhnya di Semenanjung, tanggal yang sama merupakan hari Kamis kerja biasa. Pada pagi harinya, 25 Desember, seluruh negara libur. Perbedaan itu — satu tanggal, dua status yang sangat berbeda — adalah cara paling jelas untuk memahami kedudukan Natal di Malaysia: sebuah perayaan keagamaan bagi satu komunitas, hari libur umum bagi semua orang, dan satu musim pintu terbuka yang diikuti banyak orang tanpa memandang agama.

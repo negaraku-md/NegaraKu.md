@@ -80,6 +80,12 @@ relations:
 related: ["chinese-new-year", "hungry-ghost-festival", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["清明节", "Cheng Beng", "扫墓", "拜山", "祭祖", "慎终追远", "金银纸", "纸扎", "后土", "土地公", "灵骨塔", "骨灰龛", "三保山", "Bukit Cina", "富贵山庄", "Qingming Festival", "Tomb-Sweeping Day"]
 framework: history-culture
+festivalFacts:
+  what: "El Festival de Qingming (conocido popularmente entre los chinos de Malasia como Cheng Beng o Festival del Barrido de Tumbas) es una fiesta tradicional china para honrar la memoria de los antepasados y rendirles culto en sus tumbas; su núcleo es el barrido de tumbas: limpiar y acondicionar la sepultura, repasar las inscripciones de la lápida, presentar ofrendas y rendir culto, y quemar papel moneda (jinyinzhi) y ofrendas de papel."
+  who: "La comunidad china de Malasia (los chinos representan alrededor de una quinta parte de la población ciudadana; según datos de la DOSM, el 22,2 % en 2025)."
+  when: "Corresponde a «Qingming», uno de los veinticuatro términos solares del calendario lunar; su fecha en el calendario gregoriano es bastante fija y suele situarse en torno al 4 o el 5 de abril; las familias locales suelen repartir las visitas a las tumbas a lo largo de unos diez días antes y después de la fecha."
+  holiday: "El Festival de Qingming no es fiesta pública en Malasia y ese día la mayoría de los comercios funcionan con normalidad."
+  etiquette: "Dado que quemar papel moneda y ofrendas de papel implica fuego abierto y humo, algunos cementerios y parques conmemorativos delimitan zonas de quema o establecen normas, y en los últimos años también hay quienes optan por métodos más respetuosos con el medio ambiente."
 ---
 
 Una madrugada de principios de abril, por los senderos del cementerio empiezan a aparecer familias enteras. Unos llevan cubos y hoces; otros, cestas repletas de comida cocinada, fruta y dinero de papel. Al encontrar la tumba de su familia, los más jóvenes se ponen a quitar las malas hierbas y a barrer las hojas, mientras los mayores indican cómo repintar, trazo a trazo, los caracteres desvaídos de la lápida; solo cuando la tumba está limpia se disponen las ofrendas, se enciende el incienso y se rinden respetos, y por último se quema el dinero de papel en un claro cercano. Entre el humo y las llamas, el Qingming anual transcurre así.

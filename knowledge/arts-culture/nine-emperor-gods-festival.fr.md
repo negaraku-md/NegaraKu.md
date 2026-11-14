@@ -68,6 +68,11 @@ relations:
 related: ["chinese-religion-in-malaysia", "buddhism-in-malaysia", "hungry-ghost-festival", "religion-statistics"]
 keywords: ["九皇爷诞", "九皇大帝", "九皇胜会", "斗母元君", "食斋", "斋戒", "请水", "送驾", "过火", "安邦南天宫", "香港巷斗母宫", "Nine Emperor Gods Festival", "Kaw Ong Ya"]
 framework: history-culture
+festivalFacts:
+  what: "Une importante fête taoïste de la communauté chinoise de Malaisie ; les fidèles vénèrent les Nine Emperor Gods (九皇大帝, les Neuf Empereurs stellaires de la Grande Ourse / 北斗九皇星君). La période festive s'articule autour de l'invocation de l'eau et de l'accueil des divinités, du jeûne végétarien, des processions et, le neuvième jour, du renvoi des divinités vers leur trône."
+  who: "Les fidèles au sein de la communauté chinoise de Malaisie ; parmi les temples renommés figurent le temple Nantian d'Ampang, dans le Selangor (安邦南天宫), le temple Doumu de la ruelle Hong Kong à Penang (香港巷斗母宫) et le temple Doumu de Butterworth (北海斗母宫)."
+  when: "Du premier au neuvième jour du neuvième mois lunaire, soit neuf jours consécutifs (invocation de l'eau la veille du premier jour, renvoi des divinités pour conclure le neuvième jour)."
+  etiquette: "De nombreux fidèles observent le « jeûne végétarien » (斋戒), mangeant végétarien pendant un jour, trois jours ou les neuf jours entiers, et évitant traditionnellement les cinq alliacées ; beaucoup portent des vêtements blancs et une ceinture jaune à la taille ; pendant la période festive se tiennent souvent des processions (游神) à travers les rues, et certains temples pratiquent des austérités comme la marche sur le feu ou le perçage des joues, mais les pratiques varient d'un temple à l'autre."
 ---
 
 La veille du 1er jour du neuvième mois lunaire, une file de fidèles vêtus de blanc, une ceinture jaune à la taille, sort du temple l'un après l'autre, l'encens à la main, et se dirige vers la rive de fleuve ou de mer la plus proche. Devant, gongs et tambours ; derrière, la fumée de l'encens : ils vont à l'« invocation de l'eau » et à l'« accueil des dieux », pour ramener les Neuf Dieux Empereurs au temple. Pendant les neuf jours suivants, l'encens ne s'éteint pas dans le temple, et l'arôme de la nourriture végétarienne flotte au-dehors ; la nuit du 9e jour, la même file se reformera au bord de l'eau pour reconduire les divinités.

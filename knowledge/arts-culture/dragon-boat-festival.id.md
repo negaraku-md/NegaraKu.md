@@ -74,6 +74,12 @@ relations:
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "winter-solstice-festival"]
 keywords: ["端午节", "端阳节", "五月节", "粽子", "bak chang", "娘惹粽", "咸肉粽", "碱水粽", "龙舟", "赛龙舟", "屈原", "艾草", "菖蒲", "立蛋", "直落巴巷水坝", "马来西亚华人", "Dragon Boat Festival Malaysia", "Duanwu"]
 framework: history-culture
+festivalFacts:
+  what: "Perayaan tradisional Tionghoa, yang di Malaysia hadir dalam dua wajah: adat makanan dan olahraga pertandingan. Intinya adalah membungkus dan menyantap bakcang (dalam dialek Hokkien setempat disebut bak chang), serta perlombaan perahu naga yang berkembang dari adat rakyat menjadi olahraga air resmi."
+  who: "Komunitas Tionghoa Malaysia umumnya merayakannya dengan membungkus dan menyantap bakcang; lomba perahu naga modern telah menjadi olahraga lintas etnis, dengan instansi pemerintah, perusahaan, perguruan tinggi, serta penggemar olahraga dari berbagai etnis membentuk tim untuk ikut serta."
+  when: "Ditetapkan pada tanggal 5 bulan kelima penanggalan Imlek; tanggal Masehinya berubah setiap tahun mengikuti penanggalan Imlek, biasanya jatuh pada bulan Juni Masehi."
+  holiday: "Bukan hari libur umum — di Malaysia bukan merupakan hari libur umum secara nasional maupun di negeri mana pun, umumnya tetap masuk kerja dan sekolah seperti biasa."
+  etiquette: "Perayaan keluarga umumnya terpusat pada satu santap bakcang pada hari perayaan; acara publik besar seperti perahu naga sering diadakan pada akhir pekan atau hari-hari berdekatan agar memudahkan warga ikut serta. Sebagian keluarga menggantungkan daun arumput (艾草) dan jerangau (菖蒲) di depan pintu, atau mencoba 「mendirikan telur」 pada tengah hari saat perayaan, tetapi praktik tiap keluarga tidak selalu sama."
 ---
 
 Menjelang hari kelima bulan kelima kalender lunar, aroma daun pembungkus dan ketan mulai menyebar di dapur keluarga Tionghoa. Para ibu rumah tangga menyusun ketan yang telah direndam dan isian yang ditumis harum lapis demi lapis ke dalam daun yang dilipat berbentuk corong, lalu mengikatnya kencang dengan tali rumput, dan menurunkan untaian demi untaian ke dalam panci untuk direbus lama. Pada saat yang sama, di Bendungan Teluk Bahang di ujung barat laut Pulau Penang, perahu-perahu naga yang ramping membelah permukaan air; seorang penabuh gendang berdiri di haluan menabuh irama, dan puluhan pendayung mendayung serentak mengikuti irama — inilah dua wajah Festival Perahu Naga di Malaysia: di satu sisi harumnya bakcang di dapur, di sisi lain lomba di atas air.

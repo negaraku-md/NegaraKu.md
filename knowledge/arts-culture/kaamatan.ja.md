@@ -79,6 +79,12 @@ relations:
 related: ["sabah", "population-composition", "wau"]
 keywords: ["Pesta Kaamatan", "Tadau Kaamatan", "Kadazandusun harvest festival", "Unduk Ngadau", "Bambaazon", "Huminodun", "Magavau", "KDCA", "Sabah"]
 framework: history-culture
+festivalFacts:
+  what: "Pesta Kaamatan（Tadau Kaamatan）は、サバ州の Kadazandusun の収穫祭である。稲の収穫への感謝で、稲の精霊 Bambaazon（Bambarayon）と Huminodun の伝説を中心とする。主な要素には、（bobohizan が主導する）Magavau の儀礼、Sumazau の踊り、そして Unduk Ngadau の文化パジェント（pageant）が含まれる。"
+  who: "サバ州の Kadazan、Dusun、Murut、Rungus、Lundayeh その他の先住民コミュニティ（しばしば Kadazandusun と総称される）。祝いはマレーシアの他地域にいるサバ出身のコミュニティによっても行われる。"
+  when: "5月30日と31日。この2日間の州レベルのフィナーレに先立ち、5月の大半を通じて地区ごとに祝いが行われる。"
+  holiday: "5月30日と31日はサバ州および連邦直轄領ラブアンの祝日であり、全国的な祝日ではない。"
+  etiquette: "Unduk Ngadau は、通常の美人コンテストではなく、Huminodun の伝説を称える文化パジェントとして理解し、Bambaazon の信仰と Huminodun の伝説は、断定された事実としてではなく、コミュニティ自身の伝統として敬意をもって扱うこと。"
 ---
 
 この祭りは、たった一つの概念にちなんで名付けられている——収穫である。*カアマタン*はカダザンドゥスン語でまさにそれを意味しており、儀式、米酒、そして最終日の夜に戴冠される美人コンテストといった祝賀の他のすべての要素は、稲を取り入れるというこの一つの行為から生まれている。

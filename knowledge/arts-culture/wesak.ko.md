@@ -63,6 +63,12 @@ relations:
 related: ["religion-statistics", "article-3-religion", "kuala-lumpur"]
 keywords: ["Wesak Day Malaysia", "Vesak Day Malaysia", "Hari Wesak 2026", "Wesak Day date Malaysia", "Buddhist public holiday Malaysia", "Wesak procession Kuala Lumpur", "Buddha's birthday Malaysia"]
 framework: history-culture
+festivalFacts:
+  what: "웨삭(Wesak, Vesak)은 전통적으로 부처의 탄생·깨달음·입멸(parinirvana)을 한 보름날에 함께 기리는 불교의 준수일이다. 준수는 사원을 중심으로 이루어지며, 새벽 기도, 독경과 명상, 꽃·초·향의 공양, 그리고 보시(dana)가 함께한다."
+  who: "상좌부(Theravada), 대승(Mahayana), 금강승(Vajrayana) 전통을 아우르는 말레이시아의 불교 공동체."
+  when: "음력 웨사카(Vesakha) 달의 보름날 — 대체로 4월이나 5월이다. 음력을 따르므로 그레고리력 날짜는 매년 바뀐다."
+  holiday: "모든 주와 연방직할구의 전국 공휴일로, 1962년에 처음 공휴일로 선포되었다. 1955년 고용법(Employment Act 1955)에 따라 휴식일과 겹치면 대체 유급 휴일이 적용된다."
+  etiquette: "준수는 사원을 중심으로 이루어지며, 많은 신도가 그날 흰옷을 입고 채식을 지킨다. 가장 잘 알려진 공개 행사는 브릭필즈(Brickfields)의 불교 Maha Vihara에서 출발하는 쿠알라룸푸르 웨삭 꽃수레 행렬로, 수많은 신도와 구경꾼이 지켜본다."
 ---
 
 웨삭절이 언제냐고 물으면 정해진 답이 없습니다 — 그것은 움직입니다. 2026년에는 5월 31일, 2027년에는 5월 20일, 2028년에는 5월 9일에 듭니다. 이유는 간단합니다. 웨삭은 달력의 날짜가 아니라 달로 정해지며, 음력과 그레고리력은 해마다 서로 어긋납니다.

@@ -76,6 +76,12 @@ relations:
 related: ["chinese-new-year", "population-composition", "religion-statistics", "hungry-ghost-festival"]
 keywords: ["中秋节", "月饼节", "灯笼节", "月饼", "冰皮月饼", "灯笼", "嫦娥奔月", "赏月", "柚子", "团圆", "农历八月十五", "马来西亚华人", "Mid-Autumn Festival Malaysia", "Mooncake Festival"]
 framework: history-culture
+festivalFacts:
+  what: "Một lễ hội truyền thống (còn gọi là Tết bánh trung thu, Tết lồng đèn), với cốt lõi là ngắm trăng, ăn bánh trung thu và rước lồng đèn; bánh trung thu phần lớn là bánh kiểu Quảng Đông nhân hạt sen hoặc đậu đỏ thêm lòng đỏ trứng muối, cũng có loại bánh dẻo (bánh da tuyết) và các vị mới như sầu riêng được ưa chuộng tại bản địa."
+  who: "Cộng đồng người Hoa Malaysia (người Hoa chiếm khoảng hai phần mười dân số công dân cả nước, theo số liệu DOSM năm 2025 là 22,2%); các lễ mừng công khai cũng chào đón các sắc tộc khác tham gia."
+  when: "Cố định vào ngày 15 tháng 8 âm lịch, ngày mà mặt trăng tròn và sáng nhất, tượng trưng cho sự đoàn viên; ngày dương lịch tương ứng thay đổi mỗi năm theo âm lịch, thường rơi vào tháng 9 hoặc tháng 10."
+  holiday: "Không phải ngày lễ công cộng. Tết Trung Thu tại Malaysia không phải ngày lễ công cộng trên toàn quốc hay của bất kỳ bang nào, các cửa hàng và cơ quan nhà nước vẫn hoạt động bình thường (khác với Tết Nguyên Đán vốn được nghỉ lễ công cộng hai ngày đầu)."
+  etiquette: "Các lễ mừng công khai do hội quán người Hoa, đền chùa (như Thiên Hậu Cung ở Lạc Thánh Lĩnh, Kuala Lumpur) và các tổ chức cộng đồng tổ chức — như dạ hội lồng đèn, biểu diễn văn nghệ — thường chào đón cư dân thuộc các sắc tộc khác cùng tham gia, thưởng lãm, mang một khía cạnh chia sẻ liên sắc tộc."
 ---
 
 Khi màn đêm buông xuống vào ngày rằm tháng Tám âm lịch, sảnh giữa của trung tâm thương mại treo đầy lồng đèn đỏ rực, còn ở công viên khu dân cư, từng tốp hai ba đứa trẻ rước những chiếc lồng đèn thắp sáng đi lại. Trên bàn ăn ở nhà, một hộp bánh trung thu cắt thành từng miếng nhỏ đặt cạnh một ấm trà nóng, bên cạnh là một quả bưởi đã bóc vỏ. Cả nhà khiêng ghế ra ngoài, ngẩng đầu ngắm vầng trăng tròn nhất trong năm — đó là một đêm Trung Thu điển hình của một gia đình người Hoa Malaysia.

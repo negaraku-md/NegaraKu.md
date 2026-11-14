@@ -74,6 +74,12 @@ relations:
 related: ["qingming-festival", "chinese-religion-in-malaysia", "mid-autumn-festival", "chinese-new-year"]
 keywords: ["中元节", "鬼节", "盂兰胜会", "盂兰盆", "农历七月", "鬼门开", "好兄弟", "普度", "大士爷", "鬼王", "歌台", "喊标", "标福物", "烧街衣", "金银纸", "马来西亚华人", "槟城", "Hungry Ghost Festival"]
 framework: history-culture
+festivalFacts:
+  what: "Zhongyuan Jie (dikenal umum sebagai Festival Hantu, dalam agama Buddha disebut Ullambana, Yulan Shenghui) adalah masa perayaan adat rakyat pada bulan ketujuh penanggalan Imlek; kepercayaan rakyat meyakini 「gerbang hantu terbuka」, para 「saudara baik」 yang berkeliaran kembali ke dunia manusia, dan orang-orang menenangkan serta memberi derma melalui persembahan dan upacara pudu."
+  who: "Komunitas Tionghoa Malaysia, terutama melalui keluarga, rumah usaha serta perhimpunan kedaerahan, kelenteng, gabungan usahawan dan panitia lingkungan; Penang, Lembah Klang, Johor dan daerah lainnya masing-masing memiliki ciri khas setempat."
+  when: "Bulan ketujuh penanggalan Imlek (dari tanggal 1 「gerbang hantu terbuka」 hingga akhir bulan 「gerbang hantu tertutup」), dengan tanggal 15 bulan ketujuh (puncak Zhongyuan) sebagai puncak persembahan."
+  holiday: "Bukan hari libur umum secara nasional maupun di negeri mana pun di Malaysia; persembahan, Ullambana dan panggung hiburan (getai) umumnya berlangsung pada sore dan malam hari seusai jam kerja."
+  etiquette: "Barisan kursi paling depan di panggung hiburan sengaja dikosongkan untuk tamu tak kasat mata, penonton umumnya tidak duduk di baris pertama; di kalangan rakyat juga ada anjuran agar tidak menginjak sesajen di tepi jalan, dan tidak sembarangan memungut barang bernilai di tanah."
 ---
 
 Begitu bulan ketujuh lunar tiba, pemandangan malam di banyak sudut jalan di Penang, Klang, dan Johor perlahan berubah secara diam-diam: di tepi jalan didirikan meja-meja kecil, di atasnya ada buah, nasi, air teh, dan tumpukan kertas emas-perak, dupa dan lilin berkelip dalam keremangan senja. Di lapangan kosong lingkungan, sebuah patung dewa kertas setinggi beberapa meter dengan wajah garang telah didirikan, di hadapannya dibangun sebuah panggung; begitu malam tiba lampu menyala terang dan suara nyanyian berkumandang — namun satu baris penuh kursi di depan panggung justru tetap kosong sepanjang waktu.

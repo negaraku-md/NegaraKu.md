@@ -80,6 +80,12 @@ relations:
 related: ["religion-statistics", "article-3-religion", "sarawak", "sabah"]
 keywords: ["Christmas in Malaysia", "Christmas Day public holiday Malaysia", "Christmas Eve Sabah holiday", "Malaysian open house Christmas", "Christians in Malaysia", "Midnight Mass Malaysia", "Holidays Act 1951 Christmas"]
 framework: history-culture
+festivalFacts:
+  what: "Một lễ hội tôn giáo của Kitô giáo tưởng niệm sự ra đời của Chúa Giêsu. Tại Malaysia, việc hành đạo thường tập trung vào các buổi lễ tại nhà thờ, bao gồm Thánh lễ Nửa đêm (Midnight Mass) đêm Giáng sinh và các bài thánh ca, cùng với một mùa sinh hoạt xã hội rộng rãi gồm các buổi open house và trang trí."
+  who: "Cộng đồng Kitô hữu Malaysia — khoảng 2,9 triệu người theo điều tra dân số năm 2020, đông nhất ở Sarawak và Sabah — cử hành lễ này theo nghi thức tôn giáo; mùa trang trí và sinh hoạt xã hội rộng hơn được đánh dấu bởi người Malaysia thuộc nhiều nền tảng khác nhau."
+  when: "Lễ Giáng sinh rơi vào ngày 25 tháng 12 hằng năm, với mùa trang trí và mua sắm bắt đầu từ khoảng cuối tháng 11."
+  holiday: "Lễ Giáng sinh, ngày 25 tháng 12, là ngày lễ công cộng trên toàn quốc tại tất cả các bang và lãnh thổ liên bang (First Schedule của Holidays Act 1951 (Act 369) ở Bán đảo; các pháp lệnh bang tại Sabah và Sarawak). Sabah còn công bố đêm Giáng sinh, ngày 24 tháng 12, là ngày lễ công cộng cấp bang theo Sabah Holidays Ordinance (Cap. 56)."
+  etiquette: "Truyền thống open house — tiếp đón khách thuộc mọi nền tảng cho một bữa ăn chung — được áp dụng cho Giáng sinh như với các lễ hội khác; các gia đình Kitô hữu đứng ra tiếp đón thường chào đón khách thuộc các tín ngưỡng khác, và việc thăm viếng diễn ra theo cả hai chiều xuyên suốt lịch lễ hội."
 ---
 
 Vào tối ngày 24 tháng 12, một nhà thờ ở Kota Kinabalu hay Kuching chật kín người dự buổi lễ khuya, trong khi cách đó vài trăm cây số trên bán đảo thì cùng ngày ấy lại là một thứ Năm làm việc bình thường. Sáng hôm sau, 25 tháng 12, cả nước được nghỉ. Sự phân đôi ấy — một ngày, hai địa vị rất khác nhau — là cách gọn gàng nhất để hiểu Giáng sinh đứng ở đâu tại Malaysia: một lễ hội tôn giáo với một cộng đồng, một ngày nghỉ lễ công cộng cho mọi người, và một mùa của những cánh cửa mở mà nhiều người cùng tham gia bất kể tín ngưỡng.

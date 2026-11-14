@@ -80,6 +80,12 @@ relations:
 related: ["religion-statistics", "article-3-religion", "sarawak", "sabah"]
 keywords: ["Christmas in Malaysia", "Christmas Day public holiday Malaysia", "Christmas Eve Sabah holiday", "Malaysian open house Christmas", "Christians in Malaysia", "Midnight Mass Malaysia", "Holidays Act 1951 Christmas"]
 framework: history-culture
+festivalFacts:
+  what: "Una fiesta religiosa cristiana que conmemora el nacimiento de Jesucristo. En Malasia, la observancia religiosa suele centrarse en los oficios religiosos en las iglesias, incluidas la misa del gallo de Nochebuena y los villancicos, junto a una amplia temporada social de casas abiertas y decoraciones."
+  who: "La comunidad cristiana de Malasia —alrededor de 2,9 millones de personas según el censo de 2020, más numerosa en Sarawak y Sabah— la observa religiosamente; la temporada decorativa y social más amplia la celebran malasios de muchos orígenes."
+  when: "El día de Navidad cae el 25 de diciembre de cada año, con una temporada decorativa y comercial que comienza hacia finales de noviembre."
+  holiday: "El día de Navidad, 25 de diciembre, es fiesta pública en todo el país, en todos los estados y territorios federales (Primera Lista de la Holidays Act 1951 (Act 369) en la Península; ordenanzas estatales en Sabah y Sarawak). Sabah, además, declara en el boletín oficial la Nochebuena, 24 de diciembre, como fiesta pública estatal en virtud de la Sabah Holidays Ordinance (Cap. 56)."
+  etiquette: "La tradición de la casa abierta, que consiste en recibir a invitados de cualquier origen para una comida compartida, se aplica a la Navidad igual que a otras fiestas; las familias cristianas anfitrionas suelen dar la bienvenida a invitados de otras religiones, y las visitas se producen en ambos sentidos a lo largo del calendario festivo."
 ---
 
 La tarde del 24 de diciembre, una iglesia de Kota Kinabalu o de Kuching se llena para un oficio nocturno, mientras que a unos cientos de kilómetros, en la península, esa misma fecha es un jueves laborable corriente. A la mañana siguiente, el 25 de diciembre, todo el país libra. Esa división —una fecha, dos condiciones muy distintas— es la forma más nítida de entender el lugar que ocupa la Navidad en Malasia: una fiesta religiosa para una comunidad, un festivo público para todos y una temporada de puertas abiertas en la que muchos participan al margen de su fe.

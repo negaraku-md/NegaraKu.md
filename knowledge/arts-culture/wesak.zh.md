@@ -63,6 +63,12 @@ relations:
 related: ["religion-statistics", "article-3-religion", "kuala-lumpur"]
 keywords: ["Wesak Day Malaysia", "Vesak Day Malaysia", "Hari Wesak 2026", "Wesak Day date Malaysia", "Buddhist public holiday Malaysia", "Wesak procession Kuala Lumpur", "Buddha's birthday Malaysia"]
 framework: history-culture
+festivalFacts:
+  what: "卫塞节（Wesak／Vesak）是佛教的节日，依传统纪念佛陀的诞生、成道与涅槃（parinirvana）同在一个满月之日；庆祝以寺庙为核心，包括黎明诵经、念诵与禅修，供奉鲜花、烛火与香，以及布施（dana）。"
+  who: "马来西亚的佛教社群，涵盖上座部（Theravada）、大乘（Mahayana）与金刚乘（Vajrayana）各传统。"
+  when: "阴历卫塞月（Vesakha）的满月之日——通常在四月或五月；由于依循阴历，公历日期每年都会变动。"
+  holiday: "全国各州与联邦直辖区的公共假期，于 1962 年首次宣布为公共假期；根据 1955 年雇佣法令（Employment Act 1955），若适逢休息日，则适用替代的带薪假期。"
+  etiquette: "庆祝以寺庙为核心；许多信徒当天身穿白衣并茹素，而最为人熟知的公开活动，是从 Brickfields 佛教 Maha Vihara 出发的吉隆坡卫塞节花车游行，吸引大批信徒与围观者观看。"
 ---
 
 问卫塞节落在哪一天，答案并不固定——它会变动。2026年落在5月31日，2027年落在5月20日，2028年落在5月9日。原因很简单：卫塞节是依月相而定，不是依固定的日历日期，而阴历与西历每年都会彼此产生偏移。

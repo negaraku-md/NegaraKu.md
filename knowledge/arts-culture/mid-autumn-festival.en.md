@@ -76,6 +76,12 @@ relations:
 related: ["chinese-new-year", "population-composition", "religion-statistics", "hungry-ghost-festival"]
 keywords: ["中秋节", "月饼节", "灯笼节", "月饼", "冰皮月饼", "灯笼", "嫦娥奔月", "赏月", "柚子", "团圆", "农历八月十五", "马来西亚华人", "Mid-Autumn Festival Malaysia", "Mooncake Festival"]
 framework: history-culture
+festivalFacts:
+  what: "A traditional festival (also called the Mooncake Festival or Lantern Festival), centred on admiring the moon, eating mooncakes and carrying lanterns; the mooncakes are mostly Cantonese-style ones with lotus-seed or red-bean paste and salted egg yolk, alongside the locally popular snow-skin mooncakes and newer flavours such as durian."
+  who: "Malaysia's Chinese community (the Chinese make up about a fifth of the national citizen population, 22.2% in DOSM's 2025 figures); public celebrations also welcome participation by other ethnic groups."
+  when: "Fixed on the fifteenth day of the eighth lunar month, the day on which the moon is fullest and brightest, symbolising reunion; the corresponding Gregorian date shifts each year with the lunar calendar, usually falling in September or October."
+  holiday: "Not a public holiday. The Mid-Autumn Festival is not a nationwide or any state public holiday in Malaysia, and businesses and government offices operate as usual (unlike the Lunar New Year, whose first two days are public holidays)."
+  etiquette: "Public celebrations such as lantern evenings and cultural performances held by Chinese associations, temples (such as the Thean Hou Temple at Robson Heights in Kuala Lumpur) and community organisations often welcome residents of other ethnic groups to join and watch, carrying a cross-ethnic, shared dimension."
 ---
 
 On the evening of the fifteenth day of the eighth lunar month, the atrium of the shopping mall is hung with glowing red lanterns, and in the park of the residential area children wander about in twos and threes carrying lit lanterns. On the dining table at home, a box of mooncakes cut into small pieces sits beside a pot of hot tea, with a peeled pomelo next to it. The family carries chairs out of the house and looks up at the roundest moon of the year — this is a typical Mid-Autumn night in a Malaysian Chinese household.

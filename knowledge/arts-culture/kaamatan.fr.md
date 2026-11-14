@@ -80,6 +80,12 @@ relations:
 related: ["sabah", "population-composition", "wau"]
 keywords: ["Pesta Kaamatan", "Tadau Kaamatan", "Kadazandusun harvest festival", "Unduk Ngadau", "Bambaazon", "Huminodun", "Magavau", "KDCA", "Sabah"]
 framework: history-culture
+festivalFacts:
+  what: "Pesta Kaamatan (Tadau Kaamatan), la fête des récoltes kadazandusun du Sabah ; action de grâce pour la récolte de riz, centrée sur l'esprit du riz Bambaazon (Bambarayon) et la légende de Huminodun. Parmi les éléments clés figurent le rituel Magavau (mené par un bobohizan), la danse Sumazau et le concours culturel Unduk Ngadau."
+  who: "Les communautés kadazan, dusun, murut, rungus, lundayeh et autres communautés autochtones du Sabah (souvent regroupées sous le nom de Kadazandusun) ; des célébrations sont également organisées par les communautés sabahanes ailleurs en Malaisie."
+  when: "Les 30 et 31 mai, les célébrations se déroulant une grande partie du mois de mai district par district avant la finale à l'échelle de l'État lors de ces deux jours."
+  holiday: "Jour férié dans l'État du Sabah et le territoire fédéral de Labuan les 30 et 31 mai ; ce n'est pas un jour férié à l'échelle nationale."
+  etiquette: "Il convient de comprendre l'Unduk Ngadau comme un concours culturel honorant la légende de Huminodun, et non comme un concours de beauté ordinaire, et de traiter la croyance en Bambaazon et la légende de Huminodun avec respect, comme la tradition propre à la communauté plutôt que comme un fait avéré."
 ---
 
 La fête tire son nom d'une seule idée : la moisson. *Kaamatan* signifie exactement cela dans la langue kadazandusun, et tout le reste de la célébration — le rituel, le vin de riz, le concours couronné lors de la dernière soirée — découle de ce seul geste : rentrer le riz.

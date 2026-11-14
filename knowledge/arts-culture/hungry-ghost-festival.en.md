@@ -74,6 +74,12 @@ relations:
 related: ["qingming-festival", "chinese-religion-in-malaysia", "mid-autumn-festival", "chinese-new-year"]
 keywords: ["中元节", "鬼节", "盂兰胜会", "盂兰盆", "农历七月", "鬼门开", "好兄弟", "普度", "大士爷", "鬼王", "歌台", "喊标", "标福物", "烧街衣", "金银纸", "马来西亚华人", "槟城", "Hungry Ghost Festival"]
 framework: history-culture
+festivalFacts:
+  what: "The Zhongyuan Festival (commonly called the Ghost Festival; known in Buddhism as Yulanpen or the Yulan assembly) is a folk festival period in the seventh lunar month; folk belief holds that the 'gates of the underworld open' (gui men kai) and wandering 'good brethren' (hao xiongdi) return to the human world, and people appease and give alms to them through offerings and universal-salvation rites (pudu)."
+  who: "Malaysia's Chinese community, chiefly through families, businesses, and native-place associations, temples, trade associations and neighbourhood committees; Penang, the Klang Valley and Johor each have their own local characteristics."
+  when: "The seventh lunar month (from the 'opening of the gates of the underworld' on the first day to their 'closing' at the end of the month), with the fifteenth day (the main day of Zhongyuan) as the peak of the offerings."
+  holiday: "Not a nationwide or any state public holiday in Malaysia; the offerings, Yulan assemblies and getai stage shows mostly take place in the evening and at night after work."
+  etiquette: "The front-row seats at getai stage shows are deliberately left empty for the unseen guests, and the audience generally does not sit in the first row; folk sayings also advise against stepping on roadside offerings or picking up money or valuables found on the ground."
 ---
 
 Once the seventh lunar month arrives, the nightfall scene at many street corners in Penang, Klang and Johor quietly changes: small tables appear by the roadside, laid with fruit, rice, tea and stacks of gold-and-silver joss paper, incense and candles flickering in the dusk. On open ground in the neighbourhood, a stern-faced paper deity several metres tall has been raised, a stage set up facing it; after dark the lights blaze and singing rings out — yet the whole front row of chairs below the stage stays empty throughout.

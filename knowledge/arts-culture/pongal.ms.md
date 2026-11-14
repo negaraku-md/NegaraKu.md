@@ -76,6 +76,12 @@ relations:
 related: ["hinduism-in-malaysia", "tamil-in-malaysia", "deepavali", "thaipusam", "estate-tamil-community"]
 keywords: ["தைப்பொங்கல்", "பொங்கல்", "மலேசியா பொங்கல்", "மாட்டுப் பொங்கல்", "போகிப் பண்டிகை", "அறுவடைப் பண்டிகை", "Pongal", "Thai Pongal"]
 framework: history-culture
+festivalFacts:
+  what: "Perayaan menuai / kesyukuran masyarakat Tamil; ritual utamanya ialah memasak beras baharu bersama susu dalam periuk tanah liat sehingga mendidih melimpah, dan ketika susu melimpah keluar, orang ramai bersorak 「Pongalo Pongal」. Perayaan empat hari: Bhogi, Thai Pongal (Pongal Matahari/Surya), Maattu Pongal dan Kaanum Pongal."
+  who: "Masyarakat Tamil Malaysia — disambut secara meluas di rumah dan di kuil di kawasan padat penduduk Tamil seperti Brickfields (Little India), Klang dan Pulau Pinang."
+  when: "Hari pertama bulan Tamil, Thai — dalam kalendar Gregorian biasanya pertengahan Januari (14 atau 15)."
+  holiday: "Bukan cuti umum yang diwartakan di peringkat persekutuan mahupun mana-mana negeri di Malaysia. (Hanya Deepavali yang merupakan cuti umum persekutuan — kecuali Sarawak; Thaipusam pula hanya cuti di sesetengah negeri.)"
+  etiquette: "Pada asasnya perayaan kebudayaan berasaskan tuaian, bersifat tidak berkaitan agama (dijelaskan oleh seorang menteri Malaysia pada 2020); pertubuhan masyarakat dan kuil memasak Pongal bersama-sama dalam banyak periuk serta mengadakan sambutan awam dengan persembahan seni."
 ---
 
 Pada awal pagi ketika bulan Thai menjelang, halaman rumah dan muka pintu

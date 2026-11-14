@@ -80,6 +80,12 @@ relations:
 related: ["sabah", "population-composition", "wau"]
 keywords: ["مهرجان كامتان", "Tadau Kaamatan", "مهرجان الحصاد الكادازاندوسوني", "أوندوك نغاداو", "بامبازون", "هومينودون", "ماغاڤاو", "KDCA", "صباح", "Pesta Kaamatan", "Unduk Ngadau", "Sabah"]
 framework: history-culture
+festivalFacts:
+  what: "Pesta Kaamatan (Tadau Kaamatan)، عيد الحصاد لدى Kadazandusun في Sabah؛ شكرٌ على حصاد الأرز، يتمحور حول روح الأرز Bambaazon (Bambarayon) وأسطورة Huminodun. ومن عناصره الرئيسية طقس Magavau (يقوده bobohizan)، ورقصة Sumazau، ومهرجان Unduk Ngadau الثقافي."
+  who: "مجتمعات Kadazan وDusun وMurut وRungus وLundayeh وغيرها من مجتمعات Sabah الأصلية (تُجمَع غالبًا تحت اسم Kadazandusun)؛ وتُقام الاحتفالات كذلك لدى مجتمعات Sabah في أماكن أخرى من ماليزيا."
+  when: "30 و31 مايو، مع احتفالات تمتدّ عبر معظم مايو من منطقة إلى أخرى قبل الختام على مستوى الولاية في هذين اليومين."
+  holiday: "عطلة رسمية في ولاية Sabah والإقليم الاتحادي Labuan يومي 30 و31 مايو؛ وليست عطلة رسمية على مستوى البلاد."
+  etiquette: "يُفهَم Unduk Ngadau بوصفه مهرجانًا ثقافيًا يُكرّم أسطورة Huminodun، لا مسابقة جمال عادية، ويُعامَل اعتقاد Bambaazon وأسطورة Huminodun باحترام بوصفهما تقليد المجتمع نفسه لا حقيقةً مؤكَّدة."
 ---
 
 سُمّي المهرجان على فكرة واحدة: الحصاد. فكلمة *كامتان* (Kaamatan) تعني ذلك بالضبط في لغة الكادازاندوسون، وكل ما عداه في الاحتفال — الطقس، ونبيذ الأرز، والمسابقة التي تُتوَّج في المساء الأخير — ينمو من ذلك الفعل الواحد: جني الأرز.

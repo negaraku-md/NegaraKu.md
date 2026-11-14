@@ -73,6 +73,12 @@ relations:
 related: ["chinese-new-year", "mid-autumn-festival", "qingming-festival", "chinese-dialects"]
 keywords: ["冬至", "汤圆", "汤丸", "咸汤圆", "冬大过年", "冬至大如年", "添岁", "搓汤圆", "Tang Chek", "Dongzhi", "马来西亚华人", "节气", "Winter Solstice Festival"]
 framework: history-culture
+festivalFacts:
+  what: "Một lễ tiết truyền thống của người Hoa; phong tục cốt lõi là nặn và ăn tangyuan, tượng trưng cho sự đoàn viên và viên mãn, dân gian có câu 'đông đại quá niên' (冬大过年), tức Đông Chí lớn như Tết."
+  who: "Người Hoa Malaysia, phần lớn đón lễ tại nhà theo từng gia đình."
+  when: "Được xác định theo 24 tiết khí, rơi vào khoảng ngày 21 đến 23 tháng 12 dương lịch hằng năm (khoảng ngày 22 tháng 12), là ngày có ban ngày ngắn nhất trong năm."
+  holiday: "Không phải ngày lễ công cộng — Đông Chí tại Malaysia không phải ngày lễ công cộng trên toàn quốc hay của bất kỳ bang nào."
+  etiquette: "Người Hoa phần lớn đón lễ một cách kín đáo tại nhà, cả nhà quây quần nặn tangyuan, cùng dùng một bữa ăn, chứ không tổ chức các hoạt động công cộng quy mô lớn; một số gia đình trước tiên dùng tangyuan để cúng tổ tiên, cúng thần rồi mới cả nhà cùng ăn, cách làm khác nhau tùy gia đình và nhóm phương ngữ."
 ---
 
 Một buổi chiều cuối tháng 12, trong bếp hương bột nếp quyện với vị ngọt của nước gừng. Cả nhà quây quần bên bàn, nặn từng cục bột nếp nhỏ thành viên — có viên trắng, có viên nhuộm hồng, xanh non. Những viên trong tay lũ trẻ to nhỏ khác nhau, người lớn vừa nặn vừa nói: ăn thang viên xong là lại thêm một tuổi. Ngày này chính là Đông chí.

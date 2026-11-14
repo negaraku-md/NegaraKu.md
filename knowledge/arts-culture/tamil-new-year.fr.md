@@ -71,6 +71,12 @@ relations:
 related: ["pongal", "deepavali", "thaipusam", "tamil-in-malaysia", "hinduism-in-malaysia"]
 keywords: ["தமிழ்ப் புத்தாண்டு", "சித்திரை புத்தாண்டு", "புத்தாண்டு", "மலேசியா தமிழ்ப் புத்தாண்டு", "கண்ணி", "மாங்காய் வேப்பம்பூ பச்சடி", "Tamil New Year", "Puthandu"]
 framework: history-culture
+festivalFacts:
+  what: "Le Nouvel An qui tombe le premier jour du mois de Chithirai dans le calendrier solaire tamoul ; le rituel central est le kanni — contempler en premier, à l'aube, un plateau de bon augure contenant des fruits, de l'or et un miroir."
+  who: "La communauté tamoule de Malaisie, dans les foyers et les temples ; la communauté Chetti (Chetti Melaka) de Malacca la célèbre également."
+  when: "Le premier jour du mois de Chithirai — généralement autour du 14 avril ; le même jour tombent le Vishu des Malayalis et le Vaisakhi des Sikhs."
+  holiday: "Ce n'est pas un jour férié fédéral ; aucun État ne le déclare habituellement férié (contrairement à Deepavali et Thaipusam)."
+  etiquette: "Il est de coutume d'échanger des vœux « Puthandu Vazhthukal » (bonne année) ; le jour de Chithirai, une ambiance festive s'observe à Little India (Petite Inde) de Kuala Lumpur, dans les temples et lors des événements communautaires."
 ---
 
 La première aube du mois de Chithirai. Dans bien des foyers tamouls, un plateau a

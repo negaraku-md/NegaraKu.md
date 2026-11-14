@@ -74,6 +74,12 @@ relations:
 related: ["qingming-festival", "chinese-religion-in-malaysia", "mid-autumn-festival", "chinese-new-year"]
 keywords: ["中元节", "鬼节", "盂兰胜会", "盂兰盆", "农历七月", "鬼门开", "好兄弟", "普度", "大士爷", "鬼王", "歌台", "喊标", "标福物", "烧街衣", "金银纸", "马来西亚华人", "槟城", "Hungry Ghost Festival"]
 framework: history-culture
+festivalFacts:
+  what: "Tết Trung Nguyên (tục gọi là lễ Cô hồn/ngày của ma quỷ, Phật giáo gọi là Vu Lan Bồn, Vu Lan thắng hội) là tiết lễ dân gian của tháng 7 âm lịch; dân gian tin rằng 'cửa ngục mở', những 'hảo huynh đệ' lang thang trở về dương gian, người ta cúng tế và phổ độ để an ủi và bố thí."
+  who: "Cộng đồng người Hoa Malaysia, chủ yếu gồm các gia đình, cửa hàng kinh doanh cùng các hội quán đồng hương, đền chùa, hiệp hội thương nhân và ủy ban khu phố; Penang, Thung lũng Klang (Klang Valley), Johor và các nơi khác mỗi nơi có nét đặc trưng địa phương riêng."
+  when: "Tháng 7 âm lịch (từ mùng 1 tháng 7 'cửa ngục mở' đến cuối tháng 'cửa ngục đóng'), ngày 15 tháng 7 (chính nhật Trung Nguyên) là cao điểm cúng tế."
+  holiday: "Không phải ngày lễ công cộng trên toàn quốc hay của các bang Malaysia; việc cúng tế, Vu Lan thắng hội và các sân khấu ca đài (getai) phần lớn diễn ra vào buổi chiều tối và ban đêm sau giờ làm việc."
+  etiquette: "Hàng ghế trước nhất của sân khấu ca đài được cố ý để trống dành cho những vị khách vô hình, khán giả thường không ngồi hàng ghế đầu; dân gian cũng có những lời khuyên như không giẫm lên đồ cúng bên đường, không tùy tiện nhặt tiền tài rơi dưới đất."
 ---
 
 Vừa sang tháng Bảy âm lịch, cảnh đêm ở nhiều góc phố tại Penang, Klang và Johor lặng lẽ đổi thay: bên đường dựng lên những chiếc bàn nhỏ, trên đó là trái cây, cơm, trà nước và từng chồng vàng mã, nhang nến chập chờn trong buổi chạng vạng. Trên khoảng đất trống của khu phố, một pho tượng thần bằng giấy cao vài mét với gương mặt uy nghiêm được dựng lên, đối diện là một sân khấu; khi trời tối, đèn sáng rực và tiếng hát vang lên — thế nhưng cả hàng ghế đầu dưới sân khấu lại luôn để trống.

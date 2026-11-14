@@ -64,6 +64,12 @@ relations:
 related: ["religion-statistics", "article-3-religion", "kuala-lumpur"]
 keywords: ["Wesak Day Malaysia", "Vesak Day Malaysia", "Hari Wesak 2026", "Wesak Day date Malaysia", "Buddhist public holiday Malaysia", "Wesak procession Kuala Lumpur", "Buddha's birthday Malaysia"]
 framework: history-culture
+festivalFacts:
+  what: "Hari Wesak (Vesak) ialah sambutan agama Buddha yang memperingati, menurut tradisi, kelahiran, pencerahan dan kemangkatan (parinirvana) Buddha secara serentak pada satu hari bulan purnama; sambutannya berpusat pada tokong, dengan sembahyang subuh, nyanyian puja dan meditasi, persembahan bunga, lilin dan colok, serta pemberian derma (dana)."
+  who: "Masyarakat Buddha Malaysia, merentasi tradisi Theravada, Mahayana dan Vajrayana."
+  when: "Hari bulan purnama bulan lunar Vesakha — biasanya April atau Mei; kerana ia mengikut kalendar lunar, tarikh Gregorian berubah setiap tahun."
+  holiday: "Cuti umum kebangsaan di semua negeri dan wilayah persekutuan, yang mula diisytiharkan sebagai cuti umum pada 1962; di bawah Employment Act 1955, jika ia jatuh pada hari rehat, cuti berbayar gantian terpakai."
+  etiquette: "Sambutannya berpusat pada tokong; ramai penganut memakai pakaian putih dan berpantang dengan diet vegetarian pada hari itu, dan acara awam yang paling terkenal ialah perarakan kereta berhias Wesak Kuala Lumpur dari Buddhist Maha Vihara di Brickfields, yang disaksikan oleh orang ramai penganut dan penonton yang berpusu-pusu."
 ---
 
 Tanya bila Hari Wesak jatuh dan tiada jawapan tetap — ia berubah-ubah. Pada 2026 ia jatuh pada 31 Mei, pada 2027 pada 20 Mei, pada 2028 pada 9 Mei. Sebabnya mudah: Wesak ditetapkan oleh bulan, bukan oleh tarikh kalendar, dan kalendar candra serta Gregori beransur berbeza antara satu sama lain setiap tahun.

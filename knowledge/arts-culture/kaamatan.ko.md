@@ -80,6 +80,12 @@ relations:
 related: ["sabah", "population-composition", "wau"]
 keywords: ["Pesta Kaamatan", "Tadau Kaamatan", "Kadazandusun harvest festival", "Unduk Ngadau", "Bambaazon", "Huminodun", "Magavau", "KDCA", "Sabah"]
 framework: history-culture
+festivalFacts:
+  what: "Pesta Kaamatan(Tadau Kaamatan)은 사바 카다잔두순(Kadazandusun)의 수확 축제로, 벼 수확에 대한 감사를 드리며, 쌀의 정령 Bambaazon(Bambarayon)과 Huminodun 전설을 중심으로 한다. 주요 요소로는 (bobohizan이 이끄는) Magavau 의례, Sumazau 춤, 그리고 Unduk Ngadau 문화 행사가 있다."
+  who: "사바의 Kadazan, Dusun, Murut, Rungus, Lundayeh 및 그 밖의 원주민 공동체(흔히 Kadazandusun으로 묶임). 기념행사는 말레이시아 다른 지역의 사바 공동체에서도 열린다."
+  when: "5월 30일과 31일이며, 이 이틀의 주(州) 차원 피날레에 앞서 5월 상당 기간에 걸쳐 지역별로 기념행사가 이어진다."
+  holiday: "사바 주와 라부안 연방직할구에서 5월 30일과 31일 공휴일이며, 전국 공휴일은 아니다."
+  etiquette: "Unduk Ngadau는 Huminodun 전설을 기리는 문화 행사로 이해해야 하며 일반적인 미인 대회가 아니다. 또한 Bambaazon 신앙과 Huminodun 전설은 단정된 사실이 아니라 공동체 고유의 전통으로서 존중하며 대해야 한다."
 ---
 
 이 축제는 하나의 관념 — 추수 — 에서 이름을 따왔습니다. *카아마탄(Kaamatan)*은 카다잔두순 말로 바로 그것을 뜻하며, 축하의 나머지 모든 것 — 의례, 쌀술, 마지막 저녁에 관을 씌우는 대회 — 은 벼를 거두어들이는 그 하나의 행위에서 자라납니다.
