@@ -43,6 +43,11 @@ revisions:
 sensitivity: "none"
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "MM2H ialah laluan pantas kepada pemastautin tetap (PR) atau kewarganegaraan Malaysia."
+    fact: "MM2H ialah visa tinggal jangka panjang yang boleh diperbaharui, bukan PR dan bukan kewarganegaraan. Ia membolehkan anda bermastautin selama tempoh pas (5–20 tahun mengikut peringkat) tetapi tidak memberikan laluan automatik kepada PR atau pasport — itu ialah proses berasingan yang diputuskan oleh Jabatan Imigresen (Immigration Department) di bawah Kementerian Dalam Negeri (KDN), satu pihak berkuasa yang berbeza daripada MOTAC yang mengendalikan MM2H."
+  - myth: "Deposit tetap ialah bayaran yang anda serahkan kepada kerajaan."
+    fact: "Deposit tetap kekal dalam akaun bank Malaysia anda sendiri. Selepas kelulusan, sehingga 50% boleh dikeluarkan, tetapi hanya untuk membeli hartanah yang diperlukan, pendidikan, rawatan perubatan atau pelancongan — kerajaan tidak mengambil atau membelanjakannya."
 sources:
   - title: "Gambaran Keseluruhan Kategori (Category Overview)"
     url: "https://www.mm2h.gov.my/category/overview"

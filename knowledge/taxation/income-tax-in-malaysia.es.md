@@ -59,6 +59,11 @@ verificationNeeded:
   - "Confirmar el umbral de registro/presentación de la renta del empleo individual (reportado en torno a RM34,000 tras el EPF) y cualquier periodo de gracia de presentación vigente, frente a MyTax y la LHDN."
 
 updated: 2026-10-26
+commonMisconception:
+  - myth: "Que pagues el impuesto sobre la renta malasio depende de tu ciudadanía."
+    fact: "Depende de la residencia fiscal: un recuento de días conforme al artículo 7 de la Ley del Impuesto sobre la Renta de 1967 (section 7 of the Income Tax Act 1967) (a grandes rasgos, 182 días o más en un año natural), no de la ciudadanía. Los residentes tributan según una escala progresiva del 0% al 30%; los no residentes pagan una tasa fija del 30%."
+  - myth: "El impuesto sobre la renta se aplica sobre tu salario bruto."
+    fact: "El impuesto recae sobre la renta imponible —lo que queda tras los gastos deducibles, las deducciones y las desgravaciones— por cada año de evaluación, no sobre el salario bruto ni la facturación. Malasia utiliza la autoliquidación."
 sources:
   - title: "Lembaga Hasil Dalam Negeri Malaysia (LHDN / HASiL) — portal oficial (Lembaga Hasil Dalam Negeri Malaysia (LHDN / HASiL) — official portal)"
     url: "https://www.hasil.gov.my/"

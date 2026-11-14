@@ -47,6 +47,9 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "말레이시아는 화교(華僑) 다수를 이루는 매우 큰 인구를 가지고 있다."
+    fact: "DOSM에 따르면, 화교는 시민의 약 22.1%를 차지하며(2026년 1분기), 다수가 아니라 두 번째로 큰 집단입니다. 말레이계(58.3%)에 기타 부미푸트라(12.3%)를 더하면 부미푸트라는 시민의 약 70.5%를 이룹니다. 인도계는 약 6.5%입니다."
 sources:
   - title: "현재 인구 추계, 말레이시아, 2025 (Current Population Estimates, Malaysia, 2025)"
     url: "https://www.dosm.gov.my/uploads/release-content/file_20250821151339.pdf"

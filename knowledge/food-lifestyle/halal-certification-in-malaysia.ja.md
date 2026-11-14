@@ -62,6 +62,9 @@ verificationNeeded:
   - "JAKIM認証が国際的なハラル認証機関にどの程度、どのような根拠で承認されているかを確認すること。"
 
 updated: 2026-08-01
+commonMisconception:
+  - myth: "どんな事業者でも自分の判断でハラルロゴを表示できる。"
+    fact: "マレーシア・ハラル認証を発行し、Halal Malaysiaロゴの使用を許可できるのは、JAKIM（国家レベル）および州の宗教当局であるMAIN/JAINのみであり、MS 1500規格に照らして認証されます。認証は連邦法上は任意ですが、ハラルロゴを不正使用することは刑事犯罪です。表示されている主張は、Semak Status HalalポータルまたはJAKIMが認定するVerify Halalアプリで確認してください。"
 sources:
   - title: "マレーシア・ハラルポータル — MYeHALALシステム (Portal Halal Malaysia — Sistem MYeHALAL)"
     url: "https://myehalal.halal.gov.my/portal-halal/v1/index.php?lang=bm"

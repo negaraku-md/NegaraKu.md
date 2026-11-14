@@ -46,6 +46,9 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "ชาวต่างชาติสามารถซื้ออสังหาริมทรัพย์ใดก็ได้ในมาเลเซีย"
+    fact: "ผู้ไม่ใช่พลเมืองสามารถซื้อได้เฉพาะที่สูงกว่าราคาขั้นต่ำที่แต่ละรัฐกำหนดเอง และเฉพาะหลังจากที่ State Authority (เจ้าหน้าที่แห่งรัฐ) ให้ความยินยอมเป็นลายลักษณ์อักษรภายใต้ section 433B of the National Land Code เท่านั้น ที่ดิน Malay Reserved ที่ดินเกษตรกรรม และหน่วยโควตา Bumiputera หรือหน่วยราคาต่ำเป็นสิ่งต้องห้าม ตั้งแต่ 1 January 2026 ผู้ไม่ใช่พลเมืองต้องเสียอากรแสตมป์ในอัตราคงที่ 8% สำหรับการโอนที่อยู่อาศัย"
 sources:
   - title: "ประมวลกฎหมายที่ดินแห่งชาติ 1965 (พระราชบัญญัติ 56 / พระราชบัญญัติ 828 ฉบับปรับปรุง) — มาตรา 433A ถึง 433E (National Land Code 1965 (Act 56 / Act 828, Revised) — sections 433A to 433E)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20201015_828_BI_WJW015175%20National%20Land%20Code%20Act%20828%20(Pewartaan).pdf"

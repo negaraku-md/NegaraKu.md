@@ -48,6 +48,9 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "Malasia tiene una mayoría de etnia china muy amplia."
+    fact: "Según el DOSM, la etnia china constituye alrededor del 22,1% de los ciudadanos (1.er trimestre de 2026): el segundo grupo más grande, no una mayoría. Los malayos (58,3%) más otros Bumiputera (12,3%) hacen que los Bumiputera sean aproximadamente el 70,5% de los ciudadanos; los indios son alrededor del 6,5%."
 sources:
   - title: "Estimaciones de población actuales, Malasia, 2025 (Current Population Estimates, Malaysia, 2025)"
     url: "https://www.dosm.gov.my/uploads/release-content/file_20250821151339.pdf"

@@ -66,6 +66,9 @@ revisions:
 sensitivity: "race"
 
 updated: 2026-07-20
+commonMisconception:
+  - myth: "لا يستطيع الأجانب امتلاك 100% من شركة ماليزية."
+    fact: "لا يفرض Companies Act 2016 أي شرط على حقوق الملكية في شركة مؤسَّسة في ماليزيا، وتذكر MIDA ذلك صراحةً؛ فقطاع التصنيع يسمح بملكية أجنبية بنسبة 100% منذ June 2003. ولا تبقى السقوف إلا داخل قطاعات مرخّصة محددة (مثل الاتصالات والنفط والغاز وبعض تجارة التوزيع)، لا كقاعدة عامة."
 sources:
   - title: "سياسة حصص رأس المال — حماية الاستثمار الأجنبي (Equity Policy — protection of foreign investment)"
     url: "https://www.mida.gov.my/setting-up-content/equity-policy-protect-foreign-investment/"

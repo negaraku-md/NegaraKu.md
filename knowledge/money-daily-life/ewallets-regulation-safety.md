@@ -56,6 +56,9 @@ revisions:
     reviewer: null
 
 updated: 2026-08-08
+commonMisconception:
+  - myth: "Baki dalam e-dompet dilindungi seperti deposit bank."
+    fact: "Pengeluar e-dompet diluluskan sebagai pengeluar wang elektronik (EMI) di bawah seksyen 11 Akta Perkhidmatan Kewangan 2013 (section 11 of the Financial Services Act 2013) — bukan sebagai bank. Baki anda bukan deposit (pengeluar tidak boleh membayar faedah ke atasnya), dan insurans deposit PIDM tidak melindungi baki e-dompet secara langsung; sebaliknya dana anda dipegang dalam akaun amanah yang berasingan."
 sources:
   - title: "Electronic Money (E-Money) Policy Document (issued 31 January 2025)"
     url: "https://www.bnm.gov.my/documents/20124/943361/27012025_Revised_E-Money_PD_v2.pdf"

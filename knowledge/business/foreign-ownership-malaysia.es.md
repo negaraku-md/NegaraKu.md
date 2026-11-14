@@ -66,6 +66,9 @@ revisions:
 sensitivity: "race"
 
 updated: 2026-07-20
+commonMisconception:
+  - myth: "Los extranjeros no pueden poseer el 100% de una empresa malasia."
+    fact: "La Ley de Sociedades de 2016 (Companies Act 2016) no impone ninguna condición de capital a una empresa constituida en Malasia, y MIDA lo afirma expresamente; la manufactura permite el 100% de capital extranjero desde junio de 2003. Los límites subsisten solo dentro de sectores concretos sujetos a licencia (como las telecomunicaciones, el petróleo y el gas, y algunos comercios de distribución), no como regla general."
 sources:
   - title: "Política de capital — protección de la inversión extranjera (Equity Policy — protection of foreign investment)"
     url: "https://www.mida.gov.my/setting-up-content/equity-policy-protect-foreign-investment/"

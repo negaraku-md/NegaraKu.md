@@ -44,6 +44,9 @@ revisions:
     reviewer: null
 verificationNeeded: []
 updated: 2026-08-14
+commonMisconception:
+  - myth: "لدى ماليزيا تأمين صحي وطني إلزامي يغطيك تلقائيًا."
+    fact: "تُموَّل الرعاية الصحية العامة بالكامل من الضرائب العامة، ولا يوجد تأمين صحي وطني إلزامي. ولا يدفع المواطنون سوى رسوم رمزية مدعومة في مرافق Ministry of Health (وزارة الصحة) (RM1 للعيادة الخارجية العامة، RM5 للاختصاصي). ويعمل النظام العام جنبًا إلى جنب مع قطاع خاص كبير."
 sources:
   - title: "الرعاية الصحية في ماليزيا (Healthcare in Malaysia)"
     url: "https://en.wikipedia.org/wiki/Healthcare_in_Malaysia"

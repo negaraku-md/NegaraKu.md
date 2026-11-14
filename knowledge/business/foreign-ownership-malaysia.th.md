@@ -66,6 +66,9 @@ revisions:
 sensitivity: "race"
 
 updated: 2026-07-20
+commonMisconception:
+  - myth: "ชาวต่างชาติไม่สามารถถือหุ้นบริษัทมาเลเซีย 100% ได้"
+    fact: "Companies Act 2016 ไม่ได้กำหนดเงื่อนไขเรื่องสัดส่วนหุ้นสำหรับบริษัทที่จดทะเบียนในมาเลเซีย และ MIDA ระบุเรื่องนี้ไว้อย่างชัดเจน ภาคการผลิตอนุญาตให้ต่างชาติถือหุ้น 100% ได้ตั้งแต่ June 2003 ข้อจำกัดเพดานยังคงมีอยู่เฉพาะในภาคส่วนที่ต้องมีใบอนุญาตเฉพาะเท่านั้น (เช่น โทรคมนาคม น้ำมันและก๊าซ และการค้าแบบกระจายสินค้าบางประเภท) ไม่ใช่เป็นกฎทั่วไป"
 sources:
   - title: "นโยบายส่วนทุน — การคุ้มครองการลงทุนต่างชาติ (Equity Policy — protection of foreign investment)"
     url: "https://www.mida.gov.my/setting-up-content/equity-policy-protect-foreign-investment/"

@@ -43,6 +43,11 @@ revisions:
 sensitivity: "none"
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "Le MM2H est une voie rapide vers la résidence permanente (RP) ou la citoyenneté malaisienne."
+    fact: "Le MM2H est un visa de long séjour renouvelable, ce n'est ni la RP ni la citoyenneté. Il permet de résider pendant la durée du pass (5 à 20 ans selon le palier), mais n'ouvre aucune voie automatique vers la RP ou un passeport — ce sont des procédures distinctes tranchées par le Immigration Department (Département de l'immigration), relevant du Ministry of Home Affairs (ministère de l'Intérieur), une autorité différente du MOTAC qui gère le MM2H."
+  - myth: "Le dépôt à terme est un frais que l'on remet au gouvernement."
+    fact: "Le dépôt à terme reste sur votre propre compte bancaire malaisien. Après approbation, jusqu'à 50 % peuvent être retirés, mais uniquement pour l'achat du bien immobilier requis, l'éducation, un traitement médical ou le tourisme — le gouvernement ne le prend ni ne le dépense."
 sources:
   - title: "Aperçu des catégories (Category Overview)"
     url: "https://www.mm2h.gov.my/category/overview"

@@ -66,6 +66,9 @@ revisions:
 sensitivity: "race"
 
 updated: 2026-07-20
+commonMisconception:
+  - myth: "Les étrangers ne peuvent pas détenir 100 % d'une société malaisienne."
+    fact: "Le Companies Act 2016 (loi sur les sociétés de 2016) n'impose aucune condition de participation au capital à une société constituée en Malaisie, et le MIDA l'énonce expressément ; le secteur manufacturier autorise une participation étrangère de 100 % depuis juin 2003. Des plafonds ne subsistent qu'au sein de certains secteurs soumis à licence (comme les télécommunications, le pétrole et le gaz, et une partie du commerce de distribution), et non comme règle générale."
 sources:
   - title: "Politique du capital — protection de l'investissement étranger (Equity Policy — protection of foreign investment)"
     url: "https://www.mida.gov.my/setting-up-content/equity-policy-protect-foreign-investment/"

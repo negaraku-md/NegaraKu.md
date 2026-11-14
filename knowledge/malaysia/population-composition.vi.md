@@ -48,6 +48,9 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "Malaysia có một cộng đồng người gốc Hoa chiếm đa số rất lớn."
+    fact: "Theo DOSM (Cục Thống kê Malaysia), người gốc Hoa chiếm khoảng 22.1% công dân (Q1 2026) — là nhóm lớn thứ hai, chứ không phải đa số. Người Mã Lai (58.3%) cộng với Bumiputera khác (12.3%) khiến người Bumiputera chiếm khoảng 70.5% công dân; người gốc Ấn chiếm khoảng 6.5%."
 sources:
   - title: "Ước tính Dân số Hiện tại, Malaysia, 2025 (Current Population Estimates, Malaysia, 2025)"
     url: "https://www.dosm.gov.my/uploads/release-content/file_20250821151339.pdf"

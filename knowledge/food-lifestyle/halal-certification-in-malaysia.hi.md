@@ -62,6 +62,9 @@ verificationNeeded:
   - "अंतरराष्ट्रीय हलाल निकायों द्वारा JAKIM प्रमाणन की मान्यता का विस्तार और आधार।"
 
 updated: 2026-08-01
+commonMisconception:
+  - myth: "कोई भी व्यवसाय स्वयं अपने ऊपर हलाल लोगो प्रदर्शित कर सकता है।"
+    fact: "केवल JAKIM (राष्ट्रीय) और राज्य धार्मिक प्राधिकरण MAIN/JAIN ही Malaysia Halal प्रमाणपत्र जारी कर सकते हैं और Halal Malaysia लोगो की अनुमति दे सकते हैं, जो MS 1500 मानक के विरुद्ध प्रमाणित होता है। संघीय कानून के तहत प्रमाणन स्वैच्छिक है, लेकिन हलाल लोगो का दुरुपयोग करना एक आपराधिक अपराध है। किसी भी दावे को Semak Status Halal पोर्टल या JAKIM-मान्यता प्राप्त Verify Halal ऐप के माध्यम से सत्यापित करें।"
 sources:
   - title: "मलेशिया हलाल पोर्टल — MYeHALAL प्रणाली (Portal Halal Malaysia — Sistem MYeHALAL)"
     url: "https://myehalal.halal.gov.my/portal-halal/v1/index.php?lang=bm"

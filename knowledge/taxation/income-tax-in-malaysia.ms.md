@@ -59,6 +59,11 @@ verificationNeeded:
   - "Sahkan ambang pendaftaran/pemfailan pendapatan penggajian individu (dilaporkan sekitar RM34,000 selepas KWSP) dan sebarang tempoh tangguh pemfailan semasa, berbanding MyTax dan LHDN."
 
 updated: 2026-10-26
+commonMisconception:
+  - myth: "Sama ada anda membayar cukai pendapatan Malaysia bergantung pada kewarganegaraan anda."
+    fact: "Ia bergantung pada pemastautinan cukai — kiraan hari di bawah seksyen 7 Akta Cukai Pendapatan 1967 (section 7 of the Income Tax Act 1967) (secara amnya 182 hari atau lebih dalam satu tahun kalendar), bukan kewarganegaraan. Pemastautin membayar mengikut skala progresif 0% hingga 30%; bukan pemastautin membayar kadar rata 30%."
+  - myth: "Cukai pendapatan dikenakan ke atas gaji kasar anda."
+    fact: "Cukai dikenakan ke atas pendapatan bercukai — baki yang tinggal selepas perbelanjaan yang dibenarkan, potongan dan pelepasan — bagi setiap tahun taksiran, bukan ke atas gaji kasar atau pusing ganti. Malaysia menggunakan taksiran sendiri."
 sources:
   - title: "Lembaga Hasil Dalam Negeri Malaysia (LHDN / HASiL) — portal rasmi (Lembaga Hasil Dalam Negeri Malaysia (LHDN / HASiL) — official portal)"
     url: "https://www.hasil.gov.my/"

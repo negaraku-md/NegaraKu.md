@@ -41,6 +41,11 @@ revisions:
 sensitivity: "none"
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "MM2Hは永住権（PR）やマレーシア国籍への近道である。"
+    fact: "MM2Hは更新可能な長期滞在ビザであり、永住権でも国籍でもありません。パスの有効期間（ティアに応じて5〜20年）の滞在を認めるものですが、PRやパスポートへの自動的な道を保証するものではありません。それらは別個の手続きであり、MM2Hを運営するMOTACとは異なる当局である内務省（Ministry of Home Affairs）傘下の入国管理局（Immigration Department）が判断します。"
+  - myth: "定期預金は政府に支払う手数料である。"
+    fact: "定期預金はあなた自身のマレーシアの銀行口座に残ります。承認後は最大50%まで引き出せますが、それは必要な不動産の購入、教育、医療、観光のためだけに限られます。政府がそれを受け取ったり使ったりすることはありません。"
 sources:
   - title: "カテゴリー概要 (Category Overview)"
     url: "https://www.mm2h.gov.my/category/overview"

@@ -58,6 +58,11 @@ verificationNeeded:
   - "The full, current MDAC exemption categories (PR holders, MACS holders, Singapore-transit travellers) against the official Immigration portal."
 
 updated: 2026-08-07
+commonMisconception:
+  - myth: "चीनी पासपोर्ट पर मलेशिया में 90 दिन वीज़ा-मुक्त प्रवेश मिलता है।"
+    fact: "चीनी नागरिक वर्तमान में पर्यटन, व्यवसाय या सामाजिक यात्राओं के लिए अधिकतम 30 दिन के लिए वीज़ा-मुक्त प्रवेश करते हैं — 90 नहीं। लंबे प्रवास के लिए अलग वीज़ा (जैसे MM2H) आवश्यक है। लगभग हर आगंतुक को आगमन से पहले Malaysia Digital Arrival Card (MDAC) भी जमा करना होता है।"
+  - myth: "वीज़ा-मुक्त प्रवेश आपको मलेशिया में काम करने या पढ़ाई करने की अनुमति देता है।"
+    fact: "वीज़ा छूट या eVisa केवल पर्यटन, सामाजिक और व्यावसायिक यात्राओं को कवर करता है। काम करने या पढ़ाई के लिए हमेशा एक अलग, उद्देश्य-विशिष्ट पास की आवश्यकता होती है — अपने प्रवेश के उद्देश्य से बाहर कार्य करना एक आव्रजन अपराध है।"
 sources:
   - title: "देश के अनुसार वीज़ा आवश्यकता (Visa Requirement by Country)"
     url: "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/"

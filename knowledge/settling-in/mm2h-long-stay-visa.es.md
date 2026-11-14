@@ -43,6 +43,11 @@ revisions:
 sensitivity: "none"
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "El MM2H es una vía rápida hacia la residencia permanente (PR) o la ciudadanía malasia."
+    fact: "El MM2H es un visado de estancia prolongada renovable, no una residencia permanente ni la ciudadanía. Permite residir durante la vigencia del pase (de 5 a 20 años según el nivel), pero no otorga ninguna vía automática hacia la PR ni un pasaporte: esos son procesos distintos que decide el Departamento de Inmigración (Immigration Department) dependiente del Ministerio del Interior (Ministry of Home Affairs), una autoridad diferente de MOTAC, que gestiona el MM2H."
+  - myth: "El depósito a plazo fijo es una tasa que se entrega al gobierno."
+    fact: "El depósito a plazo fijo permanece en tu propia cuenta bancaria malasia. Tras la aprobación se puede retirar hasta el 50%, pero solo para comprar la propiedad requerida, educación, tratamiento médico o turismo: el gobierno no lo toma ni lo gasta."
 sources:
   - title: "Descripción general de categorías (Category Overview)"
     url: "https://www.mm2h.gov.my/category/overview"

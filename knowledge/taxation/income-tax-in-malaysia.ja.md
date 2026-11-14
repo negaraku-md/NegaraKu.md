@@ -59,6 +59,11 @@ verificationNeeded:
   - "個人の雇用所得に関する登録／申告の基準額（EPF控除後で約RM34,000と報じられている）と現行の申告猶予期間を、MyTaxおよびLHDNに照らして確認すること。"
 
 updated: 2026-10-26
+commonMisconception:
+  - myth: "マレーシアの所得税を払うかどうかは国籍によって決まる。"
+    fact: "それは税務上の居住地によって決まります。すなわち国籍ではなく、1967年所得税法（Income Tax Act 1967）第7条に基づく滞在日数の算定（おおむね暦年で182日以上）によります。居住者は0%から30%までの累進課税、非居住者は一律30%を支払います。"
+  - myth: "所得税は総給与額に対して課される。"
+    fact: "税は課税所得、すなわち各賦課年度ごとに認められる経費、控除、各種減免を差し引いた後に残る額に対して課され、総給与額や売上高に対してではありません。マレーシアは自己申告制を採用しています。"
 sources:
   - title: "マレーシア内国歳入庁（LHDN／HASiL）——公式ポータル (Lembaga Hasil Dalam Negeri Malaysia (LHDN / HASiL) — official portal)"
     url: "https://www.hasil.gov.my/"

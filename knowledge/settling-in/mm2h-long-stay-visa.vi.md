@@ -43,6 +43,11 @@ revisions:
 sensitivity: "none"
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "MM2H là con đường tắt để trở thành thường trú nhân (PR) hoặc công dân Malaysia."
+    fact: "MM2H là thị thực lưu trú dài hạn có thể gia hạn, không phải PR và không phải quốc tịch. Nó cho phép bạn cư trú trong thời hạn của thẻ (5–20 năm tùy hạng) nhưng không tự động dẫn đến PR hay hộ chiếu — đó là những quy trình riêng do Immigration Department (Cục Di trú) thuộc Ministry of Home Affairs (Bộ Nội vụ) quyết định, một cơ quan khác với MOTAC (Bộ Du lịch, Nghệ thuật và Văn hóa) là nơi điều hành MM2H."
+  - myth: "Khoản tiền gửi cố định là một khoản phí bạn nộp cho chính phủ."
+    fact: "Khoản tiền gửi cố định vẫn nằm trong chính tài khoản ngân hàng Malaysia của bạn. Sau khi được chấp thuận, bạn có thể rút tối đa 50%, nhưng chỉ để mua bất động sản bắt buộc, cho giáo dục, điều trị y tế hoặc du lịch — chính phủ không lấy hay tiêu khoản tiền đó."
 sources:
   - title: "Tổng quan về các hạng mục (Category Overview)"
     url: "https://www.mm2h.gov.my/category/overview"

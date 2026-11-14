@@ -62,6 +62,9 @@ verificationNeeded:
   - "Cakupan dan dasar pengakuan sertifikasi JAKIM oleh badan halal internasional."
 
 updated: 2026-08-01
+commonMisconception:
+  - myth: "Bisnis apa pun boleh memasang logo halal atas inisiatifnya sendiri."
+    fact: "Hanya JAKIM (tingkat nasional) dan otoritas agama negara bagian MAIN/JAIN yang boleh menerbitkan sertifikat Malaysia Halal dan mengizinkan penggunaan logo Halal Malaysia, yang disertifikasi menurut standar MS 1500. Sertifikasi bersifat sukarela menurut hukum federal, tetapi menyalahgunakan logo halal merupakan tindak pidana. Verifikasi setiap klaim melalui portal Semak Status Halal atau aplikasi Verify Halal yang diakui JAKIM."
 sources:
   - title: "Portal Halal Malaysia — Sistem MYeHALAL"
     url: "https://myehalal.halal.gov.my/portal-halal/v1/index.php?lang=bm"

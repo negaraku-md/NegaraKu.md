@@ -57,6 +57,9 @@ revisions:
     reviewer: null
 
 updated: 2026-08-08
+commonMisconception:
+  - myth: "El saldo de una cartera electrónica está protegido como un depósito bancario."
+    fact: "Los emisores de carteras electrónicas están autorizados como emisores de dinero electrónico (EMI) en virtud del artículo 11 de la Ley de Servicios Financieros de 2013 (section 11 of the Financial Services Act 2013), no como bancos. Tu saldo no es un depósito (los emisores no pueden pagar intereses sobre él), y el seguro de depósitos de PIDM no protege directamente el saldo de una cartera electrónica; en cambio, tus fondos se mantienen en una cuenta fiduciaria segregada."
 sources:
   - title: "Documento de Política de Dinero Electrónico (E-Money) (emitido el 31 de enero de 2025) (Electronic Money (E-Money) Policy Document (issued 31 January 2025))"
     url: "https://www.bnm.gov.my/documents/20124/943361/27012025_Revised_E-Money_PD_v2.pdf"

@@ -46,6 +46,9 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "يستطيع الأجانب شراء أي عقار في ماليزيا."
+    fact: "لا يستطيع غير المواطنين الشراء إلا فوق حد أدنى من السعر تحدده كل ولاية بنفسها، وفقط بعد أن تمنح سلطة الولاية (State Authority) موافقة خطية بموجب section 433B of the National Land Code. أما الأراضي المحجوزة للملايو، والأراضي الزراعية، والوحدات المخصصة بحصة Bumiputera أو ذات التكلفة المنخفضة، فمحظورة. واعتبارًا من 1 January 2026 يدفع غير المواطنين رسم دمغة ثابتًا قدره 8% على عمليات نقل العقارات السكنية."
 sources:
   - title: "قانون الأراضي الوطني لسنة 1965 (Act 56 / Act 828، المنقّح) — المواد 433A إلى 433E (National Land Code 1965 (Act 56 / Act 828, Revised) — sections 433A to 433E)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20201015_828_BI_WJW015175%20National%20Land%20Code%20Act%20828%20(Pewartaan).pdf"

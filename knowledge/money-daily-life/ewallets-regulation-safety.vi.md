@@ -57,6 +57,9 @@ revisions:
     reviewer: null
 
 updated: 2026-08-08
+commonMisconception:
+  - myth: "Số dư trong ví điện tử được bảo vệ giống như tiền gửi ngân hàng."
+    fact: "Các đơn vị phát hành ví điện tử được cấp phép là tổ chức phát hành tiền điện tử (EMI) theo section 11 of the Financial Services Act 2013 (Điều 11 của Luật Dịch vụ Tài chính 2013) — chứ không phải ngân hàng. Số dư của bạn không phải là tiền gửi (đơn vị phát hành không được trả lãi cho số dư đó), và bảo hiểm tiền gửi PIDM không trực tiếp bảo vệ số dư trong ví điện tử; thay vào đó, tiền của bạn được giữ trong một tài khoản ủy thác tách biệt."
 sources:
   - title: "Tài liệu Chính sách về Tiền Điện tử (E-Money) (ban hành ngày 31 tháng 1 năm 2025) (Electronic Money (E-Money) Policy Document (issued 31 January 2025))"
     url: "https://www.bnm.gov.my/documents/20124/943361/27012025_Revised_E-Money_PD_v2.pdf"

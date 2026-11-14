@@ -46,6 +46,9 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "Người nước ngoài có thể mua bất kỳ bất động sản nào tại Malaysia."
+    fact: "Người không phải công dân chỉ được mua bất động sản trên một mức giá tối thiểu do mỗi bang tự quy định, và chỉ sau khi State Authority (Chính quyền Bang) cấp văn bản chấp thuận theo section 433B of the National Land Code (Điều 433B của Bộ luật Đất đai Quốc gia). Đất Dự trữ của người Mã Lai, đất nông nghiệp, và các căn thuộc hạn ngạch Bumiputera hoặc nhà giá rẻ đều không được phép. Từ 1 January 2026, người không phải công dân nộp thuế trước bạ cố định 8% đối với các giao dịch chuyển nhượng nhà ở."
 sources:
   - title: "National Land Code 1965 (Act 56 / Act 828, sửa đổi) — các mục 433A đến 433E (National Land Code 1965 (Act 56 / Act 828, Revised) — sections 433A to 433E)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20201015_828_BI_WJW015175%20National%20Land%20Code%20Act%20828%20(Pewartaan).pdf"

@@ -56,6 +56,11 @@ revisions:
     reviewer: null
 
 updated: 2026-08-14
+commonMisconception:
+  - myth: "Tras una estafa debes acudir primero a una comisaría para presentar una denuncia."
+    fact: "Si ya se ha transferido dinero, llama de inmediato al 997 (el National Scam Response Centre, Centro Nacional de Respuesta ante Estafas, ahora disponible las 24 horas): desde septiembre de 2025 la propia llamada al 997 cuenta como denuncia policial, por lo que no hace falta una visita aparte a la comisaría. Llama al mismo tiempo a la línea antifraude de tu banco para congelar la cuenta."
+  - myth: "No hay forma de comprobar si una cuenta o número bancario pertenece a un estafador."
+    fact: "SemakMule (semakmule.rmp.gov.my) es el portal gratuito del CCID de la policía para comprobar si una cuenta bancaria o un número de teléfono ha sido denunciado por fraude antes de que pagues."
 sources:
   - title: "Centro Nacional de Respuesta ante Estafas (NSRC) (National Scam Response Centre (NSRC))"
     url: "https://nfcc.jpm.gov.my/index.php/en/about-nsrc"

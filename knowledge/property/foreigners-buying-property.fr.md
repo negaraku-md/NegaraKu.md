@@ -46,6 +46,9 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "Les étrangers peuvent acheter n'importe quel bien immobilier en Malaisie."
+    fact: "Les non-citoyens ne peuvent acheter qu'au-dessus d'un prix minimum que chaque État fixe lui-même, et seulement après que la State Authority (autorité de l'État) a accordé son consentement écrit en vertu de l'article 433B du National Land Code (Code national foncier). Les terres de la Réserve malaise, les terres agricoles ainsi que les logements sous quota Bumiputera ou à faible coût sont exclus. À compter du 1 janvier 2026, les non-citoyens paient un droit de timbre forfaitaire de 8 % sur les transferts résidentiels."
 sources:
   - title: "National Land Code 1965 (Act 56 / Act 828, Révisé) — sections 433A à 433E (National Land Code 1965 (Act 56 / Act 828, Revised) — sections 433A to 433E)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20201015_828_BI_WJW015175%20National%20Land%20Code%20Act%20828%20(Pewartaan).pdf"

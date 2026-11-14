@@ -57,6 +57,9 @@ revisions:
     reviewer: null
 
 updated: 2026-08-08
+commonMisconception:
+  - myth: "Saldo di dompet elektronik (e-wallet) dilindungi seperti simpanan bank."
+    fact: "Penerbit e-wallet disetujui sebagai penerbit uang elektronik (EMI) berdasarkan section 11 of the Financial Services Act 2013 — bukan sebagai bank. Saldo Anda bukan simpanan (penerbit tidak boleh membayar bunga atasnya), dan asuransi simpanan PIDM tidak secara langsung melindungi saldo e-wallet; dana Anda justru disimpan dalam rekening perwalian (trust) yang terpisah."
 sources:
   - title: "Electronic Money (E-Money) Policy Document (issued 31 January 2025)"
     url: "https://www.bnm.gov.my/documents/20124/943361/27012025_Revised_E-Money_PD_v2.pdf"

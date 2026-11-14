@@ -62,6 +62,9 @@ verificationNeeded:
   - "مدى اعتراف الهيئات الدولية للحلال باعتماد JAKIM وأساس ذلك."
 
 updated: 2026-08-01
+commonMisconception:
+  - myth: "يستطيع أي نشاط تجاري عرض شعار حلال من تلقاء نفسه."
+    fact: "لا يجوز إلا لـ JAKIM (على المستوى الوطني) وللسلطات الدينية في الولايات MAIN/JAIN إصدار شهادة الحلال الماليزية والسماح باستخدام شعار Halal Malaysia، المعتمد وفق معيار MS 1500. والحصول على الشهادة اختياري بموجب القانون الاتحادي، لكن إساءة استخدام شعار الحلال جريمة جنائية. تحقّق من أي ادعاء عبر بوابة Semak Status Halal أو تطبيق Verify Halal المعتمد من JAKIM."
 sources:
   - title: "بوابة الحلال الماليزية — نظام MYeHALAL (Portal Halal Malaysia — Sistem MYeHALAL)"
     url: "https://myehalal.halal.gov.my/portal-halal/v1/index.php?lang=bm"

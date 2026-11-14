@@ -66,6 +66,9 @@ revisions:
 sensitivity: "race"
 
 updated: 2026-07-20
+commonMisconception:
+  - myth: "Người nước ngoài không thể sở hữu 100% một công ty Malaysia."
+    fact: "Companies Act 2016 (Luật Công ty 2016) không áp đặt điều kiện về vốn cổ phần đối với một công ty thành lập tại Malaysia, và MIDA (Cơ quan Phát triển Đầu tư Malaysia) khẳng định rõ điều này; ngành sản xuất đã cho phép sở hữu 100% vốn nước ngoài kể từ June 2003. Các mức trần chỉ còn tồn tại trong một số ngành được cấp phép cụ thể (như viễn thông, dầu khí, và một số ngành thương mại phân phối), chứ không phải là một quy tắc chung."
 sources:
   - title: "Chính sách Vốn cổ phần — bảo hộ đầu tư nước ngoài (Equity Policy — protection of foreign investment)"
     url: "https://www.mida.gov.my/setting-up-content/equity-policy-protect-foreign-investment/"

@@ -62,6 +62,9 @@ verificationNeeded:
   - "ขอบเขตและฐานของการยอมรับการรับรองของ JAKIM โดยหน่วยงานฮาลาลระหว่างประเทศ"
 
 updated: 2026-08-01
+commonMisconception:
+  - myth: "ธุรกิจใดก็สามารถแสดงโลโก้ฮาลาลด้วยตัวเองได้"
+    fact: "มีเพียง JAKIM (ระดับชาติ) และหน่วยงานศาสนาของรัฐ MAIN/JAIN เท่านั้นที่สามารถออกใบรับรอง Malaysia Halal และอนุญาตให้ใช้โลโก้ Halal Malaysia ซึ่งได้รับการรับรองตามมาตรฐาน MS 1500 การรับรองเป็นไปโดยสมัครใจภายใต้กฎหมายของรัฐบาลกลาง แต่การใช้โลโก้ฮาลาลในทางที่ผิดเป็นความผิดทางอาญา ตรวจสอบคำกล่าวอ้างใด ๆ ผ่านพอร์ทัล Semak Status Halal หรือแอป Verify Halal ที่ได้รับการรับรองจาก JAKIM"
 sources:
   - title: "พอร์ทัลฮาลาลมาเลเซีย — ระบบ MYeHALAL (Portal Halal Malaysia — Sistem MYeHALAL)"
     url: "https://myehalal.halal.gov.my/portal-halal/v1/index.php?lang=bm"

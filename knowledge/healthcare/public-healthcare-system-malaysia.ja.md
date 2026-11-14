@@ -43,6 +43,9 @@ revisions:
     reviewer: null
 verificationNeeded: []
 updated: 2026-08-14
+commonMisconception:
+  - myth: "マレーシアには自動的に加入する強制的な国民健康保険がある。"
+    fact: "公的医療は一般税収のみで賄われており、強制的な国民健康保険はありません。国民は保健省（Ministry of Health）の施設で、わずかな補助価格の料金のみを支払います（一般外来はRM1、専門医はRM5）。この公的制度は大規模な民間セクターと並行して運営されています。"
 sources:
   - title: "マレーシアの医療 (Healthcare in Malaysia)"
     url: "https://en.wikipedia.org/wiki/Healthcare_in_Malaysia"

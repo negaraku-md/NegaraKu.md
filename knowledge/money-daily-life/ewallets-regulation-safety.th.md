@@ -57,6 +57,9 @@ revisions:
     reviewer: null
 
 updated: 2026-08-08
+commonMisconception:
+  - myth: "ยอดเงินในอีวอลเล็ตได้รับการคุ้มครองเหมือนเงินฝากธนาคาร"
+    fact: "ผู้ให้บริการอีวอลเล็ตได้รับอนุมัติเป็นผู้ออกเงินอิเล็กทรอนิกส์ (EMI) ภายใต้ section 11 of the Financial Services Act 2013 — ไม่ใช่ในฐานะธนาคาร ยอดเงินของคุณไม่ใช่เงินฝาก (ผู้ออกไม่สามารถจ่ายดอกเบี้ยได้) และการประกันเงินฝาก PIDM ไม่ได้คุ้มครองยอดเงินในอีวอลเล็ตโดยตรง แต่เงินของคุณจะถูกเก็บไว้ในบัญชีทรัสต์ที่แยกไว้ต่างหากแทน"
 sources:
   - title: "เอกสารนโยบายเงินอิเล็กทรอนิกส์ (E-Money) (ออกเมื่อ 31 มกราคม ค.ศ. 2025) (Electronic Money (E-Money) Policy Document (issued 31 January 2025))"
     url: "https://www.bnm.gov.my/documents/20124/943361/27012025_Revised_E-Money_PD_v2.pdf"

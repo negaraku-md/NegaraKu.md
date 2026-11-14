@@ -58,6 +58,11 @@ verificationNeeded:
   - "Les catégories d'exemption MDAC complètes et actuelles (titulaires de PR, titulaires de MACS, voyageurs en transit par Singapour) par rapport au portail officiel de l'Immigration."
 
 updated: 2026-08-07
+commonMisconception:
+  - myth: "Un passeport chinois donne droit à 90 jours sans visa en Malaisie."
+    fact: "Les ressortissants chinois entrent actuellement sans visa pour une durée maximale de 30 jours à des fins touristiques, professionnelles ou de visite sociale — et non 90. Les séjours plus longs nécessitent un visa distinct (par exemple le MM2H). Presque tous les visiteurs doivent également soumettre la Malaysia Digital Arrival Card (MDAC, carte d'arrivée numérique de Malaisie) avant leur arrivée."
+  - myth: "L'entrée sans visa permet de travailler ou d'étudier en Malaisie."
+    fact: "Une exemption de visa ou un eVisa ne couvre que le tourisme, les visites sociales et les visites d'affaires. Travailler ou étudier exige toujours un pass distinct et spécifique à cette fin — agir en dehors de l'objet de votre entrée constitue une infraction à la législation sur l'immigration."
 sources:
   - title: "Condition de visa par pays (Visa Requirement by Country)"
     url: "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/"

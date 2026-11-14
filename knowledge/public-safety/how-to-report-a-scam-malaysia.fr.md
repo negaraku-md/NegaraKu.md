@@ -56,6 +56,11 @@ revisions:
     reviewer: null
 
 updated: 2026-08-14
+commonMisconception:
+  - myth: "Après une arnaque, vous devez d'abord vous rendre dans un poste de police pour déposer plainte."
+    fact: "Si de l'argent a déjà été transféré, appelez immédiatement le 997 (le National Scam Response Centre, Centre national de réponse aux arnaques, désormais ouvert 24 heures sur 24) — depuis septembre 2025, l'appel au 997 vaut lui-même dépôt de plainte, de sorte qu'aucun passage séparé au poste n'est nécessaire. Appelez en même temps la ligne anti-fraude de votre banque pour geler le compte."
+  - myth: "Il n'existe aucun moyen de vérifier si un compte bancaire ou un numéro appartient à un escroc."
+    fact: "SemakMule (semakmule.rmp.gov.my) est le portail gratuit du CCID de la police permettant de vérifier si un compte bancaire ou un numéro de téléphone a déjà été signalé pour fraude avant que vous ne payiez."
 sources:
   - title: "Centre national de réponse aux escroqueries (NSRC) (National Scam Response Centre (NSRC))"
     url: "https://nfcc.jpm.gov.my/index.php/en/about-nsrc"

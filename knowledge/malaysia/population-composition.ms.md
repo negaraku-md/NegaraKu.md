@@ -48,6 +48,9 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "Malaysia mempunyai majoriti etnik Cina yang sangat besar."
+    fact: "Menurut DOSM, etnik Cina membentuk kira-kira 22.1% daripada warganegara (S1 2026) — kumpulan kedua terbesar, bukan majoriti. Melayu (58.3%) ditambah Bumiputera Lain (12.3%) menjadikan Bumiputera kira-kira 70.5% daripada warganegara; India kira-kira 6.5%."
 sources:
   - title: "Anggaran Penduduk Semasa, Malaysia, 2025 (Current Population Estimates, Malaysia, 2025)"
     url: "https://www.dosm.gov.my/uploads/release-content/file_20250821151339.pdf"

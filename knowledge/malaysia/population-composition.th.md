@@ -48,6 +48,9 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "มาเลเซียมีคนเชื้อสายจีนเป็นคนส่วนใหญ่จำนวนมาก"
+    fact: "ตาม DOSM คนเชื้อสายจีนคิดเป็นประมาณ 22.1% ของพลเมือง (Q1 2026) — เป็นกลุ่มที่ใหญ่เป็นอันดับสอง ไม่ใช่คนส่วนใหญ่ ชาวมาเลย์ (58.3%) รวมกับ Other Bumiputera (บูมีปูเตราอื่น ๆ) (12.3%) ทำให้ Bumiputera คิดเป็นประมาณ 70.5% ของพลเมือง ส่วนชาวอินเดียอยู่ที่ประมาณ 6.5%"
 sources:
   - title: "การประมาณการประชากรปัจจุบัน, มาเลเซีย, 2025 (Current Population Estimates, Malaysia, 2025)"
     url: "https://www.dosm.gov.my/uploads/release-content/file_20250821151339.pdf"

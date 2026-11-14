@@ -48,6 +48,9 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "La Malaisie compte une très forte majorité d'origine chinoise."
+    fact: "Selon le DOSM, les Chinois de souche représentent environ 22,1 % des citoyens (T1 2026) — le deuxième groupe en importance, et non une majorité. Les Malais (58,3 %) auxquels s'ajoutent les autres Bumiputera (12,3 %) portent les Bumiputera à environ 70,5 % des citoyens ; les Indiens représentent environ 6,5 %."
 sources:
   - title: "Estimations démographiques actuelles, Malaisie, 2025 (Current Population Estimates, Malaysia, 2025)"
     url: "https://www.dosm.gov.my/uploads/release-content/file_20250821151339.pdf"

@@ -56,6 +56,11 @@ revisions:
     reviewer: null
 
 updated: 2026-08-14
+commonMisconception:
+  - myth: "詐欺に遭ったら、まず警察署に行って届け出なければならない。"
+    fact: "すでに送金してしまった場合は、直ちに997（国家詐欺対応センター、National Scam Response Centre、現在は24時間対応）に電話してください。2025年9月以降、997への通報そのものが警察への届け出として扱われるため、警察署へ別途足を運ぶ必要はありません。同時に銀行の不正利用ホットラインにも電話し、口座を凍結してください。"
+  - myth: "ある銀行口座や番号が詐欺師のものかどうかを確認する方法はない。"
+    fact: "SemakMule（semakmule.rmp.gov.my）は、支払う前にある銀行口座や電話番号が詐欺で通報されたことがあるかどうかを確認できる、警察CCIDの無料ポータルです。"
 sources:
   - title: "国家詐欺対応センター (National Scam Response Centre (NSRC))"
     url: "https://nfcc.jpm.gov.my/index.php/en/about-nsrc"

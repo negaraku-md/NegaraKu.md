@@ -44,6 +44,9 @@ revisions:
     reviewer: null
 verificationNeeded: []
 updated: 2026-08-14
+commonMisconception:
+  - myth: "Malaysia mempunyai insurans kesihatan kebangsaan wajib yang melindungi anda secara automatik."
+    fact: "Penjagaan kesihatan awam dibiayai semata-mata daripada percukaian am — tiada insurans kesihatan kebangsaan yang wajib. Warganegara hanya membayar yuran nominal yang disubsidi di kemudahan Kementerian Kesihatan (RM1 untuk pesakit luar am, RM5 untuk pakar). Sistem awam berjalan bersama-sama sektor swasta yang besar."
 sources:
   - title: "Penjagaan Kesihatan di Malaysia (Healthcare in Malaysia)"
     url: "https://en.wikipedia.org/wiki/Healthcare_in_Malaysia"

@@ -56,6 +56,11 @@ revisions:
     reviewer: null
 
 updated: 2026-08-14
+commonMisconception:
+  - myth: "Setelah menjadi korban penipuan, Anda harus pergi ke kantor polisi untuk membuat laporan terlebih dahulu."
+    fact: "Jika uang sudah telanjur ditransfer, segera hubungi 997 (National Scam Response Centre, kini 24 jam) — sejak September 2025 panggilan 997 itu sendiri dihitung sebagai laporan polisi, sehingga tidak perlu kunjungan terpisah ke kantor polisi. Hubungi hotline penipuan bank Anda pada saat yang sama untuk membekukan rekening."
+  - myth: "Tidak ada cara untuk memeriksa apakah suatu rekening atau nomor bank milik penipu."
+    fact: "SemakMule (semakmule.rmp.gov.my) adalah portal gratis CCID polisi untuk memeriksa apakah suatu rekening bank atau nomor telepon pernah dilaporkan terkait penipuan sebelum Anda membayar."
 sources:
   - title: "National Scam Response Centre (NSRC)"
     url: "https://nfcc.jpm.gov.my/index.php/en/about-nsrc"

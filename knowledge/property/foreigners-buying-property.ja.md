@@ -44,6 +44,9 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "外国人はマレーシアでどんな不動産でも購入できる。"
+    fact: "非国籍者は、各州が独自に定める最低価格を上回る物件のみ、かつ国家土地法典（National Land Code）第433B条に基づき州当局（State Authority）が書面による同意を与えた後にのみ購入できます。マレー人留保地、農地、ブミプトラ（Bumiputera）割当枠または低価格住戸は購入できません。2026年1月1日以降、非国籍者は住宅の譲渡に対し一律8%の印紙税を支払います。"
 sources:
   - title: "国家土地法典1965（法律56号／法律828号、改訂版）— 第433A条から第433E条 (National Land Code 1965 (Act 56 / Act 828, Revised) — sections 433A to 433E)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20201015_828_BI_WJW015175%20National%20Land%20Code%20Act%20828%20(Pewartaan).pdf"

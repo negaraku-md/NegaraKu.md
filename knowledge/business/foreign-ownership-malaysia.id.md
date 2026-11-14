@@ -67,6 +67,9 @@ revisions:
 sensitivity: "race"
 
 updated: 2026-07-20
+commonMisconception:
+  - myth: "Orang asing tidak dapat memiliki 100% saham perusahaan Malaysia."
+    fact: "Companies Act 2016 tidak mengenakan syarat ekuitas pada perusahaan yang didirikan di Malaysia, dan MIDA menyatakannya secara tegas; sektor manufaktur telah mengizinkan ekuitas asing 100% sejak June 2003. Pembatasan hanya tetap berlaku di dalam sektor berizin tertentu (seperti telekomunikasi, minyak dan gas, serta sebagian perdagangan distributif), bukan sebagai aturan umum."
 sources:
   - title: "Dasar Ekuiti — perlindungan pelaburan asing (Equity Policy — protection of foreign investment)"
     url: "https://www.mida.gov.my/setting-up-content/equity-policy-protect-foreign-investment/"

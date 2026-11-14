@@ -57,6 +57,9 @@ revisions:
     reviewer: null
 
 updated: 2026-08-08
+commonMisconception:
+  - myth: "電子ウォレットの残高は銀行預金のように保護されている。"
+    fact: "電子ウォレットの発行者は、2013年金融サービス法（Financial Services Act 2013）第11条に基づき、銀行としてではなく電子マネー発行者（EMI）として認可されています。あなたの残高は預金ではなく（発行者は利息を支払えません）、PIDMの預金保険が電子ウォレットの残高を直接保護することもありません。資金は代わりに分別された信託口座で保管されます。"
 sources:
   - title: "電子マネー（E-Money）政策文書（2025年1月31日発行） (Electronic Money (E-Money) Policy Document (issued 31 January 2025))"
     url: "https://www.bnm.gov.my/documents/20124/943361/27012025_Revised_E-Money_PD_v2.pdf"

@@ -58,6 +58,11 @@ verificationNeeded:
   - "The full, current MDAC exemption categories (PR holders, MACS holders, Singapore-transit travellers) against the official Immigration portal."
 
 updated: 2026-08-07
+commonMisconception:
+  - myth: "Un pasaporte chino obtiene 90 días sin visado en Malasia."
+    fact: "Los ciudadanos chinos entran actualmente sin visado por un máximo de 30 días para turismo, negocios o visitas sociales, no 90. Las estancias más largas requieren un visado aparte (p. ej., MM2H). Casi todos los visitantes también deben presentar la Tarjeta Digital de Llegada a Malasia (MDAC) antes de su llegada."
+  - myth: "La entrada sin visado permite trabajar o estudiar en Malasia."
+    fact: "Una exención de visado o un eVisa cubre únicamente turismo y visitas sociales y de negocios. Trabajar o estudiar siempre requiere un pase aparte y específico para ese fin: actuar fuera del propósito de tu entrada es una infracción migratoria."
 sources:
   - title: "Requisito de visado por país (Visa Requirement by Country)"
     url: "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/"

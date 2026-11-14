@@ -58,6 +58,11 @@ verificationNeeded:
   - "Các hạng mục miễn MDAC đầy đủ, hiện hành (người giữ thường trú, người giữ MACS, người quá cảnh qua Singapore) đối chiếu với cổng chính thức của Cục Di trú."
 
 updated: 2026-08-07
+commonMisconception:
+  - myth: "Hộ chiếu Trung Quốc được miễn thị thực 90 ngày tại Malaysia."
+    fact: "Công dân Trung Quốc hiện được nhập cảnh miễn thị thực tối đa 30 ngày cho mục đích du lịch, công tác hoặc thăm thân — không phải 90 ngày. Lưu trú dài hơn cần một thị thực riêng (ví dụ MM2H). Hầu hết mọi du khách cũng phải nộp Malaysia Digital Arrival Card (MDAC — Thẻ Nhập cảnh Kỹ thuật số Malaysia) trước khi đến."
+  - myth: "Nhập cảnh miễn thị thực cho phép bạn làm việc hoặc học tập tại Malaysia."
+    fact: "Việc miễn thị thực hay eVisa chỉ áp dụng cho du lịch, thăm thân và công tác. Làm việc hoặc học tập luôn đòi hỏi một loại thẻ riêng theo đúng mục đích — hành động ngoài mục đích nhập cảnh của bạn là một hành vi vi phạm luật di trú."
 sources:
   - title: "Yêu cầu thị thực theo quốc gia (Visa Requirement by Country)"
     url: "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/"

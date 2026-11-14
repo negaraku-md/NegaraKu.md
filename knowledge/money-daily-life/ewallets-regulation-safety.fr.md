@@ -57,6 +57,9 @@ revisions:
     reviewer: null
 
 updated: 2026-08-08
+commonMisconception:
+  - myth: "Le solde d'un portefeuille électronique est protégé comme un dépôt bancaire."
+    fact: "Les émetteurs de portefeuilles électroniques sont agréés comme émetteurs de monnaie électronique (EMI) en vertu de l'article 11 du Financial Services Act 2013 (loi sur les services financiers de 2013) — et non comme des banques. Votre solde n'est pas un dépôt (les émetteurs ne peuvent pas lui verser d'intérêts), et l'assurance-dépôts de PIDM ne protège pas directement le solde d'un portefeuille électronique ; vos fonds sont au contraire conservés sur un compte fiduciaire distinct (ségrégué)."
 sources:
   - title: "Document de politique sur la monnaie électronique (E-Money) (émis le 31 janvier 2025) (Electronic Money (E-Money) Policy Document (issued 31 January 2025))"
     url: "https://www.bnm.gov.my/documents/20124/943361/27012025_Revised_E-Money_PD_v2.pdf"

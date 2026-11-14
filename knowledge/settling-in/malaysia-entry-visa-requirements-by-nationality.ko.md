@@ -58,6 +58,11 @@ verificationNeeded:
   - "전체 현행 MDAC 면제 범주(영주권자, MACS 소지자, 싱가포르 경유 여행자)를 공식 이민 포털과 대조할 것."
 
 updated: 2026-08-07
+commonMisconception:
+  - myth: "중국 여권 소지자는 말레이시아에서 90일 무비자 입국이 가능하다."
+    fact: "중국 국민은 현재 관광, 비즈니스 또는 사회적 방문 목적으로 최대 30일까지 무비자로 입국할 수 있으며, 90일이 아닙니다. 그보다 긴 체류에는 별도의 비자(예: MM2H)가 필요합니다. 또한 거의 모든 방문객은 입국 전에 말레이시아 디지털 입국 카드(MDAC, Malaysia Digital Arrival Card)를 제출해야 합니다."
+  - myth: "무비자 입국으로 말레이시아에서 일하거나 공부할 수 있다."
+    fact: "비자 면제나 eVisa는 관광, 사회적 및 비즈니스 방문만을 포괄합니다. 취업이나 유학에는 항상 목적별 전용 비자(pass)가 별도로 필요하며, 입국 목적을 벗어나 활동하는 것은 이민법 위반입니다."
 sources:
   - title: "국가별 비자 요건 (Visa Requirement by Country)"
     url: "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/"

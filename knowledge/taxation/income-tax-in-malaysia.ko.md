@@ -59,6 +59,11 @@ verificationNeeded:
   - "개인 근로 소득 등록/신고 기준(EPF 공제 후 약 RM34,000으로 보도됨)과 현행 신고 유예 기간을, MyTax 및 LHDN과 대조하여 확인할 것."
 
 updated: 2026-10-26
+commonMisconception:
+  - myth: "말레이시아 소득세 납부 여부는 국적에 따라 결정된다."
+    fact: "이는 세무상 거주자 여부에 따라 결정되며, 국적이 아니라 1967년 소득세법(Income Tax Act 1967) 제7조에 따른 체류 일수 계산(대체로 한 해 동안 182일 이상)에 근거합니다. 거주자는 0%에서 30%까지의 누진세율로 납부하고, 비거주자는 30%의 단일세율로 납부합니다."
+  - myth: "소득세는 총급여를 기준으로 부과된다."
+    fact: "세금은 각 과세연도에 대해 과세소득, 즉 허용 가능한 비용, 공제 및 세액공제를 차감한 후 남는 금액을 기준으로 부과되며, 총급여나 총매출을 기준으로 하지 않습니다. 말레이시아는 자진신고 방식을 사용합니다."
 sources:
   - title: "말레이시아 내국세청 (LHDN / HASiL) — 공식 포털 (Lembaga Hasil Dalam Negeri Malaysia (LHDN / HASiL) — official portal)"
     url: "https://www.hasil.gov.my/"

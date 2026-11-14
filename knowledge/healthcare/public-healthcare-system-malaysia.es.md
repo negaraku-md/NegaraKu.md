@@ -44,6 +44,9 @@ revisions:
     reviewer: null
 verificationNeeded: []
 updated: 2026-08-14
+commonMisconception:
+  - myth: "Malasia tiene un seguro nacional de salud obligatorio que te cubre automáticamente."
+    fact: "La sanidad pública se financia únicamente con los impuestos generales: no existe un seguro nacional de salud obligatorio. Los ciudadanos solo pagan tasas nominales y subvencionadas en los centros del Ministerio de Salud (Ministry of Health) (RM1 por consulta externa general, RM5 por especialista). El sistema público convive con un amplio sector privado."
 sources:
   - title: "La atención sanitaria en Malasia (Healthcare in Malaysia)"
     url: "https://en.wikipedia.org/wiki/Healthcare_in_Malaysia"

@@ -58,6 +58,11 @@ verificationNeeded:
   - "Kategori pengecualian MDAC penuh dan semasa (pemegang PR, pemegang MACS, pengembara transit Singapura) terhadap portal Imigresen rasmi."
 
 updated: 2026-08-07
+commonMisconception:
+  - myth: "Pasport China mendapat 90 hari tanpa visa di Malaysia."
+    fact: "Warganegara China buat masa ini masuk tanpa visa untuk tempoh sehingga 30 hari bagi tujuan pelancongan, perniagaan atau lawatan sosial — bukan 90. Penginapan lebih lama memerlukan visa berasingan (cth. MM2H). Hampir setiap pelawat juga mesti menghantar Kad Ketibaan Digital Malaysia (MDAC) sebelum tiba."
+  - myth: "Kemasukan tanpa visa membolehkan anda bekerja atau belajar di Malaysia."
+    fact: "Pengecualian visa atau eVisa meliputi lawatan pelancongan, sosial dan perniagaan sahaja. Bekerja atau belajar sentiasa memerlukan pas berasingan yang khusus untuk tujuan tersebut — bertindak di luar tujuan kemasukan anda ialah satu kesalahan imigresen."
 sources:
   - title: "Keperluan Visa Mengikut Negara (Visa Requirement by Country)"
     url: "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/"

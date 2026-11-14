@@ -46,6 +46,9 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "Warga asing boleh membeli mana-mana hartanah di Malaysia."
+    fact: "Bukan warganegara hanya boleh membeli di atas harga minimum yang ditetapkan sendiri oleh setiap negeri, dan hanya selepas Pihak Berkuasa Negeri memberikan kebenaran bertulis di bawah seksyen 433B Kanun Tanah Negara (section 433B of the National Land Code). Tanah Rizab Melayu, tanah pertanian, dan unit kuota Bumiputera atau kos rendah adalah terhad. Mulai 1 Januari 2026, bukan warganegara membayar duti setem rata 8% ke atas pindah milik kediaman."
 sources:
   - title: "Kanun Tanah Negara 1965 (Akta 56 / Akta 828, Disemak) — seksyen 433A hingga 433E (National Land Code 1965 (Act 56 / Act 828, Revised) — sections 433A to 433E)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20201015_828_BI_WJW015175%20National%20Land%20Code%20Act%20828%20(Pewartaan).pdf"

@@ -42,6 +42,11 @@ revisions:
 sensitivity: "none"
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "MM2H는 영주권(PR)이나 말레이시아 시민권으로 가는 빠른 길이다."
+    fact: "MM2H는 영주권도 시민권도 아닌, 갱신 가능한 장기 체류 비자입니다. 등급에 따라 5~20년의 비자 유효 기간 동안 거주할 수 있게 해 주지만, 영주권이나 여권으로 이어지는 자동 경로는 전혀 부여하지 않습니다. 이는 별도의 절차로서, MM2H를 운영하는 MOTAC과는 다른 기관인 내무부(Ministry of Home Affairs) 산하 이민국(Immigration Department)이 결정합니다."
+  - myth: "정기예금은 정부에 내는 수수료다."
+    fact: "정기예금은 본인 명의의 말레이시아 은행 계좌에 그대로 남아 있습니다. 승인 후 최대 50%까지 인출할 수 있지만, 이는 필수 요건인 부동산 구입, 교육, 의료 또는 관광 목적에 한합니다. 정부는 이 돈을 가져가거나 쓰지 않습니다."
 sources:
   - title: "카테고리 개요 (Category Overview)"
     url: "https://www.mm2h.gov.my/category/overview"

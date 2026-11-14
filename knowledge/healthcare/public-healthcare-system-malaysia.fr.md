@@ -44,6 +44,9 @@ revisions:
     reviewer: null
 verificationNeeded: []
 updated: 2026-08-14
+commonMisconception:
+  - myth: "La Malaisie dispose d'une assurance maladie nationale obligatoire qui vous couvre automatiquement."
+    fact: "Le système de santé public est financé uniquement par l'impôt général — il n'existe pas d'assurance maladie nationale obligatoire. Les citoyens ne paient que des frais symboliques et subventionnés dans les établissements du Ministry of Health (ministère de la Santé) (RM1 pour une consultation externe générale, RM5 pour un spécialiste). Le système public coexiste avec un vaste secteur privé."
 sources:
   - title: "Les soins de santé en Malaisie (Healthcare in Malaysia)"
     url: "https://en.wikipedia.org/wiki/Healthcare_in_Malaysia"

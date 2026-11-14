@@ -48,6 +48,9 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "Malaysia memiliki mayoritas etnis Tionghoa yang sangat besar."
+    fact: "Menurut DOSM, etnis Tionghoa mencakup sekitar 22.1% dari warga negara (Q1 2026) — kelompok terbesar kedua, bukan mayoritas. Orang Melayu (58.3%) ditambah Bumiputera Lain (12.3%) menjadikan Bumiputera sekitar 70.5% dari warga negara; orang India sekitar 6.5%."
 sources:
   - title: "Perkiraan Penduduk Terkini, Malaysia, 2025 (Current Population Estimates, Malaysia, 2025)"
     url: "https://www.dosm.gov.my/uploads/release-content/file_20250821151339.pdf"

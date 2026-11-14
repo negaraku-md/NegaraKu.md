@@ -45,6 +45,9 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "외국인은 말레이시아에서 어떤 부동산이든 구입할 수 있다."
+    fact: "비(非)시민은 각 주가 자체적으로 정한 최저 가격 이상에서만 구입할 수 있으며, 국가토지법(National Land Code) 제433B조에 따라 주 당국(State Authority)이 서면 동의를 부여한 경우에만 가능합니다. 말레이 보류지(Malay Reserved land), 농지, 부미푸트라(Bumiputera) 할당 또는 저가 주택은 구입이 금지됩니다. 2026년 1월 1일부터 비시민은 주거용 부동산 이전에 대해 8%의 단일 인지세를 납부합니다."
 sources:
   - title: "국가토지법 1965(법률 제56호 / 법률 제828호, 개정판) — 제433A조부터 제433E조까지 (National Land Code 1965 (Act 56 / Act 828, Revised) — sections 433A to 433E)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20201015_828_BI_WJW015175%20National%20Land%20Code%20Act%20828%20(Pewartaan).pdf"

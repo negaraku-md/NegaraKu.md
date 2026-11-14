@@ -46,6 +46,9 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "Los extranjeros pueden comprar cualquier propiedad en Malasia."
+    fact: "Los no ciudadanos solo pueden comprar por encima de un precio mínimo que cada estado fija por su cuenta, y únicamente después de que la Autoridad Estatal (State Authority) conceda su consentimiento por escrito en virtud del artículo 433B del Código Nacional de la Tierra (section 433B of the National Land Code). Las tierras de Reserva Malaya (Malay Reserved), las tierras agrícolas y las unidades de cuota Bumiputera o de bajo coste están vetadas. A partir del 1 de enero de 2026 los no ciudadanos pagan un impuesto de timbre fijo del 8% sobre las transmisiones residenciales."
 sources:
   - title: "National Land Code 1965 (Act 56 / Act 828, Revisado) — secciones 433A a 433E (National Land Code 1965 (Act 56 / Act 828, Revised) — sections 433A to 433E)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20201015_828_BI_WJW015175%20National%20Land%20Code%20Act%20828%20(Pewartaan).pdf"

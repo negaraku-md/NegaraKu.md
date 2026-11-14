@@ -48,6 +48,9 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "மலேசியாவில் மிகப் பெரிய இனச் சீன பெரும்பான்மை உள்ளது."
+    fact: "DOSM-இன் படி, இனச் சீனர்கள் குடிமக்களில் சுமார் 22.1% ஆக உள்ளனர் (Q1 2026) — இரண்டாவது பெரிய குழு, பெரும்பான்மை அல்ல. மலாய்க்காரர்கள் (58.3%) மற்றும் பிற பூமிபுத்ரா (Other Bumiputera, 12.3%) சேர்ந்து பூமிபுத்ரா குடிமக்களில் தோராயமாக 70.5% ஆகின்றனர்; இந்தியர்கள் சுமார் 6.5%."
 sources:
   - title: "தற்போதைய மக்கள்தொகை மதிப்பீடுகள், மலேசியா, 2025 (Current Population Estimates, Malaysia, 2025)"
     url: "https://www.dosm.gov.my/uploads/release-content/file_20250821151339.pdf"

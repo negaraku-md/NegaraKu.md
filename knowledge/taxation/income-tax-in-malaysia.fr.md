@@ -59,6 +59,11 @@ verificationNeeded:
   - "Confirmer le seuil d'enregistrement/de déclaration du revenu d'emploi des particuliers (rapporté autour de RM34,000 après EPF) et tout délai de grâce de dépôt actuel, au regard de MyTax et de la LHDN."
 
 updated: 2026-10-26
+commonMisconception:
+  - myth: "Le fait de payer l'impôt sur le revenu malaisien dépend de votre nationalité."
+    fact: "Cela dépend de la résidence fiscale — un décompte de jours au titre de l'article 7 du Income Tax Act 1967 (loi sur l'impôt sur le revenu de 1967) (globalement 182 jours ou plus au cours d'une année civile), et non de la nationalité. Les résidents sont soumis à un barème progressif de 0 % à 30 % ; les non-résidents paient un taux forfaitaire de 30 %."
+  - myth: "L'impôt sur le revenu est prélevé sur votre salaire brut."
+    fact: "L'impôt porte sur le revenu imposable — ce qui reste après les dépenses déductibles, les déductions et les abattements — pour chaque année d'imposition, et non sur le salaire brut ou le chiffre d'affaires. La Malaisie recourt à l'auto-évaluation."
 sources:
   - title: "Lembaga Hasil Dalam Negeri Malaysia (LHDN / HASiL) — portail officiel (Lembaga Hasil Dalam Negeri Malaysia (LHDN / HASiL) — official portal)"
     url: "https://www.hasil.gov.my/"

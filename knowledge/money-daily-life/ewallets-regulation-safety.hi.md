@@ -57,6 +57,9 @@ revisions:
     reviewer: null
 
 updated: 2026-08-08
+commonMisconception:
+  - myth: "ई-वॉलेट में मौजूद राशि बैंक जमा की तरह संरक्षित होती है।"
+    fact: "ई-वॉलेट जारीकर्ताओं को Financial Services Act 2013 की section 11 के अंतर्गत ई-मनी जारीकर्ता (EMI) के रूप में अनुमोदित किया जाता है — बैंकों के रूप में नहीं। आपकी राशि एक जमा नहीं है (जारीकर्ता उस पर ब्याज नहीं दे सकते), और PIDM जमा बीमा सीधे ई-वॉलेट की राशि की रक्षा नहीं करता; इसके बजाय आपका धन एक पृथक ट्रस्ट खाते में रखा जाता है।"
 sources:
   - title: "इलेक्ट्रॉनिक मनी (E-Money) नीति दस्तावेज़ (31 जनवरी 2025 को जारी) (Electronic Money (E-Money) Policy Document (issued 31 January 2025))"
     url: "https://www.bnm.gov.my/documents/20124/943361/27012025_Revised_E-Money_PD_v2.pdf"

@@ -62,6 +62,9 @@ verificationNeeded:
   - "국제 할랄 기구에 의한 JAKIM 인증 인정의 범위와 근거."
 
 updated: 2026-08-01
+commonMisconception:
+  - myth: "어떤 사업체든 자체적으로 할랄 로고를 표시할 수 있다."
+    fact: "JAKIM(국가 기관)과 주 종교 당국인 MAIN/JAIN만이 말레이시아 할랄 인증서를 발급하고 Halal Malaysia 로고 사용을 허가할 수 있으며, 이는 MS 1500 표준에 따라 인증됩니다. 연방법상 인증은 자발적이지만, 할랄 로고를 오용하는 것은 형사 범죄입니다. 어떠한 주장이든 Semak Status Halal 포털이나 JAKIM이 인정하는 Verify Halal 앱을 통해 확인하십시오."
 sources:
   - title: "말레이시아 할랄 포털 — MYeHALAL 시스템 (Portal Halal Malaysia — Sistem MYeHALAL)"
     url: "https://myehalal.halal.gov.my/portal-halal/v1/index.php?lang=bm"

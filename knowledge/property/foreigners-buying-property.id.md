@@ -46,6 +46,9 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "Orang asing dapat membeli properti apa pun di Malaysia."
+    fact: "Warga non-negara hanya dapat membeli di atas harga minimum yang ditetapkan sendiri oleh masing-masing negara bagian, dan hanya setelah State Authority (Otoritas Negara Bagian) memberikan persetujuan tertulis berdasarkan section 433B of the National Land Code. Tanah Rizab Melayu (Malay Reserved), tanah pertanian, serta unit kuota Bumiputera atau unit berbiaya rendah tidak boleh dibeli. Mulai 1 January 2026 warga non-negara membayar bea meterai (stamp duty) tetap sebesar 8% atas pengalihan hunian."
 sources:
   - title: "National Land Code 1965 (Act 56 / Act 828, Direvisi) — Pasal 433A hingga 433E (National Land Code 1965 (Act 56 / Act 828, Revised) — sections 433A to 433E)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20201015_828_BI_WJW015175%20National%20Land%20Code%20Act%20828%20(Pewartaan).pdf"

@@ -56,6 +56,11 @@ revisions:
     reviewer: null
 
 updated: 2026-08-14
+commonMisconception:
+  - myth: "사기를 당한 후에는 먼저 경찰서에 가서 신고해야 한다."
+    fact: "이미 돈이 이체되었다면 즉시 997(국가사기대응센터, National Scam Response Centre, 현재 24시간 운영)에 전화하십시오. 2025년 9월부터 997 전화 자체가 경찰 신고로 인정되므로, 별도로 경찰서를 방문할 필요가 없습니다. 동시에 은행 사기 신고 전화번호로 연락하여 계좌를 동결하십시오."
+  - myth: "어떤 은행 계좌나 번호가 사기꾼의 것인지 확인할 방법이 없다."
+    fact: "SemakMule(semakmule.rmp.gov.my)은 경찰 상업범죄수사부(CCID)의 무료 포털로, 결제하기 전에 어떤 은행 계좌나 전화번호가 사기로 신고된 적이 있는지 확인할 수 있습니다."
 sources:
   - title: "국가 사기 대응 센터 (National Scam Response Centre (NSRC))"
     url: "https://nfcc.jpm.gov.my/index.php/en/about-nsrc"

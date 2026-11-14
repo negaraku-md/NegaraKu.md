@@ -44,6 +44,9 @@ revisions:
     reviewer: null
 verificationNeeded: []
 updated: 2026-08-14
+commonMisconception:
+  - myth: "Malaysia có bảo hiểm y tế quốc gia bắt buộc tự động bảo vệ cho bạn."
+    fact: "Y tế công được tài trợ hoàn toàn từ thuế chung — không có bảo hiểm y tế quốc gia bắt buộc. Công dân chỉ trả mức phí tượng trưng, được trợ cấp tại các cơ sở của Ministry of Health (Bộ Y tế) (RM1 cho khám ngoại trú tổng quát, RM5 cho khám chuyên khoa). Hệ thống công vận hành song song với một khu vực tư nhân lớn."
 sources:
   - title: "Chăm sóc sức khỏe tại Malaysia (Healthcare in Malaysia)"
     url: "https://en.wikipedia.org/wiki/Healthcare_in_Malaysia"

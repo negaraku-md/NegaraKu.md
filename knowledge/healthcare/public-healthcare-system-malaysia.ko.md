@@ -44,6 +44,9 @@ revisions:
     reviewer: null
 verificationNeeded: []
 updated: 2026-08-14
+commonMisconception:
+  - myth: "말레이시아에는 자동으로 적용되는 의무 국가건강보험이 있다."
+    fact: "공공 의료는 전적으로 일반 조세로 재원을 조달하며, 의무 국가건강보험은 없습니다. 시민은 보건부(Ministry of Health) 시설에서 명목상의 보조된 요금만 지불합니다(일반 외래 RM1, 전문의 RM5). 공공 의료 체계는 대규모 민간 부문과 나란히 운영됩니다."
 sources:
   - title: "말레이시아의 의료 (Healthcare in Malaysia)"
     url: "https://en.wikipedia.org/wiki/Healthcare_in_Malaysia"

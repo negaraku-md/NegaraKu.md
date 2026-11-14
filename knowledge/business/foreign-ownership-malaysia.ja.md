@@ -66,6 +66,9 @@ revisions:
 sensitivity: "race"
 
 updated: 2026-07-20
+commonMisconception:
+  - myth: "外国人はマレーシア企業の100%を所有することはできない。"
+    fact: "2016年会社法（Companies Act 2016）はマレーシアで設立された会社に対して出資比率の条件を課しておらず、MIDAもそのことを明言しています。製造業では2003年6月以降、100%外資が認められています。上限が残っているのは特定の認可セクター（通信、石油・ガス、一部の流通業など）の内部のみであり、一般的な規則としてではありません。"
 sources:
   - title: "株式政策 — 外国投資の保護 (Equity Policy — protection of foreign investment)"
     url: "https://www.mida.gov.my/setting-up-content/equity-policy-protect-foreign-investment/"

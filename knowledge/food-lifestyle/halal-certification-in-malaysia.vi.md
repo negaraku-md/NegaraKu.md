@@ -62,6 +62,9 @@ verificationNeeded:
   - "Mức độ và cơ sở của việc chứng nhận JAKIM được các cơ quan halal quốc tế công nhận."
 
 updated: 2026-08-01
+commonMisconception:
+  - myth: "Bất kỳ doanh nghiệp nào cũng có thể tự trưng bày logo halal."
+    fact: "Chỉ JAKIM (cấp quốc gia) và các cơ quan tôn giáo bang MAIN/JAIN mới được cấp chứng nhận Malaysia Halal và cho phép sử dụng logo Halal Malaysia, được chứng nhận theo tiêu chuẩn MS 1500. Việc chứng nhận là tự nguyện theo luật liên bang, nhưng sử dụng sai logo halal là một tội hình sự. Hãy xác minh mọi tuyên bố qua cổng Semak Status Halal hoặc ứng dụng Verify Halal được JAKIM công nhận."
 sources:
   - title: "Cổng Halal Malaysia — Hệ thống MYeHALAL (Portal Halal Malaysia — Sistem MYeHALAL)"
     url: "https://myehalal.halal.gov.my/portal-halal/v1/index.php?lang=bm"

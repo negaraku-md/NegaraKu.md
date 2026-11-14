@@ -57,6 +57,9 @@ revisions:
     reviewer: null
 
 updated: 2026-08-08
+commonMisconception:
+  - myth: "الرصيد في المحفظة الإلكترونية محمي مثل الوديعة المصرفية."
+    fact: "تُعتمد جهات إصدار المحافظ الإلكترونية بصفتها جهات إصدار نقود إلكترونية (EMI) بموجب section 11 of the Financial Services Act 2013، وليست مصارف. ورصيدك ليس وديعة (لا يجوز للجهات المُصدِرة دفع فائدة عليه)، كما أن تأمين الودائع الذي تقدمه PIDM لا يحمي رصيد المحفظة الإلكترونية حماية مباشرة؛ بل تُحفظ أموالك في حساب ائتماني مفصول."
 sources:
   - title: "وثيقة سياسة النقود الإلكترونية (E-Money) (صدرت في 31 يناير 2025) (Electronic Money (E-Money) Policy Document (issued 31 January 2025))"
     url: "https://www.bnm.gov.my/documents/20124/943361/27012025_Revised_E-Money_PD_v2.pdf"

@@ -47,6 +47,9 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "マレーシアでは華人（中国系）が圧倒的多数を占めている。"
+    fact: "DOSMによると、華人は国民の約22.1%（2026年第1四半期）を占め、多数派ではなく2番目に大きい集団です。マレー人（58.3%）にその他のブミプトラ（Other Bumiputera、12.3%）を加えると、ブミプトラは国民の約70.5%になります。インド系は約6.5%です。"
 sources:
   - title: "現行人口推計、マレーシア、2025年 (Current Population Estimates, Malaysia, 2025)"
     url: "https://www.dosm.gov.my/uploads/release-content/file_20250821151339.pdf"

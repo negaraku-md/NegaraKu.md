@@ -66,6 +66,9 @@ revisions:
 sensitivity: "race"
 
 updated: 2026-07-20
+commonMisconception:
+  - myth: "विदेशी किसी मलेशियाई कंपनी का 100% स्वामित्व नहीं रख सकते।"
+    fact: "Companies Act 2016 किसी मलेशिया में निगमित कंपनी पर कोई इक्विटी शर्त नहीं लगाता, और MIDA इसे स्पष्ट रूप से बताता है; विनिर्माण में June 2003 से 100% विदेशी इक्विटी की अनुमति है। सीमाएँ केवल विशिष्ट लाइसेंसीकृत क्षेत्रों (जैसे दूरसंचार, तेल और गैस, और कुछ वितरणात्मक व्यापार) के भीतर ही बची हैं, एक सामान्य नियम के रूप में नहीं।"
 sources:
   - title: "इक्विटी नीति — विदेशी निवेश की सुरक्षा (Equity Policy — protection of foreign investment)"
     url: "https://www.mida.gov.my/setting-up-content/equity-policy-protect-foreign-investment/"

@@ -56,6 +56,11 @@ revisions:
     reviewer: null
 
 updated: 2026-08-14
+commonMisconception:
+  - myth: "Sau khi bị lừa đảo, trước hết bạn phải đến đồn cảnh sát để trình báo."
+    fact: "Nếu tiền đã được chuyển đi, hãy gọi ngay 997 (National Scam Response Centre — Trung tâm Ứng phó Lừa đảo Quốc gia, nay hoạt động 24 giờ) — kể từ September 2025, chính cuộc gọi 997 đã được tính là một bản trình báo cảnh sát, nên không cần phải đến đồn riêng nữa. Đồng thời gọi đường dây nóng chống gian lận của ngân hàng để phong tỏa tài khoản."
+  - myth: "Không có cách nào kiểm tra xem một tài khoản ngân hàng hay số điện thoại có thuộc về kẻ lừa đảo hay không."
+    fact: "SemakMule (semakmule.rmp.gov.my) là cổng thông tin miễn phí của cảnh sát CCID để kiểm tra xem một tài khoản ngân hàng hoặc số điện thoại có bị báo cáo là gian lận hay không trước khi bạn thanh toán."
 sources:
   - title: "Trung tâm Ứng phó Lừa đảo Quốc gia (NSRC) (National Scam Response Centre (NSRC))"
     url: "https://nfcc.jpm.gov.my/index.php/en/about-nsrc"

@@ -59,6 +59,11 @@ verificationNeeded:
   - "Xác nhận ngưỡng đăng ký/khai thuế thu nhập từ việc làm của cá nhân (được báo cáo khoảng RM34.000 sau EPF) và bất kỳ thời gian gia hạn khai hiện hành nào, đối chiếu với MyTax và LHDN."
 
 updated: 2026-10-26
+commonMisconception:
+  - myth: "Việc bạn có phải nộp thuế thu nhập Malaysia hay không phụ thuộc vào quốc tịch của bạn."
+    fact: "Điều này phụ thuộc vào tình trạng cư trú thuế — được tính theo số ngày theo section 7 of the Income Tax Act 1967 (Điều 7 của Luật Thuế Thu nhập 1967, nói chung là 182 ngày trở lên trong một năm dương lịch), chứ không phải quốc tịch. Người cư trú nộp theo biểu lũy tiến từ 0% đến 30%; người không cư trú nộp mức cố định 30%."
+  - myth: "Thuế thu nhập được tính trên tiền lương gộp của bạn."
+    fact: "Thuế được tính trên thu nhập chịu thuế — phần còn lại sau khi trừ các chi phí được phép, các khoản khấu trừ và miễn giảm — cho mỗi năm tính thuế, chứ không phải trên lương gộp hay doanh thu. Malaysia áp dụng cơ chế tự khai tự tính thuế."
 sources:
   - title: "Lembaga Hasil Dalam Negeri Malaysia (LHDN / HASiL) — cổng chính thức (Lembaga Hasil Dalam Negeri Malaysia (LHDN / HASiL) — official portal)"
     url: "https://www.hasil.gov.my/"

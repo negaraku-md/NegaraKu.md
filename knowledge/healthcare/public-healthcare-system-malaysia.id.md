@@ -44,6 +44,9 @@ revisions:
     reviewer: null
 verificationNeeded: []
 updated: 2026-08-14
+commonMisconception:
+  - myth: "Malaysia memiliki asuransi kesehatan nasional wajib yang secara otomatis menjamin Anda."
+    fact: "Layanan kesehatan publik dibiayai sepenuhnya dari pajak umum — tidak ada asuransi kesehatan nasional yang wajib. Warga negara hanya membayar biaya nominal yang disubsidi di fasilitas Ministry of Health (Kementerian Kesehatan) (RM1 untuk rawat jalan umum, RM5 untuk spesialis). Sistem publik berjalan berdampingan dengan sektor swasta yang besar."
 sources:
   - title: "Perawatan Kesehatan di Malaysia (Healthcare in Malaysia)"
     url: "https://en.wikipedia.org/wiki/Healthcare_in_Malaysia"

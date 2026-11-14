@@ -58,6 +58,11 @@ verificationNeeded:
   - "Kategori pengecualian MDAC yang lengkap dan terkini (pemegang PR, pemegang MACS, pelancong transit Singapura) terhadap portal Imigrasi resmi."
 
 updated: 2026-08-07
+commonMisconception:
+  - myth: "Paspor Tiongkok mendapatkan 90 hari bebas visa di Malaysia."
+    fact: "Warga negara Tiongkok saat ini masuk tanpa visa hingga 30 hari untuk pariwisata, bisnis, atau kunjungan sosial — bukan 90 hari. Tinggal lebih lama memerlukan visa tersendiri (misalnya MM2H). Hampir setiap pengunjung juga wajib mengisi Malaysia Digital Arrival Card (MDAC) sebelum kedatangan."
+  - myth: "Masuk bebas visa memperbolehkan Anda bekerja atau belajar di Malaysia."
+    fact: "Pembebasan visa atau eVisa hanya mencakup kunjungan pariwisata, sosial, dan bisnis. Bekerja atau belajar selalu memerlukan pas tersendiri yang khusus untuk tujuan tersebut — bertindak di luar tujuan masuk Anda merupakan pelanggaran keimigrasian."
 sources:
   - title: "Keperluan Visa Menurut Negara (Visa Requirement by Country)"
     url: "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/"

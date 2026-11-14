@@ -48,6 +48,9 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "لدى ماليزيا أغلبية عرقية صينية كبيرة جدًا."
+    fact: "بحسب DOSM، يشكّل العرق الصيني نحو 22.1% من المواطنين (الربع الأول من 2026)، وهو ثاني أكبر مجموعة وليس أغلبية. فالملايو (58.3%) إضافة إلى سائر البوميبوترا Other Bumiputera (12.3%) يجعلون Bumiputera نحو 70.5% من المواطنين؛ أما الهنود فنحو 6.5%."
 sources:
   - title: "التقديرات السكانية الحالية، ماليزيا، 2025 (Current Population Estimates, Malaysia, 2025)"
     url: "https://www.dosm.gov.my/uploads/release-content/file_20250821151339.pdf"

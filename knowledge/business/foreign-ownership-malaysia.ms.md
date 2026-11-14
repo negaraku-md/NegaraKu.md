@@ -67,6 +67,9 @@ revisions:
 sensitivity: "race"
 
 updated: 2026-07-20
+commonMisconception:
+  - myth: "Warga asing tidak boleh memiliki 100% syarikat Malaysia."
+    fact: "Akta Syarikat 2016 (Companies Act 2016) tidak mengenakan sebarang syarat ekuiti ke atas syarikat yang diperbadankan di Malaysia, dan MIDA menyatakannya secara jelas; pembuatan telah membenarkan ekuiti asing 100% sejak Jun 2003. Had hanya kekal dalam sektor berlesen tertentu (seperti telekomunikasi, minyak dan gas, serta sesetengah perdagangan pengedaran), bukan sebagai peraturan umum."
 sources:
   - title: "Dasar Ekuiti — perlindungan pelaburan asing (Equity Policy — protection of foreign investment)"
     url: "https://www.mida.gov.my/setting-up-content/equity-policy-protect-foreign-investment/"

@@ -57,6 +57,9 @@ revisions:
     reviewer: null
 
 updated: 2026-08-08
+commonMisconception:
+  - myth: "전자지갑의 잔액은 은행 예금처럼 보호된다."
+    fact: "전자지갑 발행사는 2013년 금융서비스법(Financial Services Act 2013) 제11조에 따라 전자화폐 발행사(EMI)로 승인받은 것이지, 은행이 아닙니다. 잔액은 예금이 아니며(발행사는 잔액에 이자를 지급할 수 없습니다), PIDM 예금보험이 전자지갑 잔액을 직접 보호하지 않습니다. 대신 귀하의 자금은 분리된 신탁 계좌에 보관됩니다."
 sources:
   - title: "전자화폐(E-Money) 정책 문서(2025년 1월 31일 발행) (Electronic Money (E-Money) Policy Document (issued 31 January 2025))"
     url: "https://www.bnm.gov.my/documents/20124/943361/27012025_Revised_E-Money_PD_v2.pdf"

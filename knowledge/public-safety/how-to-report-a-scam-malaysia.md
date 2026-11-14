@@ -55,6 +55,11 @@ revisions:
     reviewer: null
 
 updated: 2026-08-14
+commonMisconception:
+  - myth: "Selepas ditipu, anda mesti pergi ke balai polis untuk membuat laporan terlebih dahulu."
+    fact: "Jika wang telah pun dipindahkan, hubungi 997 (Pusat Respons Penipuan Kebangsaan / National Scam Response Centre, kini 24 jam) dengan segera — sejak September 2025, panggilan 997 itu sendiri dikira sebagai laporan polis, jadi tiada lawatan balai yang berasingan diperlukan. Hubungi talian hotel penipuan bank anda pada masa yang sama untuk membekukan akaun."
+  - myth: "Tiada cara untuk menyemak sama ada sesuatu akaun atau nombor bank milik penipu."
+    fact: "SemakMule (semakmule.rmp.gov.my) ialah portal percuma CCID polis untuk menyemak sama ada sesuatu akaun bank atau nombor telefon telah dilaporkan kerana penipuan sebelum anda membayar."
 sources:
   - title: "National Scam Response Centre (NSRC)"
     url: "https://nfcc.jpm.gov.my/index.php/en/about-nsrc"

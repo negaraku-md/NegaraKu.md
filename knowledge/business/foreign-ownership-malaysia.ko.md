@@ -66,6 +66,9 @@ revisions:
 sensitivity: "race"
 
 updated: 2026-07-20
+commonMisconception:
+  - myth: "외국인은 말레이시아 회사의 지분 100%를 소유할 수 없다."
+    fact: "2016년 회사법(Companies Act 2016)은 말레이시아에서 설립된 회사에 지분 조건을 부과하지 않으며, MIDA도 이를 명시적으로 밝히고 있습니다. 제조업은 2003년 6월부터 100% 외국인 지분을 허용해 왔습니다. 지분 상한은 특정 인허가 부문(예: 통신, 석유·가스, 일부 유통업) 내에서만 남아 있으며, 일반적인 규칙으로 존재하는 것은 아닙니다."
 sources:
   - title: "지분 정책 — 외국인 투자 보호 (Equity Policy — protection of foreign investment)"
     url: "https://www.mida.gov.my/setting-up-content/equity-policy-protect-foreign-investment/"

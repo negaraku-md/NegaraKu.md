@@ -59,6 +59,11 @@ verificationNeeded:
   - "Pastikan ambang pendaftaran/pengajuan penghasilan kerja individu (dilaporkan sekitar RM34,000 setelah EPF) dan setiap masa tenggang pengajuan terkini, terhadap MyTax dan LHDN."
 
 updated: 2026-10-26
+commonMisconception:
+  - myth: "Apakah Anda membayar pajak penghasilan Malaysia bergantung pada kewarganegaraan Anda."
+    fact: "Hal itu bergantung pada residensi pajak — penghitungan hari berdasarkan section 7 of the Income Tax Act 1967 (secara umum 182 hari atau lebih dalam satu tahun kalender), bukan kewarganegaraan. Residen membayar menurut skala progresif 0% hingga 30%; non-residen membayar tarif tetap 30%."
+  - myth: "Pajak penghasilan dikenakan atas gaji kotor (bruto) Anda."
+    fact: "Pajak dikenakan atas penghasilan kena pajak — yang tersisa setelah biaya, pengurangan, dan keringanan yang diperbolehkan — untuk setiap tahun penilaian, bukan atas gaji kotor atau omzet. Malaysia menggunakan sistem penilaian mandiri (self-assessment)."
 sources:
   - title: "Lembaga Hasil Dalam Negeri Malaysia (LHDN / HASiL) — portal resmi (Lembaga Hasil Dalam Negeri Malaysia (LHDN / HASiL) — official portal)"
     url: "https://www.hasil.gov.my/"

@@ -43,6 +43,11 @@ revisions:
 sensitivity: "none"
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "MM2H adalah jalur cepat menuju izin tinggal tetap (PR) atau kewarganegaraan Malaysia."
+    fact: "MM2H adalah visa tinggal jangka panjang yang dapat diperpanjang, bukan PR dan bukan kewarganegaraan. Visa ini memungkinkan Anda tinggal selama masa berlaku pas (5–20 tahun menurut tingkatan), tetapi tidak memberikan jalur otomatis menuju PR atau paspor — hal itu merupakan proses terpisah yang diputuskan oleh Immigration Department (Departemen Imigrasi) di bawah Ministry of Home Affairs (Kementerian Dalam Negeri), otoritas yang berbeda dari MOTAC yang mengelola MM2H."
+  - myth: "Deposito berjangka adalah biaya yang Anda serahkan kepada pemerintah."
+    fact: "Deposito berjangka tetap berada di rekening bank Malaysia milik Anda sendiri. Setelah disetujui, hingga 50% boleh ditarik, tetapi hanya untuk membeli properti yang diwajibkan, pendidikan, perawatan medis, atau pariwisata — pemerintah tidak mengambil ataupun membelanjakannya."
 sources:
   - title: "Gambaran Umum Kategori (Category Overview)"
     url: "https://www.mm2h.gov.my/category/overview"

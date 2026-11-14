@@ -46,6 +46,9 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "विदेशी मलेशिया में कोई भी संपत्ति खरीद सकते हैं।"
+    fact: "गैर-नागरिक केवल एक न्यूनतम मूल्य से ऊपर ही खरीद सकते हैं जिसे प्रत्येक राज्य स्वयं तय करता है, और केवल तब जब राज्य प्राधिकरण (State Authority) National Land Code की section 433B के अंतर्गत लिखित सहमति प्रदान करे। मलय आरक्षित भूमि, कृषि भूमि, और Bumiputera-कोटा या कम-लागत वाली इकाइयाँ वर्जित हैं। 1 January 2026 से गैर-नागरिक आवासीय हस्तांतरण पर एक समान 8% स्टांप शुल्क देते हैं।"
 sources:
   - title: "राष्ट्रीय भूमि संहिता 1965 (Act 56 / Act 828, संशोधित) — धाराएँ 433A से 433E (National Land Code 1965 (Act 56 / Act 828, Revised) — sections 433A to 433E)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20201015_828_BI_WJW015175%20National%20Land%20Code%20Act%20828%20(Pewartaan).pdf"

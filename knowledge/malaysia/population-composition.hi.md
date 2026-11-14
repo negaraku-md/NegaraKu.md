@@ -48,6 +48,9 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
+commonMisconception:
+  - myth: "मलेशिया में जातीय-चीनी बहुसंख्यक बहुत बड़े हैं।"
+    fact: "DOSM के अनुसार, जातीय चीनी नागरिकों का लगभग 22.1% हिस्सा हैं (Q1 2026) — दूसरा सबसे बड़ा समूह, न कि बहुसंख्यक। मलय (58.3%) और अन्य Bumiputera (12.3%) मिलाकर Bumiputera नागरिकों का लगभग 70.5% बनाते हैं; भारतीय लगभग 6.5% हैं।"
 sources:
   - title: "वर्तमान जनसंख्या अनुमान, मलेशिया, 2025 (Current Population Estimates, Malaysia, 2025)"
     url: "https://www.dosm.gov.my/uploads/release-content/file_20250821151339.pdf"
