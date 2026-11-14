@@ -2,6 +2,7 @@
 import type { Locale } from '@/lib/categories';
 import type { Article } from '@/lib/content';
 import { loc } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
 import { SCENARIOS } from '@/lib/scenarios';
 import GuidedPath from './GuidedPath.astro';
 
@@ -52,6 +53,9 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
       variant="scenario"
       icon={s.icon}
       heading={loc(s.title, locale)}
+      experienceLabel={s.experience ? loc(s.experience.label, locale) : undefined}
+      experienceHref={s.experience ? (s.experience.external ? s.experience.href : localePath(s.experience.href, locale)) : undefined}
+      experienceExternal={s.experience?.external}
     />
   ))
 }

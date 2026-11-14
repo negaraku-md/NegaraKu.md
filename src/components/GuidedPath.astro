@@ -22,8 +22,12 @@ interface Props {
   heading?: string;
   /** Leading icon (default compass). */
   icon?: string;
+  /** Optional outbound "experience" callout after the steps (tool / booking). */
+  experienceLabel?: string;
+  experienceHref?: string;
+  experienceExternal?: boolean;
 }
-const { locale, articles, steps, variant = 'living', heading: headingProp, icon = '🧭' } = Astro.props;
+const { locale, articles, steps, variant = 'living', heading: headingProp, icon = '🧭', experienceLabel, experienceHref, experienceExternal = false } = Astro.props;
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const byKey = new Map(articles.map((a) => [`${a.data.category}/${a.data.slug}`, a]));
@@ -149,6 +153,18 @@ const lead = variant === 'scenario'
           );
         })}
       </ol>
+      {experienceHref && experienceLabel && (
+        <a
+          class="gp-exp"
+          href={experienceHref}
+          target={experienceExternal ? '_blank' : undefined}
+          rel={experienceExternal ? 'noopener noreferrer' : undefined}
+        >
+          <span class="gp-exp-ico" aria-hidden="true">✨</span>
+          <span>{experienceLabel}</span>
+          <span class="dirx gp-exp-arrow" aria-hidden="true">→</span>
+        </a>
+      )}
     </section>
   )
 }
@@ -222,6 +238,24 @@ const lead = variant === 'scenario'
   .gp-tag.tk { background: color-mix(in srgb, #10b981 18%, transparent); color: #10b981; }
   .gp-x { color: var(--muted); }
   .gp-ok { color: var(--ink); }
+
+  .gp-exp {
+    margin-top: 0.7rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.6rem 1rem;
+    border-radius: 999px;
+    border: 1px solid var(--gold);
+    background: color-mix(in srgb, var(--gold) 12%, transparent);
+    color: var(--ink);
+    font-weight: 700;
+    font-size: 0.92rem;
+    text-decoration: none;
+  }
+  .gp-exp:hover { background: color-mix(in srgb, var(--gold) 20%, transparent); }
+  .gp-exp-ico { line-height: 1; }
+  .gp-exp-arrow { color: var(--gold); }
 
   @media (max-width: 480px) {
     .gp-mc { grid-template-columns: 1fr; gap: 0.15rem; }
