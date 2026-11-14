@@ -1,0 +1,173 @@
+---
+import type { Locale } from '@/lib/categories';
+import type { Article } from '@/lib/content';
+import { localePath } from '@/lib/i18n';
+import { isolateRanges } from '@/lib/bidi';
+import type { GuidedStep } from '@/lib/livingPath';
+
+// Guided-path band for a pillar hub. A sequenced, sourced ENTRY journey: one
+// curated article per step (hook→depth), each showing its myth→fact card where it
+// has one. Not 攻略/推荐/排名 — stable, cited, review-dated knowledge in order.
+// Translation-cheap: only the heading + lead-in are localized here; every step's
+// title/summary/fact come from the already-localized article data.
+
+interface Props {
+  locale: Locale;
+  /** Locale-filtered article pool (from articlesForLocale). */
+  articles: Article[];
+  steps: GuidedStep[];
+}
+const { locale, articles, steps } = Astro.props;
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const byKey = new Map(articles.map((a) => [`${a.data.category}/${a.data.slug}`, a]));
+const resolved = steps
+  .map((s) => byKey.get(`${s.cat}/${s.slug}`))
+  .filter((a): a is Article => !!a);
+
+const mythLabel = L('Mitos', 'Myth', '误解', 'தவறான கருத்து', '誤解', '오해', 'เข้าใจผิด', 'Hiểu lầm', 'Mitos', 'اعتقاد خاطئ', 'ग़लतफ़हमी', 'Mito', 'Idée reçue');
+const factLabel = L('Fakta', 'Fact', '事实', 'உண்மை', '事実', '사실', 'ข้อเท็จจริง', 'Sự thật', 'Fakta', 'الحقيقة', 'तथ्य', 'Hecho', 'Réalité');
+---
+
+{
+  resolved.length > 0 && (
+    <section class="container block gp">
+      <div class="gp-head">
+        <h2>
+          <span class="gp-ico" aria-hidden="true">🧭</span>
+          {L(
+            'Fikir nak berpindah ke Malaysia?',
+            'Thinking of moving to Malaysia?',
+            '想留在马来西亚?先搞懂这几件事',
+            'மலேசியாவுக்கு இடம்பெயர யோசிக்கிறீர்களா?',
+            'マレーシアへの移住を考えていますか?',
+            '말레이시아 이주를 생각 중이신가요?',
+            'กำลังคิดจะย้ายมามาเลเซียไหม?',
+            'Đang cân nhắc chuyển đến Malaysia?',
+            'Berpikir untuk pindah ke Malaysia?',
+            'هل تفكر في الانتقال إلى ماليزيا؟',
+            'मलेशिया जाने की सोच रहे हैं?',
+            '¿Pensando en mudarte a Malasia?',
+            'Vous envisagez de vous installer en Malaisie ?',
+          )}
+        </h2>
+        <p class="gp-lead">
+          {L(
+            'Ikut urutan ini — fakta bersumber dengan tarikh semakan, bukan panduan jalan atau ranking. Setiap langkah membawa anda ke rencana penuh.',
+            'Follow this order — sourced facts with a review date, not a travel guide or a ranking. Each step links to the full, cited article.',
+            '按这个顺序了解:每条都有来源和最后审阅日期,不是攻略、不是排名。每一步都链接到完整的、标明出处的文章。',
+            'இந்த வரிசையில் செல்லுங்கள் — ஆதாரமுள்ள உண்மைகள், மதிப்பாய்வு தேதியுடன்; வழிகாட்டி அல்ல, தரவரிசை அல்ல. ஒவ்வொரு படியும் முழு கட்டுரைக்கு இட்டுச்செல்கிறது.',
+            'この順番で — 出典と確認日のある事実で、旅行ガイドやランキングではありません。各ステップは出典付きの全文にリンクします。',
+            '이 순서대로 — 출처와 검토 날짜가 있는 사실이며, 여행 가이드나 순위가 아닙니다. 각 단계는 출처가 명시된 전체 글로 연결됩니다.',
+            'ทำตามลำดับนี้ — ข้อเท็จจริงที่มีแหล่งอ้างอิงและวันที่ตรวจทาน ไม่ใช่ไกด์หรือการจัดอันดับ แต่ละขั้นลิงก์ไปยังบทความฉบับเต็มที่อ้างอิงแหล่งที่มา',
+            'Theo thứ tự này — dữ kiện có nguồn và ngày rà soát, không phải cẩm nang du lịch hay bảng xếp hạng. Mỗi bước dẫn đến bài viết đầy đủ, có trích nguồn.',
+            'Ikuti urutan ini — fakta bersumber dengan tanggal tinjauan, bukan panduan wisata atau peringkat. Setiap langkah menautkan ke artikel lengkap yang dikutip.',
+            'اتبع هذا الترتيب — حقائق موثّقة بتاريخ مراجعة، وليست دليلاً سياحياً أو تصنيفاً. كل خطوة تنقلك إلى المقال الكامل مع مصادره.',
+            'इस क्रम में चलें — स्रोत और समीक्षा-तिथि वाले तथ्य, कोई यात्रा-गाइड या रैंकिंग नहीं। हर कदम पूरे, स्रोत-सहित लेख से जुड़ता है।',
+            'Sigue este orden: hechos con fuentes y fecha de revisión, no una guía de viaje ni un ranking. Cada paso enlaza al artículo completo y citado.',
+            'Suivez cet ordre — des faits sourcés avec une date de révision, pas un guide touristique ni un classement. Chaque étape mène à l’article complet et sourcé.',
+          )}
+        </p>
+      </div>
+      <ol class="gp-list">
+        {resolved.map((a, i) => {
+          const href = localePath(`/${a.data.category}/${a.data.slug}`, locale);
+          const mc = (a.data.commonMisconception ?? [])[0];
+          return (
+            <li class="gp-step">
+              <span class="gp-n" aria-hidden="true">{i + 1}</span>
+              <div class="gp-body">
+                <a class="gp-title" href={href}>{a.data.title}</a>
+                <p class="gp-sum">{a.data.summary}</p>
+                {mc && (
+                  <p class="gp-mc">
+                    <span class="gp-tag tx">{mythLabel}</span>
+                    <span class="gp-x">{isolateRanges(mc.myth)}</span>
+                    <span class="gp-tag tk">{factLabel}</span>
+                    <span class="gp-ok">{isolateRanges(mc.fact)}</span>
+                  </p>
+                )}
+              </div>
+            </li>
+          );
+        })}
+      </ol>
+    </section>
+  )
+}
+
+<style>
+  .block { margin-top: 1.6rem; }
+  .gp-head { margin-bottom: 1.1rem; }
+  .gp-head h2 { margin: 0 0 0.35rem; font-size: 1.5rem; display: inline-flex; align-items: center; gap: 0.55rem; }
+  .gp-ico { font-size: 1.3rem; line-height: 1; }
+  .gp-lead { margin: 0; color: var(--muted); max-width: 62ch; font-size: 0.95rem; line-height: 1.5; }
+
+  .gp-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.6rem; }
+  .gp-step {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 0.9rem;
+    align-items: start;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-inline-start: 3px solid var(--gold);
+    border-radius: 12px;
+    padding: 0.85rem 1rem;
+  }
+  .gp-n {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.7rem;
+    height: 1.7rem;
+    border-radius: 999px;
+    background: color-mix(in srgb, var(--gold) 18%, transparent);
+    color: var(--gold);
+    font-weight: 800;
+    font-size: 0.9rem;
+    flex: none;
+    margin-top: 0.1rem;
+  }
+  .gp-body { min-width: 0; }
+  .gp-title {
+    display: inline-block;
+    font-family: var(--font-title);
+    font-weight: 700;
+    font-size: 1.05rem;
+    color: var(--ink);
+    text-decoration: none;
+    line-height: 1.3;
+  }
+  .gp-title:hover { color: var(--gold); text-decoration: underline; }
+  .gp-sum { margin: 0.25rem 0 0; color: var(--muted); font-size: 0.9rem; line-height: 1.45; }
+
+  .gp-mc {
+    margin: 0.55rem 0 0;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 0.3rem 0.5rem;
+    align-items: baseline;
+    font-size: 0.85rem;
+    line-height: 1.4;
+  }
+  .gp-tag {
+    justify-self: start;
+    font-weight: 700;
+    font-size: 0.68rem;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    padding: 0.08rem 0.42rem;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+  .gp-tag.tx { background: color-mix(in srgb, #f43f5e 18%, transparent); color: #f43f5e; }
+  .gp-tag.tk { background: color-mix(in srgb, #10b981 18%, transparent); color: #10b981; }
+  .gp-x { color: var(--muted); }
+  .gp-ok { color: var(--ink); }
+
+  @media (max-width: 480px) {
+    .gp-mc { grid-template-columns: 1fr; gap: 0.15rem; }
+    .gp-tag { margin-top: 0.2rem; }
+  }
+</style>
