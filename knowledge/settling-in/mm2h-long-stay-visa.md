@@ -18,6 +18,11 @@ keyTakeaways:
   - "Up to 50% of the fixed deposit can be withdrawn after approval, but only for buying the property, education, medical treatment or tourism activities — not for anything else"
   - "The one-off government participating fee (RM1,000–RM200,000 depending on tier) is a separate charge from the RM5,000 processing fee, and neither should be confused with what a licensed MM2H agent charges for its own services"
   - "MOTAC runs the programme and sets the tier requirements, but final immigration approval, endorsement and any appeal sit with the Ministry of Home Affairs through the Immigration Department (Jabatan Imigresen Malaysia) — two different authorities, two different jurisdictions"
+commonMisconception:
+  - myth: "MM2H is a fast track to permanent residence (PR) or Malaysian citizenship."
+    fact: "MM2H is a renewable long-stay visa, not PR and not citizenship. It lets you reside for the pass duration (5–20 years by tier) but grants no automatic path to PR or a passport — those are separate processes decided by the Immigration Department under the Ministry of Home Affairs, a different authority from MOTAC which runs MM2H."
+  - myth: "The fixed deposit is a fee you hand over to the government."
+    fact: "The fixed deposit stays in your own Malaysian bank account. After approval up to 50% may be withdrawn, but only for buying the required property, education, medical treatment or tourism — the government does not take or spend it."
 appliesTo: "Foreigners considering a long-stay retirement or residence visa in Malaysia, and anyone comparing MM2H tiers before approaching a licensed agent."
 
 verificationNeeded:

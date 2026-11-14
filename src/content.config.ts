@@ -266,6 +266,18 @@ const knowledge = defineCollection({
     faq: z
       .array(z.object({ q: z.string(), a: z.string() }))
       .default([]),
+    /**
+     * Common misconceptions — the "fact card" differentiator for newcomer/China-audience
+     * topics (growth-strategy-synthesis-2026-11.md P1). Each entry pairs a widely-held
+     * MYTH with the sourced FACT that corrects it, turning "knowing a label" into
+     * "understanding the system". Rendered as a prominent myth→fact callout (see
+     * ArticleView). Sensitive-adjacent topics must stay NEUTRAL + sourced (reviewer gate).
+     * Freshness-neutral: deliberately NOT in TRANSLATED_FIELDS, so adding it never flips
+     * translations stale — localise per file at your own pace.
+     */
+    commonMisconception: z
+      .array(z.object({ myth: z.string(), fact: z.string() }))
+      .default([]),
 
     // ---- title variants (HTS) ----------------------------------------
     /** ≤60 chars, head-term first. Falls back to `title`. */

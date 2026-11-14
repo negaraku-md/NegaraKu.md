@@ -238,6 +238,7 @@ const ICON = {
   answer: svg('<polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/>'),
   explanation: svg('<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/>'),
   faq: svg('<circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/>'),
+  myth: svg('<path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/>'),
   sources: svg('<path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>'),
   place: svg('<path d="M21 10c0 7-9 12-9 12s-9-5-9-12a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/>'),
   related: svg('<path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>'),
@@ -598,6 +599,25 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
                   <b>{L('Untuk siapa:', 'Who this applies to:', '适用对象：', 'யாருக்குப் பொருந்தும்:', '対象となる人：', '적용 대상:', 'ใช้กับใคร:', 'Áp dụng cho ai:', 'Untuk siapa:', 'لمن ينطبق هذا:', 'यह किन पर लागू होता है:', 'A quién aplica:', "Qui est concerné :")}</b> {iso(d.appliesTo)}
                 </p>
               )}
+            </div>
+          </section>
+        )
+      }
+
+      {
+        d.commonMisconception.length > 0 && (
+          <section class="layer l-myth">
+            <header>
+              <span class="sec-h"><span class="ico" set:html={ICON.myth} />{L('Salah faham biasa', 'Common misconceptions', '常见误解', 'பொதுவான தவறான புரிதல்கள்', 'よくある誤解', '흔한 오해', 'ความเข้าใจผิดที่พบบ่อย', 'Những hiểu lầm phổ biến', 'Kesalahpahaman umum', 'مفاهيم خاطئة شائعة', 'आम ग़लतफ़हमियाँ', 'Errores comunes', 'Idées reçues')}</span>
+              <span>{d.commonMisconception.length}</span>
+            </header>
+            <div class="lb myths">
+              {d.commonMisconception.map((m) => (
+                <div class="myth">
+                  <p class="myth-row myth-x"><span class="myth-tag tx">{L('Mitos', 'Myth', '误解', 'தவறான கருத்து', '誤解', '오해', 'เข้าใจผิด', 'Hiểu lầm', 'Mitos', 'اعتقاد خاطئ', 'ग़लतफ़हमी', 'Mito', 'Idée reçue')}</span><span>{iso(m.myth)}</span></p>
+                  <p class="myth-row myth-ok"><span class="myth-tag tk">{L('Fakta', 'Fact', '事实', 'உண்மை', '事実', '사실', 'ข้อเท็จจริง', 'Sự thật', 'Fakta', 'الحقيقة', 'तथ्य', 'Hecho', 'Réalité')}</span><span>{iso(m.fact)}</span></p>
+                </div>
+              ))}
             </div>
           </section>
         )
@@ -1244,6 +1264,23 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   .faqs summary::before { content: '＋ '; color: var(--gold); font-weight: 800; }
   .faqs details[open] summary::before { content: '－ '; }
   .faqs p { margin: 0.5rem 0 0.2rem; color: var(--ink-soft); font-size: 0.89rem; line-height: 1.6; }
+
+  /* Common misconceptions — myth→fact callout (the "fact card" differentiator). */
+  .myths { display: flex; flex-direction: column; gap: 0.6rem; }
+  .myth {
+    border: 1px solid var(--line); border-radius: 10px; background: var(--surface-2);
+    padding: 0.7rem 0.9rem; display: flex; flex-direction: column; gap: 0.4rem;
+    border-inline-start: 3px solid color-mix(in srgb, #10b981 55%, var(--line));
+  }
+  .myth-row { margin: 0; display: flex; gap: 0.55rem; align-items: baseline; font-size: 0.92rem; line-height: 1.55; }
+  .myth-tag {
+    flex: 0 0 auto; font-size: 0.66rem; font-weight: 800; letter-spacing: 0.04em; text-transform: uppercase;
+    padding: 0.12rem 0.45rem; border-radius: 999px; line-height: 1.5; margin-top: 0.08rem;
+  }
+  .myth-tag.tx { color: #ffb4b4; background: color-mix(in srgb, #f43f5e 15%, transparent); border: 1px solid color-mix(in srgb, #f43f5e 45%, transparent); }
+  .myth-tag.tk { color: #8ff0b8; background: color-mix(in srgb, #10b981 16%, transparent); border: 1px solid color-mix(in srgb, #10b981 45%, transparent); }
+  .myth-x span:last-child { color: var(--ink-soft); }
+  .myth-ok span:last-child { color: var(--ink); }
 
   .verify {
     border: 1px solid rgba(251, 191, 36, 0.4); background: rgba(251, 191, 36, 0.07);
