@@ -77,6 +77,12 @@ relations:
 related: ["minimum-wage-and-median-income", "inflation-cpi", "renting-a-home-tenancy", "fuel-subsidies"]
 keywords: ["cost of living Malaysia", "kos sara hidup Malaysia", "Malaysia household expenditure", "DOSM household expenditure survey", "Malaysia household income", "Malaysia inflation rate", "cost of living Kuala Lumpur", "Malaysia poverty line income", "Malaysia budget by state"]
 framework: data-reference
+stayFacts:
+  who: 'マレーシアでの生活費を予算立てする人、あるいは給与提示を実際の生活費と比較する人のためのものである。実際に使う金額は、どこに住むか——費用は州によって、また大都市と小さな町とで大きく異なる——と、外食と自炊の割合といった生活様式によって決まる。'
+  how: 'DOSMは世帯の支出を12のカテゴリーに分類している。最大は住宅・水道・電気・燃料（予算の約4分の1）で、次いでレストラン・宿泊、飲食料品、交通が続き、医療、教育、その他が残りに広がる。これらの割合は立地によって大きく変わるため、都市と町の比較が重要になる。'
+  cost: '全国一律の値札は存在しない。クアラルンプール、プトラジャヤ、セランゴールは独自の支出階層に位置し、東海岸やボルネオの州ははるかに少ない——最も支出の多い地域は最も少ない地域のおよそ2.6倍を支出している。調査やインフレが数値を動かし続けるため、固定の金額ではなく、DOSMのOpenDOSM「世帯所得・支出」ダッシュボードで現行の数値を確認すること。'
+  watch: '住宅・水道・電気・燃料は単一で最大の費用であり——他の何を数える前にも、平均的な世帯予算の約4分の1を占める——実際の家賃や住宅価格は州によって大きく異なるため、全国平均は大都市で支払いうる額を過小評価する。'
+  next: '検討している都市について、DOSMの州別支出の数値とOpenDOSMダッシュボードを調べること。給与がこれらの世帯費用とどう比較されるかについては、「マレーシアは外国人駐在員にとって手頃か？——公式統計が実際に語ること」及び「最低賃金と所得中央値」を参照。'
 ---
 
 ## 概要

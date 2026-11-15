@@ -85,6 +85,12 @@ relations:
 related: ["income-tax-in-malaysia", "individual-tax-residence", "personal-tax-rates", "which-tax-form", "epf-foreign-workers-malaysia"]
 keywords: ["expatriate tax Malaysia", "non-resident tax rate Malaysia 30", "60 day exemption Malaysia tax", "knowledge worker tax rate 15", "Returning Expert Programme tax", "Employment Pass tax residence"]
 framework: rules
+stayFacts:
+  who: 'マレーシアで所得を得る外国人向け——外国人駐在員の従業員、その雇用主、及び海外赴任から帰国するマレーシア人である。何を負担するかは、国籍やビザ区分ではなく、税務上の居住者資格に全面的に懸かっている。居住者である外国人駐在員はマレーシア人と全く同じように課税され、非居住者はそうではない。'
+  how: '居住者資格は、Income Tax Act s.7(1)のもとで基年ごとに再評定される日数計算である。おおむね、その年に182日以上滞在すれば居住者となり、年の途中の入国でも、翌年の連続する182日間の期間と連結できる場合がある。所管するのはLHDN（Lembaga Hasil Dalam Negeri Malaysia）であり、提出様式も定めている（非居住者はForm M／MT、居住者はForm BE／BT）。'
+  cost: '居住者は、減免とリベートの全項目が適用される累進税率で課税される。非居住者は、課税所得の1リンギットごとに減免もリベートもない一律税率を負担し、承認されたナレッジワーカー及び帰国専門家プログラム（Returning Expert Programme）の参加者には15%の優遇制度がある。課税対象は属地的——マレーシア源泉の所得である。現行の税率はLHDN（hasil.gov.my）で確認すること。'
+  watch: '居住者資格がすべてを左右する——あの一律税率は「外国人税率」ではなく「非居住者税率」である。非居住者に対する60日の雇用免税は、控除枠ではなく崖である。60日を超えれば、全額が遡って課税対象となる。'
+  next: 'まず自分の居住者資格の問題を確定させ、その上で申告する年の正しい様式と期限を確認し、居住者であると判明した場合は減免の一覧を確認すること。関連トピックの「マレーシアの所得税」及び「個人の税務上の居住者資格」を参照。'
 ---
 
 外国人駐在員としての赴任期間中で最も費用のかかる月は、たいてい到着した月であり、

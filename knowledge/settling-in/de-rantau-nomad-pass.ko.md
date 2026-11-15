@@ -71,6 +71,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "employment-pass", "professional-visit-pass"]
 keywords: ["DE Rantau", "digital nomad visa Malaysia", "nomad pass", "MDEC", "Professional Visit Pass", "remote work Malaysia"]
 framework: explainer
+stayFacts:
+  who: 'DE Rantau 노마드 패스는 해외 소재 고용주나 고객으로부터 소득을 얻는 외국인 디지털 노마드를 위한 말레이시아의 원격근무 비자로, IT 인재와 비IT 인재 갈래로 나뉩니다. 자격을 갖춘 원격근무자, 프리랜서, 독립계약자가 말레이시아에서 합법적으로 거주하며 일할 수 있게 하는 전문가 방문 패스(Professional Visit Pass)의 한 유형입니다.'
+  how: '말레이시아 디지털경제공사(MDEC)가 운영합니다. mdec.my/derantau에서 온라인으로 신청하고(말레이시아에 있을 필요 없음), 서명된 계약서, 급여명세서 또는 송장과 영어로 된 일치하는 은행 거래내역서로 소득을 증명하며, 패스는 3개월에서 12개월간 발급되고 추가 12개월 1회 갱신이 가능하여 총 최대 24개월까지입니다.'
+  cost: '두 개의 연 소득 하한선이 있는데, IT 인재는 더 낮고 비IT 인재는 더 높으며, 여기에 신청자 1인당 환불 불가 처리 수수료와 부양가족 1인당 더 작은 수수료(SST 포함)가 더해집니다; 현행 수치는 MDEC의 DE Rantau 패스 FAQ에서 확인하십시오.'
+  watch: '이는 전문가 방문 패스이지 취업 비자(Employment Pass)나 영주권이 아닙니다: 소득이 해외 소재 고용주나 고객에게서 나와야 하므로, 말레이시아에 등록된 회사의 급여대장에 오를 계획이라면 잘못된 패스입니다. 또한 반도 말레이시아와 라부안(Labuan)에서의 체류만 지원하며, 사바(Sabah)나 사라왁(Sarawak) 입국은 관광 방문으로 취급되고, 부양가족으로 합류하는 배우자는 이 패스로 일할 수 없습니다.'
+  next: '여권 유효기간이 14개월을 넘는지 확인하고, 영어로 된 소득 서류를 모으며, mdec.my/derantau에서 온라인 신청을 시작하되 먼저 공식 MDEC FAQ와 대조하여 현행 수수료와 규정을 확인하십시오. 이 나라가 처음이라면 「말레이시아 이주 첫걸음」을, 경로를 비교하려면 취업 비자(Employment Pass)를 참조하십시오.'
 ---
 
 말레이시아 밖에 소재한 고용주나 고객을 위해 원격으로 일한다면, 바로 그런 상황을 위해 만들어진 패스로 이 나라에 합법적으로 거주하며 일할 수 있습니다. 바로 **DE Rantau 노마드 패스**입니다.

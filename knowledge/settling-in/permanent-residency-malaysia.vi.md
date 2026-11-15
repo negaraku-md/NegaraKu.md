@@ -85,6 +85,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["permanent residency Malaysia", "MyPR", "red IC Malaysia", "Entry Permit Malaysia", "PR spouse Malaysian", "Immigration Act 1959/63", "Regulation 4 Immigration Regulations 1963"]
 framework: explainer
+stayFacts:
+  who: 'Công dân nước ngoài tìm kiếm cư trú vô thời hạn có thể theo đuổi thường trú (MyPR). Các lối đi chính là vợ/chồng của một công dân Malaysia, chuyên gia/chuyên viên có tay nghề, nhà đầu tư/cá nhân có giá trị tài sản ròng cao, con của công dân (trẻ vị thành niên), và các công dân nước ngoài khác được đánh giá theo thành tích.'
+  how: 'Cục Di trú (Jabatan Imigresen Malaysia) cấp thường trú qua một Giấy phép Nhập cư theo Mục 10 của Immigration Act 1959/63 và Quy tắc 4 của Immigration Regulations 1963; các lối đi gia đình dựa vào một người bảo lãnh Malaysia trong khi các lối đi tay nghề, nhà đầu tư và chung dựa trên một đánh giá theo thành tích, và đơn được nộp trực tiếp tại trụ sở Cục Di trú ở Putrajaya. Một đơn bị từ chối có thể được kháng nghị đến Bộ trưởng Bộ Nội vụ trong vòng 30 ngày.'
+  cost: 'Bản thân phí giấy phép khiêm tốn và cố định cho mỗi lần cấp, nhưng cam kết thực sự là những năm cư trú hợp pháp được duy trì, một khoản tiền gửi dài hạn đáng kể cho lối đi nhà đầu tư, việc thu thập giấy tờ và các lần gia hạn giấy phép lặp lại trong thời gian chờ; hãy xác nhận các yêu cầu hiện hành trên trang Giấy phép Nhập cư của Cục Di trú (imi.gov.my).'
+  watch: 'Thường trú được cấp một lần theo thành tích theo quyền quyết định của cục và có thể là một sự chờ đợi lâu, bất định; nó không phải là quốc tịch (người giữ giữ quốc tịch nước ngoài của mình, không thể bỏ phiếu, và thường trú về nguyên tắc có thể bị thu hồi) và nó không phải là MM2H, vốn chỉ là một giấy phép lưu trú dài hạn có thể gia hạn.'
+  next: 'Nếu ở lối đi vợ/chồng, hãy xác nhận các quy tắc đang có hiệu lực sau năm 2025 trực tiếp với Cục Di trú, giữ giấy phép thăm viếng xã hội dài hạn hiện có của bạn hợp lệ, và tập hợp giấy tờ gốc cùng bản sao có chứng thực sớm. Xem thêm Các bước đầu tiên khi chuyển đến Malaysia, và lưu ý cách thường trú so với giấy phép lưu trú dài hạn MM2H và quốc tịch Malaysia.'
 ---
 
 Một MyKad màu đỏ là vạch đích lặng lẽ cho rất nhiều cuộc đời đường dài tại Malaysia — người vợ nước ngoài đã gia hạn cùng một giấy phép thăm viếng suốt một thập kỷ, người kỹ sư không bao giờ muốn nộp thêm một đơn gia hạn giấy phép lao động nào nữa, người về hưu muốn thuộc về một nơi mãi mãi. Tấm thẻ đó, MyPR, là hình hài thực sự của thường trú Malaysia trong ví của bạn.

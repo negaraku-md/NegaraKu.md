@@ -86,6 +86,12 @@ relations:
 related: ["income-tax-in-malaysia", "individual-tax-residence", "personal-tax-rates", "which-tax-form", "epf-foreign-workers-malaysia"]
 keywords: ["cukai ekspatriat Malaysia", "kadar cukai bukan pemastautin Malaysia 30", "pengecualian 60 hari cukai Malaysia", "kadar cukai pekerja pengetahuan 15", "cukai Returning Expert Programme", "taraf mastautin cukai Employment Pass"]
 framework: rules
+stayFacts:
+  who: 'Warga asing yang memperoleh pendapatan di Malaysia — pekerja ekspatriat, majikan mereka, dan rakyat Malaysia yang pulang daripada penempatan luar negara. Apa yang anda bayar bergantung sepenuhnya kepada taraf mastautin cukai, bukan kewarganegaraan atau kelas visa: seorang ekspatriat pemastautin dikenakan cukai sama seperti seorang Malaysia, seorang bukan pemastautin tidak.'
+  how: 'Taraf mastautin ialah kiraan hari yang dinilai semula setiap tahun asas di bawah s.7(1) Akta Cukai Pendapatan: secara amnya, kehadiran selama 182 hari atau lebih dalam setahun menjadikan anda pemastautin, manakala ketibaan pada pertengahan tahun masih boleh terhubung kepada tempoh berterusan 182 hari pada tahun berikutnya. Ia ditadbir oleh LHDN (Lembaga Hasil Dalam Negeri Malaysia), yang juga menetapkan borang pemfailan (Borang M/MT bagi bukan pemastautin, Borang BE/BT bagi pemastautin).'
+  cost: 'Pemastautin dikenakan cukai pada skala berperingkat dengan senarai pelepasan dan rebat penuh; bukan pemastautin membayar kadar rata ke atas setiap ringgit pendapatan boleh cukai tanpa sebarang pelepasan dan tanpa sebarang rebat, dan rejim konsesi 15% wujud bagi pekerja pengetahuan yang diluluskan dan peserta Returning Expert Programme. Skopnya bersifat wilayah — pendapatan yang diperoleh di Malaysia. Sahkan kadar semasa di LHDN (hasil.gov.my).'
+  watch: 'Taraf mastautin menentukan segala-galanya — kadar rata yang sama itu ialah kadar bukan mastautin, bukan kadar warga asing. Pengecualian pekerjaan 60 hari bagi bukan pemastautin ialah satu tebing, bukan satu elaun: lebihi 60 hari dan keseluruhan jumlah menjadi boleh cukai secara retrospektif.'
+  next: 'Selesaikan soal taraf mastautin anda terlebih dahulu, kemudian sahkan borang dan tarikh akhir yang betul bagi tahun yang anda failkan, dan semak senarai pelepasan jika anda ternyata pemastautin. Lihat topik berkaitan Cukai Pendapatan di Malaysia dan Taraf Mastautin Cukai Individu.'
 ---
 
 Bulan yang paling mahal dalam satu penempatan ekspatriat biasanya ialah bulan

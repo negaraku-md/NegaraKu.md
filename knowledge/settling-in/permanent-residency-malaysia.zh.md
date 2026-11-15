@@ -85,6 +85,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["permanent residency Malaysia", "MyPR", "red IC Malaysia", "Entry Permit Malaysia", "PR spouse Malaysian", "Immigration Act 1959/63", "Regulation 4 Immigration Regulations 1963"]
 framework: explainer
+stayFacts:
+  who: '寻求无限期居留的外国公民可以申请永久居留权（MyPR）。主要途径为：马来西亚公民的配偶、技术专业人才／专家、投资者／高净值人士、公民的子女（未成年人），以及按择优评审的其他外国公民。'
+  how: '移民局（Jabatan Imigresen Malaysia）依 Immigration Act 1959/63 第 10 条及 Immigration Regulations 1963 第 4 条，透过入境准证（Entry Permit）授予永久居留权；家庭途径依靠马来西亚担保人，而技术人才、投资者及一般途径则取决于择优评审，申请须由本人亲自到布城（Putrajaya）的移民局总部提交。申请被拒后，可在 30 天内向内政部长（Minister of Home Affairs）提出上诉。'
+  cost: '准证费用本身不高，且每次签发均为固定收费，但真正的承诺在于多年维持合法居留、投资者途径所需的一笔可观长期存款、搜集文件，以及等待期间反复续签准证；请在移民局（imi.gov.my）的入境准证页面上确认现行要求。'
+  watch: '永久居留权由移民局酌情凭资格一次签发，等待过程可能漫长而不确定；它不是公民身份（持有者保留其外国国籍，不能投票，且永久居留权原则上可被撤销），也不是 MM2H——后者只是一种可续签的长期居留准证。'
+  next: '若走配偶途径，请直接向移民局确认 2025 年之后现行有效的规则，保持你现有的长期社交探访准证有效，并及早备齐正本连同经核证的副本。另见《移居马来西亚的第一步》，并留意永久居留权与 MM2H 长期居留准证及马来西亚公民身份之间的区别。'
 ---
 
 对许多在马来西亚长期打拼的人来说，一张红色的马来西亚身份证是那道静悄悄的终点线——续了十年同一张探访准证的外籍妻子、再也不想申请工作准证延期的工程师、想要有个永久归属之地的退休人士。那张卡，也就是MyPR，正是马来西亚永久居留权在你钱包里的真实样子。

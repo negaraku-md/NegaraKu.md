@@ -86,6 +86,12 @@ relations:
 related: ["income-tax-in-malaysia", "individual-tax-residence", "personal-tax-rates", "which-tax-form", "epf-foreign-workers-malaysia"]
 keywords: ["cukai ekspatriat Malaysia", "kadar cukai bukan pemastautin Malaysia 30", "pengecualian 60 hari cukai Malaysia", "kadar cukai pekerja pengetahuan 15", "cukai Returning Expert Programme", "taraf mastautin cukai Employment Pass"]
 framework: rules
+stayFacts:
+  who: 'Warga asing yang memperoleh pendapatan di Malaysia — pekerja ekspatriat, pemberi kerja mereka, dan warga Malaysia yang pulang dari penempatan luar negeri. Apa yang Anda bayar sepenuhnya bergantung pada status domisili pajak, bukan kewarganegaraan atau kelas visa: seorang ekspatriat domisili dikenakan pajak persis seperti warga Malaysia, seorang bukan domisili tidak.'
+  how: 'Status domisili adalah hitungan hari yang dinilai ulang setiap tahun dasar di bawah s.7(1) Income Tax Act: secara umum, kehadiran 182 hari atau lebih dalam setahun menjadikan Anda domisili, sementara kedatangan pertengahan tahun masih dapat terpaut pada suatu jangka 182 hari berturut-turut dalam tahun berikutnya. Ia dikelola oleh LHDN (Lembaga Hasil Dalam Negeri Malaysia), yang juga menetapkan formulir pengajuan (Borang M/MT bagi bukan domisili, Borang BE/BT bagi domisili).'
+  cost: 'Domisili dikenakan pajak pada skala bertingkat dengan daftar keringanan dan rebat penuh; bukan domisili membayar tarif rata atas setiap ringgit pendapatan kena pajak tanpa keringanan apa pun dan tanpa rebat apa pun, dan rezim konsesi 15% tersedia bagi pekerja pengetahuan (knowledge worker) yang disetujui dan peserta Returning Expert Programme. Lingkupnya bersifat territorial — pendapatan yang bersumber dari Malaysia. Pastikan tarif terkini di LHDN (hasil.gov.my).'
+  watch: 'Status domisili menentukan segalanya — tarif rata yang sama adalah tarif bukan domisili, bukan tarif orang asing. Pengecualian ketenagakerjaan 60 hari bagi bukan domisili adalah suatu tebing curam, bukan suatu tunjangan: lewati 60 hari dan keseluruhan jumlah itu menjadi kena pajak secara retrospektif.'
+  next: 'Selesaikan persoalan status domisili Anda terlebih dahulu, lalu pastikan formulir dan tenggat yang benar bagi tahun yang Anda ajukan, dan periksa daftar keringanan jika Anda ternyata domisili. Lihat topik terkait Pajak Penghasilan di Malaysia dan Status Domisili Pajak Individu.'
 ---
 
 Bulan yang paling mahal dalam suatu penempatan ekspatriat biasanya adalah bulan

@@ -78,6 +78,12 @@ relations:
 related: ["minimum-wage-and-median-income", "inflation-cpi", "renting-a-home-tenancy", "fuel-subsidies"]
 keywords: ["cost of living Malaysia", "kos sara hidup Malaysia", "Malaysia household expenditure", "DOSM household expenditure survey", "Malaysia household income", "Malaysia inflation rate", "cost of living Kuala Lumpur", "Malaysia poverty line income", "Malaysia budget by state"]
 framework: data-reference
+stayFacts:
+  who: 'Giúp bất kỳ ai đang lập ngân sách cho Malaysia hoặc so sánh một lời mời lương với chi phí sinh hoạt thực tế. Những gì bạn thực sự chi tiêu bị chi phối bởi nơi bạn sống — chi phí chênh lệch rõ rệt theo tiểu bang và giữa các thành phố lớn với các thị trấn nhỏ hơn — và bởi lối sống, như bạn ăn ngoài nhiều so với nấu ăn ở nhà bao nhiêu.'
+  how: 'DOSM nhóm chi tiêu hộ gia đình thành mười hai nhóm: nhà ở, nước, điện và nhiên liệu là nhóm lớn nhất (gần một phần tư ngân sách), tiếp theo là nhà hàng và lưu trú, thực phẩm mua cho gia đình, và giao thông, với chăm sóc sức khỏe, giáo dục và phần còn lại trải ra trên phần dư. Các tỷ trọng này dịch chuyển rõ rệt theo địa điểm, nên các so sánh thành phố với thị trấn là quan trọng.'
+  cost: 'Không có một mức giá quốc gia duy nhất. Kuala Lumpur, Putrajaya và Selangor nằm ở một tầng chi tiêu riêng của họ, trong khi các tiểu bang bờ đông và Borneo chi tiêu ít hơn nhiều — lãnh thổ chi tiêu cao nhất chi nhiều hơn lãnh thổ thấp nhất khoảng 2.6 lần. Vì các cuộc khảo sát và lạm phát liên tục làm thay đổi các con số, hãy xác nhận các con số hiện hành đối chiếu với bảng điều khiển Thu nhập & Chi tiêu Hộ gia đình trên OpenDOSM của DOSM thay vì bất kỳ số tiền cố định nào.'
+  watch: 'Nhà ở, nước, điện và nhiên liệu là khoản chi đơn lẻ lớn nhất — gần một phần tư ngân sách hộ gia đình trung bình trước khi bất cứ thứ gì khác được tính — và giá thuê cùng giá nhà thực tế chênh lệch rõ rệt theo tiểu bang, nên một mức trung bình quốc gia đánh giá thấp những gì bạn có thể phải trả ở một thành phố lớn.'
+  next: 'Hãy tra cứu các con số chi tiêu cấp tiểu bang của DOSM và bảng điều khiển OpenDOSM cho thành phố bạn đang cân nhắc. Xem Malaysia có phải chăng với người nước ngoài không? Các con số chính thức thực sự nói gì và Lương tối thiểu so với Thu nhập trung vị để biết lương so sánh với các chi phí hộ gia đình này như thế nào.'
 ---
 
 ## Nhìn tổng quan

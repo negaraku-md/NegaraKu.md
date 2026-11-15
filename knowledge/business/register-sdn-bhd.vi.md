@@ -138,6 +138,12 @@ keywords:
   - "how to open company Malaysia"
   - "CRS SSM4U registration"
 framework: how-to
+stayFacts:
+  who: 'Bất kỳ ai cũng có thể đăng ký một Sdn Bhd (Sendirian Berhad, một công ty tư nhân trách nhiệm hữu hạn theo cổ phần): bạn cần ít nhất một cổ đông và ít nhất một giám đốc. Ở hầu hết các ngành, người nước ngoài có thể sở hữu 100% cổ phần — sở hữu cổ phần nước ngoài toàn phần là quy tắc chung, với các hạn chế mang tính theo ngành chứ không phải chung.'
+  how: 'Một Sdn Bhd được thành lập bằng cách nộp một đơn với SSM thông qua Corporate Registry System (CRS), truy cập qua cổng SSM4U (đã thay thế cổng MyCoID trước đây). Bạn phải có ít nhất một giám đốc thường trú ở Malaysia (cư trú, không phải quốc tịch), một cổ đông (không cần thường trú), và một trụ sở đã đăng ký, và bạn phải bổ nhiệm một thư ký công ty được cấp phép trong vòng 30 ngày kể từ khi thành lập.'
+  cost: 'Hãy trông đợi lệ phí thành lập theo luật của SSM cộng một phí chia sẻ dữ liệu công ty, một khoản phí giữ chỗ thư ký công ty hằng năm, và các chi phí tuân thủ liên tục (kế toán, thuế, và kiểm toán trừ khi bạn đủ điều kiện được miễn); việc giữ chỗ tên là một khoản tùy chọn thêm. Vốn góp về mặt pháp lý có thể bắt đầu ở RM1, nhưng các ngân hàng và cơ quan di trú xem nó như một tín hiệu về thực chất, nên hãy dự trù cao hơn nếu bạn cần giấy phép lao động hoặc sự tín nhiệm. Hãy xác nhận các con số hiện hành trên Bảng Phí đã công bố của SSM.'
+  watch: 'Sự hiểu lầm phổ biến nhất là một đối tác địa phương là bắt buộc — thường thì không; cái bắt buộc là một giám đốc thường trú. Lưu ý rằng sự cởi mở về sở hữu nước ngoài mang tính theo ngành, một thư ký công ty được cấp phép là bắt buộc trong vòng 30 ngày, và vốn góp RM1, dù hợp pháp, đọc là mỏng đối với các ngân hàng và cơ quan cấp phép hoặc di trú.'
+  next: 'Hãy thu xếp xong tên, giám đốc, cổ đông và cơ cấu cổ phần của bạn, rồi nộp đơn thành lập qua cổng SSM4U — và bổ nhiệm thư ký công ty của bạn trong cửa sổ 30 ngày. Xem thêm Một Sdn Bhd là gì, Bổ nhiệm một thư ký công ty, và phần so sánh hộ kinh doanh cá thể và Sdn Bhd.'
 ---
 
 Hầu hết các nhà sáng lập dành hàng tuần lo lắng về việc thành lập. Nó thường là việc dễ nhất

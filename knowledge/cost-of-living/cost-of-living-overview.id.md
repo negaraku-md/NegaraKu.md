@@ -78,6 +78,12 @@ relations:
 related: ["minimum-wage-and-median-income", "inflation-cpi", "renting-a-home-tenancy", "fuel-subsidies"]
 keywords: ["cost of living Malaysia", "kos sara hidup Malaysia", "Malaysia household expenditure", "DOSM household expenditure survey", "Malaysia household income", "Malaysia inflation rate", "cost of living Kuala Lumpur", "Malaysia poverty line income", "Malaysia budget by state"]
 framework: data-reference
+stayFacts:
+  who: 'Membantu siapa saja yang membuat anggaran untuk Malaysia atau membandingkan tawaran gaji terhadap biaya hidup nyata. Apa yang sebenarnya Anda belanjakan ditentukan oleh di mana Anda tinggal — biaya berbeda tajam menurut negara bagian dan antara kota besar dengan kota yang lebih kecil — dan oleh gaya hidup, seperti seberapa sering Anda makan di luar dibandingkan memasak di rumah.'
+  how: 'DOSM mengelompokkan pengeluaran rumah tangga menjadi dua belas kategori: perumahan, air, listrik, dan bahan bakar adalah yang terbesar (hampir seperempat dari anggaran), diikuti restoran dan penginapan, bahan makanan, dan transportasi, dengan perawatan kesehatan, pendidikan, dan selebihnya tersebar di sisanya. Bagian-bagian ini bergeser tajam menurut lokasi, jadi perbandingan kota dibandingkan kota kecil penting.'
+  cost: 'Tidak ada satu label harga nasional tunggal. Kuala Lumpur, Putrajaya, dan Selangor berada dalam kelas pengeluaran tersendiri, sementara negara bagian pantai timur dan Borneo membelanjakan jauh lebih sedikit — wilayah berpengeluaran tertinggi membelanjakan kira-kira 2.6 kali lipat dibandingkan yang terendah. Karena survei dan inflasi terus menggeser angka, pastikan angka terkini terhadap dasbor Pendapatan & Pengeluaran Rumah Tangga OpenDOSM dari DOSM alih-alih jumlah yang tetap.'
+  watch: 'Perumahan, air, listrik, dan bahan bakar adalah biaya tunggal terbesar — hampir seperempat dari anggaran rumah tangga rata-rata sebelum apa pun lainnya dihitung — dan sewa serta harga rumah sebenarnya berbeda tajam menurut negara bagian, jadi rata-rata nasional meremehkan apa yang mungkin Anda bayar di kota besar.'
+  next: 'Cari angka pengeluaran tingkat negara bagian DOSM dan dasbor OpenDOSM untuk kota yang Anda pertimbangkan. Lihat Apakah Malaysia Terjangkau untuk Ekspatriat? Apa yang Sebenarnya Ditunjukkan oleh Angka Resmi dan Gaji Minimum vs Pendapatan Median untuk bagaimana gaji berbanding terhadap biaya rumah tangga ini.'
 ---
 
 ## Sekilas pandang

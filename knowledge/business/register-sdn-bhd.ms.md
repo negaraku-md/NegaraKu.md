@@ -133,6 +133,12 @@ keywords:
   - "how to open company Malaysia"
   - "CRS SSM4U registration"
 framework: how-to
+stayFacts:
+  who: 'Sesiapa sahaja boleh mendaftarkan Sdn Bhd (Sendirian Berhad, sebuah syarikat persendirian yang dihadkan oleh saham): anda memerlukan sekurang-kurangnya seorang pemegang saham dan sekurang-kurangnya seorang pengarah. Dalam kebanyakan sektor, warga asing boleh memiliki 100% saham — pemegangan saham asing penuh ialah peraturan umum, dengan sekatan yang khusus mengikut sektor dan bukannya umum.'
+  how: 'Sebuah Sdn Bhd diperbadankan dengan mengemukakan permohonan kepada SSM melalui Sistem Daftar Korporat (CRS), yang diakses menerusi portal SSM4U (yang menggantikan portal MyCoID terdahulu). Anda mesti mempunyai sekurang-kurangnya seorang pengarah yang lazimnya bermastautin di Malaysia (kemastautinan, bukan kewarganegaraan), seorang pemegang saham (yang tidak semestinya bermastautin), dan sebuah pejabat berdaftar, dan anda mesti melantik seorang setiausaha syarikat berlesen dalam tempoh 30 hari selepas pemerbadanan.'
+  cost: 'Jangkakan yuran pemerbadanan berkanun SSM serta yuran perkongsian data syarikat, bayaran penahan setiausaha syarikat tahunan, dan kos pematuhan berterusan (perakaunan, cukai, dan audit melainkan anda layak mendapat pengecualian); tempahan nama ialah tambahan pilihan. Modal berbayar boleh secara sah bermula pada RM1, tetapi bank dan imigresen melihatnya sebagai isyarat keteguhan syarikat, jadi rancang lebih tinggi jika anda memerlukan pas kerja atau kredibiliti. Sahkan angka semasa pada Jadual Yuran yang diterbitkan SSM.'
+  watch: 'Salah tanggapan yang paling biasa ialah rakan kongsi tempatan diperlukan — lazimnya tidak; apa yang diperlukan ialah seorang pengarah bermastautin. Perhatikan bahawa keterbukaan pemilikan asing adalah khusus mengikut sektor, setiausaha syarikat berlesen adalah wajib dalam tempoh 30 hari, dan modal berbayar RM1, walaupun sah di sisi undang-undang, kelihatan tipis kepada bank serta pihak berkuasa pelesenan atau imigresen.'
+  next: 'Tetapkan nama, pengarah, pemegang saham dan struktur saham anda, kemudian kemukakan permohonan pemerbadanan menerusi portal SSM4U — dan lantik setiausaha syarikat anda dalam tempoh 30 hari. Lihat juga Apa itu Sdn Bhd, Melantik setiausaha syarikat, dan perbandingan pemilikan tunggal dengan Sdn Bhd.'
 ---
 
 Kebanyakan pengasas menghabiskan berminggu-minggu bimbang tentang pemerbadanan.

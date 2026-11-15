@@ -86,6 +86,12 @@ relations:
 related: ["income-tax-in-malaysia", "individual-tax-residence", "personal-tax-rates", "which-tax-form", "epf-foreign-workers-malaysia"]
 keywords: ["expatriate tax Malaysia", "non-resident tax rate Malaysia 30", "60 day exemption Malaysia tax", "knowledge worker tax rate 15", "Returning Expert Programme tax", "Employment Pass tax residence"]
 framework: rules
+stayFacts:
+  who: '在马来西亚赚取收入的外国人——外籍雇员、他们的雇主，以及从海外岗位归国的马来西亚人。你缴多少税完全取决于税务居民身份，而非国籍或签证类别：居民外籍人士的课税方式与马来西亚人完全一样，非居民则不然。'
+  how: '居民身份是依 Income Tax Act 的 s.7(1) 按天数计算、并在每一个基年重新评定的：大致而言，当年在场 182 天或以上即为居民，而年中抵达者仍可与下一年一段连续 182 天的期间相衔接。它由 LHDN（Lembaga Hasil Dalam Negeri Malaysia）管理，并由其订定报税表格（非居民用 Form M/MT，居民用 Form BE/BT）。'
+  cost: '居民按累进税阶课税，并享有全部减免与回扣清单；非居民则就每一令吉应课税收入按统一税率缴税，没有任何减免，也没有回扣，而获批的知识型员工与归国专才计划参与者则享有 15% 的优惠税制。课税范围属地——即源自马来西亚的收入。请在 LHDN（hasil.gov.my）上确认现行税率。'
+  watch: '居民身份决定一切——那个统一税率是非居民税率，不是外国人税率。非居民的 60 天受雇豁免是一道悬崖，不是一份免税额度：一旦超过 60 天，全额都会被追溯课税。'
+  next: '先把居民身份的问题定下来，然后确认你要申报的那一年用哪份表格、截止日是哪天；如果结果你终究是居民，再去查那份减免清单。参见姊妹主题《马来西亚所得税》与《个人税务居民身份》。'
 ---
 
 一趟外派任务里最贵的一个月，通常是抵达的那个月，而当下它一分钱都不花。7 月 15 日

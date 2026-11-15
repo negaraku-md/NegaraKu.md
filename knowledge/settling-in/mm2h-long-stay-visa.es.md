@@ -91,6 +91,12 @@ faq:
   - q: ¿Quién aprueba realmente una solicitud de MM2H — MOTAC o Inmigración?
     a: Ambos, en funciones distintas. MOTAC gestiona el programa y fija los requisitos de cada nivel, pero la aprobación migratoria final, el endoso del pase y cualquier recurso corresponden al Ministerio del Interior a través del Departamento de Inmigración (Jabatan Imigresen Malaysia). Las solicitudes las presenta un agente MM2H autorizado a través del Centro de Ventanilla Única (One Stop Centre). Así que contacta a MOTAC para las preguntas sobre requisitos de nivel y a Inmigración para los asuntos de aprobación o endoso — dos autoridades, dos jurisdicciones.
 framework: explainer
+stayFacts:
+  who: 'Extranjeros que quieren un visado de residencia de estancia prolongada renovable — no un visado de trabajo, ni residencia permanente ni ciudadanía. Cuatro niveles (Platinum, Gold, Silver y un nivel de Zona Económica Especial/Zona Financiera Especial) clasifican a los solicitantes según el tamaño del compromiso financiero que pueden asumir.'
+  how: 'Gestionado por el Ministerio de Turismo, Arte y Cultura (MOTAC), que fija las condiciones de cada nivel. Las solicitudes se presentan a través de un agente MM2H autorizado mediante la Ventanilla Única (One Stop Centre), y el Departamento de Inmigración — bajo el Ministerio del Interior — da la aprobación final y endosa el pase.'
+  cost: 'Cada nivel exige un depósito fijo mantenido en un banco malasio más una compra obligatoria de propiedad residencial, además de las tarifas gubernamentales únicas de participación y de tramitación. Los importes difieren notablemente según el nivel y se han revisado más de una vez — confirma siempre las cifras vigentes en mm2h.gov.my antes de fiarte de ellas.'
+  watch: 'El MM2H no es residencia permanente (PR) ni ciudadanía y (salvo en el nivel Platinum) no permite trabajar ni llevar un negocio. La propiedad exigida no puede venderse durante 10 años, y los solicitantes menores de 50 años deben estar presentes en Malasia 90 días acumulados al año.'
+  next: 'Confirma los requisitos vigentes de cada nivel en mm2h.gov.my y luego secuencia la mudanza más amplia con Mudarse a Malasia: los primeros pasos. Si trabajar o llevar un negocio importa, compara el MM2H con el Employment Pass y el PVIP antes de comprometerte con un nivel.'
 ---
 
 Busque «cuánto dura un pase Silver de MM2H» y encontrará guías que citan con total

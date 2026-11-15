@@ -78,6 +78,12 @@ relations:
 related: ["minimum-wage-and-median-income", "inflation-cpi", "renting-a-home-tenancy", "fuel-subsidies"]
 keywords: ["cost of living Malaysia", "kos sara hidup Malaysia", "Malaysia household expenditure", "DOSM household expenditure survey", "Malaysia household income", "Malaysia inflation rate", "cost of living Kuala Lumpur", "Malaysia poverty line income", "Malaysia budget by state"]
 framework: data-reference
+stayFacts:
+  who: 'Membantu sesiapa sahaja yang membuat belanjawan untuk Malaysia atau membandingkan tawaran gaji dengan kos sara hidup sebenar. Apa yang anda sebenarnya belanjakan ditentukan oleh tempat tinggal anda — kos berbeza dengan ketara mengikut negeri dan antara bandar besar dengan pekan kecil — dan oleh gaya hidup, seperti berapa kerap anda makan di luar berbanding memasak di rumah.'
+  how: 'DOSM mengumpulkan perbelanjaan isi rumah kepada dua belas kategori: perumahan, air, elektrik dan bahan api ialah yang terbesar (hampir satu perempat daripada belanjawan), diikuti oleh restoran dan penginapan, barangan runcit, dan pengangkutan, dengan penjagaan kesihatan, pendidikan dan selebihnya tersebar merentasi bakinya. Bahagian-bahagian ini berubah dengan ketara mengikut lokasi, jadi perbandingan bandar berbanding pekan adalah penting.'
+  cost: 'Tiada satu label harga kebangsaan tunggal. Kuala Lumpur, Putrajaya dan Selangor berada dalam peringkat perbelanjaan tersendiri, manakala negeri-negeri pantai timur dan Borneo berbelanja jauh lebih sedikit — wilayah yang berbelanja paling tinggi berbelanja lebih kira-kira 2.6 berbanding satu daripada yang paling rendah. Oleh sebab kaji selidik dan inflasi sentiasa menggerakkan angka, sahkan angka semasa berbanding papan pemuka OpenDOSM Household Income & Expenditure DOSM dan bukannya mana-mana jumlah tetap.'
+  watch: 'Perumahan, air, elektrik dan bahan api ialah kos tunggal terbesar — hampir satu perempat daripada belanjawan purata isi rumah sebelum apa-apa lain dikira — dan sewa serta harga rumah sebenar berbeza dengan ketara mengikut negeri, jadi purata kebangsaan memandang rendah apa yang mungkin anda bayar di sesebuah bandar besar.'
+  next: 'Cari angka perbelanjaan peringkat negeri DOSM dan papan pemuka OpenDOSM bagi bandar yang anda pertimbangkan. Lihat Adakah Malaysia Mampu Milik untuk Ekspatriat? Apa yang Sebenarnya Dikatakan oleh Angka Rasmi dan Gaji Minimum berbanding Pendapatan Median untuk melihat bagaimana gaji berbanding kos isi rumah ini.'
 ---
 
 ## Sekilas pandang

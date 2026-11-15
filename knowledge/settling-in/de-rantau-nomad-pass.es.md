@@ -71,6 +71,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "employment-pass", "professional-visit-pass"]
 keywords: ["DE Rantau", "visado de nómada digital Malasia", "nomad pass", "MDEC", "Professional Visit Pass", "trabajo remoto Malasia"]
 framework: explainer
+stayFacts:
+  who: 'El DE Rantau Nomad Pass es el visado de trabajo remoto de Malasia para nómadas digitales extranjeros que obtienen ingresos de empleadores o clientes radicados en el extranjero, dividido en las vías de talento tecnológico (Tech Talent) y talento no tecnológico (Non-Tech Talent). Es un tipo de Pase de Visita Profesional que permite a los trabajadores remotos, autónomos y contratistas independientes que cumplen los requisitos vivir y trabajar legalmente en Malasia.'
+  how: 'Lo gestiona la Corporación de Economía Digital de Malasia (MDEC). Solicitas en línea en mdec.my/derantau (no necesitas estar en Malasia), acreditas los ingresos con contratos firmados, nóminas o facturas y extractos bancarios coincidentes en inglés, y el pase se expide por 3 a 12 meses, renovable una vez por otros 12 meses, hasta un máximo de 24 meses en total.'
+  cost: 'Hay dos pisos de ingresos anuales, uno más bajo para el talento tecnológico y otro más alto para el talento no tecnológico, más una tasa de tramitación no reembolsable por solicitante y otra menor por dependiente (incluido el SST); confirma las cifras vigentes en las preguntas frecuentes del DE Rantau Pass de MDEC.'
+  watch: 'Es un Pase de Visita Profesional, no un Employment Pass ni una residencia permanente: tus ingresos deben provenir de empleadores o clientes radicados en el extranjero, así que si piensas incorporarte a la nómina de una empresa registrada en Malasia es el pase equivocado. Además facilita la estancia solo en Malasia Peninsular y Labuan, y la entrada a Sabah o Sarawak se trata como una visita de turista, y un cónyuge que se una como dependiente no puede trabajar bajo el pase.'
+  next: 'Comprueba que tu pasaporte tenga más de 14 meses de validez, reúne tus documentos de ingresos en inglés e inicia la solicitud en línea en mdec.my/derantau, confirmando primero las tasas y reglas vigentes frente a las preguntas frecuentes oficiales de MDEC. Si eres nuevo en el país, consulta Mudarse a Malasia: los primeros pasos; para comparar vías, consulta el Employment Pass.'
 ---
 
 Si trabaja a distancia para un empleador o clientes radicados fuera de Malasia, puede vivir y trabajar legalmente en el país bajo un pase diseñado justo para eso: el **DE Rantau Nomad Pass**.

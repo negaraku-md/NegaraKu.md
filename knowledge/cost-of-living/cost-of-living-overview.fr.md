@@ -78,6 +78,12 @@ relations:
 related: ["minimum-wage-and-median-income", "inflation-cpi", "renting-a-home-tenancy", "fuel-subsidies"]
 keywords: ["cost of living Malaysia", "kos sara hidup Malaysia", "Malaysia household expenditure", "DOSM household expenditure survey", "Malaysia household income", "Malaysia inflation rate", "cost of living Kuala Lumpur", "Malaysia poverty line income", "Malaysia budget by state"]
 framework: data-reference
+stayFacts:
+  who: 'Aide toute personne qui établit un budget pour la Malaisie ou compare une offre salariale au coût réel de la vie. Ce que vous dépensez réellement dépend de l''endroit où vous vivez — les coûts varient fortement selon l''État et entre les grandes villes et les villes plus petites — et du mode de vie, par exemple la part de repas au restaurant par rapport à la cuisine à la maison.'
+  how: 'DOSM regroupe les dépenses des ménages en douze catégories : le logement, l''eau, l''électricité et les combustibles forment la plus grande (près d''un quart du budget), suivis des restaurants et de l''hébergement, des produits alimentaires et des transports, la santé, l''éducation et le reste se répartissant sur le solde. Ces parts varient fortement selon le lieu, de sorte que les comparaisons ville-contre-village comptent.'
+  cost: 'Il n''existe pas d''étiquette de prix nationale unique. Kuala Lumpur, Putrajaya et le Selangor forment une catégorie de dépenses à part, tandis que les États de la côte est et de Bornéo dépensent bien moins — le territoire qui dépense le plus devance celui qui dépense le moins dans un rapport d''environ 2,6 pour un. Comme les enquêtes et l''inflation déplacent sans cesse les chiffres, confirmez les chiffres en vigueur face au tableau de bord Revenus et dépenses des ménages d''OpenDOSM de DOSM plutôt qu''à un montant fixe.'
+  watch: 'Le logement, l''eau, l''électricité et les combustibles constituent le plus gros coût unique — près d''un quart du budget moyen des ménages avant tout autre poste — et les loyers et prix des logements réels varient fortement selon l''État, de sorte qu''une moyenne nationale sous-estime ce que vous pourriez payer dans une grande ville.'
+  next: 'Consultez les chiffres de dépenses de DOSM au niveau de l''État et le tableau de bord OpenDOSM pour la ville que vous envisagez. Voyez La Malaisie est-elle abordable pour les expatriés ? Ce que disent réellement les chiffres officiels et Salaire minimum contre revenu médian pour savoir comment la rémunération se compare à ces coûts des ménages.'
 ---
 
 ## En un coup d'œil

@@ -138,6 +138,12 @@ keywords:
   - "how to open company Malaysia"
   - "CRS SSM4U registration"
 framework: how-to
+stayFacts:
+  who: 'Cualquiera puede registrar una Sdn Bhd (Sendirian Berhad, una sociedad privada limitada por acciones): necesitas al menos un accionista y al menos un director. En la mayoría de los sectores los extranjeros pueden poseer el 100% de las acciones — la participación extranjera total es la regla general, y las restricciones son específicas del sector más que generales.'
+  how: 'Una Sdn Bhd se constituye presentando una solicitud ante la SSM a través del Sistema de Registro Corporativo (CRS), al que se accede mediante el portal SSM4U (que sustituyó al antiguo portal MyCoID). Debes tener al menos un director que resida habitualmente en Malasia (residencia, no nacionalidad), un accionista (que no tiene que ser residente) y un domicilio social, y debes nombrar un secretario de sociedad con licencia dentro de los 30 días de la constitución.'
+  cost: 'Cuenta con la tarifa estatutaria de constitución de la SSM más una tarifa de intercambio de datos de la empresa, un retainer anual del secretario de sociedad y los costes de cumplimiento continuos (contabilidad, impuestos y auditoría salvo que reúnas los requisitos para la exención); la reserva de nombre es un extra opcional. El capital desembolsado puede empezar legalmente en RM1, pero los bancos y la inmigración lo tratan como una señal de sustancia, así que planifica más alto si necesitas pases de trabajo o credibilidad. Confirma las cifras vigentes en la Tabla de Tarifas publicada por la SSM.'
+  watch: 'El malentendido más común es que se requiere un socio local — normalmente no es así; lo que se requiere es un director residente. Ten en cuenta que la apertura a la propiedad extranjera es específica del sector, que un secretario de sociedad con licencia es obligatorio dentro de los 30 días, y que RM1 de capital desembolsado, aunque legal, les parece endeble a los bancos y a las autoridades de licencias o de inmigración.'
+  next: 'Resuelve tu nombre, director, accionista y estructura de acciones, luego presenta la solicitud de constitución a través del portal SSM4U — y nombra a tu secretario de sociedad dentro de la ventana de 30 días. Consulta también Qué es una Sdn Bhd, Nombrar un secretario de sociedad, y la comparación entre el negocio unipersonal y la Sdn Bhd.'
 ---
 
 La mayoría de los fundadores pasan semanas preocupándose por la constitución. Suele ser lo más

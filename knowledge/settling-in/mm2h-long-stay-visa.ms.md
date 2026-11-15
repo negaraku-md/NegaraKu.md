@@ -91,6 +91,12 @@ faq:
   - q: Siapa sebenarnya yang meluluskan permohonan MM2H — MOTAC atau Imigresen?
     a: Kedua-duanya, dalam peranan berbeza. MOTAC mengendalikan program dan menetapkan keperluan setiap peringkat, tetapi kelulusan imigresen muktamad, pengesahan pas dan sebarang rayuan terletak pada Kementerian Dalam Negeri melalui Jabatan Imigresen Malaysia. Permohonan dikemukakan oleh ejen MM2H berlesen melalui One Stop Centre. Jadi hubungi MOTAC untuk soalan keperluan peringkat dan Imigresen untuk hal kelulusan atau pengesahan — dua pihak berkuasa, dua bidang kuasa.
 framework: explainer
+stayFacts:
+  who: 'Warga asing yang mahukan visa kediaman tinggal lama yang boleh diperbaharui — bukan visa kerja, pemastautin tetap atau kewarganegaraan. Empat peringkat (Platinum, Gold, Silver dan peringkat Zon Ekonomi Khas/Zon Kewangan Khas) menyusun pemohon mengikut saiz komitmen kewangan yang mampu mereka lakukan.'
+  how: 'Dikendalikan oleh Kementerian Pelancongan, Kesenian dan Budaya (MOTAC), yang menetapkan terma setiap peringkat. Permohonan dikemukakan melalui ejen MM2H berlesen menerusi One Stop Centre, dan Jabatan Imigresen — di bawah Kementerian Dalam Negeri — memberikan kelulusan muktamad serta mengesahkan pas itu.'
+  cost: 'Setiap peringkat memerlukan deposit tetap yang disimpan dalam bank Malaysia serta pembelian hartanah kediaman yang wajib, sebagai tambahan kepada yuran penyertaan dan pemprosesan kerajaan sekali sahaja. Jumlahnya berbeza ketara mengikut peringkat dan telah disemak semula lebih daripada sekali — sentiasa sahkan angka semasa di mm2h.gov.my sebelum bergantung kepadanya.'
+  watch: 'MM2H bukan PR, bukan kewarganegaraan, dan (kecuali pada peringkat Platinum) tidak membenarkan anda bekerja atau menjalankan perniagaan. Hartanah yang diwajibkan tidak boleh dijual selama 10 tahun, dan pemohon berumur bawah 50 tahun mesti berada di Malaysia selama 90 hari kumulatif setahun.'
+  next: 'Sahkan keperluan peringkat semasa di mm2h.gov.my, kemudian susun perpindahan yang lebih luas dengan Berpindah ke Malaysia: langkah pertama. Jika bekerja atau menjalankan perniagaan penting, bandingkan MM2H dengan Employment Pass dan PVIP sebelum memilih sesuatu peringkat.'
 ---
 
 Cari "berapa lama pas MM2H Silver sah" dan anda akan menjumpai panduan yang dengan yakin

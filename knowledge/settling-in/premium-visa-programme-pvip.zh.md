@@ -88,6 +88,12 @@ relations:
 related: ["mm2h-long-stay-visa", "employment-pass", "dependant-social-visit-passes", "moving-to-malaysia-first-steps"]
 keywords: ["PVIP", "Premium Visa Programme", "Program Visa Premium", "Malaysia residency visa", "residency by investment", "20-year visa Malaysia", "PVIP fixed deposit", "PVIP requirements"]
 framework: explainer
+stayFacts:
+  who: 'PVIP（Program Visa Premium，高级签证计划）是马来西亚面向高净值投资者、企业家、外籍专业人士及其家属的投资移民居留签证。它授予最长可达 20 年、可续期的长期居留权，附带多次入境签证（Multiple Entry Visa），并赋予工作、经营合法生意、就学、投资，以及购买住宅、商业或工业地产的权利。'
+  how: '由内政部辖下的马来西亚移民局（Jabatan Imigresen Malaysia，JIM）管理。你无法直接申请：每一份申请都须通过移民局委任的代理，经由官方 PVIP 门户提交，获批须在马来西亚持牌银行存入定期存款；该准证最长可达 20 年，且没有最低居留要求。'
+  cost: '预期有三项各自独立的资金承诺——一笔数额庞大、一次性且不可退还的参与费（主申请人较高，另有每名家属的收费与较便宜的 10 年家属选项）、一笔以你本人名义存放的可观定期存款，外加一项收入或净资产测试，以及较小的经常性准证费、签证费与保证金。相关数字自推出以来已经修订，因此请在移民局官方 PVIP 常见问答（imigresen-online.imi.gov.my）上确认最新数据。'
+  watch: 'PVIP 是长期签证，既非永久居留，也非公民身份，即便符合条件，审批仍属酌情决定。不要把它与 MM2H 混淆：PVIP 由移民局（内政部）而非 MOTAC 管理，增加了工作与就学权利以及商业／工业地产购买，而定期存款本金起初被锁定（日后仅允许部分提取，用于购买房产、医疗或教育，且须持有移民局的推荐信）。'
+  next: '委聘一名移民局委任的 PVIP 代理，并在投入任何资金之前，在移民局本身的 PVIP 资料上确认现行条款与授权代理名单。若你在权衡各种选项，请阅读《MM2H 长期居留签证》指南；若你的目标是就业而非投资，则阅读《Employment Pass》指南；初来者也可以从《移居马来西亚的第一步》开始。'
 ---
 
 买一套房子、聘请员工、让孩子入学，而且永远不必计算你一年在这个国家待了多少天：这些正是马来西亚通过高级签证计划向富裕外国人提供的核心权利。PVIP（Program Visa Premium）由内政部于2022年9月宣布，自2022年10月1日起开放申请，是一种投资移民居留签证，让符合条件的申请人在马来西亚获得长达二十年的稳定居留。它很容易与较早的"马来西亚我的第二家园"（MM2H）计划混淆，但这两者由不同的部门管理，面向不同的申请人。

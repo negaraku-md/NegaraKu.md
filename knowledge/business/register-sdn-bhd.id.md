@@ -133,6 +133,12 @@ keywords:
   - "how to open company Malaysia"
   - "CRS SSM4U registration"
 framework: how-to
+stayFacts:
+  who: 'Siapa saja dapat mendaftarkan Sdn Bhd (Sendirian Berhad, perusahaan swasta yang dibatasi oleh saham): Anda memerlukan sekurang-kurangnya seorang pemegang saham dan sekurang-kurangnya seorang direktur. Di sebagian besar sektor, warga asing dapat memiliki 100% saham — kepemilikan saham asing penuh adalah aturan umum, dengan pembatasan yang bersifat khusus menurut sektor dan bukan umum.'
+  how: 'Sebuah Sdn Bhd didirikan dengan mengajukan permohonan kepada SSM melalui Sistem Daftar Korporat (CRS), yang diakses via portal SSM4U (yang menggantikan portal MyCoID terdahulu). Anda harus memiliki sekurang-kurangnya seorang direktur yang biasanya berdomisili di Malaysia (kependudukan, bukan kewarganegaraan), seorang pemegang saham (yang tidak harus berdomisili), dan sebuah kantor terdaftar, serta harus menunjuk seorang sekretaris perusahaan berlisensi dalam waktu 30 hari setelah pendirian.'
+  cost: 'Perkirakan biaya pendirian statutori SSM ditambah biaya berbagi data perusahaan, bayaran retainer sekretaris perusahaan tahunan, dan biaya kepatuhan berkelanjutan (akuntansi, pajak, dan audit kecuali Anda memenuhi syarat untuk pengecualian); pemesanan nama adalah tambahan opsional. Modal disetor secara sah dapat dimulai pada RM1, tetapi bank dan imigrasi memperlakukannya sebagai sinyal substansi, jadi rencanakan lebih tinggi jika Anda memerlukan pas kerja atau kredibilitas. Pastikan angka terkini pada Daftar Biaya yang diterbitkan SSM.'
+  watch: 'Salah paham yang paling umum adalah bahwa seorang mitra lokal diperlukan — biasanya tidak; yang diperlukan adalah seorang direktur yang berdomisili. Perhatikan bahwa keterbukaan kepemilikan asing bersifat khusus menurut sektor, seorang sekretaris perusahaan berlisensi wajib dalam waktu 30 hari, dan modal disetor RM1, walaupun sah, tampak tipis di mata bank serta otoritas perizinan atau imigrasi.'
+  next: 'Tetapkan nama, direktur, pemegang saham, dan struktur saham Anda, lalu ajukan permohonan pendirian via portal SSM4U — dan tunjuk sekretaris perusahaan Anda dalam jangka 30 hari. Lihat juga Apa Itu Sdn Bhd, Menunjuk Sekretaris Perusahaan, dan perbandingan kepemilikan tunggal dan Sdn Bhd.'
 ---
 
 Sebagian besar pendiri menghabiskan berminggu-minggu mencemaskan pendirian.

@@ -71,6 +71,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "employment-pass", "professional-visit-pass"]
 keywords: ["DE Rantau", "digital nomad visa Malaysia", "nomad pass", "MDEC", "Professional Visit Pass", "remote work Malaysia"]
 framework: explainer
+stayFacts:
+  who: 'DE Rantau 游民准证是马来西亚的远程工作签证，面向收入来自海外雇主或客户的外国数字游民，分为科技人才（Tech Talent）与非科技人才（Non-Tech Talent）两个类别。它是一种专业访问准证（Professional Visit Pass），让符合条件的远程工作者、自由职业者与独立承包人可以合法地在马来西亚居住和工作。'
+  how: '由马来西亚数字经济机构（MDEC）推行。你在 mdec.my/derantau 在线申请（无须身在马来西亚），以已签署的合同、工资单或发票以及相符的英文银行对账单证明收入；准证签发期为 3 至 12 个月，可续签一次再延长 12 个月，累计最长 24 个月。'
+  cost: '设有两档年收入门槛，科技人才较低、非科技人才较高，外加每名申请人一笔不可退还的处理费与每名家属一笔较小的费用（含 SST）；请在 MDEC 的 DE Rantau 游民准证常见问答上确认最新数据。'
+  watch: '它是专业访问准证，不是 Employment Pass，也不是永久居留：你的收入必须来自海外雇主或客户，因此若你打算加入马来西亚注册公司的薪资名册，这是错误的准证。它也只适用于马来西亚半岛及纳闽的停留，进入沙巴或砂拉越则视为旅游访问，而以家属身份随行的配偶不得在该准证下工作。'
+  next: '确认你的护照有效期超过 14 个月，备齐英文版的收入文件，并在 mdec.my/derantau 开始在线申请，先对照官方 MDEC 常见问答核实现行费用与规定。若你初来马来西亚，参见《移居马来西亚的第一步》；若要比较各种途径，参见《Employment Pass》。'
 ---
 
 如果你为马来西亚以外的雇主或客户远程工作，你可以凭一项专为此而设的准证在马来西亚合法居住和工作，那就是 **DE Rantau 游民准证**。

@@ -85,6 +85,12 @@ relations:
 related: ["income-tax-in-malaysia", "individual-tax-residence", "personal-tax-rates", "which-tax-form", "epf-foreign-workers-malaysia"]
 keywords: ["expatriate tax Malaysia", "non-resident tax rate Malaysia 30", "60 day exemption Malaysia tax", "knowledge worker tax rate 15", "Returning Expert Programme tax", "Employment Pass tax residence"]
 framework: rules
+stayFacts:
+  who: '말레이시아에서 소득을 얻는 외국인 — 외국인 주재원 직원, 그 고용주, 그리고 해외 근무를 마치고 귀국하는 말레이시아인. 납부액은 국적이나 비자 종류가 아니라 전적으로 세무 거주 지위에 달려 있습니다: 거주 외국인 주재원은 말레이시아인과 똑같이 과세되고, 비거주자는 그렇지 않습니다.'
+  how: '거주 여부는 소득세법(Income Tax Act) 제7(1)조에 따라 매 기준연도마다 재판정되는 일수 계산입니다: 대체로 그 해에 182일 이상 체류하면 거주자가 되고, 연중 도착도 다음 해의 연속 182일 기간과 연결될 수 있습니다. 이는 LHDN(Lembaga Hasil Dalam Negeri Malaysia)이 관장하며, 신고 양식(비거주자는 양식 M/MT(Form M/MT), 거주자는 양식 BE/BT(Form BE/BT))도 정합니다.'
+  cost: '거주자는 전체 공제 및 세액감면 목록과 함께 누진세율로 과세됩니다; 비거주자는 과세소득의 매 링깃에 공제도 세액감면도 없이 일률 세율을 내며, 승인된 지식근로자와 귀국 전문가 프로그램(Returning Expert Programme) 참가자를 위한 우대 15% 제도가 있습니다. 범위는 영토주의 — 말레이시아에서 발생한 소득입니다. 현행 세율은 LHDN(hasil.gov.my)에서 확인하십시오.'
+  watch: '거주 지위가 모든 것을 좌우합니다 — 그 일률 세율은 외국인 세율이 아니라 비거주 세율입니다. 비거주자의 60일 고용 면제는 허용 한도가 아니라 절벽입니다: 60일을 초과하면 전액이 소급하여 과세됩니다.'
+  next: '거주 여부 문제를 먼저 정한 다음, 신고하는 해에 맞는 양식과 기한을 확인하고, 거주자로 판명되면 공제 목록을 확인하십시오. 동반 주제인 「말레이시아 소득세」와 「개인 세무 거주」를 참조하십시오.'
 ---
 
 외국인 주재 근무에서 가장 비싼 달은 대개 도착한 달이며, 그 당시에는 아무 비용도 들지 않습니다. 7월 15일에 도착하면 거주에 필요한 182일에서 12일이 모자랍니다. 6월 15일에 도착하면 이를 넘깁니다. 같은 패키지, 같은 고용주인데, 그 해 세부담의 약 3분의 1의 차이가 납니다 — 비거주 개인은 공제 없이 **첫 링깃(RM)부터 일률 30%**를 내기 때문입니다.

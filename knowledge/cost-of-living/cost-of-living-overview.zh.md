@@ -78,6 +78,12 @@ relations:
 related: ["minimum-wage-and-median-income", "inflation-cpi", "renting-a-home-tenancy", "fuel-subsidies"]
 keywords: ["cost of living Malaysia", "kos sara hidup Malaysia", "Malaysia household expenditure", "DOSM household expenditure survey", "Malaysia household income", "Malaysia inflation rate", "cost of living Kuala Lumpur", "Malaysia poverty line income", "Malaysia budget by state"]
 framework: data-reference
+stayFacts:
+  who: '帮助任何为在马来西亚生活编列预算，或将薪资待遇与实际生活成本相比较的人。你实际花多少，取决于你住在哪里——成本因州属、以及大城市与小城镇之间而差异悬殊——也取决于生活方式，例如你外食与在家烹煮的比例。'
+  how: 'DOSM 将家庭支出分为十二个类别：房屋、水、电及燃料是最大的一项（接近预算的四分之一），其次是餐饮与住宿、食品杂货，以及交通，而医疗、教育及其余项目则分摊在剩下的部分。这些占比因地点而大幅变动，因此城市与城镇之间的比较很重要。'
+  cost: '并没有单一的全国价格标签。吉隆坡、布城与雪兰莪自成一个支出梯队，而东海岸与婆罗洲各州的支出则低得多——支出最高的属地比最低者高出约 2.6 比 1。由于调查与通胀不断改变这些数字，请对照 DOSM 的 OpenDOSM 家庭收支仪表板核实现行数据，而非任何固定金额。'
+  watch: '房屋、水、电及燃料是最大的单一支出——在计入其他任何项目之前，就已接近家庭平均预算的四分之一——而实际租金与房价因州属而差异悬殊，因此全国平均值会低估你在大城市可能付出的金额。'
+  next: '查阅 DOSM 按州属划分的支出数字，以及你所考虑城市的 OpenDOSM 仪表板。要了解薪资相对于这些家庭成本处于什么水平，参见《马来西亚对外籍人士而言负担得起吗？官方数据究竟怎么说》与《最低薪金与收入中位数对比》。'
 ---
 
 ## 一览

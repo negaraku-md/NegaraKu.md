@@ -91,6 +91,12 @@ faq:
   - q: Qui approuve réellement une demande de MM2H — le MOTAC ou l'Immigration ?
     a: Les deux, dans des rôles différents. Le MOTAC gère le programme et fixe les conditions de chaque niveau, mais l'approbation finale de l'immigration, le visa apposé sur le pass et tout recours relèvent du ministère de l'Intérieur par l'intermédiaire du Département de l'immigration (Jabatan Imigresen Malaysia). Les demandes sont déposées par un agent MM2H agréé via le Guichet unique (One Stop Centre). Contactez donc le MOTAC pour les questions relatives aux conditions de niveau et l'Immigration pour les questions d'approbation ou de visa — deux autorités, deux compétences.
 framework: explainer
+stayFacts:
+  who: 'Les étrangers qui souhaitent un visa de résidence de long séjour renouvelable — ni un visa de travail, ni la résidence permanente, ni la citoyenneté. Quatre niveaux (Platinum, Gold, Silver et un niveau Zone économique spéciale/Zone financière spéciale) classent les demandeurs selon l''ampleur de l''engagement financier qu''ils peuvent prendre.'
+  how: 'Géré par le Ministère du Tourisme, des Arts et de la Culture (MOTAC), qui fixe les conditions de chaque niveau. Les demandes sont déposées par un agent MM2H agréé via le Guichet unique (One Stop Centre), et le Département de l''immigration — relevant du Ministère de l''Intérieur — accorde l''approbation finale et appose le pass.'
+  cost: 'Chaque niveau exige un dépôt à terme conservé dans une banque malaisienne ainsi qu''un achat obligatoire d''un bien immobilier résidentiel, en sus de frais gouvernementaux uniques de participation et de traitement. Les montants diffèrent fortement selon le niveau et ont été révisés plus d''une fois — confirmez toujours les chiffres en vigueur sur mm2h.gov.my avant de vous y fier.'
+  watch: 'Le MM2H n''est ni la résidence permanente, ni la citoyenneté, et (sauf au niveau Platinum) ne permet pas de travailler ni de gérer une entreprise. Le bien immobilier requis ne peut pas être vendu pendant 10 ans, et les demandeurs âgés de moins de 50 ans doivent être présents en Malaisie 90 jours cumulés par an.'
+  next: 'Confirmez les exigences en vigueur de chaque niveau sur mm2h.gov.my, puis ordonnez le reste du déménagement avec Les premières étapes pour s''installer en Malaisie. Si travailler ou gérer une entreprise compte, comparez le MM2H à l''Employment Pass et au PVIP avant de vous engager sur un niveau.'
 ---
 
 Cherchez « combien de temps dure un pass Silver de MM2H » et vous trouverez des guides

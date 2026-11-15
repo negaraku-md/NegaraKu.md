@@ -85,6 +85,12 @@ relations:
 related: ["income-tax-in-malaysia", "individual-tax-residence", "personal-tax-rates", "which-tax-form", "epf-foreign-workers-malaysia"]
 keywords: ["expatriate tax Malaysia", "non-resident tax rate Malaysia 30", "60 day exemption Malaysia tax", "knowledge worker tax rate 15", "Returning Expert Programme tax", "Employment Pass tax residence"]
 framework: rules
+stayFacts:
+  who: 'Người nước ngoài có thu nhập tại Malaysia — nhân viên là chuyên gia nước ngoài, người sử dụng lao động của họ, và người Malaysia trở về từ các nhiệm kỳ công tác ở nước ngoài. Điều bạn trả hoàn toàn phụ thuộc vào tình trạng cư trú thuế, không phải quốc tịch hay loại thị thực: một chuyên gia nước ngoài cư trú bị đánh thuế giống hệt một người Malaysia, một người không cư trú thì không.'
+  how: 'Cư trú là một phép đếm ngày được đánh giá lại cho mỗi năm cơ sở theo s.7(1) của Income Tax Act: nói rộng, hiện diện 182 ngày trở lên trong năm khiến bạn trở thành cư trú, trong khi một sự đến giữa năm vẫn có thể liên kết với một khoảng thời gian 182 ngày liên tục trong năm tiếp theo. Nó do LHDN (Lembaga Hasil Dalam Negeri Malaysia) quản lý, cơ quan cũng đặt ra các mẫu tờ khai (Form M/MT cho người không cư trú, Form BE/BT cho người cư trú).'
+  cost: 'Người cư trú bị đánh thuế theo một biểu lũy tiến với đầy đủ danh sách giảm trừ và hoàn thuế; người không cư trú trả một mức cố định trên mỗi ringgit thu nhập chịu thuế mà không có khoản giảm trừ và không có khoản hoàn thuế, và các chế độ ưu đãi 15% tồn tại cho lao động tri thức được phê duyệt và những người tham gia Chương trình Chuyên gia Hồi hương (Returning Expert Programme). Phạm vi mang tính lãnh thổ — thu nhập bắt nguồn từ Malaysia. Hãy xác nhận các mức hiện hành trên LHDN (hasil.gov.my).'
+  watch: 'Tình trạng cư trú chi phối mọi thứ — chính mức cố định đó là một mức thuế cho tình trạng không cư trú, chứ không phải một mức thuế cho người nước ngoài. Sự miễn 60 ngày làm việc cho người không cư trú là một vách đá, không phải một khoản trợ cấp: vượt quá 60 ngày thì toàn bộ số tiền trở thành chịu thuế một cách hồi tố.'
+  next: 'Hãy giải quyết câu hỏi về tình trạng cư trú của bạn trước, rồi xác nhận mẫu và thời hạn đúng cho năm bạn đang nộp, và kiểm tra danh sách giảm trừ nếu rốt cuộc bạn là cư trú. Xem các chủ đề đồng hành Thuế thu nhập tại Malaysia và Tình trạng cư trú thuế của cá nhân.'
 ---
 
 Tháng đắt đỏ nhất trong một nhiệm kỳ công tác của chuyên gia nước ngoài thường là tháng

@@ -78,6 +78,12 @@ relations:
 related: ["minimum-wage-and-median-income", "inflation-cpi", "renting-a-home-tenancy", "fuel-subsidies"]
 keywords: ["cost of living Malaysia", "kos sara hidup Malaysia", "Malaysia household expenditure", "DOSM household expenditure survey", "Malaysia household income", "Malaysia inflation rate", "cost of living Kuala Lumpur", "Malaysia poverty line income", "Malaysia budget by state"]
 framework: data-reference
+stayFacts:
+  who: '말레이시아 생활 예산을 세우거나 급여 제안을 실제 생활비와 비교하는 누구에게든 도움이 됩니다. 실제 지출액은 어디에 사는지 — 비용은 주별로, 그리고 대도시와 소도시 사이에서 크게 다릅니다 — 와, 외식 대 집밥 비중 같은 생활방식에 좌우됩니다.'
+  how: 'DOSM는 가구 지출을 열두 개 범주로 묶습니다: 주거·물·전기·연료가 가장 크고(예산의 4분의 1에 가까움), 이어 음식점 및 숙박, 식료품, 교통 순이며, 의료·교육과 나머지가 그 잔여에 걸쳐 퍼져 있습니다. 이 비중은 지역에 따라 크게 달라지므로, 도시 대 소도시 비교가 중요합니다.'
+  cost: '단일한 전국 가격표는 없습니다. 쿠알라룸푸르, 푸트라자야, 슬랑오르는 자체적인 지출 단계에 있는 반면, 동해안과 보르네오 주들은 훨씬 덜 쓰며 — 지출이 가장 많은 지역은 가장 적은 지역보다 대략 2.6배를 씁니다. 조사와 물가상승이 수치를 계속 움직이므로, 어떤 고정 금액이 아니라 DOSM의 OpenDOSM 가구 소득·지출 대시보드와 대조하여 현행 수치를 확인하십시오.'
+  watch: '주거·물·전기·연료가 단일 최대 비용이며 — 다른 무엇을 셈하기도 전에 평균 가구 예산의 4분의 1에 가깝습니다 — 실제 임대료와 집값은 주별로 크게 다르므로, 전국 평균은 대도시에서 당신이 낼 수 있는 금액을 과소평가합니다.'
+  next: '고려 중인 도시에 대해 DOSM의 주별 지출 수치와 OpenDOSM 대시보드를 찾아보십시오. 급여가 이 가구 비용과 어떻게 비교되는지는 「주재원에게 말레이시아는 감당할 만한가? 공식 수치가 실제로 말하는 것」과 「최저임금 대 중위소득」을 참조하십시오.'
 ---
 
 ## 한눈에 보기

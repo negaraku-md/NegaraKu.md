@@ -63,10 +63,16 @@ injected as single-quoted YAML (`scratchpad/inject-stayfacts.mjs` → doubles ap
 avoids inner-double-quote build gotcha); js-yaml + validate-frontmatter + astro sync all green.
 No `npm run clean` needed — schema already shipped in `766bfdb79`, so these are content-only.
 
-NEXT — **13-lang rollout**: translate the `stayFacts` block into each lang each article
-already has (per-lang agents, house register from an existing translation; preserve numbers /
-law cites / proper nouns; keep durable timing + "confirm current" hedges). Freshness-neutral
-→ no stamp churn.
+**13-LANG ROLLOUT DONE (2026-11-16).** All 12 articles now carry the `stayFacts` card in all
+13 langs (en master + 12 translations = 144 translation files + 12 masters). METHOD: one agent
+per language (12 agents: ms zh ta ja ko th vi id ar hi es fr), each read all 12 English blocks
+(`scratchpad/en-blocks.json`) + each article's existing `.{lang}.md` sibling for house register,
+translated the 5 fields faithfully (preserved numbers / law cites / acronyms / URLs / proper nouns;
+kept every "confirm current on <official site>" hedge), wrote `scratchpad/tr-{lang}.json`; then
+`scratchpad/inject-stayfacts-lang.mjs` injected each as single-quoted YAML. GATE: 144/144 js-yaml
+clean (5 fields), validate-frontmatter 0/0, astro sync, translation-sync **0 stale / 0 orphaned**
+(freshness-neutral confirmed — stayFacts not in TRANSLATED_FIELDS). ar handled RTL (Latin tokens
+stay Latin, renderer isolates); id/ja/ko matched each article's own term choices.
 
 ## Phase 2 (after card layer)
 - A **想留下 / "Make Malaysia home" guided path** (reuse `GuidedPath`, like the eat-drink-play
