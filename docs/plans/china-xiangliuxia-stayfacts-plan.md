@@ -43,24 +43,30 @@ silently goes stale. `watch` carries the key limit/misconception. Apply reviewer
 - **Pilot: `settling-in/mm2h-long-stay-visa` (en)** — 5-row card sourced entirely from the
   article's MOTAC-verified content; "confirm current figures on mm2h.gov.my" in `cost`.
 
-## Fan-out set (existing masters; populate `stayFacts` from each article's own sourced content)
-1. `settling-in/mm2h-long-stay-visa` — ✅ pilot
-2. `property/foreigners-buying-property` — minimum price floors vary by state + change → shape only
-3. `settling-in/permanent-residency-malaysia`
-4. `settling-in/premium-visa-programme-pvip`
-5. `settling-in/moving-to-malaysia-first-steps` (the sequencing hub)
-6. `settling-in/de-rantau-nomad-pass`
-7. `settling-in/employment-pass-malaysia`
-8. `cost-of-living/cost-of-living-overview` (or `is-malaysia-affordable-for-expats`)
-9. `business/register-sdn-bhd` or `what-is-sdn-bhd` — 100% foreign-owned company setup (strong 1company funnel)
-10. `taxation/expatriate-and-non-resident-tax` — resident vs non-resident, territorial
-11. `education/international-schools`
-12. `healthcare/how-malaysian-healthcare-works` (+ `medical-insurance`)
+## Fan-out set — ALL 12 EN MASTERS DONE (2026-11-15, sourced per-article, durable-only)
+1. `settling-in/mm2h-long-stay-visa` — ✅ pilot (`766bfdb79`)
+2. `property/foreigners-buying-property` — ✅ s.433B consent + state price floors → shape only
+3. `settling-in/permanent-residency-malaysia` — ✅ Entry Permit s.10, discretionary, not citizenship
+4. `settling-in/premium-visa-programme-pvip` — ✅ Immigration/JIM, not MM2H, fees omitted
+5. `settling-in/moving-to-malaysia-first-steps` — ✅ sequencing hub (pass first)
+6. `settling-in/de-rantau-nomad-pass` — ✅ MDEC, Tech/Non-Tech floors → shape only
+7. `settling-in/employment-pass` — ✅ (slug is `employment-pass`, not `-malaysia`); 3 categories, employer-sponsored
+8. `cost-of-living/cost-of-living-overview` — ✅ DOSM 12 categories, ~2.6:1 state spread (no invented school/healthcare figures)
+9. `business/register-sdn-bhd` — ✅ SSM/SSM4U, resident director, 100% foreign (sector-specific), RM1 paid-up caveat (strong 1company funnel)
+10. `taxation/expatriate-and-non-resident-tax` — ✅ s.7(1) 182-day residence rule, LHDN, rates omitted
+11. `education/international-schools` — ✅ 5 approved curricula, RM5k deposit cap, fees → shape only
+12. `healthcare/how-malaysian-healthcare-works` — ✅ public vs private, Fees Act 1951 non-citizen schedule
 
-~12 flagship cards. Then **13-lang rollout**: translate the `stayFacts` block into each
-lang each article already has (12 per-lang agents, house register from an existing
-translation; preserve numbers / law cites / proper nouns; keep durable timing + "confirm
-current" hedges). Freshness-neutral → no stamp churn.
+**12/12 EN flagship cards LIVE.** Method: 11 parallel extraction agents (one per master),
+each read its own article and returned durable who/how/cost/watch/next (JSON); assembled +
+injected as single-quoted YAML (`scratchpad/inject-stayfacts.mjs` → doubles apostrophes,
+avoids inner-double-quote build gotcha); js-yaml + validate-frontmatter + astro sync all green.
+No `npm run clean` needed — schema already shipped in `766bfdb79`, so these are content-only.
+
+NEXT — **13-lang rollout**: translate the `stayFacts` block into each lang each article
+already has (per-lang agents, house register from an existing translation; preserve numbers /
+law cites / proper nouns; keep durable timing + "confirm current" hedges). Freshness-neutral
+→ no stamp churn.
 
 ## Phase 2 (after card layer)
 - A **想留下 / "Make Malaysia home" guided path** (reuse `GuidedPath`, like the eat-drink-play

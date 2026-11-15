@@ -137,6 +137,12 @@ keywords:
   - "how to open company Malaysia"
   - "CRS SSM4U registration"
 framework: how-to
+stayFacts:
+  who: 'Anyone can register a Sdn Bhd (Sendirian Berhad, a private company limited by shares): you need at least one shareholder and at least one director. In most sectors foreigners can own 100% of the shares — full foreign shareholding is the general rule, with restrictions being sector-specific rather than general.'
+  how: 'A Sdn Bhd is incorporated by lodging an application with SSM through the Corporate Registry System (CRS), accessed via the SSM4U portal (which replaced the former MyCoID portal). You must have at least one director who ordinarily resides in Malaysia (residence, not nationality), a shareholder (who need not be resident), and a registered office, and you must appoint a licensed company secretary within 30 days of incorporation.'
+  cost: 'Expect the SSM statutory incorporation fee plus a company-data sharing fee, an annual company-secretary retainer, and ongoing compliance costs (accounting, tax, and audit unless you qualify for exemption); name reservation is an optional extra. Paid-up capital can legally start at RM1, but banks and immigration treat it as a signal of substance, so plan higher if you need work passes or credibility. Confirm the current figures on SSM''s published Table of Fees.'
+  watch: 'The most common misconception is that a local partner is required — usually one is not; what is required is a resident director. Note that foreign-ownership openness is sector-specific, a licensed company secretary is mandatory within 30 days, and RM1 paid-up, though legal, reads as thin to banks and licensing or immigration authorities.'
+  next: 'Settle your name, director, shareholder and share structure, then lodge the incorporation application via the SSM4U portal — and appoint your company secretary within the 30-day window. See also What is a Sdn Bhd, Appoint a company secretary, and the comparison of sole proprietorship and Sdn Bhd.'
 ---
 
 Most founders spend weeks worrying about incorporation. It is usually the easiest

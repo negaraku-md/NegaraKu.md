@@ -84,6 +84,12 @@ relations:
 related: ["income-tax-in-malaysia", "individual-tax-residence", "personal-tax-rates", "which-tax-form", "epf-foreign-workers-malaysia"]
 keywords: ["expatriate tax Malaysia", "non-resident tax rate Malaysia 30", "60 day exemption Malaysia tax", "knowledge worker tax rate 15", "Returning Expert Programme tax", "Employment Pass tax residence"]
 framework: rules
+stayFacts:
+  who: 'Foreigners earning income in Malaysia — expatriate employees, their employers, and Malaysians returning from overseas postings. What you pay turns entirely on tax residence status, not nationality or visa class: a resident expatriate is taxed just like a Malaysian, a non-resident is not.'
+  how: 'Residence is a day count reassessed every basis year under the Income Tax Act''s s.7(1): broadly, presence of 182 days or more in the year makes you resident, while a mid-year arrival can still link to a consecutive 182-day period in the following year. It is administered by LHDN (Lembaga Hasil Dalam Negeri Malaysia), which also sets the filing forms (Form M/MT for non-residents, Form BE/BT for residents).'
+  cost: 'Residents are taxed on a progressive scale with the full relief and rebate list; non-residents pay a flat rate on every ringgit of chargeable income with no reliefs and no rebates, and concessionary 15% regimes exist for approved knowledge workers and Returning Expert Programme participants. Scope is territorial — Malaysian-derived income. Confirm the current rates on LHDN (hasil.gov.my).'
+  watch: 'Residence status drives everything — the same flat rate is a non-residence rate, not a foreigner rate. The 60-day employment exemption for non-residents is a cliff, not an allowance: exceed 60 days and the whole amount becomes taxable retrospectively.'
+  next: 'Settle your residence question first, then confirm the correct form and deadline for the year you are filing, and check the relief list if you turn out to be resident. See the sibling topics Income Tax in Malaysia and Individual Tax Residence.'
 ---
 
 The most expensive month in an expatriate assignment is usually the month of

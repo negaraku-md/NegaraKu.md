@@ -84,6 +84,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["permanent residency Malaysia", "MyPR", "red IC Malaysia", "Entry Permit Malaysia", "PR spouse Malaysian", "Immigration Act 1959/63", "Regulation 4 Immigration Regulations 1963"]
 framework: explainer
+stayFacts:
+  who: 'Foreign nationals seeking indefinite residence can pursue permanent residency (MyPR). The main routes are spouse of a Malaysian citizen, skilled professional/expert, investor/high-net-worth individual, children of citizens (minors), and other foreign nationals assessed on merit.'
+  how: 'The Immigration Department (Jabatan Imigresen Malaysia) grants PR through an Entry Permit under Section 10 of the Immigration Act 1959/63 and Regulation 4 of the Immigration Regulations 1963; family routes rely on a Malaysian sponsor while skilled, investor and general routes rest on a merit assessment, and applications are lodged in person at Immigration headquarters in Putrajaya. A rejected application can be appealed to the Minister of Home Affairs within 30 days.'
+  cost: 'The permit fee itself is modest and fixed per issue, but the real commitment is years of maintained lawful residence, a substantial long-term deposit for the investor route, document-gathering and repeated pass renewals during the wait; confirm the current requirements on the Immigration Department (imi.gov.my) Entry Permit page.'
+  watch: 'PR is issued once on merit at the department''s discretion and can be a long, uncertain wait; it is not citizenship (holders keep their foreign nationality, cannot vote, and PR can in principle be revoked) and it is not MM2H, which is only a renewable long-stay pass.'
+  next: 'If on the spouse track, confirm the live post-2025 rules directly with Immigration, keep your existing long-term social visit pass valid, and assemble originals plus certified copies early. See also Moving to Malaysia: first steps, and note how PR compares with the MM2H long-stay pass and Malaysian citizenship.'
 ---
 
 A red MyKad is the quiet finish line for a lot of long-haul lives in Malaysia — the foreign wife who has renewed the same visit pass for a decade, the engineer who never wants to file another work-permit extension, the retiree who wants to belong somewhere for good. That card, the MyPR, is what Malaysian permanent residency actually looks like in your wallet.

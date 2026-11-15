@@ -70,6 +70,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "employment-pass", "professional-visit-pass"]
 keywords: ["DE Rantau", "digital nomad visa Malaysia", "nomad pass", "MDEC", "Professional Visit Pass", "remote work Malaysia"]
 framework: explainer
+stayFacts:
+  who: 'The DE Rantau Nomad Pass is Malaysia''s remote-work visa for foreign digital nomads who earn from foreign-based employers or clients, split into Tech Talent and Non-Tech Talent tracks. It is a type of Professional Visit Pass that lets qualifying remote workers, freelancers and independent contractors live and work legally in Malaysia.'
+  how: 'It is run by the Malaysia Digital Economy Corporation (MDEC). You apply online at mdec.my/derantau (you need not be in Malaysia), prove income with signed contracts, payslips or invoices and matching bank statements in English, and the pass is issued for 3 to 12 months, renewable once for a further 12 months, up to 24 months total.'
+  cost: 'There are two annual income floors, a lower one for Tech Talent and a higher one for Non-Tech Talent, plus a non-refundable processing fee per applicant and a smaller one per dependent (inclusive of SST); confirm the current figures on MDEC''s DE Rantau Pass FAQ.'
+  watch: 'It is a Professional Visit Pass, not an Employment Pass or permanent residence: your income must come from foreign-based employers or clients, so if you plan to join a Malaysia-registered company''s payroll it is the wrong pass. It also facilitates stays only in Peninsular Malaysia and Labuan, with entry to Sabah or Sarawak treated as a tourist visit, and a spouse joining as a dependent cannot work under it.'
+  next: 'Check that your passport has over 14 months of validity, gather your income documents in English, and start the online application at mdec.my/derantau, confirming current fees and rules against the official MDEC FAQ first. If you are new to the country, see Moving to Malaysia: first steps; to compare routes, see Employment Pass.'
 ---
 
 If you work remotely for an employer or clients based outside Malaysia, you can live and work in the country legally under a pass built for exactly that: the **DE Rantau Nomad Pass**.

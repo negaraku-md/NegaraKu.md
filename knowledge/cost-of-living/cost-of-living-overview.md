@@ -77,6 +77,12 @@ relations:
 related: ["minimum-wage-and-median-income", "inflation-cpi", "renting-a-home-tenancy", "fuel-subsidies"]
 keywords: ["cost of living Malaysia", "kos sara hidup Malaysia", "Malaysia household expenditure", "DOSM household expenditure survey", "Malaysia household income", "Malaysia inflation rate", "cost of living Kuala Lumpur", "Malaysia poverty line income", "Malaysia budget by state"]
 framework: data-reference
+stayFacts:
+  who: 'Helps anyone budgeting for Malaysia or comparing a pay offer against real living costs. What you actually spend is driven by where you live — costs vary sharply by state and between big cities and smaller towns — and by lifestyle, such as how much you eat out versus cook at home.'
+  how: 'DOSM groups household spending into twelve categories: housing, water, electricity and fuel is the largest (close to a quarter of the budget), followed by restaurants and accommodation, groceries, and transport, with healthcare, education and the rest spread across the remainder. These shares shift sharply by location, so city-versus-town comparisons matter.'
+  cost: 'There is no single national price tag. Kuala Lumpur, Putrajaya and Selangor sit in a spending tier of their own, while east-coast and Borneo states spend far less — the highest-spending territory outspends the lowest by roughly 2.6 to one. Because surveys and inflation keep moving the numbers, confirm current figures against DOSM''s OpenDOSM Household Income & Expenditure dashboard rather than any fixed amount.'
+  watch: 'Housing, water, electricity and fuel is the single biggest cost — close to a quarter of the average household budget before anything else is counted — and actual rents and house prices vary sharply by state, so a national average understates what you may pay in a major city.'
+  next: 'Look up the DOSM state-level expenditure figures and the OpenDOSM dashboard for the city you are considering. See Is Malaysia Affordable for Expats? What the Official Numbers Actually Say and Minimum Wage vs Median Income for how pay compares against these household costs.'
 ---
 
 ## At a glance

@@ -84,6 +84,12 @@ faq:
   - q: What is the Malaysia Digital Arrival Card, and does it cost anything?
     a: The Malaysia Digital Arrival Card (MDAC) is a free entry registration most foreign arrivals must complete online before landing, submitted only through the Immigration Department's own portal. It is not a visa and does not replace whatever pass or visa you already hold. The Department stresses it is free because unofficial look-alike sites have charged travellers for a form that costs nothing at the source.
 framework: journey-hub
+stayFacts:
+  who: 'Anyone planning or beginning a move to Malaysia — for work, family reunification, retirement or a self-funded long stay — in the weeks before and just after arrival. It maps the order to sort out your immigration pass, your entry registration, and the first-week admin.'
+  how: 'First settle which pass you actually qualify for — sponsored (Employment Pass, Professional Visit Pass, Dependant Pass) or self-funded (MM2H and similar routes) — since that pass, not your passport, is what every errand checks. After landing on the right pass the practical order is: temporary accommodation, then a bank account, then a SIM, then a driving-licence conversion if you''ll drive.'
+  cost: 'There is no single price: what the move costs is driven by the pass pathway you choose, and sponsored and self-funded routes carry very different financial requirements. The article deliberately avoids quoting figures (such as Employment Pass salary bands or MM2H income and deposit tiers, which have been revised repeatedly) and directs you to confirm current numbers on the official ESD/MYXpats and MM2H portals at the time of application.'
+  watch: 'Get the legal right to stay right first: the immigration pass is the pivot point that almost every other step checks, and a tourist stamp generally can''t be converted into a work or long-stay status from inside Malaysia. Confirm pass eligibility before you book the move or commit to anything — opening a bank account before the pass is issued is the single most common way newcomers lose a week.'
+  next: 'Work out which pass family applies — sponsored or self-funded — then go deep on the specific route: the Employment Pass if a Malaysian employer hired you, or the MM2H long-stay visa (or the Premium Visa Programme (PVIP)) if you''re relocating on your own funds. The two admin steps that key off the pass are opening a bank account and registering a SIM.'
 ---
 
 Most people planning a move to Malaysia start with the wrong question. They ask
