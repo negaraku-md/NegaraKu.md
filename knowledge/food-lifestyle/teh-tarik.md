@@ -225,5 +225,3 @@ settles the matter.
   [kopi, teh tarik and coffee-shop drinks](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks) guide.
 - Meet the 24-hour eateries that pour it in
   [kopitiam and mamak culture](/food-lifestyle/kopitiam-mamak-culture).
-</content>
-</invoke>

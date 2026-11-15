@@ -220,5 +220,3 @@ reminder of how much cultural weight a pink glass of rose milk can carry.
   the companion guide to the coffee-and-tea order code sirap bandung shares.
 - [Kopitiam and mamak culture](/food-lifestyle/kopitiam-mamak-culture) — the coffee
   shops and 24-hour stalls where most glasses of sirap bandung are poured.
-</content>
-</invoke>
