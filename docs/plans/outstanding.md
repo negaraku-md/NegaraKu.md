@@ -4,136 +4,182 @@ Living tracker of open work toward the mission **"let the world know about Malay
 Owner tags: **[you]** = user action (accounts, credentials, approvals — Claude can't
 do these), **[me]** = Claude.
 
-_Last updated: 2026-11-08._
+_Last updated: 2026-11-15._
 
-The product is mature: **13 languages live** (~1,080 articles each), full analytics
-stack, AI-friendly infra, Facebook auto-posting. The frontier now is **distribution**
-(off-site reach) and **content-quality cleanup** — not more features.
+The product is mature: **13 languages live** (~1,380 topics × 13 ≈ 17,750 article
+files), full analytics stack, AI-friendly infra, Facebook auto-posting, a growing
+吃喝玩乐 discovery layer and a tools hub. The frontier is now **distribution**
+(off-site reach) + the **China/想留下 content play** + the **吃喝玩乐 entry-layer** —
+not core features.
+
+> **Governing strategy (read first):** two plan docs set the rules all content work
+> follows and supersede scattered notes elsewhere:
+> - **`growth-strategy-synthesis-2026-11.md`** — the moat = *neutral, current,
+>   AI-citable, multilingual authority for **understanding** Malaysia*; every
+>   initiative must deepen it. 吃喝玩乐 = an **entry-layer / scenario skin**, NOT a 4th
+>   pillar. Monetization = **affiliate + 1company funnel, NOT AdSense**. zh is the
+>   3rd-biggest language, and its demand is the serious **"想留下"** segment
+>   (law/tax/safety/settling-in), not food/tourism.
+> - **`china-promotion-and-monetization-2026-11.md`** — **流量 first, monetization
+>   last.** Boundary: *no 攻略, no 推荐, no 排名* — run a trust business, not a traffic
+>   business. 3 phases (fact-checker persona → 留学/长期居留 → AI-citation wedge).
 
 ---
 
-## 🆕 Since the last update (as of 2026-11-08)
+## 🟢 Held locally right now (awaiting `push`)
+- `2753c8690` — **喝 Drink tranche 2**: 5 discrete-drink "what-is" cards (cincau,
+  air-mata-kucing, teh-o-ais-limau, soya-bean, air-kelapa; MY-FDL-0088–0092) × 13
+  languages = 65 files + hub `related[]` wiring. Full gate green; render-verified.
 
-**Shipped & live:** the **food pillar** (69 topics) + **MICHELIN set** (70 restaurant
-profiles); **OG cards moved to Cloudflare R2** (`og.negaraku.md`) — fixed the
-deploy-artifact size that was cancelling deploys; OG card fixes (CJK-summary tofu,
-13 localized subcategory breadcrumbs, valid Facebook `og:locale`); **reader-first
-restaurant card** + card-first article layout.
+Everything else from earlier sessions is **pushed + live** (the old "held locally"
+block — food heroes B.1/B.2, the 3R publish-gate hardening — all shipped).
 
-**Held locally (awaiting `push`):**
-- `77d984afc` — food heroes B.1 (4 hawker dish photos).
-- `60c8588f9` — **3R publish-gate hardening** (CONTENT-POLICY.md, CI `lint-3r.mjs`
-  + `3r-review.yml`, report-content issue template, CODEOWNERS/GOVERNANCE/
-  CONTRIBUTING cross-links). The §5 study items 1–4 are now built; branch
-  protection (C1) + lawyer review (D3/5) remain owner actions.
-- `91e44362c` — food heroes B.2 (6 more articles).
+---
 
-**Food images — every food article now has ≥1 image** (branded fallback guarantees
-it). Real photos now on 241/297 masters. Still on the fallback (no honest free
-image found, acceptable): the ~17 fine-dining/MICHELIN profiles, plus `bm-yam-rice`,
-`lai-foong-lala-noodles`, `hai-kah-lang`, `halal-certification`, `eurasian-kristang`,
-and **`orang-asli-food`** (held — needs an editorial call: respectful documentary
-photo vs. keep the neutral fallback).
-
-**Open [me], not yet done:**
-- **Dedup Tier-1/2** — audit is ready (`docs/plans/corpus-dedup-audit-2026-10.md`),
-  but `archive-article --into` only redirects (does not merge content), so each
-  merge needs unique content ported across 13 langs first → **needs per-pair
-  go-ahead** before touching live articles.
-- **Facebook OG re-scrape** of ~351 already-posted cards (the fixed CJK/breadcrumb
-  cards) — the zombie run was cancelled; re-run cleanly when wanted (external
-  side-effect, so held).
-- **Wikidata item creation** for articles still missing a QID — needs Chrome.
+## 🆕 Shipped & live since 2026-11-08
+- **吃喝玩乐 (Eat·Drink·Play) entry-layer** — scenario band on `/explore` + compact
+  "体验·Experience" rail on food/festival/tourism hubs (`scenarios.ts`, 11 scenes);
+  **festival "at a glance" cards** (`festivalFacts`, 16 festivals × 13 langs);
+  **dish cards** (`dishFacts`, all 33 discrete dishes × 13 langs); **drink layer**
+  (`drinkFacts`): flagship pilot (teh-tarik/sirap-bandung/milo-dinosaur) + tranche 2
+  (5 drinks) = **8 drinks × 13 langs**; **kopi-lingo-decoder** interactive tool.
+- **Malaysia tools hub** — `/tools` + flagship **income-tax / PCB calculator**
+  (`src/lib/tax/incomeTax.ts`, 19 passing tests).
+- **llms.txt curated map** (566 KB → ~104 KB) — pillars-per-category + hub drilldown.
+- **Industries of Malaysia atlas** — 46 sector guides × 13 langs.
+- **Sponsor funnel** — disclosed UTM CTA from ~408 articles → 1company.com / 1financing.com.
+- **MICHELIN Guide** reworked into a `michelin-guide` subcategory (faceted) + redirects.
+- **Content quality**: article frameworks (1,328 tagged), food-article standard
+  (154 masters), reader-experience sprint 1a, SEO titles/FAQ/sources sweep +
+  dead-citation fix, ~895 internal cross-links wired, A–Z topic ordering, WCAG a11y
+  pass, render-blocking-CSS on landing pages.
+- **Native-authored masters**: zh/ta religion + culture set (reviewer ashton-tan).
+- **Infra**: OG cards on Cloudflare R2 (`og.negaraku.md`) + Pages artifact-size fix;
+  analytics stack v2 (channel classifier, CF GraphQL traffic explorer, edge cache);
+  menu redesign (6-door) + `/start` two-path IA + Reader/Contributor view + GitHub OAuth.
 
 ---
 
 ## 🔝 Top of mind
-1. **Distribution (off-page) is now the main frontier** — the internal levers are done (13 hubs + homepage/category surfacing, HF dataset ×13 langs, GSC-404 fixed; verification backlog is an exhausted floor). What's left is mostly **[you]**-gated: LinkedIn (~3 credential steps, closest), Instagram (accounts + App Review), and reciprocal **dofollow** links from 1company.com + syarikat.ai. **Ready-to-paste copy + runbooks for all three now in `docs/plans/offpage-prep-pack-2026-10-24.md`** (LinkedIn launch + seed posts, IG bio + first posts, 1company footer line).
-2. **Owned backlinks** — the one off-page win with no platform gate: get 1company.com (sponsor) + syarikat.ai to link back dofollow (ready-to-paste snippet in `docs/plans/owned-backlinks.md`); both codebases are user-side to edit.
-3. **GA4** — live since 2026-10-20; run **Actions → "Archive Google Analytics"** once ~24–48h of consented data accrues → `/analytics` panel fills.
-
----
-
-## 📈 Google Analytics 4 — LIVE 2026-10-20
-Consent-gated client-side GA4 (`G-KKQ57H11FV`) + 13-language opt-in banner + the
-`/analytics` dashboard panel (fed from the GA4 Data API via the `gsc-reader` service
-account, reusing `GSC_SA_KEY`). Policies rewritten to disclose it. See `docs/GA4-SETUP.md`.
-- [x] Everything built, pushed, live; consent banner dismiss-bug fixed; duplicate GA account trashed.
-- [ ] **[you/auto]** Once ~24–48h of consented data accrues, run **Actions → "Archive Google Analytics"** (or wait for the Monday schedule) → panel fills on next deploy.
-- [ ] **[you, optional]** Use a dedicated `GA_SA_KEY` instead of reusing `GSC_SA_KEY` (decouples lifecycles). Fine as-is.
+1. **Distribution (off-page) is the main frontier.** Internal levers are saturated
+   (13 hubs, homepage/category surfacing, HF dataset ×13, GSC-404 fixed, cross-links).
+   What's left is mostly **[you]**-gated: LinkedIn (closest), Instagram, reciprocal
+   **dofollow** links from 1company.com + syarikat.ai. Runbooks in
+   `offpage-prep-pack-2026-10-24.md` + `owned-backlinks.md`.
+2. **China / 想留下 content** — the P1 of the growth synthesis and the best indirect
+   funnel to 1company: the zh public-safety / law / tax / settling-in / business /
+   property / healthcare cluster, as sourced "可查证的事实" fact cards. **[me]**, no blocker.
+3. **Owned backlinks** — the one off-page win with no platform gate (1company.com +
+   syarikat.ai link back dofollow). Both codebases are user-side. **[you]**.
 
 ---
 
 ## 🚀 Distribution push — the main open frontier (ON HOLD, resume anytime)
 
-**Why it matters (AI-citation diagnosis):** the site ranks on long-tail but sits ~position
-12 on head terms, so AI answer-engines never pull it into their candidate set. On-page GEO
-is already best-in-class; the gap is **off-page** (third-party citations, backlinks, domain age).
+**Why it matters:** the site ranks on long-tail but sits ~position 12 on head terms,
+so AI answer-engines never pull it into their candidate set. On-page GEO is
+best-in-class; the gap is **off-page** (third-party citations, backlinks, domain age).
 
 ### LinkedIn — Page + engine built, paused mid-setup (closest to done)
 - [ ] **[you]** Verify business email on the Community Management API request
 - [ ] **[you]** Mint OAuth token as org admin, scope `w_organization_social` (~60-day; refresh 365-day)
 - [ ] **[you]** Add repo secret `LINKEDIN_ACCESS_TOKEN`
 - [ ] **[me]** Uncomment `schedule:` in `.github/workflows/linkedin-backlog.yml` to go live
-- [x] Page set up (logo, 6:1 banner, About, specialties, location, EN/MS/ZH); poster engine built + dry-run-verified; dev app Company-verified
+- [x] Page set up (logo, banner, About, specialties, location, EN/MS/ZH); engine dry-run-verified
 
 ### Instagram — flagship `@negaraku.md` (ms) live, expand
 - [ ] **[you]** Create `@negaraku.md.en` / `.zh` / `.ta` accounts
 - [ ] **[you]** `instagram_content_publish` App Review on the Poster app (covers all)
-- [ ] **[me]** Wire each account + build the IG branch of the poster engine (2-step Content Publishing API; link-in-bio)
+- [ ] **[me]** Wire each account + build the IG branch of the poster engine
 
-### Internal SEO levers — purely [me], no blockers
-- [x] **Head-term consolidation — DONE + LIVE.** 13 full bidirectional head-term hubs (business, SST, employment, relocation, government, compliance, healthcare, education, industries, energy, agriculture, cost-of-living, property) — each links out to every spoke and every spoke links back, all 13 languages. Hubs also surfaced as a "Start here" band on their category page and a "Key guides" grid on the homepage (the top-authority internal links). This internal lever is now saturated.
-- [x] **Hugging Face dataset — expanded to all 13 languages** (14,092 rows = 1,084 articles × 13 langs; card facets + parallel-corpus angle + site link added).
+### Owned backlinks — no platform gate
+- [ ] **[you]** Add dofollow link back from **1company.com** + **syarikat.ai** (snippet in `owned-backlinks.md`)
 
 ### Wikipedia — playbook + COI disclosure done; execution optional
-- [ ] **[you, sparingly]** Propose only §3-passing citations via Talk-page `{{request edit}}` (`docs/plans/wikipedia-coi-playbook.md`). Highest-risk, lowest-priority. Claude drafts/assesses; never posts to article space.
-- [x] COI disclosure published (`User:Ai.negaraku.md`); Wikidata QID sweep (~343 articles) + own item Q141449495
+- [ ] **[you, sparingly]** Propose only §3-passing citations via Talk-page `{{request edit}}` (`wikipedia-coi-playbook.md`). Claude drafts/assesses; never posts to article space.
+- [x] COI disclosure published; Wikidata QID sweep + own item Q141449495
 
 ### Not started (Tier 2–3)
-- [ ] Email newsletter (owned, algorithm-independent audience)
-- [ ] Syndication — Google News Publisher, Flipboard, Pinterest
-- [ ] X/Twitter + Telegram broadcast (extend the poster engine)
-- [ ] Short-form video (TikTok / YouTube Shorts / Reels) — needs a text→video pipeline
-- [ ] Embeddable widgets (compliance calendar / knowledge graph / fact-of-the-day)
+- [ ] Email newsletter · Google News / Flipboard / Pinterest syndication · X/Twitter + Telegram (extend poster engine) · short-form video (text→video pipeline)
+- [ ] More embeddable widgets (fact-of-the-day widget already built)
 
 ---
 
-## 🧹 Content quality & integrity — [me], no blockers
-- [x] **GSC "Not found (404)" — DONE + LIVE.** Robots scanner-probe block + 73 precise redirects + favicon + the 245-file / 744-link source fix (bare body links → absolute locale-aware) + 6 content-gap articles created & inbound-linked. Backlog fully worked through (`docs/plans/gsc-404-action-plan.md`); open item is user-side only (click *Validate Fix* in Search Console).
-- [x] **`verificationNeeded` backlog — EXHAUSTED FLOOR, do NOT sweep.** Full corpus swept (≈231 adversarially-confirmed clears + body-fact corrections, all live). Re-checks 2026-10-09 / 10-19 / 10-22 all confirmed the residual ~790 items are genuine KEEPs (no gazetted source / SME judgment / forward caveats). The *only* remaining yield is new-Budget staleness in specialist articles — re-check pending-gazette + each fresh Budget when revisiting (Budget 2027 Global Services Hub already handled 2026-10-22). See `docs/verification-triage.md`.
-- [ ] **[you/ashton-tan]** Optional human review of the ~196 sensitive articles per language (published AI-assisted under reviewer `ashton-tan`) — most relevant for the newest languages (Arabic especially).
+## 🍜 吃喝玩乐 content continuation — [me], no blockers
+- [ ] **喝 Drink** — widen beyond the 8 live drinks (barley / sng bao, Penang nutmeg
+  juice, bubble tea, ais kacang/ABC, lassi) via the same hub→spoke method; then
+  source drink hero images (Wikimedia → sharp → webp).
+- [ ] **吃喝玩乐 hub consolidation** — per the entry-layer rule (hub, not a 4th pillar);
+  surface the Experience rail on more hubs.
+- [ ] **玩 attraction rule-cards** — fees/permits are freshness-prone; frame as the
+  **durable rule**, never a year-specific figure (same discipline as festival cards).
+- [ ] **Dish "top places" live leaderboard** — **BLOCKED on [you] Google Places
+  billing**; CF Worker + Places (Nasi Lemak pilot first), reuses `fetch-google-places.mjs`.
+- [ ] **Affiliate experience links** (Klook/Grab) — capability is built (`scenarios.ts`
+  per-scene `experience{href, external}` slot); **[you]-owned**: user sets up the
+  affiliate programs + supplies URLs. Do not pursue/source these.
+
+---
+
+## 🧹 Content quality & integrity — [me]
+- [x] **GSC "Not found (404)" — DONE + LIVE** (robots block + redirects + source fix +
+  content-gap articles). Open item is user-side: click *Validate Fix* in Search Console
+  (re-triggered 2026-11-11, ~331 pending).
+- [x] **`verificationNeeded` backlog — EXHAUSTED FLOOR, do NOT sweep.** Residual items
+  are genuine KEEPs; only new-Budget staleness yields on revisit.
+- [ ] **Tier-1/2 dedup** — audit ready (`corpus-dedup-audit-2026-10.md`), but
+  `archive-article --into` only redirects (doesn't merge). Each merge needs unique
+  content ported across 13 langs → **needs per-pair go-ahead** before touching live articles.
+- [ ] **[you/ashton-tan]** Optional human review of the ~196 sensitive articles per
+  language (published AI-assisted under reviewer `ashton-tan`) — Arabic especially.
+- [ ] **Eight-article sprint remainder** — #2 UEC/overseas, #3 council dedup, #6 state data, #8 batik.
+
+---
+
+## 🖼️ Images / media
+- [ ] **[you]** **Unsplash production app** — SUBMITTED 2026-11-11; gates the full
+  restaurant/real-photo rollout. Pending approval.
+- [ ] **orang-asli-food** — held editorial call: respectful documentary photo vs. keep
+  the neutral branded fallback. ~17 fine-dining/MICHELIN profiles acceptably on fallback.
+- [ ] **[me]** Drink hero images for the 8 drink articles (Wikimedia → webp).
 
 ---
 
 ## 📣 Social / Facebook
-- [ ] **[you]** FB **comment-mode** — blocked by Meta App Review / Advanced Access (caption-mode is live and working).
-- [ ] **[me, when wanted]** **Arabic Facebook layer** — deliberately excluded from the Arabic launch: FB Page + `facebook.mjs` wiring + FB covers + campaign measure-card burst for `/ar`.
-- [ ] **[you]** Set each FB Page's **website field** to its locale (e.g. `negaraku.md/ko`) where still pointing at the root.
+- [ ] **[you]** FB **comment-mode** — BLOCKED by Meta App Review / Advanced Access #200 (caption-mode is live).
+- [ ] **[me, when wanted]** **Arabic Facebook layer** — deliberately excluded from the ar launch.
+- [ ] **[you]** Set each FB Page's **website field** to its locale (e.g. `negaraku.md/ko`).
 
 ---
 
-## 🎨 Redesign backlog
-- [ ] **[you direction → me]** **Compliance calendar** — a further redesign was flagged (currently a deadline calculator + eligibility checker).
+## 💰 Monetization & analytics
+- [x] **AdSense — assessed → RECOMMENDED AGAINST** (2026-11-13): ~$10–20/mo, cannibalizes
+  the 1company funnel, tanks page speed, 3R/brand risk. Real alternative = **affiliate
+  (Klook/Grab outbound) + sponsor CTA on `/tools`**.
+- [ ] **[you/auto]** GA4 — run **Actions → "Archive Google Analytics"** once consented
+  data accrues → `/analytics` panel fills (or wait for the schedule).
+- [ ] **[you]** Analytics workers that need a `wrangler deploy` + secrets (GSC_SA_KEY,
+  CF_API_TOKEN, CF_ZONE_ID) to fully light up — see `worker-deploy-and-secrets-runbook.md`.
 
 ---
 
-## 🔧 Minor / optional
-- [ ] **[you]** Switch ms IG flagship login email to `ig-ms@negaraku.md`
-- [x] ja/ta OG-card/llms cosmetic residuals — **won't-fix** (non-indexed/internal)
-- [x] Arabic bidi arrow/viz micro-pass — done (commit c6bc3154)
+## 🔧 Redesign / minor / parked
+- [ ] **[you direction → me]** **Compliance calendar** redesign flagged (currently a
+  deadline calculator + eligibility checker; user-owned direction).
+- [ ] **`/llms-full.txt`** — on-site path is a dead 404 (OPEN: 301 → R2; curated `/llms.txt` is live).
+- [ ] **Wikidata item creation** for articles still missing a QID — needs Chrome.
+- [ ] **[you]** Switch ms IG flagship login email to `ig-ms@negaraku.md`.
+- [ ] **PARKED "will consider"** (cloudsmagazine study): per-article lastVerified date,
+  top quick-answer table, auto-TOC, scam-awareness module.
 
 ---
 
 ## ✅ Recently completed (for context)
-- **All 13 languages LIVE** — ms/en/zh/ta/ja/ko/th/vi/id + **ar** (10th, first RTL, 2026-10-13) + **hi/es/fr**. Per-language launch checklist followed; sensitive articles reviewed by `ashton-tan`; most on Facebook.
-- **Google Analytics 4** — consent-gated, 13-lang banner, `/analytics` panel, policies rewritten (2026-10-20).
-- **Analytics redesign** — `/analytics` split from `/dashboard`; visitor-type zones; metric×dimension explorers; daily trend series (survives AE retention); custom date ranges.
-- **Cloudflare-style Traffic Explorer** + contributor-only Live-query worker (`/_a/q`) + edge geo/device capture.
-- **Language switcher redesign** (native `<details>` dropdown, scales to 13+).
-- **Render-blocking CSS** (critical-CSS on landing pages) + **font optimization** (self-hosted + metric-fallbacks + OG-card fonts).
-- **GSC 404 triage** — robots scanner-probe block + ~73 redirects + favicon + worker `/ms/*` & `/.md` catch-all redirects.
-- **6 content-gap master articles** + 72 translations, published.
-- **/workspace** contributor home route + Reader/Contributor two-view system + GitHub OAuth gate.
-- **Hugging Face dataset** live; **Wikidata** QID sweep; **LinkedIn** Page + engine (inert until token); **Instagram** flagship provisioned.
-- **FB fetch-timeout hardening**; per-language demand-ranked FB queue; event-campaign subsystem.
+- **喝 Drink pilot + tranche 2** (8 drinks × 13 langs) · **dish cards** (33 × 13) ·
+  **festival cards** (16 × 13) · **scenario band** (11 scenes) · **kopi-lingo-decoder**.
+- **Tools hub** + income-tax/PCB calculator · **llms.txt** curation · **industries atlas**
+  (46 sectors) · **sponsor funnel** · **MICHELIN subcategory** rework.
+- **All 13 languages LIVE** (ms/en/zh/ta/ja/ko/th/vi/id/ar/hi/es/fr) · GA4 + consent
+  banner + `/analytics` · analytics stack v2 + edge cache · menu/start-page redesign +
+  Reader/Contributor view + GitHub OAuth · article-lifecycle system · 3R publish-gate
+  hardening · HF dataset ×13 · Wikidata QID sweep · GSC-404 triage · ~895 cross-links.
