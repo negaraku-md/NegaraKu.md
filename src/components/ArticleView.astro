@@ -732,6 +732,48 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       }
 
       {
+        d.stayFacts && (
+          <section class="layer l-facts">
+            <header>
+              <span class="sec-h"><span class="ico" set:html={ICON.facts} />{L('Sepintas lalu', 'At a glance', '速览', 'ஒரு பார்வையில்', 'ひと目でわかる', '한눈에 보기', 'โดยสังเขป', 'Nhìn nhanh', 'Sekilas', 'لمحة سريعة', 'एक नज़र में', 'De un vistazo', 'En bref')}</span>
+            </header>
+            <dl class="lb facts">
+              {d.stayFacts.who && (
+                <div class="fact">
+                  <dt>{L('Untuk siapa', "Who it's for", '适合谁', 'யாருக்கானது', '対象となる人', '대상', 'เหมาะกับใคร', 'Dành cho ai', 'Untuk siapa', 'لمن هذا', 'किसके लिए', 'Para quién es', 'Pour qui')}</dt>
+                  <dd>{iso(d.stayFacts.who)}</dd>
+                </div>
+              )}
+              {d.stayFacts.how && (
+                <div class="fact">
+                  <dt>{L('Cara ia berfungsi', 'How it works', '如何运作', 'எப்படி செயல்படுகிறது', '仕組み', '작동 방식', 'ทำงานอย่างไร', 'Cách thức', 'Cara kerjanya', 'كيف يعمل', 'यह कैसे काम करता है', 'Cómo funciona', 'Comment ça marche')}</dt>
+                  <dd>{iso(d.stayFacts.how)}</dd>
+                </div>
+              )}
+              {d.stayFacts.cost && (
+                <div class="fact">
+                  <dt>{L('Kos terlibat', 'What it costs', '费用概况', 'செலவு', '費用の目安', '비용', 'ค่าใช้จ่าย', 'Chi phí', 'Perkiraan biaya', 'التكلفة', 'लागत', 'Cuánto cuesta', 'Coût')}</dt>
+                  <dd>{iso(d.stayFacts.cost)}</dd>
+                </div>
+              )}
+              {d.stayFacts.watch && (
+                <div class="fact">
+                  <dt>{L('Perlu diingat', 'What to watch', '注意事项', 'கவனிக்க வேண்டியவை', '注意点', '유의할 점', 'ข้อควรระวัง', 'Điều cần lưu ý', 'Yang perlu diperhatikan', 'ما يجب الانتباه إليه', 'ध्यान देने योग्य बात', 'A tener en cuenta', 'À surveiller')}</dt>
+                  <dd>{iso(d.stayFacts.watch)}</dd>
+                </div>
+              )}
+              {d.stayFacts.next && (
+                <div class="fact">
+                  <dt>{L('Langkah seterusnya', 'Next step', '下一步', 'அடுத்த படி', '次のステップ', '다음 단계', 'ขั้นต่อไป', 'Bước tiếp theo', 'Langkah berikutnya', 'الخطوة التالية', 'अगला कदम', 'Siguiente paso', 'Étape suivante')}</dt>
+                  <dd>{iso(d.stayFacts.next)}</dd>
+                </div>
+              )}
+            </dl>
+          </section>
+        )
+      }
+
+      {
         d.commonMisconception.length > 0 && (
           <section class="layer l-myth">
             <header>

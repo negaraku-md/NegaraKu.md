@@ -90,6 +90,12 @@ faq:
   - q: Who actually approves an MM2H application — MOTAC or Immigration?
     a: Both, in different roles. MOTAC runs the programme and sets each tier's requirements, but final immigration approval, endorsement of the pass and any appeal sit with the Ministry of Home Affairs through the Immigration Department (Jabatan Imigresen Malaysia). Applications are submitted by a licensed MM2H agent via the One Stop Centre. So contact MOTAC for tier-requirement questions and Immigration for approval or endorsement matters — two authorities, two jurisdictions.
 framework: explainer
+stayFacts:
+  who: "Foreigners wanting a renewable long-stay residence visa — not a work visa, permanent residence or citizenship. Four tiers (Platinum, Gold, Silver and a Special Economic Zone/Special Financial Zone tier) sort applicants by the size of financial commitment they can make."
+  how: "Run by the Ministry of Tourism, Arts and Culture (MOTAC), which sets each tier's terms. Applications are filed through a licensed MM2H agent via the One Stop Centre, and the Immigration Department — under the Ministry of Home Affairs — gives final approval and endorses the pass."
+  cost: "Every tier requires a fixed deposit held in a Malaysian bank plus a compulsory residential property purchase, on top of one-off government participating and processing fees. The amounts differ sharply by tier and have been revised more than once — always confirm the current figures on mm2h.gov.my before relying on them."
+  watch: "MM2H is not PR, not citizenship, and (except on the Platinum tier) does not permit working or running a business. The required property cannot be sold for 10 years, and applicants aged under 50 must be present in Malaysia for 90 cumulative days a year."
+  next: "Confirm the current tier requirements on mm2h.gov.my, then sequence the wider move with Moving to Malaysia: first steps. If working or running a business matters, compare MM2H against the Employment Pass and PVIP before committing to a tier."
 ---
 
 Search "how long does an MM2H Silver pass last" and you can find guides confidently

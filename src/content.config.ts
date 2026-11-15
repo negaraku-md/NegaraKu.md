@@ -342,6 +342,30 @@ const knowledge = defineCollection({
       })
       .partial()
       .optional(),
+    /**
+     * Relocation "can I / how do I stay" quick-facts card — the 想留下 ("thinking of
+     * making Malaysia home") move: the sourced bottom line on a high-intent settling
+     * decision (MM2H, foreigners buying property, cost of living, setting up a company,
+     * PR, schools, healthcare). Sibling of dishFacts/drinkFacts for the settling-in
+     * layer: who it is for, how it works, what it costs, what to watch, and the next
+     * step. Same contract: all fields optional, freshness-neutral (NOT in
+     * TRANSLATED_FIELDS). CRITICAL — these touch immigration / property / tax / money,
+     * so every value must be DURABLE + sourced from the article: describe the SHAPE of
+     * the rule, NEVER a rot-prone exact figure (deposit amounts, price thresholds and
+     * tax rates are revised). Put "varies — confirm current on <official site>" in
+     * `cost` rather than a number that silently goes stale. Rendered as the "At a
+     * glance" card in ArticleView, just under the 30-second answer.
+     */
+    stayFacts: z
+      .object({
+        who: z.string(),
+        how: z.string(),
+        cost: z.string(),
+        watch: z.string(),
+        next: z.string(),
+      })
+      .partial()
+      .optional(),
 
     // ---- title variants (HTS) ----------------------------------------
     /** ≤60 chars, head-term first. Falls back to `title`. */
