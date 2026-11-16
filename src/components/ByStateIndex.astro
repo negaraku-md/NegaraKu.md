@@ -3,11 +3,12 @@ import type { Locale } from '@/lib/categories';
 import { articlesForLocale } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
 import { MY_STATES, stateFromAddress } from '@/lib/malaysiaStates';
+import mapData from '@/data/malaysiaMap.json';
 
-// "Explore by state" index for the Eat·Drink·Play hub — a grid of the states
-// that have discovery content, each linking to its per-state page. Counts are
-// derived (tourism from the curated list, food venues from place-card
-// addresses), so states with nothing yet are simply left out until they do.
+// "Explore by state" — an interactive Malaysia map plus a list, both linking to
+// the per-state pages. State content is derived (tourism from the curated list,
+// food venues from place-card addresses); states with content are highlighted
+// on the map and listed below, empty ones stay muted but remain clickable.
 
 interface Props {
   locale: Locale;
@@ -18,7 +19,6 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
 const items = await articlesForLocale(locale);
 const nameBySlug = new Map(items.filter((a) => a.data.category === 'states').map((a) => [a.data.slug, a.data.title]));
 
-// Food-venue count per state (derived from place-card addresses).
 const venueCount: Record<string, number> = {};
 for (const a of items) {
   if (a.data.category !== 'food-lifestyle' || !a.data.place?.address) continue;
@@ -26,21 +26,39 @@ for (const a of items) {
   if (s) venueCount[s] = (venueCount[s] ?? 0) + 1;
 }
 
-const states = MY_STATES
-  .map((s) => ({ s, guides: s.tourism.length, eats: venueCount[s.id] ?? 0, name: nameBySlug.get(s.slug) ?? s.id }))
-  .filter((x) => x.guides > 0 || x.eats > 0)
-  .sort((a, b) => a.name.localeCompare(b.name, undefined, { sensitivity: 'base' }));
+const info = Object.fromEntries(MY_STATES.map((s) => {
+  const guides = s.tourism.length;
+  const eats = venueCount[s.id] ?? 0;
+  return [s.id, { name: nameBySlug.get(s.slug) ?? s.id, guides, eats, has: guides > 0 || eats > 0, href: localePath(`/eat-drink-play/state/${s.id}`, locale) }];
+}));
+
+const mapStates = mapData.states.map((m) => ({ ...m, ...info[m.id] }));
+const listStates = Object.entries(info).filter(([, v]) => v.has).map(([id, v]) => ({ id, ...v })).sort((a, b) => a.name.localeCompare(b.name, undefined, { sensitivity: 'base' }));
 
 const heading = L('Terokai mengikut negeri', 'Explore by state', '按州探索', 'மாநிலம் வாரியாக ஆராயுங்கள்', '州ごとに探す', '주별로 둘러보기', 'สำรวจตามรัฐ', 'Khám phá theo bang', 'Jelajahi menurut negeri', 'استكشف حسب الولاية', 'राज्य के अनुसार देखें', 'Explorar por estado', 'Explorer par État');
 const guidesWord = L('panduan', 'guides', '指南', 'வழிகாட்டிகள்', 'ガイド', '가이드', 'ไกด์', 'hướng dẫn', 'panduan', 'أدلّة', 'गाइड', 'guías', 'guides');
 const eatsWord = L('tempat makan', 'to eat', '餐饮', 'உணவகங்கள்', '飲食店', '맛집', 'ร้านอาหาร', 'nơi ăn', 'tempat makan', 'أماكن أكل', 'खाने की जगहें', 'para comer', 'où manger');
+const mapAlt = L('Peta negeri Malaysia — klik sebuah negeri', 'Map of Malaysia’s states — tap a state', '马来西亚各州地图——点击一个州', 'மலேசிய மாநிலங்களின் வரைபடம்', 'マレーシアの州地図', '말레이시아 주 지도', 'แผนที่รัฐของมาเลเซีย', 'Bản đồ các bang Malaysia', 'Peta negara bagian Malaysia', 'خريطة ولايات ماليزيا', 'मलेशिया के राज्यों का नक्शा', 'Mapa de los estados de Malasia', 'Carte des États de la Malaisie');
 ---
 
 <section class="container block bystate" data-pagefind-ignore>
   <h2>{heading}</h2>
+
+  <div class="bs-map-wrap">
+    <svg viewBox={mapData.viewBox} class="bs-map" role="img" aria-label={mapAlt} preserveAspectRatio="xMidYMid meet">
+      {mapStates.map((m) => (
+        <a href={m.href} aria-label={m.name}>
+          <path d={m.d} class={`bs-st${m.has ? ' has' : ''}`}>
+            <title>{m.name}{m.has ? ` — ${m.guides ? `${m.guides} ${guidesWord}` : ''}${m.guides && m.eats ? ', ' : ''}${m.eats ? `${m.eats} ${eatsWord}` : ''}` : ''}</title>
+          </path>
+        </a>
+      ))}
+    </svg>
+  </div>
+
   <div class="bs-grid">
-    {states.map((x) => (
-      <a class="bs-card" href={localePath(`/eat-drink-play/state/${x.s.id}`, locale)}>
+    {listStates.map((x) => (
+      <a class="bs-card" href={x.href}>
         <b>{x.name}</b>
         <span class="bs-meta">
           {x.guides > 0 && <span>{x.guides} {guidesWord}</span>}
@@ -52,8 +70,18 @@ const eatsWord = L('tempat makan', 'to eat', '餐饮', 'உணவகங்கள
 </section>
 
 <style>
-  .bystate { display: flex; flex-direction: column; gap: 0.8rem; }
+  .bystate { display: flex; flex-direction: column; gap: 0.9rem; }
   .bystate h2 { font-family: var(--font-title); font-size: 1.3rem; margin: 0; }
+  .bs-map-wrap { width: 100%; max-width: 720px; margin: 0 auto; }
+  .bs-map { width: 100%; height: auto; display: block; }
+  .bs-st {
+    fill: var(--surface-2); stroke: var(--bg); stroke-width: 1;
+    transition: fill 0.15s;
+  }
+  .bs-st.has { fill: color-mix(in srgb, var(--gold) 28%, var(--surface-2)); }
+  .bs-map a:hover .bs-st { fill: color-mix(in srgb, var(--gold) 55%, var(--surface-2)); }
+  .bs-map a:hover .bs-st.has { fill: var(--gold); }
+  .bs-map a:focus-visible .bs-st { outline: 2px solid var(--gold); }
   .bs-grid { display: grid; gap: 0.6rem; grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr)); }
   .bs-card {
     background: var(--surface); border: 1px solid var(--line); border-radius: 10px;
