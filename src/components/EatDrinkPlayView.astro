@@ -1,0 +1,119 @@
+---
+import type { Locale } from '@/lib/categories';
+import { loc } from '@/lib/categories';
+import { articlesForLocale } from '@/lib/content';
+import { subcatLabel } from '@/lib/subcategories';
+import { localePath } from '@/lib/i18n';
+import { EDP, EDP_CLUSTERS } from '@/lib/clusters';
+import PageHero from './PageHero.astro';
+import ArticleStrip from './ArticleStrip.astro';
+
+// The 吃喝玩乐 (Eat · Drink · Play) hub — a cross-cutting discovery layer that
+// regroups EXISTING food, drink, tourism and leisure topics under four
+// reader-intent clusters. Nothing is moved or rewritten: each cluster's
+// candidate topics (from clusters.ts) are resolved against the live corpus,
+// empties are dropped, and the survivors A–Z sort by localized label (the
+// topic-ordering standard). Each cluster then shows a featured "most read"
+// strip so the page reads like a lifestyle front, not a wall of tiles.
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const items = await articlesForLocale(locale);
+
+// Resolve each cluster's candidate topics against the corpus: keep only topics
+// that actually have articles, carry their localized label + count, and A–Z
+// sort by that label. Also collect each cluster's article pool for the strip.
+const resolved = EDP_CLUSTERS.map((cluster) => {
+  const topics = cluster.topics
+    .map((t) => {
+      const arts = items.filter((a) => a.data.category === t.cat && (a.data.subcategory ?? []).includes(t.sub));
+      return { ...t, label: subcatLabel(t.sub, locale), count: arts.length };
+    })
+    .filter((t) => t.count > 0)
+    .sort((a, b) => a.label.localeCompare(b.label, undefined, { sensitivity: 'base' }));
+  const keys = new Set(topics.map((t) => `${t.cat}/${t.sub}`));
+  const pool = items.filter((a) => (a.data.subcategory ?? []).some((s) => keys.has(`${a.data.category}/${s}`)));
+  return { cluster, topics, pool };
+}).filter((r) => r.topics.length > 0);
+
+const homeLabel = L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'होम', 'Inicio', 'Accueil');
+const topicWord = L('topik', 'topics', '主题', 'தலைப்புகள்', 'トピック', '주제', 'หัวข้อ', 'chủ đề', 'topik', 'مواضيع', 'विषय', 'temas', 'sujets');
+const articleWord = L('rencana', 'articles', '篇', 'கட்டுரைகள்', '記事', '기사', 'บทความ', 'bài viết', 'artikel', 'مقالات', 'लेख', 'artículos', 'articles');
+const articlesLabel = (n: number) => L('rencana', 'articles', '篇', 'கட்டுரைகள்', '記事', '개 기사', 'บทความ', 'bài viết', 'artikel', 'مقالات', 'लेख', 'artículos', 'articles');
+
+const totalTopics = resolved.reduce((n, r) => n + r.topics.length, 0);
+const totalArticles = new Set(resolved.flatMap((r) => r.pool.map((a) => `${a.data.category}/${a.data.slug}`))).size;
+---
+
+<PageHero
+  locale={locale}
+  crumb={[{ label: homeLabel, href: localePath('/', locale) }, { label: loc(EDP.title, locale) }]}
+  title={loc(EDP.title, locale)}
+  desc={loc(EDP.blurb, locale)}
+  stats={[
+    { icon: '🍜', value: resolved.length, label: L('kelompok', 'clusters', '板块', 'தொகுப்புகள்', 'クラスター', '묶음', 'กลุ่ม', 'cụm', 'klaster', 'مجموعات', 'समूह', 'grupos', 'groupes') },
+    { icon: '🧩', value: totalTopics, label: topicWord },
+    { icon: '📄', value: totalArticles, label: articleWord },
+  ]}
+/>
+
+<div class="container block edp">
+  {resolved.map(({ cluster, topics, pool }) => (
+    <section class="edp-cluster" style={`--cat:${cluster.color}`}>
+      <header class="edp-head">
+        <span class="edp-char" aria-hidden="true">{cluster.char}</span>
+        <div class="edp-ht">
+          <h2>{loc(cluster.name, locale)}</h2>
+          <p>{loc(cluster.blurb, locale)}</p>
+        </div>
+      </header>
+
+      <div class="cat-grid">
+        {topics.map((t) => (
+          <a class="cat-card topic" href={localePath(`/${t.cat}/topic/${t.sub}`, locale)} style={`--cat:${cluster.color}`}>
+            <span class="bar" aria-hidden="true" />
+            <b>{t.label}</b>
+            <span class="tc-count">{t.count} {articlesLabel(t.count)} →</span>
+          </a>
+        ))}
+      </div>
+
+      {pool.length > 0 && <ArticleStrip locale={locale} articles={pool} limit={4} />}
+    </section>
+  ))}
+</div>
+
+<style>
+  .edp { display: flex; flex-direction: column; gap: var(--space-group); }
+  .edp-cluster {
+    background: var(--surface); border: 1px solid var(--line);
+    border-radius: 12px; overflow: hidden; padding: 1.1rem;
+    display: flex; flex-direction: column; gap: 1rem;
+  }
+  .edp-head { display: flex; align-items: center; gap: 1rem; }
+  /* The big Chinese character is the cluster's wordmark — tinted its accent. */
+  .edp-char {
+    flex: none; width: 3.4rem; height: 3.4rem; display: grid; place-items: center;
+    font-family: var(--font-title); font-size: 2rem; font-weight: 800; line-height: 1;
+    color: var(--cat); background: color-mix(in srgb, var(--cat) 12%, var(--surface-2));
+    border: 1px solid color-mix(in srgb, var(--cat) 40%, var(--line)); border-radius: 12px;
+  }
+  .edp-ht h2 { font-family: var(--font-title); font-size: 1.35rem; margin: 0 0 0.15rem; }
+  .edp-ht p { color: var(--ink-soft); font-size: 0.9rem; line-height: 1.5; margin: 0; }
+
+  .cat-grid { display: grid; gap: 0.8rem; grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); }
+  .cat-card {
+    position: relative; overflow: hidden;
+    background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px;
+    text-decoration: none; color: inherit; transition: border-color 0.15s, transform 0.15s;
+    display: flex; flex-direction: column; gap: 0.3rem; align-items: flex-start; padding: 1rem 1.05rem;
+  }
+  .cat-card .bar { position: absolute; top: 0; left: 0; right: 0; height: 4px; background: var(--cat, var(--gold)); }
+  .cat-card:hover { border-color: var(--cat, var(--gold)); transform: translateY(-2px); }
+  .cat-card b { font-family: var(--font-title); font-size: 1rem; }
+  .cat-card .tc-count { color: var(--muted); font-size: 0.85rem; }
+</style>

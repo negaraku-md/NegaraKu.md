@@ -51,6 +51,7 @@ const NAV_FULL: NavMenu[] = [
       { label: 'nav.grpDiscover', href: '', heading: true },
       { label: 'nav.exploreMalaysia', href: '/explore' },
       { label: 'nav.guides', href: '/guides' },
+      { label: 'nav.eatDrinkPlay', href: '/eat-drink-play' },
       { label: 'nav.categories', href: '/categories' },
       { label: 'nav.latest', href: '/latest' },
       { label: 'nav.trending', href: '/most-read' },
