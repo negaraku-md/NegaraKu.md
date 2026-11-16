@@ -29,6 +29,42 @@ function localeOf(pathname) {
   return VIEW_LOCALES.includes(seg) ? seg : 'ms';
 }
 
+// All 13 site locales. 'ms' is the default, served at the root (no prefix); the
+// other 12 live under /<code>/. Keep in sync with LOCALES in src/lib/i18n.ts.
+const SUPPORTED = new Set(['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar', 'hi', 'es', 'fr']);
+
+// First-visit language negotiation: pick the best supported locale from an
+// Accept-Language header (ordered, q-weighted). Returns a code in SUPPORTED, or
+// null if nothing matches. Only the primary subtag matters — zh-CN / zh-TW → zh,
+// en-GB / en-US → en — which is exactly the collapse the site's 13 locales use.
+function pickLocale(acceptLanguage) {
+  if (!acceptLanguage) return null;
+  const ranges = acceptLanguage
+    .split(',')
+    .map((part) => {
+      const [tag, ...params] = part.trim().split(';');
+      const qp = params.find((p) => p.trim().toLowerCase().startsWith('q='));
+      const q = qp ? parseFloat(qp.split('=')[1]) : 1;
+      return { tag: (tag || '').trim().toLowerCase(), q: Number.isFinite(q) ? q : 1 };
+    })
+    .filter((r) => r.tag && r.tag !== '*')
+    .sort((a, b) => b.q - a.q);
+  for (const r of ranges) {
+    const primary = r.tag.split('-')[0];
+    if (SUPPORTED.has(primary)) return primary;
+  }
+  return null;
+}
+
+// Read the sticky language choice from the nk_lang cookie (set client-side on
+// every page to the page's own locale — see BaseLayout). A stored choice always
+// wins over Accept-Language, so detection is first-visit-only.
+function cookieLocale(request) {
+  const m = (request.headers.get('cookie') || '').match(/(?:^|;\s*)nk_lang=([a-z]{2})(?:;|$)/i);
+  const code = m ? m[1].toLowerCase() : '';
+  return SUPPORTED.has(code) ? code : null;
+}
+
 export default {
   /**
    * @param {Request} request
@@ -49,6 +85,33 @@ export default {
       //                  markdown; the real raw file is /….md (no slash), so the
       //                  slashed /…/.md 404s — send it to the HTML page.
       if (request.method === 'GET' || request.method === 'HEAD') {
+        // First-visit language negotiation — ONLY the bare root "/". A shared or
+        // crawled deep link (/en/…, /zh/…) carries an explicit locale and is never
+        // touched. A stored nk_lang cookie wins; otherwise we read Accept-Language,
+        // but only for human readers — bots keep the canonical Malay root so the
+        // site's SEO signal (hreflang does the per-language serving) stays stable.
+        // 302 (not 301) + no-store, since the "right" root varies per visitor.
+        if (url.pathname === '/') {
+          let target = cookieLocale(request);
+          if (!target) {
+            const { bucket } = classify(request.headers.get('user-agent') || '');
+            // Human readers with no stored choice: best Accept-Language match, or
+            // English when nothing matches (a de/pt/ru speaker reads English far
+            // sooner than Malay). Bots are left on the canonical Malay root.
+            if (bucket === 'readers') target = pickLocale(request.headers.get('accept-language')) || 'en';
+          }
+          if (target && target !== 'ms') {
+            return new Response(null, {
+              status: 302,
+              headers: {
+                Location: url.origin + '/' + target + '/' + url.search,
+                'Cache-Control': 'no-store',
+                Vary: 'Accept-Language, Cookie',
+              },
+            });
+          }
+        }
+
         let dest = null;
         if (url.pathname === '/ms' || url.pathname.startsWith('/ms/')) {
           dest = url.pathname.replace(/^\/ms(?=\/|$)/, '') || '/';

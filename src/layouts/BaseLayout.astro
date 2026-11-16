@@ -546,6 +546,19 @@ const ogImageAlt = image ? title : `${t('site.title', locale)} — ${t('site.tag
       })();
     </script>
 
+    <script is:inline define:vars={{ nkLocale: locale }}>
+      // Remember the language the reader is actually viewing, so the edge Worker
+      // can send them straight to it next time they hit the bare root "/". The
+      // Worker negotiates "/" from Accept-Language only on the FIRST visit (no
+      // cookie); once this cookie is set, the stored choice wins — switching
+      // language (which navigates to that locale's page) updates it here. SameSite
+      // Lax, 1-year, no PII. Written outside the cached HTML so edge-caching the
+      // page is unaffected (a Set-Cookie response is never cached).
+      try {
+        document.cookie = 'nk_lang=' + nkLocale + '; path=/; max-age=31536000; samesite=lax';
+      } catch (e) { /* storage blocked — detection simply falls back to Accept-Language */ }
+    </script>
+
     <script>
       // Cookieless engagement beacon: on page-leave, report this page's dwell
       // (seconds) + max scroll depth (%) to the edge Worker at /_a/e. No cookies,
