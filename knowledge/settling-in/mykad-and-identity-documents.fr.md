@@ -83,6 +83,12 @@ keywords:
   - "MyKid kanak-kanak"
   - "kad pengenalan warga asing Malaysia"
 framework: explainer
+stayFacts:
+  who: 'Les citoyens malaisiens (MyKad/MyKid) et les résidents permanents ou temporaires agréés (MyPR/MyKAS) ; la plupart des étrangers titulaires d''un pass de travail ou de visite ne possèdent aucune carte du JPN.'
+  how: 'C''est le Jabatan Pendaftaran Negara (JPN), et non l''Immigration, qui délivre les cartes d''identité selon le statut : la MyKid pour les enfants citoyens, la MyKad pour les citoyens à partir de l''âge d''enregistrement, la MyPR (rouge) pour les résidents permanents déjà titulaires d''un Permis d''entrée (Permit Masuk) accordé par l''Immigration, et la MyKAS (verte) pour les résidents temporaires au statut non déterminé.'
+  cost: 'L''enregistrement de la MyKad est gratuit dans un court délai après l''anniversaire déterminant, avec des frais de retard plafonnés ensuite ; la MyPR comporte des frais de demande — confirmez les frais en vigueur auprès du JPN (jpn.gov.my).'
+  watch: 'Une longue résidence ne donne droit ni à une MyKad ni à une MyPR — les deux exigent un statut formellement approuvé (la citoyenneté, ou un Permis d''entrée de l''Immigration), et non des années vécues ; les titulaires d''un Employment Pass, d''un Professional Visit Pass, d''un Dependant Pass et d''un Residence Pass conservent leur passeport et leur pass d''immigration comme pièce d''identité.'
+  next: 'Jabatan Pendaftaran Negara (JPN / Département national de l''enregistrement, jpn.gov.my) ; le statut de résident permanent doit d''abord être approuvé au moyen d''un Permis d''entrée du Jabatan Imigresen Malaysia avant de demander la MyPR.'
 ---
 
 De nombreux étrangers qui ont déjà passé des années en Malaisie — mariés à une

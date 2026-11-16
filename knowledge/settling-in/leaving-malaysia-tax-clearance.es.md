@@ -65,6 +65,12 @@ relations:
 related: ["lhdn", "tax-clearance", "offboarding-statutory-checklist", "employment-pass-malaysia", "moving-to-malaysia-first-steps", "epf-socso-employees"]
 keywords: ["tax clearance Malaysia", "Surat Penyelesaian Cukai", "SPC LHDN", "CP21 form Malaysia", "leaving Malaysia tax clearance", "expatriate tax clearance Malaysia", "e-SPC MyTax", "EPF leaving country withdrawal"]
 framework: rules
+stayFacts:
+  who: 'Expatriados y trabajadores extranjeros que salen de Malasia definitivamente (o por más de un breve periodo), y los empleadores que deben presentar los trámites en su nombre.'
+  how: 'El LHDN emite una Carta de Finiquito Fiscal (Surat Penyelesaian Cukai, SPC) una vez liquidado el impuesto sobre la renta; el empleador —no el empleado que se marcha— presenta el Formulario CP21 en línea mediante e-SPC en el portal MyTax antes de la fecha de salida, y el SPC es el ancla del resto de la salida (declaración final, Retiro por salida del país del EPF/KWSP, cancelación del pase).'
+  cost: 'No hay una tarifa como tal: la obligación es que el impuesto pendiente quede liquidado antes de que se emita el SPC; confirme los requisitos vigentes en el LHDN (hasil.gov.my).'
+  watch: 'No des por sentado que es tarea del empleado ni que solo aplica a la emigración permanente: el deber del CP21 es del empleador, y hasta que se emita el SPC debe retener el dinero que aún te adeude; no presentarlo es un delito conforme a la Ley del Impuesto sobre la Renta de 1967 (Income Tax Act 1967).'
+  next: 'Pregunta a tu empleador por escrito si el CP21 se ha presentado mediante e-SPC, y verifica los requisitos vigentes del SPC con el LHDN (hasil.gov.my).'
 ---
 
 Has entregado tu renuncia, reservado el vuelo y empezado a regalar muebles. Entonces RR. HH. te pide algo de lo que nunca habías oído hablar: una Carta de Finiquito Fiscal. Sin ella, parte de tu último sueldo no se mueve — y ni siquiera eres tú quien debe solicitarla.

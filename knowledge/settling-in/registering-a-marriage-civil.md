@@ -64,6 +64,12 @@ relations:
 related: ["jpn", "mykad"]
 keywords: ["civil marriage Malaysia", "JPN marriage registration", "Act 164", "Law Reform Marriage and Divorce Act 1976", "non-Muslim marriage Malaysia", "JPN.KC02", "marriage notice 21 days", "special marriage licence Malaysia"]
 framework: how-to
+stayFacts:
+  who: 'Non-Muslim couples — two citizens, a citizen marrying a foreigner, or two resident non-citizens — registering a civil marriage; not those marrying under Islamic law.'
+  how: 'Register with Jabatan Pendaftaran Negara (JPN) under the Law Reform (Marriage and Divorce) Act 1976 (Act 164): file the notice (Form JPN.KC02) after meeting the district-residency requirement, wait out a public notice-display period, then solemnise before the Registrar (or a licensed assistant registrar at a church or temple) with at least two witnesses.'
+  cost: 'Varies — confirm current notice, licence and certificate fees on JPN''s published schedule (jpn.gov.my).'
+  watch: 'The clock starts when you file: a mandatory public notice period must pass before solemnising, and it lapses if you don''t solemnise within the outer time limit (then refile from scratch); a minimum-age rule applies, and a foreign party usually needs extra documents such as a certified single-status letter.'
+  next: 'Confirm your route and document checklist with your local Jabatan Pendaftaran Negara (JPN / National Registration Department) branch or jpn.gov.my before filing.'
 ---
 
 Two people can hold a wedding banquet, exchange rings, sign a guestbook — and

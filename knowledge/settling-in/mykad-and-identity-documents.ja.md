@@ -81,6 +81,12 @@ keywords:
   - "MyKid kanak-kanak"
   - "kad pengenalan warga asing Malaysia"
 framework: explainer
+stayFacts:
+  who: 'マレーシア国民（MyKad／MyKid）、および承認を受けた永住者・一時的居住者（MyPR／MyKAS）。就労パスや訪問パスを持つ大半の外国人は、JPNのカードをいっさい保有していない。'
+  how: '身分証明書を発行するのは移民局ではなく国民登録局（Jabatan Pendaftaran Negara、JPN）であり、身分に応じて発行される。国民の子どもにはMyKid、登録年齢以上の国民にはMyKad、移民局によってすでに入国許可（Entry Permit、Permit Masuk）を付与された永住者にはMyPR（赤色）、身分が未確定の一時的居住者にはMyKAS（緑色）が発行される。'
+  cost: 'MyKadの登録は、節目の誕生日の後の短い期間内であれば無料で、それ以降は上限のある遅延手数料がかかる。MyPRには申請手数料がかかる——現行の手数料はJPN（jpn.gov.my）で確認すること。'
+  watch: '長く居住してもMyKadやMyPRが得られるわけではない——どちらも、居住した年数ではなく、正式に承認された身分（市民権、または移民局の入国許可）を要する。エンプロイメントパス、専門訪問パス、扶養家族パス、居住パスの保有者は、身分証明としてパスポートに移民局のパスを添えたものを保持し続ける。'
+  next: '国民登録局（Jabatan Pendaftaran Negara、JPN、jpn.gov.my）。永住資格は、MyPRを申請する前に、まずマレーシア入国管理局（Jabatan Imigresen Malaysia）の入国許可（Entry Permit）によって承認されていなければならない。'
 ---
 
 マレーシアで何年も暮らしてきた多くの外国人——地元の人と結婚し、ここで子ども

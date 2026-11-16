@@ -76,6 +76,12 @@ relations:
 related: []
 keywords: ["legalisasi dokumen", "apostille Malaysia", "pengesahan konsular", "Wisma Putra", "sijil kelahiran asing", "sijil perkahwinan luar negara", "pengesahan ijazah", "JPN dokumen asing"]
 framework: how-to
+stayFacts:
+  who: 'Anyone — foreigner or Malaysian — needing a foreign-issued document (birth, marriage or death certificate, degree, power of attorney) accepted by a Malaysian agency such as JPN or the Immigration Department.'
+  how: 'Malaysia is NOT a party to the Hague Apostille Convention, so an apostille alone is not accepted: a foreign document must go through full consular legalisation — verified by the issuing country''s foreign ministry, then legalised by the Malaysian Embassy or High Commission there — often finished by the Consular Division of Wisma Putra (Ministry of Foreign Affairs).'
+  cost: 'Varies by country, document and mission, each layer charging its own fee — confirm current fees with the Malaysian Embassy/High Commission in the issuing country and Wisma Putra (kln.gov.my).'
+  watch: 'The big misconception is that an apostille suffices — it does not in Malaysia, which is outside the Convention, so full consular legalisation is still required; a foreign-language document must also be translated and that translation certified, and legalisation confirms only the signature and seal, not the document''s contents.'
+  next: 'Ask the Malaysian Embassy or High Commission in the issuing country for its current legalisation steps, confirm acceptance with the target Malaysian agency (JPN for civil-status documents, Immigration for permits/visas), and arrange a certified translation early.'
 ---
 
 You arrive at the JPN counter with a marriage certificate issued overseas, and the officer turns it away — not because it is fake, but because it has not been "legalised". Many people stumble here: a document being valid in its country of origin does not mean it is accepted directly in Malaysia. There is a chain of attestation that must be gone through first.

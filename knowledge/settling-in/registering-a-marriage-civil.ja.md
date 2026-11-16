@@ -63,6 +63,12 @@ relations:
 related: ["jpn", "mykad"]
 keywords: ["civil marriage Malaysia", "JPN marriage registration", "Act 164", "Law Reform Marriage and Divorce Act 1976", "non-Muslim marriage Malaysia", "JPN.KC02", "marriage notice 21 days", "special marriage licence Malaysia"]
 framework: how-to
+stayFacts:
+  who: '民事婚を登録する非ムスリムのカップル——国民同士、国民と外国人、またはマレーシアに居住する非国民同士——であって、イスラム法のもとで結婚するのではない者。'
+  how: '1976年婚姻・離婚（改革）法（Law Reform (Marriage and Divorce) Act 1976、Act 164）のもとで、国民登録局（Jabatan Pendaftaran Negara、JPN）に登録する。地区の居住要件を満たしたうえで通知（書式JPN.KC02）を提出し、公開通知の掲示期間を経たのち、少なくとも二名の証人の面前で、登録官（または教会・寺院の許可を受けた登録官補）の立会いのもとで婚姻を挙行する。'
+  cost: '場合によって異なる——現行の通知・許可証・証明書の各手数料は、JPNの公表された手数料表（jpn.gov.my）で確認すること。'
+  watch: '時計は提出した時点から動き出す。婚姻を挙行する前に、義務的な公開通知の期間が経過しなければならず、外側の期限内に挙行しなければその通知は失効する（その場合は最初からやり直して再提出する）。最低年齢の規定が適用され、外国籍の当事者は通常、認証済みの独身証明書などの追加書類を必要とする。'
+  next: '提出する前に、自分のルートと書類チェックリストを、最寄りの国民登録局（Jabatan Pendaftaran Negara、JPN）支局またはjpn.gov.myで確認すること。'
 ---
 
 二人は披露宴を開き、指輪を交換し、記帳に署名することができる——それでも

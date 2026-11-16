@@ -64,6 +64,12 @@ relations:
 related: ["lhdn", "tax-clearance", "offboarding-statutory-checklist", "employment-pass-malaysia", "moving-to-malaysia-first-steps", "epf-socso-employees"]
 keywords: ["tax clearance Malaysia", "Surat Penyelesaian Cukai", "SPC LHDN", "CP21 form Malaysia", "leaving Malaysia tax clearance", "expatriate tax clearance Malaysia", "e-SPC MyTax", "EPF leaving country withdrawal"]
 framework: rules
+stayFacts:
+  who: '말레이시아를 영구히(또는 짧지 않은 기간 동안) 떠나는 주재원과 외국인 근로자, 그리고 그들을 대신하여 서류를 제출해야 하는 고용주.'
+  how: 'LHDN은 소득세가 정산되면 세금 정산 확인서(Surat Penyelesaian Cukai, SPC)를 발급합니다. 떠나는 직원이 아니라 고용주가 출국일 전에 MyTax 포털의 e-SPC를 통해 CP21 양식을 온라인으로 제출하며, SPC가 나머지 출국 절차(최종 신고, EPF/KWSP 국가 출국 인출, 패스 취소)의 기준점이 됩니다.'
+  cost: '별도의 수수료는 없습니다 — 의무는 SPC가 발급되기 전에 미납 세금이 정산되어야 한다는 것입니다. 현행 요건은 LHDN(hasil.gov.my)에서 확인하십시오.'
+  watch: '직원의 몫이라거나 영구 이주에만 해당한다고 가정하지 마십시오 — CP21 의무는 고용주의 것이며, SPC가 발급될 때까지 고용주는 당신에게 아직 지급할 돈을 보류해야 합니다. 제출 누락은 소득세법 1967(Income Tax Act 1967)에 따른 범죄입니다.'
+  next: '고용주에게 CP21이 e-SPC를 통해 제출되었는지 서면으로 확인하고, 현행 SPC 요건을 LHDN(hasil.gov.my)에 확인하십시오.'
 ---
 
 사직서를 제출했고, 항공편을 예약했으며, 가구를 나눠주기 시작했습니다. 그런데 인사팀이 한 번도 들어본 적 없는 것을 요청합니다. 세금 정산 확인서입니다. 이것 없이는 마지막 급여의 일부가 움직이지 않으며 — 게다가 그것을 요청해야 하는 사람은 당신조차 아닙니다.

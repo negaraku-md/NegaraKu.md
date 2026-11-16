@@ -83,6 +83,12 @@ keywords:
   - "MyKid kanak-kanak"
   - "kad pengenalan warga asing Malaysia"
 framework: explainer
+stayFacts:
+  who: 'Công dân Malaysia (MyKad/MyKid) và thường trú nhân hoặc cư dân tạm thời đã được phê duyệt (MyPR/MyKAS); hầu hết người nước ngoài giữ giấy phép lao động hoặc thăm viếng không giữ bất kỳ thẻ JPN nào.'
+  how: 'Jabatan Pendaftaran Negara (JPN), chứ không phải Cục Di trú, cấp thẻ căn cước theo tình trạng: MyKid cho trẻ em công dân, MyKad cho công dân từ độ tuổi đăng ký, MyPR (màu đỏ) cho thường trú nhân đã được Cục Di trú cấp Giấy phép Nhập cư (Entry Permit / Permit Masuk), và MyKAS (màu xanh lá) cho cư dân tạm thời có tình trạng chưa được xác định.'
+  cost: 'Đăng ký MyKad là miễn phí trong một khoảng thời gian ngắn sau sinh nhật cột mốc, với một khoản phí trễ có mức trần sau đó; MyPR mang một khoản phí đơn — hãy xác nhận mức phí hiện hành trên JPN (jpn.gov.my).'
+  watch: 'Thời gian lưu trú lâu không đem lại một MyKad hay MyPR — cả hai đều đòi hỏi một tình trạng được phê duyệt chính thức (quốc tịch, hoặc một Giấy phép Nhập cư của Cục Di trú), chứ không phải số năm đã sống; người giữ Employment Pass, Professional Visit Pass, Dependant Pass và Residence Pass vẫn dùng hộ chiếu kèm giấy phép di trú làm giấy tờ định danh.'
+  next: 'Jabatan Pendaftaran Negara (JPN / Cục Đăng ký Quốc gia, jpn.gov.my); tình trạng thường trú nhân phải được phê duyệt trước qua một Giấy phép Nhập cư (Entry Permit) từ Jabatan Imigresen Malaysia trước khi nộp đơn xin MyPR.'
 ---
 
 Nhiều người nước ngoài đã ở Malaysia nhiều năm — kết hôn với người bản địa, nuôi con ở đây, giữ một Employment Pass được gia hạn nhiều năm — vẫn tự hỏi khi nào họ sẽ "có MyKad." Câu trả lời: sẽ không, không phải vì thời gian lưu trú, mà vì MyKad vốn không dành cho họ. JPN cấp một số thẻ khác nhau theo **tình trạng** của một người, và hầu hết người nước ngoài tại Malaysia không giữ bất kỳ thẻ nào trong số đó cho đến khi tình trạng đó thay đổi trước.

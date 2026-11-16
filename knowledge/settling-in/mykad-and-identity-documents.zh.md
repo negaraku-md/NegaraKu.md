@@ -81,6 +81,12 @@ keywords:
   - "MyKid kanak-kanak"
   - "kad pengenalan warga asing Malaysia"
 framework: explainer
+stayFacts:
+  who: '马来西亚公民（MyKad／MyKid）以及已获批准的永久或临时居民（MyPR／MyKAS）；大部分持工作或访问准证的外国人完全不持有任何 JPN 身份证。'
+  how: '发出身份证的是国民登记局（Jabatan Pendaftaran Negara，JPN），而非移民局，并按身份区分：MyKid 给公民儿童，MyKad 给达到登记年龄的公民，MyPR（红色）给已获移民局批准入境准证（Entry Permit，Permit Masuk）的永久居民，而 MyKAS（绿色）给身份尚未确定的临时居民。'
+  cost: 'MyKad 登记在达标生日后的短暂窗口内免费，之后收取有上限的逾期费用；MyPR 则须缴付申请费——请在 JPN（jpn.gov.my）查核当前费用。'
+  watch: '居留时间长并不会换来 MyKad 或 MyPR——两者都取决于正式获批的身份（公民权，或移民局的入境准证），而非居住年数；就业准证（Employment Pass）、专业访问准证（Professional Visit Pass）、受养人准证（Dependant Pass）与居留准证（Residence Pass）持有人，仍以护照加移民局准证作为身份证明。'
+  next: '国民登记局（Jabatan Pendaftaran Negara，JPN，jpn.gov.my）；永久居民身份须先透过马来西亚移民局（Jabatan Imigresen Malaysia）的入境准证（Entry Permit）获批，之后才能申请 MyPR。'
 ---
 
 许多已在大马生活多年的外籍人士——与本地人结婚、在这里养育孩子、持有一再更新多年的就业准证——仍然在纳闷自己何时会「拿到MyKad」。答案是：永远不会，不是因为居留时间长短，而是因为MyKad本来就不是为他们而设的。JPN 根据一个人的**身份**发出多种不同的卡，大马大部分外籍人士在身份改变之前，都不持有其中任何一种。

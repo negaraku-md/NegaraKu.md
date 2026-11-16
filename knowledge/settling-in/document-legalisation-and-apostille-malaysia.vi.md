@@ -76,6 +76,12 @@ relations:
 related: []
 keywords: ["legalisasi dokumen", "apostille Malaysia", "pengesahan konsular", "Wisma Putra", "sijil kelahiran asing", "sijil perkahwinan luar negara", "pengesahan ijazah", "JPN dokumen asing"]
 framework: how-to
+stayFacts:
+  who: 'Bất kỳ ai — người nước ngoài hay người Malaysia — cần một giấy tờ do nước ngoài cấp (giấy khai sinh, kết hôn hoặc khai tử, bằng cấp, giấy ủy quyền) được một cơ quan Malaysia như JPN hoặc Cục Di trú chấp nhận.'
+  how: 'Malaysia KHÔNG phải là thành viên của Công ước Apostille La Haye, nên chỉ riêng apostille là không được chấp nhận: một giấy tờ nước ngoài phải trải qua hợp pháp hóa lãnh sự đầy đủ — được Bộ Ngoại giao của nước cấp xác nhận, sau đó được Đại sứ quán hoặc Cao ủy Malaysia tại đó hợp pháp hóa — thường được hoàn tất bởi Cục Lãnh sự của Wisma Putra (Bộ Ngoại giao).'
+  cost: 'Thay đổi tùy nước, loại giấy tờ và cơ quan đại diện, mỗi lớp thu phí riêng — hãy xác nhận mức phí hiện hành với Đại sứ quán/Cao ủy Malaysia tại nước cấp và Wisma Putra (kln.gov.my).'
+  watch: 'Hiểu lầm lớn nhất là một apostille đã đủ — tại Malaysia thì không, vì nước này nằm ngoài Công ước, nên vẫn cần hợp pháp hóa lãnh sự đầy đủ; một giấy tờ bằng tiếng nước ngoài cũng phải được dịch và bản dịch đó được xác nhận, và việc hợp pháp hóa chỉ xác nhận chữ ký và con dấu, chứ không phải nội dung của giấy tờ.'
+  next: 'Hãy hỏi Đại sứ quán hoặc Cao ủy Malaysia tại nước cấp về các bước hợp pháp hóa hiện hành của họ, xác nhận việc tiếp nhận với cơ quan Malaysia mục tiêu (JPN cho giấy tờ hộ tịch, Cục Di trú cho giấy phép/visa), và thu xếp một bản dịch được xác nhận sớm.'
 ---
 
 Bạn đến quầy JPN với một giấy đăng ký kết hôn được cấp ở nước ngoài, và cán bộ từ chối nó — không phải vì nó giả, mà vì nó chưa được "hợp pháp hóa". Nhiều người vấp phải chính chỗ này: một giấy tờ hợp lệ ở nước xuất xứ không có nghĩa là nó được chấp nhận thẳng tại Malaysia. Có một chuỗi xác nhận cần phải trải qua trước.

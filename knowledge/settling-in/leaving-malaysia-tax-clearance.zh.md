@@ -64,6 +64,12 @@ relations:
 related: ["lhdn", "tax-clearance", "offboarding-statutory-checklist", "employment-pass-malaysia", "moving-to-malaysia-first-steps", "epf-socso-employees"]
 keywords: ["tax clearance Malaysia", "Surat Penyelesaian Cukai", "SPC LHDN", "CP21 form Malaysia", "leaving Malaysia tax clearance", "expatriate tax clearance Malaysia", "e-SPC MyTax", "EPF leaving country withdrawal"]
 framework: rules
+stayFacts:
+  who: '永久离开马来西亚（或离开不止一小段时间）的外派人员与外籍员工，以及须代为申办的雇主。'
+  how: '待所得税事务了结后，LHDN 便会发出税务清缴信（Surat Penyelesaian Cukai，SPC）；由雇主——而非即将离开的雇员——在离境日期之前，透过 MyTax 门户上的 e-SPC 线上呈交 CP21 表格，而 SPC 是其余离境事项（最后报税、EPF／KWSP 离境提领、准证注销）的锚点。'
+  cost: '本身不收费——义务在于须在 SPC 发出之前结清未缴税款；请在 LHDN（hasil.gov.my）确认当前要求。'
+  watch: '别以为这是雇员的事，或只适用于永久移民——CP21 的义务在雇主身上，而在 SPC 发出之前，他们必须扣起仍应付给你的款项；漏报属 Income Tax Act 1967 下的一项罪行。'
+  next: '以书面方式询问你的雇主是否已透过 e-SPC 呈交 CP21，并向 LHDN（hasil.gov.my）核实当前的 SPC 要求。'
 ---
 
 你已经递交辞呈，订好机票，也开始把家具送人了。这时人力资源部却问起一样你从没听过的东西：税务清缴信。没有它，你最后一笔薪酬有一部分动不了——而且理应去申请它的人，根本不是你。

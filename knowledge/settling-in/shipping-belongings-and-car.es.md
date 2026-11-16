@@ -61,6 +61,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
 keywords: ["enviar pertenencias a Malasia", "importar enseres domésticos aduanas Malasia", "Formulario de Aduanas K1 Malasia", "importar coche a Malasia", "Permiso Aprobado AP Malasia", "MITI AP importación vehículo", "JPJ matriculación vehículo importado", "PUSPAKOM coche importado", "expatriado mudanza a Malasia coche"]
 framework: explainer
+stayFacts:
+  who: 'Cualquiera que se reubique en Malasia —malasios que regresan, expatriados, participantes del MM2H— que envíe enseres domésticos o un coche particular.'
+  how: 'Los enseres domésticos se despachan a través del Departamento de Aduanas de Malasia (JKDM/Kastam) mediante una declaración en el Formulario de Aduanas K1 contra un inventario detallado, con inspección física; un coche es una importación de vehículo aparte que requiere un Permiso Aprobado (AP) del MITI en virtud de la Ley de Aduanas de 1967 (Customs Act 1967), seguida del despacho de Aduanas, una inspección de PUSPAKOM y la matriculación del JPJ a través de un Gateway Provider designado.'
+  cost: 'Varía: los efectos domésticos genuinamente usados pueden despacharse libres de impuestos, mientras que un coche conlleva arancel de importación, impuesto especial e impuesto sobre ventas, además de las tarifas del AP y del JPJ; confirme los cargos vigentes en el Departamento de Aduanas de Malasia (customs.gov.my), el MITI y el JPJ.'
+  watch: 'Traer tu propio coche casi nunca funciona: el AP se limita a categorías individuales específicas y no es automático, e incluso un AP aprobado no exime de los impuestos de importación, especial y sobre ventas aparte, razón por la cual casi todas las guías aconsejan vender y comprar localmente.'
+  next: 'Trata las pertenencias y el coche como dos proyectos: contrata una empresa de mudanzas internacional licenciada con el Formulario K1 y el inventario, y —solo si ese coche concreto de verdad te importa— comprueba tu categoría de AP Individual con el MITI antes de enviarlo. Empieza en el Departamento de Aduanas de Malasia (JKDM) y el MITI.'
 ---
 
 Toda lista de reubicación para Malasia dice lo mismo en cuanto bajas lo suficiente: envía tus muebles, vende tu coche. Nadie explica por qué esas dos instrucciones son tan distintas: una es papeleo, la otra es un muro.

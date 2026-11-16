@@ -60,6 +60,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
 keywords: ["shipping belongings to Malaysia", "import household goods Malaysia customs", "Customs Form K1 Malaysia", "import car to Malaysia", "Approved Permit AP Malaysia", "MITI AP vehicle import", "JPJ import vehicle registration", "PUSPAKOM imported car", "expatriate moving to Malaysia car"]
 framework: explainer
+stayFacts:
+  who: '任何搬迁到马来西亚的人——归国的马来西亚人、外派人员、MM2H 参与者——正要运送家居用品或私人汽车。'
+  how: '家居用品透过马来西亚皇家关税局（JKDM/Kastam）放行，须依一份逐项清单以 Customs Form K1 申报，并接受实体检查；汽车则属另一道独立的车辆进口程序，须持有 MITI 依 Customs Act 1967 发出的 Approved Permit（AP），再经关税放行、PUSPAKOM 检验，以及透过指定的 Gateway Provider 完成的 JPJ 注册。'
+  cost: '视情况而定——真正旧有的家居用品可免税放行，而汽车则须缴付进口税、消费税与销售税，另加 AP 与 JPJ 费用；请在马来西亚皇家关税局（customs.gov.my）、MITI 与 JPJ 查核当前收费。'
+  watch: '带上自己的车几乎行不通——AP 仅限于特定的个人类别，并非自动获发，而且即使 AP 获批，也不会免除另计的进口税、消费税与销售税，这正是大多数指南都建议把车卖掉、改在本地购买的原因。'
+  next: '把家当与汽车当成两个独立项目来处理：为家居用品物色一家持牌的国际搬迁公司，备好 Form K1 与清单；而——只有在带上那辆特定的车真的很重要时——才在运送前向 MITI 核实你的 Individual AP 类别。请从马来西亚皇家关税局（JKDM）与 MITI 着手。'
 ---
 
 每一份马来西亚搬迁清单，只要往下滑得够远，说的都是同一句话：把家具运过去，把车卖掉。却没有人解释，这两项指示为何差别如此之大——一个是文书作业，另一个则是一堵墙。

@@ -65,6 +65,12 @@ relations:
 related: ["jpn", "mykad"]
 keywords: ["matrimonio civil Malasia", "civil marriage Malaysia", "registro de matrimonio JPN", "JPN marriage registration", "Act 164", "Law Reform Marriage and Divorce Act 1976", "matrimonio no musulmán Malasia", "JPN.KC02", "notificación de matrimonio 21 días", "licencia especial de matrimonio Malasia"]
 framework: how-to
+stayFacts:
+  who: 'Parejas no musulmanas —dos ciudadanos, un ciudadano que se casa con un extranjero, o dos no ciudadanos residentes— que registran un matrimonio civil; no quienes se casan bajo la ley islámica.'
+  how: 'Regístrelo ante el Jabatan Pendaftaran Negara (JPN) bajo la Ley de Reforma del Derecho (Matrimonio y Divorcio) de 1976 (Law Reform (Marriage and Divorce) Act 1976, Act 164): presente la notificación (Formulario JPN.KC02) tras cumplir el requisito de residencia en el distrito, espere a que transcurra un periodo de exhibición pública de la notificación y luego celebre el matrimonio ante el Registrador (o un registrador adjunto con licencia en una iglesia o templo) con al menos dos testigos.'
+  cost: 'Varía: confirme las tarifas vigentes de notificación, licencia y certificado en la lista publicada del JPN (jpn.gov.my).'
+  watch: 'El reloj empieza cuando presentas la solicitud: debe transcurrir un periodo obligatorio de notificación pública antes de celebrar el matrimonio, y caduca si no lo celebras dentro del plazo máximo (entonces hay que volver a presentar todo desde cero); se aplica una regla de edad mínima, y una parte extranjera suele necesitar documentos adicionales, como una carta certificada de estado civil de soltería.'
+  next: 'Confirma tu vía y la lista de documentos con tu sucursal local del Jabatan Pendaftaran Negara (JPN / Departamento Nacional de Registro) o en jpn.gov.my antes de presentar la solicitud.'
 ---
 
 Dos personas pueden celebrar un banquete de boda, intercambiar anillos, firmar un libro de invitados — y aun así no estar legalmente casadas en Malasia. Para los no musulmanes, el matrimonio que cuenta ante la ley es el que se registra ante el Jabatan Pendaftaran Negara (JPN) bajo un estatuto específico, con un reloj que empieza el día en que se presenta la notificación.

@@ -64,6 +64,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "dependant-social-visit-passes"]
 keywords: ["bringing pets to Malaysia", "MAQIS import permit", "DVS pet import rules", "dog cat quarantine Malaysia", "restricted dog breeds Malaysia", "ISO microchip pet import"]
 framework: how-to
+stayFacts:
+  who: '任何携狗或携猫移居马来西亚、须在启程前办妥进口许可证与检疫安排的人士。'
+  how: '在动物启程之前，先在 MAQIS 的 SPEED 系统完成注册并取得 MAQIS e-Permit，同时须配备符合 ISO 11784/11785 标准的芯片，以及由原产国政府签发的兽医健康证明（Veterinary Health Certificate）；生物安全条件与检疫规定由兽医服务局（Department of Veterinary Services，DVS，马来文 Jabatan Perkhidmatan Veterinar）制定，检疫在 MAQIS 动物检疫站（SKH）进行，而检疫空间须在提交许可证申请之前预订。'
+  cost: '视情况而定——检疫费、按金与许可证费用依据 MAQIS (Fees and Charges) Regulations 2013 收取；请在 MAQIS（maqis.gov.my）查核当前费用。'
+  watch: '品种很重要：某些狗只品种（如 German Shepherd、Rottweiler、Doberman）受到限制，须先取得 MAQIS 总监（Director-General）的书面批准才能申请；另一些（如 Pit Bull 类、Akita、Japanese Tosa）则完全被禁止；来自「列表国家」（scheduled country）的宠物，只有在文件齐全时才可免除检疫。'
+  next: '把宠物的原产国对照 DVS 目前最新的列表国家名单核实，及早在 MAQIS SPEED 系统完成注册并预订 SKH 检疫空间（若属受限品种，请先启动总监批准程序）；请从 MAQIS（maqis.gov.my）与 DVS（dvs.gov.my）着手。'
 ---
 
 机票订好了，箱子也打包好了，这时你突然想到：狗怎么办。在马来西亚，宠物不能只是搭上货舱那么简单——它需要一张在离地之前就已获批的许可证、一枚符合特定 ISO 标准的芯片，而且很可能还得先在检疫所待上一周甚至更久，你才能把它接回来。

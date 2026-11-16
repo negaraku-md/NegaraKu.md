@@ -64,6 +64,12 @@ relations:
 related: ["lhdn", "tax-clearance", "offboarding-statutory-checklist", "employment-pass-malaysia", "moving-to-malaysia-first-steps", "epf-socso-employees"]
 keywords: ["tax clearance Malaysia", "Surat Penyelesaian Cukai", "SPC LHDN", "CP21 form Malaysia", "leaving Malaysia tax clearance", "expatriate tax clearance Malaysia", "e-SPC MyTax", "EPF leaving country withdrawal"]
 framework: rules
+stayFacts:
+  who: 'Expatriates and foreign workers leaving Malaysia for good (or for more than a short spell), and the employers who must file for them.'
+  how: 'LHDN issues a Tax Clearance Letter (Surat Penyelesaian Cukai, SPC) once income tax is settled; the employer — not the departing employee — files Form CP21 online via e-SPC on the MyTax portal ahead of the departure date, and the SPC anchors the rest of the exit (final return, EPF/KWSP Leaving Country withdrawal, pass cancellation).'
+  cost: 'No fee as such — the obligation is that outstanding tax is cleared before the SPC issues; confirm current requirements on LHDN (hasil.gov.my).'
+  watch: 'Don''t assume it''s the employee''s job or only for permanent emigration — the CP21 duty is the employer''s, and until the SPC issues they must withhold money still owed to you; a missed filing is an offence under the Income Tax Act 1967.'
+  next: 'Ask your employer in writing whether CP21 has been filed via e-SPC, and verify current SPC requirements with LHDN (hasil.gov.my).'
 ---
 
 You've handed in your resignation, booked the flight, and started giving away furniture. Then HR asks for something you've never heard of: a Tax Clearance Letter. Without it, part of your last paycheck doesn't move — and it isn't even you who's supposed to request it.

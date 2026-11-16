@@ -75,6 +75,12 @@ relations:
 related: ["immigration-act-1959-63"]
 keywords: ["masuk sabah", "masuk sarawak", "imigresen sabah sarawak", "dokumen perjalanan terhad", "pas lawatan sosial", "MA63 imigresen"]
 framework: rules
+stayFacts:
+  who: 'Bất kỳ ai đi đến hoặc định cư tại Sabah hoặc Sarawak — cả công dân Malaysia từ Bán đảo lẫn người nước ngoài — để thăm viếng, làm việc, hay ở lại lâu hơn.'
+  how: 'Theo Phần VII (Các Điều khoản Đặc biệt cho Đông Malaysia) của Immigration Act 1959/63 — được giữ từ năm 1963 — Sabah và Sarawak vận hành việc kiểm soát biên giới của riêng mình: mọi người đều qua một quầy nhập cư khi đến và được cấp một giấy phép bang riêng (công dân Bán đảo xuất trình MyKad và nhận một Giấy phép Thăm viếng Xã hội/Kinh doanh; một Giấy tờ Đi lại Hạn chế, Dokumen Perjalanan Terhad/DPT, là cần thiết để ở lại lâu hơn).'
+  cost: 'Giấy tờ thay thế giấy tờ đi lại được cấp khi đến cho công dân Bán đảo không có hộ chiếu là miễn phí; Giấy tờ Đi lại Hạn chế (DPT) cho việc ở lại lâu hơn mang một khoản lệ phí danh nghĩa nhỏ — hãy xác nhận mức hiện hành trên Jabatan Imigresen Malaysia (imi.gov.my).'
+  watch: 'Một con dấu, giấy phép, hay giấy phép lao động được cấp ở Bán đảo Malaysia KHÔNG tự động có hiệu lực — người nước ngoài được kiểm tra lại và được cấp lại một giấy phép bang khi đến Kota Kinabalu hoặc Kuching, một giấy phép lao động Bán đảo có thể không bao trùm việc làm việc ở đó, và giấy phép thăm viếng xã hội/kinh doanh không vượt quá ba tháng.'
+  next: 'Đối với một chuyến thăm ngắn, hãy mang theo MyKad của bạn (một giấy tờ thay thế miễn phí được cấp tại quầy nếu bạn không có hộ chiếu); để ở lại lâu hơn, hãy thu xếp một Giấy tờ Đi lại Hạn chế (DPT) từ trước; người nước ngoài nên xác nhận tình trạng nhập cảnh và làm việc với cơ quan nhập cư bang Sabah hoặc Sarawak thông qua Jabatan Imigresen Malaysia (imi.gov.my).'
 ---
 
 Bay từ Kuala Lumpur đến Kuching, và ngay khi bạn hạ cánh, có một quầy nhập cư đang chờ — ngay trong chính đất nước mình. Với nhiều công dân Bán đảo, đây là lần đầu tiên họ xuất trình thẻ căn cước cho một cán bộ nhập cư mà chưa hề vượt qua một biên giới quốc tế nào. Đây không phải là một sai sót hành chính. Sabah và Sarawak kiểm soát việc nhập cư của riêng mình, và quy định đó áp dụng cho tất cả mọi người, bao gồm cả công dân Malaysia.

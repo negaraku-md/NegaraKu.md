@@ -75,6 +75,12 @@ relations:
 related: ["immigration-act-1959-63"]
 keywords: ["entrar en Sabah", "entrar en Sarawak", "inmigración Sabah Sarawak", "Documento de Viaje Restringido", "Restricted Travel Document", "pase de visita social", "MA63 immigration"]
 framework: rules
+stayFacts:
+  who: 'Cualquiera que viaje o se establezca en Sabah o Sarawak —tanto malasios de la Península como extranjeros— para una visita, trabajo o una estancia más larga.'
+  how: 'En virtud de la Parte VII (Disposiciones Especiales para Malasia Oriental) de la Ley de Inmigración 1959/63 (Immigration Act 1959/63) —conservada desde 1963—, Sabah y Sarawak gestionan su propio control fronterizo: todo el mundo pasa por un mostrador de inmigración a la llegada y recibe un pase estatal aparte (los malasios peninsulares muestran su MyKad y obtienen un Pase de Visita Social o de Negocios; para estancias más largas se necesita un Documento de Viaje Restringido, Dokumen Perjalanan Terhad/DPT).'
+  cost: 'El documento de viaje sustitutivo que se expide a la llegada a los malasios peninsulares sin pasaporte es gratuito; el Documento de Viaje Restringido (DPT) de estancia más larga conlleva una pequeña tarifa nominal; confirme las tarifas vigentes en Jabatan Imigresen Malaysia (imi.gov.my).'
+  watch: 'Un sello, pase o permiso de trabajo expedido en la Malasia Peninsular NO se traslada: los extranjeros se vuelven a controlar y reciben de nuevo un pase estatal a la llegada a Kota Kinabalu o Kuching, un pase de trabajo peninsular puede no cubrir el trabajo allí, y los pases de visita social o de negocios no exceden de tres meses.'
+  next: 'Para una visita corta lleva tu MyKad (si no tienes pasaporte, se expide un documento sustitutivo gratuito en el mostrador); para quedarte más tiempo gestiona de antemano un Documento de Viaje Restringido (DPT); los extranjeros deben confirmar su situación de entrada y de trabajo con la inmigración estatal de Sabah o Sarawak a través de Jabatan Imigresen Malaysia (imi.gov.my).'
 ---
 
 Vuela de Kuala Lumpur a Kuching y, en el momento en que aterrizas, hay un mostrador de inmigración esperando, dentro de tu propio país. Para muchos malasios peninsulares, es la primera vez que muestran su documento de identidad a un funcionario de inmigración sin cruzar jamás una frontera internacional. No se trata de un error administrativo. Sabah y Sarawak controlan su propia inmigración, y esas normas se aplican a todos, incluidos los ciudadanos malasios.

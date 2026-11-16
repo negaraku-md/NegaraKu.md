@@ -82,6 +82,12 @@ keywords:
   - "MyKid kanak-kanak"
   - "kad pengenalan warga asing Malaysia"
 framework: explainer
+stayFacts:
+  who: 'Malaysian citizens (MyKad/MyKid) and approved permanent or temporary residents (MyPR/MyKAS); most foreigners on work or visit passes hold no JPN card at all.'
+  how: 'Jabatan Pendaftaran Negara (JPN), not Immigration, issues identity cards by status: MyKid for citizen children, MyKad for citizens from the registration age, MyPR (red) for permanent residents already granted an Entry Permit (Permit Masuk) by Immigration, and MyKAS (green) for temporary residents of undetermined status.'
+  cost: 'MyKad registration is free within a short window after the milestone birthday, with a capped late fee after; MyPR carries an application fee — confirm current fees on JPN (jpn.gov.my).'
+  watch: 'Long residence does not earn a MyKad or MyPR — both require formally approved status (citizenship, or an Immigration Entry Permit), not years lived; Employment, Professional Visit, Dependant and Residence Pass holders keep passport plus immigration pass as their ID.'
+  next: 'Jabatan Pendaftaran Negara (JPN / National Registration Department, jpn.gov.my); permanent-resident status must first be approved via an Entry Permit from Jabatan Imigresen Malaysia before applying for MyPR.'
 ---
 
 Many foreigners who have already spent years in Malaysia — married to a

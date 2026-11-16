@@ -65,6 +65,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "dependant-social-visit-passes"]
 keywords: ["bringing pets to Malaysia", "MAQIS import permit", "DVS pet import rules", "dog cat quarantine Malaysia", "restricted dog breeds Malaysia", "ISO microchip pet import"]
 framework: how-to
+stayFacts:
+  who: 'Sesiapa sahaja yang berpindah ke Malaysia bersama anjing atau kucing, yang perlu menguruskan permit dan kuarantin sebelum berlepas.'
+  how: 'Daftar dalam sistem SPEED MAQIS dan dapatkan MAQIS e-Permit SEBELUM haiwan itu berlepas, dengan mikrocip ISO 11784/11785 dan Sijil Kesihatan Veterinar kerajaan daripada negara asal; syarat biosekuriti dan kuarantin ditetapkan oleh Department of Veterinary Services (DVS / Jabatan Perkhidmatan Veterinar), dengan kuarantin dijalani di Stesen Kuarantin Haiwan MAQIS (SKH) yang mesti ditempah sebelum permohonan permit dikemukakan.'
+  cost: 'Berbeza-beza — yuran kuarantin, deposit dan permit tertakluk di bawah Peraturan-Peraturan MAQIS (Fi dan Caj) 2013; sahkan yuran semasa di MAQIS (maqis.gov.my).'
+  watch: 'Baka penting: sesetengah baka anjing (cth. German Shepherd, Rottweiler, Doberman) adalah terhad dan memerlukan kelulusan bertulis Ketua Pengarah MAQIS sebelum anda boleh memohon, manakala yang lain (cth. jenis Pit Bull, Akita, Japanese Tosa) dilarang sepenuhnya; haiwan dari ''negara berjadual'' hanya terlepas daripada kuarantin apabila dokumennya lengkap.'
+  next: 'Semak negara asal haiwan anda berbanding senarai negara berjadual DVS yang terkini, daftar awal dalam SPEED MAQIS dan tempah kuarantin SKH (mulakan kelulusan Ketua Pengarah dahulu bagi baka terhad); mulakan di MAQIS (maqis.gov.my) dan DVS (dvs.gov.my).'
 ---
 
 Penerbangan anda sudah ditempah, kotak-kotak anda sudah dipek, dan kemudian ia terlintas di fikiran anda: bagaimana pula dengan anjing itu. Di Malaysia, haiwan peliharaan tidak boleh sekadar menumpang dalam ruang kargo — ia memerlukan permit yang diluluskan sebelum ia berlepas, mikrocip yang memenuhi piawaian ISO tertentu, dan berkemungkinan besar seminggu atau lebih dalam kuarantin sebelum anda mendapatkannya semula.

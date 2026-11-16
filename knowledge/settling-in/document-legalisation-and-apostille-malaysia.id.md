@@ -76,6 +76,12 @@ relations:
 related: []
 keywords: ["legalisasi dokumen", "apostille Malaysia", "pengesahan konsular", "Wisma Putra", "sijil kelahiran asing", "sijil perkahwinan luar negara", "pengesahan ijazah", "JPN dokumen asing"]
 framework: how-to
+stayFacts:
+  who: 'Siapa saja — warga asing atau warga Malaysia — yang perlu agar dokumen terbitan luar negeri (akta kelahiran, pernikahan, atau kematian, ijazah, surat kuasa) diterima oleh lembaga Malaysia seperti JPN atau Jabatan Imigresen.'
+  how: 'Malaysia BUKAN negara pihak dalam Konvensi Apostille Hague, jadi apostille saja tidak diterima: dokumen asing harus melalui legalisasi konsular penuh — disahkan oleh Kementerian Luar Negeri negara penerbit, lalu dilegalisasi oleh Kedutaan atau Suruhanjaya Tinggi Malaysia di negara itu — sering diselesaikan oleh Bahagian Konsular Wisma Putra (Kementerian Luar Negeri).'
+  cost: 'Berbeda menurut negara, dokumen, dan misi, setiap lapisan mengenakan biayanya sendiri — konfirmasikan biaya terkini dengan Kedutaan/Suruhanjaya Tinggi Malaysia di negara penerbit dan Wisma Putra (kln.gov.my).'
+  watch: 'Kesalahpahaman besarnya adalah menganggap apostille sudah memadai — di Malaysia tidak, karena berada di luar Konvensi, jadi legalisasi konsular penuh tetap diperlukan; dokumen berbahasa asing juga harus diterjemahkan dan terjemahan itu disahkan, dan legalisasi hanya mengesahkan tanda tangan dan cap, bukan isi dokumen.'
+  next: 'Tanyakan langkah legalisasi terkini kepada Kedutaan atau Suruhanjaya Tinggi Malaysia di negara penerbit, pastikan penerimaannya dengan lembaga Malaysia sasaran (JPN untuk dokumen status sipil, Imigresen untuk izin/visa), dan urus terjemahan yang disahkan sejak awal.'
 ---
 
 Anda datang ke loket JPN dengan akta pernikahan yang diterbitkan di luar negeri, dan petugas menolaknya — bukan karena palsu, tetapi karena belum "dilegalisasi". Banyak orang tersandung di sinilah: dokumen sah di negara asalnya tidak berarti langsung diterima di Malaysia. Ada satu rantai pengesahan yang harus dilalui dahulu.

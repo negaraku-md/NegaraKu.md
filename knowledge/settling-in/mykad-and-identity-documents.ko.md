@@ -82,6 +82,12 @@ keywords:
   - "MyKid kanak-kanak"
   - "kad pengenalan warga asing Malaysia"
 framework: explainer
+stayFacts:
+  who: '말레이시아 시민(MyKad/MyKid)과 승인받은 영주 또는 임시 거주자(MyPR/MyKAS). 취업 또는 방문 패스를 소지한 대부분의 외국인은 어떤 JPN 카드도 소지하지 않습니다.'
+  how: '신분증을 발급하는 것은 이민국이 아니라 국가등록청(Jabatan Pendaftaran Negara, JPN)이며, 지위에 따라 발급합니다: 시민 아동에게는 MyKid, 등록 연령 이상의 시민에게는 MyKad, 이민국이 이미 입국 허가(Entry Permit, Permit Masuk)를 승인한 영주권자에게는 MyPR(빨간색), 지위가 아직 확정되지 않은 임시 거주자에게는 MyKAS(초록색).'
+  cost: 'MyKad 등록은 기준 생일 이후 짧은 기간 내에는 무료이며, 그 후에는 상한이 정해진 지연 수수료가 붙습니다. MyPR에는 신청 수수료가 붙습니다 — 현행 수수료는 JPN(jpn.gov.my)에서 확인하십시오.'
+  watch: '오랜 체류가 MyKad나 MyPR를 얻게 해 주지 않습니다 — 둘 다 거주한 햇수가 아니라 공식적으로 승인된 지위(시민권, 또는 이민국의 입국 허가)를 요합니다. 취업 패스, 전문가 방문 패스, 부양가족 패스, 거주 패스 소지자는 신분 증명으로 여권과 이민 패스를 유지합니다.'
+  next: '국가등록청(Jabatan Pendaftaran Negara, JPN / National Registration Department, jpn.gov.my). 영주권자 지위는 MyPR를 신청하기 전에 먼저 말레이시아 이민국(Jabatan Imigresen Malaysia)의 입국 허가(Entry Permit)를 통해 승인되어야 합니다.'
 ---
 
 말레이시아에서 이미 여러 해를 지낸 많은 외국인 — 현지인과 혼인하고, 이곳에서 아이를 키우고, 여러 해 갱신된 취업 패스를 소지한 — 이 여전히 언제 「MyKad를 받게」 될지 궁금해합니다. 답은: 받지 못합니다. 체류 기간 때문이 아니라 MyKad가 애초에 그들을 위한 것이 아니기 때문입니다. JPN은 사람의 **지위**에 따라 여러 다른 카드를 발급하며, 말레이시아의 대부분 외국인은 그 지위가 먼저 바뀌기 전까지 이 중 어느 것도 소지하지 않습니다.

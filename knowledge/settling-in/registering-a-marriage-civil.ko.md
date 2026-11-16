@@ -64,6 +64,12 @@ relations:
 related: ["jpn", "mykad"]
 keywords: ["civil marriage Malaysia", "JPN marriage registration", "Act 164", "Law Reform Marriage and Divorce Act 1976", "non-Muslim marriage Malaysia", "JPN.KC02", "marriage notice 21 days", "special marriage licence Malaysia"]
 framework: how-to
+stayFacts:
+  who: '민사 혼인을 등록하는 비무슬림 부부 — 두 말레이시아 국민, 외국인과 혼인하는 시민, 또는 거주하는 두 비시민. 이슬람법에 따라 혼인하는 사람은 해당하지 않습니다.'
+  how: '혼인법개혁(혼인 및 이혼)법 1976(Law Reform (Marriage and Divorce) Act 1976, Act 164)에 따라 국가등록청(Jabatan Pendaftaran Negara, JPN)에 등록합니다: 지역 거주 요건을 충족한 후 공고(JPN.KC02 양식)를 제출하고, 공개 공고 게시 기간을 기다린 다음, 등록관(또는 교회나 사원의 허가된 보조 등록관) 앞에서 최소 두 명의 증인과 함께 혼인을 성립시킵니다.'
+  cost: '상황에 따라 다릅니다 — 현행 공고·허가·증명서 수수료는 JPN의 게시된 수수료표(jpn.gov.my)에서 확인하십시오.'
+  watch: '시계는 제출하는 순간 시작됩니다: 혼인을 성립시키기 전에 의무적인 공개 공고 기간이 지나야 하며, 최종 기한 내에 혼인을 성립시키지 않으면 공고가 실효되어 처음부터 다시 제출해야 합니다. 최소 연령 규정이 적용되고, 외국인 당사자는 통상 인증된 미혼 상태 확인서 같은 추가 서류가 필요합니다.'
+  next: '제출하기 전에 당신의 경로와 서류 점검표를 지역 국가등록청(Jabatan Pendaftaran Negara, JPN / National Registration Department) 지점이나 jpn.gov.my에서 확인하십시오.'
 ---
 
 두 사람이 결혼 피로연을 열고, 반지를 교환하고, 방명록에 서명해도 — 여전히 말레이시아에서 법적으로 혼인한 것이 아닐 수 있습니다. 비무슬림에게 법적으로 인정되는 혼인은 특정 법령에 따라 국가등록청(Jabatan Pendaftaran Negara, JPN)에 등록된 것이며, 그 시계는 공고를 제출하는 날 시작됩니다.

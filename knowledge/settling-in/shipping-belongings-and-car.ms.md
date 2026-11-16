@@ -61,6 +61,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
 keywords: ["shipping belongings to Malaysia", "import household goods Malaysia customs", "Customs Form K1 Malaysia", "import car to Malaysia", "Approved Permit AP Malaysia", "MITI AP vehicle import", "JPJ import vehicle registration", "PUSPAKOM imported car", "expatriate moving to Malaysia car"]
 framework: explainer
+stayFacts:
+  who: 'Sesiapa sahaja yang berpindah ke Malaysia — rakyat Malaysia yang pulang, ekspatriat, peserta MM2H — yang menghantar barangan rumah atau kereta persendirian.'
+  how: 'Barangan rumah dilepaskan melalui Jabatan Kastam Diraja Malaysia (JKDM/Kastam) dengan pengisytiharan Customs Form K1 berbanding inventori berperincian, berserta pemeriksaan fizikal; kereta pula ialah import kenderaan yang berasingan, memerlukan Approved Permit (AP) daripada MITI di bawah Akta Kastam 1967, kemudian pelepasan Kastam, pemeriksaan PUSPAKOM dan pendaftaran JPJ melalui Gateway Provider yang dilantik.'
+  cost: 'Berbeza-beza — barangan rumah yang benar-benar terpakai boleh dilepaskan bebas duti, manakala kereta menanggung duti import, duti eksais dan cukai jualan di samping yuran AP dan JPJ; sahkan caj semasa di Jabatan Kastam Diraja Malaysia (customs.gov.my), MITI dan JPJ.'
+  watch: 'Membawa kereta sendiri hampir tidak pernah berjaya — AP terhad kepada kategori individu tertentu dan bukan pemberian automatik, dan walaupun AP diluluskan, ia tidak mengecualikan duti import, eksais dan cukai jualan yang berasingan, itulah sebabnya kebanyakan panduan menasihatkan supaya menjual dan membeli secara tempatan.'
+  next: 'Anggap barangan dan kereta sebagai dua projek berasingan: aturkan syarikat pemindahan antarabangsa berlesen dengan Customs Form K1 dan inventori, dan — hanya jika kereta tertentu itu benar-benar penting — semak kategori Individual AP anda dengan MITI sebelum menghantar. Mulakan di Jabatan Kastam Diraja Malaysia (JKDM) dan MITI.'
 ---
 
 Setiap senarai semak berpindah ke Malaysia mengatakan perkara yang sama sebaik sahaja anda menatal cukup jauh: hantar perabot anda, jual kereta anda. Tiada siapa menerangkan sebab kedua-dua arahan itu begitu berbeza — satu ialah kerja kertas, satu lagi ialah tembok.

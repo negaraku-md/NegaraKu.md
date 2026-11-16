@@ -75,6 +75,12 @@ relations:
 related: ["immigration-act-1959-63"]
 keywords: ["masuk sabah", "masuk sarawak", "imigresen sabah sarawak", "dokumen perjalanan terhad", "pas lawatan sosial", "MA63 imigresen"]
 framework: rules
+stayFacts:
+  who: 'Anyone travelling to or settling in Sabah or Sarawak — Malaysians from the Peninsula and foreigners alike — for a visit, work, or a longer stay.'
+  how: 'Under Part VII (Special Provisions for East Malaysia) of the Immigration Act 1959/63 — kept since 1963 — Sabah and Sarawak run their own border control: everyone clears an immigration counter on arrival and is issued a separate state pass (Peninsular Malaysians show MyKad and get a Social/Business Visit Pass; a Restricted Travel Document, Dokumen Perjalanan Terhad/DPT, is needed for longer stays).'
+  cost: 'The replacement travel document issued on arrival to Peninsular Malaysians without a passport is free; the longer-stay Restricted Travel Document (DPT) carries a small nominal fee — confirm current rates on Jabatan Imigresen Malaysia (imi.gov.my).'
+  watch: 'A stamp, pass, or work permit issued in Peninsular Malaysia does NOT carry over — foreigners are re-checked and re-issued a state pass on arrival in Kota Kinabalu or Kuching, a Peninsular work pass may not cover working there, and social/business visit passes do not exceed three months.'
+  next: 'For a short visit bring your MyKad (a free replacement document is issued at the counter if you have no passport); to stay longer arrange a Restricted Travel Document (DPT) beforehand; foreigners should confirm entry and work status with Sabah or Sarawak state immigration via Jabatan Imigresen Malaysia (imi.gov.my).'
 ---
 
 Fly from Kuala Lumpur to Kuching, and the moment you land there is an immigration counter waiting — within your own country. For many Peninsular Malaysians, this is the first time they show their identity card to an immigration officer without ever crossing an international border. This is not an administrative error. Sabah and Sarawak control their own immigration, and those rules apply to everyone, including Malaysian citizens.

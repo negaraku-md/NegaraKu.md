@@ -61,6 +61,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
 keywords: ["shipping belongings to Malaysia", "import household goods Malaysia customs", "Customs Form K1 Malaysia", "import car to Malaysia", "Approved Permit AP Malaysia", "MITI AP vehicle import", "JPJ import vehicle registration", "PUSPAKOM imported car", "expatriate moving to Malaysia car"]
 framework: explainer
+stayFacts:
+  who: 'Bất kỳ ai tái định cư đến Malaysia — người Malaysia hồi hương, người nước ngoài, người tham gia MM2H — vận chuyển đồ gia dụng hoặc một chiếc xe hơi cá nhân.'
+  how: 'Đồ gia dụng được thông quan qua Cục Hải quan Hoàng gia Malaysia (JKDM/Kastam) bằng một tờ khai Customs Form K1 đối chiếu với một bản kê chi tiết, kèm kiểm tra trực tiếp; một chiếc xe hơi là một trường hợp nhập khẩu xe riêng cần một Giấy phép được Phê duyệt (AP) từ MITI theo Customs Act 1967, rồi thông quan Hải quan, một cuộc kiểm định PUSPAKOM và đăng ký JPJ thông qua một Gateway Provider được chỉ định.'
+  cost: 'Thay đổi — đồ gia dụng thực sự đã qua sử dụng có thể được thông quan miễn thuế, trong khi một chiếc xe gánh thuế nhập khẩu, thuế tiêu thụ đặc biệt và thuế bán hàng cộng phí AP và JPJ; hãy xác nhận các khoản phí hiện hành trên Cục Hải quan Hoàng gia Malaysia (customs.gov.my), MITI và JPJ.'
+  watch: 'Mang theo chiếc xe của chính bạn hầu như không bao giờ hiệu quả — AP chỉ giới hạn ở các nhóm cá nhân cụ thể và không phải là tự động, và ngay cả một AP đã được phê duyệt cũng không miễn các khoản thuế nhập khẩu, thuế tiêu thụ đặc biệt và thuế bán hàng riêng, đó là lý do hầu hết các hướng dẫn khuyên nên bán xe và mua một chiếc tại chỗ.'
+  next: 'Hãy coi đồ đạc và xe hơi là hai dự án: thu xếp một công ty chuyển nhà quốc tế có giấy phép với Form K1 và bản kê, và — chỉ khi chiếc xe cụ thể đó thực sự quan trọng — hãy kiểm tra nhóm AP cá nhân của bạn với MITI trước khi vận chuyển. Hãy bắt đầu tại Cục Hải quan Hoàng gia Malaysia (JKDM) và MITI.'
 ---
 
 Mọi danh mục kiểm tra tái định cư cho Malaysia đều nói cùng một điều một khi bạn cuộn xuống đủ xa: chuyển đồ nội thất của bạn, bán xe của bạn. Không ai giải thích vì sao hai chỉ dẫn đó lại khác nhau đến vậy — một cái là thủ tục giấy tờ, cái kia là một bức tường.

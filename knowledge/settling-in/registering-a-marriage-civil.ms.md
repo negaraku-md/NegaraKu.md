@@ -65,6 +65,12 @@ relations:
 related: ["jpn", "mykad"]
 keywords: ["civil marriage Malaysia", "JPN marriage registration", "Act 164", "Law Reform Marriage and Divorce Act 1976", "non-Muslim marriage Malaysia", "JPN.KC02", "marriage notice 21 days", "special marriage licence Malaysia"]
 framework: how-to
+stayFacts:
+  who: 'Pasangan bukan Islam — dua warganegara, seorang warganegara yang berkahwin dengan warga asing, atau dua bukan warganegara yang bermastautin — yang mendaftarkan perkahwinan sivil; bukan mereka yang berkahwin di bawah undang-undang Islam.'
+  how: 'Daftar dengan Jabatan Pendaftaran Negara (JPN) di bawah Akta Membaharui Undang-Undang (Perkahwinan dan Perceraian) 1976 (Akta 164): failkan notis (Borang JPN.KC02) setelah memenuhi syarat kediaman daerah, tunggu sepanjang tempoh pameran notis awam, kemudian sempurnakan perkahwinan di hadapan Pendaftar (atau penolong pendaftar berlesen di gereja atau tokong) dengan sekurang-kurangnya dua orang saksi.'
+  cost: 'Berbeza-beza — sahkan fi notis, lesen dan sijil semasa pada jadual fi yang diterbitkan JPN (jpn.gov.my).'
+  watch: 'Jangka masa bermula sebaik anda memfailkan: tempoh notis awam yang wajib perlu berlalu sebelum penyempurnaan, dan ia luput jika anda tidak menyempurnakan dalam had masa terakhir (kemudian failkan semula dari awal); satu peraturan umur minimum terpakai, dan pihak warga asing biasanya memerlukan dokumen tambahan seperti surat status bujang yang disahkan.'
+  next: 'Sahkan laluan dan senarai semak dokumen anda dengan cawangan Jabatan Pendaftaran Negara (JPN / National Registration Department) tempatan anda atau jpn.gov.my sebelum memfailkan.'
 ---
 
 Dua orang boleh mengadakan jamuan perkahwinan, bertukar cincin, menandatangani

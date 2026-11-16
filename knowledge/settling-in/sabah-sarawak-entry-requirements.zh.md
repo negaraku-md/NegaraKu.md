@@ -75,6 +75,12 @@ relations:
 related: ["immigration-act-1959-63"]
 keywords: ["masuk sabah", "masuk sarawak", "imigresen sabah sarawak", "dokumen perjalanan terhad", "pas lawatan sosial", "MA63 imigresen"]
 framework: rules
+stayFacts:
+  who: '任何前往或定居沙巴或砂拉越的人——无论是来自半岛的马来西亚人还是外国人——不论是为了访问、工作还是较长期的逗留。'
+  how: '根据《1959/63年移民法令》第VII部（东马来西亚特别条款）——自1963年保留至今——沙巴与砂拉越自行管制边境：每个人入境时都须通过移民柜台，并领取当地专属的州准证（半岛马来西亚人出示大马卡（MyKad）即可获发社交／商务访问准证；若要较长期逗留，则需要有限旅行证件（Dokumen Perjalanan Terhad，DPT））。'
+  cost: '在到达柜台发给没有护照的半岛马来西亚人的替代旅行证件是免费的；较长期逗留的有限旅行证件（DPT）则收取少量象征性费用——请在马来西亚移民局（Jabatan Imigresen Malaysia，imi.gov.my）查核当前收费。'
+  watch: '在马来西亚半岛发出的印章、准证或工作准证不会自动带过来——外国人在亚庇或古晋入境时会被重新受检并重新领取州准证，半岛的工作准证未必涵盖在当地工作，而社交／商务访问准证不超过三个月。'
+  next: '短期访问请带上你的大马卡（MyKad）（若没有护照，柜台会免费发出替代文件）；若要较长期逗留，请事先办好有限旅行证件（DPT）；外国人应透过马来西亚移民局（Jabatan Imigresen Malaysia，imi.gov.my）向沙巴或砂拉越州移民局确认你的入境与工作身份。'
 ---
 
 从吉隆坡飞往古晋，一落地便有移民柜台在等着你——就在自己国家的境内。对许多半岛公民而言，这是他们第一次向移民官员出示身份证，却从未跨越任何国际边境。这并非行政上的失误。沙巴与砂拉越自行管制移民事务，而这套规定适用于所有人，包括马来西亚公民。

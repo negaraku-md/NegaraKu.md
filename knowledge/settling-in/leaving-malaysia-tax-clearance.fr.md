@@ -65,6 +65,12 @@ relations:
 related: ["lhdn", "tax-clearance", "offboarding-statutory-checklist", "employment-pass-malaysia", "moving-to-malaysia-first-steps", "epf-socso-employees"]
 keywords: ["tax clearance Malaysia", "Surat Penyelesaian Cukai", "SPC LHDN", "CP21 form Malaysia", "leaving Malaysia tax clearance", "expatriate tax clearance Malaysia", "e-SPC MyTax", "EPF leaving country withdrawal"]
 framework: rules
+stayFacts:
+  who: 'Les expatriés et travailleurs étrangers quittant la Malaisie définitivement (ou pour plus qu''un court séjour), et les employeurs qui doivent déposer les formalités en leur nom.'
+  how: 'Le LHDN délivre une Lettre de quitus fiscal (Surat Penyelesaian Cukai, SPC) une fois l''impôt sur le revenu réglé ; c''est l''employeur — et non le salarié sur le départ — qui dépose le formulaire CP21 en ligne via e-SPC sur le portail MyTax avant la date de départ, et le SPC sert d''ancre au reste du départ (déclaration finale, retrait EPF/KWSP pour départ du pays, annulation du pass).'
+  cost: 'Pas de frais à proprement parler — l''obligation est que tout impôt dû soit réglé avant l''émission du SPC ; confirmez les exigences en vigueur auprès du LHDN (hasil.gov.my).'
+  watch: 'Ne présumez pas que c''est au salarié de s''en charger ni que cela ne concerne que l''émigration définitive — le devoir du CP21 incombe à l''employeur, et tant que le SPC n''est pas émis, il doit retenir les sommes qui vous sont encore dues ; un dépôt omis est une infraction au titre de la Loi sur l''impôt sur le revenu de 1967.'
+  next: 'Demandez par écrit à votre employeur si le CP21 a été déposé via e-SPC, et vérifiez les exigences en vigueur relatives au SPC auprès du LHDN (hasil.gov.my).'
 ---
 
 Vous avez remis votre démission, réservé votre vol et commencé à donner vos meubles. Puis les RH vous demandent une chose dont vous n'avez jamais entendu parler : une Lettre de quitus fiscal. Sans elle, une partie de votre dernière paie ne bouge pas — et ce n'est même pas à vous de la demander.

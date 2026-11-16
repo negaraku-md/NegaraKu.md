@@ -60,6 +60,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
 keywords: ["shipping belongings to Malaysia", "import household goods Malaysia customs", "Customs Form K1 Malaysia", "import car to Malaysia", "Approved Permit AP Malaysia", "MITI AP vehicle import", "JPJ import vehicle registration", "PUSPAKOM imported car", "expatriate moving to Malaysia car"]
 framework: explainer
+stayFacts:
+  who: '말레이시아로 이주하면서 가재도구나 개인 차량을 운송하는 모든 사람 — 귀국하는 말레이시아인, 주재원, MM2H 참가자.'
+  how: '가재도구는 말레이시아 왕립세관청(JKDM/Kastam)을 통해 품목별 재고 목록에 대조한 세관 양식 K1 신고로 통관되며 물리적 검사를 거칩니다. 차량은 별도의 차량 수입으로서 관세법 1967(Customs Act 1967)에 따라 MITI의 승인 허가(Approved Permit, AP)가 필요하며, 그다음 세관 통관, PUSPAKOM 검사, 그리고 지정 게이트웨이 제공자를 통한 JPJ 등록을 거칩니다.'
+  cost: '상황에 따라 다릅니다 — 진정으로 사용된 가재도구는 면세로 통관될 수 있는 반면, 차량은 수입 관세, 물품세, 판매세에 더해 AP와 JPJ 수수료가 붙습니다. 현행 요금은 말레이시아 왕립세관청(customs.gov.my), MITI, JPJ에서 확인하십시오.'
+  watch: '자기 차를 가져오는 것은 거의 통하지 않습니다 — AP는 특정 개인 범주에 한정되며 자동으로 부여되지 않고, 승인된 AP조차 별도의 수입 관세·물품세·판매세를 면제해 주지 않습니다. 그래서 대부분의 안내서가 차를 팔고 현지에서 사라고 조언하는 것입니다.'
+  next: '소지품과 차량을 두 개의 별개 프로젝트로 취급하십시오: 양식 K1과 재고 목록을 갖춘 허가받은 국제 이사 업체를 준비하고 — 그 특정 차가 정말 중요한 경우에만 — 운송하기 전에 MITI에 당신의 개인 AP 범주를 확인하십시오. 말레이시아 왕립세관청(JKDM)과 MITI에서 시작하십시오.'
 ---
 
 말레이시아를 위한 모든 이주 점검표는 충분히 스크롤하면 같은 말을 합니다: 가구는 운송하고, 차는 팔아라. 그 두 지시가 왜 그렇게 다른지는 아무도 설명하지 않습니다 — 하나는 서류 업무이고, 다른 하나는 벽입니다.

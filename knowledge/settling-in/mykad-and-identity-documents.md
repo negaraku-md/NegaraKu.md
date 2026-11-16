@@ -82,6 +82,12 @@ keywords:
   - "MyKid kanak-kanak"
   - "kad pengenalan warga asing Malaysia"
 framework: explainer
+stayFacts:
+  who: 'Warganegara Malaysia (MyKad/MyKid) dan pemastautin tetap atau sementara yang diluluskan (MyPR/MyKAS); kebanyakan warga asing yang memegang pas kerja atau pas lawatan tidak memegang sebarang kad JPN langsung.'
+  how: 'Jabatan Pendaftaran Negara (JPN), bukan Imigresen, mengeluarkan kad pengenalan mengikut status: MyKid untuk kanak-kanak warganegara, MyKad untuk warganegara dari umur pendaftaran, MyPR (merah) untuk pemastautin tetap yang telah diberi Permit Masuk (Entry Permit) oleh Imigresen, dan MyKAS (hijau) untuk pemastautin sementara yang tarafnya belum ditentukan.'
+  cost: 'Pendaftaran MyKad adalah percuma dalam tempoh singkat selepas hari lahir penting itu, dengan bayaran lewat yang berhad selepasnya; MyPR mengenakan bayaran permohonan — sahkan yuran semasa di JPN (jpn.gov.my).'
+  watch: 'Tempoh tinggal yang lama tidak melayakkan MyKad atau MyPR — kedua-duanya memerlukan taraf yang diluluskan secara rasmi (kewarganegaraan, atau Permit Masuk Imigresen), bukan bilangan tahun menetap; pemegang Pas Penggajian, Pas Lawatan Ikhtisas, Dependant Pass dan Pas Kediaman kekal memegang pasport berserta pas imigresen sebagai dokumen pengenalan mereka.'
+  next: 'Jabatan Pendaftaran Negara (JPN / National Registration Department, jpn.gov.my); taraf pemastautin tetap mesti diluluskan dahulu melalui Permit Masuk daripada Jabatan Imigresen Malaysia sebelum memohon MyPR.'
 ---
 
 Ramai warga asing yang sudah bertahun-tahun di Malaysia — berkahwin dengan

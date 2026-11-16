@@ -75,6 +75,12 @@ relations:
 related: ["immigration-act-1959-63"]
 keywords: ["masuk sabah", "masuk sarawak", "imigresen sabah sarawak", "dokumen perjalanan terhad", "pas lawatan sosial", "MA63 imigresen"]
 framework: rules
+stayFacts:
+  who: 'Siapa saja yang bepergian ke atau menetap di Sabah atau Sarawak — warga Malaysia dari Semenanjung maupun warga asing — untuk kunjungan, kerja, atau tinggal lebih lama.'
+  how: 'Di bawah Bagian VII (Ketentuan Khusus bagi Malaysia Timur) Akta Imigresen 1959/63 — dipertahankan sejak 1963 — Sabah dan Sarawak menjalankan kendali perbatasan sendiri: setiap orang melalui loket imigrasi saat kedatangan dan diberi pas negeri tersendiri (warga Semenanjung menunjukkan MyKad dan mendapat Pas Kunjungan Sosial atau Bisnis; Dokumen Perjalanan Terbatas (Dokumen Perjalanan Terhad/DPT) diperlukan untuk tinggal lebih lama).'
+  cost: 'Dokumen perjalanan pengganti yang diterbitkan saat kedatangan kepada warga Semenanjung tanpa paspor tidak dikenai biaya; Dokumen Perjalanan Terbatas (DPT) untuk tinggal lebih lama dikenai biaya nominal kecil — konfirmasikan tarif terkini pada Jabatan Imigresen Malaysia (imi.gov.my).'
+  watch: 'Cap, pas, atau izin kerja yang diterbitkan di Semenanjung Malaysia TIDAK terbawa — warga asing diperiksa ulang dan diberi pas negeri baru saat tiba di Kota Kinabalu atau Kuching, pas kerja Semenanjung mungkin tidak mencakup bekerja di sana, dan pas kunjungan sosial/bisnis tidak melebihi tiga bulan.'
+  next: 'Untuk kunjungan singkat bawa MyKad Anda (dokumen pengganti gratis diterbitkan di loket jika Anda tidak punya paspor); untuk tinggal lebih lama urus Dokumen Perjalanan Terbatas (DPT) terlebih dahulu; warga asing sebaiknya memastikan status masuk dan kerja dengan imigrasi negeri Sabah atau Sarawak melalui Jabatan Imigresen Malaysia (imi.gov.my).'
 ---
 
 Terbang dari Kuala Lumpur ke Kuching, dan begitu Anda mendarat, ada loket imigrasi menunggu — di dalam negeri sendiri. Bagi banyak warga Semenanjung, inilah kali pertama mereka menunjukkan kartu identitas kepada petugas imigrasi tanpa pernah melintasi perbatasan internasional. Ini bukan kesalahan administratif. Sabah dan Sarawak mengendalikan imigrasi mereka sendiri, dan aturan itu berlaku untuk semua orang, termasuk warga negara Malaysia.

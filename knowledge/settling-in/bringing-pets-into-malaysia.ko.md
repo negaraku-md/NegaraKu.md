@@ -64,6 +64,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "dependant-social-visit-passes"]
 keywords: ["bringing pets to Malaysia", "MAQIS import permit", "DVS pet import rules", "dog cat quarantine Malaysia", "restricted dog breeds Malaysia", "ISO microchip pet import"]
 framework: how-to
+stayFacts:
+  who: '개나 고양이와 함께 말레이시아로 이주하면서, 출발 전에 수입 허가와 검역을 준비해야 하는 모든 사람.'
+  how: '동물이 출발하기 전에 MAQIS의 SPEED 시스템에 등록하고 MAQIS e-Permit을 발급받아야 하며, ISO 11784/11785 마이크로칩과 원산지 국가 정부가 발급한 수의 건강증명서를 갖추어야 합니다. 생물안보 조건과 검역은 수의청(Department of Veterinary Services, DVS / Jabatan Perkhidmatan Veterinar)이 정하며, 검역은 허가 신청 전에 미리 예약해야 하는 MAQIS 동물 검역소(SKH)에서 이루어집니다.'
+  cost: '상황에 따라 다릅니다 — 검역비, 보증금, 허가 수수료는 말레이시아 검역검사청(수수료 및 요금) 규정 2013(MAQIS (Fees and Charges) Regulations 2013)의 적용을 받습니다. 현행 수수료는 MAQIS(maqis.gov.my)에서 확인하십시오.'
+  watch: '견종이 중요합니다: 일부 견종(예: 저먼 셰퍼드, 로트와일러, 도베르만)은 제한 대상이어서 신청하기 전에 MAQIS 청장의 서면 승인이 필요하고, 다른 견종(예: 핏불 계열, 아키타, 재패니즈 도사)은 전면 금지됩니다. 「지정 국가(scheduled country)」 반려동물은 서류가 완비된 경우에만 검역을 건너뜁니다.'
+  next: '반려동물의 원산지를 DVS의 현행 지정 국가 목록과 대조해 확인하고, MAQIS SPEED에 일찍 등록하며 SKH 검역을 예약하십시오(제한 견종이라면 청장 승인부터 먼저 시작하십시오). MAQIS(maqis.gov.my)와 DVS(dvs.gov.my)에서 시작하십시오.'
 ---
 
 항공편을 예약했고, 짐도 다 쌌는데, 문득 이런 생각이 듭니다. 개는 어떻게 하지. 말레이시아에서 반려동물은 그저 화물칸에 함께 실려 오는 존재가 아닙니다. 출발하기 전에 승인을 받아야 하는 허가, 특정 ISO 규격을 충족하는 마이크로칩, 그리고 아마도 데려오기까지 일주일 이상의 검역이 필요합니다.

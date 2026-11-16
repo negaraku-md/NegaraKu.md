@@ -65,6 +65,12 @@ relations:
 related: ["lhdn", "tax-clearance", "offboarding-statutory-checklist", "employment-pass-malaysia", "moving-to-malaysia-first-steps", "epf-socso-employees"]
 keywords: ["tax clearance Malaysia", "Surat Penyelesaian Cukai", "SPC LHDN", "CP21 form Malaysia", "leaving Malaysia tax clearance", "expatriate tax clearance Malaysia", "e-SPC MyTax", "EPF leaving country withdrawal"]
 framework: rules
+stayFacts:
+  who: 'Người nước ngoài và lao động nước ngoài rời Malaysia vĩnh viễn (hoặc trong hơn một thời gian ngắn), và những người sử dụng lao động phải nộp hồ sơ thay cho họ.'
+  how: 'LHDN cấp một Thư Xác nhận Hoàn tất Thuế (Surat Penyelesaian Cukai, SPC) một khi thuế thu nhập đã được giải quyết; người sử dụng lao động — chứ không phải người lao động sắp rời đi — nộp Mẫu CP21 trực tuyến qua e-SPC trên cổng MyTax trước ngày rời đi, và SPC là điểm neo cho phần còn lại của việc rời đi (tờ khai cuối cùng, rút tiền EPF/KWSP theo điều khoản Rời khỏi Đất nước, hủy giấy phép).'
+  cost: 'Không có phí theo đúng nghĩa — nghĩa vụ là thuế còn tồn đọng phải được giải quyết trước khi SPC được cấp; hãy xác nhận các yêu cầu hiện hành trên LHDN (hasil.gov.my).'
+  watch: 'Đừng cho rằng đó là việc của người lao động hay chỉ dành cho việc di cư vĩnh viễn — nghĩa vụ CP21 là của người sử dụng lao động, và cho đến khi SPC được cấp, họ phải giữ lại khoản tiền vẫn còn nợ bạn; một hồ sơ bị bỏ sót là một hành vi phạm tội theo Income Tax Act 1967.'
+  next: 'Hãy hỏi người sử dụng lao động của bạn bằng văn bản xem CP21 đã được nộp qua e-SPC hay chưa, và xác minh các yêu cầu SPC hiện hành với LHDN (hasil.gov.my).'
 ---
 
 Bạn đã nộp đơn từ chức, đặt vé máy bay, và bắt đầu cho đi đồ nội thất. Rồi HR yêu cầu một thứ bạn chưa từng nghe: một Thư Xác nhận Hoàn tất Thuế. Không có nó, một phần của phiếu lương cuối cùng của bạn không được giải ngân — và thậm chí không phải bạn là người được cho là yêu cầu nó.

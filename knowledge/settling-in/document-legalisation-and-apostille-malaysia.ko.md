@@ -76,6 +76,12 @@ relations:
 related: []
 keywords: ["legalisasi dokumen", "apostille Malaysia", "pengesahan konsular", "Wisma Putra", "sijil kelahiran asing", "sijil perkahwinan luar negara", "pengesahan ijazah", "JPN dokumen asing"]
 framework: how-to
+stayFacts:
+  who: 'JPN이나 이민국 같은 말레이시아 기관에서 해외 발급 문서(출생·혼인·사망 증명서, 학위증, 위임장)를 접수받아야 하는 모든 사람 — 외국인이든 말레이시아 국민이든.'
+  how: '말레이시아는 헤이그 아포스티유 협약(Hague Apostille Convention)의 당사국이 아니므로, 아포스티유만으로는 인정되지 않습니다. 외국 문서는 완전한 영사 확인을 거쳐야 합니다 — 발급국의 외교부가 확인한 뒤, 그 국가의 말레이시아 대사관 또는 고등판무관실이 인증하며, 흔히 외교부(Wisma Putra, Ministry of Foreign Affairs) 영사국에서 마무리됩니다.'
+  cost: '국가, 문서, 공관에 따라 다르며 각 단계마다 자체 수수료가 붙습니다 — 현행 수수료는 발급국의 말레이시아 대사관/고등판무관실과 외교부(Wisma Putra, kln.gov.my)에 확인하십시오.'
+  watch: '가장 큰 오해는 아포스티유만으로 충분하다는 것입니다 — 협약 밖에 있는 말레이시아에서는 그렇지 않으므로 여전히 완전한 영사 확인이 필요합니다. 외국어 문서는 번역되어야 하고 그 번역본도 인증되어야 하며, 영사 확인은 문서 내용이 아니라 서명과 인장만을 확인합니다.'
+  next: '발급국의 말레이시아 대사관 또는 고등판무관실에 현행 영사 확인 절차를 문의하고, 접수할 말레이시아 기관(민사 신분 문서는 JPN, 허가·비자는 이민국)에 접수 가능 여부를 확인하며, 인증된 번역을 일찍 준비하십시오.'
 ---
 
 해외에서 발급된 혼인 증명서를 들고 JPN 창구에 갔더니, 담당관이 이를 거부합니다 — 위조여서가 아니라 아직 「인증(legalisasi)」되지 않았기 때문입니다. 많은 사람이 바로 여기서 발목을 잡힙니다. 문서가 원산지 국가에서 유효하다고 해서 말레이시아에서 바로 접수되는 것은 아닙니다. 먼저 거쳐야 하는 확인의 사슬이 있습니다.

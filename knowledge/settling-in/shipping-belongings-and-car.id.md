@@ -61,6 +61,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
 keywords: ["shipping belongings to Malaysia", "import household goods Malaysia customs", "Customs Form K1 Malaysia", "import car to Malaysia", "Approved Permit AP Malaysia", "MITI AP vehicle import", "JPJ import vehicle registration", "PUSPAKOM imported car", "expatriate moving to Malaysia car"]
 framework: explainer
+stayFacts:
+  who: 'Siapa saja yang pindah ke Malaysia — warga Malaysia yang pulang, ekspatriat, peserta MM2H — yang mengirim barang rumah tangga atau mobil pribadi.'
+  how: 'Barang rumah tangga dilepaskan melalui Jabatan Kastam Diraja Malaysia (JKDM/Kastam) dengan deklarasi Customs Form K1 terhadap inventaris terperinci, disertai pemeriksaan fisik; mobil adalah impor kendaraan yang terpisah yang memerlukan Approved Permit (AP) dari MITI di bawah Customs Act 1967, lalu pelepasan Bea Cukai, pemeriksaan PUSPAKOM, dan pendaftaran JPJ melalui Gateway Provider yang ditunjuk.'
+  cost: 'Berbeda-beda — barang rumah tangga yang benar-benar bekas dapat dilepaskan bebas bea, sementara mobil dikenai bea masuk, cukai, dan pajak penjualan ditambah biaya AP dan JPJ; konfirmasikan biaya terkini pada Jabatan Kastam Diraja Malaysia (customs.gov.my), MITI, dan JPJ.'
+  watch: 'Membawa mobil sendiri hampir tidak pernah berhasil — AP terbatas pada kategori individu tertentu dan tidak otomatis, dan bahkan AP yang disetujui pun tidak menghapus bea masuk, cukai, serta pajak penjualan yang terpisah, itulah sebabnya kebanyakan panduan menyarankan menjual dan membeli secara lokal.'
+  next: 'Perlakukan barang dan mobil sebagai dua proyek: siapkan perusahaan pindahan internasional berlisensi dengan Form K1 dan inventaris, dan — hanya jika mobil khusus itu benar-benar penting — periksa kategori Individual AP Anda dengan MITI sebelum mengirim. Mulai di Jabatan Kastam Diraja Malaysia (JKDM) dan MITI.'
 ---
 
 Setiap daftar periksa pindah ke Malaysia mengatakan hal yang sama begitu Anda menggulir cukup jauh: kirim perabot Anda, jual mobil Anda. Tidak ada yang menjelaskan alasan kedua arahan itu begitu berbeda — yang satu adalah dokumen, yang lain adalah tembok.

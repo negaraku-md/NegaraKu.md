@@ -65,6 +65,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "dependant-social-visit-passes"]
 keywords: ["bringing pets to Malaysia", "MAQIS import permit", "DVS pet import rules", "dog cat quarantine Malaysia", "restricted dog breeds Malaysia", "ISO microchip pet import"]
 framework: how-to
+stayFacts:
+  who: 'Siapa saja yang pindah ke Malaysia bersama anjing atau kucing, yang harus mengurus izin dan karantina sebelum berangkat.'
+  how: 'Daftar dalam sistem SPEED milik MAQIS dan peroleh e-Permit MAQIS SEBELUM hewan itu berangkat, disertai mikrocip ISO 11784/11785 dan Sertifikat Kesehatan Veteriner pemerintah dari negara asal; syarat biosekuriti dan karantina ditetapkan oleh Department of Veterinary Services (DVS / Jabatan Perkhidmatan Veterinar), dengan karantina dijalani di Stesen Kuarantin Haiwan (SKH) MAQIS yang harus dipesan sebelum permohonan izin diajukan.'
+  cost: 'Berbeda-beda — biaya karantina, deposit, dan izin berada di bawah MAQIS (Fees and Charges) Regulations 2013; konfirmasikan biaya terkini pada MAQIS (maqis.gov.my).'
+  watch: 'Ras penting: sebagian ras anjing (mis. German Shepherd, Rottweiler, Doberman) termasuk terbatas dan memerlukan persetujuan tertulis Direktur Jenderal MAQIS sebelum Anda dapat memohon, sementara yang lain (mis. jenis Pit Bull, Akita, Japanese Tosa) dilarang sepenuhnya; hewan peliharaan dari ''negara berjadwal'' hanya terbebas dari karantina ketika dokumennya lengkap.'
+  next: 'Periksa negara asal hewan peliharaan Anda terhadap daftar negara berjadwal DVS yang terkini, daftar sejak awal dalam MAQIS SPEED dan pesan karantina SKH (mulai dulu persetujuan Direktur Jenderal untuk ras terbatas); mulai di MAQIS (maqis.gov.my) dan DVS (dvs.gov.my).'
 ---
 
 Penerbangan Anda sudah dipesan, kotak-kotak Anda sudah dikemas, dan kemudian terlintas di pikiran Anda: bagaimana dengan anjing itu. Di Malaysia, hewan peliharaan tidak boleh sekadar menumpang dalam ruang kargo — ia memerlukan izin yang disetujui sebelum berangkat, mikrocip yang memenuhi standar ISO tertentu, dan kemungkinan besar seminggu atau lebih dalam karantina sebelum Anda mendapatkannya kembali.

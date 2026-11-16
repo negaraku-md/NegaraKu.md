@@ -65,6 +65,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "dependant-social-visit-passes"]
 keywords: ["faire venir des animaux en Malaisie", "permis d'importation MAQIS", "règles d'importation d'animaux DVS", "quarantaine chien chat Malaisie", "races de chiens restreintes Malaisie", "ISO microchip pet import"]
 framework: how-to
+stayFacts:
+  who: 'Toute personne qui s''installe en Malaisie avec un chien ou un chat et qui doit organiser le permis et la quarantaine avant le départ.'
+  how: 'Inscrivez-vous dans le système SPEED de MAQIS et obtenez un e-Permit de MAQIS AVANT que l''animal ne parte, avec une puce ISO 11784/11785 et un certificat vétérinaire de santé gouvernemental du pays d''origine ; les conditions de biosécurité et la quarantaine sont fixées par le Département des services vétérinaires (DVS / Jabatan Perkhidmatan Veterinar), la quarantaine s''effectuant dans une Station de quarantaine animale de MAQIS (SKH) qui doit être réservée avant le dépôt de la demande de permis.'
+  cost: 'Variable — les frais de quarantaine, l''acompte et les frais de permis relèvent du MAQIS (Fees and Charges) Regulations 2013 ; confirmez les frais en vigueur auprès de MAQIS (maqis.gov.my).'
+  watch: 'La race compte : certaines races de chiens (p. ex. Berger allemand, Rottweiler, Doberman) sont restreintes et nécessitent l''autorisation écrite du Directeur général de MAQIS avant de pouvoir faire la demande, et d''autres (p. ex. chiens de type Pit Bull, Akita, Tosa japonais) sont totalement interdites ; un animal d''un « pays répertorié » n''échappe à la quarantaine que lorsque sa documentation est complète.'
+  next: 'Vérifiez le pays d''origine de votre animal au regard de la liste actuelle des pays répertoriés du DVS, inscrivez-vous tôt dans MAQIS SPEED et réservez la quarantaine en SKH (pour une race restreinte, lancez d''abord l''autorisation du Directeur général) ; commencez auprès de MAQIS (maqis.gov.my) et du DVS (dvs.gov.my).'
 ---
 
 Votre vol est réservé, vos cartons sont faits, et soudain la question vous frappe : et le chien ? En Malaisie, un animal de compagnie ne se contente pas de voyager en soute — il lui faut un permis approuvé avant même le décollage, une puce conforme à une norme ISO précise et, très probablement, une semaine ou plus de quarantaine avant que vous puissiez le récupérer.

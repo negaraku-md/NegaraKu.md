@@ -65,6 +65,12 @@ relations:
 related: ["jpn", "mykad"]
 keywords: ["mariage civil Malaisie", "civil marriage Malaysia", "enregistrement du mariage JPN", "JPN marriage registration", "Act 164", "Law Reform Marriage and Divorce Act 1976", "mariage non musulman Malaisie", "JPN.KC02", "notification de mariage 21 jours", "licence spéciale de mariage Malaisie"]
 framework: how-to
+stayFacts:
+  who: 'Les couples non musulmans — deux citoyens, un citoyen épousant un étranger, ou deux non-citoyens résidents — enregistrant un mariage civil ; non pas ceux qui se marient sous la loi islamique.'
+  how: 'Enregistrez-vous auprès du Jabatan Pendaftaran Negara (JPN) sous la Law Reform (Marriage and Divorce) Act 1976 (Act 164) : déposez la notification (Formulaire JPN.KC02) après avoir satisfait à la condition de résidence dans le district, patientez durant une période d''affichage public de la notification, puis célébrez le mariage devant le Registrar (ou un registrar adjoint agréé dans une église ou un temple) avec au moins deux témoins.'
+  cost: 'Variable — confirmez les frais en vigueur de notification, de licence et de certificat sur le barème publié du JPN (jpn.gov.my).'
+  watch: 'L''horloge démarre dès le dépôt : une période d''affichage public obligatoire doit s''écouler avant la célébration, et elle expire si vous ne célébrez pas dans le délai maximal (il faut alors redéposer la demande depuis le début) ; une règle d''âge minimal s''applique, et une partie étrangère a généralement besoin de documents supplémentaires, comme une attestation de célibat certifiée.'
+  next: 'Confirmez votre voie et votre liste de documents auprès de votre antenne locale du Jabatan Pendaftaran Negara (JPN / Département national de l''enregistrement) ou sur jpn.gov.my avant de déposer.'
 ---
 
 Deux personnes peuvent organiser un banquet de mariage, échanger des alliances, signer un livre d'or — et ne toujours pas être légalement mariées en Malaisie. Pour les non-musulmans, le mariage qui compte aux yeux de la loi est celui qui est enregistré auprès du Jabatan Pendaftaran Negara (JPN) sous un texte de loi précis, sur une horloge qui démarre le jour où la notification est déposée.

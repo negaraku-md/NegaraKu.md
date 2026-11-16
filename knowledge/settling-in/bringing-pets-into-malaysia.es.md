@@ -65,6 +65,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "dependant-social-visit-passes"]
 keywords: ["traer mascotas a Malasia", "permiso de importación MAQIS", "reglas de importación de mascotas DVS", "cuarentena perro gato Malasia", "razas de perro restringidas Malasia", "ISO microchip pet import"]
 framework: how-to
+stayFacts:
+  who: 'Cualquier persona que se traslade a Malasia con un perro o gato y que deba gestionar el permiso y la cuarentena antes de la salida.'
+  how: 'Regístrese en el sistema SPEED de MAQIS y obtenga un e-Permit de MAQIS ANTES de que el animal salga, con un microchip ISO 11784/11785 y un certificado veterinario de salud gubernamental del país de origen; las condiciones de bioseguridad y la cuarentena las fija el Departamento de Servicios Veterinarios (DVS / Jabatan Perkhidmatan Veterinar), y la cuarentena se cumple en una Estación de Cuarentena Animal de MAQIS (SKH) que debe reservarse antes de presentar la solicitud del permiso.'
+  cost: 'Varía: las tarifas de cuarentena, depósito y permiso se rigen por el Reglamento de MAQIS (Tasas y Cargos) de 2013 (MAQIS (Fees and Charges) Regulations 2013); confirme las tarifas vigentes en MAQIS (maqis.gov.my).'
+  watch: 'La raza importa: algunas razas de perro (p. ej., Pastor Alemán, Rottweiler, Doberman) están restringidas y necesitan la aprobación por escrito del Director General de MAQIS antes de poder solicitarlas, y otras (p. ej., de tipo Pit Bull, Akita, Tosa Japonés) están prohibidas por completo; una mascota de un «país programado» solo se salta la cuarentena cuando su documentación está completa.'
+  next: 'Compruebe el país de origen de su mascota frente a la lista actual de países programados del DVS, regístrese pronto en el sistema SPEED de MAQIS y reserve la cuarentena en una SKH (para una raza restringida, inicie primero la aprobación del Director General); empiece en MAQIS (maqis.gov.my) y DVS (dvs.gov.my).'
 ---
 
 Su vuelo está reservado, sus cajas están empacadas y, de repente, cae en la cuenta: ¿y el perro? En Malasia, una mascota no se limita a viajar en la bodega de carga: necesita un permiso que se aprueba antes de que despegue, un microchip que cumpla una norma ISO específica y, muy probablemente, una semana o más de cuarentena antes de que usted pueda recuperarla.

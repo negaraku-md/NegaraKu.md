@@ -59,6 +59,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
 keywords: ["shipping belongings to Malaysia", "import household goods Malaysia customs", "Customs Form K1 Malaysia", "import car to Malaysia", "Approved Permit AP Malaysia", "MITI AP vehicle import", "JPJ import vehicle registration", "PUSPAKOM imported car", "expatriate moving to Malaysia car"]
 framework: explainer
+stayFacts:
+  who: 'マレーシアへ移り住む人——帰国するマレーシア人、外国人駐在員、MM2H参加者——で、家財や自家用車を運ぼうとしている人。'
+  how: '家財は、マレーシア王立関税局（JKDM/Kastam）で、項目別の目録に照らしたCustoms Form K1の申告により、実物検査を経て通関する。車はこれとは別の車両輸入であり、1967年関税法（Customs Act 1967）のもとでMITIが発行する輸入許可証（Approved Permit、AP）が必要となり、その後に関税通関、PUSPAKOM検査、そして指定されたGateway Providerを通じたJPJ登録が続く。'
+  cost: '場合によって異なる——本当に使用済みの家財は免税で通関できるが、車には輸入税・物品税・売上税に加えてAPおよびJPJの手数料がかかる。現行の料金はマレーシア王立関税局（customs.gov.my）、MITI、JPJで確認すること。'
+  watch: '自分の車を持ち込むのはほとんどの場合うまくいかない——APは特定の個人区分に限られ、自動的に発給されるものではなく、承認されたAPであっても、別勘定の輸入税・物品税・売上税が免除されるわけではない。だからこそ、大半のガイドは車を売って現地で買うよう勧めている。'
+  next: '家財と車は二つの別個のプロジェクトとして扱うこと。家財は、Form K1と目録を備えた免許を持つ国際引越業者を手配し、そして——その特定の車が本当に重要である場合に限って——輸送する前にMITIで自分のIndividual APの区分を確認すること。まずはマレーシア王立関税局（JKDM）とMITIから着手すること。'
 ---
 
 マレーシア向けの移住チェックリストはどれも、下までスクロールすれば同じことを言っている：家具は運び、車は売れ。この二つの指示がなぜこれほど違うのかを、誰も説明してくれない——一方は書類仕事で、もう一方は壁なのだ。

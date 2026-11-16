@@ -61,6 +61,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
 keywords: ["expédier des biens en Malaisie", "importer des effets domestiques douanes Malaisie", "formulaire douanier K1 Malaisie", "importer une voiture en Malaisie", "Approved Permit AP Malaisie", "MITI AP importation véhicule", "JPJ immatriculation véhicule importé", "PUSPAKOM voiture importée", "expatrié déménagement en Malaisie voiture"]
 framework: explainer
+stayFacts:
+  who: 'Toute personne qui s''installe en Malaisie — Malaisiens de retour, expatriés, participants au MM2H — expédiant des effets domestiques ou une voiture personnelle.'
+  how: 'Les effets domestiques sont dédouanés par le Département royal des douanes de Malaisie (JKDM/Kastam) sur une déclaration par formulaire douanier K1 au regard d''un inventaire détaillé, avec inspection physique ; une voiture est une importation de véhicule distincte qui nécessite un Approved Permit (AP) du MITI en vertu de la Customs Act 1967, puis le dédouanement, une inspection de PUSPAKOM et l''immatriculation auprès du JPJ par l''intermédiaire d''un Gateway Provider désigné.'
+  cost: 'Variable — des effets domestiques réellement usagés peuvent être dédouanés en franchise de droits, tandis qu''une voiture est soumise au droit d''importation, à la taxe d''accise et à la taxe de vente, en plus des frais d''AP et du JPJ ; confirmez les charges en vigueur auprès du Département royal des douanes (customs.gov.my), du MITI et du JPJ.'
+  watch: 'Apporter votre propre voiture ne fonctionne presque jamais — l''AP est limité à des catégories individuelles précises et n''est pas automatique, et même un AP approuvé ne dispense pas des taxes distinctes d''importation, d''accise et de vente, raison pour laquelle la plupart des guides conseillent de vendre et d''acheter sur place.'
+  next: 'Traitez les biens et la voiture comme deux projets : engagez une entreprise de déménagement international agréée avec le formulaire K1 et l''inventaire, et — seulement si cette voiture précise compte vraiment — vérifiez votre catégorie d''AP individuel auprès du MITI avant d''expédier. Commencez auprès du Département royal des douanes (JKDM) et du MITI.'
 ---
 
 Toute liste de relocalisation pour la Malaisie dit la même chose dès que l'on descend assez loin : expédiez vos meubles, vendez votre voiture. Personne n'explique pourquoi ces deux instructions sont si différentes — l'une relève de la paperasse, l'autre est un mur.

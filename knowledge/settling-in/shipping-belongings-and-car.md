@@ -60,6 +60,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
 keywords: ["shipping belongings to Malaysia", "import household goods Malaysia customs", "Customs Form K1 Malaysia", "import car to Malaysia", "Approved Permit AP Malaysia", "MITI AP vehicle import", "JPJ import vehicle registration", "PUSPAKOM imported car", "expatriate moving to Malaysia car"]
 framework: explainer
+stayFacts:
+  who: 'Anyone relocating to Malaysia — returning Malaysians, expatriates, MM2H participants — shipping household goods or a personal car.'
+  how: 'Household goods clear through the Royal Malaysian Customs Department (JKDM/Kastam) on a Customs Form K1 declaration against an itemised inventory, with physical inspection; a car is a separate vehicle import needing an Approved Permit (AP) from MITI under the Customs Act 1967, then Customs clearance, a PUSPAKOM inspection and JPJ registration via an appointed Gateway Provider.'
+  cost: 'Varies — genuinely used household effects can clear duty-free, while a car carries import duty, excise duty and sales tax plus AP and JPJ fees; confirm current charges on Royal Malaysian Customs (customs.gov.my), MITI and JPJ.'
+  watch: 'Bringing your own car almost never works — the AP is limited to specific individual categories and is not automatic, and even an approved AP does not waive the separate import, excise and sales taxes, which is why most guides advise selling and buying locally.'
+  next: 'Treat belongings and car as two projects: line up a licensed international mover with Form K1 and inventory, and — only if that specific car truly matters — check your Individual AP category with MITI before shipping. Start at Royal Malaysian Customs (JKDM) and MITI.'
 ---
 
 Every relocation checklist for Malaysia says the same thing once you scroll far enough: ship your furniture, sell your car. Nobody explains why those two instructions are so different — one is paperwork, the other is a wall.

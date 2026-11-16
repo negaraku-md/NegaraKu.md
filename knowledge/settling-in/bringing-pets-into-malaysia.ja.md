@@ -63,6 +63,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "dependant-social-visit-passes"]
 keywords: ["bringing pets to Malaysia", "MAQIS import permit", "DVS pet import rules", "dog cat quarantine Malaysia", "restricted dog breeds Malaysia", "ISO microchip pet import"]
 framework: how-to
+stayFacts:
+  who: '犬や猫を連れてマレーシアへ移り住む人で、出発前に許可と検疫の手続きを整えなければならない人。'
+  how: '動物が出発する前に、MAQISのSPEEDシステムに登録してMAQISのe-Permitを取得する。あわせてISO 11784/11785規格のマイクロチップと、原産国の政府が発行する獣医健康証明書（Veterinary Health Certificate）が必要となる。バイオセキュリティ条件と検疫は獣医サービス局（Jabatan Perkhidmatan Veterinar、DVS）が定め、検疫はMAQISの動物検疫所（Stesen Kuarantin Haiwan、SKH）で受ける。検疫スペースは許可を申請する前に予約しておかなければならない。'
+  cost: '場合によって異なる——検疫、保証金、許可の各手数料はMAQIS (Fees and Charges) Regulations 2013に基づく。現行の手数料はMAQIS（maqis.gov.my）で確認すること。'
+  watch: '犬種が重要になる。一部の犬種（例：German Shepherd、Rottweiler、Doberman）は制限対象で、申請する前にMAQIS長官（Director-General）の書面による承認が必要であり、他の犬種（例：ピットブル系、Akita、Japanese Tosa）は全面的に禁止されている。「指定国」（scheduled country）のペットは、書類が完備している場合に限って検疫を免除される。'
+  next: 'ペットの原産国をDVSの最新の指定国リストと照らし合わせて確認し、MAQISのSPEEDシステムに早めに登録してSKHの検疫を予約すること（制限犬種の場合は、まず長官の承認手続きから始める）。まずはMAQIS（maqis.gov.my）とDVS（dvs.gov.my）から着手すること。'
 ---
 
 航空券は予約済み、荷物も詰め終えた——そこでふと気づく。犬はどうする。マレーシアでは、ペットはただ貨物室に乗せればよいというわけではない。地上を離れる前に承認された許可、特定のISO規格を満たすマイクロチップ、そしておそらくは取り戻すまでに1週間以上の検疫が必要になる。

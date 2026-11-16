@@ -65,6 +65,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "dependant-social-visit-passes"]
 keywords: ["bringing pets to Malaysia", "MAQIS import permit", "DVS pet import rules", "dog cat quarantine Malaysia", "restricted dog breeds Malaysia", "ISO microchip pet import"]
 framework: how-to
+stayFacts:
+  who: 'Bất kỳ ai chuyển đến Malaysia cùng một con chó hoặc mèo, phải thu xếp giấy phép và việc cách ly trước khi khởi hành.'
+  how: 'Đăng ký trong hệ thống SPEED của MAQIS và lấy một e-Permit của MAQIS TRƯỚC KHI con vật khởi hành, kèm một chip vi mạch ISO 11784/11785 và một Giấy chứng nhận Sức khỏe Thú y nhà nước từ nước xuất xứ; các điều kiện an toàn sinh học và việc cách ly do Cục Dịch vụ Thú y (DVS / Jabatan Perkhidmatan Veterinar) đặt ra, với việc cách ly được thực hiện tại một Trạm Kiểm dịch Động vật của MAQIS (SKH) mà phải được đặt chỗ trước khi nộp đơn xin giấy phép.'
+  cost: 'Thay đổi — phí cách ly, đặt cọc và giấy phép thuộc MAQIS (Fees and Charges) Regulations 2013; hãy xác nhận mức phí hiện hành trên MAQIS (maqis.gov.my).'
+  watch: 'Giống loài quan trọng: một số giống chó (ví dụ German Shepherd, Rottweiler, Doberman) bị hạn chế và cần phê duyệt bằng văn bản của Tổng Giám đốc MAQIS trước khi bạn có thể nộp đơn, còn những giống khác (ví dụ dòng Pit Bull, Akita, Japanese Tosa) bị cấm hoàn toàn; một con thú cưng từ ''nước trong danh mục'' chỉ bỏ qua cách ly khi giấy tờ của nó đầy đủ.'
+  next: 'Hãy đối chiếu xuất xứ của thú cưng với danh sách nước trong danh mục hiện hành của DVS, đăng ký sớm trong MAQIS SPEED và đặt chỗ cách ly SKH (bắt đầu quy trình phê duyệt của Tổng Giám đốc trước đối với một giống bị hạn chế); hãy bắt đầu tại MAQIS (maqis.gov.my) và DVS (dvs.gov.my).'
 ---
 
 Chuyến bay của bạn đã đặt, các thùng đồ đã đóng gói, và rồi bạn chợt nhận ra: còn con chó thì sao. Tại Malaysia, một con thú cưng không chỉ đi cùng trong khoang hàng — nó cần một giấy phép được phê duyệt trước khi nó rời mặt đất, một chip vi mạch đáp ứng một tiêu chuẩn ISO cụ thể, và rất có thể một tuần hoặc hơn trong cách ly trước khi bạn nhận lại nó.

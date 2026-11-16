@@ -65,6 +65,12 @@ relations:
 related: ["jpn", "mykad"]
 keywords: ["civil marriage Malaysia", "JPN marriage registration", "Act 164", "Law Reform Marriage and Divorce Act 1976", "non-Muslim marriage Malaysia", "JPN.KC02", "marriage notice 21 days", "special marriage licence Malaysia"]
 framework: how-to
+stayFacts:
+  who: 'Các cặp đôi không theo Hồi giáo — hai công dân, một công dân kết hôn với người nước ngoài, hoặc hai người không phải công dân cư trú tại Malaysia — đăng ký một cuộc kết hôn dân sự; không phải những người kết hôn theo luật Hồi giáo.'
+  how: 'Đăng ký với Jabatan Pendaftaran Negara (JPN) theo Law Reform (Marriage and Divorce) Act 1976 (Act 164): nộp thông báo (Mẫu JPN.KC02) sau khi đáp ứng yêu cầu cư trú trong quận, chờ hết một thời gian niêm yết thông báo công khai, rồi cử hành lễ trước Cán bộ Đăng ký (hoặc một cán bộ đăng ký phụ được cấp phép tại một nhà thờ hay đền) với ít nhất hai người làm chứng.'
+  cost: 'Thay đổi — hãy xác nhận mức lệ phí hiện hành cho thông báo, giấy phép và giấy chứng nhận trên biểu lệ phí công bố của JPN (jpn.gov.my).'
+  watch: 'Đồng hồ bắt đầu chạy khi bạn nộp hồ sơ: một thời gian niêm yết thông báo công khai bắt buộc phải trôi qua trước khi cử hành lễ, và nó hết hiệu lực nếu bạn không cử hành lễ trong giới hạn thời gian ngoài (khi đó phải nộp lại từ đầu); một quy tắc về độ tuổi tối thiểu được áp dụng, và một bên nước ngoài thường cần thêm giấy tờ như một thư xác nhận tình trạng độc thân có chứng thực.'
+  next: 'Hãy xác nhận tuyến của bạn và danh mục giấy tờ với chi nhánh Jabatan Pendaftaran Negara (JPN / Cục Đăng ký Quốc gia) địa phương hoặc jpn.gov.my trước khi nộp hồ sơ.'
 ---
 
 Hai người có thể tổ chức tiệc cưới, trao nhẫn, ký sổ lưu bút — mà vẫn chưa kết

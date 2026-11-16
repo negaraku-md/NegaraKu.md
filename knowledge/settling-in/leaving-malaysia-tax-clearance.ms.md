@@ -65,6 +65,12 @@ relations:
 related: ["lhdn", "tax-clearance", "offboarding-statutory-checklist", "employment-pass-malaysia", "moving-to-malaysia-first-steps", "epf-socso-employees"]
 keywords: ["tax clearance Malaysia", "Surat Penyelesaian Cukai", "SPC LHDN", "CP21 form Malaysia", "leaving Malaysia tax clearance", "expatriate tax clearance Malaysia", "e-SPC MyTax", "EPF leaving country withdrawal"]
 framework: rules
+stayFacts:
+  who: 'Ekspatriat dan pekerja asing yang meninggalkan Malaysia buat selamanya (atau untuk tempoh yang lebih daripada singkat), serta majikan yang perlu memfailkannya bagi pihak mereka.'
+  how: 'LHDN mengeluarkan Surat Penyelesaian Cukai (Tax Clearance Letter, SPC) setelah cukai pendapatan diselesaikan; majikan — bukan pekerja yang akan berhenti — memfailkan Borang CP21 secara dalam talian melalui e-SPC di portal MyTax sebelum tarikh pemergian, dan SPC menjadi asas kepada selebihnya proses keluar (penyata akhir, pengeluaran EPF/KWSP di bawah peruntukan Leaving Country, pembatalan pas).'
+  cost: 'Tiada yuran khusus — kewajipannya ialah cukai tertunggak diselesaikan sebelum SPC dikeluarkan; sahkan keperluan semasa di LHDN (hasil.gov.my).'
+  watch: 'Jangan anggap ia tugas pekerja atau hanya untuk penghijrahan kekal — kewajipan CP21 adalah milik majikan, dan sehingga SPC dikeluarkan mereka mesti menahan wang yang masih kena dibayar kepada anda; kegagalan memfailkan merupakan suatu kesalahan di bawah Akta Cukai Pendapatan 1967.'
+  next: 'Tanya majikan anda secara bertulis sama ada CP21 telah difailkan melalui e-SPC, dan sahkan keperluan SPC semasa dengan LHDN (hasil.gov.my).'
 ---
 
 Anda sudah menyerahkan surat perletakan jawatan, menempah penerbangan, dan mula memberikan perabot anda. Kemudian HR bertanya tentang sesuatu yang anda tidak pernah dengar sebelum ini: Surat Penyelesaian Cukai. Tanpanya, sebahagian daripada gaji terakhir anda tidak akan bergerak — dan bukan anda pun yang sepatutnya memohonnya.

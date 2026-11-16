@@ -64,6 +64,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "dependant-social-visit-passes"]
 keywords: ["bringing pets to Malaysia", "MAQIS import permit", "DVS pet import rules", "dog cat quarantine Malaysia", "restricted dog breeds Malaysia", "ISO microchip pet import"]
 framework: how-to
+stayFacts:
+  who: 'Anyone relocating to Malaysia with a dog or cat who must arrange the permit and quarantine before departure.'
+  how: 'Register in MAQIS''s SPEED system and obtain a MAQIS e-Permit BEFORE the animal departs, with an ISO 11784/11785 microchip and a government Veterinary Health Certificate from the origin country; biosecurity conditions and quarantine are set by the Department of Veterinary Services (DVS / Jabatan Perkhidmatan Veterinar), with quarantine served at a MAQIS Animal Quarantine Station (SKH) that must be booked before the permit is filed.'
+  cost: 'Varies — quarantine, deposit and permit fees fall under the MAQIS (Fees and Charges) Regulations 2013; confirm current fees on MAQIS (maqis.gov.my).'
+  watch: 'Breed matters: some dog breeds (e.g. German Shepherd, Rottweiler, Doberman) are restricted and need written MAQIS Director-General approval before you can apply, and others (e.g. Pit Bull-type, Akita, Japanese Tosa) are banned outright; a ''scheduled country'' pet only skips quarantine when its paperwork is complete.'
+  next: 'Check your pet''s origin against DVS''s current scheduled-country list, register early in MAQIS SPEED and book SKH quarantine (start the Director-General approval first for a restricted breed); begin at MAQIS (maqis.gov.my) and DVS (dvs.gov.my).'
 ---
 
 Your flight is booked, your boxes are packed, and then it hits you: what about the dog. In Malaysia, a pet doesn't just ride along in the cargo hold — it needs a permit that's approved before it leaves the ground, a microchip that meets a specific ISO standard, and quite possibly a week or more in quarantine before you get it back.

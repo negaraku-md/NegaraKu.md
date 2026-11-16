@@ -76,6 +76,12 @@ relations:
 related: []
 keywords: ["legalización de documentos", "apostille Malaysia", "atestación consular", "Wisma Putra", "certificado de nacimiento extranjero", "certificado de matrimonio del extranjero", "atestación de título", "JPN documentos extranjeros"]
 framework: how-to
+stayFacts:
+  who: 'Cualquier persona —extranjera o malasia— que necesite que un organismo malasio como el JPN o el Departamento de Inmigración acepte un documento emitido en el extranjero (certificado de nacimiento, matrimonio o defunción, título, poder notarial).'
+  how: 'Malasia NO es parte del Convenio de la Apostilla de La Haya (Hague Apostille Convention), por lo que la apostilla por sí sola no se acepta: un documento extranjero debe pasar por una legalización consular completa —autenticado por el ministerio de asuntos exteriores del país emisor y luego legalizado por la Embajada o Alta Comisión de Malasia en ese país—, a menudo rematada por la División Consular de Wisma Putra (Ministerio de Asuntos Exteriores).'
+  cost: 'Varía según el país, el documento y la misión, y cada capa cobra su propia tarifa; confirme las tarifas vigentes con la Embajada o Alta Comisión de Malasia en el país emisor y con Wisma Putra (kln.gov.my).'
+  watch: 'El gran error es creer que basta con una apostilla: en Malasia no basta, ya que queda fuera del Convenio, así que sigue siendo necesaria una legalización consular completa; un documento en un idioma extranjero debe además traducirse y esa traducción certificarse, y la legalización solo confirma la firma y el sello, no el contenido del documento.'
+  next: 'Pida a la Embajada o Alta Comisión de Malasia en el país emisor sus pasos de legalización vigentes, confirme la aceptación con el organismo malasio de destino (el JPN para documentos de estado civil, Inmigración para permisos/visados) y organice pronto una traducción certificada.'
 ---
 
 Llega al mostrador del JPN con un certificado de matrimonio emitido en el extranjero, y el funcionario lo rechaza, no porque sea falso, sino porque no ha sido «legalizado». Mucha gente tropieza aquí: que un documento sea válido en su país de origen no significa que se acepte directamente en Malasia. Hay una cadena de atestación por la que primero hay que pasar.

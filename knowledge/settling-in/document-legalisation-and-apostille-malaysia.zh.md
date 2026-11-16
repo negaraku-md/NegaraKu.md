@@ -76,6 +76,12 @@ relations:
 related: []
 keywords: ["legalisasi dokumen", "apostille Malaysia", "pengesahan konsular", "Wisma Putra", "sijil kelahiran asing", "sijil perkahwinan luar negara", "pengesahan ijazah", "JPN dokumen asing"]
 framework: how-to
+stayFacts:
+  who: '任何人——外国人或马来西亚人——需要让国外签发的文件（出生证、结婚证或死亡证、学位证书、授权书）被马来西亚机构（如 JPN 或移民局）受理。'
+  how: '马来西亚并非《海牙认证公约》（Hague Apostille Convention）的缔约国，因此仅凭海牙认证（apostille）不被接受：外国文件必须经过完整的领事认证——先由签发国的外交部认证，再由马来西亚驻该国的大使馆或最高专员署（High Commission）进行领事认证——往往以马来西亚外交部（Wisma Putra，Ministry of Foreign Affairs）领事司作为收尾。'
+  cost: '费用因国家、文件与使团而异，每一层级各自收费——请向签发国的马来西亚大使馆／最高专员署以及外交部（Wisma Putra，kln.gov.my）确认当前费用。'
+  watch: '最大的误解是以为海牙认证（apostille）就足够了——在马来西亚并非如此，马来西亚不属该公约成员，因此仍须经过完整的领事认证；外语文件还须翻译，且译文本身也须获得认证，而认证只确认签名与印章，并不确认文件内容。'
+  next: '向签发国的马来西亚大使馆或最高专员署索取其现行的认证步骤，向目标马来西亚机构（民事身份类文件找 JPN，准证／签证找移民局）确认受理要求，并及早安排经认证的翻译。'
 ---
 
 你拿着在国外签发的结婚证走到国民登记局（JPN）的柜台，官员却拒绝受理——不是因为它是伪造的，而是因为它还没有经过"认证"（dilegalisasi）。许多人正是在这里栽了跟头：文件在原属国有效，并不代表它能在马来西亚直接被接受。在此之前，要先走完一条认证链。

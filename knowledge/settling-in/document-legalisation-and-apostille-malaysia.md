@@ -75,6 +75,12 @@ relations:
 related: []
 keywords: ["legalisasi dokumen", "apostille Malaysia", "pengesahan konsular", "Wisma Putra", "sijil kelahiran asing", "sijil perkahwinan luar negara", "pengesahan ijazah", "JPN dokumen asing"]
 framework: how-to
+stayFacts:
+  who: 'Sesiapa sahaja — warga asing atau rakyat Malaysia — yang memerlukan dokumen keluaran luar negara (sijil kelahiran, perkahwinan atau kematian, ijazah, surat kuasa wakil) diterima oleh agensi Malaysia seperti JPN atau Jabatan Imigresen.'
+  how: 'Malaysia BUKAN negara pihak kepada Konvensyen Apostille Hague, jadi apostille sahaja tidak diterima: dokumen asing mesti melalui legalisasi konsular penuh — disahkan oleh Kementerian Luar Negeri negara pengeluar, kemudian dilegalisasi oleh Kedutaan atau Suruhanjaya Tinggi Malaysia di negara berkenaan — selalunya diselesaikan oleh Bahagian Konsular Wisma Putra (Kementerian Luar Negeri).'
+  cost: 'Berbeza mengikut negara, dokumen dan misi, setiap lapisan mengenakan yuran tersendiri — sahkan yuran semasa dengan Kedutaan/Suruhanjaya Tinggi Malaysia di negara pengeluar dan Wisma Putra (kln.gov.my).'
+  watch: 'Salah tanggapan besar ialah apostille sudah memadai — ia tidak memadai di Malaysia yang berada di luar Konvensyen itu, jadi legalisasi konsular penuh tetap diperlukan; dokumen dalam bahasa asing juga mesti diterjemah dan terjemahan itu disahkan, dan legalisasi hanya mengesahkan tandatangan dan meterai, bukan kandungan dokumen.'
+  next: 'Tanya Kedutaan atau Suruhanjaya Tinggi Malaysia di negara pengeluar tentang langkah legalisasi semasa mereka, sahkan penerimaan dengan agensi Malaysia sasaran (JPN untuk dokumen taraf sivil, Imigresen untuk permit/visa), dan uruskan terjemahan yang disahkan lebih awal.'
 ---
 
 Anda datang ke kaunter JPN dengan sijil perkahwinan yang dikeluarkan di luar negara, dan pegawai menolaknya — bukan kerana ia palsu, tetapi kerana ia belum "dilegalisasi". Ramai yang tersandung di sinilah: dokumen sah di negara asalnya tidak bermakna ia diterima terus di Malaysia. Ada satu rantaian pengesahan yang perlu dilalui dahulu.

@@ -88,6 +88,36 @@ for the 60 translations. GATE: 65/65 js-yaml clean, validate-frontmatter **0/0**
 registration`** (`sensitivity: constitution`, reviewer `ashton-tan`): not shipped to a live deploy
 without ashton-tan's actual review. 65 files = 5 masters + 60 translations.
 
+## Tranche C — 7 more settling decisions, 13 langs (2026-11-17)
+Worked the remaining uncarded `settling-in/` backlog, taking every `sensitivity: none`
+decision with real substance that serves the "making Malaysia home" / exit-and-logistics
+spine: **bringing-pets-into-malaysia** (relocating with a pet), **shipping-belongings-and-car**
+(household + vehicle import), **document-legalisation-and-apostille-malaysia** (the cross-cutting
+enabler — Malaysia is NOT in the Hague Apostille Convention), **sabah-sarawak-entry-requirements**
+(the East-Malaysia autonomous-immigration gotcha), **mykad-and-identity-documents** (MyKad/MyPR/
+MyKAS vs i-Kad), **leaving-malaysia-tax-clearance** (the SPC/CP21 exit obligation — employer's duty),
+**registering-a-marriage-civil** (civil, non-Muslim). NOTE mixed masters: 4 `en`-master + 3 `ms`-master
+(document-legalisation, sabah-sarawak, mykad) → a master-language-aware injector places the card in
+each file's own language (base `<slug>.md` = master lang; every other lang in `<slug>.<lang>.md`).
+METHOD (the reusable pipeline, hardened): 7 parallel extraction agents (one per article, each read
+ONLY its own article → durable who/how/cost/watch/next, shape-only, law cites + acronyms preserved,
+every figure hedged to the official portal) → `scratchpad/en-blocks-c.json` → 12 per-language agents
+→ `scratchpad/assemble-cards-c.mjs` merges into `scratchpad/cards-c.json` (13 langs) →
+`scratchpad/inject-stayfacts-c.mjs` (master-aware). GATE: 91/91 js-yaml clean + all 91 cards complete,
+validate-frontmatter **0 error / 0 warning**, translation-sync **0 stale / 0 orphaned** across 1403
+topics (freshness-neutral re-confirmed). Content-only (schema live) → no `npm run clean`. 91 files
+= 7 masters + 84 translations.
+
+**HELD (sensitivity, reviewer `ashton-tan`):** `getting-married-in-malaysia` (`religion`) and
+`registering-a-muslim-marriage` (`religion`) — plus the standing `malaysian-citizenship-by-
+registration` (`constitution`). Not shipped to a live deploy without ashton-tan's review.
+**Skipped (off the staying funnel):** `immigration-department-jim` (agency explainer, not a decision),
+`renewing-your-passport` (for citizens, not the deciding-to-stay reader).
+
+**Running total: 24 decisions carded × 13 langs.** The settling-in stayFacts layer is now saturated
+for `sensitivity: none` content; everything still uncarded is either held-for-review (3 sensitive) or
+deliberately off-funnel (JIM hub, citizen passport, life-event registrations for birth/death/divorce).
+
 ## Phase 2 — DONE 2026-11-16 (HELD)
 - **想留下 "Make Malaysia home" guided path** — the `GuidedPath` `living`-variant band
   ("Thinking of moving to Malaysia? / 想留在马来西亚?") on `/living` already existed, but its

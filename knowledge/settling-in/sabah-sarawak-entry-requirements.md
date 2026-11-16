@@ -74,6 +74,12 @@ relations:
 related: ["immigration-act-1959-63"]
 keywords: ["masuk sabah", "masuk sarawak", "imigresen sabah sarawak", "dokumen perjalanan terhad", "pas lawatan sosial", "MA63 imigresen"]
 framework: rules
+stayFacts:
+  who: 'Sesiapa sahaja yang bercadang masuk atau menetap di Sabah atau Sarawak — rakyat Malaysia dari Semenanjung mahupun warga asing — untuk lawatan, kerja, atau tinggal lebih lama.'
+  how: 'Di bawah Bahagian VII (Peruntukan Khas bagi Malaysia Timur) Akta Imigresen 1959/63 — dikekalkan sejak 1963 — Sabah dan Sarawak mengawal sempadan mereka sendiri: setiap orang melalui kaunter imigresen ketika ketibaan dan diberi pas negeri yang berasingan (rakyat Semenanjung menunjukkan MyKad dan menerima Pas Lawatan Sosial atau Perniagaan; Dokumen Perjalanan Terhad (DPT) diperlukan untuk tinggal lebih lama).'
+  cost: 'Dokumen perjalanan gantian yang dikeluarkan ketika ketibaan kepada rakyat Semenanjung tanpa pasport adalah percuma; Dokumen Perjalanan Terhad (DPT) untuk tinggal lebih lama pula mengenakan bayaran nominal yang kecil — sahkan kadar semasa di Jabatan Imigresen Malaysia (imi.gov.my).'
+  watch: 'Cop, pas atau permit kerja yang dikeluarkan di Semenanjung TIDAK terbawa — warga asing diperiksa semula dan diberi pas negeri baharu ketika ketibaan di Kota Kinabalu atau Kuching, pas kerja Semenanjung mungkin tidak meliputi kerja di sana, dan pas lawatan sosial atau perniagaan tidak melebihi tiga bulan.'
+  next: 'Untuk lawatan singkat, bawa MyKad anda (dokumen gantian percuma dikeluarkan di kaunter jika anda tiada pasport); untuk tinggal lebih lama, uruskan Dokumen Perjalanan Terhad (DPT) terlebih dahulu; warga asing perlu mengesahkan status kemasukan dan kerja dengan imigresen negeri Sabah atau Sarawak melalui Jabatan Imigresen Malaysia (imi.gov.my).'
 ---
 
 Terbang dari Kuala Lumpur ke Kuching, dan sebaik sahaja anda mendarat, ada kaunter imigresen menanti — di dalam negara sendiri. Bagi ramai rakyat Semenanjung, inilah kali pertama mereka menunjukkan kad pengenalan kepada pegawai imigresen tanpa pernah melintasi sempadan antarabangsa. Ini bukan kesilapan pentadbiran. Sabah dan Sarawak mengawal imigresen mereka sendiri, dan peraturan itu terpakai kepada semua orang, termasuk warganegara Malaysia.

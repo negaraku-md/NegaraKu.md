@@ -63,6 +63,12 @@ relations:
 related: ["lhdn", "tax-clearance", "offboarding-statutory-checklist", "employment-pass-malaysia", "moving-to-malaysia-first-steps", "epf-socso-employees"]
 keywords: ["tax clearance Malaysia", "Surat Penyelesaian Cukai", "SPC LHDN", "CP21 form Malaysia", "leaving Malaysia tax clearance", "expatriate tax clearance Malaysia", "e-SPC MyTax", "EPF leaving country withdrawal"]
 framework: rules
+stayFacts:
+  who: 'マレーシアを恒久的に（または短期を超えて）離れる外国人駐在員・外国人労働者と、彼らに代わって申請しなければならない使用者。'
+  how: 'LHDNは、所得税が了結すると租税完納証明書（Surat Penyelesaian Cukai、SPC）を発行する。出国する従業員本人ではなく使用者が、出国日に先立って、MyTaxポータル上のe-SPCを通じてCP21フォームをオンラインで提出する。SPCは、出国手続きの他のすべて（最終申告、EPF／KWSPの「離境」（Leaving Country）提領、パスの取消）の起点となる。'
+  cost: '手数料そのものはない——求められるのは、SPCが発行される前に未納の税が清算されていることである。現行の要件はLHDN（hasil.gov.my）で確認すること。'
+  watch: '従業員本人の仕事だとか、永久移住の場合に限られるなどと思い込まないこと——CP21の義務は使用者にあり、SPCが発行されるまで、使用者はあなたに支払うべき金銭を留保しなければならない。提出を怠ることは1967年所得税法（Income Tax Act 1967）の下での罪である。'
+  next: 'CP21がe-SPCを通じて提出済みかどうかを、書面で使用者に確認すること。そして現行のSPCの要件をLHDN（hasil.gov.my）で確認すること。'
 ---
 
 退職願を提出し、航空券を予約し、家具を譲り始めた。そこへ人事部が、聞いたこともないものを求めてくる——租税完納証明書だ。それがなければ最後の給与の一部は動かない——しかも、それを申請すべきなのはあなた自身ですらない。

@@ -76,6 +76,12 @@ relations:
 related: []
 keywords: ["légalisation de documents", "apostille Malaisie", "attestation consulaire", "Wisma Putra", "acte de naissance étranger", "acte de mariage de l'étranger", "attestation de diplôme", "JPN documents étrangers"]
 framework: how-to
+stayFacts:
+  who: 'Toute personne — étranger ou Malaisien — ayant besoin qu''un document délivré à l''étranger (acte de naissance, de mariage ou de décès, diplôme, procuration) soit accepté par un organisme malaisien tel que le JPN ou le Département de l''immigration.'
+  how: 'La Malaisie n''est PAS partie à la Convention Apostille de La Haye, de sorte qu''une apostille seule n''est pas acceptée : un document étranger doit passer par une légalisation consulaire complète — authentifié par le ministère des affaires étrangères du pays émetteur, puis légalisé par l''Ambassade ou le Haut-Commissariat de Malaisie dans ce pays — souvent finalisée par la Division consulaire de Wisma Putra (ministère des Affaires étrangères).'
+  cost: 'Variable selon le pays, le document et la mission, chaque couche percevant ses propres frais — confirmez les frais en vigueur auprès de l''Ambassade/du Haut-Commissariat de Malaisie dans le pays émetteur et de Wisma Putra (kln.gov.my).'
+  watch: 'La grande idée fausse est qu''une apostille suffit — ce n''est pas le cas en Malaisie, qui est hors de la Convention, de sorte qu''une légalisation consulaire complète reste exigée ; un document en langue étrangère doit en outre être traduit et cette traduction authentifiée, et la légalisation ne confirme que la signature et le sceau, non le contenu du document.'
+  next: 'Demandez à l''Ambassade ou au Haut-Commissariat de Malaisie dans le pays émetteur ses étapes de légalisation actuelles, confirmez l''acceptation auprès de l''organisme malaisien destinataire (le JPN pour les documents d''état civil, l''Immigration pour les permis/visas), et organisez tôt une traduction certifiée.'
 ---
 
 Vous arrivez au guichet du JPN avec un acte de mariage délivré à l'étranger, et le fonctionnaire le refuse, non parce qu'il est faux, mais parce qu'il n'a pas été « légalisé ». Beaucoup de gens butent ici : qu'un document soit valable dans son pays d'origine ne signifie pas qu'il est accepté directement en Malaisie. Il y a une chaîne d'attestation par laquelle il faut d'abord passer.
