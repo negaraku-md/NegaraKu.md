@@ -1,0 +1,135 @@
+---
+import type { Locale } from '@/lib/categories';
+import { articlesForLocale } from '@/lib/content';
+import { localePath } from '@/lib/i18n';
+import { FESTIVAL_CALENDAR, moveableFestivals, festivalSlugs } from '@/lib/festivalCalendar';
+
+// "What's on" — a rot-safe seasonal festival band for the Eat·Drink·Play hub.
+// Festivals sit in their RECURRING month-window (never a gazetted date); the
+// current month is highlighted client-side so it is always current without a
+// rebuild, and every chip links to the article for the exact, year-specific
+// date. Islamic feasts cycle through the year, so they are listed separately as
+// "moveable" rather than pinned to a month.
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+// Resolve festival titles for this locale from the live corpus.
+const items = await articlesForLocale(locale);
+const slugs = new Set(festivalSlugs());
+const titleBySlug = new Map<string, string>();
+for (const a of items) {
+  if (a.data.category === 'arts-culture' && slugs.has(a.data.slug)) titleBySlug.set(a.data.slug, a.data.title);
+}
+
+// Localized short month names via Intl (no 156-string table).
+const bcp47: Record<string, string> = { ms: 'ms', en: 'en', zh: 'zh', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th', vi: 'vi', id: 'id', ar: 'ar', hi: 'hi', es: 'es', fr: 'fr' };
+const mfmt = new Intl.DateTimeFormat(bcp47[locale] ?? 'en', { month: 'short' });
+const monthName = (m: number) => mfmt.format(new Date(2026, m - 1, 1));
+
+interface Chip { slug: string; title: string; }
+const months = Array.from({ length: 12 }, (_, i) => {
+  const m = i + 1;
+  const chips: Chip[] = FESTIVAL_CALENDAR
+    .filter((f) => f.months.includes(m) && titleBySlug.has(f.slug))
+    .map((f) => ({ slug: f.slug, title: titleBySlug.get(f.slug)! }));
+  return { m, name: monthName(m), chips };
+});
+const moveable: Chip[] = moveableFestivals()
+  .filter((f) => titleBySlug.has(f.slug))
+  .map((f) => ({ slug: f.slug, title: titleBySlug.get(f.slug)! }));
+
+const heading = L("Apa yang sedang berlangsung di Malaysia", "What's on in Malaysia", '马来西亚此时此刻', 'மலேசியாவில் இப்போது நடப்பவை', 'マレーシアの今', '지금 말레이시아에서는', 'ตอนนี้ที่มาเลเซียมีอะไร', 'Đang diễn ra ở Malaysia', 'Yang sedang berlangsung di Malaysia', 'ما الذي يجري في ماليزيا الآن', 'मलेशिया में अभी क्या चल रहा है', 'Qué hay en Malasia ahora', 'Que se passe-t-il en Malaisie');
+const note = L(
+  'Perayaan berlangsung sepanjang tahun. Waktu di sini lebih kurang — tarikh kalendar lunar dan Islam berubah setiap tahun, jadi sahkan tarikh tepat pada setiap panduan.',
+  "Festivals run all year. These timings are approximate — lunar and Islamic dates shift each year, so confirm the exact date on each guide.",
+  '节庆全年不断。此处时间为大致范围——农历与伊斯兰历日期每年变动，确切日期请以各篇指南为准。',
+  'திருவிழாக்கள் ஆண்டு முழுவதும் நடக்கின்றன. இங்குள்ள நேரம் தோராயமானது — சந்திர/இஸ்லாமிய தேதிகள் ஆண்டுதோறும் மாறும், சரியான தேதியை ஒவ்வொரு வழிகாட்டியிலும் உறுதிப்படுத்தவும்.',
+  '祭りは一年中あります。ここでの時期はおおよそで、太陰暦・イスラム暦の日付は毎年変わります。正確な日付は各ガイドでご確認ください。',
+  '축제는 일 년 내내 열립니다. 여기 시기는 대략적이며 음력·이슬람력 날짜는 매년 바뀝니다. 정확한 날짜는 각 가이드에서 확인하세요.',
+  'เทศกาลมีตลอดทั้งปี ช่วงเวลาที่นี่เป็นค่าประมาณ วันที่ตามปฏิทินจันทรคติและอิสลามเปลี่ยนทุกปี โปรดยืนยันวันที่แน่นอนในแต่ละคู่มือ',
+  'Lễ hội diễn ra quanh năm. Thời điểm ở đây là ước chừng — ngày âm lịch và Hồi lịch thay đổi mỗi năm, hãy xác nhận ngày chính xác trong từng hướng dẫn.',
+  'Festival berlangsung sepanjang tahun. Waktu di sini perkiraan — tanggal kalender lunar dan Islam bergeser tiap tahun, jadi konfirmasi tanggal pastinya di tiap panduan.',
+  'تُقام الاحتفالات على مدار السنة. التوقيتات هنا تقريبية — تتغيّر التواريخ القمرية والإسلامية كل عام، فتأكّد من التاريخ الدقيق في كل دليل.',
+  'त्योहार साल भर चलते हैं। यहाँ दिया समय अनुमानित है — चंद्र और इस्लामी तिथियाँ हर साल बदलती हैं, सटीक तारीख हर गाइड में देखें।',
+  'Las fiestas se celebran todo el año. Estas fechas son aproximadas: los calendarios lunar e islámico varían cada año, así que confirma la fecha exacta en cada guía.',
+  "Les fêtes ont lieu toute l'année. Ces périodes sont approximatives — les dates lunaires et islamiques changent chaque année, confirmez la date exacte dans chaque guide.",
+);
+const nowLabel = L('Sekitar sekarang', 'Around now', '近期', 'இப்போது', '今ごろ', '지금 무렵', 'ช่วงนี้', 'Khoảng này', 'Sekitar sekarang', 'حول الآن', 'इन दिनों', 'Por estas fechas', 'En ce moment');
+const moveableLabel = L('Berubah setiap tahun', 'Moves each year', '逐年变动', 'ஆண்டுதோறும் மாறும்', '毎年移動', '매년 이동', 'เลื่อนทุกปี', 'Thay đổi mỗi năm', 'Berubah tiap tahun', 'يتغيّر كل عام', 'हर साल बदलता है', 'Cambia cada año', "Change chaque année");
+---
+
+<section class="container block whatson" data-pagefind-ignore>
+  <header class="wo-head">
+    <h2><span aria-hidden="true">📅</span> {heading}</h2>
+    <p class="wo-now" id="wo-now" hidden></p>
+  </header>
+  <p class="wo-note">{note}</p>
+
+  <div class="wo-grid">
+    {months.map((mo) => (
+      <div class="wo-month" data-month={mo.m}>
+        <span class="wo-mname">{mo.name}</span>
+        <div class="wo-chips">
+          {mo.chips.map((c) => (
+            <a class="wo-chip" href={localePath(`/arts-culture/${c.slug}`, locale)}>{c.title}</a>
+          ))}
+        </div>
+      </div>
+    ))}
+  </div>
+
+  {moveable.length > 0 && (
+    <div class="wo-moveable">
+      <span class="wo-mv-label">{moveableLabel}:</span>
+      {moveable.map((c) => (
+        <a class="wo-chip wo-chip-mv" href={localePath(`/arts-culture/${c.slug}`, locale)}>{c.title}</a>
+      ))}
+    </div>
+  )}
+</section>
+
+<script is:inline define:vars={{ nowLabel }}>
+  (function () {
+    const now = new Date().getMonth() + 1;
+    const cells = document.querySelectorAll('.whatson .wo-month');
+    let current = null;
+    cells.forEach((el) => {
+      if (Number(el.getAttribute('data-month')) === now) { el.classList.add('is-now'); current = el; }
+    });
+    if (current) {
+      const chips = [...current.querySelectorAll('.wo-chip')].map((a) => a.textContent);
+      const out = document.getElementById('wo-now');
+      if (out && chips.length) { out.textContent = nowLabel + ': ' + chips.join(' · '); out.hidden = false; }
+    }
+  })();
+</script>
+
+<style>
+  .whatson { display: flex; flex-direction: column; gap: 0.6rem; }
+  .wo-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.5rem 1rem; }
+  .wo-head h2 { font-family: var(--font-title); font-size: 1.3rem; margin: 0; }
+  .wo-now { margin: 0; font-size: 0.9rem; color: var(--gold); font-weight: 700; }
+  .wo-note { margin: 0 0 0.4rem; color: var(--muted); font-size: 0.85rem; line-height: 1.5; max-width: 60ch; }
+  .wo-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr)); gap: 0.6rem; }
+  .wo-month {
+    background: var(--surface); border: 1px solid var(--line); border-radius: 10px;
+    padding: 0.7rem 0.8rem; display: flex; flex-direction: column; gap: 0.45rem; min-height: 3rem;
+  }
+  .wo-month.is-now { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 8%, var(--surface)); }
+  .wo-mname { font-family: var(--font-title); font-size: 0.8rem; font-weight: 800; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
+  .wo-month.is-now .wo-mname { color: var(--gold); }
+  .wo-chips { display: flex; flex-wrap: wrap; gap: 0.35rem; }
+  .wo-chip {
+    display: inline-block; padding: 0.25rem 0.6rem; border-radius: 999px;
+    background: var(--surface-2); border: 1px solid var(--line); color: var(--ink);
+    font-size: 0.8rem; text-decoration: none; line-height: 1.3; transition: border-color 0.15s, color 0.15s;
+  }
+  .wo-chip:hover { border-color: var(--gold); color: var(--gold); }
+  .wo-moveable { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; margin-top: 0.2rem; }
+  .wo-mv-label { font-size: 0.8rem; font-weight: 700; color: var(--muted); }
+  .wo-chip-mv { background: color-mix(in srgb, var(--gold) 7%, var(--surface-2)); }
+</style>
