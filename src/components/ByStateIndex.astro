@@ -28,7 +28,7 @@ for (const a of items) {
 
 const info = Object.fromEntries(MY_STATES.map((s) => {
   const guides = s.tourism.length;
-  const eats = venueCount[s.id] ?? 0;
+  const eats = (venueCount[s.id] ?? 0) + s.food.length;
   return [s.id, { name: nameBySlug.get(s.slug) ?? s.id, guides, eats, has: guides > 0 || eats > 0, href: localePath(`/eat-drink-play/state/${s.id}`, locale) }];
 }));
 

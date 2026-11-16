@@ -31,6 +31,9 @@ const stateName = stateArticle?.data.title ?? st.id;
 // Tourism guides curated for this state.
 const tourism = st.tourism.map((slug) => bySlug.get(`tourism/${slug}`)).filter(Boolean) as NonNullable<ReturnType<typeof bySlug.get>>[];
 
+// Regional "what to eat" food guides curated for this state.
+const foodGuides = st.food.map((slug) => bySlug.get(`food-lifestyle/${slug}`)).filter(Boolean) as NonNullable<ReturnType<typeof bySlug.get>>[];
+
 // Food venues whose place-card address resolves to this state, best-rated first.
 const venues = items
   .filter((a) => a.data.category === 'food-lifestyle' && a.data.place?.address && stateFromAddress(a.data.place.address) === stateId)
@@ -39,6 +42,7 @@ const venues = items
 const homeLabel = L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'होम', 'Inicio', 'Accueil');
 const goLabel = L('Tempat untuk pergi', 'Places to go', '去处', 'செல்ல வேண்டிய இடங்கள்', '行くべき場所', '가볼 곳', 'ที่เที่ยว', 'Nơi để đi', 'Tempat yang dikunjungi', 'أماكن للزيارة', 'घूमने की जगहें', 'Lugares que ver', 'Où aller');
 const eatLabel = L('Tempat untuk makan', 'Where to eat', '去哪里吃', 'எங்கே சாப்பிடுவது', '食べるなら', '먹을 곳', 'ที่กิน', 'Nơi để ăn', 'Tempat makan', 'أين تأكل', 'कहाँ खाएँ', 'Dónde comer', 'Où manger');
+const tryLabel = L('Apa yang patut dimakan', 'What to eat', '吃什么', 'என்ன சாப்பிடுவது', '何を食べるか', '무엇을 먹을까', 'กินอะไรดี', 'Nên ăn gì', 'Apa yang harus dimakan', 'ماذا تأكل', 'क्या खाएँ', 'Qué comer', 'Que manger');
 const emptyMsg = L(
   'Liputan untuk negeri ini masih berkembang. Sementara itu, mula dengan gambaran keseluruhan negeri.',
   "Coverage for this state is still growing. For now, start with the state overview.",
@@ -94,6 +98,20 @@ const seeAllFood = L('Lihat semua tempat makan', 'See all places to eat', '查�
     </section>
   )}
 
+  {foodGuides.length > 0 && (
+    <section class="sv-sec">
+      <h2>{tryLabel}</h2>
+      <div class="sv-grid">
+        {foodGuides.map((a) => (
+          <a class="sv-card" href={localePath(`/food-lifestyle/${a.data.slug}`, locale)}>
+            <b>{a.data.title}</b>
+            {a.data.summary && <span class="sv-sum">{a.data.summary}</span>}
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
   {venues.length > 0 && (
     <section class="sv-sec">
       <h2>{eatLabel} <span class="sv-count">{venues.length}</span></h2>
@@ -112,7 +130,7 @@ const seeAllFood = L('Lihat semua tempat makan', 'See all places to eat', '查�
     </section>
   )}
 
-  {tourism.length === 0 && venues.length === 0 && (
+  {tourism.length === 0 && foodGuides.length === 0 && venues.length === 0 && (
     <p class="sv-empty">{emptyMsg}</p>
   )}
 </div>

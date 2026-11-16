@@ -23,25 +23,27 @@ export interface MyState {
   postcodes: string[];
   /** tourism article slugs that belong to this state (region guides). */
   tourism: string[];
+  /** food-lifestyle regional "what to eat" guide slugs for this state. */
+  food: string[];
 }
 
 export const MY_STATES: MyState[] = [
-  { id: 'johor', slug: 'johor', postcodes: ['79', '80', '81', '82', '83', '84', '85', '86'], tourism: ['johor-bahru-and-johor'] },
-  { id: 'kedah', slug: 'kedah', postcodes: ['05', '06', '07', '08', '09'], tourism: ['langkawi-visitor-guide'] },
-  { id: 'kelantan', slug: 'kelantan', postcodes: ['15', '16', '17', '18'], tourism: [] },
-  { id: 'melaka', slug: 'melaka', postcodes: ['75', '76', '77', '78'], tourism: ['melaka-heritage-visitor-guide'] },
-  { id: 'negeri-sembilan', slug: 'negeri-sembilan', postcodes: ['70', '71', '72', '73'], tourism: [] },
-  { id: 'pahang', slug: 'pahang', postcodes: ['25', '26', '27', '28', '39', '49', '69'], tourism: ['cameron-highlands-visitor-guide', 'genting-highlands', 'frasers-hill', 'taman-negara-ecotourism-guide'] },
-  { id: 'penang', slug: 'penang', postcodes: ['10', '11', '12', '13', '14'], tourism: ['penang-george-town-visitor-guide'] },
-  { id: 'perak', slug: 'perak', postcodes: ['30', '31', '32', '33', '34', '35', '36'], tourism: ['ipoh-and-the-kinta-valley'] },
-  { id: 'perlis', slug: 'perlis', postcodes: ['01', '02'], tourism: [] },
-  { id: 'selangor', slug: 'selangor', postcodes: ['40', '41', '42', '43', '44', '45', '46', '47', '48', '63', '64', '68'], tourism: [] },
-  { id: 'terengganu', slug: 'terengganu', postcodes: ['20', '21', '22', '23', '24'], tourism: ['east-coast-islands-guide'] },
-  { id: 'sabah', slug: 'sabah', postcodes: ['88', '89', '90', '91'], tourism: ['sabah-visitor-guide', 'mount-kinabalu-and-kinabalu-park', 'sipadan-and-semporna'] },
-  { id: 'sarawak', slug: 'sarawak', postcodes: ['93', '94', '95', '96', '97', '98'], tourism: ['sarawak-visitor-guide', 'gunung-mulu-national-park', 'kuching-visitor-guide'] },
-  { id: 'kuala-lumpur', slug: 'kuala-lumpur', postcodes: ['50', '51', '52', '53', '54', '55', '56', '57', '58', '59', '60'], tourism: ['kuala-lumpur-visitor-guide'] },
-  { id: 'putrajaya', slug: 'putrajaya', postcodes: ['62'], tourism: [] },
-  { id: 'labuan', slug: 'labuan', postcodes: ['87'], tourism: [] },
+  { id: 'johor', slug: 'johor', postcodes: ['79', '80', '81', '82', '83', '84', '85', '86'], tourism: ['johor-bahru-and-johor'], food: ['johor-food'] },
+  { id: 'kedah', slug: 'kedah', postcodes: ['05', '06', '07', '08', '09'], tourism: ['langkawi-visitor-guide'], food: ['kedah-food'] },
+  { id: 'kelantan', slug: 'kelantan', postcodes: ['15', '16', '17', '18'], tourism: [], food: ['kelantan-food'] },
+  { id: 'melaka', slug: 'melaka', postcodes: ['75', '76', '77', '78'], tourism: ['melaka-heritage-visitor-guide'], food: ['melaka-nyonya-food'] },
+  { id: 'negeri-sembilan', slug: 'negeri-sembilan', postcodes: ['70', '71', '72', '73'], tourism: [], food: ['negeri-sembilan-food'] },
+  { id: 'pahang', slug: 'pahang', postcodes: ['25', '26', '27', '28', '39', '49', '69'], tourism: ['cameron-highlands-visitor-guide', 'genting-highlands', 'frasers-hill', 'taman-negara-ecotourism-guide'], food: [] },
+  { id: 'penang', slug: 'penang', postcodes: ['10', '11', '12', '13', '14'], tourism: ['penang-george-town-visitor-guide'], food: ['penang-food'] },
+  { id: 'perak', slug: 'perak', postcodes: ['30', '31', '32', '33', '34', '35', '36'], tourism: ['ipoh-and-the-kinta-valley'], food: ['ipoh-food'] },
+  { id: 'perlis', slug: 'perlis', postcodes: ['01', '02'], tourism: [], food: [] },
+  { id: 'selangor', slug: 'selangor', postcodes: ['40', '41', '42', '43', '44', '45', '46', '47', '48', '63', '64', '68'], tourism: [], food: [] },
+  { id: 'terengganu', slug: 'terengganu', postcodes: ['20', '21', '22', '23', '24'], tourism: ['east-coast-islands-guide'], food: ['terengganu-food'] },
+  { id: 'sabah', slug: 'sabah', postcodes: ['88', '89', '90', '91'], tourism: ['sabah-visitor-guide', 'mount-kinabalu-and-kinabalu-park', 'sipadan-and-semporna'], food: ['sabah-food', 'kadazan-dusun-food'] },
+  { id: 'sarawak', slug: 'sarawak', postcodes: ['93', '94', '95', '96', '97', '98'], tourism: ['sarawak-visitor-guide', 'gunung-mulu-national-park', 'kuching-visitor-guide'], food: ['sarawak-food', 'iban-food'] },
+  { id: 'kuala-lumpur', slug: 'kuala-lumpur', postcodes: ['50', '51', '52', '53', '54', '55', '56', '57', '58', '59', '60'], tourism: ['kuala-lumpur-visitor-guide'], food: [] },
+  { id: 'putrajaya', slug: 'putrajaya', postcodes: ['62'], tourism: [], food: [] },
+  { id: 'labuan', slug: 'labuan', postcodes: ['87'], tourism: [], food: [] },
 ];
 
 const POSTCODE_TO_STATE: Record<string, string> = Object.fromEntries(
