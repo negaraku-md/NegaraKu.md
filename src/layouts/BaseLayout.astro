@@ -549,10 +549,13 @@ const ogImageAlt = image ? title : `${t('site.title', locale)} — ${t('site.tag
     <script>
       // Cookieless engagement beacon: on page-leave, report this page's dwell
       // (seconds) + max scroll depth (%) to the edge Worker at /_a/e. No cookies,
-      // no identifiers, no storage — just path + two numbers, sent once. In dev
-      // (no Worker) it harmlessly 404s. The Worker aggregates it into the
-      // dashboard's Engagement panel.
+      // no identifiers, no storage — just path + two numbers, sent once. The
+      // Worker aggregates it into the dashboard's Engagement panel.
       (function () {
+        // The /_a/e Worker route only exists on the negaraku.md zone. Off that
+        // host — local dev, a tunnel, a preview — the POST would just 404 (and
+        // spam the dev router), and we don't want dev/preview traffic counted.
+        if (!/(^|\.)negaraku\.md$/i.test(location.hostname)) return;
         var start = Date.now(), maxScroll = 0, sent = false;
         function pct() {
           var d = document.documentElement, h = d.scrollHeight - d.clientHeight;
