@@ -194,7 +194,7 @@ export const CONTENT_TYPES = [
   'news',
 ] as const;
 
-export type Pillar = 'understand' | 'living' | 'doing-business';
+export type Pillar = 'understand' | 'living' | 'doing-business' | 'eat-drink-play';
 
 export interface PillarDef {
   id: Pillar;
@@ -262,6 +262,26 @@ export const PILLARS: PillarDef[] = [
       hi: 'एक व्यवसाय के रूप में शुरुआत करने, संचालन करने और अनुपालन बनाए रखने के लिए क्या ज़रूरी है — निगमन से लेकर कर तक।',
       es: 'Lo que se necesita para crear una empresa, gestionarla y cumplir la normativa: desde la constitución hasta los impuestos.',
       fr: "Ce qu'il faut pour créer une entreprise, la gérer et rester en conformité : de la constitution en société à la fiscalité.",
+    },
+  },
+  {
+    id: 'eat-drink-play',
+    icon: '🍜',
+    name: { ms: 'Makan Minum Main', en: 'Eat · Drink · Play', zh: '吃喝玩乐', ta: 'ருசி & உல்லாசம்', ja: 'グルメ・レジャー', ko: '먹고 마시고 즐기기', th: 'กิน ดื่ม เที่ยว', vi: 'Ăn Uống Vui Chơi', id: 'Makan Minum Main', ar: 'مأكل ومشرب وترفيه', hi: 'खाना-पीना-घूमना', es: 'Comer · Beber · Disfrutar', fr: 'Manger · Boire · Profiter' },
+    tagline: {
+      ms: 'Tempat terbaik untuk makan, minum, bermain dan bersantai — di seluruh Malaysia.',
+      en: 'The best places to eat, drink, play and unwind — right across Malaysia.',
+      zh: '吃喝玩乐的最佳去处——玩遍全马来西亚。',
+      ta: 'சாப்பிட, குடிக்க, சுற்ற, இளைப்பாற சிறந்த இடங்கள் — மலேசியா முழுவதும்.',
+      ja: '食べる・飲む・遊ぶ・くつろぐのに最適な場所を、マレーシア全土から。',
+      ko: '먹고 마시고 놀고 쉬기 좋은 곳을, 말레이시아 전역에서.',
+      th: 'ที่สุดของการกิน ดื่ม เที่ยว และพักผ่อน ทั่วทั้งมาเลเซีย',
+      vi: 'Những nơi tốt nhất để ăn, uống, vui chơi và thư giãn — trên khắp Malaysia.',
+      id: 'Tempat terbaik untuk makan, minum, bermain, dan bersantai — di seluruh Malaysia.',
+      ar: 'أفضل أماكن المأكل والمشرب والترفيه والاسترخاء — في أنحاء ماليزيا كلها.',
+      hi: 'खाने, पीने, घूमने और सुकून पाने की बेहतरीन जगहें — पूरे मलेशिया में।',
+      es: 'Los mejores lugares para comer, beber, salir y relajarse, por toda Malasia.',
+      fr: "Les meilleures adresses pour manger, boire, sortir et se détendre, dans toute la Malaisie.",
     },
   },
 ];
@@ -814,7 +834,7 @@ export const CATEGORIES: Category[] = [
       fr: 'Destinations, voyages, culture et patrimoine.',
     },
     archetype: 'service',
-    pillar: 'living',
+    pillar: 'eat-drink-play',
     launch: true,
   },
   {
@@ -837,7 +857,7 @@ export const CATEGORIES: Category[] = [
       fr: 'Cuisine malaisienne, art de vivre et shopping.',
     },
     archetype: 'service',
-    pillar: 'living',
+    pillar: 'eat-drink-play',
     launch: true,
   },
   {
@@ -1168,6 +1188,7 @@ export const PILLAR_COLORS: Record<Pillar, string> = {
   understand: '#A78BFA',
   living: '#38BDF8',
   'doing-business': '#FFC000',
+  'eat-drink-play': '#F5A623',
 };
 
 export function getPillarColor(id: string): string {
