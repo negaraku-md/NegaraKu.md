@@ -1,0 +1,28 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import StateView from '@/components/StateView.astro';
+import { MY_STATES } from '@/lib/malaysiaStates';
+import { articlesForLocale } from '@/lib/content';
+import { t } from '@/lib/i18n';
+
+const locale = 'hi';
+
+export function getStaticPaths() {
+  return MY_STATES.map((s) => ({ params: { state: s.id } }));
+}
+
+const { state } = Astro.params;
+const items = await articlesForLocale(locale);
+const st = MY_STATES.find((s) => s.id === state)!;
+const art = items.find((a) => a.data.category === 'states' && a.data.slug === st.slug);
+const name = art?.data.title ?? state;
+---
+
+<BaseLayout
+  locale={locale}
+  title={`${name} — ${t('nav.eatDrinkPlay', locale)}`}
+  description={t('edp.metaDesc', locale)}
+  path={`/eat-drink-play/state/${state}`}
+>
+  <StateView locale={locale} stateId={state} />
+</BaseLayout>

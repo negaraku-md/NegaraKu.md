@@ -1,0 +1,140 @@
+---
+import type { Locale } from '@/lib/categories';
+import { articlesForLocale } from '@/lib/content';
+import { localePath, t } from '@/lib/i18n';
+import { getState, stateFromAddress } from '@/lib/malaysiaStates';
+import { EDP } from '@/lib/clusters';
+import { loc } from '@/lib/categories';
+import PageHero from './PageHero.astro';
+
+// "Explore by state" — the per-state discovery page for the Eat·Drink·Play hub.
+// Answers "I'm going to <state> — what can I eat and see there?" Tourism guides
+// come from the state's curated list; food venues are derived from their
+// place-card address (postcode → state), so no venue needed a stored state.
+// States with no coverage yet say so honestly and point to the state overview.
+
+interface Props {
+  locale: Locale;
+  stateId: string;
+}
+const { locale, stateId } = Astro.props;
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const st = getState(stateId)!;
+const items = await articlesForLocale(locale);
+const bySlug = new Map(items.map((a) => [`${a.data.category}/${a.data.slug}`, a]));
+
+// State display name from its states-category article (localized title).
+const stateArticle = bySlug.get(`states/${st.slug}`);
+const stateName = stateArticle?.data.title ?? st.id;
+
+// Tourism guides curated for this state.
+const tourism = st.tourism.map((slug) => bySlug.get(`tourism/${slug}`)).filter(Boolean) as NonNullable<ReturnType<typeof bySlug.get>>[];
+
+// Food venues whose place-card address resolves to this state, best-rated first.
+const venues = items
+  .filter((a) => a.data.category === 'food-lifestyle' && a.data.place?.address && stateFromAddress(a.data.place.address) === stateId)
+  .sort((a, b) => (b.data.place?.googleRating ?? 0) - (a.data.place?.googleRating ?? 0));
+
+const homeLabel = L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'होम', 'Inicio', 'Accueil');
+const goLabel = L('Tempat untuk pergi', 'Places to go', '去处', 'செல்ல வேண்டிய இடங்கள்', '行くべき場所', '가볼 곳', 'ที่เที่ยว', 'Nơi để đi', 'Tempat yang dikunjungi', 'أماكن للزيارة', 'घूमने की जगहें', 'Lugares que ver', 'Où aller');
+const eatLabel = L('Tempat untuk makan', 'Where to eat', '去哪里吃', 'எங்கே சாப்பிடுவது', '食べるなら', '먹을 곳', 'ที่กิน', 'Nơi để ăn', 'Tempat makan', 'أين تأكل', 'कहाँ खाएँ', 'Dónde comer', 'Où manger');
+const emptyMsg = L(
+  'Liputan untuk negeri ini masih berkembang. Sementara itu, mula dengan gambaran keseluruhan negeri.',
+  "Coverage for this state is still growing. For now, start with the state overview.",
+  '这个州的内容还在增加中。目前，先从该州概览开始。',
+  'இந்த மாநிலத்திற்கான உள்ளடக்கம் இன்னும் வளர்ந்து வருகிறது. இப்போதைக்கு, மாநில மேலோட்டத்துடன் தொடங்குங்கள்.',
+  'この州の情報は拡充中です。まずは州の概要からご覧ください。',
+  '이 주의 콘텐츠는 아직 늘려가는 중입니다. 우선 주 개요부터 보세요.',
+  'เนื้อหาของรัฐนี้ยังเพิ่มเติมอยู่ ระหว่างนี้เริ่มจากภาพรวมของรัฐก่อน',
+  'Nội dung cho bang này vẫn đang được bổ sung. Hiện tại, hãy bắt đầu với tổng quan về bang.',
+  'Konten untuk negara bagian ini masih bertambah. Untuk sekarang, mulai dari ikhtisar negara bagian.',
+  'لا تزال التغطية لهذه الولاية تتوسّع. في الوقت الحالي، ابدأ بنظرة عامة على الولاية.',
+  'इस राज्य की सामग्री अभी बढ़ रही है। फ़िलहाल, राज्य के अवलोकन से शुरू करें।',
+  'La cobertura de este estado aún está creciendo. Por ahora, empieza por el resumen del estado.',
+  "La couverture de cet État s'étoffe encore. Pour l'instant, commencez par la présentation de l'État.",
+);
+const overviewLabel = L('Gambaran keseluruhan negeri', 'State overview', '州概览', 'மாநில மேலோட்டம்', '州の概要', '주 개요', 'ภาพรวมของรัฐ', 'Tổng quan về bang', 'Ikhtisar negara bagian', 'نظرة عامة على الولاية', 'राज्य अवलोकन', 'Resumen del estado', "Présentation de l'État");
+const seeAllFood = L('Lihat semua tempat makan', 'See all places to eat', '查看全部餐饮', 'அனைத்து உணவகங்களையும் காண்க', 'すべての飲食店を見る', '모든 맛집 보기', 'ดูร้านอาหารทั้งหมด', 'Xem tất cả nơi ăn uống', 'Lihat semua tempat makan', 'عرض كل أماكن الأكل', 'सभी खाने की जगहें देखें', 'Ver todos los sitios para comer', 'Voir tous les lieux où manger');
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: homeLabel, href: localePath('/', locale) },
+    { label: loc(EDP.title, locale), href: localePath(`/${EDP.slug}`, locale) },
+    { label: stateName },
+  ]}
+  title={stateName}
+  desc={L('Tempat terbaik untuk makan, minum dan meneroka di ', 'The best places to eat, drink and explore in ', '在这里吃喝玩乐的最佳去处：', '', '', '', '', '', '', '', '', '', '') + stateName}
+  stats={[
+    { icon: '🧭', value: tourism.length, label: L('panduan', 'guides', '指南', 'வழிகாட்டிகள்', 'ガイド', '가이드', 'ไกด์', 'hướng dẫn', 'panduan', 'أدلّة', 'गाइड', 'guías', 'guides') },
+    { icon: '🍜', value: venues.length, label: L('tempat makan', 'places to eat', '餐饮', 'உணவகங்கள்', '飲食店', '맛집', 'ร้านอาหาร', 'nơi ăn', 'tempat makan', 'أماكن أكل', 'खाने की जगहें', 'sitios', 'lieux') },
+  ]}
+/>
+
+<div class="container block state-view">
+  {stateArticle && (
+    <a class="sv-overview" href={localePath(`/states/${st.slug}`, locale)}>
+      <span aria-hidden="true">📍</span> {overviewLabel}: {stateName} →
+    </a>
+  )}
+
+  {tourism.length > 0 && (
+    <section class="sv-sec">
+      <h2>{goLabel}</h2>
+      <div class="sv-grid">
+        {tourism.map((a) => (
+          <a class="sv-card" href={localePath(`/tourism/${a.data.slug}`, locale)}>
+            <b>{a.data.title}</b>
+            {a.data.summary && <span class="sv-sum">{a.data.summary}</span>}
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {venues.length > 0 && (
+    <section class="sv-sec">
+      <h2>{eatLabel} <span class="sv-count">{venues.length}</span></h2>
+      <div class="sv-grid">
+        {venues.slice(0, 12).map((a) => (
+          <a class="sv-card sv-venue" href={localePath(`/food-lifestyle/${a.data.slug}`, locale)}>
+            <b>{a.data.title}</b>
+            {a.data.place?.googleRating && <span class="sv-rate">★ {a.data.place.googleRating}</span>}
+            {a.data.place?.mustOrder && <span class="sv-sum">{a.data.place.mustOrder}</span>}
+          </a>
+        ))}
+      </div>
+      {venues.length > 12 && (
+        <a class="sv-more" href={localePath('/food-lifestyle/topic/michelin-guide', locale)}>{seeAllFood} →</a>
+      )}
+    </section>
+  )}
+
+  {tourism.length === 0 && venues.length === 0 && (
+    <p class="sv-empty">{emptyMsg}</p>
+  )}
+</div>
+
+<style>
+  .state-view { display: flex; flex-direction: column; gap: var(--space-group); }
+  .sv-overview { align-self: flex-start; font-size: 0.9rem; color: var(--gold); text-decoration: none; font-weight: 700; }
+  .sv-overview:hover { text-decoration: underline; }
+  .sv-sec { display: flex; flex-direction: column; gap: 0.8rem; }
+  .sv-sec h2 { font-family: var(--font-title); font-size: 1.3rem; margin: 0; }
+  .sv-count { color: var(--muted); font-size: 0.9rem; font-weight: 400; }
+  .sv-grid { display: grid; gap: 0.8rem; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); }
+  .sv-card {
+    background: var(--surface); border: 1px solid var(--line); border-radius: 10px;
+    padding: 0.95rem 1.05rem; text-decoration: none; color: inherit;
+    display: flex; flex-direction: column; gap: 0.3rem; transition: border-color 0.15s, transform 0.15s;
+  }
+  .sv-card:hover { border-color: var(--gold); transform: translateY(-2px); }
+  .sv-card b { font-family: var(--font-title); font-size: 1rem; }
+  .sv-sum { color: var(--ink-soft); font-size: 0.85rem; line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .sv-rate { color: var(--gold); font-size: 0.85rem; font-weight: 700; }
+  .sv-more { align-self: flex-start; color: var(--gold); text-decoration: none; font-weight: 700; font-size: 0.9rem; }
+  .sv-more:hover { text-decoration: underline; }
+  .sv-empty { color: var(--ink-soft); font-size: 0.95rem; }
+</style>

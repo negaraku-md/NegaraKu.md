@@ -1,0 +1,66 @@
+---
+import type { Locale } from '@/lib/categories';
+import { articlesForLocale } from '@/lib/content';
+import { localePath } from '@/lib/i18n';
+import { MY_STATES, stateFromAddress } from '@/lib/malaysiaStates';
+
+// "Explore by state" index for the Eat·Drink·Play hub — a grid of the states
+// that have discovery content, each linking to its per-state page. Counts are
+// derived (tourism from the curated list, food venues from place-card
+// addresses), so states with nothing yet are simply left out until they do.
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const items = await articlesForLocale(locale);
+const nameBySlug = new Map(items.filter((a) => a.data.category === 'states').map((a) => [a.data.slug, a.data.title]));
+
+// Food-venue count per state (derived from place-card addresses).
+const venueCount: Record<string, number> = {};
+for (const a of items) {
+  if (a.data.category !== 'food-lifestyle' || !a.data.place?.address) continue;
+  const s = stateFromAddress(a.data.place.address);
+  if (s) venueCount[s] = (venueCount[s] ?? 0) + 1;
+}
+
+const states = MY_STATES
+  .map((s) => ({ s, guides: s.tourism.length, eats: venueCount[s.id] ?? 0, name: nameBySlug.get(s.slug) ?? s.id }))
+  .filter((x) => x.guides > 0 || x.eats > 0)
+  .sort((a, b) => a.name.localeCompare(b.name, undefined, { sensitivity: 'base' }));
+
+const heading = L('Terokai mengikut negeri', 'Explore by state', '按州探索', 'மாநிலம் வாரியாக ஆராயுங்கள்', '州ごとに探す', '주별로 둘러보기', 'สำรวจตามรัฐ', 'Khám phá theo bang', 'Jelajahi menurut negeri', 'استكشف حسب الولاية', 'राज्य के अनुसार देखें', 'Explorar por estado', 'Explorer par État');
+const guidesWord = L('panduan', 'guides', '指南', 'வழிகாட்டிகள்', 'ガイド', '가이드', 'ไกด์', 'hướng dẫn', 'panduan', 'أدلّة', 'गाइड', 'guías', 'guides');
+const eatsWord = L('tempat makan', 'to eat', '餐饮', 'உணவகங்கள்', '飲食店', '맛집', 'ร้านอาหาร', 'nơi ăn', 'tempat makan', 'أماكن أكل', 'खाने की जगहें', 'para comer', 'où manger');
+---
+
+<section class="container block bystate" data-pagefind-ignore>
+  <h2>{heading}</h2>
+  <div class="bs-grid">
+    {states.map((x) => (
+      <a class="bs-card" href={localePath(`/eat-drink-play/state/${x.s.id}`, locale)}>
+        <b>{x.name}</b>
+        <span class="bs-meta">
+          {x.guides > 0 && <span>{x.guides} {guidesWord}</span>}
+          {x.eats > 0 && <span>{x.eats} {eatsWord}</span>}
+        </span>
+      </a>
+    ))}
+  </div>
+</section>
+
+<style>
+  .bystate { display: flex; flex-direction: column; gap: 0.8rem; }
+  .bystate h2 { font-family: var(--font-title); font-size: 1.3rem; margin: 0; }
+  .bs-grid { display: grid; gap: 0.6rem; grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr)); }
+  .bs-card {
+    background: var(--surface); border: 1px solid var(--line); border-radius: 10px;
+    padding: 0.8rem 0.9rem; text-decoration: none; color: inherit;
+    display: flex; flex-direction: column; gap: 0.25rem; transition: border-color 0.15s, transform 0.15s;
+  }
+  .bs-card:hover { border-color: var(--gold); transform: translateY(-2px); }
+  .bs-card b { font-family: var(--font-title); font-size: 0.98rem; }
+  .bs-meta { display: flex; flex-wrap: wrap; gap: 0.1rem 0.7rem; color: var(--muted); font-size: 0.8rem; }
+</style>

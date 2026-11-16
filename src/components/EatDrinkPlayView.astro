@@ -8,6 +8,7 @@ import { EDP, EDP_CLUSTERS } from '@/lib/clusters';
 import PageHero from './PageHero.astro';
 import ArticleStrip from './ArticleStrip.astro';
 import WhatsOn from './WhatsOn.astro';
+import ByStateIndex from './ByStateIndex.astro';
 
 // The 吃喝玩乐 (Eat · Drink · Play) hub — a cross-cutting discovery layer that
 // regroups EXISTING food, drink, tourism and leisure topics under four
@@ -89,6 +90,8 @@ const totalArticles = new Set(resolved.flatMap((r) => r.pool.map((a) => `${a.dat
     </section>
   ))}
 </div>
+
+<ByStateIndex locale={locale} />
 
 <style>
   .edp { display: flex; flex-direction: column; gap: var(--space-group); }
