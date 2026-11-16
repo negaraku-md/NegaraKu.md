@@ -1,0 +1,111 @@
+---
+import type { Locale, Pillar } from '@/lib/categories';
+import { localePath } from '@/lib/i18n';
+import { isolateRanges } from '@/lib/bidi';
+import { guidesForPillar, guidePath, guideText } from '@/lib/guides';
+
+// Compact "Guided paths" card row for a pillar hub. Each pillar can have many
+// guides; this lists them as small cards (icon · title · blurb · step count),
+// each linking to its own guide page (/guide/<id>). Replaces the old single
+// always-expanded stepper band — scannable, scales to many, works on every
+// pillar. Renders nothing when a pillar has no guides yet.
+
+interface Props {
+  locale: Locale;
+  pillar: Pillar;
+}
+const { locale, pillar } = Astro.props;
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const guides = guidesForPillar(pillar);
+const heading = L('Panduan berpandu', 'Guided paths', '专题导览', 'வழிகாட்டு பாதைகள்', 'ガイド付きパス', '가이드 경로', 'เส้นทางแนะนำ', 'Lộ trình hướng dẫn', 'Jalur terpandu', 'مسارات إرشادية', 'निर्देशित पथ', 'Rutas guiadas', 'Parcours guidés');
+const lead = L(
+  'Mula dengan satu perjalanan terpilih — fakta bersumber mengikut urutan, setiap langkah membuka rencana penuh.',
+  'Start with a curated journey — sourced facts in order, each step opens the full article.',
+  '从一条精选路径开始——有来源的事实,按顺序排列,每一步都打开完整文章。',
+  'தொகுக்கப்பட்ட பயணத்துடன் தொடங்குங்கள் — வரிசையில் ஆதாரமுள்ள உண்மைகள், ஒவ்வொரு படியும் முழு கட்டுரையைத் திறக்கிறது.',
+  '厳選された道筋から始めましょう — 出典のある事実を順番に、各ステップが全文を開きます。',
+  '엄선된 여정으로 시작하세요 — 출처가 있는 사실을 순서대로, 각 단계가 전체 글을 엽니다.',
+  'เริ่มจากเส้นทางที่คัดสรร — ข้อเท็จจริงที่มีแหล่งอ้างอิงเรียงตามลำดับ แต่ละขั้นเปิดบทความฉบับเต็ม',
+  'Bắt đầu với một hành trình được tuyển chọn — dữ kiện có nguồn theo thứ tự, mỗi bước mở bài viết đầy đủ.',
+  'Mulai dengan perjalanan terkurasi — fakta bersumber secara berurutan, setiap langkah membuka artikel lengkap.',
+  'ابدأ برحلة منسّقة — حقائق موثّقة بالترتيب، وكل خطوة تفتح المقال الكامل.',
+  'एक चयनित यात्रा से शुरू करें — क्रम में स्रोत-सहित तथ्य, हर कदम पूरा लेख खोलता है।',
+  'Empieza con un recorrido curado: hechos con fuentes en orden, cada paso abre el artículo completo.',
+  'Commencez par un parcours sélectionné — des faits sourcés dans l’ordre, chaque étape ouvre l’article complet.',
+);
+const stepsWord = (n: number) => L(`${n} langkah`, `${n} steps`, `${n} 步`, `${n} படிகள்`, `${n} ステップ`, `${n}단계`, `${n} ขั้นตอน`, `${n} bước`, `${n} langkah`, `${n} خطوات`, `${n} चरण`, `${n} pasos`, `${n} étapes`);
+---
+
+{
+  guides.length > 0 && (
+    <section class="container block gc">
+      <div class="gc-head">
+        <h2>
+          <span class="gc-ico" aria-hidden="true">🧭</span>
+          {heading}
+        </h2>
+        <p class="gc-lead">{lead}</p>
+      </div>
+      <ul class="gc-grid">
+        {guides.map((g) => (
+          <li class="gc-card">
+            <a class="gc-link" href={localePath(guidePath(g.id), locale)}>
+              <span class="gc-emoji" aria-hidden="true">{g.icon}</span>
+              <span class="gc-body">
+                <span class="gc-title">{isolateRanges(guideText(g.title, locale))}</span>
+                <span class="gc-blurb">{isolateRanges(guideText(g.blurb, locale))}</span>
+                <span class="gc-meta">{stepsWord(g.steps.length)}<span class="dirx gc-arrow" aria-hidden="true">→</span></span>
+              </span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )
+}
+
+<style>
+  .block { margin-top: 1.6rem; }
+  .gc-head { margin-bottom: 1.1rem; }
+  .gc-head h2 { margin: 0 0 0.35rem; font-size: 1.5rem; display: inline-flex; align-items: center; gap: 0.55rem; }
+  .gc-ico { font-size: 1.3rem; line-height: 1; }
+  .gc-lead { margin: 0; color: var(--muted); max-width: 62ch; font-size: 0.95rem; line-height: 1.5; }
+
+  .gc-grid {
+    list-style: none; margin: 0; padding: 0;
+    display: grid; gap: 0.8rem;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 20rem), 1fr));
+  }
+  .gc-card { display: flex; }
+  .gc-link {
+    display: flex; gap: 0.85rem; align-items: flex-start; width: 100%;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-inline-start: 3px solid var(--gold);
+    border-radius: 12px;
+    padding: 1rem 1.1rem;
+    text-decoration: none; color: inherit;
+    transition: border-color 0.15s ease, background 0.15s ease, transform 0.15s ease;
+  }
+  .gc-link:hover { border-color: var(--gold); background: var(--surface-2); transform: translateY(-2px); }
+  .gc-emoji {
+    flex: none; font-size: 1.5rem; line-height: 1.2;
+    width: 2.6rem; height: 2.6rem; display: inline-flex; align-items: center; justify-content: center;
+    border-radius: 10px; background: color-mix(in srgb, var(--gold) 14%, transparent);
+  }
+  .gc-body { min-width: 0; display: flex; flex-direction: column; gap: 0.28rem; }
+  .gc-title {
+    font-family: var(--font-title); font-weight: 700; font-size: 1.08rem; line-height: 1.3; color: var(--ink);
+  }
+  .gc-link:hover .gc-title { color: var(--gold); }
+  .gc-blurb {
+    color: var(--muted); font-size: 0.9rem; line-height: 1.45;
+    display: -webkit-box; -webkit-line-clamp: 2; line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  }
+  .gc-meta {
+    margin-top: 0.15rem; display: inline-flex; align-items: center; gap: 0.4rem;
+    font-size: 0.8rem; font-weight: 700; color: var(--gold); font-variant-numeric: tabular-nums;
+  }
+  .gc-arrow { font-weight: 700; }
+</style>

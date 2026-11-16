@@ -22,12 +22,15 @@ interface Props {
   heading?: string;
   /** Leading icon (default compass). */
   icon?: string;
+  /** Drop the heading + lead block (used on a dedicated guide page, where the
+      PageHero already carries the title + blurb) — render only the stepper. */
+  bare?: boolean;
   /** Optional outbound "experience" callout after the steps (tool / booking). */
   experienceLabel?: string;
   experienceHref?: string;
   experienceExternal?: boolean;
 }
-const { locale, articles, steps, variant = 'living', heading: headingProp, icon = '🧭', experienceLabel, experienceHref, experienceExternal = false } = Astro.props;
+const { locale, articles, steps, variant = 'living', heading: headingProp, icon = '🧭', bare = false, experienceLabel, experienceHref, experienceExternal = false } = Astro.props;
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const byKey = new Map(articles.map((a) => [`${a.data.category}/${a.data.slug}`, a]));
@@ -127,13 +130,15 @@ const lead = variant === 'scenario'
 {
   resolved.length > 0 && (
     <section class="container block gp">
-      <div class="gp-head">
-        <h2>
-          <span class="gp-ico" aria-hidden="true">{icon}</span>
-          {headingText}
-        </h2>
-        <p class="gp-lead">{lead}</p>
-      </div>
+      {!bare && (
+        <div class="gp-head">
+          <h2>
+            <span class="gp-ico" aria-hidden="true">{icon}</span>
+            {headingText}
+          </h2>
+          <p class="gp-lead">{lead}</p>
+        </div>
+      )}
       <ol class="gp-list">
         {resolved.map((a, i) => {
           const href = localePath(`/${a.data.category}/${a.data.slug}`, locale);

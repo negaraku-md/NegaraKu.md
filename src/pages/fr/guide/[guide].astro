@@ -1,0 +1,21 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import GuideView from '@/components/GuideView.astro';
+import { guidePaths, guideText, type Guide } from '@/lib/guides';
+
+export function getStaticPaths() {
+  return guidePaths();
+}
+
+const locale = 'fr';
+const { guide } = Astro.props as { guide: Guide };
+---
+
+<BaseLayout
+  locale={locale}
+  title={guideText(guide.title, locale)}
+  description={guideText(guide.blurb, locale)}
+  path={`/guide/${guide.id}`}
+>
+  <GuideView locale={locale} guide={guide} />
+</BaseLayout>

@@ -1,0 +1,48 @@
+---
+import type { Locale } from '@/lib/categories';
+import { getPillarDef, loc } from '@/lib/categories';
+import { articlesForLocale } from '@/lib/content';
+import { localePath } from '@/lib/i18n';
+import type { Guide } from '@/lib/guides';
+import { guideText } from '@/lib/guides';
+import PageHero from './PageHero.astro';
+import GuidedPath from './GuidedPath.astro';
+
+// A single guide page (/guide/<id>). The hero carries the guide's title + blurb
+// (and a resolved step count); the stepper below is GuidedPath in `bare` mode so
+// it renders only the ordered, cited steps. Each step opens the full article —
+// hook → depth. The guide is a shareable, AI-citable landing page in its own right.
+
+interface Props {
+  locale: Locale;
+  guide: Guide;
+}
+const { locale, guide } = Astro.props;
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const def = getPillarDef(guide.pillar)!;
+const items = await articlesForLocale(locale);
+const title = guideText(guide.title, locale);
+const blurb = guideText(guide.blurb, locale);
+
+// Honest step count: only steps whose article actually exists in this locale.
+const present = new Set(items.map((a) => `${a.data.category}/${a.data.slug}`));
+const nSteps = guide.steps.filter((s) => present.has(`${s.cat}/${s.slug}`)).length;
+
+const homeLabel = L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'होम', 'Inicio', 'Accueil');
+const stepsLabel = L('langkah', 'steps', '步', 'படிகள்', 'ステップ', '단계', 'ขั้นตอน', 'bước', 'langkah', 'خطوات', 'चरण', 'pasos', 'étapes');
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: homeLabel, href: localePath('/', locale) },
+    { label: loc(def.name, locale), href: localePath(`/${guide.pillar}`, locale) },
+    { label: title },
+  ]}
+  title={title}
+  desc={blurb}
+  stats={[{ icon: guide.icon, value: nSteps, label: stepsLabel }]}
+/>
+
+<GuidedPath locale={locale} articles={items} steps={guide.steps} bare />
