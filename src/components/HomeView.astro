@@ -7,6 +7,7 @@ import { mostReadKeys } from '@/lib/apidata';
 import ArticleStrip from './ArticleStrip.astro';
 import WelcomeCard from './WelcomeCard.astro';
 import { HERO_STATS as stats } from '@/lib/heroStats';
+import { EDP, EDP_CLUSTERS } from '@/lib/clusters';
 
 interface Props {
   locale: Locale;
@@ -125,6 +126,19 @@ const hubCards = Object.entries(CATEGORY_HUB)
       </a>
     ))}
   </div>
+</section>
+
+<section class="container block">
+  <a class="edp-banner" href={localePath(`/${EDP.slug}`, locale)}>
+    <span class="edp-chars" aria-hidden="true">
+      {EDP_CLUSTERS.map((c) => <span style={`--c:${c.color}`}>{c.char}</span>)}
+    </span>
+    <span class="edp-txt">
+      <b>{loc(EDP.title, locale)}</b>
+      <span class="edp-blurb">{loc(EDP.blurb, locale)}</span>
+    </span>
+    <span class="dirx edp-arrow" aria-hidden="true">→</span>
+  </a>
 </section>
 
 {
@@ -252,5 +266,34 @@ const hubCards = Object.entries(CATEGORY_HUB)
   .guide-card .garrow { color: var(--c); font-weight: 700; flex: 0 0 auto; transition: transform 0.15s ease; }
   .guide-card:hover .garrow { transform: translateX(3px); }
   :global([dir='rtl']) .guide-card:hover .garrow { transform: translateX(-3px); }
+
+  /* Eat·Drink·Play discovery banner — a single wide card, deliberately NOT a
+     fourth pillar: it sits below the three-intent grid as a secondary lifestyle
+     lane. The four tinted 汉字 glyphs are its wordmark. */
+  .edp-banner {
+    display: flex; align-items: center; gap: 1.25rem;
+    padding: 1.2rem 1.4rem; border: 1px solid var(--line); border-radius: 12px;
+    background: var(--surface); text-decoration: none; color: inherit;
+    transition: border-color 0.15s ease, transform 0.15s ease;
+  }
+  .edp-banner:hover { border-color: var(--gold); transform: translateY(-2px); }
+  .edp-chars { display: inline-flex; gap: 0.3rem; flex: 0 0 auto; }
+  .edp-chars span {
+    font-family: var(--font-title); font-size: 1.9rem; font-weight: 800; line-height: 1;
+    color: var(--c); width: 2.4rem; height: 2.4rem; display: grid; place-items: center;
+    border-radius: 9px; background: color-mix(in srgb, var(--c) 12%, var(--surface-2));
+    border: 1px solid color-mix(in srgb, var(--c) 40%, var(--line));
+  }
+  .edp-txt { display: flex; flex-direction: column; gap: 0.2rem; min-width: 0; flex: 1 1 auto; }
+  .edp-txt b { font-family: var(--font-title); font-size: 1.2rem; line-height: 1.2; color: var(--ink); }
+  .edp-txt .edp-blurb { color: var(--ink-soft); font-size: 0.9rem; line-height: 1.5; }
+  .edp-arrow { color: var(--gold); font-weight: 700; font-size: 1.2rem; flex: 0 0 auto; transition: transform 0.15s ease; }
+  .edp-banner:hover .edp-arrow { transform: translateX(3px); }
+  :global([dir='rtl']) .edp-banner:hover .edp-arrow { transform: translateX(-3px); }
+  @media (max-width: 640px) {
+    .edp-banner { flex-wrap: wrap; gap: 0.9rem; }
+    .edp-chars span { font-size: 1.5rem; width: 2rem; height: 2rem; }
+    .edp-arrow { display: none; }
+  }
 
 </style>
