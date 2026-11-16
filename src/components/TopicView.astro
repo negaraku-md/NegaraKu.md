@@ -9,6 +9,7 @@ import { stat } from '@/lib/pageStats';
 import ArticleList from './ArticleList.astro';
 import HubGroups from './HubGroups.astro';
 import { michelinListProps, michelinIntro } from '@/lib/michelin';
+import { drinksListProps, drinksIntro } from '@/lib/drinks';
 
 // TOPIC (subcategory) page — the level between a category and an article.
 // A reader has narrowed to one task area (e.g. Corporate Tax) and wants every
@@ -38,6 +39,14 @@ const mich = isMichelin ? michelinListProps(locale) : null;
 const michIntro = isMichelin ? michelinIntro(locale) : null;
 const michExplainerHref = localePath('/food-lifestyle/michelin-guide-malaysia', locale);
 
+// The drinks topic groups the 23 discrete "what-is-this-drink" articles by family
+// (Coffee & tea / Herbal coolers / Fresh juices / Milk-malt-sweet / Modern) with a
+// "how to order" link to the Kopi lingo decoder — consolidating the 喝 layer.
+const isDrinks = categoryId === 'food-lifestyle' && topic === 'drinks';
+const drinks = isDrinks ? drinksListProps(locale) : null;
+const drinksIn = isDrinks ? drinksIntro(locale) : null;
+const drinkExplainerHref = localePath('/tools/kopi-lingo-decoder', locale);
+
 // Sibling topics in this category — used for the hero's Topics stat.
 const catArticles = (await articlesForLocale(locale)).filter((a) => a.data.category === categoryId);
 const topics = orderedSubcats(categoryId, catArticles.flatMap((a) => a.data.subcategory), locale);
@@ -66,8 +75,19 @@ const topics = orderedSubcats(categoryId, catArticles.flatMap((a) => a.data.subc
 }
 
 {
+  drinksIn && (
+    <section class="container block mich-intro">
+      <a class="mich-explainer" href={drinkExplainerHref}>{drinksIn.explainerLabel} →</a>
+      <p class="mich-note">{drinksIn.note}</p>
+    </section>
+  )
+}
+
+{
   mich ? (
     <ArticleList locale={locale} articles={articles} filters={[]} homeCat={categoryId} facets={mich.facets} enrich={mich.enrich} layout="grid" />
+  ) : drinks ? (
+    <ArticleList locale={locale} articles={articles} filters={[]} homeCat={categoryId} facets={drinks.facets} enrich={drinks.enrich} />
   ) : (
     <ArticleList locale={locale} articles={articles} filters={[]} homeCat={categoryId} />
   )
