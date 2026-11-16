@@ -100,6 +100,12 @@ keywords:
   - "proceso visado estudiante Malasia"
   - "i-Kad Malaysia"
 framework: explainer
+stayFacts:
+  who: 'Esto es para un estudiante internacional admitido en una institución malasia. Nunca presentas tú mismo el Pase de Estudiante: tu institución lo tramita a través de EMGS (Education Malaysia Global Services), un organismo del Ministerio de Educación Superior que examina el expediente antes de que el Departamento de Inmigración expida una Carta de Aprobación de Visado (VAL/eVAL).'
+  how: 'La secuencia es: la institución presenta la solicitud a EMGS, EMGS la examina y la remite, Inmigración expide la VAL, algunas nacionalidades obtienen además un visado de entrada única a través del portal eVISA, entras y completas un reconocimiento médico en unos pocos días hábiles, y tu institución presenta la solicitud final del Pase de Estudiante para su endoso en tu pasaporte, tras lo cual llega una i-Kad biométrica.'
+  cost: 'Las tarifas las fijan la ley y EMGS y se revisan con el tiempo, así que confirma las tarifas vigentes del Pase de Estudiante, del dependiente y de los servicios de EMGS en el portal de EMGS en vez de fiarte de una cifra. Presupuesta aparte el reconocimiento médico obligatorio y el seguro de salud que EMGS exige.'
+  watch: 'La VAL solo autoriza la entrada como estudiante: no es el Pase de Estudiante en sí, y una exención de visado de turista o un eVisa nunca cubren los estudios. Una vez endosada, debes llevar la i-Kad en todo momento, pero no sustituye a tu pasaporte al viajar.'
+  next: 'Empieza por la oficina de estudiantes internacionales de tu institución: ellos impulsan la presentación ante EMGS; confirma pronto si tu nacionalidad también necesita un visado de entrada única para entrar. Si te acompaña la familia, consulta los pases de dependiente y de visita social.'
 ---
 
 No puedes solicitar por ti mismo tu visado de estudiante malasio. Incluso con la carta de admisión en mano y las tarifas pagadas, la solicitud tiene que pasar por tu institución, porque el organismo que la examina no es Inmigración en absoluto, al menos no al principio. Es una empresa.

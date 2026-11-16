@@ -72,6 +72,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "employment-pass", "work-passes-malaysia", "dependant-social-visit-passes", "imigresen"]
 keywords: ["professional visit pass malaysia", "pvp malaysia", "pvp vs employment pass", "esd professional visit pass", "myxpats pvp", "foreign expert pass malaysia", "expert transfer pass malaysia", "short term work pass malaysia"]
 framework: explainer
+stayFacts:
+  who: '専門訪問パス（Professional Visit Pass、PVP）は、外国人がマレーシアの受け入れ先の従業員になることなく、その受け入れ先のために特定の契約、プロジェクトまたは研修任務を遂行することを認める。専門知識移転（Expert Transfer）と研究（Research）のカテゴリーについては、給与は引き続き原海外雇用主が支払わなければならない——マレーシアの受け入れ先が給与の支払い主体になることは決してない。'
+  how: '専門家（Expert）カテゴリーは、登録済みの受け入れ企業がESD／MYXpatsポータルを通じて申請する。別個の一般カテゴリー（騎手、ボランティア、交換留学生など向け）は、移民局の査証・パス・許可課（Visa, Pass and Permit Division）に直接申請する。いずれの場合も、パスは一度につき一つの目的またはプロジェクトを対象とする。'
+  cost: '申請料にSSTを加えたもの、承認期間に応じて段階分けされた移民局の裏書料、および国籍によって定まるビザ料がいずれもかかり、これらは定期的に改定される——単一の数字に頼るのではなく、現行のESD／MYXpats料金表を確認すること。'
+  watch: '上限は一回の発給につき12か月であり、それを超えた延長はできず、配偶者、子または家事使用人についての規定は一切ない——これがエンプロイメントパスとの核心的な差異である。最近のコンプライアンス規則により、受け入れ先は保有者が出国する際にパスを短縮するか、出国クリアランス（Exit Clearance）を完了しなければならない。'
+  next: '任務が短期でプロジェクトに限定される場合は、PVPが適する。数年にわたる雇用や家族の帯同が必要な場合は、代わりにエンプロイメントパスを検討すること。両者の比較については「マレーシアの就労パス比較」を参照。'
 ---
 
 二人の外国人が、マレーシアの同じオフィスの同じ机に並んで座り、同じ仕事をしていながら、まったく異なる法的立場に置かれることがある。一人はエンプロイメントパスで、マレーシア企業から給与を受け取り、年ごとに更新できる。もう一人は専門訪問パス（Professional Visit Pass、PVP）で——給与は依然として自分を派遣した企業から支払われ、時計は12か月を刻み、それを超える更新はない。移民局が見ているのは二人の従業員ではない。雇用主と一人の客人（ゲスト）である。

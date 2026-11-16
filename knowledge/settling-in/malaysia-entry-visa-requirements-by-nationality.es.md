@@ -92,6 +92,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["malaysia visa", "visa-free countries malaysia", "malaysia evisa", "eNTRI", "malaysia digital arrival card", "social visit pass"]
 framework: rules
+stayFacts:
+  who: 'Esto es para cualquier nacional extranjero que planee una visita corta: turismo, familia, reuniones de negocios o tránsito. Malasia clasifica a los visitantes en tres vías: sin visado para una visita social breve, un eVisa obtenido por adelantado, o (para los nacionales indios) el eNTRI, de menor coste.'
+  how: 'Comprueba la vía de tu nacionalidad en el portal oficial de Inmigración; si necesitas un eVisa o un eNTRI, solicítalo antes de viajar. Aparte de eso, casi todo visitante debe presentar la Tarjeta Digital de Llegada a Malasia (MDAC) dentro de los tres días previos a la llegada: es un registro, no un visado, así que, cuando se exige un visado, aun así hay que obtenerlo además.'
+  cost: 'La entrada sin visado no conlleva tarifa de visado; el eVisa y el eNTRI sí tienen tarifa y se revisan periódicamente, así que confirma la tarifa vigente y la duración de estancia permitida en el portal oficial de eVisa de Inmigración. La MDAC es gratuita en el sitio oficial del gobierno; cuidado con los sitios que la imitan y cobran por ella.'
+  watch: 'Una exención o un eVisa cubren únicamente las visitas de turismo, sociales y de negocios: trabajar o estudiar siempre requiere un pase aparte, específico para ese fin. Los periodos de exención de visado y las listas de países cambian, y algunas son exenciones de duración limitada, así que vuelve a comprobarlo cerca de tu fecha de viaje en lugar de fiarte de una lista antigua.'
+  next: 'Confirma tu vía y presenta la MDAC antes de reservar. Si tu intención es trabajar, estudiar o establecerte en lugar de solo visitar, consigue primero el pase correcto; consulta Mudarse a Malasia: primeros pasos.'
 ---
 
 Antes de reservar un vuelo a Kuala Lumpur, la primera pregunta no es «qué hotel» — es «¿mi pasaporte me hace pasar la puerta?». Para la mayoría de los viajeros la respuesta es un alivio, pero las normas se dividen marcadamente según la nacionalidad, y ahora un formulario en línea se aplica a casi todos.

@@ -84,6 +84,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "employment-pass", "dependant-social-visit-passes", "student-pass"]
 keywords: ["overstay Malaysia", "immigration blacklist", "Special Pass", "Immigration Act 1959/63", "compound fine", "re-entry ban", "section 15", "Overstay Management Programme"]
 framework: rules
+stayFacts:
+  who: 'Điều này quan trọng với bất kỳ công dân nước ngoài nào mà giấy phép — thăm viếng, việc làm, người phụ thuộc, sinh viên hoặc chuyên môn — đã hết hạn hoặc sắp hết hạn, và với người sử dụng lao động cùng bên bảo lãnh của họ. Ở quá hạn là một hành vi phạm tội trách nhiệm nghiêm ngặt (strict-liability) theo Immigration Act 1959/63: một sai sót thật lòng vẫn là một hành vi phạm tội, vì ý định không quan trọng.'
+  how: 'Hầu hết các vụ được giải quyết bằng một compound — một khoản phạt tại chỗ — thay vì truy tố; ở quá hạn lâu hơn, tái phạm và các vụ Special Pass được chuyển đến Bộ phận Thực thi. Không có công cụ tự kiểm tra trực tuyến công khai cho người giữ hộ chiếu nước ngoài, nên hãy xác nhận tình trạng của chính bạn bằng cách liên hệ trực tiếp với Cục Di trú.'
+  cost: 'Số tiền compound được ấn định theo biểu phí và gần đây đã được sửa đổi, nên đừng dựa vào một con số — hãy xác nhận compound hoặc mức theo ngày hiện hành với Cục Di trú. Chi phí lớn hơn là một lệnh cấm tái nhập cảnh có thể từ khoảng một đến năm năm cho các vụ nghiêm trọng hoặc tái phạm.'
+  watch: 'Trách nhiệm nghiêm ngặt nghĩa là ý định không liên quan — hãy tự theo dõi ngày hết hạn của bạn và hành động trước khi nó trôi qua, không phải sau. Bị đưa vào Danh sách Nghi vấn (Senarai Syak) hoặc bị chuyển đến Thực thi thì tốn kém hơn và chậm gỡ bỏ hơn nhiều so với gia hạn đúng hạn.'
+  next: 'Nếu một giấy phép gần hết hạn, hãy gia hạn hoặc hợp thức hóa trước ngày đó; nếu bạn đã ở quá hạn, hãy liên hệ ngay với Cục Di trú (hoặc người dùng ESD của bên bảo lãnh của bạn) thay vì cố đi ra. Xem bài viết về từng giấy phép cụ thể để biết lối gia hạn của nó.'
 ---
 
 Một giấy phép hết hạn một ngày, trong mắt luật Malaysia, là cùng một hành vi phạm tội như một giấy phép hết hạn một trăm ngày. Đó là điểm khởi đầu khó chịu cho bất kỳ ai nhận ra giấy phép thăm viếng, việc làm, người phụ thuộc, sinh viên, hoặc chuyên môn của mình đã hết hạn — và nó định hình mọi thứ về những gì xảy ra tiếp theo.

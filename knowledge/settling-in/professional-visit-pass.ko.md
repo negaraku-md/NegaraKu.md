@@ -73,6 +73,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "employment-pass", "work-passes-malaysia", "dependant-social-visit-passes", "imigresen"]
 keywords: ["professional visit pass malaysia", "pvp malaysia", "pvp vs employment pass", "esd professional visit pass", "myxpats pvp", "foreign expert pass malaysia", "expert transfer pass malaysia", "short term work pass malaysia"]
 framework: explainer
+stayFacts:
+  who: '전문가 방문 패스(Professional Visit Pass, PVP)는 외국 국민이 말레이시아 유치사의 직원이 되지 않고 특정 계약, 프로젝트 또는 훈련 임무를 수행하도록 해줍니다. 전문가 이전(Expert Transfer)과 연구(Research) 범주의 경우, 급여는 원래의 해외 고용주가 계속 지급해야 합니다 — 말레이시아 유치사는 결코 급여 지급 주체가 되지 않습니다.'
+  how: '전문가 범주는 등록된 유치 회사가 ESD/MYXpats 포털을 통해 신청합니다; 별도의 일반 범주(기수, 자원봉사자, 교환학생 등)는 이민국 비자·패스·허가국에 직접 신청합니다. 어느 쪽이든 이 패스는 한 번에 하나의 목적이나 프로젝트를 커버합니다.'
+  cost: '신청 수수료와 SST, 승인 기간에 따라 등급화된 이민 배서 수수료, 그리고 국적별 비자 수수료가 모두 적용되며 이것들은 주기적으로 개정됩니다 — 하나의 수치에 의존하지 말고 현행 ESD/MYXpats 요금표를 확인하십시오.'
+  watch: '상한은 발급당 12개월이며 그를 넘는 연장이 없고, 배우자·자녀·가사도우미에 대한 규정이 전혀 없습니다 — 취업 비자와의 핵심 차이입니다. 최근의 준수 규정은 또한 유치사가 소지자의 출국 시 패스를 단축하거나 출국 정산(Exit Clearance)을 완료하도록 요구합니다.'
+  next: '임무가 짧고 프로젝트에 한정된다면 PVP가 적합합니다; 다년간의 고용이 필요하거나 가족을 데려오려면 대신 취업 비자(Employment Pass)를 살펴보십시오. 나란히 비교한 「말레이시아의 취업 패스 비교」를 참조하십시오.'
 ---
 
 두 외국인이 같은 말레이시아 사무실의 같은 책상에 앉아 같은 일을 하면서도 완전히 다른 법적 지위에 있을 수 있습니다. 한 명은 취업 비자로, 말레이시아 회사가 급여를 지급하며 해마다 갱신됩니다. 다른 한 명은 전문가 방문 패스로 — 여전히 그를 보낸 회사가 급여를 지급하며, 12개월의 시간이 흐르고 그 이후 갱신이 없습니다. 이민국은 두 직원을 보지 않습니다. 고용주와 손님을 봅니다.

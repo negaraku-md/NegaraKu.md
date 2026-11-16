@@ -58,6 +58,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "imigresen", "employment-pass-malaysia", "work-passes-malaysia", "opening-bank-account"]
 keywords: ["Dependant Pass Malaysia", "Long-Term Social Visit Pass", "LTSVP Malaysia", "Employment Pass family", "sponsor spouse Malaysia visa", "parents visa Malaysia expatriate", "Malaysia family visa options"]
 framework: explainer
+stayFacts:
+  who: '马来西亚没有单一的「家庭签证」。Employment Pass 持证人的配偶与未婚的十八岁以下子女（包括合法领养的子女）依 Dependant Pass 获得担保；父母、岳父母／公婆以及十八岁以上子女则走 Long-Term Social Visit Pass（LTSVP）——这是一个涵盖面更广的类别，移民局也把它用于其他情形，例如马来西亚公民的外籍配偶。'
+  how: '当与 Employment Pass 挂钩时，两种准证都由保荐公司透过其外籍人士服务组（ESD）账户提交——家属本人从不单独申请。马来西亚公民的外籍配偶则改为直接申请 LTSVP，适用的条件不同。'
+  cost: '没有单一的费用可以记住——它随准证类型与国籍而异，并会定期调整，因此请在 ESD／MYXpats 门户网站并向移民局确认当前的数字。真正的「代价」是依附性：有效期以较早届满者为准，即主要持证人的准证或家属本人的护照。'
+  watch: '两种准证都不带工作权——日后想就业的家属必须以自己的名义另行取得 Employment Pass。两种准证都跟随主要持证人的准证，通常主证到期即随之结束，因此主要持证人身份一旦失效，影响会直接波及家属。'
+  next: '尽早判断每位家人适用哪一种准证（十八岁以下子女、十八岁以上子女，还是父母或岳父母／公婆），并请保荐雇主的 ESD 用户随主要持证人的 Employment Pass 一并提交。更多背景可参阅 Employment Pass 以及《移居马来西亚：第一步》。'
 ---
 
 一名迁居马来西亚的 Employment Pass 持证人，可以用一张准证带上配偶与年幼子女。他们的父母，或一名刚满十八岁的子女，则需要一张完全不同的准证。同一位主要持证人，同一个家庭，却是两个各自独立的移民类别——把两者混为一谈，是家庭担保申请卡住最常见的原因。

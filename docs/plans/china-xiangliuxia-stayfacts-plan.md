@@ -74,6 +74,20 @@ clean (5 fields), validate-frontmatter 0/0, astro sync, translation-sync **0 sta
 (freshness-neutral confirmed — stayFacts not in TRANSLATED_FIELDS). ar handled RTL (Latin tokens
 stay Latin, renderer isolates); id/ja/ko matched each article's own term choices.
 
+## Tranche B — 5 more high-intent 想留下 decisions, 13 langs (2026-11-17)
+Extended the proven card to the settling decisions that lacked it, after EDP P1–P4 shipped
+and its only remaining items proved billing-gated. Picked the highest-intent "can I / how do I
+stay" gaps, all `sensitivity: none` (same risk profile as the live 12): **dependant-social-visit-
+passes** (family), **student-pass** (education), **malaysia-entry-visa-requirements-by-nationality**
+(the entry gate / guided-path opener), **immigration-overstay-and-blacklist** (the critical watch),
+**professional-visit-pass** (short-term project work). EN cards authored by hand (durable/shape-only,
+law cites + acronyms preserved, hedged to official portals — no rot-prone fees/dates), injected via
+`scratchpad/inject-stayfacts-b.mjs`; 12 per-language agents + `scratchpad/inject-stayfacts-b-lang.mjs`
+for the 60 translations. GATE: 65/65 js-yaml clean, validate-frontmatter **0/0**, translation-sync
+**0 stale / 0 orphaned** (freshness-neutral re-confirmed). **HELD — `malaysian-citizenship-by-
+registration`** (`sensitivity: constitution`, reviewer `ashton-tan`): not shipped to a live deploy
+without ashton-tan's actual review. 65 files = 5 masters + 60 translations.
+
 ## Phase 2 — DONE 2026-11-16 (HELD)
 - **想留下 "Make Malaysia home" guided path** — the `GuidedPath` `living`-variant band
   ("Thinking of moving to Malaysia? / 想留在马来西亚?") on `/living` already existed, but its

@@ -92,6 +92,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["malaysia visa", "visa-free countries malaysia", "malaysia evisa", "eNTRI", "malaysia digital arrival card", "social visit pass"]
 framework: rules
+stayFacts:
+  who: 'Ceci concerne tout ressortissant étranger prévoyant une courte visite — tourisme, famille, réunions d''affaires ou transit. La Malaisie répartit les visiteurs en trois voies : l''entrée sans visa pour une courte visite sociale, un eVisa obtenu au préalable, ou (pour les ressortissants indiens) l''eNTRI, moins coûteux.'
+  how: 'Vérifiez la voie correspondant à votre nationalité sur le portail officiel de l''Immigration ; si vous avez besoin d''un eVisa ou d''un eNTRI, faites-en la demande avant de voyager. Par ailleurs, presque tout visiteur doit soumettre la Carte numérique d''arrivée en Malaisie (MDAC) dans les trois jours précédant l''arrivée — c''est un enregistrement, pas un visa, de sorte qu''un visa doit tout de même être obtenu en plus lorsqu''il est requis.'
+  cost: 'L''entrée sans visa n''entraîne aucun frais de visa ; des frais d''eVisa et d''eNTRI s''appliquent et sont révisés périodiquement ; confirmez donc les frais en vigueur et la durée de séjour autorisée sur le portail officiel eVisa de l''Immigration. La MDAC est gratuite sur le site officiel du gouvernement — méfiez-vous des sites imitateurs qui la facturent.'
+  watch: 'Une exemption ou un eVisa ne couvrent que les visites touristiques, sociales et d''affaires — le travail ou les études nécessitent toujours un pass distinct, spécifique à cet objet. Les fenêtres d''exemption de visa et les listes de pays changent, et certaines sont des exemptions à durée limitée ; revérifiez donc peu avant votre date de voyage plutôt que de vous fier à une liste ancienne.'
+  next: 'Confirmez votre voie et soumettez la MDAC avant de réserver. Si vous comptez travailler, étudier ou vous installer plutôt que simplement visiter, mettez en place le bon pass au préalable — voir S''installer en Malaisie : premières démarches.'
 ---
 
 Avant de réserver un vol pour Kuala Lumpur, la première question n'est pas « quel hôtel » — c'est « est-ce que mon passeport me fait passer la porte ? ». Pour la plupart des voyageurs, la réponse est un soulagement, mais les règles se divisent nettement selon la nationalité, et un formulaire en ligne s'applique désormais à presque tout le monde.

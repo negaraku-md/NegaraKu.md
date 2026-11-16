@@ -73,6 +73,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "employment-pass", "work-passes-malaysia", "dependant-social-visit-passes", "imigresen"]
 keywords: ["professional visit pass malaysia", "pvp malaysia", "pvp vs employment pass", "esd professional visit pass", "myxpats pvp", "foreign expert pass malaysia", "expert transfer pass malaysia", "short term work pass malaysia"]
 framework: explainer
+stayFacts:
+  who: '专业访问准证（PVP）让外国公民为马来西亚接待方执行特定合约、项目或培训任务，而不成为其雇员。就专业知识转移与研究这两个类别而言，薪金必须继续由原海外雇主支付——马来西亚接待方从不会成为发薪单位。'
+  how: '专家类别由已注册的接待公司经 ESD／MYXpats 门户网站申请；另有一条独立的一般类别（面向骑师、义工、交换生等）则直接向移民局的签证、准证与许可证司申请。无论哪一条，该准证一次只涵盖一个目的或项目。'
+  cost: '须缴付申请费加 SST、按获批期限分级的移民局签注费，以及依国籍而定的签证费，而这些都会定期调整——请确认当前的 ESD／MYXpats 收费表，而非依赖单一数字。'
+  watch: '上限为每次签发 12 个月，不得超过此上限延长，而且完全没有为配偶、子女或家庭佣工提供任何安排——这正是它与就业准证的核心差异。一项较新的合规规定还要求接待方在持证人离境时缩短准证或完成离境审核（Exit Clearance）。'
+  next: '若任务短期且以项目为限，PVP 很合适；若你需要多年的雇佣关系或携带家属，则应考虑就业准证。并排对照请参阅《马来西亚各类工作准证比较》。'
 ---
 
 两名外国人可以坐在同一间马来西亚办公室里的同一张办公桌前，做着同样的工作，法律地位却截然不同。一人持就业准证，由马来西亚公司支付薪金，年复一年可以续期。另一人持专业访问准证——薪金仍由派遣他来的公司支付，时钟只跑十二个月，超过就不能再续。移民局看到的不是两名雇员，而是一个雇主与一位访客。

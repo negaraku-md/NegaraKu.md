@@ -92,6 +92,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["malaysia visa", "visa-free countries malaysia", "malaysia evisa", "eNTRI", "malaysia digital arrival card", "social visit pass"]
 framework: rules
+stayFacts:
+  who: 'Ini untuk mana-mana warganegara asing yang merancang lawatan singkat — pelancongan, keluarga, mesyuarat perniagaan atau transit. Malaysia mengasingkan pelawat kepada tiga laluan: bebas visa untuk lawatan sosial jangka pendek, eVisa yang diperoleh terlebih dahulu, atau (bagi warganegara India) eNTRI yang berkos lebih rendah.'
+  how: 'Semak laluan kewarganegaraan anda di portal rasmi Imigresen; jika anda memerlukan eVisa atau eNTRI, mohon sebelum anda mengembara. Berasingan, hampir setiap pelawat mesti menghantar Kad Ketibaan Digital Malaysia (MDAC) dalam tempoh tiga hari sebelum ketibaan — ia adalah pendaftaran, bukan visa, jadi visa masih perlu diperoleh sebagai tambahan di mana ia diperlukan.'
+  cost: 'Kemasukan bebas visa tidak mengenakan yuran visa; yuran eVisa dan eNTRI dikenakan dan disemak secara berkala, jadi sahkan yuran semasa dan tempoh tinggal yang dibenarkan di portal eVisa rasmi Imigresen. MDAC adalah percuma di laman web kerajaan rasmi — berhati-hati dengan laman web yang menyerupainya yang mengenakan bayaran untuknya.'
+  watch: 'Pengecualian atau eVisa hanya meliputi lawatan pelancongan, sosial dan perniagaan sahaja — bekerja atau belajar sentiasa memerlukan pas berasingan yang khusus mengikut tujuan. Tempoh bebas visa dan senarai negara berubah-ubah, dan sesetengahnya ialah pengecualian berhad masa, jadi semak semula hampir dengan tarikh perjalanan anda dan bukannya bergantung pada senarai yang lebih lama.'
+  next: 'Sahkan laluan anda dan hantar MDAC sebelum membuat tempahan. Jika anda berhasrat untuk bekerja, belajar atau menetap dan bukan sekadar melawat, aturkan pas yang betul terlebih dahulu — lihat Berpindah ke Malaysia: langkah pertama.'
 ---
 
 Sebelum anda menempah penerbangan ke Kuala Lumpur, soalan pertama bukanlah "hotel yang mana" — tetapi "adakah pasport saya membolehkan saya melepasi pintu masuk?" Bagi kebanyakan pengembara jawapannya melegakan, tetapi peraturannya terbahagi dengan ketara mengikut kewarganegaraan, dan satu borang dalam talian kini terpakai kepada hampir semua orang.

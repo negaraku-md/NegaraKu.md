@@ -59,6 +59,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "imigresen", "employment-pass-malaysia", "work-passes-malaysia", "opening-bank-account"]
 keywords: ["Dependant Pass Malaysia", "Long-Term Social Visit Pass", "LTSVP Malaysia", "Employment Pass family", "sponsor spouse Malaysia visa", "parents visa Malaysia expatriate", "Malaysia family visa options"]
 framework: explainer
+stayFacts:
+  who: 'Malaysia không có một ''visa gia đình'' duy nhất. Vợ/chồng và con chưa lập gia đình dưới 18 tuổi (bao gồm con nuôi hợp pháp) của một người giữ Employment Pass được bảo lãnh theo một Dependant Pass; cha mẹ, cha mẹ vợ/chồng và con trên 18 tuổi thì đi theo một Long-Term Social Visit Pass (LTSVP) — một hạng mục rộng hơn mà Cục Di trú cũng dùng cho những trường hợp khác, chẳng hạn vợ/chồng nước ngoài của một công dân Malaysia.'
+  how: 'Khi gắn với một Employment Pass, cả hai giấy phép đều được công ty bảo lãnh nộp qua tài khoản Bộ phận Dịch vụ Người nước ngoài (Expatriate Services Division, ESD) của công ty — người trong gia đình không bao giờ tự nộp đơn một mình. Vợ/chồng nước ngoài của một công dân Malaysia thì nộp đơn xin LTSVP trực tiếp, theo các điều khoản khác.'
+  cost: 'Không có một khoản phí duy nhất để ghi nhớ — nó thay đổi theo loại giấy phép và quốc tịch và được sửa đổi định kỳ, nên hãy xác nhận các con số hiện hành trên cổng ESD/MYXpats và với Cục Di trú. ''Chi phí'' thực sự là sự lệ thuộc: hiệu lực bị giới hạn bởi thứ nào hết hạn sớm hơn, giấy phép của người chính hay hộ chiếu của người giữ.'
+  watch: 'Không giấy phép nào mang theo quyền làm việc — một người phụ thuộc về sau muốn có việc làm phải riêng biệt đủ điều kiện cho Employment Pass của chính mình. Cả hai giấy phép đều theo giấy phép của người chính và nói chung chấm dứt khi nó chấm dứt, nên một sự gián đoạn trong tình trạng của người chính truyền thẳng đến cả gia đình.'
+  next: 'Hãy quyết định sớm người thân nào hợp với giấy phép nào (con dưới 18 tuổi, con trên 18 tuổi, hay cha mẹ/cha mẹ vợ/chồng), và yêu cầu người dùng ESD của chủ lao động bảo lãnh nộp đơn cùng với Employment Pass của người chính. Để có bối cảnh rộng hơn, xem Employment Pass và Chuyển đến Malaysia: những bước đầu tiên.'
 ---
 
 Một người giữ Employment Pass chuyển đến Malaysia có thể đưa vợ/chồng và con nhỏ theo một giấy phép. Cha mẹ của họ, hoặc một đứa con vừa tròn 18 tuổi, cần một giấy phép hoàn toàn khác. Cùng một người chính, cùng một gia đình, hai hạng mục di trú riêng biệt — và nhầm lẫn giữa chúng là cách phổ biến nhất khiến một đơn bảo lãnh gia đình bị đình trệ.

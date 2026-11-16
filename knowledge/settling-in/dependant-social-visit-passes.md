@@ -58,6 +58,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "imigresen", "employment-pass-malaysia", "work-passes-malaysia", "opening-bank-account"]
 keywords: ["Dependant Pass Malaysia", "Long-Term Social Visit Pass", "LTSVP Malaysia", "Employment Pass family", "sponsor spouse Malaysia visa", "parents visa Malaysia expatriate", "Malaysia family visa options"]
 framework: explainer
+stayFacts:
+  who: 'Malaysia has no single "family visa." An Employment Pass holder''s spouse and unmarried children under 18 (including legally adopted children) are sponsored on a Dependant Pass; parents, parents-in-law and children over 18 go on a Long-Term Social Visit Pass (LTSVP) — a broader category Immigration also uses for others, such as a foreign spouse of a Malaysian citizen.'
+  how: 'When tied to an Employment Pass, both passes are filed by the sponsoring company through its Expatriate Services Division (ESD) account — the family member never applies alone. A foreign spouse of a Malaysian citizen instead applies for the LTSVP directly, on different terms.'
+  cost: 'There is no single fee to memorise — it varies by pass type and nationality and is periodically revised, so confirm the current figures on the ESD / MYXpats portal and with the Immigration Department. The real "cost" is dependency: validity is capped at whichever expires first, the principal''s pass or the holder''s passport.'
+  watch: 'Neither pass carries a right to work — a dependant who later wants a job must separately qualify for their own Employment Pass. Both passes track the principal''s pass and generally end when it does, so a lapse in the principal''s status flows straight through to the family.'
+  next: 'Decide early which family member fits which pass (under-18 child vs over-18 child vs parent or in-law), and ask the sponsoring employer''s ESD user to file alongside the principal''s Employment Pass. For wider context see Employment Pass and Moving to Malaysia: first steps.'
 ---
 
 An Employment Pass holder moving to Malaysia can bring a spouse and young children on one pass. Their parents, or a child who just turned 18, need a completely different one. Same principal, same household, two separate immigration categories — and mixing them up is the single most common way a family sponsorship application stalls.

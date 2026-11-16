@@ -83,6 +83,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "employment-pass", "dependant-social-visit-passes", "student-pass"]
 keywords: ["overstay Malaysia", "immigration blacklist", "Special Pass", "Immigration Act 1959/63", "compound fine", "re-entry ban", "section 15", "Overstay Management Programme"]
 framework: rules
+stayFacts:
+  who: 'This matters to any foreign national whose pass — visit, work, dependant, student or professional — has lapsed or is close to lapsing, and to their employers and sponsors. Overstaying is a strict-liability offence under the Immigration Act 1959/63: a genuine mistake is still an offence, because intent does not matter.'
+  how: 'Most cases are settled by a compound — an on-the-spot fine — rather than prosecution; longer overstays, repeat offences and Special Pass cases are referred to the Enforcement Division. There is no public online self-check for foreign passport holders, so confirm your own status by contacting the Immigration Department directly.'
+  cost: 'The compound amount is set by schedule and was revised recently, so do not rely on a figure — confirm the current compound or day-rate with the Immigration Department. The larger cost is a possible re-entry ban of roughly one to five years for serious or repeat cases.'
+  watch: 'Strict liability means intent is irrelevant — track your expiry date yourself and act before it passes, not after. Being placed on the Suspect List (Senarai Syak) or referred to Enforcement is far costlier and slower to undo than renewing on time.'
+  next: 'If a pass is near expiry, renew or regularise before the date; if you have already overstayed, contact the Immigration Department (or your sponsor''s ESD user) immediately rather than attempting to travel out. See the specific pass article for its renewal route.'
 ---
 
 A pass that lapsed by a single day is, in the eyes of Malaysian law, the same offence as one that lapsed by a hundred. That is the uncomfortable starting point for anyone who realises their visit, employment, dependant, student, or professional pass has run out — and it shapes everything about what happens next.

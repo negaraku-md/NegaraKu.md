@@ -98,6 +98,12 @@ keywords:
   - "i-Kad Malaysia"
   - "Malaysia student visa process"
 framework: explainer
+stayFacts:
+  who: 'This is for an international student admitted to a Malaysian institution. You never lodge the Student Pass yourself — your institution files it through EMGS (Education Malaysia Global Services), a Ministry of Higher Education body that screens the file before the Immigration Department issues a Visa Approval Letter (VAL/eVAL).'
+  how: 'The sequence is institution submits to EMGS, EMGS screens and forwards, Immigration issues the VAL, some nationalities then also obtain a single-entry visa via the eVISA portal, you enter and complete a medical screening within a few working days, and your institution files the final Student Pass endorsed on your passport, with a biometric i-Kad following.'
+  cost: 'Fees are set by statute and by EMGS and are revised over time, so confirm the current Student Pass, dependant and EMGS service charges on the EMGS portal rather than a figure. Budget separately for the required medical screening and the health insurance EMGS mandates.'
+  watch: 'The VAL only authorises entry as a student — it is not the Student Pass itself, and a tourist visa waiver or eVisa never covers study. Once endorsed you must carry the i-Kad at all times, but it does not replace your passport for travel.'
+  next: 'Start with your institution''s international-student office — they drive the EMGS submission; confirm early whether your nationality also needs a single-entry visa to enter. If family will accompany you, see Dependant & social visit passes.'
 ---
 
 You cannot apply for your own Malaysian student visa. Even with an offer letter in hand and the fees paid, the application has to go through your institution — because the body that screens it isn't Immigration at all, at least not at first. It's a company.

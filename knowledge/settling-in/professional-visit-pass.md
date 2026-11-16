@@ -73,6 +73,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "employment-pass", "work-passes-malaysia", "dependant-social-visit-passes", "imigresen"]
 keywords: ["professional visit pass malaysia", "pvp malaysia", "pvp vs employment pass", "esd professional visit pass", "myxpats pvp", "foreign expert pass malaysia", "expert transfer pass malaysia", "short term work pass malaysia"]
 framework: explainer
+stayFacts:
+  who: 'The Professional Visit Pass (PVP) lets a foreign national carry out a specific contract, project or training assignment for a Malaysian host without becoming its employee. For the Expert Transfer and Research categories the salary must keep being paid by the original overseas employer — the Malaysian host never becomes the payroll.'
+  how: 'The Expert category is filed by a registered host company through the ESD / MYXpats portal; a separate general category (for jockeys, volunteers, exchange students and the like) is filed directly with Immigration''s Visa, Pass and Permit Division. Either way the pass covers one purpose or project at a time.'
+  cost: 'An application fee plus SST, an Immigration endorsement fee tiered by approved duration, and a nationality-dependent visa fee all apply, and these are periodically revised — confirm the current ESD / MYXpats schedule rather than relying on a single number.'
+  watch: 'The ceiling is 12 months per issuance with no extension beyond it, and there is no provision at all for a spouse, child or domestic helper — the core difference from an Employment Pass. A recent compliance rule also requires the host to shorten the pass or complete Exit Clearance when the holder departs.'
+  next: 'If the assignment is short and project-bound, the PVP fits; if you need multi-year employment or to bring family, look at the Employment Pass instead. See Malaysia''s work passes compared for the side-by-side.'
 ---
 
 Two foreigners can sit at the same desk in the same Malaysian office, doing the same job, and be on completely different legal footing. One is on an Employment Pass, paid by the Malaysian company, renewable year after year. The other is on a Professional Visit Pass — paid, still, by the company that sent them, with twelve months on the clock and no renewal beyond it. Immigration doesn't see two employees. It sees an employer and a guest.

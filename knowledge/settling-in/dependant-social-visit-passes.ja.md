@@ -58,6 +58,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "imigresen", "employment-pass-malaysia", "work-passes-malaysia", "opening-bank-account"]
 keywords: ["Dependant Pass Malaysia", "Long-Term Social Visit Pass", "LTSVP Malaysia", "Employment Pass family", "sponsor spouse Malaysia visa", "parents visa Malaysia expatriate", "Malaysia family visa options"]
 framework: explainer
+stayFacts:
+  who: 'マレーシアには単一の「家族ビザ」は存在しない。エンプロイメントパス（EP）保有者の配偶者と、未婚の十八歳未満の子女（合法的に養子縁組された子女を含む）は扶養家族パス（Dependant Pass、DP）で保証される。父母、配偶者の父母、十八歳以上の子女は代わりに長期社会訪問パス（Long-Term Social Visit Pass、LTSVP）で保証される——これはより広い区分であり、移民局はマレーシア国民の外国籍配偶者など、他の対象者にも用いる。'
+  how: 'エンプロイメントパス（EP）に紐づく場合、どちらのパスもスポンサー企業がその移民局外国人サービス部門（Expatriate Services Division、ESD）アカウントを通じて申請する——家族が単独で申請することはない。マレーシア国民の外国籍配偶者は、代わりに異なる条件のもとでLTSVPを直接申請する。'
+  cost: '覚えておくべき単一の手数料は存在しない——パスの種類と国籍によって異なり、定期的に改定されるため、現行の金額はESD／MYXpatsポータルおよび移民局で確認すること。本当の「コスト」は従属性にある：有効期間は、主たる保有者のパスか本人のパスポートのいずれか早く満了する方を上限とする。'
+  watch: 'どちらのパスにも就労権はない——のちに就業を望む扶養家族は、自らのエンプロイメントパス（EP）の要件を別途満たさなければならない。両方のパスとも主たる保有者のパスに連動し、それが失効すれば通常こちらも失効するため、主たる保有者の身分の失効はそのまま家族に及ぶ。'
+  next: 'どの家族がどのパスに該当するか（十八歳未満の子女か、十八歳以上の子女か、父母または配偶者の父母か）を早めに見極め、スポンサー雇用主のESD利用者に、主たる保有者のエンプロイメントパス（EP）と併せて申請するよう依頼すること。より広い背景については「エンプロイメントパス（EP）」および「マレーシアへの移住：最初のステップ」を参照。'
 ---
 
 マレーシアに移り住むエンプロイメントパス（EP）保有者は、配偶者と幼い子女を一枚のパスで帯同できる。その父母、あるいは十八歳になったばかりの子女には、まったく別のパスが必要となる。同じ主たる保有者、同じ世帯でありながら、二つの独立した移民カテゴリーが存在する——両者を混同することこそ、家族のスポンサー申請が滞る最も一般的な原因である。

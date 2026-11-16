@@ -99,6 +99,12 @@ keywords:
   - "i-Kad Malaysia"
   - "Malaysia student visa process"
 framework: explainer
+stayFacts:
+  who: 'Đây là dành cho một sinh viên quốc tế được nhận vào một cơ sở của Malaysia. Bạn không bao giờ tự nộp hồ sơ Giấy phép Sinh viên — cơ sở của bạn nộp nó qua EMGS (Education Malaysia Global Services), một cơ quan thuộc Bộ Giáo dục Đại học sàng lọc hồ sơ trước khi Cục Nhập cư cấp một Thư Phê duyệt Thị thực (VAL/eVAL).'
+  how: 'Trình tự là cơ sở nộp cho EMGS, EMGS sàng lọc và chuyển tiếp, Nhập cư cấp VAL, một số quốc tịch sau đó cũng xin một thị thực nhập cảnh một lần qua cổng eVISA, bạn nhập cảnh và hoàn thành sàng lọc y tế trong vòng vài ngày làm việc, và cơ sở của bạn nộp hồ sơ Giấy phép Sinh viên cuối cùng để được xác nhận trên hộ chiếu của bạn, với một thẻ sinh trắc học i-Kad theo sau.'
+  cost: 'Phí được quy định bởi luật và bởi EMGS và được sửa đổi theo thời gian, nên hãy xác nhận các khoản phí Giấy phép Sinh viên, người phụ thuộc và phí dịch vụ EMGS hiện hành trên cổng EMGS thay vì một con số. Hãy dự trù riêng cho cuộc sàng lọc y tế bắt buộc và bảo hiểm y tế mà EMGS yêu cầu.'
+  watch: 'VAL chỉ cho phép nhập cảnh với tư cách sinh viên — nó không phải là chính Giấy phép Sinh viên, và việc miễn thị thực du lịch hay một eVisa không bao giờ bao trùm việc học. Một khi đã được xác nhận, bạn phải mang theo i-Kad mọi lúc, nhưng nó không thay thế hộ chiếu của bạn khi đi lại.'
+  next: 'Hãy bắt đầu với văn phòng sinh viên quốc tế của cơ sở bạn — họ điều hành việc nộp hồ sơ EMGS; hãy xác nhận sớm liệu quốc tịch của bạn có cũng cần một thị thực nhập cảnh một lần để nhập cảnh hay không. Nếu gia đình đi cùng bạn, xem Giấy phép người phụ thuộc và thăm viếng xã hội.'
 ---
 
 Bạn không thể tự nộp đơn xin thị thực sinh viên Malaysia của mình. Ngay cả khi đã có thư mời trong tay và đã đóng lệ phí, hồ sơ vẫn phải đi qua cơ sở của bạn — vì cơ quan sàng lọc nó hoàn toàn không phải là Nhập cư, ít nhất là không phải lúc đầu. Đó là một công ty.

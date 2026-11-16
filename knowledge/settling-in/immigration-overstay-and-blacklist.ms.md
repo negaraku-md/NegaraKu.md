@@ -84,6 +84,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "employment-pass", "dependant-social-visit-passes", "student-pass"]
 keywords: ["overstay Malaysia", "immigration blacklist", "Special Pass", "Immigration Act 1959/63", "compound fine", "re-entry ban", "section 15", "Overstay Management Programme"]
 framework: rules
+stayFacts:
+  who: 'Ini penting bagi mana-mana warganegara asing yang pasnya — lawatan, kerja, tanggungan, pelajar atau profesional — telah luput atau hampir luput, serta majikan dan penaja mereka. Tinggal lebih masa ialah kesalahan liabiliti ketat di bawah Akta Imigresen 1959/63: kesilapan yang jujur pun masih merupakan kesalahan, kerana niat tidak menjadi soal.'
+  how: 'Kebanyakan kes diselesaikan melalui kompaun — denda di tempat kejadian — dan bukannya pendakwaan; tinggal lebih masa yang lebih lama, kesalahan berulang dan kes Pas Khas dirujuk kepada Bahagian Penguatkuasaan. Tiada semakan kendiri dalam talian awam untuk pemegang pasport asing, jadi sahkan status anda sendiri dengan menghubungi Jabatan Imigresen secara terus.'
+  cost: 'Jumlah kompaun ditetapkan mengikut jadual dan telah disemak baru-baru ini, jadi jangan bergantung pada sesuatu angka — sahkan kompaun atau kadar harian semasa dengan Jabatan Imigresen. Kos yang lebih besar ialah kemungkinan larangan masuk semula lebih kurang satu hingga lima tahun bagi kes yang serius atau berulang.'
+  watch: 'Liabiliti ketat bermaksud niat tidak relevan — pantau tarikh luput anda sendiri dan bertindak sebelum ia berlalu, bukan selepasnya. Dimasukkan ke dalam Senarai Syak atau dirujuk kepada Penguatkuasaan jauh lebih mahal dan lebih lambat untuk dibatalkan berbanding memperbaharui tepat pada masanya.'
+  next: 'Jika sesuatu pas hampir luput, perbaharui atau selaraskannya sebelum tarikh itu; jika anda telah pun tinggal lebih masa, hubungi Jabatan Imigresen (atau pengguna ESD penaja anda) dengan segera dan bukannya cuba keluar dari negara ini. Lihat artikel pas yang khusus untuk laluan pembaharuannya.'
 ---
 
 Sebuah pas yang luput hanya sehari, pada pandangan undang-undang Malaysia, merupakan kesalahan yang sama seperti pas yang luput seratus hari. Itulah titik permulaan yang tidak selesa bagi sesiapa yang menyedari pas lawatan, penggajian, tanggungan, pelajar, atau profesional mereka telah tamat tempoh — dan ia membentuk segala-galanya tentang apa yang berlaku seterusnya.

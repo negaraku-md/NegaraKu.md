@@ -84,6 +84,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "employment-pass", "dependant-social-visit-passes", "student-pass"]
 keywords: ["overstay Malaysia", "immigration blacklist", "Special Pass", "Immigration Act 1959/63", "compound fine", "re-entry ban", "section 15", "Overstay Management Programme"]
 framework: rules
+stayFacts:
+  who: '这关系到任何准证——访客、工作、家属、学生或专业准证——已失效或即将失效的外国公民，以及他们的雇主与担保人。逾期逗留是《1959/63年移民法令》（Immigration Act 1959/63）下的严格责任罪：真诚的失误仍构成罪行，因为是否有意图并不重要。'
+  how: '大多数案件以罚款抵偿（compound，即当场缴付的罚款）而非起诉来了结；逾期更久、屡犯以及特别准证（Special Pass）案件会被移交执法组。外国护照持有人没有公开的在线自助查询，因此请直接联系移民局确认你本人的状态。'
+  cost: '抵偿金额由收费表订定，且近期已作调整，因此请勿依赖某个数字——请向移民局确认当前的抵偿金或按日费率。更大的代价是针对严重或屡犯案件、约一至五年的再入境禁令。'
+  watch: '严格责任意味着意图无关紧要——请自行追踪你的到期日，并在其届满前、而非之后采取行动。被列入嫌疑名单（Senarai Syak）或被移交执法组，远比按时续签更为昂贵且更难撤销。'
+  next: '若准证临近到期，请在该日期前续签或将身份合法化；若你已经逾期逗留，请立即联系移民局（或你保荐方的 ESD 用户），而不要试图出境。续签途径请参阅对应准证的专文。'
 ---
 
 在马来西亚法律眼中，仅逾期一天失效的准证，与逾期一百天失效的准证是同一项罪行。对于任何刚意识到自己的访客、就业、家属、学生或专业准证已到期的人来说，这是个令人不安的起点——而它决定了接下来会发生的一切。

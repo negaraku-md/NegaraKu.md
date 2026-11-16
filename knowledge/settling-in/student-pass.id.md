@@ -99,6 +99,12 @@ keywords:
   - "i-Kad Malaysia"
   - "Malaysia student visa process"
 framework: explainer
+stayFacts:
+  who: 'Ini untuk pelajar internasional yang diterima masuk di institusi Malaysia. Anda tidak pernah mengajukan Pas Pelajar sendiri — institusi Anda mengajukannya melalui EMGS (Education Malaysia Global Services), sebuah badan di bawah Kementerian Pengajian Tinggi yang menyaring berkas itu sebelum Jabatan Imigresen menerbitkan Surat Persetujuan Visa (VAL/eVAL).'
+  how: 'Urutannya adalah institusi mengajukan kepada EMGS, EMGS menyaring dan meneruskan, Imigresen menerbitkan VAL, sebagian kewarganegaraan kemudian juga memperoleh visa sekali masuk melalui portal eVISA, Anda masuk dan menyelesaikan skrining medis dalam beberapa hari kerja, dan institusi Anda mengajukan Pas Pelajar akhir yang diendos pada paspor Anda, dengan i-Kad biometrik menyusul.'
+  cost: 'Biaya ditetapkan oleh undang-undang dan oleh EMGS serta ditinjau dari waktu ke waktu, jadi konfirmasikan biaya Pas Pelajar, tanggungan, dan layanan EMGS terkini di portal EMGS alih-alih sebuah angka. Anggarkan secara terpisah untuk skrining medis yang diwajibkan dan asuransi kesehatan yang diwajibkan EMGS.'
+  watch: 'VAL hanya membolehkan masuk sebagai pelajar — ia bukan Pas Pelajar itu sendiri, dan pembebasan visa turis atau eVisa tidak pernah mencakup pengajian. Setelah diendos Anda harus membawa i-Kad setiap saat, tetapi ia tidak menggantikan paspor Anda saat bepergian.'
+  next: 'Mulailah dengan kantor pelajar internasional institusi Anda — merekalah yang menggerakkan pengajuan EMGS; konfirmasikan sejak dini apakah kewarganegaraan Anda juga memerlukan visa sekali masuk untuk masuk. Jika keluarga akan menyertai Anda, lihat Pas tanggungan & kunjungan sosial.'
 ---
 
 Anda tidak dapat memohon visa pelajar Malaysia Anda sendiri. Walaupun Anda sudah memegang surat penawaran dan telah membayar biaya, permohonan itu tetap perlu disalurkan melalui institusi Anda — karena badan yang menyaringnya bukanlah Jabatan Imigresen, setidaknya tidak pada tahap awal. Ia adalah sebuah perusahaan.

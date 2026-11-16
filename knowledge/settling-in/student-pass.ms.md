@@ -99,6 +99,12 @@ keywords:
   - "i-Kad Malaysia"
   - "Malaysia student visa process"
 framework: explainer
+stayFacts:
+  who: 'Ini untuk pelajar antarabangsa yang diterima masuk ke institusi Malaysia. Anda tidak sekali-kali memfailkan Pas Pelajar sendiri — institusi anda memfailkannya melalui EMGS (Education Malaysia Global Services), sebuah badan Kementerian Pengajian Tinggi yang menyaring fail itu sebelum Jabatan Imigresen mengeluarkan Surat Kelulusan Visa (VAL/eVAL).'
+  how: 'Urutannya ialah institusi menyerahkan kepada EMGS, EMGS menyaring dan menghantarnya, Imigresen mengeluarkan VAL, sesetengah kewarganegaraan kemudiannya turut memperoleh visa kemasukan tunggal melalui portal eVISA, anda masuk dan melengkapkan saringan perubatan dalam tempoh beberapa hari bekerja, dan institusi anda memfailkan Pas Pelajar akhir yang diendors pada pasport anda, dengan i-Kad biometrik menyusul kemudian.'
+  cost: 'Yuran ditetapkan oleh undang-undang dan oleh EMGS serta disemak dari semasa ke semasa, jadi sahkan caj semasa Pas Pelajar, tanggungan dan perkhidmatan EMGS di portal EMGS dan bukannya bergantung pada sesuatu angka. Peruntukkan bajet berasingan untuk saringan perubatan yang diperlukan dan insurans kesihatan yang diwajibkan oleh EMGS.'
+  watch: 'VAL hanya membenarkan kemasukan sebagai pelajar — ia bukan Pas Pelajar itu sendiri, dan pengecualian visa pelancong atau eVisa tidak sekali-kali meliputi pengajian. Sebaik sahaja diendors, anda mesti membawa i-Kad pada setiap masa, tetapi ia bukan pengganti pasport anda semasa melancong.'
+  next: 'Mulakan dengan pejabat pelajar antarabangsa institusi anda — merekalah yang memacu penyerahan kepada EMGS; sahkan awal-awal sama ada kewarganegaraan anda turut memerlukan visa kemasukan tunggal untuk masuk. Jika keluarga akan menyertai anda, lihat Dependant Pass dan pas lawatan sosial.'
 ---
 
 Anda tidak boleh memohon visa pelajar Malaysia anda sendiri. Walaupun anda sudah memegang surat tawaran dan telah membayar yuran, permohonan itu tetap perlu disalurkan melalui institusi anda — kerana badan yang menyaringnya bukanlah Jabatan Imigresen, sekurang-kurangnya bukan pada peringkat awal. Ia adalah sebuah syarikat.

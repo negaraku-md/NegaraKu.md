@@ -92,6 +92,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["malaysia visa", "visa-free countries malaysia", "malaysia evisa", "eNTRI", "malaysia digital arrival card", "social visit pass"]
 framework: rules
+stayFacts:
+  who: 'Đây là dành cho bất kỳ công dân nước ngoài nào đang dự tính một chuyến thăm ngắn — du lịch, gia đình, các cuộc họp kinh doanh hoặc quá cảnh. Malaysia phân loại du khách thành ba tuyến: miễn visa cho một chuyến thăm viếng xã hội ngắn, một eVisa xin trước, hoặc (đối với công dân Ấn Độ) eNTRI chi phí thấp hơn.'
+  how: 'Hãy kiểm tra tuyến của quốc tịch bạn trên cổng chính thức của Cục Di trú; nếu bạn cần một eVisa hoặc eNTRI, hãy nộp đơn trước khi đi lại. Riêng biệt, gần như mọi du khách phải nộp Thẻ Nhập cảnh Kỹ thuật số Malaysia (MDAC) trong vòng ba ngày trước khi đến — nó là một đăng ký, không phải một visa, nên nơi nào vẫn đòi hỏi một visa thì vẫn phải xin nó bên trên đó.'
+  cost: 'Nhập cảnh miễn visa không có phí visa; phí eVisa và eNTRI áp dụng và được sửa đổi định kỳ, nên hãy xác nhận phí hiện hành và thời gian lưu trú được phép trên cổng eVisa chính thức của Cục Di trú. MDAC miễn phí trên trang chính thức của chính phủ — hãy coi chừng các trang nhái thu phí cho nó.'
+  watch: 'Một sự miễn visa hoặc một eVisa chỉ bao trùm các chuyến du lịch, thăm viếng xã hội và kinh doanh — làm việc hoặc học tập luôn cần một giấy phép riêng, đúng mục đích. Các cửa sổ miễn visa và danh sách các nước thay đổi, và một số là các sự miễn có thời hạn, nên hãy kiểm tra lại gần ngày đi lại của bạn thay vì dựa vào một danh sách cũ.'
+  next: 'Hãy xác nhận tuyến của bạn và nộp MDAC trước khi đặt vé. Nếu bạn có ý định làm việc, học tập hoặc định cư thay vì chỉ thăm viếng, hãy thu xếp đúng giấy phép trước — xem Chuyển đến Malaysia: những bước đầu tiên.'
 ---
 
 Trước khi bạn đặt một chuyến bay đến Kuala Lumpur, câu hỏi đầu tiên không phải là "khách sạn nào" — mà là "hộ chiếu của tôi có đưa tôi qua cổng không?" Đối với hầu hết du khách câu trả lời là một sự nhẹ nhõm, nhưng các quy tắc chia rõ rệt theo quốc tịch, và một mẫu trực tuyến nay áp dụng cho gần như mọi người.

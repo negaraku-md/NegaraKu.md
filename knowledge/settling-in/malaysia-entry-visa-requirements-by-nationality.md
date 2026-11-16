@@ -91,6 +91,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["malaysia visa", "visa-free countries malaysia", "malaysia evisa", "eNTRI", "malaysia digital arrival card", "social visit pass"]
 framework: rules
+stayFacts:
+  who: 'This is for any foreign national planning a short visit — tourism, family, business meetings or transit. Malaysia sorts visitors into three tracks: visa-free for a short social visit, an eVisa obtained in advance, or (for Indian nationals) the lower-cost eNTRI.'
+  how: 'Check your nationality''s track on the official Immigration portal; if you need an eVisa or eNTRI, apply before you travel. Separately, almost every visitor must submit the Malaysia Digital Arrival Card (MDAC) within three days before arrival — it is a registration, not a visa, so a visa still has to be obtained on top of it where required.'
+  cost: 'Visa-free entry carries no visa fee; eVisa and eNTRI fees apply and are revised periodically, so confirm the current fee and the permitted length of stay on the official Immigration eVisa portal. The MDAC is free on the official government site — beware look-alike sites that charge for it.'
+  watch: 'A waiver or eVisa covers tourism, social and business visits only — work or study always needs a separate, purpose-specific pass. Visa-free windows and the country lists change, and some are time-limited waivers, so re-check close to your travel date rather than relying on an older list.'
+  next: 'Confirm your track and submit the MDAC before booking. If you intend to work, study or settle rather than just visit, line up the correct pass first — see Moving to Malaysia: first steps.'
 ---
 
 Before you book a flight to Kuala Lumpur, the first question is not "which hotel" — it is "does my passport get me through the gate?" For most travellers the answer is a relief, but the rules split sharply by nationality, and one online form now applies to almost everyone.

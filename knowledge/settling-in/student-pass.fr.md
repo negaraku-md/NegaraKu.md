@@ -100,6 +100,12 @@ keywords:
   - "processus visa étudiant Malaisie"
   - "i-Kad Malaysia"
 framework: explainer
+stayFacts:
+  who: 'Ceci concerne un étudiant international admis dans un établissement malaisien. Vous ne déposez jamais le Student Pass vous-même — votre établissement le dépose via EMGS (Education Malaysia Global Services), un organisme du ministère de l''Enseignement supérieur qui examine le dossier avant que le Département de l''immigration ne délivre une Visa Approval Letter (VAL/eVAL).'
+  how: 'La séquence est la suivante : l''établissement soumet le dossier à EMGS, EMGS l''examine et le transmet, l''Immigration délivre la VAL, certaines nationalités obtiennent ensuite aussi un visa à entrée unique via le portail eVISA, vous entrez et passez un examen médical dans un délai de quelques jours ouvrables, puis votre établissement dépose la demande finale de Student Pass apposé sur votre passeport, une i-Kad biométrique suivant ensuite.'
+  cost: 'Les frais sont fixés par la loi et par EMGS et évoluent au fil du temps ; confirmez donc les frais en vigueur du Student Pass, de la personne à charge et les frais de service d''EMGS sur le portail EMGS plutôt que de vous fier à un chiffre. Prévoyez séparément un budget pour l''examen médical requis et l''assurance santé imposée par EMGS.'
+  watch: 'La VAL n''autorise que l''entrée en tant qu''étudiant — ce n''est pas le Student Pass lui-même, et une exemption de visa touristique ou un eVisa ne couvrent jamais les études. Une fois le pass apposé, vous devez porter l''i-Kad en permanence, mais elle ne remplace pas votre passeport pour les voyages.'
+  next: 'Commencez par le bureau des étudiants internationaux de votre établissement — c''est lui qui pilote la soumission à EMGS ; vérifiez tôt si votre nationalité a aussi besoin d''un visa à entrée unique pour entrer. Si votre famille vous accompagne, voir Dependant Pass et Long-Term Social Visit Pass.'
 ---
 
 Vous ne pouvez pas demander vous-même votre visa étudiant malaisien. Même avec la lettre d'admission en main et les frais payés, la demande doit passer par votre établissement, car l'organisme qui l'examine n'est pas du tout l'immigration, du moins pas au début. C'est une entreprise.

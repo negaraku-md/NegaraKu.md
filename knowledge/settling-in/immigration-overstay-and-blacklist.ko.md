@@ -84,6 +84,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "employment-pass", "dependant-social-visit-passes", "student-pass"]
 keywords: ["overstay Malaysia", "immigration blacklist", "Special Pass", "Immigration Act 1959/63", "compound fine", "re-entry ban", "section 15", "Overstay Management Programme"]
 framework: rules
+stayFacts:
+  who: '이는 패스 — 방문·취업·부양가족·유학 또는 전문가 — 가 만료되었거나 만료에 가까운 모든 외국 국민, 그리고 그들의 고용주와 후원자에게 중요합니다. 초과 체류는 이민법 1959/63(Immigration Act 1959/63) 제15조에 따른 엄격책임 범죄입니다: 진심 어린 실수라도 여전히 범죄인데, 고의 여부는 중요하지 않기 때문입니다.'
+  how: '대부분의 사건은 기소가 아니라 벌금 화해(compound, 현장 벌금)로 해결됩니다; 더 긴 초과 체류, 재범, 특별 패스(Special Pass) 사건은 집행부(Enforcement Division)로 회부됩니다. 외국 여권 소지자를 위한 공개 온라인 자가 확인은 없으므로, 자신의 상태는 이민국에 직접 연락하여 확인하십시오.'
+  cost: '화해 금액은 요율표로 정해지며 최근 개정되었으므로, 하나의 수치에 의존하지 말고 — 현행 화해금 또는 일당 요율은 이민국에서 확인하십시오. 더 큰 비용은 중대하거나 반복된 사건에 대한 대략 1년에서 5년의 재입국 금지 가능성입니다.'
+  watch: '엄격책임이란 고의가 무관함을 뜻합니다 — 만료일을 스스로 추적하고 지난 후가 아니라 지나기 전에 조치하십시오. 용의자 명단(Senarai Syak, Suspect List)에 오르거나 집행부로 회부되는 것은 제때 갱신하는 것보다 훨씬 비싸고 되돌리기도 느립니다.'
+  next: '패스가 만료에 가깝다면 날짜 전에 갱신하거나 정상화하십시오; 이미 초과 체류했다면 출국을 시도하지 말고 이민국(또는 후원자의 ESD 사용자)에 즉시 연락하십시오. 해당 패스의 갱신 경로는 그 패스별 문서를 참조하십시오.'
 ---
 
 단 하루 만료된 패스는, 말레이시아 법의 눈에는, 백 일 만료된 패스와 같은 범죄입니다. 이는 자신의 방문·취업·부양가족·유학·전문가 패스가 소진되었음을 깨달은 누구에게나 불편한 출발점이며 — 이후에 일어나는 모든 것을 좌우합니다.

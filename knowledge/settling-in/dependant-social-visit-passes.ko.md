@@ -58,6 +58,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "imigresen", "employment-pass-malaysia", "work-passes-malaysia", "opening-bank-account"]
 keywords: ["Dependant Pass Malaysia", "Long-Term Social Visit Pass", "LTSVP Malaysia", "Employment Pass family", "sponsor spouse Malaysia visa", "parents visa Malaysia expatriate", "Malaysia family visa options"]
 framework: explainer
+stayFacts:
+  who: '말레이시아에는 단일한 "가족 비자"가 없습니다. 취업 비자(Employment Pass) 소지자의 배우자와 18세 미만 미혼 자녀(법적으로 입양된 자녀 포함)는 부양가족 패스(Dependant Pass)로 후원되고, 부모·시부모·장인장모와 18세 초과 자녀는 장기 사회 방문 패스(Long-Term Social Visit Pass, LTSVP)를 받습니다 — 이민국이 말레이시아 시민의 외국인 배우자 같은 다른 상황에도 사용하는 더 넓은 범주입니다.'
+  how: '취업 비자에 결부된 경우, 두 패스 모두 후원 회사가 자사의 주재원 서비스국(Expatriate Services Division, ESD) 계정을 통해 신청합니다 — 가족 구성원이 단독으로 신청하는 일은 결코 없습니다. 말레이시아 시민의 외국인 배우자는 대신 다른 조건으로 LTSVP를 직접 신청합니다.'
+  cost: '외워 둘 단일 수수료는 없습니다 — 패스 종류와 국적에 따라 다르고 주기적으로 개정되므로, 현행 금액은 ESD/MYXpats 포털과 이민국에서 확인하십시오. 진짜 "비용"은 종속성입니다: 유효기간은 주 소지자의 패스와 소지자 본인 여권 중 먼저 만료되는 쪽으로 제한됩니다.'
+  watch: '어느 패스도 근로 권한을 수반하지 않습니다 — 나중에 취업을 원하는 부양가족은 본인 명의로 별도의 취업 비자 자격을 갖춰야 합니다. 두 패스 모두 주 소지자의 패스를 따르며 일반적으로 그것이 만료되면 함께 끝나므로, 주 소지자 신분의 공백은 곧장 가족에게로 이어집니다.'
+  next: '어느 가족 구성원이 어느 패스에 해당하는지(18세 미만 자녀 대 18세 초과 자녀 대 부모 또는 인척) 일찍 판단하고, 후원 고용주의 ESD 사용자에게 주 소지자의 취업 비자와 함께 신청하도록 요청하십시오. 더 넓은 맥락은 취업 비자(Employment Pass)와 「말레이시아로의 이주: 첫 단계」를 참조하십시오.'
 ---
 
 말레이시아로 이주하는 취업 비자(Employment Pass) 소지자는 배우자와 어린 자녀를 하나의 패스로 데려올 수 있습니다. 그들의 부모, 또는 막 18세가 된 자녀에게는 완전히 다른 패스가 필요합니다. 같은 주 소지자, 같은 가구, 두 개의 별도 이민 범주 — 이것을 혼동하는 것이 가족 후원 신청이 막히는 가장 흔한 방식입니다.

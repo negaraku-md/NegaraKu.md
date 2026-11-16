@@ -84,6 +84,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "employment-pass", "dependant-social-visit-passes", "student-pass"]
 keywords: ["overstay Malaysia", "immigration blacklist", "Special Pass", "Immigration Act 1959/63", "compound fine", "re-entry ban", "section 15", "Overstay Management Programme"]
 framework: rules
+stayFacts:
+  who: 'Ini penting bagi setiap warga negara asing yang pasnya — kunjungan, kerja, tanggungan, pelajar, atau profesional — telah habis atau mendekati habis, serta bagi pemberi kerja dan penaja mereka. Tinggal melebihi masa adalah pelanggaran liabilitas ketat di bawah Akta Imigresen 1959/63: kesalahan yang jujur pun tetap merupakan pelanggaran, karena niat tidak menjadi soal.'
+  how: 'Kebanyakan kasus diselesaikan melalui kompaun — denda di tempat — alih-alih penuntutan; tinggal melebihi masa yang lebih lama, pelanggaran berulang, dan kasus Pas Khas dirujuk kepada Bahagian Penguatkuasaan. Tidak ada pemeriksaan mandiri daring publik untuk pemegang paspor asing, jadi konfirmasikan status Anda sendiri dengan menghubungi Jabatan Imigresen secara langsung.'
+  cost: 'Jumlah kompaun ditetapkan menurut jadwal dan baru-baru ini ditinjau, jadi jangan mengandalkan sebuah angka — konfirmasikan kompaun atau tarif harian terkini dengan Jabatan Imigresen. Biaya yang lebih besar adalah kemungkinan larangan masuk kembali kurang lebih satu hingga lima tahun untuk kasus serius atau berulang.'
+  watch: 'Liabilitas ketat berarti niat tidak relevan — pantau sendiri tanggal kedaluwarsa Anda dan bertindak sebelum ia terlewat, bukan sesudahnya. Dimasukkan ke dalam Senarai Syak (Suspect List) atau dirujuk kepada Penguatkuasaan jauh lebih mahal dan lambat untuk dipulihkan daripada memperbarui tepat waktu.'
+  next: 'Jika sebuah pas mendekati kedaluwarsa, perbarui atau sahkan sebelum tanggalnya; jika Anda sudah tinggal melebihi masa, hubungi Jabatan Imigresen (atau pengguna ESD penaja Anda) segera alih-alih mencoba bepergian ke luar. Lihat artikel pas tertentu untuk jalur pembaruannya.'
 ---
 
 Sebuah pas yang kedaluwarsa hanya sehari, dalam pandangan undang-undang Malaysia, merupakan pelanggaran yang sama seperti pas yang kedaluwarsa seratus hari. Itulah titik awal yang tidak nyaman bagi siapa pun yang menyadari pas kunjungan, penggajian, tanggungan, pelajar, atau profesional mereka telah habis masa — dan hal itu membentuk segala hal tentang apa yang terjadi selanjutnya.

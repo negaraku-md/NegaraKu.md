@@ -92,6 +92,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["malaysia visa", "visa-free countries malaysia", "malaysia evisa", "eNTRI", "malaysia digital arrival card", "social visit pass"]
 framework: rules
+stayFacts:
+  who: 'Ini untuk setiap warga negara asing yang merencanakan kunjungan singkat — pariwisata, keluarga, pertemuan bisnis, atau transit. Malaysia memilah pengunjung ke dalam tiga jalur: bebas visa untuk kunjungan sosial singkat, eVisa yang diperoleh terlebih dahulu, atau (bagi warga negara India) eNTRI yang lebih murah.'
+  how: 'Periksa jalur kewarganegaraan Anda di portal resmi Imigrasi; jika Anda memerlukan eVisa atau eNTRI, ajukan sebelum bepergian. Secara terpisah, hampir setiap pengunjung harus mengirimkan Kartu Kedatangan Digital Malaysia (MDAC) dalam tiga hari sebelum kedatangan — ini adalah pendaftaran, bukan visa, jadi visa tetap harus diperoleh sebagai tambahan di mana diperlukan.'
+  cost: 'Masuk bebas visa tidak mengenakan biaya visa; biaya eVisa dan eNTRI berlaku dan ditinjau secara berkala, jadi konfirmasikan biaya terkini dan lama masa tinggal yang diizinkan di portal eVisa resmi Imigrasi. MDAC gratis di situs pemerintah resmi — waspadai situs tiruan yang mengenakan biaya untuknya.'
+  watch: 'Pembebasan atau eVisa hanya mencakup kunjungan wisata, sosial, dan bisnis saja — bekerja atau belajar selalu memerlukan pas tersendiri yang khusus sesuai tujuan. Jendela bebas visa dan daftar negara berubah, dan sebagian adalah pembebasan berjangka waktu, jadi periksa kembali mendekati tanggal perjalanan Anda alih-alih mengandalkan daftar lama.'
+  next: 'Konfirmasikan jalur Anda dan kirimkan MDAC sebelum memesan. Jika Anda bermaksud bekerja, belajar, atau menetap alih-alih sekadar berkunjung, siapkan pas yang benar terlebih dahulu — lihat Pindah ke Malaysia: langkah pertama.'
 ---
 
 Sebelum Anda memesan penerbangan ke Kuala Lumpur, pertanyaan pertama bukanlah "hotel yang mana" — melainkan "apakah paspor saya membolehkan saya melewati pintu masuk?" Bagi kebanyakan pelancong jawabannya melegakan, tetapi aturannya terbagi secara tegas menurut kewarganegaraan, dan satu formulir daring kini berlaku untuk hampir semua orang.

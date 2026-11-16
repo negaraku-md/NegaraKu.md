@@ -74,6 +74,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "employment-pass", "work-passes-malaysia", "dependant-social-visit-passes", "imigresen"]
 keywords: ["professional visit pass malaysia", "pvp malaysia", "pvp vs employment pass", "esd professional visit pass", "myxpats pvp", "foreign expert pass malaysia", "expert transfer pass malaysia", "short term work pass malaysia"]
 framework: explainer
+stayFacts:
+  who: 'Professional Visit Pass (PVP) membenarkan warganegara asing menjalankan kontrak, projek atau tugasan latihan tertentu untuk tuan rumah Malaysia tanpa menjadi pekerjanya. Bagi kategori Pemindahan Kepakaran dan Penyelidikan, gaji mesti terus dibayar oleh majikan asal di luar negara — tuan rumah Malaysia tidak sekali-kali menjadi pembayar gaji.'
+  how: 'Kategori Expert difailkan oleh syarikat tuan rumah berdaftar melalui portal ESD/MYXpats; satu kategori am yang berasingan (untuk joki, sukarelawan, pelajar pertukaran dan seumpamanya) difailkan terus dengan Bahagian Visa, Pas dan Permit Imigresen. Walau apa cara pun, pas ini meliputi satu tujuan atau projek pada satu masa.'
+  cost: 'Yuran permohonan serta SST, yuran pengesahan (endorsement) Imigresen yang berperingkat mengikut tempoh yang diluluskan, dan yuran visa yang bergantung kepada kewarganegaraan semuanya dikenakan, dan ini disemak secara berkala — sahkan jadual ESD/MYXpats semasa dan bukannya bergantung pada satu angka tunggal.'
+  watch: 'Siling ialah 12 bulan bagi setiap pengeluaran tanpa lanjutan melebihinya, dan langsung tiada peruntukan untuk pasangan, anak atau pembantu rumah — perbezaan teras berbanding Employment Pass. Satu peraturan pematuhan baru-baru ini juga mewajibkan tuan rumah memendekkan pas atau melengkapkan Exit Clearance apabila pemegangnya keluar.'
+  next: 'Jika tugasan itu singkat dan terikat kepada projek, PVP sesuai; jika anda memerlukan penggajian berbilang tahun atau untuk membawa keluarga, lihat Employment Pass sebaliknya. Lihat Pas kerja Malaysia dibandingkan untuk perbandingan bersebelahan.'
 ---
 
 Dua orang warga asing boleh duduk di meja yang sama di pejabat Malaysia yang sama, melakukan kerja yang sama, tetapi berada pada kedudukan undang-undang yang sama sekali berbeza. Seorang memegang Employment Pass, dibayar oleh syarikat Malaysia, boleh diperbaharui tahun demi tahun. Seorang lagi memegang Professional Visit Pass — masih dibayar oleh syarikat yang menghantarnya, dengan dua belas bulan pada jam, dan tiada pembaharuan selepas itu. Imigresen tidak melihat dua pekerja. Ia melihat seorang majikan dan seorang tetamu.

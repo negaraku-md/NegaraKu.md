@@ -84,6 +84,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", "employment-pass", "dependant-social-visit-passes", "student-pass"]
 keywords: ["overstay Malaysia", "immigration blacklist", "Special Pass", "Immigration Act 1959/63", "compound fine", "re-entry ban", "section 15", "Overstay Management Programme"]
 framework: rules
+stayFacts:
+  who: 'Esto importa a cualquier nacional extranjero cuyo pase —de visita, de trabajo, de dependiente, de estudiante o profesional— haya caducado o esté a punto de caducar, y a sus empleadores y patrocinadores. El overstay es un delito de responsabilidad objetiva conforme a la Ley de Inmigración de 1959/63: un error genuino sigue siendo un delito, porque la intención no importa.'
+  how: 'La mayoría de los casos se resuelven mediante un compound —una multa inmediata— en lugar de un proceso judicial; los overstays más largos, las reincidencias y los casos de Special Pass se remiten a la División de Fiscalización (Enforcement). No existe una autoconsulta pública en línea para los titulares de pasaportes extranjeros, así que confirma tu propia situación contactando directamente con el Departamento de Inmigración.'
+  cost: 'El importe del compound se fija por baremo y se revisó recientemente, así que no te fíes de una cifra: confirma el compound o el baremo por día vigente con el Departamento de Inmigración. El coste mayor es una posible prohibición de reingreso de aproximadamente uno a cinco años en los casos graves o reincidentes.'
+  watch: 'La responsabilidad objetiva significa que la intención es irrelevante: controla tú mismo tu fecha de caducidad y actúa antes de que pase, no después. Acabar en la Senarai Syak (Lista de Sospechosos) o ser remitido a Fiscalización es mucho más costoso y lento de deshacer que renovar a tiempo.'
+  next: 'Si un pase está cerca de caducar, renuévalo o regulariza tu situación antes de la fecha; si ya has incurrido en overstay, contacta de inmediato con el Departamento de Inmigración (o con el usuario ESD de tu patrocinador) en lugar de intentar salir del país. Consulta el artículo del pase concreto para conocer su vía de renovación.'
 ---
 
 Un pase que caducó por un solo día es, a ojos de la ley malasia, el mismo delito que uno que caducó por cien. Ese es el incómodo punto de partida para cualquiera que descubre que su pase de visita, empleo, dependiente, estudiante o profesional se ha agotado — y condiciona todo lo que sucede a continuación.
