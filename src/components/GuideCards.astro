@@ -13,13 +13,18 @@ import { guidesForPillar, guidePath, guideText } from '@/lib/guides';
 interface Props {
   locale: Locale;
   pillar: Pillar;
+  /** Section heading override (the /guides index passes the pillar name instead
+      of the default "Guided paths"). */
+  heading?: string;
+  /** Lead line override; pass null to drop it (the index keeps sections tight). */
+  lead?: string | null;
 }
-const { locale, pillar } = Astro.props;
+const { locale, pillar, heading: headingProp, lead: leadProp } = Astro.props;
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const guides = guidesForPillar(pillar);
-const heading = L('Panduan berpandu', 'Guided paths', '专题导览', 'வழிகாட்டு பாதைகள்', 'ガイド付きパス', '가이드 경로', 'เส้นทางแนะนำ', 'Lộ trình hướng dẫn', 'Jalur terpandu', 'مسارات إرشادية', 'निर्देशित पथ', 'Rutas guiadas', 'Parcours guidés');
-const lead = L(
+const heading = headingProp ?? L('Panduan berpandu', 'Guided paths', '专题导览', 'வழிகாட்டு பாதைகள்', 'ガイド付きパス', '가이드 경로', 'เส้นทางแนะนำ', 'Lộ trình hướng dẫn', 'Jalur terpandu', 'مسارات إرشادية', 'निर्देशित पथ', 'Rutas guiadas', 'Parcours guidés');
+const defaultLead = L(
   'Mula dengan satu perjalanan terpilih — fakta bersumber mengikut urutan, setiap langkah membuka rencana penuh.',
   'Start with a curated journey — sourced facts in order, each step opens the full article.',
   '从一条精选路径开始——有来源的事实,按顺序排列,每一步都打开完整文章。',
@@ -34,6 +39,7 @@ const lead = L(
   'Empieza con un recorrido curado: hechos con fuentes en orden, cada paso abre el artículo completo.',
   'Commencez par un parcours sélectionné — des faits sourcés dans l’ordre, chaque étape ouvre l’article complet.',
 );
+const lead = leadProp === undefined ? defaultLead : leadProp;
 const stepsWord = (n: number) => L(`${n} langkah`, `${n} steps`, `${n} 步`, `${n} படிகள்`, `${n} ステップ`, `${n}단계`, `${n} ขั้นตอน`, `${n} bước`, `${n} langkah`, `${n} خطوات`, `${n} चरण`, `${n} pasos`, `${n} étapes`);
 ---
 
@@ -45,7 +51,7 @@ const stepsWord = (n: number) => L(`${n} langkah`, `${n} steps`, `${n} 步`, `${
           <span class="gc-ico" aria-hidden="true">🧭</span>
           {heading}
         </h2>
-        <p class="gc-lead">{lead}</p>
+        {lead && <p class="gc-lead">{lead}</p>}
       </div>
       <ul class="gc-grid">
         {guides.map((g) => (

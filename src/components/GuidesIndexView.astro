@@ -1,0 +1,58 @@
+---
+import type { Locale } from '@/lib/categories';
+import { PILLARS, getPillar, loc } from '@/lib/categories';
+import { localePath, t } from '@/lib/i18n';
+import { GUIDES, guidesForPillar } from '@/lib/guides';
+import { stat } from '@/lib/pageStats';
+import PageHero from './PageHero.astro';
+import GuideCards from './GuideCards.astro';
+
+// The /guides index — every guide, gathered and grouped by pillar. Reuses the
+// GuideCards section (one per pillar, headed by the pillar name) so the cards
+// look identical to the pillar hubs. Pure registry read; no new data.
+
+interface Props {
+  locale: Locale;
+}
+const { locale } = Astro.props;
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const title = t('nav.guides', locale);
+const homeLabel = L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'होम', 'Inicio', 'Accueil');
+const desc = L(
+  'Perjalanan terpilih melalui Malaysia — pilih satu laluan, dan setiap langkah membuka rencana penuh yang disertakan sumber.',
+  'Curated journeys through Malaysia — pick a path, and each step opens the full, cited article.',
+  '穿越马来西亚的精选路径——选一条路线,每一步都打开完整、标明出处的文章。',
+  'மலேசியா வழியான தொகுக்கப்பட்ட பயணங்கள் — ஒரு பாதையைத் தேர்ந்தெடுங்கள், ஒவ்வொரு படியும் முழு, மேற்கோள் காட்டப்பட்ட கட்டுரையைத் திறக்கிறது.',
+  '厳選されたマレーシアの道筋 — 一つ選べば、各ステップが出典付きの全文を開きます。',
+  '엄선된 말레이시아 여정 — 경로를 고르면, 각 단계가 출처가 명시된 전체 글을 엽니다.',
+  'เส้นทางที่คัดสรรผ่านมาเลเซีย — เลือกเส้นทางหนึ่ง แล้วแต่ละขั้นจะเปิดบทความฉบับเต็มที่อ้างอิงแหล่งที่มา',
+  'Những hành trình được tuyển chọn qua Malaysia — chọn một lộ trình, và mỗi bước mở ra bài viết đầy đủ, có trích nguồn.',
+  'Perjalanan terkurasi menjelajahi Malaysia — pilih satu jalur, dan setiap langkah membuka artikel lengkap yang dikutip.',
+  'رحلات منسّقة عبر ماليزيا — اختر مساراً، وكل خطوة تفتح المقال الكامل مع مصادره.',
+  'मलेशिया की चयनित यात्राएँ — एक पथ चुनें, और हर कदम पूरा, स्रोत-सहित लेख खोलता है।',
+  'Recorridos curados por Malasia: elige una ruta y cada paso abre el artículo completo y citado.',
+  'Des parcours sélectionnés à travers la Malaisie — choisissez un chemin, et chaque étape ouvre l’article complet et sourcé.',
+);
+const guidesWord = L('panduan', 'guides', '导览', 'வழிகாட்டிகள்', 'ガイド', '가이드', 'ไกด์', 'hướng dẫn', 'panduan', 'أدلّة', 'गाइड', 'guías', 'guides');
+
+const pillarsWithGuides = PILLARS.filter((p) => guidesForPillar(p.id).length > 0);
+---
+
+<PageHero
+  locale={locale}
+  crumb={[
+    { label: homeLabel, href: localePath('/', locale) },
+    { label: title },
+  ]}
+  title={title}
+  desc={desc}
+  stats={[
+    { icon: '🧭', value: GUIDES.length, label: guidesWord },
+    stat.pillars(pillarsWithGuides.length, locale),
+  ]}
+/>
+
+{pillarsWithGuides.map((p) => (
+  <GuideCards locale={locale} pillar={p.id} heading={loc(p.name, locale)} lead={null} />
+))}
