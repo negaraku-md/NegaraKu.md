@@ -18,15 +18,24 @@ export interface GuidedStep {
   slug: string;
 }
 
+// The spine is the real arc of DECIDING to stay: can I enter → which pass is
+// right for me (the four routes) → the long game (PR) → can I afford it → what
+// I'll owe → doing business → putting down roots → family → health. Every step
+// after the entry opener carries the sourced `stayFacts` "At a glance" bottom-line
+// card (the 想留下 decision layer), so clicking a step lands on a cited, carded
+// answer — hook→depth. Re-curated 2026-11-16 around those 12 carded decisions.
 export const LIVING_PATH: GuidedStep[] = [
-  { cat: 'settling-in', slug: 'malaysia-entry-visa-requirements-by-nationality' },
-  { cat: 'settling-in', slug: 'mm2h-long-stay-visa' },
-  { cat: 'public-safety', slug: 'how-to-report-a-scam-malaysia' },
-  { cat: 'money-daily-life', slug: 'ewallets-regulation-safety' },
-  { cat: 'taxation', slug: 'income-tax-in-malaysia' },
-  { cat: 'property', slug: 'foreigners-buying-property' },
-  { cat: 'healthcare', slug: 'public-healthcare-system-malaysia' },
-  { cat: 'malaysia', slug: 'population-composition' },
-  { cat: 'education', slug: 'international-students-studying-in-malaysia' },
-  { cat: 'business', slug: 'foreign-ownership-malaysia' },
+  { cat: 'settling-in', slug: 'malaysia-entry-visa-requirements-by-nationality' }, // can I enter?
+  { cat: 'settling-in', slug: 'moving-to-malaysia-first-steps' },                  // the sequencing hub
+  { cat: 'settling-in', slug: 'employment-pass' },                                 // work route
+  { cat: 'settling-in', slug: 'mm2h-long-stay-visa' },                             // long-stay route
+  { cat: 'settling-in', slug: 'premium-visa-programme-pvip' },                     // premium route
+  { cat: 'settling-in', slug: 'de-rantau-nomad-pass' },                            // nomad route
+  { cat: 'settling-in', slug: 'permanent-residency-malaysia' },                    // the long game
+  { cat: 'cost-of-living', slug: 'cost-of-living-overview' },                      // can I afford it?
+  { cat: 'taxation', slug: 'expatriate-and-non-resident-tax' },                    // what I'll owe
+  { cat: 'business', slug: 'register-sdn-bhd' },                                   // if staying to do business
+  { cat: 'property', slug: 'foreigners-buying-property' },                         // putting down roots
+  { cat: 'education', slug: 'international-schools' },                             // bringing the family
+  { cat: 'healthcare', slug: 'how-malaysian-healthcare-works' },                   // staying healthy
 ];

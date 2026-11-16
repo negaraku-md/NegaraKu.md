@@ -74,11 +74,28 @@ clean (5 fields), validate-frontmatter 0/0, astro sync, translation-sync **0 sta
 (freshness-neutral confirmed — stayFacts not in TRANSLATED_FIELDS). ar handled RTL (Latin tokens
 stay Latin, renderer isolates); id/ja/ko matched each article's own term choices.
 
-## Phase 2 (after card layer)
-- A **想留下 / "Make Malaysia home" guided path** (reuse `GuidedPath`, like the eat-drink-play
-  scenario band) surfacing these articles as a decision journey.
-- **Funnel wiring:** verify/extend the disclosed **1company sponsor CTA** (`sponsor.ts` /
-  `SponsorCTA`) on the business/tax/company-setup articles — where 想留下 converts.
+## Phase 2 — DONE 2026-11-16 (HELD)
+- **想留下 "Make Malaysia home" guided path** — the `GuidedPath` `living`-variant band
+  ("Thinking of moving to Malaysia? / 想留在马来西亚?") on `/living` already existed, but its
+  `LIVING_PATH` (`src/lib/livingPath.ts`) predated the 12 stayFacts cards and overlapped only 2
+  of them. **Re-curated it into the decision spine**: entry opener (`malaysia-entry-visa-
+  requirements-by-nationality`, "can I enter?") + all **12 stayFacts-carded decisions** in real
+  arc order — the four visa routes (employment-pass → mm2h → pvip → de-rantau) → PR → cost-of-
+  living → expat-tax → register-sdn-bhd → foreigners-buying-property → international-schools →
+  how-malaysian-healthcare-works. Every step after the opener now lands on a cited, carded
+  answer (hook→depth). Data-only change to a live, unchanged component; all 13 slugs verified
+  present + published (none draft); band silently omits any missing step and the myth/fact row
+  where an article has no `commonMisconception`. No per-step translation needed (step meaning
+  carried by already-localized article titles, 13 langs).
+- **Funnel wiring — VERIFIED, no change needed.** `resolveSponsor` already routes the business/
+  tax conversion points correctly: `business/register-sdn-bhd` (cat `business`) + `taxation/
+  expatriate-and-non-resident-tax` (cat `taxation`) → disclosed **1company** CTA; `property/
+  foreigners-buying-property` (FINANCING_SLUGS) → **1financing**. All three sensitivity `none`,
+  no `sponsor: none`. Deliberately NOT extended onto the visa/immigration decisions (MM2H, PVIP,
+  De Rantau, EP, PR): 1company's declared services are incorporation/secretarial/accounting/
+  audit/tax/advisory — not immigration — so a CTA there would break the funnel-accuracy guard
+  the `sponsors.ts` code itself upholds. The expat-tax card is the single best 想留下→1company
+  conversion (tax residency/filing) and it is already wired.
 
 ## Gotchas
 - Adding a frontmatter **schema field** forces a dev restart → stale `.astro` cache → false
