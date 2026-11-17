@@ -50,8 +50,9 @@ const ri = argv.indexOf('--recent');
 const recentN = ri >= 0 ? parseInt(argv[ri + 1], 10) || 10 : 0;
 const explicit = argv.filter((a, i) => !a.startsWith('--') && argv[i - 1] !== '--recent');
 
-// ---- load master files (the no-lang-suffix .md; .ms/.zh/.en.md are translations)
-const isMaster = (f) => f.endsWith('.md') && !/\.(ms|zh|en)\.md$/.test(f);
+// ---- load master files (the no-lang-suffix .md; .<lang>.md are translations)
+// Locale set must stay in sync with LOCALES in src/lib/i18n.ts (13 langs).
+const isMaster = (f) => f.endsWith('.md') && !/\.(ms|en|zh|ta|ja|ko|th|vi|id|ar|hi|es|fr)\.md$/.test(f);
 const fmVal = (raw, key) => {
   const m = raw.match(new RegExp('^' + key + ':\\s*"?(.*?)"?\\s*$', 'm'));
   return m ? m[1].trim() : '';
