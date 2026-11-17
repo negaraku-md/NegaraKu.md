@@ -72,6 +72,7 @@ keywords: ["APM", "Angkatan Pertahanan Awam Malaysia", "Civil Defence Force", "J
 social:
   hashtags: ["APM", "CivilDefence", "DisasterResponse", "Malaysia", "SAR"]
 framework: profile
+wikidata: "Q6741950"
 ---
 
 When floodwaters rise on Malaysia's east coast each monsoon, the orange-uniformed personnel wading through the water to reach stranded families are usually from **APM**. The **Malaysia Civil Defence Force** — *Angkatan Pertahanan Awam Malaysia*, or **APM** — is the federal uniformed agency responsible for civil defence and disaster response: flood relief, search-and-rescue, humanitarian aid and safety support at large public events. It operates under the **Civil Defence Act 1951 (Act 221)** and, since 2015, the **Prime Minister's Department**, and it is built around one of the country's largest pools of trained volunteers.

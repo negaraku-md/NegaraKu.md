@@ -79,6 +79,7 @@ sources:
 related: ["2018-change-of-government", "barisan-nasional", "prime-ministers-of-malaysia"]
 keywords: ["1MDB", "1Malaysia Development Berhad", "Najib Razak", "Jho Low", "Malaysia financial scandal"]
 framework: history-culture
+wikidata: "Q21005940"
 ---
 
 **1Malaysia Development Berhad (1MDB)** was a Malaysian government-owned

@@ -96,6 +96,7 @@ relations:
 related: ["malaysia-plans", "dosm", "federal-budget"]
 keywords: ["Kementerian Ekonomi", "Ministry of Economy Malaysia", "Unit Perancang Ekonomi", "EPU", "Rancangan Malaysia", "perancangan pembangunan", "DOSM", "Jawatankuasa Perancang Pembangunan Negara"]
 framework: profile
+wikidata: "Q61113253"
 ---
 
 Setiap kali Perdana Menteri berdiri di Dewan Rakyat untuk membentangkan pelan

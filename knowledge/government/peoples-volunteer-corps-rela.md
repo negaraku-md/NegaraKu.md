@@ -73,6 +73,7 @@ keywords: ["RELA", "Ikatan Relawan Rakyat", "Jabatan Sukarelawan Malaysia", "Peo
 social:
   hashtags: ["RELA", "JabatanSukarelawanMalaysia", "Malaysia"]
 framework: profile
+wikidata: "Q2750770"
 ---
 
 If you have driven through a roadblock on the eve of a public holiday, queued at a crowded festival, or passed a disaster-relief station after a flood, you have probably seen **RELA** — uniformed volunteers directing traffic and lending a hand to the authorities. The **People's Volunteer Corps** (*Ikatan Relawan Rakyat*, today the *Jabatan Sukarelawan Malaysia*, **RELA**) is a civilian volunteer force organised as a department under the **Ministry of Home Affairs** (*Kementerian Dalam Negeri*, KDN). Its members assist the police, the armed forces and other agencies — they are not themselves an independent police force.
