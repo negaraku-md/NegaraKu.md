@@ -87,7 +87,7 @@ CIMB ialah bank yang anda temui hampir di setiap sudut perdagangan Malaysia — 
 
 ## Gambaran keseluruhan
 
-CIMB Group Holdings Berhad ialah bank universal Malaysia yang beribu pejabat di Kuala Lumpur dan tersenarai di Bursa Malaysia. Ia lazimnya diletakkan sebagai bank kedua terbesar Malaysia dari segi aset, di belakang [Maybank](/ms/companies/maybank) dan mengatasi [Public Bank](/ms/companies/public-bank), serta merupakan salah satu daripada lima kumpulan perbankan terbesar di ASEAN dari segi aset (profil ahli UN Environment Programme Finance Initiative). Kumpulan ini melaporkan jumlah aset kira-kira RM755.1 bilion pada 31 Disember 2024 dan jumlah kakitangan melebihi 33,000 (angka pada 31 Mac 2025, menurut laman korporat CIMB), beroperasi di sekitar 15 pasaran.
+CIMB Group Holdings Berhad ialah bank universal Malaysia yang beribu pejabat di Kuala Lumpur dan tersenarai di Bursa Malaysia. Ia lazimnya diletakkan sebagai bank kedua terbesar Malaysia dari segi aset, di belakang [Maybank](/companies/maybank) dan mengatasi [Public Bank](/companies/public-bank), serta merupakan salah satu daripada lima kumpulan perbankan terbesar di ASEAN dari segi aset (profil ahli UN Environment Programme Finance Initiative). Kumpulan ini melaporkan jumlah aset kira-kira RM755.1 bilion pada 31 Disember 2024 dan jumlah kakitangan melebihi 33,000 (angka pada 31 Mac 2025, menurut laman korporat CIMB), beroperasi di sekitar 15 pasaran.
 
 Pemegang saham terbesarnya ialah Khazanah Nasional, dana kekayaan negara Malaysia, yang pegangannya berada dalam lingkungan awal dua puluh peratus sepanjang 2024 (pendedahan pemegang saham utama CIMB; The Edge Malaysia) — satu peringatan bahawa CIMB, dengan segala jangkauan komersialnya, bermula daripada penyatuan perbankan berkaitan kerajaan Malaysia.
 
@@ -95,7 +95,7 @@ Pemegang saham terbesarnya ialah Khazanah Nasional, dana kekayaan negara Malaysi
 
 Nama CIMB berasal daripada Commerce International Merchant Bankers, bank pelaburan di teras kumpulan moden ini, tetapi salasilah perbankannya jauh lebih dalam — kembali ke Bian Chiang Bank, yang diasaskan di Kuching, Sarawak, pada 1924, yang menerusi dekad-dekad penyatuan menjadi sebahagian daripada apa yang kini CIMB.
 
-Bab yang menentukan datang pada pertengahan 2000-an. Pada Jun 2005, CIMB mengumumkan pengambilalihan kumpulan Bumiputra-Commerce; syarikat induk Commerce-Asset Holdings dinamakan semula Bumiputra-Commerce Holdings, dan rancangannya ialah untuk menyatukan bank pengguna dan bank pelaburannya menjadi satu bank universal (sejarah korporat CIMB). Pada Januari 2006 Kumpulan CIMB baharu dibentuk, menggabungkan perbankan pelaburan, perbankan pengguna, pengurusan aset dan perkhidmatan Islam di bawah satu bumbung. Pada tahun yang sama kumpulan ini mengambil alih Southern Bank, dan pada September 2006 Perdana Menteri [Abdullah Ahmad Badawi](/ms/malaysia/abdullah-ahmad-badawi) secara rasmi melancarkan kumpulan ini — melengkapkan penggabungan tiga hala Commerce International Merchant Bankers, Bumiputra-Commerce Bank dan Southern Bank, serta memperkenalkan logo baharu dan slogan "Forward Banking".
+Bab yang menentukan datang pada pertengahan 2000-an. Pada Jun 2005, CIMB mengumumkan pengambilalihan kumpulan Bumiputra-Commerce; syarikat induk Commerce-Asset Holdings dinamakan semula Bumiputra-Commerce Holdings, dan rancangannya ialah untuk menyatukan bank pengguna dan bank pelaburannya menjadi satu bank universal (sejarah korporat CIMB). Pada Januari 2006 Kumpulan CIMB baharu dibentuk, menggabungkan perbankan pelaburan, perbankan pengguna, pengurusan aset dan perkhidmatan Islam di bawah satu bumbung. Pada tahun yang sama kumpulan ini mengambil alih Southern Bank, dan pada September 2006 Perdana Menteri [Abdullah Ahmad Badawi](/malaysia/abdullah-ahmad-badawi) secara rasmi melancarkan kumpulan ini — melengkapkan penggabungan tiga hala Commerce International Merchant Bankers, Bumiputra-Commerce Bank dan Southern Bank, serta memperkenalkan logo baharu dan slogan "Forward Banking".
 
 Kumpulan ini kemudian bergerak pantas merentasi sempadan. Indonesia sudah pun tiba menerusi pengambilalihan PT Bank Niaga pada 2002; pada 2008 Bank Niaga bergabung dengan Bank Lippo untuk mewujudkan apa yang ketika itu bank keenam terbesar negara itu, dijenamakan semula CIMB Niaga, satu langkah yang didorong oleh Khazanah untuk mematuhi dasar kehadiran tunggal Bank Indonesia. Pada 2008-2009 CIMB memasuki Thailand dengan mengambil alih BankThai (kemudiannya CIMB Thai) dan membuka di Singapura. Dalam beberapa tahun sebuah rumah perbankan pelaburan Malaysia telah menjadi bank universal seluruh ASEAN.
 
@@ -134,6 +134,6 @@ CIMB penting atas tiga sebab. Pertama, skala: sebagai bank kedua terbesar Malays
 
 ## Apa seterusnya
 
-- [Maybank](/ms/companies/maybank) — bank terbesar Malaysia dan pesaing domestik utama CIMB.
-- [Public Bank](/ms/companies/public-bank) — ketiga daripada "tiga besar" kumpulan perbankan Malaysia.
+- [Maybank](/companies/maybank) — bank terbesar Malaysia dan pesaing domestik utama CIMB.
+- [Public Bank](/companies/public-bank) — ketiga daripada "tiga besar" kumpulan perbankan Malaysia.
 - Untuk angka semasa, sentiasalah semak pemfailan Bursa Malaysia terkini CIMB dan Integrated Annual Report dan bukannya angka lama, kerana aset, keuntungan, bilangan pekerja dan pegangan saham berubah pada setiap tempoh pelaporan.

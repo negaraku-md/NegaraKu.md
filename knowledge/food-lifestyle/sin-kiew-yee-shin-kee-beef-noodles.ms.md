@@ -97,7 +97,7 @@ framework: profile
 
 Sin Kiew Yee Shin Kee Beef Noodles ialah sebuah gerai mi veteran di
 tengah-tengah pusat bandar lama Kuala Lumpur, dan salah satu pakar mi daging
-lembu yang diiktiraf dalam pemilihan [MICHELIN Guide](/ms/food-lifestyle/michelin-guide-malaysia)
+lembu yang diiktiraf dalam pemilihan [MICHELIN Guide](/food-lifestyle/michelin-guide-malaysia)
 Kuala Lumpur & Penang.
 
 ## Tentang gerai ini
@@ -131,7 +131,7 @@ tersebut.
 
 Mi daging lembu ialah makanan ruji masakan Cina Malaysia, dan pilihan mi Hakka di
 sini mencerminkan akar hidangan ini dalam dapur komuniti tersebut. Ia tergolong
-dalam keluarga lebih luas [hidangan mi Malaysia](/ms/food-lifestyle/malaysian-noodles),
+dalam keluarga lebih luas [hidangan mi Malaysia](/food-lifestyle/malaysian-noodles),
 di mana gaya mengikut wilayah dan kumpulan dialek masing-masing membentuk sup, mi
 dan hiasan dengan caranya sendiri.
 

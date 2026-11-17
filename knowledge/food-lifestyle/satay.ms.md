@@ -121,7 +121,7 @@ berlapik dan bukannya terbakar putus.
 Apa yang mengubah daging bakar biasa menjadi satay ialah tiga serangkai yang sentiasa
 mengiringinya: perapan rempah, asap arang, dan kuah kacang. Buangkan mana-mana satu dan ia
 berhenti menjadi satay. Untuk melihat kedudukan satay dalam kalangan hidangan unggul negara
-yang lain, lihat [hidangan nasional Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia).
+yang lain, lihat [hidangan nasional Malaysia](/food-lifestyle/national-dishes-of-malaysia).
 
 ## Perapan, pemanggang dan kuah kacang
 
@@ -159,8 +159,8 @@ Jeruk sayur (*acar*) kadangkala turut hadir di pinggan, dan satay kambing di ses
 dihidangkan dengan kicap manis dan bukannya kuah kacang. Satay ialah makanan sosial, bertujuan
 untuk dikongsi secara berdozen; ia muncul di mana-mana dari gerai jalanan ke meja perayaan, malah
 di kabin perniagaan Malaysia Airlines. Untuk lebih lanjut tentang di mana ia dimakan, lihat
-budaya [pasar malam dan makanan jalanan](/ms/food-lifestyle/pasar-malam-and-street-food) Malaysia
-dan makanan [bazar Ramadan](/ms/food-lifestyle/ramadan-bazaars-and-fasting-month-food).
+budaya [pasar malam dan makanan jalanan](/food-lifestyle/pasar-malam-and-street-food) Malaysia
+dan makanan [bazar Ramadan](/food-lifestyle/ramadan-bazaars-and-fasting-month-food).
 
 ## Asal usul dan penyebarannya merentasi kepulauan
 
@@ -177,7 +177,7 @@ Belanda, Suriname dan Afrika Selatan, di mana ia bertahan sebagai *sosatie*. Dal
 gaya serantau yang dinamakan berganda-ganda: *sate ayam*, gaya Madura dan Padang di Indonesia,
 *sate lilit* Bali yang dikisar pada batang serai, dan banyak lagi. Ia merupakan hidangan yang
 terbaca sebagai amat setempat dan serantau pada masa yang sama. Untuk melihat bagaimana setiap
-masyarakat Malaysia sendiri membentuk meja makan, lihat [masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+masyarakat Malaysia sendiri membentuk meja makan, lihat [masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
 negara ini.
 
 ## Kajang dan kemasyhuran serantau
@@ -223,15 +223,15 @@ masyhur — Capitol Satay di Lorong Bukit Cina beroperasi lebih tiga dekad sebel
 Sepupu dekatnya ialah *satay lok-lok* Pulau Pinang, di mana cucuk dimasak dalam air atau stok yang
 mendidih dan kuahnya dihidangkan di tepi dan bukannya sebagai medium memasak. Kedua-duanya ialah
 adaptasi Cina Malaysia dan sering tidak halal, jadi pengunjung yang memerlukan
-[jaminan halal](/ms/food-lifestyle/halal-certification-in-malaysia) patut menyemak sebelum
+[jaminan halal](/food-lifestyle/halal-certification-in-malaysia) patut menyemak sebelum
 memesan. Bersama-sama ia menunjukkan bagaimana satu idea cucuk-dan-kuah terus dicipta semula untuk
 suasana baharu dan khalayak baharu.
 
 ## Apa yang seterusnya
 
 - Letakkan satay dalam kalangan hidangan penentu negara dalam
-  [hidangan nasional Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia).
+  [hidangan nasional Malaysia](/food-lifestyle/national-dishes-of-malaysia).
 - Teroka bagaimana masyarakat yang berbeza membentuk meja makan dalam
-  [masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) Malaysia.
+  [masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) Malaysia.
 - Lihat satay dalam habitat semula jadinya — gerai dan asap
-  [pasar malam dan makanan jalanan](/ms/food-lifestyle/pasar-malam-and-street-food).
+  [pasar malam dan makanan jalanan](/food-lifestyle/pasar-malam-and-street-food).

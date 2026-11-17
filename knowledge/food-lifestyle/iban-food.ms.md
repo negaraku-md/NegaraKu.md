@@ -126,7 +126,7 @@ Masakan yang terhasil umumnya ringkas dan berpaksikan bahan: hasil tangkapan dan
 sayur-sayuran segar, senarai pendek rempah ratus, serta teknik — membakar dalam
 buluh, memeram, membalut dengan daun — yang sesuai untuk dapur tanpa banyak
 kelengkapan. Hidangan Iban membentuk salah satu benang terkuat dalam kisah lebih
-luas [makanan Sarawak](/ms/food-lifestyle/sarawak-food), masakan Borneo yang
+luas [makanan Sarawak](/food-lifestyle/sarawak-food), masakan Borneo yang
 membezakan negeri itu daripada semenanjung.
 
 ## Manok pansoh: ayam dimasak dalam buluh
@@ -232,11 +232,11 @@ perinciannya paling baik dianggap sebagai tradisi hidup dan bukan upacara yang
 tetap. Digambarkan secara neutral, tuak ialah contoh paling jelas tentang
 bagaimana makanan Iban mengikat rumah panjang, tanah dan tahun pertanian menjadi
 satu meja makan — satu bahagian kecil daripada peta [masakan wilayah dan
-etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) Malaysia yang lebih luas.
+etnik](/food-lifestyle/regional-and-ethnic-cuisines) Malaysia yang lebih luas.
 
 ## Apa yang seterusnya
 
-- [Makanan Sarawak](/ms/food-lifestyle/sarawak-food) — masakan Borneo yang lebih
+- [Makanan Sarawak](/food-lifestyle/sarawak-food) — masakan Borneo yang lebih
   luas, dan masakan Iban ialah benang utamanya.
-- [Masakan wilayah dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan wilayah dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   bagaimana setiap negeri dan masyarakat di Malaysia makan secara berbeza.

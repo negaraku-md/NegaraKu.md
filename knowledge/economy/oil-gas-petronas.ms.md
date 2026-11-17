@@ -167,7 +167,7 @@ Ini adalah bahagian yang kebanyakan liputan sama ada mengelak atau memihak kepad
 
 **Kedudukan persekutuan** bergantung pada teks itu. Seksyen 2 meletakkan pemilikan pada PETRONAS; setiap negeri melaksanakan instrumen Jadual yang memberikan hak secara kekal; seksyen 2(3) menjadikannya tidak boleh ditarik balik. Berdasarkan bacaan ini, apa yang diterima oleh sesebuah negeri ialah bayaran tunai seksyen 4 — satu jumlah yang ditetapkan melalui persetujuan, bukan melalui hak mutlak.
 
-**Kedudukan negeri-negeri** bergantung pada apa yang mendahului dan mengelilingi Akta itu — [Perjanjian Malaysia 1963](/ms/malaysia/ma63), ordinan perlombongan minyak negeri yang wujud sebelumnya, dan sempadan pelantar benua — serta hujah bahawa aturan 1974 itu sepatutnya dirunding semula atau ditambah, bukannya dianggap selesai.
+**Kedudukan negeri-negeri** bergantung pada apa yang mendahului dan mengelilingi Akta itu — [Perjanjian Malaysia 1963](/malaysia/ma63), ordinan perlombongan minyak negeri yang wujud sebelumnya, dan sempadan pelantar benua — serta hujah bahawa aturan 1974 itu sepatutnya dirunding semula atau ditambah, bukannya dianggap selesai.
 
 Apa yang sebenarnya berubah sejak 2020 bersifat komersial, bukan berkanun. Akta itu tidak dipinda. Sebaliknya:
 

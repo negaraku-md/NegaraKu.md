@@ -120,7 +120,7 @@ hidangan berkongsi yang dibina di sekitar nasi dan pelbagai lauk, yang dimaksudk
 untuk dikongsi. MICHELIN Guide memilihnya sebagai pesanan paling popular, memuji
 gabungan teksturnya dan keseimbangan rasa pedas, manis dan masinnya, serta
 mencatatkan bahawa saiz bahagian berbeza-beza mengikut saiz kumpulan anda. Ia
-tergolong dalam keluarga [hidangan berasaskan nasi](/ms/food-lifestyle/malaysian-rice-dishes)
+tergolong dalam keluarga [hidangan berasaskan nasi](/food-lifestyle/malaysian-rice-dishes)
 Malaysia yang lebih luas, di mana sepinggan nasi menjadi tunjang kepada
 sekelompok lauk dan bukannya berdiri sendiri.
 
@@ -130,7 +130,7 @@ Congkak terletak di 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200 — di
 sebuah jalan kediaman berhampiran daerah pusat dan bukannya di dalam pusat
 beli-belah. Ia menerima kad kredit dan berhawa dingin, dan merupakan salah satu
 daripada sekelompok tempat makan Kuala Lumpur yang disenaraikan dalam
-[MICHELIN Guide Malaysia](/ms/food-lifestyle/michelin-guide-malaysia).
+[MICHELIN Guide Malaysia](/food-lifestyle/michelin-guide-malaysia).
 
 ## Nota lawatan
 

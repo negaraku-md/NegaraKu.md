@@ -128,7 +128,7 @@ mi gandum atau beras. Kajian ilmiah mengenai masakan ini membingkainya sebagai
 hasil asimilasi dan hibridisasi, orang Peranakan menyesuaikan tradisi makanan
 Cina dengan bahan dan citarasa tempatan sepanjang tempoh yang lama. Ia duduk
 seiring dengan dapur-dapur komuniti lain negara ini pada peta yang lebih luas
-[masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines).
+[masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines).
 
 ## Siapa orang Peranakan
 
@@ -209,7 +209,7 @@ Beberapa daripada ini — babi pongteh dan ayam buah keluak antaranya — lazimn
 dibuat dengan daging babi, yang semata-mata sebahagian daripada warisan Cina
 komuniti ini dan dicatatkan di sini untuk penjamu yang mengelakkannya. Meja
 Peranakan juga mempunyai cabangnya sendiri bagi keluarga mi-sup kebangsaan: sebuah
-[laksa](/ms/food-lifestyle/laksa) Nyonya yang kaya santan di selatan dan asam laksa
+[laksa](/food-lifestyle/laksa) Nyonya yang kaya santan di selatan dan asam laksa
 Penang yang masam di utara, kedua-duanya dirujuk kembali oleh panduan laksa kepada
 dapur Peranakan.
 
@@ -225,7 +225,7 @@ cair dan digolek dalam kelapa) dan *angku kuih* (kuih "kura-kura merah" bercetak
 berisi yang digunakan di majlis perayaan). Kuih ini begitu penting sehingga pembuat
 *koay* Nyonya buatan tangan yang pakar di Penang disebut secara khusus dalam panduan
 restoran. Di sampingnya duduk himpunan pencuci mulut Malaysia yang lebih luas,
-termasuk manisan ais seperti [cendol](/ms/food-lifestyle/cendol) yang dikongsi selera
+termasuk manisan ais seperti [cendol](/food-lifestyle/cendol) yang dikongsi selera
 manis Peranakan dengan seluruh negara.
 
 ## Jamuan tok panjang
@@ -260,15 +260,15 @@ masak Nyonya Penang dan tukang masak Melaka sering tidak bersetuju tentang sejau
 mana masam, manis dan pedasnya sesuatu hidangan patut. Kerangka serantau itu (Penang
 condong ke masam-Thai, selatan condong ke kaya-Indonesia) berulang merentas sumber
 dan wajar disahkan terhadap kajian ilmiah yang dipetik di bawah. Walau apa pun,
-masakan Nyonya mendapat tempatnya antara [hidangan kebangsaan](/ms/food-lifestyle/national-dishes-of-malaysia)
+masakan Nyonya mendapat tempatnya antara [hidangan kebangsaan](/food-lifestyle/national-dishes-of-malaysia)
 Malaysia sebagai rekod boleh dimakan yang paling jelas tentang bagaimana dua budaya
 belajar berkongsi satu dapur.
 
 ## Apa seterusnya
 
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   bagaimana komuniti dan negeri Malaysia masing-masing memasak secara berbeza.
-- [Laksa](/ms/food-lifestyle/laksa) — keluarga mi-sup yang cabang-cabangnya paling
+- [Laksa](/food-lifestyle/laksa) — keluarga mi-sup yang cabang-cabangnya paling
   kaya tumbuh daripada dapur Peranakan.
-- [Hidangan kebangsaan Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia) —
+- [Hidangan kebangsaan Malaysia](/food-lifestyle/national-dishes-of-malaysia) —
   tempat makanan Nyonya duduk antara ikon kulinari negara ini.

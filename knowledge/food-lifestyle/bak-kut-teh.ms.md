@@ -186,7 +186,7 @@ membantu mencairkan lemak. Pelanggan kerap memesan periuk tambahan bahan di sisi
 cendawan, taufu pok, sayur berdaun, isi perut — untuk dimasukkan ke dalam sup. Sebahagian
 besar keseronokannya terletak pada berlengah-lengah: menambah teh, menambah sup, dan
 menikmati tulang rusuk perlahan-lahan. Seperti dunia [budaya kopitiam dan
-mamak](/ms/food-lifestyle/kopitiam-mamak-culture) yang lebih luas, ia merupakan ritual
+mamak](/food-lifestyle/kopitiam-mamak-culture) yang lebih luas, ia merupakan ritual
 sosial sebanyak mana ia merupakan hidangan.
 
 ## Nota tentang halal
@@ -198,7 +198,7 @@ dimasak dan dijual di kedai kopi dan restoran Cina dan bukannya premis yang dipe
 halal, dan anda tidak akan menemuinya di bazar Ramadan atau kantin masjid.
 
 Ini sekadar satu ciri landskap makanan majmuk Malaysia, yang mana [pensijilan
-halal](/ms/food-lifestyle/halal-certification-in-malaysia) dengan jelas menandakan dapur
+halal](/food-lifestyle/halal-certification-in-malaysia) dengan jelas menandakan dapur
 mana yang boleh digunakan oleh pelanggan Muslim, dan hidangan tidak halal menduduki ruangnya
 yang tersendiri dan terkenal. Bagi mereka yang tidak makan daging babi tetapi mahukan
 pengalaman sup herba, sesetengah tukang masak menyediakan versi ayam, kadangkala digelar
@@ -219,16 +219,16 @@ mewartakan bak kut teh sebagai **makanan warisan negara**, menamakannya sebagai 
 daripada sepuluh item makanan yang diisytiharkan pada bulan itu. Pengisytiharan itu berada
 dalam rangka kerja **National Heritage Act 2005 (Act 645)**, undang-undang yang sama yang di
 bawahnya jabatan itu mengiktiraf hidangan sebagai objek warisan negara melalui notis dalam
-[Government Gazette](/ms/glossary/warta-kerajaan). Pengiktirafan itu merupakan salah satu
+[Government Gazette](/glossary/warta-kerajaan). Pengiktirafan itu merupakan salah satu
 daripada beberapa pengakuan rasmi terhadap makanan Malaysia, seiring dengan usaha negara
 yang lebih luas untuk mendapatkan status [warisan negara dan
-UNESCO](/ms/food-lifestyle/malaysian-food-as-national-and-unesco-heritage) bagi masakannya.
+UNESCO](/food-lifestyle/malaysian-food-as-national-and-unesco-heritage) bagi masakannya.
 
 ## Apa seterusnya
 
 - Letakkan bak kut teh dalam gambaran yang lebih besar dalam [hidangan kebangsaan
-  Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia).
+  Malaysia](/food-lifestyle/national-dishes-of-malaysia).
 - Lihat bagaimana dialek dan wilayah membentuk meja makan dalam [masakan serantau dan
-  etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines).
+  etnik](/food-lifestyle/regional-and-ethnic-cuisines).
 - Fahami garis pensijilan yang berada di luar jangkauannya dalam [pensijilan halal di
-  Malaysia](/ms/food-lifestyle/halal-certification-in-malaysia).
+  Malaysia](/food-lifestyle/halal-certification-in-malaysia).

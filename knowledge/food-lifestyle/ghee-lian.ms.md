@@ -106,7 +106,7 @@ penjaja berhampiran Esplanade tepi laut. Mencari gerai yang betul dalam medan it
 sebahagian daripada pengalaman; MICHELIN mencatatkan gerai green tom yum cenderung
 menarik barisan paling panjang pada waktu petang, isyarat yang boleh dipercayai
 bahawa anda berada di tempat yang betul dalam
-[suasana makanan jalanan](/ms/food-lifestyle/pasar-malam-and-street-food) George
+[suasana makanan jalanan](/food-lifestyle/pasar-malam-and-street-food) George
 Town yang lebih luas.
 
 ## Cara melawat

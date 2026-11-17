@@ -102,7 +102,7 @@ Duduk menikmati hidangan Melayu dan bentuknya sudah jelas sebelum anda merasainy
 segunung nasi di tengah, sekumpulan lauk kecil mengelilinginya, dan sepinggan
 kecil *sambal* dalam capaian. Masakan Melayu — *masakan Melayu* — ialah masakan
 masyarakat Melayu Malaysia dan salah satu benang utama yang menjalin
-[hidangan nasional](/ms/food-lifestyle/national-dishes-of-malaysia) negara. Ia
+[hidangan nasional](/food-lifestyle/national-dishes-of-malaysia) negara. Ia
 dibina kurang pada hidangan utama berpinggan tunggal dan lebih pada pes rempah,
 seperiuk kuah santan, dan tabiat memakan nasi dengan pelbagai lauk serentak.
 
@@ -119,10 +119,10 @@ it" — satu dakwaan yang wajar diperlakukan sebagai rekonstruksi ahli sejarah d
 bukannya fakta yang muktamad.
 
 Nasi juga membawa sebahagian hidangan paling dikenali dalam masakan ini.
-[Nasi lemak](/ms/food-lifestyle/nasi-lemak) — nasi dimasak dengan santan dan
+[Nasi lemak](/food-lifestyle/nasi-lemak) — nasi dimasak dengan santan dan
 pandan, dihidang dengan ikan bilis goreng, kacang, timun, telur dan sambal —
 dimakan di seluruh negara, selalunya sebagai sarapan. Pantai timur menambah
-pinggan nasinya sendiri: [nasi kerabu](/ms/food-lifestyle/nasi-kerabu), berwarna
+pinggan nasinya sendiri: [nasi kerabu](/food-lifestyle/nasi-kerabu), berwarna
 biru dengan bunga telang dan dipenuhi ulam, serta nasi dagang, hidangan nasi dan
 pulut kukus yang dihidang bersama gulai ikan. Pada Disember 2024, UNESCO
 menyenaraikan "Budaya Sarapan Malaysia" dalam Senarai Perwakilan Warisan Budaya
@@ -157,14 +157,14 @@ negara ialah **rendang**, rebusan daging lembu (atau kadangkala ayam) yang
 dimasak perlahan sehingga kering, di mana santan, rempah dan *kerisik* (kelapa
 parut yang disangai) direneh berjam-jam sehingga dagingnya gelap dan hampir
 berkaramel; ia dibincangkan dalam artikel
-[rendang](/ms/food-lifestyle/rendang) tersendiri. Asalnya terletak pada masakan
+[rendang](/food-lifestyle/rendang) tersendiri. Asalnya terletak pada masakan
 Minangkabau di Sumatera Barat dan ia dituntut oleh kedua-dua Malaysia dan
 Indonesia, jadi ia paling tepat digambarkan sebagai hidangan serantau yang
 dikongsi dan bukannya milik satu negara.
 
 Antara hidangan tetap lain termasuk:
 
-- **[Satay](/ms/food-lifestyle/satay)** — daging dicucuk dan diperap yang
+- **[Satay](/food-lifestyle/satay)** — daging dicucuk dan diperap yang
   dibakar atas arang serta dihidang dengan kuah kacang yang pekat.
 - **Gulai** — kari santan berempah, lebih cair daripada rendang, dibuat dengan
   daging lembu, ayam, ikan atau sayur.
@@ -188,7 +188,7 @@ dicelur ringan — *ulam raja*, *pegaga*, *petai*, mangga muda, timun dan lebih
 banyak lagi — biasanya dicecah ke dalam sambal. Ia membawa kerangupan, kepahitan
 dan kesegaran ke meja, dan selalunya dipuji kerana khasiatnya.
 
-**[Sambal](/ms/food-lifestyle/sambal)** — relis cili dalam pelbagai bentuk tidak
+**[Sambal](/food-lifestyle/sambal)** — relis cili dalam pelbagai bentuk tidak
 terkira, daripada *sambal belacan* mentah yang ditumbuk dengan belacan dan limau
 hingga *sambal tumis* yang dimasak — hampir wajib. Di sampingnya terletak dapur
 perapan yang tersendiri: **budu**, sos ikan bilis berwarna gelap dari Kelantan
@@ -232,7 +232,7 @@ Peranakan dan Malaysia yang lebih luas serta cenderung lebih banyak cili.
 **Selatan**, Johor, terkenal dengan kuah berasaskan santan dan hidangan seperti
 laksanya sendiri. Ini ialah generalisasi dan bukannya sempadan yang tegas, dan ia
 terletak dalam tampalan lebih luas Malaysia bagi
-[masakan wilayah dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines).
+[masakan wilayah dan etnik](/food-lifestyle/regional-and-ethnic-cuisines).
 
 ## Kenduri dan makanan perayaan
 
@@ -243,16 +243,16 @@ atau *nasi briyani*, satay dibakar di tempat terbuka, *lemang* (pulut dibakar
 dalam buluh) dan *ketupat* (nasi dimasak dalam sarung daun palas anyaman) yang
 dihidang dengan hidangan yang lebih lemak. Hidangan ini berulang sepanjang
 takwim dan berada di tengah
-[makanan perayaan merentasi perayaan Malaysia](/ms/food-lifestyle/festive-foods-across-malaysian-festivals),
+[makanan perayaan merentasi perayaan Malaysia](/food-lifestyle/festive-foods-across-malaysian-festivals),
 di mana Hari Raya khususnya menjadikan dapur rumah sebagai jamuan untuk arus tetamu
 yang berkunjung.
 
 ## Apa seterusnya
 
-- [Hidangan nasional Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia) —
+- [Hidangan nasional Malaysia](/food-lifestyle/national-dishes-of-malaysia) —
   tempat hidangan Melayu berada antara ikon kulinari negara.
-- [Masakan wilayah dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan wilayah dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   peta lebih luas tentang cara negeri dan masyarakat Malaysia makan.
-- [Nasi lemak](/ms/food-lifestyle/nasi-lemak), [rendang](/ms/food-lifestyle/rendang)
-  dan [satay](/ms/food-lifestyle/satay) — tinjauan dekat tiga hidangan Melayu yang
+- [Nasi lemak](/food-lifestyle/nasi-lemak), [rendang](/food-lifestyle/rendang)
+  dan [satay](/food-lifestyle/satay) — tinjauan dekat tiga hidangan Melayu yang
   mengembara.

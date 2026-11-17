@@ -97,7 +97,7 @@ keywords: ["CDS account", "Bursa Anywhere", "stockbroker Malaysia", "how to buy 
 framework: how-to
 ---
 
-Memiliki sebahagian kecil daripada [Maybank](/ms/companies/maybank) atau Tenaga bermula dengan dua akaun, bukan satu — dan kedua-duanya bukan akaun bank. Sebelum anda boleh membeli satu saham pun di Bursa Malaysia, anda memerlukan tempat untuk *menyimpan* saham dan tempat untuk *membuat pesanan*. Berikut ialah cara kedua-duanya berpadu, dan berapa sebenarnya kos setiap urus niaga.
+Memiliki sebahagian kecil daripada [Maybank](/companies/maybank) atau Tenaga bermula dengan dua akaun, bukan satu — dan kedua-duanya bukan akaun bank. Sebelum anda boleh membeli satu saham pun di Bursa Malaysia, anda memerlukan tempat untuk *menyimpan* saham dan tempat untuk *membuat pesanan*. Berikut ialah cara kedua-duanya berpadu, dan berapa sebenarnya kos setiap urus niaga.
 
 ## Apa sebenarnya yang saya perlukan untuk bermula?
 

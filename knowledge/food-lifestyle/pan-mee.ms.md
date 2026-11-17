@@ -109,7 +109,7 @@ menenangkan dan, menurut kebanyakan kisah, Hakka sepenuhnya.
 
 Pan mee ialah salah satu hidangan mi Cina-Malaysia yang paling rapat kaitannya
 dengan satu kumpulan dialek. Sumber mengiktiraf masyarakat
-[Hakka](/ms/food-lifestyle/chinese-malaysian-cuisine) — yang berhijrah ke
+[Hakka](/food-lifestyle/chinese-malaysian-cuisine) — yang berhijrah ke
 Malaysia beberapa generasi lalu — sebagai penciptanya, dan ia kekal paling lazim
 di bahagian tengah dan selatan semenanjung tempat kebanyakan orang Hakka menetap.
 
@@ -148,7 +148,7 @@ sedikit garam — dan yang berbeza ialah cara ia dibentuk. Tiga bentuk mendomina
 Versi yang dibentuk tangan lebih kenyal dan lebih tidak sekata; jalur mesin lebih
 cepat dan lebih seragam. Sesetengah gerai malah menawarkan mi "tiga warna" yang
 diwarnakan dengan jus sayuran. Kepelbagaian inilah sebab pan mee duduk dengan
-selesa dalam keluarga lebih luas [hidangan mi](/ms/food-lifestyle/malaysian-noodles)
+selesa dalam keluarga lebih luas [hidangan mi](/food-lifestyle/malaysian-noodles)
 gandum dan beras Malaysia.
 
 ## Sup ikan bilis dan tambahannya
@@ -209,15 +209,15 @@ rantau ini, dengan kawasan berbahasa Hokkien — termasuk Singapura, menurut kis
 popular — lebih bersandar pada label *mee hoon kueh* berbanding *pan mee*; sumber
 tidak sependapat tentang betapa kemasnya nama itu terbahagi. Apa pun, hidangan ini
 tergolong dalam kisah lebih luas
-[masakan wilayah dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+[masakan wilayah dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
 Malaysia, tempat masakan rumah satu masyarakat menjadi sesuatu yang seluruh negara
 beratur untuk menikmatinya.
 
 ## Apa seterusnya
 
-- [Mi Malaysia](/ms/food-lifestyle/malaysian-noodles) — tempat pan mee duduk
+- [Mi Malaysia](/food-lifestyle/malaysian-noodles) — tempat pan mee duduk
   antara hidangan mi gandum dan beras negara ini.
-- [Masakan Cina-Malaysia](/ms/food-lifestyle/chinese-malaysian-cuisine) — dapur
+- [Masakan Cina-Malaysia](/food-lifestyle/chinese-malaysian-cuisine) — dapur
   kumpulan dialek, Hakka antaranya, di sebalik hidangan seperti ini.
-- [Masakan wilayah dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan wilayah dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   peta lebih luas tentang cara negeri dan masyarakat Malaysia makan.

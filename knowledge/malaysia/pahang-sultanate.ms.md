@@ -69,13 +69,13 @@ Di sepanjang Sungai Pahang, di mana bandar diraja lama Pekan masih duduk berhamp
 
 Pahang ialah salah satu tempat bernama tertua di Semenanjung Tanah Melayu. Rekod istana China menyebut sebuah pemerintahan di sungainya — *Pohuang* atau *Panhuang* — seawal abad kelima, dan utusan berulang-alik antara Pahang dan maharaja China merentasi abad-abad yang menyusul, termasuk pada era laksamana Ming Zheng He.
 
-Menjelang pertengahan abad ke-15, Pahang telah ditarik ke dalam lingkungan [Kesultanan Melaka](/ms/malaysia/melaka-sultanate) yang sedang bangkit. Menurut riwayat yang ditarik daripada *Sejarah Melayu* dan para sejarawan kemudian, angkatan Melaka, dipimpin oleh Bendahara Tun Perak yang masyhur, menakluk Pahang sekitar 1454, menawan pemerintahnya Maharaja Dewa Sura. Pahang kemudiannya diasaskan semula sebagai kesultanan Islam naungan — satu sumber menarikhkan ini kepada 1470 — diperintah oleh putera-putera yang terhubung menerusi perkahwinan dengan barisan diraja Melaka. Kerajaan Pahang lama ini meminjam struktur istana Melaka, gelaran-gelarannya dan golongan bangsawan berketurunannya, *orang besar berempat*, yang asal usulnya menjejaki kembali kepada kesultanan pertama itu.
+Menjelang pertengahan abad ke-15, Pahang telah ditarik ke dalam lingkungan [Kesultanan Melaka](/malaysia/melaka-sultanate) yang sedang bangkit. Menurut riwayat yang ditarik daripada *Sejarah Melayu* dan para sejarawan kemudian, angkatan Melaka, dipimpin oleh Bendahara Tun Perak yang masyhur, menakluk Pahang sekitar 1454, menawan pemerintahnya Maharaja Dewa Sura. Pahang kemudiannya diasaskan semula sebagai kesultanan Islam naungan — satu sumber menarikhkan ini kepada 1470 — diperintah oleh putera-putera yang terhubung menerusi perkahwinan dengan barisan diraja Melaka. Kerajaan Pahang lama ini meminjam struktur istana Melaka, gelaran-gelarannya dan golongan bangsawan berketurunannya, *orang besar berempat*, yang asal usulnya menjejaki kembali kepada kesultanan pertama itu.
 
 Kerajaan awal itu akhirnya pudar apabila kuasa serantau beralih. Tetapi ingatannya penting: apabila takhta Pahang dihidupkan semula pada abad ke-19, ia difahami sebagai kembalinya sesuatu yang lama, bukan penciptaan sesuatu yang baharu.
 
 ## Barisan Bendahara: daripada menteri besar Johor kepada pemerintah Pahang
 
-Benang yang menghubungkan Pahang lama kepada hari ini membentang menerusi [Kesultanan Johor-Riau](/ms/malaysia/johor-riau-sultanate), pewaris selatan kepada Melaka. Dalam istana Melayu, *Bendahara* ialah menteri besar — pegawai negara tertinggi di bawah sultan, lebih kurang seorang wazir agung. Apabila barisan diraja Johor keturunan Melaka pupus pada 1699, Bendahara, Tun Abdul Jalil, yang menjadi Sultan Johor. Sejak itu, nasib keluarga Bendahara dan takhta Johor berkait jalin.
+Benang yang menghubungkan Pahang lama kepada hari ini membentang menerusi [Kesultanan Johor-Riau](/malaysia/johor-riau-sultanate), pewaris selatan kepada Melaka. Dalam istana Melayu, *Bendahara* ialah menteri besar — pegawai negara tertinggi di bawah sultan, lebih kurang seorang wazir agung. Apabila barisan diraja Johor keturunan Melaka pupus pada 1699, Bendahara, Tun Abdul Jalil, yang menjadi Sultan Johor. Sejak itu, nasib keluarga Bendahara dan takhta Johor berkait jalin.
 
 Pahang jatuh di bawah kuasa Bendahara-bendahara ini. Apabila empayar Johor berpecah-belah pada awal abad ke-19 — satu proses yang dipercepatkan oleh Perjanjian Inggeris-Belanda 1824 yang membahagikan dunia Melayu antara lingkungan British dan Belanda — Bendahara-bendahara yang memegang Pahang mentadbirnya sebagai sebuah wilayah yang semakin berautonomi, menggelar diri mereka *Raja Bendahara*. Menjelang kira-kira 1853, Bendahara Tun Ali pada hakikatnya telah mengisytiharkan Pahang merdeka daripada Johor, menamatkan satu kesatuan yang berlangsung kira-kira dua abad.
 
@@ -91,7 +91,7 @@ Pahang jatuh di bawah kuasa Bendahara-bendahara ini. Apabila empayar Johor berpe
 
 Kemangkatan Tun Ali mengadu-domba adik-beradik. Wasiatnya dilaporkan menyerahkan hasil Kuantan dan Endau kepada anak bongsunya, Wan Ahmad, tetapi anak sulungnya, Tun Mutahir — yang menggantikannya sebagai Bendahara — tidak menunaikan peruntukan itu, kemudian mendakwa tidak mengetahuinya. Wan Ahmad, yang berhujah dia mempunyai tuntutan yang lebih kuat kerana ibunya ialah isteri utama Tun Ali, enggan menerima pemerintahan saudaranya.
 
-Hasilnya ialah **Perang Saudara Pahang**, yang dilancarkan antara kira-kira 1857 dan 1863. Ia bukan sekadar pertengkaran tempatan: konflik itu menarik kuasa-kuasa jiran dunia Melayu yang sedang berpecah. Wan Ahmad mendapat sokongan daripada [kesultanan Terengganu](/ms/malaysia/terengganu-sultanate) di utara dan daripada Siam, manakala Temenggung Johor ditarik ke dalam persaingan di pihak yang lain. Selepas bertahun-tahun berkempen, Wan Ahmad menang. Tun Mutahir berundur dan, pada 1863, melarikan diri ke arah Johor, di mana dia meninggal dunia. Wan Ahmad menjadi Raja Bendahara Pahang pada tahun yang sama.
+Hasilnya ialah **Perang Saudara Pahang**, yang dilancarkan antara kira-kira 1857 dan 1863. Ia bukan sekadar pertengkaran tempatan: konflik itu menarik kuasa-kuasa jiran dunia Melayu yang sedang berpecah. Wan Ahmad mendapat sokongan daripada [kesultanan Terengganu](/malaysia/terengganu-sultanate) di utara dan daripada Siam, manakala Temenggung Johor ditarik ke dalam persaingan di pihak yang lain. Selepas bertahun-tahun berkempen, Wan Ahmad menang. Tun Mutahir berundur dan, pada 1863, melarikan diri ke arah Johor, di mana dia meninggal dunia. Wan Ahmad menjadi Raja Bendahara Pahang pada tahun yang sama.
 
 ## Sebuah kesultanan dihidupkan semula: Sultan Ahmad al-Muadzam Shah
 
@@ -103,13 +103,13 @@ Sumber berselisih tentang koreografi tepat 1881 — tarikh pengisytiharan tepat 
 
 Kemerdekaan Pahang yang dihidupkan semula itu singkat. Britain, yang sudah memperluas pemerintahan tidak langsung merentasi semenanjung menerusi sistem "Keresidenan", mendesak sultan baharu itu untuk menerima penyeliaannya. Pada Disember 1887 Sultan Ahmad menerima seorang Ejen British, Hugh Clifford, di istananya; kemudian pada Oktober 1888 dia dengan berat hati menerima **Residen** British pertama Pahang, John Pickersgill Rodger, yang "nasihatnya" wajib dipatuhi oleh sultan dalam segala hal kecuali adat dan agama Melayu.
 
-Beberapa tahun kemudian Pahang disatukan ke dalam satu struktur penjajah yang lebih besar. Sultan Ahmad menandatangani Perjanjian Persekutuan pada 1895, dan pada 1896 Pahang menyertai Perak, Selangor dan Negeri Sembilan untuk membentuk **Negeri-Negeri Melayu Bersekutu**, ditadbir dari Kuala Lumpur di bawah seorang Residen-Jeneral. Kesultanan itu bertahan sebagai sebuah institusi, tetapi kuasa sebenar kini terletak pada pegawai British — corak merentasi sebahagian besar apa yang dijelaskan dalam [sistem kesultanan Melayu](/ms/malaysia/malay-sultanate-system).
+Beberapa tahun kemudian Pahang disatukan ke dalam satu struktur penjajah yang lebih besar. Sultan Ahmad menandatangani Perjanjian Persekutuan pada 1895, dan pada 1896 Pahang menyertai Perak, Selangor dan Negeri Sembilan untuk membentuk **Negeri-Negeri Melayu Bersekutu**, ditadbir dari Kuala Lumpur di bawah seorang Residen-Jeneral. Kesultanan itu bertahan sebagai sebuah institusi, tetapi kuasa sebenar kini terletak pada pegawai British — corak merentasi sebahagian besar apa yang dijelaskan dalam [sistem kesultanan Melayu](/malaysia/malay-sultanate-system).
 
 ## Wangsa sekarang — dan seorang raja bagi Malaysia
 
-Dinasti Bendahara yang diasaskan oleh Sultan Ahmad telah memerintah tanpa keretakan dinasti hingga ke hari ini. Selepas Perang Dunia Kedua, Pahang melalui [Malayan Union](/ms/malaysia/malayan-union) dan Persekutuan Tanah Melayu hingga kemerdekaan pada 1957, dan sultannya menjadi salah satu daripada [sembilan kerabat diraja](/ms/malaysia/nine-royal-houses) yang pemerintahnya memilih raja negara.
+Dinasti Bendahara yang diasaskan oleh Sultan Ahmad telah memerintah tanpa keretakan dinasti hingga ke hari ini. Selepas Perang Dunia Kedua, Pahang melalui [Malayan Union](/malaysia/malayan-union) dan Persekutuan Tanah Melayu hingga kemerdekaan pada 1957, dan sultannya menjadi salah satu daripada [sembilan kerabat diraja](/malaysia/nine-royal-houses) yang pemerintahnya memilih raja negara.
 
-Hubungan itu menjadi nyata pada 2019. Pada 15 Januari 2019, Tengku Abdullah ditabalkan sebagai Sultan [Pahang](/ms/states/pahang) selepas ayahandanya, Sultan Ahmad Shah, turun takhta. Hanya lebih seminggu kemudian, pada 24 Januari 2019, Majlis Raja-Raja memilih baginda sebagai **Yang di-Pertuan Agong ke-16** — raja Malaysia — dengan pemerintahan baginda bermula pada 31 Januari, sebagaimana yang dilaporkan oleh Malaysiakini dan media lain ketika itu. Baginda memerintah sebagai raja persekutuan sehingga Januari 2024. Satu takhta yang dihidupkan semula di tebing sungai wilayah pada 1881 telah, dalam beberapa generasi, menghasilkan seorang ketua negara bagi seluruh negara.
+Hubungan itu menjadi nyata pada 2019. Pada 15 Januari 2019, Tengku Abdullah ditabalkan sebagai Sultan [Pahang](/states/pahang) selepas ayahandanya, Sultan Ahmad Shah, turun takhta. Hanya lebih seminggu kemudian, pada 24 Januari 2019, Majlis Raja-Raja memilih baginda sebagai **Yang di-Pertuan Agong ke-16** — raja Malaysia — dengan pemerintahan baginda bermula pada 31 Januari, sebagaimana yang dilaporkan oleh Malaysiakini dan media lain ketika itu. Baginda memerintah sebagai raja persekutuan sehingga Januari 2024. Satu takhta yang dihidupkan semula di tebing sungai wilayah pada 1881 telah, dalam beberapa generasi, menghasilkan seorang ketua negara bagi seluruh negara.
 
 ## Mengapa ia masih penting
 
@@ -119,9 +119,9 @@ Ia juga menggambarkan satu kebenaran yang lebih luas tentang monarki berperlemba
 
 ## Apa seterusnya
 
-- Jejaki empayar yang daripadanya pemerintah Bendahara Pahang datang dalam [Kesultanan Johor-Riau](/ms/malaysia/johor-riau-sultanate)
-- Fahami istana dan gelaran yang diwarisi Pahang dalam [Kesultanan Melaka](/ms/malaysia/melaka-sultanate)
-- Lihat bagaimana pemerintah Pahang serasi dalam kalangan [sembilan kerabat diraja](/ms/malaysia/nine-royal-houses) dan [sistem kesultanan Melayu](/ms/malaysia/malay-sultanate-system)
+- Jejaki empayar yang daripadanya pemerintah Bendahara Pahang datang dalam [Kesultanan Johor-Riau](/malaysia/johor-riau-sultanate)
+- Fahami istana dan gelaran yang diwarisi Pahang dalam [Kesultanan Melaka](/malaysia/melaka-sultanate)
+- Lihat bagaimana pemerintah Pahang serasi dalam kalangan [sembilan kerabat diraja](/malaysia/nine-royal-houses) dan [sistem kesultanan Melayu](/malaysia/malay-sultanate-system)
 
 ---
 

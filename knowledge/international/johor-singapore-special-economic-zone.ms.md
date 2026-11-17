@@ -248,10 +248,10 @@ institusi Iskandar yang sedia ada.
 ## Apa yang seterusnya
 
 Untuk memberi konteks tempat, bacalah gambaran keseluruhan negeri
-[Johor](/ms/states/johor), yang menerangkan Tambak Johor, Laluan Kedua dan
+[Johor](/states/johor), yang menerangkan Tambak Johor, Laluan Kedua dan
 koridor Iskandar yang menjadi asas pembinaan zon ini. Bagi konteks
 perdagangan di sebalik logik rentas sempadan itu, lihat [perdagangan luar
-Malaysia](/ms/economy/external-trade) dan [sektor pembuatan](/ms/economy/manufacturing).
+Malaysia](/economy/external-trade) dan [sektor pembuatan](/economy/manufacturing).
 
 Untuk butiran berautoriti dan terkini — senarai penuh aktiviti yang
 layak, insentif khusus flagship dan prosedur permohonan — rujuklah MIDA

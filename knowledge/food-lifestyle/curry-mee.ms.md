@@ -120,7 +120,7 @@ ganti untuk mangkuk yang sama.
 
 Geografi menentukan perkataan mana yang menang. Di Pulau Pinang, "curry mee"
 ialah nama asal, kerana perkataan "laksa" di sana dikhaskan untuk
-[asam laksa](/ms/food-lifestyle/laksa) yang masam dan berasaskan asam jawa —
+[asam laksa](/food-lifestyle/laksa) yang masam dan berasaskan asam jawa —
 jadi memanggil mangkuk santan sebagai "laksa" akan mengelirukan dua jenis sup
 yang sangat berbeza. Di tempat lain di semenanjung tiada pertembungan
 sedemikian, jadi mangkuk kari-santan itu lazimnya dipanggil curry laksa, atau
@@ -130,8 +130,8 @@ penamaan itu paling baik dianggap sebagai kebiasaan serantau dan bukannya
 perbezaan yang ketat.
 
 Walau apa pun nama yang digunakan, curry mee tergolong dalam keluarga
-[laksa](/ms/food-lifestyle/laksa) yang lebih luas, iaitu sup mi pedas Malaysia,
-dan dalam dunia [mi Malaysia](/ms/food-lifestyle/malaysian-noodles) yang lebih
+[laksa](/food-lifestyle/laksa) yang lebih luas, iaitu sup mi pedas Malaysia,
+dan dalam dunia [mi Malaysia](/food-lifestyle/malaysian-noodles) yang lebih
 luas yang dibina atas pes rempah yang ditumbuk dan asas yang pekat dan berperisa.
 
 ## Apa yang ada dalam mangkuk
@@ -191,8 +191,8 @@ kadangkala dikumpulkan bersama mi gerai lain di pulau itu, dan istilah "curry
 mee" dan "curry Hokkien mee" boleh menjadi kabur dalam percakapan harian, kerana
 kedua-duanya menggambarkan sup mi ala-Cina yang dijual bersebelahan di gerai
 yang sama. Ini tergolong dalam tradisi gerai yang kaya yang sama seperti
-[makanan jalanan lain Pulau Pinang](/ms/food-lifestyle/penang-food) dan hidangan
-seperti [char kway teow](/ms/food-lifestyle/char-kway-teow). Sempadan tepat
+[makanan jalanan lain Pulau Pinang](/food-lifestyle/penang-food) dan hidangan
+seperti [char kway teow](/food-lifestyle/char-kway-teow). Sempadan tepat
 antara nama-nama ini tidak tetap dan berbeza dari gerai ke gerai, jadi berbaloi
 bertanya penjual apa yang ada dalam mangkuk daripada bergantung pada label
 semata-mata.
@@ -211,20 +211,20 @@ yang telah lama beroperasi (satu gerai di Ayer Itam yang dikendalikan oleh
 adik-beradik perempuan selama berdekad-dekad) membina reputasi merentas
 generasi. Lembah Klang dan bandar semenanjung lain menghidangkan versi
 curry-laksa dengan kelimpahan yang sama. Seperti kebanyakan
-[masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+[masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
 Malaysia, curry mee menyesuaikan diri dengan persekitarannya — bukti bahawa idea
 baik yang sama boleh membawa dua nama berbeza dan masih terasa seperti rumah di
 setiap satu.
 
 ## Apa yang seterusnya
 
-- [Laksa](/ms/food-lifestyle/laksa) — keluarga sup mi serantau yang lebih luas
+- [Laksa](/food-lifestyle/laksa) — keluarga sup mi serantau yang lebih luas
   yang curry mee tergolong di dalamnya, termasuk asam laksa dan laksa Sarawak.
-- [Mi Malaysia](/ms/food-lifestyle/malaysian-noodles) — dunia hidangan mi negara
+- [Mi Malaysia](/food-lifestyle/malaysian-noodles) — dunia hidangan mi negara
   ini yang lebih luas.
-- [Makanan Pulau Pinang](/ms/food-lifestyle/penang-food) — hidangan penjaja
+- [Makanan Pulau Pinang](/food-lifestyle/penang-food) — hidangan penjaja
   terkenal pulau itu, tempat curry mee menjadi makanan ruji tempatan.
-- [Char kway teow](/ms/food-lifestyle/char-kway-teow) — satu lagi ikon penjaja
+- [Char kway teow](/food-lifestyle/char-kway-teow) — satu lagi ikon penjaja
   Pulau Pinang.
-- [Hidangan nasional Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia) —
+- [Hidangan nasional Malaysia](/food-lifestyle/national-dishes-of-malaysia) —
   tempat mi kari-santan berada dalam kalangan ikon masakan negara.

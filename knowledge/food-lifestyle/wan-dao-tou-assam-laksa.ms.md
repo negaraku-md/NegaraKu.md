@@ -92,7 +92,7 @@ Wan Dao Tou Assam Laksa disenaraikan sebagai **MICHELIN Bib Gourmand** dalam
 pemilihan MICHELIN Guide Kuala Lumpur & Penang — pengiktirafan yang diberikan
 panduan ini kepada tempat yang menghidangkan makanan baik pada harga berpatutan,
 satu tingkat di bawah Bintang MICHELIN tetapi tanda pengesahan pemeriksa yang
-tulen. Keistimewaan tunggalnya ialah [assam laksa](/ms/food-lifestyle/laksa),
+tulen. Keistimewaan tunggalnya ialah [assam laksa](/food-lifestyle/laksa),
 mangkuk masam dari utara yang dibina atas sup ikan berasaskan asam jawa dan
 bukannya santan.
 
@@ -103,7 +103,7 @@ pedas," dengan timun, bawang merah dan nanas meredakan kepedasan sup, dan
 menonjolkan pinggan pembuka selera sebagai wajar dipesan bersama. Laksa itu
 dihidangkan atas mi beras tebal dalam gaya klasik Pulau Pinang — ikannya direneh
 menjadi stok masam dan berperisa yang mentakrifkan hidangan ini di seluruh
-[makanan Pulau Pinang](/ms/food-lifestyle/penang-food) yang paling terkenal di
+[makanan Pulau Pinang](/food-lifestyle/penang-food) yang paling terkenal di
 pulau itu.
 
 ## Lokasi dan latar belakang

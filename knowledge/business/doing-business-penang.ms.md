@@ -203,7 +203,7 @@ Mekanik undang-undang kecil ini memberi ganjaran apabila dibaca:
 
 Kami tidak menerbitkan angka ringgit daripada jadual yuran 2001. Warta itu ialah imbasan dan
 lajurnya berselang-seli semasa pengekstrakan, membalikkan kadar bercahaya dan tidak bercahaya
-— kecacatan yang sama ditanda bagi majlis lain dalam panduan [lesen papan tanda](/ms/business/signboard-licence-malaysia).
+— kecacatan yang sama ditanda bagi majlis lain dalam panduan [lesen papan tanda](/business/signboard-licence-malaysia).
 Dapatkan kadar daripada majlis, bukan daripada jadual.
 
 MBPP lebih teruk keadaannya: undang-undang kecil pelesenan dan iklannya diterbitkan sebagai

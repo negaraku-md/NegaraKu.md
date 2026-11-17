@@ -201,10 +201,10 @@ Jadi, sebelum anda tandatangan, baca dan rundingkan ke dalam dokumen itu:
   khusus itu dengan **PBT** anda sebelum menandatangani — dan undang-undang kecil
   dengan badan pengurusan bagi unit strata.
 - Lihat butiran mengenai
-  [lesen premis perniagaan](/ms/business/premise-licence-malaysia),
-  [lesen papan tanda](/ms/business/signboard-licence-malaysia), dan —
-  bagi premis makanan — [lesen F&B](/ms/business/fnb-licence-malaysia).
+  [lesen premis perniagaan](/business/premise-licence-malaysia),
+  [lesen papan tanda](/business/signboard-licence-malaysia), dan —
+  bagi premis makanan — [lesen F&B](/business/fnb-licence-malaysia).
 - Untuk gambaran keseluruhan pelesenan, lihat
-  [lesen perniagaan di Malaysia](/ms/business/business-licence-malaysia).
+  [lesen perniagaan di Malaysia](/business/business-licence-malaysia).
 - Dapatkan pajakan itu disemak, dan tuliskan pintu keluar sekiranya lesen ditolak ke
   dalamnya, sebelum anda terikat.

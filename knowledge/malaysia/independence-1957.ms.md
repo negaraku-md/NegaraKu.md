@@ -71,7 +71,7 @@ Beberapa minit selepas tengah malam pada 31 Ogos 1957, di padang di hadapan bang
 
 ## Delegasi yang pergi untuk bertanya
 
-Pada Januari 1956, satu delegasi [Parti Perikatan](/ms/malaysia/the-alliance) — orang Melayu, Cina dan India yang berunding sebagai satu blok, diketuai oleh Tunku Abdul Rahman — bertolak ke London untuk mengemukakan satu soalan khusus kepada kerajaan British: bila, dan atas syarat apa, Tanah Melayu akan memerintah sendiri? Jawapan yang mereka bawa pulang bukanlah jaminan yang samar-samar. Britain bersetuju pada dasarnya untuk kemerdekaan menjelang Ogos 1957, dengan syarat sebuah perlembagaan yang boleh dilaksanakan disediakan terlebih dahulu. Perjalanan tunggal itu menukarkan "suatu hari nanti" menjadi satu tarikh akhir, dan segala-galanya yang menyusul dibina untuk memenuhinya.
+Pada Januari 1956, satu delegasi [Parti Perikatan](/malaysia/the-alliance) — orang Melayu, Cina dan India yang berunding sebagai satu blok, diketuai oleh Tunku Abdul Rahman — bertolak ke London untuk mengemukakan satu soalan khusus kepada kerajaan British: bila, dan atas syarat apa, Tanah Melayu akan memerintah sendiri? Jawapan yang mereka bawa pulang bukanlah jaminan yang samar-samar. Britain bersetuju pada dasarnya untuk kemerdekaan menjelang Ogos 1957, dengan syarat sebuah perlembagaan yang boleh dilaksanakan disediakan terlebih dahulu. Perjalanan tunggal itu menukarkan "suatu hari nanti" menjadi satu tarikh akhir, dan segala-galanya yang menyusul dibina untuk memenuhinya.
 
 ## Menulis buku peraturan sebelum majlisnya
 

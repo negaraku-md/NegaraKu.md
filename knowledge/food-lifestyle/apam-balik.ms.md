@@ -96,7 +96,7 @@ dishFacts:
   where: "Ia terutamanya milik pasar malam — pasar mingguan berpusing yang menjadi kelaziman kehidupan Malaysia — dan gerai tepi jalan serta medan selera di mana penjual mengendalikan sebaris kuali di udara terbuka. Sesetengah gerai menjadi institusi tempatan; Malay Mail pernah memaparkan sebuah gerai apam balik terkenal dari Ipoh yang menarik pengikut setelah berpindah ke Lembah Klang. Gaya nipis dan rangup turut beredar dengan nama dialek Cina seperti ban jian kueh dan min chiang kueh."
 ---
 
-Berjalanlah di hampir mana-mana [pasar malam](/ms/food-lifestyle/pasar-malam-and-street-food)
+Berjalanlah di hampir mana-mana [pasar malam](/food-lifestyle/pasar-malam-and-street-food)
 di Malaysia pada waktu petang, dan anda akan mendengarnya sebelum melihatnya: bunyi senduk
 mengikis kuali besi panas, desisan bancuhan, dan bau manis serta rangup kacang dan marjerin.
 Lempeng yang sedang dilipat di gerai itu ialah *apam balik* — salah satu juadah jalanan yang
@@ -167,8 +167,8 @@ restoran: murah, mudah dibawa, dibeli panas-panas dalam sampul kertas atau beg p
 di situ juga. Sesetengah gerai menjadi institusi tempatan dengan sendirinya; Malay Mail, umpamanya,
 pernah membuat liputan mengenai sebuah gerai apam balik terkenal Ipoh yang menarik peminat setelah
 berpindah ke Lembah Klang. Ia duduk dengan selesa dalam dunia yang lebih luas
-[kuih-muih](/ms/food-lifestyle/kuih-muih) Malaysia dan
-[pencuci mulut serta juadah manis](/ms/food-lifestyle/malaysian-desserts), walaupun ia dimakan pada
+[kuih-muih](/food-lifestyle/kuih-muih) Malaysia dan
+[pencuci mulut serta juadah manis](/food-lifestyle/malaysian-desserts), walaupun ia dimakan pada
 bila-bila masa dan bukan hanya pada waktu tertentu.
 
 ## Satu nama, dan sejarah yang masih diperdebatkan
@@ -194,11 +194,11 @@ negara.
 
 ## Apa seterusnya
 
-- [Kuih-muih](/ms/food-lifestyle/kuih-muih) — dunia yang lebih luas kuih dan juadah tradisional
+- [Kuih-muih](/food-lifestyle/kuih-muih) — dunia yang lebih luas kuih dan juadah tradisional
   Malaysia yang menjadi tempat tergolongnya apam balik.
-- [Pencuci mulut Malaysia](/ms/food-lifestyle/malaysian-desserts) — tempat duduknya apam balik
+- [Pencuci mulut Malaysia](/food-lifestyle/malaysian-desserts) — tempat duduknya apam balik
   dalam kalangan hidangan manis negara ini.
-- [Pasar malam dan makanan jalanan](/ms/food-lifestyle/pasar-malam-and-street-food) — budaya pasar
+- [Pasar malam dan makanan jalanan](/food-lifestyle/pasar-malam-and-street-food) — budaya pasar
   malam yang menjadi tempat apam balik paling selesa berada.
-- [Sarapan Malaysia](/ms/food-lifestyle/malaysian-breakfast) — cara-cara lain rakyat Malaysia
+- [Sarapan Malaysia](/food-lifestyle/malaysian-breakfast) — cara-cara lain rakyat Malaysia
   memulakan, dan menikmati juadah sepanjang hari.

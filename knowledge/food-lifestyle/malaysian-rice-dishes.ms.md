@@ -121,28 +121,28 @@ sebaik sahaja anda boleh membaca penerangnya, anda biasanya boleh meneka
 hidangannya.
 
 Nasi merentasi setiap komuniti di Malaysia, sebab itulah begitu banyak
-[hidangan kebangsaan](/ms/food-lifestyle/national-dishes-of-malaysia) negara ini
+[hidangan kebangsaan](/food-lifestyle/national-dishes-of-malaysia) negara ini
 berasaskan nasi, dan sebab itulah nasi duduk di jantung kedua-dua
-[masakan Melayu](/ms/food-lifestyle/malay-cuisine) harian dan peta yang lebih
-luas tentang [masakan wilayah dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines).
+[masakan Melayu](/food-lifestyle/malay-cuisine) harian dan peta yang lebih
+luas tentang [masakan wilayah dan etnik](/food-lifestyle/regional-and-ethnic-cuisines).
 Keluarga-keluarga di bawah ialah pengelompokan praktikal dan bukannya taksonomi
 rasmi, dan sempadan antara mereka adalah lembut.
 
 ## Nasi santan dan nasi berperisa
 
 Keluarga yang paling terkenal ialah nasi yang dimasak atau dihidang dengan
-santan dan rempah ratus. [**Nasi lemak**](/ms/food-lifestyle/nasi-lemak) — nasi
+santan dan rempah ratus. [**Nasi lemak**](/food-lifestyle/nasi-lemak) — nasi
 yang dikukus dengan santan dan pandan, dihidang dengan *sambal*, ikan bilis
 goreng, kacang, timun dan telur rebus atau goreng — begitu lazim pada waktu
 sarapan dan seterusnya sehingga ia amat meluas digambarkan sebagai hidangan
 kebangsaan Malaysia, walaupun satu pengisytiharan rasmi tunggal lebih sukar
 dipastikan berbanding dakwaan popular itu.
 
-Pantai timur menambah nasi santannya sendiri. [**Nasi dagang**](/ms/food-lifestyle/nasi-dagang),
+Pantai timur menambah nasi santannya sendiri. [**Nasi dagang**](/food-lifestyle/nasi-dagang),
 dikaitkan dengan Terengganu dan Kelantan, ialah campuran beras tempatan dan
 pulut yang dikukus dengan santan, halba dan bawang merah serta secara tradisi
 dimakan dengan kari ikan tongkol (*ikan tongkol*) — sepupu nasi lemak yang lebih
-berat untuk majlis istimewa. [**Nasi kerabu**](/ms/food-lifestyle/nasi-kerabu),
+berat untuk majlis istimewa. [**Nasi kerabu**](/food-lifestyle/nasi-kerabu),
 juga hidangan pantai timur, terkenal dengan nasinya yang berwarna biru, diwarnai
 oleh kelopak bunga telang dan digaul dengan pelbagai ulam mentah (*kerabu*),
 budu (*budu*), kelapa goreng dan keropok. Atribusi wilayah yang tepat dan punca
@@ -151,7 +151,7 @@ gerai berbeza-beza.
 
 ## Nasi goreng: keluarga nasi digoreng
 
-[**Nasi goreng**](/ms/food-lifestyle/nasi-goreng), yang bermaksud "nasi
+[**Nasi goreng**](/food-lifestyle/nasi-goreng), yang bermaksud "nasi
 digoreng," ialah kuda kerja harian — nasi semalaman yang digoreng dengan api
 besar bersama bawang putih, bawang merah, cili dan, lazimnya, perisa *kecap
 manis* (kicap manis) atau kicap. Ia hidangan yang dikongsi merentasi Asia
@@ -171,7 +171,7 @@ atau kedai, atasnya pelanggan menunjuk ke bufet kari, sayur, ikan goreng,
 termasuk gaya Padang berakar Indonesia dan *nasi berlauk* yang ringkas ("nasi
 dengan lauk").
 
-[**Nasi kandar**](/ms/food-lifestyle/nasi-kandar) ialah sebuah institusi Pulau
+[**Nasi kandar**](/food-lifestyle/nasi-kandar) ialah sebuah institusi Pulau
 Pinang yang tertentu dan disayangi daripada komuniti *mamak* (India-Muslim):
 nasi dihidang dengan campuran kuah kari yang dituang dengan banyak di atasnya —
 amalan yang digelar *banjir* ("banjir") — bersama ayam goreng, sotong, udang,
@@ -218,7 +218,7 @@ beramai-ramai.
 ## Hidangan nasi Cina
 
 Masyarakat Cina Malaysia menyumbang hidangan nasi klasik mereka sendiri.
-[**Nasi ayam Hainan**](/ms/food-lifestyle/hainanese-chicken-rice) — ayam yang
+[**Nasi ayam Hainan**](/food-lifestyle/hainanese-chicken-rice) — ayam yang
 direneh atau dipanggang dihidang dengan nasi yang dimasak dalam kaldu ayam
 berperisa, bersama sos cili dan halia — ialah makanan ruji kedai kopi dan penjaja
 di seluruh negara, berketurunan daripada masakan pendatang Hainan. **Nasi ayam
@@ -230,11 +230,11 @@ masakan yang berbeza di bumi Malaysia.
 
 ## Seterusnya
 
-- [Nasi lemak](/ms/food-lifestyle/nasi-lemak) — hidangan sarapan nasi santan yang
+- [Nasi lemak](/food-lifestyle/nasi-lemak) — hidangan sarapan nasi santan yang
   paling kerap dinamakan sebagai pinggan kebangsaan Malaysia.
-- [Nasi kandar](/ms/food-lifestyle/nasi-kandar) — tradisi nasi bercampur mamak
+- [Nasi kandar](/food-lifestyle/nasi-kandar) — tradisi nasi bercampur mamak
   Pulau Pinang yang terkenal.
-- [Hidangan kebangsaan Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia) —
+- [Hidangan kebangsaan Malaysia](/food-lifestyle/national-dishes-of-malaysia) —
   tempat nasi-nasi ini duduk antara ikon masakan negara.
-- [Masakan wilayah dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan wilayah dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   peta yang lebih luas tentang cara negeri dan komuniti Malaysia makan.

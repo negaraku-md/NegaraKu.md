@@ -119,8 +119,8 @@ Selain idea kongsi itu, mangkuk — atau lebih tepat, parselnya — berbeza meng
 wilayah dan komuniti. Daun, bentuk, warna, sama ada ia dibakar atau dikukus,
 serta betapa lembut atau padat hasil akhirnya, semuanya berubah dari satu pekan
 ke pekan yang lain. Otak-otak duduk selesa antara
-[hidangan istimewa](/ms/food-lifestyle/national-dishes-of-malaysia) Malaysia dan,
-seperti [laksa](/ms/food-lifestyle/laksa), ia bukanlah satu resipi tunggal
+[hidangan istimewa](/food-lifestyle/national-dishes-of-malaysia) Malaysia dan,
+seperti [laksa](/food-lifestyle/laksa), ia bukanlah satu resipi tunggal
 sebaliknya sekeluarga resipi yang berkait rapat.
 
 ## Namanya: hidangan yang dipanggil "otak"
@@ -166,7 +166,7 @@ ketam.
 Pautan Peranakan ialah benang yang mengikat otak-otak dengan sebahagian besar
 masakan hibrid Selat: dapur Cina Selat mengahwinkan teknik Cina dengan pes
 rempah Melayu, dan otak-otak — seperti beberapa
-[masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+[masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
 Malaysia — membawa adunan itu. Perbezaan antara parsel Johor yang kering dan
 dibakar dengan parsel Pulau Pinang yang lembut dan dikukus ialah cara paling
 jelas untuk melihat sejauh mana satu idea boleh mengembara dalam satu negara
@@ -216,9 +216,9 @@ Palembang dan Singapura melengkapkan gambarannya. Di mana sahaja ia dibuat,
 formulanya tetap: ikan, pes rempah, kelapa, dan daun untuk membawa keseluruhannya
 menerusi api atau kukusan.
 
-- [Hidangan nasional Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia) —
+- [Hidangan nasional Malaysia](/food-lifestyle/national-dishes-of-malaysia) —
   di mana otak-otak berada antara ikon kulinari negara.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   peta yang lebih luas tentang cara negeri dan komuniti Malaysia makan.
-- [Laksa](/ms/food-lifestyle/laksa) — satu lagi hidangan mengutamakan ikan yang
+- [Laksa](/food-lifestyle/laksa) — satu lagi hidangan mengutamakan ikan yang
   versi serantaunya menyimpang tajam di bawah satu nama.

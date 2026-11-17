@@ -100,7 +100,7 @@ dengan susu manis. Hasilnya lebih penuh dan lebih harum daripada mana-mana minum
 sedikit kepahitan kopi, sedikit kekelatan teh, banyak keselesaan.
 
 Untuk melihat kedudukan kopi cham dalam kalangan papan minuman negara yang lebih luas, lihat hub
-[minuman Malaysia](/ms/food-lifestyle/malaysian-drinks). Artikel ini ialah tinjauan mendalam tentang
+[minuman Malaysia](/food-lifestyle/malaysian-drinks). Artikel ini ialah tinjauan mendalam tentang
 campuran kopi-teh itu sendiri.
 
 ## Maksud "cham"
@@ -110,7 +110,7 @@ atau *menyatukan* — jadi "kopi cham" sekadar "kopi campur", kopi yang disatuka
 tergolong dalam perbendaharaan kata yang sebahagian besarnya Hokkien-dan-Hainan yang mengawal setiap
 minuman di kaunter: *kopi-O* (kopi hitam, tanpa susu), *kopi-C* (dengan susu sejat), *kosong* (tanpa
 gula), *gao* (pekat), *peng* (beais). Logik penuh kod itu dihuraikan dalam panduan
-[kopi, teh tarik dan minuman kedai kopi](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks);
+[kopi, teh tarik dan minuman kedai kopi](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks);
 artikel ini kekal dengan campuran itu sendiri.
 
 ## Panas, beais, dan sepupu Hong Kong
@@ -128,16 +128,16 @@ Hokkien sejak awal abad ke-20.
 
 ## Di mana untuk mendapatkannya
 
-Kopi cham dituang dari kaunter yang sama dengan [teh tarik](/ms/food-lifestyle/teh-tarik) dan kopi
+Kopi cham dituang dari kaunter yang sama dengan [teh tarik](/food-lifestyle/teh-tarik) dan kopi
 biasa, di gerai **kopitiam** dan **mamak** di seluruh negara. Ia minuman bila-bila masa — pembangkit
 semangat pagi, rehat petang — untuk sesiapa yang enggan memilih antara kopi dan teh. Untuk institusi
-yang menuangkannya, lihat [budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture).
+yang menuangkannya, lihat [budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture).
 
 ## Apa yang seterusnya
 
 - Petakan kopi cham terhadap papan minuman negara yang lebih luas dalam hub
-  [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
+  [minuman Malaysia](/food-lifestyle/malaysian-drinks).
 - Nyahkod tatabahasa kaunter penuh dalam panduan
-  [kopi, teh tarik dan minuman kedai kopi](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
+  [kopi, teh tarik dan minuman kedai kopi](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
 - Temui ikon teh-tarik dari kaunter yang sama dalam
-  [teh tarik](/ms/food-lifestyle/teh-tarik).
+  [teh tarik](/food-lifestyle/teh-tarik).

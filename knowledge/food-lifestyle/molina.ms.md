@@ -95,7 +95,7 @@ framework: profile
 
 Molina ialah sebuah restoran fine dining inovatif yang bertenggek di tingkat 51
 THE FACE Style di Kuala Lumpur. Ia memegang Satu MICHELIN Star dalam
-[MICHELIN Guide](/ms/food-lifestyle/michelin-guide-malaysia) Kuala Lumpur & Penang,
+[MICHELIN Guide](/food-lifestyle/michelin-guide-malaysia) Kuala Lumpur & Penang,
 yang penyenaraiannya memadankan masakan yang kreatif dan melintasi sempadan dengan
 pemandangan panorama kaki langit kota.
 
@@ -106,7 +106,7 @@ berkualiti tinggi" yang "berbaloi untuk singgah," dan muncul dalam senarai pilih
 penuh semasa MICHELIN bagi Malaysia. Laporan sekunder mencatatkan bahawa restoran
 ini memperoleh Star-nya dalam masa beberapa bulan selepas dibuka — satu
 pengiktirafan yang luar biasa pantas — dan secara berasingan menerima anugerah
-MICHELIN Opening of the Year. Star ini meletakkannya antara ruang [fine dining](/ms/food-lifestyle/fine-dining-malaysia)
+MICHELIN Opening of the Year. Star ini meletakkannya antara ruang [fine dining](/food-lifestyle/fine-dining-malaysia)
 terkemuka Kuala Lumpur.
 
 ## Makanannya: inovatif dan melintasi sempadan

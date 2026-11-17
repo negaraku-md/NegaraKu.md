@@ -104,7 +104,7 @@ Rel mahal untuk dibina dan mengikut laluan tetap. Satu stesen MRT boleh terletak
 
 ## Berapakah kos satu perjalanan?
 
-Tambang berjulat dari **RM1 hingga RM5**, bergantung pada berapa banyak zon tambang yang anda lalui. Pembayaran adalah **tanpa tunai sahaja** — kad [Touch 'n Go](/ms/transport/touch-n-go) atau Kad Konsesi MyRapid. Warga emas, pelajar dan orang kurang upaya membayar kadar **konsesi 50%**.
+Tambang berjulat dari **RM1 hingga RM5**, bergantung pada berapa banyak zon tambang yang anda lalui. Pembayaran adalah **tanpa tunai sahaja** — kad [Touch 'n Go](/transport/touch-n-go) atau Kad Konsesi MyRapid. Warga emas, pelajar dan orang kurang upaya membayar kadar **konsesi 50%**.
 
 ## Apakah yang berubah pada 2026?
 

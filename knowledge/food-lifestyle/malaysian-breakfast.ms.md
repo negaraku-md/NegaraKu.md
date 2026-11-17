@@ -121,8 +121,8 @@ satu resipi. Anda mungkin memulakan hari dengan hidangan nasi Melayu, roti leper
 India, mangkuk mi Cina atau sekeping roti bakar — dan orang di meja sebelah telah
 memilih sesuatu yang berbeza. Untuk gambaran lebih luas tentang di mana semua
 makan ini berlaku, lihat
-[pusat penjaja dan medan selera](/ms/food-lifestyle/hawker-centres-and-food-courts)
-serta budaya [kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture).
+[pusat penjaja dan medan selera](/food-lifestyle/hawker-centres-and-food-courts)
+serta budaya [kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture).
 
 ## Nasi lemak: pinggan pagi yang inti pati
 
@@ -138,7 +138,7 @@ tradisional, dan secara meluas — walaupun tidak secara rasmi — digelar hidan
 kebangsaan Malaysia. Dalam amalan, ia telah lama melepasi waktu pagi: ia dijual
 dan dimakan pada bila-bila masa, dan dihiasi dengan ayam goreng, rendang atau
 udang sambal menjadi hidangan penuh. Namun kedudukannya sebagai sarapan lalai
-tidak dipertikaikan. [Nasi lemak](/ms/food-lifestyle/nasi-lemak) mempunyai
+tidak dipertikaikan. [Nasi lemak](/food-lifestyle/nasi-lemak) mempunyai
 ceritanya sendiri yang lebih penuh, daripada sambal hingga variasi wilayah.
 
 ## Di mamak: roti canai, dhal dan nasi kandar
@@ -152,7 +152,7 @@ sehingga rangup di luar dan lembut di dalam. Ia tiba dengan semangkuk **dhal**
 snek yang popular, dihidangkan di gerai mamak tepi jalan di bandar dan luar
 bandar; variasi seperti *roti telur* (dengan telur) dan *roti bom* memenuhi menu
 yang sama. Anda boleh membaca lebih lanjut tentang roti leper itu sendiri di
-bawah [roti canai](/ms/food-lifestyle/roti-canai).
+bawah [roti canai](/food-lifestyle/roti-canai).
 
 Hidangan berat pagi yang satu lagi di mamak ialah **nasi kandar**, pinggan nasi
 kukus kelahiran Pulau Pinang yang dicedok dengan campuran kari dan lauk-pauk,
@@ -181,8 +181,8 @@ dihidangkan dengan susu pekat atau susu sejat — dipesan dalam singkatan padat
 (*kopi O* untuk hitam, *kopi C* untuk susu sejat, dan sebagainya). Gabungan roti
 bakar, telur dan kopi pekat ialah sarapan Cina-Malaysia yang arketaip; perincian
 halusnya, dan sejauh mana tradisi ini dikongsi dengan Singapura, diterokai dalam
-[kopi, teh tarik dan minuman kedai kopi](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks)
-dan [kaya toast](/ms/food-lifestyle/kaya-toast).
+[kopi, teh tarik dan minuman kedai kopi](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks)
+dan [kaya toast](/food-lifestyle/kaya-toast).
 
 ## Mi dan bubur: mangkuk berkuah
 
@@ -199,7 +199,7 @@ dirisik, telur abad, ikan, babi atau cakoi serta taburan daun bawang dan bawang
 goreng. Lembut dan mudah dicernakan, ia ialah makanan pertama yang lazim,
 terutamanya bagi yang sangat muda, warga tua dan sesiapa yang kurang sihat.
 Pelbagai gaya mi negara ini, berkuah dan kering, dipetakan di bawah
-[mi Malaysia](/ms/food-lifestyle/malaysian-noodles).
+[mi Malaysia](/food-lifestyle/malaysian-noodles).
 
 ## Dim sum dan gerai kuih pasar
 
@@ -234,13 +234,13 @@ kedua-duanya boleh diambil panas atau sejuk (*ais* atau *peng*). Antara keduanya
 mereka menyumbang sebahagian besar daripada apa yang sebenarnya diminum orang
 Malaysia pada waktu sarapan; julat minuman tempatan yang lebih luas, daripada
 *Milo* hingga *barli* ais dan variasi *kopi*, dibincangkan di bawah
-[minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
+[minuman Malaysia](/food-lifestyle/malaysian-drinks).
 
 ## Apa yang seterusnya
 
-- [Nasi lemak](/ms/food-lifestyle/nasi-lemak) — hidangan nasi santan di tengah-tengah
+- [Nasi lemak](/food-lifestyle/nasi-lemak) — hidangan nasi santan di tengah-tengah
   pagi Malaysia.
-- [Budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture) — dua
+- [Budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture) — dua
   tempat yang menentukan di mana dan bagaimana orang Malaysia bersarapan.
-- [Pusat penjaja dan medan selera](/ms/food-lifestyle/hawker-centres-and-food-courts)
+- [Pusat penjaja dan medan selera](/food-lifestyle/hawker-centres-and-food-courts)
   — ekosistem makan di luar yang lebih luas yang menjadi sebahagian daripada sarapan.

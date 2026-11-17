@@ -117,7 +117,7 @@ dan menerima kad kredit.
 
 Leen's ialah salah satu daripada bilangan kedai makan di Kuala Lumpur yang semakin
 bertambah dalam pilihan
-[MICHELIN Guide Malaysia](/ms/food-lifestyle/michelin-guide-malaysia) yang memberi
+[MICHELIN Guide Malaysia](/food-lifestyle/michelin-guide-malaysia) yang memberi
 ganjaran kepada masakan harian yang berbaloi dan bukannya formaliti santapan
 mewah. Senarai Bib Gourmand disegarkan setiap tahun, jadi berbaloi untuk menyemak
 edisi semasa sebelum anda merancang perjalanan sekitarnya.

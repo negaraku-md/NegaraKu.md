@@ -105,7 +105,7 @@ framework: profile
 | | |
 | --- | --- |
 | Nama | Permodalan Nasional Berhad (PNB) |
-| Ditubuhkan | 17 Mac 1978, sebagai sebahagian daripada [Dasar Ekonomi Baru](/ms/malaysia/new-economic-policy) Malaysia |
+| Ditubuhkan | 17 Mac 1978, sebagai sebahagian daripada [Dasar Ekonomi Baru](/malaysia/new-economic-policy) Malaysia |
 | Pendahulu | Yayasan Pelaburan Bumiputra (YPB), ditubuhkan 9 Januari 1978 |
 | Mandat | Untuk meningkatkan kekayaan ekonomi masyarakat Bumiputera dan semua rakyat Malaysia |
 | AUM | RM364 bilion (setakat akhir 2025, meningkat 4.5% tahun ke tahun) |
@@ -135,7 +135,7 @@ memiliki ASNB sepenuhnya. ASNB pula ialah syarikat pengurusan amanah saham:
 ia adalah entiti yang dinamakan sebagai "Pengurus" pada setiap prospektus dan
 Product Highlights Sheet, iaitu pihak yang mengeluarkan unit, memproses
 belian balik, dan mengendalikan 32 pejabat cawangan serta lebih 2,700 ejen di
-seluruh negara ([Maybank](/ms/companies/maybank), CIMB, RHB, BSN, Pos Malaysia dan lain-lain) tempat
+seluruh negara ([Maybank](/companies/maybank), CIMB, RHB, BSN, Pos Malaysia dan lain-lain) tempat
 rakyat Malaysia sebenarnya membuat transaksi.
 
 Pembahagian ini penting atas satu sebab praktikal: aduan, pertanyaan akaun dan

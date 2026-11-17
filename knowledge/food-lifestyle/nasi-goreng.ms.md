@@ -129,9 +129,9 @@ itulah sebabnya nasi goreng milik rantau ini dan bukan milik mana-mana satu
 negara.
 
 Di Malaysia ia duduk selesa dalam kalangan makanan ruji harian — bukan hidangan
-istiadat seperti [nasi lemak](/ms/food-lifestyle/nasi-lemak), tetapi tiang yang
+istiadat seperti [nasi lemak](/food-lifestyle/nasi-lemak), tetapi tiang yang
 boleh diharap bagi meja santai yang muncul dalam kebanyakan tinjauan
-[hidangan kebangsaan](/ms/food-lifestyle/national-dishes-of-malaysia) negara ini.
+[hidangan kebangsaan](/food-lifestyle/national-dishes-of-malaysia) negara ini.
 
 ## Teknik: nasi semalaman dan wok hei
 
@@ -169,7 +169,7 @@ Ia terasa kampung dan menyengat berbanding halus, dan ia versi yang ramai rakyat
 Malaysia masak di rumah daripada bahan simpanan dapur. Profilnya yang menonjolkan
 sambal meletakkannya tegas dalam dunia perisa yang sama dengan asas cili lain
 dapur Melayu, jenis kepedasan yang turut mentakrifkan hidangan merentasi
-[masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+[masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
 negara ini.
 
 ## Nama berjenaka: pattaya, USA dan rakan-rakan
@@ -203,7 +203,7 @@ dan lebih berani, dibina atas cili tumbuk dan serbuk kari serta kadangkala
 ditambah dengan tauhu kering, keropok ikan atau bahkan mi segera yang dipecahkan.
 Gerai mamak ialah tempat di mana banyak gaya ini bertemu pada satu menu bersalut
 lamina, sebahagian daripada
-[budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture) yang lebih
+[budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture) yang lebih
 luas yang mengekalkan nasi goreng dalam pusingan berterusan.
 
 ## Pinggan yang lebih pedas dan lebih masin
@@ -237,7 +237,7 @@ membentuk versi yang anda temui. Jadual di bawah menyusun gaya-gaya yang biasa:
 | Ikan masin / Belacan | Ikan masin / udang kisar | Dapur rumah, gerai Melayu |
 
 Ia tetap di gerai mamak 24 jam dan kopitiam kejiranan, pilihan sandaran yang
-boleh diharap di gerai [pasar malam dan makanan jalanan](/ms/food-lifestyle/pasar-malam-and-street-food),
+boleh diharap di gerai [pasar malam dan makanan jalanan](/food-lifestyle/pasar-malam-and-street-food),
 dan antara hidangan pertama yang dipelajari oleh tukang masak rumah untuk
 diubah suai. Oleh sebab ia hanya memerlukan nasi lebihan, kuali panas dan apa
 sahaja yang ada dalam peti sejuk, ia sekali gus benda paling murah pada banyak
@@ -246,9 +246,9 @@ mengeja senarai itu dengan cara yang sama.
 
 ## Apa seterusnya
 
-- [Hidangan kebangsaan Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia) —
+- [Hidangan kebangsaan Malaysia](/food-lifestyle/national-dishes-of-malaysia) —
   di mana nasi goreng duduk dalam kalangan ikon harian negara ini.
-- [Nasi lemak](/ms/food-lifestyle/nasi-lemak) — nasi santan yang berkongsi meja
+- [Nasi lemak](/food-lifestyle/nasi-lemak) — nasi santan yang berkongsi meja
   dengannya.
-- [Budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture) — gerai
+- [Budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture) — gerai
   dan kedai kopi di mana kebanyakan versi ini dipesan.

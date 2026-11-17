@@ -116,5 +116,5 @@ Oleh sebab menu bertukar pada kitaran enam minggu, apa yang anda makan kali lepa
 mungkin sudah berlalu — sebahagian daripada tarikannya. Sahkan waktu operasi
 semasa dan sebarang dasar tempahan dengan restoran sebelum anda menyeberang ke
 sana. Untuk gambaran yang lebih besar, lihat gambaran keseluruhan kami tentang
-[MICHELIN Guide di Malaysia](/ms/food-lifestyle/michelin-guide-malaysia) dan
-panduan [makanan Pulau Pinang](/ms/food-lifestyle/penang-food).
+[MICHELIN Guide di Malaysia](/food-lifestyle/michelin-guide-malaysia) dan
+panduan [makanan Pulau Pinang](/food-lifestyle/penang-food).

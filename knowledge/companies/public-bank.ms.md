@@ -85,7 +85,7 @@ Tidak banyak syarikat Malaysia yang sebegitu rapat terikat dengan seorang pengas
 
 ## Gambaran keseluruhan
 
-Public Bank Berhad (pendaftaran 196501000672 / 6463-H) ialah kumpulan perbankan Malaysia yang tersenarai di Bursa Malaysia. Ia lazimnya digambarkan sebagai bank ketiga terbesar negara ini dari segi jumlah aset — di belakang [Maybank](/ms/companies/maybank) dan [CIMB](/ms/companies/cimb) — sambil diletakkan sebagai bank Malaysia terbesar dari segi dana pemegang saham dan antara yang paling menguntungkan. Jumlah asetnya berada pada kira-kira RM543 bilion pada hujung Disember 2024.
+Public Bank Berhad (pendaftaran 196501000672 / 6463-H) ialah kumpulan perbankan Malaysia yang tersenarai di Bursa Malaysia. Ia lazimnya digambarkan sebagai bank ketiga terbesar negara ini dari segi jumlah aset — di belakang [Maybank](/companies/maybank) dan [CIMB](/companies/cimb) — sambil diletakkan sebagai bank Malaysia terbesar dari segi dana pemegang saham dan antara yang paling menguntungkan. Jumlah asetnya berada pada kira-kira RM543 bilion pada hujung Disember 2024.
 
 Reputasi kumpulan ini bersandar pada model runcit-dan-PKS yang berfokus serta pemberian pinjaman yang konservatif. Ia melaporkan keuntungan bersih RM7.15 bilion bagi tahun kewangan 2024 (naik daripada RM6.65 bilion tahun sebelumnya), atas hasil RM27.21 bilion, menurut keputusan yang diterbitkan pada Februari 2025. Deposit pelanggan mencecah RM433.3 bilion dan pinjaman RM397.7 bilion pada hujung Disember 2024, dan kumpulan ini mengisytiharkan dividen interim kedua sebanyak 11 sen sesaham bagi tahun berkenaan. Pengarah urusan dan ketua eksekutif Tay Ah Lek menerajui operasi harian. Bank ini menandakan tahun ke-60 operasinya pada 2026.
 
@@ -134,5 +134,5 @@ Public Bank terletak dalam lapisan teratas sistem perbankan Malaysia, jadi pembe
 
 ## Apa seterusnya
 
-- Bandingkan tiga kumpulan perbankan terbesar Malaysia: [Maybank](/ms/companies/maybank) dan [CIMB](/ms/companies/cimb).
-- Untuk konteks negara di sebalik institusi-institusi ini, lihat [Malaysia](/ms/malaysia).
+- Bandingkan tiga kumpulan perbankan terbesar Malaysia: [Maybank](/companies/maybank) dan [CIMB](/companies/cimb).
+- Untuk konteks negara di sebalik institusi-institusi ini, lihat [Malaysia](/malaysia).

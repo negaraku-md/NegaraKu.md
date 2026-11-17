@@ -133,7 +133,7 @@ bebas, jadi sedikit sahaja hidangan yang tergolong kepada satu kumpulan sahaja.
 
 Orang Hokkien, asalnya dari selatan Fujian, umumnya ialah komuniti dialek Cina
 terbesar di Malaysia, dan jejak mereka pada pemakanan harian adalah berat. Contoh
-paling jelas ialah [Hokkien mee](/ms/food-lifestyle/hokkien-mee) yang namanya
+paling jelas ialah [Hokkien mee](/food-lifestyle/hokkien-mee) yang namanya
 mengelirukan, kerana ia sebenarnya dua hidangan berbeza. Di Kuala Lumpur dan bahagian
 tengah, "Hokkien mee" bermaksud mi kuning tebal yang direneh dalam sos soya gelap
 yang berperisa dengan daging babi, sotong dan lemak babi rangup; di Pulau Pinang dan
@@ -144,7 +144,7 @@ sepenuhnya pada tempat anda memesannya.
 Dapur Hokkien juga dikreditkan secara meluas dengan **bak kut teh** — secara harfiah
 "teh tulang daging" dalam bahasa Hokkien — kuah tulang rusuk babi dan isi perut yang
 berlada atau herba, direneh dengan bawang putih dan rempah, dimakan dengan nasi, cakoi
-dan cawan teh. Bandar [Klang](/ms/food-lifestyle/bak-kut-teh) paling kerap disebut
+dan cawan teh. Bandar [Klang](/food-lifestyle/bak-kut-teh) paling kerap disebut
 sebagai tempat kelahirannya, dan kedua-dua gaya Hokkien dan Teochew dituntut; asal
 usul tepatnya dipertikaikan dan menjadi subjek pelbagai dakwaan yang bersaing. Oleh
 sebab ia dibina atas daging babi, bak kut teh adalah tidak halal, dan versi ayam
@@ -166,7 +166,7 @@ Orang Cantonese juga memberi Malaysia masakan **claypot** — nasi dibakar dalam
 tanah liat sehingga kerak terbentuk di dasar, disaluti ayam, sosej *lap cheong* dan
 kicap pekat — serta **mi wonton** yang halus, mi telur nipis dengan ladu daging
 babi-dan-udang yang mempunyai peminat tempatannya sendiri (lihat
-[wonton mee](/ms/food-lifestyle/wonton-mee)). Banyak hidangan ini menggunakan daging
+[wonton mee](/food-lifestyle/wonton-mee)). Banyak hidangan ini menggunakan daging
 babi, walaupun versi ayam dan makanan laut tersedia secara meluas.
 
 ## Hakka: yong tau foo dan lei cha
@@ -176,7 +176,7 @@ membawa masakan rumah yang jimat dan mengenyangkan, sesuai dengan kehidupan susa
 penempatan pedalaman. Sumbangan Malaysia mereka yang paling terkenal ialah **yong tau
 foo** — tauhu, dan kemudian sayur seperti peria, cili dan bendi, diisi dengan pes ikan
 atau daging babi berperisa, kemudian direbus dalam sup jernih atau direneh dalam sos
-(lihat [yong tau foo](/ms/food-lifestyle/regional-and-ethnic-cuisines) dalam peta gaya
+(lihat [yong tau foo](/food-lifestyle/regional-and-ethnic-cuisines) dalam peta gaya
 serantau yang lebih luas). Pelanggan biasanya memilih sendiri potongan mereka dari
 dulang, menjadikannya salah satu hidangan Cina-Malaysia yang paling interaktif.
 
@@ -197,7 +197,7 @@ sayur jeruk, itik masak kicap, ikan kukus, telur dadar dan lobak awet — hidang
 selesa bergaya rumah dan bukan sepinggan tunggal.
 
 Orang Teochew juga rapat dikaitkan dengan mi beras leper — *kway teow* — dan mempunyai
-tuntutan yang kuat ke atas [char kway teow](/ms/food-lifestyle/char-kway-teow) yang
+tuntutan yang kuat ke atas [char kway teow](/food-lifestyle/char-kway-teow) yang
 berbau wok dan kini terkenal di seluruh negara, serta *kway teow th'ng*, mi yang sama
 dihidang dalam sup jernih dengan bebola ikan dan hirisan daging. Dapur Teochew juga
 terkenal dengan angsa dan itik masak dalam stok induk gelap (*lou*), dan ikan kukus
@@ -209,15 +209,15 @@ Orang Hainanese, kumpulan dialek besar terakhir yang tiba dalam jumlah ramai, se
 mendapati perniagaan yang mapan sudah diambil oleh komuniti terdahulu, lalu beralih ke
 bidang masakan dan perkhidmatan — terkenal sebagai tukang masak di rumah kolonial dan
 sebagai pengusaha kedai kopi. Hidangan ikonik mereka ialah
-[nasi ayam Hainan](/ms/food-lifestyle/hainanese-chicken-rice): ayam rebus dihidang
+[nasi ayam Hainan](/food-lifestyle/hainanese-chicken-rice): ayam rebus dihidang
 dengan nasi yang dimasak dalam lemak dan stok ayam, dengan sos cili dan halia di tepi.
 Ia diadaptasi daripada ayam Wenchang dari pulau Hainan, dan salasilah tepatnya — serta
 persaingan mengenainya antara Malaysia dan Singapura — banyak diperdebatkan.
 
 Sama pentingnya dari segi budaya ialah peranan Hainanese dalam
-[kopitiam](/ms/food-lifestyle/kopitiam-mamak-culture), kedai kopi tradisional. Tukang
+[kopitiam](/food-lifestyle/kopitiam-mamak-culture), kedai kopi tradisional. Tukang
 masak Hainanese membentuk menunya berupa kopi tempatan yang pekat, telur separuh masak
-dan roti bakar disapu [kaya](/ms/food-lifestyle/kaya-toast), jem kelapa-dan-telur —
+dan roti bakar disapu [kaya](/food-lifestyle/kaya-toast), jem kelapa-dan-telur —
 sarapan yang kekal menjadi rutin harian bagi jutaan rakyat Malaysia. Tukang masak
 Hainanese yang bekerja di dapur Eropah juga mengadaptasi hidangan Barat, menghasilkan
 tradisi "Hainanese Western" berupa chicken chop dan pork chop yang masih dijumpai di
@@ -256,25 +256,25 @@ secara individu.
 Benang kedua ialah **adaptasi**. Setiap aliran menyesuaikan diri secara tempatan,
 menukar sayur Cina kepada sayur tempatan, menambah cili dan *belacan*, dan menyerap
 teknik Melayu dan India. Hasil yang mengembara paling jauh ialah
-[masakan Nyonya, atau Peranakan](/ms/food-lifestyle/nyonya-peranakan-cuisine) — masakan
+[masakan Nyonya, atau Peranakan](/food-lifestyle/nyonya-peranakan-cuisine) — masakan
 orang Cina kelahiran Selat, yang mengahwinkan bahan Cina dengan rempah ratus Melayu
 dengan begitu menyeluruh sehingga hasilnya dianggap sebagai tradisi tersendiri. Ia
 berkongsi keturunan Cina dengan segala yang di atas tetapi paling baik difahami sebagai
 cabang tersendiri dan bukan dapur dialek yang lain. Dilihat bersama, aliran-aliran ini
 dan adaptasinya ialah teras penting peta masakan serantau dan etnik Malaysia yang lebih
-luas ([masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)).
+luas ([masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)).
 
 ## Apa yang seterusnya
 
-- [Hokkien mee](/ms/food-lifestyle/hokkien-mee) — dua hidangan yang sangat berbeza yang
+- [Hokkien mee](/food-lifestyle/hokkien-mee) — dua hidangan yang sangat berbeza yang
   berkongsi nama.
-- [Bak kut teh](/ms/food-lifestyle/bak-kut-teh) — kuah tulang rusuk babi dan asal usul
+- [Bak kut teh](/food-lifestyle/bak-kut-teh) — kuah tulang rusuk babi dan asal usul
   Klangnya yang dipertikaikan.
-- [Nasi ayam Hainan](/ms/food-lifestyle/hainanese-chicken-rice) — hidangan itu dan
+- [Nasi ayam Hainan](/food-lifestyle/hainanese-chicken-rice) — hidangan itu dan
   persaingan di sekelilingnya.
-- [Char kway teow](/ms/food-lifestyle/char-kway-teow) — mi beras leper goreng wok yang
+- [Char kway teow](/food-lifestyle/char-kway-teow) — mi beras leper goreng wok yang
   dikaitkan dengan tukang masak Teochew.
-- [Budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture) — dunia kedai
+- [Budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture) — dunia kedai
   kopi yang dibantu dibina oleh orang Hainanese.
-- [Masakan Nyonya (Peranakan)](/ms/food-lifestyle/nyonya-peranakan-cuisine) — cabang
+- [Masakan Nyonya (Peranakan)](/food-lifestyle/nyonya-peranakan-cuisine) — cabang
   Cina-Melayu yang tersendiri.

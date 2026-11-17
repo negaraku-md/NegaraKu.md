@@ -265,7 +265,7 @@ Jurang itu melebar dengan gaji. Pada RM6,710.80 jadual memberikan RM816 dan RM74
 untuk jumlah RM1,564; peratusan memberikan RM1,543.49. Butiran penuh, termasuk
 langkah 13 peratus ke 12 peratus pada RM5,000 dan Bahagian berasingan untuk
 pekerja berumur 60 tahun ke atas, terdapat dalam [panduan majikan
-KWSP](/ms/employment/epf-employer-guide).
+KWSP](/employment/epf-employer-guide).
 
 ### PERKESO dan SIP: semak siling anda sebelum semak kadar anda
 
@@ -295,7 +295,7 @@ menyatakan bahawa ia tidak lagi wajib bagi pekerja tempatan — mereka menyertai
 secara sukarela, dengan pilihan untuk menarik diri — sambil kekal wajib bagi
 pekerja asing. Itulah sebabnya tiga angka caruman bulanan maksimum yang berbeza
 sedang beredar bagi gaji yang sama. Lihat [panduan majikan PERKESO dan
-SIP](/ms/employment/socso-eis-employer-guide).
+SIP](/employment/socso-eis-employer-guide).
 
 ### PCB dan levi
 
@@ -412,7 +412,7 @@ pasport sah dan pas kerja, pada 2 peratus majikan dan 2 peratus pekerja di bawah
 Bahagian F baharu Jadual Ketiga. Pembantu rumah dikecualikan. Pengaturan pilihan
 lama, di mana majikan membayar RM5 secara tetap, telah tiada — Bahagian B dan D
 Jadual Ketiga telah dipadamkan oleh Act A1760/2025. Butiran dalam [KWSP untuk
-pekerja asing](/ms/employment/epf-foreign-workers-malaysia).
+pekerja asing](/employment/epf-foreign-workers-malaysia).
 
 **Siling PERKESO dan SIP RM6,000, dari 1 Oktober 2024.** Dibincangkan di atas.
 
@@ -467,13 +467,13 @@ pekerja majikan. Mereka berkongsi satu perkataan dan tiada apa-apa lagi.
 ## Apa yang seterusnya
 
 Kerjakan halaman khusus skim mengikut susunan wang meninggalkan akaun anda:
-[KWSP](/ms/employment/epf-employer-guide) dahulu, kerana mekanik Jadual Ketiga
+[KWSP](/employment/epf-employer-guide) dahulu, kerana mekanik Jadual Ketiga
 adalah yang paling kerap dilaksanakan dengan salah; kemudian [PERKESO dan
-SIP](/ms/employment/socso-eis-employer-guide) untuk mengesahkan siling dan
-kategori anda; kemudian [PCB/MTD](/ms/employment/pcb-mtd-malaysia) untuk aliran
+SIP](/employment/socso-eis-employer-guide) untuk mengesahkan siling dan
+kategori anda; kemudian [PCB/MTD](/employment/pcb-mtd-malaysia) untuk aliran
 penahanan cukai dan arahan CP38 yang sesekali menyertainya. Jika anda mengambil
 bukan warganegara, [mandat KWSP 2
-peratus](/ms/employment/epf-foreign-workers-malaysia) adalah kewajipan terbaharu
+peratus](/employment/epf-foreign-workers-malaysia) adalah kewajipan terbaharu
 dalam set ini dan yang paling mungkin hilang daripada sistem anda.
 
 Kemudian lakukan dua audit yang menangkap kebanyakan keingkaran: selaraskan

@@ -121,7 +121,7 @@ satu pihak, dan salad tropika yang cerah di pihak lain.
 Sao Nam terletak di 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200,
 dalam jarak berjalan kaki dari kawasan membeli-belah dan hiburan daerah ini. Ia
 merupakan salah satu penyenaraian Kuala Lumpur dalam
-[MICHELIN Guide Malaysia](/ms/food-lifestyle/michelin-guide-malaysia).
+[MICHELIN Guide Malaysia](/food-lifestyle/michelin-guide-malaysia).
 
 ## Nota lawatan
 

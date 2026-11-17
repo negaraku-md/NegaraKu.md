@@ -130,7 +130,7 @@ disejatkan dan bukannya dicedok ke atasnya — ialah intipati hidangan ini dan
 punca rasanya yang pekat serta sedikit berkaramel. Bersama nasi lemak dan
 lain-lain, ia ialah salah satu hidangan yang paling kerap disebut apabila orang
 memikirkan idea
-[masakan kebangsaan Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia).
+[masakan kebangsaan Malaysia](/food-lifestyle/national-dishes-of-malaysia).
 
 ## Masakan perlahan: pes rempah, santan dan kerisik
 
@@ -173,7 +173,7 @@ yang paling terkenal di **Negeri Sembilan**, yang adat dan masakannya masih
 membawa cap Minangkabau yang mendalam; negeri itu terkenal dengan gaya
 *rendang* gelapnya sendiri. Hidangan ini menjadi begitu sebati dalam masakan
 Melayu sehingga kini ia duduk dengan selesa dalam
-[masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+[masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
 Malaysia sendiri dan bukannya dibaca sebagai asing.
 
 Oleh sebab Malaysia dan Indonesia sama-sama menyayangi rendang, pemilikannya
@@ -196,7 +196,7 @@ besar, tahan lama, sesuai untuk hari menjamu aliran tetamu yang berterusan — d
 sebahagiannya simbolik, dengan kesabaran yang dituntutnya dibaca sebagai tanda
 keprihatinan terhadap mereka yang anda jamu. Peranan perayaannya meletakkannya
 tepat dalam kalangan
-[makanan perayaan yang dimakan merentasi sambutan di Malaysia](/ms/food-lifestyle/festive-foods-across-malaysian-festivals).
+[makanan perayaan yang dimakan merentasi sambutan di Malaysia](/food-lifestyle/festive-foods-across-malaysian-festivals).
 
 ## Variasi basah, kering dan serantau
 
@@ -234,7 +234,7 @@ senarai "wajib makan" untuk pengunjung ke Malaysia dan Indonesia.
 Kemasyhuran ini mempunyai sisi yang serius juga. Kedudukan rendang telah
 menyumbang kepada pengiktirafan warisan rasmi di kedua-dua belah selat,
 sebahagian daripada kisah yang lebih luas tentang
-[makanan Malaysia sebagai warisan negara dan dunia](/ms/food-lifestyle/malaysian-food-as-national-and-unesco-heritage).
+[makanan Malaysia sebagai warisan negara dan dunia](/food-lifestyle/malaysian-food-as-national-and-unesco-heritage).
 Kedudukan CNN tahun demi tahun yang tepat dan tarikh penyenaraian warisan
 berbeza antara penceritaan semula, jadi angka-angka di sini diberikan secara
 garis besar dan bukannya sebagai papan markah yang tepat.
@@ -243,9 +243,9 @@ garis besar dan bukannya sebagai papan markah yang tepat.
 
 Jika rendang membuatkan anda lapar akan meja makan yang lebih luas, mulakan
 dengan
-[hidangan yang paling kerap dipanggil masakan kebangsaan Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia),
+[hidangan yang paling kerap dipanggil masakan kebangsaan Malaysia](/food-lifestyle/national-dishes-of-malaysia),
 kemudian terokai
-[tradisi masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+[tradisi masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
 negara ini yang membentuk cara rendang dimasak dari satu negeri ke satu negeri.
 Untuk melihat di mana tempatnya dalam kalendar perayaan, baca tentang
-[makanan yang menjadi tunjang sambutan di Malaysia](/ms/food-lifestyle/festive-foods-across-malaysian-festivals).
+[makanan yang menjadi tunjang sambutan di Malaysia](/food-lifestyle/festive-foods-across-malaysian-festivals).

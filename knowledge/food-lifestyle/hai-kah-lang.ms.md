@@ -126,7 +126,7 @@ Hai Kah Lang terletak di 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100, da
 beroperasi pada waktu siang — lebih kurang 8 pagi hingga 5 petang — jadi ia sesuai
 untuk lawatan sarapan atau makan tengah hari dan bukannya makan malam lewat. Ia
 berhawa dingin dan menerima kad kredit, serta merupakan salah satu penyenaraian
-Kuala Lumpur dalam [MICHELIN Guide Malaysia](/ms/food-lifestyle/michelin-guide-malaysia).
+Kuala Lumpur dalam [MICHELIN Guide Malaysia](/food-lifestyle/michelin-guide-malaysia).
 
 ## Nota lawatan
 

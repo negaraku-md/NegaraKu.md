@@ -77,7 +77,7 @@ keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划",
 framework: history-culture
 ---
 
-Melangkah masuk ke Semenyih, Kampar atau Sekinchan hari ini, apa yang kebanyakannya anda lihat ialah wajah biasa sebuah pekan kecil: deretan rumah kedai, sebuah sekolah rendah Cina, tokong dan persatuan, kedai kopi di tepi jalan serta kedai runcit. Namun banyak tempat ini berkongsi satu identiti yang sama — ia adalah "Kampung Baru". Di sebalik label yang kelihatan biasa ini tersembunyi satu sejarah tentang [Darurat Malaya](/ms/malaysia/the-emergency), anti-pemberontakan dan perpindahan beramai-ramai.
+Melangkah masuk ke Semenyih, Kampar atau Sekinchan hari ini, apa yang kebanyakannya anda lihat ialah wajah biasa sebuah pekan kecil: deretan rumah kedai, sebuah sekolah rendah Cina, tokong dan persatuan, kedai kopi di tepi jalan serta kedai runcit. Namun banyak tempat ini berkongsi satu identiti yang sama — ia adalah "Kampung Baru". Di sebalik label yang kelihatan biasa ini tersembunyi satu sejarah tentang [Darurat Malaya](/malaysia/the-emergency), anti-pemberontakan dan perpindahan beramai-ramai.
 
 Kampung Baru Cina ialah sejenis komuniti petempatan tertentu di Malaysia. Untuk memahaminya, kita perlu kembali ke tahun-tahun 1948 hingga 1960 yang dikenali sebagai "Darurat Malaya" (Malayan Emergency). Rencana ini menerangkan, secara deskriptif dan berhemah, bagaimana Kampung Baru terbentuk, kehidupan awal di bawah kawalan, dan bagaimana ia berevolusi menjadi pekan hari ini selepas perang — tanpa membuat penilaian politik terhadap mana-mana pihak pada waktu itu.
 

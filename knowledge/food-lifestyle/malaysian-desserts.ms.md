@@ -106,7 +106,7 @@ mulut bersudu dan berais: gunung ais kisar, sup manis bersantan yang hangat, pud
 lembut dan beberapa manisan goreng kegemaran. Untuk kek bersaiz segigit yang
 dikukus dan dibakar serta dipegang dengan tangan — *onde-onde*, *kuih lapis*,
 *seri muka* dan yang selebihnya — lihat panduan berasingan untuk
-[kuih-muih](/ms/food-lifestyle/kuih-muih); kedua-dua dunia ini berkongsi perisa
+[kuih-muih](/food-lifestyle/kuih-muih); kedua-dua dunia ini berkongsi perisa
 tetapi berbeza dari segi bentuk.
 
 ## Tiga perisa yang menjiwai segalanya
@@ -114,9 +114,9 @@ tetapi berbeza dari segi bentuk.
 Sebelum pencuci mulut individu, ada baiknya mengetahui asas perisa yang mengikat
 mereka bersama. Jika banyak manisan Barat bersandar pada produk tenusu dan gula
 putih halus, manisan Malaysia bersandar pada trio berulang: **santan** untuk
-kepekatan, **[pandan](/ms/food-lifestyle/pandan)** untuk aromanya yang berumput,
+kepekatan, **[pandan](/food-lifestyle/pandan)** untuk aromanya yang berumput,
 seakan-akan vanila, dan warnanya yang hijau, serta
-**[gula melaka](/ms/food-lifestyle/gula-melaka)** — gula palma yang direbus menjadi
+**[gula melaka](/food-lifestyle/gula-melaka)** — gula palma yang direbus menjadi
 ketulan atau sirap gelap bertona karamel-berasap — untuk kemanisan. Banyak sekali
 pencuci mulut Malaysia ialah gabungan ketiga-tiga ini, dan itulah sebabnya
 semangkuk cendol dan semangkuk puding sago boleh terasa seperti sepupu walaupun
@@ -130,11 +130,11 @@ tempatan, saling meminjam dengan bebas antara satu sama lain.
 ## Pencuci mulut ais kisar: cendol dan ais kacang
 
 Dua pencuci mulut yang paling dikaitkan dengan petang yang panas kedua-duanya
-dibina atas ais yang dikisar halus. **[Cendol](/ms/food-lifestyle/cendol)** ialah
+dibina atas ais yang dikisar halus. **[Cendol](/food-lifestyle/cendol)** ialah
 yang mempunyai jeli lembut, hijau, berbentuk cacing yang diperbuat daripada tepung
 beras dan diwarnakan dengan pandan, dihidangkan di atas ais dengan santan dan sirap
 gula melaka, biasanya dengan kacang merah dan kadangkala jagung manis, pulut atau
-durian. **[Ais kacang](/ms/food-lifestyle/ais-kacang)** — yang lazim dipanggil
+durian. **[Ais kacang](/food-lifestyle/ais-kacang)** — yang lazim dipanggil
 **ABC**, daripada *air batu campur* ('ais bercampur') — sebaliknya ialah timbunan
 tinggi ais kisar yang ditimbun di atas campuran kacang merah, jagung manis, cincau
 (*cincau*), *attap chee* (biji palma) dan jeli, kemudian direnjis dengan sirap ros,
@@ -221,7 +221,7 @@ biasanya pandan yang berperanan; jika ia pekat dan berkrim tanpa banyak produk
 tenusu, itu santan; dan jika ia membawa kemanisan karamel yang gelap, hampir
 berasap, itu gula melaka dan bukannya gula biasa. Durian — 'raja buah-buahan'
 Malaysia yang terkenal dengan baunya yang kuat, dibincangkan dalam panduan
-[budaya dan jenis durian](/ms/food-lifestyle/durian-culture-and-varieties) — turut
+[budaya dan jenis durian](/food-lifestyle/durian-culture-and-varieties) — turut
 menyertai kemeriahan sebagai tambahan premium dalam cendol, ABC dan pelbagai
 *bubur*, walaupun ia merupakan toping mewah moden dan bukannya sebahagian daripada
 asas tradisional.
@@ -238,17 +238,17 @@ Tempat paling mudah untuk menemui kebanyakan pencuci mulut ini sekali gus ialah
 pasar malam atau kelompok makanan jalanan, di mana satu lorong sahaja boleh
 menawarkan cendol, ABC, pisang goreng dan apam balik dalam jarak beberapa langkah
 antara satu sama lain — lihat panduan
-[pasar malam dan makanan jalanan](/ms/food-lifestyle/pasar-malam-and-street-food)
+[pasar malam dan makanan jalanan](/food-lifestyle/pasar-malam-and-street-food)
 tentang cara pasar-pasar itu beroperasi.
 
 Untuk meneroka lebih lanjut:
 
-- [Cendol](/ms/food-lifestyle/cendol) dan
-  [ais kacang (ABC)](/ms/food-lifestyle/ais-kacang) — dua mangkuk ais kisar ikonik
+- [Cendol](/food-lifestyle/cendol) dan
+  [ais kacang (ABC)](/food-lifestyle/ais-kacang) — dua mangkuk ais kisar ikonik
   secara mendalam.
-- [Gula melaka](/ms/food-lifestyle/gula-melaka) — gula palma yang menjadi inti meja
+- [Gula melaka](/food-lifestyle/gula-melaka) — gula palma yang menjadi inti meja
   pencuci mulut, dan cara ia dibuat.
-- [Kuih-muih](/ms/food-lifestyle/kuih-muih) — kek dan snek bersaiz segigit yang
+- [Kuih-muih](/food-lifestyle/kuih-muih) — kek dan snek bersaiz segigit yang
   merupakan satu lagi tradisi manisan hebat Malaysia.
 
 Panduan ini ialah draf berbantukan AI; sila sahkan sebarang butiran kritikal

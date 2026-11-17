@@ -116,7 +116,7 @@ persimpangan tempat masakan Melayu, India dan Cina bertemu dan saling meminjam
 secara bebas. Tiada satu "kari Malaysia" yang tunggal. Sebaliknya ada tiga aliran
 luas — Melayu, India-Malaysia dan Cina/Peranakan — yang berkongsi teknik dan
 bahan sambil mengekalkan watak tersendiri. Memetakannya sebenarnya satu latihan
-membaca [masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+membaca [masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
 negara ini.
 
 Apa yang dimaksudkan dengan "kari" turut berubah mengikut masyarakat. Bagi tukang
@@ -139,7 +139,7 @@ bersama rempah yang disangai dan dikisar seperti ketumbar, jintan putih dan
 jintan manis. Pes itu digoreng perlahan dalam minyak sehingga ia menggelap dan
 mengeluarkan keharumannya, satu langkah yang dianggap tukang masak sebagai asas
 hidangan; himpunan penuh bahan aromatik ini diperincikan dalam panduan
-[rempah dan rempah ratus Malaysia](/ms/food-lifestyle/rempah-spices).
+[rempah dan rempah ratus Malaysia](/food-lifestyle/rempah-spices).
 
 Benang merah kedua ialah *santan*. Ia memperkaya sebahagian besar kari Malaysia —
 MICHELIN Guide menggambarkan gaya *masak lemak* Melayu secara ringkas sebagai
@@ -158,7 +158,7 @@ biasanya berasaskan santan, dan ia merentasi julat yang amat luas — daripada
 tempoyak* berasaskan durian di Perak dan Pahang. *Masak lemak* menamakan kaedah
 santan secara khusus, manakala *kari ayam* dan *kari kambing* ialah hidangan
 harian yang menonjolkan serbuk kari dan terdapat di hampir setiap gerai Melayu.
-Ini ialah hidangan ruji [masakan Melayu](/ms/food-lifestyle/malay-cuisine) yang
+Ini ialah hidangan ruji [masakan Melayu](/food-lifestyle/malay-cuisine) yang
 lebih luas.
 
 Penamaannya licin, dan wajar diberi syarat. Sumber menggambarkan istilah yang
@@ -187,14 +187,14 @@ asam laksa Pulau Pinang, walaupun kedua-duanya hidangan yang berbeza.
 ## Kari India-Malaysia: kepala ikan, dhal, varuval dan daun pisang
 
 Aliran India-Malaysia ialah tempat "kari" digunakan paling harfiah, dan ia amat
-luas. Hidangan [nasi daun pisang](/ms/food-lifestyle/banana-leaf-rice) biasanya
+luas. Hidangan [nasi daun pisang](/food-lifestyle/banana-leaf-rice) biasanya
 tiba dengan beberapa jenis serentak: *dhal* kacang lentil yang berkuah, kari
 sayur, mungkin kari kambing atau ayam yang kaya, dan *varuval* ayam atau ketam
 yang digoreng kering dengan perasa lada hitam dan daun kari yang pekat. Dapur
-Mamak (Muslim-India) yang memberikan Malaysia [nasi kandar](/ms/food-lifestyle/nasi-kandar)
+Mamak (Muslim-India) yang memberikan Malaysia [nasi kandar](/food-lifestyle/nasi-kandar)
 mencurahkan kari mereka sendiri — ikan, sotong, telur, ayam — dan menggalakkan
 *banjir* nasi dengan campuran pelbagai kuah. Keseluruhan keluarga ini diterokai
-dalam panduan [masakan India-Malaysia](/ms/food-lifestyle/indian-malaysian-cuisine).
+dalam panduan [masakan India-Malaysia](/food-lifestyle/indian-malaysian-cuisine).
 
 Yang paling termasyhur antaranya ialah *kari kepala ikan*. Ia secara meluas
 dianggap berasal bukan di Malaysia tetapi di Singapura: portal warisan Roots
@@ -219,13 +219,13 @@ rakyat yang dipertikaikan dan bukannya fakta yang mantap, jadi kisah itu paling
 baik diceritakan dengan sebelah kening terangkat.
 
 Kari lain yang bersebelahan Cina ialah hidangan mi. *Curry laksa* (laksa lemak)
-membanjiri mi dengan kuah kari santan, dan [curry mee](/ms/food-lifestyle/curry-mee)
+membanjiri mi dengan kuah kari santan, dan [curry mee](/food-lifestyle/curry-mee)
 Pulau Pinang yang hampir serupa ialah idea sama di bawah nama berbeza — bukti
 betapa jauhnya konsep kari mengembara ke dalam masakan Cina Malaysia.
 
 ## Rendang: kari kering
 
-[Rendang](/ms/food-lifestyle/rendang) ialah hidangan yang menguji seluruh
+[Rendang](/food-lifestyle/rendang) ialah hidangan yang menguji seluruh
 kategori ini. Menu Barat lazim memanggilnya kari, tetapi rendang tulen dimasak
 secara bertentangan dengan kuah: cecair santan-dan-rempah direneh berjam-jam
 sehingga ia menyejat dan daging menggoreng dalam minyak berempahnya sendiri,
@@ -264,12 +264,12 @@ satu teknik menjawab kepada tiga dapur.
 
 ## Apa yang seterusnya
 
-- [Rendang](/ms/food-lifestyle/rendang) — kari kering di pinggir kategori ini.
-- [Masakan Melayu](/ms/food-lifestyle/malay-cuisine) dan
-  [masakan India-Malaysia](/ms/food-lifestyle/indian-malaysian-cuisine) — dua
+- [Rendang](/food-lifestyle/rendang) — kari kering di pinggir kategori ini.
+- [Masakan Melayu](/food-lifestyle/malay-cuisine) dan
+  [masakan India-Malaysia](/food-lifestyle/indian-malaysian-cuisine) — dua
   aliran yang membentuk kebanyakan kari Malaysia.
-- [Rempah dan rempah ratus Malaysia](/ms/food-lifestyle/rempah-spices) — pes
+- [Rempah dan rempah ratus Malaysia](/food-lifestyle/rempah-spices) — pes
   tumbuk yang mendasari hampir setiap mangkuk.
-- [Nasi daun pisang](/ms/food-lifestyle/banana-leaf-rice) dan
-  [nasi kandar](/ms/food-lifestyle/nasi-kandar) — tempat kari India-Malaysia
+- [Nasi daun pisang](/food-lifestyle/banana-leaf-rice) dan
+  [nasi kandar](/food-lifestyle/nasi-kandar) — tempat kari India-Malaysia
   dimakan dengan paling lengkap.

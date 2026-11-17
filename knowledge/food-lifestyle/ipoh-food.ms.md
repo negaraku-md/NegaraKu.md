@@ -152,8 +152,8 @@ makanan dan lebih baik dianggap belum disahkan. Apa yang tidak diragui ialah
 jangkauannya: rangkaian OldTown White Coffee, dengan sachet segeranya di seluruh
 dunia, tumbuh daripada Ipoh. Untuk tradisi minuman kedai kopi Malaysia yang lebih
 luas tempat ini tergolong, lihat
-[kopi, teh tarik dan minuman kedai kopi](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks)
-dan [budaya kopi di Malaysia](/ms/food-lifestyle/coffee-culture-malaysia) yang lebih luas.
+[kopi, teh tarik dan minuman kedai kopi](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks)
+dan [budaya kopi di Malaysia](/food-lifestyle/coffee-culture-malaysia) yang lebih luas.
 
 ## Ayam tauge (nga choy kai)
 
@@ -163,7 +163,7 @@ sebagai *tauge ayam* (芽菜鸡), ia ialah hidangan yang nampak biasa secara men
 ayam direbus atau dikukus, dipotong dan digaul dengan sos soya ringan dan minyak
 bijan, dihidangkan bersama segunung tauge yang dicelur dan, biasanya, semangkuk
 mi beras leper yang licin dalam sup ayam jernih. Ia sepupu rapat
-[nasi ayam Hainan](/ms/food-lifestyle/hainanese-chicken-rice), dengan tauge
+[nasi ayam Hainan](/food-lifestyle/hainanese-chicken-rice), dengan tauge
 menggantikan nasi yang harum.
 
 Keseluruhan hidangan itu ialah pameran untuk tauge tempatan yang terkenal itu,
@@ -189,7 +189,7 @@ disemak secara tempatan.
 
 Mi beras leper Ipoh muncul dalam bentuk lain juga — digoreng dengan kuah gelap
 sebagai *chau hor fun*, atau dikukus menjadi *chee cheong fun* — sebahagian
-daripada dunia [mi](/ms/food-lifestyle/malaysian-noodles) Malaysia yang lebih
+daripada dunia [mi](/food-lifestyle/malaysian-noodles) Malaysia yang lebih
 luas. Gerai seperti Thean Chun di Old Town telah lama dikaitkan dengan versi sup
 jernih, walaupun, seperti biasa, gerai dan pengusaha tertentu berubah dari semasa
 ke semasa.
@@ -233,18 +233,18 @@ besar yang ditanam di tanah kaya mineral sekitar Tambun di pinggir Ipoh — terr
 yang sama, suka ditegaskan penduduk tempatan, yang memberi tauge kerangupannya.
 Gerai tepi jalan menyusunnya tinggi-tinggi untuk pengembara yang lalu. Kedua-dua
 biskut dan buah terletak dalam peta
-[masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+[masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
 Malaysia yang lebih luas, di mana gudang makanan setiap bandar memberitahu anda
 sesuatu tentang sejarahnya.
 
 ## Apa seterusnya
 
-- [Nasi ayam Hainan](/ms/food-lifestyle/hainanese-chicken-rice) — tradisi ayam
+- [Nasi ayam Hainan](/food-lifestyle/hainanese-chicken-rice) — tradisi ayam
   rebus yang di sampingnya ayam tauge Ipoh membesar.
-- [Mi Malaysia](/ms/food-lifestyle/malaysian-noodles) — di mana hor fun dan kai
+- [Mi Malaysia](/food-lifestyle/malaysian-noodles) — di mana hor fun dan kai
   see hor fun tergolong dalam keluarga mi negara ini.
-- [Kopi, teh tarik dan minuman kedai kopi](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks)
-  dan [budaya kopi di Malaysia](/ms/food-lifestyle/coffee-culture-malaysia) —
+- [Kopi, teh tarik dan minuman kedai kopi](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks)
+  dan [budaya kopi di Malaysia](/food-lifestyle/coffee-culture-malaysia) —
   budaya minuman di sebalik Ipoh white coffee.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   peta yang lebih luas tentang cara negeri dan masyarakat Malaysia makan.

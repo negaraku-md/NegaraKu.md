@@ -82,7 +82,7 @@ framework: profile
 
 Aliyaa ialah sebuah restoran Sri Lanka di Bukit Damansara, Kuala Lumpur, dan
 salah satu daripada tempat yang agak sedikit di bandar ini yang mengkhususkan
-masakan tersebut. Ia muncul dalam [MICHELIN Guide Malaysia](/ms/food-lifestyle/michelin-guide-malaysia)
+masakan tersebut. Ia muncul dalam [MICHELIN Guide Malaysia](/food-lifestyle/michelin-guide-malaysia)
 dengan Bib Gourmand.
 
 ## Bib Gourmand untuk masakan Sri Lanka

@@ -99,7 +99,7 @@ dirinya sendiri — pekat, masam dan meredakan — dan itulah yang menjadikan la
 baik untuk kepanasan dan pedas. Dari situ ia berpecah mengikut gaya, dan gayanya penting.
 
 Untuk melihat kedudukan lassi dalam kalangan papan minuman negara yang lebih luas, lihat hub
-[minuman Malaysia](/ms/food-lifestyle/malaysian-drinks). Artikel ini ialah tinjauan mendalam tentang
+[minuman Malaysia](/food-lifestyle/malaysian-drinks). Artikel ini ialah tinjauan mendalam tentang
 minuman yogurt itu sendiri.
 
 ## Manis, masin, dan mangga
@@ -127,20 +127,20 @@ Punjab yang sudah lama mapan dan bukannya mematoknya kepada satu tarikh. Di Mala
 masyarakat India negara ini dan menetap dalam khazanah minuman restoran India dan **mamak**, tempat
 ia telah menyejukkan hidangan pedas sejak itu — termasuk di gerai lassi yang menarik pengikutnya
 sendiri, seperti gerai yang terkenal di Ipoh. Untuk dunia makan-di-luar yang lebih luas yang menjadi
-miliknya, lihat [budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture).
+miliknya, lihat [budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture).
 
 ## Penyejuk yang vegetarian dan halal
 
 Sebahagian daripada jangkauan lassi ialah ia sesuai dengan meja hampir semua orang. Ia **berasaskan
 yogurt dan tanpa daging** — vegetarian, dan pada dirinya halal — yang menjadikannya padanan semula
-jadi untuk hidangan [nasi daun pisang](/ms/food-lifestyle/banana-leaf-rice) vegetarian dan pesanan
+jadi untuk hidangan [nasi daun pisang](/food-lifestyle/banana-leaf-rice) vegetarian dan pesanan
 yang mudah merentasi masyarakat. Seperti mana-mana minuman, jaminan halal melekat pada premis, jadi
 pengunjung yang memerlukan pensijilan patut menyemak setiap restoran.
 
 ## Apa yang seterusnya
 
 - Petakan lassi terhadap papan minuman negara yang lebih luas dalam hub
-  [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
-- Pasangkannya dengan sepinggan dalam [nasi daun pisang](/ms/food-lifestyle/banana-leaf-rice).
+  [minuman Malaysia](/food-lifestyle/malaysian-drinks).
+- Pasangkannya dengan sepinggan dalam [nasi daun pisang](/food-lifestyle/banana-leaf-rice).
 - Terokai dunia makan-di-luar yang menjadi miliknya dalam
-  [budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture).
+  [budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture).

@@ -99,7 +99,7 @@ framework: profile
 
 Sebahagian makanan terbaik Pulau Pinang datang dari sebuah gerai, bukan dapur,
 dan Super Star Koay Teow Soup ialah buktinya. Berniaga di Lebuh Kimberley sejak
-1960, ia membawa [Bib Gourmand](/ms/food-lifestyle/michelin-guide-malaysia)
+1960, ia membawa [Bib Gourmand](/food-lifestyle/michelin-guide-malaysia)
 MICHELIN Guide dan satu barisan tetap yang setanding.
 
 ## Apa ia
@@ -120,7 +120,7 @@ tentang masakan gerai Pulau Pinang yang berakar Teochew.
 ## Di mana mencarinya
 
 Gerai ini terletak di 78 Lebuh Kimberley, George Town, 10100, di salah satu
-[jalan makanan](/ms/food-lifestyle/penang-food) yang paling padat di kawasan
+[jalan makanan](/food-lifestyle/penang-food) yang paling padat di kawasan
 lama. Ia hanya menerima tunai dan tutup pada hari Rabu.
 
 ## Tiga generasi kemudian

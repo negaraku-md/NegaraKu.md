@@ -106,7 +106,7 @@ yang masam dan pedas — cerah dengan asam jawa dan tanpa santan. **Nyonya laksa
 lemak** pula sebaliknya: kuah santan yang pekat dan berkrim. Keropok udang
 menambah kerangupan pada kedua-duanya. Untuk memahami bagaimana dua gaya ini
 tergolong dalam keluarga laksa Malaysia yang lebih luas, lihat panduan kami
-tentang [laksa](/ms/food-lifestyle/laksa).
+tentang [laksa](/food-lifestyle/laksa).
 
 ## Di luar semangkuk laksa
 
@@ -121,5 +121,5 @@ Laksalicious terletak di **117-117A Jalan Hutton, George Town, 10050**,
 perhentian yang mudah pada mana-mana laluan makan George Town. Kedai ini kecil,
 jadi masa penting; sahkan waktu dan hari operasi semasa dengan restoran sebelum
 melawat. Untuk lebih banyak keistimewaan pulau ini, lihat panduan kami tentang
-[makanan Pulau Pinang](/ms/food-lifestyle/penang-food) dan gambaran keseluruhan
-[MICHELIN Guide di Malaysia](/ms/food-lifestyle/michelin-guide-malaysia).
+[makanan Pulau Pinang](/food-lifestyle/penang-food) dan gambaran keseluruhan
+[MICHELIN Guide di Malaysia](/food-lifestyle/michelin-guide-malaysia).

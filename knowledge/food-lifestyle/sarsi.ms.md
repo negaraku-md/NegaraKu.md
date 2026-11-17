@@ -103,7 +103,7 @@ yang bergas, manis dan tersendiri — manis seperti kola, tetapi dengan watak "m
 yang tidak boleh disalah kenali yang menandakan keluarga sarsaparila dan root beer.
 
 Untuk melihat kedudukan Sarsi dalam kalangan papan minuman negara yang lebih luas, lihat
-hub [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks). Artikel ini ialah tinjauan
+hub [minuman Malaysia](/food-lifestyle/malaysian-drinks). Artikel ini ialah tinjauan
 mendalam tentang soda sarsaparila itu sendiri.
 
 ## Jenama F&N, dan nota tentang nama
@@ -124,7 +124,7 @@ berbuih, satu **float sarsaparila** buatan sendiri yang melembutkan rasa manis d
 isi, sedikit seperti soda ais krim. Ia hidangan nostalgia yang membesarkan ramai rakyat
 Malaysia, dan satu yang mudah dicuba: pesan Sarsi, tambah susu, kacau. Untuk kegemaran moden
 lain yang manis yang berkongsi peti sejuk dengannya, lihat
-[Milo dinosaur](/ms/food-lifestyle/milo-dinosaur) dan [bubble tea](/ms/food-lifestyle/bubble-tea).
+[Milo dinosaur](/food-lifestyle/milo-dinosaur) dan [bubble tea](/food-lifestyle/bubble-tea).
 
 ## Minuman ringan, bukan seduhan
 
@@ -137,6 +137,6 @@ ialah **tanda halal pada pembungkusan** itu sendiri.
 ## Apa yang seterusnya
 
 - Petakan Sarsi terhadap papan minuman negara yang lebih luas dalam hub
-  [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
-- Temui kegemaran nostalgia lain yang manis dalam [Milo dinosaur](/ms/food-lifestyle/milo-dinosaur).
-- Terokai minuman rangkaian moden dalam [bubble tea](/ms/food-lifestyle/bubble-tea).
+  [minuman Malaysia](/food-lifestyle/malaysian-drinks).
+- Temui kegemaran nostalgia lain yang manis dalam [Milo dinosaur](/food-lifestyle/milo-dinosaur).
+- Terokai minuman rangkaian moden dalam [bubble tea](/food-lifestyle/bubble-tea).

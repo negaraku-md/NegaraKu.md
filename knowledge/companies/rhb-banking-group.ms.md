@@ -83,7 +83,7 @@ RHB ialah salah satu nama yang paling dikenali oleh kebanyakan rakyat Malaysia p
 
 ## Gambaran Keseluruhan
 
-RHB Banking Group merupakan salah satu kumpulan perbankan terbesar di Malaysia, diterajui oleh RHB Bank Berhad, sebuah syarikat awam yang tersenarai di Bursa Malaysia di bawah kod saham 1066. Ia lazimnya digambarkan sebagai kumpulan perkhidmatan kewangan bersepadu sepenuhnya keempat terbesar di Malaysia, selepas [Maybank](/ms/companies/maybank), [CIMB](/ms/companies/cimb) dan [Public Bank](/ms/companies/public-bank). Kumpulan ini beribu pejabat di Kuala Lumpur dan menyediakan rangkaian penuh perkhidmatan perbankan dan kewangan menerusi satu set anak syarikat khusus.
+RHB Banking Group merupakan salah satu kumpulan perbankan terbesar di Malaysia, diterajui oleh RHB Bank Berhad, sebuah syarikat awam yang tersenarai di Bursa Malaysia di bawah kod saham 1066. Ia lazimnya digambarkan sebagai kumpulan perkhidmatan kewangan bersepadu sepenuhnya keempat terbesar di Malaysia, selepas [Maybank](/companies/maybank), [CIMB](/companies/cimb) dan [Public Bank](/companies/public-bank). Kumpulan ini beribu pejabat di Kuala Lumpur dan menyediakan rangkaian penuh perkhidmatan perbankan dan kewangan menerusi satu set anak syarikat khusus.
 
 RHB melaporkan jumlah aset kira-kira RM358 bilion setakat 31 Disember 2025, meningkat daripada RM350 bilion setahun sebelumnya, dan keuntungan bersih RM3.4 bilion bagi tahun kewangan 2025 (peningkatan 7.8% berbanding TK2024), menurut pengumuman keputusan kumpulan ini. Pemegang saham terbesarnya ialah Kumpulan Wang Simpanan Pekerja (KWSP), kumpulan wang simpanan persaraan berkanun Malaysia.
 
@@ -95,7 +95,7 @@ Akar umbi RHB menjunam jauh ke dalam sejarah perbankan Malaysia. Nenek moyang te
 - Pada 1999, kumpulan ini menyerap Sime Bank (bekas United Malayan Banking Corporation, bermula sejak 1959).
 - Pada 2003, ia bergabung dengan Bank Utama (Malaysia) Berhad.
 
-Satu lagi transformasi berlaku pada 2012, apabila RHB Capital Berhad mengambil alih OSK Investment Bank menerusi pertukaran saham; kedua-dua perniagaan perbankan pelaburan digabungkan berkuat kuasa April 2013, membesarkan dengan ketara bahagian pasaran modal kumpulan ini. Pada 2016, RHB Bank Berhad mengambil alih status penyenaraian RHB Capital Berhad untuk menjadi syarikat induk kewangan tersenarai kumpulan ini. Cadangan penggabungan dengan kumpulan [AmBank](/ms/companies/ambank-group) diterokai pada 2017 tetapi dibatalkan selepas pihak-pihak terbabit tidak dapat bersetuju dengan terma.
+Satu lagi transformasi berlaku pada 2012, apabila RHB Capital Berhad mengambil alih OSK Investment Bank menerusi pertukaran saham; kedua-dua perniagaan perbankan pelaburan digabungkan berkuat kuasa April 2013, membesarkan dengan ketara bahagian pasaran modal kumpulan ini. Pada 2016, RHB Bank Berhad mengambil alih status penyenaraian RHB Capital Berhad untuk menjadi syarikat induk kewangan tersenarai kumpulan ini. Cadangan penggabungan dengan kumpulan [AmBank](/companies/ambank-group) diterokai pada 2017 tetapi dibatalkan selepas pihak-pihak terbabit tidak dapat bersetuju dengan terma.
 
 ## Segmen Perniagaan
 

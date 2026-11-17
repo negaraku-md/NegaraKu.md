@@ -108,6 +108,6 @@ Akta ini melindungi pendedahan yang dibuat kepada agensi penguatkuasaan — buka
 ## Apa seterusnya
 
 - Di bawah Akta ini, perlindungan melekat apabila sesuatu pendedahan dibuat kepada agensi penguatkuasaan yang berkaitan (seperti SPRM) dan sebelum maklumat itu didedahkan kepada umum.
-- Gambaran keseluruhan [SPRM](/ms/law/macc-sprm) menerangkan agensi utama yang mengendalikan pendedahan rasuah.
-- [Akta Kerja 1955](/ms/law/employment-act-1955) meliputi perlindungan dan remedi berkaitan yang relevan dengan tindakan balas dalam konteks pekerjaan.
+- Gambaran keseluruhan [SPRM](/law/macc-sprm) menerangkan agensi utama yang mengendalikan pendedahan rasuah.
+- [Akta Kerja 1955](/law/employment-act-1955) meliputi perlindungan dan remedi berkaitan yang relevan dengan tindakan balas dalam konteks pekerjaan.
 - Ambil perhatian bahawa Parlimen telah membahaskan pindaan kepada Akta 711; perlindungan dan alasan di atas mencerminkan Akta seperti yang sedang berkuat kuasa, bukan apa-apa perubahan yang dicadangkan.

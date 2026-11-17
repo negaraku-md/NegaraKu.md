@@ -109,7 +109,7 @@ Hokkien **prawn mee**; gerai ini turut menghidangkan **loh mee** dalam kuah peka
 yang gelap, dan pelanggan tetap sering memesan **campuran kedua-duanya** dalam
 satu mangkuk. Kira-kira sedozen topping tambahan membolehkan anda membina mangkuk
 itu mengikut citarasa anda. Hidangan ini tergolong dalam keluarga lebih luas
-[mi Malaysia](/ms/food-lifestyle/malaysian-noodles) di Pulau Pinang.
+[mi Malaysia](/food-lifestyle/malaysian-noodles) di Pulau Pinang.
 
 ## Di mana ia terletak
 
@@ -124,6 +124,6 @@ Ini ialah perhentian waktu malam — gerai ini berniaga pada waktu malam — jad
 datang dalam keadaan lapar selepas gelap dan bawa wang tunai. Waktu dan unit yang
 tepat mungkin berbeza antara penyenaraian, jadi berbaloi untuk mengesahkan sebelum
 anda pergi. Untuk lebih banyak kanon penjaja pulau ini, lihat panduan kami tentang
-[makanan Pulau Pinang](/ms/food-lifestyle/penang-food) dan
-[MICHELIN Guide di Malaysia](/ms/food-lifestyle/michelin-guide-malaysia) yang
+[makanan Pulau Pinang](/food-lifestyle/penang-food) dan
+[MICHELIN Guide di Malaysia](/food-lifestyle/michelin-guide-malaysia) yang
 lebih luas.

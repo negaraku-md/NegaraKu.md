@@ -131,7 +131,7 @@ Pengendali mudah alih utama hari ini ialah:
 
 Di samping ini berjalan lapisan **pengendali rangkaian maya mudah alih (MVNO)** dan jenama prabayar (seperti yang menunggang atas rangkaian besar) yang menambah persaingan di hujung bajet.
 
-Di sebelah tetap, peneraju pasaran ialah **[Telekom Malaysia](/ms/companies/telekom-malaysia) (TM)**, bekas monopoli negara, yang jenama **unifi**-nya mendominasi jalur lebar tetap dan yang juga memiliki sebahagian besar tulang belakang nasional dan ketersambungan antarabangsa. TM bersaing dengan **Maxis Fibre**, **TIME dotCom** (kuat dalam fiber bangunan tinggi dan bandar) dan **YTL Communications**, yang menjalankan jenama **Yes**. Beberapa pengendali kini menjual pakej **menyatu** — mudah alih dan jalur lebar rumah digabungkan — yang merupakan hadapan utama dalam persaingan untuk perbelanjaan isi rumah.
+Di sebelah tetap, peneraju pasaran ialah **[Telekom Malaysia](/companies/telekom-malaysia) (TM)**, bekas monopoli negara, yang jenama **unifi**-nya mendominasi jalur lebar tetap dan yang juga memiliki sebahagian besar tulang belakang nasional dan ketersambungan antarabangsa. TM bersaing dengan **Maxis Fibre**, **TIME dotCom** (kuat dalam fiber bangunan tinggi dan bandar) dan **YTL Communications**, yang menjalankan jenama **Yes**. Beberapa pengendali kini menjual pakej **menyatu** — mudah alih dan jalur lebar rumah digabungkan — yang merupakan hadapan utama dalam persaingan untuk perbelanjaan isi rumah.
 
 ## Jalur lebar mudah alih berbanding tetap
 

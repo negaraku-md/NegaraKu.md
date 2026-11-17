@@ -93,7 +93,7 @@ yang yakin dengan hidangan klasik.
 
 Thara memegang MICHELIN **Bib Gourmand** — tanda panduan ini untuk masakan
 berkualiti baik pada harga berbaloi — dalam
-[MICHELIN Guide Kuala Lumpur & Penang](/ms/food-lifestyle/michelin-guide-malaysia).
+[MICHELIN Guide Kuala Lumpur & Penang](/food-lifestyle/michelin-guide-malaysia).
 Ia satu pengiktirafan yang berasingan daripada MICHELIN stars: jika bintang
 memberi ganjaran untuk tahap masakan tertentu, Bib Gourmand memberi ganjaran
 untuk hidangan yang memuaskan pada harga lembut, dan pemeriksa menyedari
@@ -112,7 +112,7 @@ pembuka yang mesti dicuba.
 
 Thara menduduki ruang yang lapang dan dihiasi dengan nuansa hijau yang
 menenangkan di **5 Lorong Prangin, George Town, 10100**, dalam jarak mudah
-daripada mercu tanda [makanan Pulau Pinang](/ms/food-lifestyle/penang-food) lain
+daripada mercu tanda [makanan Pulau Pinang](/food-lifestyle/penang-food) lain
 di bandar dalaman. Senarai itu meletakkannya pada tahap harga sederhana ($$),
 lebih tinggi daripada gerai makan di bandar tetapi sederhana untuk sebuah
 restoran yang menyediakan tempat duduk.

@@ -108,18 +108,18 @@ swa-ajar sekali gus nama restoran ini, Beh Gaik Lean.
 ## Apa itu
 
 Restoran ini terletak di 1 Lebuh Bishop di tengah-tengah George Town. MICHELIN
-Guide mengelaskannya sebagai [Peranakan](/ms/food-lifestyle/nyonya-peranakan-cuisine)
+Guide mengelaskannya sebagai [Peranakan](/food-lifestyle/nyonya-peranakan-cuisine)
 — masakan masyarakat Cina Selat, atau Nyonya — dan menyenaraikannya pada tahap
 harga `$$` yang berpatutan, luar biasa rendah bagi sebuah restoran berbintang.
 Dalam huraian Guide itu, "memorabilia di tingkap pameran dan lagu latar era 60-an
 memancarkan pesona zaman silam," dan banyak hidangan disediakan dari asas. Ia
 merupakan salah satu daripada dua restoran berbintang MICHELIN di Pulau Pinang
-dan sebuah mercu tanda [budaya makanan George Town](/ms/food-lifestyle/penang-food).
+dan sebuah mercu tanda [budaya makanan George Town](/food-lifestyle/penang-food).
 
 ## Pengiktirafan MICHELIN
 
 Restoran ini antara yang dianugerahkan bintang MICHELIN dalam
-[MICHELIN Guide Kuala Lumpur & Penang](/ms/food-lifestyle/michelin-guide-malaysia)
+[MICHELIN Guide Kuala Lumpur & Penang](/food-lifestyle/michelin-guide-malaysia)
 sulung, yang diumumkan pada Disember 2022, bagi apa yang disifatkan Guide
 sebagai "masakan Peranakan yang dihasilkan daripada resipi rahsia menggunakan
 bahan berkualiti." Ia telah mengekalkan satu bintang menerusi pemilihan 2026.
@@ -134,7 +134,7 @@ sayur), *gulai tumis* yang menurut Guide pes karinya menggunakan lebih daripada
 lapan bahan, dan *nasi ulam*, yang disifatkan sebagai resipi zaman dahulu.
 Masakan ini bersandar pada penyediaan dari asas yang intensif tenaga dan
 bukannya jalan pintas — benang merah
-[tradisi Nyonya dan Peranakan](/ms/arts-culture/peranakan) yang lebih luas.
+[tradisi Nyonya dan Peranakan](/arts-culture/peranakan) yang lebih luas.
 
 ## Chef
 

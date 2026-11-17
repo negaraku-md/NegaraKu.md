@@ -117,9 +117,9 @@ tidak dapat dimakan serta-merta.
 Hasilnya terletak jauh daripada nada cili-dan-kelapa kebanyakan makanan Malaysia.
 Hidangan Kadazan-Dusun cenderung masam, bersih dan kuat baunya berbanding kaya,
 dan pengawetan ialah satu kraf utama, bukan sekadar renungan kemudian. Ia satu
-sudut tersendiri dalam dunia [makanan Sabah](/ms/food-lifestyle/sabah-food) yang
+sudut tersendiri dalam dunia [makanan Sabah](/food-lifestyle/sabah-food) yang
 lebih luas dan dalam peta Malaysia yang lebih besar bagi
-[masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines).
+[masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines).
 
 ## Hinava: ikan mentah yang diperam air limau
 
@@ -243,7 +243,7 @@ menjadi, buat satu musim, kenikmatannya yang paling lantang.
 
 ## Apa yang seterusnya
 
-- [Makanan Sabah](/ms/food-lifestyle/sabah-food) — lanskap kulinari negeri yang
+- [Makanan Sabah](/food-lifestyle/sabah-food) — lanskap kulinari negeri yang
   lebih luas, yang mana masakan Kadazan-Dusun ialah jantung peribuminya.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   bagaimana setiap negeri dan komuniti Malaysia makan secara berbeza.

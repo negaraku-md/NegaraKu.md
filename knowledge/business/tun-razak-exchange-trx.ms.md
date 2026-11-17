@@ -141,7 +141,7 @@ TRX direka sebagai **daerah guna campuran**, bukan enklaf pejabat semata-mata â€
 
 ## Cara sampai ke sana
 
-Kesalinghubungan dibina masuk dari awal. **Stesen MRT Tun Razak Exchange**, dibuka sejak **2017**, terletak di daerah ini dan dikhidmati oleh dua laluan MRT, mengikat TRX terus ke dalam [rangkaian keretapi Lembah Klang](/ms/transport/klang-valley-rail). Penambat transit itu sebahagian daripada apa yang membezakan sebuah daerah kewangan yang dirancang daripada taburan menara.
+Kesalinghubungan dibina masuk dari awal. **Stesen MRT Tun Razak Exchange**, dibuka sejak **2017**, terletak di daerah ini dan dikhidmati oleh dua laluan MRT, mengikat TRX terus ke dalam [rangkaian keretapi Lembah Klang](/transport/klang-valley-rail). Penambat transit itu sebahagian daripada apa yang membezakan sebuah daerah kewangan yang dirancang daripada taburan menara.
 
 ## Kisah asal usul: 1MDB dan pemindahan ke MOF Inc
 

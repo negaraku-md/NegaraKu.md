@@ -103,7 +103,7 @@ menenangkan, dan langsung tidak pahit. Namanya sendiri hanyalah perkataan Melayu
 Hokkien *kekwa*, yang bermaksud krisantemum.
 
 Untuk melihat kedudukan air kekwa dalam kalangan papan minuman negara yang lebih luas,
-lihat hub [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks). Artikel ini ialah
+lihat hub [minuman Malaysia](/food-lifestyle/malaysian-drinks). Artikel ini ialah
 tinjauan mendalam tentang cawan krisantemum itu sendiri.
 
 ## Tradisi 'menyejukkan'
@@ -127,7 +127,7 @@ memintanya **kurang manis**. Di kedai dan pasar raya ia datang **berbotol dan be
 teh krisantemum sedia-minum yang dijual oleh pelbagai jenama di seluruh Malaysia dan
 Singapura, tetap kemanisannya tetapi amat mudah dibawa. Kedua-duanya minuman bunga yang
 sama seperti madu. Bersama minuman menyejukkan lain seperti
-[cincau](/ms/food-lifestyle/cincau) dan [barli](/ms/food-lifestyle/barley), ia melengkapkan
+[cincau](/food-lifestyle/cincau) dan [barli](/food-lifestyle/barley), ia melengkapkan
 sisi negara ini yang lebih lembut dan tidak bersusu.
 
 ## Di mana untuk mendapatkannya
@@ -135,12 +135,12 @@ sisi negara ini yang lebih lembut dan tidak bersusu.
 Carilah air kekwa di **kopitiam**, **gerai teh herba** khusus, dan di rak sejuk mana-mana
 kedai. Ia minuman harian — tandingan yang lembut dan beraroma bunga kepada kopi dan teh
 tarik yang pekat yang dituang di kaunter yang sama. Untuk institusi yang menuangkannya,
-lihat [budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture).
+lihat [budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture).
 
 ## Apa yang seterusnya
 
 - Petakan air kekwa terhadap papan minuman negara yang lebih luas dalam hub
-  [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
-- Temui klasik menyejukkan yang lain dalam [cincau](/ms/food-lifestyle/cincau).
+  [minuman Malaysia](/food-lifestyle/malaysian-drinks).
+- Temui klasik menyejukkan yang lain dalam [cincau](/food-lifestyle/cincau).
 - Terokai dunia kopitiam yang menjadi miliknya dalam
-  [budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture).
+  [budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture).

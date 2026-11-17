@@ -103,8 +103,8 @@ serta menguatkuasakan undang-undang kecil bangunan. Satu perkara yang ia *bukan*
 badan yang dipilih. **Ahli majlis dilantik oleh kerajaan negeri**, bukan diundi
 — pilihan raya kerajaan tempatan digantung pada tahun 1965 dan Akta ini
 memperuntukkan ahli majlis yang dilantik (artikel [pihak berkuasa
-tempatan](/ms/states/local-councils) dan [kerajaan
-tempatan](/ms/government/local-government-councils) membincangkan sejarah itu).
+tempatan](/states/local-councils) dan [kerajaan
+tempatan](/government/local-government-councils) membincangkan sejarah itu).
 
 **ADUN anda — Ahli Dewan Undangan Negeri.** Wakil rakyat pilihan anda dalam dewan
 undangan **negeri** (Dewan Undangan Negeri). ADUN menguruskan perkara **peringkat
@@ -201,7 +201,7 @@ mengeskalasi.**
 - Kenal pasti pihak berkuasa tempatan anda dan saluran aduannya (hotline / e-aduan
   / aplikasi) dan laporkan isu tempatan di sana dahulu.
 - Untuk struktur di sebalik perkara ini, lihat
-  [pembahagian kuasa persekutuan–negeri](/ms/government/federal-state-division)
-  dan [tiga peringkat kerajaan Malaysia](/ms/government/three-tiers-of-government).
+  [pembahagian kuasa persekutuan–negeri](/government/federal-state-division)
+  dan [tiga peringkat kerajaan Malaysia](/government/three-tiers-of-government).
 - Untuk sebab ahli majlis anda dilantik dan bukan dipilih, lihat
-  [pihak berkuasa tempatan](/ms/states/local-councils).
+  [pihak berkuasa tempatan](/states/local-councils).

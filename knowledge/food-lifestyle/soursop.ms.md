@@ -102,7 +102,7 @@ durian: manis-masam dan seperti puding, sering dibandingkan dengan **nanas, pisa
 sitrus**. Perisa yang cerah dan harum inilah yang menjadikan jusnya begitu popular.
 
 Untuk melihat kedudukan soursop dalam kalangan papan minuman negara yang lebih luas,
-lihat hub [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks). Artikel ini ialah
+lihat hub [minuman Malaysia](/food-lifestyle/malaysian-drinks). Artikel ini ialah
 tinjauan mendalam tentang minuman durian belanda itu sendiri.
 
 ## Bagaimana jusnya dibuat
@@ -131,13 +131,13 @@ bergantung pada cerita rakyat.
 
 Jus soursop ialah kegemaran **bar jus dan jaja**, diadun segar di mana sahaja buah tropika
 dijadikan minuman — gerai buah, medan selera dan kaunter jus khusus di seluruh negara.
-Bersama [air kelapa](/ms/food-lifestyle/air-kelapa) dan [lassi](/ms/food-lifestyle/lassi)
+Bersama [air kelapa](/food-lifestyle/air-kelapa) dan [lassi](/food-lifestyle/lassi)
 berasaskan yogurt, ia salah satu pilihan yang menyejukkan dan mengutamakan buah pada papan
 minuman Malaysia.
 
 ## Apa yang seterusnya
 
 - Petakan soursop terhadap papan minuman negara yang lebih luas dalam hub
-  [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
-- Bandingkannya dengan penyejuk semula jadi dalam [air kelapa](/ms/food-lifestyle/air-kelapa).
-- Cuba minuman berkrim yang mesra buah yang lain dalam [lassi](/ms/food-lifestyle/lassi).
+  [minuman Malaysia](/food-lifestyle/malaysian-drinks).
+- Bandingkannya dengan penyejuk semula jadi dalam [air kelapa](/food-lifestyle/air-kelapa).
+- Cuba minuman berkrim yang mesra buah yang lain dalam [lassi](/food-lifestyle/lassi).

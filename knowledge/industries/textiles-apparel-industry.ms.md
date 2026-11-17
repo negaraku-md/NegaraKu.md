@@ -116,7 +116,7 @@ Di sebelah hujung pukal terletak satu jalur warisan yang tersendiri — **batik 
 
 ## Sebesar mana ia?
 
-Industri ini lama bertapak tetapi, mengikut piawai Malaysia, tidak lagi besar berbanding pembuatan yang lain. Menurut angka yang dikaitkan dengan **Perbadanan Pembangunan Perdagangan Luar Malaysia ([MATRADE](/ms/government/matrade))**, perdagangan pakaian dan aksesori pakaian mencapai kira-kira **RM18.24 bilion pada 2025**, naik 8.3% tahun ke tahun, dengan **eksport kira-kira RM6.88 bilion**. Penghantaran terus meningkat pada awal 2026.
+Industri ini lama bertapak tetapi, mengikut piawai Malaysia, tidak lagi besar berbanding pembuatan yang lain. Menurut angka yang dikaitkan dengan **Perbadanan Pembangunan Perdagangan Luar Malaysia ([MATRADE](/government/matrade))**, perdagangan pakaian dan aksesori pakaian mencapai kira-kira **RM18.24 bilion pada 2025**, naik 8.3% tahun ke tahun, dengan **eksport kira-kira RM6.88 bilion**. Penghantaran terus meningkat pada awal 2026.
 
 Angka yang lebih memberitahu ialah aliran dalam *bahagian*. Keratan tekstil-dan-kasut daripada jumlah eksport Malaysia jatuh daripada sekitar **2.9% pada 2000 kepada kira-kira 1.1% pada 2023**, menurut analisis MIDF Research — bukan kerana industri runtuh, tetapi kerana elektronik dan sektor lain berkembang jauh lebih pantas sementara pengeluar pakaian kos rendah di luar negara merampas jumlah. (Angka ini diambil daripada ringkasan berita dan penyelidikan dan bukan satu keluaran rasmi tunggal; lihat nota pengesahan.)
 

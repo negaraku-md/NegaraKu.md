@@ -109,7 +109,7 @@ mendapat keseluruhan perkakasan masakan mewah kontemporari. Inilah kisah senario
 itu — siapa yang memimpinnya, bagaimana ia dihidangkan, dan bagaimana ia
 mentafsir semula makanan yang sudah pun dikenali oleh rakyat Malaysia. Untuk
 sistem penarafan rasmi yang kini menjejakinya, lihat panduan berasingan tentang
-[MICHELIN Guide di Malaysia](/ms/food-lifestyle/michelin-guide-malaysia).
+[MICHELIN Guide di Malaysia](/food-lifestyle/michelin-guide-malaysia).
 
 ## Satu senario yang matang
 
@@ -192,7 +192,7 @@ tertentu paling baik disahkan daripada dapur itu sendiri. Intinya yang lebih lua
 ialah fine dining Malaysia moden menjadikan khazanah bahan negara ini sendiri —
 bukan yang diimport — sebagai bahan permulaannya, dengan mengambil daripada perigi
 dalam yang sama seperti [masakan serantau dan
-etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) Malaysia.
+etnik](/food-lifestyle/regional-and-ethnic-cuisines) Malaysia.
 
 ## Kuala Lumpur dan Penang: dua senario
 
@@ -240,20 +240,20 @@ mentafsir semula hidangan Malaysia yang biasa melalui lensa menu tasting.
 
 Ini ialah hubungan dua hala dan bukan hierarki. MICHELIN Guide yang sama yang
 memberi Star kepada dapur-dapur ini juga memuliakan gerai penjaja dan [pusat
-penjaja dan medan makanan](/ms/food-lifestyle/hawker-centres-and-food-courts)
+penjaja dan medan makanan](/food-lifestyle/hawker-centres-and-food-courts)
 dengan penyenaraian Bib Gourmand dan Selected, dan hidangan yang diplating kerap
-merujuk [hidangan kebangsaan](/ms/food-lifestyle/national-dishes-of-malaysia)
-negara ini serta ritual [kedai kopi](/ms/food-lifestyle/coffee-culture-malaysia)
+merujuk [hidangan kebangsaan](/food-lifestyle/national-dishes-of-malaysia)
+negara ini serta ritual [kedai kopi](/food-lifestyle/coffee-culture-malaysia)
 tempatan. Fine dining di sini tidak menggantikan meja penjaja; ia berbual
 dengannya.
 
 ## Apa seterusnya
 
 - Fahami sistem penarafan rasmi dalam
-  [MICHELIN Guide di Malaysia](/ms/food-lifestyle/michelin-guide-malaysia).
+  [MICHELIN Guide di Malaysia](/food-lifestyle/michelin-guide-malaysia).
 - Lihat hidangan yang ditafsir semula oleh dapur-dapur ini dalam
-  [hidangan kebangsaan Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia).
+  [hidangan kebangsaan Malaysia](/food-lifestyle/national-dishes-of-malaysia).
 - Jejaki bahan dan tradisi yang diambilnya dalam
-  [masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines).
+  [masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines).
 - Letakkannya berbanding meja harian dalam
-  [pusat penjaja dan medan makanan](/ms/food-lifestyle/hawker-centres-and-food-courts).
+  [pusat penjaja dan medan makanan](/food-lifestyle/hawker-centres-and-food-courts).

@@ -120,7 +120,7 @@ menggambarkan lempeng yang "dibuat daripada kekacang dan beras beragi, berasal
 daripada masakan India Selatan," seperti yang dinyatakan dalam entri Wiktionary.
 
 Di Malaysia, hidangan ini tergolong jelas dalam
-[masakan India-Malaysia](/ms/food-lifestyle/indian-malaysian-cuisine). Menurut
+[masakan India-Malaysia](/food-lifestyle/indian-malaysian-cuisine). Menurut
 kebanyakan catatan, ia tiba bersama pendatang Tamil yang datang ke Tanah Melayu
 British sebagai buruh ladang dan kereta api, dan sejak itu ia menjadi makanan
 ruji bersama yang dimakan jauh melampaui komuniti India-Malaysia. Sebuah halaman
@@ -162,7 +162,7 @@ diangkat.
 
 Semakin nipis canaiannya, semakin rangup hasilnya, dan itulah seluruh idea di
 sebalik **thosai paper** (lihat di bawah). Tekniknya sepupu kepada aksi
-mempersonakan [roti canai](/ms/food-lifestyle/roti-canai) di sebelahnya pada
+mempersonakan [roti canai](/food-lifestyle/roti-canai) di sebelahnya pada
 besi pemanggang mamak yang sama, walaupun kedua-dua roti itu sukar untuk lebih
 berbeza: roti canai ialah roti leper gandum yang berlapis dan diregang, manakala
 thosai ialah lempeng beras beragi yang dituang.
@@ -207,16 +207,16 @@ boleh dirasai dalam beberapa cara merentasi satu pinggan.
 ## Meja daun pisang dan gerai mamak
 
 Thosai muncul dalam dua suasana yang bertindih. Yang pertama ialah restoran
-vegetarian India Selatan dan [daun pisang](/ms/food-lifestyle/banana-leaf-rice),
+vegetarian India Selatan dan [daun pisang](/food-lifestyle/banana-leaf-rice),
 tempat ia menjadi hidangan tetap pagi dan waktu minum petang bersama idli dan
 vadai. Yang kedua ialah gerai mamak — kedai makan India-Muslim yang menjadi
-jantung [budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture) —
+jantung [budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture) —
 tempat thosai berkongsi besi pemanggang dengan roti canai dan dihidangkan dari
 awal pagi sehingga larut malam. Halaman JKKN menyatakan bahawa tosai "sering
 dihidangkan sebagai sarapan, terutamanya di restoran India di Malaysia, yang
 dikenali sebagai" restoran mamak, itulah sebabnya ia begitu selesa berada dalam
 mana-mana senarai hidangan ruji
-[sarapan Malaysia](/ms/food-lifestyle/malaysian-breakfast).
+[sarapan Malaysia](/food-lifestyle/malaysian-breakfast).
 
 ## Catatan tentang ejaan
 
@@ -231,9 +231,9 @@ dan dosa menamakan lempeng rangup dan beragi yang sama.
 
 ## Apa seterusnya
 
-- [Masakan India-Malaysia](/ms/food-lifestyle/indian-malaysian-cuisine) — budaya
+- [Masakan India-Malaysia](/food-lifestyle/indian-malaysian-cuisine) — budaya
   makanan yang lebih luas yang thosai tergolong di dalamnya.
-- [Nasi daun pisang](/ms/food-lifestyle/banana-leaf-rice) — tradisi restoran
+- [Nasi daun pisang](/food-lifestyle/banana-leaf-rice) — tradisi restoran
   India Selatan tempat thosai menjadi hidangan tetap pagi.
-- [Roti canai](/ms/food-lifestyle/roti-canai) — roti leper gandum yang diregang
+- [Roti canai](/food-lifestyle/roti-canai) — roti leper gandum yang diregang
   yang berkongsi besi pemanggang mamak.

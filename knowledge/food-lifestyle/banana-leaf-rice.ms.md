@@ -124,7 +124,7 @@ menyatukan semuanya — itulah yang menjadikan hidangan ini terasa mewah. Ia
 mula-mula dimakan terutamanya oleh komuniti India Malaysia dan sejak itu menjadi
 hidangan yang dipesan dengan gembira oleh rakyat Malaysia dari setiap latar
 belakang. Ia tergolong kukuh dalam peta yang lebih luas
-[masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) negara ini.
+[masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) negara ini.
 
 ## Apa yang mendarat di atas daun anda
 
@@ -190,8 +190,8 @@ lanskap makanan tempatan dan bukan sesuatu yang diimport.
 
 Keturunan itu meletakkan nasi daun pisang dalam kisah yang lebih luas tentang
 makanan India-Malaysia, tradisi yang turut memberikan negara ini roti leper
-seperti [roti canai](/ms/food-lifestyle/roti-canai) dan hidangan nasi-dan-kari
-India-Muslim iaitu [nasi kandar](/ms/food-lifestyle/nasi-kandar). Nasi daun
+seperti [roti canai](/food-lifestyle/roti-canai) dan hidangan nasi-dan-kari
+India-Muslim iaitu [nasi kandar](/food-lifestyle/nasi-kandar). Nasi daun
 pisang ialah cabang India Selatan yang dihidang di atas daun daripada keluarga
 masakan yang sama itu.
 
@@ -218,7 +218,7 @@ India-Muslim — tempat asal roti canai, teh tarik dan *mee goreng* lewat malam 
 dan umumnya tidak menghidang hidangan daun pisang. Kedua-duanya bertindih dalam
 dunia makanan Malaysia berpengaruh India yang lebih luas tetapi merupakan institusi
 yang berbeza; mamak tergolong dalam
-[budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture) Malaysia yang lebih luas.
+[budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture) Malaysia yang lebih luas.
 
 Bagi vegetarian, nasi daun pisang ialah salah satu hidangan yang paling boleh
 diharapkan di negara ini: hidangan standard nasi, sayur, rasam, dhal dan papadum
@@ -226,16 +226,16 @@ bebas daging secara lalai, dan sesetengah kedai sepenuhnya vegetarian. Pemakan
 yang menjaga diet vegetarian ketat, halal atau diet lain tetap perlu mengesahkan
 apa yang dihidang oleh sesebuah restoran dan bagaimana hidangan disediakan —
 persoalan yang dibincangkan dengan lebih penuh dalam panduan
-[sekatan diet dan makan vegetarian](/ms/food-lifestyle/dietary-restrictions-and-vegetarian-dining).
+[sekatan diet dan makan vegetarian](/food-lifestyle/dietary-restrictions-and-vegetarian-dining).
 
 ## Apa seterusnya
 
-- [Nasi kandar](/ms/food-lifestyle/nasi-kandar) — tradisi nasi-dan-kari
+- [Nasi kandar](/food-lifestyle/nasi-kandar) — tradisi nasi-dan-kari
   India-Muslim yang berdampingan dengan nasi daun pisang dalam senario makanan
   India Malaysia.
-- [Roti canai](/ms/food-lifestyle/roti-canai) — roti leper berlapis khas kedai
+- [Roti canai](/food-lifestyle/roti-canai) — roti leper berlapis khas kedai
   mamak, satu lagi tunggak makanan India-Malaysia.
-- [Sekatan diet dan makan vegetarian](/ms/food-lifestyle/dietary-restrictions-and-vegetarian-dining)
+- [Sekatan diet dan makan vegetarian](/food-lifestyle/dietary-restrictions-and-vegetarian-dining)
   — cara makan dengan baik di Malaysia dengan diet vegetarian, halal atau lain.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   peta yang lebih luas tentang cara komuniti Malaysia makan.

@@ -108,13 +108,13 @@ harga `$$$$`. Dalam penerangan Guide, ia "tucked inside an office building" dan
 "serves Thai dishes rooted in tradition but with creative twists and stylish
 plating." Ia merupakan salah satu kelompok restoran KL yang memegang bintang
 MICHELIN dalam edisi-edisi terkini, sebahagian daripada adegan
-[santapan mewah](/ms/food-lifestyle/fine-dining-malaysia) kota ini yang semakin
+[santapan mewah](/food-lifestyle/fine-dining-malaysia) kota ini yang semakin
 berkembang.
 
 ## Pengiktirafan MICHELIN
 
 Chim by Chef Noom dianugerahkan satu bintang MICHELIN dalam edisi
-[MICHELIN Guide Kuala Lumpur & Penang](/ms/food-lifestyle/michelin-guide-malaysia)
+[MICHELIN Guide Kuala Lumpur & Penang](/food-lifestyle/michelin-guide-malaysia)
 2025 — salah satu daripada dua restoran berbintang satu yang baharu dinamakan
 pada tahun itu — dan mengekalkan bintang itu dalam pemilihan 2026 yang diumumkan
 pada 11 November 2025. Barisan hadapan juga telah diiktiraf: Azmi Ahmad Kamal

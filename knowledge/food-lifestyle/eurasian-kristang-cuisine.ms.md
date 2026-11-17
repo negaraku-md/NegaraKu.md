@@ -195,8 +195,8 @@ pada cili dan bawang merah.
 
 Dalam erti itu masakan Kristang ialah adik-beradik kepada dapur kreol agung
 Malaysia yang lain, tradisi Cina kelahiran Selat yang diterokai dalam
-[masakan Nyonya-Peranakan](/ms/food-lifestyle/nyonya-peranakan-cuisine) dan,
-dalam bentuk Melakanya, dalam [makanan Nyonya Melaka](/ms/food-lifestyle/melaka-nyonya-food).
+[masakan Nyonya-Peranakan](/food-lifestyle/nyonya-peranakan-cuisine) dan,
+dalam bentuk Melakanya, dalam [makanan Nyonya Melaka](/food-lifestyle/melaka-nyonya-food).
 Kedua-duanya muncul di pelabuhan dagang yang sama daripada tabiat yang sama
 mengahwinkan bahan satu budaya dengan teknik budaya lain. Perbezaan pentingnya
 ialah tulang belakang Iberia dan perayaan Kristian: di mana masakan Nyonya
@@ -221,15 +221,15 @@ mungkin muncul. Pergantungan pada perayaan itu bermata dua: ia mengekalkan
 hidangan lama terus hidup, tetapi ia juga bermakna apabila masakan rumah
 menyusut, sebahagian daripadanya menjadi kelangkaan majlis istimewa dan bukan
 makanan harian. Dapur Kristang, buat masa ini, salah satu sudut paling tersendiri
-dalam [masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+dalam [masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
 Malaysia — satu peringatan bahawa peta makanan negara ini dilukis oleh sejarah
 kedatangan dan perkahwinan campurnya.
 
 ## Apa seterusnya
 
-- [Masakan Nyonya-Peranakan](/ms/food-lifestyle/nyonya-peranakan-cuisine) — dapur
+- [Masakan Nyonya-Peranakan](/food-lifestyle/nyonya-peranakan-cuisine) — dapur
   kreol Cina kelahiran Selat yang menjadi sepupu terdekat masakan Kristang.
-- [Makanan Nyonya Melaka](/ms/food-lifestyle/melaka-nyonya-food) — meja Peranakan
+- [Makanan Nyonya Melaka](/food-lifestyle/melaka-nyonya-food) — meja Peranakan
   kota yang sama, berdampingan dengan jiran Portugis-Eurasianya.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   peta yang lebih luas tentang bagaimana negeri dan komuniti Malaysia makan.

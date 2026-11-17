@@ -114,7 +114,7 @@ Pinang begitu kerap digelar ibu negeri makanan jalanan Malaysia.
 Pulau Pinang ialah sebuah negeri kecil di barat laut Malaysia, berpusat pada sebuah
 pulau di muara Selat Melaka. Sejak diasaskan sebagai pelabuhan dagang British pada
 tahun 1786, ia menarik pedagang Hokkien Cina, peniaga Tamil dan India-Muslim, peneroka
-Melayu dan komuniti [Peranakan](/ms/arts-culture/peranakan) kelahiran Selat ke dalam
+Melayu dan komuniti [Peranakan](/arts-culture/peranakan) kelahiran Selat ke dalam
 satu bandar yang kecil dan padat. Dapur-dapur itu tidak kekal berasingan. Mereka
 meminjam rempah, teknik dan bahan daripada satu sama lain, dan hasilnya ialah masakan
 yang jelas Pulau Pinang berbanding semata-mata Cina, India atau Melayu.
@@ -154,13 +154,13 @@ membawa *wok hei*, bau hangit berasap yang terbit daripada kuali yang sangat pan
 sesetengah gerai memasak sepinggan demi sepinggan mengikut tempahan. Ketika Time Out
 memuji Pulau Pinang pada tahun 2025, ia memilih char koay teow sebagai, dalam kata-katanya,
 "pinggan muktamad untuk ditempah di pulau ini." (Lihat panduan khusus untuk
-[char kway teow](/ms/food-lifestyle/char-kway-teow).)
+[char kway teow](/food-lifestyle/char-kway-teow).)
 
 **Asam laksa Pulau Pinang** ialah lawan masamnya: kuetiau tebal dalam kuah masam asam
 jawa yang berisi isi ikan kembung, diangkat dengan bunga kantan, daun kesum, nanas,
 timun dan titisan gelap pes udang manis. Ia merupakan hidangan Pulau Pinang yang paling
 jauh mengembara ke luar negara dan yang paling kerap dipetik dalam senarai antarabangsa
-— ia berada dalam keluarga [laksa](/ms/food-lifestyle/laksa) Malaysia yang lebih luas
+— ia berada dalam keluarga [laksa](/food-lifestyle/laksa) Malaysia yang lebih luas
 dan bukannya curry laksa.
 
 **Hokkien mee**, yang dikenali di Pulau Pinang sebagai *hae mee* (prawn mee),
@@ -184,7 +184,7 @@ Melampaui kuali, tradisi India-Muslim dan hidangan bercampur Pulau Pinang sama p
 campuran kari dan lauk-pauk — ayam goreng, sotong, bendi, telur — dan dilengkapkan dengan
 *kuah campur*, limpahan pelbagai kuah bercampur. Ia dihidangkan sepanjang masa di kedai
 mamak yang sibuk, dan Pulau Pinang secara meluas dianggap sebagai tanah air rohaninya
-(ada panduan yang lebih lengkap untuk [nasi kandar](/ms/food-lifestyle/nasi-kandar)).
+(ada panduan yang lebih lengkap untuk [nasi kandar](/food-lifestyle/nasi-kandar)).
 
 **Pasembur** dan **rojak** ialah dua salad hebat pulau ini. Pasembur, dijual oleh penjual
 India-Muslim, menimbun timun carik, kentang, tauhu, cucur udang dan sotong di bawah kuah
@@ -195,7 +195,7 @@ ko* (pes udang yang difermentasi), gula dan cili.
 Untuk sesuatu yang manis, **apom** (lempeng kelapa-beras yang lembut dan berenda, dimasak
 dalam acuan seakan tanah liat yang kecil) dan **cendol** (ais serut dengan santan, gula
 melaka dan jeli tepung beras hijau) ialah penamat yang lazim. Cendol mempunyai panduan
-[cendol](/ms/food-lifestyle/cendol) tersendiri, dan [ais kacang](/ms/food-lifestyle/ais-kacang)
+[cendol](/food-lifestyle/cendol) tersendiri, dan [ais kacang](/food-lifestyle/ais-kacang)
 yang berkaitan, juga berasaskan ais serut, sama lazimnya di gerai Pulau Pinang pada petang
 yang panas.
 
@@ -203,7 +203,7 @@ yang panas.
 
 Makanan Pulau Pinang hidup di gerai penjaja, di kedai kopi (*kopitiam*) dan di medan
 selera terbuka berbanding di restoran formal — sebahagian daripada budaya yang lebih luas
-yang dibincangkan dalam [pasar malam dan makanan jalanan](/ms/food-lifestyle/pasar-malam-and-street-food).
+yang dibincangkan dalam [pasar malam dan makanan jalanan](/food-lifestyle/pasar-malam-and-street-food).
 Segelintir kelompok menjadi sauh bagi kebanyakan makan pengunjung:
 
 - **Gurney Drive** — promenad tepi laut dengan pusat penjaja yang besar, lama menjadi
@@ -241,7 +241,7 @@ ialah kedudukan yang subjektif dan khusus kepada media tertentu yang beralih dar
 ke tahun, maka ia mencerminkan kedudukan Pulau Pinang dan bukannya menetapkannya; senarai,
 kedudukan dan tahun yang tepat di sebalik setiap dakwaan patut disemak berdasarkan sumber
 asal. Pulau Pinang turut muncul dalam pengiktirafan santapan mewah Malaysia yang semakin
-berkembang, yang dijejaki dalam panduan [MICHELIN Guide di Malaysia](/ms/food-lifestyle/michelin-guide-malaysia).
+berkembang, yang dijejaki dalam panduan [MICHELIN Guide di Malaysia](/food-lifestyle/michelin-guide-malaysia).
 
 ## Peta ringkas meja Pulau Pinang
 
@@ -258,16 +258,16 @@ berkembang, yang dijejaki dalam panduan [MICHELIN Guide di Malaysia](/ms/food-li
 Dimakan bersama, hidangan-hidangan ini menjelaskan pulau ini lebih baik daripada mana-mana
 gelaran tunggal. Pulau Pinang bukan terkenal kerana satu pinggan tetapi kerana rangkaian
 dapur yang belajar memasak dalam lingkungan beberapa batang jalan antara satu sama lain —
-corak yang lebih luas bagi [masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+corak yang lebih luas bagi [masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
 Malaysia yang tertumpu ke dalam satu pulau yang kecil dan lapar.
 
 ## Apa seterusnya
 
-- [Char kway teow](/ms/food-lifestyle/char-kway-teow) — mi goreng ikonik pulau ini,
+- [Char kway teow](/food-lifestyle/char-kway-teow) — mi goreng ikonik pulau ini,
   secara terperinci.
-- [Laksa](/ms/food-lifestyle/laksa) — tempat asam laksa masam Pulau Pinang dalam keluarga
+- [Laksa](/food-lifestyle/laksa) — tempat asam laksa masam Pulau Pinang dalam keluarga
   sup mi Malaysia yang lebih luas.
-- [Nasi kandar](/ms/food-lifestyle/nasi-kandar) — hidangan nasi India-Muslim Pulau Pinang
+- [Nasi kandar](/food-lifestyle/nasi-kandar) — hidangan nasi India-Muslim Pulau Pinang
   yang dihidangkan sepanjang masa.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) — peta
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) — peta
   nasional yang dapur kuali lebur Pulau Pinang tergolong di dalamnya.

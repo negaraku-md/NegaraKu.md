@@ -125,7 +125,7 @@ atau goreng**. Hilangkan nasi santan atau sambalnya, maka ia bukan lagi nasi lem
 unsur itu, bersama lauk standard, itulah yang menjadikan hidangan ini dikenali dari gerai
 tepi jalan di Kelantan hinggalah ke kafe di Kuala Lumpur. Untuk melihat kedudukannya
 dalam kalangan hidangan ikonik negara yang lain, lihat tinjauan kami tentang
-[hidangan kebangsaan Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia).
+[hidangan kebangsaan Malaysia](/food-lifestyle/national-dishes-of-malaysia).
 
 ## Asal usul dan namanya
 
@@ -197,7 +197,7 @@ terkenal dengan nasi yang berwarna kekuningan; tukang masak Terengganu memadanka
 dengan ikan tuna; dan masyarakat Cina serta India di Malaysia mempunyai versi tersendiri,
 daripada lauk berasaskan kari sehinggalah ke pinggan vegetarian — satu cerminan
 percampuran yang lebih luas seperti yang diperihalkan dalam tulisan kami tentang
-[masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines). Hidangan
+[masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines). Hidangan
 ini turut dimakan jauh di luar Malaysia — di Singapura, Brunei, selatan Thailand dan
 sebahagian Indonesia — yang menjadi sebahagian sebab mengapa "pemilikan"nya begitu hangat
 dipertikaikan.
@@ -221,13 +221,13 @@ sekitar "makanan tradisional ruji seperti Nasi Lemak, Roti Canai dan minuman Teh
 (UNESCO, 2024). Dengan kata lain, nasi lemak dihormati bukan sahaja sebagai sebuah resipi
 tetapi sebagai satu ritual bersama — sesuatu yang dinikmati bersama oleh rakyat Malaysia
 daripada setiap latar belakang. Untuk cerita yang lebih lengkap tentang pengiktirafan
-itu, lihat [makanan Malaysia sebagai warisan kebangsaan dan UNESCO](/ms/food-lifestyle/malaysian-food-as-national-and-unesco-heritage).
+itu, lihat [makanan Malaysia sebagai warisan kebangsaan dan UNESCO](/food-lifestyle/malaysian-food-as-national-and-unesco-heritage).
 
 ## Apa seterusnya
 
 - Letakkan ia dalam konteks bersama ikon negara yang lain dalam
-  [hidangan kebangsaan Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia).
+  [hidangan kebangsaan Malaysia](/food-lifestyle/national-dishes-of-malaysia).
 - Terokai bagaimana komuniti membentuk meja makan dalam
-  [masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines).
+  [masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines).
 - Baca tentang pengiktirafan UNESCO dalam
-  [makanan Malaysia sebagai warisan kebangsaan dan UNESCO](/ms/food-lifestyle/malaysian-food-as-national-and-unesco-heritage).
+  [makanan Malaysia sebagai warisan kebangsaan dan UNESCO](/food-lifestyle/malaysian-food-as-national-and-unesco-heritage).

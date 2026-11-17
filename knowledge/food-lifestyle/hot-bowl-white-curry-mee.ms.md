@@ -103,7 +103,7 @@ framework: profile
 Pulau Pinang mengambil serius hal mi karinya, dan Hot Bowl White Curry Mee
 telah menyuburkan kesetiaan itu dari sebuah muka kedai yang sederhana di Jalan
 Rangoon sejak 1992. MICHELIN Guide menyenaraikannya dengan
-[Bib Gourmand](/ms/food-lifestyle/michelin-guide-malaysia), anugerah yang
+[Bib Gourmand](/food-lifestyle/michelin-guide-malaysia), anugerah yang
 dikhaskan untuk masakan sedap pada harga mesra.
 
 ## Apa ia
@@ -123,7 +123,7 @@ ratus, udang kering dan cili yang, catat MICHELIN, dikacau tangan selama kira-ki
 dua jam. Anda mengacau sebanyak mana yang anda mahu, dan itulah sebabnya white
 curry mee terasa lembut sehinggalah anda jadikan ia sebaliknya — keseimbangan
 antara pedas dan manis adalah milik anda untuk ditentukan. Ia sepupu yang lebih
-lembut kepada [curry mee](/ms/food-lifestyle/curry-mee) merah Pulau Pinang yang
+lembut kepada [curry mee](/food-lifestyle/curry-mee) merah Pulau Pinang yang
 lebih terkenal.
 
 ## Di mana mencarinya
@@ -139,7 +139,7 @@ Dibuka pada 1992, Hot Bowl memperoleh pengikutnya secara perlahan — satu hidan
 dibuat secara konsisten, selama lebih tiga dekad. Ketahanan itu sebahagian daripada
 sebab ia terasa seperti kepingan tulen fabrik gerai makan George Town dan bukannya
 sekadar trend, dan sebab ia layak berada pada mana-mana peta
-[makanan Pulau Pinang](/ms/food-lifestyle/penang-food).
+[makanan Pulau Pinang](/food-lifestyle/penang-food).
 
 ## Nota lawatan
 

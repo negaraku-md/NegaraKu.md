@@ -129,7 +129,7 @@ tidak pasti dan melabelkannya, bergantung kepada sumber, sebagai "Indonesia" ata
 "Malaysia." Daripada mendakwa satu tempat lahir tunggal, lebih tepat untuk
 mengatakan sambal ialah idea serantau yang dikongsi yang telah dijadikan milik
 sendiri oleh setiap dapur — dan setiap keluarga. Di Malaysia ia menyerap ke dalam
-[hidangan nasional](/ms/food-lifestyle/national-dishes-of-malaysia) dan hidangan
+[hidangan nasional](/food-lifestyle/national-dishes-of-malaysia) dan hidangan
 harian sama rata.
 
 ## Apa yang masuk ke dalam sambal
@@ -180,7 +180,7 @@ membundarkannya; asam mengelakkannya daripada terlalu memualkan.
 
 Penampilannya yang paling terkenal ialah **sambal tumis ikan bilis**, sambal
 manis-pedas yang dipenuhi ikan bilis kering yang rangup (*ikan bilis*) yang tidak
-dapat dipisahkan daripada [nasi lemak](/ms/food-lifestyle/nasi-lemak). Ikan bilis
+dapat dipisahkan daripada [nasi lemak](/food-lifestyle/nasi-lemak). Ikan bilis
 biasanya digoreng berasingan dan digaul masuk menjelang akhir supaya ia mengekalkan
 sedikit gigitan, dan gelang bawang atau asam selalunya turut masuk. Sepinggan nasi
 lemak hidup atau mati bergantung kepada keseimbangan manis, pedas dan payau sambal
@@ -196,7 +196,7 @@ kadangkala tomato hijau yang masam seperti tomatillo untuk rasa pedas yang lebih
 segar dan lebih berumput. **Sambal udang** merebus udang dalam pes cili-asam yang
 pekat sehingga udang itu bersalut dan berkilat, kegemaran perayaan; **sambal
 sotong** melakukan perkara yang sama dengan sotong. Di pedalaman semenanjung,
-**sambal tempoyak** menggaul cili dengan *tempoyak* — [durian](/ms/food-lifestyle/durian-culture-and-varieties)
+**sambal tempoyak** menggaul cili dengan *tempoyak* — [durian](/food-lifestyle/durian-culture-and-varieties)
 yang ditapai dan dimasamkan — untuk pelengkap yang berbau kuat dan masam yang
 terutamanya dikaitkan dengan Pahang dan Perak; ia boleh dimakan mentah atau
 dimasak bersama ikan.
@@ -222,7 +222,7 @@ Wilayah membentuknya juga. Komuniti pantai bergantung paling kuat kepada belacan
 dan makanan laut kering; pedalaman Pahang memberi kita sambal berasaskan tempoyak
 dan *sambal hitam* yang gelap yang dimasamkan dengan *belimbing*; dan setiap negeri,
 bandar dan keluarga mengekalkan nisbah pedas, masin dan manisnya sendiri. Sambal,
-dalam erti kata itu, ialah peta [masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+dalam erti kata itu, ialah peta [masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
 Malaysia yang dilukis dalam cili.
 
 ## Benang yang sama
@@ -236,9 +236,9 @@ hidangan kecil yang membawa rasa terbesar.
 
 ## Apa yang seterusnya
 
-- [Nasi lemak](/ms/food-lifestyle/nasi-lemak) — sarapan nasional yang wataknya
+- [Nasi lemak](/food-lifestyle/nasi-lemak) — sarapan nasional yang wataknya
   bertumpu pada sambalnya.
-- [Hidangan nasional Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia) —
+- [Hidangan nasional Malaysia](/food-lifestyle/national-dishes-of-malaysia) —
   tempat sambal dan hidangan yang dirasainya berada dalam kalangan ikon negara.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   bagaimana negeri dan komuniti Malaysia memasak, dan memerencah.

@@ -85,7 +85,7 @@ framework: explainer
 
 Gerai mamak di simpang jalan anda, pereka bebas yang mengeluarkan invois dari pejabat rumah, pembuat kek hujung minggu yang berniaga dalam talian — kebanyakan mereka ialah makhluk undang-undang yang sama: sebuah perniagaan persendirian. Ia merupakan cara paling murah, paling pantas, dan paling lazim untuk berniaga di Malaysia, dan juga cara yang paling mendedahkan anda jika sesuatu tidak berjalan lancar.
 
-Perniagaan persendirian — *perniagaan persendirian*, kadangkala dipanggil enterprise — ialah perniagaan yang dimiliki dan dikendalikan oleh seorang individu. Ia berada di anak tangga paling bawah dalam tangga entiti Malaysia, di bawah [LLP](/ms/glossary/llp) dan [Sdn Bhd](/ms/glossary/sdn-bhd), dan ia ditadbir oleh undang-undang yang berbeza sama sekali daripada kedua-duanya.
+Perniagaan persendirian — *perniagaan persendirian*, kadangkala dipanggil enterprise — ialah perniagaan yang dimiliki dan dikendalikan oleh seorang individu. Ia berada di anak tangga paling bawah dalam tangga entiti Malaysia, di bawah [LLP](/glossary/llp) dan [Sdn Bhd](/glossary/sdn-bhd), dan ia ditadbir oleh undang-undang yang berbeza sama sekali daripada kedua-duanya.
 
 ## Apakah undang-undang yang mentadbir perniagaan persendirian?
 
@@ -144,7 +144,7 @@ Satu cara pantas untuk melihat di mana kedudukan perniagaan persendirian:
 | Dikenakan cukai sebagai | Individu (Borang B) | Syarikat |
 | Pemfailan tahunan | Perbaharui pendaftaran | Penyata tahunan + akaun diaudit |
 
-Bagi usaha berisiko rendah dan bermodal rendah — gerai pasar, kelas tuisyen, kedai dalam talian kecil — kesederhanaan biasanya menang. Setelah perniagaan mengambil hutang sebenar, mengambil pekerja, atau mencari pelabur, pendedahan liabiliti tidak terhad dan ketidakupayaan untuk membawa masuk pemegang saham merupakan sebab lazim para pengasas "menaik taraf" kepada [Sdn Bhd](/ms/glossary/sdn-bhd).
+Bagi usaha berisiko rendah dan bermodal rendah — gerai pasar, kelas tuisyen, kedai dalam talian kecil — kesederhanaan biasanya menang. Setelah perniagaan mengambil hutang sebenar, mengambil pekerja, atau mencari pelabur, pendedahan liabiliti tidak terhad dan ketidakupayaan untuk membawa masuk pemegang saham merupakan sebab lazim para pengasas "menaik taraf" kepada [Sdn Bhd](/glossary/sdn-bhd).
 
 ## Satu contoh kerja
 
@@ -152,6 +152,6 @@ Andaikan Siti mula menjual kuih buatan sendiri dalam talian. Dia mendaftarkan "S
 
 ## Apa yang seterusnya
 
-- Bandingkan tiga struktur utama secara berdampingan dalam entri [Sdn Bhd](/ms/glossary/sdn-bhd) dan [LLP](/ms/glossary/llp) sebelum anda membuat keputusan.
-- Jika anda mendaftarkan syarikat kemudian, ambil perhatian bahawa ia membawa obligasi yang lebih berat seperti [penyata tahunan](/ms/glossary/annual-return).
+- Bandingkan tiga struktur utama secara berdampingan dalam entri [Sdn Bhd](/glossary/sdn-bhd) dan [LLP](/glossary/llp) sebelum anda membuat keputusan.
+- Jika anda mendaftarkan syarikat kemudian, ambil perhatian bahawa ia membawa obligasi yang lebih berat seperti [penyata tahunan](/glossary/annual-return).
 - Sebelum mendaftar, sahkan yuran semasa dan sebarang keperluan kelulusan nama terus di portal ezbiz SSM, kerana yuran yang diwartakan boleh berubah.

@@ -107,7 +107,7 @@ yang menjadi sebab ia hampir selalu dipadankan dengan sesuatu yang manis.
 
 Untuk melihat kedudukan cincau dalam kalangan papan minuman negara yang lebih luas
 — sirap bandung, air mata kucing, Milo dan selebihnya — lihat hub
-[minuman Malaysia](/ms/food-lifestyle/malaysian-drinks). Artikel ini ialah tinjauan
+[minuman Malaysia](/food-lifestyle/malaysian-drinks). Artikel ini ialah tinjauan
 mendalam tentang agar rumput itu sendiri.
 
 ## Cincau hitam dan cincau hijau
@@ -144,16 +144,16 @@ Cincau muncul dalam beberapa rupa, dan mengetahui namanya amat membantu:
 **Soya cincau** — susu soya di atas agar hitam — ialah yang terkenal, rupa dua
 warna hitam-putihnya memperoleh gelaran mesra "Michael Jackson" di gerai jaja. Agar
 rumput juga komponen standard dalam
-[cendol](/ms/food-lifestyle/cendol), ais kacang (ABC) dan *leng chi kang* yang
+[cendol](/food-lifestyle/cendol), ais kacang (ABC) dan *leng chi kang* yang
 bercampur bahan, dan ia berpadu secara semula jadi dengan minuman soya kopitiam yang
-satu lagi — lihat [soya bean](/ms/food-lifestyle/soya-bean).
+satu lagi — lihat [soya bean](/food-lifestyle/soya-bean).
 
 ## Di mana untuk mendapatkannya
 
 Cincau terdapat di mana-mana minuman murah dan sejuk dijual: kopitiam, pusat jaja,
 gerai pencuci mulut dan *pasar malam*. Untuk versi duduk-makan dunia kedai kopi yang
 menjadi miliknya, lihat
-[budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture). Ia juga
+[budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture). Ia juga
 salah satu minuman siap sedia paling lazim di rak — minuman agar rumput bertin dan
 berkotak (Yeo's antaranya) dijual di setiap pasar raya dan kedai runcit, yang menjadi
 cara ramai orang mula-mula mengenalinya.
@@ -161,8 +161,8 @@ cara ramai orang mula-mula mengenalinya.
 ## Apa yang seterusnya
 
 - Petakan cincau terhadap papan minuman negara yang lebih luas dalam hub
-  [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
+  [minuman Malaysia](/food-lifestyle/malaysian-drinks).
 - Temui pasangan lazimnya, minuman soya kopitiam, dalam
-  [soya bean](/ms/food-lifestyle/soya-bean).
+  [soya bean](/food-lifestyle/soya-bean).
 - Lihat ia ditimbun dalam bentuk pencuci mulut ais serbuk dalam
-  [cendol](/ms/food-lifestyle/cendol).
+  [cendol](/food-lifestyle/cendol).

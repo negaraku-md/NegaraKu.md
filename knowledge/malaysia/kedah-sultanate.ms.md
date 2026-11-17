@@ -65,7 +65,7 @@ verificationNeeded:
 framework: history-culture
 ---
 
-Sedikit sahaja tempat di Malaysia yang memikul masa lampaunya seterbuka Kedah. Jauh sebelum menara masjid menjulang di Alor Setar, dataran hijau sawah antara Sungai Merbok dan Sungai Muda sudah menjadi tempat pendaratan para pedagang yang menunggang angin monsun antara India, China dan dunia Melayu. Para pelaut dan ilmuwan mengenali pantai ini sebagai Kadaram atau Kataha; para ahli arkeologi mengenalinya hari ini menerusi gundukan candi di Lembah Bujang. Daripada permulaan Hindu-Buddha yang kosmopolitan itulah tumbuhnya sebuah monarki Melayu yang akan menongkah [Srivijaya](/ms/malaysia/srivijaya) dan Chola, Ayutthaya dan Bangkok, dan akhirnya Empayar British.
+Sedikit sahaja tempat di Malaysia yang memikul masa lampaunya seterbuka Kedah. Jauh sebelum menara masjid menjulang di Alor Setar, dataran hijau sawah antara Sungai Merbok dan Sungai Muda sudah menjadi tempat pendaratan para pedagang yang menunggang angin monsun antara India, China dan dunia Melayu. Para pelaut dan ilmuwan mengenali pantai ini sebagai Kadaram atau Kataha; para ahli arkeologi mengenalinya hari ini menerusi gundukan candi di Lembah Bujang. Daripada permulaan Hindu-Buddha yang kosmopolitan itulah tumbuhnya sebuah monarki Melayu yang akan menongkah [Srivijaya](/malaysia/srivijaya) dan Chola, Ayutthaya dan Bangkok, dan akhirnya Empayar British.
 
 Apa yang menjadikan Kedah luar biasa bukan sahaja usianya, malah kesinambungannya. Wangsa Mahawangsa diraja masih memerintah, satu benang hidup yang membentang dari legenda hingga ke sebuah monarki berperlembagaan di dalam Malaysia moden. Inilah kisah barisan keturunan itu, diceritakan setakat yang dibenarkan oleh sumber dan berhati-hati di mana sumber itu berselisih.
 
@@ -83,9 +83,9 @@ Para sejarawan melayani tarikh itu dengan berhati-hati. Sebagaimana yang diperha
 
 ## Wangsa Mahawangsa dan satu barisan dinasti yang panjang
 
-Apa jua titik permulaannya yang sebenar, dinasti yang mendakwa keturunan daripada Raja Merong Mahawangsa yang legenda itu telah terbukti amat tahan lama. Senarai pemerintah Kedah membentang daripada satu urutan pemerintah era Hindu kepada satu barisan sultan Melayu yang berjumlah 29 orang hingga ke pemerintahan sekarang. Itu menjadikan Kedah salah satu daripada [sembilan kerabat diraja](/ms/malaysia/nine-royal-houses) yang pemerintahnya membentuk kolej pemilih monarki Malaysia, dan satu contoh utama [sistem kesultanan Melayu](/ms/malaysia/malay-sultanate-system) yang di dalamnya Islam, adat Melayu dan raja berketurunan bergabung menjadi satu institusi tunggal.
+Apa jua titik permulaannya yang sebenar, dinasti yang mendakwa keturunan daripada Raja Merong Mahawangsa yang legenda itu telah terbukti amat tahan lama. Senarai pemerintah Kedah membentang daripada satu urutan pemerintah era Hindu kepada satu barisan sultan Melayu yang berjumlah 29 orang hingga ke pemerintahan sekarang. Itu menjadikan Kedah salah satu daripada [sembilan kerabat diraja](/malaysia/nine-royal-houses) yang pemerintahnya membentuk kolej pemilih monarki Malaysia, dan satu contoh utama [sistem kesultanan Melayu](/malaysia/malay-sultanate-system) yang di dalamnya Islam, adat Melayu dan raja berketurunan bergabung menjadi satu institusi tunggal.
 
-Perjalanan Kedah berjalan selari, tetapi terpisah, daripada [Kesultanan Melaka](/ms/malaysia/melaka-sultanate) yang lebih terkenal dan menguasai selat pada abad ke-15. Jika Melaka bangkit dan jatuh dalam satu abad, kerajaan utara Kedah yang lebih kecil bertahan dengan tunduk kepada kuasa mana yang memegang kelebihan — selalunya, jiran utaranya.
+Perjalanan Kedah berjalan selari, tetapi terpisah, daripada [Kesultanan Melaka](/malaysia/melaka-sultanate) yang lebih terkenal dan menguasai selat pada abad ke-15. Jika Melaka bangkit dan jatuh dalam satu abad, kerajaan utara Kedah yang lebih kecil bertahan dengan tunduk kepada kuasa mana yang memegang kelebihan — selalunya, jiran utaranya.
 
 | Era | Tempoh anggaran | Apa yang mentakrifkannya |
 | --- | --- | --- |
@@ -112,12 +112,12 @@ Perubahan itu dibahaskan dalam Parlimen British hampir serta-merta. Di Dewan Rak
 
 Kedah membawa monarkinya utuh menerusi pendudukan Jepun dan penyusunan semula British Malaya selepas perang, dan pada 1957 ia memasuki Persekutuan Tanah Melayu yang baru merdeka — nukleus Malaysia hari ini — sebagai salah satu negeri anggotanya, pemerintahnya salah seorang raja yang mengambil giliran sebagai raja berperlembagaan negara. Kesinambungan hidup barisan itu terjelma pada pemerintah sekarang: sebagaimana yang dicatatkan dalam profil [Sultan Sallehuddin](https://en.wikipedia.org/wiki/Sallehuddin_of_Kedah), baginda ditabalkan sebagai Sultan Kedah ke-29 pada 12 September 2017 dan dirasmikan secara rasmi di Istana Anak Bukit pada 22 Oktober 2018, menggantikan saudara seayahnya dan menjejaki keturunan baginda sendiri menerusi ayahandanya, sultan ke-27.
 
-Oleh itu, mengkaji Kedah bererti menyaksikan hampir seribu tahun penyesuaian tanpa keretakan: sebuah pelabuhan Hindu-Buddha yang menjadi kesultanan Melayu, sebuah negeri ufti yang bertahan daripada penaklukan, sebuah negeri naungan yang menjadi rakan kongsi setara dalam sebuah persekutuan. Bagi [Kedah](/ms/states/kedah) moden — "jelapang padi" Malaysia — kesultanan bukanlah artifak muzium tetapi jantung institusi bagi identiti negeri itu.
+Oleh itu, mengkaji Kedah bererti menyaksikan hampir seribu tahun penyesuaian tanpa keretakan: sebuah pelabuhan Hindu-Buddha yang menjadi kesultanan Melayu, sebuah negeri ufti yang bertahan daripada penaklukan, sebuah negeri naungan yang menjadi rakan kongsi setara dalam sebuah persekutuan. Bagi [Kedah](/states/kedah) moden — "jelapang padi" Malaysia — kesultanan bukanlah artifak muzium tetapi jantung institusi bagi identiti negeri itu.
 
 ## Apa seterusnya
 
-- Bandingkan kisah utara Kedah dengan kuasa selat [Kesultanan Melaka](/ms/malaysia/melaka-sultanate).
-- Lihat bagaimana Kedah serasi dalam kalangan [sembilan kerabat diraja](/ms/malaysia/nine-royal-houses) yang memilih raja Malaysia.
-- Fahami institusi itu sendiri menerusi [sistem kesultanan Melayu](/ms/malaysia/malay-sultanate-system).
+- Bandingkan kisah utara Kedah dengan kuasa selat [Kesultanan Melaka](/malaysia/melaka-sultanate).
+- Lihat bagaimana Kedah serasi dalam kalangan [sembilan kerabat diraja](/malaysia/nine-royal-houses) yang memilih raja Malaysia.
+- Fahami institusi itu sendiri menerusi [sistem kesultanan Melayu](/malaysia/malay-sultanate-system).
 
 *Rencana ini diklasifikasikan sebagai sensitif (3R+1: kedaulatan raja) di bawah dasar editorial NegaraKu.md kerana ia menyentuh kesinambungan institusi diraja Melayu. Ia ditulis secara deskriptif dan hormat, dan ditahan dalam semakan sementara menunggu kelulusan manusia sebelum penerbitan.*

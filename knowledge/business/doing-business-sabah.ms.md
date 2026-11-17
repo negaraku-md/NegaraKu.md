@@ -352,8 +352,8 @@ lesen perdagangan Cap. 144 di sana, dan sama ada Pihak Berkuasa itu telah meneri
 Undang-undang Kecil Seragam 2022. Selesaikan status imigresen sebelum penyewaan, kerana
 kaunter lesen akan memintanya. Jika anda menghantar komoditi yang tersenarai, semak Perintah
 Cukai Jualan Negeri terkini sebelum menetapkan harga. Kemudian baca
-[mendaftar dan melesenkan perniagaan di Sabah](/ms/business/register-business-sabah)
-untuk mekanismenya, [panduan Sarawak](/ms/business/sarawak-business-guide) untuk melihat
+[mendaftar dan melesenkan perniagaan di Sabah](/business/register-business-sabah)
+untuk mekanismenya, [panduan Sarawak](/business/sarawak-business-guide) untuk melihat
 betapa berbezanya negeri Malaysia Timur yang satu lagi menyelesaikan masalah yang sama, dan
-[perbandingan koridor](/ms/business/economic-corridors-compared) untuk melihat di mana SEDIA
+[perbandingan koridor](/business/economic-corridors-compared) untuk melihat di mana SEDIA
 berada berbanding pihak berkuasa persekutuan.

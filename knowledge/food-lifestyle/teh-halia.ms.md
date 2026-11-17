@@ -86,7 +86,7 @@ drinkFacts:
 ---
 
 Ambil minuman paling terkenal negara, tambah kick halia yang hangat, dan anda dapat **teh
-halia** — teh susu halia, sepupu berempah kepada [teh tarik](/ms/food-lifestyle/teh-tarik).
+halia** — teh susu halia, sepupu berempah kepada [teh tarik](/food-lifestyle/teh-tarik).
 Manis, berkrim dan berapi lembut, ia cawan yang dicapai rakyat Malaysia apabila mereka mahu
 sesuatu yang menghangatkan dan menenangkan.
 
@@ -101,7 +101,7 @@ pekat manis, dan sesetengah gerai menyeduh halia segar ke dalam teh manakala yan
 menggunakan campuran halia.
 
 Untuk melihat kedudukan teh halia dalam kalangan papan minuman negara yang lebih luas,
-lihat hub [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks). Artikel ini ialah
+lihat hub [minuman Malaysia](/food-lifestyle/malaysian-drinks). Artikel ini ialah
 tinjauan mendalam tentang teh susu halia itu sendiri.
 
 ## Ahli keluarga teh tarik
@@ -110,9 +110,9 @@ Cara paling mudah untuk memahami teh halia ialah sebagai **teh tarik dengan hali
 berkongsi asas teh ditarik yang sama, dan apabila ia **"ditarik"** — dituang bolak-balik
 antara dua bekas untuk membuihkan dan menyejukkannya — ia dipanggil **teh tarik halia**.
 Jadi bukannya tradisi yang berasingan, ia **ahli berempah dalam keluarga teh tarik**, duduk
-pada papan yang sama dengan kopi, teh dan [kopi cham](/ms/food-lifestyle/kopi-cham). Untuk
+pada papan yang sama dengan kopi, teh dan [kopi cham](/food-lifestyle/kopi-cham). Untuk
 logik minuman kedai kopi yang lebih luas, lihat
-[kopi, teh tarik dan minuman kedai kopi](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
+[kopi, teh tarik dan minuman kedai kopi](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
 
 ## Panas, ber-ais, dan kegemaran Ramadan
 
@@ -128,11 +128,11 @@ tradisi dan bukannya dakwaan perubatan.)
 Teh halia dituang di kaunter **kopitiam** dan **mamak** di seluruh negara, dari stesen yang
 sama dengan teh tarik dan kopi, dan ia juga dijual sebagai **sachet teh susu halia segera**
 untuk di rumah. Untuk institusi yang menuangnya, lihat
-[budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture).
+[budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture).
 
 ## Apa yang seterusnya
 
 - Petakan teh halia terhadap papan minuman negara yang lebih luas dalam hub
-  [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
-- Temui minuman induknya dalam [teh tarik](/ms/food-lifestyle/teh-tarik).
-- Cuba teh berlapis Sarawak dalam [teh tiga lapis](/ms/food-lifestyle/three-layer-tea).
+  [minuman Malaysia](/food-lifestyle/malaysian-drinks).
+- Temui minuman induknya dalam [teh tarik](/food-lifestyle/teh-tarik).
+- Cuba teh berlapis Sarawak dalam [teh tiga lapis](/food-lifestyle/three-layer-tea).

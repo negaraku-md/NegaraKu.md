@@ -131,9 +131,9 @@ framework: explainer
 Minta pelawat menamakan satu minuman Malaysia dan mereka biasanya akan menyebut
 *teh tarik* atau *kopi*. Kedua-duanya memang layak terkenal — dan masing-masing
 mempunyai
-[panduan kod pesanan kopitiam sendiri](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
+[panduan kod pesanan kopitiam sendiri](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
 Tetapi berdiri di kaunter kedai kopi yang sibuk, di mamak, atau di gerai jus
-[pasar malam](/ms/food-lifestyle/pasar-malam-and-street-food) dan julat sebenar
+[pasar malam](/food-lifestyle/pasar-malam-and-street-food) dan julat sebenar
 terbuka luas: minuman sirap bersusu merah jambu, secawan cincau hitam, soya bean
 berbuih, segunung serbuk Milo, penyejuk buah pala di Pulau Pinang. Hab ini
 memetakan dunia minuman Malaysia yang lebih luas itu — apa minumannya, dan cara
@@ -148,7 +148,7 @@ bersejuk, **kosong** untuk tanpa gula, **gao** untuk pekat. "Sirap bandung peng"
 hanyalah sirap bandung beais; "limau ais" ialah limau beais. Tatabahasa penuh —
 termasuk mengapa *O* bermaksud tanpa susu dan asal *C* yang diperdebatkan — ada
 dalam panduan iringan
-[kopi, teh tarik dan minuman kedai kopi](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks),
+[kopi, teh tarik dan minuman kedai kopi](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks),
 jadi artikel ini tidak masuk ke lorong itu dan merangkumi segala yang lain pada
 menu.
 
@@ -195,7 +195,7 @@ rumput — agar gelap, pahit-manis ringan yang dibekukan daripada tumbuhan
 *Platostoma* (dahulunya *Mesona*), dipotong menjadi jalur atau kiub dan dihidang
 dalam air manis atau soya bean, kadangkala dengan longan atau dalam minuman
 *cincau* tersendiri. Ia agar yang sama yang muncul dalam
-[cendol](/ms/food-lifestyle/cendol) dan pencuci mulut ais serbuk.
+[cendol](/food-lifestyle/cendol) dan pencuci mulut ais serbuk.
 
 **Air mata kucing** ialah satu lagi klasik: penyejuk manis yang dihidang sejuk,
 biasanya dibina atas **longan** kering, **luo han guo** (buah sami) dan
@@ -241,7 +241,7 @@ Chowrasta dan sering ditawarkan dengan larasan *asam*; panduan pelancongan
 mengaitkannya dengan sejarah panjang penanaman buah pala Pulau Pinang, suatu
 dakwaan warisan yang wajar dianggap sebagai latar belakang dan bukan fakta
 muktamad. Untuk hidangan penuh keistimewaan pulau itu, lihat
-[makanan Pulau Pinang](/ms/food-lifestyle/penang-food).
+[makanan Pulau Pinang](/food-lifestyle/penang-food).
 
 Di seluruh negara, **air kelapa** — air kelapa segar yang diminum terus daripada
 kelapa muda yang disejukkan — ialah penyegar tepi jalan, dan isi seperti agar
@@ -249,7 +249,7 @@ dicedok keluar selepas itu. Dan mengaburkan garis antara minuman dan pencuci
 mulut ialah **ABC** (*air batu campur*, secara harfiah "ais bercampur") —
 segunung ais serbuk di atas kacang merah, jagung manis, cincau dan lagi,
 disiram sirap berwarna dan susu pekat; ia saudara boleh minum bagi tradisi
-pencuci mulut yang juga dilihat dalam [cendol](/ms/food-lifestyle/cendol).
+pencuci mulut yang juga dilihat dalam [cendol](/food-lifestyle/cendol).
 
 ## Lassi dan gelombang bubble tea
 
@@ -264,11 +264,11 @@ sejak lama menjadikan kopi, teh dan sirap miliknya sendiri.
 
 ## Apa seterusnya
 
-- [Kopi, teh tarik dan minuman kedai kopi](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks) —
+- [Kopi, teh tarik dan minuman kedai kopi](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks) —
   panduan iringan untuk menyahkod kod pesanan kopi dan teh.
-- [Budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture) —
+- [Budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture) —
   kedai kopi dan gerai mamak 24 jam tempat kebanyakan minuman ini dihidang.
-- [Pasar malam dan makanan jalanan](/ms/food-lifestyle/pasar-malam-and-street-food) —
+- [Pasar malam dan makanan jalanan](/food-lifestyle/pasar-malam-and-street-food) —
   gerai jus pasar malam dan gerai yang menjualnya segar.
-- [Cendol](/ms/food-lifestyle/cendol) — pencuci mulut beais yang berkongsi
+- [Cendol](/food-lifestyle/cendol) — pencuci mulut beais yang berkongsi
   cincau, sirap dan kelapa dengan beberapa minuman ini.

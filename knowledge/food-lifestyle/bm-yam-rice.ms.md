@@ -103,7 +103,7 @@ Guide.
 BM Yam Rice ialah kedai makan Teochew kecil, dikendalikan keluarga, yang diiktiraf
 dalam MICHELIN Guide sebagai pilihan **Bib Gourmand** — anugerah Guide bagi
 masakan bermutu baik dan berbaloi (lihat
-[MICHELIN Guide di Malaysia](/ms/food-lifestyle/michelin-guide-malaysia) untuk
+[MICHELIN Guide di Malaysia](/food-lifestyle/michelin-guide-malaysia) untuk
 memahami cara anugerah ini berfungsi). Ia antara sedikit senarai Seberang Perai
 dalam pemilihan yang sebaliknya berpusat di George Town. Status senarainya telah
 berpindah antara MICHELIN Selected dan Bib Gourmand merentasi edisi, jadi Guide

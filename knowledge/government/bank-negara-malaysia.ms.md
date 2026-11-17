@@ -372,10 +372,10 @@ figur langsung terdapat di `bnm.gov.my`: halaman keputusan OPR bagi kadar dasar,
 Penyata Dasar Monetari bagi penaakulannya, dan bahagian Dasar Pertukaran Asing bagi
 peraturan forex. Bagi gambaran ekonomi yang lebih luas — KDNK, inflasi dan pasaran
 buruh — pihak berkuasa penerbitannya ialah
-[Jabatan Perangkaan Malaysia](/ms/government/dosm), bukan BNM. Bagi cara Kerajaan
+[Jabatan Perangkaan Malaysia](/government/dosm), bukan BNM. Bagi cara Kerajaan
 mengumpul dan membelanjakan wang, lihat
-[belanjawan persekutuan](/ms/government/federal-budget); dan bagi aspek cukai dalam
-lejar itu, [Lembaga Hasil Dalam Negeri](/ms/government/lhdn). Untuk membaca
+[belanjawan persekutuan](/government/federal-budget); dan bagi aspek cukai dalam
+lejar itu, [Lembaga Hasil Dalam Negeri](/government/lhdn). Untuk membaca
 peraturan itu sendiri, mulakan dengan Akta Bank Negara Malaysia 2009 (Akta 701) —
 ia cukup ringkas untuk diselak dan cukup muktamad untuk menyelesaikan hampir
 mana-mana perbalahan tentang apa yang Bank Negara Malaysia dibenarkan, dan tidak

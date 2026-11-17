@@ -127,7 +127,7 @@ Ini merupakan titik kekeliruan yang paling lazim. Khazanah ialah salah satu Syar
 - **"Pelanggan"nya ialah Kerajaan.** Pulangan Khazanah mengalir kepada Kerajaan Persekutuan sebagai **dividen**, bukan kepada penyimpan individu.
 - **Modalnya ialah aset milik negara sendiri.** Ia bermula dengan pegangan komersial sedia ada Kerajaan dan berkembang melalui pendapatan pelaburan tertahan, bukan deposit atau langganan.
 
-Untuk perbandingan yang lebih lengkap antara Khazanah dengan KWSP dan PNB, lihat [halaman entiti Khazanah](/ms/economy/khazanah) yang khusus.
+Untuk perbandingan yang lebih lengkap antara Khazanah dengan KWSP dan PNB, lihat [halaman entiti Khazanah](/economy/khazanah) yang khusus.
 
 ## Seberapa besarkah Khazanah?
 
@@ -160,7 +160,7 @@ Apabila berita perniagaan Malaysia menyatakan bahawa sesebuah syarikat itu "syar
 
 ## Apa seterusnya
 
-- Baca [halaman entiti Khazanah](/ms/economy/khazanah) yang lebih mendalam untuk perbandingannya dengan KWSP dan PNB.
-- Ketahui apa itu [GLC](/ms/glossary/glc) dan bagaimana ia berbeza daripada GLIC.
-- Lihat di mana pegangan tersenarai Khazanah sebenarnya didagangkan: [Bursa Malaysia](/ms/economy/bursa-malaysia).
+- Baca [halaman entiti Khazanah](/economy/khazanah) yang lebih mendalam untuk perbandingannya dengan KWSP dan PNB.
+- Ketahui apa itu [GLC](/glossary/glc) dan bagaimana ia berbeza daripada GLIC.
+- Lihat di mana pegangan tersenarai Khazanah sebenarnya didagangkan: [Bursa Malaysia](/economy/bursa-malaysia).
 - Untuk penyata kewangan teraudit penuh dan butiran portfolio, rujuk *Khazanah Report* tahunan di laman web rasmi Khazanah.

@@ -296,7 +296,7 @@ Model minda:
 - **MDEC (Status MD)** = insentif dan status.
 
 Untuk mekanisme melayakkan diri untuk Status MD itu sendiri, lihat panduan khusus
-mengenai [MDEC dan status Malaysia Digital](/ms/business/mdec-digital-status).
+mengenai [MDEC dan status Malaysia Digital](/business/mdec-digital-status).
 
 ## Pintu mana yang patut diketuk dahulu oleh seorang pengasas?
 
@@ -356,8 +356,8 @@ disokong melalui Jelawang Capital berbanding mengharapkan kerajaan menulis cek
 secara langsung.
 
 Bacaan berkaitan di NegaraKu.md:
-[MDEC dan status Malaysia Digital](/ms/business/mdec-digital-status) ·
-[Pembiayaan PKS di Malaysia](/ms/business/sme-financing-malaysia) ·
-[Pendanaan ramai ekuiti dan pembiayaan P2P](/ms/business/equity-crowdfunding-p2p-malaysia) ·
-[Hab teknologi Cyberjaya](/ms/business/cyberjaya-tech-hub) ·
-[Gambaran keseluruhan ekonomi digital Malaysia](/ms/technology/digital-economy-overview)
+[MDEC dan status Malaysia Digital](/business/mdec-digital-status) ·
+[Pembiayaan PKS di Malaysia](/business/sme-financing-malaysia) ·
+[Pendanaan ramai ekuiti dan pembiayaan P2P](/business/equity-crowdfunding-p2p-malaysia) ·
+[Hab teknologi Cyberjaya](/business/cyberjaya-tech-hub) ·
+[Gambaran keseluruhan ekonomi digital Malaysia](/technology/digital-economy-overview)

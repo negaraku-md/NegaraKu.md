@@ -125,7 +125,7 @@ menerusi Hari Raya Aidilfitri, Tahun Baru Cina, Deepavali, Krismas, dan di
 Malaysia Timur Gawai Dayak serta Kaamatan, dan ia meningkat ke peringkat rumah
 terbuka syarikat dan kerajaan. Untuk asal usul dan rangka perpaduan nasional
 adat itu sendiri, lihat nota konsep
-[Rumah Terbuka](/ms/glossary/open-house); halaman ini pula tentang menjadi
+[Rumah Terbuka](/glossary/open-house); halaman ini pula tentang menjadi
 tetamu yang baik di sebuah rumah terbuka.
 
 Akibat praktikal "terbuka" ialah lazimnya **tiada senarai tetamu yang diurus
@@ -295,11 +295,11 @@ menenangkan:
 ## Apa seterusnya
 
 - Adat itu sendiri, akar *muhibbah*-nya dan rumah terbuka kerajaan:
-  [Rumah Terbuka](/ms/glossary/open-house)
+  [Rumah Terbuka](/glossary/open-house)
 - Perayaan di sebalik jemputan:
-  [Hari Raya Aidilfitri](/ms/arts-culture/hari-raya-aidilfitri),
-  [Tahun Baru Cina](/ms/arts-culture/chinese-new-year),
-  [Deepavali](/ms/arts-culture/deepavali) dan
-  [Gawai Dayak](/ms/arts-culture/gawai-dayak)
+  [Hari Raya Aidilfitri](/arts-culture/hari-raya-aidilfitri),
+  [Tahun Baru Cina](/arts-culture/chinese-new-year),
+  [Deepavali](/arts-culture/deepavali) dan
+  [Gawai Dayak](/arts-culture/gawai-dayak)
 - Makan di luar sepanjang tahun, dan cara perkhidmatan serta tip berfungsi:
-  [Adab Makan, Tip dan Caj Perkhidmatan](/ms/food-lifestyle/dining-etiquette-tipping-and-service-charge)
+  [Adab Makan, Tip dan Caj Perkhidmatan](/food-lifestyle/dining-etiquette-tipping-and-service-charge)

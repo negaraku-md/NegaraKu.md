@@ -88,7 +88,7 @@ Wong Mei Kee dikelaskan oleh MICHELIN Guide sebagai **Street Food** dan diiktira
 dengan **Bib Gourmand** — tandanya bagi masakan berkualiti baik pada harga berbaloi.
 Daya tarikannya ialah **siew yok**, babi panggang Kantonis dengan kulit rangup dan isi
 yang berair, satu tunggak
-[masakan Cina-Malaysia](/ms/food-lifestyle/chinese-malaysian-cuisine). 'Dibuka hanya
+[masakan Cina-Malaysia](/food-lifestyle/chinese-malaysian-cuisine). 'Dibuka hanya
 beberapa jam sehari,' tulis panduan itu, 'gerai ini menarik peminat makanan secara
 berduyun-duyun dengan siew yok-nya yang diidamkan.' Ia diiktiraf dalam pilihan
 MICHELIN Guide Kuala Lumpur & Penang 2023, dan berada dalam julat $ (paling murah).
@@ -106,5 +106,5 @@ daripada pengalaman, bukan tanda untuk datang kemudian.
 Wong Mei Kee terletak di 30 Jalan Nyonya, bersebelahan Jalan Pudu, Kuala Lumpur. Ia
 dibuka hanya pada waktu makan tengah hari pada hari-hari terpilih dan menguruskan
 tempahannya sendiri. Ia salah satu catatan makanan jalanan dalam senarai Bib Gourmand
-[MICHELIN Guide Malaysia](/ms/food-lifestyle/michelin-guide-malaysia), yang disegarkan
+[MICHELIN Guide Malaysia](/food-lifestyle/michelin-guide-malaysia), yang disegarkan
 setiap tahun — jadi sahkan waktu dan status semasa sebelum membuat perjalanan khas.

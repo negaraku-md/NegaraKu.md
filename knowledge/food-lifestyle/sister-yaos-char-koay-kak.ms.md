@@ -93,14 +93,14 @@ MICHELIN Guide atas kekuatan hangus berasap itu.
 
 Sister Yao's Char Koay Kak memegang MICHELIN **Bib Gourmand** — tanda untuk
 masakan berkualiti baik pada harga berbaloi — dalam
-[MICHELIN Guide Kuala Lumpur & Penang](/ms/food-lifestyle/michelin-guide-malaysia).
+[MICHELIN Guide Kuala Lumpur & Penang](/food-lifestyle/michelin-guide-malaysia).
 Ia salah satu kisah gerai-ke-panduan yang paling tulen di bandar ini: satu
 hidangan, dimasak di satu gerai, diiktiraf atas istilahnya sendiri.
 
 ## Hidangan istimewa
 
 Satu-satunya hidangan ialah **char koay kak**, kuih beras goreng berasal Teochew
-dan makanan ruji [makanan Pulau Pinang](/ms/food-lifestyle/penang-food). Ketulan
+dan makanan ruji [makanan Pulau Pinang](/food-lifestyle/penang-food). Ketulan
 kuih beras kukus digoreng pada kuali yang sangat panas sehingga ia memperoleh
 **wok hei** berasap, kemudian digaul dengan kicap, taugeh, telur dan cili, dengan
 sos pedas tambahan atas permintaan.

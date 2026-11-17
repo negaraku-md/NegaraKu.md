@@ -244,9 +244,9 @@ terhadap dokumen Pelan Strategik utama sebelum diterbitkan.)
 
 Beberapa perkara di sini wajar mempunyai halamannya sendiri: bagaimana untuk
 menghubungi sesebuah misi Malaysia dan apakah dokumen yang boleh dikeluarkannya
-kepada anda di luar negara; bagaimana [Jabatan Imigresen](/ms/government/imigresen)
+kepada anda di luar negara; bagaimana [Jabatan Imigresen](/government/imigresen)
 dan Wisma Putra membahagikan kerja pasport di dalam negara berbanding di luar
-negara; dan sisi perdagangan cerita ini di [MITI](/ms/government/miti) dan
-[MATRADE](/ms/government/matrade). Buat masa ini, peraturan kerjanya mudah:
+negara; dan sisi perdagangan cerita ini di [MITI](/government/miti) dan
+[MATRADE](/government/matrade). Buat masa ini, peraturan kerjanya mudah:
 diplomasi, misi dan bantuan konsular pergi kepada Wisma Putra; dasar perdagangan
 dan promosi eksport pergi kepada kementerian perdagangan.

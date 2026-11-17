@@ -90,7 +90,7 @@ dibawa pulang.
 
 Ini ialah panduan praktikalnya. Untuk sejarah sosial dan peranan pasar ini
 dalam kehidupan rakyat Malaysia, lihat tulisan iringan tentang
-[pasar malam dan budaya makanan jalanan](/ms/food-lifestyle/pasar-malam-and-street-food).
+[pasar malam dan budaya makanan jalanan](/food-lifestyle/pasar-malam-and-street-food).
 
 ## Cari malam anda, dan pergi awal
 
@@ -131,7 +131,7 @@ di tapak**.
 
 Walaupun begitu, **pembayaran e-dompet kini meluas.** Banyak gerai menerima
 **DuitNow QR** — standard QR saling kendali kebangsaan Malaysia, di mana satu
-kod berfungsi merentasi bank dan e-dompet yang menyertai — dan **[Touch 'n Go](/ms/transport/touch-n-go)
+kod berfungsi merentasi bank dan e-dompet yang menyertai — dan **[Touch 'n Go](/transport/touch-n-go)
 eWallet**, ditunjukkan oleh papan atau pelekat QR yang anda imbas; GrabPay dan
 Boost juga biasa. Penggunaan kini mencecah jutaan peniaga di seluruh negara,
 dibantu oleh DuitNow QR yang mengenakan sedikit atau tiada yuran bagi peniaga
@@ -210,6 +210,6 @@ makanan bungkus, bukan jamuan duduk makan.
 - Cari malam dan lokasi pasar kejiranan anda pada senarai pasar malam **majlis
   tempatan** anda (untuk KL, senarai DBKL).
 - Untuk budaya dan sejarah di sebalik pasar ini, lihat
-  [pasar malam dan budaya makanan jalanan](/ms/food-lifestyle/pasar-malam-and-street-food).
+  [pasar malam dan budaya makanan jalanan](/food-lifestyle/pasar-malam-and-street-food).
 - Untuk alternatif berbumbung dan duduk makan pada mana-mana hari dalam minggu,
-  lihat [medan selera dan kompleks makanan](/ms/food-lifestyle/hawker-centres-and-food-courts).
+  lihat [medan selera dan kompleks makanan](/food-lifestyle/hawker-centres-and-food-courts).

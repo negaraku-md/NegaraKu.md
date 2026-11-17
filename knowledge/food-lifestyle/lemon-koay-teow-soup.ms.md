@@ -92,7 +92,7 @@ berbaloi dan bukan penarafan bintang. Ia berada dalam kategori makanan jalanan
 pada tahap harga terendah ($) dan tunai sahaja. Ia salah satu entri Seberang Perai
 (tanah besar) yang meluaskan peta MICHELIN Pulau Pinang melangkaui pulau; untuk
 konteks, lihat
-[MICHELIN Guide di Malaysia](/ms/food-lifestyle/michelin-guide-malaysia).
+[MICHELIN Guide di Malaysia](/food-lifestyle/michelin-guide-malaysia).
 
 ## Mangkuk
 
@@ -110,7 +110,7 @@ Senarai MICHELIN memberikan alamat sebagai 4415 Lorong Cengal 5, Butterworth,
 Seberang Perai, 13400, Pulau Pinang. Butterworth ialah bandar tanah besar bertentangan
 dengan George Town, dihubungkan dengan feri dan Jambatan Pulau Pinang, dan menjadi
 sebahagian daripada adegan makanan yang pesat berkembang di
-[tanah besar Pulau Pinang](/ms/food-lifestyle/penang-food).
+[tanah besar Pulau Pinang](/food-lifestyle/penang-food).
 
 ## Latar belakang
 

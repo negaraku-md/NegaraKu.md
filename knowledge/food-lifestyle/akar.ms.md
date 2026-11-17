@@ -93,7 +93,7 @@ framework: profile
 
 Akar ialah sebuah restoran fine dining Malaysia moden di Taman Tun Dr Ismail
 (TTDI), sebuah kawasan kediaman di bahagian barat Kuala Lumpur. Ia memegang Satu
-MICHELIN Star dalam [MICHELIN Guide](/ms/food-lifestyle/michelin-guide-malaysia)
+MICHELIN Star dalam [MICHELIN Guide](/food-lifestyle/michelin-guide-malaysia)
 Kuala Lumpur & Penang, yang penyenaraiannya menggambarkan sebuah set menu yang
 menapis teknik Eropah menerusi pengaruh Jepun, Perancis dan Malaysia.
 
@@ -104,7 +104,7 @@ berkualiti tinggi" yang "berbaloi untuk singgah." Dalam senarai pilihan penuh
 semasa MICHELIN bagi Malaysia, Akar disenaraikan antara restoran satu-Star dan
 ditandakan sebagai kemasukan yang baharu dinaikkan taraf. Satu Star tunggal tetap
 meletakkannya dalam kumpulan kecil restoran Malaysia yang diiktiraf oleh guide
-itu, sebahagian daripada peta yang lebih luas tentang [fine dining](/ms/food-lifestyle/fine-dining-malaysia)
+itu, sebahagian daripada peta yang lebih luas tentang [fine dining](/food-lifestyle/fine-dining-malaysia)
 negara ini.
 
 ## Makanannya: resipi Eropah, akar umbi Malaysia
@@ -118,7 +118,7 @@ Malaysia." Menunya ialah set menu bermusim yang disifatkan oleh guide sebagai
 peribadinya," menggunakan bahan tempatan dan teknik yang termasuk memasak dalam
 lilin lebah cair, dry-age dan membakar sear dalam claypot. Pasangan arak beras
 tempatan dan sake ditawarkan. Gabungan teknik yang diimport dan hasil Malaysia
-ini duduk bersebelahan dengan [tradisi kulinari](/ms/food-lifestyle/national-dishes-of-malaysia)
+ini duduk bersebelahan dengan [tradisi kulinari](/food-lifestyle/national-dishes-of-malaysia)
 negara yang lebih luas.
 
 ## Latar dan lokasi

@@ -106,7 +106,7 @@ biasa, ia antara perkara yang lebih mencabar di atas meja makan Malaysia.
 ## Perasa jantung tanah Melayu
 
 Tempoyak ialah pes durian fermentasi yang dimakan terutamanya sebagai perasa dan
-asas masakan dalam [masakan Melayu](/ms/food-lifestyle/malay-cuisine). Walaupun ia
+asas masakan dalam [masakan Melayu](/food-lifestyle/malay-cuisine). Walaupun ia
 terdapat di seluruh negara, dari Kuala Lumpur hingga ke Sarawak, ia paling kuat
 dikaitkan dengan negeri jantung tanah Melayu iaitu Pahang dan Perak, tempat durian
 melimpah dan hidangan yang dibina di atas tempoyak menjadi kebanggaan tempatan. Ia
@@ -116,11 +116,11 @@ tidak dipastikan dengan tegas.
 
 Diletakkan antara perasa fermentasi lain Malaysia, tempoyak ialah sepupu berasaskan
 buah kepada pes-pes berasaskan makanan laut. Di mana
-[belacan](/ms/food-lifestyle/belacan) dibina atas udang yang difermentasi, tempoyak
+[belacan](/food-lifestyle/belacan) dibina atas udang yang difermentasi, tempoyak
 memfermentasikan durian — tetapi kedua-duanya melakukan kerja yang sama, memberi
 tulang belakang yang dalam dan masam-gurih kepada sambal, gulai dan hidangan nasi
 yang membentuk peta lebih luas
-[masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+[masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
 rantau ini.
 
 ## Cara tempoyak dibuat
@@ -168,10 +168,10 @@ hidangan.
 ## Sambal tempoyak dan peranan sebagai perasa
 
 Paling kerap, tempoyak sampai ke meja sebagai sambal. **Sambal tempoyak** mengadun
-pes fermentasi itu dengan cili tumbuk dan [belacan](/ms/food-lifestyle/belacan),
+pes fermentasi itu dengan cili tumbuk dan [belacan](/food-lifestyle/belacan),
 menukarkan kemasaman tempoyak menjadi perasa yang pedas, funky dan gurih yang dimakan
 dalam kuantiti kecil bersama nasi, ikan bakar dan sayur mentah (*ulam*). Ia berada
-dalam keluarga luas [sambal](/ms/food-lifestyle/sambal) Malaysia, di mana asas cili
+dalam keluarga luas [sambal](/food-lifestyle/sambal) Malaysia, di mana asas cili
 dikahwinkan dengan agen pemasam atau gurih — di sini, durian fermentasi dan bukannya
 limau, asam jawa atau belacan semata-mata.
 
@@ -231,7 +231,7 @@ memeningkan, keamatan yang menjadi-jadi. Membuat tempoyak ialah mengambil perkar
 memecah-belahkan di dusun Malaysia dan menaikkannya, bukannya menjinakkannya.
 
 Bagi sesiapa yang meneroka
-[budaya durian Malaysia](/ms/food-lifestyle/durian-culture-and-varieties), tempoyak
+[budaya durian Malaysia](/food-lifestyle/durian-culture-and-varieties), tempoyak
 ialah bukti paling jelas betapa dalamnya buah itu terjalin ke dalam periuk masakan dan
 bukan hanya gerai buah. Ia menukarkan kemewahan bermusim yang singkat dan mudah rosak
 menjadi makanan ruji sepanjang tahun — dan memberikan dapur Melayu salah satu nota
@@ -239,11 +239,11 @@ masamnya yang paling tersendiri, dan paling memecah-belahkan.
 
 ## Apa seterusnya
 
-- [Budaya dan jenis durian](/ms/food-lifestyle/durian-culture-and-varieties) — buah di
+- [Budaya dan jenis durian](/food-lifestyle/durian-culture-and-varieties) — buah di
   sebalik pes itu, dan sebab orang Malaysia menghargainya.
-- [Sambal](/ms/food-lifestyle/sambal) — keluarga perasa berasaskan cili yang sambal
+- [Sambal](/food-lifestyle/sambal) — keluarga perasa berasaskan cili yang sambal
   tempoyak tergolong di dalamnya.
-- [Belacan](/ms/food-lifestyle/belacan) — pes udang fermentasi yang memainkan peranan
+- [Belacan](/food-lifestyle/belacan) — pes udang fermentasi yang memainkan peranan
   gurih yang serupa, dan rakan dalam sambal tempoyak.
-- [Masakan Melayu](/ms/food-lifestyle/malay-cuisine) — tradisi lebih luas yang
+- [Masakan Melayu](/food-lifestyle/malay-cuisine) — tradisi lebih luas yang
   diperisakan oleh tempoyak.

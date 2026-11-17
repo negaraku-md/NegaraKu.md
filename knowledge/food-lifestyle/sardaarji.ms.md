@@ -99,7 +99,7 @@ framework: profile
 Masakan rumah Punjabi bukanlah perkara pertama yang dikaitkan kebanyakan pelawat
 dengan jalan-jalan makanan George Town, dan itulah sebahagian sebab Sardaarji
 menonjol. MICHELIN Guide menyenaraikan restoran India Utara ini dengan
-[Bib Gourmand](/ms/food-lifestyle/michelin-guide-malaysia), anugerahnya untuk
+[Bib Gourmand](/food-lifestyle/michelin-guide-malaysia), anugerahnya untuk
 makanan sedap pada harga berpatutan.
 
 ## Apa ia
@@ -117,7 +117,7 @@ MICHELIN menunjukkan fish amritsari, kari ikan merah snapper yang pedas, dan
 palak paneer — hidangan bayam berkrim yang diangkat dengan jintan putih — sebagai
 hidangan yang patut dicuba, diakhiri dengan gulab jamun yang manis dan direndam
 sirap. Masakan ini tergolong di hujung Utara
-[hidangan India-Malaysia](/ms/food-lifestyle/indian-malaysian-cuisine) yang luas,
+[hidangan India-Malaysia](/food-lifestyle/indian-malaysian-cuisine) yang luas,
 berbeza daripada gaya daun pisang India Selatan yang lebih lazim di Malaysia.
 
 ## Di mana mencarinya
@@ -137,4 +137,4 @@ dalam masakannya dan menjadi sebahagian sebab pemeriksa MICHELIN memilihnya.
 
 Restoran ini menguruskan tempahannya sendiri, jadi tempah dengan menghubunginya
 secara terus. Satu lawatan serasi secara semula jadi dengan jelajah yang lebih
-luas tentang [makanan Pulau Pinang](/ms/food-lifestyle/penang-food).
+luas tentang [makanan Pulau Pinang](/food-lifestyle/penang-food).

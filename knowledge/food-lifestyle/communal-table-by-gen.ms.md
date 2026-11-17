@@ -89,7 +89,7 @@ framework: profile
 **Communal Table by Gēn** ialah yang paling kontemporari antara nama-nama Bib
 Gourmand George Town: sebuah ruang berteraskan kaunter di Lebuh Presgrave, di
 mana sebuah dapur terbuka menghasilkan menu moden yang pendek, yang melipat
-masakan [Peranakan dan Malaysia](/ms/food-lifestyle/nyonya-peranakan-cuisine)
+masakan [Peranakan dan Malaysia](/food-lifestyle/nyonya-peranakan-cuisine)
 menjadi sesuatu yang tersendiri. MICHELIN menyenaraikannya sebagai Malaysian
 dalam jalur `$$` dan menganugerahkannya Bib Gourmand untuk masakan yang baik
 pada nilai yang baik.
@@ -97,7 +97,7 @@ pada nilai yang baik.
 ## Sebuah Bib Gourmand moden
 
 Restoran ini antara entri Penang dalam [MICHELIN Guide ke Kuala Lumpur dan
-Penang](/ms/food-lifestyle/michelin-guide-malaysia). Guide menggambarkan sebuah
+Penang](/food-lifestyle/michelin-guide-malaysia). Guide menggambarkan sebuah
 ruang santai dan menenangkan yang dibina sekitar dapur terbuka, sebuah meja
 kaunter panjang dan tingkap dari lantai ke siling — satu format yang mempamerkan
 masakan, dan para pengunjung. MICHELIN turut mencatatkan bahawa cef restoran itu
@@ -127,6 +127,6 @@ melawat.
 
 Tempah lebih awal dan ambil tempat duduk kaunter jika anda boleh — dapur terbuka
 ialah sebahagian daripada pengalaman itu. Ia ialah penutup moden kepada satu
-[jelajah makanan](/ms/food-lifestyle/penang-food) George Town, menunjukkan cara
+[jelajah makanan](/food-lifestyle/penang-food) George Town, menunjukkan cara
 tradisi Peranakan dan Malaysia kota itu sedang diolah semula oleh sebuah dapur
 yang lebih muda.

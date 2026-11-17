@@ -155,11 +155,11 @@ dan mesra merentas setiap komuniti, ia tempat rakyat Malaysia berkumpul sambil
 minum *teh tarik* untuk menonton bola sepak, berbual politik atau sekadar
 melewatkan petang yang panas. (Dunia yang lebih luas itu dibincangkan dalam
 panduan NegaraKu.md tentang
-[budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture).)
+[budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture).)
 
 Mi goreng ini berkongsi menu mamak dengan sekumpulan watak yang biasa —
-[roti canai](/ms/food-lifestyle/roti-canai) pada waktu pagi,
-[nasi kandar](/ms/food-lifestyle/nasi-kandar) di kaunter nasi, *maggi goreng*
+[roti canai](/food-lifestyle/roti-canai) pada waktu pagi,
+[nasi kandar](/food-lifestyle/nasi-kandar) di kaunter nasi, *maggi goreng*
 dan *mee rebus* di sampingnya — dan seorang tukang masak yang mengendalikan gerai
 sibuk akan melepaskan pinggan demi pinggan dari satu kuali yang sudah elok
 perisanya, setiap satu disesuaikan dengan pesanan yang dilaungkan merentas
@@ -230,16 +230,16 @@ Keterserataan harian itulah intipatinya. Mee goreng mamak bukan hidangan majlis
 istimewa atau ziarah serantau seperti sesetengah makanan; ia pinggan yang dicapai
 rakyat Malaysia tanpa berfikir, dan dalam erti itu ia duduk dekat dengan pusat
 cara negara ini sebenarnya makan — sebahagian daripada peta yang lebih luas
-[masakan wilayah dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) yang
+[masakan wilayah dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) yang
 dijejaki NegaraKu.md di tempat lain.
 
 ## Seterusnya
 
-- [Budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture) — gerai
+- [Budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture) — gerai
   dan dunia kedai kopi tempat mee goreng mamak hidup.
-- [Nasi kandar](/ms/food-lifestyle/nasi-kandar) — hidangan nasi mamak yang
+- [Nasi kandar](/food-lifestyle/nasi-kandar) — hidangan nasi mamak yang
   berkongsi kaunternya.
-- [Roti canai](/ms/food-lifestyle/roti-canai) — roti leper mamak yang membuka
+- [Roti canai](/food-lifestyle/roti-canai) — roti leper mamak yang membuka
   hari.
-- [Masakan wilayah dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan wilayah dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   peta yang lebih luas tentang cara komuniti Malaysia makan.

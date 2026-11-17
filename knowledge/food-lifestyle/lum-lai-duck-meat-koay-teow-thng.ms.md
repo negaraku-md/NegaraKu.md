@@ -93,7 +93,7 @@ bandar itu bersetuju.
 
 Lum Lai Duck Meat Koay Teow Th'ng memegang MICHELIN **Bib Gourmand** — tanda
 untuk masakan berkualiti baik pada harga berbaloi — dalam
-[MICHELIN Guide Kuala Lumpur & Penang](/ms/food-lifestyle/michelin-guide-malaysia).
+[MICHELIN Guide Kuala Lumpur & Penang](/food-lifestyle/michelin-guide-malaysia).
 Populariti gerai ini hanya bertambah sejak pengiktirafan itu, dan pemeriksa
 memberi amaran untuk menjangka beratur pada waktu puncak.
 
@@ -101,7 +101,7 @@ memberi amaran untuk menjangka beratur pada waktu puncak.
 
 Hidangannya ialah **koay teow th'ng**, semangkuk kuetiau rata berasal Teochew
 dalam sup jernih — salah satu gaya klasik
-[mi Malaysia](/ms/food-lifestyle/malaysian-noodles). Versi Lum Lai dibina atas
+[mi Malaysia](/food-lifestyle/malaysian-noodles). Versi Lum Lai dibina atas
 itik, khinzir dan keropok ikan. Sup itu direbus perlahan sekurang-kurangnya dua
 jam dengan itik penuh, tulang khinzir dan isi perut sehingga ia sangat umami;
 itik keluar lembut, dan setiap mangkuk dihias dengan lada putih, kicap, daun
@@ -111,7 +111,7 @@ bawang serta bawang putih goreng keemasan. Kuah cili-kicap dihidang di tepi.
 
 Gerai ini berniaga di dalam **Pasar Lebuh Cecil (Pasar Lebuh Cecil), 24 Lebuh
 Cecil, George Town, 10300** — sebuah suasana dewan pasar Pulau Pinang klasik
-antara institusi [makanan Pulau Pinang](/ms/food-lifestyle/penang-food) lain di
+antara institusi [makanan Pulau Pinang](/food-lifestyle/penang-food) lain di
 bandar dalaman. MICHELIN Guide menyenaraikannya pada tahap harga paling rendah
 ($), dan hanya menerima tunai.
 

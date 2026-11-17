@@ -179,7 +179,7 @@ berniaga berjam-jam lamanya, sesetengahnya sepanjang masa. Yang pentingnya, ia j
 antara ruang yang paling bercampur dari segi sosial di Malaysia, tempat orang Melayu,
 Cina, India dan pelawat duduk bersebelahan berkongsi pinggan roti yang sama. Untuk
 memahami hidangan ini sepenuhnya, ada baiknya membacanya seiring dengan dunia yang
-lebih luas iaitu [budaya kopitiam & mamak](/ms/food-lifestyle/kopitiam-mamak-culture)
+lebih luas iaitu [budaya kopitiam & mamak](/food-lifestyle/kopitiam-mamak-culture)
 yang membingkai cara orang Malaysia berkumpul untuk makan.
 
 ## Cara ia dihidangkan — dhal dan kari
@@ -239,8 +239,8 @@ mentakrifkan sesebuah masakan.
 ## Apa seterusnya
 
 - Terokai gerai dan kedai kopi yang memberikan roti canai rumahnya dalam [budaya
-  kopitiam & mamak](/ms/food-lifestyle/kopitiam-mamak-culture).
+  kopitiam & mamak](/food-lifestyle/kopitiam-mamak-culture).
 - Lihat kedudukannya antara hidangan paling digemari negara ini dalam [hidangan
-  nasional Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia).
+  nasional Malaysia](/food-lifestyle/national-dishes-of-malaysia).
 - Jejaki warisan India-Muslimnya dalam peta yang lebih luas iaitu [masakan serantau
-  dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines).
+  dan etnik](/food-lifestyle/regional-and-ethnic-cuisines).

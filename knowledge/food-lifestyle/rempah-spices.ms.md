@@ -117,9 +117,9 @@ Apa yang menjadikan rempah sebuah *asas* dan bukan sekadar perasa ialah ia
 dimasukkan dahulu dan dimasak sendirian sebelum apa-apa yang lain menyertainya.
 Seorang tukang masak yang mempunyai rempah yang baik, pada hakikatnya, sudah pun
 menentukan bagaimana hidangan itu akan terasa. Teknik yang sama mendasari
-sebahagian besar [masakan Melayu](/ms/food-lifestyle/malay-cuisine), terletak di
-sebalik pes cili [sambal](/ms/food-lifestyle/sambal), dan merupakan saudara rapat
-kepada masala basah [kari Malaysia](/ms/food-lifestyle/malaysian-curries) — sebuah
+sebahagian besar [masakan Melayu](/food-lifestyle/malay-cuisine), terletak di
+sebalik pes cili [sambal](/food-lifestyle/sambal), dan merupakan saudara rapat
+kepada masala basah [kari Malaysia](/food-lifestyle/malaysian-curries) — sebuah
 rempah sering dibandingkan dengan masala basah India atau pes kari Thai dari segi
 bentuk dan fungsi.
 
@@ -147,7 +147,7 @@ tipikal merangkumi:
 - **Belacan** — pes udang ditapai, dihancurkan masuk untuk kedalaman yang masin dan
   umami.
 
-Bahan terakhir itu layak mendapat catatan tersendiri. [Belacan](/ms/food-lifestyle/belacan)
+Bahan terakhir itu layak mendapat catatan tersendiri. [Belacan](/food-lifestyle/belacan)
 berbau kuat dan memecah pendapat, tetapi sedikit sahaja yang dilipat ke dalam
 rempah itulah yang memberikan banyak hidangan Malaysia undertone gurihnya; entri
 Wikipedia tentang masakan Malaysia memerihalkan belacan dihancurkan ke dalam "pes
@@ -234,7 +234,7 @@ dengan apa sahaja yang dituntut oleh sesuatu wilayah, komuniti atau hidangan. Sa
 *asam pedas* ikan bersandar pada asam jawa dan kunyit; satu rendang memasukkan
 rempah kering yang manis dan *kerisik*; satu hidangan Peranakan mungkin memekatkan
 rempahnya dengan buah keras dan menamatkannya dengan belacan, dalam gaya yang
-mentakrifkan sebahagian besar [masakan Nyonya dan Peranakan](/ms/food-lifestyle/nyonya-peranakan-cuisine).
+mentakrifkan sebahagian besar [masakan Nyonya dan Peranakan](/food-lifestyle/nyonya-peranakan-cuisine).
 Benang yang sama sentiasa ada: tumbuk aromatik, adunkan rempah yang disangai,
 tumis hingga pecah minyak, dan bina hidangan di atasnya. Belajar merasai asas itu
 dan kepelbagaian masakan Malaysia yang luas mula terungkai menjadi satu tatabahasa
@@ -242,11 +242,11 @@ asas tunggal — satu pes, yang tak habis-habis dibentuk semula.
 
 ## Apa seterusnya
 
-- [Masakan Melayu](/ms/food-lifestyle/malay-cuisine) — tradisi lebih luas yang
+- [Masakan Melayu](/food-lifestyle/malay-cuisine) — tradisi lebih luas yang
   ditambat oleh rempah.
-- [Sambal](/ms/food-lifestyle/sambal) — pes cili yang merupakan sepupu rempah yang
+- [Sambal](/food-lifestyle/sambal) — pes cili yang merupakan sepupu rempah yang
   rapat dan lebih berapi.
-- [Belacan](/ms/food-lifestyle/belacan) — pes udang ditapai yang memberi banyak
+- [Belacan](/food-lifestyle/belacan) — pes udang ditapai yang memberi banyak
   rempah kedalaman gurihnya.
-- [Kari Malaysia](/ms/food-lifestyle/malaysian-curries) — tempat rempah bertemu
+- [Kari Malaysia](/food-lifestyle/malaysian-curries) — tempat rempah bertemu
   santan, rempah dan kuah.

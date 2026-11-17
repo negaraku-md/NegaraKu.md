@@ -421,17 +421,17 @@ mengandaikannya.
 Telusuri tanggungjawab khusus mengikut susunan seorang setiausaha syarikat
 menemuinya. Kepentingan dalam kontrak ialah tanggungjawab yang paling kerap gagal
 dalam amalan, dan kegagalannya biasanya minit yang tertinggal — lihat
-[pendedahan kepentingan](/ms/company-secretary/disclosure-of-interest).
+[pendedahan kepentingan](/company-secretary/disclosure-of-interest).
 Tanggungjawab pemberitahuan peribadi mengenai pegangan saham berjalan pada jam
 14 hari yang kebanyakan pengarah tidak pernah dengar, diliputi dalam
-[pemberitahuan pegangan saham pengarah](/ms/company-secretary/director-shareholding-notification).
+[pemberitahuan pegangan saham pengarah](/company-secretary/director-shareholding-notification).
 
-Bagi perubahan lembaga, [melantik dan meletak jawatan pengarah](/ms/company-secretary/appoint-resign-director)
+Bagi perubahan lembaga, [melantik dan meletak jawatan pengarah](/company-secretary/appoint-resign-director)
 menetapkan peraturan keizinan, bilangan minimum dan pengosongan jawatan, dan
-[memberhentikan seorang pengarah](/ms/company-secretary/remove-a-director)
+[memberhentikan seorang pengarah](/company-secretary/remove-a-director)
 meliputi larangan resolusi bertulis yang menangkap kebanyakan syarikat
 persendirian. Mengenai wang yang mengalir kepada pengarah, lihat
-[pinjaman kepada pengarah](/ms/company-secretary/loans-to-directors)
-dan [kelulusan yuran pengarah](/ms/company-secretary/directors-fees-approval).
+[pinjaman kepada pengarah](/company-secretary/loans-to-directors)
+dan [kelulusan yuran pengarah](/company-secretary/directors-fees-approval).
 
 Baru diperbadankan? Lihat [kalendar pematuhan tahun pertama Sdn Bhd anda](/business/sdn-bhd-first-year-compliance/).

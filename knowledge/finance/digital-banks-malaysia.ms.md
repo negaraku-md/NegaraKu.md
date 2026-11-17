@@ -120,7 +120,7 @@ GXBank mendahului sebagai bank digital pertama Malaysia yang memulakan operasi, 
 Inilah kekeliruan yang paling lazim. Bank digital dan e-dompet kedua-duanya berada dalam telefon anda, tetapi dari segi undang-undang keduanya sangat berbeza.
 
 - **Bank digital** memegang lesen perbankan. Ia menerima deposit, boleh membayar faedah atau keuntungan, dan boleh memberi pinjaman. Deposit yang layak dilindungi oleh PIDM.
-- **E-dompet** (seperti baki [Touch 'n Go](/ms/transport/touch-n-go) eWallet) ialah pengeluar wang elektronik yang digunakan terutamanya untuk pembayaran. Ia bukan bank penerima deposit, jadi bakinya tidak dilindungi insurans deposit PIDM.
+- **E-dompet** (seperti baki [Touch 'n Go](/transport/touch-n-go) eWallet) ialah pengeluar wang elektronik yang digunakan terutamanya untuk pembayaran. Ia bukan bank penerima deposit, jadi bakinya tidak dilindungi insurans deposit PIDM.
 
 Ringkasnya: bank digital ialah sebuah bank. E-dompet ialah alat pembayaran.
 

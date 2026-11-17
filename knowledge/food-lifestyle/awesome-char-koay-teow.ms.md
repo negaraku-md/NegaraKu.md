@@ -107,13 +107,13 @@ Awesome Char Koay Teow ialah gerai makanan jalanan yang beroperasi dari New KK99
 Cafe, diiktiraf dalam MICHELIN Guide sebagai pilihan **Bib Gourmand** — anugerah
 Guide bagi masakan bermutu baik dan berbaloi, yang diberikan dengan murah hati
 kepada gerai dan tempat makanan jalanan (lihat
-[MICHELIN Guide di Malaysia](/ms/food-lifestyle/michelin-guide-malaysia) untuk
+[MICHELIN Guide di Malaysia](/food-lifestyle/michelin-guide-malaysia) untuk
 memahami cara anugerah ini berfungsi). Ia ditanda “berbaloi untuk beratur”,
 menerima tunai sahaja, dan tidak menerima tempahan.
 
 ## Hidangan istimewa
 
-Gerai ini menggoreng [char koay teow](/ms/food-lifestyle/char-kway-teow) — kuey
+Gerai ini menggoreng [char koay teow](/food-lifestyle/char-kway-teow) — kuey
 teow leper yang digaul kuat atas api tinggi. Senarai MICHELIN menyatakan “setiap
 pinggan koay teow yang wangi digoreng mengikut tempahan dan mengeluarkan wok hei,”
 aroma berasap yang menandakan sepinggan yang digoreng dengan baik, dan bahawa ia

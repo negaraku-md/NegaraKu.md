@@ -146,8 +146,8 @@ Tiga bahan memberikan kuih ciri khasnya:
   pokok palma lain dan direbus sehingga menjadi cakera keras, gelap, berkaramel
   berasap. Ia pemanis yang mentakrifkan dapur tempatan, digunakan segar atau
   diperam, dan sirap yang sama memberi perisa kepada
-  [cendol](/ms/food-lifestyle/cendol) dan
-  [ais kacang](/ms/food-lifestyle/ais-kacang).
+  [cendol](/food-lifestyle/cendol) dan
+  [ais kacang](/food-lifestyle/ais-kacang).
 
 Keledek, kacang hijau dan pisang melengkapkan inti dan perisa biasa, dan daun
 pisang ialah pembalut yang kerap. Dapur Peranakan turut menggunakan gula tebu,
@@ -214,7 +214,7 @@ kategori kongsi yang sama.
   yang diselaraskan dengan citarasa Peranakan, selalunya berwarna seterang
   permata; *kuih pie tee* (cawan kecil rangup berisi) ialah tandanya. Ini
   tergolong dalam dunia
-  [masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+  [masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
   yang lebih luas yang menjadikan makanan Malaysia begitu berlapis.
 - Kuih **Cina**, terutamanya dalam gaya Hokkien dan Teochew, termasuk **ang ku
   kueh** (ang koo) — kuih kecil dengan kulit pulut merah lembut bercorak
@@ -230,15 +230,15 @@ kategori kongsi yang sama.
 Kuih, lebih daripada segalanya, ialah makanan **minum petang**. Waktu *minum
 petang* lewat tengah hari ialah rumah semula jadinya, dibeli sebiji demi sebiji
 daripada kedai kuih, gerai pasar dan penjaja tepi jalan untuk dimakan dengan
-kopi atau teh — sama seperti [roti kaya](/ms/food-lifestyle/kaya-toast) menjadi
+kopi atau teh — sama seperti [roti kaya](/food-lifestyle/kaya-toast) menjadi
 tunjang ritual sarapan dan kedai kopi.
 
 Ia juga terjalin dalam sambutan. Kuih ialah makanan asasi
-[pasar malam](/ms/food-lifestyle/pasar-malam-and-street-food), tempat dulang
+[pasar malam](/food-lifestyle/pasar-malam-and-street-food), tempat dulang
 kuih dijual segar setiap petang, dan
-[bazar Ramadan](/ms/food-lifestyle/ramadan-bazaars-and-fasting-month-food) yang
+[bazar Ramadan](/food-lifestyle/ramadan-bazaars-and-fasting-month-food) yang
 muncul pada bulan puasa, dihargai untuk berbuka. Pada
-[perayaan di seluruh masyarakat Malaysia](/ms/food-lifestyle/festive-foods-across-malaysian-festivals)
+[perayaan di seluruh masyarakat Malaysia](/food-lifestyle/festive-foods-across-malaysian-festivals)
 — rumah terbuka Hari Raya terutamanya, tetapi juga Tahun Baharu Cina dan majlis
 lain — kuih tertentu menandai musim: bahulu dan dodol untuk Hari Raya, kuih
 kapit untuk Tahun Baharu Cina, dan lapisan serta manisan perayaan yang
@@ -256,9 +256,9 @@ kecil.
 
 ## Seterusnya
 
-- [Cendol](/ms/food-lifestyle/cendol) — pencuci mulut ais kisar gula melaka dan
+- [Cendol](/food-lifestyle/cendol) — pencuci mulut ais kisar gula melaka dan
   pandan yang berkongsi palet perisa kuih.
-- [Pasar malam dan makanan jalanan](/ms/food-lifestyle/pasar-malam-and-street-food)
+- [Pasar malam dan makanan jalanan](/food-lifestyle/pasar-malam-and-street-food)
   — pasar malam tempat kuih dijual segar setiap petang.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
   — peta lebih luas tentang cara masyarakat Malaysia makan.

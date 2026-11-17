@@ -142,7 +142,7 @@ budaya yang mencerminkan saiznya, "mahkota" durinya, harganya yang tinggi pada
 musimnya dan rasanya yang amat lemak, dan bukannya sebarang taraf rasmi. Malaysia
 mempunyai berpuluh kultivar bernama, antaranya *Musang King* (*Mao Shan Wang*)
 yang premium, dan satu ritual sosial lengkap bercangkung mengelilingi surat
-khabar untuk memakannya; panduan [budaya dan varieti durian](/ms/food-lifestyle/durian-culture-and-varieties)
+khabar untuk memakannya; panduan [budaya dan varieti durian](/food-lifestyle/durian-culture-and-varieties)
 yang khusus membincangkannya dengan mendalam.
 
 Durian hampir selalu dipasangkan dalam cerita rakyat tempatan dengan **manggis**
@@ -241,10 +241,10 @@ Segar dan sejuk hanyalah permulaan. Buah yang dipotong — terutamanya nanas,
 jambu batu, *jambu air*, mangga dan limau bali — menjadi asas **rojak**, salad
 masin-manis yang disalut sos pekat berbau tajam daripada belacan (*hae ko*),
 asam jawa, gula dan cili serta ditaburi kacang tanah tumbuk; panduan
-[rojak](/ms/food-lifestyle/rojak) membincangkan pelbagai bentuknya. Buah juga
+[rojak](/food-lifestyle/rojak) membincangkan pelbagai bentuknya. Buah juga
 muncul dalam pencuci mulut berais negara ini: nangka masak, pisang dan buah lain
-ialah penambah lazim untuk [cendol](/ms/food-lifestyle/cendol) dan untuk
-[ais kacang](/ms/food-lifestyle/ais-kacang) (ABC), gunung ais kisar yang dibina
+ialah penambah lazim untuk [cendol](/food-lifestyle/cendol) dan untuk
+[ais kacang](/food-lifestyle/ais-kacang) (ABC), gunung ais kisar yang dibina
 di atas kacang, agar-agar dan sirap.
 
 Di dapur, buah merentas ke dalam masakan masin: nangka hijau yang muda dan pisang
@@ -252,7 +252,7 @@ muda direneh dalam kari, cempedak dan pisang dicelup adunan dan digoreng, dan
 buah-buah berasam memberi rasa masam kepada sup dan sambal. Oleh sebab negeri dan
 masyarakat berbeza menggemari buah serta penyediaan yang berbeza, buah terjalin
 di sepanjang peta
-[masakan wilayah dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+[masakan wilayah dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
 Malaysia yang lebih luas.
 
 ## Musim, dusun dan kalendar buah
@@ -270,11 +270,11 @@ ditimbun atas semangkuk ais kisar.
 
 ## Apa seterusnya
 
-- [Budaya dan varieti durian](/ms/food-lifestyle/durian-culture-and-varieties) —
+- [Budaya dan varieti durian](/food-lifestyle/durian-culture-and-varieties) —
   tinjauan lebih mendalam tentang "raja buah", kultivar bernamanya dan ritual
   sosialnya.
-- [Rojak](/ms/food-lifestyle/rojak) — salad buah-dan-sayur masin-manis yang
+- [Rojak](/food-lifestyle/rojak) — salad buah-dan-sayur masin-manis yang
   menggunakan buah tempatan.
-- [Cendol](/ms/food-lifestyle/cendol) dan
-  [ais kacang](/ms/food-lifestyle/ais-kacang) — pencuci mulut berais yang sering
+- [Cendol](/food-lifestyle/cendol) dan
+  [ais kacang](/food-lifestyle/ais-kacang) — pencuci mulut berais yang sering
   diatasi buah.

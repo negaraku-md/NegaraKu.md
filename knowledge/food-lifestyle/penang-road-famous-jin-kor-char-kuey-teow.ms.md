@@ -99,7 +99,7 @@ verificationNeeded:
 framework: profile
 ---
 
-Terselit dalam kesibukan kedai kopi [Joo Hooi Cafe](/ms/food-lifestyle/penang-food)
+Terselit dalam kesibukan kedai kopi [Joo Hooi Cafe](/food-lifestyle/penang-food)
 di Jalan Penang, gerai ini ialah antara pinggan char kuey teow yang paling hangat
 diperkatakan di George Town — dan ia membawa cop MICHELIN Guide yang setanding
 dengan panjangnya barisan.
@@ -111,7 +111,7 @@ duduk makan, yang beroperasi dari satu sudut Joo Hooi Cafe. MICHELIN Guide
 menyenaraikannya sebagai pilihan **Bib Gourmand** — anugerah Guide bagi masakan
 bermutu baik dan berbaloi, yang diberikan kepada tempat santai dan makanan
 jalanan sama mudah seperti kepada restoran (lihat
-[MICHELIN Guide di Malaysia](/ms/food-lifestyle/michelin-guide-malaysia) untuk
+[MICHELIN Guide di Malaysia](/food-lifestyle/michelin-guide-malaysia) untuk
 memahami cara anugerah ini berfungsi). Ia tersenarai sebagai makanan jalanan
 dalam julat harga terendah Guide, menerima tunai sahaja, dan tidak menerima
 tempahan.
@@ -119,7 +119,7 @@ tempahan.
 ## Hidangan istimewa
 
 Tarikannya ialah satu hidangan tunggal:
-[char kuey teow](/ms/food-lifestyle/char-kway-teow), kuey teow leper yang digoreng
+[char kuey teow](/food-lifestyle/char-kway-teow), kuey teow leper yang digoreng
 kuat atas api tinggi. Senarai MICHELIN menyatakan setiap pinggan dibuat mengikut
 tempahan dan ditaburi udang, kerang berdarah, sosej Cina dan taugeh, dengan “wok
 hei yang menyelerakan” — aroma berasap, sedikit rangup yang dibawa oleh kuali yang

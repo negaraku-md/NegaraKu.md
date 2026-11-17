@@ -174,7 +174,7 @@ bersama mereka. Lama-kelamaan perniagaan itu menetap: penjaja berpindah dari
 bangku jeti ke gerai dan lorong, menjaja dari pintu ke pintu sepanjang 1930-an,
 dan dari 1970-an semakin banyak membuka restoran sebenar. Kayu kandar hilang;
 perkataannya kekal. Budaya makanan India-Muslim yang sama inilah yang menjadi
-tunjang dunia [makan di kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture)
+tunjang dunia [makan di kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture)
 yang lebih luas.
 
 ## Hidangan dan lauk
@@ -242,8 +242,8 @@ jejaki jauh kembali kepada seorang lelaki dengan kayu kandar di atas bahunya.
 ## Seterusnya
 
 - Lihat di mana nasi kandar berada antara ikon masakan negara dalam
-  [Hidangan Nasional Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia).
+  [Hidangan Nasional Malaysia](/food-lifestyle/national-dishes-of-malaysia).
 - Fahami dunia kopitiam dan mamak tempat hidangan ini berkembang dalam
-  [Budaya Kopitiam dan Mamak](/ms/food-lifestyle/kopitiam-mamak-culture).
+  [Budaya Kopitiam dan Mamak](/food-lifestyle/kopitiam-mamak-culture).
 - Letakkannya dalam peta makanan Malaysia yang lebih luas dalam
-  [Masakan Wilayah dan Etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines).
+  [Masakan Wilayah dan Etnik](/food-lifestyle/regional-and-ethnic-cuisines).

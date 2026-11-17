@@ -106,13 +106,13 @@ menjadi kepelbagaian tanpa henti — teh buah, buih keju, agar rumput, puding, k
 boleh dilaras — yang menjadi sebahagian besar daya tarikannya.
 
 Untuk melihat kedudukan bubble tea dalam kalangan papan minuman negara yang lebih luas, lihat hub
-[minuman Malaysia](/ms/food-lifestyle/malaysian-drinks). Artikel ini ialah tinjauan mendalam tentang
+[minuman Malaysia](/food-lifestyle/malaysian-drinks). Artikel ini ialah tinjauan mendalam tentang
 fenomena boba di Malaysia.
 
 ## Minuman Taiwan, secara jujur
 
-Tidak seperti [teh tarik](/ms/food-lifestyle/teh-tarik) atau
-[cincau](/ms/food-lifestyle/cincau), bubble tea **tidak** datang dari Malaysia. Ia berasal dari
+Tidak seperti [teh tarik](/food-lifestyle/teh-tarik) atau
+[cincau](/food-lifestyle/cincau), bubble tea **tidak** datang dari Malaysia. Ia berasal dari
 **Taiwan pada 1980-an**, dan bahkan di sana kelahiran tepatnya dipertikaikan — dua rumah teh Taiwan,
 satu di Taichung dan satu di Tainan, kedua-duanya mendakwa telah menciptanya, dan soalan itu tidak
 pernah diselesaikan dengan bersih. Dari Taiwan ia melanda merentasi Asia Timur dan Tenggara dan
@@ -139,12 +139,12 @@ negara yang pensijilan premisnya, bukan bahan minuman itu semata-mata, yang memb
 kepada pengunjung Muslim. Seperti biasa, jaminan itu melekat pada **cawangan bertauliah yang tertentu**
 — jadi bagi mana-mana kedai, carilah sijilnya yang dipaparkan dan bukannya menganggap setiap gerai
 bubble tea bertauliah. Untuk kisah yang lebih mendalam tentang teh dan minuman kedai kopi, lihat
-[kopi, teh tarik dan minuman kedai kopi](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
+[kopi, teh tarik dan minuman kedai kopi](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
 
 ## Apa yang seterusnya
 
 - Petakan bubble tea terhadap papan minuman negara yang lebih luas dalam hub
-  [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
-- Bandingkannya dengan ikon teh susu tempatan dalam [teh tarik](/ms/food-lifestyle/teh-tarik).
+  [minuman Malaysia](/food-lifestyle/malaysian-drinks).
+- Bandingkannya dengan ikon teh susu tempatan dalam [teh tarik](/food-lifestyle/teh-tarik).
 - Nyahkod minuman kedai kopi tradisional dalam
-  [kopi, teh tarik dan minuman kedai kopi](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
+  [kopi, teh tarik dan minuman kedai kopi](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).

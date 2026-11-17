@@ -123,8 +123,8 @@ berumput dan segar *ulam* (sayur dan herba tempatan mentah yang dimakan sebagai
 sebahagian daripada hidangan).
 
 Susunan yang menonjolkan ulam itu, bersama pelengkap pantai timurnya,
-meletakkan nasi kerabu dengan kukuh dalam [masakan Melayu](/ms/food-lifestyle/malay-cuisine)
-dan peta lebih luas [masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+meletakkan nasi kerabu dengan kukuh dalam [masakan Melayu](/food-lifestyle/malay-cuisine)
+dan peta lebih luas [masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
 Malaysia. Ia merupakan hidangan gabungan dan bukannya satu item masakan tunggal
 — lebih dekat semangatnya kepada pinggan bina-sendiri berbanding sejenis gulai —
 dan tiada dua gerai yang menyusunnya dengan cara yang sama.
@@ -225,7 +225,7 @@ solok lada, manakala nasi ulam biasanya dihidang dengan nasi putih atau yang
 berperisa ringan sahaja. Garis pemisahnya kabur, dan banyak tukang masak rumahan
 mengaburkannya lagi.
 
-Diletakkan bersebelahan pinggan nasi hebat Malaysia yang lain — [nasi lemak](/ms/food-lifestyle/nasi-lemak)
+Diletakkan bersebelahan pinggan nasi hebat Malaysia yang lain — [nasi lemak](/food-lifestyle/nasi-lemak)
 yang kaya santan paling utama antaranya — nasi kerabu menuntut sudutnya sendiri
 di atas meja: lebih sejuk, lebih hijau, lebih tajam, dan biru tanpa keraguan.
 Memakannya bermakna mengecap kebun herba dan tempayan peraman pantai timur pada
@@ -233,11 +233,11 @@ satu pinggan.
 
 ## Apa seterusnya
 
-- [Nasi lemak](/ms/food-lifestyle/nasi-lemak) — hidangan nasi santan yang paling
+- [Nasi lemak](/food-lifestyle/nasi-lemak) — hidangan nasi santan yang paling
   kerap disebut sebagai pinggan kebangsaan Malaysia.
-- [Masakan Melayu](/ms/food-lifestyle/malay-cuisine) — tradisi lebih luas yang
+- [Masakan Melayu](/food-lifestyle/malay-cuisine) — tradisi lebih luas yang
   menjadi tempat nasi kerabu.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   bagaimana setiap negeri dan masyarakat Malaysia makan secara berbeza.
-- [Hidangan kebangsaan Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia) —
+- [Hidangan kebangsaan Malaysia](/food-lifestyle/national-dishes-of-malaysia) —
   tempat nasi kerabu dalam kalangan ikon kulinari negara.

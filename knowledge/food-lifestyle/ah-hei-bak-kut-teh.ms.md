@@ -99,14 +99,14 @@ tidak mengosongkan dompet anda.
 
 ## Sebuah kedai sup Bib Gourmand berusia 30 tahun
 
-Ah Hei telah mereneh [bak kut teh](/ms/food-lifestyle/bak-kut-teh) di tengah
+Ah Hei telah mereneh [bak kut teh](/food-lifestyle/bak-kut-teh) di tengah
 Kuala Lumpur selama kira-kira tiga dekad. MICHELIN Guide menyenaraikannya di
 bawah masakan Malaysia dalam tingkat jimat ($) dan menganugerahkannya Bib
 Gourmand, dan pemeriksa telah melangkah lebih jauh dengan memaparkannya dalam
 rencana "Behind the Bib". Bib Gourmand berbeza daripada bintang-bintang Panduan:
 ia menonjolkan nilai, bukan kemewahan — sesuai untuk pakar sup herba. Untuk
 konteks tentang cara Panduan berfungsi di sini, lihat
-[MICHELIN Guide di Malaysia](/ms/food-lifestyle/michelin-guide-malaysia).
+[MICHELIN Guide di Malaysia](/food-lifestyle/michelin-guide-malaysia).
 
 ## Sup itu, dan apa yang terkandung di dalamnya
 

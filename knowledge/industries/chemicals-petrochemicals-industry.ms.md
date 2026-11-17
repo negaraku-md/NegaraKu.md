@@ -128,7 +128,7 @@ Cita-cita strategik industri ini, yang dinyatakan dalam CIR2030, adalah untuk me
 
 ## Pemain utama dan GLC
 
-Tunjangnya ialah **[PETRONAS Chemicals Group](/ms/companies/petronas-chemicals) (PCG)**, lengan petrokimia tersenarai syarikat minyak nasional [PETRONAS](/economy/oil-gas-petronas/). PCG ialah pengeluar bersepadu dominan dalam olefin, polimer dan baja, dan skalanya datang daripada akses istimewa kepada bahan suapan gas domestik.
+Tunjangnya ialah **[PETRONAS Chemicals Group](/companies/petronas-chemicals) (PCG)**, lengan petrokimia tersenarai syarikat minyak nasional [PETRONAS](/economy/oil-gas-petronas/). PCG ialah pengeluar bersepadu dominan dalam olefin, polimer dan baja, dan skalanya datang daripada akses istimewa kepada bahan suapan gas domestik.
 
 **Lotte Chemical Titan**, dimiliki majoriti oleh Lotte Chemical Korea Selatan, ialah pemain berat yang satu lagi. Ditubuhkan pada 1991 sebagai pengeluar poliolefin bersendirian pertama Malaysia, ia telah digambarkan sebagai pengeluar olefin dan poliolefin bersepadu terbesar di negara ini, dengan kapasiti merentasi dua tapak di Johor (angka tepat berbeza antara sumber). Bidang luas syarikat multinasional — dalam gas industri, salutan, agrokimia dan produk istimewa — serta asas besar pengeluar oleokimia berasaskan sawit melengkapkan sektor ini.
 

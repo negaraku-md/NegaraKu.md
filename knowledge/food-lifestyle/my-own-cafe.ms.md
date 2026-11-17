@@ -98,7 +98,7 @@ framework: profile
 Di sebuah bandar yang hampir mengiktiraf asam laksa sebagai obsesi awam,
 sekeping Bib Gourmand untuknya bermakna sesuatu. My Own Cafe, sebuah kedai
 keluarga kecil di Lebuh Cannon, membawa pengiktirafan
-[MICHELIN Guide](/ms/food-lifestyle/michelin-guide-malaysia) itu untuk laksanya —
+[MICHELIN Guide](/food-lifestyle/michelin-guide-malaysia) itu untuk laksanya —
 dianugerahkan untuk masakan yang baik pada harga yang lembut.
 
 ## Apa ia
@@ -114,14 +114,14 @@ Menu ini dibina sekitar dua laksa. Penang asam laksa ialah bintangnya: MICHELIN
 menggambarkan sup merahnya yang ringan dan menyegarkan sebagai mencapai imbangan
 yang tepat antara masam dan pedas, ditaburi pudina dan nanas. Di sampingnya,
 dapur menghidangkan Nyonya laksa yang lebih pekat — diambil daripada
-[masakan Peranakan](/ms/food-lifestyle/nyonya-peranakan-cuisine) — dan popia
+[masakan Peranakan](/food-lifestyle/nyonya-peranakan-cuisine) — dan popia
 goreng berinti sayur yang dinilai MICHELIN sama tingginya.
 
 ## Di mana mencarinya
 
 Kedai ini terletak di 2 Lebuh Cannon, George Town, 10200, sejengkal dari rumah
 kongsi Khoo Kongsi yang bersejarah, meletakkannya tepat pada denai
-[makanan Pulau Pinang](/ms/food-lifestyle/penang-food) di teras warisan.
+[makanan Pulau Pinang](/food-lifestyle/penang-food) di teras warisan.
 
 ## Sebuah dapur keluarga
 

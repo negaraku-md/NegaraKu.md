@@ -223,10 +223,10 @@ Model minda yang membantu ini kekal jelas: **SSM membuktikan entiti itu wujud. A
 
 Kebanyakan orang menemui hasil kerja SSM sebelum mereka mengenali namanya. Berikut ialah bagaimana istilah dalam glosari ini bergantung pada agensi tersebut:
 
-- **Sdn Bhd.** "Sendirian Berhad" ialah bentuk syarikat sendirian berhad yang diwujudkan oleh Akta Syarikat 2016. Anda mewujudkannya dengan memerbadankannya di SSM menerusi MyCoID; nombor pendaftaran yang dikeluarkan SSM ialah yang menjadikan syarikat itu nyata. Lihat [Sdn Bhd](/ms/glossary/sdn-bhd).
-- **Modal berbayar.** Wang yang benar-benar dimasukkan pemegang saham ke dalam syarikat direkodkan pada fail syarikat di SSM dan dikemas kini apabila saham diperuntukkan. Ia adalah angka yang dipegang SSM, bukan yang direkanya. Lihat [Modal Berbayar](/ms/glossary/paid-up-capital).
-- **Penyata tahunan.** Setahun sekali, setiap syarikat mengesahkan butirannya kepada SSM dalam suatu pemfailan berkanun. Terlepas dan SSM ialah badan yang mengenakan penalti, dan akhirnya memotong, syarikat tersebut. Lihat [Penyata Tahunan](/ms/glossary/annual-return).
-- **PLT.** Perkongsian liabiliti terhad didaftarkan dan diselenggarakan menerusi portal MyLLP SSM di bawah Akta PLT 2012 — laluan yang berasingan daripada kedua-dua syarikat dan perniagaan. Lihat [PLT](/ms/glossary/llp).
+- **Sdn Bhd.** "Sendirian Berhad" ialah bentuk syarikat sendirian berhad yang diwujudkan oleh Akta Syarikat 2016. Anda mewujudkannya dengan memerbadankannya di SSM menerusi MyCoID; nombor pendaftaran yang dikeluarkan SSM ialah yang menjadikan syarikat itu nyata. Lihat [Sdn Bhd](/glossary/sdn-bhd).
+- **Modal berbayar.** Wang yang benar-benar dimasukkan pemegang saham ke dalam syarikat direkodkan pada fail syarikat di SSM dan dikemas kini apabila saham diperuntukkan. Ia adalah angka yang dipegang SSM, bukan yang direkanya. Lihat [Modal Berbayar](/glossary/paid-up-capital).
+- **Penyata tahunan.** Setahun sekali, setiap syarikat mengesahkan butirannya kepada SSM dalam suatu pemfailan berkanun. Terlepas dan SSM ialah badan yang mengenakan penalti, dan akhirnya memotong, syarikat tersebut. Lihat [Penyata Tahunan](/glossary/annual-return).
+- **PLT.** Perkongsian liabiliti terhad didaftarkan dan diselenggarakan menerusi portal MyLLP SSM di bawah Akta PLT 2012 — laluan yang berasingan daripada kedua-dua syarikat dan perniagaan. Lihat [PLT](/glossary/llp).
 
 ### Rangka keputusan pantas: pendaftaran SSM yang mana saya perlukan?
 
@@ -249,8 +249,8 @@ Ketiga-tiganya ialah pendaftaran dengan SSM. Perbezaannya ialah statut yang mena
 
 ## Apa seterusnya
 
-- Baca halaman entiti agensi yang menjadi pasangannya, [SSM — Suruhanjaya Syarikat Malaysia](/ms/government/ssm), untuk inventori portal dan Arahan Amalan yang mengawal penalti dan pengecualian.
-- Jika anda sedang memilih entiti, bandingkan [Sdn Bhd](/ms/glossary/sdn-bhd) dan [PLT](/ms/glossary/llp) sebelum anda memilih portal.
-- Untuk memahami undang-undang yang ditadbir SSM, lihat [Akta Syarikat 2016 (Akta 777)](/ms/law/companies-act-2016).
-- Pelajari kewajipan berulang yang semua orang pandang remeh: [Penyata Tahunan](/ms/glossary/annual-return).
+- Baca halaman entiti agensi yang menjadi pasangannya, [SSM — Suruhanjaya Syarikat Malaysia](/government/ssm), untuk inventori portal dan Arahan Amalan yang mengawal penalti dan pengecualian.
+- Jika anda sedang memilih entiti, bandingkan [Sdn Bhd](/glossary/sdn-bhd) dan [PLT](/glossary/llp) sebelum anda memilih portal.
+- Untuk memahami undang-undang yang ditadbir SSM, lihat [Akta Syarikat 2016 (Akta 777)](/law/companies-act-2016).
+- Pelajari kewajipan berulang yang semua orang pandang remeh: [Penyata Tahunan](/glossary/annual-return).
 - Sentiasa sahkan fi, borang dan arahan semasa di laman rasmi, `ssm.com.my`, sebelum bergantung pada mana-mana angka dalam dokumen rasmi.

@@ -85,7 +85,7 @@ dengan Bib Gourmand.
 ## Nama terkenal sejak 1938
 
 Nam Heong Chicken Rice (City Centre) ialah pakar
-[nasi ayam Hainan](/ms/food-lifestyle/hainanese-chicken-rice), diiktiraf oleh MICHELIN
+[nasi ayam Hainan](/food-lifestyle/hainanese-chicken-rice), diiktiraf oleh MICHELIN
 Guide dengan **Bib Gourmand** — tandanya bagi masakan berkualiti baik pada harga
 berbaloi. 'Sejak 1938,' tulis panduan itu, 'nama terkenal ini telah sangat popular
 dalam kalangan penduduk setempat dengan nasi ayam Hainannya yang masyhur.' Ia
@@ -106,5 +106,5 @@ Kedai City Centre terletak di Jalan Sultan di kota lama dan dibuka setiap hari, 
 kurang dari tengah pagi hingga lewat petang. Ia sebuah kedai makan yang biasa dan
 murah yang menguruskan tempahannya sendiri. Ia salah satu kedai setia yang mesra
 bajet dalam senarai Bib Gourmand
-[MICHELIN Guide Malaysia](/ms/food-lifestyle/michelin-guide-malaysia), yang disegarkan
+[MICHELIN Guide Malaysia](/food-lifestyle/michelin-guide-malaysia), yang disegarkan
 setiap tahun.

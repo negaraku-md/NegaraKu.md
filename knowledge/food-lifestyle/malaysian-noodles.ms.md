@@ -152,7 +152,7 @@ praktikalnya ialah bertanya kepada gerai apa maksudnya sebelum anda memesan.
 
 **Kway teow** (juga dieja *kuey teow* atau *koay teow*) ialah mi beras yang
 lebar dan leper, lembut dan licin, dipotong menjadi jalur. Penampilan tersohornya
-ialah [char kway teow](/ms/food-lifestyle/char-kway-teow) — jalur yang disiar
+ialah [char kway teow](/food-lifestyle/char-kway-teow) — jalur yang disiar
 atas haba garang bersama udang, kerang, telur, taugeh dan kucai sehingga kuali
 memberikan *wok hei* berasapnya. Tetapi kway teow sama selesanya dalam sup: "kway
 teow th'ng" ialah mangkuk sup jernih, selalunya dengan hirisan ikan atau ayam,
@@ -210,7 +210,7 @@ diekstrud kilang kepada kepingan yang dibentuk tukang masak atas pesanan.
 
 Tiada peta mi Malaysia yang lengkap tanpa **laksa**, tetapi perkara utama yang
 perlu difahami ialah laksa bukan satu hidangan dan bukan satu mi. Ia sebuah
-[keluarga sup mi serantau](/ms/food-lifestyle/laksa): *asam laksa* Pulau Pinang
+[keluarga sup mi serantau](/food-lifestyle/laksa): *asam laksa* Pulau Pinang
 yang masam dan tanpa kelapa; *laksa lemak* kaya kelapa-dan-kari di tengah dan
 selatan; laksa Sarawak berasaskan sambal; dan *laksam* mi leper yang digulung di
 pantai timur. Lembar berubah dengan mangkuk — mi beras tebal untuk asam laksa,
@@ -248,28 +248,28 @@ hidangan membawa cap jari lebih daripada satu dapur:
 | Islam-India (mamak) | Mee goreng mamak, mee rebus | Perasa tomato-dan-cili, selalunya asas tanpa daging yang sesuai untuk dapur halal |
 | Nyonya (Peranakan) | Laksa kari, pelbagai laksa | Gabungan Cina-Melayu yang memberikan beberapa gaya laksa asasnya |
 
-Dapur [Peranakan](/ms/arts-culture/peranakan) khususnya — masakan Cina kelahiran
+Dapur [Peranakan](/arts-culture/peranakan) khususnya — masakan Cina kelahiran
 Selat yang mengahwinkan mi Cina dengan pes rempah Melayu — mengalir di bawah
 sebahagian besar keluarga laksa. Untuk gambaran lebih luas tentang bagaimana
 negeri dan komuniti Malaysia makan, lihat panduan
-[masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines).
+[masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines).
 
 ## Ke mana seterusnya
 
 Hab ini ialah pintu masuk; butirannya terletak dalam panduan hidangan:
 
-- [Char kway teow](/ms/food-lifestyle/char-kway-teow) — mi beras leper yang
+- [Char kway teow](/food-lifestyle/char-kway-teow) — mi beras leper yang
   digoreng berasap dan *wok hei*-nya.
-- [Laksa](/ms/food-lifestyle/laksa) — keluarga penuh sup mi Malaysia, wilayah
+- [Laksa](/food-lifestyle/laksa) — keluarga penuh sup mi Malaysia, wilayah
   demi wilayah.
-- [Hidangan kebangsaan Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia)
+- [Hidangan kebangsaan Malaysia](/food-lifestyle/national-dishes-of-malaysia)
   — di mana mi terletak dalam kalangan ikon kulinari negara.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
   — peta yang lebih luas tentang bagaimana Malaysia makan.
 
 Bukan setiap pinggan mi Malaysia ialah mi pada dasarnya, juga — sebuah kedai
-[nasi ayam Hainan](/ms/food-lifestyle/hainanese-chicken-rice) atau gerai
-[bak kut teh](/ms/food-lifestyle/bak-kut-teh) selalunya akan menghidangkan mi
+[nasi ayam Hainan](/food-lifestyle/hainanese-chicken-rice) atau gerai
+[bak kut teh](/food-lifestyle/bak-kut-teh) selalunya akan menghidangkan mi
 sebagai alternatif kepada nasi, satu peringatan betapa bebasnya dapur-dapur ini
 mencampurkan makanan ruji mereka.
 

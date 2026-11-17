@@ -106,7 +106,7 @@ mengikut urutan.
 
 Panduan ini meneliti lapisan-lapisan tersebut. Untuk tatabahasa *memesan*
 secawan tradisional — kod kopi-O, kopi-C dan kosong — lihat panduan iringan
-tentang [minuman kopitiam](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks);
+tentang [minuman kopitiam](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks);
 di sini tumpuannya ialah kopi itu sendiri serta tempat dan tabiat yang terbentuk
 di sekelilingnya.
 
@@ -135,7 +135,7 @@ Hasilnya dibancuh pekat, biasanya dalam penapis "stokin" kain, dan dituang ke
 atas susu pekat manis — atau, bagi *kopi O*, dibiarkan hitam dengan gula sahaja.
 Dihidangkan dalam cawan dan piring porselin tebal, inilah rasa yang dimaksudkan
 oleh kebanyakan rakyat Malaysia dengan "kopi" sebelum mana-mana kafe muncul, dan
-ia hampir pasti berpadanan dengan [roti kaya](/ms/food-lifestyle/kaya-toast) serta
+ia hampir pasti berpadanan dengan [roti kaya](/food-lifestyle/kaya-toast) serta
 telur separuh masak.
 
 ## Ipoh white coffee: sangaian lebih ringan dan kisah yang dipertikaikan
@@ -161,7 +161,7 @@ robusta tunggal dan yang lain campuran arabica-robusta-liberica. Butiran itu kek
 dipertikaikan dan ditandakan untuk disahkan di bawah. Apa yang tidak
 dipertikaikan ialah white coffee kini merupakan ikon Ipoh, dijual panas atau
 sejuk, tersedia secara meluas sebagai campuran segera, dan menjadi kemestian
-dalam mana-mana lawatan ke [makanan Ipoh](/ms/food-lifestyle/ipoh-food).
+dalam mana-mana lawatan ke [makanan Ipoh](/food-lifestyle/ipoh-food).
 
 ## Kopitiam sebagai institusi sosial
 
@@ -179,7 +179,7 @@ Kopi, dengan kata lain, sebahagiannya ialah alasan untuk duduk. Kopitiam
 berfungsi sebagai ruang awam kejiranan — tempat membaca akhbar, menyelesaikan
 urusan kecil, atau sekadar melewatkan sejam — peranan yang dikongsinya dengan
 kedai *mamak* Muslim-India dan dunia yang lebih luas iaitu
-[budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture). Bobot
+[budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture). Bobot
 sosial ini sebahagian daripada sebab mengapa "Budaya sarapan di Malaysia:
 pengalaman menjamu selera dalam masyarakat berbilang etnik" di Malaysia — yang
 digambarkan oleh penyenaraian UNESCO sebagai merangkumi hidangan dan minuman yang
@@ -242,11 +242,11 @@ mengalir menerusi begitu banyak makanan Malaysia.
 
 ## Apa seterusnya
 
-- [Kopi, teh tarik dan minuman kopitiam](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks)
+- [Kopi, teh tarik dan minuman kopitiam](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks)
   — cara membaca kod pesanan kopi-O, kopi-C dan kosong.
-- [Budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture) — dunia
+- [Budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture) — dunia
   sosial kedai kopi Malaysia dan gerai mamak 24 jam.
-- [Makanan Ipoh](/ms/food-lifestyle/ipoh-food) — di mana white coffee terletak
+- [Makanan Ipoh](/food-lifestyle/ipoh-food) — di mana white coffee terletak
   dalam senario makanan yang lebih luas di ibu kota Perak.
-- [Pusat penjaja dan medan selera](/ms/food-lifestyle/hawker-centres-and-food-courts)
+- [Pusat penjaja dan medan selera](/food-lifestyle/hawker-centres-and-food-courts)
   — meja kongsi besar yang lain dalam cara makan rakyat Malaysia.

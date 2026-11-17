@@ -131,7 +131,7 @@ dan Hakka yang datang ke Tanah Melayu pada abad ke-19 di bawah pemerintahan
 British, ramai daripada mereka bekerja sebagai pelombong bijih timah dan peniaga.
 Selama beberapa generasi ia menetap menjadi loghat tempatan — terutamanya gaya
 kering yang bersalut kicap, kini dijual di gerai penjaja di seluruh negara — dan
-mengambil tempatnya dalam dunia [mi Malaysia](/ms/food-lifestyle/malaysian-noodles)
+mengambil tempatnya dalam dunia [mi Malaysia](/food-lifestyle/malaysian-noodles)
 yang lebih luas.
 
 ## Apa yang ada dalam mangkuk
@@ -165,7 +165,7 @@ bersalut sos tiram, manakala wantan terletak dalam semangkuk kecil sup di sisi.
 Anda makan mi yang bersimpul dan berkilat, kemudian menyenduk kuah jernih dan
 ladunya di sela-sela. Persembahan kering-tambah-sup-sampingan ini sangat dikaitkan
 dengan Kuala Lumpur dan sebahagian besar semenanjung, dan ia menjadi kelaziman di
-meja sarapan [kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture).
+meja sarapan [kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture).
 
 ## Gaya sup
 
@@ -206,7 +206,7 @@ sebagai sesuatu yang tersendiri — dan hubungan antara variasi mi wantan Sarawa
 dengan kolo mee mudah menjadi kabur, jadi versi Sarawak sebaiknya disahkan dengan
 sumber tempatan. Perbezaan dari pekan ke pekan ini ialah sebahagian daripada peta
 yang lebih luas tentang [masakan serantau dan
-etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) Malaysia.
+etnik](/food-lifestyle/regional-and-ethnic-cuisines) Malaysia.
 
 ## Versi daging babi, halal dan vegetarian
 
@@ -223,15 +223,15 @@ jeruk yang sama. Versi vegetarian juga wujud, menggantikan daging babi panggang
 dengan gluten gandum atau cendawan. Seperti biasa di gerai penjaja, panduan yang
 paling pasti ialah bertanya kepada tukang masak — amalan baik yang sama yang
 terpakai pada hidangan daging-babi-atau-halal seperti [char kway
-teow](/ms/food-lifestyle/char-kway-teow).
+teow](/food-lifestyle/char-kway-teow).
 
 ## Apa seterusnya
 
-- [Mi Malaysia](/ms/food-lifestyle/malaysian-noodles) — keluarga hidangan mi yang
+- [Mi Malaysia](/food-lifestyle/malaysian-noodles) — keluarga hidangan mi yang
   lebih luas, tempat wonton mee tergolong.
-- [Char kway teow](/ms/food-lifestyle/char-kway-teow) — satu lagi ikon mi
+- [Char kway teow](/food-lifestyle/char-kway-teow) — satu lagi ikon mi
   Cina-Malaysia, dengan pembahagian halal dan bukan halalnya tersendiri.
-- [Nasi ayam Hainan](/ms/food-lifestyle/hainanese-chicken-rice) — hidangan lain
+- [Nasi ayam Hainan](/food-lifestyle/hainanese-chicken-rice) — hidangan lain
   yang dibawa pendatang yang menjadi makanan ruji Malaysia.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   bagaimana negeri dan masyarakat Malaysia makan.

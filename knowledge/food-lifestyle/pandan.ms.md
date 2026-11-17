@@ -145,7 +145,7 @@ bungkusan itu berwap dan mengharumkan dagingnya dari luar ke dalam.
 Lalu di depan gerai kuih dan deretan manisan hijau berlapis itu berhutang warna
 dan aromanya kepada jus pandan. Daun ini menjadi teras kepada himpunan kek
 tradisional sesuap Malaysia — lihat
-[kuih-muih](/ms/food-lifestyle/kuih-muih) — tempat ia muncul berulang kali.
+[kuih-muih](/food-lifestyle/kuih-muih) — tempat ia muncul berulang kali.
 *Kuih lapis*, kek lapis kukus yang lembut, selalunya diwarna dan diberi perisa
 hijau pandan; *kuih seri muka* memadankan dasar pulut dengan atasan kastard
 pandan; dan *kuih talam* menyusun lapisan kelapa pucat di atas lapisan pandan
@@ -156,8 +156,8 @@ Pandan juga memberi perisa kepada **kaya**, jem kelapa-dan-telur yang disapu pad
 roti bakar dan dilipat ke dalam kuih. Versi jem yang berwarna hijau, berbanding
 gaya bernada karamel yang lebih perang, mendapat warna dan aromanya daripada daun
 pandan; nada pandan inilah yang mentakrifkan sarapan klasik
-[kaya toast](/ms/food-lifestyle/kaya-toast). Kaya dan banyak kuih juga bersandar
-pada gula enau — [gula melaka](/ms/food-lifestyle/gula-melaka) — yang karamel
+[kaya toast](/food-lifestyle/kaya-toast). Kaya dan banyak kuih juga bersandar
+pada gula enau — [gula melaka](/food-lifestyle/gula-melaka) — yang karamel
 berasapnya berpadan secara semula jadi dengan manis berbau rumput pandan.
 
 ## Kek pandan dan chiffon
@@ -181,11 +181,11 @@ kedai kek dan ketuhar rumah Malaysia.
 ## Dalam minuman dan pencuci mulut
 
 Pandan menyusur bahagian sejuk menu juga. Ia ialah salah satu aroma yang
-mentakrifkan [cendol](/ms/food-lifestyle/cendol), pencuci mulut ais kisar yang
+mentakrifkan [cendol](/food-lifestyle/cendol), pencuci mulut ais kisar yang
 jeli hijau berbentuk cacingnya dibuat dengan pandan, dihidang di atas ais dengan
 santan dan sirap gula enau. Secara lebih luas, jus pandan menjadi asas minuman
 penyejuk dan bubur manis, dan ia menyelusuri dunia
-[pencuci mulut Malaysia](/ms/food-lifestyle/malaysian-desserts) yang lebih luas —
+[pencuci mulut Malaysia](/food-lifestyle/malaysian-desserts) yang lebih luas —
 dalam jeli agar, kastard kelapa dan puding kukus — di mana-mana sahaja tukang masak
 mahukan haruman hijau yang lembut dan tidak mungkin tersilap.
 
@@ -214,9 +214,9 @@ sekali gus.
 
 ## Apa seterusnya
 
-- [Kuih-muih](/ms/food-lifestyle/kuih-muih) — dunia kek tradisional sesuap tempat
+- [Kuih-muih](/food-lifestyle/kuih-muih) — dunia kek tradisional sesuap tempat
   pandan menjalankan sebahagian besar pewarnaan dan pemberian perisanya.
-- [Pencuci mulut Malaysia](/ms/food-lifestyle/malaysian-desserts) — meja manis yang
+- [Pencuci mulut Malaysia](/food-lifestyle/malaysian-desserts) — meja manis yang
   lebih luas yang disusuri pandan.
-- [Cendol](/ms/food-lifestyle/cendol) — pencuci mulut berais yang dibina atas jeli
+- [Cendol](/food-lifestyle/cendol) — pencuci mulut berais yang dibina atas jeli
   pandan, santan dan gula enau.

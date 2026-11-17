@@ -133,7 +133,7 @@ rumiannya berbeza-beza, jadi tafsiran ini paling baik dianggap sebagai bacaan
 yang mantap dan bukannya fakta yang muktamad.
 
 Keturunan Hakka hidangan ini menyusuri kisah yang lebih luas
-[masakan Cina Malaysia](/ms/food-lifestyle/chinese-malaysian-cuisine), yang
+[masakan Cina Malaysia](/food-lifestyle/chinese-malaysian-cuisine), yang
 setiap komuniti dialek membawa repertoir mereka sendiri ke semenanjung. Yong
 tau foo, menurut beberapa catatan, merupakan makanan perayaan atau jamuan tetamu
 di tanah asalnya sebelum ia menjadi hidangan gerai sehari-hari di Malaysia dan
@@ -168,7 +168,7 @@ mangkuk dengan penyepit, di tempat lain anda menanda pilihan pada cek pesanan �
 tetapi prinsip menyusun pinggan sendiri kekal di mana-mana.
 
 Pemasangan sendiri ini menjadikan yong tau foo padanan semula jadi untuk
-[pusat penjaja dan medan selera](/ms/food-lifestyle/hawker-centres-and-food-courts)
+[pusat penjaja dan medan selera](/food-lifestyle/hawker-centres-and-food-courts)
 Malaysia, yang sebuah gerai tunggal boleh menghidangkan berpuluh gabungan
 daripada dulang bahan yang sama dan periuk sup yang sama.
 
@@ -200,7 +200,7 @@ sama ada dalam sup itu atau "kering", dengan supnya diletakkan di tepi dalam
 mangkuk berasingan. Dalam gaya kering — model Ampang dan sanaknya — kepingan
 goreng tiba bersos, dengan cecah sos taucu manis dan cili atau hoisin di tepi.
 Mana-mana versi pun sering dilengkapkan menjadi hidangan penuh dengan nasi kukus
-atau [mi](/ms/food-lifestyle/malaysian-noodles) seperti bihun atau mi kuning,
+atau [mi](/food-lifestyle/malaysian-noodles) seperti bihun atau mi kuning,
 dan sesetengah gerai malah akan mencurahkan kuah kari atau laksa ke atas
 keseluruhannya.
 
@@ -224,7 +224,7 @@ sumbat, sambil mencatatkan bahawa legenda itu mungkin tidak benar.
 
 Apa yang tidak diragukan ialah di mana hidangan ini tergolong hari ini: tegap di
 dalam warisan kulinari Hakka Malaysia dan peta yang lebih luas
-[masakan wilayah dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) yang
+[masakan wilayah dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) yang
 setiap komuniti telah membentuk semula mengikut bahan dan citarasa tempatan.
 Apa jua permulaan tepatnya, yong tau foo bertahan kerana idea di sebaliknya
 merentas dengan begitu baik — sebuah pes, sayur untuk membawanya, dan pelanggan
@@ -232,9 +232,9 @@ yang bebas membina mangkuk itu.
 
 ## Apa seterusnya
 
-- [Masakan Cina Malaysia](/ms/food-lifestyle/chinese-malaysian-cuisine) — komuniti
+- [Masakan Cina Malaysia](/food-lifestyle/chinese-malaysian-cuisine) — komuniti
   dialek dan hidangan yang menjadi tempat yong tau foo tergolong.
-- [Pusat penjaja dan medan selera](/ms/food-lifestyle/hawker-centres-and-food-courts) —
+- [Pusat penjaja dan medan selera](/food-lifestyle/hawker-centres-and-food-courts) —
   tempat format gerai pilih sendiri berkembang maju.
-- [Masakan wilayah dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan wilayah dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   kisah yang lebih luas tentang bagaimana komuniti Malaysia makan.

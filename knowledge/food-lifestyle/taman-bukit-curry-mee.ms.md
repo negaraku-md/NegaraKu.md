@@ -91,7 +91,7 @@ berbaloi untuk menyeberang selat.
 Taman Bukit Curry Mee disenaraikan sebagai **MICHELIN Bib Gourmand** dalam
 pemilihan MICHELIN Guide Kuala Lumpur & Penang, anugerah untuk makanan baik pada
 harga berpatutan. Ia menumpu pada satu klasik Pulau Pinang:
-[curry mee](/ms/food-lifestyle/curry-mee), sup mi santan-dan-kari yang menjadi
+[curry mee](/food-lifestyle/curry-mee), sup mi santan-dan-kari yang menjadi
 jawapan pulau itu kepada laksa lemak yang lebih pekat dan bergaya selatan.
 
 ## Mangkuk istimewa
@@ -101,7 +101,7 @@ dibina atas pes kari yang pedas, dituang atas mi dan dimahkotai **kerang separuh
 masak** yang disebut panduan ini sebagai masin-manis dan penuh dengan jus. Ia
 semangkuk yang menyenangkan dan tegas — jenis masakan penjaja harian yang Bib
 Gourmand dicipta untuk memberi penghormatan, dan satu ruji dalam
-[makanan Pulau Pinang](/ms/food-lifestyle/penang-food) yang lebih luas.
+[makanan Pulau Pinang](/food-lifestyle/penang-food) yang lebih luas.
 
 ## Lokasi dan latar belakang
 

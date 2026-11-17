@@ -268,7 +268,7 @@ itu, atau sama ada kerugian terus meningkat melepasi RM2.97 bilion yang dilihat
 pada 2025.
 
 Akta itu juga berdiri bersebelahan, bukan di atas,
-[Akta Perlindungan Data Peribadi 2010](/ms/law/pdpa-2010). Satu melindungi
+[Akta Perlindungan Data Peribadi 2010](/law/pdpa-2010). Satu melindungi
 keselamatan sistem kritikal; satu lagi melindungi data peribadi dalam urus niaga
 komersial. Sesebuah organisasi yang terkena pelanggaran mungkin terhutang kewajipan
 di bawah kedua-duanya — dan kedua-dua rejim itu, dibaca bersama, mentakrifkan

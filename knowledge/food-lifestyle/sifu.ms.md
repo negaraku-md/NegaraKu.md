@@ -93,7 +93,7 @@ $$ — daftar julat sederhana tempat Bib Gourmand begitu kerap berada. Menunya
 menjangkau kira-kira **40 hidangan à la carte**, merangkumi makanan ruji masakan
 Peranakan tradisional dan bukannya mengejar kebaharuan. Untuk kisah lebih luas
 masakan ini, lihat panduan kami tentang
-[masakan Nyonya dan Peranakan](/ms/food-lifestyle/nyonya-peranakan-cuisine).
+[masakan Nyonya dan Peranakan](/food-lifestyle/nyonya-peranakan-cuisine).
 
 ## Apa yang perlu dipesan
 
@@ -117,4 +117,4 @@ Sifu terletak di **154 Jalan Pintal Tali, George Town, 10100**. MICHELIN
 menyatakan bahawa tempahan tidak tersedia melalui laman webnya, jadi hubungi
 restoran secara terus untuk bertanya tentang tempahan dan waktu semasa. Untuk
 konteks yang lebih luas, lihat gambaran keseluruhan kami tentang
-[MICHELIN Guide di Malaysia](/ms/food-lifestyle/michelin-guide-malaysia).
+[MICHELIN Guide di Malaysia](/food-lifestyle/michelin-guide-malaysia).

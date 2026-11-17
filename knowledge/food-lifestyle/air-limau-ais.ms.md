@@ -100,7 +100,7 @@ manis dan sejuk serentak, ia jenis penyegar yang paling bersahaja — dan salah 
 terbaik.
 
 Untuk melihat kedudukan air limau ais dalam kalangan papan minuman negara yang lebih
-luas, lihat hub [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks). Artikel ini
+luas, lihat hub [minuman Malaysia](/food-lifestyle/malaysian-drinks). Artikel ini
 ialah tinjauan mendalam tentang minuman penyejuk limau segar itu sendiri.
 
 ## Limau yang mana — dan variasi asam boi
@@ -115,12 +115,12 @@ Peningkatan yang paling popular ialah **limau asam boi** — minuman yang sama d
 tambahan **plum masam kering**. Plum itu direndam menjadi sirap manis, kemudian dikacau
 ke dalam limau dan ais, selalunya dengan beberapa ketul plum dan secubit garam, memberikan
 perisa yang lebih dalam, manis-masin-masam. Plum masam itu mempunyai panduan
-[asam boi](/ms/food-lifestyle/asam-boi) tersendiri; di sini ia sekadar variasi klasik.
+[asam boi](/food-lifestyle/asam-boi) tersendiri; di sini ia sekadar variasi klasik.
 
 ## Bukan sama dengan teh limau
 
 Berbaloi untuk menjelaskan satu kekeliruan lazim. Air limau ais **bukan** [teh O ais
-limau](/ms/food-lifestyle/teh-o-ais-limau), iaitu **teh hitam** ber-ais dengan limau. Air
+limau](/food-lifestyle/teh-o-ais-limau), iaitu **teh hitam** ber-ais dengan limau. Air
 limau ais **tiada teh langsung** — hanya limau, gula dan air. Kedua-duanya terasa
 berkaitan kerana sama-sama berasid sitrik dan sejuk, tetapi satu ialah *teh* limau dan
 satu lagi *jus* limau tulen.
@@ -130,11 +130,11 @@ satu lagi *jus* limau tulen.
 Air limau ais ada di mana-mana minuman dituang: gerai **mamak**, **kopitiam** dan gerai
 penjaja di seluruh negara. Ia pesanan lalai pada hari panas, dan teman semula jadi kepada
 sepinggan makanan mamak. Untuk dunia kedai kopi yang menjadi miliknya, lihat
-[budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture).
+[budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture).
 
 ## Apa yang seterusnya
 
 - Petakan air limau ais terhadap papan minuman negara yang lebih luas dalam hub
-  [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
-- Tambah kedalaman plum masam dalam [asam boi](/ms/food-lifestyle/asam-boi).
-- Bandingkannya dengan versi teh dalam [teh O ais limau](/ms/food-lifestyle/teh-o-ais-limau).
+  [minuman Malaysia](/food-lifestyle/malaysian-drinks).
+- Tambah kedalaman plum masam dalam [asam boi](/food-lifestyle/asam-boi).
+- Bandingkannya dengan versi teh dalam [teh O ais limau](/food-lifestyle/teh-o-ais-limau).

@@ -117,7 +117,7 @@ memesan di dalamnya, ialah kunci untuk makan dengan baik di sini.
 
 Panduan ini merangkumi format utama makan di luar, bagaimana cara memesan dan
 membayar, maksud gred kebersihan pada dinding, dan bagaimana kesemua itu berbeza
-daripada [pasar malam](/ms/food-lifestyle/pasar-malam-and-street-food), pasar
+daripada [pasar malam](/food-lifestyle/pasar-malam-and-street-food), pasar
 malam yang berjalan atas rentak yang sama sekali berbeza.
 
 ## Format: kopitiam, mamak, food court dan lain-lain
@@ -135,7 +135,7 @@ tunggal boleh menawarkan char kway teow, nasi ayam, dan sup mi daripada tiga
 penjual yang tidak berkait. Budaya kopi yang berkembang daripada kaunter minuman
 — *kopi O*, *kopi C*, telur separuh masak dan roti bakar kaya — ialah sebuah
 dunia tersendiri, diterokai dalam
-[kopi, teh tarik dan minuman kedai kopi](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
+[kopi, teh tarik dan minuman kedai kopi](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
 
 **Mamak** ialah kedai makan India-Muslim, dinamakan sempena komuniti Tamil-Muslim
 tempat ia berkembang. Restoran mamak terkenal dengan roti canai, *mee goreng*,
@@ -145,7 +145,7 @@ pengendalinya beragama Islam, makanan mamak biasanya halal — satu perkara
 praktikal bagi pelanggan Muslim, dan satu sebab outlet mamak menjadi tempat
 pertemuan lewat malam, merentas semua kaum, yang lazim di Malaysia. Sejarah
 sosial yang lebih mendalam bagi kedua-dua institusi ini diceritakan dalam
-[budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture).
+[budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture).
 
 **Food court** ialah format yang lebih besar dan lebih anonim: sebuah dewan
 banyak gerai berasingan yang berkongsi satu kawasan tempat duduk sepunya. Perkara
@@ -198,7 +198,7 @@ Satu lagi catatan praktikal: kerana mamak dan kebanyakan gerai Melayu adalah
 halal manakala banyak gerai kopitiam Cina tidak, pelanggan yang mempunyai
 keperluan pemakanan patut menyemak suasananya. Pensijilan rasmi ialah perkara
 berasingan, dirangkumi dalam
-[pensijilan halal di Malaysia](/ms/food-lifestyle/halal-certification-in-malaysia).
+[pensijilan halal di Malaysia](/food-lifestyle/halal-certification-in-malaysia).
 
 ## Membaca gred kebersihan: A, B dan C
 
@@ -246,7 +246,7 @@ penjaja terbuka dan jalan-jalan makanannya sebagai institusi awam, dan hidangan
 penjaja terpampang ketara dalam senarai makanan nasional.
 
 Sesetengah penjaja individu malah telah mendapat pengiktirafan rasmi:
-[pilihan Malaysia dalam MICHELIN Guide](/ms/food-lifestyle/michelin-guide-malaysia)
+[pilihan Malaysia dalam MICHELIN Guide](/food-lifestyle/michelin-guide-malaysia)
 menganugerahkan status Bib Gourmand kepada gerai-gerai sederhana yang
 menghidangkan makanan baik pada harga yang berpatutan, meletakkan beberapa tukang
 masak food court dan kedai kopi ke dalam senarai antarabangsa.
@@ -274,7 +274,7 @@ kejiranan mungkin bekerja dari sebuah bucu yang disewa dan bukan sebuah restoran
 
 Mudah untuk menyatukan semua makanan santai Malaysia, tetapi pusat penjaja, food
 court dan kopitiam berbeza dari segi jenis berbanding
-[pasar malam](/ms/food-lifestyle/pasar-malam-and-street-food).
+[pasar malam](/food-lifestyle/pasar-malam-and-street-food).
 
 Perbezaannya ialah **tetap berbanding bergerak.** Sebuah kopitiam, food court
 atau medan selera ialah premis kekal dan berlesen: gerainya tetap di tempatnya,
@@ -297,11 +297,11 @@ atas jam yang berbeza.
 
 ## Apa seterusnya
 
-- [Pasar malam dan makanan jalanan](/ms/food-lifestyle/pasar-malam-and-street-food) —
+- [Pasar malam dan makanan jalanan](/food-lifestyle/pasar-malam-and-street-food) —
   pasangan pasar malam bergerak kepada pusat penjaja tetap.
-- [Budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture) — sejarah
+- [Budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture) — sejarah
   sosial kedai kopi dan kedai makan India-Muslim.
-- [Kopi, teh tarik dan minuman kedai kopi](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks)
+- [Kopi, teh tarik dan minuman kedai kopi](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks)
   — apa yang sebenarnya dihidangkan oleh gerai minuman, dan cara memesannya.
-- [MICHELIN Guide di Malaysia](/ms/food-lifestyle/michelin-guide-malaysia) —
+- [MICHELIN Guide di Malaysia](/food-lifestyle/michelin-guide-malaysia) —
   bagaimana gerai-gerai sederhana mendapat pengiktirafan antarabangsa.

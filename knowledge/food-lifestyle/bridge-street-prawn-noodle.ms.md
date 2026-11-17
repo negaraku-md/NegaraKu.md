@@ -93,14 +93,14 @@ yang pedas dan pekat yang kini menarik barisan ke sudut tenang kota lama.
 
 Bridge Street Prawn Noodle memegang MICHELIN **Bib Gourmand** — tanda untuk
 masakan berkualiti baik pada harga berbaloi — dalam
-[MICHELIN Guide Kuala Lumpur & Penang](/ms/food-lifestyle/michelin-guide-malaysia).
+[MICHELIN Guide Kuala Lumpur & Penang](/food-lifestyle/michelin-guide-malaysia).
 Popularitinya telah bertambah dengan ketara sejak pengiktirafan itu, jadi tiba
 awal ialah cara paling pasti untuk mengelak barisan.
 
 ## Mangkuk istimewa
 
 Hidangan yang perlu dipesan ialah **prawn mee**, salah satu
-[sup mi Malaysia](/ms/food-lifestyle/malaysian-noodles) yang hebat. Pelanggan
+[sup mi Malaysia](/food-lifestyle/malaysian-noodles) yang hebat. Pelanggan
 memilih antara mi telur kuning dan mi beras, kemudian menghadapi sup udang pedas
 yang digambarkan oleh pemeriksa MICHELIN sebagai sarat rasa. Tambahan yang
 berbaloi termasuk tulang rusuk khinzir yang direneh dan bebola ikan, yang
@@ -109,7 +109,7 @@ menjadikan mangkuk itu hidangan penuh.
 ## Di mana ia terletak
 
 Gerai ini terletak di **533 Lebuh Pantai, George Town, 10300**, di jantung grid
-[makanan Pulau Pinang](/ms/food-lifestyle/penang-food) kota dalaman. MICHELIN
+[makanan Pulau Pinang](/food-lifestyle/penang-food) kota dalaman. MICHELIN
 Guide menyenaraikannya pada tahap harga paling rendah ($), dan hanya menerima
 tunai.
 

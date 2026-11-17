@@ -99,7 +99,7 @@ disenaraikan dalam julat harga $$.
 ## Apa yang patut dimakan
 
 Menu sengaja dibuat tradisional — jenis
-[masakan Kantonis Cina-Malaysia](/ms/food-lifestyle/chinese-malaysian-cuisine) yang
+[masakan Kantonis Cina-Malaysia](/food-lifestyle/chinese-malaysian-cuisine) yang
 menyenangkan dan cara lama yang semakin sukar ditemui. MICHELIN Guide menyebut
 **pipa duck** sebagai mesti dicuba, memuji perasanya yang tepat, isinya yang padat
 dan kulitnya yang rangup. Satu lagi pesanan yang terkenal ialah **anak babi
@@ -113,5 +113,5 @@ menghidangkan makan tengah hari serta makan malam pada hari-hari lain dalam
 seminggu. Tempahan diuruskan oleh restoran itu secara terus, dan untuk anak babi
 panggang itu anda perlu merancang dua hari lebih awal. Ia salah satu catatan warisan
 dalam senarai Bib Gourmand
-[MICHELIN Guide Malaysia](/ms/food-lifestyle/michelin-guide-malaysia), yang
+[MICHELIN Guide Malaysia](/food-lifestyle/michelin-guide-malaysia), yang
 disegarkan setiap tahun.

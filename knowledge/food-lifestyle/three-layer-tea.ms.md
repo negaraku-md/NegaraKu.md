@@ -103,7 +103,7 @@ memang dibuat untuk **dikacau bersama** sebelum anda minum, supaya gula gelap be
 karamel itu memaniskan seluruh gelas menjadi teh ais yang berkrim.
 
 Untuk melihat kedudukan teh tiga lapis dalam kalangan papan minuman negara yang lebih
-luas, lihat hub [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks). Artikel ini ialah
+luas, lihat hub [minuman Malaysia](/food-lifestyle/malaysian-drinks). Artikel ini ialah
 tinjauan mendalam tentang teh berlapis Sarawak itu sendiri.
 
 ## Apa maksud "teh C peng special"
@@ -115,7 +115,7 @@ dan satu lagi sekadar menganggap "C" sebagai kod tempatan untuk susu sejat. **"S
 menandakan versi berlapis. Jadi teh C peng special ialah, secara harfiah, teh susu sejat
 ber-ais — dihidangkan, secara unik, dalam lapisan. Untuk logik bahasa pesanan ini yang
 lebih luas, lihat
-[kopi, teh tarik dan minuman kedai kopi](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
+[kopi, teh tarik dan minuman kedai kopi](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
 
 ## Satu asli Kuching
 
@@ -124,7 +124,7 @@ Teh tiga lapis ialah **Sarawak**, dan secara meluas dijejaki ke kawasan **Batu 7
 pencipta khususnya tidak didokumenkan dengan kukuh — jadi ia paling baik dipanggil ciptaan
 Batu 7 Kuching dan bukannya dikaitkan dengan satu nama. Dari situ ia menjadi **minuman khas
 Malaysia Timur**, dan versi bercita-cita tinggi dengan lapisan tambahan — menambah sirap
-pandan atau cincau — telah menyusul. Bersama [teh tarik](/ms/food-lifestyle/teh-tarik), ia
+pandan atau cincau — telah menyusul. Bersama [teh tarik](/food-lifestyle/teh-tarik), ia
 salah satu minuman teh negara yang paling mudah dikenali.
 
 ## Di mana untuk menemuinya
@@ -137,6 +137,6 @@ menonton ia tiba.
 ## Apa yang seterusnya
 
 - Petakan teh tiga lapis terhadap papan minuman negara yang lebih luas dalam hub
-  [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
-- Temui ikon teh tarik negara dalam [teh tarik](/ms/food-lifestyle/teh-tarik).
-- Cuba variasi halia yang menghangatkan dalam [teh halia](/ms/food-lifestyle/teh-halia).
+  [minuman Malaysia](/food-lifestyle/malaysian-drinks).
+- Temui ikon teh tarik negara dalam [teh tarik](/food-lifestyle/teh-tarik).
+- Cuba variasi halia yang menghangatkan dalam [teh halia](/food-lifestyle/teh-halia).

@@ -90,7 +90,7 @@ Guide.
 Winn's Cafe disenaraikan sebagai **MICHELIN Bib Gourmand** dalam pemilihan
 MICHELIN Guide Kuala Lumpur & Penang, anugerah untuk makanan baik pada harga
 berpatutan. Dapurnya mengabdikan diri kepada
-[masakan Peranakan, atau Nyonya](/ms/food-lifestyle/nyonya-peranakan-cuisine) —
+[masakan Peranakan, atau Nyonya](/food-lifestyle/nyonya-peranakan-cuisine) —
 hidangan masyarakat Cina kelahiran Selat yang gabungan bahan Cina dan pes rempah
 Melayunya membentuk sebahagian besar cara Pulau Pinang makan.
 

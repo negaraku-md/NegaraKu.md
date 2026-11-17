@@ -103,7 +103,7 @@ pula, kelembutan yang berkrim. Bersama-sama mereka menjadikan salah satu penyeju
 kopitiam yang paling memuaskan secara senyap.
 
 Untuk melihat kedudukannya dalam kalangan papan minuman negara yang lebih luas, lihat
-hub [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks). Artikel ini ialah tinjauan
+hub [minuman Malaysia](/food-lifestyle/malaysian-drinks). Artikel ini ialah tinjauan
 mendalam tentang minuman hitam-putih itu sendiri.
 
 ## Dari mana datangnya gelaran itu
@@ -120,10 +120,10 @@ dengan *soya cincau* sebagai label deskriptif yang biasa di sebaliknya.
 
 Kedua-dua bahagian minuman ini berakar kepada budaya makanan Cina. **Susu soya** tidak
 memerlukan banyak pengenalan — ia dibincangkan dalam panduan
-[minuman soya bean](/ms/food-lifestyle/soya-bean) tersendiri. **Cincau**, agar rumput
+[minuman soya bean](/food-lifestyle/soya-bean) tersendiri. **Cincau**, agar rumput
 itu, ialah agar lembut yang hampir hitam, dibekukan daripada tumbuhan *Mesona* (saudara
 pudina), yang sudah lama digunakan dalam minuman dan pencuci mulut menyejukkan di seluruh
-rantau ini; kisah penuhnya ada dalam artikel [cincau](/ms/food-lifestyle/cincau). Michael
+rantau ini; kisah penuhnya ada dalam artikel [cincau](/food-lifestyle/cincau). Michael
 Jackson sekadar menyatukan dua kegemaran lama ini dalam satu gelas.
 
 ## Minuman untuk setiap meja
@@ -133,11 +133,11 @@ rumput dan gula — Michael Jackson ialah minuman **vegetarian** dan, pada dirin
 **halal**, satu pesanan yang mudah merentasi masyarakat. Seperti biasa, jaminan halal
 melekat pada premis, jadi pengunjung yang memerlukan pensijilan patut menyemak setiap
 gerai. Untuk dunia kedai kopi yang menjadi miliknya, lihat
-[budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture).
+[budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture).
 
 ## Apa yang seterusnya
 
 - Petakan Michael Jackson terhadap papan minuman negara yang lebih luas dalam hub
-  [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
-- Temui separuh putih secara bersendirian dalam [minuman soya bean](/ms/food-lifestyle/soya-bean).
-- Temui separuh hitam secara bersendirian dalam [cincau](/ms/food-lifestyle/cincau).
+  [minuman Malaysia](/food-lifestyle/malaysian-drinks).
+- Temui separuh putih secara bersendirian dalam [minuman soya bean](/food-lifestyle/soya-bean).
+- Temui separuh hitam secara bersendirian dalam [cincau](/food-lifestyle/cincau).

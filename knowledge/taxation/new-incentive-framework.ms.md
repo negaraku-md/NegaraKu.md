@@ -412,5 +412,5 @@ terhadap dasar baharu.
 
 Bagi landskap insentif di luar NIF — pakej zon, skim sektoral dan pelepasan
 berkanun yang masih kekal — lihat
-[direktori insentif cukai](/ms/taxation/tax-incentives-directory) dan
-[insentif zon khas dan hab](/ms/taxation/special-zones-and-hubs).
+[direktori insentif cukai](/taxation/tax-incentives-directory) dan
+[insentif zon khas dan hab](/taxation/special-zones-and-hubs).

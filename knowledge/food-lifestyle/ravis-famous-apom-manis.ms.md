@@ -95,7 +95,7 @@ sebagai **Bib Gourmand**, pengiktirafan panduan ini untuk masakan berkualiti bai
 pada harga berbaloi dan bukan bintang. Ia berada dalam kategori makanan jalanan
 pada tahap harga terendah ($). Ia salah satu daripada beberapa gerai snek manis
 George Town yang memperoleh pengiktirafan MICHELIN; untuk gambaran yang lebih luas,
-lihat [MICHELIN Guide di Malaysia](/ms/food-lifestyle/michelin-guide-malaysia).
+lihat [MICHELIN Guide di Malaysia](/food-lifestyle/michelin-guide-malaysia).
 
 ## Apom manis istimewa
 
@@ -110,7 +110,7 @@ biasa di tempat lain. Ia dimakan hangat, bersendirian.
 
 Senarai MICHELIN memberikan alamat sebagai 319 Jalan Burma, George Town, 10350,
 Pulau Pinang — sebuah urat nadi yang sibuk di pinggir
-[kawasan makanan](/ms/food-lifestyle/penang-food) yang padat di bandar lama. Ia
+[kawasan makanan](/food-lifestyle/penang-food) yang padat di bandar lama. Ia
 gerai jalanan jenis masuk terus; panduan itu menyatakan ia tidak menerima tempahan.
 
 ## Latar belakang

@@ -101,7 +101,7 @@ framework: profile
 Coast by Kayra ialah sebuah restoran India yang menumpukan masakan Kerala di dalam
 pusat beli-belah The Starhill di Bukit Bintang, Kuala Lumpur, dan salah satu
 tempat makan India yang diiktiraf dalam pemilihan
-[MICHELIN Guide](/ms/food-lifestyle/michelin-guide-malaysia) Kuala Lumpur & Penang.
+[MICHELIN Guide](/food-lifestyle/michelin-guide-malaysia) Kuala Lumpur & Penang.
 
 ## Tentang restoran ini
 
@@ -133,9 +133,9 @@ kereta, akses kerusi roda dan bahawa restoran ini menguruskan tempahannya sendir
 Menu India Selatan Coast yang mengutamakan makanan laut meluaskan santapan India
 bandar ini melampaui makanan ruji India Utara dan Tamil yang biasa. Ia tergolong
 dalam kisah lebih luas
-[masakan India-Malaysia](/ms/food-lifestyle/indian-malaysian-cuisine), yang
+[masakan India-Malaysia](/food-lifestyle/indian-malaysian-cuisine), yang
 julatnya bermula daripada kari pantai Kerala hingga ke hidangan
-[nasi daun pisang](/ms/food-lifestyle/banana-leaf-rice) Tamil yang ditemui di
+[nasi daun pisang](/food-lifestyle/banana-leaf-rice) Tamil yang ditemui di
 seluruh negara.
 
 ## Nota lawatan

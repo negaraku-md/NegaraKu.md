@@ -118,14 +118,14 @@ kualiti yang baik pada harga yang berbaik hati.
 
 ## Sebuah rumah bak kut teh Bib Gourmand
 
-[Bak kut teh](/ms/food-lifestyle/bak-kut-teh) sering digambarkan sebagai
+[Bak kut teh](/food-lifestyle/bak-kut-teh) sering digambarkan sebagai
 hidangan Malaysia yang ikonik, dan Hing Kee telah membina reputasinya dengan
 melakukannya dengan baik dan bukannya dengan mewah. MICHELIN Guide
 menyenaraikannya di bawah masakan Malaysia dalam tingkat harga jimat ($) dan
 menganugerahkannya Bib Gourmand — satu penghargaan yang terasing daripada
 bintang-bintang Panduan dan secara khusus menandakan nilai untuk wang. Untuk
 gambaran lebih luas tentang cara Panduan beroperasi di Malaysia, lihat
-[MICHELIN Guide di Malaysia](/ms/food-lifestyle/michelin-guide-malaysia).
+[MICHELIN Guide di Malaysia](/food-lifestyle/michelin-guide-malaysia).
 
 ## Sup itu — dan versi yang lebih kering, lebih pekat
 

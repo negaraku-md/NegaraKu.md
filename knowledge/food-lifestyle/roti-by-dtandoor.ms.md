@@ -101,7 +101,7 @@ framework: profile
 Roti by d'Tandoor ialah sebuah restoran India Utara yang tersorok di dalam sebuah
 rumah kediaman berdekatan Jalan Ampang di Kuala Lumpur, dan salah satu tempat
 makan India yang diiktiraf dalam pemilihan
-[MICHELIN Guide](/ms/food-lifestyle/michelin-guide-malaysia) Kuala Lumpur & Penang.
+[MICHELIN Guide](/food-lifestyle/michelin-guide-malaysia) Kuala Lumpur & Penang.
 
 ## Tentang restoran ini
 
@@ -134,9 +134,9 @@ ini menguruskan tempahannya sendiri.
 Roti merupakan sebahagian daripada jenama **d'Tandoor** yang lebih luas, yang
 menurut MICHELIN Guide "opened in Malaysia in 1990" dan sejak itu berkembang ke
 negara lain. Salasilah itu meletakkannya dalam kisah panjang
-[masakan India-Malaysia](/ms/food-lifestyle/indian-malaysian-cuisine) — sebuah
+[masakan India-Malaysia](/food-lifestyle/indian-malaysian-cuisine) — sebuah
 tradisi yang bermula daripada dapur tandoor India Utara hingga ke kedai
-[nasi daun pisang](/ms/food-lifestyle/banana-leaf-rice) Tamil yang mencorakkan
+[nasi daun pisang](/food-lifestyle/banana-leaf-rice) Tamil yang mencorakkan
 sebahagian besar santapan India Malaysia.
 
 ## Nota lawatan

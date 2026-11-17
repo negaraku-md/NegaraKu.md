@@ -213,6 +213,6 @@ negeri.
 - Lakukan ujian kebocoran meter dan perbandingan meter-berbanding-bil sebelum anda
   menelefon.
 - Untuk sebab bekalan air Malaysia diuruskan melalui syarikat negeri dan bukan
-  kerajaan persekutuan, lihat [bekalan air Malaysia dijelaskan](/ms/property/water-supply).
+  kerajaan persekutuan, lihat [bekalan air Malaysia dijelaskan](/property/water-supply).
 - Untuk cara jalur harga utiliti berfungsi secara lebih umum, lihat
-  [struktur tarif elektrik](/ms/energy/electricity-tariff-structure).
+  [struktur tarif elektrik](/energy/electricity-tariff-structure).

@@ -95,7 +95,7 @@ framework: profile
 
 Beta ialah sebuah restoran fine dining Malaysia moden di Jalan Perak di
 tengah-tengah Kuala Lumpur. Ia memegang Satu MICHELIN Star dalam
-[MICHELIN Guide](/ms/food-lifestyle/michelin-guide-malaysia) Kuala Lumpur & Penang,
+[MICHELIN Guide](/food-lifestyle/michelin-guide-malaysia) Kuala Lumpur & Penang,
 yang penyenaraiannya menggambarkan sebuah menu degustasi yang membayangkan semula
 hidangan negara ini menerusi teknik moden dan persembahan yang terperinci.
 
@@ -106,7 +106,7 @@ berkualiti tinggi" yang "berbaloi untuk singgah," dan muncul dalam senarai pilih
 penuh semasa MICHELIN bagi Malaysia. Laporan sekunder mencatatkan bahawa Beta
 merupakan restoran MICHELIN Selected dalam guide Malaysia yang sulung sebelum
 dinaikkan kepada satu Star, yang dikekalkannya sejak itu. Star ini meletakkannya
-antara kumpulan kecil restoran yang mentakrifkan [fine dining](/ms/food-lifestyle/fine-dining-malaysia)
+antara kumpulan kecil restoran yang mentakrifkan [fine dining](/food-lifestyle/fine-dining-malaysia)
 kontemporari di Kuala Lumpur.
 
 ## Makanannya: sebuah 'Tour of Malaysia'
@@ -119,7 +119,7 @@ kulinari negara ini." MICHELIN mengetengahkan satu tambahan abalone Lawas rice â
 digambarkan sebagai beras warisan Sarawak yang berkrim ditaburi ketulan abalone â€”
 dan mencatatkan bahawa pasangan koktel dan wain tersedia. Pendekatan ini ialah
 olahan yang halus terhadap hidangan yang berada di jantung [meja kebangsaan
-Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia).
+Malaysia](/food-lifestyle/national-dishes-of-malaysia).
 
 ## Latar dan lokasi
 

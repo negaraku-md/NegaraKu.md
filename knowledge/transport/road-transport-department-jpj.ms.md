@@ -108,7 +108,7 @@ JPJ ditadbir oleh **Akta Pengangkutan Jalan 1987 (Akta 333)**, statut yang di ba
 **Lesen Kenderaan Bermotor** — cukai jalan — dikeluarkan oleh JPJ untuk membolehkan sesebuah kenderaan beroperasi di jalan raya awam, dan ia boleh diperbaharui oleh pemilik berdaftar atau wakilnya. Sebelum pembaharuan diluluskan, beberapa syarat mesti dipenuhi:
 
 - Insurans kenderaan aktif yang meliputi tempoh minimum satu tahun.
-- **Pemeriksaan [PUSPAKOM](/ms/transport/puspakom-vehicle-inspections)/PPKM** yang lulus untuk kenderaan tertentu, seperti kenderaan komersial atau kenderaan berusia lebih 10 tahun.
+- **Pemeriksaan [PUSPAKOM](/transport/puspakom-vehicle-inspections)/PPKM** yang lulus untuk kenderaan tertentu, seperti kenderaan komersial atau kenderaan berusia lebih 10 tahun.
 - Kenderaan dan pemilik tidak boleh disenaraihitamkan oleh JPJ atau polis (PDRM).
 
 Bermula pada **2023**, JPJ memperkenalkan **e-LKM**, Lesen Kenderaan Bermotor digital yang menggantikan pelekat cukai jalan fizikal. Ia diakses melalui aplikasi **MyJPJ** atau portal **MySIKAP**.

@@ -79,7 +79,7 @@ Dalam ruang beberapa tahun yang bergelora, Tun Abdul Razak Hussein berpindah dar
 
 Abdul Razak bin Hussein lahir pada 11 Mac 1922 di Pulau Keladi, Pekan, di negeri Pahang, dalam sebuah keluarga bangsawan yang berkait dengan istana Pahang (Perdana Leadership Foundation). Dipilih untuk Malay College Kuala Kangsar yang elit pada 1934, beliau seterusnya ke Raffles College di Singapura pada 1940, tempat pengajiannya terputus oleh pendudukan Jepun. Selepas perang beliau membaca undang-undang di Britain dan dipanggil ke Bar di Lincoln's Inn, melayakkan diri sebagai peguam pada 1950 (Perdana Leadership Foundation).
 
-Pulang ke tanah air, Razak memasuki perkhidmatan awam Malaya dan kemudian politik menerusi Pertubuhan Kebangsaan Melayu Bersatu (UMNO), bangkit dengan pantas untuk menjadi salah seorang tokoh terkemukanya bersama [Tunku Abdul Rahman](/ms/malaysia/tunku-abdul-rahman), Perdana Menteri pengasas negara.
+Pulang ke tanah air, Razak memasuki perkhidmatan awam Malaya dan kemudian politik menerusi Pertubuhan Kebangsaan Melayu Bersatu (UMNO), bangkit dengan pantas untuk menjadi salah seorang tokoh terkemukanya bersama [Tunku Abdul Rahman](/malaysia/tunku-abdul-rahman), Perdana Menteri pengasas negara.
 
 ## Tahun-tahun sebagai timbalan
 
@@ -95,19 +95,19 @@ Majlis itu mentadbir Malaysia sehingga kerajaan berparlimen dipulihkan pada 1971
 
 ## Dasar Ekonomi Baru
 
-Daripada darurat itu muncul dasar yang paling rapat dikaitkan dengan nama Razak. Dilancarkan pada 1971 sebagai sebahagian daripada Rancangan Malaysia Kedua, [**Dasar Ekonomi Baru (DEB)**](/ms/malaysia/new-economic-policy) menetapkan dua matlamat menyeluruh: membasmi kemiskinan tanpa mengira kaum, dan "menyusun semula" masyarakat supaya fungsi ekonomi tidak lagi dikenal pasti dengan etnik (Perdana Leadership Foundation; Malaysian Bar). Pada amalannya ini bermaksud satu program tindakan afirmatif yang luas yang bertujuan meningkatkan bahagian ekonomi orang Melayu dan kumpulan Bumiputera lain.
+Daripada darurat itu muncul dasar yang paling rapat dikaitkan dengan nama Razak. Dilancarkan pada 1971 sebagai sebahagian daripada Rancangan Malaysia Kedua, [**Dasar Ekonomi Baru (DEB)**](/malaysia/new-economic-policy) menetapkan dua matlamat menyeluruh: membasmi kemiskinan tanpa mengira kaum, dan "menyusun semula" masyarakat supaya fungsi ekonomi tidak lagi dikenal pasti dengan etnik (Perdana Leadership Foundation; Malaysian Bar). Pada amalannya ini bermaksud satu program tindakan afirmatif yang luas yang bertujuan meningkatkan bahagian ekonomi orang Melayu dan kumpulan Bumiputera lain.
 
 DEB membentuk semula negara Malaysia. Kerajaan Razak mencipta atau memperluas institusi untuk melaksanakannya — antaranya syarikat minyak negara Petronas, badan piawai SIRIM, bank pembangunan Bank Pembangunan, dan universiti baharu seperti Universiti Kebangsaan Malaysia. Ufuk dua puluh tahunnya bermaksud dasar itu jauh melebihi hayat penciptanya, dan legasinya terus diperdebatkan.
 
 ## Barisan Nasional dan pembukaan kepada China
 
-Dari segi politik, jawapan Razak kepada kerapuhan yang terdedah pada 1969 ialah pembinaan muafakat pada skala besar. Beliau menarik bekas parti pembangkang ke dalam kerajaan, menggantikan [Perikatan](/ms/malaysia/the-alliance) tiga parti lama dengan satu gabungan yang jauh lebih luas. Kumpulan ini mengambil bentuk pada 1973 dan didaftarkan secara rasmi sebagai [**Barisan Nasional**](/ms/malaysia/barisan-nasional) pada 1974 (Malaysian Bar). Ia akan terus memerintah Malaysia secara berterusan sehingga 2018.
+Dari segi politik, jawapan Razak kepada kerapuhan yang terdedah pada 1969 ialah pembinaan muafakat pada skala besar. Beliau menarik bekas parti pembangkang ke dalam kerajaan, menggantikan [Perikatan](/malaysia/the-alliance) tiga parti lama dengan satu gabungan yang jauh lebih luas. Kumpulan ini mengambil bentuk pada 1973 dan didaftarkan secara rasmi sebagai [**Barisan Nasional**](/malaysia/barisan-nasional) pada 1974 (Malaysian Bar). Ia akan terus memerintah Malaysia secara berterusan sehingga 2018.
 
 Di luar negara, Razak mengejar satu haluan yang amat pragmatik. Pada akhir Mei 1974 beliau mengembara ke Beijing, tempat beliau bertemu Pengerusi Mao Zedong, dan pada 31 Mei 1974 kedua-dua kerajaan menandatangani satu komunike menjalinkan hubungan diplomatik — menjadikan **Malaysia negara ASEAN pertama yang mengiktiraf Republik Rakyat China** (New Straits Times; The Star). Langkah itu, dibuat pada kemuncak Perang Dingin, mencerminkan dasarnya yang lebih luas tentang neutraliti serantau dan bukan penjajaran.
 
 ## Kematian dalam jawatan dan legasi
 
-Abdul Razak telah didiagnosis dengan leukemia bertahun-tahun lebih awal, dan penyakit itu mengejar beliau pada kemuncak kuasanya. Beliau meninggal dunia di London pada **14 Januari 1976** semasa menerima rawatan, menjadi Perdana Menteri Malaysia pertama yang meninggal dunia dalam jawatan (Perdana Leadership Foundation; Encyclopædia Britannica). Beliau dimakamkan di Makam Pahlawan di sisi Masjid Negara di Kuala Lumpur. Beliau digantikan oleh sepupu dan abang iparnya, [Hussein Onn](/ms/malaysia/hussein-onn).
+Abdul Razak telah didiagnosis dengan leukemia bertahun-tahun lebih awal, dan penyakit itu mengejar beliau pada kemuncak kuasanya. Beliau meninggal dunia di London pada **14 Januari 1976** semasa menerima rawatan, menjadi Perdana Menteri Malaysia pertama yang meninggal dunia dalam jawatan (Perdana Leadership Foundation; Encyclopædia Britannica). Beliau dimakamkan di Makam Pahlawan di sisi Masjid Negara di Kuala Lumpur. Beliau digantikan oleh sepupu dan abang iparnya, [Hussein Onn](/malaysia/hussein-onn).
 
 | Tahun | Peristiwa penting |
 | --- | --- |
@@ -121,16 +121,16 @@ Abdul Razak telah didiagnosis dengan leukemia bertahun-tahun lebih awal, dan pen
 | 1974 | Menjalinkan hubungan diplomatik dengan Republik Rakyat China |
 | 1976 | Meninggal dunia dalam jawatan di London pada 14 Januari |
 
-Keluarganya kekal penting dalam kehidupan awam Malaysia: anak sulungnya, [Najib Razak](/ms/malaysia/najib-razak), menjadi Perdana Menteri keenam negara pada 2009.
+Keluarganya kekal penting dalam kehidupan awam Malaysia: anak sulungnya, [Najib Razak](/malaysia/najib-razak), menjadi Perdana Menteri keenam negara pada 2009.
 
 ## Mengapa beliau masih penting
 
-Sedikit pemimpin yang meninggalkan kesan sedalam itu dalam penggal sesingkat itu. Senibina institusi yang dibina Razak — penyelesaian tindakan afirmatif DEB, gabungan Barisan Nasional dan satu dasar luar yang bebas serta melibatkan China — mentakrifkan terma politik Malaysia lama selepas 1976. Atas sebab itu beliau dikaji bukan sahaja sebagai sebuah biografi tetapi sebagai satu titik perubahan: saat tatanan Malaysia selepas kemerdekaan dibentuk semula. Memahami beliau adalah penting untuk memahami perdebatan tentang kaum, ekonomi dan tadbir urus yang berterusan di Malaysia hari ini, dan kedudukannya dalam kalangan [Perdana Menteri Malaysia](/ms/government/prime-ministers-of-malaysia).
+Sedikit pemimpin yang meninggalkan kesan sedalam itu dalam penggal sesingkat itu. Senibina institusi yang dibina Razak — penyelesaian tindakan afirmatif DEB, gabungan Barisan Nasional dan satu dasar luar yang bebas serta melibatkan China — mentakrifkan terma politik Malaysia lama selepas 1976. Atas sebab itu beliau dikaji bukan sahaja sebagai sebuah biografi tetapi sebagai satu titik perubahan: saat tatanan Malaysia selepas kemerdekaan dibentuk semula. Memahami beliau adalah penting untuk memahami perdebatan tentang kaum, ekonomi dan tadbir urus yang berterusan di Malaysia hari ini, dan kedudukannya dalam kalangan [Perdana Menteri Malaysia](/government/prime-ministers-of-malaysia).
 
 *Draf ini meringkaskan sebuah kerjaya awam yang berpengaruh dan, di beberapa tempat, dipertikaikan dalam terma neutral; rencana-rencana yang dipautkan dan sumber-sumber di atas membawa butirannya, dan seorang penyemak yang layak mesti meluluskannya sebelum ia diterbitkan.*
 
 ## Apa seterusnya
 
-- Baca tentang pendahulunya, [Tunku Abdul Rahman](/ms/malaysia/tunku-abdul-rahman), Perdana Menteri pengasas Malaysia.
-- Lihat bagaimana penggantinya [Hussein Onn](/ms/malaysia/hussein-onn) membawa jawatan itu ke hadapan.
-- Semak senarai penuh [Perdana Menteri Malaysia](/ms/government/prime-ministers-of-malaysia).
+- Baca tentang pendahulunya, [Tunku Abdul Rahman](/malaysia/tunku-abdul-rahman), Perdana Menteri pengasas Malaysia.
+- Lihat bagaimana penggantinya [Hussein Onn](/malaysia/hussein-onn) membawa jawatan itu ke hadapan.
+- Semak senarai penuh [Perdana Menteri Malaysia](/government/prime-ministers-of-malaysia).

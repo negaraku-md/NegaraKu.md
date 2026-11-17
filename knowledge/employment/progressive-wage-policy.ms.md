@@ -152,7 +152,7 @@ meningkatkan kemahiran. Ia digariskan dalam
 
 Perkara paling penting untuk difahami ialah ia bersifat **sukarela**. Majikan
 memilih sama ada untuk menyertainya. Ini menjadikannya bayangan cermin kepada
-[gaji minimum](/ms/employment/minimum-wage-malaysia/), yang merupakan paras
+[gaji minimum](/employment/minimum-wage-malaysia/), yang merupakan paras
 wajib yang mesti dibayar oleh setiap majikan yang terlibat. Dasar Gaji Progresif
 tidak menggantikan gaji minimum dan tidak menetapkan paras minimum undang-undang
 baharu — ia terletak *di atas* paras itu dan cuba menarik gaji ke atas melalui
@@ -202,7 +202,7 @@ pengesahan berdasarkan garis panduan rasmi.)
 | Tempoh | Kekal | Insentif berjalan 12 bulan bagi setiap pekerja |
 
 Kedua-duanya direka untuk berfungsi bersama:
-[gaji minimum](/ms/employment/minimum-wage-malaysia/) menghalang gaji daripada
+[gaji minimum](/employment/minimum-wage-malaysia/) menghalang gaji daripada
 jatuh di bawah paras, manakala Dasar Gaji Progresif cuba menggerakkan pekerja
 *ke atas* daripada paras itu apabila mereka memperoleh kemahiran.
 

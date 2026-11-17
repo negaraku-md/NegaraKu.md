@@ -166,7 +166,7 @@ seluruh negara, satu contoh jarang pencuci mulut penjaja berkembang besar sambil
 mengekalkan gerai asalnya.
 
 Pulau Pinang juga rapat dikaitkan dengan varian moden yang paling terkenal: **cendol
-durian**, di mana secebis [durian](/ms/food-lifestyle/durian-culture-and-varieties)
+durian**, di mana secebis [durian](/food-lifestyle/durian-culture-and-varieties)
 yang wangi ditambah ke dalam mangkuk. Wajar diperjelas bahawa durian ialah tambahan
 yang disusun di atas asas standard, bukan asas tradisi — satu daripada keluarga tambahan
 yang juga termasuk **pulut**, **jagung manis**, **cincau** dan **susu pekat**. Malaysia
@@ -195,7 +195,7 @@ ialah versi berais berkembang pesat di pelabuhan era kolonial seperti **Melaka**
 
 Status dikongsi itu kini diiktiraf secara rasmi di beberapa tempat: Indonesia telah
 menyenaraikan dawet, es cendol dan cendol sebagai warisan budaya tidak ketara di
-pelbagai rantau, [**Jabatan Warisan Negara**](/ms/government/department-of-national-heritage) Malaysia mengisytiharkan cendol sebagai
+pelbagai rantau, [**Jabatan Warisan Negara**](/government/department-of-national-heritage) Malaysia mengisytiharkan cendol sebagai
 makanan warisan, dan Singapura telah memasukkannya dalam penyerahan UNESCO-nya untuk
 budaya penjaja. (Pengiktirafan ini dan tarikhnya diringkaskan daripada sumber sekunder
 dan ditandakan untuk pengesahan.)
@@ -218,8 +218,8 @@ dimakan dengan sudu, menyudu ais, jeli, kacang dan sirap dalam setiap suapan.
 ## Apa seterusnya
 
 - Bandingkan cendol dengan kanun pencuci mulut dan makanan jalanan Malaysia yang lebih
-  luas dalam [hidangan nasional Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia).
+  luas dalam [hidangan nasional Malaysia](/food-lifestyle/national-dishes-of-malaysia).
 - Lihat bagaimana dapur serantau membentuk manisan dan makanan masin secara berbeza dalam
-  [masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines).
+  [masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines).
 - Untuk tambahan utama, baca tentang buah itu sendiri dalam
-  [budaya dan varieti durian](/ms/food-lifestyle/durian-culture-and-varieties).
+  [budaya dan varieti durian](/food-lifestyle/durian-culture-and-varieties).

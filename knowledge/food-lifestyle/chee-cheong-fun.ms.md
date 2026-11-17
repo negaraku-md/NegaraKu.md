@@ -117,8 +117,8 @@ hiasan, sama ada ada inti langsung — ditentukan oleh wilayah dan oleh gerai. I
 sebabnya hidangan yang digemari di Pulau Pinang boleh kelihatan hampir tidak
 berkaitan dengan yang dijual beberapa jam ke selatan, dan sebabnya ia tergolong
 dalam keluarga lebih luas
-[mi Malaysia](/ms/food-lifestyle/malaysian-noodles) dan
-[masakan Cina-Malaysia](/ms/food-lifestyle/chinese-malaysian-cuisine).
+[mi Malaysia](/food-lifestyle/malaysian-noodles) dan
+[masakan Cina-Malaysia](/food-lifestyle/chinese-malaysian-cuisine).
 
 ## Nama dan mi itu
 
@@ -153,7 +153,7 @@ yang membezakan pinggan utara.
 
 Menuju ke selatan, hidangan ini bertukar teman. Di Kuala Lumpur, chee cheong fun
 kerap dihidangkan sebagai sebahagian daripada hidangan
-[yong tau foo](/ms/food-lifestyle/yong-tau-foo) — gulungan itu duduk di sebelah
+[yong tau foo](/food-lifestyle/yong-tau-foo) — gulungan itu duduk di sebelah
 tauhu sumbat, bendi, cili dan bungkusan pes ikan, dan pinggan itu disaluti sos
 berasaskan kacang yang lebih manis berbanding pes udang Pulau Pinang. Banyak gerai
 turut menawarkan gulungan yang dicurahi kuah: kari berkuah, atau, di sesetengah
@@ -166,9 +166,9 @@ itu satu keselesaan yang biasa di sana. Sama ada kuah cendawan khusus menjadi ta
 Ipoh atau sesuatu yang dikongsinya dengan Kuala Lumpur belum pasti sepenuhnya, dan
 salutan tepatnya berbeza dari kedai ke kedai. Walau apa pun, chee cheong fun ialah
 kelaziman dalam suasana
-[makanan Ipoh](/ms/food-lifestyle/ipoh-food) yang lebih luas, sebagaimana pinggan
+[makanan Ipoh](/food-lifestyle/ipoh-food) yang lebih luas, sebagaimana pinggan
 pes udang bagi
-[Pulau Pinang](/ms/food-lifestyle/penang-food).
+[Pulau Pinang](/food-lifestyle/penang-food).
 
 ## Gaya dim sum Kantonis
 
@@ -201,9 +201,9 @@ bertutur dalam beberapa loghat tempatan.
 
 ## Apa yang seterusnya
 
-- [Mi Malaysia](/ms/food-lifestyle/malaysian-noodles) — tempat chee cheong fun
+- [Mi Malaysia](/food-lifestyle/malaysian-noodles) — tempat chee cheong fun
   berada dalam hidangan mi negara ini.
-- [Masakan Cina-Malaysia](/ms/food-lifestyle/chinese-malaysian-cuisine) — tradisi
+- [Masakan Cina-Malaysia](/food-lifestyle/chinese-malaysian-cuisine) — tradisi
   masakan lebih luas yang hidangan ini tergolong di dalamnya.
-- [Yong tau foo](/ms/food-lifestyle/yong-tau-foo) — hidangan tauhu sumbat yang
+- [Yong tau foo](/food-lifestyle/yong-tau-foo) — hidangan tauhu sumbat yang
   kerap dihidangkan bersamanya di Kuala Lumpur.

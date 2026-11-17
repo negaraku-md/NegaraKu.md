@@ -117,7 +117,7 @@ tanda betul. Kemudian seseorang dengan sijil amalan menekan hantar.
 
 Halaman ini ialah mekaniknya. **Kewajipan** untuk memfailkan — siapa, bila, dan
 apa penaltinya — terletak dalam halaman rakan mengenai
-[MBRS 2.0 dan kewajipan pemfailan](/ms/company-secretary/mbrs-2).
+[MBRS 2.0 dan kewajipan pemfailan](/company-secretary/mbrs-2).
 
 ## Apa yang sebenarnya anda bina
 
@@ -435,6 +435,6 @@ kepadanya, dan sebab di mana pilihan itu tidak jelas. Dokumen itu bernilai lebih
 daripada fail XBRL itu sendiri, kerana fail itu boleh dibuang dan pemetaan itulah
 yang anda bina semula dari awal setiap tahun jika anda tidak menyimpannya.
 
-Kemudian baca halaman [ralat penandaan](/ms/accounting/mbrs-tagging-errors), yang
+Kemudian baca halaman [ralat penandaan](/accounting/mbrs-tagging-errors), yang
 mengambil keluarga kegagalan di atas dan menyelesaikan setiap satunya sebenarnya
 kelihatan dalam satu set akaun sebenar.

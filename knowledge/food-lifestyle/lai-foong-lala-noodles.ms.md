@@ -77,7 +77,7 @@ framework: profile
 
 Lai Foong Lala Noodles ialah pakar mi Cina di Jalan Sultan, di tengah-tengah
 Kuala Lumpur lama, yang telah memperoleh tempat dalam
-[MICHELIN Guide Malaysia](/ms/food-lifestyle/michelin-guide-malaysia). Ia ialah
+[MICHELIN Guide Malaysia](/food-lifestyle/michelin-guide-malaysia). Ia ialah
 jenis gerai hidangan tunggal yang sederhana, yang Bib Gourmand Guide direka untuk
 menonjolkan.
 
@@ -99,7 +99,7 @@ harum dengan wain kuning Cina dan halia. Guide menyatakan bahawa saiz hidanganny
 lumayan. Ia ialah salah satu contoh yang lebih terkenal di tengah KL bagi
 hidangan mi Cina-Malaysia yang dibina sekitar satu rasa tunggal yang yakin; untuk
 keluarga mangkuk sebegini yang lebih luas, lihat
-[mi Malaysia](/ms/food-lifestyle/malaysian-noodles).
+[mi Malaysia](/food-lifestyle/malaysian-noodles).
 
 ## Di mana untuk mencarinya
 

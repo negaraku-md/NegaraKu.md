@@ -108,7 +108,7 @@ bermakna memahami tiga aliran yang menyuapnya.
 ## Masakan tanah, laut dan penghijrahan
 
 Makanan Sabah terletak di titik pertemuan tiga pengaruh. Yang pertama ialah
-orang asal: [Kadazan-Dusun](/ms/food-lifestyle/kadazan-dusun-food), kumpulan
+orang asal: [Kadazan-Dusun](/food-lifestyle/kadazan-dusun-food), kumpulan
 peribumi terbesar negeri ini, bersama orang Murut, Bajau, Rungus dan lain-lain,
 memasak khazanah ikan sungai dan laut, padi bukit, paku pakis hutan, buah liar
 dan makanan yang diperam. Yang kedua ialah pesisir — garis pantai Sabah yang
@@ -121,7 +121,7 @@ berhati-hati.
 
 Hasilnya ialah masakan yang bertindih dengan, tetapi jelas berbeza daripada,
 kedua-dua masakan Semenanjung Malaysia dan jirannya di Borneo merentasi
-sempadan, [Sarawak](/ms/food-lifestyle/sarawak-food). Bahagian di bawah
+sempadan, [Sarawak](/food-lifestyle/sarawak-food). Bahagian di bawah
 menyusuri hidangan yang paling mungkin ditemui oleh seorang pelawat.
 
 ## Hinava: ikan mentah Sabah yang diperam sitrus
@@ -169,7 +169,7 @@ dengan makanan ruji sagu melekit ambuyat.
 
 Sabah, secara senyap, ialah salah satu wilayah mi terhebat Malaysia, dan
 beberapa minya dinamakan sempena bandar yang menghasilkannya — sebahagian
-daripada dunia yang lebih luas iaitu [mi Malaysia](/ms/food-lifestyle/malaysian-noodles).
+daripada dunia yang lebih luas iaitu [mi Malaysia](/food-lifestyle/malaysian-noodles).
 **Tuaran mee**, dari bandar Tuaran, ialah yang paling terkenal: mi telur kenyal
 buatan tangan mula-mula dipanggang ringan atau digoreng dalam minyak, kemudian
 digaul kering dalam kuali dengan telur, sayur dan daging atau makanan laut,
@@ -238,11 +238,11 @@ memesan mengikut berat.
 
 ## Apa seterusnya
 
-- [Makanan Kadazan-Dusun](/ms/food-lifestyle/kadazan-dusun-food) — tinjauan lebih
+- [Makanan Kadazan-Dusun](/food-lifestyle/kadazan-dusun-food) — tinjauan lebih
   dekat tentang masakan orang asal yang menjadi inti meja Sabah.
-- [Makanan Sarawak](/ms/food-lifestyle/sarawak-food) — masakan negeri Borneo
+- [Makanan Sarawak](/food-lifestyle/sarawak-food) — masakan negeri Borneo
   Malaysia yang satu lagi, untuk perbandingan.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   peta yang lebih luas tentang cara negeri dan masyarakat Malaysia makan.
-- [Mi Malaysia](/ms/food-lifestyle/malaysian-noodles) — di mana mi bandar Sabah
+- [Mi Malaysia](/food-lifestyle/malaysian-noodles) — di mana mi bandar Sabah
   terletak dalam kisah mi negara.

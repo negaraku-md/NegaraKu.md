@@ -94,7 +94,7 @@ dalam pemilihan Kuala Lumpur dan Penangnya.
 
 ## Sebuah Bib Gourmand baharu untuk masakan Nyonya
 
-Lama menyajikan [masakan Nyonya, atau Peranakan](/ms/food-lifestyle/nyonya-peranakan-cuisine)
+Lama menyajikan [masakan Nyonya, atau Peranakan](/food-lifestyle/nyonya-peranakan-cuisine)
 — gabungan bahan Cina dan pes rempah Melayu yang membesar di pelabuhan Selat
 lama. MICHELIN menyenaraikannya dalam tingkat harga sederhana ($$) dan
 menyifatkan masakannya tulen dan gaya rumah, sebahagian besarnya untuk dikongsi,
@@ -102,7 +102,7 @@ iaitu cara makanan Nyonya dimakan secara tradisi: beberapa hidangan di tengah
 meja dan bukannya satu pinggan seorang. Bib Gourmand mengiktiraf nilai dan
 bukannya kemewahan, dan kehadiran Lama dalam senarai 2026 meletakkannya antara
 entri nilai baharu yang ketara di kota ini. Untuk gambaran lebih luas, lihat
-[MICHELIN Guide di Malaysia](/ms/food-lifestyle/michelin-guide-malaysia).
+[MICHELIN Guide di Malaysia](/food-lifestyle/michelin-guide-malaysia).
 
 ## Hidangan istimewa dan teh tanpa had
 

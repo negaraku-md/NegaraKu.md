@@ -101,10 +101,10 @@ susu pekat, yang ini pula ringan, masam dan bersih — pelepas dahaga dan bukann
 Teh itu biasanya dimaniskan, dan limau melakukan selebihnya, memberikan minuman itu aroma
 sitrus yang cerah dan sisi masam yang menjadikannya amat sedap dalam kepanasan. Ia, pada
 hakikatnya, sepupu teh tarik yang tanpa susu dan bersitrus; teh tarik yang asal dibincangkan
-sepenuhnya dalam [teh tarik](/ms/food-lifestyle/teh-tarik).
+sepenuhnya dalam [teh tarik](/food-lifestyle/teh-tarik).
 
 Untuk melihat kedudukannya dalam kalangan papan minuman negara yang lebih luas, lihat hub
-[minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
+[minuman Malaysia](/food-lifestyle/malaysian-drinks).
 
 ## Namanya, perkataan demi perkataan
 
@@ -124,7 +124,7 @@ Jadi "teh-O ais limau" terbaca terus sebagai *teh, hitam, ais, dengan limau*, da
 "teh-O limau panas" ialah versi panas. Mahukannya tanpa gula? Tambah **kosong**:
 "teh-O ais limau kosong". Logik penuh *O*, *C*, *kosong*, *gao* dan *peng* membentang
 merentasi setiap minuman di kaunter dan dihuraikan dalam panduan
-[kopi, teh tarik dan minuman kedai kopi](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
+[kopi, teh tarik dan minuman kedai kopi](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
 
 ### Apa yang dimaksudkan dengan "O"
 
@@ -149,13 +149,13 @@ beralkohol, tanpa susu dan amat menyegarkan, yang menjadikannya pesanan mudah un
 sahaja di meja dan pilihan semula jadi apabila teh tarik terasa terlalu berat dalam
 kepanasan. Ia tergolong dalam dunia 24 jam, duduk-dan-berbual yang sama seperti selebihnya
 menu kedai kopi — lihat
-[budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture) untuk institusi itu
+[budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture) untuk institusi itu
 sendiri.
 
 ## Apa yang seterusnya
 
-- Temui adik-beradiknya yang pekat dan bersusu dalam [teh tarik](/ms/food-lifestyle/teh-tarik).
+- Temui adik-beradiknya yang pekat dan bersusu dalam [teh tarik](/food-lifestyle/teh-tarik).
 - Nyahkod tatabahasa kaunter penuh — *O*, *C*, *kosong*, *peng* — dalam panduan
-  [kopi, teh tarik dan minuman kedai kopi](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
+  [kopi, teh tarik dan minuman kedai kopi](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
 - Petakan ia terhadap papan minuman negara yang lebih luas dalam hub
-  [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
+  [minuman Malaysia](/food-lifestyle/malaysian-drinks).

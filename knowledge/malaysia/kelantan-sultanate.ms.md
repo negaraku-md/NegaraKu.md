@@ -69,7 +69,7 @@ Inilah kisah bagaimana kesultanan itu terbentuk, mengapa ia menghabiskan begitu 
 
 ## Sebelum penyatuan: Kelantan, Melaka dan tarikan Patani
 
-Kelantan sudah tua. Jejak arkeologi petempatan menjangkau kembali ke zaman prasejarah, dan Kelantan awal disentuh bergilir-gilir oleh dunia perdagangan dan politik Funan, [Srivijaya](/ms/malaysia/srivijaya), alam Khmer, Majapahit, Champa dan Siam. Menjelang awal abad kelima belas ia merupakan sebuah pusat perdagangan yang ternama di bawah seorang pemerintah Islam, dan pada 1499 ia direkodkan sebagai sebuah negeri naungan [Kesultanan Melaka](/ms/malaysia/melaka-sultanate), ketika itu kuasa dominan di Selat.
+Kelantan sudah tua. Jejak arkeologi petempatan menjangkau kembali ke zaman prasejarah, dan Kelantan awal disentuh bergilir-gilir oleh dunia perdagangan dan politik Funan, [Srivijaya](/malaysia/srivijaya), alam Khmer, Majapahit, Champa dan Siam. Menjelang awal abad kelima belas ia merupakan sebuah pusat perdagangan yang ternama di bawah seorang pemerintah Islam, dan pada 1499 ia direkodkan sebagai sebuah negeri naungan [Kesultanan Melaka](/malaysia/melaka-sultanate), ketika itu kuasa dominan di Selat.
 
 Apabila Melaka jatuh kepada Portugis pada 1511, sauh selatan itu lenyap, dan Kelantan hanyut ke dalam lingkungan sebuah kuasa yang berbeza: Patani, kerajaan Melayu tepat di utaranya, di kawasan yang kini selatan Thailand. Menurut Encyclopaedia Britannica dan sejarah lain, ketua-ketua tempatan memerintah Kelantan yang berpecah-belah dan membayar ufti kepada Patani, dan menjelang abad ketujuh belas kebanyakan mereka pada hakikatnya tertakluk kepadanya. Kedua-dua rantau berkongsi bahasa, adat, agama dan salasilah pemerintah; sempadan yang kini memisahkan "Malaysia" daripada "Thailand" belum lagi wujud. Hubungan Patani yang mendalam ini penting kepada asal usul kesultanan — kerana lelaki yang akan menyatukan Kelantan datang tepat daripada dunia itu.
 
@@ -77,7 +77,7 @@ Apabila Melaka jatuh kepada Portugis pada 1511, sauh selatan itu lenyap, dan Kel
 
 Negeri Kelantan moden dipateri menjadi satu pada separuh kedua abad kelapan belas, daripada satu perebutan panjang dalam kalangan raja-raja tempatan. Tokoh yang dikreditkan dengan penyatuan itu ialah **Long Yunus**, digambarkan dalam riwayat lazim sebagai seorang panglima perang bangsawan berasal Patani.
 
-Kebangkitannya melalui darah dan buangan. Selepas ayahnya dibunuh pada 1756, Long Yunus melarikan diri ke [Kesultanan Terengganu](/ms/malaysia/terengganu-sultanate) yang berjiran, yang pemerintahnya akhirnya menyokong usahanya untuk berkuasa. Kembali di hadapan sokongan itu, dia menewaskan saingan-saingannya dan mengisytiharkan dirinya Raja Kelantan, menjadi pengasas negeri moden itu. Sumber berselisih tentang tahun tepat — riwayat meletakkan pertabalannya pelbagai sekitar 1760, 1763, 1764 atau pertengahan 1770-an — tetapi kesemuanya bersetuju bahawa penyatuan yang menentukan itu tergolong dalam 1760-an–1770-an, dan bahawa daripada Long Yunus inilah wangsa diraja sekarang berketurunan.
+Kebangkitannya melalui darah dan buangan. Selepas ayahnya dibunuh pada 1756, Long Yunus melarikan diri ke [Kesultanan Terengganu](/malaysia/terengganu-sultanate) yang berjiran, yang pemerintahnya akhirnya menyokong usahanya untuk berkuasa. Kembali di hadapan sokongan itu, dia menewaskan saingan-saingannya dan mengisytiharkan dirinya Raja Kelantan, menjadi pengasas negeri moden itu. Sumber berselisih tentang tahun tepat — riwayat meletakkan pertabalannya pelbagai sekitar 1760, 1763, 1764 atau pertengahan 1770-an — tetapi kesemuanya bersetuju bahawa penyatuan yang menentukan itu tergolong dalam 1760-an–1770-an, dan bahawa daripada Long Yunus inilah wangsa diraja sekarang berketurunan.
 
 Long Yunus meninggal dunia pada 1795, dan selama beberapa tahun Kelantan sekali lagi jatuh di bawah ketuanan Terengganu. Pengangkatan rasmi dinasti itu datang dengan anaknya, **Long Muhammad**, yang mengisytiharkan dirinya **Sultan Muhammad I** sekitar 1800 dan ditabalkan sebagai pemerintah pada tahun-tahun yang menyusul. Dengan gelaran itu, penaklukan seorang panglima perang menjadi sebuah kesultanan — institusi yang bertahan hari ini.
 
@@ -109,19 +109,19 @@ Perjanjian itu dirundingkan antara Britain dan Siam sahaja. Sebagaimana yang dir
 
 Apa yang menarik tentang Kelantan ialah betapa sedikitnya dinasti pengasas itu digeser oleh segala pergolakan ini. Menerusi naungan Siam, perlindungan British, pendaratan Jepun di pantainya pada Disember 1941 — Kelantan ialah titik pertama pencerobohan Jepun ke atas Tanah Melayu — dan kedatangan kemerdekaan pada 1957, **Wangsa Long Yunus** memegang takhta.
 
-Kesinambungan itu berjalan tanpa putus hingga ke hari ini. Pemerintah sekarang, **Sultan Muhammad V** (lahir 1969), menaiki takhta pada 13 September 2010 dan menjejaki keturunannya terus kepada Long Yunus dan Sultan Muhammad I. Antara 2016 dan 2019 baginda juga berkhidmat sebagai Yang di-Pertuan Agong, raja persekutuan Malaysia yang dipilih — satu peringatan bahawa dinasti panglima-perang abad kelapan belas Kelantan kini duduk sepenuhnya dalam institusi nasional [sistem kesultanan Melayu](/ms/malaysia/malay-sultanate-system). Takhta kesultanan itu kekal di Kota Bharu, ibu negeri yang tumbuh sekeliling sebuah kota diraja pada abad kesembilan belas.
+Kesinambungan itu berjalan tanpa putus hingga ke hari ini. Pemerintah sekarang, **Sultan Muhammad V** (lahir 1969), menaiki takhta pada 13 September 2010 dan menjejaki keturunannya terus kepada Long Yunus dan Sultan Muhammad I. Antara 2016 dan 2019 baginda juga berkhidmat sebagai Yang di-Pertuan Agong, raja persekutuan Malaysia yang dipilih — satu peringatan bahawa dinasti panglima-perang abad kelapan belas Kelantan kini duduk sepenuhnya dalam institusi nasional [sistem kesultanan Melayu](/malaysia/malay-sultanate-system). Takhta kesultanan itu kekal di Kota Bharu, ibu negeri yang tumbuh sekeliling sebuah kota diraja pada abad kesembilan belas.
 
 ## Mengapa ia masih penting
 
-Kisah Kelantan menambah sesuatu yang tersendiri kepada keluarga monarki Melayu. Jika [Kesultanan Melaka](/ms/malaysia/melaka-sultanate) dan pewaris selatannya menjejaki satu keturunan Selat klasik, akar Kelantan terletak di utara Patani dan dalam satu penyesuaian panjang dengan Siam dan bukannya dengan barisan Melaka. Ia satu peringatan bahawa negeri-negeri Melayu tidak semuanya terbentuk dengan cara yang sama.
+Kisah Kelantan menambah sesuatu yang tersendiri kepada keluarga monarki Melayu. Jika [Kesultanan Melaka](/malaysia/melaka-sultanate) dan pewaris selatannya menjejaki satu keturunan Selat klasik, akar Kelantan terletak di utara Patani dan dalam satu penyesuaian panjang dengan Siam dan bukannya dengan barisan Melaka. Ia satu peringatan bahawa negeri-negeri Melayu tidak semuanya terbentuk dengan cara yang sama.
 
 Sejarah itu juga tertulis dalam peta. Sempadan sekarang antara Kelantan dan Thailand, bunga mas yang berakhir hanya dengan pemerintahan British, dan perkauman rentas sempadan di timur laut semuanya mengalir daripada peristiwa yang dijejaki di sini. Sebagai salah seorang Raja Melayu Berperlembagaan Malaysia, Sultan Kelantan menjelmakan satu kesinambungan yang menjangkau kembali kepada satu perang saudara 1760-an — satu benang hidup yang menghubungkan takhta seorang panglima perang kepada sebuah persekutuan moden.
 
 ## Apa seterusnya
 
-- Letakkan Kelantan dalam kalangan rakan sepadannya dalam [sembilan kerabat diraja](/ms/malaysia/nine-royal-houses) Malaysia
-- Fahami institusi yang dikongsi dalam [sistem kesultanan Melayu](/ms/malaysia/malay-sultanate-system)
-- Terokai negeri itu sendiri dalam [Kelantan](/ms/states/kelantan)
+- Letakkan Kelantan dalam kalangan rakan sepadannya dalam [sembilan kerabat diraja](/malaysia/nine-royal-houses) Malaysia
+- Fahami institusi yang dikongsi dalam [sistem kesultanan Melayu](/malaysia/malay-sultanate-system)
+- Terokai negeri itu sendiri dalam [Kelantan](/states/kelantan)
 
 ---
 

@@ -211,11 +211,11 @@ atau tarikh akhir yang khusus.
 
 ## Apa yang seterusnya
 
-- Baca [gambaran keseluruhan pematuhan PDPA](/ms/business/pdpa-compliance-malaysia)
+- Baca [gambaran keseluruhan pematuhan PDPA](/business/pdpa-compliance-malaysia)
   untuk kewajipan Act itu sepenuhnya.
 - Lihat sama ada organisasi anda memerlukan
-  [Data Protection Officer](/ms/business/data-protection-officer-malaysia) dan apa
-  yang terkandung dalam kewajipan [pemberitahuan pelanggaran data](/ms/business/data-breach-notification-malaysia).
+  [Data Protection Officer](/business/data-protection-officer-malaysia) dan apa
+  yang terkandung dalam kewajipan [pemberitahuan pelanggaran data](/business/data-breach-notification-malaysia).
 - Sahkan status pindaan semasa, garis panduan dan syarat rentas sempadan di portal
   rasmi, **pdp.gov.my**, sebelum anda memasukkan data pelanggan ke dalam mana-mana
   alat baharu.

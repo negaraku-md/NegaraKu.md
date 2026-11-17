@@ -72,7 +72,7 @@ verificationNeeded:
 framework: profile
 ---
 
-Selepas keperdanaan yang panjang dan tegas [Mahathir Mohamad](/ms/malaysia/mahathir-mohamad), Malaysia pada akhir 2003 mewarisi seorang pemimpin yang amat berbeza: seorang bekas penjawat awam yang lembut bersuara dari Pulau Pinang yang menjanjikan perundingan mengatasi perintah, kerajaan bersih mengatasi projek besar, dan nada awam yang lebih lembut. Abdullah Ahmad Badawi — dikenali oleh hampir semua orang sekadar sebagai **"Pak Lah"** — menjadi **Perdana Menteri kelima** negara atas gelombang muhibah, memenangi salah satu mandat pilihan raya terbesar dalam sejarah Malaysia, dan kemudian, lima tahun kemudian, mempengerusikan pilihan raya yang membentuk semula politik negara.
+Selepas keperdanaan yang panjang dan tegas [Mahathir Mohamad](/malaysia/mahathir-mohamad), Malaysia pada akhir 2003 mewarisi seorang pemimpin yang amat berbeza: seorang bekas penjawat awam yang lembut bersuara dari Pulau Pinang yang menjanjikan perundingan mengatasi perintah, kerajaan bersih mengatasi projek besar, dan nada awam yang lebih lembut. Abdullah Ahmad Badawi — dikenali oleh hampir semua orang sekadar sebagai **"Pak Lah"** — menjadi **Perdana Menteri kelima** negara atas gelombang muhibah, memenangi salah satu mandat pilihan raya terbesar dalam sejarah Malaysia, dan kemudian, lima tahun kemudian, mempengerusikan pilihan raya yang membentuk semula politik negara.
 
 ## Zaman awal dan kerjaya dalam perkhidmatan awam
 
@@ -82,7 +82,7 @@ Beliau bangkit ke jawatan pentadbiran kanan sebelum meletakkan jawatan daripada 
 
 ## Menggantikan Mahathir pada 2003
 
-Apabila Mahathir berundur pada **31 Oktober 2003** selepas 22 tahun dalam jawatan, Abdullah — pengganti pilihannya — mengangkat sumpah sebagai yang kelima daripada [Perdana Menteri Malaysia](/ms/government/prime-ministers-of-malaysia). Encyclopædia Britannica mencatatkan bahawa perbezaan gaya itu serta-merta dan dialu-alukan: jika pendahulunya telah bersifat suka berlawan dan memusat, Abdullah menonjolkan kesederhanaan, keagamaan dan keterbukaan kepada perdebatan. Peralihan itu sendiri teratur dan berperlembagaan, satu perkara yang sering dipetik sebagai kekuatan sistem politik Malaysia.
+Apabila Mahathir berundur pada **31 Oktober 2003** selepas 22 tahun dalam jawatan, Abdullah — pengganti pilihannya — mengangkat sumpah sebagai yang kelima daripada [Perdana Menteri Malaysia](/government/prime-ministers-of-malaysia). Encyclopædia Britannica mencatatkan bahawa perbezaan gaya itu serta-merta dan dialu-alukan: jika pendahulunya telah bersifat suka berlawan dan memusat, Abdullah menonjolkan kesederhanaan, keagamaan dan keterbukaan kepada perdebatan. Peralihan itu sendiri teratur dan berperlembagaan, satu perkara yang sering dipetik sebagai kekuatan sistem politik Malaysia.
 
 ## Satu agenda pembaharuan dan antirasuah
 
@@ -98,7 +98,7 @@ Penyokong melihat Islam Hadhari sebagai satu pengimbang yang sederhana dan memod
 
 ## Kemenangan besar 2004 dan "tsunami politik" 2008
 
-Menunggang daya tarikannya yang bersifat pembaharu, Abdullah mengetuai gabungan pemerintah [**Barisan Nasional (BN)**](/ms/malaysia/barisan-nasional) kepada satu kemenangan menghancurkan dalam **pilihan raya umum 21 Mac 2004**, memenangi sebahagian besar kerusi parlimen — salah satu mandat terkuat yang pernah diterima oleh mana-mana kerajaan Malaysia.
+Menunggang daya tarikannya yang bersifat pembaharu, Abdullah mengetuai gabungan pemerintah [**Barisan Nasional (BN)**](/malaysia/barisan-nasional) kepada satu kemenangan menghancurkan dalam **pilihan raya umum 21 Mac 2004**, memenangi sebahagian besar kerusi parlimen — salah satu mandat terkuat yang pernah diterima oleh mana-mana kerajaan Malaysia.
 
 **Pilihan raya umum 2008** menceritakan kisah yang sebaliknya. Pada 8 Mac 2008, BN **kehilangan majoriti dua pertiganya di Parlimen** buat kali pertama sejak 1969 dan menyerahkan kawalan beberapa kerajaan negeri kepada pembangkang yang bangkit semula — satu keputusan yang digambarkan secara meluas dalam akhbar Malaysia dan antarabangsa sebagai **"tsunami politik"**. Penganalisis mengaitkan peralihan itu dengan kenaikan harga, rasa tidak puas hati tentang rasuah dan tadbir urus, keluhan golongan minoriti etnik, dan kritikan awam yang berterusan, termasuk daripada pendahulu Abdullah sendiri. Di bawah tekanan, Abdullah mengumumkan beliau tidak akan mempertahankan jawatan presiden UMNO dan menetapkan satu jadual untuk menyerahkan kuasa.
 
@@ -115,7 +115,7 @@ Menunggang daya tarikannya yang bersifat pembaharu, Abdullah mengetuai gabungan 
 
 ## Penyerahan kepada Najib, tahun-tahun kemudian dan kematian
 
-Abdullah berundur pada awal **April 2009**, menyerahkan keperdanaan kepada timbalannya, [Najib Razak](/ms/malaysia/najib-razak). Selepas meninggalkan jawatan beliau dianugerahi gelaran **"Tun,"** kehormat persekutuan tertinggi Malaysia, dan memegang pelbagai peranan penasihat dan institusi, termasuk mempengerusikan Kumpulan Tokoh Terkemuka Komanwel (2010–2011) dan menyokong badan pemikir Islam serta ekonomi. Isteri pertamanya, **Tun Endon Mahmood**, telah meninggal dunia akibat barah pada 2005; beliau kemudiannya berkahwin semula.
+Abdullah berundur pada awal **April 2009**, menyerahkan keperdanaan kepada timbalannya, [Najib Razak](/malaysia/najib-razak). Selepas meninggalkan jawatan beliau dianugerahi gelaran **"Tun,"** kehormat persekutuan tertinggi Malaysia, dan memegang pelbagai peranan penasihat dan institusi, termasuk mempengerusikan Kumpulan Tokoh Terkemuka Komanwel (2010–2011) dan menyokong badan pemikir Islam serta ekonomi. Isteri pertamanya, **Tun Endon Mahmood**, telah meninggal dunia akibat barah pada 2005; beliau kemudiannya berkahwin semula.
 
 Pada September 2022 keluarganya mendedahkan bahawa beliau telah didiagnosis dengan **demensia**. Abdullah meninggal dunia pada **14 April 2025** di Institut Jantung Negara (IJN) di Kuala Lumpur, pada usia 85 tahun, selepas dimasukkan dengan kesukaran bernafas, sebagaimana yang dilaporkan oleh The Star, Free Malaysia Today dan South China Morning Post. Beliau dianugerahi pengebumian negara dan dimakamkan di Makam Pahlawan di sisi Masjid Negara.
 
@@ -125,8 +125,8 @@ Abdullah Ahmad Badawi menduduki tempat yang tersendiri dalam kisah Malaysia. Bel
 
 ## Apa seterusnya
 
-- Baca tentang pendahulunya, [Mahathir Mohamad](/ms/malaysia/mahathir-mohamad).
-- Baca tentang penggantinya, [Najib Razak](/ms/malaysia/najib-razak).
-- Lihat senarai penuh [Perdana Menteri Malaysia](/ms/government/prime-ministers-of-malaysia).
+- Baca tentang pendahulunya, [Mahathir Mohamad](/malaysia/mahathir-mohamad).
+- Baca tentang penggantinya, [Najib Razak](/malaysia/najib-razak).
+- Lihat senarai penuh [Perdana Menteri Malaysia](/government/prime-ministers-of-malaysia).
 
 *Draf ini meringkaskan sebuah kerjaya awam yang terkini dan kadangkala dipertikaikan secara neutral; rencana-rencana yang dipautkan dan sumber-sumber di atas membawa butirannya, dan seorang penyemak yang layak mesti meluluskannya sebelum ia diterbitkan.*

@@ -93,11 +93,11 @@ berkualiti baik pada harga berbaloi dan bukan bintang. Ia berada dalam kategori 
 pada tahap harga terendah ($). Tulisan MICHELIN berterus terang bahawa ada
 "hiasan yang kurang mewah" — tarikannya sepenuhnya pada makanan. Ia salah satu
 entri tanah besar Seberang Perai pada peta MICHELIN Pulau Pinang; lihat
-[MICHELIN Guide di Malaysia](/ms/food-lifestyle/michelin-guide-malaysia).
+[MICHELIN Guide di Malaysia](/food-lifestyle/michelin-guide-malaysia).
 
 ## Char koay teow istimewa
 
-[Char koay teow](/ms/food-lifestyle/char-kway-teow) ialah hidangan kuetiau leper
+[Char koay teow](/food-lifestyle/char-kway-teow) ialah hidangan kuetiau leper
 goreng terkenal Pulau Pinang, dan cita-citanya ialah *wok hei* — hangus berasap
 yang diberikan oleh kuali yang panas membara. Ming Qin mengejarnya dua cara: mi
 digoreng dengan **telur itik** untuk tubuh yang lebih kaya, dan kuali diletakkan
@@ -112,7 +112,7 @@ menjadi namanya.
 Senarai MICHELIN meletakkannya di Jalan Betik, di luar Jalan Sungai Rambai, Bukit
 Mertajam, Seberang Perai, 14000, Pulau Pinang. Bukit Mertajam ialah bandar tanah
 besar di timur selat, sebahagian daripada
-[adegan makanan tanah besar](/ms/food-lifestyle/penang-food) yang berkembang yang
+[adegan makanan tanah besar](/food-lifestyle/penang-food) yang berkembang yang
 kini diliputi MICHELIN Guide bersama George Town.
 
 ## Latar belakang

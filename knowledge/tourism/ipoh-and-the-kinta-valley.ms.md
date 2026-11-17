@@ -174,17 +174,17 @@ Ipoh panas dan lembap sepanjang tahun, dan kerana kebanyakan tarikannya sama ada
 
 ## Untuk siapa Ipoh sesuai, dan apakah kesilapan pelawat kali pertama?
 
-Ipoh sesuai untuk pengembara warisan dan makanan, keluarga, serta sesiapa yang mahukan rehat rendah usaha dari Kuala Lumpur — ia salah satu percutian singkat paling memberi ganjaran di semenanjung dan gandingan semula jadi dengan [Kuala Lumpur](/ms/tourism/kuala-lumpur-visitor-guide) atau itinerari Pulau Pinang. Ia kurang sesuai untuk pengembara yang mengejar pantai atau alam besar, yang terletak di tempat lain di negara ini.
+Ipoh sesuai untuk pengembara warisan dan makanan, keluarga, serta sesiapa yang mahukan rehat rendah usaha dari Kuala Lumpur — ia salah satu percutian singkat paling memberi ganjaran di semenanjung dan gandingan semula jadi dengan [Kuala Lumpur](/tourism/kuala-lumpur-visitor-guide) atau itinerari Pulau Pinang. Ia kurang sesuai untuk pengembara yang mengejar pantai atau alam besar, yang terletak di tempat lain di negara ini.
 
 Beberapa kesilapan berulang mudah dielakkan:
 
 - **Memperlakukannya sebagai lawatan sehari sahaja.** Anda boleh melihat tarikan utama Pekan Lama dalam sehari, tetapi gua, Kellie's Castle dan makanan benar-benar memerlukan penginapan semalam. Ramai pelawat kali pertama kurang memperuntukkan masa.
 - **Menjangkakan geopark UNESCO.** Lembah Kinta ialah geopark *kebangsaan*; datang untuk pemandangan dan geologi, bukan label UNESCO (Malay Mail).
 - **Melakukan lawatan gua pengembaraan tanpa persediaan.** Laluan Gua Tempurung yang lebih panjang melibatkan air dan laluan sempit — bawa pakaian dan kasut ganti, dan pilih lawatan gua pameran jika itu bukan untuk anda (showcaves.com).
-- **Bergantung pada pengangkutan awam untuk tapak luar bandar.** Gua dan istana bertaburan merentasi lembah; rancang kereta, pemandu atau lawatan (lihat [cara bergerak di Malaysia untuk pelancong](/ms/tourism/getting-around-malaysia-for-tourists)).
+- **Bergantung pada pengangkutan awam untuk tapak luar bandar.** Gua dan istana bertaburan merentasi lembah; rancang kereta, pemandu atau lawatan (lihat [cara bergerak di Malaysia untuk pelancong](/tourism/getting-around-malaysia-for-tourists)).
 - **Tergesa-gesa dengan makanan.** Intipati Ipoh, bagi ramai, adalah untuk makan perlahan merentasi beberapa kopitiam — peruntukkan masa.
 - **Berpakaian terlalu santai untuk tokong.** Tokong gua ialah tempat ibadat aktif; tutup bahu dan lutut serta kekalkan senyap di dalam.
 
 ## Apa yang seterusnya
 
-Pilih rentak anda dahulu: lawatan sehari meliputi Pekan Lama, mural dan beberapa tokong gua, tetapi Ipoh membalas penginapan semalam yang menambah Gua Tempurung atau Kellie's Castle serta perjalanan makanan yang betul. Tempah ETS dari KL Sentral awal untuk masa terbaik, atur kereta atau lawatan untuk tapak luar bandar, dan kekalkan pelan cukup longgar untuk ikut barisan ke kopitiam seterusnya. Untuk hal praktikal bergerak antara Ipoh dan seluruh negara, lihat [cara bergerak di Malaysia untuk pelancong](/ms/tourism/getting-around-malaysia-for-tourists); untuk pangkalan bandar yang berbeza, [panduan pelawat Kuala Lumpur](/ms/tourism/kuala-lumpur-visitor-guide). Kerana pilihan lawatan, masa kereta api dan butiran waktu buka berubah, sahkan butiran khusus dengan pengendali dan KTMB hampir dengan perjalanan.
+Pilih rentak anda dahulu: lawatan sehari meliputi Pekan Lama, mural dan beberapa tokong gua, tetapi Ipoh membalas penginapan semalam yang menambah Gua Tempurung atau Kellie's Castle serta perjalanan makanan yang betul. Tempah ETS dari KL Sentral awal untuk masa terbaik, atur kereta atau lawatan untuk tapak luar bandar, dan kekalkan pelan cukup longgar untuk ikut barisan ke kopitiam seterusnya. Untuk hal praktikal bergerak antara Ipoh dan seluruh negara, lihat [cara bergerak di Malaysia untuk pelancong](/tourism/getting-around-malaysia-for-tourists); untuk pangkalan bandar yang berbeza, [panduan pelawat Kuala Lumpur](/tourism/kuala-lumpur-visitor-guide). Kerana pilihan lawatan, masa kereta api dan butiran waktu buka berubah, sahkan butiran khusus dengan pengendali dan KTMB hampir dengan perjalanan.

@@ -122,13 +122,13 @@ serta teknik berjalan ke dua-dua arah. Berapa banyak sesuatu hidangan itu
 boleh diperdebatkan dan lebih baik diserahkan kepada ahli sejarah makanan
 berbanding bahan promosi pelancongan. Maksud yang lebih luas ialah Kelantan
 tergolong dalam dunia serantaunya sendiri, suatu peringatan bahawa meja Malaysia
-sebenarnya ialah peta pelbagai [masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
-dan bukannya satu [masakan Melayu](/ms/food-lifestyle/malay-cuisine) tunggal.
+sebenarnya ialah peta pelbagai [masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
+dan bukannya satu [masakan Melayu](/food-lifestyle/malay-cuisine) tunggal.
 
 ## Hidangan nasi: kerabu, dagang dan kon tumpang
 
 Jika satu hidangan mewakili Kelantan, ia ialah
-[nasi kerabu](/ms/food-lifestyle/nasi-kerabu) — nasi herba yang paling terkenal
+[nasi kerabu](/food-lifestyle/nasi-kerabu) — nasi herba yang paling terkenal
 dalam bentuk birunya, berasnya diwarnakan dengan merendam bunga telang (*bunga
 telang*) kering, walaupun versi kuning kunyit dan putih biasa juga wujud. Nasi
 itu ditimbun dengan *kerabu* herba dan sayur mentah yang dihiris halus, disalut
@@ -136,10 +136,10 @@ dengan sambal kelapa parut (*sambal nyior*), ikan atau ayam goreng, keropok,
 telur masin dan sesudu budu. Ia dimakan di seluruh pantai timur laut dan membawa
 makna simbolik yang nyata bagi identiti Melayu di Patani juga.
 
-[Nasi dagang](/ms/food-lifestyle/nasi-dagang) — campuran beras dan beras pulut
+[Nasi dagang](/food-lifestyle/nasi-dagang) — campuran beras dan beras pulut
 yang dikukus dengan santan dan halba, dihidangkan dengan kari ikan tongkol yang
 pekat — ialah hidangan sarapan hebat Kelantan (dan Terengganu) yang satu lagi,
-berbeza jauh daripada bilis goreng [nasi lemak](/ms/food-lifestyle/nasi-lemak)
+berbeza jauh daripada bilis goreng [nasi lemak](/food-lifestyle/nasi-lemak)
 semenanjung. Kemudian ada pula **nasi tumpang**, mungkin format paling bijak
 negeri ini: nasi dan beberapa lapis inti — lazimnya telur dadar, serunding
 daging atau ikan (*serunding*), *gulai* dan sambal manis — dibungkus dalam kon
@@ -229,11 +229,11 @@ Kelantan berkumpul dalam satu tempat yang riuh lagi harum.
 
 ## Apa seterusnya
 
-- [Nasi kerabu](/ms/food-lifestyle/nasi-kerabu) — nasi herba biru yang menjadi
+- [Nasi kerabu](/food-lifestyle/nasi-kerabu) — nasi herba biru yang menjadi
   hidangan tanda Kelantan, dari dekat.
-- [Nasi dagang](/ms/food-lifestyle/nasi-dagang) — nasi kukus santan dan kari
+- [Nasi dagang](/food-lifestyle/nasi-dagang) — nasi kukus santan dan kari
   tongkol pantai timur laut.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   bagaimana Kelantan terletak dalam peta kulinari Malaysia yang lebih luas.
-- [Masakan Melayu](/ms/food-lifestyle/malay-cuisine) — tradisi lebih luas yang
+- [Masakan Melayu](/food-lifestyle/malay-cuisine) — tradisi lebih luas yang
   menjadi tempat gaya serantau ini tergolong.

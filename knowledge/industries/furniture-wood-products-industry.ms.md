@@ -116,7 +116,7 @@ Sektor ini terletak dalam [ekonomi pembuatan](/industries/manufacturing-industry
 
 ## Sebesar mana ia?
 
-Perabot ialah salah satu eksport perkilangan Malaysia yang paling penting. Menurut data [MATRADE](/ms/government/matrade) yang dilaporkan pada awal 2026, jumlah eksport perabot bernilai kira-kira **RM12.83 bilion pada 2024**, dan Malaysia sering digambarkan sebagai antara negara pengeksport perabot sepuluh teratas dunia. Perabot kayu membentuk sebahagian besar jumlah itu.
+Perabot ialah salah satu eksport perkilangan Malaysia yang paling penting. Menurut data [MATRADE](/government/matrade) yang dilaporkan pada awal 2026, jumlah eksport perabot bernilai kira-kira **RM12.83 bilion pada 2024**, dan Malaysia sering digambarkan sebagai antara negara pengeksport perabot sepuluh teratas dunia. Perabot kayu membentuk sebahagian besar jumlah itu.
 
 Bakul kayu-dan-produk-kayu yang lebih luas lebih besar lagi. MTIB melaporkan jumlah eksport kayu dan produk kayu sekitar **RM21.84 bilion pada 2023**, turun kira-kira 13% berbanding 2022, yang di dalamnya perabot kayu ialah penjana pendapatan tunggal terbesar dan papan lapis penyumbang utama. (Beberapa angka dalam bidang ini harus dilayan dengan berhati-hati: sumber berbeza tentang nilai sub-kategori dan tentang tahun yang tepat yang digambarkan — lihat nota pengesahan pada halaman ini.)
 

@@ -124,7 +124,7 @@ Bagaimana ia menjadi makanan ruji merentas budaya yang dimakan rakyat Malaysia
 hari ini jauh kurang didokumentasikan, dan dakwaan tentang pencipta tunggal atau
 tarikh asalnya harus ditangani dengan berhati-hati (lihat *Apa yang perlu
 disemak*). Apa yang tidak diragui ialah betapa mendalamnya rojak telah bertapak
-dalam budaya [makanan jalanan dan pasar malam](/ms/food-lifestyle/pasar-malam-and-street-food)
+dalam budaya [makanan jalanan dan pasar malam](/food-lifestyle/pasar-malam-and-street-food)
 negara, tempat beberapa bentuknya dijual bersebelahan.
 
 ## Rojak buah: salad penjaja Cina
@@ -163,7 +163,7 @@ cucur goreng (termasuk cucur udang, *cucur udang*), tauhu goreng dan tauhu,
 kentang rebus, sotong katang atau sotong, telur rebus, tauge dan timun, semuanya
 dipotong dan disiram dengan kuah pekat yang manis dan pedas berasaskan **kacang
 tanah tumbuk dan keledek**. Ia merupakan hidangan tetap dalam
-[masakan India-Malaysia](/ms/food-lifestyle/indian-malaysian-cuisine) dan di
+[masakan India-Malaysia](/food-lifestyle/indian-malaysian-cuisine) dan di
 gerai-gerai mamak yang terdapat di seluruh negara.
 
 Di sini penamaannya menjadi kedaerahan. Di Pulau Pinang dan utara, hidangan yang
@@ -178,7 +178,7 @@ mamak.
 
 ## Rojak Pulau Pinang: versi pulau yang masam dan gelap seperti toffee
 
-Pulau Pinang — sinonim dengan [makanan penjaja](/ms/food-lifestyle/penang-food) —
+Pulau Pinang — sinonim dengan [makanan penjaja](/food-lifestyle/penang-food) —
 memberikan versi buah ini bentuk tempatannya yang paling terkenal. **Rojak Pulau
 Pinang** amat menekankan buah masam seperti mangga muda dan epal hijau, dan sering
 menambah jambu air (*jambu air*), jambu batu dan cucur sotong ke dalam gaulan,
@@ -209,9 +209,9 @@ dirinya sendiri.
 
 ## Apa yang seterusnya
 
-- [Hidangan kebangsaan Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia) —
+- [Hidangan kebangsaan Malaysia](/food-lifestyle/national-dishes-of-malaysia) —
   tempat rojak berada antara ikon masakan negara.
-- [Makanan Pulau Pinang](/ms/food-lifestyle/penang-food) — suasana penjaja pulau
+- [Makanan Pulau Pinang](/food-lifestyle/penang-food) — suasana penjaja pulau
   yang memberikan rojak dan pasembur bentuknya yang paling terkenal.
-- [Masakan wilayah dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan wilayah dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   peta yang lebih luas tentang cara komuniti dan negeri Malaysia makan.

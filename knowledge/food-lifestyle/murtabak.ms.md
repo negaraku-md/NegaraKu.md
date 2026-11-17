@@ -125,7 +125,7 @@ murtabak Malaysia sering dikatakan lebih bersandar pada telur dan bawang serta
 mengandungi daging yang kurang secara berkadar, memberikannya isi dalam yang
 lebih lembut dan lebih menyerupai telur dadar. Ia tiba bersama pelengkap dan
 bukannya sos yang digaul ke dalam: sepinggan kecil kuah kari atau
-[dhal](/ms/food-lifestyle/indian-malaysian-cuisine) untuk disenduk atau dicurah,
+[dhal](/food-lifestyle/indian-malaysian-cuisine) untuk disenduk atau dicurah,
 serta taburan bawang hiris yang dijerukkan sedikit, yang keasidannya memotong
 lemaknya.
 
@@ -133,7 +133,7 @@ lemaknya.
 
 Apa yang memberikan murtabak teksturnya yang tersendiri ialah asasnya. Ia dibina
 atas doh tarik bersalut minyak yang sama seperti
-[roti canai](/ms/food-lifestyle/roti-canai), roti bakar berlapis dapur
+[roti canai](/food-lifestyle/roti-canai), roti bakar berlapis dapur
 India-Muslim Malaysia — itulah sebabnya kedua-duanya begitu kerap berkongsi satu
 gerai dan seorang tukang masak. Jika roti canai dilambung, dilipat dan dibakar
 secara kosong, murtabak mengambil kepingan nipis yang sama itu dan membalutnya
@@ -151,8 +151,8 @@ pembuat murtabak yang sudah mapan.
 ## Makanan ruji mamak dan nasi kandar
 
 Murtabak tergolong dalam dunia makanan India-Muslim Malaysia — gerai
-[mamak](/ms/food-lifestyle/kopitiam-mamak-culture) dan kedai
-[nasi kandar](/ms/food-lifestyle/nasi-kandar) yang antara tempat paling digemari
+[mamak](/food-lifestyle/kopitiam-mamak-culture) dan kedai
+[nasi kandar](/food-lifestyle/nasi-kandar) yang antara tempat paling digemari
 di negara ini untuk makan. Di Pulau Pinang, yang sejak lama menjadi kubu kuat
 hidangan ini, ia menjadi lambang restoran nasi kandar, biasanya diisi daging dan
 dibawa ke meja dengan cicahan kari serta bawang jeruk.
@@ -167,7 +167,7 @@ sambil mengekalkan identitinya yang tersendiri.
 ## Bintang bazar Ramadan
 
 Murtabak boleh didapati sepanjang tahun, tetapi ia benar-benar menyerlah ketika
-Ramadan. Di [bazar Ramadan](/ms/food-lifestyle/ramadan-bazaars-and-fasting-month-food)
+Ramadan. Di [bazar Ramadan](/food-lifestyle/ramadan-bazaars-and-fasting-month-food)
 yang tumbuh di seluruh negara pada bulan puasa, ia menjadi salah satu tarikan
 utama — cukup mengenyangkan untuk berbuka puasa, cukup mudah dibawa pulang, dan
 dibuat mengikut tempahan betul-betul di hadapan orang yang beratur.
@@ -223,10 +223,10 @@ menonjolkan telur, satu perbezaan kecil yang disedari oleh pelanggan tetap.
 
 ## Apa seterusnya
 
-- [Roti canai](/ms/food-lifestyle/roti-canai) — roti leper tarik dan bakar yang
+- [Roti canai](/food-lifestyle/roti-canai) — roti leper tarik dan bakar yang
   dohnya membentuk asas murtabak.
-- [Masakan India-Malaysia](/ms/food-lifestyle/indian-malaysian-cuisine) —
+- [Masakan India-Malaysia](/food-lifestyle/indian-malaysian-cuisine) —
   tradisi yang lebih luas, dari gerai mamak ke nasi kandar, yang menjadi tempat
   murtabak tergolong.
-- [Bazar Ramadan dan makanan bulan puasa](/ms/food-lifestyle/ramadan-bazaars-and-fasting-month-food)
+- [Bazar Ramadan dan makanan bulan puasa](/food-lifestyle/ramadan-bazaars-and-fasting-month-food)
   — pasar bermusim tempat murtabak paling diraikan.

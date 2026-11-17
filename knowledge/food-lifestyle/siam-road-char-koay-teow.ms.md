@@ -106,7 +106,7 @@ menggoreng atas api arang, cara lama, dan MICHELIN Guide telah mengambil perhati
 Siam Road Char Koay Teow ialah gerai makanan jalanan, disenaraikan oleh MICHELIN
 Guide sebagai pilihan **Bib Gourmand** — anugerah Guide bagi masakan bermutu baik
 dan berbaloi, yang diberikan dengan murah hati kepada gerai dan tempat makanan
-jalanan (lihat [MICHELIN Guide di Malaysia](/ms/food-lifestyle/michelin-guide-malaysia)
+jalanan (lihat [MICHELIN Guide di Malaysia](/food-lifestyle/michelin-guide-malaysia)
 untuk memahami cara anugerah ini berfungsi). Ia tersenarai sebagai makanan
 jalanan dalam julat harga terendah Guide, ditanda “berbaloi untuk beratur”,
 menerima tunai sahaja, dan tidak tersedia untuk tempahan.
@@ -114,7 +114,7 @@ menerima tunai sahaja, dan tidak tersedia untuk tempahan.
 ## Beza arang
 
 Gerai ini paling terkenal kerana satu perkara: memasak
-[char koay teow](/ms/food-lifestyle/char-kway-teow)-nya atas arang dan bukan gas.
+[char koay teow](/food-lifestyle/char-kway-teow)-nya atas arang dan bukan gas.
 Senarai MICHELIN menyatakan hasilnya ialah “wok hei yang luar biasa” — aroma
 berasap, sedikit rangup yang didorong oleh api garang ke dalam mi, dan satu-satunya
 ciri yang paling dikaitkan oleh pengunjung Pulau Pinang dengan sepinggan yang

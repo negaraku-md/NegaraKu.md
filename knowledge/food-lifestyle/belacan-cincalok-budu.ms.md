@@ -100,7 +100,7 @@ Belacan ialah **pes udang** terperam Malaysia, dibuat daripada udang halus yang 
 
 Belacan mentah sangat tajam baunya, jadi tukang masak **hampir selalu membakarnya dahulu** — kering di dalam kuali, atau dibalut dengan kerajang atau daun pisang di atas api — untuk melembutkan dan membulatkan aromanya sebelum ia diremukkan ke dalam hidangan. Ia merupakan tulang belakang umami bagi **sambal belacan**, rojak, asam laksa utara dan nasi goreng, dan ia tergolong dalam keluarga Asia Tenggara yang lebih luas termasuk *terasi* Indonesia, *kapi* Thailand dan *bagoong* Filipina. Ia dibuat dan dijual seluruh negara, dengan kaitan pengeluaran yang kuat dengan **Pulau Pinang dan pantai barat**.
 
-> Untuk kisah penuh belacan — bagaimana ia dibuat, digredkan dan digunakan — lihat artikel khusus kami tentang [belacan](/ms/food-lifestyle/belacan). Di sini ia menjadi titik rujukan untuk membezakan dua yang lain.
+> Untuk kisah penuh belacan — bagaimana ia dibuat, digredkan dan digunakan — lihat artikel khusus kami tentang [belacan](/food-lifestyle/belacan). Di sini ia menjadi titik rujukan untuk membezakan dua yang lain.
 
 ## Cincalok: udang yang dikekalkan basah dan utuh
 
@@ -114,7 +114,7 @@ Budu ialah yang memecahkan corak udang. Ia sejenis **sos ikan terperam**, dibuat
 
 Budu ialah perencah yang menjadi ciri khas **pantai timur — Kelantan dan Terengganu** — dan masyarakat Melayu di seberang sempadan di selatan Thailand. Ia menjadi tunggak bagi **nasi kerabu**, dan pencicah untuk nasi panas, ikan bakar atau goreng, dan **ulam** (herba dan sayur mentah). Seperti cincalok, ia biasanya digunakan **mentah**: sebelum dihidangkan, tukang masak lazim menggaul jus limau, bawang merah hiris, cili dan sedikit gula untuk mengimbangi kemasinannya. Itu merupakan tambahan di meja makan, bukan sebahagian daripada peraman.
 
-> Budu terletak di tengah-tengah meja makan Kelantan — lihat panduan kami tentang [makanan Kelantan](/ms/food-lifestyle/kelantan-food) untuk hidangan yang diiringinya.
+> Budu terletak di tengah-tengah meja makan Kelantan — lihat panduan kami tentang [makanan Kelantan](/food-lifestyle/kelantan-food) untuk hidangan yang diiringinya.
 
 ## Bersebelahan
 

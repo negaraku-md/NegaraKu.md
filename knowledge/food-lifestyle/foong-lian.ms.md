@@ -99,7 +99,7 @@ memberikan hidangan itu kerak hangus yang dihargai. Ia disenaraikan dalam julat 
 Claypot rice ialah sebab untuk datang. Ia dihidangkan dengan versi daging awet — sosej
 babi dan hati — atau dengan taburan paha ayam dan ikan masin. Panduan itu turut
 mencadangkan sup dan snek, menyebut khasnya gulungan kulit tauhu. Ia sebuah ungkapan
-[masakan Kantonis Cina-Malaysia](/ms/food-lifestyle/chinese-malaysian-cuisine) yang
+[masakan Kantonis Cina-Malaysia](/food-lifestyle/chinese-malaysian-cuisine) yang
 mudah dan cara lama.
 
 ## Nota lawatan
@@ -107,5 +107,5 @@ mudah dan cara lama.
 Foong Lian terletak di 55 Jalan Yew, Pudu, Kuala Lumpur. Menurut panduan itu ia tidak
 menerima kad kredit, jadi bawa wang tunai, dan ia menguruskan tempahannya sendiri. Ia
 salah satu catatan berbaloi dalam senarai Bib Gourmand
-[MICHELIN Guide Malaysia](/ms/food-lifestyle/michelin-guide-malaysia), yang disegarkan
+[MICHELIN Guide Malaysia](/food-lifestyle/michelin-guide-malaysia), yang disegarkan
 setiap tahun.

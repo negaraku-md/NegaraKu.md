@@ -142,7 +142,7 @@ makanan bermula pada bulan puasa Ramadan, apabila, dari lewat petang, *bazar
 Ramadan* tumbuh di tempat letak kereta dan di tepi jalan menjual makanan untuk
 berbuka puasa pada waktu senja. Bazar ini, yang dibincangkan secara tersendiri
 dalam
-[bazar Ramadan dan bulan puasa](/ms/food-lifestyle/ramadan-bazaars-and-fasting-month-food),
+[bazar Ramadan dan bulan puasa](/food-lifestyle/ramadan-bazaars-and-fasting-month-food),
 ialah institusi bermusim yang menarik pembeli daripada setiap latar belakang.
 
 Puasa itu memuncak pada **Hari Raya Aidilfitri**, perayaan yang membuka musim
@@ -192,7 +192,7 @@ Cina, rumah terbuka Deepavali ialah acara merentasi komuniti, dan rumah terbuka
 Deepavali awam yang besar menjadi kebiasaan dalam kalendar nasional. Hamparan
 hidangan perayaan yang lebih luas, yang dikongsi merentasi komuniti, dipetakan
 dalam
-[makanan perayaan merentasi perayaan Malaysia](/ms/food-lifestyle/festive-foods-across-malaysian-festivals).
+[makanan perayaan merentasi perayaan Malaysia](/food-lifestyle/festive-foods-across-malaysian-festivals).
 
 ## Gawai dan Kaamatan: perayaan menuai Borneo
 
@@ -208,10 +208,10 @@ itu mengalir menerusi keramaian.
 
 Hidangan tandanya berbeza mengikut wilayah. Hidangan perayaan Sarawak yang paling
 terkenal ialah **manok pansuh**, ayam dimasak di dalam buluh — sebahagian
-daripada tradisi [makanan Iban](/ms/food-lifestyle/iban-food) yang lebih luas —
+daripada tradisi [makanan Iban](/food-lifestyle/iban-food) yang lebih luas —
 manakala meja Kaamatan Sabah menampilkan **hinava**, digambarkan oleh *The Star*
 sebagai "ceviche" ikan ala Sabah daripada ikan tenggiri segar, limau, halia dan
-peria dihiris, antara [makanan Kadazan-Dusun](/ms/food-lifestyle/kadazan-dusun-food)
+peria dihiris, antara [makanan Kadazan-Dusun](/food-lifestyle/kadazan-dusun-food)
 yang disediakan untuk musim ini. Makanan yang dibungkus dan dimasak dalam daun —
 seperti *linopot* dan *nuba laya* — melengkapkan hamparan rumah panjang. Atribusi
 hidangan tepat berbeza merentasi banyak sub-kumpulan Dayak dan Kadazan-Dusun,
@@ -246,9 +246,9 @@ Di bawah festival berjenama itu berjalan infrastruktur harian makan di tempat
 awam di Malaysia: **pasar malam** mingguan dan bazar Ramadan bermusim, di mana
 kebanyakan penduduk negara sebenarnya menemui makanan perayaan dan makanan
 jalanan. Irama ini diterokai dalam
-[pasar malam dan makanan jalanan](/ms/food-lifestyle/pasar-malam-and-street-food),
+[pasar malam dan makanan jalanan](/food-lifestyle/pasar-malam-and-street-food),
 dan variasi wilayah di bawahnya — bagaimana setiap negeri dan komuniti memasak —
-dalam [masakan wilayah dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines).
+dalam [masakan wilayah dan etnik](/food-lifestyle/regional-and-ethnic-cuisines).
 
 ## Benang yang sama
 

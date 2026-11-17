@@ -79,7 +79,7 @@ Menjelang awal abad kelapan belas Bugis telah menjadi pembuat raja di Johor, di 
 
 Anak Daeng Chelak, Raja Lumu, mengukuhkan dirinya sebagai kuasa Bugis terkemuka di Selangor dan diiktiraf sebagai Raja Selangor pada 1743. Selama satu generasi wilayah itu ditadbir sebagai sebuah ketuaan Bugis dan bukannya sebuah kesultanan rasmi dengan sendirinya.
 
-Itu berubah pada 1766. Menurut riwayat yang diringkaskan oleh para sejarawan, Raja Lumu mencari martabat dan kesahihan satu gelaran sultan rasmi. Dia belayar ke Perak, di mana — di sebuah tempat yang direkodkan sebagai Kota Lumut — dia ditabalkan dan diiktiraf oleh Sultan Mahmud Shah dari [Kesultanan Perak](/ms/malaysia/perak-sultanate), salah satu wangsa diraja Melayu paling kanan di semenanjung. Hanya selepas itu barulah Raja Lumu menyandang nama pemerintahan **Sultan Salehuddin Shah**, menjadi Sultan Selangor pertama. Dia menubuhkan takhtanya di Kuala Selangor. Peminjaman kesahihan daripada sebuah wangsa yang lebih tua ialah ciri berulang [sistem kesultanan Melayu](/ms/malaysia/malay-sultanate-system), yang di dalamnya kedudukan seorang pemerintah bersandarkan pengiktirafan oleh rakan sepadan yang mapan.
+Itu berubah pada 1766. Menurut riwayat yang diringkaskan oleh para sejarawan, Raja Lumu mencari martabat dan kesahihan satu gelaran sultan rasmi. Dia belayar ke Perak, di mana — di sebuah tempat yang direkodkan sebagai Kota Lumut — dia ditabalkan dan diiktiraf oleh Sultan Mahmud Shah dari [Kesultanan Perak](/malaysia/perak-sultanate), salah satu wangsa diraja Melayu paling kanan di semenanjung. Hanya selepas itu barulah Raja Lumu menyandang nama pemerintahan **Sultan Salehuddin Shah**, menjadi Sultan Selangor pertama. Dia menubuhkan takhtanya di Kuala Selangor. Peminjaman kesahihan daripada sebuah wangsa yang lebih tua ialah ciri berulang [sistem kesultanan Melayu](/malaysia/malay-sultanate-system), yang di dalamnya kedudukan seorang pemerintah bersandarkan pengiktirafan oleh rakan sepadan yang mapan.
 
 Salehuddin digantikan oleh anaknya, yang memerintah sebagai Sultan Ibrahim Shah, dan dinasti itu berterusan menurun generasi — setiap pemerintah diambil daripada barisan keturunan Bugis yang sama.
 
@@ -112,9 +112,9 @@ Di bawah sistem Keresidenan, Sultan memerintah tetapi terikat untuk menerima "na
 
 ## Siapa memerintah Selangor hari ini?
 
-Barisan Bugis bertahan menerusi pemerintahan penjajah, pendudukan Jepun dan kemerdekaan. Selangor moden ialah salah satu daripada sembilan negeri Malaysia yang mempunyai pemerintah berketurunan — salah satu daripada [sembilan kerabat diraja](/ms/malaysia/nine-royal-houses) yang sultannya memilih raja negara (Yang di-Pertuan Agong).
+Barisan Bugis bertahan menerusi pemerintahan penjajah, pendudukan Jepun dan kemerdekaan. Selangor moden ialah salah satu daripada sembilan negeri Malaysia yang mempunyai pemerintah berketurunan — salah satu daripada [sembilan kerabat diraja](/malaysia/nine-royal-houses) yang sultannya memilih raja negara (Yang di-Pertuan Agong).
 
-Pemerintah yang memerintah ialah **Sultan Sharafuddin Idris Shah**, Sultan Selangor kesembilan, yang menggantikan ayahandanya pada November 2001 dan ditabalkan pada 2003. Ibu negeri ialah Shah Alam, manakala Klang kekal sebagai bandar diraja, tempat kediaman rasmi Istana Alam Shah. Negeri [Selangor](/ms/states/selangor) moden ialah negeri paling ramai penduduk dan paling terindustri di Malaysia, mengelilingi wilayah persekutuan Kuala Lumpur dan Putrajaya.
+Pemerintah yang memerintah ialah **Sultan Sharafuddin Idris Shah**, Sultan Selangor kesembilan, yang menggantikan ayahandanya pada November 2001 dan ditabalkan pada 2003. Ibu negeri ialah Shah Alam, manakala Klang kekal sebagai bandar diraja, tempat kediaman rasmi Istana Alam Shah. Negeri [Selangor](/states/selangor) moden ialah negeri paling ramai penduduk dan paling terindustri di Malaysia, mengelilingi wilayah persekutuan Kuala Lumpur dan Putrajaya.
 
 ## Mengapa ia masih penting
 
@@ -122,8 +122,8 @@ Kisah Selangor memampatkan sebahagian besar sejarah moden Malaysia ke dalam satu
 
 ## Apa seterusnya
 
-- Bandingkan pengasasan Selangor dengan wangsa yang lebih tua yang mengesahkannya: [Kesultanan Perak](/ms/malaysia/perak-sultanate).
-- Lihat bagaimana Selangor serasi dalam kalangan [sembilan kerabat diraja](/ms/malaysia/nine-royal-houses) yang memilih raja Malaysia.
-- Fahami kerangka kuasa yang lebih luas dalam [sistem kesultanan Melayu](/ms/malaysia/malay-sultanate-system).
+- Bandingkan pengasasan Selangor dengan wangsa yang lebih tua yang mengesahkannya: [Kesultanan Perak](/malaysia/perak-sultanate).
+- Lihat bagaimana Selangor serasi dalam kalangan [sembilan kerabat diraja](/malaysia/nine-royal-houses) yang memilih raja Malaysia.
+- Fahami kerangka kuasa yang lebih luas dalam [sistem kesultanan Melayu](/malaysia/malay-sultanate-system).
 
 *Rencana ini diklasifikasikan sebagai sensitif (3R+1: kedaulatan raja) di bawah dasar editorial NegaraKu.md kerana ia menyentuh kesinambungan institusi diraja Melayu. Ia ditulis secara deskriptif dan hormat, dan ditahan dalam semakan sementara menunggu kelulusan manusia sebelum penerbitan.*

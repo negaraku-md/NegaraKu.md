@@ -85,7 +85,7 @@ Dikenali dalam bahasa Melayu sebagai **Geran Digital PMKS Madani** (GDPM), ia ad
 
 Reka bentuknya sengaja dibuat mudah: kerajaan menyediakan "geran padanan sehingga 50% daripada jumlah invois atau sehingga RM5,000 bagi PMKS yang layak untuk membantu mereka melanggan perkhidmatan digital," dalam kata-kata BSN sendiri. Ia adalah subsidi ke atas pembelian sebenar, bukan pemberian tunai — anda hanya mendapat manfaat jika anda benar-benar menggunakan alat yang layak.
 
-Artikel ini ialah tinjauan mendalam tentang satu program ini. Untuk gambaran lebih luas tentang geran dan insentif perniagaan Malaysia, lihat [direktori geran kerajaan](/ms/business/government-grants-directory-malaysia).
+Artikel ini ialah tinjauan mendalam tentang satu program ini. Untuk gambaran lebih luas tentang geran dan insentif perniagaan Malaysia, lihat [direktori geran kerajaan](/business/government-grants-directory-malaysia).
 
 ## Cara model padanan berfungsi
 
@@ -150,4 +150,4 @@ Jadi anggap setiap angka khusus dalam panduan ini — had RM5,000, tingkat perol
 
 Jika anda telah menangguhkan sesuatu alat digital kerana kos, geran ini membelah dua halangan bagi jenis penggunaan yang tepat — e-POS, perakaunan, e-dagang, e-invois — yang membayar balik dirinya sendiri dengan cepat. Urutan praktikalnya ialah: sahkan sesuatu pusingan dibuka, semak anda melepasi ambang kelayakan bagi kitaran semasa, senarai pendekkan penyedia yang dilantik, dan dapatkan sebut harga selagi belanjawan masih ada.
 
-Jangan merancang secara tegar berpandukan mana-mana angka dalam artikel ini tanpa menyemaknya semula — had dan pusingan ditetapkan semula setiap tahun belanjawan di portal rasmi BSN dan MDEC. Dan kerana ini ialah salah satu daripada banyak program, lihat [direktori geran kerajaan](/ms/business/government-grants-directory-malaysia) untuk membandingkannya dengan pilihan pembiayaan dan insentif lain sebelum anda memutuskan.
+Jangan merancang secara tegar berpandukan mana-mana angka dalam artikel ini tanpa menyemaknya semula — had dan pusingan ditetapkan semula setiap tahun belanjawan di portal rasmi BSN dan MDEC. Dan kerana ini ialah salah satu daripada banyak program, lihat [direktori geran kerajaan](/business/government-grants-directory-malaysia) untuk membandingkannya dengan pilihan pembiayaan dan insentif lain sebelum anda memutuskan.

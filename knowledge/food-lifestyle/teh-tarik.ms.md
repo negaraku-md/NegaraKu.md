@@ -120,10 +120,10 @@ berwarna ambar gelap, manis dan penuh berisi, agak berbeza daripada teh petang y
 
 Apa yang memisahkan teh tarik daripada secawan teh susu biasa ialah tarikan. Buangkan
 tuangan itu dan anda cuma mempunyai *teh susu* — satu perbezaan yang turut ditarik oleh
-[panduan minuman kopitiam](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks) yang
+[panduan minuman kopitiam](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks) yang
 mengiringinya. Untuk melihat kedudukan teh tarik dalam kalangan papan minuman negara yang
 lebih luas — sirap bandung, cincau, Milo dan selebihnya — lihat hub
-[minuman Malaysia](/ms/food-lifestyle/malaysian-drinks). Artikel ini ialah tinjauan mendalam
+[minuman Malaysia](/food-lifestyle/malaysian-drinks). Artikel ini ialah tinjauan mendalam
 tentang teh tarik itu sendiri.
 
 ## Tarikan, dan mengapa ia penting
@@ -172,7 +172,7 @@ Namun dua perkara tidak dipertikaikan: minuman ini tidak beralkohol, dan dalam s
 ia halal. Gabungan itu sebahagian besar sebab teh tarik menjadi minuman yang benar-benar
 dikongsi — secawan yang boleh dipesan bersama oleh sesiapa sahaja di meja, daripada mana-mana
 masyarakat. Untuk institusi itu sendiri, lihat
-[budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture).
+[budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture).
 
 ## Teh tarik dan kod pesanan
 
@@ -192,7 +192,7 @@ susu dan gula melainkan anda menyatakan sebaliknya, dan anda mengubahnya dengan 
 Jadi "teh-O ais limau" ialah teh hitam ais dengan limau, dan "teh tarik kurang manis" ialah
 teh tarik yang dibuat kurang manis — satu permintaan yang lazim, memandangkan versi standardnya
 memang bergula. Logik penuh *O*, *C*, *kosong*, *gao* dan *peng* dihuraikan dalam panduan
-[kopi, teh tarik dan minuman kedai kopi](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks);
+[kopi, teh tarik dan minuman kedai kopi](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks);
 artikel ini kekal dengan teh tarik itu sendiri.
 
 ## Minuman nasional dan warisan
@@ -230,8 +230,8 @@ perkara itu.
 ## Apa yang seterusnya
 
 - Petakan teh tarik terhadap papan minuman negara yang lebih luas dalam hub
-  [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
+  [minuman Malaysia](/food-lifestyle/malaysian-drinks).
 - Nyahkod tatabahasa kaunter penuh — *O*, *C*, *kosong*, *peng* — dalam panduan
-  [kopi, teh tarik dan minuman kedai kopi](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
+  [kopi, teh tarik dan minuman kedai kopi](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
 - Temui kedai makan 24 jam yang menuangkannya dalam
-  [budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture).
+  [budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture).

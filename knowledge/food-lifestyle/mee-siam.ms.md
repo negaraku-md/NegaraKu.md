@@ -109,7 +109,7 @@ namanya menunjuk ke luar negara, ia hidangan tempatan sepenuhnya.
 Mee siam, pada dasarnya, ialah bihun halus — *bihun* — yang disaluti sos yang
 cuba mengekalkan nada manis, masam dan pedas dalam keseimbangan serentak. Ia
 tergolong dalam dunia luas yang sama dengan
-[hidangan bihun dan mi](/ms/food-lifestyle/malaysian-noodles) lain di Malaysia,
+[hidangan bihun dan mi](/food-lifestyle/malaysian-noodles) lain di Malaysia,
 tetapi cirinya ialah ketegangan rasa tiga hala itu dan bukan satu rasa dominan.
 Sumber rujukan memerihalkannya secara ringkas sebagai hidangan "bihun halus
 berperisa pedas, manis dan masam."
@@ -153,7 +153,7 @@ Di Malaysia, gaya kering lebih lazim antara kedua-duanya — pada dasarnya, sepe
 kata satu catatan, bihun itu "digoreng dengan asas rasa yang sama dan bukannya
 dihidangkan dalam kuah ringan." Secara serantau, versi goreng kering dikaitkan
 dengan Johor dan versi basah menjadi kegemaran di Melaka, sebahagian daripada peta
-[masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+[masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
 yang lebih luas di seluruh negara.
 
 | | Mee siam kuah (basah) | Mee siam goreng (kering) |
@@ -180,10 +180,10 @@ susunan yang muktamad.
 ## Meja Melayu dan dapur Nyonya
 
 Mee siam dimasak merentas lebih daripada satu tradisi masakan Malaysia. Ia menjadi
-hidangan ruji [masakan Melayu](/ms/food-lifestyle/malay-cuisine), dan *mee siam
+hidangan ruji [masakan Melayu](/food-lifestyle/malay-cuisine), dan *mee siam
 goreng* yang kering khususnya, menurut satu catatan, "lebih kerap dijual oleh
 masyarakat Melayu." Pada masa yang sama ia menjadi hidangan kesayangan
-[dapur Nyonya (Peranakan)](/ms/food-lifestyle/nyonya-peranakan-cuisine), masakan
+[dapur Nyonya (Peranakan)](/food-lifestyle/nyonya-peranakan-cuisine), masakan
 Cina Selat yang menggabungkan bahan Cina dengan pes rempah Melayu — satu keturunan
 yang dikongsinya dengan hidangan seperti laksa.
 
@@ -215,11 +215,11 @@ makanan.
 
 ## Apa seterusnya
 
-- [Mi Malaysia](/ms/food-lifestyle/malaysian-noodles) — dunia mi, kuetiau, bihun
+- [Mi Malaysia](/food-lifestyle/malaysian-noodles) — dunia mi, kuetiau, bihun
   yang lebih luas serta lembar-lembar yang mee siam tergolong di dalamnya.
-- [Masakan Melayu](/ms/food-lifestyle/malay-cuisine) — tradisi di sebalik *mee
+- [Masakan Melayu](/food-lifestyle/malay-cuisine) — tradisi di sebalik *mee
   siam goreng* kering yang ditemui di gerai Melayu.
-- [Masakan Nyonya (Peranakan)](/ms/food-lifestyle/nyonya-peranakan-cuisine) —
+- [Masakan Nyonya (Peranakan)](/food-lifestyle/nyonya-peranakan-cuisine) —
   dapur Cina Selat yang turut menuntut mee siam sebagai miliknya.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   bagaimana hidangan seperti mee siam berubah dari negeri ke negeri.

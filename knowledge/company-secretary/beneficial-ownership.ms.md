@@ -244,7 +244,7 @@ menasihati anda.
 
 Contoh terperinci bagi setiap bentuk — rantaian pegangan, penama keluarga, amanah
 dan cabang pengaruh — dinyatakan dalam
-[siapakah pemilik benefisial](/ms/company-secretary/who-is-a-beneficial-owner).
+[siapakah pemilik benefisial](/company-secretary/who-is-a-beneficial-owner).
 
 ## Dua jam yang tiada siapa asingkan
 
@@ -297,7 +297,7 @@ atau di tempat lain di Malaysia yang dimaklumkan kepada Pendaftar, dalam bahasa
 Melayu atau Inggeris, dalam bentuk fizikal atau elektronik.
 
 Perincian penuh tentang daftar itu sendiri terdapat dalam
-[menyimpan daftar BO](/ms/company-secretary/bo-register).
+[menyimpan daftar BO](/company-secretary/bo-register).
 
 ## Jentera notis di bawah s.60C
 
@@ -354,7 +354,7 @@ pengarah urusan anda dan menutup fail itu bukanlah pematuhan.
 
 Laluan peningkatan penuh — berapa banyak notis, apa bukti yang perlu disimpan, apa
 yang perlu dilakukan apabila pemegang saham sekadar enggan — terdapat dalam
-[apabila pemilik benefisial tidak membalas](/ms/company-secretary/bo-non-cooperation).
+[apabila pemilik benefisial tidak membalas](/company-secretary/bo-non-cooperation).
 
 ## Syarikat yang baru diperbadankan
 
@@ -481,13 +481,13 @@ itu ialah rangka kerja LLP dan tidak menggantikan PD 9/2024 bagi syarikat.
 
 Mulakan dengan masalah pengenalpastian dan bukannya skrin pemfailan: telaah enam
 kriteria terhadap rantaian pemilikan sebenar anda dalam
-[siapakah pemilik benefisial](/ms/company-secretary/who-is-a-beneficial-owner),
+[siapakah pemilik benefisial](/company-secretary/who-is-a-beneficial-owner),
 kemudian sediakan dua jam itu dengan betul menggunakan
-[menyimpan daftar BO](/ms/company-secretary/bo-register) dan
-[memfailkan maklumat BO melalui e-BOS](/ms/company-secretary/ebos-filing).
+[menyimpan daftar BO](/company-secretary/bo-register) dan
+[memfailkan maklumat BO melalui e-BOS](/company-secretary/ebos-filing).
 
 Jika seorang pemegang saham tidak menjawab, jangan biarkan fail itu hanyut —
 laluan peningkatan dan bukti yang perlu anda simpan terdapat dalam
-[apabila pemilik benefisial tidak membalas](/ms/company-secretary/bo-non-cooperation).
+[apabila pemilik benefisial tidak membalas](/company-secretary/bo-non-cooperation).
 
 Baru diperbadankan? Lihat [kalendar pematuhan tahun pertama Sdn Bhd anda](/business/sdn-bhd-first-year-compliance/).

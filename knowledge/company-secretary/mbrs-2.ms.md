@@ -228,7 +228,7 @@ Kedua-dua tarikh akhir penyata kewangan itu adalah **berturutan, bukan selari**.
 Jam failan tidak bermula sehingga pengedaran berlaku. Mengedar lebih awal
 memendekkan jumlah masa larian anda dan bukannya melanjutkannya — satu perkara
 yang dihuraikan sepenuhnya dalam halaman pendamping mengenai
-[mengedar dan memfailkan penyata kewangan](/ms/company-secretary/financial-statements-lodgement).
+[mengedar dan memfailkan penyata kewangan](/company-secretary/financial-statements-lodgement).
 
 ## Matriks jenis failan
 
@@ -363,7 +363,7 @@ atau s.259.
 6. **Hantar melalui mPortal, bayar, dan simpan pengakuan.** Pengakuan itu, bukan
    fail mTool, ialah bukti pematuhan anda.
 7. **Jika anda akan terlepas tarikh, pohon lanjutan sebelum ia luput** — lihat
-   [memohon lanjutan masa](/ms/company-secretary/extension-of-time-ssm).
+   [memohon lanjutan masa](/company-secretary/extension-of-time-ssm).
    Selepas tarikh akhir berlalu tiada apa yang boleh dilanjutkan.
 
 ## Kesilapan biasa

@@ -127,7 +127,7 @@ berbeza dari satu sumber ke satu sumber, jadi ertinya sebaik-baiknya dianggap se
 anggaran.
 
 Popiah tergolong dalam dunia makanan gerai dan
-[makanan jalanan pasar malam](/ms/food-lifestyle/pasar-malam-and-street-food) Malaysia
+[makanan jalanan pasar malam](/food-lifestyle/pasar-malam-and-street-food) Malaysia
 yang lebih luas, walaupun ia sama banyaknya sebagai hidangan rumah — dan kehidupan
 berkembar itu, gerai dan dapur, membentuk segala yang menyusul.
 
@@ -145,7 +145,7 @@ untuk label Inggeris "spring roll".
 
 Berjalan seiring dengan versi Hokkien pendatang ialah **popiah Nyonya** yang terkenal,
 sebahagian daripada [tradisi masakan Nyonya
-(Peranakan)](/ms/food-lifestyle/nyonya-peranakan-cuisine) orang Cina Peranakan. Satu
+(Peranakan)](/food-lifestyle/nyonya-peranakan-cuisine) orang Cina Peranakan. Satu
 laporan Malay Mail pada 2025 tentang satu demonstrasi memasak Peranakan menggambarkan
 gulungan Nyonya itu diperisa dengan taucu dan bawang putih serta diisi dengan
 sengkuang, timun, taugeh, telur dadar, tauhu goreng dan udang — menanggapnya sebagai
@@ -228,14 +228,14 @@ Ini adalah perbezaan penekanan — sos, kemanisan, kebasahan — dan bukan perbe
 butirannya sebahagian besarnya bersandar pada akhbar tempatan dan penulisan makanan, jadi ia
 ditandai di bawah untuk sumber yang lebih kukuh. Dengan demikian popiah duduk selesa dalam
 peta [masakan serantau dan
-etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) Malaysia yang lebih luas, satu idea
+etnik](/food-lifestyle/regional-and-ethnic-cuisines) Malaysia yang lebih luas, satu idea
 tunggal yang digubah semula oleh setiap komuniti yang menerimanya.
 
 ## Apa seterusnya
 
-- [Masakan Nyonya (Peranakan)](/ms/food-lifestyle/nyonya-peranakan-cuisine) — dapur Cina
+- [Masakan Nyonya (Peranakan)](/food-lifestyle/nyonya-peranakan-cuisine) — dapur Cina
   Peranakan yang memberi popiah salah satu versinya yang paling terkenal.
-- [Pasar malam dan makanan jalanan](/ms/food-lifestyle/pasar-malam-and-street-food) — dunia
+- [Pasar malam dan makanan jalanan](/food-lifestyle/pasar-malam-and-street-food) — dunia
   gerai tempat popiah segar dan goreng kedua-duanya dijual.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) — cara
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) — cara
   negeri dan komuniti Malaysia menggubah semula hidangan kongsi seperti yang satu ini.

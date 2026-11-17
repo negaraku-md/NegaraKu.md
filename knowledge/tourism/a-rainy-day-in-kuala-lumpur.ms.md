@@ -193,4 +193,4 @@ ketersediaan lif di laman web pengendali dan tempat sebelum anda bergerak.
 - Semak tambang semasa dan pembayaran yang diterima di laman web **pengendali
   rel**, dan bawa kad Touch 'n Go.
 - Untuk bandar yang lebih luas di sebalik hari hujan, lihat
-  [panduan pelawat Kuala Lumpur](/ms/tourism/kuala-lumpur-visitor-guide).
+  [panduan pelawat Kuala Lumpur](/tourism/kuala-lumpur-visitor-guide).

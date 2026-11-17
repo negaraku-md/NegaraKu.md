@@ -102,7 +102,7 @@ pucat yang manis, samar-samar berbau rumput, yang terasa tidak lain daripada teb
 sendiri.
 
 Untuk melihat kedudukan air tebu dalam kalangan papan minuman negara yang lebih luas,
-lihat hub [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks). Artikel ini ialah
+lihat hub [minuman Malaysia](/food-lifestyle/malaysian-drinks). Artikel ini ialah
 tinjauan mendalam tentang penyejuk tebu itu sendiri.
 
 ## Perahan limau
@@ -123,7 +123,7 @@ pewarna, tiada gas, hanya jus tumbuhan itu. Itu menjadikannya terasa jauh berbez
 daripada minuman ringan dalam tin. Tetapi wajar diingat bahawa ia, secara harfiah,
 **gula tebu dalam bentuk cecair**: lazat dan menghilangkan dahaga pada hari panas, namun
 tinggi gula, jadi ia paling baik dinikmati sebagai hidangan istimewa dan bukannya
-berliter-liter. Bersama [air kelapa](/ms/food-lifestyle/air-kelapa), ia salah satu
+berliter-liter. Bersama [air kelapa](/food-lifestyle/air-kelapa), ia salah satu
 penghilang dahaga semula jadi terhebat negara ini.
 
 ## Di mana untuk mendapatkannya
@@ -133,12 +133,12 @@ sebelah mesin penggulung: **pasar malam**, pasar pagi, gerai jaja tepi jalan, me
 selera dan bar jus di seluruh negara. Pada petang yang terik, pemandangan jus hijau itu
 memenuhi cawan ialah jemputannya tersendiri. Untuk dunia pasar dan makanan jaja yang
 lebih luas yang menjadi miliknya, lihat
-[budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture).
+[budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture).
 
 ## Apa yang seterusnya
 
 - Petakan air tebu terhadap papan minuman negara yang lebih luas dalam hub
-  [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
-- Temui penyejuk semula jadi hebat yang lain dalam [air kelapa](/ms/food-lifestyle/air-kelapa).
+  [minuman Malaysia](/food-lifestyle/malaysian-drinks).
+- Temui penyejuk semula jadi hebat yang lain dalam [air kelapa](/food-lifestyle/air-kelapa).
 - Cuba penyejuk sitrus-dan-teh dari jalanan yang sama dalam
-  [teh O ais limau](/ms/food-lifestyle/teh-o-ais-limau).
+  [teh O ais limau](/food-lifestyle/teh-o-ais-limau).

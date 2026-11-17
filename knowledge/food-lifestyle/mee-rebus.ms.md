@@ -118,7 +118,7 @@ kacang soya yang ditapai.
 
 Tidak seperti banyak hidangan mi bersup dalam perbendaharaan Malaysia, mee rebus
 ditakrifkan oleh satu kuah pekat itu dan bukan oleh sup jernih. Ia tergolong
-dalam keluarga [mi Malaysia](/ms/food-lifestyle/malaysian-noodles) yang lebih
+dalam keluarga [mi Malaysia](/food-lifestyle/malaysian-noodles) yang lebih
 luas, di mana mi kuning yang sama muncul digoreng, dalam kari dan dalam sup
 bergantung pada gerai.
 
@@ -156,10 +156,10 @@ hidangan ini keseimbangan manis-gurih-masam yang menjadi ciri khasnya.
 
 ## Hidangan meja Melayu dan mamak
 
-Mee rebus berada tepat dalam [masakan Melayu](/ms/food-lifestyle/malay-cuisine)
+Mee rebus berada tepat dalam [masakan Melayu](/food-lifestyle/malay-cuisine)
 harian dan juga menjadi tunggak gerai mamak (Islam-India), di mana ia berkongsi
 kuali dan meja stim dengan hidangan seperti
-[mee goreng mamak](/ms/food-lifestyle/mee-goreng-mamak). Rumah berganda itu
+[mee goreng mamak](/food-lifestyle/mee-goreng-mamak). Rumah berganda itu
 sebahagian daripada sebab asal usulnya begitu berbelit: ia dituntut, dimasak dan
 dimakan merentasi garis komuniti. Ia biasanya hidangan sarapan atau brunch,
 dijual dari gerai pagi, kedai kopi dan medan selera, dan sering dipesan bersama
@@ -174,7 +174,7 @@ dan melekit serta menyatakan bahawa sup daging lembu memainkan peranan dalam gay
 Johor di samping pemekatan keledek. Nama Johor yang paling terkenal, Haji Wahid,
 telah dihidangkan turun-temurun dan mengira bekas perdana menteri Mahathir
 Mohamad antara peminatnya yang dilaporkan. Budaya makanan Johor yang lebih luas
-diterokai dalam [makanan Johor](/ms/food-lifestyle/johor-food).
+diterokai dalam [makanan Johor](/food-lifestyle/johor-food).
 
 Pulau Pinang, sebaliknya, lebih dikenali dengan **mee Jawa** (juga dieja mee
 Java) — sepinggan yang berkait rapat yang kuahnya biasanya digambarkan lebih
@@ -205,15 +205,15 @@ yang paling selamat ialah yang disokong oleh bukti: mee rebus ialah hidangan
 kongsi Kepulauan Melayu, dibentuk oleh tangan Melayu, Jawa, Islam-India dan Cina,
 yang asal usul tunggalnya dipertikaikan — satu corak yang dikongsinya dengan
 sebahagian besar peta [masakan serantau dan
-etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) Malaysia.
+etnik](/food-lifestyle/regional-and-ethnic-cuisines) Malaysia.
 
 ## Seterusnya
 
-- [Mi Malaysia](/ms/food-lifestyle/malaysian-noodles) — bagaimana mi kuning dan
+- [Mi Malaysia](/food-lifestyle/malaysian-noodles) — bagaimana mi kuning dan
   mi lain merentasi masakan negara ini.
-- [Masakan Melayu](/ms/food-lifestyle/malay-cuisine) — tradisi lebih luas yang
+- [Masakan Melayu](/food-lifestyle/malay-cuisine) — tradisi lebih luas yang
   menjadi milik mee rebus.
-- [Mee goreng mamak](/ms/food-lifestyle/mee-goreng-mamak) — hidangan mi goreng
+- [Mee goreng mamak](/food-lifestyle/mee-goreng-mamak) — hidangan mi goreng
   yang berkongsi gerai mamak dengan mee rebus.
-- [Makanan Johor](/ms/food-lifestyle/johor-food) — negeri selatan yang menganggap
+- [Makanan Johor](/food-lifestyle/johor-food) — negeri selatan yang menganggap
   mee rebus sebagai ikon tempatan.

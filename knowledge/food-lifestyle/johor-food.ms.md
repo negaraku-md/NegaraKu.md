@@ -127,15 +127,15 @@ Yang ketiga ialah **kedekatan dengan Singapura**. Banyak hidangan Johor — mee
 bandung, otak-otak, soto, laksa — muncul di kedua-dua belah selat, dan kedua-dua
 budaya makanan membesar dalam pertukaran yang berterusan. Pendek kata, masakan
 Johor ialah satu sudut yang amat berlapis dalam peta
-[masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+[masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
 Malaysia yang lebih luas, dan khususnya
-[masakan Melayu](/ms/food-lifestyle/malay-cuisine).
+[masakan Melayu](/food-lifestyle/malay-cuisine).
 
 ## Laksa Johor: kuah ikan atas spaghetti
 
 Sumbangan Johor yang paling terkenal kepada hidangan negara juga yang paling
 pelik. **Laksa Johor** tergolong dalam keluarga besar sup mi
-[laksa](/ms/food-lifestyle/laksa) Malaysia, tetapi memecah acuan dalam satu cara
+[laksa](/food-lifestyle/laksa) Malaysia, tetapi memecah acuan dalam satu cara
 yang mencolok: ia dihidang bukan atas mi beras tetapi atas **spaghetti** yang
 dimasak. Kuahnya pekat dan pekat rasa — ikan panggang seperti ikan parang
 (*ikan parang*) atau ikan tenggiri ditumbuk ke dalam asas santan berempah dengan
@@ -171,7 +171,7 @@ yang merupakan salah satu kudapan hebat selatan Malaysia. Versi Muar — ikan
 diadun dengan pes rempah dan kelapa, dibalut dengan daun dan dipanggang atas bara
 — dianggap secara meluas antara yang terbaik di negara ini, dan hidangan ini
 mempunyai panduannya tersendiri di sini:
-[otak-otak](/ms/food-lifestyle/otak-otak). Kedua-dua hidangan ini menjadi teras
+[otak-otak](/food-lifestyle/otak-otak). Kedua-dua hidangan ini menjadi teras
 budaya sarapan-dan-makan-malam bandar kecil yang menjadikan Muar dicintai.
 
 ## Hidangan nasi: nasi beriani gam dan soto
@@ -233,20 +233,20 @@ penanaman durian dan pelancongan durian bermusim, dan Johor ialah tempat asal
 kultivar yang terkenal — negeri ini sering dikaitkan dengan durian *Sultan*, yang
 popularnya dikenali sebagai **D24**, antara lain. Untuk varieti, penggredan dan
 budaya buah ini sepenuhnya, lihat
-[budaya dan varieti durian](/ms/food-lifestyle/durian-culture-and-varieties).
+[budaya dan varieti durian](/food-lifestyle/durian-culture-and-varieties).
 Seperti pasangan hidangan-dan-bandar di atas, dakwaan "asal-usul" tertentu bagi
 dusun atau kultivar tertentu mencerminkan reputasi popular dan wajar disemak
 dengan sumber tempatan atau pertanian sebelum dinyatakan sebagai fakta.
 
 ## Apa seterusnya
 
-- [Laksa](/ms/food-lifestyle/laksa) — keluarga penuh laksa Malaysia, dan di mana
+- [Laksa](/food-lifestyle/laksa) — keluarga penuh laksa Malaysia, dan di mana
   versi spaghetti Johor sesuai.
-- [Otak-otak](/ms/food-lifestyle/otak-otak) — kudapan ikan panggang berbalut daun
+- [Otak-otak](/food-lifestyle/otak-otak) — kudapan ikan panggang berbalut daun
   yang menjadikan Muar terkenal.
-- [Masakan Melayu](/ms/food-lifestyle/malay-cuisine) — tradisi lebih luas kuah
+- [Masakan Melayu](/food-lifestyle/malay-cuisine) — tradisi lebih luas kuah
   dapur diraja dan masakan santan yang menjadi sandaran Johor.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   bagaimana setiap negeri dan masyarakat Malaysia makan.
-- [Budaya dan varieti durian](/ms/food-lifestyle/durian-culture-and-varieties) —
+- [Budaya dan varieti durian](/food-lifestyle/durian-culture-and-varieties) —
   buah itu, kultivarnya dan penggredannya.

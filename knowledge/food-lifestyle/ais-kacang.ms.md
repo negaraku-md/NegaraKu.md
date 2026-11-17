@@ -180,7 +180,7 @@ bukannya hancur dan rangup.
 
 Ais kacang ialah makanan jalanan pada asasnya. Anda akan menemuinya di kopitiam,
 pusat penjaja dan medan selera, dan ia kekal setia di pasar malam
-[pasar malam & makanan jalanan](/ms/food-lifestyle/pasar-malam-and-street-food),
+[pasar malam & makanan jalanan](/food-lifestyle/pasar-malam-and-street-food),
 tempat penjual menyerut setiap mangkuk mengikut tempahan. Harganya berpatutan —
 biasanya beberapa ringgit semangkuk — yang menjadi sebahagian daya tarikannya
 sebagai hidangan harian dan bukan pencuci mulut majlis istimewa.
@@ -198,7 +198,7 @@ kacang, boleh kelihatan dan terasa jelas berbeza.
 Longgokan itu ialah kanvas, dan gerai menghiasnya dengan bebas. Seceduk aiskrim
 di atas adalah perkara biasa di gerai moden, begitu juga kacang tanah hancur
 untuk rangup. Di kawasan durian, sesebuah gerai mungkin memahkotai ais dengan
-[durian](/ms/food-lifestyle/durian-culture-and-varieties) segar atau puri durian,
+[durian](/food-lifestyle/durian-culture-and-varieties) segar atau puri durian,
 menukar makanan ringan yang enteng kepada sesuatu yang jauh lebih pekat. Kafe
 telah membawa idea ini lebih jauh lagi, dengan menambah buah seperti mangga,
 strawberi atau laici, atau perisa seperti Milo.
@@ -223,6 +223,6 @@ pelbagai bahan atasnya.
 
 ## Apa seterusnya
 
-- Letakkan ais kacang antara hidangan paling digemari negara dalam [hidangan nasional Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia).
-- Lihat di mana ia bersesuaian dalam suasana pasar malam yang lebih luas dalam [pasar malam & makanan jalanan](/ms/food-lifestyle/pasar-malam-and-street-food).
-- Terokai bagaimana pencuci mulut berbeza antara komuniti dalam [masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines).
+- Letakkan ais kacang antara hidangan paling digemari negara dalam [hidangan nasional Malaysia](/food-lifestyle/national-dishes-of-malaysia).
+- Lihat di mana ia bersesuaian dalam suasana pasar malam yang lebih luas dalam [pasar malam & makanan jalanan](/food-lifestyle/pasar-malam-and-street-food).
+- Terokai bagaimana pencuci mulut berbeza antara komuniti dalam [masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines).

@@ -110,14 +110,14 @@ India dalam jalur `$$` dan menandainya "Eat like a local" — sebuah ruang yang
 sederhana, sibuk, pesan-dan-makan dan bukannya destinasi santapan. Bib Gourmand
 yang disandangnya bukan MICHELIN Star tetapi satu pengiktirafan selari untuk
 nilai, dan ia merupakan salah satu entri Malaysia dalam [MICHELIN Guide ke Kuala
-Lumpur dan Penang](/ms/food-lifestyle/michelin-guide-malaysia).
+Lumpur dan Penang](/food-lifestyle/michelin-guide-malaysia).
 
 ## Makanannya: nasi daun pisang dan biryani
 
 Saranan yang dibuat MICHELIN adalah langsung: pilih salah satu set menu dengan
 nasi dan kari sayur di atas daun pisang, kemudian tambah ikan, ayam atau kambing
 mengikut selera. Itulah format rumah [nasi daun
-pisang](/ms/food-lifestyle/banana-leaf-rice) — nasi dan kari tanpa had dimakan
+pisang](/food-lifestyle/banana-leaf-rice) — nasi dan kari tanpa had dimakan
 dari daun, dengan tangan secara tradisional. Satu hidangan yang diketengahkan
 Guide ialah biryani ayam, dipuji kerana isinya yang lembap dan empuk serta
 perisa yang seimbang.
@@ -136,7 +136,7 @@ Bib Gourmand Nirwana meletakkan sebuah kedai nasi daun pisang yang sederhana
 bersama-sama ruang fine dining semenanjung dalam Guide yang sama — itulah inti
 Bib Gourmand, yang wujud untuk mengiktiraf tepatnya masakan jenis ini yang tidak
 berlagak, dibuat dengan baik dan mampu milik. Ia merupakan entri yang berguna
-dalam peta [masakan India-Malaysia](/ms/food-lifestyle/indian-malaysian-cuisine)
+dalam peta [masakan India-Malaysia](/food-lifestyle/indian-malaysian-cuisine)
 Kuala Lumpur, di mana hidangan daun pisang merupakan salah satu sumbangan paling
 berkekalan komuniti itu kepada meja negara.
 

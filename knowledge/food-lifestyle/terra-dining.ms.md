@@ -106,7 +106,7 @@ kediaman-komersial di bahagian barat Kuala Lumpur. MICHELIN Guide mengelaskan
 masakannya sebagai Malaysia dan kontemporari, dan menyenaraikannya pada tahap
 harga `$$$` dengan tempat duduk kaunter. Ia dianugerahkan satu bintang MICHELIN
 dalam pemilihan
-[MICHELIN Guide Kuala Lumpur & Penang 2026](/ms/food-lifestyle/michelin-guide-malaysia),
+[MICHELIN Guide Kuala Lumpur & Penang 2026](/food-lifestyle/michelin-guide-malaysia),
 yang diumumkan pada satu majlis pada 11 November 2025, di mana ia menjadi salah
 satu daripada dua restoran satu bintang baharu bersama Akar — kedua-dua restoran
 TTDI yang sebelum ini berada dalam kategori "Selected" Guide pada tahun
@@ -121,7 +121,7 @@ belajar sendiri "uses Malaysian produce to imbue his French-leaning 11-course
 tasting menu" dengan rasa tempatan. Dua hidangan yang diketengahkan Guide
 menunjukkan pendekatannya: bisque udang kara yang dibuat dengan minyak berasap
 dan mengambil profil masam serta beraroma
-[asam laksa](/ms/food-lifestyle/laksa), dan beurre blanc yang diolah semula
+[asam laksa](/food-lifestyle/laksa), dan beurre blanc yang diolah semula
 menjadi kari kunyit-dan-santan yang berkrim bergaya *masak lemak*. Hidangan ini
 disajikan dengan pasangan teh terpilih — Guide mencadangkan agar bertanya kepada
 chef tentang nota rasa teh — dan pasangan wain ditawarkan dalam pilihan tiga atau
@@ -134,7 +134,7 @@ santapan yang besar; MICHELIN Guide menandakannya sesuai untuk temu janji
 romantik dan santapan bersendirian, dengan penghawa dingin dan kad kredit
 diterima. Ia merupakan salah satu daripada beberapa ruang santapan mewah KL yang
 menarik perhatian MICHELIN dalam edisi terkini, sebahagian daripada peta lebih
-luas [santapan mewah di Malaysia](/ms/food-lifestyle/fine-dining-malaysia).
+luas [santapan mewah di Malaysia](/food-lifestyle/fine-dining-malaysia).
 
 ## Chefnya
 

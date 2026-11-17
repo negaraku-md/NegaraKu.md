@@ -237,9 +237,9 @@ sahaja meliputi kesemuanya.
 
 - Sahkan program tepat anda sekarang pada [Malaysian Qualifications Register](https://www2.mqa.gov.my/mqr/).
 - Masih menimbang laluan dan bukan satu tawaran tunggal? Lihat
-  [Selepas SPM: Pilihan Anda, dan Cara Memilih Antaranya](/ms/education/after-spm-options)
-  dan [laluan pra-universiti dibandingkan](/ms/education/pre-university-routes).
+  [Selepas SPM: Pilihan Anda, dan Cara Memilih Antaranya](/education/after-spm-options)
+  dan [laluan pra-universiti dibandingkan](/education/pre-university-routes).
 - Untuk cara akreditasi MQA berfungsi dengan lebih mendalam, lihat
-  [penerang MQA dan akreditasi](/ms/education/malaysian-qualifications-agency-and-accreditation).
+  [penerang MQA dan akreditasi](/education/malaysian-qualifications-agency-and-accreditation).
 - Ajukan setiap semakan di atas kepada institusi secara bertulis sebelum membayar deposit,
   dan simpan jawapannya.

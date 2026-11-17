@@ -93,7 +93,7 @@ akhbar.
 ## Sejarah: kewartawanan Tamil di Tanah Melayu zaman kolonial
 
 Akar umbi akhbar Tamil terletak di Tanah Melayu zaman kolonial British,
-khususnya di **[Negeri-negeri Selat (Straits Settlements)](/ms/malaysia/straits-settlements)**. Menurut para
+khususnya di **[Negeri-negeri Selat (Straits Settlements)](/malaysia/straits-settlements)**. Menurut para
 penyelidik, **Pulau Pinang** merupakan tempat kelahiran banyak penerbitan Tamil
 pada era kolonial; dari akhir abad ke-19 hingga awal abad ke-20, usaha sastera
 dan kewartawanan Tamil berkembang di sana.

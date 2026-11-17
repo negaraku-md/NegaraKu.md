@@ -119,7 +119,7 @@ disenaraikan sebagai Tapak Warisan Dunia UNESCO pada 2008, tersenarai sebagai
 oleh lebih 500 tahun perdagangan dan pertukaran budaya antara Timur dan Barat.
 Makanan ialah separuh yang boleh dimakan daripada warisan itu, dan ia merentasi
 seluruh peta
-[masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+[masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
 Malaysia.
 
 ## Baba-Nyonya: hati Peranakan
@@ -137,14 +137,14 @@ masam) dan *otak-otak* yang pedas serta penuh herba. Repertoir ini bersandar pad
 tumbukan yang lama dan rebusan yang perlahan, dan ia mengaburkan garis yang kemas
 antara makanan "Cina" dan "Melayu". Kisah penuh masakan ini — sejarah, hidangan
 dan perbezaan Melaka-Pulau Pinang — diceritakan dalam
-[masakan Nyonya dan Peranakan](/ms/food-lifestyle/nyonya-peranakan-cuisine).
+[masakan Nyonya dan Peranakan](/food-lifestyle/nyonya-peranakan-cuisine).
 
 ## Chicken rice balls
 
 Hidangan yang paling dikaitkan dengan Melaka oleh pelawat ialah *nasi ayam
 ketul*, atau chicken rice balls: ayam rebus dan nasi wangi yang dimasak dengan
 stok yang sama seperti dalam
-[nasi ayam Hainan](/ms/food-lifestyle/hainanese-chicken-rice) di seluruh
+[nasi ayam Hainan](/food-lifestyle/hainanese-chicken-rice) di seluruh
 Malaysia, tetapi dengan nasi yang dipadatkan menjadi bebola hangat sebesar bola
 golf dan bukan dihidangkan berasingan. Bebola itu dimakan bersama ayam yang
 dihiris, sos cili dan sup ringan, dan sesetengah kedai lama kota ini menarik
@@ -181,13 +181,13 @@ fakta yang pasti.
 ## Cendol dan gula Melaka
 
 Untuk pencuci mulut, Melaka meminjamkan namanya kepada salah satu bahan manis
-yang mentakrifkan Malaysia. [Gula Melaka](/ms/food-lifestyle/gula-melaka) ialah
+yang mentakrifkan Malaysia. [Gula Melaka](/food-lifestyle/gula-melaka) ialah
 gula enau berwarna gelap bernada karamel yang dibuat daripada sap kuncup bunga
 pokok kelapa; namanya menggandingkan *gula* ("sugar" dalam bahasa Melayu) dengan
 negeri ini, yang secara amnya dianggap sebagai tempat ia berasal — pengaitan yang
 diulang secara meluas tetapi hanya didokumenkan secara longgar.
 
-Gula itulah jiwa [cendol](/ms/food-lifestyle/cendol), pencuci mulut ais serut
+Gula itulah jiwa [cendol](/food-lifestyle/cendol), pencuci mulut ais serut
 yang terdiri daripada bebenang jeli tepung beras hijau, santan dan curahan gula
 Melaka cair yang murah hati, selalunya dengan kacang merah. Versi Melaka ialah
 sumber kebanggaan tempatan, dan gerai cendol terbuka ialah pemandangan tetap di
@@ -210,7 +210,7 @@ sumber mengaitkan profil cuka-dan-cilinya dengan pengaruh Goa Portugal. Perkataa
 Kristang *debal* biasanya diertikan sebagai "leftovers," dengan gelaran "devil"
 dikaitkan dengan kepedasannya — satu kisah kemas yang wajar dianggap sebagai
 etimologi rakyat. Meja makan yang tersendiri ini diteroka dalam
-[masakan Eurasia dan Kristang](/ms/food-lifestyle/eurasian-kristang-cuisine).
+[masakan Eurasia dan Kristang](/food-lifestyle/eurasian-kristang-cuisine).
 
 ## Jonker Street dan tart nanas
 
@@ -218,7 +218,7 @@ Cara paling meriah untuk meragut semua yang di atas ialah pasar malam Jonker
 Street (Jonker Walk), yang memenuhi jantung Pecinan Melaka pada malam hujung
 minggu dengan gerai menjual cendol, satay, makanan laut bakar, *putu piring*,
 *kuih* Nyonya dan banyak lagi — sumbangan Melaka kepada budaya
-[pasar malam dan makanan jalanan](/ms/food-lifestyle/pasar-malam-and-street-food)
+[pasar malam dan makanan jalanan](/food-lifestyle/pasar-malam-and-street-food)
 Malaysia yang lebih luas.
 
 Satu benda kegemaran untuk dibawa pulang ialah tart nanas (*kuih tart*): pastri
@@ -233,10 +233,10 @@ Melaka.
 
 ## Apa seterusnya
 
-- [Masakan Nyonya dan Peranakan](/ms/food-lifestyle/nyonya-peranakan-cuisine) —
+- [Masakan Nyonya dan Peranakan](/food-lifestyle/nyonya-peranakan-cuisine) —
   kisah yang lebih penuh tentang komuniti yang dapurnya mentakrifkan makanan
   Melaka.
-- [Masakan Eurasia dan Kristang](/ms/food-lifestyle/eurasian-kristang-cuisine) —
+- [Masakan Eurasia dan Kristang](/food-lifestyle/eurasian-kristang-cuisine) —
   meja makan Portugis-Eurasia di sebalik devil's curry.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   bagaimana Melaka sesuai dalam peta lebih luas cara Malaysia makan.

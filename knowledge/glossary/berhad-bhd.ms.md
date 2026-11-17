@@ -89,7 +89,7 @@ framework: explainer
 
 **Bahasa Malaysia:** Berhad · **English:** Public Limited Company · **中文:** 大众有限公司
 
-Apabila anda melihat "Bhd" di hujung nama sesebuah syarikat Malaysia — Malayan Banking Berhad milik [Maybank](/ms/companies/maybank), [Public Bank Berhad](/ms/companies/public-bank), [Tenaga Nasional Berhad](/ms/companies/tenaga-nasional) — anda sedang melihat sebuah syarikat yang dibenarkan menjual sahamnya kepada orang yang tidak dikenali. Kebenaran tunggal itulah yang memisahkan sebuah Berhad daripada Sdn Bhd yang jauh lebih lazim, dan itulah sebabnya sebuah Berhad hidup di bawah set peraturan yang lebih berat.
+Apabila anda melihat "Bhd" di hujung nama sesebuah syarikat Malaysia — Malayan Banking Berhad milik [Maybank](/companies/maybank), [Public Bank Berhad](/companies/public-bank), [Tenaga Nasional Berhad](/companies/tenaga-nasional) — anda sedang melihat sebuah syarikat yang dibenarkan menjual sahamnya kepada orang yang tidak dikenali. Kebenaran tunggal itulah yang memisahkan sebuah Berhad daripada Sdn Bhd yang jauh lebih lazim, dan itulah sebabnya sebuah Berhad hidup di bawah set peraturan yang lebih berat.
 
 "Berhad" hanyalah perkataan Melayu bagi "limited". Ia menandakan sebuah **syarikat awam berhad** di bawah Akta Syarikat 2016 (Akta 777), statut yang ditadbir oleh Suruhanjaya Syarikat Malaysia (SSM). Seperti sepupu persendiriannya, sebuah Berhad ialah entiti undang-undang yang berasingan yang boleh memiliki harta, menandatangani kontrak, serta mendakwa atau didakwa, dan liabiliti anggotanya terhad kepada jumlah yang masih belum dibayar bagi saham mereka.
 
@@ -146,7 +146,7 @@ Sebuah syarikat awam yang tidak pernah memasuki pasaran hanya bertanggungjawab k
 
 ## Apa seterusnya
 
-- Bandingkan kedua-dua bentuk secara berdampingan dalam [Sdn Bhd](/ms/glossary/sdn-bhd) — syarikat persendirian berhad yang digunakan oleh kebanyakan perniagaan Malaysia.
-- Baca bagaimana [Suruhanjaya Sekuriti Malaysia](/ms/finance/securities-commission-malaysia) mengawal pasaran modal dan meluluskan penyenaraian.
-- Jika anda melabur dan bukannya memperbadankan, lihat [panduan melabur di Bursa Malaysia](/ms/finance/investing-in-bursa-malaysia-guide).
-- Bagi aspek modal sesebuah syarikat, entri [modal berbayar](/ms/glossary/paid-up-capital) menerangkan maksud sebenar angka saham tersebut.
+- Bandingkan kedua-dua bentuk secara berdampingan dalam [Sdn Bhd](/glossary/sdn-bhd) — syarikat persendirian berhad yang digunakan oleh kebanyakan perniagaan Malaysia.
+- Baca bagaimana [Suruhanjaya Sekuriti Malaysia](/finance/securities-commission-malaysia) mengawal pasaran modal dan meluluskan penyenaraian.
+- Jika anda melabur dan bukannya memperbadankan, lihat [panduan melabur di Bursa Malaysia](/finance/investing-in-bursa-malaysia-guide).
+- Bagi aspek modal sesebuah syarikat, entri [modal berbayar](/glossary/paid-up-capital) menerangkan maksud sebenar angka saham tersebut.

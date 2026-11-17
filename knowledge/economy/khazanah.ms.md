@@ -153,7 +153,7 @@ daripada individu.
 Hari ini portfolio Khazanah disusun kepada Portfolio Pelaburan (ekuiti
 persendirian, aset sebenar dan pasaran awam), portfolio pembangunan Dana
 Impak, Aset Pembangunan warisan, dan pegangan Situasi Khas. Kedudukan
-tersenarai utama termasuk CIMB, [Telekom Malaysia](/ms/companies/telekom-malaysia), Tenaga Nasional, [IHH Healthcare](/ms/companies/ihh-healthcare), Axiata, Malaysia Airports dan Astro.
+tersenarai utama termasuk CIMB, [Telekom Malaysia](/companies/telekom-malaysia), Tenaga Nasional, [IHH Healthcare](/companies/ihh-healthcare), Axiata, Malaysia Airports dan Astro.
 
 Bagi 2025, Khazanah melaporkan aset bersih sebanyak RM105 billion, jumlah
 aset RM156 billion, dan keuntungan daripada operasi RM5.6 billion — pulangan

@@ -177,10 +177,10 @@ sirap sebagai jalan pintas.
 ## Cara rakyat Malaysia memasak dengannya
 
 Gula melaka secara keseluruhannya ialah pemanis **pencuci mulut**, dan peranan
-utamanya ialah dalam [cendol](/ms/food-lifestyle/cendol): sirap gula palma gelap
+utamanya ialah dalam [cendol](/food-lifestyle/cendol): sirap gula palma gelap
 yang dicurahkan ke atas ais kisar, jeli pandan hijau dan santan itulah yang
 menjadikan hidangan ini. Ia memainkan peranan serupa dalam pencuci mulut berais
-lain dalam lingkungan [ais kacang](/ms/food-lifestyle/ais-kacang).
+lain dalam lingkungan [ais kacang](/food-lifestyle/ais-kacang).
 
 Selain daripada mangkuk ais, ia memberi perisa kepada senarai panjang kuih dan
 puding. **Sago gula melaka** — mutiara sagu sejuk dengan santan dan curahan sirap
@@ -191,7 +191,7 @@ dalam aiskrim dan kek, dan sebagai curahan ke atas apa sahaja daripada wafel
 hingga bubur. Ia sekali-sekala muncul dalam masakan Melayu dan Nyonya yang berlauk
 juga, di mana sedikit sahaja menambah kebulatan dan warna. Penggunaan ini
 terletak dalam peta masakan Malaysia yang lebih luas iaitu [masakan serantau dan
-etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines).
+etnik](/food-lifestyle/regional-and-ethnic-cuisines).
 
 ## Gula melaka, gula apong dan gula perang
 
@@ -238,10 +238,10 @@ patut disemak terhadap daftar rasmi sebelum dipercayai.
 
 ## Apa seterusnya
 
-- [Cendol](/ms/food-lifestyle/cendol) — pencuci mulut berais yang ditakrifkan oleh
+- [Cendol](/food-lifestyle/cendol) — pencuci mulut berais yang ditakrifkan oleh
   gula melaka.
-- [Ais kacang](/ms/food-lifestyle/ais-kacang) — satu lagi pencuci mulut ais kisar
+- [Ais kacang](/food-lifestyle/ais-kacang) — satu lagi pencuci mulut ais kisar
   dalam keluarga yang sama.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   landskap yang lebih luas tentang cara negeri dan masyarakat Malaysia memasak dan
   makan.

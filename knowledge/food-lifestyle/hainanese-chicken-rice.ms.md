@@ -157,9 +157,9 @@ ayam rebus menghasilkan kedua-dua daging dan stok untuk nasi, jadi sedikit sahaj
 terbuang, dan sepinggan boleh dihidang dengan cepat dan murah pada bila-bila masa.
 
 Ketersediaan harian itulah sebabnya nasi ayam duduk selesa di samping hidangan seperti
-yang dipaparkan dalam [hidangan nasional Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia),
+yang dipaparkan dalam [hidangan nasional Malaysia](/food-lifestyle/national-dishes-of-malaysia),
 dan sebabnya ia terjalin dalam
-[budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture) negara yang lebih
+[budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture) negara yang lebih
 luas. Anda jarang perlu mencari jauh untuk menemuinya.
 
 ## Bola nasi ayam Melaka
@@ -212,8 +212,8 @@ milik, dalam erti kata yang sebenar, seluruh rantau yang diduduki orang Hainan.
 ## Apa seterusnya
 
 - Letakkan nasi ayam dalam latar yang lebih luas dengan
-  [hidangan nasional Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia).
+  [hidangan nasional Malaysia](/food-lifestyle/national-dishes-of-malaysia).
 - Lihat bagaimana tradisi Cina, Melayu dan lain-lain bertemu di meja dalam
-  [masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines).
+  [masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines).
 - Fahami kedai kopi tempat ia paling selesa dalam
-  [budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture).
+  [budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture).

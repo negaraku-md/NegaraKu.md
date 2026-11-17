@@ -133,7 +133,7 @@ tetapi oleh badan penguatkuasaan di bawahnya — **jabatan** persekutuan serta p
 | Jabatan Penjara | Majlis Antipemerdagangan Orang (MAPO) |
 | Jabatan Pendaftaran Negara (JPN) | Lembaga Pencegahan Jenayah |
 | Pendaftar Pertubuhan (ROS) | Lembaga Parol |
-| [Jabatan Sukarelawan Malaysia](/ms/government/peoples-volunteer-corps-rela) (RELA) | Lembaga Penapisan Filem |
+| [Jabatan Sukarelawan Malaysia](/government/peoples-volunteer-corps-rela) (RELA) | Lembaga Penapisan Filem |
 | Agensi Penguatkuasaan Maritim (MMEA/APMM) | Lembaga Pencegahan Keganasan |
 | Kawalan Keselamatan Sabah Timur (ESSCOM) | Percetakan Nasional (PNMB) |
 

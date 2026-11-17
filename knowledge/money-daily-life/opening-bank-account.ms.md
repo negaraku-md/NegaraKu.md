@@ -135,7 +135,7 @@ mengira berapa lama anda sebenarnya telah tinggal di Malaysia. Kedua, bank
 mungkin masih meminta dokumen di luar senarai ini atau menjalankan semakan
 tambahan — laman CIMB sendiri menyatakan dengan jelas bahawa "dokumen
 sokongan tambahan yang tidak disenaraikan" boleh diminta, dan bank lain
-([Maybank](/ms/companies/maybank), Public Bank, Hong Leong, RHB) menerbitkan senarai yang secara
+([Maybank](/companies/maybank), Public Bank, Hong Leong, RHB) menerbitkan senarai yang secara
 amnya serupa tetapi tidak sama persis, jadi langkah paling selamat sentiasa
 ialah menyemak laman semasa bank tertentu sebelum lawatan ke cawangan.
 

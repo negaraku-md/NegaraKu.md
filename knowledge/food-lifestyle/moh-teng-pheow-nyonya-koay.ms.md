@@ -101,13 +101,13 @@ MICHELIN menyenaraikan Moh Teng Pheow di bawah "Small eats" dalam jalur `$` —
 bajet mengikut skala Guide sendiri — dan menganugerahkannya Bib Gourmand untuk
 masakan yang baik pada nilai yang baik. Ia merupakan salah satu entri Penang
 dalam [MICHELIN Guide ke Kuala Lumpur dan
-Penang](/ms/food-lifestyle/michelin-guide-malaysia), dan satu peringatan bahawa
+Penang](/food-lifestyle/michelin-guide-malaysia), dan satu peringatan bahawa
 pengiktirafan ini menjangkau melangkaui restoran kepada sebuah tempat yang, pada
 dasarnya, sebuah kilang kek dengan tempat duduk.
 
 ## Makanannya: kuih Nyonya tradisional
 
-Tarikannya ialah [kuih Nyonya](/ms/food-lifestyle/kuih-muih) — kek, ladu, puding
+Tarikannya ialah [kuih Nyonya](/food-lifestyle/kuih-muih) — kek, ladu, puding
 dan pastri manis dan masin dapur Peranakan, dibuat dengan mengukus, menggoreng
 dan membakar. MICHELIN menunjuk kepada kueh lapis (kek kukus berlapis), kueh
 talam (puding kelapa-dan-pandan dua lapis), ang koo (kek pulut bercetak
@@ -137,5 +137,5 @@ Pergilah lebih awal pada siang hari ketika rangkaian penuh masih ada, kerana
 kuih popular boleh habis sebelum waktu tutup. Makanlah di sana di bawah bumbung
 kaca jika anda boleh; sebahagian daripada tarikannya ialah melihat kuih di tempat
 ia dibuat, sebagai sebahagian daripada tradisi [makanan Nyonya dan
-Peranakan](/ms/food-lifestyle/nyonya-peranakan-cuisine) George Town yang masih
+Peranakan](/food-lifestyle/nyonya-peranakan-cuisine) George Town yang masih
 hidup.

@@ -117,7 +117,7 @@ Kerajaan kemudian bergerak ke arah **model dua rangkaian**, di mana rangkaian 5G
 
 ## Skala dan kepentingan
 
-Maxis ialah salah satu daripada sebilangan kecil pengendali yang antara mereka membawa sebahagian besar trafik mudah alih dan jalur lebar tetap Malaysia. Pesaing utamanya ialah [Axiata](/ms/companies/axiata) (yang perniagaan mudah alih Malaysianya bergabung dengan Digi untuk membentuk CelcomDigi), U Mobile dan [Telekom Malaysia](/ms/companies/telekom-malaysia). Dalam pasaran di mana penembusan mudah alih sangat tinggi dan pertumbuhan datang terutamanya daripada pakej bersepadu — menjual mudah alih, jalur lebar rumah dan perkhidmatan digital bersama-sama — tujahan Maxis ke dalam fiber rumah dan perusahaan adalah penting kepada strateginya.
+Maxis ialah salah satu daripada sebilangan kecil pengendali yang antara mereka membawa sebahagian besar trafik mudah alih dan jalur lebar tetap Malaysia. Pesaing utamanya ialah [Axiata](/companies/axiata) (yang perniagaan mudah alih Malaysianya bergabung dengan Digi untuk membentuk CelcomDigi), U Mobile dan [Telekom Malaysia](/companies/telekom-malaysia). Dalam pasaran di mana penembusan mudah alih sangat tinggi dan pertumbuhan datang terutamanya daripada pakej bersepadu — menjual mudah alih, jalur lebar rumah dan perkhidmatan digital bersama-sama — tujahan Maxis ke dalam fiber rumah dan perusahaan adalah penting kepada strateginya.
 
 Sebagai syarikat besar yang membayar dividen di Bursa Malaysia, Maxis juga merupakan pegangan penting bagi pelabur institusi dan dana pencen Malaysia, yang memberikan keputusan dan kedudukan pengawalseliaannya bobot melebihi sektor telekomunikasi itu sendiri.
 
@@ -127,6 +127,6 @@ Maxis terletak di persilangan dua perkara yang menyentuh hampir semua orang di M
 
 ## Apa seterusnya
 
-- Bandingkan Maxis dengan pesaing utamanya dalam pasaran mudah alih: [Axiata](/ms/companies/axiata).
-- Lihat bagaimana Maxis bersesuaian di samping syarikat besar Malaysia yang lain: [Kumpulan Genting](/ms/companies/genting-group).
+- Bandingkan Maxis dengan pesaing utamanya dalam pasaran mudah alih: [Axiata](/companies/axiata).
+- Lihat bagaimana Maxis bersesuaian di samping syarikat besar Malaysia yang lain: [Kumpulan Genting](/companies/genting-group).
 - Untuk angka semasa, sentiasalah semak pemfailan Bursa Malaysia terkini Maxis dan pengumuman SKMM mengenai dasar 5G dan bukannya bergantung pada angka lama.

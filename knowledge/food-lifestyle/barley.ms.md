@@ -104,7 +104,7 @@ dan nyaris-manis, bukannya yang berani.
 
 Untuk melihat kedudukan barley dalam kalangan papan minuman negara yang lebih luas — sirap
 bandung, cincau, Milo dan selebihnya — lihat hub
-[minuman Malaysia](/ms/food-lifestyle/malaysian-drinks). Artikel ini ialah tinjauan mendalam
+[minuman Malaysia](/food-lifestyle/malaysian-drinks). Artikel ini ialah tinjauan mendalam
 tentang air barli itu sendiri.
 
 ## Barley limau dan versi lain
@@ -119,14 +119,14 @@ Barley biasa ialah asasnya, tetapi dua variasi ada di mana-mana:
 | barley + winter melon | Barley dengan winter melon bergula, lebih manis dan lebih bulat |
 
 **Barley limau** — dengan perahan limau — ialah kegemaran, sitrusnya mengangkat bijian yang
-lembut itu sebagaimana ia melakukannya dalam [teh-O ais limau](/ms/food-lifestyle/teh-o-ais-limau).
+lembut itu sebagaimana ia melakukannya dalam [teh-O ais limau](/food-lifestyle/teh-o-ais-limau).
 Pasangan dengan **winter melon bergula** memberikan kemanisan karamel yang lebih mendalam dan
 merupakan gabungan kedai kopi Cina yang klasik.
 
 ## Minuman "menyejukkan"
 
-Seperti [agar rumput](/ms/food-lifestyle/cincau) dan
-[air mata kucing](/ms/food-lifestyle/air-mata-kucing), barley tergolong dalam keluarga
+Seperti [agar rumput](/food-lifestyle/cincau) dan
+[air mata kucing](/food-lifestyle/air-mata-kucing), barley tergolong dalam keluarga
 **minuman "menyejukkan"** masyarakat Cina-Malaysia — penyegar yang dipercayai mengimbangi
 "kepanasan" (heaty) badan dalam cuaca panas. Itu kepercayaan pemakanan tradisi dan bukannya
 perubatan yang mapan, dan paling baik dibaca sebagai sebahagian daripada budaya di sekeliling
@@ -142,12 +142,12 @@ Air barli ialah kelaziman **kedai kopi Cina, medan selera dan pusat penjaja**, s
 dibiarkan panas dalam bekas besar dan dituang bila diminta, dan ia sama lazimnya beais daripada
 penyejuk. Ia juga salah satu minuman siap sedia yang paling meluas dijual — barley bertin (Yeo's
 antaranya) terletak di setiap rak pasar raya. Untuk dunia kedai kopi duduk-makan yang menjadi
-miliknya, lihat [budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture).
+miliknya, lihat [budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture).
 
 ## Apa yang seterusnya
 
 - Petakan barley terhadap papan minuman negara yang lebih luas dalam hub
-  [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
-- Temui penyegar "menyejukkan" seangkatannya dalam [cincau](/ms/food-lifestyle/cincau) dan
-  [air mata kucing](/ms/food-lifestyle/air-mata-kucing).
-- Nyahkod sepupu teh-limau dalam [teh-O ais limau](/ms/food-lifestyle/teh-o-ais-limau).
+  [minuman Malaysia](/food-lifestyle/malaysian-drinks).
+- Temui penyegar "menyejukkan" seangkatannya dalam [cincau](/food-lifestyle/cincau) dan
+  [air mata kucing](/food-lifestyle/air-mata-kucing).
+- Nyahkod sepupu teh-limau dalam [teh-O ais limau](/food-lifestyle/teh-o-ais-limau).

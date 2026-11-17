@@ -104,12 +104,12 @@ MICHELIN Guide menyenaraikan Chee Meng di bawah masakan Malaysia dalam tingkat
 jimat ($) dan menganugerahkannya Bib Gourmand — satu pengiktirafan yang memberi
 ganjaran kepada nilai dan bukannya kemewahan, yang sesuai untuk sebuah kedai nasi
 ayam yang lama bertapak. Untuk gambaran lebih luas tentang Panduan di Malaysia,
-lihat [MICHELIN Guide di Malaysia](/ms/food-lifestyle/michelin-guide-malaysia).
+lihat [MICHELIN Guide di Malaysia](/food-lifestyle/michelin-guide-malaysia).
 
 ## Ayam dan nasinya
 
 Seperti yang dijanjikan namanya, rumah ini pakar dalam
-[Hainanese chicken rice](/ms/food-lifestyle/hainanese-chicken-rice), dihidangkan
+[Hainanese chicken rice](/food-lifestyle/hainanese-chicken-rice), dihidangkan
 dengan pilihan ayam kukus atau goreng. Satu butiran yang ditonjolkan MICHELIN:
 Chee Meng menggunakan ayam tempatan dan bukannya baka Wenchang dari Hainan, yang
 menurut pemeriksa memberikan daging yang kurang berlemak, lebih lembut dan lebih

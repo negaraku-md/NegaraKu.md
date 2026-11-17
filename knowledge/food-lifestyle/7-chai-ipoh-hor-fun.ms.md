@@ -95,7 +95,7 @@ framework: profile
 
 7 Chai Ipoh Hor Fun ialah sebuah gerai mi yang kecil dan bersahaja di kawasan
 kejiranan Pandan Perdana, Kuala Lumpur, dan salah satu nama yang lebih terkini
-meraih tempat dalam pemilihan [MICHELIN Guide](/ms/food-lifestyle/michelin-guide-malaysia)
+meraih tempat dalam pemilihan [MICHELIN Guide](/food-lifestyle/michelin-guide-malaysia)
 Kuala Lumpur & Penang.
 
 ## Tentang gerai ini
@@ -128,8 +128,8 @@ Guide menyatakan bahawa tempahan diuruskan terus oleh gerai itu.
 Hor fun gaya Ipoh ialah salah satu eksport Perak yang paling digemari, dan versi
 yang baik telah tersebar di seluruh Lembah Klang apabila tukang masak dari
 wilayah itu menetap di Kuala Lumpur. Hidangan ini tergolong dalam keluarga lebih
-luas [hidangan mi Malaysia](/ms/food-lifestyle/malaysian-noodles), dan akarnya
-terletak pada budaya makanan [Ipoh](/ms/food-lifestyle/ipoh-food) yang terkenal,
+luas [hidangan mi Malaysia](/food-lifestyle/malaysian-noodles), dan akarnya
+terletak pada budaya makanan [Ipoh](/food-lifestyle/ipoh-food) yang terkenal,
 sebuah bandar yang airnya kaya mineral sering dikaitkan dengan kelicinan
 kuetiaunya dan kerangupan tauge.
 

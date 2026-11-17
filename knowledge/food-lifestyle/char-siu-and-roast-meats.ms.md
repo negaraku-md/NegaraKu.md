@@ -126,8 +126,8 @@ awet dan rebus. Ahli utamanya ialah char siu (daging khinzir bakar), *siu yoke*
 Di Malaysia tradisi ini merantau bersama pendatang Kantonis dan Cina selatan yang
 lain dan menetap menjadi institusi tersendiri: kedai daging panggang kejiranan,
 biasanya kedai kecil atau gerai penjuru di dalam
-[kopitiam](/ms/food-lifestyle/kopitiam-mamak-culture). Ia merupakan juzuk teras
-[masakan Cina Malaysia](/ms/food-lifestyle/chinese-malaysian-cuisine), dan daging
+[kopitiam](/food-lifestyle/kopitiam-mamak-culture). Ia merupakan juzuk teras
+[masakan Cina Malaysia](/food-lifestyle/chinese-malaysian-cuisine), dan daging
 di bawah ialah tonggak utamanya.
 
 ## Char siu: daging khinzir bakar bersalut madu
@@ -185,7 +185,7 @@ kaunter di banyak kedai, sebab itu gerai daging panggang dan kedai nasi ayam
 begitu kerap bertindih; kedai Sin Yuan yang diprofilkan oleh Malay Mail, contohnya,
 memasangkan siew yoke dan char siunya dengan ayam rebus. Pertindihan itu
 menghubungkan siu mei dengan dunia masakan unggas-dan-nasi Malaysia yang lebih
-luas, termasuk [nasi ayam Hainan](/ms/food-lifestyle/hainanese-chicken-rice).
+luas, termasuk [nasi ayam Hainan](/food-lifestyle/hainanese-chicken-rice).
 
 ## Di kedai daging panggang: dicincang mengikut pesanan
 
@@ -200,7 +200,7 @@ disusun di atas pinggan. Dari situ format yang biasa ialah:
   helai sayur yang dicelur. **Nasi campuran** (*siu mei fan*) menggabungkan dua
   atau tiga jenis daging dalam satu pinggan.
 - **Bersama mi** — char siu dan daging panggang ialah topping klasik untuk
-  [mi wantan](/ms/food-lifestyle/wonton-mee), di mana hirisan berkilat terletak di
+  [mi wantan](/food-lifestyle/wonton-mee), di mana hirisan berkilat terletak di
   sisi ladu di atas mi telur yang kenyal.
 - **Mengikut berat, untuk dibawa pulang** — satu bahagian dicincang dan dikotakkan
   untuk dibawa pulang, selalunya untuk hidangan keluarga.
@@ -220,7 +220,7 @@ Malah itik dan ayam pada cangkuk yang sama tidak halal apabila disediakan dan
 dijual di premis bukan halal. Dalam negara berbilang agama di mana majoriti
 penduduknya Muslim dan tidak makan daging khinzir, ini sekadar panduan berguna dan
 bukan penghakiman nilai — sebahagian daripada tampalan [masakan serantau dan
-etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) yang lebih luas yang
+etnik](/food-lifestyle/regional-and-ethnic-cuisines) yang lebih luas yang
 dipegang oleh komuniti berbeza.
 
 ## Char siu di luar pinggan
@@ -236,11 +236,11 @@ masakan Cina-Malaysia dari gerai penjaja ke rak kedai roti.
 
 ## Apa seterusnya
 
-- [Masakan Cina Malaysia](/ms/food-lifestyle/chinese-malaysian-cuisine) — tradisi
+- [Masakan Cina Malaysia](/food-lifestyle/chinese-malaysian-cuisine) — tradisi
   lebih luas yang menjadi tempat kedai daging panggang.
-- [Mi wantan](/ms/food-lifestyle/wonton-mee) — hidangan mi telur yang paling kerap
+- [Mi wantan](/food-lifestyle/wonton-mee) — hidangan mi telur yang paling kerap
   dinobatkan dengan char siu.
-- [Nasi ayam Hainan](/ms/food-lifestyle/hainanese-chicken-rice) — sepupu
+- [Nasi ayam Hainan](/food-lifestyle/hainanese-chicken-rice) — sepupu
   unggas-dan-nasi yang berkongsi banyak kedai yang sama.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   cara komuniti Malaysia makan, dan di mana siu mei sesuai.

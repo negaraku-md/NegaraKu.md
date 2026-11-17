@@ -123,8 +123,8 @@ gulai dan sos yang di tempat lain lebih masin atau tajam. Ini ialah pencirian
 yang banyak diulang dan bukannya fakta yang diukur, dan ia paling baik dianggap
 sebagai kecenderungan; tukang masak dan hidangan individu berbeza-beza. Masakan
 Terengganu tergolong antara cabang serantau yang tersendiri bagi
-[masakan Melayu](/ms/food-lifestyle/malay-cuisine), dan berada dalam peta
-[masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+[masakan Melayu](/food-lifestyle/malay-cuisine), dan berada dalam peta
+[masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
 Malaysia yang lebih luas.
 
 ## Nasi dagang dan gulai ikan tongkolnya
@@ -133,7 +133,7 @@ Jika satu hidangan mewakili Terengganu, itulah **nasi dagang** — secara harfia
 "nasi pedagang," satu nama yang biasanya dijelaskan dengan idea nasi yang dimakan
 oleh saudagar yang merantau, walaupun etimologinya belum pasti sepenuhnya. Ia
 terutamanya sarapan, dan ia membawa panduannya sendiri; lihat
-[nasi dagang](/ms/food-lifestyle/nasi-dagang) untuk hidangan itu secara penuh.
+[nasi dagang](/food-lifestyle/nasi-dagang) untuk hidangan itu secara penuh.
 
 Secara ringkas, beras — di Terengganu biasanya butiran pucat dan putih, sering
 digambarkan sebagai campuran beras biasa dengan beras pulut atau beras wangi —
@@ -188,7 +188,7 @@ pelbagai bentuk serantau dan umumnya difikirkan menggabungkan asal usul Melayu
 dan Peranakan. Di pantai timur ia bertindih dengan sata; di tempat lain — di
 Muar atau dalam kalangan Peranakan Pulau Pinang, umpamanya — ia mengambil bentuk,
 pembalut dan sos yang agak berbeza. Hidangan ini mempunyai panduannya sendiri di
-[otak-otak](/ms/food-lifestyle/otak-otak).
+[otak-otak](/food-lifestyle/otak-otak).
 
 ## Laksam dan mangkuk-mangkuk mi
 
@@ -237,11 +237,11 @@ yang paling berdikari dan mudah dikenali di Malaysia.
 
 ## Apa seterusnya
 
-- [Nasi dagang](/ms/food-lifestyle/nasi-dagang) — nasi kelapa dan gulai ikan
+- [Nasi dagang](/food-lifestyle/nasi-dagang) — nasi kelapa dan gulai ikan
   yang mentakrifkan sarapan pantai timur.
-- [Otak-otak](/ms/food-lifestyle/otak-otak) — bungkusan ikan bakar dalam pelbagai
+- [Otak-otak](/food-lifestyle/otak-otak) — bungkusan ikan bakar dalam pelbagai
   bentuk Malaysia dan serantaunya.
-- [Masakan Melayu](/ms/food-lifestyle/malay-cuisine) — tradisi lebih luas yang
+- [Masakan Melayu](/food-lifestyle/malay-cuisine) — tradisi lebih luas yang
   menjadi tempat makanan Terengganu tergolong.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   bagaimana setiap negeri dan komuniti Malaysia makan secara berbeza.

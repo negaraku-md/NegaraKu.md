@@ -95,7 +95,7 @@ framework: profile
 
 Hor Poh Cuisine ialah sebuah restoran Hakka yang bersahaja di daerah Segambut,
 Kuala Lumpur, dan salah satu pakar Hakka yang diiktiraf dalam pemilihan
-[MICHELIN Guide](/ms/food-lifestyle/michelin-guide-malaysia) Kuala Lumpur & Penang.
+[MICHELIN Guide](/food-lifestyle/michelin-guide-malaysia) Kuala Lumpur & Penang.
 
 ## Tentang restoran ini
 

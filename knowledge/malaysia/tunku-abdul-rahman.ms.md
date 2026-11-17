@@ -85,7 +85,7 @@ kemerdekaan tanpa perang dan menetapkan acuan bagi politik berbilang kaum
 Malaysia. Dihormati sebagai **Bapa Kemerdekaan** dan **Bapa Malaysia**, beliau
 mengetuai negara menerusi pengasasannya dan krisis-krisis besar pertamanya
 sebelum berundur pada 1970. Beliau diingati sebagai salah seorang
-[Perdana Menteri Malaysia](/ms/government/prime-ministers-of-malaysia) yang
+[Perdana Menteri Malaysia](/government/prime-ministers-of-malaysia) yang
 mentakrifkan negara moden.
 
 ## Zaman awal dan wangsa diraja Kedah
@@ -109,7 +109,7 @@ Kebangsaan Melayu Bersatu (UMNO). Beliau dipilih sebagai presiden UMNO pada **19
 dan mula memperluas gerakan kemerdekaan melangkaui satu komuniti tunggal (Wikipedia).
 Inovasi yang menentukan ialah kerjasama pilihan raya: UMNO bergabung dengan
 Persatuan Cina Malaya dan Kongres India Malaya untuk membentuk
-[Perikatan](/ms/malaysia/the-alliance), sebuah gabungan berbilang kaum yang menang
+[Perikatan](/malaysia/the-alliance), sebuah gabungan berbilang kaum yang menang
 besar dalam pilihan raya persekutuan 1955.
 
 Kemenangan menjadikan Tunku sebagai Ketua Menteri Persekutuan Tanah Melayu pada 1955,
@@ -128,7 +128,7 @@ tempat beliau membaca Pengisytiharan Kemerdekaan dan memimpin laungan Merdeka, k
 sebagai imej pengasasan negara (Pengisytiharan Kemerdekaan Tanah Melayu). Kerajaan
 awalnya mengejar pembangunan ekonomi, penambahbaikan luar bandar dan satu imbangan
 kepentingan kaum yang berhati-hati, sambil mengekalkan Tanah Melayu teguh dalam kem
-Barat, anti-komunis pada tahun-tahun penghujung [Darurat Malaya](/ms/malaysia/the-emergency).
+Barat, anti-komunis pada tahun-tahun penghujung [Darurat Malaya](/malaysia/the-emergency).
 
 ## Pembentukan Malaysia (1963) dan pemisahan Singapura (1965)
 
@@ -163,7 +163,7 @@ Krisis paling berat dalam kerjaya Tunku datang selepas pilihan raya umum 1969. P
 **13 Mei 1969**, keganasan kaum meletus di Kuala Lumpur; kerajaan persekutuan
 mengisytiharkan darurat, dan kuasa eksekutif berpindah kepada sebuah
 **Majlis Gerakan Negara** yang diketuai oleh timbalannya,
-[Abdul Razak Hussein](/ms/malaysia/abdul-razak-hussein) (Wikipedia). Walaupun Tunku
+[Abdul Razak Hussein](/malaysia/abdul-razak-hussein) (Wikipedia). Walaupun Tunku
 kekal sebagai Perdana Menteri pada nama, kuasanya berkurangan, dan satu generasi
 pemimpin UMNO yang lebih muda lebih menyukai hala tuju yang lebih tegas.
 
@@ -195,6 +195,6 @@ moden terbentuk.
 
 ## Apa seterusnya
 
-- [Perdana Menteri Malaysia](/ms/government/prime-ministers-of-malaysia)
-- [Perikatan](/ms/malaysia/the-alliance)
-- [Abdul Razak Hussein](/ms/malaysia/abdul-razak-hussein)
+- [Perdana Menteri Malaysia](/government/prime-ministers-of-malaysia)
+- [Perikatan](/malaysia/the-alliance)
+- [Abdul Razak Hussein](/malaysia/abdul-razak-hussein)

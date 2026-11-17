@@ -107,14 +107,14 @@ perayaan sebanyak penyegar — dituang di majlis perkahwinan Melayu, dihidangkan
 berbuka puasa Ramadan, dan dijual sepanjang tahun yang lain di gerai mamak serta troli
 pasar malam. Artikel ini ialah tinjauan mendalam tentang gelas merah jambu itu; untuk
 melihat kedudukannya dalam kalangan budaya minuman negara yang lebih luas, lihat hub
-[minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
+[minuman Malaysia](/food-lifestyle/malaysian-drinks).
 
 ## Apa itu sirap bandung
 
 Pada bentuk paling ringkasnya, sirap bandung ialah sirap berperisa mawar yang dicampur
 dengan susu dan air dan dihidangkan sejuk. Sirap itu ialah kordial mawar — asas mawar
 yang manis dan merah tua — dan susunya biasanya susu pekat atau susu sejat, susu tin yang
-sama yang memaniskan [kopi dan teh](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks)
+sama yang memaniskan [kopi dan teh](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks)
 Malaysia. Dikacau bersama dan dituang atas ais, keduanya menghasilkan minuman yang manis,
 berbunga dan berkrim serentak. Ia juga dikenali sebagai *air bandung*.
 
@@ -140,7 +140,7 @@ pilihan. Tukang masak berbeza pendapat tentang susu: sesetengahnya mencapai susu
 kekayaan, manakala yang lain lebih suka susu sejat dan memberi amaran bahawa susu pekat boleh
 menjadikan minuman itu "terlalu manis." Banyak versi gerai ditarik atau digoncang sehingga
 berbuih, jadi versi yang baik boleh tiba dengan kepala buih yang sedikit seperti
-[teh tarik](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks). Apa yang konsisten ialah
+[teh tarik](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks). Apa yang konsisten ialah
 tanda rasa: mawar dahulu, kemudian susu manis.
 
 ## Nama yang dipertikaikan
@@ -172,14 +172,14 @@ itu ialah yang paling tidak berkemungkinan antara penjelasan-penjelasan, bukan y
 Apa pun asal usulnya, tempat sirap bandung dalam kehidupan Malaysia tidak diragui. Ia terikat
 rapat dengan perayaan Melayu. Di majlis perkahwinan dan *kenduri* ia minuman lalai, dituang
 berjag-jag untuk tetamu bersama hidangan perayaan yang berat seperti *nasi beriani* dan
-[rendang](/ms/food-lifestyle/rendang). Semasa Ramadan ia salah satu minuman klasik untuk
+[rendang](/food-lifestyle/rendang). Semasa Ramadan ia salah satu minuman klasik untuk
 *iftar*, berbuka puasa, kemanisan dan kesejukannya satu ganjaran yang dialu-alukan ketika senja.
 Sebagaimana pelayan bar yang membina minuman pertandingan di sekitarnya menyatakan, "sirap
 bandung dinikmati oleh rakyat Malaysia pada musim perayaan atau ketika makan di luar."
 
-Ia minuman harian juga. Anda menemuinya di [gerai mamak](/ms/food-lifestyle/kopitiam-mamak-culture)
+Ia minuman harian juga. Anda menemuinya di [gerai mamak](/food-lifestyle/kopitiam-mamak-culture)
 24 jam dan pusat penjaja tempat begitu banyak kehidupan minum Malaysia berlaku, dan di troli pasar
-malam [pasar malam](/ms/food-lifestyle/pasar-malam-and-street-food). Ia menumpang kod pesanan
+malam [pasar malam](/food-lifestyle/pasar-malam-and-street-food). Ia menumpang kod pesanan
 bermodul yang sama seperti selebihnya papan kedai kopi: sebut *sirap bandung peng* atau *sirap
 bandung ais* dan anda mendapatnya atas ais. Oleh sebab ia minuman tidak beralkohol daripada sirap,
 susu dan air, ia duduk dengan selesa di perhimpunan Muslim dan pada menu halal; kaveat yang
@@ -195,7 +195,7 @@ Variasi lazim termasuk:
   bergas. Soda itu memberikan minuman ini, dalam satu gambaran, "sedikit desiran dan letupan."
   Campuran susu-mawar-dan-soda yang serupa di Indonesia dikenali dengan nama *soda gembira*.
 - **Bandung cincau** — sirap bandung yang dihidangkan dengan
-  [cincau](/ms/food-lifestyle/malaysian-drinks), jalur jeli herba yang lembut dan gelap yang
+  [cincau](/food-lifestyle/malaysian-drinks), jalur jeli herba yang lembut dan gelap yang
   dijatuhkan ke dalam minuman merah jambu itu sehingga ia menjadi separuh-minuman, separuh-pencuci
   mulut.
 - **Bandung cincau laici** — versi cincau dengan laici, dan **bandung selasih**, yang menambah
@@ -214,9 +214,9 @@ tentang betapa banyak beban budaya yang boleh dibawa oleh segelas merah jambu su
 
 ## Apa yang seterusnya
 
-- [Minuman Malaysia](/ms/food-lifestyle/malaysian-drinks) — hub yang memetakan sirap bandung
+- [Minuman Malaysia](/food-lifestyle/malaysian-drinks) — hub yang memetakan sirap bandung
   bersama dunia penyejuk, minuman herba dan jus yang lebih luas.
-- [Kopi, teh tarik dan minuman kedai kopi](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks) —
+- [Kopi, teh tarik dan minuman kedai kopi](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks) —
   panduan iringan kepada kod pesanan kopi-dan-teh yang dikongsi oleh sirap bandung.
-- [Budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture) — kedai kopi dan gerai
+- [Budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture) — kedai kopi dan gerai
   24 jam tempat kebanyakan gelas sirap bandung dituang.

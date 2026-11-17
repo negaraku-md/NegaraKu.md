@@ -93,13 +93,13 @@ pada harga berbaloi dan bukan bintang. Ia berada dalam kategori mi pada tahap
 harga terendah ($) dan ditandakan sebagai kedua-dua 'Worth Queueing For' dan
 tempat untuk 'eat like a local' (makan seperti penduduk tempatan). Untuk gambaran
 yang lebih luas, lihat
-[MICHELIN Guide di Malaysia](/ms/food-lifestyle/michelin-guide-malaysia).
+[MICHELIN Guide di Malaysia](/food-lifestyle/michelin-guide-malaysia).
 
 ## Laksa istimewa
 
 Mangkuk ini ialah **assam laksa (masam)** gaya Pulau Pinang — sup ikan yang
 dimasamkan dengan asam jawa tanpa santan, gaya utara yang tajam seperti yang
-diterangkan dalam gambaran [laksa](/ms/food-lifestyle/laksa). Apa yang membezakan
+diterangkan dalam gambaran [laksa](/food-lifestyle/laksa). Apa yang membezakan
 versi ini ialah sup yang dibina daripada **tiga jenis ikan** untuk kedalaman rasa,
 dituang ke atas *lai fun* (mi beras bulat tebal), dengan campuran rempah yang
 dilaras untuk mengimbangi rasa pedas, manis dan masam. Isi sardin tanpa tulang
@@ -111,7 +111,7 @@ mangkuk. Keluarga di sebalik gerai itu menggambarkan kraf itu sebagai mendapatka
 
 Senarai MICHELIN memberikan alamat sebagai 5 Lebuh Keng Kwee, George Town, 10100,
 Pulau Pinang — sebuah lorong pendek di luar Penang Road, di tengah
-[daerah makanan jalanan](/ms/food-lifestyle/penang-food) pulau itu. Tempat ini
+[daerah makanan jalanan](/food-lifestyle/penang-food) pulau itu. Tempat ini
 juga terkenal dengan gerai cendol di sebelahnya, menjadikan sudut itu ziarah
 klasik George Town.
 

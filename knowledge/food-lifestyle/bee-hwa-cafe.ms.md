@@ -106,7 +106,7 @@ Hokkien mee** (sup mi udang pulau itu) dan **char kway teow** Bee Hwa — ditumi
 dengan bawang putih cincang dan bukannya lemak khinzir, dalam adunan kicap yang
 digambarkan panduan ini sebagai pedas-manis. Sup hae mee berasaskan makanan laut
 dimasak segar setiap hari. Bersama-sama ia satu lawatan padat ke makanan ruji
-gerai yang mentakrifkan [makanan Pulau Pinang](/ms/food-lifestyle/penang-food).
+gerai yang mentakrifkan [makanan Pulau Pinang](/food-lifestyle/penang-food).
 
 ## Lokasi dan latar belakang
 

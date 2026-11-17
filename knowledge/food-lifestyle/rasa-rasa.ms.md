@@ -91,7 +91,7 @@ framework: profile
 **Rasa Rasa** ialah jenis tempat yang menjadi sebab MICHELIN Bib Gourmand
 diciptakan: sebuah ruang George Town yang kecil dan tidak berlagak — dinding
 bata terdedah, beberapa sentuhan industri yang dilembutkan oleh tumbuhan dalam
-pasu — menyajikan [masakan Nyonya](/ms/food-lifestyle/nyonya-peranakan-cuisine)
+pasu — menyajikan [masakan Nyonya](/food-lifestyle/nyonya-peranakan-cuisine)
 yang jujur pada harga yang hampir tidak mendaki ke angka dua digit. MICHELIN
 menyenaraikannya dalam jalur `$`, yang terendah, dan menganugerahkannya Bib
 untuk nilai yang baik.
@@ -99,7 +99,7 @@ untuk nilai yang baik.
 ## Sebuah ruang Peranakan Bib Gourmand
 
 Restoran ini ialah salah satu nama Penang dalam [MICHELIN Guide ke Kuala Lumpur
-dan Penang](/ms/food-lifestyle/michelin-guide-malaysia), ditandai "Family
+dan Penang](/food-lifestyle/michelin-guide-malaysia), ditandai "Family
 Friendly" dan dijalankan sebagai operasi siang dan bukannya destinasi makan
 malam. Bib Gourmand yang disandangnya bukan bintang tetapi satu pengiktirafan
 selari untuk makanan mampu milik yang dibuat dengan baik — iaitu tepatnya cara
@@ -126,5 +126,5 @@ diterima dan tempat duduk luar yang membenarkan haiwan peliharaan.
 Anggaplah ia hentian sarapan atau makan tengah hari, bukan rancangan makan
 malam: dapur ditutup pada waktu petang. Datanglah untuk set nasi lemak, dan
 sisakan ruang untuk tub tim krob. Ia duduk secara semula jadi dalam jelajah
-[makanan Penang](/ms/food-lifestyle/penang-food) George Town, menawarkan
+[makanan Penang](/food-lifestyle/penang-food) George Town, menawarkan
 imbangan Nyonya yang berduduk kepada gerai penjaja kota itu.

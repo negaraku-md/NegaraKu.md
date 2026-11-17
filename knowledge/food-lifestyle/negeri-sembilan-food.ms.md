@@ -124,9 +124,9 @@ ibu yang mana tanah dan harta pusaka diwarisi menerusi garis perempuan. Ia masih
 membentuk kehidupan keluarga dan pemilikan tanah di sebahagian Negeri Sembilan,
 Melaka dan Johor, dan ia merupakan kerangka budaya tempat masakan negeri ini
 diwariskan daripada ibu kepada anak perempuan. Makanan di sini ialah kedua-dua
-varian serantau [masakan Melayu](/ms/food-lifestyle/malay-cuisine) dan ungkapan
+varian serantau [masakan Melayu](/food-lifestyle/malay-cuisine) dan ungkapan
 hidup warisan Sumatera itu — salah satu entri yang lebih tersendiri pada peta
-[masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+[masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
 Malaysia yang lebih luas.
 
 ## Masak lemak cili api: hidangan tanda kebesaran negeri
@@ -170,7 +170,7 @@ rempah yang berat terlebih dahulu, membiarkan dua bahan aromatik utama itu
 bercakap dengan jelas menerusi santan. Hasilnya ialah masakan yang dibaca sebagai
 lebih pedas dan lebih menonjolkan kunyit daripada masakan kebanyakan negeri jiran
 — sepupu kepada, tetapi berbeza daripada, keluarga
-[kari Malaysia](/ms/food-lifestyle/malaysian-curries) yang lebih luas.
+[kari Malaysia](/food-lifestyle/malaysian-curries) yang lebih luas.
 
 ## Daging salai: tradisi daging salai
 
@@ -192,7 +192,7 @@ satu teknik yang wujud sebelum penyejukbekuan dan terus hidup atas dasar citaras
 ## Rendang, cara Negeri Sembilan
 
 Sebagai negeri Minangkabau, Negeri Sembilan turut berkongsi warisan
-[rendang](/ms/food-lifestyle/rendang), kari daging kering yang dimasak perlahan
+[rendang](/food-lifestyle/rendang), kari daging kering yang dimasak perlahan
 yang dibawa oleh Minangkabau merentasi rantau ini. Versi negeri ini sendiri
 sering digambarkan kurang bersandar pada campuran rempah kering yang berat dan
 lebih pada bahan aromatik — halia, lengkuas, serai dan banyak santan — walaupun
@@ -204,7 +204,7 @@ satu renehan kering yang pekat, satu lagi kuah cair yang pedas.
 Dihidangkan dengan nasi — dan selalunya dengan *ulam* (herba dan sayur mentah)
 serta sambal — hidangan-hidangan ini membentuk satu jamuan yang jelas Melayu
 namun tidak keliru lagi tempatan. Benang santan itu turut mengalir menerusi
-hidangan ruji kebangsaan [nasi lemak](/ms/food-lifestyle/nasi-lemak), satu
+hidangan ruji kebangsaan [nasi lemak](/food-lifestyle/nasi-lemak), satu
 peringatan betapa pentingnya kelapa di seluruh masakan Malaysia, biarpun setiap
 rantau membengkokkannya untuk tujuannya sendiri.
 
@@ -227,10 +227,10 @@ oleh satu masyarakat Sumatera dan dijadikan milik mereka sendiri di sembilan
 
 ## Apa seterusnya
 
-- [Rendang](/ms/food-lifestyle/rendang) — kari daging kering Minangkabau yang
+- [Rendang](/food-lifestyle/rendang) — kari daging kering Minangkabau yang
   menjadi teras meja perayaan Negeri Sembilan.
-- [Masakan Melayu](/ms/food-lifestyle/malay-cuisine) — tradisi nasi, *rempah* dan
+- [Masakan Melayu](/food-lifestyle/malay-cuisine) — tradisi nasi, *rempah* dan
   sambal yang lebih luas yang menjadi milik masakan Negeri Sembilan.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   bagaimana negeri-negeri dan masyarakat Malaysia masing-masing makan secara
   berbeza.

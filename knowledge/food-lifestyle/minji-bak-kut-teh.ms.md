@@ -110,7 +110,7 @@ dibawa merentas tiga generasi tanpa berubah.
 
 ## Hidangan
 
-[Bak kut teh](/ms/food-lifestyle/bak-kut-teh) ialah sup tulang rusuk babi
+[Bak kut teh](/food-lifestyle/bak-kut-teh) ialah sup tulang rusuk babi
 Malaysia yang direneh dengan herba dan rempah, dan versi Minji digambarkan oleh
 MICHELIN Guide sebagai **berherba dan manis secara semula jadi**, daripada resipi
 yang **tidak berubah selama 80 tahun**. Anda memilih potongan daging babi anda —

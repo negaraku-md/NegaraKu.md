@@ -91,7 +91,7 @@ sahaja, dengan cara yang sama, sejak 1962.
 
 BM Cathay Pancake memegang MICHELIN **Bib Gourmand** — tanda untuk masakan
 berkualiti baik pada harga berbaloi — dalam
-[MICHELIN Guide Kuala Lumpur & Penang](/ms/food-lifestyle/michelin-guide-malaysia),
+[MICHELIN Guide Kuala Lumpur & Penang](/food-lifestyle/michelin-guide-malaysia),
 di mana pemeriksa menandainya sebagai Worth Queueing For. Pengiktirafan itu luar
 biasa untuk sebuah gerai dengan menu satu sahaja.
 
@@ -101,7 +101,7 @@ Gerai beroda ini menjual **apam balik** sahaja, lempeng Malaysia yang dimasak di
 atas kuali dan dilipat ke atas inti manis. Versi BM Cathay dipanggang arang dan
 dipadatkan dengan gula dan kacang, dimasak atas pesanan supaya setiap satu tiba
 panas — rangup di luar, kenyal di dalam. Ia sebahagian daripada
-[budaya makanan](/ms/food-lifestyle/penang-food) Pulau Pinang yang lebih luas,
+[budaya makanan](/food-lifestyle/penang-food) Pulau Pinang yang lebih luas,
 diangkat di sini oleh berdekad-dekad pengulangan satu resipi.
 
 ## Di mana ia terletak

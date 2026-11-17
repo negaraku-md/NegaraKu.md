@@ -127,9 +127,9 @@ Penumpuan dalam ekuiti tersenarai ini sebenarnya telah *menurun* dalam tempoh du
 
 Tidak sekata. Pemilikan GLIC berkelompok dalam bahagian ekonomi yang padat modal, dikawal selia, atau sensitif secara strategik — sektor yang paling kerajaan enggan serahkan sepenuhnya kepada tangan swasta.
 
-- **Perbankan dan kewangan** — [Maybank](/ms/companies/maybank) (bank terbesar negara, dikawal melalui PNB), [CIMB Group](/ms/companies/cimb) dan RHB Bank semuanya bertunjangkan GLIC. Semakan selama sedekad mendapati GLIC memegang sekurang-kurangnya 30% kepentingan ekuiti dalam 46 syarikat tersenarai, dengan bank-bank besar antara yang paling stabil prestasinya.
+- **Perbankan dan kewangan** — [Maybank](/companies/maybank) (bank terbesar negara, dikawal melalui PNB), [CIMB Group](/companies/cimb) dan RHB Bank semuanya bertunjangkan GLIC. Semakan selama sedekad mendapati GLIC memegang sekurang-kurangnya 30% kepentingan ekuiti dalam 46 syarikat tersenarai, dengan bank-bank besar antara yang paling stabil prestasinya.
 - **Utiliti dan tenaga** — Tenaga Nasional mengendalikan grid negara; Gas Malaysia dan unit tersenarai berkaitan Petronas meliputi gas dan petrokimia. Utiliti hampir kepada monopoli negara semula jadi, jadi pemilikan GLIC di sini adalah paling mendalam.
-- **Telekomunikasi** — [Telekom Malaysia](/ms/companies/telekom-malaysia) (syarikat mapan talian tetap dan jalur lebar) dan pemain pusat data TIME dotCom berdampingan dengan kepentingan GLIC dalam pengendali mudah alih.
+- **Telekomunikasi** — [Telekom Malaysia](/companies/telekom-malaysia) (syarikat mapan talian tetap dan jalur lebar) dan pemain pusat data TIME dotCom berdampingan dengan kepentingan GLIC dalam pengendali mudah alih.
 - **Perladangan** — [Sime Darby](/companies/sime-darby-group) dan Boustead Plantations meletakkan negara di tengah-tengah ekonomi minyak sawit Malaysia.
 
 Corak umumnya konsisten: cengkaman negara paling ketat dalam infrastruktur dan kewangan, lebih longgar dalam sektor menghadap pengguna dan pembuatan eksport di mana firma swasta dan asing mendahului.

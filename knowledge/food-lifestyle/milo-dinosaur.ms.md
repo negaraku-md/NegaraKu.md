@@ -111,7 +111,7 @@ minuman. Ia salah satu pesanan paling mudah dikenali di papan kedai kopi, dan �
 kebanyakan minuman jalanan terbaik di rantau ini — ia idea ringkas yang diputuskan oleh
 seseorang untuk dijadikan berlebih-lebihan dengan hebatnya. Untuk melihat kedudukannya dalam
 kalangan dunia minuman negara yang lebih luas, lihat
-[hub minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
+[hub minuman Malaysia](/food-lifestyle/malaysian-drinks).
 
 ## Apa itu Milo dinosaur
 
@@ -151,9 +151,9 @@ tiada satu pun daripadanya ditakrifkan dengan kaku.
 Milo dinosaur tergolong dalam **gerai mamak** — kedai makan Muslim-India dan kedai kopi terbuka
 yang antara ruang paling demokratik dalam kehidupan Malaysia, buka lewat, murah, dan menghidangkan
 semua orang. Di situlah, dan di kopitiam, minuman ini menjadi satu standard. Untuk gerai-gerai itu
-sendiri, lihat [budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture); untuk kod
+sendiri, lihat [budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture); untuk kod
 pesanan yang dikongsi oleh minuman-minuman ini, lihat
-[kopi, teh tarik dan minuman kedai kopi](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
+[kopi, teh tarik dan minuman kedai kopi](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
 
 Siapa yang menciptanya, bagaimanapun, **benar-benar dipertikaikan antara Malaysia dan Singapura**,
 dan sumbernya tidak menyelesaikannya. Kedua-dua negara mewarisi Milo daripada era yang sama —
@@ -212,8 +212,8 @@ dan kedai kopi, bukan pengilang.
 ## Apa yang seterusnya
 
 - Petakan papan minuman penuh, daripada sirap bandung ke teh gelembung, dalam
-  [hub minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
+  [hub minuman Malaysia](/food-lifestyle/malaysian-drinks).
 - Nyahkod kod pesanan yang dikongsi — *ais*, *kosong*, *gao*, *O* dan *C* — dalam
-  [kopi, teh tarik dan minuman kedai kopi](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
+  [kopi, teh tarik dan minuman kedai kopi](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
 - Temui gerai tempat dinosaur ini hidup dalam
-  [budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture).
+  [budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture).

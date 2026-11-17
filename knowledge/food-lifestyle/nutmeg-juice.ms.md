@@ -104,7 +104,7 @@ masuk ke dalam minuman. Jadi jus buah pala dan buah pala di dapur anda datang da
 sama tetapi daripada bahagian yang sama sekali berbeza; jusnya ialah buahnya, bukan rempahnya.
 
 Untuk melihat kedudukan jus buah pala dalam kalangan papan minuman negara yang lebih luas, lihat
-hub [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks). Artikel ini ialah tinjauan mendalam
+hub [minuman Malaysia](/food-lifestyle/malaysian-drinks). Artikel ini ialah tinjauan mendalam
 tentang penyejuk Pulau Pinang itu sendiri.
 
 ## Putih, perang, dan sebiji buah plum masam
@@ -125,7 +125,7 @@ itu telah menanamnya sejak itu — itulah sebabnya jus buah pala begitu kukuh me
 Pinang* dan bukannya minuman seluruh negara. Sebahagian besar buahnya datang daripada ladang di
 sekitar **Balik Pulau** dan **Teluk Bahang**, tempat pembuat yang telah lama beroperasi seperti
 kilang buah pala **Ghee Hup** memerah jusnya dan juga menjadikan buahnya buah pala jeruk dan
-bergula. Untuk dunia makanan pulau yang lebih luas, lihat [makanan Pulau Pinang](/ms/food-lifestyle/penang-food).
+bergula. Untuk dunia makanan pulau yang lebih luas, lihat [makanan Pulau Pinang](/food-lifestyle/penang-food).
 
 Satu nota berjaga-jaga dan bukannya kebimbangan: biji buah pala *itulah*, dimakan dalam kuantiti,
 yang menjadi toksin yang diketahui — minuman ini dibuat daripada isi buahnya, dan sebarang reputasi
@@ -137,12 +137,12 @@ Jus buah pala ialah minuman jalanan dan pasar Pulau Pinang, dituang sejuk-beku d
 dan medan selera, dan paling dikaitkan dengan George Town dan kawasan buah pala Balik Pulau. Jika
 anda tidak dapat ke pulau itu, **konsentrat berbotol** daripada pembuat buah pala Pulau Pinang
 membolehkan anda mencampurnya di rumah. Di sebelahnya pada rak minuman menyejukkan terletak
-[air mata kucing](/ms/food-lifestyle/air-mata-kucing) yang berherba.
+[air mata kucing](/food-lifestyle/air-mata-kucing) yang berherba.
 
 ## Apa yang seterusnya
 
 - Petakan jus buah pala terhadap papan minuman negara yang lebih luas dalam hub
-  [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
-- Terokai dunia makanan pulau yang lebih luas dalam [makanan Pulau Pinang](/ms/food-lifestyle/penang-food).
+  [minuman Malaysia](/food-lifestyle/malaysian-drinks).
+- Terokai dunia makanan pulau yang lebih luas dalam [makanan Pulau Pinang](/food-lifestyle/penang-food).
 - Temui satu lagi penyejuk berherba yang disejukkan dalam
-  [air mata kucing](/ms/food-lifestyle/air-mata-kucing).
+  [air mata kucing](/food-lifestyle/air-mata-kucing).

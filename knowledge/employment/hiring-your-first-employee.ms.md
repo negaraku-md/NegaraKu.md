@@ -94,7 +94,7 @@ aturannya dengan betul itulah yang membezakan permulaan yang kemas daripada
 kelam-kabut borang bertarikh ke belakang.
 
 Ini ialah pelengkap operasi kepada
-[senarai semak pendaftaran berkanun pekerja baharu](/ms/employment/new-hire-statutory-checklist),
+[senarai semak pendaftaran berkanun pekerja baharu](/employment/new-hire-statutory-checklist),
 yang memiliki tarikh akhir, kadar dan nombor seksyen. Panduan ini pula menyusuri
 **perjalanannya** — tawaran, kontrak, persediaan, gaji pertama — dan tugasan
 praktikal pada setiap langkah. Dua perkara di halaman ini benar-benar intipatinya
@@ -154,7 +154,7 @@ apa jua keadaan. Cara setiap klausa sebenarnya berfungsi — terma tak sah yang
 jatuh di bawah Akta, keperluan notis sama rata, potongan yang sah di sisi
 undang-undang, dan jangkaan bahawa gaji dibayar ke dalam akaun bank — dinyatakan
 klausa demi klausa dalam
-[panduan kontrak pekerjaan Malaysia](/ms/employment/employment-contract-malaysia).
+[panduan kontrak pekerjaan Malaysia](/employment/employment-contract-malaysia).
 Gunakan artikel itu untuk menetapkan terma dengan betul; artikel ini hanya
 mengingatkan anda untuk mengeluarkan kontrak dan bukannya bersandar pada tawaran.
 
@@ -182,7 +182,7 @@ sebagai majikan dengan **EPF (KWSP)**, **SOCSO dan EIS (PERKESO)** dan **LHDN**
 sebelum pusingan gaji pertama. Jika anda belum lagi, pendaftaran itu didahulukan —
 tempoh yang tepat (dan, bagi pengambilan bukan warganegara, langkah kelulusan awal
 yang mesti mendahului tarikh mula) dimiliki oleh
-[senarai semak berkanun pekerja baharu](/ms/employment/new-hire-statutory-checklist).
+[senarai semak berkanun pekerja baharu](/employment/new-hire-statutory-checklist).
 Daftar dahulu, kemudian jalankan gaji.
 
 **B. Kumpulkan butiran pekerja.** Inilah inti operasi peringkat ini. Sebelum anda
@@ -225,7 +225,7 @@ pautkan dan bukannya menyusuri skrin:
   pekerja baharu **CP22** anda mengikat pengambilan itu ke dalam sistem LHDN.
   Mekanik tepat sama ada CP22 mewujudkan fail cukai atau pekerja yang mendaftar
   berbaloi disahkan di laman LHDN; tarikh akhir CP22 itu sendiri ada dalam
-  [senarai semak berkanun](/ms/employment/new-hire-statutory-checklist).
+  [senarai semak berkanun](/employment/new-hire-statutory-checklist).
 
 ## Peringkat 5 — Pusingan gaji pertama
 
@@ -253,8 +253,8 @@ gaji minimum, dan setiap tarikh akhir pembayaran **tidak diterbitkan semula di s
 dengan sengaja** — ia berubah, dan mengambilnya daripada sumber sekunder yang
 basi itulah cara pusingan gaji pertama tersilap. Baca ia daripada jadual rasmi dan
 daripada
-[pematuhan gaji Malaysia](/ms/employment/payroll-compliance-malaysia) dan
-[kadar dan tarikh akhir gaji](/ms/employment/payroll-rates-deadlines-malaysia),
+[pematuhan gaji Malaysia](/employment/payroll-compliance-malaysia) dan
+[kadar dan tarikh akhir gaji](/employment/payroll-rates-deadlines-malaysia),
 dan ingat (seperti yang dicatat senarai semak) bahawa EPF dibaca daripada jadual
 amaun tetap, bukan dikenakan sebagai peratusan rata, sehingga siling tersebut.
 
@@ -280,7 +280,7 @@ rekodkannya dalam diari dan bukannya menghafal satu nombor yang mungkin berubah.
   Label tidak menentukannya — hakikat yang menentukan, dan pendedahannya
   berganda-ganda (tunggakan EPF, SOCSO dan EIS, cukai, kesalahan Akta Pekerjaan dan
   tuntutan pemecatan tidak adil semuanya serentak). Lihat
-  [pekerja, pekerja gig atau kontraktor bebas?](/ms/employment/employee-vs-contractor-malaysia).
+  [pekerja, pekerja gig atau kontraktor bebas?](/employment/employee-vs-contractor-malaysia).
 - **Terlupa PCB dari bulan pertama** (dan melangkau TP3), menyebabkan cukai
   terkumpul tahun semasa tersalah dan pekerja terkurang potong.
 - **Tiada kontrak bertulis**, meninggalkan terma percubaan, notis dan cuti terdedah
@@ -292,10 +292,10 @@ rekodkannya dalam diari dan bukannya menghafal satu nombor yang mungkin berubah.
 ## Apa seterusnya
 
 - Tarikh akhir, kadar dan nombor seksyen di sebalik setiap langkah di atas:
-  [senarai semak pendaftaran berkanun pekerja baharu](/ms/employment/new-hire-statutory-checklist)
+  [senarai semak pendaftaran berkanun pekerja baharu](/employment/new-hire-statutory-checklist)
 - Terma yang mengikat, klausa demi klausa:
-  [kontrak pekerjaan Malaysia](/ms/employment/employment-contract-malaysia)
+  [kontrak pekerjaan Malaysia](/employment/employment-contract-malaysia)
 - Kalendar bulanan sebaik gaji mula berjalan:
-  [pematuhan gaji Malaysia](/ms/employment/payroll-compliance-malaysia)
+  [pematuhan gaji Malaysia](/employment/payroll-compliance-malaysia)
 - Cerminannya, apabila seseorang pergi:
-  [seorang pekerja pergi — serah tugas operasi](/ms/technology/when-an-employee-leaves-operational-handover)
+  [seorang pekerja pergi — serah tugas operasi](/technology/when-an-employee-leaves-operational-handover)

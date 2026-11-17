@@ -103,13 +103,13 @@ menyenaraikannya pada tahap harga `$$$$`. Alamatnya ialah P11, Bamboo Hills, di
 sisi DUKE, di Segambut — sebuah 「lush green oasis outside the city centre」,
 dalam kata-kata Guide, dan bukannya ruang santapan di tengah bandar. Ia merupakan
 cabang daripada pasukan di sebalik Entier French Dining, dan terletak antara
-alamat [fine-dining](/ms/food-lifestyle/fine-dining-malaysia) terkemuka di bandar
+alamat [fine-dining](/food-lifestyle/fine-dining-malaysia) terkemuka di bandar
 ini.
 
 ## Pengiktirafan MICHELIN
 
 Potager muncul dalam pemilihan
-[MICHELIN Guide Kuala Lumpur & Penang](/ms/food-lifestyle/michelin-guide-malaysia)
+[MICHELIN Guide Kuala Lumpur & Penang](/food-lifestyle/michelin-guide-malaysia)
 2026, di mana senarai penuh yang diterbitkan meletakkannya dalam kategori
 **「Selected」** — satu bentuk pengiktirafan MICHELIN yang berada di bawah tahap
 bintang satu. Laporan sekunder mencatatkan ia sebelum ini membawa pengiktirafan

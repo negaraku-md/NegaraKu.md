@@ -78,7 +78,7 @@ framework: profile
 De. Wan 1958 ialah sebuah restoran Malaysia di The LINC KL di Taman U Thant,
 Kuala Lumpur, yang dikaitkan dengan chef selebriti Malaysia yang dikenali
 sebagai Chef Wan. Ia muncul dalam
-[MICHELIN Guide Malaysia](/ms/food-lifestyle/michelin-guide-malaysia) dengan Bib
+[MICHELIN Guide Malaysia](/food-lifestyle/michelin-guide-malaysia) dengan Bib
 Gourmand.
 
 ## Bib Gourmand daripada chef selebriti
@@ -99,7 +99,7 @@ limau yang diserikan dengan sedikit sos ikan. Untuk hidangan utama, ia merujuk
 kepada **bakar bakar** — daging atau makanan laut yang dibakar dan dihidangkan
 dengan pilihan sos chef — dan mencatatkan bahawa bahagian hidangan banyak dan
 sesuai untuk dikongsi. Masakannya terletak dalam
-[tradisi masakan Melayu](/ms/food-lifestyle/malay-cuisine) Malaysia yang luas.
+[tradisi masakan Melayu](/food-lifestyle/malay-cuisine) Malaysia yang luas.
 
 ## Di mana untuk mencarinya
 

@@ -108,14 +108,14 @@ babi panggangnya dan sos cilinya.
 Duck Blood Curry Mee ialah kedai makanan jalanan yang diiktiraf dalam MICHELIN
 Guide sebagai pilihan **Bib Gourmand** — anugerah Guide bagi masakan bermutu baik
 dan berbaloi, yang sering diberikan kepada tempat penjaja dan bergaya kafe (lihat
-[MICHELIN Guide di Malaysia](/ms/food-lifestyle/michelin-guide-malaysia) untuk
+[MICHELIN Guide di Malaysia](/food-lifestyle/michelin-guide-malaysia) untuk
 memahami cara anugerah ini berfungsi). Senarai itu menggambarkannya sebagai
 tersembunyi dalam sebuah kafe bergaya Malaysia; ia berhawa dingin, menerima tunai
 sahaja, dan tidak tersedia untuk tempahan.
 
 ## Semangkuk istimewa
 
-Kedai ini menghidangkan [curry mee](/ms/food-lifestyle/curry-mee) — mi dalam kuah
+Kedai ini menghidangkan [curry mee](/food-lifestyle/curry-mee) — mi dalam kuah
 kari santan. Senarai MICHELIN menggambarkan sebuah “kuah kari putih masin-manis”
 yang dibuat daripada santan yang “disediakan segar setiap hari”. Antara pelengkap
 yang ditawarkan, Guide mengetengahkan daging babi panggang sebagai “luar biasa,”

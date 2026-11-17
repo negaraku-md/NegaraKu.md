@@ -94,7 +94,7 @@ framework: profile
 Masakan Peranakan memerlukan banyak tenaga, resipinya dijaga rapi dan amat
 bersifat domestik, dan itulah sebabnya versi restoran yang baik terasa seperti
 satu keistimewaan. Bibik's Kitchen, di Jalan Sri Bahari, memperoleh taraf itu
-dengan sekeping [Bib Gourmand](/ms/food-lifestyle/michelin-guide-malaysia)
+dengan sekeping [Bib Gourmand](/food-lifestyle/michelin-guide-malaysia)
 MICHELIN Guide.
 
 ## Apa ia
@@ -109,7 +109,7 @@ dengan motif Nyonya klasik.
 ## Masakannya
 
 Menu ini berjalan atas resipi keluarga warisan pemiliknya — teras
-[masakan Nyonya Peranakan](/ms/food-lifestyle/nyonya-peranakan-cuisine). MICHELIN
+[masakan Nyonya Peranakan](/food-lifestyle/nyonya-peranakan-cuisine). MICHELIN
 mengesyorkan jiu hu char (sengkuang parut dan sotong yang digoreng kilas) dan
 loh bak, serta mencatatkan bahawa hidangannya sedikit kurang pedas berbanding
 versi di tempat lain. Hidangan datang dalam tiga saiz, yang memudahkan untuk
@@ -118,7 +118,7 @@ dikongsi di meja.
 ## Di mana mencarinya
 
 Restoran ini terletak di 73 Jalan Sri Bahari, George Town, 10050, dalam peta
-[makanan Pulau Pinang](/ms/food-lifestyle/penang-food) yang lebih luas di daerah
+[makanan Pulau Pinang](/food-lifestyle/penang-food) yang lebih luas di daerah
 warisan. Ia dibuka Selasa hingga Ahad dan tutup pada hari Isnin.
 
 ## Sebuah meja keluarga

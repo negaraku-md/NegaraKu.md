@@ -100,7 +100,7 @@ Kuching terletak di tebing Sungai Sarawak, jarak singkat ke pedalaman dari pesis
 
 Suasananya tidak tergesa-gesa dan rendah berbanding bandar-bandar Malaysia. Jantung warisan padat dan mudah dijalani kaki: promenad tepi sungai yang dipulihkan di tebing selatan, barisan rumah kedai lama, tokong, masjid dan bangunan awam era kolonial, dengan kubu dan istana tebing utara memandang kembali merentasi air. Kuching mempunyai reputasi untuk kebersihan dan keharmonian kaum — Yayasan 1Malaysia mengisytiharkannya sebagai "Bandar Perpaduan" pada 2015, memetik tepat perkara itu ([Wikipedia](https://en.wikipedia.org/wiki/Kuching)). Bagi pelawat, hasil praktikalnya ialah anda boleh melihat bandar dengan berjalan kaki dan lintasan sungai singkat, kemudian menggunakannya sebagai pangkalan selesa untuk lawatan sehari ke kawasan yang lebih liar.
 
-Satu perkara untuk difahami sebelum anda tiba: Sarawak mengendalikan imigresennya sendiri, kuasa yang dikekalkannya ketika ia membantu membentuk Malaysia pada 1963. Walaupun pada penerbangan domestik dari Semenanjung Malaysia anda melepasi pemeriksaan pasport ketika ketibaan — keanehan yang diterangkan sepenuhnya dalam [panduan pelawat Sarawak](/ms/tourism/sarawak-visitor-guide).
+Satu perkara untuk difahami sebelum anda tiba: Sarawak mengendalikan imigresennya sendiri, kuasa yang dikekalkannya ketika ia membantu membentuk Malaysia pada 1963. Walaupun pada penerbangan domestik dari Semenanjung Malaysia anda melepasi pemeriksaan pasport ketika ketibaan — keanehan yang diterangkan sepenuhnya dalam [panduan pelawat Sarawak](/tourism/sarawak-visitor-guide).
 
 ## Mengapa Kuching dipanggil Bandar Kucing?
 
@@ -128,7 +128,7 @@ Kuching ialah salah satu daripada sedikit tempat di dunia yang dibentuk oleh din
 
 Tiga Brooke memerintah berturut-turut — James, anak saudaranya Charles, dan anak Charles, Charles Vyner. Di bawah Charles Brooke khususnya, pekan ini memperoleh hospital, penjara, Fort Margherita dan sebahagian besar seni bina awamnya ([Wikipedia](https://en.wikipedia.org/wiki/Kuching)). Satu abad dinasti itu berakhir selepas pendudukan Jepun Perang Dunia Kedua, apabila Charles Vyner Brooke menyerahkan Sarawak kepada Mahkota British pada 1 Julai 1946 ([Wikipedia](https://en.wikipedia.org/wiki/Kuching)). Sarawak kemudian menyertai Persekutuan Malaysia pada 1963, dan Kuching — ibu negerinya sepanjang masa itu — menerima taraf bandar raya rasmi pada 1988 ([Wikipedia](https://en.wikipedia.org/wiki/Kuching)).
 
-Anda boleh membaca sejarah ini daripada bangunan: Astana dan mahkamah lama sebagai kerusi kuasa Brooke, Fort Margherita sebagai pertahanannya, dan Galeri Brooke di dalam kubu sebagai catatan yang dikurasi. Untuk rangka lebih luas tentang bagaimana warisan ini bersesuaian dengan kisah Malaysia, lihat [pelancongan warisan budaya di Malaysia](/ms/tourism/cultural-heritage-tourism-malaysia).
+Anda boleh membaca sejarah ini daripada bangunan: Astana dan mahkamah lama sebagai kerusi kuasa Brooke, Fort Margherita sebagai pertahanannya, dan Galeri Brooke di dalam kubu sebagai catatan yang dikurasi. Untuk rangka lebih luas tentang bagaimana warisan ini bersesuaian dengan kisah Malaysia, lihat [pelancongan warisan budaya di Malaysia](/tourism/cultural-heritage-tourism-malaysia).
 
 ## Muzium mana yang berbaloi dengan masa anda?
 
@@ -150,7 +150,7 @@ Kelebihan sebenar Kuching ialah alam semula jadi dan budaya bertaraf dunia terle
 
 Kampung Budaya Sarawak juga menjadi pentas **Rainforest World Music Festival**, sambutan tahunan tiga hari muzik dunia dan orang asal yang telah diadakan di sana sejak 1998 dan menarik orang ramai antarabangsa, umumnya pada pertengahan tahun ([Rainforest World Music Festival](https://en.wikipedia.org/wiki/Rainforest_World_Music_Festival)). Jika tarikh anda fleksibel, ia salah satu acara menonjol rantau ini — sahkan tarikh semasa di laman festival rasmi.
 
-Untuk destinasi di luar lawatan sehari — gua UNESCO [Taman Negara Gunung Mulu](/ms/tourism/gunung-mulu-national-park) dan gambaran penuh peraturan kemasukan dan rantau Sarawak — lihat [panduan pelawat Sarawak](/ms/tourism/sarawak-visitor-guide), yang mengekalkan pandangan seluruh negeri supaya panduan ini boleh kekal pada bandar.
+Untuk destinasi di luar lawatan sehari — gua UNESCO [Taman Negara Gunung Mulu](/tourism/gunung-mulu-national-park) dan gambaran penuh peraturan kemasukan dan rantau Sarawak — lihat [panduan pelawat Sarawak](/tourism/sarawak-visitor-guide), yang mengekalkan pandangan seluruh negeri supaya panduan ini boleh kekal pada bandar.
 
 ## Apa yang memberikan Kuching keperibadiannya?
 
@@ -162,7 +162,7 @@ Kepelbagaian budaya harian ini, dan bukan mana-mana monumen tunggal, ialah apa y
 
 **Melalui udara.** Lapangan Terbang Antarabangsa Kuching (kod lapangan terbang KCH) ialah pintu masuk utama ke selatan Sarawak, dengan sambungan dari Kuala Lumpur dan hab Malaysia serta serantau lain ([Wikipedia](https://en.wikipedia.org/wiki/Kuching)). Semak laluan dan syarikat penerbangan semasa sebelum menempah, kerana jadual berubah. Lapangan terbang jarak pemanduan singkat dari pusat bandar.
 
-**Imigresen ketika ketibaan.** Ingat bahawa Sarawak melepaskan semua orang menerusi imigresennya sendiri: rakyat Malaysia dari negeri lain dikeluarkan pas pada MyKad mereka, dan pelawat asing menerima cop kemasukan Sarawak berasingan di atas kemasukan Malaysia mereka, jadi simpan pasport anda bersedia walaupun pada peringkat domestik ([Wikipedia](https://en.wikipedia.org/wiki/Kuching)). Mekanismenya dinyatakan dalam [panduan pelawat Sarawak](/ms/tourism/sarawak-visitor-guide); untuk gambaran seluruh Malaysia lihat [cara bergerak di Malaysia untuk pelancong](/ms/tourism/getting-around-malaysia-for-tourists).
+**Imigresen ketika ketibaan.** Ingat bahawa Sarawak melepaskan semua orang menerusi imigresennya sendiri: rakyat Malaysia dari negeri lain dikeluarkan pas pada MyKad mereka, dan pelawat asing menerima cop kemasukan Sarawak berasingan di atas kemasukan Malaysia mereka, jadi simpan pasport anda bersedia walaupun pada peringkat domestik ([Wikipedia](https://en.wikipedia.org/wiki/Kuching)). Mekanismenya dinyatakan dalam [panduan pelawat Sarawak](/tourism/sarawak-visitor-guide); untuk gambaran seluruh Malaysia lihat [cara bergerak di Malaysia untuk pelancong](/tourism/getting-around-malaysia-for-tourists).
 
 **Bergerak di sekitar bandar.** Teras warisan mudah dijalani kaki, dan bot sungai kecil (penambang) yang menyeberang ke tebing utara untuk kubu dan istana ialah sebahagian daripada pengalaman. Untuk lawatan sehari, kebanyakan pelawat menggunakan e-hailing, teksi atau lawatan teratur, kerana pengangkutan awam ke taman adalah terhad.
 
@@ -179,4 +179,4 @@ Kepelbagaian budaya harian ini, dan bukan mana-mana monumen tunggal, ialah apa y
 
 Kuching ialah pintu depan yang mudah dan memberi ganjaran ke Borneo Malaysia: bandar warisan padat yang boleh anda pelajari dengan berjalan kaki, dibalut di sekeliling sungai, dengan hidupan liar dan budaya sehari lawatan jauhnya. Berikan kawasan tepi sungai, mercu tanda Brooke, Pekan Cina dan Muzium Borneo Cultures sehari atau dua penuh, kemudian gunakan bandar sebagai pangkalan untuk Semenggoh, Bako dan Kampung Budaya Sarawak.
 
-Kerana peraturan, tarikh dan angka berubah, sahkan butiran hampir dengan perjalanan — penerbangan semasa ke Lapangan Terbang Antarabangsa Kuching, keperluan kemasukan Sarawak untuk status anda, serta masa festival atau taman dengan pengendali rasmi mereka. Untuk negeri yang lebih luas dan gua Warisan Dunianya, teruskan ke [panduan pelawat Sarawak](/ms/tourism/sarawak-visitor-guide) dan [Taman Negara Gunung Mulu](/ms/tourism/gunung-mulu-national-park).
+Kerana peraturan, tarikh dan angka berubah, sahkan butiran hampir dengan perjalanan — penerbangan semasa ke Lapangan Terbang Antarabangsa Kuching, keperluan kemasukan Sarawak untuk status anda, serta masa festival atau taman dengan pengendali rasmi mereka. Untuk negeri yang lebih luas dan gua Warisan Dunianya, teruskan ke [panduan pelawat Sarawak](/tourism/sarawak-visitor-guide) dan [Taman Negara Gunung Mulu](/tourism/gunung-mulu-national-park).

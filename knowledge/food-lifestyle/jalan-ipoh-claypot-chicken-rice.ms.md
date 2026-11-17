@@ -118,7 +118,7 @@ pesanan di atas arang**. Kaedahnya ialah intinya: setiap periuk claypot individu
 dibakar perlahan-lahan, supaya nasi di dasar membentuk **kerak rangup** yang
 berharga. MICHELIN Guide menyatakan ia datang dengan **sosej babi Kantonis** (lap
 cheong) dan halia, dan bahawa anda boleh menambah **ikan masin**, yang memberi
-aroma tambahan. Ia salah satu [hidangan nasi](/ms/food-lifestyle/malaysian-rice-dishes)
+aroma tambahan. Ia salah satu [hidangan nasi](/food-lifestyle/malaysian-rice-dishes)
 Malaysia yang berkekalan, dilakukan dengan kesabaran yang sebenar.
 
 ## Di mana untuk mencarinya
@@ -127,7 +127,7 @@ Gerai ini terletak di Lot 1224, 7 Jalan Batu Ambar, Taman Kok Lian, Kuala Lumpur
 51200, dibuka lebih kurang 10 pagi hingga 5 petang dan tutup pada hari Rabu. Ia
 **tunai sahaja** dan **tanpa tempahan** — tiada bayaran kad dan tiada tempahan —
 dan dipaparkan dalam
-[MICHELIN Guide Malaysia](/ms/food-lifestyle/michelin-guide-malaysia).
+[MICHELIN Guide Malaysia](/food-lifestyle/michelin-guide-malaysia).
 
 ## Nota lawatan
 

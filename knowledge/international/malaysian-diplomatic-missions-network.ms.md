@@ -87,7 +87,7 @@ anda ialah satu nod dalam rangkaian 111 misi Malaysia yang tersebar merentasi
 
 ## Sebesar manakah rangkaian Malaysia di luar negara?
 
-[Kementerian Luar Negeri](/ms/government/ministry-of-foreign-affairs-wisma-putra) membahagikan kehadirannya di luar negara kepada
+[Kementerian Luar Negeri](/government/ministry-of-foreign-affairs-wisma-putra) membahagikan kehadirannya di luar negara kepada
 beberapa jenis misi. Secara keseluruhan, jumlahnya mencecah **111 misi di 85
 buah negara**.
 
@@ -172,8 +172,8 @@ portal kementerian.
 
 | Topik | Artikel |
 | --- | --- |
-| Rangkaian pejabat perdagangan Malaysia di luar negara (sistem berasingan daripada kedutaan) | [MATRADE — Perbadanan Pembangunan Perdagangan Luar Malaysia](/ms/government/matrade) |
-| Siapa yang mengeluarkan dan memperbaharui pasport Malaysia di tanah air | [Jabatan Imigresen Malaysia](/ms/government/imigresen) |
+| Rangkaian pejabat perdagangan Malaysia di luar negara (sistem berasingan daripada kedutaan) | [MATRADE — Perbadanan Pembangunan Perdagangan Luar Malaysia](/government/matrade) |
+| Siapa yang mengeluarkan dan memperbaharui pasport Malaysia di tanah air | [Jabatan Imigresen Malaysia](/government/imigresen) |
 
 ## Apa yang seterusnya
 
@@ -186,4 +186,4 @@ ditauliahkan ke Malaysia, Senarai Diplomatik dan Konsular Kementerian Luar
 Negeri ialah daftar yang perlu dirujuk. Dan jika soalan anda adalah tentang
 mempromosikan eksport ke luar negara dan bukannya melayani warganegara,
 perkara itu dikendalikan melalui rangkaian selari pejabat perdagangan
-[MATRADE](/ms/government/matrade), bukan kedutaan.
+[MATRADE](/government/matrade), bukan kedutaan.

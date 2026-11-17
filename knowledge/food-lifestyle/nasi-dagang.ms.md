@@ -126,8 +126,8 @@ warisan kebangsaan" sejak 2009.
 Ia, lebih daripada segalanya, hidangan sarapan dan pasar di timur semenanjung —
 kuat dikenali dengan Terengganu dan Kelantan — walaupun kini ia dijual jauh di
 luar itu, dan muncul di meja perayaan, terutamanya sekitar Hari Raya Aidilfitri.
-Ia terletak dalam dunia yang lebih luas [masakan Melayu](/ms/food-lifestyle/malay-cuisine)
-dan peta negara ini tentang [masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines).
+Ia terletak dalam dunia yang lebih luas [masakan Melayu](/food-lifestyle/malay-cuisine)
+dan peta negara ini tentang [masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines).
 
 ## Nasi itu: dikukus santan dan harum
 
@@ -196,22 +196,22 @@ tuna — dan walaupun sesetengah pemakan menggambarkan nuansa serantau dalam
 kemanisan dan rempahnya, tiada pembahagian yang bersih dan terdokumentasi baik
 antara "gulai Terengganu" yang tersendiri dan "gulai Kelantan". Untuk budaya
 makanan yang lebih luas yang hidangan ini tergolong, lihat
-[makanan Terengganu](/ms/food-lifestyle/terengganu-food) dan
-[makanan Kelantan](/ms/food-lifestyle/kelantan-food).
+[makanan Terengganu](/food-lifestyle/terengganu-food) dan
+[makanan Kelantan](/food-lifestyle/kelantan-food).
 
 ## Bagaimana ia berbeza daripada nasi lemak dan nasi kerabu
 
 Kerana ketiga-tiganya hidangan nasi Melayu yang mesra pantai timur, nasi dagang
 mudah dikelirukan dengan saudara-saudaranya — tetapi perbezaannya nyata.
 
-Berbanding [nasi lemak](/ms/food-lifestyle/nasi-lemak): kedua-duanya memasak nasi
+Berbanding [nasi lemak](/food-lifestyle/nasi-lemak): kedua-duanya memasak nasi
 dalam santan, tetapi nasi lemak menggunakan nasi biasa dan ditakrifkan oleh
 sambalnya, dengan lauk seperti ikan bilis goreng, kacang, timun dan telur. Nasi
 dagang menggunakan campuran beras pulut yang diharumkan dengan halba, dan
 sebaliknya ditakrifkan oleh gulai tunanya. Nasi lemak ialah makanan ruji seluruh
 negara; nasi dagang betul-betul serantau.
 
-Berbanding [nasi kerabu](/ms/food-lifestyle/nasi-kerabu): nasi kerabu ialah
+Berbanding [nasi kerabu](/food-lifestyle/nasi-kerabu): nasi kerabu ialah
 hidangan Kelantan iaitu nasi yang digaul herba, terkenal diwarnakan biru dengan
 bunga telang dan dihidangkan dengan serabut *ulam* mentah serta perencah seperti
 *budu*. Nasi dagang berkongsi alamat pantai timur tetapi bukan kaedahnya —
@@ -222,11 +222,11 @@ tunanya.
 
 ## Apa seterusnya
 
-- [Nasi lemak](/ms/food-lifestyle/nasi-lemak) — hidangan nasi santan yang nasi
+- [Nasi lemak](/food-lifestyle/nasi-lemak) — hidangan nasi santan yang nasi
   dagang paling kerap dibandingkan dengannya.
-- [Nasi kerabu](/ms/food-lifestyle/nasi-kerabu) — hidangan nasi biru yang
+- [Nasi kerabu](/food-lifestyle/nasi-kerabu) — hidangan nasi biru yang
   mengutamakan herba dari Kelantan, dari pantai yang sama.
-- [Masakan Melayu](/ms/food-lifestyle/malay-cuisine) — tradisi lebih luas yang
+- [Masakan Melayu](/food-lifestyle/malay-cuisine) — tradisi lebih luas yang
   hidangan ini tergolong.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   bagaimana negeri dan komuniti Malaysia makan secara berbeza.

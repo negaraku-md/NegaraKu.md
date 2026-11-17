@@ -146,4 +146,4 @@ Tetapi *direka untuk boleh diakses* tidak sama dengan *berfungsi hari ini*, dan 
 
 Jadi peraturan untuk dibawa sepanjang hari itu mudah: **anggap setiap ciri "tanpa tangga" atau "boleh diakses" sebagai dilaporkan pengendali, dan sahkan keadaan semasanya sebelum anda bergantung padanya.** Dengan pemikiran itu — satu kelompok, bergerak menaiki kenderaan antara zon, mula waktu pagi, tengah hari berpenyaman udara, dan akses yang disemak dan bukannya diandaikan — Putrajaya ialah salah satu hari besar yang paling santai di Lembah Klang.
 
-> Terperangkap dalam hujan di ibu kota pula? Lihat panduan iringan kami, [Hari Hujan di Kuala Lumpur](/ms/tourism/a-rainy-day-in-kuala-lumpur), untuk laluan dalaman menaiki kereta api.
+> Terperangkap dalam hujan di ibu kota pula? Lihat panduan iringan kami, [Hari Hujan di Kuala Lumpur](/tourism/a-rainy-day-in-kuala-lumpur), untuk laluan dalaman menaiki kereta api.

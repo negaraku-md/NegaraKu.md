@@ -105,12 +105,12 @@ sebagai European Contemporary dan menyenaraikannya pada tahap harga `$$$$`,
 sambil menyebut ruang dalaman yang kemas dan moden di sebalik cengkerang
 perindustrian itu. Ia merupakan salah satu daripada dua restoran bintang
 MICHELIN di Pulau Pinang dan sebahagian tetap
-[kancah makanan George Town](/ms/food-lifestyle/penang-food).
+[kancah makanan George Town](/food-lifestyle/penang-food).
 
 ## Pengiktirafan MICHELIN
 
 Au Jardin merupakan antara restoran pertama yang menerima bintang MICHELIN dalam
-edisi sulung [MICHELIN Guide Kuala Lumpur & Penang](/ms/food-lifestyle/michelin-guide-malaysia),
+edisi sulung [MICHELIN Guide Kuala Lumpur & Penang](/food-lifestyle/michelin-guide-malaysia),
 yang diumumkan pada Disember 2022, dan ia telah mengekalkan satu bintang
 menerusi pemilihan 2026. Cef de cuisine-nya, Lim Yan You, turut diiktiraf dengan
 anugerah MICHELIN Young Chef dalam edisi 2023. Oleh sebab MICHELIN menilai semula

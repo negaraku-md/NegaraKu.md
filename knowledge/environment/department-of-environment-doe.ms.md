@@ -183,9 +183,9 @@ Perumahan dan Kerajaan Tempatan](/government/ministry-of-housing-local-governmen
 
 Jika soalan anda mengenai proses EIA itu sendiri — ambang, jenis laporan dan
 garis masa — baca halaman
-[Penilaian Kesan Alam Sekitar](/ms/environment/environmental-impact-assessment-eia)
+[Penilaian Kesan Alam Sekitar](/environment/environmental-impact-assessment-eia)
 yang khusus. Untuk pengendalian dan pelupusan buangan berbahaya, lihat
-[buangan terjadual](/ms/environment/scheduled-waste). Dan kerana kuasa JAS
+[buangan terjadual](/environment/scheduled-waste). Dan kerana kuasa JAS
 mengalir sepenuhnya daripada satu statut, semakan utama yang paling pasti bagi
 mana-mana angka, seksyen atau syarat lesen ialah
 [Akta Kualiti Alam Sekeliling 1974 (Akta 127)](https://www.doe.gov.my/wp-content/uploads/2022/11/Environmental_Quality_Act_1974_-_ACT_127.pdf)

@@ -105,7 +105,7 @@ laktosa.
 
 Untuk melihat kedudukannya dalam kalangan papan minuman negara yang lebih luas — sirap
 bandung, cincau, Milo dan selebihnya — lihat hub
-[minuman Malaysia](/ms/food-lifestyle/malaysian-drinks). Artikel ini ialah tinjauan mendalam
+[minuman Malaysia](/food-lifestyle/malaysian-drinks). Artikel ini ialah tinjauan mendalam
 tentang minuman soya itu sendiri.
 
 ## Nama-nama lainnya — dan tau foo fah
@@ -128,7 +128,7 @@ Tuang susu soya putih di atas kiub agar rumput hitam dan anda dapat **soya cinca
 minuman dua warna yang lapisan hitam-putihnya memperoleh gelaran mesra **"Michael Jackson"**
 di gerai jaja di seluruh Malaysia dan Singapura. Ia murah, menyegarkan dan satu perkahwinan
 kemas antara dua makanan ruji kedai kopi; bahagian agar rumputnya dibincangkan dalam
-[cincau](/ms/food-lifestyle/cincau).
+[cincau](/food-lifestyle/cincau).
 
 ## Versi serantau dan moden
 
@@ -138,13 +138,13 @@ memberikannya nada yang lebih gelap dan lebih bergula hangus. Baru-baru ini, sat
 **kafe soya** khusus telah menolak minuman ini ke arah lebih mewah, menawarkan versi berperisa
 — kacang hitam, bijan hitam, kacang merah — bersama yang klasik. Namun gelas harian di
 kopitiam kekal menjadi jantungnya; untuk institusi itu, lihat
-[budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture).
+[budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture).
 
 ## Apa yang seterusnya
 
 - Petakan soya bean terhadap papan minuman negara yang lebih luas dalam hub
-  [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
+  [minuman Malaysia](/food-lifestyle/malaysian-drinks).
 - Temui pasangan minumannya yang lazim, penyejuk agar rumput, dalam
-  [cincau](/ms/food-lifestyle/cincau).
+  [cincau](/food-lifestyle/cincau).
 - Jelajahi dunia kedai kopi yang menjadi miliknya dalam
-  [budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture).
+  [budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture).

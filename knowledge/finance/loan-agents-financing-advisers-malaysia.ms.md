@@ -118,7 +118,7 @@ Inilah bahagian yang kebanyakan orang salah faham, jadi ia berbaloi dinyatakan d
 
 **Broking pinjaman dan gadai janji — peranan menyusun-dan-mengemukakan — sebahagian besarnya tidak dikawal selia di Malaysia.** Tiada **lesen 'ejen pinjaman' khusus**, tiada had fi, dan **tiada daftar broker** yang boleh anda semak. Sesuatu pihak hanya menjadi dikawal selia apabila ia melakukan sesuatu yang lebih daripada broking:
 
-- jika ia **meminjamkan wang sendiri**, ia memerlukan **lesen pemberi pinjaman wang** daripada [Kementerian Perumahan dan Kerajaan Tempatan](/ms/government/ministry-of-housing-local-government-kpkt) (KPKT) di bawah Akta Pemberi Pinjaman Wang 1951 — lihat [pemberi pinjaman wang berlesen dan penipuan pinjaman](/finance/licensed-moneylenders-malaysia);
+- jika ia **meminjamkan wang sendiri**, ia memerlukan **lesen pemberi pinjaman wang** daripada [Kementerian Perumahan dan Kerajaan Tempatan](/government/ministry-of-housing-local-government-kpkt) (KPKT) di bawah Akta Pemberi Pinjaman Wang 1951 — lihat [pemberi pinjaman wang berlesen dan penipuan pinjaman](/finance/licensed-moneylenders-malaysia);
 - jika ia menjalankan **"perniagaan nasihat kewangan,"** ia memerlukan **kelulusan Bank Negara di bawah Akta Perkhidmatan Kewangan 2013.**
 
 Perkara kedua itu ialah perangkap biasa. Seorang **"penasihat kewangan"** berlesen *memang* peranan yang dikawal selia — tetapi rejim itu dibina di sekitar **produk kewangan seperti insurans dan takaful**, bukan broking pinjaman. Sebuah firma yang menggelarkan dirinya "penasihat pembiayaan" dalam erti menyusun pinjaman secara amnya **bukan** penasihat kewangan yang diluluskan dan tidak beroperasi di bawah lesen itu. Perkataan Inggeris yang sama, perkara yang berbeza.

@@ -191,9 +191,9 @@ sama dengan dapur bertaraf Star.
 Kebanyakan tempat sebegini muncul sebagai pilihan **Bib Gourmand** atau dalam
 senarai **MICHELIN Selected**, dan Pulau Pinang khususnya diwakili dengan banyak
 oleh kedai makan kecil dan murah. Bagi budaya makanan yang dibina di atas
-[hidangan kebangsaan](/ms/food-lifestyle/national-dishes-of-malaysia) seperti nasi
+[hidangan kebangsaan](/food-lifestyle/national-dishes-of-malaysia) seperti nasi
 lemak, char kway teow dan laksa — dan dibentuk oleh
-[masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) yang
+[masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) yang
 bertindih antara masyarakat Melayu, Cina, India dan Peranakan — ini penting: ia
 bermakna sepinggan mi yang dimasak selama berdekad-dekad di sebuah gerai tunggal
 boleh membawa penarafan MICHELIN atas meritnya sendiri.
@@ -229,14 +229,14 @@ penarafan MICHELIN tidak dengan itu dinilai lemah; ia mungkin hanya terletak di
 luar bandar yang diliputi, atau belum dilawati. Guide paling baik dibaca sebagai
 satu lensa yang boleh dipercayai terhadap dunia makan Malaysia — sebahagian
 daripada kisah yang lebih luas tentang
-[makanan Malaysia sebagai warisan kebangsaan dan berkaitan UNESCO](/ms/food-lifestyle/malaysian-food-as-national-and-unesco-heritage) —
+[makanan Malaysia sebagai warisan kebangsaan dan berkaitan UNESCO](/food-lifestyle/malaysian-food-as-national-and-unesco-heritage) —
 dan bukan kata putus mengenainya.
 
 ## Apa seterusnya
 
 - Mulakan dengan hidangan yang diraikan oleh pilihan penjaja dan Bib Gourmand Guide
-  dalam [hidangan kebangsaan Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia).
+  dalam [hidangan kebangsaan Malaysia](/food-lifestyle/national-dishes-of-malaysia).
 - Lihat bagaimana hidangan itu berbeza mengikut masyarakat dalam
-  [masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines).
+  [masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines).
 - Fahami mengapa makanan ini membawa makna yang begitu besar dalam
-  [makanan Malaysia sebagai warisan kebangsaan dan UNESCO](/ms/food-lifestyle/malaysian-food-as-national-and-unesco-heritage).
+  [makanan Malaysia sebagai warisan kebangsaan dan UNESCO](/food-lifestyle/malaysian-food-as-national-and-unesco-heritage).

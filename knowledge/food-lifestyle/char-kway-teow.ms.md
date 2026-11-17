@@ -132,7 +132,7 @@ sesetengah versi. Secara tradisinya keseluruhannya digoreng dalam lemak babi,
 kadangkala dengan keropok lemak babi yang rangup untuk tambahan kelemakan — sebab
 utama hidangan ini sejak lama membawa reputasi semewah ia lazat. Ia tergolong
 antara hidangan paling digemari di negara ini, yang boleh anda baca lanjut dalam
-panduan kami tentang [hidangan kebangsaan](/ms/national-dishes-of-malaysia)
+panduan kami tentang [hidangan kebangsaan](/national-dishes-of-malaysia)
 Malaysia.
 
 ## Wok hei: nafas kuali
@@ -174,7 +174,7 @@ dan pemungut kerang juga dikatakan menggorengnya dan menjualnya pada waktu petan
 untuk menambah pendapatan — yang, lama-kelamaan, itulah caranya makanan laut mula
 menyelinap masuk. Penyebarannya adalah sebahagian daripada kisah yang lebih luas
 tentang tradisi masakan Cina Malaysia, yang dijejaki dalam tinjauan kami tentang
-[masakan serantau dan etnik](/ms/regional-and-ethnic-cuisines) negara ini. Namun,
+[masakan serantau dan etnik](/regional-and-ethnic-cuisines) negara ini. Namun,
 bila dan di mana tepatnya hidangan moden ini terbentuk masih diperdebatkan, dan
 tiada satu tarikh yang pasti disokong dengan baik.
 
@@ -222,7 +222,7 @@ hangus dan berasap — hiasannya berubah; apinya tidak.
 ## Di mana dan bagaimana memakannya
 
 Char kway teow adalah milik gerai penjaja dan kedai kopi, dan ia terjalin dalam
-[budaya kopitiam dan mamak](/ms/kopitiam-mamak-culture) Malaysia — pesanlah
+[budaya kopitiam dan mamak](/kopitiam-mamak-culture) Malaysia — pesanlah
 bersama minuman sejuk, makanlah segar dari kuali, dan ia selalunya masih
 dihidangkan di atas daun pisang, yang memberikan haruman halusnya sendiri.
 Sepinggan yang baik dinilai pada keseimbangan: tidak berminyak-basah mahupun
@@ -238,14 +238,14 @@ daging lembu, dengan gerai Melayu sering menjadikan kerang (*kerang*) sebagai
 tarikan utama. Jika anda mematuhi peraturan pemakanan halal, periksalah gerai itu
 sendiri dan bukannya mengandaikan — dan untuk sistem yang lebih luas di sebalik
 jaminan itu, lihat panduan kami tentang [pensijilan halal di
-Malaysia](/ms/halal-certification-in-malaysia).
+Malaysia](/halal-certification-in-malaysia).
 
 ## Apa seterusnya
 
 - Letakkan hidangan ini dalam konteks [hidangan
-  kebangsaan](/ms/national-dishes-of-malaysia) Malaysia, dari nasi lemak hingga
+  kebangsaan](/national-dishes-of-malaysia) Malaysia, dari nasi lemak hingga
   laksa.
 - Terokai masyarakat dan masakan di sebaliknya dalam [masakan serantau dan
-  etnik](/ms/regional-and-ethnic-cuisines).
+  etnik](/regional-and-ethnic-cuisines).
 - Fahami gerai dan kedai kopi tempat ia dihidangkan dalam [budaya kopitiam dan
-  mamak](/ms/kopitiam-mamak-culture).
+  mamak](/kopitiam-mamak-culture).

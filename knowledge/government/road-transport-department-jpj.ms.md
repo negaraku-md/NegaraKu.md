@@ -92,7 +92,7 @@ Tanggungjawab JPJ berkelompok dalam beberapa bidang teras:
 
 - **Pelesenan pemandu.** JPJ mengeluarkan dan memperbaharui lesen memandu serta menetapkan struktur lesen. Pembelajar bermula dengan **Lesen Memandu Pembelajar (LDL)** dan mempamerkan plat "L"; pemandu baharu kemudian memegang **Lesen Memandu Percubaan (PDL)** dengan plat "P" selama tempoh percubaan dua tahun sebelum layak mendapat **Lesen Memandu Kompeten (CDL)** penuh. Pemandu perdagangan selain itu memerlukan **lesen vokasional** — Lesen Memandu Barangan (GDL) untuk lori dan kenderaan barangan, atau lesen Kenderaan Perkhidmatan Awam (PSV) untuk teksi, bas dan e-hailing.
 - **Pendaftaran kenderaan bermotor.** Setiap kenderaan bermotor mesti didaftarkan dengan JPJ, yang merekodkan pemilikan, menetapkan butiran pendaftaran (nombor pendaftaran) dan mengendalikan pemindahan pemilikan.
-- **Cukai jalan (LKM).** Apa yang dipanggil oleh rakyat Malaysia sebagai cukai jalan (*cukai jalan*) secara rasmi ialah **Lesen Kenderaan Motor** — *[Lesen Kenderaan Motor](/ms/transport/road-tax-renewal)*, atau **LKM** — yang dikeluarkan oleh JPJ untuk membenarkan sesebuah kenderaan digunakan di jalan raya awam. Portal MyGovernment menerangkan LKM sebagai dikeluarkan oleh JPJ untuk membenarkan kenderaan beroperasi di jalan raya, dengan insurans motor yang sah sebagai prasyarat untuk pembaharuan.
+- **Cukai jalan (LKM).** Apa yang dipanggil oleh rakyat Malaysia sebagai cukai jalan (*cukai jalan*) secara rasmi ialah **Lesen Kenderaan Motor** — *[Lesen Kenderaan Motor](/transport/road-tax-renewal)*, atau **LKM** — yang dikeluarkan oleh JPJ untuk membenarkan sesebuah kenderaan digunakan di jalan raya awam. Portal MyGovernment menerangkan LKM sebagai dikeluarkan oleh JPJ untuk membenarkan kenderaan beroperasi di jalan raya, dengan insurans motor yang sah sebagai prasyarat untuk pembaharuan.
 - **Nombor pendaftaran.** JPJ mengawal sistem nombor pendaftaran, termasuk lelongan plat khas dan peribadi menerusi platform bidaannya.
 - **Pelesenan kenderaan perdagangan.** JPJ mentadbir pelesenan bagi kenderaan barangan dan perkhidmatan awam, kerja yang secara sejarah terikat dengan rangka kerja Lembaga Pelesenan Kenderaan Perdagangan.
 - **Penguatkuasaan.** JPJ menjalankan operasi penguatkuasaannya sendiri terhadap pemandu tanpa lesen, kenderaan tidak berdaftar atau tidak sesuai di jalan raya, lori berlebihan muatan dan kesalahan lain, serta mengendalikan sistem mata demerit **KEJARA** yang mengenakan hukuman terhadap pelanggar trafik.
@@ -128,7 +128,7 @@ Sejak 2023, JPJ telah mengeluarkan cukai jalan digital dan lesen memandu digital
 
 ## JPJ berbanding polis trafik
 
-Satu titik kekeliruan yang lazim ialah di mana JPJ berakhir dan polis bermula. JPJ ialah jabatan di bawah **Kementerian Pengangkutan** dan mengendalikan pelesenan, pendaftaran, cukai jalan dan penguatkuasaan pengangkutan jalan. Polis trafik ialah cabang **Polis Diraja Malaysia ([PDRM](/ms/government/pdrm))**, yang terletak di bawah Kementerian Dalam Negeri. Kedua-duanya menguatkuasakan peraturan di jalan raya — dan seseorang pemandu mungkin menerima saman daripada mana-mana satu — tetapi ia merupakan agensi berasingan dengan kementerian induk yang berbeza dan mandat teras yang berbeza. Aplikasi MyJPJ mencerminkan pertindihan ini dengan membolehkan pengguna melihat dan membayar saman JPJ dan PDRM di satu tempat.
+Satu titik kekeliruan yang lazim ialah di mana JPJ berakhir dan polis bermula. JPJ ialah jabatan di bawah **Kementerian Pengangkutan** dan mengendalikan pelesenan, pendaftaran, cukai jalan dan penguatkuasaan pengangkutan jalan. Polis trafik ialah cabang **Polis Diraja Malaysia ([PDRM](/government/pdrm))**, yang terletak di bawah Kementerian Dalam Negeri. Kedua-duanya menguatkuasakan peraturan di jalan raya — dan seseorang pemandu mungkin menerima saman daripada mana-mana satu — tetapi ia merupakan agensi berasingan dengan kementerian induk yang berbeza dan mandat teras yang berbeza. Aplikasi MyJPJ mencerminkan pertindihan ini dengan membolehkan pengguna melihat dan membayar saman JPJ dan PDRM di satu tempat.
 
 ## Mengapa ia penting
 
@@ -136,6 +136,6 @@ Bagi individu, JPJ ialah penjaga pintu: anda tidak boleh memandu secara sah tanp
 
 ## Apa seterusnya
 
-- Bandingkan JPJ dengan agensi rekod sivil teras Malaysia yang satu lagi, [Jabatan Pendaftaran Negara (JPN)](/ms/government/jpn).
-- Lihat bagaimana penguatkuasaan jalan dibahagikan dengan polis dalam profil [Polis Diraja Malaysia (PDRM)](/ms/government/pdrm).
-- Untuk gambaran besar agensi mana menjawab kepada kerajaan mana, lihat [tiga peringkat kerajaan Malaysia](/ms/government/three-tiers-of-government).
+- Bandingkan JPJ dengan agensi rekod sivil teras Malaysia yang satu lagi, [Jabatan Pendaftaran Negara (JPN)](/government/jpn).
+- Lihat bagaimana penguatkuasaan jalan dibahagikan dengan polis dalam profil [Polis Diraja Malaysia (PDRM)](/government/pdrm).
+- Untuk gambaran besar agensi mana menjawab kepada kerajaan mana, lihat [tiga peringkat kerajaan Malaysia](/government/three-tiers-of-government).

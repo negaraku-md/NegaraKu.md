@@ -105,7 +105,7 @@ difahami tentang Hokkien mee.
 
 ## Satu nama, dua mangkuk berbeza
 
-Tidak seperti [laksa](/ms/food-lifestyle/laksa), yang mana satu nama yang
+Tidak seperti [laksa](/food-lifestyle/laksa), yang mana satu nama yang
 dikongsi merangkumi sekeluarga sup yang berkaitan, Hokkien mee ialah kes dua
 hidangan yang benar-benar tidak berkaitan yang kebetulan dipanggil nama yang
 sama di bahagian-bahagian Malaysia yang berbeza. Satu digoreng dan gelap; satu
@@ -132,7 +132,7 @@ hidangan Hokkien mee Malaysia dipercayai berasal daripada *lor mee*, makanan
 ruji Fujian, namun hidangan-hidangan itu sendiri tidak dikenali di Fujian — ia
 ialah ciptaan tempatan dapur Hokkien seberang laut dan bukan import. Gabungan
 teknik yang dipindahkan dengan penyesuaian tempatan itu ialah corak berulang di
-seluruh [masakan wilayah dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+seluruh [masakan wilayah dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
 Malaysia.
 
 Di luar titik permulaan bersama itu, kisah asal usul tertentu diperdebatkan dan
@@ -147,7 +147,7 @@ kukuh. Tarikh dan nama yang tepat masih tidak pasti.
 
 Hidangan Lembah Klang — kadangkala disenaraikan pada menu sebagai **Hokkien
 char** (*char* bermaksud goreng) untuk membezakannya — dibina atas
-[mee](/ms/food-lifestyle/char-kway-teow) kuning bulat tebal yang direneh dalam
+[mee](/food-lifestyle/char-kway-teow) kuning bulat tebal yang direneh dalam
 kuah berkilat, hampir hitam. Warnanya datang daripada kicap pekat yang banyak,
 yang menyaluti mee dan bukan menenggelamkannya; ini ialah hidangan "kering",
 bukan sup.
@@ -159,7 +159,7 @@ digoreng sehingga menjadi kiub rangup keemasan — ditaburkan di atasnya untuk
 kerangupan dan kelemakan. Versi terbaik dimasak atas api arang yang menggila,
 yang memberikan mee itu sedikit bau char berasap. Ia ialah sepinggan yang
 mengenyangkan, berperisa, penuh umami, biasanya dimakan untuk makan malam atau
-sup di gerai tepi jalan dan [kopitiam](/ms/food-lifestyle/kopitiam-mamak-culture).
+sup di gerai tepi jalan dan [kopitiam](/food-lifestyle/kopitiam-mamak-culture).
 
 ## Hokkien mee Pulau Pinang: sup udang
 
@@ -175,7 +175,7 @@ tebal, dihiasi hirisan udang, daging babi, telur rebus, *kangkung*, taugeh dan
 bawang goreng. Lemak babi secara tradisinya ditambah ke dalam sup, walaupun ini
 kurang biasa sekarang. Versi "kering" tanpa sup juga wujud. Ia ialah makanan
 ruji dunia penjaja Pulau Pinang, dihidangkan di [pasar malam dan gerai makanan
-jalanan](/ms/food-lifestyle/pasar-malam-and-street-food) pulau itu di samping
+jalanan](/food-lifestyle/pasar-malam-and-street-food) pulau itu di samping
 hidangan mee terkenal negeri itu yang lain.
 
 ## Mengapa versi Pulau Pinang dipanggil "prawn mee" di tempat lain
@@ -216,9 +216,9 @@ anda apa yang akan tiba.
 
 ## Apa yang seterusnya
 
-- [Hidangan nasional Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia) —
+- [Hidangan nasional Malaysia](/food-lifestyle/national-dishes-of-malaysia) —
   di mana Hokkien mee terletak dalam kalangan ikon masakan negara.
-- [Char kway teow](/ms/food-lifestyle/char-kway-teow) — satu lagi hidangan mee
+- [Char kway teow](/food-lifestyle/char-kway-teow) — satu lagi hidangan mee
   goreng berakar Hokkien dan Teochew daripada tradisi penjaja yang sama.
-- [Laksa](/ms/food-lifestyle/laksa) — kisah "satu nama, banyak mangkuk" yang
+- [Laksa](/food-lifestyle/laksa) — kisah "satu nama, banyak mangkuk" yang
   berbeza dalam kalangan sup mee Malaysia.

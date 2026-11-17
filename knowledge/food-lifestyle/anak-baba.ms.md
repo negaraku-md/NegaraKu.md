@@ -77,7 +77,7 @@ framework: profile
 ---
 
 Anak Baba ialah sebuah gerai makan Peranakan di Brickfields — Little India Kuala
-Lumpur — yang muncul dalam [MICHELIN Guide Malaysia](/ms/food-lifestyle/michelin-guide-malaysia)
+Lumpur — yang muncul dalam [MICHELIN Guide Malaysia](/food-lifestyle/michelin-guide-malaysia)
 dengan Bib Gourmand. MICHELIN Guide menggelarnya sebagai "permata kecil yang selesa".
 
 ## Bib Gourmand untuk masakan rumah Peranakan
@@ -95,7 +95,7 @@ masakan yang menggabungkan cita rasa Indo-Malay dengan pengaruh Cina — sejak 2
 Hidangan tumpuan Guide ialah nasi lemak dengan ayam goreng kunyit, menggandingkan
 nasi bersantan dengan ayam goreng berkunyit, sambal dan kangkung yang rangup. Untuk
 tradisi lebih luas di sebalik masakan ini, lihat
-[Masakan Nyonya dan Peranakan](/ms/food-lifestyle/nyonya-peranakan-cuisine).
+[Masakan Nyonya dan Peranakan](/food-lifestyle/nyonya-peranakan-cuisine).
 
 ## Di mana untuk menemuinya
 

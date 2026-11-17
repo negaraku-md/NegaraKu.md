@@ -181,7 +181,7 @@ menyebut sesuatu Negeri atau Raja, Negerinya sudah jelas dengan sendirinya.
 | Hari Kelepasan | Tarikh 2026 |
 | --- | --- |
 | Hari Tahun Baru | 1 January |
-| Hari Keputeraan [Yang di-Pertuan Besar Negeri Sembilan](/ms/malaysia/negeri-sembilan-royal-institution) | 14 January |
+| Hari Keputeraan [Yang di-Pertuan Besar Negeri Sembilan](/malaysia/negeri-sembilan-royal-institution) | 14 January |
 | Israk dan Mikraj | 17 January |
 | [Thaipusam](/arts-culture/thaipusam) | 1 February |
 | Hari Wilayah Persekutuan | 1 February |

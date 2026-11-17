@@ -100,7 +100,7 @@ datang. Oleh kerana ia **tanpa kafein**, ia telah lama dijual sebagai minuman ya
 menenangkan untuk mana-mana masa dalam sehari.
 
 Untuk melihat kedudukan Horlicks dalam kalangan papan minuman negara yang lebih luas,
-lihat hub [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks). Artikel ini ialah
+lihat hub [minuman Malaysia](/food-lifestyle/malaysian-drinks). Artikel ini ialah
 tinjauan mendalam tentang cawan malt itu sendiri.
 
 ## Jenama dengan sejarah panjang
@@ -117,7 +117,7 @@ jenama malt yang biasa dan bukannya mengaitkannya dengan satu pemilik.
 ## Bagaimana ia diminum di sini
 
 Di kopitiam anda sekadar minta **Horlicks** — panas secara lalai, atau **ais Horlicks**
-untuk versi ber-ais. Seperti jirannya [Milo](/ms/food-lifestyle/milo-dinosaur), kopi dan
+untuk versi ber-ais. Seperti jirannya [Milo](/food-lifestyle/milo-dinosaur), kopi dan
 teh, ia lazimnya dimaniskan dan diperkaya dengan **susu pekat atau susu sejat**, dan anda
 boleh memintanya kurang manis. Ia alternatif berperisa malt pada papan yang dibina atas
 kopi dan teh — satu cawan nostalgik dan lembut yang membesarkan ramai rakyat Malaysia.
@@ -129,12 +129,12 @@ yang dijual di Malaysia umumnya dihasilkan untuk membawa **pensijilan halal**. S
 mana-mana produk berjenama, semakan yang boleh dipercayai ialah **tanda halal pada
 pembungkusan**; bagi secawan yang dicampur di gerai, pensijilan premis itu sendiri
 terpakai. Untuk dunia kedai kopi yang menjadi miliknya, lihat
-[budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture).
+[budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture).
 
 ## Apa yang seterusnya
 
 - Petakan Horlicks terhadap papan minuman negara yang lebih luas dalam hub
-  [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
-- Temui jiran berperisa maltnya dalam [Milo dinosaur](/ms/food-lifestyle/milo-dinosaur).
+  [minuman Malaysia](/food-lifestyle/malaysian-drinks).
+- Temui jiran berperisa maltnya dalam [Milo dinosaur](/food-lifestyle/milo-dinosaur).
 - Nyahkod kod pesanan kedai kopi dalam
-  [kopi, teh tarik dan minuman kedai kopi](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
+  [kopi, teh tarik dan minuman kedai kopi](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).

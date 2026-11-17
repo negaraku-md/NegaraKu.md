@@ -123,14 +123,14 @@ pinjaman yang membawa maksud "mi" atau sesuatu yang licin, walaupun asal usul
 Parsi, Sanskrit dan Hokkien kesemuanya telah dicadangkan, dan tiada satu pun
 penjelasan yang dipastikan. Apa yang lebih jelas ialah salasilah budayanya:
 laksa Malaysia terawal secara umumnya dikreditkan kepada komuniti
-[Peranakan](/ms/arts-culture/peranakan) (Cina Selat) di pelabuhan dagang lama,
+[Peranakan](/arts-culture/peranakan) (Cina Selat) di pelabuhan dagang lama,
 terutamanya Melaka dan Pulau Pinang, yang dapurnya mengahwinkan mi Cina dengan
 pes rempah Melayu dan bahan pemasam tempatan. Percampuran itulah sebabnya "laksa
 Nyonya" — *nyonya* ialah panggilan untuk wanita Peranakan — digunakan hampir
 secara bertukar ganti dengan gaya santan yang lebih kaya.
 
 Laksa juga berada dekat dengan inti hidangan negara. Ia muncul dalam
-kebanyakan senarai [hidangan istimewa](/ms/food-lifestyle/national-dishes-of-malaysia)
+kebanyakan senarai [hidangan istimewa](/food-lifestyle/national-dishes-of-malaysia)
 negara, dan versi Pulau Pinang telah membawa hidangan ini jauh ke luar pantai
 Malaysia.
 
@@ -213,7 +213,7 @@ mempunyai *laksa* bersupnya yang tersendiri, berbeza daripada laksam.
 Gaya-gaya pantai timur dan Johor ini menunjukkan bagaimana idea yang sama
 mengembara dan membentuk semula dirinya dalam stok dapur setiap negeri —
 sebahagian daripada peta [masakan serantau dan
-etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) Malaysia yang lebih luas.
+etnik](/food-lifestyle/regional-and-ethnic-cuisines) Malaysia yang lebih luas.
 
 ## Benang yang menyatukan
 
@@ -240,9 +240,9 @@ merasai geografinya.
 
 ## Apa seterusnya
 
-- [Hidangan nasional Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia) —
+- [Hidangan nasional Malaysia](/food-lifestyle/national-dishes-of-malaysia) —
   di mana laksa berada antara ikon kulinari negara.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   peta yang lebih luas tentang cara negeri dan komuniti Malaysia makan.
-- [Peranakan](/ms/arts-culture/peranakan) — budaya Cina Selat yang dapurnya
+- [Peranakan](/arts-culture/peranakan) — budaya Cina Selat yang dapurnya
   memberikan laksa adunan asasnya.

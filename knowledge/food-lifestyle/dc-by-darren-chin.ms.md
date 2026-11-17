@@ -95,7 +95,7 @@ framework: profile
 DC. by Darren Chin ialah sebuah restoran fine dining Perancis kontemporari di
 Taman Tun Dr Ismail (TTDI), di bahagian barat Kuala Lumpur, daripada cef-pemilik
 Darren Chin. Ia memegang Satu MICHELIN Star dalam
-[MICHELIN Guide](/ms/food-lifestyle/michelin-guide-malaysia) Kuala Lumpur & Penang,
+[MICHELIN Guide](/food-lifestyle/michelin-guide-malaysia) Kuala Lumpur & Penang,
 yang penyenaraiannya menggambarkan masakan Perancis yang diberikan olahan peribadi
 dan berwarna global.
 
@@ -107,7 +107,7 @@ senarai pilihan penuh semasa MICHELIN bagi Malaysia. Laporan sekunder mencatatka
 bahawa ia merupakan antara restoran yang dianugerahkan Star dalam guide MICHELIN
 Malaysia yang sulung dan telah mengekalkan Star itu menerusi edisi-edisi
 berikutnya. Ia merupakan salah satu kemasukan yang paling lama bertahan dalam
-senarai pilihan [fine dining](/ms/food-lifestyle/fine-dining-malaysia) negara ini.
+senarai pilihan [fine dining](/food-lifestyle/fine-dining-malaysia) negara ini.
 
 ## Makanannya: olahan terhadap tradisi Perancis
 

@@ -124,5 +124,5 @@ barisan panjang pada waktu puncak, dan hari operasi yang dilaporkan berbeza anta
 penyenaraian, jadi berbaloi untuk mengesahkan waktu dengan restoran sebelum anda
 membuat perjalanan. Untuk konteks lebih luas pengiktirafan MICHELIN di Pulau
 Pinang, lihat gambaran keseluruhan kami tentang
-[MICHELIN Guide di Malaysia](/ms/food-lifestyle/michelin-guide-malaysia) dan
-panduan [makanan Pulau Pinang](/ms/food-lifestyle/penang-food).
+[MICHELIN Guide di Malaysia](/food-lifestyle/michelin-guide-malaysia) dan
+panduan [makanan Pulau Pinang](/food-lifestyle/penang-food).

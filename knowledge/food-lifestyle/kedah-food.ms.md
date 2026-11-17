@@ -129,7 +129,7 @@ nasi putih untuk membawa gulai dan sambal, *pulut* untuk pencuci mulut, nasi leb
 digaul dengan herba, serta lauk peram dan bakar untuk menjadikan sedikit protein
 mencukupi. Hampir setiap hidangan Kedah di bawah, pada dasarnya, ialah satu cara
 untuk makan lebih banyak nasi dengan enak. Beras juga menjadi asas kepada
-[masakan Melayu](/ms/food-lifestyle/malay-cuisine) yang lebih luas yang menjadi
+[masakan Melayu](/food-lifestyle/malay-cuisine) yang lebih luas yang menjadi
 milik Kedah.
 
 ## Hidangan utara berbaur Thai
@@ -155,7 +155,7 @@ dengan apa-apa dakwaan "budu di Kedah".
 
 Jika satu hidangan menjadi tunjang reputasi Kedah, itulah laksanya. **Laksa Kedah**,
 yang meluas dipanggil **laksa utara**, tergolong dalam cabang laksa masam berasaskan
-ikan dalam keluarga [laksa](/ms/food-lifestyle/laksa) — cabang yang sama dengan asam
+ikan dalam keluarga [laksa](/food-lifestyle/laksa) — cabang yang sama dengan asam
 laksa Pulau Pinang yang terkenal, bukan jenis kari-santan. Ia dibina atas kuah ikan
 rebus yang disiat, biasanya *ikan kembung*, yang ditumbuk atau dikisar menjadi kuah
 pekat dan dimasamkan dengan asam jawa, kemudian dihidangkan atas bihun.
@@ -194,7 +194,7 @@ Guide secara tradisi dihidangkan kepada wanita dalam pantang bersalin.
 Teras harian hidangan Kedah ialah nasi dengan **gulai** — keluarga luas kuah dan kari
 Melayu yang berempah, selalunya diperkaya santan dan dibina atas *rempah* (pes rempah)
 yang ditumbuk — dicedok ke atasnya, di samping ikan bakar atau goreng dan sepinggan sambal.
-Inilah tatabahasa bersama [masakan Melayu](/ms/food-lifestyle/malay-cuisine) di seluruh
+Inilah tatabahasa bersama [masakan Melayu](/food-lifestyle/malay-cuisine) di seluruh
 negeri, dan tukang masak Kedah memasaknya dengan loghat utara.
 
 Tanda savuri paling tersendirinya, bagaimanapun, ialah **pekasam**: ikan diperam dengan
@@ -227,7 +227,7 @@ dan lebih daripada satu bandar utara mendakwa char koay teow mereka adalah sedik
 hebat — sebahagian daripada persaingan serantau yang mesra dan belum selesai, bukan fakta
 yang muktamad. Hidangan itu sendiri — kuetiau leper digoreng kuat atas api dengan udang,
 kerang, telur, taugeh dan kucai — diliputi sepenuhnya di bawah
-[char kway teow](/ms/food-lifestyle/char-kway-teow). Di sampingnya duduk hidangan ruji
+[char kway teow](/food-lifestyle/char-kway-teow). Di sampingnya duduk hidangan ruji
 mamak, tumisan Thai-Melayu dan semangkuk tom yam yang ada di mana-mana, semuanya menjadikan
 makanan jalanan Kedah terasa sebahagian daripada utara yang lebih luas.
 
@@ -241,18 +241,18 @@ herba dari tepi kampung dilipat ke dalam nasi ulam. Berlapis di atasnya ialah ke
 negeri utara, negeri sempadan, yang membenarkan tom yam dan laksa yang lebih lembut dan
 lebih pekat duduk selesa di sebelah gulai dan sambal. Makan di Kedah bermakna merasai sebuah
 masakan yang tahu benar dari mana datangnya berasnya — dan ini hanyalah satu sudut daripada
-peta [masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) Malaysia
+peta [masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) Malaysia
 yang lebih luas.
 
 ## Apa seterusnya
 
-- [Laksa](/ms/food-lifestyle/laksa) — keluarga penuh laksa Malaysia, dan di mana mangkuk
+- [Laksa](/food-lifestyle/laksa) — keluarga penuh laksa Malaysia, dan di mana mangkuk
   utara yang masam ini terletak di antaranya.
-- [Masakan Melayu](/ms/food-lifestyle/malay-cuisine) — asas nasi, rempah dan sambal yang
+- [Masakan Melayu](/food-lifestyle/malay-cuisine) — asas nasi, rempah dan sambal yang
   dimasak Kedah dengan loghatnya sendiri.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) — peta
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) — peta
   lebih luas tentang bagaimana negeri dan masyarakat Malaysia makan.
-- [Char kway teow](/ms/food-lifestyle/char-kway-teow) — mi goreng berasap yang dikongsi
+- [Char kway teow](/food-lifestyle/char-kway-teow) — mi goreng berasap yang dikongsi
   Kedah dengan jirannya.
-- [Nasi lemak](/ms/food-lifestyle/nasi-lemak) — hidangan nasi santan kebangsaan, untuk
+- [Nasi lemak](/food-lifestyle/nasi-lemak) — hidangan nasi santan kebangsaan, untuk
   perbandingan dengan tradisi beras Kedah sendiri.

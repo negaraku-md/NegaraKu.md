@@ -127,7 +127,7 @@ gelaran itu.
 
 Panduan ini ialah peta hidangan utama negeri ini, bukan kedudukan; makanan
 Sarawak terletak dalam kepelbagaian Malaysia yang lebih luas iaitu
-[masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines).
+[masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines).
 
 ## Masyarakat di sebalik hidangan
 
@@ -167,7 +167,7 @@ dianggap sebagai lagenda tempatan. Yang pasti ialah kemasyhurannya: mendiang cef
 Amerika Anthony Bourdain memujinya sebagai "breakfast of the gods" selepas
 memakannya di Kuching, satu frasa yang diterima pakai oleh orang Sarawak sejak itu.
 Oleh sebab keluarga laksa penuh diliputi di tempat lain, panduan ini hanya
-melakar mangkuk Sarawak — lihat panduan [laksa](/ms/food-lifestyle/laksa) khusus
+melakar mangkuk Sarawak — lihat panduan [laksa](/food-lifestyle/laksa) khusus
 untuk melihat kedudukannya di antara asam laksa Pulau Pinang, laksa kari dan laksa
 Johor.
 
@@ -189,7 +189,7 @@ bulat bertabur bijan — kadangkala dipanggil "bagel Foochow" — dihidang koson
 diisi daging cincang yang direneh. Hidangan berasaskan gandum ini ialah
 peringatan bahawa makanan Cina Sarawak bersandar pada tradisi kumpulan dialek yang
 kurang kerap anda temui di semenanjung; untuk gambaran yang lebih luas lihat
-[mi Malaysia dan hidangan negara](/ms/food-lifestyle/national-dishes-of-malaysia).
+[mi Malaysia dan hidangan negara](/food-lifestyle/national-dishes-of-malaysia).
 
 ## Dimasak dalam buluh, dihidang mentah: manok pansoh dan umai
 
@@ -249,9 +249,9 @@ hidangan itu datang dari Borneo dan bukannya semenanjung.
 
 ## Apa seterusnya
 
-- [Laksa](/ms/food-lifestyle/laksa) — bagaimana mangkuk Sarawak yang tersendiri
+- [Laksa](/food-lifestyle/laksa) — bagaimana mangkuk Sarawak yang tersendiri
   sesuai dalam keluarga sup mi serantau Malaysia yang lebih luas.
-- [Hidangan negara Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia) —
+- [Hidangan negara Malaysia](/food-lifestyle/national-dishes-of-malaysia) —
   di mana ikon Sarawak terletak di antara makanan paling terkenal negara.
-- [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   peta yang lebih luas tentang cara negeri dan masyarakat Malaysia makan.

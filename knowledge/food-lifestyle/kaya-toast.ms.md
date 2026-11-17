@@ -107,7 +107,7 @@ Inilah roti bakar kaya — sauh yang tenang bagi pagi kedai kopi Malaysia.
 
 Ia sepinggan hidangan yang sederhana, tetapi tepat. Setiap elemen ada tugasnya, dan
 orang lama memakannya mengikut susunan tertentu. Memahami roti bakar kaya bermakna
-memahami [budaya kopitiam & mamak](/ms/food-lifestyle/kopitiam-mamak-culture) yang
+memahami [budaya kopitiam & mamak](/food-lifestyle/kopitiam-mamak-culture) yang
 melahirkannya, serta tukang masak Hainan yang mengubah sarapan Barat yang dipinjam
 menjadi sesuatu yang benar-benar tempatan.
 
@@ -202,7 +202,7 @@ rekod ini didokumenkan dari pihak Singapura; garis masa Malaysia kurang tepat ta
 ## Cara ia dimakan — dengan kopi atau teh
 
 Roti bakar kaya hampir tidak pernah dipesan bersendirian. Pasangannya ialah secawan
-[kopi, teh tarik & minuman kedai kopi](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks)
+[kopi, teh tarik & minuman kedai kopi](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks)
 yang mentakrifkan kopitiam itu. Kopinya bergaya Nanyang — biji kopi yang digoreng dalam
 kuali bersama gula dan marjerin, kemudian diseduh melalui penapis 'stoking' kain dan
 dituang berulang-alik untuk mengudarakannya.
@@ -234,9 +234,9 @@ seharian yang paling mudah dikenali di rantau ini.
 
 ## Apa seterusnya
 
-- [Budaya kopitiam & mamak](/ms/food-lifestyle/kopitiam-mamak-culture) — kedai kopi dan
+- [Budaya kopitiam & mamak](/food-lifestyle/kopitiam-mamak-culture) — kedai kopi dan
   gerai mamak tempat roti bakar kaya dihidangkan, dan cara ia berfungsi.
-- [Kopi, teh tarik & minuman kedai kopi](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks)
+- [Kopi, teh tarik & minuman kedai kopi](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks)
   — minuman yang melengkapkan set sarapan, dan cara memesannya.
-- [Hidangan nasional Malaysia](/ms/food-lifestyle/national-dishes-of-malaysia) — di mana
+- [Hidangan nasional Malaysia](/food-lifestyle/national-dishes-of-malaysia) — di mana
   kedudukan roti bakar kaya antara makanan seharian yang paling digemari di negara ini.

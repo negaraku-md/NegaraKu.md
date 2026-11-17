@@ -289,8 +289,8 @@ menentukan undang-undang kecil anda, fi anda, tarikh pembaharuan anda dan artwor
 anda. Dapatkan undang-undang kecil 2007 diwartakan majlis itu sendiri di mana ia boleh dibaca
 mesin, dan di mana ia imbasan (MBPJ) atau lapuk (MBSA) hubungi jabatan pelesenan dan bukannya
 mempercayai angka yang diterbitkan. Kemudian baca
-[halaman lesen premis](/ms/business/premise-licence-malaysia) untuk cara lapisan majlis
-berfungsi di seluruh Malaysia, [halaman lesen papan tanda](/ms/business/signboard-licence-malaysia)
-untuk peraturan bahasa, dan [panduan Kuala Lumpur](/ms/business/doing-business-kuala-lumpur)
+[halaman lesen premis](/business/premise-licence-malaysia) untuk cara lapisan majlis
+berfungsi di seluruh Malaysia, [halaman lesen papan tanda](/business/signboard-licence-malaysia)
+untuk peraturan bahasa, dan [panduan Kuala Lumpur](/business/doing-business-kuala-lumpur)
 untuk kontras yang mendidik — satu majlis, satu undang-undang kecil persekutuan, satu jadual
 fi, dan siling deposit satu tertib magnitud di atas apa-apa di Selangor.

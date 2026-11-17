@@ -126,8 +126,8 @@ premis yang menyediakan tempat duduk ini.
 
 Yang ketiga ialah makanan **mamak**, atau **India-Muslim**: masakan gerai
 Tamil-Muslim. Inilah aliran yang menjelajah paling jauh ke dalam diet negara,
-memberikan Malaysia [roti canai](/ms/food-lifestyle/roti-canai),
-[nasi kandar](/ms/food-lifestyle/nasi-kandar), mee goreng mamak, *murtabak* dan
+memberikan Malaysia [roti canai](/food-lifestyle/roti-canai),
+[nasi kandar](/food-lifestyle/nasi-kandar), mee goreng mamak, *murtabak* dan
 teh tarik.
 
 ## Bagaimana kaum India sampai ke meja Malaysia
@@ -171,7 +171,7 @@ ringan: *thosai* seringan bulu dengan cili kelapa dan *sambar*, *idli* kukus yan
 lembut, *vadai* donat lentil yang berperisa, *appam* seperti bikang, dan
 *putu mayam* yang manis berbentuk sarang. Oleh sebab kebanyakan makanan ini tidak
 mengandungi daging secara tradisi, kedai makan India Selatan menjadi tunjang
-[makan vegetarian](/ms/food-lifestyle/dietary-restrictions-and-vegetarian-dining)
+[makan vegetarian](/food-lifestyle/dietary-restrictions-and-vegetarian-dining)
 di Malaysia.
 
 ## Makanan mamak dan India-Muslim
@@ -194,9 +194,9 @@ mamak menghidangkan daging lembu tetapi bukan daging babi, dan ia adalah halal.
 Gerai itu sendiri ialah institusi sosial — tempat untuk menonton perlawanan bola
 sepak pada pukul 2 pagi sambil menikmati segelas teh tarik — dan ia berada di
 tengah-tengah
-[budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture) negara
+[budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture) negara
 yang lebih luas serta
-[minuman kedai kopinya](/ms/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
+[minuman kedai kopinya](/food-lifestyle/kopi-teh-tarik-and-coffeeshop-drinks).
 
 ## Hidangan restoran India Utara
 
@@ -222,7 +222,7 @@ lama tertubuh di pusat lama pedagang Chulia di bandar itu, tempat tradisi makana
 India-Muslim amat mendalam, dan **Klang**, di pantai Selangor, terkenal dalam
 kalangan rakyat Malaysia dengan restoran daun pisangnya dan gaya kari yang kaya
 dan berdaging tersendiri. Daerah-daerah ini ialah lanjutan hidup kepada
-[peta makanan wilayah dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines)
+[peta makanan wilayah dan etnik](/food-lifestyle/regional-and-ethnic-cuisines)
 Malaysia yang lebih luas.
 
 ## Masuk ke arus perdana
@@ -247,13 +247,13 @@ Malaysia.
 
 ## Seterusnya
 
-- [Masakan wilayah dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) —
+- [Masakan wilayah dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) —
   bagaimana makanan India menepati peta lebih luas cara komuniti Malaysia makan.
-- [Nasi kandar](/ms/food-lifestyle/nasi-kandar) dan
-  [roti canai](/ms/food-lifestyle/roti-canai) — dua hidangan mamak yang menjadi
+- [Nasi kandar](/food-lifestyle/nasi-kandar) dan
+  [roti canai](/food-lifestyle/roti-canai) — dua hidangan mamak yang menjadi
   makanan ruji nasional.
-- [Budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture) —
+- [Budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture) —
   tradisi kedai kopi dan gerai yang menjadi tempat mamak.
-- [Sekatan pemakanan dan makan vegetarian](/ms/food-lifestyle/dietary-restrictions-and-vegetarian-dining)
+- [Sekatan pemakanan dan makan vegetarian](/food-lifestyle/dietary-restrictions-and-vegetarian-dining)
   — panduan praktikal untuk makan vegetarian dan halal, termasuk pilihan India
   Selatan.

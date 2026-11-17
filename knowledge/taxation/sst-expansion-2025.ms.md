@@ -424,7 +424,7 @@ buku, pakaian seragam, makanan dan minuman, pengangkutan, penginapan, deposit
 boleh dikembalikan yang bukan sebahagian daripada yuran pengajian, yuran PIBG,
 lawatan pendidikan yang bukan sebahagian daripada yuran pengajian, dan caj pas
 pelajar atau visa. Pindaan No. 1 menambah pengecualian bagi anak dan tanggungan
-diplomat asing yang memegang surat pengesahan [Kementerian Luar Negeri](/ms/government/ministry-of-foreign-affairs-wisma-putra), dan bagi
+diplomat asing yang memegang surat pengesahan [Kementerian Luar Negeri](/government/ministry-of-foreign-affairs-wisma-putra), dan bagi
 yuran yang ditaja sepenuhnya oleh institusi, syarikat, yayasan atau organisasi
 lain.
 

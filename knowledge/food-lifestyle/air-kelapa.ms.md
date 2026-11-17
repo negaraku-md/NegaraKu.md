@@ -107,7 +107,7 @@ diminum sebagai minuman. Buah yang sama, peringkat berbeza, cecair yang berbeza 
 
 Untuk melihat kedudukannya dalam kalangan papan minuman negara yang lebih luas — sirap bandung,
 cincau, Milo dan selebihnya — lihat hub
-[minuman Malaysia](/ms/food-lifestyle/malaysian-drinks). Artikel ini ialah tinjauan mendalam
+[minuman Malaysia](/food-lifestyle/malaysian-drinks). Artikel ini ialah tinjauan mendalam
 tentang air kelapa itu sendiri.
 
 ## Meminumnya — isi dan semuanya
@@ -144,8 +144,8 @@ menyegarkan — dan ia jarang mengecewakan.
 ## Apa yang seterusnya
 
 - Petakan air kelapa terhadap papan minuman negara yang lebih luas dalam hub
-  [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
+  [minuman Malaysia](/food-lifestyle/malaysian-drinks).
 - Temui penyegar semula jadi yang sejuk yang lain dalam
-  [air mata kucing](/ms/food-lifestyle/air-mata-kucing).
+  [air mata kucing](/food-lifestyle/air-mata-kucing).
 - Jelajahi dunia pasar dan tepi jalan tempat ia dijual menerusi
-  [pasar malam dan makanan jalanan](/ms/food-lifestyle/pasar-malam-and-street-food).
+  [pasar malam dan makanan jalanan](/food-lifestyle/pasar-malam-and-street-food).

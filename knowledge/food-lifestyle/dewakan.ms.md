@@ -96,7 +96,7 @@ framework: profile
 ---
 
 Dewakan terletak di tingkat 48 Naza Tower di Platinum Park, Kuala Lumpur,
-sebuah restoran fine dining yang telah diletakkan oleh [MICHELIN Guide](/ms/food-lifestyle/michelin-guide-malaysia)
+sebuah restoran fine dining yang telah diletakkan oleh [MICHELIN Guide](/food-lifestyle/michelin-guide-malaysia)
 di puncak dunia makan Malaysia. Namanya ditafsirkan oleh guide itu sebagai
 bermaksud "makanan daripada Tuhan," dan dapurnya, yang diterajui oleh cef Darren
 Teoh, membina menu yang seluruhnya Malaysia daripada bahan tempatan dan endemik.
@@ -116,7 +116,7 @@ Di samping Star-nya, Dewakan membawa sebuah **MICHELIN Green Star**, pengiktiraf
 guide untuk kelestarian dalam gastronomi; liputan akhbar menyifatkannya sebagai
 Green Star pertama yang diberikan kepada sebuah restoran Malaysia. Penarafan
 dua-Star adalah jarang di mana-mana sahaja di dunia, yang meletakkan Dewakan
-antara kemasukan Malaysia yang paling bererti dalam [fine dining](/ms/food-lifestyle/fine-dining-malaysia)
+antara kemasukan Malaysia yang paling bererti dalam [fine dining](/food-lifestyle/fine-dining-malaysia)
 antarabangsa.
 
 ## Makanannya: bahan asli dan endemik
@@ -133,7 +133,7 @@ oleh artis tempatan.
 
 Tumpuan terhadap khazanah dapur Malaysia ini membezakan Dewakan daripada restoran
 yang bekerja dalam idiom Eropah yang diimport, dan menghubungkannya dengan kisah
-yang lebih luas tentang [hidangan dan bahan kebangsaan](/ms/food-lifestyle/national-dishes-of-malaysia)
+yang lebih luas tentang [hidangan dan bahan kebangsaan](/food-lifestyle/national-dishes-of-malaysia)
 negara ini.
 
 ## Latar: tingkat 48 Naza Tower

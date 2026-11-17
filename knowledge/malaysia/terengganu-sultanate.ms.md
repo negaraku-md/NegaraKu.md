@@ -63,9 +63,9 @@ verificationNeeded:
 framework: history-culture
 ---
 
-Jauh sebelum mana-mana sultan bersemayam di atas takhtanya, sebongkah granit di tebing sungai di pedalaman Terengganu sudah pun menulis takdir negeri itu di atas batu. Batu Bersurat Terengganu — Batu Tersurat Terengganu — membawa satu tarikh yang terbaca sebagai tahun 1303, dan pada permukaannya yang lapuk, dalam huruf berbentuk gelung berasal Arab bagi [tulisan Jawi](/ms/arts-culture/jawi-script), seorang pemerintah memerintahkan rakyatnya berpegang teguh kepada Islam. Ia ialah bukti bertarikh tertua tulisan Jawi dan undang-undang Islam di mana-mana di dunia Melayu. Kesultanan yang akhirnya akan memikul nama tanah itu tiba lebih empat abad kemudian — tetapi iman yang akan dipertahankannya telah terukir di sini terlebih dahulu.
+Jauh sebelum mana-mana sultan bersemayam di atas takhtanya, sebongkah granit di tebing sungai di pedalaman Terengganu sudah pun menulis takdir negeri itu di atas batu. Batu Bersurat Terengganu — Batu Tersurat Terengganu — membawa satu tarikh yang terbaca sebagai tahun 1303, dan pada permukaannya yang lapuk, dalam huruf berbentuk gelung berasal Arab bagi [tulisan Jawi](/arts-culture/jawi-script), seorang pemerintah memerintahkan rakyatnya berpegang teguh kepada Islam. Ia ialah bukti bertarikh tertua tulisan Jawi dan undang-undang Islam di mana-mana di dunia Melayu. Kesultanan yang akhirnya akan memikul nama tanah itu tiba lebih empat abad kemudian — tetapi iman yang akan dipertahankannya telah terukir di sini terlebih dahulu.
 
-Inilah kisah bagaimana [Terengganu](/ms/states/terengganu), di pantai timur laut Semenanjung Malaysia, tumbuh daripada salah satu tapak pijak Islam terawal di rantau itu menjadi sebuah kesultanan Melayu — satu cabang pohon diraja Johor yang menongkah ketuanan Siam, nasihat British, dan kelahiran sebuah negara, dan yang takhtanya berdiri hingga ke hari ini.
+Inilah kisah bagaimana [Terengganu](/states/terengganu), di pantai timur laut Semenanjung Malaysia, tumbuh daripada salah satu tapak pijak Islam terawal di rantau itu menjadi sebuah kesultanan Melayu — satu cabang pohon diraja Johor yang menongkah ketuanan Siam, nasihat British, dan kelahiran sebuah negara, dan yang takhtanya berdiri hingga ke hari ini.
 
 ## Batu Bersurat: Islam terukir pada 1303
 
@@ -77,11 +77,11 @@ Apa jua tahun tepatnya, Batu Bersurat memperlihatkan bahawa Terengganu ialah seb
 
 ## Satu cabang pohon Johor: pengasasan 1720-an
 
-Kesultanan itu sendiri lahir daripada politik [Kesultanan Johor-Riau](/ms/malaysia/johor-riau-sultanate) abad ke-18, negeri pewaris agung kepada Melaka. Selepas barisan diraja Melaka berakhir pada 1699, kuasa di Johor berpindah kepada keluarga Bendahara (menteri besar). Sultan pertama Terengganu datang terus daripada wangsa itu.
+Kesultanan itu sendiri lahir daripada politik [Kesultanan Johor-Riau](/malaysia/johor-riau-sultanate) abad ke-18, negeri pewaris agung kepada Melaka. Selepas barisan diraja Melaka berakhir pada 1699, kuasa di Johor berpindah kepada keluarga Bendahara (menteri besar). Sultan pertama Terengganu datang terus daripada wangsa itu.
 
 Tun Zainal Abidin ialah anakanda Tun Habib Abdul Majid, Bendahara Seri Maharaja Johor, dan saudara Tun Abdul Jalil, yang telah diangkat ke takhta Johor sebagai Sultan Abdul Jalil IV. Ditabalkan ke atas wilayah Terengganu oleh tuan punya Johor — satu langkah yang beberapa riwayat meletakkan sekitar 1708 — Tun Zainal Abidin dikukuhkan sebagai pemerintah merdeka, Sultan Zainal Abidin I, pada 1720-an. Banyak rujukan memberikan 1724 atau 1725, dengan pertabalan itu disokong oleh istana Johor berpengaruh Bugis Sultan Sulaiman. (Sumber berselisih sama ada untuk menarikhkan pengasasan kepada pertabalan terdahulu atau kemerdekaan kemudian; tahun tepatnya kekal dipertikaikan.)
 
-Keturunan itu penting. Ia menjadikan Terengganu, seperti Pahang selepasnya, satu cabang langsung barisan Bendahara Johor-Riau — salah satu keluarga takhta yang menjejaki kembali, akhirnya, kepada Melaka. Terengganu dengan itu terjalin ke dalam [sistem kesultanan Melayu](/ms/malaysia/malay-sultanate-system) dari saat pengasasannya, dan pengaruh Johor ke atas politiknya berlarutan hingga jauh ke dalam abad itu.
+Keturunan itu penting. Ia menjadikan Terengganu, seperti Pahang selepasnya, satu cabang langsung barisan Bendahara Johor-Riau — salah satu keluarga takhta yang menjejaki kembali, akhirnya, kepada Melaka. Terengganu dengan itu terjalin ke dalam [sistem kesultanan Melayu](/malaysia/malay-sultanate-system) dari saat pengasasannya, dan pengaruh Johor ke atas politiknya berlarutan hingga jauh ke dalam abad itu.
 
 ## Di bawah bayang Siam
 
@@ -105,7 +105,7 @@ Terengganu beralih ke dalam lingkungan British, tetapi ia berbuat demikian atas 
 
 ## Wangsa moden
 
-Terengganu memasuki Persekutuan Tanah Melayu pada 1948 dan menjadi sebuah negeri Tanah Melayu merdeka pada 1957, kemudian Malaysia pada 1963. Di bawah Perlembagaan Persekutuan, sultannya ialah salah satu daripada [sembilan kerabat diraja](/ms/malaysia/nine-royal-houses) yang pemerintahnya membentuk Majlis Raja-Raja dan mengambil giliran, setiap lima tahun, sebagai raja berperlembagaan negara yang dipilih, Yang di-Pertuan Agong.
+Terengganu memasuki Persekutuan Tanah Melayu pada 1948 dan menjadi sebuah negeri Tanah Melayu merdeka pada 1957, kemudian Malaysia pada 1963. Di bawah Perlembagaan Persekutuan, sultannya ialah salah satu daripada [sembilan kerabat diraja](/malaysia/nine-royal-houses) yang pemerintahnya membentuk Majlis Raja-Raja dan mengambil giliran, setiap lima tahun, sebagai raja berperlembagaan negara yang dipilih, Yang di-Pertuan Agong.
 
 Penggiliran itu telah dua kali membawa seorang pemerintah Terengganu ke takhta negara. Yang terkini, Sultan Mizan Zainal Abidin — yang menjadi Sultan Terengganu pada 1998 — berkhidmat sebagai Yang di-Pertuan Agong ke-13 dari 2006 hingga 2011, dirasmikan dalam satu istiadat di Kuala Lumpur pada April 2007 sebagai salah seorang raja termuda dalam sejarah negara. Baginda kekal sebagai Sultan Terengganu yang memerintah, ketua sebuah wangsa diraja yang telah memegang tanahnya selama tiga abad.
 
@@ -117,9 +117,9 @@ Dan laluannya menerusi ufti Siam dan nasihat British, tanpa pernah kehilangan ta
 
 ## Apa seterusnya
 
-- Jejaki barisan induk yang daripadanya takhta ini bercabang dalam [Kesultanan Johor-Riau](/ms/malaysia/johor-riau-sultanate)
-- Lihat bagaimana pemerintah Terengganu serasi dalam kalangan [sembilan kerabat diraja](/ms/malaysia/nine-royal-houses) dan monarki bergilir
-- Baca bagaimana prasasti 1303 menambat kisah [tulisan Jawi](/ms/arts-culture/jawi-script)
+- Jejaki barisan induk yang daripadanya takhta ini bercabang dalam [Kesultanan Johor-Riau](/malaysia/johor-riau-sultanate)
+- Lihat bagaimana pemerintah Terengganu serasi dalam kalangan [sembilan kerabat diraja](/malaysia/nine-royal-houses) dan monarki bergilir
+- Baca bagaimana prasasti 1303 menambat kisah [tulisan Jawi](/arts-culture/jawi-script)
 
 ---
 

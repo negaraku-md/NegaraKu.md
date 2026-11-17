@@ -93,11 +93,11 @@ Peranakan dalam jalur `$$`.
 ## Sebuah Bib Gourmand keluarga
 
 Restoran ini ialah salah satu nama Penang dalam [MICHELIN Guide ke Kuala Lumpur
-dan Penang](/ms/food-lifestyle/michelin-guide-malaysia), ditandai "Family
+dan Penang](/food-lifestyle/michelin-guide-malaysia), ditandai "Family
 Friendly" dan "Eat like a local." Apa yang Guide sering kembali kepadanya ialah
 usia panjang dan sepasang tangan tunggal di dapur: walaupun selepas berpindah ke
 ruang yang lebih besar, catatnya, menunya kekal sama. Bib Gourmand di sini
-mengiktiraf sebuah dapur [Nyonya](/ms/food-lifestyle/nyonya-peranakan-cuisine)
+mengiktiraf sebuah dapur [Nyonya](/food-lifestyle/nyonya-peranakan-cuisine)
 ala rumah yang boleh diharap, bukan sebuah penciptaan semula.
 
 ## Makanannya: kari ayam Kapitan dan Joo Hoo Char
@@ -123,5 +123,5 @@ jadi sahkan lokasi semasa semasa anda menempah.
 Tempah lebih awal, pergilah secara berkumpulan, dan pesanlah set menu untuk
 merasai julat yang menjadi kemasyhuran dapur itu. Ia menjadikan satu tambatan
 berduduk yang memuaskan kepada jadual [makanan
-Penang](/ms/food-lifestyle/penang-food) yang sebaliknya dibina sekitar gerai dan
+Penang](/food-lifestyle/penang-food) yang sebaliknya dibina sekitar gerai dan
 kedai kopi.

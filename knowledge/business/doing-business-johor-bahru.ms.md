@@ -129,8 +129,8 @@ kakitangan dan tempoh penghantarannya semuanya ditetapkan oleh sebuah negara yan
 tidak beroperasi di dalamnya.
 
 Itulah subjek sebenar sebuah panduan JB. Lapisan insentif — 
-[Zon Ekonomi Khas Johor-Singapura](/ms/business/js-sez-guide) dan
-[Iskandar Malaysia](/ms/business/iskandar-malaysia-guide) — mempunyai
+[Zon Ekonomi Khas Johor-Singapura](/business/js-sez-guide) dan
+[Iskandar Malaysia](/business/iskandar-malaysia-guide) — mempunyai
 halaman mereka sendiri, dan mengulanginya di sini akan membazir masa anda. Apa yang halaman
 tersebut tidak beritahu anda ialah kaunter mana yang menerima permohonan lesen anda, mengapa
 jiran anda dua kilometer ke barat memfailkan dengan majlis yang berbeza, dan apa yang berlaku
@@ -290,8 +290,8 @@ tentang JB. Baca perkara itu pada halaman mereka sendiri dan luangkan masa Johor
 Tetapkan alamat dahulu, kerana alamat menetapkan majlis. Dapatkan undang-undang kecil yang diwartakan yang betul untuk majlis
 itu — bukan halaman ringkasan majlis — dan baca peruntukan kesahihan, pembaharuan dan finya sebelum anda menandatangani penyewaan,
 kerana *Sijil Kelayakan Menduduki* dan rekod taksiran yang bersih kedua-duanya ialah prasyarat yang tidak dapat anda betulkan
-selepas itu. Kemudian baca [panduan JS-SEZ](/ms/business/js-sez-guide) dan
-[panduan Iskandar Malaysia](/ms/business/iskandar-malaysia-guide) untuk melihat sama ada aktiviti anda layak untuk apa-apa, dan
-[halaman lesen premis](/ms/business/premise-licence-malaysia) untuk cara lapisan majlis berfungsi secara kebangsaan. Jika anda
-membandingkan dengan utara, [panduan Pulau Pinang](/ms/business/doing-business-penang) ialah selari struktur yang paling hampir —
+selepas itu. Kemudian baca [panduan JS-SEZ](/business/js-sez-guide) dan
+[panduan Iskandar Malaysia](/business/iskandar-malaysia-guide) untuk melihat sama ada aktiviti anda layak untuk apa-apa, dan
+[halaman lesen premis](/business/premise-licence-malaysia) untuk cara lapisan majlis berfungsi secara kebangsaan. Jika anda
+membandingkan dengan utara, [panduan Pulau Pinang](/business/doing-business-penang) ialah selari struktur yang paling hampir —
 dua majlis di sana, tiga di sini, dan tiada dua jadual yang serupa.

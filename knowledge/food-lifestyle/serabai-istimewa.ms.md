@@ -93,7 +93,7 @@ berkualiti baik pada harga berbaloi, berasingan daripada penarafan bintangnya. I
 berada dalam kategori makanan jalanan panduan tersebut pada tahap harga terendah
 ($), peringatan bahawa masakan Pulau Pinang yang paling terkenal selalunya datang
 daripada gerai sederhana dan bukan ruang makan mewah. Untuk gambaran yang lebih
-luas, lihat [MICHELIN Guide di Malaysia](/ms/food-lifestyle/michelin-guide-malaysia).
+luas, lihat [MICHELIN Guide di Malaysia](/food-lifestyle/michelin-guide-malaysia).
 
 ## Serabai istimewa
 
@@ -108,7 +108,7 @@ kemanisannya.
 
 Senarai MICHELIN memberikan alamat sebagai 18 Astaka Taman Tun Sardon, George
 Town, 11700, Pulau Pinang. George Town ialah jantung kawasan lama Pulau Pinang
-yang tersenarai UNESCO dan [budaya makanan jalanannya](/ms/food-lifestyle/penang-food)
+yang tersenarai UNESCO dan [budaya makanan jalanannya](/food-lifestyle/penang-food)
 yang padat, dan gerai ini antara beberapa dapur sederhana di situ yang memperoleh
 pengiktirafan MICHELIN.
 

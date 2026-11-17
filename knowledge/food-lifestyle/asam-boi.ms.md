@@ -100,7 +100,7 @@ untuk dimakan terus sebagai makanan ringan; yang lain dibuat khas untuk memberi 
 kepada minuman.
 
 Untuk melihat kedudukan asam boi dalam kalangan papan minuman negara yang lebih luas,
-lihat hub [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks). Artikel ini ialah
+lihat hub [minuman Malaysia](/food-lifestyle/malaysian-drinks). Artikel ini ialah
 tinjauan mendalam tentang variasi plum masam itu sendiri.
 
 ## Bagaimana ia mengubah minuman
@@ -108,7 +108,7 @@ tinjauan mendalam tentang variasi plum masam itu sendiri.
 Dalam gelas, asam boi berfungsi melalui **rendaman**: plum itu direbus atau direndam
 dengan gula dan air untuk mengeluarkan **sirap manis-masin-masam**, yang kemudiannya
 dikacau ke dalam minuman. Hasil yang paling terkenal ialah **limau asam boi** —
-[limau](/ms/food-lifestyle/air-limau-ais) segar dengan plum masam, dihidangkan atas ais
+[limau](/food-lifestyle/air-limau-ais) segar dengan plum masam, dihidangkan atas ais
 dengan beberapa ketul plum dan kadangkala secubit garam. Tetapi rakyat Malaysia
 menambahnya jauh lebih meluas: kepada **Sprite** (Sprite asam boi), kepada **Ribena**,
 kepada jus epal hijau, di mana sahaja minuman manis biasa boleh menggunakan kedalaman
@@ -131,11 +131,11 @@ Asam boi ialah **buah yang diawet**, dan minuman asam boi ialah buah, gula dan a
 alkohol, jadi ia **halal** dengan sendirinya. Seperti biasa, jaminan halal melekat pada
 **premis** bagi minuman yang dibuat di gerai, dan pada **tanda pensijilan** pada produk
 berbungkus. Untuk dunia kedai kopi yang menjadi milik minuman ini, lihat
-[budaya kopitiam dan mamak](/ms/food-lifestyle/kopitiam-mamak-culture).
+[budaya kopitiam dan mamak](/food-lifestyle/kopitiam-mamak-culture).
 
 ## Apa yang seterusnya
 
 - Petakan asam boi terhadap papan minuman negara yang lebih luas dalam hub
-  [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
-- Cuba padanan klasik dalam [air limau ais](/ms/food-lifestyle/air-limau-ais).
-- Bandingkan dengan penyejuk teh-dan-limau dalam [teh O ais limau](/ms/food-lifestyle/teh-o-ais-limau).
+  [minuman Malaysia](/food-lifestyle/malaysian-drinks).
+- Cuba padanan klasik dalam [air limau ais](/food-lifestyle/air-limau-ais).
+- Bandingkan dengan penyejuk teh-dan-limau dalam [teh O ais limau](/food-lifestyle/teh-o-ais-limau).

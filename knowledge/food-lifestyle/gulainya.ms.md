@@ -73,7 +73,7 @@ framework: profile
 ---
 
 Gulainya ialah sebuah restoran Peranakan di Bukit Damansara, Kuala Lumpur, yang
-muncul dalam [MICHELIN Guide Malaysia](/ms/food-lifestyle/michelin-guide-malaysia)
+muncul dalam [MICHELIN Guide Malaysia](/food-lifestyle/michelin-guide-malaysia)
 dengan Bib Gourmand. Liputan majlis MICHELIN memperkenalkannya sebagai salah satu
 tambahan terbaharu kepada pemilihan Bib Gourmand Malaysia.
 
@@ -92,7 +92,7 @@ Menurut MICHELIN Guide, Gulainya menyerlah kerana resipi keluarga pemilik,
 penekanan pada bahan tempatan segar serta hidangan ala rumah. Hidangan yang
 diketengahkan Guide ialah ayam tanpa tulang basil berkrim, digambarkan sebagai
 lembut dalam sos krim yang kaya dengan herba. Untuk tradisi lebih luas di sebalik
-masakan ini, lihat [Masakan Nyonya dan Peranakan](/ms/food-lifestyle/nyonya-peranakan-cuisine).
+masakan ini, lihat [Masakan Nyonya dan Peranakan](/food-lifestyle/nyonya-peranakan-cuisine).
 
 ## Di mana untuk mencarinya
 

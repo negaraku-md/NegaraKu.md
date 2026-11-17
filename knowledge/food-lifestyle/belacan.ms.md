@@ -117,7 +117,7 @@ Satu senarai warisan seni dan budaya kerajaan Malaysia menggelar belacan "bahan
 penting dalam masakan Melayu tradisional," dan itu bukan keterlaluan: ia
 membekalkan nada umami yang mendalam — rasa gurih tertapai yang beraroma laut —
 yang mendasari sebahagian besar himpunan masakan Melayu dan
-[Nyonya](/ms/food-lifestyle/nyonya-peranakan-cuisine). Sedikit sahaja sudah
+[Nyonya](/food-lifestyle/nyonya-peranakan-cuisine). Sedikit sahaja sudah
 memadai, sebab itulah satu ketul boleh bertahan berbulan-bulan untuk tukang
 masak di rumah.
 
@@ -162,16 +162,16 @@ dengan baik dan belacan melebur ke latar belakang sebagai rasa gurih tulen.
 
 ## Belacan di dapur
 
-Ungkapan belacan yang paling langsung ialah [sambal](/ms/food-lifestyle/sambal)
+Ungkapan belacan yang paling langsung ialah [sambal](/food-lifestyle/sambal)
 belacan — belacan yang dibakar ditumbuk bersama cili segar, bawang merah,
 sedikit gula dan perahan limau, dihidangkan sebagai sambal yang pedas membara di
 samping nasi, sayur-sayuran mentah (*ulam*) dan ikan goreng. Ia salah satu
 perkara paling ringkas dan paling disayangi di meja makan Melayu.
 
 Dari situ jangkauannya amat luas. Ia enjin tersembunyi bagi banyak perencah
-[rojak](/ms/food-lifestyle/rojak), di mana baunya yang menyengat mengimbangi
+[rojak](/food-lifestyle/rojak), di mana baunya yang menyengat mengimbangi
 gula, asam jawa dan cili pada buah dan sayur. Ia ditumbuk ke dalam pes rempah
-[asam laksa](/ms/food-lifestyle/laksa) Pulau Pinang yang masam dan merupakan
+[asam laksa](/food-lifestyle/laksa) Pulau Pinang yang masam dan merupakan
 asas penentu laksa Sarawak. Ia memberi perisa kepada *nasi goreng*, *kangkung
 belacan* (kangkung yang ditumis dengan cili dan belacan), *asam pedas* dan
 senarai panjang sambal dan kuah. Merentasi dapur Melayu, Nyonya dan Malaysia
@@ -222,17 +222,17 @@ kebanyakannya boleh ditukar ganti dalam keadaan terdesak, tetapi ia berbeza dari
 segi tekstur, kemasinan, warna dan kekuatan — sebab itulah sesuatu resipi
 biasanya menamakan yang mana satu diharapkannya. Tempat belacan dalam peta ini
 sebahagian daripada apa yang mengikat makanan Malaysia dengan [masakan serantau
-dan jiran](/ms/food-lifestyle/regional-and-ethnic-cuisines).
+dan jiran](/food-lifestyle/regional-and-ethnic-cuisines).
 
 ## Apa seterusnya
 
-- [Sambal](/ms/food-lifestyle/sambal) — sambal cili yang paling terkenal dipegang
+- [Sambal](/food-lifestyle/sambal) — sambal cili yang paling terkenal dipegang
   teguh oleh belacan.
-- [Rojak](/ms/food-lifestyle/rojak) — salad buah dan sayur yang perencahnya
+- [Rojak](/food-lifestyle/rojak) — salad buah dan sayur yang perencahnya
   bersandar pada bau menyengat belacan.
-- [Laksa](/ms/food-lifestyle/laksa) — tempat belacan menggerakkan pes rempah
+- [Laksa](/food-lifestyle/laksa) — tempat belacan menggerakkan pes rempah
   asam laksa dan laksa Sarawak.
-- [Masakan Nyonya dan Peranakan](/ms/food-lifestyle/nyonya-peranakan-cuisine) —
+- [Masakan Nyonya dan Peranakan](/food-lifestyle/nyonya-peranakan-cuisine) —
   dapur Cina Selat yang banyak bersandar pada belacan.
-- [Makanan Pulau Pinang](/ms/food-lifestyle/penang-food) — pusat pulau bagi
+- [Makanan Pulau Pinang](/food-lifestyle/penang-food) — pusat pulau bagi
   pengeluaran belacan dan masakan berasaskan pes udang.

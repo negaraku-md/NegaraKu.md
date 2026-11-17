@@ -108,7 +108,7 @@ yang panas.
 
 Untuk melihat kedudukannya dalam kalangan papan minuman negara yang lebih luas — sirap
 bandung, cincau, Milo dan selebihnya — lihat hub
-[minuman Malaysia](/ms/food-lifestyle/malaysian-drinks). Artikel ini ialah tinjauan
+[minuman Malaysia](/food-lifestyle/malaysian-drinks). Artikel ini ialah tinjauan
 mendalam tentang penyejuk longan itu sendiri.
 
 ## Apa maksud "mata kucing"
@@ -131,7 +131,7 @@ cuaca panas. Itu kepercayaan pemakanan tradisi dan bukannya perubatan yang mapan
 paling baik dibaca sebagai sebahagian daripada budaya di sekeliling minuman itu. Apa yang
 tidak dapat dinafikan ialah secawan sejuk-beku memang benar-benar dialu-alukan dalam
 kepanasan tropika. Sepupu herbanya, minuman agar rumput, dibincangkan dalam
-[cincau](/ms/food-lifestyle/cincau).
+[cincau](/food-lifestyle/cincau).
 
 ## Institusi Petaling Street
 
@@ -141,15 +141,15 @@ sejuk-beku dalam bekas penyejuk logam yang besar dan dituang secawan demi secawa
 orang ramai yang mengharungi pasar. Ia telah berada di situ selama berdekad; anda sering
 melihat barisan menunggu, dan sama kerapnya melihat cawan itu dibeli bersama satu cucuk
 sate atau sebungkus sesuatu daripada
-[pasar malam dan makanan jalanan](/ms/food-lifestyle/pasar-malam-and-street-food) di
+[pasar malam dan makanan jalanan](/food-lifestyle/pasar-malam-and-street-food) di
 sekeliling. Tahun penubuhan tepat gerai itu lebih merupakan lagenda tempatan dan bukannya
 rekod yang kukuh, jadi paling baik ia sekadar dipanggil telah lama beroperasi.
 
 ## Apa yang seterusnya
 
 - Petakan air mata kucing terhadap papan minuman negara yang lebih luas dalam hub
-  [minuman Malaysia](/ms/food-lifestyle/malaysian-drinks).
+  [minuman Malaysia](/food-lifestyle/malaysian-drinks).
 - Temui penyegar "menyejukkan" seangkatannya, minuman agar rumput, dalam
-  [cincau](/ms/food-lifestyle/cincau).
+  [cincau](/food-lifestyle/cincau).
 - Jelajahi dunia pasar tempat ia dijual menerusi
-  [pasar malam dan makanan jalanan](/ms/food-lifestyle/pasar-malam-and-street-food).
+  [pasar malam dan makanan jalanan](/food-lifestyle/pasar-malam-and-street-food).

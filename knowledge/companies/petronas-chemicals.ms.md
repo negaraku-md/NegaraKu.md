@@ -88,7 +88,7 @@ Hampir setiap beg baja yang ditabur di ladang Malaysia, dan sebahagian besar res
 
 ## Apakah Petronas Chemicals Group?
 
-Petronas Chemicals Group Berhad (PCG) ialah pengeluar bahan kimia dan petrokimia bersepadu terbesar Malaysia. Ia ialah anak syarikat tersenarai [PETRONAS](/ms/companies/petronas) — perbadanan minyak dan gas negara, Petroliam Nasional Berhad — yang kekal sebagai pemegang saham majoriti PCG manakala baki saham didagangkan secara awam. PCG mengambil bahan suapan seperti gas asli dan aliran penapisan daripada kumpulan PETRONAS yang lebih luas dan menukarnya menjadi olefin, polimer, baja, metanol dan bahan kimia khusus, menjualnya ke pasaran domestik dan eksport.
+Petronas Chemicals Group Berhad (PCG) ialah pengeluar bahan kimia dan petrokimia bersepadu terbesar Malaysia. Ia ialah anak syarikat tersenarai [PETRONAS](/companies/petronas) — perbadanan minyak dan gas negara, Petroliam Nasional Berhad — yang kekal sebagai pemegang saham majoriti PCG manakala baki saham didagangkan secara awam. PCG mengambil bahan suapan seperti gas asli dan aliran penapisan daripada kumpulan PETRONAS yang lebih luas dan menukarnya menjadi olefin, polimer, baja, metanol dan bahan kimia khusus, menjualnya ke pasaran domestik dan eksport.
 
 Syarikat ini beribu pejabat di Menara Berkembar PETRONAS di Kuala Lumpur dan tersenarai di Pasaran Utama Bursa Malaysia di bawah simbol dagangan PCHEM.
 

@@ -149,7 +149,7 @@ Bukan setiap terumbu di rantau ini ialah Sipadan, dan itu berita baik untuk peny
 
 Taman ini indah dan cetek — bayangkan pulau pasir pirus, taman karang dan tepi kawah dramatik **Boheydulang** untuk pendaki — yang menjadikannya pasangan **snorkeling dan lawatan sehari pulau** rantau ini kepada menyelam dinding dalam Sipadan (Wikipedia). Ia juga rumah kepada komuniti besar **Bajau Laut** ("pengembara laut"), yang tinggal di rumah panggung dan bot dalam taman (Wikipedia). Lawatan sehari biasa membahagikan pulau kepada laluan seperti Sibuan–Mantabuan–Maiga atau litar Bohey Dulang.
 
-Untuk konteks lebih luas tentang kawasan marin terlindung dan rantau menyelam Malaysia, lihat panduan NegaraKu.md tentang [menyelam dan ekopelancongan marin di Malaysia](/ms/tourism/diving-marine-ecotourism-malaysia), dan untuk negeri yang lebih luas, [panduan pelawat Sabah](/ms/tourism/sabah-visitor-guide).
+Untuk konteks lebih luas tentang kawasan marin terlindung dan rantau menyelam Malaysia, lihat panduan NegaraKu.md tentang [menyelam dan ekopelancongan marin di Malaysia](/tourism/diving-marine-ecotourism-malaysia), dan untuk negeri yang lebih luas, [panduan pelawat Sabah](/tourism/sabah-visitor-guide).
 
 ## Adakah ia untuk anda — penyelam, penyorkel, atau tidak kedua-duanya?
 
@@ -161,7 +161,7 @@ Jawapan jujur bergantung pada apa yang anda boleh lakukan di dalam air:
 
 Jika kumpulan anda mencampurkan penyelam bertauliah dengan penyorkel, penyelesaian biasa ialah berpangkalan di Mabul atau di resort yang menjalankan kedua-dua bot menyelam Sipadan dan perjalanan snorkeling pulau Semporna, supaya semua orang mendapat hari penuh.
 
-Untuk perbandingan dengan menyelam di semenanjung Malaysia, [panduan pulau pantai timur](/ms/tourism/east-coast-islands-guide) merangkumi Perhentian, Redang dan Tioman, yang beroperasi mengikut kalendar bermusim yang berbeza dan sesuai untuk perjalanan snorkeling yang lebih santai.
+Untuk perbandingan dengan menyelam di semenanjung Malaysia, [panduan pulau pantai timur](/tourism/east-coast-islands-guide) merangkumi Perhentian, Redang dan Tioman, yang beroperasi mengikut kalendar bermusim yang berbeza dan sesuai untuk perjalanan snorkeling yang lebih santai.
 
 ## Adakah timur Sabah selamat? Menangani konteks nasihat
 
@@ -203,4 +203,4 @@ Beberapa kesilapan berulang mudah dielakkan:
 
 ## Apa yang seterusnya
 
-Jika Sipadan ialah matlamat, susunan tindakan adalah luar biasa: **jamin perjalanan sebelum anda muktamadkan tarikh**, kerana permit — bukan penerbangan atau hotel — ialah sumber yang sedikit. Pilih pangkalan yang padan dengan kumpulan anda (Mabul untuk muck diving dan kepelbagaian, Kapalai untuk ketenangan atas-air, Mataking untuk kesunyian, pekan Semporna untuk bajet), sahkan **had permit, yuran dan sebarang penutupan semasa** dengan Taman-Taman Sabah atau pengendali berlesen anda, dan baca **nasihat semasa** kerajaan anda sendiri untuk pulau timur Sabah hampir dengan pemergian. Untuk gambaran lebih luas, lihat panduan NegaraKu.md tentang [menyelam dan ekopelancongan marin di Malaysia](/ms/tourism/diving-marine-ecotourism-malaysia), [panduan pelawat Sabah](/ms/tourism/sabah-visitor-guide), dan — untuk jenis perjalanan pulau yang berbeza — [panduan pulau pantai timur](/ms/tourism/east-coast-islands-guide).
+Jika Sipadan ialah matlamat, susunan tindakan adalah luar biasa: **jamin perjalanan sebelum anda muktamadkan tarikh**, kerana permit — bukan penerbangan atau hotel — ialah sumber yang sedikit. Pilih pangkalan yang padan dengan kumpulan anda (Mabul untuk muck diving dan kepelbagaian, Kapalai untuk ketenangan atas-air, Mataking untuk kesunyian, pekan Semporna untuk bajet), sahkan **had permit, yuran dan sebarang penutupan semasa** dengan Taman-Taman Sabah atau pengendali berlesen anda, dan baca **nasihat semasa** kerajaan anda sendiri untuk pulau timur Sabah hampir dengan pemergian. Untuk gambaran lebih luas, lihat panduan NegaraKu.md tentang [menyelam dan ekopelancongan marin di Malaysia](/tourism/diving-marine-ecotourism-malaysia), [panduan pelawat Sabah](/tourism/sabah-visitor-guide), dan — untuk jenis perjalanan pulau yang berbeza — [panduan pulau pantai timur](/tourism/east-coast-islands-guide).
