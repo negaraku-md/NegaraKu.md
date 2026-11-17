@@ -81,19 +81,21 @@ answered well enough.**
 
 ## Status
 - 2026-11-17: proposal received + saved. **Dup-check of the priority-8 DONE** (7 genuine new, #6 deferred).
-- **SHIPPED (13 langs each, LIVE):**
+- **PRIORITY-8 COMPLETE — all 7 genuine-new articles SHIPPED (13 langs each, LIVE):**
   - #1 `education/before-paying-a-college-deposit` (MY-LIV-0905) — `0d3ba3b81`
   - #4 `energy/water-bill-suddenly-increased` (MY-ENE-0020) — `481c9472c` (site's first water-utility article)
   - #3 `government/mp-adun-or-local-council` (MY-GOV-0102) — `86c9051bf`
+  - #7 `food-lifestyle/your-first-pasar-malam` (MY-FDL-0108) — `5415aca7d`
+  - #5 `technology/before-putting-client-data-into-ai` (MY-TEC-0016) — `6d74769bc`
+  - #2 `business/before-signing-a-shop-or-office-lease` (MY-BIZ-0148) — `14a175109`
+  - #8 `tourism/a-rainy-day-in-kuala-lumpur` (MY-TOU-0027) — `07068c426`
 - **#6 deferred (not a new page):** "Announced→In Force" is substantially covered by `law/how-a-bill-becomes-law`
   (Art 66(4)/(4A)/(5) + Interpretation Acts s.19(1)); its only distinct value is the policy-announcement-vs-law
   angle → fold into that article later, don't duplicate.
-- **QUEUED (research needed, then draft+13-lang fan-out, priority order):**
-  - #2 `business` **Before Signing a Shop or Office Lease** (premises suitability vs licensing; distinct from `premise-licence-malaysia`)
-  - #5 `technology` **Before Putting Client Information into an AI Tool** (vendor-neutral SME checklist; links the PDPA cluster)
-  - #7 `food-lifestyle` **Your First Pasar Malam** (first-timer how-to; distinct from the `pasar-malam-and-street-food` culture explainer — link it)
-  - #8 `tourism` **A Rainy Day in Kuala Lumpur** (themed indoor itinerary; distinct from `kuala-lumpur-visitor-guide`)
-  - then the rest of the 36 (Understand/Living/Business/EDP clusters) as capacity allows.
+- **NEXT (the remaining ~28 of the 36):** the Understand (open-house, income-figures, inflation-feel, state-move),
+  Living (ACCA/CIMA routes, deposit-dispute, clinic-to-specialist referral, wheelchair rail), Business (monthly
+  management accounts, share transfer, first employee, employee-offboarding) and EDP (belacan/cincalok/budu,
+  Putrajaya gentle day, Kota Bharu food, buying batik) clusters — each needs a dup-check then the method below.
 - **METHOD (proven this session, reuse):** research agent (sourced, shape-only, hedged, flags → scratchpad/research-<topic>.md)
   → draft en master to the article standard (framework from the canonical 8; sensitivity; verificationNeeded for soft points)
   → gate master (js-yaml + validate + check-internal-links --strict) → 12 per-language agents (full-article translation,
