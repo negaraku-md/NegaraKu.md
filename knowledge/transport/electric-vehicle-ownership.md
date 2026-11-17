@@ -94,7 +94,7 @@ framework: explainer
 
 Zaman cukai jalan percuma untuk kereta elektrik di Malaysia sudah berakhir — tetapi bil pertama yang mendarat dalam MyJPJ anda mungkin lebih murah daripada yang anda sangka, dan ia dikira dengan cara yang benar-benar baharu.
 
-Sejak 2022, kerajaan mengecualikan EV daripada cukai jalan untuk menggalakkan penggunaannya. Pengecualian itu tamat pada 31 Disember 2025 dan tidak dilanjutkan. Mulai 1 Januari 2026, setiap EV persendirian kembali membayar Lesen Kenderaan Motor (LKM) — cuma formulanya kini berbeza sama sekali daripada kereta petrol.
+Sejak 2022, kerajaan mengecualikan EV daripada cukai jalan untuk menggalakkan penggunaannya. Pengecualian itu tamat pada 31 Disember 2025 dan tidak dilanjutkan. Mulai 1 Januari 2026, setiap EV persendirian kembali membayar [Lesen Kenderaan Motor](/transport/road-tax-renewal) (LKM) — cuma formulanya kini berbeza sama sekali daripada kereta petrol.
 
 ## Kenapa EV tidak lagi dikira ikut "cc"?
 

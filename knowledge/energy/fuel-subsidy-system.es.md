@@ -37,7 +37,7 @@ faq:
     a: "El diésel en Sabah, Sarawak y Labuan se mantiene en RM2.15 por litro y no se hace flotar como en la península. El precio del RON95 subsidiado de RM1.99 se aplica a los ciudadanos elegibles de todo el país."
 
 lang: "es"
-sourceContentHash: "b0726e746e504bf9"
+sourceContentHash: "e18d2fccb4cddc2e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -176,7 +176,7 @@ Tres piezas en movimiento operan a la vez cada vez que usted reposta: la verific
 
 - Insertando el MyKad en un **terminal lector de tarjetas** de la estación.
 - Usando una **aplicación de una petrolera** como Setel (Petronas) o la aplicación de Shell.
-- La **billetera electrónica Touch 'n Go** o un terminal de pago exterior (Outdoor Payment Terminal, OPT).
+- La **billetera electrónica [Touch 'n Go](/es/transport/touch-n-go)** o un terminal de pago exterior (Outdoor Payment Terminal, OPT).
 - **Pago en efectivo en caja**, previsto específicamente para quienes no tienen billetera electrónica ni acceso a internet.
 
 **La cuota** limita el abuso. Cada persona elegible obtiene **200 litros al mes** al precio subsidiado, reducidos desde 300 litros a partir del **1 de abril de 2026**, manteniéndose el precio en RM1.99. Desde el **1 de julio de 2026**, esa cuota de 200 litros se **comparte** entre el RON95 subsidiado (RM1.99) y el Budi Diesel (RM2.10), ambos extraídos del mismo saldo. Si la cuota se agota, las compras adicionales se cobran al precio no subsidiado. Los conductores de e-hailing y p-hailing conservan un tope más alto de **800 litros al mes** por sus necesidades laborales.

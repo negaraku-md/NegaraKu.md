@@ -30,7 +30,7 @@ faq:
     a: "YTL Power construit un grand parc de centres de données à Kulai, Johor, et a achevé une première installation d'IA propulsée par Nvidia dont la mise en service a été annoncée fin octobre 2025."
 
 lang: "fr"
-sourceContentHash: "430ec56c95aad0ac"
+sourceContentHash: "50fb36d32d88cbec"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ La valeur est répartie entre plusieurs véhicules plutôt que concentrée dans 
 | YTL Power International | 6742 | Services publics et infrastructure numérique | Composante du FTSE Bursa Malaysia KLCI |
 | Malayan Cement | — | Ciment et matériaux de construction | Filiale indirecte détenue majoritairement (via YTL Cement) ; chiffre d'affaires exercice 2024 RM4.45 mrd, bénéfice net RM428.7 m |
 
-Malayan Cement porte l'activité ciment et matériaux de construction du groupe et est une filiale indirecte détenue majoritairement via YTL Cement. Elle a enregistré un chiffre d'affaires de RM4.45 milliards pour l'exercice 2024, en hausse de 18,3 %, et un bénéfice net de RM428.7 millions — un bond d'environ 170 % par rapport aux RM159.04 millions de l'année précédente, lors d'une solide année de reprise portée par des mégaprojets d'infrastructure comme l'East Coast Rail Link.
+Malayan Cement porte l'activité ciment et matériaux de construction du groupe et est une filiale indirecte détenue majoritairement via YTL Cement. Elle a enregistré un chiffre d'affaires de RM4.45 milliards pour l'exercice 2024, en hausse de 18,3 %, et un bénéfice net de RM428.7 millions — un bond d'environ 170 % par rapport aux RM159.04 millions de l'année précédente, lors d'une solide année de reprise portée par des mégaprojets d'infrastructure comme l'[East Coast Rail Link](/fr/transport/east-coast-rail-link-ecrl).
 
 ## Où se situent les services publics ?
 

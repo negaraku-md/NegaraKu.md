@@ -32,7 +32,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "20ff86fa7188caf6"
+sourceContentHash: "4b7c164a82659f20"
 
 status: "published"
 aiAssisted: true
@@ -97,7 +97,7 @@ Commercial vehicles have different period rules, since they are often subject to
 
 ## If it lapses for too long
 
-There is no official limit on how long a vehicle can "rest" without an LKM before it is considered a technical issue — but JPJ sets one clear condition: **if the LKM has not been renewed for more than three years**, the vehicle must be brought in for inspection at Puspakom to obtain a B2 report (or a PG10 inspection specifically for individually-owned motorcycles). Only after that report has been obtained can the owner or their representative go to a JPJ office with the original registration documents and sufficient payment to proceed with renewal.
+There is no official limit on how long a vehicle can "rest" without an LKM before it is considered a technical issue — but JPJ sets one clear condition: **if the LKM has not been renewed for more than three years**, the vehicle must be brought in for inspection at [Puspakom](/en/transport/puspakom-vehicle-inspections) to obtain a B2 report (or a PG10 inspection specifically for individually-owned motorcycles). Only after that report has been obtained can the owner or their representative go to a JPJ office with the original registration documents and sufficient payment to proceed with renewal.
 
 This means a vehicle left idle for years cannot simply be renewed online — it must go through a physical inspection first.
 

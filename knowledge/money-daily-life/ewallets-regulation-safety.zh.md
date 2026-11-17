@@ -34,7 +34,7 @@ faq:
     a: "是的。这四家——TNG Digital Sdn Bhd、Axiata Digital E-code Sdn Bhd（Boost）、GPay Network (M) Sdn Bhd（GrabPay）以及 ShopeePay Malaysia Sdn Bhd——都在 BNM 的官方名单中被列为非银行电子货币发行商。"
 
 lang: "zh"
-sourceContentHash: "3baa675be6fcede6"
+sourceContentHash: "73693ba617d202b7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,7 +85,7 @@ framework: explainer
 
 ## 谁在马来西亚监管电子钱包？
 
-Touch 'n Go eWallet、Boost、GrabPay 和 ShopeePay 这类电子钱包并非银行。它们由马来西亚国家银行（BNM）作为**电子货币发行商**（*e-money issuer*，即 EMI）监管，依据**《2013 年金融服务法》（FSA）第 11 条**获批——对于符合伊斯兰教法的产品，则依据《2013 年伊斯兰金融服务法》（IFSA）第 11 条。
+[Touch 'n Go](/zh/transport/touch-n-go) eWallet、Boost、GrabPay 和 ShopeePay 这类电子钱包并非银行。它们由马来西亚国家银行（BNM）作为**电子货币发行商**（*e-money issuer*，即 EMI）监管，依据**《2013 年金融服务法》（FSA）第 11 条**获批——对于符合伊斯兰教法的产品，则依据《2013 年伊斯兰金融服务法》（IFSA）第 11 条。
 
 详细框架载于 BNM 于**2025 年 1 月 31 日**生效的《电子货币（E-Money）政策文件》。该文件将电子货币定义为一种支付工具，"以电子方式储存资金，作为已付予发行商之资金的对价"，并可用于向发行商以外的一方付款。
 

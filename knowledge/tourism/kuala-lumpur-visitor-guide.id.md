@@ -36,7 +36,7 @@ faq:
     a: "Tutup bahu dan lutut Anda. Kain sarung biasanya tersedia untuk dipinjam atau disewa di pintu masuk jika pakaian Anda terlalu terbuka. Alas kaki yang nyaman membantu untuk tangga panjang naik ke kuil gua utama."
 
 lang: "id"
-sourceContentHash: "2716ca2d76a67d28"
+sourceContentHash: "83577f20656ec6a9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -135,7 +135,7 @@ Catatan praktis: KLIA Ekspres tidak terpengaruh oleh lalu lintas jalan raya, jad
 
 Kuala Lumpur beroperasi dengan tiga sistem rel yang tersambung — **MRT**, **LRT** dan **Monorel** — ditambah dengan bus dan Grab. Bersama-sama, ia menjangkau hampir setiap tempat yang ingin dituju pengunjung pertama kali, dan murah.
 
-Cara paling mudah untuk membayar adalah kartu **Touch 'n Go**, kartu nirsentuh yang bisa diisi ulang yang Anda tempel di pintu pagar pada setiap jalur rel dan pada bus. Anda bisa membeli dan menambah nilai di loket stasiun dan toko swalayan. Jika Anda lebih suka tidak mengurus kartu nilai tersimpan, kartu bank nirsentuh dan pembayaran QR semakin diterima di pintu pagar juga.
+Cara paling mudah untuk membayar adalah kartu **[Touch 'n Go](/id/transport/touch-n-go)**, kartu nirsentuh yang bisa diisi ulang yang Anda tempel di pintu pagar pada setiap jalur rel dan pada bus. Anda bisa membeli dan menambah nilai di loket stasiun dan toko swalayan. Jika Anda lebih suka tidak mengurus kartu nilai tersimpan, kartu bank nirsentuh dan pembayaran QR semakin diterima di pintu pagar juga.
 
 Untuk perjalanan tanpa batas, Rapid KL menjual pas harian. Warga negara Malaysia bisa membeli **Rapid Kota Pass** seharga **RM10 untuk satu hari** atau **RM25 untuk tiga hari**, mencakup perjalanan tanpa batas di LRT, MRT, Monorel, BRT dan bus Rapid KL. Wisatawan memiliki pas tanpa batas yang setara, **Rapid Kembara Pass**, dijual di loket layanan pelanggan stasiun — tanyakan kepada staf tentang harga dan masa berlaku terkini saat Anda membeli.
 

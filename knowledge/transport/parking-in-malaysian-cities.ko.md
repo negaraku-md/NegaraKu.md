@@ -29,7 +29,7 @@ faq:
     a: "아니요. 주차 벌칙금은 주차 관련 도로교통 명령에 따라 PBT가 발부하는 반면, 운전 위반에 대한 교통 딱지는 PDRM이나 JPJ가 발부합니다."
 
 lang: "ko"
-sourceContentHash: "cec9d7c50b142e19"
+sourceContentHash: "fbbc5c9405ba0df6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -125,7 +125,7 @@ DBKL은 **2020년 10월 1일**에 기계와 재래식 노상 결제를 중단했
 비현금 결제로의 전환은 주차하기 전에 앱을 내려받아야 함을 의미합니다.
 쿠알라룸푸르 노상 주차에 인정되는 선택지로는:
 
-- **EZ Smart Park** — FPX, UnionPay 신용카드, Boost, 터치 앤 고(Touch 'n Go), MCash 지원
+- **EZ Smart Park** — FPX, UnionPay 신용카드, Boost, [터치 앤 고](/ko/transport/touch-n-go)(Touch 'n Go), MCash 지원
 - **Flexi Parking**과 **Wilayah Parking** — FPX, 신용카드(Visa/Mastercard), Boost, 터치 앤 고(Touch 'n Go), GrabPay
 - **Jom Parking** — 온라인 뱅킹, 신용/직불카드, Boost, GrabPay
 - **MCash** — 온라인 뱅킹, 신용카드, 가맹점/대리점, E-Pay Digi 바우처, 모든 KK Super Mart

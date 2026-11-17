@@ -29,7 +29,7 @@ faq:
 lang: "fr"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d3de00140a544bd9"
+sourceContentHash: "94d96ff23ee94d3f"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -92,7 +92,7 @@ Les responsabilités du JPJ se regroupent en une poignée de domaines de base :
 
 - **Permis des conducteurs.** Le JPJ délivre et renouvelle les permis de conduire et fixe la structure des permis. Les apprentis commencent par un **permis de conduire d'apprenti (LDL)** et affichent une plaque «L» ; les nouveaux conducteurs détiennent ensuite un **permis de conduire probatoire (PDL)** avec une plaque «P» pendant une période probatoire de deux ans avant d'obtenir le **permis de conduire confirmé (CDL)** complet. Les conducteurs commerciaux ont en outre besoin d'un **permis professionnel** — un permis de conduire de marchandises (GDL) pour les camions et véhicules de marchandises, ou un permis de véhicule de service public (PSV) pour les taxis, bus et VTC.
 - **Immatriculation des véhicules à moteur.** Chaque véhicule à moteur doit être immatriculé auprès du JPJ, qui enregistre la propriété, attribue les détails d'immatriculation (plaque) et gère les transferts de propriété.
-- **Taxe routière (LKM).** Ce que les Malaisiens appellent la taxe routière (*cukai jalan*) est formellement le **permis de véhicule à moteur** — *Lesen Kenderaan Motor*, ou **LKM** — que le JPJ délivre pour autoriser l'usage d'un véhicule sur les routes publiques. Le portail MyGovernment décrit le LKM comme délivré par le JPJ pour permettre à un véhicule de circuler sur la route, une assurance automobile valide étant une condition préalable au renouvellement.
+- **Taxe routière (LKM).** Ce que les Malaisiens appellent la taxe routière (*cukai jalan*) est formellement le **permis de véhicule à moteur** — *[Lesen Kenderaan Motor](/fr/transport/road-tax-renewal)*, ou **LKM** — que le JPJ délivre pour autoriser l'usage d'un véhicule sur les routes publiques. Le portail MyGovernment décrit le LKM comme délivré par le JPJ pour permettre à un véhicule de circuler sur la route, une assurance automobile valide étant une condition préalable au renouvellement.
 - **Plaques d'immatriculation.** Le JPJ contrôle le système des numéros d'immatriculation, y compris la mise aux enchères des plaques spéciales et personnalisées à travers ses plateformes d'enchères.
 - **Autorisation des véhicules commerciaux.** Le JPJ administre l'autorisation des véhicules de marchandises et de service public, un travail historiquement lié au cadre du Commercial Vehicles Licensing Board.
 - **Application des règles.** Le JPJ mène ses propres opérations d'application contre les conducteurs sans permis, les véhicules non immatriculés ou non en état de rouler, les camions surchargés et d'autres infractions, et exploite le système de points de pénalité **KEJARA** qui sanctionne les contrevenants au code de la route.

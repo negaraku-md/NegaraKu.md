@@ -37,7 +37,7 @@ faq:
     a: "TRX mempunyai stesen keretapinya sendiri, stesen MRT Tun Razak Exchange, yang telah beroperasi sejak 2017 dan dikhidmati oleh dua laluan MRT. Akses jalan raya disediakan oleh rangkaian tengah Kuala Lumpur di sekelilingnya."
 
 lang: "ms"
-sourceContentHash: "3ada5248558e634e"
+sourceContentHash: "cccc89ca0e73837c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -141,7 +141,7 @@ TRX direka sebagai **daerah guna campuran**, bukan enklaf pejabat semata-mata â€
 
 ## Cara sampai ke sana
 
-Kesalinghubungan dibina masuk dari awal. **Stesen MRT Tun Razak Exchange**, dibuka sejak **2017**, terletak di daerah ini dan dikhidmati oleh dua laluan MRT, mengikat TRX terus ke dalam rangkaian keretapi Lembah Klang. Penambat transit itu sebahagian daripada apa yang membezakan sebuah daerah kewangan yang dirancang daripada taburan menara.
+Kesalinghubungan dibina masuk dari awal. **Stesen MRT Tun Razak Exchange**, dibuka sejak **2017**, terletak di daerah ini dan dikhidmati oleh dua laluan MRT, mengikat TRX terus ke dalam [rangkaian keretapi Lembah Klang](/ms/transport/klang-valley-rail). Penambat transit itu sebahagian daripada apa yang membezakan sebuah daerah kewangan yang dirancang daripada taburan menara.
 
 ## Kisah asal usul: 1MDB dan pemindahan ke MOF Inc
 

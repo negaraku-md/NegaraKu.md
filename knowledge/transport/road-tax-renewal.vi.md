@@ -31,7 +31,7 @@ faq:
     a: "Nếu LKM không được gia hạn hơn ba năm, JPJ yêu cầu phương tiện được đưa đi kiểm định tại Puspakom để có báo cáo B2 (hoặc kiểm định PG10 riêng cho xe máy thuộc sở hữu cá nhân) trước khi đơn gia hạn có thể được xử lý tại văn phòng JPJ."
 
 lang: "vi"
-sourceContentHash: "20ff86fa7188caf6"
+sourceContentHash: "4b7c164a82659f20"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -98,7 +98,7 @@ Phương tiện thương mại có các quy định thời hạn khác nhau, vì
 
 ## Nếu bỏ lỡ quá lâu
 
-Không có giới hạn chính thức về việc một phương tiện có thể "nghỉ ngơi" bao lâu mà không có LKM trước khi nó bị coi là một vấn đề kỹ thuật — nhưng JPJ đặt ra một điều kiện rõ ràng: **nếu LKM không được gia hạn hơn ba năm**, phương tiện đó phải được đưa đi kiểm định tại Puspakom để có báo cáo B2 (hoặc kiểm định PG10 riêng cho xe máy thuộc sở hữu cá nhân). Chỉ sau khi có được báo cáo đó, chủ hoặc người đại diện của họ mới có thể đến văn phòng JPJ với giấy tờ đăng ký gốc và khoản thanh toán đủ để tiếp tục gia hạn.
+Không có giới hạn chính thức về việc một phương tiện có thể "nghỉ ngơi" bao lâu mà không có LKM trước khi nó bị coi là một vấn đề kỹ thuật — nhưng JPJ đặt ra một điều kiện rõ ràng: **nếu LKM không được gia hạn hơn ba năm**, phương tiện đó phải được đưa đi kiểm định tại [Puspakom](/vi/transport/puspakom-vehicle-inspections) để có báo cáo B2 (hoặc kiểm định PG10 riêng cho xe máy thuộc sở hữu cá nhân). Chỉ sau khi có được báo cáo đó, chủ hoặc người đại diện của họ mới có thể đến văn phòng JPJ với giấy tờ đăng ký gốc và khoản thanh toán đủ để tiếp tục gia hạn.
 
 Điều này có nghĩa là một phương tiện bị bỏ mặc nhiều năm không thể tiếp tục gia hạn trực tuyến — nó cần trải qua kiểm tra vật lý trước.
 

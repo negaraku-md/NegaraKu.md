@@ -31,7 +31,7 @@ faq:
     a: "JPJ 전기차 LKM 지침에 따르면 50 kW 이하 EV의 경우 연 RM20입니다. 요율은 더 높은 출력에 대해 누진적으로 증가합니다."
 
 lang: "ko"
-sourceContentHash: "926c690f458094f6"
+sourceContentHash: "f81df275bc45182b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,7 +99,7 @@ MyJPJ에 처음 도착하는 청구서는 생각보다 저렴할 수 있으며, 
 
 2022년 이후, 정부는 전기차 보급을 장려하기 위해 EV를 도로세에서
 면제해 왔습니다. 그 면제는 2025년 12월 31일에 종료되었고 연장되지
-않았습니다. 2026년 1월 1일부터, 모든 개인용 EV는 다시 자동차등록세(Lesen
+않았습니다. 2026년 1월 1일부터, 모든 개인용 EV는 다시 [자동차등록세](/ko/transport/road-tax-renewal)(Lesen
 Kenderaan Motor, LKM)를 냅니다 — 다만 이제 그 공식은 휘발유 차량과 완전히
 다릅니다.
 

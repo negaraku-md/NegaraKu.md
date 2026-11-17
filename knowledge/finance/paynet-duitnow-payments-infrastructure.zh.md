@@ -29,7 +29,7 @@ faq:
     a: "可以。DuitNow QR 是互通的，因此商家的单个 QR 码可以被不同的银行和电子钱包扫描，例如 Touch 'n Go eWallet、GrabPay 和 Boost，只要它们参与其中即可。"
 
 lang: "zh"
-sourceContentHash: "4d9809544dd36b01"
+sourceContentHash: "4ae276cb59bc3eb5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,7 +108,7 @@ PayNet 运营轨道；你所使用的银行和电子钱包则是位于其上的�
 
 ## 互通性为何重要？
 
-共享网络的全部意义在于：你不需要在意对方使用哪家银行或钱包。DuitNow QR 是刻意设计为互通的：单个商家 QR 码可以被 Touch 'n Go eWallet、GrabPay、Boost 或任何参与其中的银行应用程序扫描。
+共享网络的全部意义在于：你不需要在意对方使用哪家银行或钱包。DuitNow QR 是刻意设计为互通的：单个商家 QR 码可以被 [Touch 'n Go](/zh/transport/touch-n-go) eWallet、GrabPay、Boost 或任何参与其中的银行应用程序扫描。
 
 如今这种设计正在成为强制要求。为防止市场分裂成各自为政的"围墙花园"，国行已裁定专有 QR 码网络必须在 2028 年 6 月 30 日前停止运营，此前设有两年过渡期，期间受影响的运营商不得接入新商家。用国行的话说，目标是营造一个马来西亚所有 QR 支付都互通的环境。
 

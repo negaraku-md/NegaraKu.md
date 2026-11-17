@@ -49,7 +49,7 @@ verificationNeeded:
   - "Confirm the Gemas to Johor Bahru electrified double track formal launch date and project cost — neither was located"
 
 lang: "hi"
-sourceContentHash: "300ad373430dce8b"
+sourceContentHash: "77f26148404eb5f2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -167,7 +167,7 @@ KLIA राष्ट्रीय हवाई माल का 75 प्रत�
 
 ## ECRL वास्तव में क्या बदलता है, और कब?
 
-East Coast Rail Link **फरवरी 2026 तक 92.62 प्रतिशत पूर्ण है**, Kota Bharu से Gombak तक के सभी 519 किमी पर पटरी बिछाई गई है। चरणबद्धता सुर्खी से अधिक मायने रखती है:
+[East Coast Rail Link](/hi/transport/east-coast-rail-link-ecrl) **फरवरी 2026 तक 92.62 प्रतिशत पूर्ण है**, Kota Bharu से Gombak तक के सभी 519 किमी पर पटरी बिछाई गई है। चरणबद्धता सुर्खी से अधिक मायने रखती है:
 
 | खंड | पूर्णता | संचालन |
 | --- | --- | --- |

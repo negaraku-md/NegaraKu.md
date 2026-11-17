@@ -29,7 +29,7 @@ faq:
     a: "대개 불가능합니다. 많은 동해안 리조트와 선박 운영자가 북동 몬순으로 인한 험한 바다 때문에 대략 10월부터 2월까지 자발적으로 서비스를 중단합니다."
 
 lang: "ko"
-sourceContentHash: "ea7ce50e8b808f2f"
+sourceContentHash: "6d82ddd104b2cdb5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -113,7 +113,7 @@ Port Commission)**가 운영합니다.
 | 오토바이 | RM 2.50 |
 | 자전거 | RM 2.00 |
 
-터치 앤 고(Touch 'n Go), 창구, 또는 온라인 티켓으로 결제할 수 있습니다. 많은
+터치 앤 고([Touch 'n Go](/ko/transport/touch-n-go)), 창구, 또는 온라인 티켓으로 결제할 수 있습니다. 많은
 여행자는 페낭 대교(Penang Bridge)나 술탄 압둘 할림 무아잠 샤 대교(제2 대교)를
 통해 도로로도 섬에 닿습니다; 페리는 유일한 연결편이라기보다 경치 좋은 통근
 선택지입니다.

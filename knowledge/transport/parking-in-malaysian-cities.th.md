@@ -29,7 +29,7 @@ faq:
     a: "ไม่ ค่าปรับจอดรถออกโดย PBT ภายใต้คำสั่งจราจรทางถนนที่เกี่ยวกับการจอดรถ ในขณะที่ใบสั่งจราจรสำหรับความผิดในการขับรถออกโดย PDRM หรือ JPJ"
 
 lang: "th"
-sourceContentHash: "cec9d7c50b142e19"
+sourceContentHash: "fbbc5c9405ba0df6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -112,7 +112,7 @@ DBKL หยุดใช้เครื่องและการชำระเ
 
 การเปลี่ยนไปสู่การชำระเงินแบบไร้เงินสดหมายความว่าคุณต้องดาวน์โหลดแอปพลิเคชันก่อนจอดรถ ในบรรดาตัวเลือกที่ยอมรับสำหรับการจอดรถริมถนนของ KL:
 
-- **EZ Smart Park** — รับ FPX, บัตรเครดิต UnionPay, Boost, Touch 'n Go และ MCash
+- **EZ Smart Park** — รับ FPX, บัตรเครดิต UnionPay, Boost, [Touch 'n Go](/th/transport/touch-n-go) และ MCash
 - **Flexi Parking** และ **Wilayah Parking** — FPX, บัตรเครดิต (Visa/Mastercard), Boost, Touch 'n Go และ GrabPay
 - **Jom Parking** — ธนาคารออนไลน์, บัตรเครดิต/เดบิต, Boost และ GrabPay
 - **MCash** — ธนาคารออนไลน์, บัตรเครดิต, ร้านค้า/ตัวแทน, บัตรกำนัล E-Pay Digi และที่ KK Super Mart ทุกสาขา

@@ -28,7 +28,7 @@ faq:
     a: "Di bawah keputusan 2020, tarif tol dikurangi 18% mulai 1 Februari 2020 dan tidak ada kenaikan tol yang dijadwalkan sepanjang periode konsesi perpanjangan hingga 2058."
 
 lang: "id"
-sourceContentHash: "6a089759a8d1ba8f"
+sourceContentHash: "3030e02b122487e7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -123,7 +123,7 @@ Menurut The Edge Malaysia, pengurangan tol 18% atas kendaraan pribadi berlaku ef
 
 Bagi pengguna biasa, dampak praktisnya jelas: tarif tol yang lebih rendah dan stabil hingga 2058, tanpa kenaikan berkala seperti sebelumnya. PLUS pun terus memegang tanggung jawab atas pengelolaan aset, operasi, dan pembiayaan pemeliharaan sepanjang periode perpanjangan.
 
-Kartu Touch 'n Go, yang diperkenalkan pada **1997**, membolehkan pembayaran tol secara elektronik di jalan tol PLUS dan menandai peralihan berkelanjutan ke arah operasi tanpa tunai.
+Kartu [Touch 'n Go](/id/transport/touch-n-go), yang diperkenalkan pada **1997**, membolehkan pembayaran tol secara elektronik di jalan tol PLUS dan menandai peralihan berkelanjutan ke arah operasi tanpa tunai.
 
 ## Apa selanjutnya
 

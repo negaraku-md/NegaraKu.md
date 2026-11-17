@@ -164,7 +164,7 @@ KLIA is 75 per cent of national air freight. Penang, at 114,551 tonnes, is the o
 
 ## What does the ECRL actually change, and when?
 
-The East Coast Rail Link is **92.62 per cent complete as of February 2026**, with track laid across all 519 km of the Kota Bharu to Gombak stretch. The staging matters more than the headline:
+The [East Coast Rail Link](/transport/east-coast-rail-link-ecrl) is **92.62 per cent complete as of February 2026**, with track laid across all 519 km of the Kota Bharu to Gombak stretch. The staging matters more than the headline:
 
 | Section | Completion | Operations |
 | --- | --- | --- |

@@ -30,7 +30,7 @@ faq:
     a: "La banque ou la société de financement est enregistrée comme le propriétaire légal du véhicule en vertu de la Hire-Purchase Act 1967 pendant toute la durée du prêt. L'acheteur est le détenteur enregistré qui a l'usage quotidien du véhicule, et ne devient le propriétaire enregistré qu'une fois le prêt intégralement remboursé et une mainlevée émise par l'organisme de financement."
 
 lang: "fr"
-sourceContentHash: "fbeedb8341d7b377"
+sourceContentHash: "1e94499e976a5044"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,7 +88,7 @@ framework: how-to
 
 Achetez une voiture en Malaisie et vous signez un seul contrat, mais vous entrez en réalité dans trois relations distinctes à la fois : une avec celui qui vous a vendu la voiture, une avec celui qui la finance, et une avec le JPJ, le département qui décide au nom de qui le véhicule est réellement enregistré. Sautez une étape dans l'une des trois, et la voiture que vous avez payée n'est légalement pas encore tout à fait la vôtre.
 
-La plupart des primo-acheteurs ne le remarquent que lorsque quelque chose tourne mal — une voiture d'occasion qu'ils ont achetée se révèle être encore financée, ou une banque refuse de débloquer un prêt tant qu'un papier de Puspakom n'apparaît pas. Rien de tout cela n'est arbitraire. Chaque étape existe pour répondre à une question : qui est réellement responsable de ce véhicule en ce moment ?
+La plupart des primo-acheteurs ne le remarquent que lorsque quelque chose tourne mal — une voiture d'occasion qu'ils ont achetée se révèle être encore financée, ou une banque refuse de débloquer un prêt tant qu'un papier de [Puspakom](/fr/transport/puspakom-vehicle-inspections) n'apparaît pas. Rien de tout cela n'est arbitraire. Chaque étape existe pour répondre à une question : qui est réellement responsable de ce véhicule en ce moment ?
 
 ## Réponse courte
 

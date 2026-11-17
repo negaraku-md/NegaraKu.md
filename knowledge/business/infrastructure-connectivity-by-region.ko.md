@@ -49,7 +49,7 @@ verificationNeeded:
   - "그마스(Gemas)에서 조호르바루까지 전철화 복선의 공식 개통일과 사업비 — 둘 다 찾지 못했습니다"
 
 lang: "ko"
-sourceContentHash: "300ad373430dce8b"
+sourceContentHash: "77f26148404eb5f2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -165,7 +165,7 @@ KLIA는 국가 항공 화물의 75%입니다. 114,551톤의 페낭이 의미 있
 
 ## ECRL은 실제로 무엇을, 언제 바꾸는가?
 
-동해안철도연결(East Coast Rail Link, ECRL)은 **2026년 2월 기준 92.62% 완공**되었으며, 코타바루(Kota Bharu)에서 곰박(Gombak)까지의 519km 전 구간에 궤도가 부설되었습니다. 표제보다 단계 구분이 더 중요합니다:
+동해안철도연결([East Coast Rail Link](/ko/transport/east-coast-rail-link-ecrl), ECRL)은 **2026년 2월 기준 92.62% 완공**되었으며, 코타바루(Kota Bharu)에서 곰박(Gombak)까지의 519km 전 구간에 궤도가 부설되었습니다. 표제보다 단계 구분이 더 중요합니다:
 
 | 구간 | 완공 | 운영 개시 |
 | --- | --- | --- |

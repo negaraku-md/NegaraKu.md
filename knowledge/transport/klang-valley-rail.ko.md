@@ -34,7 +34,7 @@ verificationNeeded:
   - "현재 MRT 카장선(Kajang Line)의 길이/역 수는 발행 전에 MRT Corp 또는 라피드 레일에 직접 확인할 것 — 교통부와 라피드 레일 자체 노선 페이지가 약간 다른 수치(51km/31개 역 대 46km/29개 역)를 제시하며, 이 글은 조정될 때까지 그대로 반복하는 것을 피했음."
 
 lang: "ko"
-sourceContentHash: "8f5aa15915a64a18"
+sourceContentHash: "7d38e6c3a9bd713c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -181,7 +181,7 @@ KL 센트럴까지 내내 가지 않고 세렘반선과 포트클랑선 사이�
 ## 노선을 넘나드는 여정 계획하기
 
 라피드 레일 자체 네트워크 — LRT, MRT, 모노레일, 샤알람선 — 에 국한된
-어떤 여정이든, 하나의 터치 앤 고(Touch 'n Go) 카드, 개찰구에 직접 태그하는
+어떤 여정이든, 하나의 [터치 앤 고](/ko/transport/touch-n-go)(Touch 'n Go) 카드, 개찰구에 직접 태그하는
 비접촉식 은행 카드, 또는 역 기계에서 산 토큰이 여정에 필요한 만큼의 노선을
 승객을 태워 가로지르며, 각 환승역에서 별도의 표가 필요하지 않습니다.
 **MyRapid Pulse** 앱(라피드 KL의 공식 여정 계획기)은 바로 이 서비스 집합 —

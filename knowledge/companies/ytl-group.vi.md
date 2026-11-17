@@ -30,7 +30,7 @@ faq:
     a: "YTL Power đang xây dựng một công viên trung tâm dữ liệu lớn tại Kulai, Johor, và hoàn thành một cơ sở AI chạy bằng Nvidia đầu tiên được công bố đi vào hoạt động vào cuối tháng 10 năm 2025."
 
 lang: "vi"
-sourceContentHash: "430ec56c95aad0ac"
+sourceContentHash: "50fb36d32d88cbec"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ Giá trị được trải rộng qua nhiều pháp nhân thay vì tập trung v
 | YTL Power International | 6742 | Tiện ích và hạ tầng số | Thành phần của FTSE Bursa Malaysia KLCI |
 | Malayan Cement | — | Xi măng và vật liệu xây dựng | Công ty con gián tiếp thuộc sở hữu đa số (qua YTL Cement); doanh thu FY2024 RM4.45 tỷ, lợi nhuận ròng RM428.7 triệu |
 
-Malayan Cement gánh hoạt động kinh doanh xi măng và vật liệu xây dựng của tập đoàn và là một công ty con gián tiếp thuộc sở hữu đa số được nắm qua YTL Cement. Nó báo cáo doanh thu FY2024 là RM4.45 tỷ, tăng 18,3%, và lợi nhuận ròng RM428.7 triệu — một cú nhảy khoảng 170% từ RM159.04 triệu một năm trước đó, trong một năm phục hồi mạnh mẽ được thúc đẩy bởi các đại dự án hạ tầng như East Coast Rail Link.
+Malayan Cement gánh hoạt động kinh doanh xi măng và vật liệu xây dựng của tập đoàn và là một công ty con gián tiếp thuộc sở hữu đa số được nắm qua YTL Cement. Nó báo cáo doanh thu FY2024 là RM4.45 tỷ, tăng 18,3%, và lợi nhuận ròng RM428.7 triệu — một cú nhảy khoảng 170% từ RM159.04 triệu một năm trước đó, trong một năm phục hồi mạnh mẽ được thúc đẩy bởi các đại dự án hạ tầng như [East Coast Rail Link](/vi/transport/east-coast-rail-link-ecrl).
 
 ## Các tiện ích nằm ở đâu?
 

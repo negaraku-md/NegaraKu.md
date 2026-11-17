@@ -25,7 +25,7 @@ faq:
   - q: "¿Qué es el e-LKM?"
     a: "El e-LKM es la Licencia de Vehículo de Motor digital (impuesto de circulación digital) que el JPJ introdujo a partir de 2023, en sustitución de la pegatina física. Es accesible a través de la app MyJPJ o el portal MySIKAP."
 lang: "es"
-sourceContentHash: "5feaacc87ec61a6a"
+sourceContentHash: "f6e325f951c4e130"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -108,7 +108,7 @@ El JPJ se rige por la **Ley de Transporte por Carretera de 1987 (Act 333)**, el 
 La **Licencia de Vehículo de Motor** —el impuesto de circulación, o *cukai jalan*— la expide el JPJ para permitir que un vehículo circule por las vías públicas, y puede renovarla el propietario registrado o su representante. Antes de que una renovación se tramite, deben cumplirse algunas condiciones:
 
 - Un seguro de vehículo activo que cubra un mínimo de un año.
-- Una **inspección PUSPAKOM/PPKM** superada para ciertos vehículos, como los comerciales o los de más de 10 años.
+- Una **inspección [PUSPAKOM](/es/transport/puspakom-vehicle-inspections)/PPKM** superada para ciertos vehículos, como los comerciales o los de más de 10 años.
 - El vehículo y el propietario no deben estar en la lista negra del JPJ ni de la policía (PDRM).
 
 A partir de **2023**, el JPJ introdujo el **e-LKM**, la Licencia de Vehículo de Motor digital que sustituye a la pegatina física del impuesto de circulación. Se accede a él a través de la app **MyJPJ** o el portal **MySIKAP**.

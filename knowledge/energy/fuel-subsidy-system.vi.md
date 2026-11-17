@@ -37,7 +37,7 @@ faq:
     a: "Diesel ở Sabah, Sarawak và Labuan giữ ở mức RM2.15 mỗi lít và không được thả nổi như ở Bán đảo. RON95 được trợ cấp RM1.99 áp dụng cho công dân đủ điều kiện trên toàn quốc."
 
 lang: "vi"
-sourceContentHash: "b0726e746e504bf9"
+sourceContentHash: "e18d2fccb4cddc2e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -176,7 +176,7 @@ Ba bộ phận vận hành cùng lúc mỗi khi bạn đổ xăng: xác nhận d
 
 - Đưa MyKad vào **thiết bị đọc** tại trạm.
 - Sử dụng **ứng dụng công ty dầu** như Setel (Petronas) hoặc ứng dụng Shell.
-- **Touch 'n Go eWallet** hoặc Outdoor Payment Terminal (OPT).
+- **[Touch 'n Go](/vi/transport/touch-n-go) eWallet** hoặc Outdoor Payment Terminal (OPT).
 - **Thanh toán tiền mặt tại quầy** — được chuẩn bị riêng cho những ai không có ví điện tử hoặc không có internet.
 
 **Hạn ngạch** hạn chế việc lạm dụng. Mỗi cá nhân đủ điều kiện nhận **200 lít mỗi tháng** ở mức giá được trợ cấp — giảm từ 300 lít từ ngày **1 tháng 4 năm 2026**, trong khi giá được giữ ở mức RM1.99. Từ ngày **1 tháng 7 năm 2026**, hạn ngạch 200 lít đó được **chia sẻ** giữa RON95 được trợ cấp (RM1.99) và Budi Diesel (RM2.10) — cả hai rút từ cùng một số dư. Nếu hết hạn ngạch, việc mua tiếp chịu giá không trợ cấp. Người lái e-hailing và p-hailing giữ mức trần cao hơn là **800 lít mỗi tháng** vì nhu cầu công việc của họ.

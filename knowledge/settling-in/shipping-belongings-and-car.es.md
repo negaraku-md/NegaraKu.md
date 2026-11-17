@@ -20,7 +20,7 @@ keyTakeaways:
   - "La matriculación del vehículo se presenta electrónicamente a través de uno de los tres Gateway Providers designados por el JPJ, con una tarifa de servicio del JPJ de RM50 por presentación"
 appliesTo: "Cualquiera que se reubique en Malasia —malasios que regresan, nuevos contratados expatriados, participantes del MM2H— que esté decidiendo qué enviar, y si enviar un coche de propiedad personal es realista."
 lang: "es"
-sourceContentHash: "1a35587b5de4590d"
+sourceContentHash: "e00cd8710f963e53"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -110,7 +110,7 @@ Un AP y una factura de aranceles pagada todavía no te ponen al volante legalmen
 
 1. Una copia del **Permiso Aprobado (AP)**
 2. El **Formulario de Aduanas K1** del vehículo
-3. Un **informe de inspección de PUSPAKOM** que confirme la aptitud para circular y las especificaciones del vehículo
+3. Un **informe de inspección de [PUSPAKOM](/es/transport/puspakom-vehicle-inspections)** que confirme la aptitud para circular y las especificaciones del vehículo
 
 Estos se presentan electrónicamente, no en un mostrador del JPJ; los datos de matriculación pasan por uno de los tres **Gateway Providers** designados por el JPJ (Cuscapi Berhad, Drosstech Sdn Bhd, o POIS Sdn Bhd), que cobran cada uno una tarifa de servicio del JPJ de RM50 por presentación. Solo después de que esos datos lleguen al JPJ y se aprueben, el vehículo obtiene un número de matrícula malasio, momento en el que se aplican los requisitos ordinarios de impuesto de circulación y seguro de automóvil como a cualquier otro coche matriculado en Malasia; consulta [seguro de automóvil](/en/transport/motor-insurance) y [renovación del impuesto de circulación](/en/transport/road-tax-renewal) para lo que viene después.
 

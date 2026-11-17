@@ -107,7 +107,7 @@ PayNet operates the rails; the banks and e-wallets you use are the apps sitting 
 
 ## Why does interoperability matter?
 
-The whole point of a shared network is that you should not need to care which bank or wallet the other person uses. DuitNow QR is deliberately interoperable: a single merchant QR code can be scanned by Touch 'n Go eWallet, GrabPay, Boost or any participating bank app.
+The whole point of a shared network is that you should not need to care which bank or wallet the other person uses. DuitNow QR is deliberately interoperable: a single merchant QR code can be scanned by [Touch 'n Go](/transport/touch-n-go) eWallet, GrabPay, Boost or any participating bank app.
 
 That design is now becoming mandatory. To stop the market fragmenting into walled gardens, BNM has ruled that proprietary QR code networks must be discontinued by 30 June 2028, after a two-year transition during which affected operators cannot onboard new merchants. The goal, in BNM's words, is an environment where all QR payments in Malaysia are interoperable.
 

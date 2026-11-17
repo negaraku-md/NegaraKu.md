@@ -27,7 +27,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5feaacc87ec61a6a"
+sourceContentHash: "f6e325f951c4e130"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -108,7 +108,7 @@ JPJ 受**《1987年陆路交通法令》（第333号法令）**管辖，这是�
 **机动车辆执照**——即路税，或称 *cukai jalan*——由 JPJ 发放，以允许车辆在公共道路上行驶，可由登记车主或其代表更新。在更新获批之前，须符合若干条件：
 
 - 有效的车辆保险，涵盖至少一年。
-- 通过 **PUSPAKOM/PPKM 检验**（针对某些车辆，例如商用车辆或车龄超过10年的车辆）。
+- 通过 **[PUSPAKOM](/zh/transport/puspakom-vehicle-inspections)/PPKM 检验**（针对某些车辆，例如商用车辆或车龄超过10年的车辆）。
 - 车辆与车主不得被 JPJ 或警方（PDRM）列入黑名单。
 
 自 **2023年** 起，JPJ 推出 **e-LKM**，即取代实体路税贴纸的数字机动车辆执照。可通过 **MyJPJ** 应用程序或 **MySIKAP** 门户网站查看。

@@ -25,7 +25,7 @@ faq:
   - q: "e-LKM là gì?"
     a: "e-LKM là Giấy phép Phương tiện Cơ giới số (thuế đường bộ số) mà JPJ giới thiệu bắt đầu từ năm 2023, thay thế miếng dán vật lý. Nó có thể được truy cập qua ứng dụng MyJPJ hoặc cổng MySIKAP."
 lang: "vi"
-sourceContentHash: "5feaacc87ec61a6a"
+sourceContentHash: "f6e325f951c4e130"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -108,7 +108,7 @@ JPJ được điều chỉnh bởi **Luật Giao thông Đường bộ 1987 (Roa
 **Giấy phép Phương tiện Cơ giới** — thuế đường bộ, hay *cukai jalan* — do JPJ cấp để cho phép một phương tiện hoạt động trên đường công cộng, và nó có thể được gia hạn bởi chủ sở hữu đăng ký hoặc người đại diện của họ. Trước khi một lần gia hạn được thông qua, một vài điều kiện phải được đáp ứng:
 
 - Bảo hiểm phương tiện đang hoạt động bao trùm tối thiểu một năm.
-- Một **kiểm định PUSPAKOM/PPKM** đã đạt đối với một số phương tiện, như phương tiện thương mại hoặc những xe trên 10 tuổi.
+- Một **kiểm định [PUSPAKOM](/vi/transport/puspakom-vehicle-inspections)/PPKM** đã đạt đối với một số phương tiện, như phương tiện thương mại hoặc những xe trên 10 tuổi.
 - Phương tiện và chủ không được nằm trong danh sách đen của JPJ hoặc cảnh sát (PDRM).
 
 Bắt đầu từ năm **2023**, JPJ giới thiệu **e-LKM**, Giấy phép Phương tiện Cơ giới số thay thế miếng dán thuế đường bộ vật lý. Nó được truy cập qua ứng dụng **MyJPJ** hoặc cổng **MySIKAP**.

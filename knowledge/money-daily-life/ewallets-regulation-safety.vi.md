@@ -34,7 +34,7 @@ faq:
     a: "Có. Cả bốn — TNG Digital Sdn Bhd, Axiata Digital E-code Sdn Bhd (Boost), GPay Network (M) Sdn Bhd (GrabPay) và ShopeePay Malaysia Sdn Bhd — đều được liệt kê là bên phát hành tiền điện tử phi ngân hàng trong danh sách chính thức của BNM."
 
 lang: "vi"
-sourceContentHash: "3baa675be6fcede6"
+sourceContentHash: "73693ba617d202b7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,7 +85,7 @@ Bạn bấm "thanh toán" tại quầy, số dư ví điện tử giảm vài ri
 
 ## Ai quản lý ví điện tử tại Malaysia?
 
-Ví điện tử như Touch 'n Go eWallet, Boost, GrabPay và ShopeePay không phải ngân hàng. Chúng được Bank Negara Malaysia (BNM) quản lý với tư cách **bên phát hành tiền điện tử** (*e-money issuer*, hay EMI), được chấp thuận theo **section 11 của Financial Services Act 2013 (FSA)** — hoặc section 11 của Islamic Financial Services Act 2013 (IFSA) đối với các sản phẩm tuân thủ Shariah.
+Ví điện tử như [Touch 'n Go](/vi/transport/touch-n-go) eWallet, Boost, GrabPay và ShopeePay không phải ngân hàng. Chúng được Bank Negara Malaysia (BNM) quản lý với tư cách **bên phát hành tiền điện tử** (*e-money issuer*, hay EMI), được chấp thuận theo **section 11 của Financial Services Act 2013 (FSA)** — hoặc section 11 của Islamic Financial Services Act 2013 (IFSA) đối với các sản phẩm tuân thủ Shariah.
 
 Khung chi tiết nằm trong *Electronic Money (E-Money) Policy Document* của BNM có hiệu lực từ **ngày 31 tháng 1 năm 2025**. Tài liệu này định nghĩa tiền điện tử là công cụ thanh toán "lưu trữ tiền dưới dạng điện tử để đổi lấy khoản tiền đã trả cho bên phát hành" và có thể được dùng để thanh toán cho các bên khác ngoài bên phát hành.
 

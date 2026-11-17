@@ -32,7 +32,7 @@ faq:
     a: "Rapid Bus mulai mengubah 19 jalur berpenumpang rendah — 16 jalur feeder MRT dan 3 jalur biasa, kira-kira 7% dari jaringan — menjadi layanan van yang dapat dipesan Rapid KL On-Demand."
 
 lang: "id"
-sourceContentHash: "ef9c4ac09cb054b2"
+sourceContentHash: "dca77cc716c8a0b4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,7 +104,7 @@ Rel mahal untuk dibangun dan mengikuti jalur tetap. Satu stasiun MRT bisa terlet
 
 ## Berapa biaya satu perjalanan?
 
-Tarif berkisar dari **RM1 hingga RM5**, bergantung pada berapa banyak zona tarif yang Anda lalui. Pembayaran adalah **tanpa tunai saja** — kartu Touch 'n Go atau Kartu Konsesi MyRapid. Warga lansia, pelajar dan penyandang disabilitas membayar tarif **konsesi 50%**.
+Tarif berkisar dari **RM1 hingga RM5**, bergantung pada berapa banyak zona tarif yang Anda lalui. Pembayaran adalah **tanpa tunai saja** — kartu [Touch 'n Go](/id/transport/touch-n-go) atau Kartu Konsesi MyRapid. Warga lansia, pelajar dan penyandang disabilitas membayar tarif **konsesi 50%**.
 
 ## Apa yang berubah pada 2026?
 

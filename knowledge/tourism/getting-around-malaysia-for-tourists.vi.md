@@ -37,7 +37,7 @@ faq:
     a: "Một thẻ Touch 'n Go. Nó hoạt động trên LRT, MRT, monorail, BRT và xe buýt của Rapid KL. Xe buýt Rapid KL không dùng tiền mặt, vì vậy một thẻ (hoặc ứng dụng) thực tế là bắt buộc cho xe buýt."
 
 lang: "vi"
-sourceContentHash: "e428ae7cb3d3f8cb"
+sourceContentHash: "360c299744236138"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -186,7 +186,7 @@ Một khi bạn ở Borneo, việc đến các thị trấn nội địa và ven
 
 ## Làm sao để đi lại trong một thành phố?
 
-Ở **Kuala Lumpur**, mạng đường sắt — LRT, MRT, monorail, cùng KTM Komuter và BRT — bao phủ hầu hết các khu vực du lịch, và công cụ mở khóa nó là thẻ **Touch 'n Go**. Đó là một thẻ giá trị lưu trữ mà bạn quẹt để vào và ra, và nó hoạt động trên tất cả các dịch vụ **Rapid KL**: LRT, MRT, monorail, BRT và xe buýt, bao gồm xe buýt trung chuyển MRT. Vì xe buýt Rapid KL không còn nhận tiền mặt, một thẻ Touch 'n Go (hoặc ứng dụng liên kết) thực tế là bắt buộc cho xe buýt.
+Ở **Kuala Lumpur**, mạng đường sắt — LRT, MRT, monorail, cùng KTM Komuter và BRT — bao phủ hầu hết các khu vực du lịch, và công cụ mở khóa nó là thẻ **[Touch 'n Go](/vi/transport/touch-n-go)**. Đó là một thẻ giá trị lưu trữ mà bạn quẹt để vào và ra, và nó hoạt động trên tất cả các dịch vụ **Rapid KL**: LRT, MRT, monorail, BRT và xe buýt, bao gồm xe buýt trung chuyển MRT. Vì xe buýt Rapid KL không còn nhận tiền mặt, một thẻ Touch 'n Go (hoặc ứng dụng liên kết) thực tế là bắt buộc cho xe buýt.
 
 Nếu bạn sẽ đi nhiều trong một chuyến thăm ngắn, hãy xem xét các **vé du lịch** kiểu theo ngày được bán cho mạng của Rapid KL; lưu ý rằng vé tháng "My50" được giảm giá sâu được dành riêng cho người Malaysia (người giữ MyKad), vì vậy với tư cách một du khách bạn thường sẽ trả theo từng chuyến trên một thẻ Touch 'n Go hoặc dùng một vé du lịch thời hạn ngắn. Đối với mọi thứ tận nơi, hoặc vào ban đêm, hãy quay lại **Grab**.
 

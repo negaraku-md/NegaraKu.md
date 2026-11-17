@@ -32,7 +32,7 @@ faq:
     a: "Rapid Bus mula menukar 19 laluan berpenumpang rendah — 16 laluan feeder MRT dan 3 laluan biasa, kira-kira 7% daripada rangkaian — kepada perkhidmatan van boleh tempah Rapid KL On-Demand."
 
 lang: "ms"
-sourceContentHash: "ef9c4ac09cb054b2"
+sourceContentHash: "dca77cc716c8a0b4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,7 +104,7 @@ Rel mahal untuk dibina dan mengikut laluan tetap. Satu stesen MRT boleh terletak
 
 ## Berapakah kos satu perjalanan?
 
-Tambang berjulat dari **RM1 hingga RM5**, bergantung pada berapa banyak zon tambang yang anda lalui. Pembayaran adalah **tanpa tunai sahaja** — kad Touch 'n Go atau Kad Konsesi MyRapid. Warga emas, pelajar dan orang kurang upaya membayar kadar **konsesi 50%**.
+Tambang berjulat dari **RM1 hingga RM5**, bergantung pada berapa banyak zon tambang yang anda lalui. Pembayaran adalah **tanpa tunai sahaja** — kad [Touch 'n Go](/ms/transport/touch-n-go) atau Kad Konsesi MyRapid. Warga emas, pelajar dan orang kurang upaya membayar kadar **konsesi 50%**.
 
 ## Apakah yang berubah pada 2026?
 

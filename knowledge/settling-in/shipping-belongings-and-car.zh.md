@@ -21,7 +21,7 @@ appliesTo: "适用对象为任何搬迁到马来西亚的人——归国的马�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1a35587b5de4590d"
+sourceContentHash: "e00cd8710f963e53"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -109,7 +109,7 @@ MITI 并不会把 AP 发给任何一个提出申请的搬迁专业人士。在�
 
 1. 一份 **Approved Permit（AP）** 的副本
 2. 该车辆的 **Customs Form K1**
-3. 一份确认车辆可安全上路及规格的 **PUSPAKOM 检验报告**
+3. 一份确认车辆可安全上路及规格的 **[PUSPAKOM](/zh/transport/puspakom-vehicle-inspections) 检验报告**
 
 这些文件是以电子方式提交的，不是拿到 JPJ 柜台去办——注册数据须经由 JPJ 指定的三家 **Gateway Provider** 之一（Cuscapi Berhad、Drosstech Sdn Bhd，或 POIS Sdn Bhd），每次提交各收取 JPJ 服务费 RM50。只有在数据送达 JPJ 并顺利过关之后，车辆才会取得马来西亚注册号码，届时一般的路税与汽车保险要求就会像其他任何一辆马来西亚注册车辆一样适用——后续要办的事，见[汽车保险](/zh/transport/motor-insurance)与[路税更新](/zh/transport/road-tax-renewal)。
 

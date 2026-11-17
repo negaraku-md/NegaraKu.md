@@ -37,7 +37,7 @@ faq:
     a: "Una tarjeta Touch 'n Go. Funciona en el LRT, MRT, monorraíl, BRT y autobuses de Rapid KL. Los autobuses de Rapid KL no aceptan efectivo, por lo que una tarjeta (o la app) es prácticamente obligatoria para los autobuses."
 
 lang: "es"
-sourceContentHash: "e428ae7cb3d3f8cb"
+sourceContentHash: "360c299744236138"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -186,7 +186,7 @@ Para los visitantes, las conclusiones prácticas:
 
 ## ¿Cómo me muevo dentro de una ciudad?
 
-En **Kuala Lumpur**, la red ferroviaria — LRT, MRT, monorraíl, además de KTM Komuter y BRT — cubre la mayoría de las zonas turísticas, y la herramienta que la desbloquea es la tarjeta **Touch 'n Go**. Es una tarjeta de valor almacenado que pasa para entrar y salir, y funciona en todos los servicios de **Rapid KL**: LRT, MRT, monorraíl, BRT y autobuses, incluidos los autobuses de aproximación del MRT. Como los autobuses de Rapid KL ya no aceptan efectivo, una tarjeta Touch 'n Go (o la app vinculada) es prácticamente obligatoria para los autobuses.
+En **Kuala Lumpur**, la red ferroviaria — LRT, MRT, monorraíl, además de KTM Komuter y BRT — cubre la mayoría de las zonas turísticas, y la herramienta que la desbloquea es la tarjeta **[Touch 'n Go](/es/transport/touch-n-go)**. Es una tarjeta de valor almacenado que pasa para entrar y salir, y funciona en todos los servicios de **Rapid KL**: LRT, MRT, monorraíl, BRT y autobuses, incluidos los autobuses de aproximación del MRT. Como los autobuses de Rapid KL ya no aceptan efectivo, una tarjeta Touch 'n Go (o la app vinculada) es prácticamente obligatoria para los autobuses.
 
 Si va a usar mucho el transporte en una visita corta, mire los **abonos de viaje** tipo día que se venden para la red de Rapid KL; tenga en cuenta que el abono mensual «My50», muy descontado, está reservado a los malasios (titulares de MyKad), así que como turista normalmente pagará por trayecto con una tarjeta Touch 'n Go o usará un abono turístico de corta duración. Para todo lo puerta a puerta, o de noche, recurra a **Grab**.
 

@@ -31,7 +31,7 @@ faq:
     a: "Si la LKM lleva sin renovarse más de tres años, el JPJ exige que el vehículo se lleve a inspección en Puspakom para obtener un informe B2 (o una inspección PG10 específicamente para las motocicletas de propiedad individual) antes de que la solicitud de renovación pueda tramitarse en una oficina del JPJ."
 
 lang: "es"
-sourceContentHash: "20ff86fa7188caf6"
+sourceContentHash: "4b7c164a82659f20"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -98,7 +98,7 @@ Los vehículos comerciales tienen normas de periodo distintas, ya que a menudo e
 
 ## Si caduca durante demasiado tiempo
 
-No hay un límite oficial de cuánto tiempo puede «descansar» un vehículo sin LKM antes de que se considere un problema técnico, pero el JPJ fija una condición clara: **si la LKM lleva sin renovarse más de tres años**, el vehículo debe llevarse a inspección en Puspakom para obtener un informe B2 (o una inspección PG10 específicamente para las motocicletas de propiedad individual). Solo después de obtener ese informe pueden el propietario o su representante acudir a una oficina del JPJ con los documentos originales de matriculación y el pago suficiente para proceder con la renovación.
+No hay un límite oficial de cuánto tiempo puede «descansar» un vehículo sin LKM antes de que se considere un problema técnico, pero el JPJ fija una condición clara: **si la LKM lleva sin renovarse más de tres años**, el vehículo debe llevarse a inspección en [Puspakom](/es/transport/puspakom-vehicle-inspections) para obtener un informe B2 (o una inspección PG10 específicamente para las motocicletas de propiedad individual). Solo después de obtener ese informe pueden el propietario o su representante acudir a una oficina del JPJ con los documentos originales de matriculación y el pago suficiente para proceder con la renovación.
 
 Esto significa que un vehículo que lleva años parado no puede renovarse simplemente en línea: primero debe pasar por una inspección física.
 

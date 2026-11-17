@@ -39,7 +39,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b0726e746e504bf9"
+sourceContentHash: "e18d2fccb4cddc2e"
 
 status: "published"
 aiAssisted: true
@@ -175,7 +175,7 @@ BUDI95（BUDI MADANIブランドの下）は、RON95ガソリンを対象とし�
 
 - 給油所の**読み取り端末**にMyKadを挿入する。
 - Setel（Petronas）やShellアプリといった**石油会社のアプリ**を使用する。
-- **Touch 'n Go eWallet**または屋外決済端末（Outdoor Payment Terminal、OPT）を使用する。
+- **[Touch 'n Go](/ja/transport/touch-n-go) eWallet**または屋外決済端末（Outdoor Payment Terminal、OPT）を使用する。
 - **カウンターでの現金払い**——電子ウォレットやインターネットへのアクセスがない人のために特別に用意されている。
 
 **配給枠**は不正利用を制限する。資格のある個人はそれぞれ補助金価格で**月200リットル**を受けられる——**2026年4月1日**以降、300リットルから引き下げられたもので、価格はRM1.99のまま維持されている。**2026年7月1日**以降、その200リットルの配給枠は補助金付きRON95（RM1.99）とBudi Diesel（RM2.10）の間で**共有される**——両者は同一の残高から差し引かれる。配給枠を使い切った場合、その後の購入には無補助金価格が適用される。eハイリングおよびp-hailingの運転手は、業務上の必要性から**月800リットル**というより高い上限を維持する。

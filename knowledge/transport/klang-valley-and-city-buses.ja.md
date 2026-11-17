@@ -32,7 +32,7 @@ faq:
     a: "Rapid Busは、乗客の少ない19路線——MRTフィーダー16路線と標準3路線、網全体の約7%——を、予約制のRapid KL On-Demandバン便に転換し始めました。"
 
 lang: "ja"
-sourceContentHash: "ef9c4ac09cb054b2"
+sourceContentHash: "dca77cc716c8a0b4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,7 +104,7 @@ framework: explainer
 
 ## 一回の乗車にいくらかかるのか
 
-運賃は、いくつの運賃ゾーンをまたぐかに応じて**RM1からRM5**である。決済は**キャッシュレス限定**——Touch 'n GoカードまたはMyRapid Concession Cardを用いる。高齢者・学生・障害のある人は**50%の割引**運賃を支払う。
+運賃は、いくつの運賃ゾーンをまたぐかに応じて**RM1からRM5**である。決済は**キャッシュレス限定**——[Touch 'n Go](/ja/transport/touch-n-go)カードまたはMyRapid Concession Cardを用いる。高齢者・学生・障害のある人は**50%の割引**運賃を支払う。
 
 ## 2026年に何が変わるのか
 

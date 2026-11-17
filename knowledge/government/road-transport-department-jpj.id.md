@@ -29,7 +29,7 @@ faq:
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d3de00140a544bd9"
+sourceContentHash: "94d96ff23ee94d3f"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -92,7 +92,7 @@ Tanggung jawab JPJ berkelompok ke dalam segelintir area inti:
 
 - **Pemberian SIM.** JPJ menerbitkan dan memperbarui SIM serta menetapkan struktur lisensinya. Pemula memulai dengan **Lisensi Mengemudi Pemula (LDL)** dan menampilkan pelat "L"; pengemudi baru kemudian memegang **Lisensi Mengemudi Percobaan (PDL)** dengan pelat "P" selama dua tahun masa percobaan sebelum memenuhi syarat untuk **Lisensi Mengemudi Kompeten (CDL)** penuh. Pengemudi niaga tambahan memerlukan **lisensi vokasional** — Lisensi Mengemudi Barang (GDL) untuk truk dan kendaraan barang, atau lisensi Kendaraan Layanan Publik (PSV) untuk taksi, bus, dan e-hailing.
 - **Pendaftaran kendaraan bermotor.** Setiap kendaraan bermotor harus didaftarkan ke JPJ, yang mencatat kepemilikan, menetapkan rincian pendaftaran (pelat nomor), dan menangani pengalihan kepemilikan.
-- **Pajak jalan (LKM).** Apa yang disebut warga Malaysia sebagai pajak jalan (*cukai jalan*) secara resmi adalah **Lisensi Kendaraan Bermotor** — *Lesen Kenderaan Motor*, atau **LKM** — yang diterbitkan JPJ untuk mengizinkan sebuah kendaraan digunakan di jalan umum. Portal MyGovernment menggambarkan LKM sebagai lisensi yang diterbitkan JPJ untuk mengizinkan kendaraan beroperasi di jalan, dengan asuransi kendaraan yang berlaku sebagai prasyarat pembaruan.
+- **Pajak jalan (LKM).** Apa yang disebut warga Malaysia sebagai pajak jalan (*cukai jalan*) secara resmi adalah **Lisensi Kendaraan Bermotor** — *[Lesen Kenderaan Motor](/id/transport/road-tax-renewal)*, atau **LKM** — yang diterbitkan JPJ untuk mengizinkan sebuah kendaraan digunakan di jalan umum. Portal MyGovernment menggambarkan LKM sebagai lisensi yang diterbitkan JPJ untuk mengizinkan kendaraan beroperasi di jalan, dengan asuransi kendaraan yang berlaku sebagai prasyarat pembaruan.
 - **Pelat nomor.** JPJ mengendalikan sistem nomor pendaftaran, termasuk lelang pelat khusus dan personalisasi melalui platform penawarannya.
 - **Lisensi kendaraan niaga.** JPJ mengelola pemberian lisensi untuk kendaraan barang dan layanan publik, pekerjaan yang secara historis terkait dengan kerangka Commercial Vehicles Licensing Board.
 - **Penegakan.** JPJ menjalankan operasi penegakannya sendiri terhadap pengemudi tanpa izin, kendaraan yang tidak terdaftar atau tidak laik jalan, truk kelebihan muatan, dan pelanggaran lainnya, serta mengoperasikan sistem poin demerit **KEJARA** yang menghukum pelanggar lalu lintas.

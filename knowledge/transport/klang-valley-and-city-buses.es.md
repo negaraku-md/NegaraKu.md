@@ -32,7 +32,7 @@ faq:
     a: "Rapid Bus empezó a convertir 19 rutas de baja demanda — 16 rutas alimentadoras del MRT y 3 rutas estándar, alrededor del 7 % de la red — en un servicio de furgoneta reservable Rapid KL On-Demand."
 
 lang: "es"
-sourceContentHash: "ef9c4ac09cb054b2"
+sourceContentHash: "dca77cc716c8a0b4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,7 +104,7 @@ El tren es caro de construir y sigue líneas fijas. Una sola estación de MRT pu
 
 ## ¿Cuánto cuesta un trayecto?
 
-Las tarifas van de **RM1 a RM5**, según cuántas zonas tarifarias cruce. El pago es **solo sin efectivo** — una tarjeta Touch 'n Go o una Tarjeta de Descuento MyRapid. Los mayores, estudiantes y personas con discapacidad pagan una tarifa con **50 % de descuento**.
+Las tarifas van de **RM1 a RM5**, según cuántas zonas tarifarias cruce. El pago es **solo sin efectivo** — una tarjeta [Touch 'n Go](/es/transport/touch-n-go) o una Tarjeta de Descuento MyRapid. Los mayores, estudiantes y personas con discapacidad pagan una tarifa con **50 % de descuento**.
 
 ## ¿Qué está cambiando en 2026?
 

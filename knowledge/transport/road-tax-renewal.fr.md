@@ -31,7 +31,7 @@ faq:
     a: "Si la LKM n'a pas été renouvelée depuis plus de trois ans, le JPJ exige que le véhicule soit présenté à une inspection chez Puspakom pour obtenir un rapport B2 (ou une inspection PG10 spécifiquement pour les motos de propriété individuelle) avant que la demande de renouvellement puisse être traitée dans un bureau du JPJ."
 
 lang: "fr"
-sourceContentHash: "20ff86fa7188caf6"
+sourceContentHash: "4b7c164a82659f20"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -98,7 +98,7 @@ Les véhicules commerciaux ont des règles de période différentes, car ils son
 
 ## Si elle expire depuis trop longtemps
 
-Il n'existe pas de limite officielle au temps pendant lequel un véhicule peut « se reposer » sans LKM avant que cela ne soit considéré comme un problème technique, mais le JPJ fixe une condition claire : **si la LKM n'a pas été renouvelée depuis plus de trois ans**, le véhicule doit être présenté à une inspection chez Puspakom pour obtenir un rapport B2 (ou une inspection PG10 spécifiquement pour les motos de propriété individuelle). Ce n'est qu'après avoir obtenu ce rapport que le propriétaire ou son représentant peut se rendre dans un bureau du JPJ avec les documents d'immatriculation originaux et un paiement suffisant pour procéder au renouvellement.
+Il n'existe pas de limite officielle au temps pendant lequel un véhicule peut « se reposer » sans LKM avant que cela ne soit considéré comme un problème technique, mais le JPJ fixe une condition claire : **si la LKM n'a pas été renouvelée depuis plus de trois ans**, le véhicule doit être présenté à une inspection chez [Puspakom](/fr/transport/puspakom-vehicle-inspections) pour obtenir un rapport B2 (ou une inspection PG10 spécifiquement pour les motos de propriété individuelle). Ce n'est qu'après avoir obtenu ce rapport que le propriétaire ou son représentant peut se rendre dans un bureau du JPJ avec les documents d'immatriculation originaux et un paiement suffisant pour procéder au renouvellement.
 
 Cela signifie qu'un véhicule laissé à l'arrêt pendant des années ne peut pas être renouvelé simplement en ligne : il doit d'abord passer par une inspection physique.
 

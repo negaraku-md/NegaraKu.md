@@ -105,7 +105,7 @@ Ferries run daily from 06:30 to 23:30, at regular intervals through the day (mor
 | Motorcycle | RM 2.50 |
 | Bicycle | RM 2.00 |
 
-You can pay by Touch 'n Go, at the counter, or with an online ticket. Many travellers also reach the island by road, via the Penang Bridge or the Sultan Abdul Halim Muadzam Shah (Second) Bridge; the ferry is a scenic and commuter option rather than the only link.
+You can pay by [Touch 'n Go](/transport/touch-n-go), at the counter, or with an online ticket. Many travellers also reach the island by road, via the Penang Bridge or the Sultan Abdul Halim Muadzam Shah (Second) Bridge; the ferry is a scenic and commuter option rather than the only link.
 
 ## How do ferries to Langkawi work?
 

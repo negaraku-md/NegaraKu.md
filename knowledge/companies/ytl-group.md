@@ -100,7 +100,7 @@ The value is spread across several vehicles rather than concentrated in one. Two
 | YTL Power International | 6742 | Utilities and digital infrastructure | FTSE Bursa Malaysia KLCI component |
 | Malayan Cement | — | Cement and building materials | Majority-owned indirect subsidiary (via YTL Cement); FY2024 revenue RM4.45bn, net profit RM428.7m |
 
-Malayan Cement carries the group's cement and building-materials business and is a majority-owned indirect subsidiary held through YTL Cement. It reported FY2024 revenue of RM4.45 billion, up 18.3%, and net profit of RM428.7 million — a jump of about 170% from RM159.04 million a year earlier, in a strong recovery year driven by infrastructure megaprojects such as the East Coast Rail Link.
+Malayan Cement carries the group's cement and building-materials business and is a majority-owned indirect subsidiary held through YTL Cement. It reported FY2024 revenue of RM4.45 billion, up 18.3%, and net profit of RM428.7 million — a jump of about 170% from RM159.04 million a year earlier, in a strong recovery year driven by infrastructure megaprojects such as the [East Coast Rail Link](/transport/east-coast-rail-link-ecrl).
 
 ## Where do the utilities sit?
 

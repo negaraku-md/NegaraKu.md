@@ -30,7 +30,7 @@ faq:
     a: "Ngân hàng hoặc công ty tài chính được đăng ký là chủ sở hữu hợp pháp của xe theo Luật Thuê mua 1967 (Hire-Purchase Act 1967) trong suốt thời hạn khoản vay. Người mua là người chiếm hữu được đăng ký với việc sử dụng xe hàng ngày, và chỉ trở thành chủ sở hữu đăng ký khi khoản vay được trả hết và bên tài trợ ban hành văn bản giải chấp."
 
 lang: "vi"
-sourceContentHash: "fbeedb8341d7b377"
+sourceContentHash: "1e94499e976a5044"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,7 +88,7 @@ framework: how-to
 
 Mua một chiếc xe ở Malaysia và bạn ký một giao dịch, nhưng bạn thực sự bước vào ba mối quan hệ riêng biệt cùng một lúc: một với người bán xe cho bạn, một với người tài trợ cho nó, và một với JPJ, cơ quan quyết định tên ai thực sự được ghi trên xe. Bỏ sót một bước trong bất kỳ mối quan hệ nào trong ba, và chiếc xe bạn đã trả tiền vẫn chưa hoàn toàn là của bạn về mặt pháp lý.
 
-Phần lớn người mua lần đầu chỉ nhận ra điều này khi có gì đó trục trặc — một chiếc xe cũ họ mua hóa ra vẫn đang được tài trợ, hoặc một ngân hàng không giải ngân khoản vay cho đến khi một tờ giấy từ Puspakom xuất hiện. Không điều nào trong đó là tùy tiện. Mỗi bước tồn tại để trả lời một câu hỏi: ai thực sự chịu trách nhiệm về chiếc xe này ngay bây giờ?
+Phần lớn người mua lần đầu chỉ nhận ra điều này khi có gì đó trục trặc — một chiếc xe cũ họ mua hóa ra vẫn đang được tài trợ, hoặc một ngân hàng không giải ngân khoản vay cho đến khi một tờ giấy từ [Puspakom](/vi/transport/puspakom-vehicle-inspections) xuất hiện. Không điều nào trong đó là tùy tiện. Mỗi bước tồn tại để trả lời một câu hỏi: ai thực sự chịu trách nhiệm về chiếc xe này ngay bây giờ?
 
 ## Câu trả lời ngắn gọn
 

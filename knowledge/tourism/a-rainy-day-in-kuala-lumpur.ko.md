@@ -33,7 +33,7 @@ faq:
 
 lang: "ko"
 translationStatus: "in-sync"
-sourceContentHash: "b74b665148430910"
+sourceContentHash: "c14df7815cfcecfc"
 masterLanguage: "en"
 
 status: "published"
@@ -98,7 +98,7 @@ framework: how-to
 KL의 **Klang Valley 철도** — **LRT**(Kelana Jaya, Ampang, Sri Petaling 노선),
 **MRT**(Kajang, Putrajaya 노선), **KL Monorail**, **KTM Komuter** — 는 비 오는
 하루의 실질적인 핵심입니다. 역과 열차가 둘러싸여 있고 냉방이 되기 때문입니다.
-**Touch 'n Go** 카드를 지니고 태그로 타고 내리세요. 비접촉식 은행 카드도 노선
+**[Touch 'n Go](/ko/transport/touch-n-go)** 카드를 지니고 태그로 타고 내리세요. 비접촉식 은행 카드도 노선
 대부분에서 작동합니다. 매일 이동하는 말레이시아 거주자는 **My50** 무제한
 월정액권을 쓸 수 있지만, 한 번 방문하는 사람은 보통 그냥 쓴 만큼 냅니다. 역을
 나가지 않고 노선을 갈아탈 수 있는 유용한 환승역으로는 **Masjid Jamek**,

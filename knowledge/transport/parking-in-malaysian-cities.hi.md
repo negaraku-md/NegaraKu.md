@@ -29,7 +29,7 @@ faq:
     a: "नहीं। पार्किंग शमन-जुर्माने स्थानीय प्राधिकरणों (PBT) द्वारा पार्किंग से संबंधित सड़क-यातायात आदेशों के तहत जारी किए जाते हैं, जबकि ड्राइविंग अपराधों के लिए यातायात समन PDRM या JPJ द्वारा जारी किए जाते हैं।"
 
 lang: "hi"
-sourceContentHash: "cec9d7c50b142e19"
+sourceContentHash: "fbbc5c9405ba0df6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -112,7 +112,7 @@ Petaling Jaya में, Smart Selangor Parking ऐप सुबह 8 बजे 
 
 बिना-नकद भुगतान की ओर बदलाव का मतलब है कि आपको पार्क करने से पहले एक ऐप डाउनलोड करना होगा। KL की सड़क-किनारे पार्किंग के लिए स्वीकृत विकल्पों में से:
 
-- **EZ Smart Park** — FPX, UnionPay क्रेडिट कार्ड, Boost, Touch 'n Go और MCash स्वीकार करता है
+- **EZ Smart Park** — FPX, UnionPay क्रेडिट कार्ड, Boost, [Touch 'n Go](/hi/transport/touch-n-go) और MCash स्वीकार करता है
 - **Flexi Parking** और **Wilayah Parking** — FPX, क्रेडिट कार्ड (Visa/Mastercard), Boost, Touch 'n Go और GrabPay
 - **Jom Parking** — ऑनलाइन बैंकिंग, क्रेडिट/डेबिट कार्ड, Boost और GrabPay
 - **MCash** — ऑनलाइन बैंकिंग, क्रेडिट कार्ड, व्यापारी/एजेंट, Digi E-Pay वाउचर और किसी भी KK Super Mart पर

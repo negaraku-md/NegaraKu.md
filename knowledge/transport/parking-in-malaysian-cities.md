@@ -111,7 +111,7 @@ Di Petaling Jaya, aplikasi Smart Selangor Parking mengenakan **60 sen sejam** da
 
 Peralihan ke bayaran tanpa tunai bermakna anda perlu memuat turun aplikasi sebelum meletak kereta. Antara pilihan yang diterima untuk letak kereta tepi jalan KL:
 
-- **EZ Smart Park** — menerima FPX, kad kredit UnionPay, Boost, Touch 'n Go dan MCash
+- **EZ Smart Park** — menerima FPX, kad kredit UnionPay, Boost, [Touch 'n Go](/transport/touch-n-go) dan MCash
 - **Flexi Parking** dan **Wilayah Parking** — FPX, kad kredit (Visa/Mastercard), Boost, Touch 'n Go dan GrabPay
 - **Jom Parking** — perbankan dalam talian, kad kredit/debit, Boost dan GrabPay
 - **MCash** — perbankan dalam talian, kad kredit, merchant/ejen, baucar E-Pay Digi dan di mana-mana KK Super Mart

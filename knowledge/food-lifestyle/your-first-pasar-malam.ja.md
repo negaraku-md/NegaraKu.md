@@ -34,7 +34,7 @@ faq:
 
 lang: "ja"
 translationStatus: "in-sync"
-sourceContentHash: "959c1dda8a5ff952"
+sourceContentHash: "e43eab1399c2d55c"
 masterLanguage: "en"
 
 status: "published"
@@ -126,7 +126,7 @@ DBKL がそうしたリストを管理しています）。時間帯について
 
 とはいえ、**e ウォレットでの支払いも今では広く普及しています。** 多くの屋台が
 **DuitNow QR**（マレーシアの国家的な相互運用型 QR 標準で、一つのコードが
-参加する銀行や e ウォレットで共通して使える）や **Touch 'n Go eWallet** に
+参加する銀行や e ウォレットで共通して使える）や **[Touch 'n Go](/ja/transport/touch-n-go) eWallet** に
 対応しており、スキャンする QR スタンドやステッカーが目印です。GrabPay や
 Boost もよく使われています。導入は今や全国で数百万の加盟店に及び、DuitNow QR が
 小規模業者にとって手数料がほとんどかからないことも後押ししています。初めての人に

@@ -39,7 +39,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e428ae7cb3d3f8cb"
+sourceContentHash: "360c299744236138"
 
 status: "published"
 aiAssisted: true
@@ -186,7 +186,7 @@ Untuk pelawat, intipati praktikalnya:
 
 ## Bagaimana saya bergerak dalam sesebuah bandar?
 
-Di **Kuala Lumpur**, rangkaian kereta api — LRT, MRT, monorel, serta KTM Komuter dan BRT — meliputi kebanyakan kawasan pelancong, dan alat yang membukanya ialah kad **Touch 'n Go**. Ia adalah kad nilai tersimpan yang anda tetip untuk masuk dan keluar, dan ia berfungsi merentasi semua perkhidmatan **Rapid KL**: LRT, MRT, monorel, BRT dan bas, termasuk bas penyuap MRT. Oleh sebab bas Rapid KL tidak lagi menerima tunai, kad Touch 'n Go (atau aplikasi yang terpaut) pada dasarnya diperlukan untuk bas.
+Di **Kuala Lumpur**, rangkaian kereta api — LRT, MRT, monorel, serta KTM Komuter dan BRT — meliputi kebanyakan kawasan pelancong, dan alat yang membukanya ialah kad **[Touch 'n Go](/transport/touch-n-go)**. Ia adalah kad nilai tersimpan yang anda tetip untuk masuk dan keluar, dan ia berfungsi merentasi semua perkhidmatan **Rapid KL**: LRT, MRT, monorel, BRT dan bas, termasuk bas penyuap MRT. Oleh sebab bas Rapid KL tidak lagi menerima tunai, kad Touch 'n Go (atau aplikasi yang terpaut) pada dasarnya diperlukan untuk bas.
 
 Jika anda akan menaikinya banyak dalam lawatan singkat, lihat **pas perjalanan** bergaya harian yang dijual untuk rangkaian Rapid KL; ambil perhatian bahawa pas bulanan "My50" yang diberi diskaun mendalam dikhaskan untuk warga Malaysia (pemegang MyKad), jadi sebagai pelancong anda biasanya akan membayar setiap perjalanan pada kad Touch 'n Go atau menggunakan pas pelancong tempoh pendek. Untuk semua perjalanan pintu ke pintu, atau pada waktu malam, kembalilah kepada **Grab**.
 

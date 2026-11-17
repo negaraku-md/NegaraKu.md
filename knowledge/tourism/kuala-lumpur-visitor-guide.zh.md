@@ -38,7 +38,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2716ca2d76a67d28"
+sourceContentHash: "83577f20656ec6a9"
 
 status: "published"
 aiAssisted: true
@@ -135,7 +135,7 @@ framework: profile
 
 吉隆坡依靠三套互联的轨道系统运作——**MRT**、**LRT** 与 **单轨列车（Monorail）**——并由巴士与 Grab 补充。它们合在一起几乎能到达首次访客想去的任何地方，而且价格低廉。
 
-最简单的付费方式是 **一卡通（Touch 'n Go）**，一张可充值的非接触式卡片，在每条轨道线路及巴士的闸门刷卡即可。你可在车站柜台与便利店购买并充值。如果你不想管理储值卡，闸门也越来越多地接受非接触式银行卡与二维码支付。
+最简单的付费方式是 **一卡通（[Touch 'n Go](/zh/transport/touch-n-go)）**，一张可充值的非接触式卡片，在每条轨道线路及巴士的闸门刷卡即可。你可在车站柜台与便利店购买并充值。如果你不想管理储值卡，闸门也越来越多地接受非接触式银行卡与二维码支付。
 
 若要无限次乘搭，Rapid KL 出售日票。马来西亚公民可购买 **Rapid Kota Pass**，**一天 RM10** 或 **三天 RM25**，涵盖 LRT、MRT、单轨列车、BRT 与 Rapid KL 巴士的无限次乘搭。游客有一款相应的无限次通票 **Rapid Kembara Pass**，于车站顾客服务柜台出售——购买时请向工作人员询问当前价格与有效期。
 

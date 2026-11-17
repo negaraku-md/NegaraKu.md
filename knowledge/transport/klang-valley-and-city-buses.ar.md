@@ -32,7 +32,7 @@ faq:
     a: "بدأت Rapid Bus تحويل 19 مساراً منخفض الإقبال — 16 مسار تغذية لـ MRT و3 مسارات عادية، أي نحو 7% من الشبكة — إلى خدمة حافلات صغيرة قابلة للحجز باسم Rapid KL On-Demand."
 
 lang: "ar"
-sourceContentHash: "ef9c4ac09cb054b2"
+sourceContentHash: "dca77cc716c8a0b4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,7 +104,7 @@ framework: explainer
 
 ## كم تكلّف الرحلة؟
 
-تتراوح الأجور بين **RM1 وRM5**، حسب عدد مناطق الأجرة التي تقطعها. والدفع **غير نقدي حصراً** — ببطاقة Touch 'n Go أو بطاقة التخفيض MyRapid Concession Card. ويدفع كبار السن والطلاب وذوو الإعاقة أجرة **تخفيض 50%**.
+تتراوح الأجور بين **RM1 وRM5**، حسب عدد مناطق الأجرة التي تقطعها. والدفع **غير نقدي حصراً** — ببطاقة [Touch 'n Go](/ar/transport/touch-n-go) أو بطاقة التخفيض MyRapid Concession Card. ويدفع كبار السن والطلاب وذوو الإعاقة أجرة **تخفيض 50%**.
 
 ## ما الذي يتغيّر في 2026؟
 

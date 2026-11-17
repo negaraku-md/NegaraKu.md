@@ -32,7 +32,7 @@ faq:
     a: "Đó là cách diễn đạt mà cả hai chính phủ áp dụng để mô tả giai đoạn tiếp theo của quan hệ, dựa trên quan hệ đối tác chiến lược toàn diện được thiết lập vào năm 2013. Khái niệm này được nêu ra từ năm 2023 và được chính thức hóa trong một tuyên bố chung trong chuyến thăm cấp nhà nước của Chủ tịch Tập Cận Bình vào ngày 17 tháng 4 năm 2025. Nó đề ra sự hợp tác trên các lĩnh vực thương mại, công nghệ, cơ sở hạ tầng và các mối liên kết giữa người dân với người dân."
 
 lang: "vi"
-sourceContentHash: "b7ef3c40f5decdc1"
+sourceContentHash: "9ee992bd350184d4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,7 +92,7 @@ Kiến trúc chính trị đã được nâng cấp đều đặn để tương 
 
 Bởi vì các con số vượt trội hơn hầu như mọi đối tác khác. China đã là đối tác thương mại lớn nhất của Malaysia trong 16 năm liên tiếp, một chuỗi bắt đầu vào năm 2009. Vào năm 2024, thương mại hai chiều đạt mức cao kỷ lục US$212.04 tỷ.
 
-Mối quan hệ không chỉ là về các dòng chảy thương mại. Chỉ riêng trong ba quý đầu năm 2024, Malaysia đã ghi nhận RM29.1 tỷ (khoảng US$6.3 tỷ) đầu tư trực tiếp nước ngoài từ China — cao hơn khoảng 39 phần trăm so với cùng kỳ một năm trước đó. Vốn và công nghệ của China đan xen qua một số dự án chủ lực của Malaysia: East Coast Rail Link, liên kết Proton–Geely, và các khu công nghiệp "Hai Quốc gia, Hai Khu công nghiệp" (Two Countries, Twin Parks) ở Kuantan và Khâm Châu (Qinzhou). Các dòng chảy giữa người dân với người dân cũng tăng vọt, được hỗ trợ bởi việc miễn thị thực nhập cảnh cho công dân China có hiệu lực từ ngày 1 tháng 12 năm 2023 — ban đầu là một thỏa thuận đơn phương, về sau được làm thành có đi có lại và vĩnh viễn theo một hiệp định miễn thị thực song phương vào năm 2025. China Briefing đưa tin việc nới lỏng này đã thu hút hơn 3.8 triệu du khách China.
+Mối quan hệ không chỉ là về các dòng chảy thương mại. Chỉ riêng trong ba quý đầu năm 2024, Malaysia đã ghi nhận RM29.1 tỷ (khoảng US$6.3 tỷ) đầu tư trực tiếp nước ngoài từ China — cao hơn khoảng 39 phần trăm so với cùng kỳ một năm trước đó. Vốn và công nghệ của China đan xen qua một số dự án chủ lực của Malaysia: [East Coast Rail Link](/vi/transport/east-coast-rail-link-ecrl), liên kết Proton–Geely, và các khu công nghiệp "Hai Quốc gia, Hai Khu công nghiệp" (Two Countries, Twin Parks) ở Kuantan và Khâm Châu (Qinzhou). Các dòng chảy giữa người dân với người dân cũng tăng vọt, được hỗ trợ bởi việc miễn thị thực nhập cảnh cho công dân China có hiệu lực từ ngày 1 tháng 12 năm 2023 — ban đầu là một thỏa thuận đơn phương, về sau được làm thành có đi có lại và vĩnh viễn theo một hiệp định miễn thị thực song phương vào năm 2025. China Briefing đưa tin việc nới lỏng này đã thu hút hơn 3.8 triệu du khách China.
 
 | Khía cạnh | Tình trạng | Nguồn |
 |---|---|---|

@@ -84,7 +84,7 @@ Anda tekan "bayar" di kaunter, baki e-wallet berkurang beberapa ringgit, dan uru
 
 ## Siapa yang mengawal selia e-wallet di Malaysia?
 
-E-wallet seperti Touch 'n Go eWallet, Boost, GrabPay dan ShopeePay bukan bank. Mereka dikawal selia oleh Bank Negara Malaysia (BNM) sebagai **pengeluar e-wang** (*e-money issuer*, atau EMI), diluluskan di bawah **seksyen 11 Akta Perkhidmatan Kewangan 2013 (FSA)** — atau seksyen 11 Akta Perkhidmatan Kewangan Islam 2013 (IFSA) bagi produk patuh Syariah.
+E-wallet seperti [Touch 'n Go](/transport/touch-n-go) eWallet, Boost, GrabPay dan ShopeePay bukan bank. Mereka dikawal selia oleh Bank Negara Malaysia (BNM) sebagai **pengeluar e-wang** (*e-money issuer*, atau EMI), diluluskan di bawah **seksyen 11 Akta Perkhidmatan Kewangan 2013 (FSA)** — atau seksyen 11 Akta Perkhidmatan Kewangan Islam 2013 (IFSA) bagi produk patuh Syariah.
 
 Rangka kerja terperinci terkandung dalam *Electronic Money (E-Money) Policy Document* BNM yang berkuat kuasa **31 Januari 2025**. Dokumen ini mentakrifkan e-wang sebagai instrumen pembayaran yang "menyimpan dana secara elektronik sebagai pertukaran dana yang dibayar kepada pengeluar" dan boleh digunakan untuk membuat pembayaran kepada pihak selain pengeluar.
 

@@ -39,7 +39,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e428ae7cb3d3f8cb"
+sourceContentHash: "360c299744236138"
 
 status: "published"
 aiAssisted: true
@@ -186,7 +186,7 @@ Grab 还提供餐饮和包裹递送，在城市中它比在街上拦德士要可
 
 ## 如何在城市内出行？
 
-在**吉隆坡**，铁路网络——LRT、MRT、单轨列车，加上 KTM Komuter 和 BRT——覆盖了大多数旅游区，而解锁它的工具就是 **Touch 'n Go** 卡。这是一张储值卡，进出站时刷卡即可，通用于所有 **Rapid KL** 服务：LRT、MRT、单轨列车、BRT 和巴士，包括 MRT 接驳巴士。由于 Rapid KL 巴士不再收现金，搭巴士实际上需要一张 Touch 'n Go 卡（或关联的应用）。
+在**吉隆坡**，铁路网络——LRT、MRT、单轨列车，加上 KTM Komuter 和 BRT——覆盖了大多数旅游区，而解锁它的工具就是 **[Touch 'n Go](/zh/transport/touch-n-go)** 卡。这是一张储值卡，进出站时刷卡即可，通用于所有 **Rapid KL** 服务：LRT、MRT、单轨列车、BRT 和巴士，包括 MRT 接驳巴士。由于 Rapid KL 巴士不再收现金，搭巴士实际上需要一张 Touch 'n Go 卡（或关联的应用）。
 
 如果你在短暂访问期间会频繁乘车，可考虑为 Rapid KL 网络出售的日票式**旅游通行证（travel pass）**；请注意，深度折扣的月票「My50」仅限马来西亚人（MyKad 持有者），因此作为游客，你通常会用 Touch 'n Go 卡按次付费，或使用短期旅游通行证。对于所有点对点行程，或在夜间，就回归 **Grab**。
 

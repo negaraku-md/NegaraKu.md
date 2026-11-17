@@ -87,7 +87,7 @@ framework: how-to
 
 Buy a car in Malaysia and you sign one deal, but you actually enter three separate relationships at once: one with whoever sold you the car, one with whoever is financing it, and one with JPJ, the department that decides whose name is actually on the vehicle. Miss a step in any of the three, and the car you paid for is legally still not fully yours.
 
-Most first-time buyers only notice this when something goes wrong — a used car they bought turns out to still be financed, or a bank won't release a loan until a piece of paper from Puspakom shows up. None of it is arbitrary. Each step exists to answer one question: who is actually responsible for this vehicle right now?
+Most first-time buyers only notice this when something goes wrong — a used car they bought turns out to still be financed, or a bank won't release a loan until a piece of paper from [Puspakom](/transport/puspakom-vehicle-inspections) shows up. None of it is arbitrary. Each step exists to answer one question: who is actually responsible for this vehicle right now?
 
 ## Short answer
 

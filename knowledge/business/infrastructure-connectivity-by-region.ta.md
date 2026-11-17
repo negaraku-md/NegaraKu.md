@@ -51,7 +51,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "300ad373430dce8b"
+sourceContentHash: "77f26148404eb5f2"
 
 status: "published"
 aiAssisted: true
@@ -165,7 +165,7 @@ KLIA தேசிய விமான சரக்கில் 75 சதவீத
 
 ## ECRL உண்மையில் எதை மாற்றுகிறது, எப்போது?
 
-East Coast Rail Link 2026 பிப்ரவரி நிலவரப்படி **92.62 சதவீதம் நிறைவடைந்துள்ளது**, Kota Bharu முதல் Gombak வரையிலான பகுதியின் மொத்த 519 கிமீ முழுவதும் தண்டவாளம் அமைக்கப்பட்டுள்ளது. தலைப்புச் செய்தியை விடக் கட்டமிடல் அதிக முக்கியம்:
+[East Coast Rail Link](/ta/transport/east-coast-rail-link-ecrl) 2026 பிப்ரவரி நிலவரப்படி **92.62 சதவீதம் நிறைவடைந்துள்ளது**, Kota Bharu முதல் Gombak வரையிலான பகுதியின் மொத்த 519 கிமீ முழுவதும் தண்டவாளம் அமைக்கப்பட்டுள்ளது. தலைப்புச் செய்தியை விடக் கட்டமிடல் அதிக முக்கியம்:
 
 | பகுதி | நிறைவு | செயல்பாடுகள் |
 | --- | --- | --- |

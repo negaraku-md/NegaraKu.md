@@ -175,7 +175,7 @@ Tiga bahagian bergerak serentak setiap kali anda mengisi minyak: pengesahan iden
 
 - Memasukkan MyKad ke **terminal pembaca** di stesen.
 - Menggunakan **aplikasi syarikat minyak** seperti Setel (Petronas) atau aplikasi Shell.
-- **Touch 'n Go eWallet** atau Outdoor Payment Terminal (OPT).
+- **[Touch 'n Go](/transport/touch-n-go) eWallet** atau Outdoor Payment Terminal (OPT).
 - **Bayaran tunai di kaunter** — disediakan khusus untuk mereka yang tiada e-dompet atau akses internet.
 
 **Kuota** menghadkan penyalahgunaan. Setiap individu yang layak mendapat **200 liter sebulan** pada harga bersubsidi — dikurangkan daripada 300 liter mulai **1 April 2026**, sementara harga dikekalkan pada RM1.99. Mulai **1 Julai 2026**, kuota 200 liter itu **dikongsi** antara RON95 bersubsidi (RM1.99) dan Budi Diesel (RM2.10) — kedua-duanya menarik daripada satu baki yang sama. Jika kuota habis, belian seterusnya dikenakan harga tanpa subsidi. Pemandu e-hailing dan p-hailing mengekalkan siling lebih tinggi sebanyak **800 liter sebulan** kerana keperluan kerja mereka.

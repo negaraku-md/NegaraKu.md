@@ -33,7 +33,7 @@ faq:
 
 lang: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "b74b665148430910"
+sourceContentHash: "c14df7815cfcecfc"
 masterLanguage: "en"
 
 status: "published"
@@ -95,7 +95,7 @@ framework: how-to
 
 吉隆坡的**巴生谷轨道**——**LRT**（Kelana Jaya、Ampang 与 Sri Petaling 线）、**MRT**
 （Kajang 与 Putrajaya 线）、**KL Monorail** 以及 **KTM Komuter**——是雨天的实用核心，
-因为车站与列车都是封闭且有空调的。随身携带一张 **Touch 'n Go** 卡进出闸；非接触式
+因为车站与列车都是封闭且有空调的。随身携带一张 **[Touch 'n Go](/zh/transport/touch-n-go)** 卡进出闸；非接触式
 银行卡在网络中大部分路段可用。每天通勤的马来西亚居民可以使用 **My50** 无限次月票，
 但一次性出行的游客通常只需按次付费。可在站内换乘而无需出站的实用枢纽站包括
 **Masjid Jamek**、**Pasar Seni** 与 **KL Sentral**。

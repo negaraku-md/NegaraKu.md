@@ -103,7 +103,7 @@ Rail is expensive to build and follows fixed lines. A single MRT station can sit
 
 ## What does a ride cost?
 
-Fares run from **RM1 to RM5**, depending on how many fare zones you cross. Payment is **cashless only** — a Touch 'n Go card or a MyRapid Concession Card. Seniors, students and persons with disabilities pay a **50% concession** rate.
+Fares run from **RM1 to RM5**, depending on how many fare zones you cross. Payment is **cashless only** — a [Touch 'n Go](/transport/touch-n-go) card or a MyRapid Concession Card. Seniors, students and persons with disabilities pay a **50% concession** rate.
 
 ## What is changing in 2026?
 

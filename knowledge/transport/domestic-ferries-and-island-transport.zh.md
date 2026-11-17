@@ -29,7 +29,7 @@ faq:
     a: "通常不能。许多东海岸度假村和船运营运商大约从10月到2月自愿暂停服务，因为东北季候风带来汹涌的海面。"
 
 lang: "zh"
-sourceContentHash: "ea7ce50e8b808f2f"
+sourceContentHash: "6d82ddd104b2cdb5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,7 +106,7 @@ framework: explainer
 | 摩托车 | RM 2.50 |
 | 自行车 | RM 2.00 |
 
-你可以用一触即通（Touch 'n Go）付款、在柜台购票，或使用在线票。许多旅客也经由陆路抵达岛屿，取道槟城大桥或苏丹阿都哈林慕阿占沙大桥（第二大桥）；渡轮是一种风景优美的通勤选项，而非唯一的联外方式。
+你可以用一触即通（[Touch 'n Go](/zh/transport/touch-n-go)）付款、在柜台购票，或使用在线票。许多旅客也经由陆路抵达岛屿，取道槟城大桥或苏丹阿都哈林慕阿占沙大桥（第二大桥）；渡轮是一种风景优美的通勤选项，而非唯一的联外方式。
 
 ## 前往浮罗交怡的渡轮如何运作？
 

@@ -29,7 +29,7 @@ faq:
     a: "No. Las multas de composición por aparcamiento las emiten las autoridades locales (PBT) en virtud de órdenes de tráfico vial relativas al aparcamiento, mientras que las citaciones de tráfico por infracciones de conducción las emiten la PDRM o el JPJ."
 
 lang: "es"
-sourceContentHash: "cec9d7c50b142e19"
+sourceContentHash: "fbbc5c9405ba0df6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -112,7 +112,7 @@ En Petaling Jaya, la app Smart Selangor Parking cobra **60 sen por hora** y **RM
 
 El paso al pago sin efectivo significa que necesitas descargar una app antes de aparcar. Entre las opciones aceptadas para el aparcamiento en vía pública de KL:
 
-- **EZ Smart Park** — acepta FPX, tarjetas de crédito UnionPay, Boost, Touch 'n Go y MCash
+- **EZ Smart Park** — acepta FPX, tarjetas de crédito UnionPay, Boost, [Touch 'n Go](/es/transport/touch-n-go) y MCash
 - **Flexi Parking** y **Wilayah Parking** — FPX, tarjetas de crédito (Visa/Mastercard), Boost, Touch 'n Go y GrabPay
 - **Jom Parking** — banca en línea, tarjetas de crédito/débito, Boost y GrabPay
 - **MCash** — banca en línea, tarjetas de crédito, comerciante/agente, vales Digi E-Pay y en cualquier KK Super Mart

@@ -37,7 +37,7 @@ faq:
     a: "TRX có ga đường sắt riêng, ga MRT Tun Razak Exchange, đã hoạt động từ năm 2017 và được phục vụ bởi hai tuyến MRT. Việc tiếp cận bằng đường bộ được cung cấp bởi mạng lưới trung tâm Kuala Lumpur xung quanh."
 
 lang: "vi"
-sourceContentHash: "3ada5248558e634e"
+sourceContentHash: "cccc89ca0e73837c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -141,7 +141,7 @@ TRX được thiết kế như một **khu phức hợp đa chức năng**, khô
 
 ## Đến đó bằng cách nào
 
-Khả năng kết nối được tích hợp ngay từ đầu. **Ga MRT Tun Razak Exchange**, mở cửa từ năm **2017**, tọa lạc tại khu này và được phục vụ bởi hai tuyến MRT, buộc TRX trực tiếp vào mạng lưới đường sắt Thung lũng Klang. Cái neo giao thông đó là một phần của điều phân biệt một khu tài chính được quy hoạch với một mớ tháp rải rác.
+Khả năng kết nối được tích hợp ngay từ đầu. **Ga MRT Tun Razak Exchange**, mở cửa từ năm **2017**, tọa lạc tại khu này và được phục vụ bởi hai tuyến MRT, buộc TRX trực tiếp vào [mạng lưới đường sắt Thung lũng Klang](/vi/transport/klang-valley-rail). Cái neo giao thông đó là một phần của điều phân biệt một khu tài chính được quy hoạch với một mớ tháp rải rác.
 
 ## Câu chuyện nguồn gốc: 1MDB và việc chuyển sang MOF Inc
 

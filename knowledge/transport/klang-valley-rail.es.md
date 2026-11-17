@@ -35,7 +35,7 @@ verificationNeeded:
   - "Confirm current MRT Kajang Line length/station count directly with MRT Corp or Rapid Rail before publication — Ministry of Transport and Rapid Rail's own line page give slightly different figures (51km/31 stations vs 46km/29 stations), which this article has avoided repeating verbatim pending reconciliation."
 
 lang: "es"
-sourceContentHash: "8f5aa15915a64a18"
+sourceContentHash: "7d38e6c3a9bd713c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -191,7 +191,7 @@ camino hasta KL Sentral.
 ## Planear un trayecto a través de las líneas
 
 Para cualquier viaje confinado a la propia red de Rapid Rail — LRT, MRT,
-Monorraíl o la Línea Shah Alam — una sola tarjeta Touch 'n Go, una tarjeta
+Monorraíl o la Línea Shah Alam — una sola tarjeta [Touch 'n Go](/es/transport/touch-n-go), una tarjeta
 bancaria contactless pasada directamente en la puerta, o un token comprado en
 una máquina de la estación, lleva al pasajero por tantas de esas líneas como el
 viaje necesite, sin billete aparte en cada intercambio. La aplicación

@@ -27,7 +27,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5feaacc87ec61a6a"
+sourceContentHash: "f6e325f951c4e130"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -107,7 +107,7 @@ JPJは、車両を登録し、運転免許及びナンバープレートを発�
 **自動車ライセンス**——すなわち道路税、又は*cukai jalan*——は、車両が公道で運行できるようにするためにJPJが発行するものであり、登録車主又はその代理人が更新できる。更新が通る前に、いくつかの条件を満たさなければならない：
 
 - 最低1年間をカバーする有効な車両保険。
-- 特定の車両（商用車両や車齢10年超の車両など）については、合格した**PUSPAKOM／PPKM検査**。
+- 特定の車両（商用車両や車齢10年超の車両など）については、合格した**[PUSPAKOM](/ja/transport/puspakom-vehicle-inspections)／PPKM検査**。
 - 車両及び車主が、JPJ又は警察（PDRM）によってブラックリストに載っていないこと。
 
 **2023年**以降、JPJは実物の道路税ステッカーを置き換えるデジタル自動車ライセンス**e-LKM**を導入した。**MyJPJ**アプリ又は**MySIKAP**ポータルからアクセスする。

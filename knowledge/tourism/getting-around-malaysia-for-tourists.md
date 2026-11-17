@@ -185,7 +185,7 @@ For visitors, the practical takeaways:
 
 ## How do I get around within a city?
 
-In **Kuala Lumpur**, the rail network — LRT, MRT, monorail, plus KTM Komuter and BRT — covers most tourist areas, and the tool that unlocks it is the **Touch 'n Go** card. It's a stored-value card you tap to enter and exit, and it works across all **Rapid KL** services: LRT, MRT, monorail, BRT and buses, including MRT feeder buses. Since Rapid KL buses no longer take cash, a Touch 'n Go card (or the linked app) is effectively required for buses.
+In **Kuala Lumpur**, the rail network — LRT, MRT, monorail, plus KTM Komuter and BRT — covers most tourist areas, and the tool that unlocks it is the **[Touch 'n Go](/transport/touch-n-go)** card. It's a stored-value card you tap to enter and exit, and it works across all **Rapid KL** services: LRT, MRT, monorail, BRT and buses, including MRT feeder buses. Since Rapid KL buses no longer take cash, a Touch 'n Go card (or the linked app) is effectively required for buses.
 
 If you'll ride a lot in a short visit, look at day-style **travel passes** sold for Rapid KL's network; note that the deeply discounted monthly "My50" pass is reserved for Malaysians (MyKad holders), so as a tourist you'll typically pay per journey on a Touch 'n Go card or use a short-duration tourist pass. For everything door-to-door, or at night, fall back on **Grab**.
 

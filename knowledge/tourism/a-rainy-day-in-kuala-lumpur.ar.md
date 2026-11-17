@@ -33,7 +33,7 @@ faq:
 
 lang: "ar"
 translationStatus: "in-sync"
-sourceContentHash: "b74b665148430910"
+sourceContentHash: "c14df7815cfcecfc"
 masterLanguage: "en"
 
 status: "published"
@@ -97,8 +97,7 @@ framework: how-to
 
 **قطارات Klang Valley** في KL — **LRT** (خطوط Kelana Jaya وAmpang وSri Petaling)،
 و**MRT** (خطا Kajang وPutrajaya)، و**KL Monorail** و**KTM Komuter** — هي النواة
-العملية ليوم ممطر، لأن المحطات والقطارات مغلقة ومكيفة الهواء. احمل بطاقة **Touch 'n
-Go** وامسحها عند الدخول والخروج؛ وتعمل البطاقات المصرفية اللاتلامسية على جزء كبير من
+العملية ليوم ممطر، لأن المحطات والقطارات مغلقة ومكيفة الهواء. احمل بطاقة **[Touch 'n Go](/ar/transport/touch-n-go)** وامسحها عند الدخول والخروج؛ وتعمل البطاقات المصرفية اللاتلامسية على جزء كبير من
 الشبكة. يمكن للمقيمين الماليزيين الذين يسافرون يومياً استخدام اشتراك **My50** الشهري
 غير المحدود، لكن الزائر العابر سيدفع عادةً حسب الاستخدام. ومن التقاطعات المفيدة التي
 تغيّر فيها الخطوط دون مغادرة المحطة: **Masjid Jamek** و**Pasar Seni** و**KL Sentral**.

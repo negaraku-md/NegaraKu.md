@@ -184,7 +184,7 @@ KL Sentral.
 ## Planning a journey across lines
 
 For any trip confined to Rapid Rail's own network — LRT, MRT, Monorail or
-the Shah Alam Line — a single Touch 'n Go card, a contactless bank card
+the Shah Alam Line — a single [Touch 'n Go](/transport/touch-n-go) card, a contactless bank card
 tapped directly at the gate, or a token bought from a station machine
 carries a passenger across as many of those lines as the trip needs, with
 no separate ticket required at each interchange. The **MyRapid Pulse** app

@@ -29,7 +29,7 @@ faq:
     a: "No. Parking compounds are issued by local authorities (PBT) under road-traffic orders relating to parking, whereas traffic summonses for driving offences are issued by the PDRM or JPJ."
 
 lang: "en"
-sourceContentHash: "cec9d7c50b142e19"
+sourceContentHash: "fbbc5c9405ba0df6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -112,7 +112,7 @@ In Petaling Jaya, the Smart Selangor Parking app charges **60 sen an hour** and 
 
 The shift to cashless payment means you need to download an app before parking. Among the options accepted for KL on-street parking:
 
-- **EZ Smart Park** — accepts FPX, UnionPay credit cards, Boost, Touch 'n Go and MCash
+- **EZ Smart Park** — accepts FPX, UnionPay credit cards, Boost, [Touch 'n Go](/en/transport/touch-n-go) and MCash
 - **Flexi Parking** and **Wilayah Parking** — FPX, credit cards (Visa/Mastercard), Boost, Touch 'n Go and GrabPay
 - **Jom Parking** — online banking, credit/debit cards, Boost and GrabPay
 - **MCash** — online banking, credit cards, merchant/agent, Digi E-Pay vouchers and at any KK Super Mart

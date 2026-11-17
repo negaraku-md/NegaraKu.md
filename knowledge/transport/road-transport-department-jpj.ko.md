@@ -25,7 +25,7 @@ faq:
   - q: "e-LKM이란 무엇인가요?"
     a: "e-LKM은 JPJ가 2023년부터 도입한 디지털 자동차등록세(디지털 도로세)로, 실물 스티커를 대체합니다. MyJPJ 앱이나 MySIKAP 포털을 통해 접근할 수 있습니다."
 lang: "ko"
-sourceContentHash: "5feaacc87ec61a6a"
+sourceContentHash: "f6e325f951c4e130"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -120,7 +120,7 @@ JPJ는 차량을 등록하고 운전면허와 번호판을 발급하는 근거 �
 있습니다. 갱신이 처리되기 전에, 몇 가지 조건이 충족되어야 합니다:
 
 - 최소 1년을 담보하는 유효한 차량 보험.
-- 특정 차량, 예를 들어 상용차나 10년 넘은 차량에 대한 통과된 **PUSPAKOM/PPKM
+- 특정 차량, 예를 들어 상용차나 10년 넘은 차량에 대한 통과된 **[PUSPAKOM](/ko/transport/puspakom-vehicle-inspections)/PPKM
   검사**.
 - 차량과 소유자가 JPJ나 경찰(PDRM)에 의해 블랙리스트에 올라 있지 않을 것.
 

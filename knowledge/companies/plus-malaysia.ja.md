@@ -30,7 +30,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "6a089759a8d1ba8f"
+sourceContentHash: "3030e02b122487e7"
 
 status: "published"
 aiAssisted: true
@@ -123,7 +123,7 @@ The Edge Malaysiaによると、自家用車に対する18%の通行料引き下
 
 一般の利用者にとって、実際的な影響は明確である。2058年まで通行料率は引き下げられ安定し、これまでのような定期的な引き上げは行われない。一方PLUSは、延長期間を通じて資産管理、運営、維持のための資金調達の責任を引き続き担う。
 
-**1997年**に導入されたTouch 'n Goカードにより、PLUSの高速道路で電子的な通行料支払いが可能になり、キャッシュレス運用への継続的な移行を象徴するものとなった。
+**1997年**に導入された[Touch 'n Go](/ja/transport/touch-n-go)カードにより、PLUSの高速道路で電子的な通行料支払いが可能になり、キャッシュレス運用への継続的な移行を象徴するものとなった。
 
 ## 今後の展望
 

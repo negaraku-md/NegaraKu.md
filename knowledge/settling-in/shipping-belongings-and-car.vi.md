@@ -20,7 +20,7 @@ keyTakeaways:
   - "Việc đăng ký xe được nộp điện tử thông qua một trong ba Gateway Provider được JPJ chỉ định, với một khoản phí dịch vụ JPJ là RM50 cho mỗi lần nộp"
 appliesTo: "Bất kỳ ai tái định cư đến Malaysia — người Malaysia hồi hương, nhân sự nước ngoài mới được tuyển, người tham gia MM2H — đang quyết định nên chuyển những gì, và liệu việc vận chuyển một chiếc xe hơi sở hữu cá nhân có thực tế hay không."
 lang: "vi"
-sourceContentHash: "1a35587b5de4590d"
+sourceContentHash: "e00cd8710f963e53"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -110,7 +110,7 @@ Một AP và một hóa đơn thuế đã thanh toán vẫn chưa đưa bạn h�
 
 1. Một bản sao của **Giấy phép được Phê duyệt (AP)**
 2. **Customs Form K1** cho chiếc xe
-3. Một **báo cáo kiểm định PUSPAKOM** xác nhận khả năng lưu thông và thông số kỹ thuật của xe
+3. Một **báo cáo kiểm định [PUSPAKOM](/vi/transport/puspakom-vehicle-inspections)** xác nhận khả năng lưu thông và thông số kỹ thuật của xe
 
 Những giấy tờ này được nộp điện tử, không phải qua một quầy JPJ — dữ liệu đăng ký đi qua một trong ba **Gateway Provider** được JPJ chỉ định (Cuscapi Berhad, Drosstech Sdn Bhd, hoặc POIS Sdn Bhd), mỗi bên thu một khoản phí dịch vụ JPJ là RM50 cho mỗi lần nộp. Chỉ sau khi dữ liệu đó đến JPJ và được thông qua thì chiếc xe mới có được một biển số đăng ký Malaysia, và tại thời điểm đó các yêu cầu thông thường về thuế đường bộ và bảo hiểm xe cơ giới áp dụng như bất kỳ chiếc xe nào đăng ký tại Malaysia — xem [bảo hiểm xe cơ giới](/vi/transport/motor-insurance) và [gia hạn thuế đường bộ](/vi/transport/road-tax-renewal) để biết những gì tiếp theo.
 

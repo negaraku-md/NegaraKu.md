@@ -28,7 +28,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d3de00140a544bd9"
+sourceContentHash: "94d96ff23ee94d3f"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -91,7 +91,7 @@ JPJ 的职责可归纳为几个核心领域：
 
 - **驾驶者发照。** JPJ 发出并更新驾驶执照，并设定执照架构。学习者以**学习驾驶执照（LDL）**起步并张贴「L」牌；新驾驶者随后在合格取得完整的**正式驾驶执照（CDL）**之前，持有附「P」牌、为期两年试验期的**试验期驾驶执照（PDL）**。商用驾驶者还需一张**职业执照**——用于罗里与货运车辆的货运驾驶执照（GDL），或用于德士、巴士与电召车的公共服务车辆（PSV）执照。
 - **机动车辆注册。** 每辆机动车辆都必须向 JPJ 注册，由其记录所有权、指定注册（车牌）详情并处理所有权转移。
-- **路税（LKM）。** 马来西亚人所称的路税（*cukai jalan*）正式名称是**汽车执照**——*Lesen Kenderaan Motor*，即 **LKM**——由 JPJ 发出，以准许车辆在公共道路上使用。MyGovernment 门户将 LKM 形容为由 JPJ 发出、以准许车辆上路者，并以有效的汽车保险为更新的前提条件。
+- **路税（LKM）。** 马来西亚人所称的路税（*cukai jalan*）正式名称是**汽车执照**——*[Lesen Kenderaan Motor](/zh/transport/road-tax-renewal)*，即 **LKM**——由 JPJ 发出，以准许车辆在公共道路上使用。MyGovernment 门户将 LKM 形容为由 JPJ 发出、以准许车辆上路者，并以有效的汽车保险为更新的前提条件。
 - **车牌。** JPJ 掌控注册号码系统，包括透过其竞标平台拍卖特别与个性化车牌。
 - **商用车辆发照。** JPJ 管理货运与公共服务车辆的发照，这项工作历来与商用车辆执照局框架相关联。
 - **执法。** JPJ 针对无照驾驶者、未注册或不适路车辆、超载罗里及其他违例，进行其自身的执法行动，并运营惩罚交通违例者的 **KEJARA** 记分制度。

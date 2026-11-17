@@ -36,7 +36,7 @@ faq:
     a: "Sur l'objectif de 15–30 MtéqCO₂, jusqu'à 20 MtéqCO₂ sont inconditionnels — la Malaisie s'y engage quoi qu'il arrive. 10 MtéqCO₂ supplémentaires sont conditionnels, ce qui signifie qu'ils ne seront réalisés que si un financement climatique international, un transfert de technologie et un soutien au renforcement des capacités sont fournis."
 
 lang: "fr"
-sourceContentHash: "7ad2136668e2982a"
+sourceContentHash: "6a0b336c4432c9c8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -182,7 +182,7 @@ Au-dessus des deux, la Malaisie signale qu'elle recourra à la **coopération vo
 La CDN 3.0 aligne l'action interne sur les résultats du premier Bilan mondial. En pratique, cela se traduit par une poignée de leviers concrets :
 
 - **Énergie.** Dans le cadre de la NETR, les centrales au charbon sont vouées à une mise à la retraite quasi complète par des retraits naturels progressifs sans nouveaux ajouts, les énergies renouvelables doivent apporter une contribution substantielle à la capacité installée, et le gaz naturel reste un combustible de transition.
-- **Transport.** Investissement massif dans le rail — l'East Coast Rail Link (ECRL), le LRT3 et le MRT3 — aux côtés d'une transition accélérée vers le véhicule électrique et de projets pilotes à hydrogène dans le transport lourd.
+- **Transport.** Investissement massif dans le rail — l'[East Coast Rail Link](/fr/transport/east-coast-rail-link-ecrl) (ECRL), le LRT3 et le MRT3 — aux côtés d'une transition accélérée vers le véhicule électrique et de projets pilotes à hydrogène dans le transport lourd.
 - **Réforme des subventions aux combustibles fossiles.** La Malaisie a commencé à supprimer les subventions généralisées au diesel le 10 juin 2024, laissant le prix péninsulaire fluctuer aux tarifs du marché tout en maintenant des tarifs subventionnés pour Sabah, Sarawak et Labuan et pour des groupes ciblés comme les pêcheurs au moyen de dispositifs comme la Diesel Fleet Card 2.0.
 - **Méthane et autres gaz autres que le CO₂.** Développer la captation du méthane issu de la gestion des déchets solides et du traitement des eaux usées industrielles.
 - **Forêts et affectation des terres.** Renforcées par la loi forestière nationale de 2022 et un mécanisme de Transfert fiscal écologique qui récompense les États pour la protection des forêts, avec un engagement — cohérent avec le Cadre mondial de la biodiversité de Kunming-Montréal et la Politique nationale sur la diversité biologique 2.0 — de conserver au moins 20 % des zones terrestres et des eaux intérieures d'ici 2030.

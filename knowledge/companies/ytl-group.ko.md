@@ -30,7 +30,7 @@ faq:
     a: "YTL Power는 조호르 쿨라이에 대규모 데이터센터 단지를 건설 중이며, 2025년 10월 말 가동으로 발표된 첫 엔비디아 기반 AI 시설을 완공했습니다."
 
 lang: "ko"
-sourceContentHash: "430ec56c95aad0ac"
+sourceContentHash: "50fb36d32d88cbec"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ YTL Corporation Berhad는 주 지주회사로, Bursa Malaysia 메인마켓에 �
 | YTL Power International | 6742 | 유틸리티 및 디지털 인프라 | FTSE Bursa Malaysia KLCI 구성 종목 |
 | Malayan Cement | — | 시멘트 및 건축자재 | 다수 지분 간접 자회사(YTL Cement를 통해); 2024 회계연도 매출 RM44.5억, 순이익 RM4.287억 |
 
-Malayan Cement는 그룹의 시멘트 및 건축자재 사업을 담당하며 YTL Cement를 통해 보유한 다수 지분 간접 자회사입니다. 2024 회계연도에 18.3% 증가한 RM44.5억의 매출과, 동해안 철도 연결(East Coast Rail Link) 같은 인프라 초대형 프로젝트가 견인한 강한 회복의 해에 1년 전 RM1.5904억에서 약 170% 급증한 RM4.287억의 순이익을 보고했습니다.
+Malayan Cement는 그룹의 시멘트 및 건축자재 사업을 담당하며 YTL Cement를 통해 보유한 다수 지분 간접 자회사입니다. 2024 회계연도에 18.3% 증가한 RM44.5억의 매출과, 동해안 철도 연결([East Coast Rail Link](/ko/transport/east-coast-rail-link-ecrl)) 같은 인프라 초대형 프로젝트가 견인한 강한 회복의 해에 1년 전 RM1.5904억에서 약 170% 급증한 RM4.287억의 순이익을 보고했습니다.
 
 ## 유틸리티는 어디에 자리합니까?
 

@@ -28,7 +28,7 @@ faq:
     a: "En virtud de la decisión de 2020, las tarifas de peaje se redujeron un 18% desde el 1 de febrero de 2020, y no hay previstas subidas de peaje durante todo el periodo de concesión prorrogado hasta 2058."
 
 lang: "es"
-sourceContentHash: "6a089759a8d1ba8f"
+sourceContentHash: "3030e02b122487e7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -123,7 +123,7 @@ Según The Edge Malaysia, la reducción del peaje del 18% para los vehículos pr
 
 Para el usuario corriente, el efecto práctico es claro: tarifas de peaje más bajas y estables hasta 2058, sin las subidas periódicas vistas anteriormente. PLUS, por su parte, sigue siendo responsable de la gestión de los activos, las operaciones y la financiación del mantenimiento a lo largo del periodo prorrogado.
 
-La tarjeta Touch 'n Go, introducida en **1997**, permite el pago electrónico del peaje en las autopistas de PLUS y marca el giro en curso hacia las operaciones sin efectivo.
+La tarjeta [Touch 'n Go](/es/transport/touch-n-go), introducida en **1997**, permite el pago electrónico del peaje en las autopistas de PLUS y marca el giro en curso hacia las operaciones sin efectivo.
 
 ## Qué viene después
 

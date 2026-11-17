@@ -34,7 +34,7 @@ faq:
     a: "Oui. Les quatre — TNG Digital Sdn Bhd, Axiata Digital E-code Sdn Bhd (Boost), GPay Network (M) Sdn Bhd (GrabPay) et ShopeePay Malaysia Sdn Bhd — figurent comme émetteurs de monnaie électronique non bancaires sur la liste officielle de BNM."
 
 lang: "fr"
-sourceContentHash: "3baa675be6fcede6"
+sourceContentHash: "73693ba617d202b7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,7 +85,7 @@ Vous touchez « payer » au comptoir, le solde de votre portefeuille électroniq
 
 ## Qui réglemente les portefeuilles électroniques en Malaisie ?
 
-Les portefeuilles électroniques comme Touch 'n Go eWallet, Boost, GrabPay et ShopeePay ne sont pas des banques. Ils sont réglementés par Bank Negara Malaysia (BNM) en tant qu'**émetteurs de monnaie électronique** (EMI), agréés au titre de la **section 11 de la Loi de 2013 sur les services financiers (FSA)** — ou de la section 11 de la Loi de 2013 sur les services financiers islamiques (IFSA) pour les produits conformes à la charia.
+Les portefeuilles électroniques comme [Touch 'n Go](/fr/transport/touch-n-go) eWallet, Boost, GrabPay et ShopeePay ne sont pas des banques. Ils sont réglementés par Bank Negara Malaysia (BNM) en tant qu'**émetteurs de monnaie électronique** (EMI), agréés au titre de la **section 11 de la Loi de 2013 sur les services financiers (FSA)** — ou de la section 11 de la Loi de 2013 sur les services financiers islamiques (IFSA) pour les produits conformes à la charia.
 
 Le cadre détaillé est exposé dans le *Document de politique sur la monnaie électronique (E-Money)* de BNM, en vigueur depuis le **31 janvier 2025**. Il définit la monnaie électronique comme un instrument de paiement qui « stocke des fonds de manière électronique en échange de fonds versés à l'émetteur » et qui peut être utilisé pour effectuer des paiements à des parties autres que l'émetteur.
 

@@ -123,7 +123,7 @@ break a large note, the amounts are small, and there are **no ATMs on site**.
 
 That said, **e-wallet payment is now widespread.** Many stalls accept **DuitNow
 QR** — Malaysia's national interoperable QR standard, where one code works across
-participating banks and e-wallets — and **Touch 'n Go eWallet**, shown by a QR
+participating banks and e-wallets — and **[Touch 'n Go](/transport/touch-n-go) eWallet**, shown by a QR
 standee or sticker you scan; GrabPay and Boost are common too. Adoption is now in
 the millions of merchants nationwide, helped by DuitNow QR carrying little or no
 fee for small vendors. The sensible first-timer approach: **assume cash, carry QR

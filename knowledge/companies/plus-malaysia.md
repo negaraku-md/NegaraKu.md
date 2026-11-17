@@ -122,7 +122,7 @@ Menurut The Edge Malaysia, pengurangan tol 18% ke atas kenderaan persendirian be
 
 Bagi pengguna biasa, kesan praktikalnya jelas: kadar tol yang lebih rendah dan stabil sehingga 2058, tanpa kenaikan berkala seperti sebelum ini. PLUS pula terus memegang tanggungjawab terhadap pengurusan aset, operasi dan pembiayaan penyelenggaraan sepanjang tempoh lanjutan.
 
-Kad Touch 'n Go, yang diperkenalkan pada **1997**, membolehkan pembayaran tol secara elektronik di lebuh raya PLUS dan menandakan peralihan berterusan ke arah operasi tanpa tunai.
+Kad [Touch 'n Go](/transport/touch-n-go), yang diperkenalkan pada **1997**, membolehkan pembayaran tol secara elektronik di lebuh raya PLUS dan menandakan peralihan berterusan ke arah operasi tanpa tunai.
 
 ## What's next
 

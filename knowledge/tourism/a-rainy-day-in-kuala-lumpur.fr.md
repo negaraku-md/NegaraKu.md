@@ -33,7 +33,7 @@ faq:
 
 lang: "fr"
 translationStatus: "in-sync"
-sourceContentHash: "b74b665148430910"
+sourceContentHash: "c14df7815cfcecfc"
 masterLanguage: "en"
 
 status: "published"
@@ -102,7 +102,7 @@ Le **réseau ferroviaire de la Klang Valley** — le **LRT** (lignes Kelana Jaya
 Ampang et Sri Petaling), le **MRT** (lignes Kajang et Putrajaya), le **KL
 Monorail** et le **KTM Komuter** — est le cœur pratique d'une journée de pluie,
 parce que les stations et les trains sont fermés et climatisés. Emportez une carte
-**Touch 'n Go** et validez à l'entrée et à la sortie ; les cartes bancaires sans
+**[Touch 'n Go](/fr/transport/touch-n-go)** et validez à l'entrée et à la sortie ; les cartes bancaires sans
 contact fonctionnent sur une grande partie du réseau. Les résidents malaisiens qui
 voyagent quotidiennement peuvent utiliser l'abonnement mensuel illimité **My50**,
 mais un visiteur de passage paiera généralement à l'usage. Parmi les correspondances

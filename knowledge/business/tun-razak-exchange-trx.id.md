@@ -37,7 +37,7 @@ faq:
     a: "TRX memiliki stasiun kereta sendiri, stasiun MRT Tun Razak Exchange, yang beroperasi sejak 2017 dan dilayani dua jalur MRT. Akses jalan disediakan oleh jaringan pusat Kuala Lumpur di sekitarnya."
 
 lang: "id"
-sourceContentHash: "3ada5248558e634e"
+sourceContentHash: "cccc89ca0e73837c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -141,7 +141,7 @@ TRX dirancang sebagai **distrik serba guna**, bukan enklave khusus perkantoran â
 
 ## Menuju ke sana
 
-Konektivitas dibangun sejak awal. **Stasiun MRT Tun Razak Exchange**, dibuka sejak **2017**, berada di distrik dan dilayani dua jalur MRT, mengikat TRX langsung ke jaringan kereta Lembah Klang. Jangkar transit itu adalah bagian dari apa yang membedakan distrik keuangan terencana dari sekumpulan menara yang berserak.
+Konektivitas dibangun sejak awal. **Stasiun MRT Tun Razak Exchange**, dibuka sejak **2017**, berada di distrik dan dilayani dua jalur MRT, mengikat TRX langsung ke [jaringan kereta Lembah Klang](/id/transport/klang-valley-rail). Jangkar transit itu adalah bagian dari apa yang membedakan distrik keuangan terencana dari sekumpulan menara yang berserak.
 
 ## Kisah asal: 1MDB dan perpindahan ke MOF Inc
 

@@ -134,7 +134,7 @@ A practical note: the KLIA Ekspres is unaffected by road traffic, so it is the s
 
 Kuala Lumpur runs on three connected rail systems — **MRT**, **LRT** and the **Monorail** — supplemented by buses and Grab. Together they reach almost everywhere a first-time visitor wants to go, and they are cheap.
 
-The simplest way to pay is a **Touch 'n Go** card, a rechargeable contactless card you tap at the gates on every rail line and on buses. You can buy and top up one at station counters and convenience stores. If you would rather not manage a stored-value card, contactless bank cards and QR payments are increasingly accepted at gates too.
+The simplest way to pay is a **[Touch 'n Go](/transport/touch-n-go)** card, a rechargeable contactless card you tap at the gates on every rail line and on buses. You can buy and top up one at station counters and convenience stores. If you would rather not manage a stored-value card, contactless bank cards and QR payments are increasingly accepted at gates too.
 
 For unlimited travel, Rapid KL sells day passes. Malaysian citizens can buy the **Rapid Kota Pass** at **RM10 for one day** or **RM25 for three days**, covering unlimited rides on the LRT, MRT, Monorail, BRT and Rapid KL buses. Tourists have an equivalent unlimited pass, the **Rapid Kembara Pass**, sold at station customer-service counters — ask staff for the current price and validity when you buy.
 

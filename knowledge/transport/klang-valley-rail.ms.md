@@ -37,7 +37,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8f5aa15915a64a18"
+sourceContentHash: "7d38e6c3a9bd713c"
 
 status: "published"
 aiAssisted: true
@@ -196,7 +196,7 @@ pergi sepenuhnya ke KL Sentral.
 ## Merancang perjalanan merentasi laluan
 
 Untuk sebarang perjalanan yang terhad kepada rangkaian Rapid Rail sendiri
-— LRT, MRT, Monorel atau Laluan Shah Alam — satu kad Touch 'n Go, kad
+— LRT, MRT, Monorel atau Laluan Shah Alam — satu kad [Touch 'n Go](/ms/transport/touch-n-go), kad
 bank tanpa sentuh yang ditap terus di pintu pagar, atau token yang dibeli
 daripada mesin stesen membawa seorang penumpang merentasi seberapa banyak
 laluan yang diperlukan oleh perjalanan itu, tanpa memerlukan tiket

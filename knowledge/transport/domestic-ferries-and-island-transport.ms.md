@@ -29,7 +29,7 @@ faq:
     a: "Selalunya tidak. Banyak resort dan pengendali bot pantai timur secara sukarela menggantung perkhidmatan dari sekitar Oktober hingga Februari kerana laut yang bergelora akibat monsun timur laut."
 
 lang: "ms"
-sourceContentHash: "ea7ce50e8b808f2f"
+sourceContentHash: "6d82ddd104b2cdb5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,7 +106,7 @@ Feri beroperasi setiap hari dari 06:30 hingga 23:30, pada selang masa yang tetap
 | Motosikal | RM 2.50 |
 | Basikal | RM 2.00 |
 
-Anda boleh membayar dengan Touch 'n Go, di kaunter, atau dengan tiket dalam talian. Ramai pengembara juga sampai ke pulau melalui jalan raya, menerusi Jambatan Pulau Pinang atau Jambatan Sultan Abdul Halim Muadzam Shah (Kedua); feri ialah pilihan yang indah dan sesuai untuk penglaju dan bukannya satu-satunya penghubung.
+Anda boleh membayar dengan [Touch 'n Go](/transport/touch-n-go), di kaunter, atau dengan tiket dalam talian. Ramai pengembara juga sampai ke pulau melalui jalan raya, menerusi Jambatan Pulau Pinang atau Jambatan Sultan Abdul Halim Muadzam Shah (Kedua); feri ialah pilihan yang indah dan sesuai untuk penglaju dan bukannya satu-satunya penghubung.
 
 ## Bagaimana feri ke Langkawi berfungsi?
 

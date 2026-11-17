@@ -36,7 +36,7 @@ faq:
     a: "Dari sasaran 15–30 MtCO₂eq, hingga 20 MtCO₂eq bersifat tanpa syarat — Malaysia berkomitmen padanya tanpa memandang keadaan. Sebanyak 10 MtCO₂eq tambahan bersifat bersyarat, berarti ia hanya akan dicapai jika pembiayaan iklim internasional, alih teknologi dan dukungan pembangunan kapasitas tersedia."
 
 lang: "id"
-sourceContentHash: "7ad2136668e2982a"
+sourceContentHash: "6a0b336c4432c9c8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -182,7 +182,7 @@ Di samping keduanya, Malaysia menandakan bahwa ia akan menggunakan **kerja sama 
 NDC 3.0 menyelaraskan tindakan domestik dengan hasil Penilaian Global pertama. Dari segi praktik, itu diterjemahkan menjadi beberapa tuas konkret:
 
 - **Energi.** Di bawah NETR, pembangkit listrik batu bara ditetapkan untuk penghentian yang hampir lengkap melalui penonaktifan secara alami tanpa penambahan baru, energi terbarukan akan menyumbang secara signifikan kepada kapasitas terpasang, dan gas alam tetap sebagai bahan bakar transisi.
-- **Transportasi.** Investasi besar dalam kereta api — Laluan Rel Pantai Timur (ECRL), LRT3 dan MRT3 — sejalan dengan peralihan kendaraan listrik yang semakin cepat dan proyek perintis hidrogen dalam transportasi berat.
+- **Transportasi.** Investasi besar dalam kereta api — [Laluan Rel Pantai Timur](/id/transport/east-coast-rail-link-ecrl) (ECRL), LRT3 dan MRT3 — sejalan dengan peralihan kendaraan listrik yang semakin cepat dan proyek perintis hidrogen dalam transportasi berat.
 - **Reformasi subsidi bahan bakar fosil.** Malaysia mulai menghapus subsidi diesel menyeluruh secara bertahap pada 10 Juni 2024, membiarkan harga di Semenanjung mengambang ke tarif pasar sambil mempertahankan tarif bersubsidi untuk Sabah, Sarawak dan Labuan serta untuk kelompok sasaran seperti nelayan melalui skema seperti Kartu Armada Diesel 2.0.
 - **Metana dan gas non-CO₂ lainnya.** Meningkatkan penangkapan metana dari pengelolaan sampah padat dan pengolahan air limbah industri.
 - **Hutan dan penggunaan lahan.** Diperkuat oleh National Forestry Act 2022 dan mekanisme Pemindahan Fiskal Ekologi yang memberi imbalan kepada negeri atas perlindungan hutan, dengan komitmen — konsisten dengan Kerangka Keanekaragaman Hayati Global Kunming-Montreal dan Kebijakan Keanekaragaman Hayati Nasional 2.0 — untuk melestarikan sekurang-kurangnya 20% kawasan daratan dan perairan pedalaman menjelang 2030.

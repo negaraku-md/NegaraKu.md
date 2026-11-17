@@ -38,7 +38,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2716ca2d76a67d28"
+sourceContentHash: "83577f20656ec6a9"
 
 status: "published"
 aiAssisted: true
@@ -135,7 +135,7 @@ Nota praktikal: KLIA Ekspres tidak terjejas oleh lalu lintas jalan raya, jadi ia
 
 Kuala Lumpur beroperasi dengan tiga sistem rel yang bersambung — **MRT**, **LRT** dan **Monorel** — ditambah dengan bas dan Grab. Bersama-sama, ia menjangkau hampir setiap tempat yang mahu dituju oleh pelawat kali pertama, dan ia murah.
 
-Cara paling mudah untuk membayar ialah kad **Touch 'n Go**, kad tanpa sentuh yang boleh dicas semula yang anda tepuk di pintu pagar pada setiap laluan rel dan pada bas. Anda boleh membeli dan menambah nilai di kaunter stesen dan kedai serbaneka. Jika anda lebih suka tidak menguruskan kad nilai tersimpan, kad bank tanpa sentuh dan pembayaran QR semakin diterima di pintu pagar juga.
+Cara paling mudah untuk membayar ialah kad **[Touch 'n Go](/transport/touch-n-go)**, kad tanpa sentuh yang boleh dicas semula yang anda tepuk di pintu pagar pada setiap laluan rel dan pada bas. Anda boleh membeli dan menambah nilai di kaunter stesen dan kedai serbaneka. Jika anda lebih suka tidak menguruskan kad nilai tersimpan, kad bank tanpa sentuh dan pembayaran QR semakin diterima di pintu pagar juga.
 
 Untuk perjalanan tanpa had, Rapid KL menjual pas harian. Warganegara Malaysia boleh membeli **Rapid Kota Pass** pada **RM10 untuk satu hari** atau **RM25 untuk tiga hari**, meliputi perjalanan tanpa had di LRT, MRT, Monorel, BRT dan bas Rapid KL. Pelancong mempunyai pas tanpa had yang setara, **Rapid Kembara Pass**, dijual di kaunter khidmat pelanggan stesen — tanya kakitangan tentang harga dan tempoh sah semasa apabila anda membeli.
 

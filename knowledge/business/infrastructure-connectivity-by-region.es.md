@@ -49,7 +49,7 @@ verificationNeeded:
   - "Confirm the Gemas to Johor Bahru electrified double track formal launch date and project cost — neither was located"
 
 lang: "es"
-sourceContentHash: "300ad373430dce8b"
+sourceContentHash: "77f26148404eb5f2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -165,7 +165,7 @@ KLIA es el 75 por ciento del flete aéreo nacional. Penang, con 114,551 tonelada
 
 ## ¿Qué cambia realmente el ECRL y cuándo?
 
-El East Coast Rail Link está **completado al 92.62 por ciento a febrero de 2026**, con vía tendida a lo largo de los 519 km del tramo Kota Bharu a Gombak. La escalonación importa más que el titular:
+El [East Coast Rail Link](/es/transport/east-coast-rail-link-ecrl) está **completado al 92.62 por ciento a febrero de 2026**, con vía tendida a lo largo de los 519 km del tramo Kota Bharu a Gombak. La escalonación importa más que el titular:
 
 | Tramo | Finalización | Operaciones |
 | --- | --- | --- |

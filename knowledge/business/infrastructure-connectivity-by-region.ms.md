@@ -51,7 +51,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "300ad373430dce8b"
+sourceContentHash: "77f26148404eb5f2"
 
 status: "published"
 aiAssisted: true
@@ -166,7 +166,7 @@ KLIA merangkumi 75 peratus daripada kargo udara kebangsaan. Pulau Pinang, pada 1
 
 ## Apa sebenarnya yang diubah oleh ECRL, dan bila?
 
-East Coast Rail Link telah **92.62 peratus siap setakat Februari 2026**, dengan landasan telah dipasang merentasi keseluruhan 519 km bahagian Kota Bharu ke Gombak. Peringkat pelaksanaannya lebih penting daripada tajuk berita:
+[East Coast Rail Link](/ms/transport/east-coast-rail-link-ecrl) telah **92.62 peratus siap setakat Februari 2026**, dengan landasan telah dipasang merentasi keseluruhan 519 km bahagian Kota Bharu ke Gombak. Peringkat pelaksanaannya lebih penting daripada tajuk berita:
 
 | Bahagian | Siap | Operasi |
 | --- | --- | --- |

@@ -29,7 +29,7 @@ faq:
     a: "Không. Phạt hòa giải đậu xe do PBT cấp theo lệnh giao thông đường bộ liên quan đến đậu xe, trong khi giấy phạt giao thông cho các lỗi lái xe do PDRM hoặc JPJ cấp."
 
 lang: "vi"
-sourceContentHash: "cec9d7c50b142e19"
+sourceContentHash: "fbbc5c9405ba0df6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -112,7 +112,7 @@ Mức phí ven đường phụ thuộc vào vùng và PBT. Ở Kuala Lumpur, DBK
 
 Việc chuyển sang thanh toán không tiền mặt có nghĩa là bạn cần tải một ứng dụng trước khi đậu xe. Trong số các lựa chọn được chấp nhận cho đậu xe ven đường ở KL:
 
-- **EZ Smart Park** — chấp nhận FPX, thẻ tín dụng UnionPay, Boost, Touch 'n Go và MCash
+- **EZ Smart Park** — chấp nhận FPX, thẻ tín dụng UnionPay, Boost, [Touch 'n Go](/vi/transport/touch-n-go) và MCash
 - **Flexi Parking** và **Wilayah Parking** — FPX, thẻ tín dụng (Visa/Mastercard), Boost, Touch 'n Go và GrabPay
 - **Jom Parking** — ngân hàng trực tuyến, thẻ tín dụng/ghi nợ, Boost và GrabPay
 - **MCash** — ngân hàng trực tuyến, thẻ tín dụng, đại lý/đại diện, phiếu E-Pay Digi và tại bất kỳ KK Super Mart nào

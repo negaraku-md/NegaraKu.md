@@ -30,7 +30,7 @@ faq:
     a: "El banco o la financiera queda registrado como el propietario legal del vehículo bajo la Hire-Purchase Act 1967 durante la vigencia del préstamo. El comprador es el poseedor registrado con el uso diario del vehículo, y solo se convierte en propietario registrado una vez que el préstamo está totalmente liquidado y la financiera emite una liberación."
 
 lang: "es"
-sourceContentHash: "fbeedb8341d7b377"
+sourceContentHash: "1e94499e976a5044"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,7 +88,7 @@ framework: how-to
 
 Compra un coche en Malasia y firmas un solo trato, pero en realidad entras en tres relaciones distintas a la vez: una con quien te vendió el coche, una con quien lo está financiando, y una con el JPJ, el departamento que decide a nombre de quién está realmente el vehículo. Omite un paso en cualquiera de las tres, y el coche que pagaste legalmente sigue sin ser del todo tuyo.
 
-La mayoría de los compradores primerizos solo lo notan cuando algo sale mal — un coche usado que compraron resulta estar todavía financiado, o un banco no libera un préstamo hasta que aparece un papel de Puspakom. Nada de ello es arbitrario. Cada paso existe para responder a una pregunta: ¿quién es realmente responsable de este vehículo ahora mismo?
+La mayoría de los compradores primerizos solo lo notan cuando algo sale mal — un coche usado que compraron resulta estar todavía financiado, o un banco no libera un préstamo hasta que aparece un papel de [Puspakom](/es/transport/puspakom-vehicle-inspections). Nada de ello es arbitrario. Cada paso existe para responder a una pregunta: ¿quién es realmente responsable de este vehículo ahora mismo?
 
 ## Respuesta corta
 

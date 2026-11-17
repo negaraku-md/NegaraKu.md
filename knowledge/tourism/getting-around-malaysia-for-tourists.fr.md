@@ -37,7 +37,7 @@ faq:
     a: "Une carte Touch 'n Go. Elle fonctionne sur le LRT, le MRT, le monorail, le BRT et les bus de Rapid KL. Les bus de Rapid KL n'acceptent pas les espèces, si bien qu'une carte (ou l'application) est pratiquement obligatoire pour les bus."
 
 lang: "fr"
-sourceContentHash: "e428ae7cb3d3f8cb"
+sourceContentHash: "360c299744236138"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -186,7 +186,7 @@ Pour les visiteurs, les conclusions pratiques :
 
 ## Comment me déplacer à l'intérieur d'une ville ?
 
-À **Kuala Lumpur**, le réseau ferroviaire — LRT, MRT, monorail, plus KTM Komuter et BRT — couvre la plupart des zones touristiques, et l'outil qui le déverrouille est la carte **Touch 'n Go**. C'est une carte à valeur stockée que l'on valide à l'entrée et à la sortie, et elle fonctionne sur tous les services de **Rapid KL** : LRT, MRT, monorail, BRT et bus, y compris les bus de rabattement du MRT. Comme les bus de Rapid KL n'acceptent plus les espèces, une carte Touch 'n Go (ou l'application liée) est pratiquement obligatoire pour les bus.
+À **Kuala Lumpur**, le réseau ferroviaire — LRT, MRT, monorail, plus KTM Komuter et BRT — couvre la plupart des zones touristiques, et l'outil qui le déverrouille est la carte **[Touch 'n Go](/fr/transport/touch-n-go)**. C'est une carte à valeur stockée que l'on valide à l'entrée et à la sortie, et elle fonctionne sur tous les services de **Rapid KL** : LRT, MRT, monorail, BRT et bus, y compris les bus de rabattement du MRT. Comme les bus de Rapid KL n'acceptent plus les espèces, une carte Touch 'n Go (ou l'application liée) est pratiquement obligatoire pour les bus.
 
 Si vous comptez beaucoup utiliser les transports lors d'un court séjour, regardez les **forfaits de voyage** de type journalier vendus pour le réseau de Rapid KL ; notez que le forfait mensuel « My50 », fortement réduit, est réservé aux Malaisiens (titulaires de MyKad), aussi, en tant que touriste, paierez-vous normalement au trajet avec une carte Touch 'n Go ou utiliserez-vous un forfait touristique de courte durée. Pour tout ce qui est porte à porte, ou de nuit, repliez-vous sur **Grab**.
 

@@ -34,7 +34,7 @@ faq:
 
 lang: "id"
 translationStatus: "in-sync"
-sourceContentHash: "959c1dda8a5ff952"
+sourceContentHash: "e43eab1399c2d55c"
 masterLanguage: "en"
 
 status: "published"
@@ -131,7 +131,7 @@ kecil**: banyak kios tidak bisa memecah uang kertas besar, jumlahnya kecil, dan
 
 Meski begitu, **pembayaran e-wallet kini meluas.** Banyak kios menerima **DuitNow
 QR** — standar QR interoperabel nasional Malaysia, di mana satu kode berfungsi di
-seluruh bank dan e-wallet yang berpartisipasi — dan **Touch 'n Go eWallet**,
+seluruh bank dan e-wallet yang berpartisipasi — dan **[Touch 'n Go](/id/transport/touch-n-go) eWallet**,
 ditandai dengan standee atau stiker QR yang Anda pindai; GrabPay dan Boost juga
 umum. Adopsinya kini mencapai jutaan pedagang di seluruh negeri, terbantu oleh
 DuitNow QR yang membebankan sedikit atau tanpa biaya bagi pedagang kecil. Pendekatan

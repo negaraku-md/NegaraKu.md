@@ -32,7 +32,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "fbeedb8341d7b377"
+sourceContentHash: "1e94499e976a5044"
 
 status: "published"
 aiAssisted: true
@@ -88,7 +88,7 @@ framework: how-to
 
 Apabila anda membeli kereta di Malaysia, anda menandatangani satu perjanjian, tetapi sebenarnya anda memasuki tiga hubungan berasingan serentak: satu dengan sesiapa yang menjual kereta itu kepada anda, satu dengan sesiapa yang membiayainya, dan satu lagi dengan JPJ, jabatan yang menentukan nama siapa yang sebenarnya tertera pada kenderaan itu. Terlepas satu langkah dalam mana-mana satu daripada ketiga-tiganya, dan kereta yang telah anda bayar itu, dari segi undang-undang, masih belum sepenuhnya milik anda.
 
-Kebanyakan pembeli kali pertama hanya menyedari hal ini apabila sesuatu tidak kena — kereta terpakai yang mereka beli didapati masih dibiayai, atau bank enggan melepaskan pinjaman sehingga sekeping dokumen daripada Puspakom dikemukakan. Tiada satu pun daripadanya sewenang-wenangnya. Setiap langkah wujud untuk menjawab satu soalan: siapa yang sebenarnya bertanggungjawab ke atas kenderaan ini sekarang?
+Kebanyakan pembeli kali pertama hanya menyedari hal ini apabila sesuatu tidak kena — kereta terpakai yang mereka beli didapati masih dibiayai, atau bank enggan melepaskan pinjaman sehingga sekeping dokumen daripada [Puspakom](/transport/puspakom-vehicle-inspections) dikemukakan. Tiada satu pun daripadanya sewenang-wenangnya. Setiap langkah wujud untuk menjawab satu soalan: siapa yang sebenarnya bertanggungjawab ke atas kenderaan ini sekarang?
 
 ## Jawapan ringkas
 

@@ -29,7 +29,7 @@ faq:
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d3de00140a544bd9"
+sourceContentHash: "94d96ff23ee94d3f"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -92,7 +92,7 @@ Las responsabilidades de la JPJ se agrupan en un puñado de áreas principales:
 
 - **Concesión de permisos de conducir.** La JPJ emite y renueva los permisos de conducir y fija la estructura de los permisos. Los aprendices comienzan con un **Permiso de Conducir de Aprendizaje (LDL)** y exhiben una placa «L»; los conductores noveles tienen después un **Permiso de Conducir Provisional (PDL)** con una placa «P» durante un periodo de prueba de dos años antes de obtener el **Permiso de Conducir Competente (CDL)** completo. Los conductores comerciales necesitan además un **permiso profesional** — un Permiso de Conducir de Mercancías (GDL) para camiones y vehículos de carga, o un permiso de Vehículo de Servicio Público (PSV) para taxis, autobuses y servicios de transporte con conductor (e-hailing).
 - **Matriculación de vehículos de motor.** Todo vehículo de motor debe matricularse en la JPJ, que registra la titularidad, asigna los datos de la matrícula y gestiona las transferencias de titularidad.
-- **Impuesto de circulación (LKM).** Lo que los malasios llaman impuesto de circulación (*cukai jalan*) es formalmente la **Licencia del Vehículo de Motor** — *Lesen Kenderaan Motor*, o **LKM** — que la JPJ emite para permitir el uso de un vehículo en las vías públicas. El portal MyGovernment describe la LKM como emitida por la JPJ para permitir que un vehículo circule por la carretera, con un seguro de automóvil válido como requisito previo para la renovación.
+- **Impuesto de circulación (LKM).** Lo que los malasios llaman impuesto de circulación (*cukai jalan*) es formalmente la **Licencia del Vehículo de Motor** — *[Lesen Kenderaan Motor](/es/transport/road-tax-renewal)*, o **LKM** — que la JPJ emite para permitir el uso de un vehículo en las vías públicas. El portal MyGovernment describe la LKM como emitida por la JPJ para permitir que un vehículo circule por la carretera, con un seguro de automóvil válido como requisito previo para la renovación.
 - **Matrículas.** La JPJ controla el sistema de números de matrícula, incluida la subasta de matrículas especiales y personalizadas a través de sus plataformas de puja.
 - **Licencias de vehículos comerciales.** La JPJ administra la concesión de licencias a los vehículos de mercancías y de servicio público, una labor ligada históricamente al marco de la Junta de Licencias de Vehículos Comerciales.
 - **Vigilancia.** La JPJ desarrolla sus propias operaciones de vigilancia contra conductores sin permiso, vehículos sin matricular o no aptos para circular, camiones sobrecargados y otras infracciones, y opera el sistema de puntos de penalización **KEJARA** que sanciona a los infractores de tráfico.

@@ -30,7 +30,7 @@ faq:
     a: "GXBank fue el primero en iniciar operaciones, en 2023. AEON Bank fue el primer banco digital islámico en abrirse al público, el 26 de mayo de 2024."
 
 lang: "es"
-sourceContentHash: "e7e1910cb72bc76a"
+sourceContentHash: "54558cbe2eba3f48"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ GXBank marcó el ritmo como el primer banco digital de Malasia en iniciar operac
 Este es el punto de confusión más común. Un banco digital y un monedero electrónico viven ambos en su teléfono, pero jurídicamente son animales muy distintos.
 
 - Un **banco digital** posee una licencia bancaria. Capta depósitos, puede pagar intereses o beneficios y puede prestar. Sus depósitos elegibles están protegidos por el PIDM.
-- Un **monedero electrónico** (como un saldo de Touch 'n Go eWallet) es un emisor de dinero electrónico usado principalmente para pagos. No es un banco que capta depósitos, por lo que el saldo no está cubierto por el seguro de depósitos del PIDM.
+- Un **monedero electrónico** (como un saldo de [Touch 'n Go](/es/transport/touch-n-go) eWallet) es un emisor de dinero electrónico usado principalmente para pagos. No es un banco que capta depósitos, por lo que el saldo no está cubierto por el seguro de depósitos del PIDM.
 
 En resumen: un banco digital es un banco. Un monedero electrónico es una herramienta de pago.
 

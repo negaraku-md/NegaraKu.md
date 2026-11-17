@@ -34,7 +34,7 @@ faq:
     a: "نعم. جميعها الأربع — TNG Digital Sdn Bhd، وAxiata Digital E-code Sdn Bhd (Boost)، وGPay Network (M) Sdn Bhd (GrabPay)، وShopeePay Malaysia Sdn Bhd — مدرجة بوصفها مُصدِرة للنقود الإلكترونية من غير المصارف في القائمة الرسمية لـ BNM."
 
 lang: "ar"
-sourceContentHash: "3baa675be6fcede6"
+sourceContentHash: "73693ba617d202b7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,7 +85,7 @@ framework: explainer
 
 ## مَن يُنظِّم المحافظ الإلكترونية في ماليزيا؟
 
-المحافظ الإلكترونية مثل Touch 'n Go eWallet وBoost وGrabPay وShopeePay ليست مصارف. بل يُنظِّمها البنك المركزي الماليزي (Bank Negara Malaysia, BNM) بوصفها **مُصدِرة للنقود الإلكترونية** (EMIs)، معتمَدة بموجب **المادة 11 من قانون الخدمات المالية لسنة 2013 (Financial Services Act 2013, FSA)** — أو المادة 11 من قانون الخدمات المالية الإسلامية لسنة 2013 (Islamic Financial Services Act 2013, IFSA) بالنسبة إلى المنتجات المتوافقة مع الشريعة.
+المحافظ الإلكترونية مثل [Touch 'n Go](/ar/transport/touch-n-go) eWallet وBoost وGrabPay وShopeePay ليست مصارف. بل يُنظِّمها البنك المركزي الماليزي (Bank Negara Malaysia, BNM) بوصفها **مُصدِرة للنقود الإلكترونية** (EMIs)، معتمَدة بموجب **المادة 11 من قانون الخدمات المالية لسنة 2013 (Financial Services Act 2013, FSA)** — أو المادة 11 من قانون الخدمات المالية الإسلامية لسنة 2013 (Islamic Financial Services Act 2013, IFSA) بالنسبة إلى المنتجات المتوافقة مع الشريعة.
 
 ويرد الإطار المفصَّل في *وثيقة سياسة النقود الإلكترونية (Electronic Money (E-Money) Policy Document)* الصادرة عن BNM والنافذة في **31 يناير 2025**. وتعرّف النقود الإلكترونية بأنها أداة دفع «تخزّن الأموال إلكترونيًّا مقابل أموال دُفِعت للمُصدِر» ويمكن استخدامها لإجراء مدفوعات لأطراف غير المُصدِر.
 

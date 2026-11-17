@@ -31,7 +31,7 @@ faq:
     a: "RM20 al año para los EV de 50 kW y menos, según las directrices LKM de vehículos eléctricos de JPJ. Las tarifas aumentan progresivamente para potencias mayores."
 
 lang: "es"
-sourceContentHash: "926c690f458094f6"
+sourceContentHash: "f81df275bc45182b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,7 +95,7 @@ framework: explainer
 
 La era del impuesto de circulación gratuito para los coches eléctricos en Malasia ha terminado — pero la primera factura que te llegue en tu MyJPJ puede ser más barata de lo que piensas, y se calcula de una forma completamente nueva.
 
-Desde 2022, el gobierno eximió a los EV del impuesto de circulación para fomentar su adopción. Esa exención terminó el 31 de diciembre de 2025 y no se prorrogó. A partir del 1 de enero de 2026, todo EV privado vuelve a pagar la Licencia de Vehículo de Motor (LKM) — solo que ahora la fórmula es completamente distinta de la de los coches de gasolina.
+Desde 2022, el gobierno eximió a los EV del impuesto de circulación para fomentar su adopción. Esa exención terminó el 31 de diciembre de 2025 y no se prorrogó. A partir del 1 de enero de 2026, todo EV privado vuelve a pagar la [Licencia de Vehículo de Motor](/es/transport/road-tax-renewal) (LKM) — solo que ahora la fórmula es completamente distinta de la de los coches de gasolina.
 
 ## ¿Por qué los EV ya no se calculan por «cc»?
 

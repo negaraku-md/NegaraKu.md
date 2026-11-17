@@ -28,7 +28,7 @@ faq:
     a: "Theo quyết định 2020, mức phí được giảm 18% từ ngày 1 tháng 2 năm 2020 và không có đợt tăng phí nào được lên lịch suốt thời hạn nhượng quyền gia hạn đến năm 2058."
 
 lang: "vi"
-sourceContentHash: "6a089759a8d1ba8f"
+sourceContentHash: "3030e02b122487e7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -123,7 +123,7 @@ Theo The Edge Malaysia, việc giảm phí 18% đối với xe cá nhân có hi�
 
 Đối với người dùng thông thường, tác động thực tế là rõ ràng: mức phí thấp hơn và ổn định đến năm 2058, không có các đợt tăng định kỳ như trước đây. PLUS thì tiếp tục giữ trách nhiệm đối với việc quản lý tài sản, vận hành và tài trợ bảo trì suốt thời hạn gia hạn.
 
-Thẻ Touch 'n Go, được giới thiệu vào năm **1997**, cho phép thanh toán phí điện tử trên các đường cao tốc PLUS và đánh dấu sự chuyển dịch liên tục hướng tới hoạt động không dùng tiền mặt.
+Thẻ [Touch 'n Go](/vi/transport/touch-n-go), được giới thiệu vào năm **1997**, cho phép thanh toán phí điện tử trên các đường cao tốc PLUS và đánh dấu sự chuyển dịch liên tục hướng tới hoạt động không dùng tiền mặt.
 
 ## Tiếp theo
 

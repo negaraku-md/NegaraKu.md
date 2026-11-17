@@ -34,7 +34,7 @@ faq:
     a: "ஆம். நான்கும் — TNG Digital Sdn Bhd, Axiata Digital E-code Sdn Bhd (Boost), GPay Network (M) Sdn Bhd (GrabPay) மற்றும் ShopeePay Malaysia Sdn Bhd — BNM-இன் அதிகாரப்பூர்வப் பட்டியலில் வங்கி அல்லாத மின்-பணம் வழங்குநர்களாகப் பட்டியலிடப்பட்டுள்ளன."
 
 lang: "ta"
-sourceContentHash: "3baa675be6fcede6"
+sourceContentHash: "73693ba617d202b7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,7 +85,7 @@ framework: explainer
 
 ## மலேசியாவில் e-wallet-ஐ யார் கட்டுப்படுத்துகிறார்கள்?
 
-Touch 'n Go eWallet, Boost, GrabPay மற்றும் ShopeePay போன்ற e-wallet-கள் வங்கிகள் அல்ல. அவை மலேசிய மத்திய வங்கியால் (Bank Negara Malaysia, BNM) **மின்-பணம் வழங்குநர்களாக** (*e-money issuer*, அல்லது EMI) கட்டுப்படுத்தப்படுகின்றன; **Akta Perkhidmatan Kewangan 2013 (FSA)-இன் பிரிவு 11**-இன் கீழ் — அல்லது Syariah-ஐப் பின்பற்றும் தயாரிப்புகளுக்கு Akta Perkhidmatan Kewangan Islam 2013 (IFSA)-இன் பிரிவு 11-இன் கீழ் — அங்கீகரிக்கப்பட்டவை.
+[Touch 'n Go](/ta/transport/touch-n-go) eWallet, Boost, GrabPay மற்றும் ShopeePay போன்ற e-wallet-கள் வங்கிகள் அல்ல. அவை மலேசிய மத்திய வங்கியால் (Bank Negara Malaysia, BNM) **மின்-பணம் வழங்குநர்களாக** (*e-money issuer*, அல்லது EMI) கட்டுப்படுத்தப்படுகின்றன; **Akta Perkhidmatan Kewangan 2013 (FSA)-இன் பிரிவு 11**-இன் கீழ் — அல்லது Syariah-ஐப் பின்பற்றும் தயாரிப்புகளுக்கு Akta Perkhidmatan Kewangan Islam 2013 (IFSA)-இன் பிரிவு 11-இன் கீழ் — அங்கீகரிக்கப்பட்டவை.
 
 விரிவான கட்டமைப்பு, **2025 ஜனவரி 31** முதல் அமலுக்கு வந்த BNM-இன் *Electronic Money (E-Money) Policy Document*-இல் விவரிக்கப்பட்டுள்ளது. இந்த ஆவணம் e-wang-ஐ (மின்-பணம்) "வழங்குநருக்குச் செலுத்தப்பட்ட நிதிக்கு ஈடாக நிதியை மின்னணு முறையில் சேமித்து வைக்கும்" ஒரு கட்டணக் கருவியாக வரையறுக்கிறது; இது வழங்குநரைத் தவிர வேறு தரப்பினருக்குப் பணம் செலுத்தப் பயன்படுத்தப்படலாம்.
 

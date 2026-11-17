@@ -30,7 +30,7 @@ faq:
     a: "GXBank adalah yang pertama memulai operasi, pada 2023. AEON Bank adalah bank digital Islam pertama yang dibuka untuk publik, pada 26 Mei 2024."
 
 lang: "id"
-sourceContentHash: "e7e1910cb72bc76a"
+sourceContentHash: "54558cbe2eba3f48"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ GXBank mendahului sebagai bank digital pertama Malaysia yang memulai operasi, pa
 Inilah kesalahpahaman yang paling umum. Bank digital dan e-dompet keduanya berada dalam telepon Anda, tetapi secara hukum keduanya sangat berbeda.
 
 - **Bank digital** memegang lisensi perbankan. Ia menerima simpanan, dapat membayar bunga atau keuntungan, dan dapat memberi pinjaman. Simpanan yang layak dilindungi oleh PIDM.
-- **E-dompet** (seperti saldo Touch 'n Go eWallet) adalah penerbit uang elektronik yang digunakan terutama untuk pembayaran. Ia bukan bank penerima simpanan, sehingga saldonya tidak dilindungi asuransi simpanan PIDM.
+- **E-dompet** (seperti saldo [Touch 'n Go](/id/transport/touch-n-go) eWallet) adalah penerbit uang elektronik yang digunakan terutama untuk pembayaran. Ia bukan bank penerima simpanan, sehingga saldonya tidak dilindungi asuransi simpanan PIDM.
 
 Singkatnya: bank digital adalah sebuah bank. E-dompet adalah alat pembayaran.
 

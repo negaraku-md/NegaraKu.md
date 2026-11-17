@@ -33,7 +33,7 @@ faq:
 
 lang: "ja"
 translationStatus: "in-sync"
-sourceContentHash: "b74b665148430910"
+sourceContentHash: "c14df7815cfcecfc"
 masterLanguage: "en"
 
 status: "published"
@@ -97,7 +97,7 @@ framework: how-to
 
 KLの**クランバレー鉄道**——**LRT**（Kelana Jaya、Ampang、Sri Petaling線）、**MRT**（Kajang、
 Putrajaya線）、**KL Monorail**、**KTM Komuter**——は、駅と車両が密閉されて冷房が効いているため、
-雨の日の実質的な中核になります。**Touch 'n Go**カードを携帯してタップで乗り降りしましょう。
+雨の日の実質的な中核になります。**[Touch 'n Go](/ja/transport/touch-n-go)**カードを携帯してタップで乗り降りしましょう。
 非接触の銀行カードもネットワークの多くの区間で使えます。毎日利用するマレーシア居住者は**My50**
 乗り放題月額パスを使えますが、一度きりの旅行者はたいてい従量課金で済ませます。駅から出ずに
 路線を乗り換えられる便利な乗換駅には、**Masjid Jamek**、**Pasar Seni**、**KL Sentral**があります。

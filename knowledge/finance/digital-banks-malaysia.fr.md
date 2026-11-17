@@ -30,7 +30,7 @@ faq:
     a: "GXBank a été la première à démarrer ses activités, en 2023. AEON Bank a été la première banque numérique islamique à s'ouvrir au public, le 26 mai 2024."
 
 lang: "fr"
-sourceContentHash: "e7e1910cb72bc76a"
+sourceContentHash: "54558cbe2eba3f48"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ GXBank a donné le rythme en tant que première banque numérique de la Malaisie
 C'est le point de confusion le plus courant. Une banque numérique et un portefeuille électronique vivent tous deux sur votre téléphone, mais juridiquement ce sont des animaux très différents.
 
 - Une **banque numérique** détient un agrément bancaire. Elle collecte des dépôts, peut verser des intérêts ou des profits et peut prêter. Ses dépôts éligibles sont protégés par le PIDM.
-- Un **portefeuille électronique** (comme un solde Touch 'n Go eWallet) est un émetteur de monnaie électronique utilisé principalement pour les paiements. Ce n'est pas une banque collectant des dépôts, de sorte que le solde n'est pas couvert par l'assurance-dépôts du PIDM.
+- Un **portefeuille électronique** (comme un solde [Touch 'n Go](/fr/transport/touch-n-go) eWallet) est un émetteur de monnaie électronique utilisé principalement pour les paiements. Ce n'est pas une banque collectant des dépôts, de sorte que le solde n'est pas couvert par l'assurance-dépôts du PIDM.
 
 En bref : une banque numérique est une banque. Un portefeuille électronique est un outil de paiement.
 

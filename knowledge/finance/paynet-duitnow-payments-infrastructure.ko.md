@@ -29,7 +29,7 @@ faq:
     a: "네. DuitNow QR은 상호운용되므로, 가맹점의 단일 QR 코드를 Touch 'n Go eWallet, GrabPay, Boost 같은 서로 다른 은행과 전자지갑으로 — 참여하는 한 — 스캔할 수 있습니다."
 
 lang: "ko"
-sourceContentHash: "4d9809544dd36b01"
+sourceContentHash: "4ae276cb59bc3eb5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,7 +108,7 @@ PayNet은 기반을 운영하고; 여러분이 사용하는 은행과 전자지�
 
 ## 왜 상호운용성이 중요합니까?
 
-공유 네트워크의 요점은 상대방이 어느 은행이나 지갑을 쓰는지 신경 쓸 필요가 없어야 한다는 것입니다. DuitNow QR은 의도적으로 상호운용됩니다: 하나의 가맹점 QR 코드를 Touch 'n Go eWallet, GrabPay, Boost, 또는 참여하는 어떤 은행 앱으로든 스캔할 수 있습니다.
+공유 네트워크의 요점은 상대방이 어느 은행이나 지갑을 쓰는지 신경 쓸 필요가 없어야 한다는 것입니다. DuitNow QR은 의도적으로 상호운용됩니다: 하나의 가맹점 QR 코드를 [Touch 'n Go](/ko/transport/touch-n-go) eWallet, GrabPay, Boost, 또는 참여하는 어떤 은행 앱으로든 스캔할 수 있습니다.
 
 그 설계는 이제 의무가 되고 있습니다. 시장이 담장 친 정원으로 파편화되는 것을 막기 위해, BNM은 독자 QR 코드 네트워크가 2028년 6월 30일까지 중단되어야 한다고 규정했으며, 이는 영향을 받는 운영사가 새 가맹점을 온보딩할 수 없는 2년 전환 기간 후입니다. BNM의 표현으로, 목표는 말레이시아의 모든 QR 지급이 상호운용되는 환경입니다.
 

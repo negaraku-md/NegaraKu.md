@@ -32,7 +32,7 @@ faq:
     a: "래피드 버스는 이용객이 적은 19개 노선 — MRT 지선 16개와 일반 노선 3개, 네트워크의 약 7% — 을 예약형 래피드 KL 온디맨드(Rapid KL On-Demand) 밴 서비스로 전환하기 시작했습니다."
 
 lang: "ko"
-sourceContentHash: "ef9c4ac09cb054b2"
+sourceContentHash: "dca77cc716c8a0b4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -119,7 +119,7 @@ Berhad)**의 완전 자회사인 **래피드 버스 버하드(Rapid Bus Sdn Bhd)
 ## 이용 요금은 얼마인가?
 
 요금은 몇 개의 요금 구역을 건너는지에 따라 **RM1에서 RM5**입니다. 결제는
-**현금 없이만** 이루어집니다 — 터치 앤 고(Touch 'n Go) 카드나 MyRapid 할인
+**현금 없이만** 이루어집니다 — [터치 앤 고](/ko/transport/touch-n-go)(Touch 'n Go) 카드나 MyRapid 할인
 카드로요. 고령자, 학생, 장애인은 **50% 할인** 요율을 냅니다.
 
 ## 2026년에 무엇이 바뀌는가?

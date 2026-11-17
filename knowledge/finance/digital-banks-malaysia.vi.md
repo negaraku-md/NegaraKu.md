@@ -30,7 +30,7 @@ faq:
     a: "GXBank là ngân hàng đầu tiên bắt đầu hoạt động, vào năm 2023. AEON Bank là ngân hàng số Hồi giáo đầu tiên mở cho công chúng, vào ngày 26 tháng 5 năm 2024."
 
 lang: "vi"
-sourceContentHash: "e7e1910cb72bc76a"
+sourceContentHash: "54558cbe2eba3f48"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ GXBank dẫn nhịp với tư cách ngân hàng số đầu tiên của Malaysia
 Đây là điểm gây nhầm lẫn phổ biến nhất. Một ngân hàng số và một ví điện tử đều nằm trên điện thoại của bạn, nhưng về mặt pháp lý chúng là những con vật rất khác nhau.
 
 - Một **ngân hàng số** nắm một giấy phép ngân hàng. Nó nhận tiền gửi, có thể trả lãi hoặc lợi nhuận, và có thể cho vay. Tiền gửi đủ điều kiện của nó được PIDM bảo vệ.
-- Một **ví điện tử** (chẳng hạn số dư Touch 'n Go eWallet) là một bên phát hành tiền điện tử được dùng chủ yếu để thanh toán. Nó không phải một ngân hàng nhận tiền gửi, nên số dư không được bảo hiểm tiền gửi của PIDM bao phủ.
+- Một **ví điện tử** (chẳng hạn số dư [Touch 'n Go](/vi/transport/touch-n-go) eWallet) là một bên phát hành tiền điện tử được dùng chủ yếu để thanh toán. Nó không phải một ngân hàng nhận tiền gửi, nên số dư không được bảo hiểm tiền gửi của PIDM bao phủ.
 
 Nói ngắn gọn: một ngân hàng số là một ngân hàng. Một ví điện tử là một công cụ thanh toán.
 

@@ -34,7 +34,7 @@ faq:
 
 lang: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "959c1dda8a5ff952"
+sourceContentHash: "e43eab1399c2d55c"
 masterLanguage: "en"
 
 status: "published"
@@ -131,7 +131,7 @@ di tapak**.
 
 Walaupun begitu, **pembayaran e-dompet kini meluas.** Banyak gerai menerima
 **DuitNow QR** — standard QR saling kendali kebangsaan Malaysia, di mana satu
-kod berfungsi merentasi bank dan e-dompet yang menyertai — dan **Touch 'n Go
+kod berfungsi merentasi bank dan e-dompet yang menyertai — dan **[Touch 'n Go](/ms/transport/touch-n-go)
 eWallet**, ditunjukkan oleh papan atau pelekat QR yang anda imbas; GrabPay dan
 Boost juga biasa. Penggunaan kini mencecah jutaan peniaga di seluruh negara,
 dibantu oleh DuitNow QR yang mengenakan sedikit atau tiada yuran bagi peniaga

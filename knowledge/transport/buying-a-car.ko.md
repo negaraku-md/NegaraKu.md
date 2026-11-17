@@ -29,7 +29,7 @@ faq:
     a: "은행이나 금융회사가 대출 기간 동안 할부구매법 1967(Hire-Purchase Act 1967)에 따라 차량의 법적 소유자로 등록됩니다. 구매자는 차량을 일상적으로 사용하는 등록 점유자이며, 대출이 완전히 상환되고 금융사가 해제를 발행한 후에야 등록 소유자가 됩니다."
 
 lang: "ko"
-sourceContentHash: "fbeedb8341d7b377"
+sourceContentHash: "1e94499e976a5044"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,7 +92,7 @@ framework: how-to
 여전히 온전히 당신의 것이 아닙니다.
 
 대부분의 초보 구매자는 무언가 잘못될 때에야 이를 알아차립니다 — 산 중고차가
-알고 보니 여전히 할부 중이거나, 푸스파콤(Puspakom)에서 온 서류 한 장이
+알고 보니 여전히 할부 중이거나, 푸스파콤([Puspakom](/ko/transport/puspakom-vehicle-inspections))에서 온 서류 한 장이
 나타날 때까지 은행이 대출을 실행하지 않을 때. 그 어느 것도 자의적이지
 않습니다. 각 단계는 하나의 질문에 답하기 위해 존재합니다: 지금 이 차량에
 실제로 책임이 있는 사람은 누구인가?

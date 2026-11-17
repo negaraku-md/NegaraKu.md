@@ -34,7 +34,7 @@ faq:
 
 lang: "fr"
 translationStatus: "in-sync"
-sourceContentHash: "959c1dda8a5ff952"
+sourceContentHash: "e43eab1399c2d55c"
 masterLanguage: "en"
 
 status: "published"
@@ -131,7 +131,7 @@ coupure, les montants sont petits, et il n'y a **pas de distributeur sur place**
 Cela dit, **le paiement par portefeuille électronique est désormais répandu.**
 Beaucoup d'étals acceptent le **DuitNow QR** — la norme QR nationale interopérable
 de Malaisie, où un seul code fonctionne entre banques et portefeuilles
-électroniques participants — et le **Touch 'n Go eWallet**, signalés par un
+électroniques participants — et le **[Touch 'n Go](/fr/transport/touch-n-go) eWallet**, signalés par un
 présentoir ou un autocollant QR que vous scannez ; GrabPay et Boost sont courants
 aussi. L'adoption se compte désormais en millions de commerçants dans tout le pays,
 aidée par le fait que le DuitNow QR n'entraîne que peu ou pas de frais pour les

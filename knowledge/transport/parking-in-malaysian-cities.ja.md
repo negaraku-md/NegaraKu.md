@@ -29,7 +29,7 @@ faq:
     a: "いいえ。駐車の過料は地方自治体（PBT）が駐車に関する道路交通令に基づいて発行しますが、運転違反に対する交通違反切符はPDRM（警察）またはJPJ（陸運局）が発行します。"
 
 lang: "ja"
-sourceContentHash: "cec9d7c50b142e19"
+sourceContentHash: "fbbc5c9405ba0df6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -112,7 +112,7 @@ DBKLは**2020年10月1日**に発券機と従来の路上での支払いを廃�
 
 キャッシュレス決済への移行は、駐車の前にアプリをダウンロードしておく必要があることを意味する。クアラルンプールの路上駐車で受け付けられている選択肢には次のものがある：
 
-- **EZ Smart Park** — FPX、UnionPayクレジットカード、Boost、Touch 'n Go、MCash に対応
+- **EZ Smart Park** — FPX、UnionPayクレジットカード、Boost、[Touch 'n Go](/ja/transport/touch-n-go)、MCash に対応
 - **Flexi Parking** と **Wilayah Parking** — FPX、クレジットカード（Visa/Mastercard）、Boost、Touch 'n Go、GrabPay
 - **Jom Parking** — オンラインバンキング、クレジット／デビットカード、Boost、GrabPay
 - **MCash** — オンラインバンキング、クレジットカード、加盟店／代理店、E-Pay Digi バウチャー、および全国どこの KK Super Mart

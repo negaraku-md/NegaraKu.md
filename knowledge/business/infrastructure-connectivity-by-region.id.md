@@ -49,7 +49,7 @@ verificationNeeded:
   - "Pastikan tanggal peluncuran resmi dan biaya proyek jalur ganda elektrik Gemas ke Johor Bahru — keduanya tidak dapat ditemukan"
 
 lang: "id"
-sourceContentHash: "300ad373430dce8b"
+sourceContentHash: "77f26148404eb5f2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -166,7 +166,7 @@ KLIA mencakup 75 persen dari kargo udara nasional. Pulau Pinang, pada 114,551 to
 
 ## Apa sebenarnya yang diubah oleh ECRL, dan kapan?
 
-East Coast Rail Link telah **92.62 persen selesai per Februari 2026**, dengan rel telah dipasang di sepanjang keseluruhan 519 km bagian Kota Bharu ke Gombak. Tahapan pelaksanaannya lebih penting daripada judul berita:
+[East Coast Rail Link](/id/transport/east-coast-rail-link-ecrl) telah **92.62 persen selesai per Februari 2026**, dengan rel telah dipasang di sepanjang keseluruhan 519 km bagian Kota Bharu ke Gombak. Tahapan pelaksanaannya lebih penting daripada judul berita:
 
 | Bagian | Selesai | Operasi |
 | --- | --- | --- |

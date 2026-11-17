@@ -34,7 +34,7 @@ faq:
     a: "네. 네 곳 모두 — TNG Digital Sdn Bhd, Axiata Digital E-code Sdn Bhd(Boost), GPay Network (M) Sdn Bhd(GrabPay), ShopeePay Malaysia Sdn Bhd — 가 BNM 공식 목록에 비은행 전자화폐 발행사로 등재되어 있습니다."
 
 lang: "ko"
-sourceContentHash: "3baa675be6fcede6"
+sourceContentHash: "73693ba617d202b7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,7 +85,7 @@ framework: explainer
 
 ## 말레이시아에서 전자지갑은 누가 규제하는가?
 
-Touch 'n Go eWallet, Boost, GrabPay, ShopeePay 같은 전자지갑은 은행이 아닙니다. 이들은 **금융서비스법 2013(FSA) 제11조** 아래 승인된 **전자화폐 발행사**(*e-money issuer*, 또는 EMI)로서 말레이시아 중앙은행(BNM)의 규제를 받습니다 — 샤리아 준수 제품의 경우 이슬람 금융서비스법 2013(IFSA) 제11조입니다.
+[Touch 'n Go](/ko/transport/touch-n-go) eWallet, Boost, GrabPay, ShopeePay 같은 전자지갑은 은행이 아닙니다. 이들은 **금융서비스법 2013(FSA) 제11조** 아래 승인된 **전자화폐 발행사**(*e-money issuer*, 또는 EMI)로서 말레이시아 중앙은행(BNM)의 규제를 받습니다 — 샤리아 준수 제품의 경우 이슬람 금융서비스법 2013(IFSA) 제11조입니다.
 
 상세한 틀은 **2025년 1월 31일** 발효된 BNM의 *Electronic Money (E-Money) Policy Document*에 담겨 있습니다. 이 문서는 전자화폐를 "발행사에 지급된 자금의 교환으로 자금을 전자적으로 저장하는" 결제 수단으로 정의하며, 발행사 이외의 당사자에게 결제하는 데 사용될 수 있습니다.
 

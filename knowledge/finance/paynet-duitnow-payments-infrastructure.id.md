@@ -29,7 +29,7 @@ faq:
     a: "Ya. DuitNow QR interoperabel, sehingga satu kode QR pedagang dapat dipindai oleh bank dan e-dompet yang berbeda seperti Touch 'n Go eWallet, GrabPay, dan Boost, selama mereka berpartisipasi."
 
 lang: "id"
-sourceContentHash: "4d9809544dd36b01"
+sourceContentHash: "4ae276cb59bc3eb5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,7 +108,7 @@ PayNet menjalankan landasan; bank dan e-dompet yang Anda gunakan adalah aplikasi
 
 ## Mengapa interoperabilitas penting?
 
-Tujuan utama jaringan bersama adalah bahwa Anda tidak perlu memperhitungkan bank atau dompet mana yang digunakan orang lain. DuitNow QR sengaja dirancang untuk interoperabel: satu kode QR pedagang tunggal dapat dipindai oleh Touch 'n Go eWallet, GrabPay, Boost, atau aplikasi bank mana pun yang berpartisipasi.
+Tujuan utama jaringan bersama adalah bahwa Anda tidak perlu memperhitungkan bank atau dompet mana yang digunakan orang lain. DuitNow QR sengaja dirancang untuk interoperabel: satu kode QR pedagang tunggal dapat dipindai oleh [Touch 'n Go](/id/transport/touch-n-go) eWallet, GrabPay, Boost, atau aplikasi bank mana pun yang berpartisipasi.
 
 Desain itu kini menjadi wajib. Untuk mencegah pasar terpecah menjadi taman berpagar, BNM telah menetapkan bahwa jaringan kode QR proprietari harus dihentikan menjelang 30 Juni 2028, setelah masa peralihan dua tahun ketika operator yang terdampak tidak dapat menerima pedagang baru. Tujuannya, dalam kata-kata BNM, adalah lingkungan tempat semua pembayaran QR di Malaysia interoperabel.
 

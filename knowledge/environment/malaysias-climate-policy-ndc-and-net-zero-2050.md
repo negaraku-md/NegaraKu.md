@@ -181,7 +181,7 @@ On top of both, Malaysia signals it will use **voluntary cooperation under Artic
 The NDC 3.0 aligns domestic action with the outcomes of the first Global Stocktake. In practice that translates into a handful of concrete levers:
 
 - **Energy.** Under the NETR, coal-fired power plants are set for near-complete retirement through natural phase-outs with no new additions, renewable energy is to make a substantial contribution to installed capacity, and natural gas remains a transitional fuel.
-- **Transport.** Major investment in rail — the East Coast Rail Link (ECRL), LRT3 and MRT3 — alongside an accelerating electric-vehicle transition and hydrogen pilot projects in heavy-duty transport.
+- **Transport.** Major investment in rail — the [East Coast Rail Link](/transport/east-coast-rail-link-ecrl) (ECRL), LRT3 and MRT3 — alongside an accelerating electric-vehicle transition and hydrogen pilot projects in heavy-duty transport.
 - **Fossil-fuel subsidy reform.** Malaysia began phasing out blanket diesel subsidies on 10 June 2024, letting the Peninsular price float to market rates while keeping subsidised rates for Sabah, Sarawak and Labuan and for targeted groups such as fishermen through schemes like the Diesel Fleet Card 2.0.
 - **Methane and other non-CO₂ gases.** Scaling up methane capture from solid-waste management and industrial wastewater treatment.
 - **Forests and land use.** Reinforced by the National Forestry Act 2022 and an Ecological Fiscal Transfer mechanism that rewards states for forest protection, with a commitment — consistent with the Kunming-Montreal Global Biodiversity Framework and the National Policy on Biological Diversity 2.0 — to conserve at least 20% of terrestrial areas and inland waters by 2030.

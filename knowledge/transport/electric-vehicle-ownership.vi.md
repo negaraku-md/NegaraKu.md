@@ -31,7 +31,7 @@ faq:
     a: "RM20 một năm cho EV công suất 50 kW trở xuống, theo hướng dẫn LKM xe điện của JPJ. Mức tăng lũy tiến cho công suất cao hơn."
 
 lang: "vi"
-sourceContentHash: "926c690f458094f6"
+sourceContentHash: "f81df275bc45182b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,7 +95,7 @@ framework: explainer
 
 Thời kỳ thuế đường bộ miễn phí cho xe điện ở Malaysia đã kết thúc — nhưng hóa đơn đầu tiên xuất hiện trong MyJPJ của bạn có thể rẻ hơn bạn nghĩ, và nó được tính theo một cách hoàn toàn mới.
 
-Kể từ năm 2022, chính phủ miễn thuế đường bộ cho EV để khuyến khích việc sử dụng chúng. Việc miễn đó hết hạn vào ngày 31 tháng 12 năm 2025 và không được gia hạn. Kể từ ngày 1 tháng 1 năm 2026, mỗi EV cá nhân lại trả Giấy phép Phương tiện Cơ giới (LKM) — chỉ là công thức nay hoàn toàn khác với xe xăng.
+Kể từ năm 2022, chính phủ miễn thuế đường bộ cho EV để khuyến khích việc sử dụng chúng. Việc miễn đó hết hạn vào ngày 31 tháng 12 năm 2025 và không được gia hạn. Kể từ ngày 1 tháng 1 năm 2026, mỗi EV cá nhân lại trả [Giấy phép Phương tiện Cơ giới](/vi/transport/road-tax-renewal) (LKM) — chỉ là công thức nay hoàn toàn khác với xe xăng.
 
 ## Vì sao EV không còn được tính theo "cc"?
 

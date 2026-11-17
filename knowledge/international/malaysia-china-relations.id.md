@@ -32,7 +32,7 @@ faq:
     a: "Ia adalah kerangka yang digunakan oleh kedua pemerintah untuk menggambarkan fase hubungan berikutnya, dibangun di atas kemitraan strategis komprehensif yang dijalin pada 2013. Konsep ini dibangkitkan sejak 2023 dan diresmikan dalam pernyataan bersama saat kunjungan kenegaraan Presiden Xi Jinping pada 17 April 2025. Ia menggariskan kerja sama mencakup perdagangan, teknologi, infrastruktur dan hubungan rakyat ke rakyat."
 
 lang: "id"
-sourceContentHash: "b7ef3c40f5decdc1"
+sourceContentHash: "9ee992bd350184d4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,7 +92,7 @@ Arsitektur politiknya turut dinaikkan secara berkelanjutan agar setara. Kedua ne
 
 Karena angkanya jauh mengalahkan hampir setiap mitra lain. Tiongkok telah menjadi mitra dagang terbesar Malaysia selama 16 tahun berturut-turut, satu periode yang bermula pada 2009. Pada 2024, perdagangan bilateral mencapai rekor tertinggi AS$212.04 miliar.
 
-Hubungan ini bukan hanya mengenai aliran perdagangan. Dalam tiga kuartal pertama 2024 saja, Malaysia mencatatkan RM29.1 miliar (sekitar AS$6.3 miliar) dalam investasi langsung asing dari Tiongkok — kurang lebih 39 persen lebih tinggi dibanding periode yang sama setahun sebelumnya. Modal dan teknologi Tiongkok terjalin dalam beberapa proyek utama Malaysia: Laluan Rel Pantai Timur, kerja sama Proton–Geely, dan zona industri "Dua Negara, Taman Kembar" di Kuantan dan Qinzhou. Aliran rakyat ke rakyat turut melonjak, dibantu oleh masuk bebas visa untuk warga Tiongkok yang berlaku pada 1 Desember 2023 — awalnya satu pengaturan sepihak yang kemudian dijadikan timbal balik dan kekal di bawah perjanjian pembebasan visa bersama pada 2025. China Briefing melaporkan pelonggaran itu menarik lebih dari 3.8 juta pengunjung Tiongkok.
+Hubungan ini bukan hanya mengenai aliran perdagangan. Dalam tiga kuartal pertama 2024 saja, Malaysia mencatatkan RM29.1 miliar (sekitar AS$6.3 miliar) dalam investasi langsung asing dari Tiongkok — kurang lebih 39 persen lebih tinggi dibanding periode yang sama setahun sebelumnya. Modal dan teknologi Tiongkok terjalin dalam beberapa proyek utama Malaysia: [Laluan Rel Pantai Timur](/id/transport/east-coast-rail-link-ecrl), kerja sama Proton–Geely, dan zona industri "Dua Negara, Taman Kembar" di Kuantan dan Qinzhou. Aliran rakyat ke rakyat turut melonjak, dibantu oleh masuk bebas visa untuk warga Tiongkok yang berlaku pada 1 Desember 2023 — awalnya satu pengaturan sepihak yang kemudian dijadikan timbal balik dan kekal di bawah perjanjian pembebasan visa bersama pada 2025. China Briefing melaporkan pelonggaran itu menarik lebih dari 3.8 juta pengunjung Tiongkok.
 
 | Dimensi | Status | Sumber |
 |---|---|---|

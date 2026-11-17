@@ -36,7 +36,7 @@ faq:
     a: "Che vai và đầu gối của bạn. Xà rông thường có sẵn để mượn hoặc thuê tại lối vào nếu trang phục của bạn quá hở hang. Giày thoải mái giúp ích cho cầu thang dài lên đền hang chính."
 
 lang: "vi"
-sourceContentHash: "2716ca2d76a67d28"
+sourceContentHash: "83577f20656ec6a9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -135,7 +135,7 @@ Một lưu ý thực tế: KLIA Ekspres không bị ảnh hưởng bởi giao th
 
 Kuala Lumpur chạy trên ba hệ thống đường sắt kết nối — **MRT**, **LRT** và **Monorail** — được bổ sung bởi xe buýt và Grab. Cùng nhau chúng đến gần như mọi nơi một du khách lần đầu muốn đến, và chúng rẻ.
 
-Cách đơn giản nhất để trả là một thẻ **Touch 'n Go**, một thẻ không tiếp xúc có thể nạp lại mà bạn quẹt tại các cổng trên mọi tuyến đường sắt và trên xe buýt. Bạn có thể mua và nạp thêm một thẻ tại các quầy ga và cửa hàng tiện lợi. Nếu bạn thà không quản lý một thẻ giá trị lưu trữ, các thẻ ngân hàng không tiếp xúc và thanh toán QR ngày càng được chấp nhận tại các cổng.
+Cách đơn giản nhất để trả là một thẻ **[Touch 'n Go](/vi/transport/touch-n-go)**, một thẻ không tiếp xúc có thể nạp lại mà bạn quẹt tại các cổng trên mọi tuyến đường sắt và trên xe buýt. Bạn có thể mua và nạp thêm một thẻ tại các quầy ga và cửa hàng tiện lợi. Nếu bạn thà không quản lý một thẻ giá trị lưu trữ, các thẻ ngân hàng không tiếp xúc và thanh toán QR ngày càng được chấp nhận tại các cổng.
 
 Đối với việc đi lại không giới hạn, Rapid KL bán các vé theo ngày. Công dân Malaysia có thể mua **Rapid Kota Pass** với giá **RM10 cho một ngày** hoặc **RM25 cho ba ngày**, bao gồm các chuyến đi không giới hạn trên LRT, MRT, Monorail, BRT và xe buýt Rapid KL. Du khách có một vé không giới hạn tương đương, **Rapid Kembara Pass**, được bán tại các quầy dịch vụ khách hàng của ga — hãy hỏi nhân viên về giá và thời hạn hiện tại khi bạn mua.
 

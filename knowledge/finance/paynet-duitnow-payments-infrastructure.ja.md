@@ -29,7 +29,7 @@ faq:
     a: "できる。DuitNow QRは相互運用可能であり、参加してさえいれば、商家の一つのQRコードをTouch 'n Go eWallet、GrabPay、Boostなど異なる銀行や電子ウォレットでスキャンできる。"
 
 lang: "ja"
-sourceContentHash: "4d9809544dd36b01"
+sourceContentHash: "4ae276cb59bc3eb5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,7 +108,7 @@ PayNetが運営するのは決済インフラの基盤であり、私たちが�
 
 ## Why does interoperability matter?
 
-共有ネットワークの意義は、相手がどの銀行やウォレットを使っているかを気にする必要がないという点にある。DuitNow QRは意図的に相互運用可能な設計になっており、一つの商家QRコードをTouch 'n Go eWallet、GrabPay、Boost、あるいは参加している銀行アプリのいずれでもスキャンできる。
+共有ネットワークの意義は、相手がどの銀行やウォレットを使っているかを気にする必要がないという点にある。DuitNow QRは意図的に相互運用可能な設計になっており、一つの商家QRコードを[Touch 'n Go](/ja/transport/touch-n-go) eWallet、GrabPay、Boost、あるいは参加している銀行アプリのいずれでもスキャンできる。
 
 この設計は今や義務化されつつある。市場が「囲い込まれた庭」に分断されるのを防ぐため、BNMは独自QRコードネットワークを2028年6月30日までに廃止しなければならないと定めた。それに先立つ2年間の移行期間中、対象となる事業者は新規商家を加盟させることができない。BNMの言葉を借りれば、その目標はマレーシア国内のすべてのQR決済が相互運用可能となる環境である。
 

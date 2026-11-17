@@ -34,7 +34,7 @@ faq:
     a: "हाँ। चारों — TNG Digital Sdn Bhd, Axiata Digital E-code Sdn Bhd (Boost), GPay Network (M) Sdn Bhd (GrabPay) और ShopeePay Malaysia Sdn Bhd — BNM की आधिकारिक सूची में गैर-बैंक ई-मनी जारीकर्ता के रूप में सूचीबद्ध हैं।"
 
 lang: "hi"
-sourceContentHash: "3baa675be6fcede6"
+sourceContentHash: "73693ba617d202b7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,7 +85,7 @@ framework: explainer
 
 ## मलेशिया में ई-वॉलेट को कौन विनियमित करता है?
 
-Touch 'n Go eWallet, Boost, GrabPay और ShopeePay जैसे ई-वॉलेट बैंक नहीं हैं। इन्हें बैंक नेगारा मलेशिया (Bank Negara Malaysia, BNM) **ई-मनी जारीकर्ता** (EMIs) के रूप में विनियमित करता है, जो **वित्तीय सेवा अधिनियम 2013 (Financial Services Act 2013, FSA) की धारा 11** के अंतर्गत स्वीकृत होते हैं — या शरिया-अनुरूप उत्पादों के लिए इस्लामी वित्तीय सेवा अधिनियम 2013 (Islamic Financial Services Act 2013, IFSA) की धारा 11 के अंतर्गत।
+[Touch 'n Go](/hi/transport/touch-n-go) eWallet, Boost, GrabPay और ShopeePay जैसे ई-वॉलेट बैंक नहीं हैं। इन्हें बैंक नेगारा मलेशिया (Bank Negara Malaysia, BNM) **ई-मनी जारीकर्ता** (EMIs) के रूप में विनियमित करता है, जो **वित्तीय सेवा अधिनियम 2013 (Financial Services Act 2013, FSA) की धारा 11** के अंतर्गत स्वीकृत होते हैं — या शरिया-अनुरूप उत्पादों के लिए इस्लामी वित्तीय सेवा अधिनियम 2013 (Islamic Financial Services Act 2013, IFSA) की धारा 11 के अंतर्गत।
 
 विस्तृत ढाँचा BNM के *इलेक्ट्रॉनिक मनी (E-Money) नीति दस्तावेज़* में निर्धारित है, जो **31 जनवरी 2025** से प्रभावी है। यह ई-मनी को एक ऐसे भुगतान साधन के रूप में परिभाषित करता है जो «जारीकर्ता को दी गई निधि के बदले में इलेक्ट्रॉनिक रूप से निधि संग्रहीत करता है» और जिसका उपयोग जारीकर्ता के अलावा अन्य पक्षों को भुगतान करने के लिए किया जा सकता है।
 

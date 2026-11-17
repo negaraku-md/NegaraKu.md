@@ -33,7 +33,7 @@ faq:
 
 lang: "es"
 translationStatus: "in-sync"
-sourceContentHash: "b74b665148430910"
+sourceContentHash: "c14df7815cfcecfc"
 masterLanguage: "en"
 
 status: "published"
@@ -100,7 +100,7 @@ muchas cierran un día entre semana o en festivos.
 El **tren del Klang Valley** de KL —el **LRT** (líneas Kelana Jaya, Ampang y Sri
 Petaling), el **MRT** (líneas Kajang y Putrajaya), el **KL Monorail** y **KTM
 Komuter**— es el núcleo práctico de un día lluvioso, porque las estaciones y los
-trenes están cerrados y climatizados. Lleva una tarjeta **Touch 'n Go** y entra y
+trenes están cerrados y climatizados. Lleva una tarjeta **[Touch 'n Go](/es/transport/touch-n-go)** y entra y
 sal tocando; las tarjetas bancarias contactless funcionan en gran parte de la red.
 Los residentes en Malasia que viajan a diario pueden usar el abono mensual ilimitado
 **My50**, pero un visitante puntual normalmente pagará por uso. Entre los

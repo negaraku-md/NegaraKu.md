@@ -29,7 +29,7 @@ faq:
     a: "Thường là không. Nhiều khu nghỉ dưỡng bờ đông và đơn vị vận hành thuyền tự nguyện ngừng dịch vụ từ khoảng tháng 10 đến tháng 2 vì biển động do gió mùa đông bắc."
 
 lang: "vi"
-sourceContentHash: "ea7ce50e8b808f2f"
+sourceContentHash: "6d82ddd104b2cdb5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,7 +106,7 @@ Phà chạy hàng ngày từ 06:30 đến 23:30, với khoảng cách đều đ�
 | Xe máy | RM 2.50 |
 | Xe đạp | RM 2.00 |
 
-Bạn có thể trả bằng Touch 'n Go, tại quầy, hoặc bằng vé trực tuyến. Nhiều du khách cũng đến đảo bằng đường bộ, qua Cầu Penang hoặc Cầu Sultan Abdul Halim Muadzam Shah (Cầu Thứ hai); phà là một lựa chọn ngắm cảnh và đi lại thường ngày chứ không phải liên kết duy nhất.
+Bạn có thể trả bằng [Touch 'n Go](/vi/transport/touch-n-go), tại quầy, hoặc bằng vé trực tuyến. Nhiều du khách cũng đến đảo bằng đường bộ, qua Cầu Penang hoặc Cầu Sultan Abdul Halim Muadzam Shah (Cầu Thứ hai); phà là một lựa chọn ngắm cảnh và đi lại thường ngày chứ không phải liên kết duy nhất.
 
 ## Phà đến Langkawi vận hành như thế nào?
 

@@ -37,7 +37,7 @@ faq:
     a: "TRX tiene su propia estación de tren, la estación de MRT Tun Razak Exchange, que funciona desde 2017 y está servida por dos líneas de MRT. El acceso por carretera lo proporciona la red circundante del centro de Kuala Lumpur."
 
 lang: "es"
-sourceContentHash: "3ada5248558e634e"
+sourceContentHash: "cccc89ca0e73837c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -141,7 +141,7 @@ TRX se diseñó como un **distrito de uso mixto**, no como un enclave solo de of
 
 ## Cómo llegar
 
-La conectividad se incorporó desde el principio. La **estación de MRT Tun Razak Exchange**, abierta desde **2017**, se sitúa en el distrito y está servida por dos líneas de MRT, enlazando TRX directamente con la red ferroviaria del Valle de Klang. Ese ancla de transporte es parte de lo que distingue a un distrito financiero planificado de un conjunto disperso de torres.
+La conectividad se incorporó desde el principio. La **estación de MRT Tun Razak Exchange**, abierta desde **2017**, se sitúa en el distrito y está servida por dos líneas de MRT, enlazando TRX directamente con la [red ferroviaria del Valle de Klang](/es/transport/klang-valley-rail). Ese ancla de transporte es parte de lo que distingue a un distrito financiero planificado de un conjunto disperso de torres.
 
 ## La historia de origen: 1MDB y el paso a MOF Inc
 

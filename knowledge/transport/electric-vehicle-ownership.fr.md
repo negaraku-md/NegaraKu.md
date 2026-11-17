@@ -31,7 +31,7 @@ faq:
     a: "RM20 par an pour les VE de 50 kW et moins, selon les directives LKM des véhicules électriques de JPJ. Les tarifs augmentent progressivement pour les puissances supérieures."
 
 lang: "fr"
-sourceContentHash: "926c690f458094f6"
+sourceContentHash: "f81df275bc45182b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,7 +95,7 @@ framework: explainer
 
 L'ère de la taxe de circulation gratuite pour les voitures électriques en Malaisie est terminée — mais la première facture qui arrivera dans votre MyJPJ pourrait être moins chère que vous ne le pensez, et elle est calculée d'une manière entièrement nouvelle.
 
-Depuis 2022, le gouvernement exonérait les VE de la taxe de circulation pour encourager leur adoption. Cette exonération a pris fin le 31 décembre 2025 et n'a pas été prolongée. À partir du 1er janvier 2026, tout VE privé paie de nouveau la Licence de véhicule à moteur (LKM) — seule la formule est désormais complètement différente de celle des voitures à essence.
+Depuis 2022, le gouvernement exonérait les VE de la taxe de circulation pour encourager leur adoption. Cette exonération a pris fin le 31 décembre 2025 et n'a pas été prolongée. À partir du 1er janvier 2026, tout VE privé paie de nouveau la [Licence de véhicule à moteur](/fr/transport/road-tax-renewal) (LKM) — seule la formule est désormais complètement différente de celle des voitures à essence.
 
 ## Pourquoi les VE ne sont-ils plus calculés selon le «cc» ?
 

@@ -34,7 +34,7 @@ faq:
 
 lang: "vi"
 translationStatus: "in-sync"
-sourceContentHash: "959c1dda8a5ff952"
+sourceContentHash: "e43eab1399c2d55c"
 masterLanguage: "en"
 
 status: "published"
@@ -127,7 +127,7 @@ ATM**.
 
 Dù vậy, **thanh toán bằng ví điện tử nay đã phổ biến.** Nhiều quầy chấp nhận
 **DuitNow QR** — chuẩn QR liên thông quốc gia của Malaysia, nơi một mã dùng được
-qua các ngân hàng và ví điện tử tham gia — và **Touch 'n Go eWallet**, nhận biết
+qua các ngân hàng và ví điện tử tham gia — và **[Touch 'n Go](/vi/transport/touch-n-go) eWallet**, nhận biết
 qua một bảng hoặc sticker QR mà bạn quét; GrabPay và Boost cũng phổ biến. Mức độ
 phổ biến nay đã lên tới hàng triệu người bán trên toàn quốc, nhờ việc DuitNow QR
 tính phí rất thấp hoặc không tính phí cho người bán nhỏ. Cách tiếp cận hợp lý cho

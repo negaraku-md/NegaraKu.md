@@ -29,7 +29,7 @@ faq:
     a: "Non. Les amendes de composition pour stationnement sont délivrées par les autorités locales (PBT) au titre d'arrêtés de circulation routière relatifs au stationnement, tandis que les contraventions de circulation pour infractions de conduite sont délivrées par la PDRM ou le JPJ."
 
 lang: "fr"
-sourceContentHash: "cec9d7c50b142e19"
+sourceContentHash: "fbbc5c9405ba0df6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -112,7 +112,7 @@ Les tarifs sur voirie dépendent de la zone et de l'autorité locale. À Kuala L
 
 Le passage au paiement sans espèces signifie que vous devez télécharger une appli avant de vous garer. Parmi les options acceptées pour le stationnement sur voirie à KL :
 
-- **EZ Smart Park** — accepte FPX, les cartes de crédit UnionPay, Boost, Touch 'n Go et MCash
+- **EZ Smart Park** — accepte FPX, les cartes de crédit UnionPay, Boost, [Touch 'n Go](/fr/transport/touch-n-go) et MCash
 - **Flexi Parking** et **Wilayah Parking** — FPX, cartes de crédit (Visa/Mastercard), Boost, Touch 'n Go et GrabPay
 - **Jom Parking** — banque en ligne, cartes de crédit/débit, Boost et GrabPay
 - **MCash** — banque en ligne, cartes de crédit, commerçant/agent, bons Digi E-Pay et dans n'importe quel KK Super Mart

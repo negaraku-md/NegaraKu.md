@@ -33,7 +33,7 @@ faq:
 
 lang: "hi"
 translationStatus: "in-sync"
-sourceContentHash: "b74b665148430910"
+sourceContentHash: "c14df7815cfcecfc"
 masterLanguage: "en"
 
 status: "published"
@@ -99,7 +99,7 @@ framework: how-to
 KL की **Klang Valley रेल** — **LRT** (Kelana Jaya, Ampang और Sri Petaling
 लाइनें), **MRT** (Kajang और Putrajaya लाइनें), **KL Monorail** और **KTM
 Komuter** — बरसात के दिन का व्यावहारिक केंद्र है, क्योंकि स्टेशन और ट्रेनें
-बंद और वातानुकूलित हैं। एक **Touch 'n Go** कार्ड साथ रखें और टैप इन और टैप आउट
+बंद और वातानुकूलित हैं। एक **[Touch 'n Go](/hi/transport/touch-n-go)** कार्ड साथ रखें और टैप इन और टैप आउट
 करें; नेटवर्क के अधिकांश हिस्से पर कॉन्टैक्टलेस बैंक कार्ड चलते हैं। रोज़ यात्रा
 करने वाले मलेशियाई निवासी **My50** असीमित मासिक पास का उपयोग कर सकते हैं, लेकिन
 एक बार आने वाला आगंतुक आम तौर पर बस जितना उपयोग उतना भुगतान ही करेगा। लाइन बदलने

@@ -20,7 +20,7 @@ keyTakeaways:
   - "L'immatriculation du véhicule est soumise par voie électronique par l'intermédiaire de l'un des trois Gateway Providers désignés par le JPJ, avec des frais de service du JPJ de RM50 par soumission"
 appliesTo: "Toute personne qui se relocalise en Malaisie — Malaisiens de retour, nouvelles recrues expatriées, participants au MM2H — qui doit décider quoi expédier, et si expédier une voiture possédée à titre personnel est réaliste."
 lang: "fr"
-sourceContentHash: "1a35587b5de4590d"
+sourceContentHash: "e00cd8710f963e53"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -110,7 +110,7 @@ Un AP et une facture de droits acquittée ne vous mettent pas encore légalement
 
 1. Une copie de l'**Approved Permit (AP)**
 2. Le **formulaire douanier K1** du véhicule
-3. Un **rapport d'inspection de PUSPAKOM** confirmant l'aptitude à circuler et les spécifications du véhicule
+3. Un **rapport d'inspection de [PUSPAKOM](/fr/transport/puspakom-vehicle-inspections)** confirmant l'aptitude à circuler et les spécifications du véhicule
 
 Ceux-ci sont soumis par voie électronique, et non à un guichet du JPJ ; les données d'immatriculation passent par l'un des trois **Gateway Providers** désignés par le JPJ (Cuscapi Berhad, Drosstech Sdn Bhd ou POIS Sdn Bhd), qui facturent chacun des frais de service du JPJ de RM50 par soumission. Ce n'est qu'après que ces données parviennent au JPJ et sont approuvées que le véhicule obtient un numéro d'immatriculation malaisien, moment à partir duquel les exigences ordinaires de taxe de circulation et d'assurance automobile s'appliquent comme pour toute autre voiture immatriculée en Malaisie ; voir [assurance automobile](/fr/transport/motor-insurance) et [renouvellement de la taxe de circulation](/fr/transport/road-tax-renewal) pour la suite.
 

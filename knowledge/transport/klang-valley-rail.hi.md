@@ -35,7 +35,7 @@ verificationNeeded:
   - "Confirm current MRT Kajang Line length/station count directly with MRT Corp or Rapid Rail before publication — Ministry of Transport and Rapid Rail's own line page give slightly different figures (51km/31 stations vs 46km/29 stations), which this article has avoided repeating verbatim pending reconciliation."
 
 lang: "hi"
-sourceContentHash: "8f5aa15915a64a18"
+sourceContentHash: "7d38e6c3a9bd713c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -143,7 +143,7 @@ Shah Alam लाइन नक्शे में सबसे नई जुड�
 
 ## लाइनों के पार यात्रा की योजना बनाना
 
-Rapid Rail के अपने नेटवर्क — LRT, MRT, मोनोरेल या Shah Alam लाइन — तक सीमित किसी भी यात्रा के लिए, एक अकेला Touch 'n Go कार्ड, गेट पर सीधे टैप किया गया कोई संपर्क-रहित बैंक कार्ड, या स्टेशन मशीन से ख़रीदा गया एक टोकन, यात्री को जितनी लाइनों की यात्रा को ज़रूरत हो, उतनी के पार ले जाता है, और हर इंटरचेंज पर अलग टिकट की ज़रूरत नहीं होती। **MyRapid Pulse** ऐप (Rapid KL का आधिकारिक यात्रा-योजनाकार) ठीक इसी सेवा-समूह को कवर करता है — MRT, LRT, मोनोरेल, Sunway BRT और Rapid KL की फीडर बसें — लाइव आगमन-समय और मार्ग-योजना के साथ।
+Rapid Rail के अपने नेटवर्क — LRT, MRT, मोनोरेल या Shah Alam लाइन — तक सीमित किसी भी यात्रा के लिए, एक अकेला [Touch 'n Go](/hi/transport/touch-n-go) कार्ड, गेट पर सीधे टैप किया गया कोई संपर्क-रहित बैंक कार्ड, या स्टेशन मशीन से ख़रीदा गया एक टोकन, यात्री को जितनी लाइनों की यात्रा को ज़रूरत हो, उतनी के पार ले जाता है, और हर इंटरचेंज पर अलग टिकट की ज़रूरत नहीं होती। **MyRapid Pulse** ऐप (Rapid KL का आधिकारिक यात्रा-योजनाकार) ठीक इसी सेवा-समूह को कवर करता है — MRT, LRT, मोनोरेल, Sunway BRT और Rapid KL की फीडर बसें — लाइव आगमन-समय और मार्ग-योजना के साथ।
 
 जिस क्षण किसी यात्रा को KTM Komuter या एयरपोर्ट ट्रेन की ज़रूरत पड़ती है, वह सुविधा रुक जाती है। दोनों अलग किराया-माध्यमों वाले अलग संचालक हैं, इसलिए एक Rapid KL कार्ड आगे नहीं चलता, और यात्री इसके बजाय यात्रा के उस चरण के लिए एक KTM Komuter टिकट या एक ERL टिकट ख़रीदता है, और उस संचालक के अपने गेटों पर टैप-इन और टैप-आउट करता है।
 

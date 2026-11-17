@@ -34,7 +34,7 @@ faq:
 
 lang: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "959c1dda8a5ff952"
+sourceContentHash: "e43eab1399c2d55c"
 masterLanguage: "en"
 
 status: "published"
@@ -118,7 +118,7 @@ pasar malam 是临时性的：摊贩在傍晚时分沿着指定的街道或围�
 
 话虽如此，**电子钱包付款如今已很普遍。** 许多摊位接受 **DuitNow QR**——马来西亚的
 全国互通 QR 标准，一个二维码就能在参与的银行与电子钱包之间通用——以及
-**Touch 'n Go eWallet**，标志就是你扫的那块 QR 牌子或贴纸；GrabPay 和 Boost 也很
+**[Touch 'n Go](/zh/transport/touch-n-go) eWallet**，标志就是你扫的那块 QR 牌子或贴纸；GrabPay 和 Boost 也很
 常见。如今全国的商户采用量已达数以百万计，部分得益于 DuitNow QR 对小商贩几乎不收或
 不收手续费。给第一次去的人的明智做法是：**默认带现金，QR 作后备**——并非每个摊位
 都有，而且在拥挤的市集里手机信号弱时 QR 可能失灵。

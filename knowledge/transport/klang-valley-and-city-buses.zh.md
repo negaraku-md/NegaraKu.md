@@ -32,7 +32,7 @@ faq:
     a: "Rapid Bus开始将19条低客流线路——16条MRT接驳线与3条普通线路，约占网络的7%——改为可预约的Rapid KL On-Demand van服务。"
 
 lang: "zh"
-sourceContentHash: "ef9c4ac09cb054b2"
+sourceContentHash: "dca77cc716c8a0b4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,7 +104,7 @@ framework: explainer
 
 ## 搭一趟车要多少钱？
 
-车资介于**RM1至RM5**，视你跨越多少个车资区段（zone）而定。支付**仅限无现金**——使用Touch 'n Go卡或MyRapid优惠卡（MyRapid Concession Card）。长者、学生与残障人士支付**50%优惠**车资。
+车资介于**RM1至RM5**，视你跨越多少个车资区段（zone）而定。支付**仅限无现金**——使用[Touch 'n Go](/zh/transport/touch-n-go)卡或MyRapid优惠卡（MyRapid Concession Card）。长者、学生与残障人士支付**50%优惠**车资。
 
 ## 2026年有什么变化？
 

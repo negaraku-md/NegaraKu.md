@@ -32,7 +32,7 @@ faq:
     a: "Rapid Bus a commencé à convertir 19 lignes à faible fréquentation — 16 lignes de navette du MRT et 3 lignes standard, soit environ 7% du réseau — en un service de fourgonnette réservable Rapid KL On-Demand."
 
 lang: "fr"
-sourceContentHash: "ef9c4ac09cb054b2"
+sourceContentHash: "dca77cc716c8a0b4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,7 +104,7 @@ Le train est coûteux à construire et suit des lignes fixes. Une seule station 
 
 ## Combien coûte un trajet ?
 
-Les tarifs vont de **RM1 à RM5**, selon le nombre de zones tarifaires que vous traversez. Le paiement se fait **sans espèces uniquement** — une carte Touch 'n Go ou une Carte de réduction MyRapid. Les personnes âgées, les étudiants et les personnes handicapées paient un tarif avec une **réduction de 50%**.
+Les tarifs vont de **RM1 à RM5**, selon le nombre de zones tarifaires que vous traversez. Le paiement se fait **sans espèces uniquement** — une carte [Touch 'n Go](/fr/transport/touch-n-go) ou une Carte de réduction MyRapid. Les personnes âgées, les étudiants et les personnes handicapées paient un tarif avec une **réduction de 50%**.
 
 ## Qu'est-ce qui change en 2026 ?
 

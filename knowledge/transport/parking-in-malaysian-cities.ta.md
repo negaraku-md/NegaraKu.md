@@ -29,7 +29,7 @@ faq:
     a: "இல்லை. வாகன நிறுத்தக் கம்பவுண்டுகள் வாகன நிறுத்தம் தொடர்பான சாலைப் போக்குவரத்து ஆணைகளின் கீழ் உள்ளூர் அதிகார சபைகளால் (PBT) வழங்கப்படுகின்றன; ஆனால் ஓட்டுநர் குற்றங்களுக்கான போக்குவரத்து சம்மன்கள் PDRM அல்லது JPJ-ஆல் வழங்கப்படுகின்றன."
 
 lang: "ta"
-sourceContentHash: "cec9d7c50b142e19"
+sourceContentHash: "fbbc5c9405ba0df6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -112,7 +112,7 @@ Petaling Jaya-வில், Smart Selangor Parking செயலி **மணி�
 
 பணமில்லாக் கட்டணத்திற்கு மாறியதன் பொருள், வாகனத்தை நிறுத்துவதற்கு முன் ஒரு செயலியைப் பதிவிறக்க வேண்டும். KL சாலையோர வாகன நிறுத்தத்திற்கு ஏற்கப்படும் விருப்பங்களில் சில:
 
-- **EZ Smart Park** — FPX, UnionPay கடன் அட்டைகள், Boost, Touch 'n Go மற்றும் MCash ஏற்கிறது
+- **EZ Smart Park** — FPX, UnionPay கடன் அட்டைகள், Boost, [Touch 'n Go](/ta/transport/touch-n-go) மற்றும் MCash ஏற்கிறது
 - **Flexi Parking** மற்றும் **Wilayah Parking** — FPX, கடன் அட்டைகள் (Visa/Mastercard), Boost, Touch 'n Go மற்றும் GrabPay
 - **Jom Parking** — ஆன்லைன் வங்கிச் சேவை, கடன்/பற்று அட்டைகள், Boost மற்றும் GrabPay
 - **MCash** — ஆன்லைன் வங்கிச் சேவை, கடன் அட்டைகள், வணிகர்/முகவர், Digi E-Pay வவுச்சர்கள் மற்றும் எந்த KK Super Mart-இலும்

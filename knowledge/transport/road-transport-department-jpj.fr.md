@@ -25,7 +25,7 @@ faq:
   - q: "Qu'est-ce que l'e-LKM ?"
     a: "L'e-LKM est la licence de véhicule à moteur numérique (taxe de circulation numérique) que le JPJ a introduite à partir de 2023, en remplacement de la vignette physique. Elle est accessible via l'application MyJPJ ou le portail MySIKAP."
 lang: "fr"
-sourceContentHash: "5feaacc87ec61a6a"
+sourceContentHash: "f6e325f951c4e130"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -108,7 +108,7 @@ Le JPJ est régi par la **loi sur les transports routiers de 1987 (Road Transpor
 La **licence de véhicule à moteur** — la taxe de circulation, ou *cukai jalan* — est délivrée par le JPJ pour permettre à un véhicule de circuler sur les voies publiques, et elle peut être renouvelée par le propriétaire enregistré ou son représentant. Avant qu'un renouvellement ne soit traité, quelques conditions doivent être remplies :
 
 - Une assurance de véhicule active couvrant au minimum un an.
-- Une **inspection PUSPAKOM/PPKM** réussie pour certains véhicules, tels que les véhicules commerciaux ou ceux de plus de 10 ans.
+- Une **inspection [PUSPAKOM](/fr/transport/puspakom-vehicle-inspections)/PPKM** réussie pour certains véhicules, tels que les véhicules commerciaux ou ceux de plus de 10 ans.
 - Le véhicule et le propriétaire ne doivent pas figurer sur la liste noire du JPJ ni de la police (PDRM).
 
 À partir de **2023**, le JPJ a introduit l'**e-LKM**, la licence de véhicule à moteur numérique qui remplace la vignette physique de la taxe de circulation. On y accède via l'application **MyJPJ** ou le portail **MySIKAP**.

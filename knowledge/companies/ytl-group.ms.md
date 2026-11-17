@@ -30,7 +30,7 @@ faq:
     a: "YTL Power sedang membina sebuah taman pusat data yang besar di Kulai, Johor, dan menyiapkan kemudahan AI berkuasa Nvidia pertama yang diumumkan beroperasi pada penghujung Oktober 2025."
 
 lang: "ms"
-sourceContentHash: "430ec56c95aad0ac"
+sourceContentHash: "50fb36d32d88cbec"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ Nilainya tersebar merentasi beberapa entiti dan bukannya tertumpu pada satu. Dua
 | YTL Power International | 6742 | Utiliti dan infrastruktur digital | Komponen FTSE Bursa Malaysia KLCI |
 | Malayan Cement | — | Simen dan bahan binaan | Anak syarikat tidak langsung dimiliki secara majoriti (melalui YTL Cement); hasil TK2024 RM4.45b, keuntungan bersih RM428.7j |
 
-Malayan Cement membawa perniagaan simen dan bahan binaan kumpulan ini dan merupakan anak syarikat tidak langsung yang dimiliki secara majoriti melalui YTL Cement. Ia melaporkan hasil TK2024 sebanyak RM4.45 bilion, meningkat 18.3%, dan keuntungan bersih RM428.7 juta — lonjakan kira-kira 170% daripada RM159.04 juta setahun sebelumnya, dalam satu tahun pemulihan yang kukuh didorong oleh projek mega infrastruktur seperti Laluan Rel Pantai Timur (East Coast Rail Link).
+Malayan Cement membawa perniagaan simen dan bahan binaan kumpulan ini dan merupakan anak syarikat tidak langsung yang dimiliki secara majoriti melalui YTL Cement. Ia melaporkan hasil TK2024 sebanyak RM4.45 bilion, meningkat 18.3%, dan keuntungan bersih RM428.7 juta — lonjakan kira-kira 170% daripada RM159.04 juta setahun sebelumnya, dalam satu tahun pemulihan yang kukuh didorong oleh projek mega infrastruktur seperti Laluan Rel Pantai Timur ([East Coast Rail Link](/ms/transport/east-coast-rail-link-ecrl)).
 
 ## Di manakah utiliti terletak?
 

@@ -34,7 +34,7 @@ faq:
 
 lang: "es"
 translationStatus: "in-sync"
-sourceContentHash: "959c1dda8a5ff952"
+sourceContentHash: "e43eab1399c2d55c"
 masterLanguage: "en"
 
 status: "published"
@@ -129,7 +129,7 @@ muchos puestos no pueden cambiar un billete grande, los importes son pequeños y
 Dicho esto, **el pago con monedero electrónico ya está extendido.** Muchos puestos
 aceptan **DuitNow QR** —el estándar nacional interoperable de QR de Malasia, donde
 un mismo código funciona entre los bancos y monederos electrónicos participantes— y
-**Touch 'n Go eWallet**, indicado por un cartel o pegatina con un QR que escaneas;
+**[Touch 'n Go](/es/transport/touch-n-go) eWallet**, indicado por un cartel o pegatina con un QR que escaneas;
 GrabPay y Boost también son comunes. La adopción ya alcanza los millones de
 comercios en todo el país, favorecida por que DuitNow QR apenas tiene comisión o
 ninguna para los vendedores pequeños. El enfoque sensato para quien va por primera

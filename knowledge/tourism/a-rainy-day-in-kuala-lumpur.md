@@ -98,7 +98,7 @@ before you go** — many close one weekday or on public holidays.
 KL's **Klang Valley rail** — the **LRT** (Kelana Jaya, Ampang and Sri Petaling
 lines), the **MRT** (Kajang and Putrajaya lines), the **KL Monorail** and **KTM
 Komuter** — is the practical core of a rainy day, because the stations and trains
-are enclosed and air-conditioned. Carry a **Touch 'n Go** card and tap in and out;
+are enclosed and air-conditioned. Carry a **[Touch 'n Go](/transport/touch-n-go)** card and tap in and out;
 contactless bank cards work on much of the network. Malaysian residents who travel
 daily can use the **My50** unlimited monthly pass, but a one-off visitor will
 usually just pay as they go. Useful interchanges where you change lines without

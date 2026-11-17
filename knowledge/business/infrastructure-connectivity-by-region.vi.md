@@ -49,7 +49,7 @@ verificationNeeded:
   - "Xác nhận ngày khánh thành chính thức và chi phí dự án tuyến đường đôi điện khí hóa Gemas đến Johor Bahru — không tìm thấy thông tin nào"
 
 lang: "vi"
-sourceContentHash: "300ad373430dce8b"
+sourceContentHash: "77f26148404eb5f2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -165,7 +165,7 @@ KLIA là 75 phần trăm hàng hóa hàng không quốc gia. Penang, ở mức 1
 
 ## ECRL thực sự thay đổi điều gì, và khi nào?
 
-Tuyến Đường sắt Bờ Đông (East Coast Rail Link) đã **hoàn thành 92,62 phần trăm tính đến tháng 2 năm 2026**, với đường ray được đặt trên toàn bộ 519 km của đoạn Kota Bharu đến Gombak. Việc phân giai đoạn quan trọng hơn tiêu đề:
+Tuyến Đường sắt Bờ Đông ([East Coast Rail Link](/vi/transport/east-coast-rail-link-ecrl)) đã **hoàn thành 92,62 phần trăm tính đến tháng 2 năm 2026**, với đường ray được đặt trên toàn bộ 519 km của đoạn Kota Bharu đến Gombak. Việc phân giai đoạn quan trọng hơn tiêu đề:
 
 | Đoạn | Hoàn thành | Vận hành |
 | --- | --- | --- |

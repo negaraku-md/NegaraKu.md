@@ -39,7 +39,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e428ae7cb3d3f8cb"
+sourceContentHash: "360c299744236138"
 
 status: "published"
 aiAssisted: true
@@ -185,7 +185,7 @@ Grabは飲食物や小包の配達も手がけており、都市部では路上�
 
 ## 都市内ではどうやって移動しますか？
 
-**クアラルンプール**では、鉄道網——LRT、MRT、モノレール、加えてKTM KomuterとBRT——が大半の観光エリアをカバーしており、それを解錠する道具が**Touch 'n Go**カードだ。これは入場と退場でタッチする蓄積価値型のカードで、すべての**Rapid KL**のサービスで使える：LRT、MRT、モノレール、BRT、そしてMRTフィーダーバスを含むバス。Rapid KLのバスはもう現金を受け付けないため、バスにはTouch 'n Goカード（または連携アプリ）が事実上必要だ。
+**クアラルンプール**では、鉄道網——LRT、MRT、モノレール、加えてKTM KomuterとBRT——が大半の観光エリアをカバーしており、それを解錠する道具が**[Touch 'n Go](/ja/transport/touch-n-go)**カードだ。これは入場と退場でタッチする蓄積価値型のカードで、すべての**Rapid KL**のサービスで使える：LRT、MRT、モノレール、BRT、そしてMRTフィーダーバスを含むバス。Rapid KLのバスはもう現金を受け付けないため、バスにはTouch 'n Goカード（または連携アプリ）が事実上必要だ。
 
 短い滞在で頻繁に乗るなら、Rapid KLの網向けに販売されている日単位の**トラベルパス**を検討するとよい；ただし、大幅に割引された月額の「My50」パスはマレーシア人（MyKad保持者）に限られているため、旅行者としては通常、Touch 'n Goカードで乗車ごとに支払うか、短期間の観光客用パスを使うことになる。戸口から戸口までのすべて、あるいは夜間には、**Grab**に頼ればよい。
 

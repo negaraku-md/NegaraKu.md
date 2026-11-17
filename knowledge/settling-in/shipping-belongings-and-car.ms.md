@@ -22,7 +22,7 @@ appliesTo: "Sesiapa sahaja yang berpindah ke Malaysia — rakyat Malaysia yang p
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1a35587b5de4590d"
+sourceContentHash: "e00cd8710f963e53"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -110,7 +110,7 @@ Satu AP dan bil duti yang telah dibayar masih tidak membenarkan anda memandu sec
 
 1. Satu salinan **Approved Permit (AP)**
 2. **Customs Form K1** bagi kenderaan itu
-3. Satu **laporan pemeriksaan PUSPAKOM** yang mengesahkan kelayakan jalan dan spesifikasi kenderaan itu
+3. Satu **laporan pemeriksaan [PUSPAKOM](/transport/puspakom-vehicle-inspections)** yang mengesahkan kelayakan jalan dan spesifikasi kenderaan itu
 
 Ini dikemukakan secara elektronik, bukan di kaunter JPJ — data pendaftaran melalui salah satu daripada tiga **Gateway Provider** yang dilantik oleh JPJ (Cuscapi Berhad, Drosstech Sdn Bhd, atau POIS Sdn Bhd), masing-masing mengenakan yuran perkhidmatan JPJ sebanyak RM50 bagi setiap penyerahan. Hanya selepas data itu sampai ke JPJ dan diluluskan barulah kenderaan itu mendapat nombor pendaftaran Malaysia, dan pada ketika itu keperluan cukai jalan dan insurans motor biasa terpakai seperti mana-mana kereta berdaftar Malaysia yang lain — lihat [insurans motor](/transport/motor-insurance) dan [pembaharuan cukai jalan](/transport/road-tax-renewal) untuk apa yang berlaku seterusnya.
 

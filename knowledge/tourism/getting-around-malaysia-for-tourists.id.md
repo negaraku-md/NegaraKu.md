@@ -37,7 +37,7 @@ faq:
     a: "Kartu Touch 'n Go. Ia berfungsi di LRT, MRT, monorel, BRT dan bus Rapid KL. Bus Rapid KL bersifat tanpa tunai, jadi kartu (atau aplikasi) pada dasarnya diperlukan untuk bus."
 
 lang: "id"
-sourceContentHash: "e428ae7cb3d3f8cb"
+sourceContentHash: "360c299744236138"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -186,7 +186,7 @@ Untuk pengunjung, intisari praktisnya:
 
 ## Bagaimana saya berkeliling di dalam sebuah kota?
 
-Di **Kuala Lumpur**, jaringan kereta api — LRT, MRT, monorel, serta KTM Komuter dan BRT — mencakup sebagian besar kawasan wisata, dan alat yang membukanya adalah kartu **Touch 'n Go**. Ia adalah kartu nilai tersimpan yang Anda tap untuk masuk dan keluar, dan berfungsi di semua layanan **Rapid KL**: LRT, MRT, monorel, BRT dan bus, termasuk bus pengumpan MRT. Karena bus Rapid KL tidak lagi menerima uang tunai, kartu Touch 'n Go (atau aplikasi yang tertaut) pada dasarnya diperlukan untuk bus.
+Di **Kuala Lumpur**, jaringan kereta api — LRT, MRT, monorel, serta KTM Komuter dan BRT — mencakup sebagian besar kawasan wisata, dan alat yang membukanya adalah kartu **[Touch 'n Go](/id/transport/touch-n-go)**. Ia adalah kartu nilai tersimpan yang Anda tap untuk masuk dan keluar, dan berfungsi di semua layanan **Rapid KL**: LRT, MRT, monorel, BRT dan bus, termasuk bus pengumpan MRT. Karena bus Rapid KL tidak lagi menerima uang tunai, kartu Touch 'n Go (atau aplikasi yang tertaut) pada dasarnya diperlukan untuk bus.
 
 Jika Anda akan sering menaikinya dalam kunjungan singkat, lihat **pas perjalanan** bergaya harian yang dijual untuk jaringan Rapid KL; perhatikan bahwa pas bulanan "My50" yang diberi diskon besar dikhususkan untuk warga Malaysia (pemegang MyKad), jadi sebagai wisatawan Anda biasanya akan membayar setiap perjalanan pada kartu Touch 'n Go atau menggunakan pas wisatawan jangka pendek. Untuk semua perjalanan pintu ke pintu, atau pada malam hari, kembalilah ke **Grab**.
 

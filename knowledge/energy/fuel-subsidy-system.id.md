@@ -37,7 +37,7 @@ faq:
     a: "Diesel di Sabah, Sarawak dan Labuan dipertahankan pada RM2.15 per liter dan tidak diapungkan seperti di Semenanjung. RON95 bersubsidi RM1.99 berlaku untuk warga negara yang layak di seluruh negara."
 
 lang: "id"
-sourceContentHash: "b0726e746e504bf9"
+sourceContentHash: "e18d2fccb4cddc2e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -176,7 +176,7 @@ Tiga bagian bergerak serentak setiap kali Anda mengisi bahan bakar: verifikasi i
 
 - Memasukkan MyKad ke **terminal pembaca** di SPBU.
 - Menggunakan **aplikasi perusahaan minyak** seperti Setel (Petronas) atau aplikasi Shell.
-- **Touch 'n Go eWallet** atau Outdoor Payment Terminal (OPT).
+- **[Touch 'n Go](/id/transport/touch-n-go) eWallet** atau Outdoor Payment Terminal (OPT).
 - **Pembayaran tunai di loket** — disediakan khusus untuk mereka yang tidak memiliki e-wallet atau akses internet.
 
 **Kuota** membatasi penyalahgunaan. Setiap individu yang layak mendapat **200 liter sebulan** pada harga bersubsidi — dikurangi dari 300 liter mulai **1 April 2026**, sementara harga dipertahankan pada RM1.99. Mulai **1 Juli 2026**, kuota 200 liter itu **dibagi** antara RON95 bersubsidi (RM1.99) dan Budi Diesel (RM2.10) — keduanya menarik dari satu saldo yang sama. Jika kuota habis, pembelian berikutnya dikenakan harga tanpa subsidi. Pengemudi e-hailing dan p-hailing mempertahankan batas atas lebih tinggi sebesar **800 liter sebulan** karena kebutuhan kerja mereka.

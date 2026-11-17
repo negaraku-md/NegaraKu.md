@@ -36,7 +36,7 @@ faq:
     a: "Cúbrase los hombros y las rodillas. En la entrada suele haber sarongs disponibles para pedir prestados o alquilar si su ropa es demasiado reveladora. Un calzado cómodo ayuda con la larga escalinata hasta la cueva-templo principal."
 
 lang: "es"
-sourceContentHash: "2716ca2d76a67d28"
+sourceContentHash: "83577f20656ec6a9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -135,7 +135,7 @@ Una nota práctica: el KLIA Ekspres no se ve afectado por el tráfico rodado, as
 
 Kuala Lumpur funciona sobre tres sistemas ferroviarios conectados — **MRT**, **LRT** y el **monorraíl** — complementados por autobuses y Grab. Juntos llegan a casi todos los lugares a los que quiere ir quien visita por primera vez, y son baratos.
 
-La forma más sencilla de pagar es una tarjeta **Touch 'n Go**, una tarjeta contactless recargable que pasa por los tornos de todas las líneas ferroviarias y en los autobuses. Puede comprarla y recargarla en los mostradores de las estaciones y en las tiendas de conveniencia. Si prefiere no gestionar una tarjeta de valor almacenado, las tarjetas bancarias contactless y los pagos con QR se aceptan cada vez más en los tornos.
+La forma más sencilla de pagar es una tarjeta **[Touch 'n Go](/es/transport/touch-n-go)**, una tarjeta contactless recargable que pasa por los tornos de todas las líneas ferroviarias y en los autobuses. Puede comprarla y recargarla en los mostradores de las estaciones y en las tiendas de conveniencia. Si prefiere no gestionar una tarjeta de valor almacenado, las tarjetas bancarias contactless y los pagos con QR se aceptan cada vez más en los tornos.
 
 Para viajes ilimitados, Rapid KL vende abonos de día. Los ciudadanos malasios pueden comprar el **Rapid Kota Pass** por **RM10 un día** o **RM25 tres días**, que cubre viajes ilimitados en el LRT, MRT, monorraíl, BRT y autobuses de Rapid KL. Los turistas tienen un abono ilimitado equivalente, el **Rapid Kembara Pass**, que se vende en los mostradores de atención al cliente de las estaciones — pregunte al personal por el precio y la validez vigentes al comprarlo.
 

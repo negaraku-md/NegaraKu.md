@@ -30,7 +30,7 @@ faq:
     a: "Jika LKM tidak diperbarui lebih dari tiga tahun, JPJ mensyaratkan kendaraan dibawa untuk pemeriksaan di Puspakom guna mendapatkan laporan B2 (atau pemeriksaan PG10 khusus bagi sepeda motor milik individu) sebelum permohonan pembaruan dapat diproses di kantor JPJ."
 
 lang: "id"
-sourceContentHash: "20ff86fa7188caf6"
+sourceContentHash: "4b7c164a82659f20"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -97,7 +97,7 @@ Kendaraan komersial memiliki aturan masa yang berbeda, mengingat ia sering tundu
 
 ## Jika terlewat terlalu lama
 
-Tidak ada batas resmi berapa lama kendaraan dapat "beristirahat" tanpa LKM sebelum ia dianggap masalah teknis — tetapi JPJ menetapkan satu syarat jelas: **jika LKM tidak diperbarui lebih dari tiga tahun**, kendaraan itu harus dibawa untuk pemeriksaan di Puspakom guna mendapatkan laporan B2 (atau pemeriksaan PG10 khusus bagi sepeda motor milik individu). Hanya setelah laporan itu diperoleh, pemilik atau wakilnya dapat ke kantor JPJ dengan dokumen pendaftaran asli dan pembayaran yang mencukupi untuk melanjutkan pembaruan.
+Tidak ada batas resmi berapa lama kendaraan dapat "beristirahat" tanpa LKM sebelum ia dianggap masalah teknis — tetapi JPJ menetapkan satu syarat jelas: **jika LKM tidak diperbarui lebih dari tiga tahun**, kendaraan itu harus dibawa untuk pemeriksaan di [Puspakom](/id/transport/puspakom-vehicle-inspections) guna mendapatkan laporan B2 (atau pemeriksaan PG10 khusus bagi sepeda motor milik individu). Hanya setelah laporan itu diperoleh, pemilik atau wakilnya dapat ke kantor JPJ dengan dokumen pendaftaran asli dan pembayaran yang mencukupi untuk melanjutkan pembaruan.
 
 Ini berarti kendaraan yang dibiarkan terbengkalai bertahun-tahun tidak dapat langsung diperbarui secara daring — ia perlu melalui pemeriksaan fisik dulu.
 

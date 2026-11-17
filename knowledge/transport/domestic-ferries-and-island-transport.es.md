@@ -29,7 +29,7 @@ faq:
     a: "A menudo no. Muchos resorts y operadores de barco de la costa este suspenden voluntariamente los servicios desde alrededor de octubre a febrero debido a los mares agitados del monzón del noreste."
 
 lang: "es"
-sourceContentHash: "ea7ce50e8b808f2f"
+sourceContentHash: "6d82ddd104b2cdb5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,7 +106,7 @@ Los ferris circulan a diario de 06:30 a 23:30, a intervalos regulares durante el
 | Motocicleta | RM 2.50 |
 | Bicicleta | RM 2.00 |
 
-Puedes pagar con Touch 'n Go, en la taquilla, o con un billete en línea. Muchos viajeros también llegan a la isla por carretera, a través del Puente de Penang o el Puente Sultan Abdul Halim Muadzam Shah (Segundo); el ferri es una opción pintoresca y de desplazamiento diario más que el único enlace.
+Puedes pagar con [Touch 'n Go](/es/transport/touch-n-go), en la taquilla, o con un billete en línea. Muchos viajeros también llegan a la isla por carretera, a través del Puente de Penang o el Puente Sultan Abdul Halim Muadzam Shah (Segundo); el ferri es una opción pintoresca y de desplazamiento diario más que el único enlace.
 
 ## ¿Cómo funcionan los ferris a Langkawi?
 

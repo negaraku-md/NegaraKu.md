@@ -37,7 +37,7 @@ faq:
     a: "사바, 사라왁, 라부안의 디젤은 리터당 RM2.15로 유지되며 반도처럼 변동화되지 않습니다. 보조 RON95 RM1.99는 전국의 자격 있는 국민에게 적용됩니다."
 
 lang: "ko"
-sourceContentHash: "b0726e746e504bf9"
+sourceContentHash: "e18d2fccb4cddc2e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -176,7 +176,7 @@ BUDI95(BUDI MADANI 브랜드 아래)는 RON95 휘발유를 위한 표적 보조�
 
 - 주유소의 **판독 단말기**에 MyKad 삽입.
 - Setel(Petronas) 또는 Shell 앱 같은 **석유회사 앱** 사용.
-- **Touch 'n Go eWallet** 또는 옥외 결제 단말기(OPT).
+- **[Touch 'n Go](/ko/transport/touch-n-go) eWallet** 또는 옥외 결제 단말기(OPT).
 - **카운터 현금 결제** — e-지갑이나 인터넷 접근이 없는 이들을 위해 특별히 마련됨.
 
 **쿼터**는 남용을 제한합니다. 자격이 있는 각 개인은 보조 가격으로 **월 200리터**를 받습니다 — **2026년 4월 1일**부터 300리터에서 축소되었으며 가격은 RM1.99로 유지됩니다. **2026년 7월 1일**부터, 그 200리터 쿼터는 보조 RON95(RM1.99)와 Budi Diesel(RM2.10) 사이에 **공유**됩니다 — 둘 다 동일한 하나의 잔여량에서 차감됩니다. 쿼터가 소진되면 이후 구매는 보조금 없는 가격이 적용됩니다. e-헤일링과 p-헤일링 운전자는 업무 필요에 따라 **월 800리터**의 더 높은 상한을 유지합니다.

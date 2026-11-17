@@ -30,7 +30,7 @@ faq:
     a: "LKM을 3년 넘게 갱신하지 않으면, JPJ는 갱신 신청이 JPJ 사무소에서 처리되기 전에 차량을 푸스파콤(Puspakom)에서 검사받아 B2 보고서(또는 개인 소유 오토바이의 경우 전용 PG10 검사)를 받도록 요구합니다."
 
 lang: "ko"
-sourceContentHash: "20ff86fa7188caf6"
+sourceContentHash: "4b7c164a82659f20"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -113,7 +113,7 @@ JPJ 공식 지침에 따르면, LKM은 **만료일 2개월 이내에만 갱신�
 
 차량이 기술적 문제로 간주되기 전에 LKM 없이 얼마나 오래 「쉴」 수 있는지에
 대한 공식 한도는 없습니다 — 그러나 JPJ는 하나의 명확한 조건을 둡니다:
-**LKM을 3년 넘게 갱신하지 않으면**, 그 차량은 푸스파콤(Puspakom)에서
+**LKM을 3년 넘게 갱신하지 않으면**, 그 차량은 [푸스파콤](/ko/transport/puspakom-vehicle-inspections)(Puspakom)에서
 검사받아 B2 보고서(또는 개인 소유 오토바이의 경우 전용 PG10 검사)를 받아야
 합니다. 그 보고서를 받은 후에야, 소유자나 대리인이 원본 등록 서류와 충분한
 납부금을 가지고 JPJ 사무소에 가서 갱신을 진행할 수 있습니다.

@@ -33,7 +33,7 @@ faq:
 
 lang: "th"
 translationStatus: "in-sync"
-sourceContentHash: "b74b665148430910"
+sourceContentHash: "c14df7815cfcecfc"
 masterLanguage: "en"
 
 status: "published"
@@ -98,7 +98,7 @@ framework: how-to
 **รถไฟในหุบเขากลัง (Klang Valley rail)** ของ KL — **LRT** (สาย Kelana Jaya,
 Ampang และ Sri Petaling), **MRT** (สาย Kajang และ Putrajaya), **KL Monorail**
 และ **KTM Komuter** — คือแกนปฏิบัติของวันฝนตก เพราะสถานีและขบวนรถเป็นแบบปิดและ
-ปรับอากาศ พก**บัตร Touch 'n Go** ไว้แตะเข้าและออก; บัตรธนาคารแบบ contactless
+ปรับอากาศ พก**บัตร [Touch 'n Go](/th/transport/touch-n-go)** ไว้แตะเข้าและออก; บัตรธนาคารแบบ contactless
 ใช้ได้กับเครือข่ายส่วนใหญ่ ผู้พำนักในมาเลเซียที่เดินทางทุกวันสามารถใช้บัตรรายเดือน
 แบบไม่จำกัดเที่ยว **My50** ได้ แต่นักท่องเที่ยวที่มาครั้งเดียวมักจะจ่ายตามการใช้งาน
 สถานีเปลี่ยนสายที่มีประโยชน์ซึ่งคุณเปลี่ยนสายได้โดยไม่ต้องออกจากสถานี ได้แก่

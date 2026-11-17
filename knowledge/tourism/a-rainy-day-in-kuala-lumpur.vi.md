@@ -33,7 +33,7 @@ faq:
 
 lang: "vi"
 translationStatus: "in-sync"
-sourceContentHash: "b74b665148430910"
+sourceContentHash: "c14df7815cfcecfc"
 masterLanguage: "en"
 
 status: "published"
@@ -100,7 +100,7 @@ hoặc vào các ngày lễ.
 **Tàu điện vùng Klang Valley** của KL — **LRT** (các tuyến Kelana Jaya, Ampang và
 Sri Petaling), **MRT** (các tuyến Kajang và Putrajaya), **KL Monorail** và **KTM
 Komuter** — là phần cốt lõi thực tế của một ngày mưa, vì các nhà ga và đoàn tàu đều
-kín và có điều hòa. Hãy mang theo thẻ **Touch 'n Go** và quẹt vào và ra; thẻ ngân
+kín và có điều hòa. Hãy mang theo thẻ **[Touch 'n Go](/vi/transport/touch-n-go)** và quẹt vào và ra; thẻ ngân
 hàng không tiếp xúc hoạt động trên phần lớn mạng lưới. Cư dân Malaysia đi lại hằng
 ngày có thể dùng vé tháng không giới hạn **My50**, nhưng một du khách đi lẻ thường
 sẽ chỉ trả theo lượt. Những điểm chuyển tuyến hữu ích nơi bạn đổi tuyến mà không cần

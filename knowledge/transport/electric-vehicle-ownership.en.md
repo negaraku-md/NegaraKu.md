@@ -31,7 +31,7 @@ faq:
     a: "RM20 per year for EVs rated 50 kW and below, according to JPJ's electric vehicle LKM guidelines. Rates increase progressively for higher power."
 
 lang: "en"
-sourceContentHash: "926c690f458094f6"
+sourceContentHash: "f81df275bc45182b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,7 +95,7 @@ framework: explainer
 
 The era of free road tax for electric cars in Malaysia is over — but the first bill that lands in your MyJPJ may be cheaper than you think, and it is calculated in an entirely new way.
 
-Since 2022, the government exempted EVs from road tax to encourage their adoption. That exemption ended on 31 December 2025 and was not extended. From 1 January 2026, every private EV pays the Motor Vehicle Licence (LKM) again — only the formula is now completely different from petrol cars.
+Since 2022, the government exempted EVs from road tax to encourage their adoption. That exemption ended on 31 December 2025 and was not extended. From 1 January 2026, every private EV pays the [Motor Vehicle Licence](/en/transport/road-tax-renewal) (LKM) again — only the formula is now completely different from petrol cars.
 
 ## Why are EVs no longer calculated by "cc"?
 

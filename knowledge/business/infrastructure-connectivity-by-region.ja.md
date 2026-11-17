@@ -51,7 +51,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "300ad373430dce8b"
+sourceContentHash: "77f26148404eb5f2"
 
 status: "published"
 aiAssisted: true
@@ -165,7 +165,7 @@ KLIAは全国の空輸貨物の75%を占める。ペナンは114,551トンで、
 
 ## ECRLは実際に何を変えるのか、そしていつ変わるのか？
 
-東海岸鉄道連絡線（East Coast Rail Link、ECRL）は**2026年2月時点で92.62%が完成**しており、コタバルからゴンバまでの区間519km全線で軌道が敷設済みである。見出しの数字よりも、段階分けのほうが重要である。
+東海岸鉄道連絡線（[East Coast Rail Link](/ja/transport/east-coast-rail-link-ecrl)、ECRL）は**2026年2月時点で92.62%が完成**しており、コタバルからゴンバまでの区間519km全線で軌道が敷設済みである。見出しの数字よりも、段階分けのほうが重要である。
 
 | 区間 | 完工 | 運行開始 |
 | --- | --- | --- |

@@ -33,7 +33,7 @@ faq:
 
 lang: "id"
 translationStatus: "in-sync"
-sourceContentHash: "b74b665148430910"
+sourceContentHash: "c14df7815cfcecfc"
 masterLanguage: "en"
 
 status: "published"
@@ -100,7 +100,7 @@ atau pada hari libur umum.
 **Rel Lembah Klang** KL — **LRT** (jalur Kelana Jaya, Ampang, dan Sri Petaling),
 **MRT** (jalur Kajang dan Putrajaya), **KL Monorail**, dan **KTM Komuter** — adalah
 inti praktis hari hujan, karena stasiun dan keretanya tertutup dan ber-AC. Bawalah
-kartu **Touch 'n Go** dan tap masuk serta keluar; kartu bank contactless berfungsi
+kartu **[Touch 'n Go](/id/transport/touch-n-go)** dan tap masuk serta keluar; kartu bank contactless berfungsi
 di sebagian besar jaringan. Penduduk Malaysia yang bepergian setiap hari dapat
 memakai tiket bulanan tanpa batas **My50**, tetapi wisatawan satu kali biasanya
 cukup bayar-per-pakai. Titik pertukaran yang berguna tempat Anda berganti jalur

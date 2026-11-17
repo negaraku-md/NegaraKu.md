@@ -30,7 +30,7 @@ faq:
     a: "YTL Power正在柔佛古来建设一座大型数据中心园区，并已建成首座采用Nvidia芯片的AI设施，于2025年10月底宣布投入运营。"
 
 lang: "zh"
-sourceContentHash: "430ec56c95aad0ac"
+sourceContentHash: "50fb36d32d88cbec"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ YTL Corporation Berhad是主要控股公司，以股票代码4677在马来西亚
 | YTL Power International | 6742 | 公用事业与数字基础设施 | 富时马来西亚交易所吉隆坡综合指数（FTSE Bursa Malaysia KLCI）成分股 |
 | Malayan Cement | — | 水泥与建筑材料 | 多数股权间接子公司（通过YTL Cement持有）；2024财年营收44.5亿令吉，净利润4.287亿令吉 |
 
-Malayan Cement承载集团的水泥与建筑材料业务，是通过YTL Cement持有的多数股权间接子公司。它录得2024财年营收44.5亿令吉，增长18.3%，净利润4.287亿令吉——较一年前的1.5904亿令吉大增约170%，这得益于以东海岸铁路衔接线（East Coast Rail Link）等基础设施大型项目为推动力的强劲复苏之年。
+Malayan Cement承载集团的水泥与建筑材料业务，是通过YTL Cement持有的多数股权间接子公司。它录得2024财年营收44.5亿令吉，增长18.3%，净利润4.287亿令吉——较一年前的1.5904亿令吉大增约170%，这得益于以东海岸铁路衔接线（[East Coast Rail Link](/zh/transport/east-coast-rail-link-ecrl)）等基础设施大型项目为推动力的强劲复苏之年。
 
 ## 公用事业业务归属何处？
 

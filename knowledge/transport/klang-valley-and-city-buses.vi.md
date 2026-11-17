@@ -32,7 +32,7 @@ faq:
     a: "Rapid Bus bắt đầu chuyển 19 tuyến có lượng khách thấp — 16 tuyến trung chuyển MRT và 3 tuyến tiêu chuẩn, khoảng 7% mạng lưới — thành một dịch vụ xe van Rapid KL On-Demand đặt trước."
 
 lang: "vi"
-sourceContentHash: "ef9c4ac09cb054b2"
+sourceContentHash: "dca77cc716c8a0b4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,7 +104,7 @@ Cùng nhau những dịch vụ này cộng lại thành **hơn 270 tuyến** ph�
 
 ## Một chuyến xe có giá bao nhiêu?
 
-Giá vé từ **RM1 đến RM5**, tùy theo bạn đi qua bao nhiêu vùng vé. Thanh toán **chỉ không tiền mặt** — một thẻ Touch 'n Go hoặc một Thẻ Ưu đãi MyRapid. Người cao tuổi, học sinh sinh viên và người khuyết tật trả mức ưu đãi **50%**.
+Giá vé từ **RM1 đến RM5**, tùy theo bạn đi qua bao nhiêu vùng vé. Thanh toán **chỉ không tiền mặt** — một thẻ [Touch 'n Go](/vi/transport/touch-n-go) hoặc một Thẻ Ưu đãi MyRapid. Người cao tuổi, học sinh sinh viên và người khuyết tật trả mức ưu đãi **50%**.
 
 ## Điều gì đang thay đổi vào năm 2026?
 

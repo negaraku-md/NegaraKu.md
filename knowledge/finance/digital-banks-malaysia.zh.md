@@ -30,7 +30,7 @@ faq:
     a: "GXBank是第一家开始运营的，于2023年。AEON Bank是第一家向公众开放的伊斯兰数字银行，于2024年5月26日开业。"
 
 lang: "zh"
-sourceContentHash: "e7e1910cb72bc76a"
+sourceContentHash: "54558cbe2eba3f48"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ GXBank作为马来西亚第一家开始运营的数字银行率先起步，时�
 这是最常见的困惑点。数字银行和电子钱包都存在于你的手机上，但在法律上它们是截然不同的两类东西。
 
 - **数字银行**持有银行牌照。它吸收存款，可以支付利息或利润，并可以放贷。其符合条件的存款受PIDM保障。
-- **电子钱包**（例如Touch 'n Go eWallet余额）是主要用于支付的电子货币发行机构。它不是吸收存款的银行，因此其余额不受PIDM存款保险保障。
+- **电子钱包**（例如[Touch 'n Go](/zh/transport/touch-n-go) eWallet余额）是主要用于支付的电子货币发行机构。它不是吸收存款的银行，因此其余额不受PIDM存款保险保障。
 
 简而言之：数字银行是银行。电子钱包是支付工具。
 

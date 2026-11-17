@@ -35,7 +35,7 @@ verificationNeeded:
   - "Pastikan panjang/jumlah stasiun terkini Jalur Kajang MRT langsung dengan MRT Corp atau Rapid Rail sebelum penerbitan — Kementerian Pengangkutan dan laman jalur Rapid Rail sendiri memberikan angka yang sedikit berbeda (51km/31 stasiun dibandingkan 46km/29 stasiun), yang mana artikel ini telah menghindari untuk mengulanginya secara verbatim sambil menunggu pendamaian."
 
 lang: "id"
-sourceContentHash: "8f5aa15915a64a18"
+sourceContentHash: "7d38e6c3a9bd713c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -196,7 +196,7 @@ pergi sepenuhnya ke KL Sentral.
 ## Merencanakan perjalanan melintasi jalur
 
 Untuk perjalanan apa pun yang terbatas pada jaringan Rapid Rail sendiri
-— LRT, MRT, Monorel atau Jalur Shah Alam — satu kartu Touch 'n Go, kartu
+— LRT, MRT, Monorel atau Jalur Shah Alam — satu kartu [Touch 'n Go](/id/transport/touch-n-go), kartu
 bank nirsentuh yang ditempel langsung di gerbang, atau token yang dibeli
 dari mesin stasiun membawa seorang penumpang melintasi sebanyak apa pun
 jalur yang diperlukan oleh perjalanan itu, tanpa memerlukan tiket

@@ -107,7 +107,7 @@ JPJ is governed by the **Road Transport Act 1987 (Act 333)**, the statute under 
 The **Motor Vehicle Licence** — the road tax, or *cukai jalan* — is issued by JPJ to allow a vehicle to operate on public roads, and it can be renewed by the registered owner or their representative. Before a renewal goes through, a few conditions must be met:
 
 - Active vehicle insurance covering a minimum of one year.
-- A passed **PUSPAKOM/PPKM inspection** for certain vehicles, such as commercial vehicles or those more than 10 years old.
+- A passed **[PUSPAKOM](/transport/puspakom-vehicle-inspections)/PPKM inspection** for certain vehicles, such as commercial vehicles or those more than 10 years old.
 - The vehicle and owner must not be blacklisted by JPJ or the police (PDRM).
 
 Starting in **2023**, JPJ introduced **e-LKM**, the digital Motor Vehicle Licence that replaces the physical road-tax sticker. It is accessed through the **MyJPJ** app or the **MySIKAP** portal.

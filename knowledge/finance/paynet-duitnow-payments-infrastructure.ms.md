@@ -29,7 +29,7 @@ faq:
     a: "Ya. DuitNow QR saling beroperasi, jadi satu kod QR peniaga boleh diimbas oleh bank dan e-dompet yang berlainan seperti Touch 'n Go eWallet, GrabPay dan Boost, selagi mereka mengambil bahagian."
 
 lang: "ms"
-sourceContentHash: "4d9809544dd36b01"
+sourceContentHash: "4ae276cb59bc3eb5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,7 +108,7 @@ PayNet mengendalikan landasan; bank dan e-dompet yang anda gunakan ialah aplikas
 
 ## Mengapa saling operasi penting?
 
-Tujuan utama rangkaian bersama ialah anda tidak sepatutnya perlu mengambil kira bank atau dompet mana yang digunakan oleh orang lain. DuitNow QR sengaja direka untuk saling beroperasi: satu kod QR peniaga tunggal boleh diimbas oleh Touch 'n Go eWallet, GrabPay, Boost atau mana-mana aplikasi bank yang mengambil bahagian.
+Tujuan utama rangkaian bersama ialah anda tidak sepatutnya perlu mengambil kira bank atau dompet mana yang digunakan oleh orang lain. DuitNow QR sengaja direka untuk saling beroperasi: satu kod QR peniaga tunggal boleh diimbas oleh [Touch 'n Go](/ms/transport/touch-n-go) eWallet, GrabPay, Boost atau mana-mana aplikasi bank yang mengambil bahagian.
 
 Reka bentuk itu kini menjadi mandatori. Untuk menghalang pasaran daripada berpecah kepada taman berpagar, BNM telah menetapkan bahawa rangkaian kod QR proprietari mesti dihentikan menjelang 30 Jun 2028, selepas peralihan dua tahun di mana pengendali yang terjejas tidak boleh menerima peniaga baharu. Matlamatnya, dalam kata-kata BNM, ialah persekitaran di mana semua pembayaran QR di Malaysia saling beroperasi.
 

@@ -36,7 +36,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8f5aa15915a64a18"
+sourceContentHash: "7d38e6c3a9bd713c"
 
 status: "published"
 aiAssisted: true
@@ -177,7 +177,7 @@ Komuter路線が停車し、KLモノレールがここから始まり、KLIA Eks
 ## 路線をまたぐ移動を計画する
 
 Rapid Rail自身の網——LRT、MRT、モノレール、シャーアラム線——に収まる移動であれ
-ば、一枚のTouch 'n Goカード、改札で直接タッチする非接触型の銀行カード、あるいは駅
+ば、一枚の[Touch 'n Go](/ja/transport/touch-n-go)カード、改札で直接タッチする非接触型の銀行カード、あるいは駅
 の券売機で買ったトークンが、その移動に必要なだけの路線をまたいで乗客を運んでくれ
 る。乗換ごとに別の乗車券は要らない。**MyRapid Pulse**アプリ（Rapid KL公式の経路
 検索）は、まさにこの一連のサービス——MRT、LRT、モノレール、Sunway BRT、そして

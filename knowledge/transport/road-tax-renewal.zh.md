@@ -32,7 +32,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "20ff86fa7188caf6"
+sourceContentHash: "4b7c164a82659f20"
 
 status: "published"
 aiAssisted: true
@@ -97,7 +97,7 @@ LKM 是《1987年道路交通法令》下的一种牌照，让车辆得以在马
 
 ## 如果拖延太久
 
-对于一辆车在没有 LKM 的情况下可以「休息」多久才会被视为技术问题，并没有官方的限制——但 JPJ 设下一项明确条件：**若 LKM 拖欠未续超过三年**，该车辆须送往 Puspakom 检验，取得 B2 报告（个人拥有的摩托车则须经 PG10 检验）。只有在取得该报告之后，车主或其代表才能携带原有的注册文件及足够款项前往 JPJ 办事处，继续办理续期。
+对于一辆车在没有 LKM 的情况下可以「休息」多久才会被视为技术问题，并没有官方的限制——但 JPJ 设下一项明确条件：**若 LKM 拖欠未续超过三年**，该车辆须送往 [Puspakom](/zh/transport/puspakom-vehicle-inspections) 检验，取得 B2 报告（个人拥有的摩托车则须经 PG10 检验）。只有在取得该报告之后，车主或其代表才能携带原有的注册文件及足够款项前往 JPJ 办事处，继续办理续期。
 
 这意味着一辆被搁置多年的车辆无法直接在网上续期——必须先经过实体检验。
 

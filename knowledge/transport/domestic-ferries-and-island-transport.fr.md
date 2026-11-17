@@ -29,7 +29,7 @@ faq:
     a: "Souvent non. De nombreux complexes hôteliers et opérateurs de bateau de la côte est suspendent volontairement leurs services d'environ octobre à février en raison des mers agitées de la mousson du nord-est."
 
 lang: "fr"
-sourceContentHash: "ea7ce50e8b808f2f"
+sourceContentHash: "6d82ddd104b2cdb5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,7 +106,7 @@ Les ferries circulent tous les jours de 06 h 30 à 23 h 30, à intervalles régu
 | Moto | RM 2.50 |
 | Vélo | RM 2.00 |
 
-Vous pouvez payer avec Touch 'n Go, au guichet, ou avec un billet en ligne. De nombreux voyageurs rejoignent aussi l'île par la route, via le pont de Penang ou le pont Sultan Abdul Halim Muadzam Shah (le Second) ; le ferry est une option pittoresque et de déplacement quotidien plutôt que l'unique liaison.
+Vous pouvez payer avec [Touch 'n Go](/fr/transport/touch-n-go), au guichet, ou avec un billet en ligne. De nombreux voyageurs rejoignent aussi l'île par la route, via le pont de Penang ou le pont Sultan Abdul Halim Muadzam Shah (le Second) ; le ferry est une option pittoresque et de déplacement quotidien plutôt que l'unique liaison.
 
 ## Comment fonctionnent les ferries pour Langkawi ?
 

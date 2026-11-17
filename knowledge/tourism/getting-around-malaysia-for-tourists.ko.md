@@ -37,7 +37,7 @@ faq:
     a: "Touch 'n Go 카드입니다. Rapid KL의 LRT, MRT, 모노레일, BRT, 버스에서 모두 사용할 수 있습니다. Rapid KL 버스는 현금을 받지 않으므로, 버스에는 카드(또는 앱)가 사실상 필수입니다."
 
 lang: "ko"
-sourceContentHash: "e428ae7cb3d3f8cb"
+sourceContentHash: "360c299744236138"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -186,7 +186,7 @@ KL 센트럴에서 도시의 나머지 철도망으로 연결되므로, 단체�
 
 ## 도시 안에서는 어떻게 이동합니까?
 
-**쿠알라룸푸르**에서는 철도망 — LRT, MRT, 모노레일, KTM 코뮤터(Komuter), BRT — 이 대부분의 관광 지역을 아우르며, 이를 여는 도구가 **Touch 'n Go** 카드입니다. 태그하여 타고 내리는 선불 카드로, 모든 **Rapid KL** 서비스에서 사용됩니다: LRT, MRT, 모노레일, BRT, 그리고 MRT 연계 버스를 포함한 버스. Rapid KL 버스는 더 이상 현금을 받지 않으므로, 버스에는 Touch 'n Go 카드(또는 연동 앱)가 사실상 필수입니다.
+**쿠알라룸푸르**에서는 철도망 — LRT, MRT, 모노레일, KTM 코뮤터(Komuter), BRT — 이 대부분의 관광 지역을 아우르며, 이를 여는 도구가 **[Touch 'n Go](/ko/transport/touch-n-go)** 카드입니다. 태그하여 타고 내리는 선불 카드로, 모든 **Rapid KL** 서비스에서 사용됩니다: LRT, MRT, 모노레일, BRT, 그리고 MRT 연계 버스를 포함한 버스. Rapid KL 버스는 더 이상 현금을 받지 않으므로, 버스에는 Touch 'n Go 카드(또는 연동 앱)가 사실상 필수입니다.
 
 짧은 방문에 많이 타게 된다면 Rapid KL 노선망에 판매되는 일권 형태의 **여행 패스**를 살펴보십시오. 크게 할인된 월정액 "My50" 패스는 말레이시아인(MyKad 소지자) 전용이므로, 관광객으로서는 보통 Touch 'n Go 카드로 이용 건별로 지불하거나 단기 관광객 패스를 이용하게 됩니다. 문 앞 이동이나 야간에는 **그랩**으로 대체하십시오.
 

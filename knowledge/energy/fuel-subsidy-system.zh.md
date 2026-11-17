@@ -39,7 +39,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b0726e746e504bf9"
+sourceContentHash: "e18d2fccb4cddc2e"
 
 status: "published"
 aiAssisted: true
@@ -176,7 +176,7 @@ BUDI95（隶属BUDI MADANI品牌）是RON95汽油的精准补贴计划。它引�
 
 - 将MyKad插入油站的**读卡终端机**。
 - 使用**油公司应用程序**，如Setel（Petronas）或Shell应用程序。
-- **Touch 'n Go电子钱包**或户外付款终端机（OPT）。
+- **[Touch 'n Go](/zh/transport/touch-n-go)电子钱包**或户外付款终端机（OPT）。
 - **柜台现金付款**——专为没有电子钱包或互联网接入的人而设。
 
 **配额**限制滥用。每名合格个人每月获得**200公升**的补贴价格——自**2026年4月1日**起由300公升下调，同时价格维持在RM1.99。自**2026年7月1日**起，该200公升配额由补贴RON95（RM1.99）与Budi Diesel（RM2.10）**共享**——两者从同一个余额中扣除。若配额用尽，后续购买将按未补贴价格计算。电召与送餐（p-hailing）司机因工作需要，维持较高的**每月800公升**上限。

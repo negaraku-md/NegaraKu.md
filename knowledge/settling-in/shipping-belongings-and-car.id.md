@@ -20,7 +20,7 @@ keyTakeaways:
   - "Pendaftaran kendaraan diajukan secara elektronik melalui salah satu dari tiga Gateway Provider yang ditunjuk oleh JPJ, dengan biaya layanan JPJ sebesar RM50 setiap pengajuan"
 appliesTo: "Siapa saja yang pindah ke Malaysia — warga Malaysia yang pulang, pekerja ekspatriat baru, peserta MM2H — yang sedang memutuskan apa yang perlu dikirim, dan apakah mengirim mobil milik pribadi itu realistis."
 lang: "id"
-sourceContentHash: "1a35587b5de4590d"
+sourceContentHash: "e00cd8710f963e53"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -110,7 +110,7 @@ Satu AP dan tagihan bea yang telah dibayar masih tidak membolehkan Anda mengemud
 
 1. Satu salinan **Approved Permit (AP)**
 2. **Customs Form K1** bagi kendaraan itu
-3. Satu **laporan pemeriksaan PUSPAKOM** yang mengesahkan kelaikan jalan dan spesifikasi kendaraan itu
+3. Satu **laporan pemeriksaan [PUSPAKOM](/id/transport/puspakom-vehicle-inspections)** yang mengesahkan kelaikan jalan dan spesifikasi kendaraan itu
 
 Ini diajukan secara elektronik, bukan di loket JPJ — data pendaftaran melalui salah satu dari tiga **Gateway Provider** yang ditunjuk oleh JPJ (Cuscapi Berhad, Drosstech Sdn Bhd, atau POIS Sdn Bhd), masing-masing mengenakan biaya layanan JPJ sebesar RM50 setiap pengajuan. Hanya setelah data itu sampai ke JPJ dan disetujui barulah kendaraan itu mendapat nomor pendaftaran Malaysia, dan pada saat itu persyaratan pajak jalan dan asuransi kendaraan bermotor biasa berlaku seperti mobil berdaftar Malaysia lainnya — lihat [asuransi kendaraan bermotor](/id/transport/motor-insurance) dan [pembaruan pajak jalan](/id/transport/road-tax-renewal) untuk apa yang terjadi berikutnya.
 

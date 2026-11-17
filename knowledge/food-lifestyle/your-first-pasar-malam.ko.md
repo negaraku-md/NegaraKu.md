@@ -34,7 +34,7 @@ faq:
 
 lang: "ko"
 translationStatus: "in-sync"
-sourceContentHash: "959c1dda8a5ff952"
+sourceContentHash: "e43eab1399c2d55c"
 masterLanguage: "en"
 
 status: "published"
@@ -124,7 +124,7 @@ framework: how-to
 
 그렇지만 **전자지갑 결제도 이제 널리 쓰입니다.** 많은 가게가 **DuitNow QR**
 — 하나의 코드가 참여 은행과 전자지갑 전반에서 작동하는 말레이시아의 국가 상호
-운용 QR 표준 — 과 **Touch 'n Go eWallet**을 받으며, 스캔하는 QR 스탠디나
+운용 QR 표준 — 과 **[Touch 'n Go](/ko/transport/touch-n-go) eWallet**을 받으며, 스캔하는 QR 스탠디나
 스티커로 알 수 있습니다. GrabPay와 Boost도 흔합니다. 도입 규모는 이제 전국
 수백만 가맹점에 이르는데, DuitNow QR이 소상인에게 수수료가 거의 또는 전혀 없는
 점이 한몫했습니다. 처음 가는 사람에게 현명한 방식은 **현금을 전제하고, QR을 예비

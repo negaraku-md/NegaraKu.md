@@ -36,7 +36,7 @@ faq:
     a: "Trong mục tiêu 15–30 MtCO₂eq, lên đến 20 MtCO₂eq là không điều kiện — Malaysia cam kết với nó bất kể thế nào. Thêm 10 MtCO₂eq là có điều kiện, nghĩa là nó sẽ chỉ được thực hiện nếu tài chính khí hậu quốc tế, chuyển giao công nghệ và hỗ trợ xây dựng năng lực được cung cấp."
 
 lang: "vi"
-sourceContentHash: "7ad2136668e2982a"
+sourceContentHash: "6a0b336c4432c9c8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -182,7 +182,7 @@ Trên cả hai, Malaysia phát tín hiệu nó sẽ sử dụng **hợp tác t�
 NDC 3.0 gắn hành động trong nước với các kết quả của Đợt Kiểm kê Toàn cầu đầu tiên. Trên thực tế điều đó chuyển thành một vài đòn bẩy cụ thể:
 
 - **Năng lượng.** Theo NETR, các nhà máy điện than được ấn định cho việc ngừng hoạt động gần như hoàn toàn thông qua các quá trình loại bỏ dần tự nhiên mà không có bổ sung mới, năng lượng tái tạo đóng góp một phần đáng kể vào công suất lắp đặt, và khí thiên nhiên vẫn là một nhiên liệu chuyển tiếp.
-- **Giao thông.** Đầu tư lớn vào đường sắt — East Coast Rail Link (ECRL), LRT3 và MRT3 — cùng với một quá trình chuyển đổi xe điện đang tăng tốc và các dự án thí điểm hydro trong vận tải hạng nặng.
+- **Giao thông.** Đầu tư lớn vào đường sắt — [East Coast Rail Link](/vi/transport/east-coast-rail-link-ecrl) (ECRL), LRT3 và MRT3 — cùng với một quá trình chuyển đổi xe điện đang tăng tốc và các dự án thí điểm hydro trong vận tải hạng nặng.
 - **Cải cách trợ giá nhiên liệu hóa thạch.** Malaysia bắt đầu loại bỏ dần các khoản trợ giá dầu diesel đại trà vào ngày 10 tháng 6 năm 2024, để giá ở Bán đảo thả nổi về mức thị trường trong khi giữ các mức trợ giá cho Sabah, Sarawak và Labuan và cho các nhóm mục tiêu như ngư dân qua các chương trình như Thẻ Đội tàu Diesel 2.0.
 - **Methane và các khí khác ngoài CO₂.** Mở rộng quy mô thu giữ methane từ quản lý chất thải rắn và xử lý nước thải công nghiệp.
 - **Rừng và sử dụng đất.** Được củng cố bởi Đạo luật Lâm nghiệp Quốc gia (National Forestry Act 2022) và một cơ chế Chuyển giao Tài khóa Sinh thái thưởng cho các bang vì việc bảo vệ rừng, với một cam kết — nhất quán với Khung Đa dạng sinh học Toàn cầu Côn Minh-Montreal và Chính sách Quốc gia về Đa dạng Sinh học 2.0 — bảo tồn ít nhất 20% các khu vực trên cạn và nội thủy vào năm 2030.

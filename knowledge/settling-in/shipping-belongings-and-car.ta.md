@@ -22,7 +22,7 @@ appliesTo: "மலேசியாவுக்கு இடம்மாறும�
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1a35587b5de4590d"
+sourceContentHash: "e00cd8710f963e53"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -110,7 +110,7 @@ stayFacts:
 
 1. **Approved Permit (AP)**-இன் ஒரு நகல்
 2. அந்த வாகனத்திற்கான **Customs Form K1**
-3. வாகனத்தின் சாலைத் தகுதியையும் விவரக்குறிப்புகளையும் உறுதிப்படுத்தும் ஒரு **PUSPAKOM சோதனை அறிக்கை**
+3. வாகனத்தின் சாலைத் தகுதியையும் விவரக்குறிப்புகளையும் உறுதிப்படுத்தும் ஒரு **[PUSPAKOM](/ta/transport/puspakom-vehicle-inspections) சோதனை அறிக்கை**
 
 இவை ஒரு JPJ கவுண்டரில் அல்ல, மின்னணு முறையில் சமர்ப்பிக்கப்படுகின்றன — பதிவுத் தரவு JPJ நியமித்த மூன்று **Gateway Providers**-இல் ஒன்றின் வழியாகச் செல்கிறது (Cuscapi Berhad, Drosstech Sdn Bhd, அல்லது POIS Sdn Bhd); ஒவ்வொன்றும் ஒவ்வொரு சமர்ப்பிப்புக்கும் RM50 என்ற JPJ சேவைக் கட்டணத்தை வசூலிக்கிறது. அந்தத் தரவு JPJ-ஐ அடைந்து அனுமதி பெற்ற பிறகுதான் வாகனத்திற்கு ஒரு மலேசியப் பதிவு எண் கிடைக்கிறது; அப்போது வழக்கமான சாலை வரி மற்றும் மோட்டார் காப்பீட்டுத் தேவைகள் மற்ற எந்த மலேசியப் பதிவு காரையும் போலவே பொருந்தும் — அடுத்து வருவதற்கு [மோட்டார் காப்பீடு](/ta/transport/motor-insurance) மற்றும் [சாலை வரி புதுப்பித்தல்](/ta/transport/road-tax-renewal) ஆகியவற்றைப் பார்க்கவும்.
 

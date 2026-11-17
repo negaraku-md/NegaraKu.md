@@ -119,7 +119,7 @@ GXBank set the pace as Malaysia's first digital bank to commence operations, in 
 This is the most common point of confusion. A digital bank and an e-wallet both live on your phone, but legally they are very different animals.
 
 - A **digital bank** holds a banking licence. It takes deposits, can pay interest or profit, and can lend. Its eligible deposits are protected by PIDM.
-- An **e-wallet** (such as a Touch 'n Go eWallet balance) is an e-money issuer used mainly for payments. It is not a deposit-taking bank, so the balance is not covered by PIDM deposit insurance.
+- An **e-wallet** (such as a [Touch 'n Go](/transport/touch-n-go) eWallet balance) is an e-money issuer used mainly for payments. It is not a deposit-taking bank, so the balance is not covered by PIDM deposit insurance.
 
 In short: a digital bank is a bank. An e-wallet is a payment tool.
 

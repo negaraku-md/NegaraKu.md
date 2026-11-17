@@ -109,7 +109,7 @@ An AP and a paid duty bill still don't put you behind the wheel legally. Before 
 
 1. A copy of the **Approved Permit (AP)**
 2. The **Customs Form K1** for the vehicle
-3. A **PUSPAKOM inspection report** confirming the vehicle's roadworthiness and specifications
+3. A **[PUSPAKOM](/transport/puspakom-vehicle-inspections) inspection report** confirming the vehicle's roadworthiness and specifications
 
 These are submitted electronically, not over a JPJ counter — registration data goes through one of JPJ's three appointed **Gateway Providers** (Cuscapi Berhad, Drosstech Sdn Bhd, or POIS Sdn Bhd), each charging a JPJ service fee of RM50 per submission. Only after that data reaches JPJ and clears does the vehicle get a Malaysian registration number, at which point ordinary road tax and motor insurance requirements apply like any other Malaysian-registered car — see [motor insurance](/en/transport/motor-insurance) and [road tax renewal](/en/transport/road-tax-renewal) for what follows next.
 

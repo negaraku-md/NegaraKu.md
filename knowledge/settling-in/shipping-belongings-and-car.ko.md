@@ -19,7 +19,7 @@ keyTakeaways:
   - "차량 등록은 JPJ의 세 지정 게이트웨이 제공자 중 하나를 통해 전자적으로 제출되며, 제출당 RM50의 JPJ 서비스 수수료가 붙습니다"
 appliesTo: "말레이시아로 이주하는 누구든 — 귀국하는 말레이시아인, 새로 채용된 주재원, MM2H 참가자 — 무엇을 운송할지, 그리고 개인 소유 차를 운송하는 것이 현실적인지 결정하는 사람."
 lang: "ko"
-sourceContentHash: "1a35587b5de4590d"
+sourceContentHash: "e00cd8710f963e53"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -109,7 +109,7 @@ AP와 납부된 관세 청구서만으로도 여전히 합법적으로 운전대
 
 1. **승인 허가(AP)** 사본
 2. 차량에 대한 **세관 양식 K1**
-3. 차량의 도로 주행 적합성과 사양을 확인하는 **PUSPAKOM 검사 보고서**
+3. 차량의 도로 주행 적합성과 사양을 확인하는 **[PUSPAKOM](/ko/transport/puspakom-vehicle-inspections) 검사 보고서**
 
 이들은 JPJ 창구가 아니라 전자적으로 제출됩니다 — 등록 데이터는 JPJ의 세 지정 **게이트웨이 제공자**(Cuscapi Berhad, Drosstech Sdn Bhd, 또는 POIS Sdn Bhd) 중 하나를 거치며, 각각 제출당 RM50의 JPJ 서비스 수수료를 부과합니다. 그 데이터가 JPJ에 도달하여 통과된 후에야 차량은 말레이시아 등록 번호를 받으며, 그 시점에 다른 말레이시아 등록 차량과 마찬가지로 일반 도로세와 자동차 보험 요건이 적용됩니다 — 다음에 이어지는 것에 관해서는 [자동차 보험](/ko/transport/motor-insurance)과 [도로세 갱신](/ko/transport/road-tax-renewal)을 참조하십시오.
 

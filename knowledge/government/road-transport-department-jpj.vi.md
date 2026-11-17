@@ -29,7 +29,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d3de00140a544bd9"
+sourceContentHash: "94d96ff23ee94d3f"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -92,7 +92,7 @@ Các trách nhiệm của JPJ tụ lại thành một vài lĩnh vực cốt lõ
 
 - **Cấp phép tài xế.** JPJ cấp và gia hạn giấy phép lái xe và đặt ra cấu trúc giấy phép. Học viên bắt đầu với một **Giấy phép Lái xe Học viên (LDL)** và trưng biển 「L」; tài xế mới sau đó giữ một **Giấy phép Lái xe Thử việc (PDL)** với biển 「P」 trong hai năm thử việc trước khi đủ điều kiện nhận **Giấy phép Lái xe Thành thạo (CDL)** đầy đủ. Tài xế thương mại ngoài ra cần một **giấy phép nghề nghiệp** — một Giấy phép Lái xe Chở hàng (GDL) cho xe tải và phương tiện chở hàng, hoặc một giấy phép Phương tiện Dịch vụ Công cộng (PSV) cho taxi, xe buýt và gọi xe điện tử.
 - **Đăng ký phương tiện cơ giới.** Mọi phương tiện cơ giới phải được đăng ký với JPJ, cơ quan ghi lại quyền sở hữu, gán chi tiết đăng ký (biển số) và xử lý việc chuyển nhượng quyền sở hữu.
-- **Thuế đường bộ (LKM).** Cái mà người Malaysia gọi là thuế đường bộ (*cukai jalan*) chính thức là **Giấy phép Phương tiện Cơ giới** — *Lesen Kenderaan Motor*, hay **LKM** — mà JPJ cấp để cho phép một phương tiện được sử dụng trên đường công cộng. Cổng MyGovernment mô tả LKM là do JPJ cấp để cho phép một phương tiện hoạt động trên đường, với bảo hiểm phương tiện cơ giới còn hiệu lực là điều kiện tiên quyết để gia hạn.
+- **Thuế đường bộ (LKM).** Cái mà người Malaysia gọi là thuế đường bộ (*cukai jalan*) chính thức là **Giấy phép Phương tiện Cơ giới** — *[Lesen Kenderaan Motor](/vi/transport/road-tax-renewal)*, hay **LKM** — mà JPJ cấp để cho phép một phương tiện được sử dụng trên đường công cộng. Cổng MyGovernment mô tả LKM là do JPJ cấp để cho phép một phương tiện hoạt động trên đường, với bảo hiểm phương tiện cơ giới còn hiệu lực là điều kiện tiên quyết để gia hạn.
 - **Biển số.** JPJ kiểm soát hệ thống số đăng ký, bao gồm cả việc đấu giá các biển số đặc biệt và cá nhân hóa qua các nền tảng đấu thầu của nó.
 - **Cấp phép phương tiện thương mại.** JPJ quản lý việc cấp phép cho phương tiện chở hàng và phương tiện dịch vụ công cộng, công việc về mặt lịch sử gắn với khuôn khổ Hội đồng Cấp phép Phương tiện Thương mại.
 - **Thực thi.** JPJ vận hành các hoạt động thực thi của riêng mình chống lại các tài xế không phép, phương tiện không đăng ký hoặc không đủ điều kiện lưu thông, xe tải quá tải và các vi phạm khác, và vận hành hệ thống điểm trừ **KEJARA** phạt những người vi phạm giao thông.

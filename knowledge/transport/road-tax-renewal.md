@@ -96,7 +96,7 @@ Kenderaan komersial mempunyai peraturan tempoh yang berbeza, memandangkan ia ser
 
 ## Jika terlepas terlalu lama
 
-Tiada had rasmi berapa lama kenderaan boleh "berehat" tanpa LKM sebelum ia dianggap masalah teknikal — tetapi JPJ menetapkan satu syarat jelas: **jika LKM tidak diperbaharui lebih tiga tahun**, kenderaan itu mesti dibawa untuk pemeriksaan di Puspakom bagi mendapatkan laporan B2 (atau pemeriksaan PG10 khusus bagi motosikal milik individu). Hanya selepas laporan itu diperoleh, pemilik atau wakilnya boleh ke pejabat JPJ dengan dokumen pendaftaran asal dan bayaran yang mencukupi untuk meneruskan pembaharuan.
+Tiada had rasmi berapa lama kenderaan boleh "berehat" tanpa LKM sebelum ia dianggap masalah teknikal — tetapi JPJ menetapkan satu syarat jelas: **jika LKM tidak diperbaharui lebih tiga tahun**, kenderaan itu mesti dibawa untuk pemeriksaan di [Puspakom](/transport/puspakom-vehicle-inspections) bagi mendapatkan laporan B2 (atau pemeriksaan PG10 khusus bagi motosikal milik individu). Hanya selepas laporan itu diperoleh, pemilik atau wakilnya boleh ke pejabat JPJ dengan dokumen pendaftaran asal dan bayaran yang mencukupi untuk meneruskan pembaharuan.
 
 Ini bermakna kenderaan yang dibiarkan terbengkalai bertahun-tahun tidak boleh terus diperbaharui secara dalam talian — ia perlu melalui semakan fizikal dahulu.
 

@@ -51,7 +51,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "300ad373430dce8b"
+sourceContentHash: "77f26148404eb5f2"
 
 status: "published"
 aiAssisted: true
@@ -166,7 +166,7 @@ KLIA 占全国空运货量的 75%。槟城以 114,551 公吨，是唯一另一�
 
 ## ECRL 究竟改变了什么，又是什么时候？
 
-东海岸铁路衔接线**截至 2026 年 2 月已完成 92.62%**，哥打峇鲁至鹅唛段全长 519 km 的轨道已全部铺设完毕。分阶段的安排比标题更重要：
+[东海岸铁路衔接线](/zh/transport/east-coast-rail-link-ecrl)**截至 2026 年 2 月已完成 92.62%**，哥打峇鲁至鹅唛段全长 519 km 的轨道已全部铺设完毕。分阶段的安排比标题更重要：
 
 | 路段 | 完工 | 营运 |
 | --- | --- | --- |

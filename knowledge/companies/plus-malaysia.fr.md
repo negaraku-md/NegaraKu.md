@@ -28,7 +28,7 @@ faq:
     a: "En vertu de la décision de 2020, les tarifs de péage ont été réduits de 18% à compter du 1er février 2020, et aucune hausse de péage n'est prévue pendant toute la période de concession prolongée jusqu'en 2058."
 
 lang: "fr"
-sourceContentHash: "6a089759a8d1ba8f"
+sourceContentHash: "3030e02b122487e7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -123,7 +123,7 @@ Selon The Edge Malaysia, la réduction de péage de 18% pour les véhicules priv
 
 Pour l'usager ordinaire, l'effet pratique est clair : des tarifs de péage plus bas et stables jusqu'en 2058, sans les hausses périodiques observées auparavant. PLUS, de son côté, reste responsable de la gestion des actifs, des opérations et du financement de l'entretien tout au long de la période prolongée.
 
-La carte Touch 'n Go, introduite en **1997**, permet le paiement électronique du péage sur les autoroutes de PLUS et marque le virage en cours vers des opérations sans espèces.
+La carte [Touch 'n Go](/fr/transport/touch-n-go), introduite en **1997**, permet le paiement électronique du péage sur les autoroutes de PLUS et marque le virage en cours vers des opérations sans espèces.
 
 ## Et ensuite
 

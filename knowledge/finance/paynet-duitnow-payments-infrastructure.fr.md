@@ -29,7 +29,7 @@ faq:
     a: "Oui. DuitNow QR est interopérable, de sorte que l'unique code QR d'un commerçant peut être scanné par différentes banques et différents portefeuilles électroniques comme Touch 'n Go eWallet, GrabPay et Boost, dès lors qu'ils y participent."
 
 lang: "fr"
-sourceContentHash: "4d9809544dd36b01"
+sourceContentHash: "4ae276cb59bc3eb5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,7 +108,7 @@ PayNet exploite les voies ; les banques et portefeuilles électroniques que vous
 
 ## Pourquoi l'interopérabilité importe-t-elle ?
 
-Tout l'intérêt d'un réseau partagé est que vous ne devriez pas avoir à vous soucier de la banque ou du portefeuille qu'utilise l'autre personne. DuitNow QR est délibérément interopérable : un unique code QR de commerçant peut être scanné par Touch 'n Go eWallet, GrabPay, Boost ou l'application de n'importe quelle banque participante.
+Tout l'intérêt d'un réseau partagé est que vous ne devriez pas avoir à vous soucier de la banque ou du portefeuille qu'utilise l'autre personne. DuitNow QR est délibérément interopérable : un unique code QR de commerçant peut être scanné par [Touch 'n Go](/fr/transport/touch-n-go) eWallet, GrabPay, Boost ou l'application de n'importe quelle banque participante.
 
 Cette conception devient désormais obligatoire. Pour empêcher le marché de se fragmenter en jardins clos, la BNM a décrété que les réseaux de code QR propriétaires doivent être abandonnés avant le 30 juin 2028, après une transition de deux ans durant laquelle les opérateurs concernés ne peuvent pas intégrer de nouveaux commerçants. L'objectif, selon les termes de la BNM, est un environnement où tous les paiements QR en Malaisie sont interopérables.
 

@@ -36,7 +36,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8f5aa15915a64a18"
+sourceContentHash: "7d38e6c3a9bd713c"
 
 status: "published"
 aiAssisted: true
@@ -169,7 +169,7 @@ Ampang/Sri Petaling Line 交会的地点，对于需要在这两条较早期的 
 ## 规划一趟跨路线的行程
 
 只要行程完全局限在 Rapid Rail 自家的网络内——LRT、MRT、单轨列车或 Shah Alam
-Line——一张 Touch 'n Go 卡、直接在闸门感应的银行感应卡，或是在车站售票机购买
+Line——一张 [Touch 'n Go](/zh/transport/touch-n-go) 卡、直接在闸门感应的银行感应卡，或是在车站售票机购买
 的代币，就能载着乘客走完行程所需的任意多条路线，每次转乘都不需要另外购票。
 **MyRapid Pulse** 应用程式（Rapid KL 官方的行程规划工具）涵盖的正是这一整套
 服务——MRT、LRT、单轨列车、Sunway BRT 与 Rapid KL 的接驳巴士——并提供实时到站

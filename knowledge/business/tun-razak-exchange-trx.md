@@ -140,7 +140,7 @@ TRX was designed as a **mixed-use district**, not an office-only enclave — a d
 
 ## Getting there
 
-Connectivity was built in from the start. The **Tun Razak Exchange MRT station**, open since **2017**, sits at the district and is served by two MRT lines, tying TRX directly into the Klang Valley rail network. That transit anchor is part of what distinguishes a planned financial district from a scattering of towers.
+Connectivity was built in from the start. The **Tun Razak Exchange MRT station**, open since **2017**, sits at the district and is served by two MRT lines, tying TRX directly into the [Klang Valley rail network](/transport/klang-valley-rail). That transit anchor is part of what distinguishes a planned financial district from a scattering of towers.
 
 ## The origin story: 1MDB and the move to MOF Inc
 

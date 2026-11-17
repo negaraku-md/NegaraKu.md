@@ -21,7 +21,7 @@ appliesTo: "マレーシアへ移住する誰もが対象——帰国するマ�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1a35587b5de4590d"
+sourceContentHash: "e00cd8710f963e53"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -108,7 +108,7 @@ APと支払済みの関税の請求書があっても、それだけでは合法
 
 1. **輸入許可証（Approved Permit、AP）** の写し
 2. その車両の **Customs Form K1**
-3. 車両の走行適性および仕様を確認する **PUSPAKOM検査報告書**
+3. 車両の走行適性および仕様を確認する **[PUSPAKOM](/ja/transport/puspakom-vehicle-inspections)検査報告書**
 
 これらはJPJの窓口ではなく、電子的に提出される——登録データは、JPJが指定する3社の **Gateway Provider** の一つ（Cuscapi Berhad、Drosstech Sdn Bhd、またはPOIS Sdn Bhd）を経由し、それぞれが提出1件につきRM50のJPJサービス料を課す。そのデータがJPJに届き、審査を通過して初めて、車両はマレーシアの登録番号を取得する。その時点で、通常の路税や自動車保険の要件が、他のマレーシア登録車と同じように適用される——次に控える手続きについては、[自動車保険](/ja/transport/motor-insurance)と[路税の更新](/ja/transport/road-tax-renewal)を参照してほしい。
 

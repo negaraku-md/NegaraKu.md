@@ -29,7 +29,7 @@ faq:
     a: "不。停车罚单由地方政府（PBT）根据相关路边停车交通法令发出，而针对驾驶违规的交通传票则由警方（PDRM）或陆路交通局（JPJ）发出。"
 
 lang: "zh"
-sourceContentHash: "cec9d7c50b142e19"
+sourceContentHash: "fbbc5c9405ba0df6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -112,7 +112,7 @@ DBKL于**2020年10月1日**停用了售票机及传统路边付费方式，如�
 
 转向无现金付款意味着你必须在停车前下载应用。吉隆坡路边停车接受的选项包括：
 
-- **EZ Smart Park** — 接受 FPX、UnionPay 信用卡、Boost、Touch 'n Go 及 MCash
+- **EZ Smart Park** — 接受 FPX、UnionPay 信用卡、Boost、[Touch 'n Go](/zh/transport/touch-n-go) 及 MCash
 - **Flexi Parking** 和 **Wilayah Parking** — FPX、信用卡（Visa/Mastercard）、Boost、Touch 'n Go 及 GrabPay
 - **Jom Parking** — 网上银行、信用卡/借记卡、Boost 及 GrabPay
 - **MCash** — 网上银行、信用卡、商家/代理、E-Pay Digi 电子券及全马任何 KK Super Mart

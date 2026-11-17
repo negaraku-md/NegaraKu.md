@@ -28,7 +28,7 @@ faq:
     a: "Under the 2020 decision, toll rates were reduced by 18% from 1 February 2020, and no toll increases are scheduled throughout the extended concession period to 2058."
 
 lang: "en"
-sourceContentHash: "6a089759a8d1ba8f"
+sourceContentHash: "3030e02b122487e7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -123,7 +123,7 @@ According to The Edge Malaysia, the 18% toll reduction on private vehicles took 
 
 For the ordinary user, the practical effect is clear: lower and stable toll rates until 2058, without the periodic increases seen previously. PLUS, in turn, continues to hold responsibility for asset management, operations and the financing of maintenance throughout the extended period.
 
-The Touch 'n Go card, introduced in **1997**, enables electronic toll payment on PLUS highways and marks the ongoing shift towards cashless operations.
+The [Touch 'n Go](/en/transport/touch-n-go) card, introduced in **1997**, enables electronic toll payment on PLUS highways and marks the ongoing shift towards cashless operations.
 
 ## What's next
 

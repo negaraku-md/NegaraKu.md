@@ -36,7 +36,7 @@ faq:
     a: "Del objetivo de 15–30 MtCO₂eq, hasta 20 MtCO₂eq son incondicionales — Malasia se compromete a ello pase lo que pase. Otros 10 MtCO₂eq son condicionales, lo que significa que solo se lograrán si se proporcionan financiación climática internacional, transferencia de tecnología y apoyo a la creación de capacidades."
 
 lang: "es"
-sourceContentHash: "7ad2136668e2982a"
+sourceContentHash: "6a0b336c4432c9c8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -182,7 +182,7 @@ Por encima de ambos, Malasia señala que recurrirá a la **cooperación voluntar
 La NDC 3.0 alinea la acción interna con los resultados del primer Balance Mundial. En la práctica eso se traduce en un puñado de palancas concretas:
 
 - **Energía.** En el marco de la NETR, las centrales de carbón están destinadas a una jubilación casi completa mediante eliminaciones graduales naturales sin nuevas adiciones, las energías renovables han de aportar una contribución sustancial a la capacidad instalada, y el gas natural sigue siendo un combustible de transición.
-- **Transporte.** Gran inversión en ferrocarril — el East Coast Rail Link (ECRL), el LRT3 y el MRT3 — junto con una transición acelerada al vehículo eléctrico y proyectos piloto de hidrógeno en el transporte pesado.
+- **Transporte.** Gran inversión en ferrocarril — el [East Coast Rail Link](/es/transport/east-coast-rail-link-ecrl) (ECRL), el LRT3 y el MRT3 — junto con una transición acelerada al vehículo eléctrico y proyectos piloto de hidrógeno en el transporte pesado.
 - **Reforma de los subsidios a los combustibles fósiles.** Malasia empezó a eliminar los subsidios generalizados al diésel el 10 de junio de 2024, dejando que el precio peninsular fluctúe según las tarifas de mercado mientras mantiene tarifas subsidiadas para Sabah, Sarawak y Labuan y para grupos específicos como los pescadores mediante esquemas como la Diesel Fleet Card 2.0.
 - **Metano y otros gases distintos del CO₂.** Ampliar la captura de metano de la gestión de residuos sólidos y el tratamiento de aguas residuales industriales.
 - **Bosques y uso de la tierra.** Reforzados por la Ley Forestal Nacional de 2022 y un mecanismo de Traspaso Fiscal Ecológico que premia a los estados por la protección de los bosques, con un compromiso — coherente con el Marco Mundial de Biodiversidad de Kunming-Montreal y la Política Nacional sobre Diversidad Biológica 2.0 — de conservar al menos el 20% de las áreas terrestres y las aguas interiores de aquí a 2030.

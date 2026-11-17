@@ -36,7 +36,7 @@ faq:
     a: "Couvrez vos épaules et vos genoux. À l'entrée, des sarongs sont généralement disponibles à emprunter ou à louer si votre tenue est trop découverte. Des chaussures confortables aident pour le long escalier qui monte jusqu'à la grotte-temple principale."
 
 lang: "fr"
-sourceContentHash: "2716ca2d76a67d28"
+sourceContentHash: "83577f20656ec6a9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -135,7 +135,7 @@ Une note pratique : le KLIA Ekspres n'est pas affecté par le trafic routier, c'
 
 Kuala Lumpur fonctionne sur trois réseaux ferroviaires connectés — **MRT**, **LRT** et le **monorail** — complétés par les bus et Grab. Ensemble, ils desservent presque tous les endroits où un visiteur de passage souhaite se rendre, et ils sont bon marché.
 
-Le moyen le plus simple de payer est une carte **Touch 'n Go**, une carte sans contact rechargeable que l'on valide aux portiques de toutes les lignes ferroviaires et dans les bus. Vous pouvez en acheter et la recharger aux guichets des stations et dans les commerces de proximité. Si vous préférez ne pas gérer une carte à valeur stockée, les cartes bancaires sans contact et les paiements par QR sont de plus en plus acceptés aux portiques.
+Le moyen le plus simple de payer est une carte **[Touch 'n Go](/fr/transport/touch-n-go)**, une carte sans contact rechargeable que l'on valide aux portiques de toutes les lignes ferroviaires et dans les bus. Vous pouvez en acheter et la recharger aux guichets des stations et dans les commerces de proximité. Si vous préférez ne pas gérer une carte à valeur stockée, les cartes bancaires sans contact et les paiements par QR sont de plus en plus acceptés aux portiques.
 
 Pour des trajets illimités, Rapid KL vend des forfaits journaliers. Les citoyens malaisiens peuvent acheter le **Rapid Kota Pass** à **RM10 pour un jour** ou **RM25 pour trois jours**, qui couvre les trajets illimités sur le LRT, le MRT, le monorail, le BRT et les bus de Rapid KL. Les touristes disposent d'un forfait illimité équivalent, le **Rapid Kembara Pass**, vendu aux guichets du service client des stations — demandez au personnel le prix et la validité en vigueur au moment de l'achat.
 

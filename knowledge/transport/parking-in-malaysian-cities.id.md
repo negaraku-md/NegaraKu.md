@@ -29,7 +29,7 @@ faq:
     a: "Tidak. Kompaun parkir dikeluarkan oleh PBT di bawah perintah lalu lintas jalan terkait parkir, sementara tilang lalu lintas untuk pelanggaran mengemudi dikeluarkan oleh PDRM atau JPJ."
 
 lang: "id"
-sourceContentHash: "cec9d7c50b142e19"
+sourceContentHash: "fbbc5c9405ba0df6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -112,7 +112,7 @@ Di Petaling Jaya, aplikasi Smart Selangor Parking mengenakan **60 sen per jam** 
 
 Peralihan ke pembayaran tanpa tunai berarti Anda perlu mengunduh aplikasi sebelum memarkir. Di antara pilihan yang diterima untuk parkir tepi jalan KL:
 
-- **EZ Smart Park** — menerima FPX, kartu kredit UnionPay, Boost, Touch 'n Go dan MCash
+- **EZ Smart Park** — menerima FPX, kartu kredit UnionPay, Boost, [Touch 'n Go](/id/transport/touch-n-go) dan MCash
 - **Flexi Parking** dan **Wilayah Parking** — FPX, kartu kredit (Visa/Mastercard), Boost, Touch 'n Go dan GrabPay
 - **Jom Parking** — perbankan daring, kartu kredit/debit, Boost dan GrabPay
 - **MCash** — perbankan daring, kartu kredit, merchant/agen, voucher E-Pay Digi dan di mana saja KK Super Mart

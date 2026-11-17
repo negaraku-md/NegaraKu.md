@@ -34,7 +34,7 @@ faq:
     a: "Sí. Las cuatro —TNG Digital Sdn Bhd, Axiata Digital E-code Sdn Bhd (Boost), GPay Network (M) Sdn Bhd (GrabPay) y ShopeePay Malaysia Sdn Bhd— figuran como emisores de dinero electrónico no bancarios en la lista oficial de BNM."
 
 lang: "es"
-sourceContentHash: "3baa675be6fcede6"
+sourceContentHash: "73693ba617d202b7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,7 +85,7 @@ Tocas «pagar» en el mostrador, el saldo de tu billetera electrónica baja unos
 
 ## ¿Quién regula las billeteras electrónicas en Malasia?
 
-Las billeteras electrónicas como Touch 'n Go eWallet, Boost, GrabPay y ShopeePay no son bancos. Están reguladas por el Bank Negara Malaysia (BNM) como **emisores de dinero electrónico** (EMI), aprobados conforme a la **sección 11 de la Ley de Servicios Financieros de 2013 (FSA)** —o la sección 11 de la Ley de Servicios Financieros Islámicos de 2013 (IFSA) para los productos conformes con la sharía.
+Las billeteras electrónicas como [Touch 'n Go](/es/transport/touch-n-go) eWallet, Boost, GrabPay y ShopeePay no son bancos. Están reguladas por el Bank Negara Malaysia (BNM) como **emisores de dinero electrónico** (EMI), aprobados conforme a la **sección 11 de la Ley de Servicios Financieros de 2013 (FSA)** —o la sección 11 de la Ley de Servicios Financieros Islámicos de 2013 (IFSA) para los productos conformes con la sharía.
 
 El marco detallado se establece en el *Documento de Política de Dinero Electrónico (E-Money)* de BNM, en vigor desde el **31 de enero de 2025**. Define el dinero electrónico como un instrumento de pago que «almacena fondos de forma electrónica a cambio de fondos pagados al emisor» y que puede usarse para realizar pagos a partes distintas del emisor.
 

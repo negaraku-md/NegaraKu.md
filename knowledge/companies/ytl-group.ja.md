@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "430ec56c95aad0ac"
+sourceContentHash: "50fb36d32d88cbec"
 
 status: "published"
 aiAssisted: true
@@ -101,7 +101,7 @@ YTL Corporation Berhadは主要な持株会社であり、証券コード4677で
 | YTL Power International | 6742 | 公益事業とデジタルインフラ | FTSE Bursa Malaysia KLCI構成銘柄 |
 | Malayan Cement | — | セメントと建材 | 過半数出資の間接子会社（YTL Cement経由）；2024財年売上高RM44億5,000万、純利益RM42,870万 |
 
-Malayan Cementはグループのセメント・建材事業を担っており、YTL Cementを通じて保有される過半数出資の間接子会社である。同社は2024財年に売上高RM44億5,000万（前年比18.3%増）、純利益RM42,870万を計上した——これは前年のRM15,904万から約170%の急増であり、East Coast Rail Link（東海岸鉄道連結線）などのインフラ大型プロジェクトに牽引された力強い回復の年となった。
+Malayan Cementはグループのセメント・建材事業を担っており、YTL Cementを通じて保有される過半数出資の間接子会社である。同社は2024財年に売上高RM44億5,000万（前年比18.3%増）、純利益RM42,870万を計上した——これは前年のRM15,904万から約170%の急増であり、[East Coast Rail Link](/ja/transport/east-coast-rail-link-ecrl)（東海岸鉄道連結線）などのインフラ大型プロジェクトに牽引された力強い回復の年となった。
 
 ## 公益事業はどこに位置づけられているか？
 

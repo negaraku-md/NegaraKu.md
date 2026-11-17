@@ -32,7 +32,7 @@ faq:
     a: "Es el marco que ambos gobiernos adoptaron para describir la siguiente fase de los lazos, sobre la base de la asociación estratégica integral establecida en 2013. El concepto se planteó a partir de 2023 y se formalizó en una declaración conjunta durante la visita de Estado del presidente Xi Jinping el 17 de abril de 2025. Establece la cooperación en comercio, tecnología, infraestructura y vínculos de persona a persona."
 
 lang: "es"
-sourceContentHash: "b7ef3c40f5decdc1"
+sourceContentHash: "9ee992bd350184d4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,7 +92,7 @@ La arquitectura política se ha ido actualizando de forma constante para estar a
 
 Porque las cifras empequeñecen a casi cualquier otro socio. China ha sido el mayor socio comercial de Malasia durante 16 años consecutivos, una racha que comenzó en 2009. En 2024, el comercio bilateral alcanzó un máximo histórico de US$212.04 mil millones.
 
-La relación no se limita a los flujos comerciales. Solo en los tres primeros trimestres de 2024, Malasia registró RM29.1 mil millones (alrededor de US$6.3 mil millones) en inversión extranjera directa procedente de China, aproximadamente un 39 por ciento más que en el mismo periodo del año anterior. El capital y la tecnología chinos están entretejidos en algunos de los proyectos emblemáticos de Malasia: el East Coast Rail Link, la alianza Proton–Geely y las zonas industriales «Dos Países, Parques Gemelos» en Kuantan y Qinzhou. Los flujos de persona a persona también se han disparado, impulsados por la entrada sin visado para ciudadanos chinos que entró en vigor el 1 de diciembre de 2023 —inicialmente un acuerdo unilateral, convertido después en recíproco y permanente mediante un acuerdo mutuo de exención de visado en 2025—. China Briefing informa de que la flexibilización atrajo a más de 3.8 millones de visitantes chinos.
+La relación no se limita a los flujos comerciales. Solo en los tres primeros trimestres de 2024, Malasia registró RM29.1 mil millones (alrededor de US$6.3 mil millones) en inversión extranjera directa procedente de China, aproximadamente un 39 por ciento más que en el mismo periodo del año anterior. El capital y la tecnología chinos están entretejidos en algunos de los proyectos emblemáticos de Malasia: el [East Coast Rail Link](/es/transport/east-coast-rail-link-ecrl), la alianza Proton–Geely y las zonas industriales «Dos Países, Parques Gemelos» en Kuantan y Qinzhou. Los flujos de persona a persona también se han disparado, impulsados por la entrada sin visado para ciudadanos chinos que entró en vigor el 1 de diciembre de 2023 —inicialmente un acuerdo unilateral, convertido después en recíproco y permanente mediante un acuerdo mutuo de exención de visado en 2025—. China Briefing informa de que la flexibilización atrajo a más de 3.8 millones de visitantes chinos.
 
 | Dimensión | Estado | Fuente |
 |---|---|---|

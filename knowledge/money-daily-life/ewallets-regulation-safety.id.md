@@ -34,7 +34,7 @@ faq:
     a: "Ya. Keempat-empatnya — TNG Digital Sdn Bhd, Axiata Digital E-code Sdn Bhd (Boost), GPay Network (M) Sdn Bhd (GrabPay), dan ShopeePay Malaysia Sdn Bhd — tercantum sebagai penerbit uang elektronik bukan bank dalam daftar resmi BNM."
 
 lang: "id"
-sourceContentHash: "3baa675be6fcede6"
+sourceContentHash: "73693ba617d202b7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,7 +85,7 @@ Anda tekan "bayar" di kasir, saldo e-wallet berkurang beberapa ringgit, dan tran
 
 ## Siapa yang mengatur e-wallet di Malaysia?
 
-E-wallet seperti Touch 'n Go eWallet, Boost, GrabPay, dan ShopeePay bukan bank. Mereka diatur oleh Bank Negara Malaysia (BNM) sebagai **penerbit uang elektronik** (*e-money issuer*, atau EMI), disetujui di bawah **Pasal 11 Financial Services Act 2013 (FSA)** — atau Pasal 11 Islamic Financial Services Act 2013 (IFSA) bagi produk patuh Syariah.
+E-wallet seperti [Touch 'n Go](/id/transport/touch-n-go) eWallet, Boost, GrabPay, dan ShopeePay bukan bank. Mereka diatur oleh Bank Negara Malaysia (BNM) sebagai **penerbit uang elektronik** (*e-money issuer*, atau EMI), disetujui di bawah **Pasal 11 Financial Services Act 2013 (FSA)** — atau Pasal 11 Islamic Financial Services Act 2013 (IFSA) bagi produk patuh Syariah.
 
 Kerangka kerja terperinci terkandung dalam *Electronic Money (E-Money) Policy Document* BNM yang berlaku efektif **31 Januari 2025**. Dokumen ini mendefinisikan uang elektronik sebagai instrumen pembayaran yang "menyimpan dana secara elektronik sebagai pertukaran dana yang dibayar kepada penerbit" dan dapat digunakan untuk membuat pembayaran kepada pihak selain penerbit.
 

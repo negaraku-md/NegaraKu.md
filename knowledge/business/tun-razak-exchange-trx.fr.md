@@ -37,7 +37,7 @@ faq:
     a: "Le TRX dispose de sa propre station ferroviaire, la station de MRT Tun Razak Exchange, en service depuis 2017 et desservie par deux lignes de MRT. L'accès routier est assuré par le réseau environnant du centre de Kuala Lumpur."
 
 lang: "fr"
-sourceContentHash: "3ada5248558e634e"
+sourceContentHash: "cccc89ca0e73837c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -141,7 +141,7 @@ Le TRX a été conçu comme un **quartier à usage mixte**, et non comme une enc
 
 ## Comment s'y rendre
 
-La connectivité a été intégrée dès le départ. La **station de MRT Tun Razak Exchange**, ouverte depuis **2017**, se trouve dans le quartier et est desservie par deux lignes de MRT, reliant le TRX directement au réseau ferroviaire de la vallée du Klang. Cet ancrage aux transports fait partie de ce qui distingue un quartier financier planifié d'un éparpillement de tours.
+La connectivité a été intégrée dès le départ. La **station de MRT Tun Razak Exchange**, ouverte depuis **2017**, se trouve dans le quartier et est desservie par deux lignes de MRT, reliant le TRX directement au [réseau ferroviaire de la vallée du Klang](/fr/transport/klang-valley-rail). Cet ancrage aux transports fait partie de ce qui distingue un quartier financier planifié d'un éparpillement de tours.
 
 ## L'histoire des origines : 1MDB et le passage au MOF Inc
 

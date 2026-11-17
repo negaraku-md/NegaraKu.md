@@ -29,7 +29,7 @@ faq:
     a: "Có. DuitNow QR có thể tương tác, nên một mã QR duy nhất của người bán có thể được quét bởi các ngân hàng và ví điện tử khác nhau như Touch 'n Go eWallet, GrabPay và Boost, miễn là chúng tham gia."
 
 lang: "vi"
-sourceContentHash: "4d9809544dd36b01"
+sourceContentHash: "4ae276cb59bc3eb5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,7 +108,7 @@ PayNet vận hành hạ tầng; các ngân hàng và ví điện tử bạn dùn
 
 ## Vì sao khả năng tương tác quan trọng?
 
-Toàn bộ điểm của một mạng lưới dùng chung là bạn không cần phải quan tâm người kia dùng ngân hàng hay ví nào. DuitNow QR được thiết kế có chủ ý để có thể tương tác: một mã QR duy nhất của người bán có thể được quét bởi Touch 'n Go eWallet, GrabPay, Boost hoặc bất kỳ ứng dụng ngân hàng tham gia nào.
+Toàn bộ điểm của một mạng lưới dùng chung là bạn không cần phải quan tâm người kia dùng ngân hàng hay ví nào. DuitNow QR được thiết kế có chủ ý để có thể tương tác: một mã QR duy nhất của người bán có thể được quét bởi [Touch 'n Go](/vi/transport/touch-n-go) eWallet, GrabPay, Boost hoặc bất kỳ ứng dụng ngân hàng tham gia nào.
 
 Thiết kế đó nay đang trở thành bắt buộc. Để ngăn thị trường phân mảnh thành các khu vườn có tường bao, BNM đã ra quy định rằng các mạng lưới mã QR độc quyền phải bị chấm dứt trước ngày 30 tháng 6 năm 2028, sau một giai đoạn chuyển tiếp hai năm trong đó các bên vận hành bị ảnh hưởng không thể tiếp nhận người bán mới. Mục tiêu, theo lời của BNM, là một môi trường nơi mọi thanh toán QR ở Malaysia đều có thể tương tác.
 

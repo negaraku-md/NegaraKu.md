@@ -32,7 +32,7 @@ faq:
     a: "Ia adalah rangka kerja yang diguna pakai oleh kedua-dua kerajaan untuk menggambarkan fasa hubungan seterusnya, dibina di atas perkongsian strategik menyeluruh yang dijalinkan pada 2013. Konsep ini dibangkitkan sejak 2023 dan dirasmikan dalam kenyataan bersama semasa lawatan negara Presiden Xi Jinping pada 17 April 2025. Ia menggariskan kerjasama merangkumi perdagangan, teknologi, infrastruktur dan hubungan rakyat dengan rakyat."
 
 lang: "ms"
-sourceContentHash: "b7ef3c40f5decdc1"
+sourceContentHash: "9ee992bd350184d4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,7 +92,7 @@ Seni bina politiknya turut dinaik taraf secara berterusan agar setanding. Kedua-
 
 Kerana angkanya jauh mengatasi hampir setiap rakan lain. China telah menjadi rakan dagang terbesar Malaysia selama 16 tahun berturut-turut, satu tempoh yang bermula pada 2009. Pada 2024, perdagangan dua hala mencecah rekod tertinggi AS$212.04 bilion.
 
-Hubungan ini bukan hanya mengenai aliran perdagangan. Dalam tiga suku pertama 2024 sahaja, Malaysia mencatatkan RM29.1 bilion (kira-kira AS$6.3 bilion) dalam pelaburan langsung asing daripada China — lebih kurang 39 peratus lebih tinggi berbanding tempoh yang sama setahun sebelumnya. Modal dan teknologi China terjalin dalam beberapa projek utama Malaysia: Laluan Rel Pantai Timur, kerjasama Proton–Geely, dan zon perindustrian "Dua Negara, Taman Kembar" di Kuantan dan Qinzhou. Aliran rakyat dengan rakyat turut melonjak, dibantu oleh kemasukan bebas visa untuk rakyat China yang berkuat kuasa pada 1 Disember 2023 — pada mulanya satu susunan sepihak yang kemudiannya dijadikan timbal balik dan kekal di bawah perjanjian pengecualian visa bersama pada 2025. China Briefing melaporkan pelonggaran itu menarik lebih 3.8 juta pelawat China.
+Hubungan ini bukan hanya mengenai aliran perdagangan. Dalam tiga suku pertama 2024 sahaja, Malaysia mencatatkan RM29.1 bilion (kira-kira AS$6.3 bilion) dalam pelaburan langsung asing daripada China — lebih kurang 39 peratus lebih tinggi berbanding tempoh yang sama setahun sebelumnya. Modal dan teknologi China terjalin dalam beberapa projek utama Malaysia: [Laluan Rel Pantai Timur](/ms/transport/east-coast-rail-link-ecrl), kerjasama Proton–Geely, dan zon perindustrian "Dua Negara, Taman Kembar" di Kuantan dan Qinzhou. Aliran rakyat dengan rakyat turut melonjak, dibantu oleh kemasukan bebas visa untuk rakyat China yang berkuat kuasa pada 1 Disember 2023 — pada mulanya satu susunan sepihak yang kemudiannya dijadikan timbal balik dan kekal di bawah perjanjian pengecualian visa bersama pada 2025. China Briefing melaporkan pelonggaran itu menarik lebih 3.8 juta pelawat China.
 
 | Dimensi | Status | Sumber |
 |---|---|---|

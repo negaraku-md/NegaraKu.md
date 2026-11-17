@@ -29,7 +29,7 @@ faq:
     a: "لا. تصدر الغرامات التصالحية لركن السيارات عن السلطات المحلية (PBT) بموجب أوامر المرور على الطرق المتعلقة بالركن، بينما تصدر مخالفات المرور الخاصة بمخالفات القيادة عن الشرطة الماليزية (PDRM) أو دائرة النقل البري (JPJ)."
 
 lang: "ar"
-sourceContentHash: "cec9d7c50b142e19"
+sourceContentHash: "fbbc5c9405ba0df6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -112,7 +112,7 @@ framework: explainer
 
 يعني التحول إلى الدفع غير النقدي أنه يلزمك تنزيل تطبيق قبل الركن. ومن بين الخيارات المقبولة لركن السيارات على جانب الطريق في كوالالمبور:
 
-- **EZ Smart Park** — يقبل FPX وبطاقات UnionPay الائتمانية وBoost وTouch 'n Go وMCash
+- **EZ Smart Park** — يقبل FPX وبطاقات UnionPay الائتمانية وBoost و[Touch 'n Go](/ar/transport/touch-n-go) وMCash
 - **Flexi Parking** و**Wilayah Parking** — FPX وبطاقات ائتمان (Visa/Mastercard) وBoost وTouch 'n Go وGrabPay
 - **Jom Parking** — الخدمات المصرفية عبر الإنترنت وبطاقات الائتمان/الخصم وBoost وGrabPay
 - **MCash** — الخدمات المصرفية عبر الإنترنت وبطاقات الائتمان والتاجر/الوكيل وقسائم Digi E-Pay وفي أي فرع من KK Super Mart

@@ -33,7 +33,7 @@ faq:
 
 lang: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b74b665148430910"
+sourceContentHash: "c14df7815cfcecfc"
 masterLanguage: "en"
 
 status: "published"
@@ -102,7 +102,7 @@ umum.
 **Rel Lembah Klang** KL — **LRT** (laluan Kelana Jaya, Ampang dan Sri Petaling),
 **MRT** (laluan Kajang dan Putrajaya), **KL Monorail** dan **KTM Komuter** —
 ialah teras praktikal hari hujan, kerana stesen dan kereta api tertutup dan
-berhawa dingin. Bawa kad **Touch 'n Go** dan tap masuk serta keluar; kad bank
+berhawa dingin. Bawa kad **[Touch 'n Go](/transport/touch-n-go)** dan tap masuk serta keluar; kad bank
 tanpa sentuh berfungsi di kebanyakan rangkaian. Penduduk Malaysia yang bergerak
 setiap hari boleh menggunakan pas bulanan tanpa had **My50**, tetapi pelawat
 sekali sahaja biasanya hanya bayar mengikut penggunaan. Pertukaran yang berguna

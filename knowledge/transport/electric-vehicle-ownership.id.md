@@ -31,7 +31,7 @@ faq:
     a: "RM20 setahun untuk EV berdaya 50 kW ke bawah, mengikuti panduan LKM kendaraan listrik JPJ. Tarif meningkat secara progresif untuk daya yang lebih tinggi."
 
 lang: "id"
-sourceContentHash: "926c690f458094f6"
+sourceContentHash: "f81df275bc45182b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,7 +95,7 @@ framework: explainer
 
 Zaman pajak jalan gratis untuk mobil listrik di Malaysia sudah berakhir — tetapi tagihan pertama yang mendarat di MyJPJ Anda mungkin lebih murah daripada yang Anda duga, dan ia dihitung dengan cara yang benar-benar baru.
 
-Sejak 2022, pemerintah membebaskan EV dari pajak jalan untuk mendorong penggunaannya. Pembebasan itu berakhir pada 31 Desember 2025 dan tidak diperpanjang. Mulai 1 Januari 2026, setiap EV pribadi kembali membayar Lesen Kenderaan Motor (LKM) — hanya saja formulanya kini berbeda sama sekali dari mobil bensin.
+Sejak 2022, pemerintah membebaskan EV dari pajak jalan untuk mendorong penggunaannya. Pembebasan itu berakhir pada 31 Desember 2025 dan tidak diperpanjang. Mulai 1 Januari 2026, setiap EV pribadi kembali membayar [Lesen Kenderaan Motor](/id/transport/road-tax-renewal) (LKM) — hanya saja formulanya kini berbeda sama sekali dari mobil bensin.
 
 ## Mengapa EV tidak lagi dihitung mengikuti "cc"?
 

@@ -35,7 +35,7 @@ verificationNeeded:
   - "Hãy xác nhận chiều dài/số ga hiện tại của Tuyến MRT Kajang trực tiếp với MRT Corp hoặc Rapid Rail trước khi xuất bản — Bộ Giao thông và trang tuyến của chính Rapid Rail đưa ra các con số hơi khác nhau (51km/31 ga so với 46km/29 ga), mà bài viết này đã tránh lặp lại nguyên văn trong khi chờ đối chiếu."
 
 lang: "vi"
-sourceContentHash: "8f5aa15915a64a18"
+sourceContentHash: "7d38e6c3a9bd713c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -186,7 +186,7 @@ KL Sentral.
 ## Lên kế hoạch một hành trình vượt tuyến
 
 Đối với bất kỳ chuyến đi nào giới hạn trong mạng lưới riêng của Rapid Rail — LRT, MRT, Monorail hoặc
-Tuyến Shah Alam — một thẻ Touch 'n Go duy nhất, một thẻ ngân hàng không tiếp xúc
+Tuyến Shah Alam — một thẻ [Touch 'n Go](/vi/transport/touch-n-go) duy nhất, một thẻ ngân hàng không tiếp xúc
 được quẹt trực tiếp tại cổng, hoặc một token mua từ một máy tại ga
 đưa một hành khách qua bao nhiêu tuyến trong số đó mà chuyến đi cần, với
 không cần vé riêng tại mỗi điểm chuyển tuyến. Ứng dụng **MyRapid Pulse**

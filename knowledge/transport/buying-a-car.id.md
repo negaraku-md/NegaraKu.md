@@ -30,7 +30,7 @@ faq:
     a: "Bank atau perusahaan pembiayaan didaftarkan sebagai pemilik sah kendaraan itu di bawah Hire-Purchase Act 1967 sepanjang jangka waktu pinjaman. Pembeli adalah pemegang terdaftar yang menggunakan kendaraan itu untuk keperluan harian, dan baru menjadi pemilik terdaftar ketika pinjaman itu dilunasi sepenuhnya dan pihak pembiaya mengeluarkan pelepasan."
 
 lang: "id"
-sourceContentHash: "fbeedb8341d7b377"
+sourceContentHash: "1e94499e976a5044"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,7 +88,7 @@ framework: how-to
 
 Ketika Anda membeli mobil di Malaysia, Anda menandatangani satu perjanjian, tetapi sebenarnya Anda memasuki tiga hubungan terpisah sekaligus: satu dengan siapa pun yang menjual mobil itu kepada Anda, satu dengan siapa pun yang membiayainya, dan satu lagi dengan JPJ, departemen yang menentukan nama siapa yang sebenarnya tertera pada kendaraan itu. Terlewat satu langkah dalam salah satu dari ketiganya, dan mobil yang telah Anda bayar itu, secara hukum, masih belum sepenuhnya milik Anda.
 
-Kebanyakan pembeli pertama kali baru menyadari hal ini ketika sesuatu tidak beres — mobil bekas yang mereka beli ternyata masih dibiayai, atau bank enggan melepaskan pinjaman sampai selembar dokumen dari Puspakom dikemukakan. Tiada satu pun darinya yang sewenang-wenang. Setiap langkah ada untuk menjawab satu pertanyaan: siapa yang sebenarnya bertanggung jawab atas kendaraan ini sekarang?
+Kebanyakan pembeli pertama kali baru menyadari hal ini ketika sesuatu tidak beres — mobil bekas yang mereka beli ternyata masih dibiayai, atau bank enggan melepaskan pinjaman sampai selembar dokumen dari [Puspakom](/id/transport/puspakom-vehicle-inspections) dikemukakan. Tiada satu pun darinya yang sewenang-wenang. Setiap langkah ada untuk menjawab satu pertanyaan: siapa yang sebenarnya bertanggung jawab atas kendaraan ini sekarang?
 
 ## Jawaban ringkas
 

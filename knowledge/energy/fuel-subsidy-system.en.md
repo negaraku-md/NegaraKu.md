@@ -39,7 +39,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b0726e746e504bf9"
+sourceContentHash: "e18d2fccb4cddc2e"
 
 status: "published"
 aiAssisted: true
@@ -176,7 +176,7 @@ Three moving parts operate at once every time you fill up: identity verification
 
 - Inserting the MyKad into a **card reader terminal** at the station.
 - Using an **oil-company app** such as Setel (Petronas) or the Shell app.
-- **Touch 'n Go eWallet** or an Outdoor Payment Terminal (OPT).
+- **[Touch 'n Go](/en/transport/touch-n-go) eWallet** or an Outdoor Payment Terminal (OPT).
 - **Cash payment at the counter** — provided specifically for those without an e-wallet or internet access.
 
 **The quota** limits abuse. Each eligible individual gets **200 litres a month** at the subsidised price — reduced from 300 litres from **1 April 2026**, while the price is kept at RM1.99. From **1 July 2026**, that 200-litre quota is **shared** between subsidised RON95 (RM1.99) and Budi Diesel (RM2.10) — both drawing from the same balance. If the quota runs out, further purchases are charged at the unsubsidised price. E-hailing and p-hailing drivers keep a higher ceiling of **800 litres a month** because of their work needs.

@@ -31,7 +31,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "fbeedb8341d7b377"
+sourceContentHash: "1e94499e976a5044"
 
 status: "published"
 aiAssisted: true
@@ -87,7 +87,7 @@ framework: how-to
 
 在马来西亚买车，你签的是一份合约，但实际上同时进入了三段各自独立的关系：一段与卖车给你的人，一段与为你提供融资的人，还有一段与 JPJ——决定车辆登记在谁名下的部门。这三者之中任何一个环节漏掉，你已经付了钱的车，法律上仍不算完全属于你。
 
-大多数第一次买车的人，只有在出状况时才会注意到这一点——买到的二手车原来还在融资中，或是银行迟迟不肯放款，因为还差 Puspakom 的一份文件。这一切都不是随意设置的。每一个环节存在的目的，都是为了回答同一个问题：此刻究竟谁该为这辆车负责？
+大多数第一次买车的人，只有在出状况时才会注意到这一点——买到的二手车原来还在融资中，或是银行迟迟不肯放款，因为还差 [Puspakom](/zh/transport/puspakom-vehicle-inspections) 的一份文件。这一切都不是随意设置的。每一个环节存在的目的，都是为了回答同一个问题：此刻究竟谁该为这辆车负责？
 
 ## 简答
 
