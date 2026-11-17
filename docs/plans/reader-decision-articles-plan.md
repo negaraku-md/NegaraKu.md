@@ -80,4 +80,23 @@ answered well enough.**
   page only when the reader's task + evidence justify it. Then cluster-link.
 
 ## Status
-- 2026-11-17: proposal received + saved. Dup-check of the priority-8 IN PROGRESS, then build in priority order.
+- 2026-11-17: proposal received + saved. **Dup-check of the priority-8 DONE** (7 genuine new, #6 deferred).
+- **SHIPPED (13 langs each, LIVE):**
+  - #1 `education/before-paying-a-college-deposit` (MY-LIV-0905) — `0d3ba3b81`
+  - #4 `energy/water-bill-suddenly-increased` (MY-ENE-0020) — `481c9472c` (site's first water-utility article)
+  - #3 `government/mp-adun-or-local-council` (MY-GOV-0102) — `86c9051bf`
+- **#6 deferred (not a new page):** "Announced→In Force" is substantially covered by `law/how-a-bill-becomes-law`
+  (Art 66(4)/(4A)/(5) + Interpretation Acts s.19(1)); its only distinct value is the policy-announcement-vs-law
+  angle → fold into that article later, don't duplicate.
+- **QUEUED (research needed, then draft+13-lang fan-out, priority order):**
+  - #2 `business` **Before Signing a Shop or Office Lease** (premises suitability vs licensing; distinct from `premise-licence-malaysia`)
+  - #5 `technology` **Before Putting Client Information into an AI Tool** (vendor-neutral SME checklist; links the PDPA cluster)
+  - #7 `food-lifestyle` **Your First Pasar Malam** (first-timer how-to; distinct from the `pasar-malam-and-street-food` culture explainer — link it)
+  - #8 `tourism` **A Rainy Day in Kuala Lumpur** (themed indoor itinerary; distinct from `kuala-lumpur-visitor-guide`)
+  - then the rest of the 36 (Understand/Living/Business/EDP clusters) as capacity allows.
+- **METHOD (proven this session, reuse):** research agent (sourced, shape-only, hedged, flags → scratchpad/research-<topic>.md)
+  → draft en master to the article standard (framework from the canonical 8; sensitivity; verificationNeeded for soft points)
+  → gate master (js-yaml + validate + check-internal-links --strict) → 12 per-language agents (full-article translation,
+  omit sourceContentHash/translationStatus, /en/→/<lang>/ links, cites verbatim) → `npm run translate:stamp` → re-gate
+  → commit + push. GOTCHA: Arabic agents must wrap every frontmatter scalar in ASCII double-quotes (a colon in an
+  unquoted « » title breaks YAML).
