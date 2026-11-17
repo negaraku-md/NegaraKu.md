@@ -32,7 +32,7 @@ faq:
     a: "首相府傘下の連邦直轄区局（JWP）は、三つの直轄区の政策と開発を連邦レベルで調整する。一方、DBKL、プトラジャヤ公社、ラブアン公社は、それぞれの直轄区で発行業務、都市計画、市政サービスといった日常業務を行う地方自治体である。"
 
 lang: "ja"
-sourceContentHash: "ef54e164ff586fe9"
+sourceContentHash: "9bb7978f0345dc23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

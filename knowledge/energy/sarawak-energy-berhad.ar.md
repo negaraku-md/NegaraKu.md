@@ -30,7 +30,7 @@ faq:
     a: "محطة باكون الكهرومائية، بسعة متاحة تبلغ 2,520 ميغاواط، هي أكبر منشأة توليد في ساراواك."
 
 lang: "ar"
-sourceContentHash: "7830394fcb9de25a"
+sourceContentHash: "842a8fcd8feb3418"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -136,7 +136,7 @@ framework: profile
 
 ## الخطوة التالية
 
-- اقرأ ملفّ **[شركة تيناغا ناسيونال](/energy/tenaga-nasional-berhad)** لمقارنة نموذج مرفق شبه الجزيرة بنموذج ساراواك.
+- اقرأ ملفّ **[شركة تيناغا ناسيونال](/companies/tenaga-nasional)** لمقارنة نموذج مرفق شبه الجزيرة بنموذج ساراواك.
 - لتفاصيل هندسة أكبر سدّ في ساراواك، استكشف الصفحة الرسمية **[Bakun Hydroelectric Plant](https://www.sarawakenergy.com/bakun-hydroelectric-plant)**.
 - ملاحظة: أرقام السعة والأرقام المالية تتغيّر مع الوقت؛ تحقّق من آخر تقرير سنوي وبيانات صحفية لشركة SEB قبل استخدامها في قرارات رسمية.
 

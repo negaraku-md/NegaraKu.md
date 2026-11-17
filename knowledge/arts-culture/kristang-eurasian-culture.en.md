@@ -32,7 +32,7 @@ faq:
     a: "Intrudu is an annual water festival of the Portuguese community of Melaka held on the Sunday before Ash Wednesday (the start of the Lenten season). Residents and visitors splash water on one another throughout the Portuguese Settlement, and the celebration is accompanied by the branyo dance."
 
 lang: "en"
-sourceContentHash: "6be0336bb559138c"
+sourceContentHash: "eae82f9fdc66fe33"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

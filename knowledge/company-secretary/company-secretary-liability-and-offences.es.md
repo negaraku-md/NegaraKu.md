@@ -27,7 +27,7 @@ faq:
     a: "Bajo la sección 593 de la Companies Act 2016, una declaración o informe falso al Registrador (SSM) es castigable con prisión de hasta 10 años, una multa de hasta RM3 millones, o ambas."
 
 lang: "es"
-sourceContentHash: "e1c1cbfc3de7c89d"
+sourceContentHash: "7be6acb4beb0691a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -61,7 +61,7 @@ sources:
 
 relations:
   - { rel: "administered-by", to: "suruhanjaya-syarikat-malaysia" }
-  - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
+  - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["companies-act-2016"]
 keywords: ["responsabilidad secretario de empresa", "liabiliti setiausaha syarikat", "delitos secretario de empresa", "declaración falsa", "sección 591", "Companies Act 2016", "Akta Syarikat 2016", "directivo de la empresa", "Borang 49"]
 framework: rules
@@ -109,6 +109,6 @@ El fraude no es el único delito. El retraso o la falta de presentación de docu
 
 ## Qué sigue
 
-- Lea los deberes y responsabilidades completos de un secretario: [company-secretary-duties-and-responsibilities](/en/company-secretary/company-secretary-duties-and-responsibilities)
-- Comprenda el marco general: [Companies Act 2016](/en/company-secretary/companies-act-2016)
+- Lea los deberes y responsabilidades completos de un secretario: [las funciones del secretario de la empresa](/en/business/company-secretary-malaysia)
+- Comprenda el marco general: [Companies Act 2016](/en/law/companies-act-2016)
 - Si se enfrenta a un riesgo real de procesamiento, obtenga asesoría de un abogado corporativo con licencia — este artículo es orientación general, no asesoría jurídica.

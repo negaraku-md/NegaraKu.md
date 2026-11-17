@@ -30,7 +30,7 @@ faq:
     a: "이용 가능 용량 2,520MW의 바쿤 수력발전소가 사라왁 최대의 발전 시설입니다."
 
 lang: "ko"
-sourceContentHash: "7830394fcb9de25a"
+sourceContentHash: "842a8fcd8feb3418"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -167,7 +167,7 @@ Aluminium Holdings가 **2025년 상반기(1H 2025) SEB 매출의 약 40%**를 �
 
 ## 다음 단계
 
-- 반도와 사라왁의 유틸리티 모델을 비교하려면 **[Tenaga Nasional Berhad](/ko/energy/tenaga-nasional-berhad)** 프로필을 읽으십시오.
+- 반도와 사라왁의 유틸리티 모델을 비교하려면 **[Tenaga Nasional Berhad](/ko/companies/tenaga-nasional)** 프로필을 읽으십시오.
 - 사라왁 최대 댐의 공학적 세부 사항은 **[Bakun Hydroelectric Plant](https://www.sarawakenergy.com/bakun-hydroelectric-plant)** 공식 웹사이트에서 살펴보십시오.
 - 참고: 용량 및 재무 수치는 시간에 따라 변합니다; 공식적 결정에 사용하기 전에 최신 SEB 연차 보고서와 보도 자료로 확인하십시오.
 

@@ -30,7 +30,7 @@ faq:
     a: "The community's numbers have fallen sharply — from around 400 families in the 1980s to fewer than 50 families today, according to Singapore's National Heritage Board (Roots) — while a Free Malaysia Today report estimates only around 20 to 30 families still live in Kampung Chetti. Researchers link this decline to intermarriage, out-migration, and younger generations increasingly losing touch with their Chetti roots."
 
 lang: "en"
-sourceContentHash: "f11ad6d038f7a742"
+sourceContentHash: "6898b0a0b841fb12"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

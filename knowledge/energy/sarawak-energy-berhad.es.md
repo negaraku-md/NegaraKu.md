@@ -30,7 +30,7 @@ faq:
     a: "La Central Hidroeléctrica de Bakun, con una capacidad disponible de 2,520MW, es la mayor instalación de generación de Sarawak."
 
 lang: "es"
-sourceContentHash: "7830394fcb9de25a"
+sourceContentHash: "842a8fcd8feb3418"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -136,7 +136,7 @@ En la primera mitad del ejercicio financiero de diciembre de 2025, SEB registró
 
 ## Próximos pasos
 
-- Lea el perfil de **[Tenaga Nasional Berhad](/en/energy/tenaga-nasional-berhad)** para comparar los modelos de empresa eléctrica de la Península y de Sarawak.
+- Lea el perfil de **[Tenaga Nasional Berhad](/en/companies/tenaga-nasional)** para comparar los modelos de empresa eléctrica de la Península y de Sarawak.
 - Para los detalles de ingeniería de la mayor represa de Sarawak, explore la página oficial de la **[Central Hidroeléctrica de Bakun](https://www.sarawakenergy.com/bakun-hydroelectric-plant)**.
 - Nota: las cifras de capacidad y financieras cambian con el tiempo; verifíquelas con el informe anual y los comunicados de prensa más recientes de SEB antes de usarlas para decisiones oficiales.
 

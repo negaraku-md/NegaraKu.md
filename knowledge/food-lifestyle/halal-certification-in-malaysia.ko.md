@@ -37,7 +37,7 @@ faq:
     a: "그렇습니다. 할랄 인증은 소유주의 종교가 아니라 제품, 재료, 공정이 MS 1500과 MPPHM 요건에 부합하는지에 초점을 둡니다. 비무슬림 소유 회사도 신청할 수 있으며, 많은 회사가 말레이시아 할랄 인증서(SPHM)를 신청하고 취득합니다."
 
 lang: "ko"
-sourceContentHash: "f2b9c9a9d90925a7"
+sourceContentHash: "73ec7034840ec260"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

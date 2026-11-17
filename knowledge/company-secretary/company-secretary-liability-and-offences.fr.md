@@ -27,7 +27,7 @@ faq:
     a: "En vertu de la section 593 de la Companies Act 2016, une déclaration ou un rapport faux au Registraire (SSM) est passible d'un emprisonnement allant jusqu'à 10 ans, d'une amende allant jusqu'à RM3 millions, ou des deux."
 
 lang: "fr"
-sourceContentHash: "e1c1cbfc3de7c89d"
+sourceContentHash: "7be6acb4beb0691a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -61,7 +61,7 @@ sources:
 
 relations:
   - { rel: "administered-by", to: "suruhanjaya-syarikat-malaysia" }
-  - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
+  - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["companies-act-2016"]
 keywords: ["responsabilité secrétaire d'entreprise", "liabiliti setiausaha syarikat", "délits secrétaire d'entreprise", "fausse déclaration", "section 591", "Companies Act 2016", "Akta Syarikat 2016", "dirigeant de l'entreprise", "Borang 49"]
 framework: rules
@@ -109,6 +109,6 @@ La fraude n'est pas le seul délit. Le retard ou le défaut de dépôt de docume
 
 ## Et ensuite
 
-- Lisez l'intégralité des devoirs et responsabilités d'un secrétaire : [company-secretary-duties-and-responsibilities](/fr/company-secretary/company-secretary-duties-and-responsibilities)
-- Comprenez le cadre général : [Companies Act 2016](/fr/company-secretary/companies-act-2016)
+- Lisez l'intégralité des devoirs et responsabilités d'un secrétaire : [les fonctions du secrétaire de société](/fr/business/company-secretary-malaysia)
+- Comprenez le cadre général : [Companies Act 2016](/fr/law/companies-act-2016)
 - Si vous êtes exposé à un risque réel de poursuites, obtenez l'avis d'un avocat d'entreprise titulaire d'une licence — cet article est une orientation générale, et non un avis juridique.

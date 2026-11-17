@@ -32,7 +32,7 @@ faq:
     a: "The Federal Territories Department (JWP) under the Prime Minister's Department coordinates policy and development across the three territories at the federal level, whereas DBKL, Putrajaya Corporation and Labuan Corporation are the local authorities that carry out day-to-day matters such as licensing, town planning and municipal services in their respective territories."
 
 lang: "en"
-sourceContentHash: "ef54e164ff586fe9"
+sourceContentHash: "9bb7978f0345dc23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

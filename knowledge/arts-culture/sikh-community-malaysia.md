@@ -142,7 +142,7 @@ Sebagai tindak balas, gurdwara memainkan peranan sebagai pusat pemeliharaan baha
 
 ## Apa seterusnya
 
-Untuk memahami tempat komuniti ini dalam susun lapis kaum Malaysia, baca [Komposisi penduduk](/ms/malaysia/population-composition). Untuk komuniti keturunan India yang lain dan bahasa mereka, lihat [Tamil di Malaysia](/ms/arts-culture/tamil-in-malaysia), dan untuk gambaran kepelbagaian bahasa dalam satu kaum, lihat [Dialek Cina Malaysia](/ms/arts-culture/chinese-dialects).
+Untuk memahami tempat komuniti ini dalam susun lapis kaum Malaysia, baca [Komposisi penduduk](/malaysia/population-composition). Untuk komuniti keturunan India yang lain dan bahasa mereka, lihat [Tamil di Malaysia](/arts-culture/tamil-in-malaysia), dan untuk gambaran kepelbagaian bahasa dalam satu kaum, lihat [Dialek Cina Malaysia](/arts-culture/chinese-dialects).
 
 ---
 

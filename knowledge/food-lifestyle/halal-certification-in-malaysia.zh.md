@@ -37,7 +37,7 @@ faq:
     a: "可以。清真认证着重于产品、原料及流程是否符合 MS 1500 与 MPPHM 的要求，而非拥有者的宗教信仰。非穆斯林拥有的公司可以申请，许多也确实申请并取得了马来西亚清真认证证书。"
 
 lang: "zh"
-sourceContentHash: "f2b9c9a9d90925a7"
+sourceContentHash: "73ec7034840ec260"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

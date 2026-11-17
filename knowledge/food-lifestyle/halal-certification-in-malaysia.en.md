@@ -37,7 +37,7 @@ faq:
     a: "Yes. Halal certification focuses on the compliance of the product, ingredients and processes with the requirements of MS 1500 and MPPHM, not on the religion of the owner. Companies owned by non-Muslims can and many do apply for and obtain the Malaysia Halal Confirmation Certificate."
 
 lang: "en"
-sourceContentHash: "f2b9c9a9d90925a7"
+sourceContentHash: "73ec7034840ec260"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -34,7 +34,7 @@ faq:
     a: "它用于从出生到死亡的人生过渡仪礼、神圣仪式与治疗仪式，并在传统上与伊班勇士传统紧密相连。它的纹样也被织入妇女的沙笼、男子的兜裆布和巫师的长袍。"
 
 lang: "zh"
-sourceContentHash: "1d30a78fcc6cce68"
+sourceContentHash: "aa5affdf465c350b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

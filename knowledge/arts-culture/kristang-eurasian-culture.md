@@ -96,7 +96,7 @@ Kristang ialah masyarakat Eurasia berketurunan campuran Portugis dan penduduk te
 
 Akar masyarakat ini berpangkal pada tahun **1511**, apabila Afonso de Albuquerque menawan Melaka dan meletakkannya di bawah pemerintahan Portugis. Untuk mengukuhkan penempatan, pihak Portugis menggalakkan perkahwinan campur, termasuk menerusi program *Orfas del Rei* yang membawa gadis-gadis yatim Portugal untuk dikahwinkan dengan para peneroka. Daripada perkahwinan inilah lahirnya masyarakat baharu — orang Kristang — yang kekal berakar di Melaka walaupun kuasa Portugis tumbang kepada Belanda pada 1641.
 
-Hari ini mereka sering dirujuk sebagai orang **Eurasia**. Mereka berkongsi beberapa persamaan dengan komuniti [Peranakan Baba-Nyonya](/ms/arts-culture/peranakan) Melaka — sama-sama lahir daripada percampuran budaya di kota pelabuhan lama itu — tetapi identiti Kristang dibentuk oleh warisan Portugis dan iman Katolik.
+Hari ini mereka sering dirujuk sebagai orang **Eurasia**. Mereka berkongsi beberapa persamaan dengan komuniti [Peranakan Baba-Nyonya](/arts-culture/peranakan) Melaka — sama-sama lahir daripada percampuran budaya di kota pelabuhan lama itu — tetapi identiti Kristang dibentuk oleh warisan Portugis dan iman Katolik.
 
 ## Apakah Perkampungan Portugis di Melaka?
 
@@ -146,5 +146,5 @@ Semua usaha ini berkongsi satu premis yang sama: sebuah bahasa dan budaya hidup 
 ## Apa seterusnya
 
 - Kunjungi **Perkampungan Portugis** di Ujong Pasir, Melaka untuk menyaksikan branyo dan mencuba masakan Kristang, terutamanya pada waktu Festa San Pedro (Jun) atau Krismas.
-- Bandingkan warisan Kristang dengan komuniti [Peranakan Baba-Nyonya](/ms/arts-culture/peranakan) yang turut lahir daripada percampuran budaya di Melaka.
-- Terokai bagaimana masyarakat Kristang meraikan [Krismas di Malaysia](/ms/arts-culture/christmas-malaysia) sebagai perayaan Katolik terbesar mereka.
+- Bandingkan warisan Kristang dengan komuniti [Peranakan Baba-Nyonya](/arts-culture/peranakan) yang turut lahir daripada percampuran budaya di Melaka.
+- Terokai bagaimana masyarakat Kristang meraikan [Krismas di Malaysia](/arts-culture/christmas-malaysia) sebagai perayaan Katolik terbesar mereka.

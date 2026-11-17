@@ -30,7 +30,7 @@ faq:
     a: "Pembangkit Hidroelektrik Bakun dengan kapasitas tersedia 2,520MW adalah fasilitas pembangkitan terbesar di Sarawak."
 
 lang: "id"
-sourceContentHash: "7830394fcb9de25a"
+sourceContentHash: "842a8fcd8feb3418"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -136,7 +136,7 @@ Untuk paruh pertama tahun keuangan Desember 2025, SEB melaporkan pendapatan RM3.
 
 ## Langkah selanjutnya
 
-- Baca profil **[Tenaga Nasional Berhad](/id/energy/tenaga-nasional-berhad)** untuk membandingkan model utilitas Semenanjung dengan Sarawak.
+- Baca profil **[Tenaga Nasional Berhad](/id/companies/tenaga-nasional)** untuk membandingkan model utilitas Semenanjung dengan Sarawak.
 - Untuk rincian rekayasa bendungan terbesar Sarawak, jelajahi laman resmi **[Bakun Hydroelectric Plant](https://www.sarawakenergy.com/bakun-hydroelectric-plant)**.
 - Catatan: angka kapasitas dan keuangan berubah seiring waktu; verifikasi dengan laporan tahunan dan siaran media terkini SEB sebelum digunakan untuk keputusan resmi.
 

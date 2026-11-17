@@ -33,7 +33,7 @@ faq:
     a: "제153조 제(4)·(7)·(8)항은 이 조문이 어떤 사람이 이미 향유하거나 보유하고 있는 공직, 장학금, 권리, 특권, 허가 또는 면허를 박탈할 수 없다고 규정합니다."
 
 lang: "ko"
-sourceContentHash: "90a331e05e64e807"
+sourceContentHash: "d2619307212b4615"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -157,7 +157,7 @@ framework: explainer
 
 ## 다음으로 볼 것
 
-제153조가 전체 문서 안에서 어디에 자리하는지 보려면 [말레이시아 연방헌법](/ms/law/federal-constitution)을 참고하십시오. 제38조 제(5)항에 따라 협의되고 제159조 제(5)항에 따라 동의가 요구되는 통치자 회의의 역할은 [통치자 회의(Majlis Raja-Raja)](/ms/government/majlis-raja-raja)를 참고하십시오. 제153조를 보호하는 개정 요건은 [연방헌법 개정](/ms/law/constitutional-amendment)을 참고하십시오. "부미푸트라"라는 용어와 수치 목표가 사용되는 정책 맥락은 [신경제정책](/ms/malaysia/new-economic-policy)을 참고하십시오. 사바 및 사라왁 원주민의 지위는 [MA63](/ms/malaysia/ma63)을 참고하십시오.
+제153조가 전체 문서 안에서 어디에 자리하는지 보려면 [말레이시아 연방헌법](/ko/law/federal-constitution)을 참고하십시오. 제38조 제(5)항에 따라 협의되고 제159조 제(5)항에 따라 동의가 요구되는 통치자 회의의 역할은 [통치자 회의(Majlis Raja-Raja)](/ko/government/majlis-raja-raja)를 참고하십시오. 제153조를 보호하는 개정 요건은 [연방헌법 개정](/ko/law/constitutional-amendment)을 참고하십시오. "부미푸트라"라는 용어와 수치 목표가 사용되는 정책 맥락은 [신경제정책](/ko/malaysia/new-economic-policy)을 참고하십시오. 사바 및 사라왁 원주민의 지위는 [MA63](/ko/malaysia/ma63)을 참고하십시오.
 
 ---
 

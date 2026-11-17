@@ -33,7 +33,7 @@ faq:
     a: "第153条(4)、(7)及び(8)は、同条によって、すでに享受又は保持している公職、奨学金、権利、特権、許可証又はライセンスを何人からも剥奪してはならないと定めている。"
 
 lang: "ja"
-sourceContentHash: "90a331e05e64e807"
+sourceContentHash: "d2619307212b4615"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

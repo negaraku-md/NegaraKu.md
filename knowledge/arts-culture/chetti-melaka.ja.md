@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "f11ad6d038f7a742"
+sourceContentHash: "6898b0a0b841fb12"
 
 status: "published"
 aiAssisted: true

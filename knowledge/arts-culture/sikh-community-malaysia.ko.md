@@ -34,7 +34,7 @@ faq:
     a: "펀자브어는 여전히 살아 있으나 언어 전이를 겪고 있습니다. 코타키나발루 시크 공동체를 대상으로 한 학술 연구는 이제 대다수 가정이 집에서 영어를 쓴다는 것을 발견했습니다. 이 언어를 지키기 위해 구르드와라는 펀자브어 수업 — 예컨대 구르드와라 사히브 스름반(Gurdwara Sahib Seremban)의 펀자브어 교육 센터 — 을 운영해 아이들에게 구르무키(Gurmukhi) 문자를 가르칩니다."
 
 lang: "ko"
-sourceContentHash: "9ed6f6181f75f4d2"
+sourceContentHash: "573b2db427c12fb3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -143,7 +143,7 @@ framework: history-culture
 
 ## 다음으로 볼 것
 
-이 공동체가 말레이시아 종족 층위에서 차지하는 자리를 이해하려면 [인구 구성](/ms/malaysia/population-composition)을 읽어 보십시오. 다른 인도계 공동체와 그 언어는 [말레이시아의 타밀](/ms/arts-culture/tamil-in-malaysia)을, 한 종족 안의 언어 다양성의 그림은 [말레이시아 화인 방언](/ms/arts-culture/chinese-dialects)을 보십시오.
+이 공동체가 말레이시아 종족 층위에서 차지하는 자리를 이해하려면 [인구 구성](/ko/malaysia/population-composition)을 읽어 보십시오. 다른 인도계 공동체와 그 언어는 [말레이시아의 타밀](/ko/arts-culture/tamil-in-malaysia)을, 한 종족 안의 언어 다양성의 그림은 [말레이시아 화인 방언](/ko/arts-culture/chinese-dialects)을 보십시오.
 
 ---
 

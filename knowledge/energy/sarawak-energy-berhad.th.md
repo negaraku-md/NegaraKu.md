@@ -30,7 +30,7 @@ faq:
     a: "โรงไฟฟ้าพลังน้ำ Bakun ด้วยกำลังการผลิตที่มีอยู่ 2,520MW เป็นสิ่งอำนวยความสะดวกการผลิตที่ใหญ่ที่สุดในซาราวัก"
 
 lang: "th"
-sourceContentHash: "7830394fcb9de25a"
+sourceContentHash: "842a8fcd8feb3418"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -136,7 +136,7 @@ SEB จัดไฟฟ้าพลังน้ำของตนเป็นพ�
 
 ## อ่านต่อ
 
-- อ่านโปรไฟล์ **[Tenaga Nasional Berhad](/th/energy/tenaga-nasional-berhad)** เพื่อเปรียบเทียบแบบจำลองบริษัทสาธารณูปโภคของคาบสมุทรกับซาราวัก
+- อ่านโปรไฟล์ **[Tenaga Nasional Berhad](/th/companies/tenaga-nasional)** เพื่อเปรียบเทียบแบบจำลองบริษัทสาธารณูปโภคของคาบสมุทรกับซาราวัก
 - สำหรับรายละเอียดทางวิศวกรรมของเขื่อนที่ใหญ่ที่สุดของซาราวัก โปรดสำรวจเว็บไซต์ทางการ **[Bakun Hydroelectric Plant](https://www.sarawakenergy.com/bakun-hydroelectric-plant)**
 - หมายเหตุ: ตัวเลขกำลังการผลิตและการเงินเปลี่ยนแปลงตามเวลา โปรดยืนยันกับรายงานประจำปีและข่าวประชาสัมพันธ์ล่าสุดของ SEB ก่อนใช้สำหรับการตัดสินใจทางการ
 

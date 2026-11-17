@@ -32,7 +32,7 @@ faq:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "7830394fcb9de25a"
+sourceContentHash: "842a8fcd8feb3418"
 
 status: "published"
 aiAssisted: true
@@ -136,7 +136,7 @@ SEB தன் நீர்மின்சக்தியைப் புது�
 
 ## அடுத்த படிகள்
 
-- தீபகற்பத்தின் பயன்பாட்டு மாதிரியை சரவாக்குடன் ஒப்பிட **[Tenaga Nasional Berhad](/ta/energy/tenaga-nasional-berhad)** சுயவிவரத்தைப் படியுங்கள்.
+- தீபகற்பத்தின் பயன்பாட்டு மாதிரியை சரவாக்குடன் ஒப்பிட **[Tenaga Nasional Berhad](/ta/companies/tenaga-nasional)** சுயவிவரத்தைப் படியுங்கள்.
 - சரவாக்கின் மிகப்பெரிய அணையின் பொறியியல் விவரங்களுக்கு, அதிகாரப்பூர்வ இணையப்பக்கமான **[Bakun Hydroelectric Plant](https://www.sarawakenergy.com/bakun-hydroelectric-plant)**-ஐ ஆராயுங்கள்.
 - குறிப்பு: திறன் மற்றும் நிதி எண்ணிக்கைகள் காலப்போக்கில் மாறுகின்றன; அதிகாரப்பூர்வ முடிவுகளுக்குப் பயன்படுத்துவதற்கு முன், SEB-யின் சமீபத்திய ஆண்டறிக்கை மற்றும் ஊடக வெளியீடுகளுடன் உறுதிப்படுத்தவும்.
 

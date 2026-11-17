@@ -27,7 +27,7 @@ faq:
     a: "Companies Act 2016 की धारा 593 के तहत, Registrar (SSM) को झूठा कथन या रिपोर्ट 10 वर्ष तक के कारावास, RM3 मिलियन तक के जुर्माने, या दोनों से दंडनीय है।"
 
 lang: "hi"
-sourceContentHash: "e1c1cbfc3de7c89d"
+sourceContentHash: "7be6acb4beb0691a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -61,7 +61,7 @@ sources:
 
 relations:
   - { rel: "administered-by", to: "suruhanjaya-syarikat-malaysia" }
-  - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
+  - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["companies-act-2016"]
 keywords: ["कंपनी सचिव देयता", "liabiliti setiausaha syarikat", "कंपनी सचिव अपराध", "झूठा कथन", "धारा 591", "Companies Act 2016", "Akta Syarikat 2016", "कंपनी अधिकारी", "Borang 49"]
 framework: rules
@@ -109,6 +109,6 @@ SSM के किसी फॉर्म पर एक अकेला हस्�
 
 ## आगे क्या
 
-- सचिव के पूर्ण कर्तव्य और उत्तरदायित्व पढ़ें: [company-secretary-duties-and-responsibilities](/en/company-secretary/company-secretary-duties-and-responsibilities)
-- व्यापक ढाँचे को समझें: [Companies Act 2016](/en/company-secretary/companies-act-2016)
+- सचिव के पूर्ण कर्तव्य और उत्तरदायित्व पढ़ें: [कंपनी सचिव के कर्तव्य](/en/business/company-secretary-malaysia)
+- व्यापक ढाँचे को समझें: [Companies Act 2016](/en/law/companies-act-2016)
 - यदि आप अभियोजन के वास्तविक जोखिम का सामना करते हैं, तो किसी अनुज्ञप्त कॉर्पोरेट वकील से सलाह प्राप्त करें — यह लेख सामान्य मार्गदर्शन है, कानूनी सलाह नहीं।

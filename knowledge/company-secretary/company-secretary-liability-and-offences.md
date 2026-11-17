@@ -60,7 +60,7 @@ sources:
 
 relations:
   - { rel: "administered-by", to: "suruhanjaya-syarikat-malaysia" }
-  - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
+  - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["companies-act-2016"]
 keywords: ["liabiliti setiausaha syarikat", "kesalahan setiausaha syarikat", "penyata palsu", "seksyen 591", "Akta Syarikat 2016", "pegawai syarikat", "Borang 49"]
 framework: rules
@@ -108,6 +108,6 @@ Bukan penipuan sahaja yang menjadi kesalahan. Kelewatan atau kegagalan memfailka
 
 ## Apa seterusnya
 
-- Baca tugas dan tanggungjawab penuh setiausaha: [company-secretary-duties-and-responsibilities](/ms/company-secretary/company-secretary-duties-and-responsibilities)
-- Fahami rangka kerja induk: [Akta Syarikat 2016](/ms/company-secretary/companies-act-2016)
+- Baca tugas dan tanggungjawab penuh setiausaha: [tugas dan tanggungjawab setiausaha syarikat](/business/company-secretary-malaysia)
+- Fahami rangka kerja induk: [Akta Syarikat 2016](/law/companies-act-2016)
 - Jika menghadapi risiko dakwaan sebenar, dapatkan nasihat peguam korporat berlesen — artikel ini panduan am, bukan nasihat guaman.

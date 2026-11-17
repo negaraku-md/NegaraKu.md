@@ -33,7 +33,7 @@ faq:
     a: "Article 153(4), (7) and (8) state that the Article may not deprive a person of a public office, scholarship, right, privilege, permit or licence already enjoyed or held by that person."
 
 lang: "en"
-sourceContentHash: "90a331e05e64e807"
+sourceContentHash: "d2619307212b4615"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

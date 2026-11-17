@@ -33,7 +33,7 @@ faq:
     a: "تنص المواد 153(4) و(7) و(8) على أن المادة لا يجوز أن تحرم شخصًا من وظيفة عامة أو منحة أو حق أو امتياز أو تصريح أو رخصة يتمتع بها أو يحوزها فعلًا."
 
 lang: "ar"
-sourceContentHash: "90a331e05e64e807"
+sourceContentHash: "d2619307212b4615"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -33,7 +33,7 @@ faq:
     a: "第153(4)、(7)和(8)条规定，该条文不得剥夺任何人已享有或持有的公共职位、奖学金、权利、特权、准证或执照。"
 
 lang: "zh"
-sourceContentHash: "90a331e05e64e807"
+sourceContentHash: "d2619307212b4615"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

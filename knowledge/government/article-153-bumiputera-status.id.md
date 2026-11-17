@@ -33,7 +33,7 @@ faq:
     a: "Pasal 153(4), (7) dan (8) menyatakan bahwa Pasal itu tidak boleh mencabut seseorang dari jabatan publik, beasiswa, hak, keistimewaan, izin atau lisensi yang sudah dinikmati atau dipegangnya."
 
 lang: "id"
-sourceContentHash: "90a331e05e64e807"
+sourceContentHash: "d2619307212b4615"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

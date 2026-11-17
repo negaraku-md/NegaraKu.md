@@ -37,7 +37,7 @@ faq:
     a: "Có. Chứng nhận halal tập trung vào sự tuân thủ của sản phẩm, nguyên liệu và quy trình đối với các yêu cầu của MS 1500 và MPPHM, chứ không phải tôn giáo của chủ sở hữu. Các công ty do người không theo Hồi giáo sở hữu có thể và nhiều công ty đã nộp đơn cũng như nhận được Giấy Chứng nhận Halal Malaysia."
 
 lang: "vi"
-sourceContentHash: "f2b9c9a9d90925a7"
+sourceContentHash: "73ec7034840ec260"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

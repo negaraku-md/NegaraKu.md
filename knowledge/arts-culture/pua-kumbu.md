@@ -119,6 +119,6 @@ Penenunan pua kumbu ialah kerja kaum wanita, dan kedudukan tertinggi dalam masya
 
 ## Apa yang seterusnya
 
-- Baca [Batik](/ms/arts-culture/batik) untuk membandingkan pua kumbu dengan kraf tekstil rintangan lilin di pantai timur Semenanjung.
-- Baca [Gawai Dayak](/ms/arts-culture/gawai-dayak) untuk memahami dunia ritual masyarakat Iban yang menghidupkan pua kumbu.
+- Baca [Batik](/arts-culture/batik) untuk membandingkan pua kumbu dengan kraf tekstil rintangan lilin di pantai timur Semenanjung.
+- Baca [Gawai Dayak](/arts-culture/gawai-dayak) untuk memahami dunia ritual masyarakat Iban yang menghidupkan pua kumbu.
 - Rujuk laman Kraftangan Malaysia dan Jabatan Muzium Sarawak untuk maklumat rasmi tentang adiguru dan nilai tradisi kain ini.

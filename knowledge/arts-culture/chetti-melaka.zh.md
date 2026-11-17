@@ -30,7 +30,7 @@ faq:
     a: "这个社群的人数急剧萎缩——据新加坡国家文物局（Roots）称，从 1980 年代约 400 户家庭减少到今天不足 50 户；而《今日自由大马》（Free Malaysia Today）的一篇报道则估计只有约 20 至 30 户家庭仍居住在哲蒂村。研究者将这种衰退归因于异族通婚、外迁，以及年轻一代与哲蒂根源的联系日益淡薄。"
 
 lang: "zh"
-sourceContentHash: "f11ad6d038f7a742"
+sourceContentHash: "6898b0a0b841fb12"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

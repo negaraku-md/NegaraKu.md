@@ -30,7 +30,7 @@ faq:
     a: "Nhà máy Thủy điện Bakun với công suất có sẵn 2,520MW là cơ sở phát điện lớn nhất ở Sarawak."
 
 lang: "vi"
-sourceContentHash: "7830394fcb9de25a"
+sourceContentHash: "842a8fcd8feb3418"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -136,7 +136,7 @@ Cho nửa đầu năm tài chính tháng 12 năm 2025, SEB báo cáo doanh thu R
 
 ## Tiếp theo
 
-- Hãy đọc hồ sơ của **[Tenaga Nasional Berhad](/vi/energy/tenaga-nasional-berhad)** để so sánh mô hình tiện ích của Bán đảo với Sarawak.
+- Hãy đọc hồ sơ của **[Tenaga Nasional Berhad](/vi/companies/tenaga-nasional)** để so sánh mô hình tiện ích của Bán đảo với Sarawak.
 - Để biết chi tiết kỹ thuật của đập lớn nhất Sarawak, hãy khám phá trang chính thức **[Bakun Hydroelectric Plant](https://www.sarawakenergy.com/bakun-hydroelectric-plant)**.
 - Ghi chú: các con số công suất và tài chính thay đổi theo thời gian; hãy xác nhận với các báo cáo thường niên và thông cáo báo chí mới nhất của SEB trước khi dùng cho các quyết định chính thức.
 

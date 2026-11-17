@@ -27,7 +27,7 @@ faq:
     a: "Under section 593 of the Companies Act 2016, a false statement or report to the Registrar (SSM) is punishable by imprisonment of up to 10 years, a fine of up to RM3 million, or both."
 
 lang: "en"
-sourceContentHash: "e1c1cbfc3de7c89d"
+sourceContentHash: "7be6acb4beb0691a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -61,7 +61,7 @@ sources:
 
 relations:
   - { rel: "administered-by", to: "suruhanjaya-syarikat-malaysia" }
-  - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
+  - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["companies-act-2016"]
 keywords: ["liabiliti setiausaha syarikat", "kesalahan setiausaha syarikat", "penyata palsu", "seksyen 591", "Akta Syarikat 2016", "pegawai syarikat", "Borang 49"]
 framework: rules
@@ -109,6 +109,6 @@ Fraud is not the only offence. Delay or failure to file statutory documents also
 
 ## What's next
 
-- Read the full duties and responsibilities of a secretary: [company-secretary-duties-and-responsibilities](/en/company-secretary/company-secretary-duties-and-responsibilities)
-- Understand the overarching framework: [Companies Act 2016](/en/company-secretary/companies-act-2016)
+- Read the full duties and responsibilities of a secretary: [a company secretary's duties](/en/business/company-secretary-malaysia)
+- Understand the overarching framework: [Companies Act 2016](/en/law/companies-act-2016)
 - If you face a real risk of prosecution, obtain advice from a licensed corporate lawyer — this article is general guidance, not legal advice.

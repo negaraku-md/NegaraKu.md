@@ -34,7 +34,7 @@ faq:
     a: "Nó được dùng trong các nghi thức chuyển tiếp của đời người từ sinh đến tử, trong các nghi lễ thiêng và nghi thức chữa bệnh, và theo truyền thống gắn với truyền thống chiến binh Iban. Họa tiết của nó cũng được dệt thành sarong của phụ nữ, khố của đàn ông và áo choàng của pháp sư."
 
 lang: "vi"
-sourceContentHash: "1d30a78fcc6cce68"
+sourceContentHash: "aa5affdf465c350b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

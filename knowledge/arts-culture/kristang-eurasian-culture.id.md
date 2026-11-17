@@ -32,7 +32,7 @@ faq:
     a: "Intrudu adalah pesta air tahunan masyarakat Portugis Melaka pada Minggu sebelum Rabu Abu (awal musim Prapaskah). Penduduk dan pengunjung saling menyiram air di sepanjang Perkampungan Portugis, dan perayaan itu diiringi tarian branyo."
 
 lang: "id"
-sourceContentHash: "6be0336bb559138c"
+sourceContentHash: "eae82f9fdc66fe33"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -34,7 +34,7 @@ faq:
     a: "이 천은 탄생부터 죽음까지의 삶의 통과의례, 신성한 의식과 치유 의식에 쓰이며, 전통적으로 이반 전사의 전통과 이어져 있습니다. 그 무늬는 여성의 사롱, 남성의 샅바, 무당의 예복으로도 짜입니다."
 
 lang: "ko"
-sourceContentHash: "1d30a78fcc6cce68"
+sourceContentHash: "aa5affdf465c350b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -120,6 +120,6 @@ framework: history-culture
 
 ## 다음으로 볼 것
 
-- 푸아 쿰부를 반도 동해안의 밀랍 방염 직물 공예와 비교하려면 [바틱](/ms/arts-culture/batik)을 읽어 보십시오.
-- 푸아 쿰부를 살아 숨 쉬게 하는 이반 사회의 의례 세계를 이해하려면 [가와이 다약](/ms/arts-culture/gawai-dayak)을 읽어 보십시오.
+- 푸아 쿰부를 반도 동해안의 밀랍 방염 직물 공예와 비교하려면 [바틱](/ko/arts-culture/batik)을 읽어 보십시오.
+- 푸아 쿰부를 살아 숨 쉬게 하는 이반 사회의 의례 세계를 이해하려면 [가와이 다약](/ko/arts-culture/gawai-dayak)을 읽어 보십시오.
 - 명장과 이 천의 전통적 가치에 관한 공식 정보는 말레이시아 수공예청과 사라왁 박물관국(Jabatan Muzium Sarawak)의 웹사이트를 참고하십시오.

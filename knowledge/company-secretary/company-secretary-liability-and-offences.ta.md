@@ -27,7 +27,7 @@ faq:
     a: "Companies Act 2016-இன் s.593-இன் கீழ், பதிவாளருக்கு (Registrar, SSM) அளிக்கப்படும் பொய்யான அறிக்கை அல்லது அறிக்கையிடல், 10 ஆண்டுகள் வரை சிறைத்தண்டனை, RM3 million வரை அபராதம், அல்லது இரண்டும் விதித்துத் தண்டிக்கப்படலாம்."
 
 lang: "ta"
-sourceContentHash: "e1c1cbfc3de7c89d"
+sourceContentHash: "7be6acb4beb0691a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -61,7 +61,7 @@ sources:
 
 relations:
   - { rel: "administered-by", to: "suruhanjaya-syarikat-malaysia" }
-  - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
+  - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["companies-act-2016"]
 keywords: ["liabiliti setiausaha syarikat", "kesalahan setiausaha syarikat", "penyata palsu", "seksyen 591", "Akta Syarikat 2016", "pegawai syarikat", "Borang 49"]
 framework: rules
@@ -109,6 +109,6 @@ SSM படிவத்தில் ஒரே ஒரு கையொப்பம�
 
 ## அடுத்து என்ன
 
-- செயலாளரின் முழு கடமைகள் மற்றும் பொறுப்புகளைப் படிக்கவும்: [company-secretary-duties-and-responsibilities](/ta/company-secretary/company-secretary-duties-and-responsibilities)
-- மேலாண்மைச் சட்டகத்தைப் புரிந்துகொள்ளவும்: [Companies Act 2016](/ta/company-secretary/companies-act-2016)
+- செயலாளரின் முழு கடமைகள் மற்றும் பொறுப்புகளைப் படிக்கவும்: [நிறுவனச் செயலாளரின் கடமைகள்](/ta/business/company-secretary-malaysia)
+- மேலாண்மைச் சட்டகத்தைப் புரிந்துகொள்ளவும்: [Companies Act 2016](/ta/law/companies-act-2016)
 - உண்மையான வழக்கு ஆபத்தை எதிர்கொண்டால், உரிமம் பெற்ற ஒரு கார்ப்பரேட் வழக்கறிஞரின் ஆலோசனையைப் பெறவும் — இந்தக் கட்டுரை பொதுவான வழிகாட்டுதலே தவிர, சட்ட ஆலோசனை அல்ல.

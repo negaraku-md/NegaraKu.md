@@ -135,7 +135,7 @@ Bagi separuh pertama tahun kewangan Disember 2025, SEB melaporkan hasil RM3.69 b
 
 ## Langkah seterusnya
 
-- Baca profil **[Tenaga Nasional Berhad](/ms/energy/tenaga-nasional-berhad)** untuk membandingkan model utiliti Semenanjung dengan Sarawak.
+- Baca profil **[Tenaga Nasional Berhad](/companies/tenaga-nasional)** untuk membandingkan model utiliti Semenanjung dengan Sarawak.
 - Untuk butiran kejuruteraan empangan terbesar Sarawak, terokai laman rasmi **[Bakun Hydroelectric Plant](https://www.sarawakenergy.com/bakun-hydroelectric-plant)**.
 - Nota: angka kapasiti dan kewangan berubah mengikut masa; sahkan dengan laporan tahunan dan siaran media terkini SEB sebelum digunakan untuk keputusan rasmi.
 

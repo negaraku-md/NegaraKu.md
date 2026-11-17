@@ -32,7 +32,7 @@ faq:
     a: "총리실(Jabatan Perdana Menteri) 산하의 연방직할구청(Jabatan Wilayah Persekutuan, JWP)은 세 직할구의 정책과 개발을 연방 차원에서 조정하는 반면, 쿠알라룸푸르시청(DBKL), 푸트라자야공사(Perbadanan Putrajaya), 라부안공사(Perbadanan Labuan)는 각 직할구에서 인허가, 도시계획, 시정 서비스 같은 일상 업무를 수행하는 지방자치단체입니다."
 
 lang: "ko"
-sourceContentHash: "ef54e164ff586fe9"
+sourceContentHash: "9bb7978f0345dc23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -109,7 +109,7 @@ framework: explainer
 
 이유는 단순하지만 중요합니다. **오직 주만이 주 입법의회를 가집니다.** 연방직할구는 주가 아니므로, 그곳을 다스리는 통치자나 술탄이 없고, 주총리나 수석장관이 없으며, 주 법률을 만들거나 주 예산을 승인할 DUN이 없습니다.
 
-통상 주가 쥐는 권한 — 지방 정부와 도시 계획 같은 — 은 이 직할구의 경우 연방이 쥡니다. 헌법은 "연방직할구에 관한 모든 사항"을 의회의 관할에 둡니다. 연방 목록과 주 목록의 전체 모습은 [연방–주 권한 배분](/ms/government/federal-state-division)을 참고하십시오.
+통상 주가 쥐는 권한 — 지방 정부와 도시 계획 같은 — 은 이 직할구의 경우 연방이 쥡니다. 헌법은 "연방직할구에 관한 모든 사항"을 의회의 관할에 둡니다. 연방 목록과 주 목록의 전체 모습은 [연방–주 권한 배분](/ko/government/federal-state-division)을 참고하십시오.
 
 이는 다른 주에서라면 DUN이 내리는 결정을, 여기서는 연방 기구와 임명된 지방 당국을 통해 내린다는 뜻입니다.
 
@@ -143,7 +143,7 @@ framework: explainer
 - **상원** — 선출이 아니라 임명.
 - **주 입법의회(DUN)** — 연방직할구에는 존재하지 않음.
 
-그래서 체라스(Cheras)의 한 유권자는 자신의 국회의원을 뽑지만, 주 대표를 위한 투표용지는 결코 존재하지 않습니다 — 쿠알라룸푸르에는 [주 입법의회](/ms/government/state-assemblies-dun)가 없기 때문입니다.
+그래서 체라스(Cheras)의 한 유권자는 자신의 국회의원을 뽑지만, 주 대표를 위한 투표용지는 결코 존재하지 않습니다 — 쿠알라룸푸르에는 [주 입법의회](/ko/government/state-assemblies-dun)가 없기 때문입니다.
 
 ## 연방 차원에서는 누가 조정하는가?
 
@@ -153,6 +153,6 @@ framework: explainer
 
 ## 다음으로 볼 것
 
-왜 "연방직할구에 관한 모든 사항"이 주가 아니라 연방에 속하는지 이해하려면 [연방–주 권한 배분](/ms/government/federal-state-division)을 읽으십시오. 이 직할구에는 존재하지 않는 제도를 보려면 [주 입법의회(DUN)](/ms/government/state-assemblies-dun)를 보십시오. 직할구 주민을 의회에서 대표하는 원에 대해서는 [하원](/ms/government/dewan-rakyat)과 [상원](/ms/government/dewan-negara)을 보십시오. 그리고 말레이시아 통치 층위의 큰 그림은 [세 층위의 정부](/ms/government/three-tiers-of-government)를 보십시오.
+왜 "연방직할구에 관한 모든 사항"이 주가 아니라 연방에 속하는지 이해하려면 [연방–주 권한 배분](/ko/government/federal-state-division)을 읽으십시오. 이 직할구에는 존재하지 않는 제도를 보려면 [주 입법의회(DUN)](/ko/government/state-assemblies-dun)를 보십시오. 직할구 주민을 의회에서 대표하는 원에 대해서는 [하원](/ko/government/dewan-rakyat)과 [상원](/ko/government/dewan-negara)을 보십시오. 그리고 말레이시아 통치 층위의 큰 그림은 [세 층위의 정부](/ko/government/three-tiers-of-government)를 보십시오.
 
 말레이시아가 어떻게 통치되는지 궁금하신가요? [말레이시아의 3단계 정부](/ko/government/three-tiers-of-government/)를 확인해 보세요.

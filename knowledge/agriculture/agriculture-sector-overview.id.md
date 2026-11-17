@@ -35,7 +35,7 @@ faq:
     a: "Karena keduanya dikelola sebagai bisnis yang berbeda. Sawit adalah komoditas ekspor berskala besar yang menguntungkan di tanah yang sesuai, sedangkan padi adalah tanaman pangan bermargin rendah yang bergantung pada subsidi dan irigasi. Tanah, modal dan tenaga kerja cenderung mengalir ke tanaman komoditas yang lebih menguntungkan."
 
 lang: "id"
-sourceContentHash: "4c51e3f219f976bf"
+sourceContentHash: "e80995e62391c5c0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

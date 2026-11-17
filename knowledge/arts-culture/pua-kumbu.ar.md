@@ -34,7 +34,7 @@ faq:
     a: "يُستخدم في طقوس العبور في الحياة من الولادة إلى الموت، وفي المراسم المقدّسة وطقوس الشفاء، ويرتبط تقليديًا بتقليد المحاربين لدى الإيبان. كما تُحاك زخارفه في أُزُر النساء وخصار الرجال وأردية الشامان (العرّاف)."
 
 lang: "ar"
-sourceContentHash: "1d30a78fcc6cce68"
+sourceContentHash: "aa5affdf465c350b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

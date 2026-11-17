@@ -27,7 +27,7 @@ faq:
     a: "ภายใต้มาตรา 593 ของ Companies Act 2016 คำแถลงหรือรายงานเท็จต่อนายทะเบียน (SSM) มีโทษจำคุกไม่เกิน 10 ปี ปรับไม่เกิน RM3 ล้าน หรือทั้งสองอย่าง"
 
 lang: "th"
-sourceContentHash: "e1c1cbfc3de7c89d"
+sourceContentHash: "7be6acb4beb0691a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -61,7 +61,7 @@ sources:
 
 relations:
   - { rel: "administered-by", to: "suruhanjaya-syarikat-malaysia" }
-  - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
+  - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["companies-act-2016"]
 keywords: ["liabiliti setiausaha syarikat", "kesalahan setiausaha syarikat", "penyata palsu", "seksyen 591", "Akta Syarikat 2016", "pegawai syarikat", "Borang 49"]
 framework: rules
@@ -109,6 +109,6 @@ framework: rules
 
 ## อ่านต่อ
 
-- อ่านหน้าที่และความรับผิดชอบเต็มของเลขานุการ: [company-secretary-duties-and-responsibilities](/th/company-secretary/company-secretary-duties-and-responsibilities)
-- ทำความเข้าใจกรอบหลัก: [Companies Act 2016](/th/company-secretary/companies-act-2016)
+- อ่านหน้าที่และความรับผิดชอบเต็มของเลขานุการ: [หน้าที่ของเลขานุการบริษัท](/th/business/company-secretary-malaysia)
+- ทำความเข้าใจกรอบหลัก: [Companies Act 2016](/th/law/companies-act-2016)
 - หากเผชิญความเสี่ยงถูกฟ้องจริง ให้ขอคำปรึกษาทนายความบริษัทที่มีใบอนุญาต — บทความนี้เป็นคำแนะนำทั่วไป ไม่ใช่คำปรึกษาทางกฎหมาย

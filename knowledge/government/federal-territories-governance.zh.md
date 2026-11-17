@@ -32,7 +32,7 @@ faq:
     a: "首相署辖下的联邦直辖区局（JWP）在联邦层面协调这三个直辖区的政策与发展，而吉隆坡市政局、布城机构和纳闽机构则是地方政府，负责各自直辖区内的日常事务，如发照、城市规划和市政服务。"
 
 lang: "zh"
-sourceContentHash: "ef54e164ff586fe9"
+sourceContentHash: "9bb7978f0345dc23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

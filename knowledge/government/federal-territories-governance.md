@@ -108,7 +108,7 @@ Menurut Jabatan Wilayah Persekutuan, setiap wilayah dibentuk untuk peranan terte
 
 Sebabnya mudah tetapi penting: **hanya sebuah negeri yang mempunyai Dewan Undangan Negeri**. Kerana Wilayah Persekutuan bukan negeri, tiada Raja atau Sultan yang memerintahnya, tiada Menteri Besar atau Ketua Menteri, dan tiada DUN untuk membuat undang-undang negeri atau meluluskan belanjawan negeri.
 
-Kuasa yang biasanya dipegang oleh sebuah negeri — seperti kerajaan tempatan dan perancangan bandar — dipegang oleh Persekutuan untuk wilayah ini. Perlembagaan meletakkan "segala perkara berhubung dengan Wilayah Persekutuan" dalam bidang kuasa Parlimen; lihat [pembahagian kuasa Persekutuan–Negeri](/ms/government/federal-state-division) untuk gambaran penuh Senarai Persekutuan dan Senarai Negeri.
+Kuasa yang biasanya dipegang oleh sebuah negeri — seperti kerajaan tempatan dan perancangan bandar — dipegang oleh Persekutuan untuk wilayah ini. Perlembagaan meletakkan "segala perkara berhubung dengan Wilayah Persekutuan" dalam bidang kuasa Parlimen; lihat [pembahagian kuasa Persekutuan–Negeri](/government/federal-state-division) untuk gambaran penuh Senarai Persekutuan dan Senarai Negeri.
 
 Ini bermakna keputusan yang di negeri lain dibuat oleh sebuah DUN, di sini dibuat melalui jentera persekutuan dan pihak berkuasa tempatan yang dilantik.
 
@@ -142,7 +142,7 @@ Perbezaan pentingnya begini:
 - **Dewan Negara** — dilantik, bukan dipilih.
 - **Dewan Undangan Negeri (DUN)** — tidak wujud untuk Wilayah Persekutuan.
 
-Jadi seorang pengundi di Cheras mengundi Ahli Parlimennya, tetapi tidak pernah ada kertas undi untuk seorang wakil negeri — kerana Kuala Lumpur tiada [Dewan Undangan Negeri](/ms/government/state-assemblies-dun).
+Jadi seorang pengundi di Cheras mengundi Ahli Parlimennya, tetapi tidak pernah ada kertas undi untuk seorang wakil negeri — kerana Kuala Lumpur tiada [Dewan Undangan Negeri](/government/state-assemblies-dun).
 
 ## Siapa yang menyelaras di peringkat persekutuan?
 
@@ -152,6 +152,6 @@ Fungsi ini pernah dipegang oleh sebuah kementerian penuh — Kementerian Wilayah
 
 ## Apa seterusnya
 
-Untuk memahami mengapa "segala perkara berhubung dengan Wilayah Persekutuan" jatuh kepada Persekutuan dan bukan negeri, baca [pembahagian kuasa Persekutuan–Negeri](/ms/government/federal-state-division). Untuk melihat institusi yang tidak wujud di wilayah ini, lihat [Dewan Undangan Negeri (DUN)](/ms/government/state-assemblies-dun). Untuk dewan yang mewakili penduduk wilayah di Parlimen, lihat [Dewan Rakyat](/ms/government/dewan-rakyat) dan [Dewan Negara](/ms/government/dewan-negara). Dan untuk gambaran besar susun lapis pemerintahan Malaysia, lihat [tiga lapis kerajaan](/ms/government/three-tiers-of-government).
+Untuk memahami mengapa "segala perkara berhubung dengan Wilayah Persekutuan" jatuh kepada Persekutuan dan bukan negeri, baca [pembahagian kuasa Persekutuan–Negeri](/government/federal-state-division). Untuk melihat institusi yang tidak wujud di wilayah ini, lihat [Dewan Undangan Negeri (DUN)](/government/state-assemblies-dun). Untuk dewan yang mewakili penduduk wilayah di Parlimen, lihat [Dewan Rakyat](/government/dewan-rakyat) dan [Dewan Negara](/government/dewan-negara). Dan untuk gambaran besar susun lapis pemerintahan Malaysia, lihat [tiga lapis kerajaan](/government/three-tiers-of-government).
 
 Baru mengenali cara Malaysia ditadbir? Lihat [tiga peringkat kerajaan Malaysia](/government/three-tiers-of-government/).

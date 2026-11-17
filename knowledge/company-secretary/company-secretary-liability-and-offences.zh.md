@@ -27,7 +27,7 @@ faq:
     a: "根据《2016年公司法令》第593条，向注册官（SSM）作出虚假陈述或报告可判处最长10年监禁、最高RM3百万罚款，或两者兼施。"
 
 lang: "zh"
-sourceContentHash: "e1c1cbfc3de7c89d"
+sourceContentHash: "7be6acb4beb0691a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -61,7 +61,7 @@ sources:
 
 relations:
   - { rel: "administered-by", to: "suruhanjaya-syarikat-malaysia" }
-  - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
+  - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["companies-act-2016"]
 keywords: ["liabiliti setiausaha syarikat", "kesalahan setiausaha syarikat", "penyata palsu", "seksyen 591", "Akta Syarikat 2016", "pegawai syarikat", "Borang 49"]
 framework: rules
@@ -109,6 +109,6 @@ framework: rules
 
 ## 接下来
 
-- 阅读秘书的完整职责与义务：[company-secretary-duties-and-responsibilities](/zh/company-secretary/company-secretary-duties-and-responsibilities)
-- 了解总体框架：[《2016年公司法令》](/zh/company-secretary/companies-act-2016)
+- 阅读秘书的完整职责与义务：[公司秘书的职责](/zh/business/company-secretary-malaysia)
+- 了解总体框架：[《2016年公司法令》](/zh/law/companies-act-2016)
 - 若面临实际起诉风险，请咨询持牌企业律师——本文为一般指南，而非法律意见。

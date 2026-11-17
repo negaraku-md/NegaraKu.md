@@ -32,7 +32,7 @@ faq:
     a: "Cục Lãnh thổ Liên bang (JWP) thuộc Văn phòng Thủ tướng điều phối chính sách và phát triển cả ba lãnh thổ ở cấp liên bang, trong khi DBKL, Perbadanan Putrajaya và Perbadanan Labuan là các cơ quan địa phương thực hiện công việc hằng ngày như cấp phép, quy hoạch đô thị và dịch vụ đô thị tại lãnh thổ của mình."
 
 lang: "vi"
-sourceContentHash: "ef54e164ff586fe9"
+sourceContentHash: "9bb7978f0345dc23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

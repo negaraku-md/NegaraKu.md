@@ -37,7 +37,7 @@ faq:
     a: "Oui. La certification halal porte sur la conformité du produit, des ingrédients et des procédés aux exigences de la MS 1500 et du MPPHM, non sur la religion du propriétaire. Les entreprises détenues par des non-musulmans peuvent demander et obtenir le Certificat de confirmation halal de Malaisie, et beaucoup le font."
 
 lang: "fr"
-sourceContentHash: "f2b9c9a9d90925a7"
+sourceContentHash: "73ec7034840ec260"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

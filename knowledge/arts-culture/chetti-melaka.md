@@ -111,6 +111,6 @@ Ada usaha untuk memeliharanya. Menurut *Free Malaysia Today*, Kampung Chetti tel
 
 ## Apa seterusnya
 
-- Baca tentang [Peranakan Baba-Nyonya](/ms/arts-culture/peranakan), komuniti kacukan Melaka yang lebih dikenali dan setali dengan kisah Chetti.
-- Fahami latar [masyarakat Tamil di Malaysia](/ms/arts-culture/tamil-in-malaysia), akar India yang menjadi asal-usul Chetti Melaka.
+- Baca tentang [Peranakan Baba-Nyonya](/arts-culture/peranakan), komuniti kacukan Melaka yang lebih dikenali dan setali dengan kisah Chetti.
+- Fahami latar [masyarakat Tamil di Malaysia](/arts-culture/tamil-in-malaysia), akar India yang menjadi asal-usul Chetti Melaka.
 - Kunjungi **Kampung Chetti** di Jalan Gajah Berang, Melaka untuk melihat sendiri sebuah komuniti warisan yang masih hidup.

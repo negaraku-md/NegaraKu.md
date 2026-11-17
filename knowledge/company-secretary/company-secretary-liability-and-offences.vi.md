@@ -27,7 +27,7 @@ faq:
     a: "Theo mục 593 của Companies Act 2016, một tuyên bố hoặc báo cáo sai gửi Cơ quan Đăng ký (SSM) có thể bị phạt tù tới 10 năm, phạt tới RM3 triệu, hoặc cả hai."
 
 lang: "vi"
-sourceContentHash: "e1c1cbfc3de7c89d"
+sourceContentHash: "7be6acb4beb0691a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -61,7 +61,7 @@ sources:
 
 relations:
   - { rel: "administered-by", to: "suruhanjaya-syarikat-malaysia" }
-  - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
+  - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["companies-act-2016"]
 keywords: ["liabiliti setiausaha syarikat", "kesalahan setiausaha syarikat", "penyata palsu", "seksyen 591", "Akta Syarikat 2016", "pegawai syarikat", "Borang 49"]
 framework: rules
@@ -137,7 +137,7 @@ một khoản phạt tiếp diễn không quá RM1,000 cho mỗi ngày vi phạm
 
 ## Tiếp theo
 
-- Đọc các nghĩa vụ và trách nhiệm đầy đủ của thư ký: [company-secretary-duties-and-responsibilities](/vi/company-secretary/company-secretary-duties-and-responsibilities)
-- Hiểu khung tổng thể: [Companies Act 2016](/vi/company-secretary/companies-act-2016)
+- Đọc các nghĩa vụ và trách nhiệm đầy đủ của thư ký: [nhiệm vụ của thư ký công ty](/vi/business/company-secretary-malaysia)
+- Hiểu khung tổng thể: [Companies Act 2016](/vi/law/companies-act-2016)
 - Nếu đối mặt với rủi ro truy tố thực sự, hãy tìm tư vấn của một luật sư doanh nghiệp được
   cấp phép — bài viết này là một hướng dẫn chung, chứ không phải tư vấn pháp lý.

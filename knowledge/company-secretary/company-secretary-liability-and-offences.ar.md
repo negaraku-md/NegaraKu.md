@@ -27,7 +27,7 @@ faq:
     a: "بموجب المادة 593 من قانون الشركات لسنة 2016 (Companies Act 2016)، يُعاقَب على البيان أو التقرير الكاذب المقدَّم إلى المُسجِّل (SSM) بالسجن حتى 10 سنوات، أو بغرامة حتى RM3 مليون، أو بكلتيهما."
 
 lang: "ar"
-sourceContentHash: "e1c1cbfc3de7c89d"
+sourceContentHash: "7be6acb4beb0691a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -61,7 +61,7 @@ sources:
 
 relations:
   - { rel: "administered-by", to: "suruhanjaya-syarikat-malaysia" }
-  - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
+  - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["companies-act-2016"]
 keywords: ["مسؤولية أمين الشركة", "جرائم أمين الشركة", "بيان كاذب", "المادة 591", "Companies Act 2016", "Akta Syarikat 2016", "مسؤول الشركة", "النموذج 49", "Borang 49"]
 framework: rules
@@ -109,6 +109,6 @@ framework: rules
 
 ## ما التالي
 
-- اقرأ واجبات الأمين ومسؤولياته كاملةً: [company-secretary-duties-and-responsibilities](/company-secretary/company-secretary-duties-and-responsibilities)
-- افهم الإطار الشامل: [Companies Act 2016](/company-secretary/companies-act-2016)
+- اقرأ واجبات الأمين ومسؤولياته كاملةً: [واجبات أمين سر الشركة](/business/company-secretary-malaysia)
+- افهم الإطار الشامل: [Companies Act 2016](/law/companies-act-2016)
 - إذا واجهتَ خطر مقاضاة فعلياً، فاحصل على مشورة محامٍ مؤسسي مرخَّص — هذه المقالة إرشاد عام، لا مشورة قانونية.

@@ -30,7 +30,7 @@ faq:
     a: "이 공동체의 수는 급격히 줄었습니다 — 싱가포르 국가유산위원회(Roots)에 따르면 1980년대 약 400가구에서 오늘날 50가구 미만으로 줄었으며, 프리 말레이시아 투데이(Free Malaysia Today) 보도는 약 20~30가구만이 여전히 캄풍 체티에 산다고 추산합니다. 연구자들은 이 쇠퇴를 통혼, 역외 이주, 그리고 체티 뿌리와의 연결을 점점 잃어 가는 젊은 세대와 연관 짓습니다."
 
 lang: "ko"
-sourceContentHash: "f11ad6d038f7a742"
+sourceContentHash: "6898b0a0b841fb12"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -112,6 +112,6 @@ framework: history-culture
 
 ## 다음으로 볼 것
 
-- 더 잘 알려졌고 체티의 이야기와 통하는 믈라카의 혼종 공동체인 [페라나칸 바바-뇨냐](/ms/arts-culture/peranakan)에 대해 읽어 보십시오.
-- 체티 믈라카의 유래가 된 인도의 뿌리인 [말레이시아의 타밀 사회](/ms/arts-culture/tamil-in-malaysia)의 배경을 이해하십시오.
+- 더 잘 알려졌고 체티의 이야기와 통하는 믈라카의 혼종 공동체인 [페라나칸 바바-뇨냐](/ko/arts-culture/peranakan)에 대해 읽어 보십시오.
+- 체티 믈라카의 유래가 된 인도의 뿌리인 [말레이시아의 타밀 사회](/ko/arts-culture/tamil-in-malaysia)의 배경을 이해하십시오.
 - 여전히 살아 있는 유산 공동체를 직접 보려면 믈라카 잘란 가자 브랑의 **캄풍 체티**를 방문하십시오.

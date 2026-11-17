@@ -156,7 +156,7 @@ Artikel ini tidak menyokong mana-mana pendirian. Yang boleh dinyatakan sebagai f
 
 ## Apa seterusnya
 
-Untuk melihat kedudukan Perkara 153 dalam keseluruhan dokumen, lihat [Perlembagaan Persekutuan Malaysia](/ms/law/federal-constitution). Untuk peranan Majlis Raja-Raja yang dirundingi di bawah Perkara 38(5) dan yang persetujuannya dikehendaki di bawah Perkara 159(5), lihat [Majlis Raja-Raja](/ms/government/majlis-raja-raja). Untuk syarat pindaan yang melindungi Perkara 153, lihat [Meminda Perlembagaan Persekutuan](/ms/law/constitutional-amendment). Untuk konteks dasar di mana istilah "Bumiputera" dan sasaran berangka digunakan, lihat [Dasar Ekonomi Baru](/ms/malaysia/new-economic-policy). Untuk kedudukan anak negeri Sabah dan Sarawak, lihat [MA63](/ms/malaysia/ma63).
+Untuk melihat kedudukan Perkara 153 dalam keseluruhan dokumen, lihat [Perlembagaan Persekutuan Malaysia](/law/federal-constitution). Untuk peranan Majlis Raja-Raja yang dirundingi di bawah Perkara 38(5) dan yang persetujuannya dikehendaki di bawah Perkara 159(5), lihat [Majlis Raja-Raja](/government/majlis-raja-raja). Untuk syarat pindaan yang melindungi Perkara 153, lihat [Meminda Perlembagaan Persekutuan](/law/constitutional-amendment). Untuk konteks dasar di mana istilah "Bumiputera" dan sasaran berangka digunakan, lihat [Dasar Ekonomi Baru](/malaysia/new-economic-policy). Untuk kedudukan anak negeri Sabah dan Sarawak, lihat [MA63](/malaysia/ma63).
 
 ---
 

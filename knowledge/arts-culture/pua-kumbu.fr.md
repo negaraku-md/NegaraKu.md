@@ -34,7 +34,7 @@ faq:
     a: "Il est employé dans les rites de passage de la vie, de la naissance à la mort, dans les cérémonies sacrées et les rituels de guérison, et il est traditionnellement lié à la tradition guerrière iban. Ses motifs sont aussi tissés dans les sarongs des femmes, les pagnes des hommes et les robes des chamans."
 
 lang: "fr"
-sourceContentHash: "1d30a78fcc6cce68"
+sourceContentHash: "aa5affdf465c350b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -34,7 +34,7 @@ faq:
     a: "It is used in life's rites of passage from birth to death, in sacred ceremonies and healing rituals, and is traditionally bound to the Iban warrior tradition. Its motifs are also woven into women's sarongs, men's loincloths and shaman's robes."
 
 lang: "en"
-sourceContentHash: "1d30a78fcc6cce68"
+sourceContentHash: "aa5affdf465c350b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

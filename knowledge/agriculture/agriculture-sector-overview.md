@@ -269,7 +269,7 @@ Panduan utama dalam bidang ini:
 
 ## Langkah seterusnya
 
-- Selami komoditi eksport terbesar dalam [gambaran sektor minyak sawit Malaysia](/ms/economy/palm-oil-sector) — skala, institusi dan pensijilan kelestariannya.
-- Fahami inversi luar biasa dalam [industri getah Malaysia](/ms/economy/rubber): tanaman yang menyusut tetapi masih menyuap perniagaan sarung tangan global terbesar dunia.
-- Letak pertanian dalam konteks yang lebih luas melalui [gambaran KDNK Malaysia](/ms/economy/gdp-overview).
+- Selami komoditi eksport terbesar dalam [gambaran sektor minyak sawit Malaysia](/economy/palm-oil-sector) — skala, institusi dan pensijilan kelestariannya.
+- Fahami inversi luar biasa dalam [industri getah Malaysia](/economy/rubber): tanaman yang menyusut tetapi masih menyuap perniagaan sarung tangan global terbesar dunia.
+- Letak pertanian dalam konteks yang lebih luas melalui [gambaran KDNK Malaysia](/economy/gdp-overview).
 - Untuk angka terkini, rujuk terus siaran DOSM *Selected Agricultural Indicators* dan *Supply and Utilization Accounts*, laporan tahunan MPOB, dan penyata rasmi KPKM serta KPK — siri pengeluaran, perdagangan dan sara diri disemak dan boleh berubah dengan ketara dari tahun ke tahun.

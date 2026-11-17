@@ -25,7 +25,7 @@ faq:
   - q: "SSM에 허위 진술을 한 경우의 처벌은 무엇입니까?"
     a: "회사법(Companies Act 2016) s.593에 따라, 등기관(SSM)에 대한 허위 진술이나 보고는 최대 10년의 징역, RM3,000,000 이하의 벌금, 또는 그 병과에 처할 수 있습니다."
 lang: "ko"
-sourceContentHash: "e1c1cbfc3de7c89d"
+sourceContentHash: "7be6acb4beb0691a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -59,7 +59,7 @@ sources:
 
 relations:
   - { rel: "administered-by", to: "suruhanjaya-syarikat-malaysia" }
-  - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
+  - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["companies-act-2016"]
 keywords: ["liabiliti setiausaha syarikat", "kesalahan setiausaha syarikat", "penyata palsu", "seksyen 591", "Akta Syarikat 2016", "pegawai syarikat", "Borang 49"]
 framework: rules
@@ -107,6 +107,6 @@ SSM 서식에 하는 한 번의 서명이 회사 비서를 피고인석에 세�
 
 ## 다음 단계
 
-- 비서의 전체 임무와 책임을 읽어보십시오: [회사 비서의 임무와 책임](/ko/company-secretary/company-secretary-duties-and-responsibilities)
-- 상위 프레임워크를 이해하십시오: [회사법(Companies Act 2016)](/ko/company-secretary/companies-act-2016)
+- 비서의 전체 임무와 책임을 읽어보십시오: [회사 비서의 임무와 책임](/ko/business/company-secretary-malaysia)
+- 상위 프레임워크를 이해하십시오: [회사법(Companies Act 2016)](/ko/law/companies-act-2016)
 - 실제 기소 위험에 직면한 경우, 면허를 가진 기업 변호사의 자문을 받으십시오 — 이 글은 일반적 안내이며 법률 자문이 아닙니다.

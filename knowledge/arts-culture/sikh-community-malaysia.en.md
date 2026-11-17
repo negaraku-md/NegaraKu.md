@@ -34,7 +34,7 @@ faq:
     a: "Punjabi is still alive but undergoing language shift: academic research on the Sikh community in Kota Kinabalu found that the majority of families now use English at home. To preserve the language, gurdwaras run Punjabi classes — for example the Punjabi Education Centre at Gurdwara Sahib Seremban — which teach the Gurmukhi script to children."
 
 lang: "en"
-sourceContentHash: "9ed6f6181f75f4d2"
+sourceContentHash: "573b2db427c12fb3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -32,7 +32,7 @@ faq:
     a: "Intrudu 是马六甲葡萄牙社群每年在圣灰星期三（四旬期开始）前的星期日举行的泼水节。村民与访客沿着葡萄牙村互相泼水，庆典伴随 branyo 舞蹈进行。"
 
 lang: "zh"
-sourceContentHash: "6be0336bb559138c"
+sourceContentHash: "eae82f9fdc66fe33"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

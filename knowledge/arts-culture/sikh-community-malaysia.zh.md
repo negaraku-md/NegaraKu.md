@@ -34,7 +34,7 @@ faq:
     a: "旁遮普语仍然存续，但正经历语言转移：一项针对亚庇（Kota Kinabalu）锡克社群的学术研究发现，如今大多数家庭在家中使用英语。为保存这门语言，谒师所开办旁遮普语课程——例如芙蓉谒师所（Gurdwara Sahib Seremban）的旁遮普教育中心——向儿童教授古木基（Gurmukhi）文字。"
 
 lang: "zh"
-sourceContentHash: "9ed6f6181f75f4d2"
+sourceContentHash: "573b2db427c12fb3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

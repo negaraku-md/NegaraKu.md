@@ -30,7 +30,7 @@ faq:
     a: "The Bakun Hydroelectric Plant, with an available capacity of 2,520MW, is the largest generation facility in Sarawak."
 
 lang: "en"
-sourceContentHash: "7830394fcb9de25a"
+sourceContentHash: "842a8fcd8feb3418"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -136,7 +136,7 @@ For the first half of the December 2025 financial year, SEB reported revenue of 
 
 ## Next steps
 
-- Read the **[Tenaga Nasional Berhad](/en/energy/tenaga-nasional-berhad)** profile to compare the Peninsula and Sarawak utility models.
+- Read the **[Tenaga Nasional Berhad](/en/companies/tenaga-nasional)** profile to compare the Peninsula and Sarawak utility models.
 - For the engineering details of Sarawak's largest dam, explore the official **[Bakun Hydroelectric Plant](https://www.sarawakenergy.com/bakun-hydroelectric-plant)** page.
 - Note: capacity and financial figures change over time; verify with SEB's latest annual report and media releases before using them for official decisions.
 

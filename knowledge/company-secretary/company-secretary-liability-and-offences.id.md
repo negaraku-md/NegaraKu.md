@@ -27,7 +27,7 @@ faq:
     a: "Berdasarkan pasal 593 Companies Act 2016, pernyataan atau laporan palsu kepada Pendaftar (SSM) dapat dihukum penjara hingga 10 tahun, denda hingga RM3 juta, atau keduanya."
 
 lang: "id"
-sourceContentHash: "e1c1cbfc3de7c89d"
+sourceContentHash: "7be6acb4beb0691a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -61,7 +61,7 @@ sources:
 
 relations:
   - { rel: "administered-by", to: "suruhanjaya-syarikat-malaysia" }
-  - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
+  - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["companies-act-2016"]
 keywords: ["liabiliti setiausaha syarikat", "kesalahan setiausaha syarikat", "penyata palsu", "seksyen 591", "Akta Syarikat 2016", "pegawai syarikat", "Borang 49"]
 framework: rules
@@ -109,6 +109,6 @@ Bukan penipuan saja yang menjadi pelanggaran. Keterlambatan atau kegagalan menya
 
 ## Apa selanjutnya
 
-- Baca tugas dan tanggung jawab penuh sekretaris: [company-secretary-duties-and-responsibilities](/id/company-secretary/company-secretary-duties-and-responsibilities)
-- Pahami kerangka induk: [Companies Act 2016](/id/company-secretary/companies-act-2016)
+- Baca tugas dan tanggung jawab penuh sekretaris: [tugas sekretaris perusahaan](/id/business/company-secretary-malaysia)
+- Pahami kerangka induk: [Companies Act 2016](/id/law/companies-act-2016)
 - Jika menghadapi risiko tuntutan sebenar, dapatkan nasihat pengacara korporat berlisensi — artikel ini panduan umum, bukan nasihat hukum.

@@ -27,7 +27,7 @@ faq:
     a: "2016年会社法s.593に基づき、登記官（SSM）に対する虚偽の陳述または報告は、最長10年の禁錮、最高RM300万の罰金、またはその両方を科され得る。"
 
 lang: "ja"
-sourceContentHash: "e1c1cbfc3de7c89d"
+sourceContentHash: "7be6acb4beb0691a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -61,7 +61,7 @@ sources:
 
 relations:
   - { rel: "administered-by", to: "suruhanjaya-syarikat-malaysia" }
-  - { rel: "related-to", to: "company-secretary-duties-and-responsibilities" }
+  - { rel: "related-to", to: "company-secretary-malaysia" }
 related: ["companies-act-2016"]
 keywords: ["liabiliti setiausaha syarikat", "kesalahan setiausaha syarikat", "penyata palsu", "seksyen 591", "Akta Syarikat 2016", "pegawai syarikat", "Borang 49"]
 framework: rules
@@ -109,6 +109,6 @@ SSMの書式への一つの署名が、会社秘書役を被告席に立たせ�
 
 ## 次のステップ
 
-- 秘書役の職務と責任の全容について読む：[company-secretary-duties-and-responsibilities](/ja/company-secretary/company-secretary-duties-and-responsibilities)
-- 上位の枠組みを理解する：[2016年会社法](/ja/company-secretary/companies-act-2016)
+- 秘書役の職務と責任の全容について読む：[会社秘書役の職務](/ja/business/company-secretary-malaysia)
+- 上位の枠組みを理解する：[2016年会社法](/ja/law/companies-act-2016)
 - 実際の訴追リスクに直面している場合は、有資格の企業法弁護士に助言を求めること——本記事は一般的な案内であり、法律助言ではない。
