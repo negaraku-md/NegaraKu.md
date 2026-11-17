@@ -68,6 +68,12 @@ relations:
 related: ["registering-a-marriage-civil", "jpn", "mykad"]
 keywords: ["getting married in Malaysia", "Malaysia marriage law", "civil marriage vs syariah marriage", "Islamic marriage Malaysia", "Act 164 Malaysia", "JAKIM marriage", "wali marriage Malaysia", "Syariah Court marriage permission", "Muslim marriage registration Malaysia", "kursus pra perkahwinan"]
 framework: explainer
+stayFacts:
+  who: '任何在马来西亚结婚的人——无论公民还是外国人——都需要先弄清自己的婚姻适用哪套法律制度：双方均非穆斯林、双方均为穆斯林，或其中一方皈依伊斯兰教。'
+  how: '马来西亚并没有单一的婚姻法。若双方均非穆斯林，则属民事婚姻，依据1976年《法律改革（婚姻与离婚）法令》（Law Reform (Marriage and Divorce) Act 1976，Act 164）在国民登记局（Jabatan Pendaftaran Negara，JPN）注册。若任何一方为穆斯林，则适用提出申请所在州属的伊斯兰家庭法，由该州的伊斯兰宗教局管理——依《联邦宪法》第九附表（Ninth Schedule），这属于州属事务清单范畴——程序涉及婚前课程、瓦利（wali，监护人）要求，以及证婚仪式（akad nikah）。'
+  cost: '因州而异——伊斯兰路径的表格及部分费用由各州自行订定；请向相关州属的伊斯兰宗教局确认当前费用，或（民事路径）向国民登记局（jpn.gov.my）确认。'
+  watch: '适用哪套制度由宗教决定，而非个人偏好：穆斯林不能根据Act 164注册，非穆斯林若未先皈依，也不能走伊斯兰路径。不存在宗教中立的选项，而伊斯兰程序因州而异。'
+  next: '首先厘清哪套制度适用——这仅取决于是否任一方为穆斯林。非穆斯林：请参阅配套的民事婚姻指南，了解完整的JPN程序。穆斯林夫妇或正在皈依的夫妇：请向将办理注册所在州属的伊斯兰宗教局确认程序、婚前课程及费用。'
 ---
 
 问一个马来西亚人如何结婚，诚实的第一个答案通常是另一个问题：你们两人当中有谁是穆斯林吗？

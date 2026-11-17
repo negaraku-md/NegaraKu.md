@@ -68,6 +68,12 @@ relations:
 related: ["registering-a-marriage-civil", "jpn", "mykad"]
 keywords: ["getting married in Malaysia", "Malaysia marriage law", "civil marriage vs syariah marriage", "Islamic marriage Malaysia", "Act 164 Malaysia", "JAKIM marriage", "wali marriage Malaysia", "Syariah Court marriage permission", "Muslim marriage registration Malaysia", "kursus pra perkahwinan"]
 framework: explainer
+stayFacts:
+  who: '말레이시아에서 혼인하는 누구든 — 말레이시아 국민이든 외국인이든 — 자신의 혼인이 어느 법 제도의 적용을 받는지 알아야 하는 사람: 양 당사자가 모두 비무슬림인 경우, 둘 다 무슬림인 경우, 또는 한 당사자가 이슬람으로 개종하는 경우.'
+  how: '단일한 혼인법은 없습니다. 어느 당사자도 무슬림이 아니라면, 혼인법개혁(혼인 및 이혼)법 1976(Law Reform (Marriage and Divorce) Act 1976, Act 164)에 따라 국가등록청(Jabatan Pendaftaran Negara, JPN)에 등록되는 민사 혼인입니다. 어느 한 당사자가 무슬림이라면, 신청이 이루어지는 주의 이슬람 가족법의 적용을 받으며 — 이는 연방헌법 제9부표상 주 목록(State List) 사항으로 그 주의 종교국이 관장합니다 — 혼전 강좌, 왈리(wali, 후견인) 요건, 그리고 혼인성립(아카드 니카, akad nikah)을 포함합니다.'
+  cost: '주마다 다릅니다 — 이슬람 경로의 양식과 일부 수수료는 주별로 정해집니다. 현행 수수료는 해당 주 이슬람 종교국에, 또는 (민사 경로의 경우) JPN(jpn.gov.my)에 확인하십시오.'
+  watch: '제도는 선호가 아니라 종교로 고정됩니다: 무슬림은 Act 164에 따라 등록할 수 없고, 비무슬림은 먼저 개종하지 않고서는 이슬람 경로를 이용할 수 없습니다. 종교 중립적 선택지는 없으며, 이슬람 절차는 주마다 다릅니다.'
+  next: '먼저 어느 제도가 적용되는지 파악하십시오 — 이는 오직 어느 한 당사자가 무슬림인지 여부에 달려 있습니다. 비무슬림: 전체 JPN 절차는 동반 민사 혼인 안내를 참조하십시오. 무슬림이거나 개종하는 부부: 등록할 주의 이슬람 종교국에 절차, 혼전 강좌, 수수료를 확인하십시오.'
 ---
 
 말레이시아 사람에게 어떻게 혼인하느냐고 물으면, 솔직한 첫 대답은 대개 또 다른 질문입니다. 두 분 중 무슬림이신 분이 있습니까?

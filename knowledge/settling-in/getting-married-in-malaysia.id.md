@@ -69,6 +69,12 @@ relations:
 related: ["registering-a-marriage-civil", "jpn", "mykad"]
 keywords: ["getting married in Malaysia", "Malaysia marriage law", "civil marriage vs syariah marriage", "Islamic marriage Malaysia", "Act 164 Malaysia", "JAKIM marriage", "wali marriage Malaysia", "Syariah Court marriage permission", "Muslim marriage registration Malaysia", "kursus pra perkahwinan"]
 framework: explainer
+stayFacts:
+  who: 'Siapa pun yang menikah di Malaysia — warga negara maupun warga asing — yang perlu tahu sistem hukum mana yang berlaku bagi pernikahannya: kedua pihak non-Muslim, keduanya Muslim, atau salah satu pihak memeluk Islam.'
+  how: 'Tidak ada satu undang-undang pernikahan tunggal. Jika tidak satu pihak pun beragama Islam, pernikahan itu adalah pernikahan sipil yang didaftarkan dengan Jabatan Pendaftaran Negara (JPN) di bawah Akta Membaharui Undang-Undang (Perkahwinan dan Perceraian) 1976 (Akta 164). Jika salah satu pihak beragama Islam, pernikahan itu tunduk pada hukum keluarga Islam negeri tempat Anda mengajukan permohonan — dikelola oleh jabatan agama Islam negeri itu, suatu perkara Senarai Negeri di bawah Konstitusi Federal, Jadwal Kesembilan — dan melibatkan kursus pra-pernikahan, persyaratan wali (penjaga), serta solemnisasi (akad nikah).'
+  cost: 'Berbeda-beda — formulir dan sebagian biaya jalur Islam ditetapkan negeri demi negeri; pastikan biaya terkini dengan jabatan agama Islam negeri yang berkaitan, atau (jalur sipil) dengan JPN (jpn.gov.my).'
+  watch: 'Sistem ini ditentukan oleh agama, bukan pilihan: seorang Muslim tidak dapat mendaftar di bawah Akta 164, dan seorang non-Muslim tidak dapat menggunakan jalur Islam tanpa memeluk Islam terlebih dahulu. Tidak ada pilihan yang netral dari segi agama, dan prosedur Islam berbeda dari satu negeri ke negeri lain.'
+  next: 'Pertama-tama tentukan sistem mana yang berlaku — ini bergantung semata-mata pada apakah salah satu pihak beragama Islam. Non-Muslim: lihat panduan pendamping pernikahan sipil untuk proses JPN selengkapnya. Pasangan Muslim atau yang sedang memeluk Islam: pastikan prosedur, kursus pra-pernikahan, dan biaya dengan jabatan agama Islam negeri tempat Anda akan mendaftar.'
 ---
 
 Tanya seorang warga Malaysia bagaimana cara menikah, dan jawaban jujur

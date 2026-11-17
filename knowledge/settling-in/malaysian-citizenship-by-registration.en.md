@@ -85,6 +85,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["kewarganegaraan", "pendaftaran", "Perkara 15", "pasangan asing", "Perlembagaan Persekutuan", "JPN", "warganegara Malaysia"]
 framework: explainer
+stayFacts:
+  who: 'Chiefly the foreign wife of a male citizen (Article 15(1)) and a child under 21 with at least one citizen parent (Article 15(2); Article 15A for special circumstances). Articles 16 and 16A are transitional provisions whose application windows have long closed.'
+  how: 'Registration is one of the citizenship routes in Part III of the Federal Constitution (chiefly Articles 15, 15A and 18), distinct from naturalisation under Article 19. Application is made to the Federal Government through Jabatan Pendaftaran Negara (JPN) under the Ministry of Home Affairs — Form A for a spouse, Form B for a child; applicants aged 18 and over must take the oath of allegiance in the First Schedule (Article 18).'
+  cost: 'Varies — the article cites an application fee and a citizenship-certificate fee, but the figures come from an NGO guide and may change; confirm current rates against JPN''s official fee schedule (jpn.gov.my).'
+  watch: 'Approval is not an automatic right: the Constitution''s wording (''may cause to be registered''; the applicant must ''satisfy'' the Federal Government) makes it discretionary, with no guaranteed statutory timeframe, and it is reported to take years. Marriage alone does not confer citizenship, and under Article 26(2) a wife registered under Article 15(1) may be deprived of citizenship if the marriage is dissolved (otherwise than by death) within two years.'
+  next: 'Check JPN''s official portal (jpn.gov.my) and MyGovernment for the current document checklist, forms and fees, and the official Federal Constitution text (Attorney General''s Chambers reprint) for the exact wording of Articles 15, 15A, 18 and 26; because the application is discretionary, many applicants consult a lawyer or a family-support organisation first.'
 ---
 
 Marrying a Malaysian citizen does not by itself make a person a citizen. For foreign spouses and for the child of a citizen, the route commonly referred to is "registration" — one of the ways of acquiring citizenship listed in Part III of the Federal Constitution. This page explains that legal framework in a neutral and descriptive way; it is not legal advice.

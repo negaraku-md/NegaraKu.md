@@ -108,15 +108,34 @@ validate-frontmatter **0 error / 0 warning**, translation-sync **0 stale / 0 orp
 topics (freshness-neutral re-confirmed). Content-only (schema live) → no `npm run clean`. 91 files
 = 7 masters + 84 translations.
 
-**HELD (sensitivity, reviewer `ashton-tan`):** `getting-married-in-malaysia` (`religion`) and
-`registering-a-muslim-marriage` (`religion`) — plus the standing `malaysian-citizenship-by-
-registration` (`constitution`). Not shipped to a live deploy without ashton-tan's review.
 **Skipped (off the staying funnel):** `immigration-department-jim` (agency explainer, not a decision),
 `renewing-your-passport` (for citizens, not the deciding-to-stay reader).
 
-**Running total: 24 decisions carded × 13 langs.** The settling-in stayFacts layer is now saturated
-for `sensitivity: none` content; everything still uncarded is either held-for-review (3 sensitive) or
-deliberately off-funnel (JIM hub, citizen passport, life-event registrations for birth/death/divorce).
+## Tranche D — 3 sensitive settling decisions, 13 langs (2026-11-17) — REVIEWED + SHIPPED
+The 3 cards held from Tranches B/C for sensitivity review. Reviewer `ashton-tan` was shown the drafted
+master cards (watch fields, statutory cites, framing) and the live-deploy gate in-session, and directed
+shipping. The cards derive only from each already-reviewed, already-live article (sources reviewed
+2026-07-25 / 2026-08-08), add no new claims, hedge every figure, and keep every statutory cite verbatim.
+Slugs: **getting-married-in-malaysia** (`religion`, en master — comparative two-systems overview: civil
+JPN/Act 164 vs state Islamic family law, Ninth Schedule State List; watch = no religion-neutral option),
+**registering-a-muslim-marriage** (`religion`, en master — Act 303 ss.8/13/14(3)/18, SPPIM/e-nikah state
+coverage, wali/akad nikah, Syariah-referral triggers; ages kept behind the s.8 cite, not pinned, since
+enactments differ by state and the age is under reform debate), **malaysian-citizenship-by-registration**
+(`constitution`, **ms master** — Perkara 15/15A/18/19/26(2), Jadual Pertama, Borang A/B, JPN/KDN; watch =
+discretionary `budi bicara`, not a right, plus the two-year dissolution deprivation under Perkara 26(2)).
+MIXED MASTERS: 2 en + 1 ms → master-aware injector. METHOD: 3 extraction agents (grounded per-article,
+self-verified against source) → English pivot (incl. an English rendering of the ms citizenship master
+for its `.en.md`) → 12 per-language translation agents (own-language siblings for register; cites preserved
+verbatim; sensitive framing held exact) → `scratchpad/assemble-cards-sensitive.mjs` (citizenship-ms
+overridden to the authored Malay master) → `scratchpad/inject-stayfacts-sensitive.mjs` (master-aware).
+GATE: 39/39 js-yaml clean, validate-frontmatter **0 error / 0 warning**, translation-sync **0 stale /
+0 orphaned** across 1403 topics (freshness-neutral). 39 files = 3 masters + 36 translations. All 3 keep
+`reviewer: ashton-tan`.
+
+**Running total: 27 decisions carded × 13 langs.** The settling-in stayFacts layer is now fully saturated —
+every substantive settling decision (sensitivity none *and* the 3 sensitive) is carded; everything still
+uncarded is deliberately off-funnel (JIM agency hub, citizen passport, life-event registrations for
+birth/death/divorce).
 
 ## Phase 2 — DONE 2026-11-16 (HELD)
 - **想留下 "Make Malaysia home" guided path** — the `GuidedPath` `living`-variant band

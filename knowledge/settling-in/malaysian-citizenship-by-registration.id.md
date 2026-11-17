@@ -85,6 +85,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["kewarganegaraan", "pendaftaran", "Perkara 15", "pasangan asing", "Perlembagaan Persekutuan", "JPN", "warganegara Malaysia"]
 framework: explainer
+stayFacts:
+  who: 'Terutama istri asing seorang warga negara laki-laki (Pasal 15(1)) dan anak di bawah usia 21 tahun yang memiliki sekurang-kurangnya seorang orang tua warga negara (Pasal 15(2); Pasal 15A untuk keadaan khusus). Pasal 16 dan 16A adalah ketentuan peralihan yang jangka waktu permohonannya telah lama berlalu.'
+  how: 'Pendaftaran adalah salah satu jalur kewarganegaraan dalam Bagian III Konstitusi Federal (terutama Pasal 15, 15A, dan 18), berbeda dari naturalisasi di bawah Pasal 19. Permohonan diajukan kepada Pemerintah Federal melalui Jabatan Pendaftaran Negara (JPN) di bawah Kementerian Dalam Negeri — Formulir A untuk pasangan, Formulir B untuk anak; pemohon berusia 18 tahun ke atas harus mengangkat sumpah setia dalam Jadwal Pertama (Pasal 18).'
+  cost: 'Berbeda-beda — artikel ini mengutip biaya permohonan dan biaya sertifikat kewarganegaraan, tetapi angkanya berasal dari panduan LSM dan dapat berubah; pastikan tarif terkini terhadap jadwal biaya resmi JPN (jpn.gov.my).'
+  watch: 'Persetujuan bukanlah hak otomatis: kata-kata Konstitusi (''boleh menyebabkan... didaftarkan''; pemohon harus ''memuaskan hati'' Pemerintah Federal) menjadikannya bersifat diskresi, tanpa jangka waktu menurut undang-undang yang dijamin, dan dilaporkan memakan waktu bertahun-tahun. Pernikahan saja tidak memberikan kewarganegaraan, dan di bawah Pasal 26(2) seorang istri yang didaftarkan di bawah Pasal 15(1) dapat dicabut kewarganegaraannya jika pernikahan itu dibubarkan (selain karena kematian) dalam dua tahun.'
+  next: 'Periksa portal resmi JPN (jpn.gov.my) dan MyGovernment untuk daftar periksa dokumen, formulir, dan biaya terkini, serta teks resmi Konstitusi Federal (cetak ulang Jabatan Peguam Negara) untuk kata-kata sebenarnya Pasal 15, 15A, 18, dan 26; karena permohonan bersifat diskresi, banyak pemohon berkonsultasi dengan pengacara atau organisasi pendukung keluarga terlebih dahulu.'
 ---
 
 Menikah dengan seorang warga negara Malaysia tidak dengan sendirinya menjadikan seseorang itu warga negara. Bagi pasangan asing dan bagi anak seorang warga negara, jalur yang biasa disebut adalah "pendaftaran" — salah satu cara memperoleh kewarganegaraan yang tercantum dalam Bagian III Konstitusi Federal. Halaman ini menjelaskan kerangka hukum itu secara netral dan deskriptif; ia bukan nasihat hukum.

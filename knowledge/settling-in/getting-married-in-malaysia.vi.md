@@ -69,6 +69,12 @@ relations:
 related: ["registering-a-marriage-civil", "jpn", "mykad"]
 keywords: ["getting married in Malaysia", "Malaysia marriage law", "civil marriage vs syariah marriage", "Islamic marriage Malaysia", "Act 164 Malaysia", "JAKIM marriage", "wali marriage Malaysia", "Syariah Court marriage permission", "Muslim marriage registration Malaysia", "kursus pra perkahwinan"]
 framework: explainer
+stayFacts:
+  who: 'Bất kỳ ai kết hôn tại Malaysia — công dân hay người nước ngoài — cần biết cuộc hôn nhân của mình thuộc hệ thống pháp lý nào: cả hai bên đều không theo Hồi giáo, cả hai đều theo Hồi giáo, hay một bên đang cải sang đạo Hồi.'
+  how: 'Không có một luật hôn nhân duy nhất. Nếu không bên nào là người Hồi giáo, đó là một cuộc hôn nhân dân sự đăng ký với Jabatan Pendaftaran Negara (JPN) theo Law Reform (Marriage and Divorce) Act 1976 (Act 164). Nếu một trong hai bên là người Hồi giáo, cuộc hôn nhân thuộc luật gia đình Hồi giáo của bang nơi bạn nộp đơn — do sở tôn giáo Hồi giáo của bang đó quản lý, một vấn đề thuộc Danh mục Bang theo Hiến pháp Liên bang, Phụ lục Chín — và bao gồm một khóa học tiền hôn nhân, yêu cầu về wali (người giám hộ), và việc cử hành lễ (akad nikah).'
+  cost: 'Khác nhau tùy nơi — biểu mẫu và một số lệ phí của lối đi Hồi giáo được ấn định theo từng bang; hãy xác nhận lệ phí hiện hành với sở tôn giáo Hồi giáo của bang liên quan, hoặc (lối đi dân sự) với JPN (jpn.gov.my).'
+  watch: 'Hệ thống được quyết định bởi tôn giáo, chứ không phải sở thích: một người Hồi giáo không thể đăng ký theo Act 164, và một người không theo Hồi giáo không thể dùng lối đi Hồi giáo mà không cải đạo trước. Không có một lựa chọn trung lập về tôn giáo, và thủ tục Hồi giáo khác nhau từ bang này sang bang khác.'
+  next: 'Trước tiên hãy xác định hệ thống nào áp dụng — điều đó chỉ phụ thuộc vào việc một trong hai bên có phải là người Hồi giáo hay không. Người không theo Hồi giáo: xem bài đồng hành về hôn nhân dân sự để biết toàn bộ quy trình JPN. Các cặp Hồi giáo hoặc đang cải đạo: xác nhận thủ tục, khóa học tiền hôn nhân và lệ phí với sở tôn giáo Hồi giáo của bang nơi bạn sẽ đăng ký.'
 ---
 
 Hỏi một người Malaysia làm sao để kết hôn, và câu trả lời đầu tiên trung thực thường là một câu hỏi khác: một trong hai người có phải là người Hồi giáo không?

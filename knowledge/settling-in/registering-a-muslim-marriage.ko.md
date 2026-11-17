@@ -83,6 +83,12 @@ relations:
 related: ["registering-a-marriage-civil", "syariah-court-system"]
 keywords: ["muslim marriage malaysia", "nikah registration", "SPPIM", "wali hakim", "kursus pra perkahwinan", "akad nikah", "syariah court marriage", "islamic family law act 303"]
 framework: how-to
+stayFacts:
+  who: '말레이시아에서 혼인하는 무슬림 부부, 그리고 무슬림 혼인 신청을 지원하는 거주자.'
+  how: '혼인은 그것이 이루어지는 주의 이슬람 가족법에 따라, 그 주의 주 이슬람 종교국(Jabatan Agama Islam Negeri)과 임명된 혼인 등록관을 통해 등록됩니다. 여기서는 정확한 인용을 위해 이슬람 가족법(연방 직할구)법 1984(Islamic Family Law (Federal Territories) Act 1984, Act 303)를 사용합니다. 부부는 의무 혼전 강좌(Kursus Pra-Perkahwinan Islam)를 이수한 뒤, SPPIM 또는 주 e-nikah 포털을 통해 혼인 허가를 신청하며, 이어서 신부의 왈리(wali)와 두 명의 증인과 함께 권한 있는 등록관이 아카드 니카(akad nikah)를 성립시킵니다.'
+  cost: '주마다 다릅니다 — 등록 수수료는 소액이며 각 주가 정하고, 혼전 강좌에는 자체 수수료가 있습니다. 현행 금액은 해당 주 이슬람 종교국과 malaysia.gov.my의 SPPIM 서비스 페이지에 확인하십시오.'
+  watch: '이슬람은 주 사항이므로 요건이 주마다 다릅니다 — SPPIM은 대부분의 주와 연방 직할구를 포괄하지만 클란탄, 파항, 페낭, 사바, 사라왁은 포함하지 않으며, 이들은 자체 시스템을 운영합니다. 일부 사례는 등록관이 승인할 수 없고 Act 303 제18조에 따라 샤리아 법원으로 가야 합니다: 제8조 최소 연령 미만인 당사자, 제14조 (3)항에 따른 잔다(janda), 또는 나사브(nasab)상 왈리가 없는 신부(왈리 하킴(wali hakim) 명령으로 가는 경로).'
+  next: '회부 상황 중 어느 것이든 적용될 수 있다면(미성년 당사자, 혈통상 왈리 없음, 부재하거나 응하지 않는 왈리, 또는 일부다처 혼인) 사건은 해당 주의 샤리아 법원에 속합니다. 그렇지 않다면 혼인할 주의 이슬람 종교국에 현행 양식, 수수료, 요건을 확인하십시오.'
 ---
 
 두 사람이 혼인할 준비가 되었고, 양가가 만났으며, 날짜가 정해졌습니다 — 그러나 말레이시아에서 무슬림 혼인은 주가 운영하는 정해진 행정적·종교적 절차를 거치기 전까지는 등록된 혼인이 되지 않습니다. 이슬람은 연방헌법상 주 사항이므로, 각 주와 연방 직할구는 자체 이슬람 가족법 법령과 자체 주 이슬람 종교국(Jabatan Agama Islam Negeri)을 가집니다. 아래 단계는 전국적으로 대체로 유사합니다. 정확한 법정 참조를 위해 여기서는 연방 직할구 법인 이슬람 가족법(연방 직할구)법 1984(Act 303)를 사용합니다.

@@ -67,6 +67,12 @@ relations:
 related: ["registering-a-marriage-civil", "jpn", "mykad"]
 keywords: ["getting married in Malaysia", "Malaysia marriage law", "civil marriage vs syariah marriage", "Islamic marriage Malaysia", "Act 164 Malaysia", "JAKIM marriage", "wali marriage Malaysia", "Syariah Court marriage permission", "Muslim marriage registration Malaysia", "kursus pra perkahwinan"]
 framework: explainer
+stayFacts:
+  who: 'マレーシアで結婚するすべての人——国民であれ外国人であれ——自分たちの婚姻がどの法律制度の管轄に入るかを知る必要がある人。すなわち、双方が非ムスリムの場合、双方がムスリムの場合、又は一方がイスラム教へ改宗する場合。'
+  how: '単一の婚姻法は存在しない。いずれの当事者もムスリムでない場合、1976年婚姻・離婚（改革）法（Law Reform (Marriage and Divorce) Act 1976、Act 164）のもとで国民登録局（Jabatan Pendaftaran Negara、JPN）に登録する民事婚となる。いずれかの当事者がムスリムである場合は、申請を行う州のイスラム家族法の管轄となり——連邦憲法第九附則の州リスト事項として、その州のイスラム宗教局が管理する——婚前講習、ワリ（wali、後見人）の要件、及び婚姻挙行（akad nikah）を伴う。'
+  cost: '州によって異なる——イスラム制度の書式及び一部の手数料は州ごとに定められる。最新の手数料は、関係する州のイスラム宗教局に、又は（民事ルートの場合は）JPN（jpn.gov.my）に確認すること。'
+  watch: '制度は個人の好みではなく宗教によって固定されている。ムスリムはAct 164のもとで登録することができず、非ムスリムは先に改宗しない限りイスラム制度を利用することができない。宗教的に中立な選択肢は存在せず、イスラムの手続きは州によって異なる。'
+  next: 'まず、どちらの制度が適用されるかを見極めること——これはいずれかの当事者がムスリムであるかどうかのみに依存する。非ムスリムは、JPNの全手続きについて、対となる民事婚ガイドを参照のこと。ムスリム又は改宗するカップルは、登録を行う州のイスラム宗教局に、手続き、婚前講習及び手数料を確認すること。'
 ---
 
 マレーシア人に結婚の仕方を尋ねると、正直な最初の答えは大抵、別の質問である——あなたたちのどちらかはムスリムですか、というものだ。

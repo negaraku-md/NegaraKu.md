@@ -84,6 +84,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["kewarganegaraan", "pendaftaran", "Perkara 15", "pasangan asing", "Perlembagaan Persekutuan", "JPN", "warganegara Malaysia"]
 framework: explainer
+stayFacts:
+  who: 'Terutamanya isteri asing seorang warganegara lelaki (Perkara 15(1)) dan anak di bawah umur 21 tahun yang sekurang-kurangnya seorang ibu bapanya warganegara (Perkara 15(2); Perkara 15A untuk keadaan khas). Perkara 16 dan 16A ialah peruntukan peralihan yang tempohnya telah lama berlalu.'
+  how: 'Pendaftaran ialah salah satu laluan kewarganegaraan dalam Bahagian III Perlembagaan Persekutuan (terutamanya Perkara 15, 15A dan 18), berbeza daripada naturalisasi di bawah Perkara 19. Permohonan dibuat kepada Kerajaan Persekutuan melalui Jabatan Pendaftaran Negara (JPN) di bawah Kementerian Dalam Negeri — Borang A bagi pasangan, Borang B bagi anak; pemohon 18 tahun ke atas mesti mengangkat sumpah setia dalam Jadual Pertama (Perkara 18).'
+  cost: 'Berbeza — artikel menyebut bayaran permohonan dan bayaran sijil kewarganegaraan, tetapi kadarnya berasal daripada panduan pertubuhan dan boleh berubah; sahkan kadar semasa terhadap jadual fi rasmi JPN (jpn.gov.my).'
+  watch: 'Kelulusan bukan hak automatik: bahasa Perlembagaan (''boleh menyebabkan didaftarkan''; pemohon mesti ''memuaskan hati'' Kerajaan) menjadikannya budi bicara, tanpa tempoh berkanun yang dijamin, dan dilaporkan boleh mengambil masa bertahun-tahun. Perkahwinan sahaja tidak memberikan kewarganegaraan, dan di bawah Perkara 26(2) kewarganegaraan isteri yang didaftarkan boleh dilucutkan jika perkahwinan dibubarkan (selain kematian) dalam tempoh dua tahun.'
+  next: 'Rujuk portal rasmi JPN (jpn.gov.my) dan MyGovernment untuk senarai semak dokumen, borang dan bayaran terkini, dan teks rasmi Perlembagaan Persekutuan (cetakan Jabatan Peguam Negara) untuk perkataan sebenar Perkara 15, 15A, 18 dan 26; kerana permohonan bersifat budi bicara, ramai pemohon merujuk peguam atau pertubuhan sokongan keluarga dahulu.'
 ---
 
 Berkahwin dengan seorang warganegara Malaysia tidak dengan sendirinya menjadikan seseorang itu warganegara. Bagi pasangan asing dan bagi anak seorang warganegara, laluan yang biasa disebut ialah "pendaftaran" — satu daripada cara memperoleh kewarganegaraan yang tersenarai dalam Bahagian III Perlembagaan Persekutuan. Halaman ini menerangkan rangka undang-undang itu secara neutral dan deskriptif; ia bukan nasihat guaman.

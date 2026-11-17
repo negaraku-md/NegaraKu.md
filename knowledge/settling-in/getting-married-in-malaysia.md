@@ -68,6 +68,12 @@ relations:
 related: ["registering-a-marriage-civil", "jpn", "mykad"]
 keywords: ["getting married in Malaysia", "Malaysia marriage law", "civil marriage vs syariah marriage", "Islamic marriage Malaysia", "Act 164 Malaysia", "JAKIM marriage", "wali marriage Malaysia", "Syariah Court marriage permission", "Muslim marriage registration Malaysia", "kursus pra perkahwinan"]
 framework: explainer
+stayFacts:
+  who: 'Anyone marrying in Malaysia — citizens or foreigners — who needs to know which legal system their marriage falls under: both parties non-Muslim, both Muslim, or one party converting to Islam.'
+  how: 'There is no single marriage law. If neither party is Muslim, it is a civil marriage registered with Jabatan Pendaftaran Negara (JPN) under the Law Reform (Marriage and Divorce) Act 1976 (Act 164). If either party is Muslim, it falls under the Islamic family law of the state where you apply — administered by that state''s religious department, a State List matter under the Federal Constitution, Ninth Schedule — and involves a pre-marriage course, the wali (guardian) requirement, and solemnisation (akad nikah).'
+  cost: 'Varies — the Islamic route''s forms and some fees are set state by state; confirm current fees with the relevant state Islamic religious department, or (civil route) with JPN (jpn.gov.my).'
+  watch: 'The system is fixed by religion, not preference: a Muslim cannot register under Act 164, and a non-Muslim cannot use the Islamic route without converting first. There is no religion-neutral option, and Islamic procedure differs from state to state.'
+  next: 'First work out which system applies — it depends only on whether either party is Muslim. Non-Muslims: see the companion civil-marriage guide for the full JPN process. Muslim or converting couples: confirm procedure, pre-marriage course and fees with the state Islamic religious department where you will register.'
 ---
 
 Ask a Malaysian how to get married, and the honest first answer is usually

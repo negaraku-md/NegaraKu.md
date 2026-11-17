@@ -83,6 +83,12 @@ relations:
 related: ["registering-a-marriage-civil", "syariah-court-system"]
 keywords: ["muslim marriage malaysia", "nikah registration", "SPPIM", "wali hakim", "kursus pra perkahwinan", "akad nikah", "syariah court marriage", "islamic family law act 303"]
 framework: how-to
+stayFacts:
+  who: '在马来西亚结婚的穆斯林伴侣，以及协助办理穆斯林婚姻申请的居民。'
+  how: '婚姻依据举行婚姻所在州属的伊斯兰家庭法注册，通过该州的伊斯兰宗教局（Jabatan Agama Islam Negeri）及其委任的婚姻注册官办理；此处以《1984年伊斯兰家庭法（联邦直辖区）法令》（Islamic Family Law (Federal Territories) Act 1984，第303号法令，Act 303）作为确切的条文依据。双方须完成强制性的婚前课程（Kursus Pra-Perkahwinan Islam），通过SPPIM或某州的电子婚姻（e-nikah）门户申请结婚许可，随后由获授权的注册官在新娘的瓦利（wali）及两名见证人在场下主持证婚仪式（akad nikah）。'
+  cost: '因州而异——注册费不高，由各州自行订定，婚前课程另收费用；请向相关州属的伊斯兰宗教局，以及malaysia.gov.my上的SPPIM服务页面确认当前金额。'
+  watch: '由于伊斯兰事务属州权范畴，要求因州而异——SPPIM覆盖多数州属及联邦直辖区，但不包括吉兰丹、彭亨、槟城、沙巴或砂拉越，这五个州运行本身的系统。某些个案不能由注册官批准，必须依第303号法令第18条转介伊斯兰教法庭（Syariah Court）：一方未达第8条规定的最低年龄、属第14(3)条下的孀妇（janda），或没有血缘（nasab）瓦利的新娘（即取得瓦利哈金（wali hakim）裁令的途径）。'
+  next: '若有任何转介情形可能适用（一方未达年龄、没有血亲瓦利、瓦利缺席或不愿同意，或多妻婚姻），个案须交由该州的伊斯兰教法庭处理；否则，请向将办理婚姻所在州属的伊斯兰宗教局确认当前的表格、费用及要求。'
 ---
 
 两个人准备结婚了，两家人也见了面，日子也定了下来——但在马来西亚，穆斯林婚姻要成为已登记的婚姻，必须先通过由州属主导的一套既定行政与宗教程序。根据联邦宪法，伊斯兰事务属于州权范畴，因此每个州及联邦直辖区都有本身的伊斯兰家庭法法令，以及本身的州伊斯兰宗教局（Jabatan Agama Islam Negeri）。下述步骤在全国大致相似；本文以联邦直辖区法律，即《1984 年伊斯兰家庭法（联邦直辖区）法令》（第 303 号法令，Act 303）作为确切的法定条文依据。

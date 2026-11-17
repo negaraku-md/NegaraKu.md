@@ -69,6 +69,12 @@ relations:
 related: ["registering-a-marriage-civil", "jpn", "mykad"]
 keywords: ["se marier en Malaisie", "loi malaisienne sur le mariage", "mariage civil contre mariage syariah", "mariage islamique Malaisie", "Act 164 Malaisie", "mariage JAKIM", "wali mariage Malaisie", "autorisation de mariage Tribunal Syariah", "enregistrement mariage musulman Malaisie", "kursus pra perkahwinan"]
 framework: explainer
+stayFacts:
+  who: 'Toute personne qui se marie en Malaisie — citoyens ou étrangers — et qui a besoin de savoir de quel système juridique relève son mariage : deux parties non musulmanes, deux parties musulmanes, ou une partie se convertissant à l''islam.'
+  how: 'Il n''existe pas de loi unique sur le mariage. Si aucune des parties n''est musulmane, il s''agit d''un mariage civil enregistré auprès du Jabatan Pendaftaran Negara (JPN) au titre de la Loi de réforme du droit (mariage et divorce) de 1976 (Act 164). Si l''une des parties est musulmane, le mariage relève du droit de la famille islamique de l''État où la demande est faite — administré par le département religieux islamique de cet État, une matière de la Liste des États au titre de la Constitution fédérale, Neuvième Annexe — et comprend un cours prénuptial, l''exigence du wali (tuteur) et la célébration (akad nikah).'
+  cost: 'Variable — les formulaires et certains frais de la voie islamique sont fixés État par État ; confirmez les frais actuels auprès du département religieux islamique de l''État concerné, ou (voie civile) auprès du JPN (jpn.gov.my).'
+  watch: 'Le système est déterminé par la religion, non par la préférence : un musulman ne peut pas s''enregistrer au titre de l''Act 164, et un non-musulman ne peut pas emprunter la voie islamique sans se convertir d''abord. Il n''existe pas d''option neutre en matière de religion, et la procédure islamique diffère d''un État à l''autre.'
+  next: 'Déterminez d''abord quel système s''applique — cela dépend uniquement de savoir si l''une des parties est musulmane. Non-musulmans : consultez le guide complémentaire du mariage civil pour le processus complet du JPN. Couples musulmans ou en cours de conversion : confirmez la procédure, le cours prénuptial et les frais auprès du département religieux islamique de l''État où vous vous enregistrerez.'
 ---
 
 Demandez à un Malaisien comment se marier, et la première réponse honnête est

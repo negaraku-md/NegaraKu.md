@@ -85,6 +85,12 @@ relations:
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["kewarganegaraan", "pendaftaran", "Perkara 15", "pasangan asing", "Perlembagaan Persekutuan", "JPN", "warganegara Malaysia"]
 framework: explainer
+stayFacts:
+  who: 'Chủ yếu là người vợ nước ngoài của một công dân nam (Điều 15(1)) và con dưới 21 tuổi có ít nhất một cha hoặc mẹ là công dân (Điều 15(2); Điều 15A cho các hoàn cảnh đặc biệt). Điều 16 và 16A là các điều khoản chuyển tiếp mà thời hạn nộp đơn đã đóng từ lâu.'
+  how: 'Đăng ký là một trong các lối đi quốc tịch trong Phần III của Hiến pháp Liên bang (chủ yếu là Điều 15, 15A và 18), khác với nhập tịch theo Điều 19. Đơn được nộp cho Chính phủ Liên bang qua Jabatan Pendaftaran Negara (JPN) thuộc Bộ Nội vụ — Mẫu A cho vợ/chồng, Mẫu B cho con; người nộp đơn từ 18 tuổi trở lên phải tuyên thệ trung thành trong Phụ lục Thứ nhất (Điều 18).'
+  cost: 'Khác nhau tùy nơi — bài viết dẫn một khoản phí đơn và một khoản phí giấy chứng nhận quốc tịch, nhưng các con số đến từ hướng dẫn của một NGO và có thể thay đổi; hãy xác nhận các mức hiện hành đối chiếu với biểu phí chính thức của JPN (jpn.gov.my).'
+  watch: 'Việc phê duyệt không phải là một quyền tự động: câu chữ của Hiến pháp (''có thể khiến ... được đăng ký''; người nộp đơn phải ''làm hài lòng'' Chính phủ Liên bang) khiến nó mang tính tùy quyền, không có mốc thời gian luật định nào được bảo đảm, và được cho là mất nhiều năm. Chỉ riêng hôn nhân không trao quốc tịch, và theo Điều 26(2) một người vợ đã đăng ký theo Điều 15(1) có thể bị tước quốc tịch nếu cuộc hôn nhân bị chấm dứt (vì lý do khác ngoài cái chết) trong vòng hai năm kể từ ngày kết hôn.'
+  next: 'Hãy kiểm tra cổng chính thức của JPN (jpn.gov.my) và MyGovernment để có danh sách giấy tờ, biểu mẫu và lệ phí hiện hành, cùng văn bản chính thức của Hiến pháp Liên bang (bản in lại của Phòng Tổng Chưởng lý) để có câu chữ chính xác của Điều 15, 15A, 18 và 26; vì đơn mang tính tùy quyền, nhiều người nộp đơn tham vấn luật sư hoặc một tổ chức hỗ trợ gia đình trước.'
 ---
 
 Kết hôn với một công dân Malaysia không tự nó biến một người thành công dân. Đối với người vợ/chồng nước ngoài và đối với con của một công dân, lối đi thường được nhắc đến là "đăng ký" — một trong những cách có được quốc tịch được liệt kê trong Phần III của Hiến pháp Liên bang. Trang này giải thích khung pháp lý đó một cách trung lập và mô tả; nó không phải là lời khuyên pháp lý.

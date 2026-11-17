@@ -69,6 +69,12 @@ relations:
 related: ["registering-a-marriage-civil", "jpn", "mykad"]
 keywords: ["getting married in Malaysia", "Malaysia marriage law", "civil marriage vs syariah marriage", "Islamic marriage Malaysia", "Act 164 Malaysia", "JAKIM marriage", "wali marriage Malaysia", "Syariah Court marriage permission", "Muslim marriage registration Malaysia", "kursus pra perkahwinan"]
 framework: explainer
+stayFacts:
+  who: 'Cualquier persona que se case en Malasia —ciudadanos o extranjeros— que necesite saber bajo qué sistema legal recae su matrimonio: ambas partes no musulmanas, ambas musulmanas, o una de las partes convirtiéndose al islam.'
+  how: 'No existe una única ley de matrimonio. Si ninguna de las partes es musulmana, se trata de un matrimonio civil registrado ante el Jabatan Pendaftaran Negara (JPN) conforme a la Ley de Reforma del Derecho (Matrimonio y Divorcio) de 1976 (Act 164). Si cualquiera de las partes es musulmana, recae bajo el derecho de familia islámico del estado donde se presenta la solicitud —administrado por el departamento religioso de ese estado, una materia de la Lista Estatal conforme a la Constitución Federal, Novena Lista— e implica un curso prematrimonial, el requisito del wali (tutor) y la celebración (akad nikah).'
+  cost: 'Varía —los formularios y algunas tasas de la vía islámica los fija cada estado; confirma las tasas vigentes con el departamento religioso islámico del estado correspondiente o (vía civil) con el JPN (jpn.gov.my).'
+  watch: 'El sistema lo fija la religión, no la preferencia: un musulmán no puede registrarse conforme a la Act 164, y un no musulmán no puede usar la vía islámica sin convertirse primero. No existe una opción neutral en materia de religión, y el procedimiento islámico difiere de un estado a otro.'
+  next: 'Primero determina qué sistema se aplica: depende únicamente de si alguna de las partes es musulmana. No musulmanes: consulta la guía complementaria de matrimonio civil para conocer el proceso completo del JPN. Parejas musulmanas o en proceso de conversión: confirma el procedimiento, el curso prematrimonial y las tasas con el departamento religioso islámico del estado donde se registrará el matrimonio.'
 ---
 
 Pregúntale a un malasio cómo casarse, y la primera respuesta honesta suele ser
