@@ -35,7 +35,7 @@ faq:
     a: "Oui. Pendant la phase fondatrice (les trois à cinq premières années), le cadre de BNM plafonne le total d'actifs de chaque banque numérique à RM3 milliards au maximum. Cela permet à BNM d'observer la performance et le risque avant que les banques ne grandissent davantage."
 
 lang: "fr"
-sourceContentHash: "586acae3d2012d4e"
+sourceContentHash: "9cfc6ac5098839e4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -102,7 +102,7 @@ Mais qu'est-ce exactement qu'une « banque numérique », qui détient les licen
 
 ## Quelle est la différence entre une banque numérique et une banque traditionnelle ?
 
-Juridiquement, une banque numérique est une banque à part entière, et non une simple application de portefeuille électronique. Elle est agréée au titre de la même législation bancaire que Maybank ou CIMB, peut collecter des dépôts et peut accorder des prêts. La différence clé réside dans sa manière de fonctionner : entièrement via des canaux numériques, sans aucun réseau d'agences physiques.
+Juridiquement, une banque numérique est une banque à part entière, et non une simple application de portefeuille électronique. Elle est agréée au titre de la même législation bancaire que [Maybank](/fr/companies/maybank) ou CIMB, peut collecter des dépôts et peut accorder des prêts. La différence clé réside dans sa manière de fonctionner : entièrement via des canaux numériques, sans aucun réseau d'agences physiques.
 
 BNM a publié le Cadre d'octroi de licences pour les banques numériques fin 2020, et le 29 avril 2022 a annoncé cinq candidats retenus approuvés par le Ministre des Finances. Ce cadre établit une « phase fondatrice » — les trois à cinq premières années — durant laquelle chaque banque numérique est plafonnée à un total d'actifs ne dépassant pas RM3 milliards et doit maintenir un capital d'au moins RM100 millions non entamé par des pertes. Le plafond est conçu pour permettre à BNM d'observer la performance et le risque avant que ces banques ne soient autorisées à grandir davantage.
 

@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "मलेशिया में कोई भी व्यक्ति — नागरिक, निवासी, कार्य-पास धारक, छात्र या पर्यटक — जिसे स्थानीय मोबाइल SIM खरीदना या पंजीकृत करना है।"
 
 lang: "hi"
-sourceContentHash: "5f238099826ab02d"
+sourceContentHash: "a99a6fb1aad234c9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ framework: explainer
 | U Mobile | Unlimited Funz Prepaid | मलेशिया का तीसरा राष्ट्रीय नेटवर्क संचालक |
 
 दो छोटे खिलाड़ी — **Yes** (YTL Communications) और **Unifi Mobile**
-(Telekom Malaysia) — उपर्युक्त तीनों के साथ अपने स्वयं के 4G/LTE नेटवर्क चलाते
+([Telekom Malaysia](/hi/companies/telekom-malaysia)) — उपर्युक्त तीनों के साथ अपने स्वयं के 4G/LTE नेटवर्क चलाते
 हैं, जो अक्सर होम ब्रॉडबैंड के साथ बंडल होते हैं। आप जो भी संचालक चुनें, नीचे दी
 गई पंजीकरण आवश्यकता समान रूप से लागू होती है।
 

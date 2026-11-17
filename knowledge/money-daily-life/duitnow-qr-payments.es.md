@@ -26,7 +26,7 @@ verificationNeeded:
   - "Fee and transaction limit figures are taken directly from the official PayNet website as of the time of writing; PayNet states that actual fees may vary by individual bank/e-wallet"
 
 lang: "es"
-sourceContentHash: "1b31c1f5d1b3682f"
+sourceContentHash: "df04ec38e7fc7b1e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,7 +78,7 @@ framework: explainer
 ---
 
 El dueño de un puesto de mercado nocturno muestra un único código QR. Un cliente que usa la
-aplicación de Maybank lo escanea. El siguiente cliente usa Touch 'n Go eWallet y escanea
+aplicación de [Maybank](/es/companies/maybank) lo escanea. El siguiente cliente usa Touch 'n Go eWallet y escanea
 el **mismo** código QR. Ambos pagos llegan a la cuenta del comerciante en
 segundos. No hay un código QR distinto para cada banco o billetera electrónica —eso es
 DuitNow QR funcionando discretamente tras bambalinas.

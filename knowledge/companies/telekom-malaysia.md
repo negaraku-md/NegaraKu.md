@@ -115,7 +115,7 @@ TM is also a central delivery partner for **JENDELA** (Jalinan Digital Negara), 
 
 ## Scale and significance
 
-TM reported group revenue of about RM11.71 billion for the financial year ended 31 December 2024 and net profit of roughly RM2.0 billion, with fixed-broadband subscribers of about 3.179 million (all FY2024 figures, which change over time). Its ownership reflects its status as a government-linked company: Khazanah Nasional and the Employees Provident Fund are its largest shareholders, alongside Kumpulan Wang Persaraan (Diperbadankan) and other institutions. Crucially, the government holds a single **Special Rights Redeemable Preference Share** — a "golden share" — that carries special rights over certain corporate decisions and senior appointments, a common feature of Malaysia's privatised strategic utilities.
+TM reported group revenue of about RM11.71 billion for the financial year ended 31 December 2024 and net profit of roughly RM2.0 billion, with fixed-broadband subscribers of about 3.179 million (all FY2024 figures, which change over time). Its ownership reflects its status as a government-linked company: Khazanah Nasional and the Employees Provident Fund are its largest shareholders, alongside [Kumpulan Wang Persaraan](/companies/kwap) (Diperbadankan) and other institutions. Crucially, the government holds a single **Special Rights Redeemable Preference Share** — a "golden share" — that carries special rights over certain corporate decisions and senior appointments, a common feature of Malaysia's privatised strategic utilities.
 
 ## Why it matters
 

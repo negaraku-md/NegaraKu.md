@@ -115,7 +115,7 @@ Kesemuanya berada di bawah seliaan Suruhanjaya Tenaga (Energy Commission), denga
 
 ## Bagaimana NEM 3.0 berfungsi untuk rumah dan perniagaan?
 
-NEM ialah laluan paling biasa bagi orang ramai. Anda memasang panel solar di bumbung, menggunakan tenaga yang dijana dahulu, dan menghantar lebihan ke grid Tenaga Nasional Berhad (TNB). Di bawah NEM 3.0, imbangan dibuat secara "satu-lawan-satu" — setiap kilowatt-jam yang dihantar ke grid diimbangi terhadap satu kilowatt-jam yang anda ambil daripada grid.
+NEM ialah laluan paling biasa bagi orang ramai. Anda memasang panel solar di bumbung, menggunakan tenaga yang dijana dahulu, dan menghantar lebihan ke grid [Tenaga Nasional Berhad](/companies/tenaga-nasional) (TNB). Di bawah NEM 3.0, imbangan dibuat secara "satu-lawan-satu" — setiap kilowatt-jam yang dihantar ke grid diimbangi terhadap satu kilowatt-jam yang anda ambil daripada grid.
 
 Menurut portal RE SEDA, NEM 3.0 berjalan bagi tempoh sehingga 30 Jun 2025, dengan jumlah kuota keseluruhan sehingga 2,500 MW. Ia terbahagi kepada tiga sub-program:
 

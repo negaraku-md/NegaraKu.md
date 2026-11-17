@@ -149,7 +149,7 @@ in companies — not money collected from individuals.
 Today Khazanah's portfolio is organised into an Investments Portfolio (private
 equity, real assets and public markets), a Dana Impak developmental portfolio,
 legacy Developmental Assets, and Special Situations holdings. Major listed
-positions include CIMB, Telekom Malaysia, Tenaga Nasional, IHH Healthcare,
+positions include CIMB, [Telekom Malaysia](/companies/telekom-malaysia), Tenaga Nasional, [IHH Healthcare](/companies/ihh-healthcare),
 Axiata, Malaysia Airports and Astro.
 
 For 2025, Khazanah reported net assets of RM105 billion, total assets of

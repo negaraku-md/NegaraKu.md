@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona que alquile, compre o se mude a una vivienda en Malasia y necesite conectar banda ancha fija."
 
 lang: "es"
-sourceContentHash: "19befa5847e8b8f0"
+sourceContentHash: "bbd067458507d9b6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,7 +85,7 @@ de extender el acceso a la fibra a millones de inmuebles en todo el país y ampl
 la cobertura con capacidad de gigabit — un impulso construido sobre la red troncal de
 banda ancha de alta velocidad (HSBB) ya existente en el país.
 
-Esa red troncal es propiedad de **Telekom Malaysia (TM)**, razón por la cual **Unifi**
+Esa red troncal es propiedad de **[Telekom Malaysia](/es/companies/telekom-malaysia) (TM)**, razón por la cual **Unifi**
 tiende a tener el mayor alcance de cualquier marca individual, incluso en pueblos y
 zonas suburbanas donde otros ISP no se han desplegado. Pero «amplio» no es «en todas partes» —
 la cobertura sigue variando dirección por dirección, por lo que cada proveedor importante

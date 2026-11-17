@@ -84,7 +84,7 @@ of extending fibre access to millions of premises nationwide and widening
 gigabit-capable coverage — a push built on top of the country's existing
 High Speed Broadband (HSBB) backbone.
 
-That backbone is owned by **Telekom Malaysia (TM)**, which is why **Unifi**
+That backbone is owned by **[Telekom Malaysia](/companies/telekom-malaysia) (TM)**, which is why **Unifi**
 tends to have the widest reach of any single brand, including in towns and
 suburbs where other ISPs haven't built out. But "wide" isn't "everywhere" —
 coverage still varies address by address, which is why every major provider

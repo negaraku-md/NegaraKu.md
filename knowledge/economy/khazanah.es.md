@@ -26,7 +26,7 @@ verificationNeeded:
   - "EPF's total investment assets and total membership figures could not be independently confirmed via direct fetch of kwsp.gov.my (the site returns HTTP 403 to automated fetching); this article deliberately omits any precise EPF AUM or member-count number rather than publish an unverified one — add both, with a kwsp.gov.my source, at first human review"
 
 lang: "es"
-sourceContentHash: "bde519fccc17693d"
+sourceContentHash: "b55efcf4efb4852f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -152,8 +152,8 @@ recaudado de particulares.
 Hoy la cartera de Khazanah se organiza en una Cartera de Inversiones (capital
 privado, activos reales y mercados públicos), una cartera de desarrollo Dana
 Impak, Activos de Desarrollo heredados y posiciones de Situaciones Especiales.
-Entre las principales posiciones cotizadas figuran CIMB, Telekom Malaysia, Tenaga
-Nasional, IHH Healthcare, Axiata, Malaysia Airports y Astro.
+Entre las principales posiciones cotizadas figuran CIMB, [Telekom Malaysia](/es/companies/telekom-malaysia), Tenaga
+Nasional, [IHH Healthcare](/es/companies/ihh-healthcare), Axiata, Malaysia Airports y Astro.
 
 Para 2025, Khazanah declaró activos netos de RM105 mil millones, activos totales
 de RM156 mil millones y un beneficio de las operaciones de RM5,6 mil millones: un

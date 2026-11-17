@@ -81,7 +81,7 @@ yang salah sama sekali.
 ## Tiga syarikat, bukan satu sistem kebangsaan
 
 Bekalan elektrik di Malaysia tidak dikendalikan oleh satu badan tunggal.
-**Tenaga Nasional Berhad (TNB)** menyelenggara Semenanjung Malaysia melalui
+**[Tenaga Nasional Berhad](/companies/tenaga-nasional) (TNB)** menyelenggara Semenanjung Malaysia melalui
 portal myTNB dan rangkaian **Kedai Tenaga**. Sabah pula milik **Sabah
 Electricity Sdn Bhd (SESB)**, dan Sarawak milik **[Sarawak Energy Berhad](/energy/sarawak-energy-berhad)**.
 Ketiga-tiganya beroperasi secara berasingan, dengan borang permohonan, kadar

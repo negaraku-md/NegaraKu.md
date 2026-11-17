@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "72a029d7e3ea589d"
+sourceContentHash: "e364599cb19e8b25"
 
 status: "published"
 aiAssisted: true
@@ -127,9 +127,9 @@ GLICは8社あり、通常は二つのグループに分けられる。4社は�
 
 均等ではない。GLICの所有権は、資本集約的、規制の対象、あるいは戦略的に機微な経済分野に集中している——政府が完全には民間の手に委ねたがらない分野である。
 
-- **銀行・金融**——Maybank（同国最大の銀行で、PNBを通じて支配されている）、CIMB Group、RHB BankはすべてGLICを基盤としている。10年にわたる調査により、GLICが46の上場企業において少なくとも30%の株式持分を保有していることが判明しており、大手銀行はその中でも最も安定した業績を上げている。
+- **銀行・金融**——[Maybank](/ja/companies/maybank)（同国最大の銀行で、PNBを通じて支配されている）、[CIMB Group](/ja/companies/cimb)、RHB BankはすべてGLICを基盤としている。10年にわたる調査により、GLICが46の上場企業において少なくとも30%の株式持分を保有していることが判明しており、大手銀行はその中でも最も安定した業績を上げている。
 - **公用事業・エネルギー**——Tenaga Nasionalが国家送電網を運営し、Gas MalaysiaおよびPetronas関連の上場ユニットがガスと石油化学を担う。公用事業は自然独占に近い性質を持つため、GLICの所有はこの分野で最も深い。
-- **電信**——Telekom Malaysia（固定回線・ブロードバンドの既存事業者）とデータセンター事業者TIME dotComは、移動体通信事業者におけるGLICの持分と並んで存在している。
+- **電信**——[Telekom Malaysia](/ja/companies/telekom-malaysia)（固定回線・ブロードバンドの既存事業者）とデータセンター事業者TIME dotComは、移動体通信事業者におけるGLICの持分と並んで存在している。
 - **プランテーション**——[Sime Darby](/companies/sime-darby-group)とBoustead Plantationsは、マレーシアのパーム油経済の中心に国家を位置づけている。
 
 全体的な傾向は一貫している。国家の掌握はインフラと金融において最も強く、民間企業や外資系企業が主導する消費者向け分野や輸出製造業においては、より緩やかである。

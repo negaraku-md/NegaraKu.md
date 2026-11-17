@@ -35,7 +35,7 @@ faq:
     a: "Ya. Selama fase dasar (tiga hingga lima tahun pertama), kerangka kerja BNM membatasi jumlah aset setiap bank digital menjadi tidak lebih RM3 miliar. Ini memungkinkan BNM mengamati kinerja dan risiko sebelum bank berkembang lebih besar."
 
 lang: "id"
-sourceContentHash: "586acae3d2012d4e"
+sourceContentHash: "9cfc6ac5098839e4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -102,7 +102,7 @@ Tetapi apa sebenarnya "bank digital" itu, siapa pemegang lisensinya, dan yang pa
 
 ## Apa bedanya bank digital dengan bank tradisional?
 
-Dari segi hukum, bank digital adalah bank penuh — bukan sekadar aplikasi dompet elektronik. Ia dilisensikan di bawah undang-undang perbankan yang sama seperti Maybank atau CIMB, dapat menerima simpanan, dan dapat memberi pinjaman. Perbedaan utamanya adalah cara ia beroperasi: sepenuhnya melalui saluran digital, tanpa jaringan cabang fisik.
+Dari segi hukum, bank digital adalah bank penuh — bukan sekadar aplikasi dompet elektronik. Ia dilisensikan di bawah undang-undang perbankan yang sama seperti [Maybank](/id/companies/maybank) atau CIMB, dapat menerima simpanan, dan dapat memberi pinjaman. Perbedaan utamanya adalah cara ia beroperasi: sepenuhnya melalui saluran digital, tanpa jaringan cabang fisik.
 
 BNM mengeluarkan Kerangka Kerja Pelisensian untuk Bank Digital pada akhir 2020, dan pada 29 April 2022 mengumumkan lima pemohon yang berhasil yang disetujui oleh Menteri Keuangan. Kerangka kerja itu menetapkan satu "fase dasar" — periode tiga hingga lima tahun pertama — di mana setiap bank digital dibatasi jumlah asetnya menjadi tidak lebih RM3 miliar dan harus mempertahankan modal setidaknya RM100 juta yang tidak terdampak oleh kerugian. Batasnya bertujuan memungkinkan BNM mengamati kinerja dan risiko sebelum bank ini diizinkan berkembang lebih besar.
 

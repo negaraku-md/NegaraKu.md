@@ -25,7 +25,7 @@ appliesTo: "Sesiapa sahaja di Malaysia — warganegara, pemastautin, pemegang pa
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5f238099826ab02d"
+sourceContentHash: "a99a6fb1aad234c9"
 
 status: "published"
 aiAssisted: true
@@ -102,7 +102,7 @@ sebab ia lebih sukar dijual kepada seseorang yang baru sahaja tiba.
 | U Mobile | Unlimited Funz Prepaid | Pengendali rangkaian kebangsaan ketiga Malaysia |
 
 Dua pemain yang lebih kecil — **Yes** (YTL Communications) dan **Unifi Mobile**
-(Telekom Malaysia) — menjalankan rangkaian 4G/LTE mereka sendiri bersama tiga
+([Telekom Malaysia](/ms/companies/telekom-malaysia)) — menjalankan rangkaian 4G/LTE mereka sendiri bersama tiga
 rangkaian di atas, selalunya dibungkus bersama jalur lebar rumah. Apa jua pengendali
 yang anda pilih, keperluan pendaftaran di bawah ini terpakai secara sama rata.
 

@@ -29,7 +29,7 @@ faq:
     a: "Ya. Aplikasi SaveME 999 memungkinkan peringatan darurat berbasis video, teks, dan multimedia, bukan hanya panggilan suara, agar penyandang disabilitas juga dapat menghubungi operator 999."
 
 lang: "id"
-sourceContentHash: "a2e869579c3095a1"
+sourceContentHash: "12fd6b175920e02e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -76,7 +76,7 @@ Satu nomor — **999** — menghubungkan Anda kepada lima lembaga darurat Malays
 
 Panggilan Anda masuk ke pusat operasi **Malaysian Emergency Response Services (MERS 999)**, sebuah sistem terpadu yang menggabungkan layanan darurat lima lembaga di bawah satu nomor. Operator mengidentifikasi jenis keadaan darurat, lokasi, dan informasi penting, kemudian menyalurkan panggilan serta data itu kepada lembaga yang tepat.
 
-Sistem ini dibangun dengan teknologi computer-aided dispatch, sistem informasi geografis (GIS), antarmuka telepon-komputer, rekaman suara, dan sistem pakar medis — agar panggilan ditangani secara seragam di seluruh lembaga. Panggilan ke 999 adalah **gratis** dan **dicatat serta dilacak** untuk mencegah laporan palsu. MERS 999 dikelola melalui kerja sama antara Pemerintah Malaysia dan Telekom Malaysia Berhad.
+Sistem ini dibangun dengan teknologi computer-aided dispatch, sistem informasi geografis (GIS), antarmuka telepon-komputer, rekaman suara, dan sistem pakar medis — agar panggilan ditangani secara seragam di seluruh lembaga. Panggilan ke 999 adalah **gratis** dan **dicatat serta dilacak** untuk mencegah laporan palsu. MERS 999 dikelola melalui kerja sama antara Pemerintah Malaysia dan [Telekom Malaysia](/id/companies/telekom-malaysia) Berhad.
 
 ## Lembaga mana yang dapat dihubungi melalui 999?
 

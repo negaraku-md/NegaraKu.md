@@ -31,7 +31,7 @@ faq:
     a: "Suruhanjaya Tenaga (Energy Commission) adalah regulator utama. SEDA Malaysia melaksanakan NEM, sementara Single Buyer (di bawah TNB) mengoordinasikan program pasar seperti CGPP, CRESS dan CREAM."
 
 lang: "id"
-sourceContentHash: "69ed2a98233b72ad"
+sourceContentHash: "57d271bf1ff95022"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -116,7 +116,7 @@ Semuanya berada di bawah pengawasan Suruhanjaya Tenaga (Energy Commission), deng
 
 ## Bagaimana NEM 3.0 berfungsi untuk rumah dan bisnis?
 
-NEM adalah jalur paling umum bagi orang banyak. Anda memasang panel surya di atap, menggunakan energi yang dibangkitkan lebih dulu, dan mengirim kelebihan ke grid Tenaga Nasional Berhad (TNB). Di bawah NEM 3.0, pengimbangan dilakukan secara "satu-lawan-satu" — setiap kilowatt-jam yang dikirim ke grid diimbangi terhadap satu kilowatt-jam yang Anda ambil dari grid.
+NEM adalah jalur paling umum bagi orang banyak. Anda memasang panel surya di atap, menggunakan energi yang dibangkitkan lebih dulu, dan mengirim kelebihan ke grid [Tenaga Nasional Berhad](/id/companies/tenaga-nasional) (TNB). Di bawah NEM 3.0, pengimbangan dilakukan secara "satu-lawan-satu" — setiap kilowatt-jam yang dikirim ke grid diimbangi terhadap satu kilowatt-jam yang Anda ambil dari grid.
 
 Menurut portal RE SEDA, NEM 3.0 berjalan untuk periode hingga 30 Juni 2025, dengan total kuota keseluruhan hingga 2,500 MW. Program ini terbagi menjadi tiga sub-program:
 

@@ -36,7 +36,7 @@ faq:
     a: "아닙니다. 2026년 3월 7일 CelcomDigi와 Maxis가 각각 RM327,872,640.28에 DNB의 재무부 지분 매입을 완료했으며, 이는 정부의 5G 도매 사업 철수를 의미하고 DNB를 통신사들과 YTL이 소유하는 완전한 민간 기업으로 전환했습니다."
 
 lang: "ko"
-sourceContentHash: "c56c91a9d7764362"
+sourceContentHash: "953b610723ae239f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -173,7 +173,7 @@ JENDELA는 2020년 9월 기준선을 기준으로, 각 단계마다 명확한 �
 - **2024년 11월 1일** — MCMC가 **U Mobile(유 모바일)**을 제2 5G 네트워크 제공자로 지명했습니다.
 - **2024년 12월 31일** — 2024년 장관 지침 제4호(Ministerial Direction No. 4 of 2024)가 2021년 단일 도매 네트워크 지침을 취소해 DNB의 독점을 종료하고 이중 네트워크 모델을 확립했습니다.
 
-네 개 사업자가 입찰했습니다. CelcomDigi, Maxis, U Mobile, Telekom Malaysia. MCMC는 각 계획의 기술적·상업적 장점을 상세히 검토한 끝에 U Mobile을 선정했다고 밝혔습니다. 낙찰에는 엄격한 조건이 따랐습니다. 네 통신사가 공동으로 DNB 지분을 보유하고 있었기 때문에, U Mobile은 자체 네트워크 구축에 집중하기 위해 **DNB 지분을 매각**하고 그 네트워크에서 이탈해야 했습니다.
+네 개 사업자가 입찰했습니다. CelcomDigi, Maxis, U Mobile, [Telekom Malaysia](/ko/companies/telekom-malaysia). MCMC는 각 계획의 기술적·상업적 장점을 상세히 검토한 끝에 U Mobile을 선정했다고 밝혔습니다. 낙찰에는 엄격한 조건이 따랐습니다. 네 통신사가 공동으로 DNB 지분을 보유하고 있었기 때문에, U Mobile은 자체 네트워크 구축에 집중하기 위해 **DNB 지분을 매각**하고 그 네트워크에서 이탈해야 했습니다.
 
 U Mobile은 ULTRA5G라는 브랜드로 제2 네트워크를 **2025년 8월 18일** 출시했으며, 베르자야 타임스 스퀘어(Berjaya Times Square, 이 나라 최초의 완전 5G 지원 쇼핑센터로 홍보됨)에서 처음 서비스를 개시했습니다. 이는 네트워크 슬라이싱을 갖춘 5G 단독(SA) 네트워크로 구축되었으며, Huawei와 ZTE를 기술 파트너로 삼았습니다. U Mobile은 2026년 하반기까지 인구 커버리지 80% 달성을 목표로 세웠습니다.
 

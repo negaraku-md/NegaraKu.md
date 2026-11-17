@@ -29,7 +29,7 @@ faq:
     a: "Ya. DuitNow QR saling beroperasi, jadi satu kod QR peniaga boleh diimbas oleh bank dan e-dompet yang berlainan seperti Touch 'n Go eWallet, GrabPay dan Boost, selagi mereka mengambil bahagian."
 
 lang: "ms"
-sourceContentHash: "d327e61449ac93b7"
+sourceContentHash: "4d9809544dd36b01"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ Imbas kod QR di gerai nasi lemak di Kuala Lumpur, bayar kepada rakan dengan mena
 
 Payments Network Malaysia Sdn Bhd (PayNet) menggambarkan dirinya sebagai "rangkaian pembayaran kebangsaan dan infrastruktur kewangan pusat untuk Malaysia." Ia ditubuhkan pada 1 Ogos 2017 melalui penggabungan dua pengendali lama — Malaysian Electronic Payment System (MEPS) dan Malaysian Electronic Clearing Corporation (MyClear) — menyatukan sistem pembayaran bernilai tinggi dan runcit negara di bawah satu bumbung.
 
-Bank Negara Malaysia (BNM), bank pusat, ialah pemegang saham terbesar PayNet. Dalam jawapan parlimen pada Disember 2025, Kementerian Kewangan menyatakan pegangan BNM pada 35.5% dan berkata bank pusat sedang merangka pelan jangka panjang untuk mengurangkan pegangan saham itu secara beransur-ansur, bagi meluaskan penyertaan industri dalam pengendali pembayaran kebangsaan itu. Baki saham dipegang oleh 11 institusi kewangan Malaysia, termasuk Maybank, CIMB dan Public Bank. Oleh sebab pemilikan dikongsi merentas industri dan bukannya dipegang oleh mana-mana pemain komersial tunggal, PayNet distrukturkan untuk beroperasi sebagai infrastruktur bersama dan bukan bersaing, bukannya sebagai pesaing kepada bank-bank ahlinya.
+Bank Negara Malaysia (BNM), bank pusat, ialah pemegang saham terbesar PayNet. Dalam jawapan parlimen pada Disember 2025, Kementerian Kewangan menyatakan pegangan BNM pada 35.5% dan berkata bank pusat sedang merangka pelan jangka panjang untuk mengurangkan pegangan saham itu secara beransur-ansur, bagi meluaskan penyertaan industri dalam pengendali pembayaran kebangsaan itu. Baki saham dipegang oleh 11 institusi kewangan Malaysia, termasuk [Maybank](/ms/companies/maybank), CIMB dan Public Bank. Oleh sebab pemilikan dikongsi merentas industri dan bukannya dipegang oleh mana-mana pemain komersial tunggal, PayNet distrukturkan untuk beroperasi sebagai infrastruktur bersama dan bukan bersaing, bukannya sebagai pesaing kepada bank-bank ahlinya.
 
 ## Apakah yang sebenarnya dikendalikan oleh PayNet?
 

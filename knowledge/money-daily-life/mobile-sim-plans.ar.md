@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "كل من في ماليزيا — مواطنًا كان أم مقيمًا أم حامل تصريح عمل أم طالبًا أم سائحًا — ممن يحتاج إلى شراء شريحة هاتف محلية أو تسجيلها."
 
 lang: "ar"
-sourceContentHash: "5f238099826ab02d"
+sourceContentHash: "a99a6fb1aad234c9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,7 +86,7 @@ framework: explainer
 | Maxis | Hotlink | يشغّل خطوطه المدفوعة لاحقًا وخطوط Hotlink المدفوعة مسبقًا |
 | U Mobile | Unlimited Funz Prepaid | ثالث مشغّل شبكة وطنية في ماليزيا |
 
-ويشغّل لاعبان أصغر — **Yes** (YTL Communications) و**Unifi Mobile** (Telekom Malaysia) — شبكاتهما الخاصة 4G/LTE إلى جانب الثلاثة أعلاه، وكثيرًا ما تُحزَم مع الإنترنت المنزلي. وأيًّا كان المشغّل الذي تختاره، ينطبق اشتراط التسجيل أدناه بالطريقة نفسها.
+ويشغّل لاعبان أصغر — **Yes** (YTL Communications) و**Unifi Mobile** ([Telekom Malaysia](/ar/companies/telekom-malaysia)) — شبكاتهما الخاصة 4G/LTE إلى جانب الثلاثة أعلاه، وكثيرًا ما تُحزَم مع الإنترنت المنزلي. وأيًّا كان المشغّل الذي تختاره، ينطبق اشتراط التسجيل أدناه بالطريقة نفسها.
 
 ## التسجيل إلزامي — وهو مجاني
 

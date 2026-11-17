@@ -88,7 +88,7 @@ framework: explainer
 
 **Bahasa Malaysia:** Berhad · **English:** Public Limited Company · **中文:** 大众有限公司
 
-When you see "Bhd" at the tail of a Malaysian company's name — Maybank's Malayan Banking Berhad, Public Bank Berhad, Tenaga Nasional Berhad — you are looking at a company that is allowed to sell its shares to strangers. That single permission is what separates a Berhad from the far more common Sdn Bhd, and it is why a Berhad lives under a heavier set of rules.
+When you see "Bhd" at the tail of a Malaysian company's name — [Maybank](/companies/maybank)'s Malayan Banking Berhad, [Public Bank Berhad](/companies/public-bank), [Tenaga Nasional Berhad](/companies/tenaga-nasional) — you are looking at a company that is allowed to sell its shares to strangers. That single permission is what separates a Berhad from the far more common Sdn Bhd, and it is why a Berhad lives under a heavier set of rules.
 
 "Berhad" is simply the Malay word for "limited". It marks a **public limited company** under the Companies Act 2016 (Act 777), the statute administered by the Companies Commission of Malaysia (SSM). Like its private cousin, a Berhad is a separate legal person that can own property, sign contracts, and sue or be sued, and its members' liability is limited to what remains unpaid on their shares.
 

@@ -26,7 +26,7 @@ verificationNeeded:
   - "สินทรัพย์การลงทุนรวมและจำนวนสมาชิกรวมของ EPF ไม่สามารถยืนยันได้อย่างอิสระผ่านการดึงข้อมูลโดยตรงจาก kwsp.gov.my (เว็บไซต์ตอบ HTTP 403 ต่อการดึงข้อมูลอัตโนมัติ); บทความนี้จงใจละเว้นตัวเลข AUM หรือจำนวนสมาชิกของ EPF ที่แม่นยำใด ๆ แทนที่จะเผยแพร่ตัวเลขที่ไม่ได้รับการยืนยัน เพิ่มทั้งสองพร้อมแหล่งข้อมูล kwsp.gov.my เมื่อมีการทบทวนโดยมนุษย์ครั้งแรก"
 
 lang: "th"
-sourceContentHash: "bde519fccc17693d"
+sourceContentHash: "b55efcf4efb4852f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -145,7 +145,7 @@ Incorporated ซึ่งเป็นองค์กรที่จัดตั�
 
 ปัจจุบันพอร์ตของ Khazanah จัดเป็นพอร์ตการลงทุน (private equity สินทรัพย์จริง และตลาดสาธารณะ)
 พอร์ตเพื่อการพัฒนา Dana Impak สินทรัพย์เพื่อการพัฒนาที่ตกทอด และการถือครองสถานการณ์พิเศษ
-ตำแหน่งที่จดทะเบียนรายใหญ่รวมถึง CIMB, Telekom Malaysia, Tenaga Nasional, IHH Healthcare,
+ตำแหน่งที่จดทะเบียนรายใหญ่รวมถึง CIMB, [Telekom Malaysia](/th/companies/telekom-malaysia), Tenaga Nasional, [IHH Healthcare](/th/companies/ihh-healthcare),
 Axiata, Malaysia Airports และ Astro
 
 สำหรับปี 2025 Khazanah รายงานสินทรัพย์สุทธิ RM105 พันล้าน สินทรัพย์รวม RM156 พันล้าน และกำไร

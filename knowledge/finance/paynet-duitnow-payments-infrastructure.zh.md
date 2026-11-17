@@ -29,7 +29,7 @@ faq:
     a: "可以。DuitNow QR 是互通的，因此商家的单个 QR 码可以被不同的银行和电子钱包扫描，例如 Touch 'n Go eWallet、GrabPay 和 Boost，只要它们参与其中即可。"
 
 lang: "zh"
-sourceContentHash: "d327e61449ac93b7"
+sourceContentHash: "4d9809544dd36b01"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ framework: profile
 
 Payments Network Malaysia Sdn Bhd（PayNet）自称为"马来西亚的国家支付网络和中央金融基础设施"。它于 2017 年 8 月 1 日通过两家较早的运营商——马来西亚电子支付系统（Malaysian Electronic Payment System，MEPS）与马来西亚电子清算公司（Malaysian Electronic Clearing Corporation，MyClear）——合并而成立，将全国的大额与零售支付系统归于一处。
 
-马来西亚国家银行（Bank Negara Malaysia，BNM），即中央银行，是 PayNet 的最大股东。在 2025 年 12 月的一份国会答复中，财政部指出国行的持股为 35.5%，并表示中央银行正在制定一项长期计划，逐步减持这部分股份，以扩大业界对这家国家支付运营商的参与。其余股份由 11 家马来西亚金融机构持有，包括 Maybank（马来亚银行）、CIMB（联昌国际）和 Public Bank（大众银行）。由于所有权是由整个行业共同持有，而非掌握在任何单一商业参与者手中，PayNet 的架构使其作为共享、非竞争性的基础设施运作，而不是与其成员银行相竞争。
+马来西亚国家银行（Bank Negara Malaysia，BNM），即中央银行，是 PayNet 的最大股东。在 2025 年 12 月的一份国会答复中，财政部指出国行的持股为 35.5%，并表示中央银行正在制定一项长期计划，逐步减持这部分股份，以扩大业界对这家国家支付运营商的参与。其余股份由 11 家马来西亚金融机构持有，包括 [Maybank](/zh/companies/maybank)（马来亚银行）、CIMB（联昌国际）和 Public Bank（大众银行）。由于所有权是由整个行业共同持有，而非掌握在任何单一商业参与者手中，PayNet 的架构使其作为共享、非竞争性的基础设施运作，而不是与其成员银行相竞争。
 
 ## PayNet 实际运营着什么？
 

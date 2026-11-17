@@ -29,7 +29,7 @@ faq:
     a: "可以。SaveME 999 应用程序支持基于视频、文字和多媒体的紧急报警，而不仅限于语音通话，让残障人士（OKU）同样能够联系 999 接线员。"
 
 lang: "zh"
-sourceContentHash: "a2e869579c3095a1"
+sourceContentHash: "12fd6b175920e02e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -76,7 +76,7 @@ framework: profile
 
 你的来电会进入**马来西亚紧急救援服务（Malaysian Emergency Response Services，MERS 999）**指挥中心——这是一套整合式系统，将五大机构的紧急服务统一在同一个号码之下。接线员会识别紧急情况的类型、地点和关键信息，然后将来电及相关数据转接至正确的机构。
 
-该系统采用计算机辅助派遣（computer-aided dispatch）、地理信息系统（GIS）、电话与计算机接口、语音录音及医疗专家系统等技术构建——以确保各机构以统一的方式处理来电。拨打 999 **免费**，并且会被**录音与追踪**，以防止假报警。MERS 999 通过马来西亚政府与马来西亚电信公司（Telekom Malaysia Berhad）的合作来运营。
+该系统采用计算机辅助派遣（computer-aided dispatch）、地理信息系统（GIS）、电话与计算机接口、语音录音及医疗专家系统等技术构建——以确保各机构以统一的方式处理来电。拨打 999 **免费**，并且会被**录音与追踪**，以防止假报警。MERS 999 通过马来西亚政府与马来西亚电信公司（[Telekom Malaysia](/zh/companies/telekom-malaysia) Berhad）的合作来运营。
 
 ## 通过 999 能联系到哪些机构？
 

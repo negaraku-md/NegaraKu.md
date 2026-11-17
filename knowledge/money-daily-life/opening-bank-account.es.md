@@ -26,7 +26,7 @@ verificationNeeded:
   - "BNM's digital on-boarding / e-KYC policy page returned a 403 on automated fetch at time of writing; its existence and title are confirmed directly from bnm.gov.my search results, but granular eligibility detail should be re-checked directly on bnm.gov.my when accessible."
 
 lang: "es"
-sourceContentHash: "0cc7d7d79dcaf765"
+sourceContentHash: "d020cec4f4cc6614"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -132,7 +132,7 @@ motivo para que el banco rechace la solicitud sin más, con independencia del
 tiempo que lleve realmente viviendo en Malasia. Segundo, el banco aún puede
 pedir documentos más allá de esta lista o realizar comprobaciones adicionales:
 la propia página de CIMB es explícita en que se pueden solicitar «documentos
-justificativos adicionales no enumerados», y otros bancos (Maybank, Public Bank,
+justificativos adicionales no enumerados», y otros bancos ([Maybank](/es/companies/maybank), Public Bank,
 Hong Leong, RHB) publican listas a grandes rasgos similares pero no idénticas,
 así que lo más seguro es siempre consultar la página actual del banco concreto
 antes de ir a la sucursal.

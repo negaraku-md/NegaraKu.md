@@ -31,7 +31,7 @@ faq:
   - q: ¿Cómo apoya el gobierno a la industria química?
     a: La Autoridad de Desarrollo de Inversiones de Malasia (MIDA), a través de su División de Productos Químicos y Materiales Avanzados, evalúa las licencias de fabricación y ofrece incentivos como el Estatus Pionero y la Deducción por Inversión en Activos. Los proyectos de petróleo y petroquímicos también se rigen por la Ley de Desarrollo del Petróleo de 1974. La Hoja de Ruta de la Industria Química 2030 y el Nuevo Plan Maestro Industrial 2030 fijan la dirección estratégica hacia químicos especializados y de mayor valor.
 lang: es
-sourceContentHash: "1c45aa3fcee5cc05"
+sourceContentHash: "11eb5b1edb640b2d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -128,7 +128,7 @@ La ambición estratégica de la industria, expuesta en la CIR2030, es desplazar 
 
 ## Actores clave y GLC
 
-El ancla es **PETRONAS Chemicals Group (PCG)**, el brazo petroquímico cotizado de la petrolera nacional [PETRONAS](/es/economy/oil-gas-petronas/). PCG es el productor integrado dominante de olefinas, polímeros y fertilizantes, y su escala proviene del acceso privilegiado a la materia prima de gas nacional.
+El ancla es **[PETRONAS Chemicals Group](/es/companies/petronas-chemicals) (PCG)**, el brazo petroquímico cotizado de la petrolera nacional [PETRONAS](/es/economy/oil-gas-petronas/). PCG es el productor integrado dominante de olefinas, polímeros y fertilizantes, y su escala proviene del acceso privilegiado a la materia prima de gas nacional.
 
 **Lotte Chemical Titan**, mayoritariamente propiedad de la surcoreana Lotte Chemical, es el otro peso pesado. Fundada en 1991 como la primera productora independiente de poliolefinas de Malasia, ha sido descrita como el mayor productor integrado de olefinas y poliolefinas del país, con capacidad repartida en dos emplazamientos de Johor (la cifra precisa varía entre fuentes). Un amplio campo de multinacionales —en gases industriales, recubrimientos, agroquímicos y productos especializados— y una gran base de productores oleoquímicos derivados de la palma completan el sector.
 

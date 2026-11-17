@@ -34,7 +34,7 @@ faq:
     a: "Tidak. Institusi keuangan pembangunan yang ditetapkan diatur di bawah Development Financial Institutions Act 2002 dan diawasi oleh Bank Negara Malaysia, sebuah rezim yang terpisah dari FSA dan IFSA."
 
 lang: "id"
-sourceContentHash: "a9fc5401e6cabfb3"
+sourceContentHash: "acfcc6c1e869263e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -128,7 +128,7 @@ Perbedaannya adalah tentang keluasan versus kedalaman.
 
 **Bank komersial** adalah tulang punggung harian. Mereka menerima simpanan, memberi pinjaman kepada rumah tangga dan perusahaan, mengelola meja pembiayaan perdagangan dan perbendaharaan, serta mengoperasikan jaringan cabang dan kartu yang paling sering didatangi masyarakat. Ke-24 pemegang lisensi merupakan gabungan bank yang berbadan hukum di dalam negeri dan anak perusahaan bank asing yang berbadan hukum secara lokal — yang kedua ini mencakup nama seperti Citibank Berhad, HSBC Bank Malaysia Berhad, Standard Chartered Bank Malaysia Berhad, Deutsche Bank (Malaysia) Berhad, MUFG Bank (Malaysia) Berhad, dan Bank of China (Malaysia) Berhad.
 
-**Bank investasi** lebih sempit dan lebih khusus. Ke-10 pemegang lisensi — termasuk Maybank Investment Bank, CIMB Investment Bank, AmInvestment Bank, Affin Hwang Investment Bank, dan MBSB Investment Bank — berfokus pada jasa penasihat korporat, menghimpun dana utang dan ekuitas di pasar modal, serta keuangan terstruktur. Mereka tidak mengejar simpanan ritel seperti yang dilakukan bank komersial.
+**Bank investasi** lebih sempit dan lebih khusus. Ke-10 pemegang lisensi — termasuk [Maybank](/id/companies/maybank) Investment Bank, CIMB Investment Bank, AmInvestment Bank, Affin Hwang Investment Bank, dan MBSB Investment Bank — berfokus pada jasa penasihat korporat, menghimpun dana utang dan ekuitas di pasar modal, serta keuangan terstruktur. Mereka tidak mengejar simpanan ritel seperti yang dilakukan bank komersial.
 
 Kedua kategori dilisensikan di bawah statuta yang sama, yaitu FSA 2013. Kebanyakannya, di kedua belah pihak, juga mengoperasikan **jendela perbankan Islam** — divisi yang disetujui yang menawarkan produk patuh Syariah bersama usaha konvensional.
 

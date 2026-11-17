@@ -29,7 +29,7 @@ faq:
     a: "Yes. The SaveME 999 app enables video-, text- and multimedia-based emergency alerts, not just voice calls, so Persons with Disabilities can also reach a 999 operator."
 
 lang: "en"
-sourceContentHash: "a2e869579c3095a1"
+sourceContentHash: "12fd6b175920e02e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -76,7 +76,7 @@ A single number — **999** — connects you to Malaysia's five emergency agenci
 
 Your call reaches the operations centre of the **Malaysian Emergency Response Services (MERS 999)**, an integrated system that combines the emergency services of five agencies under a single number. The operator identifies the type of emergency, the location and key information, then routes the call along with that data to the right agency.
 
-The system is built with computer-aided dispatch technology, geographic information systems (GIS), computer-telephone interfaces, voice recording and a medical expert system — so that calls are handled consistently across all agencies. Calls to 999 are **free** and are **recorded and tracked** to deter hoax reports. MERS 999 is operated through a partnership between the Government of Malaysia and Telekom Malaysia Berhad.
+The system is built with computer-aided dispatch technology, geographic information systems (GIS), computer-telephone interfaces, voice recording and a medical expert system — so that calls are handled consistently across all agencies. Calls to 999 are **free** and are **recorded and tracked** to deter hoax reports. MERS 999 is operated through a partnership between the Government of Malaysia and [Telekom Malaysia](/en/companies/telekom-malaysia) Berhad.
 
 ## Which agencies can be reached through 999?
 

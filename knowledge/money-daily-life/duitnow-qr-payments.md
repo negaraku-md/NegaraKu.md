@@ -77,7 +77,7 @@ framework: explainer
 ---
 
 Seorang peniaga gerai pasar malam memaparkan satu kod QR sahaja. Pelanggan yang
-menggunakan apl Maybank mengimbasnya. Pelanggan seterusnya menggunakan Touch 'n
+menggunakan apl [Maybank](/companies/maybank) mengimbasnya. Pelanggan seterusnya menggunakan Touch 'n
 Go eWallet, mengimbas kod QR yang **sama**. Kedua-dua bayaran sampai ke akaun
 peniaga itu dalam saat. Tiada kod QR berasingan bagi setiap bank atau e-dompet —
 itulah DuitNow QR bekerja secara senyap di belakang tabir.

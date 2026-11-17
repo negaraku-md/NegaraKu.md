@@ -31,7 +31,7 @@ faq:
   - q: Apakah pasar telekomunikasi Malaysia masih tumbuh?
     a: Pertumbuhan pelanggan sebagian besar telah mendatar karena pasar nyaris jenuh. Pertumbuhan di masa depan diperkirakan berasal dari layanan bernilai lebih tinggi — 5G, peningkatan serat optik, konektivitas enterprise, dan layanan digital — ketimbang dari mendaftarkan sejumlah besar pengguna baru.
 lang: id
-sourceContentHash: "01292aba5d43284f"
+sourceContentHash: "0a9dfcb348c124ab"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -131,7 +131,7 @@ Operator seluler utama saat ini adalah:
 
 Berdampingan dengan mereka berjalan lapisan **mobile virtual network operator (MVNO)** dan merek prabayar (seperti yang menumpang pada jaringan besar) yang menambah persaingan di ujung anggaran-terbatas.
 
-Di sisi tetap, pemimpin pasar adalah **Telekom Malaysia (TM)**, bekas monopoli negara, yang merek **unifi**-nya mendominasi broadband tetap dan yang juga memiliki sebagian besar tulang punggung nasional dan konektivitas internasional. TM bersaing dengan **Maxis Fibre**, **TIME dotCom** (kuat di serat optik gedung tinggi dan perkotaan), dan **YTL Communications**, yang menjalankan merek **Yes**. Beberapa operator kini menjual paket **converged** — seluler dan broadband rumah yang digabungkan — yang menjadi front utama dalam persaingan untuk pengeluaran rumah tangga.
+Di sisi tetap, pemimpin pasar adalah **[Telekom Malaysia](/id/companies/telekom-malaysia) (TM)**, bekas monopoli negara, yang merek **unifi**-nya mendominasi broadband tetap dan yang juga memiliki sebagian besar tulang punggung nasional dan konektivitas internasional. TM bersaing dengan **Maxis Fibre**, **TIME dotCom** (kuat di serat optik gedung tinggi dan perkotaan), dan **YTL Communications**, yang menjalankan merek **Yes**. Beberapa operator kini menjual paket **converged** — seluler dan broadband rumah yang digabungkan — yang menjadi front utama dalam persaingan untuk pengeluaran rumah tangga.
 
 ## Broadband seluler versus tetap
 

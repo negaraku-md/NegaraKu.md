@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "596219fad8f1401b"
+sourceContentHash: "af9faa6b0d03ba80"
 
 status: "published"
 aiAssisted: true
@@ -95,7 +95,7 @@ RHB の根はマレーシア銀行史の奥深くに伸びている。その最�
 - 1999年、同グループは Sime Bank（1959年に遡る旧 United Malayan Banking Corporation）を吸収した。
 - 2003年、Bank Utama (Malaysia) Berhad と合併した。
 
-さらなる変革は2012年に訪れ、RHB Capital Berhad が株式交換で OSK Investment Bank を買収した；二つの投資銀行事業は2013年4月付で統合され、同グループの資本市場部門を大幅に拡大した。2016年には、RHB Bank Berhad が RHB Capital Berhad の上場地位を引き継ぎ、グループの上場金融持株会社となった。2017年には AmBank グループとの合併が検討されたが、両者が条件で合意できず中止となった。
+さらなる変革は2012年に訪れ、RHB Capital Berhad が株式交換で OSK Investment Bank を買収した；二つの投資銀行事業は2013年4月付で統合され、同グループの資本市場部門を大幅に拡大した。2016年には、RHB Bank Berhad が RHB Capital Berhad の上場地位を引き継ぎ、グループの上場金融持株会社となった。2017年には [AmBank](/ja/companies/ambank-group) グループとの合併が検討されたが、両者が条件で合意できず中止となった。
 
 ## 事業セグメント
 

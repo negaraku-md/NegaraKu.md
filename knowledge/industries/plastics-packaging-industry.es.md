@@ -31,7 +31,7 @@ faq:
   - q: ¿Qué está haciendo Malasia respecto a la contaminación por plástico?
     a: La Hoja de Ruta de Sostenibilidad del Plástico de Malasia 2021-2030, liderada por el ministerio de medio ambiente, fija objetivos para eliminar progresivamente los plásticos de un solo uso problemáticos, elevar las tasas de reciclaje y el contenido reciclado, y hacer que el envase de plástico sea reciclable. También introduce un esquema de Responsabilidad Ampliada del Productor (RAP) que hace que los productores ayuden a financiar la recogida y el reciclaje.
 lang: es
-sourceContentHash: "997857d937a84a00"
+sourceContentHash: "dc6e2cfa034711f6"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -122,7 +122,7 @@ Una nota sobre el empleo: no se encontró una única cifra nacional autorizada p
 
 La industria no empieza con la granza: empieza con el petróleo y el gas. Los plásticos se sitúan en el extremo **aguas abajo** de la [industria química y petroquímica](/es/industries/chemicals-petrochemicals-industry/) de Malasia, que craquea hidrocarburos en los bloques de construcción de los polímeros.
 
-Malasia fabrica gran parte de su propia resina. **PETRONAS Chemicals Group** y **Lotte Chemical Titan** son los principales productores de polímeros de uso común como el polietileno (PE) y el polipropileno (PP). El gran Complejo Integrado de Pengerang de PETRONAS (parte del proyecto RAPID) en Johor añadió una capacidad sustancial de polímeros aguas abajo —incluidas líneas de PE, PP y HDPE—, profundizando la capacidad del país para abastecer a sus propios transformadores. Esta integración vertical, de la refinería a la resina y al envase acabado, es una fortaleza estructural: acorta las cadenas de suministro y amortigua a los transformadores frente a parte de la volatilidad de las materias primas importadas. Aun así, los grados especiales todavía se importan, y los precios de la resina siguen de cerca los mercados mundiales del petróleo.
+Malasia fabrica gran parte de su propia resina. [**PETRONAS Chemicals Group**](/es/companies/petronas-chemicals) y **Lotte Chemical Titan** son los principales productores de polímeros de uso común como el polietileno (PE) y el polipropileno (PP). El gran Complejo Integrado de Pengerang de PETRONAS (parte del proyecto RAPID) en Johor añadió una capacidad sustancial de polímeros aguas abajo —incluidas líneas de PE, PP y HDPE—, profundizando la capacidad del país para abastecer a sus propios transformadores. Esta integración vertical, de la refinería a la resina y al envase acabado, es una fortaleza estructural: acorta las cadenas de suministro y amortigua a los transformadores frente a parte de la volatilidad de las materias primas importadas. Aun así, los grados especiales todavía se importan, y los precios de la resina siguen de cerca los mercados mundiales del petróleo.
 
 ## Qué fabrica la industria
 

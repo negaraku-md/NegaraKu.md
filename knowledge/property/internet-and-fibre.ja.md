@@ -24,7 +24,7 @@ appliesTo: "マレーシアで住まいを賃借、購入、または引っ越�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "19befa5847e8b8f0"
+sourceContentHash: "bbd067458507d9b6"
 
 status: "published"
 aiAssisted: true
@@ -84,7 +84,7 @@ MCMC）の下で運営される全国的な連結推進策である。その第�
 に据えた——これは同国の既存の高速ブロードバンド（High Speed Broadband、HSBB）
 バックボーンの上に築かれた取り組みである。
 
-そのバックボーンは **Telekom Malaysia（TM）** が所有している。**Unifi** が、ほかの
+そのバックボーンは **[Telekom Malaysia](/ja/companies/telekom-malaysia)（TM）** が所有している。**Unifi** が、ほかの
 ISP が敷設していない町や郊外を含め、いかなる単一ブランドよりも広い到達範囲を持つ
 傾向にあるのはこのためである。だが「広い」は「どこでも」ではない——カバレッジは
 依然として住所ごとに異なり、だからこそすべての主要事業者は、まず登録させて結果を

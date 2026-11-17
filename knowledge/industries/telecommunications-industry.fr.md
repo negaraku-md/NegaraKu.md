@@ -31,7 +31,7 @@ faq:
   - q: "Le marché télécom de la Malaisie est-il encore en croissance ?"
     a: "La croissance des abonnés a largement atteint un plateau parce que le marché est proche de la saturation. La croissance future devrait venir de services à plus forte valeur ajoutée — 5G, mises à niveau de la fibre, connectivité d'entreprise et services numériques — plutôt que de l'inscription d'un grand nombre de nouveaux utilisateurs."
 lang: fr
-sourceContentHash: "01292aba5d43284f"
+sourceContentHash: "0a9dfcb348c124ab"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -131,7 +131,7 @@ Les principaux opérateurs mobiles d'aujourd'hui sont :
 
 Aux côtés de ceux-ci opèrent une couche d'**opérateurs de réseau mobile virtuel (MVNO)** et de marques prépayées (telles que celles qui s'appuient sur les grands réseaux) qui ajoutent de la concurrence à l'extrémité économique.
 
-Côté fixe, le leader du marché est **Telekom Malaysia (TM)**, l'ancien monopole d'État, dont la marque **unifi** domine le haut débit fixe et qui possède aussi une grande partie de la dorsale nationale et de la connectivité internationale. TM est en concurrence avec **Maxis Fibre**, **TIME dotCom** (fort dans la fibre des immeubles de grande hauteur et urbaine) et **YTL Communications**, qui exploite la marque **Yes**. Plusieurs opérateurs vendent désormais des offres **convergées** — mobile et haut débit domestique groupés — ce qui est un front majeur de la concurrence pour les dépenses des ménages.
+Côté fixe, le leader du marché est **[Telekom Malaysia](/fr/companies/telekom-malaysia) (TM)**, l'ancien monopole d'État, dont la marque **unifi** domine le haut débit fixe et qui possède aussi une grande partie de la dorsale nationale et de la connectivité internationale. TM est en concurrence avec **Maxis Fibre**, **TIME dotCom** (fort dans la fibre des immeubles de grande hauteur et urbaine) et **YTL Communications**, qui exploite la marque **Yes**. Plusieurs opérateurs vendent désormais des offres **convergées** — mobile et haut débit domestique groupés — ce qui est un front majeur de la concurrence pour les dépenses des ménages.
 
 ## Haut débit mobile contre fixe
 

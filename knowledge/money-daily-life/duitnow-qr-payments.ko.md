@@ -26,7 +26,7 @@ verificationNeeded:
   - "수수료 수치와 거래 한도는 집필일 기준 PayNet 공식 사이트에서 직접 인용했습니다; PayNet은 실제 수수료가 개별 은행/전자지갑에 따라 다를 수 있다고 밝힙니다"
 
 lang: "ko"
-sourceContentHash: "1b31c1f5d1b3682f"
+sourceContentHash: "df04ec38e7fc7b1e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,7 +77,7 @@ keywords: ["DuitNow", "DuitNow QR", "PayNet", "pembayaran segera Malaysia", "kod
 framework: explainer
 ---
 
-야시장 노점 상인이 단 하나의 QR 코드를 표시합니다. Maybank 앱을 사용하는 고객이 그것을 스캔합니다. 다음 고객은 Touch 'n Go eWallet을 사용하여 **같은** QR 코드를 스캔합니다. 두 결제 모두 몇 초 안에 그 상인의 계좌에 도착합니다. 각 은행이나 전자지갑마다 별도의 QR 코드가 없습니다 — 그것이 DuitNow QR이 무대 뒤에서 조용히 작동하는 방식입니다.
+야시장 노점 상인이 단 하나의 QR 코드를 표시합니다. [Maybank](/ko/companies/maybank) 앱을 사용하는 고객이 그것을 스캔합니다. 다음 고객은 Touch 'n Go eWallet을 사용하여 **같은** QR 코드를 스캔합니다. 두 결제 모두 몇 초 안에 그 상인의 계좌에 도착합니다. 각 은행이나 전자지갑마다 별도의 QR 코드가 없습니다 — 그것이 DuitNow QR이 무대 뒤에서 조용히 작동하는 방식입니다.
 
 ## DuitNow: 계좌번호가 아닌 전화번호로 보내기
 

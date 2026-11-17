@@ -34,7 +34,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c1f7f6a84e1fec97"
+sourceContentHash: "759f20164c0d9f77"
 
 status: "published"
 aiAssisted: true
@@ -146,7 +146,7 @@ framework: profile
 - **2024 年 11 月 1 日**——MCMC 宣布 U Mobile 为第二个 5G 网络的中标者。
 - **2024 年 12 月 31 日**——《2024 年第 4 号部长指令》撤销 2021 年的单一批发网络指令，正式终结 DNB 的垄断，并确立双网络模式。
 
-有四家运营商竞标第二网络——CelcomDigi、Maxis、U Mobile 与马来西亚电讯（Telekom Malaysia）。MCMC 在其所述的对技术与商业计划进行严格审查后选定 U Mobile，并分配给它 700MHz（一个 2×20MHz 频段）与 3.5GHz（一个 100MHz 频段）以兴建网络。
+有四家运营商竞标第二网络——CelcomDigi、Maxis、U Mobile 与[马来西亚电讯](/zh/companies/telekom-malaysia)（Telekom Malaysia）。MCMC 在其所述的对技术与商业计划进行严格审查后选定 U Mobile，并分配给它 700MHz（一个 2×20MHz 频段）与 3.5GHz（一个 100MHz 频段）以兴建网络。
 
 中标附带一项条件：U Mobile 必须出售其在 DNB 的股权并退出该网络，以专注于自身网络。**2025 年 5 月**，它出售了在 DNB 的股权并从网络中退出，留下 CelcomDigi、Maxis 与 YTL 各持有 19.44%。U Mobile 于 **2025 年 8 月 18 日**启动其 ULTRA5G 网络，首站在 Berjaya Times Square 上线，并将其誉为全国首个全面覆盖 5G 的购物中心。
 

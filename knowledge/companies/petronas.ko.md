@@ -35,7 +35,7 @@ faq:
     a: "두 주 모두 1975년 협정에 근거해 5% 로열티를 주장합니다. Terengganu는 지급을 받고 있으나(2000년경 「은혜금(wang ehsan)」으로 전환되었다가 2009년에 복원됨), Kelantan의 2010년 법원 소송은 2019년에 취하되었습니다. 핵심 쟁점은 해당 유정이 주 관할 해역(3해리 한계) 안에 있는지, 아니면 연방 관할에 속하는지입니다."
 
 lang: "ko"
-sourceContentHash: "fee9c9760c973ad8"
+sourceContentHash: "742face9b45c4b23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -145,7 +145,7 @@ Petronas는 유정에서 주유소까지 석유·가스의 전체 가치사슬�
 
 | 자회사 | 핵심 분야 |
 | --- | --- |
-| PETRONAS Chemicals Group (PCG) | 통합 화학 생산자 — 올레핀, 폴리머, 비료, 메탄올, 특수 화학 |
+| [PETRONAS Chemicals Group](/ko/companies/petronas-chemicals) (PCG) | 통합 화학 생산자 — 올레핀, 폴리머, 비료, 메탄올, 특수 화학 |
 | PETRONAS Gas Berhad (PGB) | 가스 처리, 수송, 재기화 네트워크 소유 및 운영 |
 | PETRONAS Dagangan Berhad (PDB) | 다운스트림 석유 제품의 소매 및 마케팅(주유소, 제품) |
 | [MISC Berhad](/companies/misc-berhad) | 물류 및 해양 — LNG 운송, 유조선, 기술 서비스 |

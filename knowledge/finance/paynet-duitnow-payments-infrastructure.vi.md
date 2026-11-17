@@ -29,7 +29,7 @@ faq:
     a: "Có. DuitNow QR có thể tương tác, nên một mã QR duy nhất của người bán có thể được quét bởi các ngân hàng và ví điện tử khác nhau như Touch 'n Go eWallet, GrabPay và Boost, miễn là chúng tham gia."
 
 lang: "vi"
-sourceContentHash: "d327e61449ac93b7"
+sourceContentHash: "4d9809544dd36b01"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ Quét một mã QR ở một gian hàng nasi lemak tại Kuala Lumpur, trả cho
 
 Payments Network Malaysia Sdn Bhd (PayNet) tự mô tả mình là "mạng lưới thanh toán quốc gia và hạ tầng tài chính trung tâm cho Malaysia." Nó được thành lập vào ngày 1 tháng 8 năm 2017 qua việc sáp nhập hai bên vận hành cũ hơn — Malaysian Electronic Payment System (MEPS) và Malaysian Electronic Clearing Corporation (MyClear) — đưa các hệ thống thanh toán giá trị cao và bán lẻ của đất nước về dưới một mái nhà.
 
-Bank Negara Malaysia (BNM), ngân hàng trung ương, là cổ đông lớn nhất của PayNet. Trong một câu trả lời trước quốc hội vào tháng 12 năm 2025, Bộ Tài chính đặt tỷ lệ cổ phần của BNM ở mức 35.5% và nói ngân hàng trung ương đang soạn thảo một kế hoạch dài hạn để giảm dần tỷ lệ cổ phần đó, nhằm mở rộng sự tham gia của ngành trong bên vận hành thanh toán quốc gia. Số cổ phần còn lại do 11 tổ chức tài chính Malaysia nắm giữ, bao gồm Maybank, CIMB và Public Bank. Vì quyền sở hữu được chia sẻ trong toàn ngành chứ không phải do bất kỳ bên thương mại đơn lẻ nào nắm giữ, PayNet được cấu trúc để vận hành như hạ tầng dùng chung, không cạnh tranh chứ không phải như một đối thủ của các ngân hàng thành viên của nó.
+Bank Negara Malaysia (BNM), ngân hàng trung ương, là cổ đông lớn nhất của PayNet. Trong một câu trả lời trước quốc hội vào tháng 12 năm 2025, Bộ Tài chính đặt tỷ lệ cổ phần của BNM ở mức 35.5% và nói ngân hàng trung ương đang soạn thảo một kế hoạch dài hạn để giảm dần tỷ lệ cổ phần đó, nhằm mở rộng sự tham gia của ngành trong bên vận hành thanh toán quốc gia. Số cổ phần còn lại do 11 tổ chức tài chính Malaysia nắm giữ, bao gồm [Maybank](/vi/companies/maybank), CIMB và Public Bank. Vì quyền sở hữu được chia sẻ trong toàn ngành chứ không phải do bất kỳ bên thương mại đơn lẻ nào nắm giữ, PayNet được cấu trúc để vận hành như hạ tầng dùng chung, không cạnh tranh chứ không phải như một đối thủ của các ngân hàng thành viên của nó.
 
 ## PayNet thực sự vận hành cái gì?
 

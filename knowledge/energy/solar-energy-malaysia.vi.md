@@ -31,7 +31,7 @@ faq:
     a: "Ủy ban Năng lượng (Energy Commission) là cơ quan quản lý chính. SEDA Malaysia triển khai NEM, trong khi Single Buyer (thuộc TNB) điều phối các chương trình thị trường như CGPP, CRESS và CREAM."
 
 lang: "vi"
-sourceContentHash: "69ed2a98233b72ad"
+sourceContentHash: "57d271bf1ff95022"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -116,7 +116,7 @@ Tất cả đều nằm dưới sự giám sát của Ủy ban Năng lượng (E
 
 ## NEM 3.0 hoạt động thế nào cho hộ gia đình và doanh nghiệp?
 
-NEM là lộ trình phổ biến nhất đối với công chúng. Bạn lắp tấm pin mặt trời trên mái, sử dụng năng lượng tự tạo trước, và gửi phần dư thừa vào lưới điện của Tenaga Nasional Berhad (TNB). Theo NEM 3.0, việc bù trừ được thực hiện theo cơ chế "một-đổi-một" — mỗi kilowatt-giờ gửi vào lưới được bù trừ với một kilowatt-giờ bạn lấy từ lưới.
+NEM là lộ trình phổ biến nhất đối với công chúng. Bạn lắp tấm pin mặt trời trên mái, sử dụng năng lượng tự tạo trước, và gửi phần dư thừa vào lưới điện của [Tenaga Nasional Berhad](/vi/companies/tenaga-nasional) (TNB). Theo NEM 3.0, việc bù trừ được thực hiện theo cơ chế "một-đổi-một" — mỗi kilowatt-giờ gửi vào lưới được bù trừ với một kilowatt-giờ bạn lấy từ lưới.
 
 Theo cổng RE của SEDA, NEM 3.0 chạy trong giai đoạn cho đến ngày 30 tháng 6 năm 2025, với tổng hạn ngạch lên đến 2,500 MW. Nó được chia thành ba tiểu chương trình:
 

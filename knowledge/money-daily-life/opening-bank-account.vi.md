@@ -26,7 +26,7 @@ verificationNeeded:
   - "Trang chính sách tiếp nhận số / e-KYC của BNM trả về lỗi 403 khi tải tự động tại thời điểm viết bài; sự tồn tại và tiêu đề của nó được xác nhận trực tiếp từ kết quả tìm kiếm bnm.gov.my, nhưng chi tiết điều kiện chi tiết nên được kiểm tra lại trực tiếp trên bnm.gov.my khi có thể truy cập."
 
 lang: "vi"
-sourceContentHash: "0cc7d7d79dcaf765"
+sourceContentHash: "d020cec4f4cc6614"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -126,7 +126,7 @@ một hộ chiếu hoặc thị thực còn dưới sáu tháng trước khi h�
 hàng từ chối đơn hoàn toàn, bất kể bạn đã thực sự sống tại Malaysia bao lâu. Thứ
 hai, ngân hàng vẫn có thể yêu cầu giấy tờ ngoài danh mục này hoặc thực hiện các kiểm
 tra bổ sung — trang của chính CIMB nêu rõ rằng "các giấy tờ hỗ trợ bổ sung không được
-liệt kê" có thể được yêu cầu, và các ngân hàng khác (Maybank, Public Bank, Hong
+liệt kê" có thể được yêu cầu, và các ngân hàng khác ([Maybank](/vi/companies/maybank), Public Bank, Hong
 Leong, RHB) công bố các danh mục tương tự trên diện rộng nhưng không giống hệt, vì
 vậy động thái an toàn nhất luôn là kiểm tra trang hiện hành của ngân hàng cụ thể
 trước khi đến chi nhánh.

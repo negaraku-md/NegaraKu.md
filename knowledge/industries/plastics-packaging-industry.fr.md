@@ -31,7 +31,7 @@ faq:
   - q: "Que fait la Malaisie contre la pollution plastique ?"
     a: "La Feuille de route malaisienne pour la durabilité des plastiques 2021–2030, pilotée par le ministère de l'Environnement, fixe des objectifs pour éliminer progressivement les plastiques à usage unique problématiques, augmenter les taux de recyclage et le contenu recyclé, et rendre les emballages plastiques recyclables. Elle introduit également un régime de responsabilité élargie des producteurs (REP) qui fait participer les producteurs au financement de la collecte et du recyclage."
 lang: fr
-sourceContentHash: "997857d937a84a00"
+sourceContentHash: "dc6e2cfa034711f6"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -122,7 +122,7 @@ Une note sur l'emploi : un effectif national unique faisant autorité n'a pas é
 
 L'industrie ne commence pas par les granulés — elle commence par le pétrole et le gaz. Les plastiques se situent à l'extrémité **aval** de l'[industrie chimique et pétrochimique](/fr/industries/chemicals-petrochemicals-industry/) de la Malaisie, qui craque les hydrocarbures en briques de base des polymères.
 
-La Malaisie fabrique une grande partie de sa propre résine. **PETRONAS Chemicals Group** et **Lotte Chemical Titan** sont les principaux producteurs de polymères de commodité tels que le polyéthylène (PE) et le polypropylène (PP). Le grand Pengerang Integrated Complex de PETRONAS (qui fait partie du projet RAPID) dans le Johor a ajouté une capacité polymère en aval substantielle — y compris des lignes de PE, de PP et de PEHD — approfondissant la capacité du pays à alimenter ses propres transformateurs. Cette intégration verticale, de la raffinerie à la résine jusqu'à l'emballage fini, est une force structurelle : elle raccourcit les chaînes d'approvisionnement et protège les transformateurs d'une partie de la volatilité des matières premières importées. Même ainsi, les nuances spécialisées sont encore importées, et les prix de la résine suivent de près les marchés pétroliers mondiaux.
+La Malaisie fabrique une grande partie de sa propre résine. [**PETRONAS Chemicals Group**](/fr/companies/petronas-chemicals) et **Lotte Chemical Titan** sont les principaux producteurs de polymères de commodité tels que le polyéthylène (PE) et le polypropylène (PP). Le grand Pengerang Integrated Complex de PETRONAS (qui fait partie du projet RAPID) dans le Johor a ajouté une capacité polymère en aval substantielle — y compris des lignes de PE, de PP et de PEHD — approfondissant la capacité du pays à alimenter ses propres transformateurs. Cette intégration verticale, de la raffinerie à la résine jusqu'à l'emballage fini, est une force structurelle : elle raccourcit les chaînes d'approvisionnement et protège les transformateurs d'une partie de la volatilité des matières premières importées. Même ainsi, les nuances spécialisées sont encore importées, et les prix de la résine suivent de près les marchés pétroliers mondiaux.
 
 ## Ce que fabrique l'industrie
 

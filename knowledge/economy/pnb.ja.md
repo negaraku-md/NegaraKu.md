@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e3b1b939af180abf"
+sourceContentHash: "c6ef01d3bb216ad1"
 
 status: "published"
 aiAssisted: true
@@ -123,7 +123,7 @@ framework: profile
 
 PNBはあなたの口座を開設したり、あなたのRM10を受け取ったりはしない。それはASNBの仕事である。
 
-PNBは投資マネージャーである：各ファンドの資金をどこに投資するか——Bursa Malaysia上場株式、非上場保有株式、債券、マネーマーケット商品——を決定し、またASNBを完全に所有する持株会社でもある。ASNBはユニット・トラスト運用会社である：あらゆる目論見書とProduct Highlights Sheetに「Manager」として記載される主体であり、ユニットを発行し、買戻しを処理し、マレーシア人が実際に取引を行う全国32の支店と2,700を超える代理店（Maybank、CIMB、RHB、BSN、Pos Malaysiaなど）を運営している。
+PNBは投資マネージャーである：各ファンドの資金をどこに投資するか——Bursa Malaysia上場株式、非上場保有株式、債券、マネーマーケット商品——を決定し、またASNBを完全に所有する持株会社でもある。ASNBはユニット・トラスト運用会社である：あらゆる目論見書とProduct Highlights Sheetに「Manager」として記載される主体であり、ユニットを発行し、買戻しを処理し、マレーシア人が実際に取引を行う全国32の支店と2,700を超える代理店（[Maybank](/ja/companies/maybank)、CIMB、RHB、BSN、Pos Malaysiaなど）を運営している。
 
 この分業には実務上重要な理由が一つある：苦情、口座に関する問い合わせ、取引はPNBではなくASNBに向けられる。PNB自身の役割はより上流にある——投資戦略と資金配分——であり、主にASNBがPNBに代わって宣言する年次収益分配を通じて可視化される。
 

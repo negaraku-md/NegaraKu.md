@@ -31,7 +31,7 @@ faq:
 
 
 lang: "ko"
-sourceContentHash: "e3b1b939af180abf"
+sourceContentHash: "c6ef01d3bb216ad1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -130,7 +130,7 @@ PNB는 투자 운용사입니다. 각 펀드의 돈이 어디에 투자되는지
 비상장 보유분, 채권, 단기 금융 상품 — 를 결정하며, ASNB를 완전히 소유하는 지주회사입니다.
 ASNB는 단위신탁 운용 회사입니다. 모든 투자설명서와 상품 요약서에 「운용사(Manager)」로
 명시되는 기관으로, 단위를 발행하고, 환매를 처리하며, 말레이시아인이 실제로 거래하는 전국
-32개 지점과 2,700명 이상의 대리인(메이뱅크, CIMB, RHB, BSN, 포스 말레이시아 등)을
+32개 지점과 2,700명 이상의 대리인([메이뱅크](/ko/companies/maybank), CIMB, RHB, BSN, 포스 말레이시아 등)을
 운영합니다.
 
 이 분업은 한 가지 실용적 이유에서 중요합니다. 불만, 계좌 문의, 거래는 PNB가 아니라 ASNB로

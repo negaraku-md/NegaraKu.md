@@ -36,7 +36,7 @@ faq:
     a: "Không. Vào ngày 7 tháng 3 năm 2026, CelcomDigi và Maxis mỗi bên hoàn tất việc mua cổ phần của Bộ Tài chính trong DNB với giá RM327,872,640.28, đánh dấu việc chính phủ rút khỏi hoạt động bán buôn 5G và biến DNB thành một thực thể hoàn toàn tư nhân do các nhà mạng và YTL sở hữu."
 
 lang: "vi"
-sourceContentHash: "c56c91a9d7764362"
+sourceContentHash: "953b610723ae239f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -173,7 +173,7 @@ Sự chuyển tiếp sang mô hình mạng kép diễn ra nhanh chóng trong su�
 - **1 tháng 11 năm 2024** — MCMC nêu tên **U Mobile** là nhà cung cấp mạng 5G thứ hai.
 - **31 tháng 12 năm 2024** — Chỉ thị Bộ trưởng số 4 năm 2024 thu hồi chỉ thị về mạng bán buôn duy nhất năm 2021, chấm dứt sự độc quyền của DNB và ghi nhận mô hình mạng kép.
 
-Bốn nhà khai thác dự thầu: CelcomDigi, Maxis, U Mobile và Telekom Malaysia. MCMC cho biết họ chọn U Mobile sau các cuộc cân nhắc chi tiết về giá trị kỹ thuật và thương mại của từng kế hoạch. Việc thắng thầu đi kèm một điều kiện cứng: bởi vì bốn nhà mạng cùng nắm giữ cổ phần trong DNB, U Mobile phải **thoái vốn cổ phần trong DNB** và rời khỏi mạng đó để tập trung vào việc xây mạng của riêng mình.
+Bốn nhà khai thác dự thầu: CelcomDigi, Maxis, U Mobile và [Telekom Malaysia](/vi/companies/telekom-malaysia). MCMC cho biết họ chọn U Mobile sau các cuộc cân nhắc chi tiết về giá trị kỹ thuật và thương mại của từng kế hoạch. Việc thắng thầu đi kèm một điều kiện cứng: bởi vì bốn nhà mạng cùng nắm giữ cổ phần trong DNB, U Mobile phải **thoái vốn cổ phần trong DNB** và rời khỏi mạng đó để tập trung vào việc xây mạng của riêng mình.
 
 U Mobile ra mắt mạng thứ hai của mình, mang thương hiệu ULTRA5G, vào ngày **18 tháng 8 năm 2025**, đi vào hoạt động đầu tiên tại Berjaya Times Square (được quảng bá là trung tâm mua sắm được trang bị 5G hoàn toàn đầu tiên của đất nước). Nó được xây dựng như một mạng 5G độc lập (SA) với phân lớp mạng, sử dụng Huawei và ZTE làm đối tác công nghệ, và U Mobile đặt mục tiêu phủ sóng 80% dân số vào nửa cuối năm 2026.
 

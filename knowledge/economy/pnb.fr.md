@@ -32,7 +32,7 @@ faq:
 
 
 lang: "fr"
-sourceContentHash: "e3b1b939af180abf"
+sourceContentHash: "c6ef01d3bb216ad1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -134,7 +134,7 @@ instruments du marché monétaire — et elle est la société holding qui poss�
 en totalité. L'ASNB est la société de gestion de fonds communs : c'est l'entité désignée
 comme « Gestionnaire » (Manager) sur chaque prospectus et fiche de présentation du produit, celle qui
 émet les parts, traite les rachats et exploite les 32 agences et plus
-de 2,700 agents à l'échelle nationale (Maybank, CIMB, RHB, BSN, Pos Malaysia et
+de 2,700 agents à l'échelle nationale ([Maybank](/fr/companies/maybank), CIMB, RHB, BSN, Pos Malaysia et
 d'autres) où les Malaisiens effectuent réellement leurs opérations.
 
 Cette séparation importe pour une raison pratique : les réclamations, les demandes relatives aux comptes et les

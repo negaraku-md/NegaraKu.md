@@ -32,7 +32,7 @@ faq:
 
 
 lang: "vi"
-sourceContentHash: "e3b1b939af180abf"
+sourceContentHash: "c6ef01d3bb216ad1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -125,7 +125,7 @@ Mỗi năm vào tháng 12, một con số đơn lẻ — chẳng hạn 5,75 sen 
 
 PNB không mở tài khoản của bạn hay nhận RM10 của bạn. Đó là công việc của ASNB.
 
-PNB là nhà quản lý đầu tư: nó quyết định tiền trong mỗi quỹ được đầu tư vào đâu — cổ phiếu niêm yết trên Bursa Malaysia, các khoản nắm giữ chưa niêm yết, thu nhập cố định, các công cụ thị trường tiền tệ — và nó là công ty mẹ sở hữu ASNB hoàn toàn. ASNB là công ty quản lý quỹ tín thác đơn vị: nó là thực thể được nêu tên là «Nhà quản lý» trên mọi bản cáo bạch và Product Highlights Sheet, đơn vị phát hành các đơn vị, xử lý việc mua lại, và điều hành 32 văn phòng chi nhánh cùng hơn 2.700 đại lý trên toàn quốc (Maybank, CIMB, RHB, BSN, Pos Malaysia và các đơn vị khác) nơi người Malaysia thực sự giao dịch.
+PNB là nhà quản lý đầu tư: nó quyết định tiền trong mỗi quỹ được đầu tư vào đâu — cổ phiếu niêm yết trên Bursa Malaysia, các khoản nắm giữ chưa niêm yết, thu nhập cố định, các công cụ thị trường tiền tệ — và nó là công ty mẹ sở hữu ASNB hoàn toàn. ASNB là công ty quản lý quỹ tín thác đơn vị: nó là thực thể được nêu tên là «Nhà quản lý» trên mọi bản cáo bạch và Product Highlights Sheet, đơn vị phát hành các đơn vị, xử lý việc mua lại, và điều hành 32 văn phòng chi nhánh cùng hơn 2.700 đại lý trên toàn quốc ([Maybank](/vi/companies/maybank), CIMB, RHB, BSN, Pos Malaysia và các đơn vị khác) nơi người Malaysia thực sự giao dịch.
 
 Sự phân chia này quan trọng vì một lý do thực dụng: khiếu nại, truy vấn tài khoản và giao dịch đi đến ASNB, không phải PNB. Chính vai trò của PNB nằm ở thượng nguồn — chiến lược đầu tư và phân bổ vốn — hiển hiện chủ yếu qua khoản phân phối thu nhập hằng năm mà ASNB công bố thay mặt PNB.
 

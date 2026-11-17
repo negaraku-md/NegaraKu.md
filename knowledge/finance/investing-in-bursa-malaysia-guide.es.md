@@ -34,7 +34,7 @@ faq:
     a: "Se aplican tres cargos tanto en la compra como en la venta: la comisión del bróker (fijada por su bróker), una comisión de compensación del 0.03% del valor de la transacción con un tope de RM1,000, y un impuesto de timbre de RM1 por cada RM1,000 (o fracción) de valor, con un tope de RM1,000. El corretaje de las acciones cotizadas en Bursa Malaysia está actualmente exento del impuesto sobre servicios."
 
 lang: "es"
-sourceContentHash: "2aa2d9243406a229"
+sourceContentHash: "17c8242447ac4a60"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,7 +97,7 @@ keywords: ["CDS account", "Bursa Anywhere", "stockbroker Malaysia", "how to buy 
 framework: how-to
 ---
 
-Poseer una porción de Maybank o Tenaga empieza con dos cuentas, no una — y ninguna de ellas es una cuenta bancaria. Antes de poder comprar una sola acción en Bursa Malaysia, necesita un lugar donde *mantener* las acciones y un lugar donde *cursar la orden*. Así es como encajan las dos, y cuánto cuesta realmente cada operación.
+Poseer una porción de [Maybank](/es/companies/maybank) o Tenaga empieza con dos cuentas, no una — y ninguna de ellas es una cuenta bancaria. Antes de poder comprar una sola acción en Bursa Malaysia, necesita un lugar donde *mantener* las acciones y un lugar donde *cursar la orden*. Así es como encajan las dos, y cuánto cuesta realmente cada operación.
 
 ## ¿Qué necesito realmente para empezar?
 

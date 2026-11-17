@@ -26,7 +26,7 @@ verificationNeeded:
   - "BNM's digital on-boarding / e-KYC policy page returned a 403 on automated fetch at time of writing; its existence and title are confirmed directly from bnm.gov.my search results, but granular eligibility detail should be re-checked directly on bnm.gov.my when accessible."
 
 lang: "hi"
-sourceContentHash: "0cc7d7d79dcaf765"
+sourceContentHash: "d020cec4f4cc6614"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -127,7 +127,7 @@ CIMB की प्रकाशित विदेशी आवश्यकता
 अस्वीकार करने का आधार है, भले ही आप वास्तव में मलेशिया में कितना भी समय रहे हों।
 दूसरा, बैंक फिर भी इस सूची से परे दस्तावेज़ माँग सकता है या अतिरिक्त जाँच कर सकता
 है — CIMB का अपना पृष्ठ स्पष्ट है कि «सूचीबद्ध न किए गए अतिरिक्त सहायक दस्तावेज़»
-माँगे जा सकते हैं, और अन्य बैंक (Maybank, Public Bank, Hong Leong, RHB) मोटे तौर पर
+माँगे जा सकते हैं, और अन्य बैंक ([Maybank](/hi/companies/maybank), Public Bank, Hong Leong, RHB) मोटे तौर पर
 समान पर समरूप न होने वाली सूचियाँ प्रकाशित करते हैं, इसलिए सबसे सुरक्षित कदम हमेशा
 यह है कि शाखा जाने से पहले विशिष्ट बैंक का वर्तमान पृष्ठ जाँच लें।
 

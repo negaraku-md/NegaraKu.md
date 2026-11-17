@@ -90,7 +90,7 @@ The group's reach spans Malaysia, Indonesia, Sri Lanka, Bangladesh and Cambodia,
 
 ## History: from TM International to Axiata
 
-Axiata's roots lie inside the former national monopoly. It was incorporated on 12 June 1992 as **TM International Berhad**, the international and mobile arm of [Telekom Malaysia](/malaysia). Over the following years it accumulated cellular stakes across emerging Asian markets, and in 2008 it was listed separately on Bursa Malaysia.
+Axiata's roots lie inside the former national monopoly. It was incorporated on 12 June 1992 as **TM International Berhad**, the international and mobile arm of [Telekom Malaysia](/companies/telekom-malaysia). Over the following years it accumulated cellular stakes across emerging Asian markets, and in 2008 it was listed separately on Bursa Malaysia.
 
 On 2 April 2009 the company rebranded as **Axiata Group Berhad**, signalling an identity independent of its former parent and a strategy centred on regional mobile growth rather than Malaysian fixed-line roots. The name has since become an umbrella brand carried by several of its operators, such as XL Axiata and Dialog Axiata.
 

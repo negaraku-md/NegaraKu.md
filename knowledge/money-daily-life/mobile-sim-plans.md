@@ -99,7 +99,7 @@ who's only just arrived.
 | U Mobile | Unlimited Funz Prepaid | Malaysia's third national network operator |
 
 Two smaller players — **Yes** (YTL Communications) and **Unifi Mobile**
-(Telekom Malaysia) — run their own 4G/LTE networks alongside the three above,
+([Telekom Malaysia](/companies/telekom-malaysia)) — run their own 4G/LTE networks alongside the three above,
 often bundled with home broadband. Whichever operator you choose, the
 registration requirement below applies identically.
 

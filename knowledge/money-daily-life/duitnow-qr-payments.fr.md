@@ -26,7 +26,7 @@ verificationNeeded:
   - "Les chiffres relatifs aux frais et aux limites de transaction sont tirés directement du site officiel de PayNet au moment de la rédaction ; PayNet indique que les frais réels peuvent varier selon la banque ou le portefeuille électronique"
 
 lang: "fr"
-sourceContentHash: "1b31c1f5d1b3682f"
+sourceContentHash: "df04ec38e7fc7b1e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,7 +78,7 @@ framework: explainer
 ---
 
 Le tenant d'un étal de marché nocturne affiche un unique code QR. Un client qui
-utilise l'application Maybank le scanne. Le client suivant utilise Touch 'n Go
+utilise l'application [Maybank](/fr/companies/maybank) le scanne. Le client suivant utilise Touch 'n Go
 eWallet et scanne le **même** code QR. Les deux paiements arrivent sur le compte
 du commerçant en quelques secondes. Il n'y a pas de code QR distinct pour chaque
 banque ou portefeuille électronique — c'est DuitNow QR qui fonctionne

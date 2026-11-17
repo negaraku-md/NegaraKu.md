@@ -49,7 +49,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b20fb73bf5494f07"
+sourceContentHash: "ea2e8bc121b7ae31"
 
 status: "published"
 aiAssisted: true
@@ -170,7 +170,7 @@ Schedule（自由工业区）。
 ——**Act 438 First Schedule item 10，「Kuala Lumpur International Airport, Sepang」，
 活动栏为「Commercial」**，范围以雪兰莪测量局的 Gazette Plans 1207、1981、3004 与 1376
 为界。它是依 s.3(1)、以与巴西古当、巴生港和丹绒帕拉帕斯相同的机制宣告设立的，而其
-受委任的管理当局是 **Malaysia Airports Holdings Berhad**。在法律上，它没有任何特殊之处。
+受委任的管理当局是 **[Malaysia Airports Holdings Berhad](/zh/companies/malaysia-airports-mahb)**。在法律上，它没有任何特殊之处。
 
 这是这里最值得理解的一件事。**DFTZ 是一个政策品牌与一项便利化计划，叠加在常规的
 自由区机制之上**——而不是一种独立的法律身份。Act 438、Customs Act 1967 或 Sales Tax

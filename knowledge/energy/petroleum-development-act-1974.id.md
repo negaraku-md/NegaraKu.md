@@ -34,7 +34,7 @@ faq:
     a: "Pasal 3 menempatkan Petronas di bawah kendali dan arahan Perdana Menteri, yang arahannya mengikat korporasi itu. Pasal 6 mengharuskan izin Perdana Menteri sebelum siapa pun selain Petronas menjalankan pemrosesan, penyulingan atau pembuatan produk petrokimia, dan Pasal 7 memberi Perdana Menteri kuasa membuat peraturan."
 
 lang: "id"
-sourceContentHash: "bc9ab1d1d905cd8f"
+sourceContentHash: "901557e7ba61a4e5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ Petroleum Development Act 1974 (Act 144) menerima perkenan diraja pada 30 Juli 1
 
 Inti undang-undang ini terletak pada Pasal 2. Pasal ini mengatur bahwa "keseluruhan kepemilikan dalam, serta hak, kuasa, kebebasan dan keistimewaan eksklusif untuk mengeksplorasi, mengeksploitasi, memperoleh dan mendapatkan petroleum baik di darat maupun lepas pantai Malaysia haruslah melekat pada satu Korporasi". Pasal 2(2) menyatakan pengalihan hak itu berlaku ketika satu instrumen dalam bentuk Lampiran ditandatangani, dan Pasal 2(3) menegaskan kepemilikan serta hak itu "tidak dapat dibatalkan (irrevocable) dan berlanjut untuk kepentingan Korporasi itu dan penerusnya". Lampiran pada undang-undang ini merancang instrumen penyerahan yang memberikan hak tersebut kepada Petronas "in perpetuity" (selama-lamanya).
 
-Pasal 3 menamai korporasi itu — meskipun bertentangan dengan aturan biasa Companies Act 1965 tentang nama perusahaan — sebagai Petroliam Nasional Berhad, atau singkatnya Petronas, dan menempatkannya di bawah "kendali dan arahan Perdana Menteri", yang arahannya mengikat korporasi itu. Kerangka ini memusatkan kepemilikan dan pengaturan pada satu entitas federal.
+Pasal 3 menamai korporasi itu — meskipun bertentangan dengan aturan biasa Companies Act 1965 tentang nama perusahaan — sebagai [Petroliam Nasional Berhad](/id/companies/petronas), atau singkatnya Petronas, dan menempatkannya di bawah "kendali dan arahan Perdana Menteri", yang arahannya mengikat korporasi itu. Kerangka ini memusatkan kepemilikan dan pengaturan pada satu entitas federal.
 
 | Pasal | Perihal |
 | --- | --- |

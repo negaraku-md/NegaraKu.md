@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "69ed2a98233b72ad"
+sourceContentHash: "57d271bf1ff95022"
 
 status: "published"
 aiAssisted: true
@@ -117,7 +117,7 @@ framework: explainer
 
 ## NEM 3.0 如何为住宅与企业运作？
 
-NEM 是大众最常见的路径。您在屋顶安装太阳能板，先使用所发的电，再将剩余电量输送至国家能源公司（TNB）的电网。在 NEM 3.0 下，抵扣采用「一对一」方式——每一千瓦时输送至电网的电量，都会抵扣您从电网取用的一千瓦时电量。
+NEM 是大众最常见的路径。您在屋顶安装太阳能板，先使用所发的电，再将剩余电量输送至[国家能源公司](/zh/companies/tenaga-nasional)（TNB）的电网。在 NEM 3.0 下，抵扣采用「一对一」方式——每一千瓦时输送至电网的电量，都会抵扣您从电网取用的一千瓦时电量。
 
 根据 SEDA 的 RE 门户，NEM 3.0 的运行期至 2025 年 6 月 30 日为止，总配额高达 2,500 MW。它分为三个子计划：
 

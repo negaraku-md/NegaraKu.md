@@ -32,7 +32,7 @@ faq:
     a: "Oui. Une société privée peut se transformer en société publique en vertu de la Companies Act 2016 — généralement en adoptant une résolution spéciale des membres, en modifiant son nom pour qu'il se termine par « Berhad » et en déposant les documents requis auprès de la Companies Commission of Malaysia (SSM)."
 
 lang: "fr"
-sourceContentHash: "8327877494bab4c8"
+sourceContentHash: "169a6cb2d99ed6ac"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,7 +89,7 @@ framework: explainer
 
 **Français :** Berhad · **English:** Public Limited Company · **中文:** 大众有限公司
 
-Lorsque vous voyez « Bhd » à la fin du nom d'une société malaisienne — la Malayan Banking Berhad de Maybank, Public Bank Berhad, Tenaga Nasional Berhad — vous regardez une société autorisée à vendre ses actions à des inconnus. Cette seule autorisation est ce qui sépare une Berhad de la Sdn Bhd, bien plus répandue, et c'est la raison pour laquelle une Berhad vit sous un ensemble de règles plus lourd.
+Lorsque vous voyez « Bhd » à la fin du nom d'une société malaisienne — la Malayan Banking Berhad de [Maybank](/fr/companies/maybank), [Public Bank Berhad](/fr/companies/public-bank), [Tenaga Nasional Berhad](/fr/companies/tenaga-nasional) — vous regardez une société autorisée à vendre ses actions à des inconnus. Cette seule autorisation est ce qui sépare une Berhad de la Sdn Bhd, bien plus répandue, et c'est la raison pour laquelle une Berhad vit sous un ensemble de règles plus lourd.
 
 « Berhad » est tout simplement le mot malais pour « limitée ». Il désigne une **société anonyme** régie par la Companies Act 2016 (Act 777), la loi administrée par la Companies Commission of Malaysia (SSM). Comme sa cousine privée, une Berhad est une personne morale distincte qui peut posséder des biens, signer des contrats et agir ou être poursuivie en justice, et la responsabilité de ses membres est limitée à ce qui reste non libéré sur leurs actions.
 

@@ -33,7 +33,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b2828cf36c6fd07d"
+sourceContentHash: "50d792c288399ed7"
 
 status: "published"
 aiAssisted: true
@@ -117,7 +117,7 @@ Chính phủ sau đó dịch chuyển về phía một **mô hình mạng kép**
 
 ## Quy mô và tầm quan trọng
 
-Maxis là một trong số ít nhà mạng mà giữa chúng chuyên chở phần lớn lưu lượng di động và băng rộng cố định của Malaysia. Các đối thủ chính của nó là [Axiata](/vi/companies/axiata) (có mảng di động Malaysia đã sáp nhập với Digi để tạo thành CelcomDigi), U Mobile và Telekom Malaysia. Trong một thị trường nơi mức thâm nhập di động rất cao và tăng trưởng chủ yếu đến từ các gói hội tụ — bán di động, băng rộng gia đình và dịch vụ số cùng nhau — sự tiến vào cáp quang gia đình và doanh nghiệp của Maxis là trung tâm của chiến lược của nó.
+Maxis là một trong số ít nhà mạng mà giữa chúng chuyên chở phần lớn lưu lượng di động và băng rộng cố định của Malaysia. Các đối thủ chính của nó là [Axiata](/vi/companies/axiata) (có mảng di động Malaysia đã sáp nhập với Digi để tạo thành CelcomDigi), U Mobile và [Telekom Malaysia](/vi/companies/telekom-malaysia). Trong một thị trường nơi mức thâm nhập di động rất cao và tăng trưởng chủ yếu đến từ các gói hội tụ — bán di động, băng rộng gia đình và dịch vụ số cùng nhau — sự tiến vào cáp quang gia đình và doanh nghiệp của Maxis là trung tâm của chiến lược của nó.
 
 Là một công ty lớn, trả cổ tức trên Bursa Malaysia, Maxis cũng là một khoản nắm giữ đáng kể đối với các nhà đầu tư tổ chức và quỹ hưu trí Malaysia, điều này mang lại cho kết quả và vị thế quản lý của nó một sức nặng vượt ra ngoài chính ngành viễn thông.
 

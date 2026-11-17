@@ -34,7 +34,7 @@ faq:
     a: "Tidak. Institusi kewangan pembangunan yang ditetapkan dikawal selia di bawah Akta Institusi Kewangan Pembangunan 2002 dan diselia oleh Bank Negara Malaysia, satu rejim yang berasingan daripada APK dan APKI."
 
 lang: "ms"
-sourceContentHash: "a9fc5401e6cabfb3"
+sourceContentHash: "acfcc6c1e869263e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -128,7 +128,7 @@ Perbezaannya adalah tentang keluasan berbanding kedalaman.
 
 **Bank perdagangan** ialah kuda kerja harian. Mereka mengambil deposit, memberi pinjaman kepada isi rumah dan syarikat, mengendalikan meja pembiayaan perdagangan dan perbendaharaan, serta mengoperasikan rangkaian cawangan dan kad yang paling kerap didatangi orang ramai. Ke-24 pemegang lesen merupakan gabungan bank yang diperbadankan di dalam negara dan anak syarikat bank asing yang diperbadankan secara tempatan — yang kedua ini termasuk nama seperti Citibank Berhad, HSBC Bank Malaysia Berhad, Standard Chartered Bank Malaysia Berhad, Deutsche Bank (Malaysia) Berhad, MUFG Bank (Malaysia) Berhad dan Bank of China (Malaysia) Berhad.
 
-**Bank pelaburan** lebih sempit dan lebih khusus. Ke-10 pemegang lesen — termasuk Maybank Investment Bank, CIMB Investment Bank, AmInvestment Bank, Affin Hwang Investment Bank dan MBSB Investment Bank — menumpukan kepada khidmat nasihat korporat, mengumpul dana hutang dan ekuiti dalam pasaran modal, serta kewangan berstruktur. Mereka tidak mengejar deposit runcit seperti yang dilakukan oleh bank perdagangan.
+**Bank pelaburan** lebih sempit dan lebih khusus. Ke-10 pemegang lesen — termasuk [Maybank](/ms/companies/maybank) Investment Bank, CIMB Investment Bank, AmInvestment Bank, Affin Hwang Investment Bank dan MBSB Investment Bank — menumpukan kepada khidmat nasihat korporat, mengumpul dana hutang dan ekuiti dalam pasaran modal, serta kewangan berstruktur. Mereka tidak mengejar deposit runcit seperti yang dilakukan oleh bank perdagangan.
 
 Kedua-dua kategori dilesenkan di bawah statut yang sama, iaitu APK 2013. Kebanyakannya, di kedua-dua belah pihak, turut mengendalikan **tetingkap perbankan Islam** — bahagian yang diluluskan yang menawarkan produk patuh Syariah bersama-sama perniagaan konvensional.
 

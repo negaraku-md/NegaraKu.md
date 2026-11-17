@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e3b1b939af180abf"
+sourceContentHash: "c6ef01d3bb216ad1"
 
 status: "published"
 aiAssisted: true
@@ -124,7 +124,7 @@ framework: profile
 
 PNB不会为你开户，也不会收取你的RM10。那是ASNB的工作。
 
-PNB是投资经理：它决定每个基金的资金投向哪里——Bursa Malaysia上市股票、非上市持股、固定收益、货币市场工具——它也是全资拥有ASNB的控股公司。ASNB则是单位信托管理公司：它是每份招股书与 Product Highlights Sheet 上列明的「经理（Manager）」，负责发行单位、处理回购，并在全国经营32间分行及超过2,700个代理点（Maybank、CIMB、RHB、BSN、Pos Malaysia等），马来西亚人实际上就是在这些地方办理交易的。
+PNB是投资经理：它决定每个基金的资金投向哪里——Bursa Malaysia上市股票、非上市持股、固定收益、货币市场工具——它也是全资拥有ASNB的控股公司。ASNB则是单位信托管理公司：它是每份招股书与 Product Highlights Sheet 上列明的「经理（Manager）」，负责发行单位、处理回购，并在全国经营32间分行及超过2,700个代理点（[Maybank](/zh/companies/maybank)、CIMB、RHB、BSN、Pos Malaysia等），马来西亚人实际上就是在这些地方办理交易的。
 
 这种分工在实务上很重要：投诉、账户查询与交易事项都应找ASNB，而非PNB。PNB本身的角色在更上游——投资策略与资金配置——主要体现在ASNB每年代表PNB宣布的收益分配上。
 

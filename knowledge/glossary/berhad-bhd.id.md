@@ -32,7 +32,7 @@ faq:
     a: "Ya. Sebuah perusahaan privat boleh dikonversi menjadi perusahaan publik di bawah Akta Syarikat 2016 — lazimnya dengan mengesahkan resolusi khusus anggota, mengubah namanya agar berakhir dengan 'Berhad', dan mengajukan dokumen yang diperlukan ke Suruhanjaya Syarikat Malaysia (SSM)."
 
 lang: "id"
-sourceContentHash: "8327877494bab4c8"
+sourceContentHash: "169a6cb2d99ed6ac"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,7 +89,7 @@ framework: explainer
 
 **Bahasa Indonesia:** Berhad · **English:** Public Limited Company · **中文:** 大众有限公司
 
-Ketika Anda melihat "Bhd" di ujung nama sebuah perusahaan Malaysia — Malayan Banking Berhad milik Maybank, Public Bank Berhad, Tenaga Nasional Berhad — Anda sedang melihat sebuah perusahaan yang diperbolehkan menjual sahamnya kepada orang yang tidak dikenal. Izin tunggal itulah yang memisahkan sebuah Berhad dari Sdn Bhd yang jauh lebih lazim, dan itulah sebabnya sebuah Berhad hidup di bawah seperangkat aturan yang lebih berat.
+Ketika Anda melihat "Bhd" di ujung nama sebuah perusahaan Malaysia — Malayan Banking Berhad milik [Maybank](/id/companies/maybank), [Public Bank Berhad](/id/companies/public-bank), [Tenaga Nasional Berhad](/id/companies/tenaga-nasional) — Anda sedang melihat sebuah perusahaan yang diperbolehkan menjual sahamnya kepada orang yang tidak dikenal. Izin tunggal itulah yang memisahkan sebuah Berhad dari Sdn Bhd yang jauh lebih lazim, dan itulah sebabnya sebuah Berhad hidup di bawah seperangkat aturan yang lebih berat.
 
 "Berhad" hanyalah kata Melayu untuk "limited". Ia menandakan sebuah **perusahaan publik terbatas** di bawah Akta Syarikat 2016 (Akta 777), statuta yang ditadbir oleh Suruhanjaya Syarikat Malaysia (SSM). Seperti sepupu privatnya, sebuah Berhad adalah entitas hukum terpisah yang bisa memiliki harta, menandatangani kontrak, serta menggugat atau digugat, dan liabilitas anggotanya terbatas pada jumlah yang masih belum dibayar atas saham mereka.
 

@@ -47,7 +47,7 @@ verificationNeeded:
   - "2020년 이후의 DFTZ 처리량 또는 교역액 통계. 공식 출처로는 존재하지 않으며, 2025년 2월 25일 MAHB의 상장폐지 이후로는 확보할 수 없습니다 — 이는 단지 찾지 못한 것이 아니라 구조적으로 확보 불가능한 것입니다."
 
 lang: "ko"
-sourceContentHash: "b20fb73bf5494f07"
+sourceContentHash: "ea2e8bc121b7ae31"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -183,7 +183,7 @@ Special Financial Zone)**는 대략 열한 건의 전용 2025년 법령을 가�
 활동 열은 "Commercial"** — 로서, 슬랑오르(Selangor) 측량국의 관보 도면(Gazette Plans) 1207,
 1981, 3004, 1376으로 경계가 정해져 있습니다. 그것은 파시르 구당(Pasir Gudang), 포트
 클랑(Port Klang), 탄중 펠레파스(Tanjung Pelepas)와 동일한 기제에 의해 제3조 제1항에 따라
-선언되었으며, 그 지정 관리기관은 **Malaysia Airports Holdings Berhad**입니다. 법적으로
+선언되었으며, 그 지정 관리기관은 **[Malaysia Airports Holdings Berhad](/ko/companies/malaysia-airports-mahb)**입니다. 법적으로
 그것을 구별짓는 것은 아무것도 없습니다.
 
 그것이 여기서 이해해야 할 가장 유용한 단 하나의 사실입니다. **DFTZ는 통상적인 자유지대

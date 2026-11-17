@@ -33,7 +33,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "beccce94b3261d31"
+sourceContentHash: "b02d2bf50fe3eddc"
 
 status: "published"
 aiAssisted: true
@@ -91,7 +91,7 @@ Tầm với của tập đoàn trải rộng Malaysia, Indonesia, Sri Lanka, Ban
 
 ## Lịch sử: từ TM International đến Axiata
 
-Gốc rễ của Axiata nằm bên trong độc quyền quốc gia trước đây. Nó được thành lập vào ngày 12 tháng 6 năm 1992 với tên **TM International Berhad**, chi nhánh quốc tế và di động của [Telekom Malaysia](/vi/malaysia). Trong những năm tiếp theo, nó tích lũy cổ phần di động trên khắp các thị trường châu Á mới nổi, và vào năm 2008 nó được niêm yết riêng trên Bursa Malaysia.
+Gốc rễ của Axiata nằm bên trong độc quyền quốc gia trước đây. Nó được thành lập vào ngày 12 tháng 6 năm 1992 với tên **TM International Berhad**, chi nhánh quốc tế và di động của [Telekom Malaysia](/vi/companies/telekom-malaysia). Trong những năm tiếp theo, nó tích lũy cổ phần di động trên khắp các thị trường châu Á mới nổi, và vào năm 2008 nó được niêm yết riêng trên Bursa Malaysia.
 
 Vào ngày 2 tháng 4 năm 2009, công ty đổi thương hiệu thành **Axiata Group Berhad**, báo hiệu một bản sắc độc lập với công ty mẹ trước đây của nó và một chiến lược tập trung vào tăng trưởng di động khu vực thay vì gốc rễ điện thoại cố định Malaysia. Kể từ đó, tên gọi này đã trở thành một thương hiệu bao trùm được một số nhà mạng của nó mang theo, như XL Axiata và Dialog Axiata.
 

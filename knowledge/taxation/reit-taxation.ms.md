@@ -31,7 +31,7 @@ faq:
     a: "Pada amnya tidak. Apabila dana itu dikecualikan di bawah seksyen 61A, pendapatan tersebut belum dicukai, jadi agihan itu tidak membawa kredit cukai seksyen 110 yang boleh ditolak oleh pemegang unit. Kredit hanya timbul apabila dana itu sendiri telah dicukai (contohnya, apabila ia mengagihkan kurang daripada 90%)."
 
 lang: "ms"
-sourceContentHash: "74ef95198966c611"
+sourceContentHash: "b78af90aa1ceb41e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -141,7 +141,7 @@ Ia bergantung sepenuhnya pada kadar marginal anda.
 - **Individu bukan pemastautin dan pelabur institusi asing** adalah yang paling jelas rugi: kadar rata 10% digantikan dengan kadar setinggi 30%, yang mengurangkan pulangan selepas cukai yang menjadikan REIT Malaysia menarik kepada wang luar negara.
 - **Syarikat bukan pemastautin** tidak melihat sebarang perubahan langsung — masih 24%, masih muktamad.
 
-Alasan yang diberikan untuk menamatkan konsesi ini ialah sektor REIT Malaysia telah matang menjadi kelas aset yang diterima secara meluas yang tidak lagi memerlukan sokongan cukai keutamaan untuk menarik modal, dengan perubahan itu juga meluaskan asas cukai dengan menyelaraskan agihan REIT dengan peraturan cukai pendapatan standard. Penyelidikan pihak jualan secara amnya bersetuju bahawa perubahan itu lebih menjejaskan sentimen berbanding asas: Maybank Investment Bank menganggarkan pulangan agihan bersih masih akan mencapai purata kira-kira 4.7% hingga 6% dan kekal berdaya saing berbanding sektor lain, dan syarikat lain — termasuk BIMB Securities dan RHB Research — mengekalkan panggilan konstruktif terhadap ruang ini.
+Alasan yang diberikan untuk menamatkan konsesi ini ialah sektor REIT Malaysia telah matang menjadi kelas aset yang diterima secara meluas yang tidak lagi memerlukan sokongan cukai keutamaan untuk menarik modal, dengan perubahan itu juga meluaskan asas cukai dengan menyelaraskan agihan REIT dengan peraturan cukai pendapatan standard. Penyelidikan pihak jualan secara amnya bersetuju bahawa perubahan itu lebih menjejaskan sentimen berbanding asas: [Maybank](/ms/companies/maybank) Investment Bank menganggarkan pulangan agihan bersih masih akan mencapai purata kira-kira 4.7% hingga 6% dan kekal berdaya saing berbanding sektor lain, dan syarikat lain — termasuk BIMB Securities dan RHB Research — mengekalkan panggilan konstruktif terhadap ruang ini.
 
 ## Apa yang seterusnya
 

@@ -47,7 +47,7 @@ verificationNeeded:
   - "Any DFTZ throughput or trade-value statistic after 2020. None exists from an official source, and after MAHB's delisting on 25 February 2025 none can be obtained — this is structurally unobtainable, not merely unfound."
 
 lang: "es"
-sourceContentHash: "b20fb73bf5494f07"
+sourceContentHash: "ea2e8bc121b7ae31"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -176,8 +176,7 @@ libre ordinaria en el Aeropuerto Internacional de Kuala Lumpur** — **partida 1
 de la Act 438, «Kuala Lumpur International Airport, Sepang», columna de actividades
 «Commercial»**, delimitada por los Planos de la Gaceta 1207, 1981, 3004 y 1376 del Departamento
 de Topografía de Selangor. Fue declarada conforme al art. 3(1) por el mismo mecanismo que Pasir
-Gudang, Port Klang y Tanjung Pelepas, y su Autoridad designada es **Malaysia Airports Holdings
-Berhad**. Nada la distingue en derecho.
+Gudang, Port Klang y Tanjung Pelepas, y su Autoridad designada es **[Malaysia Airports Holdings Berhad](/es/companies/malaysia-airports-mahb)**. Nada la distingue en derecho.
 
 Eso es lo más útil que hay que entender aquí. **La DFTZ fue una marca de política y un programa
 de facilitación, superpuestos a la maquinaria convencional de zonas libres** — no un estatus

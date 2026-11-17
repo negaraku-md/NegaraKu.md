@@ -34,7 +34,7 @@ faq:
     a: "No. Las instituciones financieras de desarrollo prescritas se regulan bajo la Ley de Instituciones Financieras de Desarrollo de 2002 y son supervisadas por Bank Negara Malaysia, un régimen distinto del de la FSA y la IFSA."
 
 lang: "es"
-sourceContentHash: "a9fc5401e6cabfb3"
+sourceContentHash: "acfcc6c1e869263e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -128,7 +128,7 @@ La división tiene que ver con la amplitud frente a la profundidad.
 
 **Los bancos comerciales** son los caballos de batalla del día a día. Toman depósitos, prestan a hogares y empresas, operan mesas de financiación comercial y tesorería, y manejan las redes de sucursales y tarjetas con las que interactúa la mayoría de la gente. Los 24 licenciatarios son una mezcla de bancos de constitución nacional y filiales de constitución local de bancos extranjeros — estas últimas incluyen nombres como Citibank Berhad, HSBC Bank Malaysia Berhad, Standard Chartered Bank Malaysia Berhad, Deutsche Bank (Malaysia) Berhad, MUFG Bank (Malaysia) Berhad y Bank of China (Malaysia) Berhad.
 
-**Los bancos de inversión** son más estrechos y especializados. Los 10 licenciatarios — entre ellos Maybank Investment Bank, CIMB Investment Bank, AmInvestment Bank, Affin Hwang Investment Bank y MBSB Investment Bank — se concentran en el asesoramiento corporativo, la obtención de deuda y capital propio en los mercados de capital, y la financiación estructurada. No persiguen los depósitos minoristas como lo hacen los bancos comerciales.
+**Los bancos de inversión** son más estrechos y especializados. Los 10 licenciatarios — entre ellos [Maybank](/es/companies/maybank) Investment Bank, CIMB Investment Bank, AmInvestment Bank, Affin Hwang Investment Bank y MBSB Investment Bank — se concentran en el asesoramiento corporativo, la obtención de deuda y capital propio en los mercados de capital, y la financiación estructurada. No persiguen los depósitos minoristas como lo hacen los bancos comerciales.
 
 Ambas categorías se licencian bajo la misma ley, la FSA 2013. Muchos de ellos, en uno u otro lado, también operan **ventanillas de banca islámica** — brazos aprobados que ofrecen productos conformes a la Sharía junto con el negocio convencional.
 

@@ -34,7 +34,7 @@ faq:
     a: "不受。列明的发展金融机构受《2002年发展金融机构法令》（Development Financial Institutions Act 2002）监管，并由马来西亚国家银行监督，属于独立于金融服务法令与伊斯兰金融服务法令之外的制度。"
 
 lang: "zh"
-sourceContentHash: "a9fc5401e6cabfb3"
+sourceContentHash: "acfcc6c1e869263e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -128,7 +128,7 @@ framework: profile
 
 **商业银行**是日常的主力军。它们吸收存款、向家庭与企业放贷、经营贸易融资与资金交易柜台，并运营大多数人日常接触的分行与银行卡网络。24家持牌机构混合了本地注册的银行与外资银行在本地注册的子公司——后者包括 Citibank Berhad、HSBC Bank Malaysia Berhad、Standard Chartered Bank Malaysia Berhad、Deutsche Bank (Malaysia) Berhad、MUFG Bank (Malaysia) Berhad 与 Bank of China (Malaysia) Berhad 等名字。
 
-**投资银行**则更为狭窄、更为专门。10家持牌机构——包括 Maybank Investment Bank、CIMB Investment Bank、AmInvestment Bank、Affin Hwang Investment Bank 与 MBSB Investment Bank——专注于企业咨询、在资本市场募集债务与股权，以及结构性融资。它们不像商业银行那样争夺零售存款。
+**投资银行**则更为狭窄、更为专门。10家持牌机构——包括 [Maybank](/zh/companies/maybank) Investment Bank、CIMB Investment Bank、AmInvestment Bank、Affin Hwang Investment Bank 与 MBSB Investment Bank——专注于企业咨询、在资本市场募集债务与股权，以及结构性融资。它们不像商业银行那样争夺零售存款。
 
 两个类别都依据同一部法规——《2013年金融服务法令》——获发牌照。其中许多机构，无论属于哪一侧，也都设有**伊斯兰银行业务窗口**——即在传统业务之外提供符合伊斯兰教法产品的经批准部门。
 

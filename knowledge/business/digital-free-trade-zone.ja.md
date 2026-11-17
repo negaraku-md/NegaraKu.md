@@ -49,7 +49,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b20fb73bf5494f07"
+sourceContentHash: "ea2e8bc121b7ae31"
 
 status: "published"
 aiAssisted: true
@@ -154,7 +154,7 @@ framework: profile
 
 一つの対照例が、この否定的な発見を具体的にする。**Forest City Special Financial Zone** には、2025 年の専用文書がおよそ 11 件ある——P.U.(A) 350–360/2025 で、所得税、印紙税、RPGT を対象とする。官報告示された地区のパッケージが登記簿上どのようなものかは、それが示している。**DFTZ には何もない——宣告文書もなく、自らに固有の税務・関税上の優遇措置もない。**
 
-*実際に*存在し、人々が念頭に置いている物理的な実体は、**Kuala Lumpur International Airport にある通常の自由商業地域**である——**Act 438 First Schedule item 10、「Kuala Lumpur International Airport, Sepang」、活動欄は「Commercial」**であり、セランゴール州測量局（Selangor Survey Department）の官報図面（Gazette Plans）1207、1981、3004、1376 号を境界とする。それは Pasir Gudang、Port Klang、Tanjung Pelepas と同じ仕組みにより s.3(1) に基づいて宣告され、その指定管理当局は **Malaysia Airports Holdings Berhad** である。法律上、それを他と区別するものは何もない。
+*実際に*存在し、人々が念頭に置いている物理的な実体は、**Kuala Lumpur International Airport にある通常の自由商業地域**である——**Act 438 First Schedule item 10、「Kuala Lumpur International Airport, Sepang」、活動欄は「Commercial」**であり、セランゴール州測量局（Selangor Survey Department）の官報図面（Gazette Plans）1207、1981、3004、1376 号を境界とする。それは Pasir Gudang、Port Klang、Tanjung Pelepas と同じ仕組みにより s.3(1) に基づいて宣告され、その指定管理当局は **[Malaysia Airports Holdings Berhad](/ja/companies/malaysia-airports-mahb)** である。法律上、それを他と区別するものは何もない。
 
 それが、ここで理解すべき最も有用な一点である。**DFTZ は、従来型の自由地域の仕組みの上に重ねられた政策ブランドであり、円滑化プログラムであった**——独立した法的地位ではない。Act 438、Customs Act 1967、あるいは Sales Tax Act 2018 のいずれにおいても、ある貨物が DFTZ 貨物であるか否かによって左右されるものは何もない。KLIA の自由商業地域を通過する荷物の関税上の扱いは、通常の自由商業地域の扱いそのものであり、DFTZ というブランドが生み出されていなかったとしても同一であったはずである。
 

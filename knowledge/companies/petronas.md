@@ -144,7 +144,7 @@ Petronas ialah sebuah kumpulan bersepadu yang meliputi keseluruhan rantaian nila
 
 | Anak syarikat | Bidang teras |
 | --- | --- |
-| PETRONAS Chemicals Group (PCG) | Pengeluar kimia bersepadu — olefin, polimer, baja, metanol, kimia khusus |
+| [PETRONAS Chemicals Group](/companies/petronas-chemicals) (PCG) | Pengeluar kimia bersepadu — olefin, polimer, baja, metanol, kimia khusus |
 | PETRONAS Gas Berhad (PGB) | Memiliki dan mengendali rangkaian pemprosesan, penghantaran dan penyahgasan gas |
 | PETRONAS Dagangan Berhad (PDB) | Runcit dan pemasaran produk petroleum hiliran (stesen minyak, produk) |
 | [MISC Berhad](/companies/misc-berhad) | Logistik dan maritim — pengangkutan LNG, kapal tangki, perkhidmatan teknikal |

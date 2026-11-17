@@ -33,7 +33,7 @@ faq:
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b2828cf36c6fd07d"
+sourceContentHash: "50d792c288399ed7"
 
 status: "published"
 aiAssisted: true
@@ -117,7 +117,7 @@ El Gobierno avanzó después hacia un **modelo de red dual**, bajo el cual se co
 
 ## Escala e importancia
 
-Maxis es uno de un pequeño número de operadores que, entre todos, transportan la mayor parte del tráfico móvil y de banda ancha fija de Malasia. Sus principales rivales son [Axiata](/es/companies/axiata) (cuyo negocio móvil malasio se fusionó con Digi para formar CelcomDigi), U Mobile y Telekom Malaysia. En un mercado donde la penetración móvil es muy alta y el crecimiento proviene sobre todo de los paquetes convergentes — vender móvil, banda ancha para el hogar y servicios digitales juntos — el impulso de Maxis hacia la fibra para el hogar y lo empresarial es central en su estrategia.
+Maxis es uno de un pequeño número de operadores que, entre todos, transportan la mayor parte del tráfico móvil y de banda ancha fija de Malasia. Sus principales rivales son [Axiata](/es/companies/axiata) (cuyo negocio móvil malasio se fusionó con Digi para formar CelcomDigi), U Mobile y [Telekom Malaysia](/es/companies/telekom-malaysia). En un mercado donde la penetración móvil es muy alta y el crecimiento proviene sobre todo de los paquetes convergentes — vender móvil, banda ancha para el hogar y servicios digitales juntos — el impulso de Maxis hacia la fibra para el hogar y lo empresarial es central en su estrategia.
 
 Como gran empresa que reparte dividendos en Bursa Malaysia, Maxis es también una posición significativa para los inversores institucionales y los fondos de pensiones malasios, lo que confiere a sus resultados y a su posición regulatoria un peso que trasciende el propio sector de las telecomunicaciones.
 

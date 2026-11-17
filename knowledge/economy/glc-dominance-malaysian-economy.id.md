@@ -32,7 +32,7 @@ faq:
     a: "Ya. Inisiatif PERKUKUH yang diluncurkan pada 2021 menggariskan 20 inisiatif yang bertujuan, antara lain, memberikan setiap GLIC mandat yang lebih jelas, meningkatkan partisipasi sektor swasta ('crowding in'), dan menyelaraskan peran pemerintah dalam bisnis, sambil mengarahkan lebih banyak investasi ke arah bidang katalis dan pembangunan."
 
 lang: "id"
-sourceContentHash: "72a029d7e3ea589d"
+sourceContentHash: "e364599cb19e8b25"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -127,9 +127,9 @@ Pemusatan dalam ekuitas tercatat ini sebenarnya telah *menurun* dalam kurun dua 
 
 Tidak merata. Kepemilikan GLIC mengelompok di bagian ekonomi yang padat modal, diatur ketat, atau sensitif secara strategis — sektor yang paling enggan diserahkan pemerintah sepenuhnya ke tangan swasta.
 
-- **Perbankan dan keuangan** — Maybank (bank terbesar negara, dikendalikan melalui PNB), CIMB Group, dan RHB Bank semuanya bertumpu pada GLIC. Tinjauan selama satu dekade mendapati GLIC memegang sekurang-kurangnya 30% kepentingan ekuitas dalam 46 perusahaan tercatat, dengan bank-bank besar termasuk yang paling stabil kinerjanya.
+- **Perbankan dan keuangan** — [Maybank](/id/companies/maybank) (bank terbesar negara, dikendalikan melalui PNB), [CIMB Group](/id/companies/cimb), dan RHB Bank semuanya bertumpu pada GLIC. Tinjauan selama satu dekade mendapati GLIC memegang sekurang-kurangnya 30% kepentingan ekuitas dalam 46 perusahaan tercatat, dengan bank-bank besar termasuk yang paling stabil kinerjanya.
 - **Utilitas dan energi** — Tenaga Nasional mengoperasikan jaringan listrik negara; Gas Malaysia dan unit tercatat terkait Petronas mencakup gas dan petrokimia. Utilitas mendekati monopoli alami, jadi kepemilikan GLIC di sini paling mendalam.
-- **Telekomunikasi** — Telekom Malaysia (perusahaan mapan telepon tetap dan jalur lebar) dan pemain pusat data TIME dotCom berdampingan dengan kepentingan GLIC dalam operator seluler.
+- **Telekomunikasi** — [Telekom Malaysia](/id/companies/telekom-malaysia) (perusahaan mapan telepon tetap dan jalur lebar) dan pemain pusat data TIME dotCom berdampingan dengan kepentingan GLIC dalam operator seluler.
 - **Perkebunan** — [Sime Darby](/id/companies/sime-darby-group) dan Boustead Plantations menempatkan negara di tengah-tengah ekonomi minyak sawit Malaysia.
 
 Pola umumnya konsisten: cengkeraman negara paling ketat di infrastruktur dan keuangan, lebih longgar di sektor yang menghadap konsumen dan manufaktur ekspor di mana firma swasta dan asing memimpin.

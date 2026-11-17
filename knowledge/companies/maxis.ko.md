@@ -31,7 +31,7 @@ faq:
     a: "Maxis는 2023년에 체결한, 정부 연계 도매 5G 망 사업자 Digital Nasional Berhad(DNB)와의 접속 계약을 통해 고객에게 5G를 제공합니다. 2024년 11월 규제당국은 이 나라에서 계획된 두 번째 5G 망을 구축할 사업자로 Maxis가 아닌 U Mobile을 선정했습니다."
 
 lang: "ko"
-sourceContentHash: "b2828cf36c6fd07d"
+sourceContentHash: "50d792c288399ed7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -117,7 +117,7 @@ Maxis는 1990년대로 거슬러 올라가는데, 당시 말레이시아 사업�
 
 ## 규모와 중요성
 
-Maxis는 말레이시아의 모바일·고정 브로드밴드 트래픽 대부분을 함께 실어 나르는 소수의 사업자 가운데 하나입니다. 주요 경쟁자는 [Axiata](/ko/companies/axiata)(그 말레이시아 모바일 사업이 Digi와 합병하여 CelcomDigi를 이룸), U Mobile, Telekom Malaysia입니다. 모바일 보급률이 매우 높고 성장이 주로 융합 번들 — 모바일, 가정용 브로드밴드, 디지털 서비스를 함께 판매 — 에서 나오는 시장에서, 가정용 광통신과 기업으로의 Maxis의 진출은 그 전략의 핵심입니다.
+Maxis는 말레이시아의 모바일·고정 브로드밴드 트래픽 대부분을 함께 실어 나르는 소수의 사업자 가운데 하나입니다. 주요 경쟁자는 [Axiata](/ko/companies/axiata)(그 말레이시아 모바일 사업이 Digi와 합병하여 CelcomDigi를 이룸), U Mobile, [Telekom Malaysia](/ko/companies/telekom-malaysia)입니다. 모바일 보급률이 매우 높고 성장이 주로 융합 번들 — 모바일, 가정용 브로드밴드, 디지털 서비스를 함께 판매 — 에서 나오는 시장에서, 가정용 광통신과 기업으로의 Maxis의 진출은 그 전략의 핵심입니다.
 
 Bursa Malaysia의 배당을 지급하는 대형 기업으로서, Maxis는 또한 말레이시아 기관 투자자와 연기금의 중요한 보유 종목이며, 이로써 그 실적과 규제 지위는 통신 부문 자체를 넘어서는 무게를 지닙니다.
 

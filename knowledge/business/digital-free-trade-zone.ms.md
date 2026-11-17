@@ -49,7 +49,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b20fb73bf5494f07"
+sourceContentHash: "ea2e8bc121b7ae31"
 
 status: "published"
 aiAssisted: true
@@ -177,8 +177,7 @@ sebuah **zon perdagangan bebas biasa di Lapangan Terbang Antarabangsa Kuala Lump
 First Schedule Akta 438, "Kuala Lumpur International Airport, Sepang", lajur aktiviti
 "Commercial"** — yang disempadani oleh Pelan Warta 1207, 1981, 3004 dan 1376 Jabatan Ukur
 Selangor. Ia diisytiharkan di bawah s.3(1) melalui mekanisme yang sama seperti Pasir Gudang,
-Port Klang dan Tanjung Pelepas, dan Pihak Berkuasa yang dilantik untuknya ialah **Malaysia
-Airports Holdings Berhad**. Tiada apa-apa yang membezakannya dari segi undang-undang.
+Port Klang dan Tanjung Pelepas, dan Pihak Berkuasa yang dilantik untuknya ialah **[Malaysia Airports Holdings Berhad](/ms/companies/malaysia-airports-mahb)**. Tiada apa-apa yang membezakannya dari segi undang-undang.
 
 Itulah satu-satunya perkara paling penting untuk difahami di sini. **DFTZ adalah jenama dasar
 dan program fasilitasi, yang dilapiskan ke atas jentera zon bebas konvensional** — bukan status

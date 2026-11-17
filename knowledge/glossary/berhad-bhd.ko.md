@@ -32,7 +32,7 @@ faq:
     a: "예. 비공개 회사는 회사법(Companies Act 2016)에 따라 공개 회사로 전환할 수 있습니다 — 일반적으로 사원 특별결의를 통과시키고, 상호를 「Berhad」로 끝나도록 변경하며, 필요한 서류를 말레이시아 기업위원회(SSM)에 제출하는 방식입니다."
 
 lang: "ko"
-sourceContentHash: "8327877494bab4c8"
+sourceContentHash: "169a6cb2d99ed6ac"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,7 +89,7 @@ framework: explainer
 
 **Bahasa Malaysia:** Berhad · **English:** Public Limited Company · **中文:** 大众有限公司
 
-말레이시아 회사명 끝에 「Bhd」가 붙은 것을 볼 때 — 메이뱅크(Maybank)의 Malayan Banking Berhad, Public Bank Berhad, Tenaga Nasional Berhad — 그것은 낯선 이에게 주식을 팔 수 있는 회사를 보고 있는 것입니다. 그 하나의 허가가 버하드(Berhad)를 훨씬 더 흔한 Sdn Bhd와 구별하며, 버하드가 더 무거운 규정 아래 놓이는 이유입니다.
+말레이시아 회사명 끝에 「Bhd」가 붙은 것을 볼 때 — 메이뱅크([Maybank](/ko/companies/maybank))의 Malayan Banking Berhad, [Public Bank Berhad](/ko/companies/public-bank), [Tenaga Nasional Berhad](/ko/companies/tenaga-nasional) — 그것은 낯선 이에게 주식을 팔 수 있는 회사를 보고 있는 것입니다. 그 하나의 허가가 버하드(Berhad)를 훨씬 더 흔한 Sdn Bhd와 구별하며, 버하드가 더 무거운 규정 아래 놓이는 이유입니다.
 
 「버하드(Berhad)」는 그저 「유한」을 뜻하는 말레이어입니다. 이는 말레이시아 기업위원회(SSM)가 운영하는 법률인 회사법(Companies Act 2016, Act 777)에 따른 **공개 유한회사**를 나타냅니다. 비공개 사촌 격 회사와 마찬가지로 버하드는 재산을 소유하고, 계약을 체결하며, 소송을 제기하거나 당할 수 있는 별개의 법인이며, 사원의 책임은 주식 미납액으로 한정됩니다.
 

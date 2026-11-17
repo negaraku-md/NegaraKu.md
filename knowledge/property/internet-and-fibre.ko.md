@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "고정 브로드밴드를 연결해야 하는, 말레이시아에서 집을 임차·매수하거나 이사하는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "19befa5847e8b8f0"
+sourceContentHash: "bbd067458507d9b6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,7 +76,7 @@ framework: decision
 
 말레이시아의 광섬유 보급은 수년간 **[JENDELA](/technology/5g-jendela-dnb-malaysia)**(Jalinan Digital Negara), 즉 말레이시아 통신·멀티미디어위원회(MCMC) 산하의 국가 연결성 추진에 의해 이끌려 왔습니다. 그 첫 단계는 전국 수백만 건물로 광섬유 접근을 확대하고 기가비트 지원 서비스를 넓히는 목표를 세웠으며 — 이는 이 나라의 기존 초고속 브로드밴드(HSBB) 백본 위에 지어진 추진입니다.
 
-그 백본은 **Telekom Malaysia (TM)**가 소유하며, 그래서 **Unifi**가 다른 ISP가 구축하지 않은 소도시와 교외를 포함해 단일 브랜드 중 가장 넓은 도달 범위를 갖는 경향이 있습니다. 그러나 「넓다」는 「어디에나」가 아닙니다 — 서비스는 여전히 주소마다 다르며, 그래서 모든 주요 제공업체가 그냥 가입하고 보라고 하는 대신 자체 사이트 전면에 서비스 확인 도구를 둡니다.
+그 백본은 **[Telekom Malaysia](/ko/companies/telekom-malaysia) (TM)**가 소유하며, 그래서 **Unifi**가 다른 ISP가 구축하지 않은 소도시와 교외를 포함해 단일 브랜드 중 가장 넓은 도달 범위를 갖는 경향이 있습니다. 그러나 「넓다」는 「어디에나」가 아닙니다 — 서비스는 여전히 주소마다 다르며, 그래서 모든 주요 제공업체가 그냥 가입하고 보라고 하는 대신 자체 사이트 전면에 서비스 확인 도구를 둡니다.
 
 ## 주요 사업자
 

@@ -31,7 +31,7 @@ faq:
     a: "CIMB는 말레이시아, 인도네시아, 싱가포르, 태국을 포함한 시장에서 운영하는 아세안 중심 그룹으로 자신을 규정합니다. RHB는 일곱 개 지역 시장에서 운영합니다. Maybank는 세 개의 본국 시장 — 말레이시아, 싱가포르, 인도네시아 — 에 더해 아세안 전반과 주요 글로벌 금융 중심지에서 사업을 운영합니다."
 
 lang: "ko"
-sourceContentHash: "81a33a10e5b5e6c3"
+sourceContentHash: "8ccc31809a8d6c39"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,7 +91,7 @@ keywords: ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong Bank", "Malaysia
 framework: profile
 ---
 
-거의 모든 말레이시아 번화가를 지배하는 다섯 개의 이름 — Maybank, CIMB, Public Bank, RHB, Hong Leong — 을 나란히 놓으면, 국가의 급여, 주택담보대출, 무역을 결제하는 은행 시스템의 핵심을 보는 것입니다. 이들은 모두 말레이시아에 설립되었고, 모두 Bursa Malaysia에 상장되어 있으며, 모두 같은 중앙은행의 면허를 받습니다. 그 너머에서는 뚜렷이 갈립니다. 하나는 나머지를 규모로 압도하고, 일부는 사실상 정부가 지분의 축이며, 둘은 여전히 창업 가문이 이끕니다.
+거의 모든 말레이시아 번화가를 지배하는 다섯 개의 이름 — [Maybank](/ko/companies/maybank), CIMB, Public Bank, RHB, Hong Leong — 을 나란히 놓으면, 국가의 급여, 주택담보대출, 무역을 결제하는 은행 시스템의 핵심을 보는 것입니다. 이들은 모두 말레이시아에 설립되었고, 모두 Bursa Malaysia에 상장되어 있으며, 모두 같은 중앙은행의 면허를 받습니다. 그 너머에서는 뚜렷이 갈립니다. 하나는 나머지를 규모로 압도하고, 일부는 사실상 정부가 지분의 축이며, 둘은 여전히 창업 가문이 이끕니다.
 
 ## 무엇이 말레이시아의 「빅5」 은행에 해당합니까?
 
@@ -102,7 +102,7 @@ framework: profile
 | 그룹 | 순이익 | 자기자본이익률 | 회계연도 |
 |---|---|---|---|
 | **Maybank** (Malayan Banking) | RM100.9억 | 11.1% | 2024 회계연도 (12월) |
-| **CIMB Group** | RM77.3억 | 11.2% | 2024 회계연도 (12월) |
+| **[CIMB Group](/ko/companies/cimb)** | RM77.3억 | 11.2% | 2024 회계연도 (12월) |
 | **Public Bank** | RM71.5억 | 12.8% | 2024 회계연도 (12월) |
 | **RHB Bank** | RM31.2억 | 10.04% | 2024 회계연도 (12월) |
 | **Hong Leong Bank** | RM42.0억 | 11.8% | 2024 회계연도 (6월) |
@@ -127,7 +127,7 @@ framework: profile
 | CIMB | Khazanah Nasional, EPF, KWAP, PNB와 함께 | 정부연계(GLIC) |
 | RHB Bank | 직원공제기금(EPF) | 정부연계(GLIC) |
 | Public Bank | Teh 가문, Consolidated Teh Holdings를 통해 | 창업 가문 |
-| Hong Leong Bank | Quek 가문, Hong Leong Financial Group을 통해 | 창업 가문 |
+| Hong Leong Bank | Quek 가문, [Hong Leong Financial Group](/ko/companies/hong-leong-financial-group)을 통해 | 창업 가문 |
 
 **Maybank**의 경우 지분의 축은 국가투자공사(Permodalan Nasional Berhad, PNB)와 그 거대한 아마나 사함 부미푸트라(Amanah Saham Bumiputera) 펀드로, 이 둘이 함께 이 은행을 국가에서 가장 널리 보유된 이름 중 하나로 만듭니다. **CIMB**는 주요 주주로 말레이시아의 전략 투자 기금인 Khazanah Nasional을 EPF, 공무원연금기금(KWAP), PNB와 함께 열거합니다. 2026년 6월 말 기준 외국인 투자자가 CIMB의 29.7%를 보유했습니다. **RHB**는 국가 퇴직 기금인 직원공제기금을 단일 최대 주주로 두어 지분의 축으로 삼습니다.
 

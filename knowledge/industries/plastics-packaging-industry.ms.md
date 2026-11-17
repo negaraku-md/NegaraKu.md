@@ -31,7 +31,7 @@ faq:
   - q: Apa yang Malaysia lakukan tentang pencemaran plastik?
     a: Pelan Hala Tuju Kelestarian Plastik Malaysia 2021–2030, diterajui kementerian alam sekitar, menetapkan sasaran untuk menghapuskan secara berperingkat plastik sekali guna yang bermasalah, menaikkan kadar kitar semula dan kandungan kitar semula, serta menjadikan pembungkusan plastik boleh dikitar semula. Ia juga memperkenalkan skim Tanggungjawab Pengeluar Lanjutan (EPR) yang menjadikan pengeluar membantu membiayai pengumpulan dan kitar semula.
 lang: ms
-sourceContentHash: "997857d937a84a00"
+sourceContentHash: "dc6e2cfa034711f6"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -122,7 +122,7 @@ Satu nota tentang guna tenaga: satu kiraan negara yang berwibawa tunggal tidak d
 
 Industri ini tidak bermula dengan pelet — ia bermula dengan minyak dan gas. Plastik terletak di hujung **hiliran** [industri kimia dan petrokimia](/industries/chemicals-petrochemicals-industry/) Malaysia, yang meretak hidrokarbon menjadi blok binaan polimer.
 
-Malaysia membuat banyak resinnya sendiri. **PETRONAS Chemicals Group** dan **Lotte Chemical Titan** ialah pengeluar utama polimer komoditi seperti polietilena (PE) dan polipropilena (PP). Kompleks Bersepadu Pengerang PETRONAS yang besar (sebahagian daripada projek RAPID) di Johor menambah kapasiti polimer hiliran yang besar — termasuk talian PE, PP dan HDPE — mendalamkan keupayaan negara untuk menyuap penukarnya sendiri. Integrasi menegak ini, daripada penapisan ke resin ke pembungkusan siap, ialah kekuatan struktur: ia memendekkan rantaian bekalan dan melindungi penukar daripada sebahagian ketidaktentuan bahan mentah import. Walaupun begitu, gred khusus masih diimport, dan harga resin menjejaki pasaran minyak global dengan rapat.
+Malaysia membuat banyak resinnya sendiri. [**PETRONAS Chemicals Group**](/ms/companies/petronas-chemicals) dan **Lotte Chemical Titan** ialah pengeluar utama polimer komoditi seperti polietilena (PE) dan polipropilena (PP). Kompleks Bersepadu Pengerang PETRONAS yang besar (sebahagian daripada projek RAPID) di Johor menambah kapasiti polimer hiliran yang besar — termasuk talian PE, PP dan HDPE — mendalamkan keupayaan negara untuk menyuap penukarnya sendiri. Integrasi menegak ini, daripada penapisan ke resin ke pembungkusan siap, ialah kekuatan struktur: ia memendekkan rantaian bekalan dan melindungi penukar daripada sebahagian ketidaktentuan bahan mentah import. Walaupun begitu, gred khusus masih diimport, dan harga resin menjejaki pasaran minyak global dengan rapat.
 
 ## Apa yang dibuat industri ini
 

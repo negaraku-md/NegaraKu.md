@@ -47,7 +47,7 @@ verificationNeeded:
   - "2020 के बाद DFTZ की कोई मात्रा या व्यापार-मूल्य सांख्यिकी। किसी आधिकारिक स्रोत से कोई मौजूद नहीं है, और 25 February 2025 को MAHB की सूची-समाप्ति (delisting) के बाद कोई प्राप्त नहीं की जा सकती — यह संरचनात्मक रूप से अप्राप्य है, मात्र न मिलने वाली नहीं।"
 
 lang: "hi"
-sourceContentHash: "b20fb73bf5494f07"
+sourceContentHash: "ea2e8bc121b7ae31"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -178,8 +178,7 @@ Financial Zone** के पास लगभग ग्यारह समर्�
 Schedule की मद 10, «Kuala Lumpur International Airport, Sepang», गतिविधि स्तंभ
 «Commercial»**, जो सेलांगोर सर्वे विभाग के राजपत्र मानचित्र 1207, 1981, 3004 और 1376 से
 परिबद्ध है। इसे s.3(1) के तहत उसी तंत्र द्वारा घोषित किया गया था जिससे Pasir Gudang,
-Port Klang और Tanjung Pelepas, और इसका नियुक्त प्राधिकरण **Malaysia Airports Holdings
-Berhad** है। कानून में इसे कुछ भी अलग नहीं करता।
+Port Klang और Tanjung Pelepas, और इसका नियुक्त प्राधिकरण **[Malaysia Airports Holdings Berhad](/hi/companies/malaysia-airports-mahb)** है। कानून में इसे कुछ भी अलग नहीं करता।
 
 यहां समझने योग्य सबसे उपयोगी एक चीज़ यही है। **DFTZ एक नीति-ब्रांड और एक सुविधा-कार्यक्रम
 था, जो परंपरागत फ्री-ज़ोन तंत्र के ऊपर जोड़ा गया** — न कि कोई विशिष्ट कानूनी दर्जा।

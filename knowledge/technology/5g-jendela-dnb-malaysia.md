@@ -172,7 +172,7 @@ The transition to the dual-network model unfolded quickly across 2024:
 - **1 November 2024** — MCMC named **U Mobile** as the second 5G network provider.
 - **31 December 2024** — Ministerial Direction No. 4 of 2024 revoked the 2021 single-wholesale-network direction, ending DNB's monopoly and enshrining the dual-network model.
 
-Four operators bid: CelcomDigi, Maxis, U Mobile and Telekom Malaysia. MCMC said it selected U Mobile after detailed deliberations on the technical and commercial merits of each plan. Winning came with a hard condition: because the four telcos collectively held a stake in DNB, U Mobile had to **divest its DNB shareholding** and offboard from that network in order to concentrate on building its own.
+Four operators bid: CelcomDigi, Maxis, U Mobile and [Telekom Malaysia](/companies/telekom-malaysia). MCMC said it selected U Mobile after detailed deliberations on the technical and commercial merits of each plan. Winning came with a hard condition: because the four telcos collectively held a stake in DNB, U Mobile had to **divest its DNB shareholding** and offboard from that network in order to concentrate on building its own.
 
 U Mobile launched its second network, branded ULTRA5G, on **18 August 2025**, going live first at Berjaya Times Square (billed as the country's first fully 5G-enabled shopping centre). It is built as a 5G standalone (SA) network with network slicing, using Huawei and ZTE as technology partners, and U Mobile set a target of 80% population coverage by the second half of 2026.
 

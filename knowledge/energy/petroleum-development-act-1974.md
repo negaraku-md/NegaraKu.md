@@ -89,7 +89,7 @@ Akta Kemajuan Petroleum 1974 (Akta 144) menerima perkenan diraja pada 30 Julai 1
 
 Teras Akta ini terletak pada Seksyen 2. Ia memperuntukkan bahawa "keseluruhan pemilikan dalam, serta hak, kuasa, kebebasan dan keistimewaan eksklusif untuk meneroka, mengeksploitasi, memperoleh dan mendapatkan petroleum sama ada di darat atau luar pesisir Malaysia hendaklah terletak hak pada satu Perbadanan". Seksyen 2(2) menyatakan pemindahan hak itu berkuat kuasa apabila satu instrumen dalam bentuk Jadual ditandatangani, dan Seksyen 2(3) menegaskan pemilikan serta hak itu "tidak boleh batal (irrevocable) dan berterusan untuk faedah Perbadanan itu dan penggantinya". Jadual kepada Akta merangka instrumen penyerahan yang memberi hak tersebut kepada Petronas "in perpetuity" (selama-lamanya).
 
-Seksyen 3 menamakan perbadanan itu — walaupun bertentangan dengan peraturan biasa Akta Syarikat 1965 tentang nama syarikat — sebagai Petroliam Nasional Berhad, atau ringkasnya Petronas, dan meletakkannya di bawah "kawalan dan arahan Perdana Menteri", yang arahannya mengikat perbadanan itu. Rangka kerja ini memusatkan pemilikan dan pengawalseliaan pada satu entiti persekutuan.
+Seksyen 3 menamakan perbadanan itu — walaupun bertentangan dengan peraturan biasa Akta Syarikat 1965 tentang nama syarikat — sebagai [Petroliam Nasional Berhad](/companies/petronas), atau ringkasnya Petronas, dan meletakkannya di bawah "kawalan dan arahan Perdana Menteri", yang arahannya mengikat perbadanan itu. Rangka kerja ini memusatkan pemilikan dan pengawalseliaan pada satu entiti persekutuan.
 
 | Seksyen | Perkara |
 | --- | --- |

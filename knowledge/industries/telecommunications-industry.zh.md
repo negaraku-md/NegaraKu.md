@@ -31,7 +31,7 @@ faq:
   - q: 马来西亚的电信市场还在增长吗？
     a: 由于市场近乎饱和，用户增长已大体见顶。未来增长预期将来自更高价值的服务——5G、光纤升级、企业连接与数字服务——而非签下大量新用户。
 lang: zh
-sourceContentHash: "01292aba5d43284f"
+sourceContentHash: "0a9dfcb348c124ab"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -131,7 +131,7 @@ framework: profile
 
 在这些之外，还运行着一层**移动虚拟网络运营商（MVNO）**与预付品牌（如借用大网络运营的那些），在低端增添竞争。
 
-在固定一侧，市场领导者是**Telekom Malaysia（TM）**，即前国营垄断企业，其 **unifi** 品牌主导固定宽带，并拥有全国骨干网与国际连接的大部分。TM 与 **Maxis Fibre**、**TIME dotCom**（在高楼与城市光纤方面实力强劲）以及运营 **Yes** 品牌的 **YTL Communications** 竞争。数家运营商如今销售**融合**套餐——把移动与家庭宽带捆绑在一起——这是争夺家庭支出的一条主要战线。
+在固定一侧，市场领导者是**[Telekom Malaysia](/zh/companies/telekom-malaysia)（TM）**，即前国营垄断企业，其 **unifi** 品牌主导固定宽带，并拥有全国骨干网与国际连接的大部分。TM 与 **Maxis Fibre**、**TIME dotCom**（在高楼与城市光纤方面实力强劲）以及运营 **Yes** 品牌的 **YTL Communications** 竞争。数家运营商如今销售**融合**套餐——把移动与家庭宽带捆绑在一起——这是争夺家庭支出的一条主要战线。
 
 ## 移动与固定宽带
 

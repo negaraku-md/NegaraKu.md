@@ -33,7 +33,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "beccce94b3261d31"
+sourceContentHash: "b02d2bf50fe3eddc"
 
 status: "published"
 aiAssisted: true
@@ -91,7 +91,7 @@ Axiata Group Berhad एक मलेशिया-आधारित क्षे
 
 ## इतिहास: TM International से Axiata तक
 
-Axiata की जड़ें पूर्व राष्ट्रीय एकाधिकार के भीतर हैं। इसे 12 जून 1992 को **TM International Berhad** के रूप में निगमित किया गया, जो [Telekom Malaysia](/hi/malaysia) की अंतरराष्ट्रीय और मोबाइल शाखा थी। आगे के वर्षों में इसने उभरते एशियाई बाज़ारों में सेलुलर हिस्सेदारी जुटाई, और 2008 में इसे Bursa Malaysia पर अलग से सूचीबद्ध किया गया।
+Axiata की जड़ें पूर्व राष्ट्रीय एकाधिकार के भीतर हैं। इसे 12 जून 1992 को **TM International Berhad** के रूप में निगमित किया गया, जो [Telekom Malaysia](/hi/companies/telekom-malaysia) की अंतरराष्ट्रीय और मोबाइल शाखा थी। आगे के वर्षों में इसने उभरते एशियाई बाज़ारों में सेलुलर हिस्सेदारी जुटाई, और 2008 में इसे Bursa Malaysia पर अलग से सूचीबद्ध किया गया।
 
 2 अप्रैल 2009 को कंपनी ने **Axiata Group Berhad** के रूप में पुनः ब्रांडिंग की, जो अपनी पूर्व मूल कंपनी से स्वतंत्र पहचान और मलेशियाई स्थिर-लाइन जड़ों के बजाय क्षेत्रीय मोबाइल वृद्धि पर केंद्रित रणनीति का संकेत देती थी। तब से यह नाम XL Axiata और Dialog Axiata जैसे इसके कई ऑपरेटरों द्वारा धारित एक छत्र-ब्रांड बन गया है।
 

@@ -35,7 +35,7 @@ faq:
     a: "Both states claim a 5% royalty based on a 1975 agreement. Terengganu receives payments (though these were once converted to 'goodwill money' around 2000 and restored in 2009), while Kelantan's 2010 court claim was withdrawn in 2019. The core issue is whether the wells in question lie within state waters (the three-nautical-mile limit) or under federal jurisdiction."
 
 lang: "en"
-sourceContentHash: "fee9c9760c973ad8"
+sourceContentHash: "742face9b45c4b23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -145,7 +145,7 @@ Petronas is an integrated group spanning the entire oil and gas value chain — 
 
 | Subsidiary | Core field |
 | --- | --- |
-| PETRONAS Chemicals Group (PCG) | Integrated chemicals producer — olefins, polymers, fertilisers, methanol, specialty chemicals |
+| [PETRONAS Chemicals Group](/en/companies/petronas-chemicals) (PCG) | Integrated chemicals producer — olefins, polymers, fertilisers, methanol, specialty chemicals |
 | PETRONAS Gas Berhad (PGB) | Owns and operates gas processing, transmission and regasification networks |
 | PETRONAS Dagangan Berhad (PDB) | Retail and marketing of downstream petroleum products (petrol stations, products) |
 | [MISC Berhad](/companies/misc-berhad) | Logistics and maritime — LNG transport, tankers, technical services |

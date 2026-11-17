@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c1f7f6a84e1fec97"
+sourceContentHash: "759f20164c0d9f77"
 
 status: "published"
 aiAssisted: true
@@ -145,7 +145,7 @@ DNBは10年間で約RM165億の予算を有し、この方式が見直された�
 - **2024年11月1日**——MCMCがU Mobileを第2の5Gネットワークの落札者として発表した。
 - **2024年12月31日**——2024年大臣指令第4号（Ministerial Direction No. 4 of 2024）が2021年の単一卸売ネットワーク指令を撤回し、DNBの独占を正式に終わらせ、デュアルネットワーク方式を確立した。
 
-第2ネットワークには4社が入札した——CelcomDigi、Maxis、U Mobile、そしてTelekom Malaysiaである。MCMCは、技術面・商業面の計画を厳格に審査したとする過程を経てU Mobileを選定し、ネットワーク構築のために700MHz（2×20MHzブロック）と3.5GHz（100MHzブロック）を割り当てた。
+第2ネットワークには4社が入札した——CelcomDigi、Maxis、U Mobile、そして[Telekom Malaysia](/ja/companies/telekom-malaysia)である。MCMCは、技術面・商業面の計画を厳格に審査したとする過程を経てU Mobileを選定し、ネットワーク構築のために700MHz（2×20MHzブロック）と3.5GHz（100MHzブロック）を割り当てた。
 
 落札には条件が付いていた：U MobileはDNBの持株を売却し、そのネットワークから離脱して自社ネットワークに専念しなければならなかった。**2025年5月**、U MobileはDNBの持株を売却し、ネットワークから離脱し、CelcomDigi、Maxis、YTLがそれぞれ19.44%を保有する形となった。U Mobileは**2025年8月18日**にULTRA5Gネットワークを開始し、まずBerjaya Times Squareで稼働を開始した。同社はこれを国内初の完全5G対応ショッピングモールと謳った。
 

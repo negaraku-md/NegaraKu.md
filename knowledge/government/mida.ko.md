@@ -41,7 +41,7 @@ verificationNeeded:
   - "IMFC-J가 IMFC 모델의 유일한 지역 확장인지, 아니면 2026년에 이를 확대하겠다는 정부의 표명 이후 추가 IMFC 거점이 개소하였는지 여부"
 
 lang: "ko"
-sourceContentHash: "e0c5ddbcc6a8b0ca"
+sourceContentHash: "9379d91bcd56a69d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -151,7 +151,7 @@ MIDA 자체의 인허가 페이지가 이를 분명히 밝힙니다. 제조 면�
 
 ## 말레이시아 투자촉진센터(IMFC)
 
-"창구가 너무 많다"에 대한 MIDA의 가장 구체적인 답은 **말레이시아 투자촉진센터(Invest Malaysia Facilitation Centre, IMFC)**로, MIDA Sentral에 물리적으로 자리하며 **2023년 12월 1일**부터 운영됩니다. 이 센터는 말레이시아 국세청(LHDN), 이민청, 왕립관세청(RMCD), 통신멀티미디어위원회(MCMC), 반도 말레이시아 노동청, Tenaga Nasional Berhad, Telekom Malaysia Berhad의 관료를 하나의 물리적 장소로 모아, 승인받은 투자자의 후속 승인이 각 기관을 따로 방문하지 않고도 진행되도록 합니다. 이후 지역 확장판인 **IMFC-J**가 조호르-싱가포르 경제특구로 진출하는 투자자를 지원하기 위해 문을 열었습니다.
+"창구가 너무 많다"에 대한 MIDA의 가장 구체적인 답은 **말레이시아 투자촉진센터(Invest Malaysia Facilitation Centre, IMFC)**로, MIDA Sentral에 물리적으로 자리하며 **2023년 12월 1일**부터 운영됩니다. 이 센터는 말레이시아 국세청(LHDN), 이민청, 왕립관세청(RMCD), 통신멀티미디어위원회(MCMC), 반도 말레이시아 노동청, [Tenaga Nasional Berhad](/ko/companies/tenaga-nasional), [Telekom Malaysia](/ko/companies/telekom-malaysia) Berhad의 관료를 하나의 물리적 장소로 모아, 승인받은 투자자의 후속 승인이 각 기관을 따로 방문하지 않고도 진행되도록 합니다. 이후 지역 확장판인 **IMFC-J**가 조호르-싱가포르 경제특구로 진출하는 투자자를 지원하기 위해 문을 열었습니다.
 
 ## 넓어지는 소관
 

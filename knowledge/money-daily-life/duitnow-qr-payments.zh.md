@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1b31c1f5d1b3682f"
+sourceContentHash: "df04ec38e7fc7b1e"
 
 status: "published"
 aiAssisted: true
@@ -77,7 +77,7 @@ keywords: ["DuitNow", "DuitNow QR", "PayNet", "pembayaran segera Malaysia", "kod
 framework: explainer
 ---
 
-一位夜市摊贩只展示一个二维码。使用 Maybank 应用程式的顾客扫描了它。下一位顾客使用
+一位夜市摊贩只展示一个二维码。使用 [Maybank](/zh/companies/maybank) 应用程式的顾客扫描了它。下一位顾客使用
 Touch 'n Go eWallet，扫描的是**同一个**二维码。两笔款项都在几秒内进账到摊贩的账户。
 不需要为每家银行或电子钱包各自准备一个二维码——这就是 DuitNow QR 在幕后默默运作的方式。
 

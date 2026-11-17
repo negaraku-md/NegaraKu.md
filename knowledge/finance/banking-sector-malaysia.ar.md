@@ -34,7 +34,7 @@ faq:
     a: "لا. تُنظَّم المؤسسات المالية الإنمائية المقرَّرة بموجب قانون المؤسسات المالية الإنمائية لسنة 2002 ويشرف عليها بنك نيغارا ماليزيا، وهو نظام منفصل عن FSA وIFSA."
 
 lang: "ar"
-sourceContentHash: "a9fc5401e6cabfb3"
+sourceContentHash: "acfcc6c1e869263e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -128,7 +128,7 @@ framework: profile
 
 **البنوك التجارية** هي أحصنة العمل اليومية. فهي تأخذ الودائع، وتُقرض الأسر والشركات، وتدير مكاتب تمويل التجارة والخزانة، وتشغّل شبكات الفروع والبطاقات التي يتعامل معها معظم الناس. والرُّخَص الـ24 مزيج من بنوك مؤسَّسة محليًا وشركات تابعة مؤسَّسة محليًا لبنوك أجنبية — ومن بين الأخيرة أسماء مثل Citibank Berhad وHSBC Bank Malaysia Berhad وStandard Chartered Bank Malaysia Berhad وDeutsche Bank (Malaysia) Berhad وMUFG Bank (Malaysia) Berhad وBank of China (Malaysia) Berhad.
 
-**البنوك الاستثمارية** أضيق وأكثر تخصصًا. فالرُّخَص الـ10 — ومنها Maybank Investment Bank وCIMB Investment Bank وAmInvestment Bank وAffin Hwang Investment Bank وMBSB Investment Bank — تتركّز على الاستشارات للشركات، وجمع الدين والأسهم في أسواق رأس المال، والتمويل المُهيكَل. وهي لا تلاحق ودائع التجزئة كما تفعل البنوك التجارية.
+**البنوك الاستثمارية** أضيق وأكثر تخصصًا. فالرُّخَص الـ10 — ومنها [Maybank](/ar/companies/maybank) Investment Bank وCIMB Investment Bank وAmInvestment Bank وAffin Hwang Investment Bank وMBSB Investment Bank — تتركّز على الاستشارات للشركات، وجمع الدين والأسهم في أسواق رأس المال، والتمويل المُهيكَل. وهي لا تلاحق ودائع التجزئة كما تفعل البنوك التجارية.
 
 وتُرخَّص الفئتان بموجب التشريع نفسه، أي FSA 2013. وكثير منها، في الجانبين، يشغّل أيضًا **نوافذ مصرفية إسلامية** — أذرعًا معتمَدة تقدّم منتجات متوافقة مع الشريعة إلى جانب النشاط التقليدي.
 

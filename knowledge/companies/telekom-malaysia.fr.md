@@ -33,7 +33,7 @@ faq:
 lang: "fr"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f87521b3f50e5c77"
+sourceContentHash: "678b132c5368b3aa"
 
 status: "published"
 aiAssisted: true
@@ -116,7 +116,7 @@ TM est aussi un partenaire central de déploiement pour **JENDELA** (Jalinan Dig
 
 ## Taille et importance
 
-TM a déclaré un chiffre d'affaires du groupe d'environ 11,71 milliards RM pour l'exercice clos le 31 décembre 2024 et un bénéfice net d'environ 2,0 milliards RM, avec des abonnés au haut débit fixe d'environ 3,179 millions (tous des chiffres de l'exercice 2024, qui changent au fil du temps). Son actionnariat reflète son statut de société liée à l'État : Khazanah Nasional et l'Employees Provident Fund sont ses principaux actionnaires, aux côtés de Kumpulan Wang Persaraan (Diperbadankan) et d'autres institutions. Crucialement, le gouvernement détient une seule **action privilégiée rachetable à droits spéciaux** — une « action spécifique » — qui porte des droits spéciaux sur certaines décisions d'entreprise et nominations à des postes de direction, une caractéristique courante des services publics stratégiques privatisés de la Malaisie.
+TM a déclaré un chiffre d'affaires du groupe d'environ 11,71 milliards RM pour l'exercice clos le 31 décembre 2024 et un bénéfice net d'environ 2,0 milliards RM, avec des abonnés au haut débit fixe d'environ 3,179 millions (tous des chiffres de l'exercice 2024, qui changent au fil du temps). Son actionnariat reflète son statut de société liée à l'État : Khazanah Nasional et l'Employees Provident Fund sont ses principaux actionnaires, aux côtés de [Kumpulan Wang Persaraan](/fr/companies/kwap) (Diperbadankan) et d'autres institutions. Crucialement, le gouvernement détient une seule **action privilégiée rachetable à droits spéciaux** — une « action spécifique » — qui porte des droits spéciaux sur certaines décisions d'entreprise et nominations à des postes de direction, une caractéristique courante des services publics stratégiques privatisés de la Malaisie.
 
 ## Pourquoi c'est important
 

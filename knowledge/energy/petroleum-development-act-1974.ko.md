@@ -34,7 +34,7 @@ faq:
     a: "제3조는 Petronas를 총리의 통제와 지시 아래 두며, 총리의 지시는 그 법인을 구속합니다. 제6조는 Petronas 이외의 누구든 석유화학 제품의 가공, 정제, 제조를 수행하기 전에 총리의 허가를 요구하고, 제7조는 총리에게 규정 제정 권한을 부여합니다."
 
 lang: "ko"
-sourceContentHash: "bc9ab1d1d905cd8f"
+sourceContentHash: "901557e7ba61a4e5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ framework: explainer
 
 이 법의 핵심은 제2조에 있습니다. 제2조는 "말레이시아 육상이든 해상이든 석유를 탐사, 개발, 취득, 확보할 전체 소유권과, 배타적 권리, 권한, 자유, 특권이 단일 법인에 귀속되어야 한다"고 규정합니다. 제2(2)조는 그 권리 이전이 부칙 형식의 증서가 서명될 때 발효된다고 명시하며, 제2(3)조는 그 소유권과 권리가 "취소 불가능(irrevocable)하며 그 법인과 승계자의 이익을 위해 지속된다"고 강조합니다. 법에 부속된 부칙은 그 권리를 "in perpetuity"(영구히) Petronas에 부여하는 양도 증서를 규정합니다.
 
-제3조는 그 법인을 — 회사명에 관한 회사법 1965(Companies Act 1965)의 통상 규칙과 어긋남에도 — 페트로나스(Petroliam Nasional Berhad, Petronas)로 명명하고, 그 지시가 법인을 구속하는 "총리의 통제와 지시" 아래 둡니다. 이 틀은 소유권과 규제를 단일 연방 주체에 집중시킵니다.
+제3조는 그 법인을 — 회사명에 관한 회사법 1965(Companies Act 1965)의 통상 규칙과 어긋남에도 — 페트로나스([Petroliam Nasional Berhad](/ko/companies/petronas), Petronas)로 명명하고, 그 지시가 법인을 구속하는 "총리의 통제와 지시" 아래 둡니다. 이 틀은 소유권과 규제를 단일 연방 주체에 집중시킵니다.
 
 | 조 | 사항 |
 | --- | --- |

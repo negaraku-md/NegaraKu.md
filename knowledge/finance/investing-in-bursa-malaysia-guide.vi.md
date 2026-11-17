@@ -34,7 +34,7 @@ faq:
     a: "Ba khoản phí áp dụng trên cả lệnh mua và lệnh bán: hoa hồng của bên môi giới (do bên môi giới của bạn đặt), một phí thanh toán bù trừ 0.03% giá trị giao dịch giới hạn ở RM1,000, và thuế trước bạ RM1 cho mỗi RM1,000 (hoặc phần lẻ) giá trị, giới hạn ở RM1,000. Phí môi giới trên cổ phiếu niêm yết tại Bursa Malaysia hiện được miễn thuế dịch vụ."
 
 lang: "vi"
-sourceContentHash: "2aa2d9243406a229"
+sourceContentHash: "17c8242447ac4a60"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,7 +97,7 @@ keywords: ["CDS account", "Bursa Anywhere", "stockbroker Malaysia", "how to buy 
 framework: how-to
 ---
 
-Sở hữu một phần của Maybank hay Tenaga bắt đầu với hai tài khoản, không phải một — và không cái nào trong số đó là một tài khoản ngân hàng. Trước khi bạn có thể mua một cổ phiếu duy nhất trên Bursa Malaysia, bạn cần một nơi để *giữ* cổ phiếu và một nơi để *đặt lệnh*. Đây là cách hai cái khớp với nhau, và mỗi giao dịch thực sự tốn bao nhiêu.
+Sở hữu một phần của [Maybank](/vi/companies/maybank) hay Tenaga bắt đầu với hai tài khoản, không phải một — và không cái nào trong số đó là một tài khoản ngân hàng. Trước khi bạn có thể mua một cổ phiếu duy nhất trên Bursa Malaysia, bạn cần một nơi để *giữ* cổ phiếu và một nơi để *đặt lệnh*. Đây là cách hai cái khớp với nhau, và mỗi giao dịch thực sự tốn bao nhiêu.
 
 ## Tôi thực sự cần gì để bắt đầu?
 

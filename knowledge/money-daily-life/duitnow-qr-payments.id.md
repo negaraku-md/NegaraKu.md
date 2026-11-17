@@ -26,7 +26,7 @@ verificationNeeded:
   - "Angka biaya dan batas transaksi diambil langsung dari laman resmi PayNet pada tanggal penulisan; PayNet menyatakan biaya sebenarnya dapat berbeda menurut bank/e-wallet individu"
 
 lang: "id"
-sourceContentHash: "1b31c1f5d1b3682f"
+sourceContentHash: "df04ec38e7fc7b1e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,7 +78,7 @@ framework: explainer
 ---
 
 Seorang pedagang gerai pasar malam menampilkan satu kode QR saja. Pelanggan yang
-menggunakan aplikasi Maybank memindainya. Pelanggan berikutnya menggunakan Touch 'n
+menggunakan aplikasi [Maybank](/id/companies/maybank) memindainya. Pelanggan berikutnya menggunakan Touch 'n
 Go eWallet, memindai kode QR yang **sama**. Kedua pembayaran sampai ke rekening
 pedagang itu dalam hitungan detik. Tidak ada kode QR terpisah bagi setiap bank atau e-wallet —
 begitulah DuitNow QR bekerja secara diam-diam di balik layar.

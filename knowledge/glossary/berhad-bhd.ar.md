@@ -32,7 +32,7 @@ faq:
     a: "نعم. يمكن للشركة الخاصة أن تتحول إلى شركة عامة بموجب قانون الشركات لسنة 2016 — عادةً بتمرير قرار خاص من الأعضاء، وتغيير اسمها لينتهي بـ«Berhad»، وإيداع المستندات المطلوبة لدى لجنة الشركات الماليزية (SSM)."
 
 lang: "ar"
-sourceContentHash: "8327877494bab4c8"
+sourceContentHash: "169a6cb2d99ed6ac"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ framework: explainer
 **بهاسا ماليزيا:** Berhad · **الإنجليزية:** Public Limited Company · **الصينية:** 大众有限公司
 
 حين ترى «Bhd» في ذيل اسم شركة ماليزية — مثل Malayan Banking Berhad التابعة لـ
-Maybank، أو Public Bank Berhad، أو Tenaga Nasional Berhad — فأنت أمام شركة
+[Maybank](/ar/companies/maybank)، أو [Public Bank Berhad](/ar/companies/public-bank)، أو [Tenaga Nasional Berhad](/ar/companies/tenaga-nasional) — فأنت أمام شركة
 مسموح لها ببيع أسهمها لغرباء. وهذا التصريح وحده هو ما يفصل الـ Berhad عن الـ
 Sdn Bhd الأكثر شيوعاً بكثير، وهو سبب خضوع الـ Berhad لمجموعة قواعد أثقل.
 

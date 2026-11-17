@@ -32,7 +32,7 @@ faq:
     a: "Có. Một công ty tư nhân có thể chuyển đổi thành công ty đại chúng theo Luật Công ty (Companies Act 2016) — thường bằng cách thông qua một nghị quyết đặc biệt của các thành viên, đổi tên để kết thúc bằng 'Berhad', và nộp các tài liệu cần thiết cho Ủy ban Công ty Malaysia (SSM)."
 
 lang: "vi"
-sourceContentHash: "8327877494bab4c8"
+sourceContentHash: "169a6cb2d99ed6ac"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,7 +89,7 @@ framework: explainer
 
 **Bahasa Malaysia:** Berhad · **English:** Public Limited Company · **中文:** 大众有限公司
 
-Khi bạn thấy "Bhd" ở cuối tên một công ty Malaysia — Malayan Banking Berhad của Maybank, Public Bank Berhad, Tenaga Nasional Berhad — bạn đang nhìn vào một công ty được phép bán cổ phần cho những người xa lạ. Chính sự cho phép duy nhất đó tách một Berhad khỏi Sdn Bhd vốn phổ biến hơn nhiều, và đó là lý do một Berhad sống dưới một bộ quy định nặng nề hơn.
+Khi bạn thấy "Bhd" ở cuối tên một công ty Malaysia — Malayan Banking Berhad của [Maybank](/vi/companies/maybank), [Public Bank Berhad](/vi/companies/public-bank), [Tenaga Nasional Berhad](/vi/companies/tenaga-nasional) — bạn đang nhìn vào một công ty được phép bán cổ phần cho những người xa lạ. Chính sự cho phép duy nhất đó tách một Berhad khỏi Sdn Bhd vốn phổ biến hơn nhiều, và đó là lý do một Berhad sống dưới một bộ quy định nặng nề hơn.
 
 "Berhad" đơn giản là từ tiếng Mã Lai nghĩa là "trách nhiệm hữu hạn". Nó đánh dấu một **công ty đại chúng trách nhiệm hữu hạn** theo Luật Công ty (Companies Act 2016, Act 777), đạo luật do Ủy ban Công ty Malaysia (SSM) quản lý. Giống như người anh em tư nhân của nó, một Berhad là một pháp nhân riêng biệt có thể sở hữu tài sản, ký hợp đồng, và kiện hoặc bị kiện, và trách nhiệm của các thành viên chỉ giới hạn ở phần chưa thanh toán trên cổ phần của họ.
 

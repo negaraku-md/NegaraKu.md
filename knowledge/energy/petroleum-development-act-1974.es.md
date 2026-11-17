@@ -34,7 +34,7 @@ faq:
     a: "La Sección 3 coloca a Petronas bajo el control y la dirección del primer ministro, cuyas instrucciones vinculan a la corporación. La Sección 6 exige el permiso del primer ministro antes de que cualquier persona distinta de Petronas realice el procesamiento, el refinado o la fabricación de productos petroquímicos, y la Sección 7 otorga al primer ministro la facultad de dictar reglamentos."
 
 lang: "es"
-sourceContentHash: "bc9ab1d1d905cd8f"
+sourceContentHash: "901557e7ba61a4e5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ La Ley de Desarrollo del Petróleo de 1974 (Petroleum Development Act 1974, Ley 
 
 El núcleo de la Ley reside en la Sección 2. Dispone que «la propiedad total, y los derechos, poderes, libertades y privilegios exclusivos de explorar, explotar, extraer y obtener petróleo, ya sea en tierra o en el mar de Malasia, se conferirán a una Corporación». La Sección 2(2) establece que esta transferencia de derechos surte efecto cuando se ejecuta un instrumento con la forma del Anexo, y la Sección 2(3) afirma que la propiedad y los derechos son «irrevocables y redundarán en beneficio de la Corporación y sus sucesores». El Anexo de la Ley da forma al instrumento de cesión que concede esos derechos a Petronas «a perpetuidad».
 
-La Sección 3 nombra a la corporación —incluso en contra de las reglas ordinarias de la Ley de Sociedades de 1965 (Companies Act 1965) sobre los nombres de las empresas— como Petroliam Nasional Berhad, o Petronas en forma abreviada, y la coloca bajo el «control y la dirección del primer ministro», cuyas instrucciones vinculan a la corporación. Este marco centraliza la propiedad y la regulación en una única entidad federal.
+La Sección 3 nombra a la corporación —incluso en contra de las reglas ordinarias de la Ley de Sociedades de 1965 (Companies Act 1965) sobre los nombres de las empresas— como [Petroliam Nasional Berhad](/es/companies/petronas), o Petronas en forma abreviada, y la coloca bajo el «control y la dirección del primer ministro», cuyas instrucciones vinculan a la corporación. Este marco centraliza la propiedad y la regulación en una única entidad federal.
 
 | Sección | Materia |
 | --- | --- |

@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Siapa pun yang menyewa, membeli atau pindah ke sebuah rumah di Malaysia yang perlu menyambungkan jalur lebar tetap."
 
 lang: "id"
-sourceContentHash: "19befa5847e8b8f0"
+sourceContentHash: "bbd067458507d9b6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,7 +77,7 @@ Sebelum Anda membandingkan harga walau satu ringgit pun, ada satu pertanyaan yan
 
 Peluncuran fiber di Malaysia telah didorong selama bertahun-tahun oleh **[JENDELA](/id/technology/5g-jendela-dnb-malaysia)** (Jalinan Digital Negara), penggerak konektivitas nasional yang dijalankan di bawah Komisi Komunikasi dan Multimedia Malaysia (MCMC). Fase pertamanya menetapkan sasaran untuk memperluas jangkauan fiber ke jutaan premis di seluruh negara serta memperluas cakupan berkemampuan gigabit — upaya yang dibangun di atas jaringan tulang punggung Jalur Lebar Berkecepatan Tinggi (High Speed Broadband, HSBB) yang sudah ada di negara ini.
 
-Jaringan tulang punggung itu dimiliki oleh **Telekom Malaysia (TM)**, itulah sebabnya **Unifi** cenderung memiliki jangkauan paling luas dibandingkan merek tunggal mana pun yang lain, termasuk di kota-kota kecil dan pinggiran kota di mana ISP lain belum membangun jaringannya. Tetapi "luas" bukan berarti "di mana-mana" — cakupan masih berbeda menurut alamat, itulah sebabnya setiap penyedia utama menempatkan alat pemeriksa cakupan di posisi depan dan tengah di situs webnya sendiri, dan bukan meminta Anda mendaftar dulu baru melihat hasilnya.
+Jaringan tulang punggung itu dimiliki oleh **[Telekom Malaysia](/id/companies/telekom-malaysia) (TM)**, itulah sebabnya **Unifi** cenderung memiliki jangkauan paling luas dibandingkan merek tunggal mana pun yang lain, termasuk di kota-kota kecil dan pinggiran kota di mana ISP lain belum membangun jaringannya. Tetapi "luas" bukan berarti "di mana-mana" — cakupan masih berbeda menurut alamat, itulah sebabnya setiap penyedia utama menempatkan alat pemeriksa cakupan di posisi depan dan tengah di situs webnya sendiri, dan bukan meminta Anda mendaftar dulu baru melihat hasilnya.
 
 ## Pemain-pemain utama
 

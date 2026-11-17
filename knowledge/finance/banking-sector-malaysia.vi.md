@@ -34,7 +34,7 @@ faq:
     a: "Không. Các tổ chức tài chính phát triển được quy định được điều chỉnh theo Development Financial Institutions Act 2002 và được Bank Negara Malaysia giám sát, một chế độ riêng biệt so với FSA và IFSA."
 
 lang: "vi"
-sourceContentHash: "a9fc5401e6cabfb3"
+sourceContentHash: "acfcc6c1e869263e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -128,7 +128,7 @@ Sự phân chia là về bề rộng so với chiều sâu.
 
 **Ngân hàng thương mại** là những cỗ máy làm việc hằng ngày. Họ nhận tiền gửi, cho các hộ gia đình và công ty vay, vận hành các bộ phận tài trợ thương mại và ngân quỹ, và điều hành các mạng lưới chi nhánh và thẻ mà hầu hết mọi người tương tác. 24 bên được cấp phép là sự pha trộn giữa các ngân hàng thành lập trong nước và các công ty con thành lập tại địa phương của các ngân hàng nước ngoài — nhóm sau bao gồm các tên như Citibank Berhad, HSBC Bank Malaysia Berhad, Standard Chartered Bank Malaysia Berhad, Deutsche Bank (Malaysia) Berhad, MUFG Bank (Malaysia) Berhad và Bank of China (Malaysia) Berhad.
 
-**Ngân hàng đầu tư** hẹp hơn và chuyên biệt hơn. 10 bên được cấp phép — bao gồm Maybank Investment Bank, CIMB Investment Bank, AmInvestment Bank, Affin Hwang Investment Bank và MBSB Investment Bank — tập trung vào tư vấn doanh nghiệp, huy động nợ và vốn cổ phần trên thị trường vốn, và tài chính có cấu trúc. Họ không theo đuổi tiền gửi bán lẻ theo cách ngân hàng thương mại làm.
+**Ngân hàng đầu tư** hẹp hơn và chuyên biệt hơn. 10 bên được cấp phép — bao gồm [Maybank](/vi/companies/maybank) Investment Bank, CIMB Investment Bank, AmInvestment Bank, Affin Hwang Investment Bank và MBSB Investment Bank — tập trung vào tư vấn doanh nghiệp, huy động nợ và vốn cổ phần trên thị trường vốn, và tài chính có cấu trúc. Họ không theo đuổi tiền gửi bán lẻ theo cách ngân hàng thương mại làm.
 
 Cả hai hạng mục đều được cấp phép theo cùng một đạo luật, FSA 2013. Nhiều ngân hàng trong số đó, ở cả hai phía, cũng vận hành các **cửa sổ ngân hàng Hồi giáo** — các nhánh đã được chấp thuận cung cấp các sản phẩm tuân thủ Shariah bên cạnh hoạt động thông thường.
 

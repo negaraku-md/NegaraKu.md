@@ -31,7 +31,7 @@ faq:
   - q: "Comment le gouvernement soutient-il l'industrie chimique ?"
     a: "La Malaysian Investment Development Authority (MIDA), par l'intermédiaire de sa Chemical and Advanced Material Division, évalue les licences de fabrication et offre des incitations telles que le statut de pionnier (Pioneer Status) et l'abattement fiscal pour investissement (Investment Tax Allowance). Les projets pétroliers et pétrochimiques relèvent également du Petroleum Development Act 1974. La Feuille de route de l'industrie chimique 2030 (Chemical Industry Roadmap 2030) et le Nouveau Plan directeur industriel 2030 (New Industrial Master Plan 2030) fixent l'orientation stratégique vers des produits chimiques de spécialité à plus forte valeur ajoutée."
 lang: fr
-sourceContentHash: "1c45aa3fcee5cc05"
+sourceContentHash: "11eb5b1edb640b2d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -128,7 +128,7 @@ L'ambition stratégique de l'industrie, exposée dans la CIR2030, est de déplac
 
 ## Acteurs clés et GLC
 
-Le pilier est **PETRONAS Chemicals Group (PCG)**, la branche pétrochimique cotée de la compagnie pétrolière nationale [PETRONAS](/fr/economy/oil-gas-petronas/). PCG est le producteur intégré dominant d'oléfines, de polymères et d'engrais, et son échelle provient d'un accès privilégié à la charge d'alimentation en gaz national.
+Le pilier est **[PETRONAS Chemicals Group](/fr/companies/petronas-chemicals) (PCG)**, la branche pétrochimique cotée de la compagnie pétrolière nationale [PETRONAS](/fr/economy/oil-gas-petronas/). PCG est le producteur intégré dominant d'oléfines, de polymères et d'engrais, et son échelle provient d'un accès privilégié à la charge d'alimentation en gaz national.
 
 **Lotte Chemical Titan**, détenue majoritairement par le sud-coréen Lotte Chemical, est l'autre poids lourd. Fondée en 1991 comme premier producteur autonome de polyoléfines de Malaisie, elle a été décrite comme le plus grand producteur intégré d'oléfines et de polyoléfines du pays, avec une capacité répartie sur deux sites du Johor (le chiffre précis varie selon les sources). Un large champ de multinationales — gaz industriels, revêtements, produits agrochimiques et produits de spécialité — et une vaste base de producteurs d'oléochimiques issus du palmier complètent le secteur.
 

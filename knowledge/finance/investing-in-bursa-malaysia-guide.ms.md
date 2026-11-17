@@ -34,7 +34,7 @@ faq:
     a: "Tiga caj dikenakan pada kedua-dua pembelian dan penjualan: komisen broker (ditetapkan oleh broker anda), yuran penjelasan 0.03% daripada nilai urus niaga dihadkan pada RM1,000, dan duti setem RM1 bagi setiap RM1,000 (atau sebahagian daripadanya) nilai, dihadkan pada RM1,000. Brokeraj bagi saham yang tersenarai di Bursa Malaysia buat masa ini dikecualikan daripada cukai perkhidmatan."
 
 lang: "ms"
-sourceContentHash: "2aa2d9243406a229"
+sourceContentHash: "17c8242447ac4a60"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,7 +97,7 @@ keywords: ["CDS account", "Bursa Anywhere", "stockbroker Malaysia", "how to buy 
 framework: how-to
 ---
 
-Memiliki sebahagian kecil daripada Maybank atau Tenaga bermula dengan dua akaun, bukan satu — dan kedua-duanya bukan akaun bank. Sebelum anda boleh membeli satu saham pun di Bursa Malaysia, anda memerlukan tempat untuk *menyimpan* saham dan tempat untuk *membuat pesanan*. Berikut ialah cara kedua-duanya berpadu, dan berapa sebenarnya kos setiap urus niaga.
+Memiliki sebahagian kecil daripada [Maybank](/ms/companies/maybank) atau Tenaga bermula dengan dua akaun, bukan satu — dan kedua-duanya bukan akaun bank. Sebelum anda boleh membeli satu saham pun di Bursa Malaysia, anda memerlukan tempat untuk *menyimpan* saham dan tempat untuk *membuat pesanan*. Berikut ialah cara kedua-duanya berpadu, dan berapa sebenarnya kos setiap urus niaga.
 
 ## Apa sebenarnya yang saya perlukan untuk bermula?
 

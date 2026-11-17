@@ -33,7 +33,7 @@ faq:
 lang: "fr"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "beccce94b3261d31"
+sourceContentHash: "b02d2bf50fe3eddc"
 
 status: "published"
 aiAssisted: true
@@ -91,7 +91,7 @@ La portée du groupe s'étend à la Malaisie, à l'Indonésie, au Sri Lanka, au 
 
 ## Histoire : de TM International à Axiata
 
-Les racines d'Axiata se trouvent au sein de l'ancien monopole national. Elle a été constituée le 12 juin 1992 sous le nom de **TM International Berhad**, la branche internationale et mobile de [Telekom Malaysia](/fr/malaysia). Au cours des années suivantes, elle a accumulé des participations cellulaires sur les marchés asiatiques émergents, et en 2008 elle a été cotée séparément à Bursa Malaysia.
+Les racines d'Axiata se trouvent au sein de l'ancien monopole national. Elle a été constituée le 12 juin 1992 sous le nom de **TM International Berhad**, la branche internationale et mobile de [Telekom Malaysia](/fr/companies/telekom-malaysia). Au cours des années suivantes, elle a accumulé des participations cellulaires sur les marchés asiatiques émergents, et en 2008 elle a été cotée séparément à Bursa Malaysia.
 
 Le 2 avril 2009, l'entreprise a été rebaptisée **Axiata Group Berhad**, signalant une identité indépendante de son ancienne société mère et une stratégie centrée sur la croissance mobile régionale plutôt que sur les racines de téléphonie fixe malaisiennes. Le nom est depuis devenu une marque générique portée par plusieurs de ses opérateurs, comme XL Axiata et Dialog Axiata.
 

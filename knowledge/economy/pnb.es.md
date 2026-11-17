@@ -31,7 +31,7 @@ faq:
 
 
 lang: "es"
-sourceContentHash: "e3b1b939af180abf"
+sourceContentHash: "c6ef01d3bb216ad1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -133,7 +133,7 @@ instrumentos del mercado monetario— y es la sociedad holding que posee ASNB
 por completo. ASNB es la sociedad gestora de fondos de inversión: es la entidad nombrada
 como «Gestor» (Manager) en cada prospecto y hoja de puntos destacados del producto, la que
 emite unidades, procesa reembolsos y opera las 32 oficinas de sucursal y más
-de 2,700 agentes en todo el país (Maybank, CIMB, RHB, BSN, Pos Malaysia y
+de 2,700 agentes en todo el país ([Maybank](/es/companies/maybank), CIMB, RHB, BSN, Pos Malaysia y
 otros) donde los malasios realmente operan.
 
 Esta separación importa por una razón práctica: las quejas, las consultas de cuenta y las

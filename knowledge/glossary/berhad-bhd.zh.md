@@ -34,7 +34,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8327877494bab4c8"
+sourceContentHash: "169a6cb2d99ed6ac"
 
 status: "published"
 aiAssisted: true
@@ -89,7 +89,7 @@ framework: explainer
 
 **Bahasa Malaysia:** Berhad · **English:** Public Limited Company · **中文:** 大众有限公司
 
-当你看到马来西亚公司名称末尾的「Bhd」——马来亚银行的 Malayan Banking Berhad、Public Bank Berhad、Tenaga Nasional Berhad——你面对的是一家获准向陌生人出售股份的公司。正是这一项许可，把 Berhad 与远为常见的 Sdn Bhd 区分开来，也正因如此，Berhad 要在一套更沉重的规则下运作。
+当你看到马来西亚公司名称末尾的「Bhd」——[马来亚银行](/zh/companies/maybank)的 Malayan Banking Berhad、[Public Bank Berhad](/zh/companies/public-bank)、[Tenaga Nasional Berhad](/zh/companies/tenaga-nasional)——你面对的是一家获准向陌生人出售股份的公司。正是这一项许可，把 Berhad 与远为常见的 Sdn Bhd 区分开来，也正因如此，Berhad 要在一套更沉重的规则下运作。
 
 「Berhad」不过是马来语中「有限」一词。它标示《2016年公司法》（Act 777）下的**大众有限公司**，该法由马来西亚公司委员会（SSM）管理。与其私人公司同类一样，Berhad 是一个独立法人，可以拥有财产、签订合同、起诉与被诉，其成员的责任以其股份的未缴款额为限。
 

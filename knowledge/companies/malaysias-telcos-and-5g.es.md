@@ -32,7 +32,7 @@ faq:
     a: "U Mobile fue designada para construir la segunda red 5G, por lo que se desprendió de su participación en DNB y se desvinculó de la red de DNB para centrarse en su propio despliegue."
 
 lang: "es"
-sourceContentHash: "c1f7f6a84e1fec97"
+sourceContentHash: "759f20164c0d9f77"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -146,7 +146,7 @@ En lugar de una red que todos comparten, Malasia decidió tener dos redes que co
 - **1 de noviembre de 2024** — la MCMC anunció a U Mobile como ganadora de la segunda red 5G.
 - **31 de diciembre de 2024** — la Directiva Ministerial n.º 4 de 2024 revocó la directiva de red mayorista única de 2021, poniendo fin formalmente al monopolio de DNB y consagrando el modelo de red dual.
 
-Cuatro operadores presentaron ofertas por la segunda red: CelcomDigi, Maxis, U Mobile y Telekom Malaysia. La MCMC seleccionó a U Mobile tras lo que describió como una rigurosa revisión de los planes técnicos y comerciales, y le asignó 700 MHz (un bloque de 2×20 MHz) y 3,5 GHz (un bloque de 100 MHz) para construir la red.
+Cuatro operadores presentaron ofertas por la segunda red: CelcomDigi, Maxis, U Mobile y [Telekom Malaysia](/es/companies/telekom-malaysia). La MCMC seleccionó a U Mobile tras lo que describió como una rigurosa revisión de los planes técnicos y comerciales, y le asignó 700 MHz (un bloque de 2×20 MHz) y 3,5 GHz (un bloque de 100 MHz) para construir la red.
 
 Ganar llegó con una condición: U Mobile tenía que desprenderse de su participación en DNB y abandonar esa red para concentrarse en la suya propia. En **mayo de 2025** se desprendió de su participación en DNB y se desvinculó de la red, dejando a CelcomDigi, Maxis e YTL con un 19,44% cada una. U Mobile lanzó su red ULTRA5G el **18 de agosto de 2025**, poniéndola en marcha primero en Berjaya Times Square, que presentó como el primer centro comercial del país totalmente habilitado para 5G.
 

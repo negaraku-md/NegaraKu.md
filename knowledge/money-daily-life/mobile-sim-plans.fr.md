@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Toute personne en Malaisie — citoyen, résident, titulaire d'un permis de travail, étudiant ou touriste — qui a besoin d'acheter ou d'enregistrer une carte SIM mobile locale."
 
 lang: "fr"
-sourceContentHash: "5f238099826ab02d"
+sourceContentHash: "a99a6fb1aad234c9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -105,7 +105,7 @@ quelqu'un qui vient d'arriver.
 | U Mobile | Unlimited Funz Prepaid | Troisième opérateur de réseau national de Malaisie |
 
 Deux acteurs plus petits — **Yes** (YTL Communications) et **Unifi Mobile**
-(Telekom Malaysia) — exploitent leurs propres réseaux 4G/LTE aux côtés des trois
+([Telekom Malaysia](/fr/companies/telekom-malaysia)) — exploitent leurs propres réseaux 4G/LTE aux côtés des trois
 précédents, souvent groupés avec le haut débit domestique. Quel que soit
 l'opérateur que vous choisissez, l'exigence d'enregistrement décrite ci-dessous
 s'applique à l'identique.

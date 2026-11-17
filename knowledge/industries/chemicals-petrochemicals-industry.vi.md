@@ -31,7 +31,7 @@ faq:
   - q: Chính phủ hỗ trợ ngành hóa chất như thế nào?
     a: Cơ quan Phát triển Đầu tư Malaysia (MIDA), thông qua Phân ban Hóa chất và Vật liệu Tiên tiến, đánh giá các giấy phép sản xuất và đưa ra các ưu đãi như Vị thế Tiên phong (Pioneer Status) và Trợ cấp Thuế Đầu tư (Investment Tax Allowance). Các dự án dầu mỏ và hóa dầu cũng được điều chỉnh theo Đạo luật Phát triển Dầu khí 1974 (Petroleum Development Act 1974). Lộ trình Ngành Hóa chất 2030 và Kế hoạch Tổng thể Công nghiệp Mới 2030 đặt ra định hướng chiến lược hướng tới hóa chất đặc chủng, giá trị cao hơn.
 lang: vi
-sourceContentHash: "1c45aa3fcee5cc05"
+sourceContentHash: "11eb5b1edb640b2d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -128,7 +128,7 @@ Tham vọng chiến lược của ngành, được nêu trong CIR2030, là dịc
 
 ## Các tay chơi chính và các GLC
 
-Trụ neo là **PETRONAS Chemicals Group (PCG)**, nhánh hóa dầu niêm yết của công ty dầu khí quốc gia [PETRONAS](/vi/economy/oil-gas-petronas/). PCG là nhà sản xuất tích hợp thống trị về olefin, polymer và phân bón, và quy mô của nó đến từ quyền tiếp cận ưu đãi với nguồn khí trong nước.
+Trụ neo là **[PETRONAS Chemicals Group](/vi/companies/petronas-chemicals) (PCG)**, nhánh hóa dầu niêm yết của công ty dầu khí quốc gia [PETRONAS](/vi/economy/oil-gas-petronas/). PCG là nhà sản xuất tích hợp thống trị về olefin, polymer và phân bón, và quy mô của nó đến từ quyền tiếp cận ưu đãi với nguồn khí trong nước.
 
 **Lotte Chemical Titan**, phần lớn sở hữu bởi Lotte Chemical của Hàn Quốc, là tay chơi hạng nặng còn lại. Thành lập năm 1991 với tư cách nhà sản xuất polyolefin độc lập đầu tiên của Malaysia, nó được mô tả là nhà sản xuất olefin và polyolefin tích hợp lớn nhất nước, với công suất trải trên hai cơ sở ở Johor (con số chính xác dao động giữa các nguồn). Một dàn rộng các tập đoàn đa quốc gia — trong khí công nghiệp, lớp phủ, hóa chất nông nghiệp và sản phẩm đặc chủng — cùng một cơ sở lớn các nhà sản xuất oleochemical từ dầu cọ làm tròn đầy lĩnh vực này.
 

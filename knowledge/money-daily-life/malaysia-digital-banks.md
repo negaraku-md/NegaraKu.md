@@ -101,7 +101,7 @@ Tetapi apa sebenarnya "bank digital" itu, siapa pemegang lesennya, dan yang pali
 
 ## Apa bezanya bank digital dengan bank tradisional?
 
-Dari segi undang-undang, bank digital ialah bank penuh — bukan sekadar aplikasi dompet elektronik. Ia dilesenkan di bawah akta perbankan yang sama seperti Maybank atau CIMB, boleh menerima simpanan, dan boleh memberi pinjaman. Perbezaan utamanya ialah cara ia beroperasi: sepenuhnya melalui saluran digital, tanpa rangkaian cawangan fizikal.
+Dari segi undang-undang, bank digital ialah bank penuh — bukan sekadar aplikasi dompet elektronik. Ia dilesenkan di bawah akta perbankan yang sama seperti [Maybank](/companies/maybank) atau CIMB, boleh menerima simpanan, dan boleh memberi pinjaman. Perbezaan utamanya ialah cara ia beroperasi: sepenuhnya melalui saluran digital, tanpa rangkaian cawangan fizikal.
 
 BNM mengeluarkan Rangka Kerja Pelesenan untuk Bank Digital pada penghujung 2020, dan pada 29 April 2022 mengumumkan lima pemohon berjaya yang diluluskan oleh Menteri Kewangan. Rangka kerja itu menetapkan satu "fasa asas" — tempoh tiga hingga lima tahun pertama — di mana setiap bank digital dihadkan jumlah asetnya kepada tidak lebih RM3 bilion dan mesti mengekalkan modal sekurang-kurangnya RM100 juta yang tidak terjejas oleh kerugian. Hadnya bertujuan membolehkan BNM memerhati prestasi dan risiko sebelum bank ini dibenarkan berkembang lebih besar.
 

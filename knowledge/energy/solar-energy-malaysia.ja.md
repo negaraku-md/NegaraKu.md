@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "69ed2a98233b72ad"
+sourceContentHash: "57d271bf1ff95022"
 
 status: "published"
 aiAssisted: true
@@ -116,7 +116,7 @@ framework: explainer
 
 ## NEM 3.0は住宅と企業にとってどのように機能するか？
 
-NEMは一般の人々にとって最も一般的な道筋である。屋根に太陽光パネルを設置し、まず発電した電力を使用し、余剰分をTenaga Nasional（TNB）の送電網に送る。NEM 3.0のもとでは、相殺は「1対1」方式で行われる——送電網に送った1キロワット時ごとに、送電網から取った1キロワット時が相殺される。
+NEMは一般の人々にとって最も一般的な道筋である。屋根に太陽光パネルを設置し、まず発電した電力を使用し、余剰分を[Tenaga Nasional](/ja/companies/tenaga-nasional)（TNB）の送電網に送る。NEM 3.0のもとでは、相殺は「1対1」方式で行われる——送電網に送った1キロワット時ごとに、送電網から取った1キロワット時が相殺される。
 
 SEDAのRE（再生可能エネルギー）ポータルによると、NEM 3.0は2025年6月30日までの期間実施され、総クオータは合計2,500 MWに達した。これは3つのサブプログラムに分かれている：
 

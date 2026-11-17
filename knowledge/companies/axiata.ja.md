@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "beccce94b3261d31"
+sourceContentHash: "b02d2bf50fe3eddc"
 
 status: "published"
 aiAssisted: true
@@ -91,7 +91,7 @@ Axiata Group Berhad は、マレーシアを拠点とする地域通信・デジ
 
 ## 歴史：TM International から Axiata へ
 
-Axiata の起源は、かつての国家独占企業の内部にある。1992年6月12日に [Telekom Malaysia](/ja/malaysia) の国際・モバイル部門である **TM International Berhad** として設立された。続く数年のうちに新興のアジア市場全域で携帯電話の持分を蓄積し、2008年に Bursa Malaysia に単独で上場した。
+Axiata の起源は、かつての国家独占企業の内部にある。1992年6月12日に [Telekom Malaysia](/ja/companies/telekom-malaysia) の国際・モバイル部門である **TM International Berhad** として設立された。続く数年のうちに新興のアジア市場全域で携帯電話の持分を蓄積し、2008年に Bursa Malaysia に単独で上場した。
 
 2009年4月2日、同社は **Axiata Group Berhad** に改称し、旧親会社から独立したアイデンティティと、マレーシアの固定電話の起源ではなく地域のモバイル成長に軸足を置いた戦略を示した。その名はその後、XL Axiata や Dialog Axiata といった複数の事業者が帯びる傘のブランドとなった。
 

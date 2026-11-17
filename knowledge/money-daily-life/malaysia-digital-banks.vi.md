@@ -35,7 +35,7 @@ faq:
     a: "Có. Trong giai đoạn nền tảng (ba đến năm năm đầu), khung của BNM giới hạn tổng tài sản của mỗi ngân hàng số ở mức không quá RM3 tỷ. Điều này cho phép BNM theo dõi hiệu quả hoạt động và rủi ro trước khi ngân hàng phát triển lớn hơn."
 
 lang: "vi"
-sourceContentHash: "586acae3d2012d4e"
+sourceContentHash: "9cfc6ac5098839e4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -102,7 +102,7 @@ Nhưng "ngân hàng số" thực sự là gì, ai là bên nắm giấy phép, v
 
 ## Ngân hàng số khác ngân hàng truyền thống ở điểm gì?
 
-Về mặt pháp lý, ngân hàng số là một ngân hàng đầy đủ — không phải chỉ là một ứng dụng ví điện tử. Nó được cấp phép theo cùng đạo luật ngân hàng như Maybank hay CIMB, có thể nhận tiền gửi, và có thể cho vay. Khác biệt chính là cách nó hoạt động: hoàn toàn qua các kênh số, không có mạng lưới chi nhánh vật lý.
+Về mặt pháp lý, ngân hàng số là một ngân hàng đầy đủ — không phải chỉ là một ứng dụng ví điện tử. Nó được cấp phép theo cùng đạo luật ngân hàng như [Maybank](/vi/companies/maybank) hay CIMB, có thể nhận tiền gửi, và có thể cho vay. Khác biệt chính là cách nó hoạt động: hoàn toàn qua các kênh số, không có mạng lưới chi nhánh vật lý.
 
 BNM ban hành Khung Cấp phép cho Ngân hàng Số vào cuối năm 2020, và vào ngày 29 tháng 4 năm 2022 công bố năm đơn xin thành công được Bộ trưởng Tài chính phê duyệt. Khung đó đặt ra một "giai đoạn nền tảng" — thời gian ba đến năm năm đầu — trong đó mỗi ngân hàng số bị giới hạn tổng tài sản ở mức không quá RM3 tỷ và phải duy trì vốn ít nhất RM100 triệu không bị lỗ làm suy giảm. Giới hạn này nhằm cho phép BNM theo dõi hiệu quả hoạt động và rủi ro trước khi các ngân hàng này được cho phép phát triển lớn hơn.
 

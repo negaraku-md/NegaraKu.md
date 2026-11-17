@@ -33,7 +33,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "596219fad8f1401b"
+sourceContentHash: "af9faa6b0d03ba80"
 
 status: "published"
 aiAssisted: true
@@ -95,7 +95,7 @@ Nguồn gốc của RHB ăn sâu vào lịch sử ngân hàng Malaysia. Tổ ti�
 - Năm 1999, tập đoàn thâu tóm Sime Bank (tức United Malayan Banking Corporation trước đây, có từ năm 1959).
 - Năm 2003, nó sáp nhập với Bank Utama (Malaysia) Berhad.
 
-Một bước chuyển đổi nữa đến vào năm 2012, khi RHB Capital Berhad mua lại OSK Investment Bank thông qua một giao dịch hoán đổi cổ phần; hai mảng ngân hàng đầu tư được hợp nhất có hiệu lực từ tháng 4 năm 2013, mở rộng đáng kể cánh tay thị trường vốn của tập đoàn. Năm 2016, RHB Bank Berhad tiếp quản tư cách niêm yết của RHB Capital Berhad để trở thành công ty cổ phần tài chính niêm yết của tập đoàn. Một đề xuất sáp nhập với tập đoàn AmBank đã được xem xét vào năm 2017 nhưng bị hủy bỏ sau khi các bên không thể thống nhất về điều khoản.
+Một bước chuyển đổi nữa đến vào năm 2012, khi RHB Capital Berhad mua lại OSK Investment Bank thông qua một giao dịch hoán đổi cổ phần; hai mảng ngân hàng đầu tư được hợp nhất có hiệu lực từ tháng 4 năm 2013, mở rộng đáng kể cánh tay thị trường vốn của tập đoàn. Năm 2016, RHB Bank Berhad tiếp quản tư cách niêm yết của RHB Capital Berhad để trở thành công ty cổ phần tài chính niêm yết của tập đoàn. Một đề xuất sáp nhập với tập đoàn [AmBank](/vi/companies/ambank-group) đã được xem xét vào năm 2017 nhưng bị hủy bỏ sau khi các bên không thể thống nhất về điều khoản.
 
 ## Các mảng kinh doanh
 

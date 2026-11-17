@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e0c5ddbcc6a8b0ca"
+sourceContentHash: "9379d91bcd56a69d"
 
 status: "published"
 aiAssisted: true
@@ -168,8 +168,8 @@ MIDA自身のライセンスに関するページは、これを明確に述べ�
 「窓口が多すぎる」という問題に対するMIDAの最も具体的な回答が、**インベスト・マレーシア・
 ファシリテーション・センター（Invest Malaysia Facilitation Centre、IMFC）**であり、MIDA
 Sentralに実際に設置され、**2023年12月1日**より運営されている。内国歳入庁、移民局、関税局、
-マレーシア通信・マルチメディア委員会、マレーシア半島労働局、Tenaga Nasional Berhad及び
-Telekom Malaysia Berhadの職員を一つの物理的な場所に集めており、承認済みの投資家がその後の
+マレーシア通信・マルチメディア委員会、マレーシア半島労働局、[Tenaga Nasional Berhad](/ja/companies/tenaga-nasional)及び
+[Telekom Malaysia](/ja/companies/telekom-malaysia) Berhadの職員を一つの物理的な場所に集めており、承認済みの投資家がその後の
 各種承認を得る際、機関ごとに別々に足を運ぶ必要がない。その後、地域拠点である**IMFC-J**が
 開設され、ジョホール・シンガポール経済特区に進出する投資家に対応している。
 

@@ -127,7 +127,7 @@ The split is about breadth versus depth.
 
 **Commercial banks** are the everyday workhorses. They take deposits, lend to households and companies, run trade finance and treasury desks, and operate the branch and card networks most people interact with. The 24 licensees are a mix of domestically incorporated banks and locally incorporated subsidiaries of foreign banks — the latter including names such as Citibank Berhad, HSBC Bank Malaysia Berhad, Standard Chartered Bank Malaysia Berhad, Deutsche Bank (Malaysia) Berhad, MUFG Bank (Malaysia) Berhad and Bank of China (Malaysia) Berhad.
 
-**Investment banks** are narrower and more specialised. The 10 licensees — including Maybank Investment Bank, CIMB Investment Bank, AmInvestment Bank, Affin Hwang Investment Bank and MBSB Investment Bank — concentrate on corporate advisory, raising debt and equity in the capital markets, and structured finance. They do not chase retail deposits the way commercial banks do.
+**Investment banks** are narrower and more specialised. The 10 licensees — including [Maybank](/companies/maybank) Investment Bank, CIMB Investment Bank, AmInvestment Bank, Affin Hwang Investment Bank and MBSB Investment Bank — concentrate on corporate advisory, raising debt and equity in the capital markets, and structured finance. They do not chase retail deposits the way commercial banks do.
 
 Both categories are licensed under the same statute, the FSA 2013. Many of them, on either side, also run **Islamic banking windows** — approved arms that offer Shariah-compliant products alongside the conventional business.
 

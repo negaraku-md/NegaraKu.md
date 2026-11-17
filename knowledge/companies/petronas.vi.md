@@ -35,7 +35,7 @@ faq:
     a: "Cả hai bang đều đòi tiền bản quyền 5% dựa trên thỏa thuận 1975. Terengganu nhận khoản thanh toán (dù từng bị đổi thành 'wang ehsan' vào khoảng năm 2000 và được khôi phục vào năm 2009), trong khi vụ kiện của Kelantan năm 2010 bị bác vào năm 2019. Vấn đề then chốt là liệu các giếng liên quan có nằm trong vùng biển của bang (giới hạn ba hải lý) hay dưới thẩm quyền liên bang."
 
 lang: "vi"
-sourceContentHash: "fee9c9760c973ad8"
+sourceContentHash: "742face9b45c4b23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -145,7 +145,7 @@ Petronas là một tập đoàn tích hợp bao trùm toàn bộ chuỗi giá tr
 
 | Công ty con | Lĩnh vực cốt lõi |
 | --- | --- |
-| PETRONAS Chemicals Group (PCG) | Nhà sản xuất hóa chất tích hợp — olefin, polymer, phân bón, methanol, hóa chất chuyên dụng |
+| [PETRONAS Chemicals Group](/vi/companies/petronas-chemicals) (PCG) | Nhà sản xuất hóa chất tích hợp — olefin, polymer, phân bón, methanol, hóa chất chuyên dụng |
 | PETRONAS Gas Berhad (PGB) | Sở hữu và vận hành mạng lưới xử lý, truyền dẫn và tái hóa khí |
 | PETRONAS Dagangan Berhad (PDB) | Bán lẻ và tiếp thị các sản phẩm dầu khí hạ nguồn (trạm xăng, sản phẩm) |
 | [MISC Berhad](/vi/companies/misc-berhad) | Logistics và hàng hải — vận chuyển LNG, tàu chở dầu, các dịch vụ kỹ thuật |

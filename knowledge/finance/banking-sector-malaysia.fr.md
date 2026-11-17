@@ -34,7 +34,7 @@ faq:
     a: "Non. Les institutions financières de développement prescrites sont réglementées en vertu de la Loi sur les institutions financières de développement de 2002 et supervisées par Bank Negara Malaysia, un régime distinct de celui de la FSA et de l'IFSA."
 
 lang: "fr"
-sourceContentHash: "a9fc5401e6cabfb3"
+sourceContentHash: "acfcc6c1e869263e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -128,7 +128,7 @@ La distinction porte sur l'étendue par rapport à la profondeur.
 
 **Les banques commerciales** sont les bêtes de somme du quotidien. Elles prennent des dépôts, prêtent aux ménages et aux entreprises, exploitent des pupitres de financement du commerce et de trésorerie, et gèrent les réseaux d'agences et de cartes avec lesquels la plupart des gens interagissent. Les 24 titulaires sont un mélange de banques constituées au niveau national et de filiales constituées localement de banques étrangères — ces dernières incluant des noms comme Citibank Berhad, HSBC Bank Malaysia Berhad, Standard Chartered Bank Malaysia Berhad, Deutsche Bank (Malaysia) Berhad, MUFG Bank (Malaysia) Berhad et Bank of China (Malaysia) Berhad.
 
-**Les banques d'investissement** sont plus étroites et plus spécialisées. Les 10 titulaires — parmi lesquels Maybank Investment Bank, CIMB Investment Bank, AmInvestment Bank, Affin Hwang Investment Bank et MBSB Investment Bank — se concentrent sur le conseil aux entreprises, la levée de dette et de fonds propres sur les marchés de capitaux, et le financement structuré. Elles ne poursuivent pas les dépôts des particuliers comme le font les banques commerciales.
+**Les banques d'investissement** sont plus étroites et plus spécialisées. Les 10 titulaires — parmi lesquels [Maybank](/fr/companies/maybank) Investment Bank, CIMB Investment Bank, AmInvestment Bank, Affin Hwang Investment Bank et MBSB Investment Bank — se concentrent sur le conseil aux entreprises, la levée de dette et de fonds propres sur les marchés de capitaux, et le financement structuré. Elles ne poursuivent pas les dépôts des particuliers comme le font les banques commerciales.
 
 Les deux catégories sont agréées en vertu de la même loi, la FSA 2013. Beaucoup d'entre elles, d'un côté comme de l'autre, exploitent aussi des **guichets de banque islamique** — des branches agréées qui offrent des produits conformes à la charia aux côtés de l'activité conventionnelle.
 

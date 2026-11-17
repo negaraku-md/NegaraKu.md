@@ -32,7 +32,7 @@ faq:
     a: "Có. Sáng kiến PERKUKUH ra mắt năm 2021 đã đề ra 20 sáng kiến nhằm, trong số những điều khác, trao cho mỗi GLIC một sứ mệnh rõ ràng hơn, tăng sự tham gia của khu vực tư nhân ('crowding in') và tinh gọn vai trò của chính phủ trong kinh doanh, đồng thời hướng nhiều đầu tư hơn tới các lĩnh vực xúc tác và phát triển."
 
 lang: "vi"
-sourceContentHash: "72a029d7e3ea589d"
+sourceContentHash: "e364599cb19e8b25"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -127,9 +127,9 @@ Sự tập trung trong cổ phiếu niêm yết này thực ra đã *giảm* tro
 
 Không đồng đều. Sở hữu của GLIC tập trung vào các phần của nền kinh tế thâm dụng vốn, được quản lý chặt, hoặc nhạy cảm về mặt chiến lược — các ngành mà một chính phủ ít sẵn lòng để lại hoàn toàn cho tay tư nhân nhất.
 
-- **Ngân hàng và tài chính** — Maybank (ngân hàng lớn nhất nước, được kiểm soát qua PNB), CIMB Group và RHB Bank đều được GLIC neo giữ. Một cuộc rà soát kéo dài cả thập kỷ phát hiện các GLIC nắm giữ ít nhất 30% cổ phần trong 46 công ty niêm yết, với các ngân hàng lớn nằm trong số những đơn vị hoạt động ổn định nhất.
+- **Ngân hàng và tài chính** — [Maybank](/vi/companies/maybank) (ngân hàng lớn nhất nước, được kiểm soát qua PNB), [CIMB Group](/vi/companies/cimb) và RHB Bank đều được GLIC neo giữ. Một cuộc rà soát kéo dài cả thập kỷ phát hiện các GLIC nắm giữ ít nhất 30% cổ phần trong 46 công ty niêm yết, với các ngân hàng lớn nằm trong số những đơn vị hoạt động ổn định nhất.
 - **Tiện ích và năng lượng** — Tenaga Nasional vận hành lưới điện quốc gia; Gas Malaysia và các đơn vị niêm yết liên kết với Petronas bao phủ khí đốt và hóa dầu. Tiện ích gần với một thế độc quyền tự nhiên của nhà nước, nên sở hữu của GLIC ở đây là sâu nhất.
-- **Viễn thông** — Telekom Malaysia (đơn vị chủ lực về cố định và băng rộng) và đơn vị trung tâm dữ liệu TIME dotCom nằm bên cạnh các cổ phần của GLIC trong các nhà mạng di động.
+- **Viễn thông** — [Telekom Malaysia](/vi/companies/telekom-malaysia) (đơn vị chủ lực về cố định và băng rộng) và đơn vị trung tâm dữ liệu TIME dotCom nằm bên cạnh các cổ phần của GLIC trong các nhà mạng di động.
 - **Đồn điền** — [Sime Darby](/vi/companies/sime-darby-group) và Boustead Plantations đặt nhà nước vào trung tâm của nền kinh tế dầu cọ của Malaysia.
 
 Khuôn mẫu chung là nhất quán: sự nắm giữ của nhà nước chặt nhất trong hạ tầng và tài chính, lỏng hơn trong các ngành hướng tới người tiêu dùng và chế tạo xuất khẩu nơi các doanh nghiệp tư nhân và nước ngoài dẫn đầu.

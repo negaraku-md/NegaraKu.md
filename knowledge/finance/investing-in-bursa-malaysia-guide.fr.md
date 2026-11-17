@@ -34,7 +34,7 @@ faq:
     a: "Trois frais s'appliquent à l'achat comme à la vente : la commission du courtier (fixée par votre courtier), des frais de compensation de 0.03% de la valeur de la transaction plafonnés à RM1,000, et un droit de timbre de RM1 par tranche de RM1,000 (ou fraction) de valeur, plafonné à RM1,000. Le courtage sur les actions cotées sur Bursa Malaysia est actuellement exonéré de la taxe sur les services."
 
 lang: "fr"
-sourceContentHash: "2aa2d9243406a229"
+sourceContentHash: "17c8242447ac4a60"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,7 +97,7 @@ keywords: ["CDS account", "Bursa Anywhere", "stockbroker Malaysia", "how to buy 
 framework: how-to
 ---
 
-Posséder une part de Maybank ou de Tenaga commence par deux comptes, pas un — et aucun des deux n'est un compte bancaire. Avant de pouvoir acheter une seule action sur Bursa Malaysia, il vous faut un endroit où *détenir* les actions et un endroit où *passer l'ordre*. Voici comment les deux s'articulent, et ce que chaque transaction coûte réellement.
+Posséder une part de [Maybank](/fr/companies/maybank) ou de Tenaga commence par deux comptes, pas un — et aucun des deux n'est un compte bancaire. Avant de pouvoir acheter une seule action sur Bursa Malaysia, il vous faut un endroit où *détenir* les actions et un endroit où *passer l'ordre*. Voici comment les deux s'articulent, et ce que chaque transaction coûte réellement.
 
 ## De quoi ai-je réellement besoin pour commencer ?
 

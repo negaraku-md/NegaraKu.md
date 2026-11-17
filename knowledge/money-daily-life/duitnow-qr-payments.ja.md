@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1b31c1f5d1b3682f"
+sourceContentHash: "df04ec38e7fc7b1e"
 
 status: "published"
 aiAssisted: true
@@ -76,7 +76,7 @@ keywords: ["DuitNow", "DuitNow QR", "PayNet", "pembayaran segera Malaysia", "kod
 framework: explainer
 ---
 
-ある夜市の屋台の店主は、QRコードを 1 つだけ掲示しています。Maybank のアプリを使う客がそれを読み取ります。次の客は Touch 'n Go eWallet を使い、**同じ** QRコードを読み取ります。どちらの支払いも数秒で店主の口座に届きます。銀行や電子ウォレットごとに別々の QRコードを用意する必要はありません——これが、DuitNow QR が舞台裏で静かに機能している仕組みです。
+ある夜市の屋台の店主は、QRコードを 1 つだけ掲示しています。[Maybank](/ja/companies/maybank) のアプリを使う客がそれを読み取ります。次の客は Touch 'n Go eWallet を使い、**同じ** QRコードを読み取ります。どちらの支払いも数秒で店主の口座に届きます。銀行や電子ウォレットごとに別々の QRコードを用意する必要はありません——これが、DuitNow QR が舞台裏で静かに機能している仕組みです。
 
 ## DuitNow：口座番号ではなく電話番号で送る
 

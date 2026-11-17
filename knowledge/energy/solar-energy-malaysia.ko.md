@@ -31,7 +31,7 @@ faq:
     a: "에너지위원회(Energy Commission)가 주된 규제 기관입니다. SEDA Malaysia가 NEM을 실행하고, 단일구매자(TNB 산하)가 CGPP, CRESS, CREAM 같은 시장 프로그램을 조정합니다."
 
 lang: "ko"
-sourceContentHash: "69ed2a98233b72ad"
+sourceContentHash: "57d271bf1ff95022"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -116,7 +116,7 @@ framework: explainer
 
 ## NEM 3.0은 가정과 사업체를 위해 어떻게 작동합니까?
 
-NEM은 일반인에게 가장 흔한 경로입니다. 지붕에 태양광 패널을 설치하고, 생산한 에너지를 먼저 사용한 뒤, 잉여를 국가전력공사(Tenaga Nasional Berhad, TNB) 그리드로 보냅니다. NEM 3.0 아래에서 상계는 "1대1"로 이루어집니다 — 그리드로 보낸 킬로와트시마다 그리드에서 가져온 킬로와트시 하나와 상계됩니다.
+NEM은 일반인에게 가장 흔한 경로입니다. 지붕에 태양광 패널을 설치하고, 생산한 에너지를 먼저 사용한 뒤, 잉여를 국가전력공사([Tenaga Nasional Berhad](/ko/companies/tenaga-nasional), TNB) 그리드로 보냅니다. NEM 3.0 아래에서 상계는 "1대1"로 이루어집니다 — 그리드로 보낸 킬로와트시마다 그리드에서 가져온 킬로와트시 하나와 상계됩니다.
 
 SEDA의 RE 포털에 따르면, NEM 3.0은 2025년 6월 30일까지의 기간에 총 2,500MW의 전체 쿼터로 운영됩니다. 세 개의 하위 프로그램으로 나뉩니다.
 

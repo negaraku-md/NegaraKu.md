@@ -34,7 +34,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8327877494bab4c8"
+sourceContentHash: "169a6cb2d99ed6ac"
 
 status: "published"
 aiAssisted: true
@@ -89,7 +89,7 @@ framework: explainer
 
 **Bahasa Malaysia:** Berhad · **English:** Public Limited Company · **中文:** 大众有限公司
 
-Apabila anda melihat "Bhd" di hujung nama sesebuah syarikat Malaysia — Malayan Banking Berhad milik Maybank, Public Bank Berhad, Tenaga Nasional Berhad — anda sedang melihat sebuah syarikat yang dibenarkan menjual sahamnya kepada orang yang tidak dikenali. Kebenaran tunggal itulah yang memisahkan sebuah Berhad daripada Sdn Bhd yang jauh lebih lazim, dan itulah sebabnya sebuah Berhad hidup di bawah set peraturan yang lebih berat.
+Apabila anda melihat "Bhd" di hujung nama sesebuah syarikat Malaysia — Malayan Banking Berhad milik [Maybank](/ms/companies/maybank), [Public Bank Berhad](/ms/companies/public-bank), [Tenaga Nasional Berhad](/ms/companies/tenaga-nasional) — anda sedang melihat sebuah syarikat yang dibenarkan menjual sahamnya kepada orang yang tidak dikenali. Kebenaran tunggal itulah yang memisahkan sebuah Berhad daripada Sdn Bhd yang jauh lebih lazim, dan itulah sebabnya sebuah Berhad hidup di bawah set peraturan yang lebih berat.
 
 "Berhad" hanyalah perkataan Melayu bagi "limited". Ia menandakan sebuah **syarikat awam berhad** di bawah Akta Syarikat 2016 (Akta 777), statut yang ditadbir oleh Suruhanjaya Syarikat Malaysia (SSM). Seperti sepupu persendiriannya, sebuah Berhad ialah entiti undang-undang yang berasingan yang boleh memiliki harta, menandatangani kontrak, serta mendakwa atau didakwa, dan liabiliti anggotanya terhad kepada jumlah yang masih belum dibayar bagi saham mereka.
 

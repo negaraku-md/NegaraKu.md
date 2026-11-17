@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a9fc5401e6cabfb3"
+sourceContentHash: "acfcc6c1e869263e"
 
 status: "published"
 aiAssisted: true
@@ -128,7 +128,7 @@ framework: profile
 
 **商業銀行**は日常業務の主力である。預金を受け入れ、個人・企業に融資を行い、貿易金融・資金業務を営み、ほとんどの人が接する支店網やカードネットワークを運営する。24の免許行は、国内で設立された銀行と、外国銀行の現地法人子会社の混合であり——後者にはCitibank Berhad、HSBC Bank Malaysia Berhad、Standard Chartered Bank Malaysia Berhad、Deutsche Bank (Malaysia) Berhad、MUFG Bank (Malaysia) Berhad、Bank of China (Malaysia) Berhadといった名前が含まれる。
 
-**投資銀行**はより狭く、より専門的である。10の免許行——Maybank Investment Bank、CIMB Investment Bank、AmInvestment Bank、Affin Hwang Investment Bank、MBSB Investment Bankを含む——は、企業アドバイザリー、資本市場における債務・株式の調達、ストラクチャードファイナンスに集中する。商業銀行のように個人預金を追い求めることはしない。
+**投資銀行**はより狭く、より専門的である。10の免許行——[Maybank](/ja/companies/maybank) Investment Bank、CIMB Investment Bank、AmInvestment Bank、Affin Hwang Investment Bank、MBSB Investment Bankを含む——は、企業アドバイザリー、資本市場における債務・株式の調達、ストラクチャードファイナンスに集中する。商業銀行のように個人預金を追い求めることはしない。
 
 いずれのカテゴリーも同一の法律、すなわちFSA 2013のもとで免許を受けている。両者の多く（どちら側であれ）は、従来型業務と並行してシャリーア準拠商品を提供する承認済みの部門である**イスラム銀行窓口**も運営している。
 

@@ -27,7 +27,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0cc7d7d79dcaf765"
+sourceContentHash: "d020cec4f4cc6614"
 
 status: "published"
 aiAssisted: true
@@ -118,7 +118,7 @@ framework: how-to
 离到期不足六个月，银行就有理由直接拒绝该申请，不论你实际在马来西亚居住
 了多久。第二，银行仍然可能要求清单以外的文件，或进行额外查核——CIMB 自
 己的页面明确说明，可能会要求提供「未列出的额外辅助文件」，而其他银行
-（Maybank、Public Bank、Hong Leong、RHB）公布的清单大致相似但并不完全相
+（[Maybank](/zh/companies/maybank)、Public Bank、Hong Leong、RHB）公布的清单大致相似但并不完全相
 同，因此最稳妥的做法始终是，在前往分行之前先查阅该特定银行的最新页面。
 
 ## 为什么旅游签证行不通

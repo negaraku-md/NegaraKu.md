@@ -27,7 +27,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0cc7d7d79dcaf765"
+sourceContentHash: "d020cec4f4cc6614"
 
 status: "published"
 aiAssisted: true
@@ -121,7 +121,7 @@ framework: how-to
 残り期間が満了まで6か月未満の場合、あなたが実際にどれだけの期間マレーシアに住んでいたかに
 かかわらず、銀行はその申請をそのまま拒絶する根拠となる。第二に、銀行はこのリスト以外の
 書類を求めたり、追加の照会を行ったりすることがある——CIMB自身のページは、「記載のない追加の
-補足書類」を求めることがあると明言しており、他の銀行（Maybank、Public Bank、Hong Leong、
+補足書類」を求めることがあると明言しており、他の銀行（[Maybank](/ja/companies/maybank)、Public Bank、Hong Leong、
 RHB）が公表するリストはおおむね類似しているが同一ではない。そのため、最も安全な手立ては、
 常に支店を訪れる前に当該銀行の最新ページを確認することである。
 

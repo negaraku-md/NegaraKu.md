@@ -35,7 +35,7 @@ faq:
     a: "Sí. Durante la fase fundacional (los primeros tres a cinco años), el marco de BNM limita los activos totales de cada banco digital a no más de RM3 mil millones. Esto permite a BNM observar el desempeño y el riesgo antes de que los bancos crezcan más."
 
 lang: "es"
-sourceContentHash: "586acae3d2012d4e"
+sourceContentHash: "9cfc6ac5098839e4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -102,7 +102,7 @@ Pero ¿qué es exactamente un «banco digital», quién posee las licencias y, l
 
 ## ¿Cuál es la diferencia entre un banco digital y un banco tradicional?
 
-Legalmente, un banco digital es un banco pleno, no una mera aplicación de monedero electrónico. Tiene licencia bajo la misma legislación bancaria que Maybank o CIMB, puede captar depósitos y puede conceder préstamos. La diferencia clave es cómo opera: íntegramente a través de canales digitales, sin ninguna red de sucursales físicas.
+Legalmente, un banco digital es un banco pleno, no una mera aplicación de monedero electrónico. Tiene licencia bajo la misma legislación bancaria que [Maybank](/es/companies/maybank) o CIMB, puede captar depósitos y puede conceder préstamos. La diferencia clave es cómo opera: íntegramente a través de canales digitales, sin ninguna red de sucursales físicas.
 
 BNM emitió el Marco de concesión de licencias para bancos digitales a finales de 2020, y el 29 de abril de 2022 anunció cinco solicitantes exitosos aprobados por el Ministro de Finanzas. Ese marco establece una «fase fundacional» —los primeros tres a cinco años— durante la cual cada banco digital tiene un límite de activos totales de no más de RM3 mil millones y debe mantener un capital de al menos RM100 millones no mermado por pérdidas. El límite está diseñado para permitir que BNM observe el desempeño y el riesgo antes de que se permita a estos bancos crecer más.
 

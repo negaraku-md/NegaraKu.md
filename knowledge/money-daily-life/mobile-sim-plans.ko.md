@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "말레이시아에서 현지 휴대폰 SIM을 구매하거나 등록해야 하는 모든 사람 — 시민, 거주자, 취업 패스 소지자, 학생, 관광객."
 
 lang: "ko"
-sourceContentHash: "5f238099826ab02d"
+sourceContentHash: "a99a6fb1aad234c9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,7 +85,7 @@ framework: explainer
 | Maxis | Hotlink | 자체 후불과 Hotlink 선불 회선 운영 |
 | U Mobile | Unlimited Funz Prepaid | 말레이시아의 세 번째 국가망 사업자 |
 
-두 소규모 업체 — **Yes**(YTL Communications)와 **Unifi Mobile**(Telekom Malaysia) — 는 위 셋과 나란히 자체 4G/LTE 망을 운영하며, 흔히 가정용 광대역과 묶입니다. 어느 사업자를 고르든, 아래의 등록 요건은 동일하게 적용됩니다.
+두 소규모 업체 — **Yes**(YTL Communications)와 **Unifi Mobile**([Telekom Malaysia](/ko/companies/telekom-malaysia)) — 는 위 셋과 나란히 자체 4G/LTE 망을 운영하며, 흔히 가정용 광대역과 묶입니다. 어느 사업자를 고르든, 아래의 등록 요건은 동일하게 적용됩니다.
 
 ## 등록은 의무이며 — 무료다
 

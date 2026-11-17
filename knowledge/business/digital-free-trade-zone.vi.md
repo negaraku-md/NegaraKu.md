@@ -47,7 +47,7 @@ verificationNeeded:
   - "Bất kỳ con số thông lượng hay giá trị thương mại nào của DFTZ sau năm 2020. Không có con số nào tồn tại từ một nguồn chính thức, và sau khi MAHB hủy niêm yết vào ngày 25 tháng 2 năm 2025 không thể có được con số nào — đây là điều không thể có được về mặt cấu trúc, không chỉ đơn thuần là chưa tìm thấy."
 
 lang: "vi"
-sourceContentHash: "b20fb73bf5494f07"
+sourceContentHash: "ea2e8bc121b7ae31"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -185,7 +185,7 @@ tự do thông thường tại Sân bay Quốc tế Kuala Lumpur** — **Act 438
 Lumpur International Airport, Sepang", cột hoạt động "Commercial"**, giới hạn bởi Gazette Plans
 1207, 1981, 3004 và 1376 của Cục Khảo sát Selangor. Nó được tuyên bố theo mục 3(1) bằng cùng cơ
 chế như Pasir Gudang, Port Klang và Tanjung Pelepas, và Cơ quan Thẩm quyền được chỉ định của nó
-là **Malaysia Airports Holdings Berhad**. Không gì phân biệt nó trong luật.
+là **[Malaysia Airports Holdings Berhad](/vi/companies/malaysia-airports-mahb)**. Không gì phân biệt nó trong luật.
 
 Đó là điều hữu ích nhất cần hiểu ở đây. **DFTZ là một thương hiệu chính sách và một chương
 trình tạo điều kiện, được xếp lớp lên trên cơ chế khu tự do thông thường** — không phải một

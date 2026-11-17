@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f87521b3f50e5c77"
+sourceContentHash: "678b132c5368b3aa"
 
 status: "published"
 aiAssisted: true
@@ -116,7 +116,7 @@ TM juga ialah rakan penyampaian utama bagi **JENDELA** (Jalinan Digital Negara),
 
 ## Skala dan Kepentingan
 
-TM melaporkan hasil kumpulan kira-kira RM11.71 bilion bagi tahun kewangan yang berakhir 31 Disember 2024 dan keuntungan bersih kira-kira RM2.0 bilion, dengan pelanggan jalur lebar tetap kira-kira 3.179 juta (kesemuanya angka TK2024, yang berubah dari semasa ke semasa). Pemilikannya mencerminkan statusnya sebagai syarikat berkaitan kerajaan: Khazanah Nasional dan Kumpulan Wang Simpanan Pekerja ialah pemegang saham terbesarnya, bersama-sama Kumpulan Wang Persaraan (Diperbadankan) dan institusi lain. Yang terpenting, kerajaan memegang satu **Special Rights Redeemable Preference Share** — satu 「saham emas」 — yang membawa hak khas ke atas keputusan korporat tertentu dan pelantikan kanan, satu ciri biasa bagi utiliti strategik Malaysia yang telah diswastakan.
+TM melaporkan hasil kumpulan kira-kira RM11.71 bilion bagi tahun kewangan yang berakhir 31 Disember 2024 dan keuntungan bersih kira-kira RM2.0 bilion, dengan pelanggan jalur lebar tetap kira-kira 3.179 juta (kesemuanya angka TK2024, yang berubah dari semasa ke semasa). Pemilikannya mencerminkan statusnya sebagai syarikat berkaitan kerajaan: Khazanah Nasional dan Kumpulan Wang Simpanan Pekerja ialah pemegang saham terbesarnya, bersama-sama [Kumpulan Wang Persaraan](/ms/companies/kwap) (Diperbadankan) dan institusi lain. Yang terpenting, kerajaan memegang satu **Special Rights Redeemable Preference Share** — satu 「saham emas」 — yang membawa hak khas ke atas keputusan korporat tertentu dan pelantikan kanan, satu ciri biasa bagi utiliti strategik Malaysia yang telah diswastakan.
 
 ## Mengapa Ia Penting
 

@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f87521b3f50e5c77"
+sourceContentHash: "678b132c5368b3aa"
 
 status: "published"
 aiAssisted: true
@@ -116,7 +116,7 @@ TM 也是 **JENDELA**（Jalinan Digital Negara，国家数码连接计划）的�
 
 ## 规模与重要性
 
-TM 报告截至2024年12月31日止财政年集团营收约为 RM11.71 billion、净利约 RM2.0 billion，固网宽带用户约为317.9万（全为2024财政年数字，会随时间变动）。其所有权反映了它作为政府关联公司的地位：国库控股（Khazanah Nasional）与公积金局（EPF）是其最大股东，另有退休基金（法人化）（Kumpulan Wang Persaraan (Diperbadankan)，KWAP）等机构。至关重要的是，政府持有单独一股 **特别权利可赎回优先股**——一股「金股」——它对某些企业决策与高层委任附带特别权利，这是马来西亚私有化战略公用事业的一项常见特征。
+TM 报告截至2024年12月31日止财政年集团营收约为 RM11.71 billion、净利约 RM2.0 billion，固网宽带用户约为317.9万（全为2024财政年数字，会随时间变动）。其所有权反映了它作为政府关联公司的地位：国库控股（Khazanah Nasional）与公积金局（EPF）是其最大股东，另有退休基金（法人化）（[Kumpulan Wang Persaraan](/zh/companies/kwap) (Diperbadankan)，KWAP）等机构。至关重要的是，政府持有单独一股 **特别权利可赎回优先股**——一股「金股」——它对某些企业决策与高层委任附带特别权利，这是马来西亚私有化战略公用事业的一项常见特征。
 
 ## 为何重要
 

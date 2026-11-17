@@ -26,7 +26,7 @@ verificationNeeded:
   - "Tổng tài sản đầu tư và tổng số thành viên của EPF không thể được xác nhận độc lập qua việc truy xuất trực tiếp kwsp.gov.my (trang này trả về HTTP 403 cho việc truy xuất tự động); bài viết này cố ý bỏ qua mọi con số AUM hay số lượng thành viên chính xác của EPF thay vì công bố một con số chưa được xác minh — bổ sung cả hai, với một nguồn kwsp.gov.my, tại lần rà soát đầu tiên của con người"
 
 lang: "vi"
-sourceContentHash: "bde519fccc17693d"
+sourceContentHash: "b55efcf4efb4852f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -130,7 +130,7 @@ Việc được gộp lại vì mục đích chính sách không có nghĩa là 
 
 Khazanah Nasional Berhad — *khazanah* là từ tiếng Mã Lai chỉ «kho bạc» — được thành lập theo Companies Act 1965 vào ngày 3 tháng 9 năm 1993 và bắt đầu hoạt động vào năm sau đó trong vai trò trông coi, quản lý các tài sản thương mại hiện có của Chính phủ và đầu tư vào các lĩnh vực chiến lược và công nghệ cao. Ngoại trừ một cổ phần duy nhất do Federal Lands Commissioner nắm giữ, toàn bộ vốn cổ phần của nó thuộc sở hữu của Minister of Finance Incorporated, một cơ quan được thành lập theo Minister of Finance (Incorporation) Act 1957 [Act 375]. Trên thực tế, điều đó có nghĩa là vốn khởi đầu của Khazanah là chính các cổ phần của Chính phủ trong các công ty — không phải tiền thu từ các cá nhân.
 
-Ngày nay, danh mục của Khazanah được tổ chức thành một Danh mục Đầu tư (vốn cổ phần tư nhân, tài sản thực và thị trường công khai), một danh mục phát triển Dana Impak, các Tài sản Phát triển kế thừa, và các khoản nắm giữ Special Situations. Các vị thế niêm yết lớn bao gồm CIMB, Telekom Malaysia, Tenaga Nasional, IHH Healthcare, Axiata, Malaysia Airports và Astro.
+Ngày nay, danh mục của Khazanah được tổ chức thành một Danh mục Đầu tư (vốn cổ phần tư nhân, tài sản thực và thị trường công khai), một danh mục phát triển Dana Impak, các Tài sản Phát triển kế thừa, và các khoản nắm giữ Special Situations. Các vị thế niêm yết lớn bao gồm CIMB, [Telekom Malaysia](/vi/companies/telekom-malaysia), Tenaga Nasional, [IHH Healthcare](/vi/companies/ihh-healthcare), Axiata, Malaysia Airports và Astro.
 
 Cho năm 2025, Khazanah báo cáo tài sản ròng RM105 tỷ, tổng tài sản RM156 tỷ, và lợi nhuận từ hoạt động RM5.6 tỷ — lợi nhuận 5,2% cho năm và lợi nhuận hằng năm hóa cuộn bảy năm 6,1%. Nó trả lại RM2 tỷ cho Chính phủ Liên bang dưới dạng cổ tức trong năm 2025, đưa đóng góp cổ tức lũy kế kể từ năm 2004 lên RM21.1 tỷ. Một năm trước đó, cho năm 2024, giá trị tài sản ròng ở mức RM103.6 tỷ trên lợi nhuận từ hoạt động RM5.1 tỷ và tỷ suất lợi nhuận NAV trọng số theo thời gian là 24,6% — một con số cao hơn nhiều so với mức trung bình dài hạn của nó, mà quỹ quy phần lớn cho các khoản lãi giá trị hợp lý và việc tái định vị danh mục, và theo sau một lợi nhuận 5,7% trong năm 2023 — với một cổ tức RM1 tỷ được trả cho năm đó và cổ tức lũy kế cho Chính phủ là RM19.1 tỷ vào thời điểm đó. Về dài hạn, Khazanah báo cáo RM93.1 tỷ lợi nhuận cổ đông lũy kế kể từ năm 2004, và NAV của nó đã tăng từ khoảng RM33 tỷ vào năm 2004 lên hơn RM104 tỷ, một tỷ lệ tăng trưởng kép hằng năm khoảng 5,9%.
 

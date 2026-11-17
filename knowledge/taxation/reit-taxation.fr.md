@@ -31,7 +31,7 @@ faq:
     a: "Généralement non. Lorsque le fonds est exonéré au titre de la section 61A, le revenu n'a pas été imposé, de sorte que la distribution ne comporte aucun crédit d'impôt au titre de la section 110 qu'un porteur de parts pourrait imputer. Un crédit ne naît que lorsque le fonds lui-même a été imposé (par exemple lorsqu'il a distribué moins de 90 %)."
 
 lang: "fr"
-sourceContentHash: "74ef95198966c611"
+sourceContentHash: "b78af90aa1ceb41e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -141,7 +141,7 @@ Tout dépend de votre taux marginal.
 - **Les particuliers non résidents et les investisseurs institutionnels étrangers** sont les perdants les plus nets : le forfait de 10 % est remplacé par des taux pouvant atteindre 30 %, ce qui rogne le rendement après impôt qui rendait les REIT malaisiens attrayants pour les capitaux étrangers.
 - **Les sociétés non résidentes** ne voient aucun changement : toujours 24 %, toujours libératoire.
 
-La raison invoquée pour mettre fin à la concession est que le secteur des REIT de la Malaisie est devenu une classe d'actifs largement acceptée qui n'a plus besoin d'un soutien fiscal préférentiel pour attirer des capitaux, le changement élargissant par ailleurs l'assiette fiscale en alignant les distributions des REIT sur les règles standard de l'impôt sur le revenu. La recherche côté vendeur a globalement convenu que le changement entame davantage le moral que les fondamentaux : Maybank Investment Bank a estimé que les rendements nets de distribution continueraient de s'établir en moyenne entre environ 4,7 % et 6 % et resteraient compétitifs face à d'autres secteurs, et d'autres maisons — dont BIMB Securities et RHB Research — ont maintenu des recommandations constructives sur le secteur.
+La raison invoquée pour mettre fin à la concession est que le secteur des REIT de la Malaisie est devenu une classe d'actifs largement acceptée qui n'a plus besoin d'un soutien fiscal préférentiel pour attirer des capitaux, le changement élargissant par ailleurs l'assiette fiscale en alignant les distributions des REIT sur les règles standard de l'impôt sur le revenu. La recherche côté vendeur a globalement convenu que le changement entame davantage le moral que les fondamentaux : [Maybank](/fr/companies/maybank) Investment Bank a estimé que les rendements nets de distribution continueraient de s'établir en moyenne entre environ 4,7 % et 6 % et resteraient compétitifs face à d'autres secteurs, et d'autres maisons — dont BIMB Securities et RHB Research — ont maintenu des recommandations constructives sur le secteur.
 
 ## Et ensuite
 

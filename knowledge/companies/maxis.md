@@ -116,7 +116,7 @@ The government then moved toward a **dual-network model**, under which a second 
 
 ## Scale and significance
 
-Maxis is one of a small number of operators that between them carry most of Malaysia's mobile and fixed-broadband traffic. Its main rivals are [Axiata](/companies/axiata) (whose Malaysian mobile business merged with Digi to form CelcomDigi), U Mobile and Telekom Malaysia. In a market where mobile penetration is very high and growth comes mainly from converged bundles — selling mobile, home broadband and digital services together — Maxis's push into home fibre and enterprise is central to its strategy.
+Maxis is one of a small number of operators that between them carry most of Malaysia's mobile and fixed-broadband traffic. Its main rivals are [Axiata](/companies/axiata) (whose Malaysian mobile business merged with Digi to form CelcomDigi), U Mobile and [Telekom Malaysia](/companies/telekom-malaysia). In a market where mobile penetration is very high and growth comes mainly from converged bundles — selling mobile, home broadband and digital services together — Maxis's push into home fibre and enterprise is central to its strategy.
 
 As a large, dividend-paying company on Bursa Malaysia, Maxis is also a significant holding for Malaysian institutional investors and pension funds, which gives its results and its regulatory position a weight beyond the telecoms sector itself.
 

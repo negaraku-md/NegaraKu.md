@@ -32,7 +32,7 @@ faq:
     a: "हाँ। कोई निजी कंपनी कंपनी अधिनियम 2016 के तहत सार्वजनिक कंपनी में परिवर्तित हो सकती है — आमतौर पर सदस्यों का एक विशेष संकल्प पारित करके, अपना नाम बदलकर «Berhad» पर समाप्त करके, और आवश्यक दस्तावेज़ Companies Commission of Malaysia (SSM) के पास जमा करके।"
 
 lang: "hi"
-sourceContentHash: "8327877494bab4c8"
+sourceContentHash: "169a6cb2d99ed6ac"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,7 +89,7 @@ framework: explainer
 
 **बहासा मलेशिया:** Berhad · **अंग्रेज़ी:** Public Limited Company · **चीनी:** 大众有限公司
 
-जब आप किसी मलेशियाई कंपनी के नाम के अंत में «Bhd» देखते हैं — Maybank की Malayan Banking Berhad, Public Bank Berhad, Tenaga Nasional Berhad — तो आप एक ऐसी कंपनी को देख रहे हैं जिसे अजनबियों को अपने शेयर बेचने की अनुमति है। वही एक अनुमति है जो किसी Berhad को कहीं अधिक सामान्य Sdn Bhd से अलग करती है, और यही वजह है कि Berhad नियमों के एक भारी समुच्चय के अधीन रहती है।
+जब आप किसी मलेशियाई कंपनी के नाम के अंत में «Bhd» देखते हैं — [Maybank](/hi/companies/maybank) की Malayan Banking Berhad, [Public Bank Berhad](/hi/companies/public-bank), [Tenaga Nasional Berhad](/hi/companies/tenaga-nasional) — तो आप एक ऐसी कंपनी को देख रहे हैं जिसे अजनबियों को अपने शेयर बेचने की अनुमति है। वही एक अनुमति है जो किसी Berhad को कहीं अधिक सामान्य Sdn Bhd से अलग करती है, और यही वजह है कि Berhad नियमों के एक भारी समुच्चय के अधीन रहती है।
 
 «Berhad» बस «सीमित» के लिए मलय शब्द है। यह कंपनी अधिनियम 2016 (Act 777) के तहत एक **सार्वजनिक सीमित कंपनी** को इंगित करता है, वह क़ानून जिसका प्रशासन Companies Commission of Malaysia (SSM) करता है। अपनी निजी चचेरी बहन की तरह, Berhad एक पृथक विधिक व्यक्ति है जो संपत्ति रख सकती है, अनुबंध पर हस्ताक्षर कर सकती है, और वाद दायर कर सकती है या उस पर वाद दायर हो सकता है, और उसके सदस्यों का दायित्व उनके शेयरों पर अदत्त राशि तक सीमित रहता है।
 

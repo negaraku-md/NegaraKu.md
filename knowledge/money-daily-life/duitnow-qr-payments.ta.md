@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1b31c1f5d1b3682f"
+sourceContentHash: "df04ec38e7fc7b1e"
 
 status: "published"
 aiAssisted: true
@@ -77,7 +77,7 @@ keywords: ["DuitNow", "DuitNow QR", "PayNet", "pembayaran segera Malaysia", "kod
 framework: explainer
 ---
 
-ஒரு இரவுச் சந்தை கடை வணிகர் ஒரேயொரு QR குறியீட்டை மட்டும் காட்டுகிறார். Maybank
+ஒரு இரவுச் சந்தை கடை வணிகர் ஒரேயொரு QR குறியீட்டை மட்டும் காட்டுகிறார். [Maybank](/ta/companies/maybank)
 செயலியைப் பயன்படுத்தும் வாடிக்கையாளர் அதை ஸ்கேன் செய்கிறார். அடுத்த வாடிக்கையாளர்
 Touch 'n Go eWallet-ஐப் பயன்படுத்தி **அதே** QR குறியீட்டை ஸ்கேன் செய்கிறார். இரண்டு
 கட்டணங்களும் நொடிகளில் அந்த வணிகரின் கணக்கிற்கு வந்து சேருகின்றன. ஒவ்வொரு வங்கி

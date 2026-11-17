@@ -31,7 +31,7 @@ faq:
     a: "1992년 Telekom Malaysia의 국제·모바일 부문인 TM International Berhad로 설립되었습니다. Bursa Malaysia에 따로 상장된 뒤, 2009년 4월 2일 Axiata Group Berhad로 재브랜딩되었습니다."
 
 lang: "ko"
-sourceContentHash: "beccce94b3261d31"
+sourceContentHash: "b02d2bf50fe3eddc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,7 +91,7 @@ Axiata Group Berhad는 말레이시아에 본사를 둔 지역 통신·디지털
 
 ## 역사: TM International에서 Axiata로
 
-Axiata의 뿌리는 옛 국영 독점 사업자 안에 있습니다. 1992년 6월 12일 [Telekom Malaysia](/ko/malaysia)의 국제·모바일 부문인 **TM International Berhad**로 설립되었습니다. 이후 수년에 걸쳐 신흥 아시아 시장 전역에서 이동통신 지분을 쌓았고, 2008년 Bursa Malaysia에 따로 상장되었습니다.
+Axiata의 뿌리는 옛 국영 독점 사업자 안에 있습니다. 1992년 6월 12일 [Telekom Malaysia](/ko/companies/telekom-malaysia)의 국제·모바일 부문인 **TM International Berhad**로 설립되었습니다. 이후 수년에 걸쳐 신흥 아시아 시장 전역에서 이동통신 지분을 쌓았고, 2008년 Bursa Malaysia에 따로 상장되었습니다.
 
 2009년 4월 2일 회사는 **Axiata Group Berhad**로 재브랜딩하여, 옛 모회사와 독립된 정체성과 말레이시아 유선 뿌리보다 지역 모바일 성장에 중점을 둔 전략을 알렸습니다. 그 이름은 이후 XL Axiata, Dialog Axiata 같은 여러 사업자가 함께 쓰는 우산 브랜드가 되었습니다.
 

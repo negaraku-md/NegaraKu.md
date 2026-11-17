@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Toute personne qui emménage dans une nouvelle maison ou un nouveau local en Malaisie et qui doit ouvrir, transférer ou clôturer un compte d'alimentation électrique — que ce soit en Malaisie péninsulaire, à Sabah ou au Sarawak."
 
 lang: "fr"
-sourceContentHash: "d7658ca7c2a68725"
+sourceContentHash: "163ba8d9c69cf9c9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -76,7 +76,7 @@ Vous avez les clés de votre nouveau logement, mais l'interrupteur ne fait rien.
 
 ## Trois compagnies, et non un système national
 
-L'alimentation électrique en Malaisie n'est pas gérée par un organisme unique. **Tenaga Nasional Berhad (TNB)** dessert la Malaisie péninsulaire via le portail myTNB et le réseau d'agences **Kedai Tenaga**. Sabah, en revanche, relève de **Sabah Electricity Sdn Bhd (SESB)**, et le Sarawak de **[Sarawak Energy Berhad](/energy/sarawak-energy-berhad)**. Les trois fonctionnent séparément, avec leurs propres formulaires de demande, leurs taux de dépôt et même leur propre terminologie — si bien qu'une recherche Google sur « comment demander l'électricité » qui ne renvoie que des guides TNB ne sert pas à grand-chose si la maison se trouve à Kota Kinabalu ou à Kuching.
+L'alimentation électrique en Malaisie n'est pas gérée par un organisme unique. **[Tenaga Nasional Berhad](/fr/companies/tenaga-nasional) (TNB)** dessert la Malaisie péninsulaire via le portail myTNB et le réseau d'agences **Kedai Tenaga**. Sabah, en revanche, relève de **Sabah Electricity Sdn Bhd (SESB)**, et le Sarawak de **[Sarawak Energy Berhad](/energy/sarawak-energy-berhad)**. Les trois fonctionnent séparément, avec leurs propres formulaires de demande, leurs taux de dépôt et même leur propre terminologie — si bien qu'une recherche Google sur « comment demander l'électricité » qui ne renvoie que des guides TNB ne sert pas à grand-chose si la maison se trouve à Kota Kinabalu ou à Kuching.
 
 ## Local neuf ou transfert d'un compte existant
 

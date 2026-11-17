@@ -26,7 +26,7 @@ verificationNeeded:
   - "أرقام الرسوم وحدود المعاملات مأخوذة مباشرة من موقع PayNet الرسمي وقت الكتابة؛ وتذكر PayNet أن الرسوم الفعلية قد تختلف بحسب كل بنك/محفظة إلكترونية"
 
 lang: "ar"
-sourceContentHash: "1b31c1f5d1b3682f"
+sourceContentHash: "df04ec38e7fc7b1e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,7 +78,7 @@ framework: explainer
 ---
 
 يعرض صاحب كشك في سوق ليلي رمز استجابة سريعة واحدًا. يمسحه عميل يستخدم تطبيق
-Maybank. والعميل التالي يستخدم Touch 'n Go eWallet، ويمسح **الرمز نفسه**.
+[Maybank](/ar/companies/maybank). والعميل التالي يستخدم Touch 'n Go eWallet، ويمسح **الرمز نفسه**.
 وتصل الدفعتان إلى حساب التاجر خلال ثوانٍ. لا يوجد رمز QR منفصل لكل بنك أو محفظة
 إلكترونية — هكذا يعمل DuitNow QR بهدوء خلف الكواليس.
 

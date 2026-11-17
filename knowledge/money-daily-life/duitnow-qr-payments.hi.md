@@ -26,7 +26,7 @@ verificationNeeded:
   - "शुल्क और लेनदेन-सीमा के आँकड़े लेखन के समय सीधे आधिकारिक PayNet वेबसाइट से लिए गए हैं; PayNet बताता है कि वास्तविक शुल्क प्रत्येक बैंक/ई-वॉलेट के अनुसार भिन्न हो सकते हैं"
 
 lang: "hi"
-sourceContentHash: "1b31c1f5d1b3682f"
+sourceContentHash: "df04ec38e7fc7b1e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,7 +77,7 @@ keywords: ["DuitNow", "DuitNow QR", "PayNet", "मलेशिया तत्�
 framework: explainer
 ---
 
-एक रात-बाज़ार के स्टॉल का मालिक एक ही QR कोड प्रदर्शित करता है। Maybank ऐप का
+एक रात-बाज़ार के स्टॉल का मालिक एक ही QR कोड प्रदर्शित करता है। [Maybank](/hi/companies/maybank) ऐप का
 उपयोग करने वाला एक ग्राहक उसे स्कैन करता है। अगला ग्राहक Touch 'n Go eWallet का
 उपयोग करता है और **उसी** QR कोड को स्कैन करता है। दोनों भुगतान कुछ ही सेकंड में
 व्यापारी के खाते में पहुँच जाते हैं। हर बैंक या ई-वॉलेट के लिए कोई अलग QR कोड नहीं

@@ -33,7 +33,7 @@ faq:
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f87521b3f50e5c77"
+sourceContentHash: "678b132c5368b3aa"
 
 status: "published"
 aiAssisted: true
@@ -116,7 +116,7 @@ TM es también un socio de ejecución central de **JENDELA** (Jalinan Digital Ne
 
 ## Escala y significación
 
-TM declaró ingresos del grupo de unos RM11.71 mil millones para el ejercicio financiero cerrado a 31 de diciembre de 2024 y un beneficio neto de aproximadamente RM2.0 mil millones, con abonados de banda ancha fija de unos 3.179 millones (todas cifras del FY2024, que cambian con el tiempo). Su propiedad refleja su condición de empresa vinculada al Gobierno: Khazanah Nasional y el Fondo de Previsión de los Empleados son sus mayores accionistas, junto a Kumpulan Wang Persaraan (Diperbadankan) y otras instituciones. De forma crucial, el Gobierno posee una única **Special Rights Redeemable Preference Share** —una «acción de oro»— que otorga derechos especiales sobre ciertas decisiones corporativas y nombramientos de alto nivel, una característica común de las utilidades estratégicas privatizadas de Malasia.
+TM declaró ingresos del grupo de unos RM11.71 mil millones para el ejercicio financiero cerrado a 31 de diciembre de 2024 y un beneficio neto de aproximadamente RM2.0 mil millones, con abonados de banda ancha fija de unos 3.179 millones (todas cifras del FY2024, que cambian con el tiempo). Su propiedad refleja su condición de empresa vinculada al Gobierno: Khazanah Nasional y el Fondo de Previsión de los Empleados son sus mayores accionistas, junto a [Kumpulan Wang Persaraan](/es/companies/kwap) (Diperbadankan) y otras instituciones. De forma crucial, el Gobierno posee una única **Special Rights Redeemable Preference Share** —una «acción de oro»— que otorga derechos especiales sobre ciertas decisiones corporativas y nombramientos de alto nivel, una característica común de las utilidades estratégicas privatizadas de Malasia.
 
 ## Por qué importa
 

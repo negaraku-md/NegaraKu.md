@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang thuê, mua hoặc dọn vào một ngôi nhà ở Malaysia cần đấu nối internet cố định."
 
 lang: "vi"
-sourceContentHash: "19befa5847e8b8f0"
+sourceContentHash: "bbd067458507d9b6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,7 +85,7 @@ mở rộng khả năng tiếp cận cáp quang đến hàng triệu cơ sở tr
 vùng phủ sóng có khả năng gigabit — một nỗ lực xây dựng trên nền tảng
 đường trục Băng thông rộng Tốc độ Cao (High Speed Broadband, HSBB) hiện có của đất nước.
 
-Đường trục đó thuộc sở hữu của **Telekom Malaysia (TM)**, đó là lý do **Unifi**
+Đường trục đó thuộc sở hữu của **[Telekom Malaysia](/vi/companies/telekom-malaysia) (TM)**, đó là lý do **Unifi**
 thường có phạm vi rộng nhất trong bất kỳ thương hiệu đơn lẻ nào, bao gồm ở các thị trấn và
 vùng ngoại ô nơi các nhà cung cấp internet khác chưa xây dựng. Nhưng "rộng" không phải là "khắp mọi nơi" —
 vùng phủ sóng vẫn khác nhau theo từng địa chỉ, đó là lý do mọi nhà cung cấp lớn

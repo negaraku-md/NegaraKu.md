@@ -29,7 +29,7 @@ faq:
     a: "Có. Ứng dụng SaveME 999 cho phép cảnh báo khẩn cấp dựa trên video, văn bản và đa phương tiện, không chỉ cuộc gọi thoại, để người khuyết tật cũng có thể liên hệ với tổng đài viên 999."
 
 lang: "vi"
-sourceContentHash: "a2e869579c3095a1"
+sourceContentHash: "12fd6b175920e02e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -76,7 +76,7 @@ Một số duy nhất — **999** — kết nối bạn với năm cơ quan kh�
 
 Cuộc gọi của bạn đi vào trung tâm điều hành **Malaysian Emergency Response Services (MERS 999)**, một hệ thống tích hợp kết hợp dịch vụ khẩn cấp của năm cơ quan dưới một số duy nhất. Tổng đài viên xác định loại tình huống khẩn cấp, vị trí và thông tin quan trọng, sau đó chuyển cuộc gọi cùng dữ liệu đó đến đúng cơ quan.
 
-Hệ thống này được xây dựng bằng công nghệ điều phối có máy tính hỗ trợ, hệ thống thông tin địa lý (GIS), giao diện điện thoại-máy tính, ghi âm giọng nói và hệ chuyên gia y tế — để cuộc gọi được xử lý một cách đồng nhất trên tất cả các cơ quan. Cuộc gọi đến 999 là **miễn phí** và được **ghi âm cùng theo dõi** nhằm ngăn chặn báo cáo giả. MERS 999 được vận hành thông qua sự hợp tác giữa Chính phủ Malaysia và Telekom Malaysia Berhad.
+Hệ thống này được xây dựng bằng công nghệ điều phối có máy tính hỗ trợ, hệ thống thông tin địa lý (GIS), giao diện điện thoại-máy tính, ghi âm giọng nói và hệ chuyên gia y tế — để cuộc gọi được xử lý một cách đồng nhất trên tất cả các cơ quan. Cuộc gọi đến 999 là **miễn phí** và được **ghi âm cùng theo dõi** nhằm ngăn chặn báo cáo giả. MERS 999 được vận hành thông qua sự hợp tác giữa Chính phủ Malaysia và [Telekom Malaysia](/vi/companies/telekom-malaysia) Berhad.
 
 ## Có thể liên hệ những cơ quan nào qua 999?
 

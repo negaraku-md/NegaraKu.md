@@ -31,7 +31,7 @@ faq:
     a: "CIMB se décrit comme un groupe centré sur l'ASEAN opérant sur des marchés tels que la Malaisie, l'Indonésie, Singapour et la Thaïlande. RHB opère sur sept marchés régionaux. Maybank couvre trois marchés d'origine — la Malaisie, Singapour et l'Indonésie — en plus d'activités dans toute l'ASEAN et dans les principaux centres financiers mondiaux."
 
 lang: "fr"
-sourceContentHash: "81a33a10e5b5e6c3"
+sourceContentHash: "8ccc31809a8d6c39"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,7 +91,7 @@ keywords: ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong Bank", "banques 
 framework: profile
 ---
 
-Alignez les cinq noms qui dominent presque toutes les rues commerçantes de Malaisie — Maybank, CIMB, Public Bank, RHB et Hong Leong — et vous regardez le cœur d'un système bancaire qui règle les salaires, les prêts immobiliers et le commerce du pays. Toutes sont constituées en Malaisie, toutes cotées à Bursa Malaysia, et toutes agréées par la même banque centrale. Au-delà de cela, elles divergent nettement : l'une écrase les autres par la taille, certaines sont effectivement ancrées par le gouvernement, et deux sont encore dirigées par les familles qui les ont fondées.
+Alignez les cinq noms qui dominent presque toutes les rues commerçantes de Malaisie — [Maybank](/fr/companies/maybank), CIMB, Public Bank, RHB et Hong Leong — et vous regardez le cœur d'un système bancaire qui règle les salaires, les prêts immobiliers et le commerce du pays. Toutes sont constituées en Malaisie, toutes cotées à Bursa Malaysia, et toutes agréées par la même banque centrale. Au-delà de cela, elles divergent nettement : l'une écrase les autres par la taille, certaines sont effectivement ancrées par le gouvernement, et deux sont encore dirigées par les familles qui les ont fondées.
 
 ## Qui fait partie des « cinq grandes » banques de Malaisie ?
 
@@ -102,7 +102,7 @@ La comparaison la plus claire, à armes égales, entre les cinq est la rentabili
 | Groupe | Bénéfice net | Rentabilité des capitaux propres | Exercice financier |
 |---|---|---|---|
 | **Maybank** (Malayan Banking) | RM10.09 milliards | 11.1% | EF2024 (déc.) |
-| **CIMB Group** | RM7.73 milliards | 11.2% | EF2024 (déc.) |
+| **[CIMB Group](/fr/companies/cimb)** | RM7.73 milliards | 11.2% | EF2024 (déc.) |
 | **Public Bank** | RM7.15 milliards | 12.8% | EF2024 (déc.) |
 | **RHB Bank** | RM3.12 milliards | 10.04% | EF2024 (déc.) |
 | **Hong Leong Bank** | RM4.20 milliards | 11.8% | EF2024 (juin) |
@@ -127,7 +127,7 @@ Ici, les cinq se divisent nettement en deux camps. Trois sont ancrées par des *
 | CIMB | Khazanah Nasional, aux côtés de l'EPF, de KWAP et de PNB | Lié au gouvernement (GLIC) |
 | RHB Bank | Fonds de prévoyance des salariés (EPF) | Lié au gouvernement (GLIC) |
 | Public Bank | Famille Teh, via Consolidated Teh Holdings | Famille fondatrice |
-| Hong Leong Bank | Famille Quek, via Hong Leong Financial Group | Famille fondatrice |
+| Hong Leong Bank | Famille Quek, via [Hong Leong Financial Group](/fr/companies/hong-leong-financial-group) | Famille fondatrice |
 
 Pour **Maybank**, l'ancrage est Permodalan Nasional Berhad et son gigantesque fonds Amanah Saham Bumiputera, qui, ensemble, en font l'un des noms à l'actionnariat le plus largement réparti du pays. **CIMB** compte Khazanah Nasional — le fonds d'investissement stratégique de la Malaisie — parmi ses principaux actionnaires, aux côtés de l'EPF, du fonds de pension de la fonction publique KWAP et de PNB ; les investisseurs étrangers détenaient 29.7% de CIMB à fin juin 2026. **RHB** est ancrée par le Fonds de prévoyance des salariés, le fonds de retraite national, en tant qu'actionnaire individuel le plus important.
 

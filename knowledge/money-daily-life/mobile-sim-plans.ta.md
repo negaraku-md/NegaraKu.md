@@ -25,7 +25,7 @@ appliesTo: "மலேசியாவில் உள்ள எவரும் �
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5f238099826ab02d"
+sourceContentHash: "a99a6fb1aad234c9"
 
 status: "published"
 aiAssisted: true
@@ -105,7 +105,7 @@ framework: explainer
 | U Mobile | Unlimited Funz Prepaid | மலேசியாவின் மூன்றாவது தேசிய நெட்வொர்க் ஆபரேட்டர் |
 
 இரண்டு சிறிய நிறுவனங்கள் — **Yes** (YTL Communications) மற்றும் **Unifi Mobile**
-(Telekom Malaysia) — மேற்கண்ட மூன்றுடன் சேர்ந்து தங்கள் சொந்த 4G/LTE நெட்வொர்க்குகளை
+([Telekom Malaysia](/ta/companies/telekom-malaysia)) — மேற்கண்ட மூன்றுடன் சேர்ந்து தங்கள் சொந்த 4G/LTE நெட்வொர்க்குகளை
 இயக்குகின்றன, பெரும்பாலும் வீட்டு பிராட்பேண்டுடன் இணைத்து வழங்கப்படுகின்றன. நீங்கள்
 எந்த ஆபரேட்டரைத் தேர்ந்தெடுத்தாலும், கீழே உள்ள பதிவுத் தேவை ஒரே மாதிரியாகப்
 பொருந்தும்.

@@ -26,7 +26,7 @@ verificationNeeded:
   - "Le total des actifs d'investissement de l'EPF et le nombre total de membres n'ont pas pu être confirmés de façon indépendante par récupération directe sur kwsp.gov.my (le site renvoie un HTTP 403 à la récupération automatisée) ; cet article omet délibérément tout chiffre précis d'encours sous gestion ou de nombre de membres de l'EPF plutôt que d'en publier un non vérifié — à ajouter tous les deux, avec une source kwsp.gov.my, à la première revue humaine"
 
 lang: "fr"
-sourceContentHash: "bde519fccc17693d"
+sourceContentHash: "b55efcf4efb4852f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -153,7 +153,7 @@ Aujourd'hui, le portefeuille de Khazanah est organisé en un Portefeuille
 d'investissements (capital-investissement, actifs réels et marchés publics), un
 portefeuille de développement Dana Impak, des Actifs de développement hérités et des
 positions de Situations spéciales. Parmi les principales positions cotées figurent
-CIMB, Telekom Malaysia, Tenaga Nasional, IHH Healthcare, Axiata, Malaysia Airports et
+CIMB, [Telekom Malaysia](/fr/companies/telekom-malaysia), Tenaga Nasional, [IHH Healthcare](/fr/companies/ihh-healthcare), Axiata, Malaysia Airports et
 Astro.
 
 Pour 2025, Khazanah a déclaré des actifs nets de RM105 milliards, des actifs totaux

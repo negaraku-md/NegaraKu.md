@@ -145,7 +145,7 @@ Instead of one network everyone shares, Malaysia decided to have two networks th
 - **1 November 2024** — MCMC announced U Mobile as the winner of the second 5G network.
 - **31 December 2024** — Ministerial Direction No. 4 of 2024 revoked the 2021 single-wholesale-network direction, formally ending DNB's monopoly and enshrining the dual-network model.
 
-Four operators bid for the second network — CelcomDigi, Maxis, U Mobile and Telekom Malaysia. MCMC selected U Mobile after what it described as a rigorous review of technical and commercial plans, and allocated it 700MHz (a 2×20MHz block) and 3.5GHz (a 100MHz block) to build the network.
+Four operators bid for the second network — CelcomDigi, Maxis, U Mobile and [Telekom Malaysia](/companies/telekom-malaysia). MCMC selected U Mobile after what it described as a rigorous review of technical and commercial plans, and allocated it 700MHz (a 2×20MHz block) and 3.5GHz (a 100MHz block) to build the network.
 
 Winning came with a condition: U Mobile had to divest its stake in DNB and leave that network to concentrate on its own. In **May 2025** it divested its DNB shareholding and offboarded from the network, leaving CelcomDigi, Maxis and YTL each holding 19.44%. U Mobile launched its ULTRA5G network on **18 August 2025**, going live first at Berjaya Times Square, which it billed as the country's first fully 5G-enabled shopping centre.
 

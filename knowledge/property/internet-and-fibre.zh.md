@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "任何在马来西亚租房、购房或搬迁入住、需要接通固定宽带的人士。"
 
 lang: "zh"
-sourceContentHash: "19befa5847e8b8f0"
+sourceContentHash: "bbd067458507d9b6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,7 +82,7 @@ Multimedia Commission，MCMC）主管下推行的全国联通行动。其第一�
 是把光纤接入扩展到全国数以百万计的房产，并扩大具千兆能力的覆盖——这项行动建
 立在该国既有的高速宽带（High Speed Broadband，HSBB）骨干网络之上。
 
-那个骨干网络归 **Telekom Malaysia（TM）** 所有，这正是为什么 **Unifi** 往往
+那个骨干网络归 **[Telekom Malaysia](/zh/companies/telekom-malaysia)（TM）** 所有，这正是为什么 **Unifi** 往往
 比任何单一品牌覆盖得更广，包括在其他 ISP 尚未铺网的城镇与郊区。但「广」不等
 于「无处不在」——覆盖率仍然因地址而异，这正是为什么每一家主要供应商都把覆盖
 查询工具放在自家网站最显眼的位置，而不是叫你先注册再看结果。

@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e0c5ddbcc6a8b0ca"
+sourceContentHash: "9379d91bcd56a69d"
 
 status: "published"
 aiAssisted: true
@@ -192,7 +192,7 @@ Investment, NCI)** அனுமதிக்கப்படுவதாக வி
 உடல்ரீதியாக அமைந்துள்ளது, **2023 டிசம்பர் 1** முதல் இயங்கி வருகிறது. இது
 உள்நாட்டு வருவாய் வாரியம் (Inland Revenue Board), குடிவரவுத் துறை, மலேசிய அரச
 சுங்கத் துறை, மலேசிய தகவல்தொடர்பு மற்றும் மல்டிமீடியா ஆணையம், தீபகற்ப மலேசிய
-தொழிலாளர் துறை, Tenaga Nasional Berhad மற்றும் Telekom Malaysia Berhad
+தொழிலாளர் துறை, [Tenaga Nasional Berhad](/ta/companies/tenaga-nasional) மற்றும் [Telekom Malaysia](/ta/companies/telekom-malaysia) Berhad
 ஆகியவற்றின் அதிகாரிகளை ஒரே உடல்ரீதியான இடத்திற்குக் கொண்டு வருகிறது; இதனால்
 அனுமதிக்கப்பட்ட ஒரு முதலீட்டாளரின் தொடர்நிலை அனுமதிகள், ஒவ்வொரு
 நிறுவனத்துக்கும் தனித்தனி பயணமின்றி நகர்கின்றன. அதன் பிறகு திறக்கப்பட்ட ஒரு

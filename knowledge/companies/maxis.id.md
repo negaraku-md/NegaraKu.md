@@ -33,7 +33,7 @@ faq:
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b2828cf36c6fd07d"
+sourceContentHash: "50d792c288399ed7"
 
 status: "published"
 aiAssisted: true
@@ -117,7 +117,7 @@ Pemerintah kemudian bergerak menuju **model jaringan ganda**, yang di dalamnya j
 
 ## Skala dan signifikansi
 
-Maxis adalah salah satu dari sejumlah kecil operator yang di antara mereka mengangkut sebagian besar lalu lintas seluler dan broadband tetap Malaysia. Pesaing utamanya adalah [Axiata](/id/companies/axiata) (yang bisnis seluler Malaysianya bergabung dengan Digi membentuk CelcomDigi), U Mobile, dan Telekom Malaysia. Di pasar yang penetrasi selulernya sangat tinggi dan pertumbuhannya datang terutama dari paket bundel terpadu — menjual seluler, broadband rumah, dan layanan digital secara bersamaan — dorongan Maxis ke fiber rumah dan enterprise menjadi inti strateginya.
+Maxis adalah salah satu dari sejumlah kecil operator yang di antara mereka mengangkut sebagian besar lalu lintas seluler dan broadband tetap Malaysia. Pesaing utamanya adalah [Axiata](/id/companies/axiata) (yang bisnis seluler Malaysianya bergabung dengan Digi membentuk CelcomDigi), U Mobile, dan [Telekom Malaysia](/id/companies/telekom-malaysia). Di pasar yang penetrasi selulernya sangat tinggi dan pertumbuhannya datang terutama dari paket bundel terpadu — menjual seluler, broadband rumah, dan layanan digital secara bersamaan — dorongan Maxis ke fiber rumah dan enterprise menjadi inti strateginya.
 
 Sebagai perusahaan besar pembayar dividen di Bursa Malaysia, Maxis juga merupakan kepemilikan signifikan bagi investor institusional dan dana pensiun Malaysia, yang memberi bobot pada hasil dan posisi regulatornya melampaui sektor telekomunikasi itu sendiri.
 

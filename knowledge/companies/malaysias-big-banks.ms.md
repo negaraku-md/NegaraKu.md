@@ -31,7 +31,7 @@ faq:
     a: "CIMB menggambarkan dirinya sebagai kumpulan berfokuskan ASEAN yang beroperasi di pelbagai pasaran termasuk Malaysia, Indonesia, Singapura dan Thailand. RHB beroperasi di tujuh pasaran serantau. Maybank merangkumi tiga pasaran utama — Malaysia, Singapura dan Indonesia — serta operasi merentasi ASEAN dan pusat kewangan global yang penting."
 
 lang: "ms"
-sourceContentHash: "81a33a10e5b5e6c3"
+sourceContentHash: "8ccc31809a8d6c39"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,7 +91,7 @@ keywords: ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong Bank", "Malaysia
 framework: profile
 ---
 
-Barislah lima nama yang mendominasi hampir setiap deretan kedai utama di Malaysia — Maybank, CIMB, Public Bank, RHB dan Hong Leong — dan anda sedang melihat teras sesebuah sistem perbankan yang menjelaskan gaji, gadai janji dan perdagangan negara. Kesemuanya diperbadankan di Malaysia, kesemuanya tersenarai di Bursa Malaysia, dan kesemuanya dilesenkan oleh bank pusat yang sama. Selain itu, ia berbeza dengan ketara: satu jauh mengatasi yang lain dari segi skala, sebahagiannya secara berkesan ditunjangi kerajaan, dan dua lagi masih dipandu oleh keluarga yang mengasaskannya.
+Barislah lima nama yang mendominasi hampir setiap deretan kedai utama di Malaysia — [Maybank](/ms/companies/maybank), CIMB, Public Bank, RHB dan Hong Leong — dan anda sedang melihat teras sesebuah sistem perbankan yang menjelaskan gaji, gadai janji dan perdagangan negara. Kesemuanya diperbadankan di Malaysia, kesemuanya tersenarai di Bursa Malaysia, dan kesemuanya dilesenkan oleh bank pusat yang sama. Selain itu, ia berbeza dengan ketara: satu jauh mengatasi yang lain dari segi skala, sebahagiannya secara berkesan ditunjangi kerajaan, dan dua lagi masih dipandu oleh keluarga yang mengasaskannya.
 
 ## Siapa yang tergolong sebagai salah satu "lima besar" bank Malaysia?
 
@@ -102,7 +102,7 @@ Perbandingan setara yang paling jelas merentasi kelima-limanya ialah keuntungan:
 | Kumpulan | Keuntungan bersih | Pulangan atas ekuiti | Tahun kewangan |
 |---|---|---|---|
 | **Maybank** (Malayan Banking) | RM10.09 bilion | 11.1% | TK2024 (Dis) |
-| **CIMB Group** | RM7.73 bilion | 11.2% | TK2024 (Dis) |
+| **[CIMB Group](/ms/companies/cimb)** | RM7.73 bilion | 11.2% | TK2024 (Dis) |
 | **Public Bank** | RM7.15 bilion | 12.8% | TK2024 (Dis) |
 | **RHB Bank** | RM3.12 bilion | 10.04% | TK2024 (Dis) |
 | **Hong Leong Bank** | RM4.20 bilion | 11.8% | TK2024 (Jun) |
@@ -127,7 +127,7 @@ Di sini kelima-limanya terbahagi dengan jelas kepada dua kem. Tiga ditunjangi ol
 | CIMB | Khazanah Nasional, bersama KWSP, KWAP dan PNB | Berkaitan kerajaan (GLIC) |
 | RHB Bank | Kumpulan Wang Simpanan Pekerja (KWSP) | Berkaitan kerajaan (GLIC) |
 | Public Bank | Keluarga Teh, melalui Consolidated Teh Holdings | Keluarga pengasas |
-| Hong Leong Bank | Keluarga Quek, melalui Hong Leong Financial Group | Keluarga pengasas |
+| Hong Leong Bank | Keluarga Quek, melalui [Hong Leong Financial Group](/ms/companies/hong-leong-financial-group) | Keluarga pengasas |
 
 Bagi **Maybank**, tunjangnya ialah Permodalan Nasional Berhad dan dana Amanah Saham Bumiputera gergasinya, yang bersama-sama menjadikannya salah satu nama yang paling meluas dipegang di negara ini. **CIMB** menyenaraikan Khazanah Nasional — dana pelaburan strategik Malaysia — bersama KWSP, dana pencen perkhidmatan awam KWAP dan PNB sebagai pemegang saham utamanya; pelabur asing memegang 29.7% CIMB pada akhir Jun 2026. **RHB** ditunjangi oleh Kumpulan Wang Simpanan Pekerja, dana persaraan negara, sebagai pemegang saham tunggal terbesarnya.
 

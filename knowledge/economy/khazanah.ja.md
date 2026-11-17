@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "bde519fccc17693d"
+sourceContentHash: "b55efcf4efb4852f"
 
 status: "published"
 aiAssisted: true
@@ -129,7 +129,7 @@ Khazanahは誰の個人退職口座も管理しておらず、公衆に受益証
 
 Khazanah Nasional Berhad——*khazanah*とはマレー語で「国庫」を意味する語である——は、1965年会社法（Companies Act 1965）のもとで1993年9月3日に法人化され、翌年、政府の既存の商業資産を管理し、戦略的・先端技術分野に投資する受託者としての役割で事業を開始した。連邦土地専員（Federal Lands Commissioner）が保有する1株を除き、その全株式資本は財務大臣（法人）——1957年財務大臣（法人化）法（Minister of Finance (Incorporation) Act 1957、Act 375）のもとで設立された機関——が保有している。実際には、これはKhazanahの当初資本が、個人から集めた資金ではなく、政府自身が保有していた各企業の持分であったことを意味する。
 
-現在、Khazanahのポートフォリオは、投資ポートフォリオ（プライベートエクイティ、実物資産、公開市場）、Dana Impak開発型ポートフォリオ、従来からの発展型資産（Developmental Assets）、そして特殊状況（Special Situations）持分に整理されている。主要な上場持分には、CIMB、Telekom Malaysia、Tenaga Nasional、IHH Healthcare、Axiata、Malaysia Airports、Astroが含まれる。
+現在、Khazanahのポートフォリオは、投資ポートフォリオ（プライベートエクイティ、実物資産、公開市場）、Dana Impak開発型ポートフォリオ、従来からの発展型資産（Developmental Assets）、そして特殊状況（Special Situations）持分に整理されている。主要な上場持分には、CIMB、[Telekom Malaysia](/ja/companies/telekom-malaysia)、Tenaga Nasional、[IHH Healthcare](/ja/companies/ihh-healthcare)、Axiata、Malaysia Airports、Astroが含まれる。
 
 2025年についてKhazanahは、純資産RM1,050億、総資産RM1,560億、営業利益RM56億を報告した——当年のリターンは5.2%、7年ローリング年率換算リターンは6.1%であった。2025年には連邦政府へ配当としてRM20億を還元し、2004年以降の累計配当拠出額はRM211億に達した。1年前の2024年には、純資産価値（NAV）はRM1,036億、営業利益はRM51億、NAV時間加重収益率（TWRR）は24.6%であった——これは長期平均を大きく上回る数値であり、同ファンドは主に公正価値評価益とポートフォリオの再編によるものとしている。これは2023年の5.7%のリターンに続くものであり、同年には配当RM10億が支払われ、その時点での政府への累計配当はRM191億であった。より長期で見ると、Khazanahは2004年以降の累計株主還元がRM931億に達したと報告しており、そのNAVは2004年の約RM330億から、現在ではRM1,040億超へと成長した——年平均成長率（CAGR）はおよそ5.9%である。
 

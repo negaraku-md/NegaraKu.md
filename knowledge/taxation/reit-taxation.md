@@ -140,7 +140,7 @@ It depends entirely on your marginal rate.
 - **Non-resident individuals and foreign institutional investors** are the clearest losers: the flat 10% is replaced by rates as high as 30%, which trims the post-tax yield that made Malaysian REITs attractive to overseas money.
 - **Non-resident companies** see no change at all — still 24%, still final.
 
-The reason given for ending the concession is that Malaysia's REIT sector has matured into a widely accepted asset class that no longer needs preferential tax support to attract capital, with the change also broadening the tax base by aligning REIT distributions with standard income tax rules. Sell-side research broadly agreed the change dents sentiment more than fundamentals: Maybank Investment Bank estimated net distribution yields would still average roughly 4.7% to 6% and remain competitive against other sectors, and other houses — including BIMB Securities and RHB Research — kept constructive calls on the space.
+The reason given for ending the concession is that Malaysia's REIT sector has matured into a widely accepted asset class that no longer needs preferential tax support to attract capital, with the change also broadening the tax base by aligning REIT distributions with standard income tax rules. Sell-side research broadly agreed the change dents sentiment more than fundamentals: [Maybank](/companies/maybank) Investment Bank estimated net distribution yields would still average roughly 4.7% to 6% and remain competitive against other sectors, and other houses — including BIMB Securities and RHB Research — kept constructive calls on the space.
 
 ## What's next
 

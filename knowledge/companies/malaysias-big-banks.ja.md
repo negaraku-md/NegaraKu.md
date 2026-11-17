@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "81a33a10e5b5e6c3"
+sourceContentHash: "8ccc31809a8d6c39"
 
 status: "published"
 aiAssisted: true
@@ -91,7 +91,7 @@ keywords: ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong Bank", "Malaysia
 framework: profile
 ---
 
-マレーシアのほぼすべての目抜き通りを席巻する五つの名前——Maybank、CIMB、Public Bank、RHB、Hong Leong——を並べてみると、そこに見えてくるのは、この国の給与、住宅ローン、貿易決済を担う銀行システムの中核である。これらはすべてマレーシアで設立され、すべてマレーシア証券取引所（Bursa Malaysia）に上場し、すべて同一の中央銀行から免許を受けている。しかしそれ以外の点では大きく異なる。一行が規模で他を圧倒し、一部は実質的に政府を後ろ盾とし、そして二行は今なお創業家によって舵取りされている。
+マレーシアのほぼすべての目抜き通りを席巻する五つの名前——[Maybank](/ja/companies/maybank)、CIMB、Public Bank、RHB、Hong Leong——を並べてみると、そこに見えてくるのは、この国の給与、住宅ローン、貿易決済を担う銀行システムの中核である。これらはすべてマレーシアで設立され、すべてマレーシア証券取引所（Bursa Malaysia）に上場し、すべて同一の中央銀行から免許を受けている。しかしそれ以外の点では大きく異なる。一行が規模で他を圧倒し、一部は実質的に政府を後ろ盾とし、そして二行は今なお創業家によって舵取りされている。
 
 ## マレーシアの「五大」銀行とは、どの銀行を指すのか？
 
@@ -102,7 +102,7 @@ framework: profile
 | グループ | 純利益 | 株主資本利益率（ROE） | 会計年度 |
 |---|---|---|---|
 | **Maybank**（Malayan Banking） | RM100.9億 | 11.1% | 2024年度（12月期） |
-| **CIMBグループ** | RM77.3億 | 11.2% | 2024年度（12月期） |
+| **[CIMBグループ](/ja/companies/cimb)** | RM77.3億 | 11.2% | 2024年度（12月期） |
 | **Public Bank** | RM71.5億 | 12.8% | 2024年度（12月期） |
 | **RHB Bank** | RM31.2億 | 10.04% | 2024年度（12月期） |
 | **Hong Leong Bank** | RM42.0億 | 11.8% | 2024年度（6月期） |
@@ -127,7 +127,7 @@ framework: profile
 | CIMB | Khazanah Nasional（KWSP、KWAP、PNBも株主） | 政府関連（GLIC） |
 | RHB Bank | KWSP（従業員積立基金） | 政府関連（GLIC） |
 | Public Bank | Teh一族（Consolidated Teh Holdings経由） | 創業家 |
-| Hong Leong Bank | Quek一族（Hong Leong Financial Group経由） | 創業家 |
+| Hong Leong Bank | Quek一族（[Hong Leong Financial Group](/ja/companies/hong-leong-financial-group)経由） | 創業家 |
 
 **Maybank**の場合、核となるのはPermodalan Nasional Berhadと、その傘下の巨大ファンドAmanah Saham Bumiputeraであり、両者が合わさって同行を国内で最も広く保有されている銘柄の一つにしている。**CIMB**は、マレーシアの戦略投資ファンドであるKhazanah Nasionalを筆頭に、KWSP、公務員年金基金（KWAP）、PNBを主要株主として挙げている。2026年6月末時点で、外国人投資家がCIMBの29.7%を保有していた。**RHB**は、国家退職基金であるKWSPを単一最大株主としている。
 

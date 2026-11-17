@@ -47,7 +47,7 @@ verificationNeeded:
   - "Statistik pemrosesan atau nilai dagang DFTZ apa pun setelah 2020. Tidak ada yang ada dari sumber resmi, dan setelah delisting MAHB pada 25 Februari 2025 tidak ada yang dapat diperoleh — ini secara struktural tidak dapat diperoleh, bukan sekadar tidak ditemukan."
 
 lang: "id"
-sourceContentHash: "b20fb73bf5494f07"
+sourceContentHash: "ea2e8bc121b7ae31"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -177,8 +177,7 @@ sebuah **zona perdagangan bebas biasa di Bandara Internasional Kuala Lumpur** �
 First Schedule Act 438, "Kuala Lumpur International Airport, Sepang", kolom aktivitas
 "Commercial"** — yang dibatasi oleh Peta Warta 1207, 1981, 3004 dan 1376 Departemen Ukur
 Selangor. Ia dideklarasikan di bawah s.3(1) melalui mekanisme yang sama seperti Pasir Gudang,
-Port Klang dan Tanjung Pelepas, dan Otoritas yang ditunjuk untuknya adalah **Malaysia
-Airports Holdings Berhad**. Tidak ada apa pun yang membedakannya dari segi hukum.
+Port Klang dan Tanjung Pelepas, dan Otoritas yang ditunjuk untuknya adalah **[Malaysia Airports Holdings Berhad](/id/companies/malaysia-airports-mahb)**. Tidak ada apa pun yang membedakannya dari segi hukum.
 
 Itulah satu-satunya hal paling penting untuk dipahami di sini. **DFTZ adalah merek kebijakan
 dan program fasilitasi, yang dilapiskan di atas mesin zona bebas konvensional** — bukan status

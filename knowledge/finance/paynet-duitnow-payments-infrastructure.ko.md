@@ -29,7 +29,7 @@ faq:
     a: "네. DuitNow QR은 상호운용되므로, 가맹점의 단일 QR 코드를 Touch 'n Go eWallet, GrabPay, Boost 같은 서로 다른 은행과 전자지갑으로 — 참여하는 한 — 스캔할 수 있습니다."
 
 lang: "ko"
-sourceContentHash: "d327e61449ac93b7"
+sourceContentHash: "4d9809544dd36b01"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ framework: profile
 
 Payments Network Malaysia Sdn Bhd(PayNet)은 스스로를 "말레이시아의 국가 지급결제 네트워크이자 중앙 금융 인프라"로 설명합니다. 두 개의 오래된 운영사 — 말레이시아 전자지급시스템(Malaysian Electronic Payment System, MEPS)과 말레이시아 전자청산공사(Malaysian Electronic Clearing Corporation, MyClear) — 의 합병을 통해 2017년 8월 1일에 설립되어, 이 나라의 고액 및 소매 지급결제 시스템을 하나의 지붕 아래로 모았습니다.
 
-중앙은행인 말레이시아 중앙은행(Bank Negara Malaysia, BNM)이 PayNet의 최대 주주입니다. 2025년 12월 의회 답변에서 재무부는 BNM의 지분을 35.5%로 밝히고, 중앙은행이 국가 지급결제 운영사에 대한 산업 참여를 넓히기 위해 그 보유 지분을 점진적으로 줄이는 장기 계획을 수립하고 있다고 말했습니다. 나머지 주식은 Maybank, CIMB, Public Bank를 포함한 11개 말레이시아 금융기관이 보유합니다. 소유권이 어느 단일 상업 주체에 있지 않고 산업 전반에 공유되기 때문에, PayNet은 회원 은행의 경쟁자가 아니라 공유되고 비경쟁적인 인프라로 운영되도록 구성되어 있습니다.
+중앙은행인 말레이시아 중앙은행(Bank Negara Malaysia, BNM)이 PayNet의 최대 주주입니다. 2025년 12월 의회 답변에서 재무부는 BNM의 지분을 35.5%로 밝히고, 중앙은행이 국가 지급결제 운영사에 대한 산업 참여를 넓히기 위해 그 보유 지분을 점진적으로 줄이는 장기 계획을 수립하고 있다고 말했습니다. 나머지 주식은 [Maybank](/ko/companies/maybank), CIMB, Public Bank를 포함한 11개 말레이시아 금융기관이 보유합니다. 소유권이 어느 단일 상업 주체에 있지 않고 산업 전반에 공유되기 때문에, PayNet은 회원 은행의 경쟁자가 아니라 공유되고 비경쟁적인 인프라로 운영되도록 구성되어 있습니다.
 
 ## PayNet은 실제로 무엇을 운영합니까?
 

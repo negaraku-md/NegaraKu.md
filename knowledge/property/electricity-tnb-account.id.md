@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Siapa pun yang pindah ke rumah atau premis baru di Malaysia dan perlu membuka, memindahkan, atau menutup akun pasokan listrik — baik di Semenanjung, Sabah maupun Sarawak."
 
 lang: "id"
-sourceContentHash: "d7658ca7c2a68725"
+sourceContentHash: "163ba8d9c69cf9c9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -76,7 +76,7 @@ Anda mendapat kunci rumah baru, tapi sakelar lampu tidak berbuat apa-apa. Meter 
 
 ## Tiga perusahaan, bukan satu sistem nasional
 
-Pasokan listrik di Malaysia tidak dikelola oleh satu badan tunggal. **Tenaga Nasional Berhad (TNB)** melayani Semenanjung Malaysia melalui portal myTNB dan jaringan **Kedai Tenaga**. Sabah milik **Sabah Electricity Sdn Bhd (SESB)**, dan Sarawak milik **[Sarawak Energy Berhad](/id/energy/sarawak-energy-berhad)**. Ketiganya beroperasi secara terpisah, dengan formulir permohonan, tarif deposit dan bahkan istilah sendiri — jadi pencarian Google untuk "cara memohon listrik" yang hanya memunculkan panduan TNB tidak banyak membantu jika rumah itu di Kota Kinabalu atau Kuching.
+Pasokan listrik di Malaysia tidak dikelola oleh satu badan tunggal. **[Tenaga Nasional Berhad](/id/companies/tenaga-nasional) (TNB)** melayani Semenanjung Malaysia melalui portal myTNB dan jaringan **Kedai Tenaga**. Sabah milik **Sabah Electricity Sdn Bhd (SESB)**, dan Sarawak milik **[Sarawak Energy Berhad](/id/energy/sarawak-energy-berhad)**. Ketiganya beroperasi secara terpisah, dengan formulir permohonan, tarif deposit dan bahkan istilah sendiri — jadi pencarian Google untuk "cara memohon listrik" yang hanya memunculkan panduan TNB tidak banyak membantu jika rumah itu di Kota Kinabalu atau Kuching.
 
 ## Premis baru dibandingkan ganti nama yang sudah ada
 

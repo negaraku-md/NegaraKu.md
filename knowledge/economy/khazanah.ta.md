@@ -26,7 +26,7 @@ verificationNeeded:
   - "EPF இன் மொத்த முதலீட்டு சொத்துக்கள் மற்றும் மொத்த உறுப்பினர் எண்ணிக்கை புள்ளிவிவரங்களை kwsp.gov.my இலிருந்து நேரடியாகப் பெறுவதன் மூலம் சுயாதீனமாக உறுதிப்படுத்த முடியவில்லை (தானியங்கிப் பெறுதலுக்கு அந்தத் தளம் HTTP 403 ஐத் திருப்பியளிக்கிறது); சரிபார்க்கப்படாத எண்ணை வெளியிடுவதற்குப் பதிலாக இக்கட்டுரை வேண்டுமென்றே எந்தவொரு துல்லியமான EPF AUM அல்லது உறுப்பினர் எண்ணிக்கையையும் தவிர்க்கிறது — முதல் மனித மறுஆய்வின் போது kwsp.gov.my மூலத்துடன் இரண்டையும் சேர்க்கவும்"
 
 lang: "ta"
-sourceContentHash: "bde519fccc17693d"
+sourceContentHash: "b55efcf4efb4852f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -153,8 +153,8 @@ Khazanah Nasional Berhad — *khazanah* என்பது "கருவூல�
 Portfolio — தனியார் பங்கு, நிஜச் சொத்துக்கள் மற்றும் பொதுச் சந்தைகள்), ஒரு
 Dana Impak வளர்ச்சித் தொகுப்பாக, மரபுவழி வளர்ச்சிச் சொத்துக்களாக (Developmental
 Assets) மற்றும் சிறப்புச் சூழ்நிலை (Special Situations) பங்குகளாக ஒழுங்கமைக்கப்பட்டுள்ளது.
-முக்கியமான பட்டியலிடப்பட்ட பங்குகளில் CIMB, Telekom Malaysia, Tenaga Nasional,
-IHH Healthcare, Axiata, Malaysia Airports மற்றும் Astro அடங்கும்.
+முக்கியமான பட்டியலிடப்பட்ட பங்குகளில் CIMB, [Telekom Malaysia](/ta/companies/telekom-malaysia), Tenaga Nasional,
+[IHH Healthcare](/ta/companies/ihh-healthcare), Axiata, Malaysia Airports மற்றும் Astro அடங்கும்.
 
 2025-க்கு, Khazanah RM105 billion நிகர சொத்துக்கள், RM156 billion மொத்த
 சொத்துக்கள், மற்றும் RM5.6 billion செயல்பாட்டு லாபத்தைப் புகாரளித்தது — அந்த

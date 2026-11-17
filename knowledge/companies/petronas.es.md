@@ -35,7 +35,7 @@ faq:
     a: "Ambos estados reclaman una regalía del 5% basada en un acuerdo de 1975. Terengganu recibe pagos (aunque en su momento, hacia el año 2000, se convirtieron en «dinero de buena voluntad» y se restablecieron en 2009), mientras que la demanda judicial de Kelantan de 2010 fue retirada en 2019. La cuestión central es si los pozos en cuestión se encuentran dentro de las aguas estatales (el límite de las tres millas náuticas) o bajo jurisdicción federal."
 
 lang: "es"
-sourceContentHash: "fee9c9760c973ad8"
+sourceContentHash: "742face9b45c4b23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -145,7 +145,7 @@ Petronas es un grupo integrado que abarca toda la cadena de valor del petróleo 
 
 | Filial | Ámbito principal |
 | --- | --- |
-| PETRONAS Chemicals Group (PCG) | Productor químico integrado: olefinas, polímeros, fertilizantes, metanol, químicos especiales |
+| [PETRONAS Chemicals Group](/es/companies/petronas-chemicals) (PCG) | Productor químico integrado: olefinas, polímeros, fertilizantes, metanol, químicos especiales |
 | PETRONAS Gas Berhad (PGB) | Posee y opera redes de procesamiento, transmisión y regasificación de gas |
 | PETRONAS Dagangan Berhad (PDB) | Venta minorista y comercialización de productos petrolíferos de aguas abajo (gasolineras, productos) |
 | [MISC Berhad](/companies/misc-berhad) | Logística y marítimo: transporte de GNL, petroleros, servicios técnicos |

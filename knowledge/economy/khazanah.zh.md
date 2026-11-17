@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "bde519fccc17693d"
+sourceContentHash: "b55efcf4efb4852f"
 
 status: "published"
 aiAssisted: true
@@ -124,8 +124,7 @@ Khazanah 不管理任何人的个人退休账户，也不向公众销售单位�
 ## GLIC 究竟是什么
 
 "GLIC" 是财政部用来指称一组特定国家关联投资实体的标签。根据财政部自身的
-PERKUKUH 改革文件，马来西亚共有六家：Khazanah Nasional、[Kumpulan Wang
-Persaraan](/companies/kwap)（KWAP）、公积金局（EPF）、Permodalan Nasional Berhad（PNB）、
+PERKUKUH 改革文件，马来西亚共有六家：Khazanah Nasional、[Kumpulan Wang Persaraan](/companies/kwap)（KWAP）、公积金局（EPF）、Permodalan Nasional Berhad（PNB）、
 Lembaga Tabung Haji（LTH）与 [Lembaga Tabung Angkatan Tentera](/companies/ltat-and-boustead)（LTAT）。
 
 为了政策目的而被归为一类，并不代表这六家机构的运作方式相同。它们在两个最
@@ -143,7 +142,7 @@ Khazanah Nasional Berhad（*khazanah* 是马来语「国库」之意）依据《
 如今 Khazanah 的投资组合分为投资组合（Investments Portfolio，涵盖私募股权、
 实物资产与公开市场）、Dana Impak 发展型投资组合、遗留的发展型资产
 （Developmental Assets），以及特殊情况（Special Situations）持股。主要的
-上市持股包括 CIMB、Telekom Malaysia、Tenaga Nasional、IHH Healthcare、
+上市持股包括 CIMB、[Telekom Malaysia](/zh/companies/telekom-malaysia)、Tenaga Nasional、[IHH Healthcare](/zh/companies/ihh-healthcare)、
 Axiata、Malaysia Airports 与 Astro。
 
 截至 2025 年，Khazanah 报告净资产为 RM105 billion，总资产为 RM156 billion，

@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "말레이시아에서 새 주택이나 건물로 이사하여 — 반도, 사바, 사라왁 어디서든 — 전기 공급 계정을 새로 열거나, 명의를 이전하거나, 해지해야 하는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "d7658ca7c2a68725"
+sourceContentHash: "163ba8d9c69cf9c9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,7 +75,7 @@ framework: how-to
 
 ## 세 회사이지, 하나의 국가 시스템이 아니다
 
-말레이시아의 전기 공급은 단일 기관이 운영하지 않습니다. **Tenaga Nasional Berhad (TNB)**는 myTNB 포털과 **Kedai Tenaga** 네트워크를 통해 반도 말레이시아를 관할합니다. 사바는 **Sabah Electricity Sdn Bhd (SESB)** 소관이고, 사라왁은 **[Sarawak Energy Berhad](/energy/sarawak-energy-berhad)** 소관입니다. 세 곳 모두 자체 신청 양식·보증금 요율, 심지어 자체 용어까지 두고 별개로 운영됩니다 — 그래서 「전기 신청 방법」을 구글에 검색해 TNB 안내만 나온다면, 집이 코타키나발루나 쿠칭에 있을 경우 별 도움이 되지 않습니다.
+말레이시아의 전기 공급은 단일 기관이 운영하지 않습니다. **[Tenaga Nasional Berhad](/ko/companies/tenaga-nasional) (TNB)**는 myTNB 포털과 **Kedai Tenaga** 네트워크를 통해 반도 말레이시아를 관할합니다. 사바는 **Sabah Electricity Sdn Bhd (SESB)** 소관이고, 사라왁은 **[Sarawak Energy Berhad](/energy/sarawak-energy-berhad)** 소관입니다. 세 곳 모두 자체 신청 양식·보증금 요율, 심지어 자체 용어까지 두고 별개로 운영됩니다 — 그래서 「전기 신청 방법」을 구글에 검색해 TNB 안내만 나온다면, 집이 코타키나발루나 쿠칭에 있을 경우 별 도움이 되지 않습니다.
 
 ## 신규 건물 대 기존 명의 변경
 

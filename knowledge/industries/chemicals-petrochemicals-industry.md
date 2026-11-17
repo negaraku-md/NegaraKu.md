@@ -127,7 +127,7 @@ The industry's strategic ambition, set out in CIR2030, is to shift weight toward
 
 ## Key players and GLCs
 
-The anchor is **PETRONAS Chemicals Group (PCG)**, the listed petrochemical arm of national oil company [PETRONAS](/en/economy/oil-gas-petronas/). PCG is the dominant integrated producer of olefins, polymers and fertilisers, and its scale comes from privileged access to domestic gas feedstock.
+The anchor is **[PETRONAS Chemicals Group](/companies/petronas-chemicals) (PCG)**, the listed petrochemical arm of national oil company [PETRONAS](/en/economy/oil-gas-petronas/). PCG is the dominant integrated producer of olefins, polymers and fertilisers, and its scale comes from privileged access to domestic gas feedstock.
 
 **Lotte Chemical Titan**, majority-owned by South Korea's Lotte Chemical, is the other heavyweight. Established in 1991 as Malaysia's first standalone polyolefins producer, it has been described as the country's largest integrated producer of olefins and polyolefins, with capacity across two Johor sites (the precise figure varies between sources). A wide field of multinationals — in industrial gases, coatings, agrochemicals and specialty products — and a large base of palm-based oleochemical producers round out the sector.
 

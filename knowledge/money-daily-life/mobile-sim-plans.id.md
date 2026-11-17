@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Siapa pun di Malaysia — warga negara, penduduk, pemegang pas kerja, pelajar, atau wisatawan — yang perlu membeli atau mendaftar kartu SIM seluler lokal."
 
 lang: "id"
-sourceContentHash: "5f238099826ab02d"
+sourceContentHash: "a99a6fb1aad234c9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,7 +102,7 @@ sebab ia lebih sulit dijual kepada seseorang yang baru saja tiba.
 | U Mobile | Unlimited Funz Prepaid | Operator jaringan nasional ketiga Malaysia |
 
 Dua pemain yang lebih kecil — **Yes** (YTL Communications) dan **Unifi Mobile**
-(Telekom Malaysia) — menjalankan jaringan 4G/LTE mereka sendiri bersama tiga
+([Telekom Malaysia](/id/companies/telekom-malaysia)) — menjalankan jaringan 4G/LTE mereka sendiri bersama tiga
 jaringan di atas, sering dipaketkan bersama internet rumah. Operator mana
 pun yang Anda pilih, persyaratan pendaftaran di bawah ini berlaku secara merata.
 

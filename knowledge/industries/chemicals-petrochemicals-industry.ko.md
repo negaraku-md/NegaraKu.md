@@ -31,7 +31,7 @@ faq:
   - q: 정부는 화학 산업을 어떻게 지원하나요?
     a: 말레이시아투자개발청(MIDA)은 화학·첨단소재부를 통해 제조 면허를 심사하고 파이어니어 스테이터스(Pioneer Status)와 투자세액공제(Investment Tax Allowance) 같은 인센티브를 제공합니다. 석유 및 석유화학 프로젝트는 1974년 석유개발법의 적용도 받습니다. 화학산업 로드맵 2030과 신산업마스터플랜 2030은 특수·고부가가치 화학으로 나아가는 전략적 방향을 제시합니다.
 lang: ko
-sourceContentHash: "1c45aa3fcee5cc05"
+sourceContentHash: "11eb5b1edb640b2d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -128,7 +128,7 @@ framework: profile
 
 ## 주요 사업자와 정부 연계기업(GLC)
 
-중심축은 **PETRONAS 케미칼 그룹(PCG)**으로, 국영 석유회사 [PETRONAS](/ko/economy/oil-gas-petronas/)의 상장 석유화학 부문입니다. PCG는 올레핀·폴리머·비료의 지배적 통합 생산자이며, 그 규모는 국내 가스 원료에 대한 특권적 접근에서 나옵니다.
+중심축은 **[PETRONAS 케미칼 그룹](/ko/companies/petronas-chemicals)(PCG)**으로, 국영 석유회사 [PETRONAS](/ko/economy/oil-gas-petronas/)의 상장 석유화학 부문입니다. PCG는 올레핀·폴리머·비료의 지배적 통합 생산자이며, 그 규모는 국내 가스 원료에 대한 특권적 접근에서 나옵니다.
 
 한국 롯데케미칼이 다수 지분을 보유한 **롯데케미칼 타이탄**이 또 다른 중량급 사업자입니다. 1991년 말레이시아 최초의 독립형 폴리올레핀 생산자로 설립된 이 회사는 조호르의 두 개 사업장에 걸친 생산능력(정확한 수치는 자료마다 다릅니다)을 갖춘 국내 최대 올레핀·폴리올레핀 통합 생산자로 평가되어 왔습니다. 산업가스·코팅·농화학·특수제품 분야의 폭넓은 다국적 기업들과, 팜 기반 유지화학 생산자들의 큰 기반이 이 부문을 완성합니다.
 

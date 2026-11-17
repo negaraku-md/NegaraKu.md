@@ -41,7 +41,7 @@ verificationNeeded:
   - "Apakah IMFC-J satu-satunya lanjutan wilayah bagi model IMFC, atau apakah lebih banyak lokasi IMFC telah dibuka sejak pemerintah menyatakan niatnya untuk mengembangkannya pada 2026"
 
 lang: "id"
-sourceContentHash: "e0c5ddbcc6a8b0ca"
+sourceContentHash: "9379d91bcd56a69d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -185,7 +185,7 @@ Jawaban paling konkret MIDA kepada masalah "terlalu banyak loket" adalah
 berada di MIDA Sentral dan telah beroperasi sejak **1 Desember 2023**. Ia
 menghimpun pegawai-pegawai dari Lembaga Hasil Dalam Negeri, Jabatan
 Imigresen, Jabatan Kastam Diraja Malaysia, MCMC, Jabatan Tenaga Kerja
-Semenanjung Malaysia, Tenaga Nasional Berhad dan Telekom Malaysia Berhad ke
+Semenanjung Malaysia, [Tenaga Nasional Berhad](/id/companies/tenaga-nasional) dan [Telekom Malaysia](/id/companies/telekom-malaysia) Berhad ke
 dalam satu lokasi fisik, agar persetujuan lanjutan bagi seorang investor yang
 telah disetujui dapat bergerak tanpa kunjungan terpisah ke setiap agensi.
 Satu lanjutan wilayah, **IMFC-J**, telah dibuka sejak itu untuk melayani

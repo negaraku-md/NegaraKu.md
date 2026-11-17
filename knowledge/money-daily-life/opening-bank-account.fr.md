@@ -26,7 +26,7 @@ verificationNeeded:
   - "La page de politique d'ouverture numérique / e-KYC de BNM a renvoyé une erreur 403 lors d'une récupération automatisée au moment de la rédaction ; son existence et son titre sont confirmés directement par les résultats de recherche de bnm.gov.my, mais les détails précis d'éligibilité devraient être revérifiés directement sur bnm.gov.my lorsqu'elle est accessible."
 
 lang: "fr"
-sourceContentHash: "0cc7d7d79dcaf765"
+sourceContentHash: "d020cec4f4cc6614"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -135,7 +135,7 @@ indépendamment du temps que vous avez réellement vécu en Malaisie.
 Deuxièmement, la banque peut encore demander des documents au-delà de cette
 liste ou effectuer des vérifications supplémentaires : la page de CIMB précise
 explicitement que des « justificatifs supplémentaires non listés » peuvent être
-demandés, et d'autres banques (Maybank, Public Bank, Hong Leong, RHB) publient
+demandés, et d'autres banques ([Maybank](/fr/companies/maybank), Public Bank, Hong Leong, RHB) publient
 des listes globalement similaires mais non identiques, de sorte que le plus sûr
 est toujours de consulter la page à jour de la banque concernée avant une visite
 en agence.

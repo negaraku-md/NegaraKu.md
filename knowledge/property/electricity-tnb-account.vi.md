@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai chuyển đến một căn nhà hoặc cơ sở mới tại Malaysia và cần mở, chuyển tên, hoặc đóng tài khoản nguồn điện — dù ở Bán đảo, Sabah hay Sarawak."
 
 lang: "vi"
-sourceContentHash: "d7658ca7c2a68725"
+sourceContentHash: "163ba8d9c69cf9c9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,7 +82,7 @@ hoàn toàn sai.
 ## Ba công ty, không phải một hệ thống quốc gia
 
 Nguồn điện tại Malaysia không do một cơ quan duy nhất vận hành.
-**Tenaga Nasional Berhad (TNB)** phục vụ Bán đảo Malaysia qua
+**[Tenaga Nasional Berhad](/vi/companies/tenaga-nasional) (TNB)** phục vụ Bán đảo Malaysia qua
 cổng myTNB và mạng lưới **Kedai Tenaga**. Sabah thì thuộc **Sabah
 Electricity Sdn Bhd (SESB)**, và Sarawak thuộc **[Sarawak Energy Berhad](/vi/energy/sarawak-energy-berhad)**.
 Cả ba hoạt động riêng biệt, với biểu mẫu nộp đơn, mức

@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0cc7d7d79dcaf765"
+sourceContentHash: "d020cec4f4cc6614"
 
 status: "published"
 aiAssisted: true
@@ -136,7 +136,7 @@ Dependant Pass-க்கு உத்தரவாதம் அளிக்க �
 இரண்டாவது, வங்கி இந்தப் பட்டியலைத் தாண்டியும் ஆவணங்களைக் கோரலாம் அல்லது கூடுதல்
 சரிபார்ப்புகளை மேற்கொள்ளலாம் — "additional supporting documents not listed"
 (பட்டியலிடப்படாத கூடுதல் ஆதரவு ஆவணங்கள்) கோரப்படலாம் என்று CIMB-இன் சொந்தப்
-பக்கம் தெளிவாகக் கூறுகிறது, மேலும் பிற வங்கிகள் (Maybank, Public Bank, Hong
+பக்கம் தெளிவாகக் கூறுகிறது, மேலும் பிற வங்கிகள் ([Maybank](/ta/companies/maybank), Public Bank, Hong
 Leong, RHB) பரவலாக ஒத்த ஆனால் ஒரே மாதிரியல்லாத பட்டியல்களை வெளியிடுகின்றன,
 எனவே கிளைக்குச் செல்வதற்கு முன் அந்தக் குறிப்பிட்ட வங்கியின் தற்போதைய பக்கத்தைச்
 சரிபார்ப்பதே எப்போதும் பாதுகாப்பான நடவடிக்கை.

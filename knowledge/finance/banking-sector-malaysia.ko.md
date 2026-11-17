@@ -34,7 +34,7 @@ faq:
     a: "아닙니다. 지정된 개발금융기관은 2002년 개발금융기관법(Development Financial Institutions Act 2002)에 따라 규제되며 말레이시아 중앙은행의 감독을 받는데, 이는 FSA 및 IFSA와는 별개의 체제입니다."
 
 lang: "ko"
-sourceContentHash: "a9fc5401e6cabfb3"
+sourceContentHash: "acfcc6c1e869263e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -128,7 +128,7 @@ framework: profile
 
 **상업은행**은 일상의 주력 기관입니다. 예금을 받고, 가계와 기업에 대출하며, 무역금융과 자금관리 데스크를 운영하고, 대부분의 사람이 접하는 지점과 카드 네트워크를 운영합니다. 24개 인가 기관은 국내 설립 은행과 외국 은행의 현지 법인 자회사가 섞여 있으며 — 후자에는 Citibank Berhad, HSBC Bank Malaysia Berhad, Standard Chartered Bank Malaysia Berhad, Deutsche Bank (Malaysia) Berhad, MUFG Bank (Malaysia) Berhad, Bank of China (Malaysia) Berhad 등이 포함됩니다.
 
-**투자은행**은 더 좁고 전문화되어 있습니다. 10개 인가 기관 — Maybank Investment Bank, CIMB Investment Bank, AmInvestment Bank, Affin Hwang Investment Bank, MBSB Investment Bank 등 — 은 기업 자문, 자본시장에서의 채권 및 주식 조달, 구조화 금융에 집중합니다. 이들은 상업은행처럼 소매 예금을 추구하지 않습니다.
+**투자은행**은 더 좁고 전문화되어 있습니다. 10개 인가 기관 — [Maybank](/ko/companies/maybank) Investment Bank, CIMB Investment Bank, AmInvestment Bank, Affin Hwang Investment Bank, MBSB Investment Bank 등 — 은 기업 자문, 자본시장에서의 채권 및 주식 조달, 구조화 금융에 집중합니다. 이들은 상업은행처럼 소매 예금을 추구하지 않습니다.
 
 두 범주 모두 동일한 법률인 FSA 2013에 따라 인가됩니다. 양쪽 모두 상당수가 **이슬람 은행 창구** — 전통 사업과 함께 샤리아 준수 상품을 제공하는 승인된 부문 — 도 운영합니다.
 

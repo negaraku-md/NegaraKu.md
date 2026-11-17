@@ -33,7 +33,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f87521b3f50e5c77"
+sourceContentHash: "678b132c5368b3aa"
 
 status: "published"
 aiAssisted: true
@@ -116,7 +116,7 @@ TM cũng là một đối tác triển khai trung tâm cho **JENDELA** (Jalinan 
 
 ## Quy mô và tầm quan trọng
 
-TM báo cáo doanh thu tập đoàn khoảng RM11,71 tỷ cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024 và lợi nhuận ròng khoảng RM2,0 tỷ, với số thuê bao băng thông rộng cố định khoảng 3,179 triệu (tất cả là các con số năm tài chính 2024, vốn thay đổi theo thời gian). Cơ cấu sở hữu của nó phản ánh vị thế là một công ty liên kết với chính phủ: Khazanah Nasional và Quỹ Tiết kiệm Nhân viên là các cổ đông lớn nhất của nó, bên cạnh Kumpulan Wang Persaraan (Diperbadankan) và các định chế khác. Quan trọng là chính phủ nắm giữ một **Special Rights Redeemable Preference Share** duy nhất — một 「cổ phần vàng」 — mang các quyền đặc biệt đối với một số quyết định doanh nghiệp và các bổ nhiệm cấp cao, một đặc điểm phổ biến của các tiện ích chiến lược được tư nhân hóa của Malaysia.
+TM báo cáo doanh thu tập đoàn khoảng RM11,71 tỷ cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024 và lợi nhuận ròng khoảng RM2,0 tỷ, với số thuê bao băng thông rộng cố định khoảng 3,179 triệu (tất cả là các con số năm tài chính 2024, vốn thay đổi theo thời gian). Cơ cấu sở hữu của nó phản ánh vị thế là một công ty liên kết với chính phủ: Khazanah Nasional và Quỹ Tiết kiệm Nhân viên là các cổ đông lớn nhất của nó, bên cạnh [Kumpulan Wang Persaraan](/vi/companies/kwap) (Diperbadankan) và các định chế khác. Quan trọng là chính phủ nắm giữ một **Special Rights Redeemable Preference Share** duy nhất — một 「cổ phần vàng」 — mang các quyền đặc biệt đối với một số quyết định doanh nghiệp và các bổ nhiệm cấp cao, một đặc điểm phổ biến của các tiện ích chiến lược được tư nhân hóa của Malaysia.
 
 ## Vì sao điều này quan trọng
 

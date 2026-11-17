@@ -34,7 +34,7 @@ faq:
     a: "買いと売りの両方に3種類の費用が適用される：証券会社の手数料（証券会社が設定）、取引金額の0.03%（上限RM1,000）の清算手数料、そして価値RM1,000ごと（端数を含む）にRM1（上限RM1,000）の印紙税である。Bursa Malaysia上場株式の売買手数料は、現在サービス税が免除されている。"
 
 lang: "ja"
-sourceContentHash: "2aa2d9243406a229"
+sourceContentHash: "17c8242447ac4a60"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,7 +97,7 @@ keywords: ["CDS account", "Bursa Anywhere", "stockbroker Malaysia", "how to buy 
 framework: how-to
 ---
 
-Maybank や Tenaga の株式を一部でも所有することは、一つではなく二つの口座から始まる——そして、そのどちらも銀行口座ではない。Bursa Malaysiaで一株でも購入する前に、株式を*保有する*場所と、注文を*出す*場所が必要になる。以下では、この二つがどのように組み合わさるのか、そして実際に各取引でどれだけの費用がかかるのかを説明する。
+[Maybank](/ja/companies/maybank) や Tenaga の株式を一部でも所有することは、一つではなく二つの口座から始まる——そして、そのどちらも銀行口座ではない。Bursa Malaysiaで一株でも購入する前に、株式を*保有する*場所と、注文を*出す*場所が必要になる。以下では、この二つがどのように組み合わさるのか、そして実際に各取引でどれだけの費用がかかるのかを説明する。
 
 ## 実際に何が必要なのか？
 

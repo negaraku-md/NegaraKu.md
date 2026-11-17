@@ -31,7 +31,7 @@ faq:
   - q: Apa yang dilakukan Malaysia terhadap polusi plastik?
     a: Malaysia Plastics Sustainability Roadmap 2021–2030, dipimpin kementerian lingkungan, menetapkan target untuk menghapus bertahap plastik sekali pakai yang bermasalah, menaikkan tingkat daur ulang dan kandungan daur ulang, serta membuat kemasan plastik dapat didaur ulang. Ia juga memperkenalkan skema Extended Producer Responsibility (EPR) yang membuat produsen ikut mendanai pengumpulan dan daur ulang.
 lang: id
-sourceContentHash: "997857d937a84a00"
+sourceContentHash: "dc6e2cfa034711f6"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -122,7 +122,7 @@ Catatan tentang lapangan kerja: satu angka kepala nasional yang otoritatif tidak
 
 Industri ini tidak bermula dengan pelet — ia bermula dengan minyak dan gas. Plastik berada di ujung **hilir** [industri kimia dan petrokimia](/id/industries/chemicals-petrochemicals-industry/) Malaysia, yang meng-crack hidrokarbon menjadi blok penyusun polimer.
 
-Malaysia membuat sebagian besar resinnya sendiri. **PETRONAS Chemicals Group** dan **Lotte Chemical Titan** adalah produsen utama polimer komoditas seperti polietilena (PE) dan polipropilena (PP). Pengerang Integrated Complex milik PETRONAS yang besar (bagian dari proyek RAPID) di Johor menambahkan kapasitas polimer hilir substansial — termasuk lini PE, PP, dan HDPE — memperdalam kemampuan negara ini memasok konverternya sendiri. Integrasi vertikal ini, dari kilang ke resin ke kemasan jadi, adalah kekuatan struktural: ia memperpendek rantai pasok dan meredam konverter dari sebagian gejolak bahan baku impor. Meski begitu, grade khusus masih diimpor, dan harga resin melacak pasar minyak global dengan ketat.
+Malaysia membuat sebagian besar resinnya sendiri. [**PETRONAS Chemicals Group**](/id/companies/petronas-chemicals) dan **Lotte Chemical Titan** adalah produsen utama polimer komoditas seperti polietilena (PE) dan polipropilena (PP). Pengerang Integrated Complex milik PETRONAS yang besar (bagian dari proyek RAPID) di Johor menambahkan kapasitas polimer hilir substansial — termasuk lini PE, PP, dan HDPE — memperdalam kemampuan negara ini memasok konverternya sendiri. Integrasi vertikal ini, dari kilang ke resin ke kemasan jadi, adalah kekuatan struktural: ia memperpendek rantai pasok dan meredam konverter dari sebagian gejolak bahan baku impor. Meski begitu, grade khusus masih diimpor, dan harga resin melacak pasar minyak global dengan ketat.
 
 ## Apa yang dibuat industri ini
 

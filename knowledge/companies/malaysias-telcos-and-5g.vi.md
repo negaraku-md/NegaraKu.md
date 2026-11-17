@@ -32,7 +32,7 @@ faq:
     a: "U Mobile được chỉ định xây dựng mạng 5G thứ hai, nên nó thoái vốn khỏi cổ phần DNB và rút khỏi mạng của DNB để tập trung vào việc triển khai của riêng mình."
 
 lang: "vi"
-sourceContentHash: "c1f7f6a84e1fec97"
+sourceContentHash: "759f20164c0d9f77"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -146,7 +146,7 @@ Thay vì một mạng mà mọi người chia sẻ, Malaysia quyết định có
 - **1 tháng 11 năm 2024** — MCMC công bố U Mobile là đơn vị thắng mạng 5G thứ hai.
 - **31 tháng 12 năm 2024** — Chỉ thị của Bộ trưởng số 4 năm 2024 (Ministerial Direction No. 4 of 2024) thu hồi chỉ thị mạng bán buôn duy nhất năm 2021, chính thức chấm dứt thế độc quyền của DNB và ghi nhận mô hình mạng kép.
 
-Bốn nhà mạng dự thầu mạng thứ hai — CelcomDigi, Maxis, U Mobile và Telekom Malaysia. MCMC chọn U Mobile sau điều mà họ mô tả là một cuộc rà soát nghiêm ngặt các kế hoạch kỹ thuật và thương mại, và phân bổ cho họ 700MHz (một khối 2×20MHz) và 3.5GHz (một khối 100MHz) để xây dựng mạng.
+Bốn nhà mạng dự thầu mạng thứ hai — CelcomDigi, Maxis, U Mobile và [Telekom Malaysia](/vi/companies/telekom-malaysia). MCMC chọn U Mobile sau điều mà họ mô tả là một cuộc rà soát nghiêm ngặt các kế hoạch kỹ thuật và thương mại, và phân bổ cho họ 700MHz (một khối 2×20MHz) và 3.5GHz (một khối 100MHz) để xây dựng mạng.
 
 Việc thắng thầu đi kèm một điều kiện: U Mobile phải thoái vốn khỏi cổ phần trong DNB và rời mạng đó để tập trung vào mạng của riêng mình. Vào **tháng 5 năm 2025** nó thoái vốn khỏi cổ phần DNB và rút khỏi mạng, để lại CelcomDigi, Maxis và YTL mỗi bên nắm 19,44%. U Mobile ra mắt mạng ULTRA5G của mình vào **ngày 18 tháng 8 năm 2025**, đi vào hoạt động đầu tiên tại Berjaya Times Square, nơi họ quảng bá là trung tâm mua sắm được trang bị 5G toàn phần đầu tiên của nước này.
 

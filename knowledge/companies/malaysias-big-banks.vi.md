@@ -31,7 +31,7 @@ faq:
     a: "CIMB tự mô tả mình là một tập đoàn tập trung vào ASEAN hoạt động trên các thị trường bao gồm Malaysia, Indonesia, Singapore và Thái Lan. RHB hoạt động trên bảy thị trường khu vực. Maybank trải rộng qua ba thị trường quê nhà — Malaysia, Singapore và Indonesia — cộng với các hoạt động trên khắp ASEAN và các trung tâm tài chính toàn cầu chủ chốt."
 
 lang: "vi"
-sourceContentHash: "81a33a10e5b5e6c3"
+sourceContentHash: "8ccc31809a8d6c39"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,7 +91,7 @@ keywords: ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong Bank", "Malaysia
 framework: profile
 ---
 
-Xếp năm cái tên thống trị gần như mọi con phố lớn của Malaysia — Maybank, CIMB, Public Bank, RHB và Hong Leong — và bạn đang nhìn vào lõi của một hệ thống ngân hàng thanh toán tiền lương, các khoản vay mua nhà và thương mại của đất nước. Tất cả đều thành lập tại Malaysia, tất cả đều niêm yết trên Bursa Malaysia, và tất cả đều được cùng một ngân hàng trung ương cấp phép. Ngoài điểm đó, chúng khác nhau rõ rệt: một tập đoàn vượt trội các tập đoàn còn lại về quy mô, một số về cơ bản được neo bởi nhà nước, và hai tập đoàn vẫn được lèo lái bởi các gia đình đã sáng lập ra chúng.
+Xếp năm cái tên thống trị gần như mọi con phố lớn của Malaysia — [Maybank](/vi/companies/maybank), CIMB, Public Bank, RHB và Hong Leong — và bạn đang nhìn vào lõi của một hệ thống ngân hàng thanh toán tiền lương, các khoản vay mua nhà và thương mại của đất nước. Tất cả đều thành lập tại Malaysia, tất cả đều niêm yết trên Bursa Malaysia, và tất cả đều được cùng một ngân hàng trung ương cấp phép. Ngoài điểm đó, chúng khác nhau rõ rệt: một tập đoàn vượt trội các tập đoàn còn lại về quy mô, một số về cơ bản được neo bởi nhà nước, và hai tập đoàn vẫn được lèo lái bởi các gia đình đã sáng lập ra chúng.
 
 ## Ai được coi là một trong "năm ông lớn" ngân hàng của Malaysia?
 
@@ -102,7 +102,7 @@ Phép so sánh tương đương rõ ràng nhất trên cả năm tập đoàn l�
 | Tập đoàn | Lợi nhuận ròng | Tỷ suất sinh lời trên vốn chủ sở hữu | Năm tài chính |
 |---|---|---|---|
 | **Maybank** (Malayan Banking) | RM10.09 tỷ | 11,1% | FY2024 (tháng 12) |
-| **CIMB Group** | RM7.73 tỷ | 11,2% | FY2024 (tháng 12) |
+| **[CIMB Group](/vi/companies/cimb)** | RM7.73 tỷ | 11,2% | FY2024 (tháng 12) |
 | **Public Bank** | RM7.15 tỷ | 12,8% | FY2024 (tháng 12) |
 | **RHB Bank** | RM3.12 tỷ | 10,04% | FY2024 (tháng 12) |
 | **Hong Leong Bank** | RM4.20 tỷ | 11,8% | FY2024 (tháng 6) |
@@ -127,7 +127,7 @@ Việc kiểm soát cửa ngõ về sở hữu đó nghiêm ngặt hơn hầu h�
 | CIMB | Khazanah Nasional, cùng EPF, KWAP và PNB | Liên kết chính phủ (GLIC) |
 | RHB Bank | Quỹ Tiết kiệm của Người lao động (EPF) | Liên kết chính phủ (GLIC) |
 | Public Bank | Gia đình Teh, qua Consolidated Teh Holdings | Gia đình sáng lập |
-| Hong Leong Bank | Gia đình Quek, qua Hong Leong Financial Group | Gia đình sáng lập |
+| Hong Leong Bank | Gia đình Quek, qua [Hong Leong Financial Group](/vi/companies/hong-leong-financial-group) | Gia đình sáng lập |
 
 Đối với **Maybank**, đơn vị neo là Permodalan Nasional Berhad và quỹ Amanah Saham Bumiputera khổng lồ của nó, hai đơn vị cùng nhau khiến nó trở thành một trong những cái tên được nắm giữ rộng rãi nhất của nước này. **CIMB** liệt kê Khazanah Nasional — quỹ đầu tư chiến lược của Malaysia — bên cạnh EPF, quỹ hưu trí công chức KWAP và PNB là các cổ đông lớn của mình; các nhà đầu tư nước ngoài nắm 29,7% của CIMB tính đến cuối tháng 6 năm 2026. **RHB** được neo bởi Quỹ Tiết kiệm của Người lao động, quỹ hưu trí quốc gia, với tư cách là cổ đông lớn nhất đơn lẻ của mình.
 

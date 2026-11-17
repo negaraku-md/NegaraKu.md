@@ -32,7 +32,7 @@ faq:
     a: "U Mobile ditunjuk untuk membangun jaringan 5G kedua, jadi ia melepas kepemilikan sahamnya dalam DNB dan keluar dari jaringan DNB untuk berfokus pada peluncurannya sendiri."
 
 lang: "id"
-sourceContentHash: "c1f7f6a84e1fec97"
+sourceContentHash: "759f20164c0d9f77"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -146,7 +146,7 @@ Alih-alih satu jaringan yang dibagi semua orang, Malaysia memutuskan untuk memil
 - **1 November 2024** — MCMC mengumumkan U Mobile sebagai pemenang jaringan 5G kedua.
 - **31 Desember 2024** — Arahan Menteri No. 4 Tahun 2024 membatalkan arahan jaringan grosir tunggal 2021, secara resmi mengakhiri monopoli DNB dan mengukuhkan model dua jaringan.
 
-Empat operator menawar untuk jaringan kedua — CelcomDigi, Maxis, U Mobile, dan Telekom Malaysia. MCMC memilih U Mobile setelah apa yang digambarkannya sebagai telaah teliti atas rencana teknis dan komersial, dan mengalokasikan kepadanya 700MHz (satu blok 2×20MHz) dan 3.5GHz (satu blok 100MHz) untuk membangun jaringan.
+Empat operator menawar untuk jaringan kedua — CelcomDigi, Maxis, U Mobile, dan [Telekom Malaysia](/id/companies/telekom-malaysia). MCMC memilih U Mobile setelah apa yang digambarkannya sebagai telaah teliti atas rencana teknis dan komersial, dan mengalokasikan kepadanya 700MHz (satu blok 2×20MHz) dan 3.5GHz (satu blok 100MHz) untuk membangun jaringan.
 
 Kemenangan itu datang dengan satu syarat: U Mobile harus melepas kepemilikan sahamnya dalam DNB dan meninggalkan jaringan itu untuk berfokus pada jaringannya sendiri. Pada **Mei 2025** ia melepas kepemilikan sahamnya dalam DNB dan keluar dari jaringan tersebut, meninggalkan CelcomDigi, Maxis, dan YTL masing-masing memegang 19.44%. U Mobile meluncurkan jaringan ULTRA5G-nya pada **18 Agustus 2025**, mulai beroperasi lebih dulu di Berjaya Times Square, yang digambarkannya sebagai pusat perbelanjaan pertama negara yang dilengkapi 5G sepenuhnya.
 

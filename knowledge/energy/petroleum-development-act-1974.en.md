@@ -34,7 +34,7 @@ faq:
     a: "Section 3 places Petronas under the control and direction of the Prime Minister, whose directions bind the corporation. Section 6 requires the Prime Minister's permission before anyone other than Petronas carries out processing, refining or the manufacture of petrochemical products, and Section 7 gives the Prime Minister the power to make regulations."
 
 lang: "en"
-sourceContentHash: "bc9ab1d1d905cd8f"
+sourceContentHash: "901557e7ba61a4e5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ The Petroleum Development Act 1974 (Act 144) received royal assent on 30 July 19
 
 The core of the Act lies in Section 2. It provides that "the entire ownership in, and the exclusive rights, powers, liberties and privileges of exploring, exploiting, winning and obtaining petroleum whether onshore or offshore of Malaysia shall be vested in a Corporation". Section 2(2) states that this transfer of rights takes effect when an instrument in the form of the Schedule is executed, and Section 2(3) affirms that the ownership and rights are "irrevocable and shall enure for the benefit of the Corporation and its successors". The Schedule to the Act frames the instrument of assignment that grants those rights to Petronas "in perpetuity".
 
-Section 3 names the corporation — even contrary to the ordinary rules of the Companies Act 1965 on company names — as Petroliam Nasional Berhad, or Petronas for short, and places it under the "control and direction of the Prime Minister", whose directions bind the corporation. This framework centralises ownership and regulation in a single federal entity.
+Section 3 names the corporation — even contrary to the ordinary rules of the Companies Act 1965 on company names — as [Petroliam Nasional Berhad](/en/companies/petronas), or Petronas for short, and places it under the "control and direction of the Prime Minister", whose directions bind the corporation. This framework centralises ownership and regulation in a single federal entity.
 
 | Section | Subject |
 | --- | --- |

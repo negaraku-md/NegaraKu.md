@@ -31,7 +31,7 @@ faq:
   - q: ¿Sigue creciendo el mercado de telecomunicaciones de Malasia?
     a: El crecimiento de abonados se ha estancado en gran medida porque el mercado está casi saturado. Se espera que el crecimiento futuro provenga de servicios de mayor valor —5G, mejoras de fibra, conectividad empresarial y servicios digitales— y no de dar de alta a grandes cantidades de nuevos usuarios.
 lang: es
-sourceContentHash: "01292aba5d43284f"
+sourceContentHash: "0a9dfcb348c124ab"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -131,7 +131,7 @@ Los principales operadores móviles hoy son:
 
 Junto a estos funciona una capa de **operadores móviles virtuales (OMV)** y marcas de prepago (como las que se apoyan en las grandes redes) que añaden competencia en el extremo económico.
 
-En el lado fijo, el líder del mercado es **Telekom Malaysia (TM)**, el antiguo monopolio estatal, cuya marca **unifi** domina la banda ancha fija y que también posee gran parte de la red troncal nacional y la conectividad internacional. TM compite con **Maxis Fibre**, **TIME dotCom** (fuerte en fibra de edificios altos y urbanos) e **YTL Communications**, que opera la marca **Yes**. Varios operadores venden ahora paquetes **convergentes** —móvil y banda ancha para el hogar agrupados—, que son un frente importante en la competencia por el gasto de los hogares.
+En el lado fijo, el líder del mercado es **[Telekom Malaysia](/es/companies/telekom-malaysia) (TM)**, el antiguo monopolio estatal, cuya marca **unifi** domina la banda ancha fija y que también posee gran parte de la red troncal nacional y la conectividad internacional. TM compite con **Maxis Fibre**, **TIME dotCom** (fuerte en fibra de edificios altos y urbanos) e **YTL Communications**, que opera la marca **Yes**. Varios operadores venden ahora paquetes **convergentes** —móvil y banda ancha para el hogar agrupados—, que son un frente importante en la competencia por el gasto de los hogares.
 
 ## Banda ancha móvil frente a fija
 

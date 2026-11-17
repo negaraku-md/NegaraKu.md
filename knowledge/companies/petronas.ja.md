@@ -35,7 +35,7 @@ faq:
     a: "両州とも1975年の協定に基づき5%のロイヤルティを主張している。トレンガヌは支払いを受けている（2000年前後に一時「恩恤金」に切り替えられ、2009年に復活したものの）が、クランタンの2010年の法廷での主張は2019年に取り下げられた。主要な争点は、当該油井が州水域内（3海里の限界内）に位置するか、それとも連邦管轄下にあるかという点である。"
 
 lang: "ja"
-sourceContentHash: "fee9c9760c973ad8"
+sourceContentHash: "742face9b45c4b23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -145,7 +145,7 @@ Petronasは、油井からガソリンスタンドに至るまで、石油・ガ
 
 | 子会社 | 中核事業 |
 | --- | --- |
-| PETRONAS Chemicals Group（PCG） | 総合化学品メーカー——オレフィン、ポリマー、肥料、メタノール、特殊化学品 |
+| [PETRONAS Chemicals Group](/ja/companies/petronas-chemicals)（PCG） | 総合化学品メーカー——オレフィン、ポリマー、肥料、メタノール、特殊化学品 |
 | PETRONAS Gas Berhad（PGB） | ガスの処理・輸送・再ガス化ネットワークを所有・運営 |
 | PETRONAS Dagangan Berhad（PDB） | 下流石油製品の小売・マーケティング（ガソリンスタンド、各種製品） |
 | [MISC Berhad](/companies/misc-berhad) | 物流・海運——LNG輸送、タンカー、技術サービス |

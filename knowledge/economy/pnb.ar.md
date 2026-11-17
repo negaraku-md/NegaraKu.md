@@ -31,7 +31,7 @@ faq:
 
 
 lang: "ar"
-sourceContentHash: "e3b1b939af180abf"
+sourceContentHash: "c6ef01d3bb216ad1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -133,7 +133,7 @@ PNB هي مديرة الاستثمار: فهي تقرر أين تُستثمر ا
 أما ASNB فهي شركة إدارة صناديق الاستثمار المشترك: فهي الكيان المُسمّى
 «المدير» (Manager) في كل نشرة إصدار وصحيفة أبرز منتج (Product Highlights Sheet)،
 وهي التي تُصدِر الوحدات، وتعالج عمليات إعادة الشراء، وتشغّل 32 مكتبًا فرعيًّا وأكثر
-من 2,700 وكيل على مستوى البلاد (Maybank وCIMB وRHB وBSN وPos Malaysia
+من 2,700 وكيل على مستوى البلاد ([Maybank](/ar/companies/maybank) وCIMB وRHB وBSN وPos Malaysia
 وغيرها) حيث يُجري الماليزيون معاملاتهم فعليًّا.
 
 يهمّ هذا التقسيم لسبب عملي واحد: الشكاوى واستفسارات الحسابات

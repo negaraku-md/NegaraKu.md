@@ -41,7 +41,7 @@ verificationNeeded:
   - "Liệu IMFC-J có phải là chi nhánh khu vực duy nhất của mô hình IMFC, hay đã có thêm các cơ sở IMFC được mở kể từ ý định của chính phủ mở rộng nó vào năm 2026"
 
 lang: "vi"
-sourceContentHash: "e0c5ddbcc6a8b0ca"
+sourceContentHash: "9379d91bcd56a69d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -151,7 +151,7 @@ Nói cách khác, hai cơ quan cùng làm một hồ sơ, nhưng chỉ một tro
 
 ## Trung tâm Tạo thuận lợi Đầu tư Malaysia
 
-Câu trả lời cụ thể nhất của MIDA cho vấn đề "quá nhiều quầy" là **Trung tâm Tạo thuận lợi Đầu tư Malaysia (IMFC)**, được bố trí về mặt vật lý tại MIDA Sentral và hoạt động từ **1 tháng 12 năm 2023**. Nó đưa các cán bộ từ Cục Thuế Nội địa, Cục Di trú, Cục Hải quan Hoàng gia Malaysia, Ủy ban Truyền thông và Đa phương tiện Malaysia, Cục Lao động Bán đảo Malaysia, Tenaga Nasional Berhad và Telekom Malaysia Berhad vào một địa điểm vật lý, để các sự phê duyệt tiếp theo của một nhà đầu tư đã được chấp thuận di chuyển mà không cần một chuyến đi riêng đến từng cơ quan. Một chi nhánh khu vực, **IMFC-J**, kể từ đó đã mở để phục vụ các nhà đầu tư chuyển vào Đặc khu Kinh tế Johor–Singapore.
+Câu trả lời cụ thể nhất của MIDA cho vấn đề "quá nhiều quầy" là **Trung tâm Tạo thuận lợi Đầu tư Malaysia (IMFC)**, được bố trí về mặt vật lý tại MIDA Sentral và hoạt động từ **1 tháng 12 năm 2023**. Nó đưa các cán bộ từ Cục Thuế Nội địa, Cục Di trú, Cục Hải quan Hoàng gia Malaysia, Ủy ban Truyền thông và Đa phương tiện Malaysia, Cục Lao động Bán đảo Malaysia, [Tenaga Nasional Berhad](/vi/companies/tenaga-nasional) và [Telekom Malaysia](/vi/companies/telekom-malaysia) Berhad vào một địa điểm vật lý, để các sự phê duyệt tiếp theo của một nhà đầu tư đã được chấp thuận di chuyển mà không cần một chuyến đi riêng đến từng cơ quan. Một chi nhánh khu vực, **IMFC-J**, kể từ đó đã mở để phục vụ các nhà đầu tư chuyển vào Đặc khu Kinh tế Johor–Singapore.
 
 ## Một nhiệm vụ mở rộng
 

@@ -34,7 +34,7 @@ faq:
     a: "买入和卖出双方均适用三项收费：券商佣金（由你的券商设定）、交易金额 0.03% 的清算费（上限 1,000 令吉），以及每 1,000 令吉（不足亦以此计）价值 1 令吉的印花税（上限 1,000 令吉）。马交所上市股票的经纪佣金目前豁免服务税。"
 
 lang: "zh"
-sourceContentHash: "2aa2d9243406a229"
+sourceContentHash: "17c8242447ac4a60"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,7 +97,7 @@ keywords: ["CDS account", "Bursa Anywhere", "stockbroker Malaysia", "how to buy 
 framework: how-to
 ---
 
-拥有马银行（Maybank）或国家能源（Tenaga）的一小部分股权，起步靠的是两个账户，而不是一个——而且两者都不是银行账户。在你能够在马交所（Bursa Malaysia）买入哪怕一股之前，你都需要一个*持有*股票的地方和一个*下单*的地方。以下是两者如何配合，以及每一笔交易实际的成本。
+拥有马银行（[Maybank](/zh/companies/maybank)）或国家能源（Tenaga）的一小部分股权，起步靠的是两个账户，而不是一个——而且两者都不是银行账户。在你能够在马交所（Bursa Malaysia）买入哪怕一股之前，你都需要一个*持有*股票的地方和一个*下单*的地方。以下是两者如何配合，以及每一笔交易实际的成本。
 
 ## 我到底需要什么才能起步？
 

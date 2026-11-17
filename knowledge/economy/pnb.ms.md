@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e3b1b939af180abf"
+sourceContentHash: "c6ef01d3bb216ad1"
 
 status: "published"
 aiAssisted: true
@@ -135,7 +135,7 @@ memiliki ASNB sepenuhnya. ASNB pula ialah syarikat pengurusan amanah saham:
 ia adalah entiti yang dinamakan sebagai "Pengurus" pada setiap prospektus dan
 Product Highlights Sheet, iaitu pihak yang mengeluarkan unit, memproses
 belian balik, dan mengendalikan 32 pejabat cawangan serta lebih 2,700 ejen di
-seluruh negara (Maybank, CIMB, RHB, BSN, Pos Malaysia dan lain-lain) tempat
+seluruh negara ([Maybank](/ms/companies/maybank), CIMB, RHB, BSN, Pos Malaysia dan lain-lain) tempat
 rakyat Malaysia sebenarnya membuat transaksi.
 
 Pembahagian ini penting atas satu sebab praktikal: aduan, pertanyaan akaun dan

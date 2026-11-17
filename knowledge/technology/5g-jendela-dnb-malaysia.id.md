@@ -36,7 +36,7 @@ faq:
     a: "Tidak. Pada 7 Maret 2026, CelcomDigi dan Maxis masing-masing menyelesaikan pembelian saham Kementerian Keuangan dalam DNB berjumlah RM327,872,640.28, menandai pemerintah keluar dari bisnis grosir 5G dan menjadikan DNB entitas milik swasta sepenuhnya yang dimiliki oleh perusahaan telko dan YTL."
 
 lang: "id"
-sourceContentHash: "c56c91a9d7764362"
+sourceContentHash: "953b610723ae239f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -173,7 +173,7 @@ Peralihan ke model dua jaringan terjadi dengan cepat sepanjang 2024:
 - **1 November 2024** — SKMM menamai **U Mobile** sebagai penyedia jaringan 5G kedua.
 - **31 Desember 2024** — Arahan Menteri No. 4 Tahun 2024 membatalkan arahan jaringan grosir tunggal 2021, mengakhiri monopoli DNB dan mengukuhkan model dua jaringan.
 
-Empat operator mengajukan penawaran: CelcomDigi, Maxis, U Mobile dan Telekom Malaysia. SKMM mengatakan ia memilih U Mobile setelah pertimbangan terperinci tentang merit teknis dan komersial setiap rencana. Kemenangan datang dengan satu syarat tegas: karena keempat perusahaan telko secara kolektif memegang kepemilikan dalam DNB, U Mobile terpaksa **melepaskan kepemilikan sahamnya dalam DNB** dan keluar dari jaringan itu untuk memusatkan perhatian membangun jaringannya sendiri.
+Empat operator mengajukan penawaran: CelcomDigi, Maxis, U Mobile dan [Telekom Malaysia](/id/companies/telekom-malaysia). SKMM mengatakan ia memilih U Mobile setelah pertimbangan terperinci tentang merit teknis dan komersial setiap rencana. Kemenangan datang dengan satu syarat tegas: karena keempat perusahaan telko secara kolektif memegang kepemilikan dalam DNB, U Mobile terpaksa **melepaskan kepemilikan sahamnya dalam DNB** dan keluar dari jaringan itu untuk memusatkan perhatian membangun jaringannya sendiri.
 
 U Mobile meluncurkan jaringan keduanya, berjenama ULTRA5G, pada **18 Agustus 2025**, mulai beroperasi lebih dulu di Berjaya Times Square (disebut sebagai pusat perbelanjaan pertama negara yang sepenuhnya berkemampuan 5G). Ia dibangun sebagai jaringan 5G mandiri (SA) dengan network slicing, menggunakan Huawei dan ZTE sebagai mitra teknologi, dan U Mobile menetapkan target cakupan penduduk 80% menjelang paruh kedua 2026.
 

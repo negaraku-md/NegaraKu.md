@@ -22,7 +22,7 @@ appliesTo: "マレーシアの新居や新しい物件へ引っ越し、電力�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d7658ca7c2a68725"
+sourceContentHash: "163ba8d9c69cf9c9"
 
 status: "published"
 aiAssisted: true
@@ -80,7 +80,7 @@ framework: how-to
 ## 三つの会社であって、単一の全国システムではない
 
 マレーシアの電力供給は、単一の機関によって運営されているわけではない。
-**テナガ・ナショナル（Tenaga Nasional Berhad、TNB）** はmyTNBポータルと
+**テナガ・ナショナル（[Tenaga Nasional Berhad](/ja/companies/tenaga-nasional)、TNB）** はmyTNBポータルと
 **Kedai Tenaga（電力店）** のネットワークを通じてマレーシア半島を担っている。
 サバは**サバ電力（Sabah Electricity Sdn Bhd、SESB）**、サラワクは
 **[サラワク・エナジー（Sarawak Energy Berhad）](/energy/sarawak-energy-berhad)** の

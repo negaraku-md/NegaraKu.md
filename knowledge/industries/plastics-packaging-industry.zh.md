@@ -31,7 +31,7 @@ faq:
   - q: 马来西亚在塑料污染方面采取了什么措施？
     a: 由环境部牵头的《2021—2030 年马来西亚塑料可持续发展路线图》设定目标，逐步淘汰有问题的一次性塑料、提高回收率与再生含量，并使塑料包装可回收。它还引入了生产者延伸责任（EPR）机制，令生产者协助资助收集与回收。
 lang: zh
-sourceContentHash: "997857d937a84a00"
+sourceContentHash: "dc6e2cfa034711f6"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -122,7 +122,7 @@ framework: profile
 
 这个产业并非始于颗粒——它始于石油与天然气。塑料位于马来西亚[化学与石化产业](/zh/industries/chemicals-petrochemicals-industry/)的**下游**端，后者把碳氢化合物裂解为聚合物的基础构件。
 
-马来西亚自产大量树脂。**国家石油化学集团（PETRONAS Chemicals Group）**与**乐天化学泰坦（Lotte Chemical Titan）**是聚乙烯（PE）与聚丙烯（PP）等大宗聚合物的主要生产商。国家石油公司位于柔佛的大型边佳兰一体化综合设施（RAPID 项目的一部分）新增了可观的下游聚合物产能——包括 PE、PP 与 HDPE 产线——深化了该国为本国加工商供料的能力。这种从炼油到树脂再到成品包装的纵向整合是一项结构性优势：它缩短供应链，并为加工商缓冲进口原材料的部分波动。即便如此，特种品级仍依赖进口，而树脂价格也紧随全球石油市场。
+马来西亚自产大量树脂。**国家石油化学集团（[PETRONAS Chemicals Group](/zh/companies/petronas-chemicals)）**与**乐天化学泰坦（Lotte Chemical Titan）**是聚乙烯（PE）与聚丙烯（PP）等大宗聚合物的主要生产商。国家石油公司位于柔佛的大型边佳兰一体化综合设施（RAPID 项目的一部分）新增了可观的下游聚合物产能——包括 PE、PP 与 HDPE 产线——深化了该国为本国加工商供料的能力。这种从炼油到树脂再到成品包装的纵向整合是一项结构性优势：它缩短供应链，并为加工商缓冲进口原材料的部分波动。即便如此，特种品级仍依赖进口，而树脂价格也紧随全球石油市场。
 
 ## 这个产业生产什么
 

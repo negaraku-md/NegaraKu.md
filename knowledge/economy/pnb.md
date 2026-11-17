@@ -132,7 +132,7 @@ money market instruments — and it is the holding company that owns ASNB
 outright. ASNB is the unit trust management company: it is the entity named
 as "Manager" on every prospectus and Product Highlights Sheet, the one that
 issues units, processes repurchases, and runs the 32 branch offices and more
-than 2,700 agents nationwide (Maybank, CIMB, RHB, BSN, Pos Malaysia and
+than 2,700 agents nationwide ([Maybank](/companies/maybank), CIMB, RHB, BSN, Pos Malaysia and
 others) where Malaysians actually transact.
 
 This split matters for one practical reason: complaints, account queries and

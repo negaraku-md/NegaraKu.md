@@ -34,7 +34,7 @@ faq:
     a: "Section 3 đặt Petronas dưới sự kiểm soát và chỉ đạo của Thủ tướng, mà các chỉ đạo của ông ràng buộc pháp nhân đó. Section 6 đòi hỏi sự cho phép của Thủ tướng trước khi bất kỳ ai ngoài Petronas tiến hành việc chế biến, tinh luyện hoặc sản xuất các sản phẩm hóa dầu, và Section 7 trao cho Thủ tướng quyền làm quy định."
 
 lang: "vi"
-sourceContentHash: "bc9ab1d1d905cd8f"
+sourceContentHash: "901557e7ba61a4e5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ Petroleum Development Act 1974 (Act 144) nhận được sự phê chuẩn của
 
 Cốt lõi của Đạo luật này nằm ở Section 2. Nó quy định rằng "toàn bộ quyền sở hữu trong, cùng các quyền, quyền lực, sự tự do và đặc quyền độc quyền để thăm dò, khai thác, thu được và lấy dầu mỏ dù trên đất liền hay ngoài khơi của Malaysia sẽ được đặt vào một Pháp nhân". Section 2(2) nêu việc chuyển giao quyền đó có hiệu lực khi một văn kiện theo hình thức của Phụ lục được ký, và Section 2(3) khẳng định quyền sở hữu cùng quyền đó "không thể hủy ngang (irrevocable) và tiếp tục vì lợi ích của Pháp nhân đó và những người kế thừa của nó". Phụ lục của Đạo luật phác họa văn kiện chuyển giao trao quyền đó cho Petronas "in perpetuity" (vĩnh viễn).
 
-Section 3 đặt tên pháp nhân đó — dù trái với quy tắc thông thường của Companies Act 1965 về tên công ty — là Petroliam Nasional Berhad, hay gọn là Petronas, và đặt nó dưới "sự kiểm soát và chỉ đạo của Thủ tướng", mà các chỉ đạo của ông ràng buộc pháp nhân đó. Khung này tập trung quyền sở hữu và việc quản lý vào một thực thể liên bang.
+Section 3 đặt tên pháp nhân đó — dù trái với quy tắc thông thường của Companies Act 1965 về tên công ty — là [Petroliam Nasional Berhad](/vi/companies/petronas), hay gọn là Petronas, và đặt nó dưới "sự kiểm soát và chỉ đạo của Thủ tướng", mà các chỉ đạo của ông ràng buộc pháp nhân đó. Khung này tập trung quyền sở hữu và việc quản lý vào một thực thể liên bang.
 
 | Section | Nội dung |
 | --- | --- |

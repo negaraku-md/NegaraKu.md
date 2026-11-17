@@ -170,7 +170,7 @@ zone at Kuala Lumpur International Airport** — **Act 438 First Schedule item 1
 International Airport, Sepang", activities column "Commercial"**, bounded by Gazette Plans 1207,
 1981, 3004 and 1376 of the Selangor Survey Department. It was declared under s.3(1) by the same
 mechanism as Pasir Gudang, Port Klang and Tanjung Pelepas, and its appointed Authority is
-**Malaysia Airports Holdings Berhad**. Nothing distinguishes it in law.
+**[Malaysia Airports Holdings Berhad](/companies/malaysia-airports-mahb)**. Nothing distinguishes it in law.
 
 That is the single most useful thing to understand here. **DFTZ was a policy brand and a
 facilitation programme, layered over conventional free-zone machinery** — not a distinct legal

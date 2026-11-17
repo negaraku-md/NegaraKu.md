@@ -179,7 +179,7 @@ Facilitation Centre (IMFC)**, physically housed at MIDA Sentral and running
 since **1 December 2023**. It brings officers from the Inland Revenue Board,
 the Immigration Department, the Royal Malaysian Customs Department, the
 Malaysian Communications and Multimedia Commission, the Department of Labour
-Peninsular Malaysia, Tenaga Nasional Berhad and Telekom Malaysia Berhad into
+Peninsular Malaysia, [Tenaga Nasional Berhad](/companies/tenaga-nasional) and [Telekom Malaysia](/companies/telekom-malaysia) Berhad into
 one physical location, so an approved investor's follow-on approvals move
 without a separate trip to each agency. A regional extension, **IMFC-J**,
 has since opened to serve investors moving into the

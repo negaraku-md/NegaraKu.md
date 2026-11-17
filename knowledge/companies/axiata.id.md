@@ -33,7 +33,7 @@ faq:
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "beccce94b3261d31"
+sourceContentHash: "b02d2bf50fe3eddc"
 
 status: "published"
 aiAssisted: true
@@ -91,7 +91,7 @@ Jangkauan grup ini mencakup Malaysia, Indonesia, Sri Lanka, Bangladesh, dan Kamb
 
 ## Sejarah: dari TM International ke Axiata
 
-Akar Axiata terletak di dalam bekas monopoli nasional. Ia didirikan pada 12 Juni 1992 sebagai **TM International Berhad**, lengan internasional dan seluler [Telekom Malaysia](/id/malaysia). Selama beberapa tahun berikutnya ia mengumpulkan kepemilikan seluler di seluruh pasar Asia berkembang, dan pada 2008 ia dicatatkan secara terpisah di Bursa Malaysia.
+Akar Axiata terletak di dalam bekas monopoli nasional. Ia didirikan pada 12 Juni 1992 sebagai **TM International Berhad**, lengan internasional dan seluler [Telekom Malaysia](/id/companies/telekom-malaysia). Selama beberapa tahun berikutnya ia mengumpulkan kepemilikan seluler di seluruh pasar Asia berkembang, dan pada 2008 ia dicatatkan secara terpisah di Bursa Malaysia.
 
 Pada 2 April 2009 perusahaan ini mengubah merek menjadi **Axiata Group Berhad**, menandakan identitas yang independen dari bekas induknya dan strategi yang berpusat pada pertumbuhan seluler regional alih-alih akar telepon tetap Malaysianya. Nama itu sejak itu menjadi merek payung yang dibawa beberapa operatornya, seperti XL Axiata dan Dialog Axiata.
 

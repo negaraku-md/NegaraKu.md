@@ -130,7 +130,7 @@ The main mobile operators today are:
 
 Alongside these run a layer of **mobile virtual network operators (MVNOs)** and prepaid brands (such as those riding on the big networks) that add competition at the budget end.
 
-On the fixed side, the market leader is **Telekom Malaysia (TM)**, the former state monopoly, whose **unifi** brand dominates fixed broadband and which also owns much of the national backbone and international connectivity. TM competes with **Maxis Fibre**, **TIME dotCom** (strong in high-rise and urban fibre) and **YTL Communications**, which runs the **Yes** brand. Several operators now sell **converged** packages — mobile and home broadband bundled together — which is a major front in the competition for household spending.
+On the fixed side, the market leader is **[Telekom Malaysia](/companies/telekom-malaysia) (TM)**, the former state monopoly, whose **unifi** brand dominates fixed broadband and which also owns much of the national backbone and international connectivity. TM competes with **Maxis Fibre**, **TIME dotCom** (strong in high-rise and urban fibre) and **YTL Communications**, which runs the **Yes** brand. Several operators now sell **converged** packages — mobile and home broadband bundled together — which is a major front in the competition for household spending.
 
 ## Mobile versus fixed broadband
 

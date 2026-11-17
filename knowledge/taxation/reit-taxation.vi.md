@@ -31,7 +31,7 @@ faq:
     a: "Nói chung là không. Khi quỹ được miễn theo section 61A, thu nhập chưa bị đánh thuế, nên khoản phân phối không mang một khoản tín dụng thuế section 110 mà một người nắm giữ chứng chỉ có thể cấn trừ. Một khoản tín dụng chỉ phát sinh khi chính quỹ bị đánh thuế (ví dụ, khi nó phân phối dưới 90%)."
 
 lang: "vi"
-sourceContentHash: "74ef95198966c611"
+sourceContentHash: "b78af90aa1ceb41e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -187,7 +187,7 @@ Lý do được đưa ra cho việc chấm dứt nhân nhượng là ngành REIT
 thành thành một loại tài sản được chấp nhận rộng rãi không còn cần hỗ trợ thuế ưu đãi
 để thu hút vốn, với thay đổi này cũng mở rộng cơ sở thuế bằng cách căn chỉnh các
 khoản phân phối REIT với các quy tắc thuế thu nhập chuẩn. Nghiên cứu bên bán nhìn
-chung đồng ý rằng thay đổi làm sứt mẻ tâm lý nhiều hơn nền tảng: Maybank Investment
+chung đồng ý rằng thay đổi làm sứt mẻ tâm lý nhiều hơn nền tảng: [Maybank](/vi/companies/maybank) Investment
 Bank ước tính lợi suất phân phối ròng vẫn sẽ trung bình khoảng 4.7% đến 6% và vẫn
 cạnh tranh so với các ngành khác, và các nhà khác — bao gồm BIMB Securities và RHB
 Research — giữ các quan điểm tích cực về mảng này.

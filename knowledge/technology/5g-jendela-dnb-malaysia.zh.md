@@ -36,7 +36,7 @@ faq:
     a: "否。2026 年 3 月 7 日，CelcomDigi 与 Maxis 各以 RM327,872,640.28 完成对财政部所持 DNB 股份的收购，标志着政府退出 5G 批发业务，并使 DNB 成为由电信商和 YTL 持有的完全私有实体。"
 
 lang: "zh"
-sourceContentHash: "c56c91a9d7764362"
+sourceContentHash: "953b610723ae239f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -173,7 +173,7 @@ JENDELA 被刻意划分为若干阶段，每个阶段都以 2020 年 9 月的基
 - **2024 年 11 月 1 日**——MCMC 指定 **U Mobile** 为第二个 5G 网络供应商。
 - **2024 年 12 月 31 日**——《2024 年第 4 号部长指令》撤销了 2021 年的单一批发网络指令，结束了 DNB 的垄断，并确立了双网络模式。
 
-四家运营商竞标：CelcomDigi、Maxis、U Mobile 和 Telekom Malaysia。MCMC 表示，它在对每份方案的技术和商业价值进行详细审议后选定了 U Mobile。中标附带一个硬性条件：由于这四家电信商共同持有 DNB 的股份，U Mobile 必须**剥离其在 DNB 的持股**并退出该网络，以便专注于建设自己的网络。
+四家运营商竞标：CelcomDigi、Maxis、U Mobile 和 [Telekom Malaysia](/zh/companies/telekom-malaysia)。MCMC 表示，它在对每份方案的技术和商业价值进行详细审议后选定了 U Mobile。中标附带一个硬性条件：由于这四家电信商共同持有 DNB 的股份，U Mobile 必须**剥离其在 DNB 的持股**并退出该网络，以便专注于建设自己的网络。
 
 U Mobile 于 **2025 年 8 月 18 日**推出其第二个网络，品牌名为 ULTRA5G，首先在 Berjaya Times Square 上线（宣称为全国首个全面 5G 化的购物中心）。它作为一个具备网络切片功能的 5G 独立组网（SA）网络建设，采用华为和中兴作为技术合作伙伴，U Mobile 设定了在 2026 年下半年前实现 80% 人口覆盖的目标。
 

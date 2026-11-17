@@ -26,7 +26,7 @@ verificationNeeded:
   - "EPF의 총 투자 자산과 총 회원 수치는 kwsp.gov.my를 직접 가져와 독립적으로 확인할 수 없었습니다(사이트가 자동 가져오기에 HTTP 403을 반환). 이 글은 검증되지 않은 수치를 게재하기보다 정확한 EPF AUM이나 회원 수치를 의도적으로 생략합니다 — 최초 사람 검토 시 kwsp.gov.my 출처와 함께 둘 다 추가할 것"
 
 lang: "ko"
-sourceContentHash: "bde519fccc17693d"
+sourceContentHash: "b55efcf4efb4852f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -145,7 +145,7 @@ Finance Incorporated)이 소유합니다. 실제로 이는 카자나의 초기 �
 
 오늘날 카자나의 포트폴리오는 투자 포트폴리오(사모, 실물 자산, 공개 시장), 다나 임팍(Dana
 Impak) 개발 포트폴리오, 레거시 개발 자산, 특수 상황 보유분으로 구성됩니다. 주요 상장
-포지션에는 CIMB, 텔레콤 말레이시아, 테나가 나시오날, IHH 헬스케어, 악시아타(Axiata),
+포지션에는 CIMB, [텔레콤 말레이시아](/ko/companies/telekom-malaysia), 테나가 나시오날, [IHH 헬스케어](/ko/companies/ihh-healthcare), 악시아타(Axiata),
 말레이시아 에어포츠, 아스트로(Astro)가 포함됩니다.
 
 2025년 카자나는 순자산 RM1,050억, 총자산 RM1,560억, 영업 이익 RM56억을 보고했으며, 이는

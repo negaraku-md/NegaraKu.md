@@ -26,7 +26,7 @@ verificationNeeded:
   - "Total aset investasi dan total keanggotaan EPF tidak dapat diverifikasi secara independen melalui fetch langsung ke kwsp.gov.my (situs itu mengembalikan HTTP 403 terhadap fetch otomatis); artikel ini sengaja mengesampingkan angka AUM apa pun atau jumlah anggota EPF yang persis daripada menerbitkan angka yang tidak terverifikasi — tambahkan keduanya, dengan sumber kwsp.gov.my, pada peninjauan manusia pertama"
 
 lang: "id"
-sourceContentHash: "bde519fccc17693d"
+sourceContentHash: "b55efcf4efb4852f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -153,8 +153,7 @@ dari individu.
 Hari ini portofolio Khazanah disusun menjadi Portofolio Investasi (ekuitas
 swasta, aset riil, dan pasar publik), portofolio pembangunan Dana
 Impak, Aset Pembangunan warisan, dan kepemilikan Situasi Khusus. Posisi
-tercatat utama termasuk CIMB, Telekom Malaysia, Tenaga Nasional, IHH
-Healthcare, Axiata, Malaysia Airports, dan Astro.
+tercatat utama termasuk CIMB, [Telekom Malaysia](/id/companies/telekom-malaysia), Tenaga Nasional, [IHH Healthcare](/id/companies/ihh-healthcare), Axiata, Malaysia Airports, dan Astro.
 
 Bagi 2025, Khazanah melaporkan aset bersih sebanyak RM105 miliar, total
 aset RM156 miliar, dan keuntungan dari operasi RM5.6 miliar — imbal hasil

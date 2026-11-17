@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "596219fad8f1401b"
+sourceContentHash: "af9faa6b0d03ba80"
 
 status: "published"
 aiAssisted: true
@@ -95,7 +95,7 @@ Akar umbi RHB menjunam jauh ke dalam sejarah perbankan Malaysia. Nenek moyang te
 - Pada 1999, kumpulan ini menyerap Sime Bank (bekas United Malayan Banking Corporation, bermula sejak 1959).
 - Pada 2003, ia bergabung dengan Bank Utama (Malaysia) Berhad.
 
-Satu lagi transformasi berlaku pada 2012, apabila RHB Capital Berhad mengambil alih OSK Investment Bank menerusi pertukaran saham; kedua-dua perniagaan perbankan pelaburan digabungkan berkuat kuasa April 2013, membesarkan dengan ketara bahagian pasaran modal kumpulan ini. Pada 2016, RHB Bank Berhad mengambil alih status penyenaraian RHB Capital Berhad untuk menjadi syarikat induk kewangan tersenarai kumpulan ini. Cadangan penggabungan dengan kumpulan AmBank diterokai pada 2017 tetapi dibatalkan selepas pihak-pihak terbabit tidak dapat bersetuju dengan terma.
+Satu lagi transformasi berlaku pada 2012, apabila RHB Capital Berhad mengambil alih OSK Investment Bank menerusi pertukaran saham; kedua-dua perniagaan perbankan pelaburan digabungkan berkuat kuasa April 2013, membesarkan dengan ketara bahagian pasaran modal kumpulan ini. Pada 2016, RHB Bank Berhad mengambil alih status penyenaraian RHB Capital Berhad untuk menjadi syarikat induk kewangan tersenarai kumpulan ini. Cadangan penggabungan dengan kumpulan [AmBank](/ms/companies/ambank-group) diterokai pada 2017 tetapi dibatalkan selepas pihak-pihak terbabit tidak dapat bersetuju dengan terma.
 
 ## Segmen Perniagaan
 

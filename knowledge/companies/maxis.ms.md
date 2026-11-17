@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b2828cf36c6fd07d"
+sourceContentHash: "50d792c288399ed7"
 
 status: "published"
 aiAssisted: true
@@ -117,7 +117,7 @@ Kerajaan kemudian bergerak ke arah **model dua rangkaian**, di mana rangkaian 5G
 
 ## Skala dan kepentingan
 
-Maxis ialah salah satu daripada sebilangan kecil pengendali yang antara mereka membawa sebahagian besar trafik mudah alih dan jalur lebar tetap Malaysia. Pesaing utamanya ialah [Axiata](/ms/companies/axiata) (yang perniagaan mudah alih Malaysianya bergabung dengan Digi untuk membentuk CelcomDigi), U Mobile dan Telekom Malaysia. Dalam pasaran di mana penembusan mudah alih sangat tinggi dan pertumbuhan datang terutamanya daripada pakej bersepadu — menjual mudah alih, jalur lebar rumah dan perkhidmatan digital bersama-sama — tujahan Maxis ke dalam fiber rumah dan perusahaan adalah penting kepada strateginya.
+Maxis ialah salah satu daripada sebilangan kecil pengendali yang antara mereka membawa sebahagian besar trafik mudah alih dan jalur lebar tetap Malaysia. Pesaing utamanya ialah [Axiata](/ms/companies/axiata) (yang perniagaan mudah alih Malaysianya bergabung dengan Digi untuk membentuk CelcomDigi), U Mobile dan [Telekom Malaysia](/ms/companies/telekom-malaysia). Dalam pasaran di mana penembusan mudah alih sangat tinggi dan pertumbuhan datang terutamanya daripada pakej bersepadu — menjual mudah alih, jalur lebar rumah dan perkhidmatan digital bersama-sama — tujahan Maxis ke dalam fiber rumah dan perusahaan adalah penting kepada strateginya.
 
 Sebagai syarikat besar yang membayar dividen di Bursa Malaysia, Maxis juga merupakan pegangan penting bagi pelabur institusi dan dana pencen Malaysia, yang memberikan keputusan dan kedudukan pengawalseliaannya bobot melebihi sektor telekomunikasi itu sendiri.
 

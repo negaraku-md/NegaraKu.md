@@ -33,7 +33,7 @@ faq:
 lang: "fr"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "596219fad8f1401b"
+sourceContentHash: "af9faa6b0d03ba80"
 
 status: "published"
 aiAssisted: true
@@ -95,7 +95,7 @@ Les racines de RHB plongent profondément dans l'histoire bancaire malaisienne. 
 - En 1999, le groupe a absorbé Sime Bank (l'ancienne United Malayan Banking Corporation, datant de 1959).
 - En 2003, il a fusionné avec Bank Utama (Malaysia) Berhad.
 
-Une nouvelle transformation est intervenue en 2012, lorsque RHB Capital Berhad a acquis OSK Investment Bank par un échange d'actions ; les deux activités de banque d'investissement ont été regroupées à compter d'avril 2013, élargissant considérablement le pôle marchés de capitaux du groupe. En 2016, RHB Bank Berhad a repris le statut de cotation de RHB Capital Berhad pour devenir la société holding financière cotée du groupe. Un projet de fusion avec le groupe AmBank a été exploré en 2017, mais a été abandonné après que les parties n'ont pu s'entendre sur les termes.
+Une nouvelle transformation est intervenue en 2012, lorsque RHB Capital Berhad a acquis OSK Investment Bank par un échange d'actions ; les deux activités de banque d'investissement ont été regroupées à compter d'avril 2013, élargissant considérablement le pôle marchés de capitaux du groupe. En 2016, RHB Bank Berhad a repris le statut de cotation de RHB Capital Berhad pour devenir la société holding financière cotée du groupe. Un projet de fusion avec le groupe [AmBank](/fr/companies/ambank-group) a été exploré en 2017, mais a été abandonné après que les parties n'ont pu s'entendre sur les termes.
 
 ## Segments d'activité
 

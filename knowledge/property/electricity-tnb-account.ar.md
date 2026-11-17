@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "كلّ من ينتقل إلى منزل أو عقار جديد في ماليزيا ويحتاج إلى فتح حساب إمداد كهرباء أو نقله أو إغلاقه — سواء في شبه الجزيرة أو صباح أو ساراواك."
 
 lang: "ar"
-sourceContentHash: "d7658ca7c2a68725"
+sourceContentHash: "163ba8d9c69cf9c9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,11 +80,9 @@ framework: how-to
 
 ## ثلاث شركات، لا نظام وطني واحد
 
-إمداد الكهرباء في ماليزيا لا تديره هيئة واحدة. فشركة **Tenaga
-Nasional Berhad (TNB)** الوطنية الماليزية للطاقة تخدم شبه جزيرة ماليزيا عبر
+إمداد الكهرباء في ماليزيا لا تديره هيئة واحدة. فشركة **[Tenaga Nasional Berhad](/ar/companies/tenaga-nasional) (TNB)** الوطنية الماليزية للطاقة تخدم شبه جزيرة ماليزيا عبر
 بوابة myTNB وشبكة منافذ **Kedai Tenaga**. أمّا صباح فتتبع **Sabah
-Electricity Sdn Bhd (SESB)**، وساراواك تتبع **[Sarawak Energy
-Berhad](/energy/sarawak-energy-berhad)**. وتعمل الثلاث جميعها بشكل منفصل، ولكلٍّ منها استماراتها
+Electricity Sdn Bhd (SESB)**، وساراواك تتبع **[Sarawak Energy Berhad](/energy/sarawak-energy-berhad)**. وتعمل الثلاث جميعها بشكل منفصل، ولكلٍّ منها استماراتها
 وتعريفات ودائعها بل ومصطلحاتها الخاصة — ومن ثمّ فإنّ بحثًا في Google عن
 «كيفية التقدّم بطلب كهرباء» لا يُظهر سوى أدلّة TNB لن يفيد كثيرًا إذا كان
 المنزل في كوتا كينابالو أو كوتشينغ.
@@ -185,10 +183,8 @@ TNB أهلية SMR لذلك الحساب تلقائيًا.
 ## ماذا بعد
 
 الكهرباء ليست سوى واحدة من أمور عدّة يجب تسويتها عند الانتقال إلى منزل
-جديد في ماليزيا — انظر [الخطوات الأولى للانتقال إلى
-ماليزيا](/settling-in/moving-to-malaysia-first-steps) لسائر المتطلّبات
+جديد في ماليزيا — انظر [الخطوات الأولى للانتقال إلى ماليزيا](/settling-in/moving-to-malaysia-first-steps) لسائر المتطلّبات
 ذات الصلة. ولمن يحتاج أيضًا إلى إعداد خطّ هاتف محمول في العقار الجديد،
-انظر [دليل شرائح SIM المدفوعة مسبقًا واللاحقة
-الدفع](/money-daily-life/mobile-sim-plans).
+انظر [دليل شرائح SIM المدفوعة مسبقًا واللاحقة الدفع](/money-daily-life/mobile-sim-plans).
 
 اطّلع على الدليل الكامل: [شراء منزل في ماليزيا](/ar/property/buying-a-home-process/).

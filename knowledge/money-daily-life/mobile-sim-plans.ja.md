@@ -24,7 +24,7 @@ appliesTo: "マレーシアにいる、現地の携帯SIMを購入または登�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5f238099826ab02d"
+sourceContentHash: "a99a6fb1aad234c9"
 
 status: "published"
 aiAssisted: true
@@ -97,7 +97,7 @@ framework: explainer
 | U Mobile | Unlimited Funz Prepaid | マレーシア第3の全国ネットワーク事業者 |
 
 規模の小さい二つの事業者——**Yes**（YTL Communications）と **Unifi Mobile**
-（Telekom Malaysia）——は、上記の三社と並んで自社の4G/LTEネットワークを運営して
+（[Telekom Malaysia](/ja/companies/telekom-malaysia)）——は、上記の三社と並んで自社の4G/LTEネットワークを運営して
 おり、多くの場合、家庭用ブロードバンドとセットで販売される。どの事業者を選んでも、
 下記の登録要件は同じように適用される。
 

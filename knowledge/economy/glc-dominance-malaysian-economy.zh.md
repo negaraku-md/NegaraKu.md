@@ -32,7 +32,7 @@ faq:
     a: "是的。2021年推出的PERKUKUH倡议提出了20项举措，旨在（除其他目标外）赋予每家政联投资公司更清晰的使命、增加私营部门的参与（'引入'private-sector crowding in），并精简政府在商业中的角色，同时将更多投资引向具有催化和发展意义的领域。"
 
 lang: "zh"
-sourceContentHash: "72a029d7e3ea589d"
+sourceContentHash: "e364599cb19e8b25"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -127,9 +127,9 @@ framework: explainer
 
 并不均匀。政联投资公司的所有权集中在经济中资本密集、受监管或具战略敏感性的部分——这些正是政府最不愿完全交给私人之手的行业。
 
-- **银行与金融**——马银行（Maybank，该国最大的银行，通过PNB控制）、联昌集团（CIMB Group）和兴业银行（RHB Bank）都以政联投资公司为支撑。一项历时十年的检讨发现，各政联投资公司在46家上市公司中持有至少30%的股权，其中大型银行位列表现最稳健者之中。
+- **银行与金融**——马银行（[Maybank](/zh/companies/maybank)，该国最大的银行，通过PNB控制）、联昌集团（[CIMB Group](/zh/companies/cimb)）和兴业银行（RHB Bank）都以政联投资公司为支撑。一项历时十年的检讨发现，各政联投资公司在46家上市公司中持有至少30%的股权，其中大型银行位列表现最稳健者之中。
 - **公用事业与能源**——国能（Tenaga Nasional）运营国家电网；马来西亚天然气（Gas Malaysia）及与国油（Petronas）关联的上市单位涵盖天然气与石化。公用事业接近于天然的国家垄断，因此政联投资公司在此领域的所有权最为深厚。
-- **电信**——马来西亚电信（Telekom Malaysia，固网与宽带的老牌运营商）和数据中心企业TIME dotCom，与政联投资公司在移动运营商中的股权并存。
+- **电信**——马来西亚电信（[Telekom Malaysia](/zh/companies/telekom-malaysia)，固网与宽带的老牌运营商）和数据中心企业TIME dotCom，与政联投资公司在移动运营商中的股权并存。
 - **种植业**——[森那美（Sime Darby）](/companies/sime-darby-group)和Boustead种植，使国家处于马来西亚棕榈油经济的中心。
 
 大致规律是一致的：国家的掌控在基础设施和金融领域最紧，而在私营和外资企业主导的面向消费者及出口制造业领域则较为松散。

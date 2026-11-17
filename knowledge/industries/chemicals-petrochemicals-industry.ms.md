@@ -31,7 +31,7 @@ faq:
   - q: Bagaimana kerajaan menyokong industri kimia?
     a: Lembaga Pembangunan Pelaburan Malaysia (MIDA), melalui Bahagian Kimia dan Bahan Termaju, menilai permohonan lesen pembuatan dan menawarkan insentif seperti Taraf Perintis dan Elaun Cukai Pelaburan. Projek petroleum dan petrokimia juga dikawal di bawah Akta Kemajuan Petroleum 1974. Pelan Hala Tuju Industri Kimia 2030 dan Pelan Induk Perindustrian Baharu 2030 menetapkan arah strategik ke arah kimia istimewa yang bernilai lebih tinggi.
 lang: ms
-sourceContentHash: "1c45aa3fcee5cc05"
+sourceContentHash: "11eb5b1edb640b2d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -128,7 +128,7 @@ Cita-cita strategik industri ini, yang dinyatakan dalam CIR2030, adalah untuk me
 
 ## Pemain utama dan GLC
 
-Tunjangnya ialah **PETRONAS Chemicals Group (PCG)**, lengan petrokimia tersenarai syarikat minyak nasional [PETRONAS](/economy/oil-gas-petronas/). PCG ialah pengeluar bersepadu dominan dalam olefin, polimer dan baja, dan skalanya datang daripada akses istimewa kepada bahan suapan gas domestik.
+Tunjangnya ialah **[PETRONAS Chemicals Group](/ms/companies/petronas-chemicals) (PCG)**, lengan petrokimia tersenarai syarikat minyak nasional [PETRONAS](/economy/oil-gas-petronas/). PCG ialah pengeluar bersepadu dominan dalam olefin, polimer dan baja, dan skalanya datang daripada akses istimewa kepada bahan suapan gas domestik.
 
 **Lotte Chemical Titan**, dimiliki majoriti oleh Lotte Chemical Korea Selatan, ialah pemain berat yang satu lagi. Ditubuhkan pada 1991 sebagai pengeluar poliolefin bersendirian pertama Malaysia, ia telah digambarkan sebagai pengeluar olefin dan poliolefin bersepadu terbesar di negara ini, dengan kapasiti merentasi dua tapak di Johor (angka tepat berbeza antara sumber). Bidang luas syarikat multinasional — dalam gas industri, salutan, agrokimia dan produk istimewa — serta asas besar pengeluar oleokimia berasaskan sawit melengkapkan sektor ini.
 

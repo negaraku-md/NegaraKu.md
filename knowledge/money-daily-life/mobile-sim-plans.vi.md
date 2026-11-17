@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai tại Malaysia — công dân, cư dân, người giữ thị thực lao động, sinh viên hay du khách — cần mua hoặc đăng ký một thẻ SIM di động nội địa."
 
 lang: "vi"
-sourceContentHash: "5f238099826ab02d"
+sourceContentHash: "a99a6fb1aad234c9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -99,8 +99,7 @@ ai đó vừa mới đến.
 | Maxis | Hotlink | Vận hành các gói trả sau riêng và các gói trả trước Hotlink |
 | U Mobile | Unlimited Funz Prepaid | Nhà khai thác mạng cấp quốc gia thứ ba của Malaysia |
 
-Hai bên nhỏ hơn — **Yes** (YTL Communications) và **Unifi Mobile** (Telekom
-Malaysia) — vận hành các mạng 4G/LTE riêng bên cạnh ba nhà mạng trên, thường đi kèm
+Hai bên nhỏ hơn — **Yes** (YTL Communications) và **Unifi Mobile** ([Telekom Malaysia](/vi/companies/telekom-malaysia)) — vận hành các mạng 4G/LTE riêng bên cạnh ba nhà mạng trên, thường đi kèm
 băng thông rộng gia đình. Dù bạn chọn nhà khai thác nào, yêu cầu đăng ký dưới đây áp
 dụng như nhau.
 

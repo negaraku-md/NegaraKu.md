@@ -29,7 +29,7 @@ faq:
     a: "できる。DuitNow QRは相互運用可能であり、参加してさえいれば、商家の一つのQRコードをTouch 'n Go eWallet、GrabPay、Boostなど異なる銀行や電子ウォレットでスキャンできる。"
 
 lang: "ja"
-sourceContentHash: "d327e61449ac93b7"
+sourceContentHash: "4d9809544dd36b01"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ framework: profile
 
 Payments Network Malaysia Sdn Bhd（PayNet）は自らを「マレーシアの国家決済ネットワークであり中央金融インフラである」と説明している。2017年8月1日、二つの旧来の運営会社——マレーシア電子決済システム（Malaysian Electronic Payment System、MEPS）とマレーシア電子清算公社（Malaysian Electronic Clearing Corporation、MyClear）——の合併によって設立され、国内の高額決済と小口決済のシステムを一つ屋根の下に統合した。
 
-中央銀行であるマレーシア国立銀行（BNM）は、PayNetの最大株主である。2025年12月の国会答弁で、財務省はBNMの持株比率を35.5%とし、この国家決済事業者への業界参加を広げるため、中央銀行が持株比率を段階的に引き下げる長期計画を策定中であると述べた。残りの株式は、Maybank、CIMB、Public Bankを含む11のマレーシア金融機関が保有している。所有権が特定の商業プレーヤー一社に握られるのではなく業界全体で共有されているため、PayNetは会員銀行と競合する存在としてではなく、共有された非競争的インフラとして運営される構造になっている。
+中央銀行であるマレーシア国立銀行（BNM）は、PayNetの最大株主である。2025年12月の国会答弁で、財務省はBNMの持株比率を35.5%とし、この国家決済事業者への業界参加を広げるため、中央銀行が持株比率を段階的に引き下げる長期計画を策定中であると述べた。残りの株式は、[Maybank](/ja/companies/maybank)、CIMB、Public Bankを含む11のマレーシア金融機関が保有している。所有権が特定の商業プレーヤー一社に握られるのではなく業界全体で共有されているため、PayNetは会員銀行と競合する存在としてではなく、共有された非競争的インフラとして運営される構造になっている。
 
 ## What does PayNet actually run?
 

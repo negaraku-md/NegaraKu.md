@@ -31,7 +31,7 @@ faq:
     a: "La Commission de l'énergie (Suruhanjaya Tenaga) est le principal régulateur. La SEDA Malaisie met en œuvre le NEM, tandis que le Single Buyer (sous l'égide de TNB) coordonne les programmes de marché tels que CGPP, CRESS et CREAM."
 
 lang: "fr"
-sourceContentHash: "69ed2a98233b72ad"
+sourceContentHash: "57d271bf1ff95022"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -117,7 +117,7 @@ Tous relèvent de la réglementation de la Commission de l'énergie (Suruhanjaya
 
 ## Comment fonctionne le NEM 3.0 pour les ménages et les entreprises ?
 
-Le NEM est la voie la plus courante pour le grand public. Vous installez des panneaux solaires en toiture, utilisez d'abord l'énergie produite, et envoyez l'excédent vers le réseau de Tenaga Nasional Berhad (TNB). Au titre du NEM 3.0, le bilan se fait sur une base « un pour un » — chaque kilowattheure envoyé vers le réseau est compensé par un kilowattheure que vous prélevez du réseau.
+Le NEM est la voie la plus courante pour le grand public. Vous installez des panneaux solaires en toiture, utilisez d'abord l'énergie produite, et envoyez l'excédent vers le réseau de [Tenaga Nasional Berhad](/fr/companies/tenaga-nasional) (TNB). Au titre du NEM 3.0, le bilan se fait sur une base « un pour un » — chaque kilowattheure envoyé vers le réseau est compensé par un kilowattheure que vous prélevez du réseau.
 
 Selon le portail RE de la SEDA, le NEM 3.0 s'est déroulé sur une période allant jusqu'au 30 juin 2025, avec un quota global total pouvant atteindre 2,500 MW. Il était divisé en trois sous-programmes :
 

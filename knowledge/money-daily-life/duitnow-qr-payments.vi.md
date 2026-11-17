@@ -26,7 +26,7 @@ verificationNeeded:
   - "Con số phí và hạn mức giao dịch được lấy trực tiếp từ trang chính thức của PayNet tại thời điểm viết bài; PayNet nêu rằng phí thực tế có thể khác nhau tùy từng ngân hàng/ví điện tử"
 
 lang: "vi"
-sourceContentHash: "1b31c1f5d1b3682f"
+sourceContentHash: "df04ec38e7fc7b1e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,7 +78,7 @@ framework: explainer
 ---
 
 Một người bán ở gian hàng chợ đêm chỉ trưng bày một mã QR duy nhất. Khách hàng
-dùng ứng dụng Maybank quét nó. Khách hàng tiếp theo dùng Touch 'n Go eWallet, quét
+dùng ứng dụng [Maybank](/vi/companies/maybank) quét nó. Khách hàng tiếp theo dùng Touch 'n Go eWallet, quét
 **cùng** mã QR đó. Cả hai khoản thanh toán đều đến tài khoản của người bán trong
 vòng vài giây. Không có mã QR riêng cho mỗi ngân hàng hay ví điện tử — đó là
 DuitNow QR đang hoạt động thầm lặng phía sau hậu trường.

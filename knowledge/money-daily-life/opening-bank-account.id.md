@@ -26,7 +26,7 @@ verificationNeeded:
   - "Halaman kebijakan pendaftaran digital/e-KYC BNM mengembalikan kesalahan 403 saat pengambilan otomatis pada saat penulisan; keberadaan dan judulnya diverifikasi langsung dari hasil pencarian bnm.gov.my, tetapi perincian kelayakan yang terperinci harus diperiksa kembali langsung di bnm.gov.my apabila dapat diakses."
 
 lang: "id"
-sourceContentHash: "0cc7d7d79dcaf765"
+sourceContentHash: "d020cec4f4cc6614"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -135,7 +135,7 @@ memandang berapa lama Anda sebenarnya telah tinggal di Malaysia. Kedua, bank
 mungkin masih meminta dokumen di luar daftar ini atau menjalankan pemeriksaan
 tambahan — laman CIMB sendiri menyatakan dengan jelas bahwa "dokumen
 pendukung tambahan yang tidak tercantum" dapat diminta, dan bank lain
-(Maybank, Public Bank, Hong Leong, RHB) menerbitkan daftar yang secara
+([Maybank](/id/companies/maybank), Public Bank, Hong Leong, RHB) menerbitkan daftar yang secara
 umum serupa tetapi tidak persis sama, jadi langkah paling aman selalu
 adalah memeriksa laman terkini bank tertentu sebelum kunjungan ke cabang.
 

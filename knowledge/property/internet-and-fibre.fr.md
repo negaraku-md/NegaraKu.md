@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Toute personne qui loue, achète ou emménage dans un logement en Malaisie et qui a besoin de faire raccorder un haut débit fixe."
 
 lang: "fr"
-sourceContentHash: "19befa5847e8b8f0"
+sourceContentHash: "bbd067458507d9b6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,7 +85,7 @@ d'étendre l'accès à la fibre à des millions de biens dans tout le pays et d'
 la couverture capable du gigabit — un effort bâti sur le réseau dorsal
 High Speed Broadband (HSBB) déjà existant dans le pays.
 
-Ce réseau dorsal appartient à **Telekom Malaysia (TM)**, ce qui explique pourquoi **Unifi**
+Ce réseau dorsal appartient à **[Telekom Malaysia](/fr/companies/telekom-malaysia) (TM)**, ce qui explique pourquoi **Unifi**
 tend à avoir la plus large portée de toutes les marques individuelles, y compris dans les villes et
 les banlieues où d'autres FAI ne se sont pas déployés. Mais « large » n'est pas « partout » —
 la couverture varie encore adresse par adresse, c'est pourquoi chaque grand fournisseur

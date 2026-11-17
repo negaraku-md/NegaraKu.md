@@ -31,7 +31,7 @@ faq:
     a: "Pada umumnya tidak. Ketika dana itu dikecualikan di bawah Pasal 61A, pendapatan tersebut belum dikenai pajak, jadi distribusi itu tidak membawa kredit pajak Pasal 110 yang dapat dikurangkan oleh pemegang unit. Kredit hanya timbul ketika dana itu sendiri telah dikenai pajak (contohnya, ketika ia mendistribusikan kurang dari 90%)."
 
 lang: "id"
-sourceContentHash: "74ef95198966c611"
+sourceContentHash: "b78af90aa1ceb41e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -141,7 +141,7 @@ Itu sepenuhnya bergantung pada tarif marginal Anda.
 - **Individu bukan residen dan investor institusi asing** adalah yang paling jelas rugi: tarif rata 10% digantikan dengan tarif setinggi 30%, yang mengurangi imbal hasil setelah pajak yang membuat REIT Malaysia menarik bagi dana luar negeri.
 - **Perusahaan bukan residen** tidak melihat perubahan langsung apa pun — masih 24%, masih final.
 
-Alasan yang diberikan untuk mengakhiri konsesi ini adalah sektor REIT Malaysia telah matang menjadi kelas aset yang diterima secara luas yang tidak lagi memerlukan dukungan pajak preferensial untuk menarik modal, dengan perubahan itu juga memperluas basis pajak dengan menyelaraskan distribusi REIT dengan aturan pajak pendapatan standar. Riset pihak penjual pada umumnya sepakat bahwa perubahan itu lebih memengaruhi sentimen dibandingkan fundamental: Maybank Investment Bank memperkirakan imbal hasil distribusi bersih masih akan mencapai rata-rata sekitar 4.7% hingga 6% dan tetap berdaya saing dibandingkan sektor lain, dan perusahaan lain — termasuk BIMB Securities dan RHB Research — mempertahankan rekomendasi konstruktif terhadap ruang ini.
+Alasan yang diberikan untuk mengakhiri konsesi ini adalah sektor REIT Malaysia telah matang menjadi kelas aset yang diterima secara luas yang tidak lagi memerlukan dukungan pajak preferensial untuk menarik modal, dengan perubahan itu juga memperluas basis pajak dengan menyelaraskan distribusi REIT dengan aturan pajak pendapatan standar. Riset pihak penjual pada umumnya sepakat bahwa perubahan itu lebih memengaruhi sentimen dibandingkan fundamental: [Maybank](/id/companies/maybank) Investment Bank memperkirakan imbal hasil distribusi bersih masih akan mencapai rata-rata sekitar 4.7% hingga 6% dan tetap berdaya saing dibandingkan sektor lain, dan perusahaan lain — termasuk BIMB Securities dan RHB Research — mempertahankan rekomendasi konstruktif terhadap ruang ini.
 
 ## Apa yang selanjutnya
 

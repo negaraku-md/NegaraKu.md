@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e0c5ddbcc6a8b0ca"
+sourceContentHash: "9379d91bcd56a69d"
 
 status: "published"
 aiAssisted: true
@@ -170,8 +170,8 @@ Committee on Investment，NCI）**批准，而 MIDA 则负责围绕该决定的�
 针对「柜台太多」这个问题，MIDA 最具体的解答就是**Invest Malaysia
 Facilitation Centre（IMFC）**——实体设于 MIDA Sentral，自**2023 年 12 月 1
 日**起运作。它把内陆税收局（LHDN）、移民局、大马关税局（RMCD）、马来西亚
-通讯及多媒体委员会（MCMC）、马来西亚半岛劳工局、Tenaga Nasional Berhad 与
-Telekom Malaysia Berhad 的官员集中到同一实体地点，让已获批准投资者的后续
+通讯及多媒体委员会（MCMC）、马来西亚半岛劳工局、[Tenaga Nasional Berhad](/zh/companies/tenaga-nasional) 与
+[Telekom Malaysia](/zh/companies/telekom-malaysia) Berhad 的官员集中到同一实体地点，让已获批准投资者的后续
 各项审批得以推进，而无需分别前往每个机构。其后开设的区域延伸据点
 **IMFC-J**，服务对象是进驻柔佛—新加坡经济特区（Johor–Singapore Special
 Economic Zone）的投资者。

@@ -128,7 +128,7 @@ to decline the application outright, regardless of how much time you've
 actually lived in Malaysia. Second, the bank may still ask for documents
 beyond this list or run extra checks — CIMB's own page is explicit that
 "additional supporting documents not listed" can be requested, and other
-banks (Maybank, Public Bank, Hong Leong, RHB) publish broadly similar but not
+banks ([Maybank](/companies/maybank), Public Bank, Hong Leong, RHB) publish broadly similar but not
 identical lists, so the safest move is always to check the specific bank's
 current page before a branch visit.
 

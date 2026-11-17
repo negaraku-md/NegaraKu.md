@@ -31,7 +31,7 @@ faq:
   - q: Malaysia đang làm gì về ô nhiễm nhựa?
     a: Lộ trình Bền vững Nhựa Malaysia 2021–2030, do bộ môi trường dẫn dắt, đặt các mục tiêu loại bỏ dần các loại nhựa dùng một lần gây rắc rối, nâng tỷ lệ tái chế và hàm lượng tái chế, và làm cho bao bì nhựa có thể tái chế được. Nó cũng giới thiệu một chương trình Trách nhiệm Mở rộng của Nhà sản xuất (EPR) buộc các nhà sản xuất góp phần tài trợ việc thu gom và tái chế.
 lang: vi
-sourceContentHash: "997857d937a84a00"
+sourceContentHash: "dc6e2cfa034711f6"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -122,7 +122,7 @@ Một ghi chú về việc làm: không tìm thấy một đầu người quốc
 
 Ngành không bắt đầu với hạt nhựa — nó bắt đầu với dầu và khí. Nhựa nằm ở đầu **hạ nguồn** của [ngành hóa chất và hóa dầu](/vi/industries/chemicals-petrochemicals-industry/) của Malaysia, vốn cracking hydrocarbon thành các khối xây dựng của polymer.
 
-Malaysia làm ra phần lớn resin của chính mình. **PETRONAS Chemicals Group** và **Lotte Chemical Titan** là các nhà sản xuất polymer thương phẩm chính như polyethylene (PE) và polypropylene (PP). Tổ hợp Tích hợp Pengerang lớn của PETRONAS (một phần của dự án RAPID) ở Johor đã bổ sung công suất polymer hạ nguồn đáng kể — bao gồm các dây chuyền PE, PP và HDPE — làm sâu thêm khả năng tự nuôi các nhà gia công của nước này. Sự tích hợp dọc này, từ nhà máy lọc dầu đến resin đến bao bì thành phẩm, là một thế mạnh cấu trúc: nó rút ngắn chuỗi cung ứng và che chắn các nhà gia công khỏi một phần biến động của nguyên liệu thô nhập khẩu. Dù vậy, các mác chuyên dụng vẫn được nhập khẩu, và giá resin bám sát các thị trường dầu toàn cầu.
+Malaysia làm ra phần lớn resin của chính mình. [**PETRONAS Chemicals Group**](/vi/companies/petronas-chemicals) và **Lotte Chemical Titan** là các nhà sản xuất polymer thương phẩm chính như polyethylene (PE) và polypropylene (PP). Tổ hợp Tích hợp Pengerang lớn của PETRONAS (một phần của dự án RAPID) ở Johor đã bổ sung công suất polymer hạ nguồn đáng kể — bao gồm các dây chuyền PE, PP và HDPE — làm sâu thêm khả năng tự nuôi các nhà gia công của nước này. Sự tích hợp dọc này, từ nhà máy lọc dầu đến resin đến bao bì thành phẩm, là một thế mạnh cấu trúc: nó rút ngắn chuỗi cung ứng và che chắn các nhà gia công khỏi một phần biến động của nguyên liệu thô nhập khẩu. Dù vậy, các mác chuyên dụng vẫn được nhập khẩu, và giá resin bám sát các thị trường dầu toàn cầu.
 
 ## Ngành làm ra gì
 

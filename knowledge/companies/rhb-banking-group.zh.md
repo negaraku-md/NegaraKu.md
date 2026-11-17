@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "596219fad8f1401b"
+sourceContentHash: "af9faa6b0d03ba80"
 
 status: "published"
 aiAssisted: true
@@ -95,7 +95,7 @@ RHB 是大多数马来西亚人都会在大街上的银行分行、一张提款�
 - 1999年，集团并入 Sime Bank（前身为 United Malayan Banking Corporation，可追溯至1959年）。
 - 2003年，它与 Bank Utama (Malaysia) Berhad 合并。
 
-另一次转型发生在2012年，当时 RHB Capital Berhad 以换股方式收购 OSK Investment Bank；两家投资银行业务自2013年4月起合并，大幅扩大了集团的资本市场部门。2016年，兴业银行有限公司（RHB Bank Berhad）接替 RHB Capital Berhad 的上市地位，成为集团的上市金融控股公司。2017年曾探讨与 AmBank 集团合并，但双方未能就条款达成一致而作罢。
+另一次转型发生在2012年，当时 RHB Capital Berhad 以换股方式收购 OSK Investment Bank；两家投资银行业务自2013年4月起合并，大幅扩大了集团的资本市场部门。2016年，兴业银行有限公司（RHB Bank Berhad）接替 RHB Capital Berhad 的上市地位，成为集团的上市金融控股公司。2017年曾探讨与 [AmBank](/zh/companies/ambank-group) 集团合并，但双方未能就条款达成一致而作罢。
 
 ## 业务分部
 

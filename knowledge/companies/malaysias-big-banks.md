@@ -90,7 +90,7 @@ keywords: ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong Bank", "Malaysia
 framework: profile
 ---
 
-Line up the five names that dominate almost every Malaysian high street — Maybank, CIMB, Public Bank, RHB and Hong Leong — and you are looking at the core of a banking system that clears the country's salaries, mortgages and trade. They are all Malaysian-incorporated, all listed on Bursa Malaysia, and all licensed by the same central bank. Beyond that, they diverge sharply: one dwarfs the rest in scale, some are effectively government-anchored, and two are still steered by the families that founded them.
+Line up the five names that dominate almost every Malaysian high street — [Maybank](/companies/maybank), CIMB, Public Bank, RHB and Hong Leong — and you are looking at the core of a banking system that clears the country's salaries, mortgages and trade. They are all Malaysian-incorporated, all listed on Bursa Malaysia, and all licensed by the same central bank. Beyond that, they diverge sharply: one dwarfs the rest in scale, some are effectively government-anchored, and two are still steered by the families that founded them.
 
 ## Who counts as one of Malaysia's "big five" banks?
 
@@ -101,7 +101,7 @@ The clearest like-for-like comparison across all five is profitability:
 | Group | Net profit | Return on equity | Financial year |
 |---|---|---|---|
 | **Maybank** (Malayan Banking) | RM10.09 billion | 11.1% | FY2024 (Dec) |
-| **CIMB Group** | RM7.73 billion | 11.2% | FY2024 (Dec) |
+| **[CIMB Group](/companies/cimb)** | RM7.73 billion | 11.2% | FY2024 (Dec) |
 | **Public Bank** | RM7.15 billion | 12.8% | FY2024 (Dec) |
 | **RHB Bank** | RM3.12 billion | 10.04% | FY2024 (Dec) |
 | **Hong Leong Bank** | RM4.20 billion | 11.8% | FY2024 (Jun) |
@@ -126,7 +126,7 @@ Here the five split cleanly into two camps. Three are anchored by **government-l
 | CIMB | Khazanah Nasional, with EPF, KWAP and PNB | Government-linked (GLIC) |
 | RHB Bank | Employees Provident Fund (EPF) | Government-linked (GLIC) |
 | Public Bank | Teh family, via Consolidated Teh Holdings | Founder family |
-| Hong Leong Bank | Quek family, via Hong Leong Financial Group | Founder family |
+| Hong Leong Bank | Quek family, via [Hong Leong Financial Group](/companies/hong-leong-financial-group) | Founder family |
 
 For **Maybank**, the anchor is Permodalan Nasional Berhad and its giant Amanah Saham Bumiputera fund, which together make it one of the most widely held names in the country. **CIMB** lists Khazanah Nasional — Malaysia's strategic investment fund — alongside the EPF, the civil-service pension fund KWAP and PNB as its major shareholders; foreign investors held 29.7% of CIMB as at end-June 2026. **RHB** is anchored by the Employees Provident Fund, the national retirement fund, as its single largest shareholder.
 

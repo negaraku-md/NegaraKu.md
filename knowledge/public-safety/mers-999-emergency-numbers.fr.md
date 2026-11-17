@@ -29,7 +29,7 @@ faq:
     a: "Oui. L'application SaveME 999 permet d'envoyer des alertes d'urgence basées sur la vidéo, le texte et le multimédia, et pas seulement des appels vocaux, de sorte que les personnes handicapées peuvent aussi joindre un opérateur du 999."
 
 lang: "fr"
-sourceContentHash: "a2e869579c3095a1"
+sourceContentHash: "12fd6b175920e02e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ ordinateur-téléphone, l'enregistrement vocal et un système expert médical �
 que les appels soient traités de manière uniforme dans toutes les agences. Les
 appels au 999 sont **gratuits** et sont **enregistrés et tracés** pour dissuader
 les signalements canulars. MERS 999 fonctionne grâce à un partenariat entre le
-Gouvernement de la Malaisie et Telekom Malaysia Berhad.
+Gouvernement de la Malaisie et [Telekom Malaysia](/fr/companies/telekom-malaysia) Berhad.
 
 ## Quelles agences peut-on joindre via le 999 ?
 

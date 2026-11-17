@@ -36,7 +36,7 @@ faq:
     a: "No. El 7 de marzo de 2026, CelcomDigi y Maxis completaron cada una la compra de las acciones del Ministerio de Finanzas en DNB por RM327,872,640.28, marcando la salida del gobierno del negocio mayorista de 5G y convirtiendo a DNB en una entidad totalmente privada de propiedad de las operadoras y YTL."
 
 lang: "es"
-sourceContentHash: "c56c91a9d7764362"
+sourceContentHash: "953b610723ae239f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -239,7 +239,7 @@ La transición al modelo de red dual se desplegó con rapidez a lo largo de 2024
   directiva de red mayorista única de 2021, poniendo fin al monopolio de DNB y
   consagrando el modelo de red dual.
 
-Cuatro operadoras pujaron: CelcomDigi, Maxis, U Mobile y Telekom Malaysia. La MCMC
+Cuatro operadoras pujaron: CelcomDigi, Maxis, U Mobile y [Telekom Malaysia](/es/companies/telekom-malaysia). La MCMC
 dijo que seleccionó a U Mobile tras deliberaciones detalladas sobre los méritos
 técnicos y comerciales de cada plan. Ganar vino con una condición dura: como las
 cuatro operadoras tenían colectivamente una participación en DNB, U Mobile tuvo que

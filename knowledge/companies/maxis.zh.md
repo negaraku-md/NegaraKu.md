@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b2828cf36c6fd07d"
+sourceContentHash: "50d792c288399ed7"
 
 status: "published"
 aiAssisted: true
@@ -117,7 +117,7 @@ Maxis 今日围绕三大主要领域组织其业务。
 
 ## 规模与重要性
 
-Maxis 是少数几家共同承载马来西亚大部分移动与固定宽带流量的运营商之一。其主要对手是 [Axiata](/zh/companies/axiata)（其马来西亚移动业务已与 Digi 合并组成 CelcomDigi）、U Mobile 与 Telekom Malaysia。在一个移动普及率极高、增长主要来自融合套餐——将移动、家庭宽带与数码服务打包销售——的市场中，Maxis 向家庭光纤与企业的推进是其战略的核心。
+Maxis 是少数几家共同承载马来西亚大部分移动与固定宽带流量的运营商之一。其主要对手是 [Axiata](/zh/companies/axiata)（其马来西亚移动业务已与 Digi 合并组成 CelcomDigi）、U Mobile 与 [Telekom Malaysia](/zh/companies/telekom-malaysia)。在一个移动普及率极高、增长主要来自融合套餐——将移动、家庭宽带与数码服务打包销售——的市场中，Maxis 向家庭光纤与企业的推进是其战略的核心。
 
 作为 Bursa Malaysia 上一家派息的大型公司，Maxis 也是马来西亚机构投资者与退休基金的重要持仓，这使其业绩与监管地位具有超出电信业本身的分量。
 

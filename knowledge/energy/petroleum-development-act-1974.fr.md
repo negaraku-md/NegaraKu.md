@@ -34,7 +34,7 @@ faq:
     a: "La Section 3 place Petronas sous le contrôle et la direction du Premier ministre, dont les instructions lient la société. La Section 6 exige l'autorisation du Premier ministre avant que toute personne autre que Petronas ne procède au traitement, au raffinage ou à la fabrication de produits pétrochimiques, et la Section 7 confère au Premier ministre le pouvoir d'édicter des règlements."
 
 lang: "fr"
-sourceContentHash: "bc9ab1d1d905cd8f"
+sourceContentHash: "901557e7ba61a4e5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ La loi de 1974 sur le développement du pétrole (Petroleum Development Act 1974
 
 Le cœur de la loi réside dans la Section 2. Elle dispose que « la propriété entière, ainsi que les droits, pouvoirs, libertés et privilèges exclusifs d'explorer, d'exploiter, d'extraire et d'obtenir du pétrole, qu'il soit terrestre ou offshore en Malaisie, sont conférés à une Société ». La Section 2(2) précise que ce transfert de droits prend effet lors de l'exécution d'un instrument ayant la forme de l'annexe, et la Section 2(3) affirme que la propriété et les droits sont « irrévocables et se perpétuent au bénéfice de la Société et de ses successeurs ». L'annexe de la loi encadre l'instrument de cession qui octroie ces droits à Petronas « à perpétuité ».
 
-La Section 3 nomme la société — même contrairement aux règles ordinaires de la loi de 1965 sur les sociétés (Companies Act 1965) relatives aux dénominations sociales — Petroliam Nasional Berhad, ou Petronas en abrégé, et la place sous le « contrôle et la direction du Premier ministre », dont les instructions lient la société. Ce cadre centralise la propriété et la réglementation au sein d'une unique entité fédérale.
+La Section 3 nomme la société — même contrairement aux règles ordinaires de la loi de 1965 sur les sociétés (Companies Act 1965) relatives aux dénominations sociales — [Petroliam Nasional Berhad](/fr/companies/petronas), ou Petronas en abrégé, et la place sous le « contrôle et la direction du Premier ministre », dont les instructions lient la société. Ce cadre centralise la propriété et la réglementation au sein d'une unique entité fédérale.
 
 | Section | Objet |
 | --- | --- |

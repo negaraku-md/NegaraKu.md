@@ -24,7 +24,7 @@ appliesTo: "在马来西亚的任何人——公民、居民、工作准证持�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5f238099826ab02d"
+sourceContentHash: "a99a6fb1aad234c9"
 
 status: "published"
 aiAssisted: true
@@ -95,7 +95,7 @@ framework: explainer
 | U Mobile | Unlimited Funz Prepaid | 马来西亚第三家全国网络营运商 |
 
 另有两家规模较小的业者——**Yes**（YTL Communications）与 **Unifi Mobile**
-（Telekom Malaysia）——在上述三家之外经营自己的 4G/LTE 网络，往往与家庭宽带捆绑
+（[Telekom Malaysia](/zh/companies/telekom-malaysia)）——在上述三家之外经营自己的 4G/LTE 网络，往往与家庭宽带捆绑
 销售。不论你选择哪一家营运商，下述的登记要求一律同等适用。
 
 ## 登记是强制的——而且免费

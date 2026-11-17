@@ -41,7 +41,7 @@ verificationNeeded:
   - "Whether IMFC-J is the only regional extension of the IMFC model, or whether further IMFC sites have opened since the government's stated intention to expand it in 2026"
 
 lang: "fr"
-sourceContentHash: "e0c5ddbcc6a8b0ca"
+sourceContentHash: "9379d91bcd56a69d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -184,8 +184,7 @@ Facilitation Centre (IMFC)**, hébergé physiquement à MIDA Sentral et en servi
 le **1er décembre 2023**. Il réunit en un seul lieu physique des agents de la Direction
 générale des impôts, du Département de l'immigration, du Département royal des douanes
 de Malaisie, de la Commission malaisienne des communications et du multimédia, du
-Département du travail de Malaisie péninsulaire, de Tenaga Nasional Berhad et de Telekom
-Malaysia Berhad, de sorte que les approbations ultérieures d'un investisseur approuvé
+Département du travail de Malaisie péninsulaire, de [Tenaga Nasional Berhad](/fr/companies/tenaga-nasional) et de [Telekom Malaysia](/fr/companies/telekom-malaysia) Berhad, de sorte que les approbations ultérieures d'un investisseur approuvé
 avancent sans un déplacement séparé vers chaque agence. Une extension régionale,
 **IMFC-J**, a depuis ouvert pour desservir les investisseurs qui s'installent dans la
 Zone économique spéciale Johor-Singapour.

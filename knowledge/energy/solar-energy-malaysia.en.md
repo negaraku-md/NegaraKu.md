@@ -33,7 +33,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "69ed2a98233b72ad"
+sourceContentHash: "57d271bf1ff95022"
 
 status: "published"
 aiAssisted: true
@@ -117,7 +117,7 @@ All of them fall under the regulation of the Energy Commission (Suruhanjaya Tena
 
 ## How does NEM 3.0 work for homes and businesses?
 
-NEM is the most common pathway for the general public. You install solar panels on the roof, use the power generated first, and send the surplus to the Tenaga Nasional Berhad (TNB) grid. Under NEM 3.0, the balancing is done on a "one-for-one" basis — every kilowatt-hour sent to the grid is offset against one kilowatt-hour you draw from the grid.
+NEM is the most common pathway for the general public. You install solar panels on the roof, use the power generated first, and send the surplus to the [Tenaga Nasional Berhad](/en/companies/tenaga-nasional) (TNB) grid. Under NEM 3.0, the balancing is done on a "one-for-one" basis — every kilowatt-hour sent to the grid is offset against one kilowatt-hour you draw from the grid.
 
 According to SEDA's RE portal, NEM 3.0 ran for a period until 30 June 2025, with a total overall quota of up to 2,500 MW. It was divided into three sub-programmes:
 

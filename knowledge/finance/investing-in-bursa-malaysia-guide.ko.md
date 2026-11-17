@@ -34,7 +34,7 @@ faq:
     a: "매수와 매도 양쪽에 세 가지 부담금이 적용됩니다: 증권사 중개수수료(증권사가 정함), 거래 가치의 0.03%로 RM1,000 상한인 청산 수수료, 그리고 가치 RM1,000(또는 그 일부)당 RM1로 RM1,000 상한인 인지세입니다. Bursa Malaysia 상장 주식의 중개수수료는 현재 서비스세가 면제됩니다."
 
 lang: "ko"
-sourceContentHash: "2aa2d9243406a229"
+sourceContentHash: "17c8242447ac4a60"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,7 +97,7 @@ keywords: ["CDS account", "Bursa Anywhere", "stockbroker Malaysia", "how to buy 
 framework: how-to
 ---
 
-Maybank이나 Tenaga의 한 조각을 소유하는 일은 계좌 하나가 아니라 둘로 시작하며 — 그중 어느 것도 은행 계좌가 아닙니다. Bursa Malaysia에서 주식을 한 주라도 사기 전에, 주식을 *보관할* 곳과 *주문을 낼* 곳이 필요합니다. 이 둘이 어떻게 맞물리는지, 그리고 각 거래가 실제로 얼마나 드는지 다음과 같습니다.
+[Maybank](/ko/companies/maybank)이나 Tenaga의 한 조각을 소유하는 일은 계좌 하나가 아니라 둘로 시작하며 — 그중 어느 것도 은행 계좌가 아닙니다. Bursa Malaysia에서 주식을 한 주라도 사기 전에, 주식을 *보관할* 곳과 *주문을 낼* 곳이 필요합니다. 이 둘이 어떻게 맞물리는지, 그리고 각 거래가 실제로 얼마나 드는지 다음과 같습니다.
 
 ## 실제로 무엇이 필요합니까?
 

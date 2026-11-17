@@ -31,7 +31,7 @@ faq:
 
 
 lang: "id"
-sourceContentHash: "e3b1b939af180abf"
+sourceContentHash: "c6ef01d3bb216ad1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -135,7 +135,7 @@ memiliki ASNB sepenuhnya. ASNB sendiri adalah perusahaan pengelolaan reksa dana:
 ia adalah entitas yang disebut sebagai "Pengelola" pada setiap prospektus dan
 Product Highlights Sheet, yaitu pihak yang menerbitkan unit, memproses
 pembelian kembali, dan mengoperasikan 32 kantor cabang serta lebih dari 2,700 agen di
-seluruh negara (Maybank, CIMB, RHB, BSN, Pos Malaysia, dan lainnya) tempat
+seluruh negara ([Maybank](/id/companies/maybank), CIMB, RHB, BSN, Pos Malaysia, dan lainnya) tempat
 rakyat Malaysia sebenarnya melakukan transaksi.
 
 Pembagian ini penting atas satu alasan praktis: keluhan, pertanyaan akun, dan

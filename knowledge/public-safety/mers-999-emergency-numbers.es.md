@@ -29,7 +29,7 @@ faq:
     a: "Sí. La aplicación SaveME 999 permite enviar alertas de emergencia basadas en vídeo, texto y multimedia, no solo llamadas de voz, de modo que las personas con discapacidad también pueden comunicarse con un operador del 999."
 
 lang: "es"
-sourceContentHash: "a2e869579c3095a1"
+sourceContentHash: "12fd6b175920e02e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -76,7 +76,7 @@ Un único número — **999** — le conecta con las cinco agencias de emergenci
 
 Su llamada llega al centro de operaciones de los **Servicios Malasios de Respuesta a Emergencias (MERS 999)**, un sistema integrado que combina los servicios de emergencia de cinco agencias bajo un único número. El operador identifica el tipo de emergencia, la ubicación y la información clave, y luego encamina la llamada junto con esos datos a la agencia correcta.
 
-El sistema está construido con tecnología de despacho asistido por computadora, sistemas de información geográfica (GIS), interfaces computadora-teléfono, grabación de voz y un sistema experto médico — para que las llamadas se gestionen de manera uniforme en todas las agencias. Las llamadas al 999 son **gratuitas** y se **graban y rastrean** para disuadir los informes falsos. MERS 999 funciona mediante una alianza entre el Gobierno de Malasia y Telekom Malaysia Berhad.
+El sistema está construido con tecnología de despacho asistido por computadora, sistemas de información geográfica (GIS), interfaces computadora-teléfono, grabación de voz y un sistema experto médico — para que las llamadas se gestionen de manera uniforme en todas las agencias. Las llamadas al 999 son **gratuitas** y se **graban y rastrean** para disuadir los informes falsos. MERS 999 funciona mediante una alianza entre el Gobierno de Malasia y [Telekom Malaysia](/es/companies/telekom-malaysia) Berhad.
 
 ## ¿A qué agencias se puede acceder a través del 999?
 

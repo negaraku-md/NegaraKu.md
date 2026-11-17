@@ -35,7 +35,7 @@ faq:
     a: "Yes. During the foundational phase (the first three to five years), BNM's framework caps each digital bank's total assets at no more than RM3 billion. This allows BNM to observe performance and risk before the banks grow larger."
 
 lang: "en"
-sourceContentHash: "586acae3d2012d4e"
+sourceContentHash: "9cfc6ac5098839e4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -102,7 +102,7 @@ But what exactly is a "digital bank," who holds the licences, and most important
 
 ## What is the difference between a digital bank and a traditional bank?
 
-Legally, a digital bank is a full bank — not merely an e-wallet app. It is licensed under the same banking legislation as Maybank or CIMB, can take deposits, and can make loans. The key difference is how it operates: entirely through digital channels, with no physical branch network.
+Legally, a digital bank is a full bank — not merely an e-wallet app. It is licensed under the same banking legislation as [Maybank](/en/companies/maybank) or CIMB, can take deposits, and can make loans. The key difference is how it operates: entirely through digital channels, with no physical branch network.
 
 BNM issued the Licensing Framework for Digital Banks at the end of 2020, and on 29 April 2022 announced five successful applicants approved by the Minister of Finance. That framework sets out a "foundational phase" — the first three to five years — during which each digital bank is capped at total assets of no more than RM3 billion and must maintain capital of at least RM100 million unimpaired by losses. The cap is designed to allow BNM to observe performance and risk before these banks are permitted to grow larger.
 

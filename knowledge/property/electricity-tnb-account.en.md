@@ -23,7 +23,7 @@ appliesTo: "Anyone moving into a new house or premises in Malaysia who needs to 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d7658ca7c2a68725"
+sourceContentHash: "163ba8d9c69cf9c9"
 
 status: "published"
 aiAssisted: true
@@ -81,11 +81,9 @@ Sarawak, that's entirely the wrong phone number.
 
 ## Three companies, not one national system
 
-Electricity supply in Malaysia is not run by a single body. **Tenaga
-Nasional Berhad (TNB)** serves Peninsular Malaysia through the myTNB
+Electricity supply in Malaysia is not run by a single body. **[Tenaga Nasional Berhad](/en/companies/tenaga-nasional) (TNB)** serves Peninsular Malaysia through the myTNB
 portal and the **Kedai Tenaga** outlet network. Sabah, meanwhile, belongs
-to **Sabah Electricity Sdn Bhd (SESB)**, and Sarawak to **[Sarawak Energy
-Berhad](/energy/sarawak-energy-berhad)**. All three operate separately, with their own application forms,
+to **Sabah Electricity Sdn Bhd (SESB)**, and Sarawak to **[Sarawak Energy Berhad](/energy/sarawak-energy-berhad)**. All three operate separately, with their own application forms,
 deposit rates and even their own terminology — so a Google search for
 "how to apply for electricity" that only turns up TNB guides isn't much
 help if the house is in Kota Kinabalu or Kuching.
@@ -202,10 +200,8 @@ SMR eligibility.
 ## What's next
 
 Electricity is only one of several things that need to be sorted out
-when moving into a new home in Malaysia — see [first steps moving to
-Malaysia](/en/settling-in/moving-to-malaysia-first-steps) for the other
+when moving into a new home in Malaysia — see [first steps moving to Malaysia](/en/settling-in/moving-to-malaysia-first-steps) for the other
 related requirements. For those who also need to set up a mobile line at
-the new premises, see the [prepaid and postpaid SIM
-guide](/en/money-daily-life/mobile-sim-plans).
+the new premises, see the [prepaid and postpaid SIM guide](/en/money-daily-life/mobile-sim-plans).
 
 See the full guide: [Buying a Home in Malaysia](/en/property/buying-a-home-process/).

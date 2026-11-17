@@ -49,7 +49,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b20fb73bf5494f07"
+sourceContentHash: "ea2e8bc121b7ae31"
 
 status: "published"
 aiAssisted: true
@@ -179,7 +179,7 @@ item 10, "Kuala Lumpur International Airport, Sepang", செயல்பாட�
 "Commercial"**, செலாங்கூர் அளவீட்டுத் துறையின் Gazette Plans 1207, 1981, 3004 மற்றும்
 1376 ஆகியவற்றால் எல்லைப்படுத்தப்பட்டது. இது Pasir Gudang, Port Klang மற்றும் Tanjung
 Pelepas ஆகியவற்றைப் போலவே அதே பொறிமுறையால் s.3(1)-இன் கீழ் அறிவிக்கப்பட்டது, அதன்
-நியமிக்கப்பட்ட அதிகார அமைப்பு **Malaysia Airports Holdings Berhad**. சட்டப்படி அதை
+நியமிக்கப்பட்ட அதிகார அமைப்பு **[Malaysia Airports Holdings Berhad](/ta/companies/malaysia-airports-mahb)**. சட்டப்படி அதை
 வேறுபடுத்தும் எதுவும் இல்லை.
 
 இங்கு புரிந்துகொள்ள வேண்டிய மிக முக்கியமான ஒரே விஷயம் இதுதான். **DFTZ ஒரு கொள்கை

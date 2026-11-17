@@ -31,7 +31,7 @@ faq:
     a: "예. RHB는 자회사 RHB Islamic Bank Berhad를 통해 샤리아(Shariah) 준수 금융을 제공합니다. 이슬람 금융은 그룹 국내 대출의 상당한 비중을 차지했으며 — RHB는 FY2025에 이슬람 금융이 국내 총대출의 46.4%라고 보고했습니다."
 
 lang: "ko"
-sourceContentHash: "596219fad8f1401b"
+sourceContentHash: "af9faa6b0d03ba80"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,7 +95,7 @@ RHB의 뿌리는 말레이시아 은행 역사 깊숙이 뻗어 있습니다. �
 - 1999년, 그룹은 Sime Bank(1959년으로 거슬러 올라가는 옛 United Malayan Banking Corporation)를 흡수했습니다.
 - 2003년, Bank Utama (Malaysia) Berhad와 합병했습니다.
 
-또 하나의 변신은 2012년에 찾아왔는데, RHB Capital Berhad가 주식 교환으로 OSK Investment Bank를 인수했습니다; 두 투자은행 사업은 2013년 4월부로 결합되어 그룹의 자본시장 부문을 크게 확대했습니다. 2016년 RHB Bank Berhad가 RHB Capital Berhad의 상장 지위를 승계하여 그룹의 상장 금융지주회사가 되었습니다. 2017년 AmBank 그룹과의 합병 제안이 검토되었으나 당사자들이 조건에 합의하지 못해 무산되었습니다.
+또 하나의 변신은 2012년에 찾아왔는데, RHB Capital Berhad가 주식 교환으로 OSK Investment Bank를 인수했습니다; 두 투자은행 사업은 2013년 4월부로 결합되어 그룹의 자본시장 부문을 크게 확대했습니다. 2016년 RHB Bank Berhad가 RHB Capital Berhad의 상장 지위를 승계하여 그룹의 상장 금융지주회사가 되었습니다. 2017년 [AmBank](/ko/companies/ambank-group) 그룹과의 합병 제안이 검토되었으나 당사자들이 조건에 합의하지 못해 무산되었습니다.
 
 ## 사업 부문
 

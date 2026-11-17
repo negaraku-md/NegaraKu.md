@@ -31,7 +31,7 @@ faq:
   - q: 政府如何扶持化学产业？
     a: 马来西亚投资发展局（MIDA）通过其化学与先进材料组评估制造许可申请，并提供先锋地位（Pioneer Status）与投资税务补贴（Investment Tax Allowance）等激励。石油与石化项目还受《1974 年石油发展法令》规管。《2030 年化学工业路线图》与《2030 年新工业大蓝图》则确立了迈向特种、高价值化学品的战略方向。
 lang: zh
-sourceContentHash: "1c45aa3fcee5cc05"
+sourceContentHash: "11eb5b1edb640b2d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -128,7 +128,7 @@ framework: profile
 
 ## 主要参与者与政府关联公司
 
-核心支柱是**国家石油化学集团（PCG）**，即国家石油公司 [PETRONAS](/zh/economy/oil-gas-petronas/) 旗下的上市石化分支。PCG 是烯烃、聚合物与化肥领域的主导一体化生产商，其规模源自对本国天然气原料的优先获取。
+核心支柱是**[国家石油化学集团](/zh/companies/petronas-chemicals)（PCG）**，即国家石油公司 [PETRONAS](/zh/economy/oil-gas-petronas/) 旗下的上市石化分支。PCG 是烯烃、聚合物与化肥领域的主导一体化生产商，其规模源自对本国天然气原料的优先获取。
 
 **乐天化学泰坦**由韩国乐天化学控股，是另一重量级企业。它成立于 1991 年，是马来西亚第一家独立的聚烯烃生产商，被称为该国最大的烯烃与聚烯烃一体化生产商，产能分布于柔佛的两处厂区（确切数字各来源不一）。此外，一大批跨国企业——涉及工业气体、涂料、农用化学品与特种产品——以及庞大的棕榈油基油脂化学品生产商群体，共同构成了这个领域的其余部分。
 

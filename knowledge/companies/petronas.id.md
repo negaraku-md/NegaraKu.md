@@ -35,7 +35,7 @@ faq:
     a: "Kedua negara bagian menuntut royalti 5% berdasarkan perjanjian 1975. Terengganu menerima pembayaran (walaupun pernah diganti menjadi 'wang ehsan' sekitar 2000 dan dipulihkan pada 2009), sementara tuntutan pengadilan Kelantan pada 2010 digugurkan pada 2019. Isu utamanya adalah apakah sumur yang bersangkutan terletak dalam perairan negara bagian (batas tiga mil laut) atau di bawah yurisdiksi federal."
 
 lang: "id"
-sourceContentHash: "fee9c9760c973ad8"
+sourceContentHash: "742face9b45c4b23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -145,7 +145,7 @@ Petronas adalah sebuah kelompok terintegrasi yang mencakup keseluruhan rantai ni
 
 | Anak perusahaan | Bidang inti |
 | --- | --- |
-| PETRONAS Chemicals Group (PCG) | Produsen kimia terintegrasi — olefin, polimer, pupuk, metanol, kimia khusus |
+| [PETRONAS Chemicals Group](/id/companies/petronas-chemicals) (PCG) | Produsen kimia terintegrasi — olefin, polimer, pupuk, metanol, kimia khusus |
 | PETRONAS Gas Berhad (PGB) | Memiliki dan menjalankan jaringan pemrosesan, transmisi, dan regasifikasi gas |
 | PETRONAS Dagangan Berhad (PDB) | Ritel dan pemasaran produk petroleum hilir (stasiun bahan bakar, produk) |
 | [MISC Berhad](/id/companies/misc-berhad) | Logistik dan maritim — transportasi LNG, kapal tanker, layanan teknis |

@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e0c5ddbcc6a8b0ca"
+sourceContentHash: "9379d91bcd56a69d"
 
 status: "published"
 aiAssisted: true
@@ -185,7 +185,7 @@ Jawapan paling konkrit MIDA kepada masalah "terlalu banyak kaunter" ialah
 berada di MIDA Sentral dan telah beroperasi sejak **1 Disember 2023**. Ia
 menghimpunkan pegawai-pegawai daripada Lembaga Hasil Dalam Negeri, Jabatan
 Imigresen, Jabatan Kastam Diraja Malaysia, MCMC, Jabatan Tenaga Kerja
-Semenanjung Malaysia, Tenaga Nasional Berhad dan Telekom Malaysia Berhad ke
+Semenanjung Malaysia, [Tenaga Nasional Berhad](/ms/companies/tenaga-nasional) dan [Telekom Malaysia](/ms/companies/telekom-malaysia) Berhad ke
 dalam satu lokasi fizikal, supaya kelulusan susulan bagi seorang pelabur yang
 telah diluluskan dapat bergerak tanpa lawatan berasingan ke setiap agensi.
 Satu lanjutan wilayah, **IMFC-J**, telah dibuka sejak itu untuk melayani

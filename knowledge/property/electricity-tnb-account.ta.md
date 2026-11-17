@@ -23,7 +23,7 @@ appliesTo: "மலேசியாவில் புதிய வீடு அ�
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d7658ca7c2a68725"
+sourceContentHash: "163ba8d9c69cf9c9"
 
 status: "published"
 aiAssisted: true
@@ -83,7 +83,7 @@ framework: how-to
 ## மூன்று நிறுவனங்கள், ஒற்றை தேசிய அமைப்பு அல்ல
 
 மலேசியாவில் மின்சார விநியோகம் ஒற்றை அமைப்பால் நிர்வகிக்கப்படுவதில்லை.
-**தேசிய மின்சார நிறுவனம் (Tenaga Nasional Berhad, TNB)** myTNB போர்ட்டல்
+**தேசிய மின்சார நிறுவனம் ([Tenaga Nasional Berhad](/ta/companies/tenaga-nasional), TNB)** myTNB போர்ட்டல்
 மற்றும் **Kedai Tenaga** வலையமைப்பு மூலம் தீபகற்ப மலேசியாவைப் பராமரிக்கிறது.
 சபா **சபா மின்சாரம் (Sabah Electricity Sdn Bhd, SESB)** உடையது, சரவாக்
 **[Sarawak Energy Berhad](/ta/energy/sarawak-energy-berhad)** உடையது.

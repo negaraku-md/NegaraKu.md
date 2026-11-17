@@ -31,7 +31,7 @@ faq:
   - q: Thị trường viễn thông của Malaysia có còn tăng trưởng không?
     a: Tăng trưởng thuê bao phần lớn đã chững lại vì thị trường gần bão hòa. Tăng trưởng tương lai dự kiến đến từ các dịch vụ giá trị cao hơn — 5G, nâng cấp cáp quang, kết nối doanh nghiệp và dịch vụ số — thay vì từ việc ký kết một lượng lớn người dùng mới.
 lang: vi
-sourceContentHash: "01292aba5d43284f"
+sourceContentHash: "0a9dfcb348c124ab"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -131,7 +131,7 @@ Các nhà mạng di động chính ngày nay là:
 
 Bên cạnh những nhà mạng này là một lớp các **nhà mạng ảo (MVNO)** và các thương hiệu trả trước (như những thương hiệu chạy trên các mạng lớn) bổ sung cạnh tranh ở đầu phân khúc giá rẻ.
 
-Về phía cố định, nhà dẫn đầu thị trường là **Telekom Malaysia (TM)**, nhà độc quyền nhà nước trước đây, với thương hiệu **unifi** chi phối băng rộng cố định và cũng sở hữu phần lớn xương sống quốc gia và kết nối quốc tế. TM cạnh tranh với **Maxis Fibre**, **TIME dotCom** (mạnh ở cáp quang nhà cao tầng và đô thị) và **YTL Communications**, vốn vận hành thương hiệu **Yes**. Một số nhà mạng nay bán các gói **hội tụ** — di động và băng rộng gia đình gộp lại — vốn là một mặt trận lớn trong cuộc cạnh tranh giành chi tiêu hộ gia đình.
+Về phía cố định, nhà dẫn đầu thị trường là **[Telekom Malaysia](/vi/companies/telekom-malaysia) (TM)**, nhà độc quyền nhà nước trước đây, với thương hiệu **unifi** chi phối băng rộng cố định và cũng sở hữu phần lớn xương sống quốc gia và kết nối quốc tế. TM cạnh tranh với **Maxis Fibre**, **TIME dotCom** (mạnh ở cáp quang nhà cao tầng và đô thị) và **YTL Communications**, vốn vận hành thương hiệu **Yes**. Một số nhà mạng nay bán các gói **hội tụ** — di động và băng rộng gia đình gộp lại — vốn là một mặt trận lớn trong cuộc cạnh tranh giành chi tiêu hộ gia đình.
 
 ## Di động so với băng rộng cố định
 

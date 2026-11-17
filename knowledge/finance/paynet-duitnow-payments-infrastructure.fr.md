@@ -29,7 +29,7 @@ faq:
     a: "Oui. DuitNow QR est interopérable, de sorte que l'unique code QR d'un commerçant peut être scanné par différentes banques et différents portefeuilles électroniques comme Touch 'n Go eWallet, GrabPay et Boost, dès lors qu'ils y participent."
 
 lang: "fr"
-sourceContentHash: "d327e61449ac93b7"
+sourceContentHash: "4d9809544dd36b01"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ Scannez un code QR à un stand de nasi lemak à Kuala Lumpur, payez un ami en ta
 
 Payments Network Malaysia Sdn Bhd (PayNet) se décrit comme « le réseau national de paiement et l'infrastructure financière centrale de la Malaisie ». Elle a été constituée le 1er août 2017 par la fusion de deux opérateurs plus anciens — le Malaysian Electronic Payment System (MEPS) et la Malaysian Electronic Clearing Corporation (MyClear) — réunissant les systèmes de paiement de montants élevés et de détail du pays sous un même toit.
 
-Bank Negara Malaysia (BNM), la banque centrale, est le plus gros actionnaire de PayNet. Dans une réponse parlementaire de décembre 2025, le ministère des Finances a chiffré la participation de la BNM à 35.5% et affirmé que la banque centrale élaborait un plan à long terme pour réduire progressivement cette participation, afin d'élargir la participation du secteur dans l'opérateur national de paiement. Les actions restantes sont détenues par 11 institutions financières malaisiennes, parmi lesquelles Maybank, CIMB et Public Bank. Comme la propriété est répartie entre le secteur plutôt que détenue par un unique acteur commercial, PayNet est structurée pour fonctionner comme une infrastructure partagée et non concurrentielle, et non comme un rival de ses banques membres.
+Bank Negara Malaysia (BNM), la banque centrale, est le plus gros actionnaire de PayNet. Dans une réponse parlementaire de décembre 2025, le ministère des Finances a chiffré la participation de la BNM à 35.5% et affirmé que la banque centrale élaborait un plan à long terme pour réduire progressivement cette participation, afin d'élargir la participation du secteur dans l'opérateur national de paiement. Les actions restantes sont détenues par 11 institutions financières malaisiennes, parmi lesquelles [Maybank](/fr/companies/maybank), CIMB et Public Bank. Comme la propriété est répartie entre le secteur plutôt que détenue par un unique acteur commercial, PayNet est structurée pour fonctionner comme une infrastructure partagée et non concurrentielle, et non comme un rival de ses banques membres.
 
 ## Que gère réellement PayNet ?
 

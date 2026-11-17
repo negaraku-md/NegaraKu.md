@@ -41,7 +41,7 @@ verificationNeeded:
   - "Whether IMFC-J is the only regional extension of the IMFC model, or whether further IMFC sites have opened since the government's stated intention to expand it in 2026"
 
 lang: "hi"
-sourceContentHash: "e0c5ddbcc6a8b0ca"
+sourceContentHash: "9379d91bcd56a69d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -180,7 +180,7 @@ Investment, NCI)** द्वारा स्वीकृत के रूप म
 Centre (IMFC)** है, जो भौतिक रूप से MIDA Sentral में स्थित है और **1 दिसंबर 2023**
 से चल रहा है। यह आंतरिक राजस्व बोर्ड, आप्रवासन विभाग, रॉयल मलेशियाई सीमा शुल्क
 विभाग, मलेशियाई संचार एवं मल्टीमीडिया आयोग, प्रायद्वीपीय मलेशिया श्रम विभाग,
-Tenaga Nasional Berhad और Telekom Malaysia Berhad के अधिकारियों को एक ही भौतिक
+[Tenaga Nasional Berhad](/hi/companies/tenaga-nasional) और [Telekom Malaysia](/hi/companies/telekom-malaysia) Berhad के अधिकारियों को एक ही भौतिक
 स्थान पर लाता है, ताकि किसी स्वीकृत निवेशक की अनुवर्ती स्वीकृतियाँ प्रत्येक एजेंसी
 के अलग दौरे के बिना आगे बढ़ें। तब से एक क्षेत्रीय विस्तार, **IMFC-J**,
 जोहोर–सिंगापुर विशेष आर्थिक क्षेत्र में प्रवेश करने वाले निवेशकों की सेवा हेतु खुल

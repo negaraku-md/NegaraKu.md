@@ -47,7 +47,7 @@ verificationNeeded:
   - "Toute statistique de débit ou de valeur commerciale de la DFTZ après 2020. Aucune n'existe à partir d'une source officielle, et après la radiation de MAHB le 25 février 2025 aucune ne peut être obtenue — c'est structurellement inaccessible, non simplement introuvable."
 
 lang: "fr"
-sourceContentHash: "b20fb73bf5494f07"
+sourceContentHash: "ea2e8bc121b7ae31"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -176,8 +176,7 @@ Ce qui *existe* bel et bien, et constitue le substrat physique que les gens veul
 Première Annexe de la Act 438, « Kuala Lumpur International Airport, Sepang », colonne d'activités
 « Commercial »**, délimitée par les Plans officiels 1207, 1981, 3004 et 1376 du département
 topographique de Selangor. Elle a été déclarée au titre de l'art. 3(1) par le même mécanisme que
-Pasir Gudang, Port Klang et Tanjung Pelepas, et son Autorité désignée est **Malaysia Airports
-Holdings Berhad**. Rien ne la distingue en droit.
+Pasir Gudang, Port Klang et Tanjung Pelepas, et son Autorité désignée est **[Malaysia Airports Holdings Berhad](/fr/companies/malaysia-airports-mahb)**. Rien ne la distingue en droit.
 
 C'est la chose la plus utile à comprendre ici. **La DFTZ était une marque de politique et un
 programme de facilitation, superposés à la machinerie conventionnelle des zones libres** — non un

@@ -31,7 +31,7 @@ faq:
   - q: Bagaimana pemerintah mendukung industri kimia?
     a: Malaysian Investment Development Authority (MIDA), melalui Chemical and Advanced Material Division-nya, mengevaluasi lisensi manufaktur dan menawarkan insentif seperti Pioneer Status dan Investment Tax Allowance. Proyek minyak bumi dan petrokimia juga diatur di bawah Petroleum Development Act 1974. Chemical Industry Roadmap 2030 dan New Industrial Master Plan 2030 menetapkan arah strategis menuju kimia khusus yang bernilai lebih tinggi.
 lang: id
-sourceContentHash: "1c45aa3fcee5cc05"
+sourceContentHash: "11eb5b1edb640b2d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -128,7 +128,7 @@ Ambisi strategis industri ini, yang tertuang dalam CIR2030, adalah menggeser bob
 
 ## Pemain utama dan GLC
 
-Jangkarnya adalah **PETRONAS Chemicals Group (PCG)**, lengan petrokimia tercatat dari perusahaan minyak nasional [PETRONAS](/id/economy/oil-gas-petronas/). PCG adalah produsen terintegrasi dominan dalam olefin, polimer, dan pupuk, dan skalanya berasal dari akses istimewa terhadap bahan baku gas domestik.
+Jangkarnya adalah **[PETRONAS Chemicals Group](/id/companies/petronas-chemicals) (PCG)**, lengan petrokimia tercatat dari perusahaan minyak nasional [PETRONAS](/id/economy/oil-gas-petronas/). PCG adalah produsen terintegrasi dominan dalam olefin, polimer, dan pupuk, dan skalanya berasal dari akses istimewa terhadap bahan baku gas domestik.
 
 **Lotte Chemical Titan**, yang mayoritas sahamnya dimiliki Lotte Chemical dari Korea Selatan, adalah pemain berat lainnya. Didirikan pada 1991 sebagai produsen poliolefin mandiri pertama di Malaysia, perusahaan ini telah digambarkan sebagai produsen olefin dan poliolefin terintegrasi terbesar di negara ini, dengan kapasitas tersebar di dua lokasi di Johor (angka pastinya bervariasi antar sumber). Deretan luas perusahaan multinasional — di bidang gas industri, pelapis, agrokimia, dan produk khusus — serta basis besar produsen oleokimia berbasis sawit melengkapi sektor ini.
 

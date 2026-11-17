@@ -94,7 +94,7 @@ RHB's roots run deep into Malaysian banking history. Its earliest ancestor is Kw
 - In 1999, the group absorbed Sime Bank (the former United Malayan Banking Corporation, dating to 1959).
 - In 2003, it merged with Bank Utama (Malaysia) Berhad.
 
-A further transformation came in 2012, when RHB Capital Berhad acquired OSK Investment Bank in a share swap; the two investment-banking businesses were combined with effect from April 2013, substantially enlarging the group's capital-markets arm. In 2016, RHB Bank Berhad took over the listing status of RHB Capital Berhad to become the group's listed financial holding company. A proposed merger with the AmBank group was explored in 2017 but was called off after the parties could not agree terms.
+A further transformation came in 2012, when RHB Capital Berhad acquired OSK Investment Bank in a share swap; the two investment-banking businesses were combined with effect from April 2013, substantially enlarging the group's capital-markets arm. In 2016, RHB Bank Berhad took over the listing status of RHB Capital Berhad to become the group's listed financial holding company. A proposed merger with the [AmBank](/companies/ambank-group) group was explored in 2017 but was called off after the parties could not agree terms.
 
 ## Business segments
 

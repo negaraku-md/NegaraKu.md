@@ -32,7 +32,7 @@ faq:
     a: "Sí. La iniciativa PERKUKUH, lanzada en 2021, estableció 20 iniciativas dirigidas, entre otras cosas, a dar a cada GLIC un mandato más claro, aumentar la participación del sector privado («crowding in») y racionalizar el papel del gobierno en los negocios, al tiempo que se dirige más inversión hacia áreas catalizadoras y de desarrollo."
 
 lang: "es"
-sourceContentHash: "72a029d7e3ea589d"
+sourceContentHash: "e364599cb19e8b25"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -127,9 +127,9 @@ Esta concentración en acciones cotizadas en realidad ha *caído* a lo largo de 
 
 No de forma uniforme. La propiedad de las GLIC se agrupa en las partes de la economía que son intensivas en capital, reguladas o estratégicamente sensibles — los sectores que un gobierno está menos dispuesto a dejar enteramente en manos privadas.
 
-- **Banca y finanzas** — Maybank (el mayor banco del país, controlado a través de PNB), CIMB Group y RHB Bank están todos anclados en las GLIC. Una revisión de una década concluyó que las GLIC tenían al menos un 30% de participación accionaria en 46 empresas cotizadas, con los grandes bancos entre los de desempeño más constante.
+- **Banca y finanzas** — [Maybank](/es/companies/maybank) (el mayor banco del país, controlado a través de PNB), [CIMB Group](/es/companies/cimb) y RHB Bank están todos anclados en las GLIC. Una revisión de una década concluyó que las GLIC tenían al menos un 30% de participación accionaria en 46 empresas cotizadas, con los grandes bancos entre los de desempeño más constante.
 - **Servicios públicos y energía** — Tenaga Nasional gestiona la red nacional; Gas Malaysia y las unidades cotizadas vinculadas a Petronas cubren el gas y la petroquímica. Los servicios públicos están cerca de ser un monopolio natural del Estado, por lo que aquí la propiedad de las GLIC es la más profunda.
-- **Telecomunicaciones** — Telekom Malaysia (la operadora tradicional de línea fija y banda ancha) y el actor de centros de datos TIME dotCom conviven con participaciones de las GLIC en las operadoras móviles.
+- **Telecomunicaciones** — [Telekom Malaysia](/es/companies/telekom-malaysia) (la operadora tradicional de línea fija y banda ancha) y el actor de centros de datos TIME dotCom conviven con participaciones de las GLIC en las operadoras móviles.
 - **Plantaciones** — [Sime Darby](/companies/sime-darby-group) y Boustead Plantations sitúan al Estado en el centro de la economía del aceite de palma de Malasia.
 
 El patrón general es consistente: el control del Estado es más firme en la infraestructura y las finanzas, y más laxo en los sectores de cara al consumidor y de manufactura para la exportación, donde lideran las empresas privadas y extranjeras.

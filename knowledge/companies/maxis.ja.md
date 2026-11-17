@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b2828cf36c6fd07d"
+sourceContentHash: "50d792c288399ed7"
 
 status: "published"
 aiAssisted: true
@@ -117,7 +117,7 @@ Maxis は1990年代にさかのぼる。当時、マレーシアの実業家 **T
 
 ## 規模と意義
 
-Maxis は、マレーシアのモバイルと固定ブロードバンドのトラフィックの大半を相互に担う少数の事業者のひとつである。主要なライバルは [Axiata](/ja/companies/axiata)（そのマレーシアのモバイル事業は Digi と合併して CelcomDigi となった）、U Mobile、Telekom Malaysia である。モバイルの普及率が非常に高く、成長が主に統合バンドル——モバイル、家庭向けブロードバンド、デジタルサービスをまとめて販売すること——から生まれる市場において、家庭向け光ファイバーと法人向けへの Maxis の進出はその戦略の中心である。
+Maxis は、マレーシアのモバイルと固定ブロードバンドのトラフィックの大半を相互に担う少数の事業者のひとつである。主要なライバルは [Axiata](/ja/companies/axiata)（そのマレーシアのモバイル事業は Digi と合併して CelcomDigi となった）、U Mobile、[Telekom Malaysia](/ja/companies/telekom-malaysia) である。モバイルの普及率が非常に高く、成長が主に統合バンドル——モバイル、家庭向けブロードバンド、デジタルサービスをまとめて販売すること——から生まれる市場において、家庭向け光ファイバーと法人向けへの Maxis の進出はその戦略の中心である。
 
 Bursa Malaysia の大手の配当企業として、Maxis はマレーシアの機関投資家や年金基金にとっても重要な保有銘柄であり、そのことがその業績と規制上の立場に、通信部門そのものを超えた重みを与えている。
 

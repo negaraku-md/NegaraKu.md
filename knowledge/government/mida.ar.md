@@ -41,7 +41,7 @@ verificationNeeded:
   - "ما إذا كان IMFC-J الامتداد الإقليمي الوحيد لنموذج IMFC، أم أن مواقع IMFC إضافية قد افتُتحت منذ إعلان الحكومة عزمها توسيعه في 2026"
 
 lang: "ar"
-sourceContentHash: "e0c5ddbcc6a8b0ca"
+sourceContentHash: "9379d91bcd56a69d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -176,7 +176,7 @@ Committee on Investment, NCI)**، مع تولّي MIDA الاستلام والت
 في MIDA Sentral والعامل منذ **1 ديسمبر 2023**. وهو يجمع موظفين من الهيئة الماليزية
 للإيرادات الداخلية، ودائرة الهجرة، ودائرة الجمارك الملكية الماليزية، واللجنة
 الماليزية للاتصالات والوسائط المتعددة، ودائرة العمل بشبه جزيرة ماليزيا، وشركة
-Tenaga Nasional Berhad، وشركة Telekom Malaysia Berhad في موقع مادي واحد، كي تتحرّك
+[Tenaga Nasional Berhad](/ar/companies/tenaga-nasional)، وشركة [Telekom Malaysia](/ar/companies/telekom-malaysia) Berhad في موقع مادي واحد، كي تتحرّك
 الموافقات اللاحقة لمستثمر مُعتمَد دون رحلة منفصلة إلى كل وكالة. وقد افتُتح منذ ذلك
 الحين امتداد إقليمي، **IMFC-J**، لخدمة المستثمرين المتجهين إلى المنطقة الاقتصادية
 الخاصة جوهور–سنغافورة.

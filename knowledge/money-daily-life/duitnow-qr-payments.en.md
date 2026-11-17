@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1b31c1f5d1b3682f"
+sourceContentHash: "df04ec38e7fc7b1e"
 
 status: "published"
 aiAssisted: true
@@ -78,7 +78,7 @@ framework: explainer
 ---
 
 A night-market stall owner displays a single QR code. A customer using the
-Maybank app scans it. The next customer uses Touch 'n Go eWallet, scanning
+[Maybank](/en/companies/maybank) app scans it. The next customer uses Touch 'n Go eWallet, scanning
 the **same** QR code. Both payments land in the merchant's account within
 seconds. There is no separate QR code for each bank or e-wallet — that's
 DuitNow QR working quietly behind the scenes.

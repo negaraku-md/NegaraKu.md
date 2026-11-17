@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8327877494bab4c8"
+sourceContentHash: "169a6cb2d99ed6ac"
 
 status: "published"
 aiAssisted: true
@@ -88,7 +88,7 @@ framework: explainer
 
 **Bahasa Malaysia:** Berhad · **English:** Public Limited Company · **中文:** 大众有限公司
 
-マレーシアの企業名の末尾に「Bhd」を見かけるとき——マレーシア銀行（Maybank）のMalayan Banking Berhad、Public Bank Berhad、Tenaga Nasional Berhad——あなたが目にしているのは、見知らぬ人々に株式を売ることを許されている企業である。この一つの許可こそが、BerhadをはるかにありふれたSdn Bhdから分け隔てるものであり、Berhadがより重い規則のもとで運営される理由である。
+マレーシアの企業名の末尾に「Bhd」を見かけるとき——マレーシア銀行（[Maybank](/ja/companies/maybank)）のMalayan Banking Berhad、[Public Bank Berhad](/ja/companies/public-bank)、[Tenaga Nasional Berhad](/ja/companies/tenaga-nasional)——あなたが目にしているのは、見知らぬ人々に株式を売ることを許されている企業である。この一つの許可こそが、BerhadをはるかにありふれたSdn Bhdから分け隔てるものであり、Berhadがより重い規則のもとで運営される理由である。
 
 「Berhad」は単にマレー語で「有限」を意味する語である。これは、企業委員会（SSM）が所管する2016年会社法（Companies Act 2016、Act 777）のもとでの**公開有限会社**を示す。その私会社版の従兄弟と同様に、Berhadは財産を所有し、契約を締結し、訴え又は訴えられることができる別個の法人であり、その社員の責任はその保有する株式のうち未払込みの金額を上限とする。
 

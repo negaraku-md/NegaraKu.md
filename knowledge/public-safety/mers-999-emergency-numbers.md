@@ -75,7 +75,7 @@ Satu nombor — **999** — menghubungkan anda kepada lima agensi kecemasan Mala
 
 Panggilan anda masuk ke pusat gerakan **Malaysian Emergency Response Services (MERS 999)**, sebuah sistem bersepadu yang menggabungkan perkhidmatan kecemasan lima agensi di bawah satu nombor. Operator mengenal pasti jenis kecemasan, lokasi dan maklumat penting, kemudian menyalurkan panggilan serta data itu kepada agensi yang betul.
 
-Sistem ini dibina dengan teknologi computer-aided dispatch, sistem maklumat geografi (GIS), antara muka telefon-komputer, rakaman suara dan sistem pakar perubatan — supaya panggilan dikendalikan secara seragam merentas semua agensi. Panggilan ke 999 adalah **percuma** dan **direkod serta dijejak** bagi mencegah laporan palsu. MERS 999 dikendalikan menerusi kerjasama antara Kerajaan Malaysia dan Telekom Malaysia Berhad.
+Sistem ini dibina dengan teknologi computer-aided dispatch, sistem maklumat geografi (GIS), antara muka telefon-komputer, rakaman suara dan sistem pakar perubatan — supaya panggilan dikendalikan secara seragam merentas semua agensi. Panggilan ke 999 adalah **percuma** dan **direkod serta dijejak** bagi mencegah laporan palsu. MERS 999 dikendalikan menerusi kerjasama antara Kerajaan Malaysia dan [Telekom Malaysia](/companies/telekom-malaysia) Berhad.
 
 ## Agensi mana yang boleh dihubungi menerusi 999?
 

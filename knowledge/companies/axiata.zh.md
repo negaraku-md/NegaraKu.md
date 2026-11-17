@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "beccce94b3261d31"
+sourceContentHash: "b02d2bf50fe3eddc"
 
 status: "published"
 aiAssisted: true
@@ -91,7 +91,7 @@ Axiata Group Berhad 是一家总部设于马来西亚的区域电信与数码控
 
 ## 历史：从 TM International 到 Axiata
 
-Axiata 的根源在于前国家垄断企业内部。它于1992年6月12日注册成立为 **TM International Berhad**，是 [Telekom Malaysia](/zh/malaysia) 的国际与移动业务部门。在随后数年间，它在亚洲新兴市场各地累积了移动电话业务的股权，并于2008年在 Bursa Malaysia 单独上市。
+Axiata 的根源在于前国家垄断企业内部。它于1992年6月12日注册成立为 **TM International Berhad**，是 [Telekom Malaysia](/zh/companies/telekom-malaysia) 的国际与移动业务部门。在随后数年间，它在亚洲新兴市场各地累积了移动电话业务的股权，并于2008年在 Bursa Malaysia 单独上市。
 
 2009年4月2日，公司更名为 **Axiata Group Berhad**，标志着一个独立于其前母公司的身份，以及一个以区域移动增长、而非马来西亚固网渊源为中心的战略。此名称其后成为其数家运营商所采用的伞状品牌，例如 XL Axiata 与 Dialog Axiata。
 

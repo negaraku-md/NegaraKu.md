@@ -29,7 +29,7 @@ faq:
     a: "그렇습니다. SaveME 999 앱은 음성 통화뿐 아니라 영상·문자·멀티미디어 기반 긴급 경보를 지원하므로, 장애인도 999 상담원에게 연락할 수 있습니다."
 
 lang: "ko"
-sourceContentHash: "a2e869579c3095a1"
+sourceContentHash: "12fd6b175920e02e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -76,7 +76,7 @@ framework: profile
 
 당신의 통화는 **Malaysian Emergency Response Services(MERS 999)** 상황실로 들어갑니다. 이는 5개 기관의 긴급 서비스를 하나의 번호 아래 결합한 통합 시스템입니다. 상담원이 긴급 상황의 유형, 위치 및 중요 정보를 파악한 뒤, 통화와 그 데이터를 올바른 기관으로 연결합니다.
 
-이 시스템은 컴퓨터 지원 배차(computer-aided dispatch), 지리정보시스템(GIS), 전화-컴퓨터 인터페이스, 음성 녹음 및 의료 전문가 시스템 기술로 구축되어, 모든 기관에서 통화가 일관되게 처리되도록 합니다. 999 통화는 **무료**이며, 허위 신고를 방지하기 위해 **녹음 및 추적**됩니다. MERS 999는 말레이시아 정부와 Telekom Malaysia Berhad의 협력을 통해 운영됩니다.
+이 시스템은 컴퓨터 지원 배차(computer-aided dispatch), 지리정보시스템(GIS), 전화-컴퓨터 인터페이스, 음성 녹음 및 의료 전문가 시스템 기술로 구축되어, 모든 기관에서 통화가 일관되게 처리되도록 합니다. 999 통화는 **무료**이며, 허위 신고를 방지하기 위해 **녹음 및 추적**됩니다. MERS 999는 말레이시아 정부와 [Telekom Malaysia](/ko/companies/telekom-malaysia) Berhad의 협력을 통해 운영됩니다.
 
 ## 999를 통해 어떤 기관에 연락할 수 있습니까?
 

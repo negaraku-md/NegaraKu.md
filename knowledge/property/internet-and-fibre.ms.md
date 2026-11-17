@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Sesiapa sahaja yang menyewa, membeli atau berpindah masuk ke sebuah rumah di Malaysia yang perlu menyambungkan jalur lebar tetap."
 
 lang: "ms"
-sourceContentHash: "19befa5847e8b8f0"
+sourceContentHash: "bbd067458507d9b6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,7 +86,7 @@ berjuta-juta premis di seluruh negara serta meluaskan liputan berkeupayaan
 gigabit — usaha yang dibina di atas rangkaian tulang belakang Jalur Lebar
 Berkelajuan Tinggi (High Speed Broadband, HSBB) sedia ada negara ini.
 
-Rangkaian tulang belakang itu dimiliki oleh **Telekom Malaysia (TM)**, sebab
+Rangkaian tulang belakang itu dimiliki oleh **[Telekom Malaysia](/ms/companies/telekom-malaysia) (TM)**, sebab
 itulah **Unifi** cenderung mempunyai capaian paling luas berbanding mana-mana
 jenama tunggal yang lain, termasuk di bandar-bandar kecil dan pinggir bandar
 di mana ISP lain belum membina rangkaiannya. Tetapi "luas" bukan bermakna "di

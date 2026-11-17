@@ -34,7 +34,7 @@ faq:
     a: "Tiga biaya dikenakan pada baik pembelian maupun penjualan: komisi broker (ditetapkan oleh broker Anda), biaya kliring 0.03% dari nilai transaksi dibatasi pada RM1,000, dan bea meterai RM1 untuk setiap RM1,000 (atau sebagian darinya) nilai, dibatasi pada RM1,000. Brokerase saham yang tercatat di Bursa Malaysia saat ini dikecualikan dari pajak layanan."
 
 lang: "id"
-sourceContentHash: "2aa2d9243406a229"
+sourceContentHash: "17c8242447ac4a60"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,7 +97,7 @@ keywords: ["CDS account", "Bursa Anywhere", "stockbroker Malaysia", "how to buy 
 framework: how-to
 ---
 
-Memiliki sebagian kecil dari Maybank atau Tenaga dimulai dengan dua akun, bukan satu — dan keduanya bukan akun bank. Sebelum Anda dapat membeli satu saham pun di Bursa Malaysia, Anda memerlukan tempat untuk *menyimpan* saham dan tempat untuk *membuat pesanan*. Berikut adalah cara keduanya berpadu, dan berapa sebenarnya biaya setiap transaksi.
+Memiliki sebagian kecil dari [Maybank](/id/companies/maybank) atau Tenaga dimulai dengan dua akun, bukan satu — dan keduanya bukan akun bank. Sebelum Anda dapat membeli satu saham pun di Bursa Malaysia, Anda memerlukan tempat untuk *menyimpan* saham dan tempat untuk *membuat pesanan*. Berikut adalah cara keduanya berpadu, dan berapa sebenarnya biaya setiap transaksi.
 
 ## Apa sebenarnya yang saya perlukan untuk memulai?
 

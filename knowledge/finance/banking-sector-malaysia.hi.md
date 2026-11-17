@@ -34,7 +34,7 @@ faq:
     a: "नहीं। निर्धारित विकास वित्तीय संस्थान विकास वित्तीय संस्थान अधिनियम 2002 के तहत विनियमित होते हैं और Bank Negara Malaysia की निगरानी में रहते हैं, जो FSA और IFSA से एक अलग व्यवस्था है।"
 
 lang: "hi"
-sourceContentHash: "a9fc5401e6cabfb3"
+sourceContentHash: "acfcc6c1e869263e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -128,7 +128,7 @@ framework: profile
 
 **वाणिज्यिक बैंक** रोज़मर्रा के कार्यकर्ता-घोड़े हैं। वे जमा लेते हैं, परिवारों और कंपनियों को ऋण देते हैं, व्यापार वित्त और ट्रेज़री डेस्क चलाते हैं, और वे शाखा एवं कार्ड नेटवर्क संचालित करते हैं जिनसे अधिकांश लोग संपर्क करते हैं। 24 लाइसेंसधारी घरेलू रूप से निगमित बैंकों और विदेशी बैंकों की स्थानीय रूप से निगमित सहायक कंपनियों का मिश्रण हैं — बाद वाले में Citibank Berhad, HSBC Bank Malaysia Berhad, Standard Chartered Bank Malaysia Berhad, Deutsche Bank (Malaysia) Berhad, MUFG Bank (Malaysia) Berhad और Bank of China (Malaysia) Berhad जैसे नाम शामिल हैं।
 
-**निवेश बैंक** संकीर्ण और अधिक विशेषीकृत हैं। 10 लाइसेंसधारी — जिनमें Maybank Investment Bank, CIMB Investment Bank, AmInvestment Bank, Affin Hwang Investment Bank और MBSB Investment Bank शामिल हैं — कॉर्पोरेट सलाह, पूँजी बाज़ारों में ऋण और इक्विटी जुटाने, और संरचित वित्त पर केंद्रित हैं। वे खुदरा जमा के पीछे वैसे नहीं भागते जैसे वाणिज्यिक बैंक भागते हैं।
+**निवेश बैंक** संकीर्ण और अधिक विशेषीकृत हैं। 10 लाइसेंसधारी — जिनमें [Maybank](/hi/companies/maybank) Investment Bank, CIMB Investment Bank, AmInvestment Bank, Affin Hwang Investment Bank और MBSB Investment Bank शामिल हैं — कॉर्पोरेट सलाह, पूँजी बाज़ारों में ऋण और इक्विटी जुटाने, और संरचित वित्त पर केंद्रित हैं। वे खुदरा जमा के पीछे वैसे नहीं भागते जैसे वाणिज्यिक बैंक भागते हैं।
 
 दोनों श्रेणियाँ एक ही कानून, FSA 2013 के तहत लाइसेंस पाती हैं। इनमें से कई, दोनों पक्षों में, **इस्लामी बैंकिंग विंडो** भी चलाते हैं — अनुमोदित शाखाएँ जो पारंपरिक व्यवसाय के साथ-साथ शरीयत-अनुपालक उत्पाद प्रदान करती हैं।
 
