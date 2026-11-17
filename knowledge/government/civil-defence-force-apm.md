@@ -6,6 +6,7 @@ socialTitle: "The uniformed volunteers who show up first when Malaysia floods �
 slug: "civil-defence-force-apm"
 category: "government"
 subcategory: ["agencies"]
+alsoIn: ["public-safety"]
 summary: "The Malaysia Civil Defence Force (Angkatan Pertahanan Awam Malaysia, APM) is the federal uniformed agency for civil defence and disaster response — floods, search-and-rescue, humanitarian relief and public-event safety — governed by the Civil Defence Act 1951 and built around a large volunteer base."
 tier: "3"
 mode: "practical"

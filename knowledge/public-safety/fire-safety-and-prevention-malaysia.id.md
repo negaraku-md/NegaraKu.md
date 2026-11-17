@@ -32,7 +32,7 @@ faq:
     a: "Masalah terkait listrik termasuk yang tertinggi bagi kebakaran hunian — pengabelan rusak, soket kelebihan beban, dan kabel sambungan aus. Aktivitas memasak yang ditinggalkan tanpa pengawasan dan kebocoran gas LPG turut menjadi penyumbang utama."
 
 lang: "id"
-sourceContentHash: "9ccf45c843ab8ebf"
+sourceContentHash: "79047fcc2133d661"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,7 +73,7 @@ keywords: ["keselamatan kebakaran", "pencegahan kebakaran", "perakuan bomba", "f
 framework: explainer
 ---
 
-Api tidak memberi peringatan. Dalam hitungan menit, satu percikan dari soket kelebihan beban atau wajan yang ditinggalkan dapat meratakan sebuah rumah — dan pada 2025 saja, [Jabatan Bomba dan Penyelamat Malaysia](/id/public-safety/fire-and-rescue-department-bomba) (JBPM) mencatat 16,111 kasus kebakaran dengan 98 kematian dan kerugian harta benda diperkirakan RM2.09 miliar. Kabar baiknya: hampir semuanya dapat dicegah, baik di ruang tamu Anda maupun di lantai pabrik.
+Api tidak memberi peringatan. Dalam hitungan menit, satu percikan dari soket kelebihan beban atau wajan yang ditinggalkan dapat meratakan sebuah rumah — dan pada 2025 saja, [Jabatan Bomba dan Penyelamat Malaysia](/id/government/fire-and-rescue-department-bomba) (JBPM) mencatat 16,111 kasus kebakaran dengan 98 kematian dan kerugian harta benda diperkirakan RM2.09 miliar. Kabar baiknya: hampir semuanya dapat dicegah, baik di ruang tamu Anda maupun di lantai pabrik.
 
 Panduan ini menggabungkan dua hal yang biasanya dibahas secara terpisah — praktik pencegahan kebakaran di rumah, dan kewajiban kepatuhan (khususnya Perakuan Bomba) bagi bangunan serta bisnis.
 

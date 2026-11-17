@@ -35,7 +35,11 @@ sourceContentHash: "abdab84b2d95cdb5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate of government/fire-and-rescue-department-bomba (same agency, BOMBA/JBPM); kept the newer, fuller en-master."
+requestedBy: "ashton-tan"
+supersededBy: "/government/fire-and-rescue-department-bomba"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
@@ -51,7 +55,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-17
 sources:
   - title: "Đạo luật Dịch vụ Cứu hỏa 1988 (Act 341), các mục 3(3), 5, 7, 19 (Fire Services Act 1988 (Act 341), ss.3(3), 5, 7, 19)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20341.pdf"

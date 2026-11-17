@@ -78,7 +78,7 @@ relations:
   - { rel: "related-to", to: "three-tiers-of-government" }
   - { rel: "related-to", to: "federal-state-division" }
   - { rel: "related-to", to: "state-assemblies-dun" }
-related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission", "local-government-in-malaysia"]
+related: ["local-councils", "three-tiers-of-government", "federal-state-division", "state-assemblies-dun", "spr-election-commission", "local-government-in-malaysia"]
 keywords: ["Pihak Berkuasa Tempatan", "PBT", "kerajaan tempatan", "Akta Kerajaan Tempatan 1976", "Akta 171", "Majlis Bandaraya", "Majlis Perbandaran", "Majlis Daerah", "Datuk Bandar", "Yang Dipertua", "ahli majlis", "pilihan raya kerajaan tempatan", "Athi Nahappan", "KPKT"]
 framework: profile
 ---

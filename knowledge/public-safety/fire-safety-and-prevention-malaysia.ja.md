@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "9ccf45c843ab8ebf"
+sourceContentHash: "79047fcc2133d661"
 
 status: "published"
 aiAssisted: true
@@ -73,7 +73,7 @@ keywords: ["keselamatan kebakaran", "pencegahan kebakaran", "perakuan bomba", "f
 framework: explainer
 ---
 
-火は警告してくれない。数分のうちに、過負荷のコンセントから飛んだ一つの火花や、放置された鍋が一軒の家をなぎ倒しうる——2025年だけでも、[マレーシア消防救助局](/public-safety/fire-and-rescue-department-bomba)（JBPM）は16,111件の火災を記録し、98人が死亡、財産損失は推定20.9億リンギットに達した。良い知らせは、そのほとんどが予防できるということだ。あなたの居間であれ、工場の現場であれ。
+火は警告してくれない。数分のうちに、過負荷のコンセントから飛んだ一つの火花や、放置された鍋が一軒の家をなぎ倒しうる——2025年だけでも、[マレーシア消防救助局](/government/fire-and-rescue-department-bomba)（JBPM）は16,111件の火災を記録し、98人が死亡、財産損失は推定20.9億リンギットに達した。良い知らせは、そのほとんどが予防できるということだ。あなたの居間であれ、工場の現場であれ。
 
 本ガイドは、通常は別々に論じられる二つの事柄——家庭での火災予防の実践と、建物・事業者の遵守義務（とりわけ消防証明書）——を一つに結びつける。
 

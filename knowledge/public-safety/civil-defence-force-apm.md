@@ -33,7 +33,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate of government/civil-defence-force-apm (same agency, APM); kept the newer, fuller en-master."
+requestedBy: "ashton-tan"
+supersededBy: "/government/civil-defence-force-apm"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
@@ -49,7 +53,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-17
 sources:
   - title: "Peranan Angkatan Pertahanan Awam (APM)"
     url: "https://www.malaysia.gov.my/my/categories/keselamatan--komuniti/keselamatan-awam/peranan-angkatan-pertahanan-awam-apm"

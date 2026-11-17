@@ -72,7 +72,7 @@ keywords: ["keselamatan kebakaran", "pencegahan kebakaran", "perakuan bomba", "f
 framework: explainer
 ---
 
-Api tidak memberi amaran. Dalam masa beberapa minit, satu percikan dari soket terlebih beban atau kuali yang ditinggalkan boleh meratakan sebuah rumah — dan pada 2025 sahaja, [Jabatan Bomba dan Penyelamat Malaysia](/public-safety/fire-and-rescue-department-bomba) (JBPM) merekodkan 16,111 kes kebakaran dengan 98 kematian dan kerugian harta benda dianggarkan RM2.09 bilion. Berita baiknya: hampir kesemuanya boleh dicegah, sama ada di ruang tamu anda atau di lantai kilang.
+Api tidak memberi amaran. Dalam masa beberapa minit, satu percikan dari soket terlebih beban atau kuali yang ditinggalkan boleh meratakan sebuah rumah — dan pada 2025 sahaja, [Jabatan Bomba dan Penyelamat Malaysia](/government/fire-and-rescue-department-bomba) (JBPM) merekodkan 16,111 kes kebakaran dengan 98 kematian dan kerugian harta benda dianggarkan RM2.09 bilion. Berita baiknya: hampir kesemuanya boleh dicegah, sama ada di ruang tamu anda atau di lantai kilang.
 
 Panduan ini menggabungkan dua perkara yang selalunya dibincangkan secara berasingan — amalan pencegahan kebakaran di rumah, dan kewajipan pematuhan (khususnya Perakuan Bomba) bagi bangunan serta perniagaan.
 

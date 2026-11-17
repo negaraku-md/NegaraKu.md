@@ -32,7 +32,7 @@ faq:
     a: "Các vấn đề liên quan đến điện thuộc số cao nhất đối với cháy nhà ở — dây điện hỏng, ổ cắm quá tải và dây nối bị mòn. Hoạt động nấu ăn bị bỏ mặc không giám sát và rò rỉ khí LPG cũng là những tác nhân chính."
 
 lang: "vi"
-sourceContentHash: "9ccf45c843ab8ebf"
+sourceContentHash: "79047fcc2133d661"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,7 +73,7 @@ keywords: ["keselamatan kebakaran", "pencegahan kebakaran", "perakuan bomba", "f
 framework: explainer
 ---
 
-Lửa không cảnh báo. Chỉ trong vài phút, một tia lửa từ ổ cắm quá tải hoặc một chiếc chảo bị bỏ mặc có thể san bằng một ngôi nhà — và chỉ riêng năm 2025, [Cục Cứu hỏa và Cứu nạn Malaysia](/vi/public-safety/fire-and-rescue-department-bomba) (JBPM) đã ghi nhận 16,111 vụ cháy với 98 ca tử vong và thiệt hại tài sản ước tính RM2.09 tỷ. Tin tốt là: gần như tất cả đều có thể được ngăn ngừa, dù ở phòng khách của bạn hay trên sàn nhà máy.
+Lửa không cảnh báo. Chỉ trong vài phút, một tia lửa từ ổ cắm quá tải hoặc một chiếc chảo bị bỏ mặc có thể san bằng một ngôi nhà — và chỉ riêng năm 2025, [Cục Cứu hỏa và Cứu nạn Malaysia](/vi/government/fire-and-rescue-department-bomba) (JBPM) đã ghi nhận 16,111 vụ cháy với 98 ca tử vong và thiệt hại tài sản ước tính RM2.09 tỷ. Tin tốt là: gần như tất cả đều có thể được ngăn ngừa, dù ở phòng khách của bạn hay trên sàn nhà máy.
 
 Hướng dẫn này kết hợp hai điều thường được bàn riêng — các thực hành phòng cháy tại nhà, và các nghĩa vụ tuân thủ (đặc biệt là Giấy chứng nhận Cháy) đối với các tòa nhà cùng doanh nghiệp.
 

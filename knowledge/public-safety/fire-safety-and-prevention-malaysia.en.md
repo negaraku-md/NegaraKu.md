@@ -32,7 +32,7 @@ faq:
     a: "Electrical-related problems are among the highest for residential fires — faulty wiring, overloaded sockets and worn extension cords. Cooking left unattended and LPG gas leaks are also major contributors."
 
 lang: "en"
-sourceContentHash: "9ccf45c843ab8ebf"
+sourceContentHash: "79047fcc2133d661"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,7 +73,7 @@ keywords: ["keselamatan kebakaran", "pencegahan kebakaran", "perakuan bomba", "f
 framework: explainer
 ---
 
-Fire gives no warning. In a matter of minutes, a spark from an overloaded socket or an abandoned frying pan can level a house — and in 2025 alone, the [Fire and Rescue Department of Malaysia](/public-safety/fire-and-rescue-department-bomba) (JBPM) recorded 16,111 fire cases with 98 deaths and estimated property losses of RM2.09 billion. The good news: almost all of them are preventable, whether in your living room or on the factory floor.
+Fire gives no warning. In a matter of minutes, a spark from an overloaded socket or an abandoned frying pan can level a house — and in 2025 alone, the [Fire and Rescue Department of Malaysia](/government/fire-and-rescue-department-bomba) (JBPM) recorded 16,111 fire cases with 98 deaths and estimated property losses of RM2.09 billion. The good news: almost all of them are preventable, whether in your living room or on the factory floor.
 
 This guide brings together two things that are usually discussed separately — home fire-prevention practices, and compliance obligations (specifically the Fire Certificate) for buildings and businesses.
 

@@ -6,6 +6,7 @@ socialTitle: "The agency behind 'Bomba' — how Malaysia's fire and rescue servi
 slug: "fire-and-rescue-department-bomba"
 category: "government"
 subcategory: ["agencies"]
+alsoIn: ["public-safety"]
 summary: "The Fire and Rescue Department of Malaysia (Jabatan Bomba dan Penyelamat Malaysia, JBPM — known universally as BOMBA) is the federal agency under the Ministry of Housing and Local Government responsible for firefighting, rescue, hazardous-material response and fire-safety enforcement, reached in an emergency on 999."
 tier: "3"
 mode: "practical"

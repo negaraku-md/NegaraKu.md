@@ -32,7 +32,7 @@ faq:
     a: "Les problèmes liés à l'électricité figurent parmi les plus fréquents dans les incendies résidentiels — installations défectueuses, prises surchargées et rallonges usées. Laisser la cuisine sans surveillance et les fuites de gaz GPL sont également des causes importantes."
 
 lang: "fr"
-sourceContentHash: "9ccf45c843ab8ebf"
+sourceContentHash: "79047fcc2133d661"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,7 +75,7 @@ framework: explainer
 
 Le feu ne prévient pas. En quelques minutes, une étincelle d'une prise
 surchargée ou une poêle abandonnée peut ravager une maison — et rien qu'en
-2025, le [Département des pompiers et du secours de Malaisie](/public-safety/fire-and-rescue-department-bomba) (JBPM) a enregistré 16,111 cas d'incendie avec 98 décès et des pertes matérielles estimées à RM2.09 milliards. La bonne nouvelle : la quasi-totalité d'entre eux sont évitables, que ce soit dans votre salon ou dans l'atelier d'une usine.
+2025, le [Département des pompiers et du secours de Malaisie](/government/fire-and-rescue-department-bomba) (JBPM) a enregistré 16,111 cas d'incendie avec 98 décès et des pertes matérielles estimées à RM2.09 milliards. La bonne nouvelle : la quasi-totalité d'entre eux sont évitables, que ce soit dans votre salon ou dans l'atelier d'une usine.
 
 Ce guide réunit deux choses habituellement traitées séparément — les pratiques
 de prévention des incendies à la maison et les obligations de conformité (en

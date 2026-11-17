@@ -32,7 +32,7 @@ faq:
     a: "전기 관련 문제가 주거 화재에서 가장 흔한 원인 중 하나입니다 — 손상된 배선, 과부하된 콘센트, 마모된 연장 케이블. 감독 없이 방치된 조리와 LPG 가스 누출도 주요 원인입니다."
 
 lang: "ko"
-sourceContentHash: "9ccf45c843ab8ebf"
+sourceContentHash: "79047fcc2133d661"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,7 +73,7 @@ keywords: ["keselamatan kebakaran", "pencegahan kebakaran", "perakuan bomba", "f
 framework: explainer
 ---
 
-불은 경고하지 않습니다. 단 몇 분 만에 과부하된 콘센트에서 튄 불꽃이나 방치된 냄비가 집을 잿더미로 만들 수 있으며 — 2025년 한 해에만 [말레이시아 소방구조청](/public-safety/fire-and-rescue-department-bomba)(JBPM)은 98명의 사망과 RM2.09십억으로 추정되는 재산 손실을 동반한 16,111건의 화재 사건을 기록했습니다. 다행인 것은 거의 모두가 예방할 수 있다는 점입니다 — 거실에서든 공장 바닥에서든.
+불은 경고하지 않습니다. 단 몇 분 만에 과부하된 콘센트에서 튄 불꽃이나 방치된 냄비가 집을 잿더미로 만들 수 있으며 — 2025년 한 해에만 [말레이시아 소방구조청](/government/fire-and-rescue-department-bomba)(JBPM)은 98명의 사망과 RM2.09십억으로 추정되는 재산 손실을 동반한 16,111건의 화재 사건을 기록했습니다. 다행인 것은 거의 모두가 예방할 수 있다는 점입니다 — 거실에서든 공장 바닥에서든.
 
 이 안내서는 흔히 따로 다루어지는 두 가지 — 가정의 화재 예방 관행과 건물 및 사업장의 준수 의무(특히 소방증명서) — 를 결합합니다.
 

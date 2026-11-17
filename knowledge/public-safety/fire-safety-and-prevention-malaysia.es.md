@@ -32,7 +32,7 @@ faq:
     a: "Los problemas relacionados con la electricidad están entre los más frecuentes en los incendios residenciales — instalaciones defectuosas, enchufes sobrecargados y alargadores desgastados. Dejar la cocina sin vigilancia y las fugas de gas LPG también son causas importantes."
 
 lang: "es"
-sourceContentHash: "9ccf45c843ab8ebf"
+sourceContentHash: "79047fcc2133d661"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,7 +75,7 @@ framework: explainer
 
 El fuego no avisa. En cuestión de minutos, una chispa de un enchufe
 sobrecargado o una sartén abandonada puede arrasar una casa — y solo en 2025,
-el [Departamento de Bomberos y Rescate de Malasia](/public-safety/fire-and-rescue-department-bomba) (JBPM) registró 16.111 casos de incendio con 98 muertes y pérdidas materiales estimadas en RM2.09 mil millones. La buena noticia: casi todos son evitables, ya sea en su sala de estar o en el taller de una fábrica.
+el [Departamento de Bomberos y Rescate de Malasia](/government/fire-and-rescue-department-bomba) (JBPM) registró 16.111 casos de incendio con 98 muertes y pérdidas materiales estimadas en RM2.09 mil millones. La buena noticia: casi todos son evitables, ya sea en su sala de estar o en el taller de una fábrica.
 
 Esta guía reúne dos cosas que normalmente se tratan por separado — las
 prácticas de prevención de incendios en el hogar y las obligaciones de
