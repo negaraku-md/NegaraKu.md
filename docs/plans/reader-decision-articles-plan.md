@@ -92,10 +92,18 @@ answered well enough.**
 - **#6 deferred (not a new page):** "Announced→In Force" is substantially covered by `law/how-a-bill-becomes-law`
   (Art 66(4)/(4A)/(5) + Interpretation Acts s.19(1)); its only distinct value is the policy-announcement-vs-law
   angle → fold into that article later, don't duplicate.
-- **NEXT (the remaining ~28 of the 36):** the Understand (open-house, income-figures, inflation-feel, state-move),
-  Living (ACCA/CIMA routes, deposit-dispute, clinic-to-specialist referral, wheelchair rail), Business (monthly
-  management accounts, share transfer, first employee, employee-offboarding) and EDP (belacan/cincalok/budu,
-  Putrajaya gentle day, Kota Bharu food, buying batik) clusters — each needs a dup-check then the method below.
+- **TRANCHE 2 — 2026-11-17 (continuation, 13 langs each):**
+  - **SHIPPED LIVE (7):**
+    - `food-lifestyle/belacan-cincalok-budu` (MY-FDL-0109) — `ac15a562f` (cincalok uncovered; belacan/budu cross-linked)
+    - `tourism/a-gentler-day-out-in-putrajaya` (MY-TOU-0028) — `a592534bc` (car-oriented/one-cluster; rail lands at Putrajaya Sentral)
+    - `states/what-changes-when-you-move-between-states` (MY-STA-0028, **sensitivity religion**, reviewer ashton-tan) — `1f0fc86f8` (federal-follows-you vs state/local; Sabah/Sarawak MA63 immigration step)
+    - `healthcare/from-clinic-to-specialist-referral` (MY-LIV-0906, **sensitivity health**, reviewer ashton-tan) — `1821f94dd` (public gatekept/surat rujukan vs private GL; process-only, zero medical advice)
+    - `transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail` (MY-LIV-0907) — `8befd2653` (by-design vs confirmed-today; mode choice; interchanges = weak point)
+    - `education/degree-plus-acca-or-cima-accounting-study-routes` (MY-LIV-0908) — `cdacb890c` (MIA/Accountants Act 1967 anchor; ACCA vs CIMA; vendor-neutral)
+    - `accounting/your-first-monthly-management-accounts` (MY-ACC-0037) — `9e3e9ea06` (mgmt vs statutory vs tax; profit≠cash; no ratio thresholds)
+  - **IN PIPELINE (2):** `technology/when-an-employee-leaves-operational-handover` (MY-TEC-0017, operational twin of offboarding-statutory-checklist; PDPA Act 709 hedged; WhatsApp-on-personal-number problem) — fanning out; `property/landlord-has-not-returned-the-deposit` (MY-LIV-0909, no RTA/no deposit scheme; Contracts Act 1950; evidence+escalation ladder) — master validated, queued.
+  - **DEFERRED as covered (dup-check):** batik buyer's guide (`arts-culture/batik` already has the genuine-vs-printed test), share transfer (`company-secretary/share-transfer` tier-1), Kota Bharu food (`food-lifestyle/kelantan-food`).
+  - **STILL OPEN from the 36:** Understand (open-house → likely fold into `arts-culture/open-house`; income-figures → fold into `minimum-wage-and-median-income`/`b40-m40-t20`; inflation-feel → verify vs `cost-of-living/inflation-cpi`); Business first-employee JOURNEY (lower-priority expand vs `new-hire-statutory-checklist`+payroll). Each needs a dup-check then the method below.
 - **METHOD (proven this session, reuse):** research agent (sourced, shape-only, hedged, flags → scratchpad/research-<topic>.md)
   → draft en master to the article standard (framework from the canonical 8; sensitivity; verificationNeeded for soft points)
   → gate master (js-yaml + validate + check-internal-links --strict) → 12 per-language agents (full-article translation,
